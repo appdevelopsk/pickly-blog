@@ -1,0 +1,185 @@
+{
+  "site": {
+    "name": "Pickly",
+    "footerTagline": "Reviews selecionados em 17 idiomas."
+  },
+  "nav": {
+    "articles": "Artigos",
+    "about": "Sobre",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "contact": "Contato",
+    "disclosure": "Aviso de afiliados"
+  },
+  "home": {
+    "heading": "Reviews honestos, sem enrolação.",
+    "subheading": "Comparativos e guias de compra escolhidos por gente, escritos para gente.",
+    "empty": "Os artigos estão sendo preparados. Volte em breve."
+  },
+  "category": {
+    "tech": "Tecnologia",
+    "home": "Casa",
+    "beauty": "Beleza",
+    "fashion": "Moda",
+    "fitness": "Fitness",
+    "food": "Cozinha",
+    "finance": "Finanças",
+    "travel": "Viagens",
+    "parenting": "Maternidade",
+    "pets": "Pets"
+  },
+  "article": {
+    "publishedAt": "Publicado em {date}",
+    "updatedAt": "Atualizado em {date}",
+    "rankingHeading": "Nossas escolhas",
+    "offersHeading": "Onde comprar",
+    "faqHeading": "Perguntas frequentes"
+  },
+  "offer": {
+    "defaultCta": "Ver oferta",
+    "disclosureBadge": "Pub",
+    "pending": "Em breve",
+    "regionFallback": "Em breve",
+    "searchOnAmazon": "Amazon"
+  },
+  "legal": {
+    "disclosure": {
+      "heading": "Aviso de afiliados",
+      "body1": "O Pickly participa de programas de afiliados como Amazon Associates, ShareASale, CJ e Impact. Quando você clica em um link com o selo «Pub» ou atributo rel=\"sponsored\" e finaliza uma compra, podemos receber uma comissão, sem custo adicional para você.",
+      "body2": "As recomendações editoriais são independentes. Não aceitamos pagamento por destaque, e produtos que não podemos recomendar com sinceridade ficam de fora, mesmo que a comissão seja alta.",
+      "body3": "Em caso de dúvida sobre uma recomendação específica, fale com a gente pela página de contato."
+    },
+    "lastUpdatedLabel": "Última atualização: {date}",
+    "about": {
+      "heading": "Sobre o Pickly",
+      "lede": "Testamos produtos, comparamos com honestidade e levamos o resultado a 17 idiomas.",
+      "sections": [
+        {
+          "heading": "Quem está por trás",
+          "paragraphs": [
+            "Pickly é um projeto editorial independente. As reviews são escritas por pessoas. Usamos IA para traduzir o resultado em 17 idiomas, mas o julgamento, os testes e a ordenação vêm de gente — não de algoritmos.",
+            "Operamos a partir do Japão como publicação na forma de empresa individual. As informações do operador estão registradas no registrador do domínio; para contato direto, use o email da página de contato."
+          ]
+        },
+        {
+          "heading": "Como ganhamos dinheiro",
+          "paragraphs": [
+            "Recebemos comissões de afiliados quando o leitor clica em um link marcado e finaliza a compra. As taxas variam por parceiro e nunca influenciam a ordem. Posição no Pickly não está à venda.",
+            "Podemos exibir anúncios contextuais nas páginas de artigos. Páginas legais, de contato e a home não trazem anúncios."
+          ]
+        },
+        {
+          "heading": "Padrões editoriais",
+          "paragraphs": [
+            "Todo produto recomendado foi testado diretamente ou avaliado com base em especificações oficiais, benchmarks independentes e relatos de usuários verificados. Produtos que não podemos recomendar com honestidade ficam fora, independentemente da comissão.",
+            "Listamos pelo menos um ponto fraco para cada produto. Não existe produto perfeito, e review que diz que existe não é review."
+          ]
+        },
+        {
+          "heading": "Idiomas",
+          "paragraphs": [
+            "Os artigos são escritos primeiro em inglês e adaptados para japonês, espanhol, português (BR), francês, alemão, italiano, russo, árabe, chinês (simplificado e tradicional), coreano, hindi, indonésio, tailandês, vietnamita e turco. Exemplos locais, preços e expressões idiomáticas são ajustados em cada idioma — não é tradução automática crua."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "heading": "Política de Privacidade",
+      "lastUpdated": "2026-05-07",
+      "sections": [
+        {
+          "heading": "O que coletamos",
+          "paragraphs": [
+            "Quando você visita o Pickly, nosso provedor de hospedagem e CDN (Cloudflare) registram automaticamente seu IP, tipo de navegador, página de referência e timestamps. São logs de servidor padrão, usados para segurança, prevenção a abusos e análise agregada de tráfego.",
+            "Não exigimos cadastro e não coletamos dados pessoais por formulário. Se você escrever para contact@pickly.blog, sua mensagem e e-mail são guardados como parte da correspondência normal."
+          ]
+        },
+        {
+          "heading": "Cookies e analytics",
+          "paragraphs": [
+            "Podemos usar analytics respeitosos da privacidade como o Cloudflare Web Analytics, que não usa cookies de terceiros e não rastreia entre sites. Se adotarmos novas ferramentas, atualizaremos esta política e pediremos consentimento onde a lei exigir.",
+            "Os links de afiliados passam parâmetros de rastreamento (tag, clickref) aos parceiros. O parceiro pode definir seus próprios cookies sob a política dele. Recebemos apenas relatórios agregados, não dados pessoais."
+          ]
+        },
+        {
+          "heading": "Terceiros",
+          "paragraphs": [
+            "As redes de afiliados em que participamos incluem Amazon Associates, A8.net, Moshimo, ValueCommerce, Rakuten Affiliate, ShareASale, CJ Affiliate, Impact e Awin. Cada uma com sua própria política.",
+            "O Pinterest, principal porta de entrada de muitos leitores, tem sua própria analítica e controles. Não embedamos pixels de rastreamento do Pinterest no Pickly."
+          ]
+        },
+        {
+          "heading": "Seus direitos (GDPR, CCPA, LGPD)",
+          "paragraphs": [
+            "Se você estiver na UE, Reino Unido, Califórnia ou Brasil, tem direito a acessar, corrigir ou apagar dados pessoais que tenhamos, e de optar por não compartilhar em certos casos. Para exercer escreva para contact@pickly.blog. Respondemos pedidos verificáveis em até 30 dias.",
+            "Não vendemos dados pessoais. Não coletamos intencionalmente dados de menores de 16 anos."
+          ]
+        },
+        {
+          "heading": "Retenção",
+          "paragraphs": [
+            "Logs de servidor são retidos por até 90 dias. Correspondência por e-mail é retida por até 3 anos para fins de suporte e depois excluída."
+          ]
+        },
+        {
+          "heading": "Atualizações",
+          "paragraphs": [
+            "Podemos atualizar esta política. A data de «última atualização» reflete a alteração mais recente. Mudanças relevantes serão destacadas na home por pelo menos 14 dias."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "heading": "Termos de Serviço",
+      "lastUpdated": "2026-05-07",
+      "sections": [
+        {
+          "heading": "Aceitação",
+          "paragraphs": [
+            "Ao acessar pickly.blog, você concorda com estes termos. Se não concordar, por favor não use o site."
+          ]
+        },
+        {
+          "heading": "Uso do conteúdo",
+          "paragraphs": [
+            "Salvo indicação contrária, textos, layout e código no Pickly são nossos. Você pode citar até 200 palavras com crédito e link de retorno. Republicação integral de artigos sem autorização não é permitida.",
+            "Marcas e nomes de produtos pertencem aos respectivos titulares e aparecem aqui sob uso justo para fins de review e comparação."
+          ]
+        },
+        {
+          "heading": "Aviso de afiliados",
+          "paragraphs": [
+            "O Pickly recebe comissões por compras qualificadas via links marcados. O aviso completo está na página de divulgação. Recomendações editoriais são independentes; o tamanho da comissão não influencia o ranking."
+          ]
+        },
+        {
+          "heading": "Isenção",
+          "paragraphs": [
+            "As informações no Pickly são fornecidas «como estão» para fins informativos gerais. Fazemos o possível para manter fatos e preços corretos, mas não garantimos integralidade, precisão ou adequação. Confirme detalhes críticos diretamente com os comerciantes.",
+            "O Pickly não é consultor financeiro, profissional de saúde ou advogado. Conteúdos de finanças, saúde ou fitness são informação geral, não orientação profissional."
+          ]
+        },
+        {
+          "heading": "Limitação de responsabilidade",
+          "paragraphs": [
+            "O Pickly não se responsabiliza por quaisquer danos diretos, indiretos, incidentais ou consequenciais decorrentes do uso do site ou da confiança em seu conteúdo. Se estiver insatisfeito, a única solução é deixar de usar."
+          ]
+        },
+        {
+          "heading": "Lei aplicável",
+          "paragraphs": [
+            "Estes termos são regidos pelas leis do Japão. Disputas serão resolvidas em tribunais japoneses, salvo se a lei local exigir o contrário."
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "heading": "Contato",
+      "lede": "Lemos cada e-mail. O caminho mais rápido para falar com a gente está abaixo.",
+      "emailLabel": "E-mail",
+      "responseTime": "Tentamos responder em 3 dias úteis. Patrocínio ou PR sem proposta concreta e relevante são ignorados — abordagens genéricas são filtradas automaticamente.",
+      "scope": "Podemos ajudar com: correções factuais, links de afiliados quebrados, pedidos de atualização de produto e questões de acessibilidade. Não conseguimos ajudar com rastreamento de pedidos nos sites de comerciantes ou conselhos gerais de vida.",
+      "privacy": "Sua mensagem e e-mail são tratados conforme a Política de Privacidade."
+    }
+  }
+}

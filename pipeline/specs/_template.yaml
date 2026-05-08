@@ -1,0 +1,40 @@
+# Article spec template. Copy to <slug>.yaml and fill in.
+# Slug = file name minus .yaml. kebab-case, used as URL.
+
+slug: best-vpn-2026
+type: comparison           # review | comparison | guide
+category: tech             # tech | home | beauty | fashion | fitness | food | finance | travel | parenting | pets
+publishedAt: "2026-05-07"
+
+# Primary product/service IDs that appear in the article.
+# These must exist in src/lib/affiliates/catalog.ts (or be added).
+offerIds:
+  - nordvpn
+  - expressvpn
+  - surfshark
+  - protonvpn
+  - mullvad
+
+# Locales the article ships in. "all" = all 17. Listing subset = only those.
+locales: all
+
+# Reader assumed level. Default "general" (現状の記事と同じ書き方).
+# "beginner" にすると 01_write.md の Beginner mode が有効化され:
+#   - 冒頭に「〜とは？」本文セクション必須
+#   - review/guide 末尾に Setup walkthrough セクション (subsections で手順) 必須
+#   - review に Reassurance セクション (安心材料) 必須
+# レンタルサーバー / SaaS / クレカ / 証券口座 など初心者比率が高いカテゴリで使う。
+audienceLevel: general    # general | beginner
+
+# OG image: "auto" generates from template using title; or supply path under /public/og/.
+ogImage: auto
+
+# Source/research notes (free-form, used only by Claude during generation, not shown to users)
+research:
+  - "ProtonVPN added Stealth protocol Jan 2026"
+  - "ExpressVPN dropped from $12.95 to $8.32 promo since Q1 2026"
+  - "Mullvad still flat €5/month, no promos"
+  - "Pinterest pin should emphasize price + speed comparison table image"
+
+# Pinterest hint: emotional angle for the pin description (Claude uses this when writing pinDescription)
+pinAngle: "Save hours of research. Five top VPNs ranked by speed, privacy, and price for 2026."

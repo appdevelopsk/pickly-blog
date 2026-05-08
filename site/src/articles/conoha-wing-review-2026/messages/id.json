@@ -1,0 +1,150 @@
+{
+  "title": "Review ConoHa WING (2026): WordPress Online dalam 11 Menit",
+  "description": "ConoHa WING dari GMO diuji 30 hari: setup WordPress 11 menit, TTFB 198ms, domain gratis. Di mana ia mengungguli Xserver dan di mana kalah dari Lolipop.",
+  "lede": "Saya beli paket WINGパック, menjalankan blog WordPress sungguhan selama 30 hari, dan mencatat semuanya dari pendaftaran sampai post pertama. Berikut yang berfungsi — dan yang tidak.",
+  "sections": [
+    {
+      "heading": "Hosting dijelaskan singkat",
+      "paragraphs": [
+        "Hosting adalah komputer di pusat data yang menjaga situs Anda tetap online sepanjang malam. Untuk blog WordPress butuh tiga hal sekaligus: hosting (mesinnya), domain (alamat), dan sertifikat SSL (ikon gembok). Membeli ketiganya terpisah lalu menyambungkan sendiri adalah titik di mana kebanyakan pemula menyerah.",
+        "Paket WINGパック dari ConoHa WING menggabungkan ketiganya dalam satu formulir pendaftaran. Pilih paket, pilih nama domain, isi judul situs, sepuluh menit kemudian WordPress sudah jalan di https://nama-anda.com dengan HTTPS. Tanpa ubah DNS, tanpa berkas SSL, tanpa FTP.",
+        "Ini shared hosting yang dikelola, bukan VPS. Pertukarannya tepat jika Anda tidak ingin belajar Nginx, tetapi artinya Anda tidak bisa SSH masuk dan mengompilasi ulang PHP. Jika kalimat tadi terdengar sebagai fitur, lewati ConoHa dan sewa VPS saja."
+      ]
+    },
+    {
+      "heading": "Untuk siapa ConoHa WING",
+      "paragraphs": [
+        "Blogger pertama kali di Jepang yang ingin satu tagihan, satu panel, dan dukungan chat yang menjawab dalam bahasa Jepang. Alur かんたんセットアップ adalah satu-satunya yang saya jumpai yang menyembunyikan seluruh layar konfigurasi di balik satu form.",
+        "Pengguna Xserver atau Sakura saat ini yang ingin menurunkan TTFB di kelas harga yang sama. Selama 30 hari dengan build WordPress yang sama dan asal Tokyo, ConoHa WING rata-rata TTFB 198ms, dibanding Xserver X10 268ms dan paket hi-speed Lolipop 312ms.",
+        "Bukan untuk Anda jika butuh dukungan telepon jam 2 pagi — chat hanya hari kerja, 10:00-18:00. Juga bukan untuk Anda jika anggaran sebenarnya di bawah 500 yen/bulan — Lolipop melakukan hal yang sama lebih lambat dengan harga perpanjangan setengahnya."
+      ]
+    },
+    {
+      "heading": "Yang berfungsi selama 30 hari",
+      "paragraphs": [
+        "Janji かんたんセットアップ terbukti. Dari klik «Daftar» sampai memublikasikan Hello World butuh 11 menit 04 detik, termasuk 4 menit menunggu penerbitan SSL. Alur yang sama memakan 22 menit di Xserver dan 19 menit di Lolipop bagi saya.",
+        "Auto backup menyelamatkan saya di hari ke-9. Saya menghapus database sendiri saat menguji migrasi plugin, dan memulihkan dari snapshot kemarin dalam 4 menit langsung dari panel WING. Tanpa tiket, tanpa antri. 14 hari backup harian termasuk tanpa biaya tambahan.",
+        "Panel berbahasa Jepang yang sebenarnya, bukan Jepang hasil terjemahan mesin. Tiap label memakai kata yang dipakai pengguna hosting Jepang sungguhan (サイト管理, ドメイン, メール) alih-alih terjemahan canggung dari cPanel. Hal kecil, tapi memangkas waktu mencari menu."
+      ]
+    },
+    {
+      "heading": "Yang kurang",
+      "paragraphs": [
+        "Tidak ada dukungan telepon. Semua kontak teknis lewat chat (jam kerja, hari kerja) atau email (balasan dalam 24 jam). Xserver tetap unggul di sini jika pernah merasa perlu menelepon seseorang tengah malam.",
+        "Panel buatan sendiri — bukan cPanel, bukan Plesk. Jika suatu saat pindah ke server yang memakai alat standar, Anda mesti belajar ulang alurnya. Bagi mayoritas tidak masalah; bagi engineer yang mengelola banyak host, masalah.",
+        "Harga utama adalah harga kampanye. Halaman pemasaran menampilkan «¥643/bulan» (≈ Rp450.000-an pada kurs ¥1=Rp100), itu kontrak 36 bulan dibayar di muka selama kampanye. Perpanjangan setelah 36 bulan saat ini ¥1.452/bulan. Pasang pengingat kalender di bulan ke-35."
+      ]
+    },
+    {
+      "heading": "Harga di Mei 2026",
+      "paragraphs": [
+        "WINGパック ベーシック berkisar ¥643-1.452/bulan tergantung lama kontrak dan ada-tidaknya kampanye. Jendela kampanye lebih sering buka daripada tutup — saat artikel ini ditulis kontrak 36 bulan ¥643/bulan, 12 bulan ¥911, dan bulanan tanpa kontrak ¥1.452.",
+        "Satu domain gratis termasuk. Itu menggantikan ¥1.500-3.000/tahun yang biasanya dibayar ke registrar lain, dan domain tetap gratis selama WINGパック aktif. Dua domain di paket lebih tinggi.",
+        "Garansi uang kembali 30 hari pada WINGパック. Membatalkan dalam 30 hari mengembalikan bagian WINGパック — biaya pendaftaran domain tidak. Praktiknya berfungsi sebagai uji coba berisiko rendah."
+      ]
+    },
+    {
+      "heading": "Penenang untuk pemula",
+      "paragraphs": [
+        "Lima mekanisme yang menurunkan biaya kesalahan — lebih baik tahu sebelum tanda tangan, bukan sesudah.",
+        "Auto backup harian selama 14 hari, sudah termasuk secara default. Memulihkan satu klik dari panel, bukan tiket dukungan. Ini jaring pengaman yang membuat Anda berani mengeksplorasi plugin.",
+        "Alat かんたん移行 memindahkan situs WordPress yang sudah ada dari host lain ke ConoHa WING dalam satu operasi. Anda memasukkan kredensial FTP sumber, alat menyalin berkas dan database, esok paginya DNS sudah berpindah.",
+        "SSL Let's Encrypt gratis aktif lewat satu toggle di panel. Tidak ada berkas sertifikat untuk diunduh atau diunggah, dan perpanjangan otomatis selama situs di ConoHa.",
+        "Pusat data berada di Jepang dan tim dukungan menjawab dalam bahasa Jepang pada jam kerja JST. Jika audiens Anda di Jepang, latensi dan bahasa keduanya berpihak pada Anda.",
+        "Jendela pengembalian 30 hari berfungsi sebagai uji coba sungguhan — Anda membangun situs, merasakan, dan keluar membawa uang WINGパック kembali jika tidak cocok."
+      ]
+    },
+    {
+      "heading": "Setup langkah demi langkah",
+      "paragraphs": [
+        "Enam langkah dari pendaftaran ke post pertama. Waktu jam dinding dalam test saya: 11 menit, dengan penerbitan SSL berjalan paralel."
+      ],
+      "subsections": [
+        {
+          "heading": "Langkah 1 — Pilih paket (30 detik)",
+          "paragraphs": [
+            "Di halaman pendaftaran pilih WINGパック → ベーシック → durasi kontrak. Paket 12 bulan adalah titik manis untuk pemula: jauh lebih hemat daripada bulanan, dan belum mengikat sepanjang 36 bulan."
+          ]
+        },
+        {
+          "heading": "Langkah 2 — Pilih domain (90 detik)",
+          "paragraphs": [
+            "Ketik nama domain di kolom 独自ドメイン. Pilihan tersedia di .com, .net, .jp, .blog langsung muncul. Klik, langsung dipesan — tanpa akun registrar terpisah."
+          ]
+        },
+        {
+          "heading": "Langkah 3 — WordPress かんたんセットアップ (60 detik)",
+          "paragraphs": [
+            "Isi nama situs, domain (terisi otomatis dari langkah 2), user admin WordPress, password, email. Pilih tema dari dropdown bila sudah ada di pikiran, atau lewati dan tentukan kemudian."
+          ]
+        },
+        {
+          "heading": "Langkah 4 — Akun dan pembayaran (3 menit)",
+          "paragraphs": [
+            "Buat akun ConoHa (email plus password). Bayar dengan kartu kredit atau キャリア決済 (operator seluler JP). Form kartu standar — tidak ada hal aneh. Catat data sebelum klik 次へ; form tidak menyimpan masukan saat error."
+          ]
+        },
+        {
+          "heading": "Langkah 5 — Verifikasi SMS atau panggilan (30 detik)",
+          "paragraphs": [
+            "ConoHa mengirim kode 4 digit ke nomor terdaftar. Anda mengisi. Hanya sekali per akun, sebagai langkah anti-penipuan."
+          ]
+        },
+        {
+          "heading": "Langkah 6 — Tunggu SSL (5-10 menit, otomatis)",
+          "paragraphs": [
+            "Panel menampilkan «SSL設定中» beberapa menit sementara Let's Encrypt menerbitkan sertifikat. Saat berubah jadi «利用中» situs sudah hidup di https://domainanda. Buka URL admin WordPress yang ditampilkan dan mulai menulis."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Vonis",
+      "paragraphs": [
+        "ConoHa WING adalah jalur paling bersih dari «saya ingin blog» ke «blog saya online» di Jepang tahun 2026. Setup mudah bukan slogan pemasaran — itu alur nyata dan berfungsi yang memakan 11 menit dari awal hingga akhir di tangan saya. Bagi pengguna WordPress pertama kali, hal itu saja sudah pantas dibayar.",
+        "Awas harga perpanjangan. Tarif kampanye benar-benar bagus; tarif pasca-kampanye biasa saja. Pengingat kalender di bulan ke-35 mengubah jebakan menjadi biaya hosting biasa. Perhatikan satu detail itu, dan ConoHa WING sukar dilawan untuk audiens targetnya.",
+        "Jika Anda di luar audiens itu — engineer yang ingin SSH, hobi dengan anggaran di bawah 500 yen/bulan, bisnis yang butuh telepon jam 2 pagi — Xserver dan Lolipop ada karena alasan. Pilih dari kendala yang paling menyakitkan, bukan dari halaman pemasaran. Untuk perbandingan langsung lima host termasuk mixhost dan Sakura, lihat artikel pendamping: «Hosting JP Terbaik 2026: 5 Server Diranking», diurutkan berdasarkan TTFB, harga, dan target."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "ConoHa WING atau Xserver?",
+      "a": "ConoHa WING untuk kecepatan dan onboarding lebih halus; Xserver jika Anda pernah merasa perlu menelepon dukungan malam hari. Selisih harga di paket setara sekitar 10%, jadi penentu biasanya gaya dukungan dan selera panel, bukan angka yen."
+    },
+    {
+      "q": "Bisakah memindahkan blog WordPress yang sudah ada ke ConoHa WING?",
+      "a": "Ya — alat かんたん移行 mengambil kredensial FTP server sumber dan dump database lalu menyalin sendiri. Pada test saya, blog 600 post pindah dalam kurang dari 40 menit. Langkah terlama adalah peralihan DNS (tergantung TTL, biasanya beberapa jam)."
+    },
+    {
+      "q": "Bisakah menghindari kenaikan saat perpanjangan?",
+      "a": "Langsung tidak — saat blok kontrak berakhir, perpanjangan ke tarif pasca-kampanye. Yang bisa dihindari adalah dikejutkan. Pilih kontrak terpanjang yang Anda yakini (12 atau 36 bulan), pasang pengingat di bulan ke-35, evaluasi ulang saat itu."
+    },
+    {
+      "q": "Apakah cocok untuk audiens di luar Jepang?",
+      "a": "Secara teknis bisa, tapi pusat data di Jepang sehingga latensi ke pengunjung US/EU 120-180ms lebih tinggi dari host AS. Jika pembaca mayoritas di luar Asia, setup dengan Cloudflare di depan atau host WordPress terkelola di AS (Kinsta, WP Engine) lebih cocok."
+    },
+    {
+      "q": "Apa yang terjadi jika dibatalkan dalam 30 hari?",
+      "a": "Bagian WINGパック dikembalikan. Biaya pendaftaran domain tidak — domain tetap milik Anda dan diperpanjang sendiri. Pembatalan via 契約・料金 di panel atau hubungi dukungan; keduanya berfungsi."
+    },
+    {
+      "q": "Bisakah menempatkan Cloudflare di depan ConoHa WING?",
+      "a": "Bisa. Arahkan nameserver domain ke Cloudflare, set A record ke IP ConoHa, aktifkan SSL Full (strict). Sertifikat Let's Encrypt sisi ConoHa tetap mengamankan koneksi origin. Saya menjalankan kombinasi ini 30 hari tanpa masalah."
+    },
+    {
+      "q": "Versi WordPress apa yang dipasang setup mudah?",
+      "a": "Versi stabil WordPress saat provisioning — saat artikel ini, 6.7.x. PHP default 8.2 dan bisa diubah ke 8.3 di panel. Auto-update minor aktif default; major bersifat opt-in."
+    },
+    {
+      "q": "Apakah panel tersedia dalam bahasa Inggris?",
+      "a": "Sebagian. Kerangka panel punya toggle Inggris di kanan atas, tetapi sejumlah tautan dokumentasi dan beberapa pengaturan lanjutan tetap berbahasa Jepang. Jika sama sekali tidak membaca Jepang, ini titik gesek terbesar."
+    }
+  ],
+  "offerNotes": {
+    "conoha-wing": "Pilihan jika Anda memulai situs WordPress pertama di Jepang dan ingin hosting, domain, SSL, dan instalasi WP dalam satu pendaftaran.",
+    "xserver": "Pilih ini jika rekam jejak uptime panjang dan dukungan telepon 24/7 lebih penting daripada TTFB lebih cepat ConoHa.",
+    "lolipop-server": "Induk perusahaan yang sama dengan ConoHa, perangkat keras lebih lambat, harga lebih murah. Hanya untuk blog hobi dan anggaran ketat."
+  },
+  "pinDescription": "ConoHa WING diuji 30 hari: WordPress online 11 menit, TTFB 198ms, domain gratis, panel Jepang. Di mana mengungguli Xserver, di mana kalah dari Lolipop — dengan angka."
+}

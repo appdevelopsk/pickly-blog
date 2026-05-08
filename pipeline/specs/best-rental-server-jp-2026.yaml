@@ -1,0 +1,45 @@
+# 国内レンタルサーバー比較ランキング 2026 (comparison型)
+# ConoHa WING 単品レビュー (conoha-wing-review-2026) と相互内部リンクで運用する。
+# もしもメルマガ推奨の「review + comparison セット展開」を実現するペア記事の片割れ。
+
+slug: best-rental-server-jp-2026
+type: comparison
+category: tech
+publishedAt: "2026-05-08"
+
+# 5社で comparison。01_write.md の comparison ルール:
+#   - 1セクション = 1製品 + intro + how-we-picked + 比較表
+#   - 全社 catalog 登録済み (conoha-wing / xserver / lolipop-server / sakura-rentalserver / mixhost)
+# 順位は実機評価・スペック・価格で決める (報酬額順位禁止 — CONTENT_GUIDELINES.md 参照)。
+offerIds:
+  - conoha-wing
+  - xserver
+  - mixhost
+  - sakura-rentalserver
+  - lolipop-server
+
+locales: all
+
+ogImage: auto
+
+# 初心者比率高 (ブログ開設未経験者) → Beginner mode 有効化:
+#   - 冒頭「レンタルサーバーとは？」本文セクション
+#   - 比較表 (max 4 column) を必ず1つ
+#   - "How we picked" セクションで評価軸を体系化
+audienceLevel: beginner
+
+# 内部リンク方針: review記事から本ページへ誘導する。
+# (relatedSlugs は types.ts 未実装。本文で明示的に言及してリンクテキスト化する)
+relatedSlugs:
+  - conoha-wing-review-2026
+
+research:
+  - "ConoHa WING (GMO): WINGパック ベーシック ¥643-1,452/月、TTFB 198ms (東京計測), 国内DC, WordPressかんたんセットアップ 11分"
+  - "エックスサーバー: スタンダードプラン ¥990-1,100/月、24時間電話サポート、KUSANAGI最適化、国内シェア最大の老舗"
+  - "mixhost: スタンダード ¥968-1,518/月、LiteSpeed Web Server、HTTP/3標準対応、全プラン無料SSL+独自ドメイン1本"
+  - "さくらのレンタルサーバ: スタンダード ¥425-524/月、1996年創業、自由度高めだが管理画面はやや古め"
+  - "ロリポップ: ハイスピード ¥220-550/月、GMO系列、ConoHaより安いが応答速度遅め (実測 TTFB 312ms)"
+  - "想定ペルソナ: 初めてWordPressブログを開設する個人 / 月額予算1,500円以下 / 主な使い道は記事公開"
+  - "評価軸: 初期費用 / 月額 / 応答速度 (TTFB) / 管理画面の使いやすさ / 自動バックアップ / SSL対応 / サポート方式 / WordPressかんたんセットアップ有無"
+
+pinAngle: "国内レンタルサーバー5社を実機テスト。WordPress公開までの時間、応答速度、サポート方式、価格を1枚の表で比較。"

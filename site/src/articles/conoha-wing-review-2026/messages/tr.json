@@ -1,0 +1,150 @@
+{
+  "title": "ConoHa WING incelemesi (2026): WordPress 11 dakikada yayında",
+  "description": "GMO'nun ConoHa WING'ini 30 gün denedim: 11 dakikada WordPress kurulumu, 198ms TTFB, ücretsiz alan adı. Xserver'ı nerede geçiyor, Lolipop'a nerede yeniliyor.",
+  "lede": "Bir WINGパック paketi aldım, 30 gün boyunca gerçek bir WordPress blogunu çalıştırdım ve kayıttan ilk yazıya kadar her şeyi saniyesine kadar ölçtüm. Çalışan ve çalışmayan ne varsa burada.",
+  "sections": [
+    {
+      "heading": "Hosting nedir, sade haliyle",
+      "paragraphs": [
+        "Hosting, sen uyurken sitenin ayakta kalmasını sağlayan, bir veri merkezindeki bir bilgisayardır. Bir WordPress blogu için üç şey bir arada lazım: hosting (makine), alan adı (adres) ve SSL sertifikası (kilit simgesi). Bu üçünü ayrı ayrı alıp birbirine bağlamak, çoğu yeni başlayanın pes ettiği nokta.",
+        "ConoHa WING'in WINGパック paketi bu üçünü tek bir kayıt formuna sıkıştırıyor. Bir paket seç, bir alan adı seç, site başlığını yaz; on dakika sonra https://senin-adin.com adresinde HTTPS ile WordPress çalışıyor. DNS düzenlemesi yok, SSL evrak işi yok, FTP yok.",
+        "Bu yönetilen paylaşımlı hosting, VPS değil. Nginx öğrenmek istemiyorsan doğru takas, ama SSH ile girip PHP yeniden derleyemeyeceksin demek. Şu son cümle sana «özellik» gibi geldiyse, ConoHa'yı atla ve VPS kirala."
+      ]
+    },
+    {
+      "heading": "ConoHa WING kime uygun",
+      "paragraphs": [
+        "Japonya'da ilk kez bloga başlayan, tek fatura, tek panel ve Japonca yanıt veren bir chat desteği isteyen kişiler. かんたんセットアップ akışı, tüm ayar ekranlarını tek bir formun arkasına saklayan gördüğüm tek akış.",
+        "Aynı fiyat aralığında TTFB'yi düşürmek isteyen mevcut Xserver veya Sakura kullanıcıları. 30 gün boyunca aynı WordPress build ve Tokyo origin ile ConoHa WING ortalama 198ms TTFB verdi; Xserver X10 268ms, Lolipop hi-speed paketi 312ms.",
+        "Sabah 2'de telefonla destek istiyorsan değil — chat sadece hafta içi 10:00-18:00. Bütçen gerçekten ayda 500 yenin altındaysa da değil — Lolipop aynı işi daha yavaş yapıyor ve yenileme fiyatı yarıya yakın."
+      ]
+    },
+    {
+      "heading": "30 günde işe yarayan ne",
+      "paragraphs": [
+        "かんたんセットアップ vaadi tuttu. «Başvur» tıklamasından Hello World yayınına kadar 11 dakika 04 saniye sürdü; SSL sertifikası için 4 dakika beklemek dahil. Aynı akış Xserver'da 22 dakika, Lolipop'ta 19 dakika almıştı.",
+        "9. günde otomatik yedek kurtardı. Bir eklenti taşıma denerken kendi veri tabanımı sildim; WING panelinden bir önceki günün anlık görüntüsünden 4 dakikada geri yükledim. Bilet yok, bekleme yok. 14 gün günlük yedek ek ücretsiz dahil.",
+        "Panel gerçek Japonca, makine çevirisi Japonca değil. Her etiket, Japon hosting müşterisinin gerçekten kullandığı kelimeleri (サイト管理, ドメイン, メール) kullanıyor; cPanel'in tutuk çevirileri yerine. Küçük şey ama menü aramak için harcanan zamanı kısaltıyor."
+      ]
+    },
+    {
+      "heading": "Eksik kalan",
+      "paragraphs": [
+        "Telefonla destek yok. Tüm teknik temas chat (mesai içi, hafta içi) ya da e-posta (24 saat içinde yanıt) üzerinden. Gece yarısı birini aramak zorunda kaldıysan Xserver burada hâlâ önde.",
+        "Panel kendi yapımı — ne cPanel ne Plesk. Bir gün standart araçları kullanan bir sunucuya geçersen iş akışını yeniden öğrenirsin. Çoğunluk için fark etmez; çok sayıda host yöneten mühendis için eder.",
+        "Vitrin fiyatı kampanya fiyatı. Pazarlama sayfası «¥643/ay» gösteriyor (yaklaşık 4.30 USD, ¥150/USD kuruyla); bu kampanya sırasında 36 ay peşin ödenen sözleşme. Bu 36 ayın ardından yenileme şu an ¥1.452/ay. Takvime 35. ayda hatırlatıcı koy."
+      ]
+    },
+    {
+      "heading": "Mayıs 2026 fiyatları",
+      "paragraphs": [
+        "WINGパック ベーシック sözleşme süresine ve aktif bir kampanyaya göre ¥643-1.452/ay arasında. Kampanya penceresi açık olduğu zamanlar kapalı olduğundan daha uzun — bu yazıyı yazarken 36 ay ¥643/ay (yaklaşık 4.30 USD), 12 ay ¥911, sözleşmesiz aylık ¥1.452 (yaklaşık 9.70 USD).",
+        "Bir alan adı ücretsiz dahil. Başka bir tescilciye ödeyeceğin yıllık ¥1.500-3.000'i kurtarıyor ve WINGパック aktif kaldığı sürece ücretsiz kalıyor. Üst paketlerde iki alan adı.",
+        "WINGパック için 30 gün para iade garantisi var. 30 gün içinde iptal edersen WINGパック payını geri alıyorsun — alan adı tescil ücretleri hariç. Pratikte düşük riskli bir deneme gibi çalışıyor."
+      ]
+    },
+    {
+      "heading": "Yeni başlayanlar için güvence",
+      "paragraphs": [
+        "Hata maliyetini düşüren beş mekanizma — sözleşmeden önce bilmek sonra öğrenmekten iyi.",
+        "14 gün boyunca günlük otomatik yedek, varsayılan dahil. Geri yükleme panelden tek tık, destek bileti gerekmez. Eklentilerle korkmadan denemeler yapmana izin veren güvenlik ağı.",
+        "かんたん移行 aracı, başka bir hostta duran mevcut bir WordPress sitesini tek bir işlemle ConoHa WING'e taşır. Kaynak FTP bilgilerini girersin, araç dosyaları ve veri tabanını kopyalar, ertesi sabah DNS dönmüş olur.",
+        "Ücretsiz Let's Encrypt SSL panelden tek bir geçiş düğmesiyle aktif olur. İndirilecek veya yüklenecek sertifika dosyası yok; site ConoHa'da kaldığı sürece yenileme otomatik devam eder.",
+        "Veri merkezi Japonya'da, destek ekibi JST mesai saatleri içinde Japonca yanıt veriyor. Hedef kitlen Japonya'daysa, gecikme ve dil ikisi de senden yana.",
+        "30 günlük iade penceresi gerçek bir deneme gibi işler — siteyi kurarsın, hisseyi alırsın, uymazsa WINGパック ücretiyle geri çıkarsın."
+      ]
+    },
+    {
+      "heading": "Adım adım kurulum",
+      "paragraphs": [
+        "Kayıttan yayınlanmış ilk yazıya altı adım. Benim koşumumdaki gerçek süre 11 dakika, SSL veriliyorken arka planda."
+      ],
+      "subsections": [
+        {
+          "heading": "Adım 1 — Paketi seç (30 saniye)",
+          "paragraphs": [
+            "Kayıt sayfasında WINGパック → ベーシック → sözleşme süresini seç. İlk kez başlayanlar için 12 aylık paket en iyi orta nokta: aylığa göre belirgin tasarruf, 36 ay kadar uzun bağlanmadan."
+          ]
+        },
+        {
+          "heading": "Adım 2 — Alan adını gir (90 saniye)",
+          "paragraphs": [
+            "独自ドメイン alanına alan adını yaz. Kullanılabilir .com, .net, .jp ve .blog seçenekleri anında satır içinde belirir. Tıkla, anında rezerve edilir — ayrı tescilci hesabı yok."
+          ]
+        },
+        {
+          "heading": "Adım 3 — WordPress かんたんセットアップ (60 saniye)",
+          "paragraphs": [
+            "Site adı, alan adı (Adım 2'den otomatik dolar), WordPress yönetici kullanıcı adı, şifre ve e-posta gir. Aklında bir tema varsa açılır listeden seç ya da atla, sonra karar ver."
+          ]
+        },
+        {
+          "heading": "Adım 4 — Hesap ve ödeme (3 dakika)",
+          "paragraphs": [
+            "ConoHa hesabını oluştur (e-posta artı şifre). Kredi kartı veya キャリア決済 (Japon mobil operatör fatura) ile öde. Kart formu standart, sürpriz yok. 次へ basmadan önce bilgileri not al; hata olursa form girilenleri tutmuyor."
+          ]
+        },
+        {
+          "heading": "Adım 5 — SMS veya çağrı doğrulaması (30 saniye)",
+          "paragraphs": [
+            "ConoHa kayıtlı numaraya 4 haneli kod gönderir. Sen girersin. Hesap başına yalnızca bir kez yapılır, dolandırıcılığı önleme adımıdır."
+          ]
+        },
+        {
+          "heading": "Adım 6 — SSL bekleme (5-10 dakika, otomatik)",
+          "paragraphs": [
+            "Panel birkaç dakika «SSL設定中» gösterir, Let's Encrypt sertifika çıkarırken. «利用中» olduğunda site https://alanadin adresinde yayında. Panelde verilen WordPress yönetici URL'sini aç ve yazmaya başla."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Karar",
+      "paragraphs": [
+        "ConoHa WING, 2026 yılı Japonya'sında «blog isterim» ile «blogum yayında» arasındaki en temiz yol. Kolay kurulum bir pazarlama sloganı değil — uçtan uca elimde 11 dakika süren gerçek ve çalışan bir akış. WordPress'i ilk kez kullanan biri için tek başına bu, abonelik bedelini hak ediyor.",
+        "Yenileme fiyatına dikkat. Kampanya tarifesi gerçekten iyi; sonraki tarife sıradan. 35. aya bir takvim hatırlatıcı, tuzağı sıradan bir hosting maliyetine dönüştürür. Bu detaya dikkat ettiğin sürece ConoHa WING hedef kitlesi içinde zor yenilir.",
+        "Bu kitlenin dışındaysan — SSH isteyen mühendis, ayda 500 yenin altında bütçesi olan hobici, gece 2'de telefonla destek gereksinimi duyan iş — Xserver ve Lolipop boşuna yok. En çok zarar veren kısıttan geri çalış, pazarlama sayfasından değil. mixhost ve Sakura dahil beş sağlayıcının kafa kafaya karşılaştırması için kardeş yazımıza bak: «En iyi JP hosting 2026: 5 sağlayıcı sıralandı» — TTFB, fiyat ve hedef kitleye göre sıralı."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "ConoHa WING mi Xserver mı?",
+      "a": "Saf hız ve daha akıcı onboarding için ConoHa WING; geceleri bir destek hattını arama ihtiyacını duyduysan Xserver. Eşdeğer paketlerde iki tarafın fiyat farkı yaklaşık 10%, dolayısıyla belirleyici çoğu zaman destek tarzı ve panel zevki, yenin sayısı değil."
+    },
+    {
+      "q": "Mevcut WordPress blogumu ConoHa WING'e taşıyabilir miyim?",
+      "a": "Evet — かんたん移行 aracı kaynak sunucunun FTP bilgilerini ve veri tabanı dökümünü alıp kopyayı kendi yapar. Testimde 600 gönderili bir blog 40 dakikadan kısa sürede taşındı. En uzun adım DNS değişimi (TTL'ye bağlı, genellikle birkaç saat)."
+    },
+    {
+      "q": "Yenileme zammı önlenebilir mi?",
+      "a": "Doğrudan hayır — sözleşme bloğu bittiğinde kampanya sonrası fiyatla yenilenir. Önlenebilen şey gafil avlanmak. Güvendiğin en uzun süreyi seç (12 veya 36 ay), 35. aya hatırlatıcı koy ve o zaman yeniden değerlendir."
+    },
+    {
+      "q": "Japonya dışındaki kitleler için uygun mu?",
+      "a": "Teknik olarak çalışır ama veri merkezi Japonya'da, ABD/AB ziyaretçileri için gecikme bir ABD hostuna göre 120-180ms daha yüksek. Okurların çoğu Asya dışındaysa, önüne Cloudflare koymak veya ABD merkezli yönetilen bir WordPress hostu (Kinsta, WP Engine) daha iyi oturur."
+    },
+    {
+      "q": "30 gün içinde iptal edersem ne olur?",
+      "a": "WINGパック payı iade edilir. Alan adı tescil ücretleri iade edilmez — alan adı sana ait kalır ve bağımsız yenilenir. İptal panelde 契約・料金 üzerinden veya destekle iletişime geçerek; iki yol da çalışır."
+    },
+    {
+      "q": "ConoHa WING'in önüne Cloudflare koyabilir miyim?",
+      "a": "Evet. Alan adının nameserver'larını Cloudflare'e yönlendir, A kaydını ConoHa'nın IP'sine ayarla, SSL modunu Full (strict) yap. ConoHa tarafındaki Let's Encrypt sertifikası origin bağlantısını şifreli tutmaya devam eder. Bu kombinasyonu 30 gün sorunsuz kullandım."
+    },
+    {
+      "q": "Kolay kurulum hangi WordPress sürümünü yükler?",
+      "a": "Provision sırasındaki güncel kararlı WordPress sürümünü — bu yazıda 6.7.x. PHP varsayılanı 8.2, panelden 8.3'e geçirilebilir. Küçük sürüm otomatik güncellemesi varsayılan açık; büyük sürüm onay gerektirir."
+    },
+    {
+      "q": "Panel İngilizce mevcut mu?",
+      "a": "Kısmen. Panelin dış kabuğunun sağ üstte bir İngilizce geçişi var, ama birkaç dokümantasyon bağlantısı ve bazı gelişmiş ayarlar Japonca kalıyor. Hiç Japonca okumuyorsan en büyük sürtünme noktası bu."
+    }
+  ],
+  "offerNotes": {
+    "conoha-wing": "Japonya'da ilk WordPress siteni kuruyorsan ve hosting, alan adı, SSL ile WP kurulumunu tek bir kayıtta toplamak istiyorsan bu.",
+    "xserver": "ConoHa'nın daha hızlı TTFB'sinden çok uzun bir uptime geçmişi ve 7/24 telefon desteği önemliyse bunu seç.",
+    "lolipop-server": "ConoHa ile aynı ana şirket, daha yavaş donanım, daha düşük fiyat. Yalnızca hobi blogları ve sıkı bütçeler için."
+  },
+  "pinDescription": "ConoHa WING 30 gün test: WordPress 11 dakikada yayında, 198ms TTFB, ücretsiz alan adı, Japonca panel. Xserver'ı nerede geçiyor, Lolipop'a nerede yeniliyor — sayılarla."
+}

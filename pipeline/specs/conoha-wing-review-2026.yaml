@@ -1,0 +1,47 @@
+# ConoHa WING 単品レビュー（日本語ローカル主軸 / Beginner mode 実例）
+# もしもアフィリエイト 2026-05 メルマガの 5つの鉄則 + テンプレートを反映したサンプル spec。
+
+slug: conoha-wing-review-2026
+type: review
+category: tech
+publishedAt: "2026-05-08"
+
+# 主役は ConoHa WING。比較文脈としてエックスサーバー・ロリポップを併記する。
+# offerNotes でそれぞれ「どんな人向けか」を一言入れる前提。
+offerIds:
+  - conoha-wing
+  - xserver
+  - lolipop-server
+
+# 日本市場主軸の記事だが、台湾・韓国・東南アジアでも国内DCホスティング比較として読まれうるため
+# all で出す。翻訳プロンプト側で「日本国内DC前提」のローカライズが入る。
+locales: all
+
+ogImage: auto
+
+# 初心者比率が高いカテゴリ。01_write.md の Beginner mode を有効化:
+#   - 冒頭「レンタルサーバーとは？」本文セクション
+#   - 末尾に「Setup walkthrough」サブセクション (3-6ステップ)
+#   - "Reassurance for first-timers" セクション
+audienceLevel: beginner
+
+# Claude Code 生成時に参照する研究メモ。最終記事には直接出ない。
+research:
+  - "ConoHa WING の WINGパック ベーシックは 2026 年時点で月 1,452 円（36ヶ月契約）が定価、キャンペーン時 643 円〜が常態化"
+  - "WordPress かんたんセットアップは独自ドメイン取得・SSL 設定・WP インストールを管理画面 1 画面で完結（実測 8-12 分）"
+  - "PHP 8.x + LiteSpeed 系で TTFB 200ms 前後（同価格帯のエックスサーバー X10 は 250-300ms）"
+  - "競合: エックスサーバー（老舗・電話サポート強み）、ロリポップ（同じGMO・廉価帯）、さくらのレンタルサーバ（最安帯）"
+  - "弱点候補: 管理画面が独自で他社からの移行時に学習コストあり / 電話サポートなし（チャット・メール中心）/ プラン変更が一部不可"
+  - "もしも経由案件: 本人申込キャッシュバック対応、初心者にはリンク選択肢として有利"
+  - "申込み手順想定: ① プラン選択（WINGパック ベーシック）→ ② 独自ドメイン入力 → ③ WordPress情報入力 → ④ 個人情報・支払い → ⑤ SMS認証 → ⑥ 管理画面ログイン（合計 10-15 分）"
+
+# Pinterest 用フック（pinDescription 生成時のヒント）
+pinAngle: "WordPressブログを 10 分で公開できる国内DCサーバー。初期費用 0 円、管理画面が日本語ネイティブで、初心者がつまずく所を全部なくしてある。"
+
+# Beginner mode 補足: review 内で必ずカバーする安心材料の候補
+reassurancePoints:
+  - "自動バックアップ 14 日分（追加料金なし）"
+  - "WordPress かんたん移行ツール（既存ブログからの引っ越しが管理画面 1 操作）"
+  - "独自 SSL（Let's Encrypt）ワンクリック有効化"
+  - "国内 DC・日本語サポート（チャット 10-18 時 / メール 24h）"
+  - "30 日以内なら WINGパック の月額相当額が返金対象（実質トライアル）"

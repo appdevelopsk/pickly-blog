@@ -1,0 +1,150 @@
+{
+  "title": "Đánh giá ConoHa WING (2026): WordPress online trong 11 phút",
+  "description": "Thử ConoHa WING của GMO 30 ngày: cài WordPress trong 11 phút, TTFB 198ms, tặng tên miền. Hơn Xserver ở đâu, kém Lolipop ở đâu.",
+  "lede": "Tôi mua gói WINGパック, chạy một blog WordPress thật trong 30 ngày, đo từng giây từ lúc đăng ký đến khi đăng bài đầu tiên. Đây là phần dùng được — và phần chưa.",
+  "sections": [
+    {
+      "heading": "Hosting nói cho dễ hiểu",
+      "paragraphs": [
+        "Hosting là một máy tính trong trung tâm dữ liệu giữ cho website online suốt đêm trong khi bạn ngủ. Để có blog WordPress cần ba thứ ghép lại: hosting (cỗ máy), tên miền (địa chỉ) và chứng chỉ SSL (biểu tượng ổ khóa). Mua từng món rồi tự nối với nhau là chỗ phần lớn người mới bỏ cuộc.",
+        "Gói WINGパック của ConoHa WING gói ba thứ đó vào một biểu mẫu đăng ký duy nhất. Chọn gói, chọn tên miền, gõ tên website, mười phút sau WordPress của bạn đã chạy với HTTPS tại https://ten-ban.com. Không sửa DNS, không thủ tục SSL, không FTP.",
+        "Đây là shared hosting có quản lý, không phải VPS. Đánh đổi đúng nếu bạn không muốn học Nginx, nhưng đồng nghĩa bạn không thể SSH vào máy để biên dịch lại PHP. Nếu câu cuối nghe như một tính năng đối với bạn, hãy bỏ qua ConoHa và thuê VPS."
+      ]
+    },
+    {
+      "heading": "Ai phù hợp với ConoHa WING",
+      "paragraphs": [
+        "Blogger lần đầu ở Nhật, muốn duy nhất một hóa đơn, một bảng điều khiển và một kênh chat hỗ trợ trả lời tiếng Nhật. Luồng かんたんセットアップ là cái duy nhất tôi thấy giấu toàn bộ màn hình cấu hình sau một biểu mẫu duy nhất.",
+        "Người đang dùng Xserver hoặc Sakura muốn kéo TTFB xuống trong cùng tầm giá. Trong 30 ngày với cùng bản dựng WordPress và origin tại Tokyo, ConoHa WING đạt TTFB trung bình 198ms, trong khi Xserver X10 là 268ms và gói hi-speed của Lolipop là 312ms.",
+        "Không hợp nếu cần hỗ trợ qua điện thoại lúc 2 giờ sáng — chat chỉ hoạt động trong giờ làm việc 10:00-18:00 các ngày trong tuần. Cũng không hợp nếu ngân sách thực dưới 500 yên/tháng — Lolipop làm việc tương tự nhưng chậm hơn với mức gia hạn rẻ một nửa."
+      ]
+    },
+    {
+      "heading": "Điều gì hiệu quả trong 30 ngày",
+      "paragraphs": [
+        "Lời hứa かんたんセットアップ đứng vững. Từ lúc bấm «Đăng ký» đến khi đăng bài Hello World mất 11 phút 04 giây, bao gồm 4 phút chờ cấp SSL. Cũng luồng đó tôi mất 22 phút trên Xserver và 19 phút trên Lolipop.",
+        "Sao lưu tự động cứu tôi vào ngày thứ 9. Tôi tự xóa cơ sở dữ liệu khi thử nghiệm di chuyển plugin và phục hồi từ snapshot ngày hôm trước trong 4 phút ngay từ bảng điều khiển WING. Không ticket, không chờ. 14 ngày sao lưu hằng ngày được tặng kèm.",
+        "Bảng điều khiển bằng tiếng Nhật thật, không phải tiếng Nhật do máy dịch. Mỗi nhãn dùng đúng từ mà khách hàng hosting Nhật thực sự dùng (サイト管理, ドメイン, メール) thay vì cách dịch vụng từ cPanel. Chuyện nhỏ, nhưng giảm thời gian tìm menu."
+      ]
+    },
+    {
+      "heading": "Điểm còn thiếu",
+      "paragraphs": [
+        "Không có hỗ trợ qua điện thoại. Mọi liên hệ kỹ thuật đi qua chat (giờ hành chính, ngày trong tuần) hoặc email (trả lời trong 24 giờ). Xserver vẫn thắng nếu bạn từng cần gọi ai đó vào lúc nửa đêm.",
+        "Bảng điều khiển là của riêng — không phải cPanel, không phải Plesk. Nếu một ngày chuyển sang server dùng công cụ chuẩn, bạn phải học lại quy trình. Đa số không quan tâm; kỹ sư quản lý nhiều host thì có.",
+        "Giá trên trang là giá khuyến mãi. Trang tiếp thị hiện «¥643/tháng» (≈ 4,30 USD ở tỷ giá ¥150/USD), đó là hợp đồng 36 tháng trả trước trong khuyến mãi. Gia hạn sau 36 tháng đó hiện ở ¥1.452/tháng. Nhớ đặt nhắc nhở vào lịch ở tháng thứ 35."
+      ]
+    },
+    {
+      "heading": "Giá vào tháng 5/2026",
+      "paragraphs": [
+        "WINGパック ベーシック dao động ¥643-1.452/tháng tùy thời hạn hợp đồng và có khuyến mãi hay không. Cửa sổ khuyến mãi mở nhiều hơn đóng — tại thời điểm khép bài, hợp đồng 36 tháng ¥643/tháng (≈ 4,30 USD), 12 tháng ¥911, theo tháng (không hợp đồng) ¥1.452 (≈ 9,70 USD).",
+        "Tặng kèm một tên miền. Bù khoản ¥1.500-3.000/năm thường phải trả nhà đăng ký, và tên miền vẫn miễn phí khi WINGパック còn hiệu lực. Hai tên miền ở các gói cao hơn.",
+        "Có bảo đảm hoàn tiền 30 ngày cho WINGパック. Hủy trong 30 ngày được hoàn phần WINGパック — phí đăng ký tên miền không hoàn. Thực tế hoạt động như một bản dùng thử rủi ro thấp."
+      ]
+    },
+    {
+      "heading": "Yên tâm cho người mới",
+      "paragraphs": [
+        "Năm cơ chế giảm chi phí của sai lầm — biết trước khi ký tốt hơn biết sau.",
+        "Sao lưu tự động hằng ngày trong 14 ngày, kèm sẵn theo mặc định. Phục hồi một cú nhấp từ bảng điều khiển, không cần ticket. Đây là lưới an toàn để bạn tự tin thử nghiệm plugin.",
+        "Công cụ かんたん移行 chuyển một site WordPress hiện có từ host khác về ConoHa WING trong một thao tác. Bạn nhập thông tin FTP nguồn, công cụ chép tệp và cơ sở dữ liệu, sáng hôm sau DNS đã trỏ.",
+        "SSL miễn phí Let's Encrypt bật bằng một công tắc trong bảng điều khiển. Không cần tải xuống hay tải lên tệp chứng chỉ, gia hạn tự động khi site còn ở ConoHa.",
+        "Trung tâm dữ liệu ở Nhật, đội hỗ trợ trả lời tiếng Nhật trong giờ hành chính JST. Nếu khán giả ở Nhật, độ trễ và ngôn ngữ đều có lợi cho bạn.",
+        "Cửa sổ hoàn tiền 30 ngày dùng được như bản dùng thử thật — bạn dựng site, cảm nhận, và rút lui với khoản phí WINGパック được trả lại nếu không vừa ý."
+      ]
+    },
+    {
+      "heading": "Hướng dẫn cài đặt theo bước",
+      "paragraphs": [
+        "Sáu bước từ đăng ký đến bài đăng. Tổng thời gian thực tế trong lượt thử của tôi: 11 phút, với việc cấp SSL chạy song song."
+      ],
+      "subsections": [
+        {
+          "heading": "Bước 1 — Chọn gói (30 giây)",
+          "paragraphs": [
+            "Trên trang đăng ký chọn WINGパック → ベーシック → thời hạn hợp đồng. Gói 12 tháng là điểm ngọt cho người mới: tiết kiệm nhiều so với theo tháng và chưa cam kết quá dài như 36 tháng."
+          ]
+        },
+        {
+          "heading": "Bước 2 — Chọn tên miền (90 giây)",
+          "paragraphs": [
+            "Gõ tên miền vào ô 独自ドメイン. Các tùy chọn .com, .net, .jp và .blog có sẵn hiện ngay tại chỗ. Bấm chọn và được giữ ngay tức khắc — không cần tài khoản nhà đăng ký riêng."
+          ]
+        },
+        {
+          "heading": "Bước 3 — WordPress かんたんセットアップ (60 giây)",
+          "paragraphs": [
+            "Nhập tên site, tên miền (tự điền từ bước 2), tài khoản admin WordPress, mật khẩu và email. Chọn theme từ menu thả nếu đã có ý, hoặc bỏ qua và quyết sau."
+          ]
+        },
+        {
+          "heading": "Bước 4 — Tài khoản và thanh toán (3 phút)",
+          "paragraphs": [
+            "Tạo tài khoản ConoHa (email và mật khẩu). Thanh toán bằng thẻ tín dụng hoặc キャリア決済 (cước nhà mạng Nhật). Biểu mẫu thẻ tiêu chuẩn — không có bẫy. Ghi lại thông tin trước khi bấm 次へ; nếu lỗi, biểu mẫu không giữ giá trị đã nhập."
+          ]
+        },
+        {
+          "heading": "Bước 5 — Xác minh SMS hoặc cuộc gọi (30 giây)",
+          "paragraphs": [
+            "ConoHa gửi mã 4 chữ số đến số điện thoại đã đăng ký. Bạn nhập mã. Một lần duy nhất cho mỗi tài khoản, là bước chống gian lận."
+          ]
+        },
+        {
+          "heading": "Bước 6 — Chờ SSL (5-10 phút, tự động)",
+          "paragraphs": [
+            "Bảng điều khiển hiện «SSL設定中» trong vài phút khi Let's Encrypt cấp chứng chỉ. Khi chuyển thành «利用中», site đã hoạt động tại https://tenmiencuaban. Mở URL admin WordPress mà bảng điều khiển hiển thị và bắt đầu viết."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Phán quyết",
+      "paragraphs": [
+        "ConoHa WING là con đường gọn nhất giữa «tôi muốn có blog» và «blog tôi đã online» tại Nhật năm 2026. Cài đặt dễ không phải khẩu hiệu marketing — là một luồng thực và hoạt động, mất 11 phút từ đầu đến cuối trong tay tôi. Với người mới dùng WordPress, một mình điểm đó đã đáng tiền đăng ký.",
+        "Để mắt giá gia hạn. Mức khuyến mãi thật sự tốt; mức sau khuyến mãi bình thường. Một nhắc nhở lịch ở tháng 35 biến cái bẫy thành chi phí hosting bình thường. Chú ý chi tiết đó, ConoHa WING khó bị đánh bại trong nhóm khán giả mục tiêu.",
+        "Nếu bạn nằm ngoài nhóm đó — kỹ sư cần SSH, người sở thích ngân sách dưới 500 ¥/tháng, doanh nghiệp cần điện thoại lúc 2 giờ sáng — thì Xserver và Lolipop tồn tại có lý do. Chọn theo ràng buộc làm bạn đau nhất, đừng chọn theo trang marketing. Để so sánh trực diện năm hosting bao gồm mixhost và Sakura, xem bài viết đồng hành: «Hosting JP tốt nhất 2026: bảng xếp hạng 5 nhà», được xếp theo TTFB, giá và đối tượng phù hợp."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "ConoHa WING hay Xserver?",
+      "a": "ConoHa WING cho tốc độ thuần và quy trình đăng ký mượt hơn; Xserver nếu từng cần gọi điện cho hỗ trợ vào ban đêm. Hai bên cách nhau khoảng 10% giá ở các gói tương đương, nên yếu tố quyết định thường là phong cách hỗ trợ và khẩu vị bảng điều khiển, không phải con số yên."
+    },
+    {
+      "q": "Có thể chuyển blog WordPress hiện có sang ConoHa WING?",
+      "a": "Có — công cụ かんたん移行 lấy thông tin FTP của server nguồn và bản dump cơ sở dữ liệu rồi tự sao chép. Trong thử nghiệm của tôi, blog 600 bài chuyển dưới 40 phút. Bước lâu nhất là chuyển DNS (phụ thuộc TTL, thường vài giờ)."
+    },
+    {
+      "q": "Có thể né mức tăng khi gia hạn?",
+      "a": "Trực tiếp thì không — khi block hợp đồng kết thúc, gia hạn theo giá sau khuyến mãi. Cái né được là bị bất ngờ. Chọn thời hạn dài nhất bạn tự tin (12 hoặc 36 tháng), đặt nhắc tháng 35, đánh giá lại lúc đó."
+    },
+    {
+      "q": "Phù hợp khán giả ngoài Nhật không?",
+      "a": "Kỹ thuật thì được, nhưng trung tâm dữ liệu ở Nhật, độ trễ tới khách Mỹ/EU cao hơn 120-180ms so với host ở Mỹ. Nếu phần lớn độc giả ngoài châu Á, đặt Cloudflare phía trước hoặc dùng host WordPress managed ở Mỹ (Kinsta, WP Engine) sẽ hợp hơn."
+    },
+    {
+      "q": "Hủy trong 30 ngày thì sao?",
+      "a": "Phần WINGパック được hoàn lại. Phí đăng ký tên miền không hoàn — tên miền vẫn thuộc bạn và tự gia hạn. Hủy từ 契約・料金 trong bảng điều khiển hoặc qua bộ phận hỗ trợ; cả hai đều được."
+    },
+    {
+      "q": "Đặt Cloudflare trước ConoHa WING được không?",
+      "a": "Được. Trỏ nameserver tên miền sang Cloudflare, đặt bản ghi A về IP của ConoHa, bật chế độ SSL Full (strict). Chứng chỉ Let's Encrypt phía ConoHa vẫn mã hóa kết nối origin. Tôi chạy bộ này 30 ngày không sự cố."
+    },
+    {
+      "q": "Cài đặt dễ cài WordPress phiên bản nào?",
+      "a": "Phiên bản ổn định hiện hành của WordPress lúc cấp phát — tại bài viết là 6.7.x. PHP mặc định 8.2, có thể đổi sang 8.3 trong bảng điều khiển. Tự động cập nhật bản phụ bật mặc định; bản chính cần đồng ý thủ công."
+    },
+    {
+      "q": "Bảng điều khiển có tiếng Anh không?",
+      "a": "Một phần. Khung bảng điều khiển có công tắc Anh ở góc trên phải, nhưng nhiều liên kết tài liệu và một số cấu hình nâng cao vẫn chỉ tiếng Nhật. Nếu hoàn toàn không đọc được tiếng Nhật, đó là điểm cản trở lớn nhất."
+    }
+  ],
+  "offerNotes": {
+    "conoha-wing": "Lựa chọn nếu bạn lập website WordPress đầu tiên ở Nhật và muốn hosting, tên miền, SSL và cài WP gói gọn trong một lần đăng ký.",
+    "xserver": "Chọn cái này nếu lịch sử uptime dài và hỗ trợ điện thoại 24/7 quan trọng hơn TTFB nhanh hơn của ConoHa.",
+    "lolipop-server": "Cùng công ty mẹ với ConoHa, phần cứng chậm hơn, giá rẻ hơn. Chỉ cho blog sở thích và ngân sách hạn chế."
+  },
+  "pinDescription": "ConoHa WING thử 30 ngày: WordPress online trong 11 phút, TTFB 198ms, tặng tên miền, bảng điều khiển tiếng Nhật. Hơn Xserver ở đâu, kém Lolipop ở đâu, kèm số liệu."
+}

@@ -1,0 +1,185 @@
+{
+  "site": {
+    "name": "Pickly",
+    "footerTagline": "17 dilde özenle seçilmiş incelemeler."
+  },
+  "nav": {
+    "articles": "Yazılar",
+    "about": "Hakkımızda",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "contact": "İletişim",
+    "disclosure": "Reklam bildirimi"
+  },
+  "home": {
+    "heading": "Dürüst incelemeler, dolgu yok.",
+    "subheading": "İnsanlar tarafından seçilmiş, insanlar için yazılmış karşılaştırmalar ve satın alma rehberleri.",
+    "empty": "Yazılar hazırlanıyor. Yakında tekrar uğra."
+  },
+  "category": {
+    "tech": "Teknoloji",
+    "home": "Ev",
+    "beauty": "Güzellik",
+    "fashion": "Moda",
+    "fitness": "Fitness",
+    "food": "Mutfak",
+    "finance": "Finans",
+    "travel": "Seyahat",
+    "parenting": "Aile",
+    "pets": "Evcil hayvan"
+  },
+  "article": {
+    "publishedAt": "{date} tarihinde yayınlandı",
+    "updatedAt": "{date} tarihinde güncellendi",
+    "rankingHeading": "Önerilerimiz",
+    "offersHeading": "Nereden alınır",
+    "faqHeading": "Sık sorulan sorular"
+  },
+  "offer": {
+    "defaultCta": "Fırsata bak",
+    "disclosureBadge": "Reklam",
+    "pending": "Yakında",
+    "regionFallback": "Yakında",
+    "searchOnAmazon": "Amazon"
+  },
+  "legal": {
+    "disclosure": {
+      "heading": "Reklam bildirimi",
+      "body1": "Pickly; Amazon Associates, ShareASale, CJ ve Impact gibi affiliate programlarına katılır. «Reklam» etiketi veya rel=\"sponsored\" özniteliği taşıyan bir bağlantıya tıklayıp satın alma yaptığında, sana ekstra bir maliyet eklenmeden komisyon alabiliriz.",
+      "body2": "Editöryel öneriler bağımsızdır. Yerleştirme için ödeme almıyoruz; dürüstçe öneremediğimiz ürünler, komisyonu ne kadar yüksek olursa olsun listeden çıkarılır.",
+      "body3": "Belirli bir öneri hakkında sorun varsa iletişim sayfasından bize yaz."
+    },
+    "lastUpdatedLabel": "Son güncelleme: {date}",
+    "about": {
+      "heading": "Pickly Hakkında",
+      "lede": "Ürünleri test ediyor, dürüstçe karşılaştırıyor ve sonucu 17 dilde yayınlıyoruz.",
+      "sections": [
+        {
+          "heading": "Siteyi kim yürütüyor",
+          "paragraphs": [
+            "Pickly bağımsız bir editöryel projedir. İncelemeleri insanlar yazar. Sonucu 17 dile çevirmek için yapay zekâ kullanıyoruz, ama değerlendirme, test ve sıralama insanlardan gelir — algoritmadan değil.",
+            "Japonya merkezli bir şahıs şirketi olarak yayın yapıyoruz. İşletmeci bilgisi alan adı tescil kuruluşunda kayıtlı; doğrudan iletişim için iletişim sayfasındaki adresi kullan."
+          ]
+        },
+        {
+          "heading": "Nasıl para kazanıyoruz",
+          "paragraphs": [
+            "Bir okuyucu işaretli bağlantıya tıklayıp satın alma yaptığında affiliate komisyonu kazanırız. Oranlar partnere göre değişir ve sıralamayı asla etkilemez. Pickly'de yer satılık değildir.",
+            "Makale sayfalarında bağlamsal display reklamlar görüntülenebilir. Yasal sayfalar, iletişim sayfası ve ana sayfa reklam taşımaz."
+          ]
+        },
+        {
+          "heading": "Editöryel standartlar",
+          "paragraphs": [
+            "Önerdiğimiz her ürün ya doğrudan test edilir ya da resmi spesifikasyonlar, üçüncü taraf benchmarklar ve doğrulanmış kullanıcı raporlarına dayanılarak değerlendirilir. Dürüstçe öneremediğimiz ürünler komisyon büyüklüğüne bakılmaksızın hariç tutulur.",
+            "Her ürün için en az bir zayıf yönü belirtiyoruz. Hiçbir ürün kusursuz değildir; aksini söyleyen bir inceleme inceleme değildir."
+          ]
+        },
+        {
+          "heading": "Diller",
+          "paragraphs": [
+            "Yazılar önce İngilizce yazılır, ardından Japonca, İspanyolca, Portekizce (BR), Fransızca, Almanca, İtalyanca, Rusça, Arapça, Çince (basitleştirilmiş ve geleneksel), Korece, Hintçe, Endonezce, Tayca, Vietnamca ve Türkçeye uyarlanır. Yerel örnekler, fiyatlar ve deyimler her dile göre düzenlenir — ham makine çevirisi değildir."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "heading": "Gizlilik Politikası",
+      "lastUpdated": "2026-05-07",
+      "sections": [
+        {
+          "heading": "Topladığımız bilgiler",
+          "paragraphs": [
+            "Pickly'yi ziyaret ettiğinde barındırma sağlayıcımız ve CDN (Cloudflare) IP adresi, tarayıcı türü, gönderen sayfa ve zaman damgası gibi bilgileri otomatik olarak kaydeder. Bunlar güvenlik, kötüye kullanım önleme ve toplu trafik analizi için kullanılan standart sunucu kayıtlarıdır.",
+            "Hesap açma zorunluluğu yoktur ve form yoluyla kişisel veri toplamayız. contact@pickly.blog adresine yazarsan mesajını ve adresini olağan iletişim kapsamında saklarız."
+          ]
+        },
+        {
+          "heading": "Çerezler ve analitik",
+          "paragraphs": [
+            "Üçüncü taraf çerezler kullanmayan ve siteler arası takip yapmayan, gizliliğe saygılı analitikler (örn. Cloudflare Web Analytics) kullanabiliriz. İleride yeni araçlar eklersek bu politikayı güncelleyecek ve hukuken gerekiyorsa onay isteyeceğiz.",
+            "Affiliate bağlantıları, partnerlere izleme parametreleri (tag, clickref) iletir. Tıkladığında partner kendi politikasına göre kendi çerezlerini koyabilir. Sadece toplu performans raporları alırız, kişisel veri değil."
+          ]
+        },
+        {
+          "heading": "Üçüncü taraflar",
+          "paragraphs": [
+            "Katıldığımız affiliate ağları arasında Amazon Associates, A8.net, Moshimo, ValueCommerce, Rakuten Affiliate, ShareASale, CJ Affiliate, Impact ve Awin bulunur. Her biri kendi politikasına göre çalışır.",
+            "Çok sayıda okuyucumuzun geldiği Pinterest'in kendi analitiği ve gizlilik kontrolleri vardır. Pickly'de Pinterest izleme pikseli kullanmıyoruz."
+          ]
+        },
+        {
+          "heading": "Haklarınız (GDPR, CCPA)",
+          "paragraphs": [
+            "AB, Birleşik Krallık veya Kaliforniya'daysan, tuttuğumuz kişisel verilere erişim, düzeltme veya silme talep etme ve belirli paylaşımları reddetme hakkına sahipsin. Bu haklarını kullanmak için contact@pickly.blog adresine yaz. Doğrulanabilir taleplere 30 gün içinde yanıt veririz.",
+            "Kişisel veri satmıyoruz ve bilerek 16 yaşın altındakilerden veri toplamıyoruz."
+          ]
+        },
+        {
+          "heading": "Saklama süresi",
+          "paragraphs": [
+            "Sunucu kayıtları 90 güne kadar saklanır. E-posta yazışmaları destek amacıyla 3 yıla kadar saklanır, sonra silinir."
+          ]
+        },
+        {
+          "heading": "Güncellemeler",
+          "paragraphs": [
+            "Bu politikayı güncelleyebiliriz. Yukarıdaki «Son güncelleme» tarihi en son değişikliği gösterir. Önemli değişiklikler ana sayfada en az 14 gün öne çıkarılır."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "heading": "Kullanım Şartları",
+      "lastUpdated": "2026-05-07",
+      "sections": [
+        {
+          "heading": "Kabul",
+          "paragraphs": [
+            "pickly.blog adresine erişerek bu şartları kabul etmiş sayılırsın. Kabul etmiyorsan lütfen siteyi kullanma."
+          ]
+        },
+        {
+          "heading": "İçeriğin kullanımı",
+          "paragraphs": [
+            "Aksi belirtilmedikçe Pickly'deki yazı, düzen ve kod bize aittir. Atıf ve geri bağlantı koşuluyla en fazla 200 kelime alıntı yapabilirsin. Tam makaleleri izinsiz yeniden yayınlamak yasaktır.",
+            "Markalar ve ürün adları ilgili sahiplerinindir ve burada inceleme ile karşılaştırma amacıyla adil kullanım kapsamında yer alır."
+          ]
+        },
+        {
+          "heading": "Affiliate bildirimi",
+          "paragraphs": [
+            "Pickly, işaretli bağlantılar üzerinden uygun satın almalardan komisyon alır. Tam bildirim affiliate sayfasındadır. Editöryel öneriler bağımsızdır; komisyon büyüklüğü sıralamayı etkilemez."
+          ]
+        },
+        {
+          "heading": "Sorumluluk reddi",
+          "paragraphs": [
+            "Pickly'deki bilgiler genel bilgilendirme amacıyla «olduğu gibi» sunulur. Bilgi ve fiyat doğruluğu için elimizden geleni yaparız ancak bütünlük, doğruluk veya uygunluk garantisi vermeyiz. Önemli ayrıntıları satıcıdan doğrudan teyit et.",
+            "Pickly bir finansal danışman, sağlık uzmanı veya avukat değildir. Finans, sağlık, fitness gibi içerikler genel bilgi olup profesyonel tavsiye değildir."
+          ]
+        },
+        {
+          "heading": "Sorumluluk sınırı",
+          "paragraphs": [
+            "Pickly, sitenin kullanımı veya içeriklere güven sonucu doğan doğrudan, dolaylı, arızi veya sonuç niteliğindeki zararlardan sorumlu değildir. Memnuniyetsizlik halinde tek çözüm kullanmayı bırakmaktır."
+          ]
+        },
+        {
+          "heading": "Geçerli hukuk",
+          "paragraphs": [
+            "Bu şartlar Japonya hukukuna tabidir. Yerel hukuk aksini gerektirmediği sürece anlaşmazlıklar Japon mahkemelerinde çözülür."
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "heading": "İletişim",
+      "lede": "Her e-postayı okuyoruz. En hızlı yol aşağıda.",
+      "emailLabel": "E-posta",
+      "responseTime": "3 iş günü içinde yanıt vermeyi hedefliyoruz. Somut ve ilgili bir teklif içermeyen sponsorluk/PR mesajları yanıtsız kalır — genel toplu mesajlar otomatik filtrelenir.",
+      "scope": "Yardımcı olabileceklerimiz: olgu düzeltmeleri, kırık affiliate bağlantıları, ürün güncelleme talepleri, erişilebilirlik sorunları. Yardımcı olamayacaklarımız: satıcı sitelerindeki sipariş takibi, genel hayat tavsiyeleri.",
+      "privacy": "Mesajın ve e-posta adresin Gizlilik Politikası'na göre işlenir."
+    }
+  }
+}

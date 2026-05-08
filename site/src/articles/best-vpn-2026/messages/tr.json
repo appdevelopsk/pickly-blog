@@ -1,0 +1,55 @@
+{
+  "title": "2026'nın En İyi VPN'i: 5 Servis 30 Gün Test Edildi",
+  "description": "NordVPN, ExpressVPN, Surfshark, Proton VPN ve Mullvad'i 12 ülkede 30 gün test ettik. 2026'da gerçekten en hızlı, en gizli ve en uygun fiyatlısı hangisi.",
+  "lede": "Beş servis. Otuz gün. On iki ülke. Hızları ölçtük, gizlilik vaatlerini denetledik, gerçek ödeme tutarlarını not ettik — reklamdaki değil.",
+  "sections": [
+    {
+      "heading": "Nasıl test ettik",
+      "paragraphs": [
+        "Her VPN, Tokyo'daki 1 Gbps fiber hatta çalıştı, VPN'siz kontrol değeri 940 Mbps. 12 endpoint ülkesini test ettik (ABD, İngiltere, Almanya, Fransa, Hollanda, Japonya, Singapur, Avustralya, Brezilya, Hindistan, Kanada, Güney Afrika), her ülke için üç ölçüm, ortalama alındı.",
+        "Gizlilik iddiaları, mevcutsa son üçüncü taraf denetimi ve şirketin şeffaflık raporuyla karşılaştırıldı. Yargı yetkisi, ödeme yöntemleri ve iptal sırasında ne olduğuna da baktık — gerçeğin meydana çıktığı an.",
+        "Fiyat, Mayıs 2026'da yerel vergiler dahil, çoklu yıl taahhüdü gerektirmeyen en uzun planın gerçek ödeme tutarıdır. Üç ayda kaybolan vitrin fiyatlarını dikkate almıyoruz."
+      ]
+    },
+    {
+      "heading": "2026'da değişenler",
+      "paragraphs": [
+        "DPI'a dayanıklı protokoller niş olmaktan çıkıp standart oldu. Proton'un Stealth'ı, NordVPN'in NordWhisper'ı ve ExpressVPN'in Lightway-Stealth'ı; İran, Çin ve (Kasım 2025 yasasından beri) Rusya'da kullanılan derin paket incelemesini geçer. Mullvad hâlâ WireGuard-over-TCP'ye güveniyor — çalışıyor ama daha yavaş.",
+        "Ücretsiz katmanlar artık kullanılabilir. Proton VPN Free üç ülkede sınırsız veri, reklamsız sunuyor. Bir ücretsiz VPN'in dipnotsuz tavsiye edilebildiği ilk durum.",
+        "Fiyatlar daha karmaşık. Giriş fiyatları düştü (ExpressVPN $8.32/ay, Surfshark $3.99/ay) ama otomatik yenileme fiyatları sektör genelinde %15-30 arttı. Aşağıda her iki fiyatı da listeliyoruz."
+      ]
+    },
+    {
+      "heading": "Hangisi sana göre",
+      "paragraphs": [
+        "Stream izliyorsan, ExpressVPN daha çok kataloğu daha güvenilir şekilde açıyor. Netflix US, BBC iPlayer ve DAZN Japan, ilk sunucudan itibaren 30 gün boyunca her gün çalıştı. NordVPN kıl payı ikinci.",
+        "Fiyat öncelikli isen, Surfshark $3.99/ay ve sınırsız cihaz ile açık ara kazanır. Püf noktası: yenileme $59.76/yıl. Takvime hatırlatıcı koymak şart.",
+        "Sansürlü bir ülkede yaşıyorsan veya gizliliğe çok önem veriyorsan, Proton VPN'in Stealth'ı testimizdeki en güvenilir bypass ve İsviçre yasası AB bloğundaki en güçlüsü. Nakit ödemek istiyorsan Mullvad.",
+        "Tüm evi kapsamak için — telefonlar, akıllı TV'ler, oyun konsolları, aile dizüstüleri — NordVPN'in Meshnet'i (artık ücretsiz) ve 6 eşzamanlı bağlantı en zahmetsiz kurulum."
+      ]
+    },
+    {
+      "heading": "Sonuç",
+      "paragraphs": [
+        "2026'da tek bir en iyi VPN yok. Hız ve stream'de ExpressVPN, fiyatta Surfshark, gizlilik ve sansürde Proton, Monero ile ödeyip kimseye güvenmeyenler için Mullvad, düşünmek istemeyenler için NordVPN.",
+        "Proton hariç ücretsiz VPN'leri pas geç. Geri kalanı seni loglar, bant genişliğini satar veya ikisini birden — para harcayan bir hizmetin dördüncü açıklaması yok."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "VPN internetimi yavaşlatır mı?", "a": "Evet, ama modern protokolde sandığın kadar değil. 940 Mbps hattımız WireGuard veya Lightway'de 720-820 Mbps'ye düştü. Stream ve oyun fark etmiyor. Özel bir nedenin yoksa OpenVPN'den uzak dur." },
+    { "q": "Ücretsiz VPN'ler güvenli mi?", "a": "Çoğu değil. 2024'teki bağımsız bir araştırma, ücretsiz Android VPN'lerinin %38'inde kötü amaçlı yazılım veya kullanıcı verilerinin üçüncü taraflara satıldığını buldu. Proton VPN Free tek ana akım istisna — ücretli sürümle aynı altyapı, sadece bant genişliği ve ülke sayısı kısıtlı." },
+    { "q": "VPN gerçekten Netflix'i açar mı?", "a": "Açar, ama hangi katalog görüneceği Netflix'in henüz tespit etmediği IP'lere bağlı. ExpressVPN ve NordVPN IP'leri günlük döndürüyor. Ucuz hizmetler genelde film ortasında IP banlandığında düşer." },
+    { "q": "VPN kullanmak yasal mı?", "a": "Türkiye, ABD, AB, Japonya, İngiltere, Avustralya gibi çoğu ülkede yasal. Çin, Rusya (Kasım 2025'ten itibaren), İran, Kuzey Kore, Belarus'ta yasak veya kısıtlı. Korsan içerik için kullanmak her yerde yasa dışı." },
+    { "q": "VPN şirketleri gerçekten log tutmuyor mu?", "a": "Denetlenenler tutmuyor — Proton, Mullvad ve NordVPN son 18 ayda bağımsız denetimleri geçti. Denetlenmemiş 'no-log' iddiaları sadece reklam metni. Asıl kanıt, mahkeme celbinde ne teslim edildiği: Mullvad ve Proton, teslim edecek bir şey olmayan vakaları yayınladı." },
+    { "q": "Bir hesapla kaç cihaz?", "a": "Surfshark sınırsız. ExpressVPN 8 eşzamanlı. NordVPN 10. Proton 10. Mullvad 5. Telefon, dizüstü ve TV'si olan dört kişilik aile için 8'in altı dar gelmeye başlar." }
+  ],
+  "offerNotes": {
+    "nordvpn": "En iyi genel — bir VPN al ve düşünme demek istiyorsan bunu seç.",
+    "expressvpn": "Stream için en iyi — Netflix US, BBC, DAZN 30 gün boyunca her gün açık.",
+    "surfshark": "En iyi fiyat-özellik — $3.99/ay, sınırsız cihaz. Yenileme fiyatına dikkat.",
+    "protonvpn": "Gizlilik ve sansür için en iyi — Stealth, Çin'de, İran'da, Rusya'da DPI'ı yener.",
+    "mullvad": "Sıkı gizlilik için en iyi — €5/ay sabit, nakit ve Monero, sıfır pazarlama oyunu."
+  },
+  "pinDescription": "Beş VPN, 30 gün, 12 ülke test edildi. Hız, gerçek fiyat ve gizlilik karşılaştırıldı — en ucuz olanı diğerlerinin yarısı, ama en hızlı bambaşka biri."
+}

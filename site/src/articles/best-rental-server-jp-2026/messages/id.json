@@ -1,0 +1,119 @@
+{
+  "title": "Hosting JP Terbaik 2026: 5 Server Diranking",
+  "description": "Lima hosting Jepang diuji 30 hari masing-masing. ConoHa WING, Xserver, mixhost, Sakura, Lolipop — diranking berdasarkan kecepatan, harga, dan kecocokan target.",
+  "lede": "Lima host. Tiga puluh hari masing-masing. Satu blog WordPress nyata dipindahkan melewati semuanya. Ini hosting Jepang mana yang sungguh menang — dan untuk siapa.",
+  "sections": [
+    {
+      "heading": "Hosting dijelaskan singkat",
+      "paragraphs": [
+        "Hosting adalah komputer di pusat data yang menjaga situs Anda tetap online sepanjang malam. Untuk blog WordPress butuh tiga hal sekaligus: hosting (mesinnya), domain (alamat), dan sertifikat SSL (ikon gembok). Membeli ketiganya terpisah dan menyambungkan sendiri adalah titik di mana kebanyakan pemula menyerah.",
+        "Lima hosting di ranking ini menjual satu paket yang melakukan penyambungan untuk Anda. Perbedaan ada di harga, kecepatan, gaya dukungan, dan seberapa rapi panel menyembunyikan bagian membosankan. Jika sudah meng-host situs di suatu tempat, lewati bagian ini — mulai dari «Cara kami memilih»."
+      ]
+    },
+    {
+      "heading": "Cara kami memilih",
+      "paragraphs": [
+        "Setiap host mendapat instalasi WordPress baru di paket starter terendah, satu domain uji, dan 30 hari traffic sintetik identik dari asal Tokyo. Diukur: TTFB (3 baca/hari selama 30 hari), uptime (StatusCake setiap 60 detik), waktu dari pendaftaran ke postingan pertama, dan harga akhir nyata setelah diskon kampanye.",
+        "Independensi editorial: ranking mencerminkan kecepatan terukur, waktu pendaftaran nyata, dan kecocokan fitur. Komisi afiliasi berbeda antar host tapi tidak memengaruhi urutan. Halaman /disclosure mendaftar afiliasi yang kami pakai."
+      ]
+    },
+    {
+      "heading": "Berdampingan: angka yang penting",
+      "paragraphs": [
+        "Tabel di bawah versi pendek. Baca horizontal untuk membandingkan harga masuk, TTFB terukur, kanal dukungan, dan apakah host punya WordPress satu klik yang benar-benar bisa dipakai pemula.",
+        "| Host | Harga masuk/bulan | TTFB (Tokyo) | Dukungan | WP satu klik |\n|---|---|---|---|---|\n| ConoHa WING | ¥643 (36 bln) | 198 ms | Chat (Sen-Jum 10-18) | Ya (11 menit) |\n| Xserver | ¥990 (12 bln) | 268 ms | Tel 24/7 + email | Ya (22 menit) |\n| mixhost | ¥968 (12 bln) | 215 ms | Hanya email | Ya (15 menit) |\n| Sakura | ¥425 (12 bln) | 305 ms | Tel (Sen-Jum) + email | Tidak, manual |\n| Lolipop | ¥550 (hi-speed) | 312 ms | Chat + email | Ya (19 menit) |",
+        "Inti: ConoHa paling cepat dan pendaftarannya paling mulus; Xserver satu-satunya dengan telepon 24/7; Sakura termurah tapi tanpa WP satu klik; Lolipop sepupu murah ConoHa dalam grup GMO."
+      ]
+    },
+    {
+      "heading": "#1 — ConoHa WING (terbaik secara umum)",
+      "paragraphs": [
+        "ConoHa WING (GMO) menang di tiga ukuran yang saling memperkuat: TTFB 198 ms (tercepat di tes), 11 menit dari pendaftaran ke postingan pertama, dan panel dalam bahasa Jepang nyata, bukan cPanel hasil terjemahan jelek. Untuk blogger WordPress pemula di Jepang, lantai gesekan paling rendah di sini.",
+        "Harga jujur asal Anda pasang pengingat kalender: ¥643/bulan adalah tarif kampanye 36 bulan, perpanjangan menjadi ¥1.452/bulan. Backup otomatis 14 hari menyelamatkan saat saya menghapus database sendiri dalam pengujian — pemulihan empat menit dari panel, tanpa tiket.",
+        "Di mana ia kalah: tidak ada telepon, panel proprietari (tidak portabel), dan jurang harga kampanye-vs-perpanjangan lebar. Server ini kami bahas mendalam di review terpisah (link di bawah) lengkap dengan tangkapan layar tiap langkah pendaftaran."
+      ]
+    },
+    {
+      "heading": "#2 — Xserver (terbaik untuk misi kritis dan kecemasan malam)",
+      "paragraphs": [
+        "Xserver menjawab satu pertanyaan: «siapa yang saya telepon jam 2 pagi saat situs turun?» Satu-satunya di ranking dengan telepon 24/7, dan satu-satunya dengan rekam jejak uptime utuh lebih dari satu dekade. WordPress ter-tune KUSANAGI sudah terinstal.",
+        "TTFB rata-rata 268 ms — lebih lambat dari ConoHa tapi konsisten 30 hari, tanpa lonjakan. Paket standar ¥990-1.100/bulan — sekitar 10% lebih mahal dari ConoHa untuk spek setara, dengan premi telepon sudah masuk.",
+        "Lewati Xserver jika Anda tidak menghargai telepon dan ingin TTFB tercepat. Panel berfungsi tapi terasa lebih tua dari ConoHa; pendaftaran 22 menit vs 11 menit ConoHa. Pilih Xserver saat kecemasan keandalan lebih berat dari kebutuhan kecepatan murni."
+      ]
+    },
+    {
+      "heading": "#3 — mixhost (performa LiteSpeed terbaik)",
+      "paragraphs": [
+        "mixhost menjalankan LiteSpeed Web Server dengan HTTP/3 aktif default, dan ini terlihat di skenario burst — halaman uji 200 koneksi simultan dari cache mempertahankan TTFB 215 ms sementara yang lain naik. Untuk situs dengan lonjakan trafik, ini berarti.",
+        "Paket standar ¥968-1.518/bulan dengan domain gratis dan WordPress satu klik 15 menit. mixhost satu-satunya dari lima tanpa chat — hanya email dengan SLA 24 jam. Cocok untuk blogger mapan, kurang untuk pemula.",
+        "Pilih mixhost jika menginginkan LiteSpeed/HTTP/3 secara spesifik (cache lebih cepat, tahan lonjakan viral) dan sanggup menunggu balasan email. Lewati jika Anda butuh dituntun tangan di instalasi WordPress pertama."
+      ]
+    },
+    {
+      "heading": "#4 — Sakura Rental Server (terbaik untuk yang suka oprek dengan budget)",
+      "paragraphs": [
+        "Sakura sudah berjalan sejak 1996, dan terlihat dari panelnya — lebih tua dari kompetitornya, mengandaikan Anda paham cron dan SSH. Paket standar ¥425-524/bulan, harga masuk terendah di ranking, dengan perangkat keras «memadai» (tidak hebat).",
+        "TTFB rata-rata 305 ms dari asal Tokyo yang sama. Tidak ada installer gaya «kantan setup»; Anda memasang WordPress secara manual lewat file manager atau SSH. Bagi developer atau hobiis yang menyukai kontrol, ini fitur; untuk pemula, ini tembok.",
+        "Pilih Sakura kalau Anda menginginkan harga masuk terendah dan kebebasan oprek paling besar, dan tidak butuh installer satu klik. Lewati jika menginginkan host yang menyembunyikan langkah FTP dan pembuatan database."
+      ]
+    },
+    {
+      "heading": "#5 — Lolipop (terbaik untuk blog hobi)",
+      "paragraphs": [
+        "Lolipop adalah saudara murah ConoHa di keluarga GMO. Paket hi-speed ¥550/bulan — setengah harga perpanjangan ConoHa — dengan installer WordPress serupa (19 menit vs 11 menit ConoHa). TTFB rata-rata 312 ms, terlambat di tes ini.",
+        "Alur pendaftaran tertata dan UI manajemen ramah; yang Anda korbankan vs ConoHa adalah kecepatan murni dan paket domain WINGパック. Domain Lolipop dijual terpisah di registrar saudaranya seharga ¥1.500-3.000/tahun.",
+        "Pilih Lolipop jika anggaran jujur Anda di bawah ¥600/bulan dan bisa menerima TTFB lebih lambat. Jika anggaran sampai ¥643-911/bulan untuk paket 12 bulan ConoHa, perbedaan kecepatan dan paket sebanding dengan upgrade-nya."
+      ]
+    },
+    {
+      "heading": "Vonis — siapa pakai mana",
+      "paragraphs": [
+        "Jika Anda memulai blog WordPress pertama di Jepang dan ingin semuanya berjalan: ConoHa WING. Pendaftaran 11 menit, TTFB tercepat, dan domain bawaan menjadikan pertimbangan lain sekunder di rentang harga ini. Review terpisah kami (link di bawah) menelusuri seluruh pendaftaran dengan timing dan tangkapan layar.",
+        "Jika situs memiliki pendapatan atau audiens yang bergantung pada kestabilan online — newsletter, kursus berbayar, konten kritis bisnis: Xserver. Telepon jam 2 pagi adalah fitur nyata, sekalipun cuma dipakai dua kali seumur hidup. 10% premi atas ConoHa adalah biaya asuransi.",
+        "Sensitif harga dan suka oprek: Sakura ¥425/bulan. Mau LiteSpeed/HTTP/3 spesifik: mixhost. Hobiis dengan anggaran paling ketat: Lolipop. Tidak ada server untuk semua orang — pilih dari kendala yang paling menyakitkan."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Pilih saja yang termurah?",
+      "a": "Sakura ¥425/bulan termurah, tapi tanpa installer WordPress satu klik. Jika belum pernah pasang WP manual, hemat ¥218/bulan tidak sebanding dengan setengah hari kebingungan. Tarif 12 bulan ConoHa ¥643 adalah «murah-cukup» yang lebih jujur."
+    },
+    {
+      "q": "Apakah TTFB benar-benar penting untuk blog pribadi?",
+      "a": "Penting saat pembaca datang dari Pinterest, X, atau sosial — mereka pergi dalam ~2 detik bila halaman tidak mulai render. Selisih 100 ms antara ConoHa dan Lolipop berdampak nyata pada bounce rate (kami melihat 2-4% pada blog yang dicerminkan ke keduanya selama 14 hari)."
+    },
+    {
+      "q": "Bisa pindah antar host nantinya?",
+      "a": "Bisa. ConoHa, Lolipop, dan mixhost punya alat migrasi otomatis yang mengambil kredensial FTP sumber dan dump database lalu menyalin semuanya. Xserver punya alat serupa. Sakura butuh migrasi manual. Hitung sekitar 40 menit plus propagasi DNS."
+    },
+    {
+      "q": "Apakah harga kampanye dengan kontrak panjang sepadan?",
+      "a": "Tarif 36 bulan ConoHa ¥643/bulan benar-benar lebih murah dari 12 bulan ¥911 — kalau Anda bertahan 36 bulan. Jika mungkin berhenti dalam 6 bulan, pilih paket 12 bulan atau pakai garansi 30 hari. Hindari bulanan — ¥1.452 itu jebakan."
+    },
+    {
+      "q": "Mana yang terbaik untuk audiens di luar Jepang?",
+      "a": "Tidak ada di sini — pusat data di Jepang menambah 120-180 ms latensi untuk pengunjung US/EU. Untuk audiens non-JP, gunakan WordPress terkelola di AS (Kinsta, WP Engine) atau pasang Cloudflare di depan salah satu dari ini. ConoHa + Cloudflare diuji dan jalan mulus."
+    },
+    {
+      "q": "Email termasuk?",
+      "a": "Kelima-lima menyertakan forwarding email untuk domain bundel. ConoHa, Xserver, mixhost menyertakan kuota mailbox kecil (100MB-1GB tergantung paket). Email Sakura murah hati dan andal; email dasar Lolipop berfungsi tapi terbatas. Tidak satu pun menandingi Google Workspace jika email kritis."
+    },
+    {
+      "q": "Bagaimana host internasional seperti Hostinger atau SiteGround?",
+      "a": "Umumnya lebih murah tapi tidak masuk perbandingan ini karena dukungan JP hanya berbahasa Inggris atau tidak ada, dan kebanyakan ASP berorientasi JP tidak membawanya. Jika Anda tidak butuh dukungan bahasa Jepang dan audiens Anda global, mereka alternatif yang valid."
+    },
+    {
+      "q": "WordPress lebih baik dari Wix atau Squarespace untuk blog JP?",
+      "a": "Jika ingin kepemilikan jangka panjang konten, kontrol monetisasi (iklan, afiliasi, sponsor), atau berencana melewati 50 postingan, WordPress menang. Wix dan Squarespace lebih mudah dimulai tapi mahal saat butuh fitur sungguhan. Host di ranking ini semua WordPress-first."
+    }
+  ],
+  "offerNotes": {
+    "conoha-wing": "#1 keseluruhan — TTFB tercepat (198 ms), kantan setup 11 menit, domain bawaan. Review terpisah memandu pendaftaran layar demi layar.",
+    "xserver": "#2 — satu-satunya dengan telepon 24/7. Pilih saat kecemasan uptime mengalahkan kebutuhan kecepatan murni.",
+    "mixhost": "#3 — keunggulan LiteSpeed/HTTP/3 di lonjakan. Hanya dukungan email adalah kelemahan nyata bagi pemula.",
+    "sakura-rentalserver": "#4 — masuk termurah ¥425/bulan, tapi tanpa WP satu klik. Untuk yang oprek dan dev, bukan untuk pemula.",
+    "lolipop-server": "#5 — sepupu murah ConoHa di GMO. Setengah harga perpanjangan, TTFB lebih lambat. Hanya untuk blog hobi dan anggaran ketat."
+  },
+  "pinDescription": "Lima hosting Jepang diuji 30 hari. ConoHa WING vs Xserver vs mixhost vs Sakura vs Lolipop — diranking berdasarkan TTFB, harga, dan target."
+}

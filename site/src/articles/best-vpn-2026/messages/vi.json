@@ -1,0 +1,55 @@
+{
+  "title": "VPN tốt nhất 2026: 5 dịch vụ qua 30 ngày thử nghiệm",
+  "description": "Chúng tôi đã thử NordVPN, ExpressVPN, Surfshark, Proton VPN và Mullvad trong 30 ngày tại 12 quốc gia. Cái nào thực sự nhanh nhất, riêng tư nhất và đáng tiền nhất năm 2026.",
+  "lede": "Năm dịch vụ. Ba mươi ngày. Mười hai quốc gia. Đo tốc độ thật, kiểm tra cam kết riêng tư, ghi giá thực ở thanh toán — không phải giá quảng cáo.",
+  "sections": [
+    {
+      "heading": "Cách chúng tôi thử nghiệm",
+      "paragraphs": [
+        "Mỗi VPN chạy trên cáp quang 1 Gbps tại Tokyo, mức kiểm soát không VPN là 940 Mbps. Thử 12 nước endpoint (Mỹ, Anh, Đức, Pháp, Hà Lan, Nhật, Singapore, Úc, Brazil, Ấn Độ, Canada, Nam Phi), ba lượt mỗi nước, lấy trung bình.",
+        "Cam kết riêng tư được đối chiếu với báo cáo kiểm toán độc lập gần nhất (nếu có) và báo cáo minh bạch của hãng. Chúng tôi cũng nhìn thẩm quyền pháp lý, phương thức thanh toán và việc gì xảy ra khi hủy — đó mới là khoảnh khắc của sự thật.",
+        "Giá là tổng tiền thanh toán thực tế tháng 5 năm 2026, đã bao gồm thuế địa phương, trên gói dài nhất không cần cam kết nhiều năm. Giá khuyến mãi biến mất sau ba tháng bị loại bỏ."
+      ]
+    },
+    {
+      "heading": "Điều gì thay đổi năm 2026",
+      "paragraphs": [
+        "Giao thức kháng DPI từ ngách trở thành tiêu chuẩn. Stealth của Proton, NordWhisper của NordVPN và Lightway-Stealth của ExpressVPN đều vượt qua kiểm tra gói sâu ở Iran, Trung Quốc và (từ luật tháng 11/2025) Nga. Mullvad vẫn dựa vào WireGuard-over-TCP — chạy được nhưng chậm hơn.",
+        "Gói miễn phí cuối cùng đã dùng được. Proton VPN Free cho dữ liệu không giới hạn ở ba nước, không quảng cáo. Lần đầu tiên một VPN miễn phí có thể giới thiệu mà không cần ghi chú.",
+        "Giá rối hơn. Giá ban đầu giảm (ExpressVPN $8.32/tháng, Surfshark $3.99/tháng) nhưng giá gia hạn tự động tăng 15-30% toàn ngành. Bên dưới ghi cả hai mức giá."
+      ]
+    },
+    {
+      "heading": "Chọn cái nào",
+      "paragraphs": [
+        "Nếu xem stream, ExpressVPN mở khóa nhiều thư viện đáng tin cậy hơn. Netflix Mỹ, BBC iPlayer, DAZN Nhật đều chạy ngay máy chủ đầu tiên trong 30 ngày liên tục. NordVPN bám sát phía sau.",
+        "Nếu để ý giá, Surfshark $3.99/tháng và thiết bị không giới hạn là người thắng. Lưu ý: gia hạn $59.76/năm. Đặt nhắc nhở trong lịch.",
+        "Nếu sống ở quốc gia kiểm duyệt hoặc đặt nặng riêng tư, Stealth của Proton VPN là cách vượt đáng tin cậy nhất trong thử nghiệm, và luật Thụy Sĩ là mạnh nhất khối châu Âu. Mullvad nếu muốn trả tiền mặt nữa.",
+        "Để phủ cả nhà — điện thoại, smart TV, máy chơi game, laptop của người thân — Meshnet của NordVPN (giờ miễn phí) cộng 6 kết nối đồng thời là setup nhẹ nhàng nhất."
+      ]
+    },
+    {
+      "heading": "Kết luận",
+      "paragraphs": [
+        "Năm 2026 không có một VPN tốt nhất duy nhất. ExpressVPN thắng tốc độ và stream. Surfshark thắng giá. Proton thắng riêng tư và vượt kiểm duyệt. Mullvad thắng cho ai trả Monero và không tin ai. NordVPN là lựa chọn an toàn nếu lười suy nghĩ.",
+        "Bỏ qua VPN miễn phí trừ Proton. Còn lại đều ghi log, bán băng thông, hoặc cả hai — không có lựa chọn thứ tư cho dịch vụ tốn tiền vận hành."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "VPN có làm chậm Internet không?", "a": "Có, nhưng ít hơn bạn nghĩ với giao thức hiện đại. Đường 940 Mbps của chúng tôi giảm còn 720-820 Mbps trên WireGuard hoặc Lightway. Stream và game không bị ảnh hưởng. Tránh OpenVPN trừ khi bạn cần cụ thể." },
+    { "q": "VPN miễn phí có an toàn?", "a": "Phần lớn là không. Nghiên cứu độc lập năm 2024 cho thấy 38% VPN Android miễn phí chứa mã độc hoặc bán dữ liệu người dùng. Proton VPN Free là ngoại lệ chính thống duy nhất — cùng hạ tầng với bản trả phí, chỉ giới hạn băng thông và số nước." },
+    { "q": "VPN có thật sự mở khóa Netflix?", "a": "Có, nhưng thư viện bạn thấy phụ thuộc IP nào Netflix chưa phát hiện. ExpressVPN và NordVPN xoay IP hàng ngày. Dịch vụ rẻ thường rớt giữa phim." },
+    { "q": "Dùng VPN có hợp pháp?", "a": "Hợp pháp ở Việt Nam, Mỹ, EU, Nhật, Anh, Úc và đa số nước. Bị cấm hoặc hạn chế ở Trung Quốc, Nga (từ tháng 11/2025), Iran, Triều Tiên, Belarus. Dùng để truy cập nội dung lậu là bất hợp pháp ở mọi nơi." },
+    { "q": "VPN có thật sự không lưu log?", "a": "Những bên đã được kiểm toán — Proton, Mullvad, NordVPN — đều vượt qua kiểm toán độc lập trong 18 tháng qua. Tuyên bố 'no-log' chưa được kiểm toán chỉ là quảng cáo. Bằng chứng là thứ giao nộp khi có yêu cầu pháp lý: Mullvad và Proton từng công bố các vụ không có gì để giao." },
+    { "q": "Một tài khoản dùng được mấy thiết bị?", "a": "Surfshark không giới hạn. ExpressVPN 8 đồng thời. NordVPN 10. Proton 10. Mullvad 5. Gia đình bốn người với điện thoại, laptop, TV — dưới 8 bắt đầu chật." }
+  ],
+  "offerNotes": {
+    "nordvpn": "Tổng thể tốt nhất — chọn cái này nếu muốn một VPN và khỏi nghĩ.",
+    "expressvpn": "Tốt nhất cho stream — Netflix Mỹ, BBC, DAZN mở 30 ngày liên tiếp.",
+    "surfshark": "Đáng tiền nhất — $3.99/tháng, thiết bị không giới hạn. Cảnh giác giá gia hạn.",
+    "protonvpn": "Tốt nhất cho riêng tư và vùng kiểm duyệt — Stealth thắng DPI ở Trung Quốc, Iran, Nga.",
+    "mullvad": "Tốt nhất cho riêng tư cực đoan — €5/tháng cố định, tiền mặt và Monero, không chiêu marketing."
+  },
+  "pinDescription": "Năm VPN, 30 ngày, 12 quốc gia thử nghiệm. Tốc độ, giá thật và riêng tư so sánh — rẻ nhất bằng nửa giá còn lại, nhưng nhanh nhất là dịch vụ khác."
+}

@@ -1,0 +1,185 @@
+{
+  "site": {
+    "name": "Pickly",
+    "footerTagline": "Avis et comparatifs en 17 langues."
+  },
+  "nav": {
+    "articles": "Articles",
+    "about": "À propos",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "contact": "Contact",
+    "disclosure": "Mention d'affiliation"
+  },
+  "home": {
+    "heading": "Des avis vrais, sans remplissage.",
+    "subheading": "Comparatifs et guides d'achat choisis par des humains, écrits pour des humains.",
+    "empty": "Les articles arrivent bientôt. Revenez nous voir."
+  },
+  "category": {
+    "tech": "Tech",
+    "home": "Maison",
+    "beauty": "Beauté",
+    "fashion": "Mode",
+    "fitness": "Sport",
+    "food": "Cuisine",
+    "finance": "Finances",
+    "travel": "Voyage",
+    "parenting": "Parentalité",
+    "pets": "Animaux"
+  },
+  "article": {
+    "publishedAt": "Publié le {date}",
+    "updatedAt": "Mis à jour le {date}",
+    "rankingHeading": "Notre sélection",
+    "offersHeading": "Où acheter",
+    "faqHeading": "Questions fréquentes"
+  },
+  "offer": {
+    "defaultCta": "Voir l'offre",
+    "disclosureBadge": "Pub",
+    "pending": "Bientôt disponible",
+    "regionFallback": "Bientôt disponible",
+    "searchOnAmazon": "Amazon"
+  },
+  "legal": {
+    "disclosure": {
+      "heading": "Mention d'affiliation",
+      "body1": "Pickly participe à des programmes d'affiliation, notamment Amazon Associates, ShareASale, CJ et Impact. Si vous cliquez sur un lien portant la mention « Pub » ou l'attribut rel=\"sponsored\" puis effectuez un achat, nous pouvons percevoir une commission, sans surcoût pour vous.",
+      "body2": "Les recommandations éditoriales sont indépendantes. Nous n'acceptons aucun paiement pour mise en avant, et un produit que nous ne pouvons pas recommander honnêtement est exclu, même si la commission est élevée.",
+      "body3": "Pour toute question sur une recommandation précise, contactez-nous via la page de contact."
+    },
+    "lastUpdatedLabel": "Dernière mise à jour : {date}",
+    "about": {
+      "heading": "À propos de Pickly",
+      "lede": "Nous testons des produits, comparons en toute honnêteté et publions le résultat dans 17 langues.",
+      "sections": [
+        {
+          "heading": "Qui est derrière",
+          "paragraphs": [
+            "Pickly est un projet éditorial indépendant. Les avis sont écrits par des humains. Nous utilisons l'IA pour traduire le résultat dans 17 langues, mais le jugement, les tests et le classement viennent de personnes — pas d'algorithmes.",
+            "Nous opérons depuis le Japon en tant qu'entreprise individuelle. Les informations sur l'opérateur sont déposées chez notre registrar de domaine ; pour un contact direct, utilisez l'adresse de la page de contact."
+          ]
+        },
+        {
+          "heading": "Comment nous gagnons de l'argent",
+          "paragraphs": [
+            "Nous touchons des commissions d'affiliation lorsqu'un lecteur clique sur un lien marqué et finalise un achat. Les taux varient selon les partenaires et n'influencent jamais le classement. Une place sur Pickly n'est pas à vendre.",
+            "Nous pouvons afficher de la publicité contextuelle sur les pages d'articles. Les pages légales, la page de contact et l'accueil n'en portent pas."
+          ]
+        },
+        {
+          "heading": "Standards éditoriaux",
+          "paragraphs": [
+            "Chaque produit recommandé a soit été testé directement, soit évalué sur la base de spécifications documentées, de benchmarks indépendants et de retours utilisateurs vérifiés. Les produits que nous ne pouvons recommander honnêtement sont écartés, peu importe la commission.",
+            "Nous indiquons au moins une faiblesse pour chaque produit. Aucun produit n'est parfait, et un avis qui dit le contraire n'est pas un avis."
+          ]
+        },
+        {
+          "heading": "Langues",
+          "paragraphs": [
+            "Les articles sont d'abord rédigés en anglais puis adaptés en japonais, espagnol, portugais (BR), français, allemand, italien, russe, arabe, chinois (simplifié et traditionnel), coréen, hindi, indonésien, thaï, vietnamien et turc. Exemples locaux, prix et tournures sont ajustés par langue — il ne s'agit pas de traduction automatique brute."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "heading": "Politique de confidentialité",
+      "lastUpdated": "2026-05-07",
+      "sections": [
+        {
+          "heading": "Ce que nous collectons",
+          "paragraphs": [
+            "Lorsque vous visitez Pickly, notre hébergeur et CDN (Cloudflare) enregistrent automatiquement votre IP, votre navigateur, la page de provenance et l'horodatage. Ce sont des journaux serveur standard, utilisés pour la sécurité, la prévention des abus et l'analyse agrégée du trafic.",
+            "Nous ne demandons pas de compte et ne collectons pas de données personnelles via des formulaires. Si vous écrivez à contact@pickly.blog, votre message et votre email sont conservés dans le cadre normal de l'échange."
+          ]
+        },
+        {
+          "heading": "Cookies et analyse",
+          "paragraphs": [
+            "Nous pouvons utiliser une analytique respectueuse de la vie privée comme Cloudflare Web Analytics, qui n'utilise pas de cookies tiers et ne vous suit pas entre sites. Si nous ajoutons d'autres outils, nous mettrons à jour cette politique et solliciterons votre consentement quand la loi l'exige.",
+            "Les liens d'affiliation transmettent des paramètres (tag, clickref) aux partenaires marchands. Le marchand peut poser ses propres cookies selon sa propre politique. Nous ne recevons que des rapports agrégés, pas de données personnelles."
+          ]
+        },
+        {
+          "heading": "Tiers",
+          "paragraphs": [
+            "Les réseaux d'affiliation auxquels nous participons incluent Amazon Associates, A8.net, Moshimo, ValueCommerce, Rakuten Affiliate, ShareASale, CJ Affiliate, Impact et Awin. Chacun applique sa propre politique.",
+            "Pinterest, d'où viennent beaucoup de lecteurs, dispose de sa propre analytique et de ses propres contrôles. Nous n'intégrons pas de pixels Pinterest sur Pickly."
+          ]
+        },
+        {
+          "heading": "Vos droits (RGPD, CCPA)",
+          "paragraphs": [
+            "Si vous êtes dans l'UE, au Royaume-Uni ou en Californie, vous avez le droit de demander l'accès, la rectification ou l'effacement des données personnelles vous concernant, et de vous opposer à certains partages. Pour exercer ces droits, écrivez à contact@pickly.blog. Nous répondons aux demandes vérifiables sous 30 jours.",
+            "Nous ne vendons pas de données personnelles. Nous ne collectons pas sciemment de données concernant les moins de 16 ans."
+          ]
+        },
+        {
+          "heading": "Conservation",
+          "paragraphs": [
+            "Les journaux serveur sont conservés jusqu'à 90 jours. Les échanges email sont conservés jusqu'à 3 ans à des fins de support, puis supprimés."
+          ]
+        },
+        {
+          "heading": "Mises à jour",
+          "paragraphs": [
+            "Cette politique peut évoluer. La date de « dernière mise à jour » reflète le changement le plus récent. Les modifications importantes seront annoncées sur la page d'accueil pendant au moins 14 jours."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "heading": "Conditions d'utilisation",
+      "lastUpdated": "2026-05-07",
+      "sections": [
+        {
+          "heading": "Acceptation",
+          "paragraphs": [
+            "En accédant à pickly.blog, vous acceptez ces conditions. Si vous n'êtes pas d'accord, merci de ne pas utiliser le site."
+          ]
+        },
+        {
+          "heading": "Utilisation du contenu",
+          "paragraphs": [
+            "Sauf mention contraire, le texte, la mise en page et le code sur Pickly nous appartiennent. Vous pouvez citer jusqu'à 200 mots avec attribution et lien retour. La republication d'articles entiers sans permission n'est pas autorisée.",
+            "Les marques et noms de produits appartiennent à leurs propriétaires respectifs et apparaissent ici dans le cadre d'un usage loyal à des fins de critique et de comparaison."
+          ]
+        },
+        {
+          "heading": "Mention d'affiliation",
+          "paragraphs": [
+            "Pickly perçoit des commissions pour des achats qualifiés via des liens marqués. La mention complète figure sur la page d'affiliation. Les recommandations sont éditoriales ; le montant de la commission n'influence pas le classement."
+          ]
+        },
+        {
+          "heading": "Avertissement",
+          "paragraphs": [
+            "Les informations sur Pickly sont fournies « telles quelles » à titre informatif général. Nous faisons de notre mieux pour la précision des faits et des prix mais sans garantie d'exhaustivité, d'exactitude ou d'adéquation. Vérifiez toujours les informations critiques directement auprès des marchands.",
+            "Pickly n'est ni conseiller financier, ni professionnel de santé, ni avocat. Les contenus finance, santé ou fitness sont informatifs, pas des avis professionnels."
+          ]
+        },
+        {
+          "heading": "Limitation de responsabilité",
+          "paragraphs": [
+            "Pickly décline toute responsabilité pour tout dommage direct, indirect, accessoire ou consécutif résultant de l'usage du site ou de la confiance accordée à son contenu. Le seul recours en cas d'insatisfaction est de cesser d'utiliser le site."
+          ]
+        },
+        {
+          "heading": "Loi applicable",
+          "paragraphs": [
+            "Ces conditions sont régies par le droit japonais. Les litiges sont tranchés par les tribunaux japonais, sauf disposition contraire de la loi locale."
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "heading": "Contact",
+      "lede": "Nous lisons chaque email. Le moyen le plus rapide de nous joindre est ci-dessous.",
+      "emailLabel": "Email",
+      "responseTime": "Nous visons une réponse sous 3 jours ouvrés. Les propositions de sponsoring ou de RP sans proposition concrète et pertinente sont ignorées — les démarchages génériques sont filtrés automatiquement.",
+      "scope": "Nous pouvons aider sur : corrections factuelles, liens d'affiliation cassés, demandes de mise à jour produit et problèmes d'accessibilité. Nous ne pouvons pas aider sur le suivi de commandes auprès des marchands ni les conseils de vie en général.",
+      "privacy": "Votre message et votre email sont traités conformément à la Politique de confidentialité."
+    }
+  }
+}

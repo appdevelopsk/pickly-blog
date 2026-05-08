@@ -1,0 +1,41 @@
+{
+  "name": "affiliate-factory-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "validate": "tsx scripts/validate.ts",
+    "audit:i18n": "tsx scripts/audit-i18n.ts",
+    "audit:affiliate": "tsx scripts/audit-affiliate.ts",
+    "sitemap": "tsx scripts/generate-sitemap.ts",
+    "og:generate": "tsx scripts/generate-og.ts",
+    "moshimo:link": "tsx scripts/moshimo-link.ts",
+    "catalog:update": "tsx scripts/catalog-update.ts"
+  },
+  "dependencies": {
+    "next": "15.5.15",
+    "next-intl": "3.26.5",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "@types/js-yaml": "4.0.9",
+    "@types/node": "22.10.5",
+    "@types/react": "19.0.7",
+    "@types/react-dom": "19.0.3",
+    "autoprefixer": "10.4.20",
+    "eslint": "9.18.0",
+    "eslint-config-next": "15.5.15",
+    "js-yaml": "4.1.0",
+    "postcss": "8.5.1",
+    "sharp": "^0.34.5",
+    "tailwindcss": "3.4.17",
+    "tsx": "4.19.2",
+    "typescript": "5.7.3"
+  }
+}

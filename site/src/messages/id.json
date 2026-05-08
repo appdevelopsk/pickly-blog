@@ -1,0 +1,185 @@
+{
+  "site": {
+    "name": "Pickly",
+    "footerTagline": "Ulasan terkurasi dalam 17 bahasa."
+  },
+  "nav": {
+    "articles": "Artikel",
+    "about": "Tentang",
+    "privacy": "Privasi",
+    "terms": "Ketentuan",
+    "contact": "Kontak",
+    "disclosure": "Pernyataan afiliasi"
+  },
+  "home": {
+    "heading": "Ulasan jujur, tanpa basa-basi.",
+    "subheading": "Perbandingan dan panduan beli yang dipilih manusia, ditulis untuk manusia.",
+    "empty": "Artikel sedang disiapkan. Mampir lagi nanti."
+  },
+  "category": {
+    "tech": "Teknologi",
+    "home": "Rumah",
+    "beauty": "Kecantikan",
+    "fashion": "Fashion",
+    "fitness": "Fitness",
+    "food": "Dapur",
+    "finance": "Keuangan",
+    "travel": "Perjalanan",
+    "parenting": "Pengasuhan",
+    "pets": "Hewan"
+  },
+  "article": {
+    "publishedAt": "Dipublikasikan {date}",
+    "updatedAt": "Diperbarui {date}",
+    "rankingHeading": "Pilihan utama",
+    "offersHeading": "Tempat membeli",
+    "faqHeading": "Pertanyaan umum"
+  },
+  "offer": {
+    "defaultCta": "Lihat penawaran",
+    "disclosureBadge": "Iklan",
+    "pending": "Segera hadir",
+    "regionFallback": "Segera hadir",
+    "searchOnAmazon": "Amazon"
+  },
+  "legal": {
+    "disclosure": {
+      "heading": "Pernyataan afiliasi",
+      "body1": "Pickly mengikuti program afiliasi termasuk Amazon Associates, ShareASale, CJ, dan Impact. Saat Anda mengeklik tautan bertanda «Iklan» atau atribut rel=\"sponsored\" lalu menyelesaikan pembelian, kami dapat menerima komisi tanpa biaya tambahan bagi Anda.",
+      "body2": "Rekomendasi editorial bersifat independen. Kami tidak menerima bayaran untuk penempatan, dan produk yang tidak bisa kami rekomendasikan dengan jujur tetap dikecualikan, berapapun komisinya.",
+      "body3": "Jika ada pertanyaan tentang rekomendasi tertentu, hubungi kami lewat halaman kontak."
+    },
+    "lastUpdatedLabel": "Terakhir diperbarui: {date}",
+    "about": {
+      "heading": "Tentang Pickly",
+      "lede": "Kami menguji produk, membandingkannya secara jujur, dan menyajikan hasilnya dalam 17 bahasa.",
+      "sections": [
+        {
+          "heading": "Siapa di balik situs ini",
+          "paragraphs": [
+            "Pickly adalah proyek editorial independen. Ulasan ditulis manusia. Kami menggunakan AI untuk menerjemahkan hasil ke 17 bahasa, namun penilaian, pengujian, dan pemeringkatan dilakukan oleh manusia — bukan algoritma.",
+            "Kami beroperasi dari Jepang sebagai publikasi berbentuk usaha perorangan. Informasi operator terdaftar di registrar domain; untuk kontak langsung gunakan email di halaman kontak."
+          ]
+        },
+        {
+          "heading": "Cara kami menghasilkan uang",
+          "paragraphs": [
+            "Kami menerima komisi afiliasi saat pembaca mengeklik tautan bertanda dan menyelesaikan pembelian. Tarif berbeda per partner dan tidak pernah memengaruhi pemeringkatan. Penempatan di Pickly tidak dijual.",
+            "Iklan kontekstual dapat tampil di halaman artikel. Halaman legal, halaman kontak, dan beranda tidak menampilkan iklan."
+          ]
+        },
+        {
+          "heading": "Standar editorial",
+          "paragraphs": [
+            "Setiap produk yang kami rekomendasikan diuji langsung atau dievaluasi terhadap spesifikasi resmi, benchmark independen, dan laporan pengguna terverifikasi. Produk yang tidak bisa kami rekomendasikan dengan jujur akan dikeluarkan, berapapun komisinya.",
+            "Kami mencantumkan setidaknya satu kelemahan untuk setiap produk. Tidak ada produk yang sempurna, dan ulasan yang menyatakan sebaliknya bukanlah ulasan."
+          ]
+        },
+        {
+          "heading": "Bahasa",
+          "paragraphs": [
+            "Artikel ditulis dalam bahasa Inggris terlebih dahulu lalu diadaptasi ke Jepang, Spanyol, Portugis (BR), Prancis, Jerman, Italia, Rusia, Arab, Tionghoa (Mandarin sederhana dan tradisional), Korea, Hindi, Indonesia, Thai, Vietnam, dan Turki. Contoh, harga, dan ungkapan lokal disesuaikan per bahasa — bukan terjemahan mesin mentah."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "heading": "Kebijakan Privasi",
+      "lastUpdated": "2026-05-07",
+      "sections": [
+        {
+          "heading": "Yang kami kumpulkan",
+          "paragraphs": [
+            "Saat Anda mengunjungi Pickly, penyedia hosting dan CDN (Cloudflare) secara otomatis mencatat IP, jenis browser, halaman perujuk, dan stempel waktu. Ini adalah log server standar untuk keamanan, pencegahan penyalahgunaan, dan analisis lalu lintas agregat.",
+            "Kami tidak meminta akun dan tidak mengumpulkan data pribadi melalui formulir. Jika Anda mengirim email ke contact@pickly.blog, pesan dan alamat Anda disimpan sebagai bagian korespondensi normal."
+          ]
+        },
+        {
+          "heading": "Cookie dan analitik",
+          "paragraphs": [
+            "Kami dapat menggunakan analitik yang menghormati privasi seperti Cloudflare Web Analytics — tanpa cookie pihak ketiga dan tanpa pelacakan lintas situs. Jika kami menambah alat baru di masa depan, kami akan memperbarui kebijakan ini dan meminta persetujuan bila diwajibkan hukum.",
+            "Tautan afiliasi mengirim parameter pelacakan (tag, clickref) ke partner. Partner dapat menetapkan cookie sendiri sesuai kebijakannya. Kami hanya menerima laporan agregat, bukan data pribadi."
+          ]
+        },
+        {
+          "heading": "Pihak ketiga",
+          "paragraphs": [
+            "Jaringan afiliasi yang kami ikuti meliputi Amazon Associates, A8.net, Moshimo, ValueCommerce, Rakuten Affiliate, ShareASale, CJ Affiliate, Impact, dan Awin. Masing-masing memiliki kebijakan tersendiri.",
+            "Pinterest, asal banyak pembaca kami, memiliki analitik dan kontrol privasi sendiri. Kami tidak memasang piksel pelacak Pinterest di Pickly."
+          ]
+        },
+        {
+          "heading": "Hak Anda (GDPR, CCPA)",
+          "paragraphs": [
+            "Jika Anda berada di UE, Inggris, atau California, Anda berhak meminta akses, koreksi, atau penghapusan data pribadi yang kami simpan, dan menolak pemrosesan tertentu. Kirim email ke contact@pickly.blog. Kami menanggapi permintaan terverifikasi dalam 30 hari.",
+            "Kami tidak menjual data pribadi dan tidak dengan sengaja mengumpulkan data dari anak di bawah 16 tahun."
+          ]
+        },
+        {
+          "heading": "Retensi",
+          "paragraphs": [
+            "Log server disimpan hingga 90 hari. Korespondensi email disimpan hingga 3 tahun untuk tujuan dukungan, kemudian dihapus."
+          ]
+        },
+        {
+          "heading": "Pembaruan",
+          "paragraphs": [
+            "Kami dapat memperbarui kebijakan ini. Tanggal «Terakhir diperbarui» di atas mencerminkan perubahan terbaru. Perubahan material akan ditampilkan di beranda minimal 14 hari."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "heading": "Ketentuan Layanan",
+      "lastUpdated": "2026-05-07",
+      "sections": [
+        {
+          "heading": "Penerimaan",
+          "paragraphs": [
+            "Dengan mengakses pickly.blog, Anda menyetujui ketentuan ini. Bila tidak setuju, mohon tidak menggunakan situs."
+          ]
+        },
+        {
+          "heading": "Penggunaan konten",
+          "paragraphs": [
+            "Kecuali disebutkan lain, teks artikel, tata letak, dan kode di Pickly adalah milik kami. Anda boleh mengutip hingga 200 kata dengan atribusi dan tautan balik. Republikasi penuh tanpa izin tidak diperbolehkan.",
+            "Merek dan nama produk milik pemilik masing-masing dan tampil di sini dalam batas penggunaan wajar untuk tujuan ulasan dan perbandingan."
+          ]
+        },
+        {
+          "heading": "Pernyataan afiliasi",
+          "paragraphs": [
+            "Pickly menerima komisi atas pembelian memenuhi syarat melalui tautan bertanda. Pengungkapan lengkap ada di halaman afiliasi. Rekomendasi editorial bersifat independen; besarnya komisi tidak memengaruhi peringkat."
+          ]
+        },
+        {
+          "heading": "Penafian",
+          "paragraphs": [
+            "Informasi di Pickly disediakan «sebagaimana adanya» untuk tujuan informasi umum. Kami berusaha menjaga keakuratan fakta dan harga, namun tidak menjamin kelengkapan, akurasi, atau kesesuaian. Selalu verifikasi detail penting langsung ke pedagang.",
+            "Pickly bukan penasihat keuangan, tenaga medis, atau pengacara. Artikel keuangan, kesehatan, dan kebugaran adalah informasi umum, bukan saran profesional."
+          ]
+        },
+        {
+          "heading": "Batasan tanggung jawab",
+          "paragraphs": [
+            "Pickly tidak bertanggung jawab atas kerugian langsung, tidak langsung, insidental, atau konsekuensial yang timbul dari penggunaan situs atau ketergantungan pada kontennya. Pemulihan tunggal atas ketidakpuasan adalah berhenti menggunakan."
+          ]
+        },
+        {
+          "heading": "Hukum yang berlaku",
+          "paragraphs": [
+            "Ketentuan ini tunduk pada hukum Jepang. Sengketa diselesaikan di pengadilan Jepang, kecuali hukum setempat mensyaratkan lain."
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "heading": "Kontak",
+      "lede": "Kami membaca setiap email. Cara tercepat menghubungi kami ada di bawah.",
+      "emailLabel": "Email",
+      "responseTime": "Kami berusaha membalas dalam 3 hari kerja. Sponsor/PR tanpa proposal yang konkret dan relevan akan diabaikan — kontak generik tersaring otomatis.",
+      "scope": "Kami bisa membantu: koreksi fakta, tautan afiliasi rusak, permintaan pembaruan produk, dan masalah aksesibilitas. Tidak bisa membantu: pelacakan pesanan di situs pedagang atau nasihat hidup umum.",
+      "privacy": "Pesan dan email Anda diperlakukan sesuai Kebijakan Privasi."
+    }
+  }
+}

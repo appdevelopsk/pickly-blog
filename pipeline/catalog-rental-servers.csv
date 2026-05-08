@@ -1,0 +1,22 @@
+# レンタルサーバー5社のカタログ更新テンプレート(拡張形式)。
+#
+# 提携承認後、各行の rawUrl 列を埋める:
+#   - moshimo (ConoHa WING / Lolipop): rawUrl は空でよい(env 変数で解決)
+#     先に .env.local に MOSHIMO_CONOHA_WING_{P_ID,PC_ID,PL_ID} と MOSHIMO_LOLIPOP_* を設定
+#   - a8 (Xserver / mixhost / Sakura): A8 管理画面「広告リンク」の「テキスト」形式の URL を全文コピーして貼る
+#
+# 一括反映:
+#   cd site
+#   npm run catalog:update -- --offer-list ../pipeline/catalog-rental-servers.csv --apply
+#
+# 検証:
+#   npm run validate && npm run build
+#
+# 詳細手順は docs/RENTAL_SERVER_ASP_APPLICATION.md 参照。
+
+offerId,network,productId,rawUrl,markets
+conoha-wing,moshimo,conoha-wing,,JP
+lolipop-server,moshimo,lolipop,,JP
+xserver,a8,xserver-jp,REPLACE_WITH_A8_URL,JP
+mixhost,a8,mixhost-jp,REPLACE_WITH_A8_URL,JP
+sakura-rentalserver,a8,sakura-rentalserver-jp,REPLACE_WITH_A8_URL,JP

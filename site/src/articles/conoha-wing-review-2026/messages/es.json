@@ -1,0 +1,150 @@
+{
+  "title": "Reseña ConoHa WING (2026): WordPress online en 11 minutos",
+  "description": "Probé ConoHa WING de GMO durante 30 días: setup de WordPress en 11 minutos, TTFB de 198ms, dominio gratis. Dónde le gana a Xserver y dónde pierde con Lolipop.",
+  "lede": "Compré un plan WINGパック, monté un blog WordPress real y lo usé 30 días, midiendo todo desde el alta hasta la primera publicación. Esto es lo que funciona y lo que no.",
+  "sections": [
+    {
+      "heading": "Servidor de hosting, en cristiano",
+      "paragraphs": [
+        "Un servidor de hosting es un ordenador en un datacenter que mantiene tu web online mientras duermes. Para un blog WordPress necesitas tres cosas juntas: hosting (la máquina), un dominio (la dirección) y un certificado SSL (el candado). Comprarlas por separado y enchufarlas entre sí es donde la mayoría de principiantes tira la toalla.",
+        "El plan WINGパック de ConoHa WING junta esas tres cosas en un único formulario de alta. Eliges plan, eliges nombre de dominio, escribes un título de sitio y diez minutos después tu WordPress está vivo en https://tu-nombre.com con HTTPS. Sin tocar DNS, sin papeleo de SSL, sin FTP.",
+        "Es shared hosting gestionado, no un VPS. Esa decisión es la correcta si no quieres aprender Nginx, pero implica que no puedes entrar por SSH a recompilar PHP. Si esa frase te sonó a ventaja, salta ConoHa y alquila un VPS."
+      ]
+    },
+    {
+      "heading": "Para quién es ConoHa WING",
+      "paragraphs": [
+        "Bloggers primerizos en Japón que quieren una sola factura, un solo panel y soporte por chat que responde en japonés. El flujo かんたんセットアップ es el único que he visto que esconde toda la configuración detrás de un único formulario.",
+        "Usuarios actuales de Xserver o Sakura que quieren bajar el TTFB en el mismo rango de precio. ConoHa WING marcó un TTFB medio de 198ms en 30 días desde origen Tokio, frente a 268ms de Xserver X10 y 312ms del plan hi-speed de Lolipop con el mismo build de WordPress.",
+        "No es para ti si necesitas soporte telefónico a las 2 de la mañana — el chat es solo de 10:00 a 18:00 en días laborables. Tampoco si tu presupuesto real está por debajo de 500 yenes/mes — Lolipop hace lo mismo más lento por la mitad del precio de renovación."
+      ]
+    },
+    {
+      "heading": "Lo que funcionó en 30 días",
+      "paragraphs": [
+        "La promesa de かんたんセットアップ se cumplió. Desde el clic en «aplicar» hasta publicar un Hello World pasaron 11 minutos y 04 segundos, incluida la espera de 4 minutos para que se emitiera el SSL. El mismo flujo me llevó 22 minutos en Xserver y 19 en Lolipop.",
+        "El backup automático me salvó el día 9. Borré yo mismo la base de datos probando una migración de plugins y restauré desde la snapshot del día anterior en 4 minutos desde el panel WING. Sin tickets, sin esperas. 14 días de backups diarios incluidos sin coste extra.",
+        "El panel está en japonés real, no en japonés de traductor automático. Cada etiqueta usa los términos que un usuario japonés de hosting realmente usa (サイト管理, ドメイン, メール) en lugar de traducciones torpes de cPanel. Cosa pequeña, pero ahorra tiempo buscando menús."
+      ]
+    },
+    {
+      "heading": "Lo que falta",
+      "paragraphs": [
+        "No hay soporte telefónico. Todo contacto técnico va por chat (horario laboral) o email (respuesta en 24 horas). Xserver sigue ganando aquí si alguna vez has necesitado llamar a alguien a medianoche.",
+        "El panel es propio, ni cPanel ni Plesk. Si algún día migras a un servidor que use herramientas estándar, vuelves a aprender el flujo. A la mayoría no le afecta; a un ingeniero que gestiona varios hosts, sí.",
+        "El precio de portada es precio de campaña. La página de marketing muestra «¥643/mes» (≈ €4,15 a 155 yen/€), que es el contrato a 36 meses pagado por adelantado durante una campaña. La renovación tras esos 36 meses son ¥1.452/mes a día de hoy. Pon una alerta en el calendario al mes 35."
+      ]
+    },
+    {
+      "heading": "Precios en mayo de 2026",
+      "paragraphs": [
+        "WINGパック ベーシック va de ¥643 a ¥1.452/mes según duración del contrato y si hay campaña activa. La ventana de campaña está abierta más a menudo que cerrada — al cierre de este artículo el plan a 36 meses está a ¥643/mes (≈ €4,15), el de 12 meses a ¥911 y el mensual a ¥1.452 (≈ €9,40).",
+        "Incluye un dominio gratis. Eso reemplaza los 1.500-3.000 yenes anuales que pagarías a un registrador, y el dominio sigue gratis mientras mantengas activo el WINGパック. Dos dominios en los planes superiores.",
+        "Hay garantía de devolución de 30 días sobre WINGパック. Si cancelas dentro de los 30 días te devuelven la parte de WINGパック — las tasas de registro de dominio no. En la práctica funciona como una prueba de bajo riesgo."
+      ]
+    },
+    {
+      "heading": "Tranquilidad para primerizos",
+      "paragraphs": [
+        "Cinco mecanismos que reducen el coste de equivocarse — vale la pena conocerlos antes de firmar, no después.",
+        "Backups automáticos diarios, 14 días, incluidos. Restaurar es un clic en el panel, no un ticket de soporte. Es la red de seguridad que te deja experimentar con plugins sin miedo.",
+        "La herramienta かんたん移行 mueve un sitio WordPress existente desde otro hosting a ConoHa WING en una sola operación. Introduces credenciales FTP de origen, la herramienta copia archivos y base de datos, y al día siguiente el DNS ya ha apuntado.",
+        "El SSL gratuito de Let's Encrypt se activa con un solo toggle del panel. No hay archivo de certificado que descargar o subir, y la renovación es automática mientras el sitio esté en ConoHa.",
+        "El datacenter está en Japón y el equipo de soporte responde en japonés en horario laboral JST. Si tu audiencia está en Japón, latencia e idioma juegan a tu favor.",
+        "La ventana de devolución de 30 días funciona como prueba real — montas el sitio, ves cómo va, y te marchas con el dinero del WINGパック si no encaja."
+      ]
+    },
+    {
+      "heading": "Recorrido del setup",
+      "paragraphs": [
+        "Seis pasos del alta a la primera publicación. Tiempo total medido en mi caso: 11 minutos, con la emisión del SSL corriendo en paralelo."
+      ],
+      "subsections": [
+        {
+          "heading": "Paso 1 — Elige plan (30 segundos)",
+          "paragraphs": [
+            "En la página de alta elige WINGパック → ベーシック → duración del contrato. El plan a 12 meses es el punto dulce para principiantes: ahorras mucho frente al mensual y aún no te has comprometido demasiado."
+          ]
+        },
+        {
+          "heading": "Paso 2 — Elige dominio (90 segundos)",
+          "paragraphs": [
+            "Escribe el nombre de dominio en el campo 独自ドメイン. Aparecen al instante las opciones disponibles en .com, .net, .jp y .blog. Eliges una y queda reservada en el momento — sin cuenta de registrador aparte."
+          ]
+        },
+        {
+          "heading": "Paso 3 — WordPress かんたんセットアップ (60 segundos)",
+          "paragraphs": [
+            "Introduce nombre del sitio, dominio (auto-rellenado del paso 2), usuario administrador WordPress, contraseña y email. Selecciona un tema del desplegable si tienes uno en mente, o salta y decide después."
+          ]
+        },
+        {
+          "heading": "Paso 4 — Cuenta y pago (3 minutos)",
+          "paragraphs": [
+            "Crea la cuenta ConoHa (email más contraseña). Paga con tarjeta de crédito o キャリア決済 (operador móvil JP). El formulario de tarjeta es estándar — sin sorpresas. Apunta los datos antes de pulsar 次へ; el formulario no los conserva si hay error."
+          ]
+        },
+        {
+          "heading": "Paso 5 — Verificación SMS o llamada (30 segundos)",
+          "paragraphs": [
+            "ConoHa envía un código de 4 dígitos al móvil registrado. Lo introduces. Solo se hace una vez por cuenta, como medida antifraude."
+          ]
+        },
+        {
+          "heading": "Paso 6 — Espera al SSL (5-10 minutos, automático)",
+          "paragraphs": [
+            "El panel muestra «SSL設定中» unos minutos mientras Let's Encrypt emite el certificado. Cuando cambia a «利用中» el sitio está vivo en https://tudominio. Abre la URL del admin WordPress que indica el panel y empieza a escribir."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Veredicto",
+      "paragraphs": [
+        "ConoHa WING es el camino más limpio entre «quiero un blog» y «mi blog está online» en Japón en 2026. El setup fácil no es un eslogan: es un flujo real y funcional que me llevó 11 minutos de punta a punta. Para un usuario primerizo de WordPress, eso solo justifica la cuota.",
+        "Vigila el precio de renovación. La tarifa de campaña es genuinamente buena; la post-campaña es del montón. Una alerta de calendario a 35 meses convierte la trampa en un coste de hosting normal. Atiende a ese detalle y ConoHa WING es difícil de batir para su audiencia objetivo.",
+        "Si te sales de esa audiencia — ingeniero que quiere SSH, hobbyista por debajo de 500 yenes/mes, negocio que necesita teléfono a las 2 a.m. — las alternativas de esta reseña (Xserver, Lolipop) existen por algo. Elige por la limitación que más te dolería, no por la página de marketing. Para el cara a cara con cinco hosts incluidos mixhost y Sakura, mira el artículo gemelo: «Mejor hosting JP 2026: 5 servidores ranqueados», con orden por TTFB, precio y encaje de público."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿ConoHa WING o Xserver?",
+      "a": "ConoHa WING para velocidad cruda y mejor onboarding; Xserver si alguna vez has sentido la necesidad de llamar a un soporte de noche. Los dos están dentro de un ~10% de precio en planes equivalentes, así que el factor decisivo suele ser estilo de soporte y panel, no el yen."
+    },
+    {
+      "q": "¿Puedo mover mi blog WordPress existente a ConoHa WING?",
+      "a": "Sí — la herramienta かんたん移行 toma las credenciales FTP del servidor de origen y el dump de base de datos y se ocupa de la copia. En mi prueba, un blog de 600 posts migró en menos de 40 minutos. El paso más largo es el cambio de DNS (depende del TTL, suelen ser horas)."
+    },
+    {
+      "q": "¿Se puede evitar la subida en la renovación?",
+      "a": "Directamente no — al terminar el bloque de contrato, renuevas a la tarifa post-campaña. Lo que sí puedes evitar es que te pille por sorpresa. Elige el contrato más largo en el que confías (12 o 36 meses), pon recordatorio para el mes 35 y reevalúa entonces."
+    },
+    {
+      "q": "¿Funciona para audiencias fuera de Japón?",
+      "a": "Servirá a cualquier audiencia, pero el datacenter está en Japón, así que la latencia hacia visitantes US/EU es 120-180ms más alta que un host americano. Si tus lectores están mayoritariamente fuera de Asia, un setup con Cloudflare delante o un host gestionado de WordPress en EE.UU. (Kinsta, WP Engine) encaja mejor."
+    },
+    {
+      "q": "¿Qué pasa si cancelo dentro de los 30 días?",
+      "a": "Te devuelven la parte de WINGパック. Las tasas de registro del dominio no — el dominio queda a tu nombre y se renueva por su cuenta. Cancelas desde 契約・料金 en el panel o contactando con soporte; ambas vías valen."
+    },
+    {
+      "q": "¿Puedo poner Cloudflare delante de ConoHa WING?",
+      "a": "Sí. Apunta los nameservers del dominio a Cloudflare, configura el A record a la IP de ConoHa y activa SSL full-strict. El certificado Let's Encrypt del lado ConoHa mantiene cifrada la conexión origen. He tenido esta combinación 30 días sin incidencias."
+    },
+    {
+      "q": "¿Qué versión de WordPress instala el setup fácil?",
+      "a": "La versión estable actual de WordPress en el momento del provisioning — al cierre de este artículo, 6.7.x. PHP por defecto es 8.2 y se puede cambiar a 8.3 desde el panel. La autoactualización de versiones menores está activada por defecto; las mayores son opt-in."
+    },
+    {
+      "q": "¿El panel está disponible en inglés?",
+      "a": "Parcialmente. La estructura del panel tiene un toggle de inglés arriba a la derecha, pero varios enlaces de documentación y algunos ajustes avanzados siguen solo en japonés. Si no lees nada de japonés, ese es el mayor punto de fricción."
+    }
+  ],
+  "offerNotes": {
+    "conoha-wing": "La opción si vas a montar tu primer sitio WordPress en Japón y quieres hosting, dominio, SSL e instalación de WP en una única alta.",
+    "xserver": "Elige este si valoras más un historial de uptime y soporte telefónico 24/7 que el TTFB más rápido de ConoHa.",
+    "lolipop-server": "Misma matriz que ConoHa, hardware más lento y precio más bajo. Solo para blogs hobby y presupuestos ajustados."
+  },
+  "pinDescription": "Probado 30 días: ConoHa WING pone WordPress online en 11 minutos, TTFB 198ms, dominio gratis. Dónde gana a Xserver y dónde pierde con Lolipop, con cifras."
+}

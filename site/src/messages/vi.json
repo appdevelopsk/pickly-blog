@@ -1,0 +1,185 @@
+{
+  "site": {
+    "name": "Pickly",
+    "footerTagline": "Bài đánh giá tuyển chọn bằng 17 ngôn ngữ."
+  },
+  "nav": {
+    "articles": "Bài viết",
+    "about": "Giới thiệu",
+    "privacy": "Quyền riêng tư",
+    "terms": "Điều khoản",
+    "contact": "Liên hệ",
+    "disclosure": "Thông báo liên kết"
+  },
+  "home": {
+    "heading": "Đánh giá thật, không nói lan man.",
+    "subheading": "So sánh và hướng dẫn mua sắm do con người chọn, viết cho con người.",
+    "empty": "Bài viết đang được chuẩn bị. Hẹn gặp lại sớm."
+  },
+  "category": {
+    "tech": "Công nghệ",
+    "home": "Gia đình",
+    "beauty": "Làm đẹp",
+    "fashion": "Thời trang",
+    "fitness": "Fitness",
+    "food": "Bếp",
+    "finance": "Tài chính",
+    "travel": "Du lịch",
+    "parenting": "Nuôi con",
+    "pets": "Thú cưng"
+  },
+  "article": {
+    "publishedAt": "Đăng ngày {date}",
+    "updatedAt": "Cập nhật ngày {date}",
+    "rankingHeading": "Lựa chọn nổi bật",
+    "offersHeading": "Mua ở đâu",
+    "faqHeading": "Câu hỏi thường gặp"
+  },
+  "offer": {
+    "defaultCta": "Xem ưu đãi",
+    "disclosureBadge": "Quảng cáo",
+    "pending": "Sắp ra mắt",
+    "regionFallback": "Sắp ra mắt",
+    "searchOnAmazon": "Amazon"
+  },
+  "legal": {
+    "disclosure": {
+      "heading": "Thông báo liên kết",
+      "body1": "Pickly tham gia các chương trình tiếp thị liên kết như Amazon Associates, ShareASale, CJ và Impact. Khi bạn nhấp vào liên kết có nhãn «Quảng cáo» hoặc thuộc tính rel=\"sponsored\" và hoàn tất mua hàng, chúng tôi có thể nhận hoa hồng — bạn không phải trả thêm chi phí.",
+      "body2": "Khuyến nghị biên tập là độc lập. Chúng tôi không bán vị trí, và các sản phẩm không thể giới thiệu một cách trung thực sẽ bị loại bỏ bất kể hoa hồng cao đến đâu.",
+      "body3": "Nếu có câu hỏi về một khuyến nghị cụ thể, hãy liên hệ với chúng tôi qua trang liên hệ."
+    },
+    "lastUpdatedLabel": "Cập nhật gần nhất: {date}",
+    "about": {
+      "heading": "Giới thiệu Pickly",
+      "lede": "Chúng tôi thử sản phẩm, so sánh trung thực và đăng kết quả bằng 17 ngôn ngữ.",
+      "sections": [
+        {
+          "heading": "Ai vận hành",
+          "paragraphs": [
+            "Pickly là dự án biên tập độc lập. Bài đánh giá do người viết. Chúng tôi dùng AI để dịch sang 17 ngôn ngữ, nhưng đánh giá, thử nghiệm và xếp hạng đến từ con người, không phải thuật toán.",
+            "Chúng tôi vận hành từ Nhật Bản dưới hình thức doanh nghiệp cá thể. Thông tin người vận hành đã đăng ký với nhà đăng ký tên miền; để liên hệ trực tiếp, dùng email ở trang liên hệ."
+          ]
+        },
+        {
+          "heading": "Cách chúng tôi kiếm tiền",
+          "paragraphs": [
+            "Chúng tôi nhận hoa hồng tiếp thị liên kết khi độc giả nhấp vào liên kết được đánh dấu và hoàn tất mua hàng. Tỷ lệ hoa hồng khác nhau theo đối tác và không bao giờ ảnh hưởng đến xếp hạng. Vị trí trên Pickly không bán.",
+            "Trang bài viết có thể hiển thị quảng cáo theo ngữ cảnh. Trang pháp lý, trang liên hệ và trang chủ không có quảng cáo."
+          ]
+        },
+        {
+          "heading": "Tiêu chuẩn biên tập",
+          "paragraphs": [
+            "Mỗi sản phẩm được khuyên dùng đều được thử trực tiếp hoặc đánh giá dựa trên thông số chính thức, các bài benchmark độc lập và báo cáo người dùng đã xác minh. Sản phẩm không thể giới thiệu một cách trung thực sẽ bị loại, bất kể hoa hồng cao đến đâu.",
+            "Mỗi sản phẩm đều có ít nhất một điểm yếu được nêu rõ. Không sản phẩm nào hoàn hảo, và bài nói ngược lại không phải là đánh giá."
+          ]
+        },
+        {
+          "heading": "Ngôn ngữ",
+          "paragraphs": [
+            "Bài viết được viết bằng tiếng Anh trước rồi chuyển ngữ sang tiếng Nhật, Tây Ban Nha, Bồ Đào Nha (BR), Pháp, Đức, Ý, Nga, Ả Rập, Trung (giản và phồn thể), Hàn, Hindi, Indonesia, Thái, Việt và Thổ Nhĩ Kỳ. Ví dụ địa phương, giá cả và thành ngữ được điều chỉnh theo từng ngôn ngữ — không phải dịch máy thô."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "heading": "Chính sách bảo mật",
+      "lastUpdated": "2026-05-07",
+      "sections": [
+        {
+          "heading": "Thông tin chúng tôi thu thập",
+          "paragraphs": [
+            "Khi bạn truy cập Pickly, nhà cung cấp lưu trữ và CDN (Cloudflare) tự động ghi lại IP, loại trình duyệt, trang giới thiệu và mốc thời gian. Đây là log máy chủ tiêu chuẩn dùng cho bảo mật, ngăn lạm dụng và phân tích lưu lượng tổng hợp.",
+            "Chúng tôi không yêu cầu tài khoản và không thu thập dữ liệu cá nhân qua biểu mẫu. Nếu bạn gửi email tới contact@pickly.blog, chúng tôi giữ tin nhắn và địa chỉ của bạn như một phần thư từ thông thường."
+          ]
+        },
+        {
+          "heading": "Cookie và phân tích",
+          "paragraphs": [
+            "Chúng tôi có thể dùng các công cụ phân tích tôn trọng quyền riêng tư như Cloudflare Web Analytics — không cookie bên thứ ba, không theo dõi xuyên trang. Nếu áp dụng công cụ mới trong tương lai, chúng tôi sẽ cập nhật chính sách và xin sự đồng ý nếu pháp luật yêu cầu.",
+            "Liên kết tiếp thị truyền các tham số theo dõi (tag, clickref) tới đối tác. Đối tác có thể đặt cookie của họ theo chính sách riêng. Chúng tôi chỉ nhận báo cáo tổng hợp, không phải dữ liệu cá nhân."
+          ]
+        },
+        {
+          "heading": "Bên thứ ba",
+          "paragraphs": [
+            "Các mạng tiếp thị liên kết chúng tôi tham gia gồm Amazon Associates, A8.net, Moshimo, ValueCommerce, Rakuten Affiliate, ShareASale, CJ Affiliate, Impact, Awin. Mỗi bên có chính sách riêng.",
+            "Pinterest, nơi nhiều độc giả của chúng tôi đến từ, có hệ thống phân tích và kiểm soát quyền riêng tư riêng. Chúng tôi không nhúng pixel theo dõi của Pinterest trên Pickly."
+          ]
+        },
+        {
+          "heading": "Quyền của bạn (GDPR, CCPA)",
+          "paragraphs": [
+            "Nếu bạn ở EU, Anh hoặc California, bạn có quyền yêu cầu truy cập, sửa hoặc xóa dữ liệu cá nhân chúng tôi giữ và phản đối một số xử lý. Để thực hiện, gửi email tới contact@pickly.blog. Chúng tôi đáp ứng yêu cầu xác minh được trong vòng 30 ngày.",
+            "Chúng tôi không bán dữ liệu cá nhân và không cố ý thu thập dữ liệu của trẻ em dưới 16 tuổi."
+          ]
+        },
+        {
+          "heading": "Lưu trữ",
+          "paragraphs": [
+            "Log máy chủ được lưu tối đa 90 ngày. Thư điện tử được giữ tới 3 năm cho mục đích hỗ trợ rồi xóa."
+          ]
+        },
+        {
+          "heading": "Cập nhật",
+          "paragraphs": [
+            "Chúng tôi có thể cập nhật chính sách. Ngày «Cập nhật gần nhất» phía trên phản ánh thay đổi mới nhất. Các thay đổi quan trọng sẽ được đăng trên trang chủ ít nhất 14 ngày."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "heading": "Điều khoản dịch vụ",
+      "lastUpdated": "2026-05-07",
+      "sections": [
+        {
+          "heading": "Chấp nhận",
+          "paragraphs": [
+            "Khi truy cập pickly.blog, bạn đồng ý với các điều khoản này. Nếu không đồng ý, vui lòng đừng dùng trang."
+          ]
+        },
+        {
+          "heading": "Sử dụng nội dung",
+          "paragraphs": [
+            "Trừ khi nêu khác, văn bản, bố cục và mã trên Pickly thuộc về chúng tôi. Bạn có thể trích tối đa 200 từ kèm ghi nguồn và liên kết ngược. Cấm đăng lại trọn bài khi chưa được phép.",
+            "Nhãn hiệu và tên sản phẩm thuộc chủ sở hữu tương ứng và xuất hiện ở đây trong giới hạn sử dụng hợp lý cho mục đích đánh giá và so sánh."
+          ]
+        },
+        {
+          "heading": "Tuyên bố về tiếp thị liên kết",
+          "paragraphs": [
+            "Pickly nhận hoa hồng cho các giao dịch hợp lệ qua liên kết được đánh dấu. Tuyên bố đầy đủ ở trang công bố tiếp thị liên kết. Các đề xuất biên tập là độc lập; mức hoa hồng không ảnh hưởng đến xếp hạng."
+          ]
+        },
+        {
+          "heading": "Miễn trừ trách nhiệm",
+          "paragraphs": [
+            "Thông tin trên Pickly được cung cấp «nguyên trạng» cho mục đích thông tin chung. Chúng tôi cố gắng giữ thông tin và giá chính xác nhưng không bảo đảm tính đầy đủ, chính xác hay phù hợp. Hãy xác minh chi tiết quan trọng trực tiếp với người bán.",
+            "Pickly không phải là cố vấn tài chính, chuyên viên y tế hay luật sư. Nội dung tài chính, sức khỏe, thể hình mang tính thông tin chung, không phải tư vấn chuyên môn."
+          ]
+        },
+        {
+          "heading": "Giới hạn trách nhiệm",
+          "paragraphs": [
+            "Pickly không chịu trách nhiệm cho bất kỳ thiệt hại trực tiếp, gián tiếp, ngẫu nhiên hay hệ quả nào phát sinh từ việc sử dụng trang hoặc dựa vào nội dung. Khi không hài lòng, biện pháp duy nhất là ngừng sử dụng."
+          ]
+        },
+        {
+          "heading": "Luật áp dụng",
+          "paragraphs": [
+            "Các điều khoản này được điều chỉnh bởi pháp luật Nhật Bản. Tranh chấp được giải quyết tại tòa án Nhật Bản, trừ khi luật địa phương yêu cầu khác."
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "heading": "Liên hệ",
+      "lede": "Chúng tôi đọc mọi email. Cách liên hệ nhanh nhất ở dưới đây.",
+      "emailLabel": "Email",
+      "responseTime": "Chúng tôi cố gắng phản hồi trong 3 ngày làm việc. Liên hệ tài trợ/PR sẽ bị bỏ qua nếu không có đề xuất cụ thể và liên quan — thư chào hàng chung tự động bị lọc.",
+      "scope": "Có thể giúp: chỉnh sai sự thật, liên kết tiếp thị hỏng, yêu cầu cập nhật sản phẩm, vấn đề tiếp cận. Không thể giúp: theo dõi đơn hàng trên trang người bán hay tư vấn cuộc sống chung.",
+      "privacy": "Tin nhắn và email của bạn được xử lý theo Chính sách bảo mật."
+    }
+  }
+}

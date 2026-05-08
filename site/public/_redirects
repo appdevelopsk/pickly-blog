@@ -1,0 +1,7 @@
+# Cloudflare Pages redirects.
+# Route bare "/" to /en/ until we add Accept-Language detection.
+# Status 302 (temporary) so we can adopt locale auto-detection later.
+/ /en/ 302
+
+# Strip trailing-slash duplicates handled by Next config; this catches edges.
+/:locale /:locale/ 301
