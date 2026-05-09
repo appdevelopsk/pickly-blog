@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 87 articles x 6 variants x 2 locales (en, ja) = 1052 pins (growing)
+# 89 articles x 6 variants x 2 locales (en, ja) = 1076 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -11786,3 +11786,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-cast-iron-skillet-2026/"
     image_alt: "スキレット ステーキ 焼き方 自宅 鋳鉄"
     hashtags: ["スキレット", "ステーキ 焼き方", "鉄フライパン", "料理テクニック", "自宅料理"]
+
+  # ── #88 best-sleep-mask-2026 ──────────────────────────────────────────────
+  - pin_id: best-sleep-mask-2026-en-01
+    article_slug: best-sleep-mask-2026
+    locale: en
+    variant: comparison
+    title: "Best Sleep Mask 2026: Alaska Bear vs Tempur-Pedic vs Manta vs Drowsy Compared"
+    description: |
+      5 sleep masks ranked for 2026 — Alaska Bear silk vs Tempur-Pedic memory foam vs Manta modular zero-pressure vs Nidra contoured budget vs Drowsy premium silk. Light blocking science, nose gap design, REM eye pressure, and strap marks for side sleepers — all tested honestly.
+    link: "https://pickly.blog/en/articles/best-sleep-mask-2026/"
+    image_alt: "Sleep mask comparison 2026 Alaska Bear Manta Tempur-Pedic"
+    hashtags: ["SleepMask", "EyeMask", "SleepEssentials", "SleepQuality", "BetterSleep"]
+
+  - pin_id: best-sleep-mask-2026-en-02
+    article_slug: best-sleep-mask-2026
+    locale: en
+    variant: top1
+    title: "Best Sleep Mask for Zero Eye Pressure 2026: Manta Sleep Mask"
+    description: |
+      Manta wins for people who hate pressure on their eyes — modular adjustable eye cups create a total blackout dome without touching the eyeball. REM sleep isn't disrupted. At ~$35, it's more than Alaska Bear but the first sleep mask that works for open-eye sleepers, contact lens wearers, and anyone with eye sensitivity.
+    link: "https://pickly.blog/en/articles/best-sleep-mask-2026/"
+    image_alt: "Manta sleep mask zero eye pressure 2026"
+    hashtags: ["MantaSleepMask", "SleepMask", "ZeroEyePressure", "SleepQuality", "REMSleep"]
+
+  - pin_id: best-sleep-mask-2026-en-03
+    article_slug: best-sleep-mask-2026
+    locale: en
+    variant: problem
+    title: "Why Light Ruins Your Sleep — and Why Any Sleep Mask Isn't Enough"
+    description: |
+      Even dim light at 10 lux (a bedside clock) suppresses melatonin production. Your eyelids let through up to 10% of light — enough to signal 'daytime' to your circadian system. A flat mask that lets light in around the nose bridge loses half its effectiveness. Contoured or nose-gap designs are the only way to achieve true blackout for side and stomach sleepers.
+    link: "https://pickly.blog/en/articles/best-sleep-mask-2026/"
+    image_alt: "Sleep mask light blocking melatonin nose gap design"
+    hashtags: ["SleepScience", "SleepMask", "MelatoninProduction", "SleepQuality", "CircadianRhythm"]
+
+  - pin_id: best-sleep-mask-2026-en-04
+    article_slug: best-sleep-mask-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Sleep Mask 2026: Alaska Bear Silk at $8"
+    description: |
+      Alaska Bear Natural Silk Sleep Mask ($7–10) is the best entry-level silk option — mulberry silk is gentle on skin and eyelashes, adjustable strap, lightweight. Not contoured so light enters at the nose for some face shapes. Perfect for travel, post-flight sleep, or testing whether silk makes a difference vs polyester before investing in Drowsy.
+    link: "https://pickly.blog/en/articles/best-sleep-mask-2026/"
+    image_alt: "Alaska Bear silk sleep mask budget 2026"
+    hashtags: ["AlaskaBear", "SilkSleepMask", "BudgetSleepMask", "TravelSleep", "SleepEssentials"]
+
+  - pin_id: best-sleep-mask-2026-en-05
+    article_slug: best-sleep-mask-2026
+    locale: en
+    variant: avoid
+    title: "Sleep Mask Mistakes That Let Light In and Disrupt Sleep"
+    description: |
+      Elastic too tight: squeezes temples and wakes you with a headache. Flat mask on a prominent nose bridge: light gap at the nose ruins blackout. Not washing: face oils degrade elastic and harbor bacteria — wash weekly. Cheap polyester rubbing eyelashes: creates micro-friction that damages lashes over months. Not adjusting the strap: a mask that falls off at 3am defeats the purpose.
+    link: "https://pickly.blog/en/articles/best-sleep-mask-2026/"
+    image_alt: "Sleep mask mistakes light gap elastic tight nose"
+    hashtags: ["SleepMask", "SleepTips", "BetterSleep", "SleepQuality", "EyeMask"]
+
+  - pin_id: best-sleep-mask-2026-en-06
+    article_slug: best-sleep-mask-2026
+    locale: en
+    variant: scene
+    title: "Long-Haul Flight Sleep Setup: Sleep Mask + Neck Pillow + Noise Cancelling"
+    description: |
+      Manta Sleep Mask for zero eye pressure during 14-hour flights (eye cups mean you can actually blink and move without the mask shifting). Alaska Bear as the lightweight backup in your personal item. Pair with Sony WH-1000XM5 or AirPods Pro and a neck pillow — the 3-item combo gets you 4–6 real hours of sleep instead of 1. Drowsy silk if you want something that doubles as a luxury hotel amenity.
+    link: "https://pickly.blog/en/articles/best-sleep-mask-2026/"
+    image_alt: "Long haul flight sleep mask setup airplane rest"
+    hashtags: ["SleepMask", "LongHaulFlight", "TravelSleep", "FlightSleep", "TravelEssentials"]
+
+  - pin_id: best-sleep-mask-2026-ja-01
+    article_slug: best-sleep-mask-2026
+    locale: ja
+    variant: comparison
+    title: "アイマスクおすすめ比較2026：5製品を正直に評価"
+    description: |
+      アイマスク2026年版5製品比較：アラスカベア シルクvsテンピュール メモリーフォームvsマンタ モジュール式vsニドラ コンタード予算版vsドロウジー 22匁シルク。遮光の科学、鼻ギャップ設計、レム睡眠の目圧力、横向き寝のストラップ跡まで正直評価。
+    link: "https://pickly.blog/ja/articles/best-sleep-mask-2026/"
+    image_alt: "アイマスク 比較 2026 5製品"
+    hashtags: ["アイマスク", "快眠グッズ", "睡眠の質", "遮光", "シルクアイマスク"]
+
+  - pin_id: best-sleep-mask-2026-ja-02
+    article_slug: best-sleep-mask-2026
+    locale: ja
+    variant: top1
+    title: "目に圧力ゼロのアイマスク2026最強：マンタ スリープマスク"
+    description: |
+      マンタが目への圧力が嫌な人に1位。モジュール式調節可能なアイカップが眼球に触れずに完全遮光ドームを作る。レム睡眠中の目の動きを妨げない。約4,500〜6,000円で、目の敏感な人・コンタクトレンズ使用者・ドライアイの人に初めて本当に使えるアイマスク。
+    link: "https://pickly.blog/ja/articles/best-sleep-mask-2026/"
+    image_alt: "マンタ アイマスク 目 圧力ゼロ 2026"
+    hashtags: ["アイマスク", "マンタ", "快眠グッズ", "レム睡眠", "目に優しい"]
+
+  - pin_id: best-sleep-mask-2026-ja-03
+    article_slug: best-sleep-mask-2026
+    locale: ja
+    variant: problem
+    title: "光が睡眠を壊す理由——普通のアイマスクが不十分な理由"
+    description: |
+      10ルクス程度の薄暗い光（目覚まし時計の光）でもメラトニン分泌が抑制される。まぶただけで光の10%が通過し、体内時計に「昼間」と誤信号を送る。鼻付近に隙間のある平面型マスクは遮光の半分を失う。横向きや腹ばいで寝る人には、コンタード設計か鼻ギャップ設計のみが真の遮光を実現できる。
+    link: "https://pickly.blog/ja/articles/best-sleep-mask-2026/"
+    image_alt: "アイマスク 遮光 メラトニン 鼻ギャップ"
+    hashtags: ["アイマスク", "快眠", "メラトニン", "睡眠科学", "遮光"]
+
+  - pin_id: best-sleep-mask-2026-ja-04
+    article_slug: best-sleep-mask-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強アイマスク2026：アラスカベア シルク 1,000円"
+    description: |
+      アラスカベア シルクアイマスク（800〜1,500円）がシルク素材の入門として最高コスパ。マルベリーシルクが肌とまつ毛に優しく、アジャスタブルストラップ、軽量。コンタード設計でないので顔の形によっては鼻付近に隙間あり。出張・移動後の仮眠、またはドロウジーへ投資する前にシルク素材を試すのに最適。
+    link: "https://pickly.blog/ja/articles/best-sleep-mask-2026/"
+    image_alt: "アラスカベア シルク アイマスク コスパ 2026"
+    hashtags: ["アイマスク", "シルクアイマスク", "コスパ最強", "出張 睡眠", "快眠グッズ"]
+
+  - pin_id: best-sleep-mask-2026-ja-05
+    article_slug: best-sleep-mask-2026
+    locale: ja
+    variant: avoid
+    title: "光を入れてしまうアイマスクの使い方ミス"
+    description: |
+      ゴムが強すぎる：こめかみを圧迫して頭痛で目が覚める。鼻が高い人に平面型：鼻付近に隙間ができて遮光不完全。洗わない：皮脂でゴムが劣化し細菌が繁殖する——週1回洗濯。安価なポリエステルがまつ毛と摩擦：数ヶ月でまつ毛が傷む。ストラップを調節しない：夜中にずれ落ちては意味がない。
+    link: "https://pickly.blog/ja/articles/best-sleep-mask-2026/"
+    image_alt: "アイマスク 失敗 隙間 光 ゴム"
+    hashtags: ["アイマスク", "快眠", "睡眠グッズ", "遮光 失敗", "正しい使い方"]
+
+  - pin_id: best-sleep-mask-2026-ja-06
+    article_slug: best-sleep-mask-2026
+    locale: ja
+    variant: scene
+    title: "長距離フライト睡眠セット：アイマスク＋ネックピロー＋ノイキャン構成"
+    description: |
+      マンタ スリープマスクは14時間フライトで目への圧力ゼロ（アイカップで目を動かしてもずれない）。アラスカベアをサブとして機内持ち込みに。Sony WH-1000XM5かAirPods Pro＋ネックピローと組み合わせた3点セットで、実質4〜6時間の睡眠が取れる。シルクの肌触りにこだわるならドロウジーをホテルと兼用で使う。
+    link: "https://pickly.blog/ja/articles/best-sleep-mask-2026/"
+    image_alt: "長距離フライト アイマスク 睡眠セット"
+    hashtags: ["アイマスク", "飛行機 睡眠", "長距離フライト", "旅行グッズ", "快眠セット"]
+
+  # ── #89 best-meal-prep-containers-2026 ───────────────────────────────────
+  - pin_id: best-meal-prep-containers-2026-en-01
+    article_slug: best-meal-prep-containers-2026
+    locale: en
+    variant: comparison
+    title: "Best Meal Prep Containers 2026: Glass vs Plastic, Leakproof Lids Tested"
+    description: |
+      Glass vs plastic meal prep containers tested in 2026: leakproof lids that survive gym bags, compartment designs for bento-style lunches, oven-safe glass vs microwave-only, and stackability for fridge organization. 5 sets compared honestly.
+    link: "https://pickly.blog/en/articles/best-meal-prep-containers-2026/"
+    image_alt: "Meal prep containers comparison 2026 glass plastic leakproof"
+    hashtags: ["MealPrep", "MealPrepContainers", "GlassContainers", "FoodStorage", "MealPlanning"]
+
+  - pin_id: best-meal-prep-containers-2026-en-02
+    article_slug: best-meal-prep-containers-2026
+    locale: en
+    variant: top1
+    title: "Best Glass Meal Prep Set for Serious Weekly Prep 2026: Prep Naturals 20-Piece"
+    description: |
+      Prep Naturals Glass Containers win for committed weekly preppers — borosilicate glass that won't stain from tomato sauce, snap-lock lids that seal flat in the fridge, and the 20-piece set covers every container size you need. Oven safe to 450°F, microwave and freezer safe, dishwasher safe. At ~$40 for the full set, the cost-per-container is lower than buying separately.
+    link: "https://pickly.blog/en/articles/best-meal-prep-containers-2026/"
+    image_alt: "Prep Naturals glass meal prep containers 20 piece 2026"
+    hashtags: ["PrepNaturals", "GlassContainers", "MealPrep", "FoodStorage", "WeeklyMealPrep"]
+
+  - pin_id: best-meal-prep-containers-2026-en-03
+    article_slug: best-meal-prep-containers-2026
+    locale: en
+    variant: problem
+    title: "Why Plastic Meal Prep Containers Stain and Smell — and How Glass Fixes It"
+    description: |
+      Plastic absorbs fats and pigments from food — tomato sauce, turmeric, and curry stain permanently after a few uses, and the fat absorption causes lingering odor. Glass doesn't absorb anything. The tradeoff: glass is 2–3x heavier and breaks if dropped. For fridge-to-microwave daily use, glass wins on hygiene; for gym bag transport, Rubbermaid Brilliance crystal-clear plastic is the pragmatic choice.
+    link: "https://pickly.blog/en/articles/best-meal-prep-containers-2026/"
+    image_alt: "Plastic meal prep container staining glass vs plastic"
+    hashtags: ["MealPrep", "GlassContainers", "FoodStorage", "MealPrepTips", "ContainerHygiene"]
+
+  - pin_id: best-meal-prep-containers-2026-en-04
+    article_slug: best-meal-prep-containers-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Meal Prep Containers 2026: Pyrex Simply Store at $25 for 18-Piece"
+    description: |
+      Pyrex Simply Store 18-piece set ($22–28) is the budget glass standard — oven safe to 450°F, microwave safe, dishwasher safe, and Pyrex glass is nearly indestructible. Round containers stack more efficiently than rectangular, but the lids aren't truly leakproof. For fridge storage and reheating (not commuting), this is the best value in glass containers. Available at most grocery stores.
+    link: "https://pickly.blog/en/articles/best-meal-prep-containers-2026/"
+    image_alt: "Pyrex Simply Store budget meal prep containers 2026"
+    hashtags: ["Pyrex", "BudgetMealPrep", "GlassContainers", "MealPrep", "FoodStorage"]
+
+  - pin_id: best-meal-prep-containers-2026-en-05
+    article_slug: best-meal-prep-containers-2026
+    locale: en
+    variant: avoid
+    title: "Meal Prep Container Mistakes That Lead to Leaks and Wasted Food"
+    description: |
+      Overfilling: liquid expands when frozen, cracking glass and popping plastic lids. Stacking without matching lids: 10 containers with mixed lids create chaos. Using plastic in the oven: even BPA-free plastic warps above 120°C. Putting hot food directly in glass: thermal shock can crack borosilicate. Not labeling: day-old chicken and 5-day-old chicken look identical by day 4.
+    link: "https://pickly.blog/en/articles/best-meal-prep-containers-2026/"
+    image_alt: "Meal prep container mistakes leaks overfill stacking"
+    hashtags: ["MealPrep", "FoodStorage", "MealPrepMistakes", "ContainerTips", "FoodSafety"]
+
+  - pin_id: best-meal-prep-containers-2026-en-06
+    article_slug: best-meal-prep-containers-2026
+    locale: en
+    variant: scene
+    title: "Sunday Meal Prep in Under 2 Hours: Container Setup That Makes It Work"
+    description: |
+      3 sizes cover everything: 2-cup (snacks, sides), 4-cup (single meals), 8-cup (batch grains/proteins). Prep Naturals 20-piece set has all three. Color-code by day: Monday=blue lid, Tuesday=red lid tape. Label with masking tape + date. Stack by size in the fridge, meals at eye level. Bentgo Glass for compartment lunches you don't want mixed. Total prep time drops 40% when containers are ready before you start cooking.
+    link: "https://pickly.blog/en/articles/best-meal-prep-containers-2026/"
+    image_alt: "Sunday meal prep container system fridge organization"
+    hashtags: ["MealPrep", "SundayMealPrep", "MealPlanningTips", "FridgeOrganization", "HealthyEating"]
+
+  - pin_id: best-meal-prep-containers-2026-ja-01
+    article_slug: best-meal-prep-containers-2026
+    locale: ja
+    variant: comparison
+    title: "作り置き容器おすすめ比較2026：ガラスvsプラスチック5製品"
+    description: |
+      作り置き容器2026年版5製品比較：漏れないフタ構造、お弁当向け仕切り、オーブン対応ガラスvs電子レンジのみ対応、冷蔵庫スタック収納術まで正直比較。ガラスとプラスチックの素材差の真実も解説。
+    link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
+    image_alt: "作り置き容器 比較 2026 ガラス プラスチック"
+    hashtags: ["作り置き容器", "保存容器", "ガラス容器", "お弁当箱", "食材管理"]
+
+  - pin_id: best-meal-prep-containers-2026-ja-02
+    article_slug: best-meal-prep-containers-2026
+    locale: ja
+    variant: top1
+    title: "週末作り置き向け容器セット2026最強：プレップナチュラルズ 20点"
+    description: |
+      プレップナチュラルズ ガラス容器が本格的な週末作り置きに1位。トマトソースでも染みないホウケイ酸ガラス、冷蔵庫でフラットに密閉されるスナップロック蓋、20点セットで必要な全サイズをカバー。230℃オーブン・電子レンジ・冷凍・食洗機対応。約5,000〜7,000円でセット購入はバラ買いより割安。
+    link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
+    image_alt: "プレップナチュラルズ ガラス 作り置き容器 20点 2026"
+    hashtags: ["作り置き容器", "ガラス保存容器", "週末作り置き", "食材保存", "お弁当準備"]
+
+  - pin_id: best-meal-prep-containers-2026-ja-03
+    article_slug: best-meal-prep-containers-2026
+    locale: ja
+    variant: problem
+    title: "プラスチック容器が染みて臭くなる理由——ガラスが解決する仕組み"
+    description: |
+      プラスチックは食品の脂肪と色素を吸収する——トマトソース・ターメリック・カレーが数回で永久着色し、脂肪吸収による臭いが残る。ガラスは何も吸収しない。トレードオフ：ガラスは2〜3倍重く落とすと割れる。毎日の冷蔵→電子レンジ用途にはガラスが衛生的に優れる。ジムバッグ持参にはRubbermaid Brillianceが現実的。
+    link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
+    image_alt: "プラスチック容器 染み 臭い ガラス 比較"
+    hashtags: ["作り置き容器", "ガラス容器", "プラスチック 臭い", "食材保存", "衛生的"]
+
+  - pin_id: best-meal-prep-containers-2026-ja-04
+    article_slug: best-meal-prep-containers-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強作り置き容器2026：パイレックス シンプリーストア 18点 3,000円"
+    description: |
+      パイレックス シンプリーストア 18点セット（2,800〜3,500円）がガラス素材のコスパ基準。230℃オーブン対応・電子レンジ可・食洗機可、パイレックスガラスは非常に割れにくい。丸型はスタック効率が高いが蓋の密閉は完全ではない。冷蔵保存と再加熱用途（通勤バッグに入れない前提）では最高コスパ。スーパーや薬局でも購入可能。
+    link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
+    image_alt: "パイレックス 作り置き容器 コスパ 18点 2026"
+    hashtags: ["パイレックス", "作り置き容器", "コスパ最強", "保存容器", "ガラス"]
+
+  - pin_id: best-meal-prep-containers-2026-ja-05
+    article_slug: best-meal-prep-containers-2026
+    locale: ja
+    variant: avoid
+    title: "液漏れと食品ロスを招く作り置き容器の使い方ミス"
+    description: |
+      詰めすぎ：冷凍すると液体が膨張してガラスが割れ、プラスチックの蓋が外れる。蓋がバラバラの状態でスタック：容器と蓋の管理が煩雑になる。プラスチックをオーブンに入れる：BPA不使用でも120℃超でゆがむ。熱いまま直接ガラスに入れる：熱衝撃で割れることがある。ラベルを貼らない：4日目になると昨日のチキンと5日前のチキンの見分けがつかない。
+    link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
+    image_alt: "作り置き容器 失敗 液漏れ 詰めすぎ ラベル"
+    hashtags: ["作り置き容器", "食材保存", "作り置き 失敗", "フードロス", "保存方法"]
+
+  - pin_id: best-meal-prep-containers-2026-ja-06
+    article_slug: best-meal-prep-containers-2026
+    locale: ja
+    variant: scene
+    title: "週末2時間の作り置き：コンテナシステムで効率化"
+    description: |
+      3サイズで全てカバー：240ml（副菜・スナック）、480ml（1食分）、960ml（まとめ調理の穀物・タンパク質）。プレップナチュラルズ20点セットで3サイズ揃う。曜日別に色テープで識別：月=青、火=赤。マスキングテープ＋日付でラベリング。冷蔵庫は目線の高さに当日分を配置。仕切りが必要なお弁当にはBentgo Glass。容器の準備が整っていると作り置き作業時間が40%短縮。
+    link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
+    image_alt: "週末作り置き 容器システム 冷蔵庫 整理"
+    hashtags: ["週末作り置き", "作り置き容器", "食材管理", "冷蔵庫 整理", "時短料理"]
