@@ -5509,6 +5509,45 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   // ───────── Food / Cast Iron Skillets (best-cast-iron-skillet-2026) ─────────
   {
+    id: "lodge-l8sk3-cast-iron-skillet",
+    category: "food",
+    name: { en: "Lodge L8SK3 10.25-Inch Cast Iron Skillet", ja: "ロッジ L8SK3 10.25インチ スキレット" },
+    description: {
+      en: "Pre-seasoned, 10.25-inch (26cm), 2.1 kg, oven-safe to 260°C, induction compatible, campfire safe. Industry benchmark bare cast iron — rough foundry surface improves with each cook of fatty foods.",
+      ja: "シーズニング済み、26cm、2.1 kg、260°Cオーブン対応・IH対応・直火対応。定番の裸の鋳鉄スキレット──砂型鋳造面は油脂の多い調理を重ねるごとに育つ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00006JSUA", rawUrl: "https://www.amazon.co.jp/dp/B00006JSUA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-lodge-l8sk3-cast-iron-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge+L8SK3+%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "stargazer-10-cast-iron-skillet",
+    category: "food",
+    name: { en: "Stargazer 10.5-Inch Cast Iron Skillet", ja: "スターゲイザー 10.5インチ スキレット" },
+    description: {
+      en: "American-made machined-smooth cast iron, 10.5-inch, approx 2.2 kg, flared rim for drip-free pouring, helper handle, oven-safe, induction compatible. Polished surface develops seasoning faster than sand-cast alternatives.",
+      ja: "米国製機械研磨鋳鉄、10.5インチ、約2.2 kg、液垂れしにくいフレアリム、補助ハンドル付き、オーブン対応・IH対応。磨かれた表面は砂型鋳造より早くシーズニングが育つ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07DHJZ7JC", rawUrl: "https://www.amazon.co.jp/dp/B07DHJZ7JC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-stargazer-10-cast-iron-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B2%E3%82%A4%E3%82%B6%E3%83%BC+%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "victoria-10-cast-iron-skillet",
+    category: "food",
+    name: { en: "Victoria 10-Inch Cast Iron Skillet", ja: "ビクトリア 10インチ スキレット" },
+    description: {
+      en: "Budget pre-seasoned entry point, 10-inch (25cm), approx 2.3 kg, seasoned with flaxseed oil, oven-safe, induction compatible. Made in Colombia. Best value for solo or couple households at the lowest price in this comparison.",
+      ja: "低コストのプレシーズニング入門機、25cm、約2.3 kg、亜麻仁油シーズニング、オーブン対応・IH対応。コロンビア製。このリストで最安値、1〜2人世帯に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07DQJXNDT", rawUrl: "https://www.amazon.co.jp/dp/B07DQJXNDT", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-victoria-10-cast-iron-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2+%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88+%E9%89%84%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
     id: "lodge-cast-iron-skillet",
     category: "food",
     name: { en: "Lodge L10SK3 12-Inch Cast Iron Skillet", ja: "ロッジ 12インチ スキレット" },
@@ -8743,6 +8782,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "B01N5XWXH8", rawUrl: "https://www.amazon.co.jp/dp/B01N5XWXH8", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-klean-kanteen-classic-27oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AB%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3+%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF+800ml%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Adjustable Dumbbell Sets (best-adjustable-dumbbell-set-2026) ─────────
+  {
+    id: "bowflex-selecttech-552",
+    category: "fitness",
+    name: { en: "Bowflex SelectTech 552 Adjustable Dumbbells", ja: "Bowflex セレクトテック 552 可変式ダンベル" },
+    description: {
+      en: "5–52.5 lb per dumbbell in 2.5 lb increments, dial-select mechanism changes weight in ~2 seconds, replaces 15 pairs, cradle dimensions 51 cm × 20 cm.",
+      ja: "1ダンベルあたり5〜52.5lb、2.5lb刻み、ダイヤル式で約2秒で重量変更、15ペア相当、クレードル寸法51cm×20cm。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001ARYU58", rawUrl: "https://www.amazon.co.jp/dp/B001ARYU58", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-bowflex-selecttech-552", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex%2BSelectTech%2B552%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "powerblock-elite-exp-50",
+    category: "fitness",
+    name: { en: "PowerBlock Elite EXP 50 Adjustable Dumbbells", ja: "パワーブロック Elite EXP 50 可変式ダンベル" },
+    description: {
+      en: "5–50 lb base (expandable to 90 lb with kits), pin-and-sleeve adjustment in ~5 seconds, rectangular stacked-column design, Stage 2 and 3 expansion kits sold separately.",
+      ja: "ベース5〜50lb（キットで90lbまで拡張可能）、ピン＆スリーブ調節約5秒、四角形積み重ねカラムデザイン、Stage 2・3拡張キット別売り。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.co.jp/dp/B07QBHG3GF", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-powerblock-elite-exp-50", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPowerBlock%2BElite%2BEXP%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nordictrack-select-a-weight-55",
+    category: "fitness",
+    name: { en: "NordicTrack Select-A-Weight 55 lb Dumbbell", ja: "ノルディックトラック セレクトアウェイト 55lb ダンベル" },
+    description: {
+      en: "10–55 lb per dumbbell in 2.5 lb increments, single-end dial adjustment in ~3–4 seconds, compact cradle, iFIT integration optional.",
+      ja: "1ダンベルあたり10〜55lb、2.5lb刻み、シングルエンドダイヤル調節約3〜4秒、コンパクトなクレードル、iFIT連携はオプション。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07BFRMXLV", rawUrl: "https://www.amazon.co.jp/dp/B07BFRMXLV", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-nordictrack-select-a-weight-55", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNordicTrack%2BSelect-A-Weight%2B55%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ironmaster-quick-lock-75",
+    category: "fitness",
+    name: { en: "Ironmaster Quick-Lock Adjustable Dumbbells (75 lb)", ja: "アイアンマスター クイックロック 可変式ダンベル（75lb）" },
+    description: {
+      en: "5–75 lb per dumbbell (expandable to 120 lb), screw-lock collar with no plastic selector parts, knurled steel handle, adjustment in 10–15 seconds, most drop-tolerant adjustable system.",
+      ja: "1ダンベルあたり5〜75lb（120lbまで拡張可能）、プラスチックセレクター部品なしのスクリューロックカラー、ローレット加工スチールハンドル、調節10〜15秒、最も耐落下性が高い可変式システム。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0002YRMRC", rawUrl: "https://www.amazon.co.jp/dp/B0002YRMRC", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-ironmaster-quick-lock-75", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIronmaster%2BQuick-Lock%2B75%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ativafit-adjustable-dumbbell",
+    category: "fitness",
+    name: { en: "ATIVAFIT 71.5 lb Adjustable Dumbbell Set", ja: "ATIVAFIT 71.5lb 可変式ダンベルセット" },
+    description: {
+      en: "11–71.5 lb per dumbbell in 4.4 lb (2 kg) increments, twist-lock collar adjustment in ~5 seconds, compact low-profile cradle, best price-per-pound of any system in this comparison.",
+      ja: "1ダンベルあたり11〜71.5lb、4.4lb（2kg）刻み、ツイストロックカラー調節約5秒、コンパクトな低プロファイルクレードル、この比較で最高の価格/ポンド比。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.co.jp/dp/B08CYJN7X6", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-ativafit-adjustable-dumbbell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FATIVAFIT%2B%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
