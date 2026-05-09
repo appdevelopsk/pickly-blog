@@ -4174,6 +4174,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-the-north-face-recon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%2BRecon%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Home / Bath Towels (best-bath-towel-2026) ─────────
+  {
+    id: "imabari-towel-standard",
+    category: "home",
+    badge: "🏷️",
+    name: { en: "Imabari Certified Bath Towel", ja: "今治認定バスタオル" },
+    description: {
+      en: "Certified Imabari ring-spun Japanese cotton with the genuine woven certification tag. Absorbency guaranteed — water drop absorbed in under five seconds. Standard tier (¥1,500–3,000). Available from Imabari manufacturer stores on Rakuten.",
+      ja: "今治認定の本物の織りタグ付きリング撚り日本製綿。吸水性保証あり（水滴が5秒以内に吸収）。標準ティア価格帯（1,500〜3,000円）。楽天の今治製造元ショップで入手可能。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-imabari-towel-standard", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BB%8A%E6%B2%BB%E3%82%BF%E3%82%AA%E3%83%AB%2B%E3%83%90%E3%82%B9%E3%82%BF%E3%82%AA%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "today-s-towel-waffle",
+    category: "home",
+    badge: "🧇",
+    name: { en: "Today's Towel Waffle Weave", ja: "ワッフルウィーブバスタオル" },
+    description: {
+      en: "Fine honeycomb waffle weave at approximately 300 GSM — the fastest-drying option in this comparison. Spa hotel aesthetic, flat profile, quick dry in 2–3 hours in a ventilated bathroom. Best for humid Japanese summers.",
+      ja: "約300GSMの細かいハニカムワッフル織り — この比較で最も速く乾く。スパホテル風の見た目、フラットプロファイル、換気のある浴室で2〜3時間で乾燥。日本の蒸し暑い夏に最適。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-waffle-bath-towel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AF%E3%83%83%E3%83%95%E3%83%AB%2B%E3%83%90%E3%82%B9%E3%82%BF%E3%82%AA%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "muji-organic-cotton-towel",
+    category: "home",
+    badge: "🌿",
+    name: { en: "Muji Organic Cotton Bath Towel", ja: "無印良品 オーガニックコットンバスタオル" },
+    description: {
+      en: "GOTS-certified organic cotton at approximately 480 GSM. Muji's supply chain consistency means the towel you buy today matches what you expect. No factory softening finish — the out-of-wash feel is the actual product feel.",
+      ja: "約480GSMのGOTS認定オーガニックコットン。無印良品の安定した品質で年を通じて同じ製品。工場仕上げ剤なしで洗濯後の手触りが実際の製品感触。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-muji-organic-cotton-towel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81%2B%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%2B%E3%83%90%E3%82%B9%E3%82%BF%E3%82%AA%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ikeuchi-organic-340",
+    category: "home",
+    badge: "✨",
+    name: { en: "Ikeuchi Organic 340 Towel", ja: "ikeuchi organic 340 タオル" },
+    description: {
+      en: "Long-staple GOTS-certified organic cotton at 340 GSM, made in Imabari by a B Corp with 70+ years in textile production. The softest and most durable-softness towel in this comparison — stays soft past 100 launderings. Quick-drying at 340 GSM.",
+      ja: "今治市内で製造、70年以上の繊維生産実績を持つBコーポレーション認定企業によるGOTS認定長繊維オーガニックコットン340GSM。この比較で最も柔らかく長持ちする柔らかさ — 100回以上の洗濯後も柔らかさを維持。340GSMで速乾性も高め。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ikeuchi-organic-340", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fikeuchi%2Borganic%2B340%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bamboo-bath-towel-set",
+    category: "home",
+    badge: "🎋",
+    name: { en: "Bamboo Bath Towel Set", ja: "竹繊維バスタオルセット" },
+    description: {
+      en: "Bamboo viscose and cotton blend (typically 70/30) at approximately 450–500 GSM. Distinct silky-smooth hand feel from bamboo viscose fibre diameter. Sold as 2-piece or 4-piece sets for household value.",
+      ja: "竹ビスコースとコットンの混紡（一般的に70%竹/30%コットン）、約450〜500GSM。竹ビスコース繊維径による独特のなめらかでほぼ絹のような手触り。2枚または4枚セットで家庭のコスパが出る。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-bamboo-bath-towel-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%AB%B9%E7%B9%8A%E7%B6%AD%2B%E3%83%90%E3%82%B9%E3%82%BF%E3%82%AA%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Home / Indoor Plants (best-indoor-plant-2026) ─────────
+  {
+    id: "pothos-golden",
+    category: "home",
+    badge: "🌿",
+    name: { en: "Golden Pothos (Epipremnum aureum)", ja: "ゴールデンポトス（エピプレムナム・アウレウム）" },
+    description: {
+      en: "The most forgiving foliage plant for beginners. Trailing vines root easily in water, tolerate irregular watering and low light, golden-green variegation in moderate indirect light. Explicit weakness: toxic to cats and dogs; variegation fades in very low light; trailing habit places it within reach of pets.",
+      ja: "初心者に最も勧められる観葉植物。水で簡単発根、不規則な水やりと低光量に耐え、適度な間接光で黄緑の斑入り葉を維持。明確な弱点：猫と犬に毒性あり；低光量で斑が消える；蔓がペットの届く場所に垂れる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-pothos-golden", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9D%E3%83%88%E3%82%B9+%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "monstera-deliciosa",
+    category: "home",
+    badge: "🌱",
+    name: { en: "Monstera deliciosa", ja: "モンステラ・デリシオサ" },
+    description: {
+      en: "Iconic split-leaf tropical statement plant. Fenestrated leaves develop only in sufficient bright indirect light. Available from small nursery specimens to large mature plants. Explicit weakness: bright indirect light requirement frequently underestimated; slow grower; toxic to cats and dogs; needs structural support.",
+      ja: "象徴的な切れ込み葉の熱帯観葉植物。切れ込み葉は十分な明るい間接光でのみ発達。小型苗から大型株まで販売。明確な弱点：明るい間接光の必要性が過小評価されやすい；成長が遅い；猫と犬に毒性あり；モスポールなど支柱が必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-monstera-deliciosa", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%86%E3%83%A9+%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "snake-plant-laurentii",
+    category: "home",
+    badge: "🪴",
+    name: { en: "Sansevieria Laurentii (Snake Plant)", ja: "サンスベリア・ローレンティ（トラノオ）" },
+    description: {
+      en: "Most drought-tolerant foliage plant on this list. Yellow-edged upright form works in corners and entryways. Can go 3-6 weeks without water in winter. Explicit weakness: toxic to cats and dogs via saponins; slow growth; root rot in pots without drainage despite drought tolerance.",
+      ja: "このリストで最も乾燥に強い観葉植物。黄縁の直立形は角や玄関先で使いやすい。冬は3〜6週間水なしでOK。明確な弱点：サポニンにより猫と犬に毒性あり；成長が遅い；乾燥耐性があっても排水穴なし鉢では根腐れする。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-snake-plant-laurentii", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%83%B3%E3%82%B9%E3%83%99%E3%83%AA%E3%82%A2+%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zz-plant",
+    category: "home",
+    badge: "🌿",
+    name: { en: "ZZ Plant (Zamioculcas zamiifolia)", ja: "ZZプランツ（ザミオクルカス・ザミフォリア）" },
+    description: {
+      en: "True low-light champion with rhizome water storage. Waxy deep-green arching stems suit modern interiors. Can go weeks without water. Explicit weakness: toxic to cats, dogs, and children; extremely slow growth; waxy leaves collect dust and need wiping.",
+      ja: "根茎で水を蓄える真の耐陰性チャンピオン。ツルツルした深緑のアーチ茎がモダンなインテリアに合う。数週間水なしでOK。明確な弱点：猫・犬・子どもに毒性あり；非常に成長が遅い；ツルツルした葉にほこりが溜まりやすく拭き取りが必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-zz-plant", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B6%E3%83%9F%E3%82%AA%E3%82%AF%E3%83%AB%E3%82%AB%E3%82%B9+%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "peace-lily",
+    category: "home",
+    badge: "🤍",
+    name: { en: "Peace Lily (Spathiphyllum)", ja: "スパティフィラム（ピースリリー）" },
+    description: {
+      en: "One of very few houseplants that flowers reliably indoors. Droops visibly when thirsty, recovers within hours of watering. White spathe flowers in spring. Explicit weakness: toxic to cats, dogs, and children; dramatic droop when thirsty can alarm owners; brown leaf tips from fluoride sensitivity.",
+      ja: "室内で安定して花が咲く数少ない観葉植物の一つ。喉が渇くと劇的にしなだれ、水やり後数時間で回復。春に白い苞の花が咲く。明確な弱点：猫・犬・子どもに毒性あり；しなだれを枯れかけと誤解されやすい；フッ化物感受性による葉先の茶変が起きやすい。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-peace-lily", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%91%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A0+%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
