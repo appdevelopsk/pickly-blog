@@ -5809,6 +5809,135 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-yes4all-vinyl-dumbbell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB+%E3%82%BB%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
+
+  // ───────── Travel / Travel Backpacks (best-travel-backpack-2026) ─────────
+  {
+    id: "osprey-farpoint-40",
+    category: "travel",
+    badge: "🎒",
+    name: { en: "Osprey Farpoint 40 Travel Backpack", ja: "オスプレー ファーポイント 40 トラベルバックパック" },
+    description: {
+      en: "40L clamshell travel pack with LightWire aluminum frame, padded hip belt, and DWR-treated nylon. 55 × 36 × 20 cm carry-on compliant on most full-service carriers. 1.3 kg empty. Weakness: oversized strap panel looks like a hiking pack; fails the most restrictive budget airline underseat dimensions.",
+      ja: "40Lクラムシェルトラベルパック、LightWireアルミフレーム・パッドヒップベルト・DWR処理ナイロン搭載。55 × 36 × 20cmでほとんどのフルサービスキャリアの機内持ち込み基準適合。空重量1.3kg。弱点：大きなストラップパネルがハイキングパックに見える；最も厳しい格安航空会社の座席下制限には非対応。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-osprey-farpoint-40", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC+%E3%83%95%E3%82%A1%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%8840%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tortuga-setout-45l",
+    category: "travel",
+    badge: "🧳",
+    name: { en: "Tortuga Setout 45L Travel Backpack", ja: "トルトゥガ セットアウト 45L トラベルバックパック" },
+    description: {
+      en: "45L clamshell travel pack with dedicated laptop sleeve (15-inch), top-lid document pocket, side water bottle pockets, padded back panel. 55 × 35 × 22 cm. 1.8 kg empty. Best organization system in this comparison. Weakness: premium price; 45L is on the large end for personal-item carry-on; heavier than Osprey Farpoint.",
+      ja: "45Lクラムシェルトラベルパック、15インチ対応ラップトップスリーブ・トップリッド書類ポケット・サイドウォーターボトルポケット・パッドバックパネル搭載。55 × 35 × 22cm。空重量1.8kg。今回の比較で最高の収納システム。弱点：プレミアム価格；45Lはパーソナルアイテムとしての持ち込みには大きめ；オスプレー ファーポイントより重い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-tortuga-setout-45l", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%AB%E3%83%88%E3%82%A5%E3%82%AC+%E3%83%88%E3%83%AC%E3%83%BC%E3%83%AB%E3%83%90%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nomatic-travel-pack-30l",
+    category: "travel",
+    badge: "💼",
+    name: { en: "Nomatic Travel Pack 30L", ja: "ノマティック トラベルパック 30L" },
+    description: {
+      en: "30L minimalist travel pack with 16 pockets including dedicated cable management, TSA-approved laptop sleeve, wet/dry compartment, and key clip. 51 × 36 × 18 cm passes European budget airline limits. Ballistic nylon with DWR coating. Weakness: 30L is restrictive beyond 4–5 day trips; harness is adequate but not load-bearing for heavy loads.",
+      ja: "30Lミニマリストトラベルパック、ケーブル管理・TSA対応ラップトップスリーブ・ウェット/ドライコンパートメント・キークリップを含む16ポケット。51 × 36 × 18cmでヨーロッパ格安航空会社制限適合。バリスティックナイロンDWRコーティング。弱点：30Lは4〜5日を超える旅行には制限が大きい；ハーネスは十分だが重荷重には非対応。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-nomatic-travel-pack-30l", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF+%E3%83%88%E3%83%AC%E3%83%99%E3%83%AB%E3%83%91%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cotopaxi-allpa-35l",
+    category: "travel",
+    badge: "🏔️",
+    name: { en: "Cotopaxi Allpa 35L Travel Pack", ja: "コトパクシ アルパ 35L トラベルパック" },
+    description: {
+      en: "35L clamshell adventure travel pack with weatherproof tarpaulin exterior, YKK RC zipper pulls, compression straps. 56 × 33 × 23 cm. Best water resistance in this comparison for outdoor and variable-weather travel. Weakness: tarpaulin is stiffer and heavier than nylon alternatives; simpler organization than Tortuga or Nomatic.",
+      ja: "35Lクラムシェルアドベンチャートラベルパック、耐候性ターポリン外装・YKK RCジッパー・コンプレッションストラップ搭載。56 × 33 × 23cm。屋外・変化する天候での旅行に今回の比較で最高の耐水性。弱点：ターポリンはナイロン代替品より硬く重い；トルトゥガやノマティックよりシンプルな収納。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cotopaxi-allpa-35l", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%88%E3%83%91%E3%82%AF%E3%82%B7+%E3%82%A2%E3%83%AB%E3%83%91+%E3%83%88%E3%83%AC%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazonbasics-carry-on-backpack",
+    category: "travel",
+    badge: "💰",
+    name: { en: "AmazonBasics Carry-On Travel Backpack", ja: "Amazonベーシックス 機内持ち込みトラベルバックパック" },
+    description: {
+      en: "40L budget travel backpack with padded laptop sleeve, main compartment plus front pocket, padded shoulder straps. 44 × 30 × 18 cm passes most full-service carrier limits. No hip belt, no water resistance, no load-transfer system. Weakness: shoulder fatigue on long travel days; limited organization depth; no meaningful water resistance.",
+      ja: "40L予算トラベルバックパック、パッドラップトップスリーブ・メインコンパートメント＋フロントポケット・パッドショルダーストラップ。44 × 30 × 18cmでほとんどのフルサービスキャリア制限をクリア。ヒップベルトなし・耐水性なし・荷重移動システムなし。弱点：長距離移動での肩疲労；収納の深みに限界；意味のある耐水性なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-amazonbasics-carry-on-backpack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazon%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9+%E3%83%90%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Fitness / Hiking Boots (best-hiking-boots-2026) ─────────
+  {
+    id: "salomon-x-ultra-4-gtx",
+    category: "fitness",
+    name: { en: "Salomon X Ultra 4 GTX", ja: "サロモン X ウルトラ 4 GTX" },
+    description: {
+      en: "Best overall day hiking boot — Gore-Tex EC waterproofing, Contagrip MA outsole, Advanced Chassis TPU torsional stability, quick break-in",
+      ja: "オールラウンド日帰りハイキングブーツ — Gore-Tex EC防水、Contagrip MAアウトソール、Advanced Chassis TPUトーショナルスタビリティ、短い慣らし期間",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-salomon-x-ultra-4-gtx", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%83%AD%E3%83%A2%E3%83%B3+X%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A94+GTX%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "merrell-moab-3-mid-wp",
+    category: "fitness",
+    name: { en: "Merrell Moab 3 Mid WP", ja: "メレル モアブ 3 ミッド WP" },
+    description: {
+      en: "Best value waterproof mid-cut — Vibram TC5+ outsole, M-Select DRY membrane, wide-width availability, comfortable out-of-box fit",
+      ja: "コスパ最良の防水ミッドカット — Vibram TC5+アウトソール、M-Select DRYメンブレン、ワイドサイズ展開、すぐ履けるフィット感",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-merrell-moab-3-mid-wp", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A1%E3%83%AC%E3%83%AB+%E3%83%A2%E3%82%A23+%E3%83%9F%E3%83%83%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hoka-anacapa-mid-gtx",
+    category: "fitness",
+    name: { en: "Hoka Anacapa Mid GTX", ja: "ホカ アナカパ ミッド GTX" },
+    description: {
+      en: "Best comfort for long days — Vibram Megagrip outsole, maximum cushion midsole, Gore-Tex waterproofing, ideal for high-mileage trail days",
+      ja: "長時間行動のコンフォート最優先 — Vibram Megagripアウトソール、最大クッションミッドソール、Gore-Tex防水、長距離トレイルに最適",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-hoka-anacapa-mid-gtx", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9B%E3%82%AB+%E3%82%A2%E3%83%8A%E3%82%AB%E3%83%91+%E3%83%9F%E3%83%83%E3%83%89+GTX%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "la-sportiva-tx4-gtx",
+    category: "fitness",
+    name: { en: "La Sportiva TX4 GTX", ja: "ラ スポルティバ TX4 GTX" },
+    description: {
+      en: "Best approach and technical hiking boot — FriXion AT climbing rubber rand, Vibram Megagrip outsole, precision fit for rock scrambling and via ferrata",
+      ja: "アプローチ・テクニカルハイキング最強 — FriXion ATクライミングラバーランド、Vibram Megagripアウトソール、岩場スクランブルとビアフェラータに対応",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-la-sportiva-tx4-gtx", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%82%B9%E3%83%9D%E3%83%AB%E3%83%86%E3%82%A3%E3%83%90+TX4+GTX%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "columbia-newton-ridge-plus-ii",
+    category: "fitness",
+    name: { en: "Columbia Newton Ridge Plus II", ja: "コロンビア ニュートンリッジ プラス II" },
+    description: {
+      en: "Budget waterproof hiking boot — Omni-Tech waterproofing, Omni-Grip outsole, generous fit for wide feet, entry-level trail performance",
+      ja: "入門防水登山ブーツ — Omni-Tech防水、Omni-Gripアウトソール、幅広の足に余裕のあるフィット、エントリーレベルのトレイル性能",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-columbia-newton-ridge-plus-ii", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2+%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3%E3%83%AA%E3%83%83%E3%82%B8%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
