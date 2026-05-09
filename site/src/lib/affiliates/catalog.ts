@@ -9314,6 +9314,143 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-mueller-v-pro-mandoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+V-Pro+%E3%83%9E%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Weightlifting Belts (best-weightlifting-belt-2026) ─────────
+  {
+    id: "inzer-forever-lever-belt-10mm",
+    category: "fitness",
+    name: { en: "Inzer Advance Designs Forever Lever Belt (10mm)", ja: "Inzer Advance Designs Forever レバーベルト (10mm)" },
+    description: {
+      en: "10mm single-ply vegetable-tanned leather, 4 inches wide, lever buckle. IPF-approved. Made in USA with lifetime guarantee. The industry benchmark for raw powerlifting belts. Break-in period 4-6 weeks.",
+      ja: "厚さ10mm一枚革・植物なめし処理、幅4インチ、レバーバックル。IPF公認。アメリカ製・生涯保証。ローパワーリフティングベルトの業界基準。馴染み期間4〜6週間。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000P1WUKG", rawUrl: "https://www.amazon.co.jp/dp/B000P1WUKG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-inzer-forever-lever-belt-10mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInzer+Forever+Lever+Belt+10mm%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-ohio-lifting-belt",
+    category: "fitness",
+    name: { en: "Rogue Ohio Lifting Belt (10mm)", ja: "Rogue Ohio リフティングベルト (10mm)" },
+    description: {
+      en: "10mm leather, 4 inches wide, single stainless steel prong buckle. Made in Columbus, Ohio. Reinforced double-stitching at all load-bearing edges. Best prong belt for daily powerlifting training.",
+      ja: "厚さ10mmレザー、幅4インチ、シングルステンレス鋼プロングバックル。オハイオ州コロンバス製。すべての荷重縁に補強ダブルステッチ。日常的なパワーリフティングトレーニング向け最優秀プロングベルト。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07BQSG7BG", rawUrl: "https://www.amazon.co.jp/dp/B07BQSG7BG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-ohio-lifting-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Ohio+Lifting+Belt%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sbd-lever-belt-13mm",
+    category: "fitness",
+    name: { en: "SBD Lever Belt (13mm)", ja: "SBD レバーベルト (13mm)" },
+    description: {
+      en: "13mm single-ply leather with integrated lever mechanism. IPF World Championship standard. Available in 7 sizes. Maximum rigidity for competition powerlifting. Side-press lever release.",
+      ja: "13mm一枚革・組み込み式レバー機構。IPF世界選手権標準モデル。7サイズ展開。競技パワーリフティング向け最大剛性。サイドプレス式レバー解放。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08GTTW5M2", rawUrl: "https://www.amazon.co.jp/dp/B08GTTW5M2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sbd-lever-belt-13mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSBD+Lever+Belt+13mm%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dark-iron-fitness-leather-belt",
+    category: "fitness",
+    name: { en: "Dark Iron Fitness Genuine Leather Belt", ja: "Dark Iron Fitness 本革ウェイトリフティングベルト" },
+    description: {
+      en: "10mm genuine cowhide leather, 4 inches wide, double-prong roller buckle. Softer from day one than competition belts. Best budget genuine leather option for general strength training. No IPF approval.",
+      ja: "厚さ10mm本牛革、幅4インチ、ダブルプロングローラーバックル。競技ベルトより最初から柔らかい。一般筋トレ向け予算内最優秀の本革モデル。IPF非公認。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01A5MMWL4", rawUrl: "https://www.amazon.co.jp/dp/B01A5MMWL4", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-dark-iron-fitness-leather-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDark+Iron+Fitness+%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harbinger-foam-core-belt",
+    category: "fitness",
+    name: { en: "Harbinger Foam Core Belt (4-Inch)", ja: "Harbinger フォームコアベルト (4インチ)" },
+    description: {
+      en: "Nylon exterior with closed-cell foam core, 4 inches wide, steel buckle. No break-in required. Flexible front panel suits Olympic lifting rack position. Best entry-level belt for beginners and general gym training.",
+      ja: "ナイロン外装・閉気泡フォームコア、幅4インチ、スチールバックル。馴染ませ不要。前面の柔軟なパネルがオリンピックリフティングのラックポジションに対応。初心者と一般ジムトレーニング向け最優秀エントリーモデル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0000C0CVB", rawUrl: "https://www.amazon.co.jp/dp/B0000C0CVB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-harbinger-foam-core-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarbinger+%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%B3%E3%82%A2%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Immersion Blenders (best-immersion-blender-2026) ─────────
+  {
+    id: "braun-multiquick-5-mq5025",
+    category: "food",
+    badge: "🌀",
+    name: { en: "Braun MultiQuick 5 Immersion Blender (MQ5025)", ja: "ブラウン マルチクイック5 ハンドブレンダー MQ5025" },
+    description: {
+      en: "350W variable-speed trigger, PowerBell splatter-reducing blade housing, 18 cm shaft, dishwasher-safe blade assembly. Best all-round immersion blender for daily soup and smoothie use.",
+      ja: "350W無段階トリガー速度、飛び散り防止PowerBellハウジング、18cmシャフト、食洗機対応ブレードユニット。日常のスープ・スムージー用途で総合バランス最良。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07PKWTQJL", rawUrl: "https://www.amazon.co.jp/dp/B07PKWTQJL", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-braun-multiquick-5-mq5025", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBraun+MultiQuick+5+MQ5025%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kitchenaid-khbv53-blender",
+    category: "food",
+    badge: "🔵",
+    name: { en: "KitchenAid KHBV53 Variable Speed Hand Blender", ja: "キッチンエイド KHBV53 可変速ハンドブレンダー" },
+    description: {
+      en: "300W motor, 5 discrete speed settings, 15.5 cm shaft, push-button detach blade assembly. Best discrete speed control for emulsifying dressings and custards.",
+      ja: "300Wモーター、5段階固定速度、15.5cmシャフト、プッシュボタン着脱ブレードユニット。乳化・カスタード作業に有利な低速精度。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08GYLK19H", rawUrl: "https://www.amazon.co.jp/dp/B08GYLK19H", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kitchenaid-khbv53-blender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKitchenAid+KHBV53%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "vitamix-immersion-5speed",
+    category: "food",
+    badge: "🏆",
+    name: { en: "Vitamix Immersion Blender (5-Speed)", ja: "バイタミックス ハンドブレンダー 5スピード" },
+    description: {
+      en: "625W continuous-rated motor, 5-speed dial, 20 cm shaft, hardened laser-cut 4-prong blade. Best for heavy daily use — handles frozen ingredients and fibrous vegetables without stalling.",
+      ja: "625W連続定格モーター、5段階ダイヤル、20cmシャフト、硬化レーザーカット4本爪ブレード。冷凍食材や繊維質野菜も止まらずこなす高負荷用途向け。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07W6FY5WK", rawUrl: "https://www.amazon.co.jp/dp/B07W6FY5WK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-vitamix-immersion-5speed", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVitamix+%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mueller-ultra-stick-blender",
+    category: "food",
+    badge: "💰",
+    name: { en: "Mueller Ultra-Stick 500W Immersion Blender", ja: "Mueller Ultra-Stick 500W ハンドブレンダー" },
+    description: {
+      en: "500W motor, 19 cm shaft, includes 600 ml beaker and whisk attachment. Best value package — louder at full speed than competitors but adequate seal longevity for moderate home use.",
+      ja: "500Wモーター、19cmシャフト、600mlビーカー・ホイッパー付属。コスパ最良パッケージ。フル回転時の騒音はやや大きめだが中程度の家庭使用には十分な耐久性。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07X3TGLSZ", rawUrl: "https://www.amazon.co.jp/dp/B07X3TGLSZ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-mueller-ultra-stick-blender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+Ultra-Stick+%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "koios-4in1-immersion-blender",
+    category: "food",
+    badge: "🔧",
+    name: { en: "KOIOS 4-in-1 Immersion Hand Blender", ja: "KOIOS 4-in-1 ハンドブレンダー" },
+    description: {
+      en: "800W peak, 8-speed + pulse dial, 17 cm shaft, includes blade, whisk, milk frother, and 600 ml beaker. Best attachment variety for households blending soups, frothing milk, and whipping cream.",
+      ja: "ピーク800W、8段階＋パルスダイヤル、17cmシャフト、ブレード・ホイッパー・ミルクフロッサー・600mlビーカー付属。スープ・ミルクフォーム・生クリームを1台でまかないたい家庭向け。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07VNY6DX4", rawUrl: "https://www.amazon.co.jp/dp/B07VNY6DX4", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-koios-4in1-immersion-blender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKOIOS+%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
