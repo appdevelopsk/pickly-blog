@@ -5877,6 +5877,78 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
 
+  // ───────── Travel / Luggage (best-luggage-2026) ─────────
+  {
+    id: "away-carry-on",
+    category: "travel",
+    badge: "✈️",
+    name: { en: "Away The Carry-On", ja: "Away The Carry-On" },
+    description: {
+      en: "Hardshell polycarbonate carry-on with Hinomoto spinner wheels, interior compression system, laundry bag, and TSA combination lock that captures both zipper sliders. 21.7 × 13.7 × 9 in (22.4 × 14.7 × 9.6 in with wheels/handle). 7.4 lbs empty. Weakness: heavier than budget alternatives; premium price hard to justify for infrequent travelers.",
+      ja: "Hinomotoスピナーホイール・内部圧縮システム・ランドリーバッグ・両ジッパースライダーをキャプチャするTSAコンビネーションロック搭載のハードシェルポリカーボネートキャリーオン。空重量3.4kg。弱点：予算代替品より重い；頻繁でない旅行者にはプレミアム価格の正当化が難しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "away-carry-on-jp", rawUrl: "https://www.amazon.co.jp/s?k=Away+%E3%82%AD%E3%83%A3%E3%83%AA%E3%83%BC%E3%82%AA%E3%83%B3+%E3%82%B9%E3%83%BC%E3%83%84%E3%82%B1%E3%83%BC%E3%82%B9", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-away-carry-on", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAway+%E3%82%AD%E3%83%A3%E3%83%AA%E3%83%BC%E3%82%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "samsonite-omni-pc-20",
+    category: "travel",
+    badge: "💼",
+    name: { en: "Samsonite Omni PC 20\" Hardside Spinner", ja: "Samsonite Omni PC 20インチ ハードサイドスピナー" },
+    description: {
+      en: "Best-value hardshell carry-on — Macro-Tex polycarbonate scratch-resistant shell, multi-directional spinner wheels, integrated TSA lock, basic packing system. 21.5 × 15 × 10 in. Decades-proven Samsonite durability at a pragmatic price. Weakness: spinner quality below premium tiers; interior organization is minimal.",
+      ja: "コスパ最良のハードシェルキャリーオン——Macro-Texポリカーボネート耐傷シェル・マルチディレクショナルスピナーホイール・統合TSAロック・基本パッキングシステム。21.5 × 15 × 10インチ。数十年実証済みのSamsonite耐久性を実用的な価格で。弱点：スピナー品質はプレミアム製品に及ばない；内部組織は最小限。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "samsonite-omni-pc-20-jp", rawUrl: "https://www.amazon.co.jp/s?k=Samsonite+Omni+PC+%E3%82%B9%E3%83%BC%E3%83%84%E3%82%B1%E3%83%BC%E3%82%B9+%E6%A9%9F%E5%86%85%E6%8C%81%E3%81%A1%E8%BE%BC%E3%81%BF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-samsonite-omni-pc-20", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSamsonite+Omni+PC+%E3%82%B9%E3%83%BC%E3%83%84%E3%82%B1%E3%83%BC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "travelpro-platinum-elite-21",
+    category: "travel",
+    badge: "🛫",
+    name: { en: "Travelpro Platinum Elite 21\" Softside Spinner", ja: "Travelpro Platinum Elite 21インチ ソフトサイドスピナー" },
+    description: {
+      en: "Professional frequent-flyer softside carry-on with Duraguard spinner wheels, PowerScope extension handle with multiple stops, self-repairing YKK zippers, and 10-year warranty. The bag flight attendants use for 200+ travel days per year. Weakness: softside exterior protects fragile items less than hardshell; higher price than Samsonite.",
+      ja: "Duraguardスピナーホイール・複数ストップ付きPowerScope延伸ハンドル・自己修復YKKジッパー・10年保証を備えたプロ向け頻繁旅行者ソフトサイドキャリーオン。客室乗務員が年200日以上の旅行に使用するバッグ。弱点：ソフトサイド外装はハードシェルより壊れやすいアイテムを保護しにくい；Samsuniteより高価。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "travelpro-platinum-elite-21-jp", rawUrl: "https://www.amazon.co.jp/s?k=Travelpro+Platinum+Elite+%E3%82%B9%E3%83%BC%E3%83%84%E3%82%B1%E3%83%BC%E3%82%B9", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-travelpro-platinum-elite-21", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTravelpro+Platinum+Elite+%E3%82%B9%E3%83%BC%E3%83%84%E3%82%B1%E3%83%BC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rimowa-essential-20",
+    category: "travel",
+    badge: "💎",
+    name: { en: "Rimowa Essential 20\" Carry-On", ja: "Rimowa Essential 20インチ キャリーオン" },
+    description: {
+      en: "Luxury polycarbonate carry-on — lightest in this comparison at 5.5 lbs, ribbed design, best TSA lock mechanism (captures both sliders), 10-year warranty Rimowa honors. 21.7 × 15.7 × 9.1 in. Weakness: premium price impossible to justify on function alone vs Samsonite; ribbed exterior collects grime in grooves.",
+      ja: "贅沢ポリカーボネートキャリーオン——この比較で最軽量の2.5kg・リブデザイン・最良のTSAロックメカニズム（両スライダーキャプチャ）・Rimowaが実際に適用する10年保証。弱点：Samsuniteとの機能比較では価格を正当化不可能；リブ外装の溝に汚れが溜まりやすい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "rimowa-essential-20-jp", rawUrl: "https://www.amazon.co.jp/s?k=Rimowa+Essential+%E3%82%AD%E3%83%A3%E3%83%AA%E3%83%BC%E3%82%AA%E3%83%B3", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rimowa-essential-20", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRimowa+Essential+%E3%82%AD%E3%83%A3%E3%83%AA%E3%83%BC%E3%82%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazonbasics-hardside-spinner-20",
+    category: "travel",
+    badge: "💰",
+    name: { en: "Amazon Basics Hardside Spinner 20\"", ja: "Amazonベーシックス ハードサイドスピナー 20インチ" },
+    description: {
+      en: "Budget hardshell carry-on — 20 × 13.5 × 8.5 in passes most airline limits, dual spinner wheels, integrated TSA lock, lightweight polycarbonate shell. Compliant with most strict US budget carrier gauges. Weakness: wheel quality degrades within a year of regular use; thinner polycarbonate dents more easily; no interior organization features.",
+      ja: "予算ハードシェルキャリーオン——ほとんどの航空会社制限をパスする20 × 13.5 × 8.5インチ・デュアルスピナーホイール・統合TSAロック・軽量ポリカーボネートシェル。弱点：定期的な使用1年以内にホイール品質が低下；プレミアム代替品より薄いポリカーボネートでへこみやすい；内部収納機能なし。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazonbasics-hardside-spinner-20-jp", rawUrl: "https://www.amazon.co.jp/s?k=Amazon%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9+%E3%82%B9%E3%83%BC%E3%83%84%E3%82%B1%E3%83%BC%E3%82%B9+%E3%83%8F%E3%83%BC%E3%83%89", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-amazonbasics-hardside-spinner-20", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazon%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9+%E3%82%B9%E3%83%BC%E3%83%84%E3%82%B1%E3%83%BC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
   // ───────── Fitness / Hiking Boots (best-hiking-boots-2026) ─────────
   {
     id: "salomon-x-ultra-4-gtx",
@@ -5936,6 +6008,68 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-columbia-newton-ridge-plus-ii", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2+%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3%E3%83%AA%E3%83%83%E3%82%B8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Fitness / Running Watches (best-running-watch-2026) ─────────
+  {
+    id: "garmin-forerunner-265",
+    category: "fitness",
+    name: { en: "Garmin Forerunner 265", ja: "ガーミン フォアランナー 265" },
+    description: {
+      en: "Best overall GPS running watch — multi-band L1/L5 GPS, Elevate v4 optical HR, AMOLED display, Training Readiness, HRV Status, 20-hour GPS battery",
+      ja: "総合最良GPSランニングウォッチ — マルチバンドL1/L5 GPS・Elevate v4光学HR・AMOLEDディスプレイ・Training Readiness・HRV Status・20時間GPSバッテリー",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-garmin-forerunner-265", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AC%E3%83%BC%E3%83%9F%E3%83%B3+%E3%83%95%E3%82%A9%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC+265%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "coros-pace-3",
+    category: "fitness",
+    name: { en: "Coros Pace 3", ja: "コロス ペース 3" },
+    description: {
+      en: "Best lightweight running watch — 30g, 38-hour GPS battery, multi-band GPS, EvoLab training analysis, minimal smartwatch features by design",
+      ja: "最軽量ランニングウォッチ — 30g・38時間GPSバッテリー・マルチバンドGPS・EvoLabトレーニング分析・意図的に最小限のスマートウォッチ機能",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-coros-pace-3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%AD%E3%82%B9+%E3%83%9A%E3%83%BC%E3%82%B93%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "apple-watch-series-9",
+    category: "fitness",
+    name: { en: "Apple Watch Series 9", ja: "アップルウォッチ シリーズ 9" },
+    description: {
+      en: "Best for iPhone users — L1/L5 dual-frequency GPS, AFib detection, ECG, Apple Pay, 6–8 hour GPS battery, full Apple ecosystem integration",
+      ja: "iPhoneユーザー向け最適 — L1/L5デュアル周波数GPS・心房細動検出・ECG・Apple Pay・GPS6〜8時間・Apple完全エコシステム統合",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-apple-watch-series-9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81+%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "polar-pacer-pro",
+    category: "fitness",
+    name: { en: "Polar Pacer Pro", ja: "ポラール ペーサー プロ" },
+    description: {
+      en: "Best for training load analysis — Precision Prime optical HR, Training Load Pro (Cardio/Muscle/Perceived), 35-hour GPS battery, MIP display",
+      ja: "トレーニング負荷分析最良 — Precision Prime光学HR・Training Load Pro（心血管/筋肉/知覚）・35時間GPSバッテリー・MIPディスプレイ",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-polar-pacer-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9D%E3%83%A9%E3%83%BC%E3%83%AB+%E3%83%9A%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%97%E3%83%AD%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "garmin-forerunner-55",
+    category: "fitness",
+    name: { en: "Garmin Forerunner 55", ja: "ガーミン フォアランナー 55" },
+    description: {
+      en: "Best budget GPS running watch for beginners — single-band GPS, 20-hour battery, VO2max estimate, basic training effect metrics, Garmin Connect integration",
+      ja: "初心者向け最良エントリーGPSランニングウォッチ — シングルバンドGPS・20時間バッテリー・VO2max推定・基本トレーニングエフェクト指標・Garmin Connect連携",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-garmin-forerunner-55", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AC%E3%83%BC%E3%83%9F%E3%83%B3+%E3%83%95%E3%82%A9%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC+55%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
