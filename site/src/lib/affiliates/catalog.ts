@@ -7555,6 +7555,77 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-titan-fitness-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E6%9C%A8%E8%A3%BD%2B%E3%82%B3%E3%82%B9%E3%83%91%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Gymnastic Rings v2 (best-gymnastic-rings-2026) ─────────
+  {
+    id: "rogue-wood-gymnastics-rings",
+    category: "fitness",
+    badge: "🏆",
+    name: { en: "Rogue Wood Gymnastics Rings (1.25\" diameter)", ja: "Rogue ウッド体操リング（直径1.25インチ）" },
+    description: {
+      en: "Competition-grade Baltic birch rings at 1.25\" diameter. 1.5\" nylon straps with stainless steel roller buckles. Used in CrossFit-sanctioned events. 400 lb capacity.",
+      ja: "競技規格のバルティックバーチ製1.25インチ径リング。幅38mmナイロンストラップとステンレス鋼ローラーバックル。クロスフィット公認大会使用実績。耐荷重181kg。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00NH0XJWQ", rawUrl: "https://www.amazon.co.jp/dp/B00NH0XJWQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-wood-gymnastics-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2B%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E6%9C%A8%E8%A3%BD%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gorilla-rings-wooden-gym",
+    category: "fitness",
+    badge: "🦍",
+    name: { en: "GORILLA RINGS Wooden Gym Rings", ja: "GORILLA RINGS ウッドジムリング" },
+    description: {
+      en: "1.25\" beech wood rings with 4.9 m numbered straps (5 cm markings) and 250 kg-rated cam buckles. Ships with carry bag. Solid choice for outdoor training.",
+      ja: "1.25インチ・ビーチ材リング。5cm刻み番号付き4.9mストラップと耐荷重250kgカムバックル。キャリーバッグ付属。屋外トレーニングに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07GXQX5SR", rawUrl: "https://www.amazon.co.jp/dp/B07GXQX5SR", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-gorilla-rings-wooden-gym", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGORILLA+RINGS%2B%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nayoya-wooden-exercise-rings",
+    category: "fitness",
+    badge: "🟢",
+    name: { en: "Nayoya Wooden Exercise Rings", ja: "Nayoya ウッドエクササイズリング" },
+    description: {
+      en: "1.1\" birch rings — narrower than competition standard, reducing grip load for beginners. 15-foot numbered nylon straps with single-cam buckle. Best entry-level pick.",
+      ja: "1.1インチ・バーチ材リング。競技規格より細く初心者のグリップ負荷を軽減。15フィートの番号付きナイロンストラップとシングルカムバックル。エントリーモデルの最良選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00M6USAAA", rawUrl: "https://www.amazon.co.jp/dp/B00M6USAAA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nayoya-wooden-exercise-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNayoya%2B%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E3%83%90%E3%83%BC%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-fitness-wooden-rings",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Titan Fitness Wooden Gymnastics Rings", ja: "Titan Fitness ウッド体操リング" },
+    description: {
+      en: "1.25\" birch rings at competition diameter with 15-foot adjustable nylon straps and cam buckles. 600 lb capacity. Best value competition-diameter pick.",
+      ja: "競技径1.25インチのバーチ材リング。15フィートのナイロンストラップとカムバックル付き。耐荷重272kg。競技径で最高のコスパ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07BF9BKDG", rawUrl: "https://www.amazon.co.jp/dp/B07BF9BKDG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-fitness-wooden-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness%2B%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E6%9C%A8%E8%A3%BD%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-wooden-rings",
+    category: "fitness",
+    badge: "🍁",
+    name: { en: "Rep Fitness Wooden Gymnastics Rings", ja: "Rep Fitness ウッド体操リング" },
+    description: {
+      en: "1.25\" maple rings with 15-foot heavy-duty 38mm straps and double-cam buckle rated 600 lbs. Maple grain resists moisture and UV — best for outdoor and high-humidity use.",
+      ja: "1.25インチ・メープル材リング。38mm重厚ストラップ15フィートとダブルカムバックル（耐荷重270kg）。メープル材は湿気とUVに強く屋外・高湿度環境に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07DHTQJ7D", rawUrl: "https://www.amazon.co.jp/dp/B07DHTQJ7D", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-fitness-wooden-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRep+Fitness%2B%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E3%83%A1%E3%83%BC%E3%83%97%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
 
   // best-sparkling-water-2026
   {
@@ -8606,6 +8677,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "amazon-jp-wodfitters-pullup-bands", rawUrl: "https://www.amazon.co.jp/dp/B00NIOPNCI", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-wodfitters-pullup-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWODFitters+%E3%83%97%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E8%A3%9C%E5%8A%A9%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Home / Reusable Water Bottles (best-reusable-water-bottle-2026) ─────────
+  {
+    id: "hydro-flask-standard-mouth-21oz",
+    category: "home",
+    name: { en: "Hydro Flask Standard Mouth 21oz", ja: "Hydro Flask スタンダードマウス 21oz" },
+    description: {
+      en: "21oz vacuum-insulated 18/8 stainless, TempShield double-wall, 24hr cold / 12hr hot, Sport Cap push-pull valve, 298g empty, 38mm mouth.",
+      ja: "21oz真空断熱18/8ステンレス、TempShield二重壁、冷24時間・温12時間、Sport Capプッシュプルバルブ、空重量298g、38mm口径。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07B4RHWK2", rawUrl: "https://www.amazon.co.jp/dp/B07B4RHWK2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hydro-flask-standard-mouth-21oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHydro+Flask+%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%83%9E%E3%82%A6%E3%82%B9+21oz%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nalgene-sustain-wide-mouth-32oz",
+    category: "home",
+    name: { en: "Nalgene Sustain Wide Mouth 32oz", ja: "Nalgene サステイン ワイドマウス 32oz" },
+    description: {
+      en: "32oz recycled Tritan Renew (50% recycled content), BPA/BPS-free, dishwasher-safe, 63mm wide mouth, 180g empty.",
+      ja: "32ozリサイクルTritan Renew（50%リサイクル素材）、BPA・BPSフリー、食洗機対応、63mmワイドマウス、空重量180g。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07X6G4G5K", rawUrl: "https://www.amazon.co.jp/dp/B07X6G4G5K", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nalgene-sustain-wide-mouth-32oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNalgene+%E3%82%B5%E3%82%B9%E3%83%86%E3%82%A4%E3%83%B3+%E3%83%AF%E3%82%A4%E3%83%89%E3%83%9E%E3%82%A6%E3%82%B9+32oz%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "camelbak-chute-mag-25oz",
+    category: "home",
+    name: { en: "CamelBak Chute Mag 25oz", ja: "CamelBak チュートマグ 25oz" },
+    description: {
+      en: "25oz vacuum-insulated stainless, Chute Mag magnetic lid, angled spout, 25hr cold / 5hr hot, 340g empty, 46mm mouth.",
+      ja: "25oz真空断熱ステンレス、Chute Magマグネット蓋、斜めスパウト、冷25時間・温5時間、空重量340g、46mm口径。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08L5BKQVP", rawUrl: "https://www.amazon.co.jp/dp/B08L5BKQVP", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-camelbak-chute-mag-25oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCamelBak+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%9E%E3%82%B0+%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "stanley-classic-legendary-36oz",
+    category: "home",
+    name: { en: "Stanley Classic Legendary Bottle 36oz", ja: "スタンレー クラシック 真空ボトル 36oz" },
+    description: {
+      en: "36oz vacuum-insulated full stainless (no powder coat), lid-as-cup design, 27hr cold / 24hr hot, 540g empty, dishwasher-safe body.",
+      ja: "36oz真空断熱フルステンレス（パウダーコートなし）、蓋カップ一体型、冷27時間・温24時間、空重量540g、ステンレスボディ食洗機対応。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0000DH48Q", rawUrl: "https://www.amazon.co.jp/dp/B0000DH48Q", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-stanley-classic-legendary-36oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%AC%E3%83%BC+%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF+%E3%83%9C%E3%83%88%E3%83%AB+1.0L%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "klean-kanteen-classic-27oz",
+    category: "home",
+    name: { en: "Klean Kanteen Classic 27oz", ja: "クリーンカンティーン クラシック 27oz" },
+    description: {
+      en: "27oz single-wall 18/8 stainless (no insulation), screw cap with carry loop, 215g empty, dishwasher-safe body.",
+      ja: "27ozシングルウォール18/8ステンレス（断熱なし）、キャリーループ付きスクリューキャップ、空重量215g、ボディ食洗機対応。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01N5XWXH8", rawUrl: "https://www.amazon.co.jp/dp/B01N5XWXH8", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-klean-kanteen-classic-27oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AB%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3+%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF+800ml%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
