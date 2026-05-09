@@ -966,6 +966,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-sharp-plasmacluster-ibwx901", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSHARP%2B%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%2BIB-WX901%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Beauty / Hair Straighteners (best-hair-straightener-2026) ─────────
+  {
+    id: "dyson-corrale-straightener",
+    category: "beauty",
+    badge: "🔋",
+    name: { en: "Dyson Corrale", ja: "Dyson Corrale" },
+    description: {
+      en: "~60,000 yen cordless straightener. Flex plates conform to hair shape for full contact, 30-min battery, universal 100-240V charger. Brand claims 30% less heat damage — from Dyson's own lab, not independently replicated. 30 min is a hard ceiling for long or thick hair.",
+      ja: "約60,000円のコードレスアイロン。フレックスプレートが毛束の形状に密着、30分バッテリー、100〜240V対応充電器。「ダメージ30%削減」はDyson自社ラボデータ、独立検証なし。長い・多い髪では30分で終わらない場合あり。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-dyson-corrale-straightener", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDyson%2BCorrale%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ghd-platinum-plus",
+    category: "beauty",
+    badge: "🌡️",
+    name: { en: "GHD Platinum+", ja: "GHD Platinum+" },
+    description: {
+      en: "~35,000 yen professional-standard straightener. Fixed 185°C predictive heating reads temperature 250x per second. Removes temperature decision-making entirely. No domestic Japan service center — warranty via importer.",
+      ja: "約35,000円のプロフェッショナル標準機。固定185°C予測ヒーティングが1秒250回計測。温度設定の判断を完全に省ける。日本国内修理センターなし — 保証は輸入代理店経由。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ghd-platinum-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGHD%2BPlatinum%2B%E3%83%97%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-nanocare-eh-hs0e",
+    category: "beauty",
+    badge: "🇯🇵",
+    name: { en: "Panasonic Nanocare EH-HS0E", ja: "パナソニック ナノケア EH-HS0E" },
+    description: {
+      en: "~25,000 yen Japan No.1 pick. Nanoe double-ion moisture delivery, 130-200°C range, domestic service network. 100V only — cannot be used abroad without a voltage converter.",
+      ja: "約25,000円の国内人気No.1。ナノイーダブルイオン水分補給、130〜200°C可変、国内サービス網完備。100V専用 — 変圧器なしの海外使用不可。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-panasonic-nanocare-eh-hs0e", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPanasonic%2B%E3%83%8A%E3%83%8E%E3%82%B1%E3%82%A2%2BEH-HS0E%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "remington-s9500-pearl",
+    category: "beauty",
+    badge: "💎",
+    name: { en: "Remington S9500 Pearl", ja: "Remington S9500 Pearl" },
+    description: {
+      en: "~8,000 yen entry ceramic pick. 9 heat settings, 230°C max, 60-second heat-up. Ceramic coating wears thin after 12-18 months of daily use — plan to replace.",
+      ja: "約8,000円のエントリーセラミック枠。9段階温度設定、最大230°C、60秒加熱。セラミックコーティングは毎日使用で12〜18ヶ月で摩耗 — 買い替え前提の選択。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-remington-s9500-pearl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRemington%2BS9500%2BPearl%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "babyliss-st330e",
+    category: "beauty",
+    badge: "💄",
+    name: { en: "BaByliss ST330E", ja: "BaByliss ST330E" },
+    description: {
+      en: "~15,000 yen ceramic-titanium value pro pick. 235°C max, 60-second heat-up, Amazon JP top seller. Manual temperature only — no predictive tech. 235°C causes rapid damage on fine or color-treated hair without active user restraint.",
+      ja: "約15,000円のセラミック+チタン中価格プロ向け。最大235°C、60秒加熱、Amazon JP人気上位。予測技術なし手動温度制御のみ。細い髪・カラーリング毛を235°Cで使うと急速にダメージ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-babyliss-st330e", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBaByliss%2BST330E%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Home / Rice Cookers (best-rice-cooker-2026) ─────────
   {
     id: "zojirushi-stan-nw-sa10",
@@ -1545,6 +1611,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-samsung-galaxy-fit-3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSamsung%2BGalaxy%2BFit%2B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Smart Scales (best-smart-scale-2026) ─────────
+  {
+    id: "withings-body-comp",
+    category: "fitness",
+    badge: "❤️",
+    name: { en: "Withings Body Comp", ja: "Withings Body Comp" },
+    description: {
+      en: "~¥30,000 broadest-health-picture pick. Measures body fat, muscle mass, visceral fat index, bone mass, and vascular age (pulse wave velocity) via Health Mate app. Best data export policy in this comparison (CSV export, API access), reliable Apple Health and Google Fit sync. Foot-to-foot BIA shares the same ±3–8% body fat accuracy class as cheaper scales; Withings has undergone multiple ownership changes (Nokia Health, back to Withings) creating long-term software support uncertainty; ¥30,000 is the joint-highest price in this comparison.",
+      ja: "約¥30,000の最広健康像把握枠。体脂肪・筋肉量・内臓脂肪指数・骨量・血管年齢（脈波伝播速度）をHealth Mateアプリで計測。本比較最良データエクスポートポリシー（CSVエクスポート・APIアクセス）、Apple HealthとGoogle Fit両方への信頼性の高い同期。足底BIAは安い製品と同じ±3〜8%体脂肪精度クラス、Withingsは複数の所有権変更（Nokia Health・Withings復帰）を経て長期ソフトウェアサポートに不確実性がある、¥30,000は本比較の同率最高価格。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-withings-body-comp", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWithings%2BBody%2BComp%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "garmin-index-s2",
+    category: "fitness",
+    badge: "🔵",
+    name: { en: "Garmin Index S2", ja: "Garmin Index S2" },
+    description: {
+      en: "~¥22,000 Garmin Connect integration pick. Supports 16 simultaneous users, syncs body fat, BMI, body water, and bone mass directly to Garmin Connect alongside activities, sleep, and HRV data. Ecosystem premium only valuable if you already use Garmin devices; for non-Garmin users it is a foot-to-foot BIA scale at ¥22,000 with the same accuracy class as the ¥8,000 Eufy P2 Pro; no direct Google Fit integration without a third-party bridge app.",
+      ja: "約¥22,000のGarmin Connect連携枠。16ユーザー同時対応、体脂肪・BMI・体水分・骨量をアクティビティ・睡眠・HRVデータと並んでGarmin Connectに直接同期。エコシステムプレミアムは既存Garminデバイス使用者にのみ価値があり、Garmin以外のユーザーには¥22,000の足底BIAスケールで¥8,000のEufy P2 Proと同精度クラス。サードパーティ仲介なしではGoogle Fitへの直接連携なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-garmin-index-s2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin%2BIndex%2BS2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tanita-rd-906",
+    category: "fitness",
+    badge: "🏥",
+    name: { en: "Tanita RD-906", ja: "タニタ RD-906" },
+    description: {
+      en: "~¥30,000 highest-rigor consumer BIA pick. InBody-licensed multi-frequency four-electrode technology measures arms, legs, and trunk separately (genuine segmental body composition) rather than estimating upper body from foot-to-foot impedance; 50 g resolution; Tanita has clinical credibility in Japan that no foreign brand currently matches — hospitals, clinics, and sports facilities use Tanita professional equipment. Requires holding handle electrodes during each measurement; Health Planet app is Japan-focused and less internationally polished than Withings or Garmin; no vascular age measurement despite price parity with Withings Body Comp.",
+      ja: "約¥30,000の最高精度消費者BIA枠。InBodyライセンス多周波数4電極技術が腕・脚・体幹を個別に計測（真の部位別体組成）し、足底インピーダンスからの上半身推定ではない。50g単位計測。タニタは日本で外国ブランドが匹敵できない臨床的信頼性を持ち、病院・クリニック・スポーツ施設がタニタ業務用機器を使用。各計測でハンドル電極を握る必要がある、Health Planetアプリは日本市場中心でWithingsやGarminほど国際的に洗練されていない、Withings Body Compと同価格帯ながら血管年齢計測なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-tanita-rd-906", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%8B%E3%82%BF%2BRD-906%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "xiaomi-body-composition-scale-2",
+    category: "fitness",
+    badge: "💴",
+    name: { en: "Xiaomi Mi Body Composition Scale 2", ja: "Xiaomi 体組成計 2" },
+    description: {
+      en: "~¥3,000 ultra-budget body fat tracking pick. Measures body fat, BMI, muscle mass, bone mass, and metabolic rate estimates via Bluetooth sync to Mi Fitness; body fat trend data is useful despite wide accuracy margin. Bluetooth-only requires phone nearby during measurement; two-electrode foot-to-foot BIA gives the widest accuracy margin in this comparison; Mi Fitness data export is restricted; Xiaomi's track record of discontinuing products and apps without long transition periods is a legitimate concern for multi-year data tracking.",
+      ja: "約¥3,000の超低価格体脂肪追跡枠。Mi FitnessへのBluetooth同期で体脂肪率・BMI・筋肉量・骨量・代謝率推定を計測。広い誤差幅にもかかわらず体脂肪トレンドデータは有用。Bluetoothのみのため計測時に近くにスマートフォンが必要、2電極足底BIAで本比較最大の誤差幅、Mi Fitnessのデータエクスポートが制限的、Xiaomiの移行期間の短い製品・アプリ終了実績は複数年データ追跡への正当な懸念。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-xiaomi-body-composition-scale-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXiaomi%2B%E4%BD%93%E7%B5%84%E6%88%90%E8%A8%88%2B2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anker-eufy-smart-scale-p2-pro",
+    category: "fitness",
+    badge: "📶",
+    name: { en: "Anker Eufy Smart Scale P2 Pro", ja: "Anker Eufy スマート体重計 P2 Pro" },
+    description: {
+      en: "~¥8,000 pragmatic middle pick. Wi-Fi sync (no phone-nearby requirement), Apple Health and Google Fit integration, 16 body metrics, clean Eufy Life app; Anker has strong Japan retail and customer service presence (Akihabara and Osaka stores, direct Japan support line). Most additional metrics beyond weight, body fat, and BMI are derived from the same two-electrode foot-to-foot BIA signal through different regression equations — not independent measurements; Eufy Life app is less mature than Withings Health Mate; brand does not carry Tanita's clinical trust in Japan.",
+      ja: "約¥8,000の実用的な中間選択肢。Wi-Fi同期（スマートフォン近接不要）・Apple HealthとGoogle Fit連携・16指標・クリーンなEufy Lifeアプリ。Ankerは日本で充実した小売・顧客サービス体制（秋葉原・大阪ストア・日本語直接サポート）を持つ。体重・体脂肪・BMI以外のほとんどの追加指標は同じ2電極足底BIA信号からの異なる回帰式による導出で独立した計測ではない、Eufy Lifeアプリの成熟度はWithings Health Mateより低い、日本でブランドはタニタの臨床的信頼性を持たない。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anker-eufy-smart-scale-p2-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BEufy%2B%E4%BD%93%E9%87%8D%E8%A8%88%2BP2%2BPro%2F", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Tech / Tablet Stands (best-tablet-stand-2026) ─────────

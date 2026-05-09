@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 45 articles x 6 variants x 2 locales (en, ja) = 540 pins (growing)
+# 47 articles x 6 variants x 2 locales (en, ja) = 564 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -5642,3 +5642,543 @@ pins:
     link: "https://pickly.blog/ja/articles/best-espresso-machine-2026/"
     image_alt: "Breville Barista Express 自宅カフェセット"
     hashtags: ["エスプレッソ", "Breville", "ホームバリスタ", "コーヒーマシン", "自宅カフェ"]
+
+  # =========================================================
+  # best-office-chair-2026
+  # =========================================================
+  - pin_id: best-office-chair-2026-en-01
+    article_slug: best-office-chair-2026
+    locale: en
+    variant: comparison
+    title: "Best Office Chair 2026: Herman Miller Aeron vs Steelcase Leap vs Okamura Contessa"
+    description: |
+      We compared five office chairs from ¥25,000 to ¥200,000 across lumbar support mechanics, mesh breathability, adjustability, and warranty coverage. Herman Miller and Steelcase have 12-year warranties — but Okamura Contessa Seconda is purpose-built for Japanese body proportions. Which chair earns back its price in 8-hour workdays?
+    link: "https://pickly.blog/en/articles/best-office-chair-2026/"
+    image_alt: "Best office chair 2026 comparison"
+    hashtags: ["officechair", "homeoffice", "desksetup", "wfh", "ergonomics"]
+
+  - pin_id: best-office-chair-2026-en-02
+    article_slug: best-office-chair-2026
+    locale: en
+    variant: top1
+    title: "The office chair that won 2026 for most remote workers"
+    description: |
+      Herman Miller Aeron at ~¥200,000 remains the benchmark — 8ZonedSupport PostureFit SL, 12-year warranty, and resale value that holds after 10 years. If ¥200,000 is too much, Steelcase Leap V2 comes close at ¥150,000. Both are investments that outlast five ¥30,000 chairs combined.
+    link: "https://pickly.blog/en/articles/best-office-chair-2026/"
+    image_alt: "Herman Miller Aeron top office chair 2026"
+    hashtags: ["officechair", "hermanmiller", "homeoffice", "ergonomics", "desksetup"]
+
+  - pin_id: best-office-chair-2026-en-03
+    article_slug: best-office-chair-2026
+    locale: en
+    variant: problem
+    title: "Why your back hurts even with an expensive office chair"
+    description: |
+      Most office chair back pain comes from wrong lumbar height and sitting too deep in the seat. A ¥200,000 Aeron adjusted wrong causes more pain than a ¥25,000 IKEA set up correctly. We explain the five adjustments (seat depth, lumbar height, armrest height, backrest tilt, seat height) that matter before spending more money.
+    link: "https://pickly.blog/en/articles/best-office-chair-2026/"
+    image_alt: "Office chair back pain adjustment guide"
+    hashtags: ["officechair", "backpain", "ergonomics", "homeoffice", "wfh"]
+
+  - pin_id: best-office-chair-2026-en-04
+    article_slug: best-office-chair-2026
+    locale: en
+    variant: budget
+    title: "The ¥25,000 office chair that works if you set it up right"
+    description: |
+      IKEA Markus at ~¥25,000 has adjustable height, lumbar support, and a 10-year warranty. It doesn't have seat depth adjustment or dynamic lumbar — but for people under 180cm who aren't sitting 8+ hours daily, correct height and backrest angle cover most comfort needs without a five-figure investment.
+    link: "https://pickly.blog/en/articles/best-office-chair-2026/"
+    image_alt: "Budget office chair IKEA Markus"
+    hashtags: ["officechair", "budget", "ikea", "homeoffice", "desksetup"]
+
+  - pin_id: best-office-chair-2026-en-05
+    article_slug: best-office-chair-2026
+    locale: en
+    variant: avoid
+    title: "Gaming chairs vs office chairs — the ergonomics reality for remote workers"
+    description: |
+      Gaming chairs are designed for aesthetics and side bolsters that hold you in position for 2-hour gaming sessions. Remote workers need dynamic lumbar support that adjusts as they shift posture over 8 hours. Most gaming chairs lock your spine into one position. We explain why the racing-seat design works against long-duration sitting.
+    link: "https://pickly.blog/en/articles/best-office-chair-2026/"
+    image_alt: "Gaming chair vs office chair for remote work"
+    hashtags: ["officechair", "gamingchair", "ergonomics", "homeoffice", "wfh"]
+
+  - pin_id: best-office-chair-2026-en-06
+    article_slug: best-office-chair-2026
+    locale: en
+    variant: scene
+    title: "Japan home office setup: ergonomic chair for smaller spaces"
+    description: |
+      Okamura Contessa Seconda (~¥100,000) is designed for Japanese body proportions and smaller office footprints. The mesh back, Japanese-standard seat dimensions, and domestic repair network make it the most practical premium choice for Japan-based remote workers who want Herman Miller quality without the import complications.
+    link: "https://pickly.blog/en/articles/best-office-chair-2026/"
+    image_alt: "Okamura Contessa Japan home office"
+    hashtags: ["homeoffice", "officechair", "japan", "desksetup", "ergonomics"]
+
+  - pin_id: best-office-chair-2026-ja-01
+    article_slug: best-office-chair-2026
+    locale: ja
+    variant: comparison
+    title: "オフィスチェア2026：ハーマンミラー Aeron vs Steelcase Leap vs オカムラ Contessa"
+    description: |
+      25,000円〜200,000円の5製品をランバーサポート・メッシュ通気性・調整機構・保証年数で比較。ハーマンミラーとSteelcaseは12年保証。でもオカムラ Contessa Secondaは日本人体型に最適化されている。8時間の作業で価格に見合う椅子はどれ？
+    link: "https://pickly.blog/ja/articles/best-office-chair-2026/"
+    image_alt: "オフィスチェア 2026年比較"
+    hashtags: ["オフィスチェア", "在宅勤務", "デスクセットアップ", "テレワーク", "エルゴノミクス"]
+
+  - pin_id: best-office-chair-2026-ja-02
+    article_slug: best-office-chair-2026
+    locale: ja
+    variant: top1
+    title: "2026年、リモートワーカーに一番選ばれたオフィスチェア"
+    description: |
+      ハーマンミラー Aeron（約200,000円）が依然として基準。8ゾーンサポートPostureFit SL、12年保証、10年後でも価値が落ちないリセールバリュー。20万円が高いならSteelcase Leap V2が15万円で近い性能。どちらも30,000円の椅子を5回買い替えるより長持ちする投資。
+    link: "https://pickly.blog/ja/articles/best-office-chair-2026/"
+    image_alt: "ハーマンミラー Aeron 2026年1位"
+    hashtags: ["オフィスチェア", "ハーマンミラー", "在宅勤務", "エルゴノミクス", "デスクセットアップ"]
+
+  - pin_id: best-office-chair-2026-ja-03
+    article_slug: best-office-chair-2026
+    locale: ja
+    variant: problem
+    title: "高いオフィスチェアを使っていても腰が痛い本当の理由"
+    description: |
+      オフィスチェアの腰痛のほとんどはランバー高さの設定ミスと座面への深座りすぎ。20万円のAeronを間違えた設定で使うと、正しく設定した2.5万円のIKEAより痛い。腰痛を防ぐ5つの調整（座面深さ・ランバー高さ・アームレスト・背もたれ傾き・座面高さ）を解説。
+    link: "https://pickly.blog/ja/articles/best-office-chair-2026/"
+    image_alt: "オフィスチェア 腰痛 調整ガイド"
+    hashtags: ["オフィスチェア", "腰痛", "エルゴノミクス", "在宅勤務", "テレワーク"]
+
+  - pin_id: best-office-chair-2026-ja-04
+    article_slug: best-office-chair-2026
+    locale: ja
+    variant: budget
+    title: "正しく設定すれば使える25,000円オフィスチェア"
+    description: |
+      IKEA Markus（約25,000円）は高さ調整・ランバーサポート・10年保証付き。座面奥行き調整やダイナミックランバーはない。でも180cm未満で1日8時間未満の作業なら、正しい高さと背もたれ角度で多くの不快感は解消できる。5桁の投資が必要かどうか先に確かめる価値はある。
+    link: "https://pickly.blog/ja/articles/best-office-chair-2026/"
+    image_alt: "コスパオフィスチェア IKEA Markus"
+    hashtags: ["オフィスチェア", "コスパ", "IKEA", "在宅勤務", "デスクセットアップ"]
+
+  - pin_id: best-office-chair-2026-ja-05
+    article_slug: best-office-chair-2026
+    locale: ja
+    variant: avoid
+    title: "ゲーミングチェアとオフィスチェア：リモートワーカーに必要なのはどっち"
+    description: |
+      ゲーミングチェアは2時間のゲームプレイで体をホールドするサイドボルスターのデザイン。リモートワーカーには8時間の姿勢変化に追従するダイナミックランバーが必要。多くのゲーミングチェアは脊椎を1つのポジションに固定する。レーシングシートデザインが長時間着座に逆効果な理由を解説。
+    link: "https://pickly.blog/ja/articles/best-office-chair-2026/"
+    image_alt: "ゲーミングチェア vs オフィスチェア テレワーク向け"
+    hashtags: ["オフィスチェア", "ゲーミングチェア", "エルゴノミクス", "在宅勤務", "テレワーク"]
+
+  - pin_id: best-office-chair-2026-ja-06
+    article_slug: best-office-chair-2026
+    locale: ja
+    variant: scene
+    title: "日本の狭い書斎向けエルゴノミクスチェア：コンテッサ セコンダの強み"
+    description: |
+      オカムラ コンテッサ セコンダ（約100,000円）は日本人体型と狭いオフィス向けに設計されている。メッシュバック、日本人標準の座面サイズ、国内修理ネットワーク。並行輸入の手間なしでハーマンミラーに近い品質を求める日本のリモートワーカーに最も現実的なプレミアム選択肢。
+    link: "https://pickly.blog/ja/articles/best-office-chair-2026/"
+    image_alt: "オカムラ コンテッサ 日本の在宅勤務向け"
+    hashtags: ["在宅勤務", "オフィスチェア", "日本", "デスクセットアップ", "エルゴノミクス"]
+
+  # =========================================================
+  # best-air-quality-monitor-2026
+  # =========================================================
+  - pin_id: best-air-quality-monitor-2026-en-01
+    article_slug: best-air-quality-monitor-2026
+    locale: en
+    variant: comparison
+    title: "Best Air Quality Monitor 2026: Awair Element vs IQAir AirVisual vs Inkbird IAM-T1"
+    description: |
+      CO2, PM2.5, VOC, temperature, and humidity — we compared five home air quality monitors from ¥4,000 to ¥45,000. IQAir has the highest sensor accuracy but costs 10× Inkbird. Awair gives the most actionable data. When does accuracy justify the price?
+    link: "https://pickly.blog/en/articles/best-air-quality-monitor-2026/"
+    image_alt: "Best air quality monitor 2026 comparison"
+    hashtags: ["airquality", "smarthome", "health", "indoorair", "hometech"]
+
+  - pin_id: best-air-quality-monitor-2026-en-02
+    article_slug: best-air-quality-monitor-2026
+    locale: en
+    variant: top1
+    title: "The air quality monitor that won 2026 for most homes"
+    description: |
+      Awair Element at ~¥30,000 is the best all-around home air quality monitor. Five sensors (CO2, VOC, PM2.5, temperature, humidity), a clear score display, HomeKit and IFTTT integration, and actionable alerts. IQAir AirVisual Node is more accurate — but ¥15,000 more for a device most users read once a week doesn't justify the gap.
+    link: "https://pickly.blog/en/articles/best-air-quality-monitor-2026/"
+    image_alt: "Awair Element top air quality monitor 2026"
+    hashtags: ["airquality", "awair", "smarthome", "indoorair", "health"]
+
+  - pin_id: best-air-quality-monitor-2026-en-03
+    article_slug: best-air-quality-monitor-2026
+    locale: en
+    variant: problem
+    title: "Your home air is probably worse than you think (and here's what to measure first)"
+    description: |
+      CO2 above 1000ppm causes measurable cognitive decline — and sealed Japanese apartments regularly hit 1200-1500ppm during winter. PM2.5 from cooking spikes to outdoor pollution levels for 30-60 minutes. VOC off-gassing from new furniture peaks in the first 6 months. We prioritize which pollutant to measure first based on your home situation.
+    link: "https://pickly.blog/en/articles/best-air-quality-monitor-2026/"
+    image_alt: "Indoor air quality problems guide"
+    hashtags: ["airquality", "indoorair", "health", "co2", "pm25"]
+
+  - pin_id: best-air-quality-monitor-2026-en-04
+    article_slug: best-air-quality-monitor-2026
+    locale: en
+    variant: budget
+    title: "The ¥5,000 air quality monitor that covers the basics"
+    description: |
+      Inkbird IAM-T1 at ~¥5,000 measures CO2, temperature, and humidity — the three metrics most relevant to desk workers and parents with young children. It doesn't measure PM2.5 or VOC. But CO2 monitoring alone (open a window when it hits 1000ppm) improves focus and sleep quality for most people before spending 6× more on a full suite.
+    link: "https://pickly.blog/en/articles/best-air-quality-monitor-2026/"
+    image_alt: "Budget CO2 monitor Inkbird IAM-T1"
+    hashtags: ["airquality", "co2monitor", "budget", "indoorair", "health"]
+
+  - pin_id: best-air-quality-monitor-2026-en-05
+    article_slug: best-air-quality-monitor-2026
+    locale: en
+    variant: avoid
+    title: "Air quality monitor accuracy claims most products can't actually back up"
+    description: |
+      Most consumer PM2.5 sensors use optical particle counting — accurate relative to themselves but not calibrated to regulatory FEM/FRM equipment. VOC sensors report an index, not absolute TVOC. CO2 sensors drift over time without baseline calibration. We explain which numbers to trust as absolute readings vs which to use as relative trend indicators only.
+    link: "https://pickly.blog/en/articles/best-air-quality-monitor-2026/"
+    image_alt: "Air quality monitor accuracy reality"
+    hashtags: ["airquality", "indoorair", "smarthome", "health", "techreview"]
+
+  - pin_id: best-air-quality-monitor-2026-en-06
+    article_slug: best-air-quality-monitor-2026
+    locale: en
+    variant: scene
+    title: "Japan apartment air quality: what to monitor after Kanto yellow dust season"
+    description: |
+      Cross-border PM2.5 from China peaks in Japan March-May. Yellow dust (黄砂) events push outdoor PM2.5 above 75μg/m³. Post-2003 Japanese buildings have 24-hour mechanical ventilation — but pre-2003 apartments rely on natural ventilation that pulls outdoor particles inside. We explain what to measure and when to close your windows.
+    link: "https://pickly.blog/en/articles/best-air-quality-monitor-2026/"
+    image_alt: "Japan apartment air quality monitoring"
+    hashtags: ["airquality", "japan", "pm25", "indoorair", "smarthome"]
+
+  - pin_id: best-air-quality-monitor-2026-ja-01
+    article_slug: best-air-quality-monitor-2026
+    locale: ja
+    variant: comparison
+    title: "空気質モニター2026：Awair Element vs IQAir AirVisual vs Inkbird IAM-T1 比較"
+    description: |
+      CO2・PM2.5・VOC・温度・湿度 — 5製品を4,000円〜45,000円で比較。IQAir はセンサー精度が最高クラスだがInkbirdの10倍の価格。Awairは最も行動につながるデータを出す。精度に価格差が見合う条件を整理。
+    link: "https://pickly.blog/ja/articles/best-air-quality-monitor-2026/"
+    image_alt: "空気質モニター 2026年比較"
+    hashtags: ["空気質モニター", "スマートホーム", "健康", "室内空気", "ホームテック"]
+
+  - pin_id: best-air-quality-monitor-2026-ja-02
+    article_slug: best-air-quality-monitor-2026
+    locale: ja
+    variant: top1
+    title: "2026年、一般家庭に一番選ばれた空気質モニター"
+    description: |
+      Awair Element（約30,000円）が総合1位。CO2・VOC・PM2.5・温湿度の5センサー、分かりやすいスコア表示、HomeKit・IFTTT連携、行動につながるアラート。IQAir AirVisualの方が精度は高いが、週1回見るモニターに1.5万円多く出す価値は少ない。
+    link: "https://pickly.blog/ja/articles/best-air-quality-monitor-2026/"
+    image_alt: "Awair Element 2026年1位空気質モニター"
+    hashtags: ["空気質モニター", "Awair", "スマートホーム", "室内空気", "健康"]
+
+  - pin_id: best-air-quality-monitor-2026-ja-03
+    article_slug: best-air-quality-monitor-2026
+    locale: ja
+    variant: problem
+    title: "自宅の空気は思っているより悪い可能性 — 何を先に測るべきか"
+    description: |
+      CO2 1000ppm超で認知機能が測定可能なほど低下する。気密性の高い日本のマンションは冬に1200〜1500ppmに達することが多い。調理時のPM2.5は30〜60分間、屋外汚染レベルに達する。新しい家具からのVOC放散は最初の6ヶ月がピーク。自分の住環境に応じて何を先に測るべきかを整理。
+    link: "https://pickly.blog/ja/articles/best-air-quality-monitor-2026/"
+    image_alt: "室内空気質 問題と測定ガイド"
+    hashtags: ["空気質モニター", "室内空気", "健康", "CO2", "PM2.5"]
+
+  - pin_id: best-air-quality-monitor-2026-ja-04
+    article_slug: best-air-quality-monitor-2026
+    locale: ja
+    variant: budget
+    title: "基本をカバーする5,000円空気質モニター"
+    description: |
+      Inkbird IAM-T1（約5,000円）はCO2・温度・湿度を計測 — デスクワーカーと小さな子どもがいる家庭に最も関係の高い3指標。PM2.5とVOCは測れない。でも「CO2が1000ppmを超えたら窓を開ける」だけで集中力と睡眠の質が改善する人が多い。フルセットに6倍払う前に試す価値がある。
+    link: "https://pickly.blog/ja/articles/best-air-quality-monitor-2026/"
+    image_alt: "コスパCO2モニター Inkbird IAM-T1"
+    hashtags: ["空気質モニター", "CO2モニター", "コスパ", "室内空気", "健康"]
+
+  - pin_id: best-air-quality-monitor-2026-ja-05
+    article_slug: best-air-quality-monitor-2026
+    locale: ja
+    variant: avoid
+    title: "空気質モニターの精度表記、実は根拠が薄いものが多い"
+    description: |
+      多くの民生用PM2.5センサーは光学式粒子カウント — 相対値としては正確だが規制基準のFEM/FRM機器とは異なる。VOCセンサーはTVOC絶対値ではなくインデックスを報告。CO2センサーはキャリブレーションなしで経時ドリフトする。絶対値として信頼できる数値と相対トレンドとして使うべき数値を整理。
+    link: "https://pickly.blog/ja/articles/best-air-quality-monitor-2026/"
+    image_alt: "空気質モニター 精度の実態"
+    hashtags: ["空気質モニター", "室内空気", "スマートホーム", "健康", "テックレビュー"]
+
+  - pin_id: best-air-quality-monitor-2026-ja-06
+    article_slug: best-air-quality-monitor-2026
+    locale: ja
+    variant: scene
+    title: "日本のマンション空気質：黄砂シーズン後に測るべきこと"
+    description: |
+      中国からの越境PM2.5は3〜5月に日本でピーク。黄砂発生時は屋外PM2.5が75μg/m³を超える。2003年以降の建築物は24時間換気義務だが、それ以前のマンションは自然換気が主で外気を室内に引き込みやすい。何を測るべきか、いつ窓を閉めるべきかを解説。
+    link: "https://pickly.blog/ja/articles/best-air-quality-monitor-2026/"
+    image_alt: "日本マンション 空気質モニタリング"
+    hashtags: ["空気質モニター", "日本", "PM2.5", "室内空気", "スマートホーム"]
+
+  # =========================================================
+  # best-hair-straightener-2026
+  # =========================================================
+  - pin_id: best-hair-straightener-2026-en-01
+    article_slug: best-hair-straightener-2026
+    locale: en
+    variant: comparison
+    title: "Best Hair Straightener 2026: Dyson Corrale vs GHD Platinum+ vs Panasonic Nanocare"
+    description: |
+      Flex plates vs ceramic vs titanium — we compared five straighteners from ¥8,000 to ¥60,000 across plate technology, temperature precision, heat damage, and cordless convenience. Dyson claims 30% less heat damage with flex plates. GHD holds 185°C automatically. Panasonic Nanocare adds ionic moisture. Which actually protects your hair?
+    link: "https://pickly.blog/en/articles/best-hair-straightener-2026/"
+    image_alt: "Best hair straightener 2026 comparison"
+    hashtags: ["hairstraightener", "haircare", "beauty", "hairstyle", "flatiron"]
+
+  - pin_id: best-hair-straightener-2026-en-02
+    article_slug: best-hair-straightener-2026
+    locale: en
+    variant: top1
+    title: "The hair straightener that won 2026 for everyday use"
+    description: |
+      GHD Platinum+ at ~¥35,000 is the most consistent daily straightener. Predictive heating maintains exactly 185°C — the temperature that straightens without thermal degradation. Professional stylists worldwide use it as the baseline. Dyson Corrale has cordless convenience but 30-minute battery limits daily use. Platinum+ wins for most hair types.
+    link: "https://pickly.blog/en/articles/best-hair-straightener-2026/"
+    image_alt: "GHD Platinum+ top hair straightener 2026"
+    hashtags: ["hairstraightener", "ghd", "haircare", "beauty", "hairstyle"]
+
+  - pin_id: best-hair-straightener-2026-en-03
+    article_slug: best-hair-straightener-2026
+    locale: en
+    variant: problem
+    title: "Why your hair looks damaged after straightening (and it's not just heat)"
+    description: |
+      Most heat damage comes from repeated passes at 220°C+ on already-dry hair. A single pass at 185°C on hair with heat protectant causes less cumulative damage than multiple passes at lower settings without protectant. Plate material matters less than temperature control and technique. We explain the three habits that cause damage regardless of which straightener you own.
+    link: "https://pickly.blog/en/articles/best-hair-straightener-2026/"
+    image_alt: "Hair straightener heat damage guide"
+    hashtags: ["haircare", "hairstraightener", "heatdamage", "beauty", "hairtips"]
+
+  - pin_id: best-hair-straightener-2026-en-04
+    article_slug: best-hair-straightener-2026
+    locale: en
+    variant: budget
+    title: "The ¥8,000 hair straightener that covers the basics"
+    description: |
+      Remington S9500 Pearl at ~¥8,000 has ceramic plates, heats in 60 seconds, reaches 230°C, and has a 2-hour auto-shutoff. It doesn't have temperature memory or ionic boost. But for occasional use, straight styles, and people who own a heat protectant and don't need professional results daily, it handles the fundamentals well.
+    link: "https://pickly.blog/en/articles/best-hair-straightener-2026/"
+    image_alt: "Budget hair straightener Remington S9500"
+    hashtags: ["hairstraightener", "budget", "remington", "haircare", "beauty"]
+
+  - pin_id: best-hair-straightener-2026-en-05
+    article_slug: best-hair-straightener-2026
+    locale: en
+    variant: avoid
+    title: "Dyson Corrale cordless freedom has one real limitation nobody headlines"
+    description: |
+      Dyson Corrale's 30-minute cordless battery is enough for short hair, not thick or long hair. Recharging takes 70 minutes for 30 minutes of use. Most Corrale owners end up using it corded at home and only go cordless for travel. At ¥60,000, you're paying a significant premium for cordless flexibility that has real constraints in daily practice.
+    link: "https://pickly.blog/en/articles/best-hair-straightener-2026/"
+    image_alt: "Dyson Corrale cordless battery limitation"
+    hashtags: ["hairstraightener", "dyson", "haircare", "beauty", "honest review"]
+
+  - pin_id: best-hair-straightener-2026-en-06
+    article_slug: best-hair-straightener-2026
+    locale: en
+    variant: scene
+    title: "Travel hair straightener setup: voltage-safe picks for international trips"
+    description: |
+      Dyson Corrale is the only fully cordless straightener here — no adapter needed globally. GHD Platinum+ supports 100-240V. Panasonic Nanocare EH-HS0E is 100V only — dangerous to use outside Japan without a step-down converter. We list which straighteners are safe for international travel and which will blow a fuse on a US or European outlet.
+    link: "https://pickly.blog/en/articles/best-hair-straightener-2026/"
+    image_alt: "Travel hair straightener voltage guide"
+    hashtags: ["travel", "hairstraightener", "haircare", "beauty", "travelbeauty"]
+
+  - pin_id: best-hair-straightener-2026-ja-01
+    article_slug: best-hair-straightener-2026
+    locale: ja
+    variant: comparison
+    title: "ヘアアイロン2026：Dyson Corrale vs GHD Platinum+ vs パナソニック ナノケア"
+    description: |
+      フレックスプレートvsセラミックvsチタン — 5製品を8,000円〜60,000円で比較。Dysonはフレックスプレートで熱ダメージ30%削減を謳う。GHDは185℃を自動維持。パナソニック ナノケアはイオンで水分補給。実際に髪を守れるのはどれ？
+    link: "https://pickly.blog/ja/articles/best-hair-straightener-2026/"
+    image_alt: "ヘアアイロン 2026年比較"
+    hashtags: ["ヘアアイロン", "ヘアケア", "美容", "ヘアスタイル", "縮毛矯正"]
+
+  - pin_id: best-hair-straightener-2026-ja-02
+    article_slug: best-hair-straightener-2026
+    locale: ja
+    variant: top1
+    title: "2026年、毎日使いに一番選ばれたヘアアイロン"
+    description: |
+      GHD Platinum+（約35,000円）が最も安定した毎日使いのストレートアイロン。予測ヒーティングが185℃を正確に維持 — 熱劣化なしでまっすぐにできる温度。世界中のプロ美容師がベースラインとして使用。Dyson Corraleはコードレスが魅力だが30分バッテリーが毎日使いの制約になる。
+    link: "https://pickly.blog/ja/articles/best-hair-straightener-2026/"
+    image_alt: "GHD Platinum+ 2026年1位ヘアアイロン"
+    hashtags: ["ヘアアイロン", "GHD", "ヘアケア", "美容", "ヘアスタイル"]
+
+  - pin_id: best-hair-straightener-2026-ja-03
+    article_slug: best-hair-straightener-2026
+    locale: ja
+    variant: problem
+    title: "アイロン後に髪がダメージを受ける本当の原因"
+    description: |
+      熱ダメージのほとんどは220℃以上でのパスの繰り返しで、乾燥した髪への施術が主原因。ヒートプロテクタントを使って185℃で1回パスする方が、プロテクタントなしで低温を複数回当てるより蓄積ダメージが少ない。プレート素材より温度管理と技術の方が重要。アイロンの種類に関わらずダメージを招く3習慣を解説。
+    link: "https://pickly.blog/ja/articles/best-hair-straightener-2026/"
+    image_alt: "ヘアアイロン 熱ダメージ対策ガイド"
+    hashtags: ["ヘアケア", "ヘアアイロン", "熱ダメージ", "美容", "ヘアtips"]
+
+  - pin_id: best-hair-straightener-2026-ja-04
+    article_slug: best-hair-straightener-2026
+    locale: ja
+    variant: budget
+    title: "基本を押さえる8,000円ヘアアイロン"
+    description: |
+      Remington S9500 Pearl（約8,000円）はセラミックプレート、60秒加熱、230℃到達、2時間自動オフ付き。温度メモリーもイオン機能もない。でも時々使いや直毛スタイル、ヒートプロテクタントを持っていてプロ品質が毎日は不要な人には基本をしっかりカバーしている。
+    link: "https://pickly.blog/ja/articles/best-hair-straightener-2026/"
+    image_alt: "コスパヘアアイロン Remington S9500"
+    hashtags: ["ヘアアイロン", "コスパ", "Remington", "ヘアケア", "美容"]
+
+  - pin_id: best-hair-straightener-2026-ja-05
+    article_slug: best-hair-straightener-2026
+    locale: ja
+    variant: avoid
+    title: "Dyson Corraleのコードレス自由度に実は見落とされている制約がある"
+    description: |
+      Dyson Corraleのコードレスバッテリーは30分 — ショートヘアには十分だが、ロングや量が多い髪では足りない。充電は30分の使用に70分かかる。多くのCoraleユーザーは結局自宅ではコード接続で使い、コードレスは旅行時のみ。6万円はコードレスの利便性への対価だが、実際の制約は大きい。
+    link: "https://pickly.blog/ja/articles/best-hair-straightener-2026/"
+    image_alt: "Dyson Corrale コードレスバッテリーの制約"
+    hashtags: ["ヘアアイロン", "Dyson", "ヘアケア", "美容", "正直レビュー"]
+
+  - pin_id: best-hair-straightener-2026-ja-06
+    article_slug: best-hair-straightener-2026
+    locale: ja
+    variant: scene
+    title: "海外旅行用ヘアアイロン：電圧対応モデルと危険なモデルの整理"
+    description: |
+      Dyson Corraleだけが完全コードレスで変換プラグ不要。GHD Platinum+は100-240V対応。パナソニック ナノケア EH-HS0Eは100V専用 — 変圧器なしで海外で使うと危険。どのアイロンが海外旅行に安全で、どれが米国・欧州のコンセントでヒューズを飛ばすかをリスト化。
+    link: "https://pickly.blog/ja/articles/best-hair-straightener-2026/"
+    image_alt: "海外旅行 ヘアアイロン 電圧ガイド"
+    hashtags: ["旅行", "ヘアアイロン", "ヘアケア", "美容", "海外旅行"]
+
+  # =========================================================
+  # best-smart-scale-2026
+  # =========================================================
+  - pin_id: best-smart-scale-2026-en-01
+    article_slug: best-smart-scale-2026
+    locale: en
+    variant: comparison
+    title: "Best Smart Scale 2026: Withings Body Comp vs Garmin Index S2 vs Tanita RD-906"
+    description: |
+      Body fat, muscle mass, visceral fat, bone density, and vascular age — we compared five smart scales from ¥3,000 to ¥30,000. Withings approaches medical-grade measurements. Tanita is Japan's clinical standard. Xiaomi covers basics for 1/10th the price. Which scale's data is actually reliable?
+    link: "https://pickly.blog/en/articles/best-smart-scale-2026/"
+    image_alt: "Best smart scale 2026 comparison"
+    hashtags: ["smartscale", "bodycomposition", "fitness", "health", "weightloss"]
+
+  - pin_id: best-smart-scale-2026-en-02
+    article_slug: best-smart-scale-2026
+    locale: en
+    variant: top1
+    title: "The smart scale that won 2026 for serious health tracking"
+    description: |
+      Withings Body Comp at ~¥30,000 measures the most health metrics of any consumer scale: body fat, muscle, visceral fat, bone mass, nerve health, vascular age. Medical-grade electrodes and Health Mate app. For people who want actionable data beyond weight — not just a number, but a health trend — it's the only scale that delivers.
+    link: "https://pickly.blog/en/articles/best-smart-scale-2026/"
+    image_alt: "Withings Body Comp top smart scale 2026"
+    hashtags: ["smartscale", "withings", "bodycomposition", "fitness", "health"]
+
+  - pin_id: best-smart-scale-2026-en-03
+    article_slug: best-smart-scale-2026
+    locale: en
+    variant: problem
+    title: "Why your smart scale body fat reading varies by 5% day to day"
+    description: |
+      BIA (bioelectrical impedance) body fat readings change with hydration, recent meals, exercise, and even ambient temperature. Weigh yourself right after drinking a liter of water and your "body fat" drops 3%. The scale isn't broken — BIA physically cannot separate fat from water. We explain which numbers are stable (weight trend, relative muscle changes) and which are noise.
+    link: "https://pickly.blog/en/articles/best-smart-scale-2026/"
+    image_alt: "Smart scale accuracy body fat guide"
+    hashtags: ["smartscale", "bodycomposition", "fitness", "health", "bodyweight"]
+
+  - pin_id: best-smart-scale-2026-en-04
+    article_slug: best-smart-scale-2026
+    locale: en
+    variant: budget
+    title: "The ¥3,000 smart scale that tracks the metrics most people actually need"
+    description: |
+      Xiaomi Mi Body Composition Scale 2 at ~¥3,000 measures weight, BMI, body fat %, and muscle mass via Bluetooth app. Accuracy is consumer-grade, not clinical — but the trend data over weeks is useful for most people. For someone starting a fitness journey who doesn't need visceral fat or vascular age readings, it's a sensible start.
+    link: "https://pickly.blog/en/articles/best-smart-scale-2026/"
+    image_alt: "Budget smart scale Xiaomi Mi 2"
+    hashtags: ["smartscale", "xiaomi", "budget", "fitness", "health"]
+
+  - pin_id: best-smart-scale-2026-en-05
+    article_slug: best-smart-scale-2026
+    locale: en
+    variant: avoid
+    title: "16-metric smart scales: which numbers are real and which are calculated estimates"
+    description: |
+      Scales that report 16 body metrics typically measure 2-3 things directly (weight, impedance at 1-2 frequencies) and calculate the rest using population-average formulas. Bone mass, protein percentage, and metabolic age are estimates, not measurements. We identify which metrics on popular scales are direct readings versus derived estimates you should treat with skepticism.
+    link: "https://pickly.blog/en/articles/best-smart-scale-2026/"
+    image_alt: "Smart scale metric accuracy reality"
+    hashtags: ["smartscale", "bodycomposition", "fitness", "health", "techreview"]
+
+  - pin_id: best-smart-scale-2026-en-06
+    article_slug: best-smart-scale-2026
+    locale: en
+    variant: scene
+    title: "Garmin ecosystem fitness tracking: scale + watch + app working together"
+    description: |
+      Garmin Index S2 syncs directly to Garmin Connect — if you already use a Garmin watch, the scale integrates seamlessly with your activity, sleep, and fitness data in one dashboard. Body Battery, VO2 Max trends, and weight all in one place. For Garmin users, it's the obvious choice. For non-Garmin users, Withings has better cross-platform support.
+    link: "https://pickly.blog/en/articles/best-smart-scale-2026/"
+    image_alt: "Garmin Index S2 fitness ecosystem"
+    hashtags: ["smartscale", "garmin", "fitness", "health", "wearables"]
+
+  - pin_id: best-smart-scale-2026-ja-01
+    article_slug: best-smart-scale-2026
+    locale: ja
+    variant: comparison
+    title: "スマート体重計2026：Withings Body Comp vs Garmin Index S2 vs タニタ RD-906"
+    description: |
+      体脂肪・筋肉量・内臓脂肪・骨密度・血管年齢 — 5製品を3,000円〜30,000円で比較。Withingsは医療グレードに近い計測。タニタは日本の臨床標準。Xiaomiは1/10の価格で基本をカバー。どの体重計のデータが本当に信頼できる？
+    link: "https://pickly.blog/ja/articles/best-smart-scale-2026/"
+    image_alt: "スマート体重計 2026年比較"
+    hashtags: ["スマート体重計", "体組成計", "フィットネス", "健康管理", "ダイエット"]
+
+  - pin_id: best-smart-scale-2026-ja-02
+    article_slug: best-smart-scale-2026
+    locale: ja
+    variant: top1
+    title: "2026年、本格的な健康管理に一番選ばれたスマート体重計"
+    description: |
+      Withings Body Comp（約30,000円）が民生用体重計で最多の健康指標を計測。体脂肪・筋肉・内臓脂肪・骨量・神経健康・血管年齢。医療グレード電極とHealth Mateアプリ。数字だけでなく健康トレンドとして行動につなげたい人に、これだけが本物のデータを提供できる。
+    link: "https://pickly.blog/ja/articles/best-smart-scale-2026/"
+    image_alt: "Withings Body Comp 2026年1位スマート体重計"
+    hashtags: ["スマート体重計", "Withings", "体組成計", "フィットネス", "健康管理"]
+
+  - pin_id: best-smart-scale-2026-ja-03
+    article_slug: best-smart-scale-2026
+    locale: ja
+    variant: problem
+    title: "スマート体重計の体脂肪率が毎日5%変わる理由"
+    description: |
+      BIA（生体電気インピーダンス）の体脂肪値は水分摂取・直前の食事・運動・室温で変化する。水1L飲んだ直後に測ると「体脂肪率」が3%下がる。体重計が壊れているわけではなく、BIAは物理的に脂肪と水を分離できない。安定した数値（体重トレンド・筋肉量の相対変化）とノイズの区別を解説。
+    link: "https://pickly.blog/ja/articles/best-smart-scale-2026/"
+    image_alt: "スマート体重計 体脂肪率精度ガイド"
+    hashtags: ["スマート体重計", "体組成計", "フィットネス", "健康管理", "体脂肪"]
+
+  - pin_id: best-smart-scale-2026-ja-04
+    article_slug: best-smart-scale-2026
+    locale: ja
+    variant: budget
+    title: "多くの人が実際に必要な指標をカバーする3,000円スマート体重計"
+    description: |
+      Xiaomi Mi 体組成計2（約3,000円）はBluetooth連携で体重・BMI・体脂肪率・筋肉量を計測。精度は医療グレードではなく民生グレードだが、数週間のトレンドデータは多くの人に役立つ。内臓脂肪や血管年齢の計測が不要で、フィットネスを始める段階なら費用対効果が高い選択。
+    link: "https://pickly.blog/ja/articles/best-smart-scale-2026/"
+    image_alt: "コスパスマート体重計 Xiaomi Mi 2"
+    hashtags: ["スマート体重計", "Xiaomi", "コスパ", "フィットネス", "健康管理"]
+
+  - pin_id: best-smart-scale-2026-ja-05
+    article_slug: best-smart-scale-2026
+    locale: ja
+    variant: avoid
+    title: "16指標対応スマート体重計：どれが実測でどれが計算推定値か"
+    description: |
+      16指標を報告する体重計は通常2〜3項目（体重・1〜2周波数のインピーダンス）を直接計測し、残りを人口平均値から算出している。骨量・タンパク質率・代謝年齢は計測値ではなく推定値。人気体重計でどの指標が直接計測値でどれが疑わしい算出値かを整理。
+    link: "https://pickly.blog/ja/articles/best-smart-scale-2026/"
+    image_alt: "スマート体重計 指標精度の実態"
+    hashtags: ["スマート体重計", "体組成計", "フィットネス", "健康管理", "テックレビュー"]
+
+  - pin_id: best-smart-scale-2026-ja-06
+    article_slug: best-smart-scale-2026
+    locale: ja
+    variant: scene
+    title: "Garminエコシステムのフィットネス連携：体重計＋時計＋アプリが一元管理"
+    description: |
+      Garmin Index S2はGarmin Connectに直接同期 — すでにGarminウォッチを使っているなら、活動量・睡眠・体重データが1つのダッシュボードに統合される。Body Battery・VO2 Maxトレンド・体重を一括管理。Garminユーザーには自明の選択。非Garminユーザーはクロスプラットフォームが強いWithingsが適している。
+    link: "https://pickly.blog/ja/articles/best-smart-scale-2026/"
+    image_alt: "Garmin Index S2 フィットネスエコシステム"
+    hashtags: ["スマート体重計", "Garmin", "フィットネス", "健康管理", "ウェアラブル"]
