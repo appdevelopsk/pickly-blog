@@ -1032,6 +1032,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-babyliss-st330e", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBaByliss%2BST330E%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Beauty / Hair Care Tools (best-hair-care-tools-2026) ─────────
+  {
+    id: "dyson-airwrap-multi-styler",
+    category: "beauty",
+    badge: "🌀",
+    name: { en: "Dyson Airwrap Multi-Styler", ja: "ダイソン エアラップ マルチスタイラー" },
+    description: {
+      en: "~66,000-80,000 yen Coanda-effect multi-styler. Air wraps hair around barrel at ~150°C without direct plate contact. Best on fine-to-medium straight hair. Does not suit thick or coarse hair — airflow too weak to penetrate dense sections efficiently. 2-4 week learning curve before results become consistent.",
+      ja: "66,000〜80,000円のコアンダ効果マルチスタイラー。プレート直接接触なしで約150℃の気流が髪をバレルに巻き付ける。細〜中毛の直毛に最適。太い・剛毛には向かず気流が密な毛束を効率的に通らない。安定した結果を得るまで2〜4週間の習得期間が必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-dyson-airwrap", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDyson%2BAirwrap%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "shark-flexstyle",
+    category: "beauty",
+    badge: "🦈",
+    name: { en: "Shark FlexStyle", ja: "シャーク フレックススタイル" },
+    description: {
+      en: "~35,000-45,000 yen (parallel import) Coanda-effect styler + hair dryer in one. Similar mechanism to Airwrap at ~60% of the price. Adds hair dryer mode Airwrap lacks. Not officially sold in Japan — parallel import from North America (120V) runs on 100V at reduced airflow. Voltage check required before purchase.",
+      ja: "約35,000〜45,000円（並行輸入）コアンダ効果スタイラー+ドライヤー一体型。エアラップと同機構で約60%の価格。エアラップにないドライヤーモード付き。日本未正規販売 — 北米版（120V）は100Vで動作するが風量低下あり。購入前に電圧ラベル要確認。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-shark-flexstyle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FShark%2BFlexStyle%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "revlon-one-step-volumizer",
+    category: "beauty",
+    badge: "💨",
+    name: { en: "Revlon One-Step Volumizer", ja: "レブロン ワンステップ ボリューマイザー" },
+    description: {
+      en: "~4,000-6,000 yen round brush + dryer combo. Dry and volumize in one step, zero learning curve, best budget multi-tool. Cannot produce defined curls or waves like Airwrap — suited to blowout-volume styling only. Fastest results for straight hair wanting volume.",
+      ja: "4,000〜6,000円のロールブラシ+ドライヤー一体型。乾かしながらボリュームアップ、学習ゼロ、最安コスパマルチツール。エアラップのような巻き・ウェーブは作れずブローアウトボリューム専用。直毛のボリュームアップに最速。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-revlon-one-step-volumizer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRevlon%2BOne-Step%2BVolumizer%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ghd-max-styler",
+    category: "beauty",
+    badge: "🔥",
+    name: { en: "GHD Max Styler", ja: "GHD Max スタイラー" },
+    description: {
+      en: "~35,000-45,000 yen wide-plate professional flat iron. 185-220°C predictive heating, wider plates cover more hair per pass. Best for thick, long, or resistant hair where Coanda tools are slow. Direct plate contact — heat protectant required every session. Parallel imports have no domestic Japan warranty.",
+      ja: "約35,000〜45,000円の幅広プレート プロ用アイロン。185〜220℃予測加熱、幅広プレートで1回のパスで多くの髪をカバー。コアンダ系ツールが遅い太い・長い・剛毛に最適。プレート直接加熱のためヒートプロテクター毎回必須。並行輸入品は日本国内保証なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ghd-max-styler", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGHD%2BMax%2B%E3%83%98%E3%82%A2%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-eh-na0j",
+    category: "beauty",
+    badge: "🇯🇵",
+    name: { en: "Panasonic EH-NA0J", ja: "パナソニック EH-NA0J" },
+    description: {
+      en: "~25,000-30,000 yen nanoe hair dryer for frizz control and moisture retention. Nanoe X technology has published Panasonic research support. 60°C scalp mode prevents overheating. Full domestic Japan warranty and service network. This is a hair dryer — wrong choice if curling or waving is the primary goal.",
+      ja: "25,000〜30,000円のナノイーヘアドライヤー、広がり・くせ毛対策と水分保持。ナノイーX技術はパナソニックの研究論文裏付けあり。60℃頭皮モードで過熱防止。国内保証・修理サービス完備。ヘアドライヤーであり、カール・ウェーブ作成が主目的なら不適。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-panasonic-eh-na0j", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPanasonic%2BEH-NA0J%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Home / Rice Cookers (best-rice-cooker-2026) ─────────
   {
     id: "zojirushi-stan-nw-sa10",
@@ -3512,6 +3578,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-twinbird-ep-4694", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%84%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC%E3%83%89%2BEP-4694%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Stand Mixers (best-standing-mixer-2026) ─────────
+  {
+    id: "kitchenaid-ksm150ps",
+    category: "food",
+    badge: "top-pick",
+    name: { en: "KitchenAid Artisan Stand Mixer (KSM150PS)", ja: "KitchenAid アーティザン スタンドミキサー（KSM150PS）" },
+    description: {
+      en: "Iconic tilt-head stand mixer. 4.7L bowl, 325W motor, 80+ attachment ecosystem (pasta roller, meat grinder, grain mill, spiralizer). Motor strains on stiff bread dough and multi-loaf batches; designed for cakes, cookies, and light doughs. Explicit weakness: 325W is marginal for high-hydration or multi-batch bread dough.",
+      ja: "定番ティルトヘッドスタンドミキサー。4.7Lボウル・325Wモーター・80種類以上のアタッチメント（パスタローラー・ミートグラインダー・穀物ミル等）。かたいパン生地や複数斤バッチではモーターに負荷がかかる；ケーキ・クッキー・軽い生地向け設計。弱点：325Wは高水分率または複数バッチのパン生地には限界に近い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-kitchenaid-ksm150ps", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKitchenAid%2B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%9F%E3%82%AD%E3%82%B5%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kenwood-chef-xl-kvl4100s",
+    category: "food",
+    badge: "bread-pick",
+    name: { en: "Kenwood Chef XL (KVL4100S)", ja: "ケンウッド Chef XL（KVL4100S）" },
+    description: {
+      en: "High-capacity bowl-lift stand mixer. 6.7L bowl, 1000W motor — built for stiff dough and large batches. AT attachment series covers food processor, pasta, spiralizer, mincer. Explicit weakness: bowl-lift access is slower than tilt-head for mid-mix ingredient additions; larger footprint and heavier than KitchenAid.",
+      ja: "大容量ボウルリフトスタンドミキサー。6.7Lボウル・1000Wモーター — かたい生地・大量バッチ向け設計。ATアタッチメントシリーズでフードプロセッサー・パスタ・スパイラライザー・ミンサーに対応。弱点：ボウルリフトのアクセスはティルトヘッドより途中の材料追加に時間がかかる；KitchenAidより大きく重い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-kenwood-chef-xl-kvl4100s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKenwood%2BChef%2BXL%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bosch-mum5",
+    category: "food",
+    badge: "value-pick",
+    name: { en: "Bosch MUM5", ja: "ボッシュ MUM5" },
+    description: {
+      en: "Compact planetary stand mixer with 7-point bowl contact and efficient German motor. 3.9L bowl. Handles dough efficiently beyond what wattage implies. Explicit weakness: attachment ecosystem narrower than KitchenAid or Kenwood; 3.9L bowl requires multiple passes for large batches.",
+      ja: "7点接触プラネタリーミキシングと効率的なドイツ設計モーターを持つコンパクトスタンドミキサー。3.9Lボウル。ワット数以上のトルクで生地をこなす。弱点：アタッチメントエコシステムはKitchenAidやケンウッドより限られている；3.9Lボウルは大量バッチで複数回が必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-bosch-mum5", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9C%E3%83%83%E3%82%B7%E3%83%A5%2BMUM5%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-sm-50",
+    category: "food",
+    badge: "budget-pick",
+    name: { en: "Cuisinart SM-50 5.5-Qt Stand Mixer", ja: "クイジナート SM-50 5.5クォート スタンドミキサー" },
+    description: {
+      en: "Tilt-head stand mixer with 12 speeds, 5.5-quart bowl, priced 15-25% below KitchenAid Artisan. Proprietary attachment hub — KitchenAid ecosystem does not transfer. Explicit weakness: third-party attachment market is thin; tilt-head lock mechanism shows loosening in 18-24 month long-term reviews.",
+      ja: "12段階ティルトヘッドスタンドミキサー、5.5クォートボウル、KitchenAidアーティザンより15〜25%低い実売価格。独自アタッチメントハブ — KitchenAidエコシステムは転用不可。弱点：サードパーティアタッチメント市場が薄い；18〜24ヶ月の長期レビューでティルトヘッドロックのガタつきの報告あり。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cuisinart-sm-50", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BSM-50%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-mk-h4",
+    category: "food",
+    badge: "japan-pick",
+    name: { en: "Panasonic MK-H4 Stand Mixer", ja: "パナソニック MK-H4 スタンドミキサー" },
+    description: {
+      en: "Japanese-market stand mixer with motor calibrated for shokupan (Japanese milk bread) and pizza dough at Japanese recipe hydration levels. Compact footprint. Panasonic domestic support and nationwide parts availability. Explicit weakness: attachment ecosystem is narrow (bowl, dough hook, flat beater, wire whisk only); not sold outside Japan.",
+      ja: "日本市場向けスタンドミキサー。日本のレシピ水分率の食パン・ピザ生地に合わせたモーター調整。コンパクトフットプリント。パナソニック国内サポートと全国部品入手対応。弱点：アタッチメントはボウル・ドウフック・フラットビーター・ワイヤーウィスクのみ；日本国外で未販売。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-panasonic-mk-h4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2BMK-H4%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
