@@ -4306,6 +4306,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-peace-lily", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%91%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A0+%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Posture Correctors (best-posture-corrector-2026) ─────────
+  {
+    id: "upright-go-2",
+    category: "fitness",
+    badge: "📡",
+    name: { en: "Upright GO 2 Posture Trainer", ja: "Upright GO 2 姿勢トレーナー" },
+    description: {
+      en: "Adhesive biofeedback sensor for the upper back. Vibrates when slouching, app tracks posture improvement over time. Active training approach avoids muscle dependency. Explicit weakness: no lower back or neck coverage; adhesive pad may irritate sensitive skin; unreliable readings during walking; requires app account.",
+      ja: "上背部に貼る接着式バイオフィードバックセンサー。猫背を検知して振動、アプリで姿勢改善を経時トラッキング。アクティブ訓練方式で筋力依存を回避。弱点：腰部・首は対応外；接着パッドが敏感肌に刺激；歩行中は不正確；アプリアカウント登録必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-upright-go-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUpright+GO+%E5%A7%BF%E5%8B%A2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "comfymed-posture-brace",
+    category: "fitness",
+    badge: "🔧",
+    name: { en: "ComfyMed Posture Brace", ja: "ComfyMed 姿勢矯正サポーター" },
+    description: {
+      en: "Classic figure-8 shoulder brace for short proprioceptive sessions. Pulls shoulders back and down. Fits under clothing. Explicit weakness: highest muscle dependency risk in category — physically holds position without recruiting postural muscles; armpit strap can dig into skin; sizing instructions unclear.",
+      ja: "短時間固有感覚セッション向けのフィギュア8肩ブレース。肩を後方・下方に引き戻す。服の下に着用可能。弱点：姿勢筋を使わずに位置を固定するため筋力依存リスクが最も高い；長時間着用で脇下への食い込み；サイズ計測説明が不明確。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-comfymed-posture-brace", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FComfyMed+%E5%A7%BF%E5%8B%A2%E7%9F%AF%E6%AD%A3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fitletic-posture-corrector",
+    category: "fitness",
+    badge: "🏃",
+    name: { en: "Fitletic Posture Corrector", ja: "Fitletic 姿勢矯正サポーター" },
+    description: {
+      en: "Lightweight elastic shoulder-retraction brace, most comfortable passive option for active use under clothing. Explicit weakness: lighter construction reduces pulling force — insufficient for significant thoracic kyphosis; elastic degrades with washing over 3-6 months; muscle dependency applies as with all passive braces.",
+      ja: "軽量弾性素材の肩引き戻しブレース。パッシブ系で最も着用感が良く、活動中の着用向け。弱点：軽量構造のため引き戻し力が弱く胸椎後弯が強い場合には不十分；繰り返し洗濯で3〜6か月で弾性劣化；パッシブブレース共通の筋力依存リスクあり。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-fitletic-posture-corrector", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitletic+%E5%A7%BF%E5%8B%A2%E7%9F%AF%E6%AD%A3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "truweo-posture-corrector",
+    category: "fitness",
+    badge: "⚙️",
+    name: { en: "Truweo Posture Corrector", ja: "Truweo 姿勢矯正サポーター" },
+    description: {
+      en: "Unisex clavicle brace with dual velcro system for precise tension adjustment. Most adjustable passive brace in category. Explicit weakness: velcro snags on clothing and hair; over-tightening can cause arm tingling from nerve compression; start at loosest setting; same muscle dependency risk as other passive braces.",
+      ja: "デュアルベルクロで張り具合を微調整できるユニセックス鎖骨ブレース。パッシブ系で最も調整幅が広い。弱点：ベルクロが衣類・髪に引っかかる；締めすぎで腕の痺れが起きる可能性——最もゆるい設定から開始；他のパッシブサポーター同様の筋力依存リスクあり。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-truweo-posture-corrector", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTruweo+%E5%A7%BF%E5%8B%A2%E7%9F%AF%E6%AD%A3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "back-brace-posture-corrector",
+    category: "fitness",
+    badge: "🦺",
+    name: { en: "Mueller Back Brace with Lumbar Support", ja: "Mueller 腰部サポート付きバックブレース" },
+    description: {
+      en: "Full lumbar support brace for standing and physical loading. Rigid panel with adjustable side compression. Explicit weakness: addresses lower back only — does not help thoracic kyphosis, rounded shoulders, or neck posture; too bulky for seated office use; muscle dependency applies to spinal erectors with prolonged use.",
+      ja: "立ち仕事・荷重作業向けの腰部サポートブレース。可調整サイドコンプレッション付き硬質パネル。弱点：腰部のみ対応——胸椎後弯・肩の丸まり・首の姿勢には無効；座位での使用には嵩張りすぎ；長時間使用での脊柱起立筋への筋力依存あり。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-mueller-back-brace", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+%E3%83%90%E3%83%83%E3%82%AF%E3%83%96%E3%83%AC%E3%83%BC%E3%82%B9+%E8%85%B0%E9%83%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Home / Travel Pillows (best-travel-pillow-2026) ─────────
+  {
+    id: "cabeau-evolution-s3",
+    category: "home",
+    badge: "✈️",
+    name: { en: "Cabeau Evolution S3 Travel Pillow", ja: "Cabeau Evolution S3 トラベルピロー" },
+    description: {
+      en: "Memory foam U-shape with headrest anchor clips that keep the pillow in place through a 13-hour flight. Best all-rounder for aisle and middle seats. Weakness: fights lateral lean for window-seat sleepers; compressed size of 13×13×8 cm is not compact.",
+      ja: "メモリーフォームU字型、ヘッドレストピラーに固定するマグネットクリップ付き。13時間フライトでもずれない。通路席・中央席の最善オールラウンダー。弱点：窓側横傾き寝には向かない、圧縮後13×13×8cmは小さくない。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cabeau-evolution-s3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCabeau+%E3%83%8D%E3%83%83%E3%82%AF%E3%83%94%E3%83%AD%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "trtl-travel-pillow",
+    category: "home",
+    badge: "🐢",
+    name: { en: "Trtl Travel Pillow", ja: "Trtl トラベルピロー" },
+    description: {
+      en: "Fleece scarf with rigid internal scaffold — not a U-shape. Provides true one-sided lateral neck support for window-seat sleepers. Rolls flat to jacket-pocket size. Weakness: only works leaning one direction; re-wrapping mid-flight wakes you up; rigid insert can cause pressure marks on 10+ hour flights.",
+      ja: "硬質内部骨格を内蔵したフリーススカーフ。U字型ではなく、窓側横傾き寝に真の片側サポートを提供。ジャケットポケットサイズに丸まる。弱点：一方向への傾きにのみ対応、向き変更にスカーフ巻き直しが必要で目が覚める、10時間超では圧迫跡が出ることがある。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-trtl-travel-pillow", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTrtl+%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%83%94%E3%83%AD%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bcozzy-travel-pillow",
+    category: "home",
+    badge: "🛋️",
+    name: { en: "BCozzy Travel Pillow", ja: "BCozzy トラベルピロー" },
+    description: {
+      en: "U-shape with chin-support channel at the front — stops the chin from dropping toward the chest on upright middle and aisle seats. Lighter and more packable than memory foam. Weakness: chin support becomes awkward when leaning laterally rather than forward.",
+      ja: "前部に顎サポートチャンネル付きU字型——中央席・通路席の直立睡眠で顎が胸に落ちるのを防ぐ。メモリーフォームより軽く圧縮しやすい。弱点：横傾きポジションでは顎サポートが邪魔になる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-bcozzy-travel-pillow", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBCozzy+%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%83%94%E3%83%AD%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ostrichpillow-go",
+    category: "home",
+    badge: "🦚",
+    name: { en: "Ostrichpillow Go", ja: "Ostrichpillow Go" },
+    description: {
+      en: "Closed-loop neck and chin wrap that cradles the head from multiple angles — best for forward-and-lateral tilt sleepers. Accommodates position switching without re-setup. Weakness: retains heat in warm cabin conditions; full wrap can feel claustrophobic.",
+      ja: "首と顎を全方向から包むクローズドループ——前方かつ斜め傾き睡眠に最適。再セットアップなしでポジション転換に対応。弱点：機内で熱がこもりやすい、フルラップに閉所感を感じるユーザーがいる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ostrichpillow-go", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOstrichpillow+Go%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tempur-travel-pillow",
+    category: "home",
+    badge: "💎",
+    name: { en: "Tempur Travel Pillow", ja: "Tempur トラベルピロー" },
+    description: {
+      en: "TEMPUR slow-rebound foam conforms fully to neck geometry and holds position — best support quality in this comparison. Removable machine-washable cover. Weakness: does not compress at all; no headrest anchor; premium price; only practical if you check luggage.",
+      ja: "TEMPURのゆっくりとした反発が首のジオメトリに完全フィット——今回の比較で最高のサポート品質。カバー取り外し・洗濯機洗い対応。弱点：まったく圧縮できない、ヘッドレスト固定機構なし、プレミアム価格、受託手荷物がある場合のみ現実的。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-tempur-travel-pillow", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTempur+%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%83%94%E3%83%AD%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
