@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 79 articles x 6 variants x 2 locales (en, ja) = 956 pins (growing)
+# 81 articles x 6 variants x 2 locales (en, ja) = 980 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -10722,3 +10722,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-ergonomic-footrest-2026/"
     image_alt: "デスク 環境改善 フットレスト チェア セットアップ"
     hashtags: ["デスクセットアップ", "フットレスト", "テレワーク", "在宅勤務", "腰痛対策"]
+
+  # ── #80 best-cold-brew-coffee-maker-2026 ─────────────────────────────────
+  - pin_id: best-cold-brew-coffee-maker-2026-en-01
+    article_slug: best-cold-brew-coffee-maker-2026
+    locale: en
+    variant: comparison
+    title: "Best Cold Brew Coffee Maker 2026: Toddy vs OXO vs Filtron vs Takeya Compared"
+    description: |
+      5 cold brew systems compared for 2026: Toddy felt filter, OXO slow-drip tower, Filtron batch brewer, County Line mason jar, and Takeya glass carafe. Immersion vs slow-drip, 12h room temp vs 24h fridge steep, sediment comparison, and concentrate ratios explained.
+    link: "https://pickly.blog/en/articles/best-cold-brew-coffee-maker-2026/"
+    image_alt: "Cold brew coffee maker comparison 2026 Toddy OXO Takeya"
+    hashtags: ["ColdBrew", "ColdBrewCoffee", "CoffeeMaker", "HomeCoffee", "Toddy"]
+
+  - pin_id: best-cold-brew-coffee-maker-2026-en-02
+    article_slug: best-cold-brew-coffee-maker-2026
+    locale: en
+    variant: top1
+    title: "Best Cold Brew System for Home Batches 2026: Toddy Cold Brew System"
+    description: |
+      Toddy Cold Brew System wins for batch brewing — the felt filter produces the clearest, smoothest concentrate with zero bitterness. Brews 1.5L at a time, concentrate keeps for 2 weeks refrigerated. At ~$40, it's the system most third-wave coffee shops use scaled down for home use.
+    link: "https://pickly.blog/en/articles/best-cold-brew-coffee-maker-2026/"
+    image_alt: "Toddy Cold Brew System home batch 2026"
+    hashtags: ["Toddy", "ColdBrew", "HomeCoffee", "CoffeeBrewing", "ColdBrewSystem"]
+
+  - pin_id: best-cold-brew-coffee-maker-2026-en-03
+    article_slug: best-cold-brew-coffee-maker-2026
+    locale: en
+    variant: problem
+    title: "Why Your Cold Brew Tastes Bitter — It's the Steep Time and Grind Size"
+    description: |
+      Over-extracted cold brew tastes bitter, not smooth. Common causes: steep time over 24h at room temp (18°C+), grind too fine (more surface area = faster extraction), or coffee-to-water ratio above 1:4. Fix: coarse grind (similar to French press), 12–14h at room temp or 24h in the fridge, 1:5 ratio for concentrate.
+    link: "https://pickly.blog/en/articles/best-cold-brew-coffee-maker-2026/"
+    image_alt: "Cold brew bitter over extracted grind steep fix"
+    hashtags: ["ColdBrew", "CoffeeTips", "HomeCoffee", "ColdBrewRecipe", "CoffeeBrewing"]
+
+  - pin_id: best-cold-brew-coffee-maker-2026-en-04
+    article_slug: best-cold-brew-coffee-maker-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Cold Brew Maker 2026: Mason Jar Method at $15"
+    description: |
+      County Line Kitchen mason jar cold brew kit ($12–18): wide-mouth mason jar + stainless mesh filter + lid. Same immersion process as Toddy at a fraction of the price. More sediment than felt filter, but fine for home use. The mesh filter needs 2 passes to approach Toddy clarity. Buy two jars to always have a batch ready while the other steeps.
+    link: "https://pickly.blog/en/articles/best-cold-brew-coffee-maker-2026/"
+    image_alt: "Mason jar cold brew budget coffee maker 2026"
+    hashtags: ["BudgetColdBrew", "MasonJarColdBrew", "ColdBrew", "HomeCoffee", "CoffeeSavings"]
+
+  - pin_id: best-cold-brew-coffee-maker-2026-en-05
+    article_slug: best-cold-brew-coffee-maker-2026
+    locale: en
+    variant: avoid
+    title: "Cold Brew Mistakes That Ruin the Batch Before It's Done"
+    description: |
+      Using pre-ground coffee: goes stale in hours, cold brew needs freshly ground. Hot water rinse on equipment: heat activates oils that then turn rancid in cold brew. Tasting before full steep: partial extraction tastes sour, not smooth. Storing in the steeping vessel: concentrate keeps better in a separate clean bottle. Covering tightly during steep: some CO2 needs to escape.
+    link: "https://pickly.blog/en/articles/best-cold-brew-coffee-maker-2026/"
+    image_alt: "Cold brew mistakes stale grind hot water storage"
+    hashtags: ["ColdBrew", "CoffeeMistakes", "HomeCoffee", "ColdBrewTips", "CoffeeBrewing"]
+
+  - pin_id: best-cold-brew-coffee-maker-2026-en-06
+    article_slug: best-cold-brew-coffee-maker-2026
+    locale: en
+    variant: scene
+    title: "Sunday Batch Cold Brew Routine: Ready for the Whole Week in 15 Minutes"
+    description: |
+      Sunday night: coarse-grind 150g of single-origin (medium-dark roast). Load Toddy with grounds + 750ml filtered water. Steep 12–14h at room temperature. Morning: drain to carafe, refrigerate. Monday–Friday: pour over ice, dilute 1:3 with water or milk. Makes about 6–8 servings. Takeya 1L glass carafe if you want a single-serve version for one person per week.
+    link: "https://pickly.blog/en/articles/best-cold-brew-coffee-maker-2026/"
+    image_alt: "Cold brew weekly batch routine Sunday prep"
+    hashtags: ["ColdBrew", "CoffeeRoutine", "MealPrep", "HomeCoffee", "WeeklyPrep"]
+
+  - pin_id: best-cold-brew-coffee-maker-2026-ja-01
+    article_slug: best-cold-brew-coffee-maker-2026
+    locale: ja
+    variant: comparison
+    title: "コールドブリューコーヒーメーカー比較2026：5製品を徹底評価"
+    description: |
+      コールドブリューコーヒーメーカー5選を2026年版で比較：トッディ・OXO点滴式・フィルトロン・カウンティライン・タケヤ。浸漬式 vs 点滴式、常温12時間 vs 冷蔵24時間、澱の差、コンセントレート濃度の正解を解説。水出しコーヒーとの違いも整理。
+    link: "https://pickly.blog/ja/articles/best-cold-brew-coffee-maker-2026/"
+    image_alt: "コールドブリュー コーヒーメーカー 比較 2026"
+    hashtags: ["コールドブリュー", "水出しコーヒー", "コーヒーメーカー", "ホームコーヒー", "カフェ"]
+
+  - pin_id: best-cold-brew-coffee-maker-2026-ja-02
+    article_slug: best-cold-brew-coffee-maker-2026
+    locale: ja
+    variant: top1
+    title: "バッチ醸造コールドブリュー2026最強：トッディ コールドブリューシステム"
+    description: |
+      トッディ コールドブリューシステムがバッチ醸造で1位。フェルトフィルターが最も澄んだ、苦みのないコンセントレートを生成。1回で1.5Lのコンセントレートが作れ、冷蔵で2週間保存可能。約5,000〜6,000円で、多くのサードウェーブカフェが業務用として使っているシステムの家庭版。
+    link: "https://pickly.blog/ja/articles/best-cold-brew-coffee-maker-2026/"
+    image_alt: "トッディ コールドブリュー バッチ 2026"
+    hashtags: ["トッディ", "コールドブリュー", "水出しコーヒー", "ホームコーヒー", "サードウェーブ"]
+
+  - pin_id: best-cold-brew-coffee-maker-2026-ja-03
+    article_slug: best-cold-brew-coffee-maker-2026
+    locale: ja
+    variant: problem
+    title: "コールドブリューが苦くなる原因——浸漬時間と挽き目の正解"
+    description: |
+      過抽出で苦くなる。主な原因：常温（18℃以上）で24時間超の浸漬、挽き目が細かすぎる（表面積が増えて抽出が速まる）、コーヒーと水の比率が1:4以上。正解：粗挽き（フレンチプレスに近い）、常温12〜14時間または冷蔵24時間、コンセントレートなら1:5の比率。
+    link: "https://pickly.blog/ja/articles/best-cold-brew-coffee-maker-2026/"
+    image_alt: "コールドブリュー 苦い 過抽出 挽き目 浸漬時間"
+    hashtags: ["コールドブリュー", "コーヒー 苦い", "水出しコーヒー", "抽出時間", "コーヒーのコツ"]
+
+  - pin_id: best-cold-brew-coffee-maker-2026-ja-04
+    article_slug: best-cold-brew-coffee-maker-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強コールドブリュー2026：メイソンジャーで1,500円"
+    description: |
+      カウンティライン・キッチン メイソンジャーキット（1,500〜2,500円）は広口メイソンジャー＋ステンレスメッシュフィルター。トッディと同じ浸漬プロセスで、価格は数分の一。フェルトより澱が多いが家庭用には十分。2パス濾過でトッディに近い透明度。バッチを絶やさないために2個持ちがおすすめ。
+    link: "https://pickly.blog/ja/articles/best-cold-brew-coffee-maker-2026/"
+    image_alt: "メイソンジャー コールドブリュー コスパ 2026"
+    hashtags: ["コールドブリュー", "コスパ最強", "水出しコーヒー", "メイソンジャー", "節約コーヒー"]
+
+  - pin_id: best-cold-brew-coffee-maker-2026-ja-05
+    article_slug: best-cold-brew-coffee-maker-2026
+    locale: ja
+    variant: avoid
+    title: "コールドブリューのバッチを台無しにする5つの間違い"
+    description: |
+      市販の挽き豆を使う：酸化が早く水出しには向かない、挽きたてを使うこと。器具をお湯で洗う：熱で油脂が酸化しコールドブリューに移る。全浸漬前に味見する：中途半端な抽出は酸っぱい。浸漬容器のまま保存する：別の清潔な瓶に移すと2週間持つ。浸漬中にしっかり蓋をする：炭酸ガスの逃げ道が必要。
+    link: "https://pickly.blog/ja/articles/best-cold-brew-coffee-maker-2026/"
+    image_alt: "コールドブリュー 失敗 挽き豆 保存 浸漬"
+    hashtags: ["コールドブリュー", "コーヒー 失敗", "水出しコーヒー", "コーヒーのコツ", "ホームコーヒー"]
+
+  - pin_id: best-cold-brew-coffee-maker-2026-ja-06
+    article_slug: best-cold-brew-coffee-maker-2026
+    locale: ja
+    variant: scene
+    title: "日曜バッチ仕込み：週5日分のコールドブリューを15分で準備"
+    description: |
+      日曜夜：シングルオリジン（中深煎り）150gを粗挽き。トッディにコーヒー＋常温の浄水750mlをセット。常温12〜14時間浸漬。月曜朝：濾してカラフェに移して冷蔵。月〜金：氷の上に注いで水や牛乳で1:3に薄める。6〜8杯分。1人分なら週1バッチでタケヤ1Lガラスカラフェが最適。
+    link: "https://pickly.blog/ja/articles/best-cold-brew-coffee-maker-2026/"
+    image_alt: "コールドブリュー 週末仕込み 日曜 ルーティン"
+    hashtags: ["コールドブリュー", "週末コーヒー", "水出しコーヒー", "コーヒールーティン", "ホームカフェ"]
+
+  # ── #81 best-jump-rope-2026 ───────────────────────────────────────────────
+  - pin_id: best-jump-rope-2026-en-01
+    article_slug: best-jump-rope-2026
+    locale: en
+    variant: comparison
+    title: "Best Jump Rope 2026: Speed Rope vs Weighted Cable for Cardio and Double Unders"
+    description: |
+      5 jump ropes compared for real training — speed rope vs weighted cable, double under tips, bearing quality explained, and how to size a rope by height. Crossrope Get Lean Set, RX Smart Gear, Survival & Cross, RPG, and basic speed rope options reviewed.
+    link: "https://pickly.blog/en/articles/best-jump-rope-2026/"
+    image_alt: "Jump rope comparison 2026 speed rope weighted cable"
+    hashtags: ["JumpRope", "SpeedRope", "DoubleUnders", "Cardio", "GymEssentials"]
+
+  - pin_id: best-jump-rope-2026-en-02
+    article_slug: best-jump-rope-2026
+    locale: en
+    variant: top1
+    title: "Best Jump Rope for Cardio and Fat Loss 2026: Crossrope Get Lean Set"
+    description: |
+      Crossrope Get Lean Set wins for serious training — interchangeable 1/4lb and 1/2lb cables let you progress from cardio speed to conditioning strength in one system. App-connected for structured workouts. At ~$98 for the set, it's the most complete system if you'll use it more than 3x/week. Handles sold with the set are high-quality ball bearing.
+    link: "https://pickly.blog/en/articles/best-jump-rope-2026/"
+    image_alt: "Crossrope Get Lean Set best jump rope cardio 2026"
+    hashtags: ["Crossrope", "JumpRope", "Cardio", "FatLoss", "WorkoutGear"]
+
+  - pin_id: best-jump-rope-2026-en-03
+    article_slug: best-jump-rope-2026
+    locale: en
+    variant: problem
+    title: "Why You Can't Land Double Unders — It's Wrist Speed, Not Jump Height"
+    description: |
+      Most people try to jump higher instead of spinning the rope faster. Double unders require rope speed of ~180rpm with small wrist circles — not big arm swings. A too-heavy or too-long rope can't spin fast enough. Minimum requirements: cable or PVC rope (not beaded), ball bearing handle, rope sized correctly (+3 feet to your height). Practice single fast rotations before adding the double.
+    link: "https://pickly.blog/en/articles/best-jump-rope-2026/"
+    image_alt: "Double unders jump rope technique wrist speed"
+    hashtags: ["DoubleUnders", "JumpRope", "JumpRopeTips", "Crossfit", "CardioTraining"]
+
+  - pin_id: best-jump-rope-2026-en-04
+    article_slug: best-jump-rope-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Jump Rope 2026: Survival & Cross Speed Rope at $15"
+    description: |
+      Survival & Cross Speed Jump Rope ($12–18) is the best budget option with real ball bearings — most ropes under $10 use bushings that add drag and limit spin speed. PVC cable, comfortable foam grip, and adjustable length. Fine for beginners and light cardio. Not weighted, but for learning double unders it's a solid starting point before investing in Crossrope.
+    link: "https://pickly.blog/en/articles/best-jump-rope-2026/"
+    image_alt: "Budget jump rope ball bearing speed rope 2026"
+    hashtags: ["BudgetJumpRope", "SpeedRope", "JumpRope", "AffordableCardio", "HomeWorkout"]
+
+  - pin_id: best-jump-rope-2026-en-05
+    article_slug: best-jump-rope-2026
+    locale: en
+    variant: avoid
+    title: "Jump Rope Mistakes That Slow Your Progress and Hurt Your Joints"
+    description: |
+      Rope too long: extra rope hits the ground, forces higher jumps, strains calves. Jumping on concrete without shoes: impact force doubles vs rubber gym floor. Landing on heels: all impact transferred to knees, should land on the balls of feet. Looking down while jumping: disrupts timing and rhythm. Using arms instead of wrists to spin: exhausting and slows the rope.
+    link: "https://pickly.blog/en/articles/best-jump-rope-2026/"
+    image_alt: "Jump rope mistakes long rope concrete landing technique"
+    hashtags: ["JumpRope", "JumpRopeTips", "CardioMistakes", "FitnessForm", "HomeWorkout"]
+
+  - pin_id: best-jump-rope-2026-en-06
+    article_slug: best-jump-rope-2026
+    locale: en
+    variant: scene
+    title: "20-Minute Jump Rope Cardio Circuit for a Hotel Room or Small Space"
+    description: |
+      Need only 6x6 feet of clearance. Circuit: 30s singles / 30s rest × 5 rounds (warm up), then 40s fast singles / 20s rest × 8 rounds, finish with 5 min of alternating feet. Total: 20 min, ~200 calories. RX Smart Gear for double unders, Survival & Cross for a light travel rope that weighs 80g. Beats hotel gym for cardio efficiency.
+    link: "https://pickly.blog/en/articles/best-jump-rope-2026/"
+    image_alt: "Jump rope cardio circuit hotel room small space workout"
+    hashtags: ["JumpRope", "HotelWorkout", "Cardio", "TravelFitness", "HomeWorkout"]
+
+  - pin_id: best-jump-rope-2026-ja-01
+    article_slug: best-jump-rope-2026
+    locale: ja
+    variant: comparison
+    title: "縄跳び おすすめ2026：スピードロープvsウエイトケーブル比較"
+    description: |
+      縄跳び5種を2026年に比較：スピードロープvsウエイトケーブル、二重跳びのコツ、ベアリング品質の解説、身長別ロープ長さの選び方。Crossrope・RX Smart Gear・Survival & Cross・RPG・基本スピードロープを室内有酸素運動と技術練習の視点で評価。
+    link: "https://pickly.blog/ja/articles/best-jump-rope-2026/"
+    image_alt: "縄跳び おすすめ 比較 2026 スピードロープ"
+    hashtags: ["縄跳び", "スピードロープ", "有酸素運動", "フィットネス", "室内トレーニング"]
+
+  - pin_id: best-jump-rope-2026-ja-02
+    article_slug: best-jump-rope-2026
+    locale: ja
+    variant: top1
+    title: "有酸素・脂肪燃焼縄跳び2026最強：Crossrope ゲットリーンセット"
+    description: |
+      Crossrope Get Lean Setが本格トレーニングで1位。1/4lbと1/2lbの交換式ケーブルで有酸素スピードから筋持久力まで1セットでカバー。アプリ連動の構造化ワークアウトあり。週3回以上使うなら約12,000〜15,000円のコストは合理的。ハンドルは高品質ボールベアリング付属。
+    link: "https://pickly.blog/ja/articles/best-jump-rope-2026/"
+    image_alt: "Crossrope ゲットリーン 縄跳び 有酸素 2026"
+    hashtags: ["Crossrope", "縄跳び", "有酸素運動", "脂肪燃焼", "フィットネス"]
+
+  - pin_id: best-jump-rope-2026-ja-03
+    article_slug: best-jump-rope-2026
+    locale: ja
+    variant: problem
+    title: "二重跳びができない理由——ジャンプの高さではなく手首の速さ"
+    description: |
+      多くの人が高く跳ぼうとするが、二重跳びはロープの速度（約180rpm）と小さな手首の回転が必要。大きな腕の振りでは回せない。重すぎる・長すぎるロープは速く回せない。最低条件：ケーブルかPVC素材（ビーズ不可）、ボールベアリングハンドル、正しいサイズ（身長＋90cm程度）。まず速い1回転を練習してから二重に移行。
+    link: "https://pickly.blog/ja/articles/best-jump-rope-2026/"
+    image_alt: "二重跳び 縄跳び コツ 手首 スピード"
+    hashtags: ["二重跳び", "縄跳び", "縄跳び コツ", "フィットネス", "技術練習"]
+
+  - pin_id: best-jump-rope-2026-ja-04
+    article_slug: best-jump-rope-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強縄跳び2026：Survival & Cross スピードロープ 2,000円"
+    description: |
+      Survival & Cross スピードジャンプロープ（1,500〜2,500円）が本物のボールベアリング搭載の最安縄跳び。1,500円以下はブッシング式でドラッグが大きく速度制限あり。PVCケーブル、フォームグリップ、長さ調節可能。初心者・軽い有酸素運動に十分。Crossropeへの投資前に二重跳びを練習するのにも適している。
+    link: "https://pickly.blog/ja/articles/best-jump-rope-2026/"
+    image_alt: "コスパ 縄跳び ボールベアリング スピードロープ 2026"
+    hashtags: ["縄跳び", "コスパ最強", "スピードロープ", "室内トレーニング", "節約フィットネス"]
+
+  - pin_id: best-jump-rope-2026-ja-05
+    article_slug: best-jump-rope-2026
+    locale: ja
+    variant: avoid
+    title: "縄跳びの上達を妨げる5つの間違い"
+    description: |
+      ロープが長すぎる：余分なロープが地面を叩き、高く跳ぶ必要が生じてふくらはぎを疲弊させる。コンクリートでシューズなし：衝撃が2倍になる。かかとから着地：膝への負担が集中、つま先・母指球着地が正解。下を向いて跳ぶ：タイミングとリズムが崩れる。腕全体でロープを回す：手首の小さな動きが正しく、腕だと疲れて遅くなる。
+    link: "https://pickly.blog/ja/articles/best-jump-rope-2026/"
+    image_alt: "縄跳び 間違い ロープ 長さ 着地 手首"
+    hashtags: ["縄跳び", "フォーム 間違い", "筋トレ", "有酸素運動", "縄跳び コツ"]
+
+  - pin_id: best-jump-rope-2026-ja-06
+    article_slug: best-jump-rope-2026
+    locale: ja
+    variant: scene
+    title: "ホテルや6畳でできる20分縄跳び有酸素サーキット"
+    description: |
+      必要なスペース：180cm×180cmだけ。サーキット：シングル30秒/休憩30秒×5ラウンド（ウォームアップ）→速シングル40秒/休憩20秒×8ラウンド→片足交互5分。合計20分、約200kcal消費。二重跳びするならRX Smart Gear、出張用の軽い1本ならSurvival & Cross（80g）。ホテルジムより時間効率が高い。
+    link: "https://pickly.blog/ja/articles/best-jump-rope-2026/"
+    image_alt: "縄跳び 20分 サーキット ホテル 6畳"
+    hashtags: ["縄跳び", "ホテルトレーニング", "有酸素運動", "室内フィットネス", "出張 筋トレ"]
