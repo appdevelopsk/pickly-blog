@@ -6343,6 +6343,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-yes4all-vinyl-kettlebell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All+%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Swim Goggles (best-swim-goggles-2026) ─────────
+  {
+    id: "speedo-vanquisher-2",
+    category: "fitness",
+    name: { en: "Speedo Vanquisher 2.0 Swim Goggles", ja: "スピード バンキッシャー 2.0 スイムゴーグル" },
+    description: {
+      en: "Best competitive swim goggles — low-profile silicone gasket, hydrodynamic shell, multiple nose bridge widths, UV400 anti-fog lenses; proven competition tool for pool training and racing",
+      ja: "最良競泳ゴーグル — 低プロファイルシリコンガスケット・流体力学的シェル・複数鼻幅ブリッジ・UV400曇り止めレンズ；プールトレーニングと競技向けの実証済み競技ツール",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-speedo-vanquisher-2", rawUrl: "https://www.amazon.co.jp/s?k=Speedo+Vanquisher+2.0+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-speedo-vanquisher-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSpeedo+Vanquisher+2.0+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tyr-special-ops-2",
+    category: "fitness",
+    name: { en: "TYR Special Ops 2.0 Transition Swim Goggles", ja: "TYR スペシャルオプス 2.0 トランジションスイムゴーグル" },
+    description: {
+      en: "Best triathlon open-water swim goggles — polarized wide-angle lens cuts water-surface glare, dual-strap system handles wave impact, thick silicone gasket for extended open-water wear",
+      ja: "最良トライアスロン・オープンウォーターゴーグル — 偏光ワイドアングルレンズが水面グレアをカット・デュアルストラップが波の衝撃に対応・長時間オープンウォーター着用向け厚いシリコンガスケット",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-tyr-special-ops-2", rawUrl: "https://www.amazon.co.jp/s?k=TYR+Special+Ops+2.0+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tyr-special-ops-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTYR+Special+Ops+2.0+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "arena-cobra-ultra-swipe",
+    category: "fitness",
+    name: { en: "Arena Cobra Ultra Swipe Racing Swim Goggles", ja: "アリーナ コブラ ウルトラ スワイプ 競泳ゴーグル" },
+    description: {
+      en: "Best high-performance racing swim goggles — curved wraparound lens expands peripheral vision, low-profile frame for competitive swimming, durable anti-fog coating, UV400 protection",
+      ja: "最良ハイパフォーマンス競泳ゴーグル — 曲面ラップアラウンドレンズが周辺視野を拡大・競泳向け低プロファイルフレーム・耐久性の高い曇り止めコーティング・UV400保護",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-arena-cobra-ultra-swipe", rawUrl: "https://www.amazon.co.jp/s?k=Arena+Cobra+Ultra+Swipe+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-arena-cobra-ultra-swipe", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FArena+Cobra+Ultra+Swipe+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "aqua-sphere-kayenne",
+    category: "fitness",
+    name: { en: "Aqua Sphere Kayenne Swim Goggles", ja: "アクアスフィア カイエン スイムゴーグル" },
+    description: {
+      en: "Best fitness and leisure swim goggles — flexible curved lens and wide silicone gasket fit a broad range of face shapes, UV400 tinted lenses for indoor and outdoor pools, most forgiving seal in this comparison",
+      ja: "最良フィットネス・レジャー水泳ゴーグル — 柔軟な曲面レンズと幅広シリコンガスケットが広い顔型範囲に対応・屋内外両方のプール向けUV400ティンテッドレンズ・この比較で最も寛容なシール",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-aqua-sphere-kayenne", rawUrl: "https://www.amazon.co.jp/s?k=Aqua+Sphere+Kayenne+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-aqua-sphere-kayenne", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAqua+Sphere+Kayenne+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "barracuda-fenix-goggles",
+    category: "fitness",
+    name: { en: "Barracuda Fenix Swim Goggles", ja: "バラクーダ フェニックス スイムゴーグル" },
+    description: {
+      en: "Best budget swim goggles — UV400 anti-fog polycarbonate lenses, adequate seal for lap swimming, available in mirrored variants for outdoor use, lowest price in this comparison",
+      ja: "最良低価格水泳ゴーグル — UV400曇り止めポリカーボネートレンズ・ラップスイミングに十分なシール・屋外使用向けミラーバリアント展開・この比較で最低価格",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-barracuda-fenix-goggles", rawUrl: "https://www.amazon.co.jp/s?k=Barracuda+Fenix+%E6%B0%B4%E6%B3%B3%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-barracuda-fenix-goggles", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%A9%E3%82%AF%E3%83%BC%E3%83%80+%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Fitness / Pull-Up Bars (best-pull-up-bar-2026) ─────────
   {
     id: "iron-gym-total-body-bar",
@@ -6464,6 +6530,77 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "amazon-jp-angels-cup-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Angels+Cup+Subscription", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-angels-cup-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%BA%E3%82%AB%E3%83%83%E3%83%97%20%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Snack Subscriptions (best-snack-subscription-box-2026) ─────────
+  {
+    id: "snackcrate-subscription",
+    category: "food",
+    badge: "🌍",
+    name: { en: "SnackCrate Subscription", ja: "SnackCrate サブスクリプション" },
+    description: {
+      en: "Best international snack subscription — retail products from a new country each month, 10 full-size snacks at ~$30/month including shipping. Authentic local brands in original packaging. Best for snackers who want the real thing from each country.",
+      ja: "最高の海外スナックサブスク——毎月新しい国から市販スナック10品、送料込み約4,500円/月。現地ブランドのオリジナルパッケージ。その国の本物を求める方に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-snackcrate-subscription", rawUrl: "https://www.amazon.co.jp/s?k=SnackCrate+Subscription+Box", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-snackcrate-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSnackCrate+%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "universal-yums-subscription",
+    category: "food",
+    badge: "🗺️",
+    name: { en: "Universal Yums Subscription", ja: "Universal Yums サブスクリプション" },
+    description: {
+      en: "Best for international variety with culture notes — 6-20+ snacks per tier ($14-$40/month), includes 12-page trivia booklet about the featured country. Best for curious snackers and families with kids.",
+      ja: "文化解説付き海外品揃えに最高——ティアにより6〜20品以上（約2,000〜5,800円/月）、特集国の12ページトリビアブックレット付き。好奇心旺盛な方や子ども連れ家族に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-universal-yums-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Universal+Yums+Subscription+Box", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-universal-yums-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUniversal+Yums+%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "graze-snack-subscription",
+    category: "food",
+    badge: "🥗",
+    name: { en: "Graze Snack Subscription", ja: "Graze スナックサブスクリプション" },
+    description: {
+      en: "Best healthy snack subscription — 9 nutritionist-designed snacks at ~$13/month, explicit allergen labeling, dedicated vegan box available. Best for health-conscious snackers who want variety without dietary compromise.",
+      ja: "最高の健康志向スナックサブスク——栄養士設計の9品が約1,800円/月、明示的なアレルゲン表示、専用ビーガンボックスあり。食事制限なしに多様性を求める健康志向の方に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-graze-snack-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Graze+Snack+Subscription+Box", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-graze-snack-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGraze+%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF+%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mouth-snack-subscription",
+    category: "food",
+    badge: "🏡",
+    name: { en: "Mouth Artisan Snack Subscription", ja: "Mouth アーティザン スナックサブスクリプション" },
+    description: {
+      en: "Best artisan US snack subscription — 6-8 full-size items from small-batch American producers at $40-45/month. Producer story inserts, genuine small-business sourcing. Best for food culture enthusiasts supporting independent makers.",
+      ja: "最高のアメリカ職人スナックサブスク——小規模アメリカ生産者からのフルサイズアイテム6〜8品が約6,000〜6,500円/月。生産者ストーリーカード付き。独立した作り手を応援したいフードカルチャー愛好家に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-mouth-snack-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Mouth+Artisan+Snack+Subscription+Box", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-mouth-snack-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMouth+%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B6%E3%83%B3+%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bokksu-subscription",
+    category: "food",
+    badge: "🍡",
+    name: { en: "Bokksu Japanese Snack Subscription", ja: "Bokksu 和菓子サブスクリプション" },
+    description: {
+      en: "Best Japanese snack subscription — 20-25 items in Classic tier ($49/month) sourced from Japanese family producers, many with limited outside-Japan distribution. Producer-focused culture guide. Best for people with specific interest in Japanese food culture.",
+      ja: "最高の和菓子サブスク——クラシックティアで20〜25品（約7,000円/月）、日本国外にはほとんど流通していない日本の家族経営生産者から調達。生産者フォーカスの文化ガイド付き。日本のフードカルチャーに関心がある方に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-bokksu-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Bokksu+%E5%92%8C%E8%8F%93%E5%AD%90+%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bokksu-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBokksu+%E5%92%8C%E8%8F%93%E5%AD%90+%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
   {
