@@ -3118,6 +3118,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-tnf-base-camp-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%2B%E3%83%99%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%2B%E3%83%80%E3%83%83%E3%83%95%E3%83%AB%2FS%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Water Bottles (best-water-bottle-2026) ─────────
+  {
+    id: "hydro-flask-32oz",
+    category: "fitness",
+    badge: "💧",
+    name: { en: "Hydro Flask 32oz Wide Mouth", ja: "ハイドロフラスク 32oz ワイドマウス" },
+    description: {
+      en: "~¥5,000-7,000 benchmark insulated wide-mouth bottle. TempShield double-wall vacuum insulation (24hr cold / 12hr hot lab spec), interchangeable lid system, uncoated 18/8 stainless interior. Heaviest in this comparison at 454g empty; included Flex Cap requires two-handed operation — straw or flip lid sold separately; hand-wash only, not dishwasher-certified; premium pricing versus domestic vacuum bottles.",
+      ja: "約¥5,000〜7,000の断熱ワイドマウスボトルのベンチマーク。TempShield二重真空断熱（冷24時間・温12時間ラボ値）、交換可能な蓋システム、風味を残さないコーティングなし18/8ステンレス内部。このレビューで最重量（空454g）；付属フレックスキャップは両手操作必要——ストロー・フリップ蓋は別売り；公式手洗い推奨、食洗機非対応；国産真空ボトルより価格高め。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-hydro-flask-32oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHydro+Flask+32oz%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "stanley-quencher-30oz",
+    category: "fitness",
+    badge: "🥤",
+    name: { en: "Stanley Quencher 30oz", ja: "スタンレー クエンチャー 30oz" },
+    description: {
+      en: "~¥5,000-8,000 vacuum-insulated tumbler. Wide straw lid, tapered base fits cup holders, ergonomic handle, large color selection. Cons: straw lid requires disassembly for thorough cleaning; tapered profile does not fit narrow backpack bottle pockets cleanly; some user reports of lid gasket and straw deterioration over months; quality consistency issues from rapid color expansion.",
+      ja: "約¥5,000〜8,000の真空断熱タンブラー。ワイドストロー蓋、テーパー底でカップホルダー対応、ハンドル付き、豊富なカラー。弱点：ストロー蓋は完全洗浄に分解必要；テーパー形状でバックパックの細いボトルポケットに収まりにくい；蓋ガスケット・ストロー劣化の報告あり；カラー急拡大による品質一貫性の問題。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-stanley-quencher-30oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%AC%E3%83%BC%2B%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nalgene-32oz",
+    category: "fitness",
+    badge: "🥾",
+    name: { en: "Nalgene 32oz Wide Mouth Tritan", ja: "ナルゲン 32oz ワイドマウス Tritan" },
+    description: {
+      en: "~¥1,500-2,500 lightweight non-insulated utility bottle. 180g empty — lightest in comparison, 63mm wide mouth accepts hand cleaning, BPA-free Tritan fully dishwasher-safe and drop-resistant. Cons: no insulation — drinks reach ambient temperature within 30-60 minutes; screw cap requires two hands; plastic retains odors from strongly flavored drinks more persistently than stainless; wrong choice for all-day cold water carry in warm conditions.",
+      ja: "約¥1,500〜2,500の軽量非断熱実用ボトル。空180g——このレビューで最軽量、63mmワイドマウスで手洗い可、BPAフリーTritanで食洗機完全対応・耐衝撃性あり。弱点：断熱なし——飲み物は30〜60分で外気温に近づく；スクリューキャップは両手操作必要；強い風味飲料のにおいがステンレスより残りやすい；暖かい時季の終日冷水携帯には不向き。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-nalgene-32oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8A%E3%83%AB%E3%82%B2%E3%83%B3+32oz+%E3%83%AF%E3%82%A4%E3%83%89%E3%83%9E%E3%82%A6%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "thermos-jni-502",
+    category: "fitness",
+    badge: "🚂",
+    name: { en: "Thermos JNI-502", ja: "サーモス JNI-502" },
+    description: {
+      en: "~¥2,500-4,000 compact 500ml Japanese vacuum stainless commuter bottle. Push-button lid with screw-lock base for one-handed access after initial unlock, 24hr cold rating, widely available at Japanese retailers. Cons: 500ml is half the volume of 32oz bottles — requires more frequent refills; 40mm mouth narrower than wide-mouth competitors; brand-specific lid system not interchangeable with third-party accessories; hand-wash only.",
+      ja: "約¥2,500〜4,000のコンパクト500ml国産真空ステンレス通勤ボトル。スクリューロックベースのプッシュボタン蓋で初期解除後に片手操作可能、保冷24時間、国内で広く流通。弱点：500mlは32ozボトルの半分——より頻繁な給水が必要；40mm口径はワイドマウス競合より狭い；ブランド固有蓋システムでサードパーティアクセサリー非対応；手洗い推奨。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-thermos-jni-502", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%83%BC%E3%83%A2%E3%82%B9+JNI-502%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "klean-kanteen-20oz",
+    category: "fitness",
+    badge: "☕",
+    name: { en: "Klean Kanteen 20oz TKWide", ja: "クリーンカンティーン 20oz TKWide" },
+    description: {
+      en: "~¥4,000-6,000 compact insulated bottle compatible with Café Cap for dual water/coffee use. 18/8 stainless interior, vacuum insulation comparable to Hydro Flask. Cons: Café Cap sold separately from standard lid — multi-use capability requires additional purchase; 20oz limits all-day hydration without refilling; lower Japan-market brand recognition means fewer long-term reviews; import pricing runs above US equivalent; not strongest choice for pure water-only use.",
+      ja: "約¥4,000〜6,000のカフェキャップ対応コンパクト断熱ボトル（水とコーヒーの兼用可）。18/8ステンレス内部、ハイドロフラスク同等の真空断熱。弱点：カフェキャップは標準蓋と別売り——マルチユースには追加購入必要；20ozは終日水分補給に不十分；日本市場での認知度が低くレビュー数少ない；輸入コストで米国より価格高め；純粋な水専用ではハイドロフラスクやサーモスとの比較で優位性薄い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-klean-kanteen-20oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AB%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3+20oz+TKWide%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Home / Office Chairs 2026 (best-office-chair-2026) ─────────
   {
     id: "herman-miller-aeron",
@@ -3908,6 +3974,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-jins-smart-shield", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJINS%2B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Home / Candles (best-candle-2026) ─────────
+  {
+    id: "diptyque-baies-190g",
+    category: "home",
+    badge: "🕯️",
+    name: { en: "Diptyque Baies Candle 190g", ja: "ディプティック バイエス キャンドル 190g" },
+    description: {
+      en: "French luxury candle. Blackcurrant leaf and Bulgarian rose. Strong cold throw, ambient hot throw, 50–60 hr burn time. Explicit weakness: highest cost-per-burn-hour; underwhelming hot throw for large rooms; tunneling risk if first-burn rules aren't followed.",
+      ja: "フランス高級キャンドル。カシスの葉とブルガリアンローズ。強いコールドスロー、アンビエントなホットスロー、燃焼50〜60時間。明確な弱点：最高の時間あたりコスト；広い部屋には物足りないホットスロー；最初の点灯ルールを守らないとトンネリングリスク。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-diptyque-baies-190g", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDiptyque%2BBaies%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yankee-candle-clean-cotton",
+    category: "home",
+    badge: "🧺",
+    name: { en: "Yankee Candle Clean Cotton Large Jar", ja: "ヤンキーキャンドル クリーンコットン ラージジャー" },
+    description: {
+      en: "American mass-market candle. Fresh linen and cotton musk. Strong paraffin hot throw fills rooms up to 20m², 110–150 hr burn time. Explicit weakness: entirely synthetic fragrance; paraffin base produces more soot; no design value.",
+      ja: "アメリカのマスマーケットキャンドル。フレッシュリネンとコットンムスク。強いパラフィンホットスローで20m²まで充填、燃焼110〜150時間。明確な弱点：完全合成の香り；パラフィンベースで煤が出やすい；デザイン価値なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-yankee-clean-cotton", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYankee+Candle+Clean+Cotton%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "byredo-biblitheque",
+    category: "home",
+    badge: "📚",
+    name: { en: "Byredo Bibliothèque Candle 240g", ja: "バイレード ビブリオテック キャンドル 240g" },
+    description: {
+      en: "Niche Swedish fragrance house. Peach, violet, vetiver, sandalwood, vanilla musk — warm and literary. Conversation-piece candle. Explicit weakness: highest unit price; underwhelming hot throw relative to cost; complexity fades at distance.",
+      ja: "スウェーデンのニッチフレグランスハウス。ピーチ・バイオレット・ベチバー・サンダルウッド・バニラムスク — 温かく文学的。会話のきっかけになるキャンドル。明確な弱点：最高単価；コスト比でホットスローが弱い；距離が離れると複雑さが薄れる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-byredo-biblitheque", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FByredo%2BBibliotheque%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harnn-jasmine-rice",
+    category: "home",
+    badge: "🌸",
+    name: { en: "HARNN Jasmine Rice Candle 185g", ja: "HARNN ジャスミンライス キャンドル 185g" },
+    description: {
+      en: "Thai luxury spa brand. Rice milk and jasmine sambac on soy-coconut wax. Clean, non-synthetic floral scent popular in Japan. Explicit weakness: shortest burn time per gram; jasmine is polarizing; limited availability outside Japan and Southeast Asia.",
+      ja: "タイの高級スパブランド。ソイ・コナッツワックスベースにライスミルクとジャスミンサンバック。日本で人気の合成臭のないフローラル。明確な弱点：グラムあたり燃焼時間が最短；ジャスミンの好みが分かれる；日本・東南アジア以外での入手が困難。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-harnn-jasmine-rice", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHARNN%2BJasmine%2BRice%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kuumba-international-incense",
+    category: "home",
+    badge: "🌿",
+    name: { en: "Kuumba International Incense Sticks", ja: "クンバインターナショナル お香スティック" },
+    description: {
+      en: "California brand with deep Japanese streetwear cultural ties. Hinoki, cedar, and resin-forward profiles alongside sweeter florals. 20–30 min per stick. Explicit weakness: smoke not suitable for respiratory-sensitive households; much shorter burn time than candles; select-retail only.",
+      ja: "日本のストリートウェア文化と深いつながりを持つカリフォルニアブランド。ヒノキ・スギ・レジン系と甘めのフローラル系。1本20〜30分。明確な弱点：煙が呼吸器過敏の家庭には不向き；キャンドルより燃焼時間が著しく短い；セレクトショップ限定。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-kuumba-international-incense", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKuumba+International%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
