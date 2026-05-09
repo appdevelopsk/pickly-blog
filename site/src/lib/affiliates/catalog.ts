@@ -4969,6 +4969,128 @@ const RAW_CATALOG: AffiliateOffer[] = [
   { id: "umoro-one-shaker", category: "fitness", name: { en: "Umoro One 2-in-1 Shaker Bottle", ja: "Umoro One 2-in-1 シェイカーボトル" }, description: { en: "Hidden water/supplement compartment built into the base — keeps the form factor of a standard single shaker while adding a ~150ml secondary chamber for pre-workout concentrate or dry creatine.", ja: "底部に隠し収納コンパートメントを内蔵。標準シェイカーに近いサイズを保ちながら、プレワークアウト濃縮液や乾燥クレアチン用に約150mlのセカンダリーチャンバーを追加。" }, links: [{ network: "moshimo", productId: "rakuten-umoro-one-shaker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUmoro+One+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
   { id: "smartshake-original", category: "fitness", name: { en: "Smartshake Original Shaker Bottle", ja: "Smartshake オリジナル シェイカーボトル" }, description: { en: "Three-compartment shaker: 600ml main mixing cup with disc agitator, mid-section powder storage for one pre-measured serving, and a base pill compartment for 5-8 capsules. Modular design for supplement stacking.", ja: "3コンパートメント設計：600mlメインカップ（ディスクアジテーター）、計量済み1服分のパウダー収納、5〜8粒対応のピルコンパートメント。サプリメントスタッキング向けモジュラー設計。" }, links: [{ network: "moshimo", productId: "rakuten-smartshake-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSmartshake+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
   { id: "contigo-shake-go", category: "fitness", name: { en: "Contigo Shake & Go Fit Shaker Bottle", ja: "Contigo シェイク＆ゴー フィット シェイカーボトル" }, description: { en: "Wide-base vortex-mixing design with no blender ball — autoseal push-button lid closes automatically after each drink. Stable counter mixing, no rattling between shakes. Full lid disassembly required before dishwasher cycling.", ja: "ワイドベース渦流混合設計でブレンダーボール不要。オートシールプッシュボタン蓋が飲む度に自動で閉まる。カウンター上でのシェイクに安定感あり、シェイク間にカチカチ音なし。食洗機前にフタの完全分解が必要。" }, links: [{ network: "moshimo", productId: "rakuten-contigo-shake-go", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FContigo+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
+  // ───────── Home / Ergonomic Footrests (best-ergonomic-footrest-2026) ─────────
+  {
+    id: "fellowes-foot-rocker",
+    category: "home",
+    name: { en: "Fellowes Foot Rocker Ergonomic Footrest", ja: "フェローズ フットロッカー エルゴノミクス フットレスト" },
+    description: {
+      en: "Rocking motion footrest with a curved base that produces a 20-degree forward-to-back arc. Non-slip textured surface prevents sliding during movement. 43 cm wide platform fits under standard desks. No height adjustment — the rocking range is fixed.",
+      ja: "湾曲底面が前後約20度のアークを生み出すロッキング動作フットレスト。滑り止めテクスチャー表面が動作中の足の滑りを防止。幅43cmで標準デスク下に収まる。高さ調節なし、ロッキング幅は固定。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-fellowes-foot-rocker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88+%E3%83%AD%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kensington-smartfit-footrest",
+    category: "home",
+    name: { en: "Kensington SmartFit Solemate Footrest", ja: "ケンジントン スマートフィット ソールメイト フットレスト" },
+    description: {
+      en: "Four-position adjustable footrest with height range of 10-15 cm and matching tilt. Massage-bump non-slip surface across the top platform. 45 cm wide. The SmartFit color-coding system guides height selection based on hand measurement.",
+      ja: "高さ10〜15cmの4段階調節フットレスト。連動する傾斜角変更が可能。マッサージバンプ付き滑り止め表面、幅45cm。スマートフィットカラーコーディングシステムで手のひら計測から適切な高さを案内。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-kensington-smartfit-footrest", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B1%E3%83%B3%E3%82%B8%E3%83%B3%E3%83%88%E3%83%B3+%E3%83%95%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mind-reader-footrest",
+    category: "home",
+    name: { en: "Mind Reader Ergonomic Foot Rest Platform", ja: "マインドリーダー エルゴノミクス フットレスト プラットフォーム" },
+    description: {
+      en: "Budget fixed-tilt footrest with a single approximately 15-degree angle and wide flat platform. Lightweight and easy to reposition. No adjustment features — solves the basic foot-support geometry problem at the lowest price point in this category.",
+      ja: "傾斜約15度固定の低価格フットレスト。広いフラットプラットフォームと軽量設計で移動が容易。調節機能なし——カテゴリー最安値で基本的な足の支持という幾何学問題を解決する。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-mind-reader-footrest", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88+%E3%83%87%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "everlasting-comfort-footrest",
+    category: "home",
+    name: { en: "Everlasting Comfort Memory Foam Foot Rest", ja: "エバーラスティングコンフォート メモリーフォーム フットレスト" },
+    description: {
+      en: "Memory foam top surface that conforms to foot shape, distributing pressure across the arch and heel rather than concentrating it on the ball of the foot. Fixed approximately 18-degree tilt. Removable and washable cover. Best for barefoot or thin-slipper home-office use.",
+      ja: "足の形状に馴染むメモリーフォームトップ表面。圧力を足裏全体に分散し、足の指の付け根への集中を防ぐ。傾斜約18度固定。カバーは取り外し洗濯可能。素足・薄いスリッパでのホームオフィス使用に最適。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-everlasting-comfort-footrest", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0+%E3%83%95%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "humanscale-fm300",
+    category: "home",
+    name: { en: "Humanscale FM300 Ergonomic Footrest", ja: "ヒューマンスケール FM300 エルゴノミクス フットレスト" },
+    description: {
+      en: "Professional-grade continuously adjustable footrest with height range of 6.5-15 cm and smooth locking mechanism. Slightly curved top surface accommodates natural foot position. 47 cm wide platform. Built to Humanscale's professional ergonomics standard — intended as a long-term workstation investment.",
+      ja: "高さ6.5〜15cmの無段階調節と滑らかなロック機構を持つプロフェッショナルグレードフットレスト。足の自然な位置に合わせた緩やかなカーブトップ表面、幅47cmプラットフォーム。Humanscaleのプロフェッショナルエルゴノミクス基準で設計された長期ワークステーション投資向け製品。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-humanscale-fm300", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHumanscale+FM300+%E3%83%95%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Home / Electric Blankets (best-electric-blanket-2026) ─────────
+  {
+    id: "beautyrest-electric-blanket",
+    category: "home",
+    name: { en: "Beautyrest Secure Comfort Electric Blanket", ja: "ビューティレスト 電気毛布" },
+    description: {
+      en: "Auto-shutoff at 10 hours, 20 heat settings, machine washable with controller attached, dual-zone option for couples.",
+      ja: "10時間オートオフ、20段階調節、コントローラー取り付けたまま丸洗い可能、カップル向けデュアルゾーンオプションあり。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-beautyrest-electric-blanket", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBeautyrest%25E9%259B%25BB%25E6%25B0%2597%25E6%25AF%259B%25E5%25B8%2583%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sunbeam-microplush-heated-blanket",
+    category: "home",
+    name: { en: "Sunbeam MicroPlush Heated Blanket", ja: "サンビーム マイクロプラッシュ 電気毛布" },
+    description: {
+      en: "Soft microplush fabric, ThermoFine self-regulating technology that adjusts wattage to maintain set temperature, 10 heat settings, 10-hour auto-shutoff.",
+      ja: "柔らかいマイクロプラッシュ素材、設定温度を維持するよう消費電力を自動調整するThermoFine技術、10段階調節、10時間オートオフ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-sunbeam-microplush-heated-blanket", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSunbeam%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E9%259B%25BB%25E6%25B0%2597%25E6%25AF%259B%25E5%25B8%2583%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "biddeford-electric-blanket",
+    category: "home",
+    name: { en: "Biddeford Comfort Knit Electric Heated Blanket", ja: "ビデフォード 電気毛布" },
+    description: {
+      en: "Budget-friendly electric blanket with 10 heat settings, auto-shutoff, and machine-washable body once controller is detached. Core warmth function without premium pricing.",
+      ja: "10段階調節・オートオフ・コントローラーを取り外せば丸洗い可能なコスパ重視の電気毛布。プレミアム価格なしの基本的な温かさ機能。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-biddeford-electric-blanket", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBiddeford%25E9%259B%25BB%25E6%25B0%2597%25E6%25AF%259B%25E5%25B8%2583%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "serta-fleece-electric-blanket",
+    category: "home",
+    name: { en: "Serta Plush Fleece Electric Heated Blanket", ja: "サータ プラッシュフリース 電気毛布" },
+    description: {
+      en: "Sherpa-style fleece construction, 10 heat settings, 10-hour auto-shutoff, dual-control variants available in larger sizes. Softest tactile feel in the category.",
+      ja: "シェルパ風フリース素材、10段階調節、10時間オートオフ、大型サイズでデュアルコントロールバリアントあり。このカテゴリーで最も柔らかい手触り。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-serta-fleece-electric-blanket", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSerta%25E3%2583%2595%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E9%259B%25BB%25E6%25B0%2597%25E6%25AF%259B%25E5%25B8%2583%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "perfect-sleep-pad-electric-blanket",
+    category: "home",
+    name: { en: "Perfect Sleep Pad Heated Mattress Pad", ja: "パーフェクトスリープパッド 電気敷きパッド" },
+    description: {
+      en: "Under-body heated pad that goes between the mattress and sleeper — radiant heat from below, compatible with any bedding, no blanket weight on top, lower wattage than over-blankets.",
+      ja: "マットレスと寝ている人の間に置く敷き型加熱パッド。体の下からの輻射熱、既存の寝具対応、上に毛布の重みなし、掛け毛布より低消費電力の敷き毛布タイプ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-perfect-sleep-pad", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%259B%25BB%25E6%25B0%2597%25E6%2595%25B7%25E3%2581%258D%25E6%25AF%259B%25E5%25B8%2583%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
