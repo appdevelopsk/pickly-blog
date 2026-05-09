@@ -38,6 +38,8 @@ import { meta as bestGamingMouse2026 } from "@/articles/best-gaming-mouse-2026/m
 import { meta as bestWebcam2026 } from "@/articles/best-webcam-2026/meta";
 import { meta as bestElectricShaver2026 } from "@/articles/best-electric-shaver-2026/meta";
 import { meta as bestEspressoMachine2026 } from "@/articles/best-espresso-machine-2026/meta";
+import { meta as bestPortableSpeaker2026 } from "@/articles/best-portable-speaker-2026/meta";
+import { meta as bestFitnessTracker2026 } from "@/articles/best-fitness-tracker-2026/meta";
 
 /**
  * 記事レジストリ — 各 article は `src/articles/<slug>/meta.ts` で
@@ -49,7 +51,7 @@ import { meta as bestEspressoMachine2026 } from "@/articles/best-espresso-machin
  *   3. このファイルに import を追加 + REGISTRY 配列に push
  */
 
-const REGISTRY: ArticleMeta[] = [bestVpn2026, bestCoffeeGrinder2026, bestElectricToothbrush2026, bestAirPurifier2026, conohaWingReview2026, bestRentalServerJp2026, bestLedFaceMask2026, bestRobotVacuum2026, bestHairDryer2026, bestRiceCooker2026, bestNoiseCancellingHeadphones2026, bestSkincareFridge2026, bestAirFryer2026, bestMassageGun2026, bestSmartWatch2026, bestMattress2026, bestCoffeeMaker2026, bestCordlessVacuum2026, bestYogaMat2026, bestToaster2026, bestProteinPowder2026, bestAromaDiffuser2026, bestBlender2026, bestBabyMonitor2026, bestTabletStand2026, bestShampoo2026, bestPetCamera2026, bestTeaKettle2026, bestStandingDesk2026, bestSunscreen2026, bestWirelessCharger2026, bestHumidifier2026, bestFaceWash2026, bestDeskLamp2026, bestMechanicalKeyboard2026, bestGamingMouse2026, bestWebcam2026, bestElectricShaver2026, bestEspressoMachine2026];
+const REGISTRY: ArticleMeta[] = [bestVpn2026, bestCoffeeGrinder2026, bestElectricToothbrush2026, bestAirPurifier2026, conohaWingReview2026, bestRentalServerJp2026, bestLedFaceMask2026, bestRobotVacuum2026, bestHairDryer2026, bestRiceCooker2026, bestNoiseCancellingHeadphones2026, bestSkincareFridge2026, bestAirFryer2026, bestMassageGun2026, bestSmartWatch2026, bestMattress2026, bestCoffeeMaker2026, bestCordlessVacuum2026, bestYogaMat2026, bestToaster2026, bestProteinPowder2026, bestAromaDiffuser2026, bestBlender2026, bestBabyMonitor2026, bestTabletStand2026, bestShampoo2026, bestPetCamera2026, bestTeaKettle2026, bestStandingDesk2026, bestSunscreen2026, bestWirelessCharger2026, bestHumidifier2026, bestFaceWash2026, bestDeskLamp2026, bestMechanicalKeyboard2026, bestGamingMouse2026, bestWebcam2026, bestElectricShaver2026, bestEspressoMachine2026, bestPortableSpeaker2026, bestFitnessTracker2026];
 
 export function listArticles(): ArticleMeta[] {
   return REGISTRY;

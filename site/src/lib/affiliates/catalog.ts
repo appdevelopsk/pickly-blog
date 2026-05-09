@@ -1494,6 +1494,59 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-amazfit-gtr-4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazfit%2BGTR%2B4%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Fitness Trackers (best-fitness-tracker-2026) ─────────
+  {
+    id: "xiaomi-smart-band-9",
+    category: "fitness",
+    badge: "💴",
+    name: { en: "Xiaomi Smart Band 9", ja: "Xiaomi スマートバンド 9" },
+    description: {
+      en: "~¥5,000 ultra-budget pick. 1.62-inch AMOLED display, 33 g weight (lightest in this comparison), 14-day claimed battery (8–10 days realistic with continuous heart-rate), 150+ sport modes, iOS and Android compatible via Mi Fitness app. Sensor array is smaller than premium trackers — heart-rate accuracy during exercise is lower than Fitbit or Garmin; Mi Fitness analytics ecosystem is thinner than competitors; Xiaomi's after-sales support network in Japan is thin with warranty typically handled through retailer rather than brand service centre.",
+      ja: "約¥5,000の超予算枠。1.62インチAMOLED、33g（本比較最軽量）、公称14日間バッテリー（継続HR有効で実機8〜10日）、150以上のスポーツモード、Mi FitnessアプリでiOS・Android対応。センサーアレイがプレミアムトラッカーより小さく運動中のHR精度はFitbit・Garminより劣る、Mi Fitnessの分析エコシステムは競合より薄い、日本のアフターサービスは直営より販売店経由が主体。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-xiaomi-smart-band-9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXiaomi%2BSmart%2BBand%2B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "garmin-vivosmart-5",
+    category: "fitness",
+    badge: "🔋",
+    name: { en: "Garmin Vivosmart 5", ja: "Garmin Vivosmart 5" },
+    description: {
+      en: "~¥22,000 health-analytics pick. Body Battery energy management, HRV stress score, SpO2, Garmin sleep analysis, slim band form factor, works equally on Android and iOS via Garmin Connect. No built-in GPS — connected GPS only, which means no route tracking without a phone; unusual price-to-feature trade-off for the category; small display with limited smartwatch notification interaction compared to full smart watches.",
+      ja: "約¥22,000の健康分析枠。Body Batteryエネルギー管理・HRVストレススコア・SpO2・Garmin睡眠分析、スリムバンド型、Garmin Connect経由でAndroid・iOS両対応。GPS非内蔵（接続型のみ）でスマートフォンなしのルート追跡不可、この価格帯では異例の価格対機能トレードオフ、フルスマートウォッチと比べて通知操作が限定的な小型ディスプレイ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-garmin-vivosmart-5", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin%2BVivosmart%2B5%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "apple-watch-se-2nd",
+    category: "fitness",
+    badge: "🍎",
+    name: { en: "Apple Watch SE 2nd Generation", ja: "Apple Watch SE 第2世代" },
+    description: {
+      en: "~¥35,000 smartwatch-with-fitness-tracking pick for iPhone users. Crash detection, Emergency SOS, Suica + Apple Pay at every Japanese conbini, full watchOS app store, message replies from the wrist. Requires iPhone — hard dependency, no workaround for Android users. 18-hour real-world battery means daily charging without exception; most expensive option in this comparison by a significant margin.",
+      ja: "約¥35,000のiPhoneユーザー向けフィットネス追跡付きスマートウォッチ枠。クラッシュ検知・緊急SOS・日本中のコンビニでSuica+Apple Pay・watchOSアプリストア・手首でのメッセージ返信。iPhoneが必須——Androidユーザーへの回避策なし。18時間実機バッテリーで例外なく毎日充電、本比較で最も高価。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-apple-watch-se-2nd", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2BWatch%2BSE%2B%E7%AC%AC2%E4%B8%96%E4%BB%A3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "samsung-galaxy-fit-3",
+    category: "fitness",
+    badge: "📱",
+    name: { en: "Samsung Galaxy Fit 3", ja: "Samsung Galaxy Fit 3" },
+    description: {
+      en: "~¥8,000 large-screen budget Android tracker. 1.6-inch display (largest in this comparison), 13-day claimed battery (8–11 days realistic), 50 m water resistance, compatible with any Android phone not just Samsung. No built-in GPS (connected only); Galaxy Wearable app's full analytics depth requires a Samsung phone — feature set is reduced on non-Samsung Android; at ¥8,000, sensor quality and software polish reflect the price.",
+      ja: "約¥8,000の大画面予算Androidトラッカー。1.6インチ画面（本比較最大）、公称13日間バッテリー（実機8〜11日）、50m防水、Samsung以外のすべてのAndroidスマートフォンに対応。GPS非内蔵（接続型のみ）、Galaxy WearableアプリのフルAnalytics深度はSamsungスマートフォンが必要で非Samsung Androidでは機能制限あり、¥8,000という価格がセンサー品質とソフトウェア完成度に反映されている。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-samsung-galaxy-fit-3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSamsung%2BGalaxy%2BFit%2B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Tech / Tablet Stands (best-tablet-stand-2026) ─────────
   {
     id: "lululook-ipad-stand",
@@ -1954,6 +2007,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-microsoft-lifecam-studio", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMicrosoft%2BLifeCam%2BStudio%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Tech / Portable Speakers (best-portable-speaker-2026) ─────────
+  {
+    id: "jbl-flip-6",
+    category: "tech",
+    badge: "🔊",
+    name: { en: "JBL Flip 6", ja: "JBL Flip 6" },
+    description: {
+      en: "~¥15,000 IP67 portable speaker. 12-hour battery, PartyBoost multi-speaker linking, 360-degree passive radiator configuration. Explicit weakness: 12-hour battery is short for all-day outdoor use; passive radiator is not true omnidirectional; PartyBoost is JBL-only.",
+      ja: "約¥15,000のIP67ポータブルスピーカー。12時間バッテリー、PartyBoostマルチスピーカー連結、360度パッシブラジエーター構成。明確な弱点：12時間は終日屋外使用には短い；パッシブラジエーターは真の全指向性ではない；PartyBoostはJBL専用。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-jbl-flip-6", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJBL%2BFlip%2B6%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sony-srs-xb33",
+    category: "tech",
+    badge: "🔊",
+    name: { en: "Sony SRS-XB33", ja: "Sony SRS-XB33" },
+    description: {
+      en: "~¥12,000 IP67 portable speaker. 24-hour battery, EXTRA BASS DSP mode, multi-color LED lighting, built-in microphone. Explicit weakness: EXTRA BASS causes distortion at high volumes; LED lighting reduces battery life significantly; larger and heavier than competitors.",
+      ja: "約¥12,000のIP67ポータブルスピーカー。24時間バッテリー、EXTRA BASS DSPモード、マルチカラーLEDライティング、マイク内蔵。明確な弱点：EXTRA BASSは大音量で歪みを生じる；LEDでバッテリーが大幅に短縮；競合より大きく重い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-sony-srs-xb33", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSony%2BSRS-XB33%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ultimate-ears-boom-3",
+    category: "tech",
+    badge: "🔊",
+    name: { en: "Ultimate Ears BOOM 3", ja: "Ultimate Ears BOOM 3" },
+    description: {
+      en: "~¥15,000 IP67 portable speaker. True 360-degree omnidirectional drivers, 15-hour battery, MagicButton one-tap playback shortcut, floats in water. Explicit weakness: cylindrical form rolls on uneven surfaces; bass less punchy than JBL Flip 6; floats on side not face-up.",
+      ja: "約¥15,000のIP67ポータブルスピーカー。真の360度全指向性ドライバー、15時間バッテリー、MagicButton1タップ再生ショートカット、水に浮く。明確な弱点：円筒形が不安定面で転がる；バスはJBL Flip 6より弱い；横向きで浮く（正面向きではない）。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ultimate-ears-boom-3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUltimate%2BEars%2BBOOM%2B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bose-soundlink-flex",
+    category: "tech",
+    badge: "🔊",
+    name: { en: "Bose SoundLink Flex", ja: "Bose SoundLink Flex" },
+    description: {
+      en: "~¥20,000 IP67 outdoor speaker. PositionIQ adaptive EQ adjusts to placement, 12-hour battery, floats right-side-up in water, outdoor acoustic tuning. Explicit weakness: ¥20,000 premium; 12-hour battery is tied for shortest; no large multi-speaker chain protocol.",
+      ja: "約¥20,000のIP67アウトドアスピーカー。PositionIQ置き方適応EQ、12時間バッテリー、水面で正面向き浮遊、アウトドア音響チューニング。明確な弱点：¥20,000のプレミアム価格；12時間は本比較で最短クラス；大規模マルチスピーカーチェーン非対応。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-bose-soundlink-flex", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBose%2BSoundLink%2BFlex%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anker-soundcore-3",
+    category: "tech",
+    badge: "🔊",
+    name: { en: "Anker Soundcore 3", ja: "Anker Soundcore 3" },
+    description: {
+      en: "~¥5,000 IPX7 budget speaker. 24-hour battery, stereo pairing with second unit, titanium composite drivers. Explicit weakness: audible audio quality gap vs premium options at high volumes; lower maximum output; IPX7 only (no dust protection); stereo pairing only.",
+      ja: "約¥5,000のIPX7バジェットスピーカー。24時間バッテリー、2台目とのステレオペアリング、チタン複合ドライバー。明確な弱点：大音量での高価格帯との音質差は明確；最大出力が低い；防塵対応なしのIPX7のみ；ステレオペアリングのみ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anker-soundcore-3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BSoundcore%2B3%2F", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Home / Mattresses (best-mattress-2026) ─────────
