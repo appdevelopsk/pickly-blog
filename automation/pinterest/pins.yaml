@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 129 articles x 6 variants x 2 locales (en, ja) = 1548 pins (growing)
+# 131 articles x 6 variants x 2 locales (en, ja) = 1572 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -17372,3 +17372,293 @@ pins:
     link: "https://pickly.blog/ja/articles/best-parallette-bars-2026/"
     image_alt: "パラレットバー 自重レベル 選び方 ガイド 2026"
     hashtags: ["パラレット ガイド", "おすすめ パラレット 2026", "自重 ホームジム", "Lシット トレーニング", "パラレット ブランド"]
+
+# ── #130 best-electrolyte-drink-2026 ──────────────────────────────────────
+- id: "best-electrolyte-drink-2026-comparison-en"
+  article_slug: "best-electrolyte-drink-2026"
+  locale: "en"
+  variant: "comparison"
+  board: "food"
+  title: "Best Electrolyte Drinks 2026: LMNT vs Liquid I.V. vs Nuun vs DripDrop"
+  description: |
+    Tested 5 top electrolyte drinks head-to-head. LMNT leads on sodium (1000mg, zero sugar). Liquid I.V. wins for taste and convenience. Nuun Sport is the lowest-calorie tablet option. DripDrop ORS is best for illness recovery. Pedialyte Sport for post-intense-workout rehydration.
+  link: "https://pickly.blog/en/articles/best-electrolyte-drink-2026/"
+  image_alt: "Best electrolyte drinks 2026 comparison LMNT Liquid IV Nuun DripDrop"
+  hashtags: ["electrolyte drink", "best electrolytes 2026", "LMNT vs Liquid IV", "hydration supplement", "sports drink"]
+
+- id: "best-electrolyte-drink-2026-top1-en"
+  article_slug: "best-electrolyte-drink-2026"
+  locale: "en"
+  variant: "top1"
+  board: "food"
+  title: "LMNT Electrolyte Drink: The #1 Pick for Keto & Low-Carb Athletes"
+  description: |
+    LMNT delivers 1000mg sodium, 200mg potassium, 60mg magnesium — zero sugar, zero artificial sweeteners. The Citrus Salt flavor is the crowd favorite. At $1.50/packet, it's pricier than powder mixes but the clean ingredient list makes it worth it for serious athletes and keto dieters.
+  link: "https://pickly.blog/en/articles/best-electrolyte-drink-2026/"
+  image_alt: "LMNT electrolyte drink packets best pick 2026"
+  hashtags: ["LMNT electrolytes", "keto electrolytes", "best hydration drink", "low carb sports drink", "electrolyte packets"]
+
+- id: "best-electrolyte-drink-2026-problem-en"
+  article_slug: "best-electrolyte-drink-2026"
+  locale: "en"
+  variant: "problem"
+  board: "food"
+  title: "Cramping After Workouts? You're Probably Losing Too Much Sodium"
+  description: |
+    Most sports drinks have 100–200mg sodium. After an intense hour-long workout, you lose 900–1400mg in sweat. That gap causes cramps, fatigue, and brain fog. LMNT and DripDrop ORS close that gap — here's how to pick the right one for your training style.
+  link: "https://pickly.blog/en/articles/best-electrolyte-drink-2026/"
+  image_alt: "Electrolyte deficiency cramping workout sodium problem"
+  hashtags: ["workout cramps fix", "electrolyte deficiency", "sodium replacement", "hydration science", "sports performance"]
+
+- id: "best-electrolyte-drink-2026-budget-en"
+  article_slug: "best-electrolyte-drink-2026"
+  locale: "en"
+  variant: "budget"
+  board: "food"
+  title: "Best Budget Electrolyte Drink 2026: Nuun Sport Tabs Under $1/Serving"
+  description: |
+    Nuun Sport tablets run about $0.70/serving — the best value in this comparison. Drop one tab in 16oz water for 300mg sodium, 150mg potassium, and light fruit flavor. No sugar, only 10 calories. A 40-serving tube fits in any gym bag. Great for everyday training without breaking the bank.
+  link: "https://pickly.blog/en/articles/best-electrolyte-drink-2026/"
+  image_alt: "Nuun Sport budget electrolyte tablets best value 2026"
+  hashtags: ["budget electrolytes", "Nuun Sport review", "cheap hydration tablets", "affordable sports drink", "electrolyte value"]
+
+- id: "best-electrolyte-drink-2026-avoid-en"
+  article_slug: "best-electrolyte-drink-2026"
+  locale: "en"
+  variant: "avoid"
+  board: "food"
+  title: "3 Electrolyte Drinks to Avoid (Too Much Sugar, Too Little Sodium)"
+  description: |
+    Many "sports drinks" are 90% sugar water with only 50–100mg sodium. Check labels: you want at least 500mg sodium per serving for real rehydration. Also avoid drinks with artificial dyes or proprietary blends. Our picks are all transparent about exact mg per serving — no guesswork.
+  link: "https://pickly.blog/en/articles/best-electrolyte-drink-2026/"
+  image_alt: "Electrolyte drinks to avoid hidden sugar low sodium warning"
+  hashtags: ["electrolyte drink warning", "sports drink myths", "hidden sugar drinks", "sodium content sports", "electrolyte label guide"]
+
+- id: "best-electrolyte-drink-2026-scene-en"
+  article_slug: "best-electrolyte-drink-2026"
+  locale: "en"
+  variant: "scene"
+  board: "food"
+  title: "Electrolyte Drink for Every Situation: Gym, Travel, Hot Weather & Recovery"
+  description: |
+    Hot yoga and saunas → LMNT (highest sodium). Long-haul flights → Liquid I.V. (convenient single-serve stick). Daily gym sessions → Nuun Sport (low-cal, portable tabs). Sick days/stomach flu → DripDrop ORS (medical-grade formula). Kid-friendly recovery → Pedialyte Sport (light flavor, pediatrician-trusted).
+  link: "https://pickly.blog/en/articles/best-electrolyte-drink-2026/"
+  image_alt: "Electrolyte drink by use case gym travel recovery hot weather"
+  hashtags: ["electrolytes by activity", "gym hydration", "travel electrolytes", "heat exhaustion prevention", "recovery drink guide"]
+
+- id: "best-electrolyte-drink-2026-comparison-ja"
+  article_slug: "best-electrolyte-drink-2026"
+  locale: "ja"
+  variant: "comparison"
+  board: "food"
+  title: "電解質ドリンク 2026年版比較：LMNT vs Liquid I.V. vs Nuun vs DripDrop 徹底検証"
+  description: |
+    5大電解質ドリンクを徹底比較。ナトリウム量最大はLMNT（1000mg・砂糖ゼロ）。飲みやすさ・携帯性ならLiquid I.V.。低カロリー派にはNuunタブレット。回復・病後はDripDrop ORS。Pedialyte Sportは激しい運動後の即時補給に最適。
+  link: "https://pickly.blog/ja/articles/best-electrolyte-drink-2026/"
+  image_alt: "電解質ドリンク 比較 2026 LMNT Liquid IV Nuun DripDrop"
+  hashtags: ["電解質ドリンク", "スポーツドリンク比較 2026", "LMNT 日本", "水分補給 サプリ", "トレーニング 熱中症対策"]
+
+- id: "best-electrolyte-drink-2026-top1-ja"
+  article_slug: "best-electrolyte-drink-2026"
+  locale: "ja"
+  variant: "top1"
+  board: "food"
+  title: "LMNT が電解質ドリンク1位の理由：ナトリウム1000mg・砂糖ゼロ・本格処方"
+  description: |
+    LMNTは1パックにナトリウム1000mg・カリウム200mg・マグネシウム60mgを配合。砂糖・人工甘味料なし。シトラスソルト味が最人気。1パック約200円とやや高めだが、クリーンな成分表示でアスリート・ケトダイエッターに絶大な支持。
+  link: "https://pickly.blog/ja/articles/best-electrolyte-drink-2026/"
+  image_alt: "LMNT 電解質 パウダー おすすめ 2026"
+  hashtags: ["LMNT 電解質", "ケト 電解質補給", "最高の水分補給ドリンク", "低糖質 スポーツドリンク", "電解質 パケット"]
+
+- id: "best-electrolyte-drink-2026-problem-ja"
+  article_slug: "best-electrolyte-drink-2026"
+  locale: "ja"
+  variant: "problem"
+  board: "food"
+  title: "運動後の足がつる原因はナトリウム不足かもしれない"
+  description: |
+    一般的なスポーツドリンクのナトリウムは100〜200mg程度。激しい1時間の運動で失うナトリウムは900〜1400mg。この差がこむら返り・倦怠感・頭痛の主因。LMNTやDripDrop ORSはこのギャップを補える数少ない選択肢。あなたのトレーニングに合った選び方を解説。
+  link: "https://pickly.blog/ja/articles/best-electrolyte-drink-2026/"
+  image_alt: "運動後 足がつる ナトリウム不足 電解質 原因"
+  hashtags: ["こむら返り 対策", "電解質不足 症状", "ナトリウム 補給", "水分補給 科学", "スポーツ パフォーマンス"]
+
+- id: "best-electrolyte-drink-2026-budget-ja"
+  article_slug: "best-electrolyte-drink-2026"
+  locale: "ja"
+  variant: "budget"
+  board: "food"
+  title: "コスパ最高の電解質ドリンク：Nuun Sport タブレットが1杯100円以下"
+  description: |
+    Nuun Sportタブレットは1粒約100円と本比較で最安値。300mgナトリウム・150mgカリウム配合。16ozの水に溶かすだけで軽い果物フレーバー。砂糖ゼロ・10kcal。40粒チューブはジムバッグにも収納可。毎日のトレーニングをコストを抑えて補給したい方に最適。
+  link: "https://pickly.blog/ja/articles/best-electrolyte-drink-2026/"
+  image_alt: "Nuun Sport タブレット コスパ 電解質 おすすめ 2026"
+  hashtags: ["安い 電解質 タブレット", "Nuun Sport レビュー", "コスパ スポーツドリンク", "電解質 プチプラ", "水分補給 節約"]
+
+- id: "best-electrolyte-drink-2026-avoid-ja"
+  article_slug: "best-electrolyte-drink-2026"
+  locale: "ja"
+  variant: "avoid"
+  board: "food"
+  title: "買ってはいけない電解質ドリンク3選：砂糖過多・ナトリウム不足に要注意"
+  description: |
+    「スポーツドリンク」と名乗っていても、ナトリウムが50〜100mgしか入っていない製品は多い。本当の電解質補給には1食あたり最低500mgナトリウムが必要。人工着色料・独自配合ブレンドも要注意。本記事で紹介する製品はすべて成分量が明記されていて信頼性が高い。
+  link: "https://pickly.blog/ja/articles/best-electrolyte-drink-2026/"
+  image_alt: "電解質ドリンク 避けるべき 砂糖 ナトリウム不足 注意"
+  hashtags: ["スポーツドリンク 注意", "電解質 嘘", "砂糖入り 飲料 危険", "ナトリウム 含有量", "電解質 成分表 見方"]
+
+- id: "best-electrolyte-drink-2026-scene-ja"
+  article_slug: "best-electrolyte-drink-2026"
+  locale: "ja"
+  variant: "scene"
+  board: "food"
+  title: "シーン別おすすめ電解質ドリンク：運動・旅行・猛暑・回復に最適な1本"
+  description: |
+    ホットヨガ・サウナ → LMNT（ナトリウム最高量）。長距離フライト → Liquid I.V.（スティック1本で手軽）。毎日のジム → Nuun Sport（低カロリー・携帯タブレット）。病気・胃腸炎後 → DripDrop ORS（医療グレード処方）。子供も飲める回復向け → Pedialyte Sport（マイルドな味・小児科推奨）。
+  link: "https://pickly.blog/ja/articles/best-electrolyte-drink-2026/"
+  image_alt: "電解質ドリンク シーン別 運動 旅行 猛暑 回復 おすすめ"
+  hashtags: ["電解質 シーン別", "ジム 水分補給", "旅行 電解質 持参", "熱中症 予防", "回復 ドリンク 選び方"]
+
+# ── #131 best-pull-up-bar-doorframe-2026 ──────────────────────────────────
+- id: "best-pull-up-bar-doorframe-2026-comparison-en"
+  article_slug: "best-pull-up-bar-doorframe-2026"
+  locale: "en"
+  variant: "comparison"
+  board: "fitness"
+  title: "Best Doorframe Pull-Up Bars 2026: Iron Gym vs Perfect Fitness vs ProSource"
+  description: |
+    Tested 5 top doorframe pull-up bars for grip, stability, and door compatibility. Iron Gym Total is the easiest to install. Perfect Fitness Multi-Gym Pro has the most grip positions. Pullup & Dip is the widest (100cm). Garren Fitness Maximiza fits narrow frames. ProSource has the best knurled grip texture.
+  link: "https://pickly.blog/en/articles/best-pull-up-bar-doorframe-2026/"
+  image_alt: "Best doorframe pull-up bars 2026 comparison Iron Gym Perfect Fitness ProSource"
+  hashtags: ["doorframe pull up bar", "best pull up bar 2026", "home gym equipment", "Iron Gym vs Perfect Fitness", "pull up bar comparison"]
+
+- id: "best-pull-up-bar-doorframe-2026-top1-en"
+  article_slug: "best-pull-up-bar-doorframe-2026"
+  locale: "en"
+  variant: "top1"
+  board: "fitness"
+  title: "Perfect Fitness Multi-Gym Pro: The #1 Doorframe Pull-Up Bar for Versatility"
+  description: |
+    Perfect Fitness Multi-Gym Pro offers 12 grip positions — wide, narrow, neutral, and hammer — all on one bar. Fits doorframes 24–32 inches wide. 300 lb weight capacity. No screws needed; the lever-mount system locks in under 10 seconds. At around $30, it's unmatched for home calisthenics variety.
+  link: "https://pickly.blog/en/articles/best-pull-up-bar-doorframe-2026/"
+  image_alt: "Perfect Fitness Multi-Gym Pro pull-up bar top pick 2026"
+  hashtags: ["Perfect Fitness Multi-Gym Pro", "best pull up bar home", "multi grip pull up bar", "no screw pull up bar", "calisthenics home gym"]
+
+- id: "best-pull-up-bar-doorframe-2026-problem-en"
+  article_slug: "best-pull-up-bar-doorframe-2026"
+  locale: "en"
+  variant: "problem"
+  board: "fitness"
+  title: "No Gym? A $25 Doorframe Bar Replaces Your Lat Pulldown Machine"
+  description: |
+    A lat pulldown machine costs $300–800 and takes up floor space. A doorframe pull-up bar at $25–50 trains the same lats, biceps, and rhomboids — no anchor bolts, no assembly. Friction-mount bars work on standard 24–36 inch frames with trim up to 3.5 inches. Here's how to choose one that won't slip.
+  link: "https://pickly.blog/en/articles/best-pull-up-bar-doorframe-2026/"
+  image_alt: "Doorframe pull up bar replaces lat pulldown machine home gym"
+  hashtags: ["home gym alternative", "pull up bar vs machine", "no equipment workout", "door pull up bar setup", "lat workout at home"]
+
+- id: "best-pull-up-bar-doorframe-2026-budget-en"
+  article_slug: "best-pull-up-bar-doorframe-2026"
+  locale: "en"
+  variant: "budget"
+  board: "fitness"
+  title: "Best Budget Pull-Up Bar 2026: Iron Gym Total Under $25"
+  description: |
+    Iron Gym Total Upper Body Workout Bar costs under $25 and requires zero tools to install. Fits doorframes 24–36 inches wide with trim up to 3.5 inches. 300 lb capacity. The foam-padded grip is comfortable for beginners. Pull-ups, chin-ups, and sit-up anchoring — solid starter bar for anyone building their home gym.
+  link: "https://pickly.blog/en/articles/best-pull-up-bar-doorframe-2026/"
+  image_alt: "Iron Gym Total pull-up bar budget best value 2026"
+  hashtags: ["budget pull up bar", "Iron Gym review", "cheap pull up bar", "home gym under 25 dollars", "doorframe bar beginner"]
+
+- id: "best-pull-up-bar-doorframe-2026-avoid-en"
+  article_slug: "best-pull-up-bar-doorframe-2026"
+  locale: "en"
+  variant: "avoid"
+  board: "fitness"
+  title: "Pull-Up Bar Safety: 3 Features to Check Before You Buy (Slip Prevention)"
+  description: |
+    A slipping pull-up bar mid-rep is a real injury risk. Check these before buying: (1) weight rating ≥ your bodyweight × 1.5 minimum; (2) non-slip rubber or foam on all contact points; (3) door trim compatibility — bars fail on doors with thick molding. All 5 bars in our comparison passed these checks.
+  link: "https://pickly.blog/en/articles/best-pull-up-bar-doorframe-2026/"
+  image_alt: "Pull-up bar safety slip prevention door trim compatibility check"
+  hashtags: ["pull up bar safety", "doorframe bar slip risk", "home gym safety", "pull up bar buying guide", "safe pull up installation"]
+
+- id: "best-pull-up-bar-doorframe-2026-scene-en"
+  article_slug: "best-pull-up-bar-doorframe-2026"
+  locale: "en"
+  variant: "scene"
+  board: "fitness"
+  title: "Which Pull-Up Bar Fits Your Door? Match by Frame Width, Trim & Use Case"
+  description: |
+    Narrow doorframe (60–75cm) → Garren Fitness Maximiza. Standard frame (62–90cm) → Iron Gym or ProSource. Wide frame up to 100cm → Pullup & Dip. Need 12+ grip positions → Perfect Fitness. Travel or rental-friendly (no wall marks) → any lever-mount bar. Trim depth over 3.5 inches? Check door-mounted screw bars instead.
+  link: "https://pickly.blog/en/articles/best-pull-up-bar-doorframe-2026/"
+  image_alt: "Pull-up bar by door frame width use case selection guide 2026"
+  hashtags: ["pull up bar by door size", "doorframe width guide", "home pull up bar selection", "rental apartment gym", "pull up bar travel"]
+
+- id: "best-pull-up-bar-doorframe-2026-comparison-ja"
+  article_slug: "best-pull-up-bar-doorframe-2026"
+  locale: "ja"
+  variant: "comparison"
+  board: "fitness"
+  title: "ドアフレーム懸垂バー 2026年版比較：Iron Gym vs Perfect Fitness vs ProSource 徹底比較"
+  description: |
+    ドアフレーム懸垂バー5製品をグリップ・安定性・ドア幅対応で徹底検証。設置簡単ならIron Gym Total。グリップ種類最多ならPerfect Fitness Multi-Gym Pro。最大幅100cmはPullup & Dip。狭ドア向けはGarren Fitness Maximiza。グリップ滑り止め最優秀はProSource。
+  link: "https://pickly.blog/ja/articles/best-pull-up-bar-doorframe-2026/"
+  image_alt: "ドアフレーム 懸垂バー 比較 2026 Iron Gym Perfect Fitness ProSource"
+  hashtags: ["懸垂バー ドア", "最強 懸垂バー 2026", "ホームジム 器具", "Iron Gym vs Perfect Fitness", "懸垂バー 比較"]
+
+- id: "best-pull-up-bar-doorframe-2026-top1-ja"
+  article_slug: "best-pull-up-bar-doorframe-2026"
+  locale: "ja"
+  variant: "top1"
+  board: "fitness"
+  title: "Perfect Fitness Multi-Gym Pro が懸垂バー1位の理由：12グリップ・工具不要・耐荷重136kg"
+  description: |
+    Perfect Fitness Multi-Gym Proはワイド・ナロー・ニュートラル・ハンマーグリップ合計12ポジションを搭載。ドア幅61〜81cmに対応。耐荷重136kg。レバーマウント式で工具なし・10秒で設置完了。約4,000円でホームジムの懸垂種目を完全網羅できるコスパ最高の1本。
+  link: "https://pickly.blog/ja/articles/best-pull-up-bar-doorframe-2026/"
+  image_alt: "Perfect Fitness Multi-Gym Pro 懸垂バー おすすめ 2026"
+  hashtags: ["Perfect Fitness 懸垂バー", "マルチグリップ 懸垂", "自重トレーニング ドア", "工具不要 懸垂バー", "自重 ホームジム おすすめ"]
+
+- id: "best-pull-up-bar-doorframe-2026-problem-ja"
+  article_slug: "best-pull-up-bar-doorframe-2026"
+  locale: "ja"
+  variant: "problem"
+  board: "fitness"
+  title: "ジムなし・スペースなし → ドア懸垂バー1本で広背筋ホームトレーニング完結"
+  description: |
+    ラットプルダウンマシンは3万〜10万円・設置スペース必須。ドア懸垂バーなら3,000〜6,000円で同じ広背筋・上腕二頭筋・菱形筋をトレーニング可能。アンカーボルト不要・賃貸OK。ドア幅61〜90cmあれば設置できるモデルを3製品厳選して紹介。
+  link: "https://pickly.blog/ja/articles/best-pull-up-bar-doorframe-2026/"
+  image_alt: "ドア 懸垂バー ラットプルダウン代替 ホームジム"
+  hashtags: ["ホームジム 代替", "懸垂バー vs マシン", "器具なし 背中トレーニング", "ドア 懸垂バー 設置", "広背筋 自宅"]
+
+- id: "best-pull-up-bar-doorframe-2026-budget-ja"
+  article_slug: "best-pull-up-bar-doorframe-2026"
+  locale: "ja"
+  variant: "budget"
+  board: "fitness"
+  title: "コスパ最強ドア懸垂バー 2026：Iron Gym Total が3,000円以下で入門に最適"
+  description: |
+    Iron Gym Total Upper Body Workout Barは3,000円以下で購入可能。工具不要・ドア幅61〜91cm対応・耐荷重136kg。フォームパッドグリップで初心者にも優しい。懸垂・チンアップ・腹筋補助の3役をこなす基本モデル。ホームジム入門として最適なコスパの1本。
+  link: "https://pickly.blog/ja/articles/best-pull-up-bar-doorframe-2026/"
+  image_alt: "Iron Gym Total 懸垂バー コスパ 安い 2026"
+  hashtags: ["懸垂バー 安い", "Iron Gym レビュー", "コスパ 懸垂バー", "3000円 ホームジム", "初心者 懸垂バー"]
+
+- id: "best-pull-up-bar-doorframe-2026-avoid-ja"
+  article_slug: "best-pull-up-bar-doorframe-2026"
+  locale: "ja"
+  variant: "avoid"
+  board: "fitness"
+  title: "懸垂バーで怪我しないために：落下リスクを防ぐ3つのチェックポイント"
+  description: |
+    懸垂中にバーが外れる事故は実際に起きている。購入前に確認すべき3点：①耐荷重が自分の体重×1.5以上か；②ゴム・フォームの滑り止めが接触面全てにあるか；③ドアの上枠の出幅（モールディング）が9cm以内か。本記事の5製品はすべてこのチェックをクリア済み。
+  link: "https://pickly.blog/ja/articles/best-pull-up-bar-doorframe-2026/"
+  image_alt: "懸垂バー 安全 落下防止 ドア 枠幅 チェックポイント"
+  hashtags: ["懸垂バー 安全", "ドアバー 落下防止", "ホームジム 安全対策", "懸垂バー 選び方", "安全な懸垂 設置方法"]
+
+- id: "best-pull-up-bar-doorframe-2026-scene-ja"
+  article_slug: "best-pull-up-bar-doorframe-2026"
+  locale: "ja"
+  variant: "scene"
+  board: "fitness"
+  title: "ドア幅・枠・用途別おすすめ懸垂バー：賃貸・狭間口・広間口 それぞれ最適モデル"
+  description: |
+    狭い間口（60〜75cm） → Garren Fitness Maximiza。標準間口（62〜90cm） → Iron GymまたはProSource。幅広間口（最大100cm） → Pullup & Dip。グリップ種類重視 → Perfect Fitness。賃貸・壁に傷をつけたくない → レバーマウント式全般。モールディングが9cm超 → ネジ固定型を別途検討。
+  link: "https://pickly.blog/ja/articles/best-pull-up-bar-doorframe-2026/"
+  image_alt: "懸垂バー ドア幅 用途別 選び方 2026"
+  hashtags: ["懸垂バー ドア幅 選び方", "賃貸 懸垂バー 傷なし", "ホームジム 器具 選択", "ドア 懸垂バー おすすめ", "自重トレ 器具"]
