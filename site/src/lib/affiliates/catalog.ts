@@ -7418,6 +7418,144 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-zeiser-battle-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%88%E3%83%AB%E3%83%AD%E3%83%BC%E3%83%97%2B%E3%82%BB%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Gymnastic Rings (best-gymnastic-rings-2026) ─────────
+  {
+    id: "nayoya-gymnastic-rings",
+    category: "fitness",
+    badge: "🔴",
+    name: { en: "Nayoya Gymnastic Rings", ja: "Nayoya 体操リング" },
+    description: {
+      en: "1.1\" birch wood rings with 15-foot numbered nylon straps. Beginner-friendly diameter, smooth finish. Best entry-level pick.",
+      ja: "直径1.1インチのバーチ材リング、15フィートの番号付きナイロンストラップ付き。初心者向け径でスムーズな仕上げ。エントリーモデルの最良選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-nayoya-gymnastic-rings", rawUrl: "https://www.amazon.co.jp/s?k=Nayoya+Gymnastic+Rings+wooden", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nayoya-gymnastic-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E6%9C%A8%E8%A3%BD%2B%E5%88%9D%E5%BF%83%E8%80%85%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "spri-wooden-rings",
+    category: "fitness",
+    badge: "🏅",
+    name: { en: "SPRI Wooden Gymnastic Rings", ja: "SPRI ウッド体操リング" },
+    description: {
+      en: "Commercial-quality 1.25\" wooden rings with numbered inch markings on straps. 600 lb weight limit. Ideal for shared use.",
+      ja: "業務用品質の直径1.25インチ木製リング。ストラップにインチ番号マーキング付き。耐荷重272kg。共用に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-spri-wooden-rings", rawUrl: "https://www.amazon.co.jp/s?k=SPRI+wooden+gymnastic+rings", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-spri-wooden-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B1.25%E3%82%A4%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-wood-rings",
+    category: "fitness",
+    badge: "🏆",
+    name: { en: "Rogue Wood Rings", ja: "Rogue ウッドリング" },
+    description: {
+      en: "Premium Baltic birch gymnastic rings used in CrossFit competition. 1.25\" diameter, 1.5\" nylon straps with stainless steel buckles.",
+      ja: "クロスフィット競技で使用されるバルティックバーチの最高峰体操リング。直径1.25インチ、幅1.5インチナイロンストラップとステンレス鋼バックル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-rogue-wood-rings", rawUrl: "https://www.amazon.co.jp/s?k=Rogue+Wood+Rings+gymnastic+Baltic+birch", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-wood-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E3%83%90%E3%83%AB%E3%83%81%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "elite-fts-gymnastic-rings",
+    category: "fitness",
+    badge: "✈️",
+    name: { en: "Elite FTS Gymnastic Rings", ja: "Elite FTS 体操リング" },
+    description: {
+      en: "Lightweight aluminum gymnastic rings — roughly half the weight of wood. Textured grip surface. Best pick for travel and portability.",
+      ja: "木製の約半分の重量のアルミ製体操リング。テクスチャー加工グリップ。旅行・携帯性に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-elite-fts-gymnastic-rings", rawUrl: "https://www.amazon.co.jp/s?k=Elite+FTS+gymnastic+rings+aluminum", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-elite-fts-gymnastic-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E3%82%A2%E3%83%AB%E3%83%9F%E8%A3%BD%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-fitness-rings",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Titan Fitness Wooden Rings", ja: "Titan Fitness ウッドリング" },
+    description: {
+      en: "1.25\" wood gymnastic rings with 15-foot adjustable straps. Solid construction at the best price in this comparison.",
+      ja: "直径1.25インチの木製体操リング。15フィートの調整可能なストラップ付き。この比較で最高のコスパ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-titan-fitness-rings", rawUrl: "https://www.amazon.co.jp/s?k=Titan+Fitness+gymnastic+rings+wood", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-fitness-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E6%9C%A8%E8%A3%BD%2B%E3%82%B3%E3%82%B9%E3%83%91%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // best-sparkling-water-2026
+  {
+    id: "liquid-death-mountain-water",
+    category: "food",
+    name: { en: "Liquid Death Mountain Water", ja: "リキッドデス マウンテンウォーター" },
+    description: {
+      en: "Austrian Alps-sourced sparkling water in 16.9oz aluminum cans, aggressive carbonation, cult brand favored at concerts and bars",
+      ja: "オーストリアアルプス源の強炭酸水、16.9オンスアルミ缶、コンサートやバーで人気のカルトブランド",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-liquid-death-mountain-water", rawUrl: "https://www.amazon.co.jp/s?k=liquid+death+sparkling+water", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-liquid-death-mountain-water", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fliquid+death+%E7%82%AD%E9%85%B8%E6%B0%B4%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "topo-chico-mineral-water",
+    category: "food",
+    name: { en: "Topo Chico Mineral Water", ja: "トポチコ ミネラルウォーター" },
+    description: {
+      en: "Mexican mineral sparkling water sourced from Monterrey since 1895, high tight carbonation, the bartender's go-to mixer",
+      ja: "1895年からモンテレイ産のメキシコ天然ミネラルスパークリングウォーター、強くキレのある炭酸、バーテンダー御用達のミキサー",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-topo-chico-mineral-water", rawUrl: "https://www.amazon.co.jp/s?k=topo+chico+sparkling+water", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-topo-chico-mineral-water", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%9D%E3%83%81%E3%82%B3%2B%E3%83%9F%E3%83%8D%E3%83%A9%E3%83%AB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "perrier-sparkling-water",
+    category: "food",
+    name: { en: "Perrier Sparkling Water", ja: "ペリエ スパークリングウォーター" },
+    description: {
+      en: "French natural mineral sparkling water in iconic green glass bottle since 1863, medium carbonation, clean mineral taste",
+      ja: "1863年から続くフランスの天然ミネラル炭酸水、アイコニックな緑のガラス瓶、中程度の炭酸、澄んだミネラル味",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-perrier-sparkling-water", rawUrl: "https://www.amazon.co.jp/s?k=perrier+%E7%82%AD%E9%85%B8%E6%B0%B4", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-perrier-sparkling-water", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9A%E3%83%AA%E3%82%A8%2B%E7%82%AD%E9%85%B8%E6%B0%B4%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "la-croix-sparkling-water",
+    category: "food",
+    name: { en: "La Croix Sparkling Water", ja: "ラ・クロワ スパークリングウォーター" },
+    description: {
+      en: "Light carbonation, 20+ natural essence flavors, zero calories, zero sweeteners — the everyday sparkling water for high-volume drinkers",
+      ja: "軽炭酸、20種類以上の天然エッセンスフレーバー、ゼロカロリー・甘味料ゼロ——大量に飲む人向けの日常炭酸水",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-la-croix-sparkling-water", rawUrl: "https://www.amazon.co.jp/s?k=la+croix+sparkling+water", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-la-croix-sparkling-water", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%82%AF%E3%83%AD%E3%83%AF%2B%E7%82%AD%E9%85%B8%E6%B0%B4%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "spindrift-sparkling-water",
+    category: "food",
+    name: { en: "Spindrift Sparkling Water", ja: "スピンドリフト スパークリングウォーター" },
+    description: {
+      en: "Made with real squeezed fruit juice, 9–17 calories per can, natural fruit flavor without artificial additives",
+      ja: "本物の絞り果汁使用、1缶あたり9〜17カロリー、人工添加物なしの天然フルーツフレーバー",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-spindrift-sparkling-water", rawUrl: "https://www.amazon.co.jp/s?k=spindrift+sparkling+water+fruit", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-spindrift-sparkling-water", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%9E%9C%E6%B1%81%E5%85%A5%E3%82%8A%2B%E7%82%AD%E9%85%B8%E6%B0%B4%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
