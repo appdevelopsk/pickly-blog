@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 99 articles x 6 variants x 2 locales (en, ja) = 1196 pins (growing)
+# 101 articles x 6 variants x 2 locales (en, ja) = 1220 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -13382,3 +13382,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-kettlebell-2026/"
     image_alt: "ケトルベル 目標別 選び方 ガイド ホームジム 2026"
     hashtags: ["ケトルベル", "ホームジム", "筋トレ", "ケトルベルガイド", "アウトドアギア"]
+
+  # ── #100 best-coffee-subscription-2026 ──────────────────────────────────
+  - pin_id: best-coffee-subscription-2026-en-01
+    article_slug: best-coffee-subscription-2026
+    locale: en
+    variant: comparison
+    title: "Best Coffee Subscriptions 2026: 5 Services Compared for Freshness and Price"
+    description: |
+      Trade Coffee vs Atlas Coffee Club vs Onyx Coffee Lab vs Angels' Cup vs Peet's. Roast-date freshness, personalized vs curated selection, grind options, price per oz, and pause flexibility — the details that separate great morning coffee from expensive mediocrity.
+    link: "https://pickly.blog/en/articles/best-coffee-subscription-2026/"
+    image_alt: "best coffee subscriptions 2026 comparison freshness price"
+    hashtags: ["CoffeeSubscription", "SpecialtyCoffee", "CoffeeLover", "CoffeeAtHome", "MorningCoffee"]
+
+  - pin_id: best-coffee-subscription-2026-en-02
+    article_slug: best-coffee-subscription-2026
+    locale: en
+    variant: top1
+    title: "Trade Coffee: Best Personalized Coffee Subscription 2026"
+    description: |
+      AI-matched whole bean from 60+ roasters, ships within 1–2 days of roast, $14–22/bag. Trade's quiz learns your taste profile and adjusts with each rating. The widest roaster network in this comparison — so you're not limited to one brand's house style. Best for coffee drinkers who don't know exactly what they want yet.
+    link: "https://pickly.blog/en/articles/best-coffee-subscription-2026/"
+    image_alt: "Trade Coffee subscription personalized whole bean 2026"
+    hashtags: ["TradeCoffee", "CoffeeSubscription", "SpecialtyCoffee", "WholeBeanCoffee", "CoffeeLover"]
+
+  - pin_id: best-coffee-subscription-2026-en-03
+    article_slug: best-coffee-subscription-2026
+    locale: en
+    variant: problem
+    title: "Why Your Coffee Tastes Stale Every Morning (It's the Roast Date)"
+    description: |
+      Grocery store coffee is roasted 6–12 months before you buy it. CO2 off-gassing stops protecting the bean at 2–4 weeks post-roast. Pre-ground loses aroma in 30 minutes after grinding. A subscription that ships within days of roasting changes the taste more than any grinder upgrade. The roast date matters most.
+    link: "https://pickly.blog/en/articles/best-coffee-subscription-2026/"
+    image_alt: "coffee stale roast date problem subscription freshness"
+    hashtags: ["CoffeeTips", "SpecialtyCoffee", "CoffeeAtHome", "CoffeeSubscription", "FreshCoffee"]
+
+  - pin_id: best-coffee-subscription-2026-en-04
+    article_slug: best-coffee-subscription-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Coffee Subscription 2026: Peet's from $12/bag"
+    description: |
+      Peet's Major Dickason's Blend subscription starts at ~$12/bag with free shipping — the lowest per-oz cost in this comparison. Available whole bean or pre-ground. Not single-origin specialty, but it's consistent, roast-date stamped, and better than most grocery alternatives. Easiest pause/skip management of the group.
+    link: "https://pickly.blog/en/articles/best-coffee-subscription-2026/"
+    image_alt: "Peet's Coffee subscription budget affordable 2026"
+    hashtags: ["BudgetCoffee", "PeetsCoffee", "CoffeeSubscription", "CoffeeSavings", "MorningCoffee"]
+
+  - pin_id: best-coffee-subscription-2026-en-05
+    article_slug: best-coffee-subscription-2026
+    locale: en
+    variant: avoid
+    title: "4 Coffee Subscription Mistakes That Waste Money"
+    description: |
+      Choosing by bag aesthetics: pretty packaging ≠ fresh roast. Ordering pre-ground: flavor half-life is 30 minutes. No-pause subscriptions: if you travel or skip a week, beans go stale before you can drink them. Single-origin only: without tasting context, you can't tell if light roast is the problem or your brewing technique.
+    link: "https://pickly.blog/en/articles/best-coffee-subscription-2026/"
+    image_alt: "coffee subscription mistakes avoid stale pre-ground"
+    hashtags: ["CoffeeMistakes", "CoffeeSubscription", "CoffeeTips", "SpecialtyCoffee", "CoffeeAtHome"]
+
+  - pin_id: best-coffee-subscription-2026-en-06
+    article_slug: best-coffee-subscription-2026
+    locale: en
+    variant: scene
+    title: "Which Coffee Subscription Matches Your Coffee Personality?"
+    description: |
+      Don't know what you like → Trade Coffee (AI quiz, 60+ roasters). Love travel + origin stories → Atlas Coffee Club (new country monthly). Serious about specialty → Onyx Coffee Lab (roast-to-order). Want blind tasting fun → Angels' Cup (cupping experience). Simple and affordable → Peet's subscription.
+    link: "https://pickly.blog/en/articles/best-coffee-subscription-2026/"
+    image_alt: "coffee subscription guide which to choose personality 2026"
+    hashtags: ["CoffeeSubscription", "SpecialtyCoffee", "CoffeeGuide", "CoffeeLover", "MorningCoffee"]
+
+  - pin_id: best-coffee-subscription-2026-ja-01
+    article_slug: best-coffee-subscription-2026
+    locale: ja
+    variant: comparison
+    title: "コーヒーサブスク おすすめ2026：鮮度・品揃え・コスパで5サービス比較"
+    description: |
+      Trade Coffee・Atlas Coffee Club・Onyx Coffee Lab・Angels' Cup・Peetをロースト日鮮度・パーソナライズvsキュレーション・挽き方オプション・1oz価格・停止柔軟性で比較。毎朝のコーヒーが劇的に変わる選び方。
+    link: "https://pickly.blog/ja/articles/best-coffee-subscription-2026/"
+    image_alt: "コーヒー サブスク おすすめ 2026 鮮度 コスパ 比較"
+    hashtags: ["コーヒーサブスク", "おすすめ", "スペシャルティコーヒー", "コーヒー", "サブスクリプション"]
+
+  - pin_id: best-coffee-subscription-2026-ja-02
+    article_slug: best-coffee-subscription-2026
+    locale: ja
+    variant: top1
+    title: "Trade Coffee：最高のパーソナライズコーヒーサブスク2026"
+    description: |
+      60以上のロースターからAIマッチング、ロースト後1〜2日以内に発送、$14〜22/袋。評価するたびにプロファイルが学習する。このリスト最大のロースターネットワークで1ブランドの味に縛られない。自分の好みがまだわからない人の出発点として最適。
+    link: "https://pickly.blog/ja/articles/best-coffee-subscription-2026/"
+    image_alt: "Trade Coffee サブスク パーソナライズ ホールビーン 2026"
+    hashtags: ["TradeCoffee", "コーヒーサブスク", "スペシャルティコーヒー", "ホールビーン", "コーヒー"]
+
+  - pin_id: best-coffee-subscription-2026-ja-03
+    article_slug: best-coffee-subscription-2026
+    locale: ja
+    variant: problem
+    title: "毎朝コーヒーが美味しくない本当の理由——ロースト日の話"
+    description: |
+      スーパーのコーヒーはロースト後6〜12ヶ月経過したものが多い。CO2ガスによる酸化防止効果はロースト後2〜4週間で消える。挽き豆は粉砕30分でアロマが半分以下に。ロースト数日以内に届くサブスクはどんなグラインダー投資より味の変化が大きい。
+    link: "https://pickly.blog/ja/articles/best-coffee-subscription-2026/"
+    image_alt: "コーヒー 古い ロースト日 問題 サブスク 鮮度"
+    hashtags: ["コーヒー 鮮度", "スペシャルティコーヒー", "コーヒーサブスク", "コーヒー", "ロースト日"]
+
+  - pin_id: best-coffee-subscription-2026-ja-04
+    article_slug: best-coffee-subscription-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強コーヒーサブスク2026：Peet's 約$12/袋〜"
+    description: |
+      Peet'sのMajor Dickason's Blendサブスクは送料無料で約$12/袋——このリスト最安のoz単価。ホールビーンも挽き豆も選択可。シングルオリジンスペシャルティではないが、ロースト日記載で一貫した品質。一時停止・スキップ管理も最もシンプル。
+    link: "https://pickly.blog/ja/articles/best-coffee-subscription-2026/"
+    image_alt: "Peet's Coffee サブスク コスパ 格安 2026"
+    hashtags: ["コスパ コーヒー", "PeetsCoffee", "コーヒーサブスク", "コーヒー 節約", "毎朝コーヒー"]
+
+  - pin_id: best-coffee-subscription-2026-ja-05
+    article_slug: best-coffee-subscription-2026
+    locale: ja
+    variant: avoid
+    title: "コーヒーサブスクで損する4つのミス"
+    description: |
+      パッケージで選ぶ：見た目よりロースト日が重要。挽き豆を注文する：香りの半減期は30分。停止できないサブスク：旅行で飲めない週に豆が劣化する。シングルオリジンのみ：自分の好みがわからないうちに絞ると選択肢を狭めすぎる。
+    link: "https://pickly.blog/ja/articles/best-coffee-subscription-2026/"
+    image_alt: "コーヒーサブスク 失敗 注意点 挽き豆 鮮度"
+    hashtags: ["コーヒーサブスク 失敗", "コーヒー", "スペシャルティコーヒー", "サブスク 注意", "コーヒー 選び方"]
+
+  - pin_id: best-coffee-subscription-2026-ja-06
+    article_slug: best-coffee-subscription-2026
+    locale: ja
+    variant: scene
+    title: "コーヒー好きのタイプ別：サブスクの選び方ガイド"
+    description: |
+      好みがまだわからない → Trade Coffee（AIクイズ・60ロースター以上）。産地の旅を楽しみたい → Atlas Coffee Club（毎月新産地）。スペシャルティ本気派 → Onyx Coffee Lab（注文後ロースト）。ブラインドテイスティング好き → Angels' Cup。シンプル＆コスパ → Peet'sサブスク。
+    link: "https://pickly.blog/ja/articles/best-coffee-subscription-2026/"
+    image_alt: "コーヒーサブスク タイプ別 選び方 ガイド 2026"
+    hashtags: ["コーヒーサブスク", "スペシャルティコーヒー", "コーヒーガイド", "コーヒー好き", "毎朝コーヒー"]
+
+  # ── #101 best-pull-up-bar-2026 ───────────────────────────────────────────
+  - pin_id: best-pull-up-bar-2026-en-01
+    article_slug: best-pull-up-bar-2026
+    locale: en
+    variant: comparison
+    title: "Best Pull-Up Bars 2026: Doorframe vs Wall-Mount vs Freestanding"
+    description: |
+      Iron Gym vs Fitness Reality 810XLT vs ROGUE Matador vs ProsourceFit vs Gorilla Bow. Weight capacity, grip positions, door frame damage risk, kipping allowance, and installation effort compared — so you get a bar that holds your weight and stays in place.
+    link: "https://pickly.blog/en/articles/best-pull-up-bar-2026/"
+    image_alt: "best pull-up bars 2026 doorframe wall-mount comparison"
+    hashtags: ["PullUpBar", "HomeGym", "CalisthenicsGear", "BodyweightTraining", "FitnessGear"]
+
+  - pin_id: best-pull-up-bar-2026-en-02
+    article_slug: best-pull-up-bar-2026
+    locale: en
+    variant: top1
+    title: "Iron Gym Total Upper Body Bar: Best No-Tools Doorframe Pull-Up Bar"
+    description: |
+      Over-the-door leverage mount with no drilling, no screws — installed and removed in 30 seconds. Works on standard 24–36-inch doorframes with 3–4 inch trim. Multiple grip positions. 300 lb capacity. Not rated for kipping movements. The go-to first pull-up bar for renters or anyone not ready to drill.
+    link: "https://pickly.blog/en/articles/best-pull-up-bar-2026/"
+    image_alt: "Iron Gym pull-up bar doorframe no drill 2026"
+    hashtags: ["IronGym", "PullUpBar", "HomeGym", "NoEquipmentGym", "BodyweightTraining"]
+
+  - pin_id: best-pull-up-bar-2026-en-03
+    article_slug: best-pull-up-bar-2026
+    locale: en
+    variant: problem
+    title: "Why Doorframe Pull-Up Bars Damage Your Door Frame (and How to Prevent It)"
+    description: |
+      Over-the-door bars concentrate 2–3× bodyweight force on the trim during kipping and dynamic movements. Cheap bars flex laterally and dig into paint. Thin apartment door trim (under 2 inches) can crack. The solution: wall-mount for serious training, use proper technique with doorframe bars for static pulls only.
+    link: "https://pickly.blog/en/articles/best-pull-up-bar-2026/"
+    image_alt: "pull-up bar door frame damage problem kipping"
+    hashtags: ["PullUpBarProblems", "HomeGym", "CalisthenicsGear", "FitnessTips", "BodyweightTraining"]
+
+  - pin_id: best-pull-up-bar-2026-en-04
+    article_slug: best-pull-up-bar-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Pull-Up Bar 2026: ProsourceFit Doorway Chin-Up at $25"
+    description: |
+      ProsourceFit's doorway chinup bar fits 24–36-inch door frames, foam grip handles, 300 lb capacity, multiple hand positions. At $25, it's the most accessible entry into pull-up training. Same caveat as all doorframe bars: no kipping, no momentum — static strict form only to protect your trim.
+    link: "https://pickly.blog/en/articles/best-pull-up-bar-2026/"
+    image_alt: "ProsourceFit doorway pull-up bar budget 2026"
+    hashtags: ["BudgetPullUpBar", "ProsourceFit", "HomeGym", "BodyweightTraining", "CalisthenicsGear"]
+
+  - pin_id: best-pull-up-bar-2026-en-05
+    article_slug: best-pull-up-bar-2026
+    locale: en
+    variant: avoid
+    title: "5 Pull-Up Bar Mistakes That Lead to Falls and Damaged Doors"
+    description: |
+      Kipping on a doorframe bar: the lateral force wasn't designed for. Buying for a door with trim under 2 inches: the bar will rock. Ignoring weight capacity with dynamic movements: 200 lb static ≠ 200 lb kipping (force multiplier is 2–3×). No chalk or grippy gloves on cheap foam handles: grip failure mid-rep. Wall-mounting into drywall only: must hit studs.
+    link: "https://pickly.blog/en/articles/best-pull-up-bar-2026/"
+    image_alt: "pull-up bar mistakes fall damage door frame avoid"
+    hashtags: ["PullUpBarMistakes", "HomeGym", "SafetyFirst", "CalisthenicsGear", "FitnessTips"]
+
+  - pin_id: best-pull-up-bar-2026-en-06
+    article_slug: best-pull-up-bar-2026
+    locale: en
+    variant: scene
+    title: "Which Pull-Up Bar for Your Space and Training Style?"
+    description: |
+      Renter, no drilling → Iron Gym Total Body Bar (30-sec install). Regular training, own home → Fitness Reality 810XLT (wall-mount stud anchor). Kipping + heavy lifting → ROGUE Matador (3-inch mount plate, serious capacity). Budget first bar → ProsourceFit $25. No doorframe at all → Gorilla Bow freestanding.
+    link: "https://pickly.blog/en/articles/best-pull-up-bar-2026/"
+    image_alt: "pull-up bar guide which to buy space training style 2026"
+    hashtags: ["PullUpBar", "HomeGym", "CalisthenicsGear", "BodyweightTraining", "FitnessGuide"]
+
+  - pin_id: best-pull-up-bar-2026-ja-01
+    article_slug: best-pull-up-bar-2026
+    locale: ja
+    variant: comparison
+    title: "懸垂バーおすすめ2026：ドア枠vs壁取付けvs自立式を徹底比較"
+    description: |
+      Iron Gym・Fitness Reality 810XLT・ROGUE Matador・ProsourceFit・Gorilla Bowを耐荷重・グリップ位置・ドア枠ダメージリスク・キッピング可否・設置難度で比較。自分のスペースとトレーニングに合う懸垂バーが決まる。
+    link: "https://pickly.blog/ja/articles/best-pull-up-bar-2026/"
+    image_alt: "懸垂バー おすすめ 2026 ドア枠 壁取付け 比較"
+    hashtags: ["懸垂バー", "ホームジム", "自重トレーニング", "おすすめ", "筋トレ"]
+
+  - pin_id: best-pull-up-bar-2026-ja-02
+    article_slug: best-pull-up-bar-2026
+    locale: ja
+    variant: top1
+    title: "Iron Gym Total Upper Body Bar：穴あけ不要ドア枠懸垂バーの定番"
+    description: |
+      ドリル不要・30秒で取り付け・取り外し可能。幅60〜90cmのドア枠に対応、耐荷重136kg。複数グリップ位置対応。キッピング動作は非推奨。賃貸や「とりあえず試したい」人の最初の懸垂バーとして鉄板の選択。
+    link: "https://pickly.blog/ja/articles/best-pull-up-bar-2026/"
+    image_alt: "Iron Gym 懸垂バー ドア枠 穴あけ不要 2026"
+    hashtags: ["IronGym", "懸垂バー", "ホームジム", "賃貸 筋トレ", "自重トレーニング"]
+
+  - pin_id: best-pull-up-bar-2026-ja-03
+    article_slug: best-pull-up-bar-2026
+    locale: ja
+    variant: problem
+    title: "ドア枠懸垂バーが枠を傷める理由と対策"
+    description: |
+      キッピングや反動を使うと体重の2〜3倍の横方向の力が枠に集中する。安物は横ブレしてペンキを傷める。5cm未満の薄い枠は割れることがある。対策：本格トレーニングは壁取付け式、ドア枠タイプは厳格な静的プルのみで使う。
+    link: "https://pickly.blog/ja/articles/best-pull-up-bar-2026/"
+    image_alt: "懸垂バー ドア枠 傷 キッピング 問題 対策"
+    hashtags: ["懸垂バー 問題", "ホームジム", "自重トレーニング", "筋トレ", "ドア枠 保護"]
+
+  - pin_id: best-pull-up-bar-2026-ja-04
+    article_slug: best-pull-up-bar-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強懸垂バー2026：ProsourceFit ドア枠タイプ 約4,000円"
+    description: |
+      幅60〜90cmのドア枠対応、フォームグリップ、耐荷重136kg、複数グリップ位置。約$25（約4,000円）で懸垂トレーニングを始められる最安エントリー。注意：ドア枠タイプ共通の制限——反動・キッピングなし、静的な引き上げのみ。
+    link: "https://pickly.blog/ja/articles/best-pull-up-bar-2026/"
+    image_alt: "ProsourceFit 懸垂バー コスパ ドア枠 2026"
+    hashtags: ["コスパ 懸垂バー", "ProsourceFit", "ホームジム", "自重トレーニング", "懸垂"]
+
+  - pin_id: best-pull-up-bar-2026-ja-05
+    article_slug: best-pull-up-bar-2026
+    locale: ja
+    variant: avoid
+    title: "転落とドア破損を招く懸垂バー選びの5つのミス"
+    description: |
+      ドア枠タイプでキッピング：横方向の力は設計外。枠幅5cm未満のドアに設置：バーがグラつく。動的動作での耐荷重を信頼：「体重60kg対応」はキッピングで120〜180kgに相当。滑りやすいフォームグリップのみ：握力失敗でバーから落下。石膏ボードのみへの壁取付け：必ず柱（スタッド）に打ち込む。
+    link: "https://pickly.blog/ja/articles/best-pull-up-bar-2026/"
+    image_alt: "懸垂バー 失敗 転落 ドア 傷 注意点"
+    hashtags: ["懸垂バー 失敗", "ホームジム", "安全", "自重トレーニング", "筋トレ 注意"]
+
+  - pin_id: best-pull-up-bar-2026-ja-06
+    article_slug: best-pull-up-bar-2026
+    locale: ja
+    variant: scene
+    title: "スペースとトレーニングスタイル別：懸垂バーの選び方"
+    description: |
+      賃貸・穴あけ不可 → Iron Gym（30秒取付）。自宅・本格トレーニング → Fitness Reality 810XLT（壁柱固定）。キッピング・高重量 → ROGUE Matador（3インチ取付板）。最初の1本・予算重視 → ProsourceFit 約4,000円。ドア枠なし → Gorilla Bow 自立式。
+    link: "https://pickly.blog/ja/articles/best-pull-up-bar-2026/"
+    image_alt: "懸垂バー スタイル別 選び方 ガイド ホームジム 2026"
+    hashtags: ["懸垂バー", "ホームジム", "自重トレーニング", "懸垂 ガイド", "筋トレ"]
