@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 137 articles x 6 variants x 2 locales (en, ja) = 1644 pins (growing)
+# 139 articles x 6 variants x 2 locales (en, ja) = 1668 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -18532,3 +18532,293 @@ pins:
   link: "https://pickly.blog/ja/articles/best-adjustable-dumbbell-set-2026/"
   image_alt: "可変ダンベル トレーニングスタイル別 入門 毎日 ヘビーリフター"
   hashtags: ["可変ダンベル スタイル別", "初心者 ダンベルセット", "本格 ホームジム ダンベル", "ヘビー ダンベル トレーニング", "ダンベル 選び方 ガイド"]
+
+# ── #138 best-espresso-machine-under-200-2026 ─────────────────────────────
+- id: "best-espresso-machine-under-200-2026-comparison-en"
+  article_slug: "best-espresso-machine-under-200-2026"
+  locale: "en"
+  variant: "comparison"
+  board: "food"
+  title: "Best Espresso Machines Under $200 (2026): De'Longhi vs Breville vs Nespresso"
+  description: |
+    Tested 5 sub-$200 espresso machines on shot quality, steam wand performance, and ease of use. De'Longhi EC155M gives the most barista control at $100. Breville Bambino auto-steams milk in 3 seconds. Nespresso Essenza Mini makes foolproof shots with capsules. Mr. Coffee ECMP50 is the best all-in-one beginner machine. Hamilton Beach is the cheapest entry point.
+  link: "https://pickly.blog/en/articles/best-espresso-machine-under-200-2026/"
+  image_alt: "Best espresso machines under 200 2026 De'Longhi Breville Nespresso comparison"
+  hashtags: ["espresso machine under 200", "best espresso machine 2026", "De'Longhi vs Breville", "home espresso maker", "espresso comparison"]
+
+- id: "best-espresso-machine-under-200-2026-top1-en"
+  article_slug: "best-espresso-machine-under-200-2026"
+  locale: "en"
+  variant: "top1"
+  board: "food"
+  title: "Breville Bambino: Auto-Steam, 3-Second Heat-Up, Best Shot Under $200"
+  description: |
+    Breville Bambino (BES450BSS) reaches extraction temperature in just 3 seconds — faster than any other machine in this comparison. The auto-steam wand produces textured microfoam with one-touch operation, making lattes repeatable without barista skill. Uses 54mm portafilter with Breville's ThermoJet heating system. At $180–200, it's the closest to a proper café machine under this price point.
+  link: "https://pickly.blog/en/articles/best-espresso-machine-under-200-2026/"
+  image_alt: "Breville Bambino espresso machine auto steam best pick under 200 2026"
+  hashtags: ["Breville Bambino review", "best home espresso 200", "Bambino espresso machine", "auto steam espresso", "fast espresso machine"]
+
+- id: "best-espresso-machine-under-200-2026-problem-en"
+  article_slug: "best-espresso-machine-under-200-2026"
+  locale: "en"
+  variant: "problem"
+  board: "food"
+  title: "Spending $6/Day at Starbucks? A $150 Espresso Machine Pays for Itself in 4 Weeks"
+  description: |
+    A daily latte at a coffee shop runs $5–7 including tip — $150–210/month. A De'Longhi EC155M costs $100 and makes roughly 500 shots per $15 bag of espresso beans, so each shot costs about $0.30. If you drink one latte per day, the machine pays for itself in under 30 days. Even the Breville Bambino at $180 breaks even by week 6.
+  link: "https://pickly.blog/en/articles/best-espresso-machine-under-200-2026/"
+  image_alt: "Coffee shop latte cost vs home espresso machine ROI break even"
+  hashtags: ["home espresso savings", "coffee shop vs home espresso", "espresso machine ROI", "latte cost comparison", "save money coffee"]
+
+- id: "best-espresso-machine-under-200-2026-budget-en"
+  article_slug: "best-espresso-machine-under-200-2026"
+  locale: "en"
+  variant: "budget"
+  board: "food"
+  title: "Best Budget Espresso Machine 2026: De'Longhi EC155M Under $100"
+  description: |
+    De'Longhi EC155M runs consistently under $100 and pulls genuine 15-bar pump pressure — the same spec as machines 3× the price. Works with both ground coffee and ESE pods. Manual steam wand for frothing milk. Warm-up takes about 40 seconds. The build is mostly plastic but the thermoblock heating system is reliable. Best value for anyone who wants real espresso without capsule lock-in.
+  link: "https://pickly.blog/en/articles/best-espresso-machine-under-200-2026/"
+  image_alt: "De'Longhi EC155M espresso machine budget best value under 100 2026"
+  hashtags: ["budget espresso machine", "De'Longhi EC155M review", "cheap espresso maker", "espresso under 100", "best value espresso 2026"]
+
+- id: "best-espresso-machine-under-200-2026-avoid-en"
+  article_slug: "best-espresso-machine-under-200-2026"
+  locale: "en"
+  variant: "avoid"
+  board: "food"
+  title: "Espresso Machine Red Flags: Steam-Only Machines Aren't Real Espresso"
+  description: |
+    True espresso requires a pump delivering 9 bars of pressure through finely-ground coffee. Many cheap machines under $50 use steam pressure only (1–2 bars) — they make very strong coffee, not espresso. Always check for: (1) pump pressure of at least 9 bar; (2) portafilter with a basket, not a pressurized pod holder; (3) a separate boiler or thermoblock for steam vs extraction.
+  link: "https://pickly.blog/en/articles/best-espresso-machine-under-200-2026/"
+  image_alt: "Espresso machine red flags steam only low pressure not real espresso"
+  hashtags: ["espresso machine buying guide", "steam espresso vs pump", "real espresso 9 bar", "espresso machine warning", "pump espresso explained"]
+
+- id: "best-espresso-machine-under-200-2026-scene-en"
+  article_slug: "best-espresso-machine-under-200-2026"
+  locale: "en"
+  variant: "scene"
+  board: "food"
+  title: "Espresso Machine for Every Lifestyle: Beginner, Busy, Pod-Lover & Latte Fan"
+  description: |
+    Total beginner who wants convenience → Nespresso Essenza Mini (capsule, one button, zero mess). Latte lover who wants real microfoam → Breville Bambino (auto-steam, 3-sec heat). Budget barista who wants control → De'Longhi EC155M (manual steam, 15-bar pump, ESE pods). All-in-one cappuccino machine → Mr. Coffee ECMP50 (built-in frother). Cheapest possible entry → Hamilton Beach 40792.
+  link: "https://pickly.blog/en/articles/best-espresso-machine-under-200-2026/"
+  image_alt: "Espresso machine by lifestyle beginner busy pod latte fan guide"
+  hashtags: ["espresso machine by style", "pod espresso machine", "latte machine home", "beginner espresso setup", "espresso lifestyle guide"]
+
+- id: "best-espresso-machine-under-200-2026-comparison-ja"
+  article_slug: "best-espresso-machine-under-200-2026"
+  locale: "ja"
+  variant: "comparison"
+  board: "food"
+  title: "2万円以下エスプレッソマシン 2026年版比較：De'Longhi vs Breville vs Nespresso 徹底検証"
+  description: |
+    5製品をショット品質・スチームワンド性能・使いやすさで徹底比較。バリスタ的コントロール重視ならDe'Longhi EC155M（約1万円）。オートスチーム3秒加熱はBreville Bambino。カプセル式手軽さはNespresso Essenza Mini。初心者オールインワンはMr. Coffee ECMP50。最安入門はHamilton Beach。
+  link: "https://pickly.blog/ja/articles/best-espresso-machine-under-200-2026/"
+  image_alt: "エスプレッソマシン 2万円以下 比較 2026 De'Longhi Breville Nespresso"
+  hashtags: ["エスプレッソマシン 安い", "家庭用 エスプレッソ 比較 2026", "De'Longhi vs Breville", "ホームエスプレッソ", "エスプレッソ 比較"]
+
+- id: "best-espresso-machine-under-200-2026-top1-ja"
+  article_slug: "best-espresso-machine-under-200-2026"
+  locale: "ja"
+  variant: "top1"
+  board: "food"
+  title: "Breville Bambino が2万円以下エスプレッソ1位の理由：3秒加熱・オートスチーム・本格抽出"
+  description: |
+    Breville Bambino（BES450BSS）はThermoJetシステムで抽出温度到達わずか3秒。オートスチームワンドがワンタッチでマイクロフォームミルクを生成し、バリスタスキル不要でラテが作れる。54mmポルタフィルター採用。価格2〜2.5万円で、この価格帯で最もカフェに近いショット品質を実現。
+  link: "https://pickly.blog/ja/articles/best-espresso-machine-under-200-2026/"
+  image_alt: "Breville Bambino エスプレッソマシン オートスチーム 2万円以下 2026"
+  hashtags: ["Breville Bambino レビュー", "家庭用 エスプレッソ 2万円", "Bambino エスプレッソ", "オートスチーム エスプレッソ", "速い エスプレッソマシン"]
+
+- id: "best-espresso-machine-under-200-2026-problem-ja"
+  article_slug: "best-espresso-machine-under-200-2026"
+  locale: "ja"
+  variant: "problem"
+  board: "food"
+  title: "カフェラテに毎日1,000円使っている？1万円のエスプレッソマシンが1ヶ月で元が取れる"
+  description: |
+    カフェのラテ1杯は500〜700円。毎日飲めば月1.5〜2万円。De'Longhi EC155Mは約1万円で、エスプレッソ豆1,500円/250gから約30杯分（1杯50円）が作れる。毎日1杯なら1ヶ月以内に元が取れる計算。Breville Bambino（約2万円）でも6週間で回収完了。
+  link: "https://pickly.blog/ja/articles/best-espresso-machine-under-200-2026/"
+  image_alt: "カフェ コスト vs 自宅エスプレッソ 費用対効果 元が取れる"
+  hashtags: ["自宅エスプレッソ 節約", "カフェ vs 自宅コーヒー", "エスプレッソ 費用対効果", "ラテ コスト比較", "コーヒー 節約術"]
+
+- id: "best-espresso-machine-under-200-2026-budget-ja"
+  article_slug: "best-espresso-machine-under-200-2026"
+  locale: "ja"
+  variant: "budget"
+  board: "food"
+  title: "コスパ最強エスプレッソマシン 2026：De'Longhi EC155M が1万円以下で15バー本格抽出"
+  description: |
+    De'Longhi EC155Mは1万円以下で15バーポンプ圧力を実現。3倍の価格のマシンと同スペック。粉コーヒーとESEポッド両対応。手動スチームワンドでミルクフォーム可能。加熱約40秒。本体は主にプラスチック製だがサーモブロック加熱システムは信頼性高。カプセルロックインなしで本物のエスプレッソを楽しみたい方の最強コスパ選択。
+  link: "https://pickly.blog/ja/articles/best-espresso-machine-under-200-2026/"
+  image_alt: "De'Longhi EC155M エスプレッソマシン コスパ 1万円以下 2026"
+  hashtags: ["安い エスプレッソマシン", "De'Longhi EC155M レビュー", "コスパ エスプレッソ", "エスプレッソ 1万円", "最高コスパ エスプレッソ 2026"]
+
+- id: "best-espresso-machine-under-200-2026-avoid-ja"
+  article_slug: "best-espresso-machine-under-200-2026"
+  locale: "ja"
+  variant: "avoid"
+  board: "food"
+  title: "エスプレッソマシン購入の落とし穴：スチーム式は「本物のエスプレッソ」ではない"
+  description: |
+    本物のエスプレッソには細挽き粉に9バーのポンプ圧力が必要。5,000円以下の安価なマシンの多くはスチーム圧力（1〜2バー）のみで、強いコーヒーは作れるがエスプレッソではない。確認ポイント：①ポンプ圧力が最低9バー以上；②バスケット付きポルタフィルター（加圧ポッドホルダーではない）；③スチームと抽出の独立したボイラーまたはサーモブロック。
+  link: "https://pickly.blog/ja/articles/best-espresso-machine-under-200-2026/"
+  image_alt: "エスプレッソマシン 失敗 スチーム式 低圧 本物でない 注意"
+  hashtags: ["エスプレッソマシン 選び方", "スチーム式 vs ポンプ式", "本物エスプレッソ 9バー", "エスプレッソマシン 注意点", "ポンプ式 解説"]
+
+- id: "best-espresso-machine-under-200-2026-scene-ja"
+  article_slug: "best-espresso-machine-under-200-2026"
+  locale: "ja"
+  variant: "scene"
+  board: "food"
+  title: "ライフスタイル別おすすめエスプレッソマシン：初心者・忙しい人・カプセル派・ラテ好き"
+  description: |
+    手軽さ最優先の初心者 → Nespresso Essenza Mini（カプセル・ボタン1つ・後片付け簡単）。本格ラテが飲みたい → Breville Bambino（オートスチーム・3秒加熱）。バリスタ的コントロール重視 → De'Longhi EC155M（手動スチーム・15バーポンプ・ESEポッド対応）。オールインワン初心者 → Mr. Coffee ECMP50（内蔵フロッサー付）。最安入門 → Hamilton Beach 40792。
+  link: "https://pickly.blog/ja/articles/best-espresso-machine-under-200-2026/"
+  image_alt: "エスプレッソマシン ライフスタイル別 初心者 忙しい人 カプセル ラテ好き"
+  hashtags: ["エスプレッソ ライフスタイル別", "カプセル エスプレッソ", "ラテ マシン 家庭用", "初心者 エスプレッソ 選び方", "エスプレッソ 生活スタイル"]
+
+# ── #139 best-ab-roller-2026 ──────────────────────────────────────────────
+- id: "best-ab-roller-2026-comparison-en"
+  article_slug: "best-ab-roller-2026"
+  locale: "en"
+  variant: "comparison"
+  board: "fitness"
+  title: "Best Ab Rollers 2026: Ab Carver Pro vs Elite Sportz vs SKLZ vs Vinsguir"
+  description: |
+    Tested 5 ab rollers on core activation, stability, and knee comfort. Perfect Fitness Ab Carver Pro has the widest wheel and a built-in spring for assistance. Elite Sportz is the most stable budget option with a non-slip handle. SKLZ Core Wheels offer dual-wheel independent movement for advanced training. Vinsguir is the best value for beginners. Power Systems VersaDisc adds instability training.
+  link: "https://pickly.blog/en/articles/best-ab-roller-2026/"
+  image_alt: "Best ab rollers 2026 comparison Ab Carver Pro Elite Sportz SKLZ Vinsguir"
+  hashtags: ["ab roller", "best ab roller 2026", "Ab Carver Pro vs Elite Sportz", "ab wheel workout", "core training equipment"]
+
+- id: "best-ab-roller-2026-top1-en"
+  article_slug: "best-ab-roller-2026"
+  locale: "en"
+  variant: "top1"
+  board: "fitness"
+  title: "Perfect Fitness Ab Carver Pro: Best Ab Roller for Beginners Who Struggle with Standard Wheels"
+  description: |
+    Ab Carver Pro has a 7-inch-wide wheel with a built-in carbon steel spring that provides resistance assistance on the way back — this is the key feature that makes it usable for beginners. The 7-inch width also dramatically improves lateral stability vs narrow single-wheel rollers. Ergonomic handles reduce wrist strain during rollouts. At around $35, it's the best-designed ab roller in this comparison.
+  link: "https://pickly.blog/en/articles/best-ab-roller-2026/"
+  image_alt: "Perfect Fitness Ab Carver Pro best ab roller spring assist 2026"
+  hashtags: ["Ab Carver Pro review", "best beginner ab roller", "spring assist ab wheel", "wide ab roller stability", "ab carver pro workout"]
+
+- id: "best-ab-roller-2026-problem-en"
+  article_slug: "best-ab-roller-2026"
+  locale: "en"
+  variant: "problem"
+  board: "fitness"
+  title: "Ab Roller Face-Plants: Why Thin Wheels Collapse and How to Pick a Stable One"
+  description: |
+    The most common ab roller failure is the wheel tipping sideways and the user face-planting mid-rollout. This happens with narrow (1.5–2 inch) single wheels that can't handle lateral weight shifts. The fix: choose wheels 3 inches or wider, or dual-wheel designs that provide independent side stability. Ab Carver Pro (7 inches) and SKLZ Core Wheels (two separate wheels) both solve this.
+  link: "https://pickly.blog/en/articles/best-ab-roller-2026/"
+  image_alt: "Ab roller tipping falling narrow wheel stability problem fix"
+  hashtags: ["ab roller stability", "ab wheel falling problem", "wide ab roller", "dual wheel ab roller", "safe ab rollout technique"]
+
+- id: "best-ab-roller-2026-budget-en"
+  article_slug: "best-ab-roller-2026"
+  locale: "en"
+  variant: "budget"
+  board: "fitness"
+  title: "Best Budget Ab Roller 2026: Vinsguir Under $15 with Knee Pad Included"
+  description: |
+    Vinsguir Ab Roller Wheel comes in under $15 and includes a thick knee pad — most budget rollers skip this essential accessory. The dual 3.25-inch wheels provide better stability than single-wheel designs. Non-slip ergonomic foam handles. Maximum load 440 lbs. It's simple, durable, and does exactly what an ab roller should without unnecessary features. Perfect first ab roller.
+  link: "https://pickly.blog/en/articles/best-ab-roller-2026/"
+  image_alt: "Vinsguir ab roller budget best value knee pad included 2026"
+  hashtags: ["budget ab roller", "Vinsguir review", "cheap ab wheel", "ab roller with knee pad", "ab roller under 15"]
+
+- id: "best-ab-roller-2026-avoid-en"
+  article_slug: "best-ab-roller-2026"
+  locale: "en"
+  variant: "avoid"
+  board: "fitness"
+  title: "Ab Roller Buying Mistakes: Single Thin Wheels and No Knee Pad Are Red Flags"
+  description: |
+    Two features that make ab rollers dangerous for beginners: (1) a single 1.5-inch wide wheel — unstable and causes lateral collapse; (2) no knee pad included or sold separately — training on hard floors causes knee bruising within the first session. Also avoid plastic axles — they flex under load and snap. Look for steel axles and wheels at least 3 inches wide.
+  link: "https://pickly.blog/en/articles/best-ab-roller-2026/"
+  image_alt: "Ab roller buying mistakes thin wheel no knee pad plastic axle warning"
+  hashtags: ["ab roller red flags", "ab wheel buying guide", "safe ab roller", "ab roller knee pad", "best ab roller features"]
+
+- id: "best-ab-roller-2026-scene-en"
+  article_slug: "best-ab-roller-2026"
+  locale: "en"
+  variant: "scene"
+  board: "fitness"
+  title: "Ab Roller for Every Level: Beginner Assistance, Standard Training & Advanced"
+  description: |
+    Complete beginner (needs spring help) → Ab Carver Pro (7-inch wheel, spring return assistance). Budget starter → Vinsguir (dual 3.25-inch wheels, knee pad included). Daily training intermediate → Elite Sportz (durable, stable, straightforward). Advanced unilateral training → SKLZ Core Wheels (two independent wheels, diagonal rollouts). Instability training addition → Power Systems VersaDisc (adds balance challenge to rollouts).
+  link: "https://pickly.blog/en/articles/best-ab-roller-2026/"
+  image_alt: "Ab roller by fitness level beginner assistance standard advanced"
+  hashtags: ["ab roller by level", "beginner ab wheel", "advanced ab roller", "ab training progression", "core training guide"]
+
+- id: "best-ab-roller-2026-comparison-ja"
+  article_slug: "best-ab-roller-2026"
+  locale: "ja"
+  variant: "comparison"
+  board: "fitness"
+  title: "腹筋ローラー 2026年版比較：Ab Carver Pro vs Elite Sportz vs SKLZ vs Vinsguir 徹底検証"
+  description: |
+    5製品を体幹活性化・安定性・膝の快適さで徹底比較。最広ホイール＋スプリング補助はAb Carver Pro。初心者安定重視コスパはElite Sportz。上級者向け独立2輪はSKLZ Core Wheels。入門者最安はVinsguir（膝パッド付き）。不安定トレーニング追加はPower Systems VersaDisc。
+  link: "https://pickly.blog/ja/articles/best-ab-roller-2026/"
+  image_alt: "腹筋ローラー 比較 2026 Ab Carver Pro Elite Sportz SKLZ Vinsguir"
+  hashtags: ["腹筋ローラー", "腹筋ローラー 比較 2026", "Ab Carver Pro vs Elite Sportz", "腹筋 ホイール", "体幹 トレーニング器具"]
+
+- id: "best-ab-roller-2026-top1-ja"
+  article_slug: "best-ab-roller-2026"
+  locale: "ja"
+  variant: "top1"
+  board: "fitness"
+  title: "Ab Carver Proが腹筋ローラー1位の理由：7インチ幅ホイール・スプリング補助・初心者も使える"
+  description: |
+    Ab Carver Proは幅18cm（7インチ）のホイールに内蔵カーボンスチールスプリングを搭載し、ロールバック時に補助力を提供。これが初心者でも使いやすい最大の理由。幅の広さで横方向の安定性も大幅向上。エルゴノミクスハンドルで手首への負担を軽減。約4,500円で本比較の中でも最もよく設計された腹筋ローラー。
+  link: "https://pickly.blog/ja/articles/best-ab-roller-2026/"
+  image_alt: "Ab Carver Pro 腹筋ローラー スプリング補助 おすすめ 2026"
+  hashtags: ["Ab Carver Pro レビュー", "初心者 腹筋ローラー おすすめ", "スプリング補助 腹筋", "広幅 ローラー 安定", "腹筋 Ab Carver 使い方"]
+
+- id: "best-ab-roller-2026-problem-ja"
+  article_slug: "best-ab-roller-2026"
+  locale: "ja"
+  variant: "problem"
+  board: "fitness"
+  title: "腹筋ローラーで転倒する原因：細いホイールが横に倒れる問題と安定モデルの選び方"
+  description: |
+    腹筋ローラーで最も多い失敗はホイールが横に倒れて転倒すること。原因は幅1.5〜2cmの細いシングルホイールで横方向の体重移動に対応できないため。対策：ホイール幅7cm以上のモデル（Ab Carver Pro）か、独立2輪設計（SKLZ Core Wheels）を選ぶ。これで大半の転倒リスクは解消できる。
+  link: "https://pickly.blog/ja/articles/best-ab-roller-2026/"
+  image_alt: "腹筋ローラー 転倒 細いホイール 横倒れ 安定 選び方"
+  hashtags: ["腹筋ローラー 安定", "腹筋ホイール 転倒 問題", "幅広 腹筋ローラー", "2輪 腹筋ローラー", "安全な 腹筋ローラー 使い方"]
+
+- id: "best-ab-roller-2026-budget-ja"
+  article_slug: "best-ab-roller-2026"
+  locale: "ja"
+  variant: "budget"
+  board: "fitness"
+  title: "コスパ最強腹筋ローラー 2026：Vinsguir が2,000円以下で膝パッド付き"
+  description: |
+    Vinsguirは2,000円以下で膝パッド付属という本比較で最安値の腹筋ローラー。多くの格安製品が省略する膝パッドを標準同梱。デュアル8.3cmホイールで単輪より安定。ノンスリップエルゴノミクスフォームハンドル。耐荷重200kg。シンプルながら腹筋ローラーに必要なものを過不足なく備えた入門に最適な1本。
+  link: "https://pickly.blog/ja/articles/best-ab-roller-2026/"
+  image_alt: "Vinsguir 腹筋ローラー コスパ 膝パッド付き 2026"
+  hashtags: ["安い 腹筋ローラー", "Vinsguir レビュー", "腹筋ホイール 安い", "腹筋ローラー 膝パッド", "腹筋ローラー 2000円"]
+
+- id: "best-ab-roller-2026-avoid-ja"
+  article_slug: "best-ab-roller-2026"
+  locale: "ja"
+  variant: "avoid"
+  board: "fitness"
+  title: "買ってはいけない腹筋ローラー：細い単輪・膝パッドなし・プラスチック軸は危険"
+  description: |
+    初心者に危険な2つの特徴：①幅1.5インチ（3.8cm）以下の細い単輪（横倒れしやすい）；②膝パッドなし（フローリング・コンクリートで1回目から膝が痛くなる）。さらにプラスチック製軸は荷重で曲がりやすく折損リスクあり。最低限スチール軸・幅7cm以上のホイールを選ぶこと。本記事の5製品はすべてクリア済み。
+  link: "https://pickly.blog/ja/articles/best-ab-roller-2026/"
+  image_alt: "腹筋ローラー 失敗 細い単輪 膝パッドなし プラスチック軸 注意"
+  hashtags: ["腹筋ローラー 選び方 失敗", "腹筋ホイール 品質", "安全な 腹筋ローラー", "腹筋ローラー 膝パッド 必要性", "腹筋ローラー 注意点"]
+
+- id: "best-ab-roller-2026-scene-ja"
+  article_slug: "best-ab-roller-2026"
+  locale: "ja"
+  variant: "scene"
+  board: "fitness"
+  title: "レベル別おすすめ腹筋ローラー：補助あり初心者・標準練習・上級者トレーニング"
+  description: |
+    完全初心者（補助が必要） → Ab Carver Pro（7インチ幅・スプリング補助）。予算重視スタート → Vinsguir（デュアル8.3cmホイール・膝パッド付き）。毎日練習する中級者 → Elite Sportz（耐久性・安定性・シンプル）。片腕交互ローリング上級者 → SKLZ Core Wheels（2輪独立・斜め展開可）。不安定トレーニング追加 → Power Systems VersaDisc（バランス挑戦追加）。
+  link: "https://pickly.blog/ja/articles/best-ab-roller-2026/"
+  image_alt: "腹筋ローラー レベル別 補助あり初心者 標準 上級者"
+  hashtags: ["腹筋ローラー レベル別", "初心者 腹筋 ホイール", "上級 腹筋ローラー", "体幹 トレーニング 段階", "コア 筋トレ ガイド"]
