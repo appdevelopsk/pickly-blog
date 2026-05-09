@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 83 articles x 6 variants x 2 locales (en, ja) = 1004 pins (growing)
+# 85 articles x 6 variants x 2 locales (en, ja) = 1028 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -11254,3 +11254,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-kitchen-scale-2026/"
     image_alt: "エスプレッソ ダイヤルイン スケール 0.1g"
     hashtags: ["エスプレッソ", "ダイヤルイン", "コーヒー器具", "キッチンスケール", "ホームカフェ"]
+
+  # ── #84 best-travel-adapter-2026 ─────────────────────────────────────────
+  - pin_id: best-travel-adapter-2026-en-01
+    article_slug: best-travel-adapter-2026
+    locale: en
+    variant: comparison
+    title: "Best Travel Adapter 2026: EPICKA vs Ceptics vs BESTEK vs Satechi Compared"
+    description: |
+      Best travel adapters 2026 — do you need a converter or just a plug adapter? USB-C PD wattage for MacBook charging, surge protection for Southeast Asia power grids, and which all-in-one actually covers all 150+ countries without breaking.
+    link: "https://pickly.blog/en/articles/best-travel-adapter-2026/"
+    image_alt: "Travel adapter comparison 2026 EPICKA Ceptics BESTEK"
+    hashtags: ["TravelAdapter", "TravelEssentials", "InternationalTravel", "TravelGear", "TravelHacks"]
+
+  - pin_id: best-travel-adapter-2026-en-02
+    article_slug: best-travel-adapter-2026
+    locale: en
+    variant: top1
+    title: "Best All-in-One Travel Adapter 2026: EPICKA Universal"
+    description: |
+      EPICKA Universal Travel Adapter wins for most travelers — covers 150+ countries, 4 USB-A + 1 USB-C port, 10A surge protection, and the slide-out prong mechanism survives repeated travel. At ~$20–25, it's the best balance of coverage, charging ports, and durability. Only limitation: no voltage conversion for 100V-only devices.
+    link: "https://pickly.blog/en/articles/best-travel-adapter-2026/"
+    image_alt: "EPICKA Universal travel adapter all countries 2026"
+    hashtags: ["EPICKA", "TravelAdapter", "UniversalAdapter", "TravelEssentials", "InternationalTravel"]
+
+  - pin_id: best-travel-adapter-2026-en-03
+    article_slug: best-travel-adapter-2026
+    locale: en
+    variant: problem
+    title: "Travel Adapter vs Converter: Most People Buy the Wrong One"
+    description: |
+      An adapter only changes the plug shape — voltage stays the same. Modern laptops, phones, and cameras are 100–240V (check the label). Hair dryers, electric shavers, and some medical devices are often 100V-only and need a converter. Using a 100V-only device on 240V current without a converter will fry it in seconds. Check the label before you travel.
+    link: "https://pickly.blog/en/articles/best-travel-adapter-2026/"
+    image_alt: "Travel adapter vs converter voltage difference explained"
+    hashtags: ["TravelAdapter", "TravelTips", "VoltageConverter", "TravelMistakes", "InternationalTravel"]
+
+  - pin_id: best-travel-adapter-2026-en-04
+    article_slug: best-travel-adapter-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Travel Adapter 2026: Aulola Compact at $8"
+    description: |
+      Aulola Travel Adapter ($7–10) covers all major plug types (A/B/C/G/I) in a single compact unit. No USB ports built in — bring your own USB-C charger. Ideal if you already have a good GaN charger and just need the plug conversion. Lighter and smaller than EPICKA, but no surge protection. Fine for Europe and UK; use caution in countries with unstable power.
+    link: "https://pickly.blog/en/articles/best-travel-adapter-2026/"
+    image_alt: "Aulola budget travel adapter compact 2026"
+    hashtags: ["BudgetTravelAdapter", "TravelAdapter", "TravelEssentials", "EuropeTravel", "CompactTravel"]
+
+  - pin_id: best-travel-adapter-2026-en-05
+    article_slug: best-travel-adapter-2026
+    locale: en
+    variant: avoid
+    title: "Travel Adapter Mistakes That Fry Your Devices Abroad"
+    description: |
+      Assuming all adapters include converters: they don't — verify voltage on the device label. Buying the cheapest option for Southeast Asia: Indonesia, Thailand, Vietnam have unstable grids — surge protection is not optional. Packing a multi-country kit but forgetting the adapter for your specific destination. Using a single shared adapter for the whole family — one USB-C port charging 4 devices overnight is a fire risk.
+    link: "https://pickly.blog/en/articles/best-travel-adapter-2026/"
+    image_alt: "Travel adapter mistakes voltage fried devices surge"
+    hashtags: ["TravelAdapter", "TravelMistakes", "TravelSafety", "DeviceProtection", "InternationalTravel"]
+
+  - pin_id: best-travel-adapter-2026-en-06
+    article_slug: best-travel-adapter-2026
+    locale: en
+    variant: scene
+    title: "One-Bag Travel Charging Setup for Carry-On Only: What Fits and What to Skip"
+    description: |
+      Satechi Travel Adapter ($40) + 65W GaN USB-C charger: charges MacBook + iPhone + AirPods from one wall outlet with one adapter. EPICKA for budget multi-device travel with a family. Total weight: 200g. Leave the voltage converter home — check all your devices for 100–240V rating first. If your shaver is Japan-only 100V, buy a travel shaver abroad.
+    link: "https://pickly.blog/en/articles/best-travel-adapter-2026/"
+    image_alt: "Travel charging setup carry-on one bag packing"
+    hashtags: ["TravelAdapter", "OneBagTravel", "CarryOnTravel", "TravelSetup", "DigitalNomad"]
+
+  - pin_id: best-travel-adapter-2026-ja-01
+    article_slug: best-travel-adapter-2026
+    locale: ja
+    variant: comparison
+    title: "海外旅行 変換プラグ おすすめ2026：5製品を正直に比較"
+    description: |
+      海外旅行の変換プラグ選び方2026——変換プラグと変圧器の違い、Type A/C/G/I世界プラグマップ、USB-C PD 30WでMacBookを充電できるか、東南アジアのサージ保護、EPICKA vs Ceptics vs BESTEK vs Satechi vs Aulolaを正直比較。
+    link: "https://pickly.blog/ja/articles/best-travel-adapter-2026/"
+    image_alt: "海外旅行 変換プラグ 比較 2026"
+    hashtags: ["変換プラグ", "海外旅行", "旅行グッズ", "海外旅行準備", "電源アダプター"]
+
+  - pin_id: best-travel-adapter-2026-ja-02
+    article_slug: best-travel-adapter-2026
+    locale: ja
+    variant: top1
+    title: "海外旅行 変換プラグ 2026最強：EPICKA ユニバーサル"
+    description: |
+      EPICKA ユニバーサルアダプターがほとんどの旅行者に最適。150カ国以上対応、USB-A 4ポート＋USB-C 1ポート、10Aサージ保護、スライド式プラグ機構が旅行の繰り返しに耐える。2,500〜3,500円でカバレッジ・充電ポート・耐久性のベストバランス。注意点：電圧変換は非対応——100Vのみ対応機器には変圧器が別途必要。
+    link: "https://pickly.blog/ja/articles/best-travel-adapter-2026/"
+    image_alt: "EPICKA 変換プラグ 全世界対応 2026"
+    hashtags: ["変換プラグ", "EPICKA", "海外旅行", "全世界対応", "旅行グッズ"]
+
+  - pin_id: best-travel-adapter-2026-ja-03
+    article_slug: best-travel-adapter-2026
+    locale: ja
+    variant: problem
+    title: "変換プラグと変圧器の違い——間違えると機器が壊れる"
+    description: |
+      変換プラグはプラグの形状を変えるだけ——電圧は変わらない。ノートPC・スマホ・カメラは通常100〜240V対応（ラベルに記載）。ドライヤー・電気シェーバー・一部医療機器は100V専用のことが多く、変圧器が必要。100V専用機器を240Vで使うと一瞬で壊れる。出発前に必ず機器のラベルを確認する。
+    link: "https://pickly.blog/ja/articles/best-travel-adapter-2026/"
+    image_alt: "変換プラグ 変圧器 違い 電圧 壊れる"
+    hashtags: ["変換プラグ", "変圧器", "海外旅行", "電圧", "旅行準備"]
+
+  - pin_id: best-travel-adapter-2026-ja-04
+    article_slug: best-travel-adapter-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強変換プラグ2026：Aulola コンパクト 1,000円"
+    description: |
+      Aulola トラベルアダプター（800〜1,300円）が主要プラグタイプ（A/B/C/G/I）をコンパクト1台でカバー。USB非内蔵——別途USB-Cチャージャーを持参。GaN充電器を持っているなら最軽量の選択肢。サージ保護なし。ヨーロッパ・UK旅行には十分、電源が不安定な東南アジアでは注意。
+    link: "https://pickly.blog/ja/articles/best-travel-adapter-2026/"
+    image_alt: "Aulola コスパ 変換プラグ コンパクト 2026"
+    hashtags: ["変換プラグ", "コスパ最強", "海外旅行", "コンパクト", "旅行グッズ"]
+
+  - pin_id: best-travel-adapter-2026-ja-05
+    article_slug: best-travel-adapter-2026
+    locale: ja
+    variant: avoid
+    title: "変換プラグで機器を壊す4つのパターン"
+    description: |
+      変換プラグに変圧機能があると思い込む：ない——機器のラベルで電圧を必ず確認。東南アジアで最安のプラグを買う：インドネシア・タイ・ベトナムは電圧不安定でサージ保護は必須。目的地のプラグタイプを調べずに「万能」型を選ぶ。1台のアダプターに4台を深夜充電：USB-Cが1ポートで4台は熱の蓄積リスク。
+    link: "https://pickly.blog/ja/articles/best-travel-adapter-2026/"
+    image_alt: "変換プラグ 失敗 機器 壊れる 電圧"
+    hashtags: ["変換プラグ", "海外旅行 失敗", "旅行安全", "電源アダプター", "機器保護"]
+
+  - pin_id: best-travel-adapter-2026-ja-06
+    article_slug: best-travel-adapter-2026
+    locale: ja
+    variant: scene
+    title: "機内持ち込み1バッグ旅行の充電構成：Satechi＋65W GaN"
+    description: |
+      Satechi トラベルアダプター（約5,000円）＋65W GaN USB-Cチャージャー：コンセント1口からMacBook＋iPhone＋AirPodsを充電。家族連れにはEPICKAがコスパ優秀。合計重量200g。変圧器は置いていく——まず全機器が100〜240V対応か確認。電動シェーバーが日本100V専用なら、現地で旅行用を買う方が安全。
+    link: "https://pickly.blog/ja/articles/best-travel-adapter-2026/"
+    image_alt: "機内持ち込み 充電 構成 変換プラグ 旅行"
+    hashtags: ["変換プラグ", "機内持ち込み", "旅行充電", "Satechi", "コンパクト旅行"]
+
+  # ── #85 best-foam-roller-2026 ─────────────────────────────────────────────
+  - pin_id: best-foam-roller-2026-en-01
+    article_slug: best-foam-roller-2026
+    locale: en
+    variant: comparison
+    title: "Best Foam Roller 2026: TriggerPoint vs RumbleRoller vs Hyperice Vyper Compared"
+    description: |
+      5 foam rollers compared in 2026 — TriggerPoint GRID, RumbleRoller deep-tissue knobs, Amazon Basics EPE, Hyperice Vyper 3 vibrating, and LuxFit beginner smooth. Which texture actually reaches deeper muscle tissue, and is the $350 vibrating roller worth it?
+    link: "https://pickly.blog/en/articles/best-foam-roller-2026/"
+    image_alt: "Foam roller comparison 2026 TriggerPoint RumbleRoller Hyperice"
+    hashtags: ["FoamRoller", "MyofascialRelease", "RecoveryTools", "FitnessRecovery", "TriggerPoint"]
+
+  - pin_id: best-foam-roller-2026-en-02
+    article_slug: best-foam-roller-2026
+    locale: en
+    variant: top1
+    title: "Best Foam Roller for Most People 2026: TriggerPoint GRID"
+    description: |
+      TriggerPoint GRID wins for most athletes — the hollow-core grid pattern mimics a therapist's hands better than smooth or aggressive knob rollers. Firm enough for IT band and thoracic spine work but not painfully so. 13" fits most rolling positions. At ~$35, it's the professional standard used in physical therapy clinics worldwide.
+    link: "https://pickly.blog/en/articles/best-foam-roller-2026/"
+    image_alt: "TriggerPoint GRID best foam roller 2026"
+    hashtags: ["TriggerPointGRID", "FoamRoller", "MyofascialRelease", "RecoveryTools", "PhysicalTherapy"]
+
+  - pin_id: best-foam-roller-2026-en-03
+    article_slug: best-foam-roller-2026
+    locale: en
+    variant: problem
+    title: "Why Foam Rolling Hurts But Doesn't Actually Help — and How to Fix That"
+    description: |
+      Rolling too fast: 1 inch per second is the maximum effective speed for releasing fascial adhesions — most people roll 5–10x too fast. Too much pressure: body weight on a dense roller collapses tissue rather than releasing it. Spot holding: find the tight spot, hold 30–60 seconds instead of rolling over it. Pain means you found the adhesion; it should reduce within 30 seconds of sustained pressure.
+    link: "https://pickly.blog/en/articles/best-foam-roller-2026/"
+    image_alt: "Foam rolling technique slow pressure myofascial release"
+    hashtags: ["FoamRolling", "RecoveryTips", "MyofascialRelease", "FitnessTips", "MuscleRecovery"]
+
+  - pin_id: best-foam-roller-2026-en-04
+    article_slug: best-foam-roller-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Foam Roller 2026: Amazon Basics EPE at $15"
+    description: |
+      Amazon Basics High-Density Foam Roller ($12–18) is solid EPE foam — smooth surface, consistent firmness, 36" length for full back rolling. Softer than TriggerPoint which makes it better for beginners or sensitive muscles. No hollow core so it's heavier, but that also makes it more stable. Fine for daily maintenance rolling; upgrade to GRID when you want more targeted work.
+    link: "https://pickly.blog/en/articles/best-foam-roller-2026/"
+    image_alt: "Amazon Basics foam roller budget EPE 2026"
+    hashtags: ["BudgetFoamRoller", "FoamRoller", "HomeGym", "RecoveryTools", "BeginnerFitness"]
+
+  - pin_id: best-foam-roller-2026-en-05
+    article_slug: best-foam-roller-2026
+    locale: en
+    variant: avoid
+    title: "Foam Rolling Mistakes That Make Tightness Worse, Not Better"
+    description: |
+      Rolling directly on IT band: the IT band is a ligament, not a muscle — it can't release. Roll the TFL (hip) and lateral quad instead. Rolling on lower back: spinal compression risk, use upper/mid back only. Too-soft roller for athletic use: EPE foam compresses to nothing under body weight for athletes over 75kg. Rolling over a joint: knees, hips — always roll the muscle above and below.
+    link: "https://pickly.blog/en/articles/best-foam-roller-2026/"
+    image_alt: "Foam rolling mistakes IT band lower back joints"
+    hashtags: ["FoamRolling", "FitnessMistakes", "InjuryPrevention", "RecoveryTips", "MyofascialRelease"]
+
+  - pin_id: best-foam-roller-2026-en-06
+    article_slug: best-foam-roller-2026
+    locale: en
+    variant: scene
+    title: "10-Minute Post-Run Recovery Routine with a Foam Roller"
+    description: |
+      TriggerPoint GRID: Calves (2 min each) → IT band/lateral quad (2 min each) → hip flexor/TFL (1 min each) → thoracic spine (2 min). Hold each tight spot 30–60 seconds. Do this within 30 minutes of finishing a run — tissue is still warm and more responsive. RumbleRoller for athletes with chronic tightness who need deeper work. Hyperice Vyper 3 if time is limited and you want vibration to speed up the release.
+    link: "https://pickly.blog/en/articles/best-foam-roller-2026/"
+    image_alt: "Post-run foam roller routine 10 minutes calves IT band"
+    hashtags: ["FoamRoller", "PostRunRecovery", "RunningRecovery", "FoamRolling", "TriggerPoint"]
+
+  - pin_id: best-foam-roller-2026-ja-01
+    article_slug: best-foam-roller-2026
+    locale: ja
+    variant: comparison
+    title: "フォームローラーおすすめ比較2026：5製品を徹底評価"
+    description: |
+      フォームローラー5製品を2026年版で比較：トリガーポイントGRIDグリッド・ランブルローラーディープティシューノブ・AmazonベーシックEPE・Hyperice Vyper 3バイブレーション・LuxFit初心者スムース。どのテクスチャーが深部に届くか、3万円の振動ローラーの価値があるかを正直評価。
+    link: "https://pickly.blog/ja/articles/best-foam-roller-2026/"
+    image_alt: "フォームローラー 比較 2026 5製品"
+    hashtags: ["フォームローラー", "筋膜リリース", "ストレッチポール", "リカバリー", "自宅トレーニング"]
+
+  - pin_id: best-foam-roller-2026-ja-02
+    article_slug: best-foam-roller-2026
+    locale: ja
+    variant: top1
+    title: "フォームローラー2026最強：トリガーポイント GRID"
+    description: |
+      トリガーポイントGRIDがほとんどのアスリートに最適。ホローコアのグリッドパターンがセラピストの手技に最も近い刺激を与える。腸脛靭帯や胸椎ケアに十分な硬さだが苦痛なほどではない。33cmで主要な体勢に対応。約4,500〜5,500円でフィジカルセラピークリニックの標準機材。
+    link: "https://pickly.blog/ja/articles/best-foam-roller-2026/"
+    image_alt: "トリガーポイント GRID フォームローラー 2026"
+    hashtags: ["フォームローラー", "トリガーポイント", "筋膜リリース", "リカバリー", "フィジカルケア"]
+
+  - pin_id: best-foam-roller-2026-ja-03
+    article_slug: best-foam-roller-2026
+    locale: ja
+    variant: problem
+    title: "フォームローラーが痛いのに効かない理由——正しい使い方"
+    description: |
+      速く転がしすぎ：筋膜の癒着を解放する有効速度は1秒に約2.5cm——多くの人は5〜10倍速い。圧力をかけすぎ：体重全部をかけると組織が潰れるだけで解放されない。点で保持する：硬い部分を見つけたら30〜60秒間保持する。痛みは癒着の場所——30秒の持続圧力で緩和するはず。
+    link: "https://pickly.blog/ja/articles/best-foam-roller-2026/"
+    image_alt: "フォームローラー 使い方 遅く 保持 筋膜リリース"
+    hashtags: ["フォームローラー", "筋膜リリース", "使い方", "リカバリー", "自宅ケア"]
+
+  - pin_id: best-foam-roller-2026-ja-04
+    article_slug: best-foam-roller-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強フォームローラー2026：Amazon Basics EPE 2,000円"
+    description: |
+      Amazon Basics 高密度フォームローラー（1,500〜2,500円）はソリッドEPE素材で均一な硬さ、91cmの全身ケアサイズ。トリガーポイントより柔らかく初心者・敏感な筋肉に向く。ホローコアなし=重いが安定性は高い。毎日のメンテナンス転がしに十分。より的を絞ったケアはGRIDへアップグレード。
+    link: "https://pickly.blog/ja/articles/best-foam-roller-2026/"
+    image_alt: "Amazon Basics フォームローラー コスパ 2026"
+    hashtags: ["フォームローラー", "コスパ最強", "自宅トレーニング", "リカバリー", "筋膜リリース"]
+
+  - pin_id: best-foam-roller-2026-ja-05
+    article_slug: best-foam-roller-2026
+    locale: ja
+    variant: avoid
+    title: "こりをさらに悪化させるフォームローラーの間違い"
+    description: |
+      腸脛靭帯を直接転がす：ITバンドは靭帯で筋肉ではない——解放できない。大腿筋膜張筋と大腿外側を転がすのが正解。腰椎を転がす：脊椎圧迫リスク、上・中胸椎のみ。体重75kg超のアスリートに柔らかいEPE：体重で完全に潰れる。関節の上を転がす：膝・股関節の上は禁止——関節の上下の筋肉を転がす。
+    link: "https://pickly.blog/ja/articles/best-foam-roller-2026/"
+    image_alt: "フォームローラー 間違い 腸脛靭帯 腰 関節"
+    hashtags: ["フォームローラー", "使い方 間違い", "筋膜リリース", "怪我予防", "リカバリー"]
+
+  - pin_id: best-foam-roller-2026-ja-06
+    article_slug: best-foam-roller-2026
+    locale: ja
+    variant: scene
+    title: "ランニング後10分フォームローラーリカバリールーティン"
+    description: |
+      トリガーポイントGRID：ふくらはぎ（各2分）→腸脛靭帯/大腿外側（各2分）→腸腰筋/大腿筋膜張筋（各1分）→胸椎（2分）。硬い部分は30〜60秒保持。ランニング後30分以内に実施——筋温が高い方が反応が良い。慢性的なこわばりには深部まで届くランブルローラー。時間がない日はHyperice Vyper 3の振動で解放時間を短縮。
+    link: "https://pickly.blog/ja/articles/best-foam-roller-2026/"
+    image_alt: "ランニング後 フォームローラー 10分 ルーティン"
+    hashtags: ["フォームローラー", "ランニング リカバリー", "筋膜リリース", "ストレッチ", "自宅ケア"]
