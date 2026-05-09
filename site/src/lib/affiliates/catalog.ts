@@ -5671,6 +5671,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-nidra-sleep-mask", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9%E3%82%AF+%E7%AB%8B%E4%BD%93%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Tech / Portable Chargers (best-portable-charger-2026) ─────────
+  {
+    id: "anker-powercore-slim-10000",
+    category: "tech",
+    badge: "🔋",
+    name: { en: "Anker PowerCore Slim 10000 Portable Charger", ja: "Anker PowerCore Slim 10000 モバイルバッテリー" },
+    description: {
+      en: "10,000mAh, slim flat design, USB-C + USB-A, 12W output, 186g",
+      ja: "10,000mAh、スリムフラット設計、USB-C+USB-A、12W出力、186g",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anker-powercore-slim-10000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anker-737-power-bank",
+    category: "tech",
+    badge: "⚡",
+    name: { en: "Anker 737 Power Bank (PowerCore 24K)", ja: "Anker 737 パワーバンク (PowerCore 24K)" },
+    description: {
+      en: "24,000mAh, 140W USB-C output, dual USB-C ports, digital display, 88.8Wh (airline carry-on legal), 443g",
+      ja: "24,000mAh、140W USB-C出力、デュアルUSB-Cポート、デジタルディスプレイ、88.8Wh（機内持ち込み可）、443g",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anker-737-power-bank", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker+737+%E3%83%91%E3%83%AF%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mophie-powerstation-pd",
+    category: "tech",
+    badge: "🎨",
+    name: { en: "Mophie Powerstation PD", ja: "Mophie パワーステーション PD" },
+    description: {
+      en: "10,000mAh, 18W USB-C PD output, premium slim build, fabric or aluminum finish",
+      ja: "10,000mAh、USB-C PD 18W出力、プレミアムスリムデザイン、ファブリックまたはアルミニウム仕上げ",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-mophie-powerstation-pd", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmophie+powerstation+PD%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "baseus-adaman-power-bank",
+    category: "tech",
+    badge: "📊",
+    name: { en: "Baseus Adaman 65W Power Bank", ja: "Baseus Adaman 65W モバイルバッテリー" },
+    description: {
+      en: "20,000mAh, 65W USB-C PD output, digital percentage display, USB-A 18W, 310g",
+      ja: "20,000mAh、USB-C PD 65W出力、デジタルパーセント表示、USB-A 18W、310g",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-baseus-adaman-power-bank", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBaseus+Adaman+%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "iniu-portable-charger",
+    category: "tech",
+    badge: "💡",
+    name: { en: "INIU 10000mAh Portable Charger", ja: "INIU 10000mAh モバイルバッテリー" },
+    description: {
+      en: "10,000mAh, 20W USB-C output, 22.5W USB-A, LED percentage display, budget fast-charging",
+      ja: "10,000mAh、USB-C 20W出力、USB-A 22.5W、LEDパーセント表示、予算重視の急速充電",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-iniu-portable-charger", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FINIU+%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
   {
     id: "drowsy-silk-sleep-mask",
     category: "home",
@@ -5681,6 +5747,66 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-drowsy-silk-mask", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%AB%E3%82%AF+%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "adjustable-dumbbell-bowflex-552",
+    category: "fitness",
+    name: { en: "Bowflex SelectTech 552 Adjustable Dumbbells (pair)", ja: "ボウフレックス セレクテック 552 可変式ダンベル（ペア）" },
+    description: {
+      en: "Dial-adjust 5–52.5 lb in 2.5 lb increments, replaces 15 pairs, 2-second weight change",
+      ja: "ダイヤル式5〜52.5lb（2.3〜23.8kg）を15段階、15ペア相当、2秒で重量変更",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-bowflex-552", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "powerblock-elite-dumbbells",
+    category: "fitness",
+    name: { en: "PowerBlock Elite Adjustable Dumbbells", ja: "パワーブロック エリート 可変式ダンベル" },
+    description: {
+      en: "Pin-adjust 5–70 lb expandable to 90 lb per hand, 5-second weight change, stackable add-on kits",
+      ja: "ピン式5〜70lb（1ハンドあたり90lbまで拡張可能）、重量変更約5秒、スタッカブル拡張キット対応",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-powerblock-elite", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%AF%E3%83%BC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF+%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nuobell-adjustable-dumbbells",
+    category: "fitness",
+    name: { en: "Nüobell Adjustable Dumbbells 50 lb", ja: "ニューオベル 可変式ダンベル 50lb" },
+    description: {
+      en: "Cylindrical shell mimics standard dumbbell profile, dial-adjust 5–50 lb in 5 lb increments, most compact adjustable form factor",
+      ja: "円筒形シェルが標準ダンベルのプロファイルを模倣、ダイヤル式5〜50lbを5lb刻み、最もコンパクトな可変式形状",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-nuobell-adjustable", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB+%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cap-barbell-hex-dumbbells",
+    category: "fitness",
+    name: { en: "CAP Barbell Hex Dumbbell (single)", ja: "キャップバーベル ヘックスダンベル（シングル）" },
+    description: {
+      en: "Cast iron hex dumbbell, no-roll hex design, knurled handle, commercial quality, sold as singles",
+      ja: "鋳鉄製ヘックスダンベル、転がり防止ヘックス設計、ナーリング加工ハンドル、商業品質、シングル販売",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cap-barbell-hex", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%89%84%E8%A3%BD%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB+%E3%83%98%E3%83%83%E3%82%AF%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yes4all-vinyl-dumbbell-set",
+    category: "fitness",
+    name: { en: "Yes4All Vinyl Coated Dumbbell Set", ja: "イエス4オール ビニールコーティング ダンベルセット" },
+    description: {
+      en: "Vinyl-coated cast iron dumbbell set, hex shape, floor-friendly coating, budget beginner set 5–15 lb",
+      ja: "ビニールコーティング鋳鉄製ダンベルセット、ヘックス形状、床に優しいコーティング、入門向け5〜15lbセット",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-yes4all-vinyl-dumbbell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB+%E3%82%BB%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
