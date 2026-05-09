@@ -636,6 +636,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-la-roche-posay-toleriane-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%2B%E3%83%88%E3%83%AC%E3%83%AA%E3%82%A2%E3%83%B3%2B%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Beauty / Skin Care Routine (best-skin-care-routine-2026) ─────────
+  {
+    id: "cetaphil-gentle-skin-cleanser",
+    category: "beauty",
+    badge: "🧴",
+    name: { en: "Cetaphil Gentle Skin Cleanser", ja: "セタフィル ジェントル スキン クレンザー" },
+    description: {
+      en: "Fragrance-free mild surfactant cleanser developed for sensitive and dry skin. AAD-recommended dermatology reference standard for gentle cleansing. Non-comedogenic. Explicit weakness: very low foam output that does not satisfy lather expectations; contains low-concentration SLS that a small percentage of SLS-sensitive users may react to; requires pre-cleanse step for heavy SPF or waterproof makeup removal.",
+      ja: "無香料・敏感肌・乾燥肌向けに開発されたマイルドな界面活性剤洗顔料。マイルドな洗顔の皮膚科基準として使用。非コメドジェニック。明確な弱点：泡立ちが少なく濃密泡を求めるユーザーの期待に応えない；低濃度SLSを含みごく一部のSLS過敏症ユーザーが反応する場合がある；重SPFや防水メイクのスタンドアローン洗顔には前洗顔が必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cetaphil-gentle-skin-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCetaphil+%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hada-labo-gokujyun-lotion",
+    category: "beauty",
+    badge: "💧",
+    name: { en: "Hada Labo Gokujyun Premium Lotion", ja: "肌ラボ 極潤プレミアム ヒアルロン液" },
+    description: {
+      en: "Multi-molecular-weight hyaluronic acid toner, long-term bestseller in Japan's toner category. Fragrance-free, alcohol-free, no mineral oils. Explicit weakness: in low-humidity environments draws moisture from deeper skin layers if no moisturizer is applied over it; slightly viscous texture takes longer to absorb than water-thin toners; cotton pad application increases product waste relative to palming in.",
+      ja: "複数の分子量のヒアルロン酸化粧水、日本化粧水カテゴリーの長期ベストセラー。無香料・アルコールなし・無鉱物油。明確な弱点：低湿度環境で保湿剤を重ねないと深い肌の層から水分を引き出し乾燥を悪化させる可能性；粘性テクスチャーが吸収に時間がかかり塗りすぎると乗っている感覚がある；コットンパッドでの使用は製品の無駄が生じる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-hada-labo-gokujyun-lotion", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%82%8C%E3%83%A9%E3%83%9C+%E6%A5%B5%E6%BD%A4+%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E9%85%B8%E6%B6%B2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cerave-moisturizing-cream",
+    category: "beauty",
+    badge: "🏆",
+    name: { en: "CeraVe Moisturizing Cream", ja: "CeraVe モイスチャライジング クリーム" },
+    description: {
+      en: "Ceramide NP, AP, EOP plus hyaluronic acid and cholesterol via MVE sustained-release delivery. AAD-recommended for dry, eczema-prone, and sensitive skin. Non-comedogenic. Explicit weakness: too occlusive for oily and combination skin in hot climates; jar packaging requires clean spatula use; too heavy under SPF on oily skin in Japanese summer heat.",
+      ja: "セラミドNP・AP・EOP＋ヒアルロン酸・コレステロールをMVE持続放出デリバリーで配合。乾燥・アトピー傾向・敏感肌にAAD推奨。非コメドジェニック。明確な弱点：夏の暑さ・湿気の中の朝SPFとの組み合わせで油性・混合肌には閉塞性が高すぎる場合；ジャーは清潔なスパチュラが必要；日本の夏の油性肌にはSPFの下で重すぎる場合がある。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cerave-moisturizing-cream", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCeraVe+%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0+%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anessa-sunscreen-spf50",
+    category: "beauty",
+    badge: "☀️",
+    name: { en: "Anessa Perfect UV Sunscreen Milk SPF50+PA++++", ja: "アネッサ パーフェクトUV スキンケアミルク SPF50+PA++++" },
+    description: {
+      en: "Silicone-hybrid UV filter system with Aqua Booster EX technology — film strengthens on contact with sweat and water. SPF50+PA++++. Non-comedogenic milk texture for facial use. Explicit weakness: contains alcohol — unsuitable for reactive, rosacea-prone, or alcohol-sensitive skin; chemical filters not appropriate for broken or post-procedure skin; 60ml bottle expensive per-ml vs Korean or European equivalents.",
+      ja: "アクアブースターEX技術によるシリコンハイブリッドUVフィルターシステム — 汗・水との接触で膜が強化。SPF50+PA++++。顔用の非コメドジェニックなミルクテクスチャー。明確な弱点：アルコール含有で反応性肌・酒さ・アルコール感受性肌には不適；ケミカルフィルターは破れた肌や施術後には不適；60mlで韓国・欧州同等品よりml当たりコストが高い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anessa-sunscreen-spf50", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%8D%E3%83%83%E3%82%B5+%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88UV+%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%9F%E3%83%AB%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "the-ordinary-niacinamide",
+    category: "beauty",
+    badge: "🔬",
+    name: { en: "The Ordinary Niacinamide 10% + Zinc 1%", ja: "The Ordinary ナイアシンアミド 10% + ジンク 1%" },
+    description: {
+      en: "Water-based serum with 10% niacinamide for oil control, pore appearance, and tone evenness; 1% zinc PCA for sebum regulation. One of the highest cost-to-evidence-base ratios in OTC skincare. Explicit weakness: 10% can cause temporary flushing in niacin-sensitive users; contains silicone (dimethicone); niacinamide-vitamin-C interaction is largely theoretical but conservative users should layer them at separate times.",
+      ja: "油分コントロール・毛穴の見え方・トーンの均一性のための10%ナイアシンアミドと皮脂調節のための1%ジンクPCAの水性セラム。市販スキンケアで最もコスト対エビデンス比率の高い製品の一つ。明確な弱点：10%はナイアシン感受性のあるユーザーに一時的フラッシングを引き起こす場合がある；シリコン（ジメチコン）含有；ナイアシンアミドとビタミンCの相互作用は大部分が理論上だが保守的なユーザーは朝/夜で分けて使うとよい。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-the-ordinary-niacinamide", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FThe+Ordinary+%E3%83%8A%E3%82%A4%E3%82%A2%E3%82%B7%E3%83%B3%E3%82%A2%E3%83%9F%E3%83%89+10%25%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Home / Air Purifiers (best-air-purifier-2026) ─────────
   {
     id: "dyson-purifier-cool-gen1",
@@ -2984,6 +3050,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-hoka-clifton-9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHoka%2BClifton%2B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Gym Bags (best-gym-bag-2026) ─────────
+  {
+    id: "nike-brasilia-9-5",
+    category: "fitness",
+    badge: "👜",
+    name: { en: "Nike Brasilia 9.5 Training Duffel Bag", ja: "ナイキ ブラジリア 9.5 トレーニングダッフルバッグ" },
+    description: {
+      en: "~¥6,000-9,000 all-around gym duffel. Separate ventilated shoe compartment, multiple size options (XS 18L to XL 60L), 600D polyester exterior. No padded laptop sleeve; shoe compartment ventilated not sealed so odors partially enter main compartment; 600D polyester absorbs more moisture than coated nylon; not machine washable without degrading construction.",
+      ja: "約¥6,000〜9,000の万能ジムダッフル。独立ベンチレーションシューズコンパートメント、複数サイズ展開（XS 18L〜XL 60L）、600Dポリエステル外装。パッド入りノートパソコンスリーブなし；シューズコンパートメントはシール式でなくベンチレーション式のため臭いが一部メインコンパートメントに流入；600Dポリエステルはコーティングナイロンより湿気を吸収；構造を損傷せずには機械洗い不可。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-nike-brasilia-9-5", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike%2BBrasilia%2B%E3%83%80%E3%83%83%E3%83%95%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "under-armour-undeniable-5",
+    category: "fitness",
+    badge: "💧",
+    name: { en: "Under Armour Undeniable 5.0 Duffel Bag", ja: "アンダーアーマー アンデナイアブル 5.0 ダッフルバッグ" },
+    description: {
+      en: "~¥7,000-12,000 water-repellent duffel. UA Storm finish, moldable internal organization system, sizes S 32L to XL 109L. Wet pocket smaller than main compartment — full post-workout outfit change taxes the volume; UA Storm coating degrades with machine washing; moldable dividers add complexity some owners find harder to use than a simple main compartment.",
+      ja: "約¥7,000〜12,000の撥水ダッフル。UA Storm仕上げ、モールダブル内部オーガナイズシステム、S 32L〜XL 109Lのサイズ展開。ウェットポケットはメインコンパートメントより小さくポスト・ワークアウトのフルウェアチェンジには不十分；UA Stormコーティングは機械洗いで劣化；モールダブル仕切りはシンプルなコンパートメントより使い方が難しいと感じるオーナーもいる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ua-undeniable-5", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%2B%E3%82%A2%E3%83%B3%E3%83%87%E3%83%8A%E3%82%A4%E3%82%A2%E3%83%96%E3%83%AB%2B5%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "adidas-defender-4",
+    category: "fitness",
+    badge: "♻️",
+    name: { en: "Adidas Defender 4 Duffel Bag", ja: "アディダス ディフェンダー 4 ダッフルバッグ" },
+    description: {
+      en: "~¥6,000-8,000 gym-to-office duffel. 100% recycled polyester, padded laptop sleeve, front zip pocket. Smaller dedicated wet compartment than Brasilia 9.5 — fits shoes or wet clothes, not both comfortably; no UA Storm equivalent water-repellent finish; sustainability claims are real but functionally equivalent to standard polyester for gym use.",
+      ja: "約¥6,000〜8,000のジム→オフィス通勤ダッフル。100%リサイクルポリエステル、パッド入りノートパソコンスリーブ、フロントジップポケット。ブラジリア9.5より小さい専用ウェットコンパートメント——シューズかウェットウェアのどちらかは入るが両方快適には入らない；UA Storm相当の撥水加工なし；サステナビリティ訴求は本物だがジム使用では標準ポリエステルと機能的に同等。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-adidas-defender-4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9%2B%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%2B4%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anello-gym-bag",
+    category: "fitness",
+    badge: "🎒",
+    name: { en: "Anello Gym Bag", ja: "アネロ ジムバッグ" },
+    description: {
+      en: "~¥4,000-7,000 Japanese commuter gym bag. Luggage handle attachment sleeve, locker-compatible approximately 30L, popular with Japanese commuters. No dedicated sealed wet compartment — wet gear pouch less reliably isolated than sports brand designs; 30L capacity limits gym-plus-full-commute loads with laptop; high brand recognition in Japan means less discounting than international brands.",
+      ja: "約¥4,000〜7,000の日本製通勤ジムバッグ。スーツケースハンドル固定スリーブ、約30Lでロッカー適合、日本のビジネス通勤者に人気。専用シールドウェットコンパートメントなし——ウェットギアポーチはスポーツブランド設計より信頼性が低い；30Lはノートパソコン込みのフル通勤荷物には制限；日本での知名度が高く国際ブランドより値引きが少ない傾向。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anello-gym-bag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%8D%E3%83%AD%2B%E3%82%B8%E3%83%A0%E3%83%90%E3%83%83%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "the-north-face-base-camp",
+    category: "fitness",
+    badge: "🏔️",
+    name: { en: "The North Face Base Camp Duffel S", ja: "ザ・ノース・フェイス ベースキャンプ ダッフル S" },
+    description: {
+      en: "~¥16,000-18,000 travel-and-gym convertible duffel (50L). 420D ripstop nylon, welded base, convertible backpack straps. Most durable bag in this comparison. 50L too large for most private gym lockers in Japan; no dedicated wet compartment; price premium justified by travel versatility and durability, not gym-specific feature execution.",
+      ja: "約¥16,000〜18,000の旅行×ジム兼用コンバーチブルダッフル（50L）。420Dリップストップナイロン・溶着底面・コンバーチブルバックパックストラップ。この比較で最高耐久性。50Lは日本の大半の民間ジムロッカーに収まらない；専用ウェットコンパートメントなし；プレミアムは旅行汎用性と耐久性によるもので、ジム専用機能の実行品質ではない。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-tnf-base-camp-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%2B%E3%83%99%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%2B%E3%83%80%E3%83%83%E3%83%95%E3%83%AB%2FS%2F", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Home / Office Chairs 2026 (best-office-chair-2026) ─────────
