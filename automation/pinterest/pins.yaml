@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 151 articles x 6 variants x 2 locales (en, ja) = 1812 pins (growing)
+# 152 articles x 6 variants x 2 locales (en, ja) = 1824 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -20536,3 +20536,135 @@ pins:
   link: "/ja/best-wrist-wraps-for-lifting-2026"
   image_alt: "リストラップ 重いベンチプレス パワーリフティング"
   hashtags: ["ベンチプレス", "パワーリフティング", "リストラップ", "高重量トレーニング", "筋力アップ", "ジムライフ"]
+
+- id: pin-best-lifting-belt-2026-en-comparison
+  article_slug: best-lifting-belt-2026
+  locale: en
+  variant: comparison
+  board: fitness
+  title: "Best Lifting Belts 2026: Inzer vs SBD vs Rogue"
+  description: "We tested 5 top lifting belts — here's how Inzer, SBD, Rogue, Pioneer, and Harbinger compare on stiffness, durability, and competition legality."
+  link: "/en/best-lifting-belt-2026"
+  image_alt: "Best lifting belts 2026 comparison chart"
+  hashtags: ["liftingbelt", "powerlifting", "Inzer", "SBD", "strengthtraining", "gymgear"]
+
+- id: pin-best-lifting-belt-2026-en-top1
+  article_slug: best-lifting-belt-2026
+  locale: en
+  variant: top1
+  board: fitness
+  title: "Inzer Forever Lever Belt: Still the Best Lifting Belt in 2026?"
+  description: "The Inzer Forever Lever Belt 10mm delivers competition-grade stiffness with a quick-release lever mechanism — the benchmark for powerlifting belts since the 90s."
+  link: "/en/best-lifting-belt-2026"
+  image_alt: "Inzer Forever Lever Belt 10mm review 2026"
+  hashtags: ["Inzer", "liftingbelt", "powerlifting", "leverbelt", "strengthgear", "gymequipment"]
+
+- id: pin-best-lifting-belt-2026-en-problem
+  article_slug: best-lifting-belt-2026
+  locale: en
+  variant: problem
+  board: fitness
+  title: "Lower Back Pain on Deadlifts? Your Belt (or Lack of One) Might Be Why"
+  description: "A lifting belt doesn't replace core strength — it gives you something to brace against. Here's how to use one correctly and which to choose."
+  link: "/en/best-lifting-belt-2026"
+  image_alt: "Lifting belt lower back pain deadlift solution"
+  hashtags: ["lowerbackpain", "deadlift", "liftingbelt", "injuryprevention", "powerlifting", "gymtips"]
+
+- id: pin-best-lifting-belt-2026-en-budget
+  article_slug: best-lifting-belt-2026
+  locale: en
+  variant: budget
+  board: fitness
+  title: "Best Budget Lifting Belt 2026: Harbinger Padded Under $40"
+  description: "The Harbinger Padded Leather Belt is the right choice for recreational lifters who want real support without the $150+ price tag of competition belts."
+  link: "/en/best-lifting-belt-2026"
+  image_alt: "Harbinger padded leather lifting belt budget pick"
+  hashtags: ["budgetgym", "Harbinger", "liftingbelt", "affordablegear", "gymessentials"]
+
+- id: pin-best-lifting-belt-2026-en-avoid
+  article_slug: best-lifting-belt-2026
+  locale: en
+  variant: avoid
+  board: fitness
+  title: "3 Lifting Belts to Avoid in 2026 (Buckle Failures Under Load)"
+  description: "Not all lifting belts handle heavy singles well — these models have reports of buckle slippage and stitching failures at max effort. Don't risk it."
+  link: "/en/best-lifting-belt-2026"
+  image_alt: "Lifting belts to avoid 2026 safety warning"
+  hashtags: ["gymgear", "liftingbelt", "equipmentwarning", "powerlifting", "safetyfirst"]
+
+- id: pin-best-lifting-belt-2026-en-scene
+  article_slug: best-lifting-belt-2026
+  locale: en
+  variant: scene
+  board: fitness
+  title: "500lb Deadlift Needs a Belt That Won't Let You Down"
+  description: "When the bar gets heavy, your belt becomes your most critical piece of equipment. Our 2026 picks for belts that hold up when it counts."
+  link: "/en/best-lifting-belt-2026"
+  image_alt: "Lifting belt heavy deadlift powerlifting"
+  hashtags: ["deadlift", "powerlifting", "liftingbelt", "heavylifting", "strengthgains", "gymlife"]
+
+- id: pin-best-lifting-belt-2026-ja-comparison
+  article_slug: best-lifting-belt-2026
+  locale: ja
+  variant: comparison
+  board: fitness
+  title: "リフティングベルト2026年比較：Inzer vs SBD vs Rogue どれが最強？"
+  description: "5つのリフティングベルトを徹底検証。剛性・耐久性・競技規格でInzer、SBD、Rogue、Pioneer、Harbingerを正直に比較。"
+  link: "/ja/best-lifting-belt-2026"
+  image_alt: "リフティングベルト2026年比較チャート"
+  hashtags: ["リフティングベルト", "パワーリフティング", "Inzer", "SBD", "筋トレ", "ジムグッズ"]
+
+- id: pin-best-lifting-belt-2026-ja-top1
+  article_slug: best-lifting-belt-2026
+  locale: ja
+  variant: top1
+  board: fitness
+  title: "Inzerフォーエバーレバーベルト：2026年もやっぱり最強のリフティングベルト？"
+  description: "Inzer Forever Lever Belt 10mmは競技グレードの剛性とクイックリリースレバー機構を両立——パワーリフティングベルトの基準として90年代から変わらない。"
+  link: "/ja/best-lifting-belt-2026"
+  image_alt: "Inzer Forever Lever Belt 10mm レビュー2026"
+  hashtags: ["Inzer", "リフティングベルト", "パワーリフティング", "レバーベルト", "筋力トレーニング"]
+
+- id: pin-best-lifting-belt-2026-ja-problem
+  article_slug: best-lifting-belt-2026
+  locale: ja
+  variant: problem
+  board: fitness
+  title: "デッドリフトで腰が痛む？ベルトの使い方（または不使用）が原因かも"
+  description: "リフティングベルトは体幹の代わりではなく、腹圧を高めるための道具。正しい使い方と選び方を解説します。"
+  link: "/ja/best-lifting-belt-2026"
+  image_alt: "リフティングベルト 腰痛 デッドリフト 解決策"
+  hashtags: ["腰痛", "デッドリフト", "リフティングベルト", "怪我予防", "パワーリフティング", "ジムのコツ"]
+
+- id: pin-best-lifting-belt-2026-ja-budget
+  article_slug: best-lifting-belt-2026
+  locale: ja
+  variant: budget
+  board: fitness
+  title: "コスパ最強リフティングベルト2026：Harbingerパッド入り5000円以下"
+  description: "Harbinger パッド入りレザーベルトは競技用の高額ベルトを必要としないレクリエーションリフターにとってベストな選択肢。"
+  link: "/ja/best-lifting-belt-2026"
+  image_alt: "Harbinger パッド入り レザー リフティングベルト コスパ"
+  hashtags: ["コスパジム", "Harbinger", "リフティングベルト", "お手頃ギア", "ジム必需品"]
+
+- id: pin-best-lifting-belt-2026-ja-avoid
+  article_slug: best-lifting-belt-2026
+  locale: ja
+  variant: avoid
+  board: fitness
+  title: "2026年買ってはいけないリフティングベルト3選（高重量でバックル外れ）"
+  description: "高重量のシングルリフトで問題が出るモデルがある——バックルのズレや縫製の破損が報告されているものを正直にリスト。"
+  link: "/ja/best-lifting-belt-2026"
+  image_alt: "買ってはいけないリフティングベルト2026"
+  hashtags: ["ジムグッズ", "リフティングベルト", "器具選びの注意", "パワーリフティング", "安全第一"]
+
+- id: pin-best-lifting-belt-2026-ja-scene
+  article_slug: best-lifting-belt-2026
+  locale: ja
+  variant: scene
+  board: fitness
+  title: "230kgデッドリフトは裏切らないベルト選びから始まる"
+  description: "バーが重くなるほどベルトが最重要装備になる。本番で絶対に外れないベルトの2026年おすすめ5選。"
+  link: "/ja/best-lifting-belt-2026"
+  image_alt: "リフティングベルト 高重量デッドリフト パワーリフティング"
+  hashtags: ["デッドリフト", "パワーリフティング", "リフティングベルト", "高重量トレーニング", "筋力アップ", "ジムライフ"]
