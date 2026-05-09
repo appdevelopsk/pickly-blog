@@ -8344,6 +8344,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-kind-protein-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKIND+%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Food / Electrolyte Drinks (best-electrolyte-drink-2026) ─────────
+  {
+    id: "lmnt-recharge-electrolyte",
+    category: "food",
+    name: { en: "LMNT Recharge Electrolyte Drink Mix", ja: "LMNT リチャージ 電解質ドリンクミックス" },
+    description: {
+      en: "1,000mg sodium, 200mg potassium, 60mg magnesium per stick packet. Zero sugar, stevia-sweetened. Designed for athletes training in heat, keto dieters, and sauna users who need full sweat-loss replacement rather than a diluted formula. Raw Unflavored variant mixes into food or coffee without altering taste.",
+      ja: "スティック1本にナトリウム1,000mg・カリウム200mg・マグネシウム60mg。糖質ゼロ・ステビア甘味。炎天下でのトレーニング・ケトダイエット・サウナ愛好者向けに、薄めた処方ではなく実際の発汗損失を補充する設計。Raw無味バリアントは食事やコーヒーに混ぜても風味を変えない。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-lmnt-recharge-electrolyte", rawUrl: "https://www.amazon.co.jp/s?k=LMNT+%E9%9B%BB%E8%A7%A3%E8%B3%AA+%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-lmnt-recharge-electrolyte", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLMNT+%E9%9B%BB%E8%A7%A3%E8%B3%AA%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "liquid-iv-hydration-multiplier",
+    category: "food",
+    name: { en: "Liquid I.V. Hydration Multiplier", ja: "Liquid I.V. ハイドレーション マルチプライヤー" },
+    description: {
+      en: "500mg sodium, 370mg potassium, 11g sugar per stick. Cellular Transport Technology (CTT) uses a WHO-based glucose-to-sodium ratio to activate SGLT-1 transporters for faster water absorption than plain water. Solid flavor lineup — Lemon Lime, Watermelon, Passion Fruit. Energy variant adds 100mg caffeine from matcha and guayusa.",
+      ja: "1スティックにナトリウム500mg・カリウム370mg・糖質11g。WHOの経口補水液比率を応用したCellular Transport Technology（CTT）でSGLT-1トランスポーターを活性化し、水単体より速く吸収。レモンライム・ウォーターメロン・パッションフルーツなどフレーバー充実。エナジーバリアントはマッチャ＋グアユサから100mgカフェイン追加。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-liquid-iv-hydration-multiplier", rawUrl: "https://www.amazon.co.jp/s?k=Liquid+I.V.+%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-liquid-iv-hydration-multiplier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLiquid+IV+%E9%9B%BB%E8%A7%A3%E8%B3%AA%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nuun-sport-electrolyte-tablets",
+    category: "food",
+    name: { en: "Nuun Sport Electrolyte Tablets", ja: "Nuun スポーツ 電解質タブレット" },
+    description: {
+      en: "300mg sodium, 150mg potassium, 25mg magnesium, only 1g sugar per effervescent tablet. Dissolves in 16oz water. Most packable format — a tube of 10 tablets fits in a pocket. Best price per serving of the five at roughly $0.70–$0.80 per tablet. Lemon Lime and Tri-Berry are the top-rated flavors.",
+      ja: "発泡タブレット1錠にナトリウム300mg・カリウム150mg・マグネシウム25mg・糖質わずか1g。480mlの水に溶かして使用。5製品中最も携帯性が高く、10錠チューブはポケットに収まる。1回あたり80〜90円程度と最もコストパフォーマンスが高い。レモンライムとトリベリーが上位評価フレーバー。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-nuun-sport-electrolyte-tablets", rawUrl: "https://www.amazon.co.jp/s?k=Nuun+%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84+%E9%9B%BB%E8%A7%A3%E8%B3%AA+%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nuun-sport-electrolyte-tablets", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNuun+%E9%9B%BB%E8%A7%A3%E8%B3%AA%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dripdrop-ors-powder",
+    category: "food",
+    name: { en: "DripDrop ORS Electrolyte Powder", ja: "DripDrop ORS 電解質パウダー" },
+    description: {
+      en: "Medical-grade Oral Rehydration Solution meeting WHO standards. 330mg sodium, 185mg potassium, 70mg magnesium, 8g sugar per packet. Glucose-to-sodium ratio activates gut cotransport absorption. Significantly better tasting than clinical ORS alternatives. Best for illness recovery, severe dehydration, and heat exhaustion risk situations.",
+      ja: "WHO基準を満たす医療グレードの経口補水液（ORS）。1パケットにナトリウム330mg・カリウム185mg・マグネシウム70mg・糖質8g。グルコース対ナトリウム比率で腸内の共輸送吸収を活性化。臨床ORS製品と比べて明らかに飲みやすい。体調不良からの回復・重度脱水・熱中症リスクのある場面に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-dripdrop-ors-powder", rawUrl: "https://www.amazon.co.jp/s?k=DripDrop+%E9%9B%BB%E8%A7%A3%E8%B3%AA+ORS+%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-dripdrop-ors-powder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDripDrop+%E9%9B%BB%E8%A7%A3%E8%B3%AA%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pedialyte-sport",
+    category: "food",
+    name: { en: "Pedialyte Sport Electrolyte Solution", ja: "Pedialyte スポーツ 電解質ドリンク" },
+    description: {
+      en: "490mg sodium, 380mg potassium, 6g sugar per serving. Adult-focused Sport line with higher sodium and potassium than original Pedialyte. Available pre-mixed in bottles at drugstores and grocery stores 24/7 — the main advantage. Best for illness recovery and situations where availability at any hour matters more than cost efficiency.",
+      ja: "1回分にナトリウム490mg・カリウム380mg・糖質6g。オリジナルより高いナトリウム・カリウム配合の大人向けSportライン。ドラッグストアやスーパーで24時間いつでも液体ボトルが手に入る——これが最大の強み。コスト効率より深夜でも入手できることが重要な体調不良回復シーンに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-pedialyte-sport", rawUrl: "https://www.amazon.co.jp/s?k=Pedialyte+%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84+%E9%9B%BB%E8%A7%A3%E8%B3%AA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-pedialyte-sport", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPedialyte+%E9%9B%BB%E8%A7%A3%E8%B3%AA%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Doorframe Pull-Up Bars (best-pull-up-bar-doorframe-2026) ─────────
+  {
+    id: "iron-gym-total-upper-body-bar",
+    category: "fitness",
+    name: { en: "Iron Gym Total Upper Body Workout Bar", ja: "Iron Gym トータルアッパーボディワークアウトバー" },
+    description: {
+      en: "Best doorframe pull-up bar for immediate setup — no-tools over-the-door lever mount, fits 61–91 cm door openings, three grip positions (wide overhand, neutral parallel, close supinated), 136 kg static load rating. Not designed for kipping or dynamic loading.",
+      ja: "即日セットアップに最適なドア枠懸垂バー——工具不要オーバードアレバーマウント・対応ドア幅61〜91cm・3グリップポジション（ワイドオーバーハンド・ニュートラルパラレル・ナロースピネイテッド）・静荷重136kg定格。キッピング・動的荷重向きでない。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-iron-gym-total-upper-body-bar", rawUrl: "https://www.amazon.co.jp/dp/B002A2SXQE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-iron-gym-total-upper-body-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIron+Gym+%E3%83%88%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%A2%E3%83%83%E3%83%91%E3%83%BC%E3%83%9C%E3%83%87%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "perfect-fitness-multi-gym-pro",
+    category: "fitness",
+    name: { en: "Perfect Fitness Multi-Gym Pro", ja: "Perfect Fitness マルチジム プロ" },
+    description: {
+      en: "Doorframe pull-up bar with thicker frame and wider padding for heavier users — over-the-door lever mount, fits 61–91 cm openings, three grip positions plus floor push-up and dip function, 136 kg static load rating. Best for users 100–120 kg who need more stability than standard doorframe bars.",
+      ja: "重いユーザー向けに厚いフレームと広いパッドを備えたドア枠懸垂バー——オーバードアレバーマウント・対応61〜91cm・3グリップ＋床置きプッシュアップ・ディップ兼用・静荷重136kg定格。軽量バーでは安定性が不十分な100〜120kgのユーザーに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-perfect-fitness-multi-gym-pro", rawUrl: "https://www.amazon.co.jp/dp/B001EJMS6K", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-perfect-fitness-multi-gym-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPerfect+Fitness+%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B8%E3%83%A0%E3%83%97%E3%83%AD%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pullup-dip-doorframe-bar",
+    category: "fitness",
+    name: { en: "Pullup & Dip Doorframe Pull-Up Bar", ja: "Pullup & Dip ドアフレーム懸垂バー" },
+    description: {
+      en: "Adjustable-width doorframe pull-up bar — covers door openings from 62–100 cm including non-standard widths outside the typical 61–91 cm range, knurled steel grips, 100 kg static load rating. Best for buyers whose door frames do not fit standard fixed-width bars.",
+      ja: "調整式幅対応ドアフレーム懸垂バー——標準61〜91cm範囲外の62〜100cmのドア開口部に対応・ナーリングスチールグリップ・静荷重100kg定格。標準固定式バーが合わないドア枠を持つユーザーに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-pullup-dip-doorframe-bar", rawUrl: "https://www.amazon.co.jp/dp/B08GWDQWJK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-pullup-dip-doorframe-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPullup+%26+Dip+%E3%83%89%E3%82%A2%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "garren-fitness-maximiza-bar",
+    category: "fitness",
+    name: { en: "Garren Fitness Maximiza Pull Up Bar", ja: "Garren Fitness Maximiza プルアップバー" },
+    description: {
+      en: "Telescoping friction-mount doorframe pull-up bar — mounts at any height within the door opening (not limited to top trim level), fits 61–91 cm openings, 136 kg static load rating. Best for tall users (over 180 cm) who need more head clearance than over-the-door hook bars allow.",
+      ja: "テレスコープ摩擦固定式ドアフレーム懸垂バー——ドア開口部内の任意の高さに設置可能（上枠フック式と異なり高い位置への設置が可能）・対応61〜91cm・静荷重136kg定格。フックオーバー式では頭上クリアランスが不足する180cm超のユーザーに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-garren-fitness-maximiza-bar", rawUrl: "https://www.amazon.co.jp/dp/B001YHXKAQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-garren-fitness-maximiza-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarren+Fitness+Maximiza+%E3%83%97%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "prosource-multi-grip-chinup-bar",
+    category: "fitness",
+    name: { en: "ProSource Multi-Grip Chin-Up/Pull-Up Bar", ja: "ProSource マルチグリップ チンアップ/プルアップバー" },
+    description: {
+      en: "Doorframe pull-up bar with the widest grip variety in the category — five positions: wide overhand (81 cm), medium overhand (61 cm), close supinated (30 cm), and two neutral parallel grips (45 and 61 cm). Fits 61–91 cm openings, 120 kg static load rating. Best for intermediate trainees running multi-grip pull-up programs.",
+      ja: "カテゴリー最多グリップポジションを持つドア枠懸垂バー——5種類：ワイドオーバーハンド（81cm）・ミディアムオーバーハンド（61cm）・ナロースピネイテッド（30cm）・ニュートラルパラレル2種（45cmと61cm）。対応61〜91cm・静荷重120kg定格。複数グリップのプルアッププログラムを実施する中上級者に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-prosource-multi-grip-chinup-bar", rawUrl: "https://www.amazon.co.jp/dp/B00BKRQ4OM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-prosource-multi-grip-chinup-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FProSource+%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97+%E3%83%81%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
