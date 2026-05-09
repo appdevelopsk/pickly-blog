@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 47 articles x 6 variants x 2 locales (en, ja) = 572 pins (growing)
+# 49 articles x 6 variants x 2 locales (en, ja) = 596 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -6450,3 +6450,271 @@ pins:
     link: "https://pickly.blog/ja/articles/best-food-processor-2026/"
     image_alt: "フードプロセッサー 和食下ごしらえ"
     hashtags: ["フードプロセッサー", "パナソニック", "和食", "キッチン家電", "時短調理"]
+
+  # --- best-projector-2026 ---
+
+  - pin_id: best-projector-2026-en-01
+    article_slug: best-projector-2026
+    locale: en
+    variant: comparison
+    title: "Projector 2026: Anker Nebula Capsule 3 vs Epson EH-TW5825 vs XGIMI Horizon Ultra"
+    description: |
+      Anker Nebula Capsule 3 is 300 ANSI lumens — bright enough for a darkened room, not bright enough for daytime use. Epson EH-TW5825 at 2700 lumens handles ambient light for a living room setup. XGIMI Horizon Ultra delivers 4K laser at 2300 ISO lumens. We compare throw ratio, input lag, lamp life, and real-world brightness versus the spec-sheet numbers.
+    link: "https://pickly.blog/en/articles/best-projector-2026/"
+    image_alt: "Projector 2026 comparison"
+    hashtags: ["projector", "homecinema", "4k", "laser", "hometheater"]
+
+  - pin_id: best-projector-2026-en-02
+    article_slug: best-projector-2026
+    locale: en
+    variant: top1
+    title: "The projector most living rooms should actually buy in 2026"
+    description: |
+      Epson EH-TW5825 (2700 lumens, 3LCD) is the pick for most buyers — bright enough for a living room with blinds closed, no rainbow effect from DLP, and 10-year lamp life at normal brightness. Setup takes 20 minutes, alignment holds, and it doesn't need a perfectly dark room to look good. The smart home features matter less than a projector that works reliably.
+    link: "https://pickly.blog/en/articles/best-projector-2026/"
+    image_alt: "Best home projector 2026 Epson"
+    hashtags: ["projector", "homecinema", "epson", "hometheater", "4k"]
+
+  - pin_id: best-projector-2026-en-03
+    article_slug: best-projector-2026
+    locale: en
+    variant: problem
+    title: "Why projector images look washed out in normal rooms — and what the specs don't tell you"
+    description: |
+      ANSI lumens and ISO lumens are measured differently — a 2000 ISO lumen projector and a 2000 ANSI lumen projector are not equally bright. Manufacturers often publish peak brightness under laboratory conditions. In real rooms with white walls and some ambient light, effective brightness is 30-50% lower. We explain how to calculate the lumens you actually need for your specific room dimensions and light conditions.
+    link: "https://pickly.blog/en/articles/best-projector-2026/"
+    image_alt: "Projector brightness guide real world"
+    hashtags: ["projector", "homecinema", "hometheater", "buyingguide", "4k"]
+
+  - pin_id: best-projector-2026-en-04
+    article_slug: best-projector-2026
+    locale: en
+    variant: budget
+    title: "Getting a real home cinema setup for under ¥50,000"
+    description: |
+      BenQ TH685P (~¥45,000) at 3500 lumens and 120Hz is the most capable gaming and movie projector under ¥50,000. It handles bright rooms, has 16ms input lag for gaming, and the DLP chip produces sharp text. The trade-off: some viewers see the DLP rainbow effect on high-contrast scenes. For movies and sports in a dedicated room with controlled lighting, the value is unmatched at this price.
+    link: "https://pickly.blog/en/articles/best-projector-2026/"
+    image_alt: "Budget home cinema projector BenQ TH685P"
+    hashtags: ["projector", "homecinema", "benq", "budget", "hometheater"]
+
+  - pin_id: best-projector-2026-en-05
+    article_slug: best-projector-2026
+    locale: en
+    variant: avoid
+    title: "Portable projectors that look impressive in demos but disappoint at home"
+    description: |
+      Ultra-portable projectors under ¥15,000 often publish "equivalent brightness" numbers that are 3-5x their actual ANSI lumen output. A 500 lumen projector looks fine in a pitch-black demo room and unwatchable in a room with any ambient light. We flag specific models with misleading brightness claims, poor focus rings, and built-in speakers that distort at usable volumes.
+    link: "https://pickly.blog/en/articles/best-projector-2026/"
+    image_alt: "Portable projector buying mistakes"
+    hashtags: ["projector", "homecinema", "buyingguide", "hometheater", "tips"]
+
+  - pin_id: best-projector-2026-en-06
+    article_slug: best-projector-2026
+    locale: en
+    variant: scene
+    title: "Projector for a 1LDK apartment: what works in a small Japanese room"
+    description: |
+      Most Japanese apartments have 2.4m ceiling height and rooms under 12 tatami. Short-throw projectors place the unit 50-80cm from the wall. Anker Nebula Capsule 3 is ceiling-mountable and fits in a closet when not in use. For a dedicated movie corner in a 6-tatami room, a 1.2:1 throw ratio puts a 100" image from 1.5m. We match projector specs to apartment constraints specifically.
+    link: "https://pickly.blog/en/articles/best-projector-2026/"
+    image_alt: "Projector for small apartment 1LDK"
+    hashtags: ["projector", "homecinema", "apartment", "hometheater", "anker"]
+
+  - pin_id: best-projector-2026-ja-01
+    article_slug: best-projector-2026
+    locale: ja
+    variant: comparison
+    title: "プロジェクター2026：Nebula Capsule 3 vs Epson EH-TW5825 vs XGIMI Horizon Ultra"
+    description: |
+      Anker Nebula Capsule 3は300ANSIルーメン — 暗室では十分、日中は不向き。Epson EH-TW5825は2700ルーメンでリビングの環境光にも対応。XGIMI Horizon Ultraは4Kレーザーで2300ISOルーメン。スローレシオ・入力遅延・ランプ寿命・スペック上の輝度と実使用での差を比較。
+    link: "https://pickly.blog/ja/articles/best-projector-2026/"
+    image_alt: "プロジェクター 2026年比較"
+    hashtags: ["プロジェクター", "ホームシアター", "4K", "レーザープロジェクター", "映画"]
+
+  - pin_id: best-projector-2026-ja-02
+    article_slug: best-projector-2026
+    locale: ja
+    variant: top1
+    title: "2026年、ほとんどのリビングに適したプロジェクター"
+    description: |
+      Epson EH-TW5825（2700ルーメン、3LCD）が多くの人の最適解 — ブラインドを閉めたリビングでも十分な輝度、DLPのレインボー現象なし、通常輝度なら10年のランプ寿命。セットアップ20分、アライメントは保持される。スマートホーム機能より「確実に動く」信頼性が重要。
+    link: "https://pickly.blog/ja/articles/best-projector-2026/"
+    image_alt: "Epson ホームプロジェクター 2026年1位"
+    hashtags: ["プロジェクター", "ホームシアター", "エプソン", "映画", "4K"]
+
+  - pin_id: best-projector-2026-ja-03
+    article_slug: best-projector-2026
+    locale: ja
+    variant: problem
+    title: "普通の部屋でプロジェクター映像が白っぽくなる理由とスペックが教えてくれないこと"
+    description: |
+      ANSIルーメンとISOルーメンは測定方法が異なり、2000ISOルーメンと2000ANSIルーメンの明るさは同じではない。メーカーはしばしば実験室条件での最大輝度を公表する。白壁や環境光がある実際の部屋では実効輝度は30〜50%低下する。部屋の広さと採光条件から必要ルーメン数を計算する方法を解説。
+    link: "https://pickly.blog/ja/articles/best-projector-2026/"
+    image_alt: "プロジェクター 輝度の実態ガイド"
+    hashtags: ["プロジェクター", "ホームシアター", "購入ガイド", "映画", "4K"]
+
+  - pin_id: best-projector-2026-ja-04
+    article_slug: best-projector-2026
+    locale: ja
+    variant: budget
+    title: "5万円以下で本格ホームシアター環境を作る"
+    description: |
+      BenQ TH685P（約45,000円）は3500ルーメン・120HzでゲームとDVD映像両対応の5万円以下最有力。明るい部屋でも見やすく、ゲーム向け16ms入力遅延、DLPチップでテキストがシャープ。トレードオフ：高コントラスト場面でDLPレインボー現象が気になる人もいる。遮光できる専用部屋での映画・スポーツ視聴ならこの価格帯で最高のコスパ。
+    link: "https://pickly.blog/ja/articles/best-projector-2026/"
+    image_alt: "コスパホームシアタープロジェクター BenQ TH685P"
+    hashtags: ["プロジェクター", "ホームシアター", "BenQ", "コスパ", "映画"]
+
+  - pin_id: best-projector-2026-ja-05
+    article_slug: best-projector-2026
+    locale: ja
+    variant: avoid
+    title: "デモでは映えるが自宅で失望するポータブルプロジェクター"
+    description: |
+      15,000円以下の超小型プロジェクターは「相当輝度」表記で実際のANSIルーメンの3〜5倍を謳うことが多い。500ルーメンは完全暗室では見栄えするが、環境光があると実用不能。輝度表記が誇大なモデル、フォーカスリングの粗いモデル、実用音量で歪むスピーカーを備えるモデルを明示。
+    link: "https://pickly.blog/ja/articles/best-projector-2026/"
+    image_alt: "ポータブルプロジェクター 購入失敗ガイド"
+    hashtags: ["プロジェクター", "ホームシアター", "購入ガイド", "映画", "比較"]
+
+  - pin_id: best-projector-2026-ja-06
+    article_slug: best-projector-2026
+    locale: ja
+    variant: scene
+    title: "1LDKに合うプロジェクター：日本の狭い部屋で使える機種を選ぶ"
+    description: |
+      日本のマンションは天井高2.4m・6〜12畳が標準。短焦点プロジェクターなら壁から50〜80cm設置。Anker Nebula Capsule 3は天井マウント対応で未使用時はクローゼットに収納可能。6畳の映画コーナーなら投射比1.2:1で1.5mから100インチ投影。アパートの制約に合わせたスペック選びを解説。
+    link: "https://pickly.blog/ja/articles/best-projector-2026/"
+    image_alt: "1LDK向けプロジェクター選び"
+    hashtags: ["プロジェクター", "ホームシアター", "一人暮らし", "映画", "Anker"]
+
+  # --- best-knife-set-2026 ---
+
+  - pin_id: best-knife-set-2026-en-01
+    article_slug: best-knife-set-2026
+    locale: en
+    variant: comparison
+    title: "Knife set 2026: Global G-2 vs Zwilling Four Star vs Victorinox Fibrox Pro"
+    description: |
+      Global G-2 uses Japanese VG-10 steel at 58-60 HRC — holds an edge longer but harder to sharpen at home. Zwilling Four Star uses German X50CrMoV15 at 56-58 HRC — easier to maintain on a honing steel. Victorinox Fibrox Pro is the Swiss-made knife used in professional kitchens globally at 1/3 the price. We compare edge retention, balance, and real-world sharpening requirements.
+    link: "https://pickly.blog/en/articles/best-knife-set-2026/"
+    image_alt: "Knife set 2026 comparison"
+    hashtags: ["knifeset", "chefknife", "global", "zwilling", "cooking"]
+
+  - pin_id: best-knife-set-2026-en-02
+    article_slug: best-knife-set-2026
+    locale: en
+    variant: top1
+    title: "The chef's knife most home cooks should buy instead of a full knife set"
+    description: |
+      Victorinox Fibrox Pro 8" (~¥4,500) is the chef's knife used in professional cooking schools and restaurant kitchens. Stamped Swiss steel, comfortable NSF-rated handle, and it sharpens easily on a whetstone. For 90% of home cooking tasks, one good chef's knife outperforms a 7-piece block set of mediocre knives. Buy the single knife first, then add a paring knife if needed.
+    link: "https://pickly.blog/en/articles/best-knife-set-2026/"
+    image_alt: "Victorinox Fibrox Pro best chef knife 2026"
+    hashtags: ["chefknife", "victorinox", "cooking", "knifeset", "mealprep"]
+
+  - pin_id: best-knife-set-2026-en-03
+    article_slug: best-knife-set-2026
+    locale: en
+    variant: problem
+    title: "Why expensive knives go dull faster than cheap ones — and what steel hardness actually means"
+    description: |
+      Harder steel (higher HRC) holds an edge longer but chips under lateral stress and requires a whetstone to restore — it won't respond to a honing steel. Softer German steel dulls gradually and can be restored with a few strokes on a honing rod. We explain why a Global knife used by someone who never sharpens is a bad knife, while the same knife in experienced hands is exceptional.
+    link: "https://pickly.blog/en/articles/best-knife-set-2026/"
+    image_alt: "Knife steel hardness explained"
+    hashtags: ["chefknife", "knifeset", "cooking", "sharpening", "tips"]
+
+  - pin_id: best-knife-set-2026-en-04
+    article_slug: best-knife-set-2026
+    locale: en
+    variant: budget
+    title: "A ¥15,000 knife setup that outperforms ¥60,000 block sets"
+    description: |
+      Victorinox Fibrox Pro 8" chef knife + 6" boning knife + entry whetstone (~¥14,000 total) gives you better cutting performance than most full block sets in the same price range. Block sets bundle 5-7 knives where 4-5 will rarely be used. For the budget going into rarely-used steak knives and a knife block, you get one good chef knife and the means to keep it sharp.
+    link: "https://pickly.blog/en/articles/best-knife-set-2026/"
+    image_alt: "Budget knife setup outperforms block sets"
+    hashtags: ["chefknife", "knifeset", "budget", "cooking", "victorinox"]
+
+  - pin_id: best-knife-set-2026-en-05
+    article_slug: best-knife-set-2026
+    locale: en
+    variant: avoid
+    title: "Knife sets that look impressive in the block but perform poorly when used"
+    description: |
+      Sets with 15+ pieces almost always include scissors, honing steels, and steak knives that dilute the per-knife budget. Stamped blades sold in oversized blocks look impressive but flex under pressure and lose edge geometry quickly. Knives with pakkawood handles look beautiful but are not dishwasher-safe (despite marketing claims). We flag which block set features are style over substance.
+    link: "https://pickly.blog/en/articles/best-knife-set-2026/"
+    image_alt: "Knife set buying mistakes to avoid"
+    hashtags: ["knifeset", "chefknife", "cooking", "buyingguide", "tips"]
+
+  - pin_id: best-knife-set-2026-en-06
+    article_slug: best-knife-set-2026
+    locale: en
+    variant: scene
+    title: "Japanese knives for Japanese home cooking: what single-bevel means and when it matters"
+    description: |
+      Global G-2 is double-bevel (Western grind) — suitable for all-purpose cutting. Traditional Japanese yanagiba and deba knives are single-bevel — designed for fish filleting and precise cuts where the flat back guides the blade. Kai Wasabi Black Set bridges the gap with double-bevel Japanese geometry for home cooks who want Japanese aesthetics and performance without sharpening expertise.
+    link: "https://pickly.blog/en/articles/best-knife-set-2026/"
+    image_alt: "Japanese kitchen knives guide 2026"
+    hashtags: ["knifeset", "japaneseknife", "cooking", "global", "kai"]
+
+  - pin_id: best-knife-set-2026-ja-01
+    article_slug: best-knife-set-2026
+    locale: ja
+    variant: comparison
+    title: "包丁2026：グローバル G-2 vs ツヴィリング フォースター vs ビクトリノックス Fibrox Pro"
+    description: |
+      グローバル G-2はVG-10鋼（58〜60HRC）— 切れ味の持続性が高いが自宅での研ぎはやや難しい。ツヴィリング フォースターはX50CrMoV15（56〜58HRC）— シャープニングスチールで手軽にメンテナンス可能。ビクトリノックス Fibrox Proは世界中のプロ厨房で使われるスイス製包丁で価格は1/3。刃の持続性・バランス・メンテナンス難易度を比較。
+    link: "https://pickly.blog/ja/articles/best-knife-set-2026/"
+    image_alt: "包丁セット 2026年比較"
+    hashtags: ["包丁", "グローバル包丁", "ツヴィリング", "料理", "キッチン"]
+
+  - pin_id: best-knife-set-2026-ja-02
+    article_slug: best-knife-set-2026
+    locale: ja
+    variant: top1
+    title: "包丁セットより先にこの1本を買うべき理由"
+    description: |
+      ビクトリノックス Fibrox Pro 8"（約4,500円）は料理学校とプロ厨房で使われるシェフズナイフ。スタンプ製スイス鋼、NSF認定グリップ、砥石で研ぎやすい。家庭料理の9割はこの1本で完結し、中途半端な7本セットより高い切れ味を維持できる。まず1本、必要なら追加でペアリングナイフを。
+    link: "https://pickly.blog/ja/articles/best-knife-set-2026/"
+    image_alt: "ビクトリノックス Fibrox Pro 2026年1位シェフズナイフ"
+    hashtags: ["包丁", "ビクトリノックス", "料理", "シェフズナイフ", "キッチン"]
+
+  - pin_id: best-knife-set-2026-ja-03
+    article_slug: best-knife-set-2026
+    locale: ja
+    variant: problem
+    title: "高価な包丁が安い包丁より早く切れなくなる理由と鋼材硬度の意味"
+    description: |
+      硬い鋼材（高いHRC）は刃の持続性が高いが横方向の力でチッピングしやすく、砥石での修正が必要でシャープニングスチールには反応しない。柔らかいドイツ鋼は徐々に鈍るが研ぎ棒で数ストロークで復活。研ぎの習慣がない人のグローバル包丁は凡庸な包丁になるが、手入れできる人の手には卓越した道具になる理由を解説。
+    link: "https://pickly.blog/ja/articles/best-knife-set-2026/"
+    image_alt: "包丁 鋼材硬度と研ぎ方ガイド"
+    hashtags: ["包丁", "シェフズナイフ", "料理", "砥石", "メンテナンス"]
+
+  - pin_id: best-knife-set-2026-ja-04
+    article_slug: best-knife-set-2026
+    locale: ja
+    variant: budget
+    title: "15,000円の包丁セットアップが60,000円のブロックセットに勝つ理由"
+    description: |
+      ビクトリノックス Fibrox Pro シェフズナイフ＋ボーニングナイフ＋エントリー砥石（合計約14,000円）は同価格帯の多くのブロックセットより高い切れ味を実現。ブロックセットは5〜7本中4〜5本がほぼ使われない。ほとんど使わないステーキナイフとナイフブロックに費やす予算で、良質なシェフズナイフと維持する手段を手に入れる。
+    link: "https://pickly.blog/ja/articles/best-knife-set-2026/"
+    image_alt: "コスパ包丁セットアップ ブロックセット不要論"
+    hashtags: ["包丁", "シェフズナイフ", "コスパ", "料理", "ビクトリノックス"]
+
+  - pin_id: best-knife-set-2026-ja-05
+    article_slug: best-knife-set-2026
+    locale: ja
+    variant: avoid
+    title: "ブロックでは映えるが実用で失望する包丁セット"
+    description: |
+      15本以上のセットはほぼ必ずハサミ・シャープニングスチール・ステーキナイフで本数を水増ししている。大きなブロックに入った打抜き刃はインパクトがあるが、圧力下でたわみ刃形状が崩れやすい。パッカーウッドハンドルは美しいが食洗機非対応（マーケティングと異なる）。スタイル重視で実用性が伴わないブロックセットの特徴を明示。
+    link: "https://pickly.blog/ja/articles/best-knife-set-2026/"
+    image_alt: "包丁セット 購入失敗ガイド"
+    hashtags: ["包丁", "シェフズナイフ", "料理", "購入ガイド", "比較"]
+
+  - pin_id: best-knife-set-2026-ja-06
+    article_slug: best-knife-set-2026
+    locale: ja
+    variant: scene
+    title: "和食に向く包丁：片刃の意味と使いどころ"
+    description: |
+      グローバル G-2は両刃（洋包丁グラインド）— 万能用途に適している。柳刃・出刃などの伝統的な和包丁は片刃 — 魚のさばきや正確な切り込みで背面の平面が刃を誘導する設計。貝印 Wasabi Blackセットは両刃の和包丁ジオメトリで、研ぎの専門知識なしに日本の意匠と切れ味を求める家庭料理向けのブリッジ製品。
+    link: "https://pickly.blog/ja/articles/best-knife-set-2026/"
+    image_alt: "和包丁ガイド 片刃と両刃の違い"
+    hashtags: ["包丁", "和包丁", "料理", "グローバル包丁", "貝印"]
