@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 51 articles x 6 variants x 2 locales (en, ja) = 620 pins (growing)
+# 53 articles x 6 variants x 2 locales (en, ja) = 644 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -6986,3 +6986,271 @@ pins:
     link: "https://pickly.blog/ja/articles/best-cast-iron-pan-2026/"
     image_alt: "南部鉄器 岩鋳スキレット ガイド"
     hashtags: ["南部鉄器", "岩鋳", "鉄フライパン", "日本の鋳鉄", "料理"]
+
+  # --- best-slow-cooker-2026 ---
+
+  - pin_id: best-slow-cooker-2026-en-01
+    article_slug: best-slow-cooker-2026
+    locale: en
+    variant: comparison
+    title: "Slow cooker 2026: Crock-Pot vs Instant Pot vs Cuisinart compared"
+    description: |
+      Crock-Pot 6-Quart does one thing well — low and slow heat with 3 settings. No programming, no pressure, no learning curve. Instant Pot Duo 7-in-1 combines pressure cooking (fast) and slow cooking (traditional) in one pot. Cuisinart CSC-800 adds programmable timer for set-it-before-work meals. We compare what each does best and where each wastes your money.
+    link: "https://pickly.blog/en/articles/best-slow-cooker-2026/"
+    image_alt: "Slow cooker 2026 comparison"
+    hashtags: ["slowcooker", "instantpot", "mealprep", "cooking", "crockpot"]
+
+  - pin_id: best-slow-cooker-2026-en-02
+    article_slug: best-slow-cooker-2026
+    locale: en
+    variant: top1
+    title: "The slow cooker most home cooks should actually buy"
+    description: |
+      Crock-Pot SCCPVL610-S is the original — 6-quart ceramic insert, warm/low/high settings, and nothing to break or update. Stew, chili, pulled pork, and braised dishes all come out correctly without timer management. For someone who wants to start cooking before work and come home to a finished dinner, this is the lowest-friction entry. No app, no subscription, no learning curve.
+    link: "https://pickly.blog/en/articles/best-slow-cooker-2026/"
+    image_alt: "Best slow cooker 2026 Crock-Pot"
+    hashtags: ["slowcooker", "crockpot", "mealprep", "cooking", "easyrecipes"]
+
+  - pin_id: best-slow-cooker-2026-en-03
+    article_slug: best-slow-cooker-2026
+    locale: en
+    variant: problem
+    title: "Slow cooker meals that come out watery — what's actually wrong"
+    description: |
+      Slow cookers generate condensation that drips back into the pot — unlike oven braises where liquid evaporates. Recipes written for stovetop or oven use 30-50% too much liquid when translated directly to a slow cooker. Vegetables release moisture as they cook. We explain which recipes need liquid reduction before serving, which vegetables to add in the last hour, and why slow cooker lids should stay on.
+    link: "https://pickly.blog/en/articles/best-slow-cooker-2026/"
+    image_alt: "Slow cooker watery food fix guide"
+    hashtags: ["slowcooker", "mealprep", "cooking", "tips", "crockpot"]
+
+  - pin_id: best-slow-cooker-2026-en-04
+    article_slug: best-slow-cooker-2026
+    locale: en
+    variant: budget
+    title: "A compact slow cooker for 1-2 people under ¥6,000"
+    description: |
+      Cuisinart CSC-800 3.5L (~¥5,500) handles meals for 1-2 people without a 6-quart pot that's half empty every use. Programmable timer switches to warm automatically — suits a 9-to-5 schedule. For someone cooking single portions of braised chicken, soup, or overnight oats, the smaller footprint and timer make it genuinely practical versus the oversized default large models.
+    link: "https://pickly.blog/en/articles/best-slow-cooker-2026/"
+    image_alt: "Compact slow cooker 1-2 people Cuisinart"
+    hashtags: ["slowcooker", "mealprep", "cooking", "budget", "cuisinart"]
+
+  - pin_id: best-slow-cooker-2026-en-05
+    article_slug: best-slow-cooker-2026
+    locale: en
+    variant: avoid
+    title: "Slow cooker vs Instant Pot: when buying both is a mistake"
+    description: |
+      Instant Pot's slow cook function runs hotter than traditional slow cookers — recipes written for Crock-Pot timing can overcook in an Instant Pot on "slow cook" mode. Buying both for a small kitchen is redundant if your main use is braising and stews. The Instant Pot pressure function saves time on beans and grains but the slow cook mode is not a direct replacement for a dedicated slow cooker. We clarify which kitchen genuinely benefits from each.
+    link: "https://pickly.blog/en/articles/best-slow-cooker-2026/"
+    image_alt: "Slow cooker vs Instant Pot which to buy"
+    hashtags: ["slowcooker", "instantpot", "mealprep", "cooking", "buyingguide"]
+
+  - pin_id: best-slow-cooker-2026-en-06
+    article_slug: best-slow-cooker-2026
+    locale: en
+    variant: scene
+    title: "Fermentation mode slow cookers: making yogurt, amazake, and shio koji at home"
+    description: |
+      Panasonic SR-MP300 and select Instant Pot models include a yogurt/fermentation function that holds 40-45°C — the temperature range for lactobacillus cultures, amazake koji fermentation, and shio koji. Making yogurt saves roughly ¥400-600 per liter versus store-bought. Amazake takes 8 hours at 60°C. For someone already interested in fermented foods, the fermentation mode changes the value calculation significantly.
+    link: "https://pickly.blog/en/articles/best-slow-cooker-2026/"
+    image_alt: "Slow cooker fermentation yogurt amazake"
+    hashtags: ["slowcooker", "fermentation", "amazake", "yogurt", "cooking"]
+
+  - pin_id: best-slow-cooker-2026-ja-01
+    article_slug: best-slow-cooker-2026
+    locale: ja
+    variant: comparison
+    title: "スロークッカー2026：クロックポット vs Instant Pot vs クイジナート 比較"
+    description: |
+      クロックポット6クォートはシンプルに低温長時間調理だけ — 3段階設定でプログラム不要。Instant Pot Duo 7-in-1は圧力調理（時短）とスロー調理（伝統的）を1台で。クイジナート CSC-800はタイマー付きで出勤前セット・帰宅時完成が可能。それぞれが最も得意とする用途と、費用を無駄にする場面を比較。
+    link: "https://pickly.blog/ja/articles/best-slow-cooker-2026/"
+    image_alt: "スロークッカー 2026年比較"
+    hashtags: ["スロークッカー", "Instantpot", "作り置き", "料理", "時短調理"]
+
+  - pin_id: best-slow-cooker-2026-ja-02
+    article_slug: best-slow-cooker-2026
+    locale: ja
+    variant: top1
+    title: "ほとんどの家庭向けのスロークッカー 2026年"
+    description: |
+      クロックポット SCCPVL610-Sはオリジナル — 6クォートセラミックポット、保温/低温/高温設定のみ、壊れる部品やアップデートが不要。シチュー・カレー・豚の角煮・煮込み料理が出かける前にセットして帰宅時に完成。アプリもサブスクも学習コストも不要な最低摩擦の選択。
+    link: "https://pickly.blog/ja/articles/best-slow-cooker-2026/"
+    image_alt: "スロークッカー 2026年1位 クロックポット"
+    hashtags: ["スロークッカー", "クロックポット", "作り置き", "料理", "煮込み"]
+
+  - pin_id: best-slow-cooker-2026-ja-03
+    article_slug: best-slow-cooker-2026
+    locale: ja
+    variant: problem
+    title: "スロークッカーの料理が水っぽくなる原因と対策"
+    description: |
+      スロークッカーは蓋の内側に結露が溜まってポットに戻る — オーブンの煮込みのように水分が蒸発しない。鍋・フライパン向けレシピをそのまま使うと水分が30〜50%多すぎる。野菜は加熱で水分を放出する。どのレシピが仕上げに煮詰めが必要か、野菜を最後の1時間に加えるべき理由、蓋を開けない重要性を解説。
+    link: "https://pickly.blog/ja/articles/best-slow-cooker-2026/"
+    image_alt: "スロークッカー 水っぽい料理の対策"
+    hashtags: ["スロークッカー", "作り置き", "料理", "煮込み", "コツ"]
+
+  - pin_id: best-slow-cooker-2026-ja-04
+    article_slug: best-slow-cooker-2026
+    locale: ja
+    variant: budget
+    title: "1〜2人向けのコンパクトスロークッカー6,000円以下"
+    description: |
+      クイジナート CSC-800 3.5L（約5,500円）は1〜2人分の調理に最適なサイズ — 毎回6クォートの半分しか使わない大型機は不要。タイマー付きで自動保温切替 — 9時〜17時の勤務体系に対応。単人分の鶏肉の煮込み・スープ・オーバーナイトオーツに、コンパクトサイズとタイマーが実用的な価値を持つ。
+    link: "https://pickly.blog/ja/articles/best-slow-cooker-2026/"
+    image_alt: "コンパクトスロークッカー 1〜2人用 クイジナート"
+    hashtags: ["スロークッカー", "作り置き", "料理", "コスパ", "クイジナート"]
+
+  - pin_id: best-slow-cooker-2026-ja-05
+    article_slug: best-slow-cooker-2026
+    locale: ja
+    variant: avoid
+    title: "スロークッカーとInstant Potの両方を買うのが無駄になる場合"
+    description: |
+      Instant Potのスロー調理機能はクロックポットより高温で動作するため、クロックポット向け時間設定では煮すぎになることがある。煮込み・シチューが主目的なら両方の購入は狭いキッチンでは重複投資。Instant Potの圧力機能は豆・穀物の時短に威力を発揮するが、スロー調理モードは専用機の代替にはならない。どちらが本当に必要かを整理。
+    link: "https://pickly.blog/ja/articles/best-slow-cooker-2026/"
+    image_alt: "スロークッカー vs Instant Pot どちらを選ぶか"
+    hashtags: ["スロークッカー", "Instantpot", "作り置き", "料理", "購入ガイド"]
+
+  - pin_id: best-slow-cooker-2026-ja-06
+    article_slug: best-slow-cooker-2026
+    locale: ja
+    variant: scene
+    title: "スロークッカーの発酵モード：ヨーグルト・甘酒・塩麹を自宅で"
+    description: |
+      パナソニック SR-MP300と一部のInstant Potは40〜45℃を維持する発酵モードを搭載 — 乳酸菌培養（ヨーグルト）・甘酒麹発酵・塩麹に必要な温度帯。ヨーグルトは1リットルあたり市販品より約400〜600円節約。甘酒は60℃で8時間。発酵食品に興味がある人には、この機能が購入判断を大きく変える。
+    link: "https://pickly.blog/ja/articles/best-slow-cooker-2026/"
+    image_alt: "スロークッカー 発酵モード ヨーグルト 甘酒"
+    hashtags: ["スロークッカー", "発酵", "甘酒", "ヨーグルト", "料理"]
+
+  # --- best-electric-grill-2026 ---
+
+  - pin_id: best-electric-grill-2026-en-01
+    article_slug: best-electric-grill-2026
+    locale: en
+    variant: comparison
+    title: "Electric grill 2026: Zojirushi vs Cuisinart Griddler vs George Foreman compared"
+    description: |
+      Zojirushi EB-DLC20 is designed for Japanese tabletop yakiniku — the drain pan collects fat and the non-stick surface handles thin-sliced beef and pork. Cuisinart Griddler GR-4N converts between panini press, open grill, and flat griddle. George Foreman's angled design drains fat away passively. We compare actual smokiness, cleanup time, and real use cases for each.
+    link: "https://pickly.blog/en/articles/best-electric-grill-2026/"
+    image_alt: "Electric grill 2026 comparison"
+    hashtags: ["electricgrill", "indoorgrill", "zojirushi", "yakiniku", "cooking"]
+
+  - pin_id: best-electric-grill-2026-en-02
+    article_slug: best-electric-grill-2026
+    locale: en
+    variant: top1
+    title: "The electric grill that works best for apartment cooking in 2026"
+    description: |
+      Zojirushi EB-DLC20 earns its place in Japanese apartments: the drain pan reduces smoke from fatty cuts, removable plates dishwasher-safe, and the footprint fits a small table. Best for thin-sliced yakiniku, vegetables, and light fish. The temperature doesn't reach charcoal levels, so thick steaks need more time — but for the typical apartment tabletop BBQ it's the reliable choice.
+    link: "https://pickly.blog/en/articles/best-electric-grill-2026/"
+    image_alt: "Best electric grill apartment cooking Zojirushi"
+    hashtags: ["electricgrill", "indoorgrill", "zojirushi", "apartment", "yakiniku"]
+
+  - pin_id: best-electric-grill-2026-en-03
+    article_slug: best-electric-grill-2026
+    locale: en
+    variant: problem
+    title: "Smokeless indoor grills that actually produce smoke — what the spec doesn't tell you"
+    description: |
+      Every electric grill produces some smoke — the difference is degree. "Smokeless" marketing means less smoke than charcoal, not zero smoke. Fatty cuts at high heat smoke regardless of the drain pan design. We tested which grills stay acceptably smoke-free for lean chicken and vegetables, and which ones set off smoke alarms when cooking pork belly. Open windows and a ventilation fan change the calculus.
+    link: "https://pickly.blog/en/articles/best-electric-grill-2026/"
+    image_alt: "Smokeless electric grill reality guide"
+    hashtags: ["electricgrill", "indoorgrill", "apartment", "cooking", "tips"]
+
+  - pin_id: best-electric-grill-2026-en-04
+    article_slug: best-electric-grill-2026
+    locale: en
+    variant: budget
+    title: "A capable indoor grill under ¥8,000 for apartment cooking"
+    description: |
+      George Foreman GFO201R (~¥6,000) handles lean proteins cleanly — chicken breasts, fish fillets, and burgers without the smoke of a stovetop pan. The angled drain means less manual cleanup. At this price it's not a tabletop BBQ experience, but for weeknight protein cooking without a kitchen hood, it's practical. The non-removable plates make thorough cleaning harder than pricier models.
+    link: "https://pickly.blog/en/articles/best-electric-grill-2026/"
+    image_alt: "Budget indoor electric grill George Foreman"
+    hashtags: ["electricgrill", "indoorgrill", "budget", "cooking", "apartment"]
+
+  - pin_id: best-electric-grill-2026-en-05
+    article_slug: best-electric-grill-2026
+    locale: en
+    variant: avoid
+    title: "Electric grill features that sound useful but create maintenance problems"
+    description: |
+      Non-removable grill plates are a deal-breaker for regular use — grease builds up in crevices that can't be reached by a sponge. Grills with a built-in water tray for smoke reduction sound clever but require emptying hot water after every use and grow mold if forgotten. "Multi-function" grills that do everything often do nothing particularly well. We identify which feature sets actually simplify cooking.
+    link: "https://pickly.blog/en/articles/best-electric-grill-2026/"
+    image_alt: "Electric grill maintenance problems guide"
+    hashtags: ["electricgrill", "indoorgrill", "buyingguide", "cooking", "tips"]
+
+  - pin_id: best-electric-grill-2026-en-06
+    article_slug: best-electric-grill-2026
+    locale: en
+    variant: scene
+    title: "Raclette grills for winter gatherings: what Récolte RGH-1 does differently"
+    description: |
+      Récolte Raclette Grill RGH-1 combines a top grill surface with individual raclette pans underneath — each person melts their own cheese while the group grills vegetables and thin meat on top. It's designed for 2-4 people eating together, not solo cooking. The compact footprint fits a small table. For winter dinner parties in an apartment where charcoal grilling is prohibited, it creates a social cooking experience.
+    link: "https://pickly.blog/en/articles/best-electric-grill-2026/"
+    image_alt: "Raclette grill Recolte apartment party"
+    hashtags: ["electricgrill", "raclette", "indoorgrill", "recolte", "cooking"]
+
+  - pin_id: best-electric-grill-2026-ja-01
+    article_slug: best-electric-grill-2026
+    locale: ja
+    variant: comparison
+    title: "ホットプレート2026：象印 vs クイジナート グリドラー vs ジョージ・フォアマン 比較"
+    description: |
+      象印 EB-DLC20は日本の家庭焼肉向け設計 — 油受けトレイが脂を回収し、ノンスティック面が薄切り牛・豚に対応。クイジナート グリドラー GR-4Nはパニーニプレス・グリル・フラットグリドルに変換可能。ジョージ・フォアマンは傾斜設計で脂を自動排出。実際の煙の量・後片付け時間・用途別の適合性を比較。
+    link: "https://pickly.blog/ja/articles/best-electric-grill-2026/"
+    image_alt: "ホットプレート 2026年比較"
+    hashtags: ["ホットプレート", "焼肉", "象印", "室内グリル", "料理"]
+
+  - pin_id: best-electric-grill-2026-ja-02
+    article_slug: best-electric-grill-2026
+    locale: ja
+    variant: top1
+    title: "2026年、マンションの室内調理に最適なホットプレート"
+    description: |
+      象印 EB-DLC20がマンション向けに実績あり：油受けトレイが脂の多い肉の煙を軽減、プレート食洗機対応、小さなテーブルに収まるフットプリント。薄切り焼肉・野菜・淡白な魚に最適。厚切りステーキは炭火レベルの温度に届かず時間がかかるが、一般的なテーブル焼肉には信頼の選択。
+    link: "https://pickly.blog/ja/articles/best-electric-grill-2026/"
+    image_alt: "ホットプレート マンション向け 象印 2026年1位"
+    hashtags: ["ホットプレート", "焼肉", "象印", "マンション", "室内グリル"]
+
+  - pin_id: best-electric-grill-2026-ja-03
+    article_slug: best-electric-grill-2026
+    locale: ja
+    variant: problem
+    title: "「煙が出ない」ホットプレートが実際には煙を出す理由"
+    description: |
+      すべての電気グリルはある程度の煙を発生させる — 「スモークレス」は炭火より煙が少ない意味で、ゼロではない。脂の多い肉を高温で焼けば油受けの設計に関わらず煙が出る。鶏肉・野菜なら煙が許容範囲内に収まるのに対し、豚バラを焼くと火災報知器が鳴るモデルをテスト比較。換気扇と窓開けで状況は変わる。
+    link: "https://pickly.blog/ja/articles/best-electric-grill-2026/"
+    image_alt: "スモークレスホットプレートの実態"
+    hashtags: ["ホットプレート", "焼肉", "マンション", "室内グリル", "煙対策"]
+
+  - pin_id: best-electric-grill-2026-ja-04
+    article_slug: best-electric-grill-2026
+    locale: ja
+    variant: budget
+    title: "マンション調理に使える8,000円以下の電気グリル"
+    description: |
+      ジョージ・フォアマン GFO201R（約6,000円）は鶏胸肉・白身魚・ハンバーガーなど脂の少ないタンパク質をフライパン調理より煙少なく焼ける。傾斜設計で自動的に脂が排出されるため後片付けが楽。平日の夜に換気フードなしでタンパク質を焼くには実用的。プレートが取り外せない点は高価格帯モデルより清潔を保ちにくい。
+    link: "https://pickly.blog/ja/articles/best-electric-grill-2026/"
+    image_alt: "コスパ電気グリル ジョージフォアマン"
+    hashtags: ["ホットプレート", "電気グリル", "コスパ", "料理", "マンション"]
+
+  - pin_id: best-electric-grill-2026-ja-05
+    article_slug: best-electric-grill-2026
+    locale: ja
+    variant: avoid
+    title: "便利そうに見えてメンテナンスが面倒なホットプレートの機能"
+    description: |
+      プレートが取り外せないグリルは日常使いには致命的 — 入り組んだ隙間に油が溜まりスポンジが届かない。煙を抑えるための水トレイは毎回熱湯を捨てる手間があり、忘れるとカビが生える。「多機能」グリルは何でもできるが何も特別うまくいかないことが多い。実際に調理を楽にする機能セットを見極める方法を整理。
+    link: "https://pickly.blog/ja/articles/best-electric-grill-2026/"
+    image_alt: "ホットプレート メンテナンス問題ガイド"
+    hashtags: ["ホットプレート", "電気グリル", "購入ガイド", "料理", "比較"]
+
+  - pin_id: best-electric-grill-2026-ja-06
+    article_slug: best-electric-grill-2026
+    locale: ja
+    variant: scene
+    title: "冬のおうちパーティにラクレットグリル：レコルト RGH-1の使い方"
+    description: |
+      レコルト ラクレットグリル RGH-1はトップグリル面と個人用ラクレットパンを組み合わせ — 各自がチーズを溶かしながら、上面で野菜や薄切り肉をグリルする2〜4人向けのパーティー調理器具。コンパクトで小さなテーブルに収まる。火気使用禁止のマンションで冬の食卓を囲む体験が欲しいなら、社交的な調理体験を提供できる選択肢。
+    link: "https://pickly.blog/ja/articles/best-electric-grill-2026/"
+    image_alt: "ラクレットグリル レコルト マンションパーティー"
+    hashtags: ["ラクレット", "ホットプレート", "レコルト", "電気グリル", "料理"]
