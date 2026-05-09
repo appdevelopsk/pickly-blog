@@ -900,6 +900,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-stadler-form-oskar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStadler%2BForm%2B%E3%82%AA%E3%82%B9%E3%82%AB%E3%83%BC%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Home / Humidifiers v2 (best-humidifier-2026 — new product set) ─────────
+  {
+    id: "levoit-classic-300s-humidifier",
+    category: "home",
+    badge: "📱",
+    name: { en: "Levoit Classic 300S Smart Ultrasonic Humidifier", ja: "Levoit Classic 300S スマート超音波加湿器" },
+    description: {
+      en: "App control via VeSync, Alexa/Google voice, auto mode with built-in humidity sensor, 6L tank, whisper-quiet sleep mode. Best value smart humidifier. Weakness: ultrasonic white dust on hard tap water, no UV-C, weekly tank cleaning mandatory.",
+      ja: "VeSyncアプリ・Alexa/Googleボイス対応、内蔵センサー付きオートモード、6Lタンク、静音スリープモード。コスパ最高のスマート加湿器。弱点：硬水で白い粉発生・UV-Cなし・週次タンク清掃必須。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-levoit-classic-300s-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLevoit%2BClassic%2B300S%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dyson-am10-humidifier",
+    category: "home",
+    badge: "💠",
+    name: { en: "Dyson AM10 Humidifier", ja: "Dyson AM10 加湿器" },
+    description: {
+      en: "UV-C water sterilization kills 99.9% of bacteria before dispersal, precise ±1% humidity control, Dyson Air Multiplier fan function, hygienic mist. Premium pick for large rooms. Weakness: high price, monthly UV-C bulb checks, no HEPA filtration.",
+      ja: "UV-C除菌で細菌99.9%を散布前に殺菌、±1%精度の湿度制御、エアマルチプライアーファン機能、衛生的なミスト。広い部屋向けプレミアム。弱点：高価格・月次UV-Cランプ確認・HEPAフィルターなし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-dyson-am10-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDyson%2BAM10%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "honeywell-hcm350-humidifier",
+    category: "home",
+    badge: "🌿",
+    name: { en: "Honeywell HCM-350 Germ-Free Cool Mist Humidifier", ja: "Honeywell HCM-350 ジャームフリー気化式加湿器" },
+    description: {
+      en: "Evaporative cool mist, UV-C technology kills 99.9% of microorganisms in the water, no white dust, easy-to-clean design, dishwasher-safe components. Best no-dust pick. Weakness: filter replacement every 1-2 months, no smart features, US-focused.",
+      ja: "気化式冷風・UV-C技術で水中微生物99.9%除菌・白い粉なし・お手入れ簡単・食洗機対応パーツ。白粉なし最有力。弱点：1〜2ヶ月ごとフィルター交換・スマート機能なし・米国向け製品。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-honeywell-hcm350-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHoneywell%2BHCM-350%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "vicks-v745a-humidifier",
+    category: "home",
+    badge: "♨️",
+    name: { en: "Vicks V745A Warm Mist Humidifier", ja: "Vicks V745A ウォームミスト加湿器" },
+    description: {
+      en: "Warm mist via boiling — sterile output, compatible with Vicks VapoPads medicated steam pads, 1-gallon tank runs 12 hours, budget price. Best pick for cold/flu season. Weakness: hot steam burn risk, higher electricity cost than evaporative, not for homes with children.",
+      ja: "沸騰による温かいミスト — 無菌出力・VapoSteam薬用パッド対応・1ガロンタンクで12時間運転・低価格。風邪・インフルエンザシーズン向け最有力。弱点：熱いスチームによるやけどリスク・気化式より電気代高・子供のいる家庭には不向き。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-vicks-v745a-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVicks%2BV745A%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "crane-droplet-humidifier",
+    category: "home",
+    badge: "💧",
+    name: { en: "Crane Droplet Ultrasonic Cool Mist Humidifier", ja: "Crane ドロップレット 超音波式加湿器" },
+    description: {
+      en: "Compact droplet design, 1-gallon tank (3.8L), 500 sq ft coverage, 24-hour runtime, whisper-quiet, easy-fill top-loading tank. Best compact bedroom pick. Weakness: no app or smart features, white dust on hard water, filter optional but recommended.",
+      ja: "コンパクトな水滴デザイン、1ガロンタンク（3.8L）、46m²対応、24時間連続運転、静音、上部給水。寝室向けコンパクト最有力。弱点：アプリ・スマート機能なし・硬水で白い粉発生・フィルターはオプション推奨。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-crane-droplet-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCrane%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2B%E8%B6%85%E9%9F%B3%E6%B3%A2%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Home / Robot Vacuums (best-robot-vacuum-2026) ─────────
   {
     id: "roborock-s8-pro-ultra",
@@ -1492,6 +1558,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-mytrex-rebive-mini-xs", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMYTREX%2BREBIVE%2BMINI%2BXS%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Massage Guns Gen6 (best-massage-gun-2026) ─────────
+  {
+    id: "theragun-pro-gen6",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Theragun PRO Gen 6", ja: "Theragun PRO Gen 6" },
+    description: {
+      en: "Professional-grade percussion massager. 16 mm amplitude, 6 attachments, OLED display, 2400 PPM, up to 60 lbs stall force. The deepest-reaching home device in this comparison.",
+      ja: "プロ仕様の打突マッサージ機。振幅16mm、6アタッチメント、OLEDディスプレイ、最大2400PPM、最大60ポンドのストール力。本比較で最も深層筋まで届く家庭用機器。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-theragun-pro-gen6", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTheragun%2BPRO%2BGen%2B6%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hyperice-hypervolt-2-pro",
+    category: "fitness",
+    badge: "🔵",
+    name: { en: "Hyperice Hypervolt 2 Pro", ja: "Hyperice Hypervolt 2 Pro" },
+    description: {
+      en: "Bluetooth-connected percussion massager. Pressure sensor, 3 speeds, quiet glide technology (~53 dB). Pairs with the Hyperice app for guided recovery sessions.",
+      ja: "Bluetooth接続の打突マッサージ機。圧力センサー搭載、3段階速度、クワイエットグライド技術（約53dB）。Hypericeアプリと連携してガイド付きリカバリーセッションが可能。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-hyperice-hypervolt-2-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHyperice%2BHypervolt%2B2%2BPro%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ekrin-b37s-massage-gun",
+    category: "fitness",
+    badge: "📐",
+    name: { en: "Ekrin B37S", ja: "Ekrin B37S" },
+    description: {
+      en: "56-degree angled handle for natural wrist position during self-use. 5 speeds, 8-hour battery, ~55 dB operating noise. The ergonomic standout for solo upper-back work.",
+      ja: "56度アングルハンドルで自然な手首角度を実現。5段階速度、8時間バッテリー、約55dBの動作音。一人での上背部ケアでエルゴノミクス面が際立つモデル。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ekrin-b37s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEkrin%2BB37S%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "renpho-r3-mini-massage-gun",
+    category: "fitness",
+    badge: "✈️",
+    name: { en: "Renpho R3 Mini Massage Gun", ja: "Renpho R3 ミニマッサージガン" },
+    description: {
+      en: "Ultra-compact travel massage gun. 5 interchangeable heads, fits in a small pouch, USB-C charging. Good for travel and small muscle groups; not a substitute for a full-size unit on dense back or thigh muscle.",
+      ja: "超コンパクトなトラベル用マッサージガン。5種類のヘッド付属、小型ポーチに収まるサイズ、USB-C充電。旅行や小筋群のケアに最適。背中や太ももの深層筋へのフルサイズ代替にはならない。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-renpho-r3-mini", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRenpho%2BR3%2BMini%2BMassage%2BGun%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "achedaway-pro-massage-gun",
+    category: "fitness",
+    badge: "💥",
+    name: { en: "Achedaway Pro", ja: "Achedaway Pro" },
+    description: {
+      en: "16 mm amplitude, strong brushless motor with good value for deep tissue work. 5 speeds, long battery life, quieter than comparable deep-tissue units. Solid mid-premium pick without the brand premium of Theragun.",
+      ja: "振幅16mm、強力なブラシレスモーターで深層組織ケアにコスパ優秀。5段階速度、長時間バッテリー、同等の深層筋ケア機と比べて静か。Theragunのブランドプレミアムなしに購入できるミッドプレミアムの有力候補。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-achedaway-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAchedaway%2BPro%2BMassage%2BGun%2F", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Beauty / Protein Powder (best-protein-powder-2026) ─────────
