@@ -7154,6 +7154,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-sunny-sf-rw5515", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2B%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
+  // best-kombucha-2026
+  {
+    id: "gts-synergy-kombucha",
+    category: "food",
+    name: { en: "GT's Synergy Kombucha", ja: "GT's シナジー コンブチャ" },
+    description: {
+      en: "The original raw unpasteurized kombucha, live cultures, bold fermented flavor",
+      ja: "生・非加熱の元祖コンブチャ、生きた菌入り、本格発酵フレーバー",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-gts-synergy-kombucha", rawUrl: "https://www.amazon.co.jp/s?k=GT%27s+synergy+kombucha", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-gts-synergy-kombucha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGT%27s%2B%E3%82%B3%E3%83%B3%E3%83%96%E3%83%81%E3%83%A3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "health-ade-kombucha",
+    category: "food",
+    name: { en: "Health-Ade Kombucha", ja: "ヘルスエイド コンブチャ" },
+    description: {
+      en: "Glass bottle fermented kombucha, widely available flavors, clean taste",
+      ja: "ガラス瓶醸造コンブチャ、豊富なフレーバー、すっきりとした味わい",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-health-ade-kombucha", rawUrl: "https://www.amazon.co.jp/s?k=health+ade+kombucha", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-health-ade-kombucha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%98%E3%83%AB%E3%82%B9%E3%82%A8%E3%82%A4%E3%83%89%2B%E3%82%B3%E3%83%B3%E3%83%96%E3%83%81%E3%83%A3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "brew-dr-kombucha",
+    category: "food",
+    name: { en: "Brew Dr. Kombucha", ja: "ブリュードクター コンブチャ" },
+    description: {
+      en: "USDA Organic, whole-leaf tea botanicals, low-sugar options available",
+      ja: "USDA有機認証、茶葉・ボタニカル素材使用、低糖質ラインあり",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-brew-dr-kombucha", rawUrl: "https://www.amazon.co.jp/s?k=brew+dr+kombucha+organic", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-brew-dr-kombucha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%2B%E3%82%B3%E3%83%B3%E3%83%96%E3%83%81%E3%83%A3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "humm-kombucha",
+    category: "food",
+    name: { en: "Humm Kombucha", ja: "ハム コンブチャ" },
+    description: {
+      en: "Beginner-friendly, low sugar, mild flavor, lighter carbonation",
+      ja: "初心者向け、低糖質、マイルドな風味、軽めの炭酸",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-humm-kombucha", rawUrl: "https://www.amazon.co.jp/s?k=humm+kombucha", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-humm-kombucha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%B3%E3%83%96%E3%83%81%E3%83%A3%2B%E4%BD%8E%E7%B3%96%E8%B3%AA%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kevita-master-brew",
+    category: "food",
+    name: { en: "KeVita Master Brew Kombucha", ja: "ケビータ マスターブリュー コンブチャ" },
+    description: {
+      en: "PepsiCo backed, 6 billion CFU probiotics, bold carbonation, wide distribution",
+      ja: "ペプシコ傘下、60億CFUプロバイオティクス、しっかり炭酸、全国流通",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-kevita-master-brew", rawUrl: "https://www.amazon.co.jp/s?k=kevita+master+brew+kombucha", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kevita-master-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%B3%E3%83%96%E3%83%81%E3%83%A3%2B%E3%83%97%E3%83%AD%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // best-ab-roller-2026
+  {
+    id: "ab-carver-pro",
+    category: "fitness",
+    name: { en: "Perfect Fitness Ab Carver Pro", ja: "パーフェクトフィットネス アブカーバープロ" },
+    description: {
+      en: "Carbon steel internal spring assists rollout, ultra-wide wheel for oblique carving, ergonomic 45-degree handles",
+      ja: "カーボンスチールスプリングでロールアウトをアシスト、超ワイドホイールで腹斜筋を刺激、45度人間工学的ハンドル",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-ab-carver-pro", rawUrl: "https://www.amazon.co.jp/s?k=perfect+fitness+ab+carver+pro", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ab-carver-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%96%E3%82%AB%E3%83%BC%E3%83%90%E3%83%BC%2B%E3%83%97%E3%83%AD%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sklz-core-wheels",
+    category: "fitness",
+    name: { en: "SKLZ Core Wheels", ja: "SKLZ コアホイール" },
+    description: {
+      en: "Dual-wheel design for superior lateral stability, elevated handles for neutral wrist position, folds flat for storage",
+      ja: "デュアルホイールで横方向安定性抜群、高めハンドルで手首を自然な角度に保つ、折りたたみ収納",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-sklz-core-wheels", rawUrl: "https://www.amazon.co.jp/s?k=sklz+core+wheels+ab+roller", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sklz-core-wheels", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSKLZ%2B%E3%82%B3%E3%82%A2%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lifeline-power-wheel",
+    category: "fitness",
+    name: { en: "Lifeline Power Wheel", ja: "ライフライン パワーホイール" },
+    description: {
+      en: "Foot attachment for hamstring rollouts and pike presses, padded hand grips, unlocks advanced core exercises",
+      ja: "フット装着でハムストリングロールアウトやパイクプレスが可能、パッド付きグリップ、上級体幹トレーニング対応",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-lifeline-power-wheel", rawUrl: "https://www.amazon.co.jp/s?k=lifeline+power+wheel+ab+roller", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-lifeline-power-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2B%E4%BD%93%E5%B9%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "elite-sportz-ab-wheel",
+    category: "fitness",
+    name: { en: "Elite Sportz Ab Wheel", ja: "エリートスポーツ アブホイール" },
+    description: {
+      en: "Wide foam-grip wheel, non-slip handles, no assembly required, includes knee pad",
+      ja: "幅広フォームグリップホイール、滑り止めハンドル、組み立て不要、ニーパッド付属",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-elite-sportz-ab-wheel", rawUrl: "https://www.amazon.co.jp/s?k=elite+sportz+ab+wheel+roller", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-elite-sportz-ab-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%96%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2B%E8%85%B9%E7%AD%8B%2B%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "vinsguir-ab-roller",
+    category: "fitness",
+    name: { en: "Vinsguir Ab Roller", ja: "ヴィンスガー アブローラー" },
+    description: {
+      en: "Textured non-slip wheel surface, foam handles, 440 lb capacity, includes knee pad, budget entry-level",
+      ja: "テクスチャー滑り止めホイール、フォームハンドル、耐荷重200kg、ニーパッド付属、コスパ最高の入門モデル",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-vinsguir-ab-roller", rawUrl: "https://www.amazon.co.jp/s?k=vinsguir+ab+roller+wheel", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-vinsguir-ab-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%96%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2B%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2B%E8%85%B9%E7%AD%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
