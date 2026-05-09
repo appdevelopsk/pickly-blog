@@ -6824,6 +6824,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-bright-cellars-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBRIGHT%2BCellars%2B%E3%83%AF%E3%82%A4%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Food / Olive Oil (best-olive-oil-2026) ─────────
+  {
+    id: "california-olive-ranch-evoo",
+    category: "food",
+    name: { en: "California Olive Ranch Extra Virgin Olive Oil", ja: "カリフォルニアオリーブランチ エクストラバージンオリーブオイル" },
+    description: {
+      en: "Best everyday US-made EVOO — harvest-date labeled, domestic California production, mid-range polyphenol profile covers cooking and light finishing use at mainstream retail pricing (~$0.45/oz). Most reliably fresh domestic EVOO at a non-premium price.",
+      ja: "最高の日常使いの米国産EVOO——収穫日ラベル付き、カリフォルニア国内生産、中程度のポリフェノールプロファイルが料理と軽い仕上げ用途をカバー（約0.45ドル/オンス）。プレミアムでない価格で最も信頼できる鮮度の国内産EVOO。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-california-olive-ranch-evoo", rawUrl: "https://www.amazon.co.jp/s?k=California+Olive+Ranch+%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%83%90%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-california-olive-ranch-evoo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCalifornia+Olive+Ranch+%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%83%90%E3%83%BC%E3%82%B8%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kirkland-organic-evoo",
+    category: "food",
+    name: { en: "Kirkland Signature Organic Extra Virgin Olive Oil", ja: "カークランドシグネチャー オーガニックエクストラバージンオリーブオイル" },
+    description: {
+      en: "Best bulk value extra virgin — lowest cost per ounce in this comparison (~$0.31/oz for Costco 2-liter), USDA Organic certified, Mediterranean-sourced. Best for households cooking with olive oil daily where rapid consumption manages freshness.",
+      ja: "最高のまとめ買いコスパ——この比較で最低のオンス単価（コストコの2リットルで約0.31ドル/オンス）、USDAオーガニック認証、地中海産。毎日オリーブオイルで料理し素早い消費で鮮度を管理する家庭に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-kirkland-organic-evoo", rawUrl: "https://www.amazon.co.jp/s?k=Kirkland+%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF+%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kirkland-organic-evoo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKirkland+%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF+%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "brightland-alive-evoo",
+    category: "food",
+    name: { en: "Brightland Alive Extra Virgin Olive Oil", ja: "ブライトランド Alive エクストラバージンオリーブオイル" },
+    description: {
+      en: "Best premium single-origin finishing oil — harvest date and pressing date labeled, direct-to-consumer supply chain, high-polyphenol California Arbequina/Arbosana blend with assertive grassy flavor. Best for finishing use where oil flavor is the point.",
+      ja: "最高のプレミアムシングルオリジン仕上げオイル——収穫日と搾油日ラベル記載、コンシューマーダイレクトのサプライチェーン、主張の強い草の香りを持つ高ポリフェノールのカリフォルニア産アルベキーナ/アルボサナブレンド。オイルの風味が重要な仕上げ用途に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-brightland-alive-evoo", rawUrl: "https://www.amazon.co.jp/s?k=Brightland+Alive+%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-brightland-alive-evoo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBrightland+Alive+%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cobram-estate-robust-evoo",
+    category: "food",
+    name: { en: "Cobram Estate Robust Extra Virgin Olive Oil", ja: "コブラムエステート ロバスト エクストラバージンオリーブオイル" },
+    description: {
+      en: "Best for high-heat cooking — higher-polyphenol Robust designation from Coratina and Koroneiki varieties provides oxidative stability at cooking temperatures, harvest-date labeled. Peppery, assertive flavor profile. Best for sautéing and roasting.",
+      ja: "高温調理に最適——コラティーナとコロネイキ品種からのRobust指定による高ポリフェノールが調理温度での酸化安定性を提供、収穫日ラベル付き。ピリッとした主張のある風味プロファイル。ソテーとローストに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-cobram-estate-robust-evoo", rawUrl: "https://www.amazon.co.jp/s?k=Cobram+Estate+Robust+%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cobram-estate-robust-evoo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCobram+Estate+Robust+%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pompeian-smooth-evoo",
+    category: "food",
+    name: { en: "Pompeian Smooth Extra Virgin Olive Oil", ja: "ポンペイアン スムース エクストラバージンオリーブオイル" },
+    description: {
+      en: "Best grocery-store budget option — widely available, lowest price point at ~$0.25/oz in large format, mild flavor filtered for consumers who dislike bitterness. Best when budget is the binding constraint and cooking volume is high.",
+      ja: "最高のバジェットスーパーマーケットオプション——広く入手可能、大型フォーマットで最低価格（約0.25ドル/オンス）、苦味を嫌う消費者向けのマイルドな風味。予算が絶対的な制約で調理量が多い場合に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-pompeian-smooth-evoo", rawUrl: "https://www.amazon.co.jp/s?k=Pompeian+Smooth+%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-pompeian-smooth-evoo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPompeian+Smooth+%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Fitness / Spin Bikes (best-spin-bike-2026) ─────────
   {
     id: "peloton-bike",
@@ -6888,6 +6954,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "amazon-jp-sunny-health-sf-b1002", rawUrl: "https://www.amazon.co.jp/s?k=Sunny+Health+%26+Fitness+SF-B1002+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-sunny-health-sf-b1002", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSunny+Health+SF-B1002+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Treadmills (best-treadmill-2026) ─────────
+  {
+    id: "nordictrack-commercial-1750",
+    category: "fitness",
+    name: { en: "NordicTrack Commercial 1750 Treadmill", ja: "NordicTrack Commercial 1750 トレッドミル" },
+    description: {
+      en: "Best overall connected treadmill — 3.75 CHP motor, 56×152 cm belt, FlexSelect adjustable cushioning, -3% to 15% incline, 14-inch HD touchscreen with iFit terrain simulation and automatic speed/incline control",
+      ja: "最高の総合コネクテッドトレッドミル — 3.75 CHPモーター・56×152 cmベルト・FlexSelect調整可能クッション・-3%〜15%傾斜・iFit地形シミュレーション付き14インチHDタッチスクリーン・自動速度/傾斜制御",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-nordictrack-commercial-1750", rawUrl: "https://www.amazon.co.jp/s?k=NordicTrack+Commercial+1750+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nordictrack-commercial-1750", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNordicTrack+Commercial+1750+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "peloton-tread",
+    category: "fitness",
+    name: { en: "Peloton Tread", ja: "Peloton Tread トレッドミル" },
+    description: {
+      en: "Best for live class running experience — rubber slat belt for superior cushioning, 3.0 CHP motor, 56×152 cm belt, 12% incline/-3% decline, Peloton running content with structured training plans from 5K to marathon",
+      ja: "ライブクラスランニング体験に最適 — 優れたクッション性のゴムスラットベルト・3.0 CHPモーター・56×152 cmベルト・12%傾斜/-3%下降・5Kからマラソンまでの構造化トレーニングプラン付きPelotonランニングコンテンツ",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-peloton-tread", rawUrl: "https://www.amazon.co.jp/s?k=Peloton+Tread+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-peloton-tread", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPeloton+Tread+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bowflex-treadmill-22",
+    category: "fitness",
+    name: { en: "Bowflex Treadmill 22", ja: "Bowflex Treadmill 22 トレッドミル" },
+    description: {
+      en: "Best mid-range connected treadmill — 4.0 CHP motor, 56×152 cm belt, 20% incline/-6% decline (widest range in class), JRNY adaptive coaching adjusts speed in real time based on heart rate",
+      ja: "最高の中間コネクテッドトレッドミル — 4.0 CHPモーター・56×152 cmベルト・20%傾斜/-6%下降（クラス最広範囲）・心拍数に基づきリアルタイムで速度を調整するJRNYアダプティブコーチング",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-bowflex-treadmill-22", rawUrl: "https://www.amazon.co.jp/s?k=Bowflex+Treadmill+22+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bowflex-treadmill-22", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex+Treadmill+22%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "horizon-fitness-t101",
+    category: "fitness",
+    name: { en: "Horizon Fitness T101 Treadmill", ja: "Horizon Fitness T101 トレッドミル" },
+    description: {
+      en: "Best budget folding treadmill — 2.5 CHP motor, 51×137 cm belt, 12% incline, foldable deck with transport wheels; lifetime motor and frame warranty; correct for walkers and light joggers with space constraints",
+      ja: "最高のバジェット折りたたみトレッドミル — 2.5 CHPモーター・51×137 cmベルト・12%傾斜・運搬ホイール付き折りたたみデッキ；生涯モーターとフレーム保証；スペース制約のあるウォーカーと軽いジョガーに最適",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-horizon-fitness-t101", rawUrl: "https://www.amazon.co.jp/s?k=Horizon+Fitness+T101+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-horizon-fitness-t101", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHorizon+T101+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lifefitness-t3",
+    category: "fitness",
+    name: { en: "Life Fitness T3 Treadmill", ja: "Life Fitness T3 トレッドミル" },
+    description: {
+      en: "Best commercial-grade belt durability — 3.0 CHP motor, 56×152 cm belt, 15% incline, Flex Deck cushioning built to commercial gym standards; lifetime motor and frame warranty; no connected content, pure running machine",
+      ja: "最高の業務用グレードベルト耐久性 — 3.0 CHPモーター・56×152 cmベルト・15%傾斜・商業ジム基準のFlex Deckクッション；生涯モーターとフレーム保証；コネクテッドコンテンツなし・純粋なランニングマシン",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-lifefitness-t3", rawUrl: "https://www.amazon.co.jp/s?k=Life+Fitness+T3+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-lifefitness-t3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLife+Fitness+T3+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
