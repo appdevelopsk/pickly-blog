@@ -2920,6 +2920,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-funcy-yoga-mat-8mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFUNCY%2B%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88%2B8mm%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Running Shoes (best-running-shoes-2026) ─────────
+  {
+    id: "nike-pegasus-41",
+    category: "fitness",
+    badge: "👟",
+    name: { en: "Nike Air Zoom Pegasus 41", ja: "ナイキ エア ズーム ペガサス 41" },
+    description: {
+      en: "~¥16,000 all-around versatile daily trainer. React foam midsole, 10 mm heel-to-toe drop, Air Zoom units under forefoot and heel, good outsole rubber coverage. Forefoot runs narrow and wide-width versions are limited in Japan; React foam compresses at 600-700 km rather than 800+ km; mild guidance is insufficient for moderate-to-severe overpronators.",
+      ja: "約¥16,000の万能デイリートレーナー。Reactフォームミッドソール、10mmヒールトゥドロップ、フォアフットとヒール下のエア ズームユニット、良好なアウトソールラバーカバレッジ。フォアフットが細く日本での幅広バージョンが限られている；Reactフォームは800km以上ではなく600〜700kmで圧縮；マイルドガイダンスは中程度から重度のオーバープロネーターには不十分。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-nike-pegasus-41", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike%2BPegasus%2B41%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "asics-gel-kayano-31",
+    category: "fitness",
+    badge: "🏃",
+    name: { en: "Asics Gel-Kayano 31", ja: "アシックス ゲルカヤノ 31" },
+    description: {
+      en: "~¥22,000 stability standard for overpronators. LITETRUSS medial post resists arch collapse, FF Blast+ Eco foam, Japanese last calibrated for wider Japanese forefoot. Heaviest shoe in this comparison at 310 g; stability mechanism creates a rigid feel that neutral runners find uncomfortable; highest price, only justified if you genuinely need stability features.",
+      ja: "約¥22,000のオーバープロネーター向けスタビリティスタンダード。LITETRUSSメディアルポストがアーチ崩壊に抵抗、FF Blast+ Ecoフォーム、幅広日本人フォアフット向けの日本ラスト。本比較最重量の1足310g；スタビリティメカニズムがニュートラルランナーに不快な硬い感触を生み出す；最高価格、スタビリティ機能を本当に必要とする場合にのみ正当化される。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-asics-gel-kayano-31", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9%2B%E3%82%B2%E3%83%AB%E3%82%AB%E3%83%A4%E3%83%8E%2B31%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "brooks-ghost-16",
+    category: "fitness",
+    badge: "👟",
+    name: { en: "Brooks Ghost 16", ja: "ブルックス ゴースト 16" },
+    description: {
+      en: "~¥16,500 wide-fit neutral daily trainer. DNA Loft v2 foam, wide toe box, good rubber outsole coverage, best wide-width availability on Rakuten in this comparison. Comfort-focused cushioning is too soft and heavy for tempo sessions; slightly high heel counter causes Achilles discomfort for some runners during break-in; wide toe box gives narrow-foot runners a sloppy fit with blister risk at distance.",
+      ja: "約¥16,500の幅広フィット ニュートラルデイリートレーナー。DNA Loft v2フォーム、広いトゥボックス、良好なラバーアウトソールカバレッジ、本比較で楽天最良の幅広対応。コンフォート重視のクッションはテンポセッションには柔らかすぎて重すぎる；若干高いヒールカウンターが一部ランナーの慣らし期間中のアキレス不快感を引き起こす；広いトゥボックスが狭い足ランナーにブリスターリスクのあるゆるいフィット感を与える。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-brooks-ghost-16", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBrooks%2BGhost%2B16%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "new-balance-880v14",
+    category: "fitness",
+    badge: "🔵",
+    name: { en: "New Balance Fresh Foam 880v14", ja: "ニューバランス Fresh Foam 880v14" },
+    description: {
+      en: "~¥17,000 high-mileage comfort pick. Fresh Foam X midsole, multiple width options (B narrow, D standard, 2E wide), consistent fit across versions, well-calibrated for Japanese feet. Fresh Foam X compresses faster at 650-750 km versus 800+ km for firmer foams; runs somewhat heavy at 295 g; provides little road feedback, making interval pacing harder without a more responsive alternative.",
+      ja: "約¥17,000の高走行量コンフォートピック。Fresh Foam Xミッドソール、複数の幅オプション（Bナロー・Dスタンダード・2Eワイド）、バージョン間の一貫したフィット、日本人の足に合わせた設計。Fresh Foam Xは硬めのフォームの800km以上ではなく650〜750kmで速く圧縮；1足295gとやや重い；路面フィードバックが少なくより反応性のある代替なしではインターバルペーシングが難しくなる可能性がある。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-new-balance-880v14", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNew%2BBalance%2B880v14%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hoka-clifton-9",
+    category: "fitness",
+    badge: "☁️",
+    name: { en: "Hoka Clifton 9", ja: "ホカ クリフトン 9" },
+    description: {
+      en: "~¥19,000 recovery and long-run pick. 38 mm heel stack, 4 mm heel-to-toe drop, meta-rocker geometry reduces ankle range-of-motion demand, CMEVA foam. Low drop loads calf and Achilles more than higher-drop alternatives — 2-3 week adaptation required for heel strikers; maximal stack creates a floating feel that disorients some runners at faster effort; limited wide-width availability in Japan.",
+      ja: "約¥19,000のリカバリー・ロングランピック。38mmヒールスタック、4mmヒールトゥドロップ、足首の可動域要求を削減するメタロッカージオメトリ、CMEVAフォーム。低ドロップがより高ドロップの代替よりふくらはぎとアキレスに多く負担を掛ける——ヒールストライカーに2〜3週間の適応が必要；マキシマルスタックが速いペース時に一部ランナーの方向感覚を失わせる浮遊感を生み出す；日本での幅広対応が限られている。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-hoka-clifton-9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHoka%2BClifton%2B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Home / Office Chairs 2026 (best-office-chair-2026) ─────────
   {
     id: "herman-miller-aeron",
@@ -3644,6 +3710,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-panasonic-mk-h4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2BMK-H4%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Beauty / Sunglasses (best-sunglasses-2026) ─────────
+  {
+    id: "rayban-wayfarer-classic",
+    category: "beauty",
+    badge: "🕶️",
+    name: { en: "Ray-Ban Wayfarer Classic RB2140", ja: "Ray-Ban ウェイファーラー クラシック RB2140" },
+    description: {
+      en: "The original 1956 acetate Wayfarer with UV400 protection standard across all lens options and a polarized upgrade available. Keyhole nose bridge accommodates lower nose bridges better than saddle designs. Explicit weakness: no official Asian Fit variant for RB2140; polarized upgrade is significantly pricier; counterfeit listings common on Rakuten — verify seller authorization.",
+      ja: "UV400対策を全レンズオプション標準搭載、偏光アップグレードもある1956年オリジナルアセテートWayfarer。キーホールノーズブリッジはサドルブリッジよりアジア顔型に寛容。明確な弱点：RB2140の公式アジアフィットバリアントなし；偏光アップグレードが大幅高価；楽天には偽造品が多いため販売者認定の確認が必須。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-rayban-wayfarer-classic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRay-Ban%2BWayfarer%2BRB2140%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oakley-holbrook",
+    category: "beauty",
+    badge: "🏔️",
+    name: { en: "Oakley Holbrook", ja: "Oakley ホルブルック" },
+    description: {
+      en: "O-Matter lightweight polycarbonate frame with optional Prizm lens technology for activity-specific contrast enhancement. Three-Point Fit grips at nose and temples. Explicit weakness: saddle bridge slides on most Asian face shapes without aftermarket nose pad modification; Prizm color tints cause initial visual disorientation in mixed environments.",
+      ja: "O-Matter軽量ポリカーボネートフレームとオプションのPrizmレンズ技術で活動特化コントラスト向上。スリーポイントフィットが鼻とテンプルをグリップ。明確な弱点：アフターマーケット鼻パッドなしにほとんどのアジア顔型でサドルブリッジが滑る；Prizmレンズカラーが混在環境での切り替えで初期の視覚的違和感を生じることがある。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-oakley-holbrook", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOakley%2BHolbrook%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "maui-jim-peahi",
+    category: "beauty",
+    badge: "🌊",
+    name: { en: "Maui Jim Peahi", ja: "Maui Jim ペアヒ" },
+    description: {
+      en: "SuperThin glass polarized lenses with PolarizedPlus2 dual-surface coating for the highest optical clarity in this comparison. Minimal peripheral distortion, genuine color accuracy. Explicit weakness: glass is heavier than polycarbonate/NXT; shatters on impact — unsuitable for sport; ¥30,000+ in Japan; no prescription service in Japan; Asian Fit variant hard to find in domestic retail.",
+      ja: "この比較で最高の光学的透明度を実現するSuperThinガラス偏光レンズとPolarizedPlus2デュアル面コーティング。周辺歪み最小で真の色の正確さ。明確な弱点：ガラスはポリカーボネート/NXTより重い；衝撃で割れるためスポーツ不向き；日本で30,000円以上；日本での度数サービスなし；国内小売でアジアフィットバリアントの入手が困難。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-maui-jim-peahi", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMaui%2BJim%2BPeahi%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zoff-uv-sunglasses",
+    category: "beauty",
+    badge: "🇯🇵",
+    name: { en: "Zoff UV Sunglasses", ja: "Zoff UVサングラス" },
+    description: {
+      en: "Japanese brand with frames designed for East Asian face geometry — lower nose bridge, appropriate face width, stable fit without modification. UV400 compliant. Same-day Rx service at all Japan stores. Polarized options available from ¥4,000-¥8,000. Explicit weakness: polycarbonate optical quality adequate but not premium; conservative style selection; third-party UV400 verification harder to confirm than major international brands.",
+      ja: "低鼻筋・適切な顔幅・修正不要の安定フィットを実現した東アジア顔型向け日本ブランド。UV400準拠。全国店舗で当日度付き対応。4,000〜8,000円から偏光オプションあり。明確な弱点：ポリカーボネートの光学品質は十分だが高級ではない；デザインがコンサバティブ；大手国際ブランドと比べてサードパーティUV400確認が困難。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-zoff-uv-sunglasses", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZoff%2BUV%2B%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jins-smart-shield",
+    category: "beauty",
+    badge: "🛡️",
+    name: { en: "JINS Smart Shield", ja: "JINS スマートシールド" },
+    description: {
+      en: "Combined UV-blocking and infrared-reducing lens coating with prescription compatibility across the product range. Same-day Rx sunglasses at JINS Japan stores; NXT Trivex upgrade available at most locations. Explicit weakness: anti-IR screen protection not validated by third-party optical standards body; functional-dominant frame aesthetic; polycarbonate-heavy construction lacks premium tactile quality.",
+      ja: "UV遮断と赤外線軽減レンズコーティングの組み合わせと全製品ラインでの度付き対応。JINS日本店舗で当日度付きサングラス対応；ほとんどの店舗でNXT Trivexアップグレード可。明確な弱点：スクリーン保護のIRコーティングにサードパーティ光学基準機関の検証がない；機能性重視のフレーム外観；ポリカーボネート主体で高級感の触感に欠ける。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-jins-smart-shield", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJINS%2B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
