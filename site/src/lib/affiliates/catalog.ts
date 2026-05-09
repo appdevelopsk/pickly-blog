@@ -5213,6 +5213,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-takeya-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E5%87%BA%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Food / Cold Brew Coffee Makers v2 (best-cold-brew-coffee-maker-2026) ─────────
+  {
+    id: "oxo-brew-compact-cold-brew",
+    category: "food",
+    name: { en: "OXO Brew Compact Cold Brew Coffee Maker", ja: "OXO ブリュー コンパクト コールドブリューコーヒーメーカー" },
+    description: {
+      en: "Slow-drip tower for single-origin expression — 32 oz brew chamber, 12–16 oz concentrate per 12–24 hour batch, adjustable drip rate knob, anodized aluminum carafe. Best for specialty coffee enthusiasts who want to taste what drip extraction does with interesting beans.",
+      ja: "シングルオリジン向け点滴式タワー。32oz醸造チャンバーで12〜24時間バッチあたり355〜475mLのコンセントレート、調整可能な滴下速度ノブ、陽極酸化アルミニウムカラフ。豆の個性を引き出したいスペシャルティコーヒー愛好家に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07BHF71KL", rawUrl: "https://www.amazon.co.jp/dp/B07BHF71KL", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-oxo-brew-compact-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%AF%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "toddy-cold-brew-home",
+    category: "food",
+    name: { en: "Toddy Cold Brew System (Home Model)", ja: "トッディ コールドブリューシステム（ホームモデル）" },
+    description: {
+      en: "Classic felt-filter immersion system since 1964 — 1.5L batch, 24-hour fridge steep, near-zero sediment concentrate. Thick felt pad traps micro-fines; glass decanter included for up to 2 weeks of concentrate storage.",
+      ja: "1964年から続くクラシックなフェルトフィルター浸漬式システム。1.5Lバッチ、24時間冷蔵浸漬、澱ほぼゼロのコンセントレート。厚手フェルトパッドが微細粒子をトラップ、ガラスデカンター付属で最大2週間保存可能。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0000CFN2Y", rawUrl: "https://www.amazon.co.jp/dp/B0000CFN2Y", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-toddy-cold-brew-home", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%83%E3%83%87%E3%82%A3%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "primula-burke-cold-brew-carafe",
+    category: "food",
+    name: { en: "Primula Burke Cold Brew Carafe", ja: "プリムラ・バーク コールドブリューカラフ" },
+    description: {
+      en: "1.6L borosilicate glass carafe with removable full-length fine-mesh stainless steel filter — no drain assembly, no felt pad conditioning. Steep 16–20 hours in fridge at 1:5–1:6 ratio, remove filter, store concentrate. Dishwasher-safe carafe, rinse-and-dry filter.",
+      ja: "着脱式フルレングス細目ステンレスメッシュフィルター付き1.6Lホウケイ酸ガラスカラフ。ドレインアセンブリ不要、フェルトパッドのコンディショニング不要。1:5〜1:6の比率で冷蔵庫に16〜20時間、フィルターを取り出すだけ。食洗機対応カラフ、フィルターはすすぎ・乾燥のみ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B078NWJZ9C", rawUrl: "https://www.amazon.co.jp/dp/B078NWJZ9C", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-primula-burke-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%95%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "takeya-deluxe-cold-brew",
+    category: "food",
+    name: { en: "Takeya Patented Deluxe Cold Brew Coffee Maker", ja: "タケヤ デラックス コールドブリューコーヒーメーカー" },
+    description: {
+      en: "1L borosilicate glass carafe with dual-layer fine-mesh stainless lid-filter — fits refrigerator door shelves, no replacement filters needed, daily single-serve brewing at 1:6–1:7 ratio. Thicker glass than base model for drop resistance.",
+      ja: "デュアルレイヤー細目ステンレスメッシュ蓋フィルター付き1Lホウケイ酸ガラスカラフ。冷蔵庫ドアポケット収納、交換フィルター不要、1:6〜1:7比率での毎日のシングルサーブ醸造。耐衝撃性のためベースモデルより厚いガラスを使用。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01KQTFRGM", rawUrl: "https://www.amazon.co.jp/dp/B01KQTFRGM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-takeya-deluxe-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E5%87%BA%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "county-line-mason-jar-cold-brew",
+    category: "food",
+    name: { en: "County Line Kitchen Mason Jar Cold Brew Coffee Maker", ja: "カウンティライン・キッチン メイソンジャー コールドブリューコーヒーメーカー" },
+    description: {
+      en: "Stainless steel fine-mesh basket kit for wide-mouth mason jars — lowest entry cost, scales to 1-gallon (3.8L) batches, metal mesh allows some sediment. Best as a low-commitment entry point or high-volume batch setup.",
+      ja: "ワイドマウスメイソンジャー用ステンレス細目メッシュバスケットキット。最低コストのエントリー、1ガロン（3.8L）バッチまでスケール可能、金属メッシュで若干の澱あり。低コストのトライアルや大容量バッチ設定に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01LXHSMRU", rawUrl: "https://www.amazon.co.jp/dp/B01LXHSMRU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-county-line-mason-jar-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E5%87%BA%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Home / Bath Mats (best-bath-mat-2026) ─────────
   {
     id: "townselect-diatomite-bath-mat",
@@ -8474,6 +8540,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "amazon-jp-prosource-multi-grip-chinup-bar", rawUrl: "https://www.amazon.co.jp/dp/B00BKRQ4OM", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-prosource-multi-grip-chinup-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FProSource+%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97+%E3%83%81%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Resistance Bands Set (best-resistance-bands-set-2026) ─────────
+  {
+    id: "fit-simplify-loop-bands",
+    category: "fitness",
+    name: { en: "Fit Simplify Resistance Loop Exercise Bands (Set of 5)", ja: "Fit Simplify レジスタンスループバンド 5本セット" },
+    description: {
+      en: "Set of 5 mini loop bands covering 2–4 lbs (yellow), 4–6 lbs (red), 10–12 lbs (black), 15–20 lbs (purple), and 25–30 lbs (blue). Natural latex, 12-inch circumference, five-layer construction resists rolling during glute bridges, clamshells, and lateral band walks. Best for glute activation warm-ups and lower-body isolation where a 12-inch loop maintains tension in the abduction plane without a door anchor.",
+      ja: "2〜4lbs（イエロー）から25〜30lbs（ブルー）まで5段階をカバーする12インチミニループバンド5本セット。天然ラテックス5層構造でグルートブリッジ・クラムシェル・サイドウォーク中のズレを防止。ドアアンカー不要でグルートウォームアップと下半身孤立種目に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-fit-simplify-loop-bands", rawUrl: "https://www.amazon.co.jp/dp/B01AVDVHTI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fit-simplify-loop-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFit+Simplify+%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%97%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "theraband-resistance-bands",
+    category: "fitness",
+    name: { en: "TheraBand Professional Resistance Bands (Set of 3)", ja: "TheraBand プロフェッショナル レジスタンスバンド 3本セット" },
+    description: {
+      en: "Set of 3 flat therapy bands in yellow (2.5 lbs at 100% elongation), red (3.7 lbs), and green (5.5 lbs) — entry range of TheraBand's clinical color progression. Natural latex, no handles or clips, cut lengths for direct grip or wrapping around limbs. Clinical standard for shoulder external rotation, scapular rehab, and rotator cuff work. Not suitable for heavy strength training.",
+      ja: "イエロー（100%伸長時2.5lbs）・レッド（3.7lbs）・グリーン（5.5lbs）のフラットセラピーバンド3本セット。天然ラテックス、ハンドル・クリップなし。直接握ったり肢体に巻き付けて使用。肩外旋・肩甲骨リハビリ・ローテーターカフワークのクリニカル標準。重い筋力トレーニングには不向き。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-theraband-resistance-bands", rawUrl: "https://www.amazon.co.jp/dp/B00B1RNZKA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-theraband-resistance-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTheraBand+%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB+%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "spri-braided-xertube",
+    category: "fitness",
+    name: { en: "SPRI Braided Xertube Resistance Bands", ja: "SPRI ブレイデッドXertube レジスタンスバンド" },
+    description: {
+      en: "Single braided latex resistance tube available in seven resistance grades from ultra-light (3–5 lbs) to ultra-heavy (30–40 lbs at standard extension). Braided multi-strand construction maintains round cross-section under load and resists tearing better than single-wall tubes. 48-inch length with carabiner clip ends. No internal safety cord — snap risk applies at maximum resistance. Best for intermediate trainees doing heavy daily cable-style upper-body work.",
+      ja: "ウルトラライト（3〜5lbs）からウルトラヘビー（標準伸長で30〜40lbs）まで7段階のブレイデッドラテックス単体チューブバンド。複数ストランドの組み紐構造が荷重下で円形断面を維持し、単一壁チューブより高い耐引裂性を発揮。カラビナクリップエンド付き48インチ長。インターナルセーフティコードなし。高負荷での日常的なケーブルスタイル上半身トレーニングに取り組む中上級者に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-spri-braided-xertube", rawUrl: "https://www.amazon.co.jp/dp/B000FIJGUM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-spri-braided-xertube", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSPRI+%E3%83%96%E3%83%AC%E3%82%A4%E3%83%87%E3%83%83%E3%83%89+Xertube%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bodylastics-stackable-bands",
+    category: "fitness",
+    name: { en: "Bodylastics Stackable Tube Resistance Bands (Set of 12)", ja: "Bodylastics スタッカブルチューブ レジスタンスバンド 12本セット" },
+    description: {
+      en: "12-tube stackable system covering 3–25 lbs per tube, stackable to 96 lbs combined. Defining feature: internal bungee safety cord in each tube that catches the load if latex snaps, preventing whip-back injury. Color-coded carabiner clips attach to shared foam handles. Includes 2 door anchors, 2 ankle straps, and carry bag. Best for home gym users who want the widest stackable range with genuine safety engineering — the anti-snap cord is absent in most competitor tube sets.",
+      ja: "チューブ1本あたり3〜25lbs、合計最大96lbsまでスタック可能な12本チューブシステム。最大の特徴はラテックス破断時に跳ね返りを防ぐインターナルバンジーセーフティコード。色分けカラビナクリップで共通フォームハンドルに装着。ドアアンカー2本・アンクルストラップ2本・キャリーバッグ付属。最も広いスタッカブルレンジと安全設計を求めるホームジムユーザーに最適——アンチスナップコードは多くの競合チューブセットにない機能。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-bodylastics-stackable-bands", rawUrl: "https://www.amazon.co.jp/dp/B0009O5HEK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bodylastics-stackable-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBodylastics+%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AB%E3%83%96%E3%83%AB+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wodfitters-pullup-bands",
+    category: "fitness",
+    name: { en: "WODFitters Pull-Up Assistance Bands", ja: "WODFitters プルアップ補助バンド" },
+    description: {
+      en: "41-inch seamless latex loops in four widths: 1/2 inch (10–35 lbs assist), 7/8 inch (25–65 lbs assist), 1-1/4 inch (50–100 lbs assist), and 2 inch (65–175 lbs assist). Seamless single-mold construction distributes stress across the full circumference — no weld seam to fail under repeated high-load pull-up cycling. Also used for accommodating resistance on barbell movements and overhead mobility work. Best for CrossFit athletes and anyone progressing from assisted to unassisted pull-ups.",
+      ja: "4種類の幅のシームレスラテックスループ：1/2インチ（補助10〜35lbs）、7/8インチ（25〜65lbs）、1-1/4インチ（50〜100lbs）、2インチ（65〜175lbs）。シームレス一体成型構造が全周に応力を分散させ、高負荷プルアップサイクルで破断しやすい溶接シームがない。バーベル種目のアコモデーティングレジスタンスや頭上モビリティワークにも活用可能。補助ありから無補助へ進む方とクロスフィット選手に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-wodfitters-pullup-bands", rawUrl: "https://www.amazon.co.jp/dp/B00NIOPNCI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wodfitters-pullup-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWODFitters+%E3%83%97%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E8%A3%9C%E5%8A%A9%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
