@@ -1758,6 +1758,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-realforce-r3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRealforce%2BR3%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Tech / Gaming Mice (best-gaming-mouse-2026) ─────────
+  {
+    id: "logicool-g-pro-x-superlight-2",
+    category: "tech",
+    badge: "🖱️",
+    name: { en: "Logicool G Pro X Superlight 2", ja: "Logicool G Pro X Superlight 2" },
+    description: {
+      en: "~¥20,000 ultra-lightweight competitive gaming mouse. 60g, HERO 25K sensor, 2000Hz polling, dual-mode Bluetooth+2.4GHz, zero clicks required to confirm pairing. Explicit weakness: ¥20,000 is premium for a mouse; right-handed only shape; zero side buttons; battery life 95 hours (less than competitors at similar prices).",
+      ja: "約2万円の超軽量競技向けゲーミングマウス。60g・HERO 25Kセンサー・2000Hzポーリング・2.4GHzワイヤレス。明確な弱点：2万円はマウスとして高額、右手専用形状、サイドボタンなし、電池寿命95時間(同価格帯比較で少なめ)。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-logicool-g-pro-x-superlight-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLogicool%2BG%2BPro%2BX%2BSuperlight%2B2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "razer-deathadder-v3",
+    category: "tech",
+    badge: "🐍",
+    name: { en: "Razer DeathAdder V3", ja: "Razer DeathAdder V3" },
+    description: {
+      en: "~¥8,000 right-handed ergonomic gaming mouse. 59g, Focus Pro 30K sensor, wired-only standard (wireless HyperSpeed version extra), proven DeathAdder shape for medium-large right hands. Explicit weakness: wired base model only (wireless V3 HyperSpeed costs more); right-hand only; 30K DPI is marketing headroom most users never touch above 3200.",
+      ja: "約8,000円の右手用エルゴノミクスゲーミングマウス。59g・Focus Pro 30Kセンサー・基本有線モデル（ワイヤレスはHyperSpeed別売）。明確な弱点：有線モデルのみ、右手専用、30K DPIは実使用で3200以上使わない。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-razer-deathadder-v3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRazer%2BDeathAdder%2BV3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "logicool-mx-master-3s",
+    category: "tech",
+    badge: "🏆",
+    name: { en: "Logicool MX Master 3S", ja: "Logicool MX Master 3S" },
+    description: {
+      en: "~¥15,000 productivity mouse. MagSpeed electromagnetic scroll wheel, 8000 DPI, Flow multi-device, USB-C charging, works on glass surfaces. Explicit weakness: 141g is heavy compared to gaming mice; not for competitive gaming; MagSpeed scroll requires adjustment period; Logi Options+ required for full customization.",
+      ja: "約1.5万円の生産性向け多機能マウス。MagSpeed電磁スクロール・8000 DPI・Flowマルチデバイス・USB-C充電・ガラス面対応。明確な弱点：141gはゲーミングマウス比較で重い、競技ゲーム非推奨、MagSpeedスクロールは慣れが必要、フル機能にLogi Options+必須。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-logicool-mx-master-3s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLogicool%2BMX%2BMaster%2B3S%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "elecom-m-xgm20dlbk",
+    category: "tech",
+    badge: "🇯🇵",
+    name: { en: "Elecom HUGE EX M-XGM20DLBK", ja: "エレコム HUGE EX M-XGM20DLBK" },
+    description: {
+      en: "~¥8,000 Japanese ergonomic large gaming mouse. Designed for large-hand Japanese office+game hybrid use, trackball-compatible chassis design option, 25600 DPI, USB receiver. Explicit weakness: not well-known outside Japan so limited international community support; large size limits portability; software is Japanese-market focused.",
+      ja: "約8,000円の日本向けエルゴノミクス大型ゲーミングマウス。大きい手向けオフィス＋ゲーム兼用設計、25600DPI、USB受信機。明確な弱点：海外コミュニティが少なく国際情報が限定的、大型ゆえ持ち運び不便、ソフトウェアが日本市場向け。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-elecom-m-xgm20dlbk", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%2BHUГЕ%2BEX%2FM-XGM20DLBK%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "microsoft-arc-mouse",
+    category: "tech",
+    badge: "🌙",
+    name: { en: "Microsoft Arc Mouse", ja: "Microsoft Arc Mouse" },
+    description: {
+      en: "~¥8,000 ultra-thin foldable travel mouse. Bluetooth only, folds flat for bag carry, touch scroll strip, 1-year battery, works on most surfaces, pairs instantly with Surface and Windows. Explicit weakness: Bluetooth-only means no 2.4GHz reliability; click mechanism has limited tactile feedback; not suitable for precision gaming; the fold mechanism wears over 2-3 years of heavy travel use.",
+      ja: "約8,000円の超薄型折りたたみトラベルマウス。Bluetoothのみ、フラット折りたたみ、タッチスクロール、電池1年、Surface/Windowsとの即ペアリング。明確な弱点：Bluetoothのみで2.4GHzの安定性なし、クリック感が限定的、精密ゲーミング不向き、2〜3年ヘビー使用でヒンジが摩耗。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-microsoft-arc-mouse", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMicrosoft%2BArc%2BMouse%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Tech / Webcams (best-webcam-2026) ─────────
+  {
+    id: "logitech-brio-505",
+    category: "tech",
+    badge: "📷",
+    name: { en: "Logitech Brio 505", ja: "Logicool Brio 505" },
+    description: {
+      en: "~¥18,000 1080p AI webcam. 60fps, AI auto-framing tracks face movement, Show Mode for document display, USB-C, dual omnidirectional mics. Explicit weakness: 1080p not 4K despite ¥18,000 price; AI framing can jitter when moving fast; Show Mode requires specific desk angle.",
+      ja: "約1.8万円の1080p AIウェブカメラ。60fps・AI自動フレーミング・Show Mode・USB-C・デュアルマイク。明確な弱点：1.8万円で4Kではなく1080p、AI自動フレーミングは動きが速いと追跡がぶれる、Show Modeは特定の角度が必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-logitech-brio-505", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLogicool%2BBrio%2B505%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anker-powerconf-c200",
+    category: "tech",
+    badge: "💰",
+    name: { en: "Anker PowerConf C200", ja: "Anker PowerConf C200" },
+    description: {
+      en: "~¥7,000 2K 30fps value webcam. Dual microphone with noise cancellation, autofocus, USB-A, compact design. Explicit weakness: 30fps (not 60fps); no AI framing; USB-A cable (non-detachable); noise cancellation less effective than dedicated mics.",
+      ja: "約7,000円の2K 30fps コスパウェブカメラ。デュアルノイズキャンセルマイク・オートフォーカス・USB-A・コンパクト。明確な弱点：30fps（60fpsでない）・AI自動フレームなし・USB-Aケーブル非脱着・専用マイク比較でノイキャン弱め。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anker-powerconf-c200", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BPowerConf%2BC200%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "elgato-facecam-pro",
+    category: "tech",
+    badge: "🎬",
+    name: { en: "Elgato Facecam Pro", ja: "Elgato Facecam Pro" },
+    description: {
+      en: "~¥42,000 4K 60fps streamer webcam. Sony STARVIS 2 sensor, large aperture f/2.0, manual focus ring, no built-in mic (by design), Elgato Hub integration, Camera Hub software. Explicit weakness: ¥42,000 is 6x Anker for the same function in Zoom calls; no built-in mic requires separate mic investment; 4K streaming requires 20Mbps+ upload; Camera Hub software only.",
+      ja: "約4.2万円の4K 60fpsストリーマー向けウェブカメラ。Sony STARVIS 2センサー・f/2.0大口径・マニュアルフォーカスリング・マイク非内蔵（仕様）・Elgato Hub連携。明確な弱点：4.2万円はZoom会議用途でAnkerの6倍、マイク非内蔵で別途マイク購入必須、4K配信は20Mbps+のアップロード必要、Camera Hubソフトウェア依存。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-elgato-facecam-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FElgato%2BFacecam%2BPro%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "elecom-ucam-cz30fbk",
+    category: "tech",
+    badge: "🇯🇵",
+    name: { en: "Elecom UCAM-CZ30FBKF", ja: "エレコム UCAM-CZ30FBKF" },
+    description: {
+      en: "~¥5,000 Japanese domestic brand 1080p webcam. Built-in mic, USB-A, plug-and-play, domestic warranty and support, compatible with Japanese video call software. Explicit weakness: 30fps 1080p is baseline spec for 2026; minimal software features; no AI capabilities; international community support limited.",
+      ja: "約5,000円の国産ブランド1080pウェブカメラ。マイク内蔵・USB-A・プラグアンドプレイ・国内保証・国産ビデオ会議ソフト対応。明確な弱点：2026年基準では30fps/1080pは最低限スペック、ソフト機能最小限、AI機能なし、海外コミュニティ情報少ない。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-elecom-ucam-cz30fbk", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%2BUCAM-CZ30FBKF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "microsoft-lifecam-studio",
+    category: "tech",
+    badge: "💼",
+    name: { en: "Microsoft LifeCam Studio", ja: "Microsoft LifeCam Studio" },
+    description: {
+      en: "~¥6,000-8,000 Microsoft 1080p webcam for Teams/Office use. True Color Technology, autofocus, USB-A, seamless Teams integration, Microsoft's own video processing. Explicit weakness: aging product line with no 2026 refresh; no 4K or 60fps option; software features tied to Windows/Teams ecosystem; premium pricing for a 1080p webcam in 2026.",
+      ja: "約6,000〜8,000円のMicrosoft Teams/Office向け1080pウェブカメラ。True Color Technology・オートフォーカス・USB-A・Teamsとのシームレス連携。明確な弱点：2026年更新なしの旧製品ライン、4Kや60fps非対応、Windowsエコシステム依存、2026年に1080pで高め。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-microsoft-lifecam-studio", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMicrosoft%2BLifeCam%2BStudio%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Home / Mattresses (best-mattress-2026) ─────────
   {
     id: "tempur-original-supreme",

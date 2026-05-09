@@ -70,10 +70,9 @@ function loadState(): State {
   }
 }
 
-function saveState(s: State) {
-  fs.mkdir(path.dirname(STATE_PATH), { recursive: true }).then(() =>
-    fs.writeFile(STATE_PATH, JSON.stringify(s, null, 2)),
-  );
+async function saveState(s: State) {
+  await fs.mkdir(path.dirname(STATE_PATH), { recursive: true });
+  await fs.writeFile(STATE_PATH, JSON.stringify(s, null, 2));
 }
 
 async function main() {
@@ -97,7 +96,7 @@ async function main() {
   }
 
   if (reset) {
-    saveState({ posted: {} });
+    await saveState({ posted: {} });
     console.log("✓ posted log cleared");
     return;
   }
@@ -158,16 +157,16 @@ async function main() {
         pinterest_id: r.id,
         posted_at: new Date().toISOString(),
       };
-      saveState(state);
+      await saveState(state);
       posted++;
+      if (posted < targets.length) {
+        console.log(`  ⏱ ${SLEEP_MS / 1000}s sleep...`);
+        await new Promise((res) => setTimeout(res, SLEEP_MS));
+      }
     } catch (err) {
       const msg = (err as Error).message?.slice(0, 200);
       console.error(`✗ ${p.pin_id}: ${msg}`);
       failed++;
-    }
-    if (posted < targets.length) {
-      console.log(`  ⏱ ${SLEEP_MS / 1000}s sleep...`);
-      await new Promise((res) => setTimeout(res, SLEEP_MS));
     }
   }
 

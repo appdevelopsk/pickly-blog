@@ -35,6 +35,11 @@ export class PinterestClient {
     return this.request("/boards");
   }
 
+  async listBoardPins(boardId: string, bookmark?: string): Promise<{ items: Array<{ id: string; title?: string; link?: string }>; bookmark?: string }> {
+    const qs = bookmark ? `?bookmark=${bookmark}&page_size=100` : "?page_size=100";
+    return this.request(`/boards/${boardId}/pins${qs}`);
+  }
+
   async createPin(input: {
     boardId: string;
     title: string;

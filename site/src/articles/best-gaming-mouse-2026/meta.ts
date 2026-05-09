@@ -1,0 +1,18 @@
+import type { ArticleMeta } from "@/lib/articles/types";
+
+export const meta: ArticleMeta = {
+  slug: "best-gaming-mouse-2026",
+  type: "comparison",
+  category: "tech",
+  offerIds: [
+    "logicool-g-pro-x-superlight-2",
+    "razer-deathadder-v3",
+    "logicool-mx-master-3s",
+    "elecom-m-xgm20dlbk",
+    "microsoft-arc-mouse",
+  ],
+  publishedAt: "2026-05-09",
+  updatedAt: "2026-05-09",
+  locales: ["en", "ja"],
+  ogImage: "auto",
+};
