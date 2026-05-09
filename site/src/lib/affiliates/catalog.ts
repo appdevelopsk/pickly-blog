@@ -2722,6 +2722,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-funcy-yoga-mat-8mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFUNCY%2B%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88%2B8mm%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Home / Office Chairs 2026 (best-office-chair-2026) ─────────
+  {
+    id: "herman-miller-aeron",
+    category: "home",
+    badge: "🏆",
+    name: { en: "Herman Miller Aeron", ja: "ハーマンミラー アーロン" },
+    description: {
+      en: "~200,000 yen world-standard ergonomic flagship. 8ZonedSupport Pellicle mesh, PostureFit SL dual sacral-lumbar support, 4D armrests, 12-year warranty. Three sizes (A/B/C) — must select correct size. Explicit weakness: price requires genuine long-term WFH commitment; wrong size negates all ergonomic benefit; aesthetic divides opinion in home environments; 12-year warranty non-transferable in Japan.",
+      ja: "約¥200,000の世界標準エルゴノミクス フラッグシップ。8ゾーンサポート ペリクルメッシュ、PostureFit SL2点仙骨腰椎サポート、4Dアームレスト、12年保証。A/B/Cの3サイズ展開 — 正しいサイズ選択必須。弱点：価格は長期テレワーク継続なしには正当化困難；誤サイズだとエルゴノミクス機能を発揮しない；自宅環境では賛否分かれる外観；日本では12年保証は転売不可。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-herman-miller-aeron", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%9F%E3%83%A9%E3%83%BC%2B%E3%82%A2%E3%83%BC%E3%83%AD%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "steelcase-leap-v2",
+    category: "home",
+    badge: "🔄",
+    name: { en: "Steelcase Leap V2", ja: "スティールケース リープV2" },
+    description: {
+      en: "~150,000 yen LiveBack flexible spine mechanism flagship. Back changes shape as you move, natural glide seat pan, upper/lower back adjustment, 12-year warranty. Best for users who shift posture constantly. Explicit weakness: LiveBack advantage unused by static sitters; Japan availability primarily corporate/premium retail; mechanism complexity confuses some users.",
+      ja: "約¥150,000のライブバック可動脊椎機構フラッグシップ。動きに合わせて背もたれが変形、ナチュラルグライド座面、上下背もたれ調整、12年保証。姿勢を常に変える方に最適。弱点：硬直着座ではライブバックの優位性を活かせない；日本では主に法人・プレミアム小売での入手；機構が複雑でわかりにくいという声もある。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-steelcase-leap-v2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%82%B1%E3%83%BC%E3%82%B9%2B%E3%83%AA%E3%83%BC%E3%83%97V2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "okamura-contessa-seconda",
+    category: "home",
+    badge: "🇯🇵",
+    name: { en: "Okamura Contessa Seconda", ja: "オカムラ コンテッサ セコンダ" },
+    description: {
+      en: "~100,000 yen peak of Japanese domestic mesh chair engineering. Designed for Japanese body proportions, national Okamura service network, standard and large sizes. Explicit weakness: price-tier faces Herman Miller/Steelcase competition; primary sales channel is corporate procurement; back mechanism less dynamically responsive than Leap V2's LiveBack.",
+      ja: "約¥100,000の国産メッシュ最高峰。日本人体型に最適化設計、全国オカムラサービスネットワーク、標準・大サイズ展開。弱点：同価格帯にハーマンミラー・スティールケースが競合；主要販売チャネルが法人調達；背もたれ機構はリープV2のライブバックより動的対応性が低い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-okamura-contessa-seconda", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%82%AB%E3%83%A0%E3%83%A9%2B%E3%82%B3%E3%83%B3%E3%83%86%E3%83%83%E3%82%B5%2B%E3%82%BB%E3%82%B3%E3%83%B3%E3%83%80%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "flexispot-ej2-ergonomic",
+    category: "home",
+    badge: "💴",
+    name: { en: "Flexispot OC3 Ergonomic Chair", ja: "フレキシスポット OC3 エルゴノミクスチェア" },
+    description: {
+      en: "~30,000 yen budget ergonomic pick with adjustable lumbar support, reclining, height adjustment. Available via Amazon Japan Prime. Explicit weakness: foam seat compression expected within 12-24 months of heavy use; lumbar pad (not structural mechanism); build quality not in same class as premium picks; 3-year warranty with email-only support.",
+      ja: "約¥30,000の予算エルゴノミクス枠。調整可能ランバーサポート・リクライニング・高さ調整搭載。Amazon Japan Primeで入手可能。弱点：重使用12〜24か月でウレタン座面のへたりが予想される；ランバーはパッド式で構造的機構ではない；ビルド品質はプレミアム製品と同クラスにない；3年保証でサポートはメール対応のみ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-flexispot-oc3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFlexispot%2BOC3%2B%E3%82%A8%E3%83%AB%E3%82%B4%E3%83%8E%E3%83%9F%E3%82%AF%E3%82%B9%E3%83%81%E3%82%A7%E3%82%A2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ikea-markus",
+    category: "home",
+    badge: "🪑",
+    name: { en: "IKEA Markus", ja: "IKEA マルクス" },
+    description: {
+      en: "~25,000 yen IKEA entry-level with fixed built-in lumbar support, height adjustment, 10-year IKEA guarantee. Available at IKEA Japan stores. Explicit weakness: fixed lumbar either fits your spine or it does not — no adjustment path; foam compression in long-term heavy use; no armrest width/pivot adjustment; not appropriate for 7+ hour daily use or existing back problems.",
+      ja: "約¥25,000のIKEA入門モデル。固定内蔵ランバーサポート・高さ調整・IKEA品質保証10年。IKEA Japan店舗で入手可能。弱点：固定ランバーは体型に合うか合わないかで調整の余地なし；長期重使用でのウレタンへたり；アームレストの幅・ピボット調整なし；1日7時間以上の着座や既存腰背部問題がある方には不適。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ikea-markus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIKEA%2B%E3%83%9E%E3%83%AB%E3%82%AF%E3%82%B9%2B%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%81%E3%82%A7%E3%82%A2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Home / Air Quality Monitors (best-air-quality-monitor-2026) ─────────
+  {
+    id: "awair-element",
+    category: "home",
+    badge: "🌬️",
+    name: { en: "Awair Element", ja: "Awair Element 空気質モニター" },
+    description: {
+      en: "~30,000 yen 5-sensor air quality monitor (CO2 NDIR, VOC Sensirion SGP40, laser PM2.5, temperature, humidity). Awair Score composite dashboard, HomeKit/Alexa/Google Home, API access. Weakness: Awair Score hides which sensor is degraded; VOC is relative index not absolute TVOC; HomeKit is cloud-dependent and breaks on router reboots.",
+      ja: "約3万円の5センサー空気質モニター（CO2 NDIR・VOC Sensirion SGP40・レーザーPM2.5・温度・湿度）。Awairスコアコンポジットダッシュボード、HomeKit/Alexa/Google Home、API連携。弱点：Awairスコアはどのセンサーが悪化しているか隠す。VOCは相対インデックスで絶対TVOC濃度ではない。HomeKitはクラウド依存でルーター再起動後に切断。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-awair-element", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAwair%2BElement%2B%E7%A9%BA%E6%B0%97%E8%B3%AA%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "iqair-airvisual-node",
+    category: "home",
+    badge: "🔬",
+    name: { en: "IQAir AirVisual Node", ja: "IQAir AirVisual Node" },
+    description: {
+      en: "~45,000 yen professional-grade air quality monitor. Laser PM2.5, NDIR CO2, temperature, humidity, outdoor AQI station data overlay. Highest PM2.5 accuracy in this comparison. Weakness: no smart home integration (no HomeKit/Alexa/Google Home), most expensive in comparison, dated interface.",
+      ja: "約4万5,000円のプロフェッショナルグレード空気質モニター。レーザーPM2.5・NDIR CO2・温湿度・屋外AQI観測局データ重ね表示。この比較で最高のPM2.5精度。弱点：スマートホーム連携なし（HomeKit/Alexa/Google Homeなし）。比較最高価格。インターフェース設計が古い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-iqair-airvisual-node", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIQAir%2BAirVisual%2BNode%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "inkbird-iam-t1",
+    category: "home",
+    badge: "💴",
+    name: { en: "Inkbird IAM-T1", ja: "Inkbird IAM-T1 CO2モニター" },
+    description: {
+      en: "~5,000 yen NDIR CO2 + temperature + humidity monitor. Large readable display, button battery 6-12 months, Amazon Japan bestseller. Weakness: button battery gaps overnight; temperature reads 2-4°C high near heat sources; no PM2.5 or VOC sensor; no smart home integration.",
+      ja: "約5,000円のNDIR CO2＋温度＋湿度モニター。大型読みやすいディスプレイ、ボタン電池6〜12ヶ月、Amazon Japan人気製品。弱点：ボタン電池切れで夜間ギャップが生じる可能性。熱源近くで温度が2〜4°C高くなる。PM2.5センサーなし・VOCセンサーなし。スマートホーム連携なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-inkbird-iam-t1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInkbird%2BIAM-T1%2B%E4%BA%8C%E9%85%B8%E5%8C%96%E7%82%AD%E7%B4%A0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "govee-air-quality-monitor",
+    category: "home",
+    badge: "📊",
+    name: { en: "Govee Air Quality Monitor H5106", ja: "Govee 空気質モニター H5106" },
+    description: {
+      en: "~4,000 yen CO2 + PM2.5 + temperature + humidity. Best sensor-count-per-yen in this comparison. Govee app integration. Weakness: no HomeKit/Google Home/Alexa; PM2.5 accuracy more variable than Awair or Kaiterra per user reports; sensor datasheets not published; small display.",
+      ja: "約4,000円のCO2＋PM2.5＋温度＋湿度。この比較でセンサー数/円の最高コスパ。Goveeアプリ連携。弱点：HomeKit/Google Home/Alexaなし。ユーザー報告でPM2.5精度がAwairやKaiterraより変動大きい。センサーデータシート非公開。小型ディスプレイ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-govee-h5106", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGovee%2B%E7%A9%BA%E6%B0%97%E8%B3%AA%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%2BH5106%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kaiterra-laser-egg-co2",
+    category: "home",
+    badge: "🥚",
+    name: { en: "Kaiterra Laser Egg+ CO2", ja: "Kaiterra Laser Egg+ CO2" },
+    description: {
+      en: "~15,000 yen laser PM2.5 + NDIR CO2 + temperature + humidity. Best standalone display readability in this comparison. Japanese language support. Works without app. Weakness: HomeKit is cloud-dependent (Kaiterra bridge server, periodic outages); no VOC sensor; PM2.5 calibration algorithm not documented.",
+      ja: "約1万5,000円のレーザーPM2.5＋NDIR CO2＋温度＋湿度。この比較で最も読みやすいスタンドアロン表示。日本語対応。アプリなしで動作。弱点：HomeKitはクラウド依存（Kaiterraブリッジサーバー、定期的な停止あり）。VOCセンサーなし。PM2.5校正アルゴリズム非公開。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-kaiterra-laser-egg-co2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKaiterra%2BLaser%2BEgg%2BCO2%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**

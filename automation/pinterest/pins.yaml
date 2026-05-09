@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 40 articles x 6 variants x 2 locales (en, ja) = 480 pins (growing)
+# 45 articles x 6 variants x 2 locales (en, ja) = 540 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -5102,3 +5102,543 @@ pins:
     link: "https://pickly.blog/ja/articles/best-electric-shaver-2026/"
     image_alt: "海外対応電気シェーバー 出張用"
     hashtags: ["出張", "電気シェーバー", "グルーミング", "メンズケア", "海外旅行"]
+
+  # =========================================================
+  # best-portable-speaker-2026
+  # =========================================================
+  - pin_id: best-portable-speaker-2026-en-01
+    article_slug: best-portable-speaker-2026
+    locale: en
+    variant: comparison
+    title: "Best Portable Speaker 2026: JBL Flip 6 vs Bose SoundLink Flex vs UE Boom 3"
+    description: |
+      IP67 waterproof, 12-24 hour battery, and 360-degree sound — we compared five portable Bluetooth speakers from ¥5,000 to ¥20,000. JBL and Bose dominate the ¥15,000-20,000 range but Anker Soundcore 3 at ¥5,000 covers 80% of use cases. Which speaker fits your lifestyle?
+    link: "https://pickly.blog/en/articles/best-portable-speaker-2026/"
+    image_alt: "Best portable Bluetooth speaker 2026"
+    hashtags: ["bluetoothspeaker", "portablespeaker", "outdoors", "camping", "music"]
+
+  - pin_id: best-portable-speaker-2026-en-02
+    article_slug: best-portable-speaker-2026
+    locale: en
+    variant: top1
+    title: "The portable speaker that won 2026 for most people"
+    description: |
+      JBL Flip 6 at ~¥15,000 is the most balanced pick for 2026. IP67 dust and waterproof, 12 hours battery, PartyBoost for linking multiple JBLs, and the signature JBL punch that fills a beach or campsite. Bose SoundLink Flex sounds marginally better outdoors — but at ¥5,000 more, most people won't hear the difference.
+    link: "https://pickly.blog/en/articles/best-portable-speaker-2026/"
+    image_alt: "JBL Flip 6 top pick 2026"
+    hashtags: ["bluetoothspeaker", "jbl", "portablespeaker", "outdoors", "summermusic"]
+
+  - pin_id: best-portable-speaker-2026-en-03
+    article_slug: best-portable-speaker-2026
+    locale: en
+    variant: problem
+    title: "Your portable speaker sounds terrible outdoors — here is why"
+    description: |
+      Most portable speakers are tuned for indoor rooms. Outdoors, bass disappears into open air, and directional speakers lose half their volume when turned away from you. We explain which speakers are engineered for outdoor sound (PositionIQ, 360-degree radiation) versus which are just marketed as outdoor-ready.
+    link: "https://pickly.blog/en/articles/best-portable-speaker-2026/"
+    image_alt: "Why portable speaker sounds bad outdoors"
+    hashtags: ["bluetoothspeaker", "outdoors", "camping", "music", "audio"]
+
+  - pin_id: best-portable-speaker-2026-en-04
+    article_slug: best-portable-speaker-2026
+    locale: en
+    variant: budget
+    title: "The ¥5,000 Bluetooth speaker that's good enough for most"
+    description: |
+      Anker Soundcore 3 at ~¥5,000 has IPX7 waterproofing, 24-hour battery, and stereo pairing mode. It won't match JBL's bass punch or Bose's outdoor projection — but for indoor use, desk listening, and calm outdoor settings, it competes at a fraction of the price. Upgrade only if you need volume at a party.
+    link: "https://pickly.blog/en/articles/best-portable-speaker-2026/"
+    image_alt: "Budget Bluetooth speaker Anker Soundcore 3"
+    hashtags: ["bluetoothspeaker", "budget", "anker", "portablespeaker", "music"]
+
+  - pin_id: best-portable-speaker-2026-en-05
+    article_slug: best-portable-speaker-2026
+    locale: en
+    variant: avoid
+    title: "Bluetooth speaker specs that sound impressive but rarely matter"
+    description: |
+      360-degree sound printed on a box doesn't mean the speaker radiates evenly in all directions. "Deep bass" for a 6cm driver is marketing relative to nothing. IP68 vs IP67 makes no difference unless you plan to submerge it beyond 1 meter. We explain which specs to ignore and which ones (battery, IP rating, actual loudness) to check first.
+    link: "https://pickly.blog/en/articles/best-portable-speaker-2026/"
+    image_alt: "Bluetooth speaker spec myths"
+    hashtags: ["bluetoothspeaker", "techreview", "audio", "portablespeaker", "buytips"]
+
+  - pin_id: best-portable-speaker-2026-en-06
+    article_slug: best-portable-speaker-2026
+    locale: en
+    variant: scene
+    title: "Solo camping audio setup: one speaker that handles rain, sand, and 14-hour days"
+    description: |
+      Bose SoundLink Flex floats if dropped in water, has PositionIQ that adjusts EQ when laid horizontally on a rock, and projects toward you regardless of placement angle. At ¥20,000 it's the most expensive pick here — but for solo hikers and beach campers who use their speaker as the centerpiece, it's the only one built for that.
+    link: "https://pickly.blog/en/articles/best-portable-speaker-2026/"
+    image_alt: "Bose SoundLink Flex camping speaker"
+    hashtags: ["camping", "outdoors", "bose", "bluetoothspeaker", "solohiking"]
+
+  - pin_id: best-portable-speaker-2026-ja-01
+    article_slug: best-portable-speaker-2026
+    locale: ja
+    variant: comparison
+    title: "Bluetoothスピーカー2026：JBL Flip 6 vs Bose SoundLink Flex vs UE Boom 3"
+    description: |
+      IP67防水、12〜24時間再生、360度サウンド — 5製品を5,000円から20,000円の価格帯で比較。JBLとBoseが1.5万〜2万円帯を支配するが、Anker Soundcore 3の5,000円はユースケースの8割をカバー。どれが自分のライフスタイルに合う？
+    link: "https://pickly.blog/ja/articles/best-portable-speaker-2026/"
+    image_alt: "Bluetoothスピーカー 2026年比較"
+    hashtags: ["Bluetoothスピーカー", "ポータブルスピーカー", "アウトドア", "キャンプ", "音楽"]
+
+  - pin_id: best-portable-speaker-2026-ja-02
+    article_slug: best-portable-speaker-2026
+    locale: ja
+    variant: top1
+    title: "2026年、ほとんどの人に選ばれたポータブルスピーカー"
+    description: |
+      JBL Flip 6（約15,000円）がバランスで1位。IP67防塵防水、12時間再生、PartyBoostで複数台連携、海や公園でも響くJBLのキレのある音。Bose SoundLinkFlexの方が屋外での音は少し上だが、5,000円の差ほどの違いは感じにくい。
+    link: "https://pickly.blog/ja/articles/best-portable-speaker-2026/"
+    image_alt: "JBL Flip 6 2026年1位"
+    hashtags: ["Bluetoothスピーカー", "JBL", "ポータブルスピーカー", "アウトドア", "夏"]
+
+  - pin_id: best-portable-speaker-2026-ja-03
+    article_slug: best-portable-speaker-2026
+    locale: ja
+    variant: problem
+    title: "屋外だとBluetooth スピーカーの音が悪くなる本当の理由"
+    description: |
+      多くのポータブルスピーカーは室内向けに音が調整されている。屋外だと低音が空気に吸収され、指向性のあるスピーカーは向きが変わると音量が半減する。PositionIQや360度放射で屋外向けに設計されているモデルと、屋外対応と謳っているだけのモデルの違いを解説。
+    link: "https://pickly.blog/ja/articles/best-portable-speaker-2026/"
+    image_alt: "Bluetoothスピーカー 屋外音質ガイド"
+    hashtags: ["Bluetoothスピーカー", "アウトドア", "キャンプ", "音楽", "オーディオ"]
+
+  - pin_id: best-portable-speaker-2026-ja-04
+    article_slug: best-portable-speaker-2026
+    locale: ja
+    variant: budget
+    title: "ほとんどの用途をカバーする5,000円Bluetoothスピーカー"
+    description: |
+      Anker Soundcore 3（約5,000円）はIPX7防水、24時間再生、ステレオペアリング対応。JBLの低音やBoseの屋外投射力には届かないが、室内・デスク用・穏やかなアウトドアなら価格の数分の一で十分。パーティーレベルの音量が必要な場面だけ上位を選べばいい。
+    link: "https://pickly.blog/ja/articles/best-portable-speaker-2026/"
+    image_alt: "コスパBluetoothスピーカー Anker Soundcore 3"
+    hashtags: ["Bluetoothスピーカー", "コスパ", "Anker", "ポータブルスピーカー", "音楽"]
+
+  - pin_id: best-portable-speaker-2026-ja-05
+    article_slug: best-portable-speaker-2026
+    locale: ja
+    variant: avoid
+    title: "Bluetoothスピーカーのすごそうなスペック、実はほぼ関係ない"
+    description: |
+      箱に「360度サウンド」と書いてあっても均一放射とは限らない。6cmドライバーの「重低音」は何もないところへの相対表記。IP68とIP67の違いは1m以上沈める予定がなければ関係ない。無視していいスペックと、バッテリー・IP等級・実音量を先に確認すべき理由を整理。
+    link: "https://pickly.blog/ja/articles/best-portable-speaker-2026/"
+    image_alt: "Bluetoothスピーカー スペック神話"
+    hashtags: ["Bluetoothスピーカー", "テックレビュー", "オーディオ", "ポータブルスピーカー", "購入ガイド"]
+
+  - pin_id: best-portable-speaker-2026-ja-06
+    article_slug: best-portable-speaker-2026
+    locale: ja
+    variant: scene
+    title: "ソロキャンプの音楽セット：雨・砂・14時間に耐えるスピーカー"
+    description: |
+      Bose SoundLink Flexは水に落としても浮く、横に置くとPositionIQがEQを自動調整、どの向きに置いても自分の方向に音を向ける。20,000円はこの中で最高価格。でもハイカーや海水浴常連でスピーカーが主役になる環境なら、これだけが本当にそのために作られている。
+    link: "https://pickly.blog/ja/articles/best-portable-speaker-2026/"
+    image_alt: "Bose SoundLink Flex ソロキャンプ"
+    hashtags: ["キャンプ", "アウトドア", "Bose", "Bluetoothスピーカー", "ソロキャンプ"]
+
+  # =========================================================
+  # best-fitness-tracker-2026
+  # =========================================================
+  - pin_id: best-fitness-tracker-2026-en-01
+    article_slug: best-fitness-tracker-2026
+    locale: en
+    variant: comparison
+    title: "Best Fitness Tracker 2026: Fitbit Charge 6 vs Apple Watch SE vs Xiaomi Band 9"
+    description: |
+      We compared five fitness trackers from ¥5,000 to ¥35,000 — from Xiaomi's 14-day battery bargain to Apple Watch SE's crash detection. GPS built-in vs connected, ECG vs basic heart rate, and ecosystem lock-in all measured. Which tracker actually helps you move more?
+    link: "https://pickly.blog/en/articles/best-fitness-tracker-2026/"
+    image_alt: "Best fitness tracker 2026 comparison"
+    hashtags: ["fitnesstracker", "smartwatch", "fitness", "health", "wearables"]
+
+  - pin_id: best-fitness-tracker-2026-en-02
+    article_slug: best-fitness-tracker-2026
+    locale: en
+    variant: top1
+    title: "The fitness tracker that won 2026 for most active people"
+    description: |
+      Fitbit Charge 6 at ~¥20,000 is the most complete fitness tracker in 2026. Built-in GPS, ECG, skin temperature sensor, Google Wallet, and Google Maps navigation — without requiring an Apple or Samsung ecosystem. Battery lasts 7 days vs Apple Watch SE's 18 hours. The trade-off: Fitbit's smartwatch features are limited vs WearOS.
+    link: "https://pickly.blog/en/articles/best-fitness-tracker-2026/"
+    image_alt: "Fitbit Charge 6 top pick 2026"
+    hashtags: ["fitnesstracker", "fitbit", "fitness", "health", "running"]
+
+  - pin_id: best-fitness-tracker-2026-en-03
+    article_slug: best-fitness-tracker-2026
+    locale: en
+    variant: problem
+    title: "Why your fitness tracker data is probably wrong (and what to trust)"
+    description: |
+      Consumer wrist heart rate monitors have ±5-15 bpm error during intense exercise. Sleep stage detection is approximate — no consumer wearable matches polysomnography accuracy. Calorie counts assume average metabolism. We explain which metrics are reliable (step counts, heart rate at rest, trend data) and which to treat as estimates.
+    link: "https://pickly.blog/en/articles/best-fitness-tracker-2026/"
+    image_alt: "Fitness tracker accuracy reality"
+    hashtags: ["fitnesstracker", "fitness", "health", "wearables", "datatrust"]
+
+  - pin_id: best-fitness-tracker-2026-en-04
+    article_slug: best-fitness-tracker-2026
+    locale: en
+    variant: budget
+    title: "The ¥5,000 fitness tracker that covers the basics surprisingly well"
+    description: |
+      Xiaomi Smart Band 9 at ~¥5,000 tracks heart rate, sleep, SpO2, steps, and 150+ workout modes for 14 days on a charge. The AMOLED display is sharp. It won't give you ECG or GPS — but for people who want daily activity baselines without subscription fees, it's hard to beat at this price.
+    link: "https://pickly.blog/en/articles/best-fitness-tracker-2026/"
+    image_alt: "Budget fitness tracker Xiaomi Band 9"
+    hashtags: ["fitnesstracker", "xiaomi", "budget", "fitness", "health"]
+
+  - pin_id: best-fitness-tracker-2026-en-05
+    article_slug: best-fitness-tracker-2026
+    locale: en
+    variant: avoid
+    title: "Apple Watch fitness tracking is great — with one expensive catch"
+    description: |
+      Apple Watch SE has the best emergency features (Crash Detection, Fall Detection, Emergency SOS) and the most polished experience — but only for iPhone users. Switch to Android and your Watch becomes a paperweight. The ¥35,000 + Apple ecosystem dependency is a real lock-in to calculate before buying.
+    link: "https://pickly.blog/en/articles/best-fitness-tracker-2026/"
+    image_alt: "Apple Watch ecosystem lock-in warning"
+    hashtags: ["applewatch", "fitnesstracker", "smartwatch", "fitness", "apple"]
+
+  - pin_id: best-fitness-tracker-2026-en-06
+    article_slug: best-fitness-tracker-2026
+    locale: en
+    variant: scene
+    title: "Runner's setup 2026: GPS tracker that works without your phone"
+    description: |
+      Fitbit Charge 6 and Garmin Vivosmart 5 both offer GPS — but Fitbit has it built-in, while Garmin uses connected GPS from your phone. For trail runners who leave their phone in the car, only Charge 6 works standalone. Garmin wins on long battery and Body Battery stress scoring for everyday athletes who want more analytics.
+    link: "https://pickly.blog/en/articles/best-fitness-tracker-2026/"
+    image_alt: "GPS fitness tracker for runners 2026"
+    hashtags: ["running", "fitnesstracker", "gps", "fitness", "marathon"]
+
+  - pin_id: best-fitness-tracker-2026-ja-01
+    article_slug: best-fitness-tracker-2026
+    locale: ja
+    variant: comparison
+    title: "フィットネストラッカー2026：Fitbit Charge 6 vs Apple Watch SE vs Xiaomi Band 9"
+    description: |
+      5,000円〜35,000円のフィットネストラッカー5製品を比較。Xiaomiの14日間バッテリーからApple WatchのSOS機能まで。GPS内蔵vs連携、ECGvs基本心拍、エコシステム依存度を比較。本当に運動量が増えるのはどれ？
+    link: "https://pickly.blog/ja/articles/best-fitness-tracker-2026/"
+    image_alt: "フィットネストラッカー 2026年比較"
+    hashtags: ["フィットネストラッカー", "スマートウォッチ", "フィットネス", "健康管理", "ウェアラブル"]
+
+  - pin_id: best-fitness-tracker-2026-ja-02
+    article_slug: best-fitness-tracker-2026
+    locale: ja
+    variant: top1
+    title: "2026年、アクティブな人に一番選ばれたフィットネストラッカー"
+    description: |
+      Fitbit Charge 6（約20,000円）が2026年のフィットネストラッカーで最もバランスが良い。GPS内蔵、ECG、皮膚温センサー、Google Wallet、Google Mapsナビ — AppleでもSamsungでも関係なく使える。バッテリーはApple Watch SEの18時間に対し7日間。スマートウォッチ機能はWearOSより限定的。
+    link: "https://pickly.blog/ja/articles/best-fitness-tracker-2026/"
+    image_alt: "Fitbit Charge 6 2026年1位"
+    hashtags: ["フィットネストラッカー", "Fitbit", "フィットネス", "健康管理", "ランニング"]
+
+  - pin_id: best-fitness-tracker-2026-ja-03
+    article_slug: best-fitness-tracker-2026
+    locale: ja
+    variant: problem
+    title: "フィットネストラッカーのデータが間違っている可能性と信頼できる数値"
+    description: |
+      手首装着の心拍センサーは激しい運動中に±5〜15bpmのエラーが出る。睡眠ステージ検出は概算で、ポリソムノグラフィーの精度には到底及ばない。カロリー計算は平均的な代謝を前提にしている。信頼できる指標（歩数・安静時心拍・トレンドデータ）と概算として扱うべき指標の整理。
+    link: "https://pickly.blog/ja/articles/best-fitness-tracker-2026/"
+    image_alt: "フィットネストラッカー 精度の実態"
+    hashtags: ["フィットネストラッカー", "フィットネス", "健康管理", "ウェアラブル", "データ"]
+
+  - pin_id: best-fitness-tracker-2026-ja-04
+    article_slug: best-fitness-tracker-2026
+    locale: ja
+    variant: budget
+    title: "基本は驚くほどしっかりカバーする5,000円フィットネストラッカー"
+    description: |
+      Xiaomi Smart Band 9（約5,000円）は心拍・睡眠・SpO2・歩数・150以上の運動モードを14日間バッテリーで追跡。AMOLEDディスプレイは鮮明。ECGもGPSもない。でもサブスクなしで毎日の活動量の基準値が欲しいだけなら、この価格で負ける製品はほとんどない。
+    link: "https://pickly.blog/ja/articles/best-fitness-tracker-2026/"
+    image_alt: "コスパフィットネストラッカー Xiaomi Band 9"
+    hashtags: ["フィットネストラッカー", "Xiaomi", "コスパ", "フィットネス", "健康管理"]
+
+  - pin_id: best-fitness-tracker-2026-ja-05
+    article_slug: best-fitness-tracker-2026
+    locale: ja
+    variant: avoid
+    title: "Apple Watchのフィットネス機能は優秀、でも見落とすと高くつく落とし穴"
+    description: |
+      Apple Watch SEのクラッシュ検知・転倒検知・緊急SOSは最高クラス、体験もiPhoneと完全に連携。でもAndroidに乗り換えたら使えなくなる。35,000円 ＋ Appleエコシステム依存は買う前に計算に入れるべきロックイン。
+    link: "https://pickly.blog/ja/articles/best-fitness-tracker-2026/"
+    image_alt: "Apple Watch エコシステム依存の注意点"
+    hashtags: ["AppleWatch", "フィットネストラッカー", "スマートウォッチ", "フィットネス", "Apple"]
+
+  - pin_id: best-fitness-tracker-2026-ja-06
+    article_slug: best-fitness-tracker-2026
+    locale: ja
+    variant: scene
+    title: "スマホなしで走れるGPSトラッカー 2026年ランナー向けまとめ"
+    description: |
+      Fitbit Charge 6とGarmin Vivosmart 5はどちらもGPS対応。でもFitbitはGPS内蔵、GarminはスマホのGPSを使う連携方式。スマホを車に置いてトレイルを走るなら、スタンドアロンで使えるのはCharge 6だけ。Garminはバッテリーの長さとBody Batteryストレススコアで毎日の分析が深い。
+    link: "https://pickly.blog/ja/articles/best-fitness-tracker-2026/"
+    image_alt: "GPS対応 フィットネストラッカー ランナー向け"
+    hashtags: ["ランニング", "フィットネストラッカー", "GPS", "フィットネス", "マラソン"]
+
+  # =========================================================
+  # best-desk-lamp-2026
+  # =========================================================
+  - pin_id: best-desk-lamp-2026-en-01
+    article_slug: best-desk-lamp-2026
+    locale: en
+    variant: comparison
+    title: "Best Desk Lamp 2026: BenQ ScreenBar vs Elgato Key Light vs IKEA Ranarp tested"
+    description: |
+      We compared five desk lamps across CRI, color temperature range, brightness control, and eye strain reduction. From ¥3,000 IKEA basics to ¥25,000 monitor-mounted LED bars — which lamp actually reduces eye fatigue during 8-hour workdays?
+    link: "https://pickly.blog/en/articles/best-desk-lamp-2026/"
+    image_alt: "Best desk lamp 2026 comparison"
+    hashtags: ["desklamp", "desksetup", "homeoffice", "wfh", "lighting"]
+
+  - pin_id: best-desk-lamp-2026-en-02
+    article_slug: best-desk-lamp-2026
+    locale: en
+    variant: top1
+    title: "The desk lamp that won 2026 for remote workers"
+    description: |
+      BenQ ScreenBar mounts above your monitor, eliminates screen glare, and has an ambient light sensor that auto-adjusts brightness. No footprint on your desk. At ~¥20,000 it's expensive — but for people who spend 8+ hours daily at a monitor, the zero-glare positioning and auto-brightness justify the cost over cheaper alternatives.
+    link: "https://pickly.blog/en/articles/best-desk-lamp-2026/"
+    image_alt: "BenQ ScreenBar top desk lamp 2026"
+    hashtags: ["desklamp", "benq", "desksetup", "homeoffice", "wfh"]
+
+  - pin_id: best-desk-lamp-2026-en-03
+    article_slug: best-desk-lamp-2026
+    locale: en
+    variant: problem
+    title: "Why your desk lamp causes eye strain (and the fix isn't buying a new lamp)"
+    description: |
+      Most desk lamp eye strain comes from placement, not brightness. A lamp aimed directly at a screen creates reflection hotspots. A lamp positioned too low creates shadows under text. CRI below 80 makes colors look washed and forces your eyes to work harder to distinguish contrasts. We explain positioning and CRI before you spend money.
+    link: "https://pickly.blog/en/articles/best-desk-lamp-2026/"
+    image_alt: "Desk lamp eye strain causes guide"
+    hashtags: ["desklamp", "eyestrain", "desksetup", "homeoffice", "lighting"]
+
+  - pin_id: best-desk-lamp-2026-en-04
+    article_slug: best-desk-lamp-2026
+    locale: en
+    variant: budget
+    title: "The ¥3,000 desk lamp that covers the basics for most people"
+    description: |
+      IKEA Ranarp at ~¥3,000 is a timeless adjustable-arm lamp that works for most desk setups. It doesn't have color temperature control or USB charging — but for reading, paperwork, and ambient desk lighting, its adjustable angle and warm light output are all most people need before spending 5× more on LED panels.
+    link: "https://pickly.blog/en/articles/best-desk-lamp-2026/"
+    image_alt: "Budget desk lamp IKEA Ranarp"
+    hashtags: ["desklamp", "budget", "ikea", "desksetup", "homeoffice"]
+
+  - pin_id: best-desk-lamp-2026-en-05
+    article_slug: best-desk-lamp-2026
+    locale: en
+    variant: avoid
+    title: "Desk lamp specs that sound important but often aren't"
+    description: |
+      "Flicker-free" is only relevant below 1000Hz — most modern LED lamps already qualify. "Natural light" is marketing for 5000-6500K daylight temperature, not actual sunlight spectrum. USB-C charging built into a lamp is convenient until the port breaks and the whole lamp needs replacement. We list the spec claims worth checking vs ignoring.
+    link: "https://pickly.blog/en/articles/best-desk-lamp-2026/"
+    image_alt: "Desk lamp buying guide spec myths"
+    hashtags: ["desklamp", "lighting", "desksetup", "homeoffice", "buytips"]
+
+  - pin_id: best-desk-lamp-2026-en-06
+    article_slug: best-desk-lamp-2026
+    locale: en
+    variant: scene
+    title: "Video call lighting setup: desk lamp that makes you look professional on camera"
+    description: |
+      Elgato Key Light at ~¥25,000 is the standard for professional-looking video calls. Soft diffused light, app-controlled brightness and color temp, desk or wall mount options. For YouTube, streaming, or frequent video meetings where face lighting matters, it's purpose-built. For casual calls, a well-placed ¥3,000 lamp works just fine.
+    link: "https://pickly.blog/en/articles/best-desk-lamp-2026/"
+    image_alt: "Elgato Key Light video call lighting"
+    hashtags: ["videocall", "streaming", "elgato", "desklamp", "wfh"]
+
+  - pin_id: best-desk-lamp-2026-ja-01
+    article_slug: best-desk-lamp-2026
+    locale: ja
+    variant: comparison
+    title: "デスクライト2026：BenQ ScreenBar vs Elgato Key Light vs IKEA Ranarp 比較"
+    description: |
+      演色性・色温度・輝度調節・眼精疲労の軽減を5製品で比較。3,000円のIKEAシンプルモデルから25,000円のモニター上設置型LEDバーまで。8時間作業で実際に疲れにくいのはどれ？
+    link: "https://pickly.blog/ja/articles/best-desk-lamp-2026/"
+    image_alt: "デスクライト 2026年比較"
+    hashtags: ["デスクライト", "デスクセットアップ", "在宅勤務", "テレワーク", "照明"]
+
+  - pin_id: best-desk-lamp-2026-ja-02
+    article_slug: best-desk-lamp-2026
+    locale: ja
+    variant: top1
+    title: "2026年、リモートワーカーに一番選ばれたデスクライト"
+    description: |
+      BenQ ScreenBarはモニター上に設置してスクリーンへの映り込みをゼロにし、照度センサーで自動輝度調整。デスクスペースを取らない。約20,000円は高いが、1日8時間以上モニターの前にいる人にとって、映り込みゼロ設計と自動輝度調整は安い選択肢より価値がある。
+    link: "https://pickly.blog/ja/articles/best-desk-lamp-2026/"
+    image_alt: "BenQ ScreenBar 2026年1位デスクライト"
+    hashtags: ["デスクライト", "BenQ", "デスクセットアップ", "在宅勤務", "テレワーク"]
+
+  - pin_id: best-desk-lamp-2026-ja-03
+    article_slug: best-desk-lamp-2026
+    locale: ja
+    variant: problem
+    title: "デスクライトで目が疲れる原因は光量ではなく設置場所"
+    description: |
+      デスクライトで目が疲れるほとんどの原因は向きの問題。ライトがスクリーンに直接当たると反射スポットができる。低い位置では文字の下に影ができる。CRI 80未満だと色の区別に眼が余分な力を使う。お金を使う前に設置角度とCRIを確認する理由を解説。
+    link: "https://pickly.blog/ja/articles/best-desk-lamp-2026/"
+    image_alt: "デスクライト 眼精疲労対策ガイド"
+    hashtags: ["デスクライト", "眼精疲労", "デスクセットアップ", "在宅勤務", "照明"]
+
+  - pin_id: best-desk-lamp-2026-ja-04
+    article_slug: best-desk-lamp-2026
+    locale: ja
+    variant: budget
+    title: "ほとんどの用途をカバーする3,000円デスクライト"
+    description: |
+      IKEA Ranarp（約3,000円）は角度調整可能な定番デスクライト。色温度調整もUSB充電もない。でも読書・書類作業・デスクの雰囲気照明には、調整できるアームと暖色系の光量で十分。5倍の値段のLEDパネルに移る前に検討する価値がある。
+    link: "https://pickly.blog/ja/articles/best-desk-lamp-2026/"
+    image_alt: "コスパデスクライト IKEA Ranarp"
+    hashtags: ["デスクライト", "コスパ", "IKEA", "デスクセットアップ", "在宅勤務"]
+
+  - pin_id: best-desk-lamp-2026-ja-05
+    article_slug: best-desk-lamp-2026
+    locale: ja
+    variant: avoid
+    title: "デスクライトのスペック、重要そうで実は関係ないもの"
+    description: |
+      「フリッカーレス」は1000Hz以下のみ意味があり、最近のLEDはほぼ対応済み。「自然光」は5000〜6500Kの色温度のマーケティング表記で実際の太陽光スペクトルではない。USB-C充電内蔵は便利だが端子が壊れたら全体交換。確認すべきスペックと無視していいスペックの整理。
+    link: "https://pickly.blog/ja/articles/best-desk-lamp-2026/"
+    image_alt: "デスクライト購入ガイド スペック注意"
+    hashtags: ["デスクライト", "照明", "デスクセットアップ", "在宅勤務", "購入ガイド"]
+
+  - pin_id: best-desk-lamp-2026-ja-06
+    article_slug: best-desk-lamp-2026
+    locale: ja
+    variant: scene
+    title: "ビデオ会議映え照明セット：カメラに映るプロの顔を作るデスクライト"
+    description: |
+      Elgato Key Light（約25,000円）はプロっぽいビデオ会議照明のデファクト。柔らかい拡散光、アプリ制御の輝度・色温度、デスク置き・壁設置両対応。YouTube、配信、頻繁なビデオ会議で顔の照明にこだわるなら専用設計。カジュアルな会議なら3,000円を上手く置くだけで十分。
+    link: "https://pickly.blog/ja/articles/best-desk-lamp-2026/"
+    image_alt: "Elgato Key Light ビデオ会議照明"
+    hashtags: ["ビデオ会議", "配信", "Elgato", "デスクライト", "在宅勤務"]
+
+  # =========================================================
+  # best-espresso-machine-2026
+  # =========================================================
+  - pin_id: best-espresso-machine-2026-en-01
+    article_slug: best-espresso-machine-2026
+    locale: en
+    variant: comparison
+    title: "Best Espresso Machine 2026: De'Longhi Dedica vs Breville Barista Express vs Nespresso Vertuo"
+    description: |
+      Capsule vs ground vs whole bean — we compared five espresso machines from ¥12,000 to ¥90,000. Per-cup cost, learning curve, maintenance burden, and actual crema quality all measured. Nespresso is convenient but costs ¥80-120 per pod. Breville makes barista-quality espresso but has a steep learning curve.
+    link: "https://pickly.blog/en/articles/best-espresso-machine-2026/"
+    image_alt: "Best espresso machine 2026 comparison"
+    hashtags: ["espresso", "coffeemachine", "coffee", "homebarista", "kitchen"]
+
+  - pin_id: best-espresso-machine-2026-en-02
+    article_slug: best-espresso-machine-2026
+    locale: en
+    variant: top1
+    title: "The espresso machine that won 2026 for home use"
+    description: |
+      De'Longhi Magnifica S ECAM at ~¥65,000 is the best fully automatic for people who want genuine espresso with minimal effort. Bean-to-cup in one touch, integrated milk frother, and AquaClean filter means months between descaling. It's 3× the price of Dedica — but for daily double-shot households, the automation pays back in time.
+    link: "https://pickly.blog/en/articles/best-espresso-machine-2026/"
+    image_alt: "De'Longhi Magnifica S top pick 2026"
+    hashtags: ["espresso", "delonghi", "coffeemachine", "homebarista", "coffee"]
+
+  - pin_id: best-espresso-machine-2026-en-03
+    article_slug: best-espresso-machine-2026
+    locale: en
+    variant: problem
+    title: "Your espresso tastes bitter and watery — it's probably not the machine"
+    description: |
+      Most espresso problems are grind size and tamping pressure, not machine quality. A ¥25,000 Dedica with fresh beans and correct grind produces better espresso than a ¥90,000 machine with stale pre-ground coffee. We explain the three variables (grind, dose, tamp) that matter before buying a more expensive machine.
+    link: "https://pickly.blog/en/articles/best-espresso-machine-2026/"
+    image_alt: "Why espresso tastes bitter guide"
+    hashtags: ["espresso", "coffee", "homebarista", "coffeetips", "kitchen"]
+
+  - pin_id: best-espresso-machine-2026-en-04
+    article_slug: best-espresso-machine-2026
+    locale: en
+    variant: budget
+    title: "The ¥25,000 espresso machine that teaches you the craft"
+    description: |
+      De'Longhi Dedica EC685 at ~¥25,000 is the best entry point for learning real espresso. 15-bar pump, ESE pod and ground coffee compatible, 15cm wide. The learning curve is real — but that's the point. Graduates of the Dedica consistently make better coffee than people who went straight to fully automatic at twice the price.
+    link: "https://pickly.blog/en/articles/best-espresso-machine-2026/"
+    image_alt: "Budget espresso machine De'Longhi Dedica"
+    hashtags: ["espresso", "delonghi", "budget", "homebarista", "coffee"]
+
+  - pin_id: best-espresso-machine-2026-en-05
+    article_slug: best-espresso-machine-2026
+    locale: en
+    variant: avoid
+    title: "Nespresso Vertuo's hidden cost nobody puts in the headline"
+    description: |
+      Nespresso Vertuo machines start at ~¥12,000 — the cheapest entry here. But Vertuo capsules cost ¥80-120 each, and are proprietary (only Nespresso makes them). Two shots per day = ¥60,000-90,000 per year in capsules. Over 5 years, a Dedica with ground coffee costs a fraction. We do the math nobody wants to do.
+    link: "https://pickly.blog/en/articles/best-espresso-machine-2026/"
+    image_alt: "Nespresso Vertuo true cost breakdown"
+    hashtags: ["espresso", "nespresso", "coffee", "moneysaving", "coffeecost"]
+
+  - pin_id: best-espresso-machine-2026-en-06
+    article_slug: best-espresso-machine-2026
+    locale: en
+    variant: scene
+    title: "Home cafe setup: espresso machine + grinder under ¥100,000"
+    description: |
+      Breville Barista Express BES870 at ~¥90,000 has a built-in conical burr grinder — eliminating the need for a separate ¥20,000-50,000 grinder. For people who want full control over extraction without buying two machines, it's the only all-in-one at this level. The trade-off: the built-in grinder is good but not great for specialty beans.
+    link: "https://pickly.blog/en/articles/best-espresso-machine-2026/"
+    image_alt: "Home espresso setup Breville Barista Express"
+    hashtags: ["espresso", "breville", "homebarista", "coffeemachine", "homecafe"]
+
+  - pin_id: best-espresso-machine-2026-ja-01
+    article_slug: best-espresso-machine-2026
+    locale: ja
+    variant: comparison
+    title: "エスプレッソマシン2026：デロンギ Dedica vs Breville Barista Express vs Nespresso Vertuo"
+    description: |
+      カプセルvsグラウンドvs全豆 — 5製品を12,000円〜90,000円の価格帯で比較。1杯あたりコスト・習得曲線・メンテ負担・実際のクレマ品質を検証。Nespressoは手軽だが1杯80〜120円。Brevilleはバリスタクオリティだが習熟が必要。
+    link: "https://pickly.blog/ja/articles/best-espresso-machine-2026/"
+    image_alt: "エスプレッソマシン 2026年比較"
+    hashtags: ["エスプレッソ", "コーヒーマシン", "コーヒー", "ホームバリスタ", "キッチン"]
+
+  - pin_id: best-espresso-machine-2026-ja-02
+    article_slug: best-espresso-machine-2026
+    locale: ja
+    variant: top1
+    title: "2026年、家庭用エスプレッソマシンで一番選ばれた1台"
+    description: |
+      デロンギ マグニフィカS ECAM（約65,000円）が全自動で本格エスプレッソを最小の手間で飲みたい人に1位。ボタン1つでBean-to-Cup、ミルクフロッサー内蔵、AquaCleanフィルターで数ヶ月デスケーリング不要。Dedicaの3倍だが、毎日ダブルショットを飲む家庭なら自動化の時短コストはすぐ回収できる。
+    link: "https://pickly.blog/ja/articles/best-espresso-machine-2026/"
+    image_alt: "デロンギ マグニフィカS 2026年1位"
+    hashtags: ["エスプレッソ", "デロンギ", "コーヒーマシン", "ホームバリスタ", "コーヒー"]
+
+  - pin_id: best-espresso-machine-2026-ja-03
+    article_slug: best-espresso-machine-2026
+    locale: ja
+    variant: problem
+    title: "エスプレッソが苦くてシャバシャバになる原因はマシンじゃない"
+    description: |
+      エスプレッソの問題のほとんどはグラインドサイズとタンピング圧力の問題で、マシンの性能ではない。新鮮な豆と正しいグラインドで25,000円のDedicaは、古いプレグラウンドを使った90,000円のマシンより良いエスプレッソを出す。高いマシンを買う前に確認すべき3変数（グラインド・ドース・タンプ）を解説。
+    link: "https://pickly.blog/ja/articles/best-espresso-machine-2026/"
+    image_alt: "エスプレッソが美味しくない原因ガイド"
+    hashtags: ["エスプレッソ", "コーヒー", "ホームバリスタ", "コーヒーtips", "キッチン"]
+
+  - pin_id: best-espresso-machine-2026-ja-04
+    article_slug: best-espresso-machine-2026
+    locale: ja
+    variant: budget
+    title: "エスプレッソの作り方を学べる25,000円マシン"
+    description: |
+      デロンギ Dedica EC685（約25,000円）は本格エスプレッソへの最良の入口。15barポンプ、ESEポッドとグラウンド両対応、幅15cmのスリム設計。習熟は必要、でもそれが意味がある。Dedicaを卒業した人は全自動に最初から移った人より一貫して良いコーヒーを作れる。
+    link: "https://pickly.blog/ja/articles/best-espresso-machine-2026/"
+    image_alt: "コスパエスプレッソマシン デロンギ Dedica"
+    hashtags: ["エスプレッソ", "デロンギ", "コスパ", "ホームバリスタ", "コーヒー"]
+
+  - pin_id: best-espresso-machine-2026-ja-05
+    article_slug: best-espresso-machine-2026
+    locale: ja
+    variant: avoid
+    title: "Nespresso Vertuoの誰も見出しに書かないランニングコスト"
+    description: |
+      Nespresso Vertuoの本体は最安12,000円。でも専用カプセルは1杯80〜120円、Vertuo用はNespresso以外が作れない。1日2杯で年間6〜9万円のカプセル代。5年間でDedicaのグラウンドコーヒーコストは数分の一。誰も計算したがらない総コストを出しました。
+    link: "https://pickly.blog/ja/articles/best-espresso-machine-2026/"
+    image_alt: "Nespresso Vertuo 本当のコスト計算"
+    hashtags: ["エスプレッソ", "Nespresso", "コーヒー", "節約", "コーヒーコスト"]
+
+  - pin_id: best-espresso-machine-2026-ja-06
+    article_slug: best-espresso-machine-2026
+    locale: ja
+    variant: scene
+    title: "自宅カフェセットアップ：エスプレッソマシン＋グラインダー10万円以下"
+    description: |
+      Breville Barista Express BES870（約90,000円）は円錐バーグラインダー内蔵で、別途2〜5万円のグラインダーを買わずに済む唯一の全部入り。2台買わずに本格抽出のコントロールを手に入れたい人向け。トレードオフ：内蔵グラインダーは良いが、スペシャルティ豆には少し力不足。
+    link: "https://pickly.blog/ja/articles/best-espresso-machine-2026/"
+    image_alt: "Breville Barista Express 自宅カフェセット"
+    hashtags: ["エスプレッソ", "Breville", "ホームバリスタ", "コーヒーマシン", "自宅カフェ"]
