@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 101 articles x 6 variants x 2 locales (en, ja) = 1220 pins (growing)
+# 103 articles x 6 variants x 2 locales (en, ja) = 1244 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -13648,3 +13648,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-pull-up-bar-2026/"
     image_alt: "懸垂バー スタイル別 選び方 ガイド ホームジム 2026"
     hashtags: ["懸垂バー", "ホームジム", "自重トレーニング", "懸垂 ガイド", "筋トレ"]
+
+  # ── #102 best-snack-subscription-box-2026 ───────────────────────────────
+  - pin_id: best-snack-subscription-box-2026-en-01
+    article_slug: best-snack-subscription-box-2026
+    locale: en
+    variant: comparison
+    title: "Best Snack Subscription Boxes 2026: 5 Boxes Compared"
+    description: |
+      SnackCrate vs Universal Yums vs Graze vs Mouth vs Bokksu. International vs healthy vs artisan vs Japan-specific — variety, value per snack, dietary customization, and box size compared. Find the monthly box that actually matches how you snack.
+    link: "https://pickly.blog/en/articles/best-snack-subscription-box-2026/"
+    image_alt: "best snack subscription boxes 2026 comparison international"
+    hashtags: ["SnackSubscription", "SubscriptionBox", "Snacks", "FoodSubscription", "TasteAdventure"]
+
+  - pin_id: best-snack-subscription-box-2026-en-02
+    article_slug: best-snack-subscription-box-2026
+    locale: en
+    variant: top1
+    title: "SnackCrate: Best International Snack Subscription Box 2026"
+    description: |
+      Retail snacks from a new country each month — 10 full-size products, not sample sizes. Each crate includes a culture card and origin map. $30/month for the standard size. Best for people who want the actual supermarket snacks from another country, not a "world-inspired" American version.
+    link: "https://pickly.blog/en/articles/best-snack-subscription-box-2026/"
+    image_alt: "SnackCrate international snack subscription box 2026"
+    hashtags: ["SnackCrate", "SnackSubscription", "InternationalSnacks", "SubscriptionBox", "FoodAdventure"]
+
+  - pin_id: best-snack-subscription-box-2026-en-03
+    article_slug: best-snack-subscription-box-2026
+    locale: en
+    variant: problem
+    title: "Why Most Snack Boxes Feel Like a Waste of Money After Month 2"
+    description: |
+      Tiny sample sizes that cost more per oz than grocery store snacks. Boxes dominated by protein bars and granola when you wanted chips and candy. No-skip policies means 3 boxes arrive while you're traveling. Dietary restriction filtering that doesn't actually remove the allergens. The details matter more than the marketing.
+    link: "https://pickly.blog/en/articles/best-snack-subscription-box-2026/"
+    image_alt: "snack subscription box problems sample size waste money"
+    hashtags: ["SubscriptionBoxFail", "SnackSubscription", "FoodSubscription", "Snacks", "SubscriptionBox"]
+
+  - pin_id: best-snack-subscription-box-2026-en-04
+    article_slug: best-snack-subscription-box-2026
+    locale: en
+    variant: budget
+    title: "Best Value Snack Subscription 2026: Universal Yums from $14/month"
+    description: |
+      Universal Yums starts at $14/month for the Yum box (6 snacks), $25 for the Yum Yum (12 snacks), or $40 for the Super Yum (20+ snacks). Each box includes a trivia booklet about the featured country. Best value-per-snack ratio in this comparison while maintaining genuine international sourcing.
+    link: "https://pickly.blog/en/articles/best-snack-subscription-box-2026/"
+    image_alt: "Universal Yums snack subscription budget value 2026"
+    hashtags: ["BudgetSnackBox", "UniversalYums", "SnackSubscription", "SubscriptionBox", "InternationalSnacks"]
+
+  - pin_id: best-snack-subscription-box-2026-en-05
+    article_slug: best-snack-subscription-box-2026
+    locale: en
+    variant: avoid
+    title: "4 Snack Subscription Box Mistakes That Lead to Cancellations"
+    description: |
+      Not checking skip/pause policy: travel means 3 boxes piling up. Ignoring portion size claims: "12 snacks" can mean 12 packets of 3 crackers. Choosing "healthy" without checking sodium: many healthy snack boxes are high-sodium. Missing gift-box vs recurring distinction: gift prices and recurring prices are often different.
+    link: "https://pickly.blog/en/articles/best-snack-subscription-box-2026/"
+    image_alt: "snack subscription box mistakes avoid cancellation tips"
+    hashtags: ["SnackBoxMistakes", "SubscriptionBox", "SnackSubscription", "FoodTips", "Snacks"]
+
+  - pin_id: best-snack-subscription-box-2026-en-06
+    article_slug: best-snack-subscription-box-2026
+    locale: en
+    variant: scene
+    title: "Which Snack Subscription Box for Your Snacking Style?"
+    description: |
+      World explorer → SnackCrate (full-size retail products, new country monthly). Culture + context → Universal Yums (trivia booklet, 6–20+ snacks). Healthy snacker → Graze (fiber, nuts, portion control). Artisan US → Mouth (small-batch American makers). Japan obsessed → Bokksu (authentic Japanese snacks + tea).
+    link: "https://pickly.blog/en/articles/best-snack-subscription-box-2026/"
+    image_alt: "snack subscription box guide which to choose snacking style 2026"
+    hashtags: ["SnackSubscription", "SubscriptionBox", "InternationalSnacks", "SnackGuide", "FoodAdventure"]
+
+  - pin_id: best-snack-subscription-box-2026-ja-01
+    article_slug: best-snack-subscription-box-2026
+    locale: ja
+    variant: comparison
+    title: "スナックサブスクおすすめ2026：品揃え・コスパ・食事制限対応で5サービス比較"
+    description: |
+      SnackCrate・Universal Yums・Graze・Mouth・Bokksuを海外vs健康志向vsアルチザンvsJapan特化で比較。1スナックあたりのコスパ・カスタマイズ・スキップ柔軟性を検証。毎月届くボックスで本当に楽しめる1択を決める。
+    link: "https://pickly.blog/ja/articles/best-snack-subscription-box-2026/"
+    image_alt: "スナック サブスク おすすめ 2026 海外 比較"
+    hashtags: ["スナックサブスク", "サブスクリプションボックス", "おすすめ", "海外お菓子", "フードサブスク"]
+
+  - pin_id: best-snack-subscription-box-2026-ja-02
+    article_slug: best-snack-subscription-box-2026
+    locale: ja
+    variant: top1
+    title: "SnackCrate：海外スナックサブスクの最高峰2026"
+    description: |
+      毎月新しい国のスーパーで実際に売っているお菓子を10品フルサイズで届ける。文化カードと産地マップ付き。約$30/月。「海外テイスト風」のアメリカ製品ではなく、本物の現地スナックを求める人の最高の選択肢。
+    link: "https://pickly.blog/ja/articles/best-snack-subscription-box-2026/"
+    image_alt: "SnackCrate 海外スナック サブスク フルサイズ 2026"
+    hashtags: ["SnackCrate", "スナックサブスク", "海外お菓子", "サブスクリプションボックス", "フードアドベンチャー"]
+
+  - pin_id: best-snack-subscription-box-2026-ja-03
+    article_slug: best-snack-subscription-box-2026
+    locale: ja
+    variant: problem
+    title: "スナックボックスが2ヶ月目で無駄に感じる理由"
+    description: |
+      1g単価がスーパーより高いサンプルサイズが多い。プロテインバーとグラノーラばかりでお菓子を期待してた。スキップ不可で旅行中に3箱溜まる。アレルギー対応フィルターが実際には機能していない。マーケティングより細かい条件確認が先決。
+    link: "https://pickly.blog/ja/articles/best-snack-subscription-box-2026/"
+    image_alt: "スナックサブスク 問題 無駄 サンプルサイズ スキップ"
+    hashtags: ["スナックサブスク 失敗", "サブスクリプションボックス", "フード", "サブスク 注意", "お菓子"]
+
+  - pin_id: best-snack-subscription-box-2026-ja-04
+    article_slug: best-snack-subscription-box-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強スナックサブスク2026：Universal Yums 約2,100円〜"
+    description: |
+      Universal Yumsは$14〜（6品）・$25〜（12品）・$40〜（20品以上）と段階選択可。各ボックスに特集国のトリビアブックレット付き。このリストで最高の1品あたりコスパと正真正銘の海外スナック仕入れを両立。
+    link: "https://pickly.blog/ja/articles/best-snack-subscription-box-2026/"
+    image_alt: "Universal Yums スナックサブスク コスパ 2026"
+    hashtags: ["コスパ スナックサブスク", "UniversalYums", "サブスクリプションボックス", "海外お菓子", "格安"]
+
+  - pin_id: best-snack-subscription-box-2026-ja-05
+    article_slug: best-snack-subscription-box-2026
+    locale: ja
+    variant: avoid
+    title: "スナックサブスク解約につながる4つのミス"
+    description: |
+      スキップ・一時停止ポリシーを確認しない：旅行中に3箱が玄関に。「12品」の内訳を確認しない：クラッカー3枚×12袋という落とし穴。「ヘルシー」をナトリウムで見る：健康ボックスは高塩分が多い。ギフト価格と継続価格の違い：最初の1箱とその後の価格が異なることが多い。
+    link: "https://pickly.blog/ja/articles/best-snack-subscription-box-2026/"
+    image_alt: "スナックサブスク 失敗 解約 注意点 確認事項"
+    hashtags: ["スナックサブスク 失敗", "サブスクリプションボックス", "注意点", "フードサブスク", "お菓子"]
+
+  - pin_id: best-snack-subscription-box-2026-ja-06
+    article_slug: best-snack-subscription-box-2026
+    locale: ja
+    variant: scene
+    title: "スナッキングスタイル別：あなたに合うサブスクボックスの選び方"
+    description: |
+      世界旅行派 → SnackCrate（フルサイズ現地品・毎月新国）。文化コンテキスト好き → Universal Yums（トリビアブックレット付き）。健康重視 → Graze（食物繊維・ナッツ・ポーションコントロール）。アメリカ職人ブランド好き → Mouth。日本のお菓子好き → Bokksu。
+    link: "https://pickly.blog/ja/articles/best-snack-subscription-box-2026/"
+    image_alt: "スナックサブスク スタイル別 選び方 ガイド 2026"
+    hashtags: ["スナックサブスク", "サブスクリプションボックス", "海外お菓子", "スナックガイド", "フードアドベンチャー"]
+
+  # ── #103 best-swim-goggles-2026 ──────────────────────────────────────────
+  - pin_id: best-swim-goggles-2026-en-01
+    article_slug: best-swim-goggles-2026
+    locale: en
+    variant: comparison
+    title: "Best Swim Goggles 2026: Racing vs Open-Water vs Fitness Compared"
+    description: |
+      Speedo Vanquisher 2.0 vs TYR Special Ops 2.0 vs Arena Cobra Ultra Swipe vs Aqua Sphere Kayenne vs Barracuda Fenix. Lens type, gasket fit, UV protection, anti-fog durability, and pool vs open-water suitability compared — so you pick goggles that stay sealed and let you actually see the wall.
+    link: "https://pickly.blog/en/articles/best-swim-goggles-2026/"
+    image_alt: "best swim goggles 2026 racing open water fitness comparison"
+    hashtags: ["SwimGoggles", "Swimming", "TriathlonGear", "CompetitiveSwimming", "SwimmingGear"]
+
+  - pin_id: best-swim-goggles-2026-en-02
+    article_slug: best-swim-goggles-2026
+    locale: en
+    variant: top1
+    title: "Speedo Vanquisher 2.0: Best Competitive Swim Goggles 2026"
+    description: |
+      Low-profile silicone gasket minimizes drag, UV protection, anti-fog coating, and the widest peripheral field in low-profile racing designs. Available in mirrored and clear lens options. The go-to for lap swimming and competition — and has been for two decades. At ~$15–25, the value is unmatched at this level.
+    link: "https://pickly.blog/en/articles/best-swim-goggles-2026/"
+    image_alt: "Speedo Vanquisher 2.0 swim goggles competitive racing 2026"
+    hashtags: ["SpeedoVanquisher", "SwimGoggles", "CompetitiveSwimming", "Swimming", "SwimmingGear"]
+
+  - pin_id: best-swim-goggles-2026-en-03
+    article_slug: best-swim-goggles-2026
+    locale: en
+    variant: problem
+    title: "Why Your Swim Goggles Fog Up After 3 Laps"
+    description: |
+      Anti-fog coatings wash off when you rub them — touch the inside only with water, never fingers. Tight fit increases pressure headaches within 200m. Wide-angle leisure goggles create drag in flip turns. UV tint reduces lane visibility indoors. The right goggle for pool racing is different from open-water — know the difference.
+    link: "https://pickly.blog/en/articles/best-swim-goggles-2026/"
+    image_alt: "swim goggles fogging problem anti-fog coating"
+    hashtags: ["SwimGoggles", "SwimmingTips", "AntiF og", "Swimming", "SwimmingGear"]
+
+  - pin_id: best-swim-goggles-2026-en-04
+    article_slug: best-swim-goggles-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Swim Goggles 2026: Barracuda Fenix from $12"
+    description: |
+      Barracuda Fenix delivers UV protection, adjustable nose bridge, and anti-fog coating for ~$12. Wide gasket design accommodates most face shapes without the pressure issues of narrow racing seals. Not designed for flip-turn drag optimization — best for recreational lap swimming and beginners who want to see if they like the pool before investing in premium goggles.
+    link: "https://pickly.blog/en/articles/best-swim-goggles-2026/"
+    image_alt: "Barracuda Fenix swim goggles budget beginner 2026"
+    hashtags: ["BudgetSwimGoggles", "BarracudaFenix", "Swimming", "SwimmingGear", "BeginnerSwimming"]
+
+  - pin_id: best-swim-goggles-2026-en-05
+    article_slug: best-swim-goggles-2026
+    locale: en
+    variant: avoid
+    title: "5 Swim Goggle Mistakes That Lead to Fogging and Leaks"
+    description: |
+      Touching the anti-fog coating with fingers: oils destroy it permanently. Overtightening the strap: causes pressure headaches and suction rings, not a better seal. Using pool goggles for open water: low-profile goggles blind you to side-traffic. Buying by brand only: fit varies dramatically within brands. Storing wet: elastic degrades and straps stretch permanently.
+    link: "https://pickly.blog/en/articles/best-swim-goggles-2026/"
+    image_alt: "swim goggles mistakes fog leak strap overtighten avoid"
+    hashtags: ["SwimGoggleMistakes", "SwimmingTips", "SwimGoggles", "Swimming", "SwimmingGear"]
+
+  - pin_id: best-swim-goggles-2026-en-06
+    article_slug: best-swim-goggles-2026
+    locale: en
+    variant: scene
+    title: "Which Swim Goggles for Your Swimming Style?"
+    description: |
+      Competitive lap swimming → Speedo Vanquisher 2.0 (low-profile, ~$20). Triathlon / open water → TYR Special Ops 2.0 (polarized wide-angle). Elite racing → Arena Cobra Ultra Swipe (quick anti-fog wipe). Fitness + leisure → Aqua Sphere Kayenne (wide gasket, comfortable). Budget beginner → Barracuda Fenix (~$12).
+    link: "https://pickly.blog/en/articles/best-swim-goggles-2026/"
+    image_alt: "swim goggles guide which to buy swimming style 2026"
+    hashtags: ["SwimGoggles", "Swimming", "SwimmingGear", "TriathlonGear", "SwimmingGuide"]
+
+  - pin_id: best-swim-goggles-2026-ja-01
+    article_slug: best-swim-goggles-2026
+    locale: ja
+    variant: comparison
+    title: "水泳ゴーグルおすすめ2026：競泳vsオープンウォーターvsフィットネス徹底比較"
+    description: |
+      Speedo Vanquisher・TYR Special Ops・Arena Cobra Ultra・Aqua Sphere Kayenne・Barracuda Fenixをレンズ種類・ガスケットフィット・UVプロテクション・曇り止め耐久性・プールvsオープンウォーターで比較。シール性能と視界を両立する1本が決まる。
+    link: "https://pickly.blog/ja/articles/best-swim-goggles-2026/"
+    image_alt: "水泳ゴーグル おすすめ 2026 競泳 オープンウォーター 比較"
+    hashtags: ["水泳ゴーグル", "おすすめ", "競泳", "水泳", "スイミングギア"]
+
+  - pin_id: best-swim-goggles-2026-ja-02
+    article_slug: best-swim-goggles-2026
+    locale: ja
+    variant: top1
+    title: "Speedo Vanquisher 2.0：競泳ゴーグルの定番2026"
+    description: |
+      低プロファイルシリコンガスケットで抵抗最小化、UV保護、曇り止め加工、競技向け低プロファイル設計で最大の周辺視野。ミラーとクリアレンズ両方展開。約$15〜25でこのクオリティは他の追随を許さない。20年間競泳者が選び続けてきた理由がある。
+    link: "https://pickly.blog/ja/articles/best-swim-goggles-2026/"
+    image_alt: "Speedo Vanquisher 2.0 水泳ゴーグル 競泳 2026"
+    hashtags: ["SpeedoVanquisher", "水泳ゴーグル", "競泳", "水泳", "スイミングギア"]
+
+  - pin_id: best-swim-goggles-2026-ja-03
+    article_slug: best-swim-goggles-2026
+    locale: ja
+    variant: problem
+    title: "水泳ゴーグルが3往復で曇る本当の理由"
+    description: |
+      曇り止めコーティングは指で触ると永久に劣化する——内側は水のみ、絶対に指で触らない。締めすぎは200m以内に頭痛を引き起こす。ワイドレジャーゴーグルはターン時に抵抗増大。UV色付きレンズは屋内プールで視界を暗くする。プール競泳用とオープンウォーター用は別物。
+    link: "https://pickly.blog/ja/articles/best-swim-goggles-2026/"
+    image_alt: "水泳ゴーグル 曇り 問題 曇り止め 劣化"
+    hashtags: ["水泳ゴーグル 問題", "スイミング", "曇り止め", "水泳", "スイミングギア"]
+
+  - pin_id: best-swim-goggles-2026-ja-04
+    article_slug: best-swim-goggles-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強水泳ゴーグル2026：Barracuda Fenix 約1,800円〜"
+    description: |
+      Barracuda FenixはUV保護・調整可能ノーズブリッジ・曇り止め加工を約$12で実現。幅広ガスケットで多くの顔型に対応。ターンのドラッグ最適化は非対応だが、レクリエーション目的やプールが好きか確かめたい初心者に最適コスパ。
+    link: "https://pickly.blog/ja/articles/best-swim-goggles-2026/"
+    image_alt: "Barracuda Fenix 水泳ゴーグル コスパ 入門 2026"
+    hashtags: ["コスパ 水泳ゴーグル", "BarracudaFenix", "水泳", "スイミングギア", "入門 水泳"]
+
+  - pin_id: best-swim-goggles-2026-ja-05
+    article_slug: best-swim-goggles-2026
+    locale: ja
+    variant: avoid
+    title: "曇りと水漏れを招く水泳ゴーグル選びの5つのミス"
+    description: |
+      内側を指で触る：皮脂で曇り止めコーティングが永久破壊。ストラップの締めすぎ：圧迫頭痛と吸盤痕、密封性は改善しない。プールゴーグルをオープンウォーターで使う：低プロファイルは側方の視界ゼロ。ブランドだけで選ぶ：同ブランド内でもフィットは大きく異なる。濡れたまま収納：弾性が劣化してストラップが伸びる。
+    link: "https://pickly.blog/ja/articles/best-swim-goggles-2026/"
+    image_alt: "水泳ゴーグル 失敗 曇り 水漏れ 注意点"
+    hashtags: ["水泳ゴーグル 失敗", "スイミング", "曇り止め", "水泳 注意", "スイミングギア"]
+
+  - pin_id: best-swim-goggles-2026-ja-06
+    article_slug: best-swim-goggles-2026
+    locale: ja
+    variant: scene
+    title: "水泳スタイル別：あなたに合う水泳ゴーグルの選び方"
+    description: |
+      競技ラップスイミング → Speedo Vanquisher 2.0（低プロファイル・約$20）。トライアスロン/オープンウォーター → TYR Special Ops 2.0（偏光広角）。エリートレーシング → Arena Cobra Ultra Swipe（クイック曇り止めワイプ）。フィットネス/レジャー → Aqua Sphere Kayenne（広いガスケット・快適）。入門 → Barracuda Fenix（約$12）。
+    link: "https://pickly.blog/ja/articles/best-swim-goggles-2026/"
+    image_alt: "水泳ゴーグル スタイル別 選び方 ガイド 2026"
+    hashtags: ["水泳ゴーグル", "水泳", "スイミングギア", "トライアスロン", "水泳ガイド"]
