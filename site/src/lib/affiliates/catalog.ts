@@ -5563,6 +5563,126 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-camelbak-chute-mag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCamelBak+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "prep-naturals-glass-containers",
+    category: "food",
+    name: { en: "Prep Naturals Glass Meal Prep Containers 20-Piece Set", ja: "プレップナチュラルズ ガラス保存容器 20点セット" },
+    description: {
+      en: "Borosilicate glass, snap-lock lids, microwave/oven/freezer safe, 20-piece set in four sizes (0.4L, 0.6L, 1.0L, 1.4L)",
+      ja: "ホウケイ酸ガラス、4方向スナップロック蓋、電子レンジ/オーブン/冷凍対応、4サイズ20点セット（0.4L・0.6L・1.0L・1.4L）",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-prep-naturals-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BD%9C%E3%82%8A%E7%BD%AE%E3%81%8D%E3%82%AC%E3%83%A9%E3%82%B9%E5%AE%B9%E5%99%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rubbermaid-brilliance-containers",
+    category: "food",
+    name: { en: "Rubbermaid Brilliance Food Storage Containers", ja: "ラバーメイド ブリリアンス 保存容器セット" },
+    description: {
+      en: "Crystal-clear BPA-free Tritan plastic, press-seal leakproof lids, airtight, microwave/dishwasher safe, stackable",
+      ja: "クリスタルクリアBPAフリーTritan樹脂、押し込みシール密閉蓋、電子レンジ/食洗機対応、スタック収納対応",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-rubbermaid-brilliance", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BF%9D%E5%AD%98%E5%AE%B9%E5%99%A8+%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pyrex-simply-store-set",
+    category: "food",
+    name: { en: "Pyrex Simply Store Glass Food Storage Set", ja: "パイレックス シンプリーストア ガラス保存容器セット" },
+    description: {
+      en: "Soda-lime tempered glass, oven safe to 450°F, BPA-free plastic lids, classic trusted brand since 1915",
+      ja: "強化ソーダライムガラス、450°F（230°C）オーブン対応、BPAフリープラスチック蓋、1915年創業の信頼ブランド",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-pyrex-simply-store", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%82%A4%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9+%E4%BF%9D%E5%AD%98%E5%AE%B9%E5%99%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bentgo-glass-prep-set",
+    category: "food",
+    name: { en: "Bentgo Glass Meal Prep Set with Compartments", ja: "ベントゴー ガラス仕切り付き作り置き容器セット" },
+    description: {
+      en: "Borosilicate glass dual-compartment containers, snap-lock lids, oven safe to 425°F, ideal for bento-style meals",
+      ja: "ホウケイ酸ガラス2室仕切り容器、スナップロック蓋、425°F（220°C）オーブン対応、弁当スタイルの食材分離に最適",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-bentgo-glass-prep", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BB%95%E5%88%87%E3%82%8A%E4%BB%98%E3%81%8D+%E4%BF%9D%E5%AD%98%E5%AE%B9%E5%99%A8+%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "weesprout-glass-containers",
+    category: "food",
+    name: { en: "WeeSprout Glass Food Storage Containers with Hinge-Lock Lids", ja: "ウィースプラウト ヒンジロック蓋付きガラス保存容器" },
+    description: {
+      en: "Borosilicate glass, hinge-lock leakproof lids for maximum seal, oven safe to 400°F, dishwasher/microwave/freezer safe",
+      ja: "ホウケイ酸ガラス、ヒンジロック密閉蓋で最強シール性能、400°F（205°C）オーブン対応、食洗機/電子レンジ/冷凍対応",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-weesprout-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AC%E3%83%A9%E3%82%B9%E4%BF%9D%E5%AD%98%E5%AE%B9%E5%99%A8+%E5%AF%86%E9%96%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "alaska-bear-sleep-mask",
+    category: "home",
+    name: { en: "Alaska Bear Natural Silk Sleep Mask", ja: "アラスカベア シルクアイマスク" },
+    description: {
+      en: "100% natural mulberry silk, adjustable strap, lightweight, breathable flat design, budget silk entry point",
+      ja: "天然マルベリーシルク100%、調節可能ストラップ、軽量、通気性フラット設計、シルク入門モデル",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-alaska-bear-sleep-mask", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tempur-pedic-sleep-mask",
+    category: "home",
+    name: { en: "Tempur-Pedic Sleep Mask", ja: "テンピュール スリープマスク" },
+    description: {
+      en: "Contoured memory foam eye chambers, slow-response pressure distribution, plush inner lining, recognised brand",
+      ja: "コンタードメモリーフォームアイチャンバー、スロー・レスポンス圧力分散、プラッシュ内面、信頼ブランド",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-tempur-sleep-mask", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%86%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%AB+%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "manta-sleep-mask",
+    category: "home",
+    name: { en: "Manta Sleep Mask", ja: "マンタ スリープマスク" },
+    description: {
+      en: "Modular independently adjustable magnetic eye cups, zero eye-lid pressure, configurable for asymmetric face geometry",
+      ja: "モジュール式独立調整マグネットアイカップ、ゼロまぶた圧力、非対称顔ジオメトリ対応",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-manta-sleep-mask", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%BF+%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nidra-deep-rest-mask",
+    category: "home",
+    name: { en: "Nidra Deep Rest Sleep Mask", ja: "ニドラ ディープレスト アイマスク" },
+    description: {
+      en: "Contoured polycarbonate shell, free-eye chamber, budget contouring without premium price, nose gap design",
+      ja: "ポリカーボネートシェルコンタード、フリーアイチャンバー、予算価格コンタード、鼻ギャップ設計",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-nidra-sleep-mask", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9%E3%82%AF+%E7%AB%8B%E4%BD%93%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "drowsy-silk-sleep-mask",
+    category: "home",
+    name: { en: "Drowsy Silk Sleep Mask", ja: "ドロウジー シルク スリープマスク" },
+    description: {
+      en: "22-momme mulberry silk, wide silk-covered strap, premium skin-friendly positioning, giftable packaging",
+      ja: "22匁マルベリーシルク、幅広シルクカバーストラップ、プレミアム肌ケアポジショニング、ギフト向けパッケージ",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-drowsy-silk-mask", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%AB%E3%82%AF+%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
