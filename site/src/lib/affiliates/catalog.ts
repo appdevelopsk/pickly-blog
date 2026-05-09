@@ -4042,6 +4042,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-panasonic-mk-h4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2BMK-H4%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Food / Sous Vide Cookers (best-sous-vide-2026) ─────────
+  {
+    id: "anova-precision-cooker-pro",
+    category: "food",
+    badge: "🏆",
+    name: { en: "Anova Precision Cooker Pro", ja: "Anova プレシジョン クッカー Pro" },
+    description: {
+      en: "1200W immersion circulator with WiFi and Bluetooth. Stainless steel build rated for commercial use, clamps to any container up to 100L. Temperature precision to ±0.1°C, range 0–92°C. WiFi connects to the Anova app for remote monitoring and guided recipes. The Pro's motor handles large containers that cause budget units to stall.",
+      ja: "WiFi + Bluetooth搭載1200W水中循環器。ステンレス製商業用グレード、最大100Lコンテナ対応クランプ。温度精度±0.1°C、0〜92°C対応。Anovaアプリでリモートモニタリングとガイドレシピ対応。Proモーターは安価機種が止まる大型コンテナでも安定稼働。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anova-precision-cooker-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnova+Precision+Cooker+Pro%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "breville-joule-turbo",
+    category: "food",
+    badge: "⚡",
+    name: { en: "Breville Joule Turbo Sous Vide", ja: "Breville Joule Turbo スービー" },
+    description: {
+      en: "1100W compact sous vide stick at 28cm tall and 281g — the smallest full-power unit in this comparison. App-only control via the Joule app (no manual controls on the unit itself). Turbo mode uses predictive algorithms to finish cook cycles up to 30% faster by adjusting temperature ramps. Clamps to containers 11–30cm deep.",
+      ja: "28cm・281gの1100Wコンパクト低温調理スティック — 本比較で最小のフルパワー機。Jouleアプリのみ操作（本体手動コントロールなし）。ターボモードは温度ランプを調整して最大30%速くクックサイクルを完了する予測アルゴリズム搭載。11〜30cmコンテナ対応クランプ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-breville-joule-turbo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville+Joule+Turbo+Sous+Vide%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "inkbird-isv100w",
+    category: "food",
+    badge: "💰",
+    name: { en: "Inkbird ISV-100W Sous Vide Cooker", ja: "Inkbird ISV-100W 低温調理器" },
+    description: {
+      en: "1000W WiFi-enabled immersion circulator at a budget price point. Temperature accuracy ±0.5°C, range 25–99.9°C. Manual dial and digital display allow operation without the app. WiFi connects to the Inkbird Home app for scheduling and remote monitoring. 12L maximum container capacity — sufficient for most home cook batches.",
+      ja: "手頃な価格の1000W WiFi対応水中循環器。温度精度±0.5°C、25〜99.9°C対応。アプリなしでも操作できるマニュアルダイヤルとデジタル表示。Inkbird HomeアプリでスケジューリングとリモートモニタリングにWiFi対応。最大12Lコンテナ容量 — 家庭料理の大半のバッチに十分。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-inkbird-isv100w", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInkbird+ISV-100W%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wancle-sous-vide",
+    category: "food",
+    badge: "🎯",
+    name: { en: "Wancle Sous Vide Cooker", ja: "Wancle 低温調理器" },
+    description: {
+      en: "850W entry-level immersion circulator with manual dial, LED display, and no WiFi. Temperature range 25–99.5°C, accuracy ±0.5°C. Straightforward operation: set temperature and time with the dial, clip to any pot. 15L maximum container. The no-WiFi design means no app dependency and no cloud connectivity — preferred by buyers who find app-required devices unreliable.",
+      ja: "マニュアルダイヤル・LED表示・WiFiなしの850W入門水中循環器。温度範囲25〜99.5°C、精度±0.5°C。シンプル操作：ダイヤルで温度と時間を設定してポットにクリップ。最大15Lコンテナ。WiFiなし設計でアプリ依存なしかつクラウド接続なし — アプリ必須機器を信頼しないユーザーに好評。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-wancle-sous-vide", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWancle+%E4%BD%8E%E6%B8%A9%E8%AA%BF%E7%90%86%E5%99%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "polyscience-creative-sous-vide",
+    category: "food",
+    badge: "🔬",
+    name: { en: "PolyScience Creative Series Sous Vide", ja: "PolyScience クリエイティブ シリーズ 低温調理器" },
+    description: {
+      en: "1100W professional-grade immersion circulator with ±0.07°C temperature stability — the tightest in this comparison. Used in restaurant kitchens and culinary schools. Manual controls with digital readout, no app required. Flow rate 11.5L/min maintains uniform temperature across large containers. IP rating protects against cooking liquid splashes.",
+      ja: "温度安定性±0.07°C — 本比較最高精度の1100Wプロフェッショナルグレード水中循環器。レストランキッチンと料理学校で使用。デジタル表示付きマニュアルコントロール、アプリ不要。流量11.5L/minで大型コンテナの均一温度を維持。調理液のスプラッシュに対応したIPレーティング。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-polyscience-creative-sous-vide", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPolyScience+Creative+Sous+Vide%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Beauty / Sunglasses (best-sunglasses-2026) ─────────
   {
     id: "rayban-wayfarer-classic",
@@ -4698,6 +4764,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-zojirushi-cv-dcc40-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%B1%A1%E5%8D%B0+CV-DCC40%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Resistance Bands (best-resistance-bands-2026) ─────────
+  {
+    id: "fit-simplify-loop-bands",
+    category: "fitness",
+    badge: "🔵",
+    name: { en: "Fit Simplify Resistance Loop Bands", ja: "Fit Simplify レジスタンスループバンド" },
+    description: {
+      en: "Set of 5 color-coded 12-inch mini latex loop bands: yellow (2–4 lbs / 0.9–1.8 kg), red (4–6 lbs / 1.8–2.7 kg), black (10–12 lbs / 4.5–5.4 kg), purple (15–20 lbs / 6.8–9.1 kg), blue (25–30 lbs / 11.3–13.6 kg). Designed primarily for glute work, lateral band walks, clamshells, and warm-up activation. Mini-loop form limits upper-body pressing range of motion; latex construction excludes latex-allergy users; lower resistance ceiling than full-length tube bands.",
+      ja: "5色カラーコード付き12インチミニラテックスループバンド5本セット：黄（2〜4ポンド/0.9〜1.8kg）、赤（4〜6ポンド/1.8〜2.7kg）、黒（10〜12ポンド/4.5〜5.4kg）、紫（15〜20ポンド/6.8〜9.1kg）、青（25〜30ポンド/11.3〜13.6kg）。臀部トレーニング、サイドウォーク、クラムシェル、ウォームアップアクティベーションに最適。ミニループ形状は上半身プレス可動域を制限；ラテックス構造のためラテックスアレルギー使用者には不向き；フルレングスチューブバンドと比較してより低い最大抵抗。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-fit-simplify-loop-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFit+Simplify+%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bodylastics-tube-bands",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Bodylastics Stackable Tube Bands", ja: "Bodylastics スタッカブルチューブバンド" },
+    description: {
+      en: "Stackable resistance tube set capable of combining up to 96 lbs (43.5 kg) total resistance. Includes door anchor, foam handles, and ankle straps. Individual tubes: 3 lbs (1.4 kg), 5 lbs (2.3 kg), 8 lbs (3.6 kg), 13 lbs (5.9 kg), 19 lbs (8.6 kg), 23 lbs (10.4 kg), 25 lbs (11.3 kg). Anti-snap technology with internal safety cord. Stack math means nominal resistance at the handle depends on anchor point and exercise angle — stated lbs not equivalent to dumbbell lbs at slow eccentric speed.",
+      ja: "最大96ポンド（43.5kg）まで組み合わせ可能なスタッカブルチューブバンドセット。ドアアンカー、フォームハンドル、アンクルストラップ付属。個別チューブ：3ポンド（1.4kg）・5ポンド（2.3kg）・8ポンド（3.6kg）・13ポンド（5.9kg）・19ポンド（8.6kg）・23ポンド（10.4kg）・25ポンド（11.3kg）。内部セーフティコードによるアンチスナップテクノロジー搭載。スタック時の実効抵抗はアンカー位置とエクササイズ角度に依存するため、表示ポンドはダンベルの同重量と同等ではない。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-bodylastics-tube-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBodylastics+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "whatafit-resistance-bands",
+    category: "fitness",
+    badge: "🏋️",
+    name: { en: "Whatafit Resistance Bands Set", ja: "Whatafit レジスタンスバンドセット" },
+    description: {
+      en: "5-tube stackable set: 10 lbs (4.5 kg), 20 lbs (9.1 kg), 30 lbs (13.6 kg), 40 lbs (18.1 kg), 50 lbs (22.7 kg); combined max 150 lbs (68 kg). Includes foam handles, door anchor, ankle straps, and carry bag. Best-value complete kit for home gym. Tube ends use carabiner-style snap hooks for quick changeover; large resistance range starts the set at a higher entry point than loop bands, making it less suitable as a rehabilitation starting point.",
+      ja: "5チューブスタッカブルセット：10ポンド（4.5kg）・20ポンド（9.1kg）・30ポンド（13.6kg）・40ポンド（18.1kg）・50ポンド（22.7kg）；最大合計150ポンド（68kg）。フォームハンドル・ドアアンカー・アンクルストラップ・収納バッグ付属。ホームジム向けのコストパフォーマンス最高の完全キット。チューブ端はカラビナ式スナップフックで素急い交換が可能；ループバンドよりエントリー抵抗が高いためリハビリ開始点には不向き。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-whatafit-resistance-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWhatafit+%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "theraband-flat-bands",
+    category: "fitness",
+    badge: "🩺",
+    name: { en: "TheraBand Resistance Bands", ja: "セラバンド レジスタンスバンド" },
+    description: {
+      en: "Physical therapy grade flat latex bands in 6-yard (5.5 m) rolls. Color-coded resistance: yellow (lightest, ~1–2 kg force at 100% elongation), red (~1.5–2.5 kg), green (~2–3.5 kg), blue (~3–4.5 kg), black (~4.5–6 kg), silver (heaviest, ~5.5–7.5 kg). Standard for clinical rehabilitation worldwide. Can be cut to any length. Not marketed for strength building past light-to-moderate resistance; flat band twists mid-exercise without careful anchoring technique; no handles or attachments included.",
+      ja: "理学療法グレードのフラットラテックスバンド（6ヤード/5.5mロール）。カラーコード抵抗：黄（最軽量、100%伸張時約1〜2kg）・赤（約1.5〜2.5kg）・緑（約2〜3.5kg）・青（約3〜4.5kg）・黒（約4.5〜6kg）・シルバー（最高強度、約5.5〜7.5kg）。世界の臨床リハビリテーションで標準使用。任意の長さにカットして使用可能。軽〜中程度の抵抗を超えた筋力強化目的には設計されていない；適切なアンカーテクニックなしでエクササイズ中にバンドが捻れやすい；ハンドルや付属品なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-theraband-flat-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BB%E3%83%A9%E3%83%90%E3%83%B3%E3%83%89+%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wodskai-pullup-bands",
+    category: "fitness",
+    badge: "🏅",
+    name: { en: "WODSKAI Pull-Up Assistance Bands", ja: "WODSKAI プルアップアシストバンド" },
+    description: {
+      en: "Large natural latex loop bands for pull-up assistance, muscle-up progressions, and heavy resistance work. Available in multiple widths: 1/2 inch (~5–35 lbs / 2.3–15.9 kg), 7/8 inch (~25–80 lbs / 11.3–36.3 kg), 1-1/8 inch (~50–125 lbs / 22.7–56.7 kg), 1-3/4 inch (~65–175 lbs / 29.5–79.5 kg). Full-length 41-inch loop enables overhead pressing and deadlift banding. Latex snap risk increases with heavy use; inspect for surface micro-cracks quarterly; not suitable for low-resistance activation work.",
+      ja: "プルアップアシスト・マッスルアップ進行・高負荷トレーニング向けの大型天然ラテックスループバンド。複数幅展開：1/2インチ（約5〜35ポンド/2.3〜15.9kg）・7/8インチ（約25〜80ポンド/11.3〜36.3kg）・1-1/8インチ（約50〜125ポンド/22.7〜56.7kg）・1-3/4インチ（約65〜175ポンド/29.5〜79.5kg）。41インチのフルレングスループでオーバーヘッドプレスやデッドリフトバンディングも可能。高強度使用でラテックスが破断するリスクがあり4半期ごとに表面マイクロクラックを点検；低抵抗のアクティベーション種目には不向き。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-wodskai-pullup-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97+%E3%82%A2%E3%82%B7%E3%82%B9%E3%83%88%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
