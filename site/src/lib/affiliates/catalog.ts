@@ -8083,6 +8083,136 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-fairchilds-organic-acv", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFairchild%27s%2B%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "rogue-dip-belt",
+    category: "fitness",
+    name: { en: "Rogue Dip Belt", ja: "Rogue ディップベルト" },
+    description: {
+      en: "Made in USA from 10mm nylon webbing with leather pad. Solid steel chain and rated carabiner handle serious load. Best overall dip belt for heavy weighted pull-ups and dips.",
+      ja: "10mmナイロンウェビングとレザーパッドを組み合わせたアメリカ製。頑丈なスチールチェーンと耐荷重カラビナ付き。加重ディップス・懸垂のハードユース向けに総合最優秀。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-rogue-dip-belt", rawUrl: "https://www.amazon.co.jp/s?k=Rogue+%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-dip-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2B%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dark-iron-fitness-dip-belt",
+    category: "fitness",
+    name: { en: "Dark Iron Fitness Leather Dip Belt", ja: "Dark Iron Fitness レザーディップベルト" },
+    description: {
+      en: "Genuine leather 6-inch wide pad — wider than most — with 30-inch steel chain. Rated 300 lbs. Budget leather option that molds to the body after break-in.",
+      ja: "6インチ幅の本革パッド（標準より幅広）と30インチスチールチェーン。耐荷重300lb。馴染ませ後に体にフィットするコスパ重視レザーモデル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-dark-iron-fitness-dip-belt", rawUrl: "https://www.amazon.co.jp/s?k=Dark+Iron+Fitness+%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88+%E3%83%AC%E3%82%B6%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-dark-iron-fitness-dip-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDark+Iron+Fitness%2B%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harbinger-dip-belt",
+    category: "fitness",
+    name: { en: "Harbinger Polypropylene Dip Belt", ja: "Harbinger ポリプロピレン ディップベルト" },
+    description: {
+      en: "Heavy-duty polypropylene webbing with 30-inch steel chain. The go-to budget option stocked in most commercial gyms. Works well for 25-75 lbs added weight.",
+      ja: "丈夫なポリプロピレンウェビングと30インチスチールチェーン。多くの商業ジムでも採用されている定番の低価格モデル。追加重量11〜34kgの範囲に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-harbinger-dip-belt", rawUrl: "https://www.amazon.co.jp/s?k=Harbinger+%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-harbinger-dip-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarbinger%2B%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fire-team-fit-dip-belt",
+    category: "fitness",
+    name: { en: "Fire Team Fit Weightlifting Dip Belt", ja: "Fire Team Fit ウェイトリフティング ディップベルト" },
+    description: {
+      en: "Neoprene padding with quick-release buckle and 36-inch steel chain. Soft from day one, rated 300 lbs. Best for comfort and fast transitions between sets.",
+      ja: "ネオプレンパッドとクイックリリースバックル、36インチスチールチェーン。最初から柔らかく、耐荷重300lb。快適性とセット間の素早い着脱を重視するトレーニーに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-fire-team-fit-dip-belt", rawUrl: "https://www.amazon.co.jp/s?k=Fire+Team+Fit+%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fire-team-fit-dip-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFire+Team+Fit%2B%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mummyfit-dip-belt",
+    category: "fitness",
+    name: { en: "MummyFit Dip Belt", ja: "MummyFit ディップベルト" },
+    description: {
+      en: "Budget neoprene dip belt with 36-inch steel chain. Best value pick for beginners and gym-goers who want soft padding without spending on premium hardware.",
+      ja: "36インチスチールチェーン付きの低価格ネオプレンディップベルト。ソフトなパッドを手頃な価格で求める初心者やジム利用者に最高のコスパ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-mummyfit-dip-belt", rawUrl: "https://www.amazon.co.jp/s?k=MummyFit+%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-mummyfit-dip-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMummyFit%2B%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "thorne-meriva-curcumin",
+    category: "food",
+    name: { en: "Thorne Meriva-SF (Curcumin Phytosome)", ja: "Thorne Meriva-SF（クルクミンフィトソーム）" },
+    description: {
+      en: "Phospholipid-bound curcumin phytosome with ~29x greater absorption than plain curcumin. Soy-free formulation using sunflower lecithin. NSF Certified for Sport — every batch tested for banned substances. The most research-backed high-bioavailability curcumin form available.",
+      ja: "ヒマワリレシチン結合のクルクミンフィトソーム。通常クルクミン比で約29倍の吸収率。ソイフリー処方。NSF認定（スポーツ向け）で全ロット禁止物質検査済み。最も研究実績のある高吸収型クルクミン。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-thorne-meriva-curcumin", rawUrl: "https://www.amazon.co.jp/s?k=Thorne+Meriva+%E3%82%AF%E3%83%AB%E3%82%AF%E3%83%9F%E3%83%B3+%E3%83%95%E3%82%A3%E3%83%88%E3%82%BD%E3%83%BC%E3%83%A0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-thorne-meriva-curcumin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FThorne%2BMeriva%2B%E3%82%AF%E3%83%AB%E3%82%AF%E3%83%9F%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "life-extension-bio-curcumin",
+    category: "food",
+    name: { en: "Life Extension Super Bio-Curcumin (BCM-95)", ja: "Life Extension Super Bio-Curcumin（BCM-95）" },
+    description: {
+      en: "BCM-95 extract combining curcuminoids with turmeric's own essential oils for ~6.93x greater absorption than standard curcumin. Piperine-free, making it safer for people on medications. 400mg per capsule. Rigorous third-party tested.",
+      ja: "クルクミノイドとターメリック精油を組み合わせたBCM-95エキス。通常クルクミン比で約6.93倍の吸収率。ピペリン不使用で薬との相互作用リスクが低い。1カプセル400mg。厳格な第三者試験済み。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-life-extension-bio-curcumin", rawUrl: "https://www.amazon.co.jp/s?k=Life+Extension+Super+Bio-Curcumin+BCM-95", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-life-extension-bio-curcumin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLife+Extension%2BSuper+Bio-Curcumin%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "qunol-turmeric-1000mg",
+    category: "food",
+    name: { en: "Qunol Turmeric 1000mg", ja: "Qunol ターメリック 1000mg" },
+    description: {
+      en: "Liquid gel capsule format with lipid carrier system for improved curcumin absorption. 1000mg turmeric extract standardized to 95% curcuminoids per serving. Widely available at major US retailers including Costco and Walmart. Reliable everyday option at an accessible price.",
+      ja: "脂質キャリアシステム搭載のリキッドジェルカプセル。1回摂取量あたりクルクミノイド95%標準化ターメリックエキス1000mg。コストコ・ウォルマートを含む大手小売で広く購入可能。手頃な価格の信頼できる日常サプリ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-qunol-turmeric-1000mg", rawUrl: "https://www.amazon.co.jp/s?k=Qunol+%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%83%E3%82%AF+1000mg", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-qunol-turmeric-1000mg", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FQunol%2B%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gaia-herbs-turmeric",
+    category: "food",
+    name: { en: "Gaia Herbs Turmeric Supreme", ja: "Gaia Herbs Turmeric Supreme" },
+    description: {
+      en: "Whole-herb concentrated turmeric extract with black pepper (piperine) for ~20x absorption boost. Certified organic, B Corp certified, grown on their own North Carolina farm. Seed-to-shelf traceability code on every batch. Best for those prioritizing organic and supply-chain transparency.",
+      ja: "黒コショウ（ピペリン）添加で吸収率約20倍向上のホールハーブ濃縮ターメリックエキス。オーガニック認証・Bコープ認証。ノースカロライナ州自社農場栽培。全ロットにSeed to Shelfトレーサビリティコード付き。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-gaia-herbs-turmeric", rawUrl: "https://www.amazon.co.jp/s?k=Gaia+Herbs+Turmeric+Supreme+%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-gaia-herbs-turmeric", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGaia+Herbs%2BTurmeric%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "garden-of-life-turmeric",
+    category: "food",
+    name: { en: "Garden of Life mykind Organics Turmeric", ja: "Garden of Life mykind Organics ターメリック" },
+    description: {
+      en: "USDA Certified Organic whole turmeric root and ginger, fermented with probiotics for digestive support. Non-GMO Project Verified, Certified Vegan. Whole-food philosophy with added digestive enzymes and live cultures. Best for clean-label priority and digestive health combination.",
+      ja: "USDA認定オーガニックのホールターメリック根とショウガをプロバイオティクスで発酵。Non-GMOプロジェクト認証・ビーガン認証。消化酵素と生菌入りのホールフード。クリーンラベル優先かつ腸内環境ケアにも配慮したい人向け。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-garden-of-life-turmeric", rawUrl: "https://www.amazon.co.jp/s?k=Garden+of+Life+mykind+Organics+%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-garden-of-life-turmeric", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarden+of+Life%2Bmykind%2BTurmeric%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
