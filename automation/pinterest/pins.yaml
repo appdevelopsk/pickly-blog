@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 143 articles x 6 variants x 2 locales (en, ja) = 1716 pins (growing)
+# 145 articles x 6 variants x 2 locales (en, ja) = 1740 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -19402,3 +19402,293 @@ pins:
   link: "https://pickly.blog/ja/articles/best-battle-rope-2026/"
   image_alt: "バトルロープ 用途別 ガレージ 屋外 HIIT ヘビーコンディショニング"
   hashtags: ["バトルロープ 用途別", "ガレージジム バトルロープ", "屋外 バトルロープ アンカー", "バトルロープ HIIT", "ヘビー コンディショニング ロープ"]
+
+# ── #144 best-mandoline-slicer-2026 ───────────────────────────────────────
+- id: "best-mandoline-slicer-2026-comparison-en"
+  article_slug: "best-mandoline-slicer-2026"
+  locale: "en"
+  variant: "comparison"
+  board: "food"
+  title: "Best Mandoline Slicers 2026: Benriner vs OXO vs Kyocera vs Swissmar Borner"
+  description: |
+    Tested 5 mandoline slicers on blade sharpness, cut guard safety, and thickness consistency. Benriner No. 64 is the professional Japanese benchmark for ultra-thin slices. OXO Chef's 2.0 has the safest hand guard of any mandoline. Kyocera ceramic blade stays sharp 10× longer than steel. Swissmar Borner V-Power is the fastest V-shaped slicer. Mueller V-Pro offers the most blade variety at the lowest price.
+  link: "https://pickly.blog/en/articles/best-mandoline-slicer-2026/"
+  image_alt: "Best mandoline slicers 2026 comparison Benriner OXO Kyocera Swissmar Mueller"
+  hashtags: ["mandoline slicer", "best mandoline slicer 2026", "Benriner vs OXO", "vegetable slicer comparison", "kitchen mandoline"]
+
+- id: "best-mandoline-slicer-2026-top1-en"
+  article_slug: "best-mandoline-slicer-2026"
+  locale: "en"
+  variant: "top1"
+  board: "food"
+  title: "Benriner No. 64 Japanese Mandoline: Razor-Sharp, 0.3–3mm Adjustable, Pro-Kitchen Standard"
+  description: |
+    Benriner No. 64 adjusts from 0.3mm to 3mm in 0.5mm increments — the thinnest range of any mandoline tested. The stainless steel blade is surgically sharp out of the box and stays that way through hundreds of uses on firm vegetables. Folds flat for compact storage. At around $40, it's the go-to tool in Japanese professional kitchens and the benchmark that serious home cooks upgrade to after burning through cheaper slicers.
+  link: "https://pickly.blog/en/articles/best-mandoline-slicer-2026/"
+  image_alt: "Benriner No 64 Japanese mandoline slicer razor sharp pro standard 2026"
+  hashtags: ["Benriner mandoline", "Japanese mandoline slicer", "Benriner No 64 review", "ultra thin slicer", "professional mandoline"]
+
+- id: "best-mandoline-slicer-2026-problem-en"
+  article_slug: "best-mandoline-slicer-2026"
+  locale: "en"
+  variant: "problem"
+  board: "food"
+  title: "Mandoline Slicer ER Visits Are Real — Here's How to Pick a Safe One"
+  description: |
+    Mandoline slicers send more people to emergency rooms than any other kitchen tool — the blade is sharper than most knives and cuts instantly through unguarded fingers. The critical safety feature is a hand guard that holds the food firmly down to the last inch. OXO Chef's 2.0 has a spring-loaded guard with teeth that grip even round vegetables without slipping. Always use the guard, even for "just one slice."
+  link: "https://pickly.blog/en/articles/best-mandoline-slicer-2026/"
+  image_alt: "Mandoline slicer safety hand guard cut injury prevention guide"
+  hashtags: ["mandoline slicer safety", "safe mandoline hand guard", "kitchen tool injury prevention", "OXO mandoline guard", "mandoline slicer tips"]
+
+- id: "best-mandoline-slicer-2026-budget-en"
+  article_slug: "best-mandoline-slicer-2026"
+  locale: "en"
+  variant: "budget"
+  board: "food"
+  title: "Best Budget Mandoline Slicer 2026: Mueller V-Pro Under $30 with 5 Blades"
+  description: |
+    Mueller Austria V-Pro comes under $30 and includes 5 interchangeable blades — thin slice, thick slice, julienne, waffle cut, and coarse grate. Adjustable thickness from 1–8mm. The ABS plastic body is lightweight and easy to clean. Cut-resistant gloves included. It won't stay sharp as long as Benriner or Kyocera, but for occasional use on soft to medium vegetables, it covers more cooking needs per dollar than any other option.
+  link: "https://pickly.blog/en/articles/best-mandoline-slicer-2026/"
+  image_alt: "Mueller V-Pro mandoline slicer budget best value 5 blades 2026"
+  hashtags: ["budget mandoline slicer", "Mueller mandoline review", "cheap mandoline slicer", "mandoline under 30", "multi blade slicer"]
+
+- id: "best-mandoline-slicer-2026-avoid-en"
+  article_slug: "best-mandoline-slicer-2026"
+  locale: "en"
+  variant: "avoid"
+  board: "food"
+  title: "Mandoline Buying Mistakes: Wobbly Platforms and Flimsy Hand Guards"
+  description: |
+    Two mandoline failures that cause injuries: (1) a platform that rocks during slicing — the blade catches instead of cutting cleanly, causing the food to kick and the user's hand to slip; (2) a hand guard that doesn't grip round vegetables like carrots and apples — they rotate mid-slice. Check that the guard has teeth or spikes (not smooth plastic) and that the platform locks into at least two positions.
+  link: "https://pickly.blog/en/articles/best-mandoline-slicer-2026/"
+  image_alt: "Mandoline slicer buying mistakes wobbly platform flimsy guard injury"
+  hashtags: ["mandoline slicer warning", "mandoline safety guide", "kitchen tool quality check", "safe mandoline features", "mandoline injury prevention"]
+
+- id: "best-mandoline-slicer-2026-scene-en"
+  article_slug: "best-mandoline-slicer-2026"
+  locale: "en"
+  variant: "scene"
+  board: "food"
+  title: "Mandoline for Every Kitchen: Paper-Thin Slices, Safety, Ceramic Blade & Budget"
+  description: |
+    Paper-thin potato chips or carpaccio → Benriner No. 64 (0.3mm minimum). Safety first for clumsy hands → OXO Chef's 2.0 (best hand guard, spring-loaded grip). Ceramic blade for low-maintenance sharpness → Kyocera (no rust, sharpens 10× less often). Quick V-slice prep → Swissmar Borner V-Power (V-shaped blade, fastest through-put). Maximum blade variety on a budget → Mueller V-Pro (5 blades, $25).
+  link: "https://pickly.blog/en/articles/best-mandoline-slicer-2026/"
+  image_alt: "Mandoline slicer by use case paper thin safety ceramic budget"
+  hashtags: ["mandoline by use case", "thin slice mandoline", "safe mandoline kitchen", "ceramic blade mandoline", "budget multi-blade slicer"]
+
+- id: "best-mandoline-slicer-2026-comparison-ja"
+  article_slug: "best-mandoline-slicer-2026"
+  locale: "ja"
+  variant: "comparison"
+  board: "food"
+  title: "スライサー 2026年版比較：ベンリナー vs OXO vs 京セラ vs Swissmar Borner 徹底検証"
+  description: |
+    5製品を刃の鋭さ・カットガード安全性・スライス厚みの均一性で徹底比較。超薄切りプロ基準はBenriner No.64。最高安全性ハンドガードはOXO Chef's 2.0。刃が10倍長持ちする京セラセラミック。V型最速スライサーはSwissmar Borner V-Power。最多刃バリエーションコスパはMueller V-Pro。
+  link: "https://pickly.blog/ja/articles/best-mandoline-slicer-2026/"
+  image_alt: "スライサー 比較 2026 ベンリナー OXO 京セラ Swissmar Mueller"
+  hashtags: ["スライサー おすすめ", "スライサー 比較 2026", "ベンリナー vs OXO", "野菜 スライサー 比較", "マンドリン スライサー"]
+
+- id: "best-mandoline-slicer-2026-top1-ja"
+  article_slug: "best-mandoline-slicer-2026"
+  locale: "ja"
+  variant: "top1"
+  board: "food"
+  title: "ベンリナー No.64 がスライサー1位の理由：0.3〜3mm・日本料理プロの定番"
+  description: |
+    ベンリナーNo.64は0.3mmから3mmを0.5mm刻みで調整可能。本比較中最薄スライス範囲。ステンレス刃は開封直後から外科的鋭さで、固い野菜を数百回スライスしても切れ味が長持ち。コンパクト収納可能。約4,000円で日本のプロ料理場の標準器具であり、廉価スライサーで満足できなくなった本格派家庭料理人がたどり着く定番。
+  link: "https://pickly.blog/ja/articles/best-mandoline-slicer-2026/"
+  image_alt: "ベンリナー No64 スライサー プロ仕様 日本製 おすすめ 2026"
+  hashtags: ["ベンリナー スライサー", "日本製 マンドリン スライサー", "ベンリナー No64 レビュー", "超薄切り スライサー", "プロ キッチン スライサー"]
+
+- id: "best-mandoline-slicer-2026-problem-ja"
+  article_slug: "best-mandoline-slicer-2026"
+  locale: "ja"
+  variant: "problem"
+  board: "food"
+  title: "スライサーによる指の怪我は救急搬送レベル：安全なスライサーの選び方"
+  description: |
+    スライサーは家庭用調理器具の中で救急搬送率が最も高い道具。刃は多くの包丁より鋭く、油断した一瞬で深い切り傷を負う。最重要安全機能は食材をしっかり固定するハンドガード。OXO Chef's 2.0のスプリング式ガードは歯（スパイク）が人参などの丸い野菜も滑らず固定。「1枚だけ」のときもガードは必ず使用すること。
+  link: "https://pickly.blog/ja/articles/best-mandoline-slicer-2026/"
+  image_alt: "スライサー 安全 ハンドガード 怪我 防止 救急"
+  hashtags: ["スライサー 安全", "ハンドガード スライサー", "キッチン 怪我 防止", "OXO スライサー ガード", "スライサー 安全 使い方"]
+
+- id: "best-mandoline-slicer-2026-budget-ja"
+  article_slug: "best-mandoline-slicer-2026"
+  locale: "ja"
+  variant: "budget"
+  board: "food"
+  title: "コスパ最強スライサー 2026：Mueller V-Pro が3,500円以下で刃5種類付き"
+  description: |
+    Mueller Austria V-Proは3,500円以下で薄切り・厚切り・千切り・ウェーブカット・粗おろし5種の刃を同梱。厚み1〜8mm調整可能。ABS樹脂ボディで軽量・洗いやすい。耐切創グローブ付属。BenrinerやKyoceraほど刃持ちはしないが、野菜の素材が柔らかめなら頻度低めの料理には1本で最多の用途をカバー。
+  link: "https://pickly.blog/ja/articles/best-mandoline-slicer-2026/"
+  image_alt: "Mueller V-Pro スライサー コスパ 5刃 安い 2026"
+  hashtags: ["安い スライサー", "Mueller スライサー レビュー", "コスパ マンドリン", "スライサー 3500円 以下", "多機能 スライサー"]
+
+- id: "best-mandoline-slicer-2026-avoid-ja"
+  article_slug: "best-mandoline-slicer-2026"
+  locale: "ja"
+  variant: "avoid"
+  board: "food"
+  title: "買ってはいけないスライサー：台がぐらつく・ハンドガードが弱い2大失敗"
+  description: |
+    怪我につながるスライサーの2大欠陥：①スライス中に台がぐらつく（刃が食材に引っかかり手が滑る）；②丸い野菜が固定できないハンドガード（人参・リンゴなどがスライス中に回転する）。ガードに歯またはスパイクがあるか、台が2ポジション以上でロックされるかを確認。本記事の5製品はすべてこれらをクリア済み。
+  link: "https://pickly.blog/ja/articles/best-mandoline-slicer-2026/"
+  image_alt: "スライサー 失敗 台 ぐらつき ハンドガード 弱い 注意"
+  hashtags: ["スライサー 選び方 失敗", "スライサー 安全 確認", "キッチン 器具 品質", "安全な スライサー 特徴", "スライサー 怪我 回避"]
+
+- id: "best-mandoline-slicer-2026-scene-ja"
+  article_slug: "best-mandoline-slicer-2026"
+  locale: "ja"
+  variant: "scene"
+  board: "food"
+  title: "用途別おすすめスライサー：超薄切り・安全重視・セラミック刃・コスパ重視"
+  description: |
+    ポテトチップス・カルパッチョ等の超薄切り → ベンリナーNo.64（最薄0.3mm）。手元不注意な方の安全最優先 → OXO Chef's 2.0（最高ハンドガード・スプリング固定）。刃メンテナンスを減らしたい → 京セラセラミック（10倍長持ち・錆なし）。V型で素早い大量スライス → Swissmar Borner V-Power（V刃・最速処理）。刃バリエーション重視コスパ → Mueller V-Pro（5刃・3,500円）。
+  link: "https://pickly.blog/ja/articles/best-mandoline-slicer-2026/"
+  image_alt: "スライサー 用途別 超薄切り 安全 セラミック コスパ"
+  hashtags: ["スライサー 用途別 選び方", "超薄切り スライサー", "安全重視 スライサー", "セラミック刃 スライサー", "コスパ 多機能 スライサー"]
+
+# ── #145 best-pull-up-bar-ceiling-mounted-2026 ────────────────────────────
+- id: "best-pull-up-bar-ceiling-mounted-2026-comparison-en"
+  article_slug: "best-pull-up-bar-ceiling-mounted-2026"
+  locale: "en"
+  variant: "comparison"
+  board: "fitness"
+  title: "Best Ceiling-Mounted Pull-Up Bars 2026: Rogue vs Titan vs Rep vs ProBar"
+  description: |
+    Tested 5 ceiling/wall-mount pull-up bars on load rating, steel gauge, and installation complexity. Rogue Joist Mount is the commercial-grade standard with a 500+ lb rating. Titan Fitness wall/ceiling bar handles both mounting styles. Rep Fitness ceiling bar has the widest grip span at 48 inches. ProBar wall mount by Pullup & Dip fits most wall studs. Ultimate Body Press ceiling bar is the easiest DIY installation.
+  link: "https://pickly.blog/en/articles/best-pull-up-bar-ceiling-mounted-2026/"
+  image_alt: "Best ceiling mounted pull-up bars 2026 comparison Rogue Titan Rep ProBar"
+  hashtags: ["ceiling pull up bar", "best ceiling mounted bar 2026", "Rogue vs Titan pull up", "wall mount pull up bar", "home gym bar installation"]
+
+- id: "best-pull-up-bar-ceiling-mounted-2026-top1-en"
+  article_slug: "best-pull-up-bar-ceiling-mounted-2026"
+  locale: "en"
+  variant: "top1"
+  board: "fitness"
+  title: "Rogue Joist Mount Pull-Up Bar: Commercial-Grade Steel, 500+ lb Rating"
+  description: |
+    Rogue Joist Mount attaches directly to exposed ceiling joists with 3/8-inch hardware — no additional support structure needed if your joists are standard 16 or 24-inch spacing. The 1.25-inch diameter steel bar is the same spec as Rogue's commercial rack pull-up bars. Rated 500+ lbs for static load, meaning kipping pull-ups and muscle-ups are well within tolerance. At $150+, it's the most expensive option but the safest for serious volume training.
+  link: "https://pickly.blog/en/articles/best-pull-up-bar-ceiling-mounted-2026/"
+  image_alt: "Rogue Joist Mount pull-up bar commercial grade 500 lb ceiling 2026"
+  hashtags: ["Rogue pull up bar", "Rogue Joist Mount review", "commercial pull up bar home", "500 lb rated pull up", "serious home gym bar"]
+
+- id: "best-pull-up-bar-ceiling-mounted-2026-problem-en"
+  article_slug: "best-pull-up-bar-ceiling-mounted-2026"
+  locale: "en"
+  variant: "problem"
+  board: "fitness"
+  title: "Doorframe Pull-Up Bar Not Enough? Ceiling-Mount Gives Full Kipping Clearance"
+  description: |
+    Doorframe pull-up bars limit you to dead-hang pulls — there's no room for kipping, chest-to-bar, or bar muscle-ups. A ceiling-mounted bar at 8–9 feet gives full range of motion with 12+ inches of head clearance above the bar. It also handles gymnastic ring attachments, hanging ab straps, and suspension trainers. One anchor point replaces 3–4 separate gym equipment purchases.
+  link: "https://pickly.blog/en/articles/best-pull-up-bar-ceiling-mounted-2026/"
+  image_alt: "Doorframe pull-up bar limitation ceiling mount kipping clearance solution"
+  hashtags: ["ceiling pull up vs door bar", "kipping pull up bar", "home gym ceiling bar", "muscle up bar home", "pull up bar upgrade"]
+
+- id: "best-pull-up-bar-ceiling-mounted-2026-budget-en"
+  article_slug: "best-pull-up-bar-ceiling-mounted-2026"
+  locale: "en"
+  variant: "budget"
+  board: "fitness"
+  title: "Best Budget Ceiling Pull-Up Bar 2026: Ultimate Body Press Under $80"
+  description: |
+    Ultimate Body Press Ceiling Mount Pull-Up Bar costs under $80 and includes all mounting hardware for standard wood-joist ceilings. The 1-inch steel bar spans 36 inches with neutral grip handles on both ends. Rated 300 lbs. Installation requires a drill and a stud finder — about 30 minutes. It doesn't have Rogue's gauge of steel, but for bodyweight training under 250 lbs, it holds fine and the price is hard to argue with.
+  link: "https://pickly.blog/en/articles/best-pull-up-bar-ceiling-mounted-2026/"
+  image_alt: "Ultimate Body Press ceiling pull-up bar budget best value 2026"
+  hashtags: ["budget ceiling pull up bar", "Ultimate Body Press review", "cheap ceiling bar gym", "home gym bar under 80", "DIY pull up bar install"]
+
+- id: "best-pull-up-bar-ceiling-mounted-2026-avoid-en"
+  article_slug: "best-pull-up-bar-ceiling-mounted-2026"
+  locale: "en"
+  variant: "avoid"
+  board: "fitness"
+  title: "Ceiling Pull-Up Bar Safety: Why You Must Anchor to Joists, Not Just Drywall"
+  description: |
+    Drywall anchors fail under dynamic loads — a kipping pull-up or muscle-up generates 3–5× bodyweight at peak force. Always mount into wood ceiling joists or a steel beam. Check with a stud finder before drilling. If your ceiling has no accessible joists (concrete slab apartments), use a freestanding power rack instead — ceiling bars should never be mounted into drywall or plaster alone, regardless of rated weight.
+  link: "https://pickly.blog/en/articles/best-pull-up-bar-ceiling-mounted-2026/"
+  image_alt: "Ceiling pull-up bar safety joist anchor drywall failure warning"
+  hashtags: ["ceiling bar safety installation", "pull up bar joist anchor", "drywall anchor failure warning", "home gym safety install", "ceiling bar mounting guide"]
+
+- id: "best-pull-up-bar-ceiling-mounted-2026-scene-en"
+  article_slug: "best-pull-up-bar-ceiling-mounted-2026"
+  locale: "en"
+  variant: "scene"
+  board: "fitness"
+  title: "Ceiling Pull-Up Bar by Home Setup: Exposed Joists, Finished Ceiling, Wall Mount"
+  description: |
+    Exposed joists (basement/garage) → Rogue Joist Mount (best-in-class, 500 lbs). Finished drywall ceiling (confirmed joists) → Ultimate Body Press or Rep Fitness ceiling bar. Wall mount preferred over ceiling → Titan Fitness wall/ceiling bar (dual mounting mode). European stud spacing or masonry wall → ProBar by Pullup & Dip (includes appropriate hardware for both). Competition-level kipping & rings → Rep Fitness 48-inch span (widest grip for muscle-ups).
+  link: "https://pickly.blog/en/articles/best-pull-up-bar-ceiling-mounted-2026/"
+  image_alt: "Ceiling pull-up bar by setup exposed joists finished wall mount guide"
+  hashtags: ["ceiling bar by home setup", "exposed joist pull up", "finished ceiling bar install", "wall mount pull up guide", "home gym bar selection"]
+
+- id: "best-pull-up-bar-ceiling-mounted-2026-comparison-ja"
+  article_slug: "best-pull-up-bar-ceiling-mounted-2026"
+  locale: "ja"
+  variant: "comparison"
+  board: "fitness"
+  title: "天井固定 懸垂バー 2026年版比較：Rogue vs Titan vs Rep vs ProBar 徹底検証"
+  description: |
+    5製品を耐荷重・スチール厚・設置難易度で徹底比較。商業グレード耐荷重227kg以上はRogue Joist Mount。壁・天井両対応はTitan Fitness。最大グリップスパン122cmはRep Fitness。壁スタッド対応のProBar by Pullup & Dip。DIY最簡単設置はUltimate Body Press。
+  link: "https://pickly.blog/ja/articles/best-pull-up-bar-ceiling-mounted-2026/"
+  image_alt: "天井固定 懸垂バー 比較 2026 Rogue Titan Rep ProBar"
+  hashtags: ["天井 懸垂バー", "天井固定 懸垂バー 2026", "Rogue vs Titan 懸垂", "壁固定 懸垂バー", "ホームジム バー 設置"]
+
+- id: "best-pull-up-bar-ceiling-mounted-2026-top1-ja"
+  article_slug: "best-pull-up-bar-ceiling-mounted-2026"
+  locale: "ja"
+  variant: "top1"
+  board: "fitness"
+  title: "Rogue Joist Mountが天井懸垂バー1位の理由：商業グレード・耐荷重227kg以上・キッピング対応"
+  description: |
+    Rogue Joist Mountは3/8インチハードウェアで天井の根太（梁）に直接固定。標準的な40cmまたは60cm間隔の根太があれば追加構造不要。バー径32mm（1.25インチ）はRogue商業ラックと同スペック。静的荷重227kg以上でキッピングプルアップ・マッスルアップも余裕内。2万円以上とやや高めだが本格的なボリュームトレーニングに最も安全な選択。
+  link: "https://pickly.blog/ja/articles/best-pull-up-bar-ceiling-mounted-2026/"
+  image_alt: "Rogue Joist Mount 天井 懸垂バー 商業グレード 2026"
+  hashtags: ["Rogue 懸垂バー", "Rogue Joist Mount レビュー", "商業 懸垂バー 自宅", "耐荷重 227kg 懸垂", "本格 ホームジム バー"]
+
+- id: "best-pull-up-bar-ceiling-mounted-2026-problem-ja"
+  article_slug: "best-pull-up-bar-ceiling-mounted-2026"
+  locale: "ja"
+  variant: "problem"
+  board: "fitness"
+  title: "ドア枠懸垂バーでは物足りない？天井固定型でキッピングや体操リングが可能に"
+  description: |
+    ドア枠懸垂バーはデッドハング懸垂しかできない。キッピング・チェストトゥバー・マッスルアップには頭上スペースが足りない。天井固定バー（床から240〜270cm）なら頭上30cm以上の余裕ができ全可動域をカバー。さらに体操リング・ぶら下がりアブストラップ・サスペンショントレーナーも装着可能。1つのアンカーポイントで3〜4種類の器具を代替できる。
+  link: "https://pickly.blog/ja/articles/best-pull-up-bar-ceiling-mounted-2026/"
+  image_alt: "ドア枠懸垂バー 限界 天井固定 キッピング マッスルアップ スペース"
+  hashtags: ["天井 vs ドア枠 懸垂バー", "キッピング 懸垂バー", "ホームジム 天井バー", "マッスルアップ 自宅", "懸垂バー アップグレード"]
+
+- id: "best-pull-up-bar-ceiling-mounted-2026-budget-ja"
+  article_slug: "best-pull-up-bar-ceiling-mounted-2026"
+  locale: "ja"
+  variant: "budget"
+  board: "fitness"
+  title: "コスパ最強天井懸垂バー 2026：Ultimate Body Press が1万円以下で設置簡単"
+  description: |
+    Ultimate Body Press Ceiling Mount Pull-Up Barは1万円以下で標準木製根太天井用取り付けハードウェア全付属。25mm（1インチ）スチールバーは幅91cm・両端にニュートラルグリップハンドル。耐荷重136kg。電動ドライバーと下地センサーで約30分で設置完了。Rogueほどのスチール厚はないが体重113kg以下の体重トレーニングなら問題ない耐久性。
+  link: "https://pickly.blog/ja/articles/best-pull-up-bar-ceiling-mounted-2026/"
+  image_alt: "Ultimate Body Press 天井 懸垂バー コスパ 1万円以下 2026"
+  hashtags: ["安い 天井 懸垂バー", "Ultimate Body Press レビュー", "コスパ 天井 バー", "ホームジム バー 1万円", "DIY 懸垂バー 設置"]
+
+- id: "best-pull-up-bar-ceiling-mounted-2026-avoid-ja"
+  article_slug: "best-pull-up-bar-ceiling-mounted-2026"
+  locale: "ja"
+  variant: "avoid"
+  board: "fitness"
+  title: "天井懸垂バーの安全設置：石膏ボードのみの固定は絶対にNG"
+  description: |
+    石膏ボードアンカーは動的荷重では必ず外れる。キッピングやマッスルアップは最大荷重時に体重の3〜5倍の力が瞬間的にかかる。必ず天井の木製根太または鉄骨梁に固定すること。設置前に下地センサーで確認。コンクリートスラブのマンションで根太がない場合はフリースタンディングパワーラックを選ぶこと。石膏ボードや漆喰のみへの固定は耐荷重表示に関わらず危険。
+  link: "https://pickly.blog/ja/articles/best-pull-up-bar-ceiling-mounted-2026/"
+  image_alt: "天井懸垂バー 安全 根太 石膏ボード 固定 注意"
+  hashtags: ["天井バー 安全 設置", "懸垂バー 根太 固定", "石膏ボード アンカー 危険", "ホームジム 安全 設置", "天井バー 取り付け ガイド"]
+
+- id: "best-pull-up-bar-ceiling-mounted-2026-scene-ja"
+  article_slug: "best-pull-up-bar-ceiling-mounted-2026"
+  locale: "ja"
+  variant: "scene"
+  board: "fitness"
+  title: "自宅環境別おすすめ天井懸垂バー：露出梁・仕上げ天井・壁固定 それぞれの最適解"
+  description: |
+    露出根太（地下室・ガレージ） → Rogue Joist Mount（最高クラス・227kg以上）。仕上げ石膏ボード天井（根太確認済み） → Ultimate Body PressまたはRep Fitness天井バー。天井より壁固定優先 → Titan Fitness壁・天井両対応（2モード）。欧州スタッド間隔またはコンクリート壁 → ProBar by Pullup & Dip（各種ハードウェア対応）。キッピング＆リング競技レベル → Rep Fitness 122cmスパン（マッスルアップに最適）。
+  link: "https://pickly.blog/ja/articles/best-pull-up-bar-ceiling-mounted-2026/"
+  image_alt: "天井懸垂バー 環境別 露出梁 仕上げ天井 壁固定 選び方"
+  hashtags: ["天井バー 環境別 選び方", "露出根太 懸垂バー", "仕上げ天井 バー 設置", "壁固定 懸垂バー ガイド", "ホームジム バー 環境別"]
