@@ -4832,6 +4832,77 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-wodskai-pullup-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97+%E3%82%A2%E3%82%B7%E3%82%B9%E3%83%88%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Tech / Smart Speakers (best-smart-speaker-2026) ─────────
+  {
+    id: "amazon-echo-4th-gen",
+    category: "tech",
+    badge: "🔵",
+    name: { en: "Amazon Echo (4th Gen)", ja: "Amazon Echo（第4世代）" },
+    description: {
+      en: "Alexa smart speaker with 360-degree sound, built-in Zigbee smart home hub, and Thread/Matter support. 3.0-inch woofer with dual tweeters. Compact spherical design. Supports Amazon Music, Spotify, Apple Music, and most streaming services. Functions as a smart home hub for Zigbee devices without a separate hub purchase.",
+      ja: "360度サウンド、Zigbeeスマートホームハブ内蔵、Thread/Matter対応のAlexa搭載スマートスピーカー。3インチウーファーとデュアルツイーター搭載。コンパクトな球体デザイン。Amazon Music・Spotify・Apple Musicなど主要ストリーミングサービスに対応。別途ハブなしでZigbeeデバイスのスマートホームハブとして機能。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-amazon-echo-4th-gen", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazon+Echo+%E7%AC%AC4%E4%B8%96%E4%BB%A3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "google-nest-audio",
+    category: "tech",
+    badge: "🟢",
+    name: { en: "Google Nest Audio", ja: "Google Nest Audio" },
+    description: {
+      en: "Google Assistant smart speaker with 75 mm woofer and 19 mm tweeter. Rich, warm sound profile with strong mid-range clarity. Deep integration with Google Search, YouTube Music, and Spotify. Best voice assistant for search-type queries and follow-up questions in natural conversation. Supports multi-room audio with other Cast-compatible speakers.",
+      ja: "75mmウーファーと19mmツイーター搭載のGoogleアシスタント内蔵スマートスピーカー。豊かで温かみのあるサウンドプロファイルと優れた中音域。Google検索・YouTube Music・Spotifyと深く連携。検索系のクエリや文脈を引き継いだ追加質問に最も優れた音声アシスタント。他のCast対応スピーカーとマルチルーム再生に対応。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-google-nest-audio", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGoogle+Nest+Audio%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "apple-homepod-2nd-gen",
+    category: "tech",
+    badge: "⚪",
+    name: { en: "Apple HomePod (2nd Gen)", ja: "Apple HomePod（第2世代）" },
+    description: {
+      en: "Siri smart speaker with 4-inch high-excursion woofer and five tweeters. Real-time room-correction Spatial Audio processing adapts EQ to placement in any room. Thread border router and HomeKit hub built-in. Hardware microphone mute button. Requires Apple Music for full audio quality. iPhone/iPad required for setup. Best privacy default in class — Siri requests linked to random identifier, not Apple ID.",
+      ja: "4インチ大口径ウーファーと5基のツイーター搭載のSiri内蔵スマートスピーカー。リアルタイム室内補正の空間オーディオ処理がどの設置場所でもEQを最適化。Thread境界ルーターとHomekitハブ内蔵。ハードウェアマイクミュートボタン搭載。フルオーディオ品質にはApple Musicが必要。設定にはiPhone/iPadが必須。クラス最高のプライバシー設定——SiriリクエストはApple IDではなくランダム識別子に紐づく。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-apple-homepod-2nd-gen", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple+HomePod+%E7%AC%AC2%E4%B8%96%E4%BB%A3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazon-echo-studio",
+    category: "tech",
+    badge: "🟣",
+    name: { en: "Amazon Echo Studio", ja: "Amazon Echo Studio" },
+    description: {
+      en: "Amazon's hi-fi smart speaker with five drivers: one 5.25-inch woofer, two 2-inch midrange drivers, one front-facing tweeter, and one upward-firing tweeter for Dolby Atmos ceiling reflection. 330W peak output. Automatic room adaptation. Full Alexa ecosystem with the same smart home integrations as Echo 4th Gen but without the Zigbee hub radio. Best Amazon speaker for music listening.",
+      ja: "5基のドライバー（5.25インチウーファー×1、2インチミッドレンジ×2、フロントツイーター×1、Dolby Atmos天井反射用上向きツイーター×1）搭載のAmazonハイファイスマートスピーカー。330Wのピーク出力。自動室内適応機能。Echo第4世代と同じスマートホーム連携を持つフルAlexaエコシステムだがZigbeeハブラジオはなし。音楽リスニングに最適なAmazonスピーカー。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-amazon-echo-studio", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazon+Echo+Studio%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sonos-era-100",
+    category: "tech",
+    badge: "🔶",
+    name: { en: "Sonos Era 100", ja: "Sonos Era 100" },
+    description: {
+      en: "Premium smart speaker with two tweeters angled outward at 70 degrees for wide stereo imaging, plus a single woofer. Trueplay acoustic tuning (iOS and Android) measures room acoustics and adjusts EQ automatically. Works with Alexa and Google Assistant via voice forwarding, plus AirPlay 2. Platform-agnostic: compatible with Spotify, Apple Music, Amazon Music, Tidal, and more. No native voice assistant. Best audio quality in the comparison for non-Apple-ecosystem buyers.",
+      ja: "70度外向きに配置されたデュアルツイーターと単一ウーファーによる広いステレオイメージを持つプレミアムスマートスピーカー。Trueplay音響調整（iOS・Android対応）が室内音響を計測して自動EQ最適化。音声転送でAlexaとGoogleアシスタントに対応し、AirPlay 2もサポート。プラットフォーム非依存：Spotify・Apple Music・Amazon Music・Tidalなどに対応。固有の音声アシスタントはなし。Apple以外のエコシステムのユーザーにはこの比較で最高の音質。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-sonos-era-100", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSonos+Era+100%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  { id: "cerave-hydrating-cleanser", category: "beauty", name: { en: "CeraVe Hydrating Facial Cleanser", ja: "CeraVe モイスチャライジングクレンザー" }, description: { en: "Non-foaming cleanser with ceramides for dry/normal skin.", ja: "セラミド配合の非泡立てクレンザー。乾燥肌・普通肌向け。" }, links: [{ network: "moshimo", productId: "rakuten-cerave-hydrating-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCeraVe+%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true }] },
+  { id: "laroche-posay-toleriane-cleanser", category: "beauty", name: { en: "La Roche-Posay Toleriane Gentle Cleanser", ja: "ラロッシュポゼ トレリアンクレンザー" }, description: { en: "Ultra-gentle cleanser for sensitive and rosacea-prone skin.", ja: "敏感肌・ロゼーシア肌向けの超マイルドクレンザー。" }, links: [{ network: "moshimo", productId: "rakuten-laroche-posay-toleriane-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC+%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true }] },
+  { id: "cetaphil-gentle-cleanser", category: "beauty", name: { en: "Cetaphil Gentle Skin Cleanser", ja: "セタフィル ジェントルクレンザー" }, description: { en: "70-year classic ultra-mild cleanser, fragrance-free.", ja: "70年のロングセラー超低刺激クレンザー。無香料。" }, links: [{ network: "moshimo", productId: "rakuten-cetaphil-gentle-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCetaphil+%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true }] },
+  { id: "paulas-choice-foaming-cleanser", category: "beauty", name: { en: "Paula's Choice RESIST Foaming Cleanser", ja: "ポーラスチョイス フォーミングクレンザー" }, description: { en: "SLS-free foaming cleanser for oily and combination skin.", ja: "オイリー・混合肌向けSLSフリー泡洗顔料。" }, links: [{ network: "moshimo", productId: "rakuten-paulas-choice-foaming-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9D%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%81%E3%83%A7%E3%82%A4%E3%82%B9+%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true }] },
+  { id: "tatcha-rice-wash", category: "beauty", name: { en: "Tatcha The Rice Wash", ja: "タッチャ ライスウォッシュ" }, description: { en: "Soft milky cleanser with rice bran for brightening.", ja: "米ぬか配合のやわらかミルク洗顔料。明るさ改善効果。" }, links: [{ network: "moshimo", productId: "rakuten-tatcha-rice-wash", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%83%E3%83%81%E3%83%A3+%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5%2F", markets: ["JP"], approved: true }] },
 ];
 
 /**
