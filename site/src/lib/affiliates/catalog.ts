@@ -9040,6 +9040,77 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-hamilton-beach-40792-espresso", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2B40792%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Food / Pour-Over Coffee Kits (best-pour-over-coffee-kit-2026) ─────────
+  {
+    id: "hario-v60-ceramic-02",
+    category: "food",
+    badge: "☕",
+    name: { en: "Hario V60 Ceramic Dripper 02", ja: "ハリオ V60 セラミックドリッパー 02" },
+    description: {
+      en: "~¥2,000-¥2,500. The global reference-standard pour-over dripper. Spiral ribs run the full cone height for even drainage; large single apex opening drains fast for clear, bright extraction. Ceramic body holds heat significantly better than plastic versions. High skill ceiling — technique errors show directly in the cup.",
+      ja: "約2,000〜2,500円。世界標準のポアオーバー基準機。スパイラルリブがコーン全高に走り均一な排水を実現。頂点の大きな単一開口で速く排水し、クリアで明るい抽出。セラミックボディはプラスチックバージョンより保温性が大幅に高い。スキルの上限が高い——テクニックミスはカップに直結。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000P4D5HG", rawUrl: "https://www.amazon.co.jp/dp/B000P4D5HG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hario-v60-ceramic-02", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%AA%E3%82%AA%2BV60%2B%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%2B02%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "chemex-classic-6cup",
+    category: "food",
+    badge: "🫙",
+    name: { en: "Chemex Classic Series 6-Cup", ja: "Chemex クラシックシリーズ 6カップ" },
+    description: {
+      en: "~¥6,000-¥7,000. Batch pour-over brewer and server in one borosilicate glass vessel. Thick bonded paper filters produce the cleanest, lightest-bodied cup in this comparison. Brews up to 900 ml (3-4 full mugs) per batch. Chemex-specific filters required; glass carafe is not insulated.",
+      ja: "約6,000〜7,000円。ホウケイサンガラス一体型のバッチ向けポアオーバー兼サーバー。厚手ボンドペーパーで本比較最もクリーンで軽いボディのカップ。1バッチ最大900ml(満杯マグカップ3〜4杯)。Chemex専用フィルター必要。ガラスカラフェは保温なし。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000I1WP7W", rawUrl: "https://www.amazon.co.jp/dp/B000I1WP7W", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-chemex-classic-6cup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChemex%2B%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%2B6%E3%82%AB%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kalita-wave-185-stainless",
+    category: "food",
+    badge: "〰️",
+    name: { en: "Kalita Wave 185 Stainless Dripper", ja: "カリタ ウェーブ 185 ステンレスドリッパー" },
+    description: {
+      en: "~¥5,000-¥6,000. Flat-bottom dripper with three small drainage holes that even out flow rate and absorb pour inconsistencies. Stainless steel body survives drops unlike ceramic or glass. Fuller-bodied extraction than V60; requires Wave-specific ripple papers; three holes need periodic cleaning.",
+      ja: "約5,000〜6,000円。3つの小穴で流速を均一にして注ぎのバラつきを吸収するフラットボトムドリッパー。ステンレスボディは陶器・ガラスと異なり落下に耐える。V60よりコクのある抽出。ウェーブ専用波型ペーパーが必要。3つの穴は定期的な清掃が必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00MVRGWRI", rawUrl: "https://www.amazon.co.jp/dp/B00MVRGWRI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kalita-wave-185-stainless", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AB%E3%83%AA%E3%82%BF%2B%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%2B185%2B%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bodum-pour-over-permanent",
+    category: "food",
+    badge: "🔩",
+    name: { en: "Bodum Pour Over Coffee Maker with Permanent Filter", ja: "Bodum パーマネントフィルター付きポアオーバーコーヒーメーカー" },
+    description: {
+      en: "~¥3,000-¥3,500. Stainless steel mesh permanent filter passes coffee oils for French-press-adjacent body without any paper filter cost. Cone-shaped frame sits on most mugs. Mesh requires immediate post-brew rinse before grounds dry; glass carafe breaks on impact.",
+      ja: "約3,000〜3,500円。ステンレスメッシュのパーマネントフィルターがコーヒーオイルを通過させ、ペーパーフィルター不要でフレンチプレスに近いコクをもたらす。コーン形フレームがほとんどのマグに乗る。メッシュは粉が乾燥する前に即時すすぎが必要。ガラスカラフェは衝撃で割れる。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01JDHE3BK", rawUrl: "https://www.amazon.co.jp/dp/B01JDHE3BK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bodum-pour-over-permanent", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBodum%2B%E3%83%9D%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%2B%E3%83%91%E3%83%BC%E3%83%9E%E3%83%8D%E3%83%B3%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fellow-stagg-x-set",
+    category: "food",
+    badge: "🎛️",
+    name: { en: "Fellow Stagg [X] Pour-Over Set", ja: "Fellow Stagg [X] ポアオーバーセット" },
+    description: {
+      en: "~¥18,000-¥22,000 for the set with gooseneck kettle. Cone dripper with a base valve for steep-and-release immersion mode — the most beginner-forgiving extraction method in this comparison. Uses V60 02-compatible cone papers. Valve mechanism adds one decision point per brew; price is 8-10x the Hario V60 Ceramic.",
+      ja: "グースネックケトル付きセットで約18,000〜22,000円。スティープ&リリース浸漬モード用のベースバルブ付きコーンドリッパー——本比較で最も初心者に寛容な抽出方法。V60 02互換コーンペーパーを使用。バルブ機構が1回の抽出に判断ポイントを一つ加える。ハリオV60セラミックの8〜10倍の価格。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07GPVWW54", rawUrl: "https://www.amazon.co.jp/dp/B07GPVWW54", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fellow-stagg-x-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFellow%2BStagg%2BX%2B%E3%83%9D%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Fitness / CrossFit Jump Ropes (best-jump-rope-for-crossfit-2026) ─────────
   {
     id: "rx-smart-gear-elite-evo",
