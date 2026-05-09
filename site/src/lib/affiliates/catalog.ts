@@ -7951,6 +7951,71 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-yes4all-foam-plyo-box", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All%2B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%2B%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "titin-force-weighted-shirt",
+    category: "fitness",
+    name: { en: "Titin Force Weighted Shirt", ja: "Titin Force ウェイテッドシャツ" },
+    description: {
+      en: "Hydro-gel weighted compression shirt with 14 pockets across chest, back, and shoulders. 8 lbs total load. Wearable under regular clothing — zero-bulk profile for weighted pull-ups, push-ups, and everyday active use.",
+      ja: "胸・背中・肩の14ポケットにハイドロジェルウェイトを内蔵したコンプレッションシャツ。総重量8ポンド。普通の服の下に着用可能——加重懸垂・腕立て伏せ・日常的なアクティブユースに対応するゼロバルクプロファイル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-titin-force-weighted-shirt", rawUrl: "https://www.amazon.co.jp/s?k=Titin+Force+Weighted+Shirt+%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E3%82%B7%E3%83%A3%E3%83%84", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titin-force-weighted-shirt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitin+Force%2B%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%99%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-dog-collar-vest",
+    category: "fitness",
+    name: { en: "Rogue Dog Collar Weight Vest", ja: "Rogue Dog Collar ウェイトベスト" },
+    description: {
+      en: "Plate-loaded shoulder harness for weighted pull-ups and dips. Holds standard Olympic plates (10–45 lbs) in front for full back clearance. Steel construction built for CrossFit and commercial gym use.",
+      ja: "加重懸垂・ディップス用プレートロード式ショルダーハーネス。標準オリンピックプレート（10〜45ポンド）を前面に保持し、背中を完全フリーに。クロスフィット・商業ジム向けスチール製構造。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-rogue-dog-collar-vest", rawUrl: "https://www.amazon.co.jp/s?k=Rogue+Dog+Collar+%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%99%E3%82%B9%E3%83%88+%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-dog-collar-vest", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BDog+Collar%2B%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%99%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hyperwear-hyper-vest-pro",
+    category: "fitness",
+    name: { en: "Hyperwear Hyper Vest PRO", ja: "Hyperwear Hyper Vest PRO" },
+    description: {
+      en: "Steel shot weight vest with corset-style side lacing for near-zero bounce. Available 10–20 lbs. Purpose-built for running, HIIT, and high-movement cardio where vest stability directly affects performance.",
+      ja: "コルセット式サイドレーシングでバウンドをほぼゼロに抑えるスチールショットウェイトベスト。10〜20ポンドの選択肢。ランニング・HIIT・ベストの安定性がパフォーマンスに直結する高運動強度カーディオ専用設計。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-hyperwear-hyper-vest-pro", rawUrl: "https://www.amazon.co.jp/s?k=Hyperwear+Hyper+Vest+PRO+%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%99%E3%82%B9%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hyperwear-hyper-vest-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHyperwear%2BHyper+Vest%2BPRO%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cap-barbell-weight-vest",
+    category: "fitness",
+    name: { en: "CAP Barbell Adjustable Weighted Vest", ja: "CAP Barbell アジャスタブル ウェイテッドベスト" },
+    description: {
+      en: "Iron sand weight pockets adjustable up to 40 lbs. Best-value entry for bodyweight strength training — push-ups, dips, squats, step-ups. Solid fabric construction, affordable price point.",
+      ja: "アイアンサンドウェイトポケットで最大40ポンドまで調整可能。腕立て伏せ・ディップス・スクワット・ステップアップなど自重ストレングストレーニングへの最高コスパエントリー。無地ファブリック構造、手頃な価格帯。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-cap-barbell-weight-vest", rawUrl: "https://www.amazon.co.jp/s?k=CAP+Barbell+%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E3%83%99%E3%82%B9%E3%83%88+%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cap-barbell-weight-vest", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP+Barbell%2B%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%99%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "511-tactical-tactec-vest",
+    category: "fitness",
+    name: { en: "5.11 Tactical TacTec Plate Carrier Vest", ja: "5.11 Tactical TacTec プレートキャリアベスト" },
+    description: {
+      en: "Military-grade plate carrier for rucking and loaded hiking. Holds standard SAPI plates up to 30 lbs. Padded shoulder straps and cummerbund waistband distribute load for sustained movement. MOLLE-compatible, multi-year outdoor durability.",
+      ja: "ラッキング・ロードハイキング向けミリタリーグレードプレートキャリア。標準SAPIプレートを最大30ポンド収容。パッド付きショルダーストラップとカンバーバンドウエストバンドで長距離移動の荷重を分散。MOLLE対応、数年間の屋外耐久性。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-511-tactical-tactec-vest", rawUrl: "https://www.amazon.co.jp/s?k=5.11+Tactical+TacTec+%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-511-tactical-tactec-vest", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F5.11+Tactical%2BTacTec%2B%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
