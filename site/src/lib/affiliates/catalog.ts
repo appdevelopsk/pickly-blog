@@ -5091,6 +5091,128 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-perfect-sleep-pad", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%259B%25BB%25E6%25B0%2597%25E6%2595%25B7%25E3%2581%258D%25E6%25AF%259B%25E5%25B8%2583%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Jump Ropes (best-jump-rope-2026) ─────────
+  {
+    id: "crossrope-get-lean-set",
+    category: "fitness",
+    name: { en: "Crossrope Get Lean Set", ja: "クロスロープ ゲットリーンセット" },
+    description: {
+      en: "Interchangeable weighted cables (1/4lb + 1/2lb), app-connected for workout tracking, handles sold separately or as a bundle. Distributed cable weight loads shoulders and forearms through each rotation — fundamentally different training stimulus from speed ropes.",
+      ja: "交換式ウエイトケーブル（1/4lb・1/2lb）、ワークアウトトラッキング用アプリ連動、ハンドル別売または同梱セットで購入可。分散したケーブル重量が各回転で肩と前腕に負荷——スピードロープとは根本的に異なるトレーニング刺激。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-crossrope-get-lean", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%B8%84%E8%B7%B3%E3%81%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rx-smart-gear-freestyle-rope",
+    category: "fitness",
+    name: { en: "RX Smart Gear Freestyle Speed Rope", ja: "RXスマートギア フリースタイルスピードロープ" },
+    description: {
+      en: "Competition-grade wire speed rope with precision swivel bearing system. Cut-to-length cable, thin coated wire, industry standard for double under training and CrossFit. Bearings spin 25–40 seconds from a single flick.",
+      ja: "精密スイベルベアリングシステム搭載の競技グレードワイヤースピードロープ。カット注文ケーブル、細いコーティングワイヤー、二重跳び練習とクロスフィットの業界標準。ベアリングは一回の弾きで25〜40秒回転。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-rx-smart-gear-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E7%B8%84%E8%B7%B3%E3%81%B3%2B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harbor-freight-speed-rope",
+    category: "fitness",
+    name: { en: "Harbor Freight Basic Speed Jump Rope", ja: "ハーバーフレイト 基本スピード縄跳び" },
+    description: {
+      en: "Ultra-budget PVC jump rope under ¥2,000. Basic swivel joint, thick PVC cord, adjustable length clamp. Adequate for beginner rhythm practice and basic cardio. Not suitable for double unders or sustained high-speed work.",
+      ja: "¥2,000以下の超バジェットPVC縄跳び。基本スイベルジョイント、太いPVCコード、調整可能長さクランプ。初心者のリズム練習と基本有酸素運動に十分。二重跳びや持続的高速ワークには不向き。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-pvc-jump-rope-basic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%B8%84%E8%B7%B3%E3%81%B3%2BPVC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "survival-and-cross-jump-rope",
+    category: "fitness",
+    name: { en: "Survival and Cross Speed Jump Rope", ja: "サバイバルアンドクロス スピード縄跳び" },
+    description: {
+      en: "Ball-bearing wire speed rope at budget price point. Sealed ball bearings allow cable to rotate independently of handle, 3mm coated wire cable, adjustable length. Best value upgrade from basic PVC for beginner-to-intermediate speed work.",
+      ja: "バジェット価格帯のボールベアリングワイヤースピードロープ。密封ボールベアリングがケーブルをハンドルから独立して回転させる、3mmコーティングワイヤーケーブル、調整可能長さ。基本PVCからの初〜中級スピードワーク向け最良コスパアップグレード。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ball-bearing-speed-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%B8%84%E8%B7%B3%E3%81%B3%2B%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rpg-jump-rope",
+    category: "fitness",
+    name: { en: "RPG Jump Rope Smart Counting Rope", ja: "RPGジャンプロープ スマートカウンティングロープ" },
+    description: {
+      en: "Smart jump rope with built-in accelerometer counting reps and calories via embedded display in one handle. Functional ball bearings, adjustable length, no smartphone required during session. Slightly heavier handles than pure speed ropes due to electronics.",
+      ja: "1つのハンドル内蔵ディスプレイで加速度計により回数とカロリーをカウントするスマート縄跳び。機能的ボールベアリング、調整可能長さ、セッション中スマートフォン不要。電子部品のため純粋なスピードロープより若干重いハンドル。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-rpg-smart-jump-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%B8%84%E8%B7%B3%E3%81%B3%2B%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Cold Brew Coffee Makers (best-cold-brew-coffee-maker-2026) ─────────
+  {
+    id: "toddy-cold-brew-system",
+    category: "food",
+    name: { en: "Toddy Cold Brew System", ja: "トッディ コールドブリューシステム" },
+    description: {
+      en: "Classic felt filter immersion system since 1964 — 1.5L batch, 24-hour fridge steep, near-zero sediment concentrate. Glass decanter included.",
+      ja: "1964年から続くクラシックなフェルトフィルター浸漬式システム。1.5Lバッチ、24時間冷蔵浸漬、澱ほぼゼロのコンセントレート。ガラスデカンター付属。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-toddy-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oxo-brew-compact-cold-brewer",
+    category: "food",
+    name: { en: "OXO Brew Compact Cold Brewer", ja: "OXO ブリュー コンパクト コールドブリュワー" },
+    description: {
+      en: "Slow-drip tower for single-origin expression — 300–400mL per 12–24 hour batch, adjustable drip rate, aluminum carafe. Best for specialty coffee enthusiasts.",
+      ja: "シングルオリジン向け点滴式タワー。12〜24時間バッチで300〜400mL、調整可能な滴下速度、アルミニウムカラフ。スペシャルティコーヒー愛好家に最適。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-oxo-cold-brewer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "filtron-cold-water-brewer",
+    category: "food",
+    name: { en: "Filtron Cold Water Brewer", ja: "フィルトロン コールドウォータービュワー" },
+    description: {
+      en: "High-capacity immersion cold brew — up to 1.8L water, paper filter insert for zero sediment, functional plastic body. Best for 3–4 person households.",
+      ja: "大容量浸漬式コールドブリュー。最大水量1.8L、ペーパーフィルターインサートで澱ゼロ、機能的プラスチックボディ。3〜4人家族向けに最適。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-filtron-cold-brewer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "county-line-kitchen-mason-jar",
+    category: "food",
+    name: { en: "County Line Kitchen Cold Brew Coffee Maker", ja: "カウンティライン・キッチン コールドブリューコーヒーメーカー" },
+    description: {
+      en: "Stainless mesh basket kit for wide-mouth mason jars — lowest entry cost, scales to 1-gallon batches, metal mesh filter allows some sediment.",
+      ja: "ワイドマウスメイソンジャー用ステンレスメッシュバスケットキット。最低コストのエントリー、1ガロンバッチまでスケール可能、金属メッシュフィルターで澱あり。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-mason-jar-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E5%87%BA%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "takeya-cold-brew-coffee-maker",
+    category: "food",
+    name: { en: "Takeya Cold Brew Coffee Maker", ja: "タケヤ コールドブリューコーヒーメーカー" },
+    description: {
+      en: "1L glass carafe with fine-mesh lid — fits refrigerator door shelves, no replacement filters needed, daily single-serve brewing at 1:6–1:7 ratio.",
+      ja: "細目メッシュ蓋付き1Lガラスカラフ。冷蔵庫ドアポケット収納、交換フィルター不要、1:6〜1:7比率での毎日のシングルサーブ醸造向け。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-takeya-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E5%87%BA%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
