@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 103 articles x 6 variants x 2 locales (en, ja) = 1244 pins (growing)
+# 105 articles x 6 variants x 2 locales (en, ja) = 1268 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -13914,3 +13914,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-swim-goggles-2026/"
     image_alt: "水泳ゴーグル スタイル別 選び方 ガイド 2026"
     hashtags: ["水泳ゴーグル", "水泳", "スイミングギア", "トライアスロン", "水泳ガイド"]
+
+  # ── #104 best-wine-subscription-2026 ────────────────────────────────────
+  - pin_id: best-wine-subscription-2026-en-01
+    article_slug: best-wine-subscription-2026
+    locale: en
+    variant: comparison
+    title: "Best Wine Subscriptions 2026: Winc vs Firstleaf vs Naked Wines vs Wine Access vs BRIGHT Cellars"
+    description: |
+      Five wine subscriptions compared on personalization quality, value per bottle, skip flexibility, natural wine options, and tasting note depth. From $10/bottle beginner picks to collector-grade selections — find the subscription that matches how seriously you take your glass.
+    link: "https://pickly.blog/en/articles/best-wine-subscription-2026/"
+    image_alt: "best wine subscriptions 2026 comparison Winc Firstleaf Naked Wines"
+    hashtags: ["WineSubscription", "Wine", "WineClub", "WineLover", "DrinkWine"]
+
+  - pin_id: best-wine-subscription-2026-en-02
+    article_slug: best-wine-subscription-2026
+    locale: en
+    variant: top1
+    title: "Winc: Best Everyday Personalized Wine Subscription 2026"
+    description: |
+      Algorithm-matched selections from Winc's own winery plus curated outside labels. Four wines per shipment, $13–25/bottle depending on tier. Pause anytime, ship on your schedule. Best for people who drink wine 2–3 nights a week and want a reliable house rotation without tasting every option at a wine shop.
+    link: "https://pickly.blog/en/articles/best-wine-subscription-2026/"
+    image_alt: "Winc wine subscription personalized algorithm 2026"
+    hashtags: ["WincWine", "WineSubscription", "WineClub", "PersonalizedWine", "WineLover"]
+
+  - pin_id: best-wine-subscription-2026-en-03
+    article_slug: best-wine-subscription-2026
+    locale: en
+    variant: problem
+    title: "Why Wine Subscriptions Often Send Wines You Hate"
+    description: |
+      Most personalization quizzes ask 5 questions and make lifelong assumptions. Tannin preference isn't the same as body preference. "Dry" means different things for red vs white. Algorithms over-index on past ratings instead of learning exploration intent. The best subscriptions adjust from your feedback — not just your first quiz score.
+    link: "https://pickly.blog/en/articles/best-wine-subscription-2026/"
+    image_alt: "wine subscription problems personalization wrong picks"
+    hashtags: ["WineSubscriptionProblems", "Wine", "WineClub", "WineTips", "WineLover"]
+
+  - pin_id: best-wine-subscription-2026-en-04
+    article_slug: best-wine-subscription-2026
+    locale: en
+    variant: budget
+    title: "Best Value Wine Subscription 2026: Firstleaf at $39.95 for 6 Bottles"
+    description: |
+      Firstleaf's intro offer — six bottles for $39.95 — is the best entry price in this comparison at ~$6.65/bottle. Standard ongoing price is $15.99–18.99/bottle after the intro period. The personalization quiz feeds a real algorithm that improves with each rating. Best for beginners building their palate on a budget.
+    link: "https://pickly.blog/en/articles/best-wine-subscription-2026/"
+    image_alt: "Firstleaf wine subscription budget value intro offer 2026"
+    hashtags: ["BudgetWineSubscription", "FirstleafWine", "WineClub", "WineDeals", "WineLover"]
+
+  - pin_id: best-wine-subscription-2026-en-05
+    article_slug: best-wine-subscription-2026
+    locale: en
+    variant: avoid
+    title: "4 Wine Subscription Mistakes That Lead to an Expensive Cabinet of Bottles You Won't Open"
+    description: |
+      Not checking skip policy: 3 months of shipments while traveling = $200+ of undrunk wine. Choosing by label design: marketing-forward labels often mask mediocre juice. No pause = you're committed to a cadence that doesn't match your consumption. Ignoring sulfite and natural wine options if you're sensitive to headaches.
+    link: "https://pickly.blog/en/articles/best-wine-subscription-2026/"
+    image_alt: "wine subscription mistakes avoid undrunk bottles cancel"
+    hashtags: ["WineSubscriptionMistakes", "Wine", "WineClub", "WineTips", "DrinkWine"]
+
+  - pin_id: best-wine-subscription-2026-en-06
+    article_slug: best-wine-subscription-2026
+    locale: en
+    variant: scene
+    title: "Which Wine Subscription for Your Wine Personality?"
+    description: |
+      Regular weeknight drinker → Winc (algorithm + own label, pause anytime). Budget explorer → Firstleaf ($39.95/6 bottles intro). Value + community → Naked Wines (Angel membership model). Serious enthusiast / cellar-building → Wine Access. Complete beginner → BRIGHT Cellars (palate quiz + ratings learning).
+    link: "https://pickly.blog/en/articles/best-wine-subscription-2026/"
+    image_alt: "wine subscription guide which to choose wine personality 2026"
+    hashtags: ["WineSubscription", "Wine", "WineClub", "WineGuide", "WineLover"]
+
+  - pin_id: best-wine-subscription-2026-ja-01
+    article_slug: best-wine-subscription-2026
+    locale: ja
+    variant: comparison
+    title: "ワインサブスクおすすめ2026：Winc vs Firstleaf vs Naked Wines vs Wine Access vs BRIGHT Cellars"
+    description: |
+      5サービスをパーソナライズ品質・1本あたりコスパ・スキップ柔軟性・ナチュラルワインの有無・テイスティングノート品質で比較。入門向けから本格コレクター向けまで、グラスのこだわりに合うサブスクが決まる。
+    link: "https://pickly.blog/ja/articles/best-wine-subscription-2026/"
+    image_alt: "ワイン サブスク おすすめ 2026 比較 Winc Firstleaf"
+    hashtags: ["ワインサブスク", "おすすめ", "ワイン", "ワインクラブ", "ワイン好き"]
+
+  - pin_id: best-wine-subscription-2026-ja-02
+    article_slug: best-wine-subscription-2026
+    locale: ja
+    variant: top1
+    title: "Winc：毎日飲む人のためのワインサブスク2026決定版"
+    description: |
+      Winc自社ワイナリーとキュレーション外部ラベルのアルゴリズムマッチング。1回発送で4本、$13〜25/本。いつでも一時停止・配送スケジュール自由。週2〜3晩ワインを楽しむ人がワインショップで毎回選ばずにすむ理想のローテーション。
+    link: "https://pickly.blog/ja/articles/best-wine-subscription-2026/"
+    image_alt: "Winc ワインサブスク パーソナライズ アルゴリズム 2026"
+    hashtags: ["Wincワイン", "ワインサブスク", "ワインクラブ", "パーソナライズ", "ワイン"]
+
+  - pin_id: best-wine-subscription-2026-ja-03
+    article_slug: best-wine-subscription-2026
+    locale: ja
+    variant: problem
+    title: "ワインサブスクが嫌いなワインを送り続ける理由"
+    description: |
+      多くのパーソナライズクイズは5問で生涯の好みを断定する。タンニンの好みとボディの好みは別物。「ドライ」の意味は赤白で違う。アルゴリズムは「探索意欲」より「過去の評価」に過学習する。最良のサブスクはクイズスコアではなく毎回のフィードバックから学ぶ。
+    link: "https://pickly.blog/ja/articles/best-wine-subscription-2026/"
+    image_alt: "ワインサブスク 問題 パーソナライズ 失敗 好みと違う"
+    hashtags: ["ワインサブスク 問題", "ワイン", "ワインクラブ", "ワイン 選び方", "ワイン好き"]
+
+  - pin_id: best-wine-subscription-2026-ja-04
+    article_slug: best-wine-subscription-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強ワインサブスク2026：Firstleaf 6本$39.95〜"
+    description: |
+      Firstleafのイントロオファーは6本で$39.95（1本あたり約$6.65）——このリスト最安値。通常価格は$15.99〜$18.99/本。評価するたびにアルゴリズムが学習する本格的なパーソナライズ。予算内でパレットを育てたい初心者に最適。
+    link: "https://pickly.blog/ja/articles/best-wine-subscription-2026/"
+    image_alt: "Firstleaf ワインサブスク コスパ 入門 2026"
+    hashtags: ["コスパ ワインサブスク", "Firstleaf", "ワインクラブ", "ワイン 格安", "ワイン好き"]
+
+  - pin_id: best-wine-subscription-2026-ja-05
+    article_slug: best-wine-subscription-2026
+    locale: ja
+    variant: avoid
+    title: "高いのに飲まないワインが溜まるサブスク選びの4つのミス"
+    description: |
+      スキップポリシー確認なし：旅行中3ヶ月分が届いて$200超のボトルが積まれる。ラベルデザインで選ぶ：おしゃれラベルは中身を保証しない。一時停止不可のサブスク：消費ペースと発送頻度が合わない。亜硫酸塩・ナチュラルワインの有無を無視：頭痛体質の人は要確認。
+    link: "https://pickly.blog/ja/articles/best-wine-subscription-2026/"
+    image_alt: "ワインサブスク 失敗 飲まない ボトル 溜まる"
+    hashtags: ["ワインサブスク 失敗", "ワイン", "ワインクラブ", "サブスク 注意", "ワイン 選び方"]
+
+  - pin_id: best-wine-subscription-2026-ja-06
+    article_slug: best-wine-subscription-2026
+    locale: ja
+    variant: scene
+    title: "ワイン好きのタイプ別：サブスクリプションの選び方ガイド"
+    description: |
+      平日の晩ワイン派 → Winc（アルゴリズム＋自社ラベル・いつでも停止）。予算内で探索 → Firstleaf（初回6本$39.95）。コスパ＋コミュニティ → Naked Wines（エンジェル会員モデル）。本格派/セラー構築 → Wine Access。完全初心者 → BRIGHT Cellars（パレットクイズ学習）。
+    link: "https://pickly.blog/ja/articles/best-wine-subscription-2026/"
+    image_alt: "ワインサブスク タイプ別 選び方 ガイド 2026"
+    hashtags: ["ワインサブスク", "ワイン", "ワインクラブ", "ワインガイド", "ワイン好き"]
+
+  # ── #105 best-yoga-block-2026 ────────────────────────────────────────────
+  - pin_id: best-yoga-block-2026-en-01
+    article_slug: best-yoga-block-2026
+    locale: en
+    variant: comparison
+    title: "Best Yoga Blocks 2026: Cork vs Foam Compared — Manduka vs Hugger Mugger vs Gaiam vs JadeYoga vs ProSource"
+    description: |
+      Five yoga blocks compared on material density, dimensions, edge vs flat orientation, weight capacity, and eco-provenance. Whether you're modifying for tight hamstrings or pressing into a block for balance, the material and density determine how much the block works with you — not against you.
+    link: "https://pickly.blog/en/articles/best-yoga-block-2026/"
+    image_alt: "best yoga blocks 2026 cork foam comparison Manduka Gaiam"
+    hashtags: ["YogaBlock", "Yoga", "YogaGear", "YogaProps", "YogaPractice"]
+
+  - pin_id: best-yoga-block-2026-en-02
+    article_slug: best-yoga-block-2026
+    locale: en
+    variant: top1
+    title: "Manduka Recycled Foam Block: Best Premium Yoga Block 2026"
+    description: |
+      Recycled-content EVA foam with above-standard density, beveled edges, and a surface that grips without sticking. Three size options, holds shape under full body weight in supported inversions. At ~$18, it's double the price of basic blocks — but it's the block most yoga studios equip their shelves with for a reason.
+    link: "https://pickly.blog/en/articles/best-yoga-block-2026/"
+    image_alt: "Manduka recycled foam yoga block premium 2026"
+    hashtags: ["MandukaYoga", "YogaBlock", "YogaGear", "YogaProps", "PremiumYoga"]
+
+  - pin_id: best-yoga-block-2026-en-03
+    article_slug: best-yoga-block-2026
+    locale: en
+    variant: problem
+    title: "Why Cheap Yoga Blocks Compress Under Your Weight and Throw Off Your Alignment"
+    description: |
+      Low-density foam compresses 1–2 cm under full body weight — which changes your alignment in supported poses like Supta Baddha Konasana. Round edges without beveling create an unstable contact point for balance poses. Standard 9×6×4 blocks are fine; anything smaller compromises reach for tight practitioners. Density matters more than price.
+    link: "https://pickly.blog/en/articles/best-yoga-block-2026/"
+    image_alt: "yoga block cheap compress alignment problem foam density"
+    hashtags: ["YogaBlockProblems", "Yoga", "YogaGear", "YogaTips", "YogaAlignment"]
+
+  - pin_id: best-yoga-block-2026-en-04
+    article_slug: best-yoga-block-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Yoga Block 2026: Gaiam Essentials from $8"
+    description: |
+      Gaiam Essentials EVA foam at ~$8 per block is the standard entry point — 9×6×4 inches, three height orientations, lightweight. The foam is softer than Manduka but adequate for standing poses and gentle support. Buy two: beginners almost always need a pair, and Gaiam's sets are well priced.
+    link: "https://pickly.blog/en/articles/best-yoga-block-2026/"
+    image_alt: "Gaiam Essentials yoga block budget foam 2026"
+    hashtags: ["BudgetYogaBlock", "GaiamYoga", "YogaBlock", "YogaGear", "BeginnerYoga"]
+
+  - pin_id: best-yoga-block-2026-en-05
+    article_slug: best-yoga-block-2026
+    locale: en
+    variant: avoid
+    title: "4 Yoga Block Buying Mistakes That Compromise Your Practice"
+    description: |
+      Buying only one: most standing forward folds and supported backbends need two blocks. Getting the smallest size: 3-inch blocks don't give enough reach in tight hamstring poses. Choosing round-edge over beveled: round edges wobble in balance poses. Buying foam for hot yoga: cork is non-porous and doesn't absorb sweat the way foam does.
+    link: "https://pickly.blog/en/articles/best-yoga-block-2026/"
+    image_alt: "yoga block mistakes buying guide practice compromise"
+    hashtags: ["YogaBlockMistakes", "Yoga", "YogaGear", "YogaTips", "YogaProps"]
+
+  - pin_id: best-yoga-block-2026-en-06
+    article_slug: best-yoga-block-2026
+    locale: en
+    variant: scene
+    title: "Which Yoga Block for Your Practice Style?"
+    description: |
+      Studio-quality home practice → Manduka Recycled Foam (~$18, above-standard density). Natural material preference → Hugger Mugger Cork (non-compressible, eco). Budget starter pair → Gaiam Essentials ($8, buy two). Eco-conscious → JadeYoga Foam (sustainable materials). Iyengar / restorative → ProSource Firm Foam (maximum density).
+    link: "https://pickly.blog/en/articles/best-yoga-block-2026/"
+    image_alt: "yoga block guide which to buy practice style 2026"
+    hashtags: ["YogaBlock", "Yoga", "YogaGear", "YogaProps", "YogaGuide"]
+
+  - pin_id: best-yoga-block-2026-ja-01
+    article_slug: best-yoga-block-2026
+    locale: ja
+    variant: comparison
+    title: "ヨガブロックおすすめ2026：コルクvsフォーム密度比較｜Manduka vs Hugger Mugger vs Gaiam vs JadeYoga vs ProSource"
+    description: |
+      5製品を素材密度・サイズ・エッジ形状・耐荷重・エコ素材で比較。タイトなハムストリングへの修正サポートからバランスポーズのプレスまで、素材と密度がブロックの使いやすさを決める。
+    link: "https://pickly.blog/ja/articles/best-yoga-block-2026/"
+    image_alt: "ヨガブロック おすすめ 2026 コルク フォーム 比較"
+    hashtags: ["ヨガブロック", "おすすめ", "ヨガ", "ヨガギア", "ヨガ小道具"]
+
+  - pin_id: best-yoga-block-2026-ja-02
+    article_slug: best-yoga-block-2026
+    locale: ja
+    variant: top1
+    title: "Manduka リサイクルフォームブロック：最高のヨガブロック2026"
+    description: |
+      リサイクル素材EVAフォームで標準以上の密度、ベベルエッジ、サポートポーズで体重をかけても形状維持。3サイズ展開。約$18（約2,800円）と基本的なブロックの2倍だが、多くのヨガスタジオが棚に並べ続ける理由がある品質。
+    link: "https://pickly.blog/ja/articles/best-yoga-block-2026/"
+    image_alt: "Manduka ヨガブロック リサイクルフォーム プレミアム 2026"
+    hashtags: ["Mandukaヨガ", "ヨガブロック", "ヨガギア", "ヨガ小道具", "プレミアムヨガ"]
+
+  - pin_id: best-yoga-block-2026-ja-03
+    article_slug: best-yoga-block-2026
+    locale: ja
+    variant: problem
+    title: "安いヨガブロックが体重で潰れてアライメントを崩す理由"
+    description: |
+      低密度フォームは体重をかけると1〜2cm沈む——スプタバッダコナーサナなどのサポートポーズでアライメントがずれる。ベベルなし丸エッジはバランスポーズの接地点が不安定。標準9×6×4インチより小さいブロックは柔軟性の低い人に届かない。価格より密度が重要。
+    link: "https://pickly.blog/ja/articles/best-yoga-block-2026/"
+    image_alt: "ヨガブロック 安物 沈む アライメント 問題 フォーム密度"
+    hashtags: ["ヨガブロック 問題", "ヨガ", "ヨガギア", "アライメント", "ヨガ 注意"]
+
+  - pin_id: best-yoga-block-2026-ja-04
+    article_slug: best-yoga-block-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強ヨガブロック2026：Gaiam Essentials 約1,200円〜"
+    description: |
+      Gaiam Essentials EVAフォームは約$8（約1,200円）——9×6×4インチ・3つの高さ方向対応・軽量。フォームはMandukaより柔らかいが、立位ポーズや軽いサポートには十分。必ず2個購入を：初心者はほぼ必ずペアが必要で、Gaiamのセット価格は魅力的。
+    link: "https://pickly.blog/ja/articles/best-yoga-block-2026/"
+    image_alt: "Gaiam Essentials ヨガブロック コスパ フォーム 2026"
+    hashtags: ["コスパ ヨガブロック", "Gaiamヨガ", "ヨガブロック", "ヨガギア", "ヨガ 入門"]
+
+  - pin_id: best-yoga-block-2026-ja-05
+    article_slug: best-yoga-block-2026
+    locale: ja
+    variant: avoid
+    title: "ヨガの練習を妨げるブロック選びの4つのミス"
+    description: |
+      1個だけ買う：多くのスタンディングフォワードフォールドとサポートバックベンドは2個必要。最小サイズを選ぶ：3インチブロックはタイトなハムストリングのポーズに届かない。丸エッジを選ぶ：バランスポーズでグラつく。ホットヨガにフォームを使う：コルクと違いフォームは汗を吸収する。
+    link: "https://pickly.blog/ja/articles/best-yoga-block-2026/"
+    image_alt: "ヨガブロック 失敗 選び方 注意点 練習"
+    hashtags: ["ヨガブロック 失敗", "ヨガ", "ヨガギア", "ヨガ 注意", "ヨガ小道具"]
+
+  - pin_id: best-yoga-block-2026-ja-06
+    article_slug: best-yoga-block-2026
+    locale: ja
+    variant: scene
+    title: "練習スタイル別：あなたに合うヨガブロックの選び方"
+    description: |
+      スタジオ品質のホームプラクティス → Manduka リサイクルフォーム（標準以上の密度）。天然素材希望 → Hugger Mugger コルク（非圧縮・エコ）。予算内で2個 → Gaiam Essentials（約$8・2個セット推奨）。環境重視 → JadeYoga フォーム（サステナブル素材）。アイアンガー/リストラティブ → ProSource 高密度フォーム。
+    link: "https://pickly.blog/ja/articles/best-yoga-block-2026/"
+    image_alt: "ヨガブロック スタイル別 選び方 ガイド 2026"
+    hashtags: ["ヨガブロック", "ヨガ", "ヨガギア", "ヨガ小道具", "ヨガガイド"]
