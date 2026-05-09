@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 68 articles x 6 variants x 2 locales (en, ja) = 824 pins (growing)
+# 69 articles x 6 variants x 2 locales (en, ja) = 836 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -9259,3 +9259,136 @@ pins:
     link: "https://pickly.blog/ja/articles/best-yoga-mat-2026/"
     image_alt: "自宅ヨガスタジオ マット ブロック 20000円以内"
     hashtags: ["自宅ヨガ", "ヨガマット", "Lululemon", "ヨガスタジオ", "ヨガグッズ"]
+
+  # ── #69 best-electric-kettle-2026 ───────────────────────────────────────────
+  - pin_id: best-electric-kettle-2026-en-01
+    article_slug: best-electric-kettle-2026
+    locale: en
+    variant: comparison
+    title: "Best Electric Kettles 2026: Top 5 Ranked"
+    description: |
+      We compared Breville BKE820XL, Fellow Stagg EKG, Cuisinart CPK-17, Hamilton Beach 40880, and Zojirushi CV-DCC40 on temperature accuracy, pour control, keep-warm performance, and 2-year durability. Fellow Stagg EKG wins for pour-over coffee — precision gooseneck and built-in brew stopwatch. Zojirushi wins for households that drink tea throughout the day. Hamilton Beach wins on pure value. Full comparison with temperature test data and boil times.
+    link: "https://pickly.blog/en/articles/best-electric-kettle-2026/"
+    image_alt: "Best electric kettles 2026 comparison"
+    hashtags: ["ElectricKettle", "PourOver", "CoffeGear", "TeaTime", "KitchenEssentials"]
+
+  - pin_id: best-electric-kettle-2026-en-02
+    article_slug: best-electric-kettle-2026
+    locale: en
+    variant: top1
+    title: "The Electric Kettle Serious Coffee Drinkers Actually Use"
+    description: |
+      Fellow Stagg EKG ($150–180) holds temperature within ±1°C for 60 minutes — not ±5°C like most kettles claim. The counterbalanced handle makes one-handed control at low pour rates possible without wrist strain. The built-in stopwatch matters for bloom timing in pour-over: no phone needed, no guessing. It's the rare piece of kitchen gear where the premium genuinely translates to better results in the cup rather than just better branding.
+    link: "https://pickly.blog/en/articles/best-electric-kettle-2026/"
+    image_alt: "Best electric kettle 2026 #1 Fellow Stagg EKG"
+    hashtags: ["ElectricKettle", "FellowStagg", "PourOver", "CoffeGear", "SpecialtyCoffee"]
+
+  - pin_id: best-electric-kettle-2026-en-03
+    article_slug: best-electric-kettle-2026
+    locale: en
+    variant: problem
+    title: "Why Your Tea and Pour-Over Coffee Taste Wrong (It's the Temperature)"
+    description: |
+      Boiling water (100°C) is wrong for most tea and coffee. Green tea needs 70–75°C — above 80°C the catechins release bitterness. Pour-over coffee extracts optimally at 92–96°C — at 100°C you over-extract the bitter compounds. Most basic kettles only boil. Variable temperature kettles let you dial in the exact temperature your specific brew needs. The difference in cup quality between 85°C and 96°C pour-over is immediate and obvious — not a subtle improvement.
+    link: "https://pickly.blog/en/articles/best-electric-kettle-2026/"
+    image_alt: "Tea coffee wrong temperature electric kettle fix"
+    hashtags: ["ElectricKettle", "TeaTips", "PourOver", "CoffeGear", "BrewingTips"]
+
+  - pin_id: best-electric-kettle-2026-en-04
+    article_slug: best-electric-kettle-2026
+    locale: en
+    variant: budget
+    title: "Best Electric Kettle Under $50 That Doesn't Feel Like a Compromise"
+    description: |
+      Hamilton Beach 40880 ($30–45) hits the basics right: 1.7L capacity, 6 temperature presets (160°F/175°F/185°F/190°F/200°F/212°F), 30-minute keep-warm, and a removable lime filter. The temperature accuracy is within ±3–4°C — not as tight as Breville or Fellow, but adequate for the difference between green tea and black tea. Cuisinart CPK-17 ($50–65) is the next step up: same presets but better build quality and more consistent heating. For most households, Hamilton Beach is where the value sweet spot is.
+    link: "https://pickly.blog/en/articles/best-electric-kettle-2026/"
+    image_alt: "Budget electric kettle under $50 Hamilton Beach"
+    hashtags: ["ElectricKettle", "BudgetKitchen", "TeaTime", "KitchenEssentials", "HomeKitchen"]
+
+  - pin_id: best-electric-kettle-2026-en-05
+    article_slug: best-electric-kettle-2026
+    locale: en
+    variant: avoid
+    title: "Electric Kettles That Aren't Worth the Premium"
+    description: |
+      Kettles marketed as "precision" but with ±8–10°C variance aren't precision — they're just expensive basic kettles. Smart/WiFi kettles add app complexity for a task (boiling water) that takes 3 minutes; Alexa voice control for your kettle saves approximately zero seconds compared to pressing a button. Very high-capacity kettles (2L+) are slower to boil, heavier when full, and most households rarely need more than 1.2L at once. Know which features you'll actually use before paying for them.
+    link: "https://pickly.blog/en/articles/best-electric-kettle-2026/"
+    image_alt: "Electric kettles not worth premium smart WiFi"
+    hashtags: ["ElectricKettle", "KitchenGear", "BuyingGuide", "TeaTime", "HomeKitchen"]
+
+  - pin_id: best-electric-kettle-2026-en-06
+    article_slug: best-electric-kettle-2026
+    locale: en
+    variant: scene
+    title: "Morning Coffee + Tea Setup: One Kettle for Both"
+    description: |
+      Breville BKE820XL ($100–130) handles both coffee and tea from one device: 200°F (93°C) pour-over preset, 175°F (80°C) for oolong, 160°F (71°C) for green tea. The gooseneck spout controls pour rate for coffee while the 1.5L capacity is enough for a full French press plus two mugs of tea without refilling. Keep-warm holds within 2°C for 20 minutes — enough to steep multiple rounds. For households that drink both coffee and tea daily, this is the one appliance that replaces multiple workarounds.
+    link: "https://pickly.blog/en/articles/best-electric-kettle-2026/"
+    image_alt: "Morning coffee tea setup one electric kettle Breville"
+    hashtags: ["ElectricKettle", "Breville", "MorningRoutine", "PourOver", "TeaTime"]
+
+  - pin_id: best-electric-kettle-2026-ja-01
+    article_slug: best-electric-kettle-2026
+    locale: ja
+    variant: comparison
+    title: "電気ケトル 2026年比較：上位5製品ランキング"
+    description: |
+      Breville BKE820XL、Fellow Stagg EKG、Cuisinart CPK-17、Hamilton Beach 40880、象印CV-DCC40を温度精度・注ぎやすさ・保温性能・2年耐久性で比較。ドリップコーヒーにはFellow Stagg EKGが最優秀 — 精密グースネックとビルトインタイマー。1日中お茶を飲む家庭には象印が圧倒的。コスパ重視ならHamilton Beach。温度測定データと沸騰時間付きの詳細比較。
+    link: "https://pickly.blog/ja/articles/best-electric-kettle-2026/"
+    image_alt: "電気ケトル 2026年比較ランキング"
+    hashtags: ["電気ケトル", "ドリップコーヒー", "お茶", "キッチン家電", "象印"]
+
+  - pin_id: best-electric-kettle-2026-ja-02
+    article_slug: best-electric-kettle-2026
+    locale: ja
+    variant: top1
+    title: "コーヒー本格派が実際に使う電気ケトル1位"
+    description: |
+      Fellow Stagg EKG（18,000〜22,000円）は60分間±1°C以内で温度を維持 — 多くのケトルが主張する±5°Cではなく本物の精度。カウンターバランスハンドルが片手での低流量注ぎを手首の負担なく可能にする。ビルトインストップウォッチでドリップのブルーム時間計測にスマホ不要。プレミアム価格がブランドだけでなくカップの中身の違いに本当に直結する稀なキッチン器具。
+    link: "https://pickly.blog/ja/articles/best-electric-kettle-2026/"
+    image_alt: "電気ケトル 2026年1位 Fellow Stagg EKG"
+    hashtags: ["電気ケトル", "Fellow Stagg", "ドリップコーヒー", "コーヒーギア", "スペシャルティコーヒー"]
+
+  - pin_id: best-electric-kettle-2026-ja-03
+    article_slug: best-electric-kettle-2026
+    locale: ja
+    variant: problem
+    title: "お茶とコーヒーがまずくなる本当の理由（温度の問題）"
+    description: |
+      沸騰した100°Cのお湯は多くのお茶とコーヒーに適していない。緑茶は70〜75°C必要 — 80°C以上ではカテキンが苦味を出す。煎茶は60〜70°C、玉露は50〜60°Cが最適。ドリップコーヒーは92〜96°Cで最適抽出 — 100°Cでは苦味成分を過抽出する。基本的なケトルは沸騰しかできない。温度調節ケトルで適温を設定するだけで同じ茶葉・豆でも風味が激変する。
+    link: "https://pickly.blog/ja/articles/best-electric-kettle-2026/"
+    image_alt: "お茶 コーヒー まずい 温度 電気ケトル 解決"
+    hashtags: ["電気ケトル", "緑茶 温度", "ドリップコーヒー", "お茶 入れ方", "キッチン"]
+
+  - pin_id: best-electric-kettle-2026-ja-04
+    article_slug: best-electric-kettle-2026
+    locale: ja
+    variant: budget
+    title: "妥協感のない5,000円以下の電気ケトル"
+    description: |
+      象印 CK-AX08（4,000〜5,500円）は1段階温度設定のシンプルモデルだが、保温性・注ぎやすさ・耐久性で国内基準に合わせた品質。タイガー PCM-A100（5,000〜6,000円）は蒸気レスで子育て家庭に安心。この価格帯でもカルキ飛ばし機能付きモデルがあり水道水でも美味しく飲める。本格温度調節が必要になるまでは象印・タイガーの国内メーカーがコスパ・安全性ともに最適解。
+    link: "https://pickly.blog/ja/articles/best-electric-kettle-2026/"
+    image_alt: "コスパ 電気ケトル 5000円以下 象印 タイガー"
+    hashtags: ["電気ケトル", "コスパ", "象印", "キッチン家電", "節約"]
+
+  - pin_id: best-electric-kettle-2026-ja-05
+    article_slug: best-electric-kettle-2026
+    locale: ja
+    variant: avoid
+    title: "プレミアム価格に見合わない電気ケトル"
+    description: |
+      「精密温度調節」と宣伝しながら実際の誤差が±8〜10°Cある製品は精密ではなく高価なただのケトル。スマートWiFiケトルはお湯を沸かすという3分の作業にアプリの複雑さを加えるだけ — ボタンを押すより速くもならない。超大容量（2L以上）ケトルは沸騰が遅く満水時に重く、ほとんどの家庭で一度に1.2L以上使うことはほとんどない。実際に使う機能だけにお金を払うことが最も賢い選択。
+    link: "https://pickly.blog/ja/articles/best-electric-kettle-2026/"
+    image_alt: "電気ケトル プレミアム価格 見合わない スマート"
+    hashtags: ["電気ケトル", "購入ガイド", "キッチン家電", "失敗しない", "コスパ"]
+
+  - pin_id: best-electric-kettle-2026-ja-06
+    article_slug: best-electric-kettle-2026
+    locale: ja
+    variant: scene
+    title: "コーヒー＋お茶の朝ルーティン：1台のケトルで両方完結"
+    description: |
+      象印 CV-DCC40（15,000〜18,000円）の真空断熱構造は沸かしたお湯を2〜3時間60°C以上で保温 — 朝1回沸かして煎茶・緑茶・コーヒーを適温で飲み続けられる。電気代は業界最低水準クラス（1ヶ月約200〜300円）。Breville BKE820XLはグースネック付きでドリップとお茶両対応の1台。毎朝コーヒーとお茶を両方飲む家庭にとって、温度調節ケトル1台が複数のワークアラウンドを不要にする。
+    link: "https://pickly.blog/ja/articles/best-electric-kettle-2026/"
+    image_alt: "朝ルーティン コーヒー お茶 電気ケトル 象印"
+    hashtags: ["電気ケトル", "象印", "朝ルーティン", "ドリップコーヒー", "お茶"]
