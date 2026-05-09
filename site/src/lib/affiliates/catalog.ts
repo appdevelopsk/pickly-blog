@@ -4503,6 +4503,71 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-lululemon-reversible-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLululemon+%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B7%E3%83%96%E3%83%AB+%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "breville-bke820xl-kettle",
+    category: "food",
+    badge: "🎯",
+    name: { en: "Breville BKE820XL Variable Temperature Kettle", ja: "Breville BKE820XL 温度可変ケトル" },
+    description: {
+      en: "1.8L stainless steel kettle with variable temperature control (60-100°C in 5°C increments), gooseneck spout for precision pour, and 20-minute keep-warm function. Dedicated buttons for green tea (75°C), white tea (80°C), oolong (85°C), coffee (90°C), and black tea/French press (100°C). Precise temperature holds within ±2°C. Heavier and larger than entry-level kettles; base unit requires counter space; some users report the gooseneck spout is slower for filling large French presses.",
+      ja: "1.8Lステンレス製ケトル。60〜100°Cを5°C刻みで設定可能な温度可変、精密注ぎ用グースネックスパウト、20分間保温機能付き。緑茶(75°C)・白茶(80°C)・ウーロン茶(85°C)・コーヒー(90°C)・紅茶/フレンチプレス(100°C)の専用ボタン搭載。温度精度±2°C以内。入門モデルより重く大きい；ベースユニットがカウンタースペース必要；グースネックは大型フレンチプレスへの注入がやや遅いという声あり。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-breville-bke820xl-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville+BKE820XL+%E3%82%B1%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fellow-stagg-ekg-kettle",
+    category: "food",
+    badge: "☕",
+    name: { en: "Fellow Stagg EKG Electric Pour-Over Kettle", ja: "Fellow Stagg EKG 電気ポアオーバーケトル" },
+    description: {
+      en: "0.9L precision pour-over kettle with counterbalanced handle for controlled pour, precision brew stopwatch on the LCD display, and variable temperature control (40-100°C). The counterbalanced handle design significantly reduces wrist fatigue during slow pour-over technique. 60-minute keep-warm function. Smaller capacity (0.9L) limits it to 1-2 cups per fill; premium price for a small kettle; the brew stopwatch requires some learning curve.",
+      ja: "0.9Lの精密ポアオーバーケトル。コントロールされた注ぎのためのカウンターバランスハンドル、LCDディスプレイのBrewストップウォッチ、40〜100°C温度可変制御搭載。カウンターバランスハンドルは低速注ぎ技術での手首疲労を大幅軽減。60分間保温機能。小容量(0.9L)で1〜2杯のみ；小型ケトルとしてプレミアム価格；Brewストップウォッチに慣れが必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-fellow-stagg-ekg-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFellow+Stagg+EKG+%E3%82%B1%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-cpk17-kettle",
+    category: "food",
+    badge: "⚙️",
+    name: { en: "Cuisinart CPK-17 PerfecTemp Cordless Kettle", ja: "Cuisinart CPK-17 PerfecTemp コードレスケトル" },
+    description: {
+      en: "1.7L cordless stainless steel kettle with 6 preset temperatures (160°F/71°C for delicate green tea through 212°F/100°C for boiling) and 30-minute keep-warm on each preset. Wide spout is better for filling pots quickly than pour-over precision. The 1.7L capacity handles up to 5 cups per fill, practical for multiple servings. Heater plate visible inside the base; some users report the 30-minute keep-warm times out unexpectedly.",
+      ja: "1.7Lコードレスステンレスケトル。6段階プリセット温度(デリケート緑茶向け71°C〜沸騰100°C)と各プリセットの30分間保温機能付き。ワイドスパウトはポアオーバー精度より素早い注ぎに向く。1.7Lで1回に最大5杯分、複数人向けに実用的。ベース内部のヒータープレートが見える；保温30分のタイムアウトが想定外という声あり。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cuisinart-cpk17-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart+CPK-17+PerfecTemp%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hamilton-beach-40880-kettle",
+    category: "food",
+    badge: "💰",
+    name: { en: "Hamilton Beach 40880 Programmable Kettle", ja: "Hamilton Beach 40880 プログラマブルケトル" },
+    description: {
+      en: "1.7L programmable electric kettle with 5 temperature presets (160°F/71°C, 175°F/79°C, 185°F/85°C, 190°F/88°C, 212°F/100°C) and 30-minute keep-warm. Budget-friendly entry point under $30. Plastic interior lid has a small aroma impact on first uses; standard wide spout, not gooseneck; keep-warm limited to 30 minutes; plastic cord base.",
+      ja: "1.7Lプログラマブル電気ケトル。5段階温度プリセット(71°C・79°C・85°C・88°C・100°C)と30分間保温機能付き。3,000円台のコスパ最強入門モデル。プラスチック内蓋が初回使用時に若干香りに影響；標準ワイドスパウト(グースネックなし)；保温30分間限定；プラスチックコードベース。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-hamilton-beach-40880-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton+Beach+40880+%E3%82%B1%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zojirushi-cv-dcc40-kettle",
+    category: "food",
+    badge: "🏆",
+    name: { en: "Zojirushi CV-DCC40 Micom Boiler and Warmer", ja: "象印 CV-DCC40 マイコン沸とうVE電気まほうびん" },
+    description: {
+      en: "4.0L vacuum-insulated electric thermos boiler with 3 keep-warm temperature settings (70°C, 80°C, 98°C), MICOM (microcomputer) control for precise temperature maintenance, and VE insulation that cuts electricity use by up to 84% versus conventional electric pots. Designed to sit on a counter permanently — boil once, dispense hot water on demand all day. Larger 4L capacity is intended for families or offices, not single-serve brewing; heavy at 3.3 kg empty; higher upfront cost; not a kettle in the traditional sense but a hot water dispenser.",
+      ja: "4.0L真空断熱VE電気まほうびん。3段階保温温度(70°C・80°C・98°C)、正確な温度管理のMICOM(マイコン)制御、従来型電気ポットより最大84%の省エネVE断熱機能付き。カウンターに常設して1日中お湯を出し続ける設計。4Lは家庭またはオフィス向け(一人用ブリューには過剰)；空でも3.3kgの重さ；初期費用高め；従来のケトルというより給湯器。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-zojirushi-cv-dcc40-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%B1%A1%E5%8D%B0+CV-DCC40%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
