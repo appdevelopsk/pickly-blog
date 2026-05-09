@@ -6343,6 +6343,143 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-yes4all-vinyl-kettlebell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All+%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Pull-Up Bars (best-pull-up-bar-2026) ─────────
+  {
+    id: "iron-gym-total-body-bar",
+    category: "fitness",
+    name: { en: "Iron Gym Total Upper Body Workout Bar", ja: "Iron Gym トータルアッパーボディワークアウトバー" },
+    description: {
+      en: "Best doorframe pull-up bar — no-tools over-the-door lever mount, multiple grip positions (wide overhand, neutral, close supinated), 136 kg static load rating; not designed for kipping or dynamic loading",
+      ja: "最良ドア枠懸垂バー — 工具不要オーバードアレバーマウント・複数グリップ位置（ワイドオーバーハンド・ニュートラル・クローズ回外）・136kg静荷重定格；キッピングや動的荷重向きでない",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-iron-gym-total-body-bar", rawUrl: "https://www.amazon.co.jp/s?k=Iron+Gym+Total+Upper+Body+Workout+Bar", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-iron-gym-total-body-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIron+Gym+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fitness-reality-810xlt",
+    category: "fitness",
+    name: { en: "Fitness Reality 810XLT Wall-Mounted Pull-Up Bar", ja: "Fitness Reality 810XLT 壁取付け懸垂バー" },
+    description: {
+      en: "Best wall-mounted pull-up bar — stud-anchored installation, wide/neutral/close grip positions in one station, 300 lb (136 kg) load rating; requires stud access and drilling",
+      ja: "最良壁取付け懸垂バー — スタッドアンカー設置・ワイド/ニュートラル/クローズグリップを1ステーションで・300ポンド（136kg）耐荷重；スタッドアクセスと穴あけが必要",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-fitness-reality-810xlt", rawUrl: "https://www.amazon.co.jp/s?k=Fitness+Reality+810XLT+Wall+Mount+Pull+Up+Bar", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fitness-reality-810xlt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitness+Reality+810XLT+%E5%A3%81%E5%8F%96%E4%BB%98%E3%81%91%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-matador-pull-up-bar",
+    category: "fitness",
+    name: { en: "ROGUE Matador Mounted Pull-Up Bar", ja: "ROGUE Matador 壁取付けプルアップバー" },
+    description: {
+      en: "Best heavy-duty wall mount pull-up bar — ROGUE 3-inch mounting system for power racks and wall rafters, rated for kipping pull-ups, weighted pull-ups, and muscle-up training; requires ROGUE mounting infrastructure",
+      ja: "最良本格壁取付けプルアップバー — パワーラックと壁垂木向けROGUE 3インチマウントシステム・キッピング懸垂・加重懸垂・マッスルアップトレーニング定格；ROGUEマウントインフラが必要",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-rogue-matador-pull-up-bar", rawUrl: "https://www.amazon.co.jp/s?k=ROGUE+Matador+Pull+Up+Bar", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-matador-pull-up-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FROGUE+Matador+%E3%83%97%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "prosourcefit-doorway-chinup",
+    category: "fitness",
+    name: { en: "ProsourceFit Multi-Use Doorway Chinup Bar", ja: "ProsourceFit マルチユース ドア枠チンアップバー" },
+    description: {
+      en: "Best budget doorframe pull-up bar — over-the-door mount, no drilling, 120 kg (265 lb) static load rating, suitable for strict bodyweight pull-ups under 100 kg",
+      ja: "最良低価格ドア枠懸垂バー — オーバードアマウント・穴あけ不要・120kg（265ポンド）静荷重定格・100kg未満の厳格な自重懸垂に適する",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-prosourcefit-doorway-chinup", rawUrl: "https://www.amazon.co.jp/s?k=ProsourceFit+Multi-Use+Doorway+Chinup+Bar", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-prosourcefit-doorway-chinup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FProsourceFit+%E3%83%89%E3%82%A2%E6%9E%A0%E3%83%81%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gorilla-bow-pull-up-station",
+    category: "fitness",
+    name: { en: "Gorilla Bow Portable Resistance Pull-Up Station", ja: "Gorilla Bow ポータブルレジスタンス プルアップステーション" },
+    description: {
+      en: "Best freestanding pull-up option — no wall or door anchoring required, resistance band integration, suitable for renters and frequent movers; lower stability than mounted bars, not designed for kipping",
+      ja: "最良自立式プルアップオプション — 壁やドアへのアンカー不要・レジスタンスバンド統合・賃貸居住者と頻繁な引越しに対応；取付けバーより安定性低下・キッピング向きでない",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-gorilla-bow-pull-up-station", rawUrl: "https://www.amazon.co.jp/s?k=Gorilla+Bow+Portable+Pull-Up+Station", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-gorilla-bow-pull-up-station", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGorilla+Bow+%E3%83%97%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Coffee Subscriptions (best-coffee-subscription-2026) ─────────
+  {
+    id: "trade-coffee-subscription",
+    category: "food",
+    badge: "☕",
+    name: { en: "Trade Coffee Subscription", ja: "Trade Coffee サブスクリプション" },
+    description: {
+      en: "Personalized whole-bean subscription matched from 60+ roasters. Ships within 1-3 days of roast. Preference quiz + ratings feedback loop refines matches over time. Best for curious drinkers who want variety without researching individual roasters.",
+      ja: "60以上のロースターからAIマッチングするホールビーンサブスク。焙煎後1〜3日以内に発送。好みクイズと評価フィードバックでマッチング精度が向上。個々のロースターを調べずに多様性を求める方に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-trade-coffee-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Trade+Coffee+Subscription", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-trade-coffee-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "atlas-coffee-club",
+    category: "food",
+    badge: "🌍",
+    name: { en: "Atlas Coffee Club", ja: "Atlas Coffee Club" },
+    description: {
+      en: "Single-origin world tour — new producing country every month, roast-date stamped bags, ~$14-19/12 oz including shipping. Educational postcards with origin context. Best for drinkers who approach coffee geographically.",
+      ja: "シングルオリジン世界一周——毎月異なる産地国、焙煎日スタンプ入り、送料込み約2,000〜2,600円/12オンス。産地情報ポストカード付き。産地からコーヒーを探求したい方に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-atlas-coffee-club", rawUrl: "https://www.amazon.co.jp/s?k=Atlas+Coffee+Club", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-atlas-coffee-club", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%88%E3%83%A9%E3%82%B9%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "onyx-coffee-lab-subscription",
+    category: "food",
+    badge: "🖤",
+    name: { en: "Onyx Coffee Lab Subscription", ja: "Onyx Coffee Lab サブスクリプション" },
+    description: {
+      en: "Roasts to order, ships within 24-48 hrs of roast. Lighter roasts, process-forward lots, consistently high cup quality. Best for buyers who already know they prefer light-roasted specialty coffee.",
+      ja: "受注焙煎・焙煎後24〜48時間以内発送。ライトロースト・製法重視・高品質ロット。自分がライトロースト系スペシャルティコーヒーが好きだとわかっている方に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-onyx-coffee-lab-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Onyx+Coffee+Lab+Subscription", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-onyx-coffee-lab-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%8B%E3%82%AD%E3%82%B9%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A9%E3%83%9C%20%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "angels-cup-subscription",
+    category: "food",
+    badge: "😇",
+    name: { en: "Angels' Cup Subscription", ja: "Angels' Cup サブスクリプション" },
+    description: {
+      en: "Blind tasting sample packs — ships within 1-5 days of roast. Forces palate development by tasting without origin bias. Best used alongside a regular bag subscription as a discovery and education tool.",
+      ja: "ブラインドテイスティングサンプルパック——焙煎後1〜5日以内発送。産地の先入観なしにテイスティングしてパレットを鍛える。通常のバッグサブスクと組み合わせて使う発見・教育ツールとして最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-angels-cup-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Angels+Cup+Subscription", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-angels-cup-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%BA%E3%82%AB%E3%83%83%E3%83%97%20%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "peets-coffee-subscription",
+    category: "food",
+    badge: "🫘",
+    name: { en: "Peet's Coffee Major Dickason's Blend Subscription", ja: "ピーツコーヒー メジャーディッカソンズブレンド サブスクリプション" },
+    description: {
+      en: "Reliable dark-roast subscription at ~$12-15/12 oz with free shipping. Consistent blend, no learning curve, available whole bean or pre-ground. Best for drinkers who want the same reliable cup every morning without variety.",
+      ja: "安定したダークローストサブスク。約1,600〜2,000円/12オンス、送料無料。一貫したブレンド、学習曲線なし、ホールビーンまたは挽き豆で選択可能。毎朝変化なく同じ安定したカップが欲しい方に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-peets-coffee-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Peets+Coffee+Major+Dickasons+Blend", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-peets-coffee-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%94%E3%83%BC%E3%83%84%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3%E3%82%BA%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
