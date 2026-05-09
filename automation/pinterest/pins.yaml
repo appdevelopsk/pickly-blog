@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 47 articles x 6 variants x 2 locales (en, ja) = 564 pins (growing)
+# 47 articles x 6 variants x 2 locales (en, ja) = 572 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -6182,3 +6182,271 @@ pins:
     link: "https://pickly.blog/ja/articles/best-smart-scale-2026/"
     image_alt: "Garmin Index S2 フィットネスエコシステム"
     hashtags: ["スマート体重計", "Garmin", "フィットネス", "健康管理", "ウェアラブル"]
+
+  # --- best-instant-camera-2026 ---
+
+  - pin_id: best-instant-camera-2026-en-01
+    article_slug: best-instant-camera-2026
+    locale: en
+    variant: comparison
+    title: "Instant camera 2026: Fujifilm Instax Mini 12 vs Polaroid Now+ vs Kodak Mini Shot 3"
+    description: |
+      Fujifilm Instax Mini 12 prints credit-card-sized photos in under 90 seconds. Polaroid Now+ offers app-controlled double exposure and light painting. Kodak Mini Shot 3 doubles as a Bluetooth printer for phone photos. We compare print quality, film cost, battery life, and the creative features that actually matter for each use case.
+    link: "https://pickly.blog/en/articles/best-instant-camera-2026/"
+    image_alt: "Instant camera 2026 comparison"
+    hashtags: ["instantcamera", "fujifilm", "polaroid", "film", "photography"]
+
+  - pin_id: best-instant-camera-2026-en-02
+    article_slug: best-instant-camera-2026
+    locale: en
+    variant: top1
+    title: "The instant camera most people should buy in 2026"
+    description: |
+      Fujifilm Instax Mini 12 wins for most buyers — automatic exposure adjustment, selfie mirror, and ~¥60/print film cost. It handles dim indoor parties, outdoor daylight, and awkward lighting without fiddling with settings. The camera does one thing well: you press the button, you get a print. No app required, no learning curve.
+    link: "https://pickly.blog/en/articles/best-instant-camera-2026/"
+    image_alt: "Fujifilm Instax Mini 12 best instant camera 2026"
+    hashtags: ["instantcamera", "fujifilm", "instax", "film", "photography"]
+
+  - pin_id: best-instant-camera-2026-en-03
+    article_slug: best-instant-camera-2026
+    locale: en
+    variant: problem
+    title: "Why instant camera prints come out too dark — and how to fix it"
+    description: |
+      Instax and Polaroid prints look washed out in direct sun or too dark indoors because the cameras use fixed exposure modes by default. We explain how to use brightness adjustment dials, when to force flash, and why shooting with light behind you (not behind your subject) fixes 80% of bad prints without any settings change.
+    link: "https://pickly.blog/en/articles/best-instant-camera-2026/"
+    image_alt: "Instant camera exposure fix guide"
+    hashtags: ["instantcamera", "instax", "photography", "tips", "film"]
+
+  - pin_id: best-instant-camera-2026-en-04
+    article_slug: best-instant-camera-2026
+    locale: en
+    variant: budget
+    title: "Getting started with instant photography for under ¥8,000"
+    description: |
+      Fujifilm Instax Mini 12 (~¥7,500) and a 10-pack of film (~¥900) gets you started for under ¥9,000 total. Compared to Polaroid Now+ at ~¥19,000 with more expensive film, the Instax ecosystem is significantly cheaper to run long-term. For someone who wants to try instant photography without committing to a hobby budget, this is the entry point.
+    link: "https://pickly.blog/en/articles/best-instant-camera-2026/"
+    image_alt: "Budget instant camera Fujifilm Instax Mini 12"
+    hashtags: ["instantcamera", "fujifilm", "instax", "budget", "photography"]
+
+  - pin_id: best-instant-camera-2026-en-05
+    article_slug: best-instant-camera-2026
+    locale: en
+    variant: avoid
+    title: "Instant cameras that look great on unboxing but disappoint in real use"
+    description: |
+      Some instant cameras market heavily on retro aesthetics but ship with fixed-focus lenses that blur anything closer than 1.2m — making them useless for the close portraits they're marketed for. We flag which cameras have minimum focus distance problems, which apps feel abandoned, and which film formats cost so much per print that you'll stop using the camera within a month.
+    link: "https://pickly.blog/en/articles/best-instant-camera-2026/"
+    image_alt: "Instant camera buying mistakes to avoid"
+    hashtags: ["instantcamera", "film", "photography", "buyingguide", "tips"]
+
+  - pin_id: best-instant-camera-2026-en-06
+    article_slug: best-instant-camera-2026
+    locale: en
+    variant: scene
+    title: "Best instant camera for travel: prints that survive luggage and humidity"
+    description: |
+      Traveling with an instant camera means your prints will get bent, wet, and exposed to heat. Fujifilm Instax film is more humidity-resistant than Polaroid I-Type in our tests. The Instax Mini 12's compact footprint fits in jacket pockets. Polaroid Now+'s larger format prints look better displayed but take more space and cost more per shot. We map which camera fits which travel style.
+    link: "https://pickly.blog/en/articles/best-instant-camera-2026/"
+    image_alt: "Best instant camera for travel 2026"
+    hashtags: ["instantcamera", "travel", "film", "photography", "fujifilm"]
+
+  - pin_id: best-instant-camera-2026-ja-01
+    article_slug: best-instant-camera-2026
+    locale: ja
+    variant: comparison
+    title: "チェキ2026：Instax Mini 12 vs Polaroid Now+ vs Kodak Mini Shot 3 徹底比較"
+    description: |
+      Fujifilm Instax Mini 12は90秒以内にクレジットカードサイズの写真をプリント。Polaroid Now+はアプリ制御の多重露光やライトペインティングが可能。Kodak Mini Shot 3はスマホ写真のBluetoothプリンターとしても機能。印刷品質・フィルムコスト・バッテリー寿命・クリエイティブ機能を比較。
+    link: "https://pickly.blog/ja/articles/best-instant-camera-2026/"
+    image_alt: "チェキ 2026年比較"
+    hashtags: ["チェキ", "インスタントカメラ", "フジフィルム", "ポラロイド", "フィルム写真"]
+
+  - pin_id: best-instant-camera-2026-ja-02
+    article_slug: best-instant-camera-2026
+    locale: ja
+    variant: top1
+    title: "2026年、多くの人に選ばれたインスタントカメラ"
+    description: |
+      Fujifilm Instax Mini 12が最多の選択 — 自動露出調整・自撮りミラー・1枚約60円のフィルムコスト。薄暗い室内パーティ、屋外の日差し、難しい照明でも設定不要で対応。カメラが1つのことを得意とする：ボタンを押すとプリントが出る。アプリ不要・学習コストゼロ。
+    link: "https://pickly.blog/ja/articles/best-instant-camera-2026/"
+    image_alt: "Fujifilm Instax Mini 12 2026年1位チェキ"
+    hashtags: ["チェキ", "インスタントカメラ", "フジフィルム", "フィルム写真", "instax"]
+
+  - pin_id: best-instant-camera-2026-ja-03
+    article_slug: best-instant-camera-2026
+    locale: ja
+    variant: problem
+    title: "チェキの写真が暗く出る原因と対策"
+    description: |
+      InstaxやPolaroidの写真は直射日光下では白飛び、室内では暗くなりがち。カメラはデフォルトで固定露出モードを使用するため。明るさ調整ダイヤルの使い方、フラッシュを強制する場面、「被写体の背後でなく光を背負う」だけで8割の失敗写真が改善できる理由を解説。
+    link: "https://pickly.blog/ja/articles/best-instant-camera-2026/"
+    image_alt: "チェキ 露出調整ガイド"
+    hashtags: ["チェキ", "インスタントカメラ", "フィルム写真", "撮影テクニック", "フジフィルム"]
+
+  - pin_id: best-instant-camera-2026-ja-04
+    article_slug: best-instant-camera-2026
+    locale: ja
+    variant: budget
+    title: "8,000円以下でチェキを始めるための選び方"
+    description: |
+      Fujifilm Instax Mini 12（約7,500円）と10枚入りフィルム（約900円）で合計9,000円以下からスタート可能。Polaroid Now+（約19,000円＋高価なフィルム）と比べ、長期運用コストが大幅に低い。趣味として本格投資する前にインスタント写真を試してみたい人向けのエントリーポイント。
+    link: "https://pickly.blog/ja/articles/best-instant-camera-2026/"
+    image_alt: "コスパチェキ Fujifilm Instax Mini 12"
+    hashtags: ["チェキ", "インスタントカメラ", "フジフィルム", "コスパ", "フィルム写真"]
+
+  - pin_id: best-instant-camera-2026-ja-05
+    article_slug: best-instant-camera-2026
+    locale: ja
+    variant: avoid
+    title: "開封時は映えるのに実用で失望するインスタントカメラ"
+    description: |
+      レトロなデザインを前面に出したインスタントカメラの中には、最短撮影距離が1.2m以上の固定焦点レンズを採用し、宣材のような近距離ポートレートが実は撮れないものがある。最短撮影距離の問題、放棄されたアプリ、1枚のコストが高すぎて1ヶ月で使わなくなるフィルム規格を持つモデルを明示。
+    link: "https://pickly.blog/ja/articles/best-instant-camera-2026/"
+    image_alt: "チェキ購入失敗を避けるガイド"
+    hashtags: ["チェキ", "インスタントカメラ", "フィルム写真", "購入ガイド", "比較"]
+
+  - pin_id: best-instant-camera-2026-ja-06
+    article_slug: best-instant-camera-2026
+    locale: ja
+    variant: scene
+    title: "旅行用インスタントカメラ：荷物の中でも湿気にも耐えるプリントを選ぶ"
+    description: |
+      旅行にインスタントカメラを持ち込むと、プリントは折れたり濡れたり熱にさらされたりする。テストではFujifilm InstaxフィルムがPolaroid I-Typeより耐湿性が高い。Instax Mini 12のコンパクトサイズはジャケットのポケットに収まる。Polaroid Now+は大きなフォーマットで見映えがいいが、スペースとコストがかかる。旅行スタイル別の選び方を解説。
+    link: "https://pickly.blog/ja/articles/best-instant-camera-2026/"
+    image_alt: "旅行用インスタントカメラ 2026年"
+    hashtags: ["チェキ", "インスタントカメラ", "旅行", "フィルム写真", "フジフィルム"]
+
+  # --- best-food-processor-2026 ---
+
+  - pin_id: best-food-processor-2026-en-01
+    article_slug: best-food-processor-2026
+    locale: en
+    variant: comparison
+    title: "Food processor 2026: Cuisinart DFP-14 vs Braun FP3020 vs Panasonic MK-K48P"
+    description: |
+      Cuisinart DFP-14 (14-cup) handles large batch cooking — doughs, slaws, and bulk chopping. Braun FP3020 offers more blade attachments for finer prep work. Panasonic MK-K48P is compact with strong Japanese market support and spare parts availability. We compare bowl capacity, motor wattage, noise levels, and which attachments are actually worth using.
+    link: "https://pickly.blog/en/articles/best-food-processor-2026/"
+    image_alt: "Food processor 2026 comparison"
+    hashtags: ["foodprocessor", "cuisinart", "braun", "cooking", "kitchen"]
+
+  - pin_id: best-food-processor-2026-en-02
+    article_slug: best-food-processor-2026
+    locale: en
+    variant: top1
+    title: "The food processor that handles every prep task without frustrating you"
+    description: |
+      Cuisinart DFP-14BCWB is the benchmark: large feed tube that fits whole vegetables, simple 3-button controls, and a 14-cup bowl that doesn't require multiple batches for family cooking. The blade locking mechanism is solid, cleanup is straightforward, and replacement parts have been available for decades. No smart features, no app — just reliable mechanical prep.
+    link: "https://pickly.blog/en/articles/best-food-processor-2026/"
+    image_alt: "Cuisinart DFP-14 best food processor 2026"
+    hashtags: ["foodprocessor", "cuisinart", "cooking", "kitchen", "mealprep"]
+
+  - pin_id: best-food-processor-2026-en-03
+    article_slug: best-food-processor-2026
+    locale: en
+    variant: problem
+    title: "Food processor leaks from the bottom — what's actually causing it"
+    description: |
+      Bottom leaks in food processors almost always trace to a worn spindle seal, an overfilled bowl, or processing liquids above the liquid-fill line. The spindle seal is a rubber O-ring that costs under ¥300 and takes 5 minutes to replace. We walk through the diagnosis steps and which food processors have a reputation for seal failure early (spoiler: it's mostly off-brand models).
+    link: "https://pickly.blog/en/articles/best-food-processor-2026/"
+    image_alt: "Food processor leak fix guide"
+    hashtags: ["foodprocessor", "cooking", "kitchen", "appliance", "repair"]
+
+  - pin_id: best-food-processor-2026-en-04
+    article_slug: best-food-processor-2026
+    locale: en
+    variant: budget
+    title: "The food processor that does 80% of prep tasks for under ¥8,000"
+    description: |
+      KitchenAid KFP0718 (7-cup, ~¥7,500) handles chopping, slicing, shredding, and basic dough for a 1-2 person household without taking up full counter space. Motor is underpowered for stiff bread doughs compared to larger Cuisinart models, but for vegetables, cheese, nuts, and herbs it's capable. The dice kit attachment is the standout feature at this price.
+    link: "https://pickly.blog/en/articles/best-food-processor-2026/"
+    image_alt: "Budget food processor KitchenAid 7-cup"
+    hashtags: ["foodprocessor", "kitchenaid", "budget", "cooking", "mealprep"]
+
+  - pin_id: best-food-processor-2026-en-05
+    article_slug: best-food-processor-2026
+    locale: en
+    variant: avoid
+    title: "Food processor features that sound useful but aren't worth paying for"
+    description: |
+      Built-in scales add cost and failure points — most serious cooks use a separate scale anyway. Touchscreen controls look modern but are harder to clean than physical buttons and don't improve food. Extra blade sets that ship as accessories often fit poorly and create leak risk. We list which premium features add real value versus marketing differentiation you'll ignore after week two.
+    link: "https://pickly.blog/en/articles/best-food-processor-2026/"
+    image_alt: "Food processor features to avoid"
+    hashtags: ["foodprocessor", "cooking", "kitchen", "buyingguide", "mealprep"]
+
+  - pin_id: best-food-processor-2026-en-06
+    article_slug: best-food-processor-2026
+    locale: en
+    variant: scene
+    title: "Food processor for Japanese home cooking: katsuobushi, gyoza filling, and miso"
+    description: |
+      Panasonic MK-K48P is designed for Japanese prep: fine mince for gyoza filling without over-processing the pork, grating daikon without bruising the cells, and grinding sesame. Spare parts are available at Yodobashi. Cuisinart handles the same tasks but the Panasonic's Japanese-spec blade geometry produces better texture in traditional dishes where the cut matters to the final dish.
+    link: "https://pickly.blog/en/articles/best-food-processor-2026/"
+    image_alt: "Food processor Japanese home cooking"
+    hashtags: ["foodprocessor", "panasonic", "japanesecooking", "kitchen", "mealprep"]
+
+  - pin_id: best-food-processor-2026-ja-01
+    article_slug: best-food-processor-2026
+    locale: ja
+    variant: comparison
+    title: "フードプロセッサー2026：Cuisinart DFP-14 vs Braun FP3020 vs パナソニック MK-K48P"
+    description: |
+      Cuisinart DFP-14（14カップ）は大量調理向き — パン生地・キャベツ千切り・まとめ切り。Braun FP3020はよりきめ細かい仕込みのためのアタッチメントが充実。パナソニック MK-K48Pはコンパクトで日本市場サポートと補修部品供給が強み。ボウル容量・モーターワット数・騒音レベル・実際に使えるアタッチメントを比較。
+    link: "https://pickly.blog/ja/articles/best-food-processor-2026/"
+    image_alt: "フードプロセッサー 2026年比較"
+    hashtags: ["フードプロセッサー", "クイジナート", "パナソニック", "料理", "キッチン家電"]
+
+  - pin_id: best-food-processor-2026-ja-02
+    article_slug: best-food-processor-2026
+    locale: ja
+    variant: top1
+    title: "2026年、下準備のあらゆる作業に対応できるフードプロセッサー"
+    description: |
+      Cuisinart DFP-14BCWBがスタンダード：丸ごと野菜が入る大きな投入口、シンプルな3ボタン操作、家族分の料理を1回で仕込める14カップボウル。ブレードロック機構が確実で後片付けが楽、補修部品は何十年も入手可能。スマート機能もアプリも不要 — ただ確実に機械的な仕込みをこなす。
+    link: "https://pickly.blog/ja/articles/best-food-processor-2026/"
+    image_alt: "Cuisinart DFP-14 2026年1位フードプロセッサー"
+    hashtags: ["フードプロセッサー", "クイジナート", "料理", "キッチン家電", "時短調理"]
+
+  - pin_id: best-food-processor-2026-ja-03
+    article_slug: best-food-processor-2026
+    locale: ja
+    variant: problem
+    title: "フードプロセッサーの底から液体が漏れる原因と対処法"
+    description: |
+      底部の液漏れはほぼ必ず「スピンドルシールの劣化」「ボウルへの入れすぎ」「液体充填ライン超過」のどれかが原因。スピンドルシールは300円以下のゴムOリングで5分で交換可能。診断手順と、シール早期故障の評判があるモデル（ほぼノーブランド品）を解説。
+    link: "https://pickly.blog/ja/articles/best-food-processor-2026/"
+    image_alt: "フードプロセッサー 液漏れ修理ガイド"
+    hashtags: ["フードプロセッサー", "料理", "キッチン家電", "修理", "メンテナンス"]
+
+  - pin_id: best-food-processor-2026-ja-04
+    article_slug: best-food-processor-2026
+    locale: ja
+    variant: budget
+    title: "8,000円以下で仕込み作業の8割をこなせるフードプロセッサー"
+    description: |
+      KitchenAid KFP0718（7カップ・約7,500円）は1〜2人世帯向けに刻み・スライス・シュレッド・基本的なパン生地を省スペースでこなす。固いパン生地では大型Cuisinartより非力だが、野菜・チーズ・ナッツ・ハーブには十分。このプライスレンジで突出しているのはダイスキットアタッチメント。
+    link: "https://pickly.blog/ja/articles/best-food-processor-2026/"
+    image_alt: "コスパフードプロセッサー KitchenAid 7カップ"
+    hashtags: ["フードプロセッサー", "KitchenAid", "コスパ", "料理", "時短調理"]
+
+  - pin_id: best-food-processor-2026-ja-05
+    article_slug: best-food-processor-2026
+    locale: ja
+    variant: avoid
+    title: "便利そうに見えてお金を払う価値がないフードプロセッサー機能"
+    description: |
+      内蔵スケールはコストと故障リスクが増えるだけ — 本格的に料理する人は別のスケールを使う。タッチスクリーン操作は見た目はモダンだが物理ボタンより洗いにくく、料理の質も上がらない。付属品として付いてくる追加ブレードセットは精度が低く液漏れリスクも。本当に価値のあるプレミアム機能と2週間後には使わないマーケティング差別化を整理。
+    link: "https://pickly.blog/ja/articles/best-food-processor-2026/"
+    image_alt: "フードプロセッサー 不要機能ガイド"
+    hashtags: ["フードプロセッサー", "料理", "キッチン家電", "購入ガイド", "比較"]
+
+  - pin_id: best-food-processor-2026-ja-06
+    article_slug: best-food-processor-2026
+    locale: ja
+    variant: scene
+    title: "和食の下ごしらえに特化したフードプロセッサー：餃子・大根おろし・ごまずり"
+    description: |
+      パナソニック MK-K48Pは和食仕込み向けの設計：豚肉を過剰処理せず餃子あんに仕上げるミンチ、細胞を潰さない大根おろし、ごまずり。補修部品はヨドバシで入手可能。同じ作業はCuisinartでも可能だが、パナソニックの国産ブレードジオメトリは仕上がりの食感が重要な和食で差が出る。
+    link: "https://pickly.blog/ja/articles/best-food-processor-2026/"
+    image_alt: "フードプロセッサー 和食下ごしらえ"
+    hashtags: ["フードプロセッサー", "パナソニック", "和食", "キッチン家電", "時短調理"]
