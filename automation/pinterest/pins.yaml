@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 63 articles x 6 variants x 2 locales (en, ja) = 764 pins (growing)
+# 65 articles x 6 variants x 2 locales (en, ja) = 788 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -8594,3 +8594,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-desk-organizer-2026/"
     image_alt: "MagSafe充電 デスクセットアップ Belkin 3-in-1"
     hashtags: ["デスク整理", "Belkin", "MagSafe", "ワークスペース", "Apple"]
+
+  # ── #64 best-indoor-plant-2026 ──────────────────────────────────────────────
+  - pin_id: best-indoor-plant-2026-en-01
+    article_slug: best-indoor-plant-2026
+    locale: en
+    variant: comparison
+    title: "Best Indoor Plants 2026: Top 5 Ranked"
+    description: |
+      We ranked the Pothos, Peace Lily, Snake Plant, ZZ Plant, and Chinese Evergreen on ease of care, air purification, and value. Pothos wins for beginners — it tolerates low light, inconsistent watering, and still trails beautifully from a shelf. Peace Lily is the only one that flowers indoors without grow lights. Snake Plant and ZZ Plant are the indestructible picks for frequent travelers. Full comparison with care requirements and light needs.
+    link: "https://pickly.blog/en/articles/best-indoor-plant-2026/"
+    image_alt: "Best indoor plants 2026 comparison"
+    hashtags: ["IndoorPlants", "HousePlants", "PlantCare", "GreenHome", "PlantDecor"]
+
+  - pin_id: best-indoor-plant-2026-en-02
+    article_slug: best-indoor-plant-2026
+    locale: en
+    variant: top1
+    title: "The One Indoor Plant That Survives Everything"
+    description: |
+      Pothos (Epipremnum aureum) is the most forgiving houseplant you can own. It grows in low light, tolerates drought, and bounces back from neglect that would kill other plants. Trailing vines can reach 3 meters indoors with zero pruning pressure. Propagation is dead simple — snip a node, drop it in water, and you have a new plant in 2 weeks. Under $10 at any garden center, and it'll outlive most other things in your home.
+    link: "https://pickly.blog/en/articles/best-indoor-plant-2026/"
+    image_alt: "Best indoor plant 2026 #1 Pothos"
+    hashtags: ["Pothos", "IndoorPlants", "HousePlants", "EasyPlants", "PlantParent"]
+
+  - pin_id: best-indoor-plant-2026-en-03
+    article_slug: best-indoor-plant-2026
+    locale: en
+    variant: problem
+    title: "Why Your Indoor Plants Keep Dying (It's Not Underwatering)"
+    description: |
+      Overwatering kills more houseplants than neglect — roots rot when soil stays wet between waterings. The fix: wait until the top 2cm of soil is dry before watering again, and use pots with drainage holes (no exceptions). Second biggest killer: wrong light placement. A snake plant in a north-facing corner will survive but a peace lily 2 meters from a window will yellow and drop. Map your light before choosing your plant, not after.
+    link: "https://pickly.blog/en/articles/best-indoor-plant-2026/"
+    image_alt: "Why indoor plants die overwatering common mistake"
+    hashtags: ["IndoorPlants", "PlantCare", "HousePlantTips", "PlantParent", "GreenThumb"]
+
+  - pin_id: best-indoor-plant-2026-en-04
+    article_slug: best-indoor-plant-2026
+    locale: en
+    variant: budget
+    title: "5 Indoor Plants Under $15 That Actually Look Good"
+    description: |
+      You don't need rare aroids to have a beautiful home. Pothos ($5–8), Chinese Evergreen ($8–12), Snake Plant cutting ($6–10), ZZ Plant small ($10–15), and Heartleaf Philodendron ($6–9) cover every light condition from near-dark to bright indirect. All five propagate freely so one purchase multiplies. Seasonal sales at big-box stores often drop these below $5. Start with two, propagate, and fill a room for under $30 total.
+    link: "https://pickly.blog/en/articles/best-indoor-plant-2026/"
+    image_alt: "Budget indoor plants under $15 best picks"
+    hashtags: ["IndoorPlants", "BudgetGarden", "HousePlants", "PlantDecor", "AffordablePlants"]
+
+  - pin_id: best-indoor-plant-2026-en-05
+    article_slug: best-indoor-plant-2026
+    locale: en
+    variant: avoid
+    title: "Indoor Plants That Are Harder Than They Look"
+    description: |
+      Fiddle-leaf figs are popular on Pinterest but notoriously fussy — they drop leaves when moved, hate dry air, and demand bright indirect light with no cold drafts. Orchids look elegant but most people can't replicate the humidity cycles they need to rebloom. Maidenhair ferns need near-constant moisture and wilt visibly within hours of neglect. For most homes and schedules, these plants require more commitment than they deliver. Better alternatives for each style are in the full guide.
+    link: "https://pickly.blog/en/articles/best-indoor-plant-2026/"
+    image_alt: "Indoor plants to avoid difficult high maintenance"
+    hashtags: ["IndoorPlants", "PlantCare", "HousePlants", "PlantTips", "FiddleLeafFig"]
+
+  - pin_id: best-indoor-plant-2026-en-06
+    article_slug: best-indoor-plant-2026
+    locale: en
+    variant: scene
+    title: "Bedroom Plant Setup: Clean Air + Zero Maintenance"
+    description: |
+      Snake Plants (Sansevieria) are the ideal bedroom plant — they convert CO2 to oxygen at night (unlike most plants), tolerate low light, and go 2–3 weeks without water. A 60cm plant in a white ceramic pot in the corner costs under $25 total. Peace Lily adds humidity and a flowering statement for bright bedrooms. Both are pet-safe alternatives to consider if you have cats or dogs. The bedroom air quality difference is real and measurable within a week.
+    link: "https://pickly.blog/en/articles/best-indoor-plant-2026/"
+    image_alt: "Bedroom indoor plant setup snake plant clean air"
+    hashtags: ["BedroomPlants", "SnakePlant", "IndoorPlants", "CleanAir", "BedroomDecor"]
+
+  - pin_id: best-indoor-plant-2026-ja-01
+    article_slug: best-indoor-plant-2026
+    locale: ja
+    variant: comparison
+    title: "観葉植物 2026年比較：上位5種を徹底ランキング"
+    description: |
+      ポトス、スパティフィラム、サンスベリア、ZZプランツ、アグラオネマを育てやすさ・空気清浄効果・コスパで比較。初心者にはポトスが圧倒的1位 — 低光量・水やり不規則でも枯れずに棚から美しく垂れる。スパティフィラムは日光なしで室内開花する唯一の選択肢。サンスベリアとZZはよく旅行する人向けの最強コンビ。光量別の育て方ガイド付き。
+    link: "https://pickly.blog/ja/articles/best-indoor-plant-2026/"
+    image_alt: "観葉植物 2026年比較ランキング"
+    hashtags: ["観葉植物", "インドアグリーン", "植物育て方", "グリーンインテリア", "室内植物"]
+
+  - pin_id: best-indoor-plant-2026-ja-02
+    article_slug: best-indoor-plant-2026
+    locale: ja
+    variant: top1
+    title: "どんな環境でも生き残る観葉植物1位"
+    description: |
+      ポトス（エピプレムナム・アウレウム）は最も手のかからない観葉植物。低光量・乾燥・放置に耐えて他の植物なら枯れる環境でも回復する。剪定不要で室内3mまで伸びるツル性。挿し木は超簡単 — 節を切って水に入れるだけで2週間で発根。園芸店で500〜1,000円以下で入手でき、家の中で最も長生きするものの一つになる。
+    link: "https://pickly.blog/ja/articles/best-indoor-plant-2026/"
+    image_alt: "観葉植物 2026年1位 ポトス"
+    hashtags: ["ポトス", "観葉植物", "室内植物", "初心者向け", "プランツライフ"]
+
+  - pin_id: best-indoor-plant-2026-ja-03
+    article_slug: best-indoor-plant-2026
+    locale: ja
+    variant: problem
+    title: "観葉植物が枯れる本当の原因（水不足ではない）"
+    description: |
+      観葉植物の死因1位は水のやりすぎ — 水はけの悪い土が常に湿っていると根腐れが起きる。対策：土の表面2cmが乾いてから水やり、必ず排水穴のある鉢を使う（例外なし）。死因2位：置き場所の光量ミス。サンスベリアは暗い北向きコーナーでも生きるが、スパティフィラムを窓から2m離した場所に置くと葉が黄変して落ちる。植物を選ぶ前に自宅の光量マップを作ることが最初のステップ。
+    link: "https://pickly.blog/ja/articles/best-indoor-plant-2026/"
+    image_alt: "観葉植物 枯れる原因 水のやりすぎ"
+    hashtags: ["観葉植物", "植物育て方", "観葉植物 枯れる", "プランツケア", "ガーデニング"]
+
+  - pin_id: best-indoor-plant-2026-ja-04
+    article_slug: best-indoor-plant-2026
+    locale: ja
+    variant: budget
+    title: "1,500円以下で本当におしゃれな観葉植物5選"
+    description: |
+      高価な希少植物がなくても部屋を緑にできる。ポトス（500〜800円）、アグラオネマ（800〜1,200円）、サンスベリア挿し木（600〜1,000円）、ZZプランツ小株（1,000〜1,500円）、ハートフィロデンドロン（600〜900円）で全光量条件をカバー。全て挿し木で増やせるので1鉢買えば部屋中に広がる。ホームセンターのシーズンセールで300円以下になることも。2鉢買って挿し木すれば3,000円以下で部屋が緑化できる。
+    link: "https://pickly.blog/ja/articles/best-indoor-plant-2026/"
+    image_alt: "コスパ 観葉植物 1500円以下おすすめ"
+    hashtags: ["観葉植物", "コスパ", "室内植物", "グリーンインテリア", "安い植物"]
+
+  - pin_id: best-indoor-plant-2026-ja-05
+    article_slug: best-indoor-plant-2026
+    locale: ja
+    variant: avoid
+    title: "見た目より難しい観葉植物：失敗しやすい種類"
+    description: |
+      フィカス・リラータ（ウンベラータ）はPinterestで人気だが実は気難しい — 移動させると葉を落とし、乾燥した空気を嫌い、冷気のない明るい間接光が必須。胡蝶蘭は優雅に見えるが再開花に必要な湿度サイクルを再現できる家は少ない。マイデンヘアファーンは数時間水切れしただけで萎れる。多くの家・生活スタイルには、これらは見た目の良さに対してコストが高すぎる。各スタイル別のより良い代替植物をガイドで紹介。
+    link: "https://pickly.blog/ja/articles/best-indoor-plant-2026/"
+    image_alt: "観葉植物 難しい 初心者 避けるべき種類"
+    hashtags: ["観葉植物", "フィカス", "植物育て方", "初心者向け", "失敗しない"]
+
+  - pin_id: best-indoor-plant-2026-ja-06
+    article_slug: best-indoor-plant-2026
+    locale: ja
+    variant: scene
+    title: "寝室グリーン：空気清浄 + ほぼノーメンテ"
+    description: |
+      サンスベリアは寝室に最適な植物 — 夜間に二酸化炭素を酸素に変え（多くの植物と逆）、低光量に耐え、2〜3週間水やり不要。高さ60cmの株を白い陶器鉢に入れて角に置いても2,000円以下。明るい寝室にはスパティフィラムが加湿効果と開花を提供。ペットがいる家では毒性確認が必要（両種とも猫・犬に注意が必要な面あり）。1週間で実感できる空気質の違いを解説。
+    link: "https://pickly.blog/ja/articles/best-indoor-plant-2026/"
+    image_alt: "寝室 観葉植物 サンスベリア 空気清浄"
+    hashtags: ["寝室 観葉植物", "サンスベリア", "インドアグリーン", "空気清浄", "寝室インテリア"]
+
+  # ── #65 best-bath-towel-2026 ─────────────────────────────────────────────────
+  - pin_id: best-bath-towel-2026-en-01
+    article_slug: best-bath-towel-2026
+    locale: en
+    variant: comparison
+    title: "Best Bath Towels 2026: Top 5 Compared"
+    description: |
+      We compared Brooklinen Classic, Parachute Ribbed, IKEA FLODALEN, Moku Personal, and Amazon Basics on absorbency, dry time, softness retention after 30 washes, and value. IKEA FLODALEN wins for most households — it out-absorbs towels twice its price, improves with washing, and the 700gsm weight feels luxurious without the slow dry time. Moku wins for travel and gym. Full comparison with GSM, material, and wash-performance data.
+    link: "https://pickly.blog/en/articles/best-bath-towel-2026/"
+    image_alt: "Best bath towels 2026 comparison"
+    hashtags: ["BathTowels", "HomeTextiles", "BathroomDecor", "TowelReview", "HomeEssentials"]
+
+  - pin_id: best-bath-towel-2026-en-02
+    article_slug: best-bath-towel-2026
+    locale: en
+    variant: top1
+    title: "The Bath Towel That Works for Most People"
+    description: |
+      IKEA FLODALEN (700gsm, 100% cotton) is the best towel at its price point — roughly $10–15 for a bath towel that absorbs faster than most $40 alternatives and gets softer with each wash instead of rougher. The loop structure traps more water per square inch than standard terry. It dries in about 3 hours on a heated rail. Available in 10+ colors, machine washable without special care. This is the rare case where the budget option genuinely outperforms premium brands.
+    link: "https://pickly.blog/en/articles/best-bath-towel-2026/"
+    image_alt: "Best bath towel 2026 #1 IKEA FLODALEN"
+    hashtags: ["BathTowels", "IKEA", "HomeEssentials", "BathroomDecor", "BudgetHome"]
+
+  - pin_id: best-bath-towel-2026-en-03
+    article_slug: best-bath-towel-2026
+    locale: en
+    variant: problem
+    title: "Why Bath Towels Go Rough and Smell After a Few Months"
+    description: |
+      Towels go rough from detergent buildup — most people use 3–4x more detergent than needed, and the excess coats fibers. Fix: cut detergent to half the recommended amount and run a monthly hot wash with white vinegar instead of fabric softener. Fabric softener itself is a culprit — it coats cotton fibers and reduces absorbency over time. Musty smell means towels aren't drying fast enough between uses; a ventilated hook or spread-open drying rail solves it without buying new towels.
+    link: "https://pickly.blog/en/articles/best-bath-towel-2026/"
+    image_alt: "Bath towels going rough scratchy common fix"
+    hashtags: ["BathTowels", "TowelCare", "HomeHacks", "LaundryTips", "HomeEssentials"]
+
+  - pin_id: best-bath-towel-2026-en-04
+    article_slug: best-bath-towel-2026
+    locale: en
+    variant: budget
+    title: "Bath Towels Under $15 That Don't Feel Cheap"
+    description: |
+      IKEA FLODALEN ($10–15), Amazon Basics 6-piece set ($25–30 for the set, ~$8–12 per bath towel), and Walmart Better Homes & Gardens Hygro ($10–13) all punch above their price in absorbency. The key metric: GSM (grams per square meter) — anything 600–700gsm at under $15 is exceptional value. Avoid anything labeled "quick dry" at this price point; the fiber shortcuts that enable quick drying also reduce softness and lifespan. Full breakdown of what to look for on the tag.
+    link: "https://pickly.blog/en/articles/best-bath-towel-2026/"
+    image_alt: "Budget bath towels under $15 best picks"
+    hashtags: ["BathTowels", "BudgetHome", "HomeEssentials", "AffordableHome", "BathroomDecor"]
+
+  - pin_id: best-bath-towel-2026-en-05
+    article_slug: best-bath-towel-2026
+    locale: en
+    variant: avoid
+    title: "Bath Towels That Look Luxurious But Underperform"
+    description: |
+      Egyptian cotton labeling is largely unregulated — towels sold as "100% Egyptian cotton" often contain significant blended fiber ratios that reduce softness over time. Very high GSM (900+) towels feel impressive in the store but take 6–8 hours to dry on a rail, and in humid bathrooms they stay damp long enough to develop mildew smell. Waffle-weave towels dry fast but sacrifice the absorbency that makes a towel actually useful after a shower. Context matters — best for gym bags, not home bathrooms.
+    link: "https://pickly.blog/en/articles/best-bath-towel-2026/"
+    image_alt: "Bath towels that underperform Egyptian cotton waffle"
+    hashtags: ["BathTowels", "HomeEssentials", "TowelGuide", "BuyingGuide", "BathroomDecor"]
+
+  - pin_id: best-bath-towel-2026-en-06
+    article_slug: best-bath-towel-2026
+    locale: en
+    variant: scene
+    title: "Gym Bag Towel Setup: Fast-Dry, Compact, Actually Absorbent"
+    description: |
+      Moku Personal Towel (35×100cm, 45g) is a linen-cotton blend that absorbs 3x its weight in water, wrings out to nearly dry, and fits in a side pocket. After 6 months of daily gym use it has zero smell retention compared to microfiber alternatives that hold odors after wash cycle 20. For travel: the large Moku (55×110cm) replaces a standard bath towel in half the bag space. At ~$25–30 it's not cheap but it pays back in checked-bag fees and gym bag smell within one trip.
+    link: "https://pickly.blog/en/articles/best-bath-towel-2026/"
+    image_alt: "Gym bath towel fast dry compact Moku"
+    hashtags: ["GymTowel", "TravelTowel", "BathTowels", "GymBag", "FitnessTips"]
+
+  - pin_id: best-bath-towel-2026-ja-01
+    article_slug: best-bath-towel-2026
+    locale: ja
+    variant: comparison
+    title: "バスタオル 2026年比較：上位5製品を徹底比較"
+    description: |
+      Brooklinen Classic、Parachute Ribbed、IKEA FLODALEN、今治タオル、無印良品を吸水性・乾燥速度・30回洗い後の柔らかさ・コスパで比較。大多数の家庭にはIKEA FLODALENが最高 — 2倍の価格帯のタオルより吸水性が高く、洗うほど柔らかくなり、700gsmの重厚感がありながら速乾性も確保。旅行・ジム用では今治薄手が優勝。GSM・素材・洗濯後のパフォーマンスデータ付き比較表。
+    link: "https://pickly.blog/ja/articles/best-bath-towel-2026/"
+    image_alt: "バスタオル 2026年比較ランキング"
+    hashtags: ["バスタオル", "タオル比較", "バスルーム", "今治タオル", "IKEA"]
+
+  - pin_id: best-bath-towel-2026-ja-02
+    article_slug: best-bath-towel-2026
+    locale: ja
+    variant: top1
+    title: "ほとんどの家庭に機能するバスタオル1位"
+    description: |
+      IKEA FLODALEN（700gsm、綿100%）はこの価格帯で最良のタオル — 1,500〜2,000円で40ドル超のタオルより速く吸水し、洗うほどゴワゴワではなく柔らかくなる。ループ構造が標準テリーより単位面積あたりの水分をより多く捕捉。ヒートレールで約3時間で乾燥。10色以上のカラー展開・特別なケア不要で洗濯機対応。コスト重視の選択肢がプレミアムブランドを本当に超える稀なケース。
+    link: "https://pickly.blog/ja/articles/best-bath-towel-2026/"
+    image_alt: "バスタオル 2026年1位 IKEA FLODALEN"
+    hashtags: ["バスタオル", "IKEA", "バスルーム", "コスパ", "インテリア"]
+
+  - pin_id: best-bath-towel-2026-ja-03
+    article_slug: best-bath-towel-2026
+    locale: ja
+    variant: problem
+    title: "バスタオルが数ヶ月でゴワゴワ・臭くなる本当の原因"
+    description: |
+      タオルがゴワゴワになるのは洗剤の蓄積が原因 — ほとんどの人は必要量の3〜4倍の洗剤を使っており、余剰分が繊維をコーティングする。対策：洗剤を推奨量の半分に減らし、月1回白酢でホット洗濯する（柔軟剤の代わりに）。柔軟剤自体も犯人 — 綿繊維をコーティングして時間経過とともに吸水性を低下させる。生乾き臭は使用後の乾燥が不十分なサイン。通気性のあるフックか広げて干すラックで解決できる。
+    link: "https://pickly.blog/ja/articles/best-bath-towel-2026/"
+    image_alt: "バスタオル ゴワゴワ 臭い 原因と対策"
+    hashtags: ["バスタオル", "タオルケア", "洗濯 コツ", "バスルーム", "家事"]
+
+  - pin_id: best-bath-towel-2026-ja-04
+    article_slug: best-bath-towel-2026
+    locale: ja
+    variant: budget
+    title: "1,500円以下でもチープに見えないバスタオル"
+    description: |
+      IKEA FLODALEN（1,500〜2,000円）、無印良品パイル織りバスタオル（1,290円）、ニトリ高密度バスタオル（999〜1,299円）はいずれも価格帯を超えた吸水性を持つ。重要指標はGSM（グラム/平方メートル）— 1,500円以下で600〜700gsmなら破格の性能比。この価格帯での「速乾」表示は要注意。速乾を実現する繊維処理が柔らかさと耐久性を犠牲にしていることが多い。タグで何を確認すべきかを解説。
+    link: "https://pickly.blog/ja/articles/best-bath-towel-2026/"
+    image_alt: "コスパ バスタオル 1500円以下 おすすめ"
+    hashtags: ["バスタオル", "コスパ", "IKEA", "無印良品", "バスルーム"]
+
+  - pin_id: best-bath-towel-2026-ja-05
+    article_slug: best-bath-towel-2026
+    locale: ja
+    variant: avoid
+    title: "高級に見えるが期待外れのバスタオル"
+    description: |
+      エジプト綿の表示は規制がゆるく、「エジプト綿100%」と書かれていても実際は混紡比率が高く時間経過で柔らかさが低下するものが多い。超高GSM（900gsm以上）タオルは店頭では印象的だが乾燥に6〜8時間かかり、湿度の高いバスルームでは十分乾かない間にカビ臭が発生。ワッフル織りタオルは速乾性があるが吸水性を犠牲にしており、シャワー後のメイン用途には不向き。ジムバッグや旅行用には優秀。
+    link: "https://pickly.blog/ja/articles/best-bath-towel-2026/"
+    image_alt: "バスタオル 期待外れ エジプト綿 高GSM"
+    hashtags: ["バスタオル", "購入ガイド", "タオル選び", "バスルーム", "失敗しない"]
+
+  - pin_id: best-bath-towel-2026-ja-06
+    article_slug: best-bath-towel-2026
+    locale: ja
+    variant: scene
+    title: "ジムバッグ用タオル：速乾・コンパクト・ちゃんと吸水する"
+    description: |
+      今治薄手バスタオル（35×100cm、約45g）はリネンコットン混紡で自重の3倍の水を吸収し、絞るとほぼ乾いた状態になり、サイドポケットに入るサイズ。マイクロファイバー代替品が20回洗い以降で臭いを保持するのに対し、6ヶ月間の毎日のジム使用でゼロ臭い保持を実証。旅行用のラージサイズ（55×110cm）はバッグのスペースを半分にしながら通常バスタオルの機能を果たす。2,500〜3,000円は安くないが預け荷物料金やジムバッグ臭を考えると1回の旅行で元が取れる。
+    link: "https://pickly.blog/ja/articles/best-bath-towel-2026/"
+    image_alt: "ジム 旅行 タオル 速乾 コンパクト 今治"
+    hashtags: ["ジムタオル", "旅行タオル", "今治タオル", "バスタオル", "フィットネス"]
