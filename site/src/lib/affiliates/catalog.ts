@@ -8016,6 +8016,73 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-511-tactical-tactec-vest", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F5.11+Tactical%2BTacTec%2B%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%2F", markets: ["JP"], approved: true },
     ],
   },
+
+  // ───────── Food / Apple Cider Vinegar (best-apple-cider-vinegar-2026) ─────────
+  {
+    id: "bragg-organic-acv",
+    category: "food",
+    name: { en: "Bragg Organic Apple Cider Vinegar", ja: "Bragg オーガニック アップルサイダービネガー" },
+    description: {
+      en: "The original 'with the mother' ACV — USDA Organic, Non-GMO Verified, unfiltered and unpasteurized. Sharp apple-forward flavor with fermentation complexity. The reference raw ACV for drinking tonics and culinary use.",
+      ja: "定番の「マザー入り」ACV——USDA認定オーガニック、Non-GMO認証、非ろ過・非加熱殺菌。鋭くリンゴ前面の風味に発酵の複雑さ。飲用トニックと料理用途の基準となる生ACV。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-bragg-organic-acv", rawUrl: "https://www.amazon.co.jp/s?k=Bragg+%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF+%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bragg-organic-acv", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBragg%2B%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dynamic-health-acv",
+    category: "food",
+    name: { en: "Dynamic Health Organic Apple Cider Vinegar", ja: "Dynamic Health オーガニック アップルサイダービネガー" },
+    description: {
+      en: "USDA Organic, unfiltered, with the mother — functionally equivalent to Bragg at a lower cost per ounce. Best value for high-volume cooking and daily tonic use where brand recognition is secondary to cost.",
+      ja: "USDA認定オーガニック、非ろ過、マザー入り——Braggと機能的に同等でオンスあたりコストが低い。コスト重視の高頻度調理・毎日トニック用途に最高のコスパ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-dynamic-health-acv", rawUrl: "https://www.amazon.co.jp/s?k=Dynamic+Health+%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF+%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-dynamic-health-acv", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDynamic+Health%2B%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kevita-acv-tonic",
+    category: "food",
+    name: { en: "Kevita Apple Cider Vinegar Tonic", ja: "Kevita アップルサイダービネガートニック" },
+    description: {
+      en: "Ready-to-drink carbonated ACV beverage with ginger, lemon, and stevia. Lower acidity and lower dose than liquid protocols — designed for palatability over maximum ACV content. Best for people who want daily ACV without the harsh liquid taste.",
+      ja: "ショウガ、レモン、ステビア入りのすぐ飲めるスパークリングACVビバレッジ。液体プロトコルより低酸度・低用量——ACV含有量より飲みやすさを優先。液体ACVの刺激的な味が苦手な人が毎日続けるのに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-kevita-acv-tonic", rawUrl: "https://www.amazon.co.jp/s?k=Kevita+%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC+%E3%83%88%E3%83%8B%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kevita-acv-tonic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKevita%2B%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "goli-acv-gummies",
+    category: "food",
+    name: { en: "Goli Apple Cider Vinegar Gummies", ja: "Goli アップルサイダービネガーグミ" },
+    description: {
+      en: "Gummy-format ACV with B vitamins (B9 and B12). Each serving (2 gummies) delivers roughly 1 tsp ACV equivalent — lower dose than liquid but far more palatable for daily compliance. Certified organic, vegan, Non-GMO.",
+      ja: "ビタミンB（B9・B12）配合のグミ型ACV。1回摂取量（2粒）でACV小さじ1杯相当を摂取——液体より用量は少ないが日常継続性がはるかに高い。オーガニック認証・ビーガン・Non-GMO。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-goli-acv-gummies", rawUrl: "https://www.amazon.co.jp/s?k=Goli+%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC+%E3%82%B0%E3%83%9F", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-goli-acv-gummies", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGoli%2B%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC%2B%E3%82%B0%E3%83%9F%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fairchilds-organic-acv",
+    category: "food",
+    name: { en: "Fairchild's Organic Apple Cider Vinegar", ja: "Fairchild's オーガニック アップルサイダービネガー" },
+    description: {
+      en: "5% acidity, family-owned, Washington State Rag Bag apples with explicit sourcing transparency. Cleaner apple flavor with less fermentation complexity than Bragg. Best for light vinaigrettes and culinary use where apple-forward flavor and provenance matter.",
+      ja: "5%酸度、家族経営、ワシントン州産Rag Bagリンゴの産地明示。Braggより発酵の複雑さが少なくクリーンなリンゴ風味。リンゴ前面の風味と産地の透明性が重要な軽いビネグレットや料理用途に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-fairchilds-organic-acv", rawUrl: "https://www.amazon.co.jp/s?k=Fairchild%27s+%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF+%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fairchilds-organic-acv", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFairchild%27s%2B%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
