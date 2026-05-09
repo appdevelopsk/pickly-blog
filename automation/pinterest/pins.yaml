@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 75 articles x 6 variants x 2 locales (en, ja) = 908 pins (growing)
+# 77 articles x 6 variants x 2 locales (en, ja) = 932 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -10190,3 +10190,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-facial-cleanser-2026/"
     image_alt: "朝晩スキンケア ミニマル 洗顔料 ルーティン"
     hashtags: ["スキンケアルーティン", "ミニマルケア", "CeraVe", "洗顔料", "洗顔 朝晩"]
+
+  # ── #76 best-air-mattress-2026 ────────────────────────────────────────────
+  - pin_id: best-air-mattress-2026-en-01
+    article_slug: best-air-mattress-2026
+    locale: en
+    variant: comparison
+    title: "Best Air Mattress 2026: SoundAsleep vs Intex vs Coleman vs King Koil vs ALPS"
+    description: |
+      5 air mattresses compared honestly — 40-coil indoor giants vs lightweight camping pads. Which one actually works for guests at 11pm? SoundAsleep Dream Series, Intex Dura-Beam Deluxe, Coleman SupportRest, King Koil Luxury, and ALPS Mountaineering Lightweight all tested.
+    link: "https://pickly.blog/en/articles/best-air-mattress-2026/"
+    image_alt: "Air mattress comparison 2026 SoundAsleep Intex Coleman"
+    hashtags: ["AirMattress", "GuestBed", "Camping", "SleepAccessories", "HomeComfort"]
+
+  - pin_id: best-air-mattress-2026-en-02
+    article_slug: best-air-mattress-2026
+    locale: en
+    variant: top1
+    title: "Best Air Mattress for Guests 2026: SoundAsleep Dream Series"
+    description: |
+      SoundAsleep Dream Series wins for indoor guest use — 40 internal coils maintain firmness throughout the night without slow deflation. Built-in pump inflates in under 4 minutes. Holds up to 500 lbs. At ~$100, it's the only one in this comparison that still feels firm by morning.
+    link: "https://pickly.blog/en/articles/best-air-mattress-2026/"
+    image_alt: "SoundAsleep Dream Series best air mattress guests 2026"
+    hashtags: ["SoundAsleep", "AirMattress", "GuestBed", "HomeEssentials", "SleepComfort"]
+
+  - pin_id: best-air-mattress-2026-en-03
+    article_slug: best-air-mattress-2026
+    locale: en
+    variant: problem
+    title: "Why Air Mattresses Go Flat by 3am — and Which Ones Don't"
+    description: |
+      Most air mattresses lose pressure because of thermal contraction (room temperature drops 5°F = 3–5% pressure loss) not actual leaks. Cheap vinyl stretches under weight. The fix: coil-beam internal structure resists stretching; full firmness requires a top-off before bed. Only SoundAsleep and King Koil use enough coils to stay firm through a full night.
+    link: "https://pickly.blog/en/articles/best-air-mattress-2026/"
+    image_alt: "Air mattress deflating overnight flat reasons"
+    hashtags: ["AirMattress", "SleepProblems", "GuestBed", "HomeComfort", "BuyingGuide"]
+
+  - pin_id: best-air-mattress-2026-en-04
+    article_slug: best-air-mattress-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Air Mattress 2026: Intex Dura-Beam Deluxe at $45"
+    description: |
+      Intex Dura-Beam Deluxe ($40–50) uses fiber-tech construction instead of coils — lighter and cheaper to store. Fine for occasional use, but expect 10–15% softening by morning. External pump required (or opt for the slightly pricier built-in pump version at $65). Best for camping or kids' sleepovers.
+    link: "https://pickly.blog/en/articles/best-air-mattress-2026/"
+    image_alt: "Intex Dura-Beam budget air mattress 2026"
+    hashtags: ["IntexAirMattress", "BudgetAirMattress", "Camping", "GuestBed", "AffordableHome"]
+
+  - pin_id: best-air-mattress-2026-en-05
+    article_slug: best-air-mattress-2026
+    locale: en
+    variant: avoid
+    title: "Air Mattress Mistakes That Guarantee a Bad Night's Sleep"
+    description: |
+      Inflating to maximum pressure: over-inflation stresses seams — fill to 90% instead. No fitted sheet: bare vinyl transfers cold and you slide off. Placing directly on rough floor: small abrasions cause slow leaks within weeks. Buying twin-sized for two adults: 54" wide queen is the real minimum. Not testing before guests arrive: always do a 24-hour test inflation.
+    link: "https://pickly.blog/en/articles/best-air-mattress-2026/"
+    image_alt: "Air mattress mistakes deflating seams leaks"
+    hashtags: ["AirMattress", "GuestBed", "SleepTips", "HomeEssentials", "BuyingAdvice"]
+
+  - pin_id: best-air-mattress-2026-en-06
+    article_slug: best-air-mattress-2026
+    locale: en
+    variant: scene
+    title: "Guest Room Setup with Air Mattress: Ready in 8 Minutes"
+    description: |
+      SoundAsleep Dream Series + fitted sheet (deep pocket, 18" for raised air beds) + memory foam topper for extra comfort. Total setup: 4 min inflation + 2 min sheet + 2 min topper. Store in its own carry bag under a bed when not in use. Pair with clip-on reading light and a bedside tray from the kitchen. Guest experience rivals a budget hotel.
+    link: "https://pickly.blog/en/articles/best-air-mattress-2026/"
+    image_alt: "Guest room air mattress setup quick comfortable"
+    hashtags: ["GuestRoom", "AirMattress", "HomeSetup", "GuestBed", "SleepComfort"]
+
+  - pin_id: best-air-mattress-2026-ja-01
+    article_slug: best-air-mattress-2026
+    locale: ja
+    variant: comparison
+    title: "エアーマットレス比較2026：5製品を正直に評価"
+    description: |
+      エアーマットレス5製品を徹底比較——40コイル室内用から軽量キャンプ用まで。サウンドアスリープ・インテックス・コールマン・キングコイル・ALPSマウンテニアリング。夜11時の急な来客でも設営できるのはどれ？翌朝まで空気が抜けないのはどれか。
+    link: "https://pickly.blog/ja/articles/best-air-mattress-2026/"
+    image_alt: "エアーマットレス比較2026 5製品 来客用"
+    hashtags: ["エアーマットレス", "来客用ベッド", "キャンプ", "寝具", "インテリア"]
+
+  - pin_id: best-air-mattress-2026-ja-02
+    article_slug: best-air-mattress-2026
+    locale: ja
+    variant: top1
+    title: "来客用エアーマットレス2026最強：サウンドアスリープ ドリームシリーズ"
+    description: |
+      サウンドアスリープ ドリームシリーズが来客用で断トツ1位。内部40コイルが朝まで沈み込みを防止。内蔵ポンプで4分以下で膨らむ。耐荷重227kg。約12,000〜15,000円で朝まで硬さをキープする唯一の選択肢。
+    link: "https://pickly.blog/ja/articles/best-air-mattress-2026/"
+    image_alt: "サウンドアスリープ エアーマットレス 来客用 2026"
+    hashtags: ["エアーマットレス", "来客用", "コイル", "寝心地", "おすすめ寝具"]
+
+  - pin_id: best-air-mattress-2026-ja-03
+    article_slug: best-air-mattress-2026
+    locale: ja
+    variant: problem
+    title: "エアーマットレスが夜中に凹む本当の原因"
+    description: |
+      ほとんどの場合、パンクではなく温度収縮。室温が5℃下がると内部圧力が3〜5%低下。安いビニール素材は体重で引き伸ばされる。対策：コイル構造で伸びを防止、就寝前に追加補充。サウンドアスリープとキングコイルのみ、翌朝まで硬さを維持できる十分なコイル数を持つ。
+    link: "https://pickly.blog/ja/articles/best-air-mattress-2026/"
+    image_alt: "エアーマットレス 朝までへこむ 空気抜け 原因"
+    hashtags: ["エアーマットレス", "空気抜け", "寝具トラブル", "来客ベッド", "睡眠改善"]
+
+  - pin_id: best-air-mattress-2026-ja-04
+    article_slug: best-air-mattress-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強エアーマットレス2026：インテックス ジュラビーム 5,000円台"
+    description: |
+      インテックス ジュラビーム デラックス（5,000〜7,000円）はファイバーテック構造で軽量＆コンパクト収納。たまに使う来客用や子どものお泊まり会なら十分。朝方に10〜15%沈みやすいが、価格差を考えると許容範囲。電動ポンプ付きモデルは8,000円前後。
+    link: "https://pickly.blog/ja/articles/best-air-mattress-2026/"
+    image_alt: "インテックス エアーマットレス コスパ 2026"
+    hashtags: ["インテックス", "エアーマットレス", "コスパ最強", "キャンプ", "来客用ベッド"]
+
+  - pin_id: best-air-mattress-2026-ja-05
+    article_slug: best-air-mattress-2026
+    locale: ja
+    variant: avoid
+    title: "エアーマットレス選びで失敗する4つのパターン"
+    description: |
+      最大まで膨らませる：縫い目に負担がかかり数週間で漏れ始める、90%が正解。シーツなしで使う：ビニール直敷きは冷たくズレやすい。でこぼこな床に直置き：微細な傷からゆっくり漏れる。シングル2人で使う：幅135cm（ダブル）以上が現実的な最低ライン。
+    link: "https://pickly.blog/ja/articles/best-air-mattress-2026/"
+    image_alt: "エアーマットレス 失敗 空気漏れ 縫い目"
+    hashtags: ["エアーマットレス", "失敗しない", "来客ベッド", "寝具選び", "おすすめ"]
+
+  - pin_id: best-air-mattress-2026-ja-06
+    article_slug: best-air-mattress-2026
+    locale: ja
+    variant: scene
+    title: "8分で完成する来客用ベッドセット：エアーマットレス活用術"
+    description: |
+      サウンドアスリープ（4分膨らみ）＋深さ対応ボックスシーツ＋低反発トッパーで、ビジネスホテル並みの寝心地を実現。非使用時は付属バッグでベッド下に収納。クリップ式読書ライトとミニトレーを添えると完成。準備時間8分、収納サイズはコンパクト。
+    link: "https://pickly.blog/ja/articles/best-air-mattress-2026/"
+    image_alt: "来客用ベッド エアーマットレス 8分 設営"
+    hashtags: ["来客用ベッド", "エアーマットレス", "インテリア", "おもてなし", "一人暮らし"]
+
+  # ── #77 best-protein-shaker-2026 ─────────────────────────────────────────
+  - pin_id: best-protein-shaker-2026-en-01
+    article_slug: best-protein-shaker-2026
+    locale: en
+    variant: comparison
+    title: "Best Protein Shaker 2026: BlenderBottle vs Hydra Cup vs Umoro vs Smartshake"
+    description: |
+      Five protein shakers compared in 2026 — wire whisk ball vs vortex mixing, which lid seal actually holds when knocked off a locker shelf, and which ones still smell clean after three months of daily whey. BlenderBottle Classic v2, Hydra Cup Dual Shaker, Umoro One, Smartshake Original, Contigo Shake+Go.
+    link: "https://pickly.blog/en/articles/best-protein-shaker-2026/"
+    image_alt: "Protein shaker comparison 2026 BlenderBottle Hydra Cup"
+    hashtags: ["ProteinShaker", "GymEssentials", "BlenderBottle", "WorkoutGear", "FitnessAccessories"]
+
+  - pin_id: best-protein-shaker-2026-en-02
+    article_slug: best-protein-shaker-2026
+    locale: en
+    variant: top1
+    title: "Best Protein Shaker for Daily Use 2026: BlenderBottle Classic v2"
+    description: |
+      BlenderBottle Classic v2 wins on consistency — wire whisk ball breaks up clumps that vortex-only bottles leave. 28oz fits in most gym bag pockets, leak-proof lid has survived a decade of gym drops. Dishwasher-safe, clear markings in oz/ml. At $12–15, it's the standard that all others are measured against.
+    link: "https://pickly.blog/en/articles/best-protein-shaker-2026/"
+    image_alt: "BlenderBottle Classic v2 best protein shaker 2026"
+    hashtags: ["BlenderBottle", "ProteinShaker", "GymEssentials", "WorkoutGear", "FitnessLife"]
+
+  - pin_id: best-protein-shaker-2026-en-03
+    article_slug: best-protein-shaker-2026
+    locale: en
+    variant: problem
+    title: "Why Your Protein Shaker Smells After 2 Weeks — and How to Fix It"
+    description: |
+      Plastic odor comes from whey proteins embedding in micro-scratches from metal whisks and abrasive brushes. Hot water sets the smell permanently — always rinse with cold water first. The fix: fill immediately with cold water after drinking, wash within 4 hours. Borosilicate glass or Tritan plastic resists odor best long-term.
+    link: "https://pickly.blog/en/articles/best-protein-shaker-2026/"
+    image_alt: "Protein shaker smells bad after use cleaning fix"
+    hashtags: ["ProteinShaker", "GymCleaning", "WorkoutAccessories", "FitnessTips", "GymHacks"]
+
+  - pin_id: best-protein-shaker-2026-en-04
+    article_slug: best-protein-shaker-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Protein Shaker 2026: BlenderBottle Classic at $12"
+    description: |
+      BlenderBottle Classic v2 at $11–15 is the best value in protein shakers — proven whisk design, leak-proof, dishwasher safe, available in 20oz and 28oz. For the price, nothing else competes. The Contigo Shake+Go is slightly cheaper at $9–12 but uses a vortex design that leaves small clumps with casein or collagen powder.
+    link: "https://pickly.blog/en/articles/best-protein-shaker-2026/"
+    image_alt: "BlenderBottle budget protein shaker 2026"
+    hashtags: ["BlenderBottle", "BudgetGym", "ProteinShaker", "AffordableFitness", "GymEssentials"]
+
+  - pin_id: best-protein-shaker-2026-en-05
+    article_slug: best-protein-shaker-2026
+    locale: en
+    variant: avoid
+    title: "Protein Shaker Mistakes That Lead to Leaks and Lingering Smell"
+    description: |
+      Using hot water to clean: permanently sets protein smell into plastic. Leaving whey in the car for hours: heat accelerates bacterial growth. Using the same shaker for pre-workout (acid) and whey (protein): cross-contamination. Overfilling past the max line: pressure build-up during shaking pops lids. Storing closed when not in use: trapped moisture breeds mold.
+    link: "https://pickly.blog/en/articles/best-protein-shaker-2026/"
+    image_alt: "Protein shaker mistakes smell leaks cleaning"
+    hashtags: ["ProteinShaker", "GymMistakes", "FitnessTips", "WorkoutGear", "GymCleaning"]
+
+  - pin_id: best-protein-shaker-2026-en-06
+    article_slug: best-protein-shaker-2026
+    locale: en
+    variant: scene
+    title: "Post-Gym Commute Setup: Shake Ready in the Locker Room in 90 Seconds"
+    description: |
+      BlenderBottle 28oz pre-loaded with one scoop of whey + the whisk. Add water from the gym fountain (or carry a small cold water bottle in your bag). Shake 20x. Done before you're out of the locker room. Hydra Cup dual shaker if you want pre-workout in one chamber and post-workout shake in the other — gym locker fits both in one bag hook.
+    link: "https://pickly.blog/en/articles/best-protein-shaker-2026/"
+    image_alt: "Protein shaker locker room post workout commute"
+    hashtags: ["PostWorkout", "ProteinShake", "GymRoutine", "BlenderBottle", "GymBag"]
+
+  - pin_id: best-protein-shaker-2026-ja-01
+    article_slug: best-protein-shaker-2026
+    locale: ja
+    variant: comparison
+    title: "プロテインシェイカー比較2026：5選を徹底評価"
+    description: |
+      プロテインシェイカー2026年おすすめ5選：BlenderBottle・Hydra Cup・Umoro・Smartshake・Contigo。ワイヤーボール vs 渦流底面のダマ残り差、ロッカーから落としても液漏れしないか、毎日のホエイ習慣を3ヶ月続けた後の臭い残りを比較。
+    link: "https://pickly.blog/ja/articles/best-protein-shaker-2026/"
+    image_alt: "プロテインシェイカー比較2026 5選"
+    hashtags: ["プロテインシェイカー", "筋トレ", "BlenderBottle", "プロテイン", "ジムグッズ"]
+
+  - pin_id: best-protein-shaker-2026-ja-02
+    article_slug: best-protein-shaker-2026
+    locale: ja
+    variant: top1
+    title: "毎日使いプロテインシェイカー2026最強：BlenderBottle クラシック v2"
+    description: |
+      BlenderBottle Classic v2が日常使いで1位。ワイヤーボールが渦流式では残るダマを確実に解消。28ozが大半のジムバッグポケットに収まるサイズ。フタの液漏れ防止は10年の実績。食洗機対応、oz/mlの目盛り両対応。1,500〜2,000円で他の全モデルの基準になる品質。
+    link: "https://pickly.blog/ja/articles/best-protein-shaker-2026/"
+    image_alt: "BlenderBottle プロテインシェイカー 毎日使い 2026"
+    hashtags: ["BlenderBottle", "プロテインシェイカー", "筋トレグッズ", "ジム", "プロテイン"]
+
+  - pin_id: best-protein-shaker-2026-ja-03
+    article_slug: best-protein-shaker-2026
+    locale: ja
+    variant: problem
+    title: "プロテインシェイカーが2週間で臭くなる理由と対策"
+    description: |
+      臭いはホエイタンパク質がスクラッチ傷に入り込むことで発生。お湯で洗うと臭いが完全に定着する——必ずぬるま湯か冷水で先にすすぐ。対策：飲んだ直後に冷水で満たす、4時間以内に洗う。ボロシリケートガラスかTritan素材が長期的に最も臭い残りしにくい。
+    link: "https://pickly.blog/ja/articles/best-protein-shaker-2026/"
+    image_alt: "プロテインシェイカー 臭い 原因 対策"
+    hashtags: ["プロテインシェイカー", "筋トレ", "シェイカー 臭い", "ジムグッズ", "プロテイン管理"]
+
+  - pin_id: best-protein-shaker-2026-ja-04
+    article_slug: best-protein-shaker-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強プロテインシェイカー2026：BlenderBottle 1,500円"
+    description: |
+      BlenderBottle Classic v2（1,500〜2,000円）が最高コスパ。実証済みのワイヤー設計、液漏れなし、食洗機対応、20ozと28ozから選択可能。この価格で勝てる製品は他にない。Contigo Shake+Goは少し安い（1,200〜1,500円）が渦流式でカゼインやコラーゲンにダマが残りやすい。
+    link: "https://pickly.blog/ja/articles/best-protein-shaker-2026/"
+    image_alt: "BlenderBottle コスパ プロテインシェイカー 2026"
+    hashtags: ["BlenderBottle", "コスパ最強", "プロテインシェイカー", "節約筋トレ", "プロテイン"]
+
+  - pin_id: best-protein-shaker-2026-ja-05
+    article_slug: best-protein-shaker-2026
+    locale: ja
+    variant: avoid
+    title: "プロテインシェイカーの液漏れ・臭いを招く5つの間違い"
+    description: |
+      お湯で洗う：タンパク質の臭いをプラスチックに永久定着させる。車の中にホエイ入りで放置：熱で細菌繁殖が加速。プレワークアウト（酸性）とホエイを同じシェイカーで：交差汚染。最大ラインを超えて入れる：シェイク中の圧力上昇でフタが飛ぶ。閉めたまま保管：湿気でカビが発生する。
+    link: "https://pickly.blog/ja/articles/best-protein-shaker-2026/"
+    image_alt: "プロテインシェイカー 失敗 液漏れ 臭い"
+    hashtags: ["プロテインシェイカー", "筋トレ 失敗", "シェイカー管理", "ジムグッズ", "プロテイン"]
+
+  - pin_id: best-protein-shaker-2026-ja-06
+    article_slug: best-protein-shaker-2026
+    locale: ja
+    variant: scene
+    title: "ジム帰り通勤90秒シェイク：ロッカールームで即完成"
+    description: |
+      BlenderBottle 28ozに事前にホエイ1スクープ＋ワイヤーボールをセット。ジムの水飲み場か持参の小さい冷水ボトルで水を足す。20回シェイクで完成。着替えが終わる前に飲める。Hydra Cupデュアルシェイカーならプレワークアウトとポストワークアウトを1本で管理——ジムバッグのフック1つで両方収まる。
+    link: "https://pickly.blog/ja/articles/best-protein-shaker-2026/"
+    image_alt: "プロテインシェイカー ロッカー 通勤 ポストワークアウト"
+    hashtags: ["プロテインシェイカー", "ジム帰り", "プロテイン", "筋トレルーティン", "BlenderBottle"]
