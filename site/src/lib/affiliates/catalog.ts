@@ -2986,6 +2986,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-kaiterra-laser-egg-co2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKaiterra%2BLaser%2BEgg%2BCO2%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Tech / Instant Cameras (best-instant-camera-2026) ─────────
+  {
+    id: "fujifilm-instax-mini-12",
+    category: "tech",
+    badge: "📸",
+    name: { en: "Fujifilm Instax Mini 12", ja: "フジフイルム Instax Mini 12" },
+    description: {
+      en: "~¥8,000 fully automatic instant camera. 62×46mm Mini film prints, close-up mode, selfie mirror, 133g, AA batteries. Best entry-level instant camera for parties and gifts. Explicit weakness: Mini print is very small (62×46mm image area), zero manual exposure control, selfie mirror hard to use outdoors, no smartphone connectivity.",
+      ja: "約8,000円の完全自動インスタントカメラ。62×46mm Miniフィルム、クローズアップモード、自撮りミラー、133g、単3電池。パーティー・贈り物向け最入門機。明確な弱点：Miniプリントは非常に小さい（62×46mm画像面積）、手動露出コントロールなし、屋外では自撮りミラーが見づらい、スマホ接続なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-fujifilm-instax-mini-12", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%B8%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0%2Binstax%2Bmini%2B12%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fujifilm-instax-wide-300",
+    category: "tech",
+    badge: "📷",
+    name: { en: "Fujifilm Instax Wide 300", ja: "フジフイルム Instax Wide 300" },
+    description: {
+      en: "~¥12,000 wide-format instant camera. 99×62mm Wide film prints (60% larger than Mini), 5-position dial exposure compensation, group and landscape capable, AAA batteries. Explicit weakness: large non-pocketable body, film costs ¥90–¥110/print, dated design, no smartphone connectivity, no close-up mode.",
+      ja: "約12,000円のワイドフォーマットインスタントカメラ。99×62mm Wideフィルム（Mini比約60%大）、5段階ダイヤル露出補正、集合写真・風景対応、単4電池。明確な弱点：大きくポケットに入らないボディ、フィルムが1枚90〜110円、古いデザイン、スマホ接続なし、クローズアップモードなし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-fujifilm-instax-wide-300", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%B8%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0%2BInstax%2BWide%2B300%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "polaroid-now-plus",
+    category: "tech",
+    badge: "🎨",
+    name: { en: "Polaroid Now+", ja: "Polaroid Now+" },
+    description: {
+      en: "~¥18,000 creative instant camera. i-Type film (~79×79mm square prints with white border), Bluetooth app with double exposure, multiple exposure, light painting, self-timer, manual focus (2 zones). Explicit weakness: i-Type film costs ¥190–¥225/print in Japan (2.5–3x Instax Mini), cold weather causes underexposure below 10°C, film availability limited in Japan convenience stores.",
+      ja: "約18,000円のクリエイティブインスタントカメラ。i-Typeフィルム（約79×79mm白ボーダー付き正方形プリント）、Bluetoothアプリで二重露光・多重露光・光の軌跡・セルフタイマー・手動フォーカス（2ゾーン）。明確な弱点：日本でのi-Typeフィルムが1枚190〜225円（Instax Miniの2.5〜3倍）、10°C以下の寒冷時アンダー露出、コンビニでのフィルム入手性が限られる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-polaroid-now-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPolaroid%2BNow%252B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kodak-mini-shot-3-retro",
+    category: "tech",
+    badge: "🖨️",
+    name: { en: "Kodak Mini Shot 3 Retro", ja: "Kodak Mini Shot 3 Retro" },
+    description: {
+      en: "~¥10,000 hybrid instant camera. 4PASS dye-sublimation printing, 68×84mm laminate prints, Bluetooth smartphone connectivity for printing phone photos, ~¥30–¥36/print with 50-print cartridges. Explicit weakness: 30–45 seconds per print (slow), Kodak app Bluetooth reliability issues reported, 68×84mm is non-standard frame size, heavily smartphone-dependent.",
+      ja: "約10,000円のハイブリッドインスタントカメラ。4PASSダイサブリメーション印刷、68×84mmラミネートプリント、Bluetoothスマホ接続でスマホ写真を印刷、50枚カートリッジで1枚約30〜36円。明確な弱点：1枚30〜45秒（遅い）、KodakアプリのBluetooth信頼性の問題、68×84mmは非標準フレームサイズ、スマホ依存度が高い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-kodak-mini-shot-3-retro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKodak%2BMini%2BShot%2B3%2BRetro%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "canon-ivy-cliq-plus-2",
+    category: "tech",
+    badge: "📱",
+    name: { en: "Canon IVY CLIQ+2", ja: "Canon IVY CLIQ+2" },
+    description: {
+      en: "~¥15,000 ZINK instant camera. 51×76mm (2×3 inch) zero-ink thermal prints, Bluetooth app with photo editing and AR effects before printing, 2-inch selfie mirror, ~¥35–¥45/print. Explicit weakness: smallest prints in this comparison (smaller than Instax Mini), ZINK colors less saturated than silver halide film, cold environments cause uneven color, expensive relative to Kodak Mini Shot for smaller prints.",
+      ja: "約15,000円のZINKインスタントカメラ。51×76mm（2×3インチ）ゼロインク熱転写プリント、Bluetoothアプリで編集とARエフェクト後印刷、2インチ自撮りミラー、1枚約35〜45円。明確な弱点：この比較で最小プリント（Instax Miniより小さい）、ZINKの色彩はハロゲンカラーフィルムより彩度が低い、寒冷環境で色むら、より小さいプリントでKodak Mini Shotより高価。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-canon-ivy-cliq-plus-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCanon%2BIVY%2BCLIQ%252B2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Food Processors (best-food-processor-2026) ─────────
+  {
+    id: "cuisinart-dfp-14bcwb",
+    category: "food",
+    badge: "🍽️",
+    name: { en: "Cuisinart DFP-14BCWB", ja: "Cuisinart DFP-14BCWB" },
+    description: {
+      en: "~¥25,000. 14-cup (3.3L) bowl, 720W motor, stainless steel blade. Best for large-batch cooking and families of 4+. At 26×21×45 cm and 4.5 kg, too large for many Japanese kitchen counters. Rated 120V — runs at ~83% power on Japan's 100V grid.",
+      ja: "約2万5千円。14カップ（3.3L）ボウル・720Wモーター・ステンレスブレード。4人以上の大量調理に最適。26×21×45cm・約4.5kgで日本のキッチンには大きすぎる場合あり。定格120VのためJapan 100V環境では出力約83%。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cuisinart-dfp-14bcwb", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BDFP-14BCWB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "braun-fp3020",
+    category: "food",
+    badge: "🇩🇪",
+    name: { en: "Braun MultiQuick 9 FP3020", ja: "Braun MultiQuick 9 FP3020" },
+    description: {
+      en: "~¥18,000. 2.4L bowl, 1000W motor, EasyClick attachment system (no pin alignment). Best all-round pick. Wider footprint (~23 cm with attachments) than compact Japanese-market models; higher price-per-capacity than Cuisinart.",
+      ja: "約1万8千円。2.4Lボウル・1000Wモーター・EasyClickアタッチメント（ピン位置合わせ不要）。最もバランスのよい選択肢。アタッチメント装着時の幅が約23cmとコンパクト日本市場モデルより広い。容量あたりコストはCuisinartより高い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-braun-fp3020", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBraun%2BMultiQuick%2B9%2BFP3020%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-mk-k48p",
+    category: "food",
+    badge: "🇯🇵",
+    name: { en: "Panasonic MK-K48P", ja: "Panasonic MK-K48P" },
+    description: {
+      en: "~¥15,000. 1.3L bowl, 300W motor, Japan-specific disc set including katagi-giri diagonal slice. Most compact in this comparison (21×18×27 cm). Best for 1-2 person Japanese home cooking in small apartments. 300W struggles with large batches of hard root vegetables; hand-wash only for blades.",
+      ja: "約1万5千円。1.3Lボウル・300Wモーター・片月切り含む日本仕様ディスクセット。このリストで最もコンパクト（21×18×27cm）。小さなアパートの1〜2人向け日本家庭料理に最適。300Wは大量の根菜類に苦戦することあり。ブレードは手洗い指定。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-panasonic-mk-k48p", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPanasonic%2BMK-K48P%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kitchenaid-kfp-0718",
+    category: "food",
+    badge: "🔴",
+    name: { en: "KitchenAid KFP0718", ja: "KitchenAid KFP0718" },
+    description: {
+      en: "~¥20,000. 7-cup (1.66L) bowl, 240W motor, ExactSlice lever for thickness adjustment without swapping discs. Intuitive operation. 240W thermal cutoff triggers at ~7-8 minutes of heavy continuous use; expensive per cup of capacity vs Cuisinart.",
+      ja: "約2万円。7カップ（1.66L）ボウル・240Wモーター・ディスク交換なしで厚み調整できるExactSliceレバー。直感的な操作性。240Wは重い連続使用7〜8分で熱停止カットオフが作動。Cuisinartとの容量あたりコスト差が大きい。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-kitchenaid-kfp0718", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKitchenAid%2BKFP0718%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "delonghi-multifry-fp8260",
+    category: "food",
+    badge: "🍲",
+    name: { en: "De'Longhi Multifry FP8260", ja: "De'Longhi Multifry FP8260" },
+    description: {
+      en: "~¥20,000. 2.2L bowl, 600W motor, adjustable temperature control for cook-in-bowl soups and sauces. Best if you want heating capability alongside food processing. Cooking function adds mechanical complexity; some 18+ month owners report heating element degradation before blade wear.",
+      ja: "約2万円。2.2Lボウル・600Wモーター・温度調整付きでボウル内でスープやソースを加熱可能。調理機能も求める場合に最適。調理機能の機械的な複雑さがあり18ヶ月以上使用の一部オーナーがブレードより先のヒーター劣化を報告。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-delonghi-fp8260", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDe%27Longhi%2BFP8260%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
