@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 77 articles x 6 variants x 2 locales (en, ja) = 932 pins (growing)
+# 79 articles x 6 variants x 2 locales (en, ja) = 956 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -10456,3 +10456,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-protein-shaker-2026/"
     image_alt: "プロテインシェイカー ロッカー 通勤 ポストワークアウト"
     hashtags: ["プロテインシェイカー", "ジム帰り", "プロテイン", "筋トレルーティン", "BlenderBottle"]
+
+  # ── #78 best-electric-blanket-2026 ───────────────────────────────────────
+  - pin_id: best-electric-blanket-2026-en-01
+    article_slug: best-electric-blanket-2026
+    locale: en
+    variant: comparison
+    title: "Best Electric Blanket 2026: Beautyrest vs Sunbeam vs Biddeford vs Serta Compared"
+    description: |
+      5 electric blankets compared for 2026 — Beautyrest 20-heat-setting dual control vs Sunbeam ThermoFine self-regulation vs Biddeford budget vs Serta fleece vs Perfect Sleep Pad (under-body). Zone heating, auto-shutoff timing, wattage vs electricity cost, and machine-washable controller tested.
+    link: "https://pickly.blog/en/articles/best-electric-blanket-2026/"
+    image_alt: "Electric blanket comparison 2026 Beautyrest Sunbeam Biddeford"
+    hashtags: ["ElectricBlanket", "HeatedBlanket", "WinterBedding", "Beautyrest", "Sunbeam"]
+
+  - pin_id: best-electric-blanket-2026-en-02
+    article_slug: best-electric-blanket-2026
+    locale: en
+    variant: top1
+    title: "Best Electric Blanket for Couples 2026: Beautyrest Secure Comfort"
+    description: |
+      Beautyrest Secure Comfort wins for couples — true dual control with separate settings for each side, 20 heat settings, 10-hour auto-shutoff, and the only machine-washable controller in this comparison. Cozy and consistent heat, no hot spots. At ~$80 for queen size, worth it for year-round use.
+    link: "https://pickly.blog/en/articles/best-electric-blanket-2026/"
+    image_alt: "Beautyrest electric blanket couples dual control 2026"
+    hashtags: ["ElectricBlanket", "HeatedBlanket", "Beautyrest", "CouplesBedding", "WinterComfort"]
+
+  - pin_id: best-electric-blanket-2026-en-03
+    article_slug: best-electric-blanket-2026
+    locale: en
+    variant: problem
+    title: "Why Your Electric Blanket Has Hot Spots — and How Heated Wires Work"
+    description: |
+      Hot spots come from wire spacing — cheap blankets use widely-spaced wires that leave cold gaps. Zone heating divides the blanket into independently controlled sections. ThermoFine technology (Sunbeam) automatically adjusts based on sensed temperature, preventing overheating. UL/ETL certification means the auto-shutoff circuit has been independently tested.
+    link: "https://pickly.blog/en/articles/best-electric-blanket-2026/"
+    image_alt: "Electric blanket hot spots wire heating zones"
+    hashtags: ["ElectricBlanket", "HeatedBlanket", "WinterBedding", "BuyingGuide", "SafeHeating"]
+
+  - pin_id: best-electric-blanket-2026-en-04
+    article_slug: best-electric-blanket-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Electric Blanket 2026: Biddeford at $30"
+    description: |
+      Biddeford Electric Blanket ($28–35) covers the basics at a fraction of premium prices — 10 heat settings, auto-shutoff, machine washable. Fewer settings and no zone control, but for single sleepers who just want warmth without the premium markup it does the job. Available in throw and full sizes.
+    link: "https://pickly.blog/en/articles/best-electric-blanket-2026/"
+    image_alt: "Biddeford budget electric blanket 2026"
+    hashtags: ["BudgetElectricBlanket", "HeatedBlanket", "AffordableWinter", "Biddeford", "WinterBedding"]
+
+  - pin_id: best-electric-blanket-2026-en-05
+    article_slug: best-electric-blanket-2026
+    locale: en
+    variant: avoid
+    title: "Electric Blanket Mistakes That Shorten Its Life — and One Safety Risk"
+    description: |
+      Folding while in use: concentrated heat in the fold can damage wires. Tucking under the mattress: restricts airflow and heat dissipation. Using with a mattress topper on top: insulating it causes overheating. Washing wrong: always follow manufacturer instructions — most require gentle cycle and low-heat dry. Never ignoring the 10-year replacement guideline.
+    link: "https://pickly.blog/en/articles/best-electric-blanket-2026/"
+    image_alt: "Electric blanket safety mistakes folding washing"
+    hashtags: ["ElectricBlanket", "HeatedBlanket", "HomeSafety", "WinterBedding", "BlanketCare"]
+
+  - pin_id: best-electric-blanket-2026-en-06
+    article_slug: best-electric-blanket-2026
+    locale: en
+    variant: scene
+    title: "Heating a Cold Bedroom for Under $3/Month: Electric Blanket Setup"
+    description: |
+      Sunbeam ThermoFine queen size (~$55) at setting 6 of 10: 100W × 8 hours/night × 30 days = 24 kWh. At $0.12/kWh, that's $2.88/month. Preheating 20 minutes before bed means you can sleep at a lower thermostat setting, cutting heating bills. Pair with a flannel duvet cover and keep bedroom thermostat at 65°F — warmer under the blanket, cooler for sleep quality.
+    link: "https://pickly.blog/en/articles/best-electric-blanket-2026/"
+    image_alt: "Electric blanket bedroom heating cost savings winter"
+    hashtags: ["ElectricBlanket", "WinterHeating", "EnergySaving", "BedroomSetup", "Sunbeam"]
+
+  - pin_id: best-electric-blanket-2026-ja-01
+    article_slug: best-electric-blanket-2026
+    locale: ja
+    variant: comparison
+    title: "電気毛布おすすめ比較2026：5製品を徹底評価"
+    description: |
+      電気毛布5製品を2026年版で比較：ビューティレスト・サンビーム・ビデフォード・サータ・Perfect Sleep Pad。ゾーン加熱vs単一ヒートゾーン、オートオフ時間、消費電力と月の電気代（100Wで約744円）、カップル向けデュアルコントロール、掛け毛布vs敷き毛布タイプを解説。
+    link: "https://pickly.blog/ja/articles/best-electric-blanket-2026/"
+    image_alt: "電気毛布 比較 2026 ビューティレスト サンビーム"
+    hashtags: ["電気毛布", "暖房グッズ", "冬の寝具", "電気代節約", "おすすめ毛布"]
+
+  - pin_id: best-electric-blanket-2026-ja-02
+    article_slug: best-electric-blanket-2026
+    locale: ja
+    variant: top1
+    title: "カップル向け電気毛布2026最強：ビューティレスト デュアルコントロール"
+    description: |
+      ビューティレストが2人用電気毛布で1位。左右独立した20段階設定、10時間オートオフ、この比較で唯一コントローラーが丸洗いできる。ホットスポットなし、均一な暖かさ。クイーンサイズで約8,000〜10,000円。年中使えるコスパを考えると価格差は納得。
+    link: "https://pickly.blog/ja/articles/best-electric-blanket-2026/"
+    image_alt: "ビューティレスト 電気毛布 カップル デュアルコントロール"
+    hashtags: ["電気毛布", "ビューティレスト", "カップル", "冬の寝具", "デュアルコントロール"]
+
+  - pin_id: best-electric-blanket-2026-ja-03
+    article_slug: best-electric-blanket-2026
+    locale: ja
+    variant: problem
+    title: "電気毛布がムラ暖かい理由——加熱ワイヤーの仕組み"
+    description: |
+      ホットスポットはワイヤー間隔に起因する。安価なものはワイヤー間隔が広く冷たい部分が残る。ゾーン加熱は毛布を独立制御のエリアに分割。ThermoFine技術（サンビーム）は温度センサーで自動調整しオーバーヒートを防止。UL/ETL認証はオートオフ回路が第三者機関でテスト済みの証明。
+    link: "https://pickly.blog/ja/articles/best-electric-blanket-2026/"
+    image_alt: "電気毛布 ムラ ホットスポット ワイヤー構造"
+    hashtags: ["電気毛布", "暖房グッズ", "冬の寝具", "電気毛布 仕組み", "安全機能"]
+
+  - pin_id: best-electric-blanket-2026-ja-04
+    article_slug: best-electric-blanket-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強電気毛布2026：ビデフォード 3,500円台"
+    description: |
+      ビデフォード電気毛布（3,500〜4,500円）が最安コスパ。10段階調節・オートオフ・丸洗い対応の基本機能を網羅。ゾーン制御はなく設定数も少ないが、1人で使うならプレミアム価格を払わなくて済む。スロー（ひざ掛け）サイズとフルサイズから選択可能。
+    link: "https://pickly.blog/ja/articles/best-electric-blanket-2026/"
+    image_alt: "ビデフォード 電気毛布 コスパ 2026"
+    hashtags: ["電気毛布", "コスパ最強", "プチプラ暖房", "冬の寝具", "一人暮らし"]
+
+  - pin_id: best-electric-blanket-2026-ja-05
+    article_slug: best-electric-blanket-2026
+    locale: ja
+    variant: avoid
+    title: "電気毛布を長持ちさせる使い方と、やってはいけない4つ"
+    description: |
+      使用中に折り畳む：折り目部分にワイヤーが集中して熱がこもり故障の原因。マットレスの下に挟む：放熱が妨げられ過熱リスク。敷きパッドの上に重ねる：断熱効果でオーバーヒート。洗濯表示を無視：多くは弱流・低温乾燥が必要。10年を超えたら交換の目安——安全のため年数を確認。
+    link: "https://pickly.blog/ja/articles/best-electric-blanket-2026/"
+    image_alt: "電気毛布 使い方 注意 折り畳み 洗濯"
+    hashtags: ["電気毛布", "家電ケア", "冬の安全", "電気毛布 使い方", "暖房グッズ"]
+
+  - pin_id: best-electric-blanket-2026-ja-06
+    article_slug: best-electric-blanket-2026
+    locale: ja
+    variant: scene
+    title: "月744円の電気代で寝室を温める：電気毛布の節約計算"
+    description: |
+      サンビームThermoFineクイーンサイズ（設定6/10）：100W×8時間×30日＝24kWh。電気代27円/kWhで月648円。就寝20分前にプリヒートして暖房温度を下げることでエアコン代を削減できる。フランネルの掛け布団カバーと組み合わせ、寝室の暖房を65〜67℃設定に下げるのが最もコスパが良い使い方。
+    link: "https://pickly.blog/ja/articles/best-electric-blanket-2026/"
+    image_alt: "電気毛布 電気代 節約 月額 冬 暖房"
+    hashtags: ["電気毛布", "電気代節約", "冬の節約", "暖房費", "サンビーム"]
+
+  # ── #79 best-ergonomic-footrest-2026 ─────────────────────────────────────
+  - pin_id: best-ergonomic-footrest-2026-en-01
+    article_slug: best-ergonomic-footrest-2026
+    locale: en
+    variant: comparison
+    title: "Best Ergonomic Footrest 2026: 5 Models Compared for Desk Workers"
+    description: |
+      5 ergonomic footrests compared in 2026 for desk workers: Mind Reader flat platform ($22) to Humanscale FM300 ($180). Rocking vs stationary, memory foam vs hard platform, height angle range, and which ones actually reduce lower back fatigue after 8-hour desk days.
+    link: "https://pickly.blog/en/articles/best-ergonomic-footrest-2026/"
+    image_alt: "Ergonomic footrest comparison 2026 desk workers"
+    hashtags: ["ErgonomicFootrest", "DeskErgonomics", "HomeOffice", "BackPain", "WorkFromHome"]
+
+  - pin_id: best-ergonomic-footrest-2026-en-02
+    article_slug: best-ergonomic-footrest-2026
+    locale: en
+    variant: top1
+    title: "Best Ergonomic Footrest for Rocking Motion 2026: Fellowes Foot Rocker"
+    description: |
+      Fellowes Foot Rocker wins for active sitting — the rocking motion keeps calf muscles engaged and prevents the venous pooling that causes afternoon leg fatigue. Non-slip surface, fits under most standard desks. At ~$35, it's the best balance of active movement and stability. Pairs well with any standing-height office chair adjustment.
+    link: "https://pickly.blog/en/articles/best-ergonomic-footrest-2026/"
+    image_alt: "Fellowes Foot Rocker ergonomic footrest 2026"
+    hashtags: ["Fellowes", "ErgonomicFootrest", "ActiveSitting", "DeskErgonomics", "HomeOffice"]
+
+  - pin_id: best-ergonomic-footrest-2026-en-03
+    article_slug: best-ergonomic-footrest-2026
+    locale: en
+    variant: problem
+    title: "Legs Going Numb at Your Desk? Your Chair Height Is Wrong — Footrest Fixes It"
+    description: |
+      Leg numbness comes from the chair seat compressing the underside of your thighs when feet don't reach the floor. Standard desk height is 72cm; if your chair is adjusted for elbow height, shorter people's feet dangle. A footrest at 10–15cm height removes the thigh compression and restores circulation. Reduces lumbar load by 20–25%.
+    link: "https://pickly.blog/en/articles/best-ergonomic-footrest-2026/"
+    image_alt: "Desk leg numbness ergonomic footrest fix posture"
+    hashtags: ["ErgonomicFootrest", "DeskErgonomics", "BackPain", "PostureCorrection", "HomeOffice"]
+
+  - pin_id: best-ergonomic-footrest-2026-en-04
+    article_slug: best-ergonomic-footrest-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Ergonomic Footrest 2026: Mind Reader at $22"
+    description: |
+      Mind Reader Foot Rest ($20–25) is a simple flat platform that works — height-adjustable tilt (15° or 30°), non-slip top surface, fits under standard desks. No rocking motion and less durable than premium options, but for a first footrest or shared office use it covers the basics without overthinking.
+    link: "https://pickly.blog/en/articles/best-ergonomic-footrest-2026/"
+    image_alt: "Mind Reader budget ergonomic footrest 2026"
+    hashtags: ["BudgetFootrest", "ErgonomicFootrest", "HomeOffice", "DeskErgonomics", "AffordableErgonomics"]
+
+  - pin_id: best-ergonomic-footrest-2026-en-05
+    article_slug: best-ergonomic-footrest-2026
+    locale: en
+    variant: avoid
+    title: "Ergonomic Footrest Mistakes That Make Posture Worse"
+    description: |
+      Footrest too high: knees rise above hip level, increasing lumbar compression (worse than no footrest). Too far from the chair: forces you to lean forward. Rocking footrest under a standing desk: only helps when sitting. Thick memory foam that compresses too much: removes the stable surface you need. Buying based on size alone without checking your desk clearance.
+    link: "https://pickly.blog/en/articles/best-ergonomic-footrest-2026/"
+    image_alt: "Ergonomic footrest mistakes posture height wrong"
+    hashtags: ["ErgonomicFootrest", "DeskErgonomics", "PostureMistakes", "HomeOffice", "BackPain"]
+
+  - pin_id: best-ergonomic-footrest-2026-en-06
+    article_slug: best-ergonomic-footrest-2026
+    locale: en
+    variant: scene
+    title: "Full Desk Ergonomics Under $200: Chair + Monitor + Footrest Setup"
+    description: |
+      Setup: desk at 72cm height, chair adjusted so elbows are at 90° (seat height ~46cm for 165cm person), Fellowes Foot Rocker at 10cm below the dangling feet, monitor at arm's length. Kensington SmartFit if you want angle adjustment. Humanscale FM300 if you need a weight capacity above 70kg. The footrest is the last piece, but often the one that removes the remaining discomfort.
+    link: "https://pickly.blog/en/articles/best-ergonomic-footrest-2026/"
+    image_alt: "Desk ergonomics setup chair monitor footrest"
+    hashtags: ["DeskSetup", "ErgonomicFootrest", "HomeOffice", "DeskErgonomics", "WorkFromHome"]
+
+  - pin_id: best-ergonomic-footrest-2026-ja-01
+    article_slug: best-ergonomic-footrest-2026
+    locale: ja
+    variant: comparison
+    title: "フットレストおすすめ2026：デスクワーカー向け5製品比較"
+    description: |
+      フットレスト5製品を2026年に比較：3,500円のMind Readerから28,000円のHumanscale FM300まで。ロッキングvs固定、メモリーフォームvs硬質プラットフォーム、高さ・角度調節範囲、1日8時間のデスクワーク後の腰痛・脚疲労軽減効果を徹底評価。
+    link: "https://pickly.blog/ja/articles/best-ergonomic-footrest-2026/"
+    image_alt: "フットレスト おすすめ 2026 比較 デスクワーク"
+    hashtags: ["フットレスト", "デスクワーク", "テレワーク", "腰痛対策", "在宅勤務グッズ"]
+
+  - pin_id: best-ergonomic-footrest-2026-ja-02
+    article_slug: best-ergonomic-footrest-2026
+    locale: ja
+    variant: top1
+    title: "ロッキング動作フットレスト2026最強：フェローズ フットロッカー"
+    description: |
+      フェローズ フットロッカーがアクティブシーティングで1位。ロッキング動作がふくらはぎの筋肉を使い続け、午後の脚だるさの原因となる静脈うっ血を防止。滑り止め付き、標準デスク下に収まるサイズ。約4,500〜5,500円でアクティブ動作と安定性のベストバランス。
+    link: "https://pickly.blog/ja/articles/best-ergonomic-footrest-2026/"
+    image_alt: "フェローズ フットロッカー フットレスト 2026"
+    hashtags: ["フットレスト", "フェローズ", "アクティブシーティング", "テレワーク", "腰痛対策"]
+
+  - pin_id: best-ergonomic-footrest-2026-ja-03
+    article_slug: best-ergonomic-footrest-2026
+    locale: ja
+    variant: problem
+    title: "デスクで足がしびれる原因はイスの高さ——フットレストが解決する理由"
+    description: |
+      足のしびれは椅子の座面がふとももを圧迫することで起きる。標準デスク高72cm、肘の高さに合わせると身長165cm以下の人の足が宙に浮く。10〜15cmのフットレストで太もも圧迫を解消し血行を回復。腰椎への負荷を20〜25%軽減。在宅勤務の腰痛の多くがこれだけで改善する。
+    link: "https://pickly.blog/ja/articles/best-ergonomic-footrest-2026/"
+    image_alt: "デスク 足しびれ フットレスト 姿勢改善"
+    hashtags: ["フットレスト", "デスクワーク 腰痛", "テレワーク", "在宅勤務", "姿勢改善"]
+
+  - pin_id: best-ergonomic-footrest-2026-ja-04
+    article_slug: best-ergonomic-footrest-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強フットレスト2026：Mind Reader 3,000円以下"
+    description: |
+      Mind Readerフットレスト（2,500〜3,500円）はシンプルな固定プラットフォームで基本機能を網羅。15°と30°の2段階チルト調節、滑り止め付き天面、標準デスク下に収まるサイズ。ロッキング機能なし・耐久性はプレミアム品に劣るが、初めてのフットレストや職場共有用として十分。
+    link: "https://pickly.blog/ja/articles/best-ergonomic-footrest-2026/"
+    image_alt: "Mind Reader フットレスト コスパ 2026"
+    hashtags: ["フットレスト", "コスパ最強", "テレワーク", "在宅勤務グッズ", "デスクワーク"]
+
+  - pin_id: best-ergonomic-footrest-2026-ja-05
+    article_slug: best-ergonomic-footrest-2026
+    locale: ja
+    variant: avoid
+    title: "フットレスト選びで姿勢を悪化させる4つの間違い"
+    description: |
+      高すぎるフットレスト：膝が腰より高くなり腰椎への圧力が増す（使わない方がまし）。椅子から遠すぎる配置：前傾みを誘発。スタンディングデスク用のロッキング型：座り作業専用で立ち時には不要。柔らかすぎるメモリーフォーム：体重で沈んで安定した台面がなくなる。デスク下クリアランスを測らずに購入するのもNG。
+    link: "https://pickly.blog/ja/articles/best-ergonomic-footrest-2026/"
+    image_alt: "フットレスト 失敗 高さ 姿勢悪化"
+    hashtags: ["フットレスト", "デスクワーク", "姿勢改善", "テレワーク 失敗", "エルゴノミクス"]
+
+  - pin_id: best-ergonomic-footrest-2026-ja-06
+    article_slug: best-ergonomic-footrest-2026
+    locale: ja
+    variant: scene
+    title: "2万円以下のデスク環境改善：チェア＋モニター＋フットレストの構成"
+    description: |
+      構成：デスク高72cm、肘が90°になる座面高（165cmなら約46cm）、フェローズ フットロッカーで足の浮きを解消、モニターはアームの長さ先の距離。角度調節が必要ならケンジントン SmartFit、耐荷重70kg超ならHumanscale FM300。フットレストは最後のピースだが、残っている不快感の大半を取り除く。
+    link: "https://pickly.blog/ja/articles/best-ergonomic-footrest-2026/"
+    image_alt: "デスク 環境改善 フットレスト チェア セットアップ"
+    hashtags: ["デスクセットアップ", "フットレスト", "テレワーク", "在宅勤務", "腰痛対策"]
