@@ -5949,6 +5949,78 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
 
+  // ───────── Travel / Camping Tents (best-camping-tent-2026) ─────────
+  {
+    id: "rei-passage-2",
+    category: "travel",
+    badge: "⛺",
+    name: { en: "REI Co-op Passage 2 Tent", ja: "REI Co-op Passage 2 テント" },
+    description: {
+      en: "Best value backpacking tent — DAC aluminum poles, polyester rain fly, single 8.5 sq ft vestibule, 3 lbs 14 oz packed. Covers 2-5 night 3-season trips without price-premium features. Weakness: single vestibule; fly doesn't extend as low as MSR in heavy rain; not lightweight for serious backpackers.",
+      ja: "コスパ最良バックパッキングテント——DACアルミポール・ポリエステルレインフライ・約0.79㎡シングルベスティビュール・収納重量約1.76kg。プレミアム機能なしに2〜5泊の3シーズントリップをカバー。弱点：シングルベスティビュール；大雨でMSRほどフライが低くない；本格的なバックパッカーには軽量ではない。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "rei-passage-2-jp", rawUrl: "https://www.amazon.co.jp/s?k=REI+Co-op+Passage+2+%E3%83%86%E3%83%B3%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rei-passage-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREI+Co-op+Passage+2+%E3%83%86%E3%83%B3%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "big-agnes-copper-spur-ul2",
+    category: "travel",
+    badge: "🪶",
+    name: { en: "Big Agnes Copper Spur HV UL2 Tent", ja: "Big Agnes Copper Spur HV UL2 テント" },
+    description: {
+      en: "Ultralight benchmark — 2 lbs 6 oz packed, simultaneous fly-and-inner pitch, dual vestibules (15.5 sq ft combined), near-vertical walls for high-volume floor. For backpackers where weight is the primary constraint. Weakness: silnylon fly ages faster than polyester; high price; lower weather durability than heavier alternatives.",
+      ja: "超軽量基準——収納重量約1.08kg・フライとインナーの同時展開・デュアルベスティビュール（合計約1.44㎡）・高容積フロアのほぼ垂直の壁。重量が主要制約のバックパッカー向け。弱点：シルナイロンフライはポリエステルより速く劣化；高価格；より重い代替品より天候耐久性が低い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "big-agnes-copper-spur-ul2-jp", rawUrl: "https://www.amazon.co.jp/s?k=Big+Agnes+Copper+Spur+HV+UL2+%E3%83%86%E3%83%B3%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-big-agnes-copper-spur-ul2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBig+Agnes+Copper+Spur+HV+UL2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "msr-hubba-hubba-2",
+    category: "travel",
+    badge: "🏔️",
+    name: { en: "MSR Hubba Hubba 2 Tent", ja: "MSR Hubba Hubba 2 テント" },
+    description: {
+      en: "Best freestanding 2-person tent — dual vestibules (17.7 sq ft combined), full-coverage rain fly, DAC Featherlite NSL aluminum poles, 3 lbs 14 oz. For campers who encounter real weather regularly. Weakness: same weight as REI Passage 2 at nearly twice the price; premium buys weather performance and dual vestibule access, not lighter weight.",
+      ja: "最良自立式2人用テント——デュアルベスティビュール（合計約1.64㎡）・フルカバレッジレインフライ・DAC Featherlite NSLアルミポール・収納重量約1.76kg。定期的に本格的な天候を経験するキャンパー向け。弱点：REI Passage 2と同じ重量でほぼ2倍の価格；プレミアムは天候性能とデュアルベスティビュールアクセスで正当化。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "msr-hubba-hubba-2-jp", rawUrl: "https://www.amazon.co.jp/s?k=MSR+Hubba+Hubba+2+%E3%83%86%E3%83%B3%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-msr-hubba-hubba-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMSR+Hubba+Hubba+2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "coleman-sundome-2",
+    category: "travel",
+    badge: "🏕️",
+    name: { en: "Coleman Sundome 2 Tent", ja: "Coleman Sundome 2 テント" },
+    description: {
+      en: "Best budget car-camping tent — 35 sq ft floor, 4 ft headroom, fast setup, proven Coleman reliability for two decades. For car camping, festivals, and weekend trips where weight is irrelevant. Weakness: fiberglass poles flex in sustained wind; partial fly leaves door exposed in rain; not suitable for serious weather or backpacking.",
+      ja: "最良予算カーキャンプテント——床面積約3.25㎡・ヘッドルーム約122cm・素早い設営・数十年実証済みのColemanの信頼性。重量が無関係なカーキャンプ・フェスティバル・週末トリップ向け。弱点：グラスファイバーポールは持続する風で曲がる；一部のフライが雨でドアを露出させる；本格的な天候やバックパッキングには不適切。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "coleman-sundome-2-jp", rawUrl: "https://www.amazon.co.jp/s?k=Coleman+Sundome+2+%E3%83%86%E3%83%B3%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-coleman-sundome-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FColeman+Sundome+2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nemo-dagger-2p",
+    category: "travel",
+    badge: "🌲",
+    name: { en: "NEMO Dagger 2P Tent", ja: "NEMO Dagger 2P テント" },
+    description: {
+      en: "Best versatile 3-season tent — 42-inch headroom (highest of backpacking tents here), dual vestibules (16 sq ft combined), polyester fly, 3 lbs 9 oz. Works for both car camping and 3-season backpacking. Weakness: heavier than ultralight options; more expensive than REI Passage 2 without a clear single-use advantage; smaller brand trail presence.",
+      ja: "最良多用途3シーズンテント——ヘッドルーム約107cm（ここで比較するバックパッキングテント中最高）・デュアルベスティビュール（合計約1.49㎡）・ポリエステルフライ・収納重量約1.63kg。カーキャンプと3シーズンバックパッキングの両方に対応。弱点：超軽量オプションより重い；明確な単一用途優位性なしにREI Passage 2より高価；トレイルでのブランド認知度がREIやMSRより低い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "nemo-dagger-2p-jp", rawUrl: "https://www.amazon.co.jp/s?k=NEMO+Dagger+2P+%E3%83%86%E3%83%B3%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nemo-dagger-2p", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNEMO+Dagger+2P%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
   // ───────── Fitness / Hiking Boots (best-hiking-boots-2026) ─────────
   {
     id: "salomon-x-ultra-4-gtx",
@@ -6203,6 +6275,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-nutcase-street-mips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNutcase+Street+MIPS%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Kettlebells (best-kettlebell-2026) ─────────
+  {
+    id: "kettlebell-kings-competition",
+    category: "fitness",
+    name: { en: "Kettlebell Kings Competition Kettlebell", ja: "ケトルベルキングス コンペティションケトルベル" },
+    description: {
+      en: "Best competition-grade kettlebell — 33 mm handle diameter, ±1% weight tolerance, uniform body dimensions across all weights, steel construction for high-rep snatch and GS sport training",
+      ja: "最良コンペティショングレードケトルベル — 33mmハンドル径・±1%重量公差・全重量で均一な本体寸法・高レップスナッチとGSスポーツトレーニング向け鋼鉄構造",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-kettlebell-kings-competition", rawUrl: "https://www.amazon.co.jp/s?k=Kettlebell+Kings+Competition+Kettlebell", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kettlebell-kings-competition", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKettlebell+Kings+Competition+Kettlebell%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cap-barbell-cast-iron-kettlebell",
+    category: "fitness",
+    name: { en: "CAP Barbell Cast Iron Kettlebell", ja: "CAPバーベル 鋳鉄ケトルベル" },
+    description: {
+      en: "Best value cast iron kettlebell — enamel finish, functional flat bottom, handles swings, deadlifts, presses and carries at the lowest cost per kg in this comparison",
+      ja: "最良コストパフォーマンス鋳鉄ケトルベル — エナメル仕上げ・機能的フラットボトム・この比較で最低コスト/kgでスウィング・デッドリフト・プレス・キャリーに対応",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-cap-barbell-cast-iron-kettlebell", rawUrl: "https://www.amazon.co.jp/s?k=CAP+Barbell+Cast+Iron+Kettlebell", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cap-barbell-cast-iron-kettlebell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP+Barbell+%E9%8B%B3%E9%89%84%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bowflex-selecttech-840",
+    category: "fitness",
+    name: { en: "Bowflex SelectTech 840 Kettlebell", ja: "ボウフレックス セレクトテック 840 ケトルベル" },
+    description: {
+      en: "Best adjustable kettlebell — dial selector covers 8–24 kg in one storage footprint, suited for swings, presses, and conditioning circuits where dropping from overhead is not required",
+      ja: "最良可変式ケトルベル — ダイヤルセレクターで8〜24kgを単一収納スペースでカバー・スウィング・プレス・コンディショニングサーキット向け（オーバーヘッドドロップ不可）",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-bowflex-selecttech-840", rawUrl: "https://www.amazon.co.jp/s?k=Bowflex+SelectTech+840+Kettlebell", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bowflex-selecttech-840", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex+SelectTech+840%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-fitness-cast-iron-kettlebell",
+    category: "fitness",
+    name: { en: "Titan Fitness Cast Iron Kettlebell", ja: "タイタンフィットネス 鋳鉄ケトルベル" },
+    description: {
+      en: "Best budget competition-style kettlebell — competition-spec uniform body diameter across weights, powder coat finish, chalk-compatible, priced closer to standard cast iron than competition grade",
+      ja: "最良低価格コンペスタイルケトルベル — コンペ仕様の全重量均一ボトム径・パウダーコート仕上げ・チョーク対応・コンペグレードより標準鋳鉄に近い価格",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-titan-fitness-cast-iron-kettlebell", rawUrl: "https://www.amazon.co.jp/s?k=Titan+Fitness+Cast+Iron+Kettlebell", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-fitness-cast-iron-kettlebell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E9%8B%B3%E9%89%84%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yes4all-vinyl-kettlebell",
+    category: "fitness",
+    name: { en: "Yes4All Vinyl Coated Kettlebell", ja: "Yes4All ビニールコートケトルベル" },
+    description: {
+      en: "Best floor-friendly beginner kettlebell — vinyl coating protects hardwood and tile floors, flat bottom, lowest price entry point; not chalk-compatible, not ideal for high-rep ballistic work",
+      ja: "最良フロアフレンドリー初心者向けケトルベル — ビニールコーティングがフローリングとタイルを保護・フラットボトム・最低価格エントリー；チョーク非対応・高レップ弾道的ワーク向きでない",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-yes4all-vinyl-kettlebell", rawUrl: "https://www.amazon.co.jp/s?k=Yes4All+Vinyl+Coated+Kettlebell", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-yes4all-vinyl-kettlebell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All+%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
