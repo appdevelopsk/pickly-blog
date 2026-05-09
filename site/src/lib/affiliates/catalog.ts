@@ -3250,6 +3250,77 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-tnf-base-camp-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%2B%E3%83%99%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%2B%E3%83%80%E3%83%83%E3%83%95%E3%83%AB%2FS%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Gym Bags v2 (best-gym-bag-2026 updated offerIds) ─────────
+  {
+    id: "nike-brasilia-9-5-training-duffel",
+    category: "fitness",
+    badge: "👜",
+    name: { en: "Nike Brasilia 9.5 Training Duffel Bag (Medium)", ja: "ナイキ ブラジリア 9.5 トレーニングダッフルバッグ (M)" },
+    description: {
+      en: "~¥6,000-9,000 all-around gym duffel (36L medium). Separate ventilated shoe compartment, wide colorway selection, 600D polyester exterior. No padded laptop sleeve; ventilated shoe compartment allows some odor transfer; 600D polyester absorbs more moisture than coated nylon.",
+      ja: "約¥6,000〜9,000の万能ジムダッフル（Mサイズ36L）。独立ベンチレーションシューズコンパートメント、豊富なカラーバリエーション、600Dポリエステル外装。パッド入りノートパソコンスリーブなし；ベンチレーション式シューコンパートメントで臭いが一部流入；600Dポリエステルはコーティングナイロンより湿気を吸収しやすい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.co.jp/dp/B09BFVZS7T", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-nike-brasilia-9-5-md", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike%2BBrasilia%2BGym%2BBag%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "under-armour-undeniable-5-duffel",
+    category: "fitness",
+    badge: "💧",
+    name: { en: "Under Armour Undeniable 5.0 MD Duffle Bag", ja: "アンダーアーマー アンデナイアブル 5.0 MD ダッフルバッグ" },
+    description: {
+      en: "~¥7,000-12,000 water-repellent MD duffel (58L). UA Storm water-repellent finish, moldable internal organization, designated wet pocket. Wet pocket smaller than main compartment; UA Storm coating degrades with machine washing.",
+      ja: "約¥7,000〜12,000の撥水MDダッフル（58L）。UA Storm撥水仕上げ、モールダブル内部オーガナイズ、専用ウェットポケット。ウェットポケットはメインコンパートメントより小さい；UA Stormコーティングは機械洗いで劣化。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.co.jp/dp/B08KGQK7GY", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-ua-undeniable-5-md", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUnder%2BArmour%2BUndeniable%2B5%2BDuffle%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gym-shark-everyday-gym-bag",
+    category: "fitness",
+    badge: "🦈",
+    name: { en: "Gymshark Everyday Gym Bag", ja: "ジムシャーク エブリデイジムバッグ" },
+    description: {
+      en: "~¥8,000-12,000 lifestyle-focused gym bag. Sleek minimalist design, laptop-compatible main compartment, ventilated shoe pouch, ergonomic padded straps. No dedicated sealed wet compartment; premium price vs feature set.",
+      ja: "約¥8,000〜12,000のライフスタイル重視ジムバッグ。スリークなミニマルデザイン、ノートパソコン対応メインコンパートメント、ベンチレーションシューズポーチ、エルゴノミクスパッドストラップ。専用シールドウェットコンパートメントなし；機能に対してプレミアム価格。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.co.jp/dp/B0BQJN9P8X", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-gymshark-everyday-bag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGymshark%2BEveryday%2BGym%2BBag%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "adidas-defender-4-duffel",
+    category: "fitness",
+    badge: "♻️",
+    name: { en: "Adidas Defender 4 Small Duffel Bag", ja: "アディダス ディフェンダー 4 スモール ダッフルバッグ" },
+    description: {
+      en: "~¥5,000-7,000 compact gym-to-office duffel (S size). 100% recycled polyester, padded laptop sleeve, front zip pocket for quick-access items. Smaller wet compartment than medium duffels; no water-repellent exterior finish.",
+      ja: "約¥5,000〜7,000のコンパクトなジム→オフィス兼用ダッフル（Sサイズ）。100%リサイクルポリエステル、パッド入りノートパソコンスリーブ、クイックアクセス用フロントジップポケット。ミディアムダッフルより小さいウェットコンパートメント；撥水外装仕上げなし。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09BNLBGCZ", rawUrl: "https://www.amazon.co.jp/dp/B09BNLBGCZ", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-adidas-defender-4-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9%2B%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%2B4%2B%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gold-gym-gym-bag-backpack",
+    category: "fitness",
+    badge: "🏋️",
+    name: { en: "Gold's Gym Duffel Bag", ja: "ゴールドジム ダッフルバッグ" },
+    description: {
+      en: "~¥3,000-5,000 value gym duffel. Classic gym brand, durable polyester build, separate shoe compartment, large main compartment with inner organizer pocket. Basic construction without specialized wet/dry separation; limited colorway options.",
+      ja: "約¥3,000〜5,000のコスパ重視ジムダッフル。クラシックなジムブランド、耐久性ポリエステル構造、独立シューズコンパートメント、インナーオーガナイザーポケット付き大容量メインコンパートメント。専用ウェット/ドライ分離のない基本構造；カラーバリエーション少なめ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.co.jp/dp/B07WGPNKQT", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-golds-gym-duffel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%2B%E3%83%80%E3%83%83%E3%83%95%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Fitness / Water Bottles (best-water-bottle-2026) ─────────
   {
     id: "hydro-flask-32oz",
@@ -9780,6 +9851,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "B0082OVM9E", rawUrl: "https://www.amazon.co.jp/dp/B0082OVM9E", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-tramontina-enameled-dutch-oven", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTramontina%2BEnameled%2BCast%2BIron%2BDutch%2BOven%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Drip Coffee Makers (best-coffee-maker-2026) ─────────
+  {
+    id: "breville-precision-brewer-bdc450",
+    category: "food",
+    name: { en: "Breville Precision Brewer Thermal BDC450", ja: "ブレビル プレシジョン ブリュワー サーマル BDC450" },
+    description: {
+      en: "~$280 USD. SCAA-certified drip brewer with precise water temperature control, bloom pre-infusion, and a vacuum-sealed thermal carafe. The gold standard for home drip coffee in North America, producing specialty-grade extraction that rivals pour-over results.",
+      ja: "約280ドル。SCAA認定のドリップブリュワー。正確な水温管理、ブルーム事前注水、真空シールサーマルカラフェ搭載。北米で家庭用ドリップの基準機として評価が高く、ハンドドリップに匹敵するスペシャルティグレードの抽出が可能。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.co.jp/dp/B01LXUV2IW", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-breville-precision-brewer-bdc450", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BPrecision%2BBrewer%2BBDC450%2F", markets: ["JP"], approved: false },
+    ],
+  },
+  {
+    id: "technivorm-moccamaster-kbt",
+    category: "food",
+    name: { en: "Technivorm Moccamaster KBT Coffee Maker", ja: "テクニフォーム モカマスター KBT" },
+    description: {
+      en: "~$350 USD. Dutch-made SCAA-certified drip brewer with a copper boiling element that reaches SCAA-specified 92–96°C brew temperature in 6 minutes. Handmade in the Netherlands with a 5-year warranty — the benchmark for consistent, specialty-grade drip coffee.",
+      ja: "約350ドル。オランダ製SCAA認定ドリップブリュワー。銅製ボイラーでSCAA規定の92〜96℃に6分で達温。オランダで手作り、5年保証付き — スペシャルティグレードのドリップコーヒーの基準機。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000BYMBLC", rawUrl: "https://www.amazon.co.jp/dp/B000BYMBLC", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-technivorm-moccamaster-kbt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMoccamaster%2BKBT%2F", markets: ["JP"], approved: false },
+    ],
+  },
+  {
+    id: "oxo-brew-9-cup-coffee-maker",
+    category: "food",
+    name: { en: "OXO Brew 9-Cup Coffee Maker", ja: "OXO ブリュー 9カップ コーヒーメーカー" },
+    description: {
+      en: "~$200 USD. SCAA-certified 9-cup drip brewer with a rainmaker showerhead for even saturation, programmable pre-infusion bloom, and an insulated carafe. Positioned as the approachable SCAA pick — strong performance at a lower entry point than Moccamaster.",
+      ja: "約200ドル。SCAA認定9カップドリップブリュワー。均一な飽和を実現するレインメーカーシャワーヘッド、プログラム可能なブルーム注水、断熱カラフェを搭載。モカマスターより手頃な価格で高いSCAA性能を発揮する実力機。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.co.jp/dp/B074Z2YMXB", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-oxo-brew-9-cup-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%2BBrew%2B9%2BCup%2FCoffee%2BMaker%2F", markets: ["JP"], approved: false },
+    ],
+  },
+  {
+    id: "cuisinart-dcc-3200p1-coffee-maker",
+    category: "food",
+    name: { en: "Cuisinart PerfecTemp 14-Cup Programmable Coffeemaker DCC-3200P1", ja: "クイジナート パーフェクテンプ 14カップ プログラマブルコーヒーメーカー DCC-3200P1" },
+    description: {
+      en: "~$80 USD. 14-cup programmable drip brewer with 24-hour advance brewing, 1–4 cup brew strength adjustment, and a keep-warm plate. The widest-selling programmable coffee maker in North America — sensible if you brew large batches and want simple automation.",
+      ja: "約80ドル。14カッププログラマブルドリップブリュワー。24時間前予約、1〜4カップ用醸造強度調整、保温プレート付き。北米で最も売れているプログラマブルコーヒーメーカー — 大量抽出と簡単な自動化を望む場合に合理的な選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01N5JS67B", rawUrl: "https://www.amazon.co.jp/dp/B01N5JS67B", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-cuisinart-dcc-3200p1-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BDCC-3200P1%2F", markets: ["JP"], approved: false },
+    ],
+  },
+  {
+    id: "hamilton-beach-49350-coffee-maker",
+    category: "food",
+    name: { en: "Hamilton Beach 12-Cup Coffee Maker 49350", ja: "ハミルトンビーチ 12カップ コーヒーメーカー 49350" },
+    description: {
+      en: "~$30 USD. 12-cup programmable drip brewer with a 2-hour keep-warm auto shutoff and a pause-and-pour feature. The honest budget pick for households who want a morning pot of coffee without spending more than a bag of beans on the machine itself.",
+      ja: "約30ドル。12カッププログラマブルドリップブリュワー。2時間保温後自動オフ、途中注ぎ機能付き。コーヒー豆1袋分以上の費用をかけずに毎朝のコーヒーポットが欲しい家庭への正直なバジェット機。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.co.jp/dp/B07GV2S1GS", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-hamilton-beach-49350-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2B49350%2F", markets: ["JP"], approved: false },
     ],
   },
 ];
