@@ -6072,6 +6072,139 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-garmin-forerunner-55", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AC%E3%83%BC%E3%83%9F%E3%83%B3+%E3%83%95%E3%82%A9%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC+55%2F", markets: ["JP"], approved: true },
     ],
   },
+
+  // ───────── Travel / Neck Pillows (best-neck-pillow-2026) ─────────
+  {
+    id: "cabeau-evolution-s3-neck",
+    category: "travel",
+    badge: "✈️",
+    name: { en: "Cabeau Evolution S3 Travel Neck Pillow", ja: "Cabeau Evolution S3 トラベルネックピロー" },
+    description: {
+      en: "Memory foam U-shape with magnetic headrest anchor clips that secure the pillow to seat headrest wings or pillars — prevents shifting through 13+ hour flights. Velour removable cover, compresses to ~13 × 13 × 8 cm. Best all-rounder for aisle and middle seats. Weakness: anchor clips need an adjustable headrest to work well; compressed size larger than the Trtl.",
+      ja: "メモリーフォームU字型、磁石ヘッドレストアンカークリップでシートヘッドレストウィングや柱に固定——13時間以上のフライトでもずれない。ベロア取り外しカバー付き、約13 × 13 × 8 cmに圧縮可能。通路席・中央席の最善オールラウンダー。弱点：アンカークリップは調整可能なヘッドレストで最良機能；圧縮サイズはTrtlより大きい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "cabeau-evolution-s3-neck-jp", rawUrl: "https://www.amazon.co.jp/s?k=Cabeau+Evolution+S3+%E3%83%8D%E3%83%83%E3%82%AF%E3%83%94%E3%83%AD%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cabeau-evolution-s3-neck", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCabeau+Evolution+S3+%E3%83%8D%E3%83%83%E3%82%AF%E3%83%94%E3%83%AD%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "trtl-pillow-neck",
+    category: "travel",
+    badge: "🐢",
+    name: { en: "Trtl Travel Pillow", ja: "Trtl トラベルピロー" },
+    description: {
+      en: "Rigid plastic scaffold inside a fleece scarf — not a U-shape. Provides one-sided lateral neck support for window-seat sleepers who lean sideways. Rolls to jacket-pocket size at 145 g. Weakness: only supports one lean direction; switching sides requires re-wrapping, which wakes you up; rigid insert may cause pressure marks on 10+ hour flights.",
+      ja: "フリーススカーフ内蔵の硬質プラスチック骨格——U字型ではない。窓際席で横に傾いて寝る旅行者への片側横向きサポート。145gでジャケットポケットサイズに丸まる。弱点：一方向への傾きにのみ対応；向き変更にスカーフ巻き直しが必要で目が覚める；10時間超では圧迫跡が出ることがある。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "trtl-pillow-neck-jp", rawUrl: "https://www.amazon.co.jp/s?k=Trtl+%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%83%94%E3%83%AD%E3%83%BC+%E3%83%8D%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-trtl-pillow-neck", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTrtl+%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%83%94%E3%83%AD%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bcozzy-chin-pillow",
+    category: "travel",
+    badge: "🛋️",
+    name: { en: "BCozzy Adult Chin Supporting Travel Pillow", ja: "BCozzy 大人用顎サポートトラベルピロー" },
+    description: {
+      en: "U-shape with a chin-support channel at the front that cradles the chin and prevents forward head drop on upright middle and aisle seats. More compressible and lighter than memory foam. Removable machine-washable cover. Weakness: chin support becomes awkward when leaning laterally; positioning the pillow correctly requires some trial and error.",
+      ja: "前部に顎サポートチャンネル付きU字型——中央席・通路席の直立睡眠で顎が胸に落ちるのを支える。メモリーフォームより圧縮しやすく軽い。取り外し洗濯機洗い可能カバー付き。弱点：横傾きポジションでは顎サポートが邪魔になる；正しい位置に調整するのに試行錯誤が必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "bcozzy-chin-pillow-jp", rawUrl: "https://www.amazon.co.jp/s?k=BCozzy+%E3%83%8D%E3%83%83%E3%82%AF%E3%83%94%E3%83%AD%E3%83%BC+%E9%A1%8E%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bcozzy-chin-pillow", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBCozzy+%E3%83%8D%E3%83%83%E3%82%AF%E3%83%94%E3%83%AD%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tempur-travel-neck-pillow",
+    category: "travel",
+    badge: "💎",
+    name: { en: "Tempur-Pedic Travel Neck Pillow", ja: "Tempur-Pedic トラベルネックピロー" },
+    description: {
+      en: "TEMPUR slow-rebound foam conforms fully to neck geometry and holds position for the duration of a long flight — best support quality in this category. Removable machine-washable cover. Weakness: does not compress; at ~28 × 28 × 12 cm it only makes sense for travelers who check luggage; premium price.",
+      ja: "TEMPURのゆっくりとした反発が首の形状に完全フィットし、長距離フライト中ずっと位置を保持——このカテゴリで最高のサポート品質。取り外し洗濯機洗い可能カバー付き。弱点：圧縮不可；約28 × 28 × 12 cmで受託荷物がある旅行者にのみ現実的；プレミアム価格。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "tempur-travel-neck-pillow-jp", rawUrl: "https://www.amazon.co.jp/s?k=Tempur-Pedic+%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%83%8D%E3%83%83%E3%82%AF%E3%83%94%E3%83%AD%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tempur-travel-neck-pillow", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTempur+%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%83%8D%E3%83%83%E3%82%AF%E3%83%94%E3%83%AD%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lewis-clark-neck-pillow",
+    category: "travel",
+    badge: "💰",
+    name: { en: "Lewis N. Clark Comfort Neck Pillow", ja: "Lewis N. Clark コンフォートネックピロー" },
+    description: {
+      en: "Budget inflatable neck pillow — deflates to wallet size and weighs under 100 g. Adequate support for flights under 6 hours. Fabric cover included. Weakness: inflatable support quality is below memory foam; valve will eventually leak; not a substitute for a foam pillow on long-haul routes.",
+      ja: "予算インフレータブルネックピロー——空気を抜いて財布サイズに折りたため、100g以下。6時間以内のフライトには十分なサポート。ファブリックカバー付属。弱点：インフレータブルのサポート品質はメモリーフォームより低い；弁は最終的に空気漏れが起きる；長距離路線ではフォームピローの代替にならない。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "lewis-clark-neck-pillow-jp", rawUrl: "https://www.amazon.co.jp/s?k=Lewis+N.+Clark+%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB+%E3%83%8D%E3%83%83%E3%82%AF%E3%83%94%E3%83%AD%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-lewis-clark-neck-pillow", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB+%E3%83%8D%E3%83%83%E3%82%AF%E3%83%94%E3%83%AD%E3%83%BC+%E6%97%85%E8%A1%8C%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Cycling Helmets (best-cycling-helmet-2026) ─────────
+  {
+    id: "giro-syntax-mips",
+    category: "fitness",
+    name: { en: "Giro Syntax MIPS", ja: "ジロ シンタックス MIPS" },
+    description: {
+      en: "Best road cycling helmet for training and sportives — 25-vent Wind Tunnel ventilation, Roc Loc 5 Air fit system, 5-star Virginia Tech rating, MIPS liner",
+      ja: "トレーニングとスポーティブに最良のロードサイクリングヘルメット — 25ベントウィンドトンネル通気・Roc Loc 5 Airフィット・5スターVT評価・MIPSライナー",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-giro-syntax-mips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGiro+Syntax+MIPS%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "smith-trace-mips",
+    category: "fitness",
+    name: { en: "Smith Trace MIPS", ja: "スミス トレース MIPS" },
+    description: {
+      en: "Best aerodynamic road helmet — Koroyd structure, MIPS liner, 5-star Virginia Tech rating, aero profile optimized for riding above 30 km/h",
+      ja: "最良エアロロードヘルメット — Koroyd構造・MIPSライナー・5スターVT評価・時速30km以上に最適化されたエアロプロファイル",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-smith-trace-mips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSmith+Trace+MIPS%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bell-super-air-r-mips",
+    category: "fitness",
+    name: { en: "Bell Super Air R MIPS", ja: "ベル スーパーエア R MIPS" },
+    description: {
+      en: "Best for gravel and mixed-terrain cycling — convertible open-face/full-face design, Boa retention dial, 18-vent ventilation, MIPS liner, 5-star Virginia Tech rating",
+      ja: "グラベルと混合地形サイクリングに最良 — オープン・フルフェイス変換設計・Boaリテンションダイヤル・18ベント通気・MIPSライナー・5スターVT評価",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-bell-super-air-r-mips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBell+Super+Air+R+MIPS%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "specialized-align-ii-mips",
+    category: "fitness",
+    name: { en: "Specialized Align II MIPS", ja: "スペシャライズド アライン II MIPS" },
+    description: {
+      en: "Best value MIPS road helmet — 18 vents, Headset MX fit system, 4-star Virginia Tech rating, CPSC/CE certified, MIPS liner at accessible price",
+      ja: "最良コストパフォーマンスMIPSロードヘルメット — 18ベント・Headset MXフィット・4スターVT評価・CPSC/CE認証・手頃な価格でMIPSライナー",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-specialized-align-ii-mips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSpecialized+Align+II+MIPS%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nutcase-street-mips",
+    category: "fitness",
+    name: { en: "Nutcase Street MIPS", ja: "ナットケース ストリート MIPS" },
+    description: {
+      en: "Best urban commuter helmet — rounded shell with deep temporal coverage, 12 vents, MIPS liner, twist-dial retention, available in multiple color styles",
+      ja: "最良都市通勤ヘルメット — 側頭部深カバレッジの丸みシェル・12ベント・MIPSライナー・ツイストダイヤルリテンション・複数カラー展開",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-nutcase-street-mips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNutcase+Street+MIPS%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
