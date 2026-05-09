@@ -9702,6 +9702,73 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-cuisinart-chef-classic-dutch-oven", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BEnameled%2BCast%2BIron%2BDutch%2BOven%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Lifting Belts (best-lifting-belt-2026) ─────────
+  {
+    id: "inzer-forever-lever-belt-10mm",
+    category: "fitness",
+    name: { en: "Inzer Advance Designs Forever Lever Belt 10mm", ja: "インザー フォーエバー レバーベルト 10mm" },
+    description: {
+      en: "~¥25,000-¥35,000. 10mm single-ply stiff leather powerlifting belt with lever closure. IPF-approved dimensions (10cm width), uniform 10mm thickness all the way around. The lever buckle provides the same tightness every single rep without the fiddling of a prong belt — once set, just click in and click out. Inzer's signature Forever warranty covers defects for the life of the belt.",
+      ja: "約25,000〜35,000円。10mmシングルプライスティフレザー パワーリフティングベルト、レバー締め。IPF認定寸法（幅10cm）、全周均一10mm厚。レバーバックルは毎レップ同じ締め付けを実現 — 一度セットすればカチッと締めるだけ。インザーのForeverワランティで生涯保証。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0002YV1XU", rawUrl: "https://www.amazon.co.jp/dp/B0002YV1XU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-inzer-forever-lever-belt-10mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInzer%2BForever%2BLever%2BBelt%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sbd-belt-powerlifting",
+    category: "fitness",
+    name: { en: "SBD Belt (Lever)", ja: "SBD ベルト（レバー）" },
+    description: {
+      en: "~¥40,000-¥50,000. 13mm thick single-ply leather belt with SBD's proprietary lever mechanism. IPF-approved. Made in the UK to exacting competition standards — used by multiple world record holders. The lever releases with a finger, making it practical to loosen between sets without removing the belt entirely. Premium price reflects premium materials and fit finish.",
+      ja: "約40,000〜50,000円。13mmシングルプライレザー、SBD独自レバー機構。IPF認定。英国製で競技基準の高品質 — 複数の世界記録保持者が使用。レバーは指一本で解除でき、セット間に完全に外さなくてもゆるめられる実用設計。プレミアム価格はプレミアム素材と仕上げを反映。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07BKWG7GM", rawUrl: "https://www.amazon.co.jp/dp/B07BKWG7GM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sbd-belt-powerlifting", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSBD%2B%E3%83%91%E3%83%AF%E3%83%BC%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%2B%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-ohio-lifting-belt",
+    category: "fitness",
+    name: { en: "Rogue Ohio Lifting Belt", ja: "ローグ オハイオ リフティングベルト" },
+    description: {
+      en: "~¥20,000-¥28,000. 10mm thick single-ply leather belt with a double prong or single prong buckle option. Made in Columbus, Ohio from Herman Oak leather — the same tannery used by top custom belt makers. 4-inch width at back tapers to 3 inches in front for better hip mobility during deadlifts. Rogue's standard warranty applies.",
+      ja: "約20,000〜28,000円。10mmシングルプライレザー、ダブルまたはシングルプロングバックル選択可。コロンバス（オハイオ）製、Herman Oakレザー使用。背面4インチ幅がフロント3インチにテーパーしデッドリフト時の股関節可動域を確保。ローグの標準保証付き。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01MY48MLX", rawUrl: "https://www.amazon.co.jp/dp/B01MY48MLX", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-ohio-lifting-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BOhio%2BLifting%2BBelt%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pioneer-cut-powerlifting-belt",
+    category: "fitness",
+    name: { en: "Pioneer Cut Powerlifting Belt", ja: "パイオニアカット パワーリフティングベルト" },
+    description: {
+      en: "~¥18,000-¥25,000. 10mm single-ply stiff leather with a contoured 'Pioneer cut' that widens at the back and narrows at the sides — a geometry that many lifters find provides better support during squats without digging into the hip flexors at the bottom of the lift. Available in various widths and buckle styles. Popular in Japanese powerlifting circles.",
+      ja: "約18,000〜25,000円。10mmシングルプライスティフレザー、背面が広くサイドが狭いパイオニアカット形状 — スクワット時のサポートを向上しつつ、底部での股関節屈筋への干渉を最小化。幅・バックルスタイルのバリエーション豊富。日本のパワーリフティング界で人気。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08KGLXYNR", rawUrl: "https://www.amazon.co.jp/dp/B08KGLXYNR", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-pioneer-cut-powerlifting-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPioneer%2BCut%2B%E3%83%91%E3%83%AF%E3%83%BC%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%2B%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harbinger-padded-leather-belt",
+    category: "fitness",
+    name: { en: "Harbinger Padded Leather Belt", ja: "ハービンジャー パッド付きレザーベルト" },
+    description: {
+      en: "~¥5,000-¥8,000. 6-inch wide leather belt with a foam-padded back panel and contoured front. Not a powerlifting-spec belt — it's designed for general strength training and bodybuilding where variety of movements matter more than maximum bracing. The foam padding makes it comfortable immediately without a break-in period. Good entry-level option for lifters doing mixed training.",
+      ja: "約5,000〜8,000円。幅6インチレザー、フォームパッド付き背面パネルと輪郭成形フロント。パワーリフティング仕様ではなく、多様な動作が優先される一般筋力トレーニング・ボディビル向け設計。フォームパッドでブレークイン不要から即快適。多種目トレーニングをこなすリフター向けエントリーレベルの選択肢。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0000C0F2O", rawUrl: "https://www.amazon.co.jp/dp/B0000C0F2O", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-harbinger-padded-leather-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarbinger%2BPadded%2BLeather%2BBelt%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
   {
     id: "tramontina-enameled-dutch-oven",
     category: "food",
