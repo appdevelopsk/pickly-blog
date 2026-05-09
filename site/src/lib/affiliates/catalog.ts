@@ -5335,6 +5335,112 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-greater-goods-kitchen-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB+%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "epicka-universal-adapter",
+    category: "tech",
+    name: { en: "EPICKA Universal Travel Adapter", ja: "EPICKA ユニバーサル トラベルアダプター" },
+    description: { en: "150+ countries, 4 USB ports + USB-C, surge protection, all-in-one design", ja: "150カ国以上対応、USB4ポート+USB-C、サージ保護、オールインワン設計" },
+    links: [
+      { network: "moshimo", productId: "rakuten-epicka-universal-adapter", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B5%B7%E5%A4%96%E6%97%85%E8%A1%8C%E5%A4%89%E6%8F%9B%E3%83%97%E3%83%A9%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ceptics-world-travel-adapter",
+    category: "tech",
+    name: { en: "Ceptics World Travel Adapter Set", ja: "Ceptics ワールド トラベルアダプターセット" },
+    description: { en: "Modular interchangeable plug heads by region, lightweight design, USB charging ports", ja: "地域別モジュール式プラグヘッド、軽量設計、USB充電ポート内蔵" },
+    links: [
+      { network: "moshimo", productId: "rakuten-ceptics-travel-adapter", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%BC%8F%E5%A4%89%E6%8F%9B%E3%83%97%E3%83%A9%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bestek-travel-adapter",
+    category: "tech",
+    name: { en: "BESTEK Travel Adapter with Voltage Converter", ja: "BESTEK 変圧器内蔵 トラベルアダプター" },
+    description: { en: "Built-in 220W step-down voltage converter, covers A/C/G/I/B plug types, USB charging", ja: "220W降圧変圧器内蔵、A/C/G/I/B対応、USB充電ポート付き" },
+    links: [
+      { network: "moshimo", productId: "rakuten-bestek-travel-adapter", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%89%E5%9C%A7%E5%99%A8%E5%86%85%E8%94%B5%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "satechi-travel-adapter",
+    category: "tech",
+    name: { en: "Satechi Dual Smart Travel Adapter", ja: "Satechi デュアル スマート トラベルアダプター" },
+    description: { en: "30W USB-C PD port for laptop charging, slim flat-profile design, covers A/C/G/I", ja: "USB-C PD 30Wでノートパソコン充電対応、薄型フラットデザイン、A/C/G/I対応" },
+    links: [
+      { network: "moshimo", productId: "rakuten-satechi-travel-adapter", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSatechi%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "aulola-travel-adapter",
+    category: "tech",
+    name: { en: "Aulola Universal Travel Adapter", ja: "Aulola ユニバーサル トラベルアダプター" },
+    description: { en: "Ultra-compact budget adapter, covers A/C/G/I plug types, single AC outlet", ja: "超コンパクト低価格アダプター、A/C/G/I対応、コンセント1口" },
+    links: [
+      { network: "moshimo", productId: "rakuten-aulola-travel-adapter", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E5%A4%89%E6%8F%9B%E3%83%97%E3%83%A9%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Foam Rollers (best-foam-roller-2026) ─────────
+  {
+    id: "triggerpoint-grid-foam-roller",
+    category: "fitness",
+    name: { en: "TriggerPoint GRID Foam Roller", ja: "トリガーポイント グリッドフォームローラー" },
+    description: {
+      en: "Hollow-core grid surface, 13\" standard length, professional standard for myofascial release",
+      ja: "ホローコアグリッド面、33cm標準サイズ、筋膜リリースのプロ標準モデル",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-triggerpoint-grid-foam-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88+%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89+%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rumble-roller-original",
+    category: "fitness",
+    name: { en: "RumbleRoller Original Foam Roller", ja: "ランブルローラー オリジナル フォームローラー" },
+    description: {
+      en: "Deep-tissue firm thermoplastic rubber knobs at 3–4cm intervals, 22\" standard length, for experienced rollers with chronic dense adhesions",
+      ja: "3〜4cm間隔の硬い熱可塑性ゴムノブ、56cmスタンダードサイズ、慢性的な密な癒着を持つ経験豊富なローラー向け",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-rumble-roller-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazon-basics-foam-roller",
+    category: "fitness",
+    name: { en: "Amazon Basics High-Density Round Foam Roller", ja: "Amazonベーシック 高密度ラウンドフォームローラー" },
+    description: {
+      en: "Solid high-density EPE foam, 12\" or 18\" length, budget entry point for beginners building rolling tolerance",
+      ja: "ソリッド高密度EPEフォーム、30cmまたは45cm、ローリング耐性を構築する初心者向け予算エントリーポイント",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-amazon-basics-foam-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC+%E9%AB%98%E5%AF%86%E5%BA%A6%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hyperice-vyper-3",
+    category: "fitness",
+    name: { en: "Hyperice Vyper 3 Vibrating Foam Roller", ja: "Hyperice Vyper 3 バイブレーション フォームローラー" },
+    description: {
+      en: "Three-frequency vibrating roller (33Hz, 40Hz, 53Hz), hard EVA surface, 2-hour battery life, documented additive recovery benefit for competitive athletes",
+      ja: "3段階振動周波数（33Hz・40Hz・53Hz）、硬EVA面、2時間バッテリー寿命、競技アスリート向けの実証された付加的回復効果",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-hyperice-vyper-3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHyperice+Vyper%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lux-fit-foam-roller",
+    category: "fitness",
+    name: { en: "LuxFit Premium High-Density Foam Roller", ja: "LuxFit プレミアム 高密度フォームローラー" },
+    description: {
+      en: "Solid high-density EPE, smooth surface, 12\" travel size, beginner-friendly pressure distribution for building rolling tolerance",
+      ja: "ソリッド高密度EPE、スムース面、30cmトラベルサイズ、ローリング耐性を構築する初心者フレンドリーな圧力分散",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-lux-fit-foam-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC+%E5%88%9D%E5%BF%83%E8%80%85%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
