@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 109 articles x 6 variants x 2 locales (en, ja) = 1316 pins (growing)
+# 111 articles x 6 variants x 2 locales (en, ja) = 1332 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -14712,3 +14712,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-treadmill-2026/"
     image_alt: "トレッドミル ホームジム 選び方 ガイド 2026"
     hashtags: ["トレッドミル", "ホームジム", "インドアランニング", "有酸素運動", "フィットネスガイド"]
+
+  # ── best-hot-sauce-2026 ──────────────────────────────────────────
+  - pin_id: best-hot-sauce-2026-en-01
+    article_slug: best-hot-sauce-2026
+    locale: en
+    variant: comparison
+    title: "Best Hot Sauce 2026: Tabasco vs Cholula vs Frank's vs Crystal"
+    description: |
+      We tested 5 iconic hot sauces across dozens of dishes. Tabasco (2,500–5,000 Scoville) is the fermented classic. Cholula brings Mexican complexity at 1,000–2,000 Scoville. Valentina Extra Hot delivers thick earthy heat at unbeatable value. Crystal is the definitive mild Louisiana sauce. Frank's RedHot is the Buffalo wing essential at ~450 Scoville. Find your perfect heat match.
+    link: "https://pickly.blog/en/articles/best-hot-sauce-2026/"
+    image_alt: "Best hot sauce 2026 comparison Tabasco Cholula Franks Crystal"
+    hashtags: ["best hot sauce", "hot sauce comparison", "Tabasco vs Cholula", "spicy food", "hot sauce 2026"]
+
+  - pin_id: best-hot-sauce-2026-en-02
+    article_slug: best-hot-sauce-2026
+    locale: en
+    variant: top1
+    title: "Why Tabasco Still Wins: The 3-Year Fermented Pepper Standard"
+    description: |
+      Fermented for up to 3 years on Avery Island, Tabasco Original Red delivers sharp vinegary heat at 2,500–5,000 Scoville with remarkable consistency. The thin texture splashes perfectly over pizza, oysters, and Bloody Marys. Available in 2 oz to 1-gallon jugs — the 5 oz bottle offers the best everyday value. After 150+ years, this one hasn't changed for good reason.
+    link: "https://pickly.blog/en/articles/best-hot-sauce-2026/"
+    image_alt: "Tabasco Original Red Sauce best hot sauce 2026"
+    hashtags: ["Tabasco", "best hot sauce", "fermented pepper sauce", "spicy food", "hot sauce review"]
+
+  - pin_id: best-hot-sauce-2026-en-03
+    article_slug: best-hot-sauce-2026
+    locale: en
+    variant: problem
+    title: "Too Hot or Too Mild? How to Pick the Right Heat Level"
+    description: |
+      Not all hot sauces are equal in heat. Frank's RedHot (~450 Scoville) is tangy, barely hot — perfect for crowds and wings. Crystal (~800–1,000) adds brightness without burn. Cholula (~1,000–2,000) has genuine complexity. Valentina Extra Hot (~2,100) adds earthy depth. Tabasco (~2,500–5,000) delivers real kick. Match the sauce to your heat tolerance and the dish — not every meal needs maximum Scoville.
+    link: "https://pickly.blog/en/articles/best-hot-sauce-2026/"
+    image_alt: "Hot sauce heat levels Scoville guide comparison"
+    hashtags: ["hot sauce heat levels", "Scoville guide", "spicy food", "mild vs hot", "hot sauce tips"]
+
+  - pin_id: best-hot-sauce-2026-en-04
+    article_slug: best-hot-sauce-2026
+    locale: en
+    variant: budget
+    title: "Best Value Hot Sauce 2026: Valentina Extra Hot Under $3"
+    description: |
+      The black-label Valentina Extra Hot clocks ~2,100 Scoville with a thick, clingy consistency that coats food instead of running off. At under $3 for a large bottle, it's the working cook's pantry essential. Earthy flavor with a hint of sweetness before the heat builds. Stock the large bottle for cooking and a smaller one for the table. Impossible to beat at this price.
+    link: "https://pickly.blog/en/articles/best-hot-sauce-2026/"
+    image_alt: "Valentina Extra Hot best budget hot sauce 2026"
+    hashtags: ["budget hot sauce", "Valentina hot sauce", "best value condiment", "spicy food", "hot sauce"]
+
+  - pin_id: best-hot-sauce-2026-en-05
+    article_slug: best-hot-sauce-2026
+    locale: en
+    variant: avoid
+    title: "5 Hot Sauce Buying Mistakes (and How to Avoid Them)"
+    description: |
+      Only buying one brand: different sauces suit different dishes — wings need Frank's, tacos need Cholula or Valentina. Ignoring consistency: thin sauces (Tabasco) splash; thick sauces (Valentina) coat. Forgetting vinegar balance: high-vinegar sauces overpower delicate dishes. Storing opened bottles wrong: refrigerate for maximum brightness. Buying extra-large before you've tried it: start small, especially with unfamiliar brands.
+    link: "https://pickly.blog/en/articles/best-hot-sauce-2026/"
+    image_alt: "Hot sauce buying mistakes guide tips"
+    hashtags: ["hot sauce tips", "condiment guide", "spicy food", "hot sauce mistakes", "kitchen tips"]
+
+  - pin_id: best-hot-sauce-2026-en-06
+    article_slug: best-hot-sauce-2026
+    locale: en
+    variant: scene
+    title: "Which Hot Sauce for Every Dish? 2026 Pairing Guide"
+    description: |
+      Eggs & breakfast: Cholula or Tabasco. Buffalo wings: Frank's RedHot (it's in the recipe). Tacos & Mexican: Valentina Extra Hot or Cholula. Gumbo & Southern: Crystal. Bloody Mary: Tabasco. Pizza: any, but Tabasco or Crystal shine. Raw oysters: Tabasco. The best hot sauce collection covers all five — each earns its cabinet space.
+    link: "https://pickly.blog/en/articles/best-hot-sauce-2026/"
+    image_alt: "Hot sauce food pairing guide 2026"
+    hashtags: ["hot sauce pairing", "spicy food guide", "condiment", "cooking tips", "best hot sauce"]
+
+  - pin_id: best-hot-sauce-2026-ja-01
+    article_slug: best-hot-sauce-2026
+    locale: ja
+    variant: comparison
+    title: "ホットソースおすすめ比較2026：タバスコ・コルーラ・フランクス・クリスタル"
+    description: |
+      5種類のホットソースを徹底テスト。タバスコ（2,500〜5,000スコヴィル）は発酵ペッパーの定番。コルーラはメキシカン複雑味。バレンティーナ エクストラホットはコスパ最強の濃厚ソース。クリスタルはルイジアナスタイルのマイルド代表。フランクス レッドホットはバッファローウィングの必須ソース。辛さレベル別に最適な1本を見つけよう。
+    link: "https://pickly.blog/ja/articles/best-hot-sauce-2026/"
+    image_alt: "ホットソース おすすめ 比較 2026 タバスコ コルーラ"
+    hashtags: ["ホットソース おすすめ", "タバスコ コルーラ 比較", "辛い調味料", "スパイシーフード", "ホットソース 2026"]
+
+  - pin_id: best-hot-sauce-2026-ja-02
+    article_slug: best-hot-sauce-2026
+    locale: ja
+    variant: top1
+    title: "タバスコが150年愛される理由：3年熟成発酵ペッパーソース"
+    description: |
+      アベリーアイランドで最長3年発酵させたタバスコ オリジナルレッドは、2,500〜5,000スコヴィルのシャープな酸味と辛さが特徴。薄いテクスチャーでピザ・生牡蠣・ブラッディマリーに最適。2ozから1ガロンまでサイズ展開。5oz ボトルが日常使いのベストコスパ。150年変わらぬレシピが信頼の証。
+    link: "https://pickly.blog/ja/articles/best-hot-sauce-2026/"
+    image_alt: "タバスコ オリジナルレッド おすすめ ホットソース 2026"
+    hashtags: ["タバスコ", "ホットソース おすすめ", "発酵ペッパーソース", "辛い調味料", "ホットソースレビュー"]
+
+  - pin_id: best-hot-sauce-2026-ja-03
+    article_slug: best-hot-sauce-2026
+    locale: ja
+    variant: problem
+    title: "辛すぎ？マイルドすぎ？スコヴィル値で選ぶホットソース入門"
+    description: |
+      辛さの目安：フランクス レッドホット（約450スコヴィル）は酸味中心でほぼ辛くない。クリスタル（800〜1,000）は上品な酸味。コルーラ（1,000〜2,000）は複雑なフレーバー。バレンティーナ エクストラホット（約2,100）は濃厚な旨味。タバスコ（2,500〜5,000）は本格的な刺激。料理と辛さ耐性に合わせて選ぼう。
+    link: "https://pickly.blog/ja/articles/best-hot-sauce-2026/"
+    image_alt: "ホットソース 辛さ スコヴィル 選び方 ガイド"
+    hashtags: ["ホットソース 辛さ", "スコヴィル値", "辛い調味料", "ホットソース 選び方", "スパイシーフード"]
+
+  - pin_id: best-hot-sauce-2026-ja-04
+    article_slug: best-hot-sauce-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強ホットソース2026：バレンティーナ エクストラホット300円以下"
+    description: |
+      黒ラベルのバレンティーナ エクストラホットは約2,100スコヴィルで、食材に絡む濃厚なテクスチャーが特徴。大ボトルが300円以下という破格のコスパ。甘みから始まる複雑な風味の後に辛さが続く。料理用に大ボトル、テーブル用に小ボトルを1本ずつ常備するのがおすすめ。
+    link: "https://pickly.blog/ja/articles/best-hot-sauce-2026/"
+    image_alt: "バレンティーナ エクストラホット コスパ ホットソース 2026"
+    hashtags: ["コスパ ホットソース", "バレンティーナ", "激安 調味料", "辛い調味料", "ホットソース"]
+
+  - pin_id: best-hot-sauce-2026-ja-05
+    article_slug: best-hot-sauce-2026
+    locale: ja
+    variant: avoid
+    title: "ホットソース選びの5つの失敗パターン"
+    description: |
+      1本しか買わない：料理ごとに最適なソースは違う。テクスチャーを無視する：薄いタバスコはかけ、濃いバレンティーナは絡める用。酢のバランスを見落とす：酸味強めは繊細な料理を台無しに。開封後を冷蔵しない：鮮度が落ちて風味が劣化。大ボトルを試飲前に買う：まず小サイズで確認を。
+    link: "https://pickly.blog/ja/articles/best-hot-sauce-2026/"
+    image_alt: "ホットソース 失敗 選び方 注意 ガイド"
+    hashtags: ["ホットソース 失敗", "調味料 選び方", "辛い調味料 注意", "キッチン ヒント", "ホットソース"]
+
+  - pin_id: best-hot-sauce-2026-ja-06
+    article_slug: best-hot-sauce-2026
+    locale: ja
+    variant: scene
+    title: "料理別ホットソースペアリングガイド2026"
+    description: |
+      卵・朝食：コルーラまたはタバスコ。バッファローウィング：フランクス レッドホット（定番レシピに使用）。タコス・メキシカン：バレンティーナまたはコルーラ。ガンボ・南部料理：クリスタル。ブラッディマリー：タバスコ。ピザ：タバスコかクリスタル。生牡蠣：タバスコ。5種類揃えれば、どんな料理も完璧にカバーできる。
+    link: "https://pickly.blog/ja/articles/best-hot-sauce-2026/"
+    image_alt: "ホットソース 料理 ペアリング ガイド 2026"
+    hashtags: ["ホットソース ペアリング", "辛い調味料 活用", "料理 ガイド", "スパイシーフード", "ホットソース おすすめ"]
+
+  # ── best-rowing-machine-2026 ─────────────────────────────────────
+  - pin_id: best-rowing-machine-2026-en-01
+    article_slug: best-rowing-machine-2026
+    locale: en
+    variant: comparison
+    title: "Best Rowing Machine 2026: Concept2 vs Hydrow vs NordicTrack vs Water"
+    description: |
+      We tested 5 rowers for home gyms. Concept2 Model D — the Olympic-standard air rower. Hydrow Wave — live classes on a compact electromagnetic rower. NordicTrack RW900 — 22-inch HD screen with iFIT. Ergatta — water resistance meets gamified fitness. Sunny SF-RW5515 — quiet magnetic rower under $350. Find the right full-body cardio machine for your space and budget.
+    link: "https://pickly.blog/en/articles/best-rowing-machine-2026/"
+    image_alt: "Best rowing machine 2026 comparison Concept2 Hydrow NordicTrack"
+    hashtags: ["best rowing machine", "rowing machine comparison", "Concept2 vs Hydrow", "home gym cardio", "rowing machine 2026"]
+
+  - pin_id: best-rowing-machine-2026-en-02
+    article_slug: best-rowing-machine-2026
+    locale: en
+    variant: top1
+    title: "Concept2 Model D: Why Every Serious Rower Owns This Machine"
+    description: |
+      Used in Olympic training facilities worldwide, the Concept2 Model D remains the undisputed standard. Air resistance self-regulates — the harder you pull, the harder it gets, infinitely. The PM5 monitor tracks splits, watts, and heart rate with competition-grade precision. Folds vertically to 25×33 inches for wall storage. At ~$900, it costs more than budget rowers but outlasts them by decades.
+    link: "https://pickly.blog/en/articles/best-rowing-machine-2026/"
+    image_alt: "Concept2 Model D rowing machine best 2026"
+    hashtags: ["Concept2 Model D", "best rowing machine", "air rower", "home gym", "rowing workout"]
+
+  - pin_id: best-rowing-machine-2026-en-03
+    article_slug: best-rowing-machine-2026
+    locale: en
+    variant: problem
+    title: "Air, Water, or Magnetic Resistance? How to Choose Your Rower"
+    description: |
+      Air resistance (Concept2): most realistic feel, scales infinitely with effort, loud. Water resistance (Ergatta): close to air, quieter, atmospheric sound. Magnetic resistance (Sunny, Hydrow Wave): silent, apartment-friendly, programmable for connected classes. For quiet spaces: magnetic or water. For authentic feel: air. For guided content: electromagnetic. Your training environment determines the right resistance type.
+    link: "https://pickly.blog/en/articles/best-rowing-machine-2026/"
+    image_alt: "Rowing machine resistance types comparison air water magnetic"
+    hashtags: ["rowing machine resistance", "air vs water rower", "home gym cardio", "rowing tips", "best rower 2026"]
+
+  - pin_id: best-rowing-machine-2026-en-04
+    article_slug: best-rowing-machine-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Rowing Machine 2026: Sunny SF-RW5515 Under $350"
+    description: |
+      The Sunny Health SF-RW5515 offers 12 levels of magnetic resistance, aluminum rail, and a simple LCD monitor for around $350. Quiet, smooth, and genuinely functional for building a rowing habit. Handles users up to 6'3\". No subscription required — just row. The sensible choice for beginners testing whether rowing is right for them before committing to a premium machine.
+    link: "https://pickly.blog/en/articles/best-rowing-machine-2026/"
+    image_alt: "Sunny Health SF-RW5515 budget rowing machine 2026"
+    hashtags: ["budget rowing machine", "Sunny Health rower", "affordable home gym", "magnetic rower", "rowing machine under $350"]
+
+  - pin_id: best-rowing-machine-2026-en-05
+    article_slug: best-rowing-machine-2026
+    locale: en
+    variant: avoid
+    title: "5 Rowing Machine Mistakes That Waste Your Money"
+    description: |
+      Buying on specs alone: test stroke feel before committing. Ignoring floor space: full-size rowers need 8–9 feet of length. Forgetting subscription costs: Hydrow, NordicTrack, Ergatta require $29–$44/month for full content. Skipping form training: poor rowing form causes back injuries, negating the low-impact benefit. Underestimating weight: the RW900 weighs 218 lbs — placement is semi-permanent.
+    link: "https://pickly.blog/en/articles/best-rowing-machine-2026/"
+    image_alt: "Rowing machine mistakes guide buying tips"
+    hashtags: ["rowing machine tips", "home gym mistakes", "rower buying guide", "rowing workout", "fitness equipment"]
+
+  - pin_id: best-rowing-machine-2026-en-06
+    article_slug: best-rowing-machine-2026
+    locale: en
+    variant: scene
+    title: "Which Rowing Machine Fits Your Home Gym Setup? 2026 Guide"
+    description: |
+      Small apartment, need quiet: Hydrow Wave (foldable, electromagnetic, 16-inch screen). Want the biggest screen: NordicTrack RW900 (22-inch HD, iFIT). Prefer gamified solo training: Ergatta (water resistance, game-based). Max authenticity, no subscription: Concept2 Model D (air, PM5, Olympic standard). Tight budget, just row: Sunny SF-RW5515 (magnetic, $350, no subscription needed).
+    link: "https://pickly.blog/en/articles/best-rowing-machine-2026/"
+    image_alt: "Rowing machine home gym setup guide 2026"
+    hashtags: ["rowing machine home gym", "best rower 2026", "home cardio", "rowing workout setup", "fitness guide"]
+
+  - pin_id: best-rowing-machine-2026-ja-01
+    article_slug: best-rowing-machine-2026
+    locale: ja
+    variant: comparison
+    title: "ローイングマシンおすすめ比較2026：Concept2・Hydrow・NordicTrack"
+    description: |
+      5台のローイングマシンを徹底テスト。Concept2 モデルD：五輪標準のエアー抵抗式。Hydrow Wave：コンパクトな電磁抵抗式+ライブクラス。NordicTrack RW900：22インチHD画面+iFIT。Ergatta：水抵抗式×ゲーム感覚トレーニング。サニーヘルス SF-RW5515：3.5万円以下のマグネティック入門機。全身有酸素運動の最適解を見つけよう。
+    link: "https://pickly.blog/ja/articles/best-rowing-machine-2026/"
+    image_alt: "ローイングマシン おすすめ 比較 2026 Concept2 Hydrow"
+    hashtags: ["ローイングマシン おすすめ", "Concept2 比較", "ホームジム 有酸素", "ローイングマシン 2026", "全身トレーニング"]
+
+  - pin_id: best-rowing-machine-2026-ja-02
+    article_slug: best-rowing-machine-2026
+    locale: ja
+    variant: top1
+    title: "Concept2 モデルDが世界標準である理由：PM5モニターの精度"
+    description: |
+      オリンピックトレーニング施設でも採用されるConcept2 モデルDは、引く力が強いほど負荷が増すエアー抵抗の自律調整が最大の強み。PM5モニターはスプリット・ワット・心拍数を競技レベルの精度で計測。縦折りで25×33インチのコンパクト収納が可能。約900ドルは安くないが、格安機より何十年も長持ちする投資価値がある。
+    link: "https://pickly.blog/ja/articles/best-rowing-machine-2026/"
+    image_alt: "Concept2 モデルD ローイングマシン おすすめ 2026"
+    hashtags: ["Concept2 モデルD", "ローイングマシン おすすめ", "エアーロウワー", "ホームジム", "ローイング ワークアウト"]
+
+  - pin_id: best-rowing-machine-2026-ja-03
+    article_slug: best-rowing-machine-2026
+    locale: ja
+    variant: problem
+    title: "エアー・水・磁気抵抗どれを選ぶ？ローイングマシン抵抗方式ガイド"
+    description: |
+      エアー抵抗（Concept2）：最もリアルな感覚、無段階調整、やや騒音あり。水抵抗（Ergatta）：エアーに近い感覚、静音で没入感あり。磁気抵抗（サニーヘルス・Hydrow Wave）：無音、マンション対応、コネクテッドクラス向き。静かさ重視→磁気または水。本物感重視→エアー。ガイドコンテンツ重視→電磁抵抗。住環境とトレーニングスタイルで選ぼう。
+    link: "https://pickly.blog/ja/articles/best-rowing-machine-2026/"
+    image_alt: "ローイングマシン 抵抗方式 比較 エアー 水 磁気"
+    hashtags: ["ローイングマシン 抵抗方式", "エアー 水 磁気 比較", "ホームジム 有酸素", "ローイング ヒント", "ローイングマシン 選び方"]
+
+  - pin_id: best-rowing-machine-2026-ja-04
+    article_slug: best-rowing-machine-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強ローイングマシン2026：サニーヘルス SF-RW5515 約3.5万円"
+    description: |
+      サニーヘルス SF-RW5515は磁気抵抗12段階・アルミレール・シンプルLCDモニターで約3.5万円。静音・スムーズで日常のローイング習慣づくりに最適。170cm超でも余裕の43.3インチスライド。サブスク不要でそのまま漕ぐだけ。プレミアム機を買う前にローイングが自分に合うか試したい初心者の最適解。
+    link: "https://pickly.blog/ja/articles/best-rowing-machine-2026/"
+    image_alt: "サニーヘルス SF-RW5515 コスパ ローイングマシン 2026"
+    hashtags: ["コスパ ローイングマシン", "サニーヘルス ローイング", "格安 ホームジム", "磁気抵抗 ローイング", "ローイングマシン 予算"]
+
+  - pin_id: best-rowing-machine-2026-ja-05
+    article_slug: best-rowing-machine-2026
+    locale: ja
+    variant: avoid
+    title: "ローイングマシン購入でよくある5つの後悔"
+    description: |
+      スペックだけで判断：ストロークの感触は実物確認が必要。スペースを測らない：本体使用時に約240〜270cmの長さが必要。サブスク費用を計算しない：Hydrow・NordicTrack・Ergattaは月額3,000〜6,000円。フォームを学ばない：正しいフォームなしでは腰痛リスク。重さを見落とす：RW900は約99kgで設置場所は半固定。
+    link: "https://pickly.blog/ja/articles/best-rowing-machine-2026/"
+    image_alt: "ローイングマシン 失敗 購入 注意 ガイド"
+    hashtags: ["ローイングマシン 失敗", "ホームジム 注意", "ローイング 購入ガイド", "ローイング ワークアウト", "フィットネス機器"]
+
+  - pin_id: best-rowing-machine-2026-ja-06
+    article_slug: best-rowing-machine-2026
+    locale: ja
+    variant: scene
+    title: "ホームジム環境別ローイングマシン選び方ガイド2026"
+    description: |
+      マンション・静音重視 → Hydrow Wave（折りたたみ・電磁抵抗・16インチ画面）。大画面コンテンツ重視 → NordicTrack RW900（22インチHD・iFIT）。ゲーム感覚で一人黙々 → Ergatta（水抵抗・ゲーム型）。本格感・サブスク不要 → Concept2 モデルD（エアー・PM5・五輪標準）。予算重視・まず始める → サニーヘルス SF-RW5515（磁気・約3.5万円）。
+    link: "https://pickly.blog/ja/articles/best-rowing-machine-2026/"
+    image_alt: "ローイングマシン ホームジム 選び方 ガイド 2026"
+    hashtags: ["ローイングマシン ホームジム", "ローイングマシン おすすめ 2026", "ホームジム 有酸素", "ローイング セットアップ", "フィットネスガイド"]
