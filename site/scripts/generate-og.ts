@@ -17,7 +17,8 @@ const ARTICLES_DIR = path.join(ROOT, "src/articles");
 const OUT_DIR = path.join(ROOT, "public/og");
 
 interface ArticleMessages {
-  title: string;
+  title?: string;
+  meta?: { title?: string; description?: string };
   pinDescription?: string;
 }
 
@@ -135,7 +136,7 @@ async function main() {
       ) as ArticleMessages;
 
       const svg = renderSvg({
-        title: json.title,
+        title: json.title ?? json.meta?.title ?? slug,
         slug,
         locale,
         category,

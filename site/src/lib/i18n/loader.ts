@@ -12,17 +12,34 @@ async function loadCommon(locale: string): Promise<Messages> {
   }
 }
 
+/**
+ * Normalize article messages to always expose top-level `title` and `description`.
+ * Supports both the legacy flat structure ({ title, description, ... })
+ * and the newer nested structure ({ meta: { title, description }, ... }).
+ */
+function normalizeArticleMessages(raw: Messages): Messages {
+  const { meta, ...rest } = raw as { meta?: { title?: string; description?: string } } & Messages;
+  if (!meta) return raw;
+  return {
+    ...rest,
+    meta,
+    // Promote meta.title / meta.description to top level so existing t() calls work.
+    ...(meta.title !== undefined && !rest.title ? { title: meta.title } : {}),
+    ...(meta.description !== undefined && !rest.description ? { description: meta.description } : {}),
+  };
+}
+
 async function loadArticleMessages(locale: string): Promise<Messages> {
   const articles = listArticles();
   const out: Messages = {};
   for (const a of articles) {
     try {
       const mod = await import(`@/articles/${a.slug}/messages/${locale}.json`);
-      out[a.slug] = mod.default;
+      out[a.slug] = normalizeArticleMessages(mod.default as Messages);
     } catch {
       try {
         const fallback = await import(`@/articles/${a.slug}/messages/${DEFAULT_LOCALE}.json`);
-        out[a.slug] = fallback.default;
+        out[a.slug] = normalizeArticleMessages(fallback.default as Messages);
       } catch {
         out[a.slug] = {};
       }
