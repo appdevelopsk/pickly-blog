@@ -6741,6 +6741,76 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
   {
+    id: "hellofresh-meal-kit",
+    category: "food",
+    badge: "🍽️",
+    name: { en: "HelloFresh Meal Kit", ja: "HelloFreshミールキット" },
+    description: {
+      en: "Best overall for meal kit beginners — widest weekly recipe selection (30–40 options), reliable portions, skip mechanics that work without a support call. Mid-range per-serving cost with difficulty levels from easy 20-minute meals to chef's choice techniques.",
+      ja: "ミールキット初心者向け総合最高——週30〜40の幅広いレシピ選択、安定した食材量、サポートへの連絡不要で機能するスキップ機能。簡単な20分料理からシェフズチョイスのテクニックまで難易度幅あり。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-hellofresh-meal-kit", rawUrl: "https://www.amazon.co.jp/s?k=HelloFresh+%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hellofresh-meal-kit", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHelloFresh%2B%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "blue-apron-meal-kit",
+    category: "food",
+    badge: "👨‍🍳",
+    name: { en: "Blue Apron Meal Kit", ja: "Blue Apronミールキット" },
+    description: {
+      en: "Best for cooking skill development — technique-forward recipes with detailed instruction cards that explain why, not just what. Smaller weekly menu (12–16 recipes) with consistent ingredient quality. Best for cooks who want meal delivery to teach them something.",
+      ja: "料理スキル習得に最適——なぜそのテクニックを使うかを説明する詳細なインストラクションカード付きのテクニック重視レシピ。週12〜16レシピで一貫した食材品質。料理を通じて何かを学びたい人に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-blue-apron-meal-kit", rawUrl: "https://www.amazon.co.jp/s?k=Blue+Apron+%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-blue-apron-meal-kit", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBlue%2BApron%2B%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "green-chef-meal-kit",
+    category: "food",
+    badge: "🥗",
+    name: { en: "Green Chef Meal Kit", ja: "Green Chefミールキット" },
+    description: {
+      en: "Best organic/specialty diet meal kit — certified organic ingredients with recipes designed for keto, Mediterranean, and plant-based frameworks from the start. Higher per-serving price reflects real organic sourcing standards. Best for households on structured dietary plans.",
+      ja: "オーガニック・特定食事制限対応に最適——認証オーガニック食材、ケトー・地中海式・植物性食材中心向けに最初から設計されたレシピ。高い1人前価格は本物のオーガニック調達基準を反映。構造化された食事プランを実践している家庭に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-green-chef-meal-kit", rawUrl: "https://www.amazon.co.jp/s?k=Green+Chef+%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-green-chef-meal-kit", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGreen%2BChef%2B%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "everyplate-meal-kit",
+    category: "food",
+    badge: "💰",
+    name: { en: "EveryPlate Meal Kit", ja: "EveryPlateミールキット" },
+    description: {
+      en: "Best budget meal kit — genuine per-serving savings of $3–$5 versus HelloFresh at comparable recipe frequency. Reliable recipes, clear instructions, consistent delivery. Best for cost-conscious households who don't need extensive recipe variety.",
+      ja: "バジェット最強ミールキット——同等のレシピ頻度でHelloFreshより1人前3〜5ドル安い本物の節約。確実なレシピ・明確な説明・安定した配送。幅広いレシピ多様性を必要としないコスト意識の高い家庭に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-everyplate-meal-kit", rawUrl: "https://www.amazon.co.jp/s?k=EveryPlate+%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-everyplate-meal-kit", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEveryPlate%2B%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sunbasket-meal-kit",
+    category: "food",
+    badge: "🌿",
+    name: { en: "Sunbasket Meal Kit", ja: "Sunbasketミールキット" },
+    description: {
+      en: "Best for clean/organic ingredients — no artificial additives, preservatives, or GMOs, certified organic sourcing, and the best packaging return program of the five services. 16-week pause window for seasonal households. Best for those who prioritize ingredient standards.",
+      ja: "クリーン・オーガニック食材に最適——人工添加物・保存料・GMO不使用、認証オーガニック調達、5社最良の包装返却プログラム。季節的な家庭向けに最大16週間の一時停止ウィンドウ。食材基準を優先する家庭に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-sunbasket-meal-kit", rawUrl: "https://www.amazon.co.jp/s?k=Sunbasket+%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sunbasket-meal-kit", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSunbasket%2B%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
     id: "bright-cellars-subscription",
     category: "food",
     badge: "🌟",
@@ -6752,6 +6822,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "amazon-jp-bright-cellars-subscription", rawUrl: "https://www.amazon.co.jp/s?k=BRIGHT+Cellars+Wine+Subscription", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-bright-cellars-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBRIGHT%2BCellars%2B%E3%83%AF%E3%82%A4%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Spin Bikes (best-spin-bike-2026) ─────────
+  {
+    id: "peloton-bike",
+    category: "fitness",
+    name: { en: "Peloton Bike", ja: "Peloton バイク" },
+    description: {
+      en: "Best connected spin bike with live classes — 21.5-inch HD touchscreen, 16 kg flywheel, silent magnetic resistance, and the Peloton All-Access content library with 50,000+ on-demand and live instructor-led rides",
+      ja: "ライブクラス最高のコネクテッドスピンバイク — 21.5インチHDタッチスクリーン・16kgフライホイール・静音マグネティックレジスタンス・5万以上のオンデマンドとライブクラスのPeloton All-Accessコンテンツライブラリ",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-peloton-bike", rawUrl: "https://www.amazon.co.jp/s?k=Peloton+%E3%83%90%E3%82%A4%E3%82%AF+%E3%82%B9%E3%83%94%E3%83%B3%E3%83%90%E3%82%A4%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-peloton-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPeloton+%E3%83%90%E3%82%A4%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "schwinn-ic4",
+    category: "fitness",
+    name: { en: "Schwinn IC4 Indoor Cycling Bike", ja: "シュウィン IC4 インドアサイクリングバイク" },
+    description: {
+      en: "Best value connected indoor cycling bike — 18 kg flywheel, 100-level magnetic resistance, full four-way adjustability, Bluetooth compatibility with Peloton, Zwift, and Apple Fitness+ without a built-in screen",
+      ja: "最高コストパフォーマンスのコネクテッドインドアサイクリングバイク — 18kgフライホイール・100段階マグネティックレジスタンス・完全4方向調整性・Peloton/Zwift/Apple Fitness+対応Bluetooth（内蔵スクリーンなし）",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-schwinn-ic4", rawUrl: "https://www.amazon.co.jp/s?k=Schwinn+IC4+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%90%E3%82%A4%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-schwinn-ic4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSchwinn+IC4+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nordictrack-s22i",
+    category: "fitness",
+    name: { en: "NordicTrack S22i Studio Cycle", ja: "NordicTrack S22i スタジオサイクル" },
+    description: {
+      en: "Best incline training spin bike — motorized -10 to +20% incline, 22-inch rotating touchscreen, iFit automatic resistance sync for terrain simulation; the most technically ambitious home indoor cycling bike",
+      ja: "最高の傾斜トレーニングスピンバイク — 電動-10〜+20%傾斜・22インチ回転タッチスクリーン・iFit自動レジスタンス同期による地形シミュレーション；最も技術的に野心的なホームインドアサイクリングバイク",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-nordictrack-s22i", rawUrl: "https://www.amazon.co.jp/s?k=NordicTrack+S22i+%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nordictrack-s22i", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNordicTrack+S22i%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bowflex-velocore-16",
+    category: "fitness",
+    name: { en: "Bowflex VeloCore 16 Indoor Bike", ja: "ボウフレックス VeloCore 16 インドアバイク" },
+    description: {
+      en: "Best budget connected bike with leaning feature — unique 25-degree side-to-side lean engages core and lateral stabilizers, 16-inch touchscreen, JRNY app; corrects lower-back fatigue from static riding positions",
+      ja: "傾斜機能付き最高のコネクテッドバジェットバイク — ユニークな25度左右傾斜でコアと側方安定筋を使う・16インチタッチスクリーン・JRNYアプリ；静止ライド姿勢からの腰部疲労を改善",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-bowflex-velocore-16", rawUrl: "https://www.amazon.co.jp/s?k=Bowflex+VeloCore+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%83%90%E3%82%A4%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bowflex-velocore-16", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex+VeloCore%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sunny-health-sf-b1002",
+    category: "fitness",
+    name: { en: "Sunny Health & Fitness SF-B1002 Indoor Cycling Bike", ja: "サニーヘルス SF-B1002 インドアサイクリングバイク" },
+    description: {
+      en: "Best budget basic spin bike — magnetic resistance at a budget price, adjustable seat and handlebars for most adult heights, transport wheels for single-person relocation; 8 kg flywheel is the ride-feel trade-off",
+      ja: "最高のバジェット基本スピンバイク — バジェット価格のマグネティックレジスタンス・ほとんどの成人対応の調整式シートとハンドルバー・1人移動可能な運搬ホイール；乗り心地のトレードオフは8kgフライホイール",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-sunny-health-sf-b1002", rawUrl: "https://www.amazon.co.jp/s?k=Sunny+Health+%26+Fitness+SF-B1002+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sunny-health-sf-b1002", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSunny+Health+SF-B1002+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
