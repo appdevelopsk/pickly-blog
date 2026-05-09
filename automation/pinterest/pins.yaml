@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 20 articles x 6 variants x 2 locales (en, ja) = 240 pins
+# 40 articles x 6 variants x 2 locales (en, ja) = 480 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -4697,3 +4697,408 @@ pins:
     link: "https://pickly.blog/ja/articles/best-wireless-charger-2026/"
     image_alt: "Apple 3in1ワイヤレス充電台 2026"
     hashtags: ["#ワイヤレス充電", "#Appleエコシステム", "#MagSafe", "#iPhone", "#AirPods", "#AppleWatch"]
+
+  # =========================================================
+  # best-gaming-mouse-2026
+  # =========================================================
+  - pin_id: best-gaming-mouse-2026-en-01
+    article_slug: best-gaming-mouse-2026
+    locale: en
+    variant: comparison
+    title: "Best Gaming Mouse 2026: G Pro X Superlight 2 vs DeathAdder V3 vs MX Master 3S"
+    description: |
+      We put the 60g ultralight G Pro X Superlight 2 against the 59g DeathAdder V3 and the productivity-focused MX Master 3S. Gaming mice have never been lighter — but lighter isn't always better for your grip style. Sensor, polling rate, and ergonomics all compared.
+    link: "https://pickly.blog/en/articles/best-gaming-mouse-2026/"
+    image_alt: "Best gaming mouse 2026 comparison"
+    hashtags: ["gaming", "mouse", "pcgaming", "esports", "peripherals"]
+
+  - pin_id: best-gaming-mouse-2026-en-02
+    article_slug: best-gaming-mouse-2026
+    locale: en
+    variant: top1
+    title: "The gaming mouse that won 2026 for most players"
+    description: |
+      Razer DeathAdder V3 at ~¥8,000 beats mice twice the price for most grip styles. 59g, Focus Pro 30K sensor, ergonomic right-hand shape refined over 20 years. The G Pro X Superlight 2 is technically superior — but at 2.5× the cost for gains most players won't notice.
+    link: "https://pickly.blog/en/articles/best-gaming-mouse-2026/"
+    image_alt: "Razer DeathAdder V3 top pick 2026"
+    hashtags: ["gaming", "razer", "mouse", "pcgaming", "esports"]
+
+  - pin_id: best-gaming-mouse-2026-en-03
+    article_slug: best-gaming-mouse-2026
+    locale: en
+    variant: problem
+    title: "Your gaming mouse is probably hurting your aim (and it's not the sensor)"
+    description: |
+      Most gaming mouse problems aren't sensor accuracy — they're grip fit. A claw gripper using a palm-optimized mouse loses more points than a sensor downgrade would. We break down which grip style matches which mouse shape so you stop blaming your aim on specs.
+    link: "https://pickly.blog/en/articles/best-gaming-mouse-2026/"
+    image_alt: "Gaming mouse grip style guide"
+    hashtags: ["gaming", "pcgaming", "esports", "aim", "mousesetup"]
+
+  - pin_id: best-gaming-mouse-2026-en-04
+    article_slug: best-gaming-mouse-2026
+    locale: en
+    variant: budget
+    title: "The ¥8,000 gaming mouse that competes with ¥20,000 options"
+    description: |
+      Razer DeathAdder V3 and Elecom HUGE EX both land at ~¥8,000. The DeathAdder wins for FPS. HUGE EX wins for ergonomic comfort during long work sessions in Japan. Both sensors outperform the hardware in most ¥5,000 mice. You don't need to spend more unless you're chasing 2000Hz polling.
+    link: "https://pickly.blog/en/articles/best-gaming-mouse-2026/"
+    image_alt: "Budget gaming mouse picks 2026"
+    hashtags: ["gaming", "budgetsetup", "pcgaming", "mouse", "desksetup"]
+
+  - pin_id: best-gaming-mouse-2026-en-05
+    article_slug: best-gaming-mouse-2026
+    locale: en
+    variant: avoid
+    title: "Gaming mouse specs that sound impressive but barely matter"
+    description: |
+      25,600 DPI sounds better than 3,200 DPI but no human plays at 25K DPI. 2000Hz polling rate is real but only perceptible below 5ms system latency. RGB adds weight. We list the specs that marketing over-indexes on versus what actually changes how your crosshair moves.
+    link: "https://pickly.blog/en/articles/best-gaming-mouse-2026/"
+    image_alt: "Gaming mouse spec myths debunked"
+    hashtags: ["gaming", "pcgaming", "esports", "techreview", "gamingtips"]
+
+  - pin_id: best-gaming-mouse-2026-en-06
+    article_slug: best-gaming-mouse-2026
+    locale: en
+    variant: scene
+    title: "Work-from-home desk setup with one mouse that does both"
+    description: |
+      MX Master 3S is the answer when you switch between a work laptop and gaming rig. MagSpeed scroll, 8000 DPI, Bluetooth + USB, Flow cross-computer control. Not a true gaming mouse — but beats any office mouse and covers 90% of casual gaming. One mouse, two monitors, zero dongles lost.
+    link: "https://pickly.blog/en/articles/best-gaming-mouse-2026/"
+    image_alt: "MX Master 3S desk setup"
+    hashtags: ["desksetup", "wfh", "productivity", "logicool", "gaming"]
+
+  - pin_id: best-gaming-mouse-2026-ja-01
+    article_slug: best-gaming-mouse-2026
+    locale: ja
+    variant: comparison
+    title: "ゲーミングマウス2026：G Pro X Superlight 2 vs DeathAdder V3 vs MX Master 3S"
+    description: |
+      60gの超軽量G Pro X Superlight 2と59gのDeathAdder V3、作業兼用MX Master 3Sを比較。マウスはどんどん軽くなっているけど、軽さだけが正解じゃない。センサー、ポーリングレート、グリップ形状ぜんぶ比べました◎
+    link: "https://pickly.blog/ja/articles/best-gaming-mouse-2026/"
+    image_alt: "ゲーミングマウス 2026年比較"
+    hashtags: ["ゲーミングマウス", "PCゲーム", "デスクトップゲーミング", "eスポーツ", "周辺機器"]
+
+  - pin_id: best-gaming-mouse-2026-ja-02
+    article_slug: best-gaming-mouse-2026
+    locale: ja
+    variant: top1
+    title: "2026年、ほとんどのゲーマーに選ばれたゲーミングマウス"
+    description: |
+      約8,000円のRazer DeathAdder V3が2倍の値段のマウスより多くのグリップスタイルで上回った。59g、Focus Pro 30Kセンサー、20年かけて磨いた右手専用エルゴノミクス。G Pro X Superlight 2は技術的に上だけど、ほとんどの人には違いを感じられないコスト差がある。
+    link: "https://pickly.blog/ja/articles/best-gaming-mouse-2026/"
+    image_alt: "Razer DeathAdder V3 2026年1位"
+    hashtags: ["ゲーミングマウス", "Razer", "PCゲーム", "eスポーツ", "デバイス選び"]
+
+  - pin_id: best-gaming-mouse-2026-ja-03
+    article_slug: best-gaming-mouse-2026
+    locale: ja
+    variant: problem
+    title: "エイムが上がらないのはセンサーじゃなくてグリップが合ってないから"
+    description: |
+      ゲーミングマウスの問題のほとんどはセンサー精度じゃなくてグリップとの相性。クロウグリップなのにパーム向けマウスを使うと、センサーをダウングレードするより成績が落ちる。どのグリップスタイルにどのマウス形状が合うか整理しました。
+    link: "https://pickly.blog/ja/articles/best-gaming-mouse-2026/"
+    image_alt: "ゲーミングマウス グリップガイド"
+    hashtags: ["ゲーミングマウス", "PCゲーム", "エイム", "グリップスタイル", "マウス選び"]
+
+  - pin_id: best-gaming-mouse-2026-ja-04
+    article_slug: best-gaming-mouse-2026
+    locale: ja
+    variant: budget
+    title: "2万円のマウスと戦える8,000円ゲーミングマウス"
+    description: |
+      Razer DeathAdder V3とエレコム HUGE EXがどちらも約8,000円。FPSならDeathAdder。長時間作業のエルゴノミクスならHUGE EX。どちらのセンサーも5,000円以下のマウスより高性能。2000Hzポーリングを狙わない限り高いマウスは必要ない。
+    link: "https://pickly.blog/ja/articles/best-gaming-mouse-2026/"
+    image_alt: "コスパゲーミングマウス2026"
+    hashtags: ["ゲーミングマウス", "コスパ", "PCゲーム", "デスクセットアップ", "おすすめ"]
+
+  - pin_id: best-gaming-mouse-2026-ja-05
+    article_slug: best-gaming-mouse-2026
+    locale: ja
+    variant: avoid
+    title: "すごそうに見えるゲーミングマウスの数字、実はほぼ関係ない"
+    description: |
+      25,600DPIは3,200DPIより良さそうに見えるけど、25,000DPIで操作する人間はいない。2000Hzポーリングレートは本物だが、体感できるのはシステム遅延5ms以下の環境のみ。RGBは重量を増やす。マーケティングが誇張しているスペックと実際に違いが出るものを整理。
+    link: "https://pickly.blog/ja/articles/best-gaming-mouse-2026/"
+    image_alt: "ゲーミングマウス スペック神話"
+    hashtags: ["ゲーミングマウス", "PCゲーム", "テックレビュー", "スペック", "ゲーミングtips"]
+
+  - pin_id: best-gaming-mouse-2026-ja-06
+    article_slug: best-gaming-mouse-2026
+    locale: ja
+    variant: scene
+    title: "仕事とゲームを1つのマウスでこなすデスクセットアップ"
+    description: |
+      ノートPCとゲーミングPCを行き来するならMX Master 3Sが答え。MagSpeedスクロール、8000DPI、Bluetooth＋USB、Flowでモニター間コントロール。純粋なゲーミングマウスではないけど、オフィスマウスより全然上でカジュアルゲームの9割はカバーできる。
+    link: "https://pickly.blog/ja/articles/best-gaming-mouse-2026/"
+    image_alt: "MX Master 3S デスクセットアップ"
+    hashtags: ["デスクセットアップ", "在宅勤務", "作業効率", "ロジクール", "ゲーミング"]
+
+  # =========================================================
+  # best-webcam-2026
+  # =========================================================
+  - pin_id: best-webcam-2026-en-01
+    article_slug: best-webcam-2026
+    locale: en
+    variant: comparison
+    title: "Best Webcam 2026: Brio 505 vs Facecam Pro vs PowerConf C200 tested"
+    description: |
+      We compared 1080p 60fps, 2K 30fps, and 4K 60fps webcams from Logitech, Elgato, Anker, Elecom, and Microsoft. From ¥5,000 USB-A basics to ¥42,000 streaming cameras — which resolution actually matters for your use case, and when is 4K just marketing?
+    link: "https://pickly.blog/en/articles/best-webcam-2026/"
+    image_alt: "Best webcam 2026 comparison"
+    hashtags: ["webcam", "streaming", "workfromhome", "wfh", "setup"]
+
+  - pin_id: best-webcam-2026-en-02
+    article_slug: best-webcam-2026
+    locale: en
+    variant: top1
+    title: "The webcam that won 2026 for most remote workers"
+    description: |
+      Logitech Brio 505 at ~¥18,000 hits the sweet spot: 1080p 60fps, AI auto-framing that actually works, Show Mode for document sharing, USB-C, and dual mics. Not 4K — but 4K webcam bandwidth requirements make it impractical for most connections anyway. Brio 505 is the sensible upgrade.
+    link: "https://pickly.blog/en/articles/best-webcam-2026/"
+    image_alt: "Logitech Brio 505 top pick 2026"
+    hashtags: ["webcam", "logitech", "workfromhome", "wfh", "remotework"]
+
+  - pin_id: best-webcam-2026-en-03
+    article_slug: best-webcam-2026
+    locale: en
+    variant: problem
+    title: "Your webcam looks bad on calls and it's probably not the camera"
+    description: |
+      Bad webcam quality on calls is usually lighting, not hardware. A ¥5,000 webcam with a ring light behind you beats a ¥42,000 camera in a dim room. We explain the environment factors that matter more than specs before you spend money on a camera upgrade.
+    link: "https://pickly.blog/en/articles/best-webcam-2026/"
+    image_alt: "Why webcam looks bad on calls"
+    hashtags: ["webcam", "wfh", "remotework", "videocall", "lighting"]
+
+  - pin_id: best-webcam-2026-en-04
+    article_slug: best-webcam-2026
+    locale: en
+    variant: budget
+    title: "The ¥5,000 webcam that's better than your laptop camera"
+    description: |
+      Elecom UCAM-CZ30FBKF at ~¥5,000 beats every built-in laptop webcam. 1080p 30fps, built-in mic, USB-A plug-and-play. No drivers, no app, just better video. If you're still using a 720p laptop cam for calls, this is the fastest upgrade you can make.
+    link: "https://pickly.blog/en/articles/best-webcam-2026/"
+    image_alt: "Budget webcam Elecom 2026"
+    hashtags: ["webcam", "budget", "wfh", "remotework", "homeoffice"]
+
+  - pin_id: best-webcam-2026-en-05
+    article_slug: best-webcam-2026
+    locale: en
+    variant: avoid
+    title: "4K webcam claims that don't survive a real Zoom call"
+    description: |
+      A 4K webcam requires 20Mbps+ upload to stream at full resolution. Most home connections throttle video calls below 4K anyway. We tested what Zoom and Teams actually receive from 4K cameras vs 1080p cameras — the difference is smaller than the price difference suggests.
+    link: "https://pickly.blog/en/articles/best-webcam-2026/"
+    image_alt: "4K webcam myths for video calls"
+    hashtags: ["webcam", "techreview", "zoom", "remotework", "wfh"]
+
+  - pin_id: best-webcam-2026-en-06
+    article_slug: best-webcam-2026
+    locale: en
+    variant: scene
+    title: "Streaming setup under ¥50,000: webcam, lighting, mic picked together"
+    description: |
+      Elgato Facecam Pro (¥42,000) + Elgato Key Light + external mic is the full streaming stack when video quality matters. Sony STARVIS 2 sensor handles dark rooms. No built-in mic by design — it assumes you're using a proper mic. The Camera Hub software only runs on Windows/Mac.
+    link: "https://pickly.blog/en/articles/best-webcam-2026/"
+    image_alt: "Streaming webcam setup 2026"
+    hashtags: ["streaming", "webcam", "elgato", "streamsetup", "content"]
+
+  - pin_id: best-webcam-2026-ja-01
+    article_slug: best-webcam-2026
+    locale: ja
+    variant: comparison
+    title: "Webカメラ2026：Brio 505 vs Facecam Pro vs PowerConf C200 徹底比較"
+    description: |
+      1080p 60fps、2K 30fps、4K 60fpsのWebカメラを比べました。ロジクール、Elgato、Anker、エレコム、マイクロソフトから5製品。5,000円のUSB-Aシンプルモデルから42,000円のストリーミングカメラまで、用途に合った解像度はどれ？
+    link: "https://pickly.blog/ja/articles/best-webcam-2026/"
+    image_alt: "Webカメラ 2026年比較"
+    hashtags: ["Webカメラ", "テレワーク", "在宅勤務", "配信", "デスクセットアップ"]
+
+  - pin_id: best-webcam-2026-ja-02
+    article_slug: best-webcam-2026
+    locale: ja
+    variant: top1
+    title: "2026年、テレワーカーに一番選ばれたWebカメラ"
+    description: |
+      ロジクール Brio 505（約18,000円）がコスパと機能のバランスで1位。1080p 60fps、実用的なAI自動フレーミング、書類共有に便利なShow Mode、USB-C、デュアルマイク。4Kじゃないけど、そもそも4K配信できる回線環境の人の方が少ない。
+    link: "https://pickly.blog/ja/articles/best-webcam-2026/"
+    image_alt: "ロジクール Brio 505 2026年1位"
+    hashtags: ["Webカメラ", "ロジクール", "テレワーク", "在宅勤務", "おすすめ"]
+
+  - pin_id: best-webcam-2026-ja-03
+    article_slug: best-webcam-2026
+    locale: ja
+    variant: problem
+    title: "ビデオ会議で映りが悪い原因はカメラじゃなくて照明かも"
+    description: |
+      Web会議の映り悪さはほとんど照明の問題。5,000円のWebカメラ＋リングライトは暗い部屋の42,000円カメラに勝る。カメラを買い替える前に改善すべき環境要因を整理しました。
+    link: "https://pickly.blog/ja/articles/best-webcam-2026/"
+    image_alt: "ビデオ会議 映り改善ガイド"
+    hashtags: ["Webカメラ", "テレワーク", "ビデオ会議", "照明", "在宅勤務"]
+
+  - pin_id: best-webcam-2026-ja-04
+    article_slug: best-webcam-2026
+    locale: ja
+    variant: budget
+    title: "ノートPC内蔵カメラより確実に良い5,000円Webカメラ"
+    description: |
+      エレコム UCAM-CZ30FBKF（約5,000円）はすべてのノートPC内蔵カメラに勝る。1080p 30fps、マイク内蔵、USB-A差し込むだけ。ドライバ不要、アプリ不要、ただ映りが良くなる。720pの内蔵カメラで会議してるなら最速のアップグレード。
+    link: "https://pickly.blog/ja/articles/best-webcam-2026/"
+    image_alt: "エレコム コスパWebカメラ 2026"
+    hashtags: ["Webカメラ", "コスパ", "テレワーク", "在宅勤務", "エレコム"]
+
+  - pin_id: best-webcam-2026-ja-05
+    article_slug: best-webcam-2026
+    locale: ja
+    variant: avoid
+    title: "4K Webカメラ、実際のZoom会議では意味がないことが多い理由"
+    description: |
+      4K Webカメラはフル解像度で配信するためにアップロード20Mbps以上が必要。ほとんどの家庭回線はビデオ通話を4K以下に制限する。ZoomとTeamsが4Kカメラから実際に受け取っているものをテストした結果、価格差ほどの差は出なかった。
+    link: "https://pickly.blog/ja/articles/best-webcam-2026/"
+    image_alt: "4K Webカメラ 注意点"
+    hashtags: ["Webカメラ", "テックレビュー", "Zoom", "テレワーク", "4K"]
+
+  - pin_id: best-webcam-2026-ja-06
+    article_slug: best-webcam-2026
+    locale: ja
+    variant: scene
+    title: "5万円以下で揃えるストリーミング配信セット：カメラ・照明・マイク"
+    description: |
+      Elgato Facecam Pro（42,000円）＋Key Light＋外部マイクが映像クオリティにこだわる配信スタック。Sony STARVIS 2センサーで暗室でも撮れる。マイク内蔵なし（ちゃんとしたマイクを使う前提の設計）。Camera HubはWindows/Mac専用。
+    link: "https://pickly.blog/ja/articles/best-webcam-2026/"
+    image_alt: "ストリーミング配信セット 2026"
+    hashtags: ["配信", "Webカメラ", "Elgato", "ストリーマー", "デスクセットアップ"]
+
+  # =========================================================
+  # best-electric-shaver-2026
+  # =========================================================
+  - pin_id: best-electric-shaver-2026-en-01
+    article_slug: best-electric-shaver-2026
+    locale: en
+    variant: comparison
+    title: "Best Electric Shaver 2026: Philips 9000 Prestige vs Braun Series 9 vs Panasonic ラムダッシュ"
+    description: |
+      Rotary vs foil, ¥20,000 vs ¥50,000, wet vs dry — we compared five electric shavers across blade count, close shave score, skin irritation, and annual replacement cost. Philips SenseIQ adapts to beard density but Braun's foil cuts flatter areas closer. Which system suits your face?
+    link: "https://pickly.blog/en/articles/best-electric-shaver-2026/"
+    image_alt: "Best electric shaver 2026 comparison"
+    hashtags: ["electricshaver", "grooming", "mencare", "shaving", "skincare"]
+
+  - pin_id: best-electric-shaver-2026-en-02
+    article_slug: best-electric-shaver-2026
+    locale: en
+    variant: top1
+    title: "The electric shaver that won 2026 for most users"
+    description: |
+      Braun Series 7 71-S7200cc at ~¥25,000 beats models twice the price for the majority of face shapes. AutoSense adjusts power, Clean&Charge station handles maintenance, and 5 Comfort Elements handle beard density variation. It lacks the SenseIQ prestige — but most users won't notice.
+    link: "https://pickly.blog/en/articles/best-electric-shaver-2026/"
+    image_alt: "Braun Series 7 top pick 2026"
+    hashtags: ["electricshaver", "braun", "grooming", "mencare", "shaving"]
+
+  - pin_id: best-electric-shaver-2026-en-03
+    article_slug: best-electric-shaver-2026
+    locale: en
+    variant: problem
+    title: "Why your electric shaver irritates your skin (and how to fix it)"
+    description: |
+      Most shaver skin irritation comes from wrong technique: pressing too hard, shaving against the direction of growth, using a dried-out shaver head. Foil shavers generally cause less irritation on flat areas; rotary on contours. We break down what actually causes razor burn with electrics.
+    link: "https://pickly.blog/en/articles/best-electric-shaver-2026/"
+    image_alt: "Electric shaver skin irritation guide"
+    hashtags: ["electricshaver", "skincare", "grooming", "mencare", "shaving"]
+
+  - pin_id: best-electric-shaver-2026-en-04
+    article_slug: best-electric-shaver-2026
+    locale: en
+    variant: budget
+    title: "The ¥20,000 electric shaver that punches above its price"
+    description: |
+      Philips Series 5000 SP5588 at ~¥20,000 offers wet/dry use, AquaTouch certification, and quick-dry heads. It lacks SenseIQ and the 360-degree head of the Series 9000, but for people who shave in the shower, the waterproof-first design is worth more than the premium sensor upgrade.
+    link: "https://pickly.blog/en/articles/best-electric-shaver-2026/"
+    image_alt: "Budget electric shaver Philips Series 5000"
+    hashtags: ["electricshaver", "philips", "grooming", "budget", "mencare"]
+
+  - pin_id: best-electric-shaver-2026-en-05
+    article_slug: best-electric-shaver-2026
+    locale: en
+    variant: avoid
+    title: "Electric shaver replacement blade costs nobody tells you about"
+    description: |
+      The ¥25,000 shaver has ¥8,000-12,000 replacement heads every 18 months. Over 5 years, blades cost more than the original shaver. We calculate total cost of ownership for all 5 shavers including cleaning cartridges for Clean&Charge stations. The cheapest upfront model isn't always cheapest to run.
+    link: "https://pickly.blog/en/articles/best-electric-shaver-2026/"
+    image_alt: "Electric shaver total cost of ownership"
+    hashtags: ["electricshaver", "grooming", "moneysaving", "mencare", "shaving"]
+
+  - pin_id: best-electric-shaver-2026-en-06
+    article_slug: best-electric-shaver-2026
+    locale: en
+    variant: scene
+    title: "Travel grooming kit: the electric shaver that works worldwide"
+    description: |
+      Philips Series 9000 Prestige is the only shaver here with worldwide voltage (100-240V) built-in. No voltage converter needed in the US, Europe, or Asia. At ¥50,000 it's expensive, but frequent international travelers factor in the cost of damaged travel converters and missed morning meetings.
+    link: "https://pickly.blog/en/articles/best-electric-shaver-2026/"
+    image_alt: "Travel electric shaver worldwide voltage"
+    hashtags: ["travel", "grooming", "electricshaver", "mencare", "businesstravel"]
+
+  - pin_id: best-electric-shaver-2026-ja-01
+    article_slug: best-electric-shaver-2026
+    locale: ja
+    variant: comparison
+    title: "電気シェーバー2026：フィリップス9000 vs ブラウン9 vs ラムダッシュ 比較"
+    description: |
+      回転式vs往復式、2万円vs5万円、ウェット/ドライ — 5製品を剃り残し・肌刺激・替刃の年間コストで比較。フィリップスSenseIQはひげ密度に自動適応するけど、ブラウンは平坦部位の密着感が高い。どっちが自分の顔に合う？
+    link: "https://pickly.blog/ja/articles/best-electric-shaver-2026/"
+    image_alt: "電気シェーバー 2026年比較"
+    hashtags: ["電気シェーバー", "メンズグルーミング", "シェービング", "フィリップス", "ブラウン"]
+
+  - pin_id: best-electric-shaver-2026-ja-02
+    article_slug: best-electric-shaver-2026
+    locale: ja
+    variant: top1
+    title: "2026年、ほとんどの人に選ばれた電気シェーバー"
+    description: |
+      ブラウン シリーズ7 71-S7200cc（約25,000円）が2倍の価格のモデルに勝った。AutoSenseがひげ密度に自動調整、Clean&Chargeステーションでメンテも楽、5つのコンフォートエレメント搭載。SenseIQの高級感はないけど、ほとんどの顔には違いは分からない。
+    link: "https://pickly.blog/ja/articles/best-electric-shaver-2026/"
+    image_alt: "ブラウン シリーズ7 2026年1位"
+    hashtags: ["電気シェーバー", "ブラウン", "メンズグルーミング", "シェービング", "おすすめ"]
+
+  - pin_id: best-electric-shaver-2026-ja-03
+    article_slug: best-electric-shaver-2026
+    locale: ja
+    variant: problem
+    title: "電気シェーバーで肌荒れする本当の原因と対処法"
+    description: |
+      電気シェーバーの肌荒れのほとんどは間違った使い方が原因。強く押しつける、ひげの流れに逆らって剃る、ヘッドが乾燥した状態で使う。往復式は平坦部位で、回転式は輪郭で肌刺激が少ない傾向。電動カミソリ負けの本当の原因を解説。
+    link: "https://pickly.blog/ja/articles/best-electric-shaver-2026/"
+    image_alt: "電気シェーバー 肌荒れ対策"
+    hashtags: ["電気シェーバー", "スキンケア", "メンズグルーミング", "シェービング", "肌荒れ"]
+
+  - pin_id: best-electric-shaver-2026-ja-04
+    article_slug: best-electric-shaver-2026
+    locale: ja
+    variant: budget
+    title: "価格以上の仕事をする2万円電気シェーバー"
+    description: |
+      フィリップス シリーズ5000 SP5588（約20,000円）はウェット/ドライ両用、AquaTouch防水認定、速乾ヘッド搭載。SenseIQとシリーズ9000の360度追従ヘッドはないが、お風呂シェーバーが欲しい人には防水設計の方がプレミアムセンサーより価値がある。
+    link: "https://pickly.blog/ja/articles/best-electric-shaver-2026/"
+    image_alt: "コスパ電気シェーバー フィリップス5000"
+    hashtags: ["電気シェーバー", "フィリップス", "コスパ", "グルーミング", "おすすめ"]
+
+  - pin_id: best-electric-shaver-2026-ja-05
+    article_slug: best-electric-shaver-2026
+    locale: ja
+    variant: avoid
+    title: "誰も教えてくれない電気シェーバーの替刃コスト"
+    description: |
+      25,000円のシェーバーの替えヘッドは18ヶ月ごとに8,000〜12,000円。5年間の総コストは本体代より替刃代が高くなる。Clean&Chargeステーションのクリーニングカートリッジ代も含めた総所有コストを5製品で計算した。安い本体が必ずしも安く済むとは限らない。
+    link: "https://pickly.blog/ja/articles/best-electric-shaver-2026/"
+    image_alt: "電気シェーバー 総所有コスト比較"
+    hashtags: ["電気シェーバー", "グルーミング", "節約", "メンズケア", "シェービング"]
+
+  - pin_id: best-electric-shaver-2026-ja-06
+    article_slug: best-electric-shaver-2026
+    locale: ja
+    variant: scene
+    title: "海外出張に持っていける電気シェーバー：世界電圧対応モデル"
+    description: |
+      フィリップス シリーズ9000 プレステージだけが内蔵で100-240V世界対応。米国・欧州・アジアで変圧器不要。50,000円は高いが、海外出張が多い人は変圧器の故障コストと出張当日の朝を台無しにするリスクも計算に入れる必要がある。
+    link: "https://pickly.blog/ja/articles/best-electric-shaver-2026/"
+    image_alt: "海外対応電気シェーバー 出張用"
+    hashtags: ["出張", "電気シェーバー", "グルーミング", "メンズケア", "海外旅行"]

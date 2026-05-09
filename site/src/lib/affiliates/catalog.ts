@@ -306,6 +306,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-oclean-x-pro-elite", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOclean%2BX%2BPro%2B%E9%9B%BB%E5%8B%95%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Beauty / Electric Shavers (best-electric-shaver-2026) ─────────
+  {
+    id: "philips-series-9000-prestige",
+    category: "beauty",
+    badge: "top-pick",
+    name: { en: "Philips Series 9000 Prestige SP9883", ja: "フィリップス シリーズ9000 プレステージ SP9883" },
+    description: {
+      en: "~¥50,000 premium rotary shaver. SenseIQ adapts to beard density 125 times per second, 360-degree contour following, wet/dry use, worldwide voltage. Explicit weakness: ¥50,000 is expensive; rotary shaves less close than foil on flat skin areas; round heads harder to clean manually.",
+      ja: "約5万円のプレミアム回転式シェーバー。SenseIQがひげ密度を1秒125回読み取り自動適応、360度追従、ウェット/ドライ両用、世界対応電圧。弱点：5万円は高額、平坦部位の剃り残しは往復式に劣る、手動洗浄がしにくい形状。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-philips-series-9000-prestige", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2BSP9883%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "braun-series-9-pro-plus",
+    category: "beauty",
+    badge: "best-foil",
+    name: { en: "Braun Series 9 Pro+ 9565cc", ja: "ブラウン シリーズ9 Pro+ 9565cc" },
+    description: {
+      en: "~¥45,000 top-tier foil shaver. Five shaving elements, ProLift for flat-lying hairs, AutoSense motor, Clean&Charge station included. Explicit weakness: ongoing cartridge costs; foil struggles on reverse-grain necks.",
+      ja: "約4万5千円の最上位往復式シェーバー。5刃要素、寝たひげ対応ProLift、AutoSenseモーター、クリーン&チャージ付属。弱点：カートリッジ継続費用；逆生えのネック部に弱い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-braun-series-9-pro-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%2B9565cc%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-lamdash-es-ls9a",
+    category: "beauty",
+    badge: "japan-pick",
+    name: { en: "Panasonic ラムダッシュ ES-LS9A", ja: "パナソニック ラムダッシュ ES-LS9A" },
+    description: {
+      en: "~¥35,000 Japan market No.1 electric shaver. Five-blade foil, skincare mode for sensitive skin, parts available at every major Japan electronics retailer. Explicit weakness: no adaptive motor intelligence; lacks ProLift for flat-lying hairs.",
+      ja: "約3万5千円の日本市場No.1電動シェーバー。5枚刃フォイル、肌ケアモード、全国家電量販店で部品入手可。弱点：適応モーター制御なし；寝たひげ対応のProLift相当なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-panasonic-lamdash-es-ls9a", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2BES-LS9A%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "philips-series-5000-sp5588",
+    category: "beauty",
+    badge: "budget-pick",
+    name: { en: "Philips Series 5000 SP5588", ja: "フィリップス シリーズ5000 SP5588" },
+    description: {
+      en: "~¥20,000 AquaTouch wet-dry rotary shaver. Foam/gel certified, quick-dry design, SH52/SH53 replacement heads at ¥3,500–5,000/year. Explicit weakness: no SenseIQ; two-head rotary less capable on complex contours; no clean-and-charge option.",
+      ja: "約2万円のAquaTouchウェット/ドライ回転式シェーバー。フォーム・ジェル対応、速乾設計、年間替刃費用3,500〜5,000円。弱点：SenseIQなし；2ヘッドで複雑輪郭への追従性が劣る；クリーンスタンドなし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-philips-series-5000-sp5588", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2BSP5588%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "braun-series-7-71-s7200cc",
+    category: "beauty",
+    badge: "value-pick",
+    name: { en: "Braun Series 7 71-S7200cc", ja: "ブラウン シリーズ7 71-S7200cc" },
+    description: {
+      en: "~¥25,000 AutoSense foil shaver with Clean&Charge station included. Four shaving elements, motor adapts to beard resistance. Explicit weakness: no ProLift for flat-lying hairs; cartridge costs apply; noticeable step-down from Series 9 on dense beards.",
+      ja: "約2万5千円のAutoSense往復式シェーバー、クリーン&チャージ付属。4刃要素でひげ密度に適応。弱点：寝たひげ対応ProLiftなし；カートリッジ費用加算；ひげ濃い人はシリーズ9との差を体感しやすい。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-braun-series-7-71-s7200cc", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%2BS7200cc%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Beauty / LED Face Masks (best-led-face-mask-2026) ─────────
   {
     id: "currentbody-skin-led",
@@ -2020,6 +2086,59 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-tiger-acc-a060", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTiger%2BACC-A060%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Home / Espresso Machines (best-espresso-machine-2026) ─────────
+  {
+    id: "delonghi-dedica-ec685",
+    category: "home",
+    badge: "☕",
+    name: { en: "De'Longhi Dedica EC685", ja: "デロンギ Dedica EC685" },
+    description: {
+      en: "25,000 yen slim semi-automatic entry point at 15 cm wide — the narrowest in this comparison. 15-bar pump, accepts ground coffee and ESE pods. Ships with pressurised basket that masks grind errors but limits shot quality ceiling; no built-in grinder.",
+      ja: "25,000円のスリム半自動エントリー、幅15cm — 本比較最小幅。15barポンプ、グラウンドコーヒーとESEポッド両対応。グラインドエラーを隠すが品質天井を制限する加圧式バスケット付属、内蔵グラインダーなし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-delonghi-dedica-ec685", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%2BDedica%2BEC685%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "breville-barista-express-bes870",
+    category: "home",
+    badge: "🔧",
+    name: { en: "Breville Barista Express BES870", ja: "ブレビル バリスタ エクスプレス BES870" },
+    description: {
+      en: "90,000 yen enthusiast semi-automatic with PID temperature control, 16-setting conical burr grinder, 54mm portafilter. Highest shot quality ceiling in this comparison when dialed in. Sold in Japan through Branca. Single boiler requires 30-45s wait between espresso and steam; 2-4 week dialing-in period.",
+      ja: "90,000円の愛好家向け半自動機、PID温度制御・16段階円錐バーグラインダー・54mmポルタフィルター搭載。ダイヤルイン時の本比較最高ショット品質。ブランカ経由で日本販売。シングルボイラーは抽出とスチームの切り替えに30-45秒待機、安定ショットまで2-4週間のダイヤルイン期間。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-breville-barista-express-bes870", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BBarista%2BExpress%2BBES870%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "delonghi-magnifica-s-ecam22110",
+    category: "home",
+    badge: "🤖",
+    name: { en: "De'Longhi Magnifica S ECAM22.110", ja: "デロンギ マグニフィカS ECAM22.110" },
+    description: {
+      en: "65,000 yen fully automatic bean-to-cup pick. One button press from whole beans to espresso shot. 7-setting grinder, manual Pannarello steam wand for milk drinks. Grinder runs at 75-78 dB; daily auto-rinse cycle on startup adds wait. De'Longhi Japan after-sales support strongest in this comparison.",
+      ja: "65,000円の全自動豆から1杯ピック。ホールビーンからエスプレッソショットまでワンボタン。7段階グラインダー、手動パナレロ スチームワンド付き。グラインダーは75-78dBで稼働、起動時の自動リンサイクルが待機を追加。デロンギ日本のアフターサービスが本比較最充実。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-delonghi-magnifica-s-ecam22110", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%2BMagnifica%2BS%2BECAM22%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "philips-series-2200-ep2220",
+    category: "home",
+    badge: "💧",
+    name: { en: "Philips Series 2200 EP2220/14", ja: "フィリップス シリーズ2200 EP2220/14" },
+    description: {
+      en: "45,000 yen compact fully automatic with AquaClean filter eliminating descaling when maintained. 12-setting ceramic grinder (quieter and cooler than steel burrs). No LatteGo automatic milk system — manual steam wand only. AquaClean cartridge replacement (1,500-2,000 yen every 2-3 months) replaces descaling as primary maintenance.",
+      ja: "45,000円のコンパクト全自動機、メンテ維持時にデスケーリング不要なAquaCleanフィルター付き。12段階セラミックグラインダー(スチールバーより静かで低温)。LatteGo自動ミルクシステムなし — 手動スチームワンドのみ。AquaCleanカートリッジ交換(¥1,500-2,000/2-3ヶ月)がデスケーリングに代わる主要メンテ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-philips-series-2200-ep2220", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2BEP2220%2F", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Home / Tea Kettles (best-tea-kettle-2026) ─────────
