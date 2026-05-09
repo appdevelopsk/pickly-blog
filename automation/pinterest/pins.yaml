@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 152 articles x 6 variants x 2 locales (en, ja) = 1824 pins (growing)
+# 154 articles x 6 variants x 2 locales (en, ja) = 1848 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -20668,3 +20668,267 @@ pins:
   link: "/ja/best-lifting-belt-2026"
   image_alt: "リフティングベルト 高重量デッドリフト パワーリフティング"
   hashtags: ["デッドリフト", "パワーリフティング", "リフティングベルト", "高重量トレーニング", "筋力アップ", "ジムライフ"]
+
+- id: pin-best-coffee-maker-2026-en-comparison
+  article_slug: best-coffee-maker-2026
+  locale: en
+  variant: comparison
+  board: food
+  title: "Best Coffee Makers 2026: Breville vs Moccamaster vs OXO"
+  description: "We tested 5 top drip coffee makers — here's how Breville, Moccamaster, OXO, Cuisinart, and Hamilton Beach compare on brew temperature, taste, and value."
+  link: "/en/best-coffee-maker-2026"
+  image_alt: "Best drip coffee makers 2026 comparison"
+  hashtags: ["coffeemaker", "dripCoffee", "Breville", "Moccamaster", "coffeelover", "morningcoffee"]
+
+- id: pin-best-coffee-maker-2026-en-top1
+  article_slug: best-coffee-maker-2026
+  locale: en
+  variant: top1
+  board: food
+  title: "Breville Precision Brewer: The Best Coffee Maker for Serious Home Brewers"
+  description: "SCAA-certified brew temperature, thermal carafe, and programmable bloom mode — the Breville Precision Brewer BDC450 hits every mark for specialty coffee at home."
+  link: "/en/best-coffee-maker-2026"
+  image_alt: "Breville Precision Brewer BDC450 review 2026"
+  hashtags: ["Breville", "coffeemaker", "specialtycoffee", "homecoffee", "SCAAcertified", "coffeegear"]
+
+- id: pin-best-coffee-maker-2026-en-problem
+  article_slug: best-coffee-maker-2026
+  locale: en
+  variant: problem
+  board: food
+  title: "Why Your Home Coffee Tastes Flat (Hint: Brew Temperature)"
+  description: "Most cheap coffee makers never hit 195–205°F — the sweet spot for extraction. Here's why it matters and which machines actually get it right."
+  link: "/en/best-coffee-maker-2026"
+  image_alt: "Coffee maker brew temperature extraction explained"
+  hashtags: ["coffeehacks", "brewtemperature", "coffeeextraction", "homecoffee", "coffeetips"]
+
+- id: pin-best-coffee-maker-2026-en-budget
+  article_slug: best-coffee-maker-2026
+  locale: en
+  variant: budget
+  board: food
+  title: "Best Budget Coffee Maker 2026: Hamilton Beach 12-Cup Under $30"
+  description: "The Hamilton Beach 49350 won't win taste tests against the Moccamaster, but for everyday office or family brewing, it delivers reliable results at a price hard to argue with."
+  link: "/en/best-coffee-maker-2026"
+  image_alt: "Hamilton Beach 49350 budget coffee maker 2026"
+  hashtags: ["budgetcoffee", "HamiltonBeach", "coffeemaker", "affordablegear", "morningcoffee"]
+
+- id: pin-best-coffee-maker-2026-en-avoid
+  article_slug: best-coffee-maker-2026
+  locale: en
+  variant: avoid
+  board: food
+  title: "3 Coffee Makers to Avoid in 2026 (Under-Temp Brewing)"
+  description: "These popular machines look great on Amazon but consistently brew 15–20°F below the recommended range. Weak coffee every morning isn't a beans problem."
+  link: "/en/best-coffee-maker-2026"
+  image_alt: "Coffee makers to avoid 2026 under temperature"
+  hashtags: ["coffeemaker", "coffeemistakes", "brewingtips", "homecoffee", "kitchenwarning"]
+
+- id: pin-best-coffee-maker-2026-en-scene
+  article_slug: best-coffee-maker-2026
+  locale: en
+  variant: scene
+  board: food
+  title: "6am, Good Coffee, No Fuss — The Right Machine Makes It Automatic"
+  description: "Programmable, SCAA-certified, thermal carafe — our 2026 picks for drip coffee makers that deliver a genuinely good cup every single morning."
+  link: "/en/best-coffee-maker-2026"
+  image_alt: "Drip coffee maker morning routine 2026"
+  hashtags: ["morningcoffee", "coffeeroutine", "coffeemaker", "homecafe", "dripCoffee", "coffeelover"]
+
+- id: pin-best-coffee-maker-2026-ja-comparison
+  article_slug: best-coffee-maker-2026
+  locale: ja
+  variant: comparison
+  board: food
+  title: "コーヒーメーカー2026年比較：Breville vs モカマスター vs OXO"
+  description: "5機種を徹底比較。抽出温度・味・コスパでBreville、モカマスター、OXO、Cuisinart、ハミルトンビーチを正直評価。"
+  link: "/ja/best-coffee-maker-2026"
+  image_alt: "ドリップコーヒーメーカー2026年比較"
+  hashtags: ["コーヒーメーカー", "ドリップコーヒー", "Breville", "モカマスター", "コーヒー好き", "朝のコーヒー"]
+
+- id: pin-best-coffee-maker-2026-ja-top1
+  article_slug: best-coffee-maker-2026
+  locale: ja
+  variant: top1
+  board: food
+  title: "Breville プレシジョンブリュワー：本気のホームブリューワーに最適"
+  description: "SCAA認定の抽出温度、サーマルカラフェ、プログラマブルブルームモード——Breville BDC450はスペシャルティコーヒーをご家庭でという夢を現実にします。"
+  link: "/ja/best-coffee-maker-2026"
+  image_alt: "Breville プレシジョンブリュワー BDC450 レビュー2026"
+  hashtags: ["Breville", "コーヒーメーカー", "スペシャルティコーヒー", "ホームカフェ", "SCAA認定"]
+
+- id: pin-best-coffee-maker-2026-ja-problem
+  article_slug: best-coffee-maker-2026
+  locale: ja
+  variant: problem
+  board: food
+  title: "家のコーヒーが薄く感じる原因は抽出温度かもしれません"
+  description: "安いコーヒーメーカーの多くは理想温度（93〜96℃）に達しない。なぜ温度が味を左右するのか、正しく抽出できる機種を解説。"
+  link: "/ja/best-coffee-maker-2026"
+  image_alt: "コーヒーメーカー 抽出温度 薄い原因と対策"
+  hashtags: ["コーヒーのコツ", "抽出温度", "コーヒー抽出", "ホームコーヒー", "コーヒー豆知識"]
+
+- id: pin-best-coffee-maker-2026-ja-budget
+  article_slug: best-coffee-maker-2026
+  locale: ja
+  variant: budget
+  board: food
+  title: "コスパ最強コーヒーメーカー2026：ハミルトンビーチ3000円以下"
+  description: "ハミルトンビーチ49350はモカマスターに勝てないが、毎日のオフィスや家族用には十分すぎる安定感。コスパだけで選ぶなら間違いなし。"
+  link: "/ja/best-coffee-maker-2026"
+  image_alt: "ハミルトンビーチ 49350 コスパ コーヒーメーカー2026"
+  hashtags: ["コスパコーヒー", "ハミルトンビーチ", "コーヒーメーカー", "お手頃家電", "朝のコーヒー"]
+
+- id: pin-best-coffee-maker-2026-ja-avoid
+  article_slug: best-coffee-maker-2026
+  locale: ja
+  variant: avoid
+  board: food
+  title: "2026年買ってはいけないコーヒーメーカー3選（低温抽出問題）"
+  description: "人気ランキング上位なのに推奨温度より5〜10℃低い機種が多い。毎朝薄いコーヒーが出るのは豆のせいじゃないかもしれません。"
+  link: "/ja/best-coffee-maker-2026"
+  image_alt: "買ってはいけないコーヒーメーカー2026 低温抽出"
+  hashtags: ["コーヒーメーカー", "失敗しない選び方", "抽出温度", "ホームコーヒー", "キッチン家電の選び方"]
+
+- id: pin-best-coffee-maker-2026-ja-scene
+  article_slug: best-coffee-maker-2026
+  locale: ja
+  variant: scene
+  board: food
+  title: "毎朝6時、手間なく本格コーヒーを飲むために"
+  description: "タイマー予約・SCAA認定・サーマルカラフェ——忙しい朝でも本物の味を届けるコーヒーメーカー2026年おすすめ5選。"
+  link: "/ja/best-coffee-maker-2026"
+  image_alt: "コーヒーメーカー 朝のルーティン 2026"
+  hashtags: ["朝のコーヒー", "コーヒールーティン", "コーヒーメーカー", "ホームカフェ", "ドリップコーヒー", "コーヒー好き"]
+
+- id: pin-best-gym-bag-2026-en-comparison
+  article_slug: best-gym-bag-2026
+  locale: en
+  variant: comparison
+  board: fitness
+  title: "Best Gym Bags 2026: Nike vs Under Armour vs Gymshark"
+  description: "We tested 5 top gym bags — comparing wet/dry separation, locker fit, strap comfort, and durability across Nike, Under Armour, Gymshark, Adidas, and Gold's Gym."
+  link: "/en/best-gym-bag-2026"
+  image_alt: "Best gym bags 2026 comparison"
+  hashtags: ["gymbag", "fitnessgear", "Nike", "UnderArmour", "Gymshark", "workoutgear"]
+
+- id: pin-best-gym-bag-2026-en-top1
+  article_slug: best-gym-bag-2026
+  locale: en
+  variant: top1
+  board: fitness
+  title: "Nike Brasilia 9.5: Still the Best All-Around Gym Bag in 2026"
+  description: "Dedicated shoe compartment, moisture-resistant base, and enough pockets to stay organized — the Nike Brasilia 9.5 Medium remains the benchmark for everyday gym bags."
+  link: "/en/best-gym-bag-2026"
+  image_alt: "Nike Brasilia 9.5 gym bag review 2026"
+  hashtags: ["Nike", "gymbag", "NikeBrasilia", "gymgear", "workoutessentials", "fitnesslife"]
+
+- id: pin-best-gym-bag-2026-en-problem
+  article_slug: best-gym-bag-2026
+  locale: en
+  variant: problem
+  board: fitness
+  title: "Wet Gym Clothes Stinking Up Your Bag? You Need Better Compartments"
+  description: "Mixing wet post-workout gear with clean clothes is a fast way to ruin both. Here's what to look for in wet/dry separation and which bags actually deliver it."
+  link: "/en/best-gym-bag-2026"
+  image_alt: "Gym bag wet dry compartment separation"
+  hashtags: ["gymbag", "gymhacks", "workoutgear", "fittips", "wetdrybag", "gymessentials"]
+
+- id: pin-best-gym-bag-2026-en-budget
+  article_slug: best-gym-bag-2026
+  locale: en
+  variant: budget
+  board: fitness
+  title: "Best Budget Gym Bag 2026: Adidas Defender 4 Under $35"
+  description: "The Adidas Defender 4 Small Duffel packs solid organization and a proven strap design into a price that makes owning two bags an easy call."
+  link: "/en/best-gym-bag-2026"
+  image_alt: "Adidas Defender 4 budget gym bag 2026"
+  hashtags: ["budgetgym", "Adidas", "gymbag", "affordablegear", "gymessentials"]
+
+- id: pin-best-gym-bag-2026-en-avoid
+  article_slug: best-gym-bag-2026
+  locale: en
+  variant: avoid
+  board: fitness
+  title: "3 Gym Bags to Avoid in 2026 (Zipper Failures After 3 Months)"
+  description: "Cheap gym bags look fine on day one — these models have consistent reports of zipper failure, strap detachment, and seam separation within a season."
+  link: "/en/best-gym-bag-2026"
+  image_alt: "Gym bags to avoid 2026 zipper failure warning"
+  hashtags: ["gymgear", "gymbag", "gearwarning", "fitnessgear", "qualitygear"]
+
+- id: pin-best-gym-bag-2026-en-scene
+  article_slug: best-gym-bag-2026
+  locale: en
+  variant: scene
+  board: fitness
+  title: "Train Hard, Pack Smart — Your Gym Bag Is Part of the System"
+  description: "The right gym bag keeps your gear organized, your locker neighbors happy, and your post-workout clothes separate. Our 2026 picks for every type of lifter."
+  link: "/en/best-gym-bag-2026"
+  image_alt: "Gym bag fitness routine 2026"
+  hashtags: ["gymlife", "gymbag", "fitnessmotivation", "workoutroutine", "gymgear", "fitnesslife"]
+
+- id: pin-best-gym-bag-2026-ja-comparison
+  article_slug: best-gym-bag-2026
+  locale: ja
+  variant: comparison
+  board: fitness
+  title: "ジムバッグ2026年比較：Nike vs Under Armour vs Gymshark"
+  description: "5製品を徹底比較。ウェット/ドライ収納、ロッカーサイズ対応、ストラップの快適さ、耐久性でNike、アンダーアーマー、Gymshark、アディダスを評価。"
+  link: "/ja/best-gym-bag-2026"
+  image_alt: "ジムバッグ2026年比較チャート"
+  hashtags: ["ジムバッグ", "フィットネスギア", "Nike", "アンダーアーマー", "Gymshark", "トレーニンググッズ"]
+
+- id: pin-best-gym-bag-2026-ja-top1
+  article_slug: best-gym-bag-2026
+  locale: ja
+  variant: top1
+  board: fitness
+  title: "Nike Brasilia 9.5：2026年も最強のオールラウンドジムバッグ"
+  description: "専用シューズポケット・防湿ベース・たっぷりポケット——Nike Brasilia 9.5 Mediumは毎日のジム通いの基準として今年も1位。"
+  link: "/ja/best-gym-bag-2026"
+  image_alt: "Nike Brasilia 9.5 ジムバッグ レビュー2026"
+  hashtags: ["Nike", "ジムバッグ", "ナイキブラジリア", "ジムグッズ", "トレーニング必需品", "フィットネスライフ"]
+
+- id: pin-best-gym-bag-2026-ja-problem
+  article_slug: best-gym-bag-2026
+  locale: ja
+  variant: problem
+  board: fitness
+  title: "トレーニング後の濡れた服でバッグが臭う？収納分離が解決します"
+  description: "汗で濡れたウェアをクリーンな服と混ぜるとどちらも台無し。ウェット/ドライ分離収納の選び方と実力のあるバッグを解説。"
+  link: "/ja/best-gym-bag-2026"
+  image_alt: "ジムバッグ ウェット ドライ 分離収納"
+  hashtags: ["ジムバッグ", "ジムハック", "トレーニンググッズ", "フィットネスのコツ", "濡れた服収納"]
+
+- id: pin-best-gym-bag-2026-ja-budget
+  article_slug: best-gym-bag-2026
+  locale: ja
+  variant: budget
+  board: fitness
+  title: "コスパ最強ジムバッグ2026：アディダス Defender 4が4000円台"
+  description: "アディダス Defender 4 Smallは使いやすい収納と信頼性の高いストラップを低価格で実現。2本買っても財布に余裕。"
+  link: "/ja/best-gym-bag-2026"
+  image_alt: "アディダス Defender 4 コスパ ジムバッグ2026"
+  hashtags: ["コスパジム", "アディダス", "ジムバッグ", "お手頃ギア", "ジム必需品"]
+
+- id: pin-best-gym-bag-2026-ja-avoid
+  article_slug: best-gym-bag-2026
+  locale: ja
+  variant: avoid
+  board: fitness
+  title: "3ヶ月でファスナーが壊れるジムバッグ3選（2026年要注意）"
+  description: "見た目は良くても数ヶ月でファスナー破損、ストラップ脱落、縫い目のほつれが報告されているモデルを正直にリスト。"
+  link: "/ja/best-gym-bag-2026"
+  image_alt: "買ってはいけないジムバッグ2026 ファスナー破損"
+  hashtags: ["ジムグッズ", "ジムバッグ", "器具選びの注意", "フィットネスギア", "品質チェック"]
+
+- id: pin-best-gym-bag-2026-ja-scene
+  article_slug: best-gym-bag-2026
+  locale: ja
+  variant: scene
+  board: fitness
+  title: "本気で鍛えるなら、バッグも本気で選ぶ"
+  description: "整理整頓・ロッカー対応・ウェット分離——ジムバッグはトレーニングシステムの一部。2026年すべてのリフタータイプ別おすすめ5選。"
+  link: "/ja/best-gym-bag-2026"
+  image_alt: "ジムバッグ フィットネスルーティン 2026"
+  hashtags: ["ジムライフ", "ジムバッグ", "フィットネスモチベーション", "トレーニングルーティン", "ジムグッズ", "フィットネスライフ"]
