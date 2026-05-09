@@ -5213,6 +5213,128 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-takeya-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E5%87%BA%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Home / Bath Mats (best-bath-mat-2026) ─────────
+  {
+    id: "townselect-diatomite-bath-mat",
+    category: "home",
+    name: { en: "Townselect Diatomite Bath Mat", ja: "珪藻土バスマット" },
+    description: {
+      en: "Natural diatomite stone, fast-drying, antimicrobial, no washing needed",
+      ja: "天然珪藻土、速乾性、抗菌、洗濯不要",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-diatomite-bath-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%8F%AA%E8%97%BB%E5%9C%9F%E3%83%90%E3%82%B9%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gorilla-grip-bath-mat",
+    category: "home",
+    name: { en: "Gorilla Grip Original Bath Mat", ja: "ゴリラグリップ バスマット" },
+    description: {
+      en: "Thick memory foam with suction-cup TPR backing for strong non-slip grip on tile",
+      ja: "吸盤TPRバッキング付き厚手メモリーフォーム、タイルでの強力な滑り止めグリップ",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-gorilla-grip-bath-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%90%E3%82%B9%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "utopia-towels-bath-mat",
+    category: "home",
+    name: { en: "Utopia Towels Bath Mat", ja: "ユートピアタオル バスマット" },
+    description: {
+      en: "Machine-washable cotton terry bath mat, value multi-pack, 400–450 GSM",
+      ja: "洗濯機洗い可能なコットンテリーバスマット、お得なマルチパック、400〜450 GSM",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cotton-bath-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%83%E3%83%88%E3%83%B3%E3%83%90%E3%82%B9%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hotel-collection-bath-rug",
+    category: "home",
+    name: { en: "Hotel Collection Bath Rug", ja: "ホテルコレクション バスラグ" },
+    description: {
+      en: "Premium plush micro-cotton terry at 600+ GSM, spa-quality softness, machine washable",
+      ja: "600 GSM以上のプレミアムプラッシュマイクロコットンテリー、スパ品質の柔らかさ、洗濯機洗い可能",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-premium-bath-rug", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%90%E3%82%B9%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "teak-bath-mat",
+    category: "home",
+    name: { en: "Teak Bath Mat", ja: "チーク バスマット" },
+    description: {
+      en: "Solid teak wood slats with drainage gaps, natural oil content inhibits mold, spa aesthetic",
+      ja: "排水ギャップ付き無垢チーク材スラット、天然オイル分がカビを抑制、スパ美観",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-teak-bath-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%BC%E3%82%AF%E3%83%90%E3%82%B9%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Kitchen Scales (best-kitchen-scale-2026) ─────────
+  {
+    id: "ohaus-scout-kitchen-scale",
+    category: "food",
+    name: { en: "Ohaus Scout Precision Kitchen Scale", ja: "オーハウス スカウト 精密キッチンスケール" },
+    description: {
+      en: "0.1g precision over 200g–6kg range, IP54 water resistance, configurable auto-off. Lab-grade load cell calibration for espresso dosing, French pastry, and supplement measurement.",
+      ja: "200g〜6kgで0.1g精度、IP54防水、オートオフ設定可能。エスプレッソのドーシング・フランス菓子・サプリメント計量向けラボグレード荷重セル校正。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ohaus-scout-kitchen-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "escali-primo-kitchen-scale",
+    category: "food",
+    name: { en: "Escali Primo Digital Kitchen Scale", ja: "エスカリ プリモ デジタルキッチンスケール" },
+    description: {
+      en: "5kg/11lb capacity, 1g resolution, lifetime warranty. The consistent recommendation from serious bread bakers for 15+ years — solid build quality that holds calibration over years of daily use.",
+      ja: "5kg/11lb容量、1g分解能、生涯保証。15年以上真剣なパン職人からの一貫した推薦——毎日使用で数年間校正を保つ確かなビルドクオリティ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-escali-primo-kitchen-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB+%E8%A8%88%E3%82%8A%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ozeri-pronto-kitchen-scale",
+    category: "food",
+    name: { en: "Ozeri Pronto Digital Multifunction Kitchen Scale", ja: "オゼリ プロント デジタル多機能キッチンスケール" },
+    description: {
+      en: "Under 1.5cm thin profile, 11kg maximum capacity, 1g resolution, 4 unit conversions. Stores flat in any drawer. 60–90 second auto-off suits quick measurements; too short for long baking sessions.",
+      ja: "1.5cm未満の薄型プロファイル、最大11kg容量、1g分解能、4単位変換。どの引き出しにも平らに収納できる。60〜90秒オートオフは素早い計量に適しているが、長いパン作りセッションには短すぎる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ozeri-pronto-kitchen-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB+%E8%96%84%E5%9E%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "etekcity-kitchen-scale",
+    category: "food",
+    name: { en: "Etekcity Digital Kitchen Scale", ja: "エテックシティ デジタルキッチンスケール" },
+    description: {
+      en: "Large 22cm × 17cm platform, 11kg capacity, 1g resolution. Tilted display readable with a wide mixing bowl on the platform. Best large-platform budget option.",
+      ja: "大型22cm×17cmプラットフォーム、11kg容量、1g分解能。幅広いミキシングボウルを置いたまま読めるよう傾いたディスプレイ。予算帯で最良の大プラットフォームオプション。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-etekcity-kitchen-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB+%E5%A4%A7%E5%9E%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "greater-goods-kitchen-scale",
+    category: "food",
+    name: { en: "Greater Goods Digital Kitchen Food Scale", ja: "グレーター・グッズ デジタルキッチンフードスケール" },
+    description: {
+      en: "4-minute auto-off (longest in consumer budget category), removable stainless steel platform for separate washing, 11kg capacity, 1g resolution. Charitable giving brand.",
+      ja: "4分オートオフ（家庭用予算カテゴリーで最長）、個別洗浄のための取り外し可能なステンレス台、11kg容量、1g分解能。慈善寄付ブランド。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-greater-goods-kitchen-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB+%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
