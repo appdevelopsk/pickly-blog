@@ -4903,6 +4903,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
   { id: "cetaphil-gentle-cleanser", category: "beauty", name: { en: "Cetaphil Gentle Skin Cleanser", ja: "セタフィル ジェントルクレンザー" }, description: { en: "70-year classic ultra-mild cleanser, fragrance-free.", ja: "70年のロングセラー超低刺激クレンザー。無香料。" }, links: [{ network: "moshimo", productId: "rakuten-cetaphil-gentle-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCetaphil+%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true }] },
   { id: "paulas-choice-foaming-cleanser", category: "beauty", name: { en: "Paula's Choice RESIST Foaming Cleanser", ja: "ポーラスチョイス フォーミングクレンザー" }, description: { en: "SLS-free foaming cleanser for oily and combination skin.", ja: "オイリー・混合肌向けSLSフリー泡洗顔料。" }, links: [{ network: "moshimo", productId: "rakuten-paulas-choice-foaming-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9D%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%81%E3%83%A7%E3%82%A4%E3%82%B9+%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true }] },
   { id: "tatcha-rice-wash", category: "beauty", name: { en: "Tatcha The Rice Wash", ja: "タッチャ ライスウォッシュ" }, description: { en: "Soft milky cleanser with rice bran for brightening.", ja: "米ぬか配合のやわらかミルク洗顔料。明るさ改善効果。" }, links: [{ network: "moshimo", productId: "rakuten-tatcha-rice-wash", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%83%E3%83%81%E3%83%A3+%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5%2F", markets: ["JP"], approved: true }] },
+  {
+    id: "soundasleep-dream-series",
+    category: "home",
+    name: { en: "SoundAsleep Dream Series Air Mattress", ja: "サウンドアスリープ ドリームシリーズ エアーマットレス" },
+    description: {
+      en: "Double-height air mattress with 40 ComfortCoil internal coils for even support across the sleeping surface. Built-in auto-pump inflates in under 4 minutes. The coil count is the highest in the mid-range category and makes the firmness more consistent than cheaper single-chamber alternatives.",
+      ja: "40本のComfortCoil内部コイルを搭載したダブルハイエアーマットレス。就寝面全体に均一なサポートを提供。内蔵オートポンプで4分以内に膨らむ。中価格帯でコイル数最多で、安価なシングルチャンバー製品より一貫した硬さを実現。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-soundasleep-dream-series", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSoundAsleep+Dream+Series+Air+Mattress%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "intex-dura-beam-deluxe",
+    category: "home",
+    name: { en: "Intex Dura-Beam Deluxe Air Mattress", ja: "インテックス デュラビーム デラックス エアーマットレス" },
+    description: {
+      en: "Budget-friendly air mattress with fiber-tech internal construction — thousands of polyester fibers connect the top and bottom layers, reducing the barrel-bulge that plagues basic air mattresses. Built-in electric pump. The most widely available air mattress in Japan through Rakuten and Amazon.",
+      ja: "ファイバーテック内部構造採用のコスパ重視エアーマットレス。数千本のポリエステル繊維が上下層を連結し、基本的なエアーマットレスに多い側面の膨らみを軽減。内蔵電動ポンプ付き。楽天・Amazonで最も流通量の多いエアーマットレス。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-intex-dura-beam-deluxe", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIntex+Dura-Beam+Deluxe+Air+Mattress%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "coleman-supportrest-plus",
+    category: "home",
+    name: { en: "Coleman SupportRest Plus Double-High Air Mattress", ja: "コールマン サポートレスト プラス ダブルハイ エアーマットレス" },
+    description: {
+      en: "Double-high guest air mattress from Coleman with a comfort-mapped sleeping surface. Raised height makes it easy to get in and out of. Coleman's brand recognition in Japan's outdoor market means this model is available in outdoor retailers alongside camping equipment, unusual for an indoor-use guest mattress.",
+      ja: "コンフォートマップ加工の就寝面を持つコールマンのダブルハイ来客用エアーマットレス。高さがあり乗り降りしやすい。日本のアウトドア市場でのコールマンのブランド認知度が高く、室内用来客マットレスとしては珍しくアウトドア用品店でも取り扱いがある。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-coleman-supportrest-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FColeman+SupportRest+Plus+Air+Mattress%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "king-koil-luxury-air-mattress",
+    category: "home",
+    name: { en: "King Koil Luxury Air Mattress", ja: "キングコイル ラグジュアリー エアーマットレス" },
+    description: {
+      en: "Hotel-grade air mattress with a built-in soft pillow top and integrated electric pump. The pillow top is stitched rather than glued and adds 5 cm of cushioning over the air chamber. Weight capacity rated at 500 lbs (227 kg), the highest in this comparison. Designed for couples or regular guest use.",
+      ja: "内蔵電動ポンプ付きのホテルグレードエアーマットレス。ソフトピロートップはステッチ加工（接着剤不使用）で、エアチャンバーの上に5cmのクッションを追加。耐荷重は227kg（500ポンド）で本比較中最高。カップルや常連ゲスト用途向け。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-king-koil-luxury-air-mattress", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKing+Koil+Luxury+Air+Mattress%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "alps-mountaineering-lightweight",
+    category: "home",
+    name: { en: "ALPS Mountaineering Lightweight Air Bed", ja: "アルプスマウンテニアリング ライトウェイト エアーベッド" },
+    description: {
+      en: "Camping-grade air mattress designed for outdoor use: lightweight PVC construction, manual valve system compatible with standard camping pumps, no electricity required. Rolls down to a compact carry bag. Weight is roughly half that of double-high indoor mattresses. Primary use case is tent camping where electrical outlets are unavailable.",
+      ja: "アウトドア向けキャンプグレードエアーマットレス。軽量PVC素材、標準キャンプポンプ対応の手動バルブシステム、電源不要。コンパクトな収納袋に収納可能。重量はダブルハイ室内マットレスのほぼ半分。電源がないテントキャンプが主な用途。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-alps-mountaineering-lightweight", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FALPS+Mountaineering+Lightweight+Air+Bed%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Protein Shakers (best-protein-shaker-2026) ─────────
+  { id: "blenderbottle-classic-v2", category: "fitness", name: { en: "BlenderBottle Classic V2 Shaker Bottle", ja: "BlenderBottle クラシック V2 シェイカーボトル" }, description: { en: "28oz wire whisk ball shaker with click-lock flip-top lid and smooth BPA-free polypropylene interior. Industry-standard design with 316 stainless steel BlenderBall. Top-rack dishwasher safe.", ja: "ワイヤーボール式28ozシェイカー。カチッとロックするフリップトップ蓋、BPA不使用スムーズ内面ポリプロピレン。316ステンレス製ブレンダーボール採用の業界標準設計。上段食洗機対応。" }, links: [{ network: "moshimo", productId: "rakuten-blenderbottle-classic-v2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBlenderBottle+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
+  { id: "hydra-cup-dual-shaker", category: "fitness", name: { en: "Hydra Cup Dual Shaker Bottle", ja: "Hydra Cup デュアルシェイカーボトル" }, description: { en: "Two full-size mixing cups in one unit — separate pre-workout and post-workout compartments, each with a wire whisk ball. For lifters who need both supplements on the same gym trip.", ja: "2つのフルサイズ混合カップが一体化。プレワークアウトとポストワークアウトを別コンパートメントに保管し、それぞれにワイヤーボール付き。同一セッションで両補給を行うリフター向け。" }, links: [{ network: "moshimo", productId: "rakuten-hydra-cup-dual-shaker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHydra+Cup+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
+  { id: "umoro-one-shaker", category: "fitness", name: { en: "Umoro One 2-in-1 Shaker Bottle", ja: "Umoro One 2-in-1 シェイカーボトル" }, description: { en: "Hidden water/supplement compartment built into the base — keeps the form factor of a standard single shaker while adding a ~150ml secondary chamber for pre-workout concentrate or dry creatine.", ja: "底部に隠し収納コンパートメントを内蔵。標準シェイカーに近いサイズを保ちながら、プレワークアウト濃縮液や乾燥クレアチン用に約150mlのセカンダリーチャンバーを追加。" }, links: [{ network: "moshimo", productId: "rakuten-umoro-one-shaker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUmoro+One+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
+  { id: "smartshake-original", category: "fitness", name: { en: "Smartshake Original Shaker Bottle", ja: "Smartshake オリジナル シェイカーボトル" }, description: { en: "Three-compartment shaker: 600ml main mixing cup with disc agitator, mid-section powder storage for one pre-measured serving, and a base pill compartment for 5-8 capsules. Modular design for supplement stacking.", ja: "3コンパートメント設計：600mlメインカップ（ディスクアジテーター）、計量済み1服分のパウダー収納、5〜8粒対応のピルコンパートメント。サプリメントスタッキング向けモジュラー設計。" }, links: [{ network: "moshimo", productId: "rakuten-smartshake-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSmartshake+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
+  { id: "contigo-shake-go", category: "fitness", name: { en: "Contigo Shake & Go Fit Shaker Bottle", ja: "Contigo シェイク＆ゴー フィット シェイカーボトル" }, description: { en: "Wide-base vortex-mixing design with no blender ball — autoseal push-button lid closes automatically after each drink. Stable counter mixing, no rattling between shakes. Full lid disassembly required before dishwasher cycling.", ja: "ワイドベース渦流混合設計でブレンダーボール不要。オートシールプッシュボタン蓋が飲む度に自動で閉まる。カウンター上でのシェイクに安定感あり、シェイク間にカチカチ音なし。食洗機前にフタの完全分解が必要。" }, links: [{ network: "moshimo", productId: "rakuten-contigo-shake-go", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FContigo+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
 ];
 
 /**
