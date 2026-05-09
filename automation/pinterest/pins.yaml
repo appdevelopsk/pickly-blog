@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 89 articles x 6 variants x 2 locales (en, ja) = 1076 pins (growing)
+# 91 articles x 6 variants x 2 locales (en, ja) = 1100 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -12052,3 +12052,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
     image_alt: "週末作り置き 容器システム 冷蔵庫 整理"
     hashtags: ["週末作り置き", "作り置き容器", "食材管理", "冷蔵庫 整理", "時短料理"]
+
+  # ── #90 best-portable-charger-2026 ──────────────────────────────────────
+  - pin_id: best-portable-charger-2026-en-01
+    article_slug: best-portable-charger-2026
+    locale: en
+    variant: comparison
+    title: "Best Portable Charger 2026: 5 Power Banks Compared"
+    description: |
+      Anker PowerCore Slim 10000 (186g, pocket-thin) vs Anker 737 (24,000mAh, 140W laptop charging) vs Baseus Adaman 65W vs Mophie Powerstation PD vs INIU 20W budget pick. mAh, wattage, and airline rules decoded — carry exactly what your trip demands.
+    link: "https://pickly.blog/en/articles/best-portable-charger-2026/"
+    image_alt: "5 portable chargers compared 2026 power bank lineup"
+    hashtags: ["PortableCharger", "PowerBank", "TechGear", "TravelTech", "ChargingEssentials"]
+
+  - pin_id: best-portable-charger-2026-en-02
+    article_slug: best-portable-charger-2026
+    locale: en
+    variant: top1
+    title: "Anker PowerCore Slim 10000: Best Everyday Portable Charger"
+    description: |
+      At 186g and jacket-pocket flat, the Anker PowerCore Slim 10000 is the go-to for daily commuters. 10,000mAh charges most smartphones 2× over. USB-C + USB-A, no bundle bloat. The 12W output is slower than modern fast chargers — fine for overnight or bag-charge, not last-minute top-ups.
+    link: "https://pickly.blog/en/articles/best-portable-charger-2026/"
+    image_alt: "Anker PowerCore Slim 10000 portable charger thin pocket"
+    hashtags: ["AnkerPowerCore", "PowerBank", "PortableCharger", "EDC", "TechEssentials"]
+
+  - pin_id: best-portable-charger-2026-en-03
+    article_slug: best-portable-charger-2026
+    locale: en
+    variant: problem
+    title: "Why Your Power Bank Ran Out Mid-Flight"
+    description: |
+      mAh ratings lie: a 20,000mAh pack only delivers ~14,000mAh due to voltage conversion losses. USB-A ports cut wattage silently. Missing PD means no laptop charging. Airlines ban anything over 100Wh (≈27,000mAh at 3.7V). Know the number before the gate closes.
+    link: "https://pickly.blog/en/articles/best-portable-charger-2026/"
+    image_alt: "power bank dead flight portable charger problem mAh"
+    hashtags: ["PowerBank", "TravelFail", "PortableCharger", "TravelTips", "TechProblems"]
+
+  - pin_id: best-portable-charger-2026-en-04
+    article_slug: best-portable-charger-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Power Bank 2026: INIU 10,000mAh at $22"
+    description: |
+      INIU 10,000mAh with 20W USB-C fast charging at the same price as the Anker Slim — and faster output. Trade-off: shorter brand track record (2+ years) vs Anker's decade of reliability data. Smart pick for casual travelers who don't need laptop wattage.
+    link: "https://pickly.blog/en/articles/best-portable-charger-2026/"
+    image_alt: "INIU power bank budget 10000mAh 20W USB-C 2026"
+    hashtags: ["BudgetPowerBank", "INIU", "PortableCharger", "TechDeals", "TravelGear"]
+
+  - pin_id: best-portable-charger-2026-en-05
+    article_slug: best-portable-charger-2026
+    locale: en
+    variant: avoid
+    title: "5 Power Bank Mistakes That Leave You Dead at 2%"
+    description: |
+      Buying by mAh alone: real capacity is 60–70% of the number. Skipping PD: 5W USB-A won't top up a tablet fast enough to matter. Ignoring recharge time: some 20,000mAh packs take 10+ hours. Overpacking: 88.8Wh is the airline hard limit. Cheap no-brand: cell degradation by month 8.
+    link: "https://pickly.blog/en/articles/best-portable-charger-2026/"
+    image_alt: "power bank mistakes avoid buying guide portable charger"
+    hashtags: ["PowerBankMistakes", "PortableCharger", "TechTips", "TravelGear", "BuyingGuide"]
+
+  - pin_id: best-portable-charger-2026-en-06
+    article_slug: best-portable-charger-2026
+    locale: en
+    variant: scene
+    title: "One Power Bank for Every Trip Type: How to Choose"
+    description: |
+      Day commute → Anker Slim 10000 (pocket, 186g). Weekend trip → Baseus Adaman 65W (20,000mAh, MacBook Air). Long-haul flight → Anker 737 (24,000mAh, 140W, 88.8Wh). Budget travel → INIU 10000 20W. Premium minimalist → Mophie Powerstation PD. Match the pack to the trip, not the spec sheet.
+    link: "https://pickly.blog/en/articles/best-portable-charger-2026/"
+    image_alt: "portable charger guide which power bank to buy trip type"
+    hashtags: ["PortableCharger", "TravelTech", "PowerBank", "PackingGuide", "TechGear"]
+
+  - pin_id: best-portable-charger-2026-ja-01
+    article_slug: best-portable-charger-2026
+    locale: ja
+    variant: comparison
+    title: "モバイルバッテリーおすすめ2026：5製品を本気で比較"
+    description: |
+      Anker PowerCore Slim 10000（186g・薄型）からAnker 737（24,000mAh・140W出力でMacBookも充電）まで5製品を比較。mAh・USB-C PD出力・充電速度・飛行機持ち込みルールを徹底検証。自分の旅行スタイルに合う1台がわかる。
+    link: "https://pickly.blog/ja/articles/best-portable-charger-2026/"
+    image_alt: "モバイルバッテリー おすすめ 2026 5製品 比較"
+    hashtags: ["モバイルバッテリー", "おすすめ", "PowerBank", "旅行グッズ", "ガジェット"]
+
+  - pin_id: best-portable-charger-2026-ja-02
+    article_slug: best-portable-charger-2026
+    locale: ja
+    variant: top1
+    title: "Anker PowerCore Slim 10000：毎日使いモバイルバッテリーの定番"
+    description: |
+      186gの薄型ボディでジャケットのポケットにすっぽり。10,000mAhでスマートフォンを約2回充電可能。USB-C＋USB-A搭載。12W出力は急速充電には非対応だが、バッグの中でじっくり充電するスタイルなら十分。通勤・通学のパートナーに最適。
+    link: "https://pickly.blog/ja/articles/best-portable-charger-2026/"
+    image_alt: "Anker PowerCore Slim 10000 モバイルバッテリー 薄型 軽量"
+    hashtags: ["AnkerPowerCore", "モバイルバッテリー", "薄型", "毎日持ち歩き", "ガジェット"]
+
+  - pin_id: best-portable-charger-2026-ja-03
+    article_slug: best-portable-charger-2026
+    locale: ja
+    variant: problem
+    title: "フライト中にモバイルバッテリーが切れる本当の理由"
+    description: |
+      「20,000mAh」の実容量は電圧変換ロスで70%程度。USB-Aポートは出力が落ちる。PDなしではノートPC充電不可。機内持ち込みは100Wh（≈27,000mAh）が上限。スペック表の数字だけで選ぶと、搭乗口で詰む。
+    link: "https://pickly.blog/ja/articles/best-portable-charger-2026/"
+    image_alt: "モバイルバッテリー 容量 mAh 飛行機 持ち込み ルール"
+    hashtags: ["モバイルバッテリー", "旅行", "飛行機 持ち込み", "mAh 実容量", "ガジェット 失敗"]
+
+  - pin_id: best-portable-charger-2026-ja-04
+    article_slug: best-portable-charger-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強モバイルバッテリー2026：INIU 10,000mAh 約3,000円"
+    description: |
+      INIU 10,000mAh・20W USB-C急速充電はAnker Slimと同価格帯でより速い出力。ブランド実績はAnkerより短いが、2年以上の使用報告は安定。ノートPC充電が不要なライトユーザーには最高コスパの選択肢。
+    link: "https://pickly.blog/ja/articles/best-portable-charger-2026/"
+    image_alt: "INIU モバイルバッテリー コスパ 10000mAh 20W 2026"
+    hashtags: ["INIU", "モバイルバッテリー", "コスパ最強", "格安", "旅行グッズ"]
+
+  - pin_id: best-portable-charger-2026-ja-05
+    article_slug: best-portable-charger-2026
+    locale: ja
+    variant: avoid
+    title: "モバイルバッテリー選びでやりがちな5つの失敗"
+    description: |
+      mAhだけで選ぶ：実容量は60〜70%。USB-Aのみ：タブレットが追いつかない。充電時間を確認しない：20,000mAhで10時間以上かかる機種も。88.8Whオーバー：機内持ち込み禁止。無名ブランド：8ヶ月でセル劣化。買う前に確認すべき5点。
+    link: "https://pickly.blog/ja/articles/best-portable-charger-2026/"
+    image_alt: "モバイルバッテリー 失敗 選び方 注意点 2026"
+    hashtags: ["モバイルバッテリー", "失敗しない選び方", "ガジェット", "買い物 失敗", "旅行グッズ"]
+
+  - pin_id: best-portable-charger-2026-ja-06
+    article_slug: best-portable-charger-2026
+    locale: ja
+    variant: scene
+    title: "旅行スタイル別：あなたに合うモバイルバッテリーの選び方"
+    description: |
+      日常通勤 → Anker Slim 10000（186g・薄型）。週末旅行 → Baseus Adaman 65W（20,000mAh・MacBook Air対応）。長距離フライト → Anker 737（24,000mAh・140W）。予算重視 → INIU 10000 20W。デザイン重視 → Mophie Powerstation PD。旅行内容に合わせて選べば正解。
+    link: "https://pickly.blog/ja/articles/best-portable-charger-2026/"
+    image_alt: "モバイルバッテリー 旅行別 選び方 ガイド 2026"
+    hashtags: ["モバイルバッテリー", "旅行", "ガジェット選び", "おすすめ", "充電グッズ"]
+
+  # ── #91 best-dumbbells-2026 ──────────────────────────────────────────────
+  - pin_id: best-dumbbells-2026-en-01
+    article_slug: best-dumbbells-2026
+    locale: en
+    variant: comparison
+    title: "Best Dumbbells 2026: Adjustable vs Fixed Compared"
+    description: |
+      Bowflex SelectTech 552 (2-sec dial, 15 pairs in one) vs PowerBlock Elite (expandable to 90 lb) vs Nüobell (compact adjustable) vs CAP Hex (no-moving-parts fixed) vs Yes4All vinyl (budget starter). Weight range, adjustment speed, floor footprint, and build quality — all compared.
+    link: "https://pickly.blog/en/articles/best-dumbbells-2026/"
+    image_alt: "best dumbbells 2026 adjustable vs fixed comparison home gym"
+    hashtags: ["Dumbbells", "HomeGym", "AdjustableDumbbells", "FitnessGear", "StrengthTraining"]
+
+  - pin_id: best-dumbbells-2026-en-02
+    article_slug: best-dumbbells-2026
+    locale: en
+    variant: top1
+    title: "Bowflex SelectTech 552: Best Adjustable Dumbbell for Home Gyms"
+    description: |
+      2-second dial weight change across 5–52.5 lb in 2.5 lb increments — the finest progression of any adjustable. Replaces 15 pairs in a single cradle footprint. The plastic dial mechanism is the one vulnerability; don't drop these. Best for trainees who progress frequently and have limited floor space.
+    link: "https://pickly.blog/en/articles/best-dumbbells-2026/"
+    image_alt: "Bowflex SelectTech 552 adjustable dumbbell 2026 home gym"
+    hashtags: ["BowflexSelectTech", "AdjustableDumbbells", "HomeGym", "StrengthTraining", "FitnessGear"]
+
+  - pin_id: best-dumbbells-2026-en-03
+    article_slug: best-dumbbells-2026
+    locale: en
+    variant: problem
+    title: "Why a Rack of Fixed Dumbbells Might Kill Your Home Gym"
+    description: |
+      12 pairs × 2 dumbbells = 24 pieces on the floor. A 5–50 lb set needs 6+ linear feet of rack space. Budget fixed pairs rust if stored in garages. You can't do a drop set without five trips to the rack. Adjustable solves space and progression — but only if you don't drop them.
+    link: "https://pickly.blog/en/articles/best-dumbbells-2026/"
+    image_alt: "home gym dumbbell storage problem fixed vs adjustable space"
+    hashtags: ["HomeGym", "DumbbellStorage", "AdjustableDumbbells", "SmallSpaceGym", "FitnessTips"]
+
+  - pin_id: best-dumbbells-2026-en-04
+    article_slug: best-dumbbells-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Dumbbells 2026: Yes4All Vinyl Set from $35"
+    description: |
+      Yes4All vinyl-coated fixed dumbbells protect floors, available in 5–15 lb range — right for beginners who don't yet need heavy loads. No moving parts means no mechanical failure risk. Once you outgrow 15 lb, you'll need to buy a new set; budget adjustable is the smarter long-term play.
+    link: "https://pickly.blog/en/articles/best-dumbbells-2026/"
+    image_alt: "Yes4All vinyl dumbbell set budget beginner 2026"
+    hashtags: ["BudgetDumbbells", "Yes4All", "HomeGym", "BeginnerFitness", "FitnessGear"]
+
+  - pin_id: best-dumbbells-2026-en-05
+    article_slug: best-dumbbells-2026
+    locale: en
+    variant: avoid
+    title: "4 Dumbbell Buying Mistakes That Waste Money and Space"
+    description: |
+      Buying a full fixed set upfront: most beginners plateau on light weight and need a new set in 3 months. Ignoring floor clearance: rectangular adjustables hit the floor mid-press. Choosing plastic over iron for heavy use: 50 lb rubber hex, not vinyl. Dropping adjustables: one fall can strip the mechanism.
+    link: "https://pickly.blog/en/articles/best-dumbbells-2026/"
+    image_alt: "dumbbell buying mistakes home gym adjustable fixed avoid"
+    hashtags: ["DumbbellMistakes", "HomeGym", "FitnessTips", "AdjustableDumbbells", "BuyingGuide"]
+
+  - pin_id: best-dumbbells-2026-en-06
+    article_slug: best-dumbbells-2026
+    locale: en
+    variant: scene
+    title: "Building a Home Gym? Here's Exactly Which Dumbbells to Buy"
+    description: |
+      Studio apartment → Bowflex 552 (replaces 15 pairs, one cradle). Expanding over time → PowerBlock Elite (base 5–70 lb, kit to 90 lb). Wants gym-feel form → Nüobell (cylindrical, no floor clearance issues). Never goes above 50 lb → CAP Hex (no parts to break). First pair ever → Yes4All 5–15 lb vinyl.
+    link: "https://pickly.blog/en/articles/best-dumbbells-2026/"
+    image_alt: "home gym dumbbell guide which to buy studio apartment space"
+    hashtags: ["HomeGym", "Dumbbells", "AdjustableDumbbells", "HomeWorkout", "FitnessGear"]
+
+  - pin_id: best-dumbbells-2026-ja-01
+    article_slug: best-dumbbells-2026
+    locale: ja
+    variant: comparison
+    title: "ダンベルおすすめ2026：可変式vs固定式を徹底比較"
+    description: |
+      Bowflex SelectTech 552（2秒でダイヤル変更・15ペア相当）、PowerBlock Elite（90lbまで拡張）、Nüobell（コンパクト可変式）、CAP Hex（固定式・可動部なし）、Yes4All ビニール（入門向け）を重量範囲・変更速度・設置面積・耐久性で比較。
+    link: "https://pickly.blog/ja/articles/best-dumbbells-2026/"
+    image_alt: "ダンベル おすすめ 2026 可変式 固定式 比較"
+    hashtags: ["ダンベル", "ホームジム", "可変式ダンベル", "筋トレ", "おすすめ"]
+
+  - pin_id: best-dumbbells-2026-ja-02
+    article_slug: best-dumbbells-2026
+    locale: ja
+    variant: top1
+    title: "Bowflex SelectTech 552：ホームジム最強の可変ダンベル"
+    description: |
+      ダイヤルを回すだけ2秒で重量変更。5〜52.5lbを2.5lb刻みで設定可能。1台で15ペア相当を省スペース収納。可動部分のプラスチックが弱点 — 落下厳禁。頻繁に重量を変えたい・スペースを節約したい人に最適解。
+    link: "https://pickly.blog/ja/articles/best-dumbbells-2026/"
+    image_alt: "Bowflex SelectTech 552 ダンベル ホームジム 2026"
+    hashtags: ["BowflexSelectTech", "可変式ダンベル", "ホームジム", "筋トレ", "省スペース"]
+
+  - pin_id: best-dumbbells-2026-ja-03
+    article_slug: best-dumbbells-2026
+    locale: ja
+    variant: problem
+    title: "固定式ダンベルを揃えたらホームジムが崩壊した話"
+    description: |
+      12ペア×2本=24本が床に散乱。5〜50lbのフルセットは棚幅2m以上必要。ガレージ保管で錆発生。ドロップセットに5往復必要。可変式で解決できるが、落下1回でメカニズム破損のリスクあり。スペースと予算から逆算して選ぼう。
+    link: "https://pickly.blog/ja/articles/best-dumbbells-2026/"
+    image_alt: "ホームジム ダンベル 収納 問題 固定式 可変式"
+    hashtags: ["ホームジム", "ダンベル収納", "可変式ダンベル", "筋トレ", "省スペース"]
+
+  - pin_id: best-dumbbells-2026-ja-04
+    article_slug: best-dumbbells-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強ダンベル2026：Yes4All ビニールセット約3,500円〜"
+    description: |
+      Yes4Allビニールダンベルは床を傷つけず、5〜15lb範囲は筋トレ入門に最適。可動部なしで故障リスクゼロ。15lbを超えたら買い替えが必要になる点がデメリット。長期的には可変式の方がコスパが良い。
+    link: "https://pickly.blog/ja/articles/best-dumbbells-2026/"
+    image_alt: "Yes4All ビニール ダンベル 入門 コスパ 2026"
+    hashtags: ["Yes4All", "ダンベル", "コスパ", "筋トレ 入門", "ホームジム"]
+
+  - pin_id: best-dumbbells-2026-ja-05
+    article_slug: best-dumbbells-2026
+    locale: ja
+    variant: avoid
+    title: "ダンベル選びの4つの失敗：スペースとお金を無駄にしない"
+    description: |
+      固定式をいきなり全種揃える：初心者は3ヶ月で重量が変わる。設置面積を確認しない：四角い可変式はプレス中に床に当たる。重量級にビニールダンベル：50lb以上はラバーヘックスが正解。可変式を落とす：1回でダイヤル機構が壊れることがある。
+    link: "https://pickly.blog/ja/articles/best-dumbbells-2026/"
+    image_alt: "ダンベル 失敗 選び方 注意点 ホームジム"
+    hashtags: ["ダンベル 失敗", "ホームジム", "筋トレ", "可変式ダンベル", "買い物ガイド"]
+
+  - pin_id: best-dumbbells-2026-ja-06
+    article_slug: best-dumbbells-2026
+    locale: ja
+    variant: scene
+    title: "ホームジム環境別：最適ダンベルの選び方ガイド"
+    description: |
+      ワンルーム → Bowflex 552（1台で15ペア分）。拡張予定あり → PowerBlock Elite（90lbキットに対応）。ジム感を出したい → Nüobell（円筒形・床当たりなし）。重い重量のみ → CAP Hex（可動部なし・20年使用可）。初めての1本 → Yes4All 5〜15lb。生活環境から逆算して決める。
+    link: "https://pickly.blog/ja/articles/best-dumbbells-2026/"
+    image_alt: "ホームジム ダンベル 選び方 環境別 ガイド 2026"
+    hashtags: ["ホームジム", "ダンベル", "可変式ダンベル", "筋トレ", "おすすめ"]
