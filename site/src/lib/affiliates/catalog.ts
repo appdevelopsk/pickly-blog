@@ -6409,6 +6409,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-barracuda-fenix-goggles", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%A9%E3%82%AF%E3%83%BC%E3%83%80+%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Yoga Blocks (best-yoga-block-2026) ─────────
+  {
+    id: "manduka-recycled-foam-block",
+    category: "fitness",
+    name: { en: "Manduka Recycled Foam Yoga Block", ja: "マンドゥカ リサイクルフォーム ヨガブロック" },
+    description: {
+      en: "Best premium foam yoga block — recycled-content EVA foam with above-standard density, beveled edges for both restorative and standing balance poses, consistent Manduka build quality",
+      ja: "最良プレミアムフォームヨガブロック — リサイクルコンテンツEVA・標準グレード以上の密度・リストラティブと立位両対応ベベルエッジ・一貫したMandukのビルドクオリティ",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-manduka-recycled-foam-block", rawUrl: "https://www.amazon.co.jp/s?k=Manduka+%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-manduka-recycled-foam-block", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FManduka+%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hugger-mugger-cork-block",
+    category: "fitness",
+    name: { en: "Hugger Mugger Cork Yoga Block", ja: "ハガーマガー コルク ヨガブロック" },
+    description: {
+      en: "Best natural cork yoga block — non-compressible under full body weight, natural grip that improves in humid conditions, biodegradable material from sustainable cork oak harvesting",
+      ja: "最良天然コルクヨガブロック — 全体重下で非圧縮性・湿潤条件で向上する天然グリップ・持続可能なコルクオーク収穫の生分解性素材",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-hugger-mugger-cork-block", rawUrl: "https://www.amazon.co.jp/s?k=Hugger+Mugger+%E3%82%B3%E3%83%AB%E3%82%AF+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hugger-mugger-cork-block", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHugger+Mugger+%E3%82%B3%E3%83%AB%E3%82%AF+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gaiam-essentials-yoga-block",
+    category: "fitness",
+    name: { en: "Gaiam Essentials Yoga Block", ja: "ガイアム エッセンシャルズ ヨガブロック" },
+    description: {
+      en: "Best value foam yoga block — standard-density EVA foam at the most accessible price, rounded edges comfortable in contact positions, correct first pair for beginners establishing a practice",
+      ja: "最良コストパフォーマンスフォームヨガブロック — 最も手頃な標準密度EVA・コンタクトポジションで快適な丸いエッジ・実践を確立する初心者への正しい最初のペア",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-gaiam-essentials-yoga-block", rawUrl: "https://www.amazon.co.jp/s?k=Gaiam+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF+%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%BA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-gaiam-essentials-yoga-block", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGaiam+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF+%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%BA%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jade-yoga-foam-block",
+    category: "fitness",
+    name: { en: "JadeYoga Foam Yoga Block", ja: "ジェイドヨガ フォーム ヨガブロック" },
+    description: {
+      en: "Best eco-conscious foam yoga block — recycled-content EVA foam from a brand with documented environmental commitments including a tree-planting program, performance comparable to premium foam",
+      ja: "最良エコ意識フォームヨガブロック — 植樹プログラム含む文書化された環境コミットメントブランドのリサイクルコンテンツEVA・プレミアムフォームに匹敵するパフォーマンス",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-jade-yoga-foam-block", rawUrl: "https://www.amazon.co.jp/s?k=JadeYoga+%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-jade-yoga-foam-block", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJadeYoga+%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "prosource-firm-foam-block",
+    category: "fitness",
+    name: { en: "ProSource Firm High-Density Foam Yoga Block", ja: "プロソース 高密度フォーム ヨガブロック" },
+    description: {
+      en: "Best firm high-density foam yoga block — hardest EVA foam in this comparison with square-cut edges for maximum stability, compression resistance approaching cork, lighter than cork at the same rigidity",
+      ja: "最良高密度フォームヨガブロック — この比較で最硬EVAフォーム・最大安定性の四角く切られたエッジ・コルクに近い圧縮抵抗・同じ剛性でコルクより軽量",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-prosource-firm-foam-block", rawUrl: "https://www.amazon.co.jp/s?k=ProSource+%E9%AB%98%E5%AF%86%E5%BA%A6%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-prosource-firm-foam-block", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FProSource+%E9%AB%98%E5%AF%86%E5%BA%A6%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Fitness / Pull-Up Bars (best-pull-up-bar-2026) ─────────
   {
     id: "iron-gym-total-body-bar",
@@ -6615,6 +6681,77 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "amazon-jp-peets-coffee-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Peets+Coffee+Major+Dickasons+Blend", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-peets-coffee-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%94%E3%83%BC%E3%83%84%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3%E3%82%BA%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Wine Subscriptions (best-wine-subscription-2026) ─────────
+  {
+    id: "winc-subscription",
+    category: "food",
+    badge: "🍷",
+    name: { en: "Winc Wine Subscription", ja: "Wincワインサブスクリプション" },
+    description: {
+      en: "Best everyday personalized wine subscription — algorithm-matched selections at $13-20/bottle, free shipping on 4+ bottles. Ratings feedback improves personalization over time. Best for drinkers who want consistent quality delivered on autopilot.",
+      ja: "日常飲み向け最高のパーソナライズワインサブスク——1本13〜20ドルのアルゴリズムマッチング選定、4本以上送料無料。評価フィードバックでパーソナライズが継続的に向上。手間なく安定品質を求める飲み手に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-winc-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Winc+Wine+Subscription", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-winc-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWinc%2B%E3%83%AF%E3%82%A4%E3%83%B3%2B%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "firstleaf-subscription",
+    category: "food",
+    badge: "🍃",
+    name: { en: "Firstleaf Wine Subscription", ja: "Firstleafワインサブスクリプション" },
+    description: {
+      en: "Best introductory value — six bottles for $39.95 plus shipping on first shipment, standard ~$15-25/bottle ongoing. Algorithm personalizes based on quiz and ongoing ratings. Best for new subscribers who want to start at a discounted trial price.",
+      ja: "最高の初回価値——初回6本39.95ドル＋送料、継続標準価格は1本約15〜25ドル。クイズと継続レーティングでアルゴリズムがパーソナライズ。試し価格から始めたい新規ユーザーに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-firstleaf-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Firstleaf+Wine+Subscription", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-firstleaf-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFirstleaf%2B%E3%83%AF%E3%82%A4%E3%83%B3%2B%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "naked-wines-subscription",
+    category: "food",
+    badge: "👼",
+    name: { en: "Naked Wines Angel Membership", ja: "Naked Wines Angelメンバーシップ" },
+    description: {
+      en: "Best value with Angel membership — $40/month credit unlocks 30-50% discounts on independent winemaker wines. Demand-driven (shop when you want, no forced shipments). Best for drinkers who want verifiable savings and independent producer access.",
+      ja: "Angelメンバーシップで最高の価値——月40ドルクレジットで独立ワインメーカーのワインを30〜50%割引で購入可能。需要型（好きなときに購入、強制配送なし）。検証可能な節約と独立生産者アクセスを求める飲み手に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-naked-wines-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Naked+Wines+Angel+Membership", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-naked-wines-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNaked%2BWines%2B%E3%83%AF%E3%82%A4%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wine-access-subscription",
+    category: "food",
+    badge: "🏆",
+    name: { en: "Wine Access Membership", ja: "Wine Accessメンバーシップ" },
+    description: {
+      en: "Best for serious wine enthusiasts — premium editorial curation at $30-100+/bottle with the best tasting notes and wine education in the category. Covers natural and conventional wines. Best for enthusiasts who want sommelier-level selection and knowledge.",
+      ja: "本格的なワイン愛好家向け最高サービス——1本30〜100ドル以上のプレミアム編集キュレーション、カテゴリ最高水準のテイスティングノートとワイン教育。ナチュラルとコンベンショナルをカバー。ソムリエレベルの選定と知識を求める愛好家に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-wine-access-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Wine+Access+Membership", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wine-access-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWine%2BAccess%2B%E3%83%AF%E3%82%A4%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bright-cellars-subscription",
+    category: "food",
+    badge: "🌟",
+    name: { en: "BRIGHT Cellars Wine Subscription", ja: "BRIGHT Cellarsワインサブスクリプション" },
+    description: {
+      en: "Best for wine beginners — structured palate development with flavor wheel archetype system, $22/bottle (4 bottles at $88/month). Educational framing on each bottle explains how it expands your palate. Best for new wine drinkers who want a guided learning path.",
+      ja: "ワイン初心者向け最高サービス——フレーバーホイールアーキタイプシステムによる構造化パレット開発、月88ドル（4本）で1本あたり22ドル。各ボトルにパレット拡張方法を説明する教育フレーミング付き。ガイド付き学習パスを求める初心者に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-bright-cellars-subscription", rawUrl: "https://www.amazon.co.jp/s?k=BRIGHT+Cellars+Wine+Subscription", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bright-cellars-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBRIGHT%2BCellars%2B%E3%83%AF%E3%82%A4%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
