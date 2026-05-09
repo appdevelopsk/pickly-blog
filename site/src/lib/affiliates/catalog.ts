@@ -7686,6 +7686,139 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-monkii-bars-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMonkii+Bars+%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
+
+  // ───────── Fitness / Medicine Balls (best-medicine-ball-2026) ─────────
+  {
+    id: "rogue-medicine-ball",
+    category: "fitness",
+    name: { en: "Rogue Medicine Ball (Slam Ball)", ja: "Rogue メディシンボール（スラムボール）" },
+    description: {
+      en: "Thick natural rubber shell with sand-and-rubber fill — near-zero rebound, molded weight markings, 10–150 lb range. Built for floor slams, wall throws, and loaded carries.",
+      ja: "天然ゴム厚シェルに砂とゴムクラム充填——反発ほぼゼロ、重量表記型押し、10〜150ポンド展開。フロアスラム・ウォールスロー・ローデッドキャリー向け。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-rogue-medicine-ball", rawUrl: "https://www.amazon.co.jp/s?k=Rogue+Medicine+Ball+Slam+Ball", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-medicine-ball", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%2B%E3%82%B9%E3%83%A9%E3%83%A0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "champion-sports-medicine-ball",
+    category: "fitness",
+    name: { en: "Champion Sports Rubber Medicine Ball", ja: "Champion Sports ラバーメディシンボール" },
+    description: {
+      en: "4mm vulcanized rubber shell, pebbled grip, moderate predictable rebound. 2–30 lb range. Best for wall-ball drills, partner conditioning, and beginner overhead mechanics.",
+      ja: "4mm加硫ゴムシェル、ぼつぼつグリップ、適度で予測可能な反発。2〜30ポンド展開。ウォールボールドリル・パートナーコンディショニング・入門者の頭上動作習得に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-champion-sports-medicine-ball", rawUrl: "https://www.amazon.co.jp/s?k=Champion+Sports+Rubber+Medicine+Ball", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-champion-sports-medicine-ball", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChampion+Sports%2B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yes4all-slam-ball",
+    category: "fitness",
+    name: { en: "Yes4All Slam Ball", ja: "Yes4All スラムボール" },
+    description: {
+      en: "Heavy-duty rubber shell, sand fill, minimal rebound. 10–50 lb range in 5 lb increments. Best value slam ball for home gym progression ladders.",
+      ja: "耐久ゴムシェル・砂充填・最小反発。10〜50ポンドを5ポンド刻みで展開。ホームジムのプログレッションラダー構築に最もコスパが高いスラムボール。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-yes4all-slam-ball", rawUrl: "https://www.amazon.co.jp/s?k=Yes4All+Slam+Ball", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-yes4all-slam-ball", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All%2B%E3%82%B9%E3%83%A9%E3%83%A0%E3%83%9C%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dynamax-medicine-ball",
+    category: "fitness",
+    name: { en: "Dynamax Medicine Ball", ja: "Dynamax メディシンボール" },
+    description: {
+      en: "Foam-padded vinyl shell, standardized diameter across all weights, 4–30 lb range. Designed for partner passes and catch-and-throw drills where soft catch is essential.",
+      ja: "フォームパッド入りビニールシェル、全重量で直径統一、4〜30ポンド展開。ソフトキャッチが必要なパートナーパスとキャッチ＆スロードリル向けに設計。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-dynamax-medicine-ball", rawUrl: "https://www.amazon.co.jp/s?k=Dynamax+Medicine+Ball", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-dynamax-medicine-ball", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDynamax%2B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cap-barbell-medicine-ball",
+    category: "fitness",
+    name: { en: "CAP Barbell Medicine Ball", ja: "CAP Barbell メディシンボール" },
+    description: {
+      en: "Single-layer rubber, pebble grip surface, moderate rebound. 4–30 lb range. Budget pick for general conditioning, rehab, and beginner programs at moderate use volumes.",
+      ja: "単層ゴム、ぼつぼつグリップサーフェス、適度な反発。4〜30ポンド展開。適度な使用量での総合コンディショニング・リハビリ・入門プログラム向けの最安値オプション。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-cap-barbell-medicine-ball", rawUrl: "https://www.amazon.co.jp/s?k=CAP+Barbell+Medicine+Ball", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cap-barbell-medicine-ball", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP+Barbell%2B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Bone Broth (best-bone-broth-2026) ─────────
+  {
+    id: "kettle-fire-beef-broth",
+    category: "food",
+    name: { en: "Kettle & Fire Beef Bone Broth", ja: "Kettle & Fire ビーフボーンブロス" },
+    description: {
+      en: "Shelf-stable Tetra Pak, grass-fed beef bones, 10g protein per serving, short ingredient list with organic vegetables and apple cider vinegar",
+      ja: "常温保存テトラパック、グラスフェッドビーフボーン使用、1食10gタンパク質、有機野菜とアップルサイダービネガーのシンプル配合",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-kettle-fire-beef-broth", rawUrl: "https://www.amazon.co.jp/s?k=Kettle+%26+Fire+beef+bone+broth", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kettle-fire-beef-broth", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKettle%2BFire%2B%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%96%E3%83%AD%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fond-bone-broth",
+    category: "food",
+    name: { en: "FOND Bone Broth", ja: "FOND ボーンブロス" },
+    description: {
+      en: "Pasture-raised, organic-certified, glass bottles, ships refrigerated — highest gelatin content, sets firm when chilled. Slow-simmered with herbs for complex flavor",
+      ja: "放牧飼育・オーガニック認証・ガラスボトル入り・冷蔵配送。最高ゼラチン含有量、冷やすとしっかり固まる。ハーブで長時間煮込んだ複雑な風味",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-fond-bone-broth", rawUrl: "https://www.amazon.co.jp/s?k=FOND+bone+broth+pasture+raised", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fond-bone-broth", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFOND%2B%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%96%E3%83%AD%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pacific-foods-bone-broth",
+    category: "food",
+    name: { en: "Pacific Foods Organic Bone Broth", ja: "Pacific Foods オーガニック ボーンブロス" },
+    description: {
+      en: "USDA certified organic, shelf-stable, widely available at major retailers, 9–10g protein per serving — best value in the category",
+      ja: "USDAオーガニック認定、常温保存、大手量販店で広く入手可能、1食9〜10gタンパク質。カテゴリ最高コスパ",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-pacific-foods-bone-broth", rawUrl: "https://www.amazon.co.jp/s?k=Pacific+Foods+organic+bone+broth", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-pacific-foods-bone-broth", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPacific+Foods%2B%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%96%E3%83%AD%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ancient-nutrition-bone-broth",
+    category: "food",
+    name: { en: "Ancient Nutrition Multi-Collagen Bone Broth Protein", ja: "Ancient Nutrition マルチコラーゲン ボーンブロス プロテイン" },
+    description: {
+      en: "Powder form — 20g collagen protein per serving from bovine, chicken, fish, and egg white collagen. Mixes into hot or cold beverages without clumping",
+      ja: "パウダー形態。牛・鶏・魚・卵白由来の複合コラーゲンで1食20gのコラーゲンプロテイン。温冷どちらの飲み物にもダマにならず溶ける",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-ancient-nutrition-bone-broth", rawUrl: "https://www.amazon.co.jp/s?k=Ancient+Nutrition+bone+broth+protein+powder", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ancient-nutrition-bone-broth", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAncient+Nutrition%2B%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%96%E3%83%AD%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bare-bones-broth",
+    category: "food",
+    name: { en: "Bare Bones Broth", ja: "Bare Bones ブロス" },
+    description: {
+      en: "Woman-owned brand, 100% grass-fed beef bones, 4-ingredient formula (bones, water, apple cider vinegar, sea salt), no natural flavors or stabilizers, 10g protein per serving",
+      ja: "女性創業ブランド、100%グラスフェッドビーフボーン使用、4原材料（骨・水・アップルサイダービネガー・海塩）、ナチュラルフレーバーや安定剤なし、1食10gタンパク質",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-bare-bones-broth", rawUrl: "https://www.amazon.co.jp/s?k=Bare+Bones+bone+broth+grass+fed", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bare-bones-broth", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBare+Bones%2B%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%96%E3%83%AD%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
