@@ -7022,6 +7022,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-lifefitness-t3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLife+Fitness+T3+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
+  // best-hot-sauce-2026
+  {
+    id: "tabasco-original-red",
+    category: "food",
+    name: { en: "Tabasco Original Red Sauce", ja: "タバスコ オリジナル レッドソース" },
+    description: {
+      en: "Classic fermented pepper sauce, 2,500–5,000 Scoville",
+      ja: "発酵ペッパーソースの定番、2,500〜5,000スコヴィル",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-tabasco-original-red", rawUrl: "https://www.amazon.co.jp/s?k=tabasco+original+red+sauce", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tabasco-original-red", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Ftabasco%2B%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cholula-original",
+    category: "food",
+    name: { en: "Cholula Hot Sauce Original", ja: "コルーラ ホットソース オリジナル" },
+    description: {
+      en: "Mexican-style pequin and arbol chile blend, ~1,000–2,000 Scoville",
+      ja: "メキシカンスタイル、ペキンとアルボルチリのブレンド",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-cholula-original", rawUrl: "https://www.amazon.co.jp/s?k=cholula+hot+sauce+original", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cholula-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fcholula%2B%E3%83%9B%E3%83%83%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "valentina-extra-hot",
+    category: "food",
+    name: { en: "Valentina Extra Hot Sauce", ja: "バレンティーナ エクストラホット" },
+    description: {
+      en: "Thick Mexican hot sauce, ~2,100 Scoville, exceptional value",
+      ja: "コクのあるメキシカンホットソース、コスパ抜群",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-valentina-extra-hot", rawUrl: "https://www.amazon.co.jp/s?k=valentina+extra+hot+sauce", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-valentina-extra-hot", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fvalentina%2B%E3%83%9B%E3%83%83%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "crystal-hot-sauce",
+    category: "food",
+    name: { en: "Crystal Hot Sauce", ja: "クリスタル ホットソース" },
+    description: {
+      en: "Louisiana-style aged cayenne sauce, ~800–1,000 Scoville",
+      ja: "ルイジアナスタイル、熟成カイエンペッパー使用",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-crystal-hot-sauce", rawUrl: "https://www.amazon.co.jp/s?k=crystal+hot+sauce+louisiana", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-crystal-hot-sauce", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fcrystal%2B%E3%83%9B%E3%83%83%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "franks-redhot-original",
+    category: "food",
+    name: { en: "Frank's RedHot Original", ja: "フランクス レッドホット オリジナル" },
+    description: {
+      en: "Mild cayenne hot sauce, ~450 Scoville, classic buffalo wing base",
+      ja: "マイルドなカイエンホットソース、バッファローウィングの定番",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-franks-redhot-original", rawUrl: "https://www.amazon.co.jp/s?k=frank%27s+redhot+original", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-franks-redhot-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF%E3%82%B9%2B%E3%83%AC%E3%83%83%E3%83%89%E3%83%9B%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // best-rowing-machine-2026
+  {
+    id: "concept2-model-d",
+    category: "fitness",
+    name: { en: "Concept2 Model D Indoor Rower", ja: "コンセプト2 モデルD インドアローイングマシン" },
+    description: {
+      en: "Air resistance rower with PM5 monitor, industry standard",
+      ja: "エアー抵抗式、PM5モニター搭載、業界標準モデル",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-concept2-model-d", rawUrl: "https://www.amazon.co.jp/s?k=concept2+model+d+rowing+machine", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-concept2-model-d", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fconcept2%2B%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hydrow-wave-rower",
+    category: "fitness",
+    name: { en: "Hydrow Wave Rower", ja: "ハイドロー ウェーブ ローイングマシン" },
+    description: {
+      en: "Electromagnetic resistance, 16-inch touchscreen, live and on-demand classes",
+      ja: "電磁抵抗式、16インチタッチスクリーン、ライブ・オンデマンドクラス対応",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-hydrow-wave-rower", rawUrl: "https://www.amazon.co.jp/s?k=hydrow+wave+rower", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hydrow-wave-rower", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AD%E3%83%BC%2B%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nordictrack-rw900",
+    category: "fitness",
+    name: { en: "NordicTrack RW900 Rower", ja: "ノルディックトラック RW900 ローイングマシン" },
+    description: {
+      en: "22-inch HD touchscreen, 26 resistance levels, iFIT compatible",
+      ja: "22インチHDタッチスクリーン、抵抗26段階、iFIT対応",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-nordictrack-rw900", rawUrl: "https://www.amazon.co.jp/s?k=nordictrack+rw900+rowing+machine", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nordictrack-rw900", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%2B%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ergatta-rower",
+    category: "fitness",
+    name: { en: "Ergatta Water Rower", ja: "エルガッタ ウォーターローイングマシン" },
+    description: {
+      en: "Water resistance, game-based workouts, 17.3-inch touchscreen",
+      ja: "水抵抗式、ゲーム感覚のワークアウト、17.3インチタッチスクリーン",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-ergatta-rower", rawUrl: "https://www.amazon.co.jp/s?k=ergatta+water+rower", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ergatta-rower", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%2B%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sunny-sf-rw5515",
+    category: "fitness",
+    name: { en: "Sunny Health SF-RW5515 Magnetic Rower", ja: "サニーヘルス SF-RW5515 マグネティックローイングマシン" },
+    description: {
+      en: "Budget magnetic rower, 12 resistance levels, quiet operation",
+      ja: "コスパ重視、磁気抵抗12段階、静音設計",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-sunny-sf-rw5515", rawUrl: "https://www.amazon.co.jp/s?k=sunny+health+rowing+machine+magnetic", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sunny-sf-rw5515", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2B%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
