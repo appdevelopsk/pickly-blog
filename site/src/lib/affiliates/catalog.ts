@@ -3052,6 +3052,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-canon-ivy-cliq-plus-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCanon%2BIVY%2BCLIQ%252B2%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Food / Knife Sets (best-knife-set-2026) ─────────
+  {
+    id: "global-g-2-chefs-knife",
+    category: "food",
+    badge: "🔪",
+    name: { en: "Global G-2 Chef's Knife", ja: "グローバル G-2 牛刀" },
+    description: {
+      en: "~¥20,000-¥25,000. 20cm blade, VG-10 steel at 60-62 HRC, all-steel construction with dimpled handle. Thinnest edge in this comparison for precise fish and vegetable work. Chips on bones and hard boards; requires ceramic honing rod and careful whetstone technique.",
+      ja: "約2万〜2万5千円。20cm刃・VG-10鋼60〜62HRC・ディンプルハンドルのオールスチール構造。このリストで最も薄い刃先で魚と野菜の精密な作業に最適。骨と硬いまな板に弱い；セラミック研ぎ棒と丁寧な砥石メンテが必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-global-g-2-chefs-knife", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGlobal%2BG-2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zwilling-four-star-set",
+    category: "food",
+    badge: "⭐",
+    name: { en: "Zwilling Four Star 7-Piece Block Set", ja: "ツヴィリング 四つ星 7点ブロックセット" },
+    description: {
+      en: "~¥40,000-¥50,000. 7-piece block set, X50CrMoV15 German steel, ice-hardened to 57 HRC. Forgiving of rough technique and easy to hone. Softer than Japanese steel so needs more frequent honing; block set includes items you may rarely use.",
+      ja: "約4万〜5万円。7点ブロックセット・X50CrMoV15ドイツ鋼・アイスハードニングで57HRC。荒い使い方にも寛容でスチールが使いやすい。日本鋼材より柔らかいため頻繁なスチールが必要；セットにほとんど使わないアイテムが含まれる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-zwilling-four-star-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZwilling%2BFour%2BStar%2B7%2BPiece%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "global-knife-block-set",
+    category: "food",
+    badge: "🗡️",
+    name: { en: "Global G-836/KB 7-Piece Block Set", ja: "グローバル G-836/KB 7点ブロックセット" },
+    description: {
+      en: "~¥60,000-¥80,000. 7-piece all-steel block set, VG-10 steel throughout, consistent Global handle feel across all blades. Full-set price is significant; all-steel handles are cold in winter and can be slippery when wet; requires careful whetstone sharpening.",
+      ja: "約6万〜8万円。7点オールスチールブロックセット・全刃VG-10鋼・全刃で統一されたグローバルハンドル感。フルセット価格は高い；オールスチールハンドルは冬に冷たく濡れると滑りやすい；砥石の丁寧なメンテが必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-global-knife-block-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGlobal%2BG-836%2FKB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "victorinox-fibrox-pro",
+    category: "food",
+    badge: "🇨🇭",
+    name: { en: "Victorinox Fibrox Pro 8-inch Chef's Knife", ja: "ヴィクトリノックス フィブロックス プロ 20cm シェフズナイフ" },
+    description: {
+      en: "~¥6,000-¥8,000. 20cm blade, Swiss steel, non-slip Fibrox handle, professional kitchen standard worldwide. Sharp out of the box, easy to maintain. Softer than VG-10 so needs more frequent sharpening at high volume; handle is purely functional with no decorative appeal.",
+      ja: "約6,000〜8,000円。20cm刃・スイス鋼・滑り止めフィブロックスハンドル・世界中のプロキッチンのスタンダード。開封直後から切れてメンテしやすい。VG-10より柔らかいため大量調理では研ぎ頻度が増える；ハンドルは完全に実用本位で装飾性なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-victorinox-fibrox-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVictorinox%2BFibrox%2BPro%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kai-wasabi-black-set",
+    category: "food",
+    badge: "🌿",
+    name: { en: "Kai Wasabi Black 6-Piece Knife Set", ja: "貝印 ワサビブラック 6点包丁セット" },
+    description: {
+      en: "~¥15,000-¥20,000. 6-piece set, Japanese-style steel, black polypropylene handles, entry-level Japanese cutting geometry. Best value Japanese-style set. Steel hardness lower than premium Global or Kai Shun lines; handles are plastic rather than composite; limited availability outside Japanese retail.",
+      ja: "約1万5千〜2万円。6点セット・和包丁スタイル鋼材・ブラックポリプロピレンハンドル・和包丁スタイル刃形へのエントリーレベル。コスパ最高の和包丁風セット。鋼材硬度はグローバルや貝印旬のプレミアムラインより低い；ハンドルはコンポジットでなくプラスチック；日本国外での入手性は限られる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-kai-wasabi-black-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%B2%9D%E5%8D%B0%2B%E3%83%AF%E3%82%B5%E3%83%93%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Food / Food Processors (best-food-processor-2026) ─────────
   {
     id: "cuisinart-dfp-14bcwb",
@@ -3116,6 +3182,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-delonghi-fp8260", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDe%27Longhi%2BFP8260%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Tech / Projectors (best-projector-2026) ─────────
+  {
+    id: "anker-nebula-capsule-3",
+    category: "tech",
+    badge: "🎥",
+    name: { en: "Anker Nebula Capsule 3", ja: "Anker Nebula Capsule 3" },
+    description: {
+      en: "300 ANSI lumens, Android TV built-in, 640g portable, 10-hour battery, 1080p. Dark-room-only portable projector. Weakness: 300 lumens unusable in any lit room; 2–2.5hr runtime at max brightness; weakest audio in class.",
+      ja: "300 ANSIルーメン、Android TV内蔵、640gポータブル、10時間バッテリー、1080p。暗室専用ポータブル機。弱点：300ルーメンは明るい部屋では使用不可；最大輝度で2〜2.5時間の使用時間；クラス最弱のオーディオ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anker-nebula-capsule-3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BNebula%2BCapsule%2B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "epson-eh-tw5825",
+    category: "tech",
+    badge: "🖥️",
+    name: { en: "Epson EH-TW5825", ja: "Epson EH-TW5825" },
+    description: {
+      en: "2700 lumen 3LCD, 1080p Full HD, 50,000:1 contrast, no rainbow artifacts, 4500hr economy lamp life. Best color accuracy at this price. Weakness: lamp-based with ¥10k–¥15k replacement; no built-in smart TV platform.",
+      ja: "2700ルーメン3LCD、1080p Full HD、50,000:1コントラスト、レインボーアーティファクトなし、エコモード4500時間。この価格帯で最高の色精度。弱点：ランプ式で1万〜1.5万円の交換費用；スマートTV機能なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-epson-eh-tw5825", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEpson%2BEH-TW5825%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "benq-th685p",
+    category: "tech",
+    badge: "🎮",
+    name: { en: "BenQ TH685P", ja: "BenQ TH685P" },
+    description: {
+      en: "3500 ANSI lumens, 1080p DLP, 120Hz, 8.3ms input lag in gaming mode, 4000hr SmartEco lamp. Best for gaming. Weakness: DLP rainbow artifacts; lamp-based; no built-in smart TV — requires external streaming device.",
+      ja: "3500 ANSIルーメン、1080p DLP、120Hz、ゲーミングモード8.3ms入力遅延、SmartEco 4000時間。ゲーミング最適。弱点：DLPレインボーアーティファクト；ランプ式；スマートTV機能なし — 別途ストリーミングデバイス必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-benq-th685p", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBenQ%2BTH685P%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "xgimi-horizon-ultra",
+    category: "tech",
+    badge: "✨",
+    name: { en: "XGIMI Horizon Ultra", ja: "XGIMI Horizon Ultra" },
+    description: {
+      en: "Native 4K DLP, 2300 ISO lumens, laser-LED hybrid (25,000hr), Android TV, auto-focus, auto-keystone, Dolby Vision. Weakness: ISO lumen ~2000 ANSI equivalent in ambient light; ¥200,000+ premium; above-average fan noise.",
+      ja: "ネイティブ4K DLP、2300 ISOルーメン、レーザーLEDハイブリッド（25,000時間）、Android TV、オートフォーカス、自動台形補正、Dolby Vision。弱点：ISOルーメンは環境光で約2000 ANSI相当；20万円以上のプレミアム；平均以上のファンノイズ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-xgimi-horizon-ultra", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXGIMI%2BHorizon%2BUltra%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "xiaomi-mi-laser-projector-150",
+    category: "tech",
+    badge: "💡",
+    name: { en: "Xiaomi Mi Laser Projector 150\"", ja: "Xiaomi Miレーザープロジェクター150\"" },
+    description: {
+      en: "5000 ANSI lumens, ALPD 3.0 laser, 1080p native (4K upscaling), 150-inch rated, 25,000hr laser lifespan. Usable in lit rooms. Weakness: 1080p native not true 4K; 4:1 throw ratio limits room layouts; loud fan at full brightness.",
+      ja: "5000 ANSIルーメン、ALPD 3.0レーザー、1080pネイティブ（4Kアップスケーリング）、150インチ定格、レーザー25,000時間。通常照明下でも使用可能。弱点：1080pネイティブはネイティブ4Kではない；4:1投射比でレイアウトが制限；定格輝度でファンノイズが大きい。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-xiaomi-mi-laser-projector-150", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXiaomi%2BMi%2BLaser%2BProjector%2B150%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
