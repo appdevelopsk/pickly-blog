@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 139 articles x 6 variants x 2 locales (en, ja) = 1668 pins (growing)
+# 141 articles x 6 variants x 2 locales (en, ja) = 1692 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -18822,3 +18822,293 @@ pins:
   link: "https://pickly.blog/ja/articles/best-ab-roller-2026/"
   image_alt: "腹筋ローラー レベル別 補助あり初心者 標準 上級者"
   hashtags: ["腹筋ローラー レベル別", "初心者 腹筋 ホイール", "上級 腹筋ローラー", "体幹 トレーニング 段階", "コア 筋トレ ガイド"]
+
+# ── #140 best-meal-prep-containers-2026 ───────────────────────────────────
+- id: "best-meal-prep-containers-2026-comparison-en"
+  article_slug: "best-meal-prep-containers-2026"
+  locale: "en"
+  variant: "comparison"
+  board: "food"
+  title: "Best Meal Prep Containers 2026: Glass vs Plastic, Leak-Proof & Microwave-Safe"
+  description: |
+    Tested 5 top meal prep container sets on leak-proofing, microwave safety, and stackability. Prep Naturals glass set offers 20 pieces for the best per-unit value. Rubbermaid Brilliance BPA-free plastic stacks perfectly with crystal-clear lids. OXO Smart Seal glass locks airtight. Bentgo glass is the best single-compartment leak-proof option. Pyrex Simply Store is the most durable for oven use.
+  link: "https://pickly.blog/en/articles/best-meal-prep-containers-2026/"
+  image_alt: "Best meal prep containers 2026 glass plastic leak-proof microwave-safe comparison"
+  hashtags: ["meal prep containers", "best meal prep containers 2026", "glass vs plastic containers", "leak proof food storage", "meal prep set"]
+
+- id: "best-meal-prep-containers-2026-top1-en"
+  article_slug: "best-meal-prep-containers-2026"
+  locale: "en"
+  variant: "top1"
+  board: "food"
+  title: "Rubbermaid Brilliance: The Clearest, Most Leak-Proof Plastic Container Set"
+  description: |
+    Rubbermaid Brilliance uses 100% BPA-free Tritan plastic that stays crystal-clear through hundreds of microwave cycles without clouding. The lid locks with four interlocking latches that create an airtight seal — tested by filling and shaking upside down with no leaks. Microwave, dishwasher, and freezer safe. The stackable design keeps a full set organized in half the cabinet space of glass containers.
+  link: "https://pickly.blog/en/articles/best-meal-prep-containers-2026/"
+  image_alt: "Rubbermaid Brilliance meal prep containers leak-proof top pick 2026"
+  hashtags: ["Rubbermaid Brilliance review", "best plastic meal prep", "BPA free containers", "leak proof meal prep", "Rubbermaid food storage"]
+
+- id: "best-meal-prep-containers-2026-problem-en"
+  article_slug: "best-meal-prep-containers-2026"
+  locale: "en"
+  variant: "problem"
+  board: "food"
+  title: "Meal Prep That Leaks in Your Bag? 3 Container Features That Actually Seal"
+  description: |
+    Most cheap food containers advertise "leak-proof" but fail the bag test — a light squeeze sends liquid through the lid seams. True leak-proof lids need: (1) a silicone gasket running the full perimeter; (2) at least 4 locking clips (not 2); (3) a lid that flexes slightly to maintain pressure. Rubbermaid Brilliance, OXO Smart Seal, and Bentgo Glass all pass the upside-down shake test.
+  link: "https://pickly.blog/en/articles/best-meal-prep-containers-2026/"
+  image_alt: "Meal prep container leak problem silicone gasket locking clips solution"
+  hashtags: ["meal prep container leak fix", "leak proof container guide", "silicone gasket container", "meal prep bag safe", "food storage seal"]
+
+- id: "best-meal-prep-containers-2026-budget-en"
+  article_slug: "best-meal-prep-containers-2026"
+  locale: "en"
+  variant: "budget"
+  board: "food"
+  title: "Best Budget Meal Prep Containers 2026: 20 Glass Pieces Under $30 with Prep Naturals"
+  description: |
+    Prep Naturals Glass Meal Prep Containers come in a 20-piece set for around $28 — about $1.40 per container. Borosilicate glass withstands oven temps up to 400°F (no lid in oven). BPA-free snap lids. Dishwasher, microwave, and freezer safe. Available in 3-cup and 1-cup sizes in the set. The glass quality is slightly thinner than OXO or Pyrex but perfectly functional for weekly meal prep at an unbeatable price.
+  link: "https://pickly.blog/en/articles/best-meal-prep-containers-2026/"
+  image_alt: "Prep Naturals glass meal prep containers 20 piece budget best value 2026"
+  hashtags: ["budget meal prep containers", "Prep Naturals review", "cheap glass containers", "glass meal prep set 20 piece", "affordable food storage"]
+
+- id: "best-meal-prep-containers-2026-avoid-en"
+  article_slug: "best-meal-prep-containers-2026"
+  locale: "en"
+  variant: "avoid"
+  board: "food"
+  title: "Meal Prep Container Mistakes: Plastic That Stains, Lids That Warp, BPA Risk"
+  description: |
+    Avoid containers with: (1) plain polypropylene (PP) lids — they warp after 10–20 microwave uses, losing their seal; (2) no BPA-free certification — older plastic containers leach BPA into acidic foods; (3) round containers — they waste 30% more cabinet space than rectangular sets. All 5 containers in this comparison are rectangular, BPA-free, and tested to stay flat through 100+ microwave cycles.
+  link: "https://pickly.blog/en/articles/best-meal-prep-containers-2026/"
+  image_alt: "Meal prep container mistakes plastic warped lid BPA staining warning"
+  hashtags: ["meal prep container warning", "BPA food storage", "warped lid container fix", "food container buying guide", "safe meal prep containers"]
+
+- id: "best-meal-prep-containers-2026-scene-en"
+  article_slug: "best-meal-prep-containers-2026"
+  locale: "en"
+  variant: "scene"
+  board: "food"
+  title: "Meal Prep Containers for Every Use: Office Lunch, Freezer Stash & Oven-to-Table"
+  description: |
+    Office lunch (needs bag-safe seal) → Rubbermaid Brilliance or Bentgo Glass. Budget weekly prep for a household → Prep Naturals 20-piece glass set. Freezer meal stash → Pyrex Simply Store (thermal shock resistant). Oven reheating → Pyrex Simply Store or OXO Smart Seal glass (oven-safe without lid). Gifting / aesthetic kitchen set → OXO Good Grips Smart Seal (clean design, easy stack).
+  link: "https://pickly.blog/en/articles/best-meal-prep-containers-2026/"
+  image_alt: "Meal prep containers by use office lunch freezer oven gift"
+  hashtags: ["meal prep by use case", "office lunch containers", "freezer meal prep", "oven safe containers", "meal prep gift set"]
+
+- id: "best-meal-prep-containers-2026-comparison-ja"
+  article_slug: "best-meal-prep-containers-2026"
+  locale: "ja"
+  variant: "comparison"
+  board: "food"
+  title: "作り置き容器 2026年版比較：ガラス vs プラスチック・漏れ防止・電子レンジ対応 徹底検証"
+  description: |
+    5製品を漏れ防止・電子レンジ安全性・スタック性で徹底比較。コスパ最強はPrep Naturals ガラス（20個セット）。プラスチック最高透明度・密封性はRubbermaid Brilliance。気密密閉ガラスはOXO Smart Seal。単室漏れ防止最強はBentgo Glass。オーブン対応最高耐久性はPyrex Simply Store。
+  link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
+  image_alt: "作り置き 保存容器 比較 2026 ガラス プラスチック 漏れ防止 電子レンジ"
+  hashtags: ["作り置き 容器", "保存容器 比較 2026", "ガラス vs プラスチック 容器", "漏れない 弁当容器", "ミールプレップ セット"]
+
+- id: "best-meal-prep-containers-2026-top1-ja"
+  article_slug: "best-meal-prep-containers-2026"
+  locale: "ja"
+  variant: "top1"
+  board: "food"
+  title: "Rubbermaid Brilliance が作り置き容器1位の理由：4ロック密封・BPAフリー・透明度維持"
+  description: |
+    Rubbermaid BrillianceはBPAフリートライタン製で数百回の電子レンジ使用後も濁らない透明度を維持。4点インターロック蓋が気密シールを形成し、逆さに振っても液体が漏れない（実証済み）。電子レンジ・食洗機・冷凍庫対応。スタッキング設計でガラス容器の半分のスペースに収納。作り置き最強プラスチック容器の定番。
+  link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
+  image_alt: "Rubbermaid Brilliance 作り置き容器 漏れ防止 おすすめ 2026"
+  hashtags: ["Rubbermaid Brilliance レビュー", "プラスチック 作り置き 最強", "BPAフリー 保存容器", "漏れない 弁当箱", "Rubbermaid 食品保存"]
+
+- id: "best-meal-prep-containers-2026-problem-ja"
+  article_slug: "best-meal-prep-containers-2026"
+  locale: "ja"
+  variant: "problem"
+  board: "food"
+  title: "バッグの中で漏れる弁当容器：本当に漏れない容器の3つの条件"
+  description: |
+    多くの安い容器は「漏れない」と謳っているが、軽く押すだけで液体が蓋の隙間から漏れる。本当に漏れない蓋の条件：①全周シリコンガスケット付き；②ロッククリップが4点以上（2点は不十分）；③圧力を維持するわずかなたわみのある蓋。Rubbermaid Brilliance・OXO Smart Seal・Bentgo Glassはすべて逆さ振りテストをクリア。
+  link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
+  image_alt: "弁当容器 漏れる 原因 シリコンガスケット ロッククリップ 解決"
+  hashtags: ["弁当容器 漏れる 解決", "漏れない 容器 条件", "シリコンガスケット 容器", "バッグ 安全 弁当箱", "食品保存 密封"]
+
+- id: "best-meal-prep-containers-2026-budget-ja"
+  article_slug: "best-meal-prep-containers-2026"
+  locale: "ja"
+  variant: "budget"
+  board: "food"
+  title: "コスパ最強作り置き容器 2026：Prep Naturals ガラス20個が3,500円以下"
+  description: |
+    Prep Naturals Glass Meal Prep Containersは20個セットで約3,500円（1個約175円）と本比較で最安。耐熱200°C（蓋なし）のホウケイ酸ガラス。BPAフリースナップ蓋。食洗機・電子レンジ・冷凍庫対応。3カップと1カップのサイズミックス。OXOやPyrexより若干薄いが週次作り置きには十分な品質。
+  link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
+  image_alt: "Prep Naturals ガラス 保存容器 20個 コスパ 2026"
+  hashtags: ["安い 作り置き容器", "Prep Naturals レビュー", "安い ガラス容器", "ガラス保存容器 20個 セット", "コスパ 食品保存"]
+
+- id: "best-meal-prep-containers-2026-avoid-ja"
+  article_slug: "best-meal-prep-containers-2026"
+  locale: "ja"
+  variant: "avoid"
+  board: "food"
+  title: "買ってはいけない作り置き容器：蓋の変形・BPA・丸型の3つが失敗の元"
+  description: |
+    避けるべき特徴：①普通のポリプロピレン（PP）蓋（電子レンジ10〜20回で変形して密封不能になる）；②BPAフリー認証なし（古いプラスチック容器は酸性食品にBPAを溶出する）；③丸型容器（同じ容量なら四角型より30%多くの棚スペースを無駄にする）。本記事の5製品はすべて四角型・BPAフリー・電子レンジ100回耐久テスト済み。
+  link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
+  image_alt: "作り置き容器 失敗 蓋変形 BPA 丸型 注意点"
+  hashtags: ["作り置き容器 失敗 回避", "BPA 食品保存 危険", "蓋 変形 容器 修正", "食品容器 購入ガイド", "安全な 作り置き容器"]
+
+- id: "best-meal-prep-containers-2026-scene-ja"
+  article_slug: "best-meal-prep-containers-2026"
+  locale: "ja"
+  variant: "scene"
+  board: "food"
+  title: "用途別おすすめ作り置き容器：会社弁当・冷凍ストック・オーブン対応・ギフト"
+  description: |
+    バッグ持ち運び（漏れ防止必須） → Rubbermaid BrillianceまたはBentgo Glass。週次まとめ作り置き → Prep Naturals 20個ガラスセット。冷凍ミールストック → Pyrex Simply Store（耐熱耐冷の熱衝撃強い）。オーブン再加熱 → Pyrex Simply StoreまたはOXO Smart Seal ガラス（蓋なし耐熱）。おしゃれなギフト → OXO Good Grips Smart Seal（清潔感あるデザイン・スタック整頓）。
+  link: "https://pickly.blog/ja/articles/best-meal-prep-containers-2026/"
+  image_alt: "作り置き容器 用途別 会社弁当 冷凍 オーブン ギフト"
+  hashtags: ["作り置き容器 用途別", "会社 弁当箱", "冷凍 作り置き", "オーブン対応 保存容器", "保存容器 ギフト"]
+
+# ── #141 best-jump-rope-for-crossfit-2026 ────────────────────────────────
+- id: "best-jump-rope-for-crossfit-2026-comparison-en"
+  article_slug: "best-jump-rope-for-crossfit-2026"
+  locale: "en"
+  variant: "comparison"
+  board: "fitness"
+  title: "Best Jump Ropes for CrossFit 2026: Rx Smart Gear vs WOD Nation vs CrossRope vs RPM"
+  description: |
+    Tested 5 CrossFit jump ropes on double-under speed, cable durability, and handle comfort. Rx Smart Gear Elite EVO has the thinnest cable (1.5mm) for fastest double-unders. WOD Nation is the best budget speed rope. CrossRope Get Lean provides weighted cables for conditioning. RPM Session 3 has the smoothest ball-bearing handles. Elite SRS Muay Thai cable is the most durable for floor-contact environments.
+  link: "https://pickly.blog/en/articles/best-jump-rope-for-crossfit-2026/"
+  image_alt: "Best CrossFit jump ropes 2026 comparison Rx Smart Gear WOD Nation CrossRope RPM"
+  hashtags: ["crossfit jump rope", "best jump rope 2026", "Rx Smart Gear vs WOD Nation", "double under jump rope", "speed rope comparison"]
+
+- id: "best-jump-rope-for-crossfit-2026-top1-en"
+  article_slug: "best-jump-rope-for-crossfit-2026"
+  locale: "en"
+  variant: "top1"
+  board: "fitness"
+  title: "Rx Smart Gear Elite EVO: Thinnest Cable, Fastest Double-Unders at Any Level"
+  description: |
+    Rx Smart Gear Elite EVO uses a 1.5mm PVC-coated cable — the thinnest in this comparison — which minimizes air resistance for faster revolutions. The fully adjustable cable shortens via the handle mechanism without tools. Precision needle bearings in each handle reduce friction to near-zero. At around $40, it's the go-to rope for athletes trying to break into consistent double-unders or compete in WODs.
+  link: "https://pickly.blog/en/articles/best-jump-rope-for-crossfit-2026/"
+  image_alt: "Rx Smart Gear Elite EVO jump rope thinnest cable double unders best 2026"
+  hashtags: ["Rx Smart Gear Elite EVO", "best double under rope", "thin cable jump rope", "crossfit double unders", "speed jump rope review"]
+
+- id: "best-jump-rope-for-crossfit-2026-problem-en"
+  article_slug: "best-jump-rope-for-crossfit-2026"
+  locale: "en"
+  variant: "problem"
+  board: "fitness"
+  title: "Can't String Double-Unders? Your Rope Is Probably Too Heavy or Too Long"
+  description: |
+    The two most common reasons athletes fail at double-unders: (1) a rope that's too long — standard sizing puts the handles at your armpits, not your chest; (2) a rope that's too heavy — fitness ropes at 8oz+ require significantly more wrist power than a 1.5–2oz speed cable. Fix: size your rope correctly (subtract 3 feet from your height for a starting point) and switch to a dedicated speed cable.
+  link: "https://pickly.blog/en/articles/best-jump-rope-for-crossfit-2026/"
+  image_alt: "Double unders failing rope too long too heavy size fix guide"
+  hashtags: ["double under tips", "jump rope sizing guide", "double under mistakes", "crossfit rope tips", "how to do double unders"]
+
+- id: "best-jump-rope-for-crossfit-2026-budget-en"
+  article_slug: "best-jump-rope-for-crossfit-2026"
+  locale: "en"
+  variant: "budget"
+  board: "fitness"
+  title: "Best Budget CrossFit Jump Rope 2026: WOD Nation Speed Rope Under $20"
+  description: |
+    WOD Nation Speed Jump Rope costs under $20 and comes with two cables (2.5mm and 1.5mm) so you can practice with the heavier cable first and upgrade as your technique improves. The anodized aluminum handles are 6 inches long with smooth ball bearings. Adjustable to any length by cutting the cable. Comes with a carrying bag. Best entry rope for athletes starting double-under practice.
+  link: "https://pickly.blog/en/articles/best-jump-rope-for-crossfit-2026/"
+  image_alt: "WOD Nation speed jump rope budget best value CrossFit 2026"
+  hashtags: ["budget crossfit jump rope", "WOD Nation review", "cheap speed rope", "jump rope under 20", "beginner double under rope"]
+
+- id: "best-jump-rope-for-crossfit-2026-avoid-en"
+  article_slug: "best-jump-rope-for-crossfit-2026"
+  locale: "en"
+  variant: "avoid"
+  board: "fitness"
+  title: "Jump Rope Warning: Vinyl Coated Handles and Plastic Bearings Break Under WOD Intensity"
+  description: |
+    Two red flags for CrossFit jump ropes: (1) vinyl or rubber-coated handles — they absorb sweat and become slippery during Fran or Grace; (2) plastic sleeve bearings — they freeze and spin unevenly once worn, causing inconsistent cable rotation. Look for aluminum or stainless steel handles and sealed ball bearings. All 5 ropes in this comparison use metal handles and ball bearings.
+  link: "https://pickly.blog/en/articles/best-jump-rope-for-crossfit-2026/"
+  image_alt: "Jump rope red flags vinyl handles plastic bearings CrossFit warning"
+  hashtags: ["crossfit jump rope warning", "jump rope handle material", "ball bearing jump rope", "metal handle rope", "crossfit gear quality"]
+
+- id: "best-jump-rope-for-crossfit-2026-scene-en"
+  article_slug: "best-jump-rope-for-crossfit-2026"
+  locale: "en"
+  variant: "scene"
+  board: "fitness"
+  title: "CrossFit Jump Rope by Skill Level: Learning Double-Unders, WOD Speed & Conditioning"
+  description: |
+    Learning double-unders (beginner) → WOD Nation (comes with two cables, budget-friendly). Breaking 50 DUs unbroken → Rx Smart Gear Elite EVO (1.5mm cable, precision bearings). Heavy conditioning / AMRAP cardio → CrossRope Get Lean (weighted cables, app workouts). Competition-level speed → RPM Session 3 (smoothest bearing, consistent arc). Outdoor / affiliate gym → Elite SRS Muay Thai (armored cable handles floor contact).
+  link: "https://pickly.blog/en/articles/best-jump-rope-for-crossfit-2026/"
+  image_alt: "CrossFit jump rope by skill level beginner WOD speed conditioning"
+  hashtags: ["crossfit rope by level", "learning double unders", "WOD speed rope", "crossfit conditioning rope", "jump rope skill progression"]
+
+- id: "best-jump-rope-for-crossfit-2026-comparison-ja"
+  article_slug: "best-jump-rope-for-crossfit-2026"
+  locale: "ja"
+  variant: "comparison"
+  board: "fitness"
+  title: "クロスフィット 縄跳び 2026年版比較：Rx Smart Gear vs WOD Nation vs CrossRope vs RPM"
+  description: |
+    5製品をダブルアンダー速度・ケーブル耐久性・ハンドル快適性で徹底比較。最薄ケーブル（1.5mm）＆最速ダブルアンダーはRx Smart Gear Elite EVO。コスパ最強スピードロープはWOD Nation。コンディショニング重りケーブルはCrossRope Get Lean。最滑らかベアリングはRPM Session 3。フロア接触環境最高耐久性はElite SRS Muay Thai。
+  link: "https://pickly.blog/ja/articles/best-jump-rope-for-crossfit-2026/"
+  image_alt: "クロスフィット 縄跳び 比較 2026 Rx Smart Gear WOD Nation CrossRope RPM"
+  hashtags: ["クロスフィット 縄跳び", "スピードロープ 比較 2026", "Rx Smart Gear vs WOD Nation", "ダブルアンダー 縄跳び", "スピードロープ 比較"]
+
+- id: "best-jump-rope-for-crossfit-2026-top1-ja"
+  article_slug: "best-jump-rope-for-crossfit-2026"
+  locale: "ja"
+  variant: "top1"
+  board: "fitness"
+  title: "Rx Smart Gear Elite EVOがクロスフィットロープ1位の理由：1.5mm最薄ケーブル・精密ニードルベアリング"
+  description: |
+    Rx Smart Gear Elite EVOは1.5mm PVCコーティングケーブルで本比較中最薄。空気抵抗最小でダブルアンダーの回転速度が際立つ。工具不要でハンドル内メカニズムによる長さ調整対応。精密ニードルベアリングがフリクションをほぼゼロに低減。約5,000円でダブルアンダー習得や競技WODを目指すアスリートの定番ロープ。
+  link: "https://pickly.blog/ja/articles/best-jump-rope-for-crossfit-2026/"
+  image_alt: "Rx Smart Gear Elite EVO 縄跳び ダブルアンダー 最速 2026"
+  hashtags: ["Rx Smart Gear Elite EVO", "ダブルアンダー 縄跳び おすすめ", "薄いケーブル スピードロープ", "クロスフィット ダブルアンダー", "スピードロープ レビュー"]
+
+- id: "best-jump-rope-for-crossfit-2026-problem-ja"
+  article_slug: "best-jump-rope-for-crossfit-2026"
+  locale: "ja"
+  variant: "problem"
+  board: "fitness"
+  title: "ダブルアンダーができない原因：縄跳びの長さと重さが間違っている可能性"
+  description: |
+    ダブルアンダー失敗の2大原因：①ロープが長すぎる（適切な長さは背丈から90cm引いた値が目安・脇の下でなく胸の高さに来るべき）；②ロープが重すぎる（8oz以上のフィットネス縄跳びは手首に過大な負担・スピードケーブル45〜57gが理想）。まず長さを正しく設定し、1.5〜2mmの専用スピードケーブルに切り替えるだけで劇的に変わる。
+  link: "https://pickly.blog/ja/articles/best-jump-rope-for-crossfit-2026/"
+  image_alt: "ダブルアンダー できない 縄跳び 長さ 重さ 原因 解決"
+  hashtags: ["ダブルアンダー コツ", "縄跳び 長さ ガイド", "ダブルアンダー 失敗 原因", "クロスフィット 縄跳び アドバイス", "ダブルアンダー 練習 方法"]
+
+- id: "best-jump-rope-for-crossfit-2026-budget-ja"
+  article_slug: "best-jump-rope-for-crossfit-2026"
+  locale: "ja"
+  variant: "budget"
+  board: "fitness"
+  title: "コスパ最強クロスフィット縄跳び 2026：WOD Nation が2,500円以下でケーブル2本付き"
+  description: |
+    WOD Nation Speed Jump Ropeは2,500円以下で2.5mmと1.5mmのケーブル2本が同梱。太めから細めへと上達に合わせた練習が可能。陽極酸化アルミハンドルはボールベアリング内蔵。カットで長さ自由調整可。キャリングバッグ付属。ダブルアンダー練習を始めるアスリートへの最強入門ロープ。
+  link: "https://pickly.blog/ja/articles/best-jump-rope-for-crossfit-2026/"
+  image_alt: "WOD Nation スピードロープ コスパ クロスフィット 2026"
+  hashtags: ["安い クロスフィット 縄跳び", "WOD Nation レビュー", "コスパ スピードロープ", "縄跳び 2500円 以下", "ダブルアンダー 入門 ロープ"]
+
+- id: "best-jump-rope-for-crossfit-2026-avoid-ja"
+  article_slug: "best-jump-rope-for-crossfit-2026"
+  locale: "ja"
+  variant: "avoid"
+  board: "fitness"
+  title: "クロスフィット縄跳びの落とし穴：塩化ビニルハンドルとプラスチックベアリングはWODで壊れる"
+  description: |
+    クロスフィット縄跳びで避けるべき2つの特徴：①塩ビ・ゴムコーティングハンドル（汗で滑りやすくFranやGraceのWOD中に落とす）；②プラスチックスリーブベアリング（使用で摩耗すると縄の回転が不均一になる）。アルミまたはステンレスハンドル＋シールドボールベアリングを選ぶこと。本記事の5製品はすべてこれらをクリア済み。
+  link: "https://pickly.blog/ja/articles/best-jump-rope-for-crossfit-2026/"
+  image_alt: "クロスフィット 縄跳び 注意 塩ビハンドル プラスチックベアリング 失敗"
+  hashtags: ["クロスフィット 縄跳び 注意", "縄跳び ハンドル 素材", "ボールベアリング 縄跳び", "金属ハンドル ロープ", "クロスフィット 器具 品質"]
+
+- id: "best-jump-rope-for-crossfit-2026-scene-ja"
+  article_slug: "best-jump-rope-for-crossfit-2026"
+  locale: "ja"
+  variant: "scene"
+  board: "fitness"
+  title: "スキルレベル別クロスフィット縄跳び：ダブルアンダー習得・WOD速度・コンディショニング"
+  description: |
+    ダブルアンダー初心者 → WOD Nation（ケーブル2本付き・予算内）。ダブルアンダー50回連続突破 → Rx Smart Gear Elite EVO（1.5mmケーブル・精密ベアリング）。重い負荷コンディショニング → CrossRope Get Lean（重りケーブル・アプリワークアウト）。競技レベル速度 → RPM Session 3（最滑らかベアリング・均一な弧）。屋外・アフィリエイトジム → Elite SRS Muay Thai（補強ケーブル・床接触対応）。
+  link: "https://pickly.blog/ja/articles/best-jump-rope-for-crossfit-2026/"
+  image_alt: "クロスフィット 縄跳び レベル別 ダブルアンダー WOD 速度 コンディショニング"
+  hashtags: ["クロスフィット ロープ レベル別", "ダブルアンダー 習得", "WOD スピードロープ", "クロスフィット コンディショニング ロープ", "縄跳び スキル アップ"]
