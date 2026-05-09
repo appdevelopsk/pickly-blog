@@ -3976,6 +3976,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-jins-smart-shield", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJINS%2B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Home / Desk Organizers (best-desk-organizer-2026) ─────────
+  {
+    id: "yamazaki-tower-desk-organizer",
+    category: "home",
+    badge: "🗂️",
+    name: { en: "Yamazaki Tower Desk Organizer", ja: "山崎実業 タワー デスクオーガナイザー" },
+    description: {
+      en: "Japanese minimalist powder-coated steel wire desk organizer. Open construction keeps visual footprint light. Cable routing notch at back. Fits roughly 15×20 cm of desk surface.",
+      ja: "粉体塗装スチールワイヤーの日本ミニマリストデスクオーガナイザー。オープン構造で視覚的なフットプリントが軽い。後部ケーブル通し穴あり。約15×20cmのデスクスペースに収まる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-yamazaki-tower-desk-organizer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B1%B1%E5%B4%8E%E5%AE%9F%E6%A5%AD+tower+%E3%83%87%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "belkin-boost-charge-stand",
+    category: "home",
+    badge: "🔋",
+    name: { en: "Belkin BoostCharge 3-in-1 MagSafe Stand", ja: "Belkin BoostCharge 3-in-1 MagSafe充電スタンド" },
+    description: {
+      en: "Charges iPhone via MagSafe at 15W, Apple Watch at fast-charge speed, and AirPods via Qi — all from one USB-C cable. Best for iPhone + Apple Watch + AirPods households.",
+      ja: "MagSafe経由でiPhoneを15W充電、Apple Watchを急速充電、QiでAirPodsを充電。1本のUSB-Cケーブルで3台同時充電。iPhone＋Apple Watch＋AirPodsの家庭に最適。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-belkin-boost-charge-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBelkin+BoostCharge+3-in-1+MagSafe%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anker-622-magnetic-stand",
+    category: "home",
+    badge: "📱",
+    name: { en: "Anker 622 MagGo Magnetic Stand", ja: "Anker 622 MagGo マグネティックスタンド" },
+    description: {
+      en: "Foldable MagSafe-compatible iPhone stand. Collapses to ~1 cm thickness. Detachable MagSafe puck. Charges iPhone at 15W. Best for frequent travelers and small-desk users.",
+      ja: "折りたたみMagSafe対応iPhoneスタンド。折りたたみ時に約1cm厚。MagSafeパックは着脱可能。iPhone 15W充電対応。頻繁な外出や小さいデスクのユーザーに最適。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anker-622-magnetic-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker+622+MagGo%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ikea-kallax-desk-insert",
+    category: "home",
+    badge: "🗄️",
+    name: { en: "IKEA Kallax Desk Insert Drawer", ja: "IKEAカラックス デスクインサート引き出し" },
+    description: {
+      en: "Slides into a standard 33×33 cm Kallax cube. Converts dead shelf display space into a functional pull-out drawer for desk supplies. Lowest price in this comparison.",
+      ja: "標準の33×33cmカラックスキューブにスライドイン。シェルフのデッドスペースを机用品の実用的な引き出しに変換。この比較で最安値。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ikea-kallax-desk-insert", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIKEA+%E3%82%AB%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9+%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "muji-acrylic-organizer",
+    category: "home",
+    badge: "🔲",
+    name: { en: "Muji Acrylic Desk Organizer Set", ja: "無印良品 アクリルデスクオーガナイザーセット" },
+    description: {
+      en: "Transparent stackable acrylic modular units. See contents without opening. Popular in Japanese home-office setups. Configurable for pens, small items, and documents.",
+      ja: "透明スタッカブルアクリルのモジュラーユニット。開けずに中身が見える。日本のホームオフィスで定番。ペン・小物・書類に対応する構成が可能。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-muji-acrylic-organizer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB+%E3%83%87%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Home / Candles (best-candle-2026) ─────────
   {
     id: "diptyque-baies-190g",
@@ -4040,6 +4106,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-kuumba-international-incense", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKuumba+International%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Tech / Backpacks (best-backpack-2026) ─────────
+  {
+    id: "peak-design-everyday-backpack-20l",
+    category: "tech",
+    badge: "📷",
+    name: { en: "Peak Design Everyday Backpack 20L", ja: "Peak Design エブリデイバックパック 20L" },
+    description: {
+      en: "~¥50,000-60,000 premium commuter and photography bag. MagLatch one-hand top closure, dual side-access zip panels, FlexFold origami dividers, weatherproof exterior shell. Explicit weakness: most expensive in comparison; MagLatch not lockable; origami divider system adds configurability overhead; ~1.5 kg empty weight heavier than comparable-volume minimalist bags; 20L limiting for overnight travel.",
+      ja: "約¥50,000〜60,000のプレミアム通勤＆写真兼用バッグ。MagLatch片手操作トップクロージャ、両サイドアクセスジップパネル、FlexFold折り紙ディバイダー、ウェザープルーフアウターシェル。明確な弱点：この比較で最高価格；MagLatchはロック機構なし；折り紙ディバイダーシステムに習得コスト；空の状態で約1.5kgとミニマリストバッグより重い；20Lは一泊旅行に制約あり。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-peak-design-everyday-backpack-20l", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPeak+Design+%E3%83%90%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tomtoc-a61-laptop-backpack",
+    category: "tech",
+    badge: "💼",
+    name: { en: "Tomtoc A61 Laptop Backpack 40L", ja: "Tomtoc A61 ノートPCバックパック 40L" },
+    description: {
+      en: "~¥8,000-12,000 high-organization commuter bag. 40L, 360-degree padded laptop compartment with dedicated zipper panel, dual water bottle pockets, multiple front organizer pockets. Explicit weakness: 40L oversized for minimalist daily carry; structured pocket system requires enough accessories to fill slots; water-resistant fabric with standard (non-sealed) zippers; functional design without visual distinction.",
+      ja: "約¥8,000〜12,000の高収納力通勤バッグ。40L、独立ジッパーパネル付き360度パッドPCコンパートメント、デュアルボトルポケット、複数のフロントオーガナイザーポケット。明確な弱点：40Lはミニマルな日常キャリーには大きすぎ；構造化収納は専用スロットを埋めるアクセサリーがある場合のみ機能；耐水素材だが標準式（非シール）ジッパー；外観の際立ちに欠ける。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-tomtoc-a61-laptop-backpack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTomtoc+A61%2B%E3%83%90%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "incase-icon-backpack",
+    category: "tech",
+    badge: "🍎",
+    name: { en: "Incase Icon Backpack", ja: "Incase Icon バックパック" },
+    description: {
+      en: "~¥20,000-25,000 MacBook-centric commuter bag. CannedHeat insulating foam provides thermal buffering and compression protection beyond standard padding, minimal clean design suited to professional environments. Explicit weakness: ~22L main compartment smaller than exterior suggests; minimal organization — no dedicated cable/pen slots; CannedHeat adds slight warmth to laptop compartment in summer heat; price higher than non-Apple-branded alternatives with similar volume.",
+      ja: "約¥20,000〜25,000のMacBookファースト通勤バッグ。CannedHeatフォームが標準パッドを超える熱緩衝と圧縮保護を提供、ビジネス環境に適したミニマルでクリーンなデザイン。明確な弱点：約22Lのメインコンパートメントは外見より小さい；ミニマルな収納でケーブル・ペンの専用スロットなし；夏場の閉めたバッグ内でPCが若干温かくなる；同容量の非Appleブランド代替品より高価。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-incase-icon-backpack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIncase+Icon+%E3%83%90%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anello-polyester-backpack",
+    category: "tech",
+    badge: "🎒",
+    name: { en: "Anello Polyester Backpack", ja: "アネロ ポリエステルバックパック" },
+    description: {
+      en: "~¥4,000-7,000 accessible everyday carry for Japanese commuters. Wide colorway variety on Rakuten, luggage handle pass-through sleeve standard on most models, proportions designed for average Japanese build. Explicit weakness: basic padded laptop sleeve without floating suspension — laptop contacts bag base in drop; no weather protection beyond basic DWR; simple organization insufficient for tech-heavy carry; brand ubiquity means less visual distinction.",
+      ja: "約¥4,000〜7,000の日本人通勤者に最もアクセスしやすい日常キャリー。楽天での豊富なカラー展開、大半のモデルにスーツケースハンドルパススルースリーブ標準装備、日本人体型に合わせた比率設計。明確な弱点：フローティング懸架なしの基本パッドPCスリーブ——落下時にPCがバッグ底に接地；ポリエステル外装の基本DWR以外の防水対策なし；テックアクセサリー多用には収納不足；日本での普及率の高さは視覚的な差別化の少なさを意味する。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anello-polyester-backpack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%8D%E3%83%AD%2B%E3%83%90%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "the-north-face-recon",
+    category: "tech",
+    badge: "🏔️",
+    name: { en: "The North Face Recon 30L", ja: "ザ・ノース・フェイス Recon 30L" },
+    description: {
+      en: "~¥14,000-18,000 commuter-meets-outdoor daypack. FlexVent tensioned mesh back panel reduces back sweat substantially, 30L handles commuter-plus-gym loads, back-panel laptop position is most stable carry position. Explicit weakness: heavier and bulkier than 20L commuter bags; outdoor design elements irrelevant for pure urban commuting; colorways skew outdoor, less appropriate for professional office environments; FlexVent standout design makes bag read visually larger than 30L.",
+      ja: "約¥14,000〜18,000の通勤×アウトドア兼用デイパック。FlexVentテンションメッシュ背面パネルで背中の汗接触を大幅軽減、30Lで通勤+ジム荷物対応、背面パネルのPCスリーブはバッグ内で最も安定した収納位置。明確な弱点：20L通勤バッグより重くかさばる；アウトドアツールの設計要素は純粋な都市通勤に不自然；カラーバリエーションがアウトドア寄りでビジネス環境にはIncaseやPeak Designより適合しにくい；FlexVentの浮き上がりで30Lより視覚的に大きく見える。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-the-north-face-recon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%2BRecon%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
