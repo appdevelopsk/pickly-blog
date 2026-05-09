@@ -3250,6 +3250,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-xiaomi-mi-laser-projector-150", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXiaomi%2BMi%2BLaser%2BProjector%2B150%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Tech / Dash Cams (best-dash-cam-2026) ─────────
+  {
+    id: "vantrue-e1-lite",
+    category: "tech",
+    badge: "📷",
+    name: { en: "Vantrue E1 Lite", ja: "Vantrue E1 Lite" },
+    description: {
+      en: "Compact 1080p front-only dash cam at an entry-level price. Discreet form factor, adequate daylight footage. Weakness: low-light trails STARVIS cameras; no GPS; parking mode needs hardwire kit sold separately.",
+      ja: "エントリー価格のコンパクトな前方専用1080pドラレコ。小型で目立たない。弱点：低照度はSTARVIS機に劣る、GPS非内蔵、駐車監視には別売りハードワイヤーキット必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-vantrue-e1-lite", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVantrue%2BE1%2BLite%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "blackvue-dr970x-2ch",
+    category: "tech",
+    badge: "☁️",
+    name: { en: "BlackVue DR970X-2CH", ja: "BlackVue DR970X-2CH" },
+    description: {
+      en: "4K front + 1080p rear two-channel system with cloud connectivity and supercapacitor (superior summer heat tolerance). Weakness: highest price at ¥60,000–¥70,000; cloud advanced features need subscription; more complex installation.",
+      ja: "4Kフロント＋1080pリアの前後2カメラシステム。クラウド接続対応、スーパーキャパシタ採用で日本の夏に強い。弱点：本比較最高価格の6〜7万円台、クラウド上位機能はサブスク必要、設置がフロントのみより複雑。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-blackvue-dr970x-2ch", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBlackVue%2BDR970X-2CH%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kenwood-drv-a601w",
+    category: "tech",
+    badge: "🎌",
+    name: { en: "Kenwood DRV-A601W", ja: "ケンウッド DRV-A601W" },
+    description: {
+      en: "4K front with Sony STARVIS sensor — best low-light front-only image quality in this comparison. Built-in GPS. Strong Japanese dealer/service network. Weakness: front-only; parking mode needs separate hardwire kit; rear camera add-on raises total cost significantly.",
+      ja: "4KフロントにSony STARVIS搭載 — 本比較のフロントのみで最高の低照度画質。GPS内蔵、国内販売・サポート充実。弱点：前方のみ、駐車監視に別売りハードワイヤーキット必要、リアカメラ追加で総コスト大幅増。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-kenwood-drv-a601w", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B1%E3%83%B3%E3%82%A6%E3%83%83%E3%83%89%2BDRV-A601W%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "garmin-dash-cam-67w",
+    category: "tech",
+    badge: "🔭",
+    name: { en: "Garmin Dash Cam 67W", ja: "ガーミン Dash Cam 67W" },
+    description: {
+      en: "Wide 180° FOV captures lane-change conflicts and side-impact scenarios. Compact, voice control, GPS, Travelapse mode. Weakness: front-only; 180° wide-angle introduces edge barrel distortion affecting plate readability at sides; no cloud connectivity.",
+      ja: "180度超広角で車線変更トラブルや側面衝突を記録。コンパクト、音声コントロール、GPS内蔵、Travelapse機能。弱点：前方のみ、超広角の樽型歪みでフレーム端でのナンバー読み取りに影響、クラウド接続なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-garmin-dash-cam-67w", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin%2BDash%2BCam%2B67W%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nextbase-622gw",
+    category: "tech",
+    badge: "🆘",
+    name: { en: "Nextbase 622GW", ja: "Nextbase 622GW" },
+    description: {
+      en: "4K with image stabilization and emergency SOS (contacts emergency services on significant unacknowledged impact). Built-in GPS. Weakness: emergency SOS needs Nextbase account and data plan; parking mode needs separate hardwire kit; Click&Go mount is proprietary.",
+      ja: "4Kと映像ぶれ補正、大衝撃検知時の緊急SOS機能（確認なければ緊急サービスに連絡）。GPS内蔵。弱点：緊急SOSにNextbaseアカウントとデータプラン必要、駐車監視に別売りハードワイヤーキット必要、Click&Goマウントが独自規格。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-nextbase-622gw", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNextbase%2B622GW%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Cast Iron Pans (best-cast-iron-pan-2026) ─────────
+  {
+    id: "lodge-l8sk3",
+    category: "food",
+    badge: "🍳",
+    name: { en: "Lodge Cast Iron Skillet L8SK3 10.25\"", ja: "Lodge キャストアイアンスキレット L8SK3 10.25インチ" },
+    description: {
+      en: "~¥3,500. Pre-seasoned American cast iron, 10.25-inch / 26cm, 2.1 kg, oven-safe to 260°C, induction compatible. The workhorse budget pick. Weakness: rough foundry surface takes 50+ cooks to smooth; 2.1 kg is heavier than most non-stick pans.",
+      ja: "約3,500円。出荷前シーズニング済みアメリカ製鋳鉄、26cm、2.1kg、260°Cオーブン対応・IH対応。コスパ最強の実力派。弱点：鋳造肌が粗く50回以上の調理でなめらかになる；2.1kgはノンスティックパンより重い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-lodge-l8sk3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%2B%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "le-creuset-skillet-26cm",
+    category: "food",
+    badge: "🔴",
+    name: { en: "Le Creuset Enameled Cast Iron Skillet 26cm", ja: "ル・クルーゼ エナメル鋳鉄スキレット 26cm" },
+    description: {
+      en: "~¥25,000-30,000. Enameled cast iron, 26cm, dishwasher-safe, lifetime warranty, no seasoning required, handles acidic foods. Weakness: enamel chips permanently if dropped on hard surfaces; highest price in this comparison.",
+      ja: "約25,000〜30,000円。ホーロー鋳鉄、26cm、食洗機対応、生涯保証、シーズニング不要、酸性食材対応。弱点：落下でホーローが永久に欠ける；本比較で最高価格帯。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-le-creuset-skillet-26cm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AB%E3%83%BB%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%BC%2B%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88%2B26%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "staub-frying-pan-26cm",
+    category: "food",
+    badge: "⚫",
+    name: { en: "Staub Frying Pan 26cm", ja: "ストウブ フライパン 26cm" },
+    description: {
+      en: "~¥28,000-35,000. Enameled cast iron with matte black interior, 26cm, develops patina with use, preferred by professional kitchens for browning. Weakness: top of the enameled cast iron price band in Japan; matte interior harder to visually assess cleanliness.",
+      ja: "約28,000〜35,000円。マットブラックホーロー内面の鋳鉄、26cm、使うほどパティナが育ちプロの厨房でステーキに好まれる。弱点：日本のエナメル鋳鉄価格帯上限；マット内面は視覚的な清潔確認がしにくい。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-staub-frying-pan-26cm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%88%E3%82%A6%E3%83%96%2B%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3%2B26%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "iwachu-iron-skillet",
+    category: "food",
+    badge: "🫕",
+    name: { en: "Iwachu Iron Skillet 26cm", ja: "岩鋳 南部鉄器スキレット 26cm" },
+    description: {
+      en: "~¥8,000-12,000. Traditional Morioka nambu ironware since 1902, thinner casting (~3mm) at ~1.4 kg for 26cm, finer surface texture than Lodge from first use, documented iron supplementation benefit. Weakness: 2-3x price of Lodge L8SK3 for similar function; same rust-prevention care as raw cast iron.",
+      ja: "約8,000〜12,000円。1902年から続く盛岡南部鉄器、薄手鋳造（約3mm）で26cmが約1.4kg、Lodgeより初めから細かい鋳肌、鉄分補給効果が実証済み。弱点：機能が近いLodge L8SK3の2〜3倍の価格；素の鋳鉄と同じ錆防止ケアが必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-iwachu-iron-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B2%A9%E9%8B%B3%2B%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lodge-l10sk3",
+    category: "food",
+    badge: "🍖",
+    name: { en: "Lodge Cast Iron Skillet L10SK3 12\"", ja: "Lodge キャストアイアンスキレット L10SK3 12インチ" },
+    description: {
+      en: "~¥5,500-7,000. Lodge's 12-inch family format, pre-seasoned, 3.2 kg, oven-safe to 260°C, induction compatible. Fits a whole spatchcocked chicken or 5-6 pork chops in one batch. Weakness: 3.2 kg is a two-handed pan; check burner diameter before buying.",
+      ja: "約5,500〜7,000円。Lodgeの12インチ家族向けフォーマット、シーズニング済み、3.2kg、260°Cオーブン対応・IH対応。スパッチコック丸鶏や豚ロース5〜6枚が1バッチ。弱点：3.2kgは両手持ち前提；購入前にバーナー径を確認。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-lodge-l10sk3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%2BL10SK3%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
