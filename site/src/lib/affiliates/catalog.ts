@@ -8213,6 +8213,137 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-garden-of-life-turmeric", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarden+of+Life%2Bmykind%2BTurmeric%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "prosourcefit-parallettes",
+    category: "fitness",
+    name: { en: "ProsourceFit Parallel Bars", ja: "ProsourceFit パラレルバー" },
+    description: {
+      en: "Wooden parallettes at 9-inch height with wide base for stability. Birch wood rails provide warm grip feel and reduce wrist fatigue during L-sits, dips, and push-up progressions. Wide footprint resists lateral torque under load.",
+      ja: "高さ9インチ・広ベースで安定感抜群の木製パラレット。バーチ材レールが手首への負担を軽減し、Lシット・ディップス・腕立て進行に最適。広い設置面積が横方向のねじれに対して高い安定性を発揮。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-prosourcefit-parallettes", rawUrl: "https://www.amazon.co.jp/s?k=ProsourceFit+%E3%83%91%E3%83%A9%E3%83%AC%E3%83%AB%E3%83%90%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-prosourcefit-parallettes", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FProsourceFit%2B%E3%83%91%E3%83%A9%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tumbl-trak-p-bars",
+    category: "fitness",
+    name: { en: "Tumbl Trak Gymnastics P-Bars", ja: "Tumbl Trak 体操用平行棒" },
+    description: {
+      en: "Adjustable-height PVC parallettes designed for gymnastics training. Height flexibility suits skill progressions including handstand push-up work. Lightweight and portable, best for skill-focused body-weight training at moderate loads.",
+      ja: "高さ調節可能なPVC製体操用平行棒。ハンドスタンドプッシュアップなどのスキル習得に合わせて高さを変えられる。軽量で持ち運びやすく、中程度の強度での技術系体重トレーニングに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-tumbl-trak-p-bars", rawUrl: "https://www.amazon.co.jp/s?k=Tumbl+Trak+%E4%BD%93%E6%93%8D+%E5%B9%B3%E8%A1%8C%E6%A3%92", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tumbl-trak-p-bars", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTumbl+Trak%2B%E4%BD%93%E6%93%8D%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-p3-parallettes",
+    category: "fitness",
+    name: { en: "Rogue P-3 Parallettes", ja: "Rogue P-3 パラレット" },
+    description: {
+      en: "Commercial-grade steel parallettes at 11-inch height. Powder-coated steel tube construction, zero lateral flex under heavy pressing or advanced static holds. Taller height extends dip depth and range of motion. Built for serious calisthenics athletes and gym environments.",
+      ja: "高さ11インチの業務グレードスチールパラレット。パウダーコートのスチールチューブ構造で重いプレスや高度なスタティックホールドでも横方向の歪みゼロ。より深いディップスと広い可動域を実現。本格的なカリステニクス選手とジム環境向け。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-rogue-p3-parallettes", rawUrl: "https://www.amazon.co.jp/s?k=Rogue+P-3+%E3%83%91%E3%83%A9%E3%83%AC%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-p3-parallettes", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BP-3%2B%E3%83%91%E3%83%A9%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lebert-parallettes",
+    category: "fitness",
+    name: { en: "Lebert Parallettes", ja: "Lebert パラレット" },
+    description: {
+      en: "Low 3-inch parallettes focused on strength training and push-up variations. Near-floor height maximizes range of motion for push-up work without balance demands of taller bars. Highly portable and suitable for travel training and apartment workouts.",
+      ja: "高さ3インチの低設計パラレット。筋力トレーニングと腕立て伏せバリエーション重視。床に近い高さが高いバーのバランス要求なしに腕立て伏せの最大可動域を引き出す。高い携帯性で旅行中のトレーニングやアパートでの使用に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-lebert-parallettes", rawUrl: "https://www.amazon.co.jp/s?k=Lebert+%E3%83%91%E3%83%A9%E3%83%AC%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-lebert-parallettes", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLebert%2B%E3%83%91%E3%83%A9%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yes4all-parallettes",
+    category: "fitness",
+    name: { en: "Yes4All Steel Parallettes", ja: "Yes4All スチールパラレット" },
+    description: {
+      en: "Budget steel parallettes at 9-inch height with rubber feet for floor grip. Steel construction provides more rigidity than PVC without commercial-grade pricing. Suitable for home athletes working L-sits, push-ups, and intermediate calisthenics exercises.",
+      ja: "ゴムフット付き・高さ9インチのバジェットスチールパラレット。スチール構造がPVCより剛性が高く、業務グレードの価格なしで金属の安定性を実現。Lシット・腕立て伏せ・中級カリステニクスに取り組むホームアスリートに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-yes4all-parallettes", rawUrl: "https://www.amazon.co.jp/s?k=Yes4All+%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E3%83%91%E3%83%A9%E3%83%AC%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-yes4all-parallettes", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All%2B%E3%83%91%E3%83%A9%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Protein Bar (best-protein-bar-2026) ─────────
+  {
+    id: "quest-bar",
+    category: "food",
+    name: { en: "Quest Protein Bar", ja: "Quest プロテインバー" },
+    description: {
+      en: "20–21g protein from whey and milk protein isolate, 4–5g net carbs, sweetened with erythritol and stevia. High-fiber formula with soluble corn fiber. Best for low-net-carb post-workout snacking and keto-friendly high-protein needs.",
+      ja: "ホエイ＋ミルクタンパクアイソレートから20〜21gのタンパク質、ネット炭水化物4〜5g。エリスリトール＋ステビア甘味。可溶性コーンファイバーによる高食物繊維処方。低ネット炭水化物・ケト対応のトレーニング後スナックに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-quest-bar", rawUrl: "https://www.amazon.co.jp/s?k=Quest+%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-quest-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FQuest+%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rxbar-protein",
+    category: "food",
+    name: { en: "RXBAR Protein Bar", ja: "RXBAR プロテインバー" },
+    description: {
+      en: "12g complete protein from egg whites, sweetened only with dates. No added sugar, no artificial sweeteners, no preservatives. Whole-food ingredient list printed on the front of the bar. Best for clean-label protein snacking with readable ingredients.",
+      ja: "卵白由来の完全タンパク質12g、デーツのみで甘みを出した処方。添加糖・人工甘味料・保存料なし。原材料がバーの表面に印刷された透明性重視の設計。読める原材料リストにこだわるクリーンなプロテインスナックに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-rxbar-protein", rawUrl: "https://www.amazon.co.jp/s?k=RXBAR+%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rxbar-protein", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRXBAR%2B%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "clif-builder-bar",
+    category: "food",
+    name: { en: "Clif Bar Builder's Protein Bar", ja: "Clif Bar Builder プロテインバー" },
+    description: {
+      en: "20g plant protein from soy protein isolate, around 270 calories, certified vegan and kosher. Higher sugar content from rice syrup suits endurance training windows. Best for plant-based athletes needing combined carbohydrate and protein fuel for sessions over 60 minutes.",
+      ja: "大豆タンパクアイソレートから植物性タンパク質20g、約270kcal。ビーガン・コーシャー認証。玄米シロップ由来のやや高い糖質は持久系トレーニング窓に適している。60分超のトレーニングで炭水化物＋タンパク質の両方が必要な植物性アスリートに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-clif-builder-bar", rawUrl: "https://www.amazon.co.jp/s?k=Clif+Bar+Builder%27s+%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-clif-builder-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClif+Builder%2B%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "one-protein-bar",
+    category: "food",
+    name: { en: "ONE Protein Bar", ja: "ONE プロテインバー" },
+    description: {
+      en: "20g protein from whey and milk protein blend, only 1g sugar, around 220 calories. Sweetened with erythritol and sucralose. Dessert-flavored lineup including Birthday Cake and Maple Glazed Doughnut. Best for high-protein, low-sugar snacking with maximum flavor variety.",
+      ja: "ホエイ＋ミルクタンパクブレンドから20gタンパク質、糖質わずか1g、約220kcal。エリスリトール＋スクラロース甘味。バースデーケーキやメープルグレーズドドーナツなどデザート系フレーバーラインナップ。最多フレーバーで高タンパク・低糖質スナックを求める人に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-one-protein-bar", rawUrl: "https://www.amazon.co.jp/s?k=ONE+%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-one-protein-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FONE+%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kind-protein-bar",
+    category: "food",
+    name: { en: "KIND Protein Bar", ja: "KIND プロテインバー" },
+    description: {
+      en: "12g protein from whole nuts and soy protein, sweetened with honey and dark chocolate. No artificial sweeteners or sugar alcohols. Whole-nut crunch texture. Best for buyers who want more protein than a standard snack but prefer real sweeteners and food-like texture over engineered bars.",
+      ja: "ホールナッツと大豆タンパクから12gタンパク質、ハチミツとダークチョコレートで甘みを出した処方。人工甘味料・糖アルコールなし。ホールナッツのサクサク食感。標準スナックより少しタンパク質を増やしたいが、人工甘味料より本物の甘味料と食べ物らしい食感を好む人に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-kind-protein-bar", rawUrl: "https://www.amazon.co.jp/s?k=KIND+%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kind-protein-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKIND+%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
