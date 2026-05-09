@@ -9451,6 +9451,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-koios-4in1-immersion-blender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKOIOS+%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Food / Kitchen Scales v2 (best-kitchen-scale-2026) ─────────
+  {
+    id: "oxo-11lb-food-scale",
+    category: "food",
+    name: { en: "OXO Good Grips 11 lb Food Scale with Pull-Out Display", ja: "OXO グッドグリップス 11ポンド 食品スケール（引き出し式ディスプレイ）" },
+    description: {
+      en: "5 kg / 11 lb capacity, 1g resolution, pull-out display readable under a large bowl, front-face tare button reachable without moving the bowl, 2-minute auto-off. The most practical design upgrade for bakers who weigh multiple ingredients into a single large mixing bowl.",
+      ja: "5kg / 11ポンド容量、1g分解能、大型ボウルの下でも読める引き出し式ディスプレイ、ボウルを動かさずに押せる前面タレボタン、2分オートオフ。同じ大きなミキシングボウルに複数の食材を量り入れるベーカーに最も実用的なデザイン。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000WKXSHY", rawUrl: "https://www.amazon.co.jp/dp/B000WKXSHY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-oxo-11lb-food-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO+%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB+%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "escali-primo-p115c",
+    category: "food",
+    name: { en: "Escali Primo Digital Food Scale (P115C)", ja: "エスカリ プリモ デジタル食品スケール（P115C）" },
+    description: {
+      en: "5 kg / 11 lb capacity, 1g resolution, lifetime warranty that Escali honors without argument. The standard recommendation from serious bread bakers for 15+ years — load cell calibration holds up over years of daily use where most budget scales drift within 12–18 months.",
+      ja: "5kg / 11ポンド容量、1g分解能、エスカリが議論なく適用する生涯保証。15年以上真剣なパン職人からの標準推薦——ほとんどの予算スケールが12〜18ヶ月以内にズレる中、毎日使用しても長年校正が維持される。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0007GXIG0", rawUrl: "https://www.amazon.co.jp/dp/B0007GXIG0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-escali-primo-p115c", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%AA+%E3%83%97%E3%83%AA%E3%83%A2+%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "my-weigh-kd8000-scale",
+    category: "food",
+    name: { en: "My Weigh KD-8000 Kitchen and Craft Digital Scale", ja: "マイウェイ KD-8000 キッチン＆クラフト デジタルスケール" },
+    description: {
+      en: "8 kg / 17.6 lb capacity, 1g resolution, 6 unit modes including Troy oz and pennyweights, configurable auto-off from 1–9 minutes or disabled, large backlit display, built-in percentage weighing mode for baker's percentages. Best high-capacity option for baking, craft brewing, and postal use.",
+      ja: "8kg / 17.6ポンド容量、1g分解能、トロイオンス・ペニーウェイトを含む6単位モード、1〜9分設定または無効化できるオートオフ、大型バックライトディスプレイ、ベーカーズパーセント向け内蔵パーセントモード。ベーキング・クラフトブリュー・郵便用途の最良大容量スケール。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001NE0FU2", rawUrl: "https://www.amazon.co.jp/dp/B001NE0FU2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-my-weigh-kd8000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4+KD-8000+%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "etekcity-ek6015-scale",
+    category: "food",
+    name: { en: "Etekcity Food Kitchen Scale (EK6015)", ja: "エテックシティ 食品キッチンスケール（EK6015）" },
+    description: {
+      en: "26 cm x 20 cm stainless steel platform, 5 kg / 11 lb capacity, 1g resolution, angled display readable under a large bowl, 4 unit modes. Budget-tier workhorse at around $12–15. 60-second auto-off is the main trade-off in long baking sessions.",
+      ja: "26cm×20cmステンレスプラットフォーム、5kg / 11ポンド容量、1g分解能、大ボウル下でも読める角度ディスプレイ、4単位モード。約1,500〜2,000円の予算帯ワークホース。60秒オートオフが長いパン作りセッションでの主なトレードオフ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07YTLHW7Z", rawUrl: "https://www.amazon.co.jp/dp/B07YTLHW7Z", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-etekcity-ek6015", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%86%E3%83%83%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3+EK6015+%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zwilling-enfinigy-scale",
+    category: "food",
+    name: { en: "Zwilling Enfinigy Digital Kitchen Scale", ja: "ツヴィリング エンフィニジー デジタルキッチンスケール" },
+    description: {
+      en: "Flat glass platform with flush touch buttons, 5 kg / 11 lb capacity, 1g resolution, integrated countdown timer that operates independently of weighing, 3-minute auto-off. German design for countertop espresso and precision baking use where aesthetics are a purchasing factor.",
+      ja: "フラッシュタッチボタン付きフラットガラスプラットフォーム、5kg / 11ポンド容量、1g分解能、計量と独立して動作する内蔵カウントダウンタイマー、3分オートオフ。美観が購入要因となるカウンタートップエスプレッソと精密ベーキング向けドイツデザイン。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08GKZM7R4", rawUrl: "https://www.amazon.co.jp/dp/B08GKZM7R4", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-zwilling-enfinigy-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%84%E3%83%B4%E3%82%A3%E3%83%AA%E3%83%B3%E3%82%B0+%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A3%E3%83%8B%E3%82%B8+%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Knee Sleeves (best-knee-sleeves-for-squats-2026) ─────────
+  {
+    id: "sbd-knee-sleeves-7mm",
+    category: "fitness",
+    name: { en: "SBD Knee Sleeves (7mm)", ja: "SBD ニースリーブ (7mm)" },
+    description: {
+      en: "7mm double-layer neoprene, IPF-approved, sold in pairs, sized by thigh circumference. Double-stitched top and bottom edges prevent roll-down. The standard at IPF World Championships.",
+      ja: "7mmダブルレイヤーネオプレーン、IPF公認、ペア販売、モモまわりでサイジング。上下端ダブルステッチでズレ落ち防止。IPF世界選手権での使用率ナンバーワン。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08CJQZK3M", rawUrl: "https://www.amazon.co.jp/dp/B08CJQZK3M", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sbd-knee-sleeves-7mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSBD+Knee+Sleeves+7mm%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rehband-rx-knee-sleeve-7mm",
+    category: "fitness",
+    name: { en: "Rehband RX Knee Sleeve (7mm)", ja: "Rehband RX ニースリーブ (7mm)" },
+    description: {
+      en: "7mm neoprene with tapered anatomical cut, wider at top tapering at patella base. Not IPF-approved. Sold individually. Long-standing rehab and strength sports standard.",
+      ja: "7mmネオプレーン・テーパード解剖学的カット採用、上部が広く膝蓋骨底部で絞れる設計。IPF非公認。単体販売。リハビリ・競技スポーツの長年の定番。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BEGJKL0", rawUrl: "https://www.amazon.co.jp/dp/B00BEGJKL0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rehband-rx-knee-sleeve-7mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRehband+RX+Knee+Sleeve+7mm%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "stoic-strength-knee-sleeves",
+    category: "fitness",
+    name: { en: "Stoic Strength Knee Sleeves (7mm)", ja: "Stoic Strength ニースリーブ (7mm)" },
+    description: {
+      en: "7mm neoprene, IPF-approved, sold in pairs, reinforced rear seam. Best value competition-grade knee sleeve. Runs slightly small — size up if between sizes.",
+      ja: "7mmネオプレーン、IPF公認、ペア販売、後面補強縫製。最高コスパの競技グレードニースリーブ。やや小さめサイズ感——ハーフサイズならワンサイズ上を選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07DPWMKHL", rawUrl: "https://www.amazon.co.jp/dp/B07DPWMKHL", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-stoic-strength-knee-sleeves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStoic+Strength+Knee+Sleeves%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "a7-bar-grip-knee-sleeves",
+    category: "fitness",
+    name: { en: "A7 Bar Grip Knee Sleeves (5mm)", ja: "A7 Bar Grip ニースリーブ (5mm)" },
+    description: {
+      en: "5mm neoprene with silicone bar-grip print exterior preventing migration during squats and dynamic movements. Not IPF-approved. Sold in pairs. Designed for CrossFit and functional fitness.",
+      ja: "5mmネオプレーン・シリコンバーグリッププリント外面採用でスクワットや動的動作中のズレを防止。IPF非公認。ペア販売。CrossFit・ファンクショナルフィットネス向け設計。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07QDKG5QG", rawUrl: "https://www.amazon.co.jp/dp/B07QDKG5QG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-a7-bar-grip-knee-sleeves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FA7+Bar+Grip+Knee+Sleeves%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-knee-sleeves-5mm",
+    category: "fitness",
+    name: { en: "Rogue Knee Sleeves (5mm)", ja: "Rogue ニースリーブ (5mm)" },
+    description: {
+      en: "5mm single-layer neoprene, moderate compression, sold in pairs. Not IPF-approved. Best for general strength training where sleeves stay on through varied movements across 60-90 minute sessions.",
+      ja: "5mmシングルレイヤーネオプレーン、適度な圧迫、ペア販売。IPF非公認。60〜90分セッションを通じて多様な動作でスリーブを着けたままでいたい一般筋トレ向け最適モデル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07BGWYFKW", rawUrl: "https://www.amazon.co.jp/dp/B07BGWYFKW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-knee-sleeves-5mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Knee+Sleeves+5mm%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
