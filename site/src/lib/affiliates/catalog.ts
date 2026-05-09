@@ -3382,6 +3382,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-lodge-l10sk3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%2BL10SK3%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Food / Electric Grills (best-electric-grill-2026) ─────────
+  {
+    id: "zojirushi-eb-dlc20",
+    category: "food",
+    badge: "🔥",
+    name: { en: "Zojirushi Electric Grill EB-DLC20", ja: "象印 ホットプレート EB-DLC20" },
+    description: {
+      en: "Japanese flagship electric grill — 1300W thick aluminum plates, water-tray smoke reduction, removable hand-wash plates. Best for yakiniku and fish at home. Plates are hand-wash only; smoke suppression works on lean protein but not fatty cuts at high heat.",
+      ja: "象印の定番電気グリル。1300W厚アルミプレート・水トレー煙抑制・プレート着脱可能。焼肉・焼き魚のマンション利用に最適。プレートは手洗い専用；脂の多い食材を高温で焼けば煙は出る。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-zojirushi-eb-dlc20", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%B1%A1%E5%8D%B0%2B%E3%83%9B%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-gr-4n",
+    category: "food",
+    badge: "🍳",
+    name: { en: "Cuisinart Griddler GR-4N", ja: "クイジナート グリドラー GR-4N" },
+    description: {
+      en: "5-in-1 American griddle-grill hybrid — 1500W, removable plates switch between full grill, full griddle, half-and-half, and panini press. Highest wattage in this list. Plates marketed as dishwasher-safe but non-stick wears noticeably after 12-18 months of machine washing.",
+      ja: "1500W（本リスト最高）の5way兼用機。グリル・グリドル・ハーフ&ハーフ・パニーニプレスにプレート交換対応。「食洗機対応」表記だが毎回機械洗浄では12〜18ヶ月でコーティング摩耗が始まる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cuisinart-gr-4n", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BGriddler%2BGR-4N%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "george-foreman-gfo201r",
+    category: "food",
+    badge: "🥩",
+    name: { en: "George Foreman 5-Serving Indoor Grill GFO201R", ja: "ジョージフォアマン 5人前インドアグリル GFO201R" },
+    description: {
+      en: "Iconic contact grill — 1360W, clamshell design cooks both sides simultaneously, fastest cook time per portion in this list. Fixed non-removable plates are the main limitation: cleanup requires wiping while warm rather than full rinse.",
+      ja: "1360Wコンタクトグリル。上下両面同時加熱で焼き時間が約半分。プレート固定・取り外し不可のため使用後は温かいうちに布拭きが必須。焦げ付きが長期レビューの最多不満点。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-george-foreman-gfo201r", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%95%E3%82%A9%E3%82%A2%E3%83%9E%E3%83%B3%2B%E3%82%B0%E3%83%AA%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "recolte-rgh-1",
+    category: "food",
+    badge: "🧀",
+    name: { en: "Récolte Raclette Grill RGH-1", ja: "レコルト ラクレットグリル RGH-1" },
+    description: {
+      en: "Compact raclette grill for 2-3 people — 700W, low smoke, easy cleanup. Best for vegetables, mushrooms, and social tabletop cooking. Not suited for high-heat beef searing; 700W cannot reach the caramelization temperature yakiniku requires.",
+      ja: "2〜3人用コンパクトラクレットグリル。700W・低煙・洗浄が最も楽。野菜・きのこ・チーズの卓上調理に最適。700Wでは牛肉のセアリング温度に届かず焼肉向けではない。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-recolte-rgh-1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AC%E3%82%B3%E3%83%AB%E3%83%88%2B%E3%83%A9%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E3%82%B0%E3%83%AA%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "iwatani-cb-p-y3",
+    category: "food",
+    badge: "🔆",
+    name: { en: "Iwatani Cassette Grill CB-P-Y3", ja: "岩谷 カセットグリル CB-P-Y3" },
+    description: {
+      en: "Butane cassette tabletop grill — highest peak heat of the five, portable, no power cord. Best for balcony or outdoor use where electricity is unavailable. Open-flame classification may conflict with Japanese apartment building management rules; cartridge cost adds ongoing expense.",
+      ja: "カセットガス式卓上グリル。5機種中最高のピーク加熱温度・コードレス・バルコニー・屋外持ち出し可能。開放火気のため分譲マンション管理規約に抵触する可能性あり；カートリッジ維持費が継続コスト。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-iwatani-cb-p-y3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B2%A9%E8%B0%B7%2B%E3%82%AB%E3%82%BB%E3%83%83%E3%83%88%E3%82%B3%E3%83%B3%E3%83%AD%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Slow Cookers (best-slow-cooker-2026) ─────────
+  {
+    id: "crock-pot-sccpvl610-s",
+    category: "food",
+    badge: "🍲",
+    name: { en: "Crock-Pot 6-Quart Slow Cooker (SCCPVL610-S)", ja: "クロックポット 6クォート スロークッカー (SCCPVL610-S)" },
+    description: {
+      en: "The original slow cooker. 6-quart ceramic insert, three-setting dial (Low/High/Warm), dishwasher-safe pot and lid. No programmable timer — switches to Warm only when you turn the dial manually.",
+      ja: "元祖スロークッカー。6クォートセラミック内釜、3段階ダイヤル（Low/High/Warm）、食洗機対応。タイマーなし — Warmへの切り替えは手動。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-crock-pot-sccpvl610-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCrock-Pot%2B%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%AF%E3%83%83%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "instant-pot-duo-7in1",
+    category: "food",
+    badge: "⚡",
+    name: { en: "Instant Pot Duo 7-in-1", ja: "インスタントポット Duo 7-in-1" },
+    description: {
+      en: "Pressure cooker and slow cooker combined. Slow cooker mode is programmable with delay start and auto Keep Warm. Slow cooker Low runs hotter than a traditional Crock-Pot Low — traditional recipes need adjustment.",
+      ja: "圧力鍋 + スロークッカー一体型。スロークッカーモードはタイマー・遅延スタート・自動Keep Warm対応。スロークッカーLowは通常の専用機Highに相当するため、既存レシピの調整が必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-instant-pot-duo-7in1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BDuo%2B7in1%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-csc-800",
+    category: "food",
+    badge: "🕐",
+    name: { en: "Cuisinart CSC-800 3.5L Slow Cooker", ja: "クイジナート CSC-800 3.5Lスロークッカー" },
+    description: {
+      en: "3.5-liter compact slow cooker with 24-hour programmable timer and auto Keep Warm. Right-sized for 1-2 person households. Import-only in Japan; warranty service through importer.",
+      ja: "3.5L コンパクトスロークッカー。24時間プログラムタイマーと自動Keep Warm付き。1〜2人向けサイズ。日本では並行輸入のみ；保証は輸入業者経由。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cuisinart-csc-800", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BCSC-800%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-sr-mp300",
+    category: "food",
+    badge: "🌿",
+    name: { en: "Panasonic SR-MP300", ja: "パナソニック SR-MP300" },
+    description: {
+      en: "Japanese-market slow cooker with fermentation mode. 40-60°C precise temperature control for yogurt and amazake. Temperature settings calibrated for nimono, oden, and kakuni. No pressure function.",
+      ja: "発酵モード搭載の国産スロークッカー。ヨーグルト・甘酒向けの40〜60°C精密制御。煮物・おでん・角煮向けの温度設定。圧力機能なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-panasonic-sr-mp300", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2BSR-MP300%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "twinbird-ep-4694",
+    category: "food",
+    badge: "🫕",
+    name: { en: "Twinbird EP-4694", ja: "ツインバード EP-4694" },
+    description: {
+      en: "Compact Japanese slow cooker for braised dishes and oden. Ceramic pot with glass lid, 450W low power draw. No programmable timer. Domestic sales and service in Japan.",
+      ja: "ブレイズ料理・おでん向け国産コンパクトスロークッカー。セラミック鍋・ガラスぶた・450W低消費電力。タイマーなし。国内販売・サポート完備。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-twinbird-ep-4694", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%84%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC%E3%83%89%2BEP-4694%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
