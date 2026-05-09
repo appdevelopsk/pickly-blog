@@ -4438,6 +4438,71 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-tempur-travel-pillow", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTempur+%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%83%94%E3%83%AD%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "manduka-pro-yoga-mat",
+    category: "fitness",
+    badge: "🧘",
+    name: { en: "Manduka PRO Yoga Mat", ja: "Manduka PRO ヨガマット" },
+    description: {
+      en: "Premium 6 mm closed-cell PVC with cork-rubber dot-pattern bottom for studio-floor grip and a lifetime warranty against splitting and peeling. Needs a 2-3 week salt-scrub break-in period before surface grip reaches advertised level. At 3.4 kg, heavy for daily train commute to studio.",
+      ja: "プレミアム6mmクローズドセルPVC、コルクゴムドットパターン底面でスタジオ床グリップ、剥離・割れ対する終身保証。表面グリップが公称レベルに達する前に2-3週間の塩スクラブ ブレイクインが必要。3.4kgで電車スタジオ通学には重い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-manduka-pro-yoga-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FManduka+PRO+%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "liforme-yoga-mat",
+    category: "fitness",
+    badge: "📐",
+    name: { en: "Liforme Yoga Mat", ja: "Liforme ヨガマット" },
+    description: {
+      en: "4.2 mm eco-polyurethane top over natural rubber base with the AlignForMe etched alignment-line system — centerline, hip-line, and foot-placement marks for warrior and triangle poses. 73 × 185 cm extra-wide fits taller practitioners. Strict water-only cleaning protocol; natural rubber base excludes latex-allergy users.",
+      ja: "天然ゴムベース上の4.2mmエコポリウレタン トップ、AlignForMeエッチング アライメント ライン システム(中央線・腰幅線・ウォリアー/トライアングル用足配置マーク)。73×185cm特大サイズで背の高い人にも対応。水のみの厳密なクリーニング指示、天然ゴムベースでラテックスアレルギー不可。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-liforme-yoga-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLiforme+%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jade-harmony-yoga-mat",
+    category: "fitness",
+    badge: "🌿",
+    name: { en: "Jade Harmony Yoga Mat", ja: "Jade Harmony ヨガマット" },
+    description: {
+      en: "Full natural rubber construction with open-cell surface for authentic dry grip — no PU top layer. Biodegradable and Jade plants one tree per mat sold. Heavy at around 2 kg and requires careful drying after sweaty sessions. Not for latex-allergy users; grips well dry but slips in hot-yoga conditions without a towel overlay.",
+      ja: "PUトップなしの天然ゴムフル構造、本物の乾燥グリップを持つオープンセル表面。生分解性でJadeは1枚売れるごとに1本植樹。約2kgで重く、汗の多い練習後は丁寧な乾燥が必要。ラテックスアレルギー不可、乾燥時グリップは良好だがタオル重ね使いなしのホットヨガには滑る。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-jade-harmony-yoga-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJade+Harmony+%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gaiam-premium-yoga-mat",
+    category: "fitness",
+    badge: "🎨",
+    name: { en: "Gaiam Premium Print Yoga Mat", ja: "Gaiam プレミアム プリント ヨガマット" },
+    description: {
+      en: "6 mm PVC construction with non-slip ribbed texture, wide color and print selection, and a sticky surface that grips well dry straight out of the wrap. Good entry point for beginners at an affordable price. PVC underperforms when palms are fully wet in hot-yoga conditions; around 2-3 years realistic durability with regular use.",
+      ja: "6mm PVC構造で滑り止めリブ テクスチャー、豊富なカラーと柄、開封時から乾燥でよくグリップするスティッキー表面。手頃な価格で初心者に良い入門点。手のひらが完全に濡れるホットヨガ環境では弱く、定期使用で約2-3年の現実的耐久性。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-gaiam-premium-yoga-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGaiam+%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lululemon-reversible-mat",
+    category: "fitness",
+    badge: "🔄",
+    name: { en: "Lululemon The Reversible Mat", ja: "Lululemon リバーシブル マット" },
+    description: {
+      en: "5 mm natural rubber with antimicrobial additive and two distinct surfaces — smooth polyurethane side for everyday practice, textured side for extra grip in sweat-heavy sessions. Reversible design effectively extends lifespan. Latex-allergy users should avoid; slightly heavier than single-surface 5 mm mats; PU side shows wear at 12+ months of daily chaturanga practice.",
+      ja: "抗菌剤入り天然ゴム5mm、2面使用可能(日常練習向けスムーズPU面・汗の多いセッション向けテクスチャー面)。リバーシブル設計で実質寿命延長。ラテックスアレルギー不可、単面5mmマットよりやや重い、PU面は毎日のチャトランガ練習で12ヶ月以上使用すると目視摩耗が現れる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-lululemon-reversible-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLululemon+%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B7%E3%83%96%E3%83%AB+%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
