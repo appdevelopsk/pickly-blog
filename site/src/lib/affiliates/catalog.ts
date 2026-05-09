@@ -9111,6 +9111,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-fellow-stagg-x-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFellow%2BStagg%2BX%2B%E3%83%9D%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Ceiling-Mounted Pull-Up Bars (best-pull-up-bar-ceiling-mounted-2026) ─────────
+  {
+    id: "rogue-joist-mount-pullup",
+    category: "fitness",
+    name: { en: "Rogue Joist Mount Pull-Up Bar", ja: "Rogue ジョイストマウント懸垂バー" },
+    description: {
+      en: "11-gauge 1.25-inch steel, 500-lb rated, 48-inch span. Lags into two standard 16-inch-spaced ceiling joists. Full hardware included, medium-depth knurl, rack-grade powder coat. The garage gym benchmark for permanent ceiling installation.",
+      ja: "11ゲージ・直径1.25インチ鋼管・耐荷重227kg・48インチスパン。標準16インチ間隔の天井根太2本にラグ固定。ハードウェア全同梱、中深度ローレット、ラックグレードパウダーコート。天井永久設置のガレージジム基準機。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B082WK7KGN", rawUrl: "https://www.amazon.co.jp/dp/B082WK7KGN", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-rogue-joist-mount-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Joist+Mount+Pull-Up+Bar%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-wall-ceiling-pullup",
+    category: "fitness",
+    name: { en: "Titan Fitness Wall/Ceiling Pull-Up Bar", ja: "Titan Fitness 壁・天井兼用懸垂バー" },
+    description: {
+      en: "12-gauge 1.25-inch steel, 400-lb rated, 44-inch span. Mounts at any angle 45–90 degrees on wall or ceiling. Built-in angled grip sections for neutral-grip pull-ups. Best value for non-standard ceiling or wall installations.",
+      ja: "12ゲージ・直径1.25インチ鋼管・耐荷重181kg・44インチスパン。壁または天井に45〜90度の任意角度で取り付け可能。ニュートラルグリップ対応の内蔵角度グリップセクション付き。非標準設置の最高コスパ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01M0HKKE0", rawUrl: "https://www.amazon.co.jp/dp/B01M0HKKE0", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-titan-wall-ceiling-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E5%A4%A9%E4%BA%95+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-ceiling-pullup",
+    category: "fitness",
+    name: { en: "REP Fitness Ceiling Mount Pull-Up Bar", ja: "REP Fitness 天井固定懸垂バー" },
+    description: {
+      en: "11-gauge 1.5-inch diameter steel, 500-lb rated, 48-inch span. Thicker bar integrates grip-strength training into every set. Rubber ceiling gasket eliminates creak during load cycles. Lighter knurl than Rogue, better for high-rep work.",
+      ja: "11ゲージ・直径1.5インチ鋼管・耐荷重227kg・48インチスパン。太径バーで毎セットのグリップ強化を統合。ゴム製天井ガスケットで荷重サイクル時のきしみを解消。Rogueよりマイルドなローレット、高レップ数向け。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07WFQDXY8", rawUrl: "https://www.amazon.co.jp/dp/B07WFQDXY8", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-rep-fitness-ceiling-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E5%A4%A9%E4%BA%95+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "probar-wall-mount-pullup",
+    category: "fitness",
+    name: { en: "ProBar Wall Mount Pull-Up Bar by Pullup & Dip", ja: "Pullup & Dip ProBar 壁固定懸垂バー" },
+    description: {
+      en: "304 stainless steel bar and hardware — the only corrosion-resistant option for outdoor or high-humidity installations. 1.25-inch diameter, 441-lb rated, 39-inch span. Includes narrow parallel grip attachments. Required for outdoor or unconditioned-space installs.",
+      ja: "304ステンレス鋼バーとハードウェア——屋外・高湿度設置向け唯一の耐腐食モデル。直径1.25インチ・耐荷重200kg・39インチスパン。ナロー平行グリップアタッチメント同梱。アウトドア・非空調スペース設置に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08P57PFP5", rawUrl: "https://www.amazon.co.jp/dp/B08P57PFP5", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-probar-wall-mount-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPullup+%26+Dip+%E5%A3%81+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ultimate-body-press-ceiling",
+    category: "fitness",
+    name: { en: "Ultimate Body Press Ceiling Mount Pull-Up Bar", ja: "Ultimate Body Press 天井固定懸垂バー" },
+    description: {
+      en: "14-gauge 1.25-inch steel, 300-lb rated, 40-inch span. 90-inch ceiling height minimum — lowest in this comparison. Budget entry into permanent ceiling installation. Best for users under 100 kg doing strict dead-hang pull-ups.",
+      ja: "14ゲージ・直径1.25インチ鋼管・耐荷重136kg・40インチスパン。最低天井高90インチ（229cm）は本比較最低値。天井永久設置の最安エントリー。100kg未満の厳格デッドハング向け。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B003BYRGKY", rawUrl: "https://www.amazon.co.jp/dp/B003BYRGKY", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-ultimate-body-press-ceiling", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUltimate+Body+Press+%E5%A4%A9%E4%BA%95+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Fitness / CrossFit Jump Ropes (best-jump-rope-for-crossfit-2026) ─────────
   {
     id: "rx-smart-gear-elite-evo",
@@ -9175,6 +9241,77 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "B00IOIUIFW", rawUrl: "https://www.amazon.co.jp/dp/B00IOIUIFW", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-elite-srs-muay-thai-cable", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FElite+SRS+%E3%83%A0%E3%82%A8%E3%82%BF%E3%82%A4+%E7%B8%84%E8%B7%B3%E3%81%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Mandoline Slicers (best-mandoline-slicer-2026) ─────────
+  {
+    id: "benriner-mandoline-no64",
+    category: "food",
+    badge: "🔪",
+    name: { en: "Benriner Japanese Mandoline Slicer No. 64", ja: "ベンリナー スーパーベンリナー No. 64" },
+    description: {
+      en: "~¥22,000. Professional-kitchen standard since the 1960s. Flat single high-carbon stainless blade, 0–3 mm precision adjustment dial, minimum 0.5 mm for translucent daikon and cucumber slices. Sharpest blade in this comparison. No julienne blade included; cut guard loses grip on produce under 6 cm; does not fold for storage.",
+      ja: "約22,000円。1960年代から日本のプロキッチンの定番。フラットシングル高炭素ステンレス刃・0〜3mm精密調整ダイヤル・最薄0.5mmで透き通る大根・きゅうりが可能。この比較で最鋭の刃。ジュリエンヌ刃は別売；6cm未満の食材でカットガードのグリップ低下；折りたたみ不可。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001TT0VSE", rawUrl: "https://www.amazon.co.jp/dp/B001TT0VSE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-benriner-mandoline-no64", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%99%E3%83%B3%E3%83%AA%E3%83%8A%E3%83%BC+No.64%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oxo-chef-mandoline-2-0",
+    category: "food",
+    badge: "🛡️",
+    name: { en: "OXO Good Grips Chef's Mandoline Slicer 2.0", ja: "OXO グッドグリップス シェフズマンドリンスライサー 2.0" },
+    description: {
+      en: "~¥14,000. Best cut guard design in this comparison — spike-array holder grips produce to 4 cm. 18/10 stainless blade at ~52–54 HRC. Adjustable 1–8 mm via dial. Julienne blade (2 mm strips) included. Folds flat for drawer storage. Julienne performance weaker on soft produce; 8 mm max is lower than the Borner.",
+      ja: "約14,000円。この比較で最良のカットガード設計——スパイクアレイホルダーが4cmまでホールド。18/10ステンレス刃・約52〜54 HRC。ダイヤルで1〜8mm調整。ジュリエンヌ刃（2mmスティック）付属。折りたたみで引き出し収納可。やわらかい食材でのジュリエンヌ精度は落ちる；最大8mmはBornerより低い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07BXYGF3N", rawUrl: "https://www.amazon.co.jp/dp/B07BXYGF3N", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-oxo-chef-mandoline-2-0", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO+%E3%83%9E%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3+2.0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kyocera-ceramic-mandoline",
+    category: "food",
+    badge: "⚪",
+    name: { en: "Kyocera Advanced Ceramic Adjustable Mandoline", ja: "京セラ アドバンスドセラミック アジャスタブルマンドリン" },
+    description: {
+      en: "~¥6,500. Zirconia ceramic blade at ~70 HRC — harder than any steel blade here, no metallic taste, rust-free. Adjusts 1–3.5 mm in 0.5 mm increments. Narrowest range in this comparison. Blade chips on seeds and hard-skin squash. Weakest cut guard (4 short prongs). Best for cucumber, radish, and zucchini in the 1–3 mm range.",
+      ja: "約6,500円。ジルコニアセラミック刃・約70 HRC——ここで最硬、金属臭なし、錆びない。0.5mm刻みで1〜3.5mm調整。この比較で最も狭い調整範囲。種と硬い皮のかぼちゃでブレードが欠ける。最弱のカットガード（4本の短い突起）。1〜3mmのきゅうり・大根・ズッキーニに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B003FVWPQW", rawUrl: "https://www.amazon.co.jp/dp/B003FVWPQW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kyocera-ceramic-mandoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BA%AC%E3%82%BB%E3%83%A9+%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF+%E3%83%9E%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "swissmar-borner-v-power",
+    category: "food",
+    badge: "🇩🇪",
+    name: { en: "Swissmar Borner V-Power Mandoline Slicer", ja: "スウィスマー ボーナー Vパワーマンドリンスライサー" },
+    description: {
+      en: "~¥8,500. V-blade design (two angled blades meeting at center) cuts hard root vegetables — carrots, beets, kohlrabi — faster than flat-blade designs. German stainless at ~56–58 HRC. Fixed stops at paper-thin + 3/5/7/9 mm. Strongest cut guard (safety holder grips to ~3 cm including cherry tomatoes). No fine adjustment between fixed stops. Folds flat.",
+      ja: "約8,500円。Vブレード設計（中心で出会う2枚の傾斜ブレード）で硬い根菜——にんじん・ビーツ・コールラビ——をフラットブレードより速く切断。ドイツステンレス・約56〜58 HRC。薄切り+3/5/7/9mmの固定設定。最強のカットガード（セーフティホルダーがミニトマトを含む約3cmまでをホールド）。固定設定間の細かな調整不可。折りたたみ可。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B004GIYNO6", rawUrl: "https://www.amazon.co.jp/dp/B004GIYNO6", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-swissmar-borner-v-power", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9C%E3%83%BC%E3%83%8A%E3%83%BC+V%E3%83%91%E3%83%AF%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mueller-v-pro-mandoline",
+    category: "food",
+    badge: "💰",
+    name: { en: "Mueller Austria V-Pro Multi Blade Mandoline", ja: "Mueller Austria V-Pro マルチブレードマンドリン" },
+    description: {
+      en: "~¥3,500. Five interchangeable blades (straight slicer, 2 mm julienne, 4 mm julienne, waffle/crinkle, grater) — most blade variety at the lowest price. 420-grade stainless at ~50–52 HRC. Continuous dial 0.5–8 mm. Cut guard (6 short prongs) loses grip on smooth produce under 5 cm. Best first mandoline for households unsure of usage frequency; blade sharpness degrades noticeably by 6 months of regular use.",
+      ja: "約3,500円。5種の交換式ブレード（ストレートスライサー・ジュリエンヌ2mm・ジュリエンヌ4mm・ウェーブ/波形カット・グレーター）——最安値で最多ブレード。420ステンレス・約50〜52 HRC。連続ダイヤルで0.5〜8mm。カットガード（6本の短い突起）が5cm以下の滑らかな食材でグリップ低下。使用頻度が不明な家庭への最初の一本に最適；6ヶ月の定期使用で切れ味の低下が目立つ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01LW5RH1F", rawUrl: "https://www.amazon.co.jp/dp/B01LW5RH1F", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-mueller-v-pro-mandoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+V-Pro+%E3%83%9E%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
