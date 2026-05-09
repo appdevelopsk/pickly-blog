@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 97 articles x 6 variants x 2 locales (en, ja) = 1172 pins (growing)
+# 99 articles x 6 variants x 2 locales (en, ja) = 1196 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -13116,3 +13116,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-cycling-helmet-2026/"
     image_alt: "サイクリングヘルメット 走り方別 選び方 ガイド 2026"
     hashtags: ["サイクリングヘルメット", "MIPS", "ロードバイク", "自転車ガイド", "グラベル"]
+
+  # ── #98 best-camping-tent-2026 ───────────────────────────────────────────
+  - pin_id: best-camping-tent-2026-en-01
+    article_slug: best-camping-tent-2026
+    locale: en
+    variant: comparison
+    title: "Best Camping Tents 2026: 5 Shelters Compared for Backpackers and Car Campers"
+    description: |
+      REI Passage 2 vs Big Agnes Copper Spur HV UL2 vs MSR Hubba Hubba 2 vs Coleman Sundome 2 vs NEMO Dagger 2P. Freestanding vs trekking-pole, packed weight, weather rating, vestibule space, and setup time — every spec that matters before you're stuck in the dark with pole clips.
+    link: "https://pickly.blog/en/articles/best-camping-tent-2026/"
+    image_alt: "best camping tents 2026 comparison backpacking car camping"
+    hashtags: ["CampingTent", "Backpacking", "OutdoorGear", "Camping", "HikingGear"]
+
+  - pin_id: best-camping-tent-2026-en-02
+    article_slug: best-camping-tent-2026
+    locale: en
+    variant: top1
+    title: "REI Co-op Passage 2: Best Value Backpacking Tent 2026"
+    description: |
+      DAC aluminum poles, polyester rain fly, and a single 8.5 sq ft vestibule at ~$200. The Passage 2 isn't the lightest but it's the tent REI stands behind with its return policy — and it sets up in under 10 minutes once you've done it twice. Best for occasional backpackers who don't want to gamble on cheap no-brands.
+    link: "https://pickly.blog/en/articles/best-camping-tent-2026/"
+    image_alt: "REI Passage 2 backpacking tent best value 2026"
+    hashtags: ["REIPassage", "BackpackingTent", "CampingTent", "OutdoorGear", "Backpacking"]
+
+  - pin_id: best-camping-tent-2026-en-03
+    article_slug: best-camping-tent-2026
+    locale: en
+    variant: problem
+    title: "Why Cheap Tents Fail at 2 AM in the Rain"
+    description: |
+      Polyurethane coatings delaminate after 2–3 seasons without reproofing. Single-wall condensation soaks sleeping bags. 1500mm HH rated floors flood in heavy rain — real camping needs 3000mm+. Fiberglass poles snap in wind. Freestanding tents still need staking in storms. The specs on the label only tell half the story.
+    link: "https://pickly.blog/en/articles/best-camping-tent-2026/"
+    image_alt: "camping tent fail rain leak cheap pole break problems"
+    hashtags: ["CampingFail", "CampingTent", "OutdoorGear", "CampingTips", "Backpacking"]
+
+  - pin_id: best-camping-tent-2026-en-04
+    article_slug: best-camping-tent-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Camping Tent 2026: Coleman Sundome 2 at $70"
+    description: |
+      The Coleman Sundome 2 has been selling for decades and the basic formula hasn't changed: fast clip-attached poles, WeatherTec floor, and a design any beginner can pitch in 10 minutes. Not windproof above 25 mph and the vestibule is minimal — but for car camping and fair-weather weekends, it works.
+    link: "https://pickly.blog/en/articles/best-camping-tent-2026/"
+    image_alt: "Coleman Sundome 2 budget camping tent car camping 2026"
+    hashtags: ["BudgetCampingTent", "ColemanSundome", "CampingGear", "CarCamping", "OutdoorGear"]
+
+  - pin_id: best-camping-tent-2026-en-05
+    article_slug: best-camping-tent-2026
+    locale: en
+    variant: avoid
+    title: "5 Camping Tent Mistakes That Ruin Your Trip"
+    description: |
+      Buying by person-count alone: a "2-person" tent often fits 1.5. Never doing a test pitch: first pitch in the dark takes 40 minutes. Ignoring hydrostatic head rating: 1500mm for the floor is car-camping minimum, 3000mm for rain. Skipping seam sealing. Storing wet: mold destroys waterproof coatings in one season.
+    link: "https://pickly.blog/en/articles/best-camping-tent-2026/"
+    image_alt: "camping tent mistakes buying guide avoid 2026"
+    hashtags: ["CampingMistakes", "CampingTent", "CampingTips", "OutdoorGear", "BackpackingTips"]
+
+  - pin_id: best-camping-tent-2026-en-06
+    article_slug: best-camping-tent-2026
+    locale: en
+    variant: scene
+    title: "Which Camping Tent for Your Trip Type?"
+    description: |
+      Weekend backpacker → REI Passage 2 (best value, ~$200). Ultralight thru-hiker → Big Agnes Copper Spur UL2 (2 lbs 6 oz). Technical 3-season → MSR Hubba Hubba 2 (dual vestibules). Car camping families → Coleman Sundome 2 ($70, fast pitch). Versatile all-rounder → NEMO Dagger 2P (livability + weight balance).
+    link: "https://pickly.blog/en/articles/best-camping-tent-2026/"
+    image_alt: "camping tent guide which to buy trip type 2026"
+    hashtags: ["CampingTent", "BackpackingGear", "OutdoorGear", "CampingGuide", "Backpacking"]
+
+  - pin_id: best-camping-tent-2026-ja-01
+    article_slug: best-camping-tent-2026
+    locale: ja
+    variant: comparison
+    title: "キャンプテントおすすめ2026：バックパッカーからカーキャンパーまで5製品比較"
+    description: |
+      REI Passage 2・Big Agnes Copper Spur UL2・MSR Hubba Hubba 2・Coleman Sundome 2・NEMO Dagger 2Pを自立型/トレッキングポール式・重量・耐水圧・前室面積・設営時間で比較。自分のキャンプスタイルに合う1張りが決まる。
+    link: "https://pickly.blog/ja/articles/best-camping-tent-2026/"
+    image_alt: "テント おすすめ 2026 バックパッキング キャンプ 比較"
+    hashtags: ["テント", "おすすめ", "キャンプ", "バックパッキング", "アウトドアギア"]
+
+  - pin_id: best-camping-tent-2026-ja-02
+    article_slug: best-camping-tent-2026
+    locale: ja
+    variant: top1
+    title: "REI Co-op Passage 2：コスパ最強のバックパッキングテント"
+    description: |
+      DACアルミポール・ポリエステルフライシート・前室付きで約$200（約31,000円）。設営は2回目以降10分以内。超軽量ではないが、REIの返品保証付きで品質が担保される。たまにバックパッキングする人の「外れなし」な選択肢。
+    link: "https://pickly.blog/ja/articles/best-camping-tent-2026/"
+    image_alt: "REI Passage 2 バックパッキングテント コスパ 2026"
+    hashtags: ["REIPassage", "バックパッキングテント", "テント", "アウトドアギア", "キャンプ"]
+
+  - pin_id: best-camping-tent-2026-ja-03
+    article_slug: best-camping-tent-2026
+    locale: ja
+    variant: problem
+    title: "安いテントが深夜の雨で崩壊する理由"
+    description: |
+      PUコーティングは2〜3シーズンで剥離。シングルウォールの結露で寝袋が濡れる。耐水圧1,500mmのフロアは大雨で浸水する（最低3,000mm必要）。グラスファイバーポールは風で折れる。自立型テントも嵐ではペグダウン必須。スペック表の数字だけでは判断できない。
+    link: "https://pickly.blog/ja/articles/best-camping-tent-2026/"
+    image_alt: "テント 浸水 雨 安物 失敗 キャンプ 問題"
+    hashtags: ["キャンプ 失敗", "テント", "アウトドア", "耐水圧", "キャンプギア"]
+
+  - pin_id: best-camping-tent-2026-ja-04
+    article_slug: best-camping-tent-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強キャンプテント2026：Coleman Sundome 2 約11,000円"
+    description: |
+      数十年変わらない基本設計——クリップ式ポール・WeatherTecフロア・初心者でも10分設営。風速25km/h以上は苦手で前室は最小限。ただしカーキャンプや晴天週末なら十分な性能。格安ノーブランドより信頼性が格段に高い。
+    link: "https://pickly.blog/ja/articles/best-camping-tent-2026/"
+    image_alt: "Coleman Sundome 2 テント コスパ カーキャンプ 2026"
+    hashtags: ["コスパテント", "ColemanSundome", "キャンプギア", "カーキャンプ", "アウトドア"]
+
+  - pin_id: best-camping-tent-2026-ja-05
+    article_slug: best-camping-tent-2026
+    locale: ja
+    variant: avoid
+    title: "キャンプが台無しになるテント選びの5つのミス"
+    description: |
+      人数表示だけで選ぶ：「2人用」は実際1.5人分が多い。事前設営なし：初回は暗闇で40分かかる。耐水圧を無視：フロア1,500mmは雨天カーキャンプでも不足。シーム処理なし：縫い目から雨が侵入。濡れたまま収納：1シーズンでコーティングにカビが生える。
+    link: "https://pickly.blog/ja/articles/best-camping-tent-2026/"
+    image_alt: "テント 失敗 選び方 注意点 キャンプ 2026"
+    hashtags: ["テント 失敗", "キャンプ", "アウトドア", "テント 選び方", "キャンプ準備"]
+
+  - pin_id: best-camping-tent-2026-ja-06
+    article_slug: best-camping-tent-2026
+    locale: ja
+    variant: scene
+    title: "キャンプスタイル別：テントの選び方ガイド2026"
+    description: |
+      週末バックパッカー → REI Passage 2（コスパ最強）。超軽量縦走 → Big Agnes Copper Spur UL2（約1.1kg）。本格3シーズン → MSR Hubba Hubba 2（両面前室）。カーキャンプ → Coleman Sundome 2（約11,000円・簡単設営）。万能 → NEMO Dagger 2P（居住性と重量のバランス）。
+    link: "https://pickly.blog/ja/articles/best-camping-tent-2026/"
+    image_alt: "テント スタイル別 選び方 ガイド 2026"
+    hashtags: ["テント", "キャンプガイド", "バックパッキング", "アウトドアギア", "キャンプ"]
+
+  # ── #99 best-kettlebell-2026 ─────────────────────────────────────────────
+  - pin_id: best-kettlebell-2026-en-01
+    article_slug: best-kettlebell-2026
+    locale: en
+    variant: comparison
+    title: "Best Kettlebells 2026: Competition Steel vs Cast Iron vs Adjustable"
+    description: |
+      Kettlebell Kings vs CAP Barbell cast iron vs Bowflex SelectTech 840 vs Titan Fitness vs Yes4All vinyl. Handle diameter, chalk compatibility, weight accuracy, flat-bottom stability, and adjustable trade-offs compared — so you pick iron that actually improves your swings and presses.
+    link: "https://pickly.blog/en/articles/best-kettlebell-2026/"
+    image_alt: "best kettlebells 2026 competition cast iron adjustable comparison"
+    hashtags: ["Kettlebell", "HomeGym", "StrengthTraining", "KettlebellWorkout", "FitnessGear"]
+
+  - pin_id: best-kettlebell-2026-en-02
+    article_slug: best-kettlebell-2026
+    locale: en
+    variant: top1
+    title: "Kettlebell Kings Competition: Best Kettlebell for Consistent Training"
+    description: |
+      33mm handle diameter (competition standard), uniform size across all weights, chalk-friendly surface finish. When you're training at 16 kg and progressing to 24 kg, the hand position and wrist angle don't change — that consistency is what competition-style steel gives you. Worth the premium for serious practitioners.
+    link: "https://pickly.blog/en/articles/best-kettlebell-2026/"
+    image_alt: "Kettlebell Kings competition steel kettlebell 2026 training"
+    hashtags: ["KettlebellKings", "CompetitionKettlebell", "Kettlebell", "StrengthTraining", "HomeGym"]
+
+  - pin_id: best-kettlebell-2026-en-03
+    article_slug: best-kettlebell-2026
+    locale: en
+    variant: problem
+    title: "Why the Wrong Kettlebell Can Wreck Your Wrists and Technique"
+    description: |
+      Cast iron handle diameter varies: cheap bells are 35–40mm, forcing a different grip than competition. Rough coatings tear calluses on high-rep swings. Rounded bottoms make floor presses unstable. ±5% weight tolerance on budget bells means your "16 kg" might be 15.2 or 16.8 — inconsistent training stimulus.
+    link: "https://pickly.blog/en/articles/best-kettlebell-2026/"
+    image_alt: "kettlebell wrist problem handle diameter technique"
+    hashtags: ["KettlebellMistakes", "Kettlebell", "StrengthTraining", "HomeGym", "FitnessTips"]
+
+  - pin_id: best-kettlebell-2026-en-04
+    article_slug: best-kettlebell-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Kettlebell 2026: CAP Barbell Cast Iron from $25"
+    description: |
+      CAP cast iron handles swings, deadlifts, presses, and Turkish get-ups at the lowest price per kg in this comparison. The slightly wider handle compared to competition bells takes some adjustment. Floor-safe flat base. Best for beginners who want to try kettlebell training before committing to premium iron.
+    link: "https://pickly.blog/en/articles/best-kettlebell-2026/"
+    image_alt: "CAP Barbell cast iron kettlebell budget 2026"
+    hashtags: ["BudgetKettlebell", "CAPBarbell", "Kettlebell", "HomeGym", "StrengthTraining"]
+
+  - pin_id: best-kettlebell-2026-en-05
+    article_slug: best-kettlebell-2026
+    locale: en
+    variant: avoid
+    title: "4 Kettlebell Buying Mistakes That Stall Your Progress"
+    description: |
+      Starting too heavy: 16 kg is intermediate for swings, not beginner. Buying vinyl for heavy use: vinyl coating cracks under repeated floor impact above 20 kg. Skipping flat-bottom: round-bottom bells can't be used for floor presses or renegade rows. Single weight only: you need at least two weights to progress.
+    link: "https://pickly.blog/en/articles/best-kettlebell-2026/"
+    image_alt: "kettlebell mistakes buying guide home gym avoid 2026"
+    hashtags: ["KettlebellMistakes", "Kettlebell", "HomeGym", "FitnessTips", "StrengthTraining"]
+
+  - pin_id: best-kettlebell-2026-en-06
+    article_slug: best-kettlebell-2026
+    locale: en
+    variant: scene
+    title: "Which Kettlebell for Your Training Goal?"
+    description: |
+      Serious technique work → Kettlebell Kings Competition (33mm, consistent across weights). Budget home gym → CAP Barbell Cast Iron (flat base, low cost). Space-limited / multiple weights → Bowflex SelectTech 840 (8–35 lbs adjustable). Competition-style on budget → Titan Fitness. Floor protection → Yes4All vinyl (beginner, under 20 kg).
+    link: "https://pickly.blog/en/articles/best-kettlebell-2026/"
+    image_alt: "kettlebell guide which to buy training goal home gym 2026"
+    hashtags: ["Kettlebell", "HomeGym", "StrengthTraining", "KettlebellGuide", "FitnessGear"]
+
+  - pin_id: best-kettlebell-2026-ja-01
+    article_slug: best-kettlebell-2026
+    locale: ja
+    variant: comparison
+    title: "ケトルベルおすすめ2026：コンペ鋼鉄vs鋳鉄vs可変式を徹底比較"
+    description: |
+      Kettlebell Kings・CAP Barbell・Bowflex SelectTech 840・Titan Fitness・Yes4Allをハンドル径・重量精度・フラットボトム・可変式のトレードオフで比較。スイングもプレスも技術を正確に磨けるケトルベルの選び方。
+    link: "https://pickly.blog/ja/articles/best-kettlebell-2026/"
+    image_alt: "ケトルベル おすすめ 2026 コンペ 鋳鉄 可変式 比較"
+    hashtags: ["ケトルベル", "ホームジム", "筋トレ", "おすすめ", "ストレングストレーニング"]
+
+  - pin_id: best-kettlebell-2026-ja-02
+    article_slug: best-kettlebell-2026
+    locale: ja
+    variant: top1
+    title: "Kettlebell Kings Competition：一貫したトレーニングのための最強ケトルベル"
+    description: |
+      コンペティション規格33mmハンドル径、全重量で同一サイズ、チョーク対応表面仕上げ。16kgから24kgに移行しても手の位置と手首の角度が変わらない——この一貫性がコンペ鋼鉄の本質的な価値。本気で技術を磨く人に。
+    link: "https://pickly.blog/ja/articles/best-kettlebell-2026/"
+    image_alt: "Kettlebell Kings コンペティション ケトルベル 2026"
+    hashtags: ["KettlebellKings", "コンペケトルベル", "ケトルベル", "筋トレ", "ホームジム"]
+
+  - pin_id: best-kettlebell-2026-ja-03
+    article_slug: best-kettlebell-2026
+    locale: ja
+    variant: problem
+    title: "ケトルベルが手首と技術を壊す理由"
+    description: |
+      格安鋳鉄のハンドル径は35〜40mmと太く、コンペと握り感が異なる。粗い表面コーティングは高回数スイングで手のひらを傷める。丸底ではフロアプレスが不安定。重量許容差±5%の安物は「16kg」が15.2〜16.8kgになり、トレーニング刺激が毎回変わる。
+    link: "https://pickly.blog/ja/articles/best-kettlebell-2026/"
+    image_alt: "ケトルベル 手首 問題 ハンドル径 技術 失敗"
+    hashtags: ["ケトルベル 失敗", "筋トレ", "ホームジム", "ケトルベル", "トレーニング"]
+
+  - pin_id: best-kettlebell-2026-ja-04
+    article_slug: best-kettlebell-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強ケトルベル2026：CAP Barbell 鋳鉄 約3,000円〜"
+    description: |
+      スイング・デッドリフト・プレス・トルコ式ゲットアップすべてこなせる最安値コスト/kg。コンペ比でハンドルがやや太めだが慣れる。フラットベース付きで床面も安全。ケトルベルを試したい初心者がプレミアム鉄を買う前の正解選択肢。
+    link: "https://pickly.blog/ja/articles/best-kettlebell-2026/"
+    image_alt: "CAP Barbell ケトルベル 鋳鉄 コスパ 2026"
+    hashtags: ["コスパ ケトルベル", "CAPBarbell", "ケトルベル", "ホームジム", "筋トレ"]
+
+  - pin_id: best-kettlebell-2026-ja-05
+    article_slug: best-kettlebell-2026
+    locale: ja
+    variant: avoid
+    title: "ケトルベル選びで進歩を止める4つのミス"
+    description: |
+      最初から重すぎる：16kgはスイングの初心者向けではなく中級。ビニールコートを重量用に使う：20kg超の繰り返し床打ち付けでコーティングが割れる。丸底を選ぶ：フロアプレスとレネゲードローができない。1重量だけ買う：最低2種類ないと進歩できない。
+    link: "https://pickly.blog/ja/articles/best-kettlebell-2026/"
+    image_alt: "ケトルベル 失敗 選び方 注意点 ホームジム"
+    hashtags: ["ケトルベル 失敗", "ホームジム", "筋トレ", "選び方", "トレーニング"]
+
+  - pin_id: best-kettlebell-2026-ja-06
+    article_slug: best-kettlebell-2026
+    locale: ja
+    variant: scene
+    title: "トレーニング目標別：ケトルベルの選び方ガイド"
+    description: |
+      技術重視 → Kettlebell Kings Competition（33mm・全重量同サイズ）。ホームジムコスパ → CAP Barbell 鋳鉄（フラットベース・低コスト）。省スペース → Bowflex SelectTech 840（8〜35lb可変）。コンペスタイルをお得に → Titan Fitness。床保護・入門 → Yes4All ビニール（20kg未満）。
+    link: "https://pickly.blog/ja/articles/best-kettlebell-2026/"
+    image_alt: "ケトルベル 目標別 選び方 ガイド ホームジム 2026"
+    hashtags: ["ケトルベル", "ホームジム", "筋トレ", "ケトルベルガイド", "アウトドアギア"]
