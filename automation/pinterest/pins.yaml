@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 73 articles x 6 variants x 2 locales (en, ja) = 884 pins (growing)
+# 75 articles x 6 variants x 2 locales (en, ja) = 908 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -9924,3 +9924,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-resistance-bands-2026/"
     image_alt: "ホテル 全身筋トレ 30分 トレーニングバンド"
     hashtags: ["トレーニングチューブ", "旅行 筋トレ", "ホテル トレーニング", "自宅筋トレ", "出張 フィットネス"]
+
+  # ── #74 best-smart-speaker-2026 ──────────────────────────────────────────
+  - pin_id: best-smart-speaker-2026-en-01
+    article_slug: best-smart-speaker-2026
+    locale: en
+    variant: comparison
+    title: "Smart Speaker Comparison 2026: Echo vs Nest Audio vs HomePod vs Sonos"
+    description: |
+      Five smart speakers ranked in 2026: Amazon Echo 4th Gen, Google Nest Audio, Apple HomePod 2nd Gen, Echo Studio, and Sonos Era 100. Voice assistant accuracy, audio quality differences, ecosystem lock-in reality, and which to buy for music vs smart home control.
+    link: "https://pickly.blog/en/articles/best-smart-speaker-2026/"
+    image_alt: "Smart speaker comparison 2026 Echo Nest Audio HomePod Sonos"
+    hashtags: ["SmartSpeaker", "AmazonEcho", "GoogleNest", "HomePod", "HomeAutomation"]
+
+  - pin_id: best-smart-speaker-2026-en-02
+    article_slug: best-smart-speaker-2026
+    locale: en
+    variant: top1
+    title: "Best Smart Speaker for Music in 2026: Sonos Era 100"
+    description: |
+      Sonos Era 100 wins for music quality — two tweeters create stereo separation in a single unit, and Trueplay acoustic tuning adapts to your room. Works with Spotify, Apple Music, and Amazon Music without committing to one ecosystem. At $249, it outperforms the Echo Studio for critical listening.
+    link: "https://pickly.blog/en/articles/best-smart-speaker-2026/"
+    image_alt: "Sonos Era 100 best smart speaker music 2026"
+    hashtags: ["SonosEra100", "SmartSpeaker", "MusicStreaming", "HomeAudio", "Sonos"]
+
+  - pin_id: best-smart-speaker-2026-en-03
+    article_slug: best-smart-speaker-2026
+    locale: en
+    variant: problem
+    title: "Why Your Smart Speaker Doesn't Understand You Half the Time"
+    description: |
+      Voice recognition accuracy depends heavily on accent and room acoustics. Alexa struggles with non-American accents; Google Assistant handles more accent variation. HomePod only works well if you speak slowly. Background noise cuts accuracy by 30–40% across all models. Placement matters: 3+ feet from walls improves wake word detection.
+    link: "https://pickly.blog/en/articles/best-smart-speaker-2026/"
+    image_alt: "Smart speaker voice recognition accuracy problems"
+    hashtags: ["SmartSpeaker", "VoiceAssistant", "Alexa", "GoogleAssistant", "SmartHome"]
+
+  - pin_id: best-smart-speaker-2026-en-04
+    article_slug: best-smart-speaker-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Smart Speaker 2026: Amazon Echo 4th Gen at $50"
+    description: |
+      Amazon Echo 4th Gen at $49.99 gives you Alexa, 360° audio, and a built-in Zigbee hub for smart home control. Sound quality won't match Sonos, but for timers, reminders, and controlling lights it does everything you need. Often drops to $25–30 on sale.
+    link: "https://pickly.blog/en/articles/best-smart-speaker-2026/"
+    image_alt: "Amazon Echo budget smart speaker 2026"
+    hashtags: ["AmazonEcho", "BudgetSmartSpeaker", "Alexa", "SmartHome", "AffordableGadgets"]
+
+  - pin_id: best-smart-speaker-2026-en-05
+    article_slug: best-smart-speaker-2026
+    locale: en
+    variant: avoid
+    title: "Smart Speaker Mistakes That Lock You In Forever"
+    description: |
+      Buying based on brand loyalty without checking ecosystem compatibility: HomePod requires Apple Music for full features, Echo works best with Amazon Prime. Placing speaker in a corner amplifies bass but muddies mids. Forgetting that smart home integrations are ecosystem-dependent — switching brands means re-pairing every device.
+    link: "https://pickly.blog/en/articles/best-smart-speaker-2026/"
+    image_alt: "Smart speaker buying mistakes ecosystem lock-in"
+    hashtags: ["SmartSpeaker", "SmartHome", "HomePod", "AmazonEcho", "BuyingGuide"]
+
+  - pin_id: best-smart-speaker-2026-en-06
+    article_slug: best-smart-speaker-2026
+    locale: en
+    variant: scene
+    title: "Smart Speaker Setup for a 1-Room Apartment: What Actually Works"
+    description: |
+      Small space setup: Google Nest Audio ($99) at desk height, connected to Spotify and Philips Hue. Single unit handles music and lighting control without needing a hub. Echo Dot as bedroom unit ($29 on sale) linked to the same Alexa routine for wake-up lights and weather. Total under $130 for whole-apartment smart audio and lighting control.
+    link: "https://pickly.blog/en/articles/best-smart-speaker-2026/"
+    image_alt: "Smart speaker apartment setup small space"
+    hashtags: ["SmartSpeaker", "ApartmentLiving", "GoogleNest", "SmartHome", "HomeSetup"]
+
+  - pin_id: best-smart-speaker-2026-ja-01
+    article_slug: best-smart-speaker-2026
+    locale: ja
+    variant: comparison
+    title: "スマートスピーカー比較2026：Echo・Nest Audio・HomePod・Sonos"
+    description: |
+      5機種徹底比較：Amazon Echo第4世代・Google Nest Audio・Apple HomePod第2世代・Echo Studio・Sonos Era 100。日本語音声認識の精度差、音質の実際の違い、SwitchBot/Nature Remoとの連携、音楽重視かスマートホーム重視かで選ぶべき機種が変わる理由を詳しく解説。
+    link: "https://pickly.blog/ja/articles/best-smart-speaker-2026/"
+    image_alt: "スマートスピーカー比較2026 Echo Nest Audio HomePod Sonos"
+    hashtags: ["スマートスピーカー", "アマゾンエコー", "GoogleNest", "HomePod", "スマートホーム"]
+
+  - pin_id: best-smart-speaker-2026-ja-02
+    article_slug: best-smart-speaker-2026
+    locale: ja
+    variant: top1
+    title: "音楽再生最強スマートスピーカー2026：Sonos Era 100"
+    description: |
+      Sonos Era 100（約38,000円）が音楽再生で断トツ1位。2基のツイーターでシングルユニットでもステレオ分離感を実現。Trueplayが部屋の音響特性を自動補正。Spotify・Apple Music・Amazon Musicすべてに対応し、エコシステムを選ばない。Echo Studioより音楽鑑賞に適した特性。
+    link: "https://pickly.blog/ja/articles/best-smart-speaker-2026/"
+    image_alt: "Sonos Era 100 音楽 スマートスピーカー 2026"
+    hashtags: ["SonosEra100", "スマートスピーカー", "音楽再生", "ハイファイ", "Sonos"]
+
+  - pin_id: best-smart-speaker-2026-ja-03
+    article_slug: best-smart-speaker-2026
+    locale: ja
+    variant: problem
+    title: "スマートスピーカーが半分しか聞き取れない本当の理由"
+    description: |
+      日本語認識精度はAlexaとGoogleで大きく差が出る。騒がしい環境では全機種30〜40%精度低下。壁から30cm以内に置くとウェイクワード検知率が下がる。HomePodは日本語処理の遅延が他機種より200ms長い。SwitchBot連携はEchoが最も安定、Googleは一部コマンドで接続切れが起きやすい。
+    link: "https://pickly.blog/ja/articles/best-smart-speaker-2026/"
+    image_alt: "スマートスピーカー 認識精度 問題 日本語"
+    hashtags: ["スマートスピーカー", "音声認識", "Alexa", "Googleアシスタント", "スマートホーム"]
+
+  - pin_id: best-smart-speaker-2026-ja-04
+    article_slug: best-smart-speaker-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強スマートスピーカー2026：Echo第4世代が8,980円"
+    description: |
+      Amazon Echo第4世代（8,980円）でAlexaとZigbeeハブ内蔵を両立。タイマー・天気・照明コントロールをすべてカバー。セール時に4,000〜5,000円になることも。日本語認識は5機種中最安定。SwitchBotやパナソニック照明との連携実績も豊富。
+    link: "https://pickly.blog/ja/articles/best-smart-speaker-2026/"
+    image_alt: "Amazon Echo コスパ スマートスピーカー 2026"
+    hashtags: ["アマゾンエコー", "コスパ最強", "スマートスピーカー", "スマートホーム", "Alexa"]
+
+  - pin_id: best-smart-speaker-2026-ja-05
+    article_slug: best-smart-speaker-2026
+    locale: ja
+    variant: avoid
+    title: "スマートスピーカー選びで後悔する3つのパターン"
+    description: |
+      ブランド信仰で選ぶ：HomePodはApple Musicフル活用前提、EchoはAmazonプライム前提 — エコシステム外での機能制限が大きい。角や壁際に置く：低音が膨らみ中高域が濁る。スマートホーム家電を全部買い替えた後に対応規格が変わった事例あり — Matter対応確認が先決。
+    link: "https://pickly.blog/ja/articles/best-smart-speaker-2026/"
+    image_alt: "スマートスピーカー 失敗 エコシステム 囲い込み"
+    hashtags: ["スマートスピーカー", "スマートホーム", "HomePod", "アマゾンエコー", "家電選び"]
+
+  - pin_id: best-smart-speaker-2026-ja-06
+    article_slug: best-smart-speaker-2026
+    locale: ja
+    variant: scene
+    title: "1Kアパートのスマートスピーカー活用：リアルな構成例"
+    description: |
+      構成例：Google Nest Audio（デスク）＋Echo Dot（寝室）で合計15,000円以下。Spotify再生・Philips Hueで照明制御・Nature Remoでエアコン操作をカバー。朝のルーティン：「おはよう」一言でエアコンON、天気読み上げ、Spotifyプレイリスト再生。帰宅後は「ただいま」で照明と暖房を一括起動。
+    link: "https://pickly.blog/ja/articles/best-smart-speaker-2026/"
+    image_alt: "スマートスピーカー 1K アパート 構成 スマートホーム"
+    hashtags: ["スマートスピーカー", "1人暮らし", "スマートホーム", "GoogleNest", "生活便利グッズ"]
+
+  # ── #75 best-facial-cleanser-2026 ────────────────────────────────────────
+  - pin_id: best-facial-cleanser-2026-en-01
+    article_slug: best-facial-cleanser-2026
+    locale: en
+    variant: comparison
+    title: "Best Facial Cleansers 2026: CeraVe vs La Roche-Posay vs Cetaphil vs Paula's Choice"
+    description: |
+      5 facial cleansers ranked for 2026: CeraVe, La Roche-Posay, Cetaphil, Paula's Choice, and Tatcha. Foaming vs cream, pH balance explained, and which ones dermatologists actually recommend for dry, oily, and sensitive skin.
+    link: "https://pickly.blog/en/articles/best-facial-cleanser-2026/"
+    image_alt: "Facial cleanser comparison 2026 CeraVe La Roche-Posay Cetaphil"
+    hashtags: ["FacialCleanser", "Skincare", "CeraVe", "LaRochePosay", "SkincareTips"]
+
+  - pin_id: best-facial-cleanser-2026-en-02
+    article_slug: best-facial-cleanser-2026
+    locale: en
+    variant: top1
+    title: "Best Facial Cleanser for Sensitive Skin 2026: CeraVe Hydrating Cleanser"
+    description: |
+      CeraVe Hydrating Cleanser wins for sensitive and dry skin — ceramides reinforce the skin barrier, and the non-foaming formula won't strip moisture. pH around 5.5 matches skin's natural acidity. Dermatologist-developed and fragrance-free. At ~$15, it's the most cost-effective option in the comparison.
+    link: "https://pickly.blog/en/articles/best-facial-cleanser-2026/"
+    image_alt: "CeraVe Hydrating Cleanser sensitive skin 2026"
+    hashtags: ["CeraVe", "SensitiveSkin", "FacialCleanser", "Skincare", "DermatologistRecommended"]
+
+  - pin_id: best-facial-cleanser-2026-en-03
+    article_slug: best-facial-cleanser-2026
+    locale: en
+    variant: problem
+    title: "Why Your Face Feels Tight After Cleansing — It's Not 'Clean'"
+    description: |
+      That squeaky-clean tight feeling means your cleanser is too alkaline and stripping the skin barrier. Most bar soaps are pH 9–11; healthy skin is pH 4.5–5.5. Over-cleansing breaks down ceramides, leading to more oiliness as skin overcompensates. Switch to a pH-balanced cleanser and the tightness disappears within a week.
+    link: "https://pickly.blog/en/articles/best-facial-cleanser-2026/"
+    image_alt: "Tight skin after cleansing pH imbalance skin barrier"
+    hashtags: ["SkinBarrier", "SkincareScience", "FacialCleanser", "Skincare", "pHBalance"]
+
+  - pin_id: best-facial-cleanser-2026-en-04
+    article_slug: best-facial-cleanser-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Facial Cleanser 2026: Cetaphil Gentle Skin Cleanser at $12"
+    description: |
+      Cetaphil Gentle Skin Cleanser ($11–13) works for all skin types and can be used without water. Fragrance-free, non-comedogenic, and gentle enough for twice-daily use. No active ingredients, just gentle surfactants — ideal if you have reactive skin and want to simplify your routine.
+    link: "https://pickly.blog/en/articles/best-facial-cleanser-2026/"
+    image_alt: "Cetaphil budget facial cleanser 2026"
+    hashtags: ["Cetaphil", "BudgetSkincare", "FacialCleanser", "SensitiveSkin", "AffordableSkincare"]
+
+  - pin_id: best-facial-cleanser-2026-en-05
+    article_slug: best-facial-cleanser-2026
+    locale: en
+    variant: avoid
+    title: "Facial Cleanser Mistakes That Are Damaging Your Skin Barrier"
+    description: |
+      Using hot water: breaks down the lipid barrier, same result as a harsh cleanser. Cleansing 3× a day: overwashes and triggers more oil production. Using a single cleanser for morning AND after heavy makeup: morning requires only light removal, evening needs more thorough cleansing. Rubbing with a rough towel: pat dry to avoid micro-tears.
+    link: "https://pickly.blog/en/articles/best-facial-cleanser-2026/"
+    image_alt: "Facial cleanser mistakes skin barrier damage"
+    hashtags: ["SkinBarrier", "SkincareRoutine", "FacialCleanser", "SkincareMistakes", "Skincare"]
+
+  - pin_id: best-facial-cleanser-2026-en-06
+    article_slug: best-facial-cleanser-2026
+    locale: en
+    variant: scene
+    title: "Minimal AM/PM Skincare Routine with the Right Cleanser as Foundation"
+    description: |
+      AM: CeraVe Hydrating Cleanser (30 sec) → SPF moisturizer. PM: micellar water on cotton pad to remove makeup → CeraVe again (60 sec) → retinol or niacinamide. Total time: under 4 minutes. The cleanser step determines how well the actives that follow absorb — getting it right first unlocks the rest of the routine.
+    link: "https://pickly.blog/en/articles/best-facial-cleanser-2026/"
+    image_alt: "Minimal skincare routine facial cleanser AM PM"
+    hashtags: ["SkincareRoutine", "MinimalSkincare", "CeraVe", "FacialCleanser", "SkincareTips"]
+
+  - pin_id: best-facial-cleanser-2026-ja-01
+    article_slug: best-facial-cleanser-2026
+    locale: ja
+    variant: comparison
+    title: "洗顔料おすすめ比較2026：CeraVe・ラロッシュポゼ・セタフィル・ポーラチョイス"
+    description: |
+      洗顔料5選を2026年版で徹底比較：CeraVe・ラロッシュポゼ・セタフィル・ポーラチョイス・タッチャ。泡洗顔vsクリーム洗顔の選び方、pH値と肌バリアの関係、日本の気候に合った洗顔頻度を解説。
+    link: "https://pickly.blog/ja/articles/best-facial-cleanser-2026/"
+    image_alt: "洗顔料比較2026 CeraVe ラロッシュポゼ セタフィル"
+    hashtags: ["洗顔料", "スキンケア", "CeraVe", "ラロッシュポゼ", "肌バリア"]
+
+  - pin_id: best-facial-cleanser-2026-ja-02
+    article_slug: best-facial-cleanser-2026
+    locale: ja
+    variant: top1
+    title: "敏感肌・乾燥肌の最強洗顔料2026：CeraVeハイドレイティングクレンザー"
+    description: |
+      CeraVeハイドレイティングクレンザーが敏感肌・乾燥肌で1位。セラミド配合で肌バリアを補強、泡立てなくて済む処方で摩擦ゼロ。pH約5.5で肌の自然な酸性度と一致。皮膚科医が開発・無香料。約1,500〜2,000円でこの比較の中で最もコスパが高い。
+    link: "https://pickly.blog/ja/articles/best-facial-cleanser-2026/"
+    image_alt: "CeraVe ハイドレイティングクレンザー 敏感肌 2026"
+    hashtags: ["CeraVe", "敏感肌", "洗顔料", "スキンケア", "皮膚科医おすすめ"]
+
+  - pin_id: best-facial-cleanser-2026-ja-03
+    article_slug: best-facial-cleanser-2026
+    locale: ja
+    variant: problem
+    title: "洗顔後に「つっぱる」のはきれいになった証拠じゃない"
+    description: |
+      つっぱり感はpHが高すぎてバリアが壊れているサイン。石鹸はpH9〜11、健康な肌はpH4.5〜5.5。洗いすぎるとセラミドが失われ、皮脂が過剰分泌してオイリー肌に。pH5台の洗顔料に変えれば1週間でつっぱりが消える。泡立てネット不要・すすぎ時間30秒でも肌は清潔に保てる。
+    link: "https://pickly.blog/ja/articles/best-facial-cleanser-2026/"
+    image_alt: "洗顔 つっぱり pH 肌バリア 原因"
+    hashtags: ["肌バリア", "洗顔 つっぱり", "スキンケア科学", "洗顔料", "pH"]
+
+  - pin_id: best-facial-cleanser-2026-ja-04
+    article_slug: best-facial-cleanser-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強洗顔料2026：セタフィルジェントルスキンクレンザー1,200円"
+    description: |
+      セタフィルジェントルスキンクレンザー（1,200〜1,500円）は全肌質対応・水不要でも使えるタイプ。無香料・ノンコメドジェニック・1日2回使用可能。活性成分なし、低刺激性界面活性剤のみ — 敏感肌でルーティンをシンプルにしたい人に最適。
+    link: "https://pickly.blog/ja/articles/best-facial-cleanser-2026/"
+    image_alt: "セタフィル コスパ 洗顔料 2026"
+    hashtags: ["セタフィル", "コスパ洗顔", "洗顔料", "敏感肌", "プチプラスキンケア"]
+
+  - pin_id: best-facial-cleanser-2026-ja-05
+    article_slug: best-facial-cleanser-2026
+    locale: ja
+    variant: avoid
+    title: "肌バリアを壊す洗顔の間違い4つ"
+    description: |
+      熱いお湯で洗う：40度以上で脂質バリアが溶ける、ぬるま湯（32〜35度）が正解。1日3回洗い：過剰な皮脂除去で逆に脂性肌化。朝晩同じ洗顔料をそのまま使う：夜のメイク落とし後は追い洗いを追加。タオルでゴシゴシ：パットして水分を吸収させる。これだけで肌荒れの70%が改善する。
+    link: "https://pickly.blog/ja/articles/best-facial-cleanser-2026/"
+    image_alt: "洗顔 間違い 肌バリア ダメージ"
+    hashtags: ["肌バリア", "洗顔 間違い", "スキンケア", "肌荒れ 改善", "洗顔料"]
+
+  - pin_id: best-facial-cleanser-2026-ja-06
+    article_slug: best-facial-cleanser-2026
+    locale: ja
+    variant: scene
+    title: "朝晩4分のミニマルスキンケア：洗顔を基礎に組み立てる方法"
+    description: |
+      朝：CeraVeクレンザー30秒 → UVカット保湿剤。夜：ミセラウォーターでメイク落とし → CeraVe60秒 → レチノールorナイアシンアミド。合計4分以内。洗顔が正しければその後の美容成分の浸透が上がる — 洗顔を最初に正しく選ぶことが、スキンケア全体の効果を引き出す。
+    link: "https://pickly.blog/ja/articles/best-facial-cleanser-2026/"
+    image_alt: "朝晩スキンケア ミニマル 洗顔料 ルーティン"
+    hashtags: ["スキンケアルーティン", "ミニマルケア", "CeraVe", "洗顔料", "洗顔 朝晩"]
