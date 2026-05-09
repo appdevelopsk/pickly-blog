@@ -240,6 +240,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-braun-io9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBRAUN%2BOral-B%2BGenius%2BX%2BiO%2B9%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Beauty / Electric Toothbrushes 2026 (best-electric-toothbrush-2026) ─────────
+  {
+    id: "oral-b-io-series-9",
+    category: "beauty",
+    badge: "🦷",
+    name: { en: "Oral-B iO Series 9", ja: "オーラルB iO Series 9" },
+    description: {
+      en: "Oral-B flagship with magnetic drive, AI 16-zone coaching app, round oscillating head. $300+, app pushes data sharing.",
+      ja: "Oral-Bフラッグシップ。マグネットドライブ＋AIアプリ16ゾーンコーチング、回転式丸型ヘッド。3万円超、アプリはデータ共有を積極促進。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-oral-b-io-series-9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOral-B%2BiO9%2B%E9%9B%BB%E5%8B%95%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "philips-sonicare-diamondclean-9000",
+    category: "beauty",
+    badge: "💎",
+    name: { en: "Philips Sonicare DiamondClean 9000", ja: "フィリップス ソニッケアー ダイヤモンドクリーン 9000" },
+    description: {
+      en: "Sonic flagship, 4 modes, glass charging cup, premium gift presentation. $250+, charging cup impractical for travel.",
+      ja: "音波式フラッグシップ。4モード・ガラス充電カップ・高級ギフト向け演出。2万5千円超、充電カップは旅行に不向き。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-philips-sonicare-diamondclean-9000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%2B%E3%82%BD%E3%83%8B%E3%83%83%E3%82%B1%E3%82%A2%E3%83%BC%2BDiamondClean%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-doltz-ew-dp52",
+    category: "beauty",
+    badge: "🇯🇵",
+    name: { en: "Panasonic Doltz EW-DP52", ja: "パナソニック ドルツ EW-DP52" },
+    description: {
+      en: "Japan-made slim sonic, pressure sensor, no app required. Harder to source outside Japan.",
+      ja: "国内製・細型音波式、圧力センサー搭載、アプリ不要。日本国外では入手しにくい。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-panasonic-doltz-ew-dp52", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2B%E3%83%89%E3%83%AB%E3%83%84%2BEW-DP52%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "quip-electric-toothbrush",
+    category: "beauty",
+    badge: "✈️",
+    name: { en: "Quip Electric Toothbrush", ja: "Quip 電動歯ブラシ" },
+    description: {
+      en: "Minimalist flat profile, AAA battery, ADA-accepted, $5/quarter subscription head. No pressure sensor.",
+      ja: "ミニマリスト・フラット形状、単4電池式、ADA認定、750円/四半期ヘッドサブスク。圧力センサーなし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-quip-electric-toothbrush", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FQuip%2B%E9%9B%BB%E5%8B%95%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oclean-x-pro-elite",
+    category: "beauty",
+    badge: "📱",
+    name: { en: "Oclean X Pro Elite", ja: "オクリーン X Pro エリート" },
+    description: {
+      en: "~$80 AI coaching, AMOLED display, ultra-quiet piezoelectric motor. App data to Chinese servers.",
+      ja: "約1万円のAIコーチング、AMOLEDディスプレイ、超静音圧電モーター。アプリデータは中国サーバーへ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-oclean-x-pro-elite", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOclean%2BX%2BPro%2B%E9%9B%BB%E5%8B%95%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Beauty / LED Face Masks (best-led-face-mask-2026) ─────────
   {
     id: "currentbody-skin-led",
@@ -306,57 +372,255 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-omnilux-contour-face", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOmnilux%2BContour%2BFace%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Beauty / Shampoo (best-shampoo-2026) ─────────
+  {
+    id: "and-honey-deep-moist-shampoo",
+    category: "beauty",
+    badge: "🍯",
+    name: { en: "&honey Deep Moist Shampoo", ja: "&honey Deep Moist シャンプー" },
+    description: {
+      en: "1,400 yen 440 mL drugstore moisture pick. Honey-based sulfate-free moisturizing formula that dominated the Japanese drugstore tier from 2018 onwards, refill pouches at roughly 20 percent cost-per-mL discount, widespread availability at Matsumoto Kiyoshi, Welcia, and Don Quijote. Heavy floral fragrance is the dominant complaint — the honey-and-rose scent lingers on pillows and the fragrance-sensitive crowd finds it overpowering; moisturizer load weighs down fine and limp hair so the volumizing crowd should look elsewhere; sulfate-free claim is real but the formula still includes silicones in moderate ratio so the silicone-free crowd should look at Olaplex No.4 instead.",
+      ja: "1,400円440mLのドラッグストア保湿枠。2018年以降日本のドラッグストア枠を支配したハニー ベースの硫酸塩フリー保湿処方、mLあたりコスト約20%割引で詰替パウチ、マツモトキヨシ・ウエルシア・ドン キホーテで広く入手可能。重いフローラル フレグランスが支配的不満 — ハニー&ローズの香りは枕に残りフレグランス敏感層には圧倒的、保湿剤量が細毛と平らな髪を重くしボリュームアップ派は他を見るべき、硫酸塩フリー主張は本物だが処方は中程度の比率でシリコンを含むのでシリコンフリー派はOlaplex No.4を見るべき。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-and-honey-deep-moist-shampoo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%26honey%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "botanist-damage-care-shampoo",
+    category: "beauty",
+    badge: "🌿",
+    name: { en: "BOTANIST Damage Care Shampoo", ja: "BOTANIST ダメージケア シャンプー" },
+    description: {
+      en: "1,540 yen 490 mL botanical mid-tier pick. Botanical-positioned damage-care formula with mid-tier price and widespread Japanese drugstore availability, refill pouches at comparable savings, the brand has been a Pinterest-friendly daily-driver since 2015. Silicone-included formula divides reviewers — silicone buildup is heavier on porous and curly hair and clarifying washes every 4-6 weeks are needed to clear it; botanical fragrance fades within hours and the long-lasting fragrance crowd should look at Kerastase instead; formulation has been adjusted multiple times since 2015 and the 2026 version reviews differently from older versions, so older Rakuten reviews are partially out of date.",
+      ja: "1,540円490mLのボタニカル中位枠。中位価格と広い日本のドラッグストア入手可能性のボタニカル ポジショニングのダメージ ケア処方、同等の節約で詰替パウチ、ブランドは2015年以降Pinterestフレンドリーな毎日使い。シリコン入り処方がレビュアーを分裂させる — シリコン蓄積はポーラスと巻き毛でより重く4-6週ごとにクラリファイング洗浄が必要、ボタニカル フレグランスは数時間以内に消え長持ちフレグランス派はKerastaseを見るべき、処方は2015年以来複数回調整され2026年版は古い版と異なるレビューを受けるため古い楽天レビューは部分的に古い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-botanist-damage-care-shampoo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBOTANIST%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2B%E3%83%80%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%B1%E3%82%A2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "olaplex-no4-bond-maintenance",
+    category: "beauty",
+    badge: "🔬",
+    name: { en: "Olaplex No.4 Bond Maintenance Shampoo", ja: "Olaplex No.4 Bond Maintenance Shampoo" },
+    description: {
+      en: "4,840 yen 250 mL salon bond-repair pick. Patented bis-aminopropyl diglycol dimaleate formula re-forms broken disulfide bonds in chemically damaged and bleached hair, sulfate-free, silicone-light, the salon-grade maintenance shampoo paired with No.0 leave-on and No.3 pre-shower for the full bond-repair regimen. 30 dollars-plus per bottle works out to 5-7x the cost-per-wash of the drugstore tier and is only justified for bond-damaged hair — virgin or lightly heat-styled hair is overkill on the chemistry; no fragrance variety across the line so fragrance-sensitive users have no alternative scent option; US-formulation may feel different to Asian hair textures; No.4 alone without No.0 and No.3 underdelivers the bond repair the marketing implies.",
+      ja: "4,840円250mLのサロン ボンド リペア枠。化学処理ダメージとブリーチ髪の切断されたジスルフィド結合を再形成する特許化されたビスアミノプロピルジグリコールジマレート処方、硫酸塩フリー、シリコン軽め、フル ボンド リペア レジメン用にNo.0リーブオンとNo.3シャワー前とペアリングするサロン グレード メンテナンス シャンプー。30ドル超/ボトルはドラッグストア枠の1回あたりコストの5-7倍で結合ダメージ髪のみに正当化される — バージンまたは軽く加熱スタイリング髪は化学が過剰、ライン全体でフレグランス バリエーションなし、米国処方はアジア髪テクスチャーには異なる感触の可能性、No.4単独でNo.0とNo.3なしではマーケティングが示唆するボンド リペアを過小提供。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-olaplex-no4-bond-maintenance", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOlaplex%2BNo.4%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mediquick-scalp-shampoo",
+    category: "beauty",
+    badge: "🩺",
+    name: { en: "MEDIQUICK H Scalp Shampoo (Medicated)", ja: "メディクイックH 薬用スカルプシャンプー" },
+    description: {
+      en: "Around 1,800 yen medicated scalp-care pick. Medicated scalp shampoo (MEDIQUICK H or equivalent medicated scalp formula on the Japanese pharmacy market) with zinc pyrithione, piroctone olamine, or equivalent anti-dandruff active, formulated for itchy and flake-prone scalps with seborrheic irritation, available at pharmacy counters as quasi-drug or OTC. Clinical scent is recognizable and not pleasant — not in the same category as fragranced cosmetic shampoos and not for daily lifestyle use; surfactant base is drying for color-treated hair and color-fade is faster on this shampoo than on cosmetic alternatives; persistent scalp conditions deserve a dermatology consultation rather than continued shampoo escalation.",
+      ja: "約1,800円の薬用スカルプ ケア枠。ピリチオン亜鉛・ピロクトン オラミンまたは同等の抗フケ有効成分付きの薬用スカルプ シャンプー(MEDIQUICK Hまたは日本の薬局市場上の同等の薬用スカルプ処方)、脂漏性トラブルのかゆい・フケ傾向の頭皮向けに処方、医薬部外品またはOTCとして薬局カウンターで入手可能。臨床的香りは認識可能で快いものではない — フレグランス化粧品シャンプーと同じカテゴリではなく毎日のライフスタイル使用向けではない、界面活性剤ベースはカラー処理髪には乾燥的で色落ちが化粧品代替品より速い、持続的頭皮状態はシャンプー エスカレーション継続より皮膚科診察に値する。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-mediquick-scalp-shampoo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2B%E8%96%AC%E7%94%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kerastase-bain-densite",
+    category: "beauty",
+    badge: "💎",
+    name: { en: "Kerastase Bain Densite", ja: "ケラスターゼ DS バン デンシフィック" },
+    description: {
+      en: "5,500 yen 250 mL salon luxury density pick. Paris-luxury density-targeted shampoo from the Kerastase salon-imported line, formulated for thinning or density-concerned hair with hyaluronic acid and gluco-peptides, salon-grade fragrance and packaging, the brand has been a Pinterest-friendly luxury-aesthetic pick since the early 2010s. 5,500 yen for 250 mL works out to roughly 7x the drugstore cost-per-wash and the small bottle is not refill-friendly so the per-year cost is meaningfully higher; heavy perfumed fragrance is recognizable salon-luxury but perfume-sensitive users should sample before committing to the bottle; density claim is about perceived volume from formulation rather than actual hair regrowth and buyers expecting regrowth will be disappointed.",
+      ja: "5,500円250mLのサロン ラグジュアリー密度枠。Kerastaseサロン輸入ラインからのパリ ラグジュアリー密度ターゲット シャンプー、ヒアルロン酸とグルコ ペプチドで薄毛または密度を気にする髪向けに処方、サロン グレードのフレグランスとパッケージング、ブランドは2010年代初頭以降Pinterestフレンドリーなラグジュアリー アエスティック ピック。250mLで5,500円はドラッグストアの1回あたりコストの約7倍で小ボトルは詰替フレンドリーでないため年間コストは意味のある高さ、重く香水のフレグランスはサロン ラグジュアリーで認識可能だが香水敏感ユーザーはボトルにコミットする前にサンプルすべき、密度主張は実際の発毛ではなく処方による知覚されるボリュームで再生を期待する買い手は失望。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-kerastase-bain-densite", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKerastase%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Beauty / Sunscreen (best-sunscreen-2026) ─────────
+  {
+    id: "anessa-perfect-uv-spf50",
+    category: "beauty",
+    badge: "☀️",
+    name: { en: "Anessa Perfect UV Sunscreen SPF50+ PA++++", ja: "アネッサ パーフェクトUV サンスクリーン SPF50+ PA++++" },
+    description: {
+      en: "Shiseido's outdoor-sport flagship, SPF50+ PA++++. Smart Response formula tightens into a more water-resistant film on contact with sweat or water. Requires double-cleansing to remove. Explicit weakness: white cast on deeper skin tones, eye sting under heavy perspiration, chalky finish over warm-toned bases.",
+      ja: "資生堂のアウトドアスポーツ フラッグシップ、SPF50+ PA++++。汗や水に接触するとより耐水性の高い膜として引き締まるスマートレスポンス処方。ダブルクレンジングで除去必要。明確な弱点：深い肌色に白浮き、激しい発汗中の目のみしみし、温かみのあるベース上では白っぽく見える。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anessa-perfect-uv-spf50", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%8D%E3%83%83%E3%82%B5%2B%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88UV%2BSPF50%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "la-roche-posay-anthelios-uvmune",
+    category: "beauty",
+    badge: "🇫🇷",
+    name: { en: "La Roche-Posay Anthelios UVMune 400", ja: "ラロッシュポゼ アンテリオス UVミューン400" },
+    description: {
+      en: "European flagship SPF50+ with Mexoryl 400 filter blocking ultra-long UVA to 400nm. Fragrance-free, sensitive-skin tested. Now available via Rakuten import. Explicit weakness: ~¥3,500 per 50ml (most expensive in comparison), heavier texture than Japanese formulas, grey-market import availability varies.",
+      ja: "超長波UVAを400nmまでブロックするMexoryl 400フィルター搭載の欧州フラッグシップSPF50+。無香料、敏感肌テスト済み。楽天市場の輸入在庫で入手可能。明確な弱点：50mlで約3,500円（比較中最高価格）、日本処方より重いテクスチャー、並行輸入在庫で入手性にばらつきあり。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-la-roche-posay-anthelios-uvmune", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%2B%E3%82%A2%E3%83%B3%E3%83%86%E3%83%AA%E3%82%AA%E3%82%B9%2BUV%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%8C%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "biore-uv-aqua-rich-essence",
+    category: "beauty",
+    badge: "💧",
+    name: { en: "Biore UV Aqua Rich Watery Essence SPF50+", ja: "ビオレUV アクア リッチ ウォータリーエッセンス SPF50+" },
+    description: {
+      en: "Kao's best-selling Japanese drugstore SPF50+ PA++++. Ultra-lightweight watery texture using Japan-only UV filter combinations. Under ¥1,000 per 70g. Explicit weakness: not water-resistant, PA++++ not yet PA5+, shorter reapplication interval needed in heavy sweat conditions.",
+      ja: "花王の日本ドラッグストア最大ヒット、SPF50+ PA++++。日本限定UVフィルターの組み合わせによる超軽量ウォータリーテクスチャー。70gで1,000円以下。明確な弱点：耐水性なし、PA++++でPA5+未満、激しい発汗条件では標準より短い塗り直し間隔が必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-biore-uv-aqua-rich-essence", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%93%E3%82%AA%E3%83%AC%2BUV%2B%E3%82%A2%E3%82%AF%E3%82%A2%2B%E3%83%AA%E3%83%83%E3%83%81%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "eltamd-uv-clear-spf46",
+    category: "beauty",
+    badge: "🩺",
+    name: { en: "EltaMD UV Clear SPF46", ja: "EltaMD UV Clear SPF46" },
+    description: {
+      en: "Dermatologist-recommended US brand with 9% transparent zinc oxide and 5% niacinamide for acne-prone and sensitive skin. Fragrance-free, oil-free. Available on Amazon Japan. Explicit weakness: SPF46 lower than SPF50+ standard, $40+ US pricing, heavier than Japanese watery formulas.",
+      ja: "ニキビ肌・敏感肌向けに9%透明酸化亜鉛と5%ナイアシンアミドを配合した米国皮膚科推奨ブランド。無香料、オイルフリー。Amazon Japanで入手可能。明確な弱点：SPF46でSPF50+基準より低い、米国価格40ドル以上、日本のウォータリー処方より重いテクスチャー。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-eltamd-uv-clear-spf46", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEltaMD%2BUV%2BClear%2BSPF46%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "skin-aqua-tone-up-lavender",
+    category: "beauty",
+    badge: "💜",
+    name: { en: "Skin Aqua Tone Up UV Essence (Lavender)", ja: "スキンアクア トーンアップUVエッセンス ラベンダー" },
+    description: {
+      en: "Rohto's color-correcting tinted SPF50+ PA++++. Lavender pigment neutralizes yellow and sallow undertones on East Asian complexions for a brightening finish. Under ¥1,000 per 80g. Explicit weakness: lavender tint reads as purple-grey on deeper skin tones (Fitzpatrick IV+), mild water resistance only, no skincare active benefit.",
+      ja: "ロートの色補正ティント入りSPF50+ PA++++。ラベンダー顔料が東アジアの肌色の黄色みとくすみを中和して明るい仕上がりを実現。80gで1,000円以下。明確な弱点：フィッツパトリックIV以上の肌色にラベンダーティントが紫がかったグレーに見える、耐水性は軽度のみ、スキンケア有効成分なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-skin-aqua-tone-up-lavender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%A2%E3%82%AF%E3%82%A2%2B%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%2BUV%2B%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Beauty / Face Washes (best-face-wash-2026) ─────────
+  {
+    id: "cerave-hydrating-facial-cleanser",
+    category: "beauty",
+    badge: "💙",
+    name: { en: "CeraVe Hydrating Facial Cleanser", ja: "CeraVe ハイドレーティング フェイシャル クレンザー" },
+    description: {
+      en: "Non-foaming pump cleanser with ceramide complex (NP, AP, EOP), hyaluronic acid, and niacinamide. AAD-recommended for dry and sensitive skin. Fragrance-free, non-comedogenic. Explicit weakness: non-foam texture fails the sensory expectations of users who equate lather with cleansing; pump nozzle clogs when cleanser dries in the tip; requires prior oil-cleanse for heavy SPF or waterproof makeup removal.",
+      ja: "セラミドコンプレックス（NP・AP・EOP）、ヒアルロン酸、ナイアシンアミドの非泡立てポンプ洗顔料。乾燥・敏感肌に米国皮膚科学会（AAD）推奨。無香料・非コメドジェニック。明確な弱点：非泡立てのテクスチャーが洗浄感を求めるユーザーの感覚的期待に応えない；ポンプノズルが先端で詰まりやすい；重SPFや防水メイクには前段のオイルクレンジングが必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cerave-hydrating-facial-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCeraVe%2B%E6%B4%97%E9%A1%94%E6%96%99%2B%E4%BF%9D%E6%B9%BF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kose-softymo-speedy-cleansing",
+    category: "beauty",
+    badge: "🇯🇵",
+    name: { en: "Kose Softymo Speedy Cleansing Oil", ja: "コーセー ソフティモ スピーディ クレンジングオイル" },
+    description: {
+      en: "Japanese drugstore oil cleanser that emulsifies with water to a milky rinse, removing makeup and SPF in one step. Under ¥1,000 for 230ml. Explicit weakness: not suitable for bare no-SPF skin (over-cleansing risk); silicone content divides long-term reviewers; fragrance present — unsuitable for reactive or sensitive skin.",
+      ja: "水と混ぜて乳化リンスになり、メイクとSPFをワンステップで除去する日本のドラッグストアのオイルクレンザー。230mlで1,000円以下。明確な弱点：SPFなしの素肌には不適（過洗顔リスク）；シリコン含量が長期レビューで賛否；香料が含まれており反応性・敏感肌には不適。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-kose-softymo-speedy-cleansing", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%BC%2B%E3%82%BD%E3%83%95%E3%83%86%E3%82%A3%E3%83%A2%2B%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "the-ordinary-squalane-cleanser",
+    category: "beauty",
+    badge: "🌿",
+    name: { en: "The Ordinary Squalane Cleanser", ja: "The Ordinary スクワランクレンザー" },
+    description: {
+      en: "Balm-to-oil cleanser with plant-derived squalane. Removes SPF and waterproof makeup without sulfate surfactants. Fragrance-free, silicone-free, non-comedogenic. Explicit weakness: requires thorough emulsification with wet hands or leaves residue; too heavy for very oily skin as standalone; 50ml tube empties faster than expected.",
+      ja: "植物由来スクワランのバームtoオイル洗顔料。硫酸系界面活性剤なしにSPFと防水メイクを除去。無香料・シリコンフリー・非コメドジェニック。明確な弱点：濡れた手でしっかり乳化しないと残留物が出る；非常に油性な肌のスタンドアローン使用には重すぎる；50mlチューブが予想より早く空になる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-the-ordinary-squalane-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FThe%2BOrdinary%2B%E3%82%B9%E3%82%AF%E3%83%AF%E3%83%A9%E3%83%B3%2B%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B6%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "shiseido-senka-perfect-whip",
+    category: "beauty",
+    badge: "🫧",
+    name: { en: "Shiseido Senka Perfect Whip", ja: "専科 パーフェクトホイップ 洗顔料" },
+    description: {
+      en: "Dense-foam facial cleanser with hydrolyzed collagen and silk extract. Long-running Japanese drugstore bestseller, under ¥700 for 120g. Explicit weakness: fragrance present — unsuitable for reactive skin and rosacea; collagen molecules too large to penetrate skin in a rinse-off product; foam net required for advertised lather but not included.",
+      ja: "加水分解コラーゲンとシルクエキス配合の濃密泡洗顔料。日本のドラッグストアで長年のベストセラー、120gで700円以下。明確な弱点：香料が含まれており反応性肌・酒さに不適；洗い流し製品でコラーゲン分子は肌バリアを透過できない；宣伝の泡立てには同梱されていない洗顔ネットが必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-shiseido-senka-perfect-whip", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B0%82%E7%A7%91%2B%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%9B%E3%82%A4%E3%83%83%E3%83%97%2B%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "la-roche-posay-toleriane-cleanser",
+    category: "beauty",
+    badge: "🇫🇷",
+    name: { en: "La Roche-Posay Toleriane Hydrating Gentle Cleanser", ja: "ラロッシュポゼ トレリアン ハイドレーティング ジェントル クレンザー" },
+    description: {
+      en: "Non-foaming cleanser with thermal spring water, glycerin, and niacinamide. Zero fragrance, zero alcohol, minimal preservatives. Recommended by Japanese dermatologists for sensitized and post-procedure skin. Explicit weakness: ~¥2,500–3,000 for 400ml (most expensive per-ml in comparison); too gentle for heavy SPF or waterproof makeup removal alone; texture feels 'underpowered' to foam-cleanser users.",
+      ja: "温泉水・グリセリン・ナイアシンアミドの非泡立てクレンザー。無香料・無アルコール・最小限の防腐剤プロファイル。過敏・施術後の肌に日本の皮膚科医推奨。明確な弱点：400mlで約2,500〜3,000円（比較中1ml当たり最高コスト）；重SPFや防水メイクの単独除去には優しすぎる；泡立てクレンザーのユーザーには「物足りない」テクスチャー。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-la-roche-posay-toleriane-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%2B%E3%83%88%E3%83%AC%E3%83%AA%E3%82%A2%E3%83%B3%2B%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Home / Air Purifiers (best-air-purifier-2026) ─────────
   {
-    id: "daikin-mck70z",
+    id: "dyson-purifier-cool-gen1",
     category: "home",
     badge: "🌪️",
-    name: { en: "Daikin MCK70Z Streamer Humidifying Air Purifier", ja: "ダイキン MCK70Z 加湿ストリーマ空気清浄機" },
+    name: { en: "Dyson Purifier Cool Gen1", ja: "ダイソン ピュリファイアー クール Gen1" },
     description: {
-      en: "60,000 yen flagship. Streamer discharge + 10-year TAFU filter, 31-jo coverage. Fastest pollen recovery in our test.",
-      ja: "60,000円のフラッグシップ。ストリーマ放電+10年TAFUフィルター、適用31畳。本テストで花粉復帰最速。",
+      en: "~80,000 yen HEPA H13 + activated carbon fan-purifier combo. 290° airflow projection, LCD air quality display, auto mode. Weakness: loud at max fan speed, expensive body price, annual filter ~6,000 yen, no humidifying.",
+      ja: "約8万円のHEPA H13＋活性炭ファン＋空気清浄一体型。290°気流投射、LCD空気質ディスプレイ、オートモード。弱点：最高速度で騒音あり、本体高価、年間フィルター約6,000円、加湿機能なし。",
     },
     links: [
-      { network: "moshimo", productId: "rakuten-daikin-mck70z", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%82%A4%E3%82%AD%E3%83%B3%2BMCK70Z%2F", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-dyson-purifier-cool-gen1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%82%A4%E3%82%BD%E3%83%B3%2B%E7%A9%BA%E6%B0%97%E6%B8%85%E6%B5%84%E6%A9%9F%2B%E3%83%94%E3%83%A5%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A3%E3%83%BC%2B%E3%82%AF%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
   {
-    id: "sharp-ki-ns70",
+    id: "sharp-plasmacluster-fp-j80",
+    category: "home",
+    badge: "🇯🇵",
+    name: { en: "Sharp Plasmacluster FP-J80", ja: "シャープ プラズマクラスター FP-J80" },
+    description: {
+      en: "~50,000 yen Japanese brand. Plasmacluster ion technology, 24-hour monitoring, pollen/PM2.5 sensor, quiet night mode, 10-year HEPA. Weakness: ion efficacy evidence mostly in-house, larger footprint, 2-3 year deodorising filter.",
+      ja: "約5万円の国内ブランド。プラズマクラスターイオン技術、24時間監視、花粉/PM2.5センサー、静音ナイトモード、10年HEPA。弱点：イオン有効性根拠は主に社内研究、大きなフットプリント、2〜3年脱臭フィルター。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-sharp-plasmacluster-fp-j80", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%2B%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%2BFP-J80%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-f-vxu90",
     category: "home",
     badge: "💨",
-    name: { en: "Sharp KI-NS70 Plasmacluster Humidifying Air Purifier", ja: "シャープ KI-NS70 プラズマクラスター加湿空気清浄機" },
+    name: { en: "Panasonic F-VXU90", ja: "パナソニック F-VXU90 空気清浄機" },
     description: {
-      en: "50,000 yen all-rounder. Plasmacluster 25000 ions, 31-jo coverage, mature COCORO AIR app. Fastest odor removal in our test.",
-      ja: "50,000円のオールラウンダー。プラズマクラスター25000、適用31畳、成熟したCOCORO AIRアプリ。本テストで臭い除去最速。",
+      en: "~50,000 yen Japanese brand. nanoe X ion + HEPA, pollen/humidity/PM2.5 triple sensor, slim design, app-connected. Weakness: nanoe X research mostly in-house, mid-range price, 2-year filter interval.",
+      ja: "約5万円の国内ブランド。ナノイーX＋HEPA、花粉/湿度/PM2.5トリプルセンサー、スリム設計、アプリ接続。弱点：ナノイーX研究は主に社内、中価格帯、2年フィルター交換。",
     },
     links: [
-      { network: "moshimo", productId: "rakuten-sharp-ki-ns70", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%2BKI-NS70%2F", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-panasonic-f-vxu90", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2BF-VXU90%2B%E7%A9%BA%E6%B0%97%E6%B8%85%E6%B5%84%E6%A9%9F%2F", markets: ["JP"], approved: true },
     ],
   },
   {
-    id: "panasonic-fvc70xv",
+    id: "blueair-blue-max-3250i",
     category: "home",
-    badge: "🌿",
-    name: { en: "Panasonic F-VC70XV nanoe X Humidifying Air Purifier", ja: "パナソニック F-VC70XV ナノイーX 加湿空気清浄機" },
+    badge: "🇸🇪",
+    name: { en: "Blueair Blue Max 3250i", ja: "ブルーエア Blue Max 3250i" },
     description: {
-      en: "45,000 yen quiet pick. nanoe X generator, 31-jo coverage, 19 dB on lowest auto. Best for bedroom use.",
-      ja: "45,000円の静音派向け。ナノイーX搭載、適用31畳、最弱オート19dB。寝室用途で最適。",
+      en: "~45,000 yen Swedish brand. HEPASilent dual-filtration (electrostatic + mechanical), ultra-quiet <17dB sleep mode, covers 40m². Weakness: no built-in humidity display, filter ~5,000 yen every 6 months, app setup fiddly.",
+      ja: "約4万5,000円のスウェーデンブランド。HEPASilentデュアルフィルタリング（静電＋機械）、超静音17dB未満スリープモード、40m²対応。弱点：湿度ディスプレイなし、フィルター6ヶ月ごと約5,000円、アプリ設定がやや難。",
     },
     links: [
-      { network: "moshimo", productId: "rakuten-panasonic-fvc70xv", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2BF-VC70XV%2F", markets: ["JP"], approved: false },
-    ],
-  },
-  {
-    id: "balmuda-pure-a01d",
-    category: "home",
-    badge: "🤍",
-    name: { en: "Balmuda The Pure A01D", ja: "バルミューダ The Pure A01D" },
-    description: {
-      en: "50,000 yen design choice. Cylindrical column, matte white finish. Looks great in a Tokyo 1K — slowest cooking-spike recovery in our test.",
-      ja: "50,000円のデザイン家電。円筒シルエット、マット白仕上げ。都内1Kに映える見た目、調理時の復帰時間は本テスト最遅。",
-    },
-    links: [
-      { network: "moshimo", productId: "rakuten-balmuda-pure-a01d", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%AB%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%80%2BThe%2BPure%2BA01D%2F", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-blueair-blue-max-3250i", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A8%E3%82%A2%2BBlue%2BMax%2B3250i%2F", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Tech / Rental servers (conoha-wing-review-2026, best-rental-server-jp-2026) ─────────
@@ -426,16 +690,82 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
   {
-    id: "iris-ohyama-iap-a85",
+    id: "coway-airmega-200m",
     category: "home",
-    badge: "💴",
-    name: { en: "Iris Ohyama IAP-A85-W", ja: "アイリスオーヤマ IAP-A85-W" },
+    badge: "🇰🇷",
+    name: { en: "Coway Airmega 200M", ja: "コウェイ アイレーマ200M" },
     description: {
-      en: "15,000 yen budget pick. HEPA + activated carbon, 17-jo coverage, no app. Quarter the price of Daikin and works for 6-10 jo bedrooms.",
-      ja: "15,000円のコスパ機。HEPA+活性炭、適用17畳、アプリなし。ダイキンの1/4価格で6-10畳寝室なら十分。",
+      en: "~20,000 yen Korean brand. 2-stage True HEPA + carbon, LED air quality ring indicator, 18m² coverage. Weakness: smaller coverage, no ion technology, 6-month filter intervals, lower brand recognition in Japan.",
+      ja: "約2万円の韓国ブランド。2段階True HEPA＋活性炭、LEDリングインジケーター、18m²対応。弱点：対応面積小さめ、イオン技術なし、6ヶ月フィルター交換、日本でのブランド認知度低め。",
     },
     links: [
-      { network: "moshimo", productId: "rakuten-iris-iap-a85", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%A4%E3%83%9E%2BIAP-A85-W%2F", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-coway-airmega-200m", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%82%A6%E3%82%A7%E3%82%A4%2B%E7%A9%BA%E6%B0%97%E6%B8%85%E6%B5%84%E6%A9%9F%2B%E3%82%A2%E3%82%A4%E3%83%AC%E3%83%BC%E3%83%9E%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Home / Humidifiers (best-humidifier-2026) ─────────
+  {
+    id: "dyson-purifier-humidify-cool",
+    category: "home",
+    badge: "💧",
+    name: { en: "Dyson Purifier Humidify+Cool Formaldehyde", ja: "ダイソン ピュリファイアー加湿空気清浄機 フォルムアルデヒド" },
+    description: {
+      en: "~100,000+ yen HEPA H13 purifier + UV-C ultrasonic humidifier + bladeless fan combo. Formaldehyde sensor, auto humidity sensing. Weakness: highest price in category, monthly demineralization cartridge, large footprint, complex three-consumable maintenance.",
+      ja: "10万円超のHEPA H13空気清浄機＋UV-C超音波加湿器＋羽根なしファン一体型。ホルムアルデヒドセンサー・自動湿度センシング。弱点：最高価格、月次脱ミネラルカートリッジ交換、大型フットプリント、3種消耗品のメンテナンス複雑性。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-dyson-purifier-humidify-cool", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%82%A4%E3%82%BD%E3%83%B3%2B%E5%8A%A0%E6%B9%BF%E7%A9%BA%E6%B0%97%E6%B8%85%E6%B5%84%E6%A9%9F%2B%E3%83%95%E3%82%A9%E3%83%AB%E3%83%A0%E3%82%A2%E3%83%AB%E3%83%87%E3%83%92%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-fe-kxu07",
+    category: "home",
+    badge: "🇯🇵",
+    name: { en: "Panasonic FE-KXU07", ja: "パナソニック 加湿器 FE-KXU07" },
+    description: {
+      en: "Japanese brand ultrasonic-evaporative hybrid with nanoe X ion technology. JEMA-standard humidity labeling, quiet, auto humidity sensing. Weakness: weekly filter cleaning in hard-water areas, nanoe X efficacy debate, Japan-domestic availability.",
+      ja: "ナノイーXイオン技術搭載の国内ブランド超音波気化ハイブリッド加湿器。JEMA規格湿度表示・静音・自動湿度センシング。弱点：硬水地域で週次フィルター清掃必要、ナノイーX効果論争、日本国内流通が主流。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-panasonic-fe-kxu07", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2BFE-KXU07%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "balmuda-rain",
+    category: "home",
+    badge: "🌧️",
+    name: { en: "Balmuda Rain", ja: "バルミューダ レイン 加湿器" },
+    description: {
+      en: "~35,000 yen iconic Japanese designer evaporative humidifier. No white dust, auto humidity sensing, quiet, beautiful aesthetic. Weakness: coverage capped at 14m², ~3,000 yen/season filter replacement, low output vs price, not for large rooms.",
+      ja: "約3万5,000円の日本製デザイナー気化式加湿器。白い粉なし・自動湿度センシング・静音・美しいデザイン。弱点：対応面積最大14m²、1シーズン約3,000円フィルター交換、価格対加湿能力が低め、広い部屋向きでない。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-balmuda-rain", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%AB%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%80%2B%E3%83%AC%E3%82%A4%E3%83%B3%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "levoit-classic-300s",
+    category: "home",
+    badge: "📱",
+    name: { en: "Levoit Classic 300S Ultrasonic Humidifier", ja: "Levoit 加湿器 超音波式 Classic 300S" },
+    description: {
+      en: "~9,000-12,000 yen (Rakuten import) smart ultrasonic, app+voice control, auto mode, 6L tank. Most affordable smart pick. Weakness: white dust from tap water, no UV-C, weekly tank cleaning required, sensor accuracy placement-dependent.",
+      ja: "約9,000〜12,000円（楽天輸入）スマート超音波式、アプリ＋音声操作、オートモード、6Lタンク。最も手頃なスマート加湿器。弱点：水道水で白い粉発生、UV-Cなし、週次タンク清掃必要、センサー精度が設置場所依存。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-levoit-classic-300s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLevoit%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2B%E8%B6%85%E9%9F%B3%E6%B3%A2%E5%BC%8F%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "stadler-form-oskar",
+    category: "home",
+    badge: "🇨🇭",
+    name: { en: "Stadler Form Oskar", ja: "Stadler Form オスカー 加湿器" },
+    description: {
+      en: "~30,000 yen Swiss design evaporative drum humidifier. 45m² coverage, award-winning design (iF, Red Dot), no white dust, quiet for bedroom. Weakness: weekly drum cleaning, large tank hard to fill in narrow sinks, no smart connectivity.",
+      ja: "約3万円のスイスデザイン気化式ドラム型加湿器。45m²対応、iF・Red Dot受賞デザイン、白い粉なし、寝室対応の静音性。弱点：週次ドラム清掃、狭い流し台での大型タンク補水が困難、スマート接続なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-stadler-form-oskar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStadler%2BForm%2B%E3%82%AA%E3%82%B9%E3%82%AB%E3%83%BC%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Home / Robot Vacuums (best-robot-vacuum-2026) ─────────
@@ -900,6 +1230,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-mytrex-rebive-mini-xs", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMYTREX%2BREBIVE%2BMINI%2BXS%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Beauty / Protein Powder (best-protein-powder-2026) ─────────
+  {
+    id: "optimum-gold-standard-2270g",
+    category: "beauty",
+    badge: "🏆",
+    name: { en: "Optimum Nutrition Gold Standard 100% Whey 2.27 kg", ja: "Optimum Nutrition Gold Standard 100% Whey 2.27kg" },
+    description: {
+      en: "9,800 yen international premium pick. 24 g protein per 30 g scoop (80% protein by weight) from a blend of whey isolate, concentrate, and peptides, 5.5 g naturally occurring BCAAs per scoop, Informed Choice batch certification, 25-year sport-nutrition track record. 4,300 yen per kg is 30-40% more expensive than Myprotein on per-gram-of-protein basis; sucralose-plus-acesulfame-potassium sweetener combination is overly sweet for some palates; international supply means stock fluctuations through Japanese retail are routine.",
+      ja: "9,800円の国際プレミアム枠。30gスクープあたりタンパク質24g(重量比80%)をホエイアイソレート・コンセントレート・ペプチドのブレンドで供給、1スクープあたりホエイ由来天然BCAA 5.5g、Informed Choiceバッチ認証、25年のスポーツ栄養実績。キロあたり4,300円はタンパク質1gあたりベースでMyproteinより30-40%高い、スクラロース+アセスルファムKの甘味料コンビは一部の口に過度に甘い、国際供給は日本小売を通じた在庫変動が日常的。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-optimum-gold-standard-2270g", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOptimum%2BGold%2BStandard%2BWhey%2B2.27kg%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "myprotein-impact-whey-2500g",
+    category: "beauty",
+    badge: "💴",
+    name: { en: "Myprotein Impact Whey Protein 2.5 kg", ja: "Myprotein Impact ホエイプロテイン 2.5kg" },
+    description: {
+      en: "7,990 yen European value pick (typical sale price; non-sale list is 9,500-11,000 yen). 20-21 g protein per 25 g scoop (80-84% by weight), Informed Sport certified for select flavours and batches, 60+ flavour SKUs in UK with frequent 40-50% off promotional pricing. International shipping from UK warehouse takes 7-14 business days with intermittent stock-outs; mixability is grittier than ON or SAVAS particularly in cold liquid; only specific flavours and batches carry Informed Sport certification and athletes must verify per batch via Myprotein lot-lookup.",
+      ja: "7,990円の欧州バリュー枠(典型的セール価格;非セール定価は9,500-11,000円)。25gスクープあたりタンパク質20-21g(重量比80-84%)、特定フレーバーとバッチでInformed Sport認証、UKで60以上のフレーバーSKUと頻繁な40-50%オフプロモーション価格。UK倉庫からの国際配送が7-14営業日かかり断続的な在庫切れ、混溶性が特に冷たい液体でONやSAVASよりザラつき、特定フレーバーとバッチのみがInformed Sport認証を持ちMyproteinロット検索でバッチごとに検証する必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-myprotein-impact-whey-2500g", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMyprotein%2BImpact%2B%E3%83%9B%E3%82%A7%E3%82%A4%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dns-whey-g-plus-1kg",
+    category: "beauty",
+    badge: "🏋️",
+    name: { en: "DNS Whey Protein G+ 1 kg", ja: "DNS ホエイプロテイン G+ 1kg" },
+    description: {
+      en: "4,800 yen Japanese athlete-formulated pick. 22 g protein per 33 g scoop with added 4.5 g BCAAs, 2 g glutamine, and electrolytes, JADA-aligned testing for the Japanese sport-supplement registry, formulated for competitive Japanese athletes (DNS sponsors J-League and rugby teams). Uses sucralose as primary sweetener; 67% protein-by-weight ratio means per-gram-of-protein cost is higher than 80% protein options despite lower retail price; does not carry Informed Sport or NSF certification (only JADA-aligned), insufficient for some international competitions.",
+      ja: "4,800円の日本アスリート製剤枠。33gスクープあたりタンパク質22g+追加BCAA 4.5g・グルタミン2g・電解質、日本のスポーツサプリメント登録向けJADAアライン検査、競技日本人アスリートに製剤化(DNSはJリーグやラグビーチームをスポンサー)。主要甘味料としてスクラロースを使用、重量比67%のタンパク質比率は小売価格が低くても80%タンパク質オプションよりタンパク質1gあたりコストが高い、Informed SportやNSF認証なし(JADAアラインのみ)、一部国際大会には不十分な可能性。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-dns-whey-g-plus-1kg", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDNS%2B%E3%83%9B%E3%82%A7%E3%82%A4%2BG%2Bplus%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "meiji-savas-whey-980g",
+    category: "beauty",
+    badge: "🇯🇵",
+    name: { en: "Meiji SAVAS Whey Protein 100 980 g", ja: "明治 SAVAS ホエイプロテイン100 980g" },
+    description: {
+      en: "4,980 yen Japanese commodity and senior pick. 15-21 g protein per 21 g scoop depending on SKU (cocoa is 15 g, vanilla and milk are 21 g), added vitamins B/C/D and calcium in select SKUs, JADA-aligned testing, strongest Japanese-domestic distribution through Matsumoto Kiyoshi, Welcia, FamilyMart, Lawson, plus Rakuten and Amazon Japan. 15 g per scoop in cocoa flavour is too low for athlete-grade body recomposition (requires 1.5-2 scoops per shake); SAVAS line includes many SKUs (Whey 100, Aqua Whey, Pro, For Athlete, Mass Up) with meaningfully different formulations and buyers regularly purchase the wrong variant; per-kilogram price of 5,080 yen is similar to D2C tier despite commodity-tier positioning.",
+      ja: "4,980円の日本コモディティ&シニア枠。SKUにより21gスクープあたりタンパク質15-21g(ココアは15g、バニラとミルクは21g)、選択SKUに追加ビタミンB/C/Dとカルシウム、JADAアライン検査、マツモトキヨシ・ウエルシア・ファミリーマート・ローソン+楽天とAmazon Japanを通じた本比較最強の日本国内流通。ココア フレーバー1スクープあたり15gはアスリートグレードのボディメイクには低すぎ(1シェイクあたり1.5-2スクープ必要)、SAVASラインは意味あるレベルで異なる製剤の多くのSKU(ホエイ100・アクアホエイ・プロ・For Athlete・マスアップ)を含み購入者が定期的に間違ったバリアントを買う、キロあたり5,080円はコモディティ ティアのポジショニングにもかかわらずD2Cティアと同等。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-meiji-savas-whey-980g", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSAVAS%2B%E3%83%9B%E3%82%A7%E3%82%A4100%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "inputein-whey-1kg",
+    category: "beauty",
+    badge: "🌱",
+    name: { en: "Inputein Kamikatsu Whey Protein 1 kg", ja: "Inputein 上勝ホエイプロテイン 1kg" },
+    description: {
+      en: "4,980 yen no-artificial-sweetener D2C pick. 20 g protein per 25 g scoop (80% by weight), 100% Hokkaido domestic raw-milk sourcing with batch traceability, no sucralose, acesulfame potassium, aspartame, or artificial flavours, Tokushima Prefecture upcycling community origin with Pinterest and Instagram-heavy organic reach since the 2024 launch. Only 4-5 flavour SKUs available at any time (flavour fatigue at month 3-4); 5,000 yen per kg is roughly 30-40% more expensive than international tier on per-gram-of-protein basis (Myprotein delivers similar protein content at roughly 3,200 yen per kg on sale); no Informed Sport or NSF certification (not athlete-safe for WADA-tested sport).",
+      ja: "4,980円の人工甘味料無添加D2C枠。25gスクープあたりタンパク質20g(重量比80%)、バッチ追跡可能性付き100%北海道国内生乳ソース、スクラロース・アセスルファムK・アスパルテーム・人工香料無添加、徳島県上勝町のアップサイクリングコミュニティ起源で2024年ローンチ以来PinterestとInstagramの組織的リーチ重視。任意の時点で4-5フレーバーSKUのみ(3-4ヶ月目にフレーバー疲労)、キロあたり5,000円はタンパク質1gあたりベースで国際ティアより約30-40%高い(Myproteinはセール時のキロあたり約3,200円で類似タンパク質含有量)、Informed SportやNSF認証なし(WADAテスト対象スポーツに安全ではない)。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-inputein-whey-1kg", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInputein%2B%E4%B8%8A%E5%8B%9D%E3%83%9B%E3%82%A7%E3%82%A4%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Beauty / Aroma Diffusers (best-aroma-diffuser-2026) ─────────
+  {
+    id: "muji-aroma-diffuser-mj-adl2",
+    category: "beauty",
+    badge: "🇯🇵",
+    name: { en: "Muji Ultrasonic Aroma Diffuser MJ-ADL2", ja: "無印良品 超音波うるおいアロマディフューザー MJ-ADL2" },
+    description: {
+      en: "7,990 yen Japanese-design daily-driver pick. 100 mL ultrasonic at around 30 dB with neutral two-LED-brightness design, simple two-button control, available at every Muji store nationwide for same-day pickup with warranty service. 100 mL tank empties in 2-3 hours continuous (shortest in this comparison); scent throw is moderate not strong (covers 6-10 jou); price-per-spec is not the strongest as you pay for Muji brand rather than highest capacity.",
+      ja: "7,990円の日本デザイン日常使い枠。100mL超音波で約30dB、ニュートラル2段階LED輝度デザイン、シンプル2ボタン制御、当日ピックアップで全国の無印店舗利用可能と保証サービス。100mLタンクは連続2-3時間で空になる(本比較最短)、芳香拡散は中程度で強くなく(6-10畳をカバー)、スペックあたり価格は最強ではなく無印ブランドに支払う(最高容量ではなく)。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-muji-aroma-diffuser-mj-adl2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81%2B%E3%82%A2%E3%83%AD%E3%83%9E%E3%83%87%E3%82%A3%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B6%E3%83%BC%2BMJ-ADL2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "vitruvi-stone-diffuser",
+    category: "beauty",
+    badge: "🪨",
+    name: { en: "Vitruvi Stone Diffuser", ja: "Vitruvi Stone Diffuser" },
+    description: {
+      en: "18,800 yen Pinterest-aesthetic premium pick. Hand-glazed porcelain ceramic shell in 9 colorways, 90 mL ultrasonic at around 25 dB (one of quietest), Canadian Vitruvi brand dominant on Pinterest beauty-aesthetic boards since 2018. Ceramic shell is fragile (drop = crack) and several long-term buyers report hairline cracks at 12-18 months from thermal cycling; 18,800 yen is roughly 2.5x Muji and 5x InnoGear on the same ultrasonic spec; 90 mL tank suits bedrooms only and underperforms in 16+ jou LDK; international shipping from Canada means routine stock fluctuations and color availability variation.",
+      ja: "18,800円のPinterest美学プレミアム枠。9色展開の手釉ポーセリン セラミック外装、90mL超音波で約25dB(最も静かな部類)、2018年以来Pinterest美学ボードを支配するカナダのVitruviブランド。セラミック外装は脆弱(落とすと割れる)で複数の長期購入者が熱サイクルから12-18ヶ月時点で細い亀裂を報告、18,800円は同じ超音波スペックで無印の約2.5倍・InnoGearの約5倍、90mLタンクは寝室のみに合い16+畳LDKでは性能不足、カナダからの国際配送は日常的な在庫変動と色入手性の変動を意味する。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-vitruvi-stone-diffuser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVitruvi%2BStone%2BDiffuser%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "treeoflife-mood-air-mini",
+    category: "beauty",
+    badge: "🌿",
+    name: { en: "Tree of Life mood air mini", ja: "生活の木 mood air mini" },
+    description: {
+      en: "9,900 yen Japanese specialist nebulizer pick. Pure essential oil atomization with Venturi air pump, strong scent throw saturating 15-25 jou rooms, intermittent timer modes, glass nebulizer head, USB-C, Tree of Life domestic brand with established oil ecosystem at Tokyu Hands and Loft. Consumes 3-5 mL of pure oil per hour (5-10x running cost vs ultrasonic); air pump runs at 40-50 dB (interrupts sleep in bedroom); glass head clogs with thick oils requiring weekly disassembly cleaning; warranty technically requires Tree of Life own oil line.",
+      ja: "9,900円の日本専門ネブライザー枠。Venturiエアポンプによる純粋精油霧化、15-25畳の部屋を飽和する強い芳香拡散、断続タイマー モード、ガラス ネブライザー ヘッド、USB-C、Tokyu HandsとLoftで確立された精油エコシステムを持つ生活の木国内ブランド。1時間あたり3-5mLの純粋精油を消費(超音波 vs 5-10倍の運用コスト)、エアポンプは40-50dBで稼働(寝室で睡眠を中断)、ガラス ヘッドは厚い精油で詰まり週次の分解清掃を要する、保証は技術的に生活の木自社精油ラインを要求。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-treeoflife-mood-air-mini", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%94%9F%E6%B4%BB%E3%81%AE%E6%9C%A8%2Bmood%2Bair%2Bmini%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "at-aroma-pebble",
+    category: "beauty",
+    badge: "🪴",
+    name: { en: "@aroma Aroma Pebble", ja: "@aroma Aroma Pebble" },
+    description: {
+      en: "14,300 yen Japanese portable D2C pick. Rechargeable battery 4-8 hour runtime per USB-C charge, 30-50 mL ultrasonic at around 28 dB, river-pebble silhouette in stone/mocha/sand/graphite colorways, @aroma proprietary oil ecosystem. Battery runtime is shorter than AC-powered (daily recharging if used daily); small tank suits personal-bubble use only and cannot saturate a room; 14,300 yen is high for 30-50 mL tank ultrasonic; rechargeable battery has finite cycle life and degrades after 300-400 cycles (2-3 years of daily use before runtime drops below practical).",
+      ja: "14,300円の日本ポータブルD2C枠。1 USB-C充電あたり4-8時間稼働の充電式バッテリー、30-50mL超音波で約28dB、ストーン/モカ/サンド/グラファイト カラー展開の川石シルエット、@aroma専有精油エコシステム。電池稼働時間はAC電源より短い(日常使用なら毎日充電)、小さなタンクはパーソナルバブル使用専用で部屋を飽和できない、14,300円は30-50mLタンク超音波としては高い、充電式バッテリーには有限のサイクル寿命があり300-400サイクル後に劣化(日常使用2-3年で稼働時間が実用以下に下がる)。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-at-aroma-pebble", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%40aroma%2BAroma%2BPebble%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "innogear-500ml-diffuser",
+    category: "beauty",
+    badge: "💴",
+    name: { en: "InnoGear Aromatherapy Diffuser 500 mL", ja: "InnoGear Aromatherapy Diffuser 500mL" },
+    description: {
+      en: "3,980 yen budget large-tank pick. 500 mL ultrasonic with 10-12 hour continuous runtime (longest in this comparison), 7-color LED with disable option, mist intensity adjustment, automatic shutoff, remote control included. Build quality is variable with plastic-and-wood-veneer body that several long-term buyers describe as visibly cheap-looking; tank seal water leakage is the most common long-term failure mode at 6-12 month mark; warranty support in Japan is weaker than domestic specialist brands; ceramic plate accumulates mineral scale faster than premium units, requiring weekly cleaning rather than monthly.",
+      ja: "3,980円の予算大型タンク枠。連続10-12時間稼働の500mL超音波(本比較最長稼働時間)、無効化オプション付き7色LED、ミスト強度調整、自動シャットオフ、リモコン同梱。製造品質は変動しプラスチック+木目調本体は複数の長期購入者が目視で安っぽく見えると記述、タンク シール水漏れが6-12ヶ月時点での最一般長期故障モード、日本での保証サポートは国内専門ブランドより弱い、セラミック板はプレミアム ユニットより速くミネラル スケールを蓄積し月次ではなく週次清掃を要する。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-innogear-500ml-diffuser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInnoGear%2BAromatherapy%2B500ml%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Tech / Smart Watches (best-smart-watch-2026) ─────────
   {
     id: "apple-watch-series-10",
@@ -964,6 +1426,336 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-amazfit-gtr-4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazfit%2BGTR%2B4%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Tech / Tablet Stands (best-tablet-stand-2026) ─────────
+  {
+    id: "lululook-ipad-stand",
+    category: "tech",
+    badge: "🧲",
+    name: { en: "Lululook Magnetic iPad Stand", ja: "Lululook マグネット式iPadスタンド" },
+    description: {
+      en: "9,800-12,800 yen aluminum magnetic premium pick. Magnetic puck attaches iPad Pro 11/12.9 directly to the arm with no clamp, 360-degree rotation between portrait and landscape, weighted base for desk stability, brushed-aluminum finish that matches Apple silver/space gray. iPad-only — magnet plate is sized for iPad Pro and iPad Air and does not fit Android tablets, Kindle Fire, or smaller iPad Mini without the separately sold magnetic adapter; magnet pull weakens with the heavier 12.9-inch iPad Pro plus Magic Keyboard combination and the device can detach if knocked; 9,800-12,800 yen is at the top of the desk-stand price band.",
+      ja: "9,800-12,800円のアルミ製マグネット プレミアム枠。マグネット式パックがiPad Pro 11/12.9をクランプなしで直接アームに取り付け、縦横360度回転、机上安定性のための重量ベース、Apple シルバー/スペースグレイに合うブラッシュド アルミ仕上げ。iPad専用 — マグネット プレートはiPad ProとiPad Airサイズで、Androidタブレット・Kindle Fire・小型iPad Miniは別売マグネット アダプタなしで装着不可、12.9インチiPad Pro+Magic Keyboardの重い組合せでマグネット保持力が弱まり衝撃でデバイスが外れる可能性、9,800-12,800円は机上スタンド価格帯の上限。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-lululook-ipad-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLululook%2BiPad%2B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "moft-float-stand",
+    category: "tech",
+    badge: "💼",
+    name: { en: "MOFT Float", ja: "MOFT Float" },
+    description: {
+      en: "8,980 yen ultra-portable foldable pick. Origami-style folding fabric stand that doubles as a laptop and tablet riser, 7 angle stops between 25 and 60 degrees, weighs 280 g and folds to 8 mm thick to slide into a sleeve. Fabric and hinge construction is not as rigid as a metal desk stand — heavy drawing pressure with Apple Pencil flexes the stand visibly and stability for Procreate use is the dominant complaint in long-term reviews; fabric exterior shows wear and pilling around the hinge fold after 12-18 months of daily use; the same product is also sold as a laptop stand, so the tablet-only buyer overpays for laptop angles they may not use.",
+      ja: "8,980円の超携帯折りたたみ枠。折り紙式の折りたたみファブリック スタンドがノートPCとタブレット ライザーを兼ね、25-60度の7段階角度、重量280gで8mm厚に折りたたんでスリーブに収納可能。ファブリックとヒンジ構造はメタル机上スタンドほど剛性がない — Apple Pencilでの強い描画圧力でスタンドが目に見えてたわみ、Procreate用途の安定性は長期レビューの支配的不満、ファブリック外装は12-18ヶ月の毎日使用後にヒンジ折り目周辺で摩耗と毛玉、同製品はノートPCスタンドとしても販売されているため、タブレット専用買い手はノートPC用角度に過払いの可能性。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-moft-float-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMOFT%2BFloat%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lamicall-tablet-stand",
+    category: "tech",
+    badge: "🪑",
+    name: { en: "Lamicall Adjustable Tablet Stand", ja: "Lamicall 角度調整タブレットスタンド" },
+    description: {
+      en: "1,680-2,480 yen aluminum desk-stand value pick. Single-piece aluminum body fits 4-13 inch tablets and most phones, single-axis hinge with 270-degree tilt range, silicone pads on the cradle and base prevent scratching, weight tuned to keep iPad Pro 12.9 stable. Single-axis tilt only — no height adjustment and no swivel/rotation, so portrait-to-landscape requires lifting and re-cradling the tablet rather than a smooth rotation; one-piece hinge has no detent stops and any deliberate angle can drift over a long video call as the friction surface wears in; finishing tolerances on the cradle vary unit-to-unit and a small fraction of buyers report iPad rocking in the cradle.",
+      ja: "1,680-2,480円のアルミ机上スタンド コスパ枠。一体アルミ ボディが4-13インチのタブレットとほとんどのスマホに対応、270度傾斜範囲のシングル アクシス ヒンジ、クレードルとベースのシリコン パッドが擦り傷を防止、iPad Pro 12.9を安定させる重量調整。シングル アクシス傾斜のみ — 高さ調整なし・スイベル/回転なしで、縦横切り替えにはタブレットを持ち上げて再クレードルする必要があり滑らかな回転はできない、一体ヒンジはデテント ストップなしで長時間ビデオ通話中に摩擦面が摩耗するとどんな意図的な角度もずれる可能性、クレードルの仕上げ精度はユニット間で差があり一部買い手はクレードル内のiPadのがたつきを報告。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-lamicall-tablet-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLamicall%2B%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "uperfect-tablet-floor-stand",
+    category: "tech",
+    badge: "🛏️",
+    name: { en: "UPERFECT Tablet Floor Stand", ja: "UPERFECT タブレット フロアスタンド" },
+    description: {
+      en: "5,980-8,980 yen tall floor-stand pick for hands-free bed and sofa viewing. Adjustable column extends 90-150 cm tall, gooseneck arm bends to position the tablet directly over the bed or above a recipe surface, weighted footprint base, fits 4.7-12.9 inch tablets and most phones via spring-loaded clamp. Wobble at full extension is the dominant long-term complaint — at 150 cm with an iPad Pro 12.9 the gooseneck flex is visible and even small bumps to the column produce a 5-10 second oscillation that disrupts reading; weighted base footprint takes 35-40 cm of floor space that is awkward in a small Japanese bedroom; spring clamp marks the bezel of metal-edged tablets after repeated mounting and unmounting.",
+      ja: "5,980-8,980円のハンズフリー ベッド/ソファ視聴向け背の高いフロアスタンド枠。調整可能カラムが90-150cmまで伸び、グースネック アームがタブレットをベッドの真上やレシピ面の上に配置、重量フットプリント ベース、スプリング式クランプで4.7-12.9インチのタブレットとほとんどのスマホに対応。フル伸長時の揺れが支配的長期不満 — 150cmでiPad Pro 12.9を載せるとグースネックの撓みが目に見え、カラムへの小さな衝撃でも5-10秒の振動が読書を妨げる、重量ベース フットプリントは35-40cmの床面積を取り小さな日本の寝室では扱いにくい、スプリング クランプは繰り返し装着脱着でメタル エッジのタブレットのベゼルにマーキングが残る。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-uperfect-tablet-floor-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%2B%E3%83%95%E3%83%AD%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2B%E3%82%A2%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "twelve-south-hoverbar-duo",
+    category: "tech",
+    badge: "✨",
+    name: { en: "Twelve South HoverBar Duo", ja: "Twelve South HoverBar Duo" },
+    description: {
+      en: "11,800-13,800 yen premium clamp/desk arm. Spring-tensioned articulating arm with magnetic puck (separate accessory or built-in depending on year), screw-clamp mounts to desk edges 0-50 mm thick, swing-out reach 35 cm with smooth multi-axis articulation, weighted desk-base option included for non-clampable surfaces. Clamp footprint limits where you can mount — many Japanese desks have an apron that blocks the clamp throat or a thicker top than the 50 mm range, and the desk-base alternative reclaims floor and desk space the arm was supposed to free; iPad-focused magnetic plate sizing means Android tablets and older non-magnetic iPad Mini require a third-party adapter ring; 11,800-13,800 yen plus the magnetic adapter where needed pushes total cost over 15,000 yen.",
+      ja: "11,800-13,800円のプレミアム クランプ/机上アーム枠。スプリング張力の関節アーム+マグネット式パック(年式により別アクセサリーまたは内蔵)、0-50mm厚の机縁にネジ クランプ取付、滑らかなマルチアクシス関節で35cmスイング可能、クランプ不可面用の重量机上ベース オプション同梱。クランプ フットプリントが取付場所を制限 — 多くの日本の机はクランプの喉を塞ぐエプロンや50mmレンジを超える厚みを持ち、机上ベース代替肢はアームが解放するはずだった床と机の面積を取り戻す、iPad中心のマグネット プレート サイジングはAndroidタブレットと旧マグネット非対応iPad Miniにサードパーティ アダプタ リングを要求、11,800-13,800円+必要時のマグネット アダプタで合計15,000円超。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-twelve-south-hoverbar-duo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTwelve%2BSouth%2BHoverBar%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Tech / Standing Desks (best-standing-desk-2026) ─────────
+  {
+    id: "flexispot-e7-pro",
+    category: "tech",
+    badge: "🏋️",
+    name: { en: "Flexispot E7 Pro Standing Desk", ja: "Flexispot E7 Pro 昇降デスク" },
+    description: {
+      en: "Flagship dual-motor electric sit-stand desk with 125kg weight capacity, anti-collision obstacle detection, 4-position memory presets, and C-frame design for knee clearance. Dual motors keep lift quiet and consistent under heavy monitor loads. Weakness: C-frame wobbles more than four-leg frames at full standing height with heavy monitors; ~50kg weight requires two people for assembly (60-90 min).",
+      ja: "デュアルモーター電動昇降デスクのフラッグシップ。125kg耐荷重、衝突防止センサー標準、4ポジションメモリープリセット、膝元空間を確保するC型フレーム。弱点：重いモニター使用時の最大立位高でのC型横揺れ；約50kgの重量により2人での組み立て（60〜90分）が必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-flexispot-e7-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFlexispot%2BE7%2BPro%2B%E6%98%87%E9%99%8D%E3%83%87%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ikea-bekant-sit-stand",
+    category: "tech",
+    badge: "🪑",
+    name: { en: "IKEA Bekant Sit/Stand Desk", ja: "IKEA ベカント 昇降デスク" },
+    description: {
+      en: "Entry-level electric sit-stand desk with 70x120cm top, simple two-button hold-to-move control, and a 5-year motor and frame warranty. Available at IKEA Japan stores with walk-in parts access. Weakness: no memory presets (hold button every time); slower and noisier motor than premium alternatives; max height 125cm; more wobble at standing height than premium desks.",
+      ja: "70×120cmの天板・シンプルな2ボタンホールド式操作・5年間のモーターとフレーム保証付き入門クラス電動昇降デスク。日本のIKEAストアで予備部品に店頭アクセス可能。弱点：メモリープリセットなし（毎回ボタンホールド）；プレミアム製品より遅く騒音が大きいモーター；最大高125cm；立位時の揺れがプレミアムより顕著。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-ikea-bekant-sit-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIKEA%2B%E3%83%99%E3%82%AB%E3%83%B3%E3%83%88%2B%E6%98%87%E9%99%8D%E3%83%87%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "autonomous-smartdesk-pro",
+    category: "tech",
+    badge: "🤖",
+    name: { en: "Autonomous SmartDesk Pro", ja: "Autonomous SmartDesk Pro スタンディングデスク" },
+    description: {
+      en: "Mid-range programmable sit-stand frame with four memory presets, quieter motor than entry-level alternatives, wide desktop size and material options, and an app with posture reminders and height-change logging. Desktop top sold separately. Weakness: US brand with 2-4 week Japan import lead times; customer support for Japan-based warranty claims has mixed reviews; frame-only price excludes desktop (add ¥15,000-25,000).",
+      ja: "4つのメモリープリセット・入門より静かなモーター・幅広い天板サイズ・素材オプション・姿勢リマインダーと高さ変更ログを持つアプリを備えたミドルレンジプログラマブル昇降フレーム。天板は別売。弱点：米国ブランドで日本への配送リードタイム2〜4週間；日本在住買い手の保証対応サポートが賛否両論；フレーム価格は天板を含まず（1万5千〜2万5千円追加）。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-autonomous-smartdesk-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAutonomous%2BSmartDesk%2BPro%2B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%87%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "okamura-swift-desk",
+    category: "tech",
+    badge: "🇯🇵",
+    name: { en: "Okamura Swift Standing Desk", ja: "オカムラ スウィフト 昇降デスク" },
+    description: {
+      en: "Japanese corporate-grade electric sit-stand desk from Okamura, Japan's dominant office furniture manufacturer. Slim profile, Japanese manufacturing standards, national service and support network, proven reliability in Japanese corporate environments. Weakness: ¥80,000+ entry price is the highest in this comparison; sold primarily through corporate procurement channels, not general retail; conservative feature set vs aggressively-spec'd Chinese alternatives.",
+      ja: "日本の主要オフィス家具メーカー、オカムラの企業向け電動昇降デスク。スリムプロフィール・日本製基準・全国サービスネットワーク・日本の企業環境での実証された信頼性。弱点：8万円超の入門価格はこの比較で最高；主に法人調達チャネルで販売され一般小売ではない；積極的なスペックの中国製品と比較してフィーチャー面では保守的。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-okamura-swift-desk", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%82%AB%E3%83%A0%E3%83%A9%2B%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%95%E3%83%88%2B%E6%98%87%E9%99%8D%E3%83%87%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bamboo-standing-desk",
+    category: "tech",
+    badge: "🌿",
+    name: { en: "Bamboo Top Standing Desk", ja: "竹 スタンディングデスク 昇降" },
+    description: {
+      en: "Bamboo desktop top paired with an electric sit-stand frame, offering natural material aesthetics, anti-bacterial surface (bamboo-kun natural antimicrobial compound), and home-office warmth that melamine and MDF-core tops cannot replicate. Weakness: bamboo warps in sustained high-humidity environments — Japan's summer months (June-September, 70-90% RH) can cause cupping and edge-lift within 1-2 seasons in apartments without year-round climate control; heavier than MDF-core tops, reducing usable motor payload; ¥10,000-20,000 premium over MDF-core.",
+      ja: "電動昇降フレームに合わせた竹天板。天然素材の美観・抗菌表面（天然抗菌成分バンブーくん）・メラミンやMDFコアが実現できない温かいホームオフィスの雰囲気。弱点：持続高湿度環境での反り — 年中空調なし日本の夏（6〜9月、湿度70〜90%）では1〜2シーズンで湾曲・端部浮きが生じる可能性；MDFコアより重くモーター耐荷重を減少；MDFコアへの1万〜2万円プレミアム。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-bamboo-standing-desk", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%AB%B9%2B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%87%E3%82%B9%E3%82%AF%2B%E6%98%87%E9%99%8D%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Tech / Wireless Chargers (best-wireless-charger-2026) ─────────
+  {
+    id: "apple-magsafe-charger-usb-c",
+    category: "tech",
+    badge: "🍎",
+    name: { en: "Apple MagSafe Charger (USB-C, 2m)", ja: "Apple MagSafe充電器（USB-C、2m）" },
+    description: {
+      en: "Apple's official MagSafe Charger with USB-C connector and 2m cable. 15W on iPhone 12 and later with a 20W+ USB-C PD adapter, magnetic alignment ring for reliable coil coupling, MFi-certified. Weakness: cable only, no adapter included — 15W requires a 20W+ USB-C PD adapter purchased separately (~¥2,780); charges one device only; 7.5W Qi for non-MagSafe devices; ~¥4,980 is expensive per watt versus third-party Qi2 alternatives.",
+      ja: "Apple公式MagSafe充電器、USB-Cコネクター・2mケーブル付き。20W以上のUSB-C PDアダプターでiPhone 12以降に15W供給、確実なコイルカップリングのための磁気アライメントリング、MFi認証済み。弱点：ケーブルのみ同梱でアダプターなし — 15Wには別途約2,780円の20W以上のUSB-C PDアダプターが必要；1台のみ充電；MagSafe非対応端末は7.5W Qi；約4,980円はサードパーティのQi2代替品と比べ1Wあたりのコストが高い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-apple-magsafe-charger-usb-c", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2BMagSafe%2B%E5%85%85%E9%9B%BB%E5%99%A8%2BUSB-C%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anker-maggo-3in1-station",
+    category: "tech",
+    badge: "⚡",
+    name: { en: "Anker MagGo 3-in-1 Charging Station", ja: "Anker MagGo 3in1充電ステーション" },
+    description: {
+      en: "MagSafe-certified 3-in-1 charging station with foldable design. Simultaneous 15W MagSafe iPhone, MFi Apple Watch fast charge, and 5W AirPods Qi pad. Weakness: 30W USB-C PD adapter required for full simultaneous charging not included (~¥2,000–4,000 extra); non-Apple devices charge at basic Qi rates; folded size larger and heavier than single-device travel options; Apple Watch arm is fixed-angle.",
+      ja: "折りたたみ式のMagSafe認証済み3in1充電ステーション。iPhone 15W MagSafe・MFi認証Apple Watchクイック充電・AirPods 5W Qiパッドを同時充電。弱点：3台フル同時充電に必要な30W USB-C PDアダプター不含（追加2,000〜4,000円）；非Appleデバイスは基本Qi速度；折りたたみ後も単体旅行用より大きく重い；Apple Watchアームが固定角。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anker-maggo-3in1-station", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BMagGo%2B3in1%2B%E5%85%85%E9%9B%BB%E5%99%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "belkin-boostcharge-pro-3in1",
+    category: "tech",
+    badge: "💎",
+    name: { en: "Belkin BoostCharge Pro 3-in-1", ja: "Belkin BoostCharge Pro 3in1 MagSafe" },
+    description: {
+      en: "MFi MagSafe 3-in-1 charging station with 15W iPhone MagSafe, MFi Apple Watch fast charge arm (5W, Series 7+), 5W AirPods Qi pad, premium fabric-wrap and aluminium build. Weakness: ~¥15,000 is the most expensive in this comparison; Apple Watch arm protrudes awkwardly, making travel packing difficult; no USB-C pass-through port; price premium over Anker MagGo is primarily build quality — charging specs are essentially identical.",
+      ja: "MFi MagSafe 3in1充電ステーション。iPhone 15W MagSafe・MFi認証Apple Watchクイック充電（5W、Series 7以降）・AirPods 5W Qiパッド、プレミアムビルド。弱点：約1万5千円で本比較最高額；Apple Watchアームが旅行収納に不便な固定角で突き出す；USB-Cパススルーポートなし；Anker MagGoとの価格差は主にビルドクオリティのみ — 充電速度はほぼ同等。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-belkin-boostcharge-pro-3in1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBelkin%2BBoostCharge%2BPro%2B3in1%2BMagSafe%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anker-313-wireless-charger",
+    category: "tech",
+    badge: "📱",
+    name: { en: "Anker 313 Wireless Charger (Qi, 10W)", ja: "Anker 313 ワイヤレス充電器（Qi、10W）" },
+    description: {
+      en: "Budget Qi wireless charging pad. 10W for compatible Android, 7.5W for iPhone, 5W universal Qi, flat pad with USB-A cable included, minimalist black rubber surface, LED charging indicator. Weakness: Qi only, no magnetic alignment — phone must be positioned carefully within coil sweet spot; 7.5W iPhone is slowest in this comparison; flat design makes glancing at charging phone less comfortable; no Apple Watch charging.",
+      ja: "格安Qiワイヤレス充電パッド。Android対応10W・iPhone 7.5W・汎用Qi 5W、USB-Aケーブル付属フラットパッド、ミニマルデザイン、LED充電インジケーター。弱点：Qiのみで磁気アライメントなし — コイルスイートスポット内に正確な位置決めが必要；iPhone 7.5Wは本比較最遅；フラットデザインで充電中の端末確認が不便；Apple Watch充電非対応。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-anker-313-wireless-charger", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E5%85%85%E9%9B%BB%E5%99%A8%2BQi%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "esr-halolock-2in1-travel",
+    category: "tech",
+    badge: "✈️",
+    name: { en: "ESR HaloLock 2-in-1 Travel Wireless Charger", ja: "ESR HaloLock 2in1 旅行用ワイヤレス充電器" },
+    description: {
+      en: "Foldable MagSafe-compatible 2-in-1 travel wireless charger. MagSafe magnet ring for iPhone alignment, secondary 5W Qi AirPods pad, folds to credit-card footprint at ~12mm, USB-C input, ~¥4,000. Weakness: 7.5W iPhone only (not full 15W MagSafe — uses compatible magnets without Qi2 certification); AirPods pad is 5W Qi only; no Apple Watch spot; build quality less premium than Belkin or Anker MagGo.",
+      ja: "折りたたみ式MagSafe互換2in1旅行用ワイヤレス充電器。iPhoneアライメント用MagSafe磁石リング・5W AirPods Qiサブパッド・クレジットカードサイズに折りたたみ（厚さ約12mm）・USB-C入力・約4,000円。弱点：iPhone最大7.5W（Qi2認証なしのMagSafe互換磁石のため15W MagSafeではない）；AirPodsパッドは5W Qiのみ；Apple Watchスポットなし；ビルドクオリティがBelkinやAnker MagGoより劣る。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-esr-halolock-2in1-travel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FESR%2BHaloLock%2B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E5%85%85%E9%9B%BB%E5%99%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Tech / Desk Lamps (best-desk-lamp-2026) ─────────
+  {
+    id: "benq-screenbar-halo",
+    category: "tech",
+    badge: "💡",
+    name: { en: "BenQ ScreenBar Halo", ja: "BenQ ScreenBar Halo モニターライト" },
+    description: {
+      en: "Monitor-mounted LED bar with asymmetric optics (desk illumination without screen glare), back-glow bias lighting for eye strain reduction, ambient light sensor, wireless controller, CRI 95+ claimed, 2,700–6,500K. Explicit weakness: ¥30,000+ price is a 6x multiple over Baseus for the core function; monitor-mount only, no desk stand; back-glow can be distracting in bright rooms; requires powered USB port from monitor.",
+      ja: "非対称光学系でデスク面を照らしスクリーングレアを排除するモニター装着型LEDバー。バックグローバイアスライティング・照度センサー・ワイヤレスコントローラー・CRI 95以上（主張）・2,700〜6,500K。明確な弱点：3万円超はBaseusの6倍のプレミアム；モニター専用装着でデスクスタンドなし；明るい室内ではバックグローが眩しい場合がある；モニターの給電USBポートが必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-benq-screenbar-halo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBenQ%2BScreenBar%2BHalo%2B%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "elgato-key-light",
+    category: "tech",
+    badge: "🎬",
+    name: { en: "Elgato Key Light", ja: "Elgato Key Light クリエイター向けLEDパネル" },
+    description: {
+      en: "2,500 lux LED panel for content creators, streamers, and video call professionals. 2,900–7,000K, app and Stream Deck control, soft-panel diffused output for face illumination, desk clamp mount. Explicit weakness: ¥30,000+ for face illumination only, not desk-surface lighting; requires Elgato app for meaningful control; large clamp needs desk edge 6cm+ thick.",
+      ja: "コンテンツクリエイター・配信者・ビデオ会議プロ向けの2,500ルクスLEDパネル。2,900〜7,000K・アプリとStream Deck操作・顔照明向けソフトパネル出力・クランプ装着。明確な弱点：顔照明専用で3万円超はカメラ前に立つ機会が少ない人には正当化が難しい；実質的な操作にElgatoアプリが必要；クランプはデスク端6cm以上が必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-elgato-key-light", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FElgato%2BKey%2BLight%2B%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dyson-solarcycle-morph",
+    category: "tech",
+    badge: "🌞",
+    name: { en: "Dyson Solarcycle Morph", ja: "Dyson Solarcycle Morph デスクランプ" },
+    description: {
+      en: "Articulated desk lamp with task, ambient, and indirect light modes. Personalized light schedule, 150,000-hour LED life claim, CRI 98 claimed, 2,700–6,500K, Dyson Link app control. Explicit weakness: ¥90,000+ is ~3x the next most expensive product; heat pipe cooling requires designed angle ranges; heavy base makes repositioning effortful.",
+      ja: "タスク・アンビエント・間接照明の3モード切り替え可動デスクランプ。パーソナライズ光スケジュール・15万時間LED寿命主張・CRI 98主張・2,700〜6,500K・Dyson Linkアプリ操作。明確な弱点：9万円超は次点製品の約3倍；ヒートパイプ冷却は設計角度内での使用前提；重いベースは位置変更が面倒。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-dyson-solarcycle-morph", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%82%A4%E3%82%BD%E3%83%B3%2BSolarcycle%2BMorph%2B%E3%83%87%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-led-desk-lamp-wireless",
+    category: "tech",
+    badge: "🇯🇵",
+    name: { en: "Panasonic LED Desk Lamp (Wireless Charging)", ja: "Panasonic LEDデスクスタンド ワイヤレス充電" },
+    description: {
+      en: "Japanese domestic brand, five color temperature presets, stepless dimming, USB-C output, 5W Qi wireless charging pad in base, compact footprint for Japanese desk environments. Explicit weakness: 5W Qi is slow by 2026 standards (3–4x slower than MagSafe); no app or smart home integration; CRI approx 85–90, below 90+ for color-accurate creative work.",
+      ja: "国内ブランド・5段階色温度プリセット・無段階調光・USB-C出力・ベース一体型5W Qiワイヤレス充電パッド・日本の机環境向けコンパクト設計。明確な弱点：5W Qiは2026年基準で遅い（MagSafeの3〜4倍の充電時間）；アプリやスマートホーム連携なし；CRI約85〜90でクリエイティブ作業の推奨90以上に届かない。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-panasonic-led-desk-lamp-wireless", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2BLED%E3%83%87%E3%82%B9%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E5%85%85%E9%9B%BB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "baseus-monitor-light-bar",
+    category: "tech",
+    badge: "💰",
+    name: { en: "Baseus i-wok Monitor Light Bar", ja: "Baseus i-wok モニターライト" },
+    description: {
+      en: "Budget BenQ ScreenBar alternative under ¥5,000. USB-C powered, touch control strip, asymmetric optic for desk illumination without screen glare, clip mount for monitor bezels. Explicit weakness: lighter build than BenQ, no bias back-glow, no ambient sensor, CRI not prominently specified (likely below 80 at cool temperatures).",
+      ja: "5,000円以下のBenQ ScreenBar代替。USB-C給電・バー上タッチコントロール・グレアなし非対称光学設計・モニターベゼルクリップ装着。明確な弱点：BenQよりビルドが軽くクリップの固定力が低い；バイアスライティング（バックグロー）なし；照度センサーなし；CRIは目立つ形で非公表でクールな色温度でCRI 80以下の可能性が高い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-baseus-monitor-light-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBaseus%2B%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%2B%E3%83%87%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Tech / Mechanical Keyboards (best-mechanical-keyboard-2026) ─────────
+  {
+    id: "keychron-q1-pro",
+    category: "tech",
+    badge: "⌨️",
+    name: { en: "Keychron Q1 Pro", ja: "Keychron Q1 Pro メカニカルキーボード" },
+    description: {
+      en: "Gasket-mounted 75% layout, Bluetooth 5.1 and 2.4GHz wireless, QMK/VIA programmable firmware, full aluminum body (~2kg), south-facing RGB, hot-swap MX-compatible sockets, ~¥30,000. Explicit weakness: 2kg weight unsuitable for travel; volume knob absent on base model (knob upgrade variant only); QMK firmware has a genuine learning curve; ¥30,000 expensive for a 75% without included switches in barebones configurations.",
+      ja: "ガスケットマウント75%レイアウト、Bluetooth 5.1 + 2.4GHzワイヤレス、QMK/VIA対応ファームウェア、フルアルミボディ（約2kg）、サウスフェーシングRGB、ホットスワップMX互換ソケット、約3万円。明確な弱点：約2kgで旅行・持ち運び不適、ボリュームノブはベースモデル非搭載（ノブ変種のみ）、QMKは本物の学習曲線あり、ベアボーン構成ではスイッチ別途購入が必要で3万円は高価。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-keychron-q1-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKeychron%2BQ1%2BPro%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hhkb-professional-hybrid-type-s",
+    category: "tech",
+    badge: "🏛️",
+    name: { en: "HHKB Professional Hybrid Type-S", ja: "HHKB Professional Hybrid Type-S" },
+    description: {
+      en: "Electrostatic capacitive Topre switches with silenced domes, ultra-quiet 60% layout, Bluetooth + USB-C, ¥35,000+. Explicit weakness: no RGB, no hot-swap, no QMK, Bluetooth-only wireless (no 2.4GHz dongle), Topre non-MX keycap stems limit aftermarket options, 60% layout requires adjustment period.",
+      ja: "静電容量無接点Topreサイレントドーム、超静音60%レイアウト、Bluetooth + USB-C、3.5万円以上。明確な弱点：RGBなし・ホットスワップなし・QMKなし・Bluetoothのみ（2.4GHzドングルなし）・Topre専用軸でキーキャップ選択肢限定・60%レイアウトは慣れが必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-hhkb-professional-hybrid-type-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHHKB%2BProfessional%2BHybrid%2BType-S%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "logicool-mx-keys-s",
+    category: "tech",
+    badge: "💼",
+    name: { en: "Logicool MX Keys S", ja: "Logicool MX Keys S ワイヤレスキーボード" },
+    description: {
+      en: "Scissor-switch (not mechanical), low-profile, Bluetooth and Logi Bolt 2.4GHz wireless, per-key backlight, Flow multi-device switching (up to 3 devices), ~¥17,000–¥20,000. Explicit weakness: NOT a mechanical keyboard — scissor mechanism categorically different from MX or Topre; limited programmability beyond Logi Options+ macros; 1.8mm key travel divides preference.",
+      ja: "シザー方式（メカニカルではない）、薄型、Bluetooth + Logi Bolt 2.4GHz、キー個別バックライト、Flowマルチデバイス切り替え（最大3台）、約1.7〜2万円。明確な弱点：メカニカルキーボードではない — シザー機構はMXやTopreとは根本的に異なる、Logi Options+以上のカスタマイズ不可、1.8mmストロークは好み次第。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-logicool-mx-keys-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLogicool%2BMX%2BKeys%2BS%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nuphy-air75-v2",
+    category: "tech",
+    badge: "🪶",
+    name: { en: "Nuphy Air75 V2", ja: "Nuphy Air75 V2 低プロファイルキーボード" },
+    description: {
+      en: "Ultra-slim gasket-mounted 75%, low-profile mechanical switches, Bluetooth 5.1 and 2.4GHz wireless, aluminum chassis, hot-swap MX low-profile compatible sockets, ~¥20,000. Explicit weakness: ~2.5–3mm low-profile travel divides opinion vs standard 4mm MX; smaller enthusiast community than Keychron; shorter battery life with RGB on; slower firmware update cadence.",
+      ja: "超薄型ガスケットマウント75%、低プロファイルメカニカル、Bluetooth 5.1 + 2.4GHzワイヤレス、アルミシャシー、ホットスワップ低プロファイル互換ソケット、約2万円。明確な弱点：2.5〜3mmの低プロファイルストロークは標準4mmMXと好み分かれ、Keychronよりコミュニティ小さい、RGBオン時バッテリー短め、ファームウェア更新ペース遅め。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-nuphy-air75-v2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNuphy%2BAir75%2BV2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "realforce-r3",
+    category: "tech",
+    badge: "🇯🇵",
+    name: { en: "Realforce R3", ja: "Realforce R3 静電容量キーボード" },
+    description: {
+      en: "Electrostatic capacitive Topre, full-size (104-key) and TKL (87-key), actuation point changer (1.5–3mm), made in Japan by Topre Corp, PBT keycaps, JIS and US ANSI layouts, ¥40,000+. Explicit weakness: no wireless on most variants, no RGB comparable to competition, heavy full-size footprint, Topre keycap ecosystem limits aftermarket, APC software requires setup.",
+      ja: "静電容量無接点Topre、フルサイズ（104キー）とTKL（87キー）展開、アクチュエーションポイント変更機能（1.5〜3mm）、東プレ社の日本製、PBTキーキャップ、JIS/USレイアウト、4万円以上。明確な弱点：ほとんどの変種でワイヤレスなし、競合比較でRGB見劣り、フルサイズは重くデスク面積大、Topreキーキャップエコシステム制限あり、APCソフトウェア設定必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-realforce-r3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRealforce%2BR3%2F", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Home / Mattresses (best-mattress-2026) ─────────
@@ -1096,6 +1888,270 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "moshimo", productId: "rakuten-tiger-acc-a060", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTiger%2BACC-A060%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Home / Tea Kettles (best-tea-kettle-2026) ─────────
+  {
+    id: "balmuda-the-pot",
+    category: "home",
+    badge: "🫖",
+    name: { en: "Balmuda The Pot", ja: "バルミューダ ザ・ポット" },
+    description: {
+      en: "~¥15,000 design-first 600 ml gooseneck kettle. Matte stainless exterior, ultra-narrow spout, IH and gas compatible. No temperature control, no keep-warm. 600 ml is constraining for households of 2+.",
+      ja: "約¥15,000のデザイン重視600mlグースネックケトル。マットステンレス外装・超細スパウト・IH/ガス対応。温度調節なし・保温なし。2人以上の家庭には600mlが制約的。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-balmuda-the-pot", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%AB%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%80%2B%E3%82%B6%E3%83%9D%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hario-v60-buono-kettle",
+    category: "home",
+    badge: "☕",
+    name: { en: "Hario V60 Drip Kettle Buono", ja: "ハリオ V60 ドリップケトル" },
+    description: {
+      en: "Classic stove-top gooseneck pour-over kettle. 1.2 L stainless steel, IH and gas compatible, reference kettle for pour-over coffee and Japanese tea ceremony. No electric keep-warm; handle heats on gas burners.",
+      ja: "クラシックなコンロ用グースネックポアオーバーケトル。1.2Lステンレス・IH/ガス対応、日本のポアオーバーコミュニティの参照ケトル。電気保温なし、ガスコンロでハンドルが熱くなる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-hario-v60-buono-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%AA%E3%82%AA%2BV60%2B%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%82%B1%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "delonghi-icona-vintage-kettle",
+    category: "home",
+    badge: "🏺",
+    name: { en: "De'Longhi Icona Vintage Electric Kettle", ja: "デロンギ アイコナ ヴィンテージ 電気ケトル" },
+    description: {
+      en: "Retro-styled 1.7 L rapid-boil electric kettle. 360-degree cordless base, drip-free spout, automatic shutoff. Heavy when full (~2.5 kg); plastic interior builds lime-scale faster in hard-water areas; wide spout unsuitable for pour-over.",
+      ja: "レトロスタイルの1.7L急速沸騰電気ケトル。360度コードレスベース・液だれなしスパウト・自動シャットオフ。満タン時に重い（約2.5kg）、プラスチック内部は硬水で石灰スケールが速い、広口はポアオーバーに不向き。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-delonghi-icona-vintage-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%2B%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zojirushi-keep-warm-pot",
+    category: "home",
+    badge: "🇯🇵",
+    name: { en: "Zojirushi CV-GB22 Keep Warm Electric Pot", ja: "象印 CV-GB22 電気ポット 保温" },
+    description: {
+      en: "2.2 L all-day keep-warm dispenser pot. Four temperature settings (60/70/80/98°C), pump dispense, auto re-boil, child-safety lid lock, PSE certified. Stationary and bulkier than any kettle-style pick; descaling required every 1–2 months in hard-water areas.",
+      ja: "2.2L終日保温ディスペンサーポット。4段階温度設定（60/70/80/98°C）・ポンプディスペンス・自動再沸騰・子ども安全ふたロック・PSE認証。据え置き型でどのケトルより嵩張る、硬水地域では1〜2ヶ月ごとの除石灰が必要。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-zojirushi-keep-warm-pot", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%B1%A1%E5%8D%B0%2B%E9%9B%BB%E6%B0%97%E3%83%9D%E3%83%83%E3%83%88%2B%E4%BF%9D%E6%B8%A9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fellow-stagg-ekg",
+    category: "home",
+    badge: "🎯",
+    name: { en: "Fellow Stagg EKG Electric Kettle", ja: "Fellow Stagg EKG ケトル" },
+    description: {
+      en: "Precision pour-over electric gooseneck benchmark. 0.9 L, counterbalanced handle, continuous temperature dial (~60–100°C), 60-min keep-warm, matte black. US$165+ import price; 0.9 L tight for back-to-back brews; Japan availability varies with multi-week stockouts.",
+      ja: "精密ポアオーバー電気グースネックベンチマーク。0.9L・カウンターバランスハンドル・連続温度ダイヤル（約60〜100°C）・60分保温・マットブラック。US$165+の輸入価格、連続注ぎには0.9Lが手狭、日本での入手可能性は変動し複数週間の在庫切れあり。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-fellow-stagg-ekg", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFellow%2BStagg%2BEKG%2B%E3%82%B1%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Home / Blenders (best-blender-2026) ─────────
+  {
+    id: "vitamix-a3500i",
+    category: "home",
+    badge: "🥤",
+    name: { en: "Vitamix A3500i", ja: "Vitamix A3500i" },
+    description: {
+      en: "143,000 yen prosumer countertop pick. 1500 W peak / 1100-1200 W continuous brushless motor with 7-year warranty including motor coverage, 2.0 L Tritan container, laser-cut hammermill 4-blade assembly, smart pairing program presets via Bluetooth, the only blender in this comparison that does all five common tasks (smoothies, hot soup via friction heating, nut butter, ice crushing, dry grain) competently. 143,000 yen is firmly into the prosumer investment tier and overkill for households that do not blend daily; 2.0 L container is too large for one-person smoothies (cavitation when underfilled below 500 mL); 22×21×44 cm footprint with 11.8 kg weight dominates a Japanese apartment counter; operating noise reaches 88-92 dB at full speed during ice crushing.",
+      ja: "143,000円のプロシューマー カウンタートップ枠。モーター カバー含む7年保証付き1500Wピーク/1100-1200W連続ブラシレス モーター、2.0L Tritan容器、レーザーカット ハマーミル4枚ブレード アセンブリ、Bluetooth経由スマート ペアリング プログラム プリセット、本比較で全5一般タスク(スムージー・摩擦加熱による温かいスープ・ナッツバター・かき氷・乾物)を器用にこなす唯一のブレンダー。143,000円はプロシューマー投資ティアに明確に入り毎日ブレンドしない家庭にはオーバーキル、2.0L容器は1人用スムージーには大きすぎ500mL未満で過充填するとキャビテーション、22×21×44cmフットプリントと11.8kg重量が日本のアパート カウンターを支配、動作音はかき氷フルスピードで88-92dBに達する。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-vitamix-a3500i", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVitamix%2BA3500i%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "vitantonio-vbl-100",
+    category: "home",
+    badge: "🍓",
+    name: { en: "Vitantonio My Bottle Blender VBL-100", ja: "ビタントニオ マイボトルブレンダー VBL-100" },
+    description: {
+      en: "7,500 yen personal-bottle blend-and-drink pick. 350 mL Tritan bottle with screw-on blade base, 200 W brushed motor with push-to-blend interlock, four pastel colorways tuned for the Pinterest morning-smoothie aesthetic, dishwasher-safe Tritan parts, direct distribution at Plaza, Loft, PayPay Mall, and Rakuten with Vitantonio Japan after-sales support. 350 mL capacity is the smallest in this comparison and one bottle equals one person's smoothie (not scalable to two-person households); 200 W motor cannot crush ice and the manual explicitly warns against it, cannot fully liquefy fibrous greens or hard-frozen fruit; 1-year warranty and brushed motor design imply 2-3 year practical lifespan with daily use; threading pattern at the bottle mouth collects pulp and yogurt requiring brush cleaning.",
+      ja: "7,500円のパーソナル ボトル ブレンド&ドリンク枠。ねじ込みブレード ベース付き350mL Tritanボトル、押下げブレンド インターロックの200Wブラシ式モーター、Pinterest朝スムージー美学に調整された4色パステル、食洗機対応Tritanパーツ、Plaza・Loft・PayPay Mall・楽天での直接配給とビタントニオ ジャパン アフター サポート。350mL容量は本比較で最小、1ボトル=1人分スムージー(2人世帯にスケールしない)、200Wモーターは氷を割れずマニュアルが明示的に警告、繊維質の葉物や硬い冷凍フルーツを完全液化できない、1年保証とブラシ式モーター設計は毎日使用2-3年の実用寿命を含意、ボトル口のねじ込みパターンが果肉とヨーグルトを集めブラシ清掃を要する。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-vitantonio-vbl-100", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVitantonio%2BVBL-100%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tescom-tm856",
+    category: "home",
+    badge: "🇯🇵",
+    name: { en: "TESCOM Pure Natura TM856", ja: "テスコム ピュアナチュラ TM856" },
+    description: {
+      en: "9,900 yen mid-tier glass-jar pick. 1.0 L heat-resistant glass jar accepts hot stovetop soup directly (rated 60-80°C input, briefly 90°C), 6-blade stainless-steel ice-crush assembly, 600 W brushed motor sufficient for routine smoothies and soups, four program presets, variable-speed knob with pulse, TESCOM Japan domestic service network, 1-year manufacturer warranty. Glass jar weighs 1.5 kg empty and 2.5-3.0 kg full (one-handed lifting awkward for users with weak grip strength); 600 W brushed motor cannot sustain nut butter blends and manual specifies 90-second maximum continuous run with mandatory 1-minute rest cycles; glass jar shatters on tile-floor drops with 2-3 meter cleanup radius; 200-500 hour brush life implies 4-6 year practical lifespan with moderate household use.",
+      ja: "9,900円のミッドティア ガラスジャー枠。コンロからの熱スープを直接受け入れる1.0L耐熱ガラスジャー(60-80°C入力定格、瞬間的に90°C)、6枚ステンレス スチール かき氷ブレード アセンブリ、ルーティン スムージーとスープに十分な600Wブラシ式モーター、4プログラム プリセット、パルス付き可変速ノブ、テスコム ジャパン国内サービス網、1年メーカー保証。ガラスジャーは空1.5kg、満杯2.5-3.0kg(握力が弱いユーザーには片手リフトが扱いにくい)、600Wブラシ式モーターはナッツバター ブレンドを維持できずマニュアルが1分の必須休止サイクル付き90秒最大連続稼働を指定、ガラスジャーはタイル床落下で2-3メートル清掃半径で割れる、200-500時間ブラシ寿命は中程度の家庭使用4-6年の実用寿命を含意。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-tescom-tm856", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTESCOM%2BTM856%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oxo-on-compact-blender",
+    category: "home",
+    badge: "🇺🇸",
+    name: { en: "OXO On Compact Blender", ja: "OXO On Compact Blender" },
+    description: {
+      en: "39,800 yen design-compact pick. 1.0 L Tritan container with OXO signature non-slip silicone base, 600 W brushless DC motor (only sub-Vitamix blender in this comparison with brushless durability), three program presets, OXO Good Grips usability detailing dominant on Pinterest US-kitchen-aesthetic since 2018, dishwasher-safe top-rack Tritan, 2-year limited warranty backed by OXO Japan distribution at Tokyu Hands and Loft. 39,800 yen is roughly 4x TESCOM TM856 on broadly equivalent functional spec — paying for OXO brand, brushless motor, and design polish rather than performance step-change; 1.0 L container is borderline-too-small for family meal-prep batches and borderline-too-large for one-person smoothies; US-import distribution in Japan means stock fluctuations on specific colorways with 4-8 week stockout and 2-3 week replacement-part lead times; 600 W motor cannot match Vitamix 1500 W for sustained ice crushing or nut butter.",
+      ja: "39,800円のデザイン コンパクト枠。OXOシグネチャーの滑り止めシリコーン ベース付き1.0L Tritan容器、600Wブラシレス DCモーター(本比較でVitamix未満の唯一のブラシレス耐久性ブレンダー)、3プログラム プリセット、2018年以来Pinterest米キッチン美学を支配するOXO Good Grips使い勝手細部、食洗機対応上段Tritan、Tokyu HandsとLoftでのOXO ジャパン配給バックの2年限定保証。39,800円は広く等価な機能スペックでテスコム TM856の約4倍 — 性能のステップ チェンジではなくOXOブランド・ブラシレス モーター・デザイン磨きに支払う、1.0L容器は家族の食事準備バッチには境界線で小さすぎ1人用スムージーには境界線で大きすぎ、日本での米輸入配給は特定カラーで4-8週間在庫切れと2-3週間交換部品リード タイムを意味する、600Wモーターは持続的かき氷やナッツバターでVitamixの1500Wに匹敵できない。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-oxo-on-compact-blender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%2BOn%2BCompact%2BBlender%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "iris-ohyama-ifm-s30g",
+    category: "home",
+    badge: "💴",
+    name: { en: "Iris Ohyama Mill Blender IFM-S30G", ja: "アイリスオーヤマ ミルサー IFM-S30G" },
+    description: {
+      en: "4,378 yen budget mill-blender pick. 250 mL mill cup with standard 4-blade pattern, 200 W brushed motor with push-to-blend single-button operation, dry-grain capability for sesame/dry herbs/dried fish/small-batch coffee, baby food portion size, dishwasher-safe cup parts, Iris Ohyama nationwide retail and after-sales network at every home center, Aeon, and Don Quijote. 200 W brushed motor is the lowest-power in this comparison — cannot crush ice, cannot blend hard-frozen fruit, cannot produce nut butter, cannot heat soup, cannot make blends larger than 250 mL cup capacity; 200-500 hour brush life and budget construction imply 2-4 year practical lifespan; 250 mL cup is too small for any task larger than a one-person snack portion and overflows trip the safety interlock; build quality reflects the 4,378 yen price with white-only colorway and visibly budget plastic body.",
+      ja: "4,378円の予算ミルブレンダー枠。標準4枚ブレード パターン付き250mLミルカップ、押下げブレンド シングル ボタン操作の200Wブラシ式モーター、ゴマ/乾燥ハーブ/乾物魚/小バッチ コーヒー用乾物対応、離乳食ポーション サイズ、食洗機対応カップ パーツ、日本の全ホーム センター・イオン・ドン・キホーテで入手可能なアイリスオーヤマ全国小売とアフターサービス網。200Wブラシ式モーターは本比較で最低出力 — 氷を割れず、硬い冷凍フルーツをブレンドできず、ナッツバターを生み出せず、スープを加熱できず、250mLカップ容量より大きいブレンドを作れない、200-500時間ブラシ寿命と予算構造は2-4年の実用寿命を含意、250mLカップは1人スナック ポーションより大きい任意のタスクには小さすぎ過充填で安全インターロックを跳ね上げる、構造品質は4,378円の価格を反映し白のみのカラーと目視で予算的なプラスチック本体。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-iris-ohyama-ifm-s30g", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%A4%E3%83%9E%2BIFM-S30G%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Home / Baby Monitors (best-baby-monitor-2026) ─────────
+  {
+    id: "cubo-ai-plus",
+    category: "home",
+    badge: "👶",
+    name: { en: "Cubo Ai Plus", ja: "Cubo Ai Plus" },
+    description: {
+      en: "39,800 yen AI premium pick plus 1,400-1,800 yen/month Cubo Ai Plus Care subscription after 6-12 month free trial. 1080p video at 130-degree field of view, AI face-covered detection, AI rollover detection, AI danger-zone detection, AI cry classification, 18-piece lullaby library, two-way audio, manual privacy shutter, smartphone app as primary parent unit. Subscription is mandatory for the AI features that justify the price gap — without subscription, Cubo Ai degrades to a 1080p motion-alert camera that competitors sell for 17,000 yen; total 5-year cost is approximately 39,800 + (1,500 × 60) = 129,800 yen, roughly double the box price. WiFi-cloud architecture means complete dependency on Cubo Ai's cloud service (multi-day outage in 2024 locked thousands of parents out of remote viewing). AI false-positive rate produces 1-3 alerts per night for typical 6-12 month olds and parents report alert fatigue; security model requires strong password and 2FA discipline (2022 Australia credential-stuffing incident).",
+      ja: "39,800円のAIプレミアム枠と6-12ヶ月無料試用後の月1,400-1,800円Cubo Ai Plus Careサブスク。1080pビデオ130度視野角、AI顔覆われ検知、AI寝返り検知、AI危険ゾーン検知、AI泣き声分類、18曲子守唄ライブラリ、双方向オーディオ、手動プライバシー シャッター、主要親ユニットとしてのスマホ アプリ。サブスクは価格差を正当化するAI機能のため必須 — サブスクなしではCubo Aiは競合が17,000円で売る1080pモーション アラート カメラに劣化、5年合計コストは約39,800 + (1,500 × 60) = 129,800円で箱価格の2倍。WiFiクラウド アーキテクチャはCubo Aiクラウド サービスへの完全依存を意味(2024年複数日障害が数千の親をリモート視聴からロック アウト)。AI誤検知率は典型6-12ヶ月児で1晩1-3アラートを生み親はアラート疲労を報告、セキュリティ モデルは強いパスワードと2FA規律を要求(2022年オーストラリア資格情報スタッフィング事案)。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-cubo-ai-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCubo%2BAi%2BPlus%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "eufy-spaceview-pro",
+    category: "home",
+    badge: "📡",
+    name: { en: "Anker Eufy SpaceView Pro", ja: "Anker Eufy SpaceView Pro" },
+    description: {
+      en: "17,800 yen WiFi-free mid-tier pick. 5-inch dedicated parent screen on closed 2.4 GHz radio link, 720p video, 110-degree pan-and-tilt camera with 4x digital zoom, infrared night vision rated 4-5 meters, two-way audio with VOX, 8 lullaby presets, expandable to 4 cameras on a single screen, no WiFi, no app, no cloud, no subscription. Zero remote viewing — cannot check on the baby from outside the radio range (50 meters line-of-sight, less through walls); 720p resolution is below the WiFi-camera tier and visible on the 5-inch screen at 2-4 meter distances; no AI face-down or rollover detection; parent screen is a single failure point with no app fallback and replacement screens are 8,000-12,000 yen with frequent stockouts.",
+      ja: "17,800円のWiFiなしミッドティア枠。閉じた2.4 GHz無線リンク上の5型専用親画面、720pビデオ、4倍デジタル ズーム付き110度パンチルト カメラ、4-5メートル定格赤外線暗視、VOX付き双方向オーディオ、8つの子守唄プリセット、1画面に4台のカメラに拡張可能、WiFiなし・アプリなし・クラウドなし・サブスクなし。ゼロ リモート視聴 — 無線範囲外(50メートル見通し、壁を通すとそれ以下)から赤ちゃんを確認できない、720p解像度はWiFiカメラ ティアより低く5型画面の2-4m距離で見える、AIうつぶせまたは寝返り検知なし、親画面はアプリ フォールバックなしの単一故障点で交換画面は8,000-12,000円で頻繁な在庫切れ。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-eufy-spaceview-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEufy%2BSpaceView%2BPro%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nanit-pro-smart-camera",
+    category: "home",
+    badge: "📊",
+    name: { en: "Nanit Pro Smart Camera", ja: "Nanit Pro Smart Camera" },
+    description: {
+      en: "45,000 yen data-analytics premium pick plus 1,500-2,500 yen/month Nanit Insights subscription. 1080p HDR video at 130-degree field of view, AI breathing-motion detection (requires Nanit Breathing Wear sold separately at 4,500-6,500 yen per garment outgrown every 3-4 months), AI sleep-quality scoring, growth-tracking via Smart Sheet, two-way audio, Apple HomeKit and Google Home integration. Breathing-motion detection requires the dedicated Nanit Breathing Wear that is sold separately and outgrown every 3-4 months — hidden recurring cost most reviews skip; growth-tracking via Smart Sheet requires actively photographing the baby on the sheet with wildly variable accuracy depending on photo angle (clinicians do not accept Nanit measurements as substitute for in-clinic measurement); Nanit Insights subscription unlocks sleep-analytics features that justify the price gap; wall-mount installation requires drilling above the crib and Japanese rental apartments often prohibit this.",
+      ja: "45,000円のデータ分析プレミアム枠と月1,500-2,500円Nanit Insightsサブスク。1080p HDRビデオ130度視野角、AI呼吸モーション検知(別売Nanit Breathing Wearを1着4,500-6,500円・3-4ヶ月毎に大きくなって脱ぐ必要)、AI睡眠品質スコアリング、Smart Sheet経由成長記録、双方向オーディオ、Apple HomeKitとGoogle Home統合。呼吸モーション検知は別売で3-4ヶ月毎に脱ぐ専用Nanit Breathing Wearを必要 — ほとんどのレビューがスキップする隠れた繰り返しコスト、Smart Sheet経由成長記録は写真角度と赤ちゃんのポーズで極めて変動する精度で能動的に赤ちゃんを撮影することを必要(臨床医はNanit測定をクリニック内測定の代替として受け入れない)、Nanit Insightsサブスクは価格差を正当化する睡眠分析機能を解放、wall-mountインストールはcrib上の壁穴開けを必要で日本の賃貸アパートはしばしば禁止。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-nanit-pro-smart-camera", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNanit%2BPro%2BSmart%2BCamera%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "owlet-cam-2",
+    category: "home",
+    badge: "🦉",
+    name: { en: "Owlet Cam 2", ja: "Owlet Cam 2" },
+    description: {
+      en: "28,800 yen streaming-video WiFi camera pick plus optional 800-1,500 yen/month Owlet Premium subscription for cloud video history. 1080p HDR video at 130-degree field of view, two-way audio, motion and sound alerts with configurable sensitivity, infrared night vision rated 3-4 meters, smartphone app as primary parent unit, Apple HomeKit integration, integrates with Owlet Dream Sock if purchased separately for pulse-oximetry tracking. WiFi is required for camera-to-app connection — no local-only mode and a router outage means camera is unreachable even on same home WiFi (intermittent app-disconnect with 30-60-second alert delays during WiFi congestion is dominant complaint in long-term reviews); company history includes 2021 FDA warning letter and 2-year re-launch period and parents should read FDA's letter and Owlet's response before purchasing — current Cam 2 is FDA-cleared as wellness consumer electronics not as SIDS-prevention or medical-monitoring device; no AI face-covered or rollover detection.",
+      ja: "28,800円のストリーミング ビデオWiFiカメラ枠とオプションの月800-1,500円Owlet Premiumサブスク クラウド ビデオ履歴。1080p HDRビデオ130度視野角、双方向オーディオ、設定可能感度のモーションと音アラート、3-4メートル定格赤外線暗視、主要親ユニットとしてのスマホ アプリ、Apple HomeKit統合、別購入時のパルス オキシメトリ追跡用Owlet Dream Sockとの統合。WiFiはカメラ-アプリ接続に必須 — ローカルのみモードなし、ルーター障害は同じ家庭WiFi上でもカメラが到達不可を意味(WiFi混雑期間中30-60秒アラート遅延の間欠的アプリ切断は長期レビューの支配的不満)、会社履歴は2021年FDA警告書と2年再ローンチ期間を含み親は購入前にFDAの書簡とOwletの応答を読むべき — 現Cam 2はSIDS予防または医療監視デバイスではなくウェルネス家電としてFDA認可、AI顔覆われや寝返り検知なし。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-owlet-cam-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOwlet%2BCam%2B2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "babysense-v65",
+    category: "home",
+    badge: "📺",
+    name: { en: "Babysense V65 5-inch", ja: "Babysense V65 5型" },
+    description: {
+      en: "18,900 yen budget WiFi-free pick. 5-inch dedicated parent screen, 720p video, 110-degree fixed-position camera (no pan-and-tilt), infrared night vision rated 3-4 meters, two-way audio with VOX, 8 lullaby presets, temperature sensor, expandable to 4 cameras, no WiFi, no app, no cloud, no subscription. No AI features whatsoever — streaming video monitor with motion alerts and audio activation only; 720p resolution and fixed-position camera mean you set the camera angle once at installation and accept the baby may move out of frame as they grow into crawling; parent screen battery rated 8 hours degrades to 4-5 hours after 12-18 months of use with replacement screens at 7,000-9,000 yen and frequent stockouts; brand recognition in Japan is weaker than Anker Eufy or Cubo Ai with mixed after-sales support reviews (1-3 week support-ticket response times).",
+      ja: "18,900円の予算WiFiなし枠。5型専用親画面、720pビデオ、110度固定位置カメラ(パンチルトなし)、3-4メートル定格赤外線暗視、VOX付き双方向オーディオ、8つの子守唄プリセット、温度センサー、4台拡張可能、WiFiなし・アプリなし・クラウドなし・サブスクなし。AI機能ゼロ — モーション アラートと音声起動のみのストリーミング ビデオ モニター、720p解像度と固定位置カメラはインストール時に1度カメラ角度を設定し赤ちゃんが這う段階に成長するとframe外に出るかもしれないことを受け入れることを意味、8時間定格親画面バッテリーは12-18ヶ月使用後に4-5時間に劣化し交換画面は7,000-9,000円で頻繁な在庫切れ、日本でのブランド認知度はAnker EufyやCubo Aiより弱く混在するアフターサービス サポート レビュー(1-3週間サポート チケット応答時間)。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-babysense-v65", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBabysense%2BV65%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Home / Pet Cameras (best-pet-camera-2026) ─────────
+  {
+    id: "furbo-360-dog-camera",
+    category: "home",
+    badge: "🐶",
+    name: { en: "Furbo 360° Dog Camera", ja: "Furbo 360° ドッグカメラ" },
+    description: {
+      en: "Roughly 28,000 yen treat-tossing dog-focused premium pick with 360-degree rotation, 1080p HD video, AI bark and activity alerts, treat dispense triggered from the smartphone app, two-way audio, dog-trained AI models, the category-defining premium pet camera since the original 2017 launch and refreshed across multiple iterations. Furbo Dog Nanny subscription at roughly 700-1,400 yen per month is required for the AI features that justify the box-price premium — without subscription the camera degrades to a 1080p camera with manual treat-toss and the 5-year cost works out to roughly 88,000 yen total when subscription is included; treat slot can jam roughly every 2-4 weeks depending on kibble shape and humidity; dog-only design means cats almost universally ignore the treat dispense and the bark-detection AI is irrelevant for cats; cloud architecture means privacy surface includes Furbo's cloud servers and any future incident affecting the brand.",
+      ja: "約28,000円のおやつトス犬特化プレミアム枠、360度回転・1080p HDビデオ・AI吠え声と活動アラート・スマホ アプリからトリガーされるおやつディスペンサー・双方向オーディオ・犬訓練AIモデル、オリジナル2017年発売以来カテゴリを定義したプレミアム ペットカメラで複数の反復にわたってリフレッシュ。Furbo Dog Nannyサブスクが月約700-1,400円で箱価格プレミアムを正当化するAI機能のため必須 — サブスクなしではカメラは手動おやつトス付きの1080pカメラに劣化、サブスク含む5年合計コストは約88,000円; おやつスロットはキブル形状と湿度によって2-4週間に1回程度詰まる可能性; 犬専用設計は猫がほとんど普遍的におやつディスペンサーを無視し吠え声検知AIが猫には無関係であることを意味; クラウド アーキテクチャはプライバシー表面がFurboのクラウド サーバーとブランドに影響する将来の事案を含むことを意味。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-furbo-360-dog-camera", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFurbo%2B360%2B%E3%83%89%E3%83%83%E3%82%B0%E3%82%AB%E3%83%A1%E3%83%A9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "petcube-cam",
+    category: "home",
+    badge: "🐾",
+    name: { en: "Petcube Cam", ja: "Petcube Cam" },
+    description: {
+      en: "Roughly 12,000 yen affordable pet-specific starter pick with 1080p video, two-way audio, basic motion and sound alerts, simple base model from the Petcube line, more affordable than Furbo because the treat-toss and laser-pointer hardware is reserved for the higher-end Petcube Bites and Petcube Play models. No treat dispense or laser pointer on the base Petcube Cam — those are premium-tier features on the Bites and Play models that cost meaningfully more; motion alerts can be noisy with frequent false positives that some reviewers report reaching alert fatigue within the first month; 110-degree field of view is narrower than Furbo's 360 and not enough for a large room without strategic placement; Petcube Care subscription gates the cloud video history and pet-recognition AI similar to Furbo Nanny.",
+      ja: "約12,000円の手頃なペット特化スターター枠、1080pビデオ・双方向オーディオ・基本モーションと音アラート・Petcubeラインのシンプルなベース モデル、おやつトスとレーザー ポインター ハードウェアが高価のPetcube BitesとPetcube Playモデルに予約されているためFurboより手頃。ベースのPetcube Camにはおやつディスペンサーまたはレーザー ポインターなし — それらはより意味的に高コストのBitesとPlayモデルのプレミアム ティア機能; モーション アラートは騒がしくいくつかのレビュアーは最初の月内にアラート疲労に達したと報告する頻繁な誤検知; 110度視野角はFurboの360より狭く戦略的配置なしでは大きな部屋に十分でない; Petcube CareサブスクはFurbo Nannyに類似してクラウド ビデオ履歴とペット認識AIをゲート。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-petcube-cam", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPetcube%2BCam%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wyze-cam-v3",
+    category: "home",
+    badge: "📹",
+    name: { en: "Wyze Cam v3", ja: "Wyze Cam v3" },
+    description: {
+      en: "Roughly 4,800 yen repurposed-security-cam budget pick with 1080p video, color night vision, two-way audio, weather-resistant for outdoor use, microSD local storage, the cheapest competent indoor camera that consistently appears on budget pet-camera lists. Not pet-specific — no bark detection, no treat dispense, no pet-aimed audio profile, the AI is trained on person-and-package classification with pet detection as a secondary feature; recent privacy and CSAM-moderation controversies in 2022-2023 plus a 2024 account-mixup incident damaged the brand reputation in the pet-camera community and any buyer should read the public reporting before committing; cloud event history requires Wyze Cam Plus at roughly 250 yen per month per camera which most budget-tier buyers skip and accept the 12-second cooldown between cloud events.",
+      ja: "約4,800円の流用セキュリティ カメラ予算枠、1080pビデオ・カラー暗視・双方向オーディオ・屋外使用向け耐候性・microSDローカル ストレージ、予算ペットカメラ リストに一貫して登場する最も安価な有能な屋内カメラ。ペット特化ではない — 吠え声検知なし・おやつディスペンサーなし・ペット狙いオーディオ プロファイルなし、AIはペット検出を二次機能として人物と荷物分類で訓練; 2022-2023年の最近のプライバシーとCSAMモデレーション問題に加えて2024年アカウント混在事案がペットカメラ コミュニティでブランド評判を損ない買い手はコミットする前に公的報道を読むべき; クラウド イベント履歴はカメラごと月約250円のWyze Cam Plusを必要としほとんどの予算枠買い手はスキップしクラウド イベント間の12秒クールダウンを受け入れる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-wyze-cam-v3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWyze%2BCam%2Bv3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pawbo-pet-camera",
+    category: "home",
+    badge: "🎯",
+    name: { en: "Pawbo Pet Camera", ja: "Pawbo ペットカメラ" },
+    description: {
+      en: "Roughly 18,000 yen mid-tier treat-dispenser pick (or PetSafe equivalent depending on Japan availability) with 720p video, treat dispense from the smartphone app, two-way audio, scheduled treat-toss, sits between the cheap generic security cams and the premium Furbo. Lower video quality than Furbo with 720p versus 1080p which is meaningfully visible on tablet and laptop viewing; app reliability is mixed in long-term reviews with several reviewers reporting periodic crashes and pairing issues that persisted across firmware updates; treat-refill access on the unit is awkward enough that several reviewers report giving up on the daily refill ritual after a few months; dog-specific AI is absent or rudimentary compared to Furbo's bark-detection and activity scoring.",
+      ja: "約18,000円の中位枠おやつディスペンサー枠(または日本での入手可能性に応じてPetSafe同等品)、720pビデオ・スマホ アプリからのおやつディスペンサー・双方向オーディオ・スケジュールされたおやつトス、安価な汎用セキュリティ カメラとプレミアムなFurboの間に座る。Furboより720p対1080pで低い動画品質はタブレットとラップトップ視聴で意味的に見える; アプリ信頼性は長期レビューで混在しいくつかのレビュアーがファームウェア アップデートを通じて持続した定期的なクラッシュとペアリング問題を報告; ユニット上のおやつ補充アクセスが厄介でいくつかのレビュアーは数か月後に毎日の補充儀式を諦めたと報告; 犬特化AIはFurboの吠え声検知と活動スコアリングと比較して不在または初歩的。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-pawbo-pet-camera", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPawbo%2B%E3%83%9A%E3%83%83%E3%83%88%E3%82%AB%E3%83%A1%E3%83%A9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "eufy-indoor-cam-2k-pan-tilt",
+    category: "home",
+    badge: "🏠",
+    name: { en: "Anker Eufy Indoor Cam 2K Pan & Tilt", ja: "Anker Eufy Indoor Cam 2K Pan & Tilt" },
+    description: {
+      en: "Roughly 9,800 yen no-subscription local-storage indoor pick with 2K video, 360-degree pan and 96-degree tilt to find the pet wherever it is napping, person-and-pet motion detection, two-way audio, microSD local storage with no subscription required, Apple HomeKit Secure Video integration, the strongest local-storage indoor pick in the sub-15,000-yen band. No pet-specific AI — motion detection classifies person versus pet but does not provide bark detection, dog activity scoring, or any of the pet-trained AI features that justify the Furbo premium; no treat dispense or laser-pointer hardware so the interactive features that some pet owners want are absent; built-in speaker is thin and the audio quality on two-way conversations is meaningfully worse than the Furbo or Petcube speakers; designed as general-purpose indoor security and not as a pet camera so the marketing copy and the customer service assume a homeowner not a pet owner.",
+      ja: "約9,800円のサブスク不要のローカル ストレージ屋内枠、2Kビデオ・ペットがどこで昼寝していても見つける360度パンと96度チルト・人物とペットのモーション検知・双方向オーディオ・サブスク不要のmicroSDローカル ストレージ・Apple HomeKit Secure Video統合、15,000円未満帯で最強のローカル ストレージ屋内枠。ペット特化AIなし — モーション検知は人物対ペットを分類するが吠え声検知・犬活動スコアリング・Furboプレミアムを正当化するペット訓練AI機能のいずれも提供しない; おやつディスペンサーまたはレーザー ポインター ハードウェアなしなので一部のペット オーナーが欲しいインタラクティブ機能は不在; 内蔵スピーカーは薄く双方向会話のオーディオ品質はFurboまたはPetcubeスピーカーより意味的に悪い; 汎用屋内セキュリティとして設計されペットカメラとしてではないためマーケティング コピーとカスタマー サービスはペット オーナーではなく住宅所有者を仮定。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-eufy-indoor-cam-2k-pan-tilt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEufy%2BIndoor%2BCam%2B2K%2F", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Home / Toasters (best-toaster-2026) ─────────

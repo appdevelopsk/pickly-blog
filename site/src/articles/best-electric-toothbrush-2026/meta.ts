@@ -1,19 +1,18 @@
 import type { ArticleMeta } from "@/lib/articles/types";
-import { ALL_LOCALES } from "@/lib/i18n/locales";
 
 export const meta: ArticleMeta = {
   slug: "best-electric-toothbrush-2026",
   type: "comparison",
   category: "beauty",
   offerIds: [
-    "philips-sonicare-9300",
-    "philips-sonicare-4500",
-    "oral-b-pro-1",
-    "panasonic-doltz-dp35",
-    "braun-oral-b-io9",
+    "oral-b-io-series-9",
+    "philips-sonicare-diamondclean-9000",
+    "panasonic-doltz-ew-dp52",
+    "quip-electric-toothbrush",
+    "oclean-x-pro-elite",
   ],
-  publishedAt: "2026-05-08",
-  updatedAt: "2026-05-08",
-  locales: [...ALL_LOCALES],
+  publishedAt: "2026-05-09",
+  updatedAt: "2026-05-09",
+  locales: ["en", "ja"],
   ogImage: "auto",
 };

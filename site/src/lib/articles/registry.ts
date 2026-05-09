@@ -19,6 +19,21 @@ import { meta as bestCoffeeMaker2026 } from "@/articles/best-coffee-maker-2026/m
 import { meta as bestCordlessVacuum2026 } from "@/articles/best-cordless-vacuum-2026/meta";
 import { meta as bestYogaMat2026 } from "@/articles/best-yoga-mat-2026/meta";
 import { meta as bestToaster2026 } from "@/articles/best-toaster-2026/meta";
+import { meta as bestProteinPowder2026 } from "@/articles/best-protein-powder-2026/meta";
+import { meta as bestAromaDiffuser2026 } from "@/articles/best-aroma-diffuser-2026/meta";
+import { meta as bestBlender2026 } from "@/articles/best-blender-2026/meta";
+import { meta as bestBabyMonitor2026 } from "@/articles/best-baby-monitor-2026/meta";
+import { meta as bestTabletStand2026 } from "@/articles/best-tablet-stand-2026/meta";
+import { meta as bestShampoo2026 } from "@/articles/best-shampoo-2026/meta";
+import { meta as bestPetCamera2026 } from "@/articles/best-pet-camera-2026/meta";
+import { meta as bestTeaKettle2026 } from "@/articles/best-tea-kettle-2026/meta";
+import { meta as bestStandingDesk2026 } from "@/articles/best-standing-desk-2026/meta";
+import { meta as bestSunscreen2026 } from "@/articles/best-sunscreen-2026/meta";
+import { meta as bestWirelessCharger2026 } from "@/articles/best-wireless-charger-2026/meta";
+import { meta as bestHumidifier2026 } from "@/articles/best-humidifier-2026/meta";
+import { meta as bestFaceWash2026 } from "@/articles/best-face-wash-2026/meta";
+import { meta as bestDeskLamp2026 } from "@/articles/best-desk-lamp-2026/meta";
+import { meta as bestMechanicalKeyboard2026 } from "@/articles/best-mechanical-keyboard-2026/meta";
 
 /**
  * 記事レジストリ — 各 article は `src/articles/<slug>/meta.ts` で
@@ -30,7 +45,7 @@ import { meta as bestToaster2026 } from "@/articles/best-toaster-2026/meta";
  *   3. このファイルに import を追加 + REGISTRY 配列に push
  */
 
-const REGISTRY: ArticleMeta[] = [bestVpn2026, bestCoffeeGrinder2026, bestElectricToothbrush2026, bestAirPurifier2026, conohaWingReview2026, bestRentalServerJp2026, bestLedFaceMask2026, bestRobotVacuum2026, bestHairDryer2026, bestRiceCooker2026, bestNoiseCancellingHeadphones2026, bestSkincareFridge2026, bestAirFryer2026, bestMassageGun2026, bestSmartWatch2026, bestMattress2026, bestCoffeeMaker2026, bestCordlessVacuum2026, bestYogaMat2026, bestToaster2026];
+const REGISTRY: ArticleMeta[] = [bestVpn2026, bestCoffeeGrinder2026, bestElectricToothbrush2026, bestAirPurifier2026, conohaWingReview2026, bestRentalServerJp2026, bestLedFaceMask2026, bestRobotVacuum2026, bestHairDryer2026, bestRiceCooker2026, bestNoiseCancellingHeadphones2026, bestSkincareFridge2026, bestAirFryer2026, bestMassageGun2026, bestSmartWatch2026, bestMattress2026, bestCoffeeMaker2026, bestCordlessVacuum2026, bestYogaMat2026, bestToaster2026, bestProteinPowder2026, bestAromaDiffuser2026, bestBlender2026, bestBabyMonitor2026, bestTabletStand2026, bestShampoo2026, bestPetCamera2026, bestTeaKettle2026, bestStandingDesk2026, bestSunscreen2026, bestWirelessCharger2026, bestHumidifier2026, bestFaceWash2026, bestDeskLamp2026, bestMechanicalKeyboard2026];
 
 export function listArticles(): ArticleMeta[] {
   return REGISTRY;
