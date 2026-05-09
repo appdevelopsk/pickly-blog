@@ -7575,6 +7575,73 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-zeiser-battle-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%88%E3%83%AB%E3%83%AD%E3%83%BC%E3%83%97%2B%E3%82%BB%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Battle Ropes v2 (best-battle-rope-2026 updated IDs) ─────────
+  {
+    id: "battle-rope-co-1-5-50ft",
+    category: "fitness",
+    name: { en: "Battle Rope Co. 1.5-Inch x 50-Foot Poly Dacron Rope", ja: "バトルロープCo. 1.5インチ×50フィート ポリダクロンロープ" },
+    description: {
+      en: "Poly dacron blend, 1.5\" diameter, 50 ft length, heat-shrink end caps, approx 26 lbs, ideal for large home gyms and CrossFit boxes",
+      ja: "ポリダクロン混紡、直径1.5インチ、全長50フィート、熱収縮エンドキャップ、約12kg、広めのホームジムやCrossFitボックス向け",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07CQTMMNB", rawUrl: "https://www.amazon.co.jp/dp/B07CQTMMNB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-battle-rope-co-1-5-50ft", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBattle%2BRope%2BCo%2B1.5%2Binch%2B50%2Bfoot%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-fitness-battle-rope-50ft",
+    category: "fitness",
+    name: { en: "Titan Fitness Battle Rope 1.5-Inch x 50-Foot", ja: "タイタンフィットネス バトルロープ 1.5インチ×50フィート" },
+    description: {
+      en: "Poly dacron construction, 1.5\" diameter, 50 ft, approx 24 lbs, durable nylon end caps, designed for commercial and home gym use",
+      ja: "ポリダクロン素材、直径1.5インチ、50フィート、約11kg、耐久性ナイロンエンドキャップ、商業・ホームジム両対応",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01LWTJ7EK", rawUrl: "https://www.amazon.co.jp/dp/B01LWTJ7EK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-fitness-battle-rope-50ft", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan%2BFitness%2BBattle%2BRope%2B1.5%2Binch%2B50%2Bfoot%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "power-guidance-battle-rope-30ft",
+    category: "fitness",
+    name: { en: "Power Guidance Battle Rope 1.5-Inch x 30-Foot", ja: "パワーガイダンス バトルロープ 1.5インチ×30フィート" },
+    description: {
+      en: "Poly dacron blend, 1.5\" diameter, 30 ft length, approx 14 lbs, woven protective sleeve, compact option for smaller spaces",
+      ja: "ポリダクロン混紡、直径1.5インチ、全長30フィート、約6kg、織り込み保護スリーブ、狭いスペース向けコンパクトモデル",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07PHLM9MB", rawUrl: "https://www.amazon.co.jp/dp/B07PHLM9MB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-power-guidance-battle-rope-30ft", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPower%2BGuidance%2BBattle%2BRope%2B1.5%2Binch%2B30%2Bfoot%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "stroops-battle-rope-anchor",
+    category: "fitness",
+    name: { en: "Stroops Battle Rope (Includes Anchor Kit)", ja: "ストループス バトルロープ（アンカーキット付属）" },
+    description: {
+      en: "Nylon construction, 1.5\" diameter, 30–50 ft options, approx 20 lbs (40 ft), complete anchor kit included, designed for functional training",
+      ja: "ナイロン素材、直径1.5インチ、30〜50フィート展開、約9kg（40フィート）、アンカーキット付属、ファンクショナルトレーニング特化設計",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0195XGKQO", rawUrl: "https://www.amazon.co.jp/dp/B0195XGKQO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-stroops-battle-rope-anchor", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStroops%2BBattle%2BRope%2BAnchor%2BKit%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-battle-rope-40ft",
+    category: "fitness",
+    name: { en: "Rep Fitness Battle Rope 2-Inch x 40-Foot", ja: "REPフィットネス バトルロープ 2インチ×40フィート" },
+    description: {
+      en: "Poly dacron construction, 2\" diameter, 40 ft length, approx 32 lbs, extra-thick for maximum strength demand, reinforced heat-shrink ends",
+      ja: "ポリダクロン素材、直径2インチ、全長40フィート、約15kg、最大筋力負荷の極太タイプ、補強熱収縮エンド",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07WGJM87C", rawUrl: "https://www.amazon.co.jp/dp/B07WGJM87C", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-fitness-battle-rope-40ft", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP%2BFitness%2BBattle%2BRope%2B2%2Binch%2B40%2Bfoot%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
   // ───────── Fitness / Gymnastic Rings (best-gymnastic-rings-2026) ─────────
   {
     id: "nayoya-gymnastic-rings",
