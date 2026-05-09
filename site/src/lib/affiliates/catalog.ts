@@ -7327,16 +7327,29 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   // best-ab-roller-2026
   {
-    id: "ab-carver-pro",
+    id: "perfect-fitness-ab-carver-pro",
     category: "fitness",
     name: { en: "Perfect Fitness Ab Carver Pro", ja: "パーフェクトフィットネス アブカーバープロ" },
     description: {
-      en: "Carbon steel internal spring assists rollout, ultra-wide wheel for oblique carving, ergonomic 45-degree handles",
-      ja: "カーボンスチールスプリングでロールアウトをアシスト、超ワイドホイールで腹斜筋を刺激、45度人間工学的ハンドル",
+      en: "Carbon steel internal spring assists rollout phase, ultra-wide 7.5-inch wheel for oblique carving, ergonomic 45-degree handles to reduce wrist strain",
+      ja: "カーボンスチールスプリングでロールアウトをアシスト、幅約19cmの超ワイドホイールで腹斜筋を刺激、45度人間工学的ハンドルで手首負担軽減",
     },
     links: [
-      { network: "amazon-jp", productId: "amazon-jp-ab-carver-pro", rawUrl: "https://www.amazon.co.jp/s?k=perfect+fitness+ab+carver+pro", markets: ["JP"], approved: true },
-      { network: "moshimo", productId: "rakuten-ab-carver-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%96%E3%82%AB%E3%83%BC%E3%83%90%E3%83%BC%2B%E3%83%97%E3%83%AD%2F", markets: ["JP"], approved: true },
+      { network: "amazon-jp", productId: "amazon-jp-perfect-fitness-ab-carver-pro", rawUrl: "https://www.amazon.co.jp/s?k=perfect+fitness+ab+carver+pro", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-perfect-fitness-ab-carver-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPerfect+Fitness+Ab+Carver+Pro%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "elite-sportz-ab-roller",
+    category: "fitness",
+    name: { en: "Elite Sportz Ab Roller Wheel", ja: "エリートスポーツ アブローラーホイール" },
+    description: {
+      en: "Wide foam-grip wheel with excellent floor traction, no assembly required, ergonomic non-slip handles, knee pad included",
+      ja: "床グリップ優秀な幅広フォームグリップホイール、組み立て不要、滑り止め人間工学的ハンドル、ニーパッド付属",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-elite-sportz-ab-roller", rawUrl: "https://www.amazon.co.jp/s?k=elite+sportz+ab+roller+wheel", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-elite-sportz-ab-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FElite+Sportz+Ab+Roller+Wheel%2F", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -7344,51 +7357,38 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "SKLZ Core Wheels", ja: "SKLZ コアホイール" },
     description: {
-      en: "Dual-wheel design for superior lateral stability, elevated handles for neutral wrist position, folds flat for storage",
-      ja: "デュアルホイールで横方向安定性抜群、高めハンドルで手首を自然な角度に保つ、折りたたみ収納",
+      en: "Dual independent wheels for lateral stability, elevated handles for neutral wrist position, folds flat for gym bag storage",
+      ja: "デュアル独立ホイールで横方向安定性抜群、高めハンドルで手首を自然な角度に保つ、折りたたみジムバッグ収納対応",
     },
     links: [
       { network: "amazon-jp", productId: "amazon-jp-sklz-core-wheels", rawUrl: "https://www.amazon.co.jp/s?k=sklz+core+wheels+ab+roller", markets: ["JP"], approved: true },
-      { network: "moshimo", productId: "rakuten-sklz-core-wheels", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSKLZ%2B%E3%82%B3%E3%82%A2%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
-    ],
-  },
-  {
-    id: "lifeline-power-wheel",
-    category: "fitness",
-    name: { en: "Lifeline Power Wheel", ja: "ライフライン パワーホイール" },
-    description: {
-      en: "Foot attachment for hamstring rollouts and pike presses, padded hand grips, unlocks advanced core exercises",
-      ja: "フット装着でハムストリングロールアウトやパイクプレスが可能、パッド付きグリップ、上級体幹トレーニング対応",
-    },
-    links: [
-      { network: "amazon-jp", productId: "amazon-jp-lifeline-power-wheel", rawUrl: "https://www.amazon.co.jp/s?k=lifeline+power+wheel+ab+roller", markets: ["JP"], approved: true },
-      { network: "moshimo", productId: "rakuten-lifeline-power-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2B%E4%BD%93%E5%B9%B9%2F", markets: ["JP"], approved: true },
-    ],
-  },
-  {
-    id: "elite-sportz-ab-wheel",
-    category: "fitness",
-    name: { en: "Elite Sportz Ab Wheel", ja: "エリートスポーツ アブホイール" },
-    description: {
-      en: "Wide foam-grip wheel, non-slip handles, no assembly required, includes knee pad",
-      ja: "幅広フォームグリップホイール、滑り止めハンドル、組み立て不要、ニーパッド付属",
-    },
-    links: [
-      { network: "amazon-jp", productId: "amazon-jp-elite-sportz-ab-wheel", rawUrl: "https://www.amazon.co.jp/s?k=elite+sportz+ab+wheel+roller", markets: ["JP"], approved: true },
-      { network: "moshimo", productId: "rakuten-elite-sportz-ab-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%96%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2B%E8%85%B9%E7%AD%8B%2B%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2F", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sklz-core-wheels", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSKLZ+Core+Wheels%2F", markets: ["JP"], approved: true },
     ],
   },
   {
     id: "vinsguir-ab-roller",
     category: "fitness",
-    name: { en: "Vinsguir Ab Roller", ja: "ヴィンスガー アブローラー" },
+    name: { en: "Vinsguir Ab Roller Wheel", ja: "ヴィンスガー アブローラーホイール" },
     description: {
-      en: "Textured non-slip wheel surface, foam handles, 440 lb capacity, includes knee pad, budget entry-level",
-      ja: "テクスチャー滑り止めホイール、フォームハンドル、耐荷重200kg、ニーパッド付属、コスパ最高の入門モデル",
+      en: "Textured non-slip wheel surface, foam handles, 440 lb capacity, knee pad included, best value entry-level pick",
+      ja: "テクスチャー滑り止めホイール面、フォームハンドル、耐荷重200kg、ニーパッド付属、コスパ最高の入門モデル",
     },
     links: [
       { network: "amazon-jp", productId: "amazon-jp-vinsguir-ab-roller", rawUrl: "https://www.amazon.co.jp/s?k=vinsguir+ab+roller+wheel", markets: ["JP"], approved: true },
-      { network: "moshimo", productId: "rakuten-vinsguir-ab-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%96%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2B%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2B%E8%85%B9%E7%AD%8B%2F", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-vinsguir-ab-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVinsguir+Ab+Roller+Wheel%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "power-systems-versadisc",
+    category: "fitness",
+    name: { en: "Power Systems VersaDisc Ab Wheel", ja: "パワーシステムズ バーサディスク アブホイール" },
+    description: {
+      en: "Rocker base adds balance challenge to standard rollouts, forces deep core stabilizers to fire continuously, advanced progression tool",
+      ja: "ロッカーベースで標準ロールアウトにバランス挑戦を追加、深層安定筋を常に発火、上級者向け進化型ツール",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-power-systems-versadisc", rawUrl: "https://www.amazon.co.jp/s?k=power+systems+versadisc+ab+wheel", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-power-systems-versadisc", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPower+Systems+VersaDisc%2F", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -8848,6 +8848,77 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.co.jp/dp/B08CYJN7X6", markets: ["JP"], approved: false },
       { network: "moshimo", productId: "rakuten-ativafit-adjustable-dumbbell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FATIVAFIT%2B%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Espresso Machines Under $200 (best-espresso-machine-under-200-2026) ─────────
+  {
+    id: "delonghi-ec155m-espresso",
+    category: "food",
+    badge: "☕",
+    name: { en: "De'Longhi EC155M Manual Espresso Machine", ja: "デロンギ EC155M マニュアルエスプレッソマシン" },
+    description: {
+      en: "~$80 semi-automatic entry point. 15-bar pump, 45-second warm-up, accepts ESE pods and ground coffee via pressurized dual-wall basket. Panarello steam wand auto-injects air for beginner-friendly cappuccino foam. Pressurized basket masks grind errors but limits quality ceiling for advancing home baristas.",
+      ja: "約80ドル（約1万2,000円）のセミオートエントリーポイント。15barポンプ、45秒ウォームアップ、加圧デュアルウォールバスケットでESEポッドとグラウンドコーヒー両対応。パナレロスチームワンドは初心者向けに自動で空気を注入。加圧バスケットはグラインドエラーをカバーするが、上達した家庭のバリスタには品質の天井を作る。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00IOKC9SK", rawUrl: "https://www.amazon.co.jp/dp/B00IOKC9SK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-delonghi-ec155m-espresso", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%2BEC155M%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "breville-bambino-bes450",
+    category: "food",
+    badge: "⚡",
+    name: { en: "Breville Bambino BES450BSS", ja: "ブレビル バンビーノ BES450BSS" },
+    description: {
+      en: "~$170 thermojet semi-automatic. ThermoJet heating reaches 93°C in 3 seconds — fastest warm-up in this price bracket. 54mm portafilter with both pressurized and non-pressurized baskets included; automatic purge cycle after each shot drops boiler to steam temperature. Manual steam wand produces true microfoam with practice.",
+      ja: "約170ドル（約2万5,000円）のサーモジェット式セミオート。ThermoJet加熱で3秒で93℃到達——この価格帯で最速のウォームアップ。加圧・非加圧バスケット両方付属の54mmポルタフィルター；各ショット後の自動パージサイクルでボイラーをスチーム温度へ降下。手動スチームワンドで練習すれば真のマイクロフォームを作れる。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07MNQ4XDH", rawUrl: "https://www.amazon.co.jp/dp/B07MNQ4XDH", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-breville-bambino-bes450", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BBambino%2BBES450%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nespresso-essenza-mini-d30",
+    category: "food",
+    badge: "🟡",
+    name: { en: "Nespresso Essenza Mini D30", ja: "ネスプレッソ エッセンサ ミニ D30" },
+    description: {
+      en: "~$100 capsule machine at 8 cm wide — the narrowest footprint in this comparison. 19-bar pump, 25-second warm-up, OriginalLine capsule format with consistent crema shot to shot. No built-in steam wand; Aeroccino frother sold separately. Capsule cost $0.70–$1.00 each; proprietary format with no equivalent third-party capsule.",
+      ja: "約100ドル（約1万5,000円）で幅8cmのカプセルマシン——この比較で最小フットプリント。19barポンプ、25秒ウォームアップ、毎ショット安定したクレマのオリジナルラインカプセル形式。スチームワンド内蔵なし；Aeroccinoフロッサーは別売。カプセルコスト1個0.70〜1.00ドル；同等品のないサードパーティ製カプセルの独自形式。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07D4SVKTD", rawUrl: "https://www.amazon.co.jp/dp/B07D4SVKTD", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nespresso-essenza-mini-d30", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNespresso%2BEssenza%2BMini%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mr-coffee-ecmp50-espresso",
+    category: "food",
+    badge: "🥛",
+    name: { en: "Mr. Coffee Espresso and Cappuccino Machine ECMP50", ja: "Mr.コーヒー エスプレッソ＆カプチーノマシン ECMP50" },
+    description: {
+      en: "~$85 combination machine with 15-bar pump, dedicated steam wand, and built-in automatic milk frother — the only machine in this comparison with an integrated one-button milk frother. 40–45 second warm-up; pressurized filter basket standard. Best beginner pick for milk-based espresso drinks without learning steam wand technique.",
+      ja: "約85ドル（約1万2,500円）のコンビネーションマシン——15barポンプ、専用スチームワンド、内蔵自動ミルクフロッサーを備え、この比較でワンボタン統合ミルクフロッサー付きの唯一の機種。40〜45秒ウォームアップ；加圧フィルターバスケット標準。スチームワンド技術を習わずにミルクベースのエスプレッソドリンクを作りたい初心者に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B008BWBXFO", rawUrl: "https://www.amazon.co.jp/dp/B008BWBXFO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-mr-coffee-ecmp50-espresso", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMr.Coffee%2BECMP50%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hamilton-beach-40792-espresso",
+    category: "food",
+    badge: "💰",
+    name: { en: "Hamilton Beach Espresso Maker 40792", ja: "ハミルトンビーチ エスプレッソメーカー 40792" },
+    description: {
+      en: "~$50 budget pump espresso machine — lowest cost pump-based espresso in this comparison. 15-bar pump, 60-second warm-up, accepts ground coffee and ESE pods via pressurized basket, bare-tube steam wand. Lightest build quality of the five; longest warm-up; steam wand requires the most technique to produce usable foam.",
+      ja: "約50ドル（約7,500円）のバジェットポンプ式エスプレッソマシン——この比較で最低コストのポンプベースエスプレッソ。15barポンプ、60秒ウォームアップ、加圧バスケットでグラウンドコーヒーとESEポッド対応、ベアチューブスチームワンド。5台中最も軽いビルドクオリティ；最長ウォームアップ；使えるフォームを作るには最も習熟が必要なスチームワンド。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01A38IOVM", rawUrl: "https://www.amazon.co.jp/dp/B01A38IOVM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hamilton-beach-40792-espresso", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2B40792%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
