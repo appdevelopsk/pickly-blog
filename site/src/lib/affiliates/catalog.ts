@@ -5729,6 +5729,58 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
   {
+    id: "rubbermaid-brilliance-set",
+    category: "food",
+    name: { en: "Rubbermaid Brilliance BPA-Free Food Storage Set", ja: "ラバーメイド ブリリアンス BPAフリー保存容器セット" },
+    description: {
+      en: "Crystal-clear BPA-free Tritan plastic, press-seal leakproof lids, airtight stacking, microwave/dishwasher safe",
+      ja: "クリスタルクリアBPAフリーTritan樹脂、押し込み密閉蓋、エアタイトスタック収納、電子レンジ/食洗機対応",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.co.jp/dp/B01NBQEZQO", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-rubbermaid-brilliance-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRubbermaid+Brilliance%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oxo-smart-seal-glass",
+    category: "food",
+    name: { en: "OXO Good Grips Smart Seal Glass Rectangle Containers", ja: "OXO グッドグリップス スマートシール ガラス角型保存容器" },
+    description: {
+      en: "Borosilicate glass, Smart Seal lid with dual-hinged locking tabs, leak-proof, oven/microwave/freezer/dishwasher safe",
+      ja: "ホウケイ酸ガラス、デュアルヒンジロックタブ付きスマートシール蓋、密閉漏れ防止、オーブン/電子レンジ/冷凍/食洗機対応",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0894MJPVB", rawUrl: "https://www.amazon.co.jp/dp/B0894MJPVB", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-oxo-smart-seal-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO+%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%AB+%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bentgo-glass-meal-prep",
+    category: "food",
+    name: { en: "Bentgo Glass Leak-Proof Meal Prep Set", ja: "ベントゴー ガラス漏れ防止作り置き容器セット" },
+    description: {
+      en: "Borosilicate glass with dual-compartment design, snap-lock leakproof lids, oven safe to 425°F, bento-style meal separation",
+      ja: "ホウケイ酸ガラス2室仕切り設計、スナップロック密閉蓋、425°F（220°C）オーブン対応、弁当スタイルの食材分離に最適",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.co.jp/dp/B07W4SLHQM", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-bentgo-glass-meal-prep", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBentgo+%E3%82%AC%E3%83%A9%E3%82%B9+%E4%BD%9C%E3%82%8A%E7%BD%AE%E3%81%8D%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pyrex-simply-store-18pc",
+    category: "food",
+    name: { en: "Pyrex Simply Store Glass Set (18-piece)", ja: "パイレックス シンプリーストア ガラス保存容器 18点セット" },
+    description: {
+      en: "Soda-lime tempered glass, 18-piece set in multiple sizes, oven safe to 450°F, BPA-free lids, trusted brand since 1915",
+      ja: "強化ソーダライムガラス18点セット、複数サイズ展開、450°F（230°C）オーブン対応、BPAフリー蓋、1915年創業の信頼ブランド",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0000CFNBS", rawUrl: "https://www.amazon.co.jp/dp/B0000CFNBS", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-pyrex-simply-store-18pc", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%82%A4%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9+%E4%BF%9D%E5%AD%98%E5%AE%B9%E5%99%A8+18%E7%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
     id: "alaska-bear-sleep-mask",
     category: "home",
     name: { en: "Alaska Bear Natural Silk Sleep Mask", ja: "アラスカベア シルクアイマスク" },
@@ -8919,6 +8971,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "B01A38IOVM", rawUrl: "https://www.amazon.co.jp/dp/B01A38IOVM", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-hamilton-beach-40792-espresso", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2B40792%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / CrossFit Jump Ropes (best-jump-rope-for-crossfit-2026) ─────────
+  {
+    id: "rx-smart-gear-elite-evo",
+    category: "fitness",
+    name: { en: "Rx Smart Gear Elite EVO Jump Rope", ja: "Rx Smart Gear エリートEVO ジャンプロープ" },
+    description: {
+      en: "1.5mm coated wire with precision needle bearings in 6.5-inch aluminum handles (57g each). Competition-grade smoothness for double-unders; cable adjusts via crimp system. Best for intermediate-to-advanced CrossFit athletes chasing sub-1:30 on 50 double-unders.",
+      ja: "6.5インチアルミハンドル（各57g）にニードルベアリングを内蔵した1.5mmコーティングワイヤー。二重跳び向け競技グレードの滑らかさ。クリンプシステムでケーブル長を調整。50回二重跳び1分30秒以下を目指す中〜上級クロスフィット選手に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07BQKQV8P", rawUrl: "https://www.amazon.co.jp/dp/B07BQKQV8P", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rx-smart-gear-elite-evo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRx+Smart+Gear+Elite+EVO%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wod-nation-speed-jump-rope",
+    category: "fitness",
+    name: { en: "WOD Nation Speed Jump Rope", ja: "WOD Nation スピードジャンプロープ" },
+    description: {
+      en: "1.8mm PVC-coated steel cable with sealed ball bearings in lightweight polymer handles. Ships in three handle lengths; cable trims in under two minutes with included screw tool. Best budget upgrade from bare PVC for athletes learning double-unders.",
+      ja: "軽量ポリマーハンドルに密封ボールベアリング内蔵の1.8mm PVCコーティング鋼線ケーブル。3種類のハンドル長で販売。付属スクリュー工具で2分以内にケーブルカット可能。二重跳びを習得中の選手向け最良バジェットアップグレード。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01LYFGVNQ", rawUrl: "https://www.amazon.co.jp/dp/B01LYFGVNQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wod-nation-speed-jump-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWOD+Nation+%E7%B8%84%E8%B7%B3%E3%81%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "crossrope-get-lean-bundle",
+    category: "fitness",
+    name: { en: "CrossRope Get Lean Bundle (1/4 lb + 1/2 lb)", ja: "CrossRope ゲットリーンバンドル（1/4 lb + 1/2 lb）" },
+    description: {
+      en: "Two weighted cables (113g and 227g) with quick-connect aluminum handles that swap in under three seconds. Distributed cable weight loads shoulders and forearms through full rotation range. App tracks jump count and connects to guided workouts.",
+      ja: "3秒以内にケーブル交換できるクイックコネクト式アルミハンドル付き加重ケーブル2本セット（113gと227g）。分散したケーブル重量が回転全域で肩と前腕に負荷。アプリがジャンプ数を記録しガイドワークアウトと連携。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07P8J1P6Q", rawUrl: "https://www.amazon.co.jp/dp/B07P8J1P6Q", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-crossrope-get-lean-bundle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCrossRope+Get+Lean%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rpm-session-3-jump-rope",
+    category: "fitness",
+    name: { en: "RPM Session 3 Jump Rope", ja: "RPM Session 3 ジャンプロープ" },
+    description: {
+      en: "1.6mm aircraft-grade steel cable with chrome-plated aluminum handles in 145mm or 165mm lengths. Precision steel-ball bearings in a recessed housing resist gym-floor impact damage. Cable swaps tool-free in 60 seconds. Competition-finish quality at around ¥18,000.",
+      ja: "145mmまたは165mm長クロームメッキアルミハンドルと1.6mm航空機グレード鋼線ケーブル。くぼんだハウジング内の精密スチールボールベアリングがジム床衝突に強い。ツール不要60秒ケーブル交換。約¥18,000の競技グレード仕上げ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08XQBCF3N", rawUrl: "https://www.amazon.co.jp/dp/B08XQBCF3N", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rpm-session-3-jump-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRPM+Session+3+%E7%B8%84%E8%B7%B3%E3%81%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "elite-srs-muay-thai-cable",
+    category: "fitness",
+    name: { en: "Elite SRS Muay Thai Cable Rope", ja: "Elite SRS ムエタイケーブルロープ" },
+    description: {
+      en: "3mm PVC-jacketed steel cable generating higher air resistance and audio feedback per revolution than thin wire. Sealed ball bearings in 5.5-inch handles. Designed for tempo conditioning and power training; outdoor-rated PVC jacket withstands rough surfaces better than coated wire alternatives.",
+      ja: "細いワイヤーより1回転ごとの空気抵抗と音のフィードバックが大きい3mm PVCジャケット付き鋼線ケーブル。5.5インチハンドルに密封ボールベアリング内蔵。テンポコンディショニングとパワートレーニング向け設計。屋外対応PVCジャケットはコーティングワイヤーより粗い路面に強い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00IOIUIFW", rawUrl: "https://www.amazon.co.jp/dp/B00IOIUIFW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-elite-srs-muay-thai-cable", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FElite+SRS+%E3%83%A0%E3%82%A8%E3%82%BF%E3%82%A4+%E7%B8%84%E8%B7%B3%E3%81%B3%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
