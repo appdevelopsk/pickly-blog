@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 107 articles x 6 variants x 2 locales (en, ja) = 1292 pins (growing)
+# 109 articles x 6 variants x 2 locales (en, ja) = 1316 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -14446,3 +14446,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-spin-bike-2026/"
     image_alt: "スピンバイク ホームジム 選び方 ガイド 2026"
     hashtags: ["スピンバイク", "ホームジム", "インドアサイクリング", "有酸素運動", "フィットネスガイド"]
+
+  # ── #108 best-olive-oil-2026 ─────────────────────────────────────────────
+  - pin_id: best-olive-oil-2026-en-01
+    article_slug: best-olive-oil-2026
+    locale: en
+    variant: comparison
+    title: "Best Olive Oil 2026: 5 EVOOs Compared for Everyday Cooking and Finishing"
+    description: |
+      California Olive Ranch vs Kirkland Organic vs Brightland Alive vs Cobram Estate Robust vs Pompeian Smooth. Harvest date freshness, smoke point, polyphenol content, and bulk economics — the specs that separate genuine extra virgin from refined oil relabeled for marketing.
+    link: "https://pickly.blog/en/articles/best-olive-oil-2026/"
+    image_alt: "best olive oil 2026 EVOO comparison California Olive Ranch Brightland"
+    hashtags: ["OliveOil", "EVOO", "CookingOil", "HealthyEating", "FoodQuality"]
+
+  - pin_id: best-olive-oil-2026-en-02
+    article_slug: best-olive-oil-2026
+    locale: en
+    variant: top1
+    title: "California Olive Ranch: Best Everyday US EVOO 2026"
+    description: |
+      Harvest-date labeled, domestic California production, ~$0.50/oz — the reliable middle ground between budget grocery oils and premium single-origin finishing oils. Certified by the California Olive Oil Council. Best for people who cook with olive oil daily and want freshness-guaranteed without paying Brightland prices.
+    link: "https://pickly.blog/en/articles/best-olive-oil-2026/"
+    image_alt: "California Olive Ranch EVOO everyday olive oil 2026"
+    hashtags: ["CaliforniaOliveRanch", "EVOO", "OliveOil", "ExtraVirginOliveOil", "HealthyCooking"]
+
+  - pin_id: best-olive-oil-2026-en-03
+    article_slug: best-olive-oil-2026
+    locale: en
+    variant: problem
+    title: "Why Most Grocery Store Olive Oil Is Not What the Label Claims"
+    description: |
+      A 2010 UC Davis study found 69% of imported "extra virgin" olive oil failed EVOO standards. Harvest dates are rarely printed — oils can be 18+ months old at purchase. "Light" and "pure" olive oil are refined oil, not EVOO. Polyphenols, the health-active compounds, degrade rapidly after harvest. Freshness matters more than origin.
+    link: "https://pickly.blog/en/articles/best-olive-oil-2026/"
+    image_alt: "olive oil fake label EVOO standards grocery store"
+    hashtags: ["OliveOilFraud", "EVOO", "FoodQuality", "OliveOil", "HealthyEating"]
+
+  - pin_id: best-olive-oil-2026-en-04
+    article_slug: best-olive-oil-2026
+    locale: en
+    variant: budget
+    title: "Best Value Olive Oil 2026: Kirkland Organic EVOO at $0.31/oz"
+    description: |
+      Kirkland Signature's 2-liter organic EVOO from Costco is the lowest cost-per-ounce in this comparison at ~$0.31/oz. Mediterranean-sourced, USDA Organic certified, and the bottle moves fast enough at Costco that freshness turnover is actually reasonable. Best for households that go through a liter a month or more.
+    link: "https://pickly.blog/en/articles/best-olive-oil-2026/"
+    image_alt: "Kirkland Organic EVOO bulk olive oil value Costco 2026"
+    hashtags: ["BudgetOliveOil", "KirklandOliveOil", "EVOO", "CostcoFinds", "BulkCooking"]
+
+  - pin_id: best-olive-oil-2026-en-05
+    article_slug: best-olive-oil-2026
+    locale: en
+    variant: avoid
+    title: "5 Olive Oil Buying Mistakes That Cost You Flavor and Health Benefits"
+    description: |
+      No harvest date on the bottle: buy something with one. "Light" or "Pure" on the label: those are refined, not EVOO. Storing near the stove: heat degrades polyphenols in weeks. Buying big jugs for occasional cooking: open bottles oxidize in 4–6 weeks. Trusting "imported from Italy" without COOC or IOC certification.
+    link: "https://pickly.blog/en/articles/best-olive-oil-2026/"
+    image_alt: "olive oil buying mistakes label freshness storage"
+    hashtags: ["OliveOilMistakes", "EVOO", "OliveOil", "FoodQuality", "HealthyEating"]
+
+  - pin_id: best-olive-oil-2026-en-06
+    article_slug: best-olive-oil-2026
+    locale: en
+    variant: scene
+    title: "Which Olive Oil for Your Cooking Style?"
+    description: |
+      Daily cooking → California Olive Ranch (~$0.50/oz, harvest-dated). Bulk household → Kirkland Organic 2L (~$0.31/oz, Costco). Premium finishing → Brightland Alive (single-origin, flavor-forward, drizzle only). High-heat roasting → Cobram Estate Robust (higher polyphenol, heat-stable). Budget → Pompeian Smooth (grocery standard, accessible).
+    link: "https://pickly.blog/en/articles/best-olive-oil-2026/"
+    image_alt: "olive oil guide which to buy cooking style 2026"
+    hashtags: ["OliveOil", "EVOO", "CookingOil", "OliveOilGuide", "HealthyCooking"]
+
+  - pin_id: best-olive-oil-2026-ja-01
+    article_slug: best-olive-oil-2026
+    locale: ja
+    variant: comparison
+    title: "オリーブオイルおすすめ2026：5製品を鮮度・煙点・ポリフェノールで比較"
+    description: |
+      California Olive Ranch・Kirkland Organic・Brightland Alive・Cobram Estate・Pompeianを収穫日鮮度・煙点・ポリフェノール含有量・コスパで比較。本物のエクストラバージンを見分け、日常料理からフィニッシングまで最適な1本を選ぶ方法。
+    link: "https://pickly.blog/ja/articles/best-olive-oil-2026/"
+    image_alt: "オリーブオイル おすすめ 2026 EVOO 比較 鮮度"
+    hashtags: ["オリーブオイル", "おすすめ", "EVOO", "健康的な料理", "食品品質"]
+
+  - pin_id: best-olive-oil-2026-ja-02
+    article_slug: best-olive-oil-2026
+    locale: ja
+    variant: top1
+    title: "California Olive Ranch：毎日使いに最適なエクストラバージンオリーブオイル2026"
+    description: |
+      収穫日表示・カリフォルニア国内産・約$0.50/oz——プレミアム産地限定オイルとスーパーの安物の中間にある信頼できる選択肢。カリフォルニアオリーブオイル評議会(COOC)認定。毎日オリーブオイルを使う人が鮮度を保証しながらBrightland価格を払わずに済む答え。
+    link: "https://pickly.blog/ja/articles/best-olive-oil-2026/"
+    image_alt: "California Olive Ranch オリーブオイル 日常料理 2026"
+    hashtags: ["CaliforniaOliveRanch", "オリーブオイル", "EVOO", "エクストラバージン", "健康的な料理"]
+
+  - pin_id: best-olive-oil-2026-ja-03
+    article_slug: best-olive-oil-2026
+    locale: ja
+    variant: problem
+    title: "スーパーのオリーブオイルがラベル通りでないことが多い理由"
+    description: |
+      UC Davisの研究で輸入「エクストラバージン」の69%が基準不合格。収穫日が表示されていないと購入時点で18ヶ月以上経過している可能性。「ライト」「ピュア」は精製油でEVOOではない。ポリフェノール（健康有効成分）は収穫後急速に劣化する。産地より鮮度が重要。
+    link: "https://pickly.blog/ja/articles/best-olive-oil-2026/"
+    image_alt: "オリーブオイル ラベル 偽物 EVOO 品質基準"
+    hashtags: ["オリーブオイル 偽物", "EVOO", "食品品質", "オリーブオイル", "健康食品"]
+
+  - pin_id: best-olive-oil-2026-ja-04
+    article_slug: best-olive-oil-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強オリーブオイル2026：Kirkland Organic EVOO 約$0.31/oz"
+    description: |
+      コストコのKirkland Signature 2リットルオーガニックEVOOはこのリスト最安のoz単価約$0.31。地中海産・USDA有機認証・コストコでの回転が速いため鮮度も合理的に確保。月1リットル以上消費する世帯の最良選択。
+    link: "https://pickly.blog/ja/articles/best-olive-oil-2026/"
+    image_alt: "Kirkland Organic オリーブオイル コスパ コストコ 2026"
+    hashtags: ["コスパ オリーブオイル", "KirklandOliveOil", "EVOO", "コストコ", "大容量 料理"]
+
+  - pin_id: best-olive-oil-2026-ja-05
+    article_slug: best-olive-oil-2026
+    locale: ja
+    variant: avoid
+    title: "風味と健康効果を損なうオリーブオイル選びの5つのミス"
+    description: |
+      収穫日非表示のボトルを買う：あるものを選ぶ。「ライト」「ピュア」表示：精製油でEVOOではない。コンロの横に保存：熱は数週間でポリフェノールを劣化させる。たまにしか使わないのに大容量を買う：開封後4〜6週間で酸化。「イタリア産」を鵜呑みにする：COOC・IOC認証なしでは保証なし。
+    link: "https://pickly.blog/ja/articles/best-olive-oil-2026/"
+    image_alt: "オリーブオイル 失敗 選び方 保存 鮮度 注意"
+    hashtags: ["オリーブオイル 失敗", "EVOO", "オリーブオイル", "食品品質", "健康的な料理"]
+
+  - pin_id: best-olive-oil-2026-ja-06
+    article_slug: best-olive-oil-2026
+    locale: ja
+    variant: scene
+    title: "料理スタイル別：オリーブオイルの選び方ガイド"
+    description: |
+      日常炒め物・ソテー → California Olive Ranch（収穫日あり・約$0.50/oz）。大量使用世帯 → Kirkland Organic 2L（約$0.31/oz・コストコ）。フィニッシング・ドリップ → Brightland Alive（産地限定・香り重視）。高温ロースト → Cobram Estate Robust（高ポリフェノール・耐熱性）。予算重視 → Pompeian Smooth。
+    link: "https://pickly.blog/ja/articles/best-olive-oil-2026/"
+    image_alt: "オリーブオイル 料理スタイル別 選び方 ガイド 2026"
+    hashtags: ["オリーブオイル", "EVOO", "料理 オイル", "オリーブオイルガイド", "健康的な料理"]
+
+  # ── #109 best-treadmill-2026 ─────────────────────────────────────────────
+  - pin_id: best-treadmill-2026-en-01
+    article_slug: best-treadmill-2026
+    locale: en
+    variant: comparison
+    title: "Best Treadmills 2026: Connected vs Basic — NordicTrack vs Peloton vs Bowflex vs Horizon vs LifeFitness"
+    description: |
+      Five treadmills compared on continuous duty HP, belt dimensions, deck cushioning, incline range, subscription costs, and 5-year total cost of ownership. The spec that determines whether a treadmill gets used is different from the spec that sells it in a showroom.
+    link: "https://pickly.blog/en/articles/best-treadmill-2026/"
+    image_alt: "best treadmills 2026 NordicTrack Peloton comparison connected"
+    hashtags: ["Treadmill", "HomeGym", "RunningIndoor", "CardioEquipment", "FitnessGear"]
+
+  - pin_id: best-treadmill-2026-en-02
+    article_slug: best-treadmill-2026
+    locale: en
+    variant: top1
+    title: "NordicTrack Commercial 1750: Best Overall Connected Treadmill 2026"
+    description: |
+      3.75 CHP continuous motor, 56×152 cm belt, FlexSelect adjustable cushioning, -3% to +15% incline/decline range, and iFit integration. At ~$1,799, it's the most feature-complete treadmill before you reach the $2,500+ tier. The iFit subscription ($396/year) adds guided routes and auto-adjustment but is optional.
+    link: "https://pickly.blog/en/articles/best-treadmill-2026/"
+    image_alt: "NordicTrack Commercial 1750 treadmill connected best 2026"
+    hashtags: ["NordicTrack1750", "Treadmill", "HomeGym", "RunningIndoor", "ConnectedFitness"]
+
+  - pin_id: best-treadmill-2026-en-03
+    article_slug: best-treadmill-2026
+    locale: en
+    variant: problem
+    title: "The Real Reason Treadmills Break Down in 2 Years (It's the Motor Rating)"
+    description: |
+      "Peak" HP is a marketing number — a 3.0 HP peak motor may only sustain 1.5 CHP continuous. Belts narrower than 51 cm cause hip and shoulder compensation in taller runners. Cushioning that bottoms out adds 20–30% more joint impact than running on pavement. Cheap treadmills cost more in repairs than a better treadmill would have.
+    link: "https://pickly.blog/en/articles/best-treadmill-2026/"
+    image_alt: "treadmill motor CHP peak breakdown cushioning problem"
+    hashtags: ["TreadmillProblems", "HomeGym", "RunningTips", "CardioEquipment", "FitnessTips"]
+
+  - pin_id: best-treadmill-2026-en-04
+    article_slug: best-treadmill-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Treadmill 2026: Horizon T101 — Folding, Reliable, $649"
+    description: |
+      Horizon T101 folds, has a 2.5 CHP continuous motor, 51×152 cm belt, and 10% incline for $649. No screen, but Bluetooth audio allows third-party app pairing. Three-position cushioning. Best for walkers and light joggers who need the treadmill to fold away and don't want a monthly subscription bill.
+    link: "https://pickly.blog/en/articles/best-treadmill-2026/"
+    image_alt: "Horizon T101 budget treadmill folding 2026"
+    hashtags: ["BudgetTreadmill", "HorizonT101", "FoldingTreadmill", "HomeGym", "CardioEquipment"]
+
+  - pin_id: best-treadmill-2026-en-05
+    article_slug: best-treadmill-2026
+    locale: en
+    variant: avoid
+    title: "5 Treadmill Buying Mistakes That Lead to Expensive Regrets"
+    description: |
+      Trusting peak HP: always look for continuous duty HP. Belt width under 51 cm: awkward stride for anyone over 5'8". Ignoring 5-year subscription cost: $396/year × 5 = $1,980 added to sticker price. No cushioning spec: running on a stiff deck daily damages knees over 12 months. Not measuring ceiling clearance: incline raises you 8–12 inches.
+    link: "https://pickly.blog/en/articles/best-treadmill-2026/"
+    image_alt: "treadmill buying mistakes HP subscription belt width avoid"
+    hashtags: ["TreadmillMistakes", "HomeGym", "FitnessTips", "RunningIndoor", "CardioEquipment"]
+
+  - pin_id: best-treadmill-2026-en-06
+    article_slug: best-treadmill-2026
+    locale: en
+    variant: scene
+    title: "Which Treadmill for Your Home Gym?"
+    description: |
+      Best connected all-rounder → NordicTrack 1750 (3.75 CHP, decline, iFit). Coached running experience → Peloton Tread (slat belt, live classes). Mid-range connected → Bowflex 22 (-6% decline, JRNY). Budget folding → Horizon T101 ($649, folds). Commercial-grade belt durability → LifeFitness T3 (belt rated 15K+ hours).
+    link: "https://pickly.blog/en/articles/best-treadmill-2026/"
+    image_alt: "treadmill guide which to buy home gym 2026"
+    hashtags: ["Treadmill", "HomeGym", "RunningIndoor", "CardioEquipment", "FitnessGuide"]
+
+  - pin_id: best-treadmill-2026-ja-01
+    article_slug: best-treadmill-2026
+    locale: ja
+    variant: comparison
+    title: "トレッドミルおすすめ2026：コネクテッドvsベーシック比較｜NordicTrack vs Peloton vs Bowflex vs Horizon vs LifeFitness"
+    description: |
+      5台を連続定格馬力・ベルト幅・デッキクッション・傾斜範囲・サブスクコスト・5年間総費用で比較。実際に使われ続けるトレッドミルのスペックは、展示場で売れるスペックとは別物。
+    link: "https://pickly.blog/ja/articles/best-treadmill-2026/"
+    image_alt: "トレッドミル おすすめ 2026 NordicTrack Peloton 比較"
+    hashtags: ["トレッドミル", "おすすめ", "ホームジム", "インドアランニング", "有酸素運動"]
+
+  - pin_id: best-treadmill-2026-ja-02
+    article_slug: best-treadmill-2026
+    locale: ja
+    variant: top1
+    title: "NordicTrack Commercial 1750：コネクテッドトレッドミルの最高峰2026"
+    description: |
+      連続定格3.75CHP・56×152cmベルト・FlexSelect調整クッション・-3%〜+15%傾斜・iFit対応。約$1,799でこの機能の充実度は$2,500以上のクラスに匹敵。iFitサブスク（年$396）はガイドルートと自動調整を追加するがオプション。
+    link: "https://pickly.blog/ja/articles/best-treadmill-2026/"
+    image_alt: "NordicTrack Commercial 1750 トレッドミル コネクテッド 2026"
+    hashtags: ["NordicTrack1750", "トレッドミル", "ホームジム", "インドアランニング", "コネクテッドフィットネス"]
+
+  - pin_id: best-treadmill-2026-ja-03
+    article_slug: best-treadmill-2026
+    locale: ja
+    variant: problem
+    title: "トレッドミルが2年で壊れる本当の理由——モーター定格の罠"
+    description: |
+      「最大出力3.0HP」はマーケティング数字——連続定格は1.5CHPに過ぎないことも。幅51cm未満のベルトは身長170cm以上のランナーに股関節・肩の代償動作を引き起こす。底付きするクッションはアスファルトより関節への衝撃が20〜30%高い。安いトレッドミルは修理費がより良い製品の差額を超える。
+    link: "https://pickly.blog/ja/articles/best-treadmill-2026/"
+    image_alt: "トレッドミル モーター CHP 故障 クッション 問題"
+    hashtags: ["トレッドミル 問題", "ホームジム", "ランニング", "有酸素運動", "筋トレ 注意"]
+
+  - pin_id: best-treadmill-2026-ja-04
+    article_slug: best-treadmill-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強トレッドミル2026：Horizon T101 折りたたみ式 約100,000円"
+    description: |
+      Horizon T101は折りたたみ・2.5CHP連続定格・51×152cmベルト・最大10%傾斜で約$649（約100,000円）。スクリーンなしだがBluetooth接続でサードパーティアプリ対応。3段階クッション調整。サブスク不要でスペースを節約したいウォーカー・軽ジョガーの最適解。
+    link: "https://pickly.blog/ja/articles/best-treadmill-2026/"
+    image_alt: "Horizon T101 トレッドミル コスパ 折りたたみ 2026"
+    hashtags: ["コスパ トレッドミル", "HorizonT101", "折りたたみ トレッドミル", "ホームジム", "有酸素運動"]
+
+  - pin_id: best-treadmill-2026-ja-05
+    article_slug: best-treadmill-2026
+    locale: ja
+    variant: avoid
+    title: "高い後悔を招くトレッドミル購入の5つのミス"
+    description: |
+      最大出力HPを信じる：常に連続定格CHPを確認。幅51cm未満のベルト：170cm以上では歩幅が窮屈。5年間のサブスクコストを計算しない：年$396×5年=$1,980が定価に上乗せ。クッション仕様なし：硬いデッキでの毎日の走行は12ヶ月で膝を傷める。天井高を測らない：傾斜使用時に20〜30cm高くなる。
+    link: "https://pickly.blog/ja/articles/best-treadmill-2026/"
+    image_alt: "トレッドミル 失敗 CHP サブスク ベルト幅 注意"
+    hashtags: ["トレッドミル 失敗", "ホームジム", "筋トレ 注意", "インドアランニング", "有酸素運動"]
+
+  - pin_id: best-treadmill-2026-ja-06
+    article_slug: best-treadmill-2026
+    locale: ja
+    variant: scene
+    title: "ホームジム環境別：トレッドミルの選び方ガイド2026"
+    description: |
+      コネクテッド万能 → NordicTrack 1750（3.75CHP・下り傾斜・iFit）。コーチング体験重視 → Peloton Tread（スラットベルト・ライブクラス）。ミドルレンジ → Bowflex 22（-6%傾斜・JRNY）。予算折りたたみ → Horizon T101（約$649）。商業グレードベルト耐久性 → LifeFitness T3（15,000時間以上のベルト寿命）。
+    link: "https://pickly.blog/ja/articles/best-treadmill-2026/"
+    image_alt: "トレッドミル ホームジム 選び方 ガイド 2026"
+    hashtags: ["トレッドミル", "ホームジム", "インドアランニング", "有酸素運動", "フィットネスガイド"]
