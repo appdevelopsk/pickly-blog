@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 49 articles x 6 variants x 2 locales (en, ja) = 596 pins (growing)
+# 51 articles x 6 variants x 2 locales (en, ja) = 620 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -6718,3 +6718,271 @@ pins:
     link: "https://pickly.blog/ja/articles/best-knife-set-2026/"
     image_alt: "和包丁ガイド 片刃と両刃の違い"
     hashtags: ["包丁", "和包丁", "料理", "グローバル包丁", "貝印"]
+
+  # --- best-dash-cam-2026 ---
+
+  - pin_id: best-dash-cam-2026-en-01
+    article_slug: best-dash-cam-2026
+    locale: en
+    variant: comparison
+    title: "Dash cam 2026: BlackVue DR970X vs Garmin 67W vs Kenwood DRV-A601W compared"
+    description: |
+      BlackVue DR970X-2CH shoots 4K front + 1080p rear with cloud connectivity — but requires a subscription for remote viewing. Garmin 67W has a 180° wide-angle lens that captures more of the road at the expense of telephoto detail. Kenwood DRV-A601W uses a Sony STARVIS sensor tuned for Japanese night driving conditions. We compare real-world low-light footage, not just lumen specs.
+    link: "https://pickly.blog/en/articles/best-dash-cam-2026/"
+    image_alt: "Dash cam 2026 comparison"
+    hashtags: ["dashcam", "carsafety", "4k", "drivingcamera", "blackvue"]
+
+  - pin_id: best-dash-cam-2026-en-02
+    article_slug: best-dash-cam-2026
+    locale: en
+    variant: top1
+    title: "The dash cam most drivers should actually buy in 2026"
+    description: |
+      Kenwood DRV-A601W covers the fundamentals without complexity: 4K Sony STARVIS sensor, GPS for speed logging, loop recording, and Japanese dealer support for warranty claims. No subscription required. For most drivers who just need reliable evidence footage and occasionally want to review a parking incident, the Kenwood is the no-regret buy.
+    link: "https://pickly.blog/en/articles/best-dash-cam-2026/"
+    image_alt: "Best dash cam 2026 Kenwood DRV-A601W"
+    hashtags: ["dashcam", "carsafety", "kenwood", "drivingcamera", "4k"]
+
+  - pin_id: best-dash-cam-2026-en-03
+    article_slug: best-dash-cam-2026
+    locale: en
+    variant: problem
+    title: "Dash cam footage that won't hold up as evidence — what to look for in low light"
+    description: |
+      Most dash cam footage looks good in daytime demos and unreadable in the dark scenarios where it matters most. Sony STARVIS and Starvis 2 sensors outperform generic CMOS at night, but sensor brand alone doesn't determine quality — lens aperture, ISP tuning, and bitrate matter equally. We show what "good enough for insurance claims" looks like versus factory-optimized marketing footage.
+    link: "https://pickly.blog/en/articles/best-dash-cam-2026/"
+    image_alt: "Dash cam night vision evidence quality"
+    hashtags: ["dashcam", "carsafety", "nightvision", "drivingcamera", "tips"]
+
+  - pin_id: best-dash-cam-2026-en-04
+    article_slug: best-dash-cam-2026
+    locale: en
+    variant: budget
+    title: "A capable dash cam under ¥10,000 that covers the basics reliably"
+    description: |
+      Vantrue E1 Lite (~¥8,000) shoots 1080p with decent low-light performance for a camera at this price. Loop recording, G-sensor incident lock, and a capacitor (not battery) for heat tolerance. For a commuter who wants accident evidence without investing in a full 2-channel setup, it does the job. The single-channel limitation means no rear coverage — upgrade path is clear.
+    link: "https://pickly.blog/en/articles/best-dash-cam-2026/"
+    image_alt: "Budget dash cam Vantrue E1 Lite"
+    hashtags: ["dashcam", "budget", "carsafety", "vantrue", "drivingcamera"]
+
+  - pin_id: best-dash-cam-2026-en-05
+    article_slug: best-dash-cam-2026
+    locale: en
+    variant: avoid
+    title: "Dash cam red flags: what specs don't predict reliability"
+    description: |
+      High resolution numbers mean nothing if the bitrate is capped too low to resolve detail — some 4K cams ship with 20Mbps bitrates that can't distinguish license plates in motion. Cloud connectivity that requires an ongoing subscription turns a one-time purchase into a recurring cost. Dash cams with built-in batteries (not capacitors) fail faster in summer heat. We list the spec combinations to avoid.
+    link: "https://pickly.blog/en/articles/best-dash-cam-2026/"
+    image_alt: "Dash cam specs to avoid guide"
+    hashtags: ["dashcam", "carsafety", "buyingguide", "drivingcamera", "tips"]
+
+  - pin_id: best-dash-cam-2026-en-06
+    article_slug: best-dash-cam-2026
+    locale: en
+    variant: scene
+    title: "Parking mode dash cams: hardwire vs battery pack, and what actually works overnight"
+    description: |
+      Parking mode on a USB-powered dash cam drains the car battery in 3-6 hours. Hardwire kits solve this by connecting to a dedicated fuse that cuts off at a safe battery voltage. BlackVue's parking mode with cloud notifications lets you review incidents remotely. For apartment parking or crowded urban lots where door dings are common, a 2-channel setup with rear parking coverage changes the calculus.
+    link: "https://pickly.blog/en/articles/best-dash-cam-2026/"
+    image_alt: "Dash cam parking mode guide"
+    hashtags: ["dashcam", "parkingmode", "carsafety", "blackvue", "drivingcamera"]
+
+  - pin_id: best-dash-cam-2026-ja-01
+    article_slug: best-dash-cam-2026
+    locale: ja
+    variant: comparison
+    title: "ドラレコ2026：BlackVue DR970X vs ガーミン 67W vs ケンウッド DRV-A601W 比較"
+    description: |
+      BlackVue DR970X-2CHは4Kフロント＋1080pリア、クラウド接続（リモート視聴はサブスク必要）。ガーミン 67Wは180°広角で広い範囲をカバーするが遠距離解像度は落ちる。ケンウッド DRV-A601WはSony STARVIS搭載で日本の夜間走行向けにチューニング。スペック数値ではなく実際の夜間映像品質で比較。
+    link: "https://pickly.blog/ja/articles/best-dash-cam-2026/"
+    image_alt: "ドライブレコーダー 2026年比較"
+    hashtags: ["ドライブレコーダー", "ドラレコ", "4K", "車載カメラ", "カーセキュリティ"]
+
+  - pin_id: best-dash-cam-2026-ja-02
+    article_slug: best-dash-cam-2026
+    locale: ja
+    variant: top1
+    title: "2026年、ほとんどのドライバーに適したドライブレコーダー"
+    description: |
+      ケンウッド DRV-A601Wが基本を複雑さなく網羅：4K Sony STARVIS、GPS速度記録、ループ録画、保証のための国内ディーラーサポート。サブスク不要。事故時の証拠映像が主な目的で、駐車中のインシデントを時々確認したいだけのドライバーには後悔のない選択。
+    link: "https://pickly.blog/ja/articles/best-dash-cam-2026/"
+    image_alt: "ドライブレコーダー 2026年1位 ケンウッド"
+    hashtags: ["ドライブレコーダー", "ドラレコ", "ケンウッド", "4K", "カーセキュリティ"]
+
+  - pin_id: best-dash-cam-2026-ja-03
+    article_slug: best-dash-cam-2026
+    locale: ja
+    variant: problem
+    title: "ドラレコ映像が証拠として使えない — 夜間画質の実態"
+    description: |
+      昼間のデモでは鮮明に見えるドラレコ映像も、重要な夜間や悪天候では判読不能になることが多い。Sony STARVISやStarvis 2センサーは汎用CMOSより夜間に強いが、センサーブランドだけでは品質は決まらない — レンズ絞り値・ISPチューニング・ビットレートが同等に重要。保険会社に通用する映像とマーケティング映像の違いを解説。
+    link: "https://pickly.blog/ja/articles/best-dash-cam-2026/"
+    image_alt: "ドライブレコーダー 夜間画質と証拠能力"
+    hashtags: ["ドライブレコーダー", "ドラレコ", "夜間撮影", "カーセキュリティ", "購入ガイド"]
+
+  - pin_id: best-dash-cam-2026-ja-04
+    article_slug: best-dash-cam-2026
+    locale: ja
+    variant: budget
+    title: "基本を確実にカバーする10,000円以下のドライブレコーダー"
+    description: |
+      Vantrue E1 Lite（約8,000円）はこの価格帯として良好な夜間パフォーマンスの1080p撮影。ループ録画・Gセンサーインシデントロック・熱耐性に優れたコンデンサー（バッテリーなし）搭載。前方のみの通勤録画なら必要十分。フロント1カメラの制約は明確 — 必要に応じて前後2カメラへのアップグレードパスも示す。
+    link: "https://pickly.blog/ja/articles/best-dash-cam-2026/"
+    image_alt: "コスパドライブレコーダー Vantrue E1 Lite"
+    hashtags: ["ドライブレコーダー", "ドラレコ", "コスパ", "Vantrue", "カーセキュリティ"]
+
+  - pin_id: best-dash-cam-2026-ja-05
+    article_slug: best-dash-cam-2026
+    locale: ja
+    variant: avoid
+    title: "ドラレコのスペックで信頼性が分からない理由"
+    description: |
+      高解像度でもビットレートが低すぎると動きのあるナンバープレートが解読不能 — 4K機でも20Mbpsでは不十分なことがある。継続サブスクが必要なクラウド接続は実質的に継続コストが発生する。コンデンサーでなくバッテリー内蔵のドラレコは夏の車内高温で早期故障リスクがある。避けるべきスペック組み合わせを整理。
+    link: "https://pickly.blog/ja/articles/best-dash-cam-2026/"
+    image_alt: "ドライブレコーダー 購入失敗ガイド"
+    hashtags: ["ドライブレコーダー", "ドラレコ", "購入ガイド", "カーセキュリティ", "比較"]
+
+  - pin_id: best-dash-cam-2026-ja-06
+    article_slug: best-dash-cam-2026
+    locale: ja
+    variant: scene
+    title: "駐車監視モードの実態：常時電源配線 vs バッテリーパック、一晩持つか？"
+    description: |
+      USB給電のドラレコ駐車監視は3〜6時間でバッテリーが上がる。常時電源配線（ヒューズから分岐）なら安全電圧でカットオフするため車両バッテリーが上がらない。BlackVueはクラウド通知でインシデントをリモート確認可能。マンション駐車場や市街地の駐車場でのドアパンチが心配なら、リア駐車監視付きの前後2カメラが現実的な選択。
+    link: "https://pickly.blog/ja/articles/best-dash-cam-2026/"
+    image_alt: "ドライブレコーダー 駐車監視モードガイド"
+    hashtags: ["ドライブレコーダー", "ドラレコ", "駐車監視", "BlackVue", "カーセキュリティ"]
+
+  # --- best-cast-iron-pan-2026 ---
+
+  - pin_id: best-cast-iron-pan-2026-en-01
+    article_slug: best-cast-iron-pan-2026
+    locale: en
+    variant: comparison
+    title: "Cast iron pan 2026: Lodge L8SK3 vs Le Creuset vs Staub vs Iwachu compared"
+    description: |
+      Lodge L8SK3 is pre-seasoned American cast iron at ~¥4,000 — raw iron that improves with use. Le Creuset and Staub are enameled cast iron that never needs seasoning but can't handle acidic foods for long periods without enamel damage. Iwachu nambu ironware from Iwate Prefecture is thinner and lighter than Lodge, with better heat distribution for Japanese cooking techniques.
+    link: "https://pickly.blog/en/articles/best-cast-iron-pan-2026/"
+    image_alt: "Cast iron pan 2026 comparison"
+    hashtags: ["castiron", "cookware", "lodge", "lecreusetskillet", "cooking"]
+
+  - pin_id: best-cast-iron-pan-2026-en-02
+    article_slug: best-cast-iron-pan-2026
+    locale: en
+    variant: top1
+    title: "The cast iron pan most home cooks should start with"
+    description: |
+      Lodge L8SK3 10.25" is the benchmark: pre-seasoned at the factory, induction compatible, oven safe to 260°C, and available everywhere. At ~¥4,000, it will outlast every other pan in your kitchen. The rough texture smooths with use and regular cooking. For someone building a kitchen from scratch or replacing a worn non-stick, this is the single pan that handles searing, baking, and campfire cooking.
+    link: "https://pickly.blog/en/articles/best-cast-iron-pan-2026/"
+    image_alt: "Lodge cast iron skillet best 2026"
+    hashtags: ["castiron", "lodge", "cookware", "cooking", "mealprep"]
+
+  - pin_id: best-cast-iron-pan-2026-en-03
+    article_slug: best-cast-iron-pan-2026
+    locale: en
+    variant: problem
+    title: "Cast iron rusted overnight — what went wrong and how to fix it in 20 minutes"
+    description: |
+      Cast iron rusts when water sits on bare metal — storing it wet or washing with soap that strips seasoning are the two main causes. Rust removal takes a steel scrub, dish soap, and 5 minutes. Re-seasoning takes 20 minutes in an oven at 200°C with a thin coat of flaxseed or vegetable oil. The pan is not ruined. We walk through the full recovery process for a pan that looks destroyed.
+    link: "https://pickly.blog/en/articles/best-cast-iron-pan-2026/"
+    image_alt: "Cast iron rust removal guide"
+    hashtags: ["castiron", "cookware", "maintenance", "cooking", "lodge"]
+
+  - pin_id: best-cast-iron-pan-2026-en-04
+    article_slug: best-cast-iron-pan-2026
+    locale: en
+    variant: budget
+    title: "Why a ¥4,000 Lodge outlasts a ¥40,000 non-stick in total cost of ownership"
+    description: |
+      Quality non-stick pans need replacement every 3-5 years as the coating degrades. A Lodge cast iron pan at ¥4,000 lasts indefinitely with basic care. Over 20 years, the cost difference is 4-8 replacement non-stick pans versus one Lodge. The trade-off is weight (2.4kg vs 800g) and the learning curve of cast iron maintenance. For anyone who keeps a pan longer than 5 years, cast iron wins the math.
+    link: "https://pickly.blog/en/articles/best-cast-iron-pan-2026/"
+    image_alt: "Cast iron vs non-stick cost comparison"
+    hashtags: ["castiron", "lodge", "cookware", "budget", "cooking"]
+
+  - pin_id: best-cast-iron-pan-2026-en-05
+    article_slug: best-cast-iron-pan-2026
+    locale: en
+    variant: avoid
+    title: "Cast iron pans that look premium but have quality control problems"
+    description: |
+      Cheap cast iron from off-brand manufacturers uses thinner walls with inconsistent thickness — hot spots form and the pan warps over high heat. Enamel chips on budget enameled cast iron are a safety concern (the chip is small iron fragments into food). Decorative cast iron with paint finishes that are not food-safe are sold alongside legitimate cookware. We identify the quality signals that separate durable pans from showpieces.
+    link: "https://pickly.blog/en/articles/best-cast-iron-pan-2026/"
+    image_alt: "Cast iron pan quality guide what to avoid"
+    hashtags: ["castiron", "cookware", "buyingguide", "cooking", "tips"]
+
+  - pin_id: best-cast-iron-pan-2026-en-06
+    article_slug: best-cast-iron-pan-2026
+    locale: en
+    variant: scene
+    title: "Japanese nambu ironware: why Iwachu cast iron is different from Lodge"
+    description: |
+      Iwachu ironware from Morioka, Iwate Prefecture has been made since the Edo period. The casting technique produces thinner walls (1.5-2mm vs Lodge's 4mm) with more even heat distribution, at the cost of being more fragile under impact. Nambu tetsubin teakettles are the most famous product, but the skillets are increasingly popular with chefs who want cast iron weight benefits without the heft of American foundry iron.
+    link: "https://pickly.blog/en/articles/best-cast-iron-pan-2026/"
+    image_alt: "Iwachu nambu ironware Japanese cast iron"
+    hashtags: ["castiron", "iwachu", "nambuit", "japaneseironware", "cooking"]
+
+  - pin_id: best-cast-iron-pan-2026-ja-01
+    article_slug: best-cast-iron-pan-2026
+    locale: ja
+    variant: comparison
+    title: "鉄フライパン2026：Lodge L8SK3 vs ル・クルーゼ vs ストウブ vs 岩鋳 比較"
+    description: |
+      Lodge L8SK3は約4,000円のシーズニング済みアメリカ産鋳鉄 — 使うほど育つ素地鉄。ル・クルーゼとストウブはエナメル加工でシーズニング不要だが長時間の酸性食材調理はエナメルにダメージを与える。南部鉄器（岩鋳）はLodgeより薄く軽量で、日本の調理技法に適した熱分布特性を持つ。
+    link: "https://pickly.blog/ja/articles/best-cast-iron-pan-2026/"
+    image_alt: "鉄フライパン 2026年比較"
+    hashtags: ["鉄フライパン", "南部鉄器", "ル・クルーゼ", "ストウブ", "料理"]
+
+  - pin_id: best-cast-iron-pan-2026-ja-02
+    article_slug: best-cast-iron-pan-2026
+    locale: ja
+    variant: top1
+    title: "家庭料理に最初の1枚として選ばれる鋳鉄フライパン"
+    description: |
+      Lodge L8SK3 10.25"（約4,000円）がスタンダード：工場出荷時シーズニング済み、IH対応、260℃まで耐熱。台所で最も長持ちするフライパン。使い込むほど表面がなめらかになる。ノンスティック不要になる肉の焼き付け・オーブン料理・アウトドア調理まで1枚でこなす。
+    link: "https://pickly.blog/ja/articles/best-cast-iron-pan-2026/"
+    image_alt: "Lodge鋳鉄スキレット 2026年1位"
+    hashtags: ["鉄フライパン", "Lodge", "スキレット", "料理", "IH対応"]
+
+  - pin_id: best-cast-iron-pan-2026-ja-03
+    article_slug: best-cast-iron-pan-2026
+    locale: ja
+    variant: problem
+    title: "鉄フライパンが一晩で錆びた — 原因と20分で完全回復する方法"
+    description: |
+      鋳鉄は素地に水分が残ると錆びる — 濡れたまま保管、またはシーズニングを剥がす洗剤使用が主因。錆の除去はたわし＋食器用洗剤で5分。その後200℃オーブンでフラックスシードオイル薄塗り20分でシーズニング回復。フライパンは捨てなくていい。外見上「廃棄レベル」に見える状態からの完全回復手順を解説。
+    link: "https://pickly.blog/ja/articles/best-cast-iron-pan-2026/"
+    image_alt: "鉄フライパン 錆取り・シーズニング回復ガイド"
+    hashtags: ["鉄フライパン", "南部鉄器", "シーズニング", "料理", "メンテナンス"]
+
+  - pin_id: best-cast-iron-pan-2026-ja-04
+    article_slug: best-cast-iron-pan-2026
+    locale: ja
+    variant: budget
+    title: "4,000円のLodgeが40,000円のテフロンより生涯コストで安い理由"
+    description: |
+      フッ素樹脂コーティングのフライパンは3〜5年でコーティングが劣化し買い替えが必要。Lodge鋳鉄（約4,000円）は適切なケアで半永久的に使える。20年で比較すると4〜8回の買い替えコスト vs Lodge1枚のコスト。トレードオフは重さ（2.4kg vs 800g）とメンテナンス習慣。5年以上同じフライパンを使う人には鋳鉄が経済合理的。
+    link: "https://pickly.blog/ja/articles/best-cast-iron-pan-2026/"
+    image_alt: "鉄フライパン vs テフロン コスト比較"
+    hashtags: ["鉄フライパン", "Lodge", "コスパ", "料理", "キッチン"]
+
+  - pin_id: best-cast-iron-pan-2026-ja-05
+    article_slug: best-cast-iron-pan-2026
+    locale: ja
+    variant: avoid
+    title: "見た目は高級でも品質管理に問題がある鉄フライパン"
+    description: |
+      ノーブランドの安価な鋳鉄は肉厚が薄く不均一で、高温加熱でホットスポットや歪みが発生する。低価格なエナメル鋳鉄のチッピングは食材への鉄片混入リスクがある。食品安全基準を満たさない塗料仕上げのものも流通している。耐久性のある調理器具と見せかけのショーピースを見分けるポイントを整理。
+    link: "https://pickly.blog/ja/articles/best-cast-iron-pan-2026/"
+    image_alt: "鉄フライパン 品質ガイド 避けるべきもの"
+    hashtags: ["鉄フライパン", "スキレット", "購入ガイド", "料理", "比較"]
+
+  - pin_id: best-cast-iron-pan-2026-ja-06
+    article_slug: best-cast-iron-pan-2026
+    locale: ja
+    variant: scene
+    title: "南部鉄器とLodgeの違い：岩鋳スキレットがアメリカ産鋳鉄と異なる理由"
+    description: |
+      岩手県盛岡の岩鋳は江戸時代から続く南部鉄器の老舗。鋳造技術により肉厚1.5〜2mm（Lodgeの4mm比）で均一な熱分布を実現する一方、衝撃に対してはやや繊細。南部鉄瓶が最も有名だが、アメリカ産の重厚感を持ちながらより軽量な鋳鉄を求めるシェフの間でスキレットも支持が広がっている。
+    link: "https://pickly.blog/ja/articles/best-cast-iron-pan-2026/"
+    image_alt: "南部鉄器 岩鋳スキレット ガイド"
+    hashtags: ["南部鉄器", "岩鋳", "鉄フライパン", "日本の鋳鉄", "料理"]
