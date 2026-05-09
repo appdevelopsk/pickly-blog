@@ -9583,6 +9583,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-rogue-knee-sleeves-5mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Knee+Sleeves+5mm%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Wrist Wraps (best-wrist-wraps-for-lifting-2026) ─────────
+  {
+    id: "schiek-wrist-wraps-24inch",
+    category: "fitness",
+    name: { en: "Schiek Sports Model 1100WRP Wrist Wraps 24\"", ja: "Schiek Sports モデル 1100WRP リストラップ 24インチ" },
+    description: {
+      en: "24-inch cotton/elastic blend wraps with thumb loop, stiff support panel, and hook-and-loop closure. Schiek's flagship wrist wrap — the benchmark for powerlifting and bodybuilding gymgoers who need consistent rigid support on heavy pressing days.",
+      ja: "24インチのコットン/エラスティックブレンドラップ、サムループ付き、スティッフサポートパネル、マジックテープ留め。Schieckのフラッグシップリストラップ——重い日のプレス種目で安定したリジッドサポートを求めるパワーリフター・ボディビルダーの基準モデル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0000C6T1E", rawUrl: "https://www.amazon.co.jp/dp/B0000C6T1E", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-schiek-wrist-wraps-24inch", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSchiek+Wrist+Wraps+24inch%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harbinger-21525-wrist-wraps",
+    category: "fitness",
+    name: { en: "Harbinger Unisex Polypropylene Wrist Wraps 20\"", ja: "Harbinger ユニセックス ポリプロピレン リストラップ 20インチ" },
+    description: {
+      en: "20-inch polypropylene wraps with adjustable thumb loop and hook-and-loop closure. Flexible yet supportive — best entry-level wrist wrap for general gym training, bench press, and overhead pressing.",
+      ja: "20インチのポリプロピレンラップ、調整可能なサムループ、マジックテープ留め。柔軟性と保護性を兼ね備え——一般ジムトレーニング、ベンチプレス、オーバーヘッドプレス向け最優秀エントリーモデル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0000C6TOG", rawUrl: "https://www.amazon.co.jp/dp/B0000C6TOG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-harbinger-21525-wrist-wraps", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarbinger+Wrist+Wraps+20inch%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-signature-gold-wrist-wraps",
+    category: "fitness",
+    name: { en: "Titan Signature Gold Wrist Wrap", ja: "Titan Signature Gold リストラップ" },
+    description: {
+      en: "Heavy-duty cotton blend with non-slip velcro closure, 24-inch length, maximum stiffness for competition powerlifting. IPF-approved for equipped and raw divisions. The go-to for lifters benching 140kg+.",
+      ja: "ノンスリップベルクロ留め付きヘビーデューティーコットンブレンド、24インチ長、競技パワーリフティング向け最大剛性。IPF公認、装備・ロー部門対応。140kg超えベンチプレスリフターの定番。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BEGJQPE", rawUrl: "https://www.amazon.co.jp/dp/B00BEGJQPE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-signature-gold-wrist-wraps", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Signature+Gold+Wrist+Wrap%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-wrist-wraps",
+    category: "fitness",
+    name: { en: "Rogue Fitness Wrist Wraps", ja: "Rogue Fitness リストラップ" },
+    description: {
+      en: "Cotton/elastic blend, 18-inch length, moderate stiffness suitable for both strength training and Olympic lifting. Made in Columbus, Ohio. Balanced support for lifters who rotate between barbell pressing and overhead work.",
+      ja: "コットン/エラスティックブレンド、18インチ長、筋力トレーニングとオリンピックリフティング両対応の適度な剛性。オハイオ州コロンバス製。バーベルプレスとオーバーヘッド系を行き来するリフター向けバランス型サポート。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07BGWZQNK", rawUrl: "https://www.amazon.co.jp/dp/B07BGWZQNK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-wrist-wraps", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Wrist+Wraps%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sbd-wrist-wraps-competition",
+    category: "fitness",
+    name: { en: "SBD Wrist Wraps (Competition)", ja: "SBD リストラップ (コンペティション)" },
+    description: {
+      en: "45cm or 60cm length options, maximum-stiffness woven cotton blend, IPF-approved. Worn at more IPF World Championship bench press attempts than any other wrap. Built for lifters who want the same wrap at the gym as at the meet.",
+      ja: "45cmまたは60cmの長さ選択、最大剛性の織り綿ブレンド、IPF公認。他のどのラップよりも多くのIPF世界選手権ベンチプレス挑戦で使用。ジムと試合で同じラップを使いたいリフター向けに設計。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08GTTN8XP", rawUrl: "https://www.amazon.co.jp/dp/B08GTTN8XP", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sbd-wrist-wraps-competition", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSBD+Wrist+Wraps+Competition%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Dutch Ovens (best-dutch-oven-2026) ─────────
+  {
+    id: "le-creuset-dutch-oven-5qt",
+    category: "food",
+    name: { en: "Le Creuset Signature Round Dutch Oven 5.5qt", ja: "ル・クルーゼ シグネチャー ラウンド ダッチオーブン 5.5qt" },
+    description: {
+      en: "~¥60,000-¥80,000. 5.5qt (5.2L) enameled cast iron, colorfast exterior enamel, sand-colored interior enamel for easy browning visibility, tight-fitting lid with large stainless knob. Lifetime warranty. The reference enameled Dutch oven by which all others are judged.",
+      ja: "約6〜8万円。5.5qt（5.2L）ホーロー鋳鉄、色あせしない外面エナメル、焼き色が見やすいサンドカラーの内面エナメル、大型ステンレスノブの密閉蓋付き。生涯保証。他の全てが比較対象とする基準のエナメルダッチオーブン。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00006IUWM", rawUrl: "https://www.amazon.co.jp/dp/B00006IUWM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-le-creuset-dutch-oven-5qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLe%2BCreuset%2BDutch%2BOven%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lodge-enameled-dutch-oven-6qt",
+    category: "food",
+    name: { en: "Lodge 6 Quart Enameled Cast Iron Dutch Oven", ja: "Lodge 6クォート ホーロー鋳鉄ダッチオーブン" },
+    description: {
+      en: "~¥8,000-¥12,000. 6qt (5.7L) enameled cast iron, porcelain enamel on cast iron, available in multiple colors, oven-safe to 260°C. The most accessible enameled Dutch oven price point — delivers Le Creuset-style performance at a fraction of the cost.",
+      ja: "約8,000〜12,000円。6qt（5.7L）ホーロー鋳鉄、複数カラー展開、260°Cまでオーブン対応。ル・クルーゼ相当の調理性能を圧倒的なコストで実現する最も手軽なエナメルダッチオーブン。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001A3O1OA", rawUrl: "https://www.amazon.co.jp/dp/B001A3O1OA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-lodge-enameled-dutch-oven-6qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%2BEnameled%2BCast%2BIron%2BDutch%2BOven%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "staub-cocotte-5qt",
+    category: "food",
+    name: { en: "Staub Cast Iron Round Cocotte 5.5qt", ja: "ストウブ 鋳鉄 ラウンドココット 5.5qt" },
+    description: {
+      en: "~¥55,000-¥75,000. 5.5qt (5.2L) enameled cast iron, matte black enamel interior with self-basting spike lid, graphite-black matte exterior. The Staub cocotte's interior develops a patina over time that enhances searing performance — preferred by professional kitchens over Le Creuset for stovetop browning.",
+      ja: "約5.5〜7.5万円。5.5qt（5.2L）ホーロー鋳鉄、スパイク付き自己給水蓋のマットブラック内面エナメル、グラファイトブラックマット外面。使うほど育つパティナが焼き付け性能を高めるため、コンロ調理でストウブを好むプロの厨房が多い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BWQM9EK", rawUrl: "https://www.amazon.co.jp/dp/B00BWQM9EK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-staub-cocotte-5qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStaub%2BCocotte%2BRound%2B5qt%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-chef-classic-dutch-oven",
+    category: "food",
+    name: { en: "Cuisinart Chef's Classic Enameled Cast Iron 7qt", ja: "クイジナート シェフズクラシック エナメル鋳鉄 7qt" },
+    description: {
+      en: "~¥12,000-¥18,000. 7qt (6.6L) enameled cast iron, porcelain enamel exterior and interior, wide loop side handles, oven-safe to 260°C. Largest capacity Dutch oven in this comparison — the right pick for families of four or more cooking soups, stews, and chilis in single batches.",
+      ja: "約12,000〜18,000円。7qt（6.6L）ホーロー鋳鉄、内外面磁器エナメル、ワイドループサイドハンドル、260°Cまでオーブン対応。このリストで最大容量 — スープ・シチュー・チリを1バッチで作る4人以上の家族に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0000631WU", rawUrl: "https://www.amazon.co.jp/dp/B0000631WU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cuisinart-chef-classic-dutch-oven", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BEnameled%2BCast%2BIron%2BDutch%2BOven%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tramontina-enameled-dutch-oven",
+    category: "food",
+    name: { en: "Tramontina Enameled Cast Iron Covered Round Dutch Oven 6.5qt", ja: "トラモンティーナ ホーロー鋳鉄 カバード ラウンドダッチオーブン 6.5qt" },
+    description: {
+      en: "~¥10,000-¥15,000. 6.5qt (6.1L) enameled cast iron, porcelain enamel exterior and interior, compatible with all cooktops including induction. Brazil-made enameled cast iron that consistently outperforms its price tier — widely recommended as the best Le Creuset alternative under 15,000 yen.",
+      ja: "約10,000〜15,000円。6.5qt（6.1L）ホーロー鋳鉄、内外面磁器エナメル、IH含む全熱源対応。ブラジル製でありながら価格帯を上回る性能で一貫した評価を得る — 15,000円以下のル・クルーゼ代替として広く推薦されるモデル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0082OVM9E", rawUrl: "https://www.amazon.co.jp/dp/B0082OVM9E", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tramontina-enameled-dutch-oven", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTramontina%2BEnameled%2BCast%2BIron%2BDutch%2BOven%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
