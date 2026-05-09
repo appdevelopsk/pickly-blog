@@ -7286,6 +7286,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-vinsguir-ab-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%96%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2B%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2B%E8%85%B9%E7%AD%8B%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "ippodo-matcha-ummon",
+    category: "food",
+    name: { en: "Ippodo Matcha Ummon", ja: "一保堂 抹茶 雲門" },
+    description: {
+      en: "Ceremonial grade matcha from Kyoto's most respected tea house, founded 1717. Vivid green color, umami-forward with natural sweetness.",
+      ja: "1717年創業、京都屈指の老舗茶舗・一保堂の抹茶グレード。鮮やかな緑色と旨味、自然な甘みが特徴の儀式用抹茶。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-ippodo-matcha-ummon", rawUrl: "https://www.amazon.co.jp/s?k=%E4%B8%80%E4%BF%9D%E5%A0%82+%E6%8A%B9%E8%8C%B6+%E9%9B%B2%E9%96%80", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ippodo-matcha-ummon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%80%E4%BF%9D%E5%A0%82%2B%E6%8A%B9%E8%8C%B6%2B%E9%9B%B2%E9%96%80%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "encha-ceremonial-matcha",
+    category: "food",
+    name: { en: "Encha Ceremonial Organic Matcha", ja: "Encha 宇治産オーガニック抹茶（儀式用グレード）" },
+    description: {
+      en: "USDA organic certified, single-origin from Uji, Japan. First-harvest option available. Resealable foil pouch for freshness.",
+      ja: "USDAオーガニック認証、宇治産シングルオリジン。一番茶あり。酸化を防ぐ再封可能フォイルポーチ入り。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-encha-ceremonial-matcha", rawUrl: "https://www.amazon.co.jp/s?k=encha+%E5%AE%87%E6%B2%BB+%E6%8A%B9%E8%8C%B6+%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-encha-ceremonial-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEncha%2B%E6%8A%B9%E8%8C%B6%2B%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jade-leaf-ceremonial-matcha",
+    category: "food",
+    name: { en: "Jade Leaf Organic Ceremonial Matcha", ja: "Jade Leaf オーガニック抹茶（儀式用グレード）" },
+    description: {
+      en: "Popular mid-range ceremonial matcha, USDA organic, widely available on Amazon. Consistent quality across batches. Available in 30g, 70g, and bulk.",
+      ja: "人気のミドルレンジ抹茶グレード。USDAオーガニック認証済み。Amazonで安定調達可能。30g・70g・バルクサイズあり。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-jade-leaf-ceremonial-matcha", rawUrl: "https://www.amazon.co.jp/s?k=jade+leaf+%E6%8A%B9%E8%8C%B6+%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-jade-leaf-ceremonial-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJade+Leaf%2B%E6%8A%B9%E8%8C%B6%2B%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "matcha-konomi-uji",
+    category: "food",
+    name: { en: "Matcha Konomi Uji Ceremonial", ja: "抹茶このみ 宇治産 儀式用グレード" },
+    description: {
+      en: "Small-batch, farm-direct from Uji. Transparent harvest dates and growing methods. Deep emerald color, clean grassy-sweet flavor.",
+      ja: "宇治の農家と直接契約したスモールバッチ。収穫日・栽培方法の透明性が高い。深いエメラルド色とクリーンな草・甘みのフレーバー。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-matcha-konomi-uji", rawUrl: "https://www.amazon.co.jp/s?k=%E6%8A%B9%E8%8C%B6+%E5%AE%87%E6%B2%BB%E7%94%A3+%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%E3%83%90%E3%83%83%E3%83%81", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-matcha-konomi-uji", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%8A%B9%E8%8C%B6%2B%E5%AE%87%E6%B2%BB%E7%94%A3%2B%E7%A2%BE%E8%8C%B6%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tenzo-matcha",
+    category: "food",
+    name: { en: "Tenzo Matcha", ja: "Tenzo 抹茶" },
+    description: {
+      en: "Subscription-friendly ceremonial grade matcha. Lower per-serving cost than heritage brands. Clean flavor, bright color. Single-serve packets available.",
+      ja: "定期便でお得な抹茶グレード。老舗ブランドより低コスト。クリーンな風味と適切な明るさの色。個包装タイプもあり。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-tenzo-matcha", rawUrl: "https://www.amazon.co.jp/s?k=tenzo+%E6%8A%B9%E8%8C%B6+%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tenzo-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTenzo%2B%E6%8A%B9%E8%8C%B6%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Fitness / Battle Ropes (best-battle-rope-2026) ─────────
+  {
+    id: "power-guidance-battle-rope",
+    category: "fitness",
+    name: { en: "Power Guidance Battle Rope", ja: "パワーガイダンス バトルロープ" },
+    description: {
+      en: "Woven polyester sleeve protects core rope from fraying, heat-shrink end caps, available in 1.5\" and 2\" diameters, 30–50 ft lengths",
+      ja: "織り込みポリエステルスリーブでほつれを防止、熱収縮エンドキャップ、直径1.5インチ・2インチ、長さ30〜50フィート展開",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-power-guidance-battle-rope", rawUrl: "https://www.amazon.co.jp/s?k=Power+Guidance+Battle+Rope", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-power-guidance-battle-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%88%E3%83%AB%E3%83%AD%E3%83%BC%E3%83%97%2B%E3%83%9D%E3%83%AA%E3%82%A8%E3%82%B9%E3%83%86%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "garage-fit-battle-rope",
+    category: "fitness",
+    name: { en: "Garage Fit Battle Ropes", ja: "ガレージフィット バトルロープ" },
+    description: {
+      en: "Dacron polyester for superior abrasion resistance, tightest heat-shrink handles in class, non-fray nylon end caps, 30–50 ft options",
+      ja: "耐摩耗性に優れたダクロンポリエステル素材、クラス最高密着の熱収縮ハンドル、ナイロン製ほつれ防止エンドキャップ、30〜50フィート展開",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-garage-fit-battle-rope", rawUrl: "https://www.amazon.co.jp/s?k=Garage+Fit+Battle+Rope+Dacron", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-garage-fit-battle-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%88%E3%83%AB%E3%83%AD%E3%83%BC%E3%83%97%2B%E3%83%80%E3%82%AF%E3%83%AD%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "vigor-ground-battle-rope",
+    category: "fitness",
+    name: { en: "VIGOR GROUND Battle Rope", ja: "ヴィゴーグラウンド バトルロープ" },
+    description: {
+      en: "Dacron polyester construction with pre-installed foam handle wraps for reduced hand fatigue, available in 30, 40, and 50 ft lengths",
+      ja: "ダクロンポリエステル素材、手の疲労を軽減するフォームハンドル巻き付け済み、30・40・50フィート展開",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-vigor-ground-battle-rope", rawUrl: "https://www.amazon.co.jp/s?k=VIGOR+GROUND+Battle+Rope+foam+handle", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-vigor-ground-battle-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%88%E3%83%AB%E3%83%AD%E3%83%BC%E3%83%97%2B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "champion-sports-battle-rope",
+    category: "fitness",
+    name: { en: "Champion Sports Battle Rope", ja: "チャンピオンスポーツ バトルロープ" },
+    description: {
+      en: "Commercial-grade construction for school and gym use, heavy-duty reinforced ends, optimized for multiple daily users",
+      ja: "学校・商業ジム向けコマーシャルグレード構造、強化エンド採用、複数ユーザーの毎日使用に最適化",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-champion-sports-battle-rope", rawUrl: "https://www.amazon.co.jp/s?k=Champion+Sports+Battle+Rope+commercial", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-champion-sports-battle-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%88%E3%83%AB%E3%83%AD%E3%83%BC%E3%83%97%2B%E3%82%B8%E3%83%A0%E7%94%A8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zeiser-battle-rope",
+    category: "fitness",
+    name: { en: "ZEISER Battle Rope", ja: "ザイザー バトルロープ" },
+    description: {
+      en: "Complete kit including anchor strap and storage bag, Dacron construction with foam handle wraps, best all-in-one value for home gym",
+      ja: "アンカーストラップと収納バッグ付属のオールインワンキット、ダクロン素材にフォームハンドル、ホームジム向けコスパ最強",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-zeiser-battle-rope", rawUrl: "https://www.amazon.co.jp/s?k=ZEISER+Battle+Rope+anchor+strap", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-zeiser-battle-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%88%E3%83%AB%E3%83%AD%E3%83%BC%E3%83%97%2B%E3%82%BB%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
