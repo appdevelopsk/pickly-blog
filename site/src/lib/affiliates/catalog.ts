@@ -7819,6 +7819,138 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-bare-bones-broth", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBare+Bones%2B%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%96%E3%83%AD%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "vital-proteins-collagen",
+    category: "food",
+    name: { en: "Vital Proteins Collagen Peptides", ja: "Vital Proteins コラーゲンペプチド" },
+    description: {
+      en: "Market-leading hydrolyzed bovine collagen peptides (Type I & III), 20g per serving, unflavored — dissolves completely in cold or hot beverages without altering taste",
+      ja: "市場トップの加水分解ウシコラーゲンペプチド（タイプI・III）、1食20g、無香料——冷温どちらの飲み物にも完全に溶け味を変えない",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-vital-proteins-collagen", rawUrl: "https://www.amazon.co.jp/s?k=Vital+Proteins+collagen+peptides", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-vital-proteins-collagen", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVital+Proteins%2B%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "garden-of-life-collagen",
+    category: "food",
+    name: { en: "Garden of Life Grass Fed Collagen", ja: "Garden of Life グラスフェッドコラーゲン" },
+    description: {
+      en: "USDA certified organic, NSF certified for sport, grass-fed bovine collagen (Type I & III) 20g + probiotics — the most verified collagen supplement in the category",
+      ja: "USDA有機認証、NSFスポーツ認証、グラスフェッドウシコラーゲン（タイプI・III）20g＋プロバイオティクス——カテゴリー最高水準の認証を誇るコラーゲンサプリ",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-garden-of-life-collagen", rawUrl: "https://www.amazon.co.jp/s?k=Garden+of+Life+collagen+grass+fed", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-garden-of-life-collagen", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarden+of+Life%2B%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ancient-nutrition-collagen",
+    category: "food",
+    name: { en: "Ancient Nutrition Multi-Collagen Protein", ja: "Ancient Nutrition マルチコラーゲンプロテイン" },
+    description: {
+      en: "5 collagen types from 4 animal sources (bovine, chicken, fish, eggshell membrane) with a bone broth protein base — 20g collagen protein per serving",
+      ja: "4種の動物原料（牛・鶏・魚・卵殻膜）から5タイプのコラーゲンをボーンブロスプロテインベースで配合——1食20gのコラーゲンプロテイン",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-ancient-nutrition-collagen", rawUrl: "https://www.amazon.co.jp/s?k=Ancient+Nutrition+multi+collagen+protein", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ancient-nutrition-collagen", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAncient+Nutrition%2B%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sports-research-collagen",
+    category: "food",
+    name: { en: "Sports Research Collagen Peptides", ja: "Sports Research コラーゲンペプチド" },
+    description: {
+      en: "BSCG certified, pasture-raised grass-fed bovine collagen (Type I & III), 11g per scoop — third-party tested, strong value among certified options",
+      ja: "BSCG認証、牧草飼育グラスフェッドウシコラーゲン（タイプI・III）、1スクープ11g——第三者検査済み、認証品の中でも最高コスパ",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-sports-research-collagen", rawUrl: "https://www.amazon.co.jp/s?k=Sports+Research+collagen+peptides", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sports-research-collagen", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSports+Research%2B%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bulletproof-collagen",
+    category: "food",
+    name: { en: "Bulletproof Collagen Protein", ja: "Bulletproof コラーゲンプロテイン" },
+    description: {
+      en: "Keto-friendly, pasture-raised bovine collagen (Type I & III), 18g per serving, no detectable flavor in black coffee — optimized for daily coffee integration",
+      ja: "ケトフレンドリー、牧草飼育ウシコラーゲン（タイプI・III）、1食18g、ブラックコーヒーで無味——毎朝のコーヒー習慣への統合に最適化",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-bulletproof-collagen", rawUrl: "https://www.amazon.co.jp/s?k=Bulletproof+collagen+protein", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bulletproof-collagen", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBulletproof%2B%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Fitness / Plyometric Boxes (best-plyometric-box-2026) ─────────
+  {
+    id: "rogue-foam-plyo-box",
+    category: "fitness",
+    name: { en: "Rogue Foam Plyo Box", ja: "Rogue フォームプライオボックス" },
+    description: {
+      en: "Soft foam exterior that compresses on contact rather than cutting skin — stackable design, wide base for step-ups and split squats. Best shin-safe plyo box for athletes training near their jump limit.",
+      ja: "接触時に肌を切るのではなく圧縮するソフトフォーム外装——スタッカブル設計、ステップアップやスプリットスクワット向けの広いベース。ジャンプ限界付近で練習するアスリートに最適なスネ対応プライオボックス。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-rogue-foam-plyo-box", rawUrl: "https://www.amazon.co.jp/s?k=Rogue+Foam+Plyo+Box+%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-foam-plyo-box", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%2B%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-foam-plyo-box",
+    category: "fitness",
+    name: { en: "Rep Fitness Foam Plyo Box", ja: "Rep Fitness フォームプライオボックス" },
+    description: {
+      en: "3-in-1 heights (16/20/24 inches) in a single unit — rotate orientation to change height. Removable washable cover, foam exterior for shin safety. Best value foam plyo box for athletes topping out at 24 inches.",
+      ja: "1台で3高さ（16/20/24インチ）——向きを変えるだけで高さ切り替え。着脱・洗濯可能カバー、スネ対応フォーム外装。24インチ以内のトレーニングに最もコスパの高いフォームプライオボックス。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-rep-fitness-foam-plyo-box", rawUrl: "https://www.amazon.co.jp/s?k=Rep+Fitness+Foam+Plyo+Box+3in1", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-fitness-foam-plyo-box", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRep+Fitness%2B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%2B%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jfit-adjustable-plyo-box",
+    category: "fitness",
+    name: { en: "JFIT Adjustable Plyo Box", ja: "JFIT 調整式プライオボックス" },
+    description: {
+      en: "Internal mechanism adjusts and locks platform height without repositioning the unit — ideal for progressive height training in a single-box format. Non-slip surface, mid-range price.",
+      ja: "内部機構でユニットを動かさずにプラットフォーム高さを調整・ロック——一台完結で段階的高さトレーニングに最適。滑り止め表面、中価格帯。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-jfit-adjustable-plyo-box", rawUrl: "https://www.amazon.co.jp/s?k=JFIT+Adjustable+Plyo+Box+%E8%AA%BF%E6%95%B4%E5%BC%8F%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-jfit-adjustable-plyo-box", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJFIT%2B%E8%AA%BF%E6%95%B4%E5%BC%8F%2B%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-fitness-plyo-box",
+    category: "fitness",
+    name: { en: "Titan Fitness Wooden Plyo Box", ja: "Titan Fitness ウッドプライオボックス" },
+    description: {
+      en: "Solid wood construction, 3 heights via orientation, high weight capacity. Grip-textured platform surface. Best for loaded step-ups, box squats, and athletes with established landing mechanics.",
+      ja: "無垢材構造、向き変えで3高さ、高耐荷重。グリップテクスチャのプラットフォーム表面。ローデッドステップアップ・ボックススクワット・着地メカニクスが確立したアスリートに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-titan-fitness-plyo-box", rawUrl: "https://www.amazon.co.jp/s?k=Titan+Fitness+Wooden+Plyo+Box+%E3%82%A6%E3%83%83%E3%83%89%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-fitness-plyo-box", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness%2B%E3%82%A6%E3%83%83%E3%83%89%2B%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yes4all-foam-plyo-box",
+    category: "fitness",
+    name: { en: "Yes4All Stackable Foam Plyo Box", ja: "Yes4All 積み重ね式フォームプライオボックス" },
+    description: {
+      en: "Color-coded heights, stackable design, soft foam exterior — lowest entry price for a skin-friendly jumping surface. Best for home cardio conditioning and beginner jump progressions.",
+      ja: "カラーコード高さ・スタッカブル設計・ソフトフォーム外装——スキンフレンドリーな跳躍面への最安値エントリー。ホームカーディオと初級ジャンプのプログレッションに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-yes4all-foam-plyo-box", rawUrl: "https://www.amazon.co.jp/s?k=Yes4All+Foam+Plyo+Box+%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-yes4all-foam-plyo-box", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All%2B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%2B%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
