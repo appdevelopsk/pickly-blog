@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 93 articles x 6 variants x 2 locales (en, ja) = 1124 pins (growing)
+# 95 articles x 6 variants x 2 locales (en, ja) = 1148 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -12584,3 +12584,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-hiking-boots-2026/"
     image_alt: "登山靴 トレイル別 選び方 ガイド 2026"
     hashtags: ["登山靴", "トレイルギア", "アウトドア", "ハイキングガイド", "山歩き"]
+
+  # ── #94 best-luggage-2026 ────────────────────────────────────────────────
+  - pin_id: best-luggage-2026-en-01
+    article_slug: best-luggage-2026
+    locale: en
+    variant: comparison
+    title: "Best Carry-On Luggage 2026: 5 Suitcases Compared"
+    description: |
+      Away The Carry-On vs Samsonite Omni PC vs Travelpro Platinum Elite vs Rimowa Essential vs AmazonBasics Hardside. Spinner quality, hardshell vs softshell, TSA locks, weight, and airline size compliance — every spec that matters when you're racing to the gate.
+    link: "https://pickly.blog/en/articles/best-luggage-2026/"
+    image_alt: "best carry-on luggage 2026 comparison 5 suitcases"
+    hashtags: ["CarryOnLuggage", "TravelGear", "Suitcase", "TravelTips", "PackingTips"]
+
+  - pin_id: best-luggage-2026-en-02
+    article_slug: best-luggage-2026
+    locale: en
+    variant: top1
+    title: "Away The Carry-On: Best Premium Hardshell Suitcase 2026"
+    description: |
+      Hinomoto spinner wheels (the smoothest in this comparison), compression system that buys you an extra 2 inches of packing space, and a built-in TSA lock. At $295, it's expensive — but the polycarbonate shell and warranty make it a one-time purchase for most travelers.
+    link: "https://pickly.blog/en/articles/best-luggage-2026/"
+    image_alt: "Away The Carry-On hardshell suitcase premium 2026"
+    hashtags: ["AwayLuggage", "CarryOn", "TravelGear", "Suitcase", "TravelEssentials"]
+
+  - pin_id: best-luggage-2026-en-03
+    article_slug: best-luggage-2026
+    locale: en
+    variant: problem
+    title: "Why Your Suitcase Gets Gate-Checked Every Single Time"
+    description: |
+      Most carry-on bags are 1–2 cm over the official limit and airlines enforce it when overhead bins are full. Flimsy spinner wheels wobble on jet bridges and wear down fast. No TSA lock = suitcase cut open at customs. Soft shell deforms under overhead bin stacking. Size matters more than brand.
+    link: "https://pickly.blog/en/articles/best-luggage-2026/"
+    image_alt: "carry-on luggage gate check problem airline size limit"
+    hashtags: ["TravelFail", "CarryOnLuggage", "TravelTips", "GateCheck", "PackingMistakes"]
+
+  - pin_id: best-luggage-2026-en-04
+    article_slug: best-luggage-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Carry-On 2026: Samsonite Omni PC at $110"
+    description: |
+      Samsonite's Macro-Tex polycarbonate shell at $110 delivers the brand's reliability at mid-range price. Multi-directional spinner wheels, integrated TSA lock, 10-year warranty. Not as light as Rimowa, not as smooth as Away — but it's Samsonite at half the price of premium picks.
+    link: "https://pickly.blog/en/articles/best-luggage-2026/"
+    image_alt: "Samsonite Omni PC carry-on budget suitcase 2026"
+    hashtags: ["BudgetLuggage", "SamsoniteOmni", "CarryOn", "TravelGear", "TravelDeals"]
+
+  - pin_id: best-luggage-2026-en-05
+    article_slug: best-luggage-2026
+    locale: en
+    variant: avoid
+    title: "5 Carry-On Mistakes That Cost You Time at the Airport"
+    description: |
+      Buying by price alone: $40 spinners shed wheels by trip 3. Ignoring official airline dimensions: 1 cm over = gate check. Choosing 4-wheel over 2-wheel for cobblestones: spinners get stuck. No TSA lock: customs cuts it. Heavy bag before packing: 6.5 lb empty leaves almost nothing for clothes.
+    link: "https://pickly.blog/en/articles/best-luggage-2026/"
+    image_alt: "carry-on luggage mistakes avoid airport suitcase guide"
+    hashtags: ["LuggageMistakes", "CarryOn", "TravelTips", "TravelGear", "BuyingGuide"]
+
+  - pin_id: best-luggage-2026-en-06
+    article_slug: best-luggage-2026
+    locale: en
+    variant: scene
+    title: "Which Carry-On Suitcase for Your Travel Style?"
+    description: |
+      Frequent business flier → Travelpro Platinum Elite (pro-grade spinner, durability first). Premium minimalist → Away Carry-On (best wheels, compression system). Luxury → Rimowa Essential (lightest at 5.5 lb). Best value → Samsonite Omni PC. Occasional trip → AmazonBasics at $75.
+    link: "https://pickly.blog/en/articles/best-luggage-2026/"
+    image_alt: "carry-on luggage which to buy travel style guide 2026"
+    hashtags: ["CarryOnLuggage", "TravelGear", "Suitcase", "TravelGuide", "PackingGuide"]
+
+  - pin_id: best-luggage-2026-ja-01
+    article_slug: best-luggage-2026
+    locale: ja
+    variant: comparison
+    title: "機内持ち込みスーツケースおすすめ2026：5製品を本気で比較"
+    description: |
+      Away・Samsonite Omni PC・Travelpro Platinum Elite・Rimowa Essential・AmazonBasicsを容量・スピナー品質・重量・TSAロック・航空会社サイズ基準で比較。出発ゲートで止められない1台がわかる。
+    link: "https://pickly.blog/ja/articles/best-luggage-2026/"
+    image_alt: "機内持ち込み スーツケース おすすめ 2026 比較"
+    hashtags: ["スーツケース", "機内持ち込み", "旅行グッズ", "おすすめ", "旅行準備"]
+
+  - pin_id: best-luggage-2026-ja-02
+    article_slug: best-luggage-2026
+    locale: ja
+    variant: top1
+    title: "Away The Carry-On：プレミアム機内持ち込みスーツケースの決定版"
+    description: |
+      日野本スピナーホイール（最高のスムーズさ）、圧縮システム、内蔵TSAロック搭載。$295（約45,000円）と高めだが、ポリカーボネートシェルと保証で「一生もの」に近い耐久性。頻繁に旅行する人の1台目に最適。
+    link: "https://pickly.blog/ja/articles/best-luggage-2026/"
+    image_alt: "Away The Carry-On スーツケース プレミアム 機内持ち込み 2026"
+    hashtags: ["Away スーツケース", "機内持ち込み", "旅行グッズ", "プレミアム", "スーツケース"]
+
+  - pin_id: best-luggage-2026-ja-03
+    article_slug: best-luggage-2026
+    locale: ja
+    variant: problem
+    title: "なぜあなたのスーツケースは毎回ゲートチェックされるのか"
+    description: |
+      多くの機内持ち込みバッグは規定より1〜2cm大きく、満席便では強制チェックイン。安いスピナーはボーディングブリッジで傾き早期摩耗。TSAロックなし → 税関で切断。ソフトシェルは棚の重みで変形。サイズとホイール品質がブランドより重要。
+    link: "https://pickly.blog/ja/articles/best-luggage-2026/"
+    image_alt: "スーツケース ゲートチェック 問題 機内持ち込み サイズ"
+    hashtags: ["旅行 失敗", "スーツケース", "機内持ち込み", "ゲートチェック", "旅行準備"]
+
+  - pin_id: best-luggage-2026-ja-04
+    article_slug: best-luggage-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強スーツケース2026：Samsonite Omni PC 約17,000円"
+    description: |
+      SamsoniteのMacro-Texポリカーボネートシェルをコスパ価格で。4方向スピナー・TSAロック内蔵・10年保証。Rimowaほど軽くなく、Awayほどホイールが滑らかではないが、Samsoniteブランドをプレミアム価格の半額で手に入れられる。
+    link: "https://pickly.blog/ja/articles/best-luggage-2026/"
+    image_alt: "Samsonite Omni PC スーツケース コスパ 機内持ち込み 2026"
+    hashtags: ["コスパスーツケース", "Samsonite", "機内持ち込み", "旅行グッズ", "格安"]
+
+  - pin_id: best-luggage-2026-ja-05
+    article_slug: best-luggage-2026
+    locale: ja
+    variant: avoid
+    title: "空港で時間を無駄にするスーツケース選びの5つのミス"
+    description: |
+      価格だけで選ぶ：5,000円のスピナーは3回目でホイール脱落。公式サイズを無視：1cmオーバーで満席便はチェックイン強制。石畳でスピナー：4輪は引っかかる。TSAロックなし：税関で切断される。空重量が重すぎる：3kg超では荷物が入らない。
+    link: "https://pickly.blog/ja/articles/best-luggage-2026/"
+    image_alt: "スーツケース 失敗 選び方 注意点 機内持ち込み"
+    hashtags: ["スーツケース 失敗", "旅行準備", "機内持ち込み", "旅行グッズ", "選び方"]
+
+  - pin_id: best-luggage-2026-ja-06
+    article_slug: best-luggage-2026
+    locale: ja
+    variant: scene
+    title: "旅行スタイル別：機内持ち込みスーツケースの選び方"
+    description: |
+      出張多い → Travelpro Platinum Elite（プロ仕様スピナー・耐久性優先）。プレミアムミニマリスト → Away Carry-On（最高ホイール・圧縮システム）。ラグジュアリー → Rimowa Essential（最軽量2.5kg）。コスパ重視 → Samsonite Omni PC。たまの旅 → AmazonBasics。
+    link: "https://pickly.blog/ja/articles/best-luggage-2026/"
+    image_alt: "スーツケース 旅行スタイル別 選び方 ガイド 2026"
+    hashtags: ["スーツケース", "機内持ち込み", "旅行ガイド", "旅行グッズ", "パッキング"]
+
+  # ── #95 best-running-watch-2026 ──────────────────────────────────────────
+  - pin_id: best-running-watch-2026-en-01
+    article_slug: best-running-watch-2026
+    locale: en
+    variant: comparison
+    title: "Best Running Watches 2026: Garmin vs Coros vs Apple vs Polar"
+    description: |
+      Garmin Forerunner 265 vs Coros Pace 3 vs Apple Watch Series 9 vs Polar Pacer Pro vs Garmin Forerunner 55. GPS accuracy, optical heart rate, battery life, training load analysis — everything that separates a useful running tool from a wrist decoration.
+    link: "https://pickly.blog/en/articles/best-running-watch-2026/"
+    image_alt: "best running watches 2026 Garmin Coros Apple Polar comparison"
+    hashtags: ["RunningWatch", "GPS Watch", "Garmin", "RunningGear", "TrainingTech"]
+
+  - pin_id: best-running-watch-2026-en-02
+    article_slug: best-running-watch-2026
+    locale: en
+    variant: top1
+    title: "Garmin Forerunner 265: Best Running Watch for Serious Recreational Runners"
+    description: |
+      Multi-band GPS, Elevate v4 HR sensor, AMOLED display, and 13-day battery in smartwatch mode. Training Readiness and HRV Status give actionable recovery data. At $450, it's not cheap — but it's the most complete running computer at this price without crossing into triathlon territory.
+    link: "https://pickly.blog/en/articles/best-running-watch-2026/"
+    image_alt: "Garmin Forerunner 265 running watch GPS AMOLED 2026"
+    hashtags: ["GarminForerunner265", "RunningWatch", "GPS", "RunningGear", "TrainingTech"]
+
+  - pin_id: best-running-watch-2026-en-03
+    article_slug: best-running-watch-2026
+    locale: en
+    variant: problem
+    title: "Why Your Running Watch GPS Data Might Be Lying to You"
+    description: |
+      Single-band GPS can be 50–200m off in urban canyons and dense tree cover. Optical HR lags during interval surges — often 15–30 seconds behind real heart rate. Most watches measure training load differently; Garmin TSS and Polar Training Load Pro aren't comparable. Know your watch's limitations.
+    link: "https://pickly.blog/en/articles/best-running-watch-2026/"
+    image_alt: "running watch GPS accuracy problems heart rate lag"
+    hashtags: ["RunningWatch", "GPS Accuracy", "RunningTips", "TrainingTech", "HeartRate"]
+
+  - pin_id: best-running-watch-2026-en-04
+    article_slug: best-running-watch-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Running Watch 2026: Garmin Forerunner 55 at $200"
+    description: |
+      Single-band GPS, basic training plans, run/walk alerts, and 20-day battery for $200. The Forerunner 55 is the only watch in this comparison that a true beginner can pick up and immediately understand. Limited training load features — when you outgrow it, move to the 265.
+    link: "https://pickly.blog/en/articles/best-running-watch-2026/"
+    image_alt: "Garmin Forerunner 55 budget running watch beginner 2026"
+    hashtags: ["BudgetRunningWatch", "GarminForerunner55", "RunningGear", "BeginnerRunning", "GPS"]
+
+  - pin_id: best-running-watch-2026-en-05
+    article_slug: best-running-watch-2026
+    locale: en
+    variant: avoid
+    title: "4 Running Watch Mistakes That Mislead Your Training"
+    description: |
+      Trusting indoor treadmill GPS: it's using the accelerometer, not satellites. Racing with optical HR only: 30-second lag makes interval data meaningless. Ignoring battery mode tradeoffs: "always-on GPS" kills a 7-day watch in 12 hours. Using Apple Watch for ultra-distance: 18 hours isn't enough.
+    link: "https://pickly.blog/en/articles/best-running-watch-2026/"
+    image_alt: "running watch mistakes GPS training data misleading"
+    hashtags: ["RunningMistakes", "RunningWatch", "TrainingTips", "GPS", "RunningGear"]
+
+  - pin_id: best-running-watch-2026-en-06
+    article_slug: best-running-watch-2026
+    locale: en
+    variant: scene
+    title: "Which Running Watch for Your Training Level?"
+    description: |
+      Serious recreational runner → Garmin Forerunner 265 (multi-band GPS, AMOLED). Ultra-distance / battery priority → Coros Pace 3 (38-hr GPS). iPhone user, casual runner → Apple Watch Series 9. Heart rate data obsessed → Polar Pacer Pro (best optical HR). First GPS watch → Garmin Forerunner 55.
+    link: "https://pickly.blog/en/articles/best-running-watch-2026/"
+    image_alt: "running watch guide which to buy training level 2026"
+    hashtags: ["RunningWatch", "RunningGear", "GPS", "TrainingGuide", "RunningTips"]
+
+  - pin_id: best-running-watch-2026-ja-01
+    article_slug: best-running-watch-2026
+    locale: ja
+    variant: comparison
+    title: "ランニングウォッチおすすめ2026：ガーミンvsコロスvsアップルvsポラール"
+    description: |
+      Garmin Forerunner 265・Coros Pace 3・Apple Watch Series 9・Polar Pacer Pro・Garmin Forerunner 55をGPS精度・光学心拍・バッテリー・トレーニング負荷分析で比較。レベル別の最適解がわかる。
+    link: "https://pickly.blog/ja/articles/best-running-watch-2026/"
+    image_alt: "ランニングウォッチ おすすめ 2026 ガーミン コロス 比較"
+    hashtags: ["ランニングウォッチ", "おすすめ", "ガーミン", "GPS", "ランニングギア"]
+
+  - pin_id: best-running-watch-2026-ja-02
+    article_slug: best-running-watch-2026
+    locale: ja
+    variant: top1
+    title: "Garmin Forerunner 265：本気ランナーのベストGPSウォッチ"
+    description: |
+      マルチバンドGPS・Elevate v4心拍センサー・AMOLED画面・スマートウォッチモード13日バッテリーを搭載。Training ReadinessとHRV Statusで回復状態を数値化。$450（約70,000円）だが、この価格帯で最も完成度の高いランニングコンピューター。
+    link: "https://pickly.blog/ja/articles/best-running-watch-2026/"
+    image_alt: "Garmin Forerunner 265 ランニングウォッチ GPS AMOLED 2026"
+    hashtags: ["GarminForerunner265", "ランニングウォッチ", "GPS", "ランニングギア", "トレーニング"]
+
+  - pin_id: best-running-watch-2026-ja-03
+    article_slug: best-running-watch-2026
+    locale: ja
+    variant: problem
+    title: "ランニングウォッチのGPSデータが正確でない理由"
+    description: |
+      シングルバンドGPSは高層ビル街や木陰で50〜200mの誤差が出る。光学心拍はインターバル急加速時に15〜30秒遅延する。各ブランドのトレーニング負荷指標は互換性なし——ガーミンとポラールの数値は比較不可。自分のウォッチの限界を知ることが正確なトレーニングの第一歩。
+    link: "https://pickly.blog/ja/articles/best-running-watch-2026/"
+    image_alt: "ランニングウォッチ GPS 精度 問題 心拍 遅延"
+    hashtags: ["ランニングウォッチ", "GPS 精度", "ランニング", "トレーニング", "心拍計"]
+
+  - pin_id: best-running-watch-2026-ja-04
+    article_slug: best-running-watch-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強ランニングウォッチ2026：Garmin Forerunner 55 約31,000円"
+    description: |
+      シングルバンドGPS・基本トレーニングプラン・ラン/ウォークアラート・20日バッテリーで入門価格。このリスト唯一の「初日から直感的に使える」ウォッチ。トレーニング負荷機能は限定的——成長したら265へステップアップできる。
+    link: "https://pickly.blog/ja/articles/best-running-watch-2026/"
+    image_alt: "Garmin Forerunner 55 ランニングウォッチ コスパ 入門 2026"
+    hashtags: ["コスパ ランニングウォッチ", "GarminForerunner55", "ランニングギア", "ランニング 入門", "GPS"]
+
+  - pin_id: best-running-watch-2026-ja-05
+    article_slug: best-running-watch-2026
+    locale: ja
+    variant: avoid
+    title: "トレーニングデータを狂わせるランニングウォッチの4つのミス"
+    description: |
+      トレッドミルでGPSを信頼する：実際は加速度計で推定。光学心拍だけでレース：インターバルデータが30秒遅延で無意味。バッテリーモードを無視：常時GPSは7日ウォッチを12時間で枯渇。Apple Watchでウルトラ：18時間は100kmには足りない。
+    link: "https://pickly.blog/ja/articles/best-running-watch-2026/"
+    image_alt: "ランニングウォッチ 失敗 GPS 心拍 トレーニングデータ"
+    hashtags: ["ランニング 失敗", "ランニングウォッチ", "トレーニング", "GPS", "ランニングギア"]
+
+  - pin_id: best-running-watch-2026-ja-06
+    article_slug: best-running-watch-2026
+    locale: ja
+    variant: scene
+    title: "レベル別：あなたに合うランニングウォッチの選び方"
+    description: |
+      本気の市民ランナー → Garmin Forerunner 265（マルチバンドGPS・AMOLED）。超長距離・バッテリー優先 → Coros Pace 3（GPS38時間）。iPhoneユーザー・週末ラン → Apple Watch Series 9。心拍データ重視 → Polar Pacer Pro（最高精度光学HR）。初めてのGPS → Garmin Forerunner 55。
+    link: "https://pickly.blog/ja/articles/best-running-watch-2026/"
+    image_alt: "ランニングウォッチ レベル別 選び方 ガイド 2026"
+    hashtags: ["ランニングウォッチ", "ランニングギア", "GPS", "トレーニングガイド", "ランニング"]
