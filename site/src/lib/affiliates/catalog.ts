@@ -5441,6 +5441,128 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-lux-fit-foam-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC+%E5%88%9D%E5%BF%83%E8%80%85%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Food / Cast Iron Skillets (best-cast-iron-skillet-2026) ─────────
+  {
+    id: "lodge-cast-iron-skillet",
+    category: "food",
+    name: { en: "Lodge L10SK3 12-Inch Cast Iron Skillet", ja: "ロッジ 12インチ スキレット" },
+    description: {
+      en: "Pre-seasoned, 12-inch (30cm), dual handle, oven/induction/campfire safe, industry benchmark. 3.8 kg with rough foundry texture that improves over months of cooking.",
+      ja: "シーズニング済み、30cm、補助ハンドル付き、オーブン/IH/直火対応、定番スキレット。3.8 kg、調理を重ねるごとに育つ砂型鋳造面。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-lodge-cast-iron-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "le-creuset-signature-skillet",
+    category: "food",
+    name: { en: "Le Creuset Signature Enameled Cast Iron Skillet", ja: "ル・クルーゼ シグネチャー ホーロースキレット" },
+    description: {
+      en: "Enameled cast iron, no seasoning required, handles acidic dishes freely, 15+ color options, oven-safe to 260°C. Premium price reflects brand and zero-maintenance ownership.",
+      ja: "ホーロー鋳鉄、シーズニング不要、酸性料理対応、15色以上のカラー展開、260℃まで対応。高価格にはブランドとメンテナンスフリーの所有体験が含まれる。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-le-creuset-signature-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AB%E3%83%BB%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%BC+%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "field-company-no8-skillet",
+    category: "food",
+    name: { en: "Field Company No.8 Cast Iron Skillet", ja: "フィールドカンパニー No.8 スキレット" },
+    description: {
+      en: "Lightweight machined-smooth cast iron at approx 1.8 kg — half the weight of a Lodge 12-inch. Machined surface develops seasoning faster than rough foundry texture. Best pick for weight-sensitive cooks.",
+      ja: "約1.8 kgの軽量機械研磨面スキレット──ロッジ30cmの半分の重さ。機械研磨面は砂型鋳造面よりシーズニングが早く育つ。重量に悩む料理人に最適。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-field-company-no8-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88+%E8%BB%BD%E9%87%8F%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "camp-chef-cast-iron-skillet",
+    category: "food",
+    name: { en: "Camp Chef 12-Inch Cast Iron Skillet with Dual Handle", ja: "キャンプシェフ 12インチ ダブルハンドル スキレット" },
+    description: {
+      en: "Factory pre-seasoned, dual helper handles for stovetop-to-oven transport, campfire and induction safe. Comparable quality to Lodge at competitive price.",
+      ja: "工場プレシーズニング済み、コンロからオーブンへの移動が楽なダブルハンドル、直火とIH対応。ロッジ同等の品質でコスト効率が良い。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-camp-chef-cast-iron-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B7%E3%82%A7%E3%83%95+%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "victoria-cast-iron-skillet",
+    category: "food",
+    name: { en: "Victoria 10-Inch Cast Iron Skillet", ja: "ビクトリア 10インチ スキレット" },
+    description: {
+      en: "Budget pre-seasoned entry point, 10-inch (26cm), seasoned with flaxseed oil, approx 2.3 kg. Made in Colombia. Best value for solo or couple households at lowest price in this comparison.",
+      ja: "低コストのプレシーズニング入門機、26cm、亜麻仁油シーズニング、約2.3 kg。コロンビア製。このリストで最安値、1〜2人世帯に最適。",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-victoria-cast-iron-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88+%E9%89%84%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Insulated Water Bottles (best-insulated-water-bottle-2026) ─────────
+  {
+    id: "hydro-flask-wide-mouth",
+    category: "fitness",
+    name: { en: "Hydro Flask Wide Mouth Bottle 32oz", ja: "ハイドロフラスク ワイドマウス 32oz" },
+    description: {
+      en: "Double-wall vacuum insulation, 24h cold/12h hot, wide mouth fits ice cubes, Pro-Grade stainless",
+      ja: "二重真空断熱、24時間保冷/12時間保温、氷が入るワイドマウス、プログレードステンレス",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-hydro-flask-wide-mouth", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AD%E3%83%95%E3%83%A9%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "stanley-quencher-tumbler",
+    category: "fitness",
+    name: { en: "Stanley Quencher H2.0 Tumbler 30oz", ja: "スタンレー クエンチャー H2.0 タンブラー 30oz" },
+    description: {
+      en: "Straw-lid tumbler with handle, car-cup-holder compatible, spill-resistant, 24h cold vacuum insulation",
+      ja: "ストロー蓋タンブラー、ハンドル付き、車のカップホルダー対応、こぼれにくい設計、24時間保冷真空断熱",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-stanley-quencher", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%AC%E3%83%BC+%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yeti-rambler-bottle",
+    category: "fitness",
+    name: { en: "Yeti Rambler Bottle 26oz", ja: "Yeti ランブラー ボトル 26oz" },
+    description: {
+      en: "Commercial-grade 18/8 stainless, DuraCoat finish, double-wall vacuum, 5-year warranty, No Sweat design",
+      ja: "商業用グレード18/8ステンレス、DuraCoat仕上げ、二重真空断熱、5年保証、結露なし設計",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-yeti-rambler", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYeti+%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nalgene-silo-bottle",
+    category: "fitness",
+    name: { en: "Nalgene Silo 32oz Wide Mouth Bottle", ja: "ナルゲン サイロ 32oz ワイドマウスボトル" },
+    description: {
+      en: "Lightweight 113g BPA-free Tritan plastic, wide mouth, dishwasher-safe, non-insulated hiker's gram-counter pick",
+      ja: "軽量113g BPAフリー Tritanプラスチック、ワイドマウス、食器洗浄機対応、断熱なし・登山グラム重視派向け",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-nalgene-silo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8A%E3%83%AB%E3%82%B2%E3%83%B3+%E3%83%9C%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "camelbak-chute-mag",
+    category: "fitness",
+    name: { en: "CamelBak Chute Mag Insulated 25oz", ja: "CamelBak チュートマグ 断熱 25oz" },
+    description: {
+      en: "Magnetic flip lid stays open during pour, 25oz stainless vacuum insulation, hiker-designed, one-hand cap",
+      ja: "注ぐ際に磁石で蓋が開いたまま保持、25ozステンレス真空断熱、ハイカー設計、片手キャップ操作",
+    },
+    links: [
+      { network: "moshimo", productId: "rakuten-camelbak-chute-mag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCamelBak+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
