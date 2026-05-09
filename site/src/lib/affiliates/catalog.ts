@@ -7556,6 +7556,136 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-spindrift-sparkling-water", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%9E%9C%E6%B1%81%E5%85%A5%E3%82%8A%2B%E7%82%AD%E9%85%B8%E6%B0%B4%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "chobani-plain-nonfat",
+    category: "food",
+    name: { en: "Chobani Plain Non-Fat Greek Yogurt", ja: "チョバーニ プレーン 無脂肪 ギリシャヨーグルト" },
+    description: {
+      en: "Market-leading Greek yogurt with 15g protein per cup, clean 3-ingredient formula, thick texture, no added sugar",
+      ja: "1カップ15gタンパク質、原材料3つのシンプルな配合、濃厚な食感、添加糖なし。市場をリードするギリシャヨーグルト",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-chobani-plain-nonfat", rawUrl: "https://www.amazon.co.jp/s?k=chobani+greek+yogurt+plain+nonfat", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-chobani-plain-nonfat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%A7%E3%83%90%E3%83%BC%E3%83%8B%2B%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3%E3%83%A8%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fage-total-0",
+    category: "food",
+    name: { en: "Fage Total 0% Greek Yogurt", ja: "ファージ トータル0% ギリシャヨーグルト" },
+    description: {
+      en: "Authentic Greek-style, extra thick with 18–19g protein per serving, just 2 ingredients, no thickeners or additives",
+      ja: "本格ギリシャスタイル、1食18〜19gの高タンパク、原材料2つのみ、増粘剤・添加物なし",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-fage-total-0", rawUrl: "https://www.amazon.co.jp/s?k=fage+total+0+greek+yogurt", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fage-total-0", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B8%2B%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3%E3%83%A8%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oikos-triple-zero",
+    category: "food",
+    name: { en: "Oikos Triple Zero Greek Yogurt", ja: "オイコス トリプルゼロ ギリシャヨーグルト" },
+    description: {
+      en: "Zero added sugar, zero artificial sweeteners, zero fat — 15g protein per cup, sweetened with monk fruit",
+      ja: "添加糖ゼロ、人工甘味料ゼロ、脂肪ゼロ — 1カップ15gタンパク質、モンクフルーツで甘みづけ",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-oikos-triple-zero", rawUrl: "https://www.amazon.co.jp/s?k=oikos+triple+zero+greek+yogurt", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-oikos-triple-zero", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%82%A4%E3%82%B3%E3%82%B9%2B%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%82%BC%E3%83%AD%2B%E3%83%A8%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "stonyfield-organic-greek",
+    category: "food",
+    name: { en: "Stonyfield Organic Greek Yogurt", ja: "ストーニーフィールド オーガニック ギリシャヨーグルト" },
+    description: {
+      en: "USDA certified organic, grass-fed milk, 5 named live probiotic cultures, mild flavor with gentle tang",
+      ja: "USDAオーガニック認定、グラスフェッドミルク使用、5菌株の生きたプロバイオティクス、穏やかな酸味",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-stonyfield-organic-greek", rawUrl: "https://www.amazon.co.jp/s?k=stonyfield+organic+greek+yogurt", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-stonyfield-organic-greek", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%2B%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3%E3%83%A8%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "siggis-icelandic-yogurt",
+    category: "food",
+    name: { en: "Siggi's Icelandic-Style Yogurt (Skyr)", ja: "シッギーズ アイスランドスタイル ヨーグルト（スキル）" },
+    description: {
+      en: "Icelandic skyr style — very thick, very low sugar (8–9g total per cup), 17g protein, no artificial sweeteners",
+      ja: "アイスランドのスキルスタイル — 超濃厚、糖質が少ない（1カップあたり総計8〜9g）、タンパク質17g、人工甘味料なし",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-siggis-icelandic-yogurt", rawUrl: "https://www.amazon.co.jp/s?k=siggi%27s+icelandic+skyr+yogurt", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-siggis-icelandic-yogurt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%83%E3%82%AE%E3%83%BC%E3%82%BA%2B%E3%82%B9%E3%82%AD%E3%83%AB%2B%E3%83%A8%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "trx-go-suspension",
+    category: "fitness",
+    name: { en: "TRX GO Suspension Trainer", ja: "TRX GO サスペンショントレーナー" },
+    description: {
+      en: "Entry-level TRX at 1.4 lbs — pocket-size, door anchor included, 350 lb capacity. Authentic TRX quality for travel and occasional training.",
+      ja: "重量1.4ポンドの入門TRX——ポケットサイズ、ドアアンカー付属、耐荷重350ポンド。旅行・軽量トレーニング向けの本格TRX品質。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-trx-go-suspension", rawUrl: "https://www.amazon.co.jp/s?k=TRX+GO+%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-trx-go-suspension", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTRX+GO+%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "trx-pro4-suspension",
+    category: "fitness",
+    name: { en: "TRX PRO4 Suspension Trainer", ja: "TRX PRO4 サスペンショントレーナー" },
+    description: {
+      en: "Commercial-grade TRX with 1,400 lb capacity, door anchor, suspension anchor, and mesh bag. The benchmark suspension trainer for serious training.",
+      ja: "耐荷重1,400ポンドの業務グレードTRX。ドアアンカー・サスペンションアンカー・メッシュバッグ付属。本格トレーニングの基準モデル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-trx-pro4-suspension", rawUrl: "https://www.amazon.co.jp/s?k=TRX+PRO4+%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-trx-pro4-suspension", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTRX+PRO4+%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jungle-gym-xt",
+    category: "fitness",
+    name: { en: "Jungle Gym XT Suspension Trainer", ja: "ジャングルジム XT サスペンショントレーナー" },
+    description: {
+      en: "Split independent-arm design with carabiner clips — each arm moves freely for natural shoulder tracking. 400 lb capacity, no door anchor needed.",
+      ja: "カラビナクリップ式の左右独立アーム設計——各アームが自由に動き、自然な肩の追従を実現。耐荷重400ポンド、ドアアンカー不要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-jungle-gym-xt", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%B8%E3%83%A0+XT+%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-jungle-gym-xt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJungle+Gym+XT+%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nossk-twin-strap",
+    category: "fitness",
+    name: { en: "NOSSK Twin-Strap Suspension Trainer", ja: "NOSSK ツインストラップ サスペンショントレーナー" },
+    description: {
+      en: "Dual independent straps with carabiner clips, 250 lb capacity. Best value for independent-arm suspension training at home.",
+      ja: "カラビナクリップ式デュアル独立ストラップ、耐荷重250ポンド。自宅での独立アームサスペンショントレーニングをコスパ良く実現。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-nossk-twin-strap", rawUrl: "https://www.amazon.co.jp/s?k=NOSSK+%E3%83%84%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97+%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nossk-twin-strap", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNOSSK+%E3%83%84%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "monkii-bars-2",
+    category: "fitness",
+    name: { en: "Monkii Bars 2", ja: "モンキーバーズ 2" },
+    description: {
+      en: "Ultra-compact trainer at 3.5 oz per bar — spring-loaded clip attaches to branches, sign posts, or any object under 1.25\". 300 lb capacity. Built for travelers.",
+      ja: "1本あたり3.5オンスの超コンパクトトレーナー——スプリング式クリップで枝・標識ポスト・直径1.25インチ以下の任意の物体に装着。耐荷重300ポンド。旅行者向け設計。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-monkii-bars-2", rawUrl: "https://www.amazon.co.jp/s?k=Monkii+Bars+%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-monkii-bars-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMonkii+Bars+%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
