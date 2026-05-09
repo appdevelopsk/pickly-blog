@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 105 articles x 6 variants x 2 locales (en, ja) = 1268 pins (growing)
+# 107 articles x 6 variants x 2 locales (en, ja) = 1292 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -14180,3 +14180,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-yoga-block-2026/"
     image_alt: "ヨガブロック スタイル別 選び方 ガイド 2026"
     hashtags: ["ヨガブロック", "ヨガ", "ヨガギア", "ヨガ小道具", "ヨガガイド"]
+
+  # ── #106 best-meal-kit-delivery-2026 ────────────────────────────────────
+  - pin_id: best-meal-kit-delivery-2026-en-01
+    article_slug: best-meal-kit-delivery-2026
+    locale: en
+    variant: comparison
+    title: "Best Meal Kit Delivery 2026: HelloFresh vs Blue Apron vs Green Chef vs EveryPlate vs Sunbasket"
+    description: |
+      Five meal kit services compared on real price-per-serving, portion accuracy, recipe variety, packaging waste, and skip/pause ease. The service that looks cheapest at sign-up often isn't — the details that matter for weeknight cooking are buried in the fine print.
+    link: "https://pickly.blog/en/articles/best-meal-kit-delivery-2026/"
+    image_alt: "best meal kit delivery 2026 HelloFresh Blue Apron comparison"
+    hashtags: ["MealKit", "MealKitDelivery", "HomeCooked", "MealPrep", "FoodSubscription"]
+
+  - pin_id: best-meal-kit-delivery-2026-en-02
+    article_slug: best-meal-kit-delivery-2026
+    locale: en
+    variant: top1
+    title: "HelloFresh: Best Overall Meal Kit for Beginners 2026"
+    description: |
+      30–40 recipe options weekly, reliable portion sizes, 20–35-minute prep time on most meals. The recipes assume no culinary background — every technique is explained step by step. Not the cheapest per serving, but the one most likely to get cooked rather than wasted. Pause and skip anytime with 5 days' notice.
+    link: "https://pickly.blog/en/articles/best-meal-kit-delivery-2026/"
+    image_alt: "HelloFresh meal kit beginner best overall 2026"
+    hashtags: ["HelloFresh", "MealKit", "HomeCooked", "BeginnerCooking", "MealKitDelivery"]
+
+  - pin_id: best-meal-kit-delivery-2026-en-03
+    article_slug: best-meal-kit-delivery-2026
+    locale: en
+    variant: problem
+    title: "Why Meal Kits Cost More Than the Ad Price (And How to Calculate the Real Cost)"
+    description: |
+      The advertised $7.99/serving ignores shipping ($9–12/box), promotional discounts that expire, and portions sized for the average 2021 American plate — not realistic for athletes or large eaters. Actual weekly cost for 2 people, 3 meals: $70–100. The real question is whether it replaces takeout or replaces groceries.
+    link: "https://pickly.blog/en/articles/best-meal-kit-delivery-2026/"
+    image_alt: "meal kit real cost price per serving hidden fees"
+    hashtags: ["MealKitCost", "MealKit", "FoodBudget", "HomeCooked", "FoodSubscription"]
+
+  - pin_id: best-meal-kit-delivery-2026-en-04
+    article_slug: best-meal-kit-delivery-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Meal Kit 2026: EveryPlate from $4.99/serving"
+    description: |
+      EveryPlate's $4.99/serving is the lowest base price in this comparison — roughly half of Sunbasket. Fewer recipe choices (20/week) and simpler ingredients than competitors, but the cooking process is the same. Best for households that want to cook at home more often without overthinking dietary optimization.
+    link: "https://pickly.blog/en/articles/best-meal-kit-delivery-2026/"
+    image_alt: "EveryPlate budget meal kit affordable 2026"
+    hashtags: ["BudgetMealKit", "EveryPlate", "AffordableCooking", "MealKit", "HomeCooked"]
+
+  - pin_id: best-meal-kit-delivery-2026-en-05
+    article_slug: best-meal-kit-delivery-2026
+    locale: en
+    variant: avoid
+    title: "5 Meal Kit Mistakes That Lead to Wasted Food and Cancelled Subscriptions"
+    description: |
+      Ordering too many meals per week: 4 meals/week sounds good, until week 3 when you've run out of appetite for cooking. Not checking cutoff times: miss Wednesday cutoff = stuck with default recipes. No skip habit: travel + no skip = 3 boxes rotting in the fridge. Ignoring portion size fine print. Comparing intro vs ongoing prices.
+    link: "https://pickly.blog/en/articles/best-meal-kit-delivery-2026/"
+    image_alt: "meal kit mistakes waste cancel subscription tips"
+    hashtags: ["MealKitMistakes", "MealKit", "FoodWaste", "HomeCooked", "MealKitTips"]
+
+  - pin_id: best-meal-kit-delivery-2026-en-06
+    article_slug: best-meal-kit-delivery-2026
+    locale: en
+    variant: scene
+    title: "Which Meal Kit Delivery for Your Cooking Style?"
+    description: |
+      Never cooked → HelloFresh (most options, beginner-friendly). Want to improve cooking skills → Blue Apron (technique-forward). Organic / specific diet → Green Chef (keto, vegan, paleo). Budget first → EveryPlate ($4.99/serving). Clean ingredients matter → Sunbasket (non-GMO, organic sourcing).
+    link: "https://pickly.blog/en/articles/best-meal-kit-delivery-2026/"
+    image_alt: "meal kit guide which to choose cooking style 2026"
+    hashtags: ["MealKit", "HomeCooked", "MealKitDelivery", "CookingGuide", "FoodSubscription"]
+
+  - pin_id: best-meal-kit-delivery-2026-ja-01
+    article_slug: best-meal-kit-delivery-2026
+    locale: ja
+    variant: comparison
+    title: "ミールキット宅配おすすめ2026：HelloFresh vs Blue Apron vs Green Chef vs EveryPlate vs Sunbasket"
+    description: |
+      5サービスを実質的な1食あたりコスト・分量の正確さ・レシピバリエーション・包装廃棄物・スキップ柔軟性で比較。サインアップ時に安く見えるサービスが実際には最も高くつくことも。平日の料理に本当に重要な細部を詳しく解説。
+    link: "https://pickly.blog/ja/articles/best-meal-kit-delivery-2026/"
+    image_alt: "ミールキット 宅配 おすすめ 2026 HelloFresh Blue Apron 比較"
+    hashtags: ["ミールキット", "宅配", "おすすめ", "自炊", "フードサブスク"]
+
+  - pin_id: best-meal-kit-delivery-2026-ja-02
+    article_slug: best-meal-kit-delivery-2026
+    locale: ja
+    variant: top1
+    title: "HelloFresh：料理初心者に最適なミールキット2026"
+    description: |
+      毎週30〜40種類のレシピ、安定した分量、多くのメニューで調理20〜35分。料理の経験がない人でも全工程を丁寧に説明。1食あたり最安ではないが、「実際に作られる」確率が最も高いサービス。5日前までいつでも一時停止・スキップ可能。
+    link: "https://pickly.blog/ja/articles/best-meal-kit-delivery-2026/"
+    image_alt: "HelloFresh ミールキット 初心者 おすすめ 2026"
+    hashtags: ["HelloFresh", "ミールキット", "料理 初心者", "自炊", "宅配"]
+
+  - pin_id: best-meal-kit-delivery-2026-ja-03
+    article_slug: best-meal-kit-delivery-2026
+    locale: ja
+    variant: problem
+    title: "ミールキットが広告価格より高い本当の理由と実質コストの計算法"
+    description: |
+      宣伝の$7.99/食は送料（$9〜12/箱）を含まない。プロモーション割引には有効期限がある。分量は「平均的な食事量」で設定されていることが多い。2人×3食/週の実コストは週$70〜100。重要な問いは「外食の代替か、食材費の代替か」。
+    link: "https://pickly.blog/ja/articles/best-meal-kit-delivery-2026/"
+    image_alt: "ミールキット 実質コスト 送料 問題 計算"
+    hashtags: ["ミールキット コスト", "ミールキット", "食費", "自炊", "フードサブスク"]
+
+  - pin_id: best-meal-kit-delivery-2026-ja-04
+    article_slug: best-meal-kit-delivery-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強ミールキット2026：EveryPlate 約$4.99/食〜"
+    description: |
+      EveryPlateの$4.99/食はこのリスト最安値——Sunbasketの約半額。レシピ選択肢は少なめ（週20種）でシンプルな食材だが、調理プロセスは他サービスと同等。ダイエット最適化より「とにかく自炊を増やしたい」家庭に最高コスパ。
+    link: "https://pickly.blog/ja/articles/best-meal-kit-delivery-2026/"
+    image_alt: "EveryPlate ミールキット コスパ 格安 2026"
+    hashtags: ["コスパ ミールキット", "EveryPlate", "格安 自炊", "ミールキット", "宅配"]
+
+  - pin_id: best-meal-kit-delivery-2026-ja-05
+    article_slug: best-meal-kit-delivery-2026
+    locale: ja
+    variant: avoid
+    title: "食材廃棄と解約を招くミールキット利用の5つのミス"
+    description: |
+      最初から週4食注文：3週目に料理疲れが来る。締切日を確認しない：水曜締切を逃すとデフォルトメニューが届く。スキップ習慣なし：旅行中に3箱が冷蔵庫で腐る。分量の注意書きを読まない。入門価格と通常価格を比較しない。
+    link: "https://pickly.blog/ja/articles/best-meal-kit-delivery-2026/"
+    image_alt: "ミールキット 失敗 食材廃棄 解約 注意点"
+    hashtags: ["ミールキット 失敗", "フードロス", "宅配", "自炊", "サブスク 注意"]
+
+  - pin_id: best-meal-kit-delivery-2026-ja-06
+    article_slug: best-meal-kit-delivery-2026
+    locale: ja
+    variant: scene
+    title: "料理スタイル別：ミールキット宅配の選び方ガイド"
+    description: |
+      料理したことがない → HelloFresh（最多レシピ・初心者向け）。料理の腕を上げたい → Blue Apron（テクニック重視レシピ）。オーガニック/食事制限あり → Green Chef（ケト・ビーガン・パレオ対応）。予算最優先 → EveryPlate（$4.99/食〜）。クリーンな食材重視 → Sunbasket（非GMO・オーガニック調達）。
+    link: "https://pickly.blog/ja/articles/best-meal-kit-delivery-2026/"
+    image_alt: "ミールキット 料理スタイル別 選び方 ガイド 2026"
+    hashtags: ["ミールキット", "自炊", "宅配", "料理 ガイド", "フードサブスク"]
+
+  # ── #107 best-spin-bike-2026 ─────────────────────────────────────────────
+  - pin_id: best-spin-bike-2026-en-01
+    article_slug: best-spin-bike-2026
+    locale: en
+    variant: comparison
+    title: "Best Spin Bikes 2026: Peloton vs Schwinn IC4 vs NordicTrack vs Bowflex vs Sunny Health"
+    description: |
+      Five indoor cycling bikes compared on flywheel weight, magnetic vs friction resistance, connected features, seat and handlebar adjustability, subscription costs, and floor footprint. From $299 no-frills to $1,445 live-class streaming — the spec that matters most depends entirely on how you actually plan to use it.
+    link: "https://pickly.blog/en/articles/best-spin-bike-2026/"
+    image_alt: "best spin bikes 2026 Peloton Schwinn NordicTrack comparison"
+    hashtags: ["SpinBike", "IndoorCycling", "HomeGym", "CardioEquipment", "FitnessGear"]
+
+  - pin_id: best-spin-bike-2026-en-02
+    article_slug: best-spin-bike-2026
+    locale: en
+    variant: top1
+    title: "Peloton Bike: Best Connected Spin Bike for Live-Class Experience 2026"
+    description: |
+      21.5-inch HD touchscreen, 16 kg flywheel, silent magnetic resistance, and access to the Peloton library of live and on-demand classes. At $1,445 + $44/month membership, it's the most expensive in this comparison — but it's also the only one with a community and instructor quality that rivals a boutique studio.
+    link: "https://pickly.blog/en/articles/best-spin-bike-2026/"
+    image_alt: "Peloton Bike connected spin bike live classes 2026"
+    hashtags: ["PelotonBike", "SpinBike", "IndoorCycling", "HomeGym", "ConnectedFitness"]
+
+  - pin_id: best-spin-bike-2026-en-03
+    article_slug: best-spin-bike-2026
+    locale: en
+    variant: problem
+    title: "Why Most Spin Bikes Become Expensive Clothes Hangers After Month 2"
+    description: |
+      Friction resistance wears pads in 6–12 months. No screen = no structure = no motivation after the novelty wears off. Seats that don't fit your sit bones cause pain within 20 minutes. Flywheels under 15 kg feel jerky at high cadence. The bike that gets used is the one that's comfortable and provides a reason to get on it.
+    link: "https://pickly.blog/en/articles/best-spin-bike-2026/"
+    image_alt: "spin bike unused clothes hanger motivation problem"
+    hashtags: ["SpinBikeFail", "IndoorCycling", "HomeGym", "FitnessTips", "CardioMotivation"]
+
+  - pin_id: best-spin-bike-2026-en-04
+    article_slug: best-spin-bike-2026
+    locale: en
+    variant: budget
+    title: "Best Budget Spin Bike 2026: Sunny Health SF-B1002 at $299"
+    description: |
+      Sunny Health SF-B1002 has a 49 lb flywheel (heaviest in this comparison), friction resistance, and a basic LCD display for $299. No screen, no app integration — just a solid mechanical ride. At 180 lb flywheel capacity, it accommodates most riders. Best for people who want an honest cardio tool without subscription costs.
+    link: "https://pickly.blog/en/articles/best-spin-bike-2026/"
+    image_alt: "Sunny Health SF-B1002 budget spin bike 2026"
+    hashtags: ["BudgetSpinBike", "SunnyHealth", "IndoorCycling", "HomeGym", "CardioEquipment"]
+
+  - pin_id: best-spin-bike-2026-en-05
+    article_slug: best-spin-bike-2026
+    locale: en
+    variant: avoid
+    title: "5 Spin Bike Buying Mistakes That Cost You Money and Motivation"
+    description: |
+      Ignoring flywheel weight: under 14 kg feels choppy at high cadence. Friction over magnetic: pads wear out and create maintenance costs. Forgetting subscription: a connected bike without a subscription is just an expensive dumbbell. Skipping the seat: stock seats are torture — budget $30 for a padded cover. Not measuring space: most bikes need 4 ft × 2 ft minimum.
+    link: "https://pickly.blog/en/articles/best-spin-bike-2026/"
+    image_alt: "spin bike mistakes flywheel subscription seat avoid"
+    hashtags: ["SpinBikeMistakes", "IndoorCycling", "HomeGym", "FitnessTips", "CardioEquipment"]
+
+  - pin_id: best-spin-bike-2026-en-06
+    article_slug: best-spin-bike-2026
+    locale: en
+    variant: scene
+    title: "Which Spin Bike for Your Home Gym Setup?"
+    description: |
+      Live classes + community → Peloton Bike ($1,445 + $44/month). Best value connected → Schwinn IC4 (18 kg flywheel, app-compatible). Incline training → NordicTrack S22i (-10%–+20% grade). Budget connected → Bowflex VeloCore 16. Pure mechanics, no subscription → Sunny Health SF-B1002 ($299).
+    link: "https://pickly.blog/en/articles/best-spin-bike-2026/"
+    image_alt: "spin bike guide which to buy home gym 2026"
+    hashtags: ["SpinBike", "HomeGym", "IndoorCycling", "CardioEquipment", "FitnessGuide"]
+
+  - pin_id: best-spin-bike-2026-ja-01
+    article_slug: best-spin-bike-2026
+    locale: ja
+    variant: comparison
+    title: "スピンバイクおすすめ2026：Peloton vs Schwinn IC4 vs NordicTrack vs Bowflex vs Sunny Health"
+    description: |
+      5台をフライホイール重量・磁気vs摩擦抵抗・コネクテッド機能・シート調整性・サブスクコスト・設置面積で比較。$299のシンプル機から$1,445のライブクラス対応まで——どのスペックが重要かは使い方次第。
+    link: "https://pickly.blog/ja/articles/best-spin-bike-2026/"
+    image_alt: "スピンバイク おすすめ 2026 Peloton Schwinn NordicTrack 比較"
+    hashtags: ["スピンバイク", "おすすめ", "インドアサイクリング", "ホームジム", "有酸素運動"]
+
+  - pin_id: best-spin-bike-2026-ja-02
+    article_slug: best-spin-bike-2026
+    locale: ja
+    variant: top1
+    title: "Peloton Bike：ライブクラス体験最高のスピンバイク2026"
+    description: |
+      21.5インチHDタッチスクリーン・16kgフライホイール・静音磁気抵抗・ライブ＆オンデマンドクラスライブラリ。$1,445＋月額$44のサブスクは最高価格だが、ブティックスタジオに匹敵するインストラクター品質とコミュニティを提供する唯一の選択肢。
+    link: "https://pickly.blog/ja/articles/best-spin-bike-2026/"
+    image_alt: "Peloton Bike スピンバイク ライブクラス コネクテッド 2026"
+    hashtags: ["PelotonBike", "スピンバイク", "インドアサイクリング", "ホームジム", "コネクテッドフィットネス"]
+
+  - pin_id: best-spin-bike-2026-ja-03
+    article_slug: best-spin-bike-2026
+    locale: ja
+    variant: problem
+    title: "スピンバイクが2ヶ月後に高額な洋服掛けになる理由"
+    description: |
+      摩擦抵抗式は6〜12ヶ月でパッドが消耗。スクリーンなし→構造なし→目新しさが失れたら乗らなくなる。坐骨に合わないサドルは20分で痛みが出る。15kg未満のフライホイールは高ケイデンスで動きがぎこちない。使われるバイクは「乗りやすくて、乗る理由がある」もの。
+    link: "https://pickly.blog/ja/articles/best-spin-bike-2026/"
+    image_alt: "スピンバイク 使わない 問題 モチベーション サドル"
+    hashtags: ["スピンバイク 問題", "インドアサイクリング", "ホームジム", "筋トレ", "運動継続"]
+
+  - pin_id: best-spin-bike-2026-ja-04
+    article_slug: best-spin-bike-2026
+    locale: ja
+    variant: budget
+    title: "コスパ最強スピンバイク2026：Sunny Health SF-B1002 約46,000円"
+    description: |
+      Sunny Health SF-B1002は22kgのフライホイール（このリスト最重）・摩擦抵抗・基本LCDディスプレイで$299（約46,000円）。スクリーンなし・アプリ連携なし——純粋な機械式ライドのみ。サブスクコストなしで正直な有酸素トレーニングツールを求める人の答え。
+    link: "https://pickly.blog/ja/articles/best-spin-bike-2026/"
+    image_alt: "Sunny Health SF-B1002 スピンバイク コスパ 2026"
+    hashtags: ["コスパ スピンバイク", "SunnyHealth", "インドアサイクリング", "ホームジム", "有酸素運動"]
+
+  - pin_id: best-spin-bike-2026-ja-05
+    article_slug: best-spin-bike-2026
+    locale: ja
+    variant: avoid
+    title: "お金とモチベーションを無駄にするスピンバイク選びの5つのミス"
+    description: |
+      フライホイール重量を無視：14kg未満は高ケイデンスでがたつく。磁気より摩擦を選ぶ：パッドの消耗でメンテナンスコストが発生。サブスクを計算しない：接続型バイクはサブスクなしでは高価なオブジェ。サドルをそのまま使う：標準サドルは拷問——$4,000円のパッドカバーで解決。設置スペースを測らない：最低でも120cm×60cm必要。
+    link: "https://pickly.blog/ja/articles/best-spin-bike-2026/"
+    image_alt: "スピンバイク 失敗 フライホイール サブスク サドル 注意"
+    hashtags: ["スピンバイク 失敗", "インドアサイクリング", "ホームジム", "筋トレ 注意", "有酸素運動"]
+
+  - pin_id: best-spin-bike-2026-ja-06
+    article_slug: best-spin-bike-2026
+    locale: ja
+    variant: scene
+    title: "ホームジム環境別：スピンバイクの選び方ガイド"
+    description: |
+      ライブクラス＋コミュニティ → Peloton Bike（$1,445＋月額$44）。コスパ重視のコネクテッド → Schwinn IC4（18kgフライホイール・アプリ対応）。傾斜トレーニング → NordicTrack S22i（-10%〜+20%勾配）。予算コネクテッド → Bowflex VeloCore 16。サブスク不要の純粋メカ → Sunny Health SF-B1002（$299）。
+    link: "https://pickly.blog/ja/articles/best-spin-bike-2026/"
+    image_alt: "スピンバイク ホームジム 選び方 ガイド 2026"
+    hashtags: ["スピンバイク", "ホームジム", "インドアサイクリング", "有酸素運動", "フィットネスガイド"]
