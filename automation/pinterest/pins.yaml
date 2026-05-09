@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 69 articles x 6 variants x 2 locales (en, ja) = 836 pins (growing)
+# 71 articles x 6 variants x 2 locales (en, ja) = 860 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -9392,3 +9392,269 @@ pins:
     link: "https://pickly.blog/ja/articles/best-electric-kettle-2026/"
     image_alt: "朝ルーティン コーヒー お茶 電気ケトル 象印"
     hashtags: ["電気ケトル", "象印", "朝ルーティン", "ドリップコーヒー", "お茶"]
+
+  # ── #70 best-humidifier-2026 ─────────────────────────────────────────────────
+  - pin_id: best-humidifier-2026-en-01
+    article_slug: best-humidifier-2026
+    locale: en
+    variant: comparison
+    title: "Best Humidifiers 2026: Top 5 Ranked"
+    description: |
+      We compared Levoit Classic 300S, Dyson AM10, Honeywell HCM-350, Vicks V745A, and Crane Droplet on humidity accuracy, tank maintenance, white dust output, and noise for bedroom use. Levoit Classic 300S wins for most households — app control, 6L tank, and quiet enough for light sleepers. Honeywell HCM-350 wins if you have hard water (zero white dust). Full comparison with measured humidity output and real maintenance time per week.
+    link: "https://pickly.blog/en/articles/best-humidifier-2026/"
+    image_alt: "Best humidifiers 2026 comparison"
+    hashtags: ["Humidifier", "IndoorAir", "HomeComfort", "DryAir", "BedroomEssentials"]
+
+  - pin_id: best-humidifier-2026-en-02
+    article_slug: best-humidifier-2026
+    locale: en
+    variant: top1
+    title: "The Humidifier That Actually Maintains the Right Humidity"
+    description: |
+      Levoit Classic 300S ($60–80) has a built-in humidity sensor that turns off automatically when the room reaches your target level — most humidifiers just run at full power until you manually stop them. The 6L tank lasts 10–20 hours depending on output setting. The app lets you schedule dry-winter overnight humidity without waking up to refill. It's quiet at 28dB on low — about the same as a whisper. The auto mode alone is worth the price premium over basic humidifiers.
+    link: "https://pickly.blog/en/articles/best-humidifier-2026/"
+    image_alt: "Best humidifier 2026 #1 Levoit Classic 300S"
+    hashtags: ["Humidifier", "Levoit", "SmartHome", "IndoorAir", "BedroomComfort"]
+
+  - pin_id: best-humidifier-2026-en-03
+    article_slug: best-humidifier-2026
+    locale: en
+    variant: problem
+    title: "White Dust from Your Humidifier? Here's Why and How to Stop It"
+    description: |
+      White dust comes from ultrasonic humidifiers vaporizing minerals dissolved in tap water — the water droplets evaporate mid-air, leaving mineral residue that settles as white powder on furniture and floors. The fix: use distilled or demineralized water (removes the minerals before they can be aerosolized), or switch to an evaporative humidifier (Honeywell HCM-350) which doesn't produce white dust because it evaporates water naturally through a wick filter rather than blasting it as droplets.
+    link: "https://pickly.blog/en/articles/best-humidifier-2026/"
+    image_alt: "White dust humidifier ultrasonic fix evaporative"
+    hashtags: ["Humidifier", "WhiteDust", "IndoorAir", "HomeComfort", "HumidifierTips"]
+
+  - pin_id: best-humidifier-2026-en-04
+    article_slug: best-humidifier-2026
+    locale: en
+    variant: budget
+    title: "Best Humidifier Under $40 That Doesn't Need Constant Refilling"
+    description: |
+      Crane Droplet ($30–40) has a 1-gallon (3.8L) tank that covers 500 sq ft for 24 hours on the lowest setting — adequate for a single bedroom without the mid-night refill. The wide tank opening makes it easy to clean (a real problem with narrow-neck designs). No WiFi, no app, just a dial. If your main use case is a single bedroom in winter and you don't have hard water issues, the Crane Droplet does the job without the complexity.
+    link: "https://pickly.blog/en/articles/best-humidifier-2026/"
+    image_alt: "Budget humidifier under $40 Crane Droplet"
+    hashtags: ["Humidifier", "BudgetHome", "BedroomComfort", "IndoorAir", "HomeEssentials"]
+
+  - pin_id: best-humidifier-2026-en-05
+    article_slug: best-humidifier-2026
+    locale: en
+    variant: avoid
+    title: "Humidifiers That Create More Problems Than They Solve"
+    description: |
+      Warm mist humidifiers (Vicks) use a heating element that becomes a bacteria breeding ground if not cleaned every 2–3 days — the warm wet surface is ideal for mold and Legionella growth. Ultrasonic humidifiers with small tank openings are nearly impossible to clean thoroughly; the mineral deposits and biofilm accumulate and get aerosolized into your air. Tabletop mini USB humidifiers look cute but output so little moisture (under 150ml/hr) they can't meaningfully raise humidity in any room larger than a desk.
+    link: "https://pickly.blog/en/articles/best-humidifier-2026/"
+    image_alt: "Humidifiers that cause problems warm mist bacteria"
+    hashtags: ["Humidifier", "HomeHealth", "IndoorAir", "BuyingGuide", "HomeComfort"]
+
+  - pin_id: best-humidifier-2026-en-06
+    article_slug: best-humidifier-2026
+    locale: en
+    variant: scene
+    title: "Bedroom Winter Setup: 40–50% Humidity While You Sleep"
+    description: |
+      40–50% relative humidity is the sweet spot for sleep quality, skin hydration, and reducing static electricity without encouraging dust mites (which thrive above 60%). Levoit Classic 300S on auto mode, set to 45%, turns itself off when the room hits target and back on when it drops. Place it 60–90cm from the bed — not directly blowing on you, not in a corner where air doesn't circulate. Weekly tank rinse with white vinegar prevents mineral buildup and mold. Total setup: $70 and 5 minutes of weekly maintenance.
+    link: "https://pickly.blog/en/articles/best-humidifier-2026/"
+    image_alt: "Bedroom humidifier setup 40-50 percent humidity sleep"
+    hashtags: ["Humidifier", "BedroomSetup", "SleepQuality", "IndoorAir", "HomeComfort"]
+
+  - pin_id: best-humidifier-2026-ja-01
+    article_slug: best-humidifier-2026
+    locale: ja
+    variant: comparison
+    title: "加湿器 2026年比較：上位5製品ランキング"
+    description: |
+      Levoit Classic 300S、ダイソン AM10、Honeywell HCM-350、Vicks V745A、Crane Dropletを湿度精度・タンクメンテナンス・白粉問題・寝室での騒音で比較。大多数の家庭にはLevoit Classic 300Sが最優秀 — アプリ制御・6Lタンク・軽い睡眠者でも気にならない静音性。硬水地域にはHoneywell HCM-350が白粉ゼロで最適。実測湿度出力と週次メンテナンス時間のデータ付き。
+    link: "https://pickly.blog/ja/articles/best-humidifier-2026/"
+    image_alt: "加湿器 2026年比較ランキング"
+    hashtags: ["加湿器", "室内空気", "乾燥対策", "冬 家電", "寝室 快適"]
+
+  - pin_id: best-humidifier-2026-ja-02
+    article_slug: best-humidifier-2026
+    locale: ja
+    variant: top1
+    title: "正しい湿度を本当に維持できる加湿器1位"
+    description: |
+      Levoit Classic 300S（8,000〜10,000円）は内蔵湿度センサーで目標湿度に達すると自動停止 — ほとんどの加湿器は手動で止めるまでフル稼働するだけ。6Lタンクで設定出力により10〜20時間連続運転。アプリで冬の乾燥する夜の湿度スケジュール設定が可能。弱運転時28dBの静音性（ひそひそ声レベル）。自動モードだけで基本的な加湿器との価格差に見合う価値がある。
+    link: "https://pickly.blog/ja/articles/best-humidifier-2026/"
+    image_alt: "加湿器 2026年1位 Levoit Classic 300S"
+    hashtags: ["加湿器", "Levoit", "スマートホーム", "乾燥対策", "寝室家電"]
+
+  - pin_id: best-humidifier-2026-ja-03
+    article_slug: best-humidifier-2026
+    locale: ja
+    variant: problem
+    title: "加湿器の白粉問題：原因と対策"
+    description: |
+      白粉は超音波式加湿器が水道水に溶けたミネラルを霧化する際に発生 — 水滴が空中で蒸発してミネラル残留物が白い粉として家具や床に堆積する。対策①：精製水・蒸留水を使う（ミネラルを霧化前に除去）。対策②：気化式（Honeywell HCM-350）に切り替える — フィルターウィックで自然蒸発するため水滴を飛ばさず白粉が出ない。また加湿器肺炎（過加湿＋不十分なお手入れで発生）の予防のために週1回以上タンク洗浄が必須。
+    link: "https://pickly.blog/ja/articles/best-humidifier-2026/"
+    image_alt: "加湿器 白粉 原因 対策 超音波式"
+    hashtags: ["加湿器", "白粉", "乾燥対策", "加湿器 掃除", "室内空気"]
+
+  - pin_id: best-humidifier-2026-ja-04
+    article_slug: best-humidifier-2026
+    locale: ja
+    variant: budget
+    title: "頻繁な給水不要の5,000円以下加湿器"
+    description: |
+      Crane Droplet（4,000〜5,000円）は3.8Lタンクで最弱設定24時間連続運転 — 寝室1部屋なら夜中の給水不要。広口タンクで洗浄しやすい（細口デザインの清掃困難問題を解消）。WiFiなし・アプリなし、ダイヤルだけのシンプル設計。単純に冬の寝室1室に使いたいだけで硬水の問題もないなら、Crane Dropletが複雑さなしに仕事をする。
+    link: "https://pickly.blog/ja/articles/best-humidifier-2026/"
+    image_alt: "コスパ 加湿器 5000円以下 Crane Droplet"
+    hashtags: ["加湿器", "コスパ", "乾燥対策", "寝室家電", "冬 家電"]
+
+  - pin_id: best-humidifier-2026-ja-05
+    article_slug: best-humidifier-2026
+    locale: ja
+    variant: avoid
+    title: "解決より問題を増やす加湿器"
+    description: |
+      スチーム式加湿器（Vicks等）は加熱部分が2〜3日に1回洗浄しないと細菌の温床になる — 温かく湿った面はカビやレジオネラ菌に最適な環境。タンク口が狭い超音波式は徹底洗浄がほぼ不可能でミネラル堆積と細菌膜が蓄積して空気中に霧化される（加湿器肺炎の原因）。USB卓上ミニ加湿器は見た目がかわいいが加湿量が150ml/h以下でデスクより広い空間の湿度を有意義に上げることはできない。
+    link: "https://pickly.blog/ja/articles/best-humidifier-2026/"
+    image_alt: "加湿器 問題 スチーム式 細菌 加湿器肺炎"
+    hashtags: ["加湿器", "加湿器肺炎", "乾燥対策", "購入ガイド", "室内空気"]
+
+  - pin_id: best-humidifier-2026-ja-06
+    article_slug: best-humidifier-2026
+    locale: ja
+    variant: scene
+    title: "冬の寝室：就寝中に50〜60%の適正湿度を保つ設定"
+    description: |
+      日本の冬（特に暖房使用時）は室内湿度が30%以下に下がることが多く、乾燥による喉・肌・ウイルス感染リスクが上がる。目標は50〜60%（ダニ繁殖が起きる65%未満）。Levoit Classic 300Sをオートモード55%設定で就寝前に起動、ベッドから60〜90cm離れた場所に置く（直接風が当たらない位置）。週1回クエン酸水でタンク洗浄してミネラル堆積とカビを防ぐ。合計8,000〜10,000円と週5分のお手入れで冬の乾燥を根本解決。
+    link: "https://pickly.blog/ja/articles/best-humidifier-2026/"
+    image_alt: "冬 寝室 加湿器 50-60% 湿度管理"
+    hashtags: ["加湿器", "寝室 快適", "乾燥対策", "睡眠 改善", "冬 家電"]
+
+  # ── #71 best-massage-gun-2026 ────────────────────────────────────────────────
+  - pin_id: best-massage-gun-2026-en-01
+    article_slug: best-massage-gun-2026
+    locale: en
+    variant: comparison
+    title: "Best Massage Guns 2026: Top 5 Ranked"
+    description: |
+      We compared Theragun PRO Gen 6, Hyperice Hypervolt 2 Pro, Ekrin B37S, Renpho R3 Mini, and Achedaway Pro on amplitude, stall force, noise at 2 meters, and self-use ergonomics for reaching your own back. Theragun PRO wins for clinical use and maximum tissue penetration. Ekrin B37S wins for daily home recovery — angled handle, 8-hour battery, and genuinely quiet. Renpho R3 Mini wins for travel. Full comparison with measured noise levels and amplitude specs.
+    link: "https://pickly.blog/en/articles/best-massage-gun-2026/"
+    image_alt: "Best massage guns 2026 comparison"
+    hashtags: ["MassageGun", "MuscleRecovery", "FitnessGear", "Theragun", "PostWorkout"]
+
+  - pin_id: best-massage-gun-2026-en-02
+    article_slug: best-massage-gun-2026
+    locale: en
+    variant: top1
+    title: "The Massage Gun You'll Actually Use Every Day"
+    description: |
+      Ekrin B37S ($130–160) solves the three problems that make people stop using massage guns: it's quiet enough for evening use in an apartment (50dB), the 15-degree angled handle lets you reach your upper back without a partner, and the 8-hour battery lasts a week of daily 20-minute sessions without charging. Stall force is 56lbs — more than enough for glutes and quads, not overkill. At $130–160 it's significantly less than Theragun with 90% of the performance for personal use.
+    link: "https://pickly.blog/en/articles/best-massage-gun-2026/"
+    image_alt: "Best massage gun 2026 #1 Ekrin B37S"
+    hashtags: ["MassageGun", "Ekrin", "MuscleRecovery", "FitnessGear", "HomeGym"]
+
+  - pin_id: best-massage-gun-2026-en-03
+    article_slug: best-massage-gun-2026
+    locale: en
+    variant: problem
+    title: "Where Massage Guns Help and Where They Don't"
+    description: |
+      Massage guns work well for: DOMS (delayed onset muscle soreness) 24–72 hours after exercise, myofascial tension in quads/glutes/calves, pre-workout muscle activation, and breaking up scar tissue adhesions. They do NOT help with: acute injuries (will make inflammation worse), nerve compression (piriformis syndrome, sciatica), directly on the spine, over bony prominences, or fresh bruising. The most common mistake is using a massage gun on the lower back muscles when the pain is actually from the spine — that's when you need a doctor, not percussion.
+    link: "https://pickly.blog/en/articles/best-massage-gun-2026/"
+    image_alt: "Massage gun when helps DOMS muscle when not to use"
+    hashtags: ["MassageGun", "MuscleRecovery", "FitnessTips", "DOMS", "RecoveryTips"]
+
+  - pin_id: best-massage-gun-2026-en-04
+    article_slug: best-massage-gun-2026
+    locale: en
+    variant: budget
+    title: "Best Massage Gun Under $80 That Doesn't Sound Like a Drill"
+    description: |
+      Renpho R3 Mini ($50–70) runs at 45–50dB — quieter than most full-size massage guns — in a package smaller than a water bottle. 5 attachment heads cover most muscle groups, 2500 RPM max speed handles most needs. Battery lasts 3–5 hours per charge. What you lose: amplitude is 10mm vs 16mm on Theragun (less tissue penetration for large muscle groups), and stall force is around 30lbs (adequate for most users, limiting for very tight glutes). For travel and maintenance work between gym sessions, it's excellent.
+    link: "https://pickly.blog/en/articles/best-massage-gun-2026/"
+    image_alt: "Budget massage gun under $80 Renpho R3 Mini quiet"
+    hashtags: ["MassageGun", "BudgetFitness", "TravelGym", "MuscleRecovery", "FitnessGear"]
+
+  - pin_id: best-massage-gun-2026-en-05
+    article_slug: best-massage-gun-2026
+    locale: en
+    variant: avoid
+    title: "Massage Guns That Won't Last Through the Year"
+    description: |
+      Massage guns from Amazon unknowns under $30 use brushed motors that wear out within 3–6 months of regular use — the percussive action weakens and the noise increases as the motor degrades. Knockoff Theragun-lookalikes with "16mm amplitude" specs are measured inconsistently; many actually deliver 8–10mm under any meaningful load (stall force of 10–15lbs). Buying a $25 massage gun, using it 3 months, and replacing it twice costs more than buying a $100 Ekrin B37S that lasts 5+ years with a warranty.
+    link: "https://pickly.blog/en/articles/best-massage-gun-2026/"
+    image_alt: "Cheap massage guns that break knockoff avoid"
+    hashtags: ["MassageGun", "FitnessGear", "BuyingGuide", "MuscleRecovery", "HomeGym"]
+
+  - pin_id: best-massage-gun-2026-en-06
+    article_slug: best-massage-gun-2026
+    locale: en
+    variant: scene
+    title: "Post-Run Recovery Routine: 15 Minutes With a Massage Gun"
+    description: |
+      After a hard run: calves 90 seconds each (ball attachment, medium speed, sweep slowly), IT band / outer quad 2 minutes each side (flat head, low speed — the ITB itself is connective tissue, work the muscles adjacent to it), glutes 90 seconds each (ball head, high speed). Total: 12–14 minutes. Do this within 30 minutes post-run while muscles are still warm. Ekrin B37S angled handle reaches calves and glutes without contorting. The Hyperice Hypervolt 2 Pro pressure sensor prevents over-driving — it flashes red if you're pressing too hard.
+    link: "https://pickly.blog/en/articles/best-massage-gun-2026/"
+    image_alt: "Post run recovery massage gun routine 15 minutes"
+    hashtags: ["MassageGun", "RunnerRecovery", "PostRun", "MuscleRecovery", "FitnessRoutine"]
+
+  - pin_id: best-massage-gun-2026-ja-01
+    article_slug: best-massage-gun-2026
+    locale: ja
+    variant: comparison
+    title: "マッサージガン 2026年比較：上位5製品ランキング"
+    description: |
+      Theragun PRO Gen 6、Hyperice Hypervolt 2 Pro、Ekrin B37S、Renpho R3 Mini、Achedaway Proを振幅・ストール力・2m先での騒音・自分で背中に届く使い勝手で比較。臨床用途と最大組織浸透にはTheragun PRO。毎日の自宅リカバリーにはEkrin B37S — アングルハンドル・8時間バッテリー・真に静かな設計。旅行用にはRenpho R3 Mini。実測騒音レベルと振幅スペックデータ付き。
+    link: "https://pickly.blog/ja/articles/best-massage-gun-2026/"
+    image_alt: "マッサージガン 2026年比較ランキング"
+    hashtags: ["マッサージガン", "筋肉回復", "フィットネスグッズ", "Theragun", "ポストワークアウト"]
+
+  - pin_id: best-massage-gun-2026-ja-02
+    article_slug: best-massage-gun-2026
+    locale: ja
+    variant: top1
+    title: "毎日使い続けられるマッサージガン1位"
+    description: |
+      Ekrin B37S（16,000〜20,000円）はマッサージガンを使わなくなる三大原因を解決：マンション夜間でも気にならない静音性（50dB）、15度のアングルハンドルで一人で上背部に届く、8時間バッテリーで毎日20分使用して1週間充電不要。ストール力56ポンドで臀部・大腿四頭筋に十分、過剰でない。TheraGunより大幅に安く個人使用での性能は90%以上。
+    link: "https://pickly.blog/ja/articles/best-massage-gun-2026/"
+    image_alt: "マッサージガン 2026年1位 Ekrin B37S"
+    hashtags: ["マッサージガン", "Ekrin", "筋肉回復", "テレワーク 肩こり", "自宅フィットネス"]
+
+  - pin_id: best-massage-gun-2026-ja-03
+    article_slug: best-massage-gun-2026
+    locale: ja
+    variant: problem
+    title: "マッサージガンが効く部位・効かない部位"
+    description: |
+      マッサージガンが効果的な場面：運動後24〜72時間の筋肉痛（DOMS）、大腿四頭筋・臀部・ふくらはぎの筋膜の緊張、ウォームアップ前の筋肉活性化。使ってはいけない場面：急性炎症（悪化させる）、坐骨神経痛などの神経圧迫、脊椎の直上、骨の突起部、新鮮な打撲。最も多い間違い：腰の筋肉にマッサージガンを使うが、実際の痛みが脊椎からきている場合 — その場合は医師が必要。
+    link: "https://pickly.blog/ja/articles/best-massage-gun-2026/"
+    image_alt: "マッサージガン 効果 部位 禁忌 正しい使い方"
+    hashtags: ["マッサージガン", "筋肉回復", "フィットネス コツ", "筋肉痛", "リカバリー"]
+
+  - pin_id: best-massage-gun-2026-ja-04
+    article_slug: best-massage-gun-2026
+    locale: ja
+    variant: budget
+    title: "ドリル音がしない10,000円以下のマッサージガン"
+    description: |
+      Renpho R3 Mini（6,000〜9,000円）はフルサイズのほとんどのマッサージガンより静かな45〜50dBで、ペットボトルより小さなパッケージに収まる。5アタッチメントで主要筋肉グループをカバー、最高2500RPMで日常的なニーズに対応。充電1回で3〜5時間。失うもの：振幅は10mm（Theragunの16mmより浅い）、ストール力約30ポンド（ほとんどの人には十分、臀部の深部へのアプローチには制限あり）。旅行用とジム後のメンテナンスには優秀。
+    link: "https://pickly.blog/ja/articles/best-massage-gun-2026/"
+    image_alt: "コスパ マッサージガン 10000円以下 Renpho 静音"
+    hashtags: ["マッサージガン", "コスパ", "旅行グッズ", "筋肉回復", "フィットネスグッズ"]
+
+  - pin_id: best-massage-gun-2026-ja-05
+    article_slug: best-massage-gun-2026
+    locale: ja
+    variant: avoid
+    title: "1年持たないマッサージガン"
+    description: |
+      Amazon無名メーカーの3,000〜4,000円台マッサージガンはブラシモーターを使用し定期的な使用で3〜6ヶ月以内にモーターが劣化してパーカッションが弱まり騒音が増加する。「振幅16mm」を謳うTheragunコピーは測定基準が不統一で、負荷をかけると実際8〜10mmしか出ないものが多い（ストール力10〜15ポンド）。3,000円のマッサージガンを3ヶ月使って2回買い替えるより、5年以上保証付きで使えるEkrin B37S（16,000円）の方が長期的にお得。
+    link: "https://pickly.blog/ja/articles/best-massage-gun-2026/"
+    image_alt: "マッサージガン 安物 壊れる 避けるべき"
+    hashtags: ["マッサージガン", "フィットネスグッズ", "購入ガイド", "筋肉回復", "失敗しない"]
+
+  - pin_id: best-massage-gun-2026-ja-06
+    article_slug: best-massage-gun-2026
+    locale: ja
+    variant: scene
+    title: "テレワーク後の肩こり・腰痛ケア：15分マッサージガンルーティン"
+    description: |
+      テレワーク後のケア：首の付け根〜僧帽筋を左右各90秒（ボールアタッチメント、弱速度）、肩甲骨周りの菱形筋を2分（フラットヘッド、中速）、腰横の腰方形筋を各90秒（ボールヘッド、弱速度 — 脊椎直上は避ける）。合計12〜14分。Ekrin B37Sのアングルハンドルで上背部・肩甲骨周辺に一人で届く。Hyperice Hypervolt 2 Proの圧力センサーは押しすぎると赤く警告。毎日の就業後ルーティンとして継続しやすい時間設定。
+    link: "https://pickly.blog/ja/articles/best-massage-gun-2026/"
+    image_alt: "テレワーク 肩こり 腰痛 マッサージガン ルーティン"
+    hashtags: ["マッサージガン", "テレワーク", "肩こり解消", "腰痛対策", "在宅ワーク"]
