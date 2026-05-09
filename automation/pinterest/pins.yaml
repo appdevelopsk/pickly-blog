@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 55 articles x 6 variants x 2 locales (en, ja) = 668 pins (growing)
+# 57 articles x 6 variants x 2 locales (en, ja) = 692 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -7522,3 +7522,271 @@ pins:
     link: "https://pickly.blog/ja/articles/best-hair-care-tools-2026/"
     image_alt: "パナソニック nanoe ドライヤー くせ毛対策 日本"
     hashtags: ["ヘアケア", "パナソニック", "ナノイー", "ヘアスタイリング", "美容"]
+
+  # --- best-sunglasses-2026 ---
+
+  - pin_id: best-sunglasses-2026-en-01
+    article_slug: best-sunglasses-2026
+    locale: en
+    variant: comparison
+    title: "Sunglasses 2026: Ray-Ban Wayfarer vs Oakley Holbrook vs Maui Jim Peahi"
+    description: |
+      Ray-Ban Wayfarer is acetate — heavier but more durable than plastic, available with polarized lenses for ~¥5,000 more. Oakley Holbrook uses Prizm lens technology that enhances specific color spectrums for sports visibility. Maui Jim Peahi uses SuperThin glass polarized lenses — the clearest optical quality available, at the cost of weight. We compare real UV protection levels, not just marketing numbers.
+    link: "https://pickly.blog/en/articles/best-sunglasses-2026/"
+    image_alt: "Sunglasses 2026 comparison"
+    hashtags: ["sunglasses", "rayban", "oakley", "polarized", "uv400"]
+
+  - pin_id: best-sunglasses-2026-en-02
+    article_slug: best-sunglasses-2026
+    locale: en
+    variant: top1
+    title: "The sunglasses that cover UV protection, style, and durability without overpaying"
+    description: |
+      Ray-Ban Wayfarer RB2140 with polarized lenses (~¥20,000-25,000) is the benchmark for everyday sunglasses: genuine UV400 protection, acetate frame that outlasts plastic, and a shape that suits most face types. The Wayfarer has been in production since 1956 because the proportions work. For someone who wants one pair that handles city, beach, and driving, the polarized version covers everything.
+    link: "https://pickly.blog/en/articles/best-sunglasses-2026/"
+    image_alt: "Best sunglasses 2026 Ray-Ban Wayfarer"
+    hashtags: ["sunglasses", "rayban", "wayfarer", "polarized", "uv400"]
+
+  - pin_id: best-sunglasses-2026-en-03
+    article_slug: best-sunglasses-2026
+    locale: en
+    variant: problem
+    title: "Cheap sunglasses that darken without blocking UV — why they're worse than no sunglasses"
+    description: |
+      Dark lenses without UV400 coating cause pupils to dilate in the shade while the eyes are fully exposed to UV — more UV reaches the retina than with no sunglasses at all. The EU CE mark and US ANSI Z80.3 standard require genuine UV400 protection but are self-certified. We explain how to verify real UV protection, what CE and UV400 labels actually mean, and which price points reliably deliver protection.
+    link: "https://pickly.blog/en/articles/best-sunglasses-2026/"
+    image_alt: "Cheap sunglasses UV protection danger"
+    hashtags: ["sunglasses", "uv400", "eyeprotection", "buyingguide", "tips"]
+
+  - pin_id: best-sunglasses-2026-en-04
+    article_slug: best-sunglasses-2026
+    locale: en
+    variant: budget
+    title: "Genuine UV400 sunglasses under ¥5,000 that actually protect your eyes"
+    description: |
+      Zoff UV Sunglasses (~¥3,000-5,000) provide certified UV400 protection with proper lens quality — the brand is optician-grade, not street-market quality. For someone who loses sunglasses frequently or wants a backup pair, the protection level is equivalent to Ray-Ban at 15% of the price. The trade-off is lens optical clarity (glass vs polycarbonate) and frame durability. As an everyday-carry pair, the value is clear.
+    link: "https://pickly.blog/en/articles/best-sunglasses-2026/"
+    image_alt: "Budget UV400 sunglasses Zoff"
+    hashtags: ["sunglasses", "zoff", "budget", "uv400", "eyeprotection"]
+
+  - pin_id: best-sunglasses-2026-en-05
+    article_slug: best-sunglasses-2026
+    locale: en
+    variant: avoid
+    title: "Sunglasses features that look premium but aren't worth the markup"
+    description: |
+      Mirror coating adds ~¥3,000-8,000 to frame prices and scratches faster than standard coatings — it's aesthetic, not protective. Gradient lenses look stylish but reduce UV protection in the lower half of the lens (where ground reflection UV enters). Rimless frames look minimal but the lens-to-frame connection point is the failure point — minor drops crack the lens rather than bending the frame. We identify which premium features are durable upgrades.
+    link: "https://pickly.blog/en/articles/best-sunglasses-2026/"
+    image_alt: "Sunglasses premium features worth avoiding"
+    hashtags: ["sunglasses", "buyingguide", "uv400", "eyeprotection", "tips"]
+
+  - pin_id: best-sunglasses-2026-en-06
+    article_slug: best-sunglasses-2026
+    locale: en
+    variant: scene
+    title: "Sunglasses for Asian face shapes: why nose bridge fit matters more than the frame"
+    description: |
+      Standard Western sunglass frames assume a higher nose bridge — on Asian face geometry, most frames sit low and the lenses touch the cheeks. JINS, Zoff, and select Oakley Asian Fit models are built with lower nose bridge height and wider lens spacing. For someone who has given up on non-prescription sunglasses because they all slide down, the Asian Fit designation changes the wearing experience completely.
+    link: "https://pickly.blog/en/articles/best-sunglasses-2026/"
+    image_alt: "Sunglasses Asian fit nose bridge guide"
+    hashtags: ["sunglasses", "jins", "zoff", "asianfit", "eyewear"]
+
+  - pin_id: best-sunglasses-2026-ja-01
+    article_slug: best-sunglasses-2026
+    locale: ja
+    variant: comparison
+    title: "サングラス2026：Ray-Ban Wayfarer vs Oakley Holbrook vs Maui Jim Peahi 比較"
+    description: |
+      Ray-Ban Wayfarerはアセテートフレーム — プラスチックより重くて耐久性が高く、偏光レンズオプションで約5,000円増。OakleyはPrizmレンズ技術で特定の色スペクトルを強調しスポーツ視認性を向上。Maui JimはSuperThinガラス偏光レンズで民生用最高の光学クリアリティを実現（代わりに重い）。マーケティング数値ではなく実際のUV遮断レベルで比較。
+    link: "https://pickly.blog/ja/articles/best-sunglasses-2026/"
+    image_alt: "サングラス 2026年比較"
+    hashtags: ["サングラス", "レイバン", "オークリー", "偏光レンズ", "UV400"]
+
+  - pin_id: best-sunglasses-2026-ja-02
+    article_slug: best-sunglasses-2026
+    locale: ja
+    variant: top1
+    title: "UV保護・デザイン・耐久性を過払いなしにカバーするサングラス"
+    description: |
+      Ray-Ban Wayfarer RB2140偏光レンズ付き（約20,000〜25,000円）が日常用サングラスのスタンダード：確実なUV400保護、プラスチックより長持ちするアセテートフレーム、ほとんどの顔型に合うシェイプ。1956年から生産が続く理由はプロポーションが機能するから。1本で街・浜辺・ドライブをカバーしたい人には偏光レンズ版が最適。
+    link: "https://pickly.blog/ja/articles/best-sunglasses-2026/"
+    image_alt: "サングラス 2026年1位 Ray-Ban Wayfarer"
+    hashtags: ["サングラス", "レイバン", "ウェイファーラー", "偏光レンズ", "UV400"]
+
+  - pin_id: best-sunglasses-2026-ja-03
+    article_slug: best-sunglasses-2026
+    locale: ja
+    variant: problem
+    title: "UVを遮断しない暗いレンズのサングラスがサングラスなしより危険な理由"
+    description: |
+      UV400コーティングなしの暗いレンズは日陰で瞳孔を拡張させ、目がUVに完全にさらされる — サングラスなしよりも多くのUVが網膜に到達する。EU CEマークと米国ANSI Z80.3規格はUV400保護を要件とするが自己認証。本物のUV保護を確認する方法、CEとUV400表記の意味、どの価格帯が確実に保護を提供するかを解説。
+    link: "https://pickly.blog/ja/articles/best-sunglasses-2026/"
+    image_alt: "安価なサングラス UV保護の危険性"
+    hashtags: ["サングラス", "UV400", "目の保護", "購入ガイド", "紫外線"]
+
+  - pin_id: best-sunglasses-2026-ja-04
+    article_slug: best-sunglasses-2026
+    locale: ja
+    variant: budget
+    title: "5,000円以下で本物のUV400保護を提供するサングラス"
+    description: |
+      Zoff UVサングラス（約3,000〜5,000円）は認定UV400保護とまともなレンズ品質を提供 — 街角品質ではなく眼鏡店品質。頻繁に紛失したり予備を持ちたい人には、Ray-Banの15%の価格で同等の保護レベル。トレードオフはレンズ光学クリアリティ（ガラス vs ポリカーボネート）とフレーム耐久性。日常持ち歩き用としてコスパは明確。
+    link: "https://pickly.blog/ja/articles/best-sunglasses-2026/"
+    image_alt: "コスパ UV400サングラス Zoff"
+    hashtags: ["サングラス", "Zoff", "コスパ", "UV400", "目の保護"]
+
+  - pin_id: best-sunglasses-2026-ja-05
+    article_slug: best-sunglasses-2026
+    locale: ja
+    variant: avoid
+    title: "高級に見えるが割増を払う価値がないサングラス機能"
+    description: |
+      ミラーコーティングはフレーム価格を3,000〜8,000円上乗せし、通常コーティングより傷がつきやすい — 見た目のためで保護機能の向上はない。グラデーションレンズはスタイリッシュだがレンズ下半分のUV保護が低下する（地面からの反射UV入射点）。リムレスフレームはミニマルだが、レンズとフレームの接合点が弱く、軽い落下でフレーム変形でなくレンズ割れが起きる。
+    link: "https://pickly.blog/ja/articles/best-sunglasses-2026/"
+    image_alt: "サングラス 不要プレミアム機能ガイド"
+    hashtags: ["サングラス", "購入ガイド", "UV400", "目の保護", "比較"]
+
+  - pin_id: best-sunglasses-2026-ja-06
+    article_slug: best-sunglasses-2026
+    locale: ja
+    variant: scene
+    title: "アジア人の顔型に合うサングラス：フレームよりノーズブリッジが重要な理由"
+    description: |
+      欧米規格のサングラスフレームは高いノーズブリッジを前提としており、アジア人の顔型ではほとんどのフレームが下がってレンズが頬に当たる。JINS・Zoff・Oak leyのアジアンフィットモデルは低いノーズブリッジ高さと広いレンズ間隔で設計。サングラスが滑り落ちて諦めていた人は、アジアンフィット仕様でかけ心地が根本から変わる。
+    link: "https://pickly.blog/ja/articles/best-sunglasses-2026/"
+    image_alt: "サングラス アジアンフィット ノーズブリッジ"
+    hashtags: ["サングラス", "JINS", "Zoff", "アジアンフィット", "アイウェア"]
+
+  # --- best-running-shoes-2026 ---
+
+  - pin_id: best-running-shoes-2026-en-01
+    article_slug: best-running-shoes-2026
+    locale: en
+    variant: comparison
+    title: "Running shoes 2026: Nike Pegasus 41 vs Asics Gel-Kayano 31 vs Brooks Ghost 16"
+    description: |
+      Nike Pegasus 41 is a neutral trainer — React foam, versatile for easy days through tempo runs. Asics Gel-Kayano 31 adds stability with Dynamic DuoMax for overpronators who need medial support. Brooks Ghost 16 is the widest-fitting neutral shoe at this price with DNA Loft v2 foam for long easy miles. We compare midsole feel, upper fit, and which shoe type matches which runner's gait.
+    link: "https://pickly.blog/en/articles/best-running-shoes-2026/"
+    image_alt: "Running shoes 2026 comparison"
+    hashtags: ["runningshoes", "nike", "asics", "brooks", "running"]
+
+  - pin_id: best-running-shoes-2026-en-02
+    article_slug: best-running-shoes-2026
+    locale: en
+    variant: top1
+    title: "The running shoe most beginners should start with in 2026"
+    description: |
+      Brooks Ghost 16 covers most new runners: neutral cushioning, wide toe box that prevents blistering during longer runs, and a forgiving midsole that doesn't demand a specific foot strike pattern. For someone who runs 3-5km several times a week and wants to build up to 10km without shoe-related injuries, the Ghost's wide fit and consistent cushioning provide the most error tolerance. No carbon plate, no gimmicks.
+    link: "https://pickly.blog/en/articles/best-running-shoes-2026/"
+    image_alt: "Best beginner running shoes 2026 Brooks Ghost"
+    hashtags: ["runningshoes", "brooks", "beginnerrunning", "running", "fitness"]
+
+  - pin_id: best-running-shoes-2026-en-03
+    article_slug: best-running-shoes-2026
+    locale: en
+    variant: problem
+    title: "Shin splints that won't go away — when your running shoes are the actual problem"
+    description: |
+      Medial shin splints in new runners often trace to overpronation in a neutral shoe — the foot rolls inward on landing, the tibialis posterior compensates, and the muscle-bone interface inflames over distance. A stability shoe with medial post (Asics Gel-Kayano, New Balance 860) reduces the pronation load. We explain how to check your pronation pattern at home, and when a stability shoe vs a neutral shoe is the right call.
+    link: "https://pickly.blog/en/articles/best-running-shoes-2026/"
+    image_alt: "Shin splints running shoe fix guide"
+    hashtags: ["runningshoes", "shinplints", "running", "asics", "fitness"]
+
+  - pin_id: best-running-shoes-2026-en-04
+    article_slug: best-running-shoes-2026
+    locale: en
+    variant: budget
+    title: "A legitimate running shoe under ¥12,000 that handles 5K training"
+    description: |
+      New Balance Fresh Foam 880v14 (~¥11,000-13,000 on sale) provides plush cushioning and wide width options (2E, 4E) at a price point well below Asics Gel-Kayano. The Fresh Foam midsole handles 5K-10K distances well and the shoe comes in more widths than any competitor in this range. For someone with wide feet who has been squeezing into standard-width shoes, the 4E option alone is worth the search.
+    link: "https://pickly.blog/en/articles/best-running-shoes-2026/"
+    image_alt: "Budget running shoes New Balance 880"
+    hashtags: ["runningshoes", "newbalance", "budget", "running", "fitness"]
+
+  - pin_id: best-running-shoes-2026-en-05
+    article_slug: best-running-shoes-2026
+    locale: en
+    variant: avoid
+    title: "Running shoe features that don't improve performance for most runners"
+    description: |
+      Carbon fiber plates improve racing economy for sub-4:00/km pace runners — below that pace, the stiffness adds load without a propulsive return. Stack height above 40mm looks maximal-cushion but creates instability on trails and uneven pavement. "Responsive" foam marketing describes energy return that most runners can't biomechanically utilize. We explain which shoe technology claims are pace-dependent and which are universal.
+    link: "https://pickly.blog/en/articles/best-running-shoes-2026/"
+    image_alt: "Running shoe tech features explained honestly"
+    hashtags: ["runningshoes", "running", "fitness", "buyingguide", "tips"]
+
+  - pin_id: best-running-shoes-2026-en-06
+    article_slug: best-running-shoes-2026
+    locale: en
+    variant: scene
+    title: "Hoka Clifton 9 for long slow runs: what maximal cushion actually feels like"
+    description: |
+      Hoka Clifton 9's 29mm heel height and low 5mm heel-to-toe drop encourages a midfoot strike — different from the heel-strike pattern most beginners default to. The wide midsole base is stable despite the height. For marathon training's long easy runs (20-30km at conversational pace), the Clifton reduces cumulative fatigue compared to shoes with normal cushioning. It's a slow-run specialist, not a race-day shoe.
+    link: "https://pickly.blog/en/articles/best-running-shoes-2026/"
+    image_alt: "Hoka Clifton 9 long run cushion guide"
+    hashtags: ["runningshoes", "hoka", "longrun", "marathon", "running"]
+
+  - pin_id: best-running-shoes-2026-ja-01
+    article_slug: best-running-shoes-2026
+    locale: ja
+    variant: comparison
+    title: "ランニングシューズ2026：Nike Pegasus 41 vs Asics Gel-Kayano 31 vs Brooks Ghost 16"
+    description: |
+      Nike Pegasus 41はニュートラルトレーナー — Reactフォームで楽なランからテンポランまで汎用。Asics Gel-Kayano 31はDynamic DuoMaxで回内足（オーバープロネーション）をサポートするスタビリティシューズ。Brooks Ghost 16はこの価格帯で最もゆとりのあるニュートラルシューズでDNA Loft v2フォーム採用。ミッドソールの感触・アッパーのフィット・どちらのランナー走行パターンに合うかを比較。
+    link: "https://pickly.blog/ja/articles/best-running-shoes-2026/"
+    image_alt: "ランニングシューズ 2026年比較"
+    hashtags: ["ランニングシューズ", "Nike", "アシックス", "Brooks", "ランニング"]
+
+  - pin_id: best-running-shoes-2026-ja-02
+    article_slug: best-running-shoes-2026
+    locale: ja
+    variant: top1
+    title: "2026年、初心者ランナーが最初に選ぶべきランニングシューズ"
+    description: |
+      Brooks Ghost 16が多くの初心者に最適：ニュートラルクッション、長距離でのマメを防ぐ広いトゥボックス、特定のフットストライクパターンを要求しない寛容なミッドソール。週3〜5km走って10kmを目指す人に、Ghost のゆとりあるフィットと安定したクッションは最もエラー耐性が高い。カーボンプレートなし、余分な機能なし。
+    link: "https://pickly.blog/ja/articles/best-running-shoes-2026/"
+    image_alt: "初心者向けランニングシューズ 2026年1位 Brooks Ghost"
+    hashtags: ["ランニングシューズ", "Brooks", "初心者ランニング", "ランニング", "フィットネス"]
+
+  - pin_id: best-running-shoes-2026-ja-03
+    article_slug: best-running-shoes-2026
+    locale: ja
+    variant: problem
+    title: "シンスプリントが治らない — シューズが原因の場合の対処法"
+    description: |
+      初心者ランナーの内側シンスプリントはニュートラルシューズでのオーバープロネーション（着地時の足の内側への倒れ込み）が原因のことが多い。後脛骨筋が補正し、筋骨接合部が距離とともに炎症を起こす。メディアルポスト搭載のスタビリティシューズ（Asics Gel-Kayano、New Balance 860）で回内負荷を軽減。自分のプロネーションパターンを自宅で確認する方法と、スタビリティ vs ニュートラルの選択基準を解説。
+    link: "https://pickly.blog/ja/articles/best-running-shoes-2026/"
+    image_alt: "シンスプリント ランニングシューズ 解決ガイド"
+    hashtags: ["ランニングシューズ", "シンスプリント", "ランニング", "アシックス", "フィットネス"]
+
+  - pin_id: best-running-shoes-2026-ja-04
+    article_slug: best-running-shoes-2026
+    locale: ja
+    variant: budget
+    title: "12,000円以下で5Kトレーニングに対応できるランニングシューズ"
+    description: |
+      New Balance Fresh Foam 880v14（セール時約11,000〜13,000円）はAsics Gel-Kayanoより低価格でプラッシュなクッションと幅広オプション（2E・4E）を提供。Fresh Foamミッドソールは5〜10km距離に十分で、このクラスでは最多の幅展開。標準幅に足を無理に押し込んできた幅広の人には、4Eオプションだけでも価値がある。
+    link: "https://pickly.blog/ja/articles/best-running-shoes-2026/"
+    image_alt: "コスパランニングシューズ New Balance 880"
+    hashtags: ["ランニングシューズ", "ニューバランス", "コスパ", "ランニング", "フィットネス"]
+
+  - pin_id: best-running-shoes-2026-ja-05
+    article_slug: best-running-shoes-2026
+    locale: ja
+    variant: avoid
+    title: "多くのランナーのパフォーマンスを改善しないランニングシューズ機能"
+    description: |
+      カーボンファイバープレートは4分/km以下のペースで走るランナーの走行効率を向上させる — それ以下のペースでは硬さが負荷を増やすだけで推進力の返りがない。40mm超のスタック高はクッション最大化に見えるが不整地での不安定さを生む。「レスポンシブ」フォームの宣伝するエネルギー還元は、多くのランナーが生体力学的に活用できないレベル。どの技術訴求がペース依存でどれが普遍的かを解説。
+    link: "https://pickly.blog/ja/articles/best-running-shoes-2026/"
+    image_alt: "ランニングシューズ 技術機能 正直ガイド"
+    hashtags: ["ランニングシューズ", "ランニング", "フィットネス", "購入ガイド", "比較"]
+
+  - pin_id: best-running-shoes-2026-ja-06
+    article_slug: best-running-shoes-2026
+    locale: ja
+    variant: scene
+    title: "Hoka Clifton 9のロング走：最大クッションが実際にどう感じるか"
+    description: |
+      Hoka Clifton 9のヒール高29mm・ドロップ5mmはミッドフット着地を促す — 多くの初心者がデフォルトにするヒール着地パターンとは異なる。幅広いミッドソールベースで高さに対して安定している。マラソン練習のロング走（会話できるペースで20〜30km）では、通常クッションシューズより累積疲労が軽減される。ロング走専門シューズであり、レースデイシューズではない。
+    link: "https://pickly.blog/ja/articles/best-running-shoes-2026/"
+    image_alt: "Hoka Clifton 9 ロング走 クッションガイド"
+    hashtags: ["ランニングシューズ", "Hoka", "ロング走", "マラソン", "ランニング"]
