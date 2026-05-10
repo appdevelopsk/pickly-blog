@@ -13869,6 +13869,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-cap-barbell-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP+Barbell+%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Yerba Mate ☕ ─────────────────────────────────────────────────────
+  {
+    id: "cruz-de-malta-yerba-mate",
+    category: "food",
+    badge: "伝統的アルゼンチン",
+    name: { en: "Cruz de Malta Yerba Mate", ja: "Cruz de Malta ヤーバマテ" },
+    description: {
+      en: "Traditional Argentine con palo (with stems) blend, 500g. Representative everyday yerba — milder flavor, longer aging process. The reference traditional Argentine mate.",
+      ja: "伝統的なアルゼンチンのコンパロ（茎あり）ブレンド、500g。代表的な日常のヤーバ——穏やかな風味、長い熟成プロセス。伝統的なアルゼンチンマテの基準。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00CRUZMALT", rawUrl: "https://www.amazon.co.jp/dp/B00CRUZMALT", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cruz-de-malta", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCruz+de+Malta+%E3%83%9E%E3%83%86%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "guayaki-yerba-mate-traditional",
+    category: "food",
+    badge: "オーガニック",
+    name: { en: "Guayaki Yerba Mate Traditional", ja: "Guayaki ヤーバマテ Traditional" },
+    description: {
+      en: "USDA organic, shade-grown, Misiones province Argentina, 500g. Most accessible premium yerba in North America/Japan — woody, earthy flavor profile.",
+      ja: "USDA認定オーガニック、日陰栽培、アルゼンチンのミシオネス州産、500g。北米/日本で最もアクセスしやすいプレミアムヤーバ——木質的で土っぽい風味プロファイル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001GUAYAKI", rawUrl: "https://www.amazon.co.jp/dp/B001GUAYAKI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-guayaki-mate", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGuayaki+%E3%83%9E%E3%83%86%E8%8C%B6%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "taragui-yerba-mate",
+    category: "food",
+    badge: "幅広い流通",
+    name: { en: "Taragui Yerba Mate", ja: "Taragui ヤーバマテ" },
+    description: {
+      en: "Major Argentine brand with wide international distribution, 500g. Classic con palo for beginners, Sin Palo for experienced drinkers. Practical choice outside South America.",
+      ja: "幅広い国際流通を持つ主要アルゼンチンブランド、500g。初心者向けクラシックコンパロ、経験豊富な飲者向けシンパロ。南米以外での実用的な選択肢。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001TARAGUI", rawUrl: "https://www.amazon.co.jp/dp/B001TARAGUI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-taragui-mate", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTaragui+%E3%83%9E%E3%83%86%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gourd-and-bombilla-set",
+    category: "food",
+    badge: "スターターキット",
+    name: { en: "Mate Gourd and Bombilla Set", ja: "マテゴードとボンビーリャセット" },
+    description: {
+      en: "Calabash or wood gourd + stainless spring bombilla. Requires curing before first use. Wide mouth gourd and spring bombilla recommended for beginners.",
+      ja: "カラバッシュまたは木材ゴード＋ステンレスのスプリングボンビーリャ。初回使用前にキュアリングが必要。初心者には広口ゴードとスプリングボンビーリャを推薦。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07MATEGOURD", rawUrl: "https://www.amazon.co.jp/dp/B07MATEGOURD", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-mate-gourd-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%86%E3%82%B4%E3%83%BC%E3%83%89+%E3%83%9C%E3%83%B3%E3%83%93%E3%83%BC%E3%83%AA%E3%83%A3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yerba-mate-electric-gourd",
+    category: "food",
+    badge: "電気ゴード",
+    name: { en: "Yerba Mate Electric Gourd Thermos", ja: "ヤーバマテ電気ゴードサーモス" },
+    description: {
+      en: "Electric thermos maintaining 75-80°C for mate temperature. Eliminates repeated kettle trips — ideal for office or travel use. Verify temperature accuracy spec before purchasing.",
+      ja: "マテ温度のために75〜80℃を維持する電気サーモス。繰り返しケトルへの往復を排除——オフィスや旅行使用に理想的。購入前に温度精度スペックを確認。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08MATEEL", rawUrl: "https://www.amazon.co.jp/dp/B08MATEEL", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-electric-mate-gourd", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%9B%BB%E6%B0%97%E3%83%9E%E3%83%86%E3%82%B4%E3%83%BC%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Leg Press Machine 💪 ──────────────────────────────────────────────
+  {
+    id: "body-solid-leg-press-hack-squat",
+    category: "fitness",
+    badge: "デュアル機能",
+    name: { en: "Body-Solid GLPH1100 Leg Press and Hack Squat Machine", ja: "Body-Solid GLPH1100 レッグプレス＆ハックスクワット" },
+    description: {
+      en: "Dual leg press + hack squat, 1,000 lb capacity, linear bearings, commercial-grade. Best home gym value — two exercises from one machine under $1,000.",
+      ja: "デュアルレッグプレス＋ハックスクワット、耐荷重1,000ポンド、リニアベアリング、商業グレード。ホームジム最高バリュー——1,000ドル未満で一台から2種類のエクササイズ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001GLPH11", rawUrl: "https://www.amazon.co.jp/dp/B001GLPH11", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-body-solid-leg-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBody+Solid+%E3%83%AC%E3%83%83%E3%82%B0%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "valor-fitness-bd-62-leg-press",
+    category: "fitness",
+    badge: "コンパクト",
+    name: { en: "Valor Fitness BD-62 Leg Press Machine", ja: "Valor Fitness BD-62 レッグプレスマシン" },
+    description: {
+      en: "45-degree sled, nylon guide rods, 400 lb load capacity, compact footprint. $500-650. Budget leg press for moderate loads — smaller footprint than REP or Body-Solid.",
+      ja: "45度スレッド、ナイロンガイドロッド、400ポンド耐荷重、コンパクト設置面積。500〜650ドル。中程度の負荷向け予算レッグプレス——REPやBody-Solidより小さい設置面積。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B007VALORBD62", rawUrl: "https://www.amazon.co.jp/dp/B007VALORBD62", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-valor-bd62", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor+Fitness+%E3%83%AC%E3%83%83%E3%82%B0%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-lp-5000-leg-press",
+    category: "fitness",
+    badge: "専用設計",
+    name: { en: "REP Fitness LP-5000 Leg Press Machine", ja: "REP Fitness LP-5000 レッグプレスマシン" },
+    description: {
+      en: "Dedicated 45-degree leg press, 4-roller carriage, large platform, adjustable back angle. Best purpose-built leg press — wider range of motion and better platform than Body-Solid.",
+      ja: "専用45度レッグプレス、4ローラーキャリッジ、大型プラットフォーム、調整可能な背角度。最高の専用設計レッグプレス——Body-Solidより広い可動域と優れたプラットフォーム。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08REPLP5000", rawUrl: "https://www.amazon.co.jp/dp/B08REPLP5000", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-lp5000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E3%83%AC%E3%83%83%E3%82%B0%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-fitness-leg-press-v2",
+    category: "fitness",
+    badge: "予算11ゲージ",
+    name: { en: "Titan Fitness Leg Press V2", ja: "Titan Fitness レッグプレス V2" },
+    description: {
+      en: "45-degree sled, linear bearings, 1,000 lb capacity. $600-800. Budget alternative to REP — adequate function at lower cost. Slightly rougher sled travel than REP.",
+      ja: "45度スレッド、リニアベアリング、耐荷重1,000ポンド。600〜800ドル。REPへの予算代替——低コストで適切な機能。REPよりわずかに粗いスレッド移動。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07TITANLPV2", rawUrl: "https://www.amazon.co.jp/dp/B07TITANLPV2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-leg-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E3%83%AC%E3%83%83%E3%82%B0%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "marcy-diamond-leg-press",
+    category: "fitness",
+    badge: "エントリーレベル",
+    name: { en: "Marcy Diamond MD-9060G Leg Press Machine", ja: "Marcy Diamond MD-9060G レッグプレスマシン" },
+    description: {
+      en: "45-degree sled, 14-gauge steel, 600 lb rated, entry-level. $300-450. Budget option for light home use — not recommended for high-volume or heavy leg press training.",
+      ja: "45度スレッド、14ゲージスチール、600ポンド定格、エントリーレベル。300〜450ドル。軽い家庭使用向け予算オプション——高ボリュームや重いレッグプレストレーニングには非推薦。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00MARCYDMD", rawUrl: "https://www.amazon.co.jp/dp/B00MARCYDMD", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-marcy-leg-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMarcy+%E3%83%AC%E3%83%83%E3%82%B0%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
