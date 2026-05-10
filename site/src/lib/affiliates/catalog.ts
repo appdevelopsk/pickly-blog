@@ -14579,6 +14579,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-cleto-reyes-gloves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCleto+Reyes+boxing+gloves%2F", markets: ["JP"], approved: true },
     ],
   },
+  // best-green-tea-2026
+  {
+    id: "ippodo-sencha-ummon",
+    category: "food",
+    badge: "参考品質煎茶",
+    name: { en: "Ippodo Ummon Sencha Loose Leaf", ja: "一保堂茶舗 雲門の昔 煎茶" },
+    description: {
+      en: "Japanese loose leaf sencha, Uji-sourced, 80g. $18-25. Best quality reference sencha — Ippodo is Japan's oldest tea shop, direct Uji sourcing.",
+      ja: "日本産ルーフリーフ煎茶、宇治産、80g。$18〜25。最高品質の参考煎茶——日本最古の茶舗・一保堂、宇治からの直接調達。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001FGQRKY", rawUrl: "https://www.amazon.co.jp/dp/B001FGQRKY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ippodo-sencha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%80%E4%BF%9D%E5%A0%82+%E7%85%8E%E8%8C%B6%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harney-sons-japanese-sencha",
+    category: "food",
+    badge: "アクセシブル煎茶",
+    name: { en: "Harney & Sons Japanese Sencha", ja: "ハーニー&サンズ 日本煎茶" },
+    description: {
+      en: "Japanese sencha loose leaf / bags, 4oz / 20 bags. $8-12. Best accessible sencha — available at Whole Foods, good everyday quality.",
+      ja: "日本産煎茶ルーフリーフ/バッグ、4oz / 20袋。$8〜12。最高のアクセシブル煎茶——ホールフーズで入手可能、日常に良い品質。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00AO9OQPI", rawUrl: "https://www.amazon.co.jp/dp/B00AO9OQPI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-harney-japanese-sencha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarney+Sons+Japanese+Sencha%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "two-leaves-genmaicha",
+    category: "food",
+    badge: "初心者向け玄米茶",
+    name: { en: "Two Leaves Genmaicha Green Tea", ja: "ツー・リーブス 玄米茶" },
+    description: {
+      en: "Genmaicha (sencha + roasted rice), loose leaf, 3oz. $10-14. Best genmaicha for beginners — nutty roasted rice offsets grassiness.",
+      ja: "玄米茶（煎茶＋炒った玄米）、ルーフリーフ、3oz。$10〜14。初心者に最高の玄米茶——炒った玄米がグラッシーさを相殺。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000BKKYC6", rawUrl: "https://www.amazon.co.jp/dp/B000BKKYC6", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-two-leaves-genmaicha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%8E%84%E7%B1%B3%E8%8C%B6+loose+leaf%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ippodo-gyokuro",
+    category: "food",
+    badge: "玉露プレミアム",
+    name: { en: "Ippodo Gyokuro Shade-Grown Green Tea", ja: "一保堂茶舗 玉露" },
+    description: {
+      en: "Shade-grown gyokuro, Uji-sourced, 40g. $30-50. Best gyokuro experience — intense umami sweetness, requires temperature control at 50-60°C.",
+      ja: "覆い栽培玉露、宇治産、40g。$30〜50。最高の玉露体験——強烈な旨味の甘さ、50〜60℃での温度管理が必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001ET6Z6E", rawUrl: "https://www.amazon.co.jp/dp/B001ET6Z6E", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ippodo-gyokuro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%80%E4%BF%9D%E5%A0%82+%E7%8E%89%E9%9C%B2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harney-sons-dragon-well",
+    category: "food",
+    badge: "中国緑茶定番",
+    name: { en: "Harney & Sons Dragon Well (Longjing) Green Tea", ja: "ハーニー&サンズ 龍井茶（ロンジン）" },
+    description: {
+      en: "Chinese Dragon Well (Longjing) loose leaf, 4oz. $12-18. Best Chinese green tea — pan-fired, toasty-sweet, less vegetal than Japanese greens.",
+      ja: "中国産龍井茶（ロンジン）ルーフリーフ、4oz。$12〜18。最高の中国緑茶——釜炒り製、トースティで甘い、日本茶より植物的でない。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00AO9OQOE", rawUrl: "https://www.amazon.co.jp/dp/B00AO9OQOE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-harney-dragon-well", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDragon+Well+Longjing+%E9%BE%8D%E4%BA%95%E8%8C%B6%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // best-pickleball-paddle-2026
+  {
+    id: "selkirk-vanguard-power-air",
+    category: "fitness",
+    badge: "プレミアム競技パドル",
+    name: { en: "Selkirk Vanguard Power Air Pickleball Paddle", ja: "セルカーク バンガード パワーエア ピックルボールパドル" },
+    description: {
+      en: "Premium carbon paddle, polymer honeycomb core, Aero-Tec face, 16mm, 7.4-7.6 oz. $200-230. Best premium pickleball paddle — pro tour brand.",
+      ja: "プレミアムカーボンパドル、ポリマーハニカムコア、Aero-Tec面、16mm、7.4〜7.6oz。$200〜230。最高のプレミアムピックルボールパドル——プロツアーブランド。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09D8JMJMV", rawUrl: "https://www.amazon.co.jp/dp/B09D8JMJMV", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-selkirk-vanguard", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSelkirk+Vanguard+Power+Air%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "joola-ben-johns-hyperion-cfs16",
+    category: "fitness",
+    badge: "スピン重視",
+    name: { en: "Joola Ben Johns Hyperion CFS 16 Pickleball Paddle", ja: "ジョーラ ベン・ジョンズ ハイペリオンCFS16 ピックルボールパドル" },
+    description: {
+      en: "Carbon fiber face (CFS), 16mm polymer core, co-designed with world #1 Ben Johns. $200-230. Best spin-forward premium paddle.",
+      ja: "カーボンファイバー面（CFS）、16mmポリマーコア、世界1位ベン・ジョンズとの共同設計。$200〜230。最高のスピン重視プレミアムパドル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09QDNFMYZ", rawUrl: "https://www.amazon.co.jp/dp/B09QDNFMYZ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-joola-ben-johns-hyperion", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJoola+Ben+Johns+Hyperion%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "franklin-x40-paddle-set",
+    category: "fitness",
+    badge: "初心者セット",
+    name: { en: "Franklin Sports X-40 Pickleball Paddle Set (2 Paddles + 4 Balls)", ja: "フランクリン・スポーツ X-40 ピックルボールパドルセット（2本＋ボール4個）" },
+    description: {
+      en: "2 composite paddles + 4 X-40 balls, fiberglass face, polymer core. $30-50. Best beginner set — includes tournament-standard balls.",
+      ja: "コンポジットパドル2本＋X-40ボール4個、ファイバーグラス面、ポリマーコア。$30〜50。最高の初心者セット——トーナメント標準ボール付き。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B003M8VBUG", rawUrl: "https://www.amazon.co.jp/dp/B003M8VBUG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-franklin-x40-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFranklin+X-40+pickleball+paddle+set%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "head-extreme-tour-paddle",
+    category: "fitness",
+    badge: "テニスプレーヤー向け",
+    name: { en: "Head Extreme Tour Pickleball Paddle", ja: "ヘッド エクストリーム ツアー ピックルボールパドル" },
+    description: {
+      en: "Graphite face, polymer core, 7.6 oz. $80-100. Best mid-tier for tennis players — familiar feel, forgiving sweet spot.",
+      ja: "グラファイト面、ポリマーコア、7.6oz。$80〜100。テニスプレーヤーに最高の中堅——親しみやすい感触、許容性の高いスウィートスポット。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01M5HFY21", rawUrl: "https://www.amazon.co.jp/dp/B01M5HFY21", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-head-extreme-tour", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHead+Extreme+Tour+pickleball%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "paddletek-tempest-wave-pro",
+    category: "fitness",
+    badge: "中堅オールラウンダー",
+    name: { en: "Paddletek Tempest Wave Pro Pickleball Paddle", ja: "パドルテック テンペスト ウェーブ プロ ピックルボールパドル" },
+    description: {
+      en: "Textured fiberglass face, polymer core, 14mm, 7.6-8.0 oz. $120-150. Best mid-tier all-rounder — between beginner and premium.",
+      ja: "テクスチャー付きファイバーグラス面、ポリマーコア、14mm、7.6〜8.0oz。$120〜150。最高の中堅オールラウンダー——初心者とプレミアムの間。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07232PYV4", rawUrl: "https://www.amazon.co.jp/dp/B07232PYV4", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-paddletek-tempest-wave", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPaddletek+Tempest+Wave+Pro%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
