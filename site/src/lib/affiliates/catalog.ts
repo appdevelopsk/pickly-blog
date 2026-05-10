@@ -12033,6 +12033,146 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-bosu-nexgen", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBOSU+NexGen%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "all-clad-d3-stainless-stockpot",
+    category: "food",
+    badge: "🍲",
+    name: { en: "All-Clad D3 Stainless Stockpot", ja: "All-Clad D3 ステンレス寸胴鍋" },
+    description: {
+      en: "~$200-400 (8-12 qt). Full tri-ply from rim to rim, 18/10 stainless, made in USA, lifetime warranty. Best for users who want professional-grade longevity and are cooking with it daily. The benchmark for stainless stockpot performance.",
+      ja: "約2万〜4万円（8〜12クォート）。リムからリムまでのフルトリプルクラッド、18/10ステンレス、米国製、終身保証。プログレードの耐久性を求める毎日調理するユーザーに最適。ステンレス寸胴鍋のパフォーマンス基準。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00005AL44", rawUrl: "https://www.amazon.co.jp/dp/B00005AL44", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-allclad-d3-stockpot", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAll-Clad%E5%AF%B8%E8%83%B4%E9%8D%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-multiclad-pro-stockpot",
+    category: "food",
+    badge: "🥘",
+    name: { en: "Cuisinart Multiclad Pro Stainless Stockpot", ja: "Cuisinart Multiclad Pro ステンレス寸胴鍋" },
+    description: {
+      en: "~$60-100 (8-12 qt). Full tri-ply, 18/10 stainless. ~1/3 the price of All-Clad. Best budget fully clad option. Performance matches All-Clad for most home cooking tasks.",
+      ja: "約6千〜1万円（8〜12クォート）。フルトリプルクラッド、18/10ステンレス。All-Cladの約1/3の価格。最高の低価格全体クラッドオプション。ほとんどの家庭調理タスクでAll-Cladと同等のパフォーマンス。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00008CM6H", rawUrl: "https://www.amazon.co.jp/dp/B00008CM6H", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cuisinart-stockpot", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%E5%AF%B8%E8%83%B4%E9%8D%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tramontina-stainless-stockpot",
+    category: "food",
+    badge: "⭐",
+    name: { en: "Tramontina Gourmet Tri-Ply Clad Stockpot", ja: "Tramontina グルメ トリプルクラッド 寸胴鍋" },
+    description: {
+      en: "~$100-150 (8 qt). Fully clad tri-ply, slightly thicker gauge than Cuisinart, Brazilian-made. Best value in fully clad stockpots — close to All-Clad performance at less than half the price. Recommended for most home cooks.",
+      ja: "約1万〜1万5千円（8クォート）。全体クラッドトリプルクラッド、Cuisinartより若干厚いゲージ、ブラジル製。全体クラッド寸胴鍋の最高のコスパ——All-Cladのパフォーマンスに半額以下で近い。ほとんどのホームクックへの推奨購入。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00DHEOGB8", rawUrl: "https://www.amazon.co.jp/dp/B00DHEOGB8", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tramontina-stockpot", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTramontina%E5%AF%B8%E8%83%B4%E9%8D%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lodge-cast-iron-dutch-oven-5qt",
+    category: "food",
+    badge: "🫕",
+    name: { en: "Lodge Enameled Cast Iron Dutch Oven (5 qt)", ja: "Lodge ホーロー鋳鉄ダッチオーブン（5クォート）" },
+    description: {
+      en: "~$80-100. Enameled cast iron, 5 qt, no seasoning required, acidic-food safe. Best for braises, long-cooked soups, and tagines. Exceptional heat retention. Not appropriate for large-batch stock (too small).",
+      ja: "約8千〜1万円。ホーロー鋳鉄、5クォート、シーズニング不要、酸性食品対応。ブレイズ・長時間煮込みスープ・タジンに最適。優れた熱保持。大量ストック作りには不適（小さすぎる）。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00063RWYI", rawUrl: "https://www.amazon.co.jp/dp/B00063RWYI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-lodge-dutch-oven", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%E3%83%80%E3%83%83%E3%83%81%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "demeyere-industry-stockpot",
+    category: "food",
+    badge: "🏆",
+    name: { en: "Demeyere Industry Stainless Stockpot", ja: "Demeyere Industry ステンレス寸胴鍋" },
+    description: {
+      en: "~$250-400. Belgian-made 5-ply stainless, thickest gauge in class, best heat distribution of any stainless stockpot. Best technical specifications available — demonstrably better than All-Clad. For serious home cooks who want the engineering premium.",
+      ja: "約2万5千〜4万円。ベルギー製5プライステンレス、クラスで最も厚いゲージ、ステンレス寸胴鍋の中で最高の熱分布。入手可能な最高の技術仕様。本格的なホームクックで工学的プレミアムを求める方に。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07B4WZ6KT", rawUrl: "https://www.amazon.co.jp/dp/B07B4WZ6KT", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-demeyere-stockpot", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDemeyere%E9%8D%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rx-smart-gear-bullet-comp-speed-rope",
+    category: "fitness",
+    badge: "🏅",
+    name: { en: "RX Smart Gear Bullet Comp Speed Rope", ja: "RX Smart Gear Bullet Comp スピードロープ" },
+    description: {
+      en: "~$55-65. Sealed ball bearings, 2.5 mm PVC cable, 5-inch aluminum handles. Best for advanced athletes optimizing double-under speed and consistency. Competition standard in CrossFit.",
+      ja: "約5千5百〜6千5百円。密封ボールベアリング、2.5mm PVCケーブル、13cmアルミニウムハンドル。ダブルアンダーの速度と一貫性を最適化する上級アスリートに最適。CrossFitの競技標準。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09KFBDRMK", rawUrl: "https://www.amazon.co.jp/dp/B09KFBDRMK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rx-speed-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%97%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "crossrope-get-lean-set",
+    category: "fitness",
+    badge: "⚖️",
+    name: { en: "Crossrope Get Lean Set (Weighted Jump Rope)", ja: "Crossrope Get Lean セット（加重ジャンプロープ）" },
+    description: {
+      en: "~$80-150. Weighted cable system with magnetic quick-connect, multiple cable weights (1/4 lb, 1/2 lb). Best for cardiovascular training with progressive overload. Not optimal for double-under speed — use a lighter rope for that.",
+      ja: "約8千〜1万5千円。磁気クイックコネクト付き加重ケーブルシステム、複数ケーブル重量（1/4ポンド・1/2ポンド）。漸進的過負荷付きの心臓血管トレーニングに最適。ダブルアンダーのスピードには最適でない——そのためには軽いロープを。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07YCMKN5B", rawUrl: "https://www.amazon.co.jp/dp/B07YCMKN5B", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-crossrope-lean", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCrossrope%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%83%AD%E3%83%BC%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "buddy-lee-aero-speed-rope",
+    category: "fitness",
+    badge: "🔄",
+    name: { en: "Buddy Lee Aero Speed Jump Rope", ja: "Buddy Lee Aero スピードジャンプロープ" },
+    description: {
+      en: "~$30-45. Dual-ball bearing, thin wire cable, 5.5-inch handles. Best mid-range option for intermediate athletes who have learned double-unders and want quality bearings without premium pricing.",
+      ja: "約3千〜4千5百円。デュアルボールベアリング、細いワイヤーケーブル、14cmハンドル。ダブルアンダーを習得しプレミアム価格なしの品質ベアリングを求める中級アスリートに最適な中価格帯オプション。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00000IZOJ", rawUrl: "https://www.amazon.co.jp/dp/B00000IZOJ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-buddy-lee-aero", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBuddy+Lee%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wod-nation-speed-rope",
+    category: "fitness",
+    badge: "📝",
+    name: { en: "WOD Nation Speed Jump Rope", ja: "WOD Nation スピードジャンプロープ" },
+    description: {
+      en: "~$20-30. Bushing bearing, 3 mm PVC cable (heavier for timing feedback), video tutorials included. Best starting speed rope for beginners learning double-unders. Heavier cable provides tactile timing cues.",
+      ja: "約2千〜3千円。ブッシングベアリング、3mm PVCケーブル（タイミングフィードバック向上のためより重い）、ビデオチュートリアル付属。ダブルアンダーを学ぶ初心者に最適なスタートスピードロープ。重めのケーブルがタイミングの触覚的な手がかりを提供。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00Z9ERYRA", rawUrl: "https://www.amazon.co.jp/dp/B00Z9ERYRA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wod-nation-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWOD+Nation%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "elite-surge-3-speed-rope",
+    category: "fitness",
+    badge: "⚡",
+    name: { en: "Elite Surge 3 Speed Jump Rope", ja: "Elite Surge 3 スピードジャンプロープ" },
+    description: {
+      en: "~$25-35. Ball bearings at mid-range price, 2 mm PVC cable, 5-inch handles. Best value ball-bearing speed rope. Recommended for most intermediate athletes — ball-bearing quality without the premium price.",
+      ja: "約2千5百〜3千5百円。中価格帯のボールベアリング、2mm PVCケーブル、13cmハンドル。最高のコスパのボールベアリングスピードロープ。ほとんどの中級アスリートへの推奨——RX Smart Gearのプレミアム価格なしのボールベアリング品質。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00U5BPTBG", rawUrl: "https://www.amazon.co.jp/dp/B00U5BPTBG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-elite-surge3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%97%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
