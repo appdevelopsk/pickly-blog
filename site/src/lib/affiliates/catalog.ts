@@ -12875,6 +12875,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-prime-flat-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── best-chemex-2026 ────────────────────────────────────────────────────
+  {
+    id: "chemex-6-cup-classic",
+    category: "food",
+    badge: "☕",
+    name: { en: "Chemex Classic 6-Cup", ja: "Chemex クラシック 6カップ" },
+    description: {
+      en: "~$45-55. Classic hourglass borosilicate glass, wooden collar, leather tie. Brews ~850 ml (3 standard mugs). Standard for 1-2 person households. Requires Chemex bonded filters.",
+      ja: "約6,500〜8,000円。クラシック砂時計ホウケイ酸ガラス、木製カラー、レザータイ。約850ml（3杯）。1〜2人世帯の標準。Chemex専用フィルター必須。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000IKLQZK", rawUrl: "https://www.amazon.co.jp/dp/B000IKLQZK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-chemex-6cup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChemex+6%E3%82%AB%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "chemex-8-cup-classic",
+    category: "food",
+    badge: "☕",
+    name: { en: "Chemex Classic 8-Cup", ja: "Chemex クラシック 8カップ" },
+    description: {
+      en: "~$55-65. Same Classic hourglass design, larger capacity — brews up to 1.1 L. Best for 3+ person households. Wooden collar, not dishwasher-safe.",
+      ja: "約8,000〜1万円。同じクラシック砂時計デザイン、より大きな容量——最大1.1L。3人以上の世帯に最適。木製カラー、食洗機非対応。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000I1WP7W", rawUrl: "https://www.amazon.co.jp/dp/B000I1WP7W", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-chemex-8cup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChemex+8%E3%82%AB%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "chemex-glass-handle",
+    category: "food",
+    badge: "☕",
+    name: { en: "Chemex Glass Handle 8-Cup", ja: "Chemex グラスハンドル 8カップ" },
+    description: {
+      en: "~$55-70. Same borosilicate glass, molded glass handle replaces wooden collar — fully dishwasher-safe. Identical brewing performance. More streamlined aesthetic.",
+      ja: "約8,000〜1万円。同じホウケイ酸ガラス、成形グラスハンドルが木製カラーを置き換え——完全に食洗機対応。同一の抽出パフォーマンス。より流線型の美観。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BTIMTQY", rawUrl: "https://www.amazon.co.jp/dp/B00BTIMTQY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-chemex-glass-handle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChemex+%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "chemex-bonded-filters",
+    category: "food",
+    badge: "☕",
+    name: { en: "Chemex Bonded Filters (100-count)", ja: "Chemex 専用フィルター（100枚）" },
+    description: {
+      en: "~$10-15 per 100 count. Proprietary thick paper filters — not interchangeable with standard filters. Required consumable for all Chemex brewers. Available in white or natural unbleached.",
+      ja: "約1,500〜2,000円（100枚）。独自の厚い紙フィルター——標準フィルターと互換性なし。すべてのChemexブリュワーに必須の消耗品。白または自然（無漂白）で入手可能。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000IKLQZI", rawUrl: "https://www.amazon.co.jp/dp/B000IKLQZI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-chemex-filters", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChemex+%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hario-v60-02",
+    category: "food",
+    badge: "☕",
+    name: { en: "Hario V60 02 Pour-Over", ja: "Hario V60 02 ポアオーバー" },
+    description: {
+      en: "~$25-35 (plastic). Single-serve pour-over dripper, spiral ribs, 60° cone. Thinner filter than Chemex — more body, faster flow, more extraction control. Requires separate server or mug.",
+      ja: "約3,500〜5,000円（プラスチック）。シングルサーブポアオーバードリッパー、スパイラルリブ、60°コーン。Chemexより薄いフィルター——より多くのボディ・より速いフロー・より多くの抽出コントロール。別のサーバーまたはマグが必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001D7X3BK", rawUrl: "https://www.amazon.co.jp/dp/B001D7X3BK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hario-v60", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── best-lat-pulldown-machine-2026 ─────────────────────────────────────
+  {
+    id: "lat-pulldown-machine-by-marcy",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Marcy Lat Pulldown Machine", ja: "Marcy ラットプルダウンマシン" },
+    description: {
+      en: "~$350-450. Dual station (lat pulldown + low row), 150 lb stack, 2:1 ratio (~75 lb effective). Compact footprint. Budget dedicated lat pulldown — correct for entry-level home gym.",
+      ja: "約5万〜6万5千円。デュアルステーション（ラットプルダウン＋ローロウ）、150lbスタック、2:1比（実効約34kg）。コンパクト。予算専用ラットプルダウン——エントリーレベルホームジムに正しい選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B002M2BVRS", rawUrl: "https://www.amazon.co.jp/dp/B002M2BVRS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-marcy-lat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%83%E3%83%88%E3%83%97%E3%83%AB%E3%83%80%E3%82%A6%E3%83%B3%E3%83%9E%E3%82%B7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "body-solid-lat-pulldown",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Body-Solid Lat Pulldown Machine", ja: "Body-Solid ラットプルダウンマシン" },
+    description: {
+      en: "~$500-700. Heavy-gauge steel, 200+ lb stacks, dual pulley system. Best dedicated lat pulldown — commercial feel, better cable quality. Worth premium for athletes using lat pulldown as primary training tool.",
+      ja: "約7万〜10万円。重いゲージスチール、200lb以上のスタック、デュアルプーリーシステム。最高の専用ラットプルダウン——商業的な感覚・より良いケーブル品質。ラットプルダウンを主要ツールとするアスリートにプレミアムの価値あり。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00020KJRS", rawUrl: "https://www.amazon.co.jp/dp/B00020KJRS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-body-solid-lat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBody-Solid+%E3%83%A9%E3%83%83%E3%83%88%E3%83%97%E3%83%AB%E3%83%80%E3%82%A6%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "valor-fitness-cb-12",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Valor Fitness CB-12 Cable Station", ja: "Valor Fitness CB-12 ケーブルステーション" },
+    description: {
+      en: "~$300-400. 150 lb stack, compact 3x3 ft footprint, high and low cable positions. Most space-efficient lat pulldown — lowest cost purpose-built option. 75 lb effective resistance limits long-term use for stronger athletes.",
+      ja: "約4万5千〜6万円。150lbスタック、コンパクト90x90cmフットプリント、高と低ケーブルポジション。最もスペース効率の高いラットプルダウン——最低コストの専用オプション。75lb実効抵抗はより強いアスリートの長期的使用を制限。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01N37BE3N", rawUrl: "https://www.amazon.co.jp/dp/B01N37BE3N", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-valor-cb12", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor+Fitness+%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "functional-trainer-by-force-usa",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Force USA Functional Trainer", ja: "Force USA 機能的トレーナー" },
+    description: {
+      en: "~$800-1,200. Dual independent stacks, height-adjustable cables, 2:1 ratio, 150-200 lb stacks. Best functional trainer for home gym — full cable exercise library, replaces multiple machines. Better warranty than competitors.",
+      ja: "約11万〜17万円。デュアル独立スタック、高さ調整可能ケーブル、2:1比、150〜200lbスタック。ホームジムに最高の機能的トレーナー——完全なケーブルエクササイズライブラリー、複数のマシンを置き換え。競合より優れた保証。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09GTHM4R5", rawUrl: "https://www.amazon.co.jp/dp/B09GTHM4R5", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-force-usa-trainer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A9%9F%E8%83%BD%E7%9A%84%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cable-crossover-by-titan-fitness",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Titan Fitness Functional Trainer", ja: "Titan Fitness 機能的トレーナー" },
+    description: {
+      en: "~$700-1,000. Full functional trainer, adjustable cable heights, dual independent stacks. More accessory options than Force USA. Requires 8 ft ceiling. Correct if you want all cable exercises from one machine.",
+      ja: "約10万〜14万円。完全機能的トレーナー、調整可能ケーブル高さ、デュアル独立スタック。Force USAよりも多くのアクセサリーオプション。天井高240cm必要。1台から全ケーブルエクササイズが欲しい場合に正しい選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08N5BQM6P", rawUrl: "https://www.amazon.co.jp/dp/B08N5BQM6P", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-trainer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
