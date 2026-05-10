@@ -14975,6 +14975,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-nikon-coolshot-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCOOLSHOT+PRO+II%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Black Tea (food) ──────────────────────────────────────────────────
+  {
+    id: "harney-sons-hot-cinnamon-spice",
+    category: "food",
+    badge: "Best Flavored Black Tea",
+    name: { en: "Harney & Sons Hot Cinnamon Spice", ja: "Harney & Sons ホットシナモンスパイス" },
+    description: { en: "Bold black tea with three cinnamons, orange peel and cloves — the benchmark flavored tea", ja: "3種のシナモン・オレンジピール・クローブ入り濃厚フレーバーティー" },
+    links: [
+      { network: "amazon-jp", productId: "B000GG0BNE", rawUrl: "https://www.amazon.co.jp/dp/B000GG0BNE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-harney-cinnamon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarney+Sons+Cinnamon+Spice%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "twinings-english-breakfast",
+    category: "food",
+    badge: "Best Classic Breakfast Tea",
+    name: { en: "Twinings English Breakfast", ja: "Twinings イングリッシュブレックファスト" },
+    description: { en: "Assam-forward blend delivering consistent malty strength for milk tea since 1837", ja: "1837年から続くアッサム主体のミルクティー向けブレンド" },
+    links: [
+      { network: "amazon-jp", productId: "B000GG1OFW", rawUrl: "https://www.amazon.co.jp/dp/B000GG1OFW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-twinings-breakfast", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTwinings+English+Breakfast%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "vahdam-darjeeling-first-flush",
+    category: "food",
+    badge: "Best Single-Origin",
+    name: { en: "Vahdam Darjeeling First Flush", ja: "Vahdam ダージリン一番摘み" },
+    description: { en: "Direct-estate first flush Darjeeling with genuine muscatel character, best without milk", ja: "エステートダイレクト仕入れの一番摘みダージリン、本物のマスカテル風味" },
+    links: [
+      { network: "amazon-jp", productId: "B00LS5GKAG", rawUrl: "https://www.amazon.co.jp/dp/B00LS5GKAG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-vahdam-darjeeling", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVahdam+Darjeeling%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "republic-of-tea-black-tea",
+    category: "food",
+    badge: "Best Everyday Value",
+    name: { en: "Republic of Tea Daily Black Tea", ja: "Republic of Tea デイリーブラックティー" },
+    description: { en: "Full-leaf round sachet black tea with clean malty flavor for daily drinking", ja: "フルリーフ丸型サシェ、クリーンなモルト風味の毎日飲みやすい紅茶" },
+    links: [
+      { network: "amazon-jp", productId: "B001E5E0T4", rawUrl: "https://www.amazon.co.jp/dp/B001E5E0T4", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-republic-tea-black", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRepublic+of+Tea+black%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ahmad-tea-english-no-1",
+    category: "food",
+    badge: "Best Budget Black Tea",
+    name: { en: "Ahmad Tea English No. 1", ja: "Ahmad Tea イングリッシュNo.1" },
+    description: { en: "Brisk malty London-blended black tea at grocery store pricing — hidden gem value", ja: "ロンドンブレンドのキリッとしたモルト紅茶、スーパー価格の隠れた名品" },
+    links: [
+      { network: "amazon-jp", productId: "B004P4ORCI", rawUrl: "https://www.amazon.co.jp/dp/B004P4ORCI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ahmad-english", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAhmad+Tea+English%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Swim Fins (fitness) ──────────────────────────────────────────────
+  {
+    id: "finis-zoomers-gold",
+    category: "fitness",
+    badge: "Best for Technique",
+    name: { en: "FINIS Zoomers Gold", ja: "FINIS ズーマーズ ゴールド" },
+    description: { en: "Short blade training fins that force fast kick turnover matching freestyle cadence", ja: "フリースタイルのリズムに合わせた速いキックターンオーバーを強制するショートブレードフィン" },
+    links: [
+      { network: "amazon-jp", productId: "B000BLLG6Q", rawUrl: "https://www.amazon.co.jp/dp/B000BLLG6Q", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-finis-zoomers", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFINIS+Zoomers%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "speedo-biofuse-training-fin",
+    category: "fitness",
+    badge: "Best All-Round Training Fin",
+    name: { en: "Speedo Biofuse Training Fin", ja: "Speedo バイオフューズ トレーニングフィン" },
+    description: { en: "Medium blade split-channel fins bridging technique and recreational use", ja: "テクニック用とレクリエーション用の中間を埋めるミドルブレードスプリットフィン" },
+    links: [
+      { network: "amazon-jp", productId: "B00KE3BPQQ", rawUrl: "https://www.amazon.co.jp/dp/B00KE3BPQQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-speedo-biofuse-fin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSpeedo+Biofuse+fin%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "arena-powerfin-pro",
+    category: "fitness",
+    badge: "Best for Kicking Sets",
+    name: { en: "Arena Powerfin Pro", ja: "Arena パワーフィン プロ" },
+    description: { en: "Split blade fins with two independent flex channels for balanced kick development", ja: "2チャンネルの独立たわみでバランスよくキックを鍛えるスプリットブレードフィン" },
+    links: [
+      { network: "amazon-jp", productId: "B00TQHKXVY", rawUrl: "https://www.amazon.co.jp/dp/B00TQHKXVY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-arena-powerfin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FArena+Powerfin%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "finis-foil-monofin",
+    category: "fitness",
+    badge: "Best Monofin",
+    name: { en: "FINIS Foil Monofin", ja: "FINIS フォイル モノフィン" },
+    description: { en: "Monofin for dolphin kick and butterfly undulation development", ja: "イルカキックとバタフライのうねり動作を開発するモノフィン" },
+    links: [
+      { network: "amazon-jp", productId: "B000E9WUFA", rawUrl: "https://www.amazon.co.jp/dp/B000E9WUFA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-finis-foil-monofin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFINIS+Foil+Monofin%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tyr-crossblade-trainer",
+    category: "fitness",
+    badge: "Best Budget Training Fin",
+    name: { en: "TYR Crossblade Trainer", ja: "TYR クロスブレード トレーナー" },
+    description: { en: "Entry-level short blade training fins delivering core kick development at low cost", ja: "低コストでキック強化の基本効果を得られるエントリーショートブレードフィン" },
+    links: [
+      { network: "amazon-jp", productId: "B001EQOBG4", rawUrl: "https://www.amazon.co.jp/dp/B001EQOBG4", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tyr-crossblade", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTYR+Crossblade%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
