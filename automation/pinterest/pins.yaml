@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 210 articles x 6 variants x 2 locales (en, ja) = 2520 pins (growing)
+# 212 articles x 6 variants x 2 locales (en, ja) = 2544 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -27972,3 +27972,173 @@ pins:
   title: "パワーラックで一人で安全にトレーニング：セーフティバー設定ガイド"
   description: "セーフティを最低位置でのバーベル高さに設定——スクワットはパラレル、ベンチはチェストタッチの1インチ下。ラックは失敗したレップをキャッチします。"
   image_path: public/og/best-power-rack-2026-ja.png
+
+# ── Batch #216: best-yerba-mate-2026 ─────────────────────────────────────
+- slug: best-yerba-mate-2026
+  locale: en
+  variant: comparison
+  title: "Yerba Mate 2026: Cruz de Malta vs Guayaki vs Taragui + Gourd Guide"
+  description: "Traditional Argentine mate vs organic Guayaki, con palo vs sin palo explained, gourd and bombilla selection, and water temperature for authentic preparation."
+  image_path: public/og/best-yerba-mate-2026-en.png
+
+- slug: best-yerba-mate-2026
+  locale: en
+  variant: top1
+  title: "Best Yerba Mate for Beginners: Cruz de Malta Con Palo"
+  description: "Representative traditional Argentine yerba — milder con palo flavor, long aging process. The reference everyday mate for those new to the gourd preparation."
+  image_path: public/og/best-yerba-mate-2026-en.png
+
+- slug: best-yerba-mate-2026
+  locale: en
+  variant: problem
+  title: "Why Your Mate Tastes Bitter (Don't Use Boiling Water)"
+  description: "100°C water burns yerba mate and produces harsh bitterness. The correct temperature is 75-78°C — not boiling. Use a temperature-controlled kettle."
+  image_path: public/og/best-yerba-mate-2026-en.png
+
+- slug: best-yerba-mate-2026
+  locale: en
+  variant: budget
+  title: "Cheapest Way to Start Drinking Yerba Mate: $15-30 Setup"
+  description: "A $5-10 stainless phin and $10-15 Cruz de Malta is all you need. Starter gourd and bombilla sets cost $15-30 and produce authentic mate preparation."
+  image_path: public/og/best-yerba-mate-2026-en.png
+
+- slug: best-yerba-mate-2026
+  locale: en
+  variant: avoid
+  title: "Don't Judge Yerba Mate by Guayaki Canned Drinks — Try the Gourd"
+  description: "Guayaki canned drinks are carbonated, sweetened, and flavored. Traditional loose yerba in a gourd tastes completely different — try the real preparation first."
+  image_path: public/og/best-yerba-mate-2026-en.png
+
+- slug: best-yerba-mate-2026
+  locale: en
+  variant: scene
+  title: "Traditional Mate Ritual: Gourd + Bombilla + 75°C Water, Refilled All Day"
+  description: "Fill the gourd 2/3 full, slope the yerba, insert bombilla, pour hot water on the empty side. Same leaves produce 5-15 infusions before flavor fades."
+  image_path: public/og/best-yerba-mate-2026-en.png
+
+- slug: best-yerba-mate-2026
+  locale: ja
+  variant: comparison
+  title: "ヤーバマテ2026：Cruz de Malta vs Guayaki vs Taragui＋ゴードガイド"
+  description: "伝統的アルゼンチンマテvsオーガニックGuayaki、コンパロvsシンパロの解説、ゴードとボンビーリャの選び方、本格的な準備方法の水温。"
+  image_path: public/og/best-yerba-mate-2026-ja.png
+
+- slug: best-yerba-mate-2026
+  locale: ja
+  variant: top1
+  title: "初心者向け最適ヤーバマテ：Cruz de Malta コンパロ"
+  description: "代表的な伝統的アルゼンチンのヤーバ——穏やかなコンパロの風味、長い熟成プロセス。ゴード準備が初めての方の日常マテの基準。"
+  image_path: public/og/best-yerba-mate-2026-ja.png
+
+- slug: best-yerba-mate-2026
+  locale: ja
+  variant: problem
+  title: "マテが苦い理由（沸騰したお湯を使わないで）"
+  description: "100℃の水はヤーバマテを焼き、きつい苦みを生み出します。正しい温度は75〜78℃——沸騰させないこと。温度調整付きケトルを使用してください。"
+  image_path: public/og/best-yerba-mate-2026-ja.png
+
+- slug: best-yerba-mate-2026
+  locale: ja
+  variant: budget
+  title: "ヤーバマテを始める最安セットアップ：15〜30ドル"
+  description: "2000〜3000円のCruz de MaltaとスターターゴードとボンビーリャセットだけあれBOK。本格的なマテ準備が可能なスターターキット。"
+  image_path: public/og/best-yerba-mate-2026-ja.png
+
+- slug: best-yerba-mate-2026
+  locale: ja
+  variant: avoid
+  title: "Guayakiの缶ドリンクでマテを判断しないで——ゴードで試して"
+  description: "Guayakiの缶ドリンクは炭酸入り・甘味付き・フレーバー入り。ゴードのルースヤーバとは全く異なります——本格的な準備方法を先に試してください。"
+  image_path: public/og/best-yerba-mate-2026-ja.png
+
+- slug: best-yerba-mate-2026
+  locale: ja
+  variant: scene
+  title: "伝統的なマテの儀式：ゴード＋ボンビーリャ＋75℃のお湯、1日中補充"
+  description: "ゴードを2/3満たし、ヤーバを傾け、ボンビーリャを挿入し、空の側に熱湯を注ぎます。同じ葉が風味が薄れるまで5〜15回の浸出を生み出します。"
+  image_path: public/og/best-yerba-mate-2026-ja.png
+
+# ── Batch #217: best-leg-press-machine-2026 ───────────────────────────────
+- slug: best-leg-press-machine-2026
+  locale: en
+  variant: comparison
+  title: "Leg Press Machine 2026: Body-Solid vs REP vs Valor vs Titan vs Marcy"
+  description: "45-degree sled angle explained, foot placement for quad vs glute emphasis, leg press vs hack squat combo machines, and the best plate-loaded options for home gym."
+  image_path: public/og/best-leg-press-machine-2026-en.png
+
+- slug: best-leg-press-machine-2026
+  locale: en
+  variant: top1
+  title: "Best Home Gym Leg Press: Body-Solid GLPH1100 (Leg Press + Hack Squat)"
+  description: "Dual-function leg press and hack squat machine — two exercises from one machine under $1,000. Linear bearings, 1,000 lb capacity, commercial-grade build."
+  image_path: public/og/best-leg-press-machine-2026-en.png
+
+- slug: best-leg-press-machine-2026
+  locale: en
+  variant: problem
+  title: "Why 400 lbs on the Leg Press Feels Different from 400 lbs Barbell"
+  description: "On a 45-degree sled, effective resistance = total load × sin(45°) ≈ 70%. 400 lbs on the sled feels like ~283 lbs of vertical resistance. The angle matters."
+  image_path: public/og/best-leg-press-machine-2026-en.png
+
+- slug: best-leg-press-machine-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Leg Press Machine: Valor BD-62 ($500-650)"
+  description: "Nylon guide rods, 400 lb load capacity, compact footprint. Adequate for moderate home gym loads — smaller and cheaper than REP or Body-Solid."
+  image_path: public/og/best-leg-press-machine-2026-en.png
+
+- slug: best-leg-press-machine-2026
+  locale: en
+  variant: avoid
+  title: "Don't Deep Leg Press Past 90 Degrees (Knee Safety)"
+  description: "Going significantly past 90 degrees of knee flexion increases knee shear forces. Set safety stops at 90 degrees — most home gym leg press machines allow this adjustment."
+  image_path: public/og/best-leg-press-machine-2026-en.png
+
+- slug: best-leg-press-machine-2026
+  locale: en
+  variant: scene
+  title: "Home Gym Leg Press: High Foot = Glutes, Low Foot = Quads, Wide = Adductors"
+  description: "Foot placement on the platform determines muscle emphasis. High foot targets glutes/hamstrings, low foot targets quads, wide stance hits inner thigh — vary it each set."
+  image_path: public/og/best-leg-press-machine-2026-en.png
+
+- slug: best-leg-press-machine-2026
+  locale: ja
+  variant: comparison
+  title: "レッグプレス2026：Body-Solid vs REP vs Valor vs Titan vs Marcy比較"
+  description: "45度スレッドの仕組み・大腿四頭筋vs臀筋強調のフット配置・レッグプレスvsハックスクワットコンビ・ホームジムのプレートロード式最適選択。"
+  image_path: public/og/best-leg-press-machine-2026-ja.png
+
+- slug: best-leg-press-machine-2026
+  locale: ja
+  variant: top1
+  title: "ベストホームジムレッグプレス：Body-Solid GLPH1100（LP＋ハックスクワット）"
+  description: "デュアル機能レッグプレス＋ハックスクワット——1,000ドル未満で一台から2種類のエクササイズ。リニアベアリング、耐荷重1,000ポンド、商業グレード。"
+  image_path: public/og/best-leg-press-machine-2026-ja.png
+
+- slug: best-leg-press-machine-2026
+  locale: ja
+  variant: problem
+  title: "レッグプレス400ポンドがバーベル400ポンドと違う感じがする理由"
+  description: "45度スレッドでは実質的な抵抗＝総負荷×sin(45°)≈70%。スレッドの400ポンドは約283ポンドの垂直抵抗に感じます。角度が重要です。"
+  image_path: public/og/best-leg-press-machine-2026-ja.png
+
+- slug: best-leg-press-machine-2026
+  locale: ja
+  variant: budget
+  title: "最高の予算レッグプレスマシン：Valor BD-62（500〜650ドル）"
+  description: "ナイロンガイドロッド、400ポンド耐荷重、コンパクト設置面積。中程度の家庭用ジム負荷に適切——REPやBody-Solidより小さく安価。"
+  image_path: public/og/best-leg-press-machine-2026-ja.png
+
+- slug: best-leg-press-machine-2026
+  locale: ja
+  variant: avoid
+  title: "90度以上の深いレッグプレスをしないで（膝の安全）"
+  description: "膝の屈曲が90度を大きく超えると膝のせん断力が増加。セーフティストップを90度に設定——ほとんどのホームジムレッグプレスマシンはこの調整が可能。"
+  image_path: public/og/best-leg-press-machine-2026-ja.png
+
+- slug: best-leg-press-machine-2026
+  locale: ja
+  variant: scene
+  title: "ホームジムレッグプレス：足の位置で臀筋・大腿四頭筋・内転筋を使い分け"
+  description: "プラットフォームのフット位置が筋肉の強調を決定。高いフット→臀筋/ハムストリング、低いフット→大腿四頭筋、広いスタンス→内転筋。セットごとに変える。"
+  image_path: public/og/best-leg-press-machine-2026-ja.png
