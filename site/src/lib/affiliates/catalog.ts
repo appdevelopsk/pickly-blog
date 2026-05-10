@@ -15087,6 +15087,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-tyr-crossblade", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTYR+Crossblade%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Cold Brew Tea (food) ──────────────────────────────────────────────
+  {
+    id: "harney-sons-cold-brew-iced-tea",
+    category: "food",
+    badge: "Best Cold Brew Bags",
+    name: { en: "Harney & Sons Cold Brew Iced Tea", ja: "Harney & Sons コールドブリュー アイスティー" },
+    description: { en: "Cold-brew-specific tea bags formulated for low-temperature extraction, quart-size format", ja: "低温抽出専用配合のコールドブリューティーバッグ、1クォートサイズ" },
+    links: [
+      { network: "amazon-jp", productId: "B00CBSGWH2", rawUrl: "https://www.amazon.co.jp/dp/B00CBSGWH2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-harney-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarney+Cold+Brew%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "palais-des-thes-hammam",
+    category: "food",
+    badge: "Best Herbal Cold Brew",
+    name: { en: "Palais des Thés Hammam", ja: "パレ・デ・テ ハンマム" },
+    description: { en: "Hibiscus-rose-orange herbal blend that cold brews into striking ruby red with natural sweetness", ja: "ハイビスカス・バラ・オレンジブレンド、コールドブリューで鮮やかなルビー色" },
+    links: [
+      { network: "amazon-jp", productId: "B01BVHQXHQ", rawUrl: "https://www.amazon.co.jp/dp/B01BVHQXHQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-palais-des-thes", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPalais+des+Th%C3%A9s%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ippodo-gyokuro",
+    category: "food",
+    badge: "Best Japanese Green Cold Brew",
+    name: { en: "Ippodo Gyokuro", ja: "一保堂 玉露" },
+    description: { en: "Premium shade-grown gyokuro that develops sweet umami notes when cold brewed overnight", ja: "一晩冷水出しで甘いうまみノートが際立つ高級覆下栽培玉露" },
+    links: [
+      { network: "amazon-jp", productId: "B00FFBW928", rawUrl: "https://www.amazon.co.jp/dp/B00FFBW928", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ippodo-gyokuro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%80%E4%BF%9D%E5%A0%82+%E7%8E%89%E9%9C%B2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bigelow-benefits-cold-brew",
+    category: "food",
+    badge: "Best Value Cold Brew",
+    name: { en: "Bigelow Benefits Cold Brew", ja: "Bigelow Benefits コールドブリュー" },
+    description: { en: "Accessible cold brew bags with functional flavors, clean-tasting without cloudiness", ja: "機能系フレーバー付きの手軽なコールドブリューバッグ、濁りなくクリーン" },
+    links: [
+      { network: "amazon-jp", productId: "B07THTZ3Y2", rawUrl: "https://www.amazon.co.jp/dp/B07THTZ3Y2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bigelow-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBigelow+Cold+Brew%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rishi-te-cold-brew-green",
+    category: "food",
+    badge: "Best Organic Cold Brew",
+    name: { en: "Rishi Tea Cold Brew Organic Green", ja: "Rishi Tea オーガニック コールドブリュー グリーン" },
+    description: { en: "USDA organic green tea blend formulated for cold extraction without bitterness", ja: "低温抽出で苦みなしのUSDA有機認証緑茶ブレンド" },
+    links: [
+      { network: "amazon-jp", productId: "B00B9MYE0W", rawUrl: "https://www.amazon.co.jp/dp/B00B9MYE0W", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rishi-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRishi+Tea+Cold+Brew%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Speed Bag (fitness) ──────────────────────────────────────────────
+  {
+    id: "everlast-speed-bag",
+    category: "fitness",
+    badge: "Best for Beginners",
+    name: { en: "Everlast Speed Bag", ja: "Everlast スピードバッグ" },
+    description: { en: "Standard medium speed bag for beginner rhythm development, replaceable bladder", ja: "初心者のリズム習得向け標準ミドルサイズスピードバッグ、交換可能エアブラダー" },
+    links: [
+      { network: "amazon-jp", productId: "B00006JSC1", rawUrl: "https://www.amazon.co.jp/dp/B00006JSC1", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-everlast-speedbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEverlast+speed+bag%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "title-boxing-speed-bag",
+    category: "fitness",
+    badge: "Best Mid-Size Training Bag",
+    name: { en: "Title Boxing Speed Bag", ja: "Title Boxing スピードバッグ" },
+    description: { en: "Genuine leather speed bag for intermediate training with consistent rebound", ja: "一貫したリバウンドの中級者向け本革スピードバッグ" },
+    links: [
+      { network: "amazon-jp", productId: "B000O64HV0", rawUrl: "https://www.amazon.co.jp/dp/B000O64HV0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-title-speedbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitle+Boxing+speed+bag%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ringside-frequency-bag",
+    category: "fitness",
+    badge: "Best All-Round Speed Bag",
+    name: { en: "Ringside Frequency Speed Bag", ja: "Ringside フリクエンシー スピードバッグ" },
+    description: { en: "Multi-layer genuine leather speed bag with consistent rebound for long-term home gym use", ja: "長期ホームジム使用向け多層本革スピードバッグ、安定したリバウンド" },
+    links: [
+      { network: "amazon-jp", productId: "B0019OXUMM", rawUrl: "https://www.amazon.co.jp/dp/B0019OXUMM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ringside-frequency", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRingside+Frequency%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cleto-reyes-speed-bag",
+    category: "fitness",
+    badge: "Best Professional Speed Bag",
+    name: { en: "Cleto Reyes Speed Bag", ja: "クレト・レイエス スピードバッグ" },
+    description: { en: "Handcrafted Mexican leather speed bag with precise internal geometry for professional training", ja: "精密な内部ジオメトリのメキシコ製手縫い本革スピードバッグ" },
+    links: [
+      { network: "amazon-jp", productId: "B001CQFB2Y", rawUrl: "https://www.amazon.co.jp/dp/B001CQFB2Y", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cleto-reyes-speedbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCleto+Reyes+speed+bag%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "century-wavemaster-speed-bag",
+    category: "fitness",
+    badge: "Best for Home Use (No Platform)",
+    name: { en: "Century Wavemaster Freestanding Speed Bag", ja: "Century Wavemaster フリースタンディング スピードバッグ" },
+    description: { en: "Self-contained floor-standing speed bag platform requiring no wall or ceiling installation", ja: "壁・天井への固定不要の自立型スピードバッグプラットフォーム" },
+    links: [
+      { network: "amazon-jp", productId: "B000MVPF4O", rawUrl: "https://www.amazon.co.jp/dp/B000MVPF4O", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-century-wavemaster-sb", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCentury+Wavemaster+speed+bag%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
