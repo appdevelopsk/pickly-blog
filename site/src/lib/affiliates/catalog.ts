@@ -10610,6 +10610,77 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
 
+  // ───────── Fitness / Dumbbell Racks (best-dumbbell-rack-2026) ─────────
+  {
+    id: "cap-barbell-a-frame-dumbbell-rack",
+    category: "fitness",
+    badge: "top-pick",
+    name: { en: "CAP Barbell A-Frame Dumbbell Rack", ja: "CAP Barbell Aフレーム ダンベルラック" },
+    description: {
+      en: "Three-tier welded A-frame design holds up to 10 pairs of hex dumbbells at a 550 lb rated capacity. Inclined angle keeps handles accessible without reaching past other weights. 33-inch wide, 20-inch deep footprint fits against a garage wall without consuming training floor space. Rubber foot pads included.",
+      ja: "3段溶接Aフレーム設計で最大10ペアのヘックスダンベルを550ポンドの耐荷重で収納。傾斜角度により他のウェイトを越えずにハンドルにアクセス可能。幅33インチ・奥行20インチのフットプリントでトレーニング床面積を圧迫しない。ゴムフットパッド付属。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00E6TSXBW", rawUrl: "https://www.amazon.co.jp/dp/B00E6TSXBW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cap-barbell-a-frame-dumbbell-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDumbbell%2BRack%2BStorage%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bowflex-selecttech-stand",
+    category: "fitness",
+    badge: "adjustable-pick",
+    name: { en: "Bowflex SelectTech Dumbbell Stand with Media Rack", ja: "Bowflex SelectTech ダンベルスタンド（メディアラック付き）" },
+    description: {
+      en: "Engineered for SelectTech 552 and 1090 adjustable dumbbells — cradle geometry matches the SelectTech tray exactly. Raises dumbbells to knuckle height for ergonomic pick-up and replacement. Media shelf holds a tablet at eye level for video workouts. Not designed for hex or other adjustable sets.",
+      ja: "SelectTech 552および1090可変式ダンベル専用設計——クレードル形状がSelectTechトレイに正確に合致。ダンベルをナックル高さに持ち上げ人間工学的な拾い上げ・戻しを実現。メディアシェルフで動画ワークアウト用タブレットを目線の高さで保持。ヘックスや他の可変式セットには非対応。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001ARYU58", rawUrl: "https://www.amazon.co.jp/dp/B001ARYU58", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bowflex-selecttech-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex%2BSelectTech%2BDumbbell%2BStand%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-hd-monster-dumbbell-rack",
+    category: "fitness",
+    badge: "heavy-duty-pick",
+    name: { en: "Rogue HD Monster Dumbbell Rack", ja: "Rogue HD Monster ダンベルラック" },
+    description: {
+      en: "Commercial-grade 11-gauge 3x3-inch welded steel construction built to the same spec as Rogue's gym equipment. Three-tier flat-shelf design accommodates round rubber, hex, and urethane dumbbells. Rubber-lined shelves prevent sliding and protect dumbbell coatings. Rated for commercial dumbbell sets from 5 lb through 100 lb per side.",
+      ja: "Rogueのジム機器と同スペックで製造された11ゲージ3x3インチ溶接スチールのコマーシャルグレード構造。3段フラットシェルフ設計でラバーラウンド・ヘックス・ウレタンダンベルに対応。ゴムライニングシェルフでダンベルの滑りを防止しコーティングを保護。片側5〜100ポンドのコマーシャルダンベルセットに対応した耐荷重評価。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07D5KLTDR", rawUrl: "https://www.amazon.co.jp/dp/B07D5KLTDR", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-hd-monster-dumbbell-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BDumbbell%2BRack%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fitness-reality-universal-dumbbell-rack",
+    category: "fitness",
+    badge: "mid-range-pick",
+    name: { en: "Fitness Reality Universal Dumbbell Rack", ja: "Fitness Reality ユニバーサル ダンベルラック" },
+    description: {
+      en: "Three-tier flat-shelf design accommodates both hex and round rubber dumbbells. Wider shelf depth than the CAP A-Frame — suitable for lifters with mixed dumbbell types. Mid-range construction between budget A-frame options and commercial-grade racks. Good value for home gyms expanding beyond a starter hex set.",
+      ja: "ヘックスダンベルとラバーラウンドダンベルの両方に対応する3段フラットシェルフ設計。CAP Aフレームより広いシェルフ奥行き——混合タイプのダンベルを持つトレーニーに最適。バジェットAフレームとコマーシャルグレードの中間構造。スターターヘックスセットを超えて拡張するホームジムに好適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B075TDZQ7R", rawUrl: "https://www.amazon.co.jp/dp/B075TDZQ7R", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fitness-reality-universal-dumbbell-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitness%2BReality%2BDumbbell%2BRack%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "go-time-gear-dumbbell-rack-3-tier",
+    category: "fitness",
+    name: { en: "Go Time Gear 3-Tier Dumbbell Rack", ja: "Go Time Gear 3段 ダンベルラック" },
+    description: {
+      en: "Compact three-tier rack designed for smaller spaces and lighter dumbbell sets in the 5-35 lb range. Holds up to 8 pairs with adequate capacity for a starter home gym. Lower price point than the CAP A-Frame with a narrower overall footprint. Suitable for apartment gym setups or rooms where floor space is the primary constraint.",
+      ja: "5〜35ポンド範囲の軽量ダンベルセットと小さなスペース向けのコンパクト3段ラック。最大8ペアを収納でき、スターターホームジムに十分な容量。CAP Aフレームより低価格で全体フットプリントが狭い。床面積が主要制約要因のアパートジムや部屋に適している。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07CZDMWRK", rawUrl: "https://www.amazon.co.jp/dp/B07CZDMWRK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-go-time-gear-dumbbell-rack-3-tier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F3%25E6%25AE%25B5%2B%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2B%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
   // ───────── Food / Induction Cooktops (best-induction-cooktop-2026) ─────────
   {
     id: "duxtop-9100mc-induction-cooktop",
@@ -10751,6 +10822,78 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "B00004XSC5", rawUrl: "https://www.amazon.co.jp/dp/B00004XSC5", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-taylor-precision-9842", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTaylor%2BDigital%2BMeat%2BThermometer%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Food / Salad Spinners (best-salad-spinner-2026) ─────────
+  {
+    id: "oxo-good-grips-5qt-salad-spinner",
+    category: "food",
+    badge: "top-pick",
+    name: { en: "OXO Good Grips 5-Quart Salad Spinner", ja: "OXO グッドグリップス 5クォート サラダスピナー" },
+    description: {
+      en: "Push-button pump mechanism with one-handed brake stop, 5-quart basket that doubles as a colander, non-slip base, and a clear bowl presentable enough for the table. The benchmark salad spinner for daily home use.",
+      ja: "プッシュボタンポンプ式・片手ブレーキ停止、コランダー兼用の5クォートバスケット、滑り止めベース、食卓に出せるクリアボウルを備えた日常使い向け基準製品。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00004OCLJ", rawUrl: "https://www.amazon.co.jp/dp/B00004OCLJ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-oxo-salad-spinner-5qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%2BSalad%2BSpinner%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zyliss-swift-dry-salad-spinner",
+    category: "food",
+    badge: "mid-pick",
+    name: { en: "Zyliss Swift Dry Salad Spinner Large", ja: "Zyliss スウィフトドライ サラダスピナー ラージ" },
+    description: {
+      en: "Pull-cord mechanism generates fast initial spin speed with a single pull and a simpler design means fewer crevices for food to collect. A reliable mid-range pick for effective water removal without pump mechanism cleaning complexity.",
+      ja: "引き紐式で一回の引きから高速回転を生み出し、シンプルな設計で食物が詰まる隙間が少ない。ポンプ機構の洗浄の手間なしに効果的な脱水を求める中間層向けの確かな製品。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01N9THUNM", rawUrl: "https://www.amazon.co.jp/dp/B01N9THUNM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-zyliss-swift-dry-salad-spinner", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZyliss%2BSalad%2BSpinner%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "chef-n-salad-shot-salad-spinner",
+    category: "food",
+    badge: "compact-pick",
+    name: { en: "Chef'n SaladShot Salad Spinner", ja: "Chef'n サラダショット サラダスピナー" },
+    description: {
+      en: "Trigger-pull mechanism in a compact 3.3-quart body that fits in kitchen drawers where standard spinners won't. The right pick for one-to-two person households or kitchens with limited cabinet space.",
+      ja: "標準スピナーが入らない引き出しに収まるコンパクトな3.3クォートのトリガー引き式。収納スペースが限られた1〜2人世帯に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B002YB0SBK", rawUrl: "https://www.amazon.co.jp/dp/B002YB0SBK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-chef-n-saladshot-spinner", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChef%2527n%2BSaladShot%2BSpinner%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kitchenaid-salad-spinner-ksgss5",
+    category: "food",
+    badge: "premium-pick",
+    name: { en: "KitchenAid Salad Spinner KSGSS5", ja: "KitchenAid サラダスピナー KSGSS5" },
+    description: {
+      en: "Stainless-accented finish matching the KitchenAid product line, 5-quart capacity, finer basket mesh for less water blowback, and a lid that disassembles more cleanly than the OXO. The premium choice for KitchenAid enthusiasts.",
+      ja: "KitchenAidラインと統一感のあるステンレスアクセント仕上げ、5クォート容量、逆流を減らすきめ細かいバスケットメッシュ、OXOよりクリーンに分解できる蓋。KitchenAidファン向けのプレミアム製品。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07WNXLK77", rawUrl: "https://www.amazon.co.jp/dp/B07WNXLK77", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kitchenaid-salad-spinner-ksgss5", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKitchenAid%2BSalad%2BSpinner%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "paderno-world-cuisine-salad-spinner",
+    category: "food",
+    badge: "workhorse-pick",
+    name: { en: "Paderno World Cuisine A4982253 Salad Spinner", ja: "Paderno ワールドキュイジーヌ A4982253 サラダスピナー" },
+    description: {
+      en: "Large-capacity cord-pull spinner with minimal moving parts — easy to clean and durable over years of use. A reliable workhorse for households that prioritize longevity and simplicity over feature refinements.",
+      ja: "可動部が少なく洗いやすく何年も使える大容量引き紐式スピナー。細かな機能差より長持ちとシンプルさを優先する家庭への信頼性の高い実用製品。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00ATO5IPE", rawUrl: "https://www.amazon.co.jp/dp/B00ATO5IPE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-paderno-salad-spinner", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPaderno%2BSalad%2BSpinner%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
