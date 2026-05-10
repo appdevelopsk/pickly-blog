@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 184 articles x 6 variants x 2 locales (en, ja) = 2208 pins (growing)
+# 186 articles x 6 variants x 2 locales (en, ja) = 2232 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -24898,3 +24898,245 @@ pins:
   link: "/ja/best-stability-ball-2026"
   image_alt: "バランスボールブリッジ 腰痛リハビリ 後面鎖 コアストレングス"
   hashtags: ["腰痛", "バランスボール", "腰痛リハビリ", "コアストレングス", "理学療法"]
+
+# best-stockpot-2026
+- id: best-stockpot-2026-comparison-en
+  board: food
+  locale: en
+  variant: comparison
+  title: "Best Stockpots 2026: All-Clad D3 vs Cuisinart Multiclad Pro vs Tramontina vs Lodge vs Demeyere"
+  description: "Five stockpots compared on heat distribution and construction. Fully clad tri-ply vs disc-bottom vs cast iron — what actually matters for making stock, soups, and braises at home."
+  link: "/en/best-stockpot-2026"
+  image_alt: "Best stockpots 2026 comparison All-Clad Cuisinart Tramontina Lodge Demeyere"
+  hashtags: ["stockpot", "cookware", "kitchenessentials", "allclad", "cooking"]
+
+- id: best-stockpot-2026-top1-en
+  board: food
+  locale: en
+  variant: top1
+  title: "Best Stockpot for Most Home Cooks: Tramontina Tri-Ply Clad"
+  description: "Tramontina Gourmet Tri-Ply Clad is the recommended buy for most home cooks — fully clad construction close to All-Clad performance at less than half the price. What to look for in a stockpot."
+  link: "/en/best-stockpot-2026"
+  image_alt: "Tramontina tri-ply stockpot best value home cooking"
+  hashtags: ["stockpot", "tramontina", "cookware", "kitchenessentials", "homecooking"]
+
+- id: best-stockpot-2026-problem-en
+  board: food
+  locale: en
+  variant: problem
+  title: "Why Your Stock Burns on the Bottom: Disc-Bottom vs Fully Clad Stockpots"
+  description: "Disc-bottom stockpots heat only at the base — liquid touching the sides gets heat from stainless steel alone, a poor conductor. Scorching happens where protein solids settle. Fully clad construction solves this."
+  link: "/en/best-stockpot-2026"
+  image_alt: "Stockpot heat distribution disc-bottom vs fully clad construction"
+  hashtags: ["stockpot", "cookware", "cooking", "kitchentips", "homecooking"]
+
+- id: best-stockpot-2026-budget-en
+  board: food
+  locale: en
+  variant: budget
+  title: "Best Budget Stockpot with Fully Clad Construction: Cuisinart Multiclad Pro"
+  description: "Cuisinart Multiclad Pro is a fully clad tri-ply stockpot at ~1/3 the price of All-Clad. Performance matches for standard tasks — boiling pasta, simmering stock. Slightly thinner gauge but the best budget option."
+  link: "/en/best-stockpot-2026"
+  image_alt: "Cuisinart Multiclad Pro budget stockpot fully clad"
+  hashtags: ["stockpot", "cuisinart", "budgetcooking", "cookware", "kitchenessentials"]
+
+- id: best-stockpot-2026-avoid-en
+  board: food
+  locale: en
+  variant: avoid
+  title: "Stockpot Sizing Mistake: Why You Probably Don't Need a 16 Qt"
+  description: "The most common sizing error is buying too large. A 16 qt stockpot is difficult to fill enough to maintain good simmering ratios for most recipes and takes much longer to boil. Buy for your largest regular use, not the maximum."
+  link: "/en/best-stockpot-2026"
+  image_alt: "Stockpot sizing guide what size do you need"
+  hashtags: ["stockpot", "cookware", "kitchentips", "cooking", "homecooking"]
+
+- id: best-stockpot-2026-scene-en
+  board: food
+  locale: en
+  variant: scene
+  title: "Making Chicken Stock from Scratch: What Stockpot Construction Actually Matters"
+  description: "For long-simmered stocks and soups, fully clad tri-ply construction keeps heat even from base to rim — better convection, less scorching at the bottom. How the All-Clad D3, Tramontina, and Cuisinart compare for actual home use."
+  link: "/en/best-stockpot-2026"
+  image_alt: "Chicken stock recipe stockpot fully clad construction home cooking"
+  hashtags: ["chickenstock", "stockpot", "homecooking", "cookware", "souprecipe"]
+
+- id: best-stockpot-2026-comparison-ja
+  board: food
+  locale: ja
+  variant: comparison
+  title: "寸胴鍋おすすめ2026：All-Clad D3 vs Cuisinart Multiclad Pro vs Tramontina vs Lodge vs Demeyere比較"
+  description: "5製品の熱分布・構造品質・IH対応を徹底比較。全体クラッドvsディスクボトムvs鋳鉄——実際の調理でどの差が重要か。"
+  link: "/ja/best-stockpot-2026"
+  image_alt: "寸胴鍋おすすめ2026比較 AllClad Cuisinart Tramontina Lodge Demeyere"
+  hashtags: ["寸胴鍋", "調理器具", "キッチン用品", "AllClad", "料理"]
+
+- id: best-stockpot-2026-top1-ja
+  board: food
+  locale: ja
+  variant: top1
+  title: "ほとんどのホームクックへのおすすめ寸胴鍋：Tramontina トリプルクラッド"
+  description: "Tramontina Gourmet Tri-Ply Cladはほとんどのホームクックへの推奨購入——All-Cladの半額以下で全体クラッド構造。寸胴鍋で本当に必要なスペックとは。"
+  link: "/ja/best-stockpot-2026"
+  image_alt: "Tramontina トリプルクラッド 寸胴鍋 コスパ"
+  hashtags: ["寸胴鍋", "Tramontina", "調理器具", "コスパ", "料理"]
+
+- id: best-stockpot-2026-problem-ja
+  board: food
+  locale: ja
+  variant: problem
+  title: "スープストックが底で焦げる原因：ディスクボトムvs全体クラッド鍋"
+  description: "ディスクボトムの鍋は底しか均一に加熱されない——側面に触れる液体はステンレス鋼からのみ熱を受け焦げやすい。全体クラッドが解決策。"
+  link: "/ja/best-stockpot-2026"
+  image_alt: "寸胴鍋 熱分布 ディスクボトム 全体クラッド 焦げ対策"
+  hashtags: ["寸胴鍋", "調理器具", "料理のコツ", "熱分布", "ストック"]
+
+- id: best-stockpot-2026-budget-ja
+  board: food
+  locale: ja
+  variant: budget
+  title: "コスパ最強の全体クラッド寸胴鍋：Cuisinart Multiclad Pro"
+  description: "Cuisinart Multiclad ProはAll-Cladの約3分の1の価格で全体クラッド構造。通常の調理タスクではAll-Cladと実質的に差なし——最高のコスパ全体クラッドオプション。"
+  link: "/ja/best-stockpot-2026"
+  image_alt: "Cuisinart Multiclad Pro 寸胴鍋 コスパ 全体クラッド"
+  hashtags: ["寸胴鍋", "Cuisinart", "節約", "調理器具", "キッチン"]
+
+- id: best-stockpot-2026-avoid-ja
+  board: food
+  locale: ja
+  variant: avoid
+  title: "寸胴鍋のサイズ選びミス：なぜ大きすぎる鍋は失敗するのか"
+  description: "最も多いサイズ選びの間違いは大きすぎるものを買うこと。16クォートの寸胴鍋は家庭料理では十分な量を満たすのが難しく沸騰まで長くかかる。実際の用途に合ったサイズが正解。"
+  link: "/ja/best-stockpot-2026"
+  image_alt: "寸胴鍋 サイズ選び 何クォートがいい"
+  hashtags: ["寸胴鍋", "調理器具", "料理のコツ", "キッチン選び", "料理"]
+
+- id: best-stockpot-2026-scene-ja
+  board: food
+  locale: ja
+  variant: scene
+  title: "鶏ガラスープを自宅で作る：全体クラッド鍋がなぜ重要か"
+  description: "長時間のストックとスープには全体クラッドが底からリムまで均一な熱を維持——より良い対流循環、底での焦げ付き防止。All-Clad D3・Tramontina・Cuisinartの実際の差。"
+  link: "/ja/best-stockpot-2026"
+  image_alt: "鶏ガラスープ 作り方 寸胴鍋 全体クラッド 家庭料理"
+  hashtags: ["鶏ガラスープ", "寸胴鍋", "家庭料理", "調理器具", "スープレシピ"]
+
+# best-speed-rope-2026
+- id: best-speed-rope-2026-comparison-en
+  board: fitness
+  locale: en
+  variant: comparison
+  title: "Best Speed Ropes 2026: RX Smart Gear vs Crossrope vs Buddy Lee vs WOD Nation vs Elite Surge"
+  description: "Five speed ropes compared on bearing quality, cable weight, and double-under suitability. Ball bearings vs bushings vs weighted cables — what the mechanical differences actually mean for training."
+  link: "/en/best-speed-rope-2026"
+  image_alt: "Best speed ropes 2026 comparison RX Smart Gear Crossrope Buddy Lee WOD Nation Elite Surge"
+  hashtags: ["speedrope", "jumprope", "crossfit", "doubleunders", "fitness"]
+
+- id: best-speed-rope-2026-top1-en
+  board: fitness
+  locale: en
+  variant: top1
+  title: "Best Value Ball-Bearing Speed Rope: Elite Surge 3"
+  description: "Elite Surge 3 uses ball bearings at a mid-range price ($25-35) — same bearing quality as the premium RX Smart Gear but $20-30 less. For most athletes doing double-unders and moderate training, the recommended choice."
+  link: "/en/best-speed-rope-2026"
+  image_alt: "Elite Surge 3 speed rope ball bearing value recommendation"
+  hashtags: ["speedrope", "elitesurge", "jumprope", "doubleunders", "crossfit"]
+
+- id: best-speed-rope-2026-problem-en
+  board: fitness
+  locale: en
+  variant: problem
+  title: "Why You Can't Do Double-Unders: It's the Bearing, Not You"
+  description: "Cheap ropes have fixed handle attachments — the handle rotates with every revolution. A bearing-equipped rope decouples handle from cable rotation. This single mechanical difference makes double-unders and high-speed skipping possible."
+  link: "/en/best-speed-rope-2026"
+  image_alt: "Double-unders speed rope bearing system how it works"
+  hashtags: ["doubleunders", "speedrope", "jumprope", "crossfit", "bearingsystem"]
+
+- id: best-speed-rope-2026-budget-en
+  board: fitness
+  locale: en
+  variant: budget
+  title: "Best Beginner Speed Rope for Learning Double-Unders: WOD Nation"
+  description: "WOD Nation is a bushing-bearing rope at $20-30 with a slightly heavier 3 mm PVC cable that gives better timing feedback for beginners. The heavier cable helps you feel each turn — correct choice if you're starting from zero."
+  link: "/en/best-speed-rope-2026"
+  image_alt: "WOD Nation speed rope beginner double-unders learning"
+  hashtags: ["wodnation", "speedrope", "beginners", "doubleunders", "jumprope"]
+
+- id: best-speed-rope-2026-avoid-en
+  board: fitness
+  locale: en
+  variant: avoid
+  title: "Don't Buy the Premium Speed Rope Before Learning Double-Unders"
+  description: "The bearing quality difference between a $25 Elite Surge and a $60 RX Smart Gear only matters at very high consecutive rep counts. If you haven't learned double-unders yet, the bearing isn't your bottleneck — practice repetitions are."
+  link: "/en/best-speed-rope-2026"
+  image_alt: "Speed rope advice don't overspend before learning double-unders"
+  hashtags: ["speedrope", "jumprope", "doubleunders", "crossfit", "fitnessgear"]
+
+- id: best-speed-rope-2026-scene-en
+  board: fitness
+  locale: en
+  variant: scene
+  title: "Jump Rope for CrossFit, Boxing, and Cardio: Which Speed Rope Fits Your Training"
+  description: "CrossFit athletes need ball-bearing ropes for double-unders. Boxers benefit from weighted ropes for conditioning and light speed ropes for footwork. Regular cardio: any bearing rope over a fixed-handle rope makes a real difference."
+  link: "/en/best-speed-rope-2026"
+  image_alt: "Speed rope crossfit boxing cardio training jump rope"
+  hashtags: ["speedrope", "crossfit", "boxing", "cardio", "jumprope"]
+
+- id: best-speed-rope-2026-comparison-ja
+  board: fitness
+  locale: ja
+  variant: comparison
+  title: "スピードロープおすすめ2026：RX Smart Gear vs Crossrope vs Buddy Lee vs WOD Nation vs Elite Surge"
+  description: "ベアリング品質・ケーブル重量・ダブルアンダー適性で5製品比較。ボールベアリングvsブッシングvsウェイテッドケーブル——実際のトレーニングへの意味。"
+  link: "/ja/best-speed-rope-2026"
+  image_alt: "スピードロープおすすめ2026比較 RXSmartGear Crossrope BuddyLee WODNation EliteSurge"
+  hashtags: ["スピードロープ", "縄跳び", "クロスフィット", "ダブルアンダー", "フィットネス"]
+
+- id: best-speed-rope-2026-top1-ja
+  board: fitness
+  locale: ja
+  variant: top1
+  title: "コスパ最強のボールベアリングスピードロープ：Elite Surge 3"
+  description: "Elite Surge 3はミドルレンジの価格（3500〜5000円）でボールベアリング——プレミアムなRX Smart Gearと同等のベアリング品質で2500〜4000円安い。ほとんどの中級者への推奨。"
+  link: "/ja/best-speed-rope-2026"
+  image_alt: "Elite Surge 3 スピードロープ ボールベアリング コスパ"
+  hashtags: ["スピードロープ", "EliteSurge", "縄跳び", "ダブルアンダー", "クロスフィット"]
+
+- id: best-speed-rope-2026-problem-ja
+  board: fitness
+  locale: ja
+  variant: problem
+  title: "ダブルアンダーができない原因：ベアリングの仕組みで解決する"
+  description: "安価なロープはハンドルが毎回転と一緒に回転する——ベアリング付きはケーブルの回転をハンドルから分離。この1つの機械的な差がダブルアンダーと高速縄跳びを可能にする。"
+  link: "/ja/best-speed-rope-2026"
+  image_alt: "ダブルアンダー スピードロープ ベアリング 仕組み"
+  hashtags: ["ダブルアンダー", "スピードロープ", "縄跳び", "クロスフィット", "ベアリング"]
+
+- id: best-speed-rope-2026-budget-ja
+  board: fitness
+  locale: ja
+  variant: budget
+  title: "ダブルアンダー初心者へのおすすめスピードロープ：WOD Nation"
+  description: "WOD Nationは3000〜4000円のブッシングベアリングロープで、やや重い3mm PVCケーブルが初心者にタイミングのフィードバックを提供。重いケーブルが各ターンを感じやすくする——ゼロから始める人に正しい選択。"
+  link: "/ja/best-speed-rope-2026"
+  image_alt: "WOD Nation スピードロープ ダブルアンダー 初心者"
+  hashtags: ["WODNation", "スピードロープ", "初心者", "ダブルアンダー", "縄跳び"]
+
+- id: best-speed-rope-2026-avoid-ja
+  board: fitness
+  locale: ja
+  variant: avoid
+  title: "ダブルアンダーを覚える前にプレミアムロープを買わないこと"
+  description: "25ドルのElite Surgeと60ドルのRX Smart Gearのベアリング品質差が重要になるのは非常に高い連続回数のみ。ダブルアンダーをまだ習得していないなら、ボトルネックはベアリングではなく練習回数。"
+  link: "/ja/best-speed-rope-2026"
+  image_alt: "スピードロープ ダブルアンダー 習得前に高いロープ不要"
+  hashtags: ["スピードロープ", "縄跳び", "ダブルアンダー", "フィットネス", "器具選び"]
+
+- id: best-speed-rope-2026-scene-ja
+  board: fitness
+  locale: ja
+  variant: scene
+  title: "クロスフィット・ボクシング・有酸素運動：トレーニング別スピードロープ選び"
+  description: "クロスフィットにはダブルアンダー用ボールベアリングロープが必要。ボクシングはコンディショニング用ウェイテッドと動き用スピードロープの両方が効果的。有酸素運動なら固定ハンドルよりどんなベアリングロープでも実際の違いがある。"
+  link: "/ja/best-speed-rope-2026"
+  image_alt: "スピードロープ クロスフィット ボクシング 有酸素運動 縄跳び"
+  hashtags: ["スピードロープ", "クロスフィット", "ボクシング", "有酸素運動", "縄跳び"]
