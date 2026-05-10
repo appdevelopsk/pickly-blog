@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 180 articles x 6 variants x 2 locales (en, ja) = 2160 pins (growing)
+# 182 articles x 6 variants x 2 locales (en, ja) = 2184 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -24370,3 +24370,267 @@ pins:
   link: "/ja/best-balance-board-2026"
   image_alt: "スタンディングデスク ウォブルボード 固有感覚 継続的な動き"
   hashtags: ["スタンディングデスク", "バランスボード", "オフィスウェルネス", "デスクエクササイズ", "固有感覚"]
+
+- id: "best-ice-cream-maker-2026-comparison-en"
+  article_slug: "best-ice-cream-maker-2026"
+  variant: "comparison"
+  locale: "en"
+  board: "food"
+  title: "Cuisinart vs Whynter vs Breville vs Ninja Creami vs KitchenAid: Ice Cream Maker Compared"
+  description: "Five ice cream makers, three different mechanisms: pre-freeze canister (Cuisinart, KitchenAid), compressor on-demand (Whynter, Breville), and blade-processing frozen pint (Ninja Creami). Which method fits your kitchen and how you actually cook."
+  link: "/en/best-ice-cream-maker-2026"
+  image_alt: "ice cream maker comparison 2026 Cuisinart Whynter Breville Ninja KitchenAid"
+  hashtags: ["IceCreamMaker", "HomemadeIceCream", "KitchenAppliances", "Cuisinart", "NinjaCreami"]
+
+- id: "best-ice-cream-maker-2026-top1-en"
+  article_slug: "best-ice-cream-maker-2026"
+  variant: "top1"
+  locale: "en"
+  board: "food"
+  title: "The Best Ice Cream Maker for Most Homes: Cuisinart ICE-21 at $50"
+  description: "The Cuisinart ICE-21 has been the market standard for 20+ years for a reason: pre-freeze canister, 1.5 quarts in 25 minutes, replacement canisters available. At $50, it's the right first ice cream maker before investing $300 in a compressor machine."
+  link: "/en/best-ice-cream-maker-2026"
+  image_alt: "Cuisinart ICE-21 best ice cream maker 50 dollars value standard"
+  hashtags: ["HomemadeIceCream", "Cuisinart", "KitchenTools", "IceCreamMaker", "BudgetKitchen"]
+
+- id: "best-ice-cream-maker-2026-problem-en"
+  article_slug: "best-ice-cream-maker-2026"
+  variant: "problem"
+  locale: "en"
+  board: "food"
+  title: "Why Homemade Ice Cream Gets Rock Hard in the Freezer (and the Fix)"
+  description: "Commercial ice cream has stabilizers and 50-100% overrun that keeps it scoopable. Homemade doesn't. Fix: add 1-2 tablespoons of alcohol (vodka, bourbon) per quart to lower the freezing point, plus press plastic wrap directly against the surface to prevent ice crystal formation."
+  link: "/en/best-ice-cream-maker-2026"
+  image_alt: "homemade ice cream hard freezer problem fix alcohol stabilizer"
+  hashtags: ["HomemadeIceCream", "IceCreamTips", "KitchenHacks", "IceCreamMaking", "FoodScience"]
+
+- id: "best-ice-cream-maker-2026-budget-en"
+  article_slug: "best-ice-cream-maker-2026"
+  variant: "budget"
+  locale: "en"
+  board: "food"
+  title: "Best Budget Ice Cream Maker: Cuisinart ICE-21 vs KitchenAid Attachment"
+  description: "Two ways to make ice cream for under $70: the Cuisinart ICE-21 ($50 standalone) or the KitchenAid attachment ($60 if you already own the mixer). Same pre-freeze mechanism, similar results. The KitchenAid wins if you already own the mixer; Cuisinart wins if you don't."
+  link: "/en/best-ice-cream-maker-2026"
+  image_alt: "budget ice cream maker Cuisinart ICE-21 KitchenAid attachment comparison"
+  hashtags: ["BudgetKitchen", "IceCreamMaker", "HomemadeIceCream", "KitchenAid", "Cuisinart"]
+
+- id: "best-ice-cream-maker-2026-avoid-en"
+  article_slug: "best-ice-cream-maker-2026"
+  variant: "avoid"
+  locale: "en"
+  board: "food"
+  title: "Ice Cream Maker Mistake: Buying a Compressor Machine for Occasional Use"
+  description: "A $300 compressor ice cream maker makes sense if you're making ice cream weekly. For occasional use — a few times per year — the $50 Cuisinart ICE-21 produces identical results and takes 1 cubic foot of freezer space for the canister. Compressor machines are justified by frequency, not quality."
+  link: "/en/best-ice-cream-maker-2026"
+  image_alt: "ice cream maker buying mistake compressor vs canister occasional use"
+  hashtags: ["KitchenMistakes", "IceCreamMaker", "BuyingGuide", "KitchenBudget", "HomemadeIceCream"]
+
+- id: "best-ice-cream-maker-2026-scene-en"
+  article_slug: "best-ice-cream-maker-2026"
+  variant: "scene"
+  locale: "en"
+  board: "food"
+  title: "Ninja Creami: Making Ice Cream from Frozen Protein Shake Pints"
+  description: "The Ninja Creami processes bases that fail in churning machines: high-protein (60g protein per pint), fruit-only (no cream at all), or high-fiber. The blade processing from frozen solid creates small ice crystals regardless of base composition. This is how people make macros-friendly ice cream that actually tastes smooth."
+  link: "/en/best-ice-cream-maker-2026"
+  image_alt: "Ninja Creami protein ice cream high protein pint blade processing"
+  hashtags: ["NinjaCreami", "ProteinIceCream", "HighProtein", "MacroFriendly", "HealthyDessert"]
+
+- id: "best-ice-cream-maker-2026-comparison-ja"
+  article_slug: "best-ice-cream-maker-2026"
+  variant: "comparison"
+  locale: "ja"
+  board: "food"
+  title: "Cuisinart vs Whynter vs Breville vs Ninja Creami vs KitchenAid：アイスクリームメーカー比較"
+  description: "5製品3種のメカニズム：事前冷凍キャニスター式（Cuisinart・KitchenAid）・コンプレッサーオンデマンド式（Whynter・Breville）・冷凍パイントのブレード加工（Ninja Creami）。あなたのキッチンと料理スタイルに合う方式を解説。"
+  link: "/ja/best-ice-cream-maker-2026"
+  image_alt: "アイスクリームメーカー比較2026 Cuisinart Whynter Breville Ninja KitchenAid"
+  hashtags: ["アイスクリームメーカー", "手作りアイス", "キッチン家電", "Cuisinart", "NinjaCreami"]
+
+- id: "best-ice-cream-maker-2026-top1-ja"
+  article_slug: "best-ice-cream-maker-2026"
+  variant: "top1"
+  locale: "ja"
+  board: "food"
+  title: "ほとんどの家庭に最適なアイスクリームメーカー：Cuisinart ICE-21 5,000円"
+  description: "Cuisinart ICE-21が20年以上市場標準であり続ける理由：事前冷凍キャニスター、25分で1.5クォート、交換キャニスター入手可能。5千円で、3万円のコンプレッサーマシンに投資する前の最初のアイスクリームメーカーとして最適。"
+  link: "/ja/best-ice-cream-maker-2026"
+  image_alt: "Cuisinart ICE-21 おすすめアイスクリームメーカー コスパ 定番"
+  hashtags: ["手作りアイス", "Cuisinart", "キッチン用品", "アイスクリームメーカー", "コスパ最強"]
+
+- id: "best-ice-cream-maker-2026-problem-ja"
+  article_slug: "best-ice-cream-maker-2026"
+  variant: "problem"
+  locale: "ja"
+  board: "food"
+  title: "手作りアイスが冷凍庫でカチカチになる理由と解決策",
+  description: "市販のアイスには安定剤とオーバーラン50〜100%がありすくいやすい。手作りにはない。解決策：クォートあたり大さじ1〜2のアルコール（ウォッカ・バーボン）で氷点を下げ、表面にラップを直接貼り付けて氷晶の形成を防ぐ。"
+  link: "/ja/best-ice-cream-maker-2026"
+  image_alt: "手作りアイス カチカチ 冷凍庫 原因 解決策 アルコール"
+  hashtags: ["手作りアイス", "アイスクリームのコツ", "キッチンハック", "食品科学", "アイスクリーム作り"]
+
+- id: "best-ice-cream-maker-2026-budget-ja"
+  article_slug: "best-ice-cream-maker-2026"
+  variant: "budget"
+  locale: "ja"
+  board: "food"
+  title: "7,000円以下のアイスクリームメーカー：Cuisinart ICE-21 vs KitchenAidアタッチメント",
+  description: "7千円以下でアイスクリームを作る2つの方法：Cuisinart ICE-21（5千円スタンドアロン）またはKitchenAidアタッチメント（ミキサーを持っていれば6千円）。同じ事前冷凍メカニズム、同様の結果。ミキサーを持っていればKitchenAid、なければCuisinartが勝ち。"
+  link: "/ja/best-ice-cream-maker-2026"
+  image_alt: "安いアイスクリームメーカー Cuisinart ICE-21 KitchenAidアタッチメント比較"
+  hashtags: ["コスパ最強", "アイスクリームメーカー", "手作りアイス", "KitchenAid", "Cuisinart"]
+
+- id: "best-ice-cream-maker-2026-avoid-ja"
+  article_slug: "best-ice-cream-maker-2026"
+  variant: "avoid"
+  locale: "ja"
+  board: "food"
+  title: "アイスクリームメーカーの選択ミス：たまにしか使わないのにコンプレッサー式を買う"
+  description: "3万円のコンプレッサー式は週1回以上作る場合に価値がある。年に数回の偶発的な使用には、5千円のCuisinart ICE-21で同じ結果が得られ、キャニスター用に冷凍庫スペースが0.03立方フィートあれば十分。コンプレッサー式が正当化されるのは頻度によるもので、品質の差ではない。"
+  link: "/ja/best-ice-cream-maker-2026"
+  image_alt: "アイスクリームメーカー 選択ミス コンプレッサー式 たまに使う"
+  hashtags: ["キッチンの失敗", "アイスクリームメーカー", "購入ガイド", "キッチン予算", "手作りアイス"]
+
+- id: "best-ice-cream-maker-2026-scene-ja"
+  article_slug: "best-ice-cream-maker-2026"
+  variant: "scene"
+  locale: "ja"
+  board: "food"
+  title: "Ninja Creami：冷凍プロテインシェイクパイントからアイスを作る"
+  description: "Ninja Creamiはチャーニングマシンで失敗するベースを加工できる：高タンパク（パイントあたり60gタンパク質）・フルーツのみ（クリームなし）・高繊維。固形から凍った状態からのブレード加工はベース組成に関係なく小さな氷晶を生成する。マクロに配慮した本当に滑らかなアイスの作り方。"
+  link: "/ja/best-ice-cream-maker-2026"
+  image_alt: "Ninja Creami プロテインアイス 高タンパク パイント ブレード加工"
+  hashtags: ["NinjaCreami", "プロテインアイス", "高タンパク", "マクロ管理", "ヘルシースイーツ"]
+
+- id: "best-agility-ladder-2026-comparison-en"
+  article_slug: "best-agility-ladder-2026"
+  variant: "comparison"
+  locale: "en"
+  board: "fitness"
+  title: "SKLZ vs Perfect Fitness vs Yes4All vs Toezone vs Speed & Agility Pro: Agility Ladder Compared"
+  description: "Five agility ladders for different needs: SKLZ (coach standard), Perfect Fitness (+42 drill card), Yes4All (20-foot option), Toezone (team durability), Speed & Agility Pro (aluminum rungs). The differences that matter for individual vs team training."
+  link: "/en/best-agility-ladder-2026"
+  image_alt: "agility ladder comparison 2026 SKLZ Perfect Fitness Yes4All Toezone aluminum"
+  hashtags: ["AgilityLadder", "FootSpeed", "AgilityTraining", "SpeedTraining", "AthleteTraining"]
+
+- id: "best-agility-ladder-2026-top1-en"
+  article_slug: "best-agility-ladder-2026"
+  variant: "top1"
+  locale: "en"
+  board: "fitness"
+  title: "Best Agility Ladder for Self-Coached Athletes: Perfect Fitness + 42 Drills"
+  description: "The Perfect Fitness Agility Ladder includes a 42-drill card covering beginner through intermediate patterns. Without a coach, most people repeat the same two drills and stop progressing. The drill card provides curriculum — the difference between training and going through the motions."
+  link: "/en/best-agility-ladder-2026"
+  image_alt: "Perfect Fitness agility ladder 42 drill card self-coached athlete"
+  hashtags: ["AgilityLadder", "AgilityDrills", "FootSpeed", "SelfCoached", "SpeedTraining"]
+
+- id: "best-agility-ladder-2026-problem-en"
+  article_slug: "best-agility-ladder-2026"
+  variant: "problem"
+  locale: "en"
+  board: "fitness"
+  title: "Why Agility Ladder Training Stops Working (and the Fix)"
+  description: "Agility training requires near-maximal effort to produce adaptation. 70-80% effort drills = almost no speed gains. The fix: 8-10 reps per pattern at maximum speed, 30-60 second rest, 10-15 minutes total. More time at medium effort won't improve foot speed — intensity does."
+  link: "/en/best-agility-ladder-2026"
+  image_alt: "agility ladder training stops working effort intensity fix drills"
+  hashtags: ["AgilityTraining", "FootSpeed", "SpeedTraining", "WorkoutTips", "AthletePerformance"]
+
+- id: "best-agility-ladder-2026-budget-en"
+  article_slug: "best-agility-ladder-2026"
+  variant: "budget"
+  locale: "en"
+  board: "fitness"
+  title: "Best Budget Agility Ladder Under $25: SKLZ vs Yes4All"
+  description: "Both the SKLZ ($20-30) and Yes4All ($20-35) are flat-plastic-rung ladders with adjustable spacing and carrying bags. SKLZ has brand recognition from organized coaching programs. Yes4All has a 20-foot length option for longer drill sequences. At the same price, pick SKLZ for recognition or Yes4All for the length option."
+  link: "/en/best-agility-ladder-2026"
+  image_alt: "budget agility ladder SKLZ Yes4All under 25 dollars comparison"
+  hashtags: ["BudgetFitness", "AgilityLadder", "FootSpeed", "HomeGym", "SpeedTraining"]
+
+- id: "best-agility-ladder-2026-avoid-en"
+  article_slug: "best-agility-ladder-2026"
+  variant: "avoid"
+  locale: "en"
+  board: "fitness"
+  title: "Agility Ladder Mistake: Raised Rungs on a Speed Ladder"
+  description: "Raised-rung ladders require more ground clearance and create a genuine ankle-roll risk at high training speeds. Flat-rung ladders stay flush with the ground, don't trip you when stepping over rungs, and are the standard in organized sports coaching. Don't buy raised rungs for speed training."
+  link: "/en/best-agility-ladder-2026"
+  image_alt: "agility ladder raised rungs flat rungs mistake ankle injury risk"
+  hashtags: ["AgilityLadder", "TrainingMistakes", "FootSpeed", "InjuryPrevention", "AgilityDrills"]
+
+- id: "best-agility-ladder-2026-scene-en"
+  article_slug: "best-agility-ladder-2026"
+  variant: "scene"
+  locale: "en"
+  board: "fitness"
+  title: "Agility Ladder for Older Adults: The Fall Prevention Training Nobody Talks About"
+  description: "Balance and coordination decline begins in your 40s. Agility ladder training — even at slow walking pace — trains the neuromuscular coordination that catches you when you trip. Research shows basic wobble board and ladder training reduces fall risk more effectively than static balance exercises for adults over 50."
+  link: "/en/best-agility-ladder-2026"
+  image_alt: "agility ladder older adults fall prevention neuromuscular coordination"
+  hashtags: ["FallPrevention", "AgilityLadder", "SeniorFitness", "BalanceTraining", "ActiveAging"]
+
+- id: "best-agility-ladder-2026-comparison-ja"
+  article_slug: "best-agility-ladder-2026"
+  variant: "comparison"
+  locale: "ja"
+  board: "fitness"
+  title: "SKLZ vs Perfect Fitness vs Yes4All vs Toezone vs Speed & Agility Pro：アジリティラダー比較"
+  description: "5製品それぞれの用途：SKLZ（コーチ標準）・Perfect Fitness（42ドリルカード付き）・Yes4All（20フィートオプション）・Toezone（チーム耐久性）・Speed & Agility Pro（アルミランガー）。個人vsチームトレーニングで重要な違いを解説。"
+  link: "/ja/best-agility-ladder-2026"
+  image_alt: "アジリティラダー比較2026 SKLZ Perfect Fitness Yes4All Toezone アルミ"
+  hashtags: ["アジリティラダー", "フットスピード", "アジリティトレーニング", "スピードトレーニング", "アスリートトレーニング"]
+
+- id: "best-agility-ladder-2026-top1-ja"
+  article_slug: "best-agility-ladder-2026"
+  variant: "top1"
+  locale: "ja"
+  board: "fitness"
+  title: "自主トレーニングアスリートに最適なアジリティラダー：Perfect Fitness＋42ドリル"
+  description: "Perfect Fitness Agility Ladderには初心者から中級パターンをカバーする42ドリルカードが含まれている。コーチなしでは、ほとんどの人が同じ2つのドリルを繰り返し進歩が止まる。ドリルカードはカリキュラムを提供する——本物のトレーニングと動作のこなし方の違い。"
+  link: "/ja/best-agility-ladder-2026"
+  image_alt: "Perfect Fitness アジリティラダー 42ドリルカード 自主トレーニングアスリート"
+  hashtags: ["アジリティラダー", "アジリティドリル", "フットスピード", "自主トレーニング", "スピードトレーニング"]
+
+- id: "best-agility-ladder-2026-problem-ja"
+  article_slug: "best-agility-ladder-2026"
+  variant: "problem"
+  locale: "ja"
+  board: "fitness"
+  title: "アジリティラダートレーニングが効かなくなる理由と解決策"
+  description: "アジリティトレーニングには適応を生み出すためにほぼ最大限の努力が必要。70〜80%の努力でのドリル＝ほぼスピードの向上なし。解決策：パターンあたり最大速度で8〜10回、30〜60秒の休息、合計10〜15分。中程度の努力での長い時間ではフットスピードは上がらない——強度が必要。"
+  link: "/ja/best-agility-ladder-2026"
+  image_alt: "アジリティラダートレーニング 効果なし 努力 強度 解決策"
+  hashtags: ["アジリティトレーニング", "フットスピード", "スピードトレーニング", "ワークアウトのコツ", "アスリートパフォーマンス"]
+
+- id: "best-agility-ladder-2026-budget-ja"
+  article_slug: "best-agility-ladder-2026"
+  variant: "budget"
+  locale: "ja"
+  board: "fitness"
+  title: "2,500円以下のアジリティラダー：SKLZ vs Yes4All"
+  description: "SKLZ（2千〜3千円）もYes4All（2千〜3千5百円）もフラットプラスチックランガー、調整可能な間隔、キャリングバッグ付き。SKLZは組織的な指導プログラムでのブランド認知度が高い。Yes4Allはより長いドリルシーケンスのための20フィートオプションがある。同価格帯なら認知度でSKLZ、長さオプションでYes4Allを選ぶ。"
+  link: "/ja/best-agility-ladder-2026"
+  image_alt: "安いアジリティラダー SKLZ Yes4All 2500円以下 比較"
+  hashtags: ["コスパ最強", "アジリティラダー", "フットスピード", "ホームジム", "スピードトレーニング"]
+
+- id: "best-agility-ladder-2026-avoid-ja"
+  article_slug: "best-agility-ladder-2026"
+  variant: "avoid"
+  locale: "ja"
+  board: "fitness"
+  title: "アジリティラダーの選択ミス：スピードラダーにレイズドランガーを選ぶ"
+  description: "レイズドランガーのラダーは地面のクリアランスが多く必要で、高トレーニング速度で本物の足首捻挫リスクを生み出す。フラットランガーは地面にフラットに保たれ、ランガーを跨ぐときに転倒せず、組織的なスポーツ指導の標準。スピードトレーニングにレイズドランガーを買わないこと。"
+  link: "/ja/best-agility-ladder-2026"
+  image_alt: "アジリティラダー レイズドランガー フラットランガー ミス 足首怪我リスク"
+  hashtags: ["アジリティラダー", "トレーニングの落とし穴", "フットスピード", "怪我予防", "アジリティドリル"]
+
+- id: "best-agility-ladder-2026-scene-ja"
+  article_slug: "best-agility-ladder-2026"
+  variant: "scene"
+  locale: "ja"
+  board: "fitness"
+  title: "高齢者のためのアジリティラダー：誰も話さない転倒予防トレーニング"
+  description: "バランスとコーディネーションの低下は40代から始まる。アジリティラダートレーニング——ゆっくりとした歩行ペースでも——転躓いたときに自分を支える神経筋コーディネーションを鍛える。研究では、基本的なウォブルボードとラダートレーニングが50歳以上の成人の静的バランス運動より効果的に転倒リスクを下げることが示されている。"
+  link: "/ja/best-agility-ladder-2026"
+  image_alt: "アジリティラダー 高齢者 転倒予防 神経筋コーディネーション"
+  hashtags: ["転倒予防", "アジリティラダー", "シニアフィットネス", "バランストレーニング", "アクティブエイジング"]
