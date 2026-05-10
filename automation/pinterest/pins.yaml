@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 154 articles x 6 variants x 2 locales (en, ja) = 1848 pins (growing)
+# 156 articles x 6 variants x 2 locales (en, ja) = 1872 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -20932,3 +20932,267 @@ pins:
   link: "/ja/best-gym-bag-2026"
   image_alt: "ジムバッグ フィットネスルーティン 2026"
   hashtags: ["ジムライフ", "ジムバッグ", "フィットネスモチベーション", "トレーニングルーティン", "ジムグッズ", "フィットネスライフ"]
+
+- id: pin-best-instant-pot-2026-en-comparison
+  article_slug: best-instant-pot-2026
+  locale: en
+  variant: comparison
+  board: food
+  title: "Best Instant Pots 2026: Duo vs Pro vs Ninja Foodi"
+  description: "We compared 5 top multicookers — here's how the Instant Pot Duo, Pro, Ninja Foodi, COSORI, and Duo Crisp stack up on pressure cooking, air frying, and ease of use."
+  link: "/en/best-instant-pot-2026"
+  image_alt: "Best Instant Pots 2026 comparison chart"
+  hashtags: ["instantpot", "pressurecooker", "NinjaFoodi", "multicooker", "mealprep", "kitchengear"]
+
+- id: pin-best-instant-pot-2026-en-top1
+  article_slug: best-instant-pot-2026
+  locale: en
+  variant: top1
+  board: food
+  title: "Instant Pot Duo 7-in-1: Still the Best Buy in 2026?"
+  description: "The Instant Pot Duo 6qt has been the best-selling pressure cooker for years — and in 2026 it still delivers the most value per dollar for everyday cooking."
+  link: "/en/best-instant-pot-2026"
+  image_alt: "Instant Pot Duo 7-in-1 6qt review 2026"
+  hashtags: ["InstantPotDuo", "pressurecooker", "instantpot", "mealprep", "kitchenessentials", "homecooking"]
+
+- id: pin-best-instant-pot-2026-en-problem
+  article_slug: best-instant-pot-2026
+  locale: en
+  variant: problem
+  board: food
+  title: "Dinner in 30 Minutes? Pressure Cookers Actually Deliver This"
+  description: "Tough cuts of meat, dried beans, risotto — an Instant Pot handles what normally takes hours. Here's which model is worth your counter space."
+  link: "/en/best-instant-pot-2026"
+  image_alt: "Instant pot pressure cooker quick dinner solution"
+  hashtags: ["quickdinner", "pressurecooker", "instantpot", "mealprep", "30minutemeals", "homecooking"]
+
+- id: pin-best-instant-pot-2026-en-budget
+  article_slug: best-instant-pot-2026
+  locale: en
+  variant: budget
+  board: food
+  title: "Best Budget Instant Pot 2026: COSORI 9-in-1 Under $80"
+  description: "The COSORI 6qt Electric Pressure Cooker matches Instant Pot's core functions at a lower price — a smart choice if you don't need the brand name."
+  link: "/en/best-instant-pot-2026"
+  image_alt: "COSORI pressure cooker budget Instant Pot alternative 2026"
+  hashtags: ["budgetkitchen", "COSORI", "pressurecooker", "instantpotalternative", "mealprep"]
+
+- id: pin-best-instant-pot-2026-en-avoid
+  article_slug: best-instant-pot-2026
+  locale: en
+  variant: avoid
+  board: food
+  title: "3 Instant Pot Mistakes That Ruin Meals (Don't Skip the Sealing Ring)"
+  description: "A dirty sealing ring, wrong pressure release, wrong liquid amount — these are the Instant Pot errors that turn a quick dinner into a disaster."
+  link: "/en/best-instant-pot-2026"
+  image_alt: "Instant pot common mistakes to avoid"
+  hashtags: ["instantpottips", "pressurecooker", "cookingtips", "kitchenmistakes", "mealprep"]
+
+- id: pin-best-instant-pot-2026-en-scene
+  article_slug: best-instant-pot-2026
+  locale: en
+  variant: scene
+  board: food
+  title: "Frozen Chicken to Dinner in 25 Minutes — Instant Pot Makes It Routine"
+  description: "Weeknight meal prep doesn't have to start the night before. Our 2026 picks for Instant Pots that make fast, real food an everyday habit."
+  link: "/en/best-instant-pot-2026"
+  image_alt: "Instant pot weeknight dinner meal prep routine"
+  hashtags: ["weeknightdinner", "instantpot", "mealprep", "pressurecooker", "homecooking", "dinnerideas"]
+
+- id: pin-best-instant-pot-2026-ja-comparison
+  article_slug: best-instant-pot-2026
+  locale: ja
+  variant: comparison
+  board: food
+  title: "電気圧力鍋2026年比較：Instant Pot Duo vs Pro vs Ninja Foodi"
+  description: "5つの電気圧力鍋を徹底比較。圧力調理・エアフライ・使いやすさでInstant Pot Duo、Pro、Ninja Foodi、COSORI、Duo Crispを正直評価。"
+  link: "/ja/best-instant-pot-2026"
+  image_alt: "電気圧力鍋2026年比較チャート"
+  hashtags: ["電気圧力鍋", "インスタントポット", "NinjaFoodi", "マルチクッカー", "作り置き", "キッチン家電"]
+
+- id: pin-best-instant-pot-2026-ja-top1
+  article_slug: best-instant-pot-2026
+  locale: ja
+  variant: top1
+  board: food
+  title: "Instant Pot Duo 7-in-1：2026年もやっぱりコスパ最強の電気圧力鍋"
+  description: "何年もベストセラーを続けるInstant Pot Duo 6qt——2026年もコストパフォーマンスで右に出るものはない。毎日の料理に最適。"
+  link: "/ja/best-instant-pot-2026"
+  image_alt: "Instant Pot Duo 7-in-1 6qt レビュー2026"
+  hashtags: ["インスタントポットDuo", "電気圧力鍋", "インスタントポット", "作り置き", "キッチン必需品", "家庭料理"]
+
+- id: pin-best-instant-pot-2026-ja-problem
+  article_slug: best-instant-pot-2026
+  locale: ja
+  variant: problem
+  board: food
+  title: "30分で夕食完成？電気圧力鍋が本当に使える理由"
+  description: "硬い肉の煮込み・乾燥豆・リゾット——本来数時間かかる料理を電気圧力鍋は一気に短縮します。キッチンスペースに値するモデルはどれか。"
+  link: "/ja/best-instant-pot-2026"
+  image_alt: "電気圧力鍋 時短料理 解決策"
+  hashtags: ["時短料理", "電気圧力鍋", "インスタントポット", "作り置き", "30分夕食", "家庭料理"]
+
+- id: pin-best-instant-pot-2026-ja-budget
+  article_slug: best-instant-pot-2026
+  locale: ja
+  variant: budget
+  board: food
+  title: "コスパ最強電気圧力鍋2026：COSORI 9-in-1が1万円以下"
+  description: "COSORI 6qtはInstant Potの主要機能をより低価格で実現。ブランドにこだわらないなら賢い選択。"
+  link: "/ja/best-instant-pot-2026"
+  image_alt: "COSORI 電気圧力鍋 コスパ インスタントポット代替2026"
+  hashtags: ["コスパキッチン", "COSORI", "電気圧力鍋", "インスタントポット代替", "作り置き"]
+
+- id: pin-best-instant-pot-2026-ja-avoid
+  article_slug: best-instant-pot-2026
+  locale: ja
+  variant: avoid
+  board: food
+  title: "電気圧力鍋でやりがちな3つのミス（シーリングリングを見落とさないで）"
+  description: "汚れたシーリングリング・間違った圧力解放・水分量の不足——これが時短料理を台無しにする電気圧力鍋の典型的なエラー。"
+  link: "/ja/best-instant-pot-2026"
+  image_alt: "電気圧力鍋 よくある失敗 避けるべきミス"
+  hashtags: ["電気圧力鍋のコツ", "インスタントポット", "料理のヒント", "失敗しない調理", "作り置き"]
+
+- id: pin-best-instant-pot-2026-ja-scene
+  article_slug: best-instant-pot-2026
+  locale: ja
+  variant: scene
+  board: food
+  title: "冷凍鶏肉から25分で夕食——電気圧力鍋が日常を変える"
+  description: "前日から仕込まなくていい。Instant Potがある生活は平日の夕食作りを別次元にします。2026年おすすめ5選。"
+  link: "/ja/best-instant-pot-2026"
+  image_alt: "電気圧力鍋 平日夕食 作り置きルーティン"
+  hashtags: ["平日夕食", "インスタントポット", "作り置き", "電気圧力鍋", "家庭料理", "夕食アイデア"]
+
+- id: pin-best-squat-rack-2026-en-comparison
+  article_slug: best-squat-rack-2026
+  locale: en
+  variant: comparison
+  board: fitness
+  title: "Best Squat Racks 2026: Rogue vs REP Fitness vs Titan"
+  description: "We compared 5 top power racks — here's how Rogue, REP Fitness, Titan, CAP, and Fitness Reality compare on weight capacity, footprint, and build quality."
+  link: "/en/best-squat-rack-2026"
+  image_alt: "Best squat racks power cages 2026 comparison"
+  hashtags: ["squatrack", "powerrack", "homegym", "Rogue", "REPFitness", "strengthtraining"]
+
+- id: pin-best-squat-rack-2026-en-top1
+  article_slug: best-squat-rack-2026
+  locale: en
+  variant: top1
+  board: fitness
+  title: "Rogue RM-3 Monster Rack: The Best Power Rack for Serious Home Gyms"
+  description: "The Rogue RM-3 is the benchmark for home gym power racks — 1,000lb rated, laser-cut hole pattern, compatible with every Rogue attachment ever made."
+  link: "/en/best-squat-rack-2026"
+  image_alt: "Rogue RM-3 Monster Rack review 2026"
+  hashtags: ["Rogue", "powerrack", "homegym", "squatrack", "strengthgear", "powerliftinggear"]
+
+- id: pin-best-squat-rack-2026-en-problem
+  article_slug: best-squat-rack-2026
+  locale: en
+  variant: problem
+  board: fitness
+  title: "Squatting Without a Rack Is Holding Back Your Progress"
+  description: "A proper power rack opens up barbell squats, bench press, and pull-ups at home — safely. Here's how to choose the right one for your space and budget."
+  link: "/en/best-squat-rack-2026"
+  image_alt: "Squat rack home gym safety benefits"
+  hashtags: ["squatrack", "homegym", "barbelltraining", "strengthtraining", "gymsetup", "powerliftingtips"]
+
+- id: pin-best-squat-rack-2026-en-budget
+  article_slug: best-squat-rack-2026
+  locale: en
+  variant: budget
+  board: fitness
+  title: "Best Budget Squat Rack 2026: CAP Barbell Power Rack Under $300"
+  description: "The CAP Barbell FM-CS8000F gets you a functional, safe power rack without the $800+ price tag — the right choice for lifters building their first home gym."
+  link: "/en/best-squat-rack-2026"
+  image_alt: "CAP Barbell power rack budget home gym 2026"
+  hashtags: ["budgethomegym", "CAPBarbell", "squatrack", "affordablegym", "homegymsetup"]
+
+- id: pin-best-squat-rack-2026-en-avoid
+  article_slug: best-squat-rack-2026
+  locale: en
+  variant: avoid
+  board: fitness
+  title: "3 Squat Racks to Avoid (Wobbly Under Heavy Load)"
+  description: "Light-gauge steel and under-spec welds become a serious safety hazard at heavy weights. These models have reports of sway, rattle, and J-hook failures under load."
+  link: "/en/best-squat-rack-2026"
+  image_alt: "Squat racks to avoid 2026 safety warning"
+  hashtags: ["homegym", "squatrack", "gymsafety", "equipmentwarning", "powerrack"]
+
+- id: pin-best-squat-rack-2026-en-scene
+  article_slug: best-squat-rack-2026
+  locale: en
+  variant: scene
+  board: fitness
+  title: "Your Garage, Your Rules — Build the Home Gym Around a Real Power Rack"
+  description: "Squat, bench, pull-ups, rack pulls — one power rack unlocks your whole program. Our 2026 picks for every home gym budget."
+  link: "/en/best-squat-rack-2026"
+  image_alt: "Home gym power rack setup 2026"
+  hashtags: ["homegym", "powerrack", "garagegym", "squatrack", "homegymsetup", "strengthtraining"]
+
+- id: pin-best-squat-rack-2026-ja-comparison
+  article_slug: best-squat-rack-2026
+  locale: ja
+  variant: comparison
+  board: fitness
+  title: "スクワットラック2026年比較：Rogue vs REP Fitness vs Titan"
+  description: "5つのパワーラックを徹底比較。耐荷重・設置面積・ビルド品質でRogue、REP Fitness、Titan、CAP、Fitness Realityを正直評価。"
+  link: "/ja/best-squat-rack-2026"
+  image_alt: "スクワットラック パワーケージ2026年比較"
+  hashtags: ["スクワットラック", "パワーラック", "ホームジム", "Rogue", "REPFitness", "筋力トレーニング"]
+
+- id: pin-best-squat-rack-2026-ja-top1
+  article_slug: best-squat-rack-2026
+  locale: ja
+  variant: top1
+  board: fitness
+  title: "Rogue RM-3 Monster Rack：本格ホームジムに最適なパワーラック"
+  description: "耐荷重450kg・レーザーカットホールパターン・すべてのRogueアタッチメント対応——Rogue RM-3はホームジムパワーラックの基準。"
+  link: "/ja/best-squat-rack-2026"
+  image_alt: "Rogue RM-3 Monster Rack レビュー2026"
+  hashtags: ["Rogue", "パワーラック", "ホームジム", "スクワットラック", "筋力器具", "パワーリフティング"]
+
+- id: pin-best-squat-rack-2026-ja-problem
+  article_slug: best-squat-rack-2026
+  locale: ja
+  variant: problem
+  board: fitness
+  title: "ラックなしでのスクワットが進歩を妨げている"
+  description: "パワーラックがあればバーベルスクワット・ベンチプレス・懸垂を自宅で安全に行える。スペースと予算に合った選び方を解説。"
+  link: "/ja/best-squat-rack-2026"
+  image_alt: "スクワットラック ホームジム 安全性の利点"
+  hashtags: ["スクワットラック", "ホームジム", "バーベルトレーニング", "筋力トレーニング", "ジム設備", "パワーリフティング"]
+
+- id: pin-best-squat-rack-2026-ja-budget
+  article_slug: best-squat-rack-2026
+  locale: ja
+  variant: budget
+  board: fitness
+  title: "コスパ最強スクワットラック2026：CAP Barbell 3万円以下"
+  description: "CAP Barbell FM-CS8000Fは10万円超のラックなしでも本格的なパワーラックトレーニングを実現。初めてホームジムを作るリフターに最適。"
+  link: "/ja/best-squat-rack-2026"
+  image_alt: "CAP Barbell パワーラック コスパ ホームジム2026"
+  hashtags: ["コスパホームジム", "CAPBarbell", "スクワットラック", "お手頃ジム器具", "ホームジム構築"]
+
+- id: pin-best-squat-rack-2026-ja-avoid
+  article_slug: best-squat-rack-2026
+  locale: ja
+  variant: avoid
+  board: fitness
+  title: "高重量でグラつくスクワットラック3選（2026年要注意）"
+  description: "薄いスチールと規格外の溶接は高重量で重大な危険になる。揺れ・ガタつき・Jフック外れが報告されているモデルを正直にリスト。"
+  link: "/ja/best-squat-rack-2026"
+  image_alt: "買ってはいけないスクワットラック2026 安全警告"
+  hashtags: ["ホームジム", "スクワットラック", "ジムの安全", "器具選びの注意", "パワーラック"]
+
+- id: pin-best-squat-rack-2026-ja-scene
+  article_slug: best-squat-rack-2026
+  locale: ja
+  variant: scene
+  board: fitness
+  title: "ガレージジムのルールは自分で決める——パワーラックが全てを変える"
+  description: "スクワット・ベンチプレス・懸垂・ラックプル——1台のパワーラックでプログラム全体をカバー。2026年すべての予算向けおすすめ5選。"
+  link: "/ja/best-squat-rack-2026"
+  image_alt: "ホームジム パワーラック 設置 2026"
+  hashtags: ["ホームジム", "パワーラック", "ガレージジム", "スクワットラック", "ホームジム構築", "筋力トレーニング"]
