@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 244 articles x 6 variants x 2 locales (en, ja) = 2928 pins (growing)
+# 246 articles x 6 variants x 2 locales (en, ja) = 2952 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -31081,4 +31081,198 @@ pins:
   title: "ガードvsビッグマン：ポジション別バスケットボールシューズの選び方"
   description: "ハーデンVol. 8のレスポンシビリティvsレブロンXXIIのクッション——同じシューズがビッグマンを助けガードを妨げる理由。ポジション別シューズ選択を解説。"
   image: /og/best-basketball-shoes-2026-ja.png
+  board: fitness-ja
+
+# batch #250 — best-ginger-tea-2026
+- slug: best-ginger-tea-2026
+  locale: en
+  variant: comparison
+  title: "Best Ginger Tea 2026: Which One Actually Has Real Ginger?"
+  description: "Traditional Medicinals vs Yogi vs Pukka Three Ginger — tested for spice intensity, digestive benefits, and whole-root vs powder quality."
+  image: /og/best-ginger-tea-2026-en.png
+  board: food-en
+
+- slug: best-ginger-tea-2026
+  locale: en
+  variant: top1
+  title: "Traditional Medicinals Organic Ginger: The Benchmark for Real Ginger Tea"
+  description: "Medicinal-grade whole-root ginger, consistent bag-to-bag potency, genuine anti-nausea activity. When ginger tea needs to actually work, this is the standard."
+  image: /og/best-ginger-tea-2026-en.png
+  board: food-en
+
+- slug: best-ginger-tea-2026
+  locale: en
+  variant: problem
+  title: "Why Most Ginger Tea Tastes Like Warm Water (And What to Buy Instead)"
+  description: "Ginger flavoring versus whole ginger root — the difference in gingerol content explains why some teas work and most don't. What the ingredient list reveals."
+  image: /og/best-ginger-tea-2026-en.png
+  board: food-en
+
+- slug: best-ginger-tea-2026
+  locale: en
+  variant: budget
+  title: "Stash Premium Ginger: Real Ginger Flavor Without Medicinal Pricing"
+  description: "Pyramid sachets, genuine ginger root pieces, mid-intensity spice — the everyday option that doesn't compromise where it matters."
+  image: /og/best-ginger-tea-2026-en.png
+  board: food-en
+
+- slug: best-ginger-tea-2026
+  locale: en
+  variant: avoid
+  title: "Ginger Tea Mistakes: Wrong Intensity, Poor Sourcing, Artificial Flavoring"
+  description: "Buying light ginger tea for nausea relief. Ignoring pesticide risk in non-organic ginger imports. The difference between 'ginger tea' and real ginger tea."
+  image: /og/best-ginger-tea-2026-en.png
+  board: food-en
+
+- slug: best-ginger-tea-2026
+  locale: en
+  variant: scene
+  title: "Ginger Tea for Nausea vs. Daily Drinking: Matching Intensity to Purpose"
+  description: "Medicinal-grade for actual relief. Everyday blend for daily enjoyment. Ginger-lemon for accessibility. How to choose based on what you need ginger tea to do."
+  image: /og/best-ginger-tea-2026-en.png
+  board: food-en
+
+- slug: best-ginger-tea-2026
+  locale: ja
+  variant: comparison
+  title: "ジンジャーティーおすすめ2026：本当にショウガが入っているのはどれ？"
+  description: "トラディショナルメディシナルズ vs ヨギ vs パッカ スリージンジャー——辛味の強さ・消化効果・全根 vs パウダー品質で検証。"
+  image: /og/best-ginger-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-ginger-tea-2026
+  locale: ja
+  variant: top1
+  title: "トラディショナルメディシナルズ：本格ジンジャーティーの基準"
+  description: "薬用グレードの全根ショウガ、一貫したバッグごとの効力、本物の吐き気防止活性——ジンジャーティーが実際に機能する必要があるとき、これが標準。"
+  image: /og/best-ginger-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-ginger-tea-2026
+  locale: ja
+  variant: problem
+  title: "なぜほとんどのジンジャーティーは温かいお湯のように感じるのか"
+  description: "ショウガ香料 vs 全根ショウガ——ジンゲロール含有量の違いが一部のお茶が機能し、ほとんどが機能しない理由を説明します。成分リストが明かすもの。"
+  image: /og/best-ginger-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-ginger-tea-2026
+  locale: ja
+  variant: budget
+  title: "スタッシュ プレミアムジンジャー：薬用価格なしの本物のショウガ風味"
+  description: "ピラミッドサッシェ・本物のショウガの根の断片・中程度の強度のスパイス——重要なところで妥協しない毎日のオプション。"
+  image: /og/best-ginger-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-ginger-tea-2026
+  locale: ja
+  variant: avoid
+  title: "ジンジャーティーの失敗：間違った強度・粗悪な原産地・人工香料"
+  description: "吐き気緩和に軽いジンジャーティーを購入。非有機ショウガ輸入の農薬リスクを無視。「ジンジャーティー」と本物のジンジャーティーの違い。"
+  image: /og/best-ginger-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-ginger-tea-2026
+  locale: ja
+  variant: scene
+  title: "吐き気用 vs 毎日飲用：目的に合わせた強度の選び方"
+  description: "本物の緩和のための薬用グレード。毎日の楽しみのための毎日ブレンド。アクセスしやすさのためのジンジャーレモン。ジンジャーティーに何をしてほしいかで選び方。"
+  image: /og/best-ginger-tea-2026-ja.png
+  board: food-ja
+
+# batch #251 — best-wrestling-shoes-2026
+- slug: best-wrestling-shoes-2026
+  locale: en
+  variant: comparison
+  title: "Best Wrestling Shoes 2026: ASICS vs Nike vs Adidas for Mat Performance"
+  description: "Cael V9.0 vs Matflex 6 vs Speedsweep VII vs Adizero Varner — tested for traction, ankle support, and mat feel by wrestling level."
+  image: /og/best-wrestling-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-wrestling-shoes-2026
+  locale: en
+  variant: top1
+  title: "ASICS Cael V9.0: Competition Wrestling Shoe That Delivers"
+  description: "Split outsole, under-6oz weight, ankle stabilizing system for scrambles — built to the specifications that serious wrestling demands."
+  image: /og/best-wrestling-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-wrestling-shoes-2026
+  locale: en
+  variant: problem
+  title: "Why Cup-Sole Wrestling Shoes Limit Your Mat Performance"
+  description: "Heavier cup soles vs split outsoles — the weight and mat-feel difference matters more at higher competition levels. What the outsole design actually changes."
+  image: /og/best-wrestling-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-wrestling-shoes-2026
+  locale: en
+  variant: budget
+  title: "ASICS Matflex 6: Real Wrestling Grip Without Competition Pricing"
+  description: "Rubber cupsole mat grip, high-cut ankle support, single-layer synthetic durability — the entry point that doesn't compromise where it matters for beginners."
+  image: /og/best-wrestling-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-wrestling-shoes-2026
+  locale: en
+  variant: avoid
+  title: "Wrestling Shoe Mistakes: Wrong Height, Indoor Shoes Outdoors, Poor Fit"
+  description: "Using running shoes on the mat. Wearing wrestling shoes to the parking lot. Buying shoes too loose for tactile mat connection. The footwear errors that hurt performance."
+  image: /og/best-wrestling-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-wrestling-shoes-2026
+  locale: en
+  variant: scene
+  title: "Competition vs. Practice Wrestling Shoes: When to Use What"
+  description: "Competition shoes last longer when reserved for meets. Split outsole for tournament day, cup sole for daily drilling. How to extend shoe life without sacrificing performance."
+  image: /og/best-wrestling-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-wrestling-shoes-2026
+  locale: ja
+  variant: comparison
+  title: "レスリングシューズおすすめ2026：アシックス vs ナイキ vs アディダス"
+  description: "ケイエルV9.0 vs マットフレックス6 vs スピードスウィープVII vs アディゼロ バーナー——トラクション・足首サポート・マットフィールをレベル別に検証。"
+  image: /og/best-wrestling-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-wrestling-shoes-2026
+  locale: ja
+  variant: top1
+  title: "アシックス ケイエルV9.0：結果を出す競技用レスリングシューズ"
+  description: "スプリットアウトソール・6オンス以下の重量・スクランブルのための足首安定化システム——真剣なレスリングが要求する仕様で作られています。"
+  image: /og/best-wrestling-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-wrestling-shoes-2026
+  locale: ja
+  variant: problem
+  title: "カップソールレスリングシューズがマットパフォーマンスを制限する理由"
+  description: "重いカップソール vs スプリットアウトソール——重量とマットフィールの差は高い競技レベルでより重要。アウトソールデザインが実際に変えること。"
+  image: /og/best-wrestling-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-wrestling-shoes-2026
+  locale: ja
+  variant: budget
+  title: "アシックス マットフレックス6：競技価格なしの本物のレスリンググリップ"
+  description: "ゴムカップソールのマットグリップ・ハイカットの足首サポート・シングルレイヤーの耐久性——初心者に重要なところで妥協しないエントリーポイント。"
+  image: /og/best-wrestling-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-wrestling-shoes-2026
+  locale: ja
+  variant: avoid
+  title: "レスリングシューズの失敗：間違った高さ・屋外使用・緩いフィット"
+  description: "マットでランニングシューズを使用。レスリングシューズを駐車場まで履く。触覚的なマット接続のために緩すぎるシューズを買う。パフォーマンスを傷つけるフットウェアのミス。"
+  image: /og/best-wrestling-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-wrestling-shoes-2026
+  locale: ja
+  variant: scene
+  title: "競技用 vs 練習用レスリングシューズ：いつ何を使うか"
+  description: "試合に取っておくと競技シューズは長持ち。試合日はスプリットアウトソール、毎日のドリルはカップソール。パフォーマンスを犠牲にせずにシューズの寿命を延ばす方法。"
+  image: /og/best-wrestling-shoes-2026-ja.png
   board: fitness-ja
