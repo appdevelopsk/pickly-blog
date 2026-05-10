@@ -15871,6 +15871,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-nike-premier-3-sg", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Premier+3+SG%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Yerba Mate Loose Leaf (food) ──────────────────────────────────────
+  {
+    id: "cruz-de-malta-traditional-yerba-mate",
+    category: "food",
+    badge: "Best Traditional Argentine Mate",
+    name: { en: "Cruz de Malta Traditional Yerba Mate", ja: "Cruz de Malta トラディショナル マテ茶" },
+    description: { en: "Classic Argentine yerba mate with stems included for authentic traditional preparation in gourd and bombilla", ja: "ゴーレドとボンビジャでの本物の伝統的な準備のための茎入りの定番アルゼンチンマテ茶" },
+    links: [
+      { network: "amazon-jp", productId: "B00ET9LBSA", rawUrl: "https://www.amazon.co.jp/dp/B00ET9LBSA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cruz-de-malta-mate", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCruz+de+Malta+Yerba+Mate%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rosamonte-especial-yerba-mate",
+    category: "food",
+    badge: "Best Bold Flavor Mate",
+    name: { en: "Rosamonte Especial Yerba Mate", ja: "Rosamonte エスペシャル マテ茶" },
+    description: { en: "Intensely aged Argentine mate with deep earthy complexity for experienced mate drinkers who prefer bold flavor", ja: "大胆な風味を好む経験豊富なマテ飲み手向けの深い土っぽい複雑さを持つ強く熟成されたアルゼンチンマテ" },
+    links: [
+      { network: "amazon-jp", productId: "B00LRFVT9E", rawUrl: "https://www.amazon.co.jp/dp/B00LRFVT9E", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rosamonte-especial", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRosamonte+Especial+Yerba+Mate%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anna-park-organic-green-yerba-mate",
+    category: "food",
+    badge: "Best Green (Unsmoked) Mate",
+    name: { en: "Anna Park Organic Green Yerba Mate", ja: "Anna Park オーガニック グリーン マテ茶" },
+    description: { en: "Unsmoked organic yerba mate with lighter, more grassy character for those who find traditional smoked mate too harsh", ja: "伝統的な燻製マテが強すぎる方向けのより軽くより草っぽいキャラクターの非燻製オーガニックマテ茶" },
+    links: [
+      { network: "amazon-jp", productId: "B01GBFFK8Q", rawUrl: "https://www.amazon.co.jp/dp/B01GBFFK8Q", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-anna-park-green-mate", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnna+Park+Organic+Green+Yerba+Mate%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "guayaki-traditional-loose-leaf",
+    category: "food",
+    badge: "Best Ethically Sourced Mate",
+    name: { en: "Guayakí Traditional Loose Leaf Yerba Mate", ja: "Guayakí トラディショナル ルースリーフ マテ茶" },
+    description: { en: "Fair trade organic mate from Atlantic Forest agroforestry for responsible sourcing with balanced flavor", ja: "均衡の取れた風味と責任あるソーシングのための大西洋森林アグロフォレストリーのフェアトレードオーガニックマテ" },
+    links: [
+      { network: "amazon-jp", productId: "B003JL7BX8", rawUrl: "https://www.amazon.co.jp/dp/B003JL7BX8", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-guayaki-traditional", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGuayaki+Traditional+Yerba+Mate%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "canarias-yerba-mate",
+    category: "food",
+    badge: "Best Uruguayan Style Mate",
+    name: { en: "Canarias Yerba Mate", ja: "Canarias マテ茶" },
+    description: { en: "Fine-cut stemless Uruguayan mate for experienced drinkers who prefer the stronger and more bitter regional style", ja: "より強くより苦い地域スタイルを好む経験豊富な飲み手向けの細かいカット茎なしウルグアイマテ" },
+    links: [
+      { network: "amazon-jp", productId: "B00LEJQYCA", rawUrl: "https://www.amazon.co.jp/dp/B00LEJQYCA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-canarias-yerba-mate", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCanarias+Yerba+Mate%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Basketball Shoes (fitness) ────────────────────────────────────────
+  {
+    id: "nike-lebron-xxii",
+    category: "fitness",
+    badge: "Best Premium Basketball Shoe",
+    name: { en: "Nike LeBron XXII", ja: "ナイキ レブロン XXII" },
+    description: { en: "Max-cushion basketball shoe with Air Max heel and Zoom Air forefoot for power players and bigs", ja: "パワープレイヤーとビッグマン向けのエアマックスヒールとズームエアフォアフットを持つ最大クッションバスケットボールシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B0CSFPWXHQ", rawUrl: "https://www.amazon.co.jp/dp/B0CSFPWXHQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nike-lebron-xxii", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+LeBron+XXII%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "adidas-harden-vol-8",
+    category: "fitness",
+    badge: "Best Guard Basketball Shoe",
+    name: { en: "Adidas Harden Vol. 8", ja: "アディダス ハーデン Vol. 8" },
+    description: { en: "Guard-optimized basketball shoe with responsive Lightstrike cushioning and herringbone traction for perimeter play", ja: "ペリメータープレイ向けのレスポンシブLightstrikeclumpクッションとヘリンボーントラクションを持つガード最適化バスケットボールシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B0CQNXB5HX", rawUrl: "https://www.amazon.co.jp/dp/B0CQNXB5HX", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-adidas-harden-vol-8", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAdidas+Harden+Vol+8%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "new-balance-bb550",
+    category: "fitness",
+    badge: "Best Retro Court Shoe",
+    name: { en: "New Balance BB550", ja: "ニューバランス BB550" },
+    description: { en: "Retro-influenced low-top basketball shoe that performs on court for recreational play and transitions to casual use", ja: "レクリエーションプレイのコートで機能しカジュアルな使用へ移行するレトロの影響を受けたローカットバスケットボールシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B0BQ9JHXLS", rawUrl: "https://www.amazon.co.jp/dp/B0BQ9JHXLS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-new-balance-bb550", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNew+Balance+BB550%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "under-armour-curry-12",
+    category: "fitness",
+    badge: "Best Mid-Range Performance",
+    name: { en: "Under Armour Curry 12", ja: "アンダーアーマー カリー 12" },
+    description: { en: "Lightweight UA Flow cushioned basketball shoe with exceptional clean-court traction for guards and perimeter players", ja: "ガードとペリメータープレイヤー向けの卓越したクリーンコートトラクションを持つ軽量UAフロークッションバスケットボールシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B0CSFK9DHB", rawUrl: "https://www.amazon.co.jp/dp/B0CSFK9DHB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-under-armour-curry-12", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUnder+Armour+Curry+12%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nike-giannis-immortality-4",
+    category: "fitness",
+    badge: "Best Budget Performance Shoe",
+    name: { en: "Nike Giannis Immortality 4", ja: "ナイキ ヤニス イモータリティ 4" },
+    description: { en: "Budget performance basketball shoe with Air Strobel cushioning and herringbone traction from higher-end Nike models", ja: "上位ナイキモデルのエアストローベルクッションとヘリンボーントラクションを持つコスパパフォーマンスバスケットボールシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B0CF3WKQGQ", rawUrl: "https://www.amazon.co.jp/dp/B0CF3WKQGQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nike-giannis-immortality-4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Giannis+Immortality+4%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
