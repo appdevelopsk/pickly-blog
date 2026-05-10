@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 196 articles x 6 variants x 2 locales (en, ja) = 2352 pins (growing)
+# 198 articles x 6 variants x 2 locales (en, ja) = 2376 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -26350,3 +26350,245 @@ pins:
   link: "/ja/best-weight-bench-2026"
   image_alt: "インクライン ダンベルプレス 30-45度 上部胸 発達 ホームジム"
   hashtags: ["インクラインプレス", "ウェイトベンチ", "ホームジム", "胸トレ", "筋力トレーニング"]
+
+# ── batch #202 best-chemex-2026 ─────────────────────────────────────────────
+- id: best-chemex-2026-en-comparison
+  locale: en
+  article_slug: best-chemex-2026
+  variant: comparison
+  title: "Chemex vs Hario V60 2026: Which Pour-Over Brewer Is Right for You?"
+  description: "Chemex 6-cup vs 8-cup vs glass handle vs V60 — thick filter vs thin filter, cup clarity vs body, pour-over comparison for home coffee brewing 2026."
+  link: "/en/best-chemex-2026"
+  image_alt: "Chemex vs Hario V60 pour-over comparison 2026 best coffee brewer"
+  hashtags: ["Chemex", "HarioV60", "PourOver", "SpecialtyCoffee", "CoffeeBrewer"]
+
+- id: best-chemex-2026-en-top1
+  locale: en
+  article_slug: best-chemex-2026
+  variant: top1
+  title: "Chemex 8-Cup Classic: Best Pour-Over for 3+ People 2026"
+  description: "Chemex 8-Cup Classic: $55-65. Same hourglass borosilicate glass, wooden collar — brews up to 1.1 L. Best for 3+ person households or filling a large thermos. Identical brewing to 6-cup, more volume."
+  link: "/en/best-chemex-2026"
+  image_alt: "Chemex 8-Cup Classic best pour-over 3 people 2026"
+  hashtags: ["Chemex", "PourOver", "CoffeeBrewer", "SpecialtyCoffee", "MorningCoffee"]
+
+- id: best-chemex-2026-en-problem
+  locale: en
+  article_slug: best-chemex-2026
+  variant: problem
+  title: "Why Your Chemex Coffee Tastes Weak or Takes Too Long to Brew"
+  description: "Chemex brew over 5 minutes = grind too fine (clogged filter). Brew under 3 min, tastes sour/weak = grind too coarse. Chemex requires medium-coarse grind — slightly coarser than V60, slightly finer than French press."
+  link: "/en/best-chemex-2026"
+  image_alt: "Chemex coffee too slow weak fix grind size problem solution"
+  hashtags: ["Chemex", "CoffeeTips", "PourOver", "SpecialtyCoffee", "CoffeeRecipe"]
+
+- id: best-chemex-2026-en-budget
+  locale: en
+  article_slug: best-chemex-2026
+  variant: budget
+  title: "Hario V60 02: Best Budget Pour-Over Alternative at $25-35"
+  description: "Hario V60 02 (plastic): $25-35. Single-serve dripper with spiral ribs — more body than Chemex, more extraction control. Best budget pour-over for experienced brewers who want technique control."
+  link: "/en/best-chemex-2026"
+  image_alt: "Hario V60 02 budget pour-over alternative Chemex 2026"
+  hashtags: ["HarioV60", "PourOver", "BudgetCoffee", "SpecialtyCoffee", "CoffeeBrewer"]
+
+- id: best-chemex-2026-en-avoid
+  locale: en
+  article_slug: best-chemex-2026
+  variant: avoid
+  title: "Don't Use Standard Coffee Filters in a Chemex — Here's Why"
+  description: "Chemex bonded filters are not interchangeable with standard basket or pour-over filters. Standard filters are thinner — they flow too fast in Chemex and under-extract. Wrong filter size also won't seal properly around the neck."
+  link: "/en/best-chemex-2026"
+  image_alt: "Chemex filters wrong standard filter mistake under-extraction"
+  hashtags: ["Chemex", "CoffeeTips", "PourOver", "CoffeeMistakes", "SpecialtyCoffee"]
+
+- id: best-chemex-2026-en-scene
+  locale: en
+  article_slug: best-chemex-2026
+  variant: scene
+  title: "Light Roast Coffee in a Chemex: Why Clarity Reveals More Flavor"
+  description: "Chemex's thick filter removes oils and fines — the resulting clarity amplifies floral, fruity, and tea-like notes in high-quality light roasts. Ethiopian, Kenyan, and Colombian single-origins are the classic Chemex pairing."
+  link: "/en/best-chemex-2026"
+  image_alt: "Chemex light roast Ethiopian coffee clarity morning brew specialty"
+  hashtags: ["Chemex", "LightRoast", "SpecialtyCoffee", "PourOver", "MorningCoffee"]
+
+- id: best-chemex-2026-ja-comparison
+  locale: ja
+  article_slug: best-chemex-2026
+  variant: comparison
+  title: "Chemex vs Hario V60 2026：自宅に最適なポアオーバーブリュワーは？"
+  description: "Chemex 6カップ vs 8カップ vs グラスハンドル vs V60——厚いフィルター vs 薄いフィルター、カップクリアさ vs ボディ、ホームコーヒー抽出のポアオーバー比較 2026。"
+  link: "/ja/best-chemex-2026"
+  image_alt: "Chemex vs Hario V60 ポアオーバー 比較 2026 コーヒーメーカー"
+  hashtags: ["Chemex", "HarioV60", "ポアオーバー", "スペシャルティコーヒー", "コーヒーメーカー"]
+
+- id: best-chemex-2026-ja-top1
+  locale: ja
+  article_slug: best-chemex-2026
+  variant: top1
+  title: "Chemex 8カップ クラシック：3人以上のベストポアオーバー2026"
+  description: "Chemex 8カップ クラシック：8,000〜1万円。同じ砂時計ホウケイ酸ガラス・木製カラー——最大1.1L。3人以上の世帯や大きなサーモス補充に最適。6カップと同一の抽出、より多くの量。"
+  link: "/ja/best-chemex-2026"
+  image_alt: "Chemex 8カップ クラシック ベスト ポアオーバー 3人 2026"
+  hashtags: ["Chemex", "ポアオーバー", "コーヒーメーカー", "スペシャルティコーヒー", "朝コーヒー"]
+
+- id: best-chemex-2026-ja-problem
+  locale: ja
+  article_slug: best-chemex-2026
+  variant: problem
+  title: "Chemexコーヒーが薄い・抽出に時間がかかりすぎる原因と解決法"
+  description: "Chemex抽出が5分超＝挽き目が細かすぎる（フィルター詰まり）。3分以内で酸っぱい/薄い＝挽き目が粗すぎる。Chemexには中粗挽きが必要——V60より若干粗く、フレンチプレスより若干細かい。"
+  link: "/ja/best-chemex-2026"
+  image_alt: "Chemex コーヒー 薄い 遅い 挽き目 問題 解決法"
+  hashtags: ["Chemex", "コーヒーコツ", "ポアオーバー", "スペシャルティコーヒー", "コーヒーレシピ"]
+
+- id: best-chemex-2026-ja-budget
+  locale: ja
+  article_slug: best-chemex-2026
+  variant: budget
+  title: "Hario V60 02：コスパ最高のポアオーバー代替品 3,500〜5,000円"
+  description: "Hario V60 02（プラスチック）：3,500〜5,000円。スパイラルリブ付きシングルサーブドリッパー——Chemexよりも多くのボディ、より多くの抽出コントロール。テクニックコントロールを優先する経験豊富な醸造者に最高の予算ポアオーバー。"
+  link: "/ja/best-chemex-2026"
+  image_alt: "Hario V60 02 コスパ ポアオーバー Chemex 代替 2026"
+  hashtags: ["HarioV60", "ポアオーバー", "コスパコーヒー", "スペシャルティコーヒー", "コーヒーメーカー"]
+
+- id: best-chemex-2026-ja-avoid
+  locale: ja
+  article_slug: best-chemex-2026
+  variant: avoid
+  title: "Chemexに標準コーヒーフィルターを使ってはいけない理由"
+  description: "Chemex専用フィルターは標準バスケットやポアオーバーフィルターと互換性がありません。標準フィルターは薄い——Chemexではフローが速すぎて抽出不足になります。間違ったフィルターサイズはネックに適切にシールされません。"
+  link: "/ja/best-chemex-2026"
+  image_alt: "Chemex フィルター 間違い 標準フィルター 抽出不足"
+  hashtags: ["Chemex", "コーヒーコツ", "ポアオーバー", "コーヒーミス", "スペシャルティコーヒー"]
+
+- id: best-chemex-2026-ja-scene
+  locale: ja
+  article_slug: best-chemex-2026
+  variant: scene
+  title: "ChemexでライトローストコーヒーのフローラルノートをClearに引き出す"
+  description: "Chemexの厚いフィルターが油と微粒子を除去——その結果のクリアさが高品質ライトローストのフローラル・フルーティー・紅茶のようなノートを増幅します。エチオピア・ケニア・コロンビアのシングルオリジンとの古典的な組み合わせ。"
+  link: "/ja/best-chemex-2026"
+  image_alt: "Chemex ライトロースト エチオピア コーヒー クリアさ 朝の抽出 スペシャルティ"
+  hashtags: ["Chemex", "ライトロースト", "スペシャルティコーヒー", "ポアオーバー", "朝コーヒー"]
+
+# ── batch #203 best-lat-pulldown-machine-2026 ───────────────────────────────
+- id: best-lat-pulldown-machine-2026-en-comparison
+  locale: en
+  article_slug: best-lat-pulldown-machine-2026
+  variant: comparison
+  title: "Best Lat Pulldown Machines 2026: Marcy vs Body-Solid vs Valor vs Force USA vs Titan"
+  description: "Dedicated lat pulldown vs functional trainer — cable stack weight, pulley ratios, exercise versatility. Which cable machine is worth the investment for your home gym in 2026?"
+  link: "/en/best-lat-pulldown-machine-2026"
+  image_alt: "Lat pulldown machine comparison Marcy Body-Solid Force USA Titan 2026"
+  hashtags: ["LatPulldown", "HomeGym", "CableMachine", "StrengthTraining", "BackWorkout"]
+
+- id: best-lat-pulldown-machine-2026-en-top1
+  locale: en
+  article_slug: best-lat-pulldown-machine-2026
+  variant: top1
+  title: "Body-Solid Lat Pulldown: Best Dedicated Machine 2026"
+  description: "Body-Solid Lat Pulldown: heavy-gauge steel, 200+ lb stacks, dual pulley system. $500-700. Best dedicated lat pulldown — commercial feel, better cable quality. Worth premium for athletes using lat pulldown as primary training tool."
+  link: "/en/best-lat-pulldown-machine-2026"
+  image_alt: "Body-Solid lat pulldown best dedicated machine home gym 2026"
+  hashtags: ["LatPulldown", "BodySolid", "HomeGym", "CableMachine", "BackTraining"]
+
+- id: best-lat-pulldown-machine-2026-en-problem
+  locale: en
+  article_slug: best-lat-pulldown-machine-2026
+  variant: problem
+  title: "Pulley Ratio Trap: Why Your 200 lb Stack Only Gives You 100 lb"
+  description: "2:1 pulley ratio means you lift half the stack weight. A 200 lb stack with 2:1 ratio = 100 lb effective resistance. Most home gym lat pulldown machines use 2:1 ratio. Verify actual resistance before purchasing based on your pulling strength."
+  link: "/en/best-lat-pulldown-machine-2026"
+  image_alt: "Lat pulldown pulley ratio 2:1 effective weight stack explained"
+  hashtags: ["LatPulldown", "HomeGym", "CableMachine", "GymTips", "StrengthTraining"]
+
+- id: best-lat-pulldown-machine-2026-en-budget
+  locale: en
+  article_slug: best-lat-pulldown-machine-2026
+  variant: budget
+  title: "Budget Lat Pulldown 2026: Valor Fitness CB-12 at $300-400"
+  description: "Valor Fitness CB-12: $300-400. 150 lb stack, compact 3x3 ft footprint, high and low cable. Most space-efficient lat pulldown machine. Adequate for beginners to early intermediate. 75 lb effective resistance is the long-term ceiling."
+  link: "/en/best-lat-pulldown-machine-2026"
+  image_alt: "Valor Fitness CB-12 budget lat pulldown machine compact home gym 2026"
+  hashtags: ["LatPulldown", "ValorFitness", "BudgetHomeGym", "CableMachine", "BackTraining"]
+
+- id: best-lat-pulldown-machine-2026-en-avoid
+  locale: en
+  article_slug: best-lat-pulldown-machine-2026
+  variant: avoid
+  title: "Dedicated Lat Pulldown vs Functional Trainer: Which to Buy"
+  description: "Buy a functional trainer if you want cable flyes, face pulls, and diagonal pulls. Buy a dedicated lat pulldown if you only need vertical pulling and rows and have limited space. Functional trainer costs 2-3x more but replaces 3 machines."
+  link: "/en/best-lat-pulldown-machine-2026"
+  image_alt: "Lat pulldown machine vs functional trainer which to buy home gym"
+  hashtags: ["LatPulldown", "FunctionalTrainer", "HomeGym", "GymEquipment", "CableMachine"]
+
+- id: best-lat-pulldown-machine-2026-en-scene
+  locale: en
+  article_slug: best-lat-pulldown-machine-2026
+  variant: scene
+  title: "Cable Face Pulls: Why Functional Trainers Unlock This Key Exercise"
+  description: "Cable face pulls (rear delt + rotator cuff) require a height-adjustable cable — they can't be done on a fixed-height lat pulldown machine. Functional trainers enable this and 15+ other exercises that require variable cable height."
+  link: "/en/best-lat-pulldown-machine-2026"
+  image_alt: "Cable face pulls functional trainer home gym rear delt rotator cuff"
+  hashtags: ["FacePulls", "FunctionalTrainer", "HomeGym", "CableMachine", "ShoulderTraining"]
+
+- id: best-lat-pulldown-machine-2026-ja-comparison
+  locale: ja
+  article_slug: best-lat-pulldown-machine-2026
+  variant: comparison
+  title: "ラットプルダウンマシン2026：Marcy vs Body-Solid vs Valor vs Force USA vs Titan比較"
+  description: "専用ラットプルダウン vs 機能的トレーナー——ケーブルスタック重量・プーリー比・エクササイズ汎用性。ホームジムに価値あるケーブルマシンはどれか 2026。"
+  link: "/ja/best-lat-pulldown-machine-2026"
+  image_alt: "ラットプルダウンマシン 比較 Marcy Body-Solid Force USA Titan 2026"
+  hashtags: ["ラットプルダウン", "ホームジム", "ケーブルマシン", "筋力トレーニング", "背中トレーニング"]
+
+- id: best-lat-pulldown-machine-2026-ja-top1
+  locale: ja
+  article_slug: best-lat-pulldown-machine-2026
+  variant: top1
+  title: "Body-Solid ラットプルダウン：最高の専用マシン 2026"
+  description: "Body-Solid：重いゲージスチール、200lb以上のスタック、デュアルプーリーシステム。7万〜10万円。最高の専用ラットプルダウン——商業的な感覚・より良いケーブル品質。主要ツールとするアスリートにプレミアムの価値あり。"
+  link: "/ja/best-lat-pulldown-machine-2026"
+  image_alt: "Body-Solid ラットプルダウン 最高 専用マシン ホームジム 2026"
+  hashtags: ["ラットプルダウン", "BodySolid", "ホームジム", "ケーブルマシン", "背中トレーニング"]
+
+- id: best-lat-pulldown-machine-2026-ja-problem
+  locale: ja
+  article_slug: best-lat-pulldown-machine-2026
+  variant: problem
+  title: "プーリー比の罠：150lbスタックが実は75lb しか持ち上げない理由"
+  description: "2:1プーリー比はスタック重量の半分しか持ち上げていないことを意味します。150lbスタックの2:1比＝75lb実効抵抗。ほとんどのホームジムラットプルダウンマシンが2:1比を使用。購入前に現在の引く力に基づいて実際の抵抗範囲を確認。"
+  link: "/ja/best-lat-pulldown-machine-2026"
+  image_alt: "ラットプルダウン プーリー比 2:1 実効重量 スタック 解説"
+  hashtags: ["ラットプルダウン", "ホームジム", "ケーブルマシン", "筋トレコツ", "筋力トレーニング"]
+
+- id: best-lat-pulldown-machine-2026-ja-budget
+  locale: ja
+  article_slug: best-lat-pulldown-machine-2026
+  variant: budget
+  title: "コスパ最高ラットプルダウン2026：Valor Fitness CB-12 4万5千〜6万円"
+  description: "Valor Fitness CB-12：4万5千〜6万円。150lbスタック・コンパクト90x90cmフットプリント・高と低ケーブル。最もスペース効率の高いラットプルダウンマシン。ビギナーから早期中間に十分。75lb実効抵抗が長期的な天井。"
+  link: "/ja/best-lat-pulldown-machine-2026"
+  image_alt: "Valor Fitness CB-12 コスパ ラットプルダウン コンパクト ホームジム 2026"
+  hashtags: ["ラットプルダウン", "ValorFitness", "コスパホームジム", "ケーブルマシン", "背中トレーニング"]
+
+- id: best-lat-pulldown-machine-2026-ja-avoid
+  locale: ja
+  article_slug: best-lat-pulldown-machine-2026
+  variant: avoid
+  title: "専用ラットプルダウン vs 機能的トレーナー：どちらを買うべきか"
+  description: "ケーブルフライ・フェイスプル・対角プルが欲しければ機能的トレーナーを買う。垂直プリングとロウだけが必要でスペースが限られるなら専用ラットプルダウン。機能的トレーナーは2〜3倍のコストだが3台のマシンを置き換える。"
+  link: "/ja/best-lat-pulldown-machine-2026"
+  image_alt: "ラットプルダウン vs 機能的トレーナー どちらを買う ホームジム"
+  hashtags: ["ラットプルダウン", "機能的トレーナー", "ホームジム", "筋トレ器具", "ケーブルマシン"]
+
+- id: best-lat-pulldown-machine-2026-ja-scene
+  locale: ja
+  article_slug: best-lat-pulldown-machine-2026
+  variant: scene
+  title: "ケーブルフェイスプル：機能的トレーナーがこの重要エクササイズを可能にする理由"
+  description: "ケーブルフェイスプル（後三角筋＋ローテーターカフ）は高さ調整可能なケーブルが必要——固定高さのラットプルダウンマシンではできません。機能的トレーナーはこれと可変ケーブル高さを必要とする15以上の他のエクササイズを可能にします。"
+  link: "/ja/best-lat-pulldown-machine-2026"
+  image_alt: "ケーブルフェイスプル 機能的トレーナー ホームジム 後三角筋 ローテーターカフ"
+  hashtags: ["フェイスプル", "機能的トレーナー", "ホームジム", "ケーブルマシン", "肩トレーニング"]
