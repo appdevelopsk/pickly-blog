@@ -12173,6 +12173,146 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-elite-surge3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%97%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "joyce-chen-carbon-steel-wok",
+    category: "food",
+    badge: "🥢",
+    name: { en: "Joyce Chen Carbon Steel Wok", ja: "Joyce Chen 炭素鋼中華鍋" },
+    description: {
+      en: "~$35-45. 1.5 mm carbon steel, 14-inch flat bottom, birch wood handle. Best entry-level carbon steel wok — works on all stovetops including induction.",
+      ja: "約3,500〜5,000円。1.5mm炭素鋼、14インチ平底、白樺木製ハンドル。IH含む全コンロ対応の最高エントリーレベル炭素鋼中華鍋。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00005AL3I", rawUrl: "https://www.amazon.co.jp/dp/B00005AL3I", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-joyce-chen-wok", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%82%AD%E7%B4%A0%E9%8B%BC%E4%B8%AD%E8%8F%AF%E9%8D%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yosukata-carbon-steel-wok",
+    category: "food",
+    badge: "🥢",
+    name: { en: "Yosukata Hand-Hammered Carbon Steel Wok", ja: "Yosukata 手打ち炭素鋼中華鍋" },
+    description: {
+      en: "~$50-65. 2 mm hand-hammered carbon steel, 14-inch round bottom. Best for high-heat gas cooking — extra thickness and hand-hammered texture improves seasoning adhesion.",
+      ja: "約6,000〜8,000円。2mm手打ち炭素鋼、14インチ丸底。高火力ガス調理に最適——余分な厚みと手打ちテクスチャーがシーズニング密着を向上。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07KFPQ63D", rawUrl: "https://www.amazon.co.jp/dp/B07KFPQ63D", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-yosukata-wok", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%89%8B%E6%89%93%E3%81%A1%E4%B8%AD%E8%8F%AF%E9%8D%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "craft-wok-traditional-hand-hammered",
+    category: "food",
+    badge: "🥢",
+    name: { en: "Craft Wok Traditional Hand-Hammered Carbon Steel", ja: "Craft Wok 伝統的手打ち炭素鋼中華鍋" },
+    description: {
+      en: "~$45-60. 1.8 mm hand-hammered carbon steel, 14-inch round bottom, wooden + steel helper handle. Chinese-made traditional wok for gas burner cooking.",
+      ja: "約5,500〜7,000円。1.8mm手打ち炭素鋼、14インチ丸底、木製＋スチールヘルパーハンドル。ガスバーナー調理向け中国製伝統的中華鍋。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00PUCD6ZA", rawUrl: "https://www.amazon.co.jp/dp/B00PUCD6ZA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-craft-wok", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%AD%E8%8F%AF%E9%8D%8B%E6%89%8B%E6%89%93%E3%81%A1%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lodge-cast-iron-wok",
+    category: "food",
+    badge: "🥢",
+    name: { en: "Lodge Cast Iron Wok", ja: "Lodge 鋳鉄中華鍋" },
+    description: {
+      en: "~$50-70. Seasoned cast iron, 14-inch, pre-seasoned. Best for searing and braises rather than traditional stir-fry. Induction compatible.",
+      ja: "約6,000〜8,000円。シーズニング済み鋳鉄、14インチ、事前シーズニング済み。伝統的炒め物よりも焼き目と蒸し煮に最適。IH対応。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00006JSUK", rawUrl: "https://www.amazon.co.jp/dp/B00006JSUK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-lodge-wok", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%E9%8B%B3%E9%89%84%E4%B8%AD%E8%8F%AF%E9%8D%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tfal-nonstick-wok",
+    category: "food",
+    badge: "🥢",
+    name: { en: "T-fal Nonstick Wok", ja: "T-fal ノンスティック中華鍋" },
+    description: {
+      en: "~$30-45. Teflon-coated aluminum, 14-inch, no seasoning required. Best zero-maintenance option for occasional stir-fry. Temperature ceiling of 450°F limits wok hei.",
+      ja: "約3,500〜5,500円。テフロンコーティングアルミニウム、14インチ、シーズニング不要。時々の炒め物に最良のゼロメンテナンスオプション。230℃の温度上限が鍋気を制限。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B002ZZTA8Q", rawUrl: "https://www.amazon.co.jp/dp/B002ZZTA8Q", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tfal-wok", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FT-fal%E4%B8%AD%E8%8F%AF%E9%8D%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bodylastics-resistance-band-set",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Bodylastics Stackable Resistance Band Set", ja: "Bodylastics スタッカブルレジスタンスバンドセット" },
+    description: {
+      en: "~$50-80. Figure-8 clip system, anti-snap sleeves, 100% natural latex, dual-clip handles. Best for serious progressive training — most durable clip system.",
+      ja: "約6,000〜10,000円。8の字クリップシステム、アンチスナップスリーブ、100%天然ラテックス、デュアルクリップハンドル。真剣な漸進的トレーニングに最適——最も耐久性のあるクリップシステム。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BP4LNA6", rawUrl: "https://www.amazon.co.jp/dp/B00BP4LNA6", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bodylastics", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E3%83%90%E3%83%B3%E3%83%89%E3%82%BB%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "undersun-resistance-band-set",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Undersun Resistance Loop Band Set", ja: "Undersun レジスタンスループバンドセット" },
+    description: {
+      en: "~$40-60. 100% natural latex loop bands, 5 resistance levels (15-35 lb to 50-125 lb), lifetime guarantee. Best loop bands for pull-up assistance and mobility work.",
+      ja: "約5,500〜8,000円。100%天然ラテックスループバンド、5抵抗レベル（7〜16kgから23〜57kg）、終身保証。懸垂補助とモビリティ作業に最高のループバンド。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07JM2DXHB", rawUrl: "https://www.amazon.co.jp/dp/B07JM2DXHB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-undersun", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "black-mountain-resistance-band-set",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Black Mountain Resistance Band Set", ja: "Black Mountain レジスタンスバンドセット" },
+    description: {
+      en: "~$30-45. Tube bands with handles, door anchor, ankle strap, carry bag. Best all-in-one starter kit — widest accessory range at mid-range price.",
+      ja: "約4,000〜6,000円。ハンドル・ドアアンカー・アンクルストラップ・キャリーバッグ付きチューブバンド。最高のオールインワン入門セット——ミドルレンジ価格で最広アクセサリー範囲。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B007E9DGAY", rawUrl: "https://www.amazon.co.jp/dp/B007E9DGAY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-black-mountain", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E3%83%90%E3%83%B3%E3%83%89%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fit-simplify-resistance-band-set",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Fit Simplify Resistance Loop Band Set", ja: "Fit Simplify レジスタンスループバンドセット" },
+    description: {
+      en: "~$12-20. Thin loop bands, 5 resistance levels, extra light to extra heavy. Best budget entry point for rehabilitation and occasional flexibility work.",
+      ja: "約1,500〜2,500円。薄いループバンド、5抵抗レベル、エクストラライトからエクストラヘビー。リハビリと時々の柔軟作業への最高の予算入口。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01AVDVHTI", rawUrl: "https://www.amazon.co.jp/dp/B01AVDVHTI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fit-simplify", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9F%E3%83%8B%E3%83%90%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wod-nation-resistance-band-set",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "WOD Nation Resistance Band Set", ja: "WOD Nation レジスタンスバンドセット" },
+    description: {
+      en: "~$20-35. Thick loop bands, multiple resistance levels, body-weight-rated for pull-up assistance. Best for pull-up assistance and CrossFit warm-up use.",
+      ja: "約2,500〜4,500円。太いループバンド、複数抵抗レベル、体重荷重対応の懸垂補助定格。懸垂補助とクロスフィットウォームアップに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00WUHQ4K6", rawUrl: "https://www.amazon.co.jp/dp/B00WUHQ4K6", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wod-nation-band", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E8%A3%9C%E5%8A%A9%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
