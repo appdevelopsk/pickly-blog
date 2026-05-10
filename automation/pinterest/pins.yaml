@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 204 articles x 6 variants x 2 locales (en, ja) = 2448 pins (growing)
+# 206 articles x 6 variants x 2 locales (en, ja) = 2472 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -27318,3 +27318,245 @@ pins:
   link: "/ja/best-preacher-curl-bench-2026"
   image_alt: "プリーチャーカールベンチ EZカールバー アームデー バイセップアイソレーション セットアップ"
   hashtags: ["プリーチャーカールベンチ", "EZカールバー", "アームデー", "バイセップカール", "ホームジムトレーニング"]
+
+# ── best-siphon-coffee-maker-2026 ────────────────────────────────────────────
+- id: best-siphon-coffee-maker-2026-en-comparison
+  locale: en
+  variant: comparison
+  board: home_kitchen
+  title: "Siphon Coffee Maker 2026: Hario Next vs Yama vs Technica vs Cona"
+  description: "Siphon coffee sits between V60 clarity and French press richness — cloth filter removes all sediment while letting more body through than paper. Hario Next ($60-90) is the best current siphon. Hario Technica ($45-70) for exploring the method on a budget. Yama 5-Cup ($70-100) for 2-3 people. All need a separate butane burner for consistent heat."
+  link: "/en/best-siphon-coffee-maker-2026"
+  image_alt: "Siphon coffee maker comparison Hario Next Yama Technica Cona vacuum pot 2026"
+  hashtags: ["SiphonCoffee", "VacuumPot", "CoffeeGear", "HomeBarista", "SpecialtyCoffee"]
+
+- id: best-siphon-coffee-maker-2026-en-top1
+  locale: en
+  variant: top1
+  board: home_kitchen
+  title: "Hario Next Siphon: Best Vacuum Coffee Maker for Serious Brewers"
+  description: "The Hario Next ($60-90) is the most stable Hario siphon design — improved stand, better cloth filter holder, and consistent heat from a butane burner. Available in 3-cup (360ml) and 5-cup (600ml). The cloth filter produces a clean but fuller-bodied cup than V60 paper — all sediment removed, more coffee oils pass through. Buy the butane burner separately."
+  link: "/en/best-siphon-coffee-maker-2026"
+  image_alt: "Hario Next siphon best vacuum coffee maker serious home brewing"
+  hashtags: ["HarioNext", "SiphonCoffee", "VacuumPot", "HomeBarista", "CoffeeRitual"]
+
+- id: best-siphon-coffee-maker-2026-en-problem
+  locale: en
+  variant: problem
+  board: home_kitchen
+  title: "Siphon Coffee: Why It Tastes Different From Pour-Over"
+  description: "Siphon brewing uses vapor pressure and vacuum — water is pushed up into the coffee bed by steam, held at 90-94°C for controlled extraction, then vacuum-drawn back down through the cloth filter. The cloth filter removes all sediment like paper but allows more coffee oils through, producing more body than V60. Total brew time 8-12 minutes. It rewards patience."
+  link: "/en/best-siphon-coffee-maker-2026"
+  image_alt: "Siphon coffee brewing mechanics vapor pressure vacuum cloth filter"
+  hashtags: ["SiphonCoffee", "VacuumBrewing", "CoffeeMechanics", "HomeBarista", "CoffeeTips"]
+
+- id: best-siphon-coffee-maker-2026-en-budget
+  locale: en
+  variant: budget
+  board: home_kitchen
+  title: "Hario Technica Siphon: Start Siphon Brewing for $45-70"
+  description: "The Hario Technica ($45-70) is the entry point for siphon brewing — same brewing principle as the Next, simpler stand, compatible with standard Hario cloth filters. Correct starting point to explore vacuum coffee without committing to the Next's price. Add a butane burner ($20-40) for consistent heat. Total starting kit under $100."
+  link: "/en/best-siphon-coffee-maker-2026"
+  image_alt: "Hario Technica siphon budget entry level vacuum coffee starter"
+  hashtags: ["HarioTechnica", "SiphonCoffee", "BudgetCoffee", "VacuumPot", "CoffeeStarter"]
+
+- id: best-siphon-coffee-maker-2026-en-avoid
+  locale: en
+  variant: avoid
+  board: home_kitchen
+  title: "Never Add Cold Water to a Hot Siphon Globe"
+  description: "Thermal shock is the most common way to break a siphon — pouring cold water into a hot borosilicate globe will crack it. Always let the lower globe cool before rinsing. Also: store cloth filters submerged in water in the refrigerator between uses — air-drying causes mold growth. Cloth filters need replacing when they develop a brown tint that doesn't rinse out."
+  link: "/en/best-siphon-coffee-maker-2026"
+  image_alt: "Siphon coffee care thermal shock cold water warning cloth filter storage"
+  hashtags: ["SiphonCoffee", "CoffeeTips", "VacuumPot", "ClothFilter", "CoffeeCare"]
+
+- id: best-siphon-coffee-maker-2026-en-scene
+  locale: en
+  variant: scene
+  board: home_kitchen
+  title: "The Siphon Ritual: 10 Minutes of Visible Coffee Theater"
+  description: "Siphon brewing is the most dramatic coffee method — watch water climb from the lower globe into the coffee bed, see it brew at controlled temperature, then vacuum-draw back down through the cloth filter in 30 seconds. The result: a clean, bright cup with more body than V60 pour-over. It's the right method for brewers who want the experience as much as the coffee."
+  link: "/en/best-siphon-coffee-maker-2026"
+  image_alt: "Siphon coffee ritual dramatic vacuum brewing theater morning coffee"
+  hashtags: ["SiphonCoffee", "CoffeeTheater", "VacuumPot", "MorningCoffee", "CoffeeRitual"]
+
+- id: best-siphon-coffee-maker-2026-ja-comparison
+  locale: ja
+  variant: comparison
+  board: home_kitchen
+  title: "サイフォンコーヒーメーカー2026：Hario Next vs Yama vs Technica vs Cona比較"
+  description: "サイフォンコーヒーはV60のクリアさとフレンチプレスの豊かさの中間——布フィルターがすべての澱を除去しながらペーパーより豊かなボディを通過させます。Hario Next（8,500〜1万3千円）が最高の現行サイフォン。Hario Technica（6,500〜1万円）は予算でサイフォンを探索。Yama 5カップ（1万〜1万5千円）は2〜3人用。すべて一貫した熱のために別売りのブタンバーナーが必要。"
+  link: "/ja/best-siphon-coffee-maker-2026"
+  image_alt: "サイフォンコーヒーメーカー 比較 Hario Next Yama Technica Cona バキュームポット 2026"
+  hashtags: ["サイフォンコーヒー", "バキュームポット", "コーヒー器具", "ホームバリスタ", "スペシャルティコーヒー"]
+
+- id: best-siphon-coffee-maker-2026-ja-top1
+  locale: ja
+  variant: top1
+  board: home_kitchen
+  title: "Hario Next サイフォン：本格的なブルワーのための最高のバキュームコーヒーメーカー"
+  description: "Hario Next（8,500〜1万3千円）は最も安定したHarioサイフォンデザイン——改善されたスタンド・より良い布フィルターホルダー・ブタンバーナーからの一貫した熱。3カップ（360ml）と5カップ（600ml）で入手可能。布フィルターはV60ペーパーよりクリーンだが豊かなボディのカップを生産——すべての澱を除去しながらより多くのコーヒーオイルが通過します。ブタンバーナーは別売りで購入。"
+  link: "/ja/best-siphon-coffee-maker-2026"
+  image_alt: "Hario Next サイフォン 最高 バキュームコーヒーメーカー 本格ホームブリュー"
+  hashtags: ["HarioNext", "サイフォンコーヒー", "バキュームポット", "ホームバリスタ", "コーヒー儀式"]
+
+- id: best-siphon-coffee-maker-2026-ja-problem
+  locale: ja
+  variant: problem
+  board: home_kitchen
+  title: "サイフォンコーヒー：ポアオーバーと違う味がする理由"
+  description: "サイフォン抽出は蒸気圧と真空を使用——水が蒸気でコーヒー床に押し上げられ、90〜94℃でコントロールされた抽出の後、布フィルターを通して真空で引き戻されます。布フィルターはペーパーのように澱を除去しますが、より多くのコーヒーオイルを通過させV60より豊かなボディを生産します。総抽出時間8〜12分。忍耐に報いる方法です。"
+  link: "/ja/best-siphon-coffee-maker-2026"
+  image_alt: "サイフォンコーヒー 抽出メカニクス 蒸気圧 真空 布フィルター"
+  hashtags: ["サイフォンコーヒー", "バキューム抽出", "コーヒーメカニクス", "ホームバリスタ", "コーヒーのコツ"]
+
+- id: best-siphon-coffee-maker-2026-ja-budget
+  locale: ja
+  variant: budget
+  board: home_kitchen
+  title: "Hario Technica サイフォン：6,500〜1万円でサイフォン抽出を始める"
+  description: "Hario Technica（6,500〜1万円）はサイフォン抽出への入り口——Nextと同じ抽出原理・シンプルなスタンド・標準Hario布フィルター対応。Nextの価格なしに真空コーヒーを探索する正しい出発点。一貫した熱のためにブタンバーナー（3,000〜6,000円）を追加。スターターキット合計1万円以下。"
+  link: "/ja/best-siphon-coffee-maker-2026"
+  image_alt: "Hario Technica サイフォン 予算 エントリーレベル バキュームコーヒー スターター"
+  hashtags: ["HarioTechnica", "サイフォンコーヒー", "コスパコーヒー", "バキュームポット", "コーヒースターター"]
+
+- id: best-siphon-coffee-maker-2026-ja-avoid
+  locale: ja
+  variant: avoid
+  board: home_kitchen
+  title: "熱いサイフォン球に冷水を注がないこと"
+  description: "熱衝撃がサイフォンを割る最も一般的な原因——熱いホウケイ酸球に冷水を注ぐと割れます。リンスの前に必ず下部球を冷ましてください。また：布フィルターは使用間に水に浸けて冷蔵庫で保管——乾燥させるとカビが生えます。洗い流せない茶色の色合いになったら布フィルターを交換してください。"
+  link: "/ja/best-siphon-coffee-maker-2026"
+  image_alt: "サイフォンコーヒー ケア 熱衝撃 冷水 注意 布フィルター 保管"
+  hashtags: ["サイフォンコーヒー", "コーヒーのコツ", "バキュームポット", "布フィルター", "コーヒーケア"]
+
+- id: best-siphon-coffee-maker-2026-ja-scene
+  locale: ja
+  variant: scene
+  board: home_kitchen
+  title: "サイフォン儀式：10分間の可視化されたコーヒーシアター"
+  description: "サイフォン抽出は最もドラマチックなコーヒー方法——水が下部球からコーヒー床に上昇し、コントロールされた温度で抽出され、30秒で布フィルターを通して真空で引き戻されるのを見る。結果：V60ポアオーバーより豊かなボディを持つクリーンで明るいカップ。コーヒーと同様に体験を求めるブルワーのための正しい方法。"
+  link: "/ja/best-siphon-coffee-maker-2026"
+  image_alt: "サイフォンコーヒー 儀式 ドラマチック バキューム抽出 シアター 朝のコーヒー"
+  hashtags: ["サイフォンコーヒー", "コーヒーシアター", "バキュームポット", "朝のコーヒー", "コーヒー儀式"]
+
+# ── best-trap-bar-2026 ───────────────────────────────────────────────────────
+- id: best-trap-bar-2026-en-comparison
+  locale: en
+  variant: comparison
+  board: fitness
+  title: "Trap Bar / Hex Bar 2026: Rogue TB-2 vs CAP vs Titan vs REP"
+  description: "Trap bar deadlifts load from your center of mass rather than in front — reduces lumbar shear stress vs conventional deadlift. CAP ($80-120): best budget, adequate under 300-400 lbs. Titan ($100-150): better knurling, mid-range quality. REP HD ($150-200): best value premium. Rogue TB-2 ($300-350): for 500+ lb pullers."
+  link: "/en/best-trap-bar-2026"
+  image_alt: "Trap bar hex bar comparison Rogue TB-2 CAP Titan REP 2026"
+  hashtags: ["TrapBar", "HexBar", "HomeGym", "Deadlift", "StrengthTraining"]
+
+- id: best-trap-bar-2026-en-top1
+  locale: en
+  variant: top1
+  board: fitness
+  title: "CAP Barbell Hex Trap Bar: Best Budget for Home Gym Deadlifts"
+  description: "The CAP Barbell hex trap bar ($80-120) is the entry point for trap bar deadlifts — dual high/low handles, standard 2-inch Olympic sleeves, 500 lb rated capacity. Adequate for home gym deadlifts under 300-400 lbs total load. Mild knurling. Use high handles first to learn the pattern, then transition to low handles as hip mobility develops."
+  link: "/en/best-trap-bar-2026"
+  image_alt: "CAP Barbell hex trap bar budget home gym deadlift entry level"
+  hashtags: ["CAPBarbell", "TrapBar", "HomeGym", "BudgetGym", "HexBarDeadlift"]
+
+- id: best-trap-bar-2026-en-problem
+  locale: en
+  variant: problem
+  board: fitness
+  title: "Lower Back Pain on Deadlifts? Trap Bar Changes the Mechanics"
+  description: "Conventional deadlift: the bar is in front of your center of mass, creating a long moment arm from spine to load — high lumbar shear stress. Trap bar: load is at your center of mass (alongside hips), allowing a more upright torso. Reduces lumbar shear stress and tolerates wider range of hip mechanics. For athletes with lower back concerns or limited hip mobility, the trap bar allows heavy pulling without the technical demands of conventional deadlift."
+  link: "/en/best-trap-bar-2026"
+  image_alt: "Trap bar deadlift lower back solution center of mass loading vs straight bar"
+  hashtags: ["TrapBar", "LowerBackPain", "DeadliftMechanics", "HomeGym", "StrengthTraining"]
+
+- id: best-trap-bar-2026-en-budget
+  locale: en
+  variant: budget
+  board: fitness
+  title: "Titan Fitness Trap Bar: Best Under $150 for Serious Training"
+  description: "The Titan Fitness hex trap bar ($100-150) improves meaningfully over the CAP — better knurling (makes a real difference at 200+ lbs), slightly heavier bar, better sleeve quality. For home gym athletes who deadlift above 250 lbs regularly and want a bar that holds up, Titan hits the right price-quality point. Step up to REP HD ($150-200) if you want even better."
+  link: "/en/best-trap-bar-2026"
+  image_alt: "Titan Fitness trap bar best under 150 dollars mid-range hex bar"
+  hashtags: ["TitanFitness", "TrapBar", "HomeGym", "MidRangeGym", "HexBar"]
+
+- id: best-trap-bar-2026-en-avoid
+  locale: en
+  variant: avoid
+  board: fitness
+  title: "Don't Hyperextend at the Top of Trap Bar Deadlifts"
+  description: "At the top of a trap bar deadlift, avoid hyperextending the lower back — lock out with a neutral spine (glutes squeezed, core braced), not by pushing your hips forward past vertical. Trap bar's high-handle starting position already reduces lumbar demand; compensating with hyperextension at lockout negates that advantage and loads the lumbar discs. Stand tall, don't lean back."
+  link: "/en/best-trap-bar-2026"
+  image_alt: "Trap bar deadlift form avoid hyperextension lockout neutral spine"
+  hashtags: ["TrapBar", "DeadliftForm", "GymTips", "LowerBack", "StrengthTraining"]
+
+- id: best-trap-bar-2026-en-scene
+  locale: en
+  variant: scene
+  board: fitness
+  title: "Trap Bar Training: Deadlifts, Shrugs, and Farmer's Carries"
+  description: "The trap bar does more than deadlifts — trap bar shrugs allow heavier loading with neutral grip (easier on wrists than barbell shrugs for upper trap development). Open-ended trap bars enable farmer's carries for grip and core strength. Trap bar jumps are excellent for athletic power development. One piece of equipment, multiple training applications."
+  link: "/en/best-trap-bar-2026"
+  image_alt: "Trap bar training deadlifts shrugs farmers carry home gym versatility"
+  hashtags: ["TrapBar", "HomeGym", "DeadliftVariations", "TrapShrugs", "FarmersCarry"]
+
+- id: best-trap-bar-2026-ja-comparison
+  locale: ja
+  variant: comparison
+  board: fitness
+  title: "トラップバー / ヘックスバー2026：Rogue TB-2 vs CAP vs Titan vs REP比較"
+  description: "トラップバーデッドリフトは前面ではなく重心から負荷——従来のデッドリフトと比較して腰椎剪断ストレスを減少。CAP（1万2千〜1万8千円）：最高の予算、136〜181kg以下に十分。Titan（1万5千〜2万3千円）：より良いナーリング、中間レンジ品質。REP HD（2万3千〜3万円）：最高のバリュープレミアム。Rogue TB-2（4万5千〜5万3千円）：227kg以上のプラー向け。"
+  link: "/ja/best-trap-bar-2026"
+  image_alt: "トラップバー ヘックスバー 比較 Rogue TB-2 CAP Titan REP 2026"
+  hashtags: ["トラップバー", "ヘックスバー", "ホームジム", "デッドリフト", "筋力トレーニング"]
+
+- id: best-trap-bar-2026-ja-top1
+  locale: ja
+  variant: top1
+  board: fitness
+  title: "CAP Barbell ヘックストラップバー：ホームジムデッドリフトの最高予算選択"
+  description: "CAP Barbellヘックストラップバー（1万2千〜1万8千円）はトラップバーデッドリフトへの入り口——デュアルハイ/ローハンドル・標準2インチオリンピックスリーブ・227kg定格容量。136〜181kg以下のホームジムデッドリフトに十分。穏やかなナーリング。動作パターンを学ぶためにまずハイハンドルを使用し、ヒップの可動域が発達するにつれてローハンドルに移行。"
+  link: "/ja/best-trap-bar-2026"
+  image_alt: "CAP Barbell ヘックストラップバー 予算 ホームジム デッドリフト エントリーレベル"
+  hashtags: ["CAPBarbell", "トラップバー", "ホームジム", "コスパ筋トレ", "ヘックスバーデッドリフト"]
+
+- id: best-trap-bar-2026-ja-problem
+  locale: ja
+  variant: problem
+  board: fitness
+  title: "デッドリフトで腰が痛い？トラップバーがメカニクスを変える"
+  description: "従来のデッドリフト：バーが重心の前にあり、脊椎から荷重への長いモーメントアームを作る——高い腰椎剪断ストレス。トラップバー：荷重が重心に位置し（ヒップの横）、より直立した体幹を可能にします。腰椎剪断ストレスを減少させ、より広い範囲のヒップメカニクスに対応。腰部の問題や制限されたヒップ可動域を持つアスリートには、トラップバーが従来のデッドリフトのテクニカルな要求なしに重い引きを可能にします。"
+  link: "/ja/best-trap-bar-2026"
+  image_alt: "トラップバーデッドリフト 腰痛解決 重心負荷 ストレートバー vs 比較"
+  hashtags: ["トラップバー", "腰痛", "デッドリフトメカニクス", "ホームジム", "筋力トレーニング"]
+
+- id: best-trap-bar-2026-ja-budget
+  locale: ja
+  variant: budget
+  board: fitness
+  title: "Titan Fitness トラップバー：本格的なトレーニングに2万3千円以下で最高"
+  description: "Titan Fitnessヘックストラップバー（1万5千〜2万3千円）はCAPよりも意味のある改善——より良いナーリング（90kg以上で実際に差が出る）・わずかに重いバー・より良いスリーブ品質。113kg以上を定期的にデッドリフトするホームジムアスリートには、Titanが適切な価格品質ポイント。さらに良いものを望む場合はREP HD（2万3千〜3万円）にステップアップ。"
+  link: "/ja/best-trap-bar-2026"
+  image_alt: "Titan Fitness トラップバー 2万3千円以下 最高 中間レンジ ヘックスバー"
+  hashtags: ["TitanFitness", "トラップバー", "ホームジム", "中間レンジ筋トレ", "ヘックスバー"]
+
+- id: best-trap-bar-2026-ja-avoid
+  locale: ja
+  variant: avoid
+  board: fitness
+  title: "トラップバーデッドリフトのトップで過伸展しないこと"
+  description: "トラップバーデッドリフトのトップで腰を反らせないこと——中立の背骨でロックアウトし（臀筋を締め体幹を固める）、腰を垂直より前に押し出さないようにします。トラップバーのハイハンドルスタートポジションは既に腰部への要求を減少させています；ロックアウト時の過伸展でその利点が無効になり腰椎椎間板に負荷がかかります。まっすぐ立って後ろに倒れないこと。"
+  link: "/ja/best-trap-bar-2026"
+  image_alt: "トラップバーデッドリフト フォーム 過伸展禁止 ロックアウト 中立の背骨"
+  hashtags: ["トラップバー", "デッドリフトフォーム", "筋トレのコツ", "腰部", "筋力トレーニング"]
+
+- id: best-trap-bar-2026-ja-scene
+  locale: ja
+  variant: scene
+  board: fitness
+  title: "トラップバートレーニング：デッドリフト・シュラッグ・ファーマーズキャリー"
+  description: "トラップバーはデッドリフト以上のことができます——トラップバーシュラッグはニュートラルグリップで重い負荷が可能（上部僧帽筋の発達にバーベルシュラッグより手首に優しい）。オープンエンドトラップバーはグリップと体幹強化のためのファーマーズキャリーを可能にします。トラップバージャンプは運動的なパワー発達に優れています。1つの器具で複数のトレーニング応用。"
+  link: "/ja/best-trap-bar-2026"
+  image_alt: "トラップバートレーニング デッドリフト シュラッグ ファーマーズキャリー ホームジム 汎用性"
+  hashtags: ["トラップバー", "ホームジム", "デッドリフトバリエーション", "トラップシュラッグ", "ファーマーズキャリー"]
