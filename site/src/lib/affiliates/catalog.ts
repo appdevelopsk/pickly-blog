@@ -12453,6 +12453,146 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-grip4force", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%AA%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "bialetti-moka-express",
+    category: "food",
+    badge: "☕",
+    name: { en: "Bialetti Moka Express", ja: "Bialetti モカエクスプレス" },
+    description: {
+      en: "~$25-45. Food-grade aluminum, 8-sided iconic design, 1-12 cup sizes. The original and standard stovetop espresso maker. Classic moka flavor profile. Hand wash only.",
+      ja: "約3,000〜5,500円。食品グレードアルミニウム、8角形のアイコニックなデザイン、1〜12カップサイズ。オリジナルで標準的なストーブトップエスプレッソメーカー。クラシックなモカ風味。手洗いのみ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00004S5A7", rawUrl: "https://www.amazon.co.jp/dp/B00004S5A7", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bialetti-moka", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBialetti%E3%83%A2%E3%82%AB%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bialetti-brikka",
+    category: "food",
+    badge: "☕",
+    name: { en: "Bialetti Brikka Moka Pot", ja: "Bialetti ブリッカ モカポット" },
+    description: {
+      en: "~$40-60. Stainless steel, pressurized valve for crema-like foam, 2-cup and 4-cup only. Induction compatible. Best for milk drinks — foam adds texture to lattes and cappuccinos.",
+      ja: "約5,000〜8,000円。ステンレス鋼、クレマ様の泡のための加圧バルブ、2カップと4カップのみ。IH対応。ミルクドリンクに最適——泡がラテとカプチーノに食感を追加。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000IKLK6W", rawUrl: "https://www.amazon.co.jp/dp/B000IKLK6W", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bialetti-brikka", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBialetti%E3%83%96%E3%83%AA%E3%83%83%E3%82%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinox-roma-moka-pot",
+    category: "food",
+    badge: "☕",
+    name: { en: "Cuisinox Roma Stainless Steel Moka Pot", ja: "Cuisinox Roma ステンレス鋼モカポット" },
+    description: {
+      en: "~$40-60. Stainless steel, induction-compatible, dishwasher safe. Best stainless alternative to aluminum Moka Express — consistent extraction, no flavor interaction between coffee acids and metal.",
+      ja: "約5,000〜8,000円。ステンレス鋼、IH対応、食洗機対応。アルミニウムMoka Expressへの最高のステンレス代替品——一貫した抽出、コーヒー酸と金属間の風味相互作用なし。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000TCZGVU", rawUrl: "https://www.amazon.co.jp/dp/B000TCZGVU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cuisinox-moka", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%83%A2%E3%82%AB%E3%83%9D%E3%83%83%E3%83%88IH%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ilsa-stovetop-espresso-maker",
+    category: "food",
+    badge: "☕",
+    name: { en: "Ilsa Stovetop Espresso Maker", ja: "Ilsa ストーブトップエスプレッソメーカー" },
+    description: {
+      en: "~$35-55. Italian-made stainless steel, 1-12 cup sizes. Classic design with slightly different valve geometry — some describe brew as slightly smoother than Bialetti aluminum.",
+      ja: "約4,500〜7,000円。イタリア製ステンレス鋼、1〜12カップサイズ。わずかに異なるバルブ形状のクラシックデザイン——一部がBialettiアルミニウムよりわずかに滑らかな醸造と表現。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001NZUIIE", rawUrl: "https://www.amazon.co.jp/dp/B001NZUIIE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ilsa-moka", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E8%A3%BD%E3%83%A2%E3%82%AB%E3%83%9D%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pezzetti-italexpress-moka",
+    category: "food",
+    badge: "☕",
+    name: { en: "Pezzetti Italexpress Moka Pot", ja: "Pezzetti イタレクスプレス モカポット" },
+    description: {
+      en: "~$20-30. Budget Italian-made stainless moka pot. Functionally equivalent brewing mechanism at lower cost. Best entry-level moka pot for first-time buyers.",
+      ja: "約2,500〜4,000円。コストパフォーマンスのイタリア製ステンレスモカポット。より低いコストで機能的に同等の醸造メカニズム。初めて購入する人への最高エントリーレベルモカポット。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B003LLSQ4O", rawUrl: "https://www.amazon.co.jp/dp/B003LLSQ4O", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-pezzetti-moka", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A2%E3%82%AB%E3%83%9D%E3%83%83%E3%83%88%E5%AE%89%E3%81%84%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-sandbag",
+    category: "fitness",
+    badge: "🏋️",
+    name: { en: "Rogue Fitness Training Sandbag", ja: "Rogue Fitness トレーニングサンドバッグ" },
+    description: {
+      en: "~$175-250. 1000D Cordura shell, multiple integrated handles, modular filler, 150-300 lb max. Best for commercial gyms and aggressive home gym use — constructed to be thrown, dropped, dragged.",
+      ja: "約2万〜3万5千円。1000D Corduraシェル、複数統合ハンドル、モジュラーフィラー、68〜136kg最大。コマーシャルジムと積極的なホームジム使用に最適——投げ・落下・引きずりに対応する構造。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07FCFPKFD", rawUrl: "https://www.amazon.co.jp/dp/B07FCFPKFD", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-sandbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-sandbag",
+    category: "fitness",
+    badge: "🏋️",
+    name: { en: "REP Fitness Training Sandbag", ja: "REP Fitness トレーニングサンドバッグ" },
+    description: {
+      en: "~$80-130. 900D Cordura, reinforced handles, modular filler, 50-150 lb sizes. Best value for regular home gym use — adequate durability at significantly lower cost than Rogue.",
+      ja: "約1万〜1万8千円。900D Cordura、補強ハンドル、モジュラーフィラー、22〜68kgサイズ。定期的なホームジム使用に最高の価値——Rogueより大幅に安いコストで十分な耐久性。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07QRBS1PC", rawUrl: "https://www.amazon.co.jp/dp/B07QRBS1PC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-sandbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B8%E3%83%A0%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "goruck-training-sandbag",
+    category: "fitness",
+    badge: "🏋️",
+    name: { en: "GORUCK Training Sandbag", ja: "GORUCK トレーニングサンドバッグ" },
+    description: {
+      en: "~$100-175. 1000D Cordura, military construction standards, welded webbing handles. Best for rucking events and sustained loaded carries — built for GORUCK events and military fitness.",
+      ja: "約1万4千〜2万5千円。1000D Cordura、軍事構造基準、溶接ウェビングハンドル。ラッキングイベントと持続ロードキャリーに最適——GORUCKイベントと軍事フィットネストレーニング向け。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0094DXAOE", rawUrl: "https://www.amazon.co.jp/dp/B0094DXAOE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-goruck-sandbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0%E3%83%A9%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "vikingstrength-sandbag",
+    category: "fitness",
+    badge: "🏋️",
+    name: { en: "Viking Strength Training Sandbag", ja: "Viking Strength トレーニングサンドバッグ" },
+    description: {
+      en: "~$100-150. Shell geometry optimized for shouldering, grip panel for clean pull. Best for strongman shouldering-focused training — handle placement matches shouldering movement pattern.",
+      ja: "約1万3千〜2万円。ショルダリングに最適化されたシェル形状、クリーンプル用グリップパネル。ストロングマンショルダリングフォーカストレーニングに最適——ハンドル配置がショルダリング動作パターンと一致。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07V2JQMWR", rawUrl: "https://www.amazon.co.jp/dp/B07V2JQMWR", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-viking-sandbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cerberus-strength-sandbag",
+    category: "fitness",
+    badge: "🏋️",
+    name: { en: "Cerberus Strength Training Sandbag", ja: "Cerberus Strength トレーニングサンドバッグ" },
+    description: {
+      en: "~$150-300. Competition standard construction, 150-450 lb capacity, used in Strongman Corporation events. Best for actual strongman competition training — competition-equivalent equipment.",
+      ja: "約2万〜4万円。競技基準構造、68〜200kg容量、Strongman Corporationイベントで使用。実際のストロングマン競技トレーニングに最適——競技同等の設備。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08BFHZWML", rawUrl: "https://www.amazon.co.jp/dp/B08BFHZWML", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cerberus-sandbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%AB%B6%E6%8A%80%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
