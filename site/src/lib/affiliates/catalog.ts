@@ -15983,6 +15983,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-nike-giannis-immortality-4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Giannis+Immortality+4%2F", markets: ["JP"], approved: true },
     ],
   },
+  // best-ginger-tea-2026
+  {
+    id: "traditional-medicinals-organic-ginger",
+    category: "food",
+    badge: "Best Overall Ginger Tea",
+    name: { en: "Traditional Medicinals Organic Ginger Tea", ja: "トラディショナルメディシナルズ オーガニックジンジャー" },
+    description: { en: "Medicinal-grade whole-root organic ginger tea with consistent potency and genuine digestive support", ja: "一貫した効力と本物の消化サポートを持つ薬用グレードの全根オーガニックジンジャーティー" },
+    links: [
+      { network: "amazon-jp", productId: "B000GG7VIE", rawUrl: "https://www.amazon.co.jp/dp/B000GG7VIE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GG7VIE", rawUrl: "https://www.amazon.com/dp/B000GG7VIE", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "stash-tea-premium-ginger",
+    category: "food",
+    badge: "Best Everyday Ginger Tea",
+    name: { en: "Stash Tea Premium Ginger", ja: "スタッシュティー プレミアムジンジャー" },
+    description: { en: "Pyramid sachet ginger tea with genuine flavor and good value for daily drinking", ja: "本物の風味と毎日の飲用に優れたバリューを持つピラミッドサッシェジンジャーティー" },
+    links: [
+      { network: "amazon-jp", productId: "B001E5DZ2M", rawUrl: "https://www.amazon.co.jp/dp/B001E5DZ2M", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001E5DZ2M", rawUrl: "https://www.amazon.com/dp/B001E5DZ2M", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "yogi-tea-ginger",
+    category: "food",
+    badge: "Best Spice-Blend Ginger Tea",
+    name: { en: "Yogi Tea Ginger", ja: "ヨギティー ジンジャー" },
+    description: { en: "Ginger tea blended with black pepper for enhanced gingerol absorption and layered warming flavor", ja: "ジンゲロールの吸収を高めるために黒胡椒とブレンドされた層状の温かい風味のジンジャーティー" },
+    links: [
+      { network: "amazon-jp", productId: "B000FOUHJG", rawUrl: "https://www.amazon.co.jp/dp/B000FOUHJG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000FOUHJG", rawUrl: "https://www.amazon.com/dp/B000FOUHJG", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "bigelow-benefits-ginger-lemon",
+    category: "food",
+    badge: "Best Ginger-Citrus Blend",
+    name: { en: "Bigelow Benefits Ginger & Lemon", ja: "ビゲロー ベネフィッツ ジンジャー＆レモン" },
+    description: { en: "Approachable ginger-lemon blend with moderate spice intensity and foil-wrapped freshness protection", ja: "適度な辛味の強度とアルミホイル包装の鮮度保護を持つアクセスしやすいジンジャーレモンブレンド" },
+    links: [
+      { network: "amazon-jp", productId: "B01MXBZ1F4", rawUrl: "https://www.amazon.co.jp/dp/B01MXBZ1F4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01MXBZ1F4", rawUrl: "https://www.amazon.com/dp/B01MXBZ1F4", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "pukka-three-ginger",
+    category: "food",
+    badge: "Best Premium Ginger Experience",
+    name: { en: "Pukka Three Ginger Tea", ja: "パッカ スリージンジャーティー" },
+    description: { en: "Premium organic ginger tea using three ginger preparations for complex layered flavor and maximum potency", ja: "複雑な層状の風味と最大効力のために3種類のショウガ製品を使用したプレミアムオーガニックジンジャーティー" },
+    links: [
+      { network: "amazon-jp", productId: "B006FIVZGI", rawUrl: "https://www.amazon.co.jp/dp/B006FIVZGI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B006FIVZGI", rawUrl: "https://www.amazon.com/dp/B006FIVZGI", markets: ["US"], approved: true },
+    ],
+  },
+  // best-wrestling-shoes-2026
+  {
+    id: "asics-cael-v9-wrestling",
+    category: "fitness",
+    badge: "Best Competition Wrestling Shoe",
+    name: { en: "ASICS Cael V9.0", ja: "アシックス ケイエル V9.0" },
+    description: { en: "Top-tier competition wrestling shoe with split outsole, under-6oz weight, and ankle stabilizing system", ja: "スプリットアウトソール・6オンス以下の重量・足首安定化システムを持つトップティア競技レスリングシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B07BXHVZ5K", rawUrl: "https://www.amazon.co.jp/dp/B07BXHVZ5K", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BXHVZ5K", rawUrl: "https://www.amazon.com/dp/B07BXHVZ5K", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "asics-matflex-6-wrestling",
+    category: "fitness",
+    badge: "Best Value Wrestling Shoe",
+    name: { en: "ASICS Matflex 6", ja: "アシックス マットフレックス 6" },
+    description: { en: "Entry-level wrestling shoe with rubber cupsole grip and high-cut ankle support for practice and beginner competition", ja: "練習と初心者競技のためのゴムカップソールグリップとハイカット足首サポートを持つエントリーレベルレスリングシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B01N9PVH5L", rawUrl: "https://www.amazon.co.jp/dp/B01N9PVH5L", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01N9PVH5L", rawUrl: "https://www.amazon.com/dp/B01N9PVH5L", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "nike-speedsweep-vii",
+    category: "fitness",
+    badge: "Best Nike Wrestling Shoe",
+    name: { en: "Nike Speedsweep VII", ja: "ナイキ スピードスウィープ VII" },
+    description: { en: "Nike's foundational wrestling shoe built for lateral quickness and mat feel with adjustable Velcro ankle strap", ja: "調整可能なベルクロ足首ストラップを持つ横方向の素早さとマットフィールのために構築されたナイキの基礎的なレスリングシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B076FNYBND", rawUrl: "https://www.amazon.co.jp/dp/B076FNYBND", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B076FNYBND", rawUrl: "https://www.amazon.com/dp/B076FNYBND", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "adidas-adizero-varner-wrestling",
+    category: "fitness",
+    badge: "Best Lightweight Wrestling Shoe",
+    name: { en: "Adidas Adizero Varner", ja: "アディダス アディゼロ バーナー" },
+    description: { en: "Under 4oz per shoe elite competition wrestling shoe co-developed with Olympic gold medalist James Varner", ja: "オリンピック金メダリストのジェームス・バーナーとの共同開発した1足4オンス以下のエリート競技レスリングシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B07CKLR4BQ", rawUrl: "https://www.amazon.co.jp/dp/B07CKLR4BQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07CKLR4BQ", rawUrl: "https://www.amazon.com/dp/B07CKLR4BQ", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "asics-split-second-9",
+    category: "fitness",
+    badge: "Best Mid-Range Wrestling Shoe",
+    name: { en: "ASICS Split Second 9", ja: "アシックス スプリットセカンド 9" },
+    description: { en: "Mid-range wrestling shoe with split outsole for better mat feel and multi-layer upper for durability", ja: "より良いマットフィールのためのスプリットアウトソールと耐久性のためのマルチレイヤーアッパーを持つ中価格帯レスリングシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B01NAH9ESN", rawUrl: "https://www.amazon.co.jp/dp/B01NAH9ESN", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01NAH9ESN", rawUrl: "https://www.amazon.com/dp/B01NAH9ESN", markets: ["US"], approved: true },
+    ],
+  },
 ];
 
 /**
