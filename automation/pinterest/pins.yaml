@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 208 articles x 6 variants x 2 locales (en, ja) = 2496 pins (growing)
+# 210 articles x 6 variants x 2 locales (en, ja) = 2520 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -27802,3 +27802,173 @@ pins:
   link: "/ja/best-assault-bike-2026"
   image_alt: "アサルトバイク タバタプロトコル 4分 最大努力 HIIT コンディショニング"
   hashtags: ["アサルトバイク", "タバタワークアウト", "HIIT", "エアバイクワークアウト", "コンディショニングワークアウト"]
+
+# ── Batch #214: best-vietnamese-coffee-2026 ──────────────────────────────
+- slug: best-vietnamese-coffee-2026
+  locale: en
+  variant: comparison
+  title: "Vietnamese Coffee 2026: Phin vs Trung Nguyen vs Cafe Du Monde"
+  description: "How the phin filter works, ca phe sua da recipe with condensed milk, and which Vietnamese coffee setup is worth buying for home."
+  image_path: public/og/best-vietnamese-coffee-2026-en.png
+
+- slug: best-vietnamese-coffee-2026
+  locale: en
+  variant: top1
+  title: "Best Vietnamese Coffee Setup: Trung Nguyen Legend + Phin Filter"
+  description: "Robusta-dominant blend pre-ground for phin brewing — the most representative traditional Vietnamese coffee for ca phe sua da."
+  image_path: public/og/best-vietnamese-coffee-2026-en.png
+
+- slug: best-vietnamese-coffee-2026
+  locale: en
+  variant: problem
+  title: "Why Your Vietnamese Coffee Tastes Wrong (Phin Grind Fix)"
+  description: "Too fine = clogged phin, bitter 10-min extraction. Too coarse = weak runoff. Medium-fine is the correct phin grind — here's how to dial it in."
+  image_path: public/og/best-vietnamese-coffee-2026-en.png
+
+- slug: best-vietnamese-coffee-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Vietnamese Coffee: $5 Phin + Trung Nguyen Legend"
+  description: "A $5-12 stainless phin and $15-20 Trung Nguyen Legend ground coffee produces authentic ca phe sua da that rivals expensive equipment."
+  image_path: public/og/best-vietnamese-coffee-2026-en.png
+
+- slug: best-vietnamese-coffee-2026
+  locale: en
+  variant: avoid
+  title: "Don't Use Evaporated Milk for Ca Phe Sua Da (Use This Instead)"
+  description: "Evaporated milk is unsweetened — condensed milk is both the sweetener and creamer for Vietnamese iced coffee. The difference matters significantly."
+  image_path: public/og/best-vietnamese-coffee-2026-en.png
+
+- slug: best-vietnamese-coffee-2026
+  locale: en
+  variant: scene
+  title: "Ca Phe Sua Da at Home: Vietnamese Iced Coffee with Phin Filter"
+  description: "Brew phin coffee over condensed milk, stir, pour over ice. 6-minute extraction, authentic Vietnamese flavor, no expensive equipment needed."
+  image_path: public/og/best-vietnamese-coffee-2026-en.png
+
+- slug: best-vietnamese-coffee-2026
+  locale: ja
+  variant: comparison
+  title: "ベトナムコーヒー2026：フィンvsトルンGuyenvsカフェドモンド比較"
+  description: "フィンフィルターの仕組み・コンデンスミルクを使ったカフェスア・ダーのレシピ・ホームでのベトナムコーヒーセットアップを徹底比較。"
+  image_path: public/og/best-vietnamese-coffee-2026-ja.png
+
+- slug: best-vietnamese-coffee-2026
+  locale: ja
+  variant: top1
+  title: "ベストベトナムコーヒー：Trung Nguyen Legend＋フィンフィルター"
+  description: "フィン醸造用事前挽きのロブスタ主体ブレンド——カフェスア・ダーに最も代表的な伝統的ベトナムコーヒー。"
+  image_path: public/og/best-vietnamese-coffee-2026-ja.png
+
+- slug: best-vietnamese-coffee-2026
+  locale: ja
+  variant: problem
+  title: "ベトナムコーヒーが美味しくない理由（フィン挽き目の修正）"
+  description: "細すぎ＝フィン詰まり、10分苦い過抽出。粗すぎ＝弱い流れ。中細挽きが正しいフィン挽き目——ダイヤルの合わせ方。"
+  image_path: public/og/best-vietnamese-coffee-2026-ja.png
+
+- slug: best-vietnamese-coffee-2026
+  locale: ja
+  variant: budget
+  title: "予算ベトナムコーヒー：500〜1500円フィン＋Trung Nguyen"
+  description: "500〜1500円のステンレスフィンと2000〜3000円のTrung Nguyen Legendで本格カフェスア・ダーが作れます。"
+  image_path: public/og/best-vietnamese-coffee-2026-ja.png
+
+- slug: best-vietnamese-coffee-2026
+  locale: ja
+  variant: avoid
+  title: "エバポレーテッドミルクはカフェスア・ダーに使わないで（正しい材料）"
+  description: "エバポレーテッドミルクは無糖——コンデンスミルクがベトナムアイスコーヒーの甘みとクリーマーの両方。違いは大きい。"
+  image_path: public/og/best-vietnamese-coffee-2026-ja.png
+
+- slug: best-vietnamese-coffee-2026
+  locale: ja
+  variant: scene
+  title: "自宅でカフェスア・ダー：フィンフィルターでベトナムアイスコーヒー"
+  description: "コンデンスミルクの上にフィンコーヒーを淹れ、かき混ぜ、氷の上に注ぐ。6分抽出、高価な器具不要の本格ベトナム風味。"
+  image_path: public/og/best-vietnamese-coffee-2026-ja.png
+
+# ── Batch #215: best-power-rack-2026 ──────────────────────────────────────
+- slug: best-power-rack-2026
+  locale: en
+  variant: comparison
+  title: "Power Rack 2026: Rogue R-3 vs REP PR-4000 vs Titan X-3 vs Body-Solid"
+  description: "Upright gauge, hole spacing, J-hook quality, and safety bar systems compared — which full cage is worth buying for your home gym."
+  image_path: public/og/best-power-rack-2026-en.png
+
+- slug: best-power-rack-2026
+  locale: en
+  variant: top1
+  title: "Best Home Gym Power Rack: Rogue R-3 Monster Lite"
+  description: "3x3 inch 11-gauge uprights, 1-inch hole spacing, best J-hook quality, extensive Monster Lite accessory ecosystem. The reference home gym rack."
+  image_path: public/og/best-power-rack-2026-en.png
+
+- slug: best-power-rack-2026
+  locale: en
+  variant: problem
+  title: "Why 14-Gauge Power Racks Wobble (And What Gauge You Actually Need)"
+  description: "14-gauge flexes noticeably at 300+ lbs. 11-gauge 3x3 inch uprights are commercial standard — the spec that matters for heavy home gym training."
+  image_path: public/og/best-power-rack-2026-en.png
+
+- slug: best-power-rack-2026
+  locale: en
+  variant: budget
+  title: "Best Budget 11-Gauge Power Rack: REP PR-4000 vs Titan X-3"
+  description: "REP PR-4000 ($520-600) gives Rogue-equivalent spec at 15-20% lower cost. Titan X-3 ($400-500) is cheaper but with mixed quality reputation."
+  image_path: public/og/best-power-rack-2026-en.png
+
+- slug: best-power-rack-2026
+  locale: en
+  variant: avoid
+  title: "Don't Buy a Power Rack Without Checking Ceiling Height First"
+  description: "90-inch uprights need 9.5-10 ft ceiling clearance with overhead press range. Measure before buying — returning a 175 lb rack is genuinely difficult."
+  image_path: public/og/best-power-rack-2026-en.png
+
+- slug: best-power-rack-2026
+  locale: en
+  variant: scene
+  title: "Training Alone Safely with a Power Rack: Safety Bar Setup Guide"
+  description: "Set safeties at barbell height at your lowest position — parallel for squat, 1 inch below chest touch for bench. The rack catches failed reps, not emergencies."
+  image_path: public/og/best-power-rack-2026-en.png
+
+- slug: best-power-rack-2026
+  locale: ja
+  variant: comparison
+  title: "パワーラック2026：Rogue R-3 vs REP PR-4000 vs Titan X-3 vs Body-Solid"
+  description: "アップライトゲージ・ホール間隔・Jフック品質・セーフティバーシステムを比較——ホームジムに買う価値があるフルケージはどれ。"
+  image_path: public/og/best-power-rack-2026-ja.png
+
+- slug: best-power-rack-2026
+  locale: ja
+  variant: top1
+  title: "ベストホームジムパワーラック：Rogue R-3 Monster Lite"
+  description: "3x3インチ11ゲージアップライト、1インチホール間隔、最高のJフック品質、広範なMonster Liteアクセサリーエコシステム。基準ホームジムラック。"
+  image_path: public/og/best-power-rack-2026-ja.png
+
+- slug: best-power-rack-2026
+  locale: ja
+  variant: problem
+  title: "14ゲージパワーラックがぐらつく理由（本当に必要なゲージとは）"
+  description: "14ゲージは300ポンド以上で目立つたわみ。11ゲージ3x3インチアップライトが商業標準——重いホームジムトレーニングで重要なスペック。"
+  image_path: public/og/best-power-rack-2026-ja.png
+
+- slug: best-power-rack-2026
+  locale: ja
+  variant: budget
+  title: "予算11ゲージパワーラック：REP PR-4000 vs Titan X-3"
+  description: "REP PR-4000（520〜600ドル）は15〜20%低いコストでRogue同等スペック。Titan X-3（400〜500ドル）は安いが品質評判がまちまち。"
+  image_path: public/og/best-power-rack-2026-ja.png
+
+- slug: best-power-rack-2026
+  locale: ja
+  variant: avoid
+  title: "パワーラック購入前に天井高を確認——確認しないと後悔"
+  description: "90インチアップライトはオーバーヘッドプレスレンジを含む9.5〜10フィートの天井高が必要。購入前に測定——175ポンドのラック返品は本当に困難。"
+  image_path: public/og/best-power-rack-2026-ja.png
+
+- slug: best-power-rack-2026
+  locale: ja
+  variant: scene
+  title: "パワーラックで一人で安全にトレーニング：セーフティバー設定ガイド"
+  description: "セーフティを最低位置でのバーベル高さに設定——スクワットはパラレル、ベンチはチェストタッチの1インチ下。ラックは失敗したレップをキャッチします。"
+  image_path: public/og/best-power-rack-2026-ja.png
