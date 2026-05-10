@@ -9919,6 +9919,139 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-hamilton-beach-49350-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2B49350%2F", markets: ["JP"], approved: false },
     ],
   },
+  // ───────── Fitness / Squat Racks (best-squat-rack-2026) ─────────
+  {
+    id: "rogue-rm-3-power-rack",
+    category: "fitness",
+    name: { en: "Rogue RM-3 Monster Rack 2.0", ja: "ローグ RM-3 モンスターラック 2.0" },
+    description: {
+      en: "~¥300,000-¥400,000. Rogue's flagship 3x3-inch 11-gauge steel Monster series power rack. 90-inch uprights, 1,000 lb rated weight capacity, Westside hole spacing (1-inch in the bench zone, 2-inch above and below), and compatibility with the full Rogue Monster accessory ecosystem — lat pulldown, cable crossover, landmine, monolift wings. Built in Columbus, Ohio with the tolerance and finish that justify the premium. Heavy footprint at 57 x 46 inches base — room for this rack is room for a serious gym.",
+      ja: "約30〜40万円。ローグのフラッグシップ3x3インチ11ゲージスチール モンスターシリーズ パワーラック。90インチアップライト、耐荷重450kg、ウエストサイドホール間隔（ベンチゾーン25mm、上下50mm）、ローグモンスターアクセサリー全体（ラットプルダウン・ケーブルクロスオーバー・ランドマイン・モノリフトウィング）との互換性。オハイオ州コロンバス製。ベース57x46インチの大型フットプリント — このラックに場所があれば本格ジムが作れる。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B084DTYBRB", rawUrl: "https://www.amazon.co.jp/dp/B084DTYBRB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-rm-3-power-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BRM-3%2BPower%2BRack%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-pr-4000-power-rack",
+    category: "fitness",
+    name: { en: "REP Fitness PR-4000 Power Rack", ja: "REPフィットネス PR-4000 パワーラック" },
+    description: {
+      en: "~¥180,000-¥250,000. REP's top-tier home gym power rack in 3x3-inch 11-gauge steel with 1-inch Westside hole spacing throughout the entire upright length. 1,000 lb rated capacity, 93-inch height option, and a modular accessory system that competes directly with Rogue at roughly half the price. The rack ships in multiple boxes and requires careful assembly, but the hardware quality and tolerances are genuinely close to Rogue without the Monster premium. An increasingly popular choice among serious home gym builders who want competition-spec construction without the import price of US-made racks.",
+      ja: "約18〜25万円。REPのトップティア ホームジム パワーラック。3x3インチ11ゲージスチール、全長1インチ ウエストサイドホール間隔。耐荷重450kg、高さ93インチオプション、ローグの約半額でモジュラーアクセサリーシステムが競合。複数箱発送で丁寧な組み立てが必要だが、ハードウェア品質と精度はモンスタープレミアムなしで本当にローグに近い。米国製ラックの輸入価格なしで競技仕様の構造を求める本格ホームジムビルダーの間で急速に人気上昇中。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08BFQ9MBX", rawUrl: "https://www.amazon.co.jp/dp/B08BFQ9MBX", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-fitness-pr-4000-power-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP%2BFitness%2BPR-4000%2BPower%2BRack%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-fitness-t-3-short-rack",
+    category: "fitness",
+    name: { en: "Titan Fitness T-3 Short Power Rack", ja: "タイタン フィットネス T-3 ショート パワーラック" },
+    description: {
+      en: "~¥80,000-¥120,000. Titan's T-3 series in a short (72-inch upright) configuration designed for garages and home gyms with 8-foot or lower ceilings. 3x3-inch 11-gauge steel uprights, 700 lb rated capacity, 5/8-inch bolt-together construction (no welding). Westside hole spacing in the bench zone. The short configuration gives up some overhead bar clearance and limits the height at which you can do pull-ups with a bar, but for squatting and benching it performs identically to the full-height version. Titan's T-3 accessories are widely available and reasonably priced, making this a genuine budget-to-mid power rack upgrade path.",
+      ja: "約8〜12万円。タイタンのT-3シリーズ、天井高2.4m以下のガレージ・ホームジム向けショート（72インチアップライト）設計。3x3インチ11ゲージスチールアップライト、耐荷重320kg、5/8インチボルト締め構造（溶接なし）。ベンチゾーンにウエストサイドホール間隔。ショート設定でオーバーヘッドバークリアランスと懸垂高さは犠牲になるが、スクワットとベンチでは全高バージョンと同等性能。タイタンT-3アクセサリーは幅広く手頃な価格で、本格的なバジェット〜ミッドパワーラックのアップグレードパスになる。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08G9KBVG5", rawUrl: "https://www.amazon.co.jp/dp/B08G9KBVG5", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-fitness-t-3-short-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan%2BFitness%2BT-3%2BShort%2BPower%2BRack%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cap-barbell-power-rack-fm-cs8000f",
+    category: "fitness",
+    name: { en: "CAP Barbell Deluxe Power Rack FM-CS8000F", ja: "CAPバーベル デラックス パワーラック FM-CS8000F" },
+    description: {
+      en: "~¥30,000-¥50,000. CAP Barbell's entry-level power rack — 2x2-inch 14-gauge steel, 500 lb weight capacity, J-hooks and safety spotter bars included. At this price point the rack does what it promises: it keeps you from getting crushed while you squat and bench alone. The 14-gauge steel and 2x2-inch uprights flex slightly under heavy loads (above 150 kg), and the hole spacing is 2-inch throughout with no Westside pattern. Accessories are limited compared to premium brands. Honest entry point for someone setting up their first home gym on a strict budget who plans to squat 100-130 kg maximum.",
+      ja: "約3〜5万円。CAPバーベルのエントリーレベル パワーラック — 2x2インチ14ゲージスチール、耐荷重227kg、Jフックとセーフティスポッターバー付属。この価格帯で約束通りの仕事をする：ソロスクワット・ベンチでの潰れ防止。14ゲージスチールと2x2インチアップライトは高負荷（150kg超）でわずかにたわみ、ホール間隔は全長50mmでウエストサイドパターンなし。アクセサリーはプレミアムブランドより限定的。最大100〜130kgのスクワットを想定する厳格な予算で初めてのホームジムを立ち上げる人への正直なエントリーポイント。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BCFV8NA", rawUrl: "https://www.amazon.co.jp/dp/B00BCFV8NA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cap-barbell-power-rack-fm-cs8000f", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP%2BBarbell%2BPower%2BRack%2BFM-CS8000F%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fitness-reality-810xlt-power-cage",
+    category: "fitness",
+    name: { en: "Fitness Reality 810XLT Power Cage", ja: "フィットネスリアリティ 810XLT パワーケージ" },
+    description: {
+      en: "~¥35,000-¥55,000. Fitness Reality's mid-entry power cage — 2x2-inch 12-gauge steel uprights (heavier gauge than CAP), 800 lb rated capacity, pull-up bar built into the top, and a cable pulley system included as standard. The included pulley attachment makes this the most feature-rich option at this price tier, allowing lat pulldowns and cable rows without a separate attachment purchase. Hole spacing is 2 inches throughout. The cable system is functional but the pulley quality means it develops a slight creak after 6-12 months of heavy cable use. Good value for lifters who want a pull-up bar and cable work in a compact, budget-friendly setup.",
+      ja: "約3.5〜5.5万円。フィットネスリアリティのミドルエントリー パワーケージ — 2x2インチ12ゲージスチールアップライト（CAPより重いゲージ）、耐荷重360kg、上部にプルアップバー内蔵、ケーブルプーリーシステム標準付属。付属プーリーアタッチメントで別途購入なしにラットプルダウンとケーブルローが可能でこの価格帯で最も機能豊富。ホール間隔は全長50mm。ケーブルシステムは機能的だがプーリー品質のため激しいケーブル使用6〜12ヶ月後に軽いきしみが発生。プルアップバーとケーブルワークをコンパクトで予算に優しいセットアップに求めるリフターへの良いバリュー。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07C9BX9PS", rawUrl: "https://www.amazon.co.jp/dp/B07C9BX9PS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fitness-reality-810xlt-power-cage", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitness%2BReality%2B810XLT%2BPower%2BCage%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Food / Instant Pots & Multicookers (best-instant-pot-2026) ─────────
+  {
+    id: "instant-pot-duo-7in1-6qt",
+    category: "food",
+    name: { en: "Instant Pot Duo 7-in-1 Electric Pressure Cooker 6qt", ja: "インスタントポット Duo 7-in-1 電気圧力鍋 6クォート" },
+    description: {
+      en: "~¥8,000-¥12,000. 6-quart 7-in-1 multicooker: pressure cook, slow cook, rice cooker, steamer, sauté, yogurt maker, warmer. The best-selling multicooker worldwide with proven reliability across millions of households. Standard sealing ring fits all 6qt Instant Pot models.",
+      ja: "約8,000〜12,000円。6クォート7-in-1マルチクッカー：圧力調理・スロークック・炊飯・蒸し・炒め・ヨーグルト・保温。世界累計販売台数トップのマルチクッカー。シールリングは全6クォートInstant Pot共通。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00FLYWNYQ", rawUrl: "https://www.amazon.co.jp/dp/B00FLYWNYQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-instant-pot-duo-7in1-6qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BDuo%2B7-in-1%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "instant-pot-pro-10in1-6qt",
+    category: "food",
+    name: { en: "Instant Pot Pro 10-in-1 Pressure Cooker 6qt", ja: "インスタントポット Pro 10-in-1 電気圧力鍋 6クォート" },
+    description: {
+      en: "~¥15,000-¥20,000. 6-quart 10-in-1 multicooker adding sous vide, sterilization, and a higher-temperature sauté over the Duo. Turn-dial pressure release for controlled steam venting on starchy dishes. The upgrade for households that sear before braising or cook proteins to precise temperatures.",
+      ja: "約15,000〜20,000円。6クォート10-in-1マルチクッカー。Duoにスービー・滅菌・高温ソテーを追加。ダイヤル式放圧でデンプン料理の泡立ち防止。煮込み前の焼きや精密温度調理を重視する家庭向けのアップグレード。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08R4Z9J8K", rawUrl: "https://www.amazon.co.jp/dp/B08R4Z9J8K", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-instant-pot-pro-10in1-6qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BPro%2B10-in-1%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ninja-fd401-foodi-8qt",
+    category: "food",
+    name: { en: "Ninja FD401 Foodi 8-Quart 9-in-1 Deluxe XL", ja: "Ninja FD401 Foodi 8クォート 9-in-1 デラックス XL" },
+    description: {
+      en: "~¥25,000-¥35,000. 8-quart 9-in-1 pressure cooker and air fryer with TenderCrisp technology: pressure cook first to tenderize, then switch to the crisping lid for a genuine air-fried finish. Larger capacity and higher airflow than comparable Instant Pot air fryer models. Best choice when air crisping is a genuine requirement.",
+      ja: "約25,000〜35,000円。8クォート9-in-1圧力調理＋エアフライヤー。TenderCrispテクノロジーで圧力調理→クリスピーの2段仕上げ。インスタントポット系エアフライモデルより容量大・風量大。エアフライを本格的に使いたい場合の最右翼。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07QM4NMCK", rawUrl: "https://www.amazon.co.jp/dp/B07QM4NMCK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ninja-fd401-foodi-8qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNinja%2BFoodi%2BFD401%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cosori-pressure-cooker-6qt",
+    category: "food",
+    name: { en: "COSORI 6Qt Electric Pressure Cooker 9-in-1", ja: "COSORI 6クォート電気圧力鍋 9-in-1" },
+    description: {
+      en: "~¥7,000-¥10,000. 6-quart 9-in-1 multicooker with app connectivity and a large guided recipe library that downloads cooking programs directly to the device. Comparable pressure cooking performance to the Instant Pot Duo at a 20-30% lower price point. Good first multicooker for households that want guided recipes.",
+      ja: "約7,000〜10,000円。6クォート9-in-1マルチクッカー。アプリ連携で調理プログラムを直接デバイスにダウンロードできるガイドレシピが充実。基本的な圧力調理性能はInstant Pot Duoに近く、価格は20〜30%安い。ガイドレシピで始めたい初心者向け。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08JBLBKLH", rawUrl: "https://www.amazon.co.jp/dp/B08JBLBKLH", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cosori-pressure-cooker-6qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCOSORI%2B%E9%9B%BB%E6%B0%97%E5%9C%A7%E5%8A%9B%E9%8D%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "instant-pot-duo-crisp-air-fryer",
+    category: "food",
+    name: { en: "Instant Pot Duo Crisp 11-in-1 Air Fryer", ja: "インスタントポット Duo Crisp 11-in-1 エアフライヤー" },
+    description: {
+      en: "~¥18,000-¥25,000. Instant Pot Duo with an added air frying lid — 11-in-1 functions including pressure cook, air fry, broil, bake, roast, and dehydrate. Stays within the Instant Pot ecosystem and accessory compatibility. The right choice if you want both capabilities without switching to Ninja.",
+      ja: "約18,000〜25,000円。Duoにエアフライリッドを追加した11-in-1マルチクッカー。圧力調理・エアフライ・グリル・ベイク・ロースト・乾燥など11機能。インスタントポットのエコシステム・アクセサリと互換性を保ちながら両機能を実現。Ninja乗り換えなしで両機能を使いたい場合の選択肢。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07WLLNMXZ", rawUrl: "https://www.amazon.co.jp/dp/B07WLLNMXZ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-instant-pot-duo-crisp-air-fryer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BDuo%2BCrisp%2B%E3%82%A8%E3%82%A2%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
