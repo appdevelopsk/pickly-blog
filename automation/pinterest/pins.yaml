@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 186 articles x 6 variants x 2 locales (en, ja) = 2232 pins (growing)
+# 188 articles x 6 variants x 2 locales (en, ja) = 2256 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -25140,3 +25140,245 @@ pins:
   link: "/ja/best-speed-rope-2026"
   image_alt: "スピードロープ クロスフィット ボクシング 有酸素運動 縄跳び"
   hashtags: ["スピードロープ", "クロスフィット", "ボクシング", "有酸素運動", "縄跳び"]
+
+# best-wok-2026
+- id: best-wok-2026-comparison-en
+  board: food
+  locale: en
+  variant: comparison
+  title: "Best Woks 2026: Carbon Steel vs Cast Iron vs Nonstick — Joyce Chen, Yosukata, Craft Wok, Lodge, T-fal"
+  description: "Five woks compared on seasoning requirements, heat response speed, and actual stir-fry performance. What the differences between carbon steel, cast iron, and nonstick actually mean in a home kitchen."
+  link: "/en/best-wok-2026"
+  image_alt: "Best woks 2026 comparison carbon steel cast iron nonstick Joyce Chen Yosukata Lodge T-fal"
+  hashtags: ["wok", "cookware", "stirfry", "carbonsteelwok", "kitchenessentials"]
+
+- id: best-wok-2026-top1-en
+  board: food
+  locale: en
+  variant: top1
+  title: "Best First Wok for Home Cooks: Joyce Chen Flat-Bottom Carbon Steel"
+  description: "Joyce Chen 14-inch flat-bottom carbon steel works on all stovetops including induction — no wok ring needed. The entry point into carbon steel wok cooking at $35-45. What to expect from the seasoning process."
+  link: "/en/best-wok-2026"
+  image_alt: "Joyce Chen flat-bottom carbon steel wok best entry-level home kitchen"
+  hashtags: ["joycechenwok", "carbonsteelwok", "wok", "stirfry", "homecooking"]
+
+- id: best-wok-2026-problem-en
+  board: food
+  locale: en
+  variant: problem
+  title: "Why Nonstick Woks Can't Achieve Wok Hei (And What to Use Instead)"
+  description: "Nonstick coatings begin degrading above 450°F. Wok hei requires 600°F+. The temperature ceiling is why restaurant stir-fry tastes different — and why carbon steel is the correct tool if the charred smoky flavor matters to you."
+  link: "/en/best-wok-2026"
+  image_alt: "Wok hei explained nonstick vs carbon steel temperature comparison"
+  hashtags: ["wokhei", "wok", "stirfry", "carbonsteelwok", "cooking"]
+
+- id: best-wok-2026-budget-en
+  board: food
+  locale: en
+  variant: budget
+  title: "Best Budget Wok That Actually Works: Joyce Chen vs T-fal Nonstick"
+  description: "T-fal nonstick at $30-45 is zero-maintenance but has a 450°F ceiling. Joyce Chen carbon steel at $35-45 requires a seasoning process but produces better stir-fry long-term. Which is right for your cooking frequency."
+  link: "/en/best-wok-2026"
+  image_alt: "Budget wok comparison Joyce Chen carbon steel vs T-fal nonstick"
+  hashtags: ["wok", "budgetcooking", "stirfry", "cookware", "kitchenessentials"]
+
+- id: best-wok-2026-avoid-en
+  board: food
+  locale: en
+  variant: avoid
+  title: "Don't Buy a Round-Bottom Wok for a Standard Western Stovetop"
+  description: "Round-bottom woks (Yosukata, Craft Wok) need a wok ring or high-BTU wok burner. Without either, the wok rocks on the burner and heats unevenly. For electric or standard gas stovetops, the flat-bottom Joyce Chen is the correct choice."
+  link: "/en/best-wok-2026"
+  image_alt: "Round bottom vs flat bottom wok stovetop compatibility guide"
+  hashtags: ["wok", "cookware", "kitchentips", "stirfry", "cooking"]
+
+- id: best-wok-2026-scene-en
+  board: food
+  locale: en
+  variant: scene
+  title: "How to Season a Carbon Steel Wok: The First-Time Process Explained"
+  description: "The complete process: remove factory coating, heat until oxidized, apply thin oil layers and heat to smoking 3-4 times. The wok should be dark and matte, not shiny. First few uses: fatty high-heat dishes to build the seasoning layer."
+  link: "/en/best-wok-2026"
+  image_alt: "Carbon steel wok seasoning process step by step first time"
+  hashtags: ["carbonsteelwok", "wokseasoning", "wok", "cookware", "cookingtips"]
+
+- id: best-wok-2026-comparison-ja
+  board: food
+  locale: ja
+  variant: comparison
+  title: "中華鍋おすすめ2026：炭素鋼vs鋳鉄vsノンスティック——Joyce Chen・Yosukata・Craft Wok・Lodge・T-fal比較"
+  description: "5製品をシーズニング要件・熱応答速度・実際の炒め物パフォーマンスで比較。炭素鋼・鋳鉄・ノンスティックの違いが家庭キッチンで実際に意味すること。"
+  link: "/ja/best-wok-2026"
+  image_alt: "中華鍋おすすめ2026比較 炭素鋼 鋳鉄 ノンスティック JoyceChen Yosukata Lodge Tfal"
+  hashtags: ["中華鍋", "調理器具", "炒め物", "炭素鋼中華鍋", "キッチン用品"]
+
+- id: best-wok-2026-top1-ja
+  board: food
+  locale: ja
+  variant: top1
+  title: "家庭料理人への最初の中華鍋：Joyce Chen 平底炭素鋼"
+  description: "Joyce Chen 14インチ平底炭素鋼はIHを含む全コンロで中華鍋リング不要——炭素鋼中華鍋調理への入口。3,500〜5,000円。シーズニング工程で何が起こるかの解説。"
+  link: "/ja/best-wok-2026"
+  image_alt: "Joyce Chen 平底炭素鋼中華鍋 エントリーレベル 家庭用"
+  hashtags: ["JoyceChen", "炭素鋼中華鍋", "中華鍋", "炒め物", "家庭料理"]
+
+- id: best-wok-2026-problem-ja
+  board: food
+  locale: ja
+  variant: problem
+  title: "ノンスティック中華鍋で鍋気が出ない理由（そして代わりに何を使うべきか）"
+  description: "ノンスティックコーティングは230℃以上で劣化し始める。鍋気には315℃以上が必要。この温度上限がレストランの炒め物が違う理由——焦げた煙のような風味が重要なら炭素鋼が正しいツール。"
+  link: "/ja/best-wok-2026"
+  image_alt: "鍋気 ノンスティックvs炭素鋼 温度比較"
+  hashtags: ["鍋気", "中華鍋", "炒め物", "炭素鋼", "料理"]
+
+- id: best-wok-2026-budget-ja
+  board: food
+  locale: ja
+  variant: budget
+  title: "本当に機能するコスパ中華鍋：Joyce Chen炭素鋼 vs T-falノンスティック"
+  description: "T-falノンスティックはゼロメンテナンスだが230℃上限。Joyce Chen炭素鋼はシーズニング工程が必要だが長期的により良い炒め物。調理頻度でどちらが正しいかが決まる。"
+  link: "/ja/best-wok-2026"
+  image_alt: "コスパ中華鍋比較 Joyce Chen炭素鋼 vs T-falノンスティック"
+  hashtags: ["中華鍋", "節約", "炒め物", "調理器具", "キッチン用品"]
+
+- id: best-wok-2026-avoid-ja
+  board: food
+  locale: ja
+  variant: avoid
+  title: "標準的な家庭用コンロに丸底中華鍋を買わないこと"
+  description: "丸底中華鍋（Yosukata・Craft Wok）は中華鍋リングまたは高BTUの中華鍋バーナーが必要。なければ鍋がグラつき熱分布が偏る。電気・標準ガスコンロには平底のJoyce Chenが正しい選択。"
+  link: "/ja/best-wok-2026"
+  image_alt: "丸底vs平底中華鍋 コンロ互換性ガイド"
+  hashtags: ["中華鍋", "調理器具", "料理のコツ", "炒め物", "コンロ"]
+
+- id: best-wok-2026-scene-ja
+  board: food
+  locale: ja
+  variant: scene
+  title: "炭素鋼中華鍋のシーズニング方法：初回工程を完全解説"
+  description: "完全な手順：工場コーティング除去→酸化するまで加熱→薄い油層を3〜4回加熱・煙出し。鍋は光沢ではなく暗いマット面になるべき。最初の数回は脂肪分の多い高温料理でシーズニング層を積み上げる。"
+  link: "/ja/best-wok-2026"
+  image_alt: "炭素鋼中華鍋 シーズニング方法 初回 手順"
+  hashtags: ["炭素鋼中華鍋", "シーズニング", "中華鍋", "調理器具", "料理のコツ"]
+
+# best-resistance-band-handles-2026
+- id: best-resistance-band-handles-2026-comparison-en
+  board: fitness
+  locale: en
+  variant: comparison
+  title: "Best Resistance Band Handle Sets 2026: Bodylastics vs Undersun vs Black Mountain vs Fit Simplify vs WOD Nation"
+  description: "Five resistance band systems compared on clip durability, resistance range, and cable machine substitution. Tube bands with handles vs loop bands — what each is actually best for."
+  link: "/en/best-resistance-band-handles-2026"
+  image_alt: "Best resistance band handle sets 2026 comparison Bodylastics Undersun Black Mountain WOD Nation"
+  hashtags: ["resistancebands", "homegym", "bandtraining", "cablemachine", "fitness"]
+
+- id: best-resistance-band-handles-2026-top1-en
+  board: fitness
+  locale: en
+  variant: top1
+  title: "Most Durable Resistance Band Set for Progressive Training: Bodylastics"
+  description: "Bodylastics uses a figure-8 clip system and anti-snap sleeves — the clips are the difference between bands that fail in 6 months and bands that last years. Why clip quality matters more than band composition."
+  link: "/en/best-resistance-band-handles-2026"
+  image_alt: "Bodylastics resistance band set most durable clip system anti-snap"
+  hashtags: ["bodylastics", "resistancebands", "homegym", "bandtraining", "fitness"]
+
+- id: best-resistance-band-handles-2026-problem-en
+  board: fitness
+  locale: en
+  variant: problem
+  title: "Why Resistance Bands Fail: It's the Clip, Not the Band"
+  description: "The carabiner clip at the handle attachment is where almost all tube band failures originate. Standard carabiners concentrate stress at the clip junction — Bodylastics' figure-8 system distributes load differently. What to look for before buying."
+  link: "/en/best-resistance-band-handles-2026"
+  image_alt: "Resistance band failure clip attachment carabiner vs figure-8"
+  hashtags: ["resistancebands", "bandtraining", "homegym", "fitness", "bandreview"]
+
+- id: best-resistance-band-handles-2026-budget-en
+  board: fitness
+  locale: en
+  variant: budget
+  title: "Best Budget Resistance Band Starter Kit: Black Mountain All-in-One Set"
+  description: "Black Mountain includes handles, door anchor, ankle strap, and carry bag at $30-45. Best accessory variety at mid-range price — the right starting kit if you're new to band training and want to try cable machine substitution."
+  link: "/en/best-resistance-band-handles-2026"
+  image_alt: "Black Mountain resistance band set budget starter kit home gym"
+  hashtags: ["blackmountain", "resistancebands", "homegym", "budgetfitness", "bandtraining"]
+
+- id: best-resistance-band-handles-2026-avoid-en
+  board: fitness
+  locale: en
+  variant: avoid
+  title: "Don't Use Thin Loop Bands for Pull-Up Assistance (Use These Instead)"
+  description: "Fit Simplify thin loop bands are for rehabilitation and flexibility — they're not rated for body-weight loading. For pull-up assistance, you need thick loop bands (WOD Nation, Undersun) that are specifically rated to support body weight."
+  link: "/en/best-resistance-band-handles-2026"
+  image_alt: "Resistance band pull-up assistance thick loop bands vs thin rehabilitation bands"
+  hashtags: ["pullup", "resistancebands", "homegym", "crossfit", "bandtraining"]
+
+- id: best-resistance-band-handles-2026-scene-en
+  board: fitness
+  locale: en
+  variant: scene
+  title: "How to Use Resistance Bands as a Cable Machine Substitute"
+  description: "Door anchor at high position for lat pulldowns, mid for rows, low for curls. A tube band set with handles replicates cable machine movement patterns — what exercises transfer well and where bands fall short of a real cable stack."
+  link: "/en/best-resistance-band-handles-2026"
+  image_alt: "Resistance bands cable machine substitute home gym door anchor exercises"
+  hashtags: ["resistancebands", "cablemachine", "homegym", "bandtraining", "dooranchor"]
+
+- id: best-resistance-band-handles-2026-comparison-ja
+  board: fitness
+  locale: ja
+  variant: comparison
+  title: "レジスタンスバンドハンドルおすすめ2026：Bodylastics vs Undersun vs Black Mountain vs Fit Simplify vs WOD Nation"
+  description: "5製品をクリップ耐久性・抵抗範囲・ケーブルマシン代替で比較。ハンドル付きチューブバンドvsループバンド——それぞれが実際に最適な用途。"
+  link: "/ja/best-resistance-band-handles-2026"
+  image_alt: "レジスタンスバンドハンドルおすすめ2026比較 Bodylastics Undersun BlackMountain WODNation"
+  hashtags: ["レジスタンスバンド", "ホームジム", "バンドトレーニング", "ケーブルマシン", "フィットネス"]
+
+- id: best-resistance-band-handles-2026-top1-ja
+  board: fitness
+  locale: ja
+  variant: top1
+  title: "漸進的トレーニングに最も耐久性のあるレジスタンスバンドセット：Bodylastics"
+  description: "Bodylasticsは8の字クリップシステムとアンチスナップスリーブを使用——6ヶ月で壊れるバンドと何年も続くバンドの差はクリップ品質にある。バンド組成よりクリップ品質が重要な理由。"
+  link: "/ja/best-resistance-band-handles-2026"
+  image_alt: "Bodylastics レジスタンスバンドセット 最高耐久性 クリップシステム"
+  hashtags: ["Bodylastics", "レジスタンスバンド", "ホームジム", "バンドトレーニング", "フィットネス"]
+
+- id: best-resistance-band-handles-2026-problem-ja
+  board: fitness
+  locale: ja
+  variant: problem
+  title: "レジスタンスバンドが壊れる原因：バンドではなくクリップ"
+  description: "ほぼすべてのチューブバンド破損はハンドル取付部のカラビナクリップが起点。標準カラビナはクリップ接合部に応力集中——Bodylasticsの8の字システムは負荷を分散させる。購入前に何を確認すべきか。"
+  link: "/ja/best-resistance-band-handles-2026"
+  image_alt: "レジスタンスバンド破損 クリップ取付部 カラビナvs8の字"
+  hashtags: ["レジスタンスバンド", "バンドトレーニング", "ホームジム", "フィットネス", "バンド選び"]
+
+- id: best-resistance-band-handles-2026-budget-ja
+  board: fitness
+  locale: ja
+  variant: budget
+  title: "コスパ最強のレジスタンスバンド入門セット：Black Mountain オールインワン"
+  description: "Black Mountainはハンドル・ドアアンカー・アンクルストラップ・キャリーバッグを4,000〜6,000円で提供。ミドルレンジ価格で最広アクセサリー範囲——バンドトレーニング初心者でケーブルマシン代替を試したい人への最高のスターターキット。"
+  link: "/ja/best-resistance-band-handles-2026"
+  image_alt: "Black Mountain レジスタンスバンドセット コスパ 入門セット ホームジム"
+  hashtags: ["BlackMountain", "レジスタンスバンド", "ホームジム", "節約", "バンドトレーニング"]
+
+- id: best-resistance-band-handles-2026-avoid-ja
+  board: fitness
+  locale: ja
+  variant: avoid
+  title: "懸垂補助に薄いループバンドを使わないこと（代わりにこれを使う）"
+  description: "Fit Simplifyの薄いループバンドはリハビリと柔軟性向け——体重荷重には定格されていない。懸垂補助には体重を支えられる定格の太いループバンド（WOD Nation・Undersun）が必要。"
+  link: "/ja/best-resistance-band-handles-2026"
+  image_alt: "懸垂補助 レジスタンスバンド 太いループバンドvs薄いリハビリバンド"
+  hashtags: ["懸垂", "レジスタンスバンド", "ホームジム", "クロスフィット", "バンドトレーニング"]
+
+- id: best-resistance-band-handles-2026-scene-ja
+  board: fitness
+  locale: ja
+  variant: scene
+  title: "レジスタンスバンドをケーブルマシン代替として使う方法"
+  description: "ラットプルダウンには高位置ドアアンカー、ローには中位置、カールには低位置。ハンドル付きチューブバンドセットはケーブルマシンの動きパターンを再現——移行しやすいエクササイズとバンドが本物のケーブルスタックに劣る点。"
+  link: "/ja/best-resistance-band-handles-2026"
+  image_alt: "レジスタンスバンド ケーブルマシン代替 ホームジム ドアアンカー エクササイズ"
+  hashtags: ["レジスタンスバンド", "ケーブルマシン", "ホームジム", "バンドトレーニング", "ドアアンカー"]
