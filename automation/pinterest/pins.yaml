@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 240 articles x 6 variants x 2 locales (en, ja) = 2880 pins (growing)
+# 242 articles x 6 variants x 2 locales (en, ja) = 2904 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -30697,4 +30697,196 @@ pins:
   title: "リベロのバレーボール膝パッド：エリートディフェンシブ選手が使うもの"
   description: "強化膝頭と横スライド保護のMizuno LR6——繰り返しのコートダイブが必要なリベロとディフェンシブスペシャリストに必要なもの。"
   image: /og/best-volleyball-knee-pads-2026-ja.png
+  board: fitness-ja
+
+- slug: best-chamomile-tea-2026
+  locale: en
+  variant: comparison
+  title: "Best Chamomile Tea 2026: Whole Flowers vs Budget Bags Compared"
+  description: "Alvita whole-flower vs Traditional Medicinals vs Celestial Seasonings — flower quality, apigenin content, and sleep support tested across 5 chamomile teas."
+  image: /og/best-chamomile-tea-2026-en.png
+  board: food-en
+
+- slug: best-chamomile-tea-2026
+  locale: en
+  variant: top1
+  title: "Best Whole-Flower Chamomile Tea: What Premium Looks Like"
+  description: "Open the bag — if you see whole flowers with petals and yellow centers, you have real chamomile. Alvita's whole-flower organic is the benchmark."
+  image: /og/best-chamomile-tea-2026-en.png
+  board: food-en
+
+- slug: best-chamomile-tea-2026
+  locale: en
+  variant: problem
+  title: "Why Chamomile Tea Doesn't Help You Sleep (Quality Matters)"
+  description: "Dust-filled teabags have minimal apigenin content. Whole-flower chamomile brewed covered at 90°C is completely different from grocery dust bags."
+  image: /og/best-chamomile-tea-2026-en.png
+  board: food-en
+
+- slug: best-chamomile-tea-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Chamomile Tea for Nightly Routine Under $10"
+  description: "Celestial Seasonings chamomile delivers consistent mild flavor for a reliable bedtime routine — millions of people drink it nightly for a reason."
+  image: /og/best-chamomile-tea-2026-en.png
+  board: food-en
+
+- slug: best-chamomile-tea-2026
+  locale: en
+  variant: avoid
+  title: "Chamomile Tea Mistakes: Boiling Water and Uncovered Steeping"
+  description: "Boiling water makes chamomile bitter. Steeping uncovered loses the volatile apigenin aromatics. How to brew chamomile to actually get the calming effect."
+  image: /og/best-chamomile-tea-2026-en.png
+  board: food-en
+
+- slug: best-chamomile-tea-2026
+  locale: en
+  variant: scene
+  title: "Chamomile Tea Before Bed: The Science Behind the Ritual"
+  description: "Apigenin binds GABA-A receptors like a mild natural relaxant. Why the whole-flower version matters, and how brewing covered maximizes the effect."
+  image: /og/best-chamomile-tea-2026-en.png
+  board: food-en
+
+- slug: best-chamomile-tea-2026
+  locale: ja
+  variant: comparison
+  title: "カモミールティーおすすめ2026：ホールフラワーvsコスパバッグ比較"
+  description: "Alvitaホールフラワー vs Traditional Medicinals vs Celestial Seasonings——花の品質・アピゲニン含有量・睡眠サポートで5種を検証。"
+  image: /og/best-chamomile-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-chamomile-tea-2026
+  locale: ja
+  variant: top1
+  title: "ホールフラワーカモミールティー最高評価：プレミアムとはどういうものか"
+  description: "バッグを開けてください——花びらと黄色い中心部を持つホールフラワーが見えたら本物のカモミール。Alvitaのホールフラワーオーガニックが基準です。"
+  image: /og/best-chamomile-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-chamomile-tea-2026
+  locale: ja
+  variant: problem
+  title: "カモミールティーが睡眠を助けない理由（品質が重要）"
+  description: "粉末入りティーバッグはアピゲニン含有量が最小限。蓋をして90℃で淹れたホールフラワーカモミールはスーパーの粉末バッグとは全く異なります。"
+  image: /og/best-chamomile-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-chamomile-tea-2026
+  locale: ja
+  variant: budget
+  title: "毎晩のルーティン向けコスパ最高カモミールティー1000円以下"
+  description: "Celestial Seasoningsのカモミールは信頼できる就寝ルーティンのために一貫した穏やかな風味を提供——何百万人もの人が毎晩飲むには理由があります。"
+  image: /og/best-chamomile-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-chamomile-tea-2026
+  locale: ja
+  variant: avoid
+  title: "カモミールティーのミス：沸騰したお湯と蓋なし浸出"
+  description: "沸騰したお湯はカモミールを苦くします。蓋なし浸出は揮発性アピゲニン芳香を失います。落ち着き効果を実際に得るカモミールの淹れ方。"
+  image: /og/best-chamomile-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-chamomile-tea-2026
+  locale: ja
+  variant: scene
+  title: "就寝前のカモミールティー：儀式の背後にある科学"
+  description: "アピゲニンは穏やかな天然リラクサントとしてGABA-A受容体に結合します。ホールフラワーバージョンが重要な理由と、蓋をして淹れることで効果を最大化する方法。"
+  image: /og/best-chamomile-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-soccer-cleats-2026
+  locale: en
+  variant: comparison
+  title: "Best Soccer Cleats 2026: FG, AG, TF, and SG Options Compared"
+  description: "Adidas Predator vs Nike Mercurial vs New Balance 442 — surface type, position, and width requirements tested for firm ground, turf, and soft ground play."
+  image: /og/best-soccer-cleats-2026-en.png
+  board: fitness-en
+
+- slug: best-soccer-cleats-2026
+  locale: en
+  variant: top1
+  title: "Best Soccer Cleats for Touch and Control: Adidas Predator Review"
+  description: "Grip-zone textile upper, aggressive FG stud pattern, appropriate rigidity for modern midfield play — what technical players need from their boots."
+  image: /og/best-soccer-cleats-2026-en.png
+  board: fitness-en
+
+- slug: best-soccer-cleats-2026
+  locale: en
+  variant: problem
+  title: "Why You Should Never Wear FG Cleats on Artificial Turf"
+  description: "FG blade studs on artificial turf increase ankle sprain risk and cause cumulative joint stress. Copa Pure TF exists for this exact reason — use it."
+  image: /og/best-soccer-cleats-2026-en.png
+  board: fitness-en
+
+- slug: best-soccer-cleats-2026
+  locale: en
+  variant: budget
+  title: "Best Value Soccer Cleats: New Balance 442 for Wide Feet"
+  description: "Wide last, genuine leather upper, proven stud pattern — and you're not paying the Nike/Adidas marketing premium. The wide-foot solution that actually fits."
+  image: /og/best-soccer-cleats-2026-en.png
+  board: fitness-en
+
+- slug: best-soccer-cleats-2026
+  locale: en
+  variant: avoid
+  title: "Soccer Cleat Sizing Mistakes: Why Sizing Up Doesn't Fix Narrow"
+  description: "Wide-footed players buying narrow cleats in bigger sizes still have the wrong shape. New Balance, Puma Copa — brands with wider lasts in your actual size."
+  image: /og/best-soccer-cleats-2026-en.png
+  board: fitness-en
+
+- slug: best-soccer-cleats-2026
+  locale: en
+  variant: scene
+  title: "Speed vs. Touch: Choosing Between Mercurial and Predator"
+  description: "Mercurial Vapor is weight-optimized for pace — you trade stability for acceleration. Predator trades some speed for ball control. Which suits your game?"
+  image: /og/best-soccer-cleats-2026-en.png
+  board: fitness-en
+
+- slug: best-soccer-cleats-2026
+  locale: ja
+  variant: comparison
+  title: "サッカースパイクおすすめ2026：FG・AG・TF・SGオプション比較"
+  description: "アディダス プレデター vs ナイキ マーキュリアル vs ニューバランス442——サーフェスタイプ・ポジション・幅の要件を天然芝・人工芝・ソフトグラウンドで検証。"
+  image: /og/best-soccer-cleats-2026-ja.png
+  board: fitness-ja
+
+- slug: best-soccer-cleats-2026
+  locale: ja
+  variant: top1
+  title: "タッチとコントロールのサッカースパイク最高評価：アディダス プレデターレビュー"
+  description: "グリップゾーン繊維アッパー・アグレッシブなFGスタッドパターン・現代のミッドフィールドプレイへの適切な剛性——テクニカルプレイヤーがブーツに必要なもの。"
+  image: /og/best-soccer-cleats-2026-ja.png
+  board: fitness-ja
+
+- slug: best-soccer-cleats-2026
+  locale: ja
+  variant: problem
+  title: "人工芝でFGスパイクを絶対に着用してはいけない理由"
+  description: "人工芝でのFGブレードスタッドは足首捻挫のリスクを増加させ累積関節ストレスを引き起こします。コパ ピュア TFはまさにこの理由のために存在します——使ってください。"
+  image: /og/best-soccer-cleats-2026-ja.png
+  board: fitness-ja
+
+- slug: best-soccer-cleats-2026
+  locale: ja
+  variant: budget
+  title: "コスパ最強サッカースパイク：幅広の足向けニューバランス442"
+  description: "幅広ラスト・本物のレザーアッパー・実績のあるスタッドパターン——ナイキ/アディダスのマーケティングプレミアムを支払わずに。本当にフィットする幅広の足の解決策。"
+  image: /og/best-soccer-cleats-2026-ja.png
+  board: fitness-ja
+
+- slug: best-soccer-cleats-2026
+  locale: ja
+  variant: avoid
+  title: "サッカースパイクサイジングミス：サイズアップはナローを解決しない理由"
+  description: "幅広の足の選手がより大きなサイズのナロースパイクを買ってもまだ間違った形です。ニューバランス・プーマコパ——実際のサイズで幅広ラストのブランド。"
+  image: /og/best-soccer-cleats-2026-ja.png
+  board: fitness-ja
+
+- slug: best-soccer-cleats-2026
+  locale: ja
+  variant: scene
+  title: "スピードvsタッチ：マーキュリアルとプレデターの選択"
+  description: "マーキュリアル ヴェイパーはペース向け重量最適化——安定性を加速のためにトレード。プレデターはいくらかのスピードをボールコントロールのためにトレード。どちらがあなたのゲームに合うか？"
+  image: /og/best-soccer-cleats-2026-ja.png
   board: fitness-ja
