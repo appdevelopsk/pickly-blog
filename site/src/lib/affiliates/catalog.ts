@@ -10539,6 +10539,77 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
 
+  // ───────── Fitness / Cable Machines (best-cable-machine-2026) ─────────
+  {
+    id: "rogue-monster-cable-crossover",
+    category: "fitness",
+    badge: "premium-pick",
+    name: { en: "Rogue Monster Cable Crossover", ja: "ローグ モンスター ケーブルクロスオーバー" },
+    description: {
+      en: "Built to the same spec as commercial gym installations — 11-gauge steel uprights, dual weight stacks with smooth nylon bearings, 19 adjustable cable positions per side from floor to top. The cable path stays consistent at every height, which matters for flies, rows, and triceps pressdowns equally. Assembled footprint is large; measure your ceiling height before ordering.",
+      ja: "商業ジムと同等のスペックで製造——11ゲージスチールアップライト、スムーズナイロンベアリング付きデュアルウェイトスタック、片側19段階の床からトップまで調整可能なケーブルポジション。全高さでケーブルパスが安定しており、フライ・ロウ・トライセプスプレスダウンすべてに有効。組み立て後フットプリントが大きいため、注文前に天井高を必ず計測すること。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08R6J8C7N", rawUrl: "https://www.amazon.co.jp/dp/B08R6J8C7N", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-monster-cable-crossover", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCable%2BMachine%2BHome%2BGym%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "inspire-fitness-ft2-functional-trainer",
+    category: "fitness",
+    badge: "top-pick",
+    name: { en: "Inspire Fitness FT2 Functional Trainer", ja: "インスパイア フィットネス FT2 ファンクショナルトレーナー" },
+    description: {
+      en: "Dual 165-lb weight stacks (330 lb combined), 19 cable positions per column, and a 1:1 pulley ratio that makes load feel honest — what you set is what you lift. Comes with a pull-up bar, functional arm, and enough attachments to replace a full cable station. The footprint is narrower than a true crossover, which makes it fit most garage gyms without reconfiguring other equipment.",
+      ja: "デュアル165ポンドウェイトスタック（合計330ポンド）、カラムごとに19ポジション、1:1プーリー比で設定重量がそのまま体感重量に直結。チンニングバー・ファンクショナルアーム・各種アタッチメント付属でケーブルステーション全体を代替可能。真のクロスオーバーより幅が狭く、ガレージジムで他の器具を動かさずに収まるケースが多い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07VDVZ9Q2", rawUrl: "https://www.amazon.co.jp/dp/B07VDVZ9Q2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-inspire-ft2-functional-trainer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFunctional%2BTrainer%2BCable%2BMachine%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bowflex-pr3000-home-gym",
+    category: "fitness",
+    badge: "budget-pick",
+    name: { en: "Bowflex PR3000 Home Gym", ja: "ボウフレックス PR3000 ホームジム" },
+    description: {
+      en: "210 lb of Power Rod resistance across 50+ exercises, no weight plates or cables to swap mid-set. The lat tower and chest cable attachment cover the most common cable movements without a full crossover footprint. Rod resistance feels different from steel cable — lighter at the start of each rep and progressively harder — which suits rehab and high-rep conditioning work better than max-effort strength sets.",
+      ja: "210ポンドのパワーロード抵抗で50種類以上のエクササイズ対応、セット途中でウェイトプレートやケーブルの交換不要。ラットタワーとチェストケーブルアタッチメントが最も一般的なケーブル動作をカバー、本格クロスオーバーより設置面積が小さい。ロード抵抗はスチールケーブルと感触が異なり——各レップ開始時に軽く徐々に重くなる——最大強度セットよりリハビリや高回数コンディショニングに向いている。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00PJHXYX6", rawUrl: "https://www.amazon.co.jp/dp/B00PJHXYX6", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bowflex-pr3000-home-gym", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex%2BPR3000%2BHome%2BGym%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "valor-fitness-bd-62-cable-crossover",
+    category: "fitness",
+    badge: "space-saver-pick",
+    name: { en: "Valor Fitness BD-62 Cable Crossover Machine", ja: "ヴェイラー フィットネス BD-62 ケーブルクロスオーバーマシン" },
+    description: {
+      en: "160-lb dual weight stacks with 18 height adjustments per side and a tighter overall footprint than most crossovers — the uprights are 82 inches tall so 8-foot ceilings work fine. Ships mostly assembled and can be operational within 30 minutes. Cable pulls feel slightly less smooth than Inspire or Rogue at the top of the stroke, but for the price difference that's a reasonable trade-off for home use.",
+      ja: "デュアル160ポンドウェイトスタック、片側18段階高さ調整、多くのクロスオーバーより狭い全体フットプリント——アップライト高82インチで8フィート天井にも対応。ほぼ組み立て済みで届き、30分以内に使用開始可能。ケーブルの引き感はストローク上部でインスパイアやローグより若干滑らかさに欠けるが、価格差を考えればホーム用途として許容できるトレードオフ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07Q4MFGVJ", rawUrl: "https://www.amazon.co.jp/dp/B07Q4MFGVJ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-valor-fitness-bd-62-cable-crossover", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor%2BFitness%2BCable%2BCrossover%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "force-usa-g6-functional-trainer",
+    category: "fitness",
+    name: { en: "Force USA G6 All-In-One Functional Trainer", ja: "フォース USA G6 オールインワン ファンクショナルトレーナー" },
+    description: {
+      en: "All-in-one rack that combines a functional trainer with a power rack, lat pulldown, and low row in one frame — useful when floor space is the binding constraint but you still want full cable range. The 150-lb per stack weight capacity is adequate for most accessory work. If you already own a power rack, this is overkill; if you're starting from nothing, the integrated design reduces total footprint versus buying separate pieces.",
+      ja: "パワーラック・ラットプルダウン・ローロウを1フレームに統合したオールインワンラック——床面積が制約要因でも全ケーブルレンジを確保したい場合に有効。スタックあたり150ポンドの重量容量はほとんどのアクセサリー系種目に対応。既にパワーラックがあれば過剰スペックだが、ゼロから揃えるなら統合デザインが個別購入より設置面積を削減できる。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08MHQBYTM", rawUrl: "https://www.amazon.co.jp/dp/B08MHQBYTM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-force-usa-g6-functional-trainer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FForce%2BUSA%2BFunctional%2BTrainer%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
   // ───────── Food / Induction Cooktops (best-induction-cooktop-2026) ─────────
   {
     id: "duxtop-9100mc-induction-cooktop",
@@ -10608,6 +10679,78 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "B01FZLHVHQ", rawUrl: "https://www.amazon.co.jp/dp/B01FZLHVHQ", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-secura-9100mc-induction", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSecura%2BInduction%2BCooktop%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Food / Meat Thermometers (best-meat-thermometer-2026) ─────────
+  {
+    id: "thermoworks-thermapen-one",
+    category: "food",
+    badge: "top-pick",
+    name: { en: "ThermoWorks Thermapen ONE", ja: "ThermoWorks Thermapen ONE" },
+    description: {
+      en: "One-second read time accurate to ±0.5°F from -58°F to 572°F. Auto-rotating display orients digits based on grip angle. IP67 waterproof — washable under a running tap. Motion-sensing sleep and auto backlight in low light. 2,000-hour battery life. The reference standard for instant-read thermometers used by food scientists, competition BBQ judges, and professional kitchens.",
+      ja: "-58°F〜572°Fで1秒読み取り・±0.5°F精度。自動回転ディスプレイが持ち手の角度に合わせて数字を正立。IP67防水で水道水洗浄可。動き感知スリープ・低照度自動バックライト。電池寿命2,000時間。食品科学者・BBQ競技審査員・プロキッチンが使うインスタントリード温度計の業界標準。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09P67VKXJ", rawUrl: "https://www.amazon.co.jp/dp/B09P67VKXJ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-thermoworks-thermapen-one", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMeat%2BThermometer%2BInstant%2BRead%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lavatools-javelin-pro-duo",
+    category: "food",
+    badge: "value-pick",
+    name: { en: "Lavatools Javelin PRO Duo Digital Instant Read Thermometer", ja: "Lavatools Javelin PRO Duo デジタルインスタントリード温度計" },
+    description: {
+      en: "Three-to-four second read time accurate to ±0.9°F across -40°F to 482°F. Large auto-rotating display. Magnetic back for fridge or grill mounting. Ambidextrous folding probe design. At roughly 40% of the Thermapen ONE's price, this is the best value instant-read thermometer for households that want excellent accuracy without paying the premium.",
+      ja: "-40°F〜482°Fで3〜4秒読み取り・±0.9°F精度。大型自動回転ディスプレイ。冷蔵庫やグリルへの貼り付け用マグネット付き。両利き対応折り畳みプローブ。Thermapen ONE比約40%の価格で優れた精度を提供するインスタントリード温度計の最高コスパ品。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00GRFHYJA", rawUrl: "https://www.amazon.co.jp/dp/B00GRFHYJA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-lavatools-javelin-pro-duo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLavatools%2BJavelin%2BPro%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "meater-plus-wireless-thermometer",
+    category: "food",
+    badge: "wireless-pick",
+    name: { en: "MEATER Plus Wireless Smart Meat Thermometer", ja: "MEATER Plus ワイヤレススマート温度計" },
+    description: {
+      en: "Completely wireless probe stays in the meat throughout the cook — no cords to manage or melt on grill grates. Dual sensors read internal meat temperature (up to 212°F) and ambient cooking temperature (up to 527°F) simultaneously. Companion app displays both in real time and sends alerts with estimated time-to-target. Bluetooth range 165 feet; Wi-Fi extended range via the charging dock.",
+      ja: "完全ワイヤレスプローブが調理中ずっと肉に刺さったまま——コードの取り回しやグリル格子でのコード溶融なし。内部センサー（最大212°F）と周囲センサー（最大527°F）を同時計測。専用アプリがリアルタイム表示と目標温度への到達時間通知。Bluetooth到達距離50m、充電ドック経由でWi-Fi延長対応。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07Y7DQHV8", rawUrl: "https://www.amazon.co.jp/dp/B07Y7DQHV8", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-meater-plus-wireless", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMEATER%2BPlus%2BWireless%2BThermometer%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oxo-chef-precision-thermometer",
+    category: "food",
+    badge: "mid-pick",
+    name: { en: "OXO Good Grips Chef's Precision Instant Read Thermometer", ja: "OXO グッドグリップス シェフズプレシジョン インスタントリード温度計" },
+    description: {
+      en: "Three-to-four second read time accurate to ±1°F from 32°F to 392°F. Large easy-read display. Foldable probe for drawer or pocket storage. Non-slip rubber grip for wet hands and hot environments. Two-year warranty unusual at this price point. A solid mid-range pick between the entry-level Taylor and the premium Lavatools.",
+      ja: "32°F〜392°Fで3〜4秒読み取り・±1°F精度。大型見やすいディスプレイ。引き出しやポケット収納向け折り畳みプローブ。濡れた手や高温環境向け滑り止めラバーグリップ。この価格帯では珍しい2年保証付き。TaylorとLavatoolsの中間の実用的な選択肢。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07QFYK2BX", rawUrl: "https://www.amazon.co.jp/dp/B07QFYK2BX", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-oxo-chef-precision-thermometer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%2BInstant%2BRead%2BThermometer%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "taylor-precision-9842-thermometer",
+    category: "food",
+    badge: "budget-pick",
+    name: { en: "Taylor Precision Products 9842 Digital Thermometer", ja: "Taylor Precision Products 9842 デジタル温度計" },
+    description: {
+      en: "Four-to-five second read time accurate to ±2°F from 32°F to 392°F. Straightforward digital display with a foldable probe. Covers the essential use cases — checking chicken, roasts, and frying oil — at under $20. The entry point for households that cook protein infrequently and want a functional thermometer without spending on premium features.",
+      ja: "32°F〜392°Fで4〜5秒読み取り・±2°F精度。シンプルなデジタル表示と折り畳みプローブ。鶏肉・ローストビーフ・揚げ油の温度確認という基本用途を2,000円台でカバー。タンパク質を頻繁に調理しないが実用的な温度計が欲しいユーザー向けのエントリーポイント。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00004XSC5", rawUrl: "https://www.amazon.co.jp/dp/B00004XSC5", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-taylor-precision-9842", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTaylor%2BDigital%2BMeat%2BThermometer%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
