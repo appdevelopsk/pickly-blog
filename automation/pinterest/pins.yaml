@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 212 articles x 6 variants x 2 locales (en, ja) = 2544 pins (growing)
+# 214 articles x 6 variants x 2 locales (en, ja) = 2568 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -28142,3 +28142,173 @@ pins:
   title: "ホームジムレッグプレス：足の位置で臀筋・大腿四頭筋・内転筋を使い分け"
   description: "プラットフォームのフット位置が筋肉の強調を決定。高いフット→臀筋/ハムストリング、低いフット→大腿四頭筋、広いスタンス→内転筋。セットごとに変える。"
   image_path: public/og/best-leg-press-machine-2026-ja.png
+
+# ── Batch #218: best-coffee-scale-2026 ───────────────────────────────────
+- slug: best-coffee-scale-2026
+  locale: en
+  variant: comparison
+  title: "Coffee Scale 2026: Acaia Pearl vs Timemore vs Hario V60 vs Felicita"
+  description: "Response time vs resolution explained, built-in timer importance, espresso vs pour-over scale requirements, and the best coffee scale at every price."
+  image_path: public/og/best-coffee-scale-2026-en.png
+
+- slug: best-coffee-scale-2026
+  locale: en
+  variant: top1
+  title: "Best Coffee Scale: Timemore Black Mirror Basic+ ($40-60)"
+  description: "0.1g resolution, 500ms response, built-in timer, AA batteries. All essential coffee scale features at budget-friendly price — the default recommendation for home pour-over."
+  image_path: public/og/best-coffee-scale-2026-en.png
+
+- slug: best-coffee-scale-2026
+  locale: en
+  variant: problem
+  title: "Why Your Kitchen Scale Ruins Pour-Over (Response Time Lag Explained)"
+  description: "Kitchen scales lag 1-3 seconds. You read 60g, stop pouring, but you've already added 70g. Coffee scales respond in 0.1-0.5 seconds — you see the number in real time."
+  image_path: public/og/best-coffee-scale-2026-en.png
+
+- slug: best-coffee-scale-2026
+  locale: en
+  variant: budget
+  title: "Cheapest Coffee Scale Worth Buying: Coffee Gator ($25-40)"
+  description: "Built-in timer and 0.1g resolution at the lowest price. 1-2 second response is adequate for casual pour-over. A significant upgrade from any kitchen scale."
+  image_path: public/og/best-coffee-scale-2026-en.png
+
+- slug: best-coffee-scale-2026
+  locale: en
+  variant: avoid
+  title: "Don't Buy an Acaia Just for Bluetooth — Timemore Does the Same Job"
+  description: "Acaia Pearl is $180-220. Timemore Black Mirror is $40-60. Both have 0.1g resolution and a timer. Unless you want app connectivity, Timemore wins on value."
+  image_path: public/og/best-coffee-scale-2026-en.png
+
+- slug: best-coffee-scale-2026
+  locale: en
+  variant: scene
+  title: "Pour-Over Setup: Coffee Scale + Timer + Recipe = Consistent Results Every Time"
+  description: "Weigh coffee, start timer, pour to target weight at each interval. A scale makes any pour-over recipe repeatable — 1:15 ratio, bloom at 0:45, finish by 3:30."
+  image_path: public/og/best-coffee-scale-2026-en.png
+
+- slug: best-coffee-scale-2026
+  locale: ja
+  variant: comparison
+  title: "コーヒースケール2026：Acaia Pearl vs Timemore vs Hario V60 vs Felicita比較"
+  description: "レスポンスタイムvs分解能の解説・内蔵タイマーの重要性・エスプレッソとポアオーバーのスケール要件・あらゆる価格の最高コーヒースケール。"
+  image_path: public/og/best-coffee-scale-2026-ja.png
+
+- slug: best-coffee-scale-2026
+  locale: ja
+  variant: top1
+  title: "ベストコーヒースケール：Timemore Black Mirror Basic+（40〜60ドル）"
+  description: "0.1g分解能・500msレスポンス・内蔵タイマー・AAバッテリー。手頃な価格ですべての基本コーヒースケール機能——ホームポアオーバーのデフォルト推薦。"
+  image_path: public/og/best-coffee-scale-2026-ja.png
+
+- slug: best-coffee-scale-2026
+  locale: ja
+  variant: problem
+  title: "キッチンスケールがポアオーバーを台無しにする理由（レスポンスタイム遅延）"
+  description: "キッチンスケールは1〜3秒遅延。60gを読んで止めても70gすでに注いでいます。コーヒースケールは0.1〜0.5秒で反応——リアルタイムで数値が見えます。"
+  image_path: public/og/best-coffee-scale-2026-ja.png
+
+- slug: best-coffee-scale-2026
+  locale: ja
+  variant: budget
+  title: "買う価値がある最安コーヒースケール：Coffee Gator（25〜40ドル）"
+  description: "最低価格で内蔵タイマーと0.1g分解能。1〜2秒レスポンスはカジュアルなポアオーバーに十分。どのキッチンスケールよりも大幅なアップグレード。"
+  image_path: public/og/best-coffee-scale-2026-ja.png
+
+- slug: best-coffee-scale-2026
+  locale: ja
+  variant: avoid
+  title: "Bluetoothのためだけにアカイアを買わないで——Timemoreが同じ仕事をします"
+  description: "Acaia Pearlは180〜220ドル。Timemore Black Mirrorは40〜60ドル。両方0.1g分解能とタイマー付き。アプリ接続を望まなければTimemoreがコスパ勝ち。"
+  image_path: public/og/best-coffee-scale-2026-ja.png
+
+- slug: best-coffee-scale-2026
+  locale: ja
+  variant: scene
+  title: "ポアオーバーセットアップ：コーヒースケール＋タイマー＋レシピ＝毎回一貫した結果"
+  description: "コーヒーを計量してタイマーをスタートし、各インターバルでターゲット重量に注ぐ。スケールはどんなポアオーバーレシピも再現可能にします——1:15比率、0:45にブルーム、3:30に終了。"
+  image_path: public/og/best-coffee-scale-2026-ja.png
+
+# ── Batch #219: best-hip-thrust-machine-2026 ─────────────────────────────
+- slug: best-hip-thrust-machine-2026
+  locale: en
+  variant: comparison
+  title: "Hip Thrust Machine 2026: Bells of Steel vs REP vs Valor vs Titan"
+  description: "Pad height for glute activation, barbell cradle vs floor setup, dedicated hip thrust bench vs adjustable bench, and which machine is worth buying for serious glute training."
+  image_path: public/og/best-hip-thrust-machine-2026-en.png
+
+- slug: best-hip-thrust-machine-2026
+  locale: en
+  variant: top1
+  title: "Best Hip Thrust Machine: Bells of Steel Hip Thruster ($400-500)"
+  description: "Integrated barbell cradle holds bar at hip height for loading. Adjustable foot platform. Wide cushioned back pad. Eliminates every setup friction point for hip thrust training."
+  image_path: public/og/best-hip-thrust-machine-2026-en.png
+
+- slug: best-hip-thrust-machine-2026
+  locale: en
+  variant: problem
+  title: "Why Your Standard Bench Doesn't Work for Heavy Hip Thrust"
+  description: "Most benches are either too tall or too narrow. Correct back pad height for hip thrust is 16-18 inches at shoulder blade level. Dedicated machines nail this geometry."
+  image_path: public/og/best-hip-thrust-machine-2026-en.png
+
+- slug: best-hip-thrust-machine-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Hip Thrust Setup: REP AB-5200 + Barbell Pad ($265-380)"
+  description: "REP AB-5200 adjustable bench at 17-inch flat height + a $15-30 barbell hip thrust pad. Full adjustable bench + hip thrust station at lower cost than dedicated machines."
+  image_path: public/og/best-hip-thrust-machine-2026-en.png
+
+- slug: best-hip-thrust-machine-2026
+  locale: en
+  variant: avoid
+  title: "Don't Deep Hip Thrust Without a Barbell Pad (Hip Bone Pain Explained)"
+  description: "Without a pad, the 45mm barbell digs into the anterior superior iliac spine before your glutes fatigue. A $15-30 foam pad makes hip thrust training sustainable."
+  image_path: public/og/best-hip-thrust-machine-2026-en.png
+
+- slug: best-hip-thrust-machine-2026
+  locale: en
+  variant: scene
+  title: "Hip Thrust Glute Squeeze: Pause 1-2 Seconds at Full Extension"
+  description: "Drive from heels, reach table-top position, squeeze glutes hard for 1-2 seconds before lowering. The pause at peak contraction is where most of the glute stimulus occurs."
+  image_path: public/og/best-hip-thrust-machine-2026-en.png
+
+- slug: best-hip-thrust-machine-2026
+  locale: ja
+  variant: comparison
+  title: "ヒップスラストマシン2026：Bells of Steel vs REP vs Valor vs Titan比較"
+  description: "臀筋活性化のためのパッド高さ・バーベルクレードルvs床セットアップ・専用ヒップスラストベンチvs調整可能ベンチ・本格的な臀筋トレーニングに買う価値があるマシンはどれ。"
+  image_path: public/og/best-hip-thrust-machine-2026-ja.png
+
+- slug: best-hip-thrust-machine-2026
+  locale: ja
+  variant: top1
+  title: "最高ヒップスラストマシン：Bells of Steel Hip Thruster（400〜500ドル）"
+  description: "統合バーベルクレードルがロードのためにバーを腰の高さで保持。調整可能フットプラットフォーム。広い緩衝背パッド。ヒップスラストトレーニングのすべてのセットアップ摩擦を解消。"
+  image_path: public/og/best-hip-thrust-machine-2026-ja.png
+
+- slug: best-hip-thrust-machine-2026
+  locale: ja
+  variant: problem
+  title: "通常のベンチが重いヒップスラストで機能しない理由"
+  description: "ほとんどのベンチは高すぎるか幅が狭すぎます。ヒップスラストの正しいバックパッド高さは肩甲骨レベルで16〜18インチ。専用マシンはこのジオメトリを完璧にします。"
+  image_path: public/og/best-hip-thrust-machine-2026-ja.png
+
+- slug: best-hip-thrust-machine-2026
+  locale: ja
+  variant: budget
+  title: "予算最適ヒップスラストセットアップ：REP AB-5200＋バーベルパッド（265〜380ドル）"
+  description: "フラット高さ17インチのREP AB-5200調整可能ベンチ＋15〜30ドルのバーベルヒップスラストパッド。専用マシンより低いコストで完全調整可能ベンチ＋ヒップスラストステーション。"
+  image_path: public/og/best-hip-thrust-machine-2026-ja.png
+
+- slug: best-hip-thrust-machine-2026
+  locale: ja
+  variant: avoid
+  title: "バーベルパッドなしで深くヒップスラストしないで（腰骨の痛みの原因）"
+  description: "パッドなしでは45mmのバーベルが臀筋が疲労する前に上前腸骨棘に食い込みます。15〜30ドルのフォームパッドがヒップスラストトレーニングを継続可能にします。"
+  image_path: public/og/best-hip-thrust-machine-2026-ja.png
+
+- slug: best-hip-thrust-machine-2026
+  locale: ja
+  variant: scene
+  title: "ヒップスラストの臀筋スクイーズ：完全伸展で1〜2秒一時停止"
+  description: "かかとから駆動し、テーブルトップポジションに到達し、下ろす前に1〜2秒間強く臀筋をスクイーズします。ピーク収縮での一時停止が多くの臀筋刺激が起こる場所。"
+  image_path: public/og/best-hip-thrust-machine-2026-ja.png
