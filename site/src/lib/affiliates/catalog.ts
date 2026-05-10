@@ -11181,6 +11181,150 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-weider-power-tower-200", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWeider%2BPower%2BTower%2F", markets: ["JP"], approved: true },
     ],
   },
+
+  // ───────── Food / Pressure Cookers (best-pressure-cooker-2026) ─────────
+  {
+    id: "fissler-vitaquick-6qt",
+    category: "food",
+    badge: "🏆",
+    name: { en: "Fissler Vitaquick 6.3 Qt Pressure Cooker", ja: "フィスラー ビタクイック 6.3 Qt 圧力鍋" },
+    description: {
+      en: "~$180-220. German-made 18/10 stainless steel, triple-layer impact-bonded base, silicone gasket, dual-pressure indicator (low/high ring), induction compatible. Fastest to reach operating pressure in class; bayonet lid lock; quieter than weight-valve models. Weakness: expensive; lid mechanism takes brief practice; heavier than lightweight options.",
+      ja: "約18,000〜22,000円。ドイツ製18/10ステンレス、三層圧着ベース、シリコンガスケット、デュアル圧力インジケーター（低圧/高圧リング）、IH対応。クラス最速の加圧到達；バヨネットふたロック；ウェイトバルブ式より静か。弱点：高価；ふた機構に慣れが必要；軽量モデルより重い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00KYGBV14", rawUrl: "https://www.amazon.co.jp/dp/B00KYGBV14", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fissler-vitaquick-6qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A3%E3%82%B9%E3%83%A9%E3%83%BC%2B%E3%83%93%E3%82%BF%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "presto-8qt-pressure-cooker",
+    category: "food",
+    badge: "💰",
+    name: { en: "Presto 01370 8-Quart Stainless Steel Pressure Cooker", ja: "プレスト 8クォート ステンレス圧力鍋" },
+    description: {
+      en: "~$35-45. American-made aluminum-core stainless-interior construction, 8 Qt capacity, rocking-weight pressure indicator, single 15 PSI setting, USDA-approved for pressure canning. Decades-long production run; widest replacement parts availability. Weakness: no low-pressure option; aluminum exterior (not induction compatible); heavier when full.",
+      ja: "約3,500〜4,500円。アメリカ製アルミコア・ステンレス内層、8クォート容量、揺動ウェイト圧力インジケーター、単一15 PSI設定、USDA認定缶詰加工対応。長年の生産実績；最も豊富な交換部品。弱点：低圧設定なし；アルミ外層（IH非対応）；満杯時に重い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0000CF5LZ", rawUrl: "https://www.amazon.co.jp/dp/B0000CF5LZ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-presto-8qt-pressure-cooker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPresto%2B%E5%9C%A7%E5%8A%9B%E9%8D%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tfal-clipso-pressure-cooker",
+    category: "food",
+    badge: "👍",
+    name: { en: "T-fal Clipso Stainless Steel Pressure Cooker 6.3 Qt", ja: "ティファール クリプソ ステンレス圧力鍋 6.3 Qt" },
+    description: {
+      en: "~$60-80. Single-hand lid lock via central button, pop-up pressure indicator, 6.3 Qt, 15 PSI, stainless-aluminum-stainless base. Easiest lid mechanism in class — one push to lock, one push to unlock. Gas, electric, ceramic stovetop only (not induction). Weakness: not induction compatible; single pressure setting; slightly heavier lid.",
+      ja: "約6,000〜8,000円。中央ボタン片手操作ふたロック、ポップアップ圧力インジケーター、6.3 Qt、15 PSI、ステンレス-アルミ-ステンレスベース。クラス最も簡単なふた機構。ガス・電気・セラミックコンロ対応（IH非対応）。弱点：IH非対応；単一圧力設定；ふたがやや重い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00ZCL3FJU", rawUrl: "https://www.amazon.co.jp/dp/B00ZCL3FJU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tfal-clipso-pressure-cooker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB%2B%E3%82%AF%E3%83%AA%E3%83%97%E3%82%BD%2B%E5%9C%A7%E5%8A%9B%E9%8D%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kuhn-rikon-duromatic-pressure-cooker",
+    category: "food",
+    badge: "⌚",
+    name: { en: "Kuhn Rikon Duromatic Top Pressure Cooker", ja: "クーン・リコン デュロマティック トップ 圧力鍋" },
+    description: {
+      en: "~$200-300. Swiss-made sealed spring valve (quietest in class), dual-pressure (8 PSI low / 15 PSI high), fully repairable with manufacturer-sourced parts, designed since 1949. Silicone gasket, all stainless, induction compatible. Weakness: highest price; sealed valve less visually obvious than ring-indicator systems; heavy for its size.",
+      ja: "約20,000〜30,000円。スイス製密封スプリングバルブ（クラス最静音）、デュアル圧力（8 PSI低圧/15 PSI高圧）、メーカー部品で完全修理可能、1949年から設計継続。シリコンガスケット、オールステンレス、IH対応。弱点：最高価格；密封バルブは視覚的確認がリングインジケーターより難しい；サイズ割に重い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000050CKC", rawUrl: "https://www.amazon.co.jp/dp/B000050CKC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kuhn-rikon-duromatic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AF%E3%83%BC%E3%83%B3%2B%E3%83%AA%E3%82%B3%E3%83%B3%2B%E3%83%87%E3%83%A5%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "magefesa-star-pressure-cooker",
+    category: "food",
+    badge: "⚡",
+    name: { en: "Magefesa Star Super Fast Pressure Cooker 4.2 Qt", ja: "マゲフェサ スター 超高速圧力鍋 4.2 Qt" },
+    description: {
+      en: "~$40-60. Spanish-made 4.2 Qt compact pressure cooker, multi-valve safety system (primary + secondary pressure release + lid lock), fast heat-to-pressure performance. Best for 1-2 person households. Weakness: less common outside Europe; replacement parts harder to source; smaller capacity limits batch cooking.",
+      ja: "約4,000〜6,000円。スペイン製4.2 Qtコンパクト圧力鍋、多バルブ安全システム（プライマリ＋セカンダリ減圧＋ふたロック）、高速加熱性能。1〜2人世帯に最適。弱点：ヨーロッパ外では入手しにくい；交換部品の調達が難しい；容量が小さくまとめ料理に制限がある。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001B2MVWI", rawUrl: "https://www.amazon.co.jp/dp/B001B2MVWI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-magefesa-star-pressure-cooker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%82%B2%E3%83%95%E3%82%A7%E3%82%B5%2B%E5%9C%A7%E5%8A%9B%E9%8D%8B%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Fitness / Push-Up Boards (best-push-up-board-2026) ─────────
+  {
+    id: "sportneer-push-up-board",
+    category: "fitness",
+    badge: "🏆",
+    name: { en: "Sportneer Push Up Board Multi-Functional", ja: "スポートニア プッシュアップボード 多機能" },
+    description: {
+      en: "~$25-30. Color-coded multi-position push-up board, plug-in handles with solid slot connection, anti-slip base, includes workout guide. Multiple hand width positions targeting chest/shoulder/triceps. Handles don't wobble in slots. Weakness: board can shift slightly on thick carpet during plyometrics; fixed handles (not rotating).",
+      ja: "約2,500〜3,000円。カラーコード多ポジションプッシュアップボード、プラグイン式ハンドルのしっかりしたスロット接続、滑り止めベース、ワークアウトガイド付き。胸/肩/三頭筋をターゲットにした複数の手幅ポジション。ハンドルはスロット内でぐらつかない。弱点：厚手カーペット上でのプライオメトリクス時にわずかにずれる可能性；回転しない固定ハンドル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07BFPZ5Z3", rawUrl: "https://www.amazon.co.jp/dp/B07BFPZ5Z3", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sportneer-push-up-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSportneer%2B%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "perfect-pushup-elite",
+    category: "fitness",
+    badge: "🔄",
+    name: { en: "Perfect Pushup Elite Rotating Push Up Handles", ja: "パーフェクトプッシュアップ エリート 回転式ハンドル" },
+    description: {
+      en: "~$25-35. Rotating handle design on circular discs — handles spin ~45° through push-up arc, reducing wrist/shoulder joint torque. Best for experienced trainees with wrist or shoulder impingement issues. Weakness: less stable than fixed boards (discs roll freely); not suited for beginners still learning consistent push-up form.",
+      ja: "約2,500〜3,500円。円形ディスク上の回転式ハンドル——プッシュアップ動作中にハンドルが約45度回転し、手首/肩関節のトルクを軽減。手首や肩のインピンジメント問題を持つ経験者に最適。弱点：固定ボードより安定性が低い（ディスクが自由に転がる）；安定したプッシュアップフォームをまだ習得中の初心者には不向き。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001EJMS6K", rawUrl: "https://www.amazon.co.jp/dp/B001EJMS6K", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-perfect-pushup-elite", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPerfect%2BPushup%2B%E5%9B%9E%E8%BB%A2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hashtag-fitness-push-up-board",
+    category: "fitness",
+    badge: "📐",
+    name: { en: "HASHTAG FITNESS 36-Position Push Up Board", ja: "HASHTAG FITNESS 36ポジション プッシュアップボード" },
+    description: {
+      en: "~$25-35. Wide-format push-up board with 12 color-coded positions and generous hand placement area. Best for users with wide shoulders or long arm spans who feel cramped on narrower boards. Weakness: larger footprint harder to store; build material slightly less robust than Sportneer at same price; can shift on carpet.",
+      ja: "約2,500〜3,500円。12種カラーコードポジションと手のひろい配置スペースを持つ大型プッシュアップボード。狭いボードで窮屈に感じる肩幅の広い人・腕の長い人に最適。弱点：大型で収納が難しい；同価格帯のスポートニアより構造素材が若干弱い；カーペット上でずれる可能性。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07ZMLBT57", rawUrl: "https://www.amazon.co.jp/dp/B07ZMLBT57", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hashtag-fitness-push-up-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%83%E3%83%97%2B%E3%83%9C%E3%83%BC%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yes4all-push-up-board",
+    category: "fitness",
+    badge: "💸",
+    name: { en: "Yes4All Push Up Board Multi-Angle", ja: "Yes4All マルチアングル プッシュアップボード" },
+    description: {
+      en: "~$15-20. Budget push-up board with color-coded positions and plug-in handle system. Adequate for light use. Handle connection has slightly more play than Sportneer. Good trial purchase before committing to pricier model. Weakness: handle fit less solid; thinner base; not suitable for heavy/plyometric use.",
+      ja: "約1,500〜2,000円。カラーコードポジションとプラグイン式ハンドルシステムのバジェットプッシュアップボード。軽い使用に十分。ハンドル接続はスポートニアよりやや緩い。高価なモデル購入前の試験的購入に最適。弱点：ハンドルの固定がやや甘い；薄いベース；高強度・プライオメトリック使用には不向き。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07P6WGNMZ", rawUrl: "https://www.amazon.co.jp/dp/B07P6WGNMZ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-yes4all-push-up-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All%2B%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "limm-push-up-board",
+    category: "fitness",
+    badge: "🎯",
+    name: { en: "Limm Push-Up Board with Resistance Bands", ja: "Limm プッシュアップボード レジスタンスバンド付き" },
+    description: {
+      en: "~$30-40. Push-up board with included resistance bands (5-15 lb each) that attach to add resistance at top of push-up movement. Meaningful addition for users who find bodyweight push-ups too easy. Weakness: bands are light (not a substitute for heavy loading); slightly more expensive than plain boards; band attachment points add bulk.",
+      ja: "約3,000〜4,000円。プッシュアップ上部動作で5〜15 lb（2〜7 kg）の抵抗を加えるレジスタンスバンド付きプッシュアップボード。自重腕立て伏せが楽すぎるユーザーへの意味ある追加。弱点：バンドは軽量（重い負荷の代替にはならない）；プレーンボードより若干高価；バンド取り付け部分がかさばりを増す。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07KQTMJNN", rawUrl: "https://www.amazon.co.jp/dp/B07KQTMJNN", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-limm-push-up-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLimm%2B%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
