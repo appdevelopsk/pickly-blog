@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 224 articles x 6 variants x 2 locales (en, ja) = 2688 pins (growing)
+# 226 articles x 6 variants x 2 locales (en, ja) = 2712 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -29152,3 +29152,197 @@ pins:
   title: "ヨネックスEZONE98：腕に優しい緩衝がテニス肘のプレーヤーに与える違い"
   description: "ヨネックスEZONE98はスロートのバイブレーション・ダンプニング・メッシュで腕への衝撃ショックを軽減します。テニス肘や慢性的な腕の敏感さを持つプレーヤーには：EZONEが標準の推奨品。98平方インチ、305g——それでも精度のあるコントロールフレームだが、長時間のプレーで腕の疲労が大幅に少ない。"
   image_path: public/og/best-tennis-racket-2026-ja.png
+
+# ── batch #230: best-matcha-powder-2026 ──────────────────────────────────
+- slug: best-matcha-powder-2026
+  locale: en
+  variant: comparison
+  title: "Best Matcha Powder 2026: Ceremonial vs Culinary Grade Tested"
+  description: "Ippodo vs Encha vs Jade Leaf vs Aiya vs Matcha Love — we tested 5 matcha powders. Ceremonial grade for drinking, culinary for lattes and baking. Full breakdown inside."
+  image: /og/best-matcha-powder-2026-en.png
+  board: food-en
+
+- slug: best-matcha-powder-2026
+  locale: en
+  variant: top1
+  title: "The Best Matcha You Can Buy in 2026"
+  description: "Ippodo Kan-no-Shiro wins. Kyoto's oldest tea house, stone-ground first harvest, electric green color and zero bitterness. This is the reference for ceremonial matcha."
+  image: /og/best-matcha-powder-2026-en.png
+  board: food-en
+
+- slug: best-matcha-powder-2026
+  locale: en
+  variant: problem
+  title: "Why Your Matcha Tastes Bitter (and How to Fix It)"
+  description: "Using culinary grade for straight drinking, water too hot, or old stock — common matcha mistakes. We found which powder tastes best even for beginners."
+  image: /og/best-matcha-powder-2026-en.png
+  board: food-en
+
+- slug: best-matcha-powder-2026
+  locale: en
+  variant: budget
+  title: "Best Matcha Under $30: Jade Leaf Review"
+  description: "Jade Leaf Ceremonial hits Uji origin quality at half the price of premium brands. We compared it head-to-head with Ippodo — the gap is smaller than you'd expect."
+  image: /og/best-matcha-powder-2026-en.png
+  board: food-en
+
+- slug: best-matcha-powder-2026
+  locale: en
+  variant: avoid
+  title: "3 Matcha Powders We Wouldn't Buy Again"
+  description: "Gray color, bitter taste, no umami — we tested cheap blends so you don't have to. Here's what separates real matcha from the fakes."
+  image: /og/best-matcha-powder-2026-en.png
+  board: food-en
+
+- slug: best-matcha-powder-2026
+  locale: en
+  variant: scene
+  title: "Matcha Latte at Home: Which Powder Actually Works?"
+  description: "Ceremonial grade curdles in oat milk. Encha's latte grade is designed for exactly this. We tried 5 powders in lattes — only 2 held up properly."
+  image: /og/best-matcha-powder-2026-en.png
+  board: food-en
+
+- slug: best-matcha-powder-2026
+  locale: ja
+  variant: comparison
+  title: "抹茶パウダーおすすめ2026：宇治産・有機・ラテ用を比較"
+  description: "一保堂・Encha・Jade Leaf・愛農・Matcha Loveの5種を比較。薄茶・ラテ・製菓で本当に使えるグレードの違いを詳解。"
+  image: /og/best-matcha-powder-2026-ja.png
+  board: food-ja
+
+- slug: best-matcha-powder-2026
+  locale: ja
+  variant: top1
+  title: "2026年最高の抹茶パウダーはこれだ"
+  description: "一保堂「喜の昔」が圧倒的1位。創業1717年、石臼挽き一番摘み、鮮やかな緑と甘み。抹茶グレードの基準になる一本です。"
+  image: /og/best-matcha-powder-2026-ja.png
+  board: food-ja
+
+- slug: best-matcha-powder-2026
+  locale: ja
+  variant: problem
+  title: "抹茶が苦い・まずい原因はグレードにある"
+  description: "製菓グレードをそのまま点てたり、お湯が熱すぎたり——よくある失敗と解決策。どのパウダーが初心者でも美味しく飲めるか検証しました。"
+  image: /og/best-matcha-powder-2026-ja.png
+  board: food-ja
+
+- slug: best-matcha-powder-2026
+  locale: ja
+  variant: budget
+  title: "3,000円台で買える本物の抹茶：Jade Leaf実力診断"
+  description: "宇治産抹茶グレードが一保堂の半額以下。実際に飲み比べると差は想像より小さかった。コスパ重視の方への最適解を解説。"
+  image: /og/best-matcha-powder-2026-ja.png
+  board: food-ja
+
+- slug: best-matcha-powder-2026
+  locale: ja
+  variant: avoid
+  title: "買ってはいけない抹茶パウダー3選"
+  description: "灰色のパウダー、強い苦味、うまみゼロ——廉価ブレンドの正体を検証。本物の抹茶との見分け方を解説します。"
+  image: /og/best-matcha-powder-2026-ja.png
+  board: food-ja
+
+- slug: best-matcha-powder-2026
+  locale: ja
+  variant: scene
+  title: "抹茶ラテに合うパウダーはこれだけ"
+  description: "抹茶グレードをオーツミルクに合わせると色が消える——Enchaのラテグレードはこの問題を解決するために設計されています。5種比較。"
+  image: /og/best-matcha-powder-2026-ja.png
+  board: food-ja
+
+# ── batch #231: best-golf-rangefinder-2026 ──────────────────────────────────
+- slug: best-golf-rangefinder-2026
+  locale: en
+  variant: comparison
+  title: "Best Golf Rangefinder 2026: Laser vs GPS Tested on the Course"
+  description: "Bushnell Pro XE vs Garmin Z82 vs Precision Pro NX9 vs Garmin G12 vs Nikon Coolshot — we tested 5 rangefinders across multiple rounds. Slope, accuracy, and speed compared."
+  image: /og/best-golf-rangefinder-2026-en.png
+  board: fitness-en
+
+- slug: best-golf-rangefinder-2026
+  locale: en
+  variant: top1
+  title: "The Best Golf Rangefinder in 2026"
+  description: "Bushnell Pro XE wins. Slope + temperature + altitude compensation, magnetic cart mount, and consistent sub-yard accuracy. The benchmark every other rangefinder is measured against."
+  image: /og/best-golf-rangefinder-2026-en.png
+  board: fitness-en
+
+- slug: best-golf-rangefinder-2026
+  locale: en
+  variant: problem
+  title: "Wrong Club Every Time? You Need a Rangefinder with Slope"
+  description: "A 160-yard uphill shot plays like 168 yards. Non-slope rangefinders hide this. We tested which units give the most accurate playing distances on hilly courses."
+  image: /og/best-golf-rangefinder-2026-en.png
+  board: fitness-en
+
+- slug: best-golf-rangefinder-2026
+  locale: en
+  variant: budget
+  title: "Best Golf Rangefinder Under $200: Precision Pro NX9"
+  description: "Precision Pro NX9 matches Bushnell accuracy at half the price. Slope compensation, adaptive temperature correction, and free lifetime battery replacement. Here's our full review."
+  image: /og/best-golf-rangefinder-2026-en.png
+  board: fitness-en
+
+- slug: best-golf-rangefinder-2026
+  locale: en
+  variant: avoid
+  title: "Golf Rangefinder Mistakes to Avoid in 2026"
+  description: "Buying non-slope on a hilly course, ignoring battery costs, choosing slow lock-on units — common rangefinder traps. We tested 5 models to find the pitfalls."
+  image: /og/best-golf-rangefinder-2026-en.png
+  board: fitness-en
+
+- slug: best-golf-rangefinder-2026
+  locale: en
+  variant: scene
+  title: "GPS Watch vs Laser: Which Is Faster on the Course?"
+  description: "Garmin G12 clip gives instant distances without aiming — no laser required. We compared real-round speed against Bushnell. The answer depends on your playing style."
+  image: /og/best-golf-rangefinder-2026-en.png
+  board: fitness-en
+
+- slug: best-golf-rangefinder-2026
+  locale: ja
+  variant: comparison
+  title: "ゴルフ距離計おすすめ2026：レーザーvsGPS徹底比較"
+  description: "Bushnell Pro XE・Garmin Z82・Precision Pro NX9・Garmin G12・Nikon Coolshot——5種を複数ラウンドで検証。スロープ・精度・速度を徹底比較。"
+  image: /og/best-golf-rangefinder-2026-ja.png
+  board: fitness-ja
+
+- slug: best-golf-rangefinder-2026
+  locale: ja
+  variant: top1
+  title: "2026年最強ゴルフ距離計はBushnell Pro XEだった"
+  description: "スロープ＋温度＋高度補正、磁気カートマウント、1ヤード以内の安定精度。他の全モデルの比較基準になる業界標準機を詳解。"
+  image: /og/best-golf-rangefinder-2026-ja.png
+  board: fitness-ja
+
+- slug: best-golf-rangefinder-2026
+  locale: ja
+  variant: problem
+  title: "スロープなし距離計を買って後悔した話"
+  description: "160ヤードの登り坂は168ヤード相当でプレーする必要がある。スロープなし距離計はこれを隠します。起伏のあるコースで真に役立つ機種を検証。"
+  image: /og/best-golf-rangefinder-2026-ja.png
+  board: fitness-ja
+
+- slug: best-golf-rangefinder-2026
+  locale: ja
+  variant: budget
+  title: "2万円台で買える本格ゴルフ距離計：Precision Pro NX9"
+  description: "Bushnellの半額以下でスロープ・温度補正を実現。バッテリー無料終身交換保証付き。実力を徹底検証しました。"
+  image: /og/best-golf-rangefinder-2026-ja.png
+  board: fitness-ja
+
+- slug: best-golf-rangefinder-2026
+  locale: ja
+  variant: avoid
+  title: "ゴルフ距離計の選び方ミス5選"
+  description: "起伏のあるコースでスロープなしを購入、電池コストの見落とし、ロックオンが遅いモデル——よくある失敗を5種の検証から解説。"
+  image: /og/best-golf-rangefinder-2026-ja.png
+  board: fitness-ja
+
+- slug: best-golf-rangefinder-2026
+  locale: ja
+  variant: scene
+  title: "GPSクリップとレーザー、実際のラウンドで速いのはどっち？"
+  description: "Garmin G12クリップは照準なしで即座にグリーン距離を表示。Bushnellとの実ラウンド速度比較——あなたのプレースタイルによる結論。"
+  image: /og/best-golf-rangefinder-2026-ja.png
+  board: fitness-ja
