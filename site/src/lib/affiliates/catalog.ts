@@ -15255,6 +15255,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-tie-guan-yin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%89%84%E8%A6%B3%E9%9F%B3%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Rooibos Tea (food) ──────────────────────────────────────────────────
+  {
+    id: "numi-organic-rooibos",
+    category: "food",
+    badge: "Best Classic Rooibos",
+    name: { en: "Numi Organic Rooibos", ja: "Numi オーガニック ルイボス" },
+    description: { en: "USDA organic fair-trade South African rooibos with full-leaf bags and clean earthy flavor", ja: "USDA有機・フェアトレード認証の南アフリカルイボス、フルリーフバッグ" },
+    links: [
+      { network: "amazon-jp", productId: "B001E5E5KG", rawUrl: "https://www.amazon.co.jp/dp/B001E5E5KG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-numi-rooibos", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNumi+Rooibos%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "celestial-seasonings-bengal-spice",
+    category: "food",
+    badge: "Best Spiced Blend",
+    name: { en: "Celestial Seasonings Bengal Spice", ja: "Celestial Seasonings ベンガルスパイス" },
+    description: { en: "Caffeine-free chai blend with cinnamon, ginger, cardamom on rooibos base — naturally sweet", ja: "ルイボスベースのカフェインフリーチャイブレンド、シナモン・ジンジャー・カルダモン" },
+    links: [
+      { network: "amazon-jp", productId: "B000GG03KY", rawUrl: "https://www.amazon.co.jp/dp/B000GG03KY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-celestial-bengal-spice", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCelestial+Bengal+Spice%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tea-forte-rooibos-herbal",
+    category: "food",
+    badge: "Best Premium Rooibos",
+    name: { en: "Tea Forté Rooibos Herbal", ja: "Tea Forté ルイボス ハーバル" },
+    description: { en: "Premium pyramid sachet rooibos with refined whole-leaf quality and gift-worthy presentation", ja: "精製ホールリーフ品質のプレミアムピラミッドサシェルイボス" },
+    links: [
+      { network: "amazon-jp", productId: "B002SFKGF0", rawUrl: "https://www.amazon.co.jp/dp/B002SFKGF0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tea-forte-rooibos", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTea+Forte+Rooibos%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wild-rooibos-loose-leaf",
+    category: "food",
+    badge: "Best Loose Leaf Rooibos",
+    name: { en: "Wild Rooibos Loose Leaf", ja: "ワイルドルイボス ルースリーフ" },
+    description: { en: "Wild-harvested Cederberg mountain rooibos with complex earthiness and mineral notes", ja: "セダーバーグ山地野生採取の複雑な土っぽさとミネラルノートのルイボス" },
+    links: [
+      { network: "amazon-jp", productId: "B00JQXIKNC", rawUrl: "https://www.amazon.co.jp/dp/B00JQXIKNC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wild-rooibos", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fwild+rooibos%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "numi-honeybush",
+    category: "food",
+    badge: "Best Honeybush",
+    name: { en: "Numi Organic Honeybush", ja: "Numi オーガニック ハニーブッシュ" },
+    description: { en: "Organic South African honeybush with natural honey and apricot notes, caffeine-free", ja: "有機南アフリカハニーブッシュ、はちみつとあんずの自然なノート、カフェインフリー" },
+    links: [
+      { network: "amazon-jp", productId: "B001E5E5JC", rawUrl: "https://www.amazon.co.jp/dp/B001E5E5JC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-numi-honeybush", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNumi+Honeybush%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── CrossFit Shoes (fitness) ──────────────────────────────────────────
+  {
+    id: "nike-metcon-9",
+    category: "fitness",
+    badge: "Best Overall CrossFit Shoe",
+    name: { en: "Nike Metcon 9", ja: "ナイキ メトコン 9" },
+    description: { en: "Market-leading CrossFit trainer with flat rigid heel for lifting stability and durable rope-climb wrap", ja: "フラット硬性ヒールと耐久ロープラップ搭載の市場リーダークロスフィットトレーナー" },
+    links: [
+      { network: "amazon-jp", productId: "B0BXQV4KJH", rawUrl: "https://www.amazon.co.jp/dp/B0BXQV4KJH", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nike-metcon-9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Metcon+9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "reebok-nano-x4",
+    category: "fitness",
+    badge: "Best for Versatility",
+    name: { en: "Reebok Nano X4", ja: "リーボック ナノ X4" },
+    description: { en: "Versatile CrossFit trainer with better running comfort than Metcon, dual-layer outsole", ja: "メトコンよりランニング快適性の高いデュアルレイヤーアウトソールクロスフィットトレーナー" },
+    links: [
+      { network: "amazon-jp", productId: "B0BV3WZT9W", rawUrl: "https://www.amazon.co.jp/dp/B0BV3WZT9W", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-reebok-nano-x4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FReebok+Nano+X4%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nobull-trainer",
+    category: "fitness",
+    badge: "Best Minimalist CrossFit Shoe",
+    name: { en: "NoBull Trainer", ja: "NoBull トレーナー" },
+    description: { en: "Minimalist SuperFabric CrossFit trainer with flat outsole and maximum durability, no foam tech", ja: "フォームなしの超耐久SuperFabricアッパーとフラットアウトソールのミニマリストトレーナー" },
+    links: [
+      { network: "amazon-jp", productId: "B09S7C8RRM", rawUrl: "https://www.amazon.co.jp/dp/B09S7C8RRM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nobull-trainer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNoBull+Trainer%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "new-balance-minimus-tr",
+    category: "fitness",
+    badge: "Best for Running-Heavy WODs",
+    name: { en: "New Balance Minimus TR", ja: "ニューバランス ミニマス TR" },
+    description: { en: "Minimal drop flexible CrossFit shoe for run-heavy WODs with 800m+ repeats", ja: "800m以上のリピートを含むランニング重視WOD向けの低ドロップ柔軟クロスフィットシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B07CTHBVBY", rawUrl: "https://www.amazon.co.jp/dp/B07CTHBVBY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nb-minimus-tr", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNew+Balance+Minimus+TR%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "inov8-fastlift-370",
+    category: "fitness",
+    badge: "Best for Olympic Lifting",
+    name: { en: "Inov-8 Fastlift 370", ja: "イノヴェイト ファストリフト 370" },
+    description: { en: "Hybrid CrossFit trainer with 4mm heel elevation for Olympic lifting stability while retaining trainer flexibility", ja: "リフティング安定性のための4mmヒール挙上とトレーナー柔軟性を兼ね備えたハイブリッド" },
+    links: [
+      { network: "amazon-jp", productId: "B01N0EP91P", rawUrl: "https://www.amazon.co.jp/dp/B01N0EP91P", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-inov8-fastlift", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInov-8+Fastlift%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ── Climbing Shoes (fitness) ──────────────────────────────────────────
   {
     id: "la-sportiva-tarantula",
