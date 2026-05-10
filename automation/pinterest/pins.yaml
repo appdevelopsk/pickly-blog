@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 234 articles x 6 variants x 2 locales (en, ja) = 2808 pins (growing)
+# 236 articles x 6 variants x 2 locales (en, ja) = 2832 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -30121,4 +30121,196 @@ pins:
   title: "クロスフィットでオリンピックリフティング：別のシューズが必要なとき"
   description: "イノヴェイト ファストリフト370がクロスフィットトレーナーとウェイトリフティングシューズの橋渡しをします。誰に必要か、ヒール挙上が何をするかを解説。"
   image: /og/best-crossfit-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-peppermint-tea-2026
+  locale: en
+  variant: comparison
+  title: "Best Peppermint Tea 2026: Medical-Grade to Budget Bags Compared"
+  description: "Heather's Tummy Tamer vs Numi vs Choice Organic vs Bigelow — menthol intensity, freshness, and leaf grade tested across 5 peppermint teas."
+  image: /og/best-peppermint-tea-2026-en.png
+  board: food-en
+
+- slug: best-peppermint-tea-2026
+  locale: en
+  variant: top1
+  title: "Best Medical-Grade Peppermint Tea for IBS and Digestion"
+  description: "Heather's Tummy Tamer uses IBgard-quality menthol levels — not just pleasant, but effective for IBS symptoms and digestive relief."
+  image: /og/best-peppermint-tea-2026-en.png
+  board: food-en
+
+- slug: best-peppermint-tea-2026
+  locale: en
+  variant: problem
+  title: "Why Your Peppermint Tea Tastes Weak (And How to Fix It)"
+  description: "Old peppermint loses volatile oils fast. Whole-leaf pyramid sachets in airtight tins vs. flat bags with dust — the difference is dramatic."
+  image: /og/best-peppermint-tea-2026-en.png
+  board: food-en
+
+- slug: best-peppermint-tea-2026
+  locale: en
+  variant: budget
+  title: "Best Affordable Organic Peppermint Tea Under $10"
+  description: "Choice Organic delivers single-ingredient USDA organic peppermint in compostable bags — consistent quality without premium pricing."
+  image: /og/best-peppermint-tea-2026-en.png
+  board: food-en
+
+- slug: best-peppermint-tea-2026
+  locale: en
+  variant: avoid
+  title: "Peppermint Tea Buying Mistakes: What to Avoid"
+  description: "Don't buy spearmint-blended 'peppermint' teas or leave your tea unsealed. Volatile menthol oils dissipate — here's how to preserve them."
+  image: /og/best-peppermint-tea-2026-en.png
+  board: food-en
+
+- slug: best-peppermint-tea-2026
+  locale: en
+  variant: scene
+  title: "Peppermint Tea After Dinner: The Digestive Ritual That Works"
+  description: "Why post-meal peppermint tea actually helps digestion — menthol's effect on GI smooth muscle, and which teas have enough to matter."
+  image: /og/best-peppermint-tea-2026-en.png
+  board: food-en
+
+- slug: best-peppermint-tea-2026
+  locale: ja
+  variant: comparison
+  title: "ペパーミントティーおすすめ2026：医療グレードからコスパ重視まで比較"
+  description: "Heather's Tummy Tamer、Numi、Choice Organic、Bigelowを比較——メントール強度・鮮度・葉のグレードで5種を検証。"
+  image: /og/best-peppermint-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-peppermint-tea-2026
+  locale: ja
+  variant: top1
+  title: "IBS・消化器系のための医療グレードペパーミントティー最高評価"
+  description: "Heather's Tummy TamerはIBgardクオリティのメントールレベルを使用——単に美味しいだけでなく、IBS症状と消化器系の緩和に本当に効果的。"
+  image: /og/best-peppermint-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-peppermint-tea-2026
+  locale: ja
+  variant: problem
+  title: "ペパーミントティーが薄い理由（と解決法）"
+  description: "古いペパーミントは揮発性油を素早く失います。気密性のあるティン入りホールリーフピラミッドサシェと粉砕フラットバッグ——その差は劇的。"
+  image: /og/best-peppermint-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-peppermint-tea-2026
+  locale: ja
+  variant: budget
+  title: "1000円以下で買えるコスパ最高オーガニックペパーミントティー"
+  description: "Choice Organicは堆肥化可能なバッグのシングルインリーディエントUSDA有機ペパーミントを提供——プレミアム価格なしに一貫した品質。"
+  image: /og/best-peppermint-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-peppermint-tea-2026
+  locale: ja
+  variant: avoid
+  title: "ペパーミントティーの購入ミス：避けるべきこと"
+  description: "スペアミントブレンドの「ペパーミント」ティーや密封されていない容器は避けること。揮発性メントール油は散逸する——保存方法を解説。"
+  image: /og/best-peppermint-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-peppermint-tea-2026
+  locale: ja
+  variant: scene
+  title: "食後のペパーミントティー：機能する消化ケアの習慣"
+  description: "食後のペパーミントティーが本当に消化を助ける理由——メントールの消化管平滑筋への作用と、効果があるほど十分なメントールを含むティー。"
+  image: /og/best-peppermint-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-gymnastics-grips-2026
+  locale: en
+  variant: comparison
+  title: "Best Gymnastics Grips 2026: Leather vs Carbon Fiber Compared"
+  description: "Gibson Athletic, Bear KompleX, Reisport, JAP Grips — dowel design, material, and durability tested for competitive gymnastics and CrossFit."
+  image: /og/best-gymnastics-grips-2026-en.png
+  board: fitness-en
+
+- slug: best-gymnastics-grips-2026
+  locale: en
+  variant: top1
+  title: "Best Overall Gymnastics Grips: Gibson Athletic Bear Grips Review"
+  description: "Premium leather dowel grips that last through heavy training cycles. Better bar feel than budget options — here's what makes them worth it."
+  image: /og/best-gymnastics-grips-2026-en.png
+  board: fitness-en
+
+- slug: best-gymnastics-grips-2026
+  locale: en
+  variant: problem
+  title: "Why Your Hands Keep Ripping on the Pull-Up Bar"
+  description: "No-dowel grips and wrong sizing cause most hand rips. The fix: 3-hole dowel grips sized correctly and broken in properly."
+  image: /og/best-gymnastics-grips-2026-en.png
+  board: fitness-en
+
+- slug: best-gymnastics-grips-2026
+  locale: en
+  variant: budget
+  title: "Best Budget CrossFit Grips for Beginners Under $20"
+  description: "WOD Nation 3-hole grips let you test grip training before committing to premium. Good for standard WOD volumes while learning."
+  image: /og/best-gymnastics-grips-2026-en.png
+  board: fitness-en
+
+- slug: best-gymnastics-grips-2026
+  locale: en
+  variant: avoid
+  title: "Gymnastics Grip Buying Mistakes: Sizing, Break-In, and More"
+  description: "Wrong size causes blisters worse than no grips. How to measure, which brands size consistently, and how to break in leather grips correctly."
+  image: /og/best-gymnastics-grips-2026-en.png
+  board: fitness-en
+
+- slug: best-gymnastics-grips-2026
+  locale: en
+  variant: scene
+  title: "CrossFit Pull-Up Grips: What Competitive Athletes Actually Use"
+  description: "Bear KompleX carbon fiber for WOD athletes, Gibson Athletic leather for high-skill gymnastics work. The right tool for your training context."
+  image: /og/best-gymnastics-grips-2026-en.png
+  board: fitness-en
+
+- slug: best-gymnastics-grips-2026
+  locale: ja
+  variant: comparison
+  title: "体操グリップおすすめ2026：レザーvsカーボンファイバー比較"
+  description: "Gibson Athletic・Bear KompleX・Reisport・JAP Gripsを比較——ダウエル設計・素材・耐久性を競技体操とクロスフィットで検証。"
+  image: /og/best-gymnastics-grips-2026-ja.png
+  board: fitness-ja
+
+- slug: best-gymnastics-grips-2026
+  locale: ja
+  variant: top1
+  title: "体操グリップ総合最高評価：Gibson Athletic ベアグリップスレビュー"
+  description: "ハードトレーニングサイクルを持ちこたえるプレミアムレザーダウエルグリップ。低価格オプションより優れたバー感覚——その価値を解説。"
+  image: /og/best-gymnastics-grips-2026-ja.png
+  board: fitness-ja
+
+- slug: best-gymnastics-grips-2026
+  locale: ja
+  variant: problem
+  title: "懸垂バーで手がいつも傷む理由"
+  description: "ダウエルなしグリップと間違ったサイジングがほとんどの手傷の原因。解決策：正しいサイズの3穴ダウエルグリップを正しく慣らすこと。"
+  image: /og/best-gymnastics-grips-2026-ja.png
+  board: fitness-ja
+
+- slug: best-gymnastics-grips-2026
+  locale: ja
+  variant: budget
+  title: "初心者向けクロスフィットグリップ コスパ最強2000円以下"
+  description: "WOD Nationの3穴グリップはプレミアム投資前にグリップトレーニングを試すのに最適。標準WOD量を学びながら処理できる。"
+  image: /og/best-gymnastics-grips-2026-ja.png
+  board: fitness-ja
+
+- slug: best-gymnastics-grips-2026
+  locale: ja
+  variant: avoid
+  title: "体操グリップ購入ミス：サイジング・慣らし・その他"
+  description: "間違ったサイズはグリップなしより悪い水ぶくれを引き起こす。測定方法・一貫したサイジングのブランド・レザーグリップの正しい慣らし方。"
+  image: /og/best-gymnastics-grips-2026-ja.png
+  board: fitness-ja
+
+- slug: best-gymnastics-grips-2026
+  locale: ja
+  variant: scene
+  title: "クロスフィット懸垂グリップ：競技選手が実際に使うもの"
+  description: "WODアスリートにはBear KompleXカーボンファイバー、高度な体操動作にはGibson Athleticレザー。トレーニングコンテキストに合った正しい選択。"
+  image: /og/best-gymnastics-grips-2026-ja.png
   board: fitness-ja
