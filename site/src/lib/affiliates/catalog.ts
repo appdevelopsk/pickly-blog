@@ -13159,6 +13159,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-hip-circle-band", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── best-kalita-wave-2026 ────────────────────────────────────────────────
+  {
+    id: "kalita-wave-185-stainless",
+    category: "food",
+    badge: "☕",
+    name: { en: "Kalita Wave 185 Stainless", ja: "Kalita Wave 185 ステンレス" },
+    description: {
+      en: "~$40-55. Stainless steel, 2-4 cup capacity, dishwasher safe. Most durable Wave — no breakage risk, travel-friendly, good heat retention. Correct for most households.",
+      ja: "約5,500〜8,000円。ステンレススチール、2〜4カップ容量、食洗機対応。最も耐久性のあるWave——破損リスクなし、旅行に優しく、良い保温性。ほとんどの家庭に正しい選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001NGOV1U", rawUrl: "https://www.amazon.co.jp/dp/B001NGOV1U", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kalita-wave-185-stainless", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKalita+Wave+185+%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kalita-wave-155-ceramic",
+    category: "food",
+    badge: "☕",
+    name: { en: "Kalita Wave 155 Ceramic", ja: "Kalita Wave 155 セラミック" },
+    description: {
+      en: "~$35-50. Ceramic, single-serve 1-2 cup capacity, good heat retention. Best single-serve Wave — ceramic provides clean flavor, no metallic taste. More fragile than stainless.",
+      ja: "約5,000〜7,500円。セラミック、シングルサーブ1〜2カップ容量、良い保温性。最高のシングルサーブWave——セラミックがクリーンな風味を提供し金属味なし。ステンレスより壊れやすい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001NGOV0G", rawUrl: "https://www.amazon.co.jp/dp/B001NGOV0G", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kalita-wave-155-ceramic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKalita+Wave+155+%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kalita-wave-185-glass",
+    category: "food",
+    badge: "☕",
+    name: { en: "Kalita Wave 185 Glass", ja: "Kalita Wave 185 ガラス" },
+    description: {
+      en: "~$45-60. Borosilicate glass, 2-4 cup capacity, transparent. Best for visual learners — watch bloom, observe extraction, see channeling. Less heat retention than ceramic or stainless.",
+      ja: "約6,500〜8,500円。ホウケイ酸ガラス、2〜4カップ容量、透明。視覚的学習者に最適——蒸らし観察・抽出確認・チャネリングを見る。セラミックやステンレスより保温性低め。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001NGOV1E", rawUrl: "https://www.amazon.co.jp/dp/B001NGOV1E", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kalita-wave-185-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKalita+Wave+185+%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kalita-wave-filters-185",
+    category: "food",
+    badge: "☕",
+    name: { en: "Kalita Wave Filters 185", ja: "Kalita Wave フィルター 185" },
+    description: {
+      en: "~$10-15 per 100 count. Wave-shaped pleated paper filters for Wave 185. Required — not interchangeable with other drippers. Creates air gap between filter and dripper walls for even extraction.",
+      ja: "約1,500〜2,000円（100枚）。Wave 185用ウェーブ形状プリーツ紙フィルター。必須——他のドリッパーと互換性なし。フィルターとドリッパーの壁の間に空気ギャップを作り均一な抽出を実現。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001NGOV20", rawUrl: "https://www.amazon.co.jp/dp/B001NGOV20", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kalita-wave-filters", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKalita+Wave+%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC+185%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fellow-stagg-ekg-kettle",
+    category: "food",
+    badge: "☕",
+    name: { en: "Fellow Stagg EKG Electric Kettle", ja: "Fellow Stagg EKG 電気ケトル" },
+    description: {
+      en: "~$150-170. Gooseneck spout, variable temperature 57-100°C, hold function, 0.9 L. Best pour-over kettle — precise flow control, exact temperature setting, 60-min hold. Correct pairing for Kalita Wave, V60, and Chemex.",
+      ja: "約2万〜2万5千円。グースネックスパウト、可変温度57〜100℃、保温機能、0.9L。最高のポアオーバーケトル——精密なフロー制御・正確な温度設定・60分保温。Kalita Wave・V60・Chemexとの最適なペアリング。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07DTMXLN3", rawUrl: "https://www.amazon.co.jp/dp/B07DTMXLN3", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fellow-stagg-ekg", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFellow+Stagg+EKG%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── best-ez-curl-bar-2026 ────────────────────────────────────────────────
+  {
+    id: "cap-barbell-ez-curl-bar",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "CAP Barbell Olympic EZ Curl Bar", ja: "CAP Barbell オリンピックEZカールバー" },
+    description: {
+      en: "~$40-60. Olympic (2-inch sleeves), 47 inches, ~18 lb bar, chrome finish, bushing sleeves. Best budget Olympic EZ curl bar — adequate for all arm training loads. Correct entry choice for Olympic plate owners.",
+      ja: "約6,000〜9,000円。オリンピック（2インチスリーブ）、119cm、バー約8kg、クローム仕上げ、ブッシングスリーブ。最高の予算オリンピックEZカールバー——すべてのアームトレーニング荷重に十分。オリンピックプレートオーナーのエントリー選択に正しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01LXO5UMH", rawUrl: "https://www.amazon.co.jp/dp/B01LXO5UMH", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cap-ez-curl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP+Barbell+EZ%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-curl-bar",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Rogue Curl Bar", ja: "Rogue カールバー" },
+    description: {
+      en: "~$225-270. 28mm shaft, bronze bushings, bright zinc chrome, ~22 lb bar, dual knurl marks. Premium EZ curl bar — best build quality, correct for heavy loaded curls (100+ lbs) and athletes who want long-term durability.",
+      ja: "約3万3千〜4万円。28mm軸、ブロンズブッシング、ブライトジンククローム、バー約10kg、デュアルナーリングマーク。プレミアムEZカールバー——最高の構造品質、重いローデッドカール（45kg以上）と長期耐久性を望むアスリートに正しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BDJSQ1K", rawUrl: "https://www.amazon.co.jp/dp/B00BDJSQ1K", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-curl-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "body-solid-ez-curl-bar",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Body-Solid EZ Curl Bar", ja: "Body-Solid EZカールバー" },
+    description: {
+      en: "~$55-80. Olympic EZ curl, improved knurling over CAP, consistent finish. Mid-range upgrade from CAP — better knurl quality without premium pricing. Bushing sleeves adequate for arm training loads.",
+      ja: "約8,000〜1万2千円。オリンピックEZカール、CAPより改善されたナーリング、一貫した仕上げ。CAPからの中間アップグレード——プレミアム価格なしにより良いナーリング品質。ブッシングスリーブはアームトレーニング荷重に十分。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000P3TPWG", rawUrl: "https://www.amazon.co.jp/dp/B000P3TPWG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-body-solid-ez-curl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBody-Solid+EZ%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "olympic-ez-curl-bar-by-titan",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Titan Fitness Olympic EZ Curl Bar", ja: "Titan Fitness オリンピックEZカールバー" },
+    description: {
+      en: "~$65-90. Olympic (2-inch sleeves), medium aggressive knurl, consistent finish. Best mid-tier EZ curl bar — better than CAP, significantly less than Rogue. Correct for home gym athletes wanting quality without Rogue premium.",
+      ja: "約1万〜1万5千円。オリンピック（2インチスリーブ）、中程度の積極的なナーリング、一貫した仕上げ。最高の中間層EZカールバー——CAPより良く、Rogueより著しく安価。Rogueプレミアムなしに品質を望むホームジムアスリートに正しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08CXWVXB6", rawUrl: "https://www.amazon.co.jp/dp/B08CXWVXB6", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-ez-curl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+EZ%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "standard-ez-curl-bar-25mm",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Standard EZ Curl Bar (25mm)", ja: "標準EZカールバー (25mm)" },
+    description: {
+      en: "~$25-45. Standard (1-inch sleeves), ~10-12 lb bar, shorter length. Correct for athletes with standard 1-inch plates. Not compatible with Olympic plates. Adequate for bicep curls and tricep extensions at home gym loads.",
+      ja: "約3,500〜6,500円。標準（1インチスリーブ）、バー約4.5〜5.5kg、より短い長さ。標準1インチプレートを持つアスリートに正しい。オリンピックプレートと互換性なし。ホームジム荷重でのバイセップカールとトライセップエクステンションに十分。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00MH4YZW2", rawUrl: "https://www.amazon.co.jp/dp/B00MH4YZW2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-standard-ez-curl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A8%99%E6%BA%96EZ%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
