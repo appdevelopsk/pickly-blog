@@ -11469,6 +11469,150 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-jumpsport-550f", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%2B%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%83%AA%E3%83%90%E3%82%A6%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
+
+  // ───────── Food / Food Dehydrators (best-food-dehydrator-2026) ─────────
+  {
+    id: "excalibur-9-tray-dehydrator",
+    category: "food",
+    badge: "🏆",
+    name: { en: "Excalibur 9-Tray Food Dehydrator", ja: "エクスカリバー 9トレイ 食品乾燥機" },
+    description: {
+      en: "~$200-300. 9 trays (15 sq ft), rear-mounted fan, horizontal airflow, 95-165°F, digital thermostat, below 60 dB, dishwasher-safe trays, 10-year warranty. No tray rotation needed. The benchmark dehydrator for serious home use — large capacity, even drying, quiet operation.",
+      ja: "約20,000〜30,000円。9トレイ（合計1.4平方メートル）、リアマウントファン、水平気流、35〜74°C、デジタルサーモスタット、60 dB以下、食洗機対応トレイ、10年保証。トレイ回転不要。本格的な家庭使用の基準乾燥機——大容量、均一な乾燥、静音動作。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00004S3ET", rawUrl: "https://www.amazon.co.jp/dp/B00004S3ET", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-excalibur-9-tray", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%AB%E3%83%AA%E3%83%90%E3%83%BC%2B%E9%A3%9F%E5%93%81%E4%B9%BE%E7%87%A5%E6%A9%9F%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cosori-premium-food-dehydrator",
+    category: "food",
+    badge: "⭐",
+    name: { en: "Cosori Premium Food Dehydrator 6-Tray", ja: "コソリ プレミアム 食品乾燥機 6トレイ" },
+    description: {
+      en: "~$100-150. 6 trays, horizontal airflow, 95-165°F, digital display shows set and actual temperature simultaneously, 48-hour timer, transparent door. Best value horizontal-airflow dehydrator for occasional use. Smaller than Excalibur but significantly cheaper.",
+      ja: "約10,000〜15,000円。6トレイ、水平気流、35〜74°C、設定温度と実際温度を同時表示するデジタル表示、48時間タイマー、透明ドア。時々使用する家庭への最高価値の水平気流乾燥機。エクスカリバーより小さいが大幅に安価。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07XJGV3SR", rawUrl: "https://www.amazon.co.jp/dp/B07XJGV3SR", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cosori-food-dehydrator", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%82%BD%E3%83%AA%2B%E9%A3%9F%E5%93%81%E4%B9%BE%E7%87%A5%E6%A9%9F%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nesco-snackmaster-pro",
+    category: "food",
+    badge: "🔧",
+    name: { en: "Nesco Snackmaster Pro Food Dehydrator", ja: "ネスコ スナックマスタープロ 食品乾燥機" },
+    description: {
+      en: "~$60-90. 5 circular trays (expandable to 12), vertical airflow, 95-160°F analog thermostat. Expandable without buying new machine. Requires tray rotation for even drying. Most reviewed dehydrator on Amazon. Weakness: analog controls less precise; tray rotation required.",
+      ja: "約6,000〜9,000円。5枚の円形トレイ（12トレイまで拡張可能）、垂直気流、35〜71°Cアナログサーモスタット。新しいマシンなしに拡張可能。均一な乾燥にトレイ回転が必要。Amazonで最もレビューが多い乾燥機。弱点：アナログコントロールの精度が低い；トレイ回転が必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00CXKOEOA", rawUrl: "https://www.amazon.co.jp/dp/B00CXKOEOA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nesco-snackmaster-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8D%E3%82%B9%E3%82%B3%2B%E9%A3%9F%E5%93%81%E4%B9%BE%E7%87%A5%E6%A9%9F%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "presto-dehydro-digital",
+    category: "food",
+    badge: "💸",
+    name: { en: "Presto Dehydro Digital Food Dehydrator", ja: "プレスト デハイドロ デジタル 食品乾燥機" },
+    description: {
+      en: "~$60-80. 6 circular trays, vertical airflow, digital thermostat and timer, entry-level price. Requires tray rotation. Good trial purchase for first-time dehydrators. Weakness: vertical airflow means uneven drying; circular trays narrower than rectangular.",
+      ja: "約6,000〜8,000円。6枚の円形トレイ、垂直気流、デジタルサーモスタットとタイマー、エントリーレベル価格。トレイ回転が必要。乾燥初心者への良いお試し購入。弱点：垂直気流は不均一な乾燥を引き起こす；円形トレイは長方形より狭い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000P6IJWC", rawUrl: "https://www.amazon.co.jp/dp/B000P6IJWC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-presto-dehydro-digital", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88%2B%E9%A3%9F%E5%93%81%E4%B9%BE%E7%87%A5%E6%A9%9F%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tribest-sedona-express",
+    category: "food",
+    badge: "🎯",
+    name: { en: "Tribest Sedona Express Food Dehydrator", ja: "トライベスト セドナエクスプレス 食品乾燥機" },
+    description: {
+      en: "~$250-350. 11 trays, dual heating zones (front/rear independently set to different temperatures), below 55 dB (quietest in class). Best for simultaneous mixed-temperature loads — herbs at 95-115°F and jerky at 155-165°F in the same machine at the same time. More expensive and smaller than Excalibur.",
+      ja: "約25,000〜35,000円。11トレイ、デュアル加熱ゾーン（前後を独立して異なる温度に設定）、55 dB以下（クラス最静音）。同じマシンで同時に異なる温度の混合負荷に最適——35〜46°Cのハーブと68〜74°Cのジャーキーを同時に。エクスカリバーより高価で容量が少ない。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01MSZAMXC", rawUrl: "https://www.amazon.co.jp/dp/B01MSZAMXC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tribest-sedona-express", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%A9%E3%82%A4%E3%83%99%E3%82%B9%E3%83%88%2B%E3%82%BB%E3%83%89%E3%83%8A%2B%E9%A3%9F%E5%93%81%E4%B9%BE%E7%87%A5%E6%A9%9F%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Fitness / Yoga Wheels (best-yoga-wheel-2026) ─────────
+  {
+    id: "dharma-yoga-wheel",
+    category: "fitness",
+    badge: "🏆",
+    name: { en: "Dharma Yoga Wheel (Original)", ja: "ダーマ ヨガホイール（オリジナル）" },
+    description: {
+      en: "~$75-100. The original yoga wheel — 12.5-inch outer diameter, 1-inch EVA foam, 550 lb load rating, non-slip textured surface. Injection-molded ABS ring shows no flex or creak under load. Best construction quality and longest proven track record. Most expensive option.",
+      ja: "約7,500〜10,000円。オリジナルのヨガホイール——外径31.75 cm、2.5 cm EVAフォーム、250 kg負荷定格、滑り止めテクスチャード面。射出成形ABSリングは負荷下でたわみや軋みなし。最高の構造品質と最長の実績。最高価格のオプション。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B014GYK5NK", rawUrl: "https://www.amazon.co.jp/dp/B014GYK5NK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-dharma-yoga-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%83%BC%E3%83%9E%2B%E3%83%A8%E3%82%AC%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tumaz-yoga-wheel",
+    category: "fitness",
+    badge: "⭐",
+    name: { en: "Tumaz Yoga Wheel 13-inch", ja: "タマズ ヨガホイール 33 cm" },
+    description: {
+      en: "~$35-50. 13-inch outer diameter (slightly larger — better for taller/longer-torso users), 1.5 cm EVA foam, three sizes (6/10/13 inch), non-slip surface. Best value yoga wheel. Padding thinner than Dharma but adequate for standard practice holds under 60 seconds.",
+      ja: "約3,500〜5,000円。外径33 cm（わずかに大きい——背が高い/胴体が長いユーザーに適切）、1.5 cm EVAフォーム、3サイズ（15/25/33 cm）、滑り止め面。最高価値のヨガホイール。ダーマよりパッドが薄いが60秒以下の標準的な練習の保持には十分。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07L7JSMJH", rawUrl: "https://www.amazon.co.jp/dp/B07L7JSMJH", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tumaz-yoga-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%9E%E3%82%BA%2B%E3%83%A8%E3%82%AC%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bly-yoga-wheel",
+    category: "fitness",
+    badge: "🛋️",
+    name: { en: "BLY Yoga Wheel Extra-Thick Padding", ja: "BLY ヨガホイール 特厚パッド" },
+    description: {
+      en: "~$40-60. Extra-thick 1.5-inch (3.8 cm) padding for softer feel during extended holds. Reduces pressure intensity at spinous process contact points. Best for users who find standard yoga wheel padding too hard during longer stretches. Weakness: thicker padding reduces stretch precision.",
+      ja: "約4,000〜6,000円。長時間保持でよりソフトな感触のための特厚3.8 cmパッド。棘突起接触点での圧力強度を軽減。長いストレッチで標準ヨガホイールのパッドが硬すぎると感じるユーザーに最適。弱点：厚いパッドがストレッチの精度を低下させる。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07W6KN7HF", rawUrl: "https://www.amazon.co.jp/dp/B07W6KN7HF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bly-yoga-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBLY%2B%E3%83%A8%E3%82%AC%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "plexus-yoga-wheel",
+    category: "fitness",
+    badge: "✅",
+    name: { en: "Plexus Yoga Wheel Certified", ja: "プレクサス ヨガホイール 認定モデル" },
+    description: {
+      en: "~$40-60. 500 lb static load certification from independent third-party testing body. Best for users who prioritize documented structural safety verification rather than relying on manufacturer claims alone.",
+      ja: "約4,000〜6,000円。独立したサードパーティ試験機関からの227 kg静的負荷認定。メーカー主張だけでなく文書化された構造安全検証を優先するユーザーに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01MZAXUOS", rawUrl: "https://www.amazon.co.jp/dp/B01MZAXUOS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-plexus-yoga-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AC%E3%82%AF%E3%82%B5%E3%82%B9%2B%E3%83%A8%E3%82%AC%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "chirp-wheel-plus",
+    category: "fitness",
+    badge: "🦴",
+    name: { en: "Chirp Wheel+ Spinal Groove Yoga Wheel", ja: "チャープホイール プラス 脊椎溝付きヨガホイール" },
+    description: {
+      en: "~$30-70 (by size). Distinctive spinal groove (5 cm wide) running circumferentially redirects pressure from spinous processes to paraspinal muscles — reduces bony contact discomfort. Three sizes (6/10/12 inch). Best for users who find standard yoga wheels uncomfortable at the spine contact points.",
+      ja: "約3,000〜7,000円（サイズにより）。円周方向に走る独特の脊椎溝（約5 cm幅）が棘突起から傍脊柱筋への圧力をリダイレクト——骨の接触不快感を軽減。3サイズ（15/25/30 cm）。標準的なヨガホイールが脊椎接触点で不快に感じるユーザーに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07HJ8Q2ZY", rawUrl: "https://www.amazon.co.jp/dp/B07HJ8Q2ZY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-chirp-wheel-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%A3%E3%83%BC%E3%83%97%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
