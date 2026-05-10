@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 202 articles x 6 variants x 2 locales (en, ja) = 2424 pins (growing)
+# 204 articles x 6 variants x 2 locales (en, ja) = 2448 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -27076,3 +27076,245 @@ pins:
   link: "/ja/best-ez-curl-bar-2026"
   image_alt: "EZカールバー アームデー バイセップカール スカルクラッシャー トライセップ ホームジム"
   hashtags: ["EZカールバー", "アームデー", "バイセップカール", "スカルクラッシャー", "ホームジムトレーニング"]
+
+# ── best-hario-v60-2026 ──────────────────────────────────────────────────────
+- id: best-hario-v60-2026-en-comparison
+  locale: en
+  variant: comparison
+  board: home_kitchen
+  title: "Hario V60 2026: Ceramic vs Plastic vs Glass vs Metal"
+  description: "All V60 materials share the same extraction geometry — single spiral-ribbed exit hole, same cone angle. The difference is heat retention and durability. Ceramic: best all-around. Plastic: travel and beginners, same results for $8-15. Glass: watch the bloom, less heat retention. Metal: most durable, premium aesthetic. Pre-heat any V60 before brewing."
+  link: "/en/best-hario-v60-2026"
+  image_alt: "Hario V60 ceramic plastic glass metal pour-over dripper comparison 2026"
+  hashtags: ["HarioV60", "PourOver", "CoffeeGear", "HomeBarista", "SpecialtyCoffee"]
+
+- id: best-hario-v60-2026-en-top1
+  locale: en
+  variant: top1
+  board: home_kitchen
+  title: "Hario V60 02 Ceramic: Best All-Around Pour-Over Dripper"
+  description: "The V60 02 ceramic ($25-35) is the standard recommendation for most home brewers — neutral flavor, good heat retention when pre-heated, classic aesthetic. Same V60 extraction geometry as plastic or glass, but better heat retention than glass and won't leave metallic taste. Pre-rinse with hot water before brewing."
+  link: "/en/best-hario-v60-2026"
+  image_alt: "Hario V60 02 ceramic pour-over dripper best for home brewing"
+  hashtags: ["HarioV60Ceramic", "PourOver", "CoffeeBrewing", "HomeBarista", "V60"]
+
+- id: best-hario-v60-2026-en-problem
+  locale: en
+  variant: problem
+  board: home_kitchen
+  title: "V60 Pours Sour? The Grind Size Answer"
+  description: "Sour or weak V60 brew almost always means underextraction — water moved too fast. Most common cause: grind too coarse. Fix: adjust one step finer at a time, keep pour rate slow and spiral, water at 93°C for light/medium roasts. Bloom for 30-45 seconds before the main pours. V60's single-hole design amplifies grind size differences more than flat-bottom drippers."
+  link: "/en/best-hario-v60-2026"
+  image_alt: "V60 sour brew fix grind size coarse underextraction solution"
+  hashtags: ["HarioV60", "PourOverTips", "CoffeeBrewing", "V60Recipe", "CoffeeTroubleshooting"]
+
+- id: best-hario-v60-2026-en-budget
+  locale: en
+  variant: budget
+  board: home_kitchen
+  title: "Hario V60 02 Plastic: Same Pour-Over for $8-15"
+  description: "The Hario V60 02 plastic is functionally identical to the ceramic version — same spiral ribs, same single hole, same V60 geometry. Plastic doesn't absorb heat from the brew water, so minimal heat loss to the dripper. At $8-15, it's the best starting point for learning V60 technique or for travel use where breaking a ceramic dripper is a real risk."
+  link: "/en/best-hario-v60-2026"
+  image_alt: "Hario V60 plastic budget affordable pour-over beginner"
+  hashtags: ["HarioV60Plastic", "BudgetCoffee", "PourOver", "BeginnerCoffee", "AffordableCoffee"]
+
+- id: best-hario-v60-2026-en-avoid
+  locale: en
+  variant: avoid
+  board: home_kitchen
+  title: "Don't Skip Pre-Heating Your V60 (Especially Glass)"
+  description: "A cold V60 absorbs heat from your brew water during the first pour, dropping extraction temperature by several degrees. This is most impactful for glass and ceramic. Fix: pour hot water through the filter and dripper before adding coffee, discard rinse water, then brew. Takes 10 seconds. Eliminates temperature drop and removes any paper taste from the filter."
+  link: "/en/best-hario-v60-2026"
+  image_alt: "V60 pre-heat tip pre-rinse filter ceramic glass temperature drop"
+  hashtags: ["HarioV60", "PourOverTips", "CoffeeTips", "V60Technique", "BrewingTips"]
+
+- id: best-hario-v60-2026-en-scene
+  locale: en
+  variant: scene
+  board: home_kitchen
+  title: "V60 Morning Ritual: Bloom, Spiral, Patience"
+  description: "The V60 pour-over process: rinse filter, add 30g medium-fine coffee, bloom with 60g water at 93°C (wait 30-45s), pour 4 additions of ~110ml each in slow spirals from center to edge, total brew time 2:30-3:30. The V60's single hole rewards consistency — same grind, same pour, same result every morning."
+  link: "/en/best-hario-v60-2026"
+  image_alt: "Hario V60 morning pour-over ritual bloom spiral coffee brewing"
+  hashtags: ["HarioV60", "PourOver", "MorningCoffee", "CoffeeRitual", "SpecialtyCoffee"]
+
+- id: best-hario-v60-2026-ja-comparison
+  locale: ja
+  variant: comparison
+  board: home_kitchen
+  title: "Hario V60 2026：セラミック vs プラスチック vs ガラス vs 金属比較"
+  description: "すべてのV60素材は同じ抽出ジオメトリを共有——単一らせん状リブ付き出口穴、同じコーン角度。違いは保温性と耐久性。セラミック：最も万能。プラスチック：旅行・初心者、同じ結果で1,000〜2,000円。ガラス：蒸らしを観察可能、保温性低め。金属：最も耐久性、プレミアム美観。醸造前に必ず予熱を。"
+  link: "/ja/best-hario-v60-2026"
+  image_alt: "Hario V60 セラミック プラスチック ガラス 金属 ポアオーバー ドリッパー 比較 2026"
+  hashtags: ["HarioV60", "ポアオーバー", "コーヒー器具", "ホームバリスタ", "スペシャルティコーヒー"]
+
+- id: best-hario-v60-2026-ja-top1
+  locale: ja
+  variant: top1
+  board: home_kitchen
+  title: "Hario V60 02 セラミック：最も万能なポアオーバードリッパー"
+  description: "V60 02セラミック（2,500〜4,500円）はほとんどのホームブルワーに標準推薦——ニュートラルな風味・予熱後の良い保温性・クラシックな美観。プラスチックやガラスと同じV60抽出ジオメトリですが、ガラスより保温性が高く金属味が残らない。醸造前に熱湯でプレリンスを。"
+  link: "/ja/best-hario-v60-2026"
+  image_alt: "Hario V60 02 セラミック ポアオーバー ドリッパー ホームブリュー おすすめ"
+  hashtags: ["HarioV60セラミック", "ポアオーバー", "コーヒー抽出", "ホームバリスタ", "V60"]
+
+- id: best-hario-v60-2026-ja-problem
+  locale: ja
+  variant: problem
+  board: home_kitchen
+  title: "V60の抽出が酸っぱい？挽き目サイズの答え"
+  description: "酸っぱいまたは薄いV60醸造はほぼ常に過少抽出——水が速く通過しすぎています。最も一般的な原因：挽き目が粗すぎる。修正：1ステップずつ細かくする・注ぎ速度を遅く螺旋状に保つ・ライト/ミディアムロースト用に93℃の水使用。メインの注ぎの前に30〜45秒蒸らし。V60の単一穴設計はフラットボトムドリッパーよりも挽き目サイズの差を増幅します。"
+  link: "/ja/best-hario-v60-2026"
+  image_alt: "V60 酸っぱい 修正 挽き目 粗すぎ 過少抽出 解決策"
+  hashtags: ["HarioV60", "ポアオーバーのコツ", "コーヒー抽出", "V60レシピ", "コーヒートラブルシューティング"]
+
+- id: best-hario-v60-2026-ja-budget
+  locale: ja
+  variant: budget
+  board: home_kitchen
+  title: "Hario V60 02 プラスチック：1,000〜2,000円で同じポアオーバー"
+  description: "Hario V60 02プラスチックはセラミックバージョンと機能的に同一——同じらせん状リッブ・同じ単一穴・同じV60ジオメトリ。プラスチックは醸造水から熱を吸収しないため、ドリッパーへの熱損失が最小限。1,000〜2,000円で、V60テクニックを学ぶ出発点または旅行用途（セラミックを割るリスクがある状況）に最適。"
+  link: "/ja/best-hario-v60-2026"
+  image_alt: "Hario V60 プラスチック 予算 お手頃 ポアオーバー 初心者"
+  hashtags: ["HarioV60プラスチック", "コスパコーヒー", "ポアオーバー", "コーヒー初心者", "お手頃コーヒー"]
+
+- id: best-hario-v60-2026-ja-avoid
+  locale: ja
+  variant: avoid
+  board: home_kitchen
+  title: "V60の予熱をスキップしないこと（特にガラス）"
+  description: "冷えたV60は最初の注ぎで醸造水から熱を吸収し、抽出温度を数度下げます。ガラスとセラミックで最も影響が大きい。修正：コーヒーを加える前にフィルターとドリッパーに熱湯を通し、リンス水を捨ててから醸造開始。10秒で完了。温度低下をなくしフィルターから紙の味も取り除けます。"
+  link: "/ja/best-hario-v60-2026"
+  image_alt: "V60 予熱 フィルタープレリンス セラミック ガラス 温度低下"
+  hashtags: ["HarioV60", "ポアオーバーのコツ", "コーヒーのコツ", "V60テクニック", "抽出のコツ"]
+
+- id: best-hario-v60-2026-ja-scene
+  locale: ja
+  variant: scene
+  board: home_kitchen
+  title: "V60朝の儀式：蒸らし・螺旋注ぎ・待つ"
+  description: "V60ポアオーバーの流れ：フィルターをリンス・中細挽き30gを加える・93℃で60gを蒸らし（30〜45秒待つ）・中心から外側に向けてゆっくりした螺旋で約110mlずつ4回注ぐ・目標抽出時間2:30〜3:30。V60の単一穴は一貫性に報い——同じ挽き目・同じ注ぎ・毎朝同じ結果。"
+  link: "/ja/best-hario-v60-2026"
+  image_alt: "Hario V60 朝のポアオーバー儀式 蒸らし 螺旋注ぎ コーヒー抽出"
+  hashtags: ["HarioV60", "ポアオーバー", "朝のコーヒー", "コーヒー儀式", "スペシャルティコーヒー"]
+
+# ── best-preacher-curl-bench-2026 ────────────────────────────────────────────
+- id: best-preacher-curl-bench-2026-en-comparison
+  locale: en
+  variant: comparison
+  board: fitness
+  title: "Preacher Curl Bench 2026: Body-Solid vs Marcy vs Valor vs REP"
+  description: "Preacher curl benches range from $70 (Marcy, budget, lighter construction) to $180 (REP Fitness, commercial-grade padding). Body-Solid ($100-150) is the standard recommendation for dedicated arm training. Key spec: arm pad width — needs to be wide enough for two-arm EZ curl bar work. Adjustable seat height matters for tall vs short torso proportions."
+  link: "/en/best-preacher-curl-bench-2026"
+  image_alt: "Preacher curl bench comparison Body-Solid Marcy Valor REP 2026"
+  hashtags: ["PreacherCurlBench", "HomeGym", "ArmDay", "BicepTraining", "GymEquipment"]
+
+- id: best-preacher-curl-bench-2026-en-top1
+  locale: en
+  variant: top1
+  board: fitness
+  title: "Body-Solid Preacher Curl Bench: Best for Regular Arm Training"
+  description: "The Body-Solid preacher curl bench ($100-150) is the standard home gym pick — heavy-gauge steel frame, thick HD foam arm pad, 4-5 position adjustable seat, and wide pad that supports both arms for EZ curl bar work. Built for regular use at moderate loads. At this price range, the construction and padding quality make it worth the step up from budget alternatives."
+  link: "/en/best-preacher-curl-bench-2026"
+  image_alt: "Body-Solid preacher curl bench home gym arm training best pick"
+  hashtags: ["BodySolid", "PreacherCurlBench", "HomeGym", "BicepCurls", "ArmTraining"]
+
+- id: best-preacher-curl-bench-2026-en-problem
+  locale: en
+  variant: problem
+  board: fitness
+  title: "Why Preacher Curls Load the Bicep Differently Than Standing Curls"
+  description: "Standing curls: at the bottom, the bicep isn't fully stretched — the arm hangs at the side, elbow near full extension but not at maximum bicep length. Preacher curl: the angled arm pad positions the upper arm forward and down, putting the bicep at fully stretched length at the bottom of the movement. This stretched-position loading triggers greater muscle damage and hypertrophy stimulus — a stimulus standing curls can't fully replicate."
+  link: "/en/best-preacher-curl-bench-2026"
+  image_alt: "Preacher curl vs standing curl stretched bicep position hypertrophy"
+  hashtags: ["PreacherCurl", "BicepTraining", "ArmHypertrophy", "StretchedPosition", "GymScience"]
+
+- id: best-preacher-curl-bench-2026-en-budget
+  locale: en
+  variant: budget
+  board: fitness
+  title: "Preacher Curl Bench vs Attachment: Space and Budget Tradeoff"
+  description: "Adjustable preacher curl attachment ($40-80): attaches to your existing weight bench, saves floor space, works for occasional use. Standalone preacher curl bench ($70-150): more stable, more comfortable for high-rep work, dedicated setup. If preacher curls are a regular part of your arm training, the standalone bench is worth the footprint. If you want occasional capability from your existing bench, the attachment works."
+  link: "/en/best-preacher-curl-bench-2026"
+  image_alt: "Preacher curl bench vs attachment budget space comparison home gym"
+  hashtags: ["PreacherCurlBench", "HomeGym", "GymAttachment", "BudgetGym", "ArmDay"]
+
+- id: best-preacher-curl-bench-2026-en-avoid
+  locale: en
+  variant: avoid
+  board: fitness
+  title: "Don't Hyperextend at the Bottom of Preacher Curls"
+  description: "The stretched position at the bottom of a preacher curl is also its most dangerous point — the bicep tendon is under maximum stress when the arm is fully extended against a load. Stop the movement just before full elbow extension to protect the bicep tendon. Start lighter than you think you need, especially if switching from standing curls where you've built momentum habits."
+  link: "/en/best-preacher-curl-bench-2026"
+  image_alt: "Preacher curl form avoid hyperextension bicep tendon injury prevention"
+  hashtags: ["PreacherCurl", "GymForm", "InjuryPrevention", "BicepTraining", "ArmDay"]
+
+- id: best-preacher-curl-bench-2026-en-scene
+  locale: en
+  variant: scene
+  board: fitness
+  title: "Arm Day Setup: Preacher Curl Bench + EZ Curl Bar"
+  description: "Pair a preacher curl bench with an EZ curl bar for the ideal bicep isolation setup — the EZ bar's angled grip reduces wrist stress during the stretched position, and the preacher pad locks out body swing completely. Typical working weight: 40-65 lbs total for intermediate athletes. 3 sets of 8-12 reps. Keep tension on the bicep by not letting the weight rest at the top."
+  link: "/en/best-preacher-curl-bench-2026"
+  image_alt: "Preacher curl bench EZ curl bar arm day bicep isolation setup"
+  hashtags: ["PreacherCurlBench", "EZCurlBar", "ArmDay", "BicepCurls", "HomeGymWorkout"]
+
+- id: best-preacher-curl-bench-2026-ja-comparison
+  locale: ja
+  variant: comparison
+  board: fitness
+  title: "プリーチャーカールベンチ2026：Body-Solid vs Marcy vs Valor vs REP比較"
+  description: "プリーチャーカールベンチは1万円（Marcy、予算、軽い構造）から2万7千円（REP Fitness、商業グレードパッディング）まで。Body-Solid（1万5千〜2万2千円）は専用アームトレーニングの標準推薦。重要スペック：アームパッド幅——二腕EZカールバー作業に十分な広さが必要。シート高さ調整性が背の高い・低い体型に対応。"
+  link: "/ja/best-preacher-curl-bench-2026"
+  image_alt: "プリーチャーカールベンチ 比較 Body-Solid Marcy Valor REP 2026"
+  hashtags: ["プリーチャーカールベンチ", "ホームジム", "アームデー", "バイセップトレーニング", "筋トレ器具"]
+
+- id: best-preacher-curl-bench-2026-ja-top1
+  locale: ja
+  variant: top1
+  board: fitness
+  title: "Body-Solid プリーチャーカールベンチ：定期的なアームトレーニングに最適"
+  description: "Body-Solidプリーチャーカールベンチ（1万5千〜2万2千円）はホームジムの標準選択——重ゲージスチールフレーム・厚い高密度フォームアームパッド・4〜5ポジション調整可能シート・EZカールバー作業に両腕をサポートする広いパッド。中程度の荷重で定期使用向けに構築。この価格帯での構造とパッド品質は予算代替品からのステップアップに値します。"
+  link: "/ja/best-preacher-curl-bench-2026"
+  image_alt: "Body-Solid プリーチャーカールベンチ ホームジム アームトレーニング 最高選択"
+  hashtags: ["BodySolid", "プリーチャーカールベンチ", "ホームジム", "バイセップカール", "アームトレーニング"]
+
+- id: best-preacher-curl-bench-2026-ja-problem
+  locale: ja
+  variant: problem
+  board: fitness
+  title: "プリーチャーカールが立ちカールと異なるバイセップ負荷をかける理由"
+  description: "立ちカール：底部では、バイセップは完全にストレッチされていない——腕が脇に下がり肘はほぼ完全伸展に近いがバイセップの最大長さではありません。プリーチャーカール：角度付きアームパッドが上腕を前下方に配置し、動作底部でバイセップを完全ストレッチ長さに置きます。このストレッチポジション負荷がより大きな筋肉ダメージと肥大刺激を引き起こす——立ちカールが完全に再現できない刺激。"
+  link: "/ja/best-preacher-curl-bench-2026"
+  image_alt: "プリーチャーカール vs 立ちカール ストレッチバイセップポジション 肥大"
+  hashtags: ["プリーチャーカール", "バイセップトレーニング", "アーム肥大", "ストレッチポジション", "筋トレ科学"]
+
+- id: best-preacher-curl-bench-2026-ja-budget
+  locale: ja
+  variant: budget
+  board: fitness
+  title: "プリーチャーカールベンチ vs アタッチメント：スペースと予算のトレードオフ"
+  description: "調整可能プリーチャーカールアタッチメント（6,000〜1万2千円）：既存のウェイトベンチに取り付け、省スペース、時々の使用に対応。スタンドアロンプリーチャーカールベンチ（1万〜2万2千円）：より安定・高レップ作業に快適・専用セットアップ。プリーチャーカールがアームトレーニングの定期的な部分なら、スタンドアロンベンチはフットプリントに値します。既存のベンチから時々の機能が欲しければアタッチメントが対応。"
+  link: "/ja/best-preacher-curl-bench-2026"
+  image_alt: "プリーチャーカールベンチ vs アタッチメント 予算 スペース 比較 ホームジム"
+  hashtags: ["プリーチャーカールベンチ", "ホームジム", "ジムアタッチメント", "コスパ筋トレ", "アームデー"]
+
+- id: best-preacher-curl-bench-2026-ja-avoid
+  locale: ja
+  variant: avoid
+  board: fitness
+  title: "プリーチャーカールの底部で過伸展しないこと"
+  description: "プリーチャーカールの底部のストレッチポジションは最も危険な点でもある——腕が荷重に対して完全伸展しているときバイセップ腱に最大ストレスがかかります。バイセップ腱を保護するため肘が完全伸展するわずか手前で動作を止めてください。特に立ちカールからモメンタム習慣がある場合は、思うより軽い重量から始めてください。"
+  link: "/ja/best-preacher-curl-bench-2026"
+  image_alt: "プリーチャーカール フォーム 過伸展禁止 バイセップ腱 怪我予防"
+  hashtags: ["プリーチャーカール", "筋トレフォーム", "怪我予防", "バイセップトレーニング", "アームデー"]
+
+- id: best-preacher-curl-bench-2026-ja-scene
+  locale: ja
+  variant: scene
+  board: fitness
+  title: "アームデーセットアップ：プリーチャーカールベンチ＋EZカールバー"
+  description: "プリーチャーカールベンチとEZカールバーを組み合わせて理想的なバイセップアイソレーションセットアップ——EZバーの角度グリップがストレッチポジション中の手首ストレスを軽減し、プリーチャーパッドが体のスイングを完全にロック。典型的な作業重量：中間レベルアスリートで合計18〜30kg。8〜12レップ×3セット。トップで重量を休ませずバイセップのテンションを維持。"
+  link: "/ja/best-preacher-curl-bench-2026"
+  image_alt: "プリーチャーカールベンチ EZカールバー アームデー バイセップアイソレーション セットアップ"
+  hashtags: ["プリーチャーカールベンチ", "EZカールバー", "アームデー", "バイセップカール", "ホームジムトレーニング"]
