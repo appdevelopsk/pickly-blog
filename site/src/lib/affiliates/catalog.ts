@@ -14153,6 +14153,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-hip-thrust-pad", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88+%E3%83%91%E3%83%83%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Mushroom Coffee ☕ ────────────────────────────────────────────────
+  {
+    id: "four-sigmatic-think-coffee",
+    category: "food",
+    badge: "最確立ブランド",
+    name: { en: "Four Sigmatic Think Coffee with Lion's Mane", ja: "Four Sigmatic Think Coffee（ライオンズメーン入り）" },
+    description: {
+      en: "250mg lion's mane + 200mg chaga per serving, dual-extraction organic Arabica, 12 servings. Most established mushroom coffee brand — bioavailability-focused dual extraction.",
+      ja: "1回分あたりライオンズメーン250mg＋チャガ200mg、二重抽出オーガニックアラビカ、12回分。最も確立されたマッシュルームコーヒーブランド——生体利用能重視の二重抽出。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07FSIGMTK", rawUrl: "https://www.amazon.co.jp/dp/B07FSIGMTK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-four-sigmatic-coffee", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFour+Sigmatic+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ryze-mushroom-coffee",
+    category: "food",
+    badge: "売上1位",
+    name: { en: "Ryze Mushroom Coffee", ja: "Ryze マッシュルームコーヒー" },
+    description: {
+      en: "6-mushroom blend (2,000mg total), organic Arabica, 48mg caffeine per serving, 30 servings. Most popular by sales — lower caffeine, good value per serving.",
+      ja: "6キノコブレンド（合計2,000mg）、オーガニックアラビカ、1回分あたりカフェイン48mg、30回分。売上最多——低カフェイン、1回分あたり良好なコスト。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09RYZE001", rawUrl: "https://www.amazon.co.jp/dp/B09RYZE001", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ryze-mushroom", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRyze+%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "om-mushroom-master-blend",
+    category: "food",
+    badge: "オーガニック認証",
+    name: { en: "Om Mushroom Master Blend", ja: "Om Mushroom Master Blend" },
+    description: {
+      en: "10 mushroom species, USDA organic, full-spectrum whole mushroom powder, third-party tested. Best organic credentials — transparent labeling, not just extracts.",
+      ja: "10キノコ種、USDAオーガニック、フルスペクトル全キノコパウダー、サードパーティテスト。最高のオーガニック証明書——透明なラベリング、エキスだけでなく全パウダー。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07OMMBLND", rawUrl: "https://www.amazon.co.jp/dp/B07OMMBLND", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-om-mushroom", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOm+Mushroom+%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "earth-and-star-mushroom-coffee",
+    category: "food",
+    badge: "透明な投与量",
+    name: { en: "Earth & Star Mushroom Coffee", ja: "Earth & Star マッシュルームコーヒー" },
+    description: {
+      en: "Lion's mane + chaga + reishi, organic coffee, per-serving mushroom content labeled. More honest dosing transparency than many competitors. Also offers mushroom matcha.",
+      ja: "ライオンズメーン＋チャガ＋霊芝、オーガニックコーヒー、1回分あたりのキノコ含有量表示。多くの競合より誠実な投与量の透明性。マッシュルームマッチャも提供。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09EARTHSTR", rawUrl: "https://www.amazon.co.jp/dp/B09EARTHSTR", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-earth-star-mushroom", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lion-mane-mushroom-powder",
+    category: "food",
+    badge: "DIY投与量",
+    name: { en: "Lion's Mane Mushroom Extract Powder", ja: "ライオンズメーンキノコエキスパウダー" },
+    description: {
+      en: "Pure lion's mane extract powder, 500mg-1g per serving, 50-100 servings. Best DIY approach — add to any coffee for precise dosing at clinical-relevant amounts.",
+      ja: "純粋なライオンズメーンエキスパウダー、1回分あたり500mg〜1g、50〜100回分。最高のDIYアプローチ——臨床関連量の正確な投与のためにどのコーヒーにも追加可能。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08LIONMANE", rawUrl: "https://www.amazon.co.jp/dp/B08LIONMANE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-lion-mane-powder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A4%E3%83%9E%E3%83%96%E3%82%B7%E3%82%BF%E3%82%B1+%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Stair Stepper 💪 ──────────────────────────────────────────────────
+  {
+    id: "stairmaster-gauntlet-stepmill",
+    category: "fitness",
+    badge: "商業フラッグシップ",
+    name: { en: "StairMaster Gauntlet Stepmill", ja: "StairMaster Gauntlet ステップミル" },
+    description: {
+      en: "Rotating stepmill, 8-inch steps, 26 resistance levels, touchscreen, ~440 lbs. Commercial flagship — genuine stair climbing mechanics, highest glute engagement.",
+      ja: "回転ステップミル、8インチステップ、26レベル抵抗、タッチスクリーン、約440ポンド。商業フラッグシップ——本物の階段登りメカニズム、最高の臀筋関与。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07STRGAUNT", rawUrl: "https://www.amazon.co.jp/dp/B07STRGAUNT", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-stairmaster-gauntlet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStairMaster+%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%9F%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bowflex-max-trainer-m9",
+    category: "fitness",
+    badge: "コネクテッドホーム",
+    name: { en: "Bowflex Max Trainer M9", ja: "Bowflex Max Trainer M9" },
+    description: {
+      en: "Step climber + moving arms, 20 resistance levels, touchscreen, JRNY app. Best connected home step climber — upper body engagement adds calorie burn, compact footprint.",
+      ja: "ステップクライマー＋動くアーム、20レベル抵抗、タッチスクリーン、JRNYアプリ。最高のコネクテッドホームステップクライマー——上半身の関与がカロリー消費を追加、コンパクト設置面積。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09BFXM9", rawUrl: "https://www.amazon.co.jp/dp/B09BFXM9", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bowflex-max-m9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex+Max+Trainer%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sunny-health-stair-stepper-mini",
+    category: "fitness",
+    badge: "予算ミニ",
+    name: { en: "Sunny Health & Fitness Mini Stair Stepper", ja: "Sunny Health & Fitness ミニステアステッパー" },
+    description: {
+      en: "Mini step climber, hydraulic resistance, 4-6 inch step range, no handles. $30-60. Light daily movement option — desk use or rehabilitation, not serious conditioning.",
+      ja: "ミニステップクライマー、油圧抵抗、4〜6インチステップ範囲、ハンドルなし。30〜60ドル。軽い日常的な動きオプション——デスク使用またはリハビリ、本格的なコンディショニングには不適切。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07SUNNYST", rawUrl: "https://www.amazon.co.jp/dp/B07SUNNYST", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sunny-mini-stepper", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9F%E3%83%8B%E3%82%B9%E3%83%86%E3%83%83%E3%83%91%E3%83%BC+%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nustep-t4r-recumbent-stepper",
+    category: "fitness",
+    badge: "関節保護",
+    name: { en: "NuStep T4r Recumbent Cross Trainer", ja: "NuStep T4r リカンベントクロストレーナー" },
+    description: {
+      en: "Recumbent stepping, seated position, full upper + lower body, near-zero to high resistance. Best for joint protection — rehabilitation-grade design for knee/hip limitations.",
+      ja: "リカンベントステッピング、座位、完全な上下半身、ゼロ近くから高抵抗。関節保護に最適——膝/股関節の制限向けリハビリグレード設計。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07NUSTEP4", rawUrl: "https://www.amazon.co.jp/dp/B07NUSTEP4", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nustep-t4r", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNuStep+%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%99%E3%83%B3%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "stairmaster-8-series-stepmill",
+    category: "fitness",
+    badge: "改装品バリュー",
+    name: { en: "StairMaster 8-Series Stepmill (Refurbished)", ja: "StairMaster 8シリーズ ステップミル（改装品）" },
+    description: {
+      en: "Commercial stepmill (previous generation), 7-8 inch steps, available refurbished at $1,500-2,500. Best home stepmill value — genuine mechanics at lower cost than Gauntlet.",
+      ja: "商業ステップミル（前世代）、7〜8インチステップ、1,500〜2,500ドルで改装品として入手可能。最高のホームステップミルバリュー——Gauntletより低コストで本物のメカニズム。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07STR8SER", rawUrl: "https://www.amazon.co.jp/dp/B07STR8SER", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-stairmaster-8series", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStairMaster+8%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
