@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 158 articles x 6 variants x 2 locales (en, ja) = 1896 pins (growing)
+# 160 articles x 6 variants x 2 locales (en, ja) = 1920 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -21460,3 +21460,267 @@ pins:
   link: "/ja/best-barbell-2026"
   image_alt: "オリンピックバーベル ホームジム パワーリフティング 2026"
   hashtags: ["バーベル", "パワーリフティング", "ホームジム", "筋力トレーニング", "ウェイトリフティング", "ジムライフ"]
+
+- id: pin-best-nonstick-pan-2026-en-comparison
+  article_slug: best-nonstick-pan-2026
+  locale: en
+  variant: comparison
+  board: food
+  title: "Best Nonstick Pans 2026: T-fal vs HexClad vs Caraway"
+  description: "We tested 5 top nonstick pans — here's how T-fal, HexClad, Ozeri, Caraway, and GreenPan compare on release quality, durability, and PFAS safety."
+  link: "/en/best-nonstick-pan-2026"
+  image_alt: "Best nonstick pans 2026 comparison chart"
+  hashtags: ["nonstickpan", "cookware", "Caraway", "HexClad", "ceramicpan", "kitchentools"]
+
+- id: pin-best-nonstick-pan-2026-en-top1
+  article_slug: best-nonstick-pan-2026
+  locale: en
+  variant: top1
+  board: food
+  title: "T-fal E76597: The Best Everyday Nonstick Pan in 2026"
+  description: "Thermo-Spot indicator, dishwasher safe, truly nonstick from day one — the T-fal E76597 is why millions of home cooks never think about their frying pan."
+  link: "/en/best-nonstick-pan-2026"
+  image_alt: "T-fal E76597 nonstick fry pan review 2026"
+  hashtags: ["Tfal", "nonstickpan", "friyingpan", "kitchenessentials", "homecooking", "easyeggs"]
+
+- id: pin-best-nonstick-pan-2026-en-problem
+  article_slug: best-nonstick-pan-2026
+  locale: en
+  variant: problem
+  board: food
+  title: "Eggs Sticking Despite Butter? Your Nonstick Pan Is Done"
+  description: "Scratched PTFE and degraded ceramic coatings don't recover — they just stick more and flake into your food. Here's when to replace and what to buy next."
+  link: "/en/best-nonstick-pan-2026"
+  image_alt: "Eggs sticking nonstick pan replacement guide"
+  hashtags: ["nonstickpan", "cookingtips", "kitchentips", "eggcooking", "panseasoning", "PFAS"]
+
+- id: pin-best-nonstick-pan-2026-en-budget
+  article_slug: best-nonstick-pan-2026
+  locale: en
+  variant: budget
+  board: food
+  title: "Best Budget Nonstick Pan 2026: T-fal Under $30"
+  description: "You don't need to spend $200 on a HexClad for great eggs — the T-fal E76597 gives you genuine nonstick performance at a price where replacing it in two years is fine."
+  link: "/en/best-nonstick-pan-2026"
+  image_alt: "T-fal nonstick pan budget pick 2026"
+  hashtags: ["budgetkitchen", "Tfal", "nonstickpan", "affordablecookware", "kitchenvalue"]
+
+- id: pin-best-nonstick-pan-2026-en-avoid
+  article_slug: best-nonstick-pan-2026
+  locale: en
+  variant: avoid
+  board: food
+  title: "3 Nonstick Pans to Avoid in 2026 (Coating Peels in 3 Months)"
+  description: "Thin coatings and weak bonding mean these pans look great in the box and shed flakes into your food by spring. Don't risk it."
+  link: "/en/best-nonstick-pan-2026"
+  image_alt: "Nonstick pans to avoid 2026 coating peeling"
+  hashtags: ["nonstickpan", "cookwarewarning", "kitchentips", "PFAS", "foodsafety"]
+
+- id: pin-best-nonstick-pan-2026-en-scene
+  article_slug: best-nonstick-pan-2026
+  locale: en
+  variant: scene
+  board: food
+  title: "Perfectly Flipped Omelette, Zero Butter Needed — Get the Right Pan"
+  description: "A good nonstick pan makes breakfast faster, cleanup instant, and cooking stress-free. Our 2026 picks from budget to premium ceramic."
+  link: "/en/best-nonstick-pan-2026"
+  image_alt: "Nonstick pan perfect omelette breakfast 2026"
+  hashtags: ["omelette", "nonstickpan", "breakfastideas", "easybreakfast", "homecooking", "kitchentools"]
+
+- id: pin-best-nonstick-pan-2026-ja-comparison
+  article_slug: best-nonstick-pan-2026
+  locale: ja
+  variant: comparison
+  board: food
+  title: "フライパン（ノンスティック）2026年比較：T-fal vs HexClad vs Caraway"
+  description: "5製品を徹底比較。くっつかなさ・耐久性・PFAS安全性でT-fal、HexClad、Ozeri、Caraway、GreenPanを正直評価。"
+  link: "/ja/best-nonstick-pan-2026"
+  image_alt: "ノンスティックフライパン2026年比較チャート"
+  hashtags: ["フライパン", "調理器具", "Caraway", "HexClad", "セラミックパン", "キッチン用品"]
+
+- id: pin-best-nonstick-pan-2026-ja-top1
+  article_slug: best-nonstick-pan-2026
+  locale: ja
+  variant: top1
+  board: food
+  title: "T-fal E76597：2026年毎日使うのに最適なノンスティックパン"
+  description: "サーモスポットインジケーター・食洗機対応・最初からしっかりくっつかない——T-fal E76597が何百万もの家庭料理人に選ばれる理由。"
+  link: "/ja/best-nonstick-pan-2026"
+  image_alt: "T-fal E76597 ノンスティックフライパン レビュー2026"
+  hashtags: ["Tfal", "フライパン", "ノンスティック", "キッチン必需品", "家庭料理", "簡単料理"]
+
+- id: pin-best-nonstick-pan-2026-ja-problem
+  article_slug: best-nonstick-pan-2026
+  locale: ja
+  variant: problem
+  board: food
+  title: "バターを引いても卵がくっつく？ノンスティックパンの寿命です"
+  description: "傷ついたPTFEや劣化したセラミックコーティングは回復しない——ただくっつくだけでなく食事に混入する。交換のタイミングと次に買うべきものを解説。"
+  link: "/ja/best-nonstick-pan-2026"
+  image_alt: "フライパン くっつく ノンスティック交換ガイド"
+  hashtags: ["フライパン", "料理のコツ", "キッチンのヒント", "卵料理", "PFAS安全性"]
+
+- id: pin-best-nonstick-pan-2026-ja-budget
+  article_slug: best-nonstick-pan-2026
+  locale: ja
+  variant: budget
+  board: food
+  title: "コスパ最強ノンスティックパン2026：T-fal 3000円以下"
+  description: "HexCladに2万円出す必要はない——T-fal E76597なら本物のノンスティック性能を手頃な価格で、2年後の買い替えも気にならない。"
+  link: "/ja/best-nonstick-pan-2026"
+  image_alt: "T-fal ノンスティックパン コスパ2026"
+  hashtags: ["コスパキッチン", "Tfal", "フライパン", "お手頃調理器具", "キッチンコスパ"]
+
+- id: pin-best-nonstick-pan-2026-ja-avoid
+  article_slug: best-nonstick-pan-2026
+  locale: ja
+  variant: avoid
+  board: food
+  title: "3ヶ月でコーティングが剥がれるフライパン3選（2026年要注意）"
+  description: "薄いコーティングと接着力の弱さで、箱から出たばかりは良くても春には食事にフレークが混入する。リスクは避けて。"
+  link: "/ja/best-nonstick-pan-2026"
+  image_alt: "買ってはいけないノンスティックパン2026 コーティング剥がれ"
+  hashtags: ["フライパン", "調理器具の注意", "キッチンのヒント", "PFAS", "食の安全"]
+
+- id: pin-best-nonstick-pan-2026-ja-scene
+  article_slug: best-nonstick-pan-2026
+  locale: ja
+  variant: scene
+  board: food
+  title: "バターなしでオムレツがスルッと返る——正しいパンを選ぶだけ"
+  description: "良いノンスティックパンは朝食を速く、後片付けを瞬時に、料理をストレスなくする。2026年コスパからプレミアムセラミックまでのおすすめ。"
+  link: "/ja/best-nonstick-pan-2026"
+  image_alt: "ノンスティックパン 完璧なオムレツ 朝食 2026"
+  hashtags: ["オムレツ", "フライパン", "朝食アイデア", "簡単朝食", "家庭料理", "キッチン用品"]
+
+- id: pin-best-elliptical-machine-2026-en-comparison
+  article_slug: best-elliptical-machine-2026
+  locale: en
+  variant: comparison
+  board: fitness
+  title: "Best Elliptical Machines 2026: NordicTrack vs Sole vs Schwinn"
+  description: "We compared 5 top home ellipticals — here's how NordicTrack, Sole, Schwinn, Bowflex, and Nautilus stack up on stride length, flywheel weight, and smart features."
+  link: "/en/best-elliptical-machine-2026"
+  image_alt: "Best elliptical machines 2026 comparison chart"
+  hashtags: ["elliptical", "homegym", "cardio", "NordicTrack", "SoleFitness", "lowimpactcardio"]
+
+- id: pin-best-elliptical-machine-2026-en-top1
+  article_slug: best-elliptical-machine-2026
+  locale: en
+  variant: top1
+  board: fitness
+  title: "Sole E35: The Best Home Elliptical for Serious Cardio in 2026"
+  description: "20-inch adjustable stride, 30-lb flywheel, whisper-quiet belt drive — the Sole E35 is what serious home cardio looks like without a $3,000 price tag."
+  link: "/en/best-elliptical-machine-2026"
+  image_alt: "Sole E35 elliptical machine review 2026"
+  hashtags: ["SoleE35", "elliptical", "homegym", "cardio", "lowimpact", "homefitness"]
+
+- id: pin-best-elliptical-machine-2026-en-problem
+  article_slug: best-elliptical-machine-2026
+  locale: en
+  variant: problem
+  board: fitness
+  title: "Knee Pain on the Treadmill? An Elliptical Might Fix Your Cardio"
+  description: "Ellipticals deliver the same calorie burn as running at a fraction of the joint stress — here's how to choose one that actually fits your stride."
+  link: "/en/best-elliptical-machine-2026"
+  image_alt: "Elliptical machine knee pain treadmill alternative"
+  hashtags: ["kneepain", "elliptical", "lowimpactcardio", "treadmillalternative", "homegym", "fitnesstips"]
+
+- id: pin-best-elliptical-machine-2026-en-budget
+  article_slug: best-elliptical-machine-2026
+  locale: en
+  variant: budget
+  board: fitness
+  title: "Best Budget Elliptical 2026: Schwinn 470 Under $1,000"
+  description: "The Schwinn 470 packs 29 resistance levels, 22 programs, and Bluetooth connectivity into a price that leaves room for a real investment elsewhere in your home gym."
+  link: "/en/best-elliptical-machine-2026"
+  image_alt: "Schwinn 470 elliptical budget pick home gym 2026"
+  hashtags: ["budgethomegym", "Schwinn470", "elliptical", "affordablecardio", "homefitness"]
+
+- id: pin-best-elliptical-machine-2026-en-avoid
+  article_slug: best-elliptical-machine-2026
+  locale: en
+  variant: avoid
+  board: fitness
+  title: "3 Ellipticals to Avoid in 2026 (Wobbly at Higher Speeds)"
+  description: "Light frames and narrow stride ranges become noticeable problems as your fitness improves. These models have reports of rocking and squeaking under heavier users."
+  link: "/en/best-elliptical-machine-2026"
+  image_alt: "Elliptical machines to avoid 2026 stability issues"
+  hashtags: ["elliptical", "homegym", "equipmentwarning", "fitnessgear", "cardioequipment"]
+
+- id: pin-best-elliptical-machine-2026-en-scene
+  article_slug: best-elliptical-machine-2026
+  locale: en
+  variant: scene
+  board: fitness
+  title: "45 Minutes, Zero Joint Pain — The Case for an Elliptical at Home"
+  description: "Full-body cardio, adjustable resistance, no pounding — a good elliptical is the most sustainable cardio machine for the long haul. Our 2026 picks."
+  link: "/en/best-elliptical-machine-2026"
+  image_alt: "Home elliptical machine cardio workout 2026"
+  hashtags: ["homecardio", "elliptical", "lowimpact", "homegym", "fitnessmotivation", "sustainablefitness"]
+
+- id: pin-best-elliptical-machine-2026-ja-comparison
+  article_slug: best-elliptical-machine-2026
+  locale: ja
+  variant: comparison
+  board: fitness
+  title: "エリプティカル2026年比較：NordicTrack vs Sole vs Schwinn"
+  description: "5台のホームエリプティカルを徹底比較。ストライド長・フライホイール重量・スマート機能でNordicTrack、Sole、Schwinn、Bowflex、Nautilusを正直評価。"
+  link: "/ja/best-elliptical-machine-2026"
+  image_alt: "エリプティカルマシン2026年比較チャート"
+  hashtags: ["エリプティカル", "ホームジム", "有酸素運動", "NordicTrack", "SoleFitness", "低負荷有酸素"]
+
+- id: pin-best-elliptical-machine-2026-ja-top1
+  article_slug: best-elliptical-machine-2026
+  locale: ja
+  variant: top1
+  board: fitness
+  title: "Sole E35：本格ホームカーディオに2026年最適なエリプティカル"
+  description: "20インチ調整可能ストライド・30ポンドフライホイール・静音ベルトドライブ——Sole E35は30万円超を出さずに実現する本格ホームカーディオ。"
+  link: "/ja/best-elliptical-machine-2026"
+  image_alt: "Sole E35 エリプティカルマシン レビュー2026"
+  hashtags: ["SoleE35", "エリプティカル", "ホームジム", "有酸素運動", "低負荷", "ホームフィットネス"]
+
+- id: pin-best-elliptical-machine-2026-ja-problem
+  article_slug: best-elliptical-machine-2026
+  locale: ja
+  variant: problem
+  board: fitness
+  title: "トレッドミルで膝が痛む？エリプティカルがカーディオを変える"
+  description: "エリプティカルはランニングと同カロリー消費を関節ストレスの数分の一で実現——自分のストライドに合った選び方を解説。"
+  link: "/ja/best-elliptical-machine-2026"
+  image_alt: "エリプティカル 膝痛 トレッドミル代替"
+  hashtags: ["膝の痛み", "エリプティカル", "低負荷有酸素", "トレッドミル代替", "ホームジム", "フィットネスのコツ"]
+
+- id: pin-best-elliptical-machine-2026-ja-budget
+  article_slug: best-elliptical-machine-2026
+  locale: ja
+  variant: budget
+  board: fitness
+  title: "コスパ最強エリプティカル2026：Schwinn 470が10万円以下"
+  description: "Schwinn 470は29段階負荷・22プログラム・Bluetooth対応をホームジム投資の他にも余裕を残せる価格で実現。"
+  link: "/ja/best-elliptical-machine-2026"
+  image_alt: "Schwinn 470 エリプティカル コスパ ホームジム2026"
+  hashtags: ["コスパホームジム", "Schwinn470", "エリプティカル", "お手頃有酸素", "ホームフィットネス"]
+
+- id: pin-best-elliptical-machine-2026-ja-avoid
+  article_slug: best-elliptical-machine-2026
+  locale: ja
+  variant: avoid
+  board: fitness
+  title: "スピードを上げるとグラつくエリプティカル3選（2026年要注意）"
+  description: "軽いフレームと狭いストライドは体力がついてくると問題になる。体重のある使用者での揺れとギシギシ音が報告されているモデルを正直にリスト。"
+  link: "/ja/best-elliptical-machine-2026"
+  image_alt: "買ってはいけないエリプティカル2026 安定性問題"
+  hashtags: ["エリプティカル", "ホームジム", "器具選びの注意", "フィットネスギア", "有酸素器具"]
+
+- id: pin-best-elliptical-machine-2026-ja-scene
+  article_slug: best-elliptical-machine-2026
+  locale: ja
+  variant: scene
+  board: fitness
+  title: "45分、関節ゼロダメージ——ホームエリプティカルが最強な理由"
+  description: "全身有酸素・調整可能負荷・衝撃なし——良いエリプティカルは長期的に最も持続可能なカーディオマシン。2026年おすすめ5選。"
+  link: "/ja/best-elliptical-machine-2026"
+  image_alt: "ホームエリプティカル 有酸素運動 2026"
+  hashtags: ["ホームカーディオ", "エリプティカル", "低負荷", "ホームジム", "フィットネスモチベーション", "サステナブルフィットネス"]
