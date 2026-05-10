@@ -13585,6 +13585,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-valor-trap-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor+Fitness+%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── best-turkish-coffee-maker-2026 ───────────────────────────────────────
+  {
+    id: "copper-cezve-ibrik-by-shiritek",
+    category: "food",
+    badge: "☕",
+    name: { en: "Copper Cezve / Ibrik by Shiritek", ja: "Shiritek 銅チェズベ/イブリック" },
+    description: {
+      en: "~$15-35. Traditional copper, tin-lined interior, 1-2 cup size. Best traditional cezve — authentic copper heat conductivity, classic aesthetic. Tin lining will eventually need re-tinning with heavy regular use.",
+      ja: "約2,500〜5,000円。伝統的な銅、スズ内張り、1〜2カップサイズ。最高の伝統的チェズベ——本格的な銅の熱伝導性・クラシックな美観。頻繁な使用で最終的にスズの再メッキが必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07YZXK9PH", rawUrl: "https://www.amazon.co.jp/dp/B07YZXK9PH", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-copper-cezve", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%8A%85+%E3%83%81%E3%82%A7%E3%82%BA%E3%83%99+%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "stainless-cezve-by-bosphorus",
+    category: "food",
+    badge: "☕",
+    name: { en: "Stainless Cezve by Bosphorus", ja: "Bosphorus ステンレスチェズベ" },
+    description: {
+      en: "~$10-25. Stainless steel, no re-tinning required, durable. Best practical cezve — same brewing results as copper, lower maintenance, dishwasher-safe. Correct if durability matters more than aesthetic.",
+      ja: "約1,500〜3,500円。ステンレススチール、再スズメッキ不要、耐久性あり。最高の実用的チェズベ——銅と同じ醸造結果・低メンテナンス・食洗機対応。美観より耐久性が重要な場合に正しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0894F7P49", rawUrl: "https://www.amazon.co.jp/dp/B0894F7P49", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-stainless-cezve", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9+%E3%83%81%E3%82%A7%E3%82%BA%E3%83%99%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "electric-turkish-coffee-maker-arzum",
+    category: "food",
+    badge: "☕",
+    name: { en: "Arzum Okka Electric Turkish Coffee Maker", ja: "Arzum Okka 電気式トルココーヒーメーカー" },
+    description: {
+      en: "~$60-90. Electric, automated foam management, sweetness control. Best electric Turkish coffee maker — automates stovetop process, preserves foam. Correct for households brewing Turkish coffee regularly.",
+      ja: "約8,000〜1万3千円。電気式、自動フォーム管理、甘さコントロール。最高の電気式トルココーヒーメーカー——コンロのプロセスを自動化・フォームを保持。定期的にトルココーヒーを醸造する家庭に正しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08G8MMQBD", rawUrl: "https://www.amazon.co.jp/dp/B08G8MMQBD", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-arzum-okka", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FArzum+Okka+%E3%83%88%E3%83%AB%E3%82%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "turkish-coffee-grinder-zassenhaus",
+    category: "food",
+    badge: "☕",
+    name: { en: "Zassenhaus Turkish Coffee Hand Grinder", ja: "Zassenhaus トルココーヒー ハンドグラインダー" },
+    description: {
+      en: "~$60-90. Hand grinder, Turkish-fine adjustment range, cylindrical design. Best grinder for Turkish coffee — achieves Turkish-fine grind that electric home grinders cannot. Required if brewing from whole bean.",
+      ja: "約8,000〜1万3千円。ハンドグラインダー、トルコファイン調整範囲、円筒形デザイン。トルココーヒーのための最高のグラインダー——家庭用電気グラインダーが達成できないトルコファイン挽き目を達成。丸ごとの豆から醸造する場合に必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000N50U36", rawUrl: "https://www.amazon.co.jp/dp/B000N50U36", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-zassenhaus-turkish-grinder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZassenhaus+%E3%83%88%E3%83%AB%E3%82%B3+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "turkish-coffee-beans-mehmet",
+    category: "food",
+    badge: "☕",
+    name: { en: "Mehmet Efendi Turkish Ground Coffee", ja: "Mehmet Efendi トルコグランドコーヒー" },
+    description: {
+      en: "~$8-15 per 250g. Mehmet Efendi pre-ground Turkish coffee, traditional Istanbul roaster. Best pre-ground Turkish coffee — correct fineness for cezve brewing, widely available online. Use within 1-2 weeks of opening.",
+      ja: "約1,200〜2,200円（250g）。Mehmet Efendiプレグランドトルココーヒー、伝統的なイスタンブールロースター。最高のプレグランドトルココーヒー——チェズベ醸造に正しい細かさ、オンラインで広く入手可能。開封後1〜2週間以内に使用。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000N4WLZM", rawUrl: "https://www.amazon.co.jp/dp/B000N4WLZM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-mehmet-efendi-coffee", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMehmet+Efendi+%E3%83%88%E3%83%AB%E3%82%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── best-assault-bike-2026 ───────────────────────────────────────────────
+  {
+    id: "assault-fitness-assault-air-bike",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Assault Fitness AssaultBike Classic", ja: "Assault Fitness AssaultBike クラシック" },
+    description: {
+      en: "~$700-800. 25-inch fan, commercial grade, ~99 lbs. Most widely used assault bike in CrossFit/commercial fitness — reference bike for programming. Correct for serious daily training. Loud at high effort.",
+      ja: "約10万〜12万円。25インチファン、商業グレード、約45kg。CrossFit/商業フィットネスで最も広く使用されているアサルトバイク——プログラミングの基準バイク。毎日の本格的なトレーニングに正しい。高努力時に音がします。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00ER1EMKW", rawUrl: "https://www.amazon.co.jp/dp/B00ER1EMKW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-assault-air-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAssault+%E3%82%A8%E3%82%A2%E3%83%90%E3%82%A4%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "concept2-bike-erg",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Concept2 BikeErg", ja: "Concept2 BikeErg" },
+    description: {
+      en: "~$1,100-1,200. Chain drive, Concept2 flywheel, PM5 display, lower-body only. Best display and quietest premium bike — PM5 is best conditioning monitor available. Different movement pattern (no moving handles). Correct for cycling-focused training.",
+      ja: "約16万〜18万円。チェーンドライブ、Concept2フライホイール、PM5ディスプレイ、下半身のみ。最高のディスプレイと最も静かなプレミアムバイク——PM5は入手可能な最高のコンディショニングモニター。異なる動作パターン（動くハンドルなし）。サイクリングフォーカスのトレーニングに正しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07WS7GHMX", rawUrl: "https://www.amazon.co.jp/dp/B07WS7GHMX", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-concept2-bikeerg", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FConcept2+BikeErg%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-echo-bike",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Rogue Echo Bike", ja: "Rogue Echo Bike" },
+    description: {
+      en: "~$700-800. Belt drive, 127 lbs, larger fan, Rogue frame quality. Best home gym assault bike — belt drive reduces maintenance, heavier construction means more stability, Rogue build quality. Slightly quieter than Assault Classic.",
+      ja: "約10万〜12万円。ベルトドライブ、57kg、大型ファン、Rogueフレーム品質。最高のホームジムアサルトバイク——ベルトドライブがメンテナンスを減少・重い構造が安定性を意味・Rogueの構造品質。Assault Classicよりわずかに静か。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07YFLMVNP", rawUrl: "https://www.amazon.co.jp/dp/B07YFLMVNP", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-echo-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Echo+Bike%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "schwinn-airdyne-pro",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Schwinn Airdyne Pro Fan Bike", ja: "Schwinn Airdyne Pro ファンバイク" },
+    description: {
+      en: "~$500-600. Fan bike, ~90 lbs, commercial bearings, good display. Best value assault bike — more accessible price than Rogue/Assault, commercial-grade durability. Slightly less construction quality than Echo or Assault Classic.",
+      ja: "約7万5千〜9万円。ファンバイク、約41kg、商業品質ベアリング、良いディスプレイ。最高のコスパアサルトバイク——Rogue/Assaultより入手しやすい価格・商業グレードの耐久性。EchoまたはAssault Classicよりわずかに構造品質が低い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00MK3GLYM", rawUrl: "https://www.amazon.co.jp/dp/B00MK3GLYM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-schwinn-airdyne-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSchwinn+Airdyne+Pro%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sunny-health-air-bike",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Sunny Health Magnetic Resistance Air Bike", ja: "Sunny Health 磁気抵抗エアバイク" },
+    description: {
+      en: "~$200-350. Fan + magnetic resistance, lighter construction, quieter. Budget air bike option — adequate for occasional intervals. Not a substitute for commercial assault bikes. Correct for home use at moderate intensity.",
+      ja: "約3万〜5万円。ファン+磁気抵抗、軽い構造、より静か。予算エアバイクオプション——時々のインターバルに十分。商業アサルトバイクの代替にはならない。中程度の強度でのホーム使用に正しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01N2PH8T4", rawUrl: "https://www.amazon.co.jp/dp/B01N2PH8T4", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sunny-health-air-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSunny+Health+%E3%82%A8%E3%82%A2%E3%83%90%E3%82%A4%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
