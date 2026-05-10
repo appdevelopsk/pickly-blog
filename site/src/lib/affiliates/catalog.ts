@@ -12733,6 +12733,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-valor-dip-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%AA%BF%E6%95%B4%E5%BC%8F%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── best-french-press-2026 ──────────────────────────────────────────────
+  {
+    id: "bodum-chambord-french-press",
+    category: "food",
+    badge: "☕",
+    name: { en: "Bodum Chambord French Press", ja: "Bodum Chambord フレンチプレス" },
+    description: {
+      en: "~$35-50. Borosilicate glass carafe, stainless frame, single-mesh plunger. The reference French press — correct for most households. Sediment expected. Glass loses heat quickly.",
+      ja: "約4,500〜7,000円。ホウケイ酸ガラスカラフェ、ステンレスフレーム、シングルメッシュプランジャー。参照フレンチプレス——ほとんどの家庭に正しい選択。沈殿物は予想通り。ガラスは熱をすぐに失う。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00005MF67", rawUrl: "https://www.amazon.co.jp/dp/B00005MF67", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bodum-chambord", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBodum+Chambord%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "Fellow-Clara-french-press",
+    category: "food",
+    badge: "☕",
+    name: { en: "Fellow Clara French Press", ja: "Fellow Clara フレンチプレス" },
+    description: {
+      en: "~$80-100. Double-wall stainless carafe, premium design. Keeps brew hot 45-60 min. Best for households that let coffee sit. Marginally better filtration than standard mesh.",
+      ja: "約1万2千〜1万5千円。二重壁ステンレスカラフェ、プレミアムデザイン。45〜60分間熱いままを保ちます。コーヒーを置く家庭に最適。標準メッシュよりわずかに優れたフィルタリング。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09X2XYMKB", rawUrl: "https://www.amazon.co.jp/dp/B09X2XYMKB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fellow-clara", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFellow+Clara+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "espro-p3-french-press",
+    category: "food",
+    badge: "☕",
+    name: { en: "Espro P3 French Press", ja: "Espro P3 フレンチプレス" },
+    description: {
+      en: "~$60-80. Patented double micro-filter dramatically reduces sediment. Best clean-cup French press — dual micro-filter removes fines while retaining oils. Ideal if you dislike sediment but love French press body.",
+      ja: "約8,000〜1万2千円。特許取得済み二重マイクロフィルターが沈殿物を劇的に減少。最高クリーンカップフレンチプレス——デュアルマイクロフィルターが油を保持しながらファインズを除去。沈殿物が嫌いだがボディが好きな方に。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07FZNCHSG", rawUrl: "https://www.amazon.co.jp/dp/B07FZNCHSG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-espro-p3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEspro+P3+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "frieling-double-wall-french-press",
+    category: "food",
+    badge: "☕",
+    name: { en: "Frieling Double-Wall French Press", ja: "Frieling 二重壁フレンチプレス" },
+    description: {
+      en: "~$80-120. Double-wall stainless, four-part spring-loaded filtration, keeps hot 1 hour. Best heat retention — utilitarian over aesthetic. Four-part plunger minimizes bypass flow.",
+      ja: "約1万2千〜1万8千円。二重壁ステンレス、4部品スプリング式フィルタリング、1時間熱いまま。最高保温性——美観より実用。4部品プランジャーでバイパスフローを最小化。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000N49ZFM", rawUrl: "https://www.amazon.co.jp/dp/B000N49ZFM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-frieling-french-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFrieling+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mueller-french-press",
+    category: "food",
+    badge: "☕",
+    name: { en: "Mueller French Press", ja: "Mueller フレンチプレス" },
+    description: {
+      en: "~$25-35. Stainless carafe (single-wall), multi-layer filtration. Lowest-cost functional French press. Better heat retention than glass. Entry point for first-time brewers.",
+      ja: "約3,500〜5,000円。ステンレスカラフェ（シングル壁）、多層フィルタリング。最低コストの機能的フレンチプレス。ガラスより優れた保温性。初めての醸造者のエントリーポイント。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07VT4BBKQ", rawUrl: "https://www.amazon.co.jp/dp/B07VT4BBKQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-mueller-french-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── best-weight-bench-2026 ──────────────────────────────────────────────
+  {
+    id: "rep-fitness-ab-5000-adjustable-bench",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "REP Fitness AB-5000 Adjustable Bench", ja: "REP Fitness AB-5000 調整可能ベンチ" },
+    description: {
+      en: "~$350-400. 11-gauge steel, 7 back positions, DuraFirm 3-inch pad, 1000 lb capacity. Best adjustable bench overall — stable through heavy incline sets. For athletes pressing 60+ lb dumbbells.",
+      ja: "約5万〜6万円。11ゲージスチール、7バックポジション、DuraFirm 3インチパッド、450kg耐荷重。最高の調整可能ベンチ——重いインクラインセットを通じて安定。各手27kg以上のダンベルをプレスするアスリートに。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09N8G3GXF", rawUrl: "https://www.amazon.co.jp/dp/B09N8G3GXF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-ab5000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E8%AA%BF%E6%95%B4%E5%8F%AF%E8%83%BD%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-monster-utility-bench",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Rogue Monster Utility Bench", ja: "Rogue Monster ユーティリティベンチ" },
+    description: {
+      en: "~$245-320. 3x3 11-gauge steel, flat only, 4-inch foam, 1000 lb capacity. Best flat bench — commercial-grade stability, Rogue rack compatible. For athletes whose primary movement is flat barbell press.",
+      ja: "約3万5千〜4万5千円。3x3 11ゲージスチール、フラットのみ、4インチフォーム、450kg耐荷重。最高のフラットベンチ——商業グレード安定性、Rogueラック互換。フラットバーベルプレスが主な動作のアスリートに。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0D1R9GWWW", rawUrl: "https://www.amazon.co.jp/dp/B0D1R9GWWW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-utility-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "flybird-adjustable-bench",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Flybird Adjustable Weight Bench", ja: "Flybird 調整可能ウェイトベンチ" },
+    description: {
+      en: "~$100-140. Folding design, 7 back positions, 3 seat positions. Budget adjustable bench — adequate for light loading. Noticeable wobble with heavy dumbbells at incline. Entry point for new lifters.",
+      ja: "約1万5千〜2万円。折りたたみ設計、7バックポジション、3シートポジション。予算調整可能ベンチ——軽い荷重に十分。重いダンベルでの傾斜で著しいぐらつき。新リフターのエントリーポイント。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08M9MKFYM", rawUrl: "https://www.amazon.co.jp/dp/B08M9MKFYM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-flybird-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFlybird+%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fitness-reality-1000-super-max-bench",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Fitness Reality 1000 Super Max Bench", ja: "Fitness Reality 1000 Super Max ベンチ" },
+    description: {
+      en: "~$150-200. Higher-gauge steel, 1000 lb capacity, adjustable. Mid-tier adjustable bench — meaningfully more stable than Flybird. Good for lifters loading 40-70 lb dumbbells.",
+      ja: "約2万5千〜3万円。より高いゲージスチール、450kg耐荷重、調整可能。中間調整可能ベンチ——Flybirdより意味のある向上。各手18〜32kgのダンベルを積むリフターに良い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00LPSVTFK", rawUrl: "https://www.amazon.co.jp/dp/B00LPSVTFK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fitness-reality-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitness+Reality+%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "prime-fitness-flat-bench",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Prime Fitness Flat Bench", ja: "Prime Fitness フラットベンチ" },
+    description: {
+      en: "~$100-150. Commercial-style flat bench, 1000+ lb capacity, 2.5-inch firm foam. Best flat bench for the price — outperforms budget adjustable benches for flat pressing. Narrow footprint fits inside power racks.",
+      ja: "約1万5千〜2万円。商業スタイルフラットベンチ、450kg+耐荷重、2.5インチ硬質フォーム。価格に対して最高のフラットベンチ——フラットプレス安定性で予算調整可能ベンチを超える。狭いフットプリントでパワーラック内に収まる。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07B43HMK3", rawUrl: "https://www.amazon.co.jp/dp/B07B43HMK3", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-prime-flat-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
