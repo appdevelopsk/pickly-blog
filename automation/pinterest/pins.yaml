@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 160 articles x 6 variants x 2 locales (en, ja) = 1920 pins (growing)
+# 162 articles x 6 variants x 2 locales (en, ja) = 1944 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -21724,3 +21724,267 @@ pins:
   link: "/ja/best-elliptical-machine-2026"
   image_alt: "ホームエリプティカル 有酸素運動 2026"
   hashtags: ["ホームカーディオ", "エリプティカル", "低負荷", "ホームジム", "フィットネスモチベーション", "サステナブルフィットネス"]
+
+- id: pin-best-bread-machine-2026-en-comparison
+  article_slug: best-bread-machine-2026
+  locale: en
+  variant: comparison
+  board: food
+  title: "Best Bread Machines 2026: Zojirushi vs Cuisinart vs Panasonic"
+  description: "We tested 5 top bread makers — here's how Zojirushi, Cuisinart, Hamilton Beach, Oster, and Panasonic compare on loaf quality, programs, and ease of use."
+  link: "/en/best-bread-machine-2026"
+  image_alt: "Best bread machines 2026 comparison chart"
+  hashtags: ["breadmachine", "breadmaker", "Zojirushi", "homemadebread", "bakingathome", "kitchenappliances"]
+
+- id: pin-best-bread-machine-2026-en-top1
+  article_slug: best-bread-machine-2026
+  locale: en
+  variant: top1
+  board: food
+  title: "Zojirushi BB-PDC20BA: Still the Best Bread Machine in 2026"
+  description: "Dual-blade kneading, automatic yeast dispenser, and a 13-hour delay timer — the Zojirushi Virtuoso Plus makes bread that actually tastes like it came from a bakery."
+  link: "/en/best-bread-machine-2026"
+  image_alt: "Zojirushi BB-PDC20BA bread maker review 2026"
+  hashtags: ["Zojirushi", "breadmachine", "homemadebread", "breadlovers", "bakingtools", "kitchengear"]
+
+- id: pin-best-bread-machine-2026-en-problem
+  article_slug: best-bread-machine-2026
+  locale: en
+  variant: problem
+  board: food
+  title: "Dense, Gummy Homemade Bread? Your Machine (or Yeast) Is the Problem"
+  description: "Uneven kneading and poor temperature control make bread machines produce bricks. Here's what specs actually matter and which machines nail fermentation."
+  link: "/en/best-bread-machine-2026"
+  image_alt: "Dense homemade bread bread machine problem fix"
+  hashtags: ["breadbaking", "breadmachine", "bakingtips", "homemadebread", "yeasttips"]
+
+- id: pin-best-bread-machine-2026-en-budget
+  article_slug: best-bread-machine-2026
+  locale: en
+  variant: budget
+  board: food
+  title: "Best Budget Bread Machine 2026: Hamilton Beach Under $60"
+  description: "The Hamilton Beach 29882 covers the basics — 2-pound loaves, 12 settings, a delay timer — at a price that makes daily bread-baking an easy experiment."
+  link: "/en/best-bread-machine-2026"
+  image_alt: "Hamilton Beach bread machine budget pick 2026"
+  hashtags: ["budgetbaking", "HamiltonBeach", "breadmachine", "affordablekitchen", "homemadebread"]
+
+- id: pin-best-bread-machine-2026-en-avoid
+  article_slug: best-bread-machine-2026
+  locale: en
+  variant: avoid
+  board: food
+  title: "3 Bread Machines to Avoid in 2026 (Collapsed Loaves, Loose Paddles)"
+  description: "Bread that collapses during the final rise and paddles that get stuck inside every loaf are common with these models. Check the reviews before you buy."
+  link: "/en/best-bread-machine-2026"
+  image_alt: "Bread machines to avoid 2026 collapsed loaf warning"
+  hashtags: ["breadmachine", "bakingwarning", "homemadebread", "kitchentips", "breadfail"]
+
+- id: pin-best-bread-machine-2026-en-scene
+  article_slug: best-bread-machine-2026
+  locale: en
+  variant: scene
+  board: food
+  title: "Wake Up to Fresh-Baked Bread — Set It the Night Before"
+  description: "Delay timer, fresh ingredients, perfect crust — a good bread machine makes fresh bread automatic. Our 2026 picks from budget to Zojirushi."
+  link: "/en/best-bread-machine-2026"
+  image_alt: "Bread machine morning fresh baked loaf routine"
+  hashtags: ["freshbread", "breadmachine", "morningbread", "homemadebread", "bakingathome", "breadlover"]
+
+- id: pin-best-bread-machine-2026-ja-comparison
+  article_slug: best-bread-machine-2026
+  locale: ja
+  variant: comparison
+  board: food
+  title: "ホームベーカリー2026年比較：象印 vs Cuisinart vs Panasonic"
+  description: "5機種を徹底比較。パンの品質・プログラム数・使いやすさで象印、Cuisinart、ハミルトンビーチ、Oster、Panasonicを正直評価。"
+  link: "/ja/best-bread-machine-2026"
+  image_alt: "ホームベーカリー2026年比較チャート"
+  hashtags: ["ホームベーカリー", "パン焼き機", "象印", "手作りパン", "家でパン焼き", "キッチン家電"]
+
+- id: pin-best-bread-machine-2026-ja-top1
+  article_slug: best-bread-machine-2026
+  locale: ja
+  variant: top1
+  board: food
+  title: "象印 BB-PDC20BA：2026年もやっぱり最強のホームベーカリー"
+  description: "デュアルブレードこね・自動イースト投入・13時間タイマー——象印 Virtuoso Plusはベーカリー品質の食パンを自宅で実現する。"
+  link: "/ja/best-bread-machine-2026"
+  image_alt: "象印 BB-PDC20BA ホームベーカリー レビュー2026"
+  hashtags: ["象印", "ホームベーカリー", "手作りパン", "パン好き", "パン焼き道具", "キッチン家電"]
+
+- id: pin-best-bread-machine-2026-ja-problem
+  article_slug: best-bread-machine-2026
+  locale: ja
+  variant: problem
+  board: food
+  title: "手作りパンが詰まって重い？原因はホームベーカリーかイーストかも"
+  description: "不均一なこねと温度管理の甘さがパンをレンガにする。本当に重要なスペックと発酵をうまくこなす機種を解説。"
+  link: "/ja/best-bread-machine-2026"
+  image_alt: "手作りパン 詰まる 重い ホームベーカリー 原因と対策"
+  hashtags: ["パン焼き", "ホームベーカリー", "パン焼きのコツ", "手作りパン", "イーストのコツ"]
+
+- id: pin-best-bread-machine-2026-ja-budget
+  article_slug: best-bread-machine-2026
+  locale: ja
+  variant: budget
+  board: food
+  title: "コスパ最強ホームベーカリー2026：ハミルトンビーチ7000円以下"
+  description: "ハミルトンビーチ29882は2ポンドパン・12設定・タイマー機能を手頃な価格でカバー。毎日のパン焼きを気軽に始めたい方に最適。"
+  link: "/ja/best-bread-machine-2026"
+  image_alt: "ハミルトンビーチ ホームベーカリー コスパ2026"
+  hashtags: ["コスパパン焼き", "ハミルトンビーチ", "ホームベーカリー", "お手頃キッチン", "手作りパン"]
+
+- id: pin-best-bread-machine-2026-ja-avoid
+  article_slug: best-bread-machine-2026
+  locale: ja
+  variant: avoid
+  board: food
+  title: "2026年買ってはいけないホームベーカリー3選（発酵失敗・羽根が抜けない）"
+  description: "最終発酵で陥没するパンとパンに埋まった羽根——これらのモデルでよく報告されるトラブルを正直にリスト。購入前に確認してください。"
+  link: "/ja/best-bread-machine-2026"
+  image_alt: "買ってはいけないホームベーカリー2026 発酵失敗"
+  hashtags: ["ホームベーカリー", "パン焼き注意", "手作りパン", "キッチンのヒント", "パン焼き失敗"]
+
+- id: pin-best-bread-machine-2026-ja-scene
+  article_slug: best-bread-machine-2026
+  locale: ja
+  variant: scene
+  board: food
+  title: "前夜にセットして朝は焼きたてパン——ホームベーカリーが日常を変える"
+  description: "タイマー予約・新鮮食材・完璧なクラスト——良いホームベーカリーは毎朝の焼きたてパンを自動化する。2026年コスパから象印まで。"
+  link: "/ja/best-bread-machine-2026"
+  image_alt: "ホームベーカリー 朝の焼きたてパン ルーティン"
+  hashtags: ["焼きたてパン", "ホームベーカリー", "朝のパン", "手作りパン", "家でパン焼き", "パン好き"]
+
+- id: pin-best-stationary-bike-2026-en-comparison
+  article_slug: best-stationary-bike-2026
+  locale: en
+  variant: comparison
+  board: fitness
+  title: "Best Stationary Bikes 2026: Peloton vs NordicTrack vs Schwinn"
+  description: "We compared 5 top indoor bikes — here's how Peloton, NordicTrack, Schwinn, Bowflex, and Sunny Health stack up on resistance, screen quality, and ride feel."
+  link: "/en/best-stationary-bike-2026"
+  image_alt: "Best stationary bikes 2026 comparison chart"
+  hashtags: ["stationarybike", "indoorcycling", "Peloton", "NordicTrack", "homegym", "cardio"]
+
+- id: pin-best-stationary-bike-2026-en-top1
+  article_slug: best-stationary-bike-2026
+  locale: en
+  variant: top1
+  board: fitness
+  title: "Schwinn 170: The Best Value Stationary Bike for Most Home Gyms"
+  description: "29 resistance levels, 22 workout programs, and a dual LCD display — the Schwinn 170 delivers a real cycling workout without locking you into a subscription."
+  link: "/en/best-stationary-bike-2026"
+  image_alt: "Schwinn 170 stationary bike review 2026"
+  hashtags: ["Schwinn170", "stationarybike", "homegym", "indoorcycling", "cardio", "homefitness"]
+
+- id: pin-best-stationary-bike-2026-en-problem
+  article_slug: best-stationary-bike-2026
+  locale: en
+  variant: problem
+  board: fitness
+  title: "Is Peloton Worth $1,500? (We Compared It to 4 Alternatives)"
+  description: "Peloton's live classes are genuinely motivating — but so is saving $1,000 and using the Bowflex C6 with a free cycling app. Here's the honest breakdown."
+  link: "/en/best-stationary-bike-2026"
+  image_alt: "Peloton vs alternatives stationary bike comparison"
+  hashtags: ["Peloton", "stationarybike", "indoorcycling", "homegym", "fitnesscost", "bikecomparison"]
+
+- id: pin-best-stationary-bike-2026-en-budget
+  article_slug: best-stationary-bike-2026
+  locale: en
+  variant: budget
+  board: fitness
+  title: "Best Budget Stationary Bike 2026: Sunny Health SF-B1002 Under $300"
+  description: "The Sunny Health SF-B1002 is the entry point for serious indoor cycling — friction resistance, adjustable seat, and a build quality that punches above its price."
+  link: "/en/best-stationary-bike-2026"
+  image_alt: "Sunny Health SF-B1002 budget stationary bike 2026"
+  hashtags: ["budgethomegym", "SunnyHealth", "stationarybike", "indoorcycling", "affordablecardio"]
+
+- id: pin-best-stationary-bike-2026-en-avoid
+  article_slug: best-stationary-bike-2026
+  locale: en
+  variant: avoid
+  board: fitness
+  title: "3 Stationary Bikes to Avoid in 2026 (Wobbly Pedals, Broken Consoles)"
+  description: "Loose pedal threads and dead display screens within the first year are common complaints with these models. Don't learn this the hard way."
+  link: "/en/best-stationary-bike-2026"
+  image_alt: "Stationary bikes to avoid 2026 quality warning"
+  hashtags: ["stationarybike", "homegym", "equipmentwarning", "indoorcycling", "fitnessgear"]
+
+- id: pin-best-stationary-bike-2026-en-scene
+  article_slug: best-stationary-bike-2026
+  locale: en
+  variant: scene
+  board: fitness
+  title: "30-Minute Morning Ride Before Work — No Gym Membership Needed"
+  description: "A good stationary bike turns any room into a cardio studio. Our 2026 picks for riders who want results without the Peloton price tag."
+  link: "/en/best-stationary-bike-2026"
+  image_alt: "Stationary bike morning cardio home gym routine"
+  hashtags: ["morningworkout", "stationarybike", "homegym", "indoorcycling", "cardioroutine", "homefitness"]
+
+- id: pin-best-stationary-bike-2026-ja-comparison
+  article_slug: best-stationary-bike-2026
+  locale: ja
+  variant: comparison
+  board: fitness
+  title: "フィットネスバイク2026年比較：Peloton vs NordicTrack vs Schwinn"
+  description: "5台を徹底比較。負荷・画面品質・ライドフィールでPeloton、NordicTrack、Schwinn、Bowflex、Sunny Healthを正直評価。"
+  link: "/ja/best-stationary-bike-2026"
+  image_alt: "フィットネスバイク2026年比較チャート"
+  hashtags: ["フィットネスバイク", "インドアサイクリング", "Peloton", "NordicTrack", "ホームジム", "有酸素運動"]
+
+- id: pin-best-stationary-bike-2026-ja-top1
+  article_slug: best-stationary-bike-2026
+  locale: ja
+  variant: top1
+  board: fitness
+  title: "Schwinn 170：ほとんどのホームジムに最適なコスパ最強フィットネスバイク"
+  description: "29段階負荷・22ワークアウトプログラム・デュアルLCDディスプレイ——Schwinn 170はサブスクなしで本格サイクリングワークアウトを実現。"
+  link: "/ja/best-stationary-bike-2026"
+  image_alt: "Schwinn 170 フィットネスバイク レビュー2026"
+  hashtags: ["Schwinn170", "フィットネスバイク", "ホームジム", "インドアサイクリング", "有酸素運動", "ホームフィットネス"]
+
+- id: pin-best-stationary-bike-2026-ja-problem
+  article_slug: best-stationary-bike-2026
+  locale: ja
+  variant: problem
+  board: fitness
+  title: "Pelotonは20万円の価値がある？（4つの代替機と正直に比較）"
+  description: "Pelotonのライブクラスは確かに刺激的——でも10万円節約してBowflex C6+無料アプリという選択肢もある。正直な比較をまとめました。"
+  link: "/ja/best-stationary-bike-2026"
+  image_alt: "Peloton vs 代替フィットネスバイク 比較"
+  hashtags: ["Peloton", "フィットネスバイク", "インドアサイクリング", "ホームジム", "フィットネスコスト", "バイク比較"]
+
+- id: pin-best-stationary-bike-2026-ja-budget
+  article_slug: best-stationary-bike-2026
+  locale: ja
+  variant: budget
+  board: fitness
+  title: "コスパ最強フィットネスバイク2026：Sunny Health SF-B1002が3万円以下"
+  description: "Sunny Health SF-B1002は本格インドアサイクリングへの入口——フリクション負荷・シート調整・価格を超えたビルドクオリティ。"
+  link: "/ja/best-stationary-bike-2026"
+  image_alt: "Sunny Health SF-B1002 コスパ フィットネスバイク2026"
+  hashtags: ["コスパホームジム", "SunnyHealth", "フィットネスバイク", "インドアサイクリング", "お手頃有酸素"]
+
+- id: pin-best-stationary-bike-2026-ja-avoid
+  article_slug: best-stationary-bike-2026
+  locale: ja
+  variant: avoid
+  board: fitness
+  title: "1年でペダルとモニターが壊れるフィットネスバイク3選（2026年要注意）"
+  description: "ペダルネジのゆるみと初年度のディスプレイ故障——これらのモデルでよく報告されるトラブルを正直にリスト。後悔してからでは遅い。"
+  link: "/ja/best-stationary-bike-2026"
+  image_alt: "買ってはいけないフィットネスバイク2026 品質問題"
+  hashtags: ["フィットネスバイク", "ホームジム", "器具選びの注意", "インドアサイクリング", "フィットネスギア"]
+
+- id: pin-best-stationary-bike-2026-ja-scene
+  article_slug: best-stationary-bike-2026
+  locale: ja
+  variant: scene
+  board: fitness
+  title: "出勤前の30分朝ライド——ジム会員不要でここまでできる"
+  description: "良いフィットネスバイクはどの部屋もカーディオスタジオにする。Peloton価格なしで結果を出したい人への2026年おすすめ5選。"
+  link: "/ja/best-stationary-bike-2026"
+  image_alt: "フィットネスバイク 朝カーディオ ホームジム ルーティン"
+  hashtags: ["朝トレーニング", "フィットネスバイク", "ホームジム", "インドアサイクリング", "カーディオルーティン", "ホームフィットネス"]
