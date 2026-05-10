@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 238 articles x 6 variants x 2 locales (en, ja) = 2856 pins (growing)
+# 240 articles x 6 variants x 2 locales (en, ja) = 2880 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -30505,4 +30505,196 @@ pins:
   title: "アルミからコンポジットシャフトへのアップグレード：何が変わるか"
   description: "ほとんどの選手ができる最大の用具改善はアルミをコンポジットシャフトに交換すること。重量差はスティックワークで即座に感じられます。"
   image: /og/best-lacrosse-stick-2026-ja.png
+  board: fitness-ja
+
+- slug: best-hibiscus-tea-2026
+  locale: en
+  variant: comparison
+  title: "Best Hibiscus Tea 2026: Whole Flowers to Budget Bags Compared"
+  description: "Frontier Co-op loose flowers vs Harney & Sons blend vs Republic of Tea Superflower — tartness intensity, color depth, and cold brew performance tested."
+  image: /og/best-hibiscus-tea-2026-en.png
+  board: food-en
+
+- slug: best-hibiscus-tea-2026
+  locale: en
+  variant: top1
+  title: "Best Loose Hibiscus Tea: Whole Dried Flowers for Agua de Jamaica"
+  description: "Frontier Co-op's whole organic hibiscus calyxes brew the deepest ruby red and most intense tartness you can get at home — this is what hibiscus is supposed to be."
+  image: /og/best-hibiscus-tea-2026-en.png
+  board: food-en
+
+- slug: best-hibiscus-tea-2026
+  locale: en
+  variant: problem
+  title: "Why Your Hibiscus Tea Is Pale Pink (Not Deep Ruby Red)"
+  description: "Pale hibiscus tea means low hibiscus content. If it doesn't brew deep red, you're not getting the flavor, color, or benefits. Here's what to buy instead."
+  image: /og/best-hibiscus-tea-2026-en.png
+  board: food-en
+
+- slug: best-hibiscus-tea-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Hibiscus Tea for Daily Drinking Under $10"
+  description: "Bigelow's hibiscus benefits tea delivers consistent color and tartness at a daily-drinking price — foil-wrapped for freshness, widely available."
+  image: /og/best-hibiscus-tea-2026-en.png
+  board: food-en
+
+- slug: best-hibiscus-tea-2026
+  locale: en
+  variant: avoid
+  title: "Hibiscus Tea Mistakes: Oversteeping and Wrong Brewing Temp"
+  description: "Oversteeping hibiscus makes it bitter. Using boiling water when cold brew is better. Buying blends with minimal hibiscus content. What to avoid."
+  image: /og/best-hibiscus-tea-2026-en.png
+  board: food-en
+
+- slug: best-hibiscus-tea-2026
+  locale: en
+  variant: scene
+  title: "Hibiscus Tea as a Cocktail Base: The Ruby-Red Mixer"
+  description: "Cold-brewed hibiscus concentrate makes a stunning natural mixer for gin, tequila, and rum cocktails — no artificial dye, genuine tart flavor."
+  image: /og/best-hibiscus-tea-2026-en.png
+  board: food-en
+
+- slug: best-hibiscus-tea-2026
+  locale: ja
+  variant: comparison
+  title: "ハイビスカスティーおすすめ2026：ホールフラワーからコスパバッグまで比較"
+  description: "Frontier Co-opルースフラワー vs Harney & Sonsブレンド vs Republic of Tea Superflower——酸味の強さ・色の深さ・コールドブリューパフォーマンスを検証。"
+  image: /og/best-hibiscus-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-hibiscus-tea-2026
+  locale: ja
+  variant: top1
+  title: "ルースハイビスカスティー最高評価：アグア・デ・ジャマイカ向けホール乾燥花"
+  description: "Frontier Co-opのホールオーガニックハイビスカスがくは自宅で作れる最も深いルビー赤と最も強烈な酸味を淹れます——これがハイビスカスの本来の姿。"
+  image: /og/best-hibiscus-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-hibiscus-tea-2026
+  locale: ja
+  variant: problem
+  title: "ハイビスカスティーが淡いピンクな理由（深いルビー赤ではなく）"
+  description: "淡いハイビスカスティーはハイビスカスの含有量が低いことを意味します。深い赤に淹れなければ、風味・色・効能を得られていません。代わりに買うべきものを紹介。"
+  image: /og/best-hibiscus-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-hibiscus-tea-2026
+  locale: ja
+  variant: budget
+  title: "毎日飲めるコスパ最高ハイビスカスティー1000円以下"
+  description: "Bigelowのハイビスカスベネフィットティーは毎日飲める価格で一貫した色と酸味を提供——アルミホイル包装鮮度保持で広く入手可能。"
+  image: /og/best-hibiscus-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-hibiscus-tea-2026
+  locale: ja
+  variant: avoid
+  title: "ハイビスカスティーのミス：過剰浸出と間違った淹れ温度"
+  description: "過剰浸出でハイビスカスが苦くなります。コールドブリューが良い場合に沸騰したお湯を使用。ハイビスカス含有量の少ないブレンドを購入。避けるべきこと。"
+  image: /og/best-hibiscus-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-hibiscus-tea-2026
+  locale: ja
+  variant: scene
+  title: "ハイビスカスティーをカクテルベースとして：ルビーレッドミキサー"
+  description: "コールドブリューしたハイビスカスコンセントレートはジン・テキーラ・ラムカクテルの素晴らしい天然ミキサーになります——人工着色料なし・本物の酸っぱい風味。"
+  image: /og/best-hibiscus-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-volleyball-knee-pads-2026
+  locale: en
+  variant: comparison
+  title: "Best Volleyball Knee Pads 2026: Gel vs Foam Protection Compared"
+  description: "Asics Gel vs Mizuno LR6 vs Nike Fundamentals — libero, hitter, and setter positions tested for impact protection, mobility, and anti-slip retention."
+  image: /og/best-volleyball-knee-pads-2026-en.png
+  board: fitness-en
+
+- slug: best-volleyball-knee-pads-2026
+  locale: en
+  variant: top1
+  title: "Best Volleyball Knee Pads for Competitive Play: Asics Gel Review"
+  description: "Gel padding over foam, correct impact zone positioning, compression fit that stays put through hard dives — why Asics is the standard recommendation."
+  image: /og/best-volleyball-knee-pads-2026-en.png
+  board: fitness-en
+
+- slug: best-volleyball-knee-pads-2026
+  locale: en
+  variant: problem
+  title: "Why Your Volleyball Knee Pads Keep Slipping Down"
+  description: "Knee pads that slip during play are worse than no pads. Silicone anti-slip bands, compression knit, and correct sizing — what actually keeps them in place."
+  image: /og/best-volleyball-knee-pads-2026-en.png
+  board: fitness-en
+
+- slug: best-volleyball-knee-pads-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Volleyball Knee Pads for Youth and Recreational Play"
+  description: "Tachikara pads deliver functional protection for recreational players and youth leagues at a price that makes sense for 1-2 sessions per week."
+  image: /og/best-volleyball-knee-pads-2026-en.png
+  board: fitness-en
+
+- slug: best-volleyball-knee-pads-2026
+  locale: en
+  variant: avoid
+  title: "Volleyball Knee Pad Mistakes: Wrong Thickness for Your Position"
+  description: "Thick libero pads on a hitter restrict your jump approach. Thin hitter pads on a libero leave you unprotected. Match pad thickness to your position."
+  image: /og/best-volleyball-knee-pads-2026-en.png
+  board: fitness-en
+
+- slug: best-volleyball-knee-pads-2026
+  locale: en
+  variant: scene
+  title: "Libero Volleyball Knee Pads: What Elite Defensive Players Use"
+  description: "Mizuno LR6 with reinforced kneecap and lateral slide protection — what liberos and defensive specialists need for repeated court dives."
+  image: /og/best-volleyball-knee-pads-2026-en.png
+  board: fitness-en
+
+- slug: best-volleyball-knee-pads-2026
+  locale: ja
+  variant: comparison
+  title: "バレーボール膝パッドおすすめ2026：ゲルvsフォーム保護比較"
+  description: "Asics Gel vs Mizuno LR6 vs Nike Fundamentals——リベロ・ヒッター・セッターポジションを衝撃保護・機動性・滑り止め保持で検証。"
+  image: /og/best-volleyball-knee-pads-2026-ja.png
+  board: fitness-ja
+
+- slug: best-volleyball-knee-pads-2026
+  locale: ja
+  variant: top1
+  title: "競技バレーボール膝パッド最高評価：Asics Gelレビュー"
+  description: "フォームに勝るゲルパッディング・正確な衝撃ゾーン位置決め・ハードダイブを通じてずれないコンプレッションフィット——Asicsが標準推薦品である理由。"
+  image: /og/best-volleyball-knee-pads-2026-ja.png
+  board: fitness-ja
+
+- slug: best-volleyball-knee-pads-2026
+  locale: ja
+  variant: problem
+  title: "バレーボール膝パッドがずり落ちる理由"
+  description: "プレイ中にずれる膝パッドはパッドなしより悪い。シリコン滑り止めバンド・コンプレッションニット・正しいサイジング——本当に所定の位置に保つもの。"
+  image: /og/best-volleyball-knee-pads-2026-ja.png
+  board: fitness-ja
+
+- slug: best-volleyball-knee-pads-2026
+  locale: ja
+  variant: budget
+  title: "ユース・レクリエーション向けコスパ最強バレーボール膝パッド"
+  description: "Tachikaraのパッドは週1〜2回のセッションに意味のある価格でレクリエーション選手とユースリーグに機能的な保護を提供。"
+  image: /og/best-volleyball-knee-pads-2026-ja.png
+  board: fitness-ja
+
+- slug: best-volleyball-knee-pads-2026
+  locale: ja
+  variant: avoid
+  title: "バレーボール膝パッドのミス：ポジションに合わない厚さ"
+  description: "ヒッターにリベロ用の厚いパッドはジャンプアプローチを制限します。リベロに薄いヒッター用パッドは無防備にします。ポジションにパッドの厚さを合わせてください。"
+  image: /og/best-volleyball-knee-pads-2026-ja.png
+  board: fitness-ja
+
+- slug: best-volleyball-knee-pads-2026
+  locale: ja
+  variant: scene
+  title: "リベロのバレーボール膝パッド：エリートディフェンシブ選手が使うもの"
+  description: "強化膝頭と横スライド保護のMizuno LR6——繰り返しのコートダイブが必要なリベロとディフェンシブスペシャリストに必要なもの。"
+  image: /og/best-volleyball-knee-pads-2026-ja.png
   board: fitness-ja
