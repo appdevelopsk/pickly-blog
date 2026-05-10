@@ -15423,6 +15423,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-five-ten-hiangle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFive+Ten+Hiangle%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Peppermint Tea (food) ─────────────────────────────────────────────
+  {
+    id: "heathers-tummy-tamer-peppermint",
+    category: "food",
+    badge: "Best Medical-Grade Peppermint",
+    name: { en: "Heather's Tummy Tamer Peppermint", ja: "Heather's Tummy Tamer ペパーミント" },
+    description: { en: "Extra-high menthol peppermint tea formulated for digestive comfort and IBS relief", ja: "消化器系の快適さとIBS緩和のために特別配合された超高メントールペパーミントティー" },
+    links: [
+      { network: "amazon-jp", productId: "B000F9YVDI", rawUrl: "https://www.amazon.co.jp/dp/B000F9YVDI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-heathers-tummy-tamer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHeather%27s+Tummy+Tamer+Peppermint%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "choice-organic-peppermint",
+    category: "food",
+    badge: "Best Everyday Organic",
+    name: { en: "Choice Organic Peppermint", ja: "Choice Organic ペパーミント" },
+    description: { en: "Single-ingredient USDA organic peppermint tea in compostable square bags", ja: "堆肥化可能な正方形バッグのシングルインリーディエントUSDA有機ペパーミントティー" },
+    links: [
+      { network: "amazon-jp", productId: "B00028JMPE", rawUrl: "https://www.amazon.co.jp/dp/B00028JMPE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-choice-organic-peppermint", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChoice+Organic+Peppermint+Tea%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "numi-organic-peppermint-tea",
+    category: "food",
+    badge: "Best Premium Organic",
+    name: { en: "Numi Organic Peppermint", ja: "Numi オーガニック ペパーミント" },
+    description: { en: "Single-origin Moroccan full-leaf peppermint in pyramid sachets, fair trade certified", ja: "フェアトレード認証取得済みのシングルオリジンモロッコフルリーフペパーミントピラミッドサシェ" },
+    links: [
+      { network: "amazon-jp", productId: "B000GG0BNE", rawUrl: "https://www.amazon.co.jp/dp/B000GG0BNE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-numi-peppermint", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNumi+Organic+Peppermint%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "republic-of-tea-peppermint",
+    category: "food",
+    badge: "Best Value Full-Leaf",
+    name: { en: "Republic of Tea Peppermint Herb Tea", ja: "Republic of Tea ペパーミント ハーブティー" },
+    description: { en: "Large-cut peppermint in a freshness-preserving recyclable tin, moderate menthol intensity", ja: "鮮度を保つリサイクル可能なティン入りの大きくカットされたペパーミント、中程度のメントール強度" },
+    links: [
+      { network: "amazon-jp", productId: "B000GG08AW", rawUrl: "https://www.amazon.co.jp/dp/B000GG08AW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-republic-of-tea-peppermint", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRepublic+of+Tea+Peppermint%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bigelow-benefits-peppermint",
+    category: "food",
+    badge: "Best Budget Peppermint",
+    name: { en: "Bigelow Benefits Peppermint", ja: "Bigelow Benefits ペパーミント" },
+    description: { en: "Widely available grocery store peppermint in individually foil-wrapped bags for freshness", ja: "個別アルミホイル包装で鮮度を保つ広く流通するスーパーマーケットペパーミントティー" },
+    links: [
+      { network: "amazon-jp", productId: "B0000CFN9G", rawUrl: "https://www.amazon.co.jp/dp/B0000CFN9G", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bigelow-peppermint", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBigelow+Peppermint+Tea%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Gymnastics Grips (fitness) ────────────────────────────────────────
+  {
+    id: "gibson-athletic-bear-grips",
+    category: "fitness",
+    badge: "Best Overall Gymnastics Grips",
+    name: { en: "Gibson Athletic Bear Grips", ja: "Gibson Athletic ベアグリップス" },
+    description: { en: "Premium leather dowel gymnastics grips for competitive gymnastics and high-volume CrossFit bar work", ja: "競技体操と高量クロスフィットバーワーク向けプレミアムレザーダウエル体操グリップ" },
+    links: [
+      { network: "amazon-jp", productId: "B00GRXRB2S", rawUrl: "https://www.amazon.co.jp/dp/B00GRXRB2S", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-gibson-bear-grips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGibson+Athletic+Bear+Grips%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bear-komplex-carbon-fiber-grips",
+    category: "fitness",
+    badge: "Best Carbon Fiber Grips",
+    name: { en: "Bear KompleX Carbon Fiber Hand Grips", ja: "Bear KompleX カーボンファイバーハンドグリップス" },
+    description: { en: "No break-in carbon fiber 3-hole CrossFit grips with consistent performance across humidity levels", ja: "慣らし不要のカーボンファイバー3穴クロスフィットグリップ、湿度に左右されない一貫したパフォーマンス" },
+    links: [
+      { network: "amazon-jp", productId: "B074W95MWK", rawUrl: "https://www.amazon.co.jp/dp/B074W95MWK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bear-komplex-carbon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBear+KompleX+Carbon+Grips%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "reisport-hook-loop-grips",
+    category: "fitness",
+    badge: "Best for Competitive Gymnastics",
+    name: { en: "Reisport Hook and Loop Gymnastics Grips", ja: "Reisport フック＆ループ体操グリップス" },
+    description: { en: "Elite-level leather gymnastics grips used by competitive programs worldwide for horizontal bar and rings", ja: "鉄棒と吊り輪向けに世界の競技プログラムが使用するエリートレベルレザー体操グリップ" },
+    links: [
+      { network: "amazon-jp", productId: "B000F4BDMK", rawUrl: "https://www.amazon.co.jp/dp/B000F4BDMK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-reisport-grips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FReisport+Gymnastics+Grips%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jap-grips-gymnastics",
+    category: "fitness",
+    badge: "Best Beginner Gymnastics Grips",
+    name: { en: "JAP Grips Gymnastics Hand Guards", ja: "JAP Grips 体操ハンドガード" },
+    description: { en: "Entry-level suede leather grips for recreational gymnastics and youth programs, easy to size and fit", ja: "サイジングとフィットが簡単なレクリエーション体操とユースプログラム向けエントリーレベルスエードレザーグリップ" },
+    links: [
+      { network: "amazon-jp", productId: "B01MUAP6YC", rawUrl: "https://www.amazon.co.jp/dp/B01MUAP6YC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-jap-grips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJAP+Gymnastics+Grips%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wod-nation-gymnastics-grips",
+    category: "fitness",
+    badge: "Best Budget CrossFit Grips",
+    name: { en: "WOD Nation Gymnastics Hand Grips", ja: "WOD Nation 体操ハンドグリップス" },
+    description: { en: "Budget-friendly 3-hole leather CrossFit grips for athletes new to grip use in standard WOD volumes", ja: "標準WOD量でグリップを試し始めるクロスフィッター向けコスパ良好な3穴レザーグリップ" },
+    links: [
+      { network: "amazon-jp", productId: "B00O9QNUOE", rawUrl: "https://www.amazon.co.jp/dp/B00O9QNUOE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wod-nation-grips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWOD+Nation+Gymnastics+Grips%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
