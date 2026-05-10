@@ -10190,6 +10190,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-oster-ckstwf2000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOster%2BBelgian%2BWaffle%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Food / Nonstick Pans (best-nonstick-pan-2026) ─────────
+  {
+    id: "t-fal-e76597-nonstick-pan-12in",
+    category: "food",
+    badge: "top-pick",
+    name: { en: "T-fal E76597 Nonstick Fry Pan 12-Inch", ja: "T-fal E76597 ノンスティックフライパン 12インチ" },
+    description: {
+      en: "Aluminum construction with Thermo-Spot heat indicator and PTFE nonstick coating. The red spot turns solid when pan reaches the correct cooking temperature, eliminating guesswork. Riveted silicone handle stays cool on stovetop. Oven-safe to 350°F. At this price it is the most accessible entry into genuine nonstick performance.",
+      ja: "サーモスポット熱インジケーター付きアルミ製PTFEノンスティックフライパン。赤いスポットが最適調理温度に達すると点灯し、加熱のタイミングを正確に知らせる。リベット固定シリコンハンドルは調理中も熱くなりにくい。オーブン対応175℃まで。このクラスで本格的なノンスティック性能を得られるコスパ最強モデル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B004T6MHPM", rawUrl: "https://www.amazon.co.jp/dp/B004T6MHPM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tfal-e76597-nonstick-12in", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNonstick%2BFrying%2BPan%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hexclad-7pc-hybrid-pan-set",
+    category: "food",
+    badge: "premium-pick",
+    name: { en: "HexClad 12-Inch Hybrid Nonstick Pan", ja: "HexClad 12インチ ハイブリッドノンスティックパン" },
+    description: {
+      en: "Laser-etched hexagonal pattern bonds stainless steel peaks with PTFE valleys, letting you sear at high heat while retaining nonstick release. Tri-ply construction — stainless, aluminum core, stainless — handles induction and oven heat up to 500°F. The stay-cool handle is oven-safe and dishwasher-safe. The higher price reflects a pan built to last 10+ years, not a consumable.",
+      ja: "レーザーエッチングの六角形パターンでステンレスの凸部とPTFEの凹部を組み合わせたハイブリッド構造。高温での焼き付けとノンスティック性能を両立。三層構造（ステンレス・アルミコア・ステンレス）でIH対応、オーブン260℃まで使用可能。食洗機対応の持ち手付き。10年以上使える耐久性に見合ったプレミアム価格。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08CHHK7GC", rawUrl: "https://www.amazon.co.jp/dp/B08CHHK7GC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hexclad-12in-hybrid-pan", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHexClad%2BHybrid%2BPan%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ozeri-stone-earth-frying-pan",
+    category: "food",
+    badge: "budget-pick",
+    name: { en: "Ozeri Stone Earth Frying Pan 10-Inch", ja: "Ozeri ストーンアース フライパン 10インチ" },
+    description: {
+      en: "APEO- and PFOA-free stone-derived nonstick coating over a heavy-gauge aluminum base. The 10-inch size is compact enough for single-serve eggs, omelets, and pancakes without excess preheat time. Induction-compatible base, scratch-resistant surface, and priced at the entry point for stone-coated cookware. A solid upgrade from cheap PTFE pans without the premium-brand cost.",
+      ja: "石由来のノンスティックコーティング（APEO・PFOA不使用）を厚みのあるアルミ素材に施したフライパン。10インチサイズは1〜2人前の卵料理・オムレツ・パンケーキに最適。IH対応、耐傷加工済み。石コーティングのエントリー価格帯で、安価なPTFE製品からのアップグレードに適したモデル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00HFQQ0VO", rawUrl: "https://www.amazon.co.jp/dp/B00HFQQ0VO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ozeri-stone-earth-10in", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOzeri%2BStone%2BEarth%2B%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "caraway-nonstick-ceramic-pan",
+    category: "food",
+    badge: "ceramic-pick",
+    name: { en: "Caraway Home Nonstick Ceramic Fry Pan 10.5-Inch", ja: "Caraway ホーム セラミックノンスティック フライパン 10.5インチ" },
+    description: {
+      en: "Sol-gel ceramic coating derived from sand, with no PTFE, PFOA, PFAS, lead, or cadmium. Aluminum core with stainless steel base handles induction. Oven-safe to 550°F — unusually high for a ceramic-coated pan. The matte finish and color options have made this a design-forward choice in home kitchens. Ceramic coatings wear faster than PTFE with metal utensils; use silicone or wood.",
+      ja: "砂由来のゾルゲルセラミックコーティング（PTFE・PFOA・PFAS・鉛・カドミウム不使用）。アルミコア・ステンレス底面でIH対応。オーブン280℃まで対応（セラミックコーティングでは異例の高耐熱性）。マット仕上げとカラーバリエーションでデザイン性も高い。金属製器具との併用は避け、シリコンか木製を使用すること。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08FB2FMHZ", rawUrl: "https://www.amazon.co.jp/dp/B08FB2FMHZ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-caraway-ceramic-frypan", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCaraway%2B%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "greenpan-paris-ceramic-pan",
+    category: "food",
+    badge: "editor-pick",
+    name: { en: "GreenPan Paris 11-Inch Ceramic Nonstick Pan", ja: "GreenPan パリ 11インチ セラミックノンスティックパン" },
+    description: {
+      en: "Thermolon ceramic nonstick coating — free of PFAS, PFOA, lead, and cadmium. Hard-anodized aluminum body distributes heat evenly without hot spots. Oven-safe to 350°F, dishwasher-safe. GreenPan's Paris line sits between bargain ceramic pans and premium picks: it performs better than entry-level stone-coated options and holds up well under regular home cooking for 2-3 years before recoating is needed.",
+      ja: "Therlmoンセラミックノンスティックコーティング（PFAS・PFOA・鉛・カドミウム不使用）。硬質アルマイト加工のアルミ素材で均一な熱分布を実現。オーブン175℃対応、食洗機使用可能。GreenPan パリラインはエントリー級と高級品の中間に位置し、一般的な石コーティングより優れた耐久性を持ち、日常調理で2〜3年の使用に耐える。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00M2EVEXQ", rawUrl: "https://www.amazon.co.jp/dp/B00M2EVEXQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-greenpan-paris-11in", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGreenPan%2B%E3%83%8E%E3%83%B3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Fitness / Elliptical Machines (best-elliptical-machine-2026) ─────────
+  {
+    id: "nordictrack-se7i-elliptical",
+    category: "fitness",
+    badge: "adjustable-stride-pick",
+    name: { en: "NordicTrack SE7i Elliptical", ja: "NordicTrack SE7i エリプティカル" },
+    description: {
+      en: "Power-adjustable stride from 46–61 cm accommodates users across the full height range without compromise. Powered 0–10% incline adjusts automatically during iFit sessions. 22-inch HD touchscreen, silent magnetic resistance, and iFit terrain-matched outdoor routes with automatic stride and incline control during trainer-led classes.",
+      ja: "46〜61cmの電動調整可能ストライドで全身長ユーザーに妥協なく対応。iFitセッション中に0〜10%の電動傾斜を自動調整。22インチHDタッチスクリーン、静音マグネット抵抗、トレーナー主導クラス中にストライドと傾斜を自動制御するiFit地形マッチングアウトドアルート搭載。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09Q7J3PCP", rawUrl: "https://www.amazon.co.jp/dp/B09Q7J3PCP", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nordictrack-se7i", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNordicTrack%2BElliptical%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sole-e35-elliptical",
+    category: "fitness",
+    badge: "top-pick",
+    name: { en: "Sole Fitness E35 Elliptical Machine", ja: "Sole Fitness E35 エリプティカルマシン" },
+    description: {
+      en: "58 cm stride — the longest in its price range — and a 13.6 kg flywheel produce the smoothest rear-drive elliptical motion available under $1,500. 20-position manual incline ramp, 20 resistance levels, power handlebars, and Bluetooth connectivity. No subscription required; best long-term value for users 170 cm and taller who train consistently without guided content.",
+      ja: "58cmストライド——この価格帯で最長——と13.6kgフライホイールが1,500ドル以下で最も滑らかな後輪駆動エリプティカルモーションを提供。20段階手動傾斜ランプ、20段階負荷、パワーハンドルバー、Bluetooth接続対応。サブスクリプション不要、ガイドコンテンツなしで継続トレーニングする170cm以上のユーザーに最高の長期コストパフォーマンス。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09KZXGJ8M", rawUrl: "https://www.amazon.co.jp/dp/B09KZXGJ8M", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sole-e35", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSole%2BE35%2BElliptical%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "schwinn-470-elliptical",
+    category: "fitness",
+    badge: "budget-pick",
+    name: { en: "Schwinn 470 Elliptical Machine", ja: "Schwinn 470 エリプティカルマシン" },
+    description: {
+      en: "25 resistance levels, power incline to 10%, Bluetooth to Zwift and third-party apps, and a dual LCD/backlit display at a mid-range price. 51 cm stride fits users in the 163–175 cm range well. 9 kg flywheel provides adequate smoothness for light to moderate training. Best entry point for new elliptical users who want data visibility and app connectivity.",
+      ja: "25段階負荷、10%までの電動傾斜、ZwiftやサードパーティアプリへのBluetooth、デュアルLCD/バックライトディスプレイを中価格帯で提供。51cmストライドが163〜175cmのユーザーによく合う。9kgフライホイールが軽中度トレーニングに十分な滑らかさ。データ可視化とアプリ接続を求めるエリプティカル初心者に最適なエントリーポイント。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07VBMXZLT", rawUrl: "https://www.amazon.co.jp/dp/B07VBMXZLT", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-schwinn-470", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSchwinn%2B470%2BElliptical%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bowflex-max-trainer-m9",
+    category: "fitness",
+    badge: "hiit-pick",
+    name: { en: "Bowflex Max Trainer M9", ja: "Bowflex Max Trainer M9" },
+    description: {
+      en: "Hybrid stair-climber/elliptical motion generates significantly higher caloric burn per minute than conventional ellipticals — designed for 20–30 minute high-intensity sessions rather than 45–60 minute moderate-effort training. 20 resistance levels, JRNY adaptive coaching adjusts intensity based on real-time heart rate, 10-inch touchscreen, and a compact footprint smaller than any conventional elliptical.",
+      ja: "ハイブリッドのステアクライマー/エリプティカルモーションが従来型エリプティカルより単位時間あたり著しく高いカロリー消費を生む——45〜60分の中強度ではなく20〜30分の高強度セッション向け設計。20段階負荷、リアルタイムハートレートに基づき強度を調整するJRNYアダプティブコーチング、10インチタッチスクリーン、従来型エリプティカルより小さいコンパクトフットプリント。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08HVZHNYC", rawUrl: "https://www.amazon.co.jp/dp/B08HVZHNYC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bowflex-m9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex%2BMax%2BTrainer%2FM9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nautilus-e616-elliptical",
+    category: "fitness",
+    badge: "quiet-pick",
+    name: { en: "Nautilus E616 Elliptical Trainer", ja: "Nautilus E616 エリプティカルトレーナー" },
+    description: {
+      en: "Runs noticeably quieter than the Schwinn 470 or Sole E35 at equivalent resistance levels — a meaningful advantage in apartments or homes where noise transfers to other rooms. 25 resistance levels, power incline to 10%, Bluetooth to the Nautilus app, and a 51 cm stride for users in the 163–175 cm range. The quietest drive system in this comparison.",
+      ja: "同等の負荷設定でSchwinn 470やSole E35より顕著に静かに動作——音が他の部屋に伝わるアパートや住宅で大きな優位性。25段階負荷、10%までの電動傾斜、NautilusアプリへのBluetooth接続、163〜175cmの範囲向け51cmストライド。本比較で最も静かな駆動システム。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07BGMCX7L", rawUrl: "https://www.amazon.co.jp/dp/B07BGMCX7L", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nautilus-e616", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNautilus%2BE616%2BElliptical%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
