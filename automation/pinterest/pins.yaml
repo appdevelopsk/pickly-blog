@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 168 articles x 6 variants x 2 locales (en, ja) = 2016 pins (growing)
+# 170 articles x 6 variants x 2 locales (en, ja) = 2040 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -22780,3 +22780,267 @@ pins:
   link: "/ja/best-dumbbell-rack-2026"
   image_alt: "ダンベルラック 整理されたホームジム 2026"
   hashtags: ["ホームジム", "ダンベルラック", "ジム整理", "ホームジムデザイン", "ウェイトルーム", "ホームジム設備"]
+
+- id: pin-best-hand-mixer-2026-en-comparison
+  article_slug: best-hand-mixer-2026
+  locale: en
+  variant: comparison
+  board: food
+  title: "Best Hand Mixers 2026: KitchenAid vs Breville vs Cuisinart"
+  description: "We tested 5 top hand mixers — here's how KitchenAid, Breville, Cuisinart, Hamilton Beach, and KRUPS compare on power, speed control, and attachment quality."
+  link: "/en/best-hand-mixer-2026"
+  image_alt: "Best hand mixers 2026 comparison chart"
+  hashtags: ["handmixer", "KitchenAid", "Breville", "bakingtools", "baking2026", "kitchenessentials"]
+
+- id: pin-best-hand-mixer-2026-en-top1
+  article_slug: best-hand-mixer-2026
+  locale: en
+  variant: top1
+  board: food
+  title: "KitchenAid KHM512: The Best Hand Mixer for Most Bakers in 2026"
+  description: "Lockable swivel cord, soft start feature, and enough power for cookie dough — the KitchenAid KHM512 is the hand mixer that serious home bakers keep reaching for."
+  link: "/en/best-hand-mixer-2026"
+  image_alt: "KitchenAid KHM512ER hand mixer review 2026"
+  hashtags: ["KitchenAid", "handmixer", "bakingtools", "homebaking", "cookiedough", "kitchengear"]
+
+- id: pin-best-hand-mixer-2026-en-problem
+  article_slug: best-hand-mixer-2026
+  locale: en
+  variant: problem
+  board: food
+  title: "Hand Mixer vs Stand Mixer: When Is a Hand Mixer Actually Better?"
+  description: "Stand mixers are powerful but slow to set up and hard to store. Hand mixers win for quick batches, small kitchens, and anyone who bakes occasionally. Here's when to choose which."
+  link: "/en/best-hand-mixer-2026"
+  image_alt: "Hand mixer vs stand mixer comparison guide"
+  hashtags: ["handmixer", "standmixer", "bakingtools", "kitchenadvice", "homebaking"]
+
+- id: pin-best-hand-mixer-2026-en-budget
+  article_slug: best-hand-mixer-2026
+  locale: en
+  variant: budget
+  board: food
+  title: "Best Budget Hand Mixer 2026: Hamilton Beach 6-Speed Under $30"
+  description: "The Hamilton Beach 62682 handles everyday mixing tasks — eggs, cream, light cake batters — at a price that makes it an easy recommendation for new bakers."
+  link: "/en/best-hand-mixer-2026"
+  image_alt: "Hamilton Beach hand mixer budget pick 2026"
+  hashtags: ["budgetbaking", "HamiltonBeach", "handmixer", "affordablekitchen", "homebaking"]
+
+- id: pin-best-hand-mixer-2026-en-avoid
+  article_slug: best-hand-mixer-2026
+  locale: en
+  variant: avoid
+  board: food
+  title: "3 Hand Mixers to Avoid in 2026 (Motor Burns Out in 6 Months)"
+  description: "Underpowered motors overheat on stiff doughs and burn out quickly. These models are fine for whipped cream but fail the moment you try cookie dough."
+  link: "/en/best-hand-mixer-2026"
+  image_alt: "Hand mixers to avoid 2026 motor burnout warning"
+  hashtags: ["handmixer", "bakingwarning", "kitchentips", "homebaking", "bakingtools"]
+
+- id: pin-best-hand-mixer-2026-en-scene
+  article_slug: best-hand-mixer-2026
+  locale: en
+  variant: scene
+  board: food
+  title: "Fluffy Buttercream in 3 Minutes — The Right Hand Mixer Makes It Easy"
+  description: "Whipped cream, cake batter, cookie dough — a good hand mixer handles all of it without the counter space of a stand mixer. Our 2026 picks."
+  link: "/en/best-hand-mixer-2026"
+  image_alt: "Hand mixer buttercream baking kitchen 2026"
+  hashtags: ["buttercream", "handmixer", "bakingrecipes", "homebaking", "kitchentools", "bakingtips"]
+
+- id: pin-best-hand-mixer-2026-ja-comparison
+  article_slug: best-hand-mixer-2026
+  locale: ja
+  variant: comparison
+  board: food
+  title: "ハンドミキサー2026年比較：KitchenAid vs Breville vs Cuisinart"
+  description: "5製品を徹底比較。パワー・速度調整・アタッチメント品質でKitchenAid、Breville、Cuisinart、Hamilton Beach、KRUPSを正直評価。"
+  link: "/ja/best-hand-mixer-2026"
+  image_alt: "ハンドミキサー2026年比較チャート"
+  hashtags: ["ハンドミキサー", "KitchenAid", "Breville", "製菓道具", "ベーキング2026", "キッチン必需品"]
+
+- id: pin-best-hand-mixer-2026-ja-top1
+  article_slug: best-hand-mixer-2026
+  locale: ja
+  variant: top1
+  board: food
+  title: "KitchenAid KHM512：2026年ほとんどのベーカーに最適なハンドミキサー"
+  description: "ロック可能なスイベルコード・ソフトスタート機能・クッキー生地に十分なパワー——KitchenAid KHM512は本格ホームベーカーが繰り返し手に取るハンドミキサー。"
+  link: "/ja/best-hand-mixer-2026"
+  image_alt: "KitchenAid KHM512ER ハンドミキサー レビュー2026"
+  hashtags: ["KitchenAid", "ハンドミキサー", "製菓道具", "ホームベーキング", "クッキー生地", "キッチンギア"]
+
+- id: pin-best-hand-mixer-2026-ja-problem
+  article_slug: best-hand-mixer-2026
+  locale: ja
+  variant: problem
+  board: food
+  title: "ハンドミキサー vs スタンドミキサー：ハンドミキサーが実は優れているのはいつ？"
+  description: "スタンドミキサーは強力だがセットが遅く収納が大変。少量バッチ・狭いキッチン・たまにしか焼かない人にはハンドミキサーが勝る。どちらを選ぶか解説。"
+  link: "/ja/best-hand-mixer-2026"
+  image_alt: "ハンドミキサー vs スタンドミキサー 比較ガイド"
+  hashtags: ["ハンドミキサー", "スタンドミキサー", "製菓道具", "キッチンアドバイス", "ホームベーキング"]
+
+- id: pin-best-hand-mixer-2026-ja-budget
+  article_slug: best-hand-mixer-2026
+  locale: ja
+  variant: budget
+  board: food
+  title: "コスパ最強ハンドミキサー2026：Hamilton Beach 6速が3500円以下"
+  description: "Hamilton Beach 62682は卵・生クリーム・軽いケーキバッターを手頃な価格でこなす——ベーキング初心者に気軽に勧められる1台。"
+  link: "/ja/best-hand-mixer-2026"
+  image_alt: "Hamilton Beach ハンドミキサー コスパ2026"
+  hashtags: ["コスパベーキング", "ハミルトンビーチ", "ハンドミキサー", "お手頃キッチン", "ホームベーキング"]
+
+- id: pin-best-hand-mixer-2026-ja-avoid
+  article_slug: best-hand-mixer-2026
+  locale: ja
+  variant: avoid
+  board: food
+  title: "6ヶ月でモーターが焼き切れるハンドミキサー3選（2026年要注意）"
+  description: "パワー不足のモーターは固い生地で過熱し、すぐに焼き切れる。これらのモデルは生クリームは大丈夫でもクッキー生地で一発アウト。"
+  link: "/ja/best-hand-mixer-2026"
+  image_alt: "買ってはいけないハンドミキサー2026 モーター焼き切れ"
+  hashtags: ["ハンドミキサー", "ベーキング注意", "キッチンのヒント", "ホームベーキング", "製菓道具"]
+
+- id: pin-best-hand-mixer-2026-ja-scene
+  article_slug: best-hand-mixer-2026
+  locale: ja
+  variant: scene
+  board: food
+  title: "3分でふわふわバタークリーム——正しいハンドミキサーなら簡単"
+  description: "生クリーム・ケーキバッター・クッキー生地——スタンドミキサーのカウタースペースなしですべてをこなせる良いハンドミキサー。2026年おすすめ。"
+  link: "/ja/best-hand-mixer-2026"
+  image_alt: "ハンドミキサー バタークリーム ベーキング キッチン2026"
+  hashtags: ["バタークリーム", "ハンドミキサー", "ベーキングレシピ", "ホームベーキング", "キッチン道具", "ベーキングのコツ"]
+
+- id: pin-best-weight-plates-2026-en-comparison
+  article_slug: best-weight-plates-2026
+  locale: en
+  variant: comparison
+  board: fitness
+  title: "Best Weight Plates 2026: Rogue vs REP Fitness vs CAP Barbell"
+  description: "We compared 5 top Olympic weight plates — here's how Rogue, REP Fitness, CAP, and bumper plate options compare on accuracy, durability, and value for home gym setups."
+  link: "/en/best-weight-plates-2026"
+  image_alt: "Best weight plates 2026 comparison Olympic barbell"
+  hashtags: ["weightplates", "olympicplates", "homegym", "Rogue", "REPFitness", "powerlifting"]
+
+- id: pin-best-weight-plates-2026-en-top1
+  article_slug: best-weight-plates-2026
+  locale: en
+  variant: top1
+  board: fitness
+  title: "Rogue Calibrated KG Plates: The Most Accurate Weight Plates for Home Gyms"
+  description: "±10g accuracy, laser-etched markings, smooth bore holes — Rogue Calibrated KG Steel Plates are what competition lifters and serious home gym builders choose when accuracy matters."
+  link: "/en/best-weight-plates-2026"
+  image_alt: "Rogue Calibrated KG plates review 2026"
+  hashtags: ["Rogue", "weightplates", "calibratedplates", "powerlifting", "homegym", "strengthgear"]
+
+- id: pin-best-weight-plates-2026-en-problem
+  article_slug: best-weight-plates-2026
+  locale: en
+  variant: problem
+  board: fitness
+  title: "Cheap Weight Plates Are Often 5–10% Under Weight — Here's Why It Matters"
+  description: "Off-spec plates throw off your program tracking and cause bar balance issues during lifts. Here's what to check before you buy a full plate set."
+  link: "/en/best-weight-plates-2026"
+  image_alt: "Weight plates accuracy spec home gym guide"
+  hashtags: ["weightplates", "homegym", "powerlifting", "strengthtraining", "gymgear", "barbelltraining"]
+
+- id: pin-best-weight-plates-2026-en-budget
+  article_slug: best-weight-plates-2026
+  locale: en
+  variant: budget
+  board: fitness
+  title: "Best Budget Weight Plates 2026: CAP Olympic Plates — The Practical Choice"
+  description: "CAP Olympic plates aren't competition-calibrated, but they're consistent enough for general strength training and available at a price that lets you buy a full starter set."
+  link: "/en/best-weight-plates-2026"
+  image_alt: "CAP Barbell Olympic plates budget home gym 2026"
+  hashtags: ["budgethomegym", "CAPBarbell", "weightplates", "affordablegym", "homegymsetup"]
+
+- id: pin-best-weight-plates-2026-en-avoid
+  article_slug: best-weight-plates-2026
+  locale: en
+  variant: avoid
+  board: fitness
+  title: "3 Weight Plate Sets to Avoid in 2026 (Rough Bores, Off-Weight)"
+  description: "Rough bore holes that damage your bar sleeves and plates 10% under labeled weight are consistent complaints with these sets. Don't build your program on bad data."
+  link: "/en/best-weight-plates-2026"
+  image_alt: "Weight plates to avoid 2026 off spec rough bore"
+  hashtags: ["weightplates", "homegym", "equipmentwarning", "gymgear", "powerlifting"]
+
+- id: pin-best-weight-plates-2026-en-scene
+  article_slug: best-weight-plates-2026
+  locale: en
+  variant: scene
+  board: fitness
+  title: "Build Your Barbell Setup Right — Start With the Best Plates"
+  description: "Cast iron for everyday lifting, bumpers for Olympic work — the plates you choose define your training for years. Our 2026 picks for every home gym budget."
+  link: "/en/best-weight-plates-2026"
+  image_alt: "Weight plates barbell home gym setup 2026"
+  hashtags: ["homegym", "weightplates", "barbelltraining", "homegymsetup", "powerlifting", "strengthgains"]
+
+- id: pin-best-weight-plates-2026-ja-comparison
+  article_slug: best-weight-plates-2026
+  locale: ja
+  variant: comparison
+  board: fitness
+  title: "バーベルプレート2026年比較：Rogue vs REP Fitness vs CAP Barbell"
+  description: "5種類のオリンピックウェイトプレートを徹底比較。精度・耐久性・ホームジムコスパでRogue、REP Fitness、CAP、バンパープレートを正直評価。"
+  link: "/ja/best-weight-plates-2026"
+  image_alt: "バーベルプレート2026年比較 オリンピックバー"
+  hashtags: ["バーベルプレート", "オリンピックプレート", "ホームジム", "Rogue", "REPFitness", "パワーリフティング"]
+
+- id: pin-best-weight-plates-2026-ja-top1
+  article_slug: best-weight-plates-2026
+  locale: ja
+  variant: top1
+  board: fitness
+  title: "Rogue キャリブレーテッドKGプレート：最も精度の高いホームジム用プレート"
+  description: "±10g精度・レーザーエッチングの重量表示・なめらかなボアホール——Rogue キャリブレーテッドKGプレートは競技リフターと本格ホームジムビルダーの選択。"
+  link: "/ja/best-weight-plates-2026"
+  image_alt: "Rogue キャリブレーテッドKGプレート レビュー2026"
+  hashtags: ["Rogue", "バーベルプレート", "キャリブレーテッドプレート", "パワーリフティング", "ホームジム", "筋力器具"]
+
+- id: pin-best-weight-plates-2026-ja-problem
+  article_slug: best-weight-plates-2026
+  locale: ja
+  variant: problem
+  board: fitness
+  title: "安いプレートは表示重量より5〜10%軽いことがある——なぜ重要か"
+  description: "規格外のプレートはプログラムの記録を狂わせ、リフト中のバランス問題を起こす。プレートセットを買う前に確認すべきことを解説。"
+  link: "/ja/best-weight-plates-2026"
+  image_alt: "バーベルプレート 精度 規格 ホームジムガイド"
+  hashtags: ["バーベルプレート", "ホームジム", "パワーリフティング", "筋力トレーニング", "ジム器具", "バーベルトレーニング"]
+
+- id: pin-best-weight-plates-2026-ja-budget
+  article_slug: best-weight-plates-2026
+  locale: ja
+  variant: budget
+  board: fitness
+  title: "コスパ最強バーベルプレート2026：CAP オリンピックプレートが実用的"
+  description: "CAPオリンピックプレートは競技用キャリブレーションではないが、一般的な筋力トレーニングには十分な精度——フルスターターセットが揃う価格で購入可能。"
+  link: "/ja/best-weight-plates-2026"
+  image_alt: "CAP Barbell オリンピックプレート コスパ ホームジム2026"
+  hashtags: ["コスパホームジム", "CAPBarbell", "バーベルプレート", "お手頃ジム器具", "ホームジム設備"]
+
+- id: pin-best-weight-plates-2026-ja-avoid
+  article_slug: best-weight-plates-2026
+  locale: ja
+  variant: avoid
+  board: fitness
+  title: "バースリーブを傷つけるプレート3選（2026年要注意）"
+  description: "ざらざらしたボアホールとラベルより10%少ない重量——これらのセットでよく報告される問題を正直にリスト。悪いデータでプログラムを組むのはやめよう。"
+  link: "/ja/best-weight-plates-2026"
+  image_alt: "買ってはいけないバーベルプレート2026 規格外 粗いボア"
+  hashtags: ["バーベルプレート", "ホームジム", "器具選びの注意", "ジム器具", "パワーリフティング"]
+
+- id: pin-best-weight-plates-2026-ja-scene
+  article_slug: best-weight-plates-2026
+  locale: ja
+  variant: scene
+  board: fitness
+  title: "正しいプレートからバーベル設備を作る——それが長年の違いを生む"
+  description: "日常のリフティングには鋳鉄プレート、オリンピック種目にはバンパー——選ぶプレートが何年ものトレーニングを左右する。2026年予算別おすすめ5選。"
+  link: "/ja/best-weight-plates-2026"
+  image_alt: "バーベルプレート ホームジム 設備構築 2026"
+  hashtags: ["ホームジム", "バーベルプレート", "バーベルトレーニング", "ホームジム設備", "パワーリフティング", "筋力アップ"]
