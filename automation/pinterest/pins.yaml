@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 194 articles x 6 variants x 2 locales (en, ja) = 2328 pins (growing)
+# 196 articles x 6 variants x 2 locales (en, ja) = 2352 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -26108,3 +26108,245 @@ pins:
   link: "/ja/best-dip-bar-2026"
   image_alt: "加重ディップス ディップベルト 漸進的過負荷 ホームジム トレーニング"
   hashtags: ["加重ディップス", "ディップベルト", "漸進的過負荷", "ホームジム", "筋力トレーニング"]
+
+# ── batch #200 best-french-press-2026 ───────────────────────────────────────
+- id: best-french-press-2026-en-comparison
+  locale: en
+  article_slug: best-french-press-2026
+  variant: comparison
+  title: "Best French Press 2026: Bodum Chambord vs Fellow Clara vs Espro P3 vs Frieling vs Mueller"
+  description: "French press comparison 2026 — filtration quality, heat retention, and which French press is worth paying more for. Sediment, double-wall insulation, and clean-cup options compared."
+  link: "/en/best-french-press-2026"
+  image_alt: "French press comparison Bodum Chambord Fellow Clara Espro P3 Frieling Mueller 2026"
+  hashtags: ["FrenchPress", "CoffeeBrewer", "SpecialtyCoffee", "CoffeeComparison", "MorningCoffee"]
+
+- id: best-french-press-2026-en-top1
+  locale: en
+  article_slug: best-french-press-2026
+  variant: top1
+  title: "Espro P3: Best Clean-Cup French Press 2026"
+  description: "Espro P3: patented double micro-filter dramatically reduces sediment. $60-80. Best clean-cup French press — dual micro-filter removes fines while retaining coffee oils. French press body without French press grit."
+  link: "/en/best-french-press-2026"
+  image_alt: "Espro P3 best clean cup French press 2026 double micro-filter"
+  hashtags: ["FrenchPress", "EsproP3", "SpecialtyCoffee", "CoffeeBrewer", "CleanCup"]
+
+- id: best-french-press-2026-en-problem
+  locale: en
+  article_slug: best-french-press-2026
+  variant: problem
+  title: "How to Reduce Sediment in French Press Coffee"
+  description: "Four approaches: (1) coarse grind — fewer fines pass any mesh filter. (2) Let brew rest 30 sec after pressing. (3) Upgrade to Espro P3 dual micro-filter. (4) Pour immediately after pressing — don't leave grounds in contact."
+  link: "/en/best-french-press-2026"
+  image_alt: "French press sediment reduction tips coarse grind Espro P3"
+  hashtags: ["FrenchPress", "CoffeeTips", "CoffeeBrewing", "SpecialtyCoffee", "Sediment"]
+
+- id: best-french-press-2026-en-budget
+  locale: en
+  article_slug: best-french-press-2026
+  variant: budget
+  title: "Best Budget French Press 2026: Bodum Chambord at $35-50"
+  description: "Bodum Chambord: $35-50. The reference French press — borosilicate glass, stainless frame, standard mesh plunger. Adequate for most households. Sediment expected. Brew and drink immediately for best results."
+  link: "/en/best-french-press-2026"
+  image_alt: "Bodum Chambord budget French press best value 2026"
+  hashtags: ["FrenchPress", "BodumChambord", "BudgetCoffee", "CoffeeBrewer", "BestValue"]
+
+- id: best-french-press-2026-en-avoid
+  locale: en
+  article_slug: best-french-press-2026
+  variant: avoid
+  title: "French Press Mistake: Leaving Coffee in the Carafe After Pressing"
+  description: "Don't leave brewed French press sitting in the carafe after pressing — grounds in contact with brew continue extracting and create more sediment as coffee cools. Pour everything out immediately after pressing."
+  link: "/en/best-french-press-2026"
+  image_alt: "French press mistake leaving coffee in carafe sediment over-extraction"
+  hashtags: ["FrenchPress", "CoffeeTips", "CoffeeMistakes", "BrewingTips", "MorningCoffee"]
+
+- id: best-french-press-2026-en-scene
+  locale: en
+  article_slug: best-french-press-2026
+  variant: scene
+  title: "Fellow Clara French Press: Hot Coffee for an Hour"
+  description: "Fellow Clara double-wall stainless keeps brew hot 45-60 minutes. $80-100. Premium design for counter display. Best for households where the pot sits while you work. Correct if you pour second cups 30+ min after brewing."
+  link: "/en/best-french-press-2026"
+  image_alt: "Fellow Clara French press double wall insulated hot coffee morning work"
+  hashtags: ["FrenchPress", "FellowClara", "CoffeeBrewer", "InsulatedCoffee", "MorningRoutine"]
+
+- id: best-french-press-2026-ja-comparison
+  locale: ja
+  article_slug: best-french-press-2026
+  variant: comparison
+  title: "フレンチプレス2026：Bodum Chambord vs Fellow Clara vs Espro P3 vs Frieling vs Mueller"
+  description: "フレンチプレス比較2026——フィルタリング品質・保温性・価格差が価値あるかどうか。沈殿物・二重壁断熱・クリーンカップオプションを徹底比較。"
+  link: "/ja/best-french-press-2026"
+  image_alt: "フレンチプレス比較 Bodum Chambord Fellow Clara Espro P3 Frieling Mueller 2026"
+  hashtags: ["フレンチプレス", "コーヒーメーカー", "スペシャルティコーヒー", "コーヒー比較", "朝コーヒー"]
+
+- id: best-french-press-2026-ja-top1
+  locale: ja
+  article_slug: best-french-press-2026
+  variant: top1
+  title: "Espro P3：最高のクリーンカップフレンチプレス2026"
+  description: "Espro P3：特許取得済みの二重マイクロフィルターが沈殿物を劇的に減少。8,000〜1万2千円。最高クリーンカップフレンチプレス——デュアルマイクロフィルターがコーヒー油を保持しながらファインズを除去。"
+  link: "/ja/best-french-press-2026"
+  image_alt: "Espro P3 クリーンカップ フレンチプレス 二重マイクロフィルター 2026"
+  hashtags: ["フレンチプレス", "EsproP3", "スペシャルティコーヒー", "コーヒーメーカー", "クリーンカップ"]
+
+- id: best-french-press-2026-ja-problem
+  locale: ja
+  article_slug: best-french-press-2026
+  variant: problem
+  title: "フレンチプレスコーヒーの沈殿物を減らす方法"
+  description: "4つのアプローチ：（1）粗挽き——より少ないファインズがどんなメッシュフィルターも通過。（2）プレス後30秒休ませてから注ぐ。（3）Espro P3デュアルマイクロフィルターにアップグレード。（4）プレス後すぐに注ぐ——コーヒー粉と接触させない。"
+  link: "/ja/best-french-press-2026"
+  image_alt: "フレンチプレス 沈殿物 減らす 粗挽き Espro P3 コツ"
+  hashtags: ["フレンチプレス", "コーヒーコツ", "コーヒー抽出", "スペシャルティコーヒー", "沈殿物"]
+
+- id: best-french-press-2026-ja-budget
+  locale: ja
+  article_slug: best-french-press-2026
+  variant: budget
+  title: "コスパ最高フレンチプレス2026：Bodum Chambord 4,500〜7,000円"
+  description: "Bodum Chambord：4,500〜7,000円。参照フレンチプレス——ホウケイ酸ガラス・ステンレスフレーム・標準メッシュプランジャー。ほとんどの家庭に十分。沈殿物は予想通り。抽出後すぐに飲む。"
+  link: "/ja/best-french-press-2026"
+  image_alt: "Bodum Chambord コスパ フレンチプレス 最高 2026"
+  hashtags: ["フレンチプレス", "BodumChambord", "コスパコーヒー", "コーヒーメーカー", "おすすめ"]
+
+- id: best-french-press-2026-ja-avoid
+  locale: ja
+  article_slug: best-french-press-2026
+  variant: avoid
+  title: "フレンチプレスの失敗：プレス後にコーヒーをカラフェに放置"
+  description: "プレス後にカラフェにコーヒーを残してはいけません——コーヒー粉と液体が接触したままだとコーヒーが冷えるにつれてより多くの沈殿物が生まれます。プレス後すぐにすべて注ぎ切ることが重要です。"
+  link: "/ja/best-french-press-2026"
+  image_alt: "フレンチプレス 失敗 カラフェ 放置 沈殿物 過剰抽出"
+  hashtags: ["フレンチプレス", "コーヒーコツ", "コーヒーミス", "抽出コツ", "朝コーヒー"]
+
+- id: best-french-press-2026-ja-scene
+  locale: ja
+  article_slug: best-french-press-2026
+  variant: scene
+  title: "Fellow Clara フレンチプレス：1時間熱いコーヒー"
+  description: "Fellow Claraの二重壁ステンレスが45〜60分間熱いままを保ちます。1万2千〜1万5千円。カウンター展示のプレミアムデザイン。コーヒーが放置される家庭に最適。抽出後30分以上経ってから2杯目を注ぐなら正しい選択。"
+  link: "/ja/best-french-press-2026"
+  image_alt: "Fellow Clara フレンチプレス 二重壁 断熱 1時間 熱い コーヒー"
+  hashtags: ["フレンチプレス", "FellowClara", "コーヒーメーカー", "断熱コーヒー", "朝のルーティン"]
+
+# ── batch #201 best-weight-bench-2026 ───────────────────────────────────────
+- id: best-weight-bench-2026-en-comparison
+  locale: en
+  article_slug: best-weight-bench-2026
+  variant: comparison
+  title: "Best Weight Benches 2026: REP AB-5000 vs Rogue Monster vs Flybird vs Fitness Reality vs Prime"
+  description: "Adjustable vs flat weight benches compared on stability at incline, pad quality, and weight capacity. Which weight bench is right for your home gym — budget or premium?"
+  link: "/en/best-weight-bench-2026"
+  image_alt: "Weight bench comparison REP AB-5000 Rogue Monster Flybird 2026"
+  hashtags: ["WeightBench", "HomeGym", "StrengthTraining", "DumbbellTraining", "GymEquipment"]
+
+- id: best-weight-bench-2026-en-top1
+  locale: en
+  article_slug: best-weight-bench-2026
+  variant: top1
+  title: "REP Fitness AB-5000: Best Adjustable Weight Bench 2026"
+  description: "REP AB-5000: 11-gauge steel, 7 back positions, 3-inch DuraFirm pad, 1000 lb capacity. $350-400. Best adjustable bench — stable through heavy incline sets with 80+ lb dumbbells. The threshold where wobble stops."
+  link: "/en/best-weight-bench-2026"
+  image_alt: "REP Fitness AB-5000 best adjustable weight bench 2026"
+  hashtags: ["WeightBench", "REPFitness", "HomeGym", "AdjustableBench", "StrengthTraining"]
+
+- id: best-weight-bench-2026-en-problem
+  locale: en
+  article_slug: best-weight-bench-2026
+  variant: problem
+  title: "Why Cheap Adjustable Benches Wobble Under Heavy Dumbbells"
+  description: "Budget adjustable benches use laddered pop-pin plunger systems with enough play that the back pad rocks forward under load. The play in adjustment joints translates directly to instability. REP AB-5000 solves this with tighter tolerance ladder mechanism."
+  link: "/en/best-weight-bench-2026"
+  image_alt: "Adjustable bench wobble problem heavy dumbbell incline press instability"
+  hashtags: ["WeightBench", "HomeGym", "AdjustableBench", "GymTips", "StrengthTraining"]
+
+- id: best-weight-bench-2026-en-budget
+  locale: en
+  article_slug: best-weight-bench-2026
+  variant: budget
+  title: "Budget Weight Bench 2026: Flybird Adjustable at $100-140"
+  description: "Flybird: folding design, 7 back positions, $100-140. Adequate for bodyweight and light dumbbells (under 50 lb per hand). Noticeable wobble at incline with heavier loads. Best entry point for new lifters starting out."
+  link: "/en/best-weight-bench-2026"
+  image_alt: "Flybird adjustable weight bench budget home gym 2026"
+  hashtags: ["WeightBench", "Flybird", "BudgetFitness", "HomeGym", "BeginnerLifting"]
+
+- id: best-weight-bench-2026-en-avoid
+  locale: en
+  article_slug: best-weight-bench-2026
+  variant: avoid
+  title: "When to Choose Flat Bench Over Adjustable Bench"
+  description: "If your training is 80% flat pressing with barbells, a flat bench (Rogue Monster Utility, $245-320) beats any adjustable bench in the same price range for stability. Don't pay for adjustment features you won't use."
+  link: "/en/best-weight-bench-2026"
+  image_alt: "Flat bench vs adjustable bench home gym decision guide 2026"
+  hashtags: ["WeightBench", "FlatBench", "HomeGym", "BarbellTraining", "GymTips"]
+
+- id: best-weight-bench-2026-en-scene
+  locale: en
+  article_slug: best-weight-bench-2026
+  variant: scene
+  title: "Incline Dumbbell Press: Why 30-45° Angle Builds Upper Chest"
+  description: "30-45° incline targets the clavicular head of the pectoralis major most effectively — upper chest. Steeper angles (60°+) shift to anterior deltoid. 45° on most adjustable benches is the standard starting point for incline pressing."
+  link: "/en/best-weight-bench-2026"
+  image_alt: "Incline dumbbell press 30-45 degree angle upper chest development home gym"
+  hashtags: ["InclinePress", "WeightBench", "HomeGym", "ChestWorkout", "StrengthTraining"]
+
+- id: best-weight-bench-2026-ja-comparison
+  locale: ja
+  article_slug: best-weight-bench-2026
+  variant: comparison
+  title: "ウェイトベンチ2026：REP AB-5000 vs Rogue Monster vs Flybird vs Fitness Reality vs Prime"
+  description: "調整可能vsフラットベンチ比較——傾斜時の安定性・パッド品質・耐荷重。あなたのホームジムに最適なウェイトベンチはどれか、予算からプレミアムまで比較。"
+  link: "/ja/best-weight-bench-2026"
+  image_alt: "ウェイトベンチ比較 REP AB-5000 Rogue Monster Flybird 2026"
+  hashtags: ["ウェイトベンチ", "ホームジム", "筋力トレーニング", "ダンベルトレーニング", "筋トレ器具"]
+
+- id: best-weight-bench-2026-ja-top1
+  locale: ja
+  article_slug: best-weight-bench-2026
+  variant: top1
+  title: "REP Fitness AB-5000：最高の調整可能ウェイトベンチ2026"
+  description: "REP AB-5000：11ゲージスチール・7バックポジション・3インチDuraFirmパッド・450kg耐荷重。5万〜6万円。最高の調整可能ベンチ——各手36kg以上のダンベルでの重いインクラインセットを通じて安定。"
+  link: "/ja/best-weight-bench-2026"
+  image_alt: "REP Fitness AB-5000 最高 調整可能 ウェイトベンチ 2026"
+  hashtags: ["ウェイトベンチ", "REPFitness", "ホームジム", "調整可能ベンチ", "筋力トレーニング"]
+
+- id: best-weight-bench-2026-ja-problem
+  locale: ja
+  article_slug: best-weight-bench-2026
+  variant: problem
+  title: "安いベンチが重いダンベルでぐらつく理由"
+  description: "予算の調整可能ベンチはラダーポップピン式プランジャーシステムを使用し、荷重下でバックパッドが前後に揺れます。調整ジョイントのたわみが不安定性に直結。REP AB-5000はより厳しい公差のラダー機構でこれを解決。"
+  link: "/ja/best-weight-bench-2026"
+  image_alt: "調整可能ベンチ ぐらつき 重い ダンベル インクライン 不安定 問題"
+  hashtags: ["ウェイトベンチ", "ホームジム", "調整可能ベンチ", "筋トレコツ", "筋力トレーニング"]
+
+- id: best-weight-bench-2026-ja-budget
+  locale: ja
+  article_slug: best-weight-bench-2026
+  variant: budget
+  title: "コスパ最高ウェイトベンチ2026：Flybird 1万5千〜2万円"
+  description: "Flybird：折りたたみ設計・7バックポジション・1万5千〜2万円。体重と軽いダンベル（各手23kg以下）に十分。重い荷重での傾斜で著しいぐらつき。新リフターの最高エントリーポイント。"
+  link: "/ja/best-weight-bench-2026"
+  image_alt: "Flybird 調整可能 ウェイトベンチ コスパ ホームジム 2026"
+  hashtags: ["ウェイトベンチ", "Flybird", "コスパフィットネス", "ホームジム", "ビギナー筋トレ"]
+
+- id: best-weight-bench-2026-ja-avoid
+  locale: ja
+  article_slug: best-weight-bench-2026
+  variant: avoid
+  title: "フラットベンチを選ぶべき時：調整可能ベンチが無駄になるケース"
+  description: "トレーニングの80%がバーベルフラットプレスなら、Rogue Monster Utility Bench（3万5千〜4万5千円）は同価格帯のどんな調整可能ベンチより安定性で勝ります。使わない調整機能にお金を払わないで。"
+  link: "/ja/best-weight-bench-2026"
+  image_alt: "フラットベンチ vs 調整可能ベンチ ホームジム 選び方 ガイド"
+  hashtags: ["ウェイトベンチ", "フラットベンチ", "ホームジム", "バーベルトレーニング", "筋トレコツ"]
+
+- id: best-weight-bench-2026-ja-scene
+  locale: ja
+  article_slug: best-weight-bench-2026
+  variant: scene
+  title: "インクラインダンベルプレス：30〜45°角度が上部胸を発達させる理由"
+  description: "30〜45°インクラインが大胸筋の鎖骨頭（上部胸）を最も効果的にターゲット。急な角度（60°以上）は前三角筋に移行。ほとんどの調整可能ベンチの45°がインクラインプレスの標準開始点。"
+  link: "/ja/best-weight-bench-2026"
+  image_alt: "インクライン ダンベルプレス 30-45度 上部胸 発達 ホームジム"
+  hashtags: ["インクラインプレス", "ウェイトベンチ", "ホームジム", "胸トレ", "筋力トレーニング"]
