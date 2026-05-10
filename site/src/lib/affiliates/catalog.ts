@@ -15199,6 +15199,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-century-wavemaster-sb", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCentury+Wavemaster+speed+bag%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Oolong Tea (food) ──────────────────────────────────────────────────
+  {
+    id: "alishan-high-mountain-oolong",
+    category: "food",
+    badge: "Best Light Oolong",
+    name: { en: "Ali Shan High Mountain Oolong", ja: "阿里山高山烏龍茶" },
+    description: { en: "Lightly oxidized Taiwan oolong from 1,200-1,600m elevation with orchid-floral aroma", ja: "台湾標高1,200〜1,600mで育つ軽酸化烏龍、蘭の花香" },
+    links: [
+      { network: "amazon-jp", productId: "B007CGRP0O", rawUrl: "https://www.amazon.co.jp/dp/B007CGRP0O", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-alishan-oolong", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%98%BF%E9%87%8C%E5%B1%B1+%E9%AB%98%E5%B1%B1%E7%83%8F%E9%BE%8D%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "da-hong-pao-wuyi-rock",
+    category: "food",
+    badge: "Best Rock Oolong",
+    name: { en: "Da Hong Pao Wuyi Rock Oolong", ja: "大紅袍 武夷岩茶" },
+    description: { en: "Famous mineral-forward heavily roasted rock oolong from Fujian's Wuyi mountains", ja: "福建省武夷山産のミネラル感ある重焙煎岩茶、中国十大名茶" },
+    links: [
+      { network: "amazon-jp", productId: "B008JCSCAI", rawUrl: "https://www.amazon.co.jp/dp/B008JCSCAI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-da-hong-pao", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%A7%E7%B4%85%E8%A2%8D%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dong-ding-oolong",
+    category: "food",
+    badge: "Best Medium Roast Oolong",
+    name: { en: "Dong Ding Oolong", ja: "凍頂烏龍茶" },
+    description: { en: "Classic Taiwanese medium-roast oolong from Nantou County with toasted grain and fruit notes", ja: "南投県産の台湾定番中焙烏龍、焙じ穀物とフルーティさのバランス" },
+    links: [
+      { network: "amazon-jp", productId: "B001EQ5Y7A", rawUrl: "https://www.amazon.co.jp/dp/B001EQ5Y7A", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-dong-ding-oolong", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%87%8D%E9%A0%82%E7%83%8F%E9%BE%8D%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "li-shan-high-mountain-oolong",
+    category: "food",
+    badge: "Best Premium Taiwan Oolong",
+    name: { en: "Li Shan High Mountain Oolong", ja: "梨山高山烏龍茶" },
+    description: { en: "Ultra-high elevation Taiwan oolong from 2,200-2,600m with intense floral complexity", ja: "台湾標高2,200〜2,600mの超高山烏龍、濃厚な花香複雑性" },
+    links: [
+      { network: "amazon-jp", productId: "B00AISNC7O", rawUrl: "https://www.amazon.co.jp/dp/B00AISNC7O", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-li-shan-oolong", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A2%A8%E5%B1%B1+%E9%AB%98%E5%B1%B1%E7%83%8F%E9%BE%8D%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tie-guan-yin-anxi",
+    category: "food",
+    badge: "Best Classic Chinese Oolong",
+    name: { en: "Tie Guan Yin Anxi", ja: "安渓 鉄観音" },
+    description: { en: "Classic lightly oxidized Anxi oolong with orchid and lily floral notes — one of China's ten famous teas", ja: "蘭・百合の花香を持つ安渓産軽酸化烏龍、中国十大名茶" },
+    links: [
+      { network: "amazon-jp", productId: "B001NNFHKC", rawUrl: "https://www.amazon.co.jp/dp/B001NNFHKC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tie-guan-yin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%89%84%E8%A6%B3%E9%9F%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Climbing Shoes (fitness) ──────────────────────────────────────────
+  {
+    id: "la-sportiva-tarantula",
+    category: "fitness",
+    badge: "Best for Beginners",
+    name: { en: "La Sportiva Tarantula", ja: "ラ・スポルティバ タランチュラ" },
+    description: { en: "Symmetric flat-last beginner climbing shoe with lace + strap closure, widely recommended", ja: "対称フラットラストの初心者クライミングシューズ、レース＋ストラップ、定番推薦品" },
+    links: [
+      { network: "amazon-jp", productId: "B00AEPE7IE", rawUrl: "https://www.amazon.co.jp/dp/B00AEPE7IE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-la-sportiva-tarantula", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLa+Sportiva+Tarantula%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "scarpa-instinct-vs",
+    category: "fitness",
+    badge: "Best Intermediate Shoe",
+    name: { en: "Scarpa Instinct VS", ja: "スカルパ インスティンクト VS" },
+    description: { en: "Slightly downturned intermediate climbing shoe with VS rubber and velcro closure", ja: "わずかなダウンターンのVSゴム採用中級クライミングシューズ、ベルクロ" },
+    links: [
+      { network: "amazon-jp", productId: "B003EWWHV8", rawUrl: "https://www.amazon.co.jp/dp/B003EWWHV8", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-scarpa-instinct-vs", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FScarpa+Instinct+VS%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "la-sportiva-solution",
+    category: "fitness",
+    badge: "Best Performance Shoe",
+    name: { en: "La Sportiva Solution", ja: "ラ・スポルティバ ソリューション" },
+    description: { en: "World Cup-level aggressively downturned boulder shoe with P3 system for maximum precision", ja: "ワールドカップ仕様のP3システム搭載攻撃的ダウンターンボルダリングシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B0030JMQBA", rawUrl: "https://www.amazon.co.jp/dp/B0030JMQBA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-la-sportiva-solution", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLa+Sportiva+Solution%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "black-diamond-momentum",
+    category: "fitness",
+    badge: "Best Gym Shoe",
+    name: { en: "Black Diamond Momentum", ja: "ブラックダイヤモンド モメンタム" },
+    description: { en: "Indoor gym-optimized climbing shoe with breathable synthetic upper and NeoFriction rubber", ja: "ジム専用設計の通気合成アッパー・NeoFrictionゴム採用クライミングシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B07CY6T2CL", rawUrl: "https://www.amazon.co.jp/dp/B07CY6T2CL", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-black-diamond-momentum", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBlack+Diamond+Momentum%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "five-ten-hiangle",
+    category: "fitness",
+    badge: "Best Slab Shoe",
+    name: { en: "Five Ten Hiangle", ja: "ファイブテン ハイアングル" },
+    description: { en: "Stealth C4 rubber slab-crushing shoe with slightly downturned profile for maximum friction", ja: "Stealth C4ゴム採用の最大摩擦スラブ専用シューズ、わずかなダウンターン" },
+    links: [
+      { network: "amazon-jp", productId: "B00JDHBFUS", rawUrl: "https://www.amazon.co.jp/dp/B00JDHBFUS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-five-ten-hiangle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFive+Ten+Hiangle%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
