@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 206 articles x 6 variants x 2 locales (en, ja) = 2472 pins (growing)
+# 208 articles x 6 variants x 2 locales (en, ja) = 2496 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -27560,3 +27560,245 @@ pins:
   link: "/ja/best-trap-bar-2026"
   image_alt: "トラップバートレーニング デッドリフト シュラッグ ファーマーズキャリー ホームジム 汎用性"
   hashtags: ["トラップバー", "ホームジム", "デッドリフトバリエーション", "トラップシュラッグ", "ファーマーズキャリー"]
+
+# ── best-turkish-coffee-maker-2026 ───────────────────────────────────────────
+- id: best-turkish-coffee-maker-2026-en-comparison
+  locale: en
+  variant: comparison
+  board: home_kitchen
+  title: "Turkish Coffee Makers 2026: Copper Cezve vs Stainless vs Arzum Okka Electric"
+  description: "Copper cezve ($15-35): traditional, beautiful, excellent heat conductivity, tin lining eventually needs re-coating. Stainless ($10-25): same brewing results, lower maintenance, no re-tinning required. Arzum Okka electric ($60-90): automates the stovetop process, preserves foam automatically. All methods require Turkish-fine grind (finer than espresso — approaching powder)."
+  link: "/en/best-turkish-coffee-maker-2026"
+  image_alt: "Turkish coffee maker comparison copper cezve stainless electric Arzum Okka 2026"
+  hashtags: ["TurkishCoffee", "Cezve", "Ibrik", "CoffeeGear", "HomeBarista"]
+
+- id: best-turkish-coffee-maker-2026-en-top1
+  locale: en
+  variant: top1
+  board: home_kitchen
+  title: "Copper Cezve: The Traditional Way to Make Turkish Coffee"
+  description: "A traditional copper cezve ($15-35) is the authentic way to brew Turkish coffee — copper heats evenly and quickly, the visual aesthetic is part of the ritual, and the tin-lined interior prevents any metallic reaction with the acidic coffee. For 1-2 cups at a time, a 1-cup size cezve is most controllable. Pre-ground Mehmet Efendi Turkish coffee is the easiest way to start."
+  link: "/en/best-turkish-coffee-maker-2026"
+  image_alt: "Copper cezve ibrik traditional Turkish coffee brewing ritual"
+  hashtags: ["CopperCezve", "TurkishCoffee", "Ibrik", "CoffeeTradition", "HomeBarista"]
+
+- id: best-turkish-coffee-maker-2026-en-problem
+  locale: en
+  variant: problem
+  board: home_kitchen
+  title: "Why Turkish Coffee Foam Disappears If You Boil It"
+  description: "Turkish coffee's foam is formed by coffee oils and fine particles rising as the liquid approaches boiling — but the foam collapses if you let it boil. Remove the cezve from heat the moment the foam begins to rise (around 90-95°C). Boiling also over-extracts and creates a harsh cup. The key: low heat, patience, watch constantly. Never walk away from a cezve on the stove."
+  link: "/en/best-turkish-coffee-maker-2026"
+  image_alt: "Turkish coffee foam technique cezve heat control no boiling"
+  hashtags: ["TurkishCoffee", "CoffeeFoam", "Cezve", "CoffeeTips", "BrewingTechnique"]
+
+- id: best-turkish-coffee-maker-2026-en-budget
+  locale: en
+  variant: budget
+  board: home_kitchen
+  title: "Turkish Coffee Starter Kit: Stainless Cezve + Mehmet Efendi for Under $40"
+  description: "The most accessible Turkish coffee setup: a stainless steel cezve ($10-25) plus Mehmet Efendi pre-ground Turkish coffee ($8-15 per 250g). Total cost under $40. Pre-ground Mehmet Efendi is already at the correct Turkish-fine grind — no grinder needed. Use within 1-2 weeks of opening for best foam. Stainless requires no re-tinning, dishwasher-safe."
+  link: "/en/best-turkish-coffee-maker-2026"
+  image_alt: "Turkish coffee starter kit stainless cezve Mehmet Efendi budget"
+  hashtags: ["TurkishCoffee", "CezveStarter", "MehmetEfendi", "BudgetCoffee", "AffordableCoffee"]
+
+- id: best-turkish-coffee-maker-2026-en-avoid
+  locale: en
+  variant: avoid
+  board: home_kitchen
+  title: "Don't Use a Regular Coffee Grinder for Turkish Coffee"
+  description: "Standard burr grinders — even ones with a 'fine' setting — cannot achieve Turkish grind fineness. Turkish coffee requires a powder-fine grind that's finer than espresso. A 'fine' espresso grind will result in weak, under-extracted Turkish coffee with no foam. Use pre-ground Turkish coffee (Mehmet Efendi) or a dedicated Turkish hand grinder like Zassenhaus that can reach the correct fineness."
+  link: "/en/best-turkish-coffee-maker-2026"
+  image_alt: "Turkish coffee grind size wrong grinder fineness powder fine requirement"
+  hashtags: ["TurkishCoffee", "CoffeeGrind", "TurkishGrind", "CoffeeTips", "GrinderMistake"]
+
+- id: best-turkish-coffee-maker-2026-en-scene
+  locale: en
+  variant: scene
+  board: home_kitchen
+  title: "Turkish Coffee Ritual: Cold Water, Fine Grounds, Low Heat, Patience"
+  description: "The Turkish coffee process: combine cold water and powder-fine grounds in cezve (add sugar if desired), place over lowest heat, watch as foam slowly rises, remove before boiling, spoon foam into cups, pour. Total time: 5-8 minutes. The ritual is intentionally slow — Turkish coffee is meant to be made with attention and shared in small cups."
+  link: "/en/best-turkish-coffee-maker-2026"
+  image_alt: "Turkish coffee ritual cezve slow brewing foam rising morning coffee"
+  hashtags: ["TurkishCoffee", "CoffeeRitual", "Cezve", "MorningCoffee", "CoffeeCulture"]
+
+- id: best-turkish-coffee-maker-2026-ja-comparison
+  locale: ja
+  variant: comparison
+  board: home_kitchen
+  title: "トルコ式コーヒーメーカー2026：銅チェズベ vs ステンレス vs Arzum Okka電気式比較"
+  description: "銅チェズベ（2,500〜5,000円）：伝統的で美しく、優れた熱伝導性、スズの内張りは最終的に再コーティングが必要。ステンレス（1,500〜3,500円）：同じ醸造結果・低メンテナンス・再スズメッキ不要。Arzum Okka電気式（8,000〜1万3千円）：コンロのプロセスを自動化・フォームを自動的に保持。すべての方法がトルコファイン挽き目（エスプレッソより細かく粉末に近い）を必要とします。"
+  link: "/ja/best-turkish-coffee-maker-2026"
+  image_alt: "トルコ式コーヒーメーカー 比較 銅チェズベ ステンレス 電気式 Arzum Okka 2026"
+  hashtags: ["トルココーヒー", "チェズベ", "イブリック", "コーヒー器具", "ホームバリスタ"]
+
+- id: best-turkish-coffee-maker-2026-ja-top1
+  locale: ja
+  variant: top1
+  board: home_kitchen
+  title: "銅チェズベ：伝統的なトルコ式コーヒーの淹れ方"
+  description: "伝統的な銅チェズベ（2,500〜5,000円）はトルコ式コーヒーを淹れる本格的な方法——銅は均一かつ素早く加熱し・視覚的な美観は儀式の一部・スズ内張りが酸性のコーヒーとの金属反応を防ぎます。1〜2カップの場合、1カップサイズのチェズベが最もコントロールしやすい。プレグランドのMehmet Efendiトルココーヒーが始めやすい。"
+  link: "/ja/best-turkish-coffee-maker-2026"
+  image_alt: "銅チェズベ イブリック 伝統的トルコ式コーヒー 醸造儀式"
+  hashtags: ["銅チェズベ", "トルココーヒー", "イブリック", "コーヒー伝統", "ホームバリスタ"]
+
+- id: best-turkish-coffee-maker-2026-ja-problem
+  locale: ja
+  variant: problem
+  board: home_kitchen
+  title: "沸騰させるとトルコ式コーヒーのフォームが消える理由"
+  description: "トルコ式コーヒーのフォームは液体が沸騰に近づくにつれてコーヒーオイルと微細な粒子が上昇することで形成されます——しかし沸騰させるとフォームが崩れます。フォームが上昇し始めた瞬間（約90〜95℃）にチェズベを火から離してください。沸騰は過剰抽出にもなり刺激的なカップを作ります。重要：低い熱・忍耐・常に見ること。コンロのチェズベから目を離さないこと。"
+  link: "/ja/best-turkish-coffee-maker-2026"
+  image_alt: "トルコ式コーヒー フォームテクニック チェズベ 熱コントロール 沸騰禁止"
+  hashtags: ["トルココーヒー", "コーヒーフォーム", "チェズベ", "コーヒーのコツ", "醸造テクニック"]
+
+- id: best-turkish-coffee-maker-2026-ja-budget
+  locale: ja
+  variant: budget
+  board: home_kitchen
+  title: "トルコ式コーヒースターターキット：ステンレスチェズベ+Mehmet Efendi 4千円以下"
+  description: "最もアクセシブルなトルコ式コーヒーセットアップ：ステンレスチェズベ（1,500〜3,500円）＋Mehmet Efendiプレグランドトルココーヒー（1,200〜2,200円/250g）。合計4千円以下。プレグランドのMehmet Efendiはすでに正しいトルコファイン挽き目——グラインダー不要。最良のフォームのために開封後1〜2週間以内に使用。ステンレスは再スズメッキ不要で食洗機対応。"
+  link: "/ja/best-turkish-coffee-maker-2026"
+  image_alt: "トルコ式コーヒースターターキット ステンレスチェズベ Mehmet Efendi 予算"
+  hashtags: ["トルココーヒー", "チェズベスターター", "MehmetEfendi", "コスパコーヒー", "お手頃コーヒー"]
+
+- id: best-turkish-coffee-maker-2026-ja-avoid
+  locale: ja
+  variant: avoid
+  board: home_kitchen
+  title: "普通のコーヒーグラインダーをトルコ式コーヒーに使わないこと"
+  description: "標準的なバーグラインダー——「ファイン」設定のものでさえ——トルコの挽き目の細かさを達成できません。トルコ式コーヒーはエスプレッソより細かい粉末ファインな挽き目が必要です。「ファイン」エスプレッソ挽き目はフォームのない薄い過少抽出のトルコ式コーヒーになります。Mehmet Efendiのプレグランドトルココーヒーを使用するか、正しい細かさに達成できるZassenhausのような専用トルコハンドグラインダーを使用してください。"
+  link: "/ja/best-turkish-coffee-maker-2026"
+  image_alt: "トルコ式コーヒー 挽き目サイズ 間違ったグラインダー 細かさ 粉末ファイン 必要"
+  hashtags: ["トルココーヒー", "コーヒー挽き目", "トルコ挽き目", "コーヒーのコツ", "グラインダーの失敗"]
+
+- id: best-turkish-coffee-maker-2026-ja-scene
+  locale: ja
+  variant: scene
+  board: home_kitchen
+  title: "トルコ式コーヒー儀式：冷水・細かい粉・低い熱・忍耐"
+  description: "トルコ式コーヒーのプロセス：冷水と粉末細かい粉をチェズベに合わせ（必要であれば砂糖を加える）・最低熱の上に置く・フォームがゆっくり上昇するのを見る・沸騰前に取り出す・カップにフォームをスプーンで取る・注ぐ。総時間：5〜8分。儀式は意図的にゆっくり——トルコ式コーヒーは注意を払って作り、小さなカップで分かち合うためのもの。"
+  link: "/ja/best-turkish-coffee-maker-2026"
+  image_alt: "トルコ式コーヒー儀式 チェズベ ゆっくり醸造 フォーム上昇 朝のコーヒー"
+  hashtags: ["トルココーヒー", "コーヒー儀式", "チェズベ", "朝のコーヒー", "コーヒー文化"]
+
+# ── best-assault-bike-2026 ───────────────────────────────────────────────────
+- id: best-assault-bike-2026-en-comparison
+  locale: en
+  variant: comparison
+  board: fitness
+  title: "Assault Bike 2026: Assault Classic vs Rogue Echo vs Concept2 BikeErg vs Schwinn"
+  description: "Assault AirBike Classic ($700-800): reference CrossFit bike, moving handles, loud. Rogue Echo Bike ($700-800): belt drive, heavier and more stable. Concept2 BikeErg ($1,100-1,200): chain drive, no moving handles, quietest, best display. Schwinn Airdyne Pro ($500-600): commercial quality at lower price. All resistance scales automatically with effort — no preset levels."
+  link: "/en/best-assault-bike-2026"
+  image_alt: "Assault bike comparison Assault Classic Rogue Echo Concept2 Schwinn air bike 2026"
+  hashtags: ["AssaultBike", "AirBike", "HomeGym", "HIIT", "CrossFit"]
+
+- id: best-assault-bike-2026-en-top1
+  locale: en
+  variant: top1
+  board: fitness
+  title: "Rogue Echo Bike: Best Assault Bike for Home Gyms"
+  description: "The Rogue Echo Bike ($700-800) is the best home gym choice — belt drive instead of chain reduces maintenance, 127 lb construction is more stable than the Assault Classic at high RPM, and Rogue's frame quality is superior. Slightly quieter than the Assault Classic. The belt drive and Rogue construction mean this bike handles years of daily home gym use without issue."
+  link: "/en/best-assault-bike-2026"
+  image_alt: "Rogue Echo Bike best assault bike home gym belt drive stable"
+  hashtags: ["RogueEchoBike", "AssaultBike", "HomeGym", "HIIT", "AirBike"]
+
+- id: best-assault-bike-2026-en-problem
+  locale: en
+  variant: problem
+  board: fitness
+  title: "Why Assault Bike Intervals Feel So Much Harder Than Regular Cardio"
+  description: "Fan resistance scales with the cube of velocity — doubling your pedaling speed creates 8x the resistance. Plus, moving handles engage the chest, back, shoulders, arms, and legs simultaneously. The result: assault bike intervals recruit a much larger proportion of total muscle mass than any lower-body-only cardio. A 20-second all-out assault bike sprint engages more muscle and produces higher metabolic demand than most other 20-second cardio efforts."
+  link: "/en/best-assault-bike-2026"
+  image_alt: "Assault bike HIIT harder than regular cardio fan resistance full body"
+  hashtags: ["AssaultBike", "HIIT", "AirBikeWorkout", "FanResistance", "CardioTraining"]
+
+- id: best-assault-bike-2026-en-budget
+  locale: en
+  variant: budget
+  board: fitness
+  title: "Schwinn Airdyne Pro: Commercial Quality Assault Bike for $500-600"
+  description: "The Schwinn Airdyne Pro ($500-600) bridges the gap between budget and commercial assault bikes — commercial-grade bearings, robust frame construction, good calorie and RPM display. At $100-200 less than the Rogue Echo or Assault Classic, it's the correct choice for home gym athletes who want commercial durability without the full commercial price."
+  link: "/en/best-assault-bike-2026"
+  image_alt: "Schwinn Airdyne Pro commercial quality assault bike budget value"
+  hashtags: ["SchwinAirdynePro", "AssaultBike", "HomeGym", "BudgetGym", "AirBike"]
+
+- id: best-assault-bike-2026-en-avoid
+  locale: en
+  variant: avoid
+  board: fitness
+  title: "Check All Bolts Monthly — Assault Bikes Loosen With High-RPM Use"
+  description: "The most common assault bike maintenance failure is loose bolts — the vibration from high-RPM fan operation causes pedal bolts, handle bolts, and crank bolts to gradually loosen. A monthly bolt check takes 5 minutes and prevents the majority of mechanical issues. Particularly important: pedal bolts (loosen fastest), handlebar connection bolts, and seat post bolts. Don't wait for something to feel wobbly before checking."
+  link: "/en/best-assault-bike-2026"
+  image_alt: "Assault bike maintenance loose bolts monthly check pedal handlebar"
+  hashtags: ["AssaultBike", "GymMaintenance", "AirBike", "Bikecare", "HomeGymTips"]
+
+- id: best-assault-bike-2026-en-scene
+  locale: en
+  variant: scene
+  board: fitness
+  title: "Assault Bike Tabata: 4 Minutes That Will Absolutely Destroy You"
+  description: "The Tabata assault bike protocol: 20 seconds max effort, 10 seconds rest, 8 rounds (4 minutes total). If round 8 doesn't feel as hard as round 1, you held back too much. All-out means every muscle working — arms pushing and pulling, legs driving through the pedals, full-body output. This 4-minute protocol produces more metabolic stress than most 30-minute steady-state cardio sessions."
+  link: "/en/best-assault-bike-2026"
+  image_alt: "Assault bike Tabata protocol 4 minutes max effort HIIT conditioning"
+  hashtags: ["AssaultBike", "TabataWorkout", "HIIT", "AirBikeWorkout", "ConditioningWorkout"]
+
+- id: best-assault-bike-2026-ja-comparison
+  locale: ja
+  variant: comparison
+  board: fitness
+  title: "アサルトバイク2026：Assault Classic vs Rogue Echo vs Concept2 BikeErg vs Schwinn比較"
+  description: "Assault AirBikeクラシック（10万〜12万円）：CrossFireの基準バイク・動くハンドル・音がする。Rogue Echo Bike（10万〜12万円）：ベルトドライブ・重くより安定。Concept2 BikeErg（16万〜18万円）：チェーンドライブ・動くハンドルなし・最も静か・最高のディスプレイ。Schwinn Airdyne Pro（7万5千〜9万円）：低い価格で商業品質。すべての抵抗が努力に応じて自動スケール——プリセットレベルなし。"
+  link: "/ja/best-assault-bike-2026"
+  image_alt: "アサルトバイク 比較 Assault Classic Rogue Echo Concept2 Schwinn エアバイク 2026"
+  hashtags: ["アサルトバイク", "エアバイク", "ホームジム", "HIIT", "CrossFit"]
+
+- id: best-assault-bike-2026-ja-top1
+  locale: ja
+  variant: top1
+  board: fitness
+  title: "Rogue Echo Bike：ホームジムの最高アサルトバイク"
+  description: "Rogue Echo Bike（10万〜12万円）はホームジムの最良の選択——チェーンではなくベルトドライブがメンテナンスを減少・57kgの構造が高RPMでAssault Classicより安定・Rogueのフレーム品質が優れています。Assault Classicよりわずかに静か。ベルトドライブとRogueの構造は、このバイクが問題なく数年の毎日のホームジム使用に耐えることを意味します。"
+  link: "/ja/best-assault-bike-2026"
+  image_alt: "Rogue Echo Bike 最高 アサルトバイク ホームジム ベルトドライブ 安定"
+  hashtags: ["RogueEchoBike", "アサルトバイク", "ホームジム", "HIIT", "エアバイク"]
+
+- id: best-assault-bike-2026-ja-problem
+  locale: ja
+  variant: problem
+  board: fitness
+  title: "アサルトバイクインターバルが普通の有酸素よりはるかにハードな理由"
+  description: "ファン抵抗は速度の3乗でスケール——ペダリング速度を2倍にすると8倍の抵抗が生まれます。さらに、動くハンドルが胸・背中・肩・腕・足を同時にエンゲージ。結果：アサルトバイクインターバルはどの下半身のみの有酸素よりも総筋肉量のはるかに大きな割合を動員します。20秒全力アサルトバイクスプリントは、ほとんどの他の20秒有酸素努力より多くの筋肉をエンゲージし高い代謝需要を生産します。"
+  link: "/ja/best-assault-bike-2026"
+  image_alt: "アサルトバイク HIIT 普通の有酸素より難しい ファン抵抗 全身"
+  hashtags: ["アサルトバイク", "HIIT", "エアバイクワークアウト", "ファン抵抗", "有酸素トレーニング"]
+
+- id: best-assault-bike-2026-ja-budget
+  locale: ja
+  variant: budget
+  board: fitness
+  title: "Schwinn Airdyne Pro：7万5千〜9万円で商業品質アサルトバイク"
+  description: "Schwinn Airdyne Pro（7万5千〜9万円）は予算と商業アサルトバイクの中間——商業グレードのベアリング・堅牢なフレーム構造・良いカロリーとRPMディスプレイ。Rogue EchoまたはAssault Classicより1万5千〜3万円安く、完全な商業価格なしに商業的な耐久性を望むホームジムアスリートに正しい選択です。"
+  link: "/ja/best-assault-bike-2026"
+  image_alt: "Schwinn Airdyne Pro 商業品質 アサルトバイク 予算 コスパ"
+  hashtags: ["SchwinAirdynePro", "アサルトバイク", "ホームジム", "コスパ筋トレ", "エアバイク"]
+
+- id: best-assault-bike-2026-ja-avoid
+  locale: ja
+  variant: avoid
+  board: fitness
+  title: "毎月すべてのボルトを確認——アサルトバイクは高RPM使用で緩みます"
+  description: "最も一般的なアサルトバイクのメンテナンス失敗は緩んだボルト——高RPMファン操作からの振動がペダルボルト・ハンドルボルト・クランクボルトを徐々に緩ませます。月次のボルト確認は5分かかり、ほとんどの機械的問題を防ぎます。特に重要：ペダルボルト（最も速く緩む）・ハンドルバー接続ボルト・シートポストボルト。何かがぐらつくと感じる前に確認するのを待たないこと。"
+  link: "/ja/best-assault-bike-2026"
+  image_alt: "アサルトバイク メンテナンス 緩んだボルト 月次確認 ペダル ハンドルバー"
+  hashtags: ["アサルトバイク", "ジムメンテナンス", "エアバイク", "バイクケア", "ホームジムのコツ"]
+
+- id: best-assault-bike-2026-ja-scene
+  locale: ja
+  variant: scene
+  board: fitness
+  title: "アサルトバイクタバタ：あなたを完全に破壊する4分間"
+  description: "タバタアサルトバイクプロトコル：20秒最大努力・10秒休息・8ラウンド（合計4分）。ラウンド8がラウンド1と同じくらいハードに感じなければ、控えすぎています。全力とはすべての筋肉が働くことを意味します——腕が押し引き・足がペダルを踏み・全身アウトプット。この4分間のプロトコルはほとんどの30分ステディステート有酸素セッションより多くの代謝ストレスを生産します。"
+  link: "/ja/best-assault-bike-2026"
+  image_alt: "アサルトバイク タバタプロトコル 4分 最大努力 HIIT コンディショニング"
+  hashtags: ["アサルトバイク", "タバタワークアウト", "HIIT", "エアバイクワークアウト", "コンディショニングワークアウト"]
