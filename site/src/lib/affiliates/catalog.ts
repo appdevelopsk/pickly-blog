@@ -12313,6 +12313,146 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-wod-nation-band", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E8%A3%9C%E5%8A%A9%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "nordic-ware-baking-sheet",
+    category: "food",
+    badge: "🍪",
+    name: { en: "Nordic Ware Natural Aluminum Half Sheet", ja: "Nordic Ware 天然アルミニウム ハーフシート" },
+    description: {
+      en: "~$15-20. Heavy-gauge pure aluminum, 18x13 inch, uncoated. Best browning and long-term durability. Used in professional bakeries. Not nonstick — use with parchment.",
+      ja: "約1,500〜2,500円。重ゲージ純アルミニウム、46×33cm、無コーティング。最高の焼き色と長期耐久性。プロのベーカリーで使用。ノンスティックではない——クッキングシートと一緒に使用。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0049C2S32", rawUrl: "https://www.amazon.co.jp/dp/B0049C2S32", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nordic-ware-baking", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%83%9F%E5%A4%A9%E6%9D%BF%E3%83%8F%E3%83%BC%E3%83%95%E3%82%B7%E3%83%BC%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "usa-pan-half-sheet",
+    category: "food",
+    badge: "🍪",
+    name: { en: "USA Pan Half Sheet Baking Pan", ja: "USA Pan ハーフシート ベーキングパン" },
+    description: {
+      en: "~$20-30. Aluminized steel with corrugated base, silicone coating rated to 450°F. Best warp resistance — corrugation adds structural rigidity. Slight texture effect on flat cookies.",
+      ja: "約2,500〜4,000円。波打ち底のアルミナイズドスチール、230℃対応シリコンコーティング。最高のそり耐性——波打ち加工が構造的剛性を追加。平らなクッキーへのわずかなテクスチャー効果。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BBDVR8G", rawUrl: "https://www.amazon.co.jp/dp/B00BBDVR8G", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-usa-pan", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUSA%E5%A4%A9%E6%9D%BF%E3%83%99%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wilton-baking-sheet",
+    category: "food",
+    badge: "🍪",
+    name: { en: "Wilton Nonstick Half Sheet Baking Pan", ja: "Wilton ノンスティック ハーフシート ベーキングパン" },
+    description: {
+      en: "~$10-15. Mid-gauge steel with PTFE nonstick. Most common budget nonstick option. PTFE degrades above 500°F. Replace every 2-3 years.",
+      ja: "約1,000〜2,000円。PTFEノンスティック付き中ゲージスチール。最も一般的な予算ノンスティックオプション。PTFEは260℃以上で劣化。2〜3年ごとに交換。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000JM0EAW", rawUrl: "https://www.amazon.co.jp/dp/B000JM0EAW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wilton-baking", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%B3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E5%A4%A9%E6%9D%BF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oxo-good-grips-baking-sheet",
+    category: "food",
+    badge: "🍪",
+    name: { en: "OXO Good Grips Nonstick Half Sheet Baking Pan", ja: "OXO Good Grips ノンスティック ハーフシート ベーキングパン" },
+    description: {
+      en: "~$20-30. Heavier gauge than Wilton, durable nonstick coating, rolled handles. Best premium nonstick option — more durable coating and better grip than Wilton.",
+      ja: "約2,500〜4,000円。Wiltonより重いゲージ、耐久性のあるノンスティックコーティング、巻かれたハンドル。最高のプレミアムノンスティックオプション——Wiltonより耐久性のあるコーティングとより良いグリップ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00004OCMS", rawUrl: "https://www.amazon.co.jp/dp/B00004OCMS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-oxo-baking", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%E5%A4%A9%E6%9D%BF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "chicago-metallic-baking-sheet",
+    category: "food",
+    badge: "🍪",
+    name: { en: "Chicago Metallic Commercial II Half Sheet", ja: "Chicago Metallic 商業グレード ハーフシート" },
+    description: {
+      en: "~$20-35. Heavy-gauge aluminized steel, uncoated, commercial grade. Professional bakery standard — uncoated surface for maximum browning, structural rigidity of aluminized steel.",
+      ja: "約2,500〜4,500円。重ゲージアルミナイズドスチール、無コーティング、商業グレード。プロのベーカリー標準——最大の焼き色のための無コーティング表面、アルミナイズドスチールの構造的剛性。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00DQ3O6Q6", rawUrl: "https://www.amazon.co.jp/dp/B00DQ3O6Q6", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-chicago-metallic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%BA%E3%83%89%E5%A4%A9%E6%9D%BF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ironmind-captains-of-crush-gripper",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "IronMind Captains of Crush Gripper", ja: "IronMind Captains of Crush グリッパー" },
+    description: {
+      en: "~$20-30 per gripper. Machined aluminum and spring, #1=140 lb, #2=195 lb, #3=280 lb. The standard in competitive grip sports. Best for crush grip development and progressive overload.",
+      ja: "約2,500〜4,000円/本。機械加工アルミニウムとばね、#1=63kg、#2=88kg、#3=127kg。競技グリップスポーツの基準。クラッシュグリップ発達と漸進的過負荷に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00295MQRY", rawUrl: "https://www.amazon.co.jp/dp/B00295MQRY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-coc-gripper", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%B3%E3%83%89%E3%82%B0%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E5%BC%B7%E5%8C%96%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fat-gripz-barbell-attachment",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Fat Gripz Barbell Attachment", ja: "Fat Gripz バーベルアタッチメント" },
+    description: {
+      en: "~$35-45. Rubber sleeve, 2-inch diameter, fits standard barbells/dumbbells/pull-up bars. Best for integrating grip training into existing workouts — trains grip with compound movements.",
+      ja: "約4,500〜6,000円。ゴムスリーブ、50mm直径、標準バーベル/ダンベル/懸垂バー対応。既存のワークアウトへのグリップトレーニング統合に最適——コンパウンド動作と同時にグリップを鍛える。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B002LRWWDW", rawUrl: "https://www.amazon.co.jp/dp/B002LRWWDW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fat-gripz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%AA%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harbinger-wrist-roller",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Harbinger Wrist Roller", ja: "Harbinger リストローラー" },
+    description: {
+      en: "~$15-25. Wooden dowel with rope and weight plate attachment. Best for forearm flexor and extensor development. Most effective forearm-specific tool per dollar.",
+      ja: "約2,000〜3,500円。ロープと重量プレート取付付き木製棒。前腕屈筋と伸筋発達に最適。価格あたり最も効果的な前腕特化ツール。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000VLKTZA", rawUrl: "https://www.amazon.co.jp/dp/B000VLKTZA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wrist-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AA%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E5%89%8D%E8%85%95%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "metolius-grip-saver-plus",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Metolius Grip Saver Plus", ja: "Metolius グリップセーバープラス" },
+    description: {
+      en: "~$15-20. Rubber ring for finger closure training. Best for climbers — strengthens antagonist muscles to prevent climber's elbow. Less relevant for non-climbers.",
+      ja: "約2,000〜3,000円。指の閉じるトレーニング用ゴムリング。クライマーに最適——クライマーズエルボーを防ぐために拮抗筋を強化。非クライマーには関連性が低い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0009PPPEG", rawUrl: "https://www.amazon.co.jp/dp/B0009PPPEG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-metolius-grip", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "grip4force-grip-trainer",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Grip4Force Grip Trainer Pull-Up Bar Attachment", ja: "Grip4Force グリップトレーナー 懸垂バーアタッチメント" },
+    description: {
+      en: "~$30-40. Thick rubber pull-up bar attachment, 2.25-inch grip diameter. Best for pull-up-centric grip training. Similar function to Fat Gripz but specific to pull-up bars.",
+      ja: "約4,000〜5,500円。太いゴム製懸垂バーアタッチメント、57mm直径。懸垂中心のグリップトレーニングに最適。Fat Gripzと同様の機能だが懸垂バーに特化。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00I29FIPA", rawUrl: "https://www.amazon.co.jp/dp/B00I29FIPA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-grip4force", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%AA%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
