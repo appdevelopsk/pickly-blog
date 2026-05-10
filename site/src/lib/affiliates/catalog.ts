@@ -12593,6 +12593,146 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-cerberus-sandbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%AB%B6%E6%8A%80%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "aeropress-original",
+    category: "food",
+    badge: "☕",
+    name: { en: "AeroPress Original Coffee Maker", ja: "AeroPress オリジナル コーヒーメーカー" },
+    description: {
+      en: "~$35-45. Polypropylene, 1-3 cup capacity, 350 paper filters included. The baseline correct choice for single-serve specialty coffee. Durable, produces excellent coffee across recipes.",
+      ja: "約4,500〜6,000円。ポリプロピレン、1プレスあたり1〜3カップ、紙フィルター350枚付属。1人分スペシャルティコーヒーの基準として正しい選択。耐久性があり複数レシピで優れたコーヒーを生成。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0047BIWSK", rawUrl: "https://www.amazon.co.jp/dp/B0047BIWSK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-aeropress-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "aeropress-go-portable",
+    category: "food",
+    badge: "☕",
+    name: { en: "AeroPress Go Portable Coffee Maker", ja: "AeroPress Go ポータブル コーヒーメーカー" },
+    description: {
+      en: "~$35-45. Compact version, stores in included mug, 1-2 cup capacity. Same price as Original — correct choice for travel and portability as primary use case.",
+      ja: "約4,500〜6,000円。コンパクト版、付属マグカップに収納、1〜2カップ容量。Originalと同じ価格——旅行とポータビリティが主な用途に正しい選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07YVL8SF3", rawUrl: "https://www.amazon.co.jp/dp/B07YVL8SF3", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-aeropress-go", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9GO%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "aeropress-clear",
+    category: "food",
+    badge: "☕",
+    name: { en: "AeroPress Clear Coffee Maker", ja: "AeroPress クリア コーヒーメーカー" },
+    description: {
+      en: "~$40-50. Clear Tritan plastic, same size and capacity as Original. Identical brewing performance — visual transparency for recipe development. Slightly more expensive than Original.",
+      ja: "約5,000〜7,000円。クリアなTritan製プラスチック、Originalと同じサイズと容量。醸造パフォーマンスは同一——レシピ開発のための視覚的透明性。Originalよりわずかに高い価格。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0BS1GJ9N7", rawUrl: "https://www.amazon.co.jp/dp/B0BS1GJ9N7", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-aeropress-clear", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A2%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "aeropress-xl",
+    category: "food",
+    badge: "☕",
+    name: { en: "AeroPress XL Coffee Maker", ja: "AeroPress XL コーヒーメーカー" },
+    description: {
+      en: "~$55-65. Larger cylinder, 2-3 cup capacity per press (500 ml). Best for 2-person households — solves Original's single-serve limitation. Same brewing mechanism, more volume.",
+      ja: "約7,000〜9,000円。大きなシリンダー、1プレスあたり2〜3カップ容量（500ml）。2人世帯に最適——Originalの1人分制限を解消。同じ醸造メカニズム、より多くの量。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0C5QDKNVJ", rawUrl: "https://www.amazon.co.jp/dp/B0C5QDKNVJ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-aeropress-xl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9XL%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fellow-prismo-aeropress-attachment",
+    category: "food",
+    badge: "☕",
+    name: { en: "Fellow Prismo AeroPress Attachment", ja: "Fellow Prismo エアロプレス アタッチメント" },
+    description: {
+      en: "~$25-35. Replacement filter cap with pressure valve and metal filter for AeroPress. Eliminates inverted method, allows oils through for fuller body. Requires AeroPress Original or Go.",
+      ja: "約3,500〜5,000円。AeroPress用の圧力バルブとメタルフィルター付き交換フィルターキャップ。逆さまメソッドを排除し、油を通過させてより豊かなボディに。AeroPress OriginalまたはGoが必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07SXLMCJ5", rawUrl: "https://www.amazon.co.jp/dp/B07SXLMCJ5", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fellow-prismo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFellow+Prismo%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ultimate-body-press-dip-bar",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Ultimate Body Press Dip Bar", ja: "Ultimate Body Press ディップバー" },
+    description: {
+      en: "~$80-120. Four-leg freestanding, adjustable handle width (18-24 inches), 300 lb capacity, non-slip rubber feet. Best freestanding option — stable four-point base prevents sliding.",
+      ja: "約1万2千〜1万8千円。4本脚フリースタンディング、調整可能ハンドル幅（45〜60cm）、136kg耐荷重、滑り止めゴム足。最高のフリースタンディングオプション——安定した4点ベースで滑りを防止。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B005YRXZ5K", rawUrl: "https://www.amazon.co.jp/dp/B005YRXZ5K", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-dip-bar-freestanding", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-dip-bar",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "REP Fitness Dip Bar", ja: "REP Fitness ディップバー" },
+    description: {
+      en: "~$120-160. Heavy-gauge 11-gauge steel, knurled handles, fixed 22-inch width. Best freestanding dip bar overall — knurled handles improve grip, heavier construction reduces flex under load.",
+      ja: "約1万5千〜2万2千円。重ゲージ11ゲージスチール、ナーリング付きハンドル、固定22インチ幅。全体として最高のフリースタンディングディップバー——ナーリングがグリップを向上、重い構造で荷重下のたわみを減少。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08SFJQXWH", rawUrl: "https://www.amazon.co.jp/dp/B08SFJQXWH", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-dip-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%8A%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-matador-dip-attachment",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Rogue Matador Dip Attachment", ja: "Rogue Matador ディップアタッチメント" },
+    description: {
+      en: "~$80-100. Rack attachment (Rogue compatible), multiple height positions, 1.25-inch knurled bars. Best for power rack owners — zero wobble under maximum load. Requires compatible Rogue rack.",
+      ja: "約1万2千〜1万6千円。ラックアタッチメント（Rogue互換）、複数高さポジション、1.25インチナーリングバー。パワーラックオーナーに最適——最大荷重でゼロのぐらつき。互換性のあるRogueラックが必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B086W6YH82", rawUrl: "https://www.amazon.co.jp/dp/B086W6YH82", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-matador", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cap-barbell-dip-bar",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "CAP Barbell Dip Bar Stand", ja: "CAP Barbell ディップバースタンド" },
+    description: {
+      en: "~$40-70. Budget freestanding, V-leg base, 300 lb capacity. Best entry-level option for bodyweight dips on carpet. Adequate for beginners; noticeable flex under loaded dips.",
+      ja: "約6,000〜10,000円。予算フリースタンディング、Vレッグベース、136kg耐荷重。カーペット上の体重ディップスへの最高エントリーレベルオプション。ビギナーに十分；加重ディップスで顕著なたわみ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001B1BDR8", rawUrl: "https://www.amazon.co.jp/dp/B001B1BDR8", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cap-dip-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "valor-fitness-bd-62-dip-bar",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Valor Fitness BD-62 Dip Bar", ja: "Valor Fitness BD-62 ディップバー" },
+    description: {
+      en: "~$80-110. Adjustable height (4 positions), welded steel, rubber end caps. Best for versatile bodyweight training — height adjustment enables L-sits, push-up variations, and more.",
+      ja: "約1万2千〜1万6千円。調整可能高さ（4ポジション）、溶接スチール、ゴム端キャップ。汎用体重トレーニングに最適——高さ調整がLシット・プッシュアップバリエーション・その他の動作を可能に。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000BM2YUK", rawUrl: "https://www.amazon.co.jp/dp/B000BM2YUK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-valor-dip-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%AA%BF%E6%95%B4%E5%BC%8F%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
