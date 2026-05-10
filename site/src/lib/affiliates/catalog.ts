@@ -14011,6 +14011,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-marcy-leg-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMarcy+%E3%83%AC%E3%83%83%E3%82%B0%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Coffee Scale ☕ ───────────────────────────────────────────────────
+  {
+    id: "acaia-pearl-coffee-scale",
+    category: "food",
+    badge: "最高基準",
+    name: { en: "Acaia Pearl Coffee Scale", ja: "Acaia Pearl コーヒースケール" },
+    description: {
+      en: "0.1g resolution, 300ms response, Bluetooth app connectivity, rechargeable, available in Pearl and Pearl S sizes. The reference coffee scale for serious home brewers.",
+      ja: "0.1g分解能、300msレスポンス、Bluetoothアプリ接続、充電式、PearlとPearl Sの2サイズ。本格的なホームブリュワー向けの基準コーヒースケール。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01D8VJJGE", rawUrl: "https://www.amazon.co.jp/dp/B01D8VJJGE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-acaia-pearl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAcaia+Pearl+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "timemore-black-mirror-scale",
+    category: "food",
+    badge: "ベストバリュー",
+    name: { en: "Timemore Black Mirror Basic+ Coffee Scale", ja: "Timemore Black Mirror Basic+ コーヒースケール" },
+    description: {
+      en: "0.1g resolution, 500ms response, built-in timer, AA batteries. Best value dedicated coffee scale — all essential features at budget-friendly price.",
+      ja: "0.1g分解能、500msレスポンス、内蔵タイマー、AAバッテリー。最高コストパフォーマンスの専用コーヒースケール——手頃な価格ですべての基本機能。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08TIMEMR", rawUrl: "https://www.amazon.co.jp/dp/B08TIMEMR", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-timemore-black-mirror", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTimemore+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hario-v60-drip-scale",
+    category: "food",
+    badge: "V60コンパニオン",
+    name: { en: "Hario V60 Drip Scale", ja: "Hario V60 ドリップスケール" },
+    description: {
+      en: "0.1g resolution, 1 second response, AA batteries, 80-hour battery life, designed for V60 ecosystem. Simple one-button timer operation.",
+      ja: "0.1g分解能、1秒レスポンス、AAバッテリー、80時間バッテリー寿命、V60エコシステム向け設計。シンプルなワンボタンタイマー操作。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B009GPJMOU", rawUrl: "https://www.amazon.co.jp/dp/B009GPJMOU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hario-drip-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "felicita-incline-coffee-scale",
+    category: "food",
+    badge: "エルゴノミクス",
+    name: { en: "Felicita Incline Coffee Scale", ja: "Felicita Incline コーヒースケール" },
+    description: {
+      en: "0.1g resolution, 200-300ms response, USB-C rechargeable, 10-degree tilted display, auto-start timer. Best ergonomic design for espresso setups.",
+      ja: "0.1g分解能、200〜300msレスポンス、USB-C充電式、10度傾斜ディスプレイ、オートスタートタイマー。エスプレッソセットアップに最高の人間工学的デザイン。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08FELICIT", rawUrl: "https://www.amazon.co.jp/dp/B08FELICIT", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-felicita-incline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFelicita+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "coffee-gator-pour-over-scale",
+    category: "food",
+    badge: "予算エントリー",
+    name: { en: "Coffee Gator Pour-Over Scale", ja: "Coffee Gator ポアオーバースケール" },
+    description: {
+      en: "0.1g resolution, 1-2 second response, built-in timer, AA batteries. Budget entry-level coffee scale — adds timing and measurement at lowest cost.",
+      ja: "0.1g分解能、1〜2秒レスポンス、内蔵タイマー、AAバッテリー。予算エントリーレベルのコーヒースケール——最低コストでタイミングと計測を追加。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07COFGAT", rawUrl: "https://www.amazon.co.jp/dp/B07COFGAT", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-coffee-gator-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB+%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Hip Thrust Machine 💪 ─────────────────────────────────────────────
+  {
+    id: "bells-of-steel-hip-thruster",
+    category: "fitness",
+    badge: "最高専用設計",
+    name: { en: "Bells of Steel Hip Thruster", ja: "Bells of Steel Hip Thruster" },
+    description: {
+      en: "Purpose-built hip thrust station with integrated barbell cradle, adjustable foot platform, heavily cushioned back pad, and wheels. Eliminates all setup friction.",
+      ja: "統合バーベルクレードル・調整可能フットプラットフォーム・重い緩衝背パッド・ホイール付きの目的特化ヒップスラストステーション。すべてのセットアップの摩擦を解消。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08BELLHIP", rawUrl: "https://www.amazon.co.jp/dp/B08BELLHIP", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bells-hip-thruster", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88+%E3%83%9E%E3%82%B7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-ab-5200-fid-bench",
+    category: "fitness",
+    badge: "デュアルパーパス",
+    name: { en: "REP Fitness AB-5200 FID Adjustable Bench", ja: "REP Fitness AB-5200 FID 調整可能ベンチ" },
+    description: {
+      en: "FID adjustable bench, 17-inch pad height at flat position, heavy commercial-grade frame. Dual-purpose: full adjustable bench + effective hip thrust station.",
+      ja: "FID調整可能ベンチ、フラットポジションで17インチパッド高さ、重い商業グレードフレーム。デュアルパーパス：完全調整可能ベンチ＋効果的なヒップスラストステーション。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08REPAB52", rawUrl: "https://www.amazon.co.jp/dp/B08REPAB52", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-ab5200", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E8%AA%BF%E6%95%B4%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "valor-fitness-hip-thrust-bench",
+    category: "fitness",
+    badge: "中価格帯専用",
+    name: { en: "Valor Fitness Hip Thrust Bench", ja: "Valor Fitness ヒップスラストベンチ" },
+    description: {
+      en: "Dedicated hip thrust station with integrated foot platform and angled back pad. Purpose-built at lower cost than Bells of Steel. Adequate for loads to 400 lbs.",
+      ja: "統合フットプラットフォームと角度付き背パッドを持つ専用ヒップスラストステーション。Bells of Steelより低いコストで目的特化。400ポンドまでのロードに十分。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07VALORHIP", rawUrl: "https://www.amazon.co.jp/dp/B07VALORHIP", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-valor-hip-thrust", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor+Fitness+%E3%83%92%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-fitness-hip-thrust-machine",
+    category: "fitness",
+    badge: "予算専用",
+    name: { en: "Titan Fitness Hip Thrust Machine", ja: "Titan Fitness ヒップスラストマシン" },
+    description: {
+      en: "Dedicated hip thrust machine with adjustable foot platform and barbell cradle. Core hip thrust functionality at minimum cost. Below REP and Bells of Steel in build quality.",
+      ja: "調整可能フットプラットフォームとバーベルクレードルを備えた専用ヒップスラストマシン。最低コストでコアヒップスラスト機能。REPとBells of Steelよりビルド品質低。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07TITANHIP", rawUrl: "https://www.amazon.co.jp/dp/B07TITANHIP", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-hip-thrust", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E3%83%92%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hip-thrust-pad-barbell",
+    category: "fitness",
+    badge: "必須アクセサリー",
+    name: { en: "Barbell Hip Thrust Foam Pad", ja: "バーベルヒップスラストフォームパッド" },
+    description: {
+      en: "Foam pad with velcro strap for barbell hip thrust. Required for comfortable contact across hip bones. Works with any bench or dedicated hip thrust machine.",
+      ja: "バーベルヒップスラスト用ベルクロストラップ付きフォームパッド。腰骨での快適な接触に必要。どのベンチまたは専用ヒップスラストマシンでも使用可能。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07HIPPAD", rawUrl: "https://www.amazon.co.jp/dp/B07HIPPAD", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hip-thrust-pad", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88+%E3%83%91%E3%83%83%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
