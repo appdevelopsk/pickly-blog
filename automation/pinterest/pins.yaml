@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 218 articles x 6 variants x 2 locales (en, ja) = 2616 pins (growing)
+# 220 articles x 6 variants x 2 locales (en, ja) = 2640 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -28648,3 +28648,171 @@ pins:
   title: "3ラウンドヘビーバッグサーキット：3分間打ち続けて1分休憩——実際に効く有酸素運動"
   description: "3分間オン×3ラウンド、ラウンド間に1分休憩＝合計12分、200〜300カロリー消費。コンビネーションの多様性に集中——フットワークを伴う1-2、1-2-3、1-2-3-4コンビネーション。各ラウンドを真剣に取り組めばバッグは有酸素運動になります。"
   image_path: public/og/best-punching-bag-2026-ja.png
+
+- slug: best-honey-2026
+  locale: en
+  variant: comparison
+  title: "Manuka Honey UMF vs MGO vs KFactor 2026: What the Ratings Actually Mean"
+  description: "UMF 10+ = MGO 263+. UMF 15+ = MGO 514+. Wedderspoon KFactor 16 certifies pollen content (75%+ Manuka), not MGO. These are different things — here's how to compare them and why it matters before buying."
+  image_path: public/og/best-honey-2026-en.png
+
+- slug: best-honey-2026
+  locale: en
+  variant: top1
+  title: "Best Manuka Honey 2026: Comvita UMF 10+ (Best Certified MGO Verification)"
+  description: "Comvita UMF 10+ wins for certified Manuka — UMF certification verifies both MGO 263+ content and Leptospermum pollen markers (authenticity). $30-40 for 250g. Most globally distributed UMF-certified brand with consistent batch testing."
+  image_path: public/og/best-honey-2026-en.png
+
+- slug: best-honey-2026
+  locale: en
+  variant: problem
+  title: "Most People Don't Need Manuka Honey — Good Raw Honey Does What You Need for $10-15"
+  description: "Manuka's documented clinical benefits (wound healing, H. pylori inhibition) require high MGO in controlled contexts. For everyday sweetening, sore throats, or immune support logic, Nature Nate's raw honey at $10-15 / 16oz has the same general antibacterial properties at 10% of the cost."
+  image_path: public/og/best-honey-2026-en.png
+
+- slug: best-honey-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Raw Honey: Nature Nate's Raw Unfiltered Honey ($10-15 / 16oz)"
+  description: "Nature Nate's is unheated, unfiltered, US-sourced — retains enzyme activity including glucose oxidase (produces hydrogen peroxide). $10-15 for 16oz at Target and Walmart. The raw designation is independently audited. For daily sweetener use, this is the practical choice."
+  image_path: public/og/best-honey-2026-en.png
+
+- slug: best-honey-2026
+  locale: en
+  variant: avoid
+  title: "Crystallized Honey Isn't Spoiled — It's a Sign of Raw, Unprocessed Honey"
+  description: "Honey naturally crystallizes when glucose molecules form a semi-solid structure. Raw honey crystallizes faster than processed because it retains more pollen particles (crystallization nuclei). To reliquefy: warm gently in a water bath at under 40°C — avoid microwave temperature spikes that destroy enzyme activity."
+  image_path: public/og/best-honey-2026-en.png
+
+- slug: best-honey-2026
+  locale: en
+  variant: scene
+  title: "Raw Honey in Yogurt + Walnuts: The Breakfast Upgrade That Actually Tastes Better"
+  description: "Full-fat Greek yogurt + 1 tsp wildflower or buckwheat honey + walnuts = more satisfying than flavored yogurt with added sugar. The honey's complexity (raw wildflower varies by season and region) transforms plain yogurt from boring to interesting. Better than protein bars for most morning goals."
+  image_path: public/og/best-honey-2026-en.png
+
+- slug: best-honey-2026
+  locale: ja
+  variant: comparison
+  title: "マヌカハニーUMF vs MGO vs KFactor 2026：評価の実際の意味"
+  description: "UMF 10+ = MGO 263+。UMF 15+ = MGO 514+。ウェッダースプーンKFactor 16は花粉含有量（75%以上マヌカ）を認証し、MGOではありません。これらは異なるものです——購入前の比較方法と重要な理由。"
+  image_path: public/og/best-honey-2026-ja.png
+
+- slug: best-honey-2026
+  locale: ja
+  variant: top1
+  title: "2026年最高マヌカハニー：コンビタUMF 10+（最高の認証MGO確認）"
+  description: "コンビタUMF 10+は認証マヌカで1位——UMF認証がMGO 263+含有量とレプトスペルマム花粉マーカー（真正性）の両方を検証。250gで$30〜40。一貫したバッチテストで最もグローバルに流通しているUMF認証ブランド。"
+  image_path: public/og/best-honey-2026-ja.png
+
+- slug: best-honey-2026
+  locale: ja
+  variant: problem
+  title: "ほとんどの人にマヌカハニーは不要——良質な生ハチミツで$10〜15でニーズを満たせる"
+  description: "マヌカの記録された臨床的効果（創傷治癒、ピロリ菌抑制）は管理された文脈で高MGOが必要です。日常の甘味付け、のどの痛み、免疫サポートには、ネイチャーネーツの生ハチミツが16ozで$10〜15で10分の1のコストで同じ一般的な抗菌特性を持ちます。"
+  image_path: public/og/best-honey-2026-ja.png
+
+- slug: best-honey-2026
+  locale: ja
+  variant: budget
+  title: "コスパ最高生ハチミツ：ネイチャーネーツ生未濾過ハチミツ（16ozで$10〜15）"
+  description: "ネイチャーネーツは未加熱、未濾過、米国産——グルコースオキシダーゼ（過酸化水素を産生）を含む酵素活性を保持。ターゲットとウォルマートで16ozが$10〜15。「生」の表示は独立監査済み。日常甘味料の使用には実用的な選択。"
+  image_path: public/og/best-honey-2026-ja.png
+
+- slug: best-honey-2026
+  locale: ja
+  variant: avoid
+  title: "結晶化したハチミツは腐っていない——生の非加工ハチミツのサイン"
+  description: "ハチミツはグルコース分子が半固体構造を形成するとき自然に結晶化します。生ハチミツは花粉粒子（結晶化の核）をより多く保持するため、加工ハチミツより速く結晶化します。再液化するには：40℃以下で水浴でゆっくり温めます——酵素活性を破壊する電子レンジの温度スパイクは避けてください。"
+  image_path: public/og/best-honey-2026-ja.png
+
+- slug: best-honey-2026
+  locale: ja
+  variant: scene
+  title: "生ハチミツをヨーグルトとクルミに：実際に美味しくなる朝食アップグレード"
+  description: "全脂肪ギリシャヨーグルト＋ワイルドフラワーまたはそばハニー小さじ1＋クルミ＝砂糖を加えたフレーバーヨーグルトより満足度が高い。ハチミツの複雑さ（生ワイルドフラワーは季節と地域によって変わる）がプレーンヨーグルトを退屈から面白いものに変えます。ほとんどの朝の目標にプロテインバーより優れています。"
+  image_path: public/og/best-honey-2026-ja.png
+
+- slug: best-boxing-gloves-2026
+  locale: en
+  variant: comparison
+  title: "Hayabusa T3 vs Everlast ProStyle vs Title Classic vs Cleto Reyes 2026 Boxing Gloves"
+  description: "Hayabusa T3: dual-X wrist strap, $100-130, 3-5 year lifespan. Everlast ProStyle: vinyl, $20-35, 6-18 months. Title Classic: synthetic leather, $40-60, mid-tier. Cleto Reyes: genuine leather, $150-250, competition-grade. Different tiers for different training commitments."
+  image_path: public/og/best-boxing-gloves-2026-en.png
+
+- slug: best-boxing-gloves-2026
+  locale: en
+  variant: top1
+  title: "Best Boxing Gloves for Regular Training 2026: Hayabusa T3 (Dual Wrist Strap)"
+  description: "Hayabusa T3 wins for regular training use — dual-X wrist strap (two velcro closures vs standard one) gives noticeably better wrist compression than single-strap gloves. Multi-layer foam, Vylar leather, 3-5 year lifespan. $100-130 in 12/14/16oz."
+  image_path: public/og/best-boxing-gloves-2026-en.png
+
+- slug: best-boxing-gloves-2026
+  locale: en
+  variant: problem
+  title: "Boxing Without Hand Wraps Under Gloves Causes Wrist Injuries — Wraps Are Not Optional"
+  description: "Gloves alone don't compress the wrist bones and metacarpals internally. Hand wraps (120-180 inch cotton) stabilize the small bones before the glove goes on. Without wraps: wrist sprains and metacarpal fractures over time. Wrapping takes 60-90 seconds. Professional boxers wrap before every session regardless of skill level."
+  image_path: public/og/best-boxing-gloves-2026-en.png
+
+- slug: best-boxing-gloves-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Boxing Gloves 2026: Title Boxing Classic ($40-60) — Step Up From Everlast ProStyle"
+  description: "Title Boxing Classic at $40-60 is the practical mid-tier upgrade over Everlast ProStyle ($20-35) — multi-layer foam, boxing-specific brand, better durability. ProStyle vinyl cracks with sweat after 6-18 months. Title Classic synthetic leather holds up significantly longer."
+  image_path: public/og/best-boxing-gloves-2026-en.png
+
+- slug: best-boxing-gloves-2026
+  locale: en
+  variant: avoid
+  title: "Don't Buy 8oz or 10oz Gloves for Bag Training — Those Are Competition Gloves"
+  description: "8oz and 10oz boxing gloves are competition-weight — minimal padding designed to reduce hand size in the ring. For bag and pad training, you need 12oz minimum (14oz if over 170 lb, 16oz for sparring). Training in competition-weight gloves provides inadequate hand protection and accelerates foam breakdown."
+  image_path: public/og/best-boxing-gloves-2026-en.png
+
+- slug: best-boxing-gloves-2026
+  locale: en
+  variant: scene
+  title: "3 Rounds on the Heavy Bag in Hayabusa T3: Why Wrist Support Changes the Workout"
+  description: "Dual-strap wrist compression on the Hayabusa T3 lets you throw harder combinations without wrist instability anxiety. The difference from a single-strap glove is immediately perceptible on straight punches — the wrist tracks in line with the forearm instead of rolling slightly. Better technique feedback, less injury risk."
+  image_path: public/og/best-boxing-gloves-2026-en.png
+
+- slug: best-boxing-gloves-2026
+  locale: ja
+  variant: comparison
+  title: "ハヤブサT3 vs エバーラスト・プロスタイル vs タイトル・クラシック vs クレトレイエス 2026年ボクシンググローブ"
+  description: "ハヤブサT3：デュアルXリストストラップ、$100〜130、3〜5年の寿命。エバーラスト・プロスタイル：ビニール、$20〜35、6〜18ヶ月。タイトル・クラシック：合成レザー、$40〜60、中堅。クレトレイエス：本革、$150〜250、競技グレード。異なるトレーニングコミットメントへの異なる層。"
+  image_path: public/og/best-boxing-gloves-2026-ja.png
+
+- slug: best-boxing-gloves-2026
+  locale: ja
+  variant: top1
+  title: "2026年定期トレーニングに最高のボクシンググローブ：ハヤブサT3（デュアルリストストラップ）"
+  description: "ハヤブサT3が定期トレーニング使用で1位——デュアルXリストストラップ（標準的な1つに対して2つのベルクロ閉合）が標準シングルストラップグローブより明らかに優れた手首圧迫を提供。多層フォーム、Vylarレザー、3〜5年の寿命。12/14/16ozで$100〜130。"
+  image_path: public/og/best-boxing-gloves-2026-ja.png
+
+- slug: best-boxing-gloves-2026
+  locale: ja
+  variant: problem
+  title: "グローブの下にハンドラップなしでボクシングすると手首が怪我する——ラップは選択ではない"
+  description: "グローブだけでは手首の骨と中手骨を内部から圧縮できません。ハンドラップ（120〜180インチのコットン）はグローブを装着する前に小さな骨を安定させます。ラップなし：時間とともに手首捻挫と中手骨骨折が起きます。巻き付け作業は60〜90秒です。プロのボクサーはスキルレベルに関わらずセッションごとに巻きます。"
+  image_path: public/og/best-boxing-gloves-2026-ja.png
+
+- slug: best-boxing-gloves-2026
+  locale: ja
+  variant: budget
+  title: "2026年コスパ最高ボクシンググローブ：タイトル・ボクシング・クラシック（$40〜60）——エバーラスト・プロスタイルからのステップアップ"
+  description: "タイトル・ボクシング・クラシックの$40〜60はエバーラスト・プロスタイル（$20〜35）からの実用的な中堅アップグレード——多層フォーム、ボクシング専門ブランド、より高い耐久性。プロスタイルのビニールは6〜18ヶ月で汗でひび割れます。タイトル・クラシックの合成レザーははるかに長く持ちます。"
+  image_path: public/og/best-boxing-gloves-2026-ja.png
+
+- slug: best-boxing-gloves-2026
+  locale: ja
+  variant: avoid
+  title: "バッグトレーニングに8ozや10ozのグローブを買わないで——それらは競技グローブです"
+  description: "8ozと10ozのボクシンググローブは競技ウェイトで、リングで手のサイズを小さくするために設計されたパディングが最小限。バッグとパッドのトレーニングには最低12oz（170lb以上は14oz、スパーリングは16oz）が必要です。競技ウェイトのグローブでのトレーニングは手の保護が不十分でフォームの劣化を加速させます。"
+  image_path: public/og/best-boxing-gloves-2026-ja.png
+
+- slug: best-boxing-gloves-2026
+  locale: ja
+  variant: scene
+  title: "ハヤブサT3でヘビーバッグ3ラウンド：手首サポートがワークアウトを変える理由"
+  description: "ハヤブサT3のデュアルストラップ手首圧迫で、手首の不安定さへの不安なくより強いコンビネーションを打てます。シングルストラップグローブとの差はストレートパンチで即座に感じられます——手首が前腕と一直線に軌道を描き、少し転がることがありません。より良いテクニックフィードバック、怪我のリスクが低い。"
+  image_path: public/og/best-boxing-gloves-2026-ja.png
