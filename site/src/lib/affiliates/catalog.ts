@@ -10896,6 +10896,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-paderno-salad-spinner", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPaderno%2BSalad%2BSpinner%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "kitchenaid-khm512er-hand-mixer",
+    category: "food",
+    badge: "top-pick",
+    name: { en: "KitchenAid KHM512ER 5-Speed Ultra Power Hand Mixer", ja: "KitchenAid KHM512ER 5スピード ウルトラパワー ハンドミキサー" },
+    description: {
+      en: "DC motor maintains consistent RPM under load from light whipped cream to dense cookie dough, with turbo beaters that resist staining and clean easily. The most balanced hand mixer for regular home bakers.",
+      ja: "軽いホイップクリームから粘度の高いクッキー生地まで、負荷時も安定した回転数を維持するDCモーターと汚れにくいターボビーターを搭載。定期的に製菓する家庭向けの最もバランスの取れたハンドミキサー。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BWKZK1A", rawUrl: "https://www.amazon.co.jp/dp/B00BWKZK1A", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kitchenaid-khm512er-hand-mixer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKitchenAid%2BHand%2BMixer%2FKHM512%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "breville-bhm800sil-hand-mixer",
+    category: "food",
+    badge: "feature-pick",
+    name: { en: "Breville BHM800SIL Handy Mix Scraper Hand Mixer", ja: "Breville BHM800SIL ハンディミックス スクレーパー ハンドミキサー" },
+    description: {
+      en: "The only hand mixer with a scraper beater — a silicone-edged attachment that wipes the bowl wall on each rotation, cutting manual scrape-downs by roughly half. Nine speeds and 240W handle a full baking range.",
+      ja: "回転のたびにボウルの側面を拭うシリコン縁付きスクレーパービーターを持つ唯一のハンドミキサー。手作業での掻き落とし回数を約半分に削減。9段階速度と240Wで全製菓タスクに対応。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BWKZMRA", rawUrl: "https://www.amazon.co.jp/dp/B00BWKZMRA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-breville-bhm800sil-hand-mixer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BHand%2BMixer%2FBHM800%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-hm-90bcs-hand-mixer",
+    category: "food",
+    badge: "control-pick",
+    name: { en: "Cuisinart HM-90BCS Hand Mixer 9-Speed", ja: "Cuisinart HM-90BCS ハンドミキサー 9スピード" },
+    description: {
+      en: "Nine speeds give the finest granular control for meringue, chiffon batter, and incorporation-sensitive mixing tasks. Ships with dough hooks and a whisk covering the full range of home baking tasks.",
+      ja: "9段階の速度でメレンゲ、シフォン生地、混ぜすぎに敏感なタスクを最もきめ細かくコントロール。ドウフックとウィスクが付属し、家庭製菓の全タスクをカバー。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00PXET57A", rawUrl: "https://www.amazon.co.jp/dp/B00PXET57A", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cuisinart-hm-90bcs-hand-mixer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BHand%2BMixer%2FHM-90%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hamilton-beach-62682-hand-mixer",
+    category: "food",
+    badge: "budget-pick",
+    name: { en: "Hamilton Beach 6-Speed Electric Hand Mixer 62682", ja: "Hamilton Beach 6スピード 電動ハンドミキサー 62682" },
+    description: {
+      en: "290W motor and 6 speeds handle everyday baking tasks at a price that requires no justification. Built-in bowl rest and snap-on storage case are practical touches rarely found at this price point.",
+      ja: "290Wモーターと6段階速度で日常的な製菓タスクを、特別な理由を必要としない価格でこなす。ビルトインのボウルレストとスナップオン収納ケースはこの価格帯では珍しい実用的な工夫。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00JRPHLUA", rawUrl: "https://www.amazon.co.jp/dp/B00JRPHLUA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hamilton-beach-62682-hand-mixer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2BHand%2BMixer%2F62682%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "krups-gn9019-hand-mixer",
+    category: "food",
+    badge: "precision-pick",
+    name: { en: "KRUPS GN9019 Hand Mixer 9-Speed", ja: "KRUPS GN9019 ハンドミキサー 9スピード" },
+    description: {
+      en: "Nine speeds with a 200W motor tuned for precision at the low end — the slowest speed barely stirs, ideal for starting meringues or gently folding in flour. Compact at 2.1 lbs with a turbo boost button.",
+      ja: "低速域の精度に特化した200Wモーターの9段階ハンドミキサー。最低速はほぼかき混ぜ程度で、メレンゲ開始や小麦粉の優しい混ぜ込みに最適。約950gの軽量設計とターボブーストボタン付き。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001AV2KBK", rawUrl: "https://www.amazon.co.jp/dp/B001AV2KBK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-krups-gn9019-hand-mixer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKRUPS%2BHand%2BMixer%2FGN9019%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Fitness / Weight Plates (best-weight-plates-2026) ─────────
+  {
+    id: "rogue-calibrated-kg-plates",
+    category: "fitness",
+    badge: "competition-pick",
+    name: { en: "Rogue Calibrated KG Steel Plates", ja: "Rogue キャリブレーテッドKGスチールプレート" },
+    description: {
+      en: "Competition-accurate KG steel plates machined to IWF tolerances (within 10 grams). Black oxide finish with chrome ring for easy identification. Standard 450mm diameter positions bar at correct deadlift starting height. The choice for lifters who compete or train on competition-spec equipment.",
+      ja: "IWF公差（10グラム以内）に機械加工された競技精度KGスチールプレート。ブラックオキサイド仕上げとクロームリングで識別しやすい。標準450mm径でデッドリフトの正しいスタート高さを確保。競技出場者または競技仕様機器でトレーニングするリフター向け。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07DKZV89N", rawUrl: "https://www.amazon.co.jp/dp/B07DKZV89N", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-calibrated-kg-plates", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWeight%2BPlates%2BOlympic%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-cast-iron-plates",
+    category: "fitness",
+    badge: "top-pick",
+    name: { en: "REP Fitness Cast Iron Olympic Plates", ja: "REP Fitness 鋳鉄オリンピックプレート" },
+    description: {
+      en: "Cast iron Olympic plates accurate to within 1% of stated weight with consistent 450mm diameter across the set. Baked enamel coating resists rust in humid garage environments. 2-inch center hole fits standard Olympic barbells. The best combination of accuracy, finish quality, and price for a home gym starter set.",
+      ja: "表示値の1%以内の重量精度とセット全体で一貫した450mm径の鋳鉄オリンピックプレート。焼付けエナメルコーティングで湿気の多いガレージ環境でもサビに強い。2インチセンターホールは標準オリンピックバーベルに対応。精度・仕上げ品質・価格のバランスがホームジムスターターセットとして最優秀。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07MQDGWZN", rawUrl: "https://www.amazon.co.jp/dp/B07MQDGWZN", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-fitness-cast-iron-plates", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP%2BFitness%2BOlympic%2BPlates%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cap-barbell-olympic-plates",
+    category: "fitness",
+    badge: "budget-pick",
+    name: { en: "CAP Barbell Olympic Weight Plates", ja: "CAP Barbell オリンピックウェイトプレート" },
+    description: {
+      en: "The most affordable new Olympic cast iron plates available. Weight variance of 2-3% is acceptable for general strength training. Widely available through major retailers for fast sourcing. The right call when budget is the primary constraint and you plan to upgrade later.",
+      ja: "最も手頃な新品オリンピック鋳鉄プレート。2〜3%の重量誤差は一般的なストレングストレーニングでは許容範囲。大手小売店で広く販売されており素早く調達可能。予算が最優先で後でアップグレードを予定している場合の適切な選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000VDIKAQ", rawUrl: "https://www.amazon.co.jp/dp/B000VDIKAQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cap-barbell-olympic-plates", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP%2BBarbell%2BOlympic%2BPlates%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-hi-temp-bumper-plates",
+    category: "fitness",
+    badge: "bumper-pick",
+    name: { en: "Rogue Hi-Temp Bumper Plates", ja: "Rogue Hi-Temp バンパープレート" },
+    description: {
+      en: "Recycled rubber bumper plates rated for daily drops from overhead at full extension. Steel-reinforced 2-inch center insert maintains hole geometry through years of drop cycles. IWF-standard 450mm diameter across all weights. The standard choice for home Olympic lifting and CrossFit setups.",
+      ja: "頭上から完全伸展でのドロップを毎日繰り返せるリサイクルゴムバンパープレート。スチール補強2インチセンターインサートが長年のドロップサイクルを経てもホール形状を維持。全重量でIWF標準450mm径。ホームオリンピックリフティングとクロスフィットセットアップの標準的な選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BEZT3L4", rawUrl: "https://www.amazon.co.jp/dp/B00BEZT3L4", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-hi-temp-bumper-plates", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BBumper%2BPlates%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fringe-sport-bumper-plates",
+    category: "fitness",
+    badge: "virgin-rubber-pick",
+    name: { en: "Fringe Sport Olympic Bumper Plates", ja: "Fringe Sport オリンピックバンパープレート" },
+    description: {
+      en: "Virgin rubber bumper plates with lower dead bounce than recycled rubber options — useful in shared spaces or on smaller platforms where bounce distance is a concern. IWF-standard diameter, steel-reinforced insert. A quieter drop alternative to Hi-Temps for lifters who need bumper performance with less rebound.",
+      ja: "リサイクルゴムよりデッドバウンスが低いバージンゴムバンパープレート——バウンス距離が制約となる共有スペースや小さなプラットフォームで有用。IWF標準径、スチール補強インサート。バンパー性能を求めつつ反発を抑えたいリフターへのHi-Tempより静かなドロップの代替。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01LYFK22C", rawUrl: "https://www.amazon.co.jp/dp/B01LYFK22C", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fringe-sport-bumper-plates", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFringe%2BSport%2BBumper%2BPlates%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
