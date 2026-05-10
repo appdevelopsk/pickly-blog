@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 216 articles x 6 variants x 2 locales (en, ja) = 2592 pins (growing)
+# 218 articles x 6 variants x 2 locales (en, ja) = 2616 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -28480,3 +28480,171 @@ pins:
   title: "StairMasterレベル8で20分：非衝撃400〜500カロリーのワークアウトの感覚"
   description: "StairMasterのレベル8〜10では、150ポンドの人が1時間あたり約400〜500カロリーを消費します。非衝撃（足がペダルから離れない）、高い臀筋への関与、ランニングより長く持続可能。カロリー対関節ストレス比が最高のジムマシン。"
   image_path: public/og/best-stair-stepper-2026-ja.png
+
+- slug: best-chai-tea-2026
+  locale: en
+  variant: comparison
+  title: "Rishi Masala Chai vs Oregon Chai Concentrate vs Tazo Chai 2026: Loose Leaf vs Concentrate"
+  description: "Rishi Masala Chai: loose leaf, cardamom-forward, $12-16 for 18-22 servings. Oregon Chai concentrate: sweet, ready-to-mix, $8-12 for 16 servings. Tazo Chai concentrate: $5-8, budget option. Different categories for different needs — here's the tradeoff."
+  image_path: public/og/best-chai-tea-2026-en.png
+
+- slug: best-chai-tea-2026
+  locale: en
+  variant: top1
+  title: "Best Chai Tea for Home Brewing 2026: Rishi Masala Chai Loose Leaf (Whole Spice)"
+  description: "Rishi Masala Chai wins for actual masala chai quality — cardamom pods, whole cinnamon chips, dried ginger, Assam base. Whole spices release more complex aromatics than pre-ground. $12-16 for 18-22 servings, farm-direct sourced."
+  image_path: public/og/best-chai-tea-2026-en.png
+
+- slug: best-chai-tea-2026
+  locale: en
+  variant: problem
+  title: "Oregon Chai Concentrate Has 15g Sugar Per Serving — Make It 1:2 Ratio to Cut Sweetness"
+  description: "Oregon Chai at 1:1 with milk is quite sweet (15g sugar per serving). Use 1 part concentrate to 2 parts milk instead — you keep the spice but reduce sweetness by ~40%. Or get Unsweetened Oregon Chai and control it yourself."
+  image_path: public/og/best-chai-tea-2026-en.png
+
+- slug: best-chai-tea-2026
+  locale: en
+  variant: budget
+  title: "Budget Chai at Home: Tazo Chai Latte Concentrate ($5-8 for 32oz) + Hot Milk"
+  description: "Tazo Chai Latte Concentrate: $5-8 for 32oz, mix 1:1 with hot milk. Widely available at grocery stores. Not as complex as loose leaf but produces a consistent chai latte at the lowest cost of the concentrate category."
+  image_path: public/og/best-chai-tea-2026-en.png
+
+- slug: best-chai-tea-2026
+  locale: en
+  variant: avoid
+  title: "Harney & Sons Hot Cinnamon Spice Is NOT Masala Chai — It's Cinnamon Tea (Worth Knowing)"
+  description: "Hot Cinnamon Spice has cinnamon, orange peel, and sweet cloves. No ginger, minimal cardamom. It's excellent spiced black tea but a different product from South Asian masala chai. If you want traditional chai, get Rishi or Vahdam instead."
+  image_path: public/og/best-chai-tea-2026-en.png
+
+- slug: best-chai-tea-2026
+  locale: en
+  variant: scene
+  title: "Stovetop Chai Method: Simmer Loose Leaf in 2:1 Water-to-Milk — More Creamy Than Steep-and-Add"
+  description: "Stovetop method: small saucepan, 2 parts water + 1 part milk + 1 tsp loose leaf chai. Simmer 3-4 minutes on medium heat, strain, sweeten. Milk fat coats the spice compounds — produces a creamier, more integrated chai than steeping in water and adding cold milk."
+  image_path: public/og/best-chai-tea-2026-en.png
+
+- slug: best-chai-tea-2026
+  locale: ja
+  variant: comparison
+  title: "リシ・マサラチャイ vs オレゴンチャイコンセントレート vs タゾチャイ2026：ルーフリーフvsコンセントレート"
+  description: "リシ・マサラチャイ：ルーフリーフ、カルダモン主体、18〜22杯分で$12〜16。オレゴンチャイコンセントレート：甘く、混ぜるだけ、16杯分で$8〜12。タゾチャイコンセントレート：$5〜8、手頃な選択肢。異なるニーズへの異なるカテゴリ——そのトレードオフ。"
+  image_path: public/og/best-chai-tea-2026-ja.png
+
+- slug: best-chai-tea-2026
+  locale: ja
+  variant: top1
+  title: "2026年家庭醸造ベストチャイ：リシ・マサラチャイ ルーフリーフ（ホールスパイス）"
+  description: "リシ・マサラチャイは本物のマサラチャイ品質で1位——カルダモンポッド、ホールシナモンチップス、乾燥ジンジャー、アッサムベース。ホールスパイスは粉末より複雑な香気を放出。農家直接調達、18〜22杯分で$12〜16。"
+  image_path: public/og/best-chai-tea-2026-ja.png
+
+- slug: best-chai-tea-2026
+  locale: ja
+  variant: problem
+  title: "オレゴンチャイコンセントレートは1杯あたり砂糖15g — 甘みを抑えるには1:2の比率に"
+  description: "ミルクと1:1でのオレゴンチャイはかなり甘い（1杯あたり砂糖15g）。代わりにコンセントレート1:ミルク2の比率を使って——スパイスを残しながら甘みを約40%減少。またはアンスウィーテンドオレゴンチャイを入手して自分でコントロール。"
+  image_path: public/og/best-chai-tea-2026-ja.png
+
+- slug: best-chai-tea-2026
+  locale: ja
+  variant: budget
+  title: "家での手頃なチャイ：タゾ チャイラテ コンセントレート（32ozで$5〜8）＋熱いミルク"
+  description: "タゾ チャイラテ コンセントレート：32ozで$5〜8、熱いミルクと1:1で混合。食料品店で広く入手可能。ルーフリーフほど複雑ではないが、コンセントレートカテゴリの最低コストで一定のチャイラテが出来ます。"
+  image_path: public/og/best-chai-tea-2026-ja.png
+
+- slug: best-chai-tea-2026
+  locale: ja
+  variant: avoid
+  title: "ハーニー&サンズ・ホットシナモンスパイスはマサラチャイではない——シナモンティー（知っておく価値あり）"
+  description: "ホットシナモンスパイスはシナモン、オレンジピール、スウィートクローブを含む。ジンジャーなし、カルダモン最小限。優れたスパイスブラックティーですが、南アジアのマサラチャイとは別の製品。伝統的なチャイを求めるならリシやバーダムに。"
+  image_path: public/og/best-chai-tea-2026-ja.png
+
+- slug: best-chai-tea-2026
+  locale: ja
+  variant: scene
+  title: "コンロチャイ：水とミルク2:1でルーフリーフを煮出す——浸出してから後添加より濃厚"
+  description: "コンロ式：小鍋に水2+ミルク1+ルーフリーフチャイ小さじ1。中火で3〜4分煮出して漉して甘みをつける。ミルクの脂肪分がスパイス成分をコーティング——水で浸出して冷たいミルクを加えるより濃厚で統合されたチャイになります。"
+  image_path: public/og/best-chai-tea-2026-ja.png
+
+- slug: best-punching-bag-2026
+  locale: en
+  variant: comparison
+  title: "Everlast vs Century Bob XL vs RDX Hanging Bag 2026: Freestanding vs Hanging Heavy Bag"
+  description: "Everlast Powercore freestanding: no mount needed, $150-200, limited swing. RDX 5ft hanging: $80-100, free-swinging, develops timing. Century Bob XL: human-shaped torso target for accuracy work. Different training tools for different goals."
+  image_path: public/og/best-punching-bag-2026-en.png
+
+- slug: best-punching-bag-2026
+  locale: en
+  variant: top1
+  title: "Best Home Punching Bag 2026: RDX 5ft Hanging Heavy Bag (Best Value With Ceiling Mount)"
+  description: "RDX 5ft punching bag wins for home use with ceiling access — Maya Hide leather, dense foam fill, ~80lb, free-swinging. $80-100. Develops combination timing that freestanding bags can't replicate. Best value in mid-tier hanging bags."
+  image_path: public/og/best-punching-bag-2026-en.png
+
+- slug: best-punching-bag-2026
+  locale: en
+  variant: problem
+  title: "Hitting a Heavy Bag Without Hand Wraps and Gloves Causes Wrist Injuries — Not Optional"
+  description: "Bare-knuckle or bandage-only hitting on a heavy bag causes wrist sprains, knuckle abrasions, and stress fractures over time. At minimum: hand wraps (compress wrist bones) + 12-16oz boxing gloves (Everlast, Ringside, Title). This is not a beginner vs advanced distinction — everyone needs both."
+  image_path: public/og/best-punching-bag-2026-en.png
+
+- slug: best-punching-bag-2026
+  locale: en
+  variant: budget
+  title: "Budget Heavy Bag Setup: Everlast C3 100lb Canvas Bag ($80-130) + A-Frame Stand ($150-200)"
+  description: "Everlast C3 100lb canvas hanging bag ($80-130) + Everlast heavy bag stand ($150-200) = complete home setup without ceiling drilling. Total $230-330. The 100lb weight means less swing, more resistance — appropriate for power development and conditioning."
+  image_path: public/og/best-punching-bag-2026-en.png
+
+- slug: best-punching-bag-2026
+  locale: en
+  variant: avoid
+  title: "Don't Buy a Freestanding Punching Bag If You Have a Ceiling Anchor — Hanging Bags Are Better"
+  description: "Freestanding bags have minimal swing — the base absorbs most impact. You miss the timing and rhythm development that comes from a swinging hanging bag. If you have ceiling access (structural joist or A-frame stand), get a hanging bag instead. Freestanding is for when you have no other option."
+  image_path: public/og/best-punching-bag-2026-en.png
+
+- slug: best-punching-bag-2026
+  locale: en
+  variant: scene
+  title: "3-Round Heavy Bag Circuit: 3 Minutes On, 1 Minute Rest — Simple Cardio That Actually Works"
+  description: "3 rounds × 3 minutes on a heavy bag with 1 minute rest between rounds = 12 minutes total, 200-300 calories. Focus on combination variety — 1-2, 1-2-3, 1-2-3-4 combinations with footwork. The bag is cardio if you treat each round with urgency."
+  image_path: public/og/best-punching-bag-2026-en.png
+
+- slug: best-punching-bag-2026
+  locale: ja
+  variant: comparison
+  title: "エバーラスト vs センチュリーBob XL vs RDXハンギングバッグ2026：フリースタンディング vs ハンギングヘビーバッグ"
+  description: "エバーラスト・パワーコア フリースタンディング：マウント不要、$150〜200、揺れが限られる。RDX 5ftハンギング：$80〜100、自由揺れ、タイミングを養う。センチュリーBob XL：精度ワーク向け人体形状胴体ターゲット。異なる目標への異なるトレーニングツール。"
+  image_path: public/og/best-punching-bag-2026-ja.png
+
+- slug: best-punching-bag-2026
+  locale: ja
+  variant: top1
+  title: "2026年最高ホームパンチングバッグ：RDX 5ftハンギングヘビーバッグ（天井マウントでベストコスパ）"
+  description: "RDX 5ftパンチングバッグが天井アクセスのあるホーム使用で1位——マヤハイドレザー、密なフォーム充填、約80lb、自由揺れ。$80〜100。フリースタンディングバッグでは再現できないコンビネーションのタイミングを養成。中堅ハンギングバッグのベストコスパ。"
+  image_path: public/og/best-punching-bag-2026-ja.png
+
+- slug: best-punching-bag-2026
+  locale: ja
+  variant: problem
+  title: "ハンドラップとグローブなしでヘビーバッグを打つと手首が怪我する——オプションではない"
+  description: "素手またはテーピングのみでのヘビーバッグ打撃は手首の捻挫、ナックルの擦り傷、長期的には疲労骨折を引き起こします。最低限：ハンドラップ（手首の骨を圧縮）＋12〜16ozボクシンググローブ（エバーラスト、リングサイド、タイトル）。これは初心者vs上級者の区別ではなく全員に必要。"
+  image_path: public/og/best-punching-bag-2026-ja.png
+
+- slug: best-punching-bag-2026
+  locale: ja
+  variant: budget
+  title: "コスパ最高ヘビーバッグセットアップ：エバーラストC3 100lbキャンバスバッグ（$80〜130）＋Aフレームスタンド（$150〜200）"
+  description: "エバーラストC3 100lbキャンバスハンギングバッグ（$80〜130）＋エバーラスト ヘビーバッグスタンド（$150〜200）＝天井穿孔なしのホームセットアップ。合計$230〜330。100lbの重量は揺れが少なく抵抗が高い——パワー開発とコンディショニングに適しています。"
+  image_path: public/og/best-punching-bag-2026-ja.png
+
+- slug: best-punching-bag-2026
+  locale: ja
+  variant: avoid
+  title: "天井アンカーがあるならフリースタンディングパンチングバッグを買わないで——ハンギングバッグの方が優れている"
+  description: "フリースタンディングバッグは揺れが最小限で、ベースが衝撃のほとんどを吸収します。揺れるハンギングバッグから得られるタイミングとリズムの養成を逃します。天井アクセス（構造用根太またはAフレームスタンド）があれば、ハンギングバッグを選んでください。フリースタンディングは他に選択肢がない場合のみ。"
+  image_path: public/og/best-punching-bag-2026-ja.png
+
+- slug: best-punching-bag-2026
+  locale: ja
+  variant: scene
+  title: "3ラウンドヘビーバッグサーキット：3分間打ち続けて1分休憩——実際に効く有酸素運動"
+  description: "3分間オン×3ラウンド、ラウンド間に1分休憩＝合計12分、200〜300カロリー消費。コンビネーションの多様性に集中——フットワークを伴う1-2、1-2-3、1-2-3-4コンビネーション。各ラウンドを真剣に取り組めばバッグは有酸素運動になります。"
+  image_path: public/og/best-punching-bag-2026-ja.png
