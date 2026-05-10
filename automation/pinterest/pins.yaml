@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 228 articles x 6 variants x 2 locales (en, ja) = 2736 pins (growing)
+# 230 articles x 6 variants x 2 locales (en, ja) = 2760 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -29539,4 +29539,198 @@ pins:
   title: "モノフィンはバタフライとイルカキックをどう強化するか"
   description: "FINISフォイルモノフィンが股関節からのうねりを強制——技術的に最も正確なバタフライ動作。モノフィンが鍛えるものと使い方を解説。"
   image: /og/best-swim-fins-2026-ja.png
+  board: fitness-ja
+
+# ── batch #234: best-cold-brew-tea-2026 ──────────────────────────────────
+- slug: best-cold-brew-tea-2026
+  locale: en
+  variant: comparison
+  title: "Best Cold Brew Tea 2026: Which Teas Are Actually Worth Cold Brewing?"
+  description: "Harney Cold Brew vs Palais des Thés Hammam vs Ippodo Gyokuro vs Bigelow vs Rishi Organic — 5 teas tested overnight cold brew. Green, white, herbal, black compared."
+  image: /og/best-cold-brew-tea-2026-en.png
+  board: food-en
+
+- slug: best-cold-brew-tea-2026
+  locale: en
+  variant: top1
+  title: "The Best Cold Brew Tea in 2026"
+  description: "Harney & Sons Cold Brew bags win for convenience. Purpose-formulated for cold extraction, no bitterness, quart-size format. The easiest way into cold brew tea."
+  image: /og/best-cold-brew-tea-2026-en.png
+  board: food-en
+
+- slug: best-cold-brew-tea-2026
+  locale: en
+  variant: problem
+  title: "Why Your Cold Brew Tea Tastes Flat (and How to Fix It)"
+  description: "Standard teabags designed for hot water produce cloudy, flat cold brew. We tested cold-brew-specific bags and loose leaf — here's what actually works."
+  image: /og/best-cold-brew-tea-2026-en.png
+  board: food-en
+
+- slug: best-cold-brew-tea-2026
+  locale: en
+  variant: budget
+  title: "Bigelow Cold Brew: Great Results at Grocery Store Prices"
+  description: "No cloudiness, mild natural sweetness, widely available. Bigelow's cold brew bags outperform most standard teabags at a fraction of premium prices. Our review."
+  image: /og/best-cold-brew-tea-2026-en.png
+  board: food-en
+
+- slug: best-cold-brew-tea-2026
+  locale: en
+  variant: avoid
+  title: "The Cold Brew Tea Mistake Everyone Makes"
+  description: "Using regular teabags in cold water. The result: murky, flat, disappointing. We explain what cold brew-specific teas do differently and why it matters."
+  image: /og/best-cold-brew-tea-2026-en.png
+  board: food-en
+
+- slug: best-cold-brew-tea-2026
+  locale: en
+  variant: scene
+  title: "Gyokuro Cold Brewed Overnight: The Sweetest Tea You'll Ever Taste"
+  description: "Cold brewing gyokuro amplifies umami and eliminates bitterness entirely. Pale green, intensely sweet, savory-amino notes. Ippodo overnight cold brew guide inside."
+  image: /og/best-cold-brew-tea-2026-en.png
+  board: food-en
+
+- slug: best-cold-brew-tea-2026
+  locale: ja
+  variant: comparison
+  title: "コールドブリューティーおすすめ2026：一晩冷水出しで映えるお茶を比較"
+  description: "Harney Cold Brew・パレ・デ・テ・一保堂玉露・Bigelow・Rishi——5種を一晩冷水出しで検証。緑茶・ハーブ・紅茶別に解説。"
+  image: /og/best-cold-brew-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-cold-brew-tea-2026
+  locale: ja
+  variant: top1
+  title: "2026年最高のコールドブリューティーはこれだ"
+  description: "手軽さならHarney & Sons コールドブリューバッグが最高。低温抽出専用配合で苦みなし、1クォートサイズで一度に大量作成可能。"
+  image: /og/best-cold-brew-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-cold-brew-tea-2026
+  locale: ja
+  variant: problem
+  title: "コールドブリューティーが美味しくない原因と解決策"
+  description: "熱湯用ティーバッグを冷水に浸すと濁って平凡な味に。コールドブリュー専用設計のバッグとリーフの違いを実際に検証しました。"
+  image: /og/best-cold-brew-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-cold-brew-tea-2026
+  locale: ja
+  variant: budget
+  title: "スーパー価格で本格コールドブリュー：Bigelow実力診断"
+  description: "濁りなし、自然な甘み、広く手に入る。Bigelowのコールドブリューバッグはプレミアム価格の一部で一般ティーバッグを大きく上回ります。"
+  image: /og/best-cold-brew-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-cold-brew-tea-2026
+  locale: ja
+  variant: avoid
+  title: "コールドブリューティーで誰もがやる失敗"
+  description: "普通のティーバッグを冷水に浸す——濁って平凡で期待外れ。コールドブリュー専用のお茶が何をしているか、なぜ違うかを解説。"
+  image: /og/best-cold-brew-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-cold-brew-tea-2026
+  locale: ja
+  variant: scene
+  title: "玉露を一晩冷水出しすると何が起きるか"
+  description: "冷水出しがうまみを増幅し渋みを完全に除去。淡い緑色、濃厚な甘み、旨みアミノ酸のノート。一保堂玉露の冷水出しガイドを解説。"
+  image: /og/best-cold-brew-tea-2026-ja.png
+  board: food-ja
+
+# ── batch #235: best-speed-bag-2026 ──────────────────────────────────────
+- slug: best-speed-bag-2026
+  locale: en
+  variant: comparison
+  title: "Best Speed Bag 2026: Everlast vs Ringside vs Title vs Cleto Reyes"
+  description: "5 boxing speed bags tested for rebound, durability, and rhythm development. Beginner to professional, freestanding to wall-mount — which one is right for your training?"
+  image: /og/best-speed-bag-2026-en.png
+  board: fitness-en
+
+- slug: best-speed-bag-2026
+  locale: en
+  variant: top1
+  title: "The Best Speed Bag for Home Training in 2026"
+  description: "Ringside Frequency wins for long-term home gym use. Multi-layer genuine leather, consistent rebound, four sizes from beginner to advanced. Worth the investment."
+  image: /og/best-speed-bag-2026-en.png
+  board: fitness-en
+
+- slug: best-speed-bag-2026
+  locale: en
+  variant: problem
+  title: "Why You Can't Keep a Rhythm on the Speed Bag"
+  description: "Wrong size, bad swivel, or bad timing — the three real causes. We explain how to diagnose your speed bag problem and which equipment fixes it."
+  image: /og/best-speed-bag-2026-en.png
+  board: fitness-en
+
+- slug: best-speed-bag-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Speed Bag: Everlast Review"
+  description: "Replaceable bladder, synthetic leather, consistent rebound for the price. Everlast's standard speed bag is what most gyms start beginners on — and for good reason."
+  image: /og/best-speed-bag-2026-en.png
+  board: fitness-en
+
+- slug: best-speed-bag-2026
+  locale: en
+  variant: avoid
+  title: "Speed Bag Mistakes That Prevent Progress"
+  description: "Starting too small, ignoring swivel quality, going fast before developing rhythm — the common traps that stop most people from getting good at the speed bag."
+  image: /og/best-speed-bag-2026-en.png
+  board: fitness-en
+
+- slug: best-speed-bag-2026
+  locale: en
+  variant: scene
+  title: "No Wall? No Joists? No Problem — Speed Bag for Any Home Gym"
+  description: "Century Wavemaster freestanding platform solves the installation problem. Fill the base, set the height, start training. No drilling, no finding a stud."
+  image: /og/best-speed-bag-2026-en.png
+  board: fitness-en
+
+- slug: best-speed-bag-2026
+  locale: ja
+  variant: comparison
+  title: "スピードバッグおすすめ2026：Everlast・Ringside・Title・Cleto Reyes比較"
+  description: "5種のボクシングスピードバッグをリバウンド・耐久性・リズム習得で検証。初心者からプロ、自立型から壁掛けまで——あなたのトレーニングに合うものは？"
+  image: /og/best-speed-bag-2026-ja.png
+  board: fitness-ja
+
+- slug: best-speed-bag-2026
+  locale: ja
+  variant: top1
+  title: "2026年ホームジム最強スピードバッグはRingside Frequencyだった"
+  description: "長期ホームジム使用ならRingside Frequencyが最高。多層本革・一貫したリバウンド・初心者から上級者まで4サイズ展開。投資価値あり。"
+  image: /og/best-speed-bag-2026-ja.png
+  board: fitness-ja
+
+- slug: best-speed-bag-2026
+  locale: ja
+  variant: problem
+  title: "スピードバッグのリズムが続かない本当の理由"
+  description: "バッグが小さすぎる・スウィベルが悪い・タイミングがずれている——3つの原因を診断し、機材で解決する方法を解説します。"
+  image: /og/best-speed-bag-2026-ja.png
+  board: fitness-ja
+
+- slug: best-speed-bag-2026
+  locale: ja
+  variant: budget
+  title: "コスパ最強スピードバッグ：Everlastを徹底レビュー"
+  description: "交換可能なエアブラダー、合成皮革、価格帯に対して一貫したリバウンド。多くのジムが初心者に使わせる理由がわかりました。"
+  image: /og/best-speed-bag-2026-ja.png
+  board: fitness-ja
+
+- slug: best-speed-bag-2026
+  locale: ja
+  variant: avoid
+  title: "スピードバッグで上達できない人の共通の失敗"
+  description: "最初から小さいサイズを選ぶ、スウィベルの品質を軽視する、リズム前に速さを求める——多くの人がスピードバッグを諦める理由。"
+  image: /og/best-speed-bag-2026-ja.png
+  board: fitness-ja
+
+- slug: best-speed-bag-2026
+  locale: ja
+  variant: scene
+  title: "壁も柱もない——それでもスピードバッグを使う方法"
+  description: "Century Wavemaster自立型プラットフォームが設置問題を解決。ベースに水を入れて高さを設定するだけ。穴あけ・柱探し不要。"
+  image: /og/best-speed-bag-2026-ja.png
   board: fitness-ja
