@@ -14863,6 +14863,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-wilson-blade-98-v8", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWilson+Blade+98+v8%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Matcha Powder (food) ──────────────────────────────────────────────
+  {
+    id: "ippodo-kan-no-shiro",
+    category: "food",
+    badge: "Best Overall",
+    name: { en: "Ippodo Kan-no-Shiro", ja: "一保堂 喜の昔" },
+    description: { en: "Premium ceremonial grade matcha from Kyoto's Ippodo, stone-ground first harvest", ja: "京都一保堂の看板抹茶、石臼挽き一番摘み" },
+    links: [
+      { network: "amazon-jp", productId: "B00FFBW9LW", rawUrl: "https://www.amazon.co.jp/dp/B00FFBW9LW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ippodo-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%80%E4%BF%9D%E5%A0%82+%E5%96%9C%E3%81%AE%E6%98%94%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "encha-latte-matcha",
+    category: "food",
+    badge: "Best for Lattes",
+    name: { en: "Encha Latte Grade Organic Matcha", ja: "Encha ラテグレード有機抹茶" },
+    description: { en: "Single-farm Uji organic matcha optimized for milk-based drinks", ja: "宇治単一農園の有機抹茶、ラテ向け設計" },
+    links: [
+      { network: "amazon-jp", productId: "B01M6C77LU", rawUrl: "https://www.amazon.co.jp/dp/B01M6C77LU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-encha-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEncha+matcha%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jade-leaf-ceremonial-matcha",
+    category: "food",
+    badge: "Best Value Ceremonial",
+    name: { en: "Jade Leaf Ceremonial Matcha", ja: "Jade Leaf 宇治抹茶" },
+    description: { en: "Uji-origin ceremonial grade matcha at an accessible price point", ja: "宇治産抹茶グレード、手頃な価格" },
+    links: [
+      { network: "amazon-jp", productId: "B00Y3Q7F3E", rawUrl: "https://www.amazon.co.jp/dp/B00Y3Q7F3E", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-jade-leaf-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJade+Leaf+matcha%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "aiya-cooking-grade-matcha",
+    category: "food",
+    badge: "Best for Baking",
+    name: { en: "Aiya Cooking Grade Matcha", ja: "愛農（AIYA）製菓用抹茶" },
+    description: { en: "Professional cooking grade matcha from Japan's largest matcha producer", ja: "日本最大級抹茶メーカーの製菓・料理用グレード" },
+    links: [
+      { network: "amazon-jp", productId: "B0019N6HOM", rawUrl: "https://www.amazon.co.jp/dp/B0019N6HOM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-aiya-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%84%9B%E8%BE%B2+%E6%8A%B9%E8%8C%B6%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "matcha-love-unsweetened",
+    category: "food",
+    badge: "Most Accessible",
+    name: { en: "Matcha Love Unsweetened Powder", ja: "Matcha Love 無糖抹茶パウダー" },
+    description: { en: "ITO EN's widely available unsweetened matcha powder for everyday use", ja: "伊藤園のMatchaLove、無糖・手軽に入手可能" },
+    links: [
+      { network: "amazon-jp", productId: "B01LXHJ1OY", rawUrl: "https://www.amazon.co.jp/dp/B01LXHJ1OY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-matcha-love", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMatcha+Love%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Golf Rangefinder (fitness) ──────────────────────────────────────────
+  {
+    id: "bushnell-pro-xe",
+    category: "fitness",
+    badge: "Best Overall",
+    name: { en: "Bushnell Pro XE", ja: "Bushnell Pro XE" },
+    description: { en: "Premium laser golf rangefinder with BITE slope and magnetic mount", ja: "スロープBITE対応プレミアムレーザー距離計、磁気マウント付き" },
+    links: [
+      { network: "amazon-jp", productId: "B07Q2VXJLC", rawUrl: "https://www.amazon.co.jp/dp/B07Q2VXJLC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bushnell-pro-xe", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBushnell+Pro+XE%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "garmin-approach-z82",
+    category: "fitness",
+    badge: "Best Hybrid (Laser + GPS)",
+    name: { en: "Garmin Approach Z82", ja: "Garmin Approach Z82" },
+    description: { en: "Hybrid laser and GPS golf rangefinder with 41,000+ course maps", ja: "レーザー＋GPS複合、41,000コース以上収録" },
+    links: [
+      { network: "amazon-jp", productId: "B07XLQFHJ9", rawUrl: "https://www.amazon.co.jp/dp/B07XLQFHJ9", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-garmin-z82", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin+Approach+Z82%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "precision-pro-nx9",
+    category: "fitness",
+    badge: "Best Value",
+    name: { en: "Precision Pro NX9", ja: "Precision Pro NX9" },
+    description: { en: "Value laser rangefinder with slope, adaptive temperature compensation, and free battery replacement", ja: "スロープ・温度補正付き高コスパ距離計、バッテリー無料交換保証" },
+    links: [
+      { network: "amazon-jp", productId: "B083HWS7TL", rawUrl: "https://www.amazon.co.jp/dp/B083HWS7TL", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-precision-pro-nx9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPrecision+Pro+NX9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "garmin-approach-g12",
+    category: "fitness",
+    badge: "Best GPS Watch",
+    name: { en: "Garmin Approach G12", ja: "Garmin Approach G12" },
+    description: { en: "GPS golf clip device with 42,000+ courses and auto-detect", ja: "42,000コース以上収録の携帯型GPSゴルフクリップ" },
+    links: [
+      { network: "amazon-jp", productId: "B09GR9JLW8", rawUrl: "https://www.amazon.co.jp/dp/B09GR9JLW8", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-garmin-g12", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin+Approach+G12%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nikon-coolshot-pro-stabilized",
+    category: "fitness",
+    badge: "Best for Shaky Hands",
+    name: { en: "Nikon Coolshot Pro II Stabilized", ja: "Nikon COOLSHOT PRO II STABILIZED" },
+    description: { en: "Nikon laser rangefinder with optical image stabilization for faster flagstick acquisition", ja: "光学式手ブレ補正搭載、フラッグロックが速い" },
+    links: [
+      { network: "amazon-jp", productId: "B08FRGFLKD", rawUrl: "https://www.amazon.co.jp/dp/B08FRGFLKD", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nikon-coolshot-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCOOLSHOT+PRO+II%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
