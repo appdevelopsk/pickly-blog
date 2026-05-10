@@ -10469,6 +10469,147 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-panasonic-sd-b2510", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPanasonic%2BBread%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Home Gym Flooring (best-home-gym-flooring-2026) ─────────
+  {
+    id: "rubber-flooring-inc-horse-stall-mat",
+    category: "fitness",
+    badge: "top-pick",
+    name: { en: "Rubber Flooring Inc 4x6 Horse Stall Mat (3/4 inch)", ja: "Rubber Flooring Inc 4x6ホースストールマット（3/4インチ厚）" },
+    description: {
+      en: "Classic value pick for home gym flooring — 3/4-inch dense vulcanized rubber in a 4x6-foot mat handles barbell drops that EVA foam tiles cannot. Consistent thickness across the full mat surface provides stable feedback during squats and deadlifts. Expect a strong rubber odor for 2–6 weeks in enclosed spaces; air outdoors before installation.",
+      ja: "ホームジムフローリングの定番コスパ選択肢——厚さ3/4インチの高密度加硫ゴム4×6フィートマットはEVAフォームタイルでは対応できないバーベル落下を処理。全面均一厚みがスクワット・デッドリフトでの安定したフィードバックを提供。密閉空間では2〜6週間の強いゴム臭を見込むこと；設置前に屋外で空気にさらすことを推奨。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07H8MGRGQ", rawUrl: "https://www.amazon.co.jp/dp/B07H8MGRGQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rubber-flooring-horse-stall-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGym%2BFlooring%2BRubber%2BMat%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "balancefrom-puzzle-exercise-mat",
+    category: "fitness",
+    badge: "budget-pick",
+    name: { en: "BalanceFrom Puzzle Exercise Mat with EVA Foam", ja: "BalanceFrom パズルエクササイズマット（EVAフォーム）" },
+    description: {
+      en: "Best budget foam tile set for cardio zones and floor work — 3/4-inch interlocking EVA foam tiles provide cushioning for ab exercises, push-ups, stretching, and yoga that rubber mats cannot match for surface comfort. Configurable to fit irregular room shapes; not suitable for barbell drop zones.",
+      ja: "カーディオゾーンと床面運動向け最良バジェットフォームタイルセット——3/4インチ連結EVAフォームタイルが腹筋・プッシュアップ・ストレッチ・ヨガでゴムマットでは実現できない表面快適性を提供。変則的な部屋形状への対応が可能；バーベル落下ゾーンには不適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-balancefrom-puzzle-mat", rawUrl: "https://www.amazon.co.jp/s?k=BalanceFrom+%E3%83%91%E3%82%BA%E3%83%AB%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-balancefrom-puzzle-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBalanceFrom%2BPuzzle%2BExercise%2BMat%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rogue-fitness-flooring-rolls",
+    category: "fitness",
+    badge: "premium-pick",
+    name: { en: "Rogue Monster Matting (per linear foot)", ja: "ローグ モンスターマッティング（1フィート単位）" },
+    description: {
+      en: "Purpose-built rubber rolls for permanent home gym installation — denser and more consistent than horse stall mat material, sold by the linear foot in 4-foot-wide rolls to eliminate seams across large spaces. Surface texture engineered for athletic use. The correct choice for a serious, permanent home gym where long-term quality and aesthetics matter.",
+      ja: "恒久的なホームジム設置向け専用ゴムロール——ホースストールマット素材より高密度で一貫性があり、1フィート単位で購入できる幅4フィートのロールが大きなスペースの継ぎ目を排除。表面テクスチャは競技用に設計。品質と美観を重視する本格的な恒久ホームジムに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-rogue-monster-matting", rawUrl: "https://www.amazon.co.jp/s?k=Rogue+%E3%82%B8%E3%83%A0+%E3%82%B4%E3%83%A0%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-monster-matting", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BMonster%2BMatting%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "superjock-rubber-floor-tiles",
+    category: "fitness",
+    name: { en: "SuperMats Heavy Duty Rubber Mat 4x6", ja: "SuperMats ヘビーデューティー ゴムマット 4x6" },
+    description: {
+      en: "Heavy-duty rubber tiles offering a middle ground between horse stall mats and Rogue rolls — denser construction than EVA foam, interlocking tabs for easy installation and reconfiguration, gym-oriented surface finish. Useful for mixed-use spaces where layout may change or tiles need to be pulled up periodically.",
+      ja: "ホースストールマットとローグロールの中間点を提供するヘビーデューティーゴムタイル——EVAフォームより高密度、連結タブによる簡単な設置と再配置、ジム向け表面仕上げ。レイアウト変更の可能性があるスペースや定期的な取り外しが必要な混在スペースに有効。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-supermats-rubber-mat-4x6", rawUrl: "https://www.amazon.co.jp/s?k=SuperMats+%E3%82%B4%E3%83%A0%E3%83%9E%E3%83%83%E3%83%88+%E3%82%B8%E3%83%A0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-supermats-rubber-mat-4x6", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSuperMats%2BHeavy%2BDuty%2BRubber%2BMat%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gorilla-mats-premium-large-mat",
+    category: "fitness",
+    name: { en: "Gorilla Mats Premium Large Exercise Mat 6x4", ja: "ゴリラマッツ プレミアム ラージエクササイズマット 6x4" },
+    description: {
+      en: "Single-piece premium exercise mat that eliminates seams for smaller lifting areas — one mat covers a power rack footprint and immediate landing zone without any butted edges. Odor-reduced rubber compound off-gasses faster than standard stall mats and arrives ready to use sooner.",
+      ja: "小〜中規模リフティングエリアの継ぎ目を完全に排除するシングルピースプレミアムエクササイズマット——1枚でパワーラックのフットプリントと即時落下ゾーンをカバー。標準ストールマットより臭い解消が早いゴム配合を採用。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-gorilla-mats-premium-large", rawUrl: "https://www.amazon.co.jp/s?k=Gorilla+Mats+Premium+Large+Exercise+Mat", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-gorilla-mats-premium-large", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGorilla%2BMats%2BPremium%2BLarge%2BExercise%2BMat%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Food / Induction Cooktops (best-induction-cooktop-2026) ─────────
+  {
+    id: "duxtop-9100mc-induction-cooktop",
+    category: "food",
+    badge: "top-pick",
+    name: { en: "Duxtop 9100MC Portable Induction Cooktop", ja: "Duxtop 9100MC ポータブルIHクッキングヒーター" },
+    description: {
+      en: "19 power levels up to 1800W and 19 temperature settings from 140°F to 460°F with a clear LED display. Physical button controls work reliably with wet hands or oven mitts. Boost mode brings a 3-quart saucepan to boil in about 5 minutes 20 seconds. Built-in child safety lock and 170-minute timer. The best balance of control granularity and build quality at this price.",
+      ja: "最大1800Wまで19段階の出力と140〜460°Fの19段階温度設定、明確なLED表示。物理ボタンは濡れた手やオーブンミットでも確実に反応。ブーストモードで3クォートソースパンを約5分20秒で沸騰。チャイルドロックと170分タイマー内蔵。この価格帯で制御の細かさとビルドクオリティのバランスが最優秀。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00F1C4V8A", rawUrl: "https://www.amazon.co.jp/dp/B00F1C4V8A", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-duxtop-9100mc", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDuxtop%2BInduction%2BCooktop%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nuwave-precision-induction-2-cooktop",
+    category: "food",
+    badge: "precision-pick",
+    name: { en: "NuWave Precision Induction Cooktop 2", ja: "NuWave プレシジョン IHクッキングヒーター 2" },
+    description: {
+      en: "Temperature control in 5°F increments from 100°F to 575°F — finer resolution than most competitors in this price range. Six programmable cooking stages allow temperature and time sequences for multi-step recipes. 1800W maximum output. The staging feature is genuinely useful for candy making and multi-step sauces where temperatures change at defined intervals.",
+      ja: "100〜575°Fを5°F刻みで制御——この価格帯の競合より細かい分解能。6段階のプログラマブルクッキングステージで多段階レシピの温度と時間をシーケンス設定。最大1800W。キャンディ製造や多段階ソースで温度が一定間隔で変わる場面でステージング機能が本当に役立つ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00LQKJPD0", rawUrl: "https://www.amazon.co.jp/dp/B00LQKJPD0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nuwave-precision-induction-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNuWave%2BPrecision%2BInduction%2FCooktop%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "breville-bic600xl-control-freak",
+    category: "food",
+    badge: "pro-pick",
+    name: { en: "Breville BIC600XL the Control Freak Induction Cooktop", ja: "Breville BIC600XL コントロールフリーク IHクッキングヒーター" },
+    description: {
+      en: "Pan-surface temperature probe measures the actual cooking surface — not the glass beneath — and adjusts output every 20 milliseconds to hold within 1°F of target from 77°F to 482°F. Large dial interface matches professional kitchen workflow. Magnetic probe stores in the handle. Used by line cooks for chocolate tempering, custards, candy, and any technique where 5°F variance causes failure.",
+      ja: "パン表面温度プローブがガラス面ではなく実際の調理面を計測し、77〜482°Fで目標値の1°F以内をキープするよう20ミリ秒ごとに出力を調整。大型ダイヤルがプロキッチンの作業フローに合致。プローブはハンドルに磁気収納。チョコレートテンパリング・カスタード・キャンディ製造で5°Fのズレが失敗につながる技術でプロが使用。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00LQOU3GQ", rawUrl: "https://www.amazon.co.jp/dp/B00LQOU3GQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-breville-bic600xl-control-freak", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BControl%2BFreak%2BInduction%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cosori-induction-cooktop-1800w",
+    category: "food",
+    badge: "portable-pick",
+    name: { en: "COSORI 1800W Induction Cooktop", ja: "COSORI 1800W IHクッキングヒーター" },
+    description: {
+      en: "Thinner and lighter than the Secura/Duxtop with 15 power levels and a slider touch control. The reduced weight makes it the easiest to move in and out of storage for occasional use. Touch controls are less reliable than physical buttons with wet hands. Best choice for dorm rooms, campers, and secondary kitchens where the unit moves frequently.",
+      ja: "Secura/Duxtopより薄く軽く、15段階出力とスライダータッチコントロール採用。軽量設計で時々取り出して使うスタイルに最適。濡れた手でのタッチコントロールは物理ボタンより信頼性が低い。ドミトリー・キャンパー・頻繁に移動させるサブキッチン向けに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B085HH1YDC", rawUrl: "https://www.amazon.co.jp/dp/B085HH1YDC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cosori-induction-cooktop-1800w", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCOSORI%2BInduction%2BCooktop%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "secura-9100mc-induction-cooktop",
+    category: "food",
+    badge: "budget-pick",
+    name: { en: "Secura 9100MC 1800W Portable Induction Cooktop", ja: "Secura 9100MC 1800W ポータブルIHクッキングヒーター" },
+    description: {
+      en: "Functionally equivalent to the Duxtop 9100MC — same 19 power levels and temperature steps, same 1800W maximum, same physical button layout. Typically priced $5-15 less than the Duxtop. Two-year US warranty from Secura's US distributor. Buy whichever of the Secura or Duxtop is in stock at the better price on the day you're purchasing.",
+      ja: "Duxtop 9100MCと機能的に同等——同じ19段階出力・温度ステップ、同じ最大1800W、同じ物理ボタンレイアウト。通常Duxtopより5〜15ドル安い。Secura米国販売店からの2年保証付き。SecuraとDuxtopのどちらがその日安く在庫があるかで選べばよい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01FZLHVHQ", rawUrl: "https://www.amazon.co.jp/dp/B01FZLHVHQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-secura-9100mc-induction", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSecura%2BInduction%2BCooktop%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
