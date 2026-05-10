@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 190 articles x 6 variants x 2 locales (en, ja) = 2280 pins (growing)
+# 192 articles x 6 variants x 2 locales (en, ja) = 2304 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -25624,3 +25624,245 @@ pins:
   link: "/ja/best-grip-strength-trainer-2026"
   image_alt: "Fat Gripz 懸垂 グリップトレーニング ルーティン統合"
   hashtags: ["FatGripz", "懸垂", "グリップ力", "フィットネス", "ホームジム"]
+
+# best-moka-pot-2026
+- id: best-moka-pot-2026-comparison-en
+  board: food
+  locale: en
+  variant: comparison
+  title: "Best Moka Pots 2026: Bialetti Moka Express vs Brikka vs Cuisinox vs Ilsa vs Pezzetti"
+  description: "Five moka pots compared on brew pressure, crema production, and material quality. What stovetop espresso actually is vs real espresso — and which moka pot is right for black coffee vs milk drinks."
+  link: "/en/best-moka-pot-2026"
+  image_alt: "Best moka pots 2026 comparison Bialetti Moka Express Brikka Cuisinox Ilsa Pezzetti"
+  hashtags: ["mokapot", "stovetopespresso", "coffee", "bialetti", "coffeegear"]
+
+- id: best-moka-pot-2026-top1-en
+  board: food
+  locale: en
+  variant: top1
+  title: "The Original Still Wins: Bialetti Moka Express Stovetop Espresso"
+  description: "The Bialetti Moka Express (patented 1933) is the category-defining stovetop espresso maker — the 8-sided aluminum design, the specific filter basket geometry, the valve system that produces the characteristic moka flavor. $30-45."
+  link: "/en/best-moka-pot-2026"
+  image_alt: "Bialetti Moka Express original stovetop espresso maker iconic design"
+  hashtags: ["bialetti", "mokaexpress", "mokapot", "stovetopespresso", "coffee"]
+
+- id: best-moka-pot-2026-problem-en
+  board: food
+  locale: en
+  variant: problem
+  title: "Moka Pot vs Espresso Machine: What's Actually Different"
+  description: "A moka pot brews at 1-2 bar. An espresso machine at 9 bar. True espresso crema requires 9 bar — moka pots can't produce it. What they do produce: a strong, bold concentrate perfect as a milk drink base. Different product, not inferior."
+  link: "/en/best-moka-pot-2026"
+  image_alt: "Moka pot vs espresso machine pressure difference crema explanation"
+  hashtags: ["mokapot", "espresso", "coffee", "stovetopespresso", "coffeescience"]
+
+- id: best-moka-pot-2026-budget-en
+  board: food
+  locale: en
+  variant: budget
+  title: "Best Budget Entry into Stovetop Espresso: Pezzetti Italexpress"
+  description: "Pezzetti Italexpress is Italian-made stainless at $20-30 — functionally equivalent to the premium versions for first-time moka pot buyers. Try the brewing method before committing to a $50+ Bialetti Brikka or Cuisinox."
+  link: "/en/best-moka-pot-2026"
+  image_alt: "Pezzetti Italexpress budget moka pot Italian stainless steel"
+  hashtags: ["mokapot", "pezzetti", "budget", "coffee", "stovetopespresso"]
+
+- id: best-moka-pot-2026-avoid-en
+  board: food
+  locale: en
+  variant: avoid
+  title: "Moka Pot Grind Mistake: Why You're Getting Bitter Coffee"
+  description: "Most 'espresso grind' coffee at supermarkets is calibrated for 9-bar machines — too fine for moka pots. Water can't flow properly, pressure builds wrong, extraction goes bitter. Medium-fine (fine sand texture) is correct for moka."
+  link: "/en/best-moka-pot-2026"
+  image_alt: "Moka pot grind size bitter coffee mistake medium-fine correct"
+  hashtags: ["mokapot", "coffee", "coffeetips", "grindsize", "stovetopespresso"]
+
+- id: best-moka-pot-2026-scene-en
+  board: food
+  locale: en
+  variant: scene
+  title: "Moka Pot Latte at Home: How to Use Stovetop Espresso for Milk Drinks"
+  description: "Brew a 3-cup Bialetti (90 ml concentrate), heat and froth milk separately, combine. The Brikka's crema-like foam adds texture to the finished drink. For a cappuccino-style result at home without an espresso machine."
+  link: "/en/best-moka-pot-2026"
+  image_alt: "Moka pot latte at home stovetop espresso milk drink cappuccino"
+  hashtags: ["mokapot", "latte", "homecafe", "coffee", "milkdrink"]
+
+- id: best-moka-pot-2026-comparison-ja
+  board: food
+  locale: ja
+  variant: comparison
+  title: "モカポットおすすめ2026：Bialetti Moka Express vs Brikka vs Cuisinox vs Ilsa vs Pezzetti比較"
+  description: "5製品を抽出圧力・クレマ生成・素材品質で比較。ストーブトップエスプレッソとは実際に何か——ブラックコーヒーvsミルクドリンクに適したモカポットはどれ。"
+  link: "/ja/best-moka-pot-2026"
+  image_alt: "モカポットおすすめ2026比較 BialettiMokaExpress Brikka Cuisinox Ilsa Pezzetti"
+  hashtags: ["モカポット", "ストーブトップエスプレッソ", "コーヒー", "Bialetti", "コーヒー器具"]
+
+- id: best-moka-pot-2026-top1-ja
+  board: food
+  locale: ja
+  variant: top1
+  title: "オリジナルが依然勝利：Bialetti モカエクスプレス ストーブトップエスプレッソ"
+  description: "Bialetti Moka Express（1933年特許）はカテゴリーを定義するストーブトップエスプレッソメーカー——8角形のアルミニウムデザイン、特定のフィルターバスケット形状、特有のモカ風味を生成するバルブシステム。3,000〜5,500円。"
+  link: "/ja/best-moka-pot-2026"
+  image_alt: "Bialetti モカエクスプレス オリジナル ストーブトップエスプレッソ アイコニックデザイン"
+  hashtags: ["Bialetti", "モカエクスプレス", "モカポット", "ストーブトップエスプレッソ", "コーヒー"]
+
+- id: best-moka-pot-2026-problem-ja
+  board: food
+  locale: ja
+  variant: problem
+  title: "モカポット vs エスプレッソマシン：実際に何が違うのか"
+  description: "モカポットは1〜2バールで抽出。エスプレッソマシンは9バール。本物のエスプレッソクレマには9バールが必要——モカポットには生成できません。実際に生成するもの：ミルクドリンクベースに完璧な強く太い濃縮コーヒー。劣ったものではなく、異なる製品。"
+  link: "/ja/best-moka-pot-2026"
+  image_alt: "モカポット vs エスプレッソマシン 圧力差 クレマ解説"
+  hashtags: ["モカポット", "エスプレッソ", "コーヒー", "ストーブトップエスプレッソ", "コーヒー科学"]
+
+- id: best-moka-pot-2026-budget-ja
+  board: food
+  locale: ja
+  variant: budget
+  title: "ストーブトップエスプレッソへの最高のコスパ入口：Pezzetti Italexpress"
+  description: "Pezzetti Italexpressはイタリア製ステンレスで2,500〜4,000円——初めてのモカポット購入者に機能的に同等。8,000円以上のBialetti BrikkaやCuisinoxにコミットする前に醸造方法を試す。"
+  link: "/ja/best-moka-pot-2026"
+  image_alt: "Pezzetti Italexpress コスパ モカポット イタリア製ステンレス"
+  hashtags: ["モカポット", "Pezzetti", "節約", "コーヒー", "ストーブトップエスプレッソ"]
+
+- id: best-moka-pot-2026-avoid-ja
+  board: food
+  locale: ja
+  variant: avoid
+  title: "モカポットの挽き目ミス：苦いコーヒーになる原因"
+  description: "スーパーの「エスプレッソ挽き」コーヒーのほとんどは9バールマシン向けに校正——モカポットには細かすぎる。水が適切に流れられず、圧力が間違って積み上がり、抽出が苦くなります。モカには中細挽き（細かい砂の食感）が正しい。"
+  link: "/ja/best-moka-pot-2026"
+  image_alt: "モカポット 挽き目 苦いコーヒー ミス 中細挽き 正しい"
+  hashtags: ["モカポット", "コーヒー", "コーヒーのコツ", "挽き目", "ストーブトップエスプレッソ"]
+
+- id: best-moka-pot-2026-scene-ja
+  board: food
+  locale: ja
+  variant: scene
+  title: "自宅でモカポットラテ：ストーブトップエスプレッソでミルクドリンクを作る方法"
+  description: "3カップBialetti（90ml濃縮）を淹れ、別にミルクを温めてフロスし、組み合わせる。Brikkaのクレマ様の泡が完成した飲み物に食感を追加。エスプレッソマシンなしで自宅でカプチーノスタイルの結果を得る。"
+  link: "/ja/best-moka-pot-2026"
+  image_alt: "モカポットラテ 自宅 ストーブトップエスプレッソ ミルクドリンク カプチーノ"
+  hashtags: ["モカポット", "ラテ", "ホームカフェ", "コーヒー", "ミルクドリンク"]
+
+# best-sandbag-training-2026
+- id: best-sandbag-training-2026-comparison-en
+  board: fitness
+  locale: en
+  variant: comparison
+  title: "Best Training Sandbags 2026: Rogue vs REP Fitness vs GORUCK vs Viking Strength vs Cerberus"
+  description: "Five training sandbags compared on handle durability, load capacity, and training application. The shifting load advantage over barbells — and which sandbag is built for your training goals."
+  link: "/en/best-sandbag-training-2026"
+  image_alt: "Best training sandbags 2026 Rogue REP GORUCK Viking Cerberus comparison"
+  hashtags: ["sandbag", "sandbagtraining", "strongman", "homegym", "functionalfitness"]
+
+- id: best-sandbag-training-2026-top1-en
+  board: fitness
+  locale: en
+  variant: top1
+  title: "Best Sandbag for Home Gym Value: REP Fitness Training Sandbag"
+  description: "REP Fitness sandbag at $80-130 offers 900D Cordura construction, reinforced handles, and modular filler at significantly lower cost than Rogue. Adequate durability for regular home gym use with the most versatile handle system."
+  link: "/en/best-sandbag-training-2026"
+  image_alt: "REP Fitness training sandbag home gym value best"
+  hashtags: ["repfitness", "sandbag", "homegym", "sandbagtraining", "fitness"]
+
+- id: best-sandbag-training-2026-problem-en
+  board: fitness
+  locale: en
+  variant: problem
+  title: "Why the Shifting Load in a Sandbag Trains Different Muscles Than Barbells"
+  description: "A barbell's center of gravity is fixed — you learn it and stabilize against it. A sandbag shifts constantly, recruiting deep core stabilizers and adaptive grip throughout the entire movement. This is why strongmen and military programs use sandbags."
+  link: "/en/best-sandbag-training-2026"
+  image_alt: "Sandbag shifting load vs barbell fixed weight stabilizer muscles"
+  hashtags: ["sandbag", "sandbagtraining", "corestrength", "strongman", "fitness"]
+
+- id: best-sandbag-training-2026-budget-en
+  board: fitness
+  locale: en
+  variant: budget
+  title: "Most Durable Sandbag for the Money: REP vs Rogue Compared"
+  description: "Rogue at $175-250 is commercial gym quality. REP Fitness at $80-130 is adequate for home gym use. For most home athletes not throwing bags against concrete floors daily, REP performs the same exercises at half the cost."
+  link: "/en/best-sandbag-training-2026"
+  image_alt: "Training sandbag value comparison REP Fitness vs Rogue cost durability"
+  hashtags: ["sandbag", "homegym", "budgetfitness", "sandbagtraining", "fitness"]
+
+- id: best-sandbag-training-2026-avoid-en
+  board: fitness
+  locale: en
+  variant: avoid
+  title: "Don't Fill Training Sandbags with Water — Use Sand or Gravel"
+  description: "Most sandbag shells aren't rated for liquid and water weight distribution is too unpredictable for lifting movements. Sand is the standard: available at hardware stores, consistent weight, easy to manage. Pea gravel is denser for more weight in less space."
+  link: "/en/best-sandbag-training-2026"
+  image_alt: "Training sandbag fill material sand gravel not water"
+  hashtags: ["sandbag", "sandbagtraining", "homegym", "fitness", "strongman"]
+
+- id: best-sandbag-training-2026-scene-en
+  board: fitness
+  locale: en
+  variant: scene
+  title: "Sandbag Shouldering: The Strongman Movement That Builds Functional Strength"
+  description: "Sandbag shouldering — clean the bag from the floor to one shoulder — is the signature strongman movement. It trains hip hinge, pull, and core rotation simultaneously with a load that fights back. How to start and what weight to use."
+  link: "/en/best-sandbag-training-2026"
+  image_alt: "Sandbag shouldering strongman movement technique how to"
+  hashtags: ["sandbag", "shouldering", "strongman", "functionalfitness", "sandbagtraining"]
+
+- id: best-sandbag-training-2026-comparison-ja
+  board: fitness
+  locale: ja
+  variant: comparison
+  title: "トレーニングサンドバッグおすすめ2026：Rogue vs REP Fitness vs GORUCK vs Viking Strength vs Cerberus"
+  description: "5製品をハンドル耐久性・荷重容量・トレーニング用途で比較。バーベルに対するシフトする荷重の優位性——あなたのトレーニング目標に作られたサンドバッグはどれか。"
+  link: "/ja/best-sandbag-training-2026"
+  image_alt: "トレーニングサンドバッグおすすめ2026 Rogue REP GORUCK Viking Cerberus比較"
+  hashtags: ["サンドバッグ", "サンドバッグトレーニング", "ストロングマン", "ホームジム", "機能的フィットネス"]
+
+- id: best-sandbag-training-2026-top1-ja
+  board: fitness
+  locale: ja
+  variant: top1
+  title: "ホームジムコスパ最強サンドバッグ：REP Fitness トレーニングサンドバッグ"
+  description: "REP Fitnessサンドバッグは1万〜1万8千円で900D Cordura構造・補強ハンドル・モジュラーフィラーをRogueより大幅に安いコストで提供。定期的なホームジム使用に十分な耐久性と最も汎用性の高いハンドルシステム。"
+  link: "/ja/best-sandbag-training-2026"
+  image_alt: "REP Fitness トレーニングサンドバッグ ホームジム コスパ最強"
+  hashtags: ["REPFitness", "サンドバッグ", "ホームジム", "サンドバッグトレーニング", "フィットネス"]
+
+- id: best-sandbag-training-2026-problem-ja
+  board: fitness
+  locale: ja
+  variant: problem
+  title: "サンドバッグのシフトする荷重がバーベルと異なる筋肉を鍛える理由"
+  description: "バーベルの重心は固定されています——学んで安定させる。サンドバッグは常にシフトし、動作全体を通して深いコア安定筋と適応的グリップを動員します。これがストロングマンと軍事プログラムがサンドバッグを使う理由です。"
+  link: "/ja/best-sandbag-training-2026"
+  image_alt: "サンドバッグ シフトする荷重 vs バーベル 固定重量 安定化筋"
+  hashtags: ["サンドバッグ", "サンドバッグトレーニング", "コアストレングス", "ストロングマン", "フィットネス"]
+
+- id: best-sandbag-training-2026-budget-ja
+  board: fitness
+  locale: ja
+  variant: budget
+  title: "コスパ最高の耐久性サンドバッグ：REP vs Rogue比較"
+  description: "Rogueは2万〜3万5千円でコマーシャルジム品質。REP Fitnessは1万〜1万8千円でホームジム使用に十分。毎日コンクリートに投げるわけでないほとんどのホームアスリートにはREPが半額で同じエクササイズを実行します。"
+  link: "/ja/best-sandbag-training-2026"
+  image_alt: "トレーニングサンドバッグ コスパ比較 REP Fitness vs Rogue"
+  hashtags: ["サンドバッグ", "ホームジム", "節約", "サンドバッグトレーニング", "フィットネス"]
+
+- id: best-sandbag-training-2026-avoid-ja
+  board: fitness
+  locale: ja
+  variant: avoid
+  title: "トレーニングサンドバッグに水を入れないこと——砂か砂利を使う"
+  description: "ほとんどのサンドバッグシェルは液体に定格されておらず、水の重量分布はリフティング動作には予測不可能すぎます。砂が基準：ホームセンターで入手可能、一貫した重量、管理が容易。豆砂利はより少ないスペースでより多くの重量に密度が高い。"
+  link: "/ja/best-sandbag-training-2026"
+  image_alt: "トレーニングサンドバッグ フィル材 砂 砂利 水を入れない"
+  hashtags: ["サンドバッグ", "サンドバッグトレーニング", "ホームジム", "フィットネス", "ストロングマン"]
+
+- id: best-sandbag-training-2026-scene-ja
+  board: fitness
+  locale: ja
+  variant: scene
+  title: "サンドバッグショルダリング：機能的強度を鍛えるストロングマン動作"
+  description: "サンドバッグショルダリング——床からバッグを片肩にクリーン——はストロングマンのシグネチャー動作。ヒップヒンジ・プル・コア回転を抵抗する荷重と同時に鍛えます。始め方と使う重量の解説。"
+  link: "/ja/best-sandbag-training-2026"
+  image_alt: "サンドバッグショルダリング ストロングマン動作 テクニック やり方"
+  hashtags: ["サンドバッグ", "ショルダリング", "ストロングマン", "機能的フィットネス", "サンドバッグトレーニング"]
