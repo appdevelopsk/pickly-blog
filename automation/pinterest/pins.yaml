@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 220 articles x 6 variants x 2 locales (en, ja) = 2640 pins (growing)
+# 222 articles x 6 variants x 2 locales (en, ja) = 2664 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -28816,3 +28816,171 @@ pins:
   title: "ハヤブサT3でヘビーバッグ3ラウンド：手首サポートがワークアウトを変える理由"
   description: "ハヤブサT3のデュアルストラップ手首圧迫で、手首の不安定さへの不安なくより強いコンビネーションを打てます。シングルストラップグローブとの差はストレートパンチで即座に感じられます——手首が前腕と一直線に軌道を描き、少し転がることがありません。より良いテクニックフィードバック、怪我のリスクが低い。"
   image_path: public/og/best-boxing-gloves-2026-ja.png
+
+- slug: best-green-tea-2026
+  locale: en
+  variant: comparison
+  title: "Japanese Sencha vs Gyokuro vs Genmaicha vs Chinese Dragon Well 2026 Green Tea"
+  description: "Japanese sencha: steamed, grassy-umami, $8-25 per 80-100g. Gyokuro: shade-grown, intense umami sweetness, steep at 50-60°C. Genmaicha: sencha + roasted rice, approachable for beginners. Dragon Well (China): pan-fired, toasty-sweet, less vegetal."
+  image_path: public/og/best-green-tea-2026-en.png
+
+- slug: best-green-tea-2026
+  locale: en
+  variant: top1
+  title: "Best Green Tea for Everyday Drinking 2026: Ippodo Ummon Sencha (Uji-Sourced Quality)"
+  description: "Ippodo Ummon sencha wins for daily drinking — Japan's oldest tea shop, direct Uji sourcing, bright green with clean grassy finish. $18-25 for 80g (18-22 servings). Consistent batch quality. Brew at 70-75°C for 1 minute — not boiling water."
+  image_path: public/og/best-green-tea-2026-en.png
+
+- slug: best-green-tea-2026
+  locale: en
+  variant: problem
+  title: "Why Your Green Tea Is Bitter: You're Using Boiling Water (Fix: 70-75°C)"
+  description: "Boiling water (100°C) extracts tannins from green tea rapidly — producing bitter, astringent cups. Japanese sencha should steep at 70-75°C. Gyokuro at 50-60°C. Without a temperature-controlled kettle: let boiled water sit 3-5 minutes before steeping. This one change transforms the cup."
+  image_path: public/og/best-green-tea-2026-en.png
+
+- slug: best-green-tea-2026
+  locale: en
+  variant: budget
+  title: "Budget Everyday Green Tea: Harney & Sons Japanese Sencha Loose Leaf ($8-12 / 4oz)"
+  description: "Harney & Sons Japanese Sencha loose leaf at $8-12 for 4oz (approx. 40 servings) is the accessible mass-market entry — widely available at Whole Foods, noticeably better quality than bagged tea. $0.20-0.30 per cup. Good everyday green tea without specialty shop pricing."
+  image_path: public/og/best-green-tea-2026-en.png
+
+- slug: best-green-tea-2026
+  locale: en
+  variant: avoid
+  title: "Green Tea Bags vs Loose Leaf: Why Bags Are Usually Worse (Tea Fannings Explained)"
+  description: "Tea bags typically contain 'fannings' — small broken pieces left after premium loose leaf is sorted. Fannings extract faster and more astringently than whole or large-cut leaves. Loose leaf green tea at the same price point produces a noticeably better cup. The second and third infusions from loose leaf are impossible from a tea bag."
+  image_path: public/og/best-green-tea-2026-en.png
+
+- slug: best-green-tea-2026
+  locale: en
+  variant: scene
+  title: "Cold Brew Japanese Sencha Overnight: Sweet, Low-Bitter, Best Iced Green Tea Method"
+  description: "Cold brew green tea: 1 tsp loose leaf per 200ml cold water, 6-8 hours in the refrigerator. Cold water extracts L-theanine and sweet compounds while minimizing tannin extraction. Result: sweeter and less astringent than hot-brewed and chilled. Works with any quality Japanese sencha or gyokuro."
+  image_path: public/og/best-green-tea-2026-en.png
+
+- slug: best-green-tea-2026
+  locale: ja
+  variant: comparison
+  title: "日本産煎茶vs玉露vs玄米茶vs中国龍井茶 2026年緑茶比較"
+  description: "日本産煎茶：蒸し製、グラッシーで旨味、80〜100gで$8〜25。玉露：覆い栽培、強烈な旨味の甘さ、50〜60℃で蒸らす。玄米茶：煎茶＋炒った玄米、初心者に取り組みやすい。龍井茶（中国）：釜炒り製、トースティで甘く、植物的でない。"
+  image_path: public/og/best-green-tea-2026-ja.png
+
+- slug: best-green-tea-2026
+  locale: ja
+  variant: top1
+  title: "2026年毎日飲む最高の緑茶：一保堂茶舗 雲門の昔 煎茶（宇治産品質）"
+  description: "一保堂の雲門の昔 煎茶が毎日飲む用で1位——日本最古の茶舗、宇治からの直接調達、クリーンなグラッシーフィニッシュの鮮やかな緑。80gで$18〜25（18〜22杯分）。一定のバッチ品質。70〜75℃で1分蒸らす——沸騰したお湯は禁物。"
+  image_path: public/og/best-green-tea-2026-ja.png
+
+- slug: best-green-tea-2026
+  locale: ja
+  variant: problem
+  title: "緑茶が苦くなる理由：沸騰したお湯を使っています（修正：70〜75℃に）"
+  description: "沸騰したお湯（100℃）は緑茶のタンニンを急速に抽出して苦くて渋い結果になります。日本の煎茶は70〜75℃で蒸らすべき。玉露は50〜60℃。温度調節付きケトルなしの場合：沸騰後3〜5分冷ましてから蒸らします。この一つの変更がカップを変えます。"
+  image_path: public/og/best-green-tea-2026-ja.png
+
+- slug: best-green-tea-2026
+  locale: ja
+  variant: budget
+  title: "コスパ最高の日常緑茶：ハーニー&サンズ 日本煎茶ルーフリーフ（4ozで$8〜12）"
+  description: "ハーニー&サンズ 日本煎茶ルーフリーフが4ozで$8〜12（約40杯分）——ホールフーズで広く入手可能、バッグ入り茶より明らかに高品質。1杯あたり$0.20〜0.30。専門店価格なしの手頃な日常緑茶。"
+  image_path: public/og/best-green-tea-2026-ja.png
+
+- slug: best-green-tea-2026
+  locale: ja
+  variant: avoid
+  title: "緑茶バッグ vs ルーフリーフ：バッグがほぼ常に劣る理由（茶の粉末の説明）"
+  description: "ティーバッグには通常、プレミアムルーフリーフの仕分け後に残る細かく砕けた「ファニングス」が含まれます。ファニングスは茶葉全体より速くより渋く抽出されます。同価格帯のルーフリーフ緑茶は明らかに良いカップを生み出します。ルーフリーフからの2〜3煎は茶バッグでは不可能です。"
+  image_path: public/og/best-green-tea-2026-ja.png
+
+- slug: best-green-tea-2026
+  locale: ja
+  variant: scene
+  title: "日本産煎茶を一晩コールドブリュー：甘く苦みの少ない最高のアイスグリーンティー"
+  description: "緑茶のコールドブリュー：ルーフリーフ小さじ1を200mlの冷水に入れて冷蔵庫で6〜8時間蒸らします。冷水はL-テアニンと甘い成分を抽出しながらタンニンの抽出を最小化します。結果：温かく淹れて冷やすより甘くて渋みが少ない。品質の良い日本産煎茶や玉露全般に使えます。"
+  image_path: public/og/best-green-tea-2026-ja.png
+
+- slug: best-pickleball-paddle-2026
+  locale: en
+  variant: comparison
+  title: "Selkirk Vanguard vs Joola Ben Johns Hyperion vs Franklin X-40 Pickleball Paddles 2026"
+  description: "Selkirk Vanguard Power Air: polymer core, $200-230, pro tour brand. Joola Ben Johns Hyperion CFS16: carbon fiber face, $200-230, spin-forward. Franklin X-40 set: composite, $30-50, beginner. Different tiers for different commitment levels — here's how to choose."
+  image_path: public/og/best-pickleball-paddle-2026-en.png
+
+- slug: best-pickleball-paddle-2026
+  locale: en
+  variant: top1
+  title: "Best Pickleball Paddle for Developing Spin 2026: Joola Ben Johns Hyperion CFS 16"
+  description: "Joola Ben Johns Hyperion CFS 16 wins for spin development — Carbon Friction Surface (CFS) face texture is one of the best for topspin generation. Co-designed with world #1 Ben Johns on face texture spec. 16mm polymer core favors control. $200-230."
+  image_path: public/og/best-pickleball-paddle-2026-en.png
+
+- slug: best-pickleball-paddle-2026
+  locale: en
+  variant: problem
+  title: "Don't Buy a $200 Pickleball Paddle Until You've Played 3 Months — Here's Why"
+  description: "At the beginner stage, you don't know if you prefer power or control, light or heavy, wide or standard shape. A $200 paddle before you know your preferences means you'll likely want to change paddles once you develop them. Start with Franklin X-40 ($30-50) or Onix Z5 ($60-80) — then upgrade with informed preferences."
+  image_path: public/og/best-pickleball-paddle-2026-en.png
+
+- slug: best-pickleball-paddle-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Pickleball Starter: Franklin X-40 2-Paddle Set ($30-50, Includes Tournament Balls)"
+  description: "Franklin X-40 2-paddle set includes 4 Franklin X-40 balls — the official outdoor tournament ball for USA Pickleball. $30-50 total. Composite paddles appropriate for learning mechanics. The balls included are legitimately tournament-quality, not toy balls. Best complete starter package."
+  image_path: public/og/best-pickleball-paddle-2026-en.png
+
+- slug: best-pickleball-paddle-2026
+  locale: en
+  variant: avoid
+  title: "Avoid 8oz+ Pickleball Paddles Unless You've Tested Heavy Paddles — Arm Fatigue Is Real"
+  description: "Paddles over 8.5oz provide more power on drives but fatigue arms faster in extended play and make quick dink exchanges at the kitchen harder. If you're new or have a history of tennis elbow, start at 7.5-8.0 oz. You can always add weight with lead tape later — you can't remove weight from a paddle."
+  image_path: public/og/best-pickleball-paddle-2026-en.png
+
+- slug: best-pickleball-paddle-2026
+  locale: en
+  variant: scene
+  title: "Third Shot Drop Practice: Why the Right Paddle Makes Soft Shots Feel Consistent"
+  description: "The third shot drop (from baseline into the kitchen) is the pivotal skill in intermediate pickleball — it requires touch and consistent dwell time. A 16mm polymer core paddle (Joola Hyperion, Selkirk Vanguard) gives more dwell time and consistent response on soft shots than thin-core power paddles. Practice 50 drops per session."
+  image_path: public/og/best-pickleball-paddle-2026-en.png
+
+- slug: best-pickleball-paddle-2026
+  locale: ja
+  variant: comparison
+  title: "セルカーク・バンガード vs ジョーラ・ベン・ジョンズ・ハイペリオン vs フランクリンX-40 ピックルボールパドル2026"
+  description: "セルカーク・バンガード・パワーエア：ポリマーコア、$200〜230、プロツアーブランド。ジョーラ・ベン・ジョンズ・ハイペリオンCFS16：カーボンファイバー面、$200〜230、スピン重視。フランクリンX-40セット：コンポジット、$30〜50、初心者向け。コミットメントレベルに応じた異なる層——選び方。"
+  image_path: public/og/best-pickleball-paddle-2026-ja.png
+
+- slug: best-pickleball-paddle-2026
+  locale: ja
+  variant: top1
+  title: "2026年スピン開発に最高のピックルボールパドル：ジョーラ・ベン・ジョンズ・ハイペリオンCFS16"
+  description: "ジョーラ・ベン・ジョンズ・ハイペリオンCFS16がスピン開発で1位——カーボン・フリクション・サーフェス（CFS）のテクスチャーはトップスピン生成に最高の一つ。面のテクスチャー仕様で世界1位ベン・ジョンズと共同設計。16mmポリマーコアはコントロールを優先。$200〜230。"
+  image_path: public/og/best-pickleball-paddle-2026-ja.png
+
+- slug: best-pickleball-paddle-2026
+  locale: ja
+  variant: problem
+  title: "3ヶ月プレーするまで$200のピックルボールパドルを買わないで——その理由"
+  description: "初心者段階では、パワーとコントロール、軽いか重いか、ワイドか標準形状のどちらが好きかまだ分かりません。好みを知る前の$200のパドルは、好みが確立されたら切り替えたくなることを意味します。まずフランクリンX-40（$30〜50）またはオニックスZ5（$60〜80）を試してから、情報を持って選択してアップグレードを。"
+  image_path: public/og/best-pickleball-paddle-2026-ja.png
+
+- slug: best-pickleball-paddle-2026
+  locale: ja
+  variant: budget
+  title: "コスパ最高ピックルボールスターター：フランクリンX-40 2本パドルセット（$30〜50、トーナメントボール付き）"
+  description: "フランクリンX-40の2本パドルセットにはフランクリンX-40ボール4個が含まれています——USAピックルボールの公式屋外トーナメントボール。合計$30〜50。コンポジットパドルはメカニクスの学習に適しています。付属ボールは本物のトーナメント品質で、おもちゃのボールではありません。最高の完全スターターパッケージ。"
+  image_path: public/og/best-pickleball-paddle-2026-ja.png
+
+- slug: best-pickleball-paddle-2026
+  locale: ja
+  variant: avoid
+  title: "重いパドルを試すまで8oz以上のピックルボールパドルは避けて——腕の疲労は本物"
+  description: "8.5oz以上のパドルはドライブにより多くのパワーを提供しますが、長時間のプレーで腕が早く疲れ、キッチンでの素早いディンク交換が難しくなります。初心者またはテニス肘の経験がある場合は7.5〜8.0ozから始めましょう。後でリードテープで重量を追加できますが、パドルから重量を取り除くことはできません。"
+  image_path: public/og/best-pickleball-paddle-2026-ja.png
+
+- slug: best-pickleball-paddle-2026
+  locale: ja
+  variant: scene
+  title: "サードショットドロップの練習：適切なパドルがソフトショットを一貫させる理由"
+  description: "サードショットドロップ（ベースラインからキッチンへ）は中級ピックルボールの重要なスキルです——タッチと一貫した滞在時間が必要です。16mmポリマーコアパドル（ジョーラ・ハイペリオン、セルカーク・バンガード）は薄いコアのパワーパドルよりソフトショットに多い滞在時間と一貫した反応を提供します。1セッションあたり50回のドロップを練習して。"
+  image_path: public/og/best-pickleball-paddle-2026-ja.png
