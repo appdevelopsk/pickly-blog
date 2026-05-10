@@ -15759,6 +15759,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-wilson-volleyball-knee", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWilson+Volleyball+Knee+Pads%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Chamomile Tea (food) ──────────────────────────────────────────────
+  {
+    id: "alvita-organic-chamomile-tea",
+    category: "food",
+    badge: "Best Overall Chamomile",
+    name: { en: "Alvita Organic Chamomile Tea", ja: "Alvita オーガニック カモミールティー" },
+    description: { en: "Whole-flower organic chamomile tea with honey-apple aroma and full-bodied golden cup", ja: "蜂蜜リンゴの香りと豊かな金色カップのホールフラワーオーガニックカモミールティー" },
+    links: [
+      { network: "amazon-jp", productId: "B000A38G9O", rawUrl: "https://www.amazon.co.jp/dp/B000A38G9O", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-alvita-chamomile", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAlvita+Organic+Chamomile+Tea%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "traditional-medicinals-chamomile",
+    category: "food",
+    badge: "Best Herbal-Grade Chamomile",
+    name: { en: "Traditional Medicinals Chamomile Tea", ja: "Traditional Medicinals カモミール" },
+    description: { en: "Pharmacopeial-quality chamomile with standardized apigenin content for consistent sleep and anxiety support", ja: "一貫した睡眠・不安サポートのための標準化アピゲニン含有量を持つ薬局方品質カモミール" },
+    links: [
+      { network: "amazon-jp", productId: "B000GG0H5K", rawUrl: "https://www.amazon.co.jp/dp/B000GG0H5K", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-traditional-medicinals-chamomile", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTraditional+Medicinals+Chamomile%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bigelow-benefits-chamomile-lavender",
+    category: "food",
+    badge: "Best Chamomile Blend",
+    name: { en: "Bigelow Benefits Chamomile Lavender Tea", ja: "Bigelow Benefits カモミールラベンダーティー" },
+    description: { en: "Mass-market chamomile lavender blend with complementary floral notes, foil-wrapped and widely available", ja: "広く流通するアルミホイル包装のフローラルな香りを持つ大量生産カモミールラベンダーブレンド" },
+    links: [
+      { network: "amazon-jp", productId: "B00028JMMK", rawUrl: "https://www.amazon.co.jp/dp/B00028JMMK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bigelow-chamomile-lavender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBigelow+Chamomile+Lavender%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "celestial-seasonings-chamomile",
+    category: "food",
+    badge: "Best Everyday Budget Chamomile",
+    name: { en: "Celestial Seasonings Chamomile Tea", ja: "Celestial Seasonings カモミールティー" },
+    description: { en: "Reliable everyday grocery store chamomile with mild floral sweetness for a consistent bedtime routine", ja: "一貫した就寝ルーティン向けの穏やかなフローラルな甘さを持つ信頼性の高い毎日のスーパーマーケットカモミール" },
+    links: [
+      { network: "amazon-jp", productId: "B000GG0H0Y", rawUrl: "https://www.amazon.co.jp/dp/B000GG0H0Y", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-celestial-chamomile", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCelestial+Seasonings+Chamomile%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "numi-organic-chamomile-lemon",
+    category: "food",
+    badge: "Best Chamomile with Citrus",
+    name: { en: "Numi Organic Chamomile Lemon Tea", ja: "Numi オーガニック カモミールレモンティー" },
+    description: { en: "Organic whole-flower chamomile with lemon verbena and lemon myrtle for a vibrant citrus-floral blend", ja: "鮮やかなシトラス・フローラルブレンドのためのレモンバーベナとレモンマートル入りオーガニックホールフラワーカモミール" },
+    links: [
+      { network: "amazon-jp", productId: "B000GG0BNE", rawUrl: "https://www.amazon.co.jp/dp/B000GG0BNE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-numi-chamomile-lemon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNumi+Chamomile+Lemon%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Soccer Cleats (fitness) ───────────────────────────────────────────
+  {
+    id: "adidas-predator-accuracy-fg",
+    category: "fitness",
+    badge: "Best Overall Soccer Cleat",
+    name: { en: "Adidas Predator Accuracy FG", ja: "アディダス プレデター アキュラシー FG" },
+    description: { en: "Technical FG soccer cleat with grip-zone upper for enhanced ball touch and passing accuracy on firm ground", ja: "天然芝でのボールタッチとパス精度を高めるグリップゾーンアッパーを持つテクニカルFGサッカースパイク" },
+    links: [
+      { network: "amazon-jp", productId: "B09SDCQDLF", rawUrl: "https://www.amazon.co.jp/dp/B09SDCQDLF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-adidas-predator-accuracy", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAdidas+Predator+Accuracy+FG%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nike-mercurial-vapor-15-fg",
+    category: "fitness",
+    badge: "Best Speed Cleat",
+    name: { en: "Nike Mercurial Vapor 15 Elite FG", ja: "ナイキ マーキュリアル ヴェイパー 15 エリート FG" },
+    description: { en: "Ultra-lightweight speed-optimized FG soccer cleat with Flyknit upper for forwards and attacking players", ja: "フォワードとアタッカー向けFlyknitsアッパーを持つ超軽量スピード最適化FGサッカースパイク" },
+    links: [
+      { network: "amazon-jp", productId: "B0B5F3M3VJ", rawUrl: "https://www.amazon.co.jp/dp/B0B5F3M3VJ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nike-mercurial-vapor-15", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Mercurial+Vapor+15%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "new-balance-442-v2-fg",
+    category: "fitness",
+    badge: "Best Value Firm Ground Cleat",
+    name: { en: "New Balance 442 v2 Pro FG", ja: "ニューバランス 442 v2 プロ FG" },
+    description: { en: "Value-priced leather-upper FG cleat with wide last for players with wider feet needing proper fit", ja: "適切なフィットが必要な幅広の足の選手向けの幅広ラストを持つコスパ良好レザーアッパーFGスパイク" },
+    links: [
+      { network: "amazon-jp", productId: "B08HGVCPRL", rawUrl: "https://www.amazon.co.jp/dp/B08HGVCPRL", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-new-balance-442-v2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNew+Balance+442+v2+Soccer%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "adidas-copa-pure-2-tf",
+    category: "fitness",
+    badge: "Best for Artificial Turf",
+    name: { en: "Adidas Copa Pure 2 TF", ja: "アディダス コパ ピュア 2 TF" },
+    description: { en: "Turf-specific soccer shoe with rubber stud pattern and soft leather upper for artificial turf joint protection", ja: "人工芝での関節保護のためのラバースタッドパターンとソフトレザーアッパーを持つターフ専用サッカーシューズ" },
+    links: [
+      { network: "amazon-jp", productId: "B0B5P7MVGH", rawUrl: "https://www.amazon.co.jp/dp/B0B5P7MVGH", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-adidas-copa-pure-2-tf", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAdidas+Copa+Pure+2+TF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nike-premier-3-sg-pro",
+    category: "fitness",
+    badge: "Best for Soft Ground / Wet Fields",
+    name: { en: "Nike Premier 3 SG-Pro", ja: "ナイキ プレミア 3 SG-プロ" },
+    description: { en: "Soft ground soccer cleat with replaceable screw-in metal studs for wet and muddy natural grass conditions", ja: "濡れた・泥だらけの天然芝コンディション向けの交換可能なねじ込み式金属スタッドを持つSGサッカースパイク" },
+    links: [
+      { network: "amazon-jp", productId: "B07BFWTL5V", rawUrl: "https://www.amazon.co.jp/dp/B07BFWTL5V", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nike-premier-3-sg", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Premier+3+SG%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
