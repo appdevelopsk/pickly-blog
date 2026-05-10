@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 176 articles x 6 variants x 2 locales (en, ja) = 2112 pins (growing)
+# 178 articles x 6 variants x 2 locales (en, ja) = 2136 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -23840,3 +23840,269 @@ pins:
   link: "/ja/best-trampoline-2026"
   image_alt: "大人トランポリンフィットネスリバウンダー有酸素低衝撃ワークアウト2026年"
   hashtags: ["トランポリンフィットネス", "リバウンド", "低衝撃有酸素運動", "ジャンプスポート", "フィットネストランポリン"]
+
+# ── #182 best-food-dehydrator-2026 ──────────────────────────────────────
+- id: food-dehydrator-2026-en-comparison
+  article_slug: best-food-dehydrator-2026
+  locale: en
+  variant: comparison
+  board: food-kitchen
+  title: "Best Food Dehydrators 2026: Excalibur vs Cosori vs Nesco vs Presto vs Tribest"
+  description: "Food dehydrator showdown 2026: Excalibur 9-tray horizontal airflow vs Cosori 6-tray vs Nesco Snackmaster expandable vs Presto digital vs Tribest Sedona dual-zone — which dehydrator makes the best beef jerky, dried fruit, and herbs without tray rotation?"
+  link: "/en/best-food-dehydrator-2026"
+  image_alt: "Best food dehydrators 2026 comparison Excalibur Cosori Nesco Presto Tribest"
+  hashtags: ["FoodDehydrator", "BeefJerky", "DriedFruit", "HomePreserving", "FoodStorage", "JerkyMaker"]
+
+- id: food-dehydrator-2026-en-top1
+  article_slug: best-food-dehydrator-2026
+  locale: en
+  variant: top1
+  board: food-kitchen
+  title: "Excalibur 9-Tray: The Food Dehydrator That Actually Dries Everything Evenly"
+  description: "The Excalibur 9-tray rear-mounted horizontal airflow dehydrates 15 square feet of food without tray rotation — set it, leave it for 8 hours, return to perfectly dried jerky. Why it's the benchmark for serious home dehydrators."
+  link: "/en/best-food-dehydrator-2026"
+  image_alt: "Excalibur 9-tray food dehydrator review best pick 2026"
+  hashtags: ["ExcaliburDehydrator", "FoodDehydrator", "BeefJerky", "HomePreserving", "FoodStorage"]
+
+- id: food-dehydrator-2026-en-problem
+  article_slug: best-food-dehydrator-2026
+  locale: en
+  variant: problem
+  board: food-kitchen
+  title: "Why Your Dehydrated Jerky is Wet in the Middle and Crispy on the Outside"
+  description: "Uneven dehydration — wet center, overdried edges — is almost always a vertical airflow problem. The fix is either tray rotation every 2 hours or switching to a horizontal airflow dehydrator. Here's exactly what causes it and how to prevent it."
+  link: "/en/best-food-dehydrator-2026"
+  image_alt: "Uneven food dehydration fix jerky wet middle dried outside"
+  hashtags: ["DehydratorTips", "BeefJerky", "FoodPreserving", "HomeCooking", "JerkyMaking"]
+
+- id: food-dehydrator-2026-en-budget
+  article_slug: best-food-dehydrator-2026
+  locale: en
+  variant: budget
+  board: food-kitchen
+  title: "Best Budget Food Dehydrator 2026: Cosori 6-Tray at $100-150 vs Excalibur at $250"
+  description: "The Cosori Premium 6-tray at $100-150 is the best horizontal-airflow dehydrator under $200 — no tray rotation needed, digital display shows actual vs set temperature. What you give up vs the Excalibur and whether the cheaper option handles your use case."
+  link: "/en/best-food-dehydrator-2026"
+  image_alt: "Budget food dehydrator 2026 Cosori vs Excalibur value comparison"
+  hashtags: ["BudgetDehydrator", "CosoriDehydrator", "FoodPreserving", "HomeKitchen", "JerkyMaking"]
+
+- id: food-dehydrator-2026-en-avoid
+  article_slug: best-food-dehydrator-2026
+  locale: en
+  variant: avoid
+  board: food-kitchen
+  title: "Food Dehydrator Mistakes That Cause Mold, Bacteria, and Wasted Batches"
+  description: "Dehydrating jerky below 155°F. Storing food before it's fully dry. Overloading trays. These are the food dehydrator mistakes that cause mold, food safety issues, and wasted ingredients — and exactly what to do instead."
+  link: "/en/best-food-dehydrator-2026"
+  image_alt: "Food dehydrator mistakes mold jerky food safety tips"
+  hashtags: ["FoodSafety", "DehydratorTips", "JerkyMaking", "FoodPreserving", "HomeKitchen"]
+
+- id: food-dehydrator-2026-en-scene
+  article_slug: best-food-dehydrator-2026
+  locale: en
+  variant: scene
+  board: food-kitchen
+  title: "10 lb of Homemade Beef Jerky in One Batch: The Dehydrator That Makes It Possible"
+  description: "Making 10 lb of beef jerky in a single batch requires 15+ square feet of tray space and 6-8 hours of unattended drying time. Only horizontal-airflow dehydrators can do this without tray rotation. The Excalibur 9-tray vs everything else."
+  link: "/en/best-food-dehydrator-2026"
+  image_alt: "Homemade beef jerky 10 pounds single batch food dehydrator"
+  hashtags: ["BeefJerky", "HomemadeJerky", "FoodDehydrator", "BulkCooking", "ExcaliburDehydrator"]
+
+- id: food-dehydrator-2026-ja-comparison
+  article_slug: best-food-dehydrator-2026
+  locale: ja
+  variant: comparison
+  board: food-kitchen-jp
+  title: "食品乾燥機おすすめ2026年：エクスカリバーvsコソリvsネスコvsプレストvsTribest徹底比較"
+  description: "食品乾燥機頂上決戦2026：エクスカリバー9トレイ水平気流 vs コソリ6トレイ vs ネスコ スナックマスター拡張型 vs プレストデジタル vs トライベスト セドナ デュアルゾーン——トレイ回転なしに最高のビーフジャーキー・ドライフルーツ・ハーブを作るのはどれ？"
+  link: "/ja/best-food-dehydrator-2026"
+  image_alt: "食品乾燥機おすすめ2026年比較エクスカリバーコソリネスコプレスト"
+  hashtags: ["食品乾燥機", "ビーフジャーキー", "ドライフルーツ", "食品保存", "食材保存", "ジャーキーメーカー"]
+
+- id: food-dehydrator-2026-ja-top1
+  article_slug: best-food-dehydrator-2026
+  locale: ja
+  variant: top1
+  board: food-kitchen-jp
+  title: "エクスカリバー9トレイ：すべてを均一に乾燥させる唯一の食品乾燥機"
+  description: "エクスカリバー9トレイのリアマウント水平気流は、トレイ回転なしに1.4平方メートルの食品を乾燥させる——セットして8時間後に戻れば完璧に乾燥したジャーキーが完成。本格的な家庭での乾燥の基準である理由。"
+  link: "/ja/best-food-dehydrator-2026"
+  image_alt: "エクスカリバー9トレイ食品乾燥機レビューおすすめ2026年"
+  hashtags: ["エクスカリバー乾燥機", "食品乾燥機", "ビーフジャーキー", "食品保存", "食材保存"]
+
+- id: food-dehydrator-2026-ja-problem
+  article_slug: best-food-dehydrator-2026
+  locale: ja
+  variant: problem
+  board: food-kitchen-jp
+  title: "ジャーキーが中心は湿っているのに端は乾燥しすぎる原因と解決策"
+  description: "不均一な乾燥——湿った中心、乾燥しすぎた端——はほぼ常に垂直気流の問題だ。解決策は2時間ごとのトレイ回転か水平気流乾燥機への切り替え。正確な原因と防止方法。"
+  link: "/ja/best-food-dehydrator-2026"
+  image_alt: "食品乾燥機不均一乾燥解決ジャーキー中心湿り外側乾燥"
+  hashtags: ["乾燥機のコツ", "ビーフジャーキー", "食品保存", "家庭料理", "ジャーキー作り"]
+
+- id: food-dehydrator-2026-ja-budget
+  article_slug: best-food-dehydrator-2026
+  locale: ja
+  variant: budget
+  board: food-kitchen-jp
+  title: "コスパ最強食品乾燥機2026年：コソリ6トレイ10,000〜15,000円vsエクスカリバー25,000円"
+  description: "コソリプレミアム6トレイの10,000〜15,000円は20,000円以下での最高の水平気流乾燥機——トレイ回転不要、実際温度と設定温度を同時表示するデジタル表示。エクスカリバーと比べて何を妥協するか、安い方があなたの用途に対応するか。"
+  link: "/ja/best-food-dehydrator-2026"
+  image_alt: "コスパ食品乾燥機2026年コソリvsエクスカリバー価値比較"
+  hashtags: ["コスパ乾燥機", "コソリ乾燥機", "食品保存", "家庭用キッチン", "ジャーキー作り"]
+
+- id: food-dehydrator-2026-ja-avoid
+  article_slug: best-food-dehydrator-2026
+  locale: ja
+  variant: avoid
+  board: food-kitchen-jp
+  title: "カビ・細菌・バッチ無駄を引き起こす食品乾燥機のNG行為"
+  description: "68°C以下でのジャーキー乾燥。完全に乾燥する前の保存。トレイへの詰め込みすぎ。これらがカビ、食品安全問題、食材の無駄を引き起こす食品乾燥機の失敗——正確な代替方法。"
+  link: "/ja/best-food-dehydrator-2026"
+  image_alt: "食品乾燥機失敗防止カビジャーキー食品安全コツ"
+  hashtags: ["食品安全", "乾燥機のコツ", "ジャーキー作り", "食品保存", "家庭用キッチン"]
+
+- id: food-dehydrator-2026-ja-scene
+  article_slug: best-food-dehydrator-2026
+  locale: ja
+  variant: scene
+  board: food-kitchen-jp
+  title: "1バッチで自家製ビーフジャーキー4.5 kg：可能にする乾燥機はこれ"
+  description: "1回のバッチで4.5 kgのビーフジャーキーを作るには1.4平方メートル以上のトレイスペースと6〜8時間の無人乾燥時間が必要だ。トレイ回転なしにこれができるのは水平気流乾燥機だけ。エクスカリバー9トレイと他すべての比較。"
+  link: "/ja/best-food-dehydrator-2026"
+  image_alt: "自家製ビーフジャーキー大量一括食品乾燥機エクスカリバー"
+  hashtags: ["ビーフジャーキー", "自家製ジャーキー", "食品乾燥機", "大量料理", "エクスカリバー乾燥機"]
+
+# ── #183 best-yoga-wheel-2026 ──────────────────────────────────────
+- id: yoga-wheel-2026-en-comparison
+  article_slug: best-yoga-wheel-2026
+  locale: en
+  variant: comparison
+  board: fitness-equipment
+  title: "Best Yoga Wheels 2026: Dharma vs Tumaz vs Chirp Wheel Plus vs Plexus Compared"
+  description: "Yoga wheel comparison 2026: original Dharma Yoga Wheel vs Tumaz 13-inch value pick vs Chirp Wheel Plus spinal groove vs BLY extra-padding vs Plexus certified — which yoga wheel actually deepens backbends and improves spinal flexibility?"
+  link: "/en/best-yoga-wheel-2026"
+  image_alt: "Best yoga wheels 2026 comparison Dharma Tumaz Chirp Wheel Plexus"
+  hashtags: ["YogaWheel", "Backbend", "SpinalFlexibility", "YogaProps", "ChestOpener", "YogaEquipment"]
+
+- id: yoga-wheel-2026-en-top1
+  article_slug: best-yoga-wheel-2026
+  locale: en
+  variant: top1
+  board: fitness-equipment
+  title: "Dharma Yoga Wheel: The Original Still Wins in 2026 — Here's Why"
+  description: "The Dharma Yoga Wheel introduced the 12.5-inch diameter and 1-inch EVA foam standard that every competitor copies. The injection-molded ABS ring shows no flex under load. Why the original is still the best at $75-100 despite cheaper alternatives."
+  link: "/en/best-yoga-wheel-2026"
+  image_alt: "Dharma Yoga Wheel original review best pick 2026"
+  hashtags: ["DharmaYogaWheel", "YogaWheel", "BackbendPose", "YogaProps", "SpinalFlexibility"]
+
+- id: yoga-wheel-2026-en-problem
+  article_slug: best-yoga-wheel-2026
+  locale: en
+  variant: problem
+  board: fitness-equipment
+  title: "Yoga Wheel Spine Discomfort: Why It Happens and How the Chirp Wheel Fixes It"
+  description: "Standard yoga wheels press against the spinous processes (the bony protrusions of each vertebra) — painful for some practitioners. The Chirp Wheel Plus's circumferential groove redirects pressure to the paraspinal muscles instead. When to choose the groove design."
+  link: "/en/best-yoga-wheel-2026"
+  image_alt: "Yoga wheel spine discomfort fix Chirp Wheel groove design"
+  hashtags: ["YogaWheel", "SpinalHealth", "BackPain", "ChirpWheel", "YogaModification"]
+
+- id: yoga-wheel-2026-en-budget
+  article_slug: best-yoga-wheel-2026
+  locale: en
+  variant: budget
+  board: fitness-equipment
+  title: "Best Budget Yoga Wheel 2026: Tumaz 13-Inch at $35-50 vs Dharma at $80"
+  description: "The Tumaz yoga wheel at $35-50 offers the same horizontal airflow format as the Dharma at half the price. 13-inch diameter actually fits longer torsos better. What you give up vs the original Dharma yoga wheel — and whether the cheaper option is enough."
+  link: "/en/best-yoga-wheel-2026"
+  image_alt: "Budget yoga wheel 2026 Tumaz vs Dharma value comparison"
+  hashtags: ["BudgetYoga", "TumazYogaWheel", "YogaEquipment", "AffordableYoga", "BackbendProps"]
+
+- id: yoga-wheel-2026-en-avoid
+  article_slug: best-yoga-wheel-2026
+  locale: en
+  variant: avoid
+  board: fitness-equipment
+  title: "Yoga Wheel Mistakes That Compress Your Spine Instead of Opening It"
+  description: "Dropping your full body weight onto a yoga wheel without gradual loading. Positioning the wheel under the lumbar spine instead of thoracic. Using a wheel that's too small for your torso length. These yoga wheel mistakes cause pain — here's the safe progression."
+  link: "/en/best-yoga-wheel-2026"
+  image_alt: "Yoga wheel mistakes spine compression safe use guide"
+  hashtags: ["YogaWheel", "SpinalSafety", "YogaForm", "BackbendSafety", "YogaTips"]
+
+- id: yoga-wheel-2026-en-scene
+  article_slug: best-yoga-wheel-2026
+  locale: en
+  variant: scene
+  board: fitness-equipment
+  title: "5 Minutes with a Yoga Wheel After Desk Work — What Actually Opens Up"
+  description: "After 8 hours at a desk, the thoracic spine is the most compressed and least mobile region. Five minutes on a yoga wheel in a supported thoracic extension releases the segments that stretching alone can't reach. Here's exactly how to use it."
+  link: "/en/best-yoga-wheel-2026"
+  image_alt: "Yoga wheel thoracic spine desk work decompression 5 minutes"
+  hashtags: ["YogaWheel", "DeskWork", "SpinalMobility", "ThoracicExtension", "OfficeWellness"]
+
+- id: yoga-wheel-2026-ja-comparison
+  article_slug: best-yoga-wheel-2026
+  locale: ja
+  variant: comparison
+  board: fitness-equipment-jp
+  title: "ヨガホイールおすすめ2026年：ダーマvsタマズvsチャープホイールvsプレクサス徹底比較"
+  description: "ヨガホイール比較2026：オリジナル ダーマ ヨガホイール vs タマズ33 cm高コスパ vs チャープホイール プラス脊椎溝付き vs BLY特厚パッド vs プレクサス認定——どのヨガホイールが本当にバックベンドと脊椎の柔軟性を改善する？"
+  link: "/ja/best-yoga-wheel-2026"
+  image_alt: "ヨガホイールおすすめ2026年比較ダーマタマズチャープホイールプレクサス"
+  hashtags: ["ヨガホイール", "バックベンド", "脊椎柔軟性", "ヨガプロップス", "胸を開く", "ヨガ器具"]
+
+- id: yoga-wheel-2026-ja-top1
+  article_slug: best-yoga-wheel-2026
+  locale: ja
+  variant: top1
+  board: fitness-equipment-jp
+  title: "ダーマ ヨガホイール：2026年もオリジナルが勝ち続ける理由"
+  description: "ダーマ ヨガホイールは、すべての競合品がコピーする31.75 cm直径と2.5 cm EVAフォームの標準を導入した。射出成形ABSリングは負荷下でたわまない。7,500〜10,000円でも安価な代替品より優れている理由。"
+  link: "/ja/best-yoga-wheel-2026"
+  image_alt: "ダーマヨガホイールオリジナルレビューおすすめ2026年"
+  hashtags: ["ダーマヨガホイール", "ヨガホイール", "バックベンド", "ヨガプロップス", "脊椎柔軟性"]
+
+- id: yoga-wheel-2026-ja-problem
+  article_slug: best-yoga-wheel-2026
+  locale: ja
+  variant: problem
+  board: fitness-equipment-jp
+  title: "ヨガホイールで脊椎が痛い？チャープホイールの溝設計がなぜ解決するか"
+  description: "標準的なヨガホイールは棘突起（各椎骨の骨の突起）に圧力をかける——一部の実践者には痛い。チャープホイール プラスの円周方向溝が代わりに傍脊柱筋への圧力をリダイレクトする。溝設計を選ぶタイミング。"
+  link: "/ja/best-yoga-wheel-2026"
+  image_alt: "ヨガホイール脊椎不快感解消チャープホイール溝設計"
+  hashtags: ["ヨガホイール", "脊椎の健康", "背中の痛み", "チャープホイール", "ヨガモディフィケーション"]
+
+- id: yoga-wheel-2026-ja-budget
+  article_slug: best-yoga-wheel-2026
+  locale: ja
+  variant: budget
+  board: fitness-equipment-jp
+  title: "コスパ最強ヨガホイール2026年：タマズ33 cm 3,500〜5,000円vsダーマ 7,500〜10,000円"
+  description: "タマズ ヨガホイールの3,500〜5,000円はダーマの半値で同じ基本フォーマットを提供する。33 cm直径は胴体が長い人に実際より適している。オリジナルダーマとの比較で何を妥協するか——そして安い方が十分かどうか。"
+  link: "/ja/best-yoga-wheel-2026"
+  image_alt: "コスパヨガホイール2026年タマズvsダーマ価値比較"
+  hashtags: ["コスパヨガ", "タマズヨガホイール", "ヨガ器具", "お手頃ヨガ", "バックベンドプロップ"]
+
+- id: yoga-wheel-2026-ja-avoid
+  article_slug: best-yoga-wheel-2026
+  locale: ja
+  variant: avoid
+  board: fitness-equipment-jp
+  title: "脊椎を開くのではなく圧迫するヨガホイールの失敗行為"
+  description: "段階的な負荷なしにヨガホイールに全体重を急に乗せる。胸椎ではなく腰椎の下にホイールを置く。胴体の長さに対して小さすぎるホイールを使う。これらのヨガホイールの失敗が痛みを引き起こす——安全な進行方法。"
+  link: "/ja/best-yoga-wheel-2026"
+  image_alt: "ヨガホイール失敗脊椎圧迫安全な使い方ガイド"
+  hashtags: ["ヨガホイール", "脊椎安全", "ヨガフォーム", "バックベンド安全", "ヨガのコツ"]
+
+- id: yoga-wheel-2026-ja-scene
+  article_slug: best-yoga-wheel-2026
+  locale: ja
+  variant: scene
+  board: fitness-equipment-jp
+  title: "デスクワーク後にヨガホイール5分——本当に開放される場所"
+  description: "8時間のデスクワーク後、胸椎は最も圧迫され可動性が低い部位だ。サポートされた胸椎伸展でヨガホイールを5分使うと、ストレッチだけでは届かないセグメントが解放される。正確な使い方。"
+  link: "/ja/best-yoga-wheel-2026"
+  image_alt: "ヨガホイール胸椎デスクワーク減圧5分間"
+  hashtags: ["ヨガホイール", "デスクワーク", "脊椎可動性", "胸椎伸展", "オフィスウェルネス"]
