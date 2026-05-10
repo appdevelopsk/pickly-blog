@@ -13727,6 +13727,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-sunny-health-air-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSunny+Health+%E3%82%A8%E3%82%A2%E3%83%90%E3%82%A4%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Vietnamese Coffee ☕ ──────────────────────────────────────────────
+  {
+    id: "nguyen-coffee-phin-filter",
+    category: "food",
+    badge: "ベストスターターキット",
+    name: { en: "Nguyen Coffee Supply Phin Filter Kit", ja: "Nguyen Coffee Supply フィンキット" },
+    description: {
+      en: "Stainless steel phin filter + ceramic cup + Vietnamese single-origin coffee sample. Everything needed to brew authentic ca phe sua da at home.",
+      ja: "ステンレス製フィン＋セラミックカップ＋ベトナム単一起源コーヒーサンプル。本格カフェスア・ダーを自宅で淹れるのに必要なすべて。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08XYZNGVC", rawUrl: "https://www.amazon.co.jp/dp/B08XYZNGVC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nguyen-coffee-phin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fベトナムコーヒー+フィン%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "trung-nguyen-legend-ground",
+    category: "food",
+    badge: "伝統的ベトナムコーヒー",
+    name: { en: "Trung Nguyen Legend Ground Coffee", ja: "Trung Nguyen Legend グラウンドコーヒー" },
+    description: {
+      en: "Robusta-arabica blend pre-ground for phin brewing. Most representative traditional Vietnamese coffee — high caffeine, chocolatey body, correct grind for ca phe sua da.",
+      ja: "フィン醸造用ロブスタ-アラビカブレンドの事前挽き。最も代表的な伝統的ベトナムコーヒー——高カフェイン、チョコレートのようなボディ、カフェスア・ダーに正しい粒度。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00GHZD4QK", rawUrl: "https://www.amazon.co.jp/dp/B00GHZD4QK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-trung-nguyen-legend", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTrung+Nguyen+Legend%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cafe-du-monde-coffee-chicory",
+    category: "food",
+    badge: "チコリブレンド",
+    name: { en: "Cafe Du Monde Coffee with Chicory", ja: "Cafe Du Monde コーヒー＆チコリ" },
+    description: {
+      en: "Classic New Orleans coffee + chicory blend, 15 oz can. Vietnamese-American tradition — woody bitterness pairs well with condensed milk. Pre-ground for drip, works in phin.",
+      ja: "定番ニューオーリンズコーヒー＋チコリブレンド、15オンス缶。ベトナム系アメリカ人の伝統——チコリの木質的な苦みがコンデンスミルクとよく合います。ドリップ用事前挽き、フィンで使用可能。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0000CFN2T", rawUrl: "https://www.amazon.co.jp/dp/B0000CFN2T", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cafe-du-monde", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCafe+Du+Monde+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "longevity-brand-condensed-milk",
+    category: "food",
+    badge: "必須材料",
+    name: { en: "Longevity Brand Sweetened Condensed Milk", ja: "Longevity Brand（Ong Tho）コンデンスミルク" },
+    description: {
+      en: "Traditional Vietnamese sweetened condensed milk (Ong Tho brand). The essential ingredient for ca phe sua da — 2-3 tablespoons per cup provides both sweetness and creaminess.",
+      ja: "伝統的なベトナムの加糖コンデンスミルク（Ong Thoブランド）。カフェスア・ダーに必須の材料——1カップに2〜3大さじで甘みとクリーミーさの両方を提供。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07FDSMKDN", rawUrl: "https://www.amazon.co.jp/dp/B07FDSMKDN", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-longevity-condensed-milk", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%AB%E3%82%AF+%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "phin-coffee-filter-stainless",
+    category: "food",
+    badge: "基本フィン",
+    name: { en: "Stainless Steel Phin Coffee Filter Set", ja: "ステンレス製フィンコーヒーフィルターセット" },
+    description: {
+      en: "Standard stainless steel phin filter for Vietnamese drip coffee. Look for snug press plate fit and uniform perforations. 4 oz for one cup, 8 oz for larger volume.",
+      ja: "ベトナムドリップコーヒー用標準的なステンレス製フィンフィルター。プレス板のしっかりとしたはまり具合と均一な穿孔を確認。1カップに4オンス、大容量には8オンス。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08XPHINSS", rawUrl: "https://www.amazon.co.jp/dp/B08XPHINSS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-phin-filter-stainless", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A3%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Power Rack 💪 ──────────────────────────────────────────────────────
+  {
+    id: "rogue-r-3-power-rack",
+    category: "fitness",
+    badge: "ベストホームジムラック",
+    name: { en: "Rogue R-3 Monster Lite Power Rack", ja: "Rogue R-3 Monster Lite パワーラック" },
+    description: {
+      en: "3x3 inch, 11-gauge uprights, 1-inch hole spacing, 90-inch height. The reference home gym power rack — Rogue build quality, extensive Monster Lite accessory ecosystem.",
+      ja: "3x3インチ、11ゲージアップライト、1インチホール間隔、90インチ高さ。ホームジムパワーラックの基準——Rogueビルド品質、広範なMonster Liteアクセサリーエコシステム。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07DRGUER3", rawUrl: "https://www.amazon.co.jp/dp/B07DRGUER3", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-r3-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-pr-4000-power-rack",
+    category: "fitness",
+    badge: "ベストバリュー",
+    name: { en: "REP Fitness PR-4000 Power Rack", ja: "REP Fitness PR-4000 パワーラック" },
+    description: {
+      en: "3x3 inch, 11-gauge, Westside hole spacing, 90-inch height. Best value equivalent to Rogue R-3 at 15-20% lower cost. Slightly lower finish quality but functionally equivalent.",
+      ja: "3x3インチ、11ゲージ、ウェストサイドホール間隔、90インチ高さ。Rogue R-3の最高バリュー同等品——15〜20%低いコスト。仕上げ品質はわずかに低いが機能的に同等。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08REPPR40", rawUrl: "https://www.amazon.co.jp/dp/B08REPPR40", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-pr4000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-fitness-x-3-power-rack",
+    category: "fitness",
+    badge: "11ゲージ予算オプション",
+    name: { en: "Titan Fitness X-3 Power Rack", ja: "Titan Fitness X-3 パワーラック" },
+    description: {
+      en: "3x3 inch, 11-gauge, Westside hole spacing, 90-inch height. Budget entry to 11-gauge construction at lower price than REP. Mixed customer service reputation.",
+      ja: "3x3インチ、11ゲージ、ウェストサイドホール間隔、90インチ高さ。REPより低い価格での11ゲージ構造への予算エントリー。カスタマーサービス評判はまちまち。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07TITANX3", rawUrl: "https://www.amazon.co.jp/dp/B07TITANX3", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-x3-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "body-solid-gpr378-power-rack",
+    category: "fitness",
+    badge: "統合システム",
+    name: { en: "Body-Solid GPR378 Power Rack with Lat Pulldown", ja: "Body-Solid GPR378 パワーラック（ラットプルダウン付）" },
+    description: {
+      en: "2x2 inch, 12-gauge uprights, includes lat pulldown and cable system. Complete integrated home gym system. Lighter upright spec limits heavy barbell use.",
+      ja: "2x2インチ、12ゲージアップライト、ラットプルダウン＋ケーブルシステム付属。完全な統合ホームジムシステム。より軽いアップライトスペックが重いバーベル使用を制限。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001BSGPR3", rawUrl: "https://www.amazon.co.jp/dp/B001BSGPR3", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-body-solid-gpr378", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBody+Solid+%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cap-barbell-fm-8000f-power-rack",
+    category: "fitness",
+    badge: "予算ケージ",
+    name: { en: "CAP Barbell FM-8000F Power Rack", ja: "CAP Barbell FM-8000F パワーラック" },
+    description: {
+      en: "2x2 inch, 14-gauge, 2-inch hole spacing, entry-level. Budget cage for home training at moderate loads. Not recommended for heavy powerlifting use long-term.",
+      ja: "2x2インチ、14ゲージ、2インチホール間隔、エントリーレベル。中程度の負荷での家庭トレーニング用予算ケージ。重いパワーリフティング使用の長期解決策としては非推薦。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00CAPFM80", rawUrl: "https://www.amazon.co.jp/dp/B00CAPFM80", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cap-barbell-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP+Barbell+%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
