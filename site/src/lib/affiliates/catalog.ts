@@ -13301,6 +13301,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-standard-ez-curl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A8%99%E6%BA%96EZ%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── best-hario-v60-2026 ──────────────────────────────────────────────────
+  {
+    id: "hario-v60-02-ceramic",
+    category: "food",
+    badge: "☕",
+    name: { en: "Hario V60 02 Ceramic", ja: "Hario V60 02 セラミック" },
+    description: {
+      en: "~$25-35. Ceramic, 02 size (1-4 cups), good heat retention. Best all-around V60 — neutral flavor, good heat retention when pre-heated, classic aesthetic. Correct for most home brewers.",
+      ja: "約2,500〜4,500円。セラミック、02サイズ（1〜4カップ）、良い保温性。最も万能なV60——ニュートラルな風味・予熱後の良い保温性・クラシックな美観。ほとんどのホームブルワーに正しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000P4D5HG", rawUrl: "https://www.amazon.co.jp/dp/B000P4D5HG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hario-v60-ceramic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60+%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hario-v60-02-plastic",
+    category: "food",
+    badge: "☕",
+    name: { en: "Hario V60 02 Plastic", ja: "Hario V60 02 プラスチック" },
+    description: {
+      en: "~$8-15. Plastic, 02 size (1-4 cups), lightweight. Best for travel and beginners — no breakage risk, minimal heat loss, same extraction geometry as ceramic. Best starting point to learn V60 technique.",
+      ja: "約1,000〜2,000円。プラスチック、02サイズ（1〜4カップ）、軽量。旅行と初心者に最適——破損リスクなし・最小限の熱損失・セラミックと同じ抽出ジオメトリ。V60テクニックを学ぶ最適な出発点。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001NB03GQ", rawUrl: "https://www.amazon.co.jp/dp/B001NB03GQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hario-v60-plastic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60+%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hario-v60-02-glass",
+    category: "food",
+    badge: "☕",
+    name: { en: "Hario V60 02 Glass", ja: "Hario V60 02 ガラス" },
+    description: {
+      en: "~$25-40. Borosilicate glass, 02 size (1-4 cups), transparent. Best for visual learners — watch bloom and extraction. Less heat retention than ceramic. Most fragile. Pre-heat before use.",
+      ja: "約3,500〜5,500円。ホウケイ酸ガラス、02サイズ（1〜4カップ）、透明。視覚的学習者に最適——蒸らしと抽出を観察。セラミックより保温性低め。最も壊れやすい。使用前に予熱を。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B005LNQO5C", rawUrl: "https://www.amazon.co.jp/dp/B005LNQO5C", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hario-v60-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60+%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hario-v60-02-metal",
+    category: "food",
+    badge: "☕",
+    name: { en: "Hario V60 02 Metal", ja: "Hario V60 02 メタル" },
+    description: {
+      en: "~$60-90. Stainless or copper, 02 size, most durable. Most durable V60 — never breaks, heats evenly, premium aesthetic. Copper version is a display piece. Best for gift or display-quality setup.",
+      ja: "約8,000〜1万3千円。ステンレスまたは銅、02サイズ、最も耐久性あり。最も耐久性のあるV60——割れない・均一加熱・プレミアム美観。銅バージョンはディスプレイピース。ギフトまたはディスプレイ品質のセットアップに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B007L6PKIA", rawUrl: "https://www.amazon.co.jp/dp/B007L6PKIA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hario-v60-metal", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60+%E3%83%A1%E3%82%BF%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hario-v60-filters-02",
+    category: "food",
+    badge: "☕",
+    name: { en: "Hario V60 Paper Filters 02", ja: "Hario V60 ペーパーフィルター 02" },
+    description: {
+      en: "~$5-10 per 100 count. V60 paper filters, 02 size, white or natural. Required consumable — widely available at grocery stores and specialty coffee retailers. More available than Kalita Wave filters.",
+      ja: "約600〜1,200円（100枚）。V60ペーパーフィルター、02サイズ、ホワイトまたはナチュラル。必須消耗品——スーパーやスペシャルティコーヒー小売店で広く入手可能。Kalita Waveフィルターより入手しやすい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001NB0534", rawUrl: "https://www.amazon.co.jp/dp/B001NB0534", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hario-v60-filters", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60+%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── best-preacher-curl-bench-2026 ────────────────────────────────────────
+  {
+    id: "body-solid-preacher-curl-bench",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Body-Solid Preacher Curl Bench", ja: "Body-Solid プリーチャーカールベンチ" },
+    description: {
+      en: "~$100-150. Heavy-gauge steel, thick HD foam pad, 4-5 position adjustable seat, wide arm pad. Best dedicated preacher curl bench — correct for regular arm hypertrophy training. Wide pad supports both arms for EZ curl bar work.",
+      ja: "約1万5千〜2万2千円。重ゲージスチール、厚い高密度フォームパッド、4〜5ポジション調整可能シート、広いアームパッド。最高の専用プリーチャーカールベンチ——定期的なアーム肥大トレーニングに正しい。広いパッドがEZカールバー作業に両腕をサポート。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000BLMT6I", rawUrl: "https://www.amazon.co.jp/dp/B000BLMT6I", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-body-solid-preacher-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBody-Solid+%E3%83%97%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "marcy-preacher-curl-bench",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Marcy Preacher Curl Bench", ja: "Marcy プリーチャーカールベンチ" },
+    description: {
+      en: "~$70-100. Budget standalone preacher bench, lighter construction, thinner padding. Functional for casual training under 60-70 lbs. Step up to Body-Solid for high-volume arm training.",
+      ja: "約1万〜1万5千円。予算スタンドアロンプリーチャーベンチ、軽い構造、より薄いパッディング。32kg以下のカジュアルトレーニングに機能的。高量アームトレーニングにはBody-Solidに上げること。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01N7VBSXK", rawUrl: "https://www.amazon.co.jp/dp/B01N7VBSXK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-marcy-preacher-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMarcy+%E3%83%97%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "valor-fitness-preacher-curl-bench",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Valor Fitness Preacher Curl Bench", ja: "Valor Fitness プリーチャーカールベンチ" },
+    description: {
+      en: "~$80-120. Mid-range standalone bench, better pad quality than Marcy, stable frame. Good quality-to-price ratio — better padding than budget options without premium cost.",
+      ja: "約1万2千〜1万8千円。中間レンジスタンドアロンベンチ、Marcyより良いパッド品質、安定したフレーム。良いコストパフォーマンス——予算オプションより良いパッディングでプレミアムコストなし。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00CLKFZ8U", rawUrl: "https://www.amazon.co.jp/dp/B00CLKFZ8U", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-valor-preacher-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor+Fitness+%E3%83%97%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-preacher-curl-bench",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "REP Fitness Preacher Curl Bench", ja: "REP Fitness プリーチャーカールベンチ" },
+    description: {
+      en: "~$130-180. Commercial-grade padding, heavy-gauge frame, wide arm pad, more seat positions. Best quality preacher curl bench — correct for athletes training arm hypertrophy seriously 2+ times per week.",
+      ja: "約2万〜2万7千円。商業グレードパッディング、重ゲージフレーム、広いアームパッド、より多いシートポジション。最高品質プリーチャーカールベンチ——週2回以上真剣にアーム肥大トレーニングするアスリートに正しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09BKHQVGB", rawUrl: "https://www.amazon.co.jp/dp/B09BKHQVGB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-preacher-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E3%83%97%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "adjustable-preacher-curl-attachment",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Adjustable Preacher Curl Attachment", ja: "調整可能プリーチャーカールアタッチメント" },
+    description: {
+      en: "~$40-80. Pad attachment for weight bench, saves floor space, variable stability. Space-efficient alternative to standalone bench. Best for athletes with a quality adjustable bench who want occasional preacher curl capability.",
+      ja: "約6,000〜1万2千円。ウェイトベンチ用パッドアタッチメント、省スペース、可変安定性。スタンドアロンベンチへのスペース効率的代替。品質の良い調整可能ベンチを持ち時々プリーチャーカール機能が欲しいアスリートに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07G3JG8TM", rawUrl: "https://www.amazon.co.jp/dp/B07G3JG8TM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-preacher-curl-attachment", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
