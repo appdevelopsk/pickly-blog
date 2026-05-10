@@ -15535,6 +15535,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-wod-nation-grips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWOD+Nation+Gymnastics+Grips%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── White Tea (food) ──────────────────────────────────────────────────
+  {
+    id: "teavana-silver-needle-white-tea",
+    category: "food",
+    badge: "Best Overall Silver Needle",
+    name: { en: "Teavana Silver Needle White Tea", ja: "Teavana シルバーニードル白茶" },
+    description: { en: "Premium buds-only Silver Needle white tea with delicate sweetness, floral finish, and no bitterness", ja: "苦みなし・繊細な甘さとフローラルな後味を持つ芽のみのプレミアム銀針白茶" },
+    links: [
+      { network: "amazon-jp", productId: "B00GVJJQ08", rawUrl: "https://www.amazon.co.jp/dp/B00GVJJQ08", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-teavana-silver-needle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTeavana+Silver+Needle+White+Tea%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "vahdam-darjeeling-white-tea",
+    category: "food",
+    badge: "Best Estate White Tea",
+    name: { en: "Vahdam Darjeeling White Tea", ja: "Vahdam ダージリン白茶" },
+    description: { en: "Single-estate Darjeeling white tea with muscatel-adjacent floral and fruity notes, traceable sourcing", ja: "トレーサブルソーシングのマスカテル的フローラル＆フルーティーな香りのシングルエステートダージリン白茶" },
+    links: [
+      { network: "amazon-jp", productId: "B01N9VGDIM", rawUrl: "https://www.amazon.co.jp/dp/B01N9VGDIM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-vahdam-darjeeling-white", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVahdam+Darjeeling+White+Tea%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harney-sons-white-peony",
+    category: "food",
+    badge: "Best Everyday White Tea",
+    name: { en: "Harney & Sons White Peony (Bai Mu Dan)", ja: "Harney & Sons 白牡丹（白牡丹）" },
+    description: { en: "Reliable everyday Bai Mu Dan white peony with light grassy-sweet notes at an accessible daily price", ja: "アクセスしやすい日常価格で軽い草っぽい甘い香りの信頼性の高い毎日の白牡丹" },
+    links: [
+      { network: "amazon-jp", productId: "B000GVJQ18", rawUrl: "https://www.amazon.co.jp/dp/B000GVJQ18", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-harney-white-peony", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarney+%26+Sons+White+Peony%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rishi-bai-hao-silver-needle",
+    category: "food",
+    badge: "Best Premium Single-Origin",
+    name: { en: "Rishi Tea Bai Hao Silver Needle", ja: "Rishi Tea 白毫銀針" },
+    description: { en: "Fujian-province single-origin Silver Needle with clean melon-honeydew sweetness and floral top note", ja: "クリーンなメロン・ハネデューの甘さとフローラルな上部の香りを持つ福建省シングルオリジン銀針" },
+    links: [
+      { network: "amazon-jp", productId: "B001E5E0F0", rawUrl: "https://www.amazon.co.jp/dp/B001E5E0F0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rishi-silver-needle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRishi+Tea+Silver+Needle%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bigelow-benefit-white-tea",
+    category: "food",
+    badge: "Best Budget Introduction",
+    name: { en: "Bigelow Benefits White Tea with Blueberry", ja: "Bigelow Benefits ブルーベリー入り白茶" },
+    description: { en: "Accessible white tea blend with blueberry for those new to white tea, foil-wrapped for freshness", ja: "白茶初心者向けのアルミホイル包装鮮度保持ブルーベリー入りアクセスしやすい白茶ブレンド" },
+    links: [
+      { network: "amazon-jp", productId: "B00028JMPE", rawUrl: "https://www.amazon.co.jp/dp/B00028JMPE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bigelow-white-tea", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBigelow+White+Tea%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Lacrosse Stick (fitness) ──────────────────────────────────────────
+  {
+    id: "stx-stallion-u-complete-stick",
+    category: "fitness",
+    badge: "Best Overall Complete Stick",
+    name: { en: "STX Stallion U Complete Lacrosse Stick", ja: "STX スタリオン U コンプリートラクロスステッキ" },
+    description: { en: "Mid-range complete lacrosse stick bridging beginner and performance gear for high school and adult players", ja: "高校生と大人向けに初心者と高性能の間を埋める中価格帯コンプリートラクロスステッキ" },
+    links: [
+      { network: "amazon-jp", productId: "B07KQPR2T6", rawUrl: "https://www.amazon.co.jp/dp/B07KQPR2T6", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-stx-stallion-u", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTX+Stallion+U+Lacrosse%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "epoch-hawk-iq9",
+    category: "fitness",
+    badge: "Best Performance Attack Stick",
+    name: { en: "Epoch Hawk iQ9 Complete Stick", ja: "Epoch Hawk iQ9 コンプリートスティック" },
+    description: { en: "High-performance attack lacrosse stick with narrow iQ9 head, aggressive offset, and Dragonfly composite shaft", ja: "ナローiQ9ヘッド・アグレッシブオフセット・Dragonflyコンポジットシャフトの高性能アタックラクロスステッキ" },
+    links: [
+      { network: "amazon-jp", productId: "B07BDXDPMC", rawUrl: "https://www.amazon.co.jp/dp/B07BDXDPMC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-epoch-hawk-iq9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEpoch+Hawk+iQ9+Lacrosse%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "warrior-evo-complete-stick",
+    category: "fitness",
+    badge: "Best Value Mid-Range",
+    name: { en: "Warrior Evo Complete Lacrosse Stick", ja: "Warrior Evo コンプリートラクロスステッキ" },
+    description: { en: "Reliable mid-range complete stick for recreational and high school lacrosse with good pocket control", ja: "良好なポケットコントロールを持つレクリエーション・高校ラクロス向け信頼性の高い中価格帯コンプリートスティック" },
+    links: [
+      { network: "amazon-jp", productId: "B074WFHQ6P", rawUrl: "https://www.amazon.co.jp/dp/B074WFHQ6P", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-warrior-evo-lacrosse", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWarrior+Evo+Lacrosse%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "maverik-lacrosse-complete-stick",
+    category: "fitness",
+    badge: "Best for Midfielders",
+    name: { en: "Maverik Lacrosse Complete Stick", ja: "Maverik Lacrosse コンプリートスティック" },
+    description: { en: "Midfielder-optimized complete lacrosse stick with wider throat for ground balls and throwing accuracy balance", ja: "グラウンドボールとスローイング精度バランスのための広いスロートを持つミッドフィールダー最適化コンプリートスティック" },
+    links: [
+      { network: "amazon-jp", productId: "B07G3H5ZFK", rawUrl: "https://www.amazon.co.jp/dp/B07G3H5ZFK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-maverik-lacrosse", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMaverik+Lacrosse+Stick%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "stx-crux-200-womens-stick",
+    category: "fitness",
+    badge: "Best Women's Lacrosse Stick",
+    name: { en: "STX Crux 200 Women's Complete Stick", ja: "STX Crux 200 女性用コンプリートスティック" },
+    description: { en: "Women's-specific lacrosse stick with regulation-compliant shallow pocket, lighter shaft, and women's head geometry", ja: "規制準拠の浅いポケット・軽いシャフト・女性用ヘッドジオメトリを持つ女性専用ラクロスステッキ" },
+    links: [
+      { network: "amazon-jp", productId: "B07B4HZFGK", rawUrl: "https://www.amazon.co.jp/dp/B07B4HZFGK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-stx-crux-200", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTX+Crux+200+Women%27s+Lacrosse%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
