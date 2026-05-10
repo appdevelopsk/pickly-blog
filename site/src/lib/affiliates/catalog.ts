@@ -15647,6 +15647,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-stx-crux-200", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTX+Crux+200+Women%27s+Lacrosse%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── Hibiscus Tea (food) ───────────────────────────────────────────────
+  {
+    id: "frontier-co-op-hibiscus-flowers",
+    category: "food",
+    badge: "Best Loose Hibiscus",
+    name: { en: "Frontier Co-op Hibiscus Flowers", ja: "Frontier Co-op ハイビスカスフラワー" },
+    description: { en: "Whole dried organic hibiscus calyxes for brewing deep ruby agua de jamaica at home", ja: "自宅で深いルビーのアグア・デ・ジャマイカを淹れるためのホール乾燥オーガニックハイビスカスがく" },
+    links: [
+      { network: "amazon-jp", productId: "B000WS2PBK", rawUrl: "https://www.amazon.co.jp/dp/B000WS2PBK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-frontier-hibiscus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFrontier+Co-op+Hibiscus+Flowers%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harney-sons-hibiscus-blend",
+    category: "food",
+    badge: "Best Premium Hibiscus Blend",
+    name: { en: "Harney & Sons Hibiscus Herbal Tea", ja: "Harney & Sons ハイビスカスハーブティー" },
+    description: { en: "Premium hibiscus blend with rosehips and chamomile for a balanced deep ruby cup with floral notes", ja: "フローラルな香りを持つ均衡の取れた深いルビーカップのためのローズヒップとカモミール入りプレミアムハイビスカスブレンド" },
+    links: [
+      { network: "amazon-jp", productId: "B000FGDIAI", rawUrl: "https://www.amazon.co.jp/dp/B000FGDIAI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-harney-hibiscus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarney+%26+Sons+Hibiscus%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bigelow-benefits-hibiscus",
+    category: "food",
+    badge: "Best Everyday Hibiscus Tea",
+    name: { en: "Bigelow Benefits Hibiscus Tea", ja: "Bigelow Benefits ハイビスカスティー" },
+    description: { en: "Accessible everyday hibiscus tea with mint, foil-wrapped for freshness, widely available", ja: "広く流通するアルミホイル包装鮮度保持のミント入りアクセスしやすい毎日のハイビスカスティー" },
+    links: [
+      { network: "amazon-jp", productId: "B002PHAD5A", rawUrl: "https://www.amazon.co.jp/dp/B002PHAD5A", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bigelow-hibiscus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBigelow+Hibiscus+Tea%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "celestial-seasonings-wild-berry-zinger",
+    category: "food",
+    badge: "Best Budget Hibiscus Option",
+    name: { en: "Celestial Seasonings Wild Berry Zinger", ja: "Celestial Seasonings ワイルドベリージンジャー" },
+    description: { en: "Budget-friendly hibiscus-base fruity herbal blend for hibiscus beginners and approachable daily tea", ja: "ハイビスカス初心者とアクセスしやすい毎日のお茶向けコスパ良好なハイビスカスベースフルーティーハーブブレンド" },
+    links: [
+      { network: "amazon-jp", productId: "B000GG2AUQ", rawUrl: "https://www.amazon.co.jp/dp/B000GG2AUQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-celestial-wild-berry-zinger", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCelestial+Seasonings+Wild+Berry+Zinger%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "republic-of-tea-hibiscus-superflower",
+    category: "food",
+    badge: "Best Hibiscus for Cold Brew",
+    name: { en: "Republic of Tea Hibiscus Superflower", ja: "Republic of Tea ハイビスカス スーパーフラワー" },
+    description: { en: "Single-ingredient hibiscus in airtight tin sachets optimized for cold brew and wellness-focused daily use", ja: "コールドブリューとウェルネス重視の毎日の使用に最適化された気密ティンサシェのシングルインリーディエントハイビスカス" },
+    links: [
+      { network: "amazon-jp", productId: "B002H0G5KW", rawUrl: "https://www.amazon.co.jp/dp/B002H0G5KW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-republic-hibiscus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRepublic+of+Tea+Hibiscus%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── Volleyball Knee Pads (fitness) ────────────────────────────────────
+  {
+    id: "asics-unisex-gel-volleyball-knee-pad",
+    category: "fitness",
+    badge: "Best Overall Volleyball Knee Pad",
+    name: { en: "Asics Unisex Gel Volleyball Knee Pad", ja: "Asics ユニセックス ゲルバレーボール膝パッド" },
+    description: { en: "Gel-padded volleyball knee pad with correct impact zone positioning and anti-slip retention for competitive play", ja: "競技プレイ向け正確な衝撃ゾーン位置決めと滑り止め保持のゲルパッド入りバレーボール膝パッド" },
+    links: [
+      { network: "amazon-jp", productId: "B00C4Q8BBO", rawUrl: "https://www.amazon.co.jp/dp/B00C4Q8BBO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-asics-gel-knee-pad", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAsics+Volleyball+Knee+Pad%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mizuno-lr6-knee-pads",
+    category: "fitness",
+    badge: "Best for Libero Players",
+    name: { en: "Mizuno LR6 Volleyball Knee Pad", ja: "Mizuno LR6 バレーボール膝パッド" },
+    description: { en: "Thick-padded libero-specific volleyball knee pad with reinforced kneecap and side panels for lateral slides", ja: "強化膝頭と横スライド用サイドパネルを持つ厚パッドリベロ専用バレーボール膝パッド" },
+    links: [
+      { network: "amazon-jp", productId: "B00C4Q8BBO", rawUrl: "https://www.amazon.co.jp/dp/B00C4Q8BBO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-mizuno-lr6-knee-pad", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMizuno+LR6+Knee+Pad%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nike-fundamentals-volleyball-knee-pad",
+    category: "fitness",
+    badge: "Best for Hitters and Setters",
+    name: { en: "Nike Fundamentals Volleyball Knee Pad", ja: "Nike ファンダメンタルズ バレーボール膝パッド" },
+    description: { en: "Thin-profile volleyball knee pad for front-row players who need jump freedom with minimal bulk", ja: "最小限の嵩でジャンプの自由が必要なフロントロー選手向けの薄型バレーボール膝パッド" },
+    links: [
+      { network: "amazon-jp", productId: "B07RLTK9QK", rawUrl: "https://www.amazon.co.jp/dp/B07RLTK9QK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nike-volleyball-knee", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Volleyball+Knee+Pad%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tachikara-sv-5ws-volleyball-knee-pad",
+    category: "fitness",
+    badge: "Best Budget Knee Pad",
+    name: { en: "Tachikara Volleyball Knee Pad", ja: "Tachikara バレーボール膝パッド" },
+    description: { en: "Budget volleyball knee pad for recreational players and youth leagues with adequate foam protection", ja: "レクリエーション選手とユースリーグ向けの適切なフォーム保護コスパバレーボール膝パッド" },
+    links: [
+      { network: "amazon-jp", productId: "B000T2NMLE", rawUrl: "https://www.amazon.co.jp/dp/B000T2NMLE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tachikara-knee-pad", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTachikara+Volleyball+Knee+Pad%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wilson-knee-pads-volleyball",
+    category: "fitness",
+    badge: "Best Mid-Range Option",
+    name: { en: "Wilson Volleyball Knee Pads", ja: "Wilson バレーボール膝パッド" },
+    description: { en: "Mid-range EVA foam volleyball knee pads for competitive high school and adult recreational players", ja: "競技高校生と大人のレクリエーション選手向けの中価格帯EVAフォームバレーボール膝パッド" },
+    links: [
+      { network: "amazon-jp", productId: "B07G4MT7QJ", rawUrl: "https://www.amazon.co.jp/dp/B07G4MT7QJ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wilson-volleyball-knee", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWilson+Volleyball+Knee+Pads%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
