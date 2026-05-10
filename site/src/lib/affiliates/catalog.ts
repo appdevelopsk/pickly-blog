@@ -11613,6 +11613,146 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-chirp-wheel-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%A3%E3%83%BC%E3%83%97%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "foodsaver-v4840-vacuum-sealer",
+    category: "food",
+    badge: "🥩",
+    name: { en: "FoodSaver V4840 2-in-1 Vacuum Sealer", ja: "フードセーバー V4840 2-in-1 真空パック機" },
+    description: {
+      en: "~$100-150. Built-in bag roll storage and cutter, retractable handheld sealer for FoodSaver containers. Most widely available vacuum sealer — bags sold in grocery stores. Best for users who value retail bag availability and proven long-term track record.",
+      ja: "約1万〜1万5千円。袋ロールストレージ＆カッター内蔵、格納式ハンドヘルドシーラー付き。北米で最も普及している真空パック機で袋は食料品店でも入手可能。小売袋の入手しやすさと実績を重視するユーザーに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08CKFLKZF", rawUrl: "https://www.amazon.co.jp/dp/B08CKFLKZF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-foodsaver-v4840", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFoodSaver%E7%9C%9F%E7%A9%BA%E3%83%91%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nesco-vs-12-vacuum-sealer",
+    category: "food",
+    badge: "🔒",
+    name: { en: "Nesco VS-12 Deluxe Vacuum Sealer", ja: "Nesco VS-12 デラックス真空パック機" },
+    description: {
+      en: "~$70-100. Double sealing strip (stronger seam), explicitly compatible with any embossed bag — best third-party bag support in class. ~23 inHg vacuum. Cheaper bags over time. Best for regular users who buy bags in bulk online.",
+      ja: "約7千〜1万円。ダブルシールストリップ（強固なシーム）、あらゆるエンボス袋に明示的対応。約23 inHg真空。長期的に袋代が安くなる。大量にオンラインで袋を購入する定期使用者に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BIXFZNI", rawUrl: "https://www.amazon.co.jp/dp/B00BIXFZNI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nesco-vs12", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNesco%E7%9C%9F%E7%A9%BA%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anova-precision-vacuum-sealer-pro",
+    category: "food",
+    badge: "♨️",
+    name: { en: "Anova Precision Vacuum Sealer Pro", ja: "Anova プレシジョン バキュームシーラー Pro" },
+    description: {
+      en: "~$100-130. 99.9% vacuum level (higher than standard external sealers), pulse mode for fragile foods, compatible with any embossed bag. Best for sous vide cooks — near-complete vacuum keeps bags submerged in water bath.",
+      ja: "約1万〜1万3千円。99.9%真空レベル（標準外部シーラーより高い）、繊細な食品向けパルスモード、あらゆるエンボス袋に対応。スービッドクックに最適——ほぼ完全な真空で袋がウォーターバスに沈む。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07C2H3SWV", rawUrl: "https://www.amazon.co.jp/dp/B07C2H3SWV", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-anova-vacuum-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnova%E7%9C%9F%E7%A9%BA%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "geryon-vacuum-sealer-machine",
+    category: "food",
+    badge: "📦",
+    name: { en: "Geryon Vacuum Sealer Machine", ja: "Geryon 真空パック機" },
+    description: {
+      en: "~$30-50. Compact drawer-storable size, ~18 inHg vacuum. Best entry-level purchase for first-time users testing vacuum sealing workflow. Lower vacuum and fewer controls than premium options.",
+      ja: "約3千〜5千円。引き出しに収納できるコンパクトサイズ、約18 inHg真空。真空パックワークフローを試したい初回購入者向けエントリーレベルの最良の選択。プレミアム製品より真空と制御は劣る。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07GVBH7T7", rawUrl: "https://www.amazon.co.jp/dp/B07GVBH7T7", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-geryon-vacuum", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGeryon%E7%9C%9F%E7%A9%BA%E3%83%91%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zwilling-fresh-save-vacuum-system",
+    category: "food",
+    badge: "🫙",
+    name: { en: "Zwilling Fresh & Save Vacuum Starter Set", ja: "ツヴィリング フレッシュ＆セーブ バキュームスターターセット" },
+    description: {
+      en: "~$60-100. USB-rechargeable handheld pump, reusable rigid containers and zipper bags, no heat sealing needed. Handles wet foods easily. Best for refrigerator life extension of produce and leftovers — not a substitute for long-term freezer storage.",
+      ja: "約6千〜1万円。USB充電式ハンドヘルドポンプ、再利用可能な硬質容器とジッパー袋、熱溶着不要。液体食品も容易に扱える。農産物や残り物の冷蔵保存期間延長に最適——熱溶着袋による長期冷凍保存の代替ではない。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B083XS99M1", rawUrl: "https://www.amazon.co.jp/dp/B083XS99M1", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-zwilling-fresh-save", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%84%E3%83%B4%E3%82%A3%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "indo-board-original-balance-trainer",
+    category: "fitness",
+    badge: "🏄",
+    name: { en: "Indo Board Original Balance Trainer", ja: "インドボード オリジナル バランストレーナー" },
+    description: {
+      en: "~$100-130. 30x11-inch deck + 6.5-inch foam roller. High skill ceiling — appropriate for surfers, skateboarders, snowboarders. Fiberglass deck + grip tape. Compatible with larger rollers and disc cushion accessories. Best for advanced users and board sport athletes.",
+      ja: "約1万〜1万3千円。30×11インチデッキ＋直径6.5インチフォームローラー。スキル上限が高い——サーファー、スケートボーダー、スノーボーダーに最適。ファイバーグラスデッキ＋グリップテープ。大径ローラーとディスククッションアクセサリーに対応。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00IDSTXIC", rawUrl: "https://www.amazon.co.jp/dp/B00IDSTXIC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-indo-board-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A4%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bosu-balance-trainer-pro",
+    category: "fitness",
+    badge: "🔵",
+    name: { en: "BOSU Balance Trainer Pro", ja: "BOSU バランストレーナー プロ" },
+    description: {
+      en: "~$150-200. 65 cm inflatable dome + rigid platform. Dome up: squats, lunges, single-leg stands. Platform up: planks, push-ups, mountain climbers. 350 lb commercial rating. Best versatility for full-body workout integration. Best for rehabilitation and group fitness.",
+      ja: "約1万5千〜2万円。65cmインフレータブルドーム＋硬質プラットフォーム。ドーム面：スクワット・ランジ・片足立ち。プラットフォーム面：プランク・プッシュアップ・マウンテンクライマー。耐荷重160kgで商業用途に対応。リハビリとグループフィットネスに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001AQOXVO", rawUrl: "https://www.amazon.co.jp/dp/B001AQOXVO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bosu-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBOSU%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "revbalance-101-balance-board",
+    category: "fitness",
+    badge: "⚖️",
+    name: { en: "RevBalance 101 Balance Board", ja: "RevBalance 101 バランスボード" },
+    description: {
+      en: "~$60-80. Maple deck + interchangeable fulcrum (3 difficulty levels). 350 lb rated. Adjustable difficulty makes it uniquely appropriate for rehabilitation and multi-user households. Best for PT settings and users who want to progress within one board.",
+      ja: "約6千〜8千円。メープルデッキ＋交換可能フルクラム（3難易度レベル）。耐荷重160kg。調整可能な難易度によりリハビリ設定と複数ユーザー家庭に最適。PT環境と1つのボードで上達したいユーザーに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BSQTPAS", rawUrl: "https://www.amazon.co.jp/dp/B00BSQTPAS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-revbalance-101", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A9%E3%83%96%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yes4all-wobble-balance-board",
+    category: "fitness",
+    badge: "🪵",
+    name: { en: "Yes4All Wobble Balance Board", ja: "Yes4All ウォブルバランスボード" },
+    description: {
+      en: "~$20-30. 15.7-inch wood deck + hemispherical plastic base. Best entry-level wobble board for beginners and ankle rehabilitation. Appropriate first purchase before committing to premium balance training equipment.",
+      ja: "約2千〜3千円。直径40cm木材デッキ＋半球形プラスチックベース。初心者と足首リハビリ向けベストエントリーレベルウォブルボード。プレミアムバランストレーニング機器に投資する前の最初の購入に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00GX1EVLE", rawUrl: "https://www.amazon.co.jp/dp/B00GX1EVLE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-yes4all-wobble", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A6%E3%82%A9%E3%83%96%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fitterst-balance-board",
+    category: "fitness",
+    badge: "🎯",
+    name: { en: "FitterFirst Professional Balance Board", ja: "FitterFirst プロフェッショナル バランスボード" },
+    description: {
+      en: "~$40-60. 18-inch diameter, higher dome than Yes4All — greater tipping angle range. Better for adults with larger feet or users who plateau on standard wobble boards. Mid-range entry option with more instability range than budget alternatives.",
+      ja: "約4千〜6千円。直径45cm、Yes4Allより高いドームで傾き角度の範囲が広い。足が大きい大人や標準的なウォブルボードをすぐに使いこなしてしまうユーザーに最適。安価な代替品より不安定性範囲が広い中級エントリーオプション。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00N4YQNTU", rawUrl: "https://www.amazon.co.jp/dp/B00N4YQNTU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fitterfirst-balance", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitterFirst%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
