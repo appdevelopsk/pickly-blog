@@ -13443,6 +13443,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-preacher-curl-attachment", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── best-siphon-coffee-maker-2026 ────────────────────────────────────────
+  {
+    id: "hario-next-siphon",
+    category: "food",
+    badge: "☕",
+    name: { en: "Hario Next Siphon", ja: "Hario Next サイフォン" },
+    description: {
+      en: "~$60-90. 3-cup or 5-cup, improved stand, cloth filter, butane burner compatible. Best current siphon — most stable Hario design, improved cloth filter holder. Correct for serious siphon brewing. Butane burner sold separately.",
+      ja: "約8,500〜1万3千円。3カップまたは5カップ、改善されたスタンド、布フィルター、ブタンバーナー対応。最高の現行サイフォン——最も安定したHarioデザイン、改善された布フィルターホルダー。本格的なサイフォン抽出に正しい。ブタンバーナーは別売り。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B003VWXKFY", rawUrl: "https://www.amazon.co.jp/dp/B003VWXKFY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hario-next-siphon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+Next+%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yama-glass-siphon-5-cup",
+    category: "food",
+    badge: "☕",
+    name: { en: "Yama Glass Siphon 5-Cup", ja: "Yama Glass サイフォン 5カップ" },
+    description: {
+      en: "~$70-100. 5-cup (600ml), thick borosilicate glass, cloth or metal filter. Best non-Hario siphon — thicker glass than most, practical 5-cup size for 2-3 people. Good alternative to Hario with comparable cup quality.",
+      ja: "約1万〜1万5千円。5カップ（600ml）、厚いホウケイ酸ガラス、布またはメタルフィルター。最高の非Harioサイフォン——ほとんどより厚いガラス、2〜3人に実用的な5カップサイズ。同等のカップ品質でHarioの良い代替。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B002UZXQX6", rawUrl: "https://www.amazon.co.jp/dp/B002UZXQX6", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-yama-siphon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYama+%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hario-technica-siphon",
+    category: "food",
+    badge: "☕",
+    name: { en: "Hario Technica Siphon", ja: "Hario Technica サイフォン" },
+    description: {
+      en: "~$45-70. 3-cup or 5-cup, simpler stand, compatible with standard Hario filters. Entry-level Hario siphon — correct starting point to explore siphon brewing without Hario Next price. Same brewing principle as Next.",
+      ja: "約6,500〜1万円。3カップまたは5カップ、シンプルなスタンド、標準Harioフィルター対応。エントリーレベルHarioサイフォン——Hario Nextの価格なしにサイフォン抽出を探索する正しい出発点。同じ抽出原理。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001NB8KDO", rawUrl: "https://www.amazon.co.jp/dp/B001NB8KDO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hario-technica-siphon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+Technica+%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cona-siphon-coffee-maker",
+    category: "food",
+    badge: "☕",
+    name: { en: "Cona Siphon Coffee Maker", ja: "Cona サイフォンコーヒーメーカー" },
+    description: {
+      en: "~$90-140. British design, solid borosilicate glass, spring-clip filter. Classic siphon with easy-clean spring-clip filter. Good for brewers wanting a durable, low-maintenance filter option. Traditional aesthetic.",
+      ja: "約1万3千〜2万円。イギリスデザイン、固形ホウケイ酸ガラス、スプリングクリップフィルター。手入れのしやすいスプリングクリップフィルターを持つ古典的サイフォン。耐久性と清掃しやすいフィルターオプションを望むブルワーに良い。伝統的な美観。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00004RKHU", rawUrl: "https://www.amazon.co.jp/dp/B00004RKHU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cona-siphon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCona+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "butane-burner-for-siphon",
+    category: "food",
+    badge: "☕",
+    name: { en: "Butane Burner for Siphon Coffee", ja: "サイフォンコーヒー用ブタンバーナー" },
+    description: {
+      en: "~$20-40. Adjustable flame butane burner for siphon brewing. Required for consistent siphon heat — more controllable than included alcohol lamps. Necessary for precise temperature control and repeatable results.",
+      ja: "約3,000〜6,000円。サイフォン抽出用調整可能炎ブタンバーナー。一貫したサイフォン熱に必須——付属のアルコールランプより制御可能。精密な温度コントロールと繰り返し可能な結果に必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00176DCBE", rawUrl: "https://www.amazon.co.jp/dp/B00176DCBE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-butane-burner-siphon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3+%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── best-trap-bar-2026 ───────────────────────────────────────────────────
+  {
+    id: "rogue-tb-2-trap-bar",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Rogue TB-2 Trap Bar", ja: "Rogue TB-2 トラップバー" },
+    description: {
+      en: "~$300-350. 11-gauge steel, 16.25-inch sleeves, 1,000 lb rated, dual knurled handles, ~60 lb bar. Best trap bar available — correct for athletes consistently pulling 500+ lbs and for long-term investment.",
+      ja: "約4万5千〜5万3千円。11ゲージスチール、41cmスリーブ、450kg定格、デュアルナーリングハンドル、バー約27kg。最高のトラップバー——227kg以上を一貫して引くアスリートと長期投資に正しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BHWCG7A", rawUrl: "https://www.amazon.co.jp/dp/B00BHWCG7A", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-tb2-trap-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+TB-2+%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cap-barbell-trap-bar",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "CAP Barbell Hex Trap Bar", ja: "CAP Barbell ヘックストラップバー" },
+    description: {
+      en: "~$80-120. Hex design, dual high/low handles, 2-inch sleeves, 500 lb rated, ~45 lb bar. Best budget trap bar — adequate for home gym deadlifts under 300-400 lbs. Mild knurling. Correct entry-level choice for Olympic plate owners.",
+      ja: "約1万2千〜1万8千円。ヘックスデザイン、デュアルハイ/ローハンドル、2インチスリーブ、227kg定格、バー約20kg。最高の予算トラップバー——136〜181kg以下のホームジムデッドリフトに十分。穏やかなナーリング。オリンピックプレートオーナーの正しいエントリーレベル選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00F3XLPXI", rawUrl: "https://www.amazon.co.jp/dp/B00F3XLPXI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cap-trap-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP+Barbell+%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-fitness-hex-trap-bar",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Titan Fitness Hex Trap Bar", ja: "Titan Fitness ヘックストラップバー" },
+    description: {
+      en: "~$100-150. Better knurling than CAP, ~52 lb bar, improved sleeve quality. Best budget-to-mid-range trap bar — meaningful improvement over CAP for athletes lifting 250+ lbs regularly.",
+      ja: "約1万5千〜2万3千円。CAPより良いナーリング、バー約24kg、改善されたスリーブ品質。最高の予算〜中間レンジトラップバー——113kg以上を定期的にリフトするアスリートにCAPより意味のある改善。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07P6ZN9XQ", rawUrl: "https://www.amazon.co.jp/dp/B07P6ZN9XQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-trap-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-hd-trap-bar",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "REP Fitness HD Trap Bar", ja: "REP Fitness HD トラップバー" },
+    description: {
+      en: "~$150-200. Heavy-gauge frame, better knurling, longer sleeves than budget. Best value premium trap bar — REP quality without Rogue price. Correct for athletes wanting better quality than Titan without TB-2 cost.",
+      ja: "約2万3千〜3万円。重ゲージフレーム、より良いナーリング、予算より長いスリーブ。最高のバリュープレミアムトラップバー——Rogueの価格なしにREP品質。TB-2のコストなしにTitanより良い品質を望むアスリートに正しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09BKHGT5Y", rawUrl: "https://www.amazon.co.jp/dp/B09BKHGT5Y", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-trap-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "valor-fitness-ob-hx-trap-bar",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Valor Fitness Trap Bar", ja: "Valor Fitness トラップバー" },
+    description: {
+      en: "~$90-130. Mid-range construction, dual handles, comparable to Titan. Good alternative if Titan unavailable. Budget-to-mid-range tier, functionally comparable at similar price points.",
+      ja: "約1万3千〜2万円。中間レンジ構造、デュアルハンドル、Titanと同等。Titanが入手できない場合の良い代替。予算〜中間レンジティア、同様の価格帯で機能的に同等。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00CLKF0FQ", rawUrl: "https://www.amazon.co.jp/dp/B00CLKF0FQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-valor-trap-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor+Fitness+%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
