@@ -14437,6 +14437,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-ringside-100lb", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRingside+100lb+heavy+bag%2F", markets: ["JP"], approved: true },
     ],
   },
+  // best-honey-2026
+  {
+    id: "comvita-manuka-honey-umf10",
+    category: "food",
+    badge: "認証マヌカUMF",
+    name: { en: "Comvita Manuka Honey UMF 10+", ja: "コンビタ マヌカハニー UMF 10+" },
+    description: {
+      en: "Manuka honey, UMF 10+ / MGO 263+, 250g. $30-40. Best certified Manuka — UMF certification verifies MGO and authenticity.",
+      ja: "マヌカハニー、UMF 10+ / MGO 263+、250g。$30〜40。最高認証マヌカ——UMF認証がMGOと真正性を検証。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B003JV6PXW", rawUrl: "https://www.amazon.co.jp/dp/B003JV6PXW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-comvita-manuka-umf10", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FComvita+Manuka+UMF+10%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wedderspoon-manuka-kfactor16",
+    category: "food",
+    badge: "アクセシブルマヌカ",
+    name: { en: "Wedderspoon Manuka Honey KFactor 16", ja: "ウェッダースプーン マヌカハニー KFactor 16" },
+    description: {
+      en: "Manuka honey, KFactor 16 (75%+ Manuka pollen), 11.4 oz. $20-30. Best accessible Manuka — KFactor certifies pollen content.",
+      ja: "マヌカハニー、KFactor 16（75%以上マヌカ花粉）、11.4oz。$20〜30。最高のアクセシブルマヌカ——KFactorは花粉含有量を認証。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B007YHPAJ4", rawUrl: "https://www.amazon.co.jp/dp/B007YHPAJ4", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wedderspoon-kfactor16", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWedderspoon+Manuka+KFactor+16%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nature-nates-raw-honey",
+    category: "food",
+    badge: "日常生ハチミツ",
+    name: { en: "Nature Nate's 100% Pure Raw Honey", ja: "ネイチャーネーツ 100%純粋生ハチミツ" },
+    description: {
+      en: "Raw clover honey, unfiltered, unheated, 16 oz. $10-15. Best everyday raw honey — traceable US sourcing, mild flavor.",
+      ja: "生クローバーハニー、未濾過、未加熱、16oz。$10〜15。最高の日常生ハチミツ——追跡可能な米国産、穏やかな風味。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B003OBJ3DE", rawUrl: "https://www.amazon.co.jp/dp/B003OBJ3DE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nature-nates-raw-honey", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNature+Nate+raw+honey%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ys-eco-bee-raw-honey",
+    category: "food",
+    badge: "濃厚未濾過生ハチミツ",
+    name: { en: "Y.S. Eco Bee Farms Raw Honey", ja: "Y.S.エコビーファームズ 生ハチミツ" },
+    description: {
+      en: "Raw honey, USDA organic, unfiltered, 22 oz. $12-18. Best thick unfiltered raw honey — visible propolis and pollen, assertive flavor.",
+      ja: "生ハチミツ、USDAオーガニック、未濾過、22oz。$12〜18。最高の濃厚未濾過生ハチミツ——見えるプロポリスと花粉、力強い風味。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000WTHP28", rawUrl: "https://www.amazon.co.jp/dp/B000WTHP28", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ys-eco-bee-raw-honey", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYS+Eco+Bee+Farms+raw+honey%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wholesome-organic-raw-honey",
+    category: "food",
+    badge: "オーガニックフェアトレード",
+    name: { en: "Wholesome Organic Raw Honey", ja: "ホールサム オーガニック生ハチミツ" },
+    description: {
+      en: "Organic raw honey, fair-trade certified, 16 oz. $12-18. Best organic-certified raw honey — fair-trade sourcing, mild flavor.",
+      ja: "オーガニック生ハチミツ、フェアトレード認証、16oz。$12〜18。最高のオーガニック認証生ハチミツ——フェアトレード調達、穏やかな風味。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B002VBWZTU", rawUrl: "https://www.amazon.co.jp/dp/B002VBWZTU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wholesome-organic-honey", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWholesome+organic+raw+honey%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // best-boxing-gloves-2026
+  {
+    id: "hayabusa-t3-boxing-gloves",
+    category: "fitness",
+    badge: "プレミアムトレーニング",
+    name: { en: "Hayabusa T3 Boxing Gloves", ja: "ハヤブサ T3 ボクシンググローブ" },
+    description: {
+      en: "Premium training glove, dual-X wrist strap, Vylar leather, multi-layer foam, 12/14/16oz. $100-130. Best training glove for regular use.",
+      ja: "プレミアムトレーニンググローブ、デュアルXリストストラップ、Vylarレザー、多層フォーム、12/14/16oz。$100〜130。定期使用に最高のトレーニンググローブ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00AR1LKYS", rawUrl: "https://www.amazon.co.jp/dp/B00AR1LKYS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hayabusa-t3-gloves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHayabusa+T3+boxing+gloves%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "everlast-prostyle-training-gloves",
+    category: "fitness",
+    badge: "エントリーグローブ",
+    name: { en: "Everlast ProStyle Training Gloves", ja: "エバーラスト プロスタイル トレーニンググローブ" },
+    description: {
+      en: "Entry training glove, vinyl, single-layer foam, velcro, 12/14/16oz. $20-35. Best budget entry point — appropriate for beginners.",
+      ja: "エントリートレーニンググローブ、ビニール、シングル層フォーム、ベルクロ、12/14/16oz。$20〜35。最高の予算エントリーポイント——初心者に適切。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00138YFGU", rawUrl: "https://www.amazon.co.jp/dp/B00138YFGU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-everlast-prostyle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEverlast+ProStyle+training+gloves%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "title-boxing-classic-gloves",
+    category: "fitness",
+    badge: "中堅ボクシング専門",
+    name: { en: "Title Boxing Classic Training Gloves", ja: "タイトル ボクシング クラシック トレーニンググローブ" },
+    description: {
+      en: "Mid-tier training glove, synthetic leather, multi-layer foam, velcro, 12/14/16oz. $40-60. Best mid-range training glove — boxing-specific brand.",
+      ja: "中堅トレーニンググローブ、合成レザー、多層フォーム、ベルクロ、12/14/16oz。$40〜60。最高の中堅トレーニンググローブ——ボクシング専門ブランド。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B002MSCCR2", rawUrl: "https://www.amazon.co.jp/dp/B002MSCCR2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-title-classic-gloves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitle+Boxing+Classic+gloves%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "everlast-1910-boxing-gloves",
+    category: "fitness",
+    badge: "本革アップグレード",
+    name: { en: "Everlast 1910 Training Gloves", ja: "エバーラスト 1910 トレーニンググローブ" },
+    description: {
+      en: "Mid-tier training glove, genuine leather, improved foam, wide wrist strap. $60-90. Best leather upgrade at accessible price.",
+      ja: "中堅トレーニンググローブ、本革、改良フォーム、幅広リストストラップ。$60〜90。アクセシブルな価格での最高のレザーアップグレード。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B06XRBWQFF", rawUrl: "https://www.amazon.co.jp/dp/B06XRBWQFF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-everlast-1910-gloves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEverlast+1910+training+gloves%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cleto-reyes-hook-loop-training",
+    category: "fitness",
+    badge: "プロ競技グレード",
+    name: { en: "Cleto Reyes Hook & Loop Training Gloves", ja: "クレトレイエス フック&ループ トレーニンググローブ" },
+    description: {
+      en: "Premium Mexican-made training glove, genuine leather, hook-loop closure, 14/16oz. $150-250. Best premium sparring glove — competition pedigree.",
+      ja: "プレミアムメキシコ製トレーニンググローブ、本革、フック&ループ閉合、14/16oz。$150〜250。最高のプレミアムスパーリンググローブ——競技実績。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0018BQSTW", rawUrl: "https://www.amazon.co.jp/dp/B0018BQSTW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cleto-reyes-gloves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCleto+Reyes+boxing+gloves%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
