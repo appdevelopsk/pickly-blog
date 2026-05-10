@@ -14721,6 +14721,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-paddletek-tempest-wave", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPaddletek+Tempest+Wave+Pro%2F", markets: ["JP"], approved: true },
     ],
   },
+  // best-coconut-water-2026
+  {
+    id: "vita-coco-original",
+    category: "food",
+    badge: "主流ヤシのウォーター",
+    name: { en: "Vita Coco Original Coconut Water", ja: "ビタ ココ オリジナル ヤシのウォーター" },
+    description: {
+      en: "Pasteurized, no added sugar, 16.9 oz Tetra Pak. $2-3. Best mainstream coconut water — available everywhere, consistent, reliable electrolytes.",
+      ja: "殺菌処理、砂糖不使用、16.9ozテトラパック。$2〜3。最高の主流ヤシのウォーター——どこでも入手可能、一貫性があり信頼できる電解質。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00B3DQKEG", rawUrl: "https://www.amazon.co.jp/dp/B00B3DQKEG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-vita-coco-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVita+Coco+Original+coconut+water%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harmless-harvest-raw",
+    category: "food",
+    badge: "最高の生ヤシのウォーター",
+    name: { en: "Harmless Harvest 100% Raw Coconut Water", ja: "ハームレスハーベスト 100%生ヤシのウォーター" },
+    description: {
+      en: "Raw (never heated), refrigerated, 10-16 oz. $3.50-5.00. Best raw coconut water — closest to fresh, naturally pink from antioxidants.",
+      ja: "生（加熱なし）、冷蔵、10〜16oz。$3.50〜5.00。最高の生ヤシのウォーター——生のものに最も近く、抗酸化物質による自然なピンク色。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00BKGLRWM", rawUrl: "https://www.amazon.co.jp/dp/B00BKGLRWM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-harmless-harvest-raw", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarmless+Harvest+raw+coconut+water%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "taste-nirvana-coconut-water",
+    category: "food",
+    badge: "コスパ中間品",
+    name: { en: "Taste Nirvana Real Coconut Water", ja: "テイストニルヴァーナ リアルヤシのウォーター" },
+    description: {
+      en: "Pasteurized, not from concentrate, Thailand-sourced, 9.5 oz can/glass bottle. $2-3. Best value intermediate — closer to fresh than Vita Coco.",
+      ja: "殺菌処理、濃縮物不使用、タイ産、9.5oz缶/ガラス瓶。$2〜3。コスパ最高の中間品——ビタココより生のものに近い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B009VRW9T4", rawUrl: "https://www.amazon.co.jp/dp/B009VRW9T4", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-taste-nirvana-coconut", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTaste+Nirvana+coconut+water%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "c2o-pure-coconut-water",
+    category: "food",
+    badge: "缶形式",
+    name: { en: "C2O Pure Coconut Water (Can)", ja: "C2Oピュアヤシのウォーター（缶）" },
+    description: {
+      en: "Pasteurized, not from concentrate, Thailand-sourced, 17.5 oz can. $2.50-3.50. Best can format — light barrier preserves shelf-life flavor.",
+      ja: "殺菌処理、濃縮物不使用、タイ産、17.5oz缶。$2.50〜3.50。最高の缶形式——遮光性が保存期間中の風味を保持。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00IJ0CQCU", rawUrl: "https://www.amazon.co.jp/dp/B00IJ0CQCU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-c2o-coconut-water", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FC2O+pure+coconut+water%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zico-natural-coconut-water",
+    category: "food",
+    badge: "乾いた風味プロファイル",
+    name: { en: "ZICO Natural Coconut Water", ja: "ジコ ナチュラルヤシのウォーター" },
+    description: {
+      en: "Pasteurized, no added sugar, 16.9 oz. $2.50-3.50. Best dry-profile coconut water — slightly less sweet than Vita Coco, favored by athletes.",
+      ja: "殺菌処理、砂糖不使用、16.9oz。$2.50〜3.50。最高の乾いた風味プロファイルのヤシのウォーター——ビタココより少し甘みが少なく、スポーツ選手に好まれる。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B009BI0DGA", rawUrl: "https://www.amazon.co.jp/dp/B009BI0DGA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-zico-coconut-water", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZICO+natural+coconut+water%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // best-tennis-racket-2026
+  {
+    id: "wilson-pro-staff-97-v14",
+    category: "fitness",
+    badge: "究極のコントロール",
+    name: { en: "Wilson Pro Staff 97 v14 Tennis Racket", ja: "ウィルソン プロスタッフ97 v14 テニスラケット" },
+    description: {
+      en: "97 sq in, 315g strung, 21mm beam, 16x19. $230-260. Best control racket — iconic frame, exceptional precision for advanced players.",
+      ja: "97平方インチ、315gストリング込み、21mmフレーム、16×19。$230〜260。最高のコントロールラケット——象徴的なフレーム、上級プレーヤーに卓越した精度。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09P6MPGT6", rawUrl: "https://www.amazon.co.jp/dp/B09P6MPGT6", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wilson-pro-staff-97", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWilson+Pro+Staff+97+v14%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "babolat-pure-aero-2023",
+    category: "fitness",
+    badge: "スピン重視",
+    name: { en: "Babolat Pure Aero 2023 Tennis Racket", ja: "バボラ ピュアアエロ 2023 テニスラケット" },
+    description: {
+      en: "100 sq in, 300g, aerodynamic beam, 16x19. $240-270. Best spin-oriented racket — Nadal's frame, optimized for topspin baseline play.",
+      ja: "100平方インチ、300g、空力設計フレーム、16×19。$240〜270。最高のスピン重視ラケット——ナダルのフレーム、トップスピンのベースラインプレーに最適化。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0B3JQVQBQ", rawUrl: "https://www.amazon.co.jp/dp/B0B3JQVQBQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-babolat-pure-aero-2023", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBabolat+Pure+Aero+2023%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "head-speed-mp",
+    category: "fitness",
+    badge: "オールラウンド中上級",
+    name: { en: "Head Speed MP Tennis Racket", ja: "ヘッド スピードMP テニスラケット" },
+    description: {
+      en: "100 sq in, 300g, 23mm beam, 16x19. $220-250. Best all-round intermediate/advanced racket — versatile, Djokovic association.",
+      ja: "100平方インチ、300g、23mmフレーム、16×19。$220〜250。最高のオールラウンド中〜上級ラケット——汎用性高く、ジョコビッチの関連性。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09NLLPWVQ", rawUrl: "https://www.amazon.co.jp/dp/B09NLLPWVQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-head-speed-mp", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHead+Speed+MP+tennis%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yonex-ezone-98",
+    category: "fitness",
+    badge: "腕に優しいコントロール",
+    name: { en: "Yonex EZONE 98 Tennis Racket", ja: "ヨネックス EZONE 98 テニスラケット" },
+    description: {
+      en: "98 sq in, 305g, 23.5mm beam, Vibration Dampening Mesh. $230-260. Best arm-friendly control racket — shock reduction for tennis elbow.",
+      ja: "98平方インチ、305g、23.5mmフレーム、バイブレーション・ダンプニング・メッシュ。$230〜260。最高の腕に優しいコントロールラケット——テニス肘に衝撃軽減。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0B1JXLF5Y", rawUrl: "https://www.amazon.co.jp/dp/B0B1JXLF5Y", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-yonex-ezone-98", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYonex+EZONE+98%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wilson-blade-98-v8",
+    category: "fitness",
+    badge: "アクセシブルコントロール",
+    name: { en: "Wilson Blade 98 v8 Tennis Racket", ja: "ウィルソン ブレード98 v8 テニスラケット" },
+    description: {
+      en: "98 sq in, 304g, 21.5mm beam, 16x19. $220-250. Best accessible control racket — less demanding than Pro Staff, Swiatek association.",
+      ja: "98平方インチ、304gストリング込み、21.5mmフレーム、16×19。$220〜250。最高のアクセシブルコントロールラケット——プロスタッフより要求が少なく、シュビアテクの関連性。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09PZXZXWB", rawUrl: "https://www.amazon.co.jp/dp/B09PZXZXWB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-wilson-blade-98-v8", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWilson+Blade+98+v8%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
