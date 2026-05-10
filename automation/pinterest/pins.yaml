@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 200 articles x 6 variants x 2 locales (en, ja) = 2400 pins (growing)
+# 202 articles x 6 variants x 2 locales (en, ja) = 2424 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -26834,3 +26834,245 @@ pins:
   link: "/ja/best-glute-machine-2026"
   image_alt: "ケーブルプルスルー ロープ グルートエクササイズ 一定テンション 追加コスト0"
   hashtags: ["ケーブルプルスルー", "グルートトレーニング", "ケーブルマシン", "ホームジム", "グルートエクササイズ"]
+
+# ── best-kalita-wave-2026 ────────────────────────────────────────────────────
+- id: best-kalita-wave-2026-en-comparison
+  locale: en
+  variant: comparison
+  board: home_kitchen
+  title: "Kalita Wave 2026: 185 vs 155, Stainless vs Ceramic vs Glass"
+  description: "The Kalita Wave's flat-bottom with 3 holes creates more forgiving extraction than V60's single hole — water pools evenly across the coffee bed instead of channeling to the center. Choose 185 for 2-4 cups, 155 for single serve. Stainless is most durable, ceramic has best flavor, glass lets you watch the bloom."
+  link: "/en/best-kalita-wave-2026"
+  image_alt: "Kalita Wave dripper 185 vs 155 stainless ceramic glass pour-over comparison"
+  hashtags: ["KalitaWave", "PourOver", "CoffeeGear", "HomeBarista", "SpecialtyCoffee"]
+
+- id: best-kalita-wave-2026-en-top1
+  locale: en
+  variant: top1
+  board: home_kitchen
+  title: "Kalita Wave 185 Stainless: Best Pour-Over for Most Home Brewers"
+  description: "The Kalita Wave 185 stainless is the correct choice for most households — dishwasher safe, no breakage risk, good heat retention, and the flat-bottom design delivers consistent extraction without needing perfect pour technique. Best for brewing 2-4 cups."
+  link: "/en/best-kalita-wave-2026"
+  image_alt: "Kalita Wave 185 stainless steel pour-over dripper best for home"
+  hashtags: ["KalitaWave185", "PourOver", "CoffeeBrewing", "HomeBarista", "FlatBottomDripper"]
+
+- id: best-kalita-wave-2026-en-problem
+  locale: en
+  variant: problem
+  board: home_kitchen
+  title: "Why Your V60 Pours Are Inconsistent (And How Wave Fixes It)"
+  description: "V60's single large hole means every slight change in pour speed creates big extraction changes. The Kalita Wave's 3-hole flat bottom pools water evenly across the bed — small mistakes in timing or technique have much less impact on the final cup. Better daily results while you're still developing technique."
+  link: "/en/best-kalita-wave-2026"
+  image_alt: "Kalita Wave flat bottom vs V60 pour-over extraction consistency comparison"
+  hashtags: ["KalitaWave", "V60", "PourOverCoffee", "CoffeeTips", "BrewingConsistency"]
+
+- id: best-kalita-wave-2026-en-budget
+  locale: en
+  variant: budget
+  board: home_kitchen
+  title: "Kalita Wave 185 Stainless: $40-55 for Consistent Pour-Over"
+  description: "At $40-55, the Kalita Wave 185 stainless gives you flat-bottom extraction consistency, dishwasher-safe build, and no fragility risk. Add the Kalita Wave 185 filters (~$10-15 per 100) and you have a complete pour-over setup that works for years."
+  link: "/en/best-kalita-wave-2026"
+  image_alt: "Kalita Wave 185 stainless affordable pour-over dripper budget coffee"
+  hashtags: ["KalitaWave", "BudgetCoffee", "PourOver", "AffordableCoffee", "HomeBarista"]
+
+- id: best-kalita-wave-2026-en-avoid
+  locale: en
+  variant: avoid
+  board: home_kitchen
+  title: "Don't Buy Kalita Wave Filters for the Wrong Size"
+  description: "Wave 185 and Wave 155 filters are NOT interchangeable — buying the wrong size is a common mistake. Check your dripper number before ordering. Also: Kalita Wave filters don't work in V60, Chemex, or any other dripper. The pleated wave shape is specific to the Wave's design."
+  link: "/en/best-kalita-wave-2026"
+  image_alt: "Kalita Wave filter size 185 vs 155 compatibility warning"
+  hashtags: ["KalitaWave", "CoffeeTips", "PourOver", "CoffeeFilters", "BrewingMistakes"]
+
+- id: best-kalita-wave-2026-en-scene
+  locale: en
+  variant: scene
+  board: home_kitchen
+  title: "Morning Pour-Over Ritual: Kalita Wave + Fellow Stagg EKG"
+  description: "The Fellow Stagg EKG gooseneck kettle ($150-170) pairs perfectly with the Kalita Wave — variable temperature (57-100°C) and a thin gooseneck spout give you the flow control that flat-bottom extraction rewards. Set your temperature, start the bloom, and watch the bed even out across all three holes."
+  link: "/en/best-kalita-wave-2026"
+  image_alt: "Kalita Wave pour-over morning coffee ritual Fellow Stagg EKG kettle"
+  hashtags: ["KalitaWave", "FellowStaggEKG", "MorningCoffee", "PourOver", "CoffeeRitual"]
+
+- id: best-kalita-wave-2026-ja-comparison
+  locale: ja
+  variant: comparison
+  board: home_kitchen
+  title: "Kalita Wave 2026：185 vs 155・ステンレス vs セラミック vs ガラス比較"
+  description: "Kalita WaveのフラットボトムはV60の単一穴とは異なり3つの穴でコーヒー床全体に均等に水を分散——チャネリングを防いで一貫した抽出を実現。2〜4カップなら185、シングルサーブなら155。ステンレスは最も耐久性、セラミックは最高の風味、ガラスは抽出が見える。"
+  link: "/ja/best-kalita-wave-2026"
+  image_alt: "Kalita Wave ドリッパー 185 vs 155 ステンレス セラミック ガラス ポアオーバー比較"
+  hashtags: ["KalitaWave", "ポアオーバー", "コーヒー器具", "ホームバリスタ", "スペシャルティコーヒー"]
+
+- id: best-kalita-wave-2026-ja-top1
+  locale: ja
+  variant: top1
+  board: home_kitchen
+  title: "Kalita Wave 185 ステンレス：ほとんどの家庭に最適なポアオーバー"
+  description: "Kalita Wave 185ステンレスはほとんどの家庭に正しい選択——食洗機対応・破損リスクなし・良い保温性、そしてフラットボトム設計が完璧な注ぎテクニックなしでも一貫した抽出を実現。2〜4カップ抽出に最適。"
+  link: "/ja/best-kalita-wave-2026"
+  image_alt: "Kalita Wave 185 ステンレス ポアオーバー ドリッパー 家庭用 おすすめ"
+  hashtags: ["KalitaWave185", "ポアオーバー", "コーヒー抽出", "ホームバリスタ", "フラットボトムドリッパー"]
+
+- id: best-kalita-wave-2026-ja-problem
+  locale: ja
+  variant: problem
+  board: home_kitchen
+  title: "V60の抽出が不安定な理由とKalita Waveが解決する方法"
+  description: "V60の単一の大きな穴は注ぎ速度の小さな変化で大きな抽出変動を引き起こします。Kalita Waveの3穴フラットボトムはコーヒー床全体に均等に水を溜め——タイミングやテクニックの小さなミスがカップへの影響を大幅に減少。テクニックを習得中でも毎日より良い結果を実現。"
+  link: "/ja/best-kalita-wave-2026"
+  image_alt: "Kalita Wave フラットボトム vs V60 ポアオーバー 抽出一貫性 比較"
+  hashtags: ["KalitaWave", "V60", "ポアオーバーコーヒー", "コーヒーのコツ", "抽出一貫性"]
+
+- id: best-kalita-wave-2026-ja-budget
+  locale: ja
+  variant: budget
+  board: home_kitchen
+  title: "Kalita Wave 185 ステンレス：5,500〜8,000円で一貫したポアオーバー"
+  description: "5,500〜8,000円でKalita Wave 185ステンレスはフラットボトム抽出の一貫性・食洗機対応・壊れにくさを提供。Kalita Wave 185フィルター（100枚約1,500〜2,000円）と組み合わせて長年使えるポアオーバーセットが完成。"
+  link: "/ja/best-kalita-wave-2026"
+  image_alt: "Kalita Wave 185 ステンレス コスパ ポアオーバー ドリッパー 予算 コーヒー"
+  hashtags: ["KalitaWave", "コスパコーヒー", "ポアオーバー", "お手頃コーヒー", "ホームバリスタ"]
+
+- id: best-kalita-wave-2026-ja-avoid
+  locale: ja
+  variant: avoid
+  board: home_kitchen
+  title: "Kalita Waveフィルターのサイズ間違いに注意"
+  description: "Wave 185とWave 155のフィルターは互換性なし——間違ったサイズを購入するのは最も多い失敗です。注文前にドリッパーの番号を確認してください。またKalita WaveフィルターはV60・Chemex・その他のドリッパーには使えません。ウェーブ形状はWaveの設計に特化しています。"
+  link: "/ja/best-kalita-wave-2026"
+  image_alt: "Kalita Wave フィルター サイズ 185 vs 155 互換性 注意"
+  hashtags: ["KalitaWave", "コーヒーのコツ", "ポアオーバー", "コーヒーフィルター", "抽出ミス"]
+
+- id: best-kalita-wave-2026-ja-scene
+  locale: ja
+  variant: scene
+  board: home_kitchen
+  title: "朝のポアオーバー儀式：Kalita Wave + Fellow Stagg EKG"
+  description: "Fellow Stagg EKG グースネックケトル（約2万〜2万5千円）はKalita Waveに最適なペアリング——可変温度（57〜100℃）と細いグースネックスパウトがフラットボトム抽出に最適なフロー制御を提供。温度設定・蒸らし開始・3つの穴から均一に広がる水を観察。"
+  link: "/ja/best-kalita-wave-2026"
+  image_alt: "Kalita Wave ポアオーバー 朝のコーヒー儀式 Fellow Stagg EKG ケトル"
+  hashtags: ["KalitaWave", "FellowStaggEKG", "朝のコーヒー", "ポアオーバー", "コーヒー儀式"]
+
+# ── best-ez-curl-bar-2026 ────────────────────────────────────────────────────
+- id: best-ez-curl-bar-2026-en-comparison
+  locale: en
+  variant: comparison
+  board: fitness
+  title: "EZ Curl Bar 2026: CAP vs Rogue vs Titan vs Standard 25mm"
+  description: "The critical spec: Olympic EZ curl bar (2-inch sleeves for Olympic plates) vs standard EZ curl bar (1-inch sleeves for older plates). Check your plate hole diameter before buying — they're incompatible. For most home gyms with Olympic plates: CAP ($40-60) gets you there, Titan ($65-90) is the quality jump, Rogue ($225-270) for heavy loading."
+  link: "/en/best-ez-curl-bar-2026"
+  image_alt: "EZ curl bar comparison CAP Rogue Titan standard Olympic 2026"
+  hashtags: ["EZCurlBar", "HomeGym", "ArmDay", "BicepCurls", "GymEquipment"]
+
+- id: best-ez-curl-bar-2026-en-top1
+  locale: en
+  variant: top1
+  board: fitness
+  title: "CAP Barbell Olympic EZ Curl Bar: Best Budget for Arm Training"
+  description: "At $40-60, the CAP Barbell Olympic EZ curl bar handles all arm training loads most athletes need — bushing sleeves are adequate for the lighter loads of curls and skull crushers, chrome finish holds up well, and it fits all standard Olympic plates. Correct entry-level choice."
+  link: "/en/best-ez-curl-bar-2026"
+  image_alt: "CAP Barbell Olympic EZ curl bar budget home gym arm training"
+  hashtags: ["CAPBarbell", "EZCurlBar", "HomeGym", "BudgetGym", "ArmTraining"]
+
+- id: best-ez-curl-bar-2026-en-problem
+  locale: en
+  variant: problem
+  board: fitness
+  title: "Wrist Pain During Barbell Curls? The EZ Bar Angle Explains Why"
+  description: "Straight-bar curls force full supination throughout the movement — the wrist-elbow complex is under shear stress, especially when fatigued. The EZ curl bar's angled sections put wrists in semi-supinated position, reducing lateral elbow shear force. For high-volume arm training or existing wrist issues, this makes a real difference over 4-5 sets."
+  link: "/en/best-ez-curl-bar-2026"
+  image_alt: "EZ curl bar angled grip wrist pain solution semi-supinated position"
+  hashtags: ["EZCurlBar", "WristPain", "BicepCurls", "ArmTraining", "JointHealth"]
+
+- id: best-ez-curl-bar-2026-en-budget
+  locale: en
+  variant: budget
+  board: fitness
+  title: "EZ Curl Bar Under $100: CAP, Body-Solid, and Titan Compared"
+  description: "CAP Olympic EZ curl bar ($40-60): entry level, does the job. Body-Solid ($55-80): better knurling, more consistent finish. Titan Fitness ($65-90): best sub-$100 build quality with medium aggressive knurl. All three use bushing sleeves — fine for arm training loads. Save the $150+ Rogue premium for if you're loading 100+ lbs regularly."
+  link: "/en/best-ez-curl-bar-2026"
+  image_alt: "Budget EZ curl bar under 100 dollars CAP Body-Solid Titan comparison"
+  hashtags: ["EZCurlBar", "BudgetGym", "HomeGym", "ArmDay", "AffordableGym"]
+
+- id: best-ez-curl-bar-2026-en-avoid
+  locale: en
+  variant: avoid
+  board: fitness
+  title: "Don't Buy a Standard EZ Curl Bar If You Have Olympic Plates"
+  description: "Olympic plates (2-inch hole) and standard EZ curl bars (1-inch sleeves) are completely incompatible — the plates simply won't fit. Check your plates before buying. Most plates purchased since 2000 are Olympic. If your plates have 2-inch holes, you need an Olympic EZ curl bar (CAP, Titan, Body-Solid, or Rogue)."
+  link: "/en/best-ez-curl-bar-2026"
+  image_alt: "EZ curl bar Olympic vs standard plate compatibility warning 2-inch 1-inch"
+  hashtags: ["EZCurlBar", "OlympicPlates", "HomeGym", "GymTips", "EquipmentMistakes"]
+
+- id: best-ez-curl-bar-2026-en-scene
+  locale: en
+  variant: scene
+  board: fitness
+  title: "Arm Day with EZ Curl Bar: Bicep Curls + Skull Crushers"
+  description: "The EZ curl bar covers your complete arm training: bicep curls (angled grip reduces wrist stress), skull crushers (more natural hand position than straight bar for tricep extensions), close-grip press (tricep focus with comfortable wrist angle). For 3-4 sets of curls per workout, a $40-60 CAP bar handles everything you need."
+  link: "/en/best-ez-curl-bar-2026"
+  image_alt: "EZ curl bar arm day bicep curls skull crushers tricep extensions home gym"
+  hashtags: ["EZCurlBar", "ArmDay", "BicepCurls", "SkullCrushers", "HomeGymWorkout"]
+
+- id: best-ez-curl-bar-2026-ja-comparison
+  locale: ja
+  variant: comparison
+  board: fitness
+  title: "EZカールバー2026：CAP vs Rogue vs Titan vs 標準25mm比較"
+  description: "重要なスペック：オリンピックEZカールバー（2インチスリーブ、オリンピックプレート対応）vs 標準EZカールバー（1インチスリーブ、旧来プレート対応）。購入前にプレートの穴径を確認——完全に非互換。オリンピックプレートの場合：CAP（6,000〜9,000円）・Titan（1万〜1万5千円）・Rogue（3万3千〜4万円）の順で品質アップ。"
+  link: "/ja/best-ez-curl-bar-2026"
+  image_alt: "EZカールバー 比較 CAP Rogue Titan 標準 オリンピック 2026"
+  hashtags: ["EZカールバー", "ホームジム", "アームデー", "バイセップカール", "筋トレ器具"]
+
+- id: best-ez-curl-bar-2026-ja-top1
+  locale: ja
+  variant: top1
+  board: fitness
+  title: "CAP Barbell オリンピックEZカールバー：アームトレーニングの最高コスパ"
+  description: "6,000〜9,000円でCAP Barbellオリンピックがほとんどのアームトレーニング荷重に対応——ブッシングスリーブはカールとスカルクラッシャーの軽い荷重に十分、クローム仕上げは長持ち、すべての標準オリンピックプレートに対応。オリンピックプレートオーナーの正しいエントリー選択。"
+  link: "/ja/best-ez-curl-bar-2026"
+  image_alt: "CAP Barbell オリンピックEZカールバー コスパ ホームジム アームトレーニング"
+  hashtags: ["CAPBarbell", "EZカールバー", "ホームジム", "コスパ筋トレ", "アームトレーニング"]
+
+- id: best-ez-curl-bar-2026-ja-problem
+  locale: ja
+  variant: problem
+  board: fitness
+  title: "バーベルカール中の手首の痛み？EZバーの角度が解決する理由"
+  description: "ストレートバーカールは動作全体を通じて完全な回外を強制——特に疲労時に手首-肘の複合体にせん断ストレスがかかります。EZカールバーの角度付きセクションが手首を半回外ポジションに置き、外側肘のせん断力を減少。高量アームトレーニングや既存の手首問題では4〜5セットで大きな差が出ます。"
+  link: "/ja/best-ez-curl-bar-2026"
+  image_alt: "EZカールバー 角度グリップ 手首の痛み 解決 半回外ポジション"
+  hashtags: ["EZカールバー", "手首の痛み", "バイセップカール", "アームトレーニング", "関節ケア"]
+
+- id: best-ez-curl-bar-2026-ja-budget
+  locale: ja
+  variant: budget
+  board: fitness
+  title: "1万5千円以下のEZカールバー：CAP・Body-Solid・Titan比較"
+  description: "CAP オリンピック（6,000〜9,000円）：エントリー、機能十分。Body-Solid（8,000〜1万2千円）：より良いナーリング・一貫した仕上げ。Titan Fitness（1万〜1万5千円）：最高の1万5千円以下の構造品質。3種ともブッシングスリーブ——アームトレーニング荷重に十分。45kg以上の高重量を頻繁に使わないならRogueのプレミアムは不要。"
+  link: "/ja/best-ez-curl-bar-2026"
+  image_alt: "EZカールバー 予算 1万5千円以下 CAP Body-Solid Titan 比較"
+  hashtags: ["EZカールバー", "コスパ筋トレ", "ホームジム", "アームデー", "お手頃器具"]
+
+- id: best-ez-curl-bar-2026-ja-avoid
+  locale: ja
+  variant: avoid
+  board: fitness
+  title: "オリンピックプレートがあるなら標準EZカールバーを買わないこと"
+  description: "オリンピックプレート（穴径50mm）と標準EZカールバー（1インチスリーブ）は完全に非互換——プレートがはまりません。購入前にプレートの穴径を確認。2000年以降に購入したほとんどのプレートはオリンピック（50mm穴）。2インチ穴プレートがあればオリンピックEZカールバー（CAP・Titan・Body-Solid・Rogue）が必要です。"
+  link: "/ja/best-ez-curl-bar-2026"
+  image_alt: "EZカールバー オリンピック 標準 プレート 互換性 注意 2インチ 1インチ"
+  hashtags: ["EZカールバー", "オリンピックプレート", "ホームジム", "筋トレのコツ", "器具選びのミス"]
+
+- id: best-ez-curl-bar-2026-ja-scene
+  locale: ja
+  variant: scene
+  board: fitness
+  title: "アームデー：EZカールバーでバイセップカール＋スカルクラッシャー"
+  description: "EZカールバーで完全なアームトレーニングをカバー：バイセップカール（角度グリップが手首ストレスを軽減）・スカルクラッシャー（トライセップエクステンションでストレートバーより自然なハンドポジション）・クローズグリッププレス（快適な手首角度でトライセップフォーカス）。1ワークアウト3〜4セットのカールならCAP（6,000〜9,000円）で十分。"
+  link: "/ja/best-ez-curl-bar-2026"
+  image_alt: "EZカールバー アームデー バイセップカール スカルクラッシャー トライセップ ホームジム"
+  hashtags: ["EZカールバー", "アームデー", "バイセップカール", "スカルクラッシャー", "ホームジムトレーニング"]
