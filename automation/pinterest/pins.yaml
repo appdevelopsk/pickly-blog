@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 188 articles x 6 variants x 2 locales (en, ja) = 2256 pins (growing)
+# 190 articles x 6 variants x 2 locales (en, ja) = 2280 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -25382,3 +25382,245 @@ pins:
   link: "/ja/best-resistance-band-handles-2026"
   image_alt: "レジスタンスバンド ケーブルマシン代替 ホームジム ドアアンカー エクササイズ"
   hashtags: ["レジスタンスバンド", "ケーブルマシン", "ホームジム", "バンドトレーニング", "ドアアンカー"]
+
+# best-baking-sheet-2026
+- id: best-baking-sheet-2026-comparison-en
+  board: food
+  locale: en
+  variant: comparison
+  title: "Best Baking Sheets 2026: Nordic Ware vs USA Pan vs Wilton vs OXO vs Chicago Metallic"
+  description: "Five baking sheets compared on warp resistance, heat distribution, and nonstick coating longevity. Why gauge matters more than nonstick coating for actual baking results."
+  link: "/en/best-baking-sheet-2026"
+  image_alt: "Best baking sheets 2026 comparison Nordic Ware USA Pan Wilton OXO Chicago Metallic"
+  hashtags: ["bakingsheet", "baking", "cookware", "homecooking", "kitchenessentials"]
+
+- id: best-baking-sheet-2026-top1-en
+  board: food
+  locale: en
+  variant: top1
+  title: "Best Baking Sheet for Maximum Browning: Nordic Ware Natural Aluminum"
+  description: "Nordic Ware heavy-gauge aluminum (1.3 mm) is what professional bakeries use — even heat distribution, no warping, and maximum browning on cookies, vegetables, and sheet pan dinners. $15-20 for decades of use."
+  link: "/en/best-baking-sheet-2026"
+  image_alt: "Nordic Ware natural aluminum baking sheet best browning professional"
+  hashtags: ["nordicware", "bakingsheet", "baking", "cookies", "kitchenessentials"]
+
+- id: best-baking-sheet-2026-problem-en
+  board: food
+  locale: en
+  variant: problem
+  title: "Why Baking Sheets Warp (And How to Fix It)"
+  description: "Thin sheets warp because large flat surfaces expand faster than the thick rolled edges — differential thermal expansion creates internal stress that buckles the sheet. Heavy-gauge pans and corrugated designs prevent this. What to look for."
+  link: "/en/best-baking-sheet-2026"
+  image_alt: "Baking sheet warping why it happens how to prevent it"
+  hashtags: ["bakingsheet", "baking", "kitchentips", "cookware", "homecooking"]
+
+- id: best-baking-sheet-2026-budget-en
+  board: food
+  locale: en
+  variant: budget
+  title: "Best Budget Baking Sheet That Won't Warp: Nordic Ware vs Wilton"
+  description: "Nordic Ware at $15-20 lasts indefinitely. Wilton nonstick at $10-15 lasts 2-3 years before the coating degrades. Over 10 years, Nordic Ware costs less per year — and produces better browning without parchment paper."
+  link: "/en/best-baking-sheet-2026"
+  image_alt: "Budget baking sheet comparison Nordic Ware vs Wilton cost long term"
+  hashtags: ["bakingsheet", "baking", "budgetcooking", "kitchenessentials", "cookies"]
+
+- id: best-baking-sheet-2026-avoid-en
+  board: food
+  locale: en
+  variant: avoid
+  title: "Why Silicone Mats Reduce Browning (And When to Use Parchment Instead)"
+  description: "Silicone mats insulate the bottom of food from direct heat — great for delicate cookies, but prevents crisping on roasted vegetables and proteins. For maximum browning: no liner. For delicate items: parchment. Use silicone mats last."
+  link: "/en/best-baking-sheet-2026"
+  image_alt: "Silicone mat vs parchment paper baking sheet browning comparison"
+  hashtags: ["bakingsheet", "baking", "siliconemat", "parchmentpaper", "kitchentips"]
+
+- id: best-baking-sheet-2026-scene-en
+  board: food
+  locale: en
+  variant: scene
+  title: "Sheet Pan Dinner Perfection: Why Your Baking Sheet Material Changes Everything"
+  description: "Heavy-gauge aluminum on roasted vegetables: caramelized edges, not steamed. Thin warped sheet: uneven heat creates scorched spots next to pale spots. The difference in baking sheet quality is visible in the results."
+  link: "/en/best-baking-sheet-2026"
+  image_alt: "Sheet pan dinner baking sheet material difference roasted vegetables"
+  hashtags: ["sheetpandinner", "bakingsheet", "roastedvegetables", "homecooking", "baking"]
+
+- id: best-baking-sheet-2026-comparison-ja
+  board: food
+  locale: ja
+  variant: comparison
+  title: "天板おすすめ2026：Nordic Ware vs USA Pan vs Wilton vs OXO vs Chicago Metallic比較"
+  description: "5製品のそり耐性・熱分布・ノンスティックコーティング耐久性を比較。実際の焼き菓子結果にはノンスティックコーティングよりゲージが重要な理由。"
+  link: "/ja/best-baking-sheet-2026"
+  image_alt: "天板おすすめ2026比較 NordicWare USAPan Wilton OXO ChicagoMetallic"
+  hashtags: ["天板", "ベーキング", "調理器具", "家庭料理", "キッチン用品"]
+
+- id: best-baking-sheet-2026-top1-ja
+  board: food
+  locale: ja
+  variant: top1
+  title: "最高の焼き色のための天板：Nordic Ware 天然アルミニウム"
+  description: "Nordic Ware重ゲージアルミニウム（1.3mm）はプロのベーカリーが使用するもの——均一な熱分布、そり無し、クッキー・野菜・シートパンディナーの最大焼き色。1,500〜2,500円で数十年の使用。"
+  link: "/ja/best-baking-sheet-2026"
+  image_alt: "Nordic Ware 天然アルミニウム天板 最高の焼き色 プロ品質"
+  hashtags: ["NordicWare", "天板", "ベーキング", "クッキー", "キッチン用品"]
+
+- id: best-baking-sheet-2026-problem-ja
+  board: food
+  locale: ja
+  variant: problem
+  title: "天板がそる原因（そして対策）"
+  description: "薄いシートは大きな平らな表面が厚い巻かれた端より速く膨張するためそります——差異的な熱膨張がシートを座屈させる内部応力を作ります。重ゲージパンと波打ち加工設計がこれを防ぎます。何を探すべきか。"
+  link: "/ja/best-baking-sheet-2026"
+  image_alt: "天板 そり原因 防止方法"
+  hashtags: ["天板", "ベーキング", "料理のコツ", "調理器具", "家庭料理"]
+
+- id: best-baking-sheet-2026-budget-ja
+  board: food
+  locale: ja
+  variant: budget
+  title: "そらないコスパ天板：Nordic Ware vs Wiltonどちらが長期的にお得か"
+  description: "Nordic Wareは1,500〜2,500円で無期限に続きます。Wiltonノンスティックは1,000〜2,000円ですがコーティングが劣化する2〜3年で交換。10年で見るとNordic Wareが安く——しかもクッキングシートなしでより良い焼き色。"
+  link: "/ja/best-baking-sheet-2026"
+  image_alt: "コスパ天板比較 NordicWare vs Wilton 長期コスト"
+  hashtags: ["天板", "ベーキング", "節約", "キッチン用品", "クッキー"]
+
+- id: best-baking-sheet-2026-avoid-ja
+  board: food
+  locale: ja
+  variant: avoid
+  title: "シリコンマットが焼き色を減らす理由（そしてクッキングシートを使う場面）"
+  description: "シリコンマットは食品の底を直接熱から断熱します——繊細なクッキーには良いですが、焼き野菜とタンパク質のパリっとした焼き上がりを妨げます。最大の焼き色：ライナーなし。繊細なアイテム：クッキングシート。シリコンマットは最後の選択。"
+  link: "/ja/best-baking-sheet-2026"
+  image_alt: "シリコンマット vs クッキングシート 天板 焼き色比較"
+  hashtags: ["天板", "ベーキング", "シリコンマット", "クッキングシート", "料理のコツ"]
+
+- id: best-baking-sheet-2026-scene-ja
+  board: food
+  locale: ja
+  variant: scene
+  title: "シートパンディナーの完成度：天板の素材がすべてを変える理由"
+  description: "焼き野菜に重ゲージアルミニウム：カラメル状の端、蒸れた感じなし。薄い曲がった天板：不均一な熱が焦げたスポットと淡いスポットを作ります。天板の品質差は結果に見えます。"
+  link: "/ja/best-baking-sheet-2026"
+  image_alt: "シートパンディナー 天板素材の違い 焼き野菜"
+  hashtags: ["シートパンディナー", "天板", "焼き野菜", "家庭料理", "ベーキング"]
+
+# best-grip-strength-trainer-2026
+- id: best-grip-strength-trainer-2026-comparison-en
+  board: fitness
+  locale: en
+  variant: comparison
+  title: "Best Grip Strength Trainers 2026: IronMind CoC vs Fat Gripz vs Harbinger vs Metolius vs Grip4Force"
+  description: "Five grip training tools compared on crush grip, wrist strength, climbing vs lifting applications. The difference between hand grippers, thick bar attachments, and wrist rollers — what each actually develops."
+  link: "/en/best-grip-strength-trainer-2026"
+  image_alt: "Best grip strength trainers 2026 IronMind CoC Fat Gripz Harbinger Metolius Grip4Force"
+  hashtags: ["gripstrength", "griptraining", "homegym", "fitness", "strengthtraining"]
+
+- id: best-grip-strength-trainer-2026-top1-en
+  board: fitness
+  locale: en
+  variant: top1
+  title: "Best Crush Grip Trainer with Progressive Overload: IronMind Captains of Crush"
+  description: "IronMind CoC grippers are rated in precise increments (#1=140 lb, #2=195 lb, #3=280 lb) — the standard in competitive grip sports for decades. The #2 is a legitimate strength benchmark. What to start with and how to progress."
+  link: "/en/best-grip-strength-trainer-2026"
+  image_alt: "IronMind Captains of Crush gripper grip strength progressive training"
+  hashtags: ["ironmind", "captainsofcrush", "gripstrength", "handgripper", "fitness"]
+
+- id: best-grip-strength-trainer-2026-problem-en
+  board: fitness
+  locale: en
+  variant: problem
+  title: "Is Your Grip Limiting Your Deadlift? How to Tell and What to Do"
+  description: "If you're using straps on any set because your grip would fail otherwise, grip is your bottleneck. Direct CoC gripper training produces strength transfer in 6-8 weeks. If you never fail on grip without straps, more grip work won't change your deadlift."
+  link: "/en/best-grip-strength-trainer-2026"
+  image_alt: "Grip strength deadlift bottleneck test fix"
+  hashtags: ["gripstrength", "deadlift", "powerlifting", "griptraining", "fitness"]
+
+- id: best-grip-strength-trainer-2026-budget-en
+  board: fitness
+  locale: en
+  variant: budget
+  title: "Best Budget Grip and Forearm Combo: IronMind #1 + Harbinger Wrist Roller"
+  description: "IronMind CoC #1 at $20-25 trains crush grip. Harbinger wrist roller at $15-20 trains forearm flexors and extensors. Together under $50, they cover the two most undertrained aspects of grip — crush strength and wrist endurance."
+  link: "/en/best-grip-strength-trainer-2026"
+  image_alt: "Budget grip forearm training IronMind CoC Harbinger wrist roller combination"
+  hashtags: ["gripstrength", "forearmtraining", "homegym", "budgetfitness", "griptraining"]
+
+- id: best-grip-strength-trainer-2026-avoid-en
+  board: fitness
+  locale: en
+  variant: avoid
+  title: "Why Cheap Adjustable Hand Grippers Don't Build Grip Strength"
+  description: "Generic adjustable grippers have inconsistent, uncalibrated resistance — you can't actually measure progression. IronMind CoC grippers are precisely rated, so a #2 is a #2 regardless of when you bought it. Calibrated resistance is what makes progressive overload possible."
+  link: "/en/best-grip-strength-trainer-2026"
+  image_alt: "Hand gripper quality comparison calibrated vs adjustable resistance"
+  hashtags: ["gripstrength", "handgripper", "griptraining", "fitness", "strengthtraining"]
+
+- id: best-grip-strength-trainer-2026-scene-en
+  board: fitness
+  locale: en
+  variant: scene
+  title: "Fat Gripz for Pull-Ups: The Efficient Way to Train Grip Without Extra Sessions"
+  description: "Fat Gripz on pull-up bars increases grip diameter to 2 inches — significantly harder on forearms without adding weight. Climbers use thick bar pull-ups to develop open-hand strength. How to integrate grip training into your existing routine."
+  link: "/en/best-grip-strength-trainer-2026"
+  image_alt: "Fat Gripz pull-ups grip training integration routine"
+  hashtags: ["fatgripz", "pullups", "gripstrength", "fitness", "homegym"]
+
+- id: best-grip-strength-trainer-2026-comparison-ja
+  board: fitness
+  locale: ja
+  variant: comparison
+  title: "グリップ力トレーニング器具おすすめ2026：IronMind CoC vs Fat Gripz vs Harbinger vs Metolius vs Grip4Force"
+  description: "クラッシュグリップ・リスト強度・クライミングvsリフティング用途で5製品比較。ハンドグリッパー・太いバーアタッチメント・リストローラーの違い——それぞれが実際に何を鍛えるか。"
+  link: "/ja/best-grip-strength-trainer-2026"
+  image_alt: "グリップ力トレーニング器具おすすめ2026 IronMind CoC FatGripz Harbinger Metolius Grip4Force"
+  hashtags: ["グリップ力", "グリップトレーニング", "ホームジム", "フィットネス", "筋力トレーニング"]
+
+- id: best-grip-strength-trainer-2026-top1-ja
+  board: fitness
+  locale: ja
+  variant: top1
+  title: "漸進的過負荷でクラッシュグリップを鍛える最高器具：IronMind Captains of Crush"
+  description: "IronMind CoCグリッパーは正確な段階で定格（#1=63kg、#2=88kg、#3=127kg）——数十年の競技グリップスポーツの基準。#2は正当な強度ベンチマーク。何から始めてどう進むか。"
+  link: "/ja/best-grip-strength-trainer-2026"
+  image_alt: "IronMind Captains of Crush グリッパー グリップ力 漸進的トレーニング"
+  hashtags: ["IronMind", "CaptainsOfCrush", "グリップ力", "ハンドグリッパー", "フィットネス"]
+
+- id: best-grip-strength-trainer-2026-problem-ja
+  board: fitness
+  locale: ja
+  variant: problem
+  title: "グリップがデッドリフトを制限していますか？確認方法と対策",
+  description: "グリップが失敗するからでないとストラップなしではできないセットがあるなら、グリップがボトルネックです。CoCグリッパートレーニングで6〜8週間で強度転移が生まれます。ストラップなしでグリップで失敗しないなら、グリップ作業はデッドリフトを変えません。"
+  link: "/ja/best-grip-strength-trainer-2026"
+  image_alt: "グリップ力 デッドリフト ボトルネック 確認 改善"
+  hashtags: ["グリップ力", "デッドリフト", "パワーリフティング", "グリップトレーニング", "フィットネス"]
+
+- id: best-grip-strength-trainer-2026-budget-ja
+  board: fitness
+  locale: ja
+  variant: budget
+  title: "コスパ最強のグリップと前腕コンビ：IronMind #1 + Harbingerリストローラー"
+  description: "IronMind CoC #1（2,500〜3,000円）でクラッシュグリップを鍛える。Harbingerリストローラー（2,000〜3,500円）で前腕屈筋と伸筋を鍛える。合計6,000円以下で、グリップの最も鍛えられていない2側面——クラッシュ強度とリスト持久力——をカバー。"
+  link: "/ja/best-grip-strength-trainer-2026"
+  image_alt: "コスパ グリップ前腕トレーニング IronMind CoC Harbingerリストローラー コンボ"
+  hashtags: ["グリップ力", "前腕トレーニング", "ホームジム", "節約", "グリップトレーニング"]
+
+- id: best-grip-strength-trainer-2026-avoid-ja
+  board: fitness
+  locale: ja
+  variant: avoid
+  title: "安価な調整可能ハンドグリッパーがグリップ力を鍛えない理由"
+  description: "一般的な調整可能グリッパーは不一致・未校正の抵抗——実際に進歩を測定できません。IronMind CoCグリッパーは正確に定格されており、#2はいつ買っても#2です。漸進的過負荷を可能にするのは校正された抵抗です。"
+  link: "/ja/best-grip-strength-trainer-2026"
+  image_alt: "ハンドグリッパー 品質比較 校正済みvs調整可能抵抗"
+  hashtags: ["グリップ力", "ハンドグリッパー", "グリップトレーニング", "フィットネス", "筋力トレーニング"]
+
+- id: best-grip-strength-trainer-2026-scene-ja
+  board: fitness
+  locale: ja
+  variant: scene
+  title: "Fat Gripzで懸垂：追加セッションなしでグリップを効率的に鍛える方法"
+  description: "懸垂バーのFat Gripzはグリップ直径を50mmに増加——重量追加なしで前腕に著しく難しい。クライマーはオープンハンド強度を発達させるため太いバー懸垂を使用。既存のルーティンにグリップトレーニングを統合する方法。"
+  link: "/ja/best-grip-strength-trainer-2026"
+  image_alt: "Fat Gripz 懸垂 グリップトレーニング ルーティン統合"
+  hashtags: ["FatGripz", "懸垂", "グリップ力", "フィットネス", "ホームジム"]
