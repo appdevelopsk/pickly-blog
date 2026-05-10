@@ -11038,6 +11038,149 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-fringe-sport-bumper-plates", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFringe%2BSport%2BBumper%2BPlates%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Food / Pizza Stones (best-pizza-stone-2026) ─────────
+  {
+    id: "unicook-heavy-duty-pizza-stone",
+    category: "food",
+    badge: "🍕",
+    name: { en: "Unicook Heavy Duty Cordierite Pizza Stone", ja: "Unicook コーディエライト製ピザストーン" },
+    description: {
+      en: "~$30-35. 15×12-inch cordierite ceramic baking stone, 6.6 lb (3 kg), oven-safe to 1450°F (788°C), works on grill and in oven. Porous surface draws moisture from dough for a crisp bottom crust. Cordierite resists thermal shock better than standard ceramics. Weakness: heavy for its size; requires 30-45 minute preheat at full oven temperature; must never be washed with soap.",
+      ja: "約4,000〜5,000円。38×30cmコーディエライトセラミックベーキングストーン、約3kg、788°Cまで対応、グリルとオーブン両用。多孔質面が生地の水分を吸い取りクリスピーな底面クラストを実現。コーディエライトは一般セラミックより熱衝撃に強い。弱点：サイズ割に重い；フル温度で30〜45分の予熱が必要；石鹸で洗ってはいけない。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07GK7XDNM", rawUrl: "https://www.amazon.co.jp/dp/B07GK7XDNM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-unicook-pizza-stone", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUnicook%2BPizza%2BStone%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "emile-henry-pizza-stone",
+    category: "food",
+    badge: "🔴",
+    name: { en: "Emile Henry Made in France Pizza Stone", ja: "エミール・アンリ フランス製ピザストーン" },
+    description: {
+      en: "~$60-75. French Burgundy clay ceramic, 14.5-inch round, 4.6 lb (2.1 kg), oven and grill safe to 750°F (400°C). HR Ceramic formula resists thermal shock, dishwasher-safe (unique in this category), elegant enough to serve at the table. Weakness: highest price; not for grill temperatures above 400°C; glazed surface provides slightly less moisture-wicking than raw cordierite.",
+      ja: "約8,000〜10,000円。フランス・ブルゴーニュ産クレイセラミック、直径37cm丸形、約2.1kg、400°Cオーブン・グリル対応。HR Ceramicで熱衝撃に強く、食洗機対応（このカテゴリでは稀有）、テーブルサービスも映える。弱点：最高価格；400°C超のグリル温度には不向き；釉薬面は生コーディエライトより水分吸収がやや劣る。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00CNFR3PG", rawUrl: "https://www.amazon.co.jp/dp/B00CNFR3PG", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-emile-henry-pizza-stone", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%9F%E3%83%BC%E3%83%AB%2B%E3%82%A2%E3%83%B3%E3%83%AA%2B%E3%83%94%E3%82%B6%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "baking-steel-original-steel",
+    category: "food",
+    badge: "⚡",
+    name: { en: "Baking Steel Original (1/4 inch)", ja: "Baking Steel オリジナル（6mm厚）" },
+    description: {
+      en: "~$100-120. 16×14-inch solid steel plate, 1/4 inch (6 mm) thick, 15 lb (6.8 kg), oven-safe at any temperature, doubles as a stovetop griddle and flat-top surface. Steel's 18× higher thermal conductivity than ceramic delivers faster browning and true Neapolitan-style char. Weakness: extremely heavy; requires seasoning like cast iron; expensive; full oven temperature means longer preheat than most people expect (45-60 min).",
+      ja: "約13,000〜16,000円。40×35cm無垢スチールプレート、厚さ6mm、約6.8kg、あらゆる温度のオーブン対応、ストーブトップグリドルとしても使用可。セラミックの18倍の熱伝導率で素早い焦げ目と本格的ナポリスタイルチャーを実現。弱点：非常に重い；鋳鉄と同様のシーズニングが必要；高価；フル予熱に45〜60分必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00JLSRWCA", rawUrl: "https://www.amazon.co.jp/dp/B00JLSRWCA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-baking-steel-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBaking%2BSteel%2BOriginal%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lodge-14-inch-cast-iron-pizza-pan",
+    category: "food",
+    badge: "🍖",
+    name: { en: "Lodge Pre-Seasoned 14\" Cast Iron Pizza Pan", ja: "Lodge 14インチ シーズニング済み鋳鉄ピザパン" },
+    description: {
+      en: "~$40-50. 14-inch round cast iron pizza pan, 6.5 lb (2.95 kg), pre-seasoned, oven-safe to 500°F (260°C), induction compatible. Higher thermal mass than thin cordierite stones; ridge pattern on the cooking surface promotes air circulation. Weakness: cast iron heats more slowly than steel and less evenly than stone across the full surface; requires same care as cast iron skillet.",
+      ja: "約5,500〜7,000円。直径35cmラウンド鋳鉄ピザパン、約2.95kg、シーズニング済み、260°Cオーブン対応、IH対応。薄いコーディエライトストーンより熱容量が大きい；調理面のリッジパターンが空気循環を促進。弱点：スチールより加熱が遅く、ストーン全面と比べると加熱均一性で劣る；スキレットと同じケアが必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0000CF6IO", rawUrl: "https://www.amazon.co.jp/dp/B0000CF6IO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-lodge-cast-iron-pizza-pan", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%2B%E3%83%94%E3%82%B6%E3%83%91%E3%83%B3%2B%E9%8B%B3%E9%89%84%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hans-grill-pizza-stone-rectangular",
+    category: "food",
+    badge: "📐",
+    name: { en: "Hans Grill Pizza Stone Rectangular", ja: "Hans Grill 長方形ピザストーン" },
+    description: {
+      en: "~$30-40. 15×12-inch rectangular cordierite stone, 5.5 lb (2.5 kg), oven and BBQ grill compatible, includes a plastic handled pizza peel. Good entry-level value: peel + stone bundle at low price. Weakness: peel is plastic and lightweight — not suitable for heavy or large pies; cordierite quality matches Unicook but the bundle pricing is the main differentiator.",
+      ja: "約4,000〜5,500円。38×30cm長方形コーディエライトストーン、約2.5kg、オーブン・BBQグリル対応、プラスチックハンドルのピザピール付属。低価格でピール＋ストーンセットが揃うエントリー向けの高コスパ。弱点：付属ピールはプラスチック製で軽量——重い大型ピザには不向き；コーディエライト品質はUnicookと同等で、セット価格が主な差別化要因。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01GPYTS74", rawUrl: "https://www.amazon.co.jp/dp/B01GPYTS74", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hans-grill-pizza-stone", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHans%2BGrill%2BPizza%2BStone%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Fitness / Freestanding Pull-Up Bars (best-pull-up-bar-freestanding-2026) ─────────
+  {
+    id: "cap-barbell-freestanding-pull-up-bar",
+    category: "fitness",
+    badge: "compact-pick",
+    name: { en: "CAP Barbell Freestanding Pull Up Bar", ja: "CAP Barbell 自立式懸垂バー" },
+    description: {
+      en: "A-frame standalone pull-up station without dip or VKR stations — smallest depth footprint in this comparison at approximately 97 by 60 cm. Wide outrigger feet deliver good lateral stability for strict dead-hang pull-ups without wall anchoring. Fixed bar height at approximately 218 cm. Multiple grip options: wide overhand at top, neutral parallel on angled side rails. Rated to 136 kg static.",
+      ja: "ディップ台・VKRなしの単体プルアップステーション——このリスト中最小の奥行き約97×60cm。幅広アウトリガーフットが壁固定なしで優れた横方向安定性を提供。固定バー高さ約218cm。グリップ複数：上部ワイドオーバーハンド、斜めサイドレールのニュートラルパラレル。静荷重136kg定格。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07L96RQDS", rawUrl: "https://www.amazon.co.jp/dp/B07L96RQDS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cap-barbell-freestanding-pull-up-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFreestanding%2BPull%2BUp%2BBar%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ultimate-body-press-freestanding-bar",
+    category: "fitness",
+    badge: "tall-user-pick",
+    name: { en: "Ultimate Body Press Freestanding Pull Up Bar", ja: "Ultimate Body Press 自立式懸垂バー" },
+    description: {
+      en: "Height-adjustable standalone pull-up bar from approximately 193 to 244 cm in preset steps — the tallest available setting in this comparison. Rectangular four-foot base with optional wall-anchor strap hardware included for added stability under dynamic loading. Straight overhand bar only; no integrated parallel or neutral grip handles. Rated to 136 kg with anchor. Best for users taller than 185 cm who need maximum overhead clearance.",
+      ja: "プリセット段階で約193〜244cmに高さ調整可能な単体懸垂バー——このリスト中で利用可能な最大高さ。動的荷重時の安定性向上のためのオプション壁アンカーストラップハードウェア付属の長方形4フットベース。ストレートオーバーハンドバーのみ（パラレル・ニュートラルグリップ非搭載）。アンカー使用時136kg定格。最大オーバーヘッドクリアランスを必要とする185cm超のユーザーに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B003TKGQQ0", rawUrl: "https://www.amazon.co.jp/dp/B003TKGQQ0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ultimate-body-press-freestanding-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFreestanding%2BPull%2BUp%2BBar%2BAdjustable%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "power-tower-workout-dip-station",
+    category: "fitness",
+    badge: "space-efficient-pick",
+    name: { en: "Yaheetech Power Tower Pull Up Dip Station", ja: "Yaheetech パワータワー プルアップ＆ディップステーション" },
+    description: {
+      en: "Full four-station power tower (pull-up, dip, push-up, VKR) in a compact approximately 95 by 110 cm footprint — the most space-efficient power tower in this comparison. Adjustable bar height to approximately 220 cm via preset holes in upright tubes. Fixed-width dip handles. Thinner VKR arm rest padding than premium alternatives. Rated to 150 kg static — highest weight capacity of any unit in this comparison. Strong value for full-function power tower capability in smaller rooms.",
+      ja: "コンパクトな約95×110cmの設置面積でフル4ステーション（プルアップ・ディップ・プッシュアップ・VKR）——このリストで最もスペース効率の高いパワータワー。アップライトチューブのプリセット穴でバー高さ約220cmまで調整可能。固定幅ディップハンドル。プレミアム製品より薄いVKRアームレストパッド。耐荷重150kg定格——このリスト中最高。小さな部屋でのフル機能パワータワーに優れた価値。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07R9WRWBB", rawUrl: "https://www.amazon.co.jp/dp/B07R9WRWBB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-power-tower-workout-dip-station", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPower%2BTower%2BPull%2BUp%2BDip%2BStation%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fitness-reality-x2-power-tower",
+    category: "fitness",
+    badge: "top-pick",
+    name: { en: "Fitness Reality X2 4-in-1 Power Tower", ja: "Fitness Reality X2 4-in-1 パワータワー" },
+    description: {
+      en: "Best overall freestanding pull-up station for most home gyms. Four stations: pull-up bar at approximately 228 cm, integrated dip station, push-up handles, and padded VKR arm rests. Heavy-gauge 3.8 cm square tube steel frame. Base footprint approximately 110 by 130 cm. Rated to 136 kg static. The right starting point for complete upper-body freestanding training without the premium cost of heavier alternatives.",
+      ja: "ほとんどのホームジムで最良の自立式懸垂ステーション。4機能：約228cmの懸垂バー・統合ディップ台・プッシュアップハンドル・パッド付きVKRアームレスト。3.8cm角パイプ重量規格スチールフレーム。ベース設置面積約110×130cm。静荷重136kg定格。重量級代替品のプレミアムコストなしに完全な上半身自立式トレーニングの出発点。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00XF7FKZC", rawUrl: "https://www.amazon.co.jp/dp/B00XF7FKZC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-fitness-reality-x2-power-tower", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitness%2BReality%2BPower%2BTower%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "weider-power-tower-200",
+    category: "fitness",
+    badge: "premium-pick",
+    name: { en: "Weider Power Tower 200", ja: "Weider パワータワー 200" },
+    description: {
+      en: "Premium four-station power tower (pull-up, dip, push-up, VKR) with heavier frame gauge, wider dip handle spacing, and thicker VKR arm rest padding than budget alternatives. Pull-up bar at approximately 228 cm fixed height. Base footprint approximately 115 by 135 cm — largest in this comparison. Rated to 136 kg static. Worth the premium over the Fitness Reality X2 for buyers who will use the dip and VKR stations frequently and value comfort during longer sets.",
+      ja: "バジェット代替品より重量規格のフレーム・広いディップハンドル間隔・厚いVKRアームレストパッドを備えたプレミアム4ステーションパワータワー（プルアップ・ディップ・プッシュアップ・VKR）。懸垂バー固定高さ約228cm。ベース設置面積約115×135cm——このリスト中最大。静荷重136kg定格。ディップとVKRステーションを頻繁に使用しロングセットの快適性を重視するユーザーにFitness Reality X2へのプレミアムの価値あり。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07PLDG9DQ", rawUrl: "https://www.amazon.co.jp/dp/B07PLDG9DQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-weider-power-tower-200", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWeider%2BPower%2BTower%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
