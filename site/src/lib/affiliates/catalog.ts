@@ -11753,6 +11753,146 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-fitterfirst-balance", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitterFirst%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "cuisinart-ice-21-ice-cream-maker",
+    category: "food",
+    badge: "🍦",
+    name: { en: "Cuisinart ICE-21 1.5-Quart Ice Cream Maker", ja: "Cuisinart ICE-21 1.5クォート アイスクリームメーカー" },
+    description: {
+      en: "~$50-60. Pre-freeze double-insulated 1.5-quart canister. Churns in ~20-25 minutes. Best for occasional use and small households comfortable planning 24 hours ahead. Replacement canisters available.",
+      ja: "約5千〜6千円。事前冷凍二重断熱1.5クォートキャニスター。約20〜25分でチャーン。偶発的な使用と24時間前の計画に慣れている小家族に最適。交換用キャニスター入手可能。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00JXBK2KA", rawUrl: "https://www.amazon.co.jp/dp/B00JXBK2KA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cuisinart-ice21", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "whynter-icm-200ls-ice-cream-maker",
+    category: "food",
+    badge: "❄️",
+    name: { en: "Whynter ICM-200LS Automatic Ice Cream Maker", ja: "Whynter ICM-200LS 自動アイスクリームメーカー" },
+    description: {
+      en: "~$250-300. Built-in compressor, 2.1-quart capacity, no pre-freezing required. Hardening function extends churn cycle. Pre-cool function improves results. Best for frequent production and on-demand ice cream without planning.",
+      ja: "約2万5千〜3万円。内蔵コンプレッサー、2.1クォート容量、事前冷凍不要。硬化機能でチャーンサイクル延長。事前冷却機能で結果が向上。頻繁な製造と計画なしのオンデマンドに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0099EB8EY", rawUrl: "https://www.amazon.co.jp/dp/B0099EB8EY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-whynter-icm200ls", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWhynter%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "breville-bci600xl-smart-scoop",
+    category: "food",
+    badge: "🍨",
+    name: { en: "Breville BCI600XL Smart Scoop Ice Cream Maker", ja: "Breville BCI600XL スマートスクープ アイスクリームメーカー" },
+    description: {
+      en: "~$350-400. Built-in compressor, 11 hardness settings with automatic sensor, 30-minute pre-cool, 3-hour keep-soft function. Best for precision across multiple base types. Automated hardness detection removes guesswork.",
+      ja: "約3万5千〜4万円。内蔵コンプレッサー、自動センサー付き11段階硬度設定、30分事前冷却、3時間保温機能。複数ベースタイプでの精密さに最適。自動硬度検出で推測不要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00B5Y5ZH2", rawUrl: "https://www.amazon.co.jp/dp/B00B5Y5ZH2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-breville-smart-scoop", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ninja-creami-ice-cream-maker",
+    category: "food",
+    badge: "🫙",
+    name: { en: "Ninja Creami NC301 Ice Cream Maker", ja: "Ninja Creami NC301 アイスクリームメーカー" },
+    description: {
+      en: "~$150-200. Blade-processes frozen pint containers (not churned). One pint at a time, 12-24 hour pre-freeze required. Best for high-protein, fruit-only, or non-standard bases. Very smooth texture from blade processing.",
+      ja: "約1万5千〜2万円。冷凍パイントコンテナをブレード加工（チャーンなし）。一度に1パイント、12〜24時間事前冷凍必要。高タンパク・フルーツのみ・非標準ベースに最適。ブレード加工で非常に滑らかなテクスチャー。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08Q58DHKY", rawUrl: "https://www.amazon.co.jp/dp/B08Q58DHKY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ninja-creami", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNinja+Creami%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kitchenaid-ice-cream-maker-attachment",
+    category: "food",
+    badge: "🥛",
+    name: { en: "KitchenAid Ice Cream Maker Attachment", ja: "KitchenAid アイスクリームメーカーアタッチメント" },
+    description: {
+      en: "~$50-70. Pre-freeze canister attachment for KitchenAid stand mixer — no separate motor needed. Best for existing KitchenAid owners who want ice cream capability without another countertop appliance.",
+      ja: "約5千〜7千円。KitchenAidスタンドミキサー用事前冷凍キャニスターアタッチメント——別途モーター不要。別の機器なしにアイスクリーム機能を求める既存KitchenAidオーナーに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00004SGFS", rawUrl: "https://www.amazon.co.jp/dp/B00004SGFS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kitchenaid-icecream", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKitchenAid%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sklz-quick-ladders",
+    category: "fitness",
+    badge: "🏃",
+    name: { en: "SKLZ Quick Agility Ladder", ja: "SKLZ クイック アジリティラダー" },
+    description: {
+      en: "~$20-30. 15-foot, 11 squares, adjustable rung spacing, flat plastic rungs, carrying bag. Most widely used in organized coaching programs. Best for athletes who want standard equipment matching what coaches use.",
+      ja: "約2千〜3千円。15フィート、11マス、調整可能なランガー間隔、フラットプラスチックランガー、キャリングバッグ。組織的な指導プログラムで最も広く使用。コーチが使う標準器具を求めるアスリートに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00B7OHZKA", rawUrl: "https://www.amazon.co.jp/dp/B00B7OHZKA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sklz-agility-ladder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSKLZ%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A9%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "perfect-fitness-agility-ladder",
+    category: "fitness",
+    badge: "📋",
+    name: { en: "Perfect Fitness Agility Ladder with Drill Card", ja: "Perfect Fitness アジリティラダー ドリルカード付き" },
+    description: {
+      en: "~$15-25. 11-rung flat plastic construction + 42-drill instructional card included. Best for self-trained athletes who need drill programming. Drill card provides structured progression without a coach.",
+      ja: "約1千5百〜2千5百円。11ランガーフラットプラスチック構造＋42ドリル指導カード付属。ドリルプログラミングが必要な自主トレーニングアスリートに最適。ドリルカードはコーチなしで構造化された進歩を提供。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00HKB83EC", rawUrl: "https://www.amazon.co.jp/dp/B00HKB83EC", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-perfect-fitness-ladder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A9%E3%83%80%E3%83%BC%E3%83%89%E3%83%AA%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yes4all-agility-ladder",
+    category: "fitness",
+    badge: "⚡",
+    name: { en: "Yes4All Agility Ladder (10/15/20 ft)", ja: "Yes4All アジリティラダー（10/15/20フィート）" },
+    description: {
+      en: "~$20-35. Available in 10/15/20-foot lengths. 20-foot option allows longer drill sequences before turning. Best for athletes needing longer runs for acceleration-based drills.",
+      ja: "約2千〜3千5百円。10/15/20フィートの長さで利用可能。20フィートオプションは方向転換前により長いドリルシーケンスを可能にする。加速ベースのドリルでより長いランが必要なアスリートに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01A2GLRQW", rawUrl: "https://www.amazon.co.jp/dp/B01A2GLRQW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-yes4all-agility", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A9%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "toezone-agility-ladder",
+    category: "fitness",
+    badge: "🏋️",
+    name: { en: "Toezone Agility Ladder (Heavy Duty)", ja: "Toezone アジリティラダー（ヘビーデューティー）" },
+    description: {
+      en: "~$30-40. Heavier plastic rung construction for higher-frequency team use. Flatter ground contact without staking. Best for youth coaches training 15+ athletes per session where durability across hundreds of sessions matters.",
+      ja: "約3千〜4千円。高頻度チーム使用向けの重いプラスチックランガー構造。杭なしのよりフラットな地面接触。数百セッションにわたる耐久性が重要なセッションあたり15人以上のアスリートをトレーニングするユース・コーチに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01LY7BQZR", rawUrl: "https://www.amazon.co.jp/dp/B01LY7BQZR", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-toezone-ladder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A9%E3%83%80%E3%83%BC%E3%83%81%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "speed-and-agility-pro-ladder",
+    category: "fitness",
+    badge: "🥇",
+    name: { en: "Speed & Agility Pro Aluminum Agility Ladder", ja: "Speed & Agility Pro アルミ アジリティラダー" },
+    description: {
+      en: "~$40-60. Aluminum rungs (same as professional sports programs), 15-foot, adjustable spacing. Best for outdoor grass use and commercial facilities. Stays flat without stakes. Higher cost justified only for daily high-frequency use.",
+      ja: "約4千〜6千円。アルミランガー（プロスポーツプログラムと同様）、15フィート、調整可能な間隔。屋外草地使用と商業施設に最適。地面杭なしでフラットを保つ。高頻度の毎日使用環境にのみ正当化されるより高いコスト。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00IY71HQY", rawUrl: "https://www.amazon.co.jp/dp/B00IY71HQY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-speed-agility-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A9%E3%83%80%E3%83%BC%E3%82%A2%E3%83%AB%E3%83%9F%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
