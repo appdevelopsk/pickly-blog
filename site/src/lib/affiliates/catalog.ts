@@ -14295,6 +14295,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-stairmaster-8series", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStairMaster+8%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%2F", markets: ["JP"], approved: true },
     ],
   },
+  // best-chai-tea-2026
+  {
+    id: "rishi-masala-chai",
+    category: "food",
+    badge: "ベストルーフリーフ",
+    name: { en: "Rishi Masala Chai Loose Leaf", ja: "リシ・マサラチャイ ルーフリーフ" },
+    description: {
+      en: "Loose leaf masala chai, Assam base, cardamom-forward, 18-22 servings. $12-16. Best loose leaf chai — whole spice complexity, farm-direct sourcing.",
+      ja: "ルーフリーフ・マサラチャイ、アッサムベース、カルダモン主体、18〜22杯分。$12〜16。最高のルーフリーフチャイ——ホールスパイスの複雑さ、農家直接調達。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000VK7XNM", rawUrl: "https://www.amazon.co.jp/dp/B000VK7XNM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rishi-masala-chai", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRishi+Masala+Chai%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "harney-sons-hot-cinnamon-spice",
+    category: "food",
+    badge: "人気スパイスティー",
+    name: { en: "Harney & Sons Hot Cinnamon Spice Tea", ja: "ハーニー&サンズ ホットシナモンスパイス" },
+    description: {
+      en: "Black tea with cinnamon, orange peel, sweet cloves, 50 bags. $10-14. Best spiced black tea — cinnamon-forward, sweet, excellent cold-brewed in milk.",
+      ja: "シナモン・オレンジピール・スウィートクローブ入りブラックティー、50袋。$10〜14。最高のスパイスブラックティー——シナモン主体、甘み、ミルクでのコールドブリューに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000F9NMBE", rawUrl: "https://www.amazon.co.jp/dp/B000F9NMBE", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-harney-hot-cinnamon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarney+Sons+Hot+Cinnamon%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tazo-chai-concentrate",
+    category: "food",
+    badge: "コスパコンセントレート",
+    name: { en: "Tazo Chai Latte Concentrate", ja: "タゾ チャイラテ コンセントレート" },
+    description: {
+      en: "Chai concentrate, 1:1 mix with milk, 32 oz. $5-8. Budget chai latte concentrate — widely available, consistent sweet-spiced result.",
+      ja: "チャイコンセントレート、ミルクと1:1で混合、32oz。$5〜8。手頃なチャイラテコンセントレート——広く入手可能、一定の甘くスパイシーな結果。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001VJ06ZO", rawUrl: "https://www.amazon.co.jp/dp/B001VJ06ZO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-tazo-chai-concentrate", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTazo+Chai+Concentrate%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oregon-chai-original-concentrate",
+    category: "food",
+    badge: "市場標準",
+    name: { en: "Oregon Chai Original Concentrate", ja: "オレゴンチャイ オリジナル コンセントレート" },
+    description: {
+      en: "Chai concentrate, sweet, cardamom-forward, 32 oz / 16 servings. $8-12. Market-standard chai latte concentrate — approximates coffee shop chai at home.",
+      ja: "チャイコンセントレート、甘くカルダモン主体、32oz / 16杯分。$8〜12。市場標準チャイラテコンセントレート——コーヒーショップのチャイを家で再現。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00198ZXRO", rawUrl: "https://www.amazon.co.jp/dp/B00198ZXRO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-oregon-chai", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOregon+Chai+Original%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "david-rio-elephant-vanilla-chai",
+    category: "food",
+    badge: "最手軽フォーマット",
+    name: { en: "David Rio Elephant Vanilla Chai Powder", ja: "デビッドリオ エレファント バニラチャイ パウダー" },
+    description: {
+      en: "Powdered chai mix, vanilla-forward, 16 oz / 16-20 servings. $15-20. Most convenient format — dissolve in hot milk, no brewing steps.",
+      ja: "パウダーチャイミックス、バニラ主体、16oz / 16〜20杯分。$15〜20。最も手軽なフォーマット——熱いミルクに溶かすだけ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0007WW0T0", rawUrl: "https://www.amazon.co.jp/dp/B0007WW0T0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-david-rio-vanilla-chai", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDavid+Rio+Elephant+Vanilla+Chai%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // best-punching-bag-2026
+  {
+    id: "everlast-powercore-freestanding-bag",
+    category: "fitness",
+    badge: "エントリーフリースタンディング",
+    name: { en: "Everlast Powercore Freestanding Bag", ja: "エバーラスト パワーコア フリースタンディングバッグ" },
+    description: {
+      en: "Freestanding, 70 lb max, Nevatear synthetic, water/sand base. $150-200. Best freestanding entry-level bag — no mounting needed, apartment-friendly.",
+      ja: "フリースタンディング、最大70lb、ネバティアーシンセティック、水/砂ベース。$150〜200。最高のエントリーレベルフリースタンディングバッグ——マウント不要、アパート対応。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07GGH5KDV", rawUrl: "https://www.amazon.co.jp/dp/B07GGH5KDV", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-everlast-powercore", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEverlast+Powercore+Freestanding%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "century-bob-xl",
+    category: "fitness",
+    badge: "精度トレーニング",
+    name: { en: "Century BOB XL Body Opponent Bag", ja: "センチュリー BOB XL ボディ・オポーネント・バッグ" },
+    description: {
+      en: "Freestanding body-shaped torso target, adjustable height, water/sand base. $100-150. Best accuracy training bag — human-shaped target develops striking precision.",
+      ja: "フリースタンディング人体形状胴体ターゲット、調整可能高さ、水/砂ベース。$100〜150。最高の精度トレーニングバッグ——人体形状ターゲットが打撃精度を養成。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000BRQNC6", rawUrl: "https://www.amazon.co.jp/dp/B000BRQNC6", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-century-bob-xl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCentury+BOB+XL%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rdx-heavy-bag-5ft",
+    category: "fitness",
+    badge: "ベストコスパハンギング",
+    name: { en: "RDX 5ft Punching Bag (Hanging)", ja: "RDX 5ftパンチングバッグ（ハンギング）" },
+    description: {
+      en: "Hanging heavy bag, 5ft / ~80 lb, Maya Hide leather, free-swinging. $80-100. Best value hanging bag — dense foam fill, good resistance feedback.",
+      ja: "ハンギングヘビーバッグ、5ft / 約80lb、マヤハイドレザー、自由揺れ。$80〜100。最高コスパのハンギングバッグ——密なフォーム充填、良好な抵抗フィードバック。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00N5A0ZQK", rawUrl: "https://www.amazon.co.jp/dp/B00N5A0ZQK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rdx-heavy-bag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRDX+5ft+punching+bag%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "everlast-c3-heavy-bag-100lb",
+    category: "fitness",
+    badge: "標準ハンギングバッグ",
+    name: { en: "Everlast C3 Heavy Bag 100 lb", ja: "エバーラスト C3 ヘビーバッグ 100lb" },
+    description: {
+      en: "Hanging heavy bag, 100 lb, canvas, chain included. $80-130. Best standard hanging bag — traditional gym-style, minimal swing for power development.",
+      ja: "ハンギングヘビーバッグ、100lb、キャンバス、チェーン付属。$80〜130。最高の標準ハンギングバッグ——伝統的なジムスタイル、パワー開発向けの最小揺れ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001ILOKYY", rawUrl: "https://www.amazon.co.jp/dp/B001ILOKYY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-everlast-c3-100lb", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEverlast+C3+heavy+bag+100lb%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ringside-heavy-bag-100lb",
+    category: "fitness",
+    badge: "伝統的ボクシングバッグ",
+    name: { en: "Ringside 100 lb Heavy Bag", ja: "リングサイド 100lb ヘビーバッグ" },
+    description: {
+      en: "Hanging heavy bag, 100 lb, canvas, boxing gym standard. $100-150. Best traditional boxing bag — heritage brand, gym-proven durability.",
+      ja: "ハンギングヘビーバッグ、100lb、キャンバス、ボクシングジム標準。$100〜150。最高の伝統的ボクシングバッグ——老舗ブランド、ジム実証済みの耐久性。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001ABTEV8", rawUrl: "https://www.amazon.co.jp/dp/B001ABTEV8", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ringside-100lb", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRingside+100lb+heavy+bag%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
