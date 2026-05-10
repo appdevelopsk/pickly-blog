@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 236 articles x 6 variants x 2 locales (en, ja) = 2832 pins (growing)
+# 238 articles x 6 variants x 2 locales (en, ja) = 2856 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -30313,4 +30313,196 @@ pins:
   title: "クロスフィット懸垂グリップ：競技選手が実際に使うもの"
   description: "WODアスリートにはBear KompleXカーボンファイバー、高度な体操動作にはGibson Athleticレザー。トレーニングコンテキストに合った正しい選択。"
   image: /og/best-gymnastics-grips-2026-ja.png
+  board: fitness-ja
+
+- slug: best-white-tea-2026
+  locale: en
+  variant: comparison
+  title: "Best White Tea 2026: Silver Needle to Budget Blends Compared"
+  description: "Rishi Bai Hao vs Vahdam Darjeeling vs Harney & Sons White Peony — buds-only vs. leaf blends, brewing temperatures, and where the premium is justified."
+  image: /og/best-white-tea-2026-en.png
+  board: food-en
+
+- slug: best-white-tea-2026
+  locale: en
+  variant: top1
+  title: "Best Silver Needle White Tea: Premium Buds-Only Picks"
+  description: "Rishi's Fujian-sourced Bai Hao Silver Needle delivers clean melon-honeydew sweetness with floral top notes — this is what white tea is supposed to taste like."
+  image: /og/best-white-tea-2026-en.png
+  board: food-en
+
+- slug: best-white-tea-2026
+  locale: en
+  variant: problem
+  title: "Why White Tea Tastes Boring (You're Brewing It Wrong)"
+  description: "Boiling water destroys white tea's delicate flavors. 75°C is the correct temperature — here's how to fix your brew and why the difference is dramatic."
+  image: /og/best-white-tea-2026-en.png
+  board: food-en
+
+- slug: best-white-tea-2026
+  locale: en
+  variant: budget
+  title: "Best Everyday White Tea Under $15: White Peony Done Right"
+  description: "Harney & Sons White Peony (Bai Mu Dan) gives honest everyday quality at a daily-drinking price — light, sweet, none of the fuss of premium Silver Needle."
+  image: /og/best-white-tea-2026-en.png
+  board: food-en
+
+- slug: best-white-tea-2026
+  locale: en
+  variant: avoid
+  title: "White Tea Buying Mistakes: What Ruins Premium Quality"
+  description: "Flat teabags crush white tea's delicate buds. Buying large quantities that sit. Using boiling water. Here's what to avoid when buying white tea."
+  image: /og/best-white-tea-2026-en.png
+  board: food-en
+
+- slug: best-white-tea-2026
+  locale: en
+  variant: scene
+  title: "White Tea in the Morning: The Gentlest Caffeine Ritual"
+  description: "White tea's subtle sweetness and low bitterness make it the ideal first-cup tea — lighter than green, cleaner than black, more complex than herbal."
+  image: /og/best-white-tea-2026-en.png
+  board: food-en
+
+- slug: best-white-tea-2026
+  locale: ja
+  variant: comparison
+  title: "白茶おすすめ2026：銀針から手頃なブレンドまで比較"
+  description: "Rishi 銀針 vs Vahdam ダージリン vs Harney & Sons 白牡丹——芽のみvsリーフブレンド・淹れ温度・プレミアムが正当化される場所を比較。"
+  image: /og/best-white-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-white-tea-2026
+  locale: ja
+  variant: top1
+  title: "銀針白茶最高評価：芽のみのプレミアムピック"
+  description: "Rishiの福建省産白毫銀針はクリーンなメロン・ハネデューの甘さとフローラルな上部の香りを届けます——これが白茶の本来の味。"
+  image: /og/best-white-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-white-tea-2026
+  locale: ja
+  variant: problem
+  title: "白茶が平凡な理由（淹れ方が間違っている）"
+  description: "沸騰したお湯は白茶のデリケートな風味を破壊します。75℃が正しい温度——淹れ方を修正する方法とその差が劇的な理由。"
+  image: /og/best-white-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-white-tea-2026
+  locale: ja
+  variant: budget
+  title: "1500円以下で買える毎日の白茶最高評価：白牡丹の正解"
+  description: "Harney & Sonsの白牡丹は毎日飲める価格で正直な品質を提供——軽く・甘く・プレミアム銀針の面倒なし。"
+  image: /og/best-white-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-white-tea-2026
+  locale: ja
+  variant: avoid
+  title: "白茶購入ミス：プレミアム品質を台無しにするもの"
+  description: "フラットティーバッグは白茶のデリケートな芽を押しつぶします。長期間放置する大量購入。沸騰したお湯。白茶購入で避けるべきこと。"
+  image: /og/best-white-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-white-tea-2026
+  locale: ja
+  variant: scene
+  title: "朝の白茶：最も穏やかなカフェインの習慣"
+  description: "白茶の繊細な甘さと低い苦みが最初の一杯として理想的——緑茶より軽く・紅茶よりクリーン・ハーブティーより複雑。"
+  image: /og/best-white-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-lacrosse-stick-2026
+  locale: en
+  variant: comparison
+  title: "Best Lacrosse Stick 2026: Complete Sticks vs Component Setups"
+  description: "STX Stallion U vs Epoch Hawk iQ9 vs Warrior Evo — attack, midfield, and women's positions tested for pocket control, shaft weight, and durability."
+  image: /og/best-lacrosse-stick-2026-en.png
+  board: fitness-en
+
+- slug: best-lacrosse-stick-2026
+  locale: en
+  variant: top1
+  title: "Best Attack Lacrosse Stick: Epoch Hawk iQ9 Review"
+  description: "Narrow iQ9 head, aggressive offset, Dragonfly composite shaft — elite attack equipment for players who'll actually feel the performance difference."
+  image: /og/best-lacrosse-stick-2026-en.png
+  board: fitness-en
+
+- slug: best-lacrosse-stick-2026
+  locale: en
+  variant: problem
+  title: "Why Your Lacrosse Shots Keep Going Wide (It's Your Head)"
+  description: "Wrong head design for your position kills accuracy. Attack, midfield, and defense heads are different for a reason — here's what to use."
+  image: /og/best-lacrosse-stick-2026-en.png
+  board: fitness-en
+
+- slug: best-lacrosse-stick-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Lacrosse Stick for High School: Value Picks"
+  description: "Warrior Evo delivers reliable mid-range performance for recreational and high school lacrosse — better than toy quality without the elite price tag."
+  image: /og/best-lacrosse-stick-2026-en.png
+  board: fitness-en
+
+- slug: best-lacrosse-stick-2026
+  locale: en
+  variant: avoid
+  title: "Lacrosse Stick Mistakes: Wrong Position, Wrong Material"
+  description: "Using men's gear for women's lacrosse is illegal and wrong for the game. Using attack heads for midfield hurts your ground ball game. What to avoid."
+  image: /og/best-lacrosse-stick-2026-en.png
+  board: fitness-en
+
+- slug: best-lacrosse-stick-2026
+  locale: en
+  variant: scene
+  title: "Upgrading from Aluminum to Composite Lacrosse Shaft: What Changes"
+  description: "The single biggest equipment upgrade most players can make is swapping aluminum for composite shaft. The weight difference is immediately felt in stick work."
+  image: /og/best-lacrosse-stick-2026-en.png
+  board: fitness-en
+
+- slug: best-lacrosse-stick-2026
+  locale: ja
+  variant: comparison
+  title: "ラクロスステッキおすすめ2026：コンプリートvsコンポーネント比較"
+  description: "STX Stallion U vs Epoch Hawk iQ9 vs Warrior Evo——アタック・ミッドフィールド・女性用ポジションをポケットコントロール・シャフト重量・耐久性で検証。"
+  image: /og/best-lacrosse-stick-2026-ja.png
+  board: fitness-ja
+
+- slug: best-lacrosse-stick-2026
+  locale: ja
+  variant: top1
+  title: "アタックラクロスステッキ最高評価：Epoch Hawk iQ9レビュー"
+  description: "ナローiQ9ヘッド・アグレッシブオフセット・Dragonflyコンポジットシャフト——パフォーマンスの差を実際に感じる選手向けエリートアタック用具。"
+  image: /og/best-lacrosse-stick-2026-ja.png
+  board: fitness-ja
+
+- slug: best-lacrosse-stick-2026
+  locale: ja
+  variant: problem
+  title: "ラクロスシュートが外れ続ける理由（ヘッドが問題）"
+  description: "ポジションに対して間違ったヘッドデザインが精度を殺します。アタック・ミッドフィールド・ディフェンスヘッドには理由がある——何を使うべきか。"
+  image: /og/best-lacrosse-stick-2026-ja.png
+  board: fitness-ja
+
+- slug: best-lacrosse-stick-2026
+  locale: ja
+  variant: budget
+  title: "高校生向けコスパ最高ラクロスステッキ：バリュー選択"
+  description: "Warrior Evoはレクリエーション・高校ラクロス向けに信頼性の高い中価格帯パフォーマンスを提供——おもちゃ品質以上、エリート価格以下。"
+  image: /og/best-lacrosse-stick-2026-ja.png
+  board: fitness-ja
+
+- slug: best-lacrosse-stick-2026
+  locale: ja
+  variant: avoid
+  title: "ラクロスステッキの失敗：ポジション違い・素材違い"
+  description: "女性用ラクロスに男性用用具を使うのは違反かつ間違い。ミッドフィールドにアタックヘッドを使うとグラウンドボールが悪化。避けるべきこと。"
+  image: /og/best-lacrosse-stick-2026-ja.png
+  board: fitness-ja
+
+- slug: best-lacrosse-stick-2026
+  locale: ja
+  variant: scene
+  title: "アルミからコンポジットシャフトへのアップグレード：何が変わるか"
+  description: "ほとんどの選手ができる最大の用具改善はアルミをコンポジットシャフトに交換すること。重量差はスティックワークで即座に感じられます。"
+  image: /og/best-lacrosse-stick-2026-ja.png
   board: fitness-ja
