@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 230 articles x 6 variants x 2 locales (en, ja) = 2760 pins (growing)
+# 232 articles x 6 variants x 2 locales (en, ja) = 2784 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -29733,4 +29733,198 @@ pins:
   title: "壁も柱もない——それでもスピードバッグを使う方法"
   description: "Century Wavemaster自立型プラットフォームが設置問題を解決。ベースに水を入れて高さを設定するだけ。穴あけ・柱探し不要。"
   image: /og/best-speed-bag-2026-ja.png
+  board: fitness-ja
+
+# ── batch #236: best-oolong-tea-2026 ──────────────────────────────────────
+- slug: best-oolong-tea-2026
+  locale: en
+  variant: comparison
+  title: "Best Oolong Tea 2026: Taiwan High Mountain vs Wuyi Rock Oolong"
+  description: "Ali Shan vs Da Hong Pao vs Dong Ding vs Li Shan vs Tie Guan Yin — 5 oolongs tested. Light floral to heavy roast: which one is right for your palate?"
+  image: /og/best-oolong-tea-2026-en.png
+  board: food-en
+
+- slug: best-oolong-tea-2026
+  locale: en
+  variant: top1
+  title: "The Best Oolong Tea for Beginners in 2026"
+  description: "Ali Shan High Mountain wins for first-time oolong drinkers. Floral, creamy, naturally sweet — the accessible gateway to high mountain Taiwan oolongs."
+  image: /og/best-oolong-tea-2026-en.png
+  board: food-en
+
+- slug: best-oolong-tea-2026
+  locale: en
+  variant: problem
+  title: "Why Your Oolong Tastes Bitter (Temperature Is the Problem)"
+  description: "Boiling water ruins light oolongs. 85-90°C is right for Taiwan jade varieties. We explain the temperature guide that changes everything about brewing oolong."
+  image: /og/best-oolong-tea-2026-en.png
+  board: food-en
+
+- slug: best-oolong-tea-2026
+  locale: en
+  variant: budget
+  title: "Tie Guan Yin: The Classic Chinese Oolong at an Accessible Price"
+  description: "One of China's ten famous teas, orchid-floral, lightly oxidized, available at everyday prices. Tie Guan Yin Anxi is the perfect entry into Chinese oolong."
+  image: /og/best-oolong-tea-2026-en.png
+  board: food-en
+
+- slug: best-oolong-tea-2026
+  locale: en
+  variant: avoid
+  title: "The Most Common Oolong Tea Mistakes (and How to Fix Them)"
+  description: "Brewing all oolongs the same way. Using boiling water on light oolongs. Only steeping once. We break down the mistakes that ruin good oolong."
+  image: /og/best-oolong-tea-2026-en.png
+  board: food-en
+
+- slug: best-oolong-tea-2026
+  locale: en
+  variant: scene
+  title: "What Makes Wuyi Rock Oolong (Da Hong Pao) Different from Everything Else"
+  description: "Dark caramel, stone fruit, mineral notes from ancient bushes in Fujian. Da Hong Pao has nothing in common with Taiwan oolongs — it's a completely different experience."
+  image: /og/best-oolong-tea-2026-en.png
+  board: food-en
+
+- slug: best-oolong-tea-2026
+  locale: ja
+  variant: comparison
+  title: "烏龍茶おすすめ2026：台湾高山烏龍vs武夷岩茶を比較"
+  description: "阿里山・大紅袍・凍頂・梨山・鉄観音——5種の烏龍茶を検証。軽い花香から重焙煎まで——あなたの好みに合うものは？"
+  image: /og/best-oolong-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-oolong-tea-2026
+  locale: ja
+  variant: top1
+  title: "2026年烏龍茶初心者に最適なのは阿里山高山烏龍だった"
+  description: "花香・クリーミー・自然な甘み——台湾高山烏龍の世界への最もアクセスしやすい入口。初めての烏龍茶に最適な理由を解説。"
+  image: /og/best-oolong-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-oolong-tea-2026
+  locale: ja
+  variant: problem
+  title: "烏龍茶が苦くなる原因はお湯の温度にある"
+  description: "沸騰したお湯が軽い烏龍を台無しにします。台湾翠玉系には85〜90℃が正解。烏龍を美味しくする温度ガイドを解説します。"
+  image: /og/best-oolong-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-oolong-tea-2026
+  locale: ja
+  variant: budget
+  title: "鉄観音——中国の名茶が手頃な価格で楽しめる"
+  description: "中国十大名茶の一つ、蘭の花香、軽酸化、日常的な価格で入手可能。安渓鉄観音が中国烏龍の世界への最適な入門点。"
+  image: /og/best-oolong-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-oolong-tea-2026
+  locale: ja
+  variant: avoid
+  title: "烏龍茶でよくある失敗と解決策"
+  description: "すべての烏龍茶を同じようにいれる。軽い烏龍に沸騰したお湯を使う。1回しか浸出しない——良い烏龍を台無しにする失敗を解説。"
+  image: /og/best-oolong-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-oolong-tea-2026
+  locale: ja
+  variant: scene
+  title: "武夷岩茶（大紅袍）が他の何とも違う理由"
+  description: "福建省の古樹から生まれるダークキャラメル・石果・ミネラルのノート。大紅袍は台湾烏龍と全く共通点がない——完全に異なる体験です。"
+  image: /og/best-oolong-tea-2026-ja.png
+  board: food-ja
+
+# ── batch #237: best-climbing-shoes-2026 ──────────────────────────────────
+- slug: best-climbing-shoes-2026
+  locale: en
+  variant: comparison
+  title: "Best Climbing Shoes 2026: Beginner to Advanced Rock Climbing Footwear"
+  description: "La Sportiva Tarantula vs Scarpa Instinct VS vs Solution vs Black Diamond Momentum vs Five Ten Hiangle — 5 climbing shoes tested. Which one is right for your level?"
+  image: /og/best-climbing-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-climbing-shoes-2026
+  locale: en
+  variant: top1
+  title: "The Best Beginner Climbing Shoe in 2026"
+  description: "La Sportiva Tarantula wins. Comfortable for extended sessions, reliable rubber, adjustable closure. The most universally recommended beginner shoe for a reason."
+  image: /og/best-climbing-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-climbing-shoes-2026
+  locale: en
+  variant: problem
+  title: "Why Aggressive Climbing Shoes Hurt Beginners' Progress"
+  description: "Uncomfortable shoes destroy footwork technique — you can't feel subtle placements when your toes are screaming. We explain what beginners should actually wear."
+  image: /og/best-climbing-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-climbing-shoes-2026
+  locale: en
+  variant: budget
+  title: "Best Gym Climbing Shoe: Black Diamond Momentum Review"
+  description: "Breathable synthetic, better-than-budget rubber, available in half sizes. Black Diamond Momentum outperforms its price for indoor gym climbers. Our full review."
+  image: /og/best-climbing-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-climbing-shoes-2026
+  locale: en
+  variant: avoid
+  title: "Climbing Shoe Sizing Mistakes That Hurt Your Feet and Your Climbing"
+  description: "Sizing down too aggressively. Wrong last shape for your foot. Using the same shoe for bouldering and multipitch. We cover the expensive mistakes to avoid."
+  image: /og/best-climbing-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-climbing-shoes-2026
+  locale: en
+  variant: scene
+  title: "Slab Climbing Needs Different Shoes: Why Five Ten Stealth Rubber Wins"
+  description: "On featureless granite, rubber friction is everything. Five Ten Stealth C4 outperforms almost all competitors on slab terrain. We explain the trade-off."
+  image: /og/best-climbing-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-climbing-shoes-2026
+  locale: ja
+  variant: comparison
+  title: "クライミングシューズおすすめ2026：初心者から上級者まで徹底比較"
+  description: "タランチュラ・Instinct VS・Solution・Momentum・Hiangle——5種のクライミングシューズを検証。あなたのレベルと地形に合うものは？"
+  image: /og/best-climbing-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-climbing-shoes-2026
+  locale: ja
+  variant: top1
+  title: "2026年初心者クライミングシューズはラ・スポルティバ タランチュラが最強"
+  description: "長時間セッションに快適、安定したゴム、調整可能なクロージャー。最も幅広く推薦される初心者シューズの理由を解説します。"
+  image: /og/best-climbing-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-climbing-shoes-2026
+  locale: ja
+  variant: problem
+  title: "攻撃的クライミングシューズが初心者の上達を妨げる理由"
+  description: "不快なシューズがフットワーク技術を破壊します——爪先が叫んでいるとき繊細なフット置きを感じられません。初心者が本当に履くべきものを解説。"
+  image: /og/best-climbing-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-climbing-shoes-2026
+  locale: ja
+  variant: budget
+  title: "ジム最強クライミングシューズ：Black Diamond Momentumを徹底レビュー"
+  description: "通気合成素材、価格以上のゴム、ハーフサイズ展開。Black Diamond Momentumはインドアジムクライマーに価格以上のパフォーマンスを発揮します。"
+  image: /og/best-climbing-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-climbing-shoes-2026
+  locale: ja
+  variant: avoid
+  title: "クライミングシューズ選びの高額な失敗5選"
+  description: "過剰なサイズダウン。足型に合わないラスト。ボルダリングとマルチピッチに同じシューズを使う——避けるべきミスを解説。"
+  image: /og/best-climbing-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-climbing-shoes-2026
+  locale: ja
+  variant: scene
+  title: "スラブクライミングに必要なシューズが違う理由：Five Ten Stealthゴムの優位性"
+  description: "フィーチャーのない花崗岩ではゴムの摩擦力がすべて。Five Ten Stealth C4がスラブ地形でほぼすべての競合を超える理由とトレードオフを解説。"
+  image: /og/best-climbing-shoes-2026-ja.png
   board: fitness-ja
