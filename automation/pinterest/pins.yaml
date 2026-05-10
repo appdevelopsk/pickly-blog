@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 214 articles x 6 variants x 2 locales (en, ja) = 2568 pins (growing)
+# 216 articles x 6 variants x 2 locales (en, ja) = 2592 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -28312,3 +28312,171 @@ pins:
   title: "ヒップスラストの臀筋スクイーズ：完全伸展で1〜2秒一時停止"
   description: "かかとから駆動し、テーブルトップポジションに到達し、下ろす前に1〜2秒間強く臀筋をスクイーズします。ピーク収縮での一時停止が多くの臀筋刺激が起こる場所。"
   image_path: public/og/best-hip-thrust-machine-2026-ja.png
+
+- slug: best-mushroom-coffee-2026
+  locale: en
+  variant: comparison
+  title: "Four Sigmatic vs Ryze vs Om Mushroom Coffee 2026: Lion's Mane Dose Compared"
+  description: "Four Sigmatic Think Coffee has 250mg lion's mane per serving. Ryze has 500mg mixed blend. Om Master Blend has 2,000mg per serving. The dose gap is real — here's what the research says about effective lion's mane dosing."
+  image_path: public/og/best-mushroom-coffee-2026-en.png
+
+- slug: best-mushroom-coffee-2026
+  locale: en
+  variant: top1
+  title: "Best Mushroom Coffee 2026: Four Sigmatic Think Coffee (Dose Transparency Winner)"
+  description: "Four Sigmatic Think Coffee wins for dose transparency — 250mg lion's mane clearly labeled, Chaga and L-theanine declared, single-origin Honduran arabica base. Not the highest dose, but the most honest about what's in it."
+  image_path: public/og/best-mushroom-coffee-2026-en.png
+
+- slug: best-mushroom-coffee-2026
+  locale: en
+  variant: problem
+  title: "Most Mushroom Coffee Uses 'Proprietary Blend' — You Can't Verify the Dose"
+  description: "Proprietary blend labeling means companies list mushroom ingredients without individual amounts. You can't verify if the dose is effective (750mg+ lion's mane) or a trace amount for marketing. Here's how to check what you're actually buying."
+  image_path: public/og/best-mushroom-coffee-2026-en.png
+
+- slug: best-mushroom-coffee-2026
+  locale: en
+  variant: budget
+  title: "Budget Mushroom Coffee Option: Om Mushroom Master Blend Powder (Add to Any Coffee)"
+  description: "Om Mushroom Master Blend powder: 2,000mg per serving, 10-mushroom blend, unflavored — add to your existing coffee. Lower cost per serving than pre-mixed mushroom coffees and a higher dose. Dissolves in hot liquid without clumping."
+  image_path: public/og/best-mushroom-coffee-2026-en.png
+
+- slug: best-mushroom-coffee-2026
+  locale: en
+  variant: avoid
+  title: "Avoid Mushroom Coffee With Mycelium-Only (Not Fruiting Body) — Lower Bioactive Content"
+  description: "Mycelium grown on grain substrate contains significant starch filler and lower beta-glucan content than fruiting body extract. Check labels for 'fruiting body extract' — that's where the active compounds are concentrated."
+  image_path: public/og/best-mushroom-coffee-2026-en.png
+
+- slug: best-mushroom-coffee-2026
+  locale: en
+  variant: scene
+  title: "Morning Focus Stack: Mushroom Coffee + 10 Minutes No-Screen Time = Calm Clarity"
+  description: "Lion's mane + L-theanine (present in Four Sigmatic Think) + a phone-free first 10 minutes produces noticeably different morning focus than coffee alone. The mushroom coffee ritual makes the habit stick."
+  image_path: public/og/best-mushroom-coffee-2026-en.png
+
+- slug: best-mushroom-coffee-2026
+  locale: ja
+  variant: comparison
+  title: "Four Sigmatic vs Ryze vsオムキノココーヒー2026：ライオンズメーン用量比較"
+  description: "Four Sigmatic Think Coffeeは1杯あたりライオンズメーン250mg。Ryzeは混合ブレンド500mg。Om Master Blendは1杯あたり2,000mg。用量の差は本物 — 有効なライオンズメーン用量について研究が示すこと。"
+  image_path: public/og/best-mushroom-coffee-2026-ja.png
+
+- slug: best-mushroom-coffee-2026
+  locale: ja
+  variant: top1
+  title: "2026年最高キノココーヒー：Four Sigmatic Think Coffee（用量透明性1位）"
+  description: "Four Sigmatic Think Coffeeは用量透明性で1位 — ライオンズメーン250mgを明確に表示、チャーガとL-テアニンも申告、ホンジュラス産シングルオリジンアラビカベース。最高用量ではないが、内容物について最も誠実。"
+  image_path: public/og/best-mushroom-coffee-2026-ja.png
+
+- slug: best-mushroom-coffee-2026
+  locale: ja
+  variant: problem
+  title: "ほとんどのキノココーヒーは「独自ブレンド」を使用 — 用量を確認できない"
+  description: "独自ブレンド表示は各成分量を表示せずに原材料を列記することを意味します。有効用量（ライオンズメーン750mg以上）かマーケティング用微量かを確認できません。実際に何を買っているかを確認する方法。"
+  image_path: public/og/best-mushroom-coffee-2026-ja.png
+
+- slug: best-mushroom-coffee-2026
+  locale: ja
+  variant: budget
+  title: "コスパ最高キノココーヒー：Omキノコマスターブレンドパウダー（既存コーヒーに追加）"
+  description: "Omキノコマスターブレンドパウダー：1杯あたり2,000mg、10種のキノコブレンド、無味 — 既存コーヒーに追加。市販のキノココーヒーより1杯あたりコストが低く、用量も高い。熱い液体に溶けてダマにならない。"
+  image_path: public/og/best-mushroom-coffee-2026-ja.png
+
+- slug: best-mushroom-coffee-2026
+  locale: ja
+  variant: avoid
+  title: "菌糸体のみ（子実体なし）のキノココーヒーは避けて — 生理活性成分が少ない"
+  description: "穀物基質で育てた菌糸体は大量のデンプンフィラーを含み、子実体エキスよりベータグルカン含量が低い。ラベルで「子実体エキス」を確認 — そこに活性化合物が濃縮されています。"
+  image_path: public/og/best-mushroom-coffee-2026-ja.png
+
+- slug: best-mushroom-coffee-2026
+  locale: ja
+  variant: scene
+  title: "朝の集中スタック：キノココーヒー＋10分間スクリーンなし＝穏やかな明晰さ"
+  description: "ライオンズメーン＋L-テアニン（Four Sigmatic Thinkに含有）＋スマホなしの最初の10分間は、コーヒーだけより明らかに異なる朝の集中力を生み出します。キノココーヒーの儀式が習慣を定着させます。"
+  image_path: public/og/best-mushroom-coffee-2026-ja.png
+
+- slug: best-stair-stepper-2026
+  locale: en
+  variant: comparison
+  title: "StairMaster Gauntlet vs Bowflex Max Trainer M9 vs Sunny Health Mini Stepper 2026"
+  description: "StairMaster Gauntlet: rotating stairs, 8-inch steps, $4,500-6,000, commercial grade. Bowflex Max Trainer M9: pedal step climber + moving arms, $2,200-2,800, home gym. Sunny Health mini stepper: $30-60, light activity only. Stepmill vs step climber mechanics explained."
+  image_path: public/og/best-stair-stepper-2026-en.png
+
+- slug: best-stair-stepper-2026
+  locale: en
+  variant: top1
+  title: "Best Home Stair Stepper 2026: Bowflex Max Trainer M9 (Best Space-Efficient Cardio)"
+  description: "Bowflex Max Trainer M9 wins for home use — step climbing + moving handles for upper body engagement, 20 resistance levels, JRNY app, compact footprint. More calorie burn than lower-body-only stepper. $2,200-2,800 new."
+  image_path: public/og/best-stair-stepper-2026-en.png
+
+- slug: best-stair-stepper-2026
+  locale: en
+  variant: problem
+  title: "Mini Stair Steppers ($30-60) Won't Replace a Real Cardio Machine — Here's Why"
+  description: "Mini stair steppers have 4-6 inch step range and limited resistance. The step is too shallow for meaningful glute engagement and calorie output is a fraction of a full-size machine. They're appropriate for light movement, not serious conditioning."
+  image_path: public/og/best-stair-stepper-2026-en.png
+
+- slug: best-stair-stepper-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Real Stair Stepper: Refurbished StairMaster 8-Series ($1,500-2,500)"
+  description: "Refurbished StairMaster 8-series stepmill gives genuine rotating-stair mechanics at half the Gauntlet price. Check motor hours (under 5,000 preferred), verify console function. Commercial build quality lasts 10-15 years in home use."
+  image_path: public/og/best-stair-stepper-2026-en.png
+
+- slug: best-stair-stepper-2026
+  locale: en
+  variant: avoid
+  title: "Don't Lean on the StairMaster Handrails — It Defeats the Whole Workout"
+  description: "Leaning on StairMaster handrails transfers bodyweight off the legs, reduces calorie burn by 30-40%, and eliminates core engagement. Lightly touch for balance only. If you need to lean to maintain speed, slow down — the workout is in the resistance."
+  image_path: public/og/best-stair-stepper-2026-en.png
+
+- slug: best-stair-stepper-2026
+  locale: en
+  variant: scene
+  title: "20 Minutes on the StairMaster at Level 8: What 400-500 Calories of Non-Impact Work Feels Like"
+  description: "Level 8-10 on a StairMaster stepmill produces approximately 400-500 calories per hour for a 150lb person. Non-impact (feet never leave pedals), high glute engagement, sustainable for longer than running. The gym machine with the best output-to-joint-stress ratio."
+  image_path: public/og/best-stair-stepper-2026-en.png
+
+- slug: best-stair-stepper-2026
+  locale: ja
+  variant: comparison
+  title: "StairMasterガントレット vs BowflexマックストレーナーM9 vs サニーヘルスミニステッパー2026"
+  description: "StairMasterガントレット：回転階段、8インチステップ、$4,500-6,000、商業グレード。Bowflexマックストレーナーm9：ペダルステップクライマー＋動くアーム、$2,200-2,800、ホームジム。サニーヘルスミニステッパー：$30-60、軽い活動のみ。ステップミルとステップクライマーの機械的な違いを解説。"
+  image_path: public/og/best-stair-stepper-2026-ja.png
+
+- slug: best-stair-stepper-2026
+  locale: ja
+  variant: top1
+  title: "2026年最高ホームステアステッパー：Bowflexマックストレーナーm9（スペース効率最高）"
+  description: "Bowflexマックストレーナーm9はホーム使用で1位 — ステップクライミング＋上半身に関わる動くハンドル、20段階抵抗、JRNYアプリ、コンパクトフットプリント。下半身のみのステッパーよりカロリー消費量が多い。新品$2,200-2,800。"
+  image_path: public/og/best-stair-stepper-2026-ja.png
+
+- slug: best-stair-stepper-2026
+  locale: ja
+  variant: problem
+  title: "ミニステアステッパー（$30-60）は本格的な有酸素マシンの代わりにならない — その理由"
+  description: "ミニステアステッパーは4〜6インチのステップ範囲と限られた抵抗しかありません。ステップが浅すぎてお尻の筋肉に効果がなく、カロリー消費量はフルサイズマシンの何分の一。軽い動きには適していますが、本格的なトレーニングには向きません。"
+  image_path: public/og/best-stair-stepper-2026-ja.png
+
+- slug: best-stair-stepper-2026
+  locale: ja
+  variant: budget
+  title: "コスパ最高本格ステアステッパー：中古StairMaster 8シリーズ（$1,500-2,500）"
+  description: "中古StairMaster 8シリーズは、ガントレットの半額でリアルな回転階段メカニクスを提供。モーター時間確認（5,000時間以内推奨）、コンソール動作確認。商業グレードの品質でホームユーズ10〜15年持続。"
+  image_path: public/og/best-stair-stepper-2026-ja.png
+
+- slug: best-stair-stepper-2026
+  locale: ja
+  variant: avoid
+  title: "StairMasterのハンドレールに寄りかからないで — ワークアウト全体を無駄にします"
+  description: "StairMasterのハンドレールに寄りかかると脚から体重が移り、カロリー消費が30〜40%減少し、コアの関与がなくなります。バランスのためだけに軽く触れてください。速度を維持するために寄りかかる必要があれば、速度を落としてください — 負荷の中にこそワークアウトがあります。"
+  image_path: public/og/best-stair-stepper-2026-ja.png
+
+- slug: best-stair-stepper-2026
+  locale: ja
+  variant: scene
+  title: "StairMasterレベル8で20分：非衝撃400〜500カロリーのワークアウトの感覚"
+  description: "StairMasterのレベル8〜10では、150ポンドの人が1時間あたり約400〜500カロリーを消費します。非衝撃（足がペダルから離れない）、高い臀筋への関与、ランニングより長く持続可能。カロリー対関節ストレス比が最高のジムマシン。"
+  image_path: public/og/best-stair-stepper-2026-ja.png
