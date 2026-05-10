@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 182 articles x 6 variants x 2 locales (en, ja) = 2184 pins (growing)
+# 184 articles x 6 variants x 2 locales (en, ja) = 2208 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -24634,3 +24634,267 @@ pins:
   link: "/ja/best-agility-ladder-2026"
   image_alt: "アジリティラダー 高齢者 転倒予防 神経筋コーディネーション"
   hashtags: ["転倒予防", "アジリティラダー", "シニアフィットネス", "バランストレーニング", "アクティブエイジング"]
+
+- id: "best-cutting-board-2026-comparison-en"
+  article_slug: "best-cutting-board-2026"
+  variant: "comparison"
+  locale: "en"
+  board: "food"
+  title: "Boos Maple vs Teakhaus vs OXO Plastic vs Epicurean vs John Boos Walnut: Cutting Board Compared"
+  description: "Five cutting boards across four materials: hard maple (Boos Block), teak (Teakhaus), HDPE plastic (OXO), paper composite (Epicurean), and walnut end-grain (John Boos). Which material is actually best for your knife edges, bacteria safety, and maintenance tolerance."
+  link: "/en/best-cutting-board-2026"
+  image_alt: "cutting board comparison 2026 Boos maple teak OXO plastic Epicurean walnut"
+  hashtags: ["CuttingBoard", "KitchenEssentials", "KnifeKitchen", "BoosBlock", "FoodSafety"]
+
+- id: "best-cutting-board-2026-top1-en"
+  article_slug: "best-cutting-board-2026"
+  variant: "top1"
+  locale: "en"
+  board: "food"
+  title: "The Best Overall Cutting Board: Boos Block Hard Maple"
+  description: "The Boos Block maple is the North American professional kitchen standard for a reason: hard maple (Janka 1450) is hard enough to resist cutting damage, soft enough to preserve knife edges, and the tight grain closes after cuts — which is why bacteria can't survive on established wood boards the way they do on scratched plastic."
+  link: "/en/best-cutting-board-2026"
+  image_alt: "Boos Block hard maple cutting board best overall professional kitchen"
+  hashtags: ["BoosBlock", "CuttingBoard", "KitchenTools", "ChefKnife", "MapleCuttingBoard"]
+
+- id: "best-cutting-board-2026-problem-en"
+  article_slug: "best-cutting-board-2026"
+  variant: "problem"
+  locale: "en"
+  board: "food"
+  title: "The Plastic Cutting Board Bacteria Myth (What Studies Actually Found)"
+  description: "UC Davis research: bacteria on a new smooth plastic board are harder to establish than on wood. Bacteria on a used, scratched plastic board survive washing and are recoverable. Bacteria introduced to an established wood board are not recoverable after washing — absorbed into the grain and unable to multiply. New plastic is fine; scratched plastic is a bacterial reservoir."
+  link: "/en/best-cutting-board-2026"
+  image_alt: "cutting board bacteria myth plastic vs wood research UC Davis"
+  hashtags: ["FoodSafety", "CuttingBoard", "KitchenScience", "FoodStorage", "CookingTips"]
+
+- id: "best-cutting-board-2026-budget-en"
+  article_slug: "best-cutting-board-2026"
+  variant: "budget"
+  locale: "en"
+  board: "food"
+  title: "Best Budget Cutting Board Under $50: OXO Plastic or Epicurean Composite?"
+  description: "Two ways to get a great cutting board under $50: OXO HDPE plastic ($30-50, dishwasher-safe for protein) or Epicurean composite ($30-60, wood aesthetics without oil maintenance). For raw meat: OXO. For produce and daily use: Epicurean. The ideal kitchen has both."
+  link: "/en/best-cutting-board-2026"
+  image_alt: "budget cutting board OXO plastic Epicurean composite under 50 dollars"
+  hashtags: ["BudgetKitchen", "CuttingBoard", "OXO", "Epicurean", "KitchenTools"]
+
+- id: "best-cutting-board-2026-avoid-en"
+  article_slug: "best-cutting-board-2026"
+  variant: "avoid"
+  locale: "en"
+  board: "food"
+  title: "The Worst Cutting Board Surface for Your Knives: Glass and Ceramic"
+  description: "Glass and ceramic cutting boards dull knife edges at 10-20× the rate of wood — every stroke across glass causes micro-abrasion that removes steel from the edge. They look clean, but they destroy knives. The correct hierarchy: end-grain wood (gentlest) → edge-grain wood → HDPE plastic → composite → polypropylene. Glass and ceramic are never correct."
+  link: "/en/best-cutting-board-2026"
+  image_alt: "worst cutting board glass ceramic knife damage avoid"
+  hashtags: ["KnifeKitchen", "CuttingBoard", "KitchenMistakes", "KnifeCare", "CookingTips"]
+
+- id: "best-cutting-board-2026-scene-en"
+  article_slug: "best-cutting-board-2026"
+  variant: "scene"
+  locale: "en"
+  board: "food"
+  title: "The Two-Board System: How Restaurant Kitchens Prevent Cross-Contamination"
+  description: "Professional kitchens use dedicated boards by food type: plastic (HDPE, dishwasher-safe) for raw protein — chicken, fish, raw beef. Wood for produce, bread, cheese, everything else. The plastic board goes in the dishwasher after every protein use. The wood board never touches raw protein. This is the food safety standard that eliminates cross-contamination risk."
+  link: "/en/best-cutting-board-2026"
+  image_alt: "two board system restaurant kitchen cross contamination prevention"
+  hashtags: ["FoodSafety", "CrossContamination", "CuttingBoard", "KitchenSetup", "CookingTips"]
+
+- id: "best-cutting-board-2026-comparison-ja"
+  article_slug: "best-cutting-board-2026"
+  variant: "comparison"
+  locale: "ja"
+  board: "food"
+  title: "Boosメープル vs Teakhaus vs OXOプラスチック vs Epicurean vs John Boosウォルナット：まな板比較"
+  description: "4種類の素材にわたる5製品：ハードメープル（Boos Block）・チーク（Teakhaus）・HDPEプラスチック（OXO）・ペーパーコンポジット（Epicurean）・ウォルナットエンドグレイン（John Boos）。包丁の刃・細菌安全性・メンテナンス許容度に実際に最適な素材はどれか。"
+  link: "/ja/best-cutting-board-2026"
+  image_alt: "まな板比較2026 Boosメープル チーク OXOプラスチック Epicurean ウォルナット"
+  hashtags: ["まな板", "キッチン必需品", "包丁", "BoosBlock", "食品安全"]
+
+- id: "best-cutting-board-2026-top1-ja"
+  article_slug: "best-cutting-board-2026"
+  variant: "top1"
+  locale: "ja"
+  board: "food"
+  title: "最高の総合まな板：Boos Block ハードメープル",
+  description: "Boos Blockメープルが北米プロキッチンの標準である理由：ハードメープル（ジャンカ1450）は切断ダメージに耐えるほど硬く、包丁の刃を保護するほど柔らかく、密な木目が切断後に閉じる——これが使い込んだ木製まな板では細菌が傷の入ったプラスチックのように生き残れない理由です。"
+  link: "/ja/best-cutting-board-2026"
+  image_alt: "Boos Block ハードメープルまな板 最高 プロキッチン"
+  hashtags: ["BoosBlock", "まな板", "キッチン用品", "包丁", "メープルまな板"]
+
+- id: "best-cutting-board-2026-problem-ja"
+  article_slug: "best-cutting-board-2026"
+  variant: "problem"
+  locale: "ja"
+  board: "food"
+  title: "プラスチックまな板の細菌神話（研究が実際に発見したこと）"
+  description: "UCデービスの研究：新しい滑らかなプラスチックボードの細菌は木材より定着しにくい。使用済みの傷の入ったプラスチックボードの細菌は洗浄後も生き残り回収可能。使い込んだ木製まな板に導入された細菌は洗浄後に回収できない——木目に吸収されて増殖不能。新しいプラスチックは問題ない。傷のあるプラスチックが細菌の巣窟。"
+  link: "/ja/best-cutting-board-2026"
+  image_alt: "まな板 細菌神話 プラスチック vs 木材 研究 UCデービス"
+  hashtags: ["食品安全", "まな板", "キッチンサイエンス", "食品保存", "料理のコツ"]
+
+- id: "best-cutting-board-2026-budget-ja"
+  article_slug: "best-cutting-board-2026"
+  variant: "budget"
+  locale: "ja"
+  board: "food"
+  title: "5,000円以下のおすすめまな板：OXOプラスチック vs Epicurianコンポジット？"
+  description: "5千円以下で優れたまな板を手に入れる2つの方法：OXO HDPEプラスチック（3千〜5千円、タンパク質用に食洗機対応）またはEpicurianコンポジット（3千〜6千円、オイルメンテナンス不要の木材風外観）。生肉には：OXO。野菜と日常使用には：Epicurian。理想のキッチンには両方。"
+  link: "/ja/best-cutting-board-2026"
+  image_alt: "安いまな板 OXOプラスチック Epicureanコンポジット 5000円以下"
+  hashtags: ["コスパ最強", "まな板", "OXO", "Epicurean", "キッチン用品"]
+
+- id: "best-cutting-board-2026-avoid-ja"
+  article_slug: "best-cutting-board-2026"
+  variant: "avoid"
+  locale: "ja"
+  board: "food"
+  title: "包丁に最悪のまな板素材：ガラスとセラミック"
+  description: "ガラスとセラミックのまな板は木材の10〜20倍の速さで包丁の刃を鈍らせます——ガラスへの各ストロークが刃から鋼を削る微細摩耗を引き起こします。清潔に見えますが、包丁を破壊します。正しい優先順位：エンドグレイン木材（最も優しい）→エッジグレイン木材→HDPEプラスチック→コンポジット→ポリプロピレン。ガラスとセラミックは絶対に正しくない。"
+  link: "/ja/best-cutting-board-2026"
+  image_alt: "まな板 最悪 ガラス セラミック 包丁ダメージ 避けるべき"
+  hashtags: ["包丁", "まな板", "キッチンの失敗", "包丁のメンテナンス", "料理のコツ"]
+
+- id: "best-cutting-board-2026-scene-ja"
+  article_slug: "best-cutting-board-2026"
+  variant: "scene"
+  locale: "ja"
+  board: "food"
+  title: "2枚まな板システム：レストランキッチンが交差汚染を防ぐ方法"
+  description: "プロのキッチンは食品の種類ごとに専用のまな板を使います：生のタンパク質（鶏肉、魚、生牛肉）にはプラスチック（HDPE、食洗機対応）。野菜、パン、チーズ、他の全てには木製。プラスチックボードは每回のタンパク質使用後に食洗機へ。木製ボードは絶対に生タンパク質に触れない。これが交差汚染リスクを排除する食品安全の標準です。"
+  link: "/ja/best-cutting-board-2026"
+  image_alt: "2枚まな板システム レストランキッチン 交差汚染防止"
+  hashtags: ["食品安全", "交差汚染", "まな板", "キッチン設定", "料理のコツ"]
+
+- id: "best-stability-ball-2026-comparison-en"
+  article_slug: "best-stability-ball-2026"
+  variant: "comparison"
+  locale: "en"
+  board: "fitness"
+  title: "Trideer vs Gaiam vs Live Pro vs URBNFit vs BOSU NexGen: Stability Ball Compared"
+  description: "Five stability balls with different selling points: Trideer (2200 lb anti-burst value), Gaiam (workout guide kit), Live Pro (textured surface for gym floors), URBNFit (aesthetics), BOSU NexGen (standing balance hybrid). Which one is actually right for core training vs office chair replacement vs standing balance."
+  link: "/en/best-stability-ball-2026"
+  image_alt: "stability ball comparison 2026 Trideer Gaiam Live Pro URBNFit BOSU"
+  hashtags: ["StabilityBall", "ExerciseBall", "CoreTraining", "HomeGym", "BalanceTraining"]
+
+- id: "best-stability-ball-2026-top1-en"
+  article_slug: "best-stability-ball-2026"
+  variant: "top1"
+  locale: "en"
+  board: "fitness"
+  title: "Best Value Stability Ball: Trideer 2200lb Anti-Burst at $30"
+  description: "The Trideer hits the specifications that matter: 2000 μm wall thickness, 2200 lb anti-burst (far above what home users need), soft PVC surface (comfortable for seated use), and a dual-action pump that actually works. At $25-40, it's the correct starting stability ball for most people."
+  link: "/en/best-stability-ball-2026"
+  image_alt: "Trideer stability ball 2200lb anti-burst best value home use"
+  hashtags: ["StabilityBall", "Trideer", "HomeGym", "CoreStrength", "ExerciseBall"]
+
+- id: "best-stability-ball-2026-problem-en"
+  article_slug: "best-stability-ball-2026"
+  variant: "problem"
+  locale: "en"
+  board: "fitness"
+  title: "How to Choose the Right Stability Ball Size (Most People Get This Wrong)"
+  description: "The correct size positions your hips at 90° when seated. Sizing guide: under 5'0\" → 45 cm. 5'0\"–5'5\" → 55 cm. 5'6\"–6'0\" → 65 cm. 6'0\"–6'6\" → 75 cm. A ball that's too small creates a sharp hip angle that strains the hip flexors; too large and you don't get core engagement. Also: inflate firm enough that it compresses only 1-2 inches under your weight."
+  link: "/en/best-stability-ball-2026"
+  image_alt: "stability ball size guide how to choose 45 55 65 75 cm height"
+  hashtags: ["StabilityBall", "ExerciseBall", "CoreTraining", "FitnessTips", "HomeGym"]
+
+- id: "best-stability-ball-2026-budget-en"
+  article_slug: "best-stability-ball-2026"
+  variant: "budget"
+  locale: "en"
+  board: "fitness"
+  title: "Best Budget Stability Ball Under $40: Trideer vs URBNFit"
+  description: "Both Trideer ($25-40) and URBNFit ($30-45) are legitimate 2000+ lb anti-burst stability balls with pumps. Trideer has softer PVC and more consistent inflation. URBNFit has more color options for users where the ball is visible in a home office. Same functional performance — pick aesthetics or price."
+  link: "/en/best-stability-ball-2026"
+  image_alt: "budget stability ball Trideer URBNFit under 40 dollars comparison"
+  hashtags: ["BudgetFitness", "StabilityBall", "HomeGym", "ExerciseBall", "CoreTraining"]
+
+- id: "best-stability-ball-2026-avoid-en"
+  article_slug: "best-stability-ball-2026"
+  variant: "avoid"
+  locale: "en"
+  board: "fitness"
+  title: "Stability Ball Mistake: Replacing Your Chair Full-Time"
+  description: "Research on stability ball office seating: yes, it increases core muscle activation vs a standard chair. But people don't maintain better posture on a ball than on a chair — they slump just as much, less stably. The correct approach is 1-2 hours per day as a seated exercise intervention, not all-day seating. All-day stability ball sitting causes fatigue and back strain, not better posture."
+  link: "/en/best-stability-ball-2026"
+  image_alt: "stability ball office chair mistake full-time sitting research"
+  hashtags: ["StabilityBall", "OfficeFitness", "FitnessMistakes", "BackHealth", "CoreStrength"]
+
+- id: "best-stability-ball-2026-scene-en"
+  article_slug: "best-stability-ball-2026"
+  variant: "scene"
+  locale: "en"
+  board: "fitness"
+  title: "Lower Back Pain Rehab: Why Stability Ball Bridges Work"
+  description: "The stability ball bridge (upper back on ball, feet on floor, hips lifted) trains the posterior chain with reduced spinal compression versus floor-based hip bridges. The instability demands constant engagement from deep lumbar stabilizers — multifidus and transverse abdominis — that are typically weak in people with chronic lower back pain. Physical therapists use this exercise because the evidence base for it is the strongest in stability ball research."
+  link: "/en/best-stability-ball-2026"
+  image_alt: "stability ball bridge lower back pain rehab posterior chain"
+  hashtags: ["LowerBackPain", "StabilityBall", "BackRehab", "CoreStrength", "PhysicalTherapy"]
+
+- id: "best-stability-ball-2026-comparison-ja"
+  article_slug: "best-stability-ball-2026"
+  variant: "comparison"
+  locale: "ja"
+  board: "fitness"
+  title: "Trideer vs Gaiam vs Live Pro vs URBNFit vs BOSU NexGen：バランスボール比較"
+  description: "5製品それぞれの売り：Trideer（2200ポンド耐バーストのコスパ）・Gaiam（ワークアウトガイドキット）・Live Pro（ジムフロア用テクスチャー）・URBNFit（美学）・BOSU NexGen（立位バランスのハイブリッド）。コアトレーニング・オフィスチェア代替・立位バランスに実際に最適なのはどれ。"
+  link: "/ja/best-stability-ball-2026"
+  image_alt: "バランスボール比較2026 Trideer Gaiam Live Pro URBNFit BOSU"
+  hashtags: ["バランスボール", "エクササイズボール", "コアトレーニング", "ホームジム", "バランストレーニング"]
+
+- id: "best-stability-ball-2026-top1-ja"
+  article_slug: "best-stability-ball-2026"
+  variant: "top1"
+  locale: "ja"
+  board: "fitness"
+  title: "コスパ最高のバランスボール：Trideer 2200ポンド耐バースト 3,000円"
+  description: "Trideerは重要な仕様を満たしています：2000μm壁厚、2200ポンド耐バースト（家庭ユーザーのニーズを大幅に上回る）、座位使用に快適な柔らかいPVC表面、実際に機能する両方向ポンプ。2千5百〜4千円で、ほとんどの人に最適な最初のバランスボールです。"
+  link: "/ja/best-stability-ball-2026"
+  image_alt: "Trideer バランスボール 2200ポンド耐バースト コスパ最高 家庭使用"
+  hashtags: ["バランスボール", "Trideer", "ホームジム", "コアストレングス", "エクササイズボール"]
+
+- id: "best-stability-ball-2026-problem-ja"
+  article_slug: "best-stability-ball-2026"
+  variant: "problem"
+  locale: "ja"
+  board: "fitness"
+  title: "バランスボールの正しいサイズの選び方（ほとんどの人が間違える）"
+  description: "正しいサイズは座ったときに股関節が90°になるものです。サイズガイド：150cm以下→45cm。150〜165cm→55cm。165〜183cm→65cm。183〜198cm→75cm。小さすぎると股関節屈筋が緊張する急なヒップ角度になり、大きすぎるとコアエンゲージメントが得られない。また、体重で1〜2cmしか凹まないほど硬く膨らませること。"
+  link: "/ja/best-stability-ball-2026"
+  image_alt: "バランスボール サイズガイド 選び方 45 55 65 75cm 身長"
+  hashtags: ["バランスボール", "エクササイズボール", "コアトレーニング", "フィットネスのコツ", "ホームジム"]
+
+- id: "best-stability-ball-2026-budget-ja"
+  article_slug: "best-stability-ball-2026"
+  variant: "budget"
+  locale: "ja"
+  board: "fitness"
+  title: "4,000円以下のバランスボール：Trideer vs URBNFit"
+  description: "TrideerもURBNFitも正規の2000ポンド以上耐バーストのバランスボールでポンプ付き。Trideerはより柔らかいPVCと一貫した空気保持。URBNFitはボールがホームオフィスで目に見える場合に多くのカラーオプション。同じ機能パフォーマンス——美学か価格かで選ぶ。"
+  link: "/ja/best-stability-ball-2026"
+  image_alt: "安いバランスボール Trideer URBNFit 4000円以下 比較"
+  hashtags: ["コスパ最強", "バランスボール", "ホームジム", "エクササイズボール", "コアトレーニング"]
+
+- id: "best-stability-ball-2026-avoid-ja"
+  article_slug: "best-stability-ball-2026"
+  variant: "avoid"
+  locale: "ja"
+  board: "fitness"
+  title: "バランスボールの失敗：1日中椅子の代わりに使う"
+  description: "バランスボールのオフィス着席研究：はい、標準的な椅子と比較してコアの筋活性化は増加する。しかしバランスボールの方が椅子より姿勢が良くなるわけではない——同じように猫背になる、ただより不安定に。正しいアプローチは座位エクササイズとして1日1〜2時間。終日のバランスボール着席は疲労と腰痛を引き起こし、姿勢の改善にはならない。"
+  link: "/ja/best-stability-ball-2026"
+  image_alt: "バランスボール オフィスチェア 失敗 終日 着席 研究"
+  hashtags: ["バランスボール", "オフィスフィットネス", "フィットネスの失敗", "腰の健康", "コアストレングス"]
+
+- id: "best-stability-ball-2026-scene-ja"
+  article_slug: "best-stability-ball-2026"
+  variant: "scene"
+  locale: "ja"
+  board: "fitness"
+  title: "腰痛リハビリ：バランスボールブリッジが効く理由"
+  description: "バランスボールブリッジ（ボールに上背部を置き、足を床に、腰を持ち上げる）は床でのヒップブリッジと比較して脊椎への圧縮を減らしながら後面鎖を鍛える。不安定性が深い腰椎安定筋——慢性腰痛の人で通常弱い多裂筋と腹横筋——の常時エンゲージメントを要求する。理学療法士がこのエクササイズを使う理由はバランスボール研究で最も強いエビデンスベースがあるため。"
+  link: "/ja/best-stability-ball-2026"
+  image_alt: "バランスボールブリッジ 腰痛リハビリ 後面鎖 コアストレングス"
+  hashtags: ["腰痛", "バランスボール", "腰痛リハビリ", "コアストレングス", "理学療法"]
