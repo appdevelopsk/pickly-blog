@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 232 articles x 6 variants x 2 locales (en, ja) = 2784 pins (growing)
+# 234 articles x 6 variants x 2 locales (en, ja) = 2808 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -29927,4 +29927,198 @@ pins:
   title: "スラブクライミングに必要なシューズが違う理由：Five Ten Stealthゴムの優位性"
   description: "フィーチャーのない花崗岩ではゴムの摩擦力がすべて。Five Ten Stealth C4がスラブ地形でほぼすべての競合を超える理由とトレードオフを解説。"
   image: /og/best-climbing-shoes-2026-ja.png
+  board: fitness-ja
+
+# ── batch #238: best-rooibos-tea-2026 ──────────────────────────────────────
+- slug: best-rooibos-tea-2026
+  locale: en
+  variant: comparison
+  title: "Best Rooibos Tea 2026: Red Bush, Green Rooibos, and Honeybush Compared"
+  description: "Numi Organic vs Bengal Spice vs Tea Forté vs Wild Rooibos vs Honeybush — 5 rooibos teas tested. Caffeine-free options that don't compromise on flavor."
+  image: /og/best-rooibos-tea-2026-en.png
+  board: food-en
+
+- slug: best-rooibos-tea-2026
+  locale: en
+  variant: top1
+  title: "The Best Rooibos Tea in 2026"
+  description: "Numi Organic wins. Full-leaf bags, USDA organic, fair-trade certified — earthy, slightly sweet, no artificial flavoring. The benchmark clean rooibos."
+  image: /og/best-rooibos-tea-2026-en.png
+  board: food-en
+
+- slug: best-rooibos-tea-2026
+  locale: en
+  variant: problem
+  title: "Why Cheap Rooibos Tastes Dusty and Flat (Grade Matters)"
+  description: "Dust-grade teabags are the worst way to judge rooibos. We tested full-leaf and pyramid sachet grades — the quality difference is significant."
+  image: /og/best-rooibos-tea-2026-en.png
+  board: food-en
+
+- slug: best-rooibos-tea-2026
+  locale: en
+  variant: budget
+  title: "Celestial Seasonings Bengal Spice: The Best Caffeine-Free Chai"
+  description: "Rooibos base with cinnamon, ginger, cardamom — genuinely resembles chai without any tea or caffeine. Works beautifully with milk. Our full review."
+  image: /og/best-rooibos-tea-2026-en.png
+  board: food-en
+
+- slug: best-rooibos-tea-2026
+  locale: en
+  variant: avoid
+  title: "Rooibos Tea: What to Know Before You Buy"
+  description: "Not all rooibos comes from South Africa (though it should). Grade matters more than most buyers realize. We explain what separates good rooibos from bad."
+  image: /og/best-rooibos-tea-2026-en.png
+  board: food-en
+
+- slug: best-rooibos-tea-2026
+  locale: en
+  variant: scene
+  title: "Rooibos Latte at Home: The South African Evening Ritual"
+  description: "Warm rooibos with milk and honey is South Africa's answer to chamomile tea. We tried it with 3 different rooibos teas — here's which one works best for lattes."
+  image: /og/best-rooibos-tea-2026-en.png
+  board: food-en
+
+- slug: best-rooibos-tea-2026
+  locale: ja
+  variant: comparison
+  title: "ルイボスティーおすすめ2026：レッド・グリーン・ハニーブッシュを比較"
+  description: "Numi・ベンガルスパイス・Tea Forté・ワイルドルイボス・ハニーブッシュ——5種のルイボスを検証。風味を妥協しないノンカフェイン選択肢。"
+  image: /og/best-rooibos-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-rooibos-tea-2026
+  locale: ja
+  variant: top1
+  title: "2026年最高のルイボスティーはNumiオーガニックだった"
+  description: "フルリーフバッグ・USDA有機認証・フェアトレード認証——土っぽくほんのり甘く、人工香料なし。クリーンなルイボスの基準点。"
+  image: /og/best-rooibos-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-rooibos-tea-2026
+  locale: ja
+  variant: problem
+  title: "安価なルイボスがダスティで平凡な理由（グレードが重要）"
+  description: "ダストグレードのティーバッグはルイボスを最悪の形で評価することになります。フルリーフとピラミッドサシェグレードを検証——品質差は大きい。"
+  image: /og/best-rooibos-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-rooibos-tea-2026
+  locale: ja
+  variant: budget
+  title: "Celestial Seasonings ベンガルスパイス：最高のカフェインフリーチャイ"
+  description: "ルイボスベースにシナモン・ジンジャー・カルダモン——カフェインなしで本物のチャイに近い。ミルクとも抜群。全レビューを解説。"
+  image: /og/best-rooibos-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-rooibos-tea-2026
+  locale: ja
+  variant: avoid
+  title: "ルイボスティーを買う前に知っておくべきこと"
+  description: "本物のルイボスはすべて南アフリカ産（そうあるべきです）。グレードが多くの購入者が思う以上に重要。良質なルイボスとそうでないものを分ける基準を解説。"
+  image: /og/best-rooibos-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-rooibos-tea-2026
+  locale: ja
+  variant: scene
+  title: "ルイボスラテ——南アフリカの夜の習慣を自宅で"
+  description: "温かいルイボスにミルクとはちみつ——南アフリカのカモミールティーに相当する飲み物。3種のルイボスで試して、ラテに最適なものを見つけました。"
+  image: /og/best-rooibos-tea-2026-ja.png
+  board: food-ja
+
+# ── batch #239: best-crossfit-shoes-2026 ──────────────────────────────────
+- slug: best-crossfit-shoes-2026
+  locale: en
+  variant: comparison
+  title: "Best CrossFit Shoes 2026: Nike Metcon vs Reebok Nano vs NoBull Compared"
+  description: "5 CrossFit shoes tested for WODs, lifting, rope climbing, and running. Which one handles your training style best? Full breakdown for 2026."
+  image: /og/best-crossfit-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-crossfit-shoes-2026
+  locale: en
+  variant: top1
+  title: "The Best CrossFit Shoe in 2026: Nike Metcon 9 Review"
+  description: "Rigid flat heel for Olympic lifting, durable rope wrap, forefoot flexibility for metabolic work. The Metcon 9 is still the benchmark CrossFit shoe."
+  image: /og/best-crossfit-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-crossfit-shoes-2026
+  locale: en
+  variant: problem
+  title: "Why Running Shoes Are Dangerous for CrossFit (Seriously)"
+  description: "Cushioning that compresses under load creates an unstable base for squats and deadlifts. We explain the specific risks and what to use instead."
+  image: /og/best-crossfit-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-crossfit-shoes-2026
+  locale: en
+  variant: budget
+  title: "Best Budget CrossFit Shoe: Black Diamond vs NoBull at Entry Price"
+  description: "NoBull's minimalist design and Black Diamond Momentum both outperform the competition at their price points. We compare them directly."
+  image: /og/best-crossfit-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-crossfit-shoes-2026
+  locale: en
+  variant: avoid
+  title: "CrossFit Shoe Mistakes That Cost You Performance (and Health)"
+  description: "Wrong heel rigidity for your WOD type. Sizing too tight. Ignoring outsole durability. We cover the expensive shoe mistakes CrossFitters make."
+  image: /og/best-crossfit-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-crossfit-shoes-2026
+  locale: en
+  variant: scene
+  title: "Olympic Lifting in CrossFit: When You Need a Different Shoe"
+  description: "Inov-8 Fastlift 370 bridges the gap between CrossFit trainer and weightlifting shoe. We explain who needs it and what the heel elevation actually does."
+  image: /og/best-crossfit-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-crossfit-shoes-2026
+  locale: ja
+  variant: comparison
+  title: "クロスフィットシューズおすすめ2026：Metcon vs Nano vs NoBull比較"
+  description: "5種のクロスフィットシューズをWOD・リフティング・ロープクライム・ランで検証。あなたのトレーニングスタイルに最適なものは？2026年完全解説。"
+  image: /og/best-crossfit-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-crossfit-shoes-2026
+  locale: ja
+  variant: top1
+  title: "2026年最強クロスフィットシューズ：ナイキ メトコン9レビュー"
+  description: "オリンピックリフティング用の硬いフラットヒール、耐久ロープラップ、代謝ワーク用の前足柔軟性。メトコン9がクロスフィットシューズの基準点。"
+  image: /og/best-crossfit-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-crossfit-shoes-2026
+  locale: ja
+  variant: problem
+  title: "ランニングシューズがクロスフィットに危険な理由（本当に）",
+  description: "荷重下で圧縮するクッションがスクワットとデッドリフトの不安定なベースを作ります。具体的なリスクと代わりに何を使うべきかを解説。"
+  image: /og/best-crossfit-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-crossfit-shoes-2026
+  locale: ja
+  variant: budget
+  title: "コスパ最強クロスフィットシューズ：NoBull vs Black Diamond比較"
+  description: "NoBullのミニマリスト設計とBlack Diamond Momentumは価格帯で競合に勝ります。直接比較しました。"
+  image: /og/best-crossfit-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-crossfit-shoes-2026
+  locale: ja
+  variant: avoid
+  title: "クロスフィットシューズ選びでパフォーマンスと健康を損なう失敗"
+  description: "WODタイプに合わないヒールの硬さ。きつすぎるサイジング。アウトソール耐久性の軽視——クロスフィッターがやりがちな失敗を解説。"
+  image: /og/best-crossfit-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-crossfit-shoes-2026
+  locale: ja
+  variant: scene
+  title: "クロスフィットでオリンピックリフティング：別のシューズが必要なとき"
+  description: "イノヴェイト ファストリフト370がクロスフィットトレーナーとウェイトリフティングシューズの橋渡しをします。誰に必要か、ヒール挙上が何をするかを解説。"
+  image: /og/best-crossfit-shoes-2026-ja.png
   board: fitness-ja
