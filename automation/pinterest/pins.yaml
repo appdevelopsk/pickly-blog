@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 242 articles x 6 variants x 2 locales (en, ja) = 2904 pins (growing)
+# 244 articles x 6 variants x 2 locales (en, ja) = 2928 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -30889,4 +30889,196 @@ pins:
   title: "スピードvsタッチ：マーキュリアルとプレデターの選択"
   description: "マーキュリアル ヴェイパーはペース向け重量最適化——安定性を加速のためにトレード。プレデターはいくらかのスピードをボールコントロールのためにトレード。どちらがあなたのゲームに合うか？"
   image: /og/best-soccer-cleats-2026-ja.png
+  board: fitness-ja
+
+- slug: best-yerba-mate-loose-leaf-2026
+  locale: en
+  variant: comparison
+  title: "Best Loose-Leaf Yerba Mate 2026: Argentine vs Uruguayan Styles"
+  description: "Cruz de Malta vs Rosamonte vs Guayakí vs Canarias — traditional vs green mate, bold vs balanced, and ethical sourcing compared."
+  image: /og/best-yerba-mate-loose-leaf-2026-en.png
+  board: food-en
+
+- slug: best-yerba-mate-loose-leaf-2026
+  locale: en
+  variant: top1
+  title: "Best Traditional Yerba Mate: Cruz de Malta for Authentic Flavor"
+  description: "The mate millions of Argentines drink daily — stems included, medium cut, balanced earthy flavor. Your baseline for understanding what mate is supposed to taste like."
+  image: /og/best-yerba-mate-loose-leaf-2026-en.png
+  board: food-en
+
+- slug: best-yerba-mate-loose-leaf-2026
+  locale: en
+  variant: problem
+  title: "Why Your Yerba Mate Tastes Bitter (Temperature and Technique)"
+  description: "Boiling water ruins yerba mate. 70-80°C is the traditional preparation — here's why, and how it changes the entire drinking experience."
+  image: /og/best-yerba-mate-loose-leaf-2026-en.png
+  board: food-en
+
+- slug: best-yerba-mate-loose-leaf-2026
+  locale: en
+  variant: budget
+  title: "Best Ethical Yerba Mate: Guayakí Atlantic Forest Sourcing"
+  description: "Verified fair trade, certified organic, sourced from Atlantic Forest agroforestry — quality you can trust and a supply chain worth supporting."
+  image: /og/best-yerba-mate-loose-leaf-2026-en.png
+  board: food-en
+
+- slug: best-yerba-mate-loose-leaf-2026
+  locale: en
+  variant: avoid
+  title: "Yerba Mate Brewing Mistakes That Ruin the Experience"
+  description: "Boiling water kills the compounds. Wrong bombilla for your cut style. Starting with ultra-intense Uruguayan style as a beginner. Avoid these errors."
+  image: /og/best-yerba-mate-loose-leaf-2026-en.png
+  board: food-en
+
+- slug: best-yerba-mate-loose-leaf-2026
+  locale: en
+  variant: scene
+  title: "Yerba Mate vs Coffee: The Gourd Ritual as a Morning Practice"
+  description: "Mate has comparable caffeine to coffee but adds theobromine and theophylline — why drinkers describe the energy as smoother and longer-lasting."
+  image: /og/best-yerba-mate-loose-leaf-2026-en.png
+  board: food-en
+
+- slug: best-yerba-mate-loose-leaf-2026
+  locale: ja
+  variant: comparison
+  title: "ルースリーフ マテ茶おすすめ2026：アルゼンチンvsウルグアイスタイル"
+  description: "Cruz de Malta vs Rosamonte vs Guayakí vs Canarias——伝統的vsグリーンマテ・大胆vs均衡・倫理的ソーシングを比較。"
+  image: /og/best-yerba-mate-loose-leaf-2026-ja.png
+  board: food-ja
+
+- slug: best-yerba-mate-loose-leaf-2026
+  locale: ja
+  variant: top1
+  title: "伝統的マテ茶最高評価：本物の風味のためのCruz de Malta"
+  description: "何百万人ものアルゼンチン人が毎日飲むマテ——茎入り・中カット・均衡の取れた土っぽい風味。マテが本来どんな味かを理解するためのベースライン。"
+  image: /og/best-yerba-mate-loose-leaf-2026-ja.png
+  board: food-ja
+
+- slug: best-yerba-mate-loose-leaf-2026
+  locale: ja
+  variant: problem
+  title: "マテ茶が苦い理由（温度とテクニック）"
+  description: "沸騰したお湯はマテ茶を台無しにします。70〜80℃が伝統的な準備温度——その理由と、それが飲み体験全体をどう変えるか。"
+  image: /og/best-yerba-mate-loose-leaf-2026-ja.png
+  board: food-ja
+
+- slug: best-yerba-mate-loose-leaf-2026
+  locale: ja
+  variant: budget
+  title: "倫理的マテ茶最高評価：Guayakí大西洋森林ソーシング"
+  description: "検証済みフェアトレード・オーガニック認証・大西洋森林アグロフォレストリーソーシング——信頼できる品質と支援する価値のあるサプライチェーン。"
+  image: /og/best-yerba-mate-loose-leaf-2026-ja.png
+  board: food-ja
+
+- slug: best-yerba-mate-loose-leaf-2026
+  locale: ja
+  variant: avoid
+  title: "体験を台無しにするマテ茶醸造ミス"
+  description: "沸騰したお湯が化合物を破壊。カットスタイルに合わない間違ったボンビジャ。初心者が超インテンスなウルグアイスタイルから始めること。これらのエラーを避けてください。"
+  image: /og/best-yerba-mate-loose-leaf-2026-ja.png
+  board: food-ja
+
+- slug: best-yerba-mate-loose-leaf-2026
+  locale: ja
+  variant: scene
+  title: "マテ茶 vs コーヒー：朝の実践としてのゴーレドの儀式"
+  description: "マテはコーヒーと同等のカフェインを持ちながらテオブロミンとテオフィリンを加えます——飲み手がエネルギーをよりスムーズで長持ちすると表現する理由。"
+  image: /og/best-yerba-mate-loose-leaf-2026-ja.png
+  board: food-ja
+
+- slug: best-basketball-shoes-2026
+  locale: en
+  variant: comparison
+  title: "Best Basketball Shoes 2026: Premium to Budget Performance Compared"
+  description: "LeBron XXII vs Harden Vol. 8 vs Curry 12 vs Giannis Immortality 4 — cushioning type, position fit, and traction quality tested on court."
+  image: /og/best-basketball-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-basketball-shoes-2026
+  locale: en
+  variant: top1
+  title: "Best Basketball Shoes for Power Players: LeBron XXII Review"
+  description: "Air Max heel + Zoom Air forefoot + wide stable base — maximum cushioning and lateral support for bigs and power forwards who play physically."
+  image: /og/best-basketball-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-basketball-shoes-2026
+  locale: en
+  variant: problem
+  title: "Why Over-Cushioned Basketball Shoes Kill Your Quickness"
+  description: "Plush cushioning built for bigs makes guards mushy on cuts. Match your shoe to your position — responsive vs. max cushion is a real performance difference."
+  image: /og/best-basketball-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-basketball-shoes-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Basketball Shoes That Actually Perform: Giannis Immortality"
+  description: "Air Strobel cushioning, herringbone traction from higher-end Nike models — performance doesn't have to cost $180. Here's the smart buy."
+  image: /og/best-basketball-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-basketball-shoes-2026
+  locale: en
+  variant: avoid
+  title: "Basketball Shoe Mistakes: Wrong Position, Wrong Traction, Wrong Width"
+  description: "Using running shoes for basketball. Worn herringbone on a dusty court. Narrow Nike lasts for wide feet. The footwear mistakes that cause injuries."
+  image: /og/best-basketball-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-basketball-shoes-2026
+  locale: en
+  variant: scene
+  title: "Guard vs Big: How to Choose Basketball Shoes by Position"
+  description: "Harden Vol. 8 responsiveness vs LeBron XXII cushion — why the same shoe can help a big and hurt a guard. Position-specific shoe selection explained."
+  image: /og/best-basketball-shoes-2026-en.png
+  board: fitness-en
+
+- slug: best-basketball-shoes-2026
+  locale: ja
+  variant: comparison
+  title: "バスケットボールシューズおすすめ2026：プレミアムからコスパパフォーマンスまで比較"
+  description: "レブロンXXII vs ハーデンVol. 8 vs カリー12 vs ヤニス イモータリティ4——クッションタイプ・ポジションフィット・トラクション品質をコートで検証。"
+  image: /og/best-basketball-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-basketball-shoes-2026
+  locale: ja
+  variant: top1
+  title: "パワープレイヤー向けバスケットボールシューズ最高評価：レブロンXXIIレビュー"
+  description: "エアマックスヒール＋ズームエアフォアフット＋広い安定したベース——フィジカルにプレイするビッグマンとパワーフォワードのための最大クッションと横方向サポート。"
+  image: /og/best-basketball-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-basketball-shoes-2026
+  locale: ja
+  variant: problem
+  title: "過剰なクッションのバスケットボールシューズが俊敏性を殺す理由"
+  description: "ビッグマン向けのプラッシュクッションはガードのカットをぼんやりさせます。シューズをポジションに合わせること——レスポンシブvs最大クッションは本物のパフォーマンス差。"
+  image: /og/best-basketball-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-basketball-shoes-2026
+  locale: ja
+  variant: budget
+  title: "本当にパフォーマンスを発揮するコスパ最強バスケットボールシューズ"
+  description: "エアストローベルクッション・上位ナイキモデルのヘリンボーントラクション——$180を支払う必要はありません。スマートな買い物をここに紹介。"
+  image: /og/best-basketball-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-basketball-shoes-2026
+  locale: ja
+  variant: avoid
+  title: "バスケットボールシューズのミス：ポジション違い・トラクション違い・幅違い"
+  description: "バスケットボールにランニングシューズを使用。埃っぽいコートで磨耗したヘリンボーン。幅広の足に対してナローのナイキラスト。怪我を引き起こすフットウェアのミス。"
+  image: /og/best-basketball-shoes-2026-ja.png
+  board: fitness-ja
+
+- slug: best-basketball-shoes-2026
+  locale: ja
+  variant: scene
+  title: "ガードvsビッグマン：ポジション別バスケットボールシューズの選び方"
+  description: "ハーデンVol. 8のレスポンシビリティvsレブロンXXIIのクッション——同じシューズがビッグマンを助けガードを妨げる理由。ポジション別シューズ選択を解説。"
+  image: /og/best-basketball-shoes-2026-ja.png
   board: fitness-ja
