@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 192 articles x 6 variants x 2 locales (en, ja) = 2304 pins (growing)
+# 194 articles x 6 variants x 2 locales (en, ja) = 2328 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -25866,3 +25866,245 @@ pins:
   link: "/ja/best-sandbag-training-2026"
   image_alt: "サンドバッグショルダリング ストロングマン動作 テクニック やり方"
   hashtags: ["サンドバッグ", "ショルダリング", "ストロングマン", "機能的フィットネス", "サンドバッグトレーニング"]
+
+# ── batch #198 best-aeropress-2026 ──────────────────────────────────────────
+- id: best-aeropress-2026-en-comparison
+  locale: en
+  article_slug: best-aeropress-2026
+  variant: comparison
+  title: "AeroPress 2026: Original vs Go vs Clear vs XL vs Fellow Prismo"
+  description: "Full AeroPress lineup compared — brew capacity, portability, and what the Fellow Prismo attachment actually changes about how AeroPress brews coffee. Which model is right for you?"
+  link: "/en/best-aeropress-2026"
+  image_alt: "AeroPress Original vs Go vs Clear vs XL vs Fellow Prismo comparison 2026"
+  hashtags: ["AeroPress", "CoffeeBrewer", "CoffeeMaker", "SpecialtyCoffee", "CoffeeComparison"]
+
+- id: best-aeropress-2026-en-top1
+  locale: en
+  article_slug: best-aeropress-2026
+  variant: top1
+  title: "AeroPress Original: Best Single-Serve Coffee Brewer 2026"
+  description: "The AeroPress Original produces better coffee than any drip machine under $200. Polypropylene, BPA-free, 350 paper filters included. $35-45. The baseline correct choice for home or travel."
+  link: "/en/best-aeropress-2026"
+  image_alt: "AeroPress Original best single-serve coffee brewer 2026"
+  hashtags: ["AeroPress", "CoffeeBrewer", "SpecialtyCoffee", "HomeCoffee", "CoffeeGear"]
+
+- id: best-aeropress-2026-en-problem
+  locale: en
+  article_slug: best-aeropress-2026
+  variant: problem
+  title: "Why Your AeroPress Coffee Tastes Bitter or Sour"
+  description: "More bitter = coarser grind or cooler water. More sour/weak = finer grind or hotter water. More body = metal filter instead of paper. AeroPress is forgiving — small adjustments fix most issues."
+  link: "/en/best-aeropress-2026"
+  image_alt: "AeroPress coffee troubleshooting bitter sour fix guide"
+  hashtags: ["AeroPress", "CoffeeTips", "CoffeeBrewing", "SpecialtyCoffee", "CoffeeRecipe"]
+
+- id: best-aeropress-2026-en-budget
+  locale: en
+  article_slug: best-aeropress-2026
+  variant: budget
+  title: "Best Budget Coffee Brewer 2026: AeroPress at $35-45"
+  description: "AeroPress Original: $35-45. Produces better coffee than drip machines costing 5x more. Impact-resistant polypropylene, dishwasher safe, 350 filters included. Cost-effective specialty coffee."
+  link: "/en/best-aeropress-2026"
+  image_alt: "AeroPress budget coffee brewer best value 2026"
+  hashtags: ["AeroPress", "BudgetCoffee", "CoffeeBrewer", "BestValue", "SpecialtyCoffee"]
+
+- id: best-aeropress-2026-en-avoid
+  locale: en
+  article_slug: best-aeropress-2026
+  variant: avoid
+  title: "AeroPress Go vs Original: What Most Buyers Get Wrong"
+  description: "AeroPress Go costs the same as Original but brews less volume. Only choose Go if portability is your primary use case. For home use, Original brews more per press. Don't pay same price for less."
+  link: "/en/best-aeropress-2026"
+  image_alt: "AeroPress Go vs Original mistake buyers make buying guide"
+  hashtags: ["AeroPress", "CoffeeBrewer", "CoffeeTips", "BuyingGuide", "HomeCoffee"]
+
+- id: best-aeropress-2026-en-scene
+  locale: en
+  article_slug: best-aeropress-2026
+  variant: scene
+  title: "AeroPress XL: Brew 2-3 Cups Per Press for Two People"
+  description: "AeroPress XL solves the Original's single-serve limitation — 500 ml per press vs 250 ml. Same brewing mechanism, double the volume. $55-65. Best for 2-person households sharing one brewer."
+  link: "/en/best-aeropress-2026"
+  image_alt: "AeroPress XL two people brewing coffee morning routine"
+  hashtags: ["AeroPress", "AeroPressXL", "CoffeeBrewer", "MorningCoffee", "CoffeeLover"]
+
+- id: best-aeropress-2026-ja-comparison
+  locale: ja
+  article_slug: best-aeropress-2026
+  variant: comparison
+  title: "エアロプレス2026：Original vs Go vs Clear vs XL vs Fellow Prismo比較"
+  description: "エアロプレス全ラインナップ比較——醸造容量・携帯性・Fellow Prismoアタッチメントが実際にどう変えるか。自宅用vs旅行用、あなたに最適なモデルはどれか。"
+  link: "/ja/best-aeropress-2026"
+  image_alt: "エアロプレス Original Go Clear XL Fellow Prismo 比較 2026"
+  hashtags: ["エアロプレス", "コーヒーメーカー", "スペシャルティコーヒー", "コーヒー器具", "コーヒー比較"]
+
+- id: best-aeropress-2026-ja-top1
+  locale: ja
+  article_slug: best-aeropress-2026
+  variant: top1
+  title: "エアロプレスOriginal：最高の1人分コーヒーメーカー2026"
+  description: "エアロプレスOriginalは2万円以下のどんなドリップマシンよりも優れたコーヒーを生成。BPAフリーポリプロピレン・紙フィルター350枚付属。4,500〜6,000円。自宅・旅行の基準選択。"
+  link: "/ja/best-aeropress-2026"
+  image_alt: "エアロプレス Original 最高 コーヒーメーカー 2026"
+  hashtags: ["エアロプレス", "コーヒーメーカー", "スペシャルティコーヒー", "自宅コーヒー", "コーヒー器具"]
+
+- id: best-aeropress-2026-ja-problem
+  locale: ja
+  article_slug: best-aeropress-2026
+  variant: problem
+  title: "エアロプレスのコーヒーが苦い・酸っぱい原因と解決法"
+  description: "より苦い＝粗い挽き目またはぬるいお湯。より酸っぱい/薄い＝細かい挽き目または熱いお湯。より豊かなボディ＝紙の代わりにメタルフィルター。小さな調整で大きく改善できます。"
+  link: "/ja/best-aeropress-2026"
+  image_alt: "エアロプレス コーヒー 苦い 酸っぱい 原因 解決法"
+  hashtags: ["エアロプレス", "コーヒーレシピ", "コーヒーコツ", "スペシャルティコーヒー", "抽出"]
+
+- id: best-aeropress-2026-ja-budget
+  locale: ja
+  article_slug: best-aeropress-2026
+  variant: budget
+  title: "コスパ最高のコーヒーメーカー2026：エアロプレス4,500〜6,000円"
+  description: "エアロプレスOriginal：4,500〜6,000円。5倍以上のドリップマシンより優れたコーヒー。耐衝撃性・食洗機対応・フィルター350枚付き。スペシャルティコーヒーの最高コスパ選択。"
+  link: "/ja/best-aeropress-2026"
+  image_alt: "エアロプレス コスパ 最高 コーヒーメーカー 2026"
+  hashtags: ["エアロプレス", "コスパ", "コーヒーメーカー", "スペシャルティコーヒー", "おすすめ"]
+
+- id: best-aeropress-2026-ja-avoid
+  locale: ja
+  article_slug: best-aeropress-2026
+  variant: avoid
+  title: "エアロプレスGo vs Original：多くの人が間違える選択"
+  description: "エアロプレスGoはOriginalと同じ価格なのに抽出量が少ない。携帯性が主目的の場合のみGoを選ぶべき。自宅使用ならOriginalの方が1プレスあたりより多く抽出できる。"
+  link: "/ja/best-aeropress-2026"
+  image_alt: "エアロプレス Go Original 違い 間違い 選び方"
+  hashtags: ["エアロプレス", "コーヒーメーカー", "選び方", "比較", "コーヒーコツ"]
+
+- id: best-aeropress-2026-ja-scene
+  locale: ja
+  article_slug: best-aeropress-2026
+  variant: scene
+  title: "エアロプレスXL：1プレスで2〜3人分のコーヒーを抽出"
+  description: "エアロプレスXLはOriginalの1人分制限を解消——1プレスで500ml、250mlの倍。同じ醸造メカニズムで倍の量。7,000〜9,000円。2人世帯に最適。"
+  link: "/ja/best-aeropress-2026"
+  image_alt: "エアロプレス XL 2人分 コーヒー 朝のルーティン"
+  hashtags: ["エアロプレス", "エアロプレスXL", "コーヒーメーカー", "朝コーヒー", "コーヒー好き"]
+
+# ── batch #199 best-dip-bar-2026 ────────────────────────────────────────────
+- id: best-dip-bar-2026-en-comparison
+  locale: en
+  article_slug: best-dip-bar-2026
+  variant: comparison
+  title: "Best Dip Bars 2026: Ultimate Body Press vs REP Fitness vs Rogue Matador vs CAP vs Valor"
+  description: "Freestanding vs rack attachment dip bars compared on stability under load. Which dip bar is right for your home gym — with or without a power rack?"
+  link: "/en/best-dip-bar-2026"
+  image_alt: "Dip bar comparison Ultimate Body Press REP Fitness Rogue Matador 2026"
+  hashtags: ["DipBar", "HomeGym", "BodyweightTraining", "Calisthenics", "GymEquipment"]
+
+- id: best-dip-bar-2026-en-top1
+  locale: en
+  article_slug: best-dip-bar-2026
+  variant: top1
+  title: "REP Fitness Dip Bar: Best Freestanding Dip Bar 2026"
+  description: "REP Fitness: heavy 11-gauge steel, knurled handles, fixed 22-inch width. $120-160. Best freestanding dip bar overall — knurled handles improve grip, heavier construction reduces flex under load."
+  link: "/en/best-dip-bar-2026"
+  image_alt: "REP Fitness dip bar best freestanding 2026 knurled handles"
+  hashtags: ["DipBar", "REPFitness", "HomeGym", "BodyweightTraining", "GymEquipment"]
+
+- id: best-dip-bar-2026-en-problem
+  locale: en
+  article_slug: best-dip-bar-2026
+  variant: problem
+  title: "Why Your Dip Bar Wobbles (And How to Fix It)"
+  description: "A dip bar that wobbles when you press breaks force transfer and reduces training stimulus. Stability under load is the only spec that matters. Budget thin-steel bars on smooth floors wobble — here's what to use instead."
+  link: "/en/best-dip-bar-2026"
+  image_alt: "Dip bar wobble stability problem fix home gym"
+  hashtags: ["DipBar", "HomeGym", "WorkoutTips", "BodyweightTraining", "Stability"]
+
+- id: best-dip-bar-2026-en-budget
+  locale: en
+  article_slug: best-dip-bar-2026
+  variant: budget
+  title: "Budget Dip Bar 2026: CAP Barbell at $40-70"
+  description: "CAP Barbell: $40-70. Adequate for bodyweight dips on carpet. 300 lb capacity, V-leg base. Noticeable flex under loaded dips. Lowest-cost entry point for beginners — with limitations."
+  link: "/en/best-dip-bar-2026"
+  image_alt: "CAP Barbell budget dip bar best entry level 2026"
+  hashtags: ["DipBar", "BudgetFitness", "HomeGym", "BodyweightTraining", "BeginnerFitness"]
+
+- id: best-dip-bar-2026-en-avoid
+  locale: en
+  article_slug: best-dip-bar-2026
+  variant: avoid
+  title: "Rogue Matador vs Freestanding: What Rack Owners Get Wrong"
+  description: "If you own a compatible Rogue rack, the Matador ($80-100) is less expensive than REP Fitness freestanding AND more stable. Don't buy a freestanding bar when a rack attachment gives you zero wobble for less money."
+  link: "/en/best-dip-bar-2026"
+  image_alt: "Rogue Matador vs freestanding dip bar mistake buying guide"
+  hashtags: ["RogueMatador", "DipBar", "HomeGym", "PowerRack", "GymTips"]
+
+- id: best-dip-bar-2026-en-scene
+  locale: en
+  article_slug: best-dip-bar-2026
+  variant: scene
+  title: "Weighted Dips with a Dip Belt: Progressive Overload Beyond Bodyweight"
+  description: "Standard weighted dip method: dip belt with chain, hang plates from the chain. Basic dip belt is $20-40 — most cost-effective training investment for anyone doing dips, pull-ups, or weighted bodyweight work."
+  link: "/en/best-dip-bar-2026"
+  image_alt: "Weighted dips dip belt progressive overload home gym training"
+  hashtags: ["WeightedDips", "DipBelt", "ProgressiveOverload", "HomeGym", "StrengthTraining"]
+
+- id: best-dip-bar-2026-ja-comparison
+  locale: ja
+  article_slug: best-dip-bar-2026
+  variant: comparison
+  title: "ディップバー2026：Ultimate Body Press vs REP Fitness vs Rogue Matador vs CAP vs Valor"
+  description: "フリースタンディングvsラックアタッチメント比較——荷重下の安定性でどのディップバーがあなたのホームジムに最適か解説。パワーラックの有無で選択が変わります。"
+  link: "/ja/best-dip-bar-2026"
+  image_alt: "ディップバー比較 Ultimate Body Press REP Fitness Rogue Matador 2026"
+  hashtags: ["ディップバー", "ホームジム", "自重トレーニング", "カリステニクス", "筋トレ器具"]
+
+- id: best-dip-bar-2026-ja-top1
+  locale: ja
+  article_slug: best-dip-bar-2026
+  variant: top1
+  title: "REP Fitnessディップバー：最高のフリースタンディング2026"
+  description: "REP Fitness：重ゲージ11ゲージスチール・ナーリング付きハンドル・固定22インチ幅。1万5千〜2万2千円。最高のフリースタンディングディップバー——ナーリングがグリップ向上、重い構造が荷重下のたわみを減少。"
+  link: "/ja/best-dip-bar-2026"
+  image_alt: "REP Fitness ディップバー 最高 フリースタンディング 2026"
+  hashtags: ["ディップバー", "REPFitness", "ホームジム", "自重トレーニング", "筋トレ器具"]
+
+- id: best-dip-bar-2026-ja-problem
+  locale: ja
+  article_slug: best-dip-bar-2026
+  variant: problem
+  title: "ディップバーがぐらつく原因と解決法"
+  description: "荷重下でぐらつくディップバーは力の伝達を壊しトレーニング刺激を減少させます。荷重下の安定性だけが重要な仕様。滑らかな床の薄いスチールバーはぐらつく——代替品を解説。"
+  link: "/ja/best-dip-bar-2026"
+  image_alt: "ディップバー ぐらつき 安定性 問題 解決法 ホームジム"
+  hashtags: ["ディップバー", "ホームジム", "筋トレコツ", "自重トレーニング", "安定性"]
+
+- id: best-dip-bar-2026-ja-budget
+  locale: ja
+  article_slug: best-dip-bar-2026
+  variant: budget
+  title: "コスパ最高ディップバー2026：CAP Barbell 6,000〜10,000円"
+  description: "CAP Barbell：6,000〜10,000円。カーペット上の体重ディップスに十分。136kg耐荷重・Vレッグベース。加重ディップスで顕著なたわみあり。ビギナーの最低コストエントリーポイント。"
+  link: "/ja/best-dip-bar-2026"
+  image_alt: "CAP Barbell コスパ ディップバー エントリーレベル 2026"
+  hashtags: ["ディップバー", "コスパ", "ホームジム", "自重トレーニング", "ビギナー筋トレ"]
+
+- id: best-dip-bar-2026-ja-avoid
+  locale: ja
+  article_slug: best-dip-bar-2026
+  variant: avoid
+  title: "Rogue Matador vs フリースタンディング：ラックオーナーが間違える選択"
+  description: "互換性のあるRogueラックを所有しているなら、Matador（1万2千〜1万6千円）はREPフリースタンディングより安価でより安定。安い価格でゼロのぐらつきを実現できるのにフリースタンディングを買わないで。"
+  link: "/ja/best-dip-bar-2026"
+  image_alt: "Rogue Matador フリースタンディング ディップバー 間違い 選び方"
+  hashtags: ["RogueMatador", "ディップバー", "ホームジム", "パワーラック", "筋トレコツ"]
+
+- id: best-dip-bar-2026-ja-scene
+  locale: ja
+  article_slug: best-dip-bar-2026
+  variant: scene
+  title: "ディップベルトで加重ディップス：体重を超えた漸進的過負荷"
+  description: "標準的な加重ディップス方法：チェーン付きディップベルト、チェーンにプレートを吊るす。基本的なディップベルトは2,500〜5,500円——ディップス・懸垂・体重トレをするアスリートへの最高コスト効率投資。"
+  link: "/ja/best-dip-bar-2026"
+  image_alt: "加重ディップス ディップベルト 漸進的過負荷 ホームジム トレーニング"
+  hashtags: ["加重ディップス", "ディップベルト", "漸進的過負荷", "ホームジム", "筋力トレーニング"]
