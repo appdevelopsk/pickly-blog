@@ -9919,6 +9919,73 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-hamilton-beach-49350-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2B49350%2F", markets: ["JP"], approved: false },
     ],
   },
+  // ───────── Fitness / Barbells (best-barbell-2026) ─────────
+  {
+    id: "rogue-ohio-bar-cerakote",
+    category: "fitness",
+    name: { en: "Rogue Ohio Bar Cerakote", ja: "ローグ・オハイオバー Cerakote" },
+    description: {
+      en: "~¥55,000-¥70,000. Rogue's flagship all-purpose barbell in Cerakote finish. 190,000 PSI tensile strength shaft, 28.5 mm diameter, dual knurl marks (IPF and IWF spacing), medium-aggressive knurl without center knurl, bronze bushings. Cerakote coating outperforms bare steel, zinc, and chrome on corrosion resistance — ideal for garage gyms with humidity and temperature swings. The reference recommendation for home gym lifters who want one bar that handles powerlifting, Olympic lifting, and general training.",
+      ja: "約55,000〜70,000円。ローグのフラッグシップ汎用バーベルCerakoteフィニッシュ版。190,000 PSI引張強度シャフト、径28.5mm、デュアルローレットマーク（IPFおよびIWF間隔）、センターローレットなしのミディアムアグレッシブローレット、ブロンズブッシング。Cerakoteコーティングは耐食性で裸スチール・亜鉛・クロームを上回る——湿度と温度変化のあるガレージジムに最適。パワーリフティング・ウェイトリフティング・一般トレーニングを1本でこなしたいホームジムリフターへの基準推奨品。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07F3SYD7H", rawUrl: "https://www.amazon.co.jp/dp/B07F3SYD7H", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rogue-ohio-bar-cerakote", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BOhio%2BBar%2BCerakote%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "texas-power-bar-bare-steel",
+    category: "fitness",
+    name: { en: "Texas Power Bar Bare Steel", ja: "テキサスパワーバー 裸スチール" },
+    description: {
+      en: "~¥45,000-¥60,000. Buddy Capps' legendary powerlifting barbell, made in Texas since the 1980s. 210,000 PSI tensile strength — one of the highest on the market. 29 mm shaft, aggressive dual knurl with center knurl, bare steel finish for maximum grip texture. The reference standard for raw powerlifting: the center knurl bites into your back on high-bar squats, and the steel quality means the bar won't develop a permanent bend under decades of heavy deadlifts. Requires light oil maintenance; best suited for climate-controlled gyms.",
+      ja: "約45,000〜60,000円。1980年代からテキサスで製造されるバディ・キャップスの伝説のパワーリフティングバーベル。市場最高クラスの210,000 PSI引張強度。29mmシャフト、センターローレット付きアグレッシブデュアルローレット、最大グリップテクスチャのための裸スチールフィニッシュ。ロウパワーリフティングの基準：センターローレットは高バースクワットで背中にしっかり噛み込み、数十年の重いデッドリフトでも鋼材品質でバーが永久変形しない。軽いオイルメンテナンスが必要。空調管理されたジムに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0000BYEFM", rawUrl: "https://www.amazon.co.jp/dp/B0000BYEFM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-texas-power-bar-bare-steel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTexas%2BPower%2BBar%2B%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cap-ob-86pb-olympic-bar",
+    category: "fitness",
+    name: { en: "CAP Barbell 7ft Olympic Bar OB-86PB", ja: "CAPバーベル 7フィート オリンピックバー OB-86PB" },
+    description: {
+      en: "~¥15,000-¥25,000. CAP's entry-level 7-foot Olympic barbell — 130,000 PSI tensile strength, zinc finish for basic corrosion resistance, 50 mm sleeves accepting standard Olympic plates. Adequate for recreational lifters training under 130-140 kg who need a functional bar without premium spend. Mild knurl, standard bronze bushings, 2-inch hole spacing. Honest limitations: the steel flex becomes noticeable near rated capacity and the sleeve tolerances loosen faster than premium bars over years of use. The right choice for first-time home gym setups on a strict budget.",
+      ja: "約15,000〜25,000円。CAPのエントリーレベル 7フィート オリンピックバーベル——130,000 PSI引張強度、基本耐食性のための亜鉛フィニッシュ、標準オリンピックプレート対応50mmスリーブ。プレミアム出費なしに機能するバーが必要な130〜140kg以下でトレーニングするレクリエーショナルリフターに適切。マイルドローレット、標準ブロンズブッシング、50mmホール間隔。正直な限界：定格荷重近くでスチールのたわみが目立ち、スリーブの公差は数年の使用でプレミアムバーより早く緩む。厳格な予算での初ホームジムセットアップに正しい選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B001AXZGQW", rawUrl: "https://www.amazon.co.jp/dp/B001AXZGQW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cap-ob-86pb-olympic-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP%2BBarbell%2BOlympic%2BBar%2BOB-86PB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-equalizer-bar",
+    category: "fitness",
+    name: { en: "REP Fitness 20kg Equalizer Barbell", ja: "REPフィットネス 20kg イコライザーバーベル" },
+    description: {
+      en: "~¥35,000-¥50,000. REP Fitness's mid-range all-purpose barbell — 190,000 PSI tensile strength matching the Rogue Ohio Bar at a price roughly $80-100 less. 28.5 mm shaft, dual knurl marks (IPF and IWF spacing), medium-aggressive knurl, bronze bushings. Available in black zinc and stainless finishes. The Equalizer hits the practical sweet spot for serious lifters who want competition-spec tensile strength without the Rogue premium: the feel under load is close to the Ohio Bar, and the coating options cover both budget-conscious and maintenance-averse lifters.",
+      ja: "約35,000〜50,000円。REPフィットネスのミドルレンジ汎用バーベル——ローグ・オハイオバーに匹敵する190,000 PSI引張強度をローグより約1〜1.5万円安く提供。28.5mmシャフト、デュアルローレットマーク（IPFおよびIWF間隔）、ミディアムアグレッシブローレット、ブロンズブッシング。ブラック亜鉛とステンレスフィニッシュで利用可能。イコライザーはローグプレミアムなしで競技仕様の引張強度を求める本格リフターにとって実用的なスイートスポット：負荷をかけた感触はオハイオバーに近く、コーティングオプションはコスト重視と低メンテナンス志向の両リフターをカバーする。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B08XK4FSVP", rawUrl: "https://www.amazon.co.jp/dp/B08XK4FSVP", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-rep-fitness-equalizer-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP%2BFitness%2B20kg%2BEqualizer%2BBarbell%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "titan-fitness-olympic-bar",
+    category: "fitness",
+    name: { en: "Titan Fitness Olympic Barbell 20kg", ja: "タイタン フィットネス オリンピックバーベル 20kg" },
+    description: {
+      en: "~¥30,000-¥45,000. Titan Fitness's flagship 20kg Olympic barbell — 190,000 PSI tensile strength, 28.5 mm shaft, dual knurl marks, medium-aggressive knurl, available in black zinc or stainless steel. Titan's closest direct competitor to the Rogue Ohio Bar at $80-100 less. The black zinc finish handles garage humidity conditions without the Cerakote premium. Bronze bushing sleeve construction provides smooth spin for both Olympic lifting and powerlifting use. A legitimate performance barbell at a price point that makes the Rogue premium a harder argument for budget-conscious home gym lifters.",
+      ja: "約30,000〜45,000円。タイタン フィットネスのフラッグシップ20kgオリンピックバーベル——190,000 PSI引張強度、28.5mmシャフト、デュアルローレットマーク、ミディアムアグレッシブローレット、ブラック亜鉛またはステンレス鋼で利用可能。Titanのローグ・オハイオバーへの最も直接的な競合品を約8,000〜1.5万円安く提供。ブラック亜鉛フィニッシュはCerakoteプレミアムなしでガレージの湿度条件に対応。ブロンズブッシング スリーブ構造はウェイトリフティングとパワーリフティング両用途でスムーズなスピンを提供。コスト重視のホームジムリフターへのローグプレミアムを難しい選択にする本格パフォーマンスバーベル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07YDQKX6N", rawUrl: "https://www.amazon.co.jp/dp/B07YDQKX6N", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-titan-fitness-olympic-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan%2BFitness%2BOlympic%2BBarbell%2B20kg%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
   // ───────── Fitness / Squat Racks (best-squat-rack-2026) ─────────
   {
     id: "rogue-rm-3-power-rack",
@@ -10050,6 +10117,77 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "B07WLLNMXZ", rawUrl: "https://www.amazon.co.jp/dp/B07WLLNMXZ", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-instant-pot-duo-crisp-air-fryer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BDuo%2BCrisp%2B%E3%82%A8%E3%82%A2%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Waffle Makers (best-waffle-maker-2026) ─────────
+  {
+    id: "cuisinart-waf-f20p1-waffle-maker",
+    category: "food",
+    badge: "top-pick",
+    name: { en: "Cuisinart WAF-F20P1 Double Belgian Waffle Maker", ja: "クイジナート WAF-F20P1 ダブルベルギーワッフルメーカー" },
+    description: {
+      en: "Dual 1-inch-deep Belgian waffle grids that cook two waffles simultaneously. 1400W with six browning settings and indicator lights. Stainless brushed exterior, nonstick removable plates, drip tray included. Takes 4-5 minutes for the first batch; subsequent batches move faster once the plates are fully heated.",
+      ja: "厚さ2.5cmのベルギーワッフルグリッドが2枚同時調理可能。1400W・6段階焼き色設定・完了インジケーター付き。ブラシドステンレス外装、着脱式ノンスティックプレート、ドリップトレー付属。最初のバッチは4〜5分；プレートが十分熱されると後続バッチは短縮。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B082PPLFW3", rawUrl: "https://www.amazon.co.jp/dp/B082PPLFW3", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cuisinart-waf-f20p1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BWaffle%2BMaker%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hamilton-beach-26031-waffle-maker",
+    category: "food",
+    badge: "budget-pick",
+    name: { en: "Hamilton Beach 26031 Belgian Waffle Maker", ja: "ハミルトンビーチ 26031 ベルギーワッフルメーカー" },
+    description: {
+      en: "Single round Belgian waffle maker under $30. Nonstick grids, adjustable temperature dial, and a flip design that ensures even batter distribution. Compact footprint stores upright. The entry point for households that want Belgian-style depth without spending on a Cuisinart or Breville.",
+      ja: "3,000円台のシングルラウンドベルギーワッフルメーカー。ノンスティックグリッド・温度調節ダイヤル・フリップ設計で均一なバター分布を実現。コンパクトで縦置き収納可能。クイジナートやBrevilleを買わずにベルギースタイルを始めたい家庭向けエントリーモデル。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00YWHXHM2", rawUrl: "https://www.amazon.co.jp/dp/B00YWHXHM2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hamilton-beach-26031", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2BWaffle%2BMaker%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "breville-bwm604xl-smart-waffle",
+    category: "food",
+    badge: "premium-pick",
+    name: { en: "Breville BWM604XL Smart Waffle Pro", ja: "Breville BWM604XL スマートワッフルプロ" },
+    description: {
+      en: "Four-slice round waffle maker with Element IQ — sensors adjust heating power based on batter load and ambient temperature. 1800W with 5 waffle settings and a smart doneness control. IQ technology reduces the guesswork that plagues cold-kitchen morning baking. The most consistent results in this comparison at 2-3x the price of budget options.",
+      ja: "Element IQ搭載の4枚焼きラウンドワッフルメーカー。センサーがバター量と室温に応じて加熱を自動調整。1800W・5種類のワッフル設定・スマート焼き加減コントロール。寒い朝のキッチンでのムラ焼きを軽減。このガイド中で最安モデルの2〜3倍の価格だが、一貫性は最高水準。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0037ZG3DS", rawUrl: "https://www.amazon.co.jp/dp/B0037ZG3DS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-breville-bwm604xl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BWaffle%2BMaker%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dash-mini-waffle-maker",
+    category: "food",
+    badge: "mini-pick",
+    name: { en: "Dash Mini Waffle Maker", ja: "Dash ミニワッフルメーカー" },
+    description: {
+      en: "4-inch single waffle maker at under $15. Heats in under 2 minutes, 350W draw, no settings to fumble with — just plug in and pour. Makes 4-inch round waffles suitable for a single serving. Hugely popular in dorm rooms and small apartments. Not for large households; the single-waffle output makes batch cooking impractical.",
+      ja: "1,500円台の直径10cmミニワッフルメーカー。2分以内で加熱完了・350W・設定不要でコンセントを差して生地を注ぐだけ。直径10cmの1枚焼きで1人分に最適。ひとり暮らし・寮・ミニキッチン向けに大人気。大人数のバッチ調理には不向き。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07D8KD8CW", rawUrl: "https://www.amazon.co.jp/dp/B07D8KD8CW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-dash-mini-waffle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDash%2BMini%2BWaffle%2BMaker%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oster-belgian-waffle-maker-ckstwf2000",
+    category: "food",
+    badge: "family-pick",
+    name: { en: "Oster Belgian Waffle Maker CKSTWF2000", ja: "オスター ベルギーワッフルメーカー CKSTWF2000" },
+    description: {
+      en: "Single round Belgian waffle maker with a flip design and 7 browning settings. 1000W with nonstick surface, cool-touch handle, and ready-to-bake indicator light. The flip mechanism promotes even batter spread for consistently thick waffles. Mid-range price with a well-regarded 3-year limited warranty.",
+      ja: "フリップ設計と7段階焼き色設定を備えたシングルラウンドベルギーワッフルメーカー。1000W・ノンスティック・クールタッチハンドル・焼き上がりインジケーター付き。フリップ機構で均一な生地広がりを促し、厚みのあるワッフルを安定して焼き上げる。ミドルレンジの価格帯で3年保証付き。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B005C4Y2G0", rawUrl: "https://www.amazon.co.jp/dp/B005C4Y2G0", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-oster-ckstwf2000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOster%2BBelgian%2BWaffle%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
