@@ -11893,6 +11893,146 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-speed-agility-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A9%E3%83%80%E3%83%BC%E3%82%A2%E3%83%AB%E3%83%9F%2F", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "boos-block-maple-cutting-board",
+    category: "food",
+    badge: "🍁",
+    name: { en: "Boos Block Maple Cutting Board", ja: "Boos Block メープルまな板" },
+    description: {
+      en: "~$100-250+. Hard maple edge-grain, Janka ~1450, mineral oil required every 2-4 weeks. Best overall wood cutting board for knife edge preservation and longevity. The professional kitchen standard in North America.",
+      ja: "約1万〜2万5千円以上。ハードメープルエッジグレイン、ジャンカ約1450、2〜4週間ごとのミネラルオイル必要。包丁の刃保護と耐久性に最も優れた全体的な木製まな板。北米プロキッチンの標準。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B002DSEQYY", rawUrl: "https://www.amazon.co.jp/dp/B002DSEQYY", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-boos-block-maple", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBoos%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%BE%E3%81%AA%E6%9D%BF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "teakhaus-edge-grain-cutting-board",
+    category: "food",
+    badge: "🌿",
+    name: { en: "Teakhaus Edge Grain Teak Cutting Board", ja: "Teakhaus エッジグレイン チークまな板" },
+    description: {
+      en: "~$80-150. Teak edge-grain, naturally water-resistant (teak oil content), minimal maintenance. Best for near-sink placement or users who prefer low-maintenance wood. Marginally gentler on knife edges than maple.",
+      ja: "約8千〜1万5千円。チークエッジグレイン、自然な耐水性（チーク油分）、メンテナンス最小限。流し台近くまたはメンテナンスが少ない木材を好むユーザーに最適。包丁の刃への影響はメープルよりわずかに優しい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0058WMQZW", rawUrl: "https://www.amazon.co.jp/dp/B0058WMQZW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-teakhaus-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%BC%E3%82%AF%E3%81%BE%E3%81%AA%E6%9D%BF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oxo-good-grips-plastic-cutting-board",
+    category: "food",
+    badge: "🧼",
+    name: { en: "OXO Good Grips Plastic Cutting Board", ja: "OXO グッドグリップス プラスチックまな板" },
+    description: {
+      en: "~$30-50. HDPE plastic, juice groove, non-slip feet, dishwasher-safe. Best for dedicated raw meat and fish processing — dishwasher-sanitizable at pathogen-killing temperatures. Use with a separate wood board for produce.",
+      ja: "約3千〜5千円。HDPE プラスチック、果汁溝、滑り止めの足、食洗機対応。生肉と魚の処理専用に最適——食洗機の病原体死滅温度で殺菌可能。野菜には別の木製ボードと一緒に使用すること。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00004OCHO", rawUrl: "https://www.amazon.co.jp/dp/B00004OCHO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-oxo-cutting-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%E3%81%BE%E3%81%AA%E6%9D%BF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "epicurean-kitchen-series-cutting-board",
+    category: "food",
+    badge: "📄",
+    name: { en: "Epicurean Kitchen Series Composite Cutting Board", ja: "Epicurean キッチンシリーズ コンポジットまな板" },
+    description: {
+      en: "~$30-60. Paper composite (kraft fiber + resin), dishwasher-safe, 1/4-inch thin profile for easy storage. Best for users who want wood-look aesthetics without oil maintenance. Harder on knife edges than wood.",
+      ja: "約3千〜6千円。ペーパーコンポジット（クラフトファイバー＋樹脂）、食洗機対応、収納容易な6mm薄プロファイル。油のメンテナンスなしに木材風の見た目を求めるユーザーに最適。木材より包丁の刃に硬い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000BXQMWI", rawUrl: "https://www.amazon.co.jp/dp/B000BXQMWI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-epicurean-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEpicurean%E3%81%BE%E3%81%AA%E6%9D%BF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "john-boos-walnut-butcher-block",
+    category: "food",
+    badge: "🌰",
+    name: { en: "John Boos Walnut End-Grain Butcher Block Board", ja: "John Boos ウォルナット エンドグレイン ブッチャーブロックボード" },
+    description: {
+      en: "~$150-400. Black walnut end-grain, Janka ~1010, gentlest on knife edges. Maximum visual appeal — dark grain for kitchen display. Best for kitchen island or butcher block counter display. Same oil maintenance as end-grain maple.",
+      ja: "約1万5千〜4万円。ブラックウォルナットエンドグレイン、ジャンカ約1010、最も包丁の刃に優しい。最高の視覚的魅力——キッチン展示のためのダーク木目。キッチンアイランドやブッチャーブロックカウンター展示に最適。エンドグレインメープルと同じオイルメンテナンス。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00DTHYJP2", rawUrl: "https://www.amazon.co.jp/dp/B00DTHYJP2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-boos-walnut", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJohn+Boos%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%8A%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "trideer-stability-ball",
+    category: "fitness",
+    badge: "⚪",
+    name: { en: "Trideer Extra Thick Exercise Ball", ja: "Trideer エクストラシック エクササイズボール" },
+    description: {
+      en: "~$25-40. PVC 2000μm wall, 2200 lb anti-burst, dual-action pump included. Best value stability ball for home users. Consistent inflation retention, soft PVC surface. Sizes 45-85 cm.",
+      ja: "約2千5百〜4千円。PVC 2000μm壁厚、2200ポンド耐バースト、両方向ポンプ付属。家庭ユーザーに最高のコスパのバランスボール。一貫した空気保持、柔らかいPVC表面。45〜85cmサイズ。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07CJVSJYX", rawUrl: "https://www.amazon.co.jp/dp/B07CJVSJYX", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-trideer-ball", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%E8%80%90%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gaiam-total-body-balance-ball",
+    category: "fitness",
+    badge: "🎯",
+    name: { en: "Gaiam Total Body Balance Ball Kit", ja: "Gaiam トータルボディ バランスボール キット" },
+    description: {
+      en: "~$30-50. Anti-burst ball + pump + 42-drill workout guide kit. Best for beginners who want starting curriculum. Guide provides structured progression for users new to stability ball training.",
+      ja: "約3千〜5千円。耐バーストボール＋ポンプ＋42ドリルワークアウトガイドキット。最初のカリキュラムを求める初心者に最適。ガイドはバランスボールトレーニング初のユーザーに構造化された進歩を提供。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00JKNQ7UI", rawUrl: "https://www.amazon.co.jp/dp/B00JKNQ7UI", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-gaiam-balance-ball", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGaiam%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "live-pro-stability-ball",
+    category: "fitness",
+    badge: "🏋️",
+    name: { en: "Live Pro Stability Ball", ja: "Live Pro スタビリティボール" },
+    description: {
+      en: "~$40-60. 2200 lb anti-burst, textured surface for grip on synthetic flooring. Best for commercial gym environments or slick floor surfaces where smooth PVC slides during dynamic exercises.",
+      ja: "約4千〜6千円。2200ポンド耐バースト、合成フローリングでのグリップのためのテクスチャー表面。動的エクササイズで滑らかなPVCがスライドする商業ジム環境や滑らかな床面に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B076ZNWC7G", rawUrl: "https://www.amazon.co.jp/dp/B076ZNWC7G", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-livepro-stability", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "urbnfit-exercise-ball",
+    category: "fitness",
+    badge: "🎨",
+    name: { en: "URBNFit Exercise Ball", ja: "URBNFit エクササイズボール" },
+    description: {
+      en: "~$30-45. 2000 lb anti-burst, wider color/finish range than utilitarian competitors. Best for home office or studio where the ball's appearance in the space matters. Same functional performance as Trideer.",
+      ja: "約3千〜4千5百円。2000ポンド耐バースト、実用的な競合他社より広いカラー/フィニッシュ範囲。スペースでボールの外観が重要なホームオフィスやスタジオに最適。Trideerと同じ機能パフォーマンス。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07C1YHN5H", rawUrl: "https://www.amazon.co.jp/dp/B07C1YHN5H", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-urbnfit-ball", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FURBN%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bosu-nexgen-stability-ball",
+    category: "fitness",
+    badge: "🔵",
+    name: { en: "BOSU NexGen Pro Balance Trainer", ja: "BOSU NexGen プロ バランストレーナー" },
+    description: {
+      en: "~$100-150. BOSU inflatable dome on rigid platform — not a traditional round ball. Best for standing balance training (dome-up: squats, lunges). Buy a round ball instead if you want seated/prone core training.",
+      ja: "約1万〜1万5千円。硬質プラットフォーム上のBOSUインフレータブルドーム——従来の丸いボールではない。立位バランストレーニングに最適（ドーム面：スクワット・ランジ）。座位/うつ伏せのコアトレーニングには丸いボールを購入すること。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07HFNBKNJ", rawUrl: "https://www.amazon.co.jp/dp/B07HFNBKNJ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bosu-nexgen", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBOSU+NexGen%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
