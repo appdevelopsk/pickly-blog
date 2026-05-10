@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 226 articles x 6 variants x 2 locales (en, ja) = 2712 pins (growing)
+# 228 articles x 6 variants x 2 locales (en, ja) = 2736 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -29345,4 +29345,198 @@ pins:
   title: "GPSクリップとレーザー、実際のラウンドで速いのはどっち？"
   description: "Garmin G12クリップは照準なしで即座にグリーン距離を表示。Bushnellとの実ラウンド速度比較——あなたのプレースタイルによる結論。"
   image: /og/best-golf-rangefinder-2026-ja.png
+  board: fitness-ja
+
+# ── batch #232: best-black-tea-2026 ──────────────────────────────────────
+- slug: best-black-tea-2026
+  locale: en
+  variant: comparison
+  title: "Best Black Tea 2026: English Breakfast to Darjeeling First Flush Tested"
+  description: "Harney Cinnamon Spice vs Twinings vs Vahdam Darjeeling vs Republic of Tea vs Ahmad Tea — 5 black teas compared. Origin, grade, and flavor profiles explained."
+  image: /og/best-black-tea-2026-en.png
+  board: food-en
+
+- slug: best-black-tea-2026
+  locale: en
+  variant: top1
+  title: "The Best Flavored Black Tea in 2026"
+  description: "Harney & Sons Hot Cinnamon Spice wins. Three cinnamons, orange peel, cloves on a bold black tea base — intensely aromatic, not artificial. The benchmark flavored tea."
+  image: /og/best-black-tea-2026-en.png
+  board: food-en
+
+- slug: best-black-tea-2026
+  locale: en
+  variant: problem
+  title: "Why Most Grocery Store Black Teas Disappoint"
+  description: "Dusty floor-grade teabags, no origin info, stale stock — we tested what's actually in popular supermarket teas. Here's what to buy instead."
+  image: /og/best-black-tea-2026-en.png
+  board: food-en
+
+- slug: best-black-tea-2026
+  locale: en
+  variant: budget
+  title: "Ahmad Tea: The Best Cheap Black Tea You've Never Heard Of"
+  description: "A proper London tea company at grocery store prices. Ahmad English No. 1 beats everything else on the supermarket shelf — brisk, malty, honest. Here's our review."
+  image: /og/best-black-tea-2026-en.png
+  board: food-en
+
+- slug: best-black-tea-2026
+  locale: en
+  variant: avoid
+  title: "Black Tea Myths That Cost You Money"
+  description: "Using milk in first flush Darjeeling. Boiling water for delicate teas. Oversteeping. We explain the common mistakes that ruin good black tea."
+  image: /og/best-black-tea-2026-en.png
+  board: food-en
+
+- slug: best-black-tea-2026
+  locale: en
+  variant: scene
+  title: "What Real Darjeeling Tastes Like (vs What Most People Have)"
+  description: "Vahdam first flush has genuine muscatel — floral, slightly astringent, 90°C, no milk. A completely different experience from breakfast tea. Our tasting notes inside."
+  image: /og/best-black-tea-2026-en.png
+  board: food-en
+
+- slug: best-black-tea-2026
+  locale: ja
+  variant: comparison
+  title: "紅茶おすすめ2026：イングリッシュブレックファストからダージリン一番摘みまで"
+  description: "Harney シナモンスパイス・Twinings・Vahdam・Republic of Tea・Ahmad Tea——5種を比較。産地・グレード・風味プロファイルを徹底解説。"
+  image: /og/best-black-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-black-tea-2026
+  locale: ja
+  variant: top1
+  title: "2026年最高のフレーバー紅茶はこれだ"
+  description: "Harney & Sons ホットシナモンスパイスが1位。3種のシナモン・オレンジピール・クローブ入りで芳香豊か、人工的でない。フレーバー紅茶の基準点。"
+  image: /og/best-black-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-black-tea-2026
+  locale: ja
+  variant: problem
+  title: "スーパーの紅茶が美味しくない本当の理由"
+  description: "ダストグレードのティーバッグ、産地情報なし、古い在庫——人気スーパー紅茶の実態を検証。代わりに買うべきものを解説します。"
+  image: /og/best-black-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-black-tea-2026
+  locale: ja
+  variant: budget
+  title: "知る人ぞ知る格安高品質紅茶：Ahmad Tea実力診断"
+  description: "ロンドンの本格ティーブランドがスーパー価格で購入可能。Ahmad English No.1はスーパーの棚でほぼ最高の品質——キリッとしたモルト感、正直な味。"
+  image: /og/best-black-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-black-tea-2026
+  locale: ja
+  variant: avoid
+  title: "紅茶をまずくする3つのよくある間違い"
+  description: "一番摘みダージリンにミルクを入れる。繊細な紅茶に熱湯を使う。蒸らしすぎ——良い紅茶を台無しにする失敗を解説します。"
+  image: /og/best-black-tea-2026-ja.png
+  board: food-ja
+
+- slug: best-black-tea-2026
+  locale: ja
+  variant: scene
+  title: "本物のダージリンの味とは何か"
+  description: "Vahdam一番摘みの本物のマスカテル——花香、わずかな渋み、90℃・ミルクなし。一般的な朝食紅茶とは全く異なる体験。テイスティングノートを解説。"
+  image: /og/best-black-tea-2026-ja.png
+  board: food-ja
+
+# ── batch #233: best-swim-fins-2026 ──────────────────────────────────────
+- slug: best-swim-fins-2026
+  locale: en
+  variant: comparison
+  title: "Best Swim Fins 2026: FINIS vs Speedo vs Arena vs TYR Compared"
+  description: "Zoomers Gold vs Biofuse vs Powerfin Pro vs Foil Monofin vs Crossblade — we tested 5 training fins. Short blade, long blade, monofin: which one actually improves your kick?"
+  image: /og/best-swim-fins-2026-en.png
+  board: fitness-en
+
+- slug: best-swim-fins-2026
+  locale: en
+  variant: top1
+  title: "The Best Swim Training Fins in 2026"
+  description: "FINIS Zoomers Gold wins for competitive training. Short blade forces a fast kick matching freestyle cadence — uncomfortable on purpose. The industry standard for a reason."
+  image: /og/best-swim-fins-2026-en.png
+  board: fitness-en
+
+- slug: best-swim-fins-2026
+  locale: en
+  variant: problem
+  title: "Long Blade Fins Are Ruining Your Freestyle (Here's Why)"
+  description: "Long fins let you use a lazy, slow kick that builds no useful strength for swimming. Short blade fins like Zoomers match real freestyle cadence. We explain the difference."
+  image: /og/best-swim-fins-2026-en.png
+  board: fitness-en
+
+- slug: best-swim-fins-2026
+  locale: en
+  variant: budget
+  title: "Best Budget Swim Fins: TYR Crossblade Review"
+  description: "Entry-level short blade training at a fraction of FINIS pricing. TYR Crossblade delivers the core kick development benefit without the premium cost. Our full breakdown."
+  image: /og/best-swim-fins-2026-en.png
+  board: fitness-en
+
+- slug: best-swim-fins-2026
+  locale: en
+  variant: avoid
+  title: "Swim Fin Mistakes That Hurt Your Training"
+  description: "Wrong blade length for your goal, fins that cause blisters, using fins for the wrong strokes — we cover the common training fin mistakes and how to avoid them."
+  image: /og/best-swim-fins-2026-en.png
+  board: fitness-en
+
+- slug: best-swim-fins-2026
+  locale: en
+  variant: scene
+  title: "How Monofins Develop Butterfly and Dolphin Kick"
+  description: "FINIS Foil Monofin forces undulation from the hips — the technically correct butterfly movement. We explain what a monofin trains and when to use one."
+  image: /og/best-swim-fins-2026-en.png
+  board: fitness-en
+
+- slug: best-swim-fins-2026
+  locale: ja
+  variant: comparison
+  title: "スイムフィンおすすめ2026：FINIS・Speedo・Arena・TYRを徹底比較"
+  description: "ズーマーズ・バイオフューズ・パワーフィン・フォイルモノフィン・クロスブレード——5種のトレーニングフィンを比較。ショート・ロング・モノフィン別に解説。"
+  image: /og/best-swim-fins-2026-ja.png
+  board: fitness-ja
+
+- slug: best-swim-fins-2026
+  locale: ja
+  variant: top1
+  title: "2026年競技水泳最強スイムフィンはFINISズーマーズだった"
+  description: "ショートブレードがフリースタイルのリズムに合わせた速いキックを強制。意図的に不快で、それが効果の証拠。業界標準を詳解します。"
+  image: /og/best-swim-fins-2026-ja.png
+  board: fitness-ja
+
+- slug: best-swim-fins-2026
+  locale: ja
+  variant: problem
+  title: "ロングブレードフィンがフリースタイルを壊す理由"
+  description: "ロングフィンはゆっくりとした楽なキックを許し、実際の水泳に役立つ筋力を育てません。ショートブレードがなぜ重要かを解説します。"
+  image: /og/best-swim-fins-2026-ja.png
+  board: fitness-ja
+
+- slug: best-swim-fins-2026
+  locale: ja
+  variant: budget
+  title: "コスパ最強スイムフィン：TYRクロスブレード実力診断"
+  description: "FINISの半額以下でショートブレードトレーニングの基本効果を実現。TYRクロスブレードの実力と限界を詳しくレビューします。"
+  image: /og/best-swim-fins-2026-ja.png
+  board: fitness-ja
+
+- slug: best-swim-fins-2026
+  locale: ja
+  variant: avoid
+  title: "スイムフィン選びで失敗する5つのパターン"
+  description: "目的に合わないブレード長、マメができるフィン、間違ったストロークでの使用——よくあるトレーニングフィンの失敗を解説します。"
+  image: /og/best-swim-fins-2026-ja.png
+  board: fitness-ja
+
+- slug: best-swim-fins-2026
+  locale: ja
+  variant: scene
+  title: "モノフィンはバタフライとイルカキックをどう強化するか"
+  description: "FINISフォイルモノフィンが股関節からのうねりを強制——技術的に最も正確なバタフライ動作。モノフィンが鍛えるものと使い方を解説。"
+  image: /og/best-swim-fins-2026-ja.png
   board: fitness-ja
