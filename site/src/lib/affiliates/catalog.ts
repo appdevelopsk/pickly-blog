@@ -11325,6 +11325,150 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-limm-push-up-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLimm%2B%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
+
+  // ───────── Food / Pasta Makers (best-pasta-maker-2026) ─────────
+  {
+    id: "marcato-atlas-150-pasta-maker",
+    category: "food",
+    badge: "🏆",
+    name: { en: "Marcato Atlas 150 Pasta Maker", ja: "マルカート アトラス 150 パスタマシン" },
+    description: {
+      en: "~$50-80. Italian-made chrome steel manual pasta roller, 150mm width, settings 0-9 (0.6-3mm), includes fettuccine and tagliolini cutters. Widest replacement part availability, most third-party attachment support. Clamp-mount to counter edge required. No soap cleaning — wipe dry only. The benchmark home pasta roller since the 1930s.",
+      ja: "約5,000〜8,000円。イタリア製クロームスチール手動パスタローラー、150mm幅、設定0〜9（0.6〜3mm）、フェットゥッチーネとタリオリーニカッター付属。最も広い交換部品の可用性、最多のサードパーティアタッチメントサポート。カウンターエッジへのクランプ取り付けが必要。石鹸洗い不可——乾拭きのみ。1930年代からの家庭用パスタローラーの基準。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00008CM67", rawUrl: "https://www.amazon.co.jp/dp/B00008CM67", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-marcato-atlas-150", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%AB%E3%82%AB%E3%83%BC%E3%83%88%2B%E3%82%A2%E3%83%88%E3%83%A9%E3%82%B9%2B%E3%83%91%E3%82%B9%E3%82%BF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "imperia-pasta-maker-machine",
+    category: "food",
+    badge: "🍝",
+    name: { en: "Imperia Pasta Machine Double Cutter", ja: "インペリア パスタマシン ダブルカッター" },
+    description: {
+      en: "~$60-90. Italian manual pasta roller, includes both fettuccine (5mm) and spaghetti (2mm) cutters as standard — more value than Atlas which requires separate cutter purchase. Chrome steel construction. Slightly heavier than Atlas; roller action at thinnest settings requires slightly more crank pressure.",
+      ja: "約6,000〜9,000円。イタリア製手動パスタローラー、フェットゥッチーネ（5mm）とスパゲッティ（2mm）の両カッターが標準付属——別途カッター購入が必要なアトラスより価値がある。クロームスチール構造。アトラスよりわずかに重い；最も薄い設定でのローラー動作にはわずかに多い回しの力が必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000IXTTFA", rawUrl: "https://www.amazon.co.jp/dp/B000IXTTFA", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-imperia-pasta-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%AA%E3%82%A2%2B%E3%83%91%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%B7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kitchenaid-pasta-roller-attachment",
+    category: "food",
+    badge: "⚙️",
+    name: { en: "KitchenAid Pasta Roller and Cutter Attachment Set", ja: "キッチンエイド パスタローラー＆カッターアタッチメントセット" },
+    description: {
+      en: "~$150-200. Stand mixer attachment converting KitchenAid to motor-driven pasta roller — consistent sheet speed vs variable hand-crank. 152mm width, includes roller/fettuccine/spaghetti cutter. Best only if you already own a KitchenAid stand mixer. Cannot use simultaneously with bowl attachments.",
+      ja: "約15,000〜20,000円。キッチンエイドスタンドミキサーをモーター駆動パスタローラーに変えるアタッチメント——可変速手動クランクと比較して安定したシート速度。152mm幅、ローラー/フェットゥッチーネ/スパゲッティカッター付属。すでにキッチンエイドスタンドミキサーを持っている場合のみに最適。ボウルアタッチメントとの同時使用不可。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00004RFNB", rawUrl: "https://www.amazon.co.jp/dp/B00004RFNB", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-kitchenaid-pasta-attachment", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%A8%E3%82%A4%E3%83%89%2B%E3%83%91%E3%82%B9%E3%82%BF%2B%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "philips-pasta-maker-7000",
+    category: "food",
+    badge: "🤖",
+    name: { en: "Philips Pasta Maker 7000 Automatic", ja: "フィリップス パスタメーカー 7000 全自動" },
+    description: {
+      en: "~$200-300. Automatic extruder — add flour and liquid, press start, fresh pasta in 15 minutes. No technique required. Makes tubular and shaped pasta (spaghetti, fettuccine, penne, lasagna) that rollers cannot. Rougher extruded texture holds sauce better than smooth roller pasta. Weakness: cleanup intensive (disassemble within 30 min); louder than manual rollers.",
+      ja: "約20,000〜30,000円。全自動押し出し機——小麦粉と液体を加え、スタートを押せば15分で生パスタ完成。技術不要。ローラーでは作れない管状・形状パスタ（スパゲッティ、フェットゥッチーネ、ペンネ、ラザニア）を製作。押し出しの粗い食感はソースをより良く保持する。弱点：クリーニングが大変（30分以内に分解する必要がある）；手動ローラーより騒音が大きい。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07KGZZMZH", rawUrl: "https://www.amazon.co.jp/dp/B07KGZZMZH", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-philips-pasta-maker-7000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%2B%E3%83%91%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ronco-pasta-maker",
+    category: "food",
+    badge: "💸",
+    name: { en: "Ronco Pasta Maker Automatic", ja: "ロンコ パスタメーカー 全自動" },
+    description: {
+      en: "~$80-120. Budget automatic pasta extruder — fewer die options than Philips, lower construction quality, lower price. Adequate for occasional use. Good entry point for trying automatic pasta making before committing to the Philips investment. Pasta quality and machine durability are below premium options.",
+      ja: "約8,000〜12,000円。バジェット全自動パスタ押し出し機——フィリップスよりダイオプションが少なく、構造品質が低く、価格が低い。時々の使用には十分。フィリップス投資にコミットする前に自動パスタ製作を試すための良いエントリーポイント。パスタ品質とマシン耐久性はプレミアムオプションより低い。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B009WGFXQO", rawUrl: "https://www.amazon.co.jp/dp/B009WGFXQO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ronco-pasta-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AD%E3%83%B3%E3%82%B3%2B%E3%83%91%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+
+  // ───────── Fitness / Trampolines (best-trampoline-2026) ─────────
+  {
+    id: "springfree-trampoline-medium-oval",
+    category: "fitness",
+    badge: "🏆",
+    name: { en: "Springfree Trampoline Medium Oval", ja: "スプリングフリー トランポリン ミディアムオーバル" },
+    description: {
+      en: "~$1,500-2,500. Springless design — flexible composite rods 30cm below mat surface eliminate spring-gap injuries; frame outside jump zone removes edge contact risk. 3.4m × 2.5m oval, 200 kg dynamic load, UV-resistant rods, net attaches to mat (no net-mat gap). Most expensive option; safest design; longest service life.",
+      ja: "約150,000〜250,000円。スプリングレス設計——マット面の30cm下にある柔軟なコンポジットロッドがスプリングすき間怪我を排除；ジャンプゾーン外のフレームが縁接触リスクを排除。3.4m × 2.5mオーバル、200 kg動的負荷、UV耐性ロッド、ネットがマットに取り付けられる（ネットとマットのすき間なし）。最高価格；最も安全な設計；最長の使用寿命。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07BVZP8YW", rawUrl: "https://www.amazon.co.jp/dp/B07BVZP8YW", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-springfree-trampoline-oval", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%95%E3%83%AA%E3%83%BC%2B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9D%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "skywalker-15ft-round-trampoline",
+    category: "fitness",
+    badge: "⭐",
+    name: { en: "Skywalker 15ft Round Trampoline with Safety Enclosure", ja: "スカイウォーカー 15ft ラウンドトランポリン セーフティエンクロージャー付き" },
+    description: {
+      en: "~$300-500. 15ft round spring trampoline, 96 springs, enclosure net attached to same poles as padding (reduces net-mat gap), padded spring cover included, 200 lb per jumper limit. The quality mainstream choice for most families. Weakness: standard spring system (spring contact risk compared to Springfree); metal frame rusts without regular inspection.",
+      ja: "約30,000〜50,000円。15ft丸型スプリングトランポリン、96本スプリング、囲いネットをパッドと同じポールに取り付け（ネットとマットのすき間を減少）、パッド入りスプリングカバー付属、ジャンパー1人当たり200 lb制限。ほとんどの家族への質の高いメインストリームの選択。弱点：標準スプリングシステム（スプリングフリーと比較してスプリング接触リスク）；定期点検なしで金属フレームが錆びる。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00NPUJRH6", rawUrl: "https://www.amazon.co.jp/dp/B00NPUJRH6", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-skywalker-15ft-trampoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC%2B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9D%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zupapa-15ft-trampoline",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Zupapa 15ft Trampoline with Safety Enclosure Net", ja: "ズパパ 15ft トランポリン セーフティエンクロージャーネット付き" },
+    description: {
+      en: "~$400-600. 15ft round, 108 springs, galvanized steel frame (rust-resistant even when scratched — meaningful for outdoor longevity in rain/coastal climates), thicker spring padding than standard. More consistent bounce across full mat than lower-spring-count models. Best for durability in harsh-weather climates.",
+      ja: "約40,000〜60,000円。15ft丸型、108本スプリング、亜鉛めっきスチールフレーム（傷がついても錆に強い——雨・沿岸気候での屋外耐久性に意味がある）、標準より厚いスプリングパッド。低スプリング数モデルよりマット全体で一貫したバウンス。過酷な気候での耐久性に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07GJ9QKQT", rawUrl: "https://www.amazon.co.jp/dp/B07GJ9QKQT", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-zupapa-15ft-trampoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BA%E3%83%91%E3%83%91%2B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9D%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jumpking-14ft-trampoline",
+    category: "fitness",
+    badge: "👨‍👩‍👧",
+    name: { en: "Jumpking 14ft Round Trampoline with Safety Enclosure", ja: "ジャンプキング 14ft ラウンドトランポリン セーフティエンクロージャー付き" },
+    description: {
+      en: "~$250-400. 14ft round spring trampoline with safety enclosure net. Good value for smaller yards or tighter budgets. Standard spring system and padding quality. Adequate for typical family use with regular maintenance. Weakness: no differentiation from Skywalker; smaller jump area than 15ft options.",
+      ja: "約25,000〜40,000円。セーフティエンクロージャーネット付き14ft丸型スプリングトランポリン。小さめの庭や予算を重視する購入者に良いバリュー。標準的なスプリングシステムとパッド品質。定期的なメンテナンスで典型的な家族使用に十分。弱点：スカイウォーカーとの差別化がない；15ftオプションより狭いジャンプ面積。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B007SWGMDO", rawUrl: "https://www.amazon.co.jp/dp/B007SWGMDO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-jumpking-14ft-trampoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%AD%E3%83%B3%E3%82%B0%2B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9D%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jumpsport-550f-fitness-trampoline",
+    category: "fitness",
+    badge: "🏃",
+    name: { en: "JumpSport 550f Fitness Trampoline", ja: "ジャンプスポート 550f フィットネストランポリン" },
+    description: {
+      en: "~$300-400. 48-inch indoor fitness rebounder, bungee-cord suspension (softer/quieter than springs), fold-flat legs for storage, 250 lb capacity. Designed for adult aerobic conditioning — ~70% of running's knee/hip ground reaction force. Not for outdoor or children's play. Best for adults with joint issues seeking low-impact cardio.",
+      ja: "約30,000〜40,000円。48インチ室内フィットネスリバウンダー、バンジーコード懸架（スプリングより柔らかく静か）、保管用折りたたみ脚、113 kg耐荷重。大人の有酸素コンディショニング向け——ランニングの膝/股関節への地面反力の約70%。屋外または子どもの遊び用ではない。関節の問題を持つ大人で低衝撃有酸素運動を求める方に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00HKYDQXQ", rawUrl: "https://www.amazon.co.jp/dp/B00HKYDQXQ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-jumpsport-550f", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%2B%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%83%AA%E3%83%90%E3%82%A6%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
