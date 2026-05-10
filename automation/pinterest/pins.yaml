@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 174 articles x 6 variants x 2 locales (en, ja) = 2088 pins (growing)
+# 176 articles x 6 variants x 2 locales (en, ja) = 2112 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -23574,3 +23574,269 @@ pins:
   link: "/ja/best-push-up-board-2026"
   image_alt: "毎日100回腕立て伏せプッシュアップボードトレーニング"
   hashtags: ["毎日腕立て伏せ", "プッシュアップボード", "デイリーフィットネス", "自重トレーニング", "ホームジム"]
+
+# ── #180 best-pasta-maker-2026 ──────────────────────────────────────
+- id: pasta-maker-2026-en-comparison
+  article_slug: best-pasta-maker-2026
+  locale: en
+  variant: comparison
+  board: food-kitchen
+  title: "Best Pasta Makers 2026: Marcato Atlas vs Imperia vs KitchenAid vs Philips Automatic"
+  description: "Pasta maker showdown 2026: Italian hand-crank Marcato Atlas 150 vs Imperia double-cutter vs KitchenAid stand mixer attachment vs Philips automatic extruder — roller vs extruder, which machine makes the best fresh pasta at home?"
+  link: "/en/best-pasta-maker-2026"
+  image_alt: "Best pasta makers 2026 comparison Marcato Atlas Imperia KitchenAid Philips"
+  hashtags: ["PastaMaker", "FreshPasta", "HomeCooking", "ItalianFood", "KitchenTools", "PastaMaking2026"]
+
+- id: pasta-maker-2026-en-top1
+  article_slug: best-pasta-maker-2026
+  locale: en
+  variant: top1
+  board: food-kitchen
+  title: "Marcato Atlas 150: Why the 90-Year-Old Italian Pasta Maker Still Wins in 2026"
+  description: "The Marcato Atlas 150 has been the benchmark home pasta roller since the 1930s — chrome steel rollers, settings 0-9, consistent sheet thickness from edge to center. Why it still outperforms newer designs."
+  link: "/en/best-pasta-maker-2026"
+  image_alt: "Marcato Atlas 150 pasta maker review best pick 2026"
+  hashtags: ["MarcatoAtlas", "PastaMaker", "ItalianKitchen", "FreshPasta", "HomePasta"]
+
+- id: pasta-maker-2026-en-problem
+  article_slug: best-pasta-maker-2026
+  locale: en
+  variant: problem
+  board: food-kitchen
+  title: "Fresh Pasta Tearing? The 3 Causes Nobody Tells You About"
+  description: "Fresh pasta tears during rolling for three reasons: unrested dough, wrong flour protein content, and rolling too fast at thin settings. Here's exactly how to fix each one — the Marcato Atlas and Imperia both perform differently at setting 8-9."
+  link: "/en/best-pasta-maker-2026"
+  image_alt: "Fresh pasta tearing during rolling fix how to prevent"
+  hashtags: ["FreshPasta", "PastaTips", "HomeCooking", "ItalianFood", "CookingTips"]
+
+- id: pasta-maker-2026-en-budget
+  article_slug: best-pasta-maker-2026
+  locale: en
+  variant: budget
+  board: food-kitchen
+  title: "Best Budget Pasta Maker 2026: Marcato Atlas at $50-80 vs Philips at $250"
+  description: "The Marcato Atlas 150 at $50-80 produces better sheet pasta than the Philips at $250 — for tagliatelle, fettuccine, and ravioli, the hand-crank roller is the right tool and the cheaper option. When the expensive automatic extruder is worth it."
+  link: "/en/best-pasta-maker-2026"
+  image_alt: "Budget pasta maker 2026 Marcato Atlas vs Philips value comparison"
+  hashtags: ["BudgetCooking", "PastaMaker", "KitchenValue", "FreshPasta", "MarcatoAtlas"]
+
+- id: pasta-maker-2026-en-avoid
+  article_slug: best-pasta-maker-2026
+  locale: en
+  variant: avoid
+  board: food-kitchen
+  title: "Pasta Maker Mistakes That Ruin Your Fresh Pasta Every Time"
+  description: "Skipping the dough rest. Not cleaning rollers dry. Rolling too thick. These are the pasta maker mistakes that produce torn, gummy, or pale pasta — and exactly what to do instead for consistent results."
+  link: "/en/best-pasta-maker-2026"
+  image_alt: "Pasta maker mistakes to avoid fresh pasta tips 2026"
+  hashtags: ["PastaTips", "PastaMaker", "CookingMistakes", "FreshPasta", "HomeCooking"]
+
+- id: pasta-maker-2026-en-scene
+  article_slug: best-pasta-maker-2026
+  locale: en
+  variant: scene
+  board: food-kitchen
+  title: "Sunday Pasta: Making Fresh Tagliatelle from Scratch in 45 Minutes"
+  description: "A pasta roller transforms Sunday cooking — 45 minutes from flour and eggs to fresh tagliatelle with a sauce that clings properly to silky rolled pasta. Which machine handles the full process best? The 2026 pasta maker comparison."
+  link: "/en/best-pasta-maker-2026"
+  image_alt: "Sunday fresh tagliatelle pasta making from scratch at home"
+  hashtags: ["SundayCooking", "FreshPasta", "Tagliatelle", "HomePasta", "ItalianCooking"]
+
+- id: pasta-maker-2026-ja-comparison
+  article_slug: best-pasta-maker-2026
+  locale: ja
+  variant: comparison
+  board: food-kitchen-jp
+  title: "パスタマシンおすすめ2026年：マルカート アトラスvsインペリアvsキッチンエイドvsフィリップス比較"
+  description: "パスタマシン頂上決戦2026：イタリア製手動マルカート アトラス 150 vs インペリアダブルカッター vs キッチンエイドアタッチメント vs フィリップス全自動——ローラー式 vs 押し出し式、どのマシンが家で最高の生パスタを作る？"
+  link: "/ja/best-pasta-maker-2026"
+  image_alt: "パスタマシンおすすめ2026年比較マルカートアトラスインペリアフィリップス"
+  hashtags: ["パスタマシン", "生パスタ", "家庭料理", "イタリア料理", "キッチン用品", "パスタ作り"]
+
+- id: pasta-maker-2026-ja-top1
+  article_slug: best-pasta-maker-2026
+  locale: ja
+  variant: top1
+  board: food-kitchen-jp
+  title: "マルカート アトラス 150：90年間選ばれ続けるイタリア製パスタマシンが2026年も最強の理由"
+  description: "マルカート アトラス 150は1930年代から家庭用パスタローラーの基準だ——クロームスチールローラー、設定0〜9、縁から中央まで一貫した生地の厚み。なぜ新しい設計を今でも上回るか。"
+  link: "/ja/best-pasta-maker-2026"
+  image_alt: "マルカートアトラス150パスタマシンレビューおすすめ2026年"
+  hashtags: ["マルカートアトラス", "パスタマシン", "イタリアンキッチン", "生パスタ", "手打ちパスタ"]
+
+- id: pasta-maker-2026-ja-problem
+  article_slug: best-pasta-maker-2026
+  locale: ja
+  variant: problem
+  board: food-kitchen-jp
+  title: "生パスタが破れる？誰も教えてくれない3つの原因と解決策"
+  description: "生パスタが圧延中に破れる原因は3つ：生地を休ませなかった、小麦粉のタンパク質含量が間違っている、薄い設定で早く圧延しすぎた。それぞれの正確な修正方法——マルカート アトラスとインペリアは設定8〜9で異なる性能を示す。"
+  link: "/ja/best-pasta-maker-2026"
+  image_alt: "生パスタ圧延中破れる原因防止方法2026年"
+  hashtags: ["生パスタ", "パスタのコツ", "家庭料理", "イタリア料理", "料理のコツ"]
+
+- id: pasta-maker-2026-ja-budget
+  article_slug: best-pasta-maker-2026
+  locale: ja
+  variant: budget
+  board: food-kitchen-jp
+  title: "コスパ最強パスタマシン2026年：マルカート アトラス5,000〜8,000円vsフィリップス25,000円"
+  description: "マルカート アトラス 150の5,000〜8,000円は25,000円のフィリップスより優れたシートパスタを作る——タリアテッレ、フェットゥッチーネ、ラヴィオリには手動ローラーが正しいツールで安い選択。高価な全自動押し出し機が価値を持つ場面。"
+  link: "/ja/best-pasta-maker-2026"
+  image_alt: "バジェットパスタマシン2026年マルカートvsフィリップス価値比較"
+  hashtags: ["コスパパスタマシン", "節約料理", "キッチン価値", "生パスタ", "マルカートアトラス"]
+
+- id: pasta-maker-2026-ja-avoid
+  article_slug: best-pasta-maker-2026
+  locale: ja
+  variant: avoid
+  board: food-kitchen-jp
+  title: "毎回パスタを台無しにするパスタマシンのNG行為"
+  description: "生地を休ませない。ローラーを乾拭きしない。厚く伸ばしすぎる。これらがビリビリ破れる・べたつく・白い生パスタを作るパスタマシンの失敗と、一貫した結果のための正確な方法。"
+  link: "/ja/best-pasta-maker-2026"
+  image_alt: "パスタマシン失敗注意点生パスタのコツ2026年"
+  hashtags: ["パスタのコツ", "パスタマシン", "料理失敗防止", "生パスタ", "家庭料理"]
+
+- id: pasta-maker-2026-ja-scene
+  article_slug: best-pasta-maker-2026
+  locale: ja
+  variant: scene
+  board: food-kitchen-jp
+  title: "日曜のパスタ：45分でゼロから生タリアテッレを作る"
+  description: "パスタローラーが日曜料理を変える——小麦粉と卵から生タリアテッレまで45分、絹のような圧延パスタにきちんと絡むソースで。どのマシンが全プロセスを最もうまくこなすか？2026年パスタマシン比較。"
+  link: "/ja/best-pasta-maker-2026"
+  image_alt: "日曜料理生タリアテッレパスタゼロから手作り"
+  hashtags: ["日曜料理", "生パスタ", "タリアテッレ", "手打ちパスタ", "イタリア料理"]
+
+# ── #181 best-trampoline-2026 ──────────────────────────────────────
+- id: trampoline-2026-en-comparison
+  article_slug: best-trampoline-2026
+  locale: en
+  variant: comparison
+  board: fitness-equipment
+  title: "Best Trampolines 2026: Springfree vs Skywalker vs Zupapa vs JumpSport Rebounder"
+  description: "Trampoline comparison 2026: springless Springfree medium oval vs Skywalker 15ft spring vs Zupapa galvanized 15ft vs JumpSport 550f fitness rebounder — safety features, bounce quality, durability, and which is actually worth the money."
+  link: "/en/best-trampoline-2026"
+  image_alt: "Best trampolines 2026 comparison Springfree Skywalker Zupapa JumpSport"
+  hashtags: ["Trampoline", "BackyardFun", "KidsOutdoor", "FamilyFitness", "Springfree", "TrampolineSafety"]
+
+- id: trampoline-2026-en-top1
+  article_slug: best-trampoline-2026
+  locale: en
+  variant: top1
+  board: fitness-equipment
+  title: "Springfree Trampoline: The Only Trampoline That Actually Eliminates the Spring Injury Risk"
+  description: "The Springfree medium oval puts the bounce rods 30cm below the mat surface and moves the frame outside the jump zone — the two most common trampoline injury mechanisms, eliminated by design. Why it's worth 2-4x the price of spring trampolines."
+  link: "/en/best-trampoline-2026"
+  image_alt: "Springfree trampoline safety springless design review 2026"
+  hashtags: ["SpringfreeTrampoline", "TrampolineSafety", "SafeTrampoline", "KidsOutdoor", "FamilyFitness"]
+
+- id: trampoline-2026-en-problem
+  article_slug: best-trampoline-2026
+  locale: en
+  variant: problem
+  board: fitness-equipment
+  title: "Trampoline Rust, Saggy Mat, Broken Springs: When to Repair vs Replace"
+  description: "Surface rust on the frame, a mat that's lost its tension, springs that bounce unevenly — each has a different fix timeline. Here's exactly what to inspect annually, what to replace first, and when the whole trampoline needs to go."
+  link: "/en/best-trampoline-2026"
+  image_alt: "Trampoline maintenance repair replace rust broken springs mat 2026"
+  hashtags: ["TrampolineMaintenance", "TrampolineRepair", "BackyardTrampoline", "OutdoorEquipment", "FamilyFitness"]
+
+- id: trampoline-2026-en-budget
+  article_slug: best-trampoline-2026
+  locale: en
+  variant: budget
+  board: fitness-equipment
+  title: "Best Budget Trampoline 2026: Skywalker 15ft at $300-500 — What You Give Up vs Springfree"
+  description: "The Skywalker 15ft at $300-500 is the best spring trampoline for most families — 96 springs, net on shared poles, padded spring cover. Here's what you actually give up vs the $1,500+ Springfree, and whether the safety premium is worth it for your situation."
+  link: "/en/best-trampoline-2026"
+  image_alt: "Budget trampoline 2026 Skywalker 15ft vs Springfree safety comparison"
+  hashtags: ["BudgetTrampoline", "SkywalkerTrampoline", "FamilyFitness", "BackyardTrampoline", "TrampolineValue"]
+
+- id: trampoline-2026-en-avoid
+  article_slug: best-trampoline-2026
+  locale: en
+  variant: avoid
+  board: fitness-equipment
+  title: "Trampoline Safety Mistakes That Send Kids to the ER Every Year"
+  description: "Multiple jumpers at once. Jumping without enclosure net. Letting the spring padding degrade. These are the three trampoline safety mistakes behind most trampoline-related ER visits — and exactly how to prevent each one."
+  link: "/en/best-trampoline-2026"
+  image_alt: "Trampoline safety mistakes prevent injury children backyard"
+  hashtags: ["TrampolineSafety", "KidsSafety", "BackyardSafety", "ParentingTips", "TrampolineRules"]
+
+- id: trampoline-2026-en-scene
+  article_slug: best-trampoline-2026
+  locale: en
+  variant: scene
+  board: fitness-equipment
+  title: "The Adult Fitness Case for a Trampoline: Low-Impact Cardio That Doesn't Feel Like Exercise"
+  description: "Rebounding at moderate intensity burns ~400 calories/hour, puts 70% of running's stress on knees, and improves lymphatic circulation. The JumpSport 550f fitness rebounder vs full-size trampolines for adult cardio use — which actually works?"
+  link: "/en/best-trampoline-2026"
+  image_alt: "Adult trampoline fitness rebounder cardio low-impact workout 2026"
+  hashtags: ["TrampolineFitness", "Rebounding", "LowImpactCardio", "JumpSport", "FitnessTrampoline"]
+
+- id: trampoline-2026-ja-comparison
+  article_slug: best-trampoline-2026
+  locale: ja
+  variant: comparison
+  board: fitness-equipment-jp
+  title: "トランポリンおすすめ2026年：スプリングフリーvsスカイウォーカーvsズパパvsジャンプスポート比較"
+  description: "トランポリン比較2026：スプリングレス スプリングフリー ミディアムオーバル vs スカイウォーカー 15ftスプリング vs ズパパ亜鉛めっき 15ft vs ジャンプスポート 550fフィットネスリバウンダー——安全機能・バウンス品質・耐久性・本当に価値があるのはどれか。"
+  link: "/ja/best-trampoline-2026"
+  image_alt: "トランポリンおすすめ2026年比較スプリングフリースカイウォーカーズパパジャンプスポート"
+  hashtags: ["トランポリン", "庭遊び", "子ども外遊び", "ファミリーフィットネス", "スプリングフリー", "トランポリン安全性"]
+
+- id: trampoline-2026-ja-top1
+  article_slug: best-trampoline-2026
+  locale: ja
+  variant: top1
+  board: fitness-equipment-jp
+  title: "スプリングフリー トランポリン：スプリング怪我リスクを本当に排除する唯一のトランポリン"
+  description: "スプリングフリー ミディアムオーバルはバウンスロッドをマット面の30cm下に置き、フレームをジャンプゾーンの外に移動させる——設計によって排除された最も一般的な2つのトランポリン怪我メカニズム。スプリングトランポリンの2〜4倍の価格の価値がある理由。"
+  link: "/ja/best-trampoline-2026"
+  image_alt: "スプリングフリートランポリン安全スプリングレス設計レビュー2026年"
+  hashtags: ["スプリングフリートランポリン", "トランポリン安全性", "安全なトランポリン", "子ども外遊び", "ファミリーフィットネス"]
+
+- id: trampoline-2026-ja-problem
+  article_slug: best-trampoline-2026
+  locale: ja
+  variant: problem
+  board: fitness-equipment-jp
+  title: "トランポリンの錆・マットのたるみ・スプリング切れ：修理 vs 交換の判断基準"
+  description: "フレームの表面錆、張力を失ったマット、不均一に跳ねるスプリング——それぞれ修理のタイムラインが異なる。年次点検で何を確認するか、最初に何を交換するか、トランポリン全体の交換が必要な時期を正確に解説。"
+  link: "/ja/best-trampoline-2026"
+  image_alt: "トランポリンメンテナンス修理交換錆スプリング切れマット2026年"
+  hashtags: ["トランポリンメンテナンス", "トランポリン修理", "庭トランポリン", "屋外遊具", "ファミリーフィットネス"]
+
+- id: trampoline-2026-ja-budget
+  article_slug: best-trampoline-2026
+  locale: ja
+  variant: budget
+  board: fitness-equipment-jp
+  title: "コスパ最強トランポリン2026年：スカイウォーカー 15ft 30,000〜50,000円——スプリングフリーと何が違うか"
+  description: "スカイウォーカー 15ftの30,000〜50,000円はほとんどの家族に最良のスプリングトランポリン——96本スプリング、共有ポールのネット、パッド入りスプリングカバー。150,000円以上のスプリングフリーと比べて実際に何を妥協するか、あなたの状況で安全プレミアムが価値があるか。"
+  link: "/ja/best-trampoline-2026"
+  image_alt: "コスパトランポリン2026年スカイウォーカー15ftvsスプリングフリー安全比較"
+  hashtags: ["コスパトランポリン", "スカイウォーカートランポリン", "ファミリーフィットネス", "庭トランポリン", "トランポリン価値"]
+
+- id: trampoline-2026-ja-avoid
+  article_slug: best-trampoline-2026
+  locale: ja
+  variant: avoid
+  board: fitness-equipment-jp
+  title: "毎年子どもを救急に運ぶトランポリン安全NG行為"
+  description: "複数人同時ジャンプ。囲いネットなしでジャンプ。スプリングパッドの劣化を放置。これらがほとんどのトランポリン関連救急受診の背景にある3つの安全上の失敗——それぞれを防ぐ正確な方法。"
+  link: "/ja/best-trampoline-2026"
+  image_alt: "トランポリン安全NG行為怪我防止子ども庭遊び"
+  hashtags: ["トランポリン安全性", "子どもの安全", "庭の安全", "育児のコツ", "トランポリンルール"]
+
+- id: trampoline-2026-ja-scene
+  article_slug: best-trampoline-2026
+  locale: ja
+  variant: scene
+  board: fitness-equipment-jp
+  title: "大人がトランポリンをフィットネスに使う理由：運動に見えない低衝撃有酸素運動"
+  description: "中程度の強度のリバウンドは1時間約400カロリー消費し、ランニングの膝への負担の70%で、リンパ循環を改善する。大人の有酸素運動用ジャンプスポート 550fフィットネスリバウンダー vs フルサイズトランポリン——実際に機能するのはどちら？"
+  link: "/ja/best-trampoline-2026"
+  image_alt: "大人トランポリンフィットネスリバウンダー有酸素低衝撃ワークアウト2026年"
+  hashtags: ["トランポリンフィットネス", "リバウンド", "低衝撃有酸素運動", "ジャンプスポート", "フィットネストランポリン"]
