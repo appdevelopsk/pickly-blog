@@ -6571,6 +6571,72 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-yes4all-vinyl-kettlebell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All+%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ───────── Fitness / Stationary Bikes (best-stationary-bike-2026) ─────────
+  {
+    id: "schwinn-170-upright-bike",
+    category: "fitness",
+    name: { en: "Schwinn 170 Upright Stationary Bike", ja: "シュウィン 170 アップライトステーショナリーバイク" },
+    description: {
+      en: "Best mid-range upright bike — 25 resistance levels, 29 digital workout programs, 13.3 kg flywheel, Bluetooth to Zwift and Peloton app, dual LCD console. Quiet magnetic resistance. Best fit for users who want structured workout programs without a subscription.",
+      ja: "最良ミッドレンジアップライトバイク——25段階負荷・29デジタルワークアウトプログラム・13.3kgフライホイール・ZwiftとPelotonアプリへのBluetooth対応・デュアルLCDコンソール。静音マグネット抵抗。サブスクリプションなしで構造化ワークアウトを求めるユーザーに最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-schwinn-170-upright-bike", rawUrl: "https://www.amazon.co.jp/s?k=Schwinn+170+Upright+Bike", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-schwinn-170-upright-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSchwinn+170+%E3%82%A2%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%88%E3%83%90%E3%82%A4%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nordictrack-s22i-studio-bike",
+    category: "fitness",
+    name: { en: "NordicTrack S22i Studio Cycle Bike", ja: "ノルディックトラック S22i スタジオサイクルバイク" },
+    description: {
+      en: "Best connected smart bike — 22-inch rotating touchscreen, -10% to +20% incline decline, automatic resistance adjustment during iFit classes, 24.9 kg flywheel, KnoxVault cleat and toe-cage compatible. Requires iFit subscription for full feature access.",
+      ja: "最良コネクテッドスマートバイク——22インチ回転タッチスクリーン・-10%〜+20%傾斜下り対応・iFitクラス中の自動負荷調整・24.9kgフライホイール・KnoxVaultクリートとトゥケージ対応。全機能にiFitサブスクリプションが必要。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-nordictrack-s22i-studio-bike", rawUrl: "https://www.amazon.co.jp/s?k=NordicTrack+S22i+Studio+Bike", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-nordictrack-s22i-studio-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNordicTrack+S22i+%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "peloton-original-bike",
+    category: "fitness",
+    name: { en: "Peloton Original Bike", ja: "ペロトン オリジナルバイク" },
+    description: {
+      en: "Best live-class ecosystem — 21.5-inch HD touchscreen, 100 levels of magnetic resistance, Peloton Membership unlocks 10,000+ live and on-demand classes, auto-follow instructor resistance cues. The strongest community and leaderboard feature of any connected bike.",
+      ja: "最良ライブクラスエコシステム——21.5インチHDタッチスクリーン・100段階マグネット負荷・Pelotonメンバーシップで1万以上のライブ・オンデマンドクラスを解放・インストラクター負荷キューへの自動追従。全コネクテッドバイク中最強のコミュニティとリーダーボード機能。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-peloton-original-bike", rawUrl: "https://www.amazon.co.jp/s?k=Peloton+%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%90%E3%82%A4%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-peloton-original-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPeloton+%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%90%E3%82%A4%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sunny-health-sf-b1002-bike",
+    category: "fitness",
+    name: { en: "Sunny Health & Fitness SF-B1002 Indoor Cycling Bike", ja: "サニーヘルス＆フィットネス SF-B1002 インドアサイクリングバイク" },
+    description: {
+      en: "Best budget indoor cycling bike — 22 kg flywheel, friction resistance via felt pad, four-way adjustable handlebar and saddle, 120 kg max user weight. No screen, no Bluetooth — pure ride feel at the lowest price point in this comparison.",
+      ja: "最良低価格インドアサイクリングバイク——22kgフライホイール・フェルトパッドによる摩擦抵抗・4方向調整可能なハンドルバーとサドル・体重制限120kg。スクリーン・Bluetoothなし——本比較で最低価格の純粋なライド感。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-sunny-health-sf-b1002-bike", rawUrl: "https://www.amazon.co.jp/s?k=Sunny+Health+Fitness+SF-B1002+Indoor+Cycling+Bike", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-sunny-health-sf-b1002-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSunny+Health+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%90%E3%82%A4%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bowflex-c6-bike",
+    category: "fitness",
+    name: { en: "Bowflex C6 Bike", ja: "ボウフレックス C6 バイク" },
+    description: {
+      en: "Best mid-range value pick — 100 micro-adjustable magnetic resistance levels, Bluetooth to Peloton, Zwift, and JRNY apps, backlit LCD console, SPD cleat and toe-cage compatible, dual water bottle holders. Strong connectivity at a fraction of Peloton's price.",
+      ja: "最良ミッドレンジコストパフォーマンス——100段階マイクロ調整可能マグネット負荷・Peloton・Zwift・JRNYアプリへのBluetooth対応・バックライトLCDコンソール・SPDクリートとトゥケージ対応・デュアルウォーターボトルホルダー。Pelotonの価格の一部で強力な接続性。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "amazon-jp-bowflex-c6-bike", rawUrl: "https://www.amazon.co.jp/s?k=Bowflex+C6+Bike", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bowflex-c6-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex+C6+%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%90%E3%82%A4%E3%82%AF%2F", markets: ["JP"], approved: true },
+    ],
+  },
   // ───────── Fitness / Swim Goggles (best-swim-goggles-2026) ─────────
   {
     id: "speedo-vanquisher-2",
@@ -10330,6 +10396,77 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-jp", productId: "B07BGMCX7L", rawUrl: "https://www.amazon.co.jp/dp/B07BGMCX7L", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-nautilus-e616", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNautilus%2BE616%2BElliptical%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ───────── Food / Bread Machines (best-bread-machine-2026) ─────────
+  {
+    id: "zojirushi-bb-pdc20ba-bread-maker",
+    category: "food",
+    badge: "top-pick",
+    name: { en: "Zojirushi BB-PDC20BA Home Bakery Virtuoso Plus", ja: "象印 BB-PDC20BA ホームベーカリー ビルトゥオーゾ プラス" },
+    description: {
+      en: "Two kneading blades and dual heaters on top and bottom produce bakery-quality loaves with an evenly browned crust that covers the full surface including corners — a problem single-blade machines never fully solve. 10 pre-programmed settings, gluten-free cycle, sourdough cycle, and a 13-hour delay timer. 2-pound capacity. The dual-blade design means the baked loaf has two small holes on the bottom; easily hidden once sliced. At 21 × 35 × 39 cm and 7.4 kg, this is a counter-permanent appliance.",
+      ja: "2枚の混練ブレードと上下デュアルヒーターで、角まで均一に焼き色がついたベーカリー品質のパンを実現——シングルブレード機が解決できない問題を克服。10種のプログラム、グルテンフリーサイクル、サワードウサイクル、13時間タイマー付き。900gサイズ対応。デュアルブレード設計のため焼き上がりの底面に穴が2つ開くが、スライスすれば目立たない。21×35×39cm・約7.4kgで常設前提の大型機。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07CNNKHLZ", rawUrl: "https://www.amazon.co.jp/dp/B07CNNKHLZ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-zojirushi-bb-pdc20ba", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZojirushi%2BBread%2BMachine%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-cbk-110p1-bread-maker",
+    category: "food",
+    badge: "compact-pick",
+    name: { en: "Cuisinart CBK-110P1 Compact Automatic Bread Maker", ja: "クイジナート CBK-110P1 コンパクト自動ブレッドメーカー" },
+    description: {
+      en: "12 pre-programmed settings including gluten-free and whole wheat, with 3 crust color options. 2-pound maximum loaf size. 14 × 22 × 30 cm footprint is among the smallest in this category — fits a kitchen counter without monopolizing it. 13-hour delay timer, 60-minute keep-warm. Single kneading blade produces a characteristic hole in the loaf bottom; a minor visual issue that doesn't affect taste or texture.",
+      ja: "グルテンフリー・全粒粉を含む12プログラム、3段階の焼き色選択。最大900g対応。14×22×30cmのフットプリントはこのカテゴリで最小クラス——キッチンカウンターを独占しない。13時間タイマー・60分保温機能付き。シングルブレードのため焼き上がりの底に穴が開くが、味や食感への影響はなし。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01N6634KH", rawUrl: "https://www.amazon.co.jp/dp/B01N6634KH", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cuisinart-cbk-110p1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BBread%2BMaker%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hamilton-beach-29882-bread-maker",
+    category: "food",
+    badge: "budget-pick",
+    name: { en: "Hamilton Beach 2-Pound Digital Bread Maker 29882", ja: "ハミルトンビーチ 2ポンド デジタルブレッドメーカー 29882" },
+    description: {
+      en: "14 settings covering white, whole wheat, French, sweet, gluten-free, and a jam cycle. 2-pound maximum. Digital display with a programmable 15-hour delay timer. At this price point it undercuts the Cuisinart CBK-110 by a meaningful margin while delivering comparable loaf quality — the crust doesn't brown as evenly at the very corners but the crumb structure is indistinguishable in a blind taste test. Best for households where bread baking is occasional rather than a weekly ritual.",
+      ja: "食パン・全粒粉・フランスパン・スイート・グルテンフリー・ジャムを含む14設定。最大900g対応。15時間タイマー付きデジタルディスプレイ。クイジナートCBK-110より低価格ながらパン品質は同等——角の焼き色がわずかに薄いが、ブラインドテストでは中身の差はわからない。週1回以上ではなく時々パンを焼く家庭に最適。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B00CMB6R4M", rawUrl: "https://www.amazon.co.jp/dp/B00CMB6R4M", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hamilton-beach-29882", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2BBread%2BMaker%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oster-expressbake-bread-maker",
+    category: "food",
+    badge: "fast-pick",
+    name: { en: "Oster CKSTBR9050-NP Expressbake Bread Maker", ja: "オスター CKSTBR9050-NP エクスプレスベイク ブレッドメーカー" },
+    description: {
+      en: "The Expressbake setting produces a 1.5-pound loaf in 58 minutes using rapid-rise yeast — about 2.5 hours faster than standard white bread cycles. 12 settings, 3 crust shades, 2-pound capacity for standard cycles. The speed comes with a trade-off: the crumb on Expressbake loaves is slightly denser and the top crust is less even than the same recipe run on a full cycle. Still useful when you realize at 6pm that there's no bread for dinner.",
+      ja: "エクスプレスベイク設定でインスタントイーストを使い700gのパンを58分で焼き上げる——通常の食パンサイクルより約2.5時間短縮。12設定・3段階焼き色・900g通常容量。スピードとのトレードオフとして、エクスプレスで焼いたパンは通常サイクルより気泡がやや詰まり、天面の焼き色が若干不均一。それでも夜6時にパンがないと気づいたときには頼れる機能。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B004T6NH02", rawUrl: "https://www.amazon.co.jp/dp/B004T6NH02", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-oster-expressbake-ckstbr9050", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOster%2BExpressbake%2BBread%2BMaker%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-sd-b2510-bread-maker",
+    category: "food",
+    badge: "yeast-dispenser-pick",
+    name: { en: "Panasonic SD-B2510 Automatic Bread Maker", ja: "パナソニック SD-B2510 ホームベーカリー" },
+    description: {
+      en: "Automatic yeast dispenser drops dry yeast into the dough at the precise moment during the cycle — eliminating the timing problem where yeast added too early activates in a warm environment before the dough is ready. 20 programmes including sourdough, pizza dough, rice bread, and cake. 1-pound to 1.5-pound loaf size. The automatic dispenser is the single feature that separates Panasonic from competitors at this price; without it, you load ingredients manually and the window for yeast timing error is real.",
+      ja: "自動イーストディスペンサーがサイクル中の最適なタイミングでドライイーストを投入——早すぎる投入でイーストが事前活性化してしまう問題を解消。サワードウ・ピザ生地・米粉パン・ケーキを含む20プログラム。450g〜700gサイズ対応。自動ディスペンサーがこの価格帯でパナソニックを競合と差別化する唯一の機能；なければ材料を手動で投入し、イーストのタイミングを失敗するリスクは現実にある。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B007K7MKNO", rawUrl: "https://www.amazon.co.jp/dp/B007K7MKNO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-panasonic-sd-b2510", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPanasonic%2BBread%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
 ];
