@@ -13017,6 +13017,148 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-titan-trainer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
+  // ── best-burr-grinder-under-100-2026 ────────────────────────────────────
+  {
+    id: "baratza-encore-burr-grinder",
+    category: "food",
+    badge: "☕",
+    name: { en: "Baratza Encore Burr Grinder", ja: "Baratza Encore バーグラインダー" },
+    description: {
+      en: "~$140-160 (often on sale ~$130). 40mm conical steel burrs, 40 settings, repairable. Benchmark entry grinder — covers all non-espresso methods, 10+ year lifespan. Slightly above $100 but best value overall.",
+      ja: "約1万8千〜2万2千円（セール時〜1万9千円）。40mmコニカルスチールバー、40設定、修理可能。基準エントリーグラインダー——全非エスプレッソ方法をカバー、10年以上の寿命。1万円の閾値をわずかに超えるが全体的に最高の価値。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000D2K6VK", rawUrl: "https://www.amazon.co.jp/dp/B000D2K6VK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-baratza-encore", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBaratza+Encore%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oxo-brew-conical-burr-grinder",
+    category: "food",
+    badge: "☕",
+    name: { en: "OXO Brew Conical Burr Grinder", ja: "OXO Brew コニカルバーグラインダー" },
+    description: {
+      en: "~$80-100. 15 settings, integrated scale, stainless conical burrs. Best sub-$100 electric grinder — built-in scale for weight dosing, quiet motor. Covers all drip-to-French press methods.",
+      ja: "約1万1千〜1万5千円。15設定、一体型スケール、ステンレスコニカルバー。最高の1万円以下電動グラインダー——内蔵スケールで重量ドーシング、静かなモーター。ドリップからフレンチプレスまですべての方法をカバー。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07CSKGLMM", rawUrl: "https://www.amazon.co.jp/dp/B07CSKGLMM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-oxo-grinder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO+Brew+%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "capresso-infinity-plus",
+    category: "food",
+    badge: "☕",
+    name: { en: "Capresso Infinity Plus Burr Grinder", ja: "Capresso Infinity Plus バーグラインダー" },
+    description: {
+      en: "~$75-100. 16 settings, slow 450 RPM motor, stainless conical burrs. Best low-static grinder — slow speed reduces heat and clumping. Timer dosing. Solid grind quality for the price.",
+      ja: "約1万〜1万5千円。16設定、低速450 RPMモーター、ステンレスコニカルバー。最高の低静電気グラインダー——低速が熱と塊を減少。タイマードーシング。価格に対して確かな挽き目品質。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B0018MTKFM", rawUrl: "https://www.amazon.co.jp/dp/B0018MTKFM", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-capresso-infinity", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCapresso+%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bodum-bistro-burr-grinder",
+    category: "food",
+    badge: "☕",
+    name: { en: "Bodum Bistro Burr Coffee Grinder", ja: "Bodum Bistro バーコーヒーグラインダー" },
+    description: {
+      en: "~$50-80. 12 settings, glass grounds container (reduces static), conical steel burrs. Entry-level budget grinder — fewest settings, lightest construction. Correct for first-time burr grinder buyers at minimum price.",
+      ja: "約7,000〜1万2千円。12設定、ガラス粉末コンテナ（静電気減少）、コニカルスチールバー。エントリーレベル予算グラインダー——最小設定数、最も軽い構造。最低価格でのバーグラインダー初心者購入者に正しい選択。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B071NF9CHZ", rawUrl: "https://www.amazon.co.jp/dp/B071NF9CHZ", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-bodum-bistro-grinder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBodum+Bistro+%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "javapresse-manual-burr-grinder",
+    category: "food",
+    badge: "☕",
+    name: { en: "JavaPresse Manual Burr Grinder", ja: "JavaPresse 手動バーグラインダー" },
+    description: {
+      en: "~$25-40. Ceramic conical burrs, adjustable settings, hand crank. Best manual burr grinder — consistent grind, travel-ready, no power. ~1-2 min per cup by hand. For travel, camping, or low-volume daily use.",
+      ja: "約3,500〜6,000円。セラミックコニカルバー、調整可能設定、手回しハンドル。最高の手動バーグラインダー——一貫した挽き目・旅行対応・電源不要。手動で1カップ約1〜2分。旅行・キャンプ・少量毎日使用に。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B013R3Q7B2", rawUrl: "https://www.amazon.co.jp/dp/B013R3Q7B2", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-javapresse-grinder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%89%8B%E5%8B%95%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  // ── best-glute-machine-2026 ─────────────────────────────────────────────
+  {
+    id: "hip-thrust-machine-by-prime-fitness",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Prime Fitness Hip Thrust Machine", ja: "Prime Fitness ヒップスラストマシン" },
+    description: {
+      en: "~$800-1,200. Purpose-built hip thrust station, padded lever arm, back pad height adjustment. Eliminates setup time, comfortable. Specialty purchase for glute-focused gyms — same stimulus as barbell + bench at much higher cost.",
+      ja: "約12万〜17万円。専用ヒップスラストステーション、パッド付きレバーアーム、バックパッド高さ調整。セットアップ時間を排除、快適。グルートフォーカスジムへの専門購入——バーベル+ベンチと同じ刺激をはるかに高いコストで。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B09KQRWCJV", rawUrl: "https://www.amazon.co.jp/dp/B09KQRWCJV", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hip-thrust-machine", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88%E3%83%9E%E3%82%B7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "glute-ham-developer-by-rep-fitness",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "REP Fitness Glute-Ham Developer (GHD)", ja: "REP Fitness グルートハムデベロッパー（GHD）" },
+    description: {
+      en: "~$400-600. Glute-ham raises, back extensions, hyperextensions. Best posterior chain machine — trains hamstrings through both functions simultaneously. For comprehensive posterior chain work without a leg curl machine.",
+      ja: "約5万5千〜8万5千円。グルートハムレイズ・バックエクステンション・ハイパーエクステンション。最高の後方連鎖マシン——ハムストリングを両機能で同時にトレーニング。レッグカールマシンなしの包括的な後方連鎖作業に。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B07GDS72WS", rawUrl: "https://www.amazon.co.jp/dp/B07GDS72WS", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-ghd-machine", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%88%E3%83%8F%E3%83%A0%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hip-abductor-machine-by-body-solid",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Body-Solid Hip Abductor Machine", ja: "Body-Solid ヒップアブダクターマシン" },
+    description: {
+      en: "~$500-800. Seated hip abduction, loads gluteus medius and minimus. Commercial quality for home use. Improves knee stability. Resistance bands provide similar stimulus at much lower cost for most athletes.",
+      ja: "約7万〜12万円。シーテッドヒップアブダクション、中臀筋と小臀筋をロード。ホーム使用の商業品質。膝の安定性改善。レジスタンスバンドがほとんどのアスリートにはるかに低いコストで同様の刺激を提供。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000G5RTVO", rawUrl: "https://www.amazon.co.jp/dp/B000G5RTVO", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hip-abductor", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%A2%E3%83%96%E3%83%80%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%B7%E3%83%B3%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cable-pull-through-setup",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Cable Pull-Through Setup (Rope Attachment)", ja: "ケーブルプルスルー設定（ロープアタッチメント）" },
+    description: {
+      en: "~$20-30 (rope attachment only). Best cable glute exercise — constant tension through full hip extension. No additional machine if you have a cable machine. Most cost-effective targeted glute loading option.",
+      ja: "約3千〜4,500円（ロープアタッチメントのみ）。最高のケーブルグルートエクササイズ——全股関節伸展で一定のテンション。ケーブルマシンがあれば追加マシン不要。最もコスト効率の高いターゲットグルートローディングオプション。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B000VB6SOU", rawUrl: "https://www.amazon.co.jp/dp/B000VB6SOU", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-cable-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%2F", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hip-circle-band-by-sling-shot",
+    category: "fitness",
+    badge: "💪",
+    name: { en: "Sling Shot Hip Circle Band", ja: "Sling Shot ヒップサークルバンド" },
+    description: {
+      en: "~$25-35. Resistance band loop worn above knees. Increases glute medius activation during squats, hip thrusts, and lateral walks. Effective warm-up tool. Meaningful glute stimulus at negligible cost.",
+      ja: "約3,500〜5,000円。膝の上に着用するレジスタンスバンドループ。スクワット・ヒップスラスト・ラテラルウォーク中の中臀筋活性化を増加。効果的なウォームアップツール。取るに足らないコストで意味のあるグルート刺激。",
+    },
+    links: [
+      { network: "amazon-jp", productId: "B01DKQT2SK", rawUrl: "https://www.amazon.co.jp/dp/B01DKQT2SK", markets: ["JP"], approved: true },
+      { network: "moshimo", productId: "rakuten-hip-circle-band", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
+    ],
+  },
 ];
 
 /**
