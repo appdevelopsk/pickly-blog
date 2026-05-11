@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 250 articles x 6 variants x 2 locales (en, ja) = 3000 pins (growing)
+# 241 articles x 6 variants x 2 locales (en, ja) = 2892 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -31615,4 +31615,174 @@ pins:
   title: "夜トレーニングするならスティムフリーのプレワークアウトが必要"
   description: "カフェインの半減期は5〜6時間。午後4時のプレワークアウトが午後10時まで影響。Legion Pulseスティムフリーはシトルリンとベータアラニンとベタインの全量を睡眠を乱さずに届ける。"
   image: /og/best-pre-workout-supplement-2026-ja.png
+  board: fitness-ja
+# --- batch #256: best-dark-chocolate-2026 (food) ---
+- url: https://pickly.blog/en/articles/best-dark-chocolate-2026/
+  locale: en
+  variant: comparison
+  title: "Best Dark Chocolate 2026: 5 Bars Ranked by Taste and Sourcing"
+  description: "Lindt 90%, Ghirardelli 86%, Green & Black's Organic, Theo bean-to-bar, Alter Eco vegan. Real cocoa quality tested — not just marketing."
+  image: /og/best-dark-chocolate-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/articles/best-dark-chocolate-2026/
+  locale: en
+  variant: top1
+  title: "Lindt 90% Cocoa Is Still the Best Everyday Dark Chocolate"
+  description: "Four ingredients: cocoa mass, cocoa butter, sugar, bourbon vanilla. No lecithin, no vanillin. Slow even melt with sustained bitterness that doesn't turn astringent."
+  image: /og/best-dark-chocolate-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/articles/best-dark-chocolate-2026/
+  locale: en
+  variant: problem
+  title: "Why Most Dark Chocolate Is Disappointing (And How to Fix It)"
+  description: "Buying on cacao % alone misses everything. Short ingredient lists reveal quality. Vanillin and PGPR signal low-grade cacao being masked — here's how to spot it."
+  image: /og/best-dark-chocolate-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/articles/best-dark-chocolate-2026/
+  locale: en
+  variant: budget
+  title: "Ghirardelli 86% vs Lindt 90%: Which Dark Chocolate Is Worth It?"
+  description: "Ghirardelli hits the grocery store shelf, melts well in baking, and works perfectly for everyday snacking. Lindt goes one step further with a four-ingredient list."
+  image: /og/best-dark-chocolate-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/articles/best-dark-chocolate-2026/
+  locale: en
+  variant: avoid
+  title: "Dark Chocolate Mistakes: What to Avoid When Buying"
+  description: "Vanillin instead of vanilla, PGPR instead of cocoa butter, undisclosed origin — these shortcuts signal cheap cacao. Here's how to read the label in 30 seconds."
+  image: /og/best-dark-chocolate-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/articles/best-dark-chocolate-2026/
+  locale: en
+  variant: scene
+  title: "The Best Dark Chocolate for Gifting, Baking, and Daily Snacking"
+  description: "Gifting: Theo or Green & Black's with their origin stories. Baking: Ghirardelli 86%. Daily 20g square habit: Lindt 90%. Each use case has a clear answer."
+  image: /og/best-dark-chocolate-2026-en.png
+  board: food-en
+- url: https://pickly.blog/ja/articles/best-dark-chocolate-2026/
+  locale: ja
+  variant: comparison
+  title: "ダークチョコレートのおすすめ5選【2026年版】カカオ85〜90%比較"
+  description: "リンツ90%・ギラデリ86%・グリーン＆ブラックス・テオ・オルターエコを比較。風味・産地・原材料の品質で厳選。"
+  image: /og/best-dark-chocolate-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/articles/best-dark-chocolate-2026/
+  locale: ja
+  variant: top1
+  title: "日常使いのダークチョコはリンツ90%が最善解"
+  description: "原材料は4つだけ：カカオマス・カカオバター・砂糖・バーボンバニラ。レシチン・バニリンなし。ゆっくり均一に溶け、渋みに転じない持続する苦みの余韻。"
+  image: /og/best-dark-chocolate-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/articles/best-dark-chocolate-2026/
+  locale: ja
+  variant: problem
+  title: "ダークチョコがおいしくない理由はカカオ%だけで選ぶから"
+  description: "数値は固形分比率を示すだけ。バニリンやPGPRが並ぶ原材料リストは低品質カカオのサイン。30秒でラベルを読む方法。"
+  image: /og/best-dark-chocolate-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/articles/best-dark-chocolate-2026/
+  locale: ja
+  variant: budget
+  title: "ギラデリ86% vs リンツ90%：どちらが買い？"
+  description: "ギラデリはスーパーで手に入り、製菓での溶けも優秀。リンツは4原材料でワンランク上の純粋さ。用途別に使い分けるのが正解。"
+  image: /og/best-dark-chocolate-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/articles/best-dark-chocolate-2026/
+  locale: ja
+  variant: avoid
+  title: "ダークチョコを買うときの失敗パターン"
+  description: "バニリン・PGPR・産地非公開は低品質カカオを隠しているサイン。有機・フェアトレード認証がある方が安心。ラベルの正しい読み方を解説。"
+  image: /og/best-dark-chocolate-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/articles/best-dark-chocolate-2026/
+  locale: ja
+  variant: scene
+  title: "ギフト・製菓・毎日の20gスナック、用途別のおすすめダークチョコ"
+  description: "ギフト：テオかグリーン＆ブラックス（産地のストーリーあり）。製菓：ギラデリ86%。毎日の1かけ習慣：リンツ90%。用途ごとに明確な答えがある。"
+  image: /og/best-dark-chocolate-2026-ja.png
+  board: food-ja
+# --- batch #257: best-glute-resistance-bands-2026 (fitness) ---
+- url: https://pickly.blog/en/articles/best-glute-resistance-bands-2026/
+  locale: en
+  variant: comparison
+  title: "Best Glute Resistance Bands 2026: 5 That Actually Stay in Place"
+  description: "Victorem fabric, Fit Simplify latex, Peach Bands, TheraBand PT-grade, Gymshark premium. Fabric vs. latex explained for hip thrusts and squats."
+  image: /og/best-glute-resistance-bands-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/articles/best-glute-resistance-bands-2026/
+  locale: en
+  variant: top1
+  title: "Victorem Fabric Bands: The Glute Band That Won't Roll Mid-Set"
+  description: "Wide fabric construction, silicone grip that works on both gym shorts and leggings, three clearly differentiated resistance levels. Survives heavy washing."
+  image: /og/best-glute-resistance-bands-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/articles/best-glute-resistance-bands-2026/
+  locale: en
+  variant: problem
+  title: "Why Your Resistance Band Keeps Rolling During Hip Thrusts"
+  description: "Thin latex loops lack surface contact to stay stable at the thigh. The fix is a fabric band wider than 8cm. Here's which ones actually hold through explosive reps."
+  image: /og/best-glute-resistance-bands-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/articles/best-glute-resistance-bands-2026/
+  locale: en
+  variant: budget
+  title: "Fit Simplify 5-Band Set: The Budget Glute Band That Delivers"
+  description: "Extra-light to extra-heavy, color-coded latex loops. Perfect for clamshells, lateral walks, and varied activation work. Rolls slightly on hip thrusts — the tradeoff for under $15."
+  image: /og/best-glute-resistance-bands-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/articles/best-glute-resistance-bands-2026/
+  locale: en
+  variant: avoid
+  title: "Glute Band Mistakes That Kill Your Progress"
+  description: "Wrong: thin latex loop placed at the thigh for hip thrusts. Wrong: buying only one resistance level. Right: wide fabric band + 2-3 resistance levels matched to your exercises."
+  image: /og/best-glute-resistance-bands-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/articles/best-glute-resistance-bands-2026/
+  locale: en
+  variant: scene
+  title: "Glute Bands for Home Gym, PT Recovery, and Heavy Hip Thrusts"
+  description: "Home gym activation: Victorem or Peach Bands. PT-prescribed resistance work: TheraBand. Premium daily driver: Gymshark. One band won't cover every use case."
+  image: /og/best-glute-resistance-bands-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/ja/articles/best-glute-resistance-bands-2026/
+  locale: ja
+  variant: comparison
+  title: "グルートバンドのおすすめ5選【2026年版】ずれないバンド比較"
+  description: "Victoremファブリック・Fit Simplifyラテックス・Peach Bands・セラバンド・ジムシャークを比較。ヒップスラストとスクワットでファブリック vs ラテックスを検証。"
+  image: /og/best-glute-resistance-bands-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/articles/best-glute-resistance-bands-2026/
+  locale: ja
+  variant: top1
+  title: "Victoremファブリックバンド：セット中にずれないグルートバンド"
+  description: "幅広ファブリック構造、ショートパンツもレギンスも両対応の滑り止めグリップ、明確に差別化された3段階の負荷。洗濯を繰り返しても耐久性が落ちない。"
+  image: /og/best-glute-resistance-bands-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/articles/best-glute-resistance-bands-2026/
+  locale: ja
+  variant: problem
+  title: "ヒップスラスト中にバンドがずれる理由と対策"
+  description: "細いラテックスループは太もも付近での接触面積が足りず安定しない。8cm以上の幅広ファブリックバンドに替えるだけで解決。爆発的なレップでも保持できるバンドを紹介。"
+  image: /og/best-glute-resistance-bands-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/articles/best-glute-resistance-bands-2026/
+  locale: ja
+  variant: budget
+  title: "Fit Simplify 5本セット：1,500円で買えるグルートバンドの最適解"
+  description: "極軽〜極重までカラーコード付きラテックスバンド。クラムシェル・レイテラルウォーク・アクティベーションに最適。ヒップスラストでは若干ずれる——低価格のトレードオフ。"
+  image: /og/best-glute-resistance-bands-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/articles/best-glute-resistance-bands-2026/
+  locale: ja
+  variant: avoid
+  title: "グルートバンドの失敗：やりがちなミスと正しい使い方"
+  description: "NG：ヒップスラストに細いラテックスループを太もも付近で使う。NG：負荷が1段階しかない。正解：幅広ファブリック＋エクササイズ別に2〜3段階の負荷を用意。"
+  image: /og/best-glute-resistance-bands-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/articles/best-glute-resistance-bands-2026/
+  locale: ja
+  variant: scene
+  title: "用途別グルートバンドの選び方：ホームジム・リハビリ・ヘビーヒップスラスト"
+  description: "ホームジムのアクティベーション：VictoremかPeach Bands。PT処方のリハビリ：セラバンド。毎日使うプレミアム：ジムシャーク。一本でカバーはできない。"
+  image: /og/best-glute-resistance-bands-2026-ja.png
   board: fitness-ja
