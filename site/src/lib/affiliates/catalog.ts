@@ -16039,6 +16039,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "amazon-us", productId: "B006FIVZGI", rawUrl: "https://www.amazon.com/dp/B006FIVZGI", markets: ["US"], approved: true },
     ],
   },
+  // best-lemon-ginger-tea-2026
+  {
+    id: "celestial-seasonings-lemon-ginger",
+    category: "food",
+    badge: "Best Overall Lemon Ginger Tea",
+    name: { en: "Celestial Seasonings Lemon Ginger Tea", ja: "セレスティアルシーズニングス レモンジンジャーティー" },
+    description: { en: "Balanced lemon ginger tea with genuine botanical lemon from lemongrass and lemon myrtle — consistent flavor for daily use", ja: "レモングラスとレモンマートルからの本物の植物性レモンを持つバランスのとれたレモンジンジャーティー——毎日の使用に一貫した風味" },
+    links: [
+      { network: "amazon-jp", productId: "B000GG90FK", rawUrl: "https://www.amazon.co.jp/dp/B000GG90FK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GG90FK", rawUrl: "https://www.amazon.com/dp/B000GG90FK", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "traditional-medicinals-lemon-ginger",
+    category: "food",
+    badge: "Best Medicinal-Grade Lemon Ginger",
+    name: { en: "Traditional Medicinals Lemon Ginger Tea", ja: "トラディショナルメディシナルズ レモンジンジャー" },
+    description: { en: "Whole-root organic ginger with real lemon peel and citrus extracts — high intensity for therapeutic use", ja: "本物のレモンの皮と柑橘エキスを持つ全根オーガニックショウガ——治療的使用のための高強度" },
+    links: [
+      { network: "amazon-jp", productId: "B000FNDESQ", rawUrl: "https://www.amazon.co.jp/dp/B000FNDESQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000FNDESQ", rawUrl: "https://www.amazon.com/dp/B000FNDESQ", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "bigelow-lemon-ginger-herbal",
+    category: "food",
+    badge: "Best Value Lemon Ginger Tea",
+    name: { en: "Bigelow Lemon Ginger Herbal Tea", ja: "ビゲロー レモンジンジャー ハーブティー" },
+    description: { en: "Foil-wrapped lemon ginger tea with tart citrus character and consistent quality for high-volume households", ja: "アルミホイル包装のタルトな柑橘キャラクターと高消費家庭への一貫した品質のレモンジンジャーティー" },
+    links: [
+      { network: "amazon-jp", productId: "B000GG90IO", rawUrl: "https://www.amazon.co.jp/dp/B000GG90IO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GG90IO", rawUrl: "https://www.amazon.com/dp/B000GG90IO", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "yogi-ginger-lemon",
+    category: "food",
+    badge: "Best Spice-Forward Lemon Ginger",
+    name: { en: "Yogi Ginger Lemon Tea", ja: "ヨギ ジンジャーレモン" },
+    description: { en: "Ginger-dominant lemon ginger blend with black pepper for absorption — warming morning tea or post-meal digestive", ja: "吸収のための黒胡椒を持つショウガ主体のレモンジンジャーブレンド——温かい朝のティーまたは食後の消化補助" },
+    links: [
+      { network: "amazon-jp", productId: "B000FOUHJG", rawUrl: "https://www.amazon.co.jp/dp/B000FOUHJG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000FOUHJG", rawUrl: "https://www.amazon.com/dp/B000FOUHJG", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "harney-sons-lemon-ginger",
+    category: "food",
+    badge: "Best Premium Lemon Ginger Tea",
+    name: { en: "Harney & Sons Lemon Ginger Tea", ja: "ハーニー＆サンズ レモンジンジャーティー" },
+    description: { en: "Specialty-sourced whole-piece dried ginger with lemon myrtle leaf in biodegradable pyramid sachets", ja: "生分解可能なピラミッドサッシェに入った専門的に調達された全粒乾燥ショウガとレモンマートルの葉" },
+    links: [
+      { network: "amazon-jp", productId: "B07G35DC7X", rawUrl: "https://www.amazon.co.jp/dp/B07G35DC7X", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07G35DC7X", rawUrl: "https://www.amazon.com/dp/B07G35DC7X", markets: ["US"], approved: true },
+    ],
+  },
+  // best-badminton-racket-2026
+  {
+    id: "yonex-astrox-88d-pro",
+    category: "fitness",
+    badge: "Best Doubles/Smash Racket",
+    name: { en: "Yonex Astrox 88D Pro", ja: "ヨネックス アストロクス88D プロ" },
+    description: { en: "Head-heavy extra-stiff doubles racket with Namd graphite for maximum smash power and steep angle shuttles", ja: "最大スマッシュパワーと急峻角のシャトルのためのNamdグラファイトを持つヘッドヘビー超硬ダブルスラケット" },
+    links: [
+      { network: "amazon-jp", productId: "B09TWHVDGZ", rawUrl: "https://www.amazon.co.jp/dp/B09TWHVDGZ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09TWHVDGZ", rawUrl: "https://www.amazon.com/dp/B09TWHVDGZ", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "yonex-nanoflare-800",
+    category: "fitness",
+    badge: "Best Singles/Speed Racket",
+    name: { en: "Yonex Nanoflare 800", ja: "ヨネックス ナノフレア800" },
+    description: { en: "Head-light aerodynamic singles racket for fast recovery, long rallies, and precise net play", ja: "素早いリカバリー・長いラリー・精確なネットプレーのためのヘッドライト空力シングルスラケット" },
+    links: [
+      { network: "amazon-jp", productId: "B0983Y1MXK", rawUrl: "https://www.amazon.co.jp/dp/B0983Y1MXK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0983Y1MXK", rawUrl: "https://www.amazon.com/dp/B0983Y1MXK", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "victor-thruster-k-9900",
+    category: "fitness",
+    badge: "Best Premium Alternative to Yonex",
+    name: { en: "Victor Thruster K 9900", ja: "ビクター スラスターK 9900" },
+    description: { en: "Competition-level head-heavy doubles racket with Pyrofil carbon at lower cost than equivalent Yonex flagship", ja: "ヨネックスの同等フラッグシップより低コストのPyrofilカーボンを持つ競技レベルのヘッドヘビーダブルスラケット" },
+    links: [
+      { network: "amazon-jp", productId: "B07BQGQKW7", rawUrl: "https://www.amazon.co.jp/dp/B07BQGQKW7", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BQGQKW7", rawUrl: "https://www.amazon.com/dp/B07BQGQKW7", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "yonex-arcsaber-11",
+    category: "fitness",
+    badge: "Best All-Around Control Racket",
+    name: { en: "Yonex Arcsaber 11", ja: "ヨネックス アークセイバー11" },
+    description: { en: "Even-balanced medium-stiff control racket for consistent placement and versatile singles/doubles play", ja: "一貫した配置と多目的なシングルス/ダブルスプレーのための均等バランスのミディアムハードコントロールラケット" },
+    links: [
+      { network: "amazon-jp", productId: "B005P1Y2DE", rawUrl: "https://www.amazon.co.jp/dp/B005P1Y2DE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B005P1Y2DE", rawUrl: "https://www.amazon.com/dp/B005P1Y2DE", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "yonex-duora-10",
+    category: "fitness",
+    badge: "Best Two-Sided Design Racket",
+    name: { en: "Yonex Duora 10", ja: "ヨネックス デュオラ10" },
+    description: { en: "Asymmetric frame with different forehand/backhand geometries for optimized power and quick drive shots", ja: "最適化されたパワーと素早いドライブショットのための異なるフォアハンド/バックハンド形状を持つ非対称フレーム" },
+    links: [
+      { network: "amazon-jp", productId: "B01FXKFPV4", rawUrl: "https://www.amazon.co.jp/dp/B01FXKFPV4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01FXKFPV4", rawUrl: "https://www.amazon.com/dp/B01FXKFPV4", markets: ["US"], approved: true },
+    ],
+  },
   // best-wrestling-shoes-2026
   {
     id: "asics-cael-v9-wrestling",
