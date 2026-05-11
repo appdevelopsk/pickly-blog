@@ -28,9 +28,23 @@ export interface BuildOptions {
   env?: EnvLookup;
 }
 
+const AMAZON_TAG_ENV: Partial<Record<AspNetwork, string>> = {
+  "amazon-jp": "AFFILIATE_AMAZON_TAG_JP",
+  "amazon-us": "AFFILIATE_AMAZON_TAG_US",
+  "amazon-uk": "AFFILIATE_AMAZON_TAG_UK",
+  "amazon-de": "AFFILIATE_AMAZON_TAG_DE",
+};
+
 export function buildAffiliateUrl({ link, env = defaultEnv }: BuildOptions): string {
-  // rawUrl 優先（もしも・A8等は専用リンクを返すケースあり）
-  if (link.rawUrl) return link.rawUrl;
+  if (link.rawUrl) {
+    // Amazonネットワークの場合: rawUrlにアフィリエイトタグを注入する
+    const tagEnvKey = AMAZON_TAG_ENV[link.network];
+    if (tagEnvKey) {
+      const tag = env(tagEnvKey);
+      if (tag) return injectAmazonTag(link.rawUrl, tag);
+    }
+    return link.rawUrl;
+  }
 
   const builders: Record<AspNetwork, (id: string, e: EnvLookup) => string> = {
     "amazon-jp": (id, e) => amazon(id, e("AFFILIATE_AMAZON_TAG_JP"), "amazon.co.jp"),
@@ -54,4 +68,14 @@ export function buildAffiliateUrl({ link, env = defaultEnv }: BuildOptions): str
 function amazon(asin: string, tag: string | undefined, host: string): string {
   const t = tag ?? "PENDING";
   return `https://www.${host}/dp/${asin}?tag=${t}`;
+}
+
+function injectAmazonTag(rawUrl: string, tag: string): string {
+  try {
+    const u = new URL(rawUrl);
+    u.searchParams.set("tag", tag);
+    return u.toString();
+  } catch {
+    return rawUrl;
+  }
 }
