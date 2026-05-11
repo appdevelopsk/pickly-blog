@@ -6,6 +6,8 @@ import { CATALOG } from "@/lib/affiliates/catalog";
 import { ArticleBody } from "@/components/articles/ArticleBody";
 import type { ArticleContent } from "@/lib/articles/types";
 
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
+
 export function generateStaticParams() {
   const params: { locale: string; slug: string }[] = [];
   for (const locale of LOCALES) {
@@ -20,13 +22,12 @@ interface Props {
   params: Promise<{ locale: string; slug: string }>;
 }
 
-// Safely call t.raw() — returns undefined instead of throwing on missing keys.
 function safeRaw(t: Awaited<ReturnType<typeof getTranslations>>, key: string): unknown {
-  try {
-    return t.raw(key);
-  } catch {
-    return undefined;
-  }
+  try { return t.raw(key); } catch { return undefined; }
+}
+
+function safeT(t: Awaited<ReturnType<typeof getTranslations>>, key: string, fallback = ""): string {
+  try { return t(key); } catch { return fallback; }
 }
 
 export default async function ArticlePage({ params }: Props) {
@@ -37,10 +38,6 @@ export default async function ArticlePage({ params }: Props) {
 
   const t = await getTranslations();
 
-  // Build sections from whichever format the article uses:
-  // 1. sections[] with { heading, paragraphs[] }  — new format
-  // 2. sections[] with { offerId, title, body }    — legacy format
-  // 3. products{} + buyingGuide{}                 — comparison format
   const rawSections = safeRaw(t, `articles.${slug}.sections`);
   let sections: ArticleContent["sections"] = [];
 
@@ -49,13 +46,10 @@ export default async function ArticlePage({ params }: Props) {
       heading: (s.heading ?? s.title ?? "") as string,
       paragraphs: Array.isArray(s.paragraphs)
         ? (s.paragraphs as string[])
-        : s.body
-          ? [s.body as string]
-          : [],
+        : s.body ? [s.body as string] : [],
       subsections: s.subsections as ArticleContent["sections"][number]["subsections"],
     }));
   } else {
-    // Comparison format: build sections from products + buyingGuide
     const rawProducts = safeRaw(t, `articles.${slug}.products`) as Record<string, Record<string, string>> | undefined;
     const rawGuide = safeRaw(t, `articles.${slug}.buyingGuide`) as Record<string, unknown> | undefined;
 
@@ -74,24 +68,15 @@ export default async function ArticlePage({ params }: Props) {
     if (rawGuide) {
       const factors = rawGuide.factors as Array<{ name: string; detail: string }> | undefined;
       if (Array.isArray(factors) && factors.length > 0) {
-        const guideTitle = (rawGuide.title ?? "") as string;
-        const guideIntro = (rawGuide.intro ?? "") as string;
         sections.push({
-          heading: guideTitle,
-          paragraphs: guideIntro ? [guideIntro] : [],
-          subsections: factors.map((f) => ({
-            heading: f.name,
-            paragraphs: [f.detail],
-          })),
+          heading: (rawGuide.title ?? "") as string,
+          paragraphs: (rawGuide.intro as string) ? [rawGuide.intro as string] : [],
+          subsections: factors.map((f) => ({ heading: f.name, paragraphs: [f.detail] })),
         });
       }
     }
   }
 
-  // Build faqs from whichever format the article uses:
-  // 1. faqs[] with { q, a }              — new format
-  // 2. faqs[] with { question, answer }  — legacy format
-  // 3. faq[] with { question, answer }   — comparison format
   const rawFaqsNew = safeRaw(t, `articles.${slug}.faqs`);
   const rawFaqsOld = safeRaw(t, `articles.${slug}.faq`);
   const rawFaqSource = Array.isArray(rawFaqsNew) ? rawFaqsNew : Array.isArray(rawFaqsOld) ? rawFaqsOld : [];
@@ -100,20 +85,21 @@ export default async function ArticlePage({ params }: Props) {
     a: (f.a ?? f.answer ?? "") as string,
   }));
 
-  // lede: try both "lede" and "intro" keys
   let lede = "";
-  try { lede = t(`articles.${slug}.lede`); } catch { /* missing key */ }
-  if (!lede) try { lede = t(`articles.${slug}.intro`); } catch { /* missing key */ }
+  try { lede = t(`articles.${slug}.lede`); } catch { /* missing */ }
+  if (!lede) try { lede = t(`articles.${slug}.intro`); } catch { /* missing */ }
 
-  // conclusion: append to sections if present
   const conclusion = safeRaw(t, `articles.${slug}.conclusion`) as string | undefined;
   if (conclusion && typeof conclusion === "string") {
     sections.push({ heading: "", paragraphs: [conclusion] });
   }
 
+  const title = safeT(t, `articles.${slug}.title`, slug);
+  const description = safeT(t, `articles.${slug}.description`);
+
   const content: ArticleContent = {
-    title: t(`articles.${slug}.title`),
-    description: t(`articles.${slug}.description`),
+    title,
+    description,
     lede,
     sections,
     faqs,
@@ -123,15 +109,100 @@ export default async function ArticlePage({ params }: Props) {
   const offers = CATALOG.filter((o) => meta.offerIds.includes(o.id))
     .sort((a, b) => meta.offerIds.indexOf(a.id) - meta.offerIds.indexOf(b.id));
 
-  return <ArticleBody meta={meta} content={content} offers={offers} />;
+  const canonicalUrl = `${SITE_URL}/${locale}/articles/${slug}/`;
+  const ogImageUrl = meta.ogImage && meta.ogImage !== "auto"
+    ? `${SITE_URL}${meta.ogImage}-${locale}.png`
+    : null;
+
+  // JSON-LD: Article + FAQPage + BreadcrumbList
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: title,
+    description,
+    datePublished: meta.publishedAt,
+    dateModified: meta.updatedAt,
+    url: canonicalUrl,
+    ...(ogImageUrl ? { image: ogImageUrl } : {}),
+    author: { "@type": "Organization", name: "Pickly", url: SITE_URL },
+    publisher: { "@type": "Organization", name: "Pickly", url: SITE_URL },
+    inLanguage: locale,
+  };
+
+  const faqSchema = faqs.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((faq) => ({
+      "@type": "Question",
+      name: faq.q,
+      acceptedAnswer: { "@type": "Answer", text: faq.a },
+    })),
+  } : null;
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Pickly", item: `${SITE_URL}/${locale}/` },
+      { "@type": "ListItem", position: 2, name: "Articles", item: `${SITE_URL}/${locale}/articles/` },
+      { "@type": "ListItem", position: 3, name: title, item: canonicalUrl },
+    ],
+  };
+
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      {faqSchema && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      )}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      <ArticleBody meta={meta} content={content} offers={offers} />
+    </>
+  );
 }
 
 export async function generateMetadata({ params }: Props) {
   const { locale, slug } = await params;
   setRequestLocale(locale);
+  const meta = getArticle(slug);
+  if (!meta) return {};
+
   const t = await getTranslations();
+  const title = safeT(t, `articles.${slug}.title`, slug);
+  const description = safeT(t, `articles.${slug}.description`);
+
+  const canonicalUrl = `${SITE_URL}/${locale}/articles/${slug}/`;
+  const ogImageUrl = meta.ogImage && meta.ogImage !== "auto"
+    ? `${SITE_URL}${meta.ogImage}-${locale}.png`
+    : null;
+
   return {
-    title: t(`articles.${slug}.title`),
-    description: t(`articles.${slug}.description`),
+    title,
+    description,
+    alternates: {
+      canonical: canonicalUrl,
+      languages: Object.fromEntries(
+        meta.locales.map((l) => [l, `${SITE_URL}/${l}/articles/${slug}/`]),
+      ),
+    },
+    openGraph: {
+      type: "article",
+      title,
+      description,
+      url: canonicalUrl,
+      siteName: "Pickly",
+      publishedTime: meta.publishedAt,
+      modifiedTime: meta.updatedAt,
+      locale,
+      ...(ogImageUrl ? {
+        images: [{ url: ogImageUrl, width: 1000, height: 1500, alt: title }],
+      } : {}),
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      ...(ogImageUrl ? { images: [ogImageUrl] } : {}),
+    },
   };
 }
