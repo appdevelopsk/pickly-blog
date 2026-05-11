@@ -3262,6 +3262,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.co.jp/dp/B09BFVZS7T", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.com/dp/B09BFVZS7T", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.de/dp/B09BFVZS7T", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-nike-brasilia-9-5-md", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike%2BBrasilia%2BGym%2BBag%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3276,6 +3278,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.co.jp/dp/B08KGQK7GY", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.com/dp/B08KGQK7GY", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.de/dp/B08KGQK7GY", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-ua-undeniable-5-md", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUnder%2BArmour%2BUndeniable%2B5%2BDuffle%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3290,6 +3294,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.co.jp/dp/B0BQJN9P8X", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.com/dp/B0BQJN9P8X", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.de/dp/B0BQJN9P8X", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-gymshark-everyday-bag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGymshark%2BEveryday%2BGym%2BBag%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3304,6 +3310,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09BNLBGCZ", rawUrl: "https://www.amazon.co.jp/dp/B09BNLBGCZ", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B09BNLBGCZ", rawUrl: "https://www.amazon.com/dp/B09BNLBGCZ", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B09BNLBGCZ", rawUrl: "https://www.amazon.de/dp/B09BNLBGCZ", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-adidas-defender-4-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9%2B%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%2B4%2B%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3318,6 +3326,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.co.jp/dp/B07WGPNKQT", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.com/dp/B07WGPNKQT", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.de/dp/B07WGPNKQT", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-golds-gym-duffel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%2B%E3%83%80%E3%83%83%E3%83%95%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5295,6 +5305,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BHF71KL", rawUrl: "https://www.amazon.co.jp/dp/B07BHF71KL", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BHF71KL", rawUrl: "https://www.amazon.com/dp/B07BHF71KL", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BHF71KL", rawUrl: "https://www.amazon.de/dp/B07BHF71KL", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oxo-brew-compact-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%AF%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5308,6 +5320,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000CFN2Y", rawUrl: "https://www.amazon.co.jp/dp/B0000CFN2Y", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0000CFN2Y", rawUrl: "https://www.amazon.com/dp/B0000CFN2Y", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000CFN2Y", rawUrl: "https://www.amazon.de/dp/B0000CFN2Y", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-toddy-cold-brew-home", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%83%E3%83%87%E3%82%A3%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5321,6 +5335,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B078NWJZ9C", rawUrl: "https://www.amazon.co.jp/dp/B078NWJZ9C", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B078NWJZ9C", rawUrl: "https://www.amazon.com/dp/B078NWJZ9C", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B078NWJZ9C", rawUrl: "https://www.amazon.de/dp/B078NWJZ9C", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-primula-burke-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%95%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5334,6 +5350,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01KQTFRGM", rawUrl: "https://www.amazon.co.jp/dp/B01KQTFRGM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01KQTFRGM", rawUrl: "https://www.amazon.com/dp/B01KQTFRGM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01KQTFRGM", rawUrl: "https://www.amazon.de/dp/B01KQTFRGM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-takeya-deluxe-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E5%87%BA%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5347,6 +5365,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01LXHSMRU", rawUrl: "https://www.amazon.co.jp/dp/B01LXHSMRU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01LXHSMRU", rawUrl: "https://www.amazon.com/dp/B01LXHSMRU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01LXHSMRU", rawUrl: "https://www.amazon.de/dp/B01LXHSMRU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-county-line-mason-jar-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E5%87%BA%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5589,6 +5609,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00006JSUA", rawUrl: "https://www.amazon.co.jp/dp/B00006JSUA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00006JSUA", rawUrl: "https://www.amazon.com/dp/B00006JSUA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00006JSUA", rawUrl: "https://www.amazon.de/dp/B00006JSUA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-lodge-l8sk3-cast-iron-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge+L8SK3+%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5602,6 +5624,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07DHJZ7JC", rawUrl: "https://www.amazon.co.jp/dp/B07DHJZ7JC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07DHJZ7JC", rawUrl: "https://www.amazon.com/dp/B07DHJZ7JC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07DHJZ7JC", rawUrl: "https://www.amazon.de/dp/B07DHJZ7JC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-stargazer-10-cast-iron-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B2%E3%82%A4%E3%82%B6%E3%83%BC+%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5615,6 +5639,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07DQJXNDT", rawUrl: "https://www.amazon.co.jp/dp/B07DQJXNDT", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07DQJXNDT", rawUrl: "https://www.amazon.com/dp/B07DQJXNDT", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07DQJXNDT", rawUrl: "https://www.amazon.de/dp/B07DQJXNDT", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-victoria-10-cast-iron-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2+%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88+%E9%89%84%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5809,6 +5835,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.co.jp/dp/B01NBQEZQO", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.com/dp/B01NBQEZQO", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.de/dp/B01NBQEZQO", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-rubbermaid-brilliance-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRubbermaid+Brilliance%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5822,6 +5850,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0894MJPVB", rawUrl: "https://www.amazon.co.jp/dp/B0894MJPVB", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B0894MJPVB", rawUrl: "https://www.amazon.com/dp/B0894MJPVB", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B0894MJPVB", rawUrl: "https://www.amazon.de/dp/B0894MJPVB", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-oxo-smart-seal-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO+%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%AB+%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5835,6 +5865,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.co.jp/dp/B07W4SLHQM", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.com/dp/B07W4SLHQM", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.de/dp/B07W4SLHQM", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-bentgo-glass-meal-prep", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBentgo+%E3%82%AC%E3%83%A9%E3%82%B9+%E4%BD%9C%E3%82%8A%E7%BD%AE%E3%81%8D%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5848,6 +5880,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000CFNBS", rawUrl: "https://www.amazon.co.jp/dp/B0000CFNBS", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B0000CFNBS", rawUrl: "https://www.amazon.com/dp/B0000CFNBS", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B0000CFNBS", rawUrl: "https://www.amazon.de/dp/B0000CFNBS", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-pyrex-simply-store-18pc", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%82%A4%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9+%E4%BF%9D%E5%AD%98%E5%AE%B9%E5%99%A8+18%E7%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -7723,6 +7757,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07CQTMMNB", rawUrl: "https://www.amazon.co.jp/dp/B07CQTMMNB", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07CQTMMNB", rawUrl: "https://www.amazon.com/dp/B07CQTMMNB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07CQTMMNB", rawUrl: "https://www.amazon.de/dp/B07CQTMMNB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-battle-rope-co-1-5-50ft", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBattle%2BRope%2BCo%2B1.5%2Binch%2B50%2Bfoot%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -7736,6 +7772,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01LWTJ7EK", rawUrl: "https://www.amazon.co.jp/dp/B01LWTJ7EK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01LWTJ7EK", rawUrl: "https://www.amazon.com/dp/B01LWTJ7EK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01LWTJ7EK", rawUrl: "https://www.amazon.de/dp/B01LWTJ7EK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-fitness-battle-rope-50ft", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan%2BFitness%2BBattle%2BRope%2B1.5%2Binch%2B50%2Bfoot%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -7749,6 +7787,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07PHLM9MB", rawUrl: "https://www.amazon.co.jp/dp/B07PHLM9MB", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07PHLM9MB", rawUrl: "https://www.amazon.com/dp/B07PHLM9MB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07PHLM9MB", rawUrl: "https://www.amazon.de/dp/B07PHLM9MB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-power-guidance-battle-rope-30ft", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPower%2BGuidance%2BBattle%2BRope%2B1.5%2Binch%2B30%2Bfoot%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -7762,6 +7802,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0195XGKQO", rawUrl: "https://www.amazon.co.jp/dp/B0195XGKQO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0195XGKQO", rawUrl: "https://www.amazon.com/dp/B0195XGKQO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0195XGKQO", rawUrl: "https://www.amazon.de/dp/B0195XGKQO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-stroops-battle-rope-anchor", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStroops%2BBattle%2BRope%2BAnchor%2BKit%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -7775,6 +7817,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07WGJM87C", rawUrl: "https://www.amazon.co.jp/dp/B07WGJM87C", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07WGJM87C", rawUrl: "https://www.amazon.com/dp/B07WGJM87C", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07WGJM87C", rawUrl: "https://www.amazon.de/dp/B07WGJM87C", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-fitness-battle-rope-40ft", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP%2BFitness%2BBattle%2BRope%2B2%2Binch%2B40%2Bfoot%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -7862,6 +7906,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00NH0XJWQ", rawUrl: "https://www.amazon.co.jp/dp/B00NH0XJWQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00NH0XJWQ", rawUrl: "https://www.amazon.com/dp/B00NH0XJWQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00NH0XJWQ", rawUrl: "https://www.amazon.de/dp/B00NH0XJWQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-wood-gymnastics-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2B%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E6%9C%A8%E8%A3%BD%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -7876,6 +7922,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07GXQX5SR", rawUrl: "https://www.amazon.co.jp/dp/B07GXQX5SR", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07GXQX5SR", rawUrl: "https://www.amazon.com/dp/B07GXQX5SR", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07GXQX5SR", rawUrl: "https://www.amazon.de/dp/B07GXQX5SR", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-gorilla-rings-wooden-gym", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGORILLA+RINGS%2B%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -7890,6 +7938,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00M6USAAA", rawUrl: "https://www.amazon.co.jp/dp/B00M6USAAA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00M6USAAA", rawUrl: "https://www.amazon.com/dp/B00M6USAAA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00M6USAAA", rawUrl: "https://www.amazon.de/dp/B00M6USAAA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nayoya-wooden-exercise-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNayoya%2B%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E3%83%90%E3%83%BC%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -7904,6 +7954,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BF9BKDG", rawUrl: "https://www.amazon.co.jp/dp/B07BF9BKDG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BF9BKDG", rawUrl: "https://www.amazon.com/dp/B07BF9BKDG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BF9BKDG", rawUrl: "https://www.amazon.de/dp/B07BF9BKDG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-fitness-wooden-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness%2B%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E6%9C%A8%E8%A3%BD%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -7918,6 +7970,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07DHTQJ7D", rawUrl: "https://www.amazon.co.jp/dp/B07DHTQJ7D", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07DHTQJ7D", rawUrl: "https://www.amazon.com/dp/B07DHTQJ7D", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07DHTQJ7D", rawUrl: "https://www.amazon.de/dp/B07DHTQJ7D", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-fitness-wooden-rings", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRep+Fitness%2B%E4%BD%93%E6%93%8D%E3%83%AA%E3%83%B3%E3%82%B0%2B%E3%83%A1%E3%83%BC%E3%83%97%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -8985,6 +9039,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07B4RHWK2", rawUrl: "https://www.amazon.co.jp/dp/B07B4RHWK2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07B4RHWK2", rawUrl: "https://www.amazon.com/dp/B07B4RHWK2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07B4RHWK2", rawUrl: "https://www.amazon.de/dp/B07B4RHWK2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hydro-flask-standard-mouth-21oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHydro+Flask+%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%83%9E%E3%82%A6%E3%82%B9+21oz%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -8998,6 +9054,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07X6G4G5K", rawUrl: "https://www.amazon.co.jp/dp/B07X6G4G5K", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07X6G4G5K", rawUrl: "https://www.amazon.com/dp/B07X6G4G5K", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07X6G4G5K", rawUrl: "https://www.amazon.de/dp/B07X6G4G5K", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nalgene-sustain-wide-mouth-32oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNalgene+%E3%82%B5%E3%82%B9%E3%83%86%E3%82%A4%E3%83%B3+%E3%83%AF%E3%82%A4%E3%83%89%E3%83%9E%E3%82%A6%E3%82%B9+32oz%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9011,6 +9069,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08L5BKQVP", rawUrl: "https://www.amazon.co.jp/dp/B08L5BKQVP", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08L5BKQVP", rawUrl: "https://www.amazon.com/dp/B08L5BKQVP", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08L5BKQVP", rawUrl: "https://www.amazon.de/dp/B08L5BKQVP", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-camelbak-chute-mag-25oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCamelBak+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%9E%E3%82%B0+%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9024,6 +9084,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000DH48Q", rawUrl: "https://www.amazon.co.jp/dp/B0000DH48Q", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0000DH48Q", rawUrl: "https://www.amazon.com/dp/B0000DH48Q", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000DH48Q", rawUrl: "https://www.amazon.de/dp/B0000DH48Q", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-stanley-classic-legendary-36oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%AC%E3%83%BC+%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF+%E3%83%9C%E3%83%88%E3%83%AB+1.0L%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9037,6 +9099,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01N5XWXH8", rawUrl: "https://www.amazon.co.jp/dp/B01N5XWXH8", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01N5XWXH8", rawUrl: "https://www.amazon.com/dp/B01N5XWXH8", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01N5XWXH8", rawUrl: "https://www.amazon.de/dp/B01N5XWXH8", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-klean-kanteen-classic-27oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AB%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3+%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF+800ml%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9051,6 +9115,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001ARYU58", rawUrl: "https://www.amazon.co.jp/dp/B001ARYU58", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B001ARYU58", rawUrl: "https://www.amazon.com/dp/B001ARYU58", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B001ARYU58", rawUrl: "https://www.amazon.de/dp/B001ARYU58", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-bowflex-selecttech-552", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex%2BSelectTech%2B552%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9064,6 +9130,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.co.jp/dp/B07QBHG3GF", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.com/dp/B07QBHG3GF", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.de/dp/B07QBHG3GF", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-powerblock-elite-exp-50", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPowerBlock%2BElite%2BEXP%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9077,6 +9145,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BFRMXLV", rawUrl: "https://www.amazon.co.jp/dp/B07BFRMXLV", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B07BFRMXLV", rawUrl: "https://www.amazon.com/dp/B07BFRMXLV", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B07BFRMXLV", rawUrl: "https://www.amazon.de/dp/B07BFRMXLV", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-nordictrack-select-a-weight-55", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNordicTrack%2BSelect-A-Weight%2B55%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9090,6 +9160,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0002YRMRC", rawUrl: "https://www.amazon.co.jp/dp/B0002YRMRC", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B0002YRMRC", rawUrl: "https://www.amazon.com/dp/B0002YRMRC", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B0002YRMRC", rawUrl: "https://www.amazon.de/dp/B0002YRMRC", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-ironmaster-quick-lock-75", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIronmaster%2BQuick-Lock%2B75%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9103,6 +9175,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.co.jp/dp/B08CYJN7X6", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.com/dp/B08CYJN7X6", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.de/dp/B08CYJN7X6", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-ativafit-adjustable-dumbbell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FATIVAFIT%2B%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9118,6 +9192,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00IOKC9SK", rawUrl: "https://www.amazon.co.jp/dp/B00IOKC9SK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00IOKC9SK", rawUrl: "https://www.amazon.com/dp/B00IOKC9SK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00IOKC9SK", rawUrl: "https://www.amazon.de/dp/B00IOKC9SK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-delonghi-ec155m-espresso", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%2BEC155M%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9132,6 +9208,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07MNQ4XDH", rawUrl: "https://www.amazon.co.jp/dp/B07MNQ4XDH", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07MNQ4XDH", rawUrl: "https://www.amazon.com/dp/B07MNQ4XDH", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07MNQ4XDH", rawUrl: "https://www.amazon.de/dp/B07MNQ4XDH", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-breville-bambino-bes450", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BBambino%2BBES450%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9146,6 +9224,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07D4SVKTD", rawUrl: "https://www.amazon.co.jp/dp/B07D4SVKTD", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07D4SVKTD", rawUrl: "https://www.amazon.com/dp/B07D4SVKTD", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07D4SVKTD", rawUrl: "https://www.amazon.de/dp/B07D4SVKTD", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nespresso-essenza-mini-d30", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNespresso%2BEssenza%2BMini%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9160,6 +9240,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B008BWBXFO", rawUrl: "https://www.amazon.co.jp/dp/B008BWBXFO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B008BWBXFO", rawUrl: "https://www.amazon.com/dp/B008BWBXFO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B008BWBXFO", rawUrl: "https://www.amazon.de/dp/B008BWBXFO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-mr-coffee-ecmp50-espresso", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMr.Coffee%2BECMP50%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9174,6 +9256,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01A38IOVM", rawUrl: "https://www.amazon.co.jp/dp/B01A38IOVM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01A38IOVM", rawUrl: "https://www.amazon.com/dp/B01A38IOVM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01A38IOVM", rawUrl: "https://www.amazon.de/dp/B01A38IOVM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hamilton-beach-40792-espresso", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2B40792%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9189,6 +9273,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000P4D5HG", rawUrl: "https://www.amazon.co.jp/dp/B000P4D5HG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000P4D5HG", rawUrl: "https://www.amazon.com/dp/B000P4D5HG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000P4D5HG", rawUrl: "https://www.amazon.de/dp/B000P4D5HG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hario-v60-ceramic-02", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%AA%E3%82%AA%2BV60%2B%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%2B02%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9203,6 +9289,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000I1WP7W", rawUrl: "https://www.amazon.co.jp/dp/B000I1WP7W", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000I1WP7W", rawUrl: "https://www.amazon.com/dp/B000I1WP7W", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000I1WP7W", rawUrl: "https://www.amazon.de/dp/B000I1WP7W", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-chemex-classic-6cup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChemex%2B%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%2B6%E3%82%AB%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9217,6 +9305,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00MVRGWRI", rawUrl: "https://www.amazon.co.jp/dp/B00MVRGWRI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00MVRGWRI", rawUrl: "https://www.amazon.com/dp/B00MVRGWRI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00MVRGWRI", rawUrl: "https://www.amazon.de/dp/B00MVRGWRI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-kalita-wave-185-stainless", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AB%E3%83%AA%E3%82%BF%2B%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%2B185%2B%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9231,6 +9321,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01JDHE3BK", rawUrl: "https://www.amazon.co.jp/dp/B01JDHE3BK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01JDHE3BK", rawUrl: "https://www.amazon.com/dp/B01JDHE3BK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01JDHE3BK", rawUrl: "https://www.amazon.de/dp/B01JDHE3BK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bodum-pour-over-permanent", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBodum%2B%E3%83%9D%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%2B%E3%83%91%E3%83%BC%E3%83%9E%E3%83%8D%E3%83%B3%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9245,6 +9337,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07GPVWW54", rawUrl: "https://www.amazon.co.jp/dp/B07GPVWW54", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07GPVWW54", rawUrl: "https://www.amazon.com/dp/B07GPVWW54", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07GPVWW54", rawUrl: "https://www.amazon.de/dp/B07GPVWW54", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fellow-stagg-x-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFellow%2BStagg%2BX%2B%E3%83%9D%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9259,6 +9353,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B082WK7KGN", rawUrl: "https://www.amazon.co.jp/dp/B082WK7KGN", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B082WK7KGN", rawUrl: "https://www.amazon.com/dp/B082WK7KGN", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B082WK7KGN", rawUrl: "https://www.amazon.de/dp/B082WK7KGN", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-rogue-joist-mount-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Joist+Mount+Pull-Up+Bar%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9272,6 +9368,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01M0HKKE0", rawUrl: "https://www.amazon.co.jp/dp/B01M0HKKE0", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B01M0HKKE0", rawUrl: "https://www.amazon.com/dp/B01M0HKKE0", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B01M0HKKE0", rawUrl: "https://www.amazon.de/dp/B01M0HKKE0", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-titan-wall-ceiling-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E5%A4%A9%E4%BA%95+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9285,6 +9383,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07WFQDXY8", rawUrl: "https://www.amazon.co.jp/dp/B07WFQDXY8", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B07WFQDXY8", rawUrl: "https://www.amazon.com/dp/B07WFQDXY8", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B07WFQDXY8", rawUrl: "https://www.amazon.de/dp/B07WFQDXY8", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-rep-fitness-ceiling-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E5%A4%A9%E4%BA%95+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9298,6 +9398,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08P57PFP5", rawUrl: "https://www.amazon.co.jp/dp/B08P57PFP5", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B08P57PFP5", rawUrl: "https://www.amazon.com/dp/B08P57PFP5", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B08P57PFP5", rawUrl: "https://www.amazon.de/dp/B08P57PFP5", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-probar-wall-mount-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPullup+%26+Dip+%E5%A3%81+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9311,6 +9413,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B003BYRGKY", rawUrl: "https://www.amazon.co.jp/dp/B003BYRGKY", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B003BYRGKY", rawUrl: "https://www.amazon.com/dp/B003BYRGKY", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B003BYRGKY", rawUrl: "https://www.amazon.de/dp/B003BYRGKY", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-ultimate-body-press-ceiling", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUltimate+Body+Press+%E5%A4%A9%E4%BA%95+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9325,6 +9429,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BQKQV8P", rawUrl: "https://www.amazon.co.jp/dp/B07BQKQV8P", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BQKQV8P", rawUrl: "https://www.amazon.com/dp/B07BQKQV8P", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BQKQV8P", rawUrl: "https://www.amazon.de/dp/B07BQKQV8P", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rx-smart-gear-elite-evo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRx+Smart+Gear+Elite+EVO%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9338,6 +9444,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01LYFGVNQ", rawUrl: "https://www.amazon.co.jp/dp/B01LYFGVNQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01LYFGVNQ", rawUrl: "https://www.amazon.com/dp/B01LYFGVNQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01LYFGVNQ", rawUrl: "https://www.amazon.de/dp/B01LYFGVNQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-wod-nation-speed-jump-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWOD+Nation+%E7%B8%84%E8%B7%B3%E3%81%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9351,6 +9459,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07P8J1P6Q", rawUrl: "https://www.amazon.co.jp/dp/B07P8J1P6Q", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07P8J1P6Q", rawUrl: "https://www.amazon.com/dp/B07P8J1P6Q", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07P8J1P6Q", rawUrl: "https://www.amazon.de/dp/B07P8J1P6Q", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-crossrope-get-lean-bundle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCrossRope+Get+Lean%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9364,6 +9474,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08XQBCF3N", rawUrl: "https://www.amazon.co.jp/dp/B08XQBCF3N", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08XQBCF3N", rawUrl: "https://www.amazon.com/dp/B08XQBCF3N", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08XQBCF3N", rawUrl: "https://www.amazon.de/dp/B08XQBCF3N", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rpm-session-3-jump-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRPM+Session+3+%E7%B8%84%E8%B7%B3%E3%81%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9377,6 +9489,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00IOIUIFW", rawUrl: "https://www.amazon.co.jp/dp/B00IOIUIFW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00IOIUIFW", rawUrl: "https://www.amazon.com/dp/B00IOIUIFW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00IOIUIFW", rawUrl: "https://www.amazon.de/dp/B00IOIUIFW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-elite-srs-muay-thai-cable", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FElite+SRS+%E3%83%A0%E3%82%A8%E3%82%BF%E3%82%A4+%E7%B8%84%E8%B7%B3%E3%81%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9392,6 +9506,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001TT0VSE", rawUrl: "https://www.amazon.co.jp/dp/B001TT0VSE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001TT0VSE", rawUrl: "https://www.amazon.com/dp/B001TT0VSE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001TT0VSE", rawUrl: "https://www.amazon.de/dp/B001TT0VSE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-benriner-mandoline-no64", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%99%E3%83%B3%E3%83%AA%E3%83%8A%E3%83%BC+No.64%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9406,6 +9522,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BXYGF3N", rawUrl: "https://www.amazon.co.jp/dp/B07BXYGF3N", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BXYGF3N", rawUrl: "https://www.amazon.com/dp/B07BXYGF3N", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BXYGF3N", rawUrl: "https://www.amazon.de/dp/B07BXYGF3N", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oxo-chef-mandoline-2-0", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO+%E3%83%9E%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3+2.0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9420,6 +9538,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B003FVWPQW", rawUrl: "https://www.amazon.co.jp/dp/B003FVWPQW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B003FVWPQW", rawUrl: "https://www.amazon.com/dp/B003FVWPQW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B003FVWPQW", rawUrl: "https://www.amazon.de/dp/B003FVWPQW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-kyocera-ceramic-mandoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BA%AC%E3%82%BB%E3%83%A9+%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF+%E3%83%9E%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9434,6 +9554,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B004GIYNO6", rawUrl: "https://www.amazon.co.jp/dp/B004GIYNO6", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B004GIYNO6", rawUrl: "https://www.amazon.com/dp/B004GIYNO6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B004GIYNO6", rawUrl: "https://www.amazon.de/dp/B004GIYNO6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-swissmar-borner-v-power", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9C%E3%83%BC%E3%83%8A%E3%83%BC+V%E3%83%91%E3%83%AF%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9448,6 +9570,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01LW5RH1F", rawUrl: "https://www.amazon.co.jp/dp/B01LW5RH1F", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01LW5RH1F", rawUrl: "https://www.amazon.com/dp/B01LW5RH1F", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01LW5RH1F", rawUrl: "https://www.amazon.de/dp/B01LW5RH1F", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-mueller-v-pro-mandoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+V-Pro+%E3%83%9E%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9462,6 +9586,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000P1WUKG", rawUrl: "https://www.amazon.co.jp/dp/B000P1WUKG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000P1WUKG", rawUrl: "https://www.amazon.com/dp/B000P1WUKG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000P1WUKG", rawUrl: "https://www.amazon.de/dp/B000P1WUKG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-inzer-forever-lever-belt-10mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInzer+Forever+Lever+Belt+10mm%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9475,6 +9601,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BQSG7BG", rawUrl: "https://www.amazon.co.jp/dp/B07BQSG7BG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BQSG7BG", rawUrl: "https://www.amazon.com/dp/B07BQSG7BG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BQSG7BG", rawUrl: "https://www.amazon.de/dp/B07BQSG7BG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-ohio-lifting-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Ohio+Lifting+Belt%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9488,6 +9616,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08GTTW5M2", rawUrl: "https://www.amazon.co.jp/dp/B08GTTW5M2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08GTTW5M2", rawUrl: "https://www.amazon.com/dp/B08GTTW5M2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08GTTW5M2", rawUrl: "https://www.amazon.de/dp/B08GTTW5M2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-sbd-lever-belt-13mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSBD+Lever+Belt+13mm%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9501,6 +9631,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01A5MMWL4", rawUrl: "https://www.amazon.co.jp/dp/B01A5MMWL4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01A5MMWL4", rawUrl: "https://www.amazon.com/dp/B01A5MMWL4", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01A5MMWL4", rawUrl: "https://www.amazon.de/dp/B01A5MMWL4", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-dark-iron-fitness-leather-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDark+Iron+Fitness+%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9514,6 +9646,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000C0CVB", rawUrl: "https://www.amazon.co.jp/dp/B0000C0CVB", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0000C0CVB", rawUrl: "https://www.amazon.com/dp/B0000C0CVB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000C0CVB", rawUrl: "https://www.amazon.de/dp/B0000C0CVB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-harbinger-foam-core-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarbinger+%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%B3%E3%82%A2%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9529,6 +9663,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07PKWTQJL", rawUrl: "https://www.amazon.co.jp/dp/B07PKWTQJL", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07PKWTQJL", rawUrl: "https://www.amazon.com/dp/B07PKWTQJL", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07PKWTQJL", rawUrl: "https://www.amazon.de/dp/B07PKWTQJL", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-braun-multiquick-5-mq5025", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBraun+MultiQuick+5+MQ5025%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9543,6 +9679,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08GYLK19H", rawUrl: "https://www.amazon.co.jp/dp/B08GYLK19H", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08GYLK19H", rawUrl: "https://www.amazon.com/dp/B08GYLK19H", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08GYLK19H", rawUrl: "https://www.amazon.de/dp/B08GYLK19H", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-kitchenaid-khbv53-blender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKitchenAid+KHBV53%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9557,6 +9695,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07W6FY5WK", rawUrl: "https://www.amazon.co.jp/dp/B07W6FY5WK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07W6FY5WK", rawUrl: "https://www.amazon.com/dp/B07W6FY5WK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07W6FY5WK", rawUrl: "https://www.amazon.de/dp/B07W6FY5WK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-vitamix-immersion-5speed", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVitamix+%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9571,6 +9711,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07X3TGLSZ", rawUrl: "https://www.amazon.co.jp/dp/B07X3TGLSZ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07X3TGLSZ", rawUrl: "https://www.amazon.com/dp/B07X3TGLSZ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07X3TGLSZ", rawUrl: "https://www.amazon.de/dp/B07X3TGLSZ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-mueller-ultra-stick-blender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+Ultra-Stick+%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9585,6 +9727,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07VNY6DX4", rawUrl: "https://www.amazon.co.jp/dp/B07VNY6DX4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07VNY6DX4", rawUrl: "https://www.amazon.com/dp/B07VNY6DX4", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07VNY6DX4", rawUrl: "https://www.amazon.de/dp/B07VNY6DX4", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-koios-4in1-immersion-blender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKOIOS+%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9599,6 +9743,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000WKXSHY", rawUrl: "https://www.amazon.co.jp/dp/B000WKXSHY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000WKXSHY", rawUrl: "https://www.amazon.com/dp/B000WKXSHY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000WKXSHY", rawUrl: "https://www.amazon.de/dp/B000WKXSHY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oxo-11lb-food-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO+%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB+%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9612,6 +9758,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0007GXIG0", rawUrl: "https://www.amazon.co.jp/dp/B0007GXIG0", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0007GXIG0", rawUrl: "https://www.amazon.com/dp/B0007GXIG0", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0007GXIG0", rawUrl: "https://www.amazon.de/dp/B0007GXIG0", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-escali-primo-p115c", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%AA+%E3%83%97%E3%83%AA%E3%83%A2+%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9625,6 +9773,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001NE0FU2", rawUrl: "https://www.amazon.co.jp/dp/B001NE0FU2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001NE0FU2", rawUrl: "https://www.amazon.com/dp/B001NE0FU2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001NE0FU2", rawUrl: "https://www.amazon.de/dp/B001NE0FU2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-my-weigh-kd8000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4+KD-8000+%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9638,6 +9788,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07YTLHW7Z", rawUrl: "https://www.amazon.co.jp/dp/B07YTLHW7Z", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07YTLHW7Z", rawUrl: "https://www.amazon.com/dp/B07YTLHW7Z", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07YTLHW7Z", rawUrl: "https://www.amazon.de/dp/B07YTLHW7Z", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-etekcity-ek6015", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%86%E3%83%83%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3+EK6015+%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9651,6 +9803,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08GKZM7R4", rawUrl: "https://www.amazon.co.jp/dp/B08GKZM7R4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08GKZM7R4", rawUrl: "https://www.amazon.com/dp/B08GKZM7R4", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08GKZM7R4", rawUrl: "https://www.amazon.de/dp/B08GKZM7R4", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-zwilling-enfinigy-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%84%E3%83%B4%E3%82%A3%E3%83%AA%E3%83%B3%E3%82%B0+%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A3%E3%83%8B%E3%82%B8+%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9665,6 +9819,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08CJQZK3M", rawUrl: "https://www.amazon.co.jp/dp/B08CJQZK3M", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08CJQZK3M", rawUrl: "https://www.amazon.com/dp/B08CJQZK3M", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08CJQZK3M", rawUrl: "https://www.amazon.de/dp/B08CJQZK3M", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-sbd-knee-sleeves-7mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSBD+Knee+Sleeves+7mm%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9678,6 +9834,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BEGJKL0", rawUrl: "https://www.amazon.co.jp/dp/B00BEGJKL0", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BEGJKL0", rawUrl: "https://www.amazon.com/dp/B00BEGJKL0", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BEGJKL0", rawUrl: "https://www.amazon.de/dp/B00BEGJKL0", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rehband-rx-knee-sleeve-7mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRehband+RX+Knee+Sleeve+7mm%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9691,6 +9849,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07DPWMKHL", rawUrl: "https://www.amazon.co.jp/dp/B07DPWMKHL", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07DPWMKHL", rawUrl: "https://www.amazon.com/dp/B07DPWMKHL", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07DPWMKHL", rawUrl: "https://www.amazon.de/dp/B07DPWMKHL", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-stoic-strength-knee-sleeves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStoic+Strength+Knee+Sleeves%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9704,6 +9864,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07QDKG5QG", rawUrl: "https://www.amazon.co.jp/dp/B07QDKG5QG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07QDKG5QG", rawUrl: "https://www.amazon.com/dp/B07QDKG5QG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07QDKG5QG", rawUrl: "https://www.amazon.de/dp/B07QDKG5QG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-a7-bar-grip-knee-sleeves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FA7+Bar+Grip+Knee+Sleeves%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9717,6 +9879,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BGWYFKW", rawUrl: "https://www.amazon.co.jp/dp/B07BGWYFKW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BGWYFKW", rawUrl: "https://www.amazon.com/dp/B07BGWYFKW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BGWYFKW", rawUrl: "https://www.amazon.de/dp/B07BGWYFKW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-knee-sleeves-5mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Knee+Sleeves+5mm%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9731,6 +9895,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000C6T1E", rawUrl: "https://www.amazon.co.jp/dp/B0000C6T1E", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0000C6T1E", rawUrl: "https://www.amazon.com/dp/B0000C6T1E", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000C6T1E", rawUrl: "https://www.amazon.de/dp/B0000C6T1E", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-schiek-wrist-wraps-24inch", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSchiek+Wrist+Wraps+24inch%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9744,6 +9910,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000C6TOG", rawUrl: "https://www.amazon.co.jp/dp/B0000C6TOG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0000C6TOG", rawUrl: "https://www.amazon.com/dp/B0000C6TOG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000C6TOG", rawUrl: "https://www.amazon.de/dp/B0000C6TOG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-harbinger-21525-wrist-wraps", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarbinger+Wrist+Wraps+20inch%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9757,6 +9925,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BEGJQPE", rawUrl: "https://www.amazon.co.jp/dp/B00BEGJQPE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BEGJQPE", rawUrl: "https://www.amazon.com/dp/B00BEGJQPE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BEGJQPE", rawUrl: "https://www.amazon.de/dp/B00BEGJQPE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-signature-gold-wrist-wraps", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Signature+Gold+Wrist+Wrap%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9770,6 +9940,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BGWZQNK", rawUrl: "https://www.amazon.co.jp/dp/B07BGWZQNK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BGWZQNK", rawUrl: "https://www.amazon.com/dp/B07BGWZQNK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BGWZQNK", rawUrl: "https://www.amazon.de/dp/B07BGWZQNK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-wrist-wraps", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Wrist+Wraps%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9783,6 +9955,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08GTTN8XP", rawUrl: "https://www.amazon.co.jp/dp/B08GTTN8XP", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08GTTN8XP", rawUrl: "https://www.amazon.com/dp/B08GTTN8XP", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08GTTN8XP", rawUrl: "https://www.amazon.de/dp/B08GTTN8XP", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-sbd-wrist-wraps-competition", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSBD+Wrist+Wraps+Competition%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9797,6 +9971,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00006IUWM", rawUrl: "https://www.amazon.co.jp/dp/B00006IUWM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00006IUWM", rawUrl: "https://www.amazon.com/dp/B00006IUWM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00006IUWM", rawUrl: "https://www.amazon.de/dp/B00006IUWM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-le-creuset-dutch-oven-5qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLe%2BCreuset%2BDutch%2BOven%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9810,6 +9986,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001A3O1OA", rawUrl: "https://www.amazon.co.jp/dp/B001A3O1OA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001A3O1OA", rawUrl: "https://www.amazon.com/dp/B001A3O1OA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001A3O1OA", rawUrl: "https://www.amazon.de/dp/B001A3O1OA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-lodge-enameled-dutch-oven-6qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%2BEnameled%2BCast%2BIron%2BDutch%2BOven%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9823,6 +10001,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BWQM9EK", rawUrl: "https://www.amazon.co.jp/dp/B00BWQM9EK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BWQM9EK", rawUrl: "https://www.amazon.com/dp/B00BWQM9EK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BWQM9EK", rawUrl: "https://www.amazon.de/dp/B00BWQM9EK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-staub-cocotte-5qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStaub%2BCocotte%2BRound%2B5qt%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9836,6 +10016,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000631WU", rawUrl: "https://www.amazon.co.jp/dp/B0000631WU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0000631WU", rawUrl: "https://www.amazon.com/dp/B0000631WU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000631WU", rawUrl: "https://www.amazon.de/dp/B0000631WU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cuisinart-chef-classic-dutch-oven", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BEnameled%2BCast%2BIron%2BDutch%2BOven%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9850,6 +10032,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0002YV1XU", rawUrl: "https://www.amazon.co.jp/dp/B0002YV1XU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0002YV1XU", rawUrl: "https://www.amazon.com/dp/B0002YV1XU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0002YV1XU", rawUrl: "https://www.amazon.de/dp/B0002YV1XU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-inzer-forever-lever-belt-10mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInzer%2BForever%2BLever%2BBelt%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9863,6 +10047,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BKWG7GM", rawUrl: "https://www.amazon.co.jp/dp/B07BKWG7GM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BKWG7GM", rawUrl: "https://www.amazon.com/dp/B07BKWG7GM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BKWG7GM", rawUrl: "https://www.amazon.de/dp/B07BKWG7GM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-sbd-belt-powerlifting", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSBD%2B%E3%83%91%E3%83%AF%E3%83%BC%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%2B%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9876,6 +10062,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01MY48MLX", rawUrl: "https://www.amazon.co.jp/dp/B01MY48MLX", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01MY48MLX", rawUrl: "https://www.amazon.com/dp/B01MY48MLX", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01MY48MLX", rawUrl: "https://www.amazon.de/dp/B01MY48MLX", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-ohio-lifting-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BOhio%2BLifting%2BBelt%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9889,6 +10077,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08KGLXYNR", rawUrl: "https://www.amazon.co.jp/dp/B08KGLXYNR", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08KGLXYNR", rawUrl: "https://www.amazon.com/dp/B08KGLXYNR", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08KGLXYNR", rawUrl: "https://www.amazon.de/dp/B08KGLXYNR", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-pioneer-cut-powerlifting-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPioneer%2BCut%2B%E3%83%91%E3%83%AF%E3%83%BC%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%2B%E3%83%99%E3%83%AB%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9902,6 +10092,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000C0F2O", rawUrl: "https://www.amazon.co.jp/dp/B0000C0F2O", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0000C0F2O", rawUrl: "https://www.amazon.com/dp/B0000C0F2O", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000C0F2O", rawUrl: "https://www.amazon.de/dp/B0000C0F2O", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-harbinger-padded-leather-belt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarbinger%2BPadded%2BLeather%2BBelt%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9916,6 +10108,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0082OVM9E", rawUrl: "https://www.amazon.co.jp/dp/B0082OVM9E", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0082OVM9E", rawUrl: "https://www.amazon.com/dp/B0082OVM9E", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0082OVM9E", rawUrl: "https://www.amazon.de/dp/B0082OVM9E", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-tramontina-enameled-dutch-oven", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTramontina%2BEnameled%2BCast%2BIron%2BDutch%2BOven%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9930,6 +10124,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.co.jp/dp/B01LXUV2IW", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.com/dp/B01LXUV2IW", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.de/dp/B01LXUV2IW", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-breville-precision-brewer-bdc450", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BPrecision%2BBrewer%2BBDC450%2F", markets: ["JP"], approved: false },
     ],
   },
@@ -9943,6 +10139,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000BYMBLC", rawUrl: "https://www.amazon.co.jp/dp/B000BYMBLC", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B000BYMBLC", rawUrl: "https://www.amazon.com/dp/B000BYMBLC", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B000BYMBLC", rawUrl: "https://www.amazon.de/dp/B000BYMBLC", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-technivorm-moccamaster-kbt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMoccamaster%2BKBT%2F", markets: ["JP"], approved: false },
     ],
   },
@@ -9956,6 +10154,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.co.jp/dp/B074Z2YMXB", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.com/dp/B074Z2YMXB", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.de/dp/B074Z2YMXB", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-oxo-brew-9-cup-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%2BBrew%2B9%2BCup%2FCoffee%2BMaker%2F", markets: ["JP"], approved: false },
     ],
   },
@@ -9969,6 +10169,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01N5JS67B", rawUrl: "https://www.amazon.co.jp/dp/B01N5JS67B", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B01N5JS67B", rawUrl: "https://www.amazon.com/dp/B01N5JS67B", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B01N5JS67B", rawUrl: "https://www.amazon.de/dp/B01N5JS67B", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-cuisinart-dcc-3200p1-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BDCC-3200P1%2F", markets: ["JP"], approved: false },
     ],
   },
@@ -9982,6 +10184,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.co.jp/dp/B07GV2S1GS", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.com/dp/B07GV2S1GS", markets: ["US"], approved: false },
+      { network: "amazon-de", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.de/dp/B07GV2S1GS", markets: ["EU"], approved: false },
       { network: "moshimo", productId: "rakuten-hamilton-beach-49350-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2B49350%2F", markets: ["JP"], approved: false },
     ],
   },
@@ -9996,6 +10200,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07F3SYD7H", rawUrl: "https://www.amazon.co.jp/dp/B07F3SYD7H", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07F3SYD7H", rawUrl: "https://www.amazon.com/dp/B07F3SYD7H", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07F3SYD7H", rawUrl: "https://www.amazon.de/dp/B07F3SYD7H", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-ohio-bar-cerakote", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BOhio%2BBar%2BCerakote%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10009,6 +10215,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000BYEFM", rawUrl: "https://www.amazon.co.jp/dp/B0000BYEFM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0000BYEFM", rawUrl: "https://www.amazon.com/dp/B0000BYEFM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000BYEFM", rawUrl: "https://www.amazon.de/dp/B0000BYEFM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-texas-power-bar-bare-steel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTexas%2BPower%2BBar%2B%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10022,6 +10230,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001AXZGQW", rawUrl: "https://www.amazon.co.jp/dp/B001AXZGQW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001AXZGQW", rawUrl: "https://www.amazon.com/dp/B001AXZGQW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001AXZGQW", rawUrl: "https://www.amazon.de/dp/B001AXZGQW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cap-ob-86pb-olympic-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP%2BBarbell%2BOlympic%2BBar%2BOB-86PB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10035,6 +10245,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08XK4FSVP", rawUrl: "https://www.amazon.co.jp/dp/B08XK4FSVP", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08XK4FSVP", rawUrl: "https://www.amazon.com/dp/B08XK4FSVP", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08XK4FSVP", rawUrl: "https://www.amazon.de/dp/B08XK4FSVP", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-fitness-equalizer-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP%2BFitness%2B20kg%2BEqualizer%2BBarbell%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10048,6 +10260,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07YDQKX6N", rawUrl: "https://www.amazon.co.jp/dp/B07YDQKX6N", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07YDQKX6N", rawUrl: "https://www.amazon.com/dp/B07YDQKX6N", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07YDQKX6N", rawUrl: "https://www.amazon.de/dp/B07YDQKX6N", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-fitness-olympic-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan%2BFitness%2BOlympic%2BBarbell%2B20kg%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10063,6 +10277,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B084DTYBRB", rawUrl: "https://www.amazon.co.jp/dp/B084DTYBRB", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B084DTYBRB", rawUrl: "https://www.amazon.com/dp/B084DTYBRB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B084DTYBRB", rawUrl: "https://www.amazon.de/dp/B084DTYBRB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-rm-3-power-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BRM-3%2BPower%2BRack%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10076,6 +10292,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08BFQ9MBX", rawUrl: "https://www.amazon.co.jp/dp/B08BFQ9MBX", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08BFQ9MBX", rawUrl: "https://www.amazon.com/dp/B08BFQ9MBX", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08BFQ9MBX", rawUrl: "https://www.amazon.de/dp/B08BFQ9MBX", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-fitness-pr-4000-power-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP%2BFitness%2BPR-4000%2BPower%2BRack%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10089,6 +10307,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08G9KBVG5", rawUrl: "https://www.amazon.co.jp/dp/B08G9KBVG5", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08G9KBVG5", rawUrl: "https://www.amazon.com/dp/B08G9KBVG5", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08G9KBVG5", rawUrl: "https://www.amazon.de/dp/B08G9KBVG5", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-fitness-t-3-short-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan%2BFitness%2BT-3%2BShort%2BPower%2BRack%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10102,6 +10322,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BCFV8NA", rawUrl: "https://www.amazon.co.jp/dp/B00BCFV8NA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BCFV8NA", rawUrl: "https://www.amazon.com/dp/B00BCFV8NA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BCFV8NA", rawUrl: "https://www.amazon.de/dp/B00BCFV8NA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cap-barbell-power-rack-fm-cs8000f", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP%2BBarbell%2BPower%2BRack%2BFM-CS8000F%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10115,6 +10337,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07C9BX9PS", rawUrl: "https://www.amazon.co.jp/dp/B07C9BX9PS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07C9BX9PS", rawUrl: "https://www.amazon.com/dp/B07C9BX9PS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07C9BX9PS", rawUrl: "https://www.amazon.de/dp/B07C9BX9PS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fitness-reality-810xlt-power-cage", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitness%2BReality%2B810XLT%2BPower%2BCage%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10130,6 +10354,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00FLYWNYQ", rawUrl: "https://www.amazon.co.jp/dp/B00FLYWNYQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00FLYWNYQ", rawUrl: "https://www.amazon.com/dp/B00FLYWNYQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00FLYWNYQ", rawUrl: "https://www.amazon.de/dp/B00FLYWNYQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-instant-pot-duo-7in1-6qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BDuo%2B7-in-1%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10143,6 +10369,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08R4Z9J8K", rawUrl: "https://www.amazon.co.jp/dp/B08R4Z9J8K", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08R4Z9J8K", rawUrl: "https://www.amazon.com/dp/B08R4Z9J8K", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08R4Z9J8K", rawUrl: "https://www.amazon.de/dp/B08R4Z9J8K", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-instant-pot-pro-10in1-6qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BPro%2B10-in-1%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10156,6 +10384,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07QM4NMCK", rawUrl: "https://www.amazon.co.jp/dp/B07QM4NMCK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07QM4NMCK", rawUrl: "https://www.amazon.com/dp/B07QM4NMCK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07QM4NMCK", rawUrl: "https://www.amazon.de/dp/B07QM4NMCK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ninja-fd401-foodi-8qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNinja%2BFoodi%2BFD401%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10169,6 +10399,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08JBLBKLH", rawUrl: "https://www.amazon.co.jp/dp/B08JBLBKLH", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08JBLBKLH", rawUrl: "https://www.amazon.com/dp/B08JBLBKLH", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08JBLBKLH", rawUrl: "https://www.amazon.de/dp/B08JBLBKLH", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cosori-pressure-cooker-6qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCOSORI%2B%E9%9B%BB%E6%B0%97%E5%9C%A7%E5%8A%9B%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10182,6 +10414,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07WLLNMXZ", rawUrl: "https://www.amazon.co.jp/dp/B07WLLNMXZ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07WLLNMXZ", rawUrl: "https://www.amazon.com/dp/B07WLLNMXZ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07WLLNMXZ", rawUrl: "https://www.amazon.de/dp/B07WLLNMXZ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-instant-pot-duo-crisp-air-fryer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BDuo%2BCrisp%2B%E3%82%A8%E3%82%A2%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10197,6 +10431,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B082PPLFW3", rawUrl: "https://www.amazon.co.jp/dp/B082PPLFW3", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B082PPLFW3", rawUrl: "https://www.amazon.com/dp/B082PPLFW3", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B082PPLFW3", rawUrl: "https://www.amazon.de/dp/B082PPLFW3", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cuisinart-waf-f20p1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BWaffle%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10211,6 +10447,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00YWHXHM2", rawUrl: "https://www.amazon.co.jp/dp/B00YWHXHM2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00YWHXHM2", rawUrl: "https://www.amazon.com/dp/B00YWHXHM2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00YWHXHM2", rawUrl: "https://www.amazon.de/dp/B00YWHXHM2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hamilton-beach-26031", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2BWaffle%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10225,6 +10463,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0037ZG3DS", rawUrl: "https://www.amazon.co.jp/dp/B0037ZG3DS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0037ZG3DS", rawUrl: "https://www.amazon.com/dp/B0037ZG3DS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0037ZG3DS", rawUrl: "https://www.amazon.de/dp/B0037ZG3DS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-breville-bwm604xl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BWaffle%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10239,6 +10479,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07D8KD8CW", rawUrl: "https://www.amazon.co.jp/dp/B07D8KD8CW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07D8KD8CW", rawUrl: "https://www.amazon.com/dp/B07D8KD8CW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07D8KD8CW", rawUrl: "https://www.amazon.de/dp/B07D8KD8CW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-dash-mini-waffle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDash%2BMini%2BWaffle%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10253,6 +10495,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B005C4Y2G0", rawUrl: "https://www.amazon.co.jp/dp/B005C4Y2G0", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B005C4Y2G0", rawUrl: "https://www.amazon.com/dp/B005C4Y2G0", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B005C4Y2G0", rawUrl: "https://www.amazon.de/dp/B005C4Y2G0", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oster-ckstwf2000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOster%2BBelgian%2BWaffle%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10268,6 +10512,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B004T6MHPM", rawUrl: "https://www.amazon.co.jp/dp/B004T6MHPM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B004T6MHPM", rawUrl: "https://www.amazon.com/dp/B004T6MHPM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B004T6MHPM", rawUrl: "https://www.amazon.de/dp/B004T6MHPM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-tfal-e76597-nonstick-12in", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNonstick%2BFrying%2BPan%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10282,6 +10528,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08CHHK7GC", rawUrl: "https://www.amazon.co.jp/dp/B08CHHK7GC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08CHHK7GC", rawUrl: "https://www.amazon.com/dp/B08CHHK7GC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08CHHK7GC", rawUrl: "https://www.amazon.de/dp/B08CHHK7GC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hexclad-12in-hybrid-pan", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHexClad%2BHybrid%2BPan%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10296,6 +10544,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00HFQQ0VO", rawUrl: "https://www.amazon.co.jp/dp/B00HFQQ0VO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00HFQQ0VO", rawUrl: "https://www.amazon.com/dp/B00HFQQ0VO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00HFQQ0VO", rawUrl: "https://www.amazon.de/dp/B00HFQQ0VO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ozeri-stone-earth-10in", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOzeri%2BStone%2BEarth%2B%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10310,6 +10560,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08FB2FMHZ", rawUrl: "https://www.amazon.co.jp/dp/B08FB2FMHZ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08FB2FMHZ", rawUrl: "https://www.amazon.com/dp/B08FB2FMHZ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08FB2FMHZ", rawUrl: "https://www.amazon.de/dp/B08FB2FMHZ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-caraway-ceramic-frypan", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCaraway%2B%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10324,6 +10576,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00M2EVEXQ", rawUrl: "https://www.amazon.co.jp/dp/B00M2EVEXQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00M2EVEXQ", rawUrl: "https://www.amazon.com/dp/B00M2EVEXQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00M2EVEXQ", rawUrl: "https://www.amazon.de/dp/B00M2EVEXQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-greenpan-paris-11in", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGreenPan%2B%E3%83%8E%E3%83%B3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10339,6 +10593,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09Q7J3PCP", rawUrl: "https://www.amazon.co.jp/dp/B09Q7J3PCP", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09Q7J3PCP", rawUrl: "https://www.amazon.com/dp/B09Q7J3PCP", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09Q7J3PCP", rawUrl: "https://www.amazon.de/dp/B09Q7J3PCP", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nordictrack-se7i", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNordicTrack%2BElliptical%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10353,6 +10609,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09KZXGJ8M", rawUrl: "https://www.amazon.co.jp/dp/B09KZXGJ8M", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09KZXGJ8M", rawUrl: "https://www.amazon.com/dp/B09KZXGJ8M", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09KZXGJ8M", rawUrl: "https://www.amazon.de/dp/B09KZXGJ8M", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-sole-e35", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSole%2BE35%2BElliptical%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10367,6 +10625,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07VBMXZLT", rawUrl: "https://www.amazon.co.jp/dp/B07VBMXZLT", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07VBMXZLT", rawUrl: "https://www.amazon.com/dp/B07VBMXZLT", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07VBMXZLT", rawUrl: "https://www.amazon.de/dp/B07VBMXZLT", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-schwinn-470", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSchwinn%2B470%2BElliptical%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10381,6 +10641,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08HVZHNYC", rawUrl: "https://www.amazon.co.jp/dp/B08HVZHNYC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08HVZHNYC", rawUrl: "https://www.amazon.com/dp/B08HVZHNYC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08HVZHNYC", rawUrl: "https://www.amazon.de/dp/B08HVZHNYC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bowflex-m9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex%2BMax%2BTrainer%2FM9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10395,6 +10657,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BGMCX7L", rawUrl: "https://www.amazon.co.jp/dp/B07BGMCX7L", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BGMCX7L", rawUrl: "https://www.amazon.com/dp/B07BGMCX7L", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BGMCX7L", rawUrl: "https://www.amazon.de/dp/B07BGMCX7L", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nautilus-e616", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNautilus%2BE616%2BElliptical%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10410,6 +10674,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07CNNKHLZ", rawUrl: "https://www.amazon.co.jp/dp/B07CNNKHLZ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07CNNKHLZ", rawUrl: "https://www.amazon.com/dp/B07CNNKHLZ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07CNNKHLZ", rawUrl: "https://www.amazon.de/dp/B07CNNKHLZ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-zojirushi-bb-pdc20ba", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZojirushi%2BBread%2BMachine%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10424,6 +10690,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01N6634KH", rawUrl: "https://www.amazon.co.jp/dp/B01N6634KH", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01N6634KH", rawUrl: "https://www.amazon.com/dp/B01N6634KH", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01N6634KH", rawUrl: "https://www.amazon.de/dp/B01N6634KH", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cuisinart-cbk-110p1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BBread%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10438,6 +10706,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00CMB6R4M", rawUrl: "https://www.amazon.co.jp/dp/B00CMB6R4M", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00CMB6R4M", rawUrl: "https://www.amazon.com/dp/B00CMB6R4M", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00CMB6R4M", rawUrl: "https://www.amazon.de/dp/B00CMB6R4M", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hamilton-beach-29882", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2BBread%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10452,6 +10722,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B004T6NH02", rawUrl: "https://www.amazon.co.jp/dp/B004T6NH02", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B004T6NH02", rawUrl: "https://www.amazon.com/dp/B004T6NH02", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B004T6NH02", rawUrl: "https://www.amazon.de/dp/B004T6NH02", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oster-expressbake-ckstbr9050", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOster%2BExpressbake%2BBread%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10466,6 +10738,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B007K7MKNO", rawUrl: "https://www.amazon.co.jp/dp/B007K7MKNO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B007K7MKNO", rawUrl: "https://www.amazon.com/dp/B007K7MKNO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B007K7MKNO", rawUrl: "https://www.amazon.de/dp/B007K7MKNO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-panasonic-sd-b2510", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPanasonic%2BBread%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10481,6 +10755,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07H8MGRGQ", rawUrl: "https://www.amazon.co.jp/dp/B07H8MGRGQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07H8MGRGQ", rawUrl: "https://www.amazon.com/dp/B07H8MGRGQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07H8MGRGQ", rawUrl: "https://www.amazon.de/dp/B07H8MGRGQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rubber-flooring-horse-stall-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGym%2BFlooring%2BRubber%2BMat%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10551,6 +10827,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08R6J8C7N", rawUrl: "https://www.amazon.co.jp/dp/B08R6J8C7N", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08R6J8C7N", rawUrl: "https://www.amazon.com/dp/B08R6J8C7N", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08R6J8C7N", rawUrl: "https://www.amazon.de/dp/B08R6J8C7N", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-monster-cable-crossover", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCable%2BMachine%2BHome%2BGym%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10565,6 +10843,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07VDVZ9Q2", rawUrl: "https://www.amazon.co.jp/dp/B07VDVZ9Q2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07VDVZ9Q2", rawUrl: "https://www.amazon.com/dp/B07VDVZ9Q2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07VDVZ9Q2", rawUrl: "https://www.amazon.de/dp/B07VDVZ9Q2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-inspire-ft2-functional-trainer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFunctional%2BTrainer%2BCable%2BMachine%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10579,6 +10859,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00PJHXYX6", rawUrl: "https://www.amazon.co.jp/dp/B00PJHXYX6", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00PJHXYX6", rawUrl: "https://www.amazon.com/dp/B00PJHXYX6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00PJHXYX6", rawUrl: "https://www.amazon.de/dp/B00PJHXYX6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bowflex-pr3000-home-gym", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex%2BPR3000%2BHome%2BGym%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10593,6 +10875,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07Q4MFGVJ", rawUrl: "https://www.amazon.co.jp/dp/B07Q4MFGVJ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07Q4MFGVJ", rawUrl: "https://www.amazon.com/dp/B07Q4MFGVJ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07Q4MFGVJ", rawUrl: "https://www.amazon.de/dp/B07Q4MFGVJ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-valor-fitness-bd-62-cable-crossover", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor%2BFitness%2BCable%2BCrossover%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10606,6 +10890,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08MHQBYTM", rawUrl: "https://www.amazon.co.jp/dp/B08MHQBYTM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08MHQBYTM", rawUrl: "https://www.amazon.com/dp/B08MHQBYTM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08MHQBYTM", rawUrl: "https://www.amazon.de/dp/B08MHQBYTM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-force-usa-g6-functional-trainer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FForce%2BUSA%2BFunctional%2BTrainer%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10622,6 +10908,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00E6TSXBW", rawUrl: "https://www.amazon.co.jp/dp/B00E6TSXBW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00E6TSXBW", rawUrl: "https://www.amazon.com/dp/B00E6TSXBW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00E6TSXBW", rawUrl: "https://www.amazon.de/dp/B00E6TSXBW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cap-barbell-a-frame-dumbbell-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDumbbell%2BRack%2BStorage%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10636,6 +10924,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001ARYU58", rawUrl: "https://www.amazon.co.jp/dp/B001ARYU58", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001ARYU58", rawUrl: "https://www.amazon.com/dp/B001ARYU58", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001ARYU58", rawUrl: "https://www.amazon.de/dp/B001ARYU58", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bowflex-selecttech-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex%2BSelectTech%2BDumbbell%2BStand%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10650,6 +10940,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07D5KLTDR", rawUrl: "https://www.amazon.co.jp/dp/B07D5KLTDR", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07D5KLTDR", rawUrl: "https://www.amazon.com/dp/B07D5KLTDR", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07D5KLTDR", rawUrl: "https://www.amazon.de/dp/B07D5KLTDR", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-hd-monster-dumbbell-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BDumbbell%2BRack%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10664,6 +10956,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B075TDZQ7R", rawUrl: "https://www.amazon.co.jp/dp/B075TDZQ7R", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B075TDZQ7R", rawUrl: "https://www.amazon.com/dp/B075TDZQ7R", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B075TDZQ7R", rawUrl: "https://www.amazon.de/dp/B075TDZQ7R", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fitness-reality-universal-dumbbell-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitness%2BReality%2BDumbbell%2BRack%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10677,6 +10971,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07CZDMWRK", rawUrl: "https://www.amazon.co.jp/dp/B07CZDMWRK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07CZDMWRK", rawUrl: "https://www.amazon.com/dp/B07CZDMWRK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07CZDMWRK", rawUrl: "https://www.amazon.de/dp/B07CZDMWRK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-go-time-gear-dumbbell-rack-3-tier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F3%25E6%25AE%25B5%2B%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2B%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10693,6 +10989,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00F1C4V8A", rawUrl: "https://www.amazon.co.jp/dp/B00F1C4V8A", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00F1C4V8A", rawUrl: "https://www.amazon.com/dp/B00F1C4V8A", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00F1C4V8A", rawUrl: "https://www.amazon.de/dp/B00F1C4V8A", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-duxtop-9100mc", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDuxtop%2BInduction%2BCooktop%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10707,6 +11005,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00LQKJPD0", rawUrl: "https://www.amazon.co.jp/dp/B00LQKJPD0", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00LQKJPD0", rawUrl: "https://www.amazon.com/dp/B00LQKJPD0", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00LQKJPD0", rawUrl: "https://www.amazon.de/dp/B00LQKJPD0", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nuwave-precision-induction-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNuWave%2BPrecision%2BInduction%2FCooktop%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10721,6 +11021,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00LQOU3GQ", rawUrl: "https://www.amazon.co.jp/dp/B00LQOU3GQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00LQOU3GQ", rawUrl: "https://www.amazon.com/dp/B00LQOU3GQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00LQOU3GQ", rawUrl: "https://www.amazon.de/dp/B00LQOU3GQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-breville-bic600xl-control-freak", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BControl%2BFreak%2BInduction%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10735,6 +11037,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B085HH1YDC", rawUrl: "https://www.amazon.co.jp/dp/B085HH1YDC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B085HH1YDC", rawUrl: "https://www.amazon.com/dp/B085HH1YDC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B085HH1YDC", rawUrl: "https://www.amazon.de/dp/B085HH1YDC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cosori-induction-cooktop-1800w", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCOSORI%2BInduction%2BCooktop%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10749,6 +11053,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01FZLHVHQ", rawUrl: "https://www.amazon.co.jp/dp/B01FZLHVHQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01FZLHVHQ", rawUrl: "https://www.amazon.com/dp/B01FZLHVHQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01FZLHVHQ", rawUrl: "https://www.amazon.de/dp/B01FZLHVHQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-secura-9100mc-induction", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSecura%2BInduction%2BCooktop%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10765,6 +11071,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09P67VKXJ", rawUrl: "https://www.amazon.co.jp/dp/B09P67VKXJ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09P67VKXJ", rawUrl: "https://www.amazon.com/dp/B09P67VKXJ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09P67VKXJ", rawUrl: "https://www.amazon.de/dp/B09P67VKXJ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-thermoworks-thermapen-one", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMeat%2BThermometer%2BInstant%2BRead%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10779,6 +11087,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00GRFHYJA", rawUrl: "https://www.amazon.co.jp/dp/B00GRFHYJA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00GRFHYJA", rawUrl: "https://www.amazon.com/dp/B00GRFHYJA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00GRFHYJA", rawUrl: "https://www.amazon.de/dp/B00GRFHYJA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-lavatools-javelin-pro-duo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLavatools%2BJavelin%2BPro%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10793,6 +11103,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07Y7DQHV8", rawUrl: "https://www.amazon.co.jp/dp/B07Y7DQHV8", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07Y7DQHV8", rawUrl: "https://www.amazon.com/dp/B07Y7DQHV8", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07Y7DQHV8", rawUrl: "https://www.amazon.de/dp/B07Y7DQHV8", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-meater-plus-wireless", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMEATER%2BPlus%2BWireless%2BThermometer%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10807,6 +11119,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07QFYK2BX", rawUrl: "https://www.amazon.co.jp/dp/B07QFYK2BX", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07QFYK2BX", rawUrl: "https://www.amazon.com/dp/B07QFYK2BX", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07QFYK2BX", rawUrl: "https://www.amazon.de/dp/B07QFYK2BX", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oxo-chef-precision-thermometer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%2BInstant%2BRead%2BThermometer%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10821,6 +11135,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00004XSC5", rawUrl: "https://www.amazon.co.jp/dp/B00004XSC5", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00004XSC5", rawUrl: "https://www.amazon.com/dp/B00004XSC5", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00004XSC5", rawUrl: "https://www.amazon.de/dp/B00004XSC5", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-taylor-precision-9842", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTaylor%2BDigital%2BMeat%2BThermometer%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10837,6 +11153,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00004OCLJ", rawUrl: "https://www.amazon.co.jp/dp/B00004OCLJ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00004OCLJ", rawUrl: "https://www.amazon.com/dp/B00004OCLJ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00004OCLJ", rawUrl: "https://www.amazon.de/dp/B00004OCLJ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oxo-salad-spinner-5qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%2BSalad%2BSpinner%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10851,6 +11169,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01N9THUNM", rawUrl: "https://www.amazon.co.jp/dp/B01N9THUNM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01N9THUNM", rawUrl: "https://www.amazon.com/dp/B01N9THUNM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01N9THUNM", rawUrl: "https://www.amazon.de/dp/B01N9THUNM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-zyliss-swift-dry-salad-spinner", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZyliss%2BSalad%2BSpinner%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10865,6 +11185,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B002YB0SBK", rawUrl: "https://www.amazon.co.jp/dp/B002YB0SBK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B002YB0SBK", rawUrl: "https://www.amazon.com/dp/B002YB0SBK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B002YB0SBK", rawUrl: "https://www.amazon.de/dp/B002YB0SBK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-chef-n-saladshot-spinner", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChef%2527n%2BSaladShot%2BSpinner%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10879,6 +11201,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07WNXLK77", rawUrl: "https://www.amazon.co.jp/dp/B07WNXLK77", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07WNXLK77", rawUrl: "https://www.amazon.com/dp/B07WNXLK77", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07WNXLK77", rawUrl: "https://www.amazon.de/dp/B07WNXLK77", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-kitchenaid-salad-spinner-ksgss5", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKitchenAid%2BSalad%2BSpinner%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10893,6 +11217,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00ATO5IPE", rawUrl: "https://www.amazon.co.jp/dp/B00ATO5IPE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00ATO5IPE", rawUrl: "https://www.amazon.com/dp/B00ATO5IPE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00ATO5IPE", rawUrl: "https://www.amazon.de/dp/B00ATO5IPE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-paderno-salad-spinner", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPaderno%2BSalad%2BSpinner%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10907,6 +11233,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BWKZK1A", rawUrl: "https://www.amazon.co.jp/dp/B00BWKZK1A", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BWKZK1A", rawUrl: "https://www.amazon.com/dp/B00BWKZK1A", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BWKZK1A", rawUrl: "https://www.amazon.de/dp/B00BWKZK1A", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-kitchenaid-khm512er-hand-mixer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKitchenAid%2BHand%2BMixer%2FKHM512%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10921,6 +11249,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BWKZMRA", rawUrl: "https://www.amazon.co.jp/dp/B00BWKZMRA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BWKZMRA", rawUrl: "https://www.amazon.com/dp/B00BWKZMRA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BWKZMRA", rawUrl: "https://www.amazon.de/dp/B00BWKZMRA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-breville-bhm800sil-hand-mixer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BHand%2BMixer%2FBHM800%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10935,6 +11265,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00PXET57A", rawUrl: "https://www.amazon.co.jp/dp/B00PXET57A", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00PXET57A", rawUrl: "https://www.amazon.com/dp/B00PXET57A", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00PXET57A", rawUrl: "https://www.amazon.de/dp/B00PXET57A", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cuisinart-hm-90bcs-hand-mixer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BHand%2BMixer%2FHM-90%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10949,6 +11281,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00JRPHLUA", rawUrl: "https://www.amazon.co.jp/dp/B00JRPHLUA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00JRPHLUA", rawUrl: "https://www.amazon.com/dp/B00JRPHLUA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00JRPHLUA", rawUrl: "https://www.amazon.de/dp/B00JRPHLUA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hamilton-beach-62682-hand-mixer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2BHand%2BMixer%2F62682%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10963,6 +11297,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001AV2KBK", rawUrl: "https://www.amazon.co.jp/dp/B001AV2KBK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001AV2KBK", rawUrl: "https://www.amazon.com/dp/B001AV2KBK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001AV2KBK", rawUrl: "https://www.amazon.de/dp/B001AV2KBK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-krups-gn9019-hand-mixer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKRUPS%2BHand%2BMixer%2FGN9019%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10979,6 +11315,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07DKZV89N", rawUrl: "https://www.amazon.co.jp/dp/B07DKZV89N", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07DKZV89N", rawUrl: "https://www.amazon.com/dp/B07DKZV89N", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07DKZV89N", rawUrl: "https://www.amazon.de/dp/B07DKZV89N", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-calibrated-kg-plates", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWeight%2BPlates%2BOlympic%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10993,6 +11331,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07MQDGWZN", rawUrl: "https://www.amazon.co.jp/dp/B07MQDGWZN", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07MQDGWZN", rawUrl: "https://www.amazon.com/dp/B07MQDGWZN", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07MQDGWZN", rawUrl: "https://www.amazon.de/dp/B07MQDGWZN", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-fitness-cast-iron-plates", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP%2BFitness%2BOlympic%2BPlates%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11007,6 +11347,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000VDIKAQ", rawUrl: "https://www.amazon.co.jp/dp/B000VDIKAQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000VDIKAQ", rawUrl: "https://www.amazon.com/dp/B000VDIKAQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000VDIKAQ", rawUrl: "https://www.amazon.de/dp/B000VDIKAQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cap-barbell-olympic-plates", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP%2BBarbell%2BOlympic%2BPlates%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11021,6 +11363,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BEZT3L4", rawUrl: "https://www.amazon.co.jp/dp/B00BEZT3L4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BEZT3L4", rawUrl: "https://www.amazon.com/dp/B00BEZT3L4", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BEZT3L4", rawUrl: "https://www.amazon.de/dp/B00BEZT3L4", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-hi-temp-bumper-plates", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2BBumper%2BPlates%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11035,6 +11379,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01LYFK22C", rawUrl: "https://www.amazon.co.jp/dp/B01LYFK22C", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01LYFK22C", rawUrl: "https://www.amazon.com/dp/B01LYFK22C", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01LYFK22C", rawUrl: "https://www.amazon.de/dp/B01LYFK22C", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fringe-sport-bumper-plates", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFringe%2BSport%2BBumper%2BPlates%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11050,6 +11396,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07GK7XDNM", rawUrl: "https://www.amazon.co.jp/dp/B07GK7XDNM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07GK7XDNM", rawUrl: "https://www.amazon.com/dp/B07GK7XDNM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07GK7XDNM", rawUrl: "https://www.amazon.de/dp/B07GK7XDNM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-unicook-pizza-stone", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUnicook%2BPizza%2BStone%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11064,6 +11412,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00CNFR3PG", rawUrl: "https://www.amazon.co.jp/dp/B00CNFR3PG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00CNFR3PG", rawUrl: "https://www.amazon.com/dp/B00CNFR3PG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00CNFR3PG", rawUrl: "https://www.amazon.de/dp/B00CNFR3PG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-emile-henry-pizza-stone", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%9F%E3%83%BC%E3%83%AB%2B%E3%82%A2%E3%83%B3%E3%83%AA%2B%E3%83%94%E3%82%B6%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11078,6 +11428,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00JLSRWCA", rawUrl: "https://www.amazon.co.jp/dp/B00JLSRWCA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00JLSRWCA", rawUrl: "https://www.amazon.com/dp/B00JLSRWCA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00JLSRWCA", rawUrl: "https://www.amazon.de/dp/B00JLSRWCA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-baking-steel-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBaking%2BSteel%2BOriginal%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11092,6 +11444,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000CF6IO", rawUrl: "https://www.amazon.co.jp/dp/B0000CF6IO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0000CF6IO", rawUrl: "https://www.amazon.com/dp/B0000CF6IO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000CF6IO", rawUrl: "https://www.amazon.de/dp/B0000CF6IO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-lodge-cast-iron-pizza-pan", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%2B%E3%83%94%E3%82%B6%E3%83%91%E3%83%B3%2B%E9%8B%B3%E9%89%84%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11106,6 +11460,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01GPYTS74", rawUrl: "https://www.amazon.co.jp/dp/B01GPYTS74", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01GPYTS74", rawUrl: "https://www.amazon.com/dp/B01GPYTS74", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01GPYTS74", rawUrl: "https://www.amazon.de/dp/B01GPYTS74", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hans-grill-pizza-stone", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHans%2BGrill%2BPizza%2BStone%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11122,6 +11478,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07L96RQDS", rawUrl: "https://www.amazon.co.jp/dp/B07L96RQDS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07L96RQDS", rawUrl: "https://www.amazon.com/dp/B07L96RQDS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07L96RQDS", rawUrl: "https://www.amazon.de/dp/B07L96RQDS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cap-barbell-freestanding-pull-up-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFreestanding%2BPull%2BUp%2BBar%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11136,6 +11494,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B003TKGQQ0", rawUrl: "https://www.amazon.co.jp/dp/B003TKGQQ0", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B003TKGQQ0", rawUrl: "https://www.amazon.com/dp/B003TKGQQ0", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B003TKGQQ0", rawUrl: "https://www.amazon.de/dp/B003TKGQQ0", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ultimate-body-press-freestanding-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFreestanding%2BPull%2BUp%2BBar%2BAdjustable%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11150,6 +11510,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07R9WRWBB", rawUrl: "https://www.amazon.co.jp/dp/B07R9WRWBB", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07R9WRWBB", rawUrl: "https://www.amazon.com/dp/B07R9WRWBB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07R9WRWBB", rawUrl: "https://www.amazon.de/dp/B07R9WRWBB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-power-tower-workout-dip-station", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPower%2BTower%2BPull%2BUp%2BDip%2BStation%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11164,6 +11526,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00XF7FKZC", rawUrl: "https://www.amazon.co.jp/dp/B00XF7FKZC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00XF7FKZC", rawUrl: "https://www.amazon.com/dp/B00XF7FKZC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00XF7FKZC", rawUrl: "https://www.amazon.de/dp/B00XF7FKZC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fitness-reality-x2-power-tower", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitness%2BReality%2BPower%2BTower%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11178,6 +11542,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07PLDG9DQ", rawUrl: "https://www.amazon.co.jp/dp/B07PLDG9DQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07PLDG9DQ", rawUrl: "https://www.amazon.com/dp/B07PLDG9DQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07PLDG9DQ", rawUrl: "https://www.amazon.de/dp/B07PLDG9DQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-weider-power-tower-200", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWeider%2BPower%2BTower%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11194,6 +11560,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00KYGBV14", rawUrl: "https://www.amazon.co.jp/dp/B00KYGBV14", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00KYGBV14", rawUrl: "https://www.amazon.com/dp/B00KYGBV14", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00KYGBV14", rawUrl: "https://www.amazon.de/dp/B00KYGBV14", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fissler-vitaquick-6qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A3%E3%82%B9%E3%83%A9%E3%83%BC%2B%E3%83%93%E3%82%BF%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11208,6 +11576,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000CF5LZ", rawUrl: "https://www.amazon.co.jp/dp/B0000CF5LZ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0000CF5LZ", rawUrl: "https://www.amazon.com/dp/B0000CF5LZ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000CF5LZ", rawUrl: "https://www.amazon.de/dp/B0000CF5LZ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-presto-8qt-pressure-cooker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPresto%2B%E5%9C%A7%E5%8A%9B%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11222,6 +11592,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00ZCL3FJU", rawUrl: "https://www.amazon.co.jp/dp/B00ZCL3FJU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00ZCL3FJU", rawUrl: "https://www.amazon.com/dp/B00ZCL3FJU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00ZCL3FJU", rawUrl: "https://www.amazon.de/dp/B00ZCL3FJU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-tfal-clipso-pressure-cooker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB%2B%E3%82%AF%E3%83%AA%E3%83%97%E3%82%BD%2B%E5%9C%A7%E5%8A%9B%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11236,6 +11608,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000050CKC", rawUrl: "https://www.amazon.co.jp/dp/B000050CKC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000050CKC", rawUrl: "https://www.amazon.com/dp/B000050CKC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000050CKC", rawUrl: "https://www.amazon.de/dp/B000050CKC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-kuhn-rikon-duromatic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AF%E3%83%BC%E3%83%B3%2B%E3%83%AA%E3%82%B3%E3%83%B3%2B%E3%83%87%E3%83%A5%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11250,6 +11624,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001B2MVWI", rawUrl: "https://www.amazon.co.jp/dp/B001B2MVWI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001B2MVWI", rawUrl: "https://www.amazon.com/dp/B001B2MVWI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001B2MVWI", rawUrl: "https://www.amazon.de/dp/B001B2MVWI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-magefesa-star-pressure-cooker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%82%B2%E3%83%95%E3%82%A7%E3%82%B5%2B%E5%9C%A7%E5%8A%9B%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11266,6 +11642,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BFPZ5Z3", rawUrl: "https://www.amazon.co.jp/dp/B07BFPZ5Z3", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BFPZ5Z3", rawUrl: "https://www.amazon.com/dp/B07BFPZ5Z3", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BFPZ5Z3", rawUrl: "https://www.amazon.de/dp/B07BFPZ5Z3", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-sportneer-push-up-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSportneer%2B%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11280,6 +11658,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001EJMS6K", rawUrl: "https://www.amazon.co.jp/dp/B001EJMS6K", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001EJMS6K", rawUrl: "https://www.amazon.com/dp/B001EJMS6K", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001EJMS6K", rawUrl: "https://www.amazon.de/dp/B001EJMS6K", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-perfect-pushup-elite", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPerfect%2BPushup%2B%E5%9B%9E%E8%BB%A2%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11294,6 +11674,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07ZMLBT57", rawUrl: "https://www.amazon.co.jp/dp/B07ZMLBT57", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07ZMLBT57", rawUrl: "https://www.amazon.com/dp/B07ZMLBT57", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07ZMLBT57", rawUrl: "https://www.amazon.de/dp/B07ZMLBT57", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hashtag-fitness-push-up-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%83%E3%83%97%2B%E3%83%9C%E3%83%BC%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11308,6 +11690,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07P6WGNMZ", rawUrl: "https://www.amazon.co.jp/dp/B07P6WGNMZ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07P6WGNMZ", rawUrl: "https://www.amazon.com/dp/B07P6WGNMZ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07P6WGNMZ", rawUrl: "https://www.amazon.de/dp/B07P6WGNMZ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-yes4all-push-up-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All%2B%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11322,6 +11706,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07KQTMJNN", rawUrl: "https://www.amazon.co.jp/dp/B07KQTMJNN", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07KQTMJNN", rawUrl: "https://www.amazon.com/dp/B07KQTMJNN", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07KQTMJNN", rawUrl: "https://www.amazon.de/dp/B07KQTMJNN", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-limm-push-up-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLimm%2B%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11338,6 +11724,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00008CM67", rawUrl: "https://www.amazon.co.jp/dp/B00008CM67", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00008CM67", rawUrl: "https://www.amazon.com/dp/B00008CM67", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00008CM67", rawUrl: "https://www.amazon.de/dp/B00008CM67", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-marcato-atlas-150", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%AB%E3%82%AB%E3%83%BC%E3%83%88%2B%E3%82%A2%E3%83%88%E3%83%A9%E3%82%B9%2B%E3%83%91%E3%82%B9%E3%82%BF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11352,6 +11740,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000IXTTFA", rawUrl: "https://www.amazon.co.jp/dp/B000IXTTFA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000IXTTFA", rawUrl: "https://www.amazon.com/dp/B000IXTTFA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000IXTTFA", rawUrl: "https://www.amazon.de/dp/B000IXTTFA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-imperia-pasta-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%AA%E3%82%A2%2B%E3%83%91%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%B7%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11366,6 +11756,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00004RFNB", rawUrl: "https://www.amazon.co.jp/dp/B00004RFNB", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00004RFNB", rawUrl: "https://www.amazon.com/dp/B00004RFNB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00004RFNB", rawUrl: "https://www.amazon.de/dp/B00004RFNB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-kitchenaid-pasta-attachment", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%A8%E3%82%A4%E3%83%89%2B%E3%83%91%E3%82%B9%E3%82%BF%2B%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11380,6 +11772,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07KGZZMZH", rawUrl: "https://www.amazon.co.jp/dp/B07KGZZMZH", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07KGZZMZH", rawUrl: "https://www.amazon.com/dp/B07KGZZMZH", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07KGZZMZH", rawUrl: "https://www.amazon.de/dp/B07KGZZMZH", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-philips-pasta-maker-7000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%2B%E3%83%91%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11394,6 +11788,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B009WGFXQO", rawUrl: "https://www.amazon.co.jp/dp/B009WGFXQO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B009WGFXQO", rawUrl: "https://www.amazon.com/dp/B009WGFXQO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B009WGFXQO", rawUrl: "https://www.amazon.de/dp/B009WGFXQO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ronco-pasta-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AD%E3%83%B3%E3%82%B3%2B%E3%83%91%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11410,6 +11806,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BVZP8YW", rawUrl: "https://www.amazon.co.jp/dp/B07BVZP8YW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BVZP8YW", rawUrl: "https://www.amazon.com/dp/B07BVZP8YW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BVZP8YW", rawUrl: "https://www.amazon.de/dp/B07BVZP8YW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-springfree-trampoline-oval", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%95%E3%83%AA%E3%83%BC%2B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9D%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11424,6 +11822,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00NPUJRH6", rawUrl: "https://www.amazon.co.jp/dp/B00NPUJRH6", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00NPUJRH6", rawUrl: "https://www.amazon.com/dp/B00NPUJRH6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00NPUJRH6", rawUrl: "https://www.amazon.de/dp/B00NPUJRH6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-skywalker-15ft-trampoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC%2B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9D%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11438,6 +11838,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07GJ9QKQT", rawUrl: "https://www.amazon.co.jp/dp/B07GJ9QKQT", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07GJ9QKQT", rawUrl: "https://www.amazon.com/dp/B07GJ9QKQT", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07GJ9QKQT", rawUrl: "https://www.amazon.de/dp/B07GJ9QKQT", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-zupapa-15ft-trampoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BA%E3%83%91%E3%83%91%2B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9D%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11452,6 +11854,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B007SWGMDO", rawUrl: "https://www.amazon.co.jp/dp/B007SWGMDO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B007SWGMDO", rawUrl: "https://www.amazon.com/dp/B007SWGMDO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B007SWGMDO", rawUrl: "https://www.amazon.de/dp/B007SWGMDO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-jumpking-14ft-trampoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%AD%E3%83%B3%E3%82%B0%2B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9D%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11466,6 +11870,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00HKYDQXQ", rawUrl: "https://www.amazon.co.jp/dp/B00HKYDQXQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00HKYDQXQ", rawUrl: "https://www.amazon.com/dp/B00HKYDQXQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00HKYDQXQ", rawUrl: "https://www.amazon.de/dp/B00HKYDQXQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-jumpsport-550f", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%2B%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%83%AA%E3%83%90%E3%82%A6%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11482,6 +11888,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00004S3ET", rawUrl: "https://www.amazon.co.jp/dp/B00004S3ET", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00004S3ET", rawUrl: "https://www.amazon.com/dp/B00004S3ET", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00004S3ET", rawUrl: "https://www.amazon.de/dp/B00004S3ET", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-excalibur-9-tray", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%AB%E3%83%AA%E3%83%90%E3%83%BC%2B%E9%A3%9F%E5%93%81%E4%B9%BE%E7%87%A5%E6%A9%9F%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11496,6 +11904,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07XJGV3SR", rawUrl: "https://www.amazon.co.jp/dp/B07XJGV3SR", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07XJGV3SR", rawUrl: "https://www.amazon.com/dp/B07XJGV3SR", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07XJGV3SR", rawUrl: "https://www.amazon.de/dp/B07XJGV3SR", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cosori-food-dehydrator", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%82%BD%E3%83%AA%2B%E9%A3%9F%E5%93%81%E4%B9%BE%E7%87%A5%E6%A9%9F%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11510,6 +11920,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00CXKOEOA", rawUrl: "https://www.amazon.co.jp/dp/B00CXKOEOA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00CXKOEOA", rawUrl: "https://www.amazon.com/dp/B00CXKOEOA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00CXKOEOA", rawUrl: "https://www.amazon.de/dp/B00CXKOEOA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nesco-snackmaster-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8D%E3%82%B9%E3%82%B3%2B%E9%A3%9F%E5%93%81%E4%B9%BE%E7%87%A5%E6%A9%9F%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11524,6 +11936,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000P6IJWC", rawUrl: "https://www.amazon.co.jp/dp/B000P6IJWC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000P6IJWC", rawUrl: "https://www.amazon.com/dp/B000P6IJWC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000P6IJWC", rawUrl: "https://www.amazon.de/dp/B000P6IJWC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-presto-dehydro-digital", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88%2B%E9%A3%9F%E5%93%81%E4%B9%BE%E7%87%A5%E6%A9%9F%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11538,6 +11952,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01MSZAMXC", rawUrl: "https://www.amazon.co.jp/dp/B01MSZAMXC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01MSZAMXC", rawUrl: "https://www.amazon.com/dp/B01MSZAMXC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01MSZAMXC", rawUrl: "https://www.amazon.de/dp/B01MSZAMXC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-tribest-sedona-express", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%A9%E3%82%A4%E3%83%99%E3%82%B9%E3%83%88%2B%E3%82%BB%E3%83%89%E3%83%8A%2B%E9%A3%9F%E5%93%81%E4%B9%BE%E7%87%A5%E6%A9%9F%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11554,6 +11970,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B014GYK5NK", rawUrl: "https://www.amazon.co.jp/dp/B014GYK5NK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B014GYK5NK", rawUrl: "https://www.amazon.com/dp/B014GYK5NK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B014GYK5NK", rawUrl: "https://www.amazon.de/dp/B014GYK5NK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-dharma-yoga-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%83%BC%E3%83%9E%2B%E3%83%A8%E3%82%AC%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11568,6 +11986,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07L7JSMJH", rawUrl: "https://www.amazon.co.jp/dp/B07L7JSMJH", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07L7JSMJH", rawUrl: "https://www.amazon.com/dp/B07L7JSMJH", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07L7JSMJH", rawUrl: "https://www.amazon.de/dp/B07L7JSMJH", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-tumaz-yoga-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%9E%E3%82%BA%2B%E3%83%A8%E3%82%AC%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11582,6 +12002,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07W6KN7HF", rawUrl: "https://www.amazon.co.jp/dp/B07W6KN7HF", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07W6KN7HF", rawUrl: "https://www.amazon.com/dp/B07W6KN7HF", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07W6KN7HF", rawUrl: "https://www.amazon.de/dp/B07W6KN7HF", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bly-yoga-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBLY%2B%E3%83%A8%E3%82%AC%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11596,6 +12018,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01MZAXUOS", rawUrl: "https://www.amazon.co.jp/dp/B01MZAXUOS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01MZAXUOS", rawUrl: "https://www.amazon.com/dp/B01MZAXUOS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01MZAXUOS", rawUrl: "https://www.amazon.de/dp/B01MZAXUOS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-plexus-yoga-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AC%E3%82%AF%E3%82%B5%E3%82%B9%2B%E3%83%A8%E3%82%AC%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11610,6 +12034,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07HJ8Q2ZY", rawUrl: "https://www.amazon.co.jp/dp/B07HJ8Q2ZY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07HJ8Q2ZY", rawUrl: "https://www.amazon.com/dp/B07HJ8Q2ZY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07HJ8Q2ZY", rawUrl: "https://www.amazon.de/dp/B07HJ8Q2ZY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-chirp-wheel-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%A3%E3%83%BC%E3%83%97%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11624,6 +12050,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08CKFLKZF", rawUrl: "https://www.amazon.co.jp/dp/B08CKFLKZF", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08CKFLKZF", rawUrl: "https://www.amazon.com/dp/B08CKFLKZF", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08CKFLKZF", rawUrl: "https://www.amazon.de/dp/B08CKFLKZF", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-foodsaver-v4840", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFoodSaver%E7%9C%9F%E7%A9%BA%E3%83%91%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11638,6 +12066,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BIXFZNI", rawUrl: "https://www.amazon.co.jp/dp/B00BIXFZNI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BIXFZNI", rawUrl: "https://www.amazon.com/dp/B00BIXFZNI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BIXFZNI", rawUrl: "https://www.amazon.de/dp/B00BIXFZNI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nesco-vs12", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNesco%E7%9C%9F%E7%A9%BA%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11652,6 +12082,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07C2H3SWV", rawUrl: "https://www.amazon.co.jp/dp/B07C2H3SWV", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07C2H3SWV", rawUrl: "https://www.amazon.com/dp/B07C2H3SWV", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07C2H3SWV", rawUrl: "https://www.amazon.de/dp/B07C2H3SWV", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-anova-vacuum-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnova%E7%9C%9F%E7%A9%BA%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11666,6 +12098,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07GVBH7T7", rawUrl: "https://www.amazon.co.jp/dp/B07GVBH7T7", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07GVBH7T7", rawUrl: "https://www.amazon.com/dp/B07GVBH7T7", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07GVBH7T7", rawUrl: "https://www.amazon.de/dp/B07GVBH7T7", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-geryon-vacuum", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGeryon%E7%9C%9F%E7%A9%BA%E3%83%91%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11680,6 +12114,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B083XS99M1", rawUrl: "https://www.amazon.co.jp/dp/B083XS99M1", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B083XS99M1", rawUrl: "https://www.amazon.com/dp/B083XS99M1", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B083XS99M1", rawUrl: "https://www.amazon.de/dp/B083XS99M1", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-zwilling-fresh-save", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%84%E3%83%B4%E3%82%A3%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11694,6 +12130,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00IDSTXIC", rawUrl: "https://www.amazon.co.jp/dp/B00IDSTXIC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00IDSTXIC", rawUrl: "https://www.amazon.com/dp/B00IDSTXIC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00IDSTXIC", rawUrl: "https://www.amazon.de/dp/B00IDSTXIC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-indo-board-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A4%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11708,6 +12146,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001AQOXVO", rawUrl: "https://www.amazon.co.jp/dp/B001AQOXVO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001AQOXVO", rawUrl: "https://www.amazon.com/dp/B001AQOXVO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001AQOXVO", rawUrl: "https://www.amazon.de/dp/B001AQOXVO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bosu-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBOSU%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11722,6 +12162,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BSQTPAS", rawUrl: "https://www.amazon.co.jp/dp/B00BSQTPAS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BSQTPAS", rawUrl: "https://www.amazon.com/dp/B00BSQTPAS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BSQTPAS", rawUrl: "https://www.amazon.de/dp/B00BSQTPAS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-revbalance-101", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A9%E3%83%96%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11736,6 +12178,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00GX1EVLE", rawUrl: "https://www.amazon.co.jp/dp/B00GX1EVLE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00GX1EVLE", rawUrl: "https://www.amazon.com/dp/B00GX1EVLE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00GX1EVLE", rawUrl: "https://www.amazon.de/dp/B00GX1EVLE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-yes4all-wobble", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A6%E3%82%A9%E3%83%96%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11750,6 +12194,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00N4YQNTU", rawUrl: "https://www.amazon.co.jp/dp/B00N4YQNTU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00N4YQNTU", rawUrl: "https://www.amazon.com/dp/B00N4YQNTU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00N4YQNTU", rawUrl: "https://www.amazon.de/dp/B00N4YQNTU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fitterfirst-balance", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitterFirst%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11764,6 +12210,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00JXBK2KA", rawUrl: "https://www.amazon.co.jp/dp/B00JXBK2KA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00JXBK2KA", rawUrl: "https://www.amazon.com/dp/B00JXBK2KA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00JXBK2KA", rawUrl: "https://www.amazon.de/dp/B00JXBK2KA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cuisinart-ice21", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11778,6 +12226,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0099EB8EY", rawUrl: "https://www.amazon.co.jp/dp/B0099EB8EY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0099EB8EY", rawUrl: "https://www.amazon.com/dp/B0099EB8EY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0099EB8EY", rawUrl: "https://www.amazon.de/dp/B0099EB8EY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-whynter-icm200ls", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWhynter%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11792,6 +12242,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00B5Y5ZH2", rawUrl: "https://www.amazon.co.jp/dp/B00B5Y5ZH2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00B5Y5ZH2", rawUrl: "https://www.amazon.com/dp/B00B5Y5ZH2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00B5Y5ZH2", rawUrl: "https://www.amazon.de/dp/B00B5Y5ZH2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-breville-smart-scoop", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11806,6 +12258,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08Q58DHKY", rawUrl: "https://www.amazon.co.jp/dp/B08Q58DHKY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08Q58DHKY", rawUrl: "https://www.amazon.com/dp/B08Q58DHKY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08Q58DHKY", rawUrl: "https://www.amazon.de/dp/B08Q58DHKY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ninja-creami", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNinja+Creami%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11820,6 +12274,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00004SGFS", rawUrl: "https://www.amazon.co.jp/dp/B00004SGFS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00004SGFS", rawUrl: "https://www.amazon.com/dp/B00004SGFS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00004SGFS", rawUrl: "https://www.amazon.de/dp/B00004SGFS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-kitchenaid-icecream", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKitchenAid%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11834,6 +12290,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00B7OHZKA", rawUrl: "https://www.amazon.co.jp/dp/B00B7OHZKA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00B7OHZKA", rawUrl: "https://www.amazon.com/dp/B00B7OHZKA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00B7OHZKA", rawUrl: "https://www.amazon.de/dp/B00B7OHZKA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-sklz-agility-ladder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSKLZ%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A9%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11848,6 +12306,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00HKB83EC", rawUrl: "https://www.amazon.co.jp/dp/B00HKB83EC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00HKB83EC", rawUrl: "https://www.amazon.com/dp/B00HKB83EC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00HKB83EC", rawUrl: "https://www.amazon.de/dp/B00HKB83EC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-perfect-fitness-ladder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A9%E3%83%80%E3%83%BC%E3%83%89%E3%83%AA%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11862,6 +12322,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01A2GLRQW", rawUrl: "https://www.amazon.co.jp/dp/B01A2GLRQW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01A2GLRQW", rawUrl: "https://www.amazon.com/dp/B01A2GLRQW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01A2GLRQW", rawUrl: "https://www.amazon.de/dp/B01A2GLRQW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-yes4all-agility", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A9%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11876,6 +12338,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01LY7BQZR", rawUrl: "https://www.amazon.co.jp/dp/B01LY7BQZR", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01LY7BQZR", rawUrl: "https://www.amazon.com/dp/B01LY7BQZR", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01LY7BQZR", rawUrl: "https://www.amazon.de/dp/B01LY7BQZR", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-toezone-ladder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A9%E3%83%80%E3%83%BC%E3%83%81%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11890,6 +12354,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00IY71HQY", rawUrl: "https://www.amazon.co.jp/dp/B00IY71HQY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00IY71HQY", rawUrl: "https://www.amazon.com/dp/B00IY71HQY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00IY71HQY", rawUrl: "https://www.amazon.de/dp/B00IY71HQY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-speed-agility-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A9%E3%83%80%E3%83%BC%E3%82%A2%E3%83%AB%E3%83%9F%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11904,6 +12370,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B002DSEQYY", rawUrl: "https://www.amazon.co.jp/dp/B002DSEQYY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B002DSEQYY", rawUrl: "https://www.amazon.com/dp/B002DSEQYY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B002DSEQYY", rawUrl: "https://www.amazon.de/dp/B002DSEQYY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-boos-block-maple", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBoos%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%BE%E3%81%AA%E6%9D%BF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11918,6 +12386,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0058WMQZW", rawUrl: "https://www.amazon.co.jp/dp/B0058WMQZW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0058WMQZW", rawUrl: "https://www.amazon.com/dp/B0058WMQZW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0058WMQZW", rawUrl: "https://www.amazon.de/dp/B0058WMQZW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-teakhaus-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%BC%E3%82%AF%E3%81%BE%E3%81%AA%E6%9D%BF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11932,6 +12402,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00004OCHO", rawUrl: "https://www.amazon.co.jp/dp/B00004OCHO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00004OCHO", rawUrl: "https://www.amazon.com/dp/B00004OCHO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00004OCHO", rawUrl: "https://www.amazon.de/dp/B00004OCHO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oxo-cutting-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%E3%81%BE%E3%81%AA%E6%9D%BF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11946,6 +12418,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000BXQMWI", rawUrl: "https://www.amazon.co.jp/dp/B000BXQMWI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000BXQMWI", rawUrl: "https://www.amazon.com/dp/B000BXQMWI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000BXQMWI", rawUrl: "https://www.amazon.de/dp/B000BXQMWI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-epicurean-board", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEpicurean%E3%81%BE%E3%81%AA%E6%9D%BF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11960,6 +12434,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00DTHYJP2", rawUrl: "https://www.amazon.co.jp/dp/B00DTHYJP2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00DTHYJP2", rawUrl: "https://www.amazon.com/dp/B00DTHYJP2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00DTHYJP2", rawUrl: "https://www.amazon.de/dp/B00DTHYJP2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-boos-walnut", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJohn+Boos%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%8A%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11974,6 +12450,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07CJVSJYX", rawUrl: "https://www.amazon.co.jp/dp/B07CJVSJYX", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07CJVSJYX", rawUrl: "https://www.amazon.com/dp/B07CJVSJYX", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07CJVSJYX", rawUrl: "https://www.amazon.de/dp/B07CJVSJYX", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-trideer-ball", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%E8%80%90%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11988,6 +12466,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00JKNQ7UI", rawUrl: "https://www.amazon.co.jp/dp/B00JKNQ7UI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00JKNQ7UI", rawUrl: "https://www.amazon.com/dp/B00JKNQ7UI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00JKNQ7UI", rawUrl: "https://www.amazon.de/dp/B00JKNQ7UI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-gaiam-balance-ball", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGaiam%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12002,6 +12482,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B076ZNWC7G", rawUrl: "https://www.amazon.co.jp/dp/B076ZNWC7G", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B076ZNWC7G", rawUrl: "https://www.amazon.com/dp/B076ZNWC7G", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B076ZNWC7G", rawUrl: "https://www.amazon.de/dp/B076ZNWC7G", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-livepro-stability", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12016,6 +12498,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07C1YHN5H", rawUrl: "https://www.amazon.co.jp/dp/B07C1YHN5H", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07C1YHN5H", rawUrl: "https://www.amazon.com/dp/B07C1YHN5H", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07C1YHN5H", rawUrl: "https://www.amazon.de/dp/B07C1YHN5H", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-urbnfit-ball", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FURBN%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12030,6 +12514,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07HFNBKNJ", rawUrl: "https://www.amazon.co.jp/dp/B07HFNBKNJ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07HFNBKNJ", rawUrl: "https://www.amazon.com/dp/B07HFNBKNJ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07HFNBKNJ", rawUrl: "https://www.amazon.de/dp/B07HFNBKNJ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bosu-nexgen", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBOSU+NexGen%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12044,6 +12530,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00005AL44", rawUrl: "https://www.amazon.co.jp/dp/B00005AL44", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00005AL44", rawUrl: "https://www.amazon.com/dp/B00005AL44", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00005AL44", rawUrl: "https://www.amazon.de/dp/B00005AL44", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-allclad-d3-stockpot", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAll-Clad%E5%AF%B8%E8%83%B4%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12058,6 +12546,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00008CM6H", rawUrl: "https://www.amazon.co.jp/dp/B00008CM6H", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00008CM6H", rawUrl: "https://www.amazon.com/dp/B00008CM6H", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00008CM6H", rawUrl: "https://www.amazon.de/dp/B00008CM6H", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cuisinart-stockpot", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%E5%AF%B8%E8%83%B4%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12072,6 +12562,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00DHEOGB8", rawUrl: "https://www.amazon.co.jp/dp/B00DHEOGB8", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00DHEOGB8", rawUrl: "https://www.amazon.com/dp/B00DHEOGB8", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00DHEOGB8", rawUrl: "https://www.amazon.de/dp/B00DHEOGB8", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-tramontina-stockpot", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTramontina%E5%AF%B8%E8%83%B4%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12086,6 +12578,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00063RWYI", rawUrl: "https://www.amazon.co.jp/dp/B00063RWYI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00063RWYI", rawUrl: "https://www.amazon.com/dp/B00063RWYI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00063RWYI", rawUrl: "https://www.amazon.de/dp/B00063RWYI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-lodge-dutch-oven", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%E3%83%80%E3%83%83%E3%83%81%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12100,6 +12594,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07B4WZ6KT", rawUrl: "https://www.amazon.co.jp/dp/B07B4WZ6KT", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07B4WZ6KT", rawUrl: "https://www.amazon.com/dp/B07B4WZ6KT", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07B4WZ6KT", rawUrl: "https://www.amazon.de/dp/B07B4WZ6KT", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-demeyere-stockpot", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDemeyere%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12114,6 +12610,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09KFBDRMK", rawUrl: "https://www.amazon.co.jp/dp/B09KFBDRMK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09KFBDRMK", rawUrl: "https://www.amazon.com/dp/B09KFBDRMK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09KFBDRMK", rawUrl: "https://www.amazon.de/dp/B09KFBDRMK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rx-speed-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%97%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12128,6 +12626,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07YCMKN5B", rawUrl: "https://www.amazon.co.jp/dp/B07YCMKN5B", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07YCMKN5B", rawUrl: "https://www.amazon.com/dp/B07YCMKN5B", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07YCMKN5B", rawUrl: "https://www.amazon.de/dp/B07YCMKN5B", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-crossrope-lean", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCrossrope%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%83%AD%E3%83%BC%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12142,6 +12642,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00000IZOJ", rawUrl: "https://www.amazon.co.jp/dp/B00000IZOJ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00000IZOJ", rawUrl: "https://www.amazon.com/dp/B00000IZOJ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00000IZOJ", rawUrl: "https://www.amazon.de/dp/B00000IZOJ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-buddy-lee-aero", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBuddy+Lee%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12156,6 +12658,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00Z9ERYRA", rawUrl: "https://www.amazon.co.jp/dp/B00Z9ERYRA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00Z9ERYRA", rawUrl: "https://www.amazon.com/dp/B00Z9ERYRA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00Z9ERYRA", rawUrl: "https://www.amazon.de/dp/B00Z9ERYRA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-wod-nation-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWOD+Nation%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12170,6 +12674,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00U5BPTBG", rawUrl: "https://www.amazon.co.jp/dp/B00U5BPTBG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00U5BPTBG", rawUrl: "https://www.amazon.com/dp/B00U5BPTBG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00U5BPTBG", rawUrl: "https://www.amazon.de/dp/B00U5BPTBG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-elite-surge3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%97%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12184,6 +12690,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00005AL3I", rawUrl: "https://www.amazon.co.jp/dp/B00005AL3I", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00005AL3I", rawUrl: "https://www.amazon.com/dp/B00005AL3I", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00005AL3I", rawUrl: "https://www.amazon.de/dp/B00005AL3I", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-joyce-chen-wok", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%82%AD%E7%B4%A0%E9%8B%BC%E4%B8%AD%E8%8F%AF%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12198,6 +12706,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07KFPQ63D", rawUrl: "https://www.amazon.co.jp/dp/B07KFPQ63D", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07KFPQ63D", rawUrl: "https://www.amazon.com/dp/B07KFPQ63D", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07KFPQ63D", rawUrl: "https://www.amazon.de/dp/B07KFPQ63D", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-yosukata-wok", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%89%8B%E6%89%93%E3%81%A1%E4%B8%AD%E8%8F%AF%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12212,6 +12722,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00PUCD6ZA", rawUrl: "https://www.amazon.co.jp/dp/B00PUCD6ZA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00PUCD6ZA", rawUrl: "https://www.amazon.com/dp/B00PUCD6ZA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00PUCD6ZA", rawUrl: "https://www.amazon.de/dp/B00PUCD6ZA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-craft-wok", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%AD%E8%8F%AF%E9%8D%8B%E6%89%8B%E6%89%93%E3%81%A1%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12226,6 +12738,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00006JSUK", rawUrl: "https://www.amazon.co.jp/dp/B00006JSUK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00006JSUK", rawUrl: "https://www.amazon.com/dp/B00006JSUK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00006JSUK", rawUrl: "https://www.amazon.de/dp/B00006JSUK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-lodge-wok", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%E9%8B%B3%E9%89%84%E4%B8%AD%E8%8F%AF%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12240,6 +12754,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B002ZZTA8Q", rawUrl: "https://www.amazon.co.jp/dp/B002ZZTA8Q", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B002ZZTA8Q", rawUrl: "https://www.amazon.com/dp/B002ZZTA8Q", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B002ZZTA8Q", rawUrl: "https://www.amazon.de/dp/B002ZZTA8Q", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-tfal-wok", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FT-fal%E4%B8%AD%E8%8F%AF%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12254,6 +12770,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BP4LNA6", rawUrl: "https://www.amazon.co.jp/dp/B00BP4LNA6", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BP4LNA6", rawUrl: "https://www.amazon.com/dp/B00BP4LNA6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BP4LNA6", rawUrl: "https://www.amazon.de/dp/B00BP4LNA6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bodylastics", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E3%83%90%E3%83%B3%E3%83%89%E3%82%BB%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12268,6 +12786,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07JM2DXHB", rawUrl: "https://www.amazon.co.jp/dp/B07JM2DXHB", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07JM2DXHB", rawUrl: "https://www.amazon.com/dp/B07JM2DXHB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07JM2DXHB", rawUrl: "https://www.amazon.de/dp/B07JM2DXHB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-undersun", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12282,6 +12802,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B007E9DGAY", rawUrl: "https://www.amazon.co.jp/dp/B007E9DGAY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B007E9DGAY", rawUrl: "https://www.amazon.com/dp/B007E9DGAY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B007E9DGAY", rawUrl: "https://www.amazon.de/dp/B007E9DGAY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-black-mountain", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E3%83%90%E3%83%B3%E3%83%89%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12296,6 +12818,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01AVDVHTI", rawUrl: "https://www.amazon.co.jp/dp/B01AVDVHTI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01AVDVHTI", rawUrl: "https://www.amazon.com/dp/B01AVDVHTI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01AVDVHTI", rawUrl: "https://www.amazon.de/dp/B01AVDVHTI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fit-simplify", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9F%E3%83%8B%E3%83%90%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12310,6 +12834,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00WUHQ4K6", rawUrl: "https://www.amazon.co.jp/dp/B00WUHQ4K6", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00WUHQ4K6", rawUrl: "https://www.amazon.com/dp/B00WUHQ4K6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00WUHQ4K6", rawUrl: "https://www.amazon.de/dp/B00WUHQ4K6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-wod-nation-band", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E8%A3%9C%E5%8A%A9%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12324,6 +12850,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0049C2S32", rawUrl: "https://www.amazon.co.jp/dp/B0049C2S32", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0049C2S32", rawUrl: "https://www.amazon.com/dp/B0049C2S32", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0049C2S32", rawUrl: "https://www.amazon.de/dp/B0049C2S32", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nordic-ware-baking", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%83%9F%E5%A4%A9%E6%9D%BF%E3%83%8F%E3%83%BC%E3%83%95%E3%82%B7%E3%83%BC%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12338,6 +12866,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BBDVR8G", rawUrl: "https://www.amazon.co.jp/dp/B00BBDVR8G", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BBDVR8G", rawUrl: "https://www.amazon.com/dp/B00BBDVR8G", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BBDVR8G", rawUrl: "https://www.amazon.de/dp/B00BBDVR8G", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-usa-pan", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUSA%E5%A4%A9%E6%9D%BF%E3%83%99%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12352,6 +12882,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000JM0EAW", rawUrl: "https://www.amazon.co.jp/dp/B000JM0EAW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000JM0EAW", rawUrl: "https://www.amazon.com/dp/B000JM0EAW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000JM0EAW", rawUrl: "https://www.amazon.de/dp/B000JM0EAW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-wilton-baking", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%B3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E5%A4%A9%E6%9D%BF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12366,6 +12898,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00004OCMS", rawUrl: "https://www.amazon.co.jp/dp/B00004OCMS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00004OCMS", rawUrl: "https://www.amazon.com/dp/B00004OCMS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00004OCMS", rawUrl: "https://www.amazon.de/dp/B00004OCMS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oxo-baking", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%E5%A4%A9%E6%9D%BF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12380,6 +12914,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00DQ3O6Q6", rawUrl: "https://www.amazon.co.jp/dp/B00DQ3O6Q6", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00DQ3O6Q6", rawUrl: "https://www.amazon.com/dp/B00DQ3O6Q6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00DQ3O6Q6", rawUrl: "https://www.amazon.de/dp/B00DQ3O6Q6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-chicago-metallic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%A4%E3%82%BA%E3%83%89%E5%A4%A9%E6%9D%BF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12394,6 +12930,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00295MQRY", rawUrl: "https://www.amazon.co.jp/dp/B00295MQRY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00295MQRY", rawUrl: "https://www.amazon.com/dp/B00295MQRY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00295MQRY", rawUrl: "https://www.amazon.de/dp/B00295MQRY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-coc-gripper", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%B3%E3%83%89%E3%82%B0%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E5%BC%B7%E5%8C%96%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12408,6 +12946,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B002LRWWDW", rawUrl: "https://www.amazon.co.jp/dp/B002LRWWDW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B002LRWWDW", rawUrl: "https://www.amazon.com/dp/B002LRWWDW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B002LRWWDW", rawUrl: "https://www.amazon.de/dp/B002LRWWDW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fat-gripz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%AA%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12422,6 +12962,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000VLKTZA", rawUrl: "https://www.amazon.co.jp/dp/B000VLKTZA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000VLKTZA", rawUrl: "https://www.amazon.com/dp/B000VLKTZA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000VLKTZA", rawUrl: "https://www.amazon.de/dp/B000VLKTZA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-wrist-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AA%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E5%89%8D%E8%85%95%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12436,6 +12978,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0009PPPEG", rawUrl: "https://www.amazon.co.jp/dp/B0009PPPEG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0009PPPEG", rawUrl: "https://www.amazon.com/dp/B0009PPPEG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0009PPPEG", rawUrl: "https://www.amazon.de/dp/B0009PPPEG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-metolius-grip", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12450,6 +12994,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00I29FIPA", rawUrl: "https://www.amazon.co.jp/dp/B00I29FIPA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00I29FIPA", rawUrl: "https://www.amazon.com/dp/B00I29FIPA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00I29FIPA", rawUrl: "https://www.amazon.de/dp/B00I29FIPA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-grip4force", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%AA%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12464,6 +13010,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00004S5A7", rawUrl: "https://www.amazon.co.jp/dp/B00004S5A7", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00004S5A7", rawUrl: "https://www.amazon.com/dp/B00004S5A7", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00004S5A7", rawUrl: "https://www.amazon.de/dp/B00004S5A7", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bialetti-moka", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBialetti%E3%83%A2%E3%82%AB%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12478,6 +13026,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000IKLK6W", rawUrl: "https://www.amazon.co.jp/dp/B000IKLK6W", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000IKLK6W", rawUrl: "https://www.amazon.com/dp/B000IKLK6W", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000IKLK6W", rawUrl: "https://www.amazon.de/dp/B000IKLK6W", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bialetti-brikka", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBialetti%E3%83%96%E3%83%AA%E3%83%83%E3%82%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12492,6 +13042,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000TCZGVU", rawUrl: "https://www.amazon.co.jp/dp/B000TCZGVU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000TCZGVU", rawUrl: "https://www.amazon.com/dp/B000TCZGVU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000TCZGVU", rawUrl: "https://www.amazon.de/dp/B000TCZGVU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cuisinox-moka", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%83%A2%E3%82%AB%E3%83%9D%E3%83%83%E3%83%88IH%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12506,6 +13058,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001NZUIIE", rawUrl: "https://www.amazon.co.jp/dp/B001NZUIIE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001NZUIIE", rawUrl: "https://www.amazon.com/dp/B001NZUIIE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001NZUIIE", rawUrl: "https://www.amazon.de/dp/B001NZUIIE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ilsa-moka", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E8%A3%BD%E3%83%A2%E3%82%AB%E3%83%9D%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12520,6 +13074,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B003LLSQ4O", rawUrl: "https://www.amazon.co.jp/dp/B003LLSQ4O", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B003LLSQ4O", rawUrl: "https://www.amazon.com/dp/B003LLSQ4O", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B003LLSQ4O", rawUrl: "https://www.amazon.de/dp/B003LLSQ4O", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-pezzetti-moka", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A2%E3%82%AB%E3%83%9D%E3%83%83%E3%83%88%E5%AE%89%E3%81%84%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12534,6 +13090,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07FCFPKFD", rawUrl: "https://www.amazon.co.jp/dp/B07FCFPKFD", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07FCFPKFD", rawUrl: "https://www.amazon.com/dp/B07FCFPKFD", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07FCFPKFD", rawUrl: "https://www.amazon.de/dp/B07FCFPKFD", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-sandbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12548,6 +13106,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07QRBS1PC", rawUrl: "https://www.amazon.co.jp/dp/B07QRBS1PC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07QRBS1PC", rawUrl: "https://www.amazon.com/dp/B07QRBS1PC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07QRBS1PC", rawUrl: "https://www.amazon.de/dp/B07QRBS1PC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-sandbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B8%E3%83%A0%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12562,6 +13122,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0094DXAOE", rawUrl: "https://www.amazon.co.jp/dp/B0094DXAOE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0094DXAOE", rawUrl: "https://www.amazon.com/dp/B0094DXAOE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0094DXAOE", rawUrl: "https://www.amazon.de/dp/B0094DXAOE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-goruck-sandbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0%E3%83%A9%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12576,6 +13138,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07V2JQMWR", rawUrl: "https://www.amazon.co.jp/dp/B07V2JQMWR", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07V2JQMWR", rawUrl: "https://www.amazon.com/dp/B07V2JQMWR", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07V2JQMWR", rawUrl: "https://www.amazon.de/dp/B07V2JQMWR", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-viking-sandbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12590,6 +13154,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08BFHZWML", rawUrl: "https://www.amazon.co.jp/dp/B08BFHZWML", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08BFHZWML", rawUrl: "https://www.amazon.com/dp/B08BFHZWML", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08BFHZWML", rawUrl: "https://www.amazon.de/dp/B08BFHZWML", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cerberus-sandbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%AB%B6%E6%8A%80%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12604,6 +13170,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0047BIWSK", rawUrl: "https://www.amazon.co.jp/dp/B0047BIWSK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0047BIWSK", rawUrl: "https://www.amazon.com/dp/B0047BIWSK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0047BIWSK", rawUrl: "https://www.amazon.de/dp/B0047BIWSK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-aeropress-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12618,6 +13186,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07YVL8SF3", rawUrl: "https://www.amazon.co.jp/dp/B07YVL8SF3", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07YVL8SF3", rawUrl: "https://www.amazon.com/dp/B07YVL8SF3", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07YVL8SF3", rawUrl: "https://www.amazon.de/dp/B07YVL8SF3", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-aeropress-go", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9GO%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12632,6 +13202,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0BS1GJ9N7", rawUrl: "https://www.amazon.co.jp/dp/B0BS1GJ9N7", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0BS1GJ9N7", rawUrl: "https://www.amazon.com/dp/B0BS1GJ9N7", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0BS1GJ9N7", rawUrl: "https://www.amazon.de/dp/B0BS1GJ9N7", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-aeropress-clear", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A2%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12646,6 +13218,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0C5QDKNVJ", rawUrl: "https://www.amazon.co.jp/dp/B0C5QDKNVJ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0C5QDKNVJ", rawUrl: "https://www.amazon.com/dp/B0C5QDKNVJ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0C5QDKNVJ", rawUrl: "https://www.amazon.de/dp/B0C5QDKNVJ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-aeropress-xl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9XL%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12660,6 +13234,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07SXLMCJ5", rawUrl: "https://www.amazon.co.jp/dp/B07SXLMCJ5", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07SXLMCJ5", rawUrl: "https://www.amazon.com/dp/B07SXLMCJ5", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07SXLMCJ5", rawUrl: "https://www.amazon.de/dp/B07SXLMCJ5", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fellow-prismo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFellow+Prismo%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12674,6 +13250,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B005YRXZ5K", rawUrl: "https://www.amazon.co.jp/dp/B005YRXZ5K", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B005YRXZ5K", rawUrl: "https://www.amazon.com/dp/B005YRXZ5K", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B005YRXZ5K", rawUrl: "https://www.amazon.de/dp/B005YRXZ5K", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-dip-bar-freestanding", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12688,6 +13266,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08SFJQXWH", rawUrl: "https://www.amazon.co.jp/dp/B08SFJQXWH", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08SFJQXWH", rawUrl: "https://www.amazon.com/dp/B08SFJQXWH", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08SFJQXWH", rawUrl: "https://www.amazon.de/dp/B08SFJQXWH", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-dip-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%8A%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12702,6 +13282,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B086W6YH82", rawUrl: "https://www.amazon.co.jp/dp/B086W6YH82", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B086W6YH82", rawUrl: "https://www.amazon.com/dp/B086W6YH82", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B086W6YH82", rawUrl: "https://www.amazon.de/dp/B086W6YH82", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-matador", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12716,6 +13298,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001B1BDR8", rawUrl: "https://www.amazon.co.jp/dp/B001B1BDR8", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001B1BDR8", rawUrl: "https://www.amazon.com/dp/B001B1BDR8", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001B1BDR8", rawUrl: "https://www.amazon.de/dp/B001B1BDR8", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cap-dip-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12730,6 +13314,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000BM2YUK", rawUrl: "https://www.amazon.co.jp/dp/B000BM2YUK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000BM2YUK", rawUrl: "https://www.amazon.com/dp/B000BM2YUK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000BM2YUK", rawUrl: "https://www.amazon.de/dp/B000BM2YUK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-valor-dip-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%AA%BF%E6%95%B4%E5%BC%8F%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12745,6 +13331,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00005MF67", rawUrl: "https://www.amazon.co.jp/dp/B00005MF67", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00005MF67", rawUrl: "https://www.amazon.com/dp/B00005MF67", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00005MF67", rawUrl: "https://www.amazon.de/dp/B00005MF67", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bodum-chambord", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBodum+Chambord%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12759,6 +13347,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09X2XYMKB", rawUrl: "https://www.amazon.co.jp/dp/B09X2XYMKB", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09X2XYMKB", rawUrl: "https://www.amazon.com/dp/B09X2XYMKB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09X2XYMKB", rawUrl: "https://www.amazon.de/dp/B09X2XYMKB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fellow-clara", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFellow+Clara+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12773,6 +13363,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07FZNCHSG", rawUrl: "https://www.amazon.co.jp/dp/B07FZNCHSG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07FZNCHSG", rawUrl: "https://www.amazon.com/dp/B07FZNCHSG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07FZNCHSG", rawUrl: "https://www.amazon.de/dp/B07FZNCHSG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-espro-p3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEspro+P3+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12787,6 +13379,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000N49ZFM", rawUrl: "https://www.amazon.co.jp/dp/B000N49ZFM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000N49ZFM", rawUrl: "https://www.amazon.com/dp/B000N49ZFM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000N49ZFM", rawUrl: "https://www.amazon.de/dp/B000N49ZFM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-frieling-french-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFrieling+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12801,6 +13395,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07VT4BBKQ", rawUrl: "https://www.amazon.co.jp/dp/B07VT4BBKQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07VT4BBKQ", rawUrl: "https://www.amazon.com/dp/B07VT4BBKQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07VT4BBKQ", rawUrl: "https://www.amazon.de/dp/B07VT4BBKQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-mueller-french-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12816,6 +13412,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09N8G3GXF", rawUrl: "https://www.amazon.co.jp/dp/B09N8G3GXF", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09N8G3GXF", rawUrl: "https://www.amazon.com/dp/B09N8G3GXF", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09N8G3GXF", rawUrl: "https://www.amazon.de/dp/B09N8G3GXF", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-ab5000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E8%AA%BF%E6%95%B4%E5%8F%AF%E8%83%BD%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12830,6 +13428,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0D1R9GWWW", rawUrl: "https://www.amazon.co.jp/dp/B0D1R9GWWW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0D1R9GWWW", rawUrl: "https://www.amazon.com/dp/B0D1R9GWWW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0D1R9GWWW", rawUrl: "https://www.amazon.de/dp/B0D1R9GWWW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-utility-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12844,6 +13444,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08M9MKFYM", rawUrl: "https://www.amazon.co.jp/dp/B08M9MKFYM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08M9MKFYM", rawUrl: "https://www.amazon.com/dp/B08M9MKFYM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08M9MKFYM", rawUrl: "https://www.amazon.de/dp/B08M9MKFYM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-flybird-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFlybird+%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12858,6 +13460,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00LPSVTFK", rawUrl: "https://www.amazon.co.jp/dp/B00LPSVTFK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00LPSVTFK", rawUrl: "https://www.amazon.com/dp/B00LPSVTFK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00LPSVTFK", rawUrl: "https://www.amazon.de/dp/B00LPSVTFK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fitness-reality-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitness+Reality+%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12872,6 +13476,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07B43HMK3", rawUrl: "https://www.amazon.co.jp/dp/B07B43HMK3", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07B43HMK3", rawUrl: "https://www.amazon.com/dp/B07B43HMK3", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07B43HMK3", rawUrl: "https://www.amazon.de/dp/B07B43HMK3", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-prime-flat-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12887,6 +13493,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000IKLQZK", rawUrl: "https://www.amazon.co.jp/dp/B000IKLQZK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000IKLQZK", rawUrl: "https://www.amazon.com/dp/B000IKLQZK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000IKLQZK", rawUrl: "https://www.amazon.de/dp/B000IKLQZK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-chemex-6cup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChemex+6%E3%82%AB%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12901,6 +13509,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000I1WP7W", rawUrl: "https://www.amazon.co.jp/dp/B000I1WP7W", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000I1WP7W", rawUrl: "https://www.amazon.com/dp/B000I1WP7W", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000I1WP7W", rawUrl: "https://www.amazon.de/dp/B000I1WP7W", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-chemex-8cup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChemex+8%E3%82%AB%E3%83%83%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12915,6 +13525,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BTIMTQY", rawUrl: "https://www.amazon.co.jp/dp/B00BTIMTQY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BTIMTQY", rawUrl: "https://www.amazon.com/dp/B00BTIMTQY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BTIMTQY", rawUrl: "https://www.amazon.de/dp/B00BTIMTQY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-chemex-glass-handle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChemex+%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12929,6 +13541,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000IKLQZI", rawUrl: "https://www.amazon.co.jp/dp/B000IKLQZI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000IKLQZI", rawUrl: "https://www.amazon.com/dp/B000IKLQZI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000IKLQZI", rawUrl: "https://www.amazon.de/dp/B000IKLQZI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-chemex-filters", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChemex+%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12943,6 +13557,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001D7X3BK", rawUrl: "https://www.amazon.co.jp/dp/B001D7X3BK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001D7X3BK", rawUrl: "https://www.amazon.com/dp/B001D7X3BK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001D7X3BK", rawUrl: "https://www.amazon.de/dp/B001D7X3BK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hario-v60", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12958,6 +13574,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B002M2BVRS", rawUrl: "https://www.amazon.co.jp/dp/B002M2BVRS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B002M2BVRS", rawUrl: "https://www.amazon.com/dp/B002M2BVRS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B002M2BVRS", rawUrl: "https://www.amazon.de/dp/B002M2BVRS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-marcy-lat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%83%E3%83%88%E3%83%97%E3%83%AB%E3%83%80%E3%82%A6%E3%83%B3%E3%83%9E%E3%82%B7%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12972,6 +13590,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00020KJRS", rawUrl: "https://www.amazon.co.jp/dp/B00020KJRS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00020KJRS", rawUrl: "https://www.amazon.com/dp/B00020KJRS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00020KJRS", rawUrl: "https://www.amazon.de/dp/B00020KJRS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-body-solid-lat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBody-Solid+%E3%83%A9%E3%83%83%E3%83%88%E3%83%97%E3%83%AB%E3%83%80%E3%82%A6%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12986,6 +13606,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01N37BE3N", rawUrl: "https://www.amazon.co.jp/dp/B01N37BE3N", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01N37BE3N", rawUrl: "https://www.amazon.com/dp/B01N37BE3N", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01N37BE3N", rawUrl: "https://www.amazon.de/dp/B01N37BE3N", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-valor-cb12", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor+Fitness+%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13000,6 +13622,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09GTHM4R5", rawUrl: "https://www.amazon.co.jp/dp/B09GTHM4R5", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09GTHM4R5", rawUrl: "https://www.amazon.com/dp/B09GTHM4R5", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09GTHM4R5", rawUrl: "https://www.amazon.de/dp/B09GTHM4R5", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-force-usa-trainer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A9%9F%E8%83%BD%E7%9A%84%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13014,6 +13638,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08N5BQM6P", rawUrl: "https://www.amazon.co.jp/dp/B08N5BQM6P", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08N5BQM6P", rawUrl: "https://www.amazon.com/dp/B08N5BQM6P", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08N5BQM6P", rawUrl: "https://www.amazon.de/dp/B08N5BQM6P", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-trainer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13029,6 +13655,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000D2K6VK", rawUrl: "https://www.amazon.co.jp/dp/B000D2K6VK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000D2K6VK", rawUrl: "https://www.amazon.com/dp/B000D2K6VK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000D2K6VK", rawUrl: "https://www.amazon.de/dp/B000D2K6VK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-baratza-encore", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBaratza+Encore%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13043,6 +13671,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07CSKGLMM", rawUrl: "https://www.amazon.co.jp/dp/B07CSKGLMM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07CSKGLMM", rawUrl: "https://www.amazon.com/dp/B07CSKGLMM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07CSKGLMM", rawUrl: "https://www.amazon.de/dp/B07CSKGLMM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oxo-grinder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO+Brew+%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13057,6 +13687,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0018MTKFM", rawUrl: "https://www.amazon.co.jp/dp/B0018MTKFM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0018MTKFM", rawUrl: "https://www.amazon.com/dp/B0018MTKFM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0018MTKFM", rawUrl: "https://www.amazon.de/dp/B0018MTKFM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-capresso-infinity", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCapresso+%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13071,6 +13703,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B071NF9CHZ", rawUrl: "https://www.amazon.co.jp/dp/B071NF9CHZ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B071NF9CHZ", rawUrl: "https://www.amazon.com/dp/B071NF9CHZ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B071NF9CHZ", rawUrl: "https://www.amazon.de/dp/B071NF9CHZ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bodum-bistro-grinder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBodum+Bistro+%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13085,6 +13719,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B013R3Q7B2", rawUrl: "https://www.amazon.co.jp/dp/B013R3Q7B2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B013R3Q7B2", rawUrl: "https://www.amazon.com/dp/B013R3Q7B2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B013R3Q7B2", rawUrl: "https://www.amazon.de/dp/B013R3Q7B2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-javapresse-grinder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%89%8B%E5%8B%95%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13100,6 +13736,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09KQRWCJV", rawUrl: "https://www.amazon.co.jp/dp/B09KQRWCJV", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09KQRWCJV", rawUrl: "https://www.amazon.com/dp/B09KQRWCJV", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09KQRWCJV", rawUrl: "https://www.amazon.de/dp/B09KQRWCJV", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hip-thrust-machine", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88%E3%83%9E%E3%82%B7%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13114,6 +13752,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07GDS72WS", rawUrl: "https://www.amazon.co.jp/dp/B07GDS72WS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07GDS72WS", rawUrl: "https://www.amazon.com/dp/B07GDS72WS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07GDS72WS", rawUrl: "https://www.amazon.de/dp/B07GDS72WS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ghd-machine", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%88%E3%83%8F%E3%83%A0%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13128,6 +13768,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000G5RTVO", rawUrl: "https://www.amazon.co.jp/dp/B000G5RTVO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000G5RTVO", rawUrl: "https://www.amazon.com/dp/B000G5RTVO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000G5RTVO", rawUrl: "https://www.amazon.de/dp/B000G5RTVO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hip-abductor", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%A2%E3%83%96%E3%83%80%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%B7%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13142,6 +13784,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000VB6SOU", rawUrl: "https://www.amazon.co.jp/dp/B000VB6SOU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000VB6SOU", rawUrl: "https://www.amazon.com/dp/B000VB6SOU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000VB6SOU", rawUrl: "https://www.amazon.de/dp/B000VB6SOU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cable-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13156,6 +13800,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01DKQT2SK", rawUrl: "https://www.amazon.co.jp/dp/B01DKQT2SK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01DKQT2SK", rawUrl: "https://www.amazon.com/dp/B01DKQT2SK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01DKQT2SK", rawUrl: "https://www.amazon.de/dp/B01DKQT2SK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hip-circle-band", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13171,6 +13817,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001NGOV1U", rawUrl: "https://www.amazon.co.jp/dp/B001NGOV1U", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001NGOV1U", rawUrl: "https://www.amazon.com/dp/B001NGOV1U", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001NGOV1U", rawUrl: "https://www.amazon.de/dp/B001NGOV1U", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-kalita-wave-185-stainless", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKalita+Wave+185+%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13185,6 +13833,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001NGOV0G", rawUrl: "https://www.amazon.co.jp/dp/B001NGOV0G", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001NGOV0G", rawUrl: "https://www.amazon.com/dp/B001NGOV0G", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001NGOV0G", rawUrl: "https://www.amazon.de/dp/B001NGOV0G", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-kalita-wave-155-ceramic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKalita+Wave+155+%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13199,6 +13849,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001NGOV1E", rawUrl: "https://www.amazon.co.jp/dp/B001NGOV1E", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001NGOV1E", rawUrl: "https://www.amazon.com/dp/B001NGOV1E", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001NGOV1E", rawUrl: "https://www.amazon.de/dp/B001NGOV1E", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-kalita-wave-185-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKalita+Wave+185+%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13213,6 +13865,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001NGOV20", rawUrl: "https://www.amazon.co.jp/dp/B001NGOV20", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001NGOV20", rawUrl: "https://www.amazon.com/dp/B001NGOV20", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001NGOV20", rawUrl: "https://www.amazon.de/dp/B001NGOV20", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-kalita-wave-filters", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKalita+Wave+%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC+185%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13227,6 +13881,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07DTMXLN3", rawUrl: "https://www.amazon.co.jp/dp/B07DTMXLN3", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07DTMXLN3", rawUrl: "https://www.amazon.com/dp/B07DTMXLN3", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07DTMXLN3", rawUrl: "https://www.amazon.de/dp/B07DTMXLN3", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-fellow-stagg-ekg", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFellow+Stagg+EKG%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13242,6 +13898,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01LXO5UMH", rawUrl: "https://www.amazon.co.jp/dp/B01LXO5UMH", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01LXO5UMH", rawUrl: "https://www.amazon.com/dp/B01LXO5UMH", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01LXO5UMH", rawUrl: "https://www.amazon.de/dp/B01LXO5UMH", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cap-ez-curl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP+Barbell+EZ%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13256,6 +13914,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BDJSQ1K", rawUrl: "https://www.amazon.co.jp/dp/B00BDJSQ1K", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BDJSQ1K", rawUrl: "https://www.amazon.com/dp/B00BDJSQ1K", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BDJSQ1K", rawUrl: "https://www.amazon.de/dp/B00BDJSQ1K", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-curl-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13270,6 +13930,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000P3TPWG", rawUrl: "https://www.amazon.co.jp/dp/B000P3TPWG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000P3TPWG", rawUrl: "https://www.amazon.com/dp/B000P3TPWG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000P3TPWG", rawUrl: "https://www.amazon.de/dp/B000P3TPWG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-body-solid-ez-curl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBody-Solid+EZ%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13284,6 +13946,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08CXWVXB6", rawUrl: "https://www.amazon.co.jp/dp/B08CXWVXB6", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08CXWVXB6", rawUrl: "https://www.amazon.com/dp/B08CXWVXB6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08CXWVXB6", rawUrl: "https://www.amazon.de/dp/B08CXWVXB6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-ez-curl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+EZ%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13298,6 +13962,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00MH4YZW2", rawUrl: "https://www.amazon.co.jp/dp/B00MH4YZW2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00MH4YZW2", rawUrl: "https://www.amazon.com/dp/B00MH4YZW2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00MH4YZW2", rawUrl: "https://www.amazon.de/dp/B00MH4YZW2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-standard-ez-curl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A8%99%E6%BA%96EZ%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13313,6 +13979,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000P4D5HG", rawUrl: "https://www.amazon.co.jp/dp/B000P4D5HG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000P4D5HG", rawUrl: "https://www.amazon.com/dp/B000P4D5HG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000P4D5HG", rawUrl: "https://www.amazon.de/dp/B000P4D5HG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hario-v60-ceramic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60+%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13327,6 +13995,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001NB03GQ", rawUrl: "https://www.amazon.co.jp/dp/B001NB03GQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001NB03GQ", rawUrl: "https://www.amazon.com/dp/B001NB03GQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001NB03GQ", rawUrl: "https://www.amazon.de/dp/B001NB03GQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hario-v60-plastic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60+%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13341,6 +14011,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B005LNQO5C", rawUrl: "https://www.amazon.co.jp/dp/B005LNQO5C", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B005LNQO5C", rawUrl: "https://www.amazon.com/dp/B005LNQO5C", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B005LNQO5C", rawUrl: "https://www.amazon.de/dp/B005LNQO5C", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hario-v60-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60+%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13355,6 +14027,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B007L6PKIA", rawUrl: "https://www.amazon.co.jp/dp/B007L6PKIA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B007L6PKIA", rawUrl: "https://www.amazon.com/dp/B007L6PKIA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B007L6PKIA", rawUrl: "https://www.amazon.de/dp/B007L6PKIA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hario-v60-metal", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60+%E3%83%A1%E3%82%BF%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13369,6 +14043,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001NB0534", rawUrl: "https://www.amazon.co.jp/dp/B001NB0534", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001NB0534", rawUrl: "https://www.amazon.com/dp/B001NB0534", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001NB0534", rawUrl: "https://www.amazon.de/dp/B001NB0534", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hario-v60-filters", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60+%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13384,6 +14060,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000BLMT6I", rawUrl: "https://www.amazon.co.jp/dp/B000BLMT6I", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000BLMT6I", rawUrl: "https://www.amazon.com/dp/B000BLMT6I", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000BLMT6I", rawUrl: "https://www.amazon.de/dp/B000BLMT6I", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-body-solid-preacher-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBody-Solid+%E3%83%97%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13398,6 +14076,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01N7VBSXK", rawUrl: "https://www.amazon.co.jp/dp/B01N7VBSXK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01N7VBSXK", rawUrl: "https://www.amazon.com/dp/B01N7VBSXK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01N7VBSXK", rawUrl: "https://www.amazon.de/dp/B01N7VBSXK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-marcy-preacher-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMarcy+%E3%83%97%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13412,6 +14092,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00CLKFZ8U", rawUrl: "https://www.amazon.co.jp/dp/B00CLKFZ8U", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00CLKFZ8U", rawUrl: "https://www.amazon.com/dp/B00CLKFZ8U", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00CLKFZ8U", rawUrl: "https://www.amazon.de/dp/B00CLKFZ8U", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-valor-preacher-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor+Fitness+%E3%83%97%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13426,6 +14108,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09BKHQVGB", rawUrl: "https://www.amazon.co.jp/dp/B09BKHQVGB", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09BKHQVGB", rawUrl: "https://www.amazon.com/dp/B09BKHQVGB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09BKHQVGB", rawUrl: "https://www.amazon.de/dp/B09BKHQVGB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-preacher-bench", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E3%83%97%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13440,6 +14124,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07G3JG8TM", rawUrl: "https://www.amazon.co.jp/dp/B07G3JG8TM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07G3JG8TM", rawUrl: "https://www.amazon.com/dp/B07G3JG8TM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07G3JG8TM", rawUrl: "https://www.amazon.de/dp/B07G3JG8TM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-preacher-curl-attachment", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13455,6 +14141,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B003VWXKFY", rawUrl: "https://www.amazon.co.jp/dp/B003VWXKFY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B003VWXKFY", rawUrl: "https://www.amazon.com/dp/B003VWXKFY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B003VWXKFY", rawUrl: "https://www.amazon.de/dp/B003VWXKFY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hario-next-siphon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+Next+%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13469,6 +14157,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B002UZXQX6", rawUrl: "https://www.amazon.co.jp/dp/B002UZXQX6", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B002UZXQX6", rawUrl: "https://www.amazon.com/dp/B002UZXQX6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B002UZXQX6", rawUrl: "https://www.amazon.de/dp/B002UZXQX6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-yama-siphon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYama+%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13483,6 +14173,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001NB8KDO", rawUrl: "https://www.amazon.co.jp/dp/B001NB8KDO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001NB8KDO", rawUrl: "https://www.amazon.com/dp/B001NB8KDO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001NB8KDO", rawUrl: "https://www.amazon.de/dp/B001NB8KDO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hario-technica-siphon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+Technica+%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13497,6 +14189,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00004RKHU", rawUrl: "https://www.amazon.co.jp/dp/B00004RKHU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00004RKHU", rawUrl: "https://www.amazon.com/dp/B00004RKHU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00004RKHU", rawUrl: "https://www.amazon.de/dp/B00004RKHU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cona-siphon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCona+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13511,6 +14205,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00176DCBE", rawUrl: "https://www.amazon.co.jp/dp/B00176DCBE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00176DCBE", rawUrl: "https://www.amazon.com/dp/B00176DCBE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00176DCBE", rawUrl: "https://www.amazon.de/dp/B00176DCBE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-butane-burner-siphon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3+%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13526,6 +14222,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BHWCG7A", rawUrl: "https://www.amazon.co.jp/dp/B00BHWCG7A", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BHWCG7A", rawUrl: "https://www.amazon.com/dp/B00BHWCG7A", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BHWCG7A", rawUrl: "https://www.amazon.de/dp/B00BHWCG7A", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-tb2-trap-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+TB-2+%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13540,6 +14238,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00F3XLPXI", rawUrl: "https://www.amazon.co.jp/dp/B00F3XLPXI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00F3XLPXI", rawUrl: "https://www.amazon.com/dp/B00F3XLPXI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00F3XLPXI", rawUrl: "https://www.amazon.de/dp/B00F3XLPXI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cap-trap-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP+Barbell+%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13554,6 +14254,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07P6ZN9XQ", rawUrl: "https://www.amazon.co.jp/dp/B07P6ZN9XQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07P6ZN9XQ", rawUrl: "https://www.amazon.com/dp/B07P6ZN9XQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07P6ZN9XQ", rawUrl: "https://www.amazon.de/dp/B07P6ZN9XQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-trap-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13568,6 +14270,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09BKHGT5Y", rawUrl: "https://www.amazon.co.jp/dp/B09BKHGT5Y", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09BKHGT5Y", rawUrl: "https://www.amazon.com/dp/B09BKHGT5Y", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09BKHGT5Y", rawUrl: "https://www.amazon.de/dp/B09BKHGT5Y", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-trap-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13582,6 +14286,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00CLKF0FQ", rawUrl: "https://www.amazon.co.jp/dp/B00CLKF0FQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00CLKF0FQ", rawUrl: "https://www.amazon.com/dp/B00CLKF0FQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00CLKF0FQ", rawUrl: "https://www.amazon.de/dp/B00CLKF0FQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-valor-trap-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor+Fitness+%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13597,6 +14303,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07YZXK9PH", rawUrl: "https://www.amazon.co.jp/dp/B07YZXK9PH", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07YZXK9PH", rawUrl: "https://www.amazon.com/dp/B07YZXK9PH", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07YZXK9PH", rawUrl: "https://www.amazon.de/dp/B07YZXK9PH", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-copper-cezve", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%8A%85+%E3%83%81%E3%82%A7%E3%82%BA%E3%83%99+%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13611,6 +14319,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0894F7P49", rawUrl: "https://www.amazon.co.jp/dp/B0894F7P49", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0894F7P49", rawUrl: "https://www.amazon.com/dp/B0894F7P49", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0894F7P49", rawUrl: "https://www.amazon.de/dp/B0894F7P49", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-stainless-cezve", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9+%E3%83%81%E3%82%A7%E3%82%BA%E3%83%99%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13625,6 +14335,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08G8MMQBD", rawUrl: "https://www.amazon.co.jp/dp/B08G8MMQBD", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08G8MMQBD", rawUrl: "https://www.amazon.com/dp/B08G8MMQBD", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08G8MMQBD", rawUrl: "https://www.amazon.de/dp/B08G8MMQBD", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-arzum-okka", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FArzum+Okka+%E3%83%88%E3%83%AB%E3%82%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13639,6 +14351,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000N50U36", rawUrl: "https://www.amazon.co.jp/dp/B000N50U36", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000N50U36", rawUrl: "https://www.amazon.com/dp/B000N50U36", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000N50U36", rawUrl: "https://www.amazon.de/dp/B000N50U36", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-zassenhaus-turkish-grinder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZassenhaus+%E3%83%88%E3%83%AB%E3%82%B3+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13653,6 +14367,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000N4WLZM", rawUrl: "https://www.amazon.co.jp/dp/B000N4WLZM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000N4WLZM", rawUrl: "https://www.amazon.com/dp/B000N4WLZM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000N4WLZM", rawUrl: "https://www.amazon.de/dp/B000N4WLZM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-mehmet-efendi-coffee", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMehmet+Efendi+%E3%83%88%E3%83%AB%E3%82%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13668,6 +14384,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00ER1EMKW", rawUrl: "https://www.amazon.co.jp/dp/B00ER1EMKW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00ER1EMKW", rawUrl: "https://www.amazon.com/dp/B00ER1EMKW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00ER1EMKW", rawUrl: "https://www.amazon.de/dp/B00ER1EMKW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-assault-air-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAssault+%E3%82%A8%E3%82%A2%E3%83%90%E3%82%A4%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13682,6 +14400,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07WS7GHMX", rawUrl: "https://www.amazon.co.jp/dp/B07WS7GHMX", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07WS7GHMX", rawUrl: "https://www.amazon.com/dp/B07WS7GHMX", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07WS7GHMX", rawUrl: "https://www.amazon.de/dp/B07WS7GHMX", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-concept2-bikeerg", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FConcept2+BikeErg%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13696,6 +14416,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07YFLMVNP", rawUrl: "https://www.amazon.co.jp/dp/B07YFLMVNP", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07YFLMVNP", rawUrl: "https://www.amazon.com/dp/B07YFLMVNP", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07YFLMVNP", rawUrl: "https://www.amazon.de/dp/B07YFLMVNP", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-echo-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Echo+Bike%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13710,6 +14432,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00MK3GLYM", rawUrl: "https://www.amazon.co.jp/dp/B00MK3GLYM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00MK3GLYM", rawUrl: "https://www.amazon.com/dp/B00MK3GLYM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00MK3GLYM", rawUrl: "https://www.amazon.de/dp/B00MK3GLYM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-schwinn-airdyne-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSchwinn+Airdyne+Pro%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13724,6 +14448,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01N2PH8T4", rawUrl: "https://www.amazon.co.jp/dp/B01N2PH8T4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01N2PH8T4", rawUrl: "https://www.amazon.com/dp/B01N2PH8T4", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01N2PH8T4", rawUrl: "https://www.amazon.de/dp/B01N2PH8T4", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-sunny-health-air-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSunny+Health+%E3%82%A8%E3%82%A2%E3%83%90%E3%82%A4%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13739,6 +14465,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08XYZNGVC", rawUrl: "https://www.amazon.co.jp/dp/B08XYZNGVC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08XYZNGVC", rawUrl: "https://www.amazon.com/dp/B08XYZNGVC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08XYZNGVC", rawUrl: "https://www.amazon.de/dp/B08XYZNGVC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nguyen-coffee-phin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fベトナムコーヒー+フィン%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13753,6 +14481,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00GHZD4QK", rawUrl: "https://www.amazon.co.jp/dp/B00GHZD4QK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00GHZD4QK", rawUrl: "https://www.amazon.com/dp/B00GHZD4QK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00GHZD4QK", rawUrl: "https://www.amazon.de/dp/B00GHZD4QK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-trung-nguyen-legend", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTrung+Nguyen+Legend%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13767,6 +14497,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000CFN2T", rawUrl: "https://www.amazon.co.jp/dp/B0000CFN2T", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0000CFN2T", rawUrl: "https://www.amazon.com/dp/B0000CFN2T", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000CFN2T", rawUrl: "https://www.amazon.de/dp/B0000CFN2T", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cafe-du-monde", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCafe+Du+Monde+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13781,6 +14513,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07FDSMKDN", rawUrl: "https://www.amazon.co.jp/dp/B07FDSMKDN", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07FDSMKDN", rawUrl: "https://www.amazon.com/dp/B07FDSMKDN", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07FDSMKDN", rawUrl: "https://www.amazon.de/dp/B07FDSMKDN", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-longevity-condensed-milk", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%AB%E3%82%AF+%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13795,6 +14529,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08XPHINSS", rawUrl: "https://www.amazon.co.jp/dp/B08XPHINSS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08XPHINSS", rawUrl: "https://www.amazon.com/dp/B08XPHINSS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08XPHINSS", rawUrl: "https://www.amazon.de/dp/B08XPHINSS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-phin-filter-stainless", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A3%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13810,6 +14546,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07DRGUER3", rawUrl: "https://www.amazon.co.jp/dp/B07DRGUER3", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07DRGUER3", rawUrl: "https://www.amazon.com/dp/B07DRGUER3", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07DRGUER3", rawUrl: "https://www.amazon.de/dp/B07DRGUER3", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-r3-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13824,6 +14562,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08REPPR40", rawUrl: "https://www.amazon.co.jp/dp/B08REPPR40", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08REPPR40", rawUrl: "https://www.amazon.com/dp/B08REPPR40", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08REPPR40", rawUrl: "https://www.amazon.de/dp/B08REPPR40", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-pr4000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13838,6 +14578,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07TITANX3", rawUrl: "https://www.amazon.co.jp/dp/B07TITANX3", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07TITANX3", rawUrl: "https://www.amazon.com/dp/B07TITANX3", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07TITANX3", rawUrl: "https://www.amazon.de/dp/B07TITANX3", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-x3-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13852,6 +14594,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001BSGPR3", rawUrl: "https://www.amazon.co.jp/dp/B001BSGPR3", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001BSGPR3", rawUrl: "https://www.amazon.com/dp/B001BSGPR3", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001BSGPR3", rawUrl: "https://www.amazon.de/dp/B001BSGPR3", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-body-solid-gpr378", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBody+Solid+%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13866,6 +14610,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00CAPFM80", rawUrl: "https://www.amazon.co.jp/dp/B00CAPFM80", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00CAPFM80", rawUrl: "https://www.amazon.com/dp/B00CAPFM80", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00CAPFM80", rawUrl: "https://www.amazon.de/dp/B00CAPFM80", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cap-barbell-rack", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCAP+Barbell+%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13881,6 +14627,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00CRUZMALT", rawUrl: "https://www.amazon.co.jp/dp/B00CRUZMALT", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00CRUZMALT", rawUrl: "https://www.amazon.com/dp/B00CRUZMALT", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00CRUZMALT", rawUrl: "https://www.amazon.de/dp/B00CRUZMALT", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cruz-de-malta", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCruz+de+Malta+%E3%83%9E%E3%83%86%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13895,6 +14643,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001GUAYAKI", rawUrl: "https://www.amazon.co.jp/dp/B001GUAYAKI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001GUAYAKI", rawUrl: "https://www.amazon.com/dp/B001GUAYAKI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001GUAYAKI", rawUrl: "https://www.amazon.de/dp/B001GUAYAKI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-guayaki-mate", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGuayaki+%E3%83%9E%E3%83%86%E8%8C%B6%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13909,6 +14659,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001TARAGUI", rawUrl: "https://www.amazon.co.jp/dp/B001TARAGUI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001TARAGUI", rawUrl: "https://www.amazon.com/dp/B001TARAGUI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001TARAGUI", rawUrl: "https://www.amazon.de/dp/B001TARAGUI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-taragui-mate", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTaragui+%E3%83%9E%E3%83%86%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13923,6 +14675,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07MATEGOURD", rawUrl: "https://www.amazon.co.jp/dp/B07MATEGOURD", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07MATEGOURD", rawUrl: "https://www.amazon.com/dp/B07MATEGOURD", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07MATEGOURD", rawUrl: "https://www.amazon.de/dp/B07MATEGOURD", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-mate-gourd-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%86%E3%82%B4%E3%83%BC%E3%83%89+%E3%83%9C%E3%83%B3%E3%83%93%E3%83%BC%E3%83%AA%E3%83%A3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13937,6 +14691,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08MATEEL", rawUrl: "https://www.amazon.co.jp/dp/B08MATEEL", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08MATEEL", rawUrl: "https://www.amazon.com/dp/B08MATEEL", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08MATEEL", rawUrl: "https://www.amazon.de/dp/B08MATEEL", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-electric-mate-gourd", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%9B%BB%E6%B0%97%E3%83%9E%E3%83%86%E3%82%B4%E3%83%BC%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13952,6 +14708,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001GLPH11", rawUrl: "https://www.amazon.co.jp/dp/B001GLPH11", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001GLPH11", rawUrl: "https://www.amazon.com/dp/B001GLPH11", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001GLPH11", rawUrl: "https://www.amazon.de/dp/B001GLPH11", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-body-solid-leg-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBody+Solid+%E3%83%AC%E3%83%83%E3%82%B0%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13966,6 +14724,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B007VALORBD62", rawUrl: "https://www.amazon.co.jp/dp/B007VALORBD62", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B007VALORBD62", rawUrl: "https://www.amazon.com/dp/B007VALORBD62", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B007VALORBD62", rawUrl: "https://www.amazon.de/dp/B007VALORBD62", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-valor-bd62", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor+Fitness+%E3%83%AC%E3%83%83%E3%82%B0%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13980,6 +14740,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08REPLP5000", rawUrl: "https://www.amazon.co.jp/dp/B08REPLP5000", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08REPLP5000", rawUrl: "https://www.amazon.com/dp/B08REPLP5000", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08REPLP5000", rawUrl: "https://www.amazon.de/dp/B08REPLP5000", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-lp5000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E3%83%AC%E3%83%83%E3%82%B0%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13994,6 +14756,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07TITANLPV2", rawUrl: "https://www.amazon.co.jp/dp/B07TITANLPV2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07TITANLPV2", rawUrl: "https://www.amazon.com/dp/B07TITANLPV2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07TITANLPV2", rawUrl: "https://www.amazon.de/dp/B07TITANLPV2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-leg-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E3%83%AC%E3%83%83%E3%82%B0%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14008,6 +14772,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00MARCYDMD", rawUrl: "https://www.amazon.co.jp/dp/B00MARCYDMD", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00MARCYDMD", rawUrl: "https://www.amazon.com/dp/B00MARCYDMD", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00MARCYDMD", rawUrl: "https://www.amazon.de/dp/B00MARCYDMD", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-marcy-leg-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMarcy+%E3%83%AC%E3%83%83%E3%82%B0%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14023,6 +14789,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01D8VJJGE", rawUrl: "https://www.amazon.co.jp/dp/B01D8VJJGE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01D8VJJGE", rawUrl: "https://www.amazon.com/dp/B01D8VJJGE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01D8VJJGE", rawUrl: "https://www.amazon.de/dp/B01D8VJJGE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-acaia-pearl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAcaia+Pearl+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14037,6 +14805,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08TIMEMR", rawUrl: "https://www.amazon.co.jp/dp/B08TIMEMR", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08TIMEMR", rawUrl: "https://www.amazon.com/dp/B08TIMEMR", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08TIMEMR", rawUrl: "https://www.amazon.de/dp/B08TIMEMR", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-timemore-black-mirror", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTimemore+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14051,6 +14821,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B009GPJMOU", rawUrl: "https://www.amazon.co.jp/dp/B009GPJMOU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B009GPJMOU", rawUrl: "https://www.amazon.com/dp/B009GPJMOU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B009GPJMOU", rawUrl: "https://www.amazon.de/dp/B009GPJMOU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hario-drip-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14065,6 +14837,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08FELICIT", rawUrl: "https://www.amazon.co.jp/dp/B08FELICIT", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08FELICIT", rawUrl: "https://www.amazon.com/dp/B08FELICIT", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08FELICIT", rawUrl: "https://www.amazon.de/dp/B08FELICIT", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-felicita-incline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFelicita+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14079,6 +14853,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07COFGAT", rawUrl: "https://www.amazon.co.jp/dp/B07COFGAT", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07COFGAT", rawUrl: "https://www.amazon.com/dp/B07COFGAT", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07COFGAT", rawUrl: "https://www.amazon.de/dp/B07COFGAT", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-coffee-gator-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB+%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14094,6 +14870,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08BELLHIP", rawUrl: "https://www.amazon.co.jp/dp/B08BELLHIP", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08BELLHIP", rawUrl: "https://www.amazon.com/dp/B08BELLHIP", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08BELLHIP", rawUrl: "https://www.amazon.de/dp/B08BELLHIP", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bells-hip-thruster", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88+%E3%83%9E%E3%82%B7%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14108,6 +14886,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08REPAB52", rawUrl: "https://www.amazon.co.jp/dp/B08REPAB52", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08REPAB52", rawUrl: "https://www.amazon.com/dp/B08REPAB52", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08REPAB52", rawUrl: "https://www.amazon.de/dp/B08REPAB52", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-ab5200", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E8%AA%BF%E6%95%B4%E3%83%99%E3%83%B3%E3%83%81%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14122,6 +14902,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07VALORHIP", rawUrl: "https://www.amazon.co.jp/dp/B07VALORHIP", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07VALORHIP", rawUrl: "https://www.amazon.com/dp/B07VALORHIP", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07VALORHIP", rawUrl: "https://www.amazon.de/dp/B07VALORHIP", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-valor-hip-thrust", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FValor+Fitness+%E3%83%92%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14136,6 +14918,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07TITANHIP", rawUrl: "https://www.amazon.co.jp/dp/B07TITANHIP", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07TITANHIP", rawUrl: "https://www.amazon.com/dp/B07TITANHIP", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07TITANHIP", rawUrl: "https://www.amazon.de/dp/B07TITANHIP", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-hip-thrust", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E3%83%92%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14150,6 +14934,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07HIPPAD", rawUrl: "https://www.amazon.co.jp/dp/B07HIPPAD", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07HIPPAD", rawUrl: "https://www.amazon.com/dp/B07HIPPAD", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07HIPPAD", rawUrl: "https://www.amazon.de/dp/B07HIPPAD", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hip-thrust-pad", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88+%E3%83%91%E3%83%83%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14165,6 +14951,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07FSIGMTK", rawUrl: "https://www.amazon.co.jp/dp/B07FSIGMTK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07FSIGMTK", rawUrl: "https://www.amazon.com/dp/B07FSIGMTK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07FSIGMTK", rawUrl: "https://www.amazon.de/dp/B07FSIGMTK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-four-sigmatic-coffee", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFour+Sigmatic+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14179,6 +14967,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09RYZE001", rawUrl: "https://www.amazon.co.jp/dp/B09RYZE001", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09RYZE001", rawUrl: "https://www.amazon.com/dp/B09RYZE001", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09RYZE001", rawUrl: "https://www.amazon.de/dp/B09RYZE001", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ryze-mushroom", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRyze+%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14193,6 +14983,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07OMMBLND", rawUrl: "https://www.amazon.co.jp/dp/B07OMMBLND", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07OMMBLND", rawUrl: "https://www.amazon.com/dp/B07OMMBLND", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07OMMBLND", rawUrl: "https://www.amazon.de/dp/B07OMMBLND", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-om-mushroom", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOm+Mushroom+%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14207,6 +14999,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09EARTHSTR", rawUrl: "https://www.amazon.co.jp/dp/B09EARTHSTR", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09EARTHSTR", rawUrl: "https://www.amazon.com/dp/B09EARTHSTR", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09EARTHSTR", rawUrl: "https://www.amazon.de/dp/B09EARTHSTR", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-earth-star-mushroom", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14221,6 +15015,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B08LIONMANE", rawUrl: "https://www.amazon.co.jp/dp/B08LIONMANE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08LIONMANE", rawUrl: "https://www.amazon.com/dp/B08LIONMANE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08LIONMANE", rawUrl: "https://www.amazon.de/dp/B08LIONMANE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-lion-mane-powder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A4%E3%83%9E%E3%83%96%E3%82%B7%E3%82%BF%E3%82%B1+%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14236,6 +15032,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07STRGAUNT", rawUrl: "https://www.amazon.co.jp/dp/B07STRGAUNT", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07STRGAUNT", rawUrl: "https://www.amazon.com/dp/B07STRGAUNT", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07STRGAUNT", rawUrl: "https://www.amazon.de/dp/B07STRGAUNT", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-stairmaster-gauntlet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStairMaster+%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%9F%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14250,6 +15048,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09BFXM9", rawUrl: "https://www.amazon.co.jp/dp/B09BFXM9", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09BFXM9", rawUrl: "https://www.amazon.com/dp/B09BFXM9", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09BFXM9", rawUrl: "https://www.amazon.de/dp/B09BFXM9", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bowflex-max-m9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex+Max+Trainer%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14264,6 +15064,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07SUNNYST", rawUrl: "https://www.amazon.co.jp/dp/B07SUNNYST", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07SUNNYST", rawUrl: "https://www.amazon.com/dp/B07SUNNYST", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07SUNNYST", rawUrl: "https://www.amazon.de/dp/B07SUNNYST", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-sunny-mini-stepper", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9F%E3%83%8B%E3%82%B9%E3%83%86%E3%83%83%E3%83%91%E3%83%BC+%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14278,6 +15080,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07NUSTEP4", rawUrl: "https://www.amazon.co.jp/dp/B07NUSTEP4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07NUSTEP4", rawUrl: "https://www.amazon.com/dp/B07NUSTEP4", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07NUSTEP4", rawUrl: "https://www.amazon.de/dp/B07NUSTEP4", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nustep-t4r", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNuStep+%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%99%E3%83%B3%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14292,6 +15096,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07STR8SER", rawUrl: "https://www.amazon.co.jp/dp/B07STR8SER", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07STR8SER", rawUrl: "https://www.amazon.com/dp/B07STR8SER", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07STR8SER", rawUrl: "https://www.amazon.de/dp/B07STR8SER", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-stairmaster-8series", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStairMaster+8%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14307,6 +15113,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000VK7XNM", rawUrl: "https://www.amazon.co.jp/dp/B000VK7XNM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000VK7XNM", rawUrl: "https://www.amazon.com/dp/B000VK7XNM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000VK7XNM", rawUrl: "https://www.amazon.de/dp/B000VK7XNM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rishi-masala-chai", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRishi+Masala+Chai%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14321,6 +15129,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000F9NMBE", rawUrl: "https://www.amazon.co.jp/dp/B000F9NMBE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000F9NMBE", rawUrl: "https://www.amazon.com/dp/B000F9NMBE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000F9NMBE", rawUrl: "https://www.amazon.de/dp/B000F9NMBE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-harney-hot-cinnamon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarney+Sons+Hot+Cinnamon%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14335,6 +15145,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001VJ06ZO", rawUrl: "https://www.amazon.co.jp/dp/B001VJ06ZO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001VJ06ZO", rawUrl: "https://www.amazon.com/dp/B001VJ06ZO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001VJ06ZO", rawUrl: "https://www.amazon.de/dp/B001VJ06ZO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-tazo-chai-concentrate", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTazo+Chai+Concentrate%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14349,6 +15161,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00198ZXRO", rawUrl: "https://www.amazon.co.jp/dp/B00198ZXRO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00198ZXRO", rawUrl: "https://www.amazon.com/dp/B00198ZXRO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00198ZXRO", rawUrl: "https://www.amazon.de/dp/B00198ZXRO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oregon-chai", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOregon+Chai+Original%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14363,6 +15177,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0007WW0T0", rawUrl: "https://www.amazon.co.jp/dp/B0007WW0T0", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0007WW0T0", rawUrl: "https://www.amazon.com/dp/B0007WW0T0", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0007WW0T0", rawUrl: "https://www.amazon.de/dp/B0007WW0T0", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-david-rio-vanilla-chai", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDavid+Rio+Elephant+Vanilla+Chai%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14378,6 +15194,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07GGH5KDV", rawUrl: "https://www.amazon.co.jp/dp/B07GGH5KDV", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07GGH5KDV", rawUrl: "https://www.amazon.com/dp/B07GGH5KDV", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07GGH5KDV", rawUrl: "https://www.amazon.de/dp/B07GGH5KDV", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-everlast-powercore", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEverlast+Powercore+Freestanding%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14392,6 +15210,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000BRQNC6", rawUrl: "https://www.amazon.co.jp/dp/B000BRQNC6", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000BRQNC6", rawUrl: "https://www.amazon.com/dp/B000BRQNC6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000BRQNC6", rawUrl: "https://www.amazon.de/dp/B000BRQNC6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-century-bob-xl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCentury+BOB+XL%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14406,6 +15226,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00N5A0ZQK", rawUrl: "https://www.amazon.co.jp/dp/B00N5A0ZQK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00N5A0ZQK", rawUrl: "https://www.amazon.com/dp/B00N5A0ZQK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00N5A0ZQK", rawUrl: "https://www.amazon.de/dp/B00N5A0ZQK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rdx-heavy-bag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRDX+5ft+punching+bag%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14420,6 +15242,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001ILOKYY", rawUrl: "https://www.amazon.co.jp/dp/B001ILOKYY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001ILOKYY", rawUrl: "https://www.amazon.com/dp/B001ILOKYY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001ILOKYY", rawUrl: "https://www.amazon.de/dp/B001ILOKYY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-everlast-c3-100lb", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEverlast+C3+heavy+bag+100lb%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14434,6 +15258,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001ABTEV8", rawUrl: "https://www.amazon.co.jp/dp/B001ABTEV8", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001ABTEV8", rawUrl: "https://www.amazon.com/dp/B001ABTEV8", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001ABTEV8", rawUrl: "https://www.amazon.de/dp/B001ABTEV8", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ringside-100lb", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRingside+100lb+heavy+bag%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14449,6 +15275,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B003JV6PXW", rawUrl: "https://www.amazon.co.jp/dp/B003JV6PXW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B003JV6PXW", rawUrl: "https://www.amazon.com/dp/B003JV6PXW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B003JV6PXW", rawUrl: "https://www.amazon.de/dp/B003JV6PXW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-comvita-manuka-umf10", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FComvita+Manuka+UMF+10%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14463,6 +15291,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B007YHPAJ4", rawUrl: "https://www.amazon.co.jp/dp/B007YHPAJ4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B007YHPAJ4", rawUrl: "https://www.amazon.com/dp/B007YHPAJ4", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B007YHPAJ4", rawUrl: "https://www.amazon.de/dp/B007YHPAJ4", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-wedderspoon-kfactor16", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWedderspoon+Manuka+KFactor+16%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14477,6 +15307,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B003OBJ3DE", rawUrl: "https://www.amazon.co.jp/dp/B003OBJ3DE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B003OBJ3DE", rawUrl: "https://www.amazon.com/dp/B003OBJ3DE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B003OBJ3DE", rawUrl: "https://www.amazon.de/dp/B003OBJ3DE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nature-nates-raw-honey", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNature+Nate+raw+honey%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14491,6 +15323,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000WTHP28", rawUrl: "https://www.amazon.co.jp/dp/B000WTHP28", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000WTHP28", rawUrl: "https://www.amazon.com/dp/B000WTHP28", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000WTHP28", rawUrl: "https://www.amazon.de/dp/B000WTHP28", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ys-eco-bee-raw-honey", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYS+Eco+Bee+Farms+raw+honey%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14505,6 +15339,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B002VBWZTU", rawUrl: "https://www.amazon.co.jp/dp/B002VBWZTU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B002VBWZTU", rawUrl: "https://www.amazon.com/dp/B002VBWZTU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B002VBWZTU", rawUrl: "https://www.amazon.de/dp/B002VBWZTU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-wholesome-organic-honey", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWholesome+organic+raw+honey%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14520,6 +15356,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00AR1LKYS", rawUrl: "https://www.amazon.co.jp/dp/B00AR1LKYS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00AR1LKYS", rawUrl: "https://www.amazon.com/dp/B00AR1LKYS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00AR1LKYS", rawUrl: "https://www.amazon.de/dp/B00AR1LKYS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hayabusa-t3-gloves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHayabusa+T3+boxing+gloves%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14534,6 +15372,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00138YFGU", rawUrl: "https://www.amazon.co.jp/dp/B00138YFGU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00138YFGU", rawUrl: "https://www.amazon.com/dp/B00138YFGU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00138YFGU", rawUrl: "https://www.amazon.de/dp/B00138YFGU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-everlast-prostyle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEverlast+ProStyle+training+gloves%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14548,6 +15388,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B002MSCCR2", rawUrl: "https://www.amazon.co.jp/dp/B002MSCCR2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B002MSCCR2", rawUrl: "https://www.amazon.com/dp/B002MSCCR2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B002MSCCR2", rawUrl: "https://www.amazon.de/dp/B002MSCCR2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-title-classic-gloves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitle+Boxing+Classic+gloves%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14562,6 +15404,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B06XRBWQFF", rawUrl: "https://www.amazon.co.jp/dp/B06XRBWQFF", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B06XRBWQFF", rawUrl: "https://www.amazon.com/dp/B06XRBWQFF", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B06XRBWQFF", rawUrl: "https://www.amazon.de/dp/B06XRBWQFF", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-everlast-1910-gloves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEverlast+1910+training+gloves%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14576,6 +15420,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0018BQSTW", rawUrl: "https://www.amazon.co.jp/dp/B0018BQSTW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0018BQSTW", rawUrl: "https://www.amazon.com/dp/B0018BQSTW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0018BQSTW", rawUrl: "https://www.amazon.de/dp/B0018BQSTW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cleto-reyes-gloves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCleto+Reyes+boxing+gloves%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14591,6 +15437,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001FGQRKY", rawUrl: "https://www.amazon.co.jp/dp/B001FGQRKY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001FGQRKY", rawUrl: "https://www.amazon.com/dp/B001FGQRKY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001FGQRKY", rawUrl: "https://www.amazon.de/dp/B001FGQRKY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ippodo-sencha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%80%E4%BF%9D%E5%A0%82+%E7%85%8E%E8%8C%B6%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14605,6 +15453,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00AO9OQPI", rawUrl: "https://www.amazon.co.jp/dp/B00AO9OQPI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00AO9OQPI", rawUrl: "https://www.amazon.com/dp/B00AO9OQPI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00AO9OQPI", rawUrl: "https://www.amazon.de/dp/B00AO9OQPI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-harney-japanese-sencha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarney+Sons+Japanese+Sencha%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14619,6 +15469,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B000BKKYC6", rawUrl: "https://www.amazon.co.jp/dp/B000BKKYC6", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000BKKYC6", rawUrl: "https://www.amazon.com/dp/B000BKKYC6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000BKKYC6", rawUrl: "https://www.amazon.de/dp/B000BKKYC6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-two-leaves-genmaicha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%8E%84%E7%B1%B3%E8%8C%B6+loose+leaf%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14633,6 +15485,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B001ET6Z6E", rawUrl: "https://www.amazon.co.jp/dp/B001ET6Z6E", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001ET6Z6E", rawUrl: "https://www.amazon.com/dp/B001ET6Z6E", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001ET6Z6E", rawUrl: "https://www.amazon.de/dp/B001ET6Z6E", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ippodo-gyokuro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%80%E4%BF%9D%E5%A0%82+%E7%8E%89%E9%9C%B2%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14647,6 +15501,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00AO9OQOE", rawUrl: "https://www.amazon.co.jp/dp/B00AO9OQOE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00AO9OQOE", rawUrl: "https://www.amazon.com/dp/B00AO9OQOE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00AO9OQOE", rawUrl: "https://www.amazon.de/dp/B00AO9OQOE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-harney-dragon-well", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDragon+Well+Longjing+%E9%BE%8D%E4%BA%95%E8%8C%B6%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14662,6 +15518,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09D8JMJMV", rawUrl: "https://www.amazon.co.jp/dp/B09D8JMJMV", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09D8JMJMV", rawUrl: "https://www.amazon.com/dp/B09D8JMJMV", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09D8JMJMV", rawUrl: "https://www.amazon.de/dp/B09D8JMJMV", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-selkirk-vanguard", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSelkirk+Vanguard+Power+Air%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14676,6 +15534,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09QDNFMYZ", rawUrl: "https://www.amazon.co.jp/dp/B09QDNFMYZ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09QDNFMYZ", rawUrl: "https://www.amazon.com/dp/B09QDNFMYZ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09QDNFMYZ", rawUrl: "https://www.amazon.de/dp/B09QDNFMYZ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-joola-ben-johns-hyperion", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJoola+Ben+Johns+Hyperion%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14690,6 +15550,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B003M8VBUG", rawUrl: "https://www.amazon.co.jp/dp/B003M8VBUG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B003M8VBUG", rawUrl: "https://www.amazon.com/dp/B003M8VBUG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B003M8VBUG", rawUrl: "https://www.amazon.de/dp/B003M8VBUG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-franklin-x40-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFranklin+X-40+pickleball+paddle+set%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14704,6 +15566,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B01M5HFY21", rawUrl: "https://www.amazon.co.jp/dp/B01M5HFY21", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01M5HFY21", rawUrl: "https://www.amazon.com/dp/B01M5HFY21", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01M5HFY21", rawUrl: "https://www.amazon.de/dp/B01M5HFY21", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-head-extreme-tour", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHead+Extreme+Tour+pickleball%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14718,6 +15582,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B07232PYV4", rawUrl: "https://www.amazon.co.jp/dp/B07232PYV4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07232PYV4", rawUrl: "https://www.amazon.com/dp/B07232PYV4", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07232PYV4", rawUrl: "https://www.amazon.de/dp/B07232PYV4", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-paddletek-tempest-wave", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPaddletek+Tempest+Wave+Pro%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14733,6 +15599,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00B3DQKEG", rawUrl: "https://www.amazon.co.jp/dp/B00B3DQKEG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00B3DQKEG", rawUrl: "https://www.amazon.com/dp/B00B3DQKEG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00B3DQKEG", rawUrl: "https://www.amazon.de/dp/B00B3DQKEG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-vita-coco-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVita+Coco+Original+coconut+water%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14747,6 +15615,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00BKGLRWM", rawUrl: "https://www.amazon.co.jp/dp/B00BKGLRWM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BKGLRWM", rawUrl: "https://www.amazon.com/dp/B00BKGLRWM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00BKGLRWM", rawUrl: "https://www.amazon.de/dp/B00BKGLRWM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-harmless-harvest-raw", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarmless+Harvest+raw+coconut+water%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14761,6 +15631,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B009VRW9T4", rawUrl: "https://www.amazon.co.jp/dp/B009VRW9T4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B009VRW9T4", rawUrl: "https://www.amazon.com/dp/B009VRW9T4", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B009VRW9T4", rawUrl: "https://www.amazon.de/dp/B009VRW9T4", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-taste-nirvana-coconut", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTaste+Nirvana+coconut+water%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14775,6 +15647,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B00IJ0CQCU", rawUrl: "https://www.amazon.co.jp/dp/B00IJ0CQCU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00IJ0CQCU", rawUrl: "https://www.amazon.com/dp/B00IJ0CQCU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00IJ0CQCU", rawUrl: "https://www.amazon.de/dp/B00IJ0CQCU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-c2o-coconut-water", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FC2O+pure+coconut+water%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14789,6 +15663,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B009BI0DGA", rawUrl: "https://www.amazon.co.jp/dp/B009BI0DGA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B009BI0DGA", rawUrl: "https://www.amazon.com/dp/B009BI0DGA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B009BI0DGA", rawUrl: "https://www.amazon.de/dp/B009BI0DGA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-zico-coconut-water", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZICO+natural+coconut+water%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14804,6 +15680,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09P6MPGT6", rawUrl: "https://www.amazon.co.jp/dp/B09P6MPGT6", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09P6MPGT6", rawUrl: "https://www.amazon.com/dp/B09P6MPGT6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09P6MPGT6", rawUrl: "https://www.amazon.de/dp/B09P6MPGT6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-wilson-pro-staff-97", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWilson+Pro+Staff+97+v14%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14818,6 +15696,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0B3JQVQBQ", rawUrl: "https://www.amazon.co.jp/dp/B0B3JQVQBQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0B3JQVQBQ", rawUrl: "https://www.amazon.com/dp/B0B3JQVQBQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0B3JQVQBQ", rawUrl: "https://www.amazon.de/dp/B0B3JQVQBQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-babolat-pure-aero-2023", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBabolat+Pure+Aero+2023%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14832,6 +15712,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09NLLPWVQ", rawUrl: "https://www.amazon.co.jp/dp/B09NLLPWVQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09NLLPWVQ", rawUrl: "https://www.amazon.com/dp/B09NLLPWVQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09NLLPWVQ", rawUrl: "https://www.amazon.de/dp/B09NLLPWVQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-head-speed-mp", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHead+Speed+MP+tennis%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14846,6 +15728,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B0B1JXLF5Y", rawUrl: "https://www.amazon.co.jp/dp/B0B1JXLF5Y", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0B1JXLF5Y", rawUrl: "https://www.amazon.com/dp/B0B1JXLF5Y", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0B1JXLF5Y", rawUrl: "https://www.amazon.de/dp/B0B1JXLF5Y", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-yonex-ezone-98", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYonex+EZONE+98%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14860,6 +15744,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-jp", productId: "B09PZXZXWB", rawUrl: "https://www.amazon.co.jp/dp/B09PZXZXWB", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09PZXZXWB", rawUrl: "https://www.amazon.com/dp/B09PZXZXWB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09PZXZXWB", rawUrl: "https://www.amazon.de/dp/B09PZXZXWB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-wilson-blade-98-v8", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWilson+Blade+98+v8%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14872,6 +15758,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Premium ceremonial grade matcha from Kyoto's Ippodo, stone-ground first harvest", ja: "京都一保堂の看板抹茶、石臼挽き一番摘み" },
     links: [
       { network: "amazon-jp", productId: "B00FFBW9LW", rawUrl: "https://www.amazon.co.jp/dp/B00FFBW9LW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00FFBW9LW", rawUrl: "https://www.amazon.com/dp/B00FFBW9LW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00FFBW9LW", rawUrl: "https://www.amazon.de/dp/B00FFBW9LW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ippodo-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%80%E4%BF%9D%E5%A0%82+%E5%96%9C%E3%81%AE%E6%98%94%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14883,6 +15771,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Single-farm Uji organic matcha optimized for milk-based drinks", ja: "宇治単一農園の有機抹茶、ラテ向け設計" },
     links: [
       { network: "amazon-jp", productId: "B01M6C77LU", rawUrl: "https://www.amazon.co.jp/dp/B01M6C77LU", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01M6C77LU", rawUrl: "https://www.amazon.com/dp/B01M6C77LU", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01M6C77LU", rawUrl: "https://www.amazon.de/dp/B01M6C77LU", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-encha-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEncha+matcha%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14894,6 +15784,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Uji-origin ceremonial grade matcha at an accessible price point", ja: "宇治産抹茶グレード、手頃な価格" },
     links: [
       { network: "amazon-jp", productId: "B00Y3Q7F3E", rawUrl: "https://www.amazon.co.jp/dp/B00Y3Q7F3E", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00Y3Q7F3E", rawUrl: "https://www.amazon.com/dp/B00Y3Q7F3E", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00Y3Q7F3E", rawUrl: "https://www.amazon.de/dp/B00Y3Q7F3E", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-jade-leaf-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJade+Leaf+matcha%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14905,6 +15797,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Professional cooking grade matcha from Japan's largest matcha producer", ja: "日本最大級抹茶メーカーの製菓・料理用グレード" },
     links: [
       { network: "amazon-jp", productId: "B0019N6HOM", rawUrl: "https://www.amazon.co.jp/dp/B0019N6HOM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0019N6HOM", rawUrl: "https://www.amazon.com/dp/B0019N6HOM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0019N6HOM", rawUrl: "https://www.amazon.de/dp/B0019N6HOM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-aiya-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%84%9B%E8%BE%B2+%E6%8A%B9%E8%8C%B6%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14916,6 +15810,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "ITO EN's widely available unsweetened matcha powder for everyday use", ja: "伊藤園のMatchaLove、無糖・手軽に入手可能" },
     links: [
       { network: "amazon-jp", productId: "B01LXHJ1OY", rawUrl: "https://www.amazon.co.jp/dp/B01LXHJ1OY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01LXHJ1OY", rawUrl: "https://www.amazon.com/dp/B01LXHJ1OY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01LXHJ1OY", rawUrl: "https://www.amazon.de/dp/B01LXHJ1OY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-matcha-love", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMatcha+Love%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14928,6 +15824,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Premium laser golf rangefinder with BITE slope and magnetic mount", ja: "スロープBITE対応プレミアムレーザー距離計、磁気マウント付き" },
     links: [
       { network: "amazon-jp", productId: "B07Q2VXJLC", rawUrl: "https://www.amazon.co.jp/dp/B07Q2VXJLC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07Q2VXJLC", rawUrl: "https://www.amazon.com/dp/B07Q2VXJLC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07Q2VXJLC", rawUrl: "https://www.amazon.de/dp/B07Q2VXJLC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bushnell-pro-xe", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBushnell+Pro+XE%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14939,6 +15837,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Hybrid laser and GPS golf rangefinder with 41,000+ course maps", ja: "レーザー＋GPS複合、41,000コース以上収録" },
     links: [
       { network: "amazon-jp", productId: "B07XLQFHJ9", rawUrl: "https://www.amazon.co.jp/dp/B07XLQFHJ9", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07XLQFHJ9", rawUrl: "https://www.amazon.com/dp/B07XLQFHJ9", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07XLQFHJ9", rawUrl: "https://www.amazon.de/dp/B07XLQFHJ9", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-garmin-z82", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin+Approach+Z82%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14950,6 +15850,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Value laser rangefinder with slope, adaptive temperature compensation, and free battery replacement", ja: "スロープ・温度補正付き高コスパ距離計、バッテリー無料交換保証" },
     links: [
       { network: "amazon-jp", productId: "B083HWS7TL", rawUrl: "https://www.amazon.co.jp/dp/B083HWS7TL", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B083HWS7TL", rawUrl: "https://www.amazon.com/dp/B083HWS7TL", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B083HWS7TL", rawUrl: "https://www.amazon.de/dp/B083HWS7TL", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-precision-pro-nx9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPrecision+Pro+NX9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14961,6 +15863,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "GPS golf clip device with 42,000+ courses and auto-detect", ja: "42,000コース以上収録の携帯型GPSゴルフクリップ" },
     links: [
       { network: "amazon-jp", productId: "B09GR9JLW8", rawUrl: "https://www.amazon.co.jp/dp/B09GR9JLW8", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09GR9JLW8", rawUrl: "https://www.amazon.com/dp/B09GR9JLW8", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09GR9JLW8", rawUrl: "https://www.amazon.de/dp/B09GR9JLW8", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-garmin-g12", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin+Approach+G12%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14972,6 +15876,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Nikon laser rangefinder with optical image stabilization for faster flagstick acquisition", ja: "光学式手ブレ補正搭載、フラッグロックが速い" },
     links: [
       { network: "amazon-jp", productId: "B08FRGFLKD", rawUrl: "https://www.amazon.co.jp/dp/B08FRGFLKD", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08FRGFLKD", rawUrl: "https://www.amazon.com/dp/B08FRGFLKD", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08FRGFLKD", rawUrl: "https://www.amazon.de/dp/B08FRGFLKD", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nikon-coolshot-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCOOLSHOT+PRO+II%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14984,6 +15890,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Bold black tea with three cinnamons, orange peel and cloves — the benchmark flavored tea", ja: "3種のシナモン・オレンジピール・クローブ入り濃厚フレーバーティー" },
     links: [
       { network: "amazon-jp", productId: "B000GG0BNE", rawUrl: "https://www.amazon.co.jp/dp/B000GG0BNE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GG0BNE", rawUrl: "https://www.amazon.com/dp/B000GG0BNE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000GG0BNE", rawUrl: "https://www.amazon.de/dp/B000GG0BNE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-harney-cinnamon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarney+Sons+Cinnamon+Spice%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14995,6 +15903,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Assam-forward blend delivering consistent malty strength for milk tea since 1837", ja: "1837年から続くアッサム主体のミルクティー向けブレンド" },
     links: [
       { network: "amazon-jp", productId: "B000GG1OFW", rawUrl: "https://www.amazon.co.jp/dp/B000GG1OFW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GG1OFW", rawUrl: "https://www.amazon.com/dp/B000GG1OFW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000GG1OFW", rawUrl: "https://www.amazon.de/dp/B000GG1OFW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-twinings-breakfast", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTwinings+English+Breakfast%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15006,6 +15916,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Direct-estate first flush Darjeeling with genuine muscatel character, best without milk", ja: "エステートダイレクト仕入れの一番摘みダージリン、本物のマスカテル風味" },
     links: [
       { network: "amazon-jp", productId: "B00LS5GKAG", rawUrl: "https://www.amazon.co.jp/dp/B00LS5GKAG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00LS5GKAG", rawUrl: "https://www.amazon.com/dp/B00LS5GKAG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00LS5GKAG", rawUrl: "https://www.amazon.de/dp/B00LS5GKAG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-vahdam-darjeeling", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVahdam+Darjeeling%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15017,6 +15929,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Full-leaf round sachet black tea with clean malty flavor for daily drinking", ja: "フルリーフ丸型サシェ、クリーンなモルト風味の毎日飲みやすい紅茶" },
     links: [
       { network: "amazon-jp", productId: "B001E5E0T4", rawUrl: "https://www.amazon.co.jp/dp/B001E5E0T4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001E5E0T4", rawUrl: "https://www.amazon.com/dp/B001E5E0T4", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001E5E0T4", rawUrl: "https://www.amazon.de/dp/B001E5E0T4", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-republic-tea-black", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRepublic+of+Tea+black%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15028,6 +15942,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Brisk malty London-blended black tea at grocery store pricing — hidden gem value", ja: "ロンドンブレンドのキリッとしたモルト紅茶、スーパー価格の隠れた名品" },
     links: [
       { network: "amazon-jp", productId: "B004P4ORCI", rawUrl: "https://www.amazon.co.jp/dp/B004P4ORCI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B004P4ORCI", rawUrl: "https://www.amazon.com/dp/B004P4ORCI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B004P4ORCI", rawUrl: "https://www.amazon.de/dp/B004P4ORCI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ahmad-english", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAhmad+Tea+English%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15040,6 +15956,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Short blade training fins that force fast kick turnover matching freestyle cadence", ja: "フリースタイルのリズムに合わせた速いキックターンオーバーを強制するショートブレードフィン" },
     links: [
       { network: "amazon-jp", productId: "B000BLLG6Q", rawUrl: "https://www.amazon.co.jp/dp/B000BLLG6Q", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000BLLG6Q", rawUrl: "https://www.amazon.com/dp/B000BLLG6Q", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000BLLG6Q", rawUrl: "https://www.amazon.de/dp/B000BLLG6Q", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-finis-zoomers", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFINIS+Zoomers%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15051,6 +15969,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Medium blade split-channel fins bridging technique and recreational use", ja: "テクニック用とレクリエーション用の中間を埋めるミドルブレードスプリットフィン" },
     links: [
       { network: "amazon-jp", productId: "B00KE3BPQQ", rawUrl: "https://www.amazon.co.jp/dp/B00KE3BPQQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00KE3BPQQ", rawUrl: "https://www.amazon.com/dp/B00KE3BPQQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00KE3BPQQ", rawUrl: "https://www.amazon.de/dp/B00KE3BPQQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-speedo-biofuse-fin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSpeedo+Biofuse+fin%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15062,6 +15982,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Split blade fins with two independent flex channels for balanced kick development", ja: "2チャンネルの独立たわみでバランスよくキックを鍛えるスプリットブレードフィン" },
     links: [
       { network: "amazon-jp", productId: "B00TQHKXVY", rawUrl: "https://www.amazon.co.jp/dp/B00TQHKXVY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00TQHKXVY", rawUrl: "https://www.amazon.com/dp/B00TQHKXVY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00TQHKXVY", rawUrl: "https://www.amazon.de/dp/B00TQHKXVY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-arena-powerfin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FArena+Powerfin%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15073,6 +15995,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Monofin for dolphin kick and butterfly undulation development", ja: "イルカキックとバタフライのうねり動作を開発するモノフィン" },
     links: [
       { network: "amazon-jp", productId: "B000E9WUFA", rawUrl: "https://www.amazon.co.jp/dp/B000E9WUFA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000E9WUFA", rawUrl: "https://www.amazon.com/dp/B000E9WUFA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000E9WUFA", rawUrl: "https://www.amazon.de/dp/B000E9WUFA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-finis-foil-monofin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFINIS+Foil+Monofin%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15084,6 +16008,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Entry-level short blade training fins delivering core kick development at low cost", ja: "低コストでキック強化の基本効果を得られるエントリーショートブレードフィン" },
     links: [
       { network: "amazon-jp", productId: "B001EQOBG4", rawUrl: "https://www.amazon.co.jp/dp/B001EQOBG4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001EQOBG4", rawUrl: "https://www.amazon.com/dp/B001EQOBG4", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001EQOBG4", rawUrl: "https://www.amazon.de/dp/B001EQOBG4", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-tyr-crossblade", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTYR+Crossblade%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15096,6 +16022,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Cold-brew-specific tea bags formulated for low-temperature extraction, quart-size format", ja: "低温抽出専用配合のコールドブリューティーバッグ、1クォートサイズ" },
     links: [
       { network: "amazon-jp", productId: "B00CBSGWH2", rawUrl: "https://www.amazon.co.jp/dp/B00CBSGWH2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00CBSGWH2", rawUrl: "https://www.amazon.com/dp/B00CBSGWH2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00CBSGWH2", rawUrl: "https://www.amazon.de/dp/B00CBSGWH2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-harney-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarney+Cold+Brew%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15107,6 +16035,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Hibiscus-rose-orange herbal blend that cold brews into striking ruby red with natural sweetness", ja: "ハイビスカス・バラ・オレンジブレンド、コールドブリューで鮮やかなルビー色" },
     links: [
       { network: "amazon-jp", productId: "B01BVHQXHQ", rawUrl: "https://www.amazon.co.jp/dp/B01BVHQXHQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01BVHQXHQ", rawUrl: "https://www.amazon.com/dp/B01BVHQXHQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01BVHQXHQ", rawUrl: "https://www.amazon.de/dp/B01BVHQXHQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-palais-des-thes", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPalais+des+Th%C3%A9s%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15118,6 +16048,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Premium shade-grown gyokuro that develops sweet umami notes when cold brewed overnight", ja: "一晩冷水出しで甘いうまみノートが際立つ高級覆下栽培玉露" },
     links: [
       { network: "amazon-jp", productId: "B00FFBW928", rawUrl: "https://www.amazon.co.jp/dp/B00FFBW928", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00FFBW928", rawUrl: "https://www.amazon.com/dp/B00FFBW928", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00FFBW928", rawUrl: "https://www.amazon.de/dp/B00FFBW928", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ippodo-gyokuro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%80%E4%BF%9D%E5%A0%82+%E7%8E%89%E9%9C%B2%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15129,6 +16061,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Accessible cold brew bags with functional flavors, clean-tasting without cloudiness", ja: "機能系フレーバー付きの手軽なコールドブリューバッグ、濁りなくクリーン" },
     links: [
       { network: "amazon-jp", productId: "B07THTZ3Y2", rawUrl: "https://www.amazon.co.jp/dp/B07THTZ3Y2", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07THTZ3Y2", rawUrl: "https://www.amazon.com/dp/B07THTZ3Y2", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07THTZ3Y2", rawUrl: "https://www.amazon.de/dp/B07THTZ3Y2", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bigelow-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBigelow+Cold+Brew%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15140,6 +16074,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "USDA organic green tea blend formulated for cold extraction without bitterness", ja: "低温抽出で苦みなしのUSDA有機認証緑茶ブレンド" },
     links: [
       { network: "amazon-jp", productId: "B00B9MYE0W", rawUrl: "https://www.amazon.co.jp/dp/B00B9MYE0W", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00B9MYE0W", rawUrl: "https://www.amazon.com/dp/B00B9MYE0W", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00B9MYE0W", rawUrl: "https://www.amazon.de/dp/B00B9MYE0W", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rishi-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRishi+Tea+Cold+Brew%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15152,6 +16088,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Standard medium speed bag for beginner rhythm development, replaceable bladder", ja: "初心者のリズム習得向け標準ミドルサイズスピードバッグ、交換可能エアブラダー" },
     links: [
       { network: "amazon-jp", productId: "B00006JSC1", rawUrl: "https://www.amazon.co.jp/dp/B00006JSC1", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00006JSC1", rawUrl: "https://www.amazon.com/dp/B00006JSC1", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00006JSC1", rawUrl: "https://www.amazon.de/dp/B00006JSC1", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-everlast-speedbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEverlast+speed+bag%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15163,6 +16101,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Genuine leather speed bag for intermediate training with consistent rebound", ja: "一貫したリバウンドの中級者向け本革スピードバッグ" },
     links: [
       { network: "amazon-jp", productId: "B000O64HV0", rawUrl: "https://www.amazon.co.jp/dp/B000O64HV0", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000O64HV0", rawUrl: "https://www.amazon.com/dp/B000O64HV0", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000O64HV0", rawUrl: "https://www.amazon.de/dp/B000O64HV0", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-title-speedbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitle+Boxing+speed+bag%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15174,6 +16114,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Multi-layer genuine leather speed bag with consistent rebound for long-term home gym use", ja: "長期ホームジム使用向け多層本革スピードバッグ、安定したリバウンド" },
     links: [
       { network: "amazon-jp", productId: "B0019OXUMM", rawUrl: "https://www.amazon.co.jp/dp/B0019OXUMM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0019OXUMM", rawUrl: "https://www.amazon.com/dp/B0019OXUMM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0019OXUMM", rawUrl: "https://www.amazon.de/dp/B0019OXUMM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ringside-frequency", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRingside+Frequency%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15185,6 +16127,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Handcrafted Mexican leather speed bag with precise internal geometry for professional training", ja: "精密な内部ジオメトリのメキシコ製手縫い本革スピードバッグ" },
     links: [
       { network: "amazon-jp", productId: "B001CQFB2Y", rawUrl: "https://www.amazon.co.jp/dp/B001CQFB2Y", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001CQFB2Y", rawUrl: "https://www.amazon.com/dp/B001CQFB2Y", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001CQFB2Y", rawUrl: "https://www.amazon.de/dp/B001CQFB2Y", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cleto-reyes-speedbag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCleto+Reyes+speed+bag%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15196,6 +16140,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Self-contained floor-standing speed bag platform requiring no wall or ceiling installation", ja: "壁・天井への固定不要の自立型スピードバッグプラットフォーム" },
     links: [
       { network: "amazon-jp", productId: "B000MVPF4O", rawUrl: "https://www.amazon.co.jp/dp/B000MVPF4O", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000MVPF4O", rawUrl: "https://www.amazon.com/dp/B000MVPF4O", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000MVPF4O", rawUrl: "https://www.amazon.de/dp/B000MVPF4O", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-century-wavemaster-sb", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCentury+Wavemaster+speed+bag%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15208,6 +16154,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Lightly oxidized Taiwan oolong from 1,200-1,600m elevation with orchid-floral aroma", ja: "台湾標高1,200〜1,600mで育つ軽酸化烏龍、蘭の花香" },
     links: [
       { network: "amazon-jp", productId: "B007CGRP0O", rawUrl: "https://www.amazon.co.jp/dp/B007CGRP0O", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B007CGRP0O", rawUrl: "https://www.amazon.com/dp/B007CGRP0O", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B007CGRP0O", rawUrl: "https://www.amazon.de/dp/B007CGRP0O", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-alishan-oolong", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%98%BF%E9%87%8C%E5%B1%B1+%E9%AB%98%E5%B1%B1%E7%83%8F%E9%BE%8D%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15219,6 +16167,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Famous mineral-forward heavily roasted rock oolong from Fujian's Wuyi mountains", ja: "福建省武夷山産のミネラル感ある重焙煎岩茶、中国十大名茶" },
     links: [
       { network: "amazon-jp", productId: "B008JCSCAI", rawUrl: "https://www.amazon.co.jp/dp/B008JCSCAI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B008JCSCAI", rawUrl: "https://www.amazon.com/dp/B008JCSCAI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B008JCSCAI", rawUrl: "https://www.amazon.de/dp/B008JCSCAI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-da-hong-pao", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%A7%E7%B4%85%E8%A2%8D%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15230,6 +16180,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Classic Taiwanese medium-roast oolong from Nantou County with toasted grain and fruit notes", ja: "南投県産の台湾定番中焙烏龍、焙じ穀物とフルーティさのバランス" },
     links: [
       { network: "amazon-jp", productId: "B001EQ5Y7A", rawUrl: "https://www.amazon.co.jp/dp/B001EQ5Y7A", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001EQ5Y7A", rawUrl: "https://www.amazon.com/dp/B001EQ5Y7A", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001EQ5Y7A", rawUrl: "https://www.amazon.de/dp/B001EQ5Y7A", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-dong-ding-oolong", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%87%8D%E9%A0%82%E7%83%8F%E9%BE%8D%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15241,6 +16193,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Ultra-high elevation Taiwan oolong from 2,200-2,600m with intense floral complexity", ja: "台湾標高2,200〜2,600mの超高山烏龍、濃厚な花香複雑性" },
     links: [
       { network: "amazon-jp", productId: "B00AISNC7O", rawUrl: "https://www.amazon.co.jp/dp/B00AISNC7O", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00AISNC7O", rawUrl: "https://www.amazon.com/dp/B00AISNC7O", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00AISNC7O", rawUrl: "https://www.amazon.de/dp/B00AISNC7O", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-li-shan-oolong", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A2%A8%E5%B1%B1+%E9%AB%98%E5%B1%B1%E7%83%8F%E9%BE%8D%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15252,6 +16206,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Classic lightly oxidized Anxi oolong with orchid and lily floral notes — one of China's ten famous teas", ja: "蘭・百合の花香を持つ安渓産軽酸化烏龍、中国十大名茶" },
     links: [
       { network: "amazon-jp", productId: "B001NNFHKC", rawUrl: "https://www.amazon.co.jp/dp/B001NNFHKC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001NNFHKC", rawUrl: "https://www.amazon.com/dp/B001NNFHKC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001NNFHKC", rawUrl: "https://www.amazon.de/dp/B001NNFHKC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-tie-guan-yin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%89%84%E8%A6%B3%E9%9F%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15264,6 +16220,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "USDA organic fair-trade South African rooibos with full-leaf bags and clean earthy flavor", ja: "USDA有機・フェアトレード認証の南アフリカルイボス、フルリーフバッグ" },
     links: [
       { network: "amazon-jp", productId: "B001E5E5KG", rawUrl: "https://www.amazon.co.jp/dp/B001E5E5KG", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001E5E5KG", rawUrl: "https://www.amazon.com/dp/B001E5E5KG", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001E5E5KG", rawUrl: "https://www.amazon.de/dp/B001E5E5KG", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-numi-rooibos", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNumi+Rooibos%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15275,6 +16233,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Caffeine-free chai blend with cinnamon, ginger, cardamom on rooibos base — naturally sweet", ja: "ルイボスベースのカフェインフリーチャイブレンド、シナモン・ジンジャー・カルダモン" },
     links: [
       { network: "amazon-jp", productId: "B000GG03KY", rawUrl: "https://www.amazon.co.jp/dp/B000GG03KY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GG03KY", rawUrl: "https://www.amazon.com/dp/B000GG03KY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000GG03KY", rawUrl: "https://www.amazon.de/dp/B000GG03KY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-celestial-bengal-spice", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCelestial+Bengal+Spice%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15286,6 +16246,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Premium pyramid sachet rooibos with refined whole-leaf quality and gift-worthy presentation", ja: "精製ホールリーフ品質のプレミアムピラミッドサシェルイボス" },
     links: [
       { network: "amazon-jp", productId: "B002SFKGF0", rawUrl: "https://www.amazon.co.jp/dp/B002SFKGF0", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B002SFKGF0", rawUrl: "https://www.amazon.com/dp/B002SFKGF0", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B002SFKGF0", rawUrl: "https://www.amazon.de/dp/B002SFKGF0", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-tea-forte-rooibos", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTea+Forte+Rooibos%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15297,6 +16259,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Wild-harvested Cederberg mountain rooibos with complex earthiness and mineral notes", ja: "セダーバーグ山地野生採取の複雑な土っぽさとミネラルノートのルイボス" },
     links: [
       { network: "amazon-jp", productId: "B00JQXIKNC", rawUrl: "https://www.amazon.co.jp/dp/B00JQXIKNC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00JQXIKNC", rawUrl: "https://www.amazon.com/dp/B00JQXIKNC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00JQXIKNC", rawUrl: "https://www.amazon.de/dp/B00JQXIKNC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-wild-rooibos", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fwild+rooibos%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15308,6 +16272,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Organic South African honeybush with natural honey and apricot notes, caffeine-free", ja: "有機南アフリカハニーブッシュ、はちみつとあんずの自然なノート、カフェインフリー" },
     links: [
       { network: "amazon-jp", productId: "B001E5E5JC", rawUrl: "https://www.amazon.co.jp/dp/B001E5E5JC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001E5E5JC", rawUrl: "https://www.amazon.com/dp/B001E5E5JC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001E5E5JC", rawUrl: "https://www.amazon.de/dp/B001E5E5JC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-numi-honeybush", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNumi+Honeybush%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15320,6 +16286,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Market-leading CrossFit trainer with flat rigid heel for lifting stability and durable rope-climb wrap", ja: "フラット硬性ヒールと耐久ロープラップ搭載の市場リーダークロスフィットトレーナー" },
     links: [
       { network: "amazon-jp", productId: "B0BXQV4KJH", rawUrl: "https://www.amazon.co.jp/dp/B0BXQV4KJH", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0BXQV4KJH", rawUrl: "https://www.amazon.com/dp/B0BXQV4KJH", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0BXQV4KJH", rawUrl: "https://www.amazon.de/dp/B0BXQV4KJH", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nike-metcon-9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Metcon+9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15331,6 +16299,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Versatile CrossFit trainer with better running comfort than Metcon, dual-layer outsole", ja: "メトコンよりランニング快適性の高いデュアルレイヤーアウトソールクロスフィットトレーナー" },
     links: [
       { network: "amazon-jp", productId: "B0BV3WZT9W", rawUrl: "https://www.amazon.co.jp/dp/B0BV3WZT9W", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0BV3WZT9W", rawUrl: "https://www.amazon.com/dp/B0BV3WZT9W", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0BV3WZT9W", rawUrl: "https://www.amazon.de/dp/B0BV3WZT9W", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-reebok-nano-x4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FReebok+Nano+X4%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15342,6 +16312,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Minimalist SuperFabric CrossFit trainer with flat outsole and maximum durability, no foam tech", ja: "フォームなしの超耐久SuperFabricアッパーとフラットアウトソールのミニマリストトレーナー" },
     links: [
       { network: "amazon-jp", productId: "B09S7C8RRM", rawUrl: "https://www.amazon.co.jp/dp/B09S7C8RRM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09S7C8RRM", rawUrl: "https://www.amazon.com/dp/B09S7C8RRM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09S7C8RRM", rawUrl: "https://www.amazon.de/dp/B09S7C8RRM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nobull-trainer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNoBull+Trainer%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15353,6 +16325,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Minimal drop flexible CrossFit shoe for run-heavy WODs with 800m+ repeats", ja: "800m以上のリピートを含むランニング重視WOD向けの低ドロップ柔軟クロスフィットシューズ" },
     links: [
       { network: "amazon-jp", productId: "B07CTHBVBY", rawUrl: "https://www.amazon.co.jp/dp/B07CTHBVBY", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07CTHBVBY", rawUrl: "https://www.amazon.com/dp/B07CTHBVBY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07CTHBVBY", rawUrl: "https://www.amazon.de/dp/B07CTHBVBY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nb-minimus-tr", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNew+Balance+Minimus+TR%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15364,6 +16338,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Hybrid CrossFit trainer with 4mm heel elevation for Olympic lifting stability while retaining trainer flexibility", ja: "リフティング安定性のための4mmヒール挙上とトレーナー柔軟性を兼ね備えたハイブリッド" },
     links: [
       { network: "amazon-jp", productId: "B01N0EP91P", rawUrl: "https://www.amazon.co.jp/dp/B01N0EP91P", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01N0EP91P", rawUrl: "https://www.amazon.com/dp/B01N0EP91P", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01N0EP91P", rawUrl: "https://www.amazon.de/dp/B01N0EP91P", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-inov8-fastlift", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInov-8+Fastlift%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15376,6 +16352,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Symmetric flat-last beginner climbing shoe with lace + strap closure, widely recommended", ja: "対称フラットラストの初心者クライミングシューズ、レース＋ストラップ、定番推薦品" },
     links: [
       { network: "amazon-jp", productId: "B00AEPE7IE", rawUrl: "https://www.amazon.co.jp/dp/B00AEPE7IE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00AEPE7IE", rawUrl: "https://www.amazon.com/dp/B00AEPE7IE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00AEPE7IE", rawUrl: "https://www.amazon.de/dp/B00AEPE7IE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-la-sportiva-tarantula", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLa+Sportiva+Tarantula%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15387,6 +16365,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Slightly downturned intermediate climbing shoe with VS rubber and velcro closure", ja: "わずかなダウンターンのVSゴム採用中級クライミングシューズ、ベルクロ" },
     links: [
       { network: "amazon-jp", productId: "B003EWWHV8", rawUrl: "https://www.amazon.co.jp/dp/B003EWWHV8", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B003EWWHV8", rawUrl: "https://www.amazon.com/dp/B003EWWHV8", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B003EWWHV8", rawUrl: "https://www.amazon.de/dp/B003EWWHV8", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-scarpa-instinct-vs", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FScarpa+Instinct+VS%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15398,6 +16378,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "World Cup-level aggressively downturned boulder shoe with P3 system for maximum precision", ja: "ワールドカップ仕様のP3システム搭載攻撃的ダウンターンボルダリングシューズ" },
     links: [
       { network: "amazon-jp", productId: "B0030JMQBA", rawUrl: "https://www.amazon.co.jp/dp/B0030JMQBA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0030JMQBA", rawUrl: "https://www.amazon.com/dp/B0030JMQBA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0030JMQBA", rawUrl: "https://www.amazon.de/dp/B0030JMQBA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-la-sportiva-solution", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLa+Sportiva+Solution%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15409,6 +16391,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Indoor gym-optimized climbing shoe with breathable synthetic upper and NeoFriction rubber", ja: "ジム専用設計の通気合成アッパー・NeoFrictionゴム採用クライミングシューズ" },
     links: [
       { network: "amazon-jp", productId: "B07CY6T2CL", rawUrl: "https://www.amazon.co.jp/dp/B07CY6T2CL", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07CY6T2CL", rawUrl: "https://www.amazon.com/dp/B07CY6T2CL", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07CY6T2CL", rawUrl: "https://www.amazon.de/dp/B07CY6T2CL", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-black-diamond-momentum", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBlack+Diamond+Momentum%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15420,6 +16404,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Stealth C4 rubber slab-crushing shoe with slightly downturned profile for maximum friction", ja: "Stealth C4ゴム採用の最大摩擦スラブ専用シューズ、わずかなダウンターン" },
     links: [
       { network: "amazon-jp", productId: "B00JDHBFUS", rawUrl: "https://www.amazon.co.jp/dp/B00JDHBFUS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00JDHBFUS", rawUrl: "https://www.amazon.com/dp/B00JDHBFUS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00JDHBFUS", rawUrl: "https://www.amazon.de/dp/B00JDHBFUS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-five-ten-hiangle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFive+Ten+Hiangle%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15432,6 +16418,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Extra-high menthol peppermint tea formulated for digestive comfort and IBS relief", ja: "消化器系の快適さとIBS緩和のために特別配合された超高メントールペパーミントティー" },
     links: [
       { network: "amazon-jp", productId: "B000F9YVDI", rawUrl: "https://www.amazon.co.jp/dp/B000F9YVDI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000F9YVDI", rawUrl: "https://www.amazon.com/dp/B000F9YVDI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000F9YVDI", rawUrl: "https://www.amazon.de/dp/B000F9YVDI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-heathers-tummy-tamer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHeather%27s+Tummy+Tamer+Peppermint%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15443,6 +16431,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Single-ingredient USDA organic peppermint tea in compostable square bags", ja: "堆肥化可能な正方形バッグのシングルインリーディエントUSDA有機ペパーミントティー" },
     links: [
       { network: "amazon-jp", productId: "B00028JMPE", rawUrl: "https://www.amazon.co.jp/dp/B00028JMPE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00028JMPE", rawUrl: "https://www.amazon.com/dp/B00028JMPE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00028JMPE", rawUrl: "https://www.amazon.de/dp/B00028JMPE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-choice-organic-peppermint", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChoice+Organic+Peppermint+Tea%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15454,6 +16444,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Single-origin Moroccan full-leaf peppermint in pyramid sachets, fair trade certified", ja: "フェアトレード認証取得済みのシングルオリジンモロッコフルリーフペパーミントピラミッドサシェ" },
     links: [
       { network: "amazon-jp", productId: "B000GG0BNE", rawUrl: "https://www.amazon.co.jp/dp/B000GG0BNE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GG0BNE", rawUrl: "https://www.amazon.com/dp/B000GG0BNE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000GG0BNE", rawUrl: "https://www.amazon.de/dp/B000GG0BNE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-numi-peppermint", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNumi+Organic+Peppermint%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15465,6 +16457,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Large-cut peppermint in a freshness-preserving recyclable tin, moderate menthol intensity", ja: "鮮度を保つリサイクル可能なティン入りの大きくカットされたペパーミント、中程度のメントール強度" },
     links: [
       { network: "amazon-jp", productId: "B000GG08AW", rawUrl: "https://www.amazon.co.jp/dp/B000GG08AW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GG08AW", rawUrl: "https://www.amazon.com/dp/B000GG08AW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000GG08AW", rawUrl: "https://www.amazon.de/dp/B000GG08AW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-republic-of-tea-peppermint", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRepublic+of+Tea+Peppermint%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15476,6 +16470,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Widely available grocery store peppermint in individually foil-wrapped bags for freshness", ja: "個別アルミホイル包装で鮮度を保つ広く流通するスーパーマーケットペパーミントティー" },
     links: [
       { network: "amazon-jp", productId: "B0000CFN9G", rawUrl: "https://www.amazon.co.jp/dp/B0000CFN9G", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0000CFN9G", rawUrl: "https://www.amazon.com/dp/B0000CFN9G", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000CFN9G", rawUrl: "https://www.amazon.de/dp/B0000CFN9G", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bigelow-peppermint", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBigelow+Peppermint+Tea%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15488,6 +16484,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Premium leather dowel gymnastics grips for competitive gymnastics and high-volume CrossFit bar work", ja: "競技体操と高量クロスフィットバーワーク向けプレミアムレザーダウエル体操グリップ" },
     links: [
       { network: "amazon-jp", productId: "B00GRXRB2S", rawUrl: "https://www.amazon.co.jp/dp/B00GRXRB2S", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00GRXRB2S", rawUrl: "https://www.amazon.com/dp/B00GRXRB2S", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00GRXRB2S", rawUrl: "https://www.amazon.de/dp/B00GRXRB2S", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-gibson-bear-grips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGibson+Athletic+Bear+Grips%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15499,6 +16497,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "No break-in carbon fiber 3-hole CrossFit grips with consistent performance across humidity levels", ja: "慣らし不要のカーボンファイバー3穴クロスフィットグリップ、湿度に左右されない一貫したパフォーマンス" },
     links: [
       { network: "amazon-jp", productId: "B074W95MWK", rawUrl: "https://www.amazon.co.jp/dp/B074W95MWK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B074W95MWK", rawUrl: "https://www.amazon.com/dp/B074W95MWK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B074W95MWK", rawUrl: "https://www.amazon.de/dp/B074W95MWK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bear-komplex-carbon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBear+KompleX+Carbon+Grips%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15510,6 +16510,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Elite-level leather gymnastics grips used by competitive programs worldwide for horizontal bar and rings", ja: "鉄棒と吊り輪向けに世界の競技プログラムが使用するエリートレベルレザー体操グリップ" },
     links: [
       { network: "amazon-jp", productId: "B000F4BDMK", rawUrl: "https://www.amazon.co.jp/dp/B000F4BDMK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000F4BDMK", rawUrl: "https://www.amazon.com/dp/B000F4BDMK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000F4BDMK", rawUrl: "https://www.amazon.de/dp/B000F4BDMK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-reisport-grips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FReisport+Gymnastics+Grips%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15521,6 +16523,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Entry-level suede leather grips for recreational gymnastics and youth programs, easy to size and fit", ja: "サイジングとフィットが簡単なレクリエーション体操とユースプログラム向けエントリーレベルスエードレザーグリップ" },
     links: [
       { network: "amazon-jp", productId: "B01MUAP6YC", rawUrl: "https://www.amazon.co.jp/dp/B01MUAP6YC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01MUAP6YC", rawUrl: "https://www.amazon.com/dp/B01MUAP6YC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01MUAP6YC", rawUrl: "https://www.amazon.de/dp/B01MUAP6YC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-jap-grips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJAP+Gymnastics+Grips%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15532,6 +16536,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Budget-friendly 3-hole leather CrossFit grips for athletes new to grip use in standard WOD volumes", ja: "標準WOD量でグリップを試し始めるクロスフィッター向けコスパ良好な3穴レザーグリップ" },
     links: [
       { network: "amazon-jp", productId: "B00O9QNUOE", rawUrl: "https://www.amazon.co.jp/dp/B00O9QNUOE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00O9QNUOE", rawUrl: "https://www.amazon.com/dp/B00O9QNUOE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00O9QNUOE", rawUrl: "https://www.amazon.de/dp/B00O9QNUOE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-wod-nation-grips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWOD+Nation+Gymnastics+Grips%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15544,6 +16550,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Premium buds-only Silver Needle white tea with delicate sweetness, floral finish, and no bitterness", ja: "苦みなし・繊細な甘さとフローラルな後味を持つ芽のみのプレミアム銀針白茶" },
     links: [
       { network: "amazon-jp", productId: "B00GVJJQ08", rawUrl: "https://www.amazon.co.jp/dp/B00GVJJQ08", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00GVJJQ08", rawUrl: "https://www.amazon.com/dp/B00GVJJQ08", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00GVJJQ08", rawUrl: "https://www.amazon.de/dp/B00GVJJQ08", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-teavana-silver-needle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTeavana+Silver+Needle+White+Tea%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15555,6 +16563,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Single-estate Darjeeling white tea with muscatel-adjacent floral and fruity notes, traceable sourcing", ja: "トレーサブルソーシングのマスカテル的フローラル＆フルーティーな香りのシングルエステートダージリン白茶" },
     links: [
       { network: "amazon-jp", productId: "B01N9VGDIM", rawUrl: "https://www.amazon.co.jp/dp/B01N9VGDIM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01N9VGDIM", rawUrl: "https://www.amazon.com/dp/B01N9VGDIM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01N9VGDIM", rawUrl: "https://www.amazon.de/dp/B01N9VGDIM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-vahdam-darjeeling-white", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVahdam+Darjeeling+White+Tea%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15566,6 +16576,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Reliable everyday Bai Mu Dan white peony with light grassy-sweet notes at an accessible daily price", ja: "アクセスしやすい日常価格で軽い草っぽい甘い香りの信頼性の高い毎日の白牡丹" },
     links: [
       { network: "amazon-jp", productId: "B000GVJQ18", rawUrl: "https://www.amazon.co.jp/dp/B000GVJQ18", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GVJQ18", rawUrl: "https://www.amazon.com/dp/B000GVJQ18", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000GVJQ18", rawUrl: "https://www.amazon.de/dp/B000GVJQ18", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-harney-white-peony", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarney+%26+Sons+White+Peony%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15577,6 +16589,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Fujian-province single-origin Silver Needle with clean melon-honeydew sweetness and floral top note", ja: "クリーンなメロン・ハネデューの甘さとフローラルな上部の香りを持つ福建省シングルオリジン銀針" },
     links: [
       { network: "amazon-jp", productId: "B001E5E0F0", rawUrl: "https://www.amazon.co.jp/dp/B001E5E0F0", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B001E5E0F0", rawUrl: "https://www.amazon.com/dp/B001E5E0F0", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001E5E0F0", rawUrl: "https://www.amazon.de/dp/B001E5E0F0", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rishi-silver-needle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRishi+Tea+Silver+Needle%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15588,6 +16602,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Accessible white tea blend with blueberry for those new to white tea, foil-wrapped for freshness", ja: "白茶初心者向けのアルミホイル包装鮮度保持ブルーベリー入りアクセスしやすい白茶ブレンド" },
     links: [
       { network: "amazon-jp", productId: "B00028JMPE", rawUrl: "https://www.amazon.co.jp/dp/B00028JMPE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00028JMPE", rawUrl: "https://www.amazon.com/dp/B00028JMPE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00028JMPE", rawUrl: "https://www.amazon.de/dp/B00028JMPE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bigelow-white-tea", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBigelow+White+Tea%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15600,6 +16616,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Mid-range complete lacrosse stick bridging beginner and performance gear for high school and adult players", ja: "高校生と大人向けに初心者と高性能の間を埋める中価格帯コンプリートラクロスステッキ" },
     links: [
       { network: "amazon-jp", productId: "B07KQPR2T6", rawUrl: "https://www.amazon.co.jp/dp/B07KQPR2T6", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07KQPR2T6", rawUrl: "https://www.amazon.com/dp/B07KQPR2T6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07KQPR2T6", rawUrl: "https://www.amazon.de/dp/B07KQPR2T6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-stx-stallion-u", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTX+Stallion+U+Lacrosse%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15611,6 +16629,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "High-performance attack lacrosse stick with narrow iQ9 head, aggressive offset, and Dragonfly composite shaft", ja: "ナローiQ9ヘッド・アグレッシブオフセット・Dragonflyコンポジットシャフトの高性能アタックラクロスステッキ" },
     links: [
       { network: "amazon-jp", productId: "B07BDXDPMC", rawUrl: "https://www.amazon.co.jp/dp/B07BDXDPMC", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BDXDPMC", rawUrl: "https://www.amazon.com/dp/B07BDXDPMC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BDXDPMC", rawUrl: "https://www.amazon.de/dp/B07BDXDPMC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-epoch-hawk-iq9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEpoch+Hawk+iQ9+Lacrosse%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15622,6 +16642,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Reliable mid-range complete stick for recreational and high school lacrosse with good pocket control", ja: "良好なポケットコントロールを持つレクリエーション・高校ラクロス向け信頼性の高い中価格帯コンプリートスティック" },
     links: [
       { network: "amazon-jp", productId: "B074WFHQ6P", rawUrl: "https://www.amazon.co.jp/dp/B074WFHQ6P", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B074WFHQ6P", rawUrl: "https://www.amazon.com/dp/B074WFHQ6P", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B074WFHQ6P", rawUrl: "https://www.amazon.de/dp/B074WFHQ6P", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-warrior-evo-lacrosse", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWarrior+Evo+Lacrosse%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15633,6 +16655,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Midfielder-optimized complete lacrosse stick with wider throat for ground balls and throwing accuracy balance", ja: "グラウンドボールとスローイング精度バランスのための広いスロートを持つミッドフィールダー最適化コンプリートスティック" },
     links: [
       { network: "amazon-jp", productId: "B07G3H5ZFK", rawUrl: "https://www.amazon.co.jp/dp/B07G3H5ZFK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07G3H5ZFK", rawUrl: "https://www.amazon.com/dp/B07G3H5ZFK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07G3H5ZFK", rawUrl: "https://www.amazon.de/dp/B07G3H5ZFK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-maverik-lacrosse", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMaverik+Lacrosse+Stick%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15644,6 +16668,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Women's-specific lacrosse stick with regulation-compliant shallow pocket, lighter shaft, and women's head geometry", ja: "規制準拠の浅いポケット・軽いシャフト・女性用ヘッドジオメトリを持つ女性専用ラクロスステッキ" },
     links: [
       { network: "amazon-jp", productId: "B07B4HZFGK", rawUrl: "https://www.amazon.co.jp/dp/B07B4HZFGK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07B4HZFGK", rawUrl: "https://www.amazon.com/dp/B07B4HZFGK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07B4HZFGK", rawUrl: "https://www.amazon.de/dp/B07B4HZFGK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-stx-crux-200", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTX+Crux+200+Women%27s+Lacrosse%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15656,6 +16682,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Whole dried organic hibiscus calyxes for brewing deep ruby agua de jamaica at home", ja: "自宅で深いルビーのアグア・デ・ジャマイカを淹れるためのホール乾燥オーガニックハイビスカスがく" },
     links: [
       { network: "amazon-jp", productId: "B000WS2PBK", rawUrl: "https://www.amazon.co.jp/dp/B000WS2PBK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000WS2PBK", rawUrl: "https://www.amazon.com/dp/B000WS2PBK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000WS2PBK", rawUrl: "https://www.amazon.de/dp/B000WS2PBK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-frontier-hibiscus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFrontier+Co-op+Hibiscus+Flowers%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15667,6 +16695,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Premium hibiscus blend with rosehips and chamomile for a balanced deep ruby cup with floral notes", ja: "フローラルな香りを持つ均衡の取れた深いルビーカップのためのローズヒップとカモミール入りプレミアムハイビスカスブレンド" },
     links: [
       { network: "amazon-jp", productId: "B000FGDIAI", rawUrl: "https://www.amazon.co.jp/dp/B000FGDIAI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000FGDIAI", rawUrl: "https://www.amazon.com/dp/B000FGDIAI", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000FGDIAI", rawUrl: "https://www.amazon.de/dp/B000FGDIAI", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-harney-hibiscus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHarney+%26+Sons+Hibiscus%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15678,6 +16708,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Accessible everyday hibiscus tea with mint, foil-wrapped for freshness, widely available", ja: "広く流通するアルミホイル包装鮮度保持のミント入りアクセスしやすい毎日のハイビスカスティー" },
     links: [
       { network: "amazon-jp", productId: "B002PHAD5A", rawUrl: "https://www.amazon.co.jp/dp/B002PHAD5A", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B002PHAD5A", rawUrl: "https://www.amazon.com/dp/B002PHAD5A", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B002PHAD5A", rawUrl: "https://www.amazon.de/dp/B002PHAD5A", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bigelow-hibiscus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBigelow+Hibiscus+Tea%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15689,6 +16721,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Budget-friendly hibiscus-base fruity herbal blend for hibiscus beginners and approachable daily tea", ja: "ハイビスカス初心者とアクセスしやすい毎日のお茶向けコスパ良好なハイビスカスベースフルーティーハーブブレンド" },
     links: [
       { network: "amazon-jp", productId: "B000GG2AUQ", rawUrl: "https://www.amazon.co.jp/dp/B000GG2AUQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GG2AUQ", rawUrl: "https://www.amazon.com/dp/B000GG2AUQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000GG2AUQ", rawUrl: "https://www.amazon.de/dp/B000GG2AUQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-celestial-wild-berry-zinger", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCelestial+Seasonings+Wild+Berry+Zinger%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15700,6 +16734,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Single-ingredient hibiscus in airtight tin sachets optimized for cold brew and wellness-focused daily use", ja: "コールドブリューとウェルネス重視の毎日の使用に最適化された気密ティンサシェのシングルインリーディエントハイビスカス" },
     links: [
       { network: "amazon-jp", productId: "B002H0G5KW", rawUrl: "https://www.amazon.co.jp/dp/B002H0G5KW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B002H0G5KW", rawUrl: "https://www.amazon.com/dp/B002H0G5KW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B002H0G5KW", rawUrl: "https://www.amazon.de/dp/B002H0G5KW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-republic-hibiscus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRepublic+of+Tea+Hibiscus%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15712,6 +16748,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Gel-padded volleyball knee pad with correct impact zone positioning and anti-slip retention for competitive play", ja: "競技プレイ向け正確な衝撃ゾーン位置決めと滑り止め保持のゲルパッド入りバレーボール膝パッド" },
     links: [
       { network: "amazon-jp", productId: "B00C4Q8BBO", rawUrl: "https://www.amazon.co.jp/dp/B00C4Q8BBO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00C4Q8BBO", rawUrl: "https://www.amazon.com/dp/B00C4Q8BBO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00C4Q8BBO", rawUrl: "https://www.amazon.de/dp/B00C4Q8BBO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-asics-gel-knee-pad", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAsics+Volleyball+Knee+Pad%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15723,6 +16761,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Thick-padded libero-specific volleyball knee pad with reinforced kneecap and side panels for lateral slides", ja: "強化膝頭と横スライド用サイドパネルを持つ厚パッドリベロ専用バレーボール膝パッド" },
     links: [
       { network: "amazon-jp", productId: "B00C4Q8BBO", rawUrl: "https://www.amazon.co.jp/dp/B00C4Q8BBO", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00C4Q8BBO", rawUrl: "https://www.amazon.com/dp/B00C4Q8BBO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00C4Q8BBO", rawUrl: "https://www.amazon.de/dp/B00C4Q8BBO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-mizuno-lr6-knee-pad", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMizuno+LR6+Knee+Pad%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15734,6 +16774,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Thin-profile volleyball knee pad for front-row players who need jump freedom with minimal bulk", ja: "最小限の嵩でジャンプの自由が必要なフロントロー選手向けの薄型バレーボール膝パッド" },
     links: [
       { network: "amazon-jp", productId: "B07RLTK9QK", rawUrl: "https://www.amazon.co.jp/dp/B07RLTK9QK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07RLTK9QK", rawUrl: "https://www.amazon.com/dp/B07RLTK9QK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07RLTK9QK", rawUrl: "https://www.amazon.de/dp/B07RLTK9QK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nike-volleyball-knee", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Volleyball+Knee+Pad%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15745,6 +16787,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Budget volleyball knee pad for recreational players and youth leagues with adequate foam protection", ja: "レクリエーション選手とユースリーグ向けの適切なフォーム保護コスパバレーボール膝パッド" },
     links: [
       { network: "amazon-jp", productId: "B000T2NMLE", rawUrl: "https://www.amazon.co.jp/dp/B000T2NMLE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000T2NMLE", rawUrl: "https://www.amazon.com/dp/B000T2NMLE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000T2NMLE", rawUrl: "https://www.amazon.de/dp/B000T2NMLE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-tachikara-knee-pad", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTachikara+Volleyball+Knee+Pad%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15756,6 +16800,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Mid-range EVA foam volleyball knee pads for competitive high school and adult recreational players", ja: "競技高校生と大人のレクリエーション選手向けの中価格帯EVAフォームバレーボール膝パッド" },
     links: [
       { network: "amazon-jp", productId: "B07G4MT7QJ", rawUrl: "https://www.amazon.co.jp/dp/B07G4MT7QJ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07G4MT7QJ", rawUrl: "https://www.amazon.com/dp/B07G4MT7QJ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07G4MT7QJ", rawUrl: "https://www.amazon.de/dp/B07G4MT7QJ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-wilson-volleyball-knee", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWilson+Volleyball+Knee+Pads%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15768,6 +16814,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Whole-flower organic chamomile tea with honey-apple aroma and full-bodied golden cup", ja: "蜂蜜リンゴの香りと豊かな金色カップのホールフラワーオーガニックカモミールティー" },
     links: [
       { network: "amazon-jp", productId: "B000A38G9O", rawUrl: "https://www.amazon.co.jp/dp/B000A38G9O", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000A38G9O", rawUrl: "https://www.amazon.com/dp/B000A38G9O", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000A38G9O", rawUrl: "https://www.amazon.de/dp/B000A38G9O", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-alvita-chamomile", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAlvita+Organic+Chamomile+Tea%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15779,6 +16827,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Pharmacopeial-quality chamomile with standardized apigenin content for consistent sleep and anxiety support", ja: "一貫した睡眠・不安サポートのための標準化アピゲニン含有量を持つ薬局方品質カモミール" },
     links: [
       { network: "amazon-jp", productId: "B000GG0H5K", rawUrl: "https://www.amazon.co.jp/dp/B000GG0H5K", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GG0H5K", rawUrl: "https://www.amazon.com/dp/B000GG0H5K", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000GG0H5K", rawUrl: "https://www.amazon.de/dp/B000GG0H5K", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-traditional-medicinals-chamomile", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTraditional+Medicinals+Chamomile%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15790,6 +16840,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Mass-market chamomile lavender blend with complementary floral notes, foil-wrapped and widely available", ja: "広く流通するアルミホイル包装のフローラルな香りを持つ大量生産カモミールラベンダーブレンド" },
     links: [
       { network: "amazon-jp", productId: "B00028JMMK", rawUrl: "https://www.amazon.co.jp/dp/B00028JMMK", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00028JMMK", rawUrl: "https://www.amazon.com/dp/B00028JMMK", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00028JMMK", rawUrl: "https://www.amazon.de/dp/B00028JMMK", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bigelow-chamomile-lavender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBigelow+Chamomile+Lavender%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15801,6 +16853,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Reliable everyday grocery store chamomile with mild floral sweetness for a consistent bedtime routine", ja: "一貫した就寝ルーティン向けの穏やかなフローラルな甘さを持つ信頼性の高い毎日のスーパーマーケットカモミール" },
     links: [
       { network: "amazon-jp", productId: "B000GG0H0Y", rawUrl: "https://www.amazon.co.jp/dp/B000GG0H0Y", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GG0H0Y", rawUrl: "https://www.amazon.com/dp/B000GG0H0Y", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000GG0H0Y", rawUrl: "https://www.amazon.de/dp/B000GG0H0Y", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-celestial-chamomile", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCelestial+Seasonings+Chamomile%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15812,6 +16866,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Organic whole-flower chamomile with lemon verbena and lemon myrtle for a vibrant citrus-floral blend", ja: "鮮やかなシトラス・フローラルブレンドのためのレモンバーベナとレモンマートル入りオーガニックホールフラワーカモミール" },
     links: [
       { network: "amazon-jp", productId: "B000GG0BNE", rawUrl: "https://www.amazon.co.jp/dp/B000GG0BNE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000GG0BNE", rawUrl: "https://www.amazon.com/dp/B000GG0BNE", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000GG0BNE", rawUrl: "https://www.amazon.de/dp/B000GG0BNE", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-numi-chamomile-lemon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNumi+Chamomile+Lemon%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15824,6 +16880,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Technical FG soccer cleat with grip-zone upper for enhanced ball touch and passing accuracy on firm ground", ja: "天然芝でのボールタッチとパス精度を高めるグリップゾーンアッパーを持つテクニカルFGサッカースパイク" },
     links: [
       { network: "amazon-jp", productId: "B09SDCQDLF", rawUrl: "https://www.amazon.co.jp/dp/B09SDCQDLF", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B09SDCQDLF", rawUrl: "https://www.amazon.com/dp/B09SDCQDLF", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09SDCQDLF", rawUrl: "https://www.amazon.de/dp/B09SDCQDLF", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-adidas-predator-accuracy", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAdidas+Predator+Accuracy+FG%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15835,6 +16893,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Ultra-lightweight speed-optimized FG soccer cleat with Flyknit upper for forwards and attacking players", ja: "フォワードとアタッカー向けFlyknitsアッパーを持つ超軽量スピード最適化FGサッカースパイク" },
     links: [
       { network: "amazon-jp", productId: "B0B5F3M3VJ", rawUrl: "https://www.amazon.co.jp/dp/B0B5F3M3VJ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0B5F3M3VJ", rawUrl: "https://www.amazon.com/dp/B0B5F3M3VJ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0B5F3M3VJ", rawUrl: "https://www.amazon.de/dp/B0B5F3M3VJ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nike-mercurial-vapor-15", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Mercurial+Vapor+15%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15846,6 +16906,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Value-priced leather-upper FG cleat with wide last for players with wider feet needing proper fit", ja: "適切なフィットが必要な幅広の足の選手向けの幅広ラストを持つコスパ良好レザーアッパーFGスパイク" },
     links: [
       { network: "amazon-jp", productId: "B08HGVCPRL", rawUrl: "https://www.amazon.co.jp/dp/B08HGVCPRL", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B08HGVCPRL", rawUrl: "https://www.amazon.com/dp/B08HGVCPRL", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08HGVCPRL", rawUrl: "https://www.amazon.de/dp/B08HGVCPRL", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-new-balance-442-v2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNew+Balance+442+v2+Soccer%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15857,6 +16919,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Turf-specific soccer shoe with rubber stud pattern and soft leather upper for artificial turf joint protection", ja: "人工芝での関節保護のためのラバースタッドパターンとソフトレザーアッパーを持つターフ専用サッカーシューズ" },
     links: [
       { network: "amazon-jp", productId: "B0B5P7MVGH", rawUrl: "https://www.amazon.co.jp/dp/B0B5P7MVGH", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0B5P7MVGH", rawUrl: "https://www.amazon.com/dp/B0B5P7MVGH", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0B5P7MVGH", rawUrl: "https://www.amazon.de/dp/B0B5P7MVGH", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-adidas-copa-pure-2-tf", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAdidas+Copa+Pure+2+TF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15868,6 +16932,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Soft ground soccer cleat with replaceable screw-in metal studs for wet and muddy natural grass conditions", ja: "濡れた・泥だらけの天然芝コンディション向けの交換可能なねじ込み式金属スタッドを持つSGサッカースパイク" },
     links: [
       { network: "amazon-jp", productId: "B07BFWTL5V", rawUrl: "https://www.amazon.co.jp/dp/B07BFWTL5V", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07BFWTL5V", rawUrl: "https://www.amazon.com/dp/B07BFWTL5V", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BFWTL5V", rawUrl: "https://www.amazon.de/dp/B07BFWTL5V", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nike-premier-3-sg", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Premier+3+SG%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15880,6 +16946,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Classic Argentine yerba mate with stems included for authentic traditional preparation in gourd and bombilla", ja: "ゴーレドとボンビジャでの本物の伝統的な準備のための茎入りの定番アルゼンチンマテ茶" },
     links: [
       { network: "amazon-jp", productId: "B00ET9LBSA", rawUrl: "https://www.amazon.co.jp/dp/B00ET9LBSA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00ET9LBSA", rawUrl: "https://www.amazon.com/dp/B00ET9LBSA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00ET9LBSA", rawUrl: "https://www.amazon.de/dp/B00ET9LBSA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cruz-de-malta-mate", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCruz+de+Malta+Yerba+Mate%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15891,6 +16959,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Intensely aged Argentine mate with deep earthy complexity for experienced mate drinkers who prefer bold flavor", ja: "大胆な風味を好む経験豊富なマテ飲み手向けの深い土っぽい複雑さを持つ強く熟成されたアルゼンチンマテ" },
     links: [
       { network: "amazon-jp", productId: "B00LRFVT9E", rawUrl: "https://www.amazon.co.jp/dp/B00LRFVT9E", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00LRFVT9E", rawUrl: "https://www.amazon.com/dp/B00LRFVT9E", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00LRFVT9E", rawUrl: "https://www.amazon.de/dp/B00LRFVT9E", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rosamonte-especial", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRosamonte+Especial+Yerba+Mate%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15902,6 +16972,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Unsmoked organic yerba mate with lighter, more grassy character for those who find traditional smoked mate too harsh", ja: "伝統的な燻製マテが強すぎる方向けのより軽くより草っぽいキャラクターの非燻製オーガニックマテ茶" },
     links: [
       { network: "amazon-jp", productId: "B01GBFFK8Q", rawUrl: "https://www.amazon.co.jp/dp/B01GBFFK8Q", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01GBFFK8Q", rawUrl: "https://www.amazon.com/dp/B01GBFFK8Q", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01GBFFK8Q", rawUrl: "https://www.amazon.de/dp/B01GBFFK8Q", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-anna-park-green-mate", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnna+Park+Organic+Green+Yerba+Mate%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15913,6 +16985,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Fair trade organic mate from Atlantic Forest agroforestry for responsible sourcing with balanced flavor", ja: "均衡の取れた風味と責任あるソーシングのための大西洋森林アグロフォレストリーのフェアトレードオーガニックマテ" },
     links: [
       { network: "amazon-jp", productId: "B003JL7BX8", rawUrl: "https://www.amazon.co.jp/dp/B003JL7BX8", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B003JL7BX8", rawUrl: "https://www.amazon.com/dp/B003JL7BX8", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B003JL7BX8", rawUrl: "https://www.amazon.de/dp/B003JL7BX8", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-guayaki-traditional", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGuayaki+Traditional+Yerba+Mate%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15924,6 +16998,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Fine-cut stemless Uruguayan mate for experienced drinkers who prefer the stronger and more bitter regional style", ja: "より強くより苦い地域スタイルを好む経験豊富な飲み手向けの細かいカット茎なしウルグアイマテ" },
     links: [
       { network: "amazon-jp", productId: "B00LEJQYCA", rawUrl: "https://www.amazon.co.jp/dp/B00LEJQYCA", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00LEJQYCA", rawUrl: "https://www.amazon.com/dp/B00LEJQYCA", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B00LEJQYCA", rawUrl: "https://www.amazon.de/dp/B00LEJQYCA", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-canarias-yerba-mate", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCanarias+Yerba+Mate%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15936,6 +17012,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Max-cushion basketball shoe with Air Max heel and Zoom Air forefoot for power players and bigs", ja: "パワープレイヤーとビッグマン向けのエアマックスヒールとズームエアフォアフットを持つ最大クッションバスケットボールシューズ" },
     links: [
       { network: "amazon-jp", productId: "B0CSFPWXHQ", rawUrl: "https://www.amazon.co.jp/dp/B0CSFPWXHQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0CSFPWXHQ", rawUrl: "https://www.amazon.com/dp/B0CSFPWXHQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0CSFPWXHQ", rawUrl: "https://www.amazon.de/dp/B0CSFPWXHQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nike-lebron-xxii", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+LeBron+XXII%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15947,6 +17025,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Guard-optimized basketball shoe with responsive Lightstrike cushioning and herringbone traction for perimeter play", ja: "ペリメータープレイ向けのレスポンシブLightstrikeclumpクッションとヘリンボーントラクションを持つガード最適化バスケットボールシューズ" },
     links: [
       { network: "amazon-jp", productId: "B0CQNXB5HX", rawUrl: "https://www.amazon.co.jp/dp/B0CQNXB5HX", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0CQNXB5HX", rawUrl: "https://www.amazon.com/dp/B0CQNXB5HX", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0CQNXB5HX", rawUrl: "https://www.amazon.de/dp/B0CQNXB5HX", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-adidas-harden-vol-8", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAdidas+Harden+Vol+8%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15958,6 +17038,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Retro-influenced low-top basketball shoe that performs on court for recreational play and transitions to casual use", ja: "レクリエーションプレイのコートで機能しカジュアルな使用へ移行するレトロの影響を受けたローカットバスケットボールシューズ" },
     links: [
       { network: "amazon-jp", productId: "B0BQ9JHXLS", rawUrl: "https://www.amazon.co.jp/dp/B0BQ9JHXLS", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0BQ9JHXLS", rawUrl: "https://www.amazon.com/dp/B0BQ9JHXLS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0BQ9JHXLS", rawUrl: "https://www.amazon.de/dp/B0BQ9JHXLS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-new-balance-bb550", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNew+Balance+BB550%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15969,6 +17051,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Lightweight UA Flow cushioned basketball shoe with exceptional clean-court traction for guards and perimeter players", ja: "ガードとペリメータープレイヤー向けの卓越したクリーンコートトラクションを持つ軽量UAフロークッションバスケットボールシューズ" },
     links: [
       { network: "amazon-jp", productId: "B0CSFK9DHB", rawUrl: "https://www.amazon.co.jp/dp/B0CSFK9DHB", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0CSFK9DHB", rawUrl: "https://www.amazon.com/dp/B0CSFK9DHB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0CSFK9DHB", rawUrl: "https://www.amazon.de/dp/B0CSFK9DHB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-under-armour-curry-12", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUnder+Armour+Curry+12%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15980,6 +17064,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Budget performance basketball shoe with Air Strobel cushioning and herringbone traction from higher-end Nike models", ja: "上位ナイキモデルのエアストローベルクッションとヘリンボーントラクションを持つコスパパフォーマンスバスケットボールシューズ" },
     links: [
       { network: "amazon-jp", productId: "B0CF3WKQGQ", rawUrl: "https://www.amazon.co.jp/dp/B0CF3WKQGQ", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B0CF3WKQGQ", rawUrl: "https://www.amazon.com/dp/B0CF3WKQGQ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0CF3WKQGQ", rawUrl: "https://www.amazon.de/dp/B0CF3WKQGQ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nike-giannis-immortality-4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Giannis+Immortality+4%2F", markets: ["JP"], approved: true },
     ],
   },
