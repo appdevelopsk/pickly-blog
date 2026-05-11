@@ -17610,6 +17610,108 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "amazon-us", productId: "B00XYYLP2A", rawUrl: "https://www.amazon.com/dp/B00XYYLP2A", markets: ["US", "EU", "global"], approved: true },
     ],
   },
+  // --- batch #260: best-oat-milk-2026 (food) ---
+  {
+    id: "oatly-oat-milk-original",
+    category: "food",
+    badge: "Best Overall Oat Milk",
+    name: { en: "Oatly Oat-Drink Original", ja: "オートリー オーツドリンク オリジナル" },
+    description: { en: "The brand that mainstreamed oat milk globally. Clean oat flavor, creamy texture, fortified with calcium and vitamins. The benchmark for the category.", ja: "オーツミルクを世界に広めたブランド。クリーンなオーツ風味・クリーミーな食感・カルシウム＆ビタミン強化。カテゴリーのベンチマーク。" },
+    links: [
+      { network: "amazon-us", productId: "B07PKZNGGR", rawUrl: "https://www.amazon.com/dp/B07PKZNGGR", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "oatly-oat-milk-barista",
+    category: "food",
+    badge: "Best Oat Milk for Coffee",
+    name: { en: "Oatly Barista Edition Oat Milk", ja: "オートリー バリスタエディション オーツミルク" },
+    description: { en: "High-fat formula designed to steam and froth like dairy. Creates microfoam for lattes. The standard choice in specialty coffee shops.", ja: "乳製品と同様に蒸気泡立てができる高脂肪フォーミュラ。ラテ用のマイクロフォームを生成。スペシャルティコーヒーショップの定番。" },
+    links: [
+      { network: "amazon-us", productId: "B07X9GBJGD", rawUrl: "https://www.amazon.com/dp/B07X9GBJGD", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "planet-oat-extra-creamy",
+    category: "food",
+    badge: "Best Budget Oat Milk",
+    name: { en: "Planet Oat Extra Creamy Oat Milk", ja: "プラネットオーツ エクストラクリーミー オーツミルク" },
+    description: { en: "Widely available US brand with a richer body than standard oat milks. Non-GMO, gluten-free certified. Best value in the mainstream oat milk segment.", ja: "豊かなコクを持つ広く入手可能な米国ブランド。Non-GMO・グルテンフリー認証。主流オーツミルクセグメントの最良コスパ。" },
+    links: [
+      { network: "amazon-us", productId: "B07YPQF38T", rawUrl: "https://www.amazon.com/dp/B07YPQF38T", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "califia-oat-milk-barista",
+    category: "food",
+    badge: "Best Barista Oat Milk Runner-Up",
+    name: { en: "Califia Farms Better Half Oat Creamer", ja: "カリフィア ファームズ ベターハーフ オーツクリーマー" },
+    description: { en: "Blended oat and coconut cream for a richer, slightly sweeter profile than pure oat milks. Popular for cold coffee drinks and cereal.", ja: "オーツとコナッツクリームをブレンドし、純粋なオーツミルクより濃厚でほんのり甘いプロファイル。コールドコーヒーやシリアルに人気。" },
+    links: [
+      { network: "amazon-us", productId: "B07N8Y2MNX", rawUrl: "https://www.amazon.com/dp/B07N8Y2MNX", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "elmhurst-oat-milk",
+    category: "food",
+    badge: "Best Clean-Ingredient Oat Milk",
+    name: { en: "Elmhurst 1925 Oat Milk", ja: "エルムハースト 1925 オーツミルク" },
+    description: { en: "Minimal ingredients: oats, water, sea salt. No added oils, gums, or emulsifiers. The purist choice for those avoiding additives found in most oat milks.", ja: "最小限の原材料：オーツ・水・海塩。添加油・ガム・乳化剤なし。多くのオーツミルクに含まれる添加物を避けたい純粋主義者の選択。" },
+    links: [
+      { network: "amazon-us", productId: "B07GXWKV5V", rawUrl: "https://www.amazon.com/dp/B07GXWKV5V", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  // --- batch #261: best-weightlifting-shoes-2026 (fitness) ---
+  {
+    id: "nike-romaleos-4-weightlifting",
+    category: "fitness",
+    badge: "Best Overall Weightlifting Shoe",
+    name: { en: "Nike Romaleos 4 Weightlifting Shoes", ja: "ナイキ ロマレオス 4 ウエイトリフティングシューズ" },
+    description: { en: "22mm heel elevation, wide toe box, dual strap closure. Competition-standard shoe for Olympic weightlifting and powerlifting squats.", ja: "22mmヒールエレベーション・ワイドトゥボックス・デュアルストラップクロージャー。オリンピックリフティング＆パワーリフティングスクワット対応の競技標準シューズ。" },
+    links: [
+      { network: "amazon-us", productId: "B08KY4JL7B", rawUrl: "https://www.amazon.com/dp/B08KY4JL7B", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "adidas-adipower-3-weightlifting",
+    category: "fitness",
+    badge: "Best for Olympic Lifting",
+    name: { en: "Adidas Adipower 3 Weightlifting Shoes", ja: "アディダス アディパワー 3 ウエイトリフティングシューズ" },
+    description: { en: "24mm heel-to-toe drop, TPU heel counter, single strap. Preferred by many national team weightlifters for snatches and clean & jerks.", ja: "24mmヒールドロップ・TPUヒールカウンター・シングルストラップ。スナッチ＆クリーン&ジャークで多くの代表選手に愛用されている。" },
+    links: [
+      { network: "amazon-us", productId: "B09DZKSHD4", rawUrl: "https://www.amazon.com/dp/B09DZKSHD4", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "reebok-legacy-lifter-3",
+    category: "fitness",
+    badge: "Best for CrossFit and Lifting",
+    name: { en: "Reebok Legacy Lifter 3", ja: "リーボック レガシーリフター 3" },
+    description: { en: "Versatile lifting shoe with 22mm heel, wide forefoot for power movements. Popular in CrossFit for combining lifting stability with some flexibility.", ja: "パワー動作向けの22mmヒール・ワイドフォアフット対応の汎用リフティングシューズ。リフティング安定性と柔軟性を兼ね備えクロスフィットで人気。" },
+    links: [
+      { network: "amazon-us", productId: "B09D73NVHK", rawUrl: "https://www.amazon.com/dp/B09D73NVHK", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "inov8-fastlift-power-g380",
+    category: "fitness",
+    badge: "Best Lightweight Weightlifting Shoe",
+    name: { en: "Inov-8 Fastlift Power G 380", ja: "イノヴエイト ファストリフト パワー G380" },
+    description: { en: "Graphene-enhanced outsole, 20mm heel elevation, lightest competition-viable lifting shoe. For lifters who want minimal weight without sacrificing heel height.", ja: "グラフェン強化アウトソール・20mmヒールエレベーション・最軽量の競技対応リフティングシューズ。ヒール高を犠牲にせず軽量化を求めるリフター向け。" },
+    links: [
+      { network: "amazon-us", productId: "B07FNQFR4S", rawUrl: "https://www.amazon.com/dp/B07FNQFR4S", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "do-win-weightlifting-shoes",
+    category: "fitness",
+    badge: "Best Budget Weightlifting Shoe",
+    name: { en: "Do-Win Weightlifting Shoes", ja: "ドゥウィン ウエイトリフティングシューズ" },
+    description: { en: "Entry-level competition-approved shoe at a fraction of Nike/Adidas pricing. Wood heel block, 20mm elevation, metatarsal strap. Worn by competitive lifters on tighter budgets.", ja: "ナイキ・アディダスの半額以下で購入できる競技承認エントリーシューズ。ウッドヒールブロック・20mmエレベーション・中足骨ストラップ。予算を抑えた競技選手に愛用。" },
+    links: [
+      { network: "amazon-us", productId: "B001GBRFZM", rawUrl: "https://www.amazon.com/dp/B001GBRFZM", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
 ];
 
 /**
