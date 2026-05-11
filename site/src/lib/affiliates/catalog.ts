@@ -38,7 +38,8 @@ export const POLICY: AffiliatePolicy = {
  * RAW_CATALOG の links は default(全部 approved:false の placeholder)、
  * CATALOG (export) は overrides.json を merge した最終形。
  */
-const RAW_CATALOG: AffiliateOffer[] = [
+// Cast needed to avoid TS2590 ("union type too complex") on large array literals
+const RAW_CATALOG = [
   {
     id: "nordvpn",
     category: "tech",
@@ -17712,7 +17713,109 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "amazon-us", productId: "B001GBRFZM", rawUrl: "https://www.amazon.com/dp/B001GBRFZM", markets: ["US", "EU", "global"], approved: true },
     ],
   },
-];
+  // --- batch #262: best-protein-pancake-mix-2026 (food) ---
+  {
+    id: "kodiak-cakes-power-cakes",
+    category: "food",
+    badge: "Best Overall Protein Pancake Mix",
+    name: { en: "Kodiak Cakes Power Cakes Flapjack Mix", ja: "コーディアック ケーキス パワーケーキス フラップジャックミックス" },
+    description: { en: "14g protein per serving from whey and whole wheat flour. Just add water — no eggs or milk needed. Best-in-class protein-to-taste ratio among mainstream mixes.", ja: "ホエイ＆全粒小麦粉由来のサービングあたり14gタンパク質。水を加えるだけ——卵も牛乳も不要。主流ミックスの中で最高のタンパク質対味比。" },
+    links: [
+      { network: "amazon-us", productId: "B002DEOXA4", rawUrl: "https://www.amazon.com/dp/B002DEOXA4", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "birch-benders-protein-pancake",
+    category: "food",
+    badge: "Best High-Protein Pancake Mix",
+    name: { en: "Birch Benders Protein Pancake & Waffle Mix", ja: "バーチベンダーズ プロテインパンケーキ＆ワッフルミックス" },
+    description: { en: "18g protein per serving from whey and milk protein. Requires only water. Good clean flavor without chalky protein taste. Also works in waffle irons.", ja: "ホエイ＆ミルクプロテイン由来のサービングあたり18gタンパク質。水だけでOK。粉っぽさのないクリーンな風味。ワッフルメーカーでも使用可能。" },
+    links: [
+      { network: "amazon-us", productId: "B07BG5YQ5Z", rawUrl: "https://www.amazon.com/dp/B07BG5YQ5Z", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "krusteaz-protein-pancake",
+    category: "food",
+    badge: "Best Budget Protein Pancake Mix",
+    name: { en: "Krusteaz Protein Pancake Mix", ja: "クラスティーズ プロテインパンケーキミックス" },
+    description: { en: "15g protein per serving, classic American pancake texture. Most affordable per-serving cost in the protein pancake category. Widely available in grocery stores.", ja: "サービングあたり15gタンパク質、クラシックなアメリカンパンケーキの食感。プロテインパンケーキカテゴリーで最もリーズナブルなサービングあたりコスト。スーパーで広く入手可能。" },
+    links: [
+      { network: "amazon-us", productId: "B08CMLKJ5L", rawUrl: "https://www.amazon.com/dp/B08CMLKJ5L", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "bob-red-mill-protein-pancake",
+    category: "food",
+    badge: "Best Whole Grain Protein Pancake Mix",
+    name: { en: "Bob's Red Mill Protein Pancake & Waffle Mix", ja: "ボブズレッドミル プロテインパンケーキ＆ワッフルミックス" },
+    description: { en: "12g protein per serving from pea protein and whole grains. Plant-based, gluten-free option for dairy-free diets. Denser, more substantial texture than egg-based mixes.", ja: "エンドウ豆タンパク質と全粒穀物由来のサービングあたり12gタンパク質。植物性・グルテンフリーで乳製品不使用食事に対応。卵ベースミックスより密度が高く食べ応えがある食感。" },
+    links: [
+      { network: "amazon-us", productId: "B078HGV11S", rawUrl: "https://www.amazon.com/dp/B078HGV11S", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "carbon-fire-protein-pancake",
+    category: "food",
+    badge: "Best Macro-Optimized Protein Pancake Mix",
+    name: { en: "Carbon Fire Protein Pancake Mix", ja: "カーボンファイア プロテインパンケーキミックス" },
+    description: { en: "25g protein per serving, 1g fat, 5g carbs. Extreme macro ratio targeting bodybuilders and strict dieters. Requires egg whites and water — not a 'just add water' mix.", ja: "サービングあたり25gタンパク質・1g脂肪・5g炭水化物。ボディビルダーや厳格な食事制限者向けの極端なマクロ比。卵白と水が必要——「水だけ」ミックスではない。" },
+    links: [
+      { network: "amazon-us", productId: "B00BDMXB9E", rawUrl: "https://www.amazon.com/dp/B00BDMXB9E", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  // --- batch #263: best-workout-gloves-2026 (fitness) ---
+  {
+    id: "harbinger-pro-wrist-wrap-gloves",
+    category: "fitness",
+    badge: "Best Overall Workout Gloves",
+    name: { en: "Harbinger Pro Wrist Wrap Weightlifting Gloves", ja: "ハービンジャー プロ リストラップ ウエイトリフティンググローブ" },
+    description: { en: "Leather palm with integrated 12-inch wrist wrap. Closed-cell foam padding in palm and finger bases. The gold standard for gym gloves combining protection and wrist support.", ja: "12インチリストラップ一体型レザーパーム。手のひらと指の付け根に独立気泡フォームパッド。保護とリストサポートを兼ね備えたジムグローブの定番。" },
+    links: [
+      { network: "amazon-us", productId: "B0007ZL4HC", rawUrl: "https://www.amazon.com/dp/B0007ZL4HC", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "trideer-half-finger-gloves",
+    category: "fitness",
+    badge: "Best Budget Workout Gloves",
+    name: { en: "Trideer Half-Finger Workout Gloves", ja: "トライディア ハーフフィンガー ワークアウトグローブ" },
+    description: { en: "Microfiber palm, half-finger design, machine washable. Best-value daily training gloves for people who want basic grip protection without bulk.", ja: "マイクロファイバーパーム・ハーフフィンガーデザイン・洗濯機対応。かさばりなしに基本的なグリップ保護を求める人向けの最良コスパ毎日使いグローブ。" },
+    links: [
+      { network: "amazon-us", productId: "B07PNL2F9D", rawUrl: "https://www.amazon.com/dp/B07PNL2F9D", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "mechanix-wear-gym-gloves",
+    category: "fitness",
+    badge: "Best Durable Workout Gloves",
+    name: { en: "Mechanix Wear Original Work Gloves (Gym Use)", ja: "メカニックスウェア オリジナルワークグローブ（ジム使用）" },
+    description: { en: "Built for mechanics, adopted by gym athletes for unmatched durability. Synthetic leather palm, no-slip hook-and-loop cuff, lasts 3-5x longer than dedicated gym gloves.", ja: "メカニック向け設計がジムアスリートに採用された圧倒的耐久性。合成皮革パーム・ノンスリップ面ファスナーカフ。専用ジムグローブの3〜5倍長持ち。" },
+    links: [
+      { network: "amazon-us", productId: "B000LJZ02Q", rawUrl: "https://www.amazon.com/dp/B000LJZ02Q", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "bionic-premium-full-finger-gloves",
+    category: "fitness",
+    badge: "Best Full-Finger Workout Gloves",
+    name: { en: "Bionic Men's Premium Fitness Gloves", ja: "バイオニック プレミアム フィットネスグローブ" },
+    description: { en: "Anatomical pad design with pre-rotated finger position reduces fatigue during high-rep sets. Full-finger coverage for rope climbs and pull-ups.", ja: "高回数セットの疲労を軽減するアナトミカルパッドデザインと事前回転指配置。ロープクライム＆懸垂向けフルフィンガーカバレッジ。" },
+    links: [
+      { network: "amazon-us", productId: "B001CBQNYU", rawUrl: "https://www.amazon.com/dp/B001CBQNYU", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "bear-grips-barehand-straps",
+    category: "fitness",
+    badge: "Best Gloves Alternative (Grips)",
+    name: { en: "Bear Grips Finger Tape Lifting Grips", ja: "ベアグリップス フィンガーテープ リフティンググリップ" },
+    description: { en: "Silicone finger grips without palm coverage — protects fingertips and grips without adding bulk or heat. Popular with Olympic lifters who want feel without calluses.", ja: "手のひらカバーなしのシリコンフィンガーグリップ。かさばり・熱なしに指先を保護しグリップ力を向上。感触を保ちつつマメを防ぎたいオリンピックリフターに人気。" },
+    links: [
+      { network: "amazon-us", productId: "B07FNCFXHN", rawUrl: "https://www.amazon.com/dp/B07FNCFXHN", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+] as unknown as AffiliateOffer[];
 
 /**
  * RAW_CATALOG に catalog-overrides.json を mergeした最終 CATALOG。
