@@ -8,27 +8,72 @@
         "oatly-oat-milk-original": {
           "name": "Oatly Oat-Drink Original",
           "badge": "Best Overall",
-          "review": "Oatly built the oat milk category as we know it. The original formula delivers what the category promises: creamy texture, mild oat flavor that doesn't overpower coffee or cereal, and a neutral finish. It's fortified with calcium, vitamin D, and riboflavin. The taste is the benchmark — when other brands want to describe their oat milk, they compare it to Oatly. Available almost everywhere at a reasonable price."
+          "review": "Oatly built the oat milk category as we know it. The original formula delivers what the category promises: creamy texture, mild oat flavor that doesn't overpower coffee or cereal, and a neutral finish. It's fortified with calcium, vitamin D, and riboflavin. The taste is the benchmark — when other brands want to describe their oat milk, they compare it to Oatly. Available almost everywhere at a reasonable price.",
+          "pros": [
+            "Clean oat flavor works in cereal, smoothies, and cooking",
+            "Widely available globally",
+            "Consistent texture batch to batch"
+          ],
+          "cons": [
+            "Contains rapeseed oil",
+            "Premium price vs. Planet Oat"
+          ]
         },
         "oatly-oat-milk-barista": {
           "name": "Oatly Barista Edition",
           "badge": "Best for Coffee",
-          "review": "The Barista Edition uses a different fat formula specifically designed to handle steam wand temperatures — it froths into microfoam without separating or going grainy. Most specialty coffee shops that list 'oat milk' on their menu are using the Barista Edition or a direct competitor to it. If you're making lattes at home, the difference between this and the original in the pitcher is immediately visible. Slightly higher fat content than the original."
+          "review": "The Barista Edition uses a different fat formula specifically designed to handle steam wand temperatures — it froths into microfoam without separating or going grainy. Most specialty coffee shops that list 'oat milk' on their menu are using the Barista Edition or a direct competitor to it. If you're making lattes at home, the difference between this and the original in the pitcher is immediately visible. Slightly higher fat content than the original.",
+          "pros": [
+            "Steams without splitting — tested for espresso",
+            "Produces stable microfoam for latte art",
+            "Professional barista standard"
+          ],
+          "cons": [
+            "Higher sugar content than original formula",
+            "Overkill for non-coffee applications"
+          ]
         },
         "planet-oat-extra-creamy": {
           "name": "Planet Oat Extra Creamy",
           "badge": "Best Budget",
-          "review": "Planet Oat is the US mainstream challenger to Oatly — widely available in grocery stores, priced lower, and with a noticeably creamier body than regular oat milks. The Extra Creamy variant adds a small amount of oil to achieve that thickness. Non-GMO and gluten-free certified. The flavor is clean and mild. For daily use in cereal and cooking where you don't need barista-grade performance, it's the best value available."
+          "review": "Planet Oat is the US mainstream challenger to Oatly — widely available in grocery stores, priced lower, and with a noticeably creamier body than regular oat milks. The Extra Creamy variant adds a small amount of oil to achieve that thickness. Non-GMO and gluten-free certified. The flavor is clean and mild. For daily use in cereal and cooking where you don't need barista-grade performance, it's the best value available.",
+          "pros": [
+            "Best value per liter in mainstream oat milk",
+            "Available at most US grocery stores",
+            "Creamy texture comparable to premium brands"
+          ],
+          "cons": [
+            "Less complex flavor than Oatly",
+            "Extra creamy version higher in calories"
+          ]
         },
         "califia-oat-milk-barista": {
           "name": "Califia Farms Better Half Oat Creamer",
           "badge": "Best for Cold Coffee",
-          "review": "This one blends oat with coconut cream — the result is richer and slightly sweeter than pure oat milks, which makes it excellent in cold brew and iced lattes where you want creaminess without dairy. It's technically a creamer rather than a milk alternative, so it doesn't work as a 1:1 swap in baking, but for the cold coffee use case specifically it's hard to beat. The coconut addition is mild and doesn't dominate."
+          "review": "This one blends oat with coconut cream — the result is richer and slightly sweeter than pure oat milks, which makes it excellent in cold brew and iced lattes where you want creaminess without dairy. It's technically a creamer rather than a milk alternative, so it doesn't work as a 1:1 swap in baking, but for the cold coffee use case specifically it's hard to beat. The coconut addition is mild and doesn't dominate.",
+          "pros": [
+            "Coconut cream blend adds natural richness",
+            "Thicker texture works well over ice",
+            "Steams adequately despite cold-coffee positioning"
+          ],
+          "cons": [
+            "Coconut flavor detectable — not neutral",
+            "Higher calorie than standard oat milk"
+          ]
         },
         "elmhurst-oat-milk": {
           "name": "Elmhurst 1925 Oat Milk",
           "badge": "Best Clean Ingredients",
-          "review": "Elmhurst is the minimalist option: oats, water, sea salt. No added oils, no gums (gellan, xanthan, or locust bean), no emulsifiers. Most oat milks use these additives to achieve a stable, creamy consistency — Elmhurst achieves it through a different milling process. The texture is thinner than Oatly, and it doesn't froth well, but for people avoiding carrageenan, gums, or added oils, it's the cleanest widely available option."
+          "review": "Elmhurst is the minimalist option: oats, water, sea salt. No added oils, no gums (gellan, xanthan, or locust bean), no emulsifiers. Most oat milks use these additives to achieve a stable, creamy consistency — Elmhurst achieves it through a different milling process. The texture is thinner than Oatly, and it doesn't froth well, but for people avoiding carrageenan, gums, or added oils, it's the cleanest widely available option.",
+          "pros": [
+            "Oats, water, salt — three ingredients only",
+            "No added oils or gums",
+            "Highest oat content per serving"
+          ],
+          "cons": [
+            "Thin texture — won't foam for hot drinks",
+            "Taste differs from gum-stabilized oat milks"
+          ]
         }
       },
       "buyingGuide": {

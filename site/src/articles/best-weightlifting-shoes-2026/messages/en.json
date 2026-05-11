@@ -8,27 +8,72 @@
         "nike-romaleos-4-weightlifting": {
           "name": "Nike Romaleos 4",
           "badge": "Best Overall",
-          "review": "The Romaleos 4 is the shoe most competitive lifters default to when they don't have a strong brand preference. The 22mm heel is the standard for Olympic weightlifting, the toe box is wide enough for most feet without feeling loose, and the dual velcro straps lock the midfoot securely. Nike's construction quality is consistent across sizes. The sole is hard TPU — no give at all, which is what you want. Available in wide widths, which matters for lifters with broader feet."
+          "review": "The Romaleos 4 is the shoe most competitive lifters default to when they don't have a strong brand preference. The 22mm heel is the standard for Olympic weightlifting, the toe box is wide enough for most feet without feeling loose, and the dual velcro straps lock the midfoot securely. Nike's construction quality is consistent across sizes. The sole is hard TPU — no give at all, which is what you want. Available in wide widths, which matters for lifters with broader feet.",
+          "pros": [
+            "Dual velcro straps lock foot with zero movement",
+            "22mm heel raise suits most squat depths",
+            "Breathable mesh upper reduces heat buildup"
+          ],
+          "cons": [
+            "Wide fit — may feel loose on narrow feet",
+            "Premium price for recreational lifters"
+          ]
         },
         "adidas-adipower-3-weightlifting": {
           "name": "Adidas Adipower 3",
           "badge": "Best for Olympic Lifting",
-          "review": "The Adipower runs narrower than the Romaleos and has a higher 24mm heel drop — both characteristics that appeal to Olympic-style lifters who want a more aggressive forward lean position for snatches and clean & jerks. The TPU heel counter is exceptionally rigid. If your primary focus is the snatch and clean & jerk rather than powerlifting squats, the extra 2mm of heel elevation makes a noticeable difference in ankle flexibility. Single strap rather than dual, but the fit is secure."
+          "review": "The Adipower runs narrower than the Romaleos and has a higher 24mm heel drop — both characteristics that appeal to Olympic-style lifters who want a more aggressive forward lean position for snatches and clean & jerks. The TPU heel counter is exceptionally rigid. If your primary focus is the snatch and clean & jerk rather than powerlifting squats, the extra 2mm of heel elevation makes a noticeable difference in ankle flexibility. Single strap rather than dual, but the fit is secure.",
+          "pros": [
+            "24mm heel — highest for deep squat access",
+            "Narrow last locks the midfoot precisely",
+            "TPU heel block transfers force directly"
+          ],
+          "cons": [
+            "Narrow fit won't work for wider feet",
+            "Higher heel requires adaptation period"
+          ]
         },
         "reebok-legacy-lifter-3": {
           "name": "Reebok Legacy Lifter 3",
           "badge": "Best for CrossFit",
-          "review": "The Legacy Lifter sits between a pure weightlifting shoe and a training shoe. The 22mm heel matches the standard, but the construction allows slightly more lateral flex than the Romaleos or Adipower — which is useful in CrossFit where you might go directly from barbell work into box jumps without changing shoes. Popular in the competitive CrossFit community as a result. Wide toe box, dual strap, and a robust upper that holds up to varied training demands."
+          "review": "The Legacy Lifter sits between a pure weightlifting shoe and a training shoe. The 22mm heel matches the standard, but the construction allows slightly more lateral flex than the Romaleos or Adipower — which is useful in CrossFit where you might go directly from barbell work into box jumps without changing shoes. Popular in the competitive CrossFit community as a result. Wide toe box, dual strap, and a robust upper that holds up to varied training demands.",
+          "pros": [
+            "22mm heel works for both Olympic lifts and gym training",
+            "Wide toe box fits CrossFit athletes' feet",
+            "Dual-use shoe at a reasonable price"
+          ],
+          "cons": [
+            "Heavier than pure Olympic lifting shoes",
+            "Less specialized than Adipower for competition"
+          ]
         },
         "inov8-fastlift-power-g380": {
           "name": "Inov-8 Fastlift Power G 380",
           "badge": "Best Lightweight",
-          "review": "Inov-8 uses graphene in the outsole compound to achieve a harder-than-standard surface without the weight penalty. At 380g per shoe, it's the lightest competition-viable lifting shoe. The 20mm heel is 2mm lower than the Nike/Adidas standard — this suits lifters with naturally good ankle mobility who find higher heels push them too far forward. Strong choice for lifters who travel to competitions and want to minimize pack weight."
+          "review": "Inov-8 uses graphene in the outsole compound to achieve a harder-than-standard surface without the weight penalty. At 380g per shoe, it's the lightest competition-viable lifting shoe. The 20mm heel is 2mm lower than the Nike/Adidas standard — this suits lifters with naturally good ankle mobility who find higher heels push them too far forward. Strong choice for lifters who travel to competitions and want to minimize pack weight.",
+          "pros": [
+            "Graphene outsole harder and lighter than standard rubber",
+            "Faster transitions between lifts",
+            "Narrower profile reduces weight significantly"
+          ],
+          "cons": [
+            "Priciest option in the category",
+            "Less heel support at very heavy loads"
+          ]
         },
         "do-win-weightlifting-shoes": {
           "name": "Do-Win Weightlifting Shoes",
           "badge": "Best Budget",
-          "review": "Do-Win is the open secret in weightlifting — a Chinese-manufactured shoe used by US national team members who compete in them under different brand names (American Barbell, Rogue, etc. have all sold Do-Win-manufactured shoes). The construction uses a solid wood heel block at 20mm, metatarsal strap, and a flat-soled design approved for competition. Half the price of Nike or Adidas with comparable functional performance. The upper is less refined and won't last as long, but as a first lifting shoe it's outstanding value."
+          "review": "Do-Win is the open secret in weightlifting — a Chinese-manufactured shoe used by US national team members who compete in them under different brand names (American Barbell, Rogue, etc. have all sold Do-Win-manufactured shoes). The construction uses a solid wood heel block at 20mm, metatarsal strap, and a flat-soled design approved for competition. Half the price of Nike or Adidas with comparable functional performance. The upper is less refined and won't last as long, but as a first lifting shoe it's outstanding value.",
+          "pros": [
+            "Used by US national team members",
+            "Under $80 — fraction of Nike/Adidas price",
+            "Traditional heel block and strap design"
+          ],
+          "cons": [
+            "Limited availability outside specialty retailers",
+            "Finish quality lower than premium options"
+          ]
         }
       },
       "buyingGuide": {

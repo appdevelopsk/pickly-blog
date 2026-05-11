@@ -51,6 +51,8 @@ export interface AffiliateOffer {
   badge?: string;
   /** Multiple ASP bindings — picker resolves best match by locale/market */
   links: AspLink[];
+  /** Product image URL (Amazon CDN or brand site). Optional — shows category placeholder when absent. */
+  imageUrl?: string;
 }
 
 export interface AffiliatePolicy {

@@ -56,6 +56,8 @@ export interface ArticleProduct {
   offerId: string;
   badge: string;
   review: string;
+  pros?: string[];
+  cons?: string[];
 }
 
 /**

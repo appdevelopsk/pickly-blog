@@ -8,27 +8,72 @@
         "lindt-excellence-90-cocoa": {
           "name": "Lindt Excellence 90% Cocoa Bar",
           "badge": "Best Overall",
-          "review": "The 90% bar from Lindt remains the gold standard for mass-market dark chocolate. The ingredient list is four items: cocoa mass, cocoa butter, sugar, bourbon vanilla. No lecithin. No vanillin. The melt is slow and even, revealing a sustained bitter finish that doesn't turn astringent. It's the bar you buy when you need something reliably good without hunting down a specialty shop."
+          "review": "The 90% bar from Lindt remains the gold standard for mass-market dark chocolate. The ingredient list is four items: cocoa mass, cocoa butter, sugar, bourbon vanilla. No lecithin. No vanillin. The melt is slow and even, revealing a sustained bitter finish that doesn't turn astringent. It's the bar you buy when you need something reliably good without hunting down a specialty shop.",
+          "pros": [
+            "4-ingredient simplicity — no filler",
+            "Available everywhere at everyday prices",
+            "Consistent quality batch to batch"
+          ],
+          "cons": [
+            "90% intensity — not for casual chocolate eaters",
+            "Slight bitterness on the finish"
+          ]
         },
         "ghirardelli-midnight-reverie-86": {
           "name": "Ghirardelli Intense Dark Midnight Reverie 86%",
           "badge": "Best Budget Pick",
-          "review": "At 86%, Midnight Reverie sits in a useful sweet spot — dark enough to satisfy serious cocoa cravings, approachable enough for people new to high-percentage chocolate. Ghirardelli sources blended cacao, so don't expect single-origin complexity, but the execution is clean and the bar melts well in baking applications. Widely available at grocery stores, which matters when you want it tonight."
+          "review": "At 86%, Midnight Reverie sits in a useful sweet spot — dark enough to satisfy serious cocoa cravings, approachable enough for people new to high-percentage chocolate. Ghirardelli sources blended cacao, so don't expect single-origin complexity, but the execution is clean and the bar melts well in baking applications. Widely available at grocery stores, which matters when you want it tonight.",
+          "pros": [
+            "86% hits the dark-but-approachable sweet spot",
+            "Smooth texture for the cocoa percentage",
+            "Widely available at competitive prices"
+          ],
+          "cons": [
+            "Less complex than single-origin bars",
+            "Smaller bar size than Lindt"
+          ]
         },
         "green-blacks-organic-dark-85": {
           "name": "Green & Black's Organic Dark 85%",
           "badge": "Best Organic",
-          "review": "Green & Black's built its reputation on ethical sourcing before that was a selling point. The 85% bar uses Fairtrade-certified organic cacao with a distinctly fruity profile — dried raisin and a hint of cherry come through clearly on the back end. The texture is slightly softer than Lindt, which makes it more approachable for people who find very dark chocolate chalky. B-Corp certified."
+          "review": "Green & Black's built its reputation on ethical sourcing before that was a selling point. The 85% bar uses Fairtrade-certified organic cacao with a distinctly fruity profile — dried raisin and a hint of cherry come through clearly on the back end. The texture is slightly softer than Lindt, which makes it more approachable for people who find very dark chocolate chalky. B-Corp certified.",
+          "pros": [
+            "Fairtrade certified at mainstream pricing",
+            "Mild flavor works for 85% newcomers",
+            "Organic without premium pricing"
+          ],
+          "cons": [
+            "Less intense than Lindt 90%",
+            "Sourcing less transparent than bean-to-bar"
+          ]
         },
         "theo-chocolate-organic-85": {
           "name": "Theo Chocolate Organic 85% Dark Bar",
           "badge": "Best Bean-to-Bar",
-          "review": "Theo operates a small-batch roaster in Seattle and does the whole process in-house — from bean selection to final bar. Their 85% uses Congo cacao certified fair-trade at origin, which is rare. The flavor profile shows genuine roasting skill: you get walnut and dried cherry without any harsh or burnt edges. If you care about the supply chain as much as the taste, Theo is the answer."
+          "review": "Theo operates a small-batch roaster in Seattle and does the whole process in-house — from bean selection to final bar. Their 85% uses Congo cacao certified fair-trade at origin, which is rare. The flavor profile shows genuine roasting skill: you get walnut and dried cherry without any harsh or burnt edges. If you care about the supply chain as much as the taste, Theo is the answer.",
+          "pros": [
+            "Full bean-to-bar transparency on sourcing",
+            "Noticeably more complex flavor profile",
+            "Fair Trade Direct certified"
+          ],
+          "cons": [
+            "3–4x the price of Lindt",
+            "Limited availability outside specialty stores"
+          ]
         },
         "alter-eco-deep-dark-blackout-85": {
           "name": "Alter Eco Deep Dark Blackout 85%",
           "badge": "Best Vegan",
-          "review": "Alter Eco hits three marks that rarely overlap: genuinely vegan (no dairy cross-contamination), fully organic, and Fairtrade. The packaging is compostable, which is a real differentiator. The chocolate itself has a deep, earthy cocoa character that works better as an ingredient in baking than eaten by the square — though purists will enjoy the intensity. Sustainably sourced from Ecuador and Peru."
+          "review": "Alter Eco hits three marks that rarely overlap: genuinely vegan (no dairy cross-contamination), fully organic, and Fairtrade. The packaging is compostable, which is a real differentiator. The chocolate itself has a deep, earthy cocoa character that works better as an ingredient in baking than eaten by the square — though purists will enjoy the intensity. Sustainably sourced from Ecuador and Peru.",
+          "pros": [
+            "Certified vegan with no dairy cross-contamination",
+            "Fully organic and Fairtrade",
+            "Accessible price for ethical sourcing"
+          ],
+          "cons": [
+            "85% — less extreme than 90%+ options",
+            "Slightly waxy texture vs. single-origin"
+          ]
         }
       },
       "buyingGuide": {

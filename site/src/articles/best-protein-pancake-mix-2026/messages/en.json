@@ -8,27 +8,72 @@
         "kodiak-cakes-power-cakes": {
           "name": "Kodiak Cakes Power Cakes",
           "badge": "Best Overall",
-          "review": "Kodiak Cakes is the product that made protein pancakes mainstream. The Power Cakes mix uses a combination of whey protein and whole wheat flour — the result is 14g of protein per serving without any of the chalky aftertaste common to higher-protein alternatives. Just-add-water convenience (no eggs, no milk) makes this the practical morning choice. The texture is dense and filling rather than light and fluffy, which is appropriate for a pre or post-workout meal. Available in a wide range of flavors."
+          "review": "Kodiak Cakes is the product that made protein pancakes mainstream. The Power Cakes mix uses a combination of whey protein and whole wheat flour — the result is 14g of protein per serving without any of the chalky aftertaste common to higher-protein alternatives. Just-add-water convenience (no eggs, no milk) makes this the practical morning choice. The texture is dense and filling rather than light and fluffy, which is appropriate for a pre or post-workout meal. Available in a wide range of flavors.",
+          "pros": [
+            "Just add water — no eggs or milk needed",
+            "14g protein without chalky aftertaste",
+            "Available at most mainstream grocery stores"
+          ],
+          "cons": [
+            "Denser texture than classic pancakes",
+            "Whey-based — not suitable for vegans"
+          ]
         },
         "birch-benders-protein-pancake": {
           "name": "Birch Benders Protein Mix",
           "badge": "Best High-Protein Taste",
-          "review": "Birch Benders pushes the protein higher — 18g per serving — while keeping the taste cleaner than most mixes at this protein level. The whey and milk protein combination produces a less grainy result than single-source protein formulas. Just-add-water formulation, slightly thinner batter than Kodiak, which yields lighter pancakes. Also works well in a waffle iron. For people who want to maximize protein without accepting a chalky product, this is the closest to that goal."
+          "review": "Birch Benders pushes the protein higher — 18g per serving — while keeping the taste cleaner than most mixes at this protein level. The whey and milk protein combination produces a less grainy result than single-source protein formulas. Just-add-water formulation, slightly thinner batter than Kodiak, which yields lighter pancakes. Also works well in a waffle iron. For people who want to maximize protein without accepting a chalky product, this is the closest to that goal.",
+          "pros": [
+            "18g protein — highest of the water-only options",
+            "Blended protein source reduces graininess",
+            "Works in a waffle maker"
+          ],
+          "cons": [
+            "Slightly thinner batter than Kodiak",
+            "Premium price"
+          ]
         },
         "krusteaz-protein-pancake": {
           "name": "Krusteaz Protein Pancake Mix",
           "badge": "Best Budget",
-          "review": "Krusteaz has been making pancake mix for decades, and their protein version maintains the classic American pancake texture most people expect. At 15g of protein per serving, it's competitive with the leading brands. The main advantage is price — Krusteaz is consistently the most affordable option per serving in the protein pancake category and widely available in grocery stores. The flavor is familiar and neutral, which makes it versatile across toppings."
+          "review": "Krusteaz has been making pancake mix for decades, and their protein version maintains the classic American pancake texture most people expect. At 15g of protein per serving, it's competitive with the leading brands. The main advantage is price — Krusteaz is consistently the most affordable option per serving in the protein pancake category and widely available in grocery stores. The flavor is familiar and neutral, which makes it versatile across toppings.",
+          "pros": [
+            "Lowest price per serving in the category",
+            "Widely available in supermarkets",
+            "Classic American pancake texture"
+          ],
+          "cons": [
+            "15g protein — competitive but not leading",
+            "Neutral flavor limits variety"
+          ]
         },
         "bob-red-mill-protein-pancake": {
           "name": "Bob's Red Mill Protein Pancake Mix",
           "badge": "Best Plant-Based",
-          "review": "Bob's Red Mill is the answer for people following dairy-free, vegan, or gluten-free diets. The protein comes from pea protein and whole grain sources — 12g per serving, which is lower than dairy-based competitors, but the dietary compatibility more than compensates for the drop. The texture is denser than whey-based mixes, which some people prefer and others find heavy. Good for savory preparations with toppings like avocado or smoked salmon."
+          "review": "Bob's Red Mill is the answer for people following dairy-free, vegan, or gluten-free diets. The protein comes from pea protein and whole grain sources — 12g per serving, which is lower than dairy-based competitors, but the dietary compatibility more than compensates for the drop. The texture is denser than whey-based mixes, which some people prefer and others find heavy. Good for savory preparations with toppings like avocado or smoked salmon.",
+          "pros": [
+            "Fully vegan and dairy-free",
+            "Certified gluten-free",
+            "Works well for savory preparations"
+          ],
+          "cons": [
+            "12g protein — lower than whey-based options",
+            "Denser texture than whey-based mixes"
+          ]
         },
         "carbon-fire-protein-pancake": {
           "name": "Carbon Fire Protein Pancake Mix",
           "badge": "Best for Bodybuilders",
-          "review": "Carbon Fire is for people who optimize macros more than they optimize breakfast enjoyment. At 25g of protein and only 5g of carbs per serving, the ratio is exceptional — but the preparation requires egg whites and water (not just water), and the texture is dense and more egg-like than traditional pancakes. This is not a casual breakfast product; it's a food preparation tool for people hitting strict daily protein targets. The taste is acceptable, not remarkable."
+          "review": "Carbon Fire is for people who optimize macros more than they optimize breakfast enjoyment. At 25g of protein and only 5g of carbs per serving, the ratio is exceptional — but the preparation requires egg whites and water (not just water), and the texture is dense and more egg-like than traditional pancakes. This is not a casual breakfast product; it's a food preparation tool for people hitting strict daily protein targets. The taste is acceptable, not remarkable.",
+          "pros": [
+            "25g protein per serving",
+            "Only 5g carbs — exceptional macro ratio",
+            "Purpose-built for strict macro targets"
+          ],
+          "cons": [
+            "Requires egg whites — not just add water",
+            "Egg-forward texture, not classic pancake"
+          ]
         }
       },
       "buyingGuide": {

@@ -8,27 +8,72 @@
         "harbinger-pro-wrist-wrap-gloves": {
           "name": "Harbinger Pro Wrist Wrap Gloves",
           "badge": "Best Overall",
-          "review": "Harbinger has been making gym gloves for decades, and the Pro Wrist Wrap version remains the standard. The 12-inch integrated wrist wrap provides meaningful support during pressing and overhead work — not a substitute for dedicated wrist wraps in max-effort lifting, but enough for typical training loads. The leather palm holds up significantly longer than synthetic alternatives. The foam padding is placed at the base of the fingers and palm center where contact pressure is highest. Thick enough to reduce calluses, thin enough to maintain bar feel."
+          "review": "Harbinger has been making gym gloves for decades, and the Pro Wrist Wrap version remains the standard. The 12-inch integrated wrist wrap provides meaningful support during pressing and overhead work — not a substitute for dedicated wrist wraps in max-effort lifting, but enough for typical training loads. The leather palm holds up significantly longer than synthetic alternatives. The foam padding is placed at the base of the fingers and palm center where contact pressure is highest. Thick enough to reduce calluses, thin enough to maintain bar feel.",
+          "pros": [
+            "12-inch wrist wrap supports pressing and overhead work",
+            "Genuine leather palm outlasts synthetic alternatives",
+            "Thin enough to keep bar feel intact"
+          ],
+          "cons": [
+            "Not a substitute for dedicated wrist wraps at max effort",
+            "Runs warm in summer training"
+          ]
         },
         "trideer-half-finger-gloves": {
           "name": "Trideer Half-Finger Workout Gloves",
           "badge": "Best Budget",
-          "review": "Trideer makes the most consistently well-reviewed budget gym gloves available. The microfiber palm provides solid grip enhancement, the half-finger design doesn't interfere with fine motor work, and they're machine washable — which is a practical consideration for gym gloves used daily. The padding is thin compared to Harbinger, which suits people who want callus prevention without losing bar feel. Machine washable, which dedicated gym gloves often aren't. Excellent value for regular training."
+          "review": "Trideer makes the most consistently well-reviewed budget gym gloves available. The microfiber palm provides solid grip enhancement, the half-finger design doesn't interfere with fine motor work, and they're machine washable — which is a practical consideration for gym gloves used daily. The padding is thin compared to Harbinger, which suits people who want callus prevention without losing bar feel. Machine washable, which dedicated gym gloves often aren't. Excellent value for regular training.",
+          "pros": [
+            "Machine washable — rare for gym gloves",
+            "Half-finger design keeps full dexterity",
+            "Strong value for daily training"
+          ],
+          "cons": [
+            "Thinner padding than Harbinger",
+            "No wrist support"
+          ]
         },
         "mechanix-wear-gym-gloves": {
           "name": "Mechanix Wear Original Gloves",
           "badge": "Best Durability",
-          "review": "Mechanix gloves weren't designed for gym use — they're designed for mechanics working with power tools. That construction choice makes them dramatically more durable than purpose-built gym gloves. Synthetic leather palm, reinforced thumb and index finger, hook-and-loop wrist cuff. Gym athletes discovered them as an alternative that lasts 3–5x longer than standard gym gloves at a lower price per year of use. The downside is they're bulkier and less breathable than purpose-designed options."
+          "review": "Mechanix gloves weren't designed for gym use — they're designed for mechanics working with power tools. That construction choice makes them dramatically more durable than purpose-built gym gloves. Synthetic leather palm, reinforced thumb and index finger, hook-and-loop wrist cuff. Gym athletes discovered them as an alternative that lasts 3–5x longer than standard gym gloves at a lower price per year of use. The downside is they're bulkier and less breathable than purpose-designed options.",
+          "pros": [
+            "3–5x lifespan of standard gym gloves",
+            "Reinforced thumb and index finger",
+            "Lower cost per year of use"
+          ],
+          "cons": [
+            "Bulkier than purpose-built gym gloves",
+            "Less breathable in intense sessions"
+          ]
         },
         "bionic-premium-full-finger-gloves": {
           "name": "Bionic Premium Fitness Gloves",
           "badge": "Best Full-Finger",
-          "review": "Bionic's gloves use an anatomical design based on hand biomechanics studies — the padding is placed based on where the hand actually bears load, and the pre-rotated finger position reduces fatigue in high-rep exercises. Full-finger coverage makes them suitable for rope climbs, bar muscle-ups, and gymnastic work where fingerprint protection matters. The construction quality is noticeably higher than most gym gloves, reflected in a higher price. Worth it for people who train regularly with gymnastics equipment."
+          "review": "Bionic's gloves use an anatomical design based on hand biomechanics studies — the padding is placed based on where the hand actually bears load, and the pre-rotated finger position reduces fatigue in high-rep exercises. Full-finger coverage makes them suitable for rope climbs, bar muscle-ups, and gymnastic work where fingerprint protection matters. The construction quality is noticeably higher than most gym gloves, reflected in a higher price. Worth it for people who train regularly with gymnastics equipment.",
+          "pros": [
+            "Anatomically placed padding reduces hand fatigue",
+            "Full coverage for rope climbs and bar work",
+            "Noticeably higher build quality"
+          ],
+          "cons": [
+            "Overkill for standard barbell training",
+            "Higher price point"
+          ]
         },
         "bear-grips-barehand-straps": {
           "name": "Bear Grips Finger Tape Grips",
           "badge": "Best Gloves Alternative",
-          "review": "Bear Grips are silicone finger covers, not gloves — they protect the fingertips and improve grip security without covering the palm. This design is preferred by Olympic weightlifters and CrossFit athletes who want the feel of bare hands but reduced callus formation. The silicone material provides excellent grip on knurled bars. Unlike full gloves, they don't add heat to the hand and don't reduce proprioceptive feedback from the bar. A different category from traditional gloves, but the right tool for a specific set of users."
+          "review": "Bear Grips are silicone finger covers, not gloves — they protect the fingertips and improve grip security without covering the palm. This design is preferred by Olympic weightlifters and CrossFit athletes who want the feel of bare hands but reduced callus formation. The silicone material provides excellent grip on knurled bars. Unlike full gloves, they don't add heat to the hand and don't reduce proprioceptive feedback from the bar. A different category from traditional gloves, but the right tool for a specific set of users.",
+          "pros": [
+            "Maintains full bar proprioception",
+            "No palm heat buildup",
+            "Preferred by Olympic lifters and CrossFit athletes"
+          ],
+          "cons": [
+            "Doesn't protect the palm",
+            "Different sizing from standard gloves"
+          ]
         }
       },
       "buyingGuide": {

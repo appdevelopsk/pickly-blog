@@ -8,27 +8,72 @@
         "justins-classic-almond-butter": {
           "name": "Justin's Classic Almond Butter",
           "badge": "Best Overall",
-          "review": "Justin's earns its bestseller status by threading the needle between natural and convenient. Two ingredients — dry-roasted almonds and a small amount of palm oil — give it the no-stir consistency most people want without the long list of additives found in supermarket brands. The roast flavor is well-balanced: nutty without being too intense. Available in squeeze packs, which is genuinely useful for pre-workout portability or travel."
+          "review": "Justin's earns its bestseller status by threading the needle between natural and convenient. Two ingredients — dry-roasted almonds and a small amount of palm oil — give it the no-stir consistency most people want without the long list of additives found in supermarket brands. The roast flavor is well-balanced: nutty without being too intense. Available in squeeze packs, which is genuinely useful for pre-workout portability or travel.",
+          "pros": [
+            "Two ingredients — dry-roasted almonds and palm oil",
+            "Creamy texture without stirring",
+            "Widely available at mainstream grocery prices"
+          ],
+          "cons": [
+            "Contains palm oil — sustainability concern for some",
+            "Less intense almond flavor than raw options"
+          ]
         },
         "barney-bare-almond-butter": {
           "name": "Barney Butter Bare Almond Butter",
           "badge": "Best Natural",
-          "review": "Barney's blanching approach is distinctive — removing the almond skin before grinding produces a noticeably smoother, milder paste than skin-on almond butters. The single ingredient is blanched almonds, full stop. The flavor is cleaner and less intense than skin-on varieties, making it more versatile in recipes where you want almond flavor without the slight bitterness from the skins. Requires minimal stirring."
+          "review": "Barney's blanching approach is distinctive — removing the almond skin before grinding produces a noticeably smoother, milder paste than skin-on almond butters. The single ingredient is blanched almonds, full stop. The flavor is cleaner and less intense than skin-on varieties, making it more versatile in recipes where you want almond flavor without the slight bitterness from the skins. Requires minimal stirring.",
+          "pros": [
+            "Blanched almonds produce noticeably smoother texture",
+            "Single ingredient — nothing else",
+            "Mild flavor works in both sweet and savory dishes"
+          ],
+          "cons": [
+            "Oil separation requires stirring",
+            "Less available in mainstream stores"
+          ]
         },
         "wild-friends-almond-butter": {
           "name": "Wild Friends Classic Creamy Almond Butter",
           "badge": "Best No Palm Oil",
-          "review": "Wild Friends avoids palm oil — the texture stays creamy through stone-grinding rather than emulsification. The result is lighter than standard jar butters with a slight natural sweetness. The Oregon-based brand sources non-GMO almonds and keeps the ingredient list to almonds, sunflower oil, and sea salt. If palm oil sourcing is a concern, this is the cleaner alternative to Justin's at a similar price point."
+          "review": "Wild Friends avoids palm oil — the texture stays creamy through stone-grinding rather than emulsification. The result is lighter than standard jar butters with a slight natural sweetness. The Oregon-based brand sources non-GMO almonds and keeps the ingredient list to almonds, sunflower oil, and sea salt. If palm oil sourcing is a concern, this is the cleaner alternative to Justin's at a similar price point.",
+          "pros": [
+            "No palm oil — stone-ground for natural creaminess",
+            "Certified organic",
+            "Clean ingredient list without emulsifiers"
+          ],
+          "cons": [
+            "Premium price point",
+            "Slightly grainy texture vs. Justin's"
+          ]
         },
         "artisana-organic-almond-butter": {
           "name": "Artisana Organics Raw Almond Butter",
           "badge": "Best Organic",
-          "review": "The key distinction here is raw — the almonds are not roasted before grinding, which preserves a higher nutrient density and produces a distinctly different flavor profile. Raw almond butter has an almost sweet, grassy character compared to the toasted nuttiness of roasted versions. Single ingredient, certified organic, thicker consistency that needs stirring. For people prioritizing raw food nutrition, this is the standout option."
+          "review": "The key distinction here is raw — the almonds are not roasted before grinding, which preserves a higher nutrient density and produces a distinctly different flavor profile. Raw almond butter has an almost sweet, grassy character compared to the toasted nuttiness of roasted versions. Single ingredient, certified organic, thicker consistency that needs stirring. For people prioritizing raw food nutrition, this is the standout option.",
+          "pros": [
+            "Raw almonds preserve maximum nutrient density",
+            "Certified organic and non-GMO",
+            "Intense, complex almond flavor"
+          ],
+          "cons": [
+            "Requires thorough stirring",
+            "Higher price than mass-market options"
+          ]
         },
         "maranatha-no-stir-almond-butter": {
           "name": "MaraNatha No-Stir Creamy Almond Butter",
           "badge": "Best No-Stir",
-          "review": "MaraNatha's emulsification formula prevents oil separation permanently — open the jar, use it, close it. This is the practical daily-driver for households where natural almond butters with their oil separation get abandoned in the back of the pantry. The flavor is solid: mild roasted almond with light salt and a touch of sugar. Not for purists, but for consistent, hassle-free daily use, it performs exactly as advertised."
+          "review": "MaraNatha's emulsification formula prevents oil separation permanently — open the jar, use it, close it. This is the practical daily-driver for households where natural almond butters with their oil separation get abandoned in the back of the pantry. The flavor is solid: mild roasted almond with light salt and a touch of sugar. Not for purists, but for consistent, hassle-free daily use, it performs exactly as advertised.",
+          "pros": [
+            "Permanently emulsified — zero stirring required",
+            "Consistent texture from first to last spoonful",
+            "Mainstream availability and price"
+          ],
+          "cons": [
+            "Added oils and salt in the formula",
+            "Less pure ingredient profile than natural options"
+          ]
         }
       },
       "buyingGuide": {

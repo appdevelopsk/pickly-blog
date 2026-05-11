@@ -8,27 +8,72 @@
         "bowflex-selecttech-840-kettlebell": {
           "name": "Bowflex SelectTech 840 Kettlebell",
           "badge": "Best Overall",
-          "review": "The SelectTech 840 is the most refined adjustable kettlebell design available. A dial on the handle selects your weight in seconds — 8, 12, 20, 25, 35, or 40 lbs — with a satisfying click. The handle diameter is close to a standard fixed bell, which matters when you're doing 100-rep swings or Turkish get-ups. The weight increments are well-chosen for beginners and intermediate lifters. The plastic housing is the expected tradeoff, but it holds up well under normal use."
+          "review": "The SelectTech 840 is the most refined adjustable kettlebell design available. A dial on the handle selects your weight in seconds — 8, 12, 20, 25, 35, or 40 lbs — with a satisfying click. The handle diameter is close to a standard fixed bell, which matters when you're doing 100-rep swings or Turkish get-ups. The weight increments are well-chosen for beginners and intermediate lifters. The plastic housing is the expected tradeoff, but it holds up well under normal use.",
+          "pros": [
+            "Dial-select changes weight in seconds",
+            "18 settings from 8 to 80 lbs",
+            "Replaces multiple kettlebells in one footprint"
+          ],
+          "cons": [
+            "Square shape alters swing mechanics slightly",
+            "Higher upfront cost than fixed bells"
+          ]
         },
         "powerblock-sport-kettlebell": {
           "name": "PowerBlock Sport Adjustable Kettlebell",
           "badge": "Best for Space Efficiency",
-          "review": "PowerBlock's block-style design is polarizing: the square, perforated frame doesn't look like a traditional kettlebell, and swings feel slightly different because the weight distribution is centered differently. But if space efficiency is the priority, it wins — the square base doesn't roll, stores flat, and the adjustment mechanism is fast. Adjusts from 8 to 35 lbs across several weight increments. Used heavily in commercial gym settings for group fitness."
+          "review": "PowerBlock's block-style design is polarizing: the square, perforated frame doesn't look like a traditional kettlebell, and swings feel slightly different because the weight distribution is centered differently. But if space efficiency is the priority, it wins — the square base doesn't roll, stores flat, and the adjustment mechanism is fast. Adjusts from 8 to 35 lbs across several weight increments. Used heavily in commercial gym settings for group fitness.",
+          "pros": [
+            "Smallest footprint per pound of any adjustable",
+            "Fast weight adjustment mechanism",
+            "Compatible with PowerBlock dumbbell ecosystem"
+          ],
+          "cons": [
+            "Square frame is far from traditional kettlebell shape",
+            "Handle feel differs from cast iron"
+          ]
         },
         "rep-fitness-adjustable-kettlebell": {
           "name": "REP Fitness Adjustable Kettlebell",
           "badge": "Best Traditional Feel",
-          "review": "REP's adjustable kettlebell is the closest to a fixed cast-iron bell of any option in this category. The round shape, standard handle width, and weight-at-the-bottom design means swings, cleans, and snatches feel natural. Weight changes require removing the bottom section and swapping weights — slower than a dial but more mechanically reliable. Goes up to 70 lbs, which makes it useful well into advanced programming."
+          "review": "REP's adjustable kettlebell is the closest to a fixed cast-iron bell of any option in this category. The round shape, standard handle width, and weight-at-the-bottom design means swings, cleans, and snatches feel natural. Weight changes require removing the bottom section and swapping weights — slower than a dial but more mechanically reliable. Goes up to 70 lbs, which makes it useful well into advanced programming.",
+          "pros": [
+            "Round shape closest to fixed cast iron",
+            "Standard knurling on the handle",
+            "Good balance for ballistic movements"
+          ],
+          "cons": [
+            "Fewer weight increments than Bowflex",
+            "Larger footprint than block-style designs"
+          ]
         },
         "apex-adjustable-kettlebell": {
           "name": "Apex Adjustable Kettle Ball",
           "badge": "Best Budget Option",
-          "review": "The Apex is plate-loaded — it uses standard Olympic weight plates that you likely already own, which keeps the cost low if you have a barbell setup. The handle is solid, the locking mechanism is reliable, and at 20–50 lbs it covers the range most people actually use. The tradeoff is weight changes take longer (unscrew, swap plates, rescrew), making it impractical for quick circuit training. Strong value for steady-state programming."
+          "review": "The Apex is plate-loaded — it uses standard Olympic weight plates that you likely already own, which keeps the cost low if you have a barbell setup. The handle is solid, the locking mechanism is reliable, and at 20–50 lbs it covers the range most people actually use. The tradeoff is weight changes take longer (unscrew, swap plates, rescrew), making it impractical for quick circuit training. Strong value for steady-state programming.",
+          "pros": [
+            "Uses standard plates you may already own",
+            "Lowest cost of any adjustable option",
+            "No upper weight ceiling with plate additions"
+          ],
+          "cons": [
+            "Plate-loading takes 2–3 minutes to change",
+            "Balance differs from fixed kettlebells"
+          ]
         },
         "kettle-gryp-attachment": {
           "name": "Kettle Gryp Dumbbell Attachment",
           "badge": "Best Travel Option",
-          "review": "Kettle Gryp isn't a kettlebell at all — it's a clamp that converts any dumbbell into a kettlebell grip. At under $40 and 1 lb, it's the travel solution for people who work out in hotel gyms or have a dumbbell set they don't want to duplicate. The grip works on dumbbells from 15 to 55 lbs. The leverage point feels slightly different from a true kettlebell, but for swings and goblet squats it functions well enough."
+          "review": "Kettle Gryp isn't a kettlebell at all — it's a clamp that converts any dumbbell into a kettlebell grip. At under $40 and 1 lb, it's the travel solution for people who work out in hotel gyms or have a dumbbell set they don't want to duplicate. The grip works on dumbbells from 15 to 55 lbs. The leverage point feels slightly different from a true kettlebell, but for swings and goblet squats it functions well enough.",
+          "pros": [
+            "Converts any dumbbell — under $40",
+            "Fits in a gym bag or suitcase",
+            "Works with hotel gym equipment"
+          ],
+          "cons": [
+            "Requires access to a dumbbell",
+            "Balance differs from a real kettlebell"
+          ]
         }
       },
       "buyingGuide": {

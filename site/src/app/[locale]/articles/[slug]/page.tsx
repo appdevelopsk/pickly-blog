@@ -59,6 +59,12 @@ export default async function ArticlePage({ params }: Props) {
         offerId: id,
         badge: String(p.badge ?? ""),
         review: String(p.review ?? ""),
+        pros: Array.isArray((p as unknown as Record<string, unknown>).pros)
+          ? ((p as unknown as Record<string, unknown>).pros as string[])
+          : undefined,
+        cons: Array.isArray((p as unknown as Record<string, unknown>).cons)
+          ? ((p as unknown as Record<string, unknown>).cons as string[])
+          : undefined,
       }));
     }
 

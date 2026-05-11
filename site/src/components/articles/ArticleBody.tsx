@@ -1,5 +1,5 @@
 import { useLocale, useTranslations } from "next-intl";
-import type { ArticleContent, ArticleMeta } from "@/lib/articles/types";
+import type { ArticleContent, ArticleMeta, ArticleCategory } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { AffiliateLink } from "@/components/AffiliateLink";
 
@@ -72,18 +72,75 @@ export function ArticleBody({ meta, content, offers }: Props) {
               id={`offer-${o.id}`}
               className="mb-10 scroll-mt-20 border-b border-slate-100 pb-10 last:border-0"
             >
-              <div className="mb-3 flex flex-wrap items-baseline gap-2">
-                <span className="text-2xl font-black text-brand-600 leading-none">#{i + 1}</span>
-                <h2 className="text-xl font-bold text-slate-900">{name}</h2>
-                {product?.badge && (
-                  <span className="rounded-full bg-amber-100 px-2.5 py-0.5 text-xs font-bold text-amber-800">
-                    {product.badge}
-                  </span>
-                )}
+              {/* Image + title row */}
+              <div className="mb-4 flex gap-4">
+                <div className="h-24 w-24 shrink-0 overflow-hidden rounded-xl">
+                  {o.imageUrl ? (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img
+                      src={o.imageUrl}
+                      alt={name}
+                      className="h-full w-full object-cover"
+                      loading="lazy"
+                    />
+                  ) : (
+                    <CategoryPlaceholder category={meta.category} />
+                  )}
+                </div>
+                <div className="flex-1 min-w-0">
+                  <div className="mb-1 flex flex-wrap items-baseline gap-2">
+                    <span className="text-xl font-black text-brand-600 leading-none">#{i + 1}</span>
+                    <h2 className="text-lg font-bold text-slate-900 leading-snug">{name}</h2>
+                  </div>
+                  {product?.badge && (
+                    <span className="inline-block rounded-full bg-amber-100 px-2.5 py-0.5 text-xs font-bold text-amber-800">
+                      {product.badge}
+                    </span>
+                  )}
+                </div>
               </div>
+
+              {/* Review text */}
               {product?.review && (
-                <p className="mb-5 leading-relaxed text-slate-700">{product.review}</p>
+                <p className="mb-4 leading-relaxed text-slate-700">{product.review}</p>
               )}
+
+              {/* Pros / Cons */}
+              {(product?.pros?.length || product?.cons?.length) && (
+                <div className="mb-5 grid gap-3 sm:grid-cols-2">
+                  {product?.pros && product.pros.length > 0 && (
+                    <div className="rounded-lg bg-green-50 p-3">
+                      <p className="mb-2 text-xs font-bold uppercase tracking-wide text-green-700">
+                        {t("article.pros")}
+                      </p>
+                      <ul className="space-y-1">
+                        {product.pros.map((pro, k) => (
+                          <li key={k} className="flex items-start gap-1.5 text-sm text-slate-700">
+                            <span className="mt-0.5 shrink-0 font-bold text-green-500">✓</span>
+                            {pro}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+                  {product?.cons && product.cons.length > 0 && (
+                    <div className="rounded-lg bg-slate-50 p-3">
+                      <p className="mb-2 text-xs font-bold uppercase tracking-wide text-slate-500">
+                        {t("article.cons")}
+                      </p>
+                      <ul className="space-y-1">
+                        {product.cons.map((con, k) => (
+                          <li key={k} className="flex items-start gap-1.5 text-sm text-slate-500">
+                            <span className="mt-0.5 shrink-0 text-slate-400">✗</span>
+                            {con}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+                </div>
+              )}
+
               <AffiliateLink offer={o} hideBadge />
             </section>
           );
@@ -103,7 +160,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
             </p>
           ))}
           {s.subsections && s.subsections.length > 0 && (
-            <dl className="mt-4 space-y-4">
+            <dl className="mt-4 space-y-3">
               {s.subsections.map((sub, j) => (
                 <div key={j} className="rounded-lg border border-slate-200 p-4">
                   <dt className="mb-1 font-bold text-slate-900">{sub.heading}</dt>
@@ -150,6 +207,30 @@ export function ArticleBody({ meta, content, offers }: Props) {
         </section>
       )}
     </article>
+  );
+}
+
+function CategoryPlaceholder({ category }: { category: ArticleCategory }) {
+  const map: Record<ArticleCategory, { emoji: string; from: string; to: string }> = {
+    fitness:  { emoji: "💪", from: "#dbeafe", to: "#bfdbfe" },
+    food:     { emoji: "🍽️", from: "#dcfce7", to: "#bbf7d0" },
+    tech:     { emoji: "💻", from: "#ede9fe", to: "#ddd6fe" },
+    home:     { emoji: "🏠", from: "#fef9c3", to: "#fef08a" },
+    beauty:   { emoji: "✨", from: "#fce7f3", to: "#fbcfe8" },
+    fashion:  { emoji: "👗", from: "#ffedd5", to: "#fed7aa" },
+    finance:  { emoji: "💰", from: "#d1fae5", to: "#a7f3d0" },
+    travel:   { emoji: "✈️", from: "#e0f2fe", to: "#bae6fd" },
+    parenting:{ emoji: "👶", from: "#fef3c7", to: "#fde68a" },
+    pets:     { emoji: "🐾", from: "#f3e8ff", to: "#e9d5ff" },
+  };
+  const { emoji, from, to } = map[category] ?? { emoji: "📦", from: "#f1f5f9", to: "#e2e8f0" };
+  return (
+    <div
+      className="flex h-full w-full items-center justify-center text-3xl"
+      style={{ background: `linear-gradient(135deg, ${from}, ${to})` }}
+    >
+      {emoji}
+    </div>
   );
 }
 
