@@ -17508,6 +17508,108 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "amazon-us", productId: "B08GH4C2VN", rawUrl: "https://www.amazon.com/dp/B08GH4C2VN", markets: ["US", "EU", "global"], approved: true },
     ],
   },
+  // --- batch #258: best-almond-butter-2026 (food) ---
+  {
+    id: "justins-classic-almond-butter",
+    category: "food",
+    badge: "Best Overall Almond Butter",
+    name: { en: "Justin's Classic Almond Butter", ja: "ジャスティンズ クラシックアーモンドバター" },
+    description: { en: "Two ingredients: dry-roasted almonds and palm oil. Creamy texture, mild roast flavor, no stir required.", ja: "原材料2つ：ドライロースト アーモンドとパーム油。クリーミーな食感・マイルドなロースト風味・混ぜ不要。" },
+    links: [
+      { network: "amazon-us", productId: "B002TBZPQQ", rawUrl: "https://www.amazon.com/dp/B002TBZPQQ", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "barney-bare-almond-butter",
+    category: "food",
+    badge: "Best Natural Almond Butter",
+    name: { en: "Barney Butter Bare Almond Butter", ja: "バーニーバター ベアアーモンドバター" },
+    description: { en: "Single ingredient: blanched almonds. Blanching removes skins for a smoother, milder flavor than skin-on almond butters.", ja: "原材料1つ：ブランチドアーモンド。皮を除去することで、皮付きより滑らかでマイルドな風味を実現。" },
+    links: [
+      { network: "amazon-us", productId: "B00AGWAHPC", rawUrl: "https://www.amazon.com/dp/B00AGWAHPC", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "wild-friends-almond-butter",
+    category: "food",
+    badge: "Best Flavored Almond Butter",
+    name: { en: "Wild Friends Classic Creamy Almond Butter", ja: "ワイルドフレンズ クラシッククリーミーアーモンドバター" },
+    description: { en: "Stone-ground almonds with minimal ingredients, no palm oil. Lighter texture than standard jar butters, slight sweet aftertaste.", ja: "石臼挽きアーモンド・最小限の原材料・パーム油不使用。標準バターより軽い食感と微かな甘い後味。" },
+    links: [
+      { network: "amazon-us", productId: "B07CSWFBDD", rawUrl: "https://www.amazon.com/dp/B07CSWFBDD", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "artisana-organic-almond-butter",
+    category: "food",
+    badge: "Best Organic Almond Butter",
+    name: { en: "Artisana Organics Raw Almond Butter", ja: "アルティサナ オーガニクス ロウアーモンドバター" },
+    description: { en: "Raw (not roasted) organic almonds. Thicker consistency, stronger natural almond flavor. Single ingredient, USDA certified organic.", ja: "非加熱（ロースト不使用）オーガニックアーモンド。濃厚なコンシステンシーと強いアーモンド本来の風味。単一原材料・USDA有機認証。" },
+    links: [
+      { network: "amazon-us", productId: "B000WQTOPG", rawUrl: "https://www.amazon.com/dp/B000WQTOPG", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "maranatha-no-stir-almond-butter",
+    category: "food",
+    badge: "Best No-Stir Almond Butter",
+    name: { en: "MaraNatha No-Stir Creamy Almond Butter", ja: "マラナサ ノースター クリーミーアーモンドバター" },
+    description: { en: "Emulsified for permanent no-stir consistency. Natural almond flavor with slightly added salt and sugar. The supermarket staple for daily spreading.", ja: "混ぜ不要の永続的なクリーミーさを実現するために乳化処理済み。自然なアーモンド風味に少量の塩と砂糖。毎日のトースト用スーパー定番品。" },
+    links: [
+      { network: "amazon-us", productId: "B001E5DPD8", rawUrl: "https://www.amazon.com/dp/B001E5DPD8", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  // --- batch #259: best-adjustable-kettlebell-2026 (fitness) ---
+  {
+    id: "bowflex-selecttech-840-kettlebell",
+    category: "fitness",
+    badge: "Best Overall Adjustable Kettlebell",
+    name: { en: "Bowflex SelectTech 840 Kettlebell", ja: "ボウフレックス セレクトテック 840 ケトルベル" },
+    description: { en: "6-weight adjustable from 8 to 40 lbs via a turn-dial mechanism. Full cast-iron feel with a wide handle for two-handed swings.", ja: "ダイヤル操作で8〜40lbsの6段階調整。全キャスト鉄の感触と両手スイング対応のワイドハンドル。" },
+    links: [
+      { network: "amazon-us", productId: "B07DCNHQQ5", rawUrl: "https://www.amazon.com/dp/B07DCNHQQ5", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "powerblock-sport-kettlebell",
+    category: "fitness",
+    badge: "Best Compact Adjustable Kettlebell",
+    name: { en: "PowerBlock Sport Adjustable Kettlebell", ja: "パワーブロック スポーツ アジャスタブル ケトルベル" },
+    description: { en: "Block-style design replaces 8 kettlebells. 35 lbs total adjustable. Perforated steel shell, square base doesn't roll.", ja: "8個のケトルベルを代替するブロックスタイル。合計35lbs調整可能。穿孔スチールシェル・転がらない正方形ベース。" },
+    links: [
+      { network: "amazon-us", productId: "B07WX8XMQG", rawUrl: "https://www.amazon.com/dp/B07WX8XMQG", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "rep-fitness-adjustable-kettlebell",
+    category: "fitness",
+    badge: "Best Gym-Quality Adjustable Kettlebell",
+    name: { en: "REP Fitness Adjustable Kettlebell", ja: "REP フィットネス アジャスタブル ケトルベル" },
+    description: { en: "0.5 lb increments up to 70 lbs. Traditional round bell shape with a standard-width handle. The adjustable option closest to a fixed competition bell.", ja: "0.5lb刻みで最大70lbsまで調整可能。標準幅ハンドル付き従来の丸型ベル形状。固定式コンペティションベルに最も近い調整可能オプション。" },
+    links: [
+      { network: "amazon-us", productId: "B07FZPP2KY", rawUrl: "https://www.amazon.com/dp/B07FZPP2KY", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "apex-adjustable-kettlebell",
+    category: "fitness",
+    badge: "Best Budget Adjustable Kettlebell",
+    name: { en: "Apex Adjustable Kettle Ball", ja: "エーペックス アジャスタブル ケトルボール" },
+    description: { en: "Plate-loaded design with standard olympic plates. Adjusts from 20 to 50 lbs. Most affordable entry point for adjustable kettlebell training.", ja: "標準オリンピックプレート装着式設計。20〜50lbsに調整可能。アジャスタブルケトルベルトレーニングへの最もリーズナブルなエントリーポイント。" },
+    links: [
+      { network: "amazon-us", productId: "B004YSSGE6", rawUrl: "https://www.amazon.com/dp/B004YSSGE6", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "kettle-gryp-attachment",
+    category: "fitness",
+    badge: "Best Dumbbell-to-Kettlebell Converter",
+    name: { en: "Kettle Gryp Adjustable Kettlebell", ja: "ケトルグリップ アジャスタブルケトルベル" },
+    description: { en: "Clamps onto any dumbbell handle to create a kettlebell grip. Portable travel solution for 15–55 lb dumbbells. Weighs 1 lb itself.", ja: "任意のダンベルハンドルに装着してケトルベルグリップを作成。15〜55lbダンベル対応の携帯用トラベルソリューション。本体重量1lb。" },
+    links: [
+      { network: "amazon-us", productId: "B00XYYLP2A", rawUrl: "https://www.amazon.com/dp/B00XYYLP2A", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
 ];
 
 /**
