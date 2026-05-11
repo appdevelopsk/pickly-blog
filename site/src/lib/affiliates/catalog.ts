@@ -17405,6 +17405,109 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "amazon-us", productId: "B07F4RLS1V", rawUrl: "https://www.amazon.com/dp/B07F4RLS1V", markets: ["US"], approved: true },
     ],
   },
+  // --- batch #256: best-dark-chocolate-2026 (food) ---
+  {
+    id: "lindt-excellence-90-cocoa",
+    category: "food",
+    badge: "Best Overall Dark Chocolate",
+    name: { en: "Lindt Excellence 90% Cocoa Bar", ja: "リンツ エクセレンス 90% カカオ" },
+    description: { en: "Intensely dark Swiss chocolate with a clean ingredient list: cocoa mass, cocoa butter, sugar, bourbon vanilla.", ja: "カカオ90%の濃厚なスイスチョコレート。シンプルな原材料：カカオマス・カカオバター・砂糖・バニラ。" },
+    links: [
+      { network: "amazon-jp", productId: "B00G6NHK6Y", rawUrl: "https://www.amazon.co.jp/dp/B00G6NHK6Y", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00G6NHK6Y", rawUrl: "https://www.amazon.com/dp/B00G6NHK6Y", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "ghirardelli-midnight-reverie-86",
+    category: "food",
+    badge: "Best Budget Dark Chocolate",
+    name: { en: "Ghirardelli Intense Dark Midnight Reverie 86%", ja: "ギラデリ インテンスダーク ミッドナイトリヴェリー 86%" },
+    description: { en: "Widely available 86% bar with complex bittersweet notes. Great for baking or snacking.", ja: "入手しやすい86%バー。複雑な苦甘さ。製菓・間食両用。" },
+    links: [
+      { network: "amazon-us", productId: "B000WQTQCQ", rawUrl: "https://www.amazon.com/dp/B000WQTQCQ", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "green-blacks-organic-dark-85",
+    category: "food",
+    badge: "Best Organic Dark Chocolate",
+    name: { en: "Green & Black's Organic Dark 85%", ja: "グリーン＆ブラックス オーガニックダーク 85%" },
+    description: { en: "Fairtrade organic cacao, smooth melt, notes of raisin and cherry. B-Corp certified.", ja: "フェアトレード有機カカオ使用。なめらかな口溶けとレーズン・チェリー風味。B Corp認証。" },
+    links: [
+      { network: "amazon-us", productId: "B07HMLXYRR", rawUrl: "https://www.amazon.com/dp/B07HMLXYRR", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "theo-chocolate-organic-85",
+    category: "food",
+    badge: "Best Bean-to-Bar Dark Chocolate",
+    name: { en: "Theo Chocolate Organic 85% Dark Bar", ja: "テオ チョコレート オーガニック 85% ダークバー" },
+    description: { en: "Seattle bean-to-bar craft chocolate with fair-trade Congo cacao. Notes of dried cherry and walnut.", ja: "フェアトレードコンゴカカオ使用のシアトル産クラフトチョコ。ドライチェリーとクルミの風味。" },
+    links: [
+      { network: "amazon-us", productId: "B007M3KOXO", rawUrl: "https://www.amazon.com/dp/B007M3KOXO", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "alter-eco-deep-dark-blackout-85",
+    category: "food",
+    badge: "Best Vegan Dark Chocolate",
+    name: { en: "Alter Eco Deep Dark Blackout 85%", ja: "オルターエコ ディープダーク ブラックアウト 85%" },
+    description: { en: "Vegan, organic, fair-trade dark chocolate with compostable packaging.", ja: "ビーガン・有機・フェアトレードダークチョコ。堆肥化可能なパッケージ。" },
+    links: [
+      { network: "amazon-us", productId: "B00E8FH9MA", rawUrl: "https://www.amazon.com/dp/B00E8FH9MA", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  // --- batch #257: best-glute-resistance-bands-2026 (fitness) ---
+  {
+    id: "victorem-hip-resistance-bands",
+    category: "fitness",
+    badge: "Best Overall Glute Band",
+    name: { en: "Victorem Hip Resistance Bands", ja: "Victorem ヒップレジスタンスバンド" },
+    description: { en: "Fabric loop bands in 3 resistance levels. Non-slip grip prevents rolling during hip thrusts and squats.", ja: "3段階負荷のファブリックループバンド。ヒップスラスト・スクワット中にずれない滑り止めグリップ。" },
+    links: [
+      { network: "amazon-us", productId: "B07NTJPHG1", rawUrl: "https://www.amazon.com/dp/B07NTJPHG1", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "fit-simplify-resistance-loop-bands",
+    category: "fitness",
+    badge: "Best Value Glute Band Set",
+    name: { en: "Fit Simplify Resistance Loop Exercise Bands", ja: "フィットシンプリファイ レジスタンスループバンド" },
+    description: { en: "5-band latex set from extra-light to extra-heavy. Bestselling set for glute activation and warm-ups.", ja: "極軽〜極重5段階ラテックスバンドセット。臀部活性化・ウォームアップのベストセラー。" },
+    links: [
+      { network: "amazon-us", productId: "B01AVDVHTI", rawUrl: "https://www.amazon.com/dp/B01AVDVHTI", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "peach-bands-fabric-set",
+    category: "fitness",
+    badge: "Best Fabric Glute Band Set",
+    name: { en: "Peach Bands Resistance Bands Set", ja: "ピーチバンズ レジスタンスバンドセット" },
+    description: { en: "3-piece fabric booty band set. Wider band prevents digging into skin during heavy hip thrusts.", ja: "3本セット布製ヒップバンド。幅広設計でヘビーヒップスラスト中の食い込みを防止。" },
+    links: [
+      { network: "amazon-us", productId: "B08WFCXH6Y", rawUrl: "https://www.amazon.com/dp/B08WFCXH6Y", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "theraband-resistance-loop",
+    category: "fitness",
+    badge: "Best PT-Grade Glute Band",
+    name: { en: "TheraBand Professional Resistance Band Loop", ja: "セラバンド プロフェッショナル レジスタンスバンドループ" },
+    description: { en: "Clinic-grade latex loop used in sports medicine and PT. Color-coded resistance levels standardized across healthcare settings.", ja: "スポーツ医学・理学療法で使用するクリニックグレードのラテックスループ。医療現場で標準化された色分け負荷。" },
+    links: [
+      { network: "amazon-us", productId: "B000LBXFLI", rawUrl: "https://www.amazon.com/dp/B000LBXFLI", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
+  {
+    id: "gymshark-resistance-band",
+    category: "fitness",
+    badge: "Best Premium Glute Band",
+    name: { en: "Gymshark Resistance Band", ja: "ジムシャーク レジスタンスバンド" },
+    description: { en: "Premium fabric band from the UK fitness brand. Durable knit construction, color-matched to Gymshark apparel.", ja: "人気UKフィットネスブランドのプレミアムファブリックバンド。耐久ニット構造でウェアとカラーコーデ可能。" },
+    links: [
+      { network: "amazon-us", productId: "B08GH4C2VN", rawUrl: "https://www.amazon.com/dp/B08GH4C2VN", markets: ["US", "EU", "global"], approved: true },
+    ],
+  },
 ];
 
 /**
