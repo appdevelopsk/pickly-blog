@@ -24,6 +24,8 @@ const defaultEnv: EnvLookup = (k) => process.env[k];
 
 export interface BuildOptions {
   link: AspLink;
+  /** Product name for search fallback when Amazon tag is not set */
+  productName?: string;
   /** Override env lookup (for testing) */
   env?: EnvLookup;
 }
@@ -35,16 +37,30 @@ const AMAZON_TAG_ENV: Partial<Record<AspNetwork, string>> = {
   "amazon-de": "AFFILIATE_AMAZON_TAG_DE",
 };
 
-export function buildAffiliateUrl({ link, env = defaultEnv }: BuildOptions): string {
-  if (link.rawUrl) {
-    // Amazonネットワークの場合: rawUrlにアフィリエイトタグを注入する
-    const tagEnvKey = AMAZON_TAG_ENV[link.network];
-    if (tagEnvKey) {
-      const tag = env(tagEnvKey);
-      if (tag) return injectAmazonTag(link.rawUrl, tag);
+const AMAZON_HOSTS: Partial<Record<AspNetwork, string>> = {
+  "amazon-jp": "amazon.co.jp",
+  "amazon-us": "amazon.com",
+  "amazon-uk": "amazon.co.uk",
+  "amazon-de": "amazon.de",
+};
+
+export function buildAffiliateUrl({ link, productName, env = defaultEnv }: BuildOptions): string {
+  const tagEnvKey = AMAZON_TAG_ENV[link.network];
+  const amazonHost = AMAZON_HOSTS[link.network];
+
+  if (tagEnvKey && amazonHost) {
+    const tag = env(tagEnvKey);
+    if (tag) {
+      // タグあり → ASINリンクにタグを注入
+      const base = link.rawUrl ?? `https://www.${amazonHost}/dp/${link.productId}`;
+      return injectAmazonTag(base, tag);
     }
-    return link.rawUrl;
+    // タグなし → ASIN URLは404リスクがあるため商品名検索にフォールバック
+    const q = encodeURIComponent(productName ?? link.productId);
+    return `https://www.${amazonHost}/s?k=${q}`;
   }
+
+  if (link.rawUrl) return link.rawUrl;
 
   const builders: Record<AspNetwork, (id: string, e: EnvLookup) => string> = {
     "amazon-jp": (id, e) => amazon(id, e("AFFILIATE_AMAZON_TAG_JP"), "amazon.co.jp"),

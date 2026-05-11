@@ -3,6 +3,7 @@ import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import type { ArticleMeta } from "@/lib/articles/types";
+import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -59,9 +60,7 @@ function ArticleCard({
             loading="lazy"
           />
         ) : (
-          <div className="w-full h-full flex items-center justify-center text-4xl">
-            {cm.emoji}
-          </div>
+          <CategoryPlaceholder category={article.category} />
         )}
         <span className={`absolute top-2 left-2 rounded-full border px-2 py-0.5 text-xs font-semibold ${cm.color}`}>
           {catLabel}

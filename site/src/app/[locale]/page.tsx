@@ -2,6 +2,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
+import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -93,9 +94,7 @@ export default async function HomePage({ params }: Props) {
                           loading="lazy"
                         />
                       ) : (
-                        <div className="w-full h-full flex items-center justify-center text-3xl text-slate-300">
-                          📋
-                        </div>
+                        <CategoryPlaceholder category={a.category} />
                       )}
                     </div>
                     <div className="p-4">

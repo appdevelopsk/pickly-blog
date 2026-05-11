@@ -1,5 +1,5 @@
 import { useLocale, useTranslations } from "next-intl";
-import type { ArticleContent, ArticleMeta, ArticleCategory } from "@/lib/articles/types";
+import type { ArticleContent, ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { AffiliateLink } from "@/components/AffiliateLink";
 
@@ -72,28 +72,26 @@ export function ArticleBody({ meta, content, offers }: Props) {
               id={`offer-${o.id}`}
               className="mb-10 scroll-mt-20 border-b border-slate-100 pb-10 last:border-0"
             >
-              {/* Image + title row */}
+              {/* Title + image row */}
               <div className="mb-4 flex gap-4">
-                <div className="h-24 w-24 shrink-0 overflow-hidden rounded-xl">
-                  {o.imageUrl ? (
-                    // eslint-disable-next-line @next/next/no-img-element
+                {o.imageUrl && (
+                  <div className="h-28 w-28 shrink-0 overflow-hidden rounded-xl border border-slate-100 bg-white">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
                       src={o.imageUrl}
                       alt={name}
-                      className="h-full w-full object-cover"
+                      className="h-full w-full object-contain p-1"
                       loading="lazy"
                     />
-                  ) : (
-                    <CategoryPlaceholder category={meta.category} />
-                  )}
-                </div>
-                <div className="flex-1 min-w-0">
-                  <div className="mb-1 flex flex-wrap items-baseline gap-2">
-                    <span className="text-xl font-black text-brand-600 leading-none">#{i + 1}</span>
-                    <h2 className="text-lg font-bold text-slate-900 leading-snug">{name}</h2>
+                  </div>
+                )}
+                <div className="flex-1 min-w-0 flex flex-col justify-center">
+                  <div className="flex flex-wrap items-baseline gap-2 mb-1">
+                    <span className="text-2xl font-black text-brand-600 leading-none">#{i + 1}</span>
+                    <h2 className="text-xl font-bold text-slate-900">{name}</h2>
                   </div>
                   {product?.badge && (
-                    <span className="inline-block rounded-full bg-amber-100 px-2.5 py-0.5 text-xs font-bold text-amber-800">
+                    <span className="inline-block w-fit rounded-full bg-amber-100 px-2.5 py-0.5 text-xs font-bold text-amber-800">
                       {product.badge}
                     </span>
                   )}
@@ -141,7 +139,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
                 </div>
               )}
 
-              <AffiliateLink offer={o} hideBadge />
+              <AffiliateLink offer={o} variant="button" />
             </section>
           );
         })}
@@ -207,30 +205,6 @@ export function ArticleBody({ meta, content, offers }: Props) {
         </section>
       )}
     </article>
-  );
-}
-
-function CategoryPlaceholder({ category }: { category: ArticleCategory }) {
-  const map: Record<ArticleCategory, { emoji: string; from: string; to: string }> = {
-    fitness:  { emoji: "💪", from: "#dbeafe", to: "#bfdbfe" },
-    food:     { emoji: "🍽️", from: "#dcfce7", to: "#bbf7d0" },
-    tech:     { emoji: "💻", from: "#ede9fe", to: "#ddd6fe" },
-    home:     { emoji: "🏠", from: "#fef9c3", to: "#fef08a" },
-    beauty:   { emoji: "✨", from: "#fce7f3", to: "#fbcfe8" },
-    fashion:  { emoji: "👗", from: "#ffedd5", to: "#fed7aa" },
-    finance:  { emoji: "💰", from: "#d1fae5", to: "#a7f3d0" },
-    travel:   { emoji: "✈️", from: "#e0f2fe", to: "#bae6fd" },
-    parenting:{ emoji: "👶", from: "#fef3c7", to: "#fde68a" },
-    pets:     { emoji: "🐾", from: "#f3e8ff", to: "#e9d5ff" },
-  };
-  const { emoji, from, to } = map[category] ?? { emoji: "📦", from: "#f1f5f9", to: "#e2e8f0" };
-  return (
-    <div
-      className="flex h-full w-full items-center justify-center text-3xl"
-      style={{ background: `linear-gradient(135deg, ${from}, ${to})` }}
-    >
-      {emoji}
-    </div>
   );
 }
 

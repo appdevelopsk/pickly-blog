@@ -7,7 +7,7 @@ import type { AffiliateOffer } from "@/lib/affiliates/types";
 interface Props {
   offer: AffiliateOffer;
   note?: string;
-  variant?: "card" | "inline";
+  variant?: "card" | "inline" | "button";
   hideBadge?: boolean;
 }
 
@@ -23,6 +23,19 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
   if (!link) {
     const amazonHost = amazonHostForMarket(market);
     const fallbackUrl = `${amazonHost}/s?k=${encodeURIComponent(name)}`;
+
+    if (variant === "button") {
+      return (
+        <a
+          href={fallbackUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-1 rounded-md border border-slate-300 px-4 py-2 text-sm font-medium text-slate-600 hover:border-slate-400 transition-colors"
+        >
+          {t("offer.searchOnAmazon")} →
+        </a>
+      );
+    }
 
     if (variant === "inline") {
       return (
@@ -56,7 +69,22 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
 
   const ctaLabel = offer.cta?.[locale as keyof typeof offer.cta] ?? offer.cta?.en ?? t("offer.defaultCta");
   const isApproved = link.approved;
-  const href = isApproved ? buildAffiliateUrl({ link }) : "#";
+  const href = isApproved ? buildAffiliateUrl({ link, productName: offer.name.en ?? name }) : "#";
+
+  if (variant === "button") {
+    return isApproved ? (
+      <a
+        href={href}
+        target="_blank"
+        rel="sponsored noopener noreferrer"
+        className="inline-flex items-center gap-1 rounded-md bg-brand-600 px-4 py-2 text-sm font-semibold text-white hover:bg-brand-700 transition-colors"
+      >
+        {ctaLabel} →
+      </a>
+    ) : (
+      <span className="text-xs italic text-slate-400">{t("offer.pending")}</span>
+    );
+  }
 
   if (variant === "inline") {
     return isApproved ? (
