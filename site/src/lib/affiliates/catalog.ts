@@ -16207,6 +16207,118 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "amazon-us", productId: "B01NAH9ESN", rawUrl: "https://www.amazon.com/dp/B01NAH9ESN", markets: ["US"], approved: true },
     ],
   },
+  // ── best-granola-2026 ──────────────────────────────────────────────────
+  {
+    id: "bobs-red-mill-old-fashioned-rolled-oats-granola",
+    category: "food",
+    badge: "Best Overall Granola",
+    name: { en: "Bob's Red Mill Old Fashioned Granola", ja: "Bob's Red Mill オールドファッション・グラノーラ" },
+    description: { en: "Whole grain rolled oats granola with honey and brown sugar, clean ingredients, consistent clusters", ja: "全粒ロールドオーツ使用、ハチミツとブラウンシュガーのグラノーラ。素材クリーンで安定したクラスター" },
+    links: [
+      { network: "amazon-jp", productId: "B07G4Y8HJH", rawUrl: "https://www.amazon.co.jp/dp/B07G4Y8HJH", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07G4Y8HJH", rawUrl: "https://www.amazon.com/dp/B07G4Y8HJH", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "kind-healthy-grains-oats-honey-toasted-coconut-granola",
+    category: "food",
+    badge: "Best Clusters Granola",
+    name: { en: "KIND Healthy Grains Granola", ja: "KIND ヘルシーグレインズ グラノーラ" },
+    description: { en: "Multi-grain cluster granola with oats, quinoa, millet, amaranth, and toasted coconut", ja: "オーツ・キノア・キビ・アマランサス・トーストコアのマルチグレイン・クラスターグラノーラ" },
+    links: [
+      { network: "amazon-jp", productId: "B00BWSRBOE", rawUrl: "https://www.amazon.co.jp/dp/B00BWSRBOE", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00BWSRBOE", rawUrl: "https://www.amazon.com/dp/B00BWSRBOE", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "nature-valley-oats-honey-granola",
+    category: "food",
+    badge: "Best Value Granola",
+    name: { en: "Nature Valley Oats & Honey Granola", ja: "Nature Valley オーツ＆ハニーグラノーラ" },
+    description: { en: "Mainstream oats and honey granola, widely available, reliable crunch at everyday price", ja: "メインストリームのオーツ＆ハニーグラノーラ。安定したクランチで日常使い価格" },
+    links: [
+      { network: "amazon-jp", productId: "B000FKJPAI", rawUrl: "https://www.amazon.co.jp/dp/B000FKJPAI", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000FKJPAI", rawUrl: "https://www.amazon.com/dp/B000FKJPAI", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "purely-elizabeth-ancient-grain-granola",
+    category: "food",
+    badge: "Best Premium Granola",
+    name: { en: "Purely Elizabeth Ancient Grain Granola", ja: "Purely Elizabeth アンシェントグレイン グラノーラ" },
+    description: { en: "Gluten-free granola with coconut sugar, coconut oil, and ancient grains quinoa, millet, amaranth", ja: "グルテンフリー認証。ヤシ砂糖・ヤシ油・アンシェントグレイン（キノア・キビ・アマランサス）使用" },
+    links: [
+      { network: "amazon-jp", productId: "B007KOFZAM", rawUrl: "https://www.amazon.co.jp/dp/B007KOFZAM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B007KOFZAM", rawUrl: "https://www.amazon.com/dp/B007KOFZAM", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "cascadian-farm-organic-oats-honey-granola",
+    category: "food",
+    badge: "Best Organic Granola",
+    name: { en: "Cascadian Farm Organic Granola", ja: "Cascadian Farm オーガニック グラノーラ" },
+    description: { en: "USDA organic certified granola with organic oats, honey, and sunflower oil", ja: "有機オーツ・有機ハチミツ・有機ひまわり油使用のUSDAオーガニック認証グラノーラ" },
+    links: [
+      { network: "amazon-jp", productId: "B000N7XBFW", rawUrl: "https://www.amazon.co.jp/dp/B000N7XBFW", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B000N7XBFW", rawUrl: "https://www.amazon.com/dp/B000N7XBFW", markets: ["US"], approved: true },
+    ],
+  },
+  // ── best-pre-workout-supplement-2026 ──────────────────────────────────
+  {
+    id: "transparent-labs-bulk-pre-workout",
+    category: "fitness",
+    badge: "Best Overall Pre-Workout",
+    name: { en: "Transparent Labs BULK Pre-Workout", ja: "Transparent Labs BULK プレワークアウト" },
+    description: { en: "Fully disclosed pre-workout with clinically dosed citrulline 8g, beta-alanine 4g, betaine 2.5g, caffeine 200mg + L-theanine 200mg", ja: "シトルリン8g・ベータアラニン4g・ベタイン2.5g・カフェイン200mg＋L-テアニン200mgの完全開示プレワークアウト" },
+    links: [
+      { network: "amazon-jp", productId: "B01MUQWL5K", rawUrl: "https://www.amazon.co.jp/dp/B01MUQWL5K", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B01MUQWL5K", rawUrl: "https://www.amazon.com/dp/B01MUQWL5K", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "legion-pulse-pre-workout",
+    category: "fitness",
+    badge: "Best Stimulant-Free Option",
+    name: { en: "Legion Pulse Pre-Workout", ja: "Legion Pulse プレワークアウト" },
+    description: { en: "Fully disclosed pre-workout available in caffeinated 350mg and stimulant-free versions, both fully dosed", ja: "カフェイン350mg版とスティムフリー版の両方を完全用量で提供する完全開示プレワークアウト" },
+    links: [
+      { network: "amazon-jp", productId: "B071VXHYF4", rawUrl: "https://www.amazon.co.jp/dp/B071VXHYF4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B071VXHYF4", rawUrl: "https://www.amazon.com/dp/B071VXHYF4", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "optimum-nutrition-gold-standard-pre-workout",
+    category: "fitness",
+    badge: "Best Mainstream Pre-Workout",
+    name: { en: "Optimum Nutrition Gold Standard Pre-Workout", ja: "Optimum Nutrition ゴールドスタンダード プレワークアウト" },
+    description: { en: "Entry-level pre-workout from the most trusted supplement brand, 175mg caffeine, creatine, beta-alanine", ja: "最信頼のサプリブランドのエントリーレベルプレワークアウト。カフェイン175mg・クレアチン・ベータアラニン配合" },
+    links: [
+      { network: "amazon-jp", productId: "B00JWMX4V4", rawUrl: "https://www.amazon.co.jp/dp/B00JWMX4V4", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00JWMX4V4", rawUrl: "https://www.amazon.com/dp/B00JWMX4V4", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "c4-original-pre-workout",
+    category: "fitness",
+    badge: "Best Entry-Level Pre-Workout",
+    name: { en: "C4 Original Pre-Workout", ja: "C4 オリジナル プレワークアウト" },
+    description: { en: "Best-selling beginner pre-workout with 150mg caffeine and beta-alanine for a clean, manageable energy boost", ja: "カフェイン150mgとベータアラニン配合のベストセラー入門プレワークアウト" },
+    links: [
+      { network: "amazon-jp", productId: "B00E8YHHCM", rawUrl: "https://www.amazon.co.jp/dp/B00E8YHHCM", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B00E8YHHCM", rawUrl: "https://www.amazon.com/dp/B00E8YHHCM", markets: ["US"], approved: true },
+    ],
+  },
+  {
+    id: "ghost-legend-pre-workout",
+    category: "fitness",
+    badge: "Best Flavor Pre-Workout",
+    name: { en: "Ghost Legend Pre-Workout", ja: "Ghost Legend プレワークアウト" },
+    description: { en: "Licensed candy-brand flavors with transparent labeling, 250mg caffeine, citrulline 4g, beta-alanine 3.2g", ja: "ライセンスキャンディフレーバー・透明ラベル・カフェイン250mg・シトルリン4g・ベータアラニン3.2g" },
+    links: [
+      { network: "amazon-jp", productId: "B07F4RLS1V", rawUrl: "https://www.amazon.co.jp/dp/B07F4RLS1V", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07F4RLS1V", rawUrl: "https://www.amazon.com/dp/B07F4RLS1V", markets: ["US"], approved: true },
+    ],
+  },
 ];
 
 /**
