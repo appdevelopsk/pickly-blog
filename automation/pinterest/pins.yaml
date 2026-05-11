@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 246 articles x 6 variants x 2 locales (en, ja) = 2952 pins (growing)
+# 248 articles x 6 variants x 2 locales (en, ja) = 2976 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -31275,4 +31275,176 @@ pins:
   title: "競技用 vs 練習用レスリングシューズ：いつ何を使うか"
   description: "試合に取っておくと競技シューズは長持ち。試合日はスプリットアウトソール、毎日のドリルはカップソール。パフォーマンスを犠牲にせずにシューズの寿命を延ばす方法。"
   image: /og/best-wrestling-shoes-2026-ja.png
+  board: fitness-ja
+
+# best-lemon-ginger-tea-2026
+- url: https://pickly.blog/en/best-lemon-ginger-tea-2026/
+  locale: en
+  variant: comparison
+  title: "Best Lemon Ginger Tea 2026: 5 Tested for Real Citrus and Real Ginger"
+  description: "Most lemon ginger teas have too little of both. We tested 5 to find which ones nail the balance — actual lemon flavor, actual ginger warmth, not just warm water."
+  image: /og/best-lemon-ginger-tea-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/best-lemon-ginger-tea-2026/
+  locale: en
+  variant: top1
+  title: "Celestial Seasonings Lemon Ginger: The Everyday Standard"
+  description: "Lemongrass + lemon myrtle + ginger root. No artificial flavoring. The balance holds through the full cup without the lemon fading. The benchmark for accessible lemon ginger teas."
+  image: /og/best-lemon-ginger-tea-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/best-lemon-ginger-tea-2026/
+  locale: en
+  variant: problem
+  title: "Why Your Lemon Ginger Tea Tastes Like Nothing"
+  description: "If 'lemon' on the label just means citric acid, you're getting tartness without depth. Check for lemon myrtle, lemongrass, or lemon peel — those mean actual lemon flavor."
+  image: /og/best-lemon-ginger-tea-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/best-lemon-ginger-tea-2026/
+  locale: en
+  variant: budget
+  title: "Best Value Lemon Ginger Tea: Bigelow Foil-Wrapped"
+  description: "Foil-wrapped for freshness, priced for daily use. Bigelow's lemon ginger delivers consistent quality without medicinal-grade prices — the everyday workhorse pick."
+  image: /og/best-lemon-ginger-tea-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/best-lemon-ginger-tea-2026/
+  locale: en
+  variant: avoid
+  title: "Lemon Ginger Tea Mistake: Buying Without Checking the Ingredient List"
+  description: "Citric acid alone = sour water. Natural lemon flavor = thin. Look for lemon myrtle, lemongrass, or lemon peel in the ingredients before you buy."
+  image: /og/best-lemon-ginger-tea-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/best-lemon-ginger-tea-2026/
+  locale: en
+  variant: scene
+  title: "Lemon Ginger Tea for Cold Season: What Actually Works"
+  description: "Ginger has real anti-inflammatory properties. Lemon provides vitamin C. Hot liquid helps with congestion. Choose Traditional Medicinals for maximum therapeutic benefit."
+  image: /og/best-lemon-ginger-tea-2026-en.png
+  board: food-en
+- url: https://pickly.blog/ja/best-lemon-ginger-tea-2026/
+  locale: ja
+  variant: comparison
+  title: "レモンジンジャーティーおすすめ2026：本物の柑橘と本物のショウガで選ぶ5選"
+  description: "ほとんどのレモンジンジャーティーは両方が少なすぎる。5種を検証してバランスを実現しているものを見つけました——本物のレモン風味、本物のショウガの温かさ。"
+  image: /og/best-lemon-ginger-tea-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/best-lemon-ginger-tea-2026/
+  locale: ja
+  variant: top1
+  title: "セレスティアルシーズニングス レモンジンジャー：毎日飲める基準"
+  description: "レモングラス＋レモンマートル＋ショウガの根。人工香料なし。冷めてもレモンが消えないバランス。アクセスしやすいレモンジンジャーティーのカテゴリ標準。"
+  image: /og/best-lemon-ginger-tea-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/best-lemon-ginger-tea-2026/
+  locale: ja
+  variant: problem
+  title: "レモンジンジャーティーが薄く感じる理由"
+  description: "「レモン」がクエン酸だけなら深みのない酸味しか得られません。レモンマートル・レモングラス・レモンの皮の表示があるかを確認してください。"
+  image: /og/best-lemon-ginger-tea-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/best-lemon-ginger-tea-2026/
+  locale: ja
+  variant: budget
+  title: "コスパ最強レモンジンジャー：ビゲロー アルミ包装"
+  description: "アルミホイル包装で鮮度を保ち、毎日使える価格設定。薬用グレードの価格を払わずに一貫した品質を求める家庭の定番選択。"
+  image: /og/best-lemon-ginger-tea-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/best-lemon-ginger-tea-2026/
+  locale: ja
+  variant: avoid
+  title: "レモンジンジャーティーの失敗：成分表を確認しないで買う"
+  description: "クエン酸だけ＝酸っぱいお湯。天然レモン風味だけ＝薄い。購入前にレモンマートル・レモングラス・レモンの皮が入っているか確認を。"
+  image: /og/best-lemon-ginger-tea-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/best-lemon-ginger-tea-2026/
+  locale: ja
+  variant: scene
+  title: "風邪の季節のレモンジンジャーティー：実際に効くもの"
+  description: "ショウガには本物の抗炎症作用があります。レモンはビタミンCを提供。熱い液体は充血に効果的。最大の治療効果にはトラディショナルメディシナルズを選んでください。"
+  image: /og/best-lemon-ginger-tea-2026-ja.png
+  board: food-ja
+
+# best-badminton-racket-2026
+- url: https://pickly.blog/en/best-badminton-racket-2026/
+  locale: en
+  variant: comparison
+  title: "Best Badminton Rackets 2026: 5 Tested for Speed, Power, and Control"
+  description: "The right racket depends on your skill level and playing style. We tested five from professional-grade to recreational to find where the actual value is."
+  image: /og/best-badminton-racket-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/best-badminton-racket-2026/
+  locale: en
+  variant: top1
+  title: "Yonex Astrox 88D Pro: Maximum Smash Power for Doubles"
+  description: "Head-heavy, extra-stiff, Namd graphite. Built for steep powerful smashes in doubles. Not forgiving of mistimed hits — rewards advanced consistent technique."
+  image: /og/best-badminton-racket-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/best-badminton-racket-2026/
+  locale: en
+  variant: problem
+  title: "Why Your Badminton Racket Feels Wrong"
+  description: "Too stiff = can't generate power without pro technique. Too flexible = lose precision for net play. Match shaft flex to your actual swing speed, not your aspiration."
+  image: /og/best-badminton-racket-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/best-badminton-racket-2026/
+  locale: en
+  variant: budget
+  title: "Victor Thruster K 9900: Competition Level Without Yonex Prices"
+  description: "Pyrofil carbon comparable to Namd graphite. Slightly less extreme balance than Astrox 88D — more accessible. Typically priced below equivalent Yonex models."
+  image: /og/best-badminton-racket-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/best-badminton-racket-2026/
+  locale: en
+  variant: avoid
+  title: "Badminton Racket Mistake: Buying Stiff If You Play Less Than Twice a Week"
+  description: "Stiff shafts require fast aggressive swing speeds to work correctly. If you're not playing regularly, a stiff shaft will feel unresponsive. Go medium flex."
+  image: /og/best-badminton-racket-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/best-badminton-racket-2026/
+  locale: en
+  variant: scene
+  title: "Singles vs Doubles: Choosing the Right Badminton Racket"
+  description: "Head-heavy for doubles smash power. Head-light for singles speed and recovery. Even-balanced for both. Your game style should drive the balance point decision."
+  image: /og/best-badminton-racket-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/ja/best-badminton-racket-2026/
+  locale: ja
+  variant: comparison
+  title: "バドミントンラケットおすすめ2026：5本をスピード・パワー・コントロールで検証"
+  description: "適切なラケットはスキルレベルとプレイスタイルによります。プロレベルからレクリエーションまで5本を検証し、本当の価値がどこにあるかを見つけました。"
+  image: /og/best-badminton-racket-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/best-badminton-racket-2026/
+  locale: ja
+  variant: top1
+  title: "ヨネックス アストロクス88D プロ：ダブルス最強スマッシュ"
+  description: "ヘッドヘビー・超硬シャフト・Namdグラファイト。急峻なパワースマッシュのために設計。タイミングが外れると容赦なし——一貫したテクニックを持つ上級者向け。"
+  image: /og/best-badminton-racket-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/best-badminton-racket-2026/
+  locale: ja
+  variant: problem
+  title: "バドミントンラケットが合わない理由"
+  description: "硬すぎ＝プロのテクニックなしにパワーが出ない。柔らかすぎ＝ネットプレーの精度が落ちる。シャフトフレックスは目標ではなく実際のスイングスピードに合わせること。"
+  image: /og/best-badminton-racket-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/best-badminton-racket-2026/
+  locale: ja
+  variant: budget
+  title: "ビクター スラスターK 9900：ヨネックス価格なしの競技レベル"
+  description: "NamdグラファイトにMatchするPyrofilカーボン。アストロクス88Dより少し穏やかなバランス。同等のヨネックスモデルより低価格で競技パフォーマンスを実現。"
+  image: /og/best-badminton-racket-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/best-badminton-racket-2026/
+  locale: ja
+  variant: avoid
+  title: "バドミントンラケットの失敗：週2回未満なのに硬いシャフトを買う"
+  description: "硬いシャフトは速くて積極的なスイングスピードが必要。定期的にプレーしていなければ反応がなく不正確に感じます。ミディアムフレックスを選んでください。"
+  image: /og/best-badminton-racket-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/best-badminton-racket-2026/
+  locale: ja
+  variant: scene
+  title: "シングルス vs ダブルス：適切なバドミントンラケットの選び方"
+  description: "ダブルスのスマッシュパワーにはヘッドヘビー。シングルスのスピードとリカバリーにはヘッドライト。両方には均等バランス。ゲームスタイルでバランスポイントを決める。"
+  image: /og/best-badminton-racket-2026-ja.png
   board: fitness-ja
