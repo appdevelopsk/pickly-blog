@@ -1,5 +1,5 @@
 # Pickly Pinterest pin catalog
-# 248 articles x 6 variants x 2 locales (en, ja) = 2976 pins (growing)
+# 250 articles x 6 variants x 2 locales (en, ja) = 3000 pins (growing)
 # Variants: comparison | top1 | problem | budget | avoid | scene
 #
 # Field reference (for Pinterest API bulk poster):
@@ -31447,4 +31447,172 @@ pins:
   title: "シングルス vs ダブルス：適切なバドミントンラケットの選び方"
   description: "ダブルスのスマッシュパワーにはヘッドヘビー。シングルスのスピードとリカバリーにはヘッドライト。両方には均等バランス。ゲームスタイルでバランスポイントを決める。"
   image: /og/best-badminton-racket-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/en/best-granola-2026/
+  locale: en
+  variant: comparison
+  title: "Best Granola 2026: Crunch, Clusters, and Ingredient Quality That Matter"
+  description: "Granola fails two ways: too sweet (dessert, not breakfast) or too sparse (plain toasted oats). We tested 5 for cluster formation, sweetness balance, and ingredient quality."
+  image: /og/best-granola-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/best-granola-2026/
+  locale: en
+  variant: top1
+  title: "Bob's Red Mill Granola: The Everyday Benchmark"
+  description: "Short readable ingredients: whole grain oats, honey, sunflower oil, brown sugar, vanilla. No artificial additives. Holds up in milk. The reliable daily granola that doesn't try to be exciting."
+  image: /og/best-granola-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/best-granola-2026/
+  locale: en
+  variant: problem
+  title: "Why Granola Goes Soggy in Milk (And How to Fix It)"
+  description: "High-sugar densely baked granola disintegrates within minutes of milk contact. Best granolas are baked hotter and longer. Clusters outperform loose granola. Test: do clusters hold 3-4 minutes?"
+  image: /og/best-granola-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/best-granola-2026/
+  locale: en
+  variant: budget
+  title: "Nature Valley vs Bob's Red Mill: Which Granola Is Worth It?"
+  description: "Nature Valley is cheaper and widely available. Bob's Red Mill is cleaner ingredients and better cluster structure. The price difference is small enough that Bob's wins for regular buyers."
+  image: /og/best-granola-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/best-granola-2026/
+  locale: en
+  variant: avoid
+  title: "Granola Mistake: Buying for the Flavor You Want, Not How You Eat It"
+  description: "Cluster granola for yogurt toppings (maintains crunch). Loose granola for cereal bowls (integrates with milk). Buying clusters for a cereal bowl or loose for parfaits is the wrong tool for the job."
+  image: /og/best-granola-2026-en.png
+  board: food-en
+- url: https://pickly.blog/en/best-granola-2026/
+  locale: en
+  variant: scene
+  title: "Granola for Yogurt Parfaits vs Cereal Bowls: Different Rules"
+  description: "Parfait: clusters, less sweet, sturdy texture that survives yogurt contact. Cereal: loose, any sweetness, mixes well with milk. KIND and Purely Elizabeth for parfaits. Bob's Red Mill for cereal."
+  image: /og/best-granola-2026-en.png
+  board: food-en
+- url: https://pickly.blog/ja/best-granola-2026/
+  locale: ja
+  variant: comparison
+  title: "グラノーラおすすめ2026：クランチ・クラスター・素材の質を徹底比較"
+  description: "グラノーラの失敗は2パターン：甘すぎてデザート化、スカスカでオーツ麦ただ炒り。5製品をクラスター形成・甘さのバランス・素材品質で検証。"
+  image: /og/best-granola-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/best-granola-2026/
+  locale: ja
+  variant: top1
+  title: "Bob's Red Mill グラノーラ：日常使いの基準品"
+  description: "原材料リストが短くて読みやすい：全粒オーツ・ハチミツ・ひまわり油・ブラウンシュガー・バニラ。人工添加物なし。ミルクに強い。革新的ではないが確かな品質。"
+  image: /og/best-granola-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/best-granola-2026/
+  locale: ja
+  variant: problem
+  title: "グラノーラがミルクでべちゃになる理由と解決策"
+  description: "砂糖分の高い密に焼かれたグラノーラは液体触れると数分で崩壊。高温長時間焼きのものはミルク耐性が高い。クラスターはバラ型より耐久性大。クラスターが3〜4分保つか確認を。"
+  image: /og/best-granola-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/best-granola-2026/
+  locale: ja
+  variant: budget
+  title: "Nature Valley vs Bob's Red Mill：どちらが本当に価値があるか"
+  description: "Nature Valleyはより安価でどこでも入手可能。Bob's Red Millは素材がクリーンでクラスター構造が優れる。価格差が小さいため、定期購入者にはBob'sが勝る。"
+  image: /og/best-granola-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/best-granola-2026/
+  locale: ja
+  variant: avoid
+  title: "グラノーラの失敗：食べ方ではなく好みのフレーバーで選んでいる"
+  description: "ヨーグルトのトッピングにはクラスター型（クランチが持続）。シリアルボウルにはバラ型（ミルクとよく混ざる）。用途に合わないグラノーラを選ぶと結果が毎回外れる。"
+  image: /og/best-granola-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/ja/best-granola-2026/
+  locale: ja
+  variant: scene
+  title: "ヨーグルトパフェ vs シリアルボウル：グラノーラ選びのルールが違う"
+  description: "パフェ：クラスター型・甘さ控えめ・ヨーグルト接触に耐える固さ。シリアル：バラ型・甘さ自由・ミルクと混ざりやすい。パフェにはKIND、シリアルにはBob's Red Mill。"
+  image: /og/best-granola-2026-ja.png
+  board: food-ja
+- url: https://pickly.blog/en/best-pre-workout-supplement-2026/
+  locale: en
+  variant: comparison
+  title: "Best Pre-Workout Supplements 2026: Effective Doses, No Filler, No Crash"
+  description: "Most pre-workouts hide doses in 'proprietary blends' and rely on caffeine alone. We analyzed 5 for ingredient transparency, clinical dose ranges, and crash behavior."
+  image: /og/best-pre-workout-supplement-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/best-pre-workout-supplement-2026/
+  locale: en
+  variant: top1
+  title: "Transparent Labs BULK: When Pre-Workout Actually Does What It Claims"
+  description: "Full label disclosure. Citrulline 8g. Beta-alanine 4g. Betaine 2.5g. Caffeine 200mg + L-theanine 200mg. Focused energy without the crash. Third-party tested. No proprietary blend hiding."
+  image: /og/best-pre-workout-supplement-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/best-pre-workout-supplement-2026/
+  locale: en
+  variant: problem
+  title: "Why You Crash Mid-Workout (It's the Pre-Workout)"
+  description: "High caffeine without L-theanine creates sharp drop-off at 90 minutes. Underdosed beta-alanine only creates tingling without buffering. The fix: choose full-disclosure formulas with caffeine + L-theanine pairing."
+  image: /og/best-pre-workout-supplement-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/best-pre-workout-supplement-2026/
+  locale: en
+  variant: budget
+  title: "C4 vs Optimum Nutrition: Which Entry Pre-Workout Is Worth It?"
+  description: "C4 is 150mg caffeine + sensory beta-alanine tingle. Gold Standard is 175mg caffeine + small creatine dose. Neither hits clinical performance benchmarks — both are fine for beginners."
+  image: /og/best-pre-workout-supplement-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/best-pre-workout-supplement-2026/
+  locale: en
+  variant: avoid
+  title: "Pre-Workout Mistake: Taking It Every Single Day Without Cycling"
+  description: "Caffeine tolerance builds in 4-6 weeks of daily use. Diminishing returns until the dose feels necessary just to function. Fix: 5 days on, 2 days off. Or one stim-free week every 6-8 weeks."
+  image: /og/best-pre-workout-supplement-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/en/best-pre-workout-supplement-2026/
+  locale: en
+  variant: scene
+  title: "Evening Workout? You Need a Stimulant-Free Pre-Workout"
+  description: "Caffeine half-life is 5-6 hours. A 4pm pre-workout still has active caffeine at 10pm. Legion Pulse stim-free delivers full citrulline, beta-alanine, betaine without disrupting sleep."
+  image: /og/best-pre-workout-supplement-2026-en.png
+  board: fitness-en
+- url: https://pickly.blog/ja/best-pre-workout-supplement-2026/
+  locale: ja
+  variant: comparison
+  title: "プレワークアウトおすすめ2026：有効用量・透明性・クラッシュなし"
+  description: "ほとんどのプレワークアウトは独自ブレンドで用量を隠し、カフェインのみに依存。5製品を成分透明性・臨床用量範囲・クラッシュの有無で分析。"
+  image: /og/best-pre-workout-supplement-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/best-pre-workout-supplement-2026/
+  locale: ja
+  variant: top1
+  title: "Transparent Labs BULK：宣伝通りに機能するプレワークアウト"
+  description: "完全ラベル開示。シトルリン8g・ベータアラニン4g・ベタイン2.5g・カフェイン200mg＋L-テアニン200mg。クラッシュのないクリーンな集中エネルギー。独自ブレンドなし。"
+  image: /og/best-pre-workout-supplement-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/best-pre-workout-supplement-2026/
+  locale: ja
+  variant: problem
+  title: "ワークアウト途中にクラッシュする原因はプレワークアウト"
+  description: "L-テアニンなしの高カフェインは90分後に急落。用量不足のベータアラニンはチクチク感だけでバッファリング効果なし。対策：カフェイン＋L-テアニンペアの完全開示製品を選ぶ。"
+  image: /og/best-pre-workout-supplement-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/best-pre-workout-supplement-2026/
+  locale: ja
+  variant: budget
+  title: "C4 vs Optimum Nutrition：どちらの入門プレワークアウトが価値あるか"
+  description: "C4はカフェイン150mg＋感覚的ベータアラニンのチクチク感。Gold Standardはカフェイン175mg＋少量クレアチン。どちらも臨床ベンチマーク未満——初心者には両方OK。"
+  image: /og/best-pre-workout-supplement-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/best-pre-workout-supplement-2026/
+  locale: ja
+  variant: avoid
+  title: "プレワークアウトの失敗：サイクルなしで毎日飲み続ける"
+  description: "カフェイン耐性は毎日使用4〜6週間で形成。効果が薄れるまで増量が続く悪循環。対策：週5日オン・2日オフ。または6〜8週ごとに1週間スティムフリー週間。"
+  image: /og/best-pre-workout-supplement-2026-ja.png
+  board: fitness-ja
+- url: https://pickly.blog/ja/best-pre-workout-supplement-2026/
+  locale: ja
+  variant: scene
+  title: "夜トレーニングするならスティムフリーのプレワークアウトが必要"
+  description: "カフェインの半減期は5〜6時間。午後4時のプレワークアウトが午後10時まで影響。Legion Pulseスティムフリーはシトルリンとベータアラニンとベタインの全量を睡眠を乱さずに届ける。"
+  image: /og/best-pre-workout-supplement-2026-ja.png
   board: fitness-ja
