@@ -52,6 +52,12 @@ export interface ArticleFAQ {
   a: string;
 }
 
+export interface ArticleProduct {
+  offerId: string;
+  badge: string;
+  review: string;
+}
+
 /**
  * Per-locale article content. JSON keyed by locale.
  * Stored in src/articles/<slug>/messages/<locale>.json
@@ -64,6 +70,7 @@ export interface ArticleContent {
   lede: string;
   sections: ArticleSection[];
   faqs: ArticleFAQ[];
+  products?: ArticleProduct[];
   /** Optional per-offer note shown next to the affiliate link */
   offerNotes?: Record<string, string>;
   /** Pinterest pin description — emotional, 120-200 chars, no "click here" */

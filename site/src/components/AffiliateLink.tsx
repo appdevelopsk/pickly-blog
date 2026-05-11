@@ -6,30 +6,20 @@ import type { AffiliateOffer } from "@/lib/affiliates/types";
 
 interface Props {
   offer: AffiliateOffer;
-  /** Optional: per-offer note from the article */
   note?: string;
-  /** Compact rendering for in-line use vs card style */
   variant?: "card" | "inline";
+  hideBadge?: boolean;
 }
 
-/**
- * 1 offer = 1 affiliate link card/button.
- * - 自動でロケール→市場推定→最適なASPリンク選択
- * - rel="sponsored noopener noreferrer" 必須（SEO + ASP規約）
- * - approved=false のリンクは disabled 表示
- * - リンクが当該市場に存在しない場合は「ご利用地域では未対応」表示 + Amazonローカル検索リンク提供
- */
-export function AffiliateLink({ offer, note, variant = "card" }: Props) {
+export function AffiliateLink({ offer, note, variant = "card", hideBadge = false }: Props) {
   const locale = useLocale();
   const t = useTranslations();
   const market = inferMarketFromLocale(locale);
   const link = pickLink(offer, market, { onlyApproved: false });
 
-  const name = offer.name[locale] ?? offer.name.en ?? offer.id;
-  const desc = offer.description[locale] ?? offer.description.en ?? "";
+  const name = offer.name[locale as keyof typeof offer.name] ?? offer.name.en ?? offer.id;
+  const desc = offer.description[locale as keyof typeof offer.description] ?? offer.description.en ?? "";
 
-  // リンクが見つからない = この market 用 ASP リンク未整備
-  // → Amazon ローカル検索でフォールバック (報酬発生せずだが UX 維持)
   if (!link) {
     const amazonHost = amazonHostForMarket(market);
     const fallbackUrl = `${amazonHost}/s?k=${encodeURIComponent(name)}`;
@@ -47,27 +37,24 @@ export function AffiliateLink({ offer, note, variant = "card" }: Props) {
       );
     }
     return (
-      <article className="flex h-full flex-col rounded-lg border border-dashed border-slate-300 bg-slate-50 p-4">
-        <header className="mb-2 flex items-start gap-2">
-          {offer.badge && <span aria-hidden className="text-xl leading-none">{offer.badge}</span>}
-          <h3 className="flex-1 text-base font-semibold">{name}</h3>
-        </header>
-        <p className="flex-1 text-sm text-slate-600">{desc}</p>
-        {note && <p className="mt-2 text-xs text-slate-500 italic">{note}</p>}
-        <p className="mt-3 text-xs text-slate-500">{t("offer.regionFallback")}</p>
+      <div className="rounded-lg border border-dashed border-slate-300 bg-slate-50 p-4">
+        <p className="mb-2 font-semibold text-slate-700">{name}</p>
+        {desc && <p className="mb-3 text-sm text-slate-500">{desc}</p>}
+        {note && <p className="mb-2 text-xs italic text-slate-400">{note}</p>}
+        <p className="mb-2 text-xs text-slate-400">{t("offer.regionFallback")}</p>
         <a
           href={fallbackUrl}
           target="_blank"
           rel="noopener noreferrer"
-          className="mt-2 inline-flex w-fit items-center gap-1 text-sm font-medium text-slate-700 underline-offset-2 hover:underline"
+          className="text-sm font-medium text-slate-600 underline-offset-2 hover:underline"
         >
           {t("offer.searchOnAmazon")} →
         </a>
-      </article>
+      </div>
     );
   }
 
-  const ctaLabel = offer.cta?.[locale] ?? offer.cta?.en ?? t("offer.defaultCta");
+  const ctaLabel = offer.cta?.[locale as keyof typeof offer.cta] ?? offer.cta?.en ?? t("offer.defaultCta");
   const isApproved = link.approved;
   const href = isApproved ? buildAffiliateUrl({ link }) : "#";
 
@@ -82,45 +69,47 @@ export function AffiliateLink({ offer, note, variant = "card" }: Props) {
         {name}
       </a>
     ) : (
-      <span className="text-slate-500 italic">{name}</span>
+      <span className="italic text-slate-500">{name}</span>
     );
   }
 
   return (
-    <article
+    <div
       className={
-        "flex h-full flex-col rounded-lg border p-4 " +
+        "rounded-lg border p-4 " +
         (isApproved
-          ? "border-slate-200 bg-white hover:border-brand-500 hover:bg-brand-50"
-          : "cursor-not-allowed border-dashed border-slate-300 bg-slate-50 opacity-70")
+          ? "border-slate-200 bg-white hover:border-brand-400 hover:shadow-sm transition-shadow"
+          : "cursor-not-allowed border-dashed border-slate-300 bg-slate-50 opacity-60")
       }
     >
-      <header className="mb-2 flex items-start gap-2">
-        {offer.badge && (
-          <span aria-hidden className="text-xl leading-none">{offer.badge}</span>
-        )}
-        <h3 className="flex-1 text-base font-semibold">{name}</h3>
-        <span className="rounded-sm bg-slate-200 px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wide text-slate-700">
-          {t("offer.disclosureBadge")}
+      <div className="mb-2 flex items-start justify-between gap-2">
+        <div className="flex flex-wrap items-center gap-1.5">
+          <span className="font-semibold text-slate-900">{name}</span>
+          {!hideBadge && offer.badge && (
+            <span className="rounded-full bg-amber-100 px-2 py-0.5 text-xs font-semibold text-amber-800">
+              {offer.badge}
+            </span>
+          )}
+        </div>
+        <span className="shrink-0 rounded bg-slate-200 px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wide text-slate-600">
+          PR
         </span>
-      </header>
-      <p className="flex-1 text-sm text-slate-600">{desc}</p>
-      {note && <p className="mt-2 text-xs text-slate-500 italic">{note}</p>}
+      </div>
+      {desc && <p className="mb-3 text-sm leading-relaxed text-slate-600">{desc}</p>}
+      {note && <p className="mb-2 text-xs italic text-slate-400">{note}</p>}
       {isApproved ? (
         <a
           href={href}
           target="_blank"
           rel="sponsored noopener noreferrer"
-          className="mt-3 inline-flex w-fit items-center gap-1 rounded-md bg-brand-600 px-3 py-1.5 text-sm font-medium text-white hover:bg-brand-700"
+          className="inline-flex items-center gap-1 rounded-md bg-brand-600 px-4 py-2 text-sm font-semibold text-white hover:bg-brand-700 transition-colors"
         >
           {ctaLabel} →
         </a>
       ) : (
-        <span className="mt-3 inline-block text-xs italic text-slate-500">
-          {t("offer.pending")}
-        </span>
+        <span className="text-xs italic text-slate-400">{t("offer.pending")}</span>
       )}
-    </article>
+    </div>
   );
 }
 
@@ -131,6 +120,6 @@ function amazonHostForMarket(market: string): string {
     case "UK": return "https://www.amazon.co.uk";
     case "EU": return "https://www.amazon.de";
     case "CN": return "https://www.amazon.cn";
-    default: return "https://www.amazon.com";
+    default:   return "https://www.amazon.com";
   }
 }

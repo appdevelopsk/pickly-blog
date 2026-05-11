@@ -40,6 +40,7 @@ export default async function ArticlePage({ params }: Props) {
 
   const rawSections = safeRaw(t, `articles.${slug}.sections`);
   let sections: ArticleContent["sections"] = [];
+  let products: ArticleContent["products"];
 
   if (Array.isArray(rawSections)) {
     sections = rawSections.map((s: Record<string, unknown>) => ({
@@ -54,15 +55,11 @@ export default async function ArticlePage({ params }: Props) {
     const rawGuide = safeRaw(t, `articles.${slug}.buyingGuide`) as Record<string, unknown> | undefined;
 
     if (rawProducts) {
-      for (const [, product] of Object.entries(rawProducts)) {
-        const badge = product.badge ?? "";
-        const review = product.review ?? "";
-        const name = product.name ?? "";
-        sections.push({
-          heading: badge ? `${badge}: ${name}` : name,
-          paragraphs: review ? [review] : [],
-        });
-      }
+      products = Object.entries(rawProducts).map(([id, p]) => ({
+        offerId: id,
+        badge: String(p.badge ?? ""),
+        review: String(p.review ?? ""),
+      }));
     }
 
     if (rawGuide) {
@@ -103,6 +100,7 @@ export default async function ArticlePage({ params }: Props) {
     lede,
     sections,
     faqs,
+    products,
     offerNotes: (safeRaw(t, `articles.${slug}.offerNotes`) ?? {}) as Record<string, string>,
   };
 
