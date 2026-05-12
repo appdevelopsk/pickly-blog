@@ -3343,7 +3343,6 @@ const RAW_CATALOG = [
       ja: "約¥6,000〜9,000の万能ジムダッフル（Mサイズ36L）。独立ベンチレーションシューズコンパートメント、豊富なカラーバリエーション、600Dポリエステル外装。パッド入りノートパソコンスリーブなし；ベンチレーション式シューコンパートメントで臭いが一部流入；600Dポリエステルはコーティングナイロンより湿気を吸収しやすい。",
     },
     links: [
-      { network: "amazon-jp", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.co.jp/dp/B09BFVZS7T", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.com/dp/B09BFVZS7T", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.de/dp/B09BFVZS7T", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nike-brasilia-9-5-md", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike%2BBrasilia%2BGym%2BBag%2F", markets: ["JP"], approved: true },
@@ -3359,7 +3358,6 @@ const RAW_CATALOG = [
       ja: "約¥7,000〜12,000の撥水MDダッフル（58L）。UA Storm撥水仕上げ、モールダブル内部オーガナイズ、専用ウェットポケット。ウェットポケットはメインコンパートメントより小さい；UA Stormコーティングは機械洗いで劣化。",
     },
     links: [
-      { network: "amazon-jp", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.co.jp/dp/B08KGQK7GY", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.com/dp/B08KGQK7GY", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.de/dp/B08KGQK7GY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ua-undeniable-5-md", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUnder%2BArmour%2BUndeniable%2B5%2BDuffle%2F", markets: ["JP"], approved: true },
@@ -3375,7 +3373,6 @@ const RAW_CATALOG = [
       ja: "約¥8,000〜12,000のライフスタイル重視ジムバッグ。スリークなミニマルデザイン、ノートパソコン対応メインコンパートメント、ベンチレーションシューズポーチ、エルゴノミクスパッドストラップ。専用シールドウェットコンパートメントなし；機能に対してプレミアム価格。",
     },
     links: [
-      { network: "amazon-jp", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.co.jp/dp/B0BQJN9P8X", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.com/dp/B0BQJN9P8X", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.de/dp/B0BQJN9P8X", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-gymshark-everyday-bag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGymshark%2BEveryday%2BGym%2BBag%2F", markets: ["JP"], approved: true },
@@ -3391,7 +3388,6 @@ const RAW_CATALOG = [
       ja: "約¥5,000〜7,000のコンパクトなジム→オフィス兼用ダッフル（Sサイズ）。100%リサイクルポリエステル、パッド入りノートパソコンスリーブ、クイックアクセス用フロントジップポケット。ミディアムダッフルより小さいウェットコンパートメント；撥水外装仕上げなし。",
     },
     links: [
-      { network: "amazon-jp", productId: "B09BNLBGCZ", rawUrl: "https://www.amazon.co.jp/dp/B09BNLBGCZ", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B09BNLBGCZ", rawUrl: "https://www.amazon.com/dp/B09BNLBGCZ", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B09BNLBGCZ", rawUrl: "https://www.amazon.de/dp/B09BNLBGCZ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-adidas-defender-4-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9%2B%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%2B4%2B%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -3407,7 +3403,6 @@ const RAW_CATALOG = [
       ja: "約¥3,000〜5,000のコスパ重視ジムダッフル。クラシックなジムブランド、耐久性ポリエステル構造、独立シューズコンパートメント、インナーオーガナイザーポケット付き大容量メインコンパートメント。専用ウェット/ドライ分離のない基本構造；カラーバリエーション少なめ。",
     },
     links: [
-      { network: "amazon-jp", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.co.jp/dp/B07WGPNKQT", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.com/dp/B07WGPNKQT", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.de/dp/B07WGPNKQT", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-golds-gym-duffel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%2B%E3%83%80%E3%83%83%E3%83%95%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -5916,7 +5911,6 @@ const RAW_CATALOG = [
       ja: "クリスタルクリアBPAフリーTritan樹脂、押し込み密閉蓋、エアタイトスタック収納、電子レンジ/食洗機対応",
     },
     links: [
-      { network: "amazon-jp", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.co.jp/dp/B01NBQEZQO", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.com/dp/B01NBQEZQO", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.de/dp/B01NBQEZQO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rubbermaid-brilliance-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRubbermaid+Brilliance%2F", markets: ["JP"], approved: true },
@@ -5931,7 +5925,6 @@ const RAW_CATALOG = [
       ja: "ホウケイ酸ガラス、デュアルヒンジロックタブ付きスマートシール蓋、密閉漏れ防止、オーブン/電子レンジ/冷凍/食洗機対応",
     },
     links: [
-      { network: "amazon-jp", productId: "B0894MJPVB", rawUrl: "https://www.amazon.co.jp/dp/B0894MJPVB", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B0894MJPVB", rawUrl: "https://www.amazon.com/dp/B0894MJPVB", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B0894MJPVB", rawUrl: "https://www.amazon.de/dp/B0894MJPVB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oxo-smart-seal-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO+%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%AB+%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
@@ -5946,7 +5939,6 @@ const RAW_CATALOG = [
       ja: "ホウケイ酸ガラス2室仕切り設計、スナップロック密閉蓋、425°F（220°C）オーブン対応、弁当スタイルの食材分離に最適",
     },
     links: [
-      { network: "amazon-jp", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.co.jp/dp/B07W4SLHQM", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.com/dp/B07W4SLHQM", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.de/dp/B07W4SLHQM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bentgo-glass-meal-prep", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBentgo+%E3%82%AC%E3%83%A9%E3%82%B9+%E4%BD%9C%E3%82%8A%E7%BD%AE%E3%81%8D%2F", markets: ["JP"], approved: true },
@@ -5961,7 +5953,6 @@ const RAW_CATALOG = [
       ja: "強化ソーダライムガラス18点セット、複数サイズ展開、450°F（230°C）オーブン対応、BPAフリー蓋、1915年創業の信頼ブランド",
     },
     links: [
-      { network: "amazon-jp", productId: "B0000CFNBS", rawUrl: "https://www.amazon.co.jp/dp/B0000CFNBS", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B0000CFNBS", rawUrl: "https://www.amazon.com/dp/B0000CFNBS", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B0000CFNBS", rawUrl: "https://www.amazon.de/dp/B0000CFNBS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-pyrex-simply-store-18pc", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%82%A4%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9+%E4%BF%9D%E5%AD%98%E5%AE%B9%E5%99%A8+18%E7%82%B9%2F", markets: ["JP"], approved: true },
@@ -9196,7 +9187,6 @@ const RAW_CATALOG = [
       ja: "1ダンベルあたり5〜52.5lb、2.5lb刻み、ダイヤル式で約2秒で重量変更、15ペア相当、クレードル寸法51cm×20cm。",
     },
     links: [
-      { network: "amazon-jp", productId: "B001ARYU58", rawUrl: "https://www.amazon.co.jp/dp/B001ARYU58", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B001ARYU58", rawUrl: "https://www.amazon.com/dp/B001ARYU58", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B001ARYU58", rawUrl: "https://www.amazon.de/dp/B001ARYU58", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bowflex-selecttech-552", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex%2BSelectTech%2B552%2F", markets: ["JP"], approved: true },
@@ -9211,7 +9201,6 @@ const RAW_CATALOG = [
       ja: "ベース5〜50lb（キットで90lbまで拡張可能）、ピン＆スリーブ調節約5秒、四角形積み重ねカラムデザイン、Stage 2・3拡張キット別売り。",
     },
     links: [
-      { network: "amazon-jp", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.co.jp/dp/B07QBHG3GF", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.com/dp/B07QBHG3GF", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.de/dp/B07QBHG3GF", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-powerblock-elite-exp-50", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPowerBlock%2BElite%2BEXP%2F", markets: ["JP"], approved: true },
@@ -9226,7 +9215,6 @@ const RAW_CATALOG = [
       ja: "1ダンベルあたり10〜55lb、2.5lb刻み、シングルエンドダイヤル調節約3〜4秒、コンパクトなクレードル、iFIT連携はオプション。",
     },
     links: [
-      { network: "amazon-jp", productId: "B07BFRMXLV", rawUrl: "https://www.amazon.co.jp/dp/B07BFRMXLV", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B07BFRMXLV", rawUrl: "https://www.amazon.com/dp/B07BFRMXLV", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B07BFRMXLV", rawUrl: "https://www.amazon.de/dp/B07BFRMXLV", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nordictrack-select-a-weight-55", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNordicTrack%2BSelect-A-Weight%2B55%2F", markets: ["JP"], approved: true },
@@ -9241,7 +9229,6 @@ const RAW_CATALOG = [
       ja: "1ダンベルあたり5〜75lb（120lbまで拡張可能）、プラスチックセレクター部品なしのスクリューロックカラー、ローレット加工スチールハンドル、調節10〜15秒、最も耐落下性が高い可変式システム。",
     },
     links: [
-      { network: "amazon-jp", productId: "B0002YRMRC", rawUrl: "https://www.amazon.co.jp/dp/B0002YRMRC", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B0002YRMRC", rawUrl: "https://www.amazon.com/dp/B0002YRMRC", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B0002YRMRC", rawUrl: "https://www.amazon.de/dp/B0002YRMRC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ironmaster-quick-lock-75", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIronmaster%2BQuick-Lock%2B75%2F", markets: ["JP"], approved: true },
@@ -9256,7 +9243,6 @@ const RAW_CATALOG = [
       ja: "1ダンベルあたり11〜71.5lb、4.4lb（2kg）刻み、ツイストロックカラー調節約5秒、コンパクトな低プロファイルクレードル、この比較で最高の価格/ポンド比。",
     },
     links: [
-      { network: "amazon-jp", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.co.jp/dp/B08CYJN7X6", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.com/dp/B08CYJN7X6", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.de/dp/B08CYJN7X6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ativafit-adjustable-dumbbell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FATIVAFIT%2B%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -9434,7 +9420,6 @@ const RAW_CATALOG = [
       ja: "11ゲージ・直径1.25インチ鋼管・耐荷重227kg・48インチスパン。標準16インチ間隔の天井根太2本にラグ固定。ハードウェア全同梱、中深度ローレット、ラックグレードパウダーコート。天井永久設置のガレージジム基準機。",
     },
     links: [
-      { network: "amazon-jp", productId: "B082WK7KGN", rawUrl: "https://www.amazon.co.jp/dp/B082WK7KGN", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B082WK7KGN", rawUrl: "https://www.amazon.com/dp/B082WK7KGN", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B082WK7KGN", rawUrl: "https://www.amazon.de/dp/B082WK7KGN", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-joist-mount-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Joist+Mount+Pull-Up+Bar%2F", markets: ["JP"], approved: true },
@@ -9449,7 +9434,6 @@ const RAW_CATALOG = [
       ja: "12ゲージ・直径1.25インチ鋼管・耐荷重181kg・44インチスパン。壁または天井に45〜90度の任意角度で取り付け可能。ニュートラルグリップ対応の内蔵角度グリップセクション付き。非標準設置の最高コスパ。",
     },
     links: [
-      { network: "amazon-jp", productId: "B01M0HKKE0", rawUrl: "https://www.amazon.co.jp/dp/B01M0HKKE0", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B01M0HKKE0", rawUrl: "https://www.amazon.com/dp/B01M0HKKE0", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B01M0HKKE0", rawUrl: "https://www.amazon.de/dp/B01M0HKKE0", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-wall-ceiling-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E5%A4%A9%E4%BA%95+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -9464,7 +9448,6 @@ const RAW_CATALOG = [
       ja: "11ゲージ・直径1.5インチ鋼管・耐荷重227kg・48インチスパン。太径バーで毎セットのグリップ強化を統合。ゴム製天井ガスケットで荷重サイクル時のきしみを解消。Rogueよりマイルドなローレット、高レップ数向け。",
     },
     links: [
-      { network: "amazon-jp", productId: "B07WFQDXY8", rawUrl: "https://www.amazon.co.jp/dp/B07WFQDXY8", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B07WFQDXY8", rawUrl: "https://www.amazon.com/dp/B07WFQDXY8", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B07WFQDXY8", rawUrl: "https://www.amazon.de/dp/B07WFQDXY8", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-fitness-ceiling-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E5%A4%A9%E4%BA%95+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -9479,7 +9462,6 @@ const RAW_CATALOG = [
       ja: "304ステンレス鋼バーとハードウェア——屋外・高湿度設置向け唯一の耐腐食モデル。直径1.25インチ・耐荷重200kg・39インチスパン。ナロー平行グリップアタッチメント同梱。アウトドア・非空調スペース設置に最適。",
     },
     links: [
-      { network: "amazon-jp", productId: "B08P57PFP5", rawUrl: "https://www.amazon.co.jp/dp/B08P57PFP5", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B08P57PFP5", rawUrl: "https://www.amazon.com/dp/B08P57PFP5", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B08P57PFP5", rawUrl: "https://www.amazon.de/dp/B08P57PFP5", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-probar-wall-mount-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPullup+%26+Dip+%E5%A3%81+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -9494,7 +9476,6 @@ const RAW_CATALOG = [
       ja: "14ゲージ・直径1.25インチ鋼管・耐荷重136kg・40インチスパン。最低天井高90インチ（229cm）は本比較最低値。天井永久設置の最安エントリー。100kg未満の厳格デッドハング向け。",
     },
     links: [
-      { network: "amazon-jp", productId: "B003BYRGKY", rawUrl: "https://www.amazon.co.jp/dp/B003BYRGKY", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B003BYRGKY", rawUrl: "https://www.amazon.com/dp/B003BYRGKY", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B003BYRGKY", rawUrl: "https://www.amazon.de/dp/B003BYRGKY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ultimate-body-press-ceiling", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUltimate+Body+Press+%E5%A4%A9%E4%BA%95+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -10205,7 +10186,6 @@ const RAW_CATALOG = [
       ja: "約280ドル。SCAA認定のドリップブリュワー。正確な水温管理、ブルーム事前注水、真空シールサーマルカラフェ搭載。北米で家庭用ドリップの基準機として評価が高く、ハンドドリップに匹敵するスペシャルティグレードの抽出が可能。",
     },
     links: [
-      { network: "amazon-jp", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.co.jp/dp/B01LXUV2IW", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.com/dp/B01LXUV2IW", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.de/dp/B01LXUV2IW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-breville-precision-brewer-bdc450", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BPrecision%2BBrewer%2BBDC450%2F", markets: ["JP"], approved: false },
@@ -10220,7 +10200,6 @@ const RAW_CATALOG = [
       ja: "約350ドル。オランダ製SCAA認定ドリップブリュワー。銅製ボイラーでSCAA規定の92〜96℃に6分で達温。オランダで手作り、5年保証付き — スペシャルティグレードのドリップコーヒーの基準機。",
     },
     links: [
-      { network: "amazon-jp", productId: "B000BYMBLC", rawUrl: "https://www.amazon.co.jp/dp/B000BYMBLC", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B000BYMBLC", rawUrl: "https://www.amazon.com/dp/B000BYMBLC", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B000BYMBLC", rawUrl: "https://www.amazon.de/dp/B000BYMBLC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-technivorm-moccamaster-kbt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMoccamaster%2BKBT%2F", markets: ["JP"], approved: false },
@@ -10235,7 +10214,6 @@ const RAW_CATALOG = [
       ja: "約200ドル。SCAA認定9カップドリップブリュワー。均一な飽和を実現するレインメーカーシャワーヘッド、プログラム可能なブルーム注水、断熱カラフェを搭載。モカマスターより手頃な価格で高いSCAA性能を発揮する実力機。",
     },
     links: [
-      { network: "amazon-jp", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.co.jp/dp/B074Z2YMXB", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.com/dp/B074Z2YMXB", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.de/dp/B074Z2YMXB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oxo-brew-9-cup-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%2BBrew%2B9%2BCup%2FCoffee%2BMaker%2F", markets: ["JP"], approved: false },
@@ -10250,7 +10228,6 @@ const RAW_CATALOG = [
       ja: "約80ドル。14カッププログラマブルドリップブリュワー。24時間前予約、1〜4カップ用醸造強度調整、保温プレート付き。北米で最も売れているプログラマブルコーヒーメーカー — 大量抽出と簡単な自動化を望む場合に合理的な選択。",
     },
     links: [
-      { network: "amazon-jp", productId: "B01N5JS67B", rawUrl: "https://www.amazon.co.jp/dp/B01N5JS67B", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B01N5JS67B", rawUrl: "https://www.amazon.com/dp/B01N5JS67B", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B01N5JS67B", rawUrl: "https://www.amazon.de/dp/B01N5JS67B", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cuisinart-dcc-3200p1-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BDCC-3200P1%2F", markets: ["JP"], approved: false },
@@ -10265,7 +10242,6 @@ const RAW_CATALOG = [
       ja: "約30ドル。12カッププログラマブルドリップブリュワー。2時間保温後自動オフ、途中注ぎ機能付き。コーヒー豆1袋分以上の費用をかけずに毎朝のコーヒーポットが欲しい家庭への正直なバジェット機。",
     },
     links: [
-      { network: "amazon-jp", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.co.jp/dp/B07GV2S1GS", markets: ["JP"], approved: false },
       { network: "amazon-us", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.com/dp/B07GV2S1GS", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.de/dp/B07GV2S1GS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hamilton-beach-49350-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2B49350%2F", markets: ["JP"], approved: false },
