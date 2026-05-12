@@ -40,7 +40,7 @@ const SLEEP_MS = 30_000;
 
 interface Pin {
   pin_id: string;
-  article_slug: string;
+  article_slug?: string;
   locale: string;
   variant: string;
   title: string;
@@ -48,6 +48,7 @@ interface Pin {
   link: string;
   image_alt?: string;
   hashtags?: string[];
+  board?: string;
 }
 
 interface PinsYaml {
@@ -59,6 +60,17 @@ interface PinsYaml {
 
 interface State {
   posted: Record<string, { pinterest_id: string; posted_at: string }>;
+}
+
+const LOCALE_RE = /\/(en|ja|zh-CN|zh-TW|ko|es|pt-BR|fr|de|it|ru|ar|hi|id|th|vi|tr)\//;
+
+function resolveLink(link: string, siteUrl: string): string {
+  const abs = link.startsWith("http") ? link : `${siteUrl}${link}`;
+  // /locale/slug → /locale/articles/slug/ に正規化
+  if (!abs.includes("/articles/")) {
+    return abs.replace(LOCALE_RE, (m, loc) => `/${loc}/articles/`).replace(/\/?$/, "/");
+  }
+  return abs;
 }
 
 function loadState(): State {
@@ -106,9 +118,11 @@ async function main() {
   const allPins = data.pins ?? [];
   console.log(`→ pins.yaml に ${allPins.length} pin`);
 
-  // フィルタ
+  // フィルタ (article_slugがない場合はlinkから抽出)
+  const resolveSlug = (p: Pin) =>
+    p.article_slug ?? ((p.link ?? "").match(/\/([^/]+)\/?$/) ?? [])[1] ?? "";
   let pins = allPins;
-  if (slugFilter) pins = pins.filter((p) => p.article_slug === slugFilter);
+  if (slugFilter) pins = pins.filter((p) => resolveSlug(p) === slugFilter);
   if (localeFilter) pins = pins.filter((p) => p.locale === localeFilter);
   if (variantFilter) pins = pins.filter((p) => p.variant === variantFilter);
 
@@ -127,10 +141,12 @@ async function main() {
   if (dryRun) {
     console.log("\n=== DRY RUN ===\n");
     for (const p of targets) {
+      const slug = p.article_slug ?? ((p.link ?? "").match(/\/([^/]+)\/?$/) ?? [])[1] ?? p.pin_id;
+      const link = resolveLink(p.link ?? "", SITE_URL);
       console.log(`[${p.pin_id}]`);
       console.log(`  title: ${p.title}`);
-      console.log(`  link: ${p.link}`);
-      console.log(`  image: ${SITE_URL}/og/${p.article_slug}-${p.locale}.png`);
+      console.log(`  link: ${link}`);
+      console.log(`  image: ${SITE_URL}/og/${slug}-${p.locale}.png`);
       console.log(`  desc: ${p.description.slice(0, 100)}...`);
       console.log("");
     }
@@ -142,13 +158,16 @@ async function main() {
   let failed = 0;
 
   for (const p of targets) {
-    const imageUrl = `${SITE_URL}/og/${p.article_slug}-${p.locale}.png`;
+    // article_slugがない場合はlinkから抽出
+    const slug = p.article_slug ?? ((p.link ?? "").match(/\/([^/]+)\/?$/) ?? [])[1] ?? p.pin_id;
+    const absoluteLink = resolveLink(p.link ?? "", SITE_URL);
+    const imageUrl = `${SITE_URL}/og/${slug}-${p.locale}.png`;
     try {
       const r = await client.createPin({
         boardId: BOARD_ID!,
         title: p.title,
         description: p.description,
-        link: p.link,
+        link: absoluteLink,
         imageUrl,
         altText: p.image_alt,
       });

@@ -45,8 +45,10 @@ export const PINTEREST_PRIORITY_LOCALES: Locale[] = ["en", "ja", "es", "pt-BR", 
 
 /**
  * ロケールから推定される購買力市場（アフィリリンク振り分け用）。
+ * UK / CA は locale では判別できないため、Cloudflare Pages Function が
+ * セットする x-market クッキーを AffiliateLink クライアントで読んで上書きする。
  */
-export function inferMarketFromLocale(locale: string): "JP" | "US" | "EU" | "FR" | "ES" | "IT" | "CN" | "global" {
+export function inferMarketFromLocale(locale: string): "JP" | "US" | "UK" | "CA" | "EU" | "FR" | "ES" | "IT" | "CN" | "global" {
   if (locale === "ja") return "JP";
   if (locale === "zh-CN" || locale === "zh-TW") return "CN";
   if (locale === "en") return "US";

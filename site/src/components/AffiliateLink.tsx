@@ -1,8 +1,24 @@
+"use client";
+
+import { useEffect, useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { pickLink } from "@/lib/affiliates/catalog";
 import { buildAffiliateUrl } from "@/lib/affiliates/asp";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
+import type { Market } from "@/lib/affiliates/types";
+
+const GEO_MARKETS = new Set<Market>(["UK", "CA"]);
+
+function useMarket(localeMarket: Market): Market {
+  const [market, setMarket] = useState<Market>(localeMarket);
+  useEffect(() => {
+    const match = document.cookie.match(/(?:^|;\s*)x-market=([^;]+)/);
+    const geo = match?.[1] as Market | undefined;
+    if (geo && GEO_MARKETS.has(geo)) setMarket(geo);
+  }, []);
+  return market;
+}
 
 interface Props {
   offer: AffiliateOffer;
@@ -14,7 +30,8 @@ interface Props {
 export function AffiliateLink({ offer, note, variant = "card", hideBadge = false }: Props) {
   const locale = useLocale();
   const t = useTranslations();
-  const market = inferMarketFromLocale(locale);
+  const localeMarket = inferMarketFromLocale(locale);
+  const market = useMarket(localeMarket);
   const link = pickLink(offer, market, { onlyApproved: false });
 
   const name = offer.name[locale as keyof typeof offer.name] ?? offer.name.en ?? offer.id;

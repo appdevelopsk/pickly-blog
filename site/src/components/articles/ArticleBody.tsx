@@ -4,11 +4,11 @@ import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { AffiliateLink } from "@/components/AffiliateLink";
 import { Link } from "@/lib/i18n/navigation";
 
-function StarRating({ rating }: { rating: number }) {
+function StarRating({ rating, label }: { rating: number; label?: string }) {
   const full = Math.floor(rating);
   const half = rating % 1 >= 0.5;
   return (
-    <span className="inline-flex items-center gap-0.5" aria-label={`${rating}点`}>
+    <span className="inline-flex items-center gap-0.5" aria-label={label ?? String(rating)}>
       {Array.from({ length: 5 }, (_, i) => (
         <span key={i} className={`text-base leading-none ${i < full ? "text-amber-400" : i === full && half ? "text-amber-300" : "text-slate-200"}`}>
           ★
@@ -88,10 +88,10 @@ export function ArticleBody({ meta, content, offers }: Props) {
               <table className="min-w-full text-sm">
                 <thead className="bg-slate-50 text-xs font-bold uppercase tracking-wide text-slate-500">
                   <tr>
-                    <th className="px-4 py-3 text-left">製品</th>
-                    {offers.some(o => o.rating) && <th className="px-4 py-3 text-center">評価</th>}
-                    {offers.some(o => o.price) && <th className="px-4 py-3 text-right">価格</th>}
-                    <th className="px-4 py-3 text-center">リンク</th>
+                    <th className="px-4 py-3 text-left">{t("article.tableProduct")}</th>
+                    {offers.some(o => o.rating) && <th className="px-4 py-3 text-center">{t("article.tableRating")}</th>}
+                    {offers.some(o => o.price) && <th className="px-4 py-3 text-right">{t("article.tablePrice")}</th>}
+                    <th className="px-4 py-3 text-center">{t("article.tableLink")}</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-slate-100">
@@ -117,7 +117,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
                         </td>
                         {offers.some(o2 => o2.rating) && (
                           <td className="px-4 py-3 text-center">
-                            {o.rating ? <StarRating rating={o.rating} /> : <span className="text-slate-300">—</span>}
+                            {o.rating ? <StarRating rating={o.rating} label={t("article.ratingLabel", { rating: o.rating.toFixed(1) })} /> : <span className="text-slate-300">—</span>}
                           </td>
                         )}
                         {offers.some(o2 => o2.price) && (
@@ -140,7 +140,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
           {(tocItems.length > 0 || sectionToc.length > 0) && (
             <div className="mb-8 rounded-xl border border-slate-200 bg-slate-50 p-5">
               <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-500">
-                {isComparison ? t("article.rankingHeading") : "目次"}
+                {isComparison ? t("article.rankingHeading") : t("article.toc")}
               </p>
               <ol className="space-y-2">
                 {(isComparison ? tocItems : sectionToc).map((item, i) => (
@@ -194,7 +194,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
                     </div>
                     <h2 className="text-lg font-bold text-slate-900 mb-1">{name}</h2>
                     <div className="flex flex-wrap items-center gap-3">
-                      {o.rating && <StarRating rating={o.rating} />}
+                      {o.rating && <StarRating rating={o.rating} label={t("article.ratingLabel", { rating: o.rating.toFixed(1) })} />}
                       {o.price && <span className="text-sm font-bold text-slate-700">{o.price}</span>}
                     </div>
                   </div>
