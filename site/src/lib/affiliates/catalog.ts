@@ -42,6 +42,7 @@ export const POLICY: AffiliatePolicy = {
 const RAW_CATALOG = [
   {
     id: "nordvpn",
+    imageUrl: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nordvpn-icon.png",
     category: "tech",
     badge: "🛡️",
     name: { en: "NordVPN", ja: "NordVPN", "zh-CN": "NordVPN", "zh-TW": "NordVPN", ko: "NordVPN", es: "NordVPN", "pt-BR": "NordVPN", fr: "NordVPN", de: "NordVPN", it: "NordVPN", ru: "NordVPN", ar: "NordVPN", hi: "NordVPN", id: "NordVPN", th: "NordVPN", vi: "NordVPN", tr: "NordVPN" },
@@ -56,6 +57,7 @@ const RAW_CATALOG = [
   },
   {
     id: "expressvpn",
+    imageUrl: "https://dl.svgcdn.com/png/simple-icons/expressvpn-400.png",
     category: "tech",
     badge: "⚡",
     name: { en: "ExpressVPN", ja: "ExpressVPN" },
@@ -70,6 +72,7 @@ const RAW_CATALOG = [
   },
   {
     id: "surfshark",
+    imageUrl: "https://dl.svgcdn.com/png/simple-icons/surfshark-400.png",
     category: "tech",
     badge: "🦈",
     name: { en: "Surfshark", ja: "Surfshark" },
@@ -84,6 +87,7 @@ const RAW_CATALOG = [
   },
   {
     id: "protonvpn",
+    imageUrl: "https://dl.svgcdn.com/png/simple-icons/protonvpn-400.png",
     category: "tech",
     badge: "🔒",
     name: { en: "Proton VPN", ja: "Proton VPN" },
@@ -98,6 +102,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mullvad",
+    imageUrl: "https://dl.svgcdn.com/png/simple-icons/mullvad-400.png",
     category: "tech",
     badge: "🐾",
     name: { en: "Mullvad", ja: "Mullvad" },
@@ -178,6 +183,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Electric Toothbrushes (best-electric-toothbrush-2026) ─────────
   {
     id: "philips-sonicare-9300",
+    imageUrl: "https://images.philips.com/is/image/philipsconsumer/e769159bd9c44a15b4d2ac5e002799c0?wid=700&hei=700&$pnglarge$",
     category: "beauty",
     badge: "💎",
     name: { en: "Philips Sonicare DiamondClean Smart 9300", ja: "フィリップス ソニッケアー ダイヤモンドクリーン スマート 9300" },
@@ -191,6 +197,7 @@ const RAW_CATALOG = [
   },
   {
     id: "philips-sonicare-4500",
+    imageUrl: "https://images.philips.com/is/image/philipsconsumer/d460ae9f544148d486e0ac5e00bb3aef?wid=700&hei=700&$pnglarge$",
     category: "beauty",
     badge: "✨",
     name: { en: "Philips Sonicare ProtectiveClean 4500", ja: "フィリップス ソニッケアー プロテクトクリーン 4500" },
@@ -204,6 +211,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oral-b-pro-1",
+    imageUrl: "https://cdn11.bigcommerce.com/s-2idmiil7bp/images/stencil/1280x1280/products/550/11538/00069055859636_C1C1_OOP__98078.1760034373.jpg",
     category: "beauty",
     badge: "🦷",
     name: { en: "Oral-B PRO 1", ja: "オーラルB PRO 1" },
@@ -217,6 +225,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-doltz-dp35",
+    imageUrl: "https://wafuu.com/cdn/shop/files/panasonic-doltz-high-grade-sonic-vibration-toothbrush-white-ew-dp37-w-usb-type-c-103203_1024x1024.jpg",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Panasonic Doltz EW-DP35", ja: "パナソニック ドルツ EW-DP35" },
@@ -230,6 +239,7 @@ const RAW_CATALOG = [
   },
   {
     id: "braun-oral-b-io9",
+    imageUrl: "https://metapod.com/cdn/shop/products/braun-oral-b-io9-electric-toothbrush-31592985624772.png",
     category: "beauty",
     badge: "🤖",
     name: { en: "BRAUN Oral-B Genius X (iO 9)", ja: "ブラウン オーラルB Genius X (iO 9)" },
@@ -244,6 +254,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Electric Toothbrushes 2026 (best-electric-toothbrush-2026) ─────────
   {
     id: "oral-b-io-series-9",
+    imageUrl: "https://cdn11.bigcommerce.com/s-2idmiil7bp/images/stencil/500x659/products/1311/10360/00069055128909_C1C1_OOP_91434457__99382__27200.1773720284.jpg",
     category: "beauty",
     badge: "🦷",
     name: { en: "Oral-B iO Series 9", ja: "オーラルB iO Series 9" },
@@ -257,6 +268,7 @@ const RAW_CATALOG = [
   },
   {
     id: "philips-sonicare-diamondclean-9000",
+    imageUrl: "https://images.philips.com/is/image/philipsconsumer/d15129270d43438db05eb06f00cf6520?wid=700&hei=700&$pnglarge$",
     category: "beauty",
     badge: "💎",
     name: { en: "Philips Sonicare DiamondClean 9000", ja: "フィリップス ソニッケアー ダイヤモンドクリーン 9000" },
@@ -270,6 +282,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-doltz-ew-dp52",
+    imageUrl: "https://image.dokodemo.world/catalog-skus/9027706/b1efa47cc7819ba589c6a740296190e2.png",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Panasonic Doltz EW-DP52", ja: "パナソニック ドルツ EW-DP52" },
@@ -283,6 +296,7 @@ const RAW_CATALOG = [
   },
   {
     id: "quip-electric-toothbrush",
+    imageUrl: "https://www.getquip.com/cdn/shop/files/2501_DTC_SonicToothbrush_2880x2880_Green-1.jpg",
     category: "beauty",
     badge: "✈️",
     name: { en: "Quip Electric Toothbrush", ja: "Quip 電動歯ブラシ" },
@@ -296,6 +310,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oclean-x-pro-elite",
+    imageUrl: "https://www.oclean.com/cdn/shop/files/25.webp",
     category: "beauty",
     badge: "📱",
     name: { en: "Oclean X Pro Elite", ja: "オクリーン X Pro エリート" },
@@ -310,6 +325,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Electric Shavers (best-electric-shaver-2026) ─────────
   {
     id: "philips-series-9000-prestige",
+    imageUrl: "https://images.philips.com/is/image/philipsconsumer/0cefc0e1da104056bfb3af1600d7df95?wid=700&hei=700&$pnglarge$",
     category: "beauty",
     badge: "top-pick",
     name: { en: "Philips Series 9000 Prestige SP9883", ja: "フィリップス シリーズ9000 プレステージ SP9883" },
@@ -323,6 +339,7 @@ const RAW_CATALOG = [
   },
   {
     id: "braun-series-9-pro-plus",
+    imageUrl: "https://images.ctfassets.net/f2uoy79ix7lt/2ElrNFPYPf4qRRYwxAUtU2/7a185f765c0f8f59730a97bc0e82953d/s9_any-beard_desktop.jpg",
     category: "beauty",
     badge: "best-foil",
     name: { en: "Braun Series 9 Pro+ 9565cc", ja: "ブラウン シリーズ9 Pro+ 9565cc" },
@@ -336,6 +353,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-lamdash-es-ls9a",
+    imageUrl: "https://image.dokodemo.world/catalog-skus/9049835/62dc8c1866d524cff7ee36741c312213.jpg",
     category: "beauty",
     badge: "japan-pick",
     name: { en: "Panasonic ラムダッシュ ES-LS9A", ja: "パナソニック ラムダッシュ ES-LS9A" },
@@ -349,6 +367,7 @@ const RAW_CATALOG = [
   },
   {
     id: "philips-series-5000-sp5588",
+    imageUrl: "https://images.philips.com/is/image/philipsconsumer/09d1d6a3dd9e4cb0bf00b02800c86f0b?wid=700&hei=700&$pnglarge$",
     category: "beauty",
     badge: "budget-pick",
     name: { en: "Philips Series 5000 SP5588", ja: "フィリップス シリーズ5000 SP5588" },
@@ -362,6 +381,7 @@ const RAW_CATALOG = [
   },
   {
     id: "braun-series-7-71-s7200cc",
+    imageUrl: "https://images.ctfassets.net/vdz7892ev2zr/2On35slTsxlmoTc7nDHfdP/0df295e80fcaa14b3d5ed6dc4f824e41/pdp-mpg-series-7-71-s7200cc-hero-image.jpg",
     category: "beauty",
     badge: "value-pick",
     name: { en: "Braun Series 7 71-S7200cc", ja: "ブラウン シリーズ7 71-S7200cc" },
@@ -376,6 +396,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / LED Face Masks (best-led-face-mask-2026) ─────────
   {
     id: "currentbody-skin-led",
+    imageUrl: "https://www.currentbody.com/cdn/shop/files/Currentbody_skin_series1_led_light_therapy_mask_800x.png",
     category: "beauty",
     badge: "💡",
     name: { en: "CurrentBody Skin LED Light Therapy Mask", ja: "CurrentBody Skin LED ライトセラピーマスク" },
@@ -389,6 +410,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yaman-medi-lift-plus",
+    imageUrl: "https://www.ya-man.co.jp/wp/wp-content/themes/corporate-ym/assets/img/products/medi-lift-plus/product-main@2x.png",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Yaman Medi Lift Plus", ja: "ヤーマン メディリフトプラス" },
@@ -402,6 +424,7 @@ const RAW_CATALOG = [
   },
   {
     id: "dr-arrivo-zeus-2",
+    imageUrl: "https://artistic-co.us/wp-content/uploads/2020/04/Image_20250314143136.jpg",
     category: "beauty",
     badge: "👑",
     name: { en: "Dr.Arrivo Zeus II", ja: "ドクターアリーヴォ ゼウスII" },
@@ -415,6 +438,7 @@ const RAW_CATALOG = [
   },
   {
     id: "aduro-7-plus-1",
+    imageUrl: "https://myaduro.com/cdn/shop/files/Facial_Mask_01_1200x1200_7086fb93-ba4e-4e5e-9d10-0312c9b61571.png",
     category: "beauty",
     badge: "🌈",
     name: { en: "Aduro 7+1 Light Therapy Mask", ja: "Aduro 7+1 ライトセラピーマスク" },
@@ -428,6 +452,7 @@ const RAW_CATALOG = [
   },
   {
     id: "omnilux-contour-face",
+    imageUrl: "https://omniluxled.com/cdn/shop/files/Contour_Face_Cover_Image.jpg",
     category: "beauty",
     badge: "🏥",
     name: { en: "Omnilux Contour Face", ja: "オムニルクス コンツアー フェース" },
@@ -442,6 +467,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Shampoo (best-shampoo-2026) ─────────
   {
     id: "and-honey-deep-moist-shampoo",
+    imageUrl: "https://japanesetaste.com/cdn/shop/files/andhoney-Deep-Moist-Shampoo-1-0--Japanese-Honey-Shampoo--440ml-1-2024-06-14T01_48_01.020Z.jpg",
     category: "beauty",
     badge: "🍯",
     name: { en: "&honey Deep Moist Shampoo", ja: "&honey Deep Moist シャンプー" },
@@ -468,6 +494,7 @@ const RAW_CATALOG = [
   },
   {
     id: "olaplex-no4-bond-maintenance",
+    imageUrl: "https://olaplex.com/cdn/shop/files/1-N4_product_1440.png",
     category: "beauty",
     badge: "🔬",
     name: { en: "Olaplex No.4 Bond Maintenance Shampoo", ja: "Olaplex No.4 Bond Maintenance Shampoo" },
@@ -494,6 +521,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kerastase-bain-densite",
+    imageUrl: "https://timetospa.com/cdn/shop/files/kerastase-densifique-bain-densite-hair-shampoo_1094075_02.jpg",
     category: "beauty",
     badge: "💎",
     name: { en: "Kerastase Bain Densite", ja: "ケラスターゼ DS バン デンシフィック" },
@@ -508,6 +536,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Sunscreen (best-sunscreen-2026) ─────────
   {
     id: "anessa-perfect-uv-spf50",
+    imageUrl: "https://japanesetaste.com/cdn/shop/files/Shiseido-Anessa-Perfect-UV-Sunscreen-Skincare-Milk-SPF50_-60ml--1-2024-06-14T02_08_59.526Z.webp",
     category: "beauty",
     badge: "☀️",
     name: { en: "Anessa Perfect UV Sunscreen SPF50+ PA++++", ja: "アネッサ パーフェクトUV サンスクリーン SPF50+ PA++++" },
@@ -534,6 +563,7 @@ const RAW_CATALOG = [
   },
   {
     id: "biore-uv-aqua-rich-essence",
+    imageUrl: "https://kao-h.assetsadobe3.com/is/image/content/dam/sites/kao/www-kao-com/sg/en/products/biore/bio_aquarich_essence_00.jpg",
     category: "beauty",
     badge: "💧",
     name: { en: "Biore UV Aqua Rich Watery Essence SPF50+", ja: "ビオレUV アクア リッチ ウォータリーエッセンス SPF50+" },
@@ -547,6 +577,7 @@ const RAW_CATALOG = [
   },
   {
     id: "eltamd-uv-clear-spf46",
+    imageUrl: "https://eltamd.com/cdn/shop/files/2-award_120x.png",
     category: "beauty",
     badge: "🩺",
     name: { en: "EltaMD UV Clear SPF46", ja: "EltaMD UV Clear SPF46" },
@@ -560,6 +591,7 @@ const RAW_CATALOG = [
   },
   {
     id: "skin-aqua-tone-up-lavender",
+    imageUrl: "https://japanesetaste.com/cdn/shop/files/P-1-RTO-AQU-UV-80-Rohto_Skin_Aqua_Tone_Up_UV_Essence_SPF50_PA_80g.jpg",
     category: "beauty",
     badge: "💜",
     name: { en: "Skin Aqua Tone Up UV Essence (Lavender)", ja: "スキンアクア トーンアップUVエッセンス ラベンダー" },
@@ -574,6 +606,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Face Washes (best-face-wash-2026) ─────────
   {
     id: "cerave-hydrating-facial-cleanser",
+    imageUrl: "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/skincare/cleansers/hydrating-facial-cleanser/photos/2025/hydrating-facial-cleanser_front.jpg",
     category: "beauty",
     badge: "💙",
     name: { en: "CeraVe Hydrating Facial Cleanser", ja: "CeraVe ハイドレーティング フェイシャル クレンザー" },
@@ -587,6 +620,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kose-softymo-speedy-cleansing",
+    imageUrl: "https://int.japanesetaste.com/cdn/shop/files/Kose-Softymo-Speedy-Cleansing-Oil-230ml-1-2025-02-17T14_57_23.176Z.webp",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Kose Softymo Speedy Cleansing Oil", ja: "コーセー ソフティモ スピーディ クレンジングオイル" },
@@ -600,6 +634,7 @@ const RAW_CATALOG = [
   },
   {
     id: "the-ordinary-squalane-cleanser",
+    imageUrl: "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwc2d7f1a8/Images/products/The%20Ordinary/rdn-squalane-cleanser-50ml.png",
     category: "beauty",
     badge: "🌿",
     name: { en: "The Ordinary Squalane Cleanser", ja: "The Ordinary スクワランクレンザー" },
@@ -613,6 +648,7 @@ const RAW_CATALOG = [
   },
   {
     id: "shiseido-senka-perfect-whip",
+    imageUrl: "https://japanesetaste.com/cdn/shop/files/Senka-Perfect-Whip-Cleansing-Foam-120g-1-2025-08-25T00_18_50.384Z.jpg",
     category: "beauty",
     badge: "🫧",
     name: { en: "Shiseido Senka Perfect Whip", ja: "専科 パーフェクトホイップ 洗顔料" },
@@ -640,6 +676,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Skin Care Routine (best-skin-care-routine-2026) ─────────
   {
     id: "cetaphil-gentle-skin-cleanser",
+    imageUrl: "https://www.cetaphil.com/dw/image/v2/BGGN_PRD/on/demandware.static/-/Sites-galderma-us-m-catalog/default/dw554054cc/302990100624/GSC-RESIZE-1.2X.png",
     category: "beauty",
     badge: "🧴",
     name: { en: "Cetaphil Gentle Skin Cleanser", ja: "セタフィル ジェントル スキン クレンザー" },
@@ -653,6 +690,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hada-labo-gokujyun-lotion",
+    imageUrl: "https://www.rohto.co.jp/-/media/com/hadalabo/gokujun-premium-lotion/img_167012_01.jpg",
     category: "beauty",
     badge: "💧",
     name: { en: "Hada Labo Gokujyun Premium Lotion", ja: "肌ラボ 極潤プレミアム ヒアルロン液" },
@@ -666,6 +704,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cerave-moisturizing-cream",
+    imageUrl: "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/skincare/moisturizers/moisturizing-cream/moisturizing-cream-12oz-front.jpg",
     category: "beauty",
     badge: "🏆",
     name: { en: "CeraVe Moisturizing Cream", ja: "CeraVe モイスチャライジング クリーム" },
@@ -692,6 +731,7 @@ const RAW_CATALOG = [
   },
   {
     id: "the-ordinary-niacinamide",
+    imageUrl: "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwce8a7cdf/Images/products/The%20Ordinary/rdn-niacinamide-10pct-zinc-1pct-30ml.png",
     category: "beauty",
     badge: "🔬",
     name: { en: "The Ordinary Niacinamide 10% + Zinc 1%", ja: "The Ordinary ナイアシンアミド 10% + ジンク 1%" },
@@ -706,6 +746,7 @@ const RAW_CATALOG = [
   // ───────── Home / Air Purifiers (best-air-purifier-2026) ─────────
   {
     id: "dyson-purifier-cool-gen1",
+    imageUrl: "https://www.wellbots.com/cdn/shop/files/01-Hero-overview-full-width-Senses-and-captures-pollution-V1_1024x.jpg",
     category: "home",
     badge: "🌪️",
     name: { en: "Dyson Purifier Cool Gen1", ja: "ダイソン ピュリファイアー クール Gen1" },
@@ -719,6 +760,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sharp-plasmacluster-fp-j80",
+    imageUrl: "https://my.sharp/sites/default/files/styles/produc/public/2018-12/FPJ80.jpg",
     category: "home",
     badge: "🇯🇵",
     name: { en: "Sharp Plasmacluster FP-J80", ja: "シャープ プラズマクラスター FP-J80" },
@@ -732,6 +774,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-f-vxu90",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000036285.jpg",
     category: "home",
     badge: "💨",
     name: { en: "Panasonic F-VXU90", ja: "パナソニック F-VXU90 空気清浄機" },
@@ -745,6 +788,7 @@ const RAW_CATALOG = [
   },
   {
     id: "blueair-blue-max-3250i",
+    imageUrl: "https://www.blueair.com/cdn/shop/files/3250auto_1.png",
     category: "home",
     badge: "🇸🇪",
     name: { en: "Blueair Blue Max 3250i", ja: "ブルーエア Blue Max 3250i" },
@@ -824,6 +868,7 @@ const RAW_CATALOG = [
   },
   {
     id: "coway-airmega-200m",
+    imageUrl: "https://au.coway.com/cdn/shop/files/200m_3e1d8556-16a4-470d-b129-7b6b182edd67.png",
     category: "home",
     badge: "🇰🇷",
     name: { en: "Coway Airmega 200M", ja: "コウェイ アイレーマ200M" },
@@ -838,6 +883,7 @@ const RAW_CATALOG = [
   // ───────── Home / Humidifiers (best-humidifier-2026) ─────────
   {
     id: "dyson-purifier-humidify-cool",
+    imageUrl: "https://acevacuums.com/cdn/shop/files/369212-01_2048x2048.jpg?v=1697558776",
     category: "home",
     badge: "💧",
     name: { en: "Dyson Purifier Humidify+Cool Formaldehyde", ja: "ダイソン ピュリファイアー加湿空気清浄機 フォルムアルデヒド" },
@@ -877,6 +923,7 @@ const RAW_CATALOG = [
   },
   {
     id: "levoit-classic-300s",
+    imageUrl: "https://levoit.com/cdn/shop/files/classic-300s-ultrasonic-smart-humidifier-398749.jpg?v=1762284270&width=1080",
     category: "home",
     badge: "📱",
     name: { en: "Levoit Classic 300S Ultrasonic Humidifier", ja: "Levoit 加湿器 超音波式 Classic 300S" },
@@ -890,6 +937,7 @@ const RAW_CATALOG = [
   },
   {
     id: "stadler-form-oskar",
+    imageUrl: "https://www.stadlerformusa.com/cdn/shop/files/stadler-form-oskar-humidifier-white-iso_30d073f5-12cc-4797-a15f-acbc677857d1.png",
     category: "home",
     badge: "🇨🇭",
     name: { en: "Stadler Form Oskar", ja: "Stadler Form オスカー 加湿器" },
@@ -904,6 +952,7 @@ const RAW_CATALOG = [
   // ───────── Home / Humidifiers v2 (best-humidifier-2026 — new product set) ─────────
   {
     id: "levoit-classic-300s-humidifier",
+    imageUrl: "https://levoit.com/cdn/shop/files/classic-300s-ultrasonic-smart-humidifier-398749.jpg?v=1762284270&width=1080",
     category: "home",
     badge: "📱",
     name: { en: "Levoit Classic 300S Smart Ultrasonic Humidifier", ja: "Levoit Classic 300S スマート超音波加湿器" },
@@ -917,6 +966,7 @@ const RAW_CATALOG = [
   },
   {
     id: "dyson-am10-humidifier",
+    imageUrl: "https://evacuumstore.com/cdn/shop/files/24116.jpg?v=1744227935",
     category: "home",
     badge: "💠",
     name: { en: "Dyson AM10 Humidifier", ja: "Dyson AM10 加湿器" },
@@ -930,6 +980,7 @@ const RAW_CATALOG = [
   },
   {
     id: "honeywell-hcm350-humidifier",
+    imageUrl: "https://www.honeywellstore.com/store/images/products/large_images/hcm-350-germ-free-cool-mist-humidifier.jpg",
     category: "home",
     badge: "🌿",
     name: { en: "Honeywell HCM-350 Germ-Free Cool Mist Humidifier", ja: "Honeywell HCM-350 ジャームフリー気化式加湿器" },
@@ -943,6 +994,7 @@ const RAW_CATALOG = [
   },
   {
     id: "vicks-v745a-humidifier",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_b63d9a2b-ca85-4621-8202-03d9e9ff8162?wid=800&hei=800&fmt=pjpeg",
     category: "home",
     badge: "♨️",
     name: { en: "Vicks V745A Warm Mist Humidifier", ja: "Vicks V745A ウォームミスト加湿器" },
@@ -956,6 +1008,7 @@ const RAW_CATALOG = [
   },
   {
     id: "crane-droplet-humidifier",
+    imageUrl: "https://crane-usa.com/wp-content/uploads/2016/10/EE-5302GR_2-1024x1024-1.jpg",
     category: "home",
     badge: "💧",
     name: { en: "Crane Droplet Ultrasonic Cool Mist Humidifier", ja: "Crane ドロップレット 超音波式加湿器" },
@@ -970,6 +1023,7 @@ const RAW_CATALOG = [
   // ───────── Home / Robot Vacuums (best-robot-vacuum-2026) ─────────
   {
     id: "roborock-s8-pro-ultra",
+    imageUrl: "https://cdn.awsusor0.fds.api.mi-img.com/newsroom/6fd2b83eb4b9071c322f2db3f0b66673.jpg",
     category: "home",
     badge: "🤖",
     name: { en: "Roborock S8 Pro Ultra", ja: "ロボロック S8 Pro Ultra" },
@@ -983,6 +1037,7 @@ const RAW_CATALOG = [
   },
   {
     id: "irobot-roomba-j7-plus",
+    imageUrl: "https://cdn.freshstore.cloud/offer/images/15113/405/c/irobot-roomba-j7-7550-self-emptying-robot-vacuum-uses-precisionvision-navigation-to-identify-avoid-objects-like-socks-shoes-pet-waste-smart-mapping-self-empty-for-up-to-60-days-405-thumb.jpg",
     category: "home",
     badge: "🐾",
     name: { en: "iRobot Roomba j7+", ja: "iRobot ルンバ j7+" },
@@ -996,6 +1051,7 @@ const RAW_CATALOG = [
   },
   {
     id: "eufy-x10-pro-omni",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/Maskgroup-1.png?v=1773055636&width=1920",
     category: "home",
     badge: "💪",
     name: { en: "Anker Eufy RoboVac X10 Pro Omni", ja: "Anker Eufy RoboVac X10 Pro Omni" },
@@ -1009,6 +1065,7 @@ const RAW_CATALOG = [
   },
   {
     id: "switchbot-k10-plus",
+    imageUrl: "https://us.switch-bot.com/cdn/shop/files/K10_Global_700x700.jpg?v=1712471125",
     category: "home",
     badge: "📏",
     name: { en: "SwitchBot K10+", ja: "SwitchBot K10+" },
@@ -1022,6 +1079,7 @@ const RAW_CATALOG = [
   },
   {
     id: "dyson-360-vis-nav",
+    imageUrl: "https://cdn.webshopapp.com/shops/210536/files/440562441/1652x1652x2/dyson-dyson-360-vis-nav.jpg",
     category: "home",
     badge: "🇬🇧",
     name: { en: "Dyson 360 Vis Nav", ja: "Dyson 360 Vis Nav" },
@@ -1036,6 +1094,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Hair Dryers (best-hair-dryer-2026) ─────────
   {
     id: "dyson-supersonic-nural",
+    imageUrl: "https://media.ulta.com/i/ulta/2638890?w=600&h=600&fmt=auto",
     category: "beauty",
     badge: "💨",
     name: { en: "Dyson Supersonic Nural", ja: "Dyson Supersonic Nural" },
@@ -1049,6 +1108,7 @@ const RAW_CATALOG = [
   },
   {
     id: "refa-beautech-dryer-pro",
+    imageUrl: "https://www.refa.net/en/item/refa_beautech_dryer_pro/images/img-hero-pc.jpg",
     category: "beauty",
     badge: "✂️",
     name: { en: "ReFa BEAUTECH DRYER PRO", ja: "リファ ビューテック ドライヤー プロ" },
@@ -1062,6 +1122,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lepronizer-7d-plus",
+    imageUrl: "https://www.beautytechdistribution.com/cdn/shop/products/7DRep_f2cc5c33-e5bd-4051-8f85-6222edf26560.jpg?v=1651034236&width=1600",
     category: "beauty",
     badge: "👑",
     name: { en: "Lepronizer 7D Plus", ja: "レプロナイザー 7D Plus" },
@@ -1075,6 +1136,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-nanocare-ehna0j",
+    imageUrl: "https://imyshopjapan.com/cdn/shop/files/Panasonic-Hair-Dryer-Nano-Care-EH-NA0J-1.jpg?v=1756346888&width=1946",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Panasonic Nanocare EH-NA0J", ja: "パナソニック ナノケア EH-NA0J" },
@@ -1088,6 +1150,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sharp-plasmacluster-ibwx901",
+    imageUrl: "https://wafuu.com/cdn/shop/files/sharp-plasmacluster-beauty-drape-flow-hair-dryer-ib-wx901-b-black-100v-931175_1024x1024.jpg?v=1719479233",
     category: "beauty",
     badge: "💴",
     name: { en: "Sharp Plasmacluster IB-WX901", ja: "シャープ プラズマクラスター IB-WX901" },
@@ -1102,6 +1165,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Hair Straighteners (best-hair-straightener-2026) ─────────
   {
     id: "dyson-corrale-straightener",
+    imageUrl: "https://i03.hsncdn.com/is/image/HomeShoppingNetwork/rocs1200/dyson-corrale-hair-straightener-d-20221130155429093~790589.jpg",
     category: "beauty",
     badge: "🔋",
     name: { en: "Dyson Corrale", ja: "Dyson Corrale" },
@@ -1115,6 +1179,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ghd-platinum-plus",
+    imageUrl: "https://media.ulta.com/i/ulta/2539159?w=600&h=600&fmt=auto",
     category: "beauty",
     badge: "🌡️",
     name: { en: "GHD Platinum+", ja: "GHD Platinum+" },
@@ -1128,6 +1193,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-nanocare-eh-hs0e",
+    imageUrl: "https://www.televisionhouse.co.uk/media/catalog/product/cache/4ae023eae5c6c134dba0f643c3f0818b/p/a/panasonic_eh-hs0e-k895_1218630_34-0100-0179.jpg",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Panasonic Nanocare EH-HS0E", ja: "パナソニック ナノケア EH-HS0E" },
@@ -1141,6 +1207,7 @@ const RAW_CATALOG = [
   },
   {
     id: "remington-s9500-pearl",
+    imageUrl: "https://www.bellaffair.com/media/82/02/5b/1765911826/26542.webp",
     category: "beauty",
     badge: "💎",
     name: { en: "Remington S9500 Pearl", ja: "Remington S9500 Pearl" },
@@ -1154,6 +1221,7 @@ const RAW_CATALOG = [
   },
   {
     id: "babyliss-st330e",
+    imageUrl: "https://beytech.com.lb/wp-content/uploads/2023/03/BABWSHAST330E-2.jpg",
     category: "beauty",
     badge: "💄",
     name: { en: "BaByliss ST330E", ja: "BaByliss ST330E" },
@@ -1168,6 +1236,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Hair Care Tools (best-hair-care-tools-2026) ─────────
   {
     id: "dyson-airwrap-multi-styler",
+    imageUrl: "https://i03.hsncdn.com/is/image/HomeShoppingNetwork/rocs1200/dyson-airwrap-multi-styler-complete-long-vinca-rose-d-20230508163547143~875082.jpg",
     category: "beauty",
     badge: "🌀",
     name: { en: "Dyson Airwrap Multi-Styler", ja: "ダイソン エアラップ マルチスタイラー" },
@@ -1181,6 +1250,7 @@ const RAW_CATALOG = [
   },
   {
     id: "shark-flexstyle",
+    imageUrl: "https://media.ulta.com/i/ulta/2616918?w=600&h=600&fmt=auto",
     category: "beauty",
     badge: "🦈",
     name: { en: "Shark FlexStyle", ja: "シャーク フレックススタイル" },
@@ -1194,6 +1264,7 @@ const RAW_CATALOG = [
   },
   {
     id: "revlon-one-step-volumizer",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_4bdcbc98-7068-4e28-8f5c-f888dbb1be02?wid=800&hei=800&fmt=pjpeg",
     category: "beauty",
     badge: "💨",
     name: { en: "Revlon One-Step Volumizer", ja: "レブロン ワンステップ ボリューマイザー" },
@@ -1207,6 +1278,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ghd-max-styler",
+    imageUrl: "https://media.ulta.com/i/ulta/2637272?w=600&h=600&fmt=auto",
     category: "beauty",
     badge: "🔥",
     name: { en: "GHD Max Styler", ja: "GHD Max スタイラー" },
@@ -1220,6 +1292,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-eh-na0j",
+    imageUrl: "https://imyshopjapan.com/cdn/shop/files/Panasonic-Hair-Dryer-Nano-Care-EH-NA0J-1.jpg?v=1756346888&width=1946",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Panasonic EH-NA0J", ja: "パナソニック EH-NA0J" },
@@ -1234,6 +1307,7 @@ const RAW_CATALOG = [
   // ───────── Home / Rice Cookers (best-rice-cooker-2026) ─────────
   {
     id: "zojirushi-stan-nw-sa10",
+    imageUrl: "https://wafuu.com/cdn/shop/products/zojirushi-55-cup-induction-rice-cooker-black-stan-nw-sa10-ba-100v-640423_1024x1024.jpg?v=1695257113",
     category: "home",
     badge: "🎨",
     name: { en: "Zojirushi STAN. NW-SA10", ja: "象印 STAN. NW-SA10" },
@@ -1247,6 +1321,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tiger-jpi-y100",
+    imageUrl: "https://www.tiger-corporation.com/contents/product/rice-cooker/jpi-y/assets/img/JPI-Y_MV01.jpg",
     category: "home",
     badge: "🍚",
     name: { en: "Tiger JPI-Y100 (Tsuchinabe Gohoubi)", ja: "タイガー JPI-Y100(土鍋ご泡火炊き)" },
@@ -1273,6 +1348,7 @@ const RAW_CATALOG = [
   },
   {
     id: "vermicular-rp23a",
+    imageUrl: "https://japanwithlovestore.com/cdn/shop/files/Vermicular-Rice-Pot-5Cup-Rice-Cooker-Sea-Salt-White-With-Exclusive-Recipe-Book-Rp23AWh-4589923561172-0.jpg?v=1722582496&width=1065",
     category: "home",
     badge: "🔥",
     name: { en: "Vermicular Ricepot RP23A", ja: "バーミキュラ ライスポット RP23A" },
@@ -1300,6 +1376,7 @@ const RAW_CATALOG = [
   // ───────── Tech / Noise Cancelling Headphones (best-noise-cancelling-headphones-2026) ─────────
   {
     id: "sony-wh-1000xm5",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_e47219be-8eb6-4843-bce5-b9e70b45fa01?wid=800&hei=800&fmt=pjpeg",
     category: "tech",
     badge: "🎧",
     name: { en: "Sony WH-1000XM5", ja: "ソニー WH-1000XM5" },
@@ -1313,6 +1390,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bose-quietcomfort-ultra",
+    imageUrl: "https://assets.bosecreative.com/transform/e6ff1700-4749-4770-a02e-aff3a922475e/QCUHIILE26-MidnightViolet_E-Comm_Gallery_1_1632x1224?format=avif&quality=95&io=width:400,height:300,transform:fit",
     category: "tech",
     badge: "🔇",
     name: { en: "Bose QuietComfort Ultra Headphones", ja: "Bose QuietComfort Ultra Headphones" },
@@ -1326,6 +1404,7 @@ const RAW_CATALOG = [
   },
   {
     id: "apple-airpods-max",
+    imageUrl: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-compare-202409?wid=420&hei=500&fmt=jpeg&qlt=90&.v=MGJ3WGNoS1hJZng5ZTNiUkNNckE1WUNLYUZJYzNlb2M5YWlUSmxDUFM0VU1zMnAyYWJvaWNXR0hyZHB2dmJDMmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnFLMWZobVVoS25GeGxET3FhTGFDUFE",
     category: "tech",
     badge: "🍎",
     name: { en: "Apple AirPods Max", ja: "Apple AirPods Max" },
@@ -1339,6 +1418,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sennheiser-momentum-4",
+    imageUrl: "https://us.sennheiser-hearing.com/cdn/shop/files/MOMENTUM_4_Black.jpg?v=1759511980",
     category: "tech",
     badge: "🎵",
     name: { en: "Sennheiser Momentum 4 Wireless", ja: "Sennheiser Momentum 4 Wireless" },
@@ -1352,6 +1432,7 @@ const RAW_CATALOG = [
   },
   {
     id: "anker-soundcore-space-q45",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/A3040G11_64363979-86bd-4bbf-a122-d26fadaa97cd_3840x.png?v=1751962475",
     category: "tech",
     badge: "💴",
     name: { en: "Anker Soundcore Space Q45", ja: "Anker Soundcore Space Q45" },
@@ -3263,8 +3344,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.co.jp/dp/B09BFVZS7T", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.com/dp/B09BFVZS7T", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.de/dp/B09BFVZS7T", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.com/dp/B09BFVZS7T", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.de/dp/B09BFVZS7T", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nike-brasilia-9-5-md", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike%2BBrasilia%2BGym%2BBag%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3279,8 +3360,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.co.jp/dp/B08KGQK7GY", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.com/dp/B08KGQK7GY", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.de/dp/B08KGQK7GY", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.com/dp/B08KGQK7GY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.de/dp/B08KGQK7GY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ua-undeniable-5-md", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUnder%2BArmour%2BUndeniable%2B5%2BDuffle%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3295,8 +3376,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.co.jp/dp/B0BQJN9P8X", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.com/dp/B0BQJN9P8X", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.de/dp/B0BQJN9P8X", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.com/dp/B0BQJN9P8X", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.de/dp/B0BQJN9P8X", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-gymshark-everyday-bag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGymshark%2BEveryday%2BGym%2BBag%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3311,8 +3392,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B09BNLBGCZ", rawUrl: "https://www.amazon.co.jp/dp/B09BNLBGCZ", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B09BNLBGCZ", rawUrl: "https://www.amazon.com/dp/B09BNLBGCZ", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B09BNLBGCZ", rawUrl: "https://www.amazon.de/dp/B09BNLBGCZ", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B09BNLBGCZ", rawUrl: "https://www.amazon.com/dp/B09BNLBGCZ", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B09BNLBGCZ", rawUrl: "https://www.amazon.de/dp/B09BNLBGCZ", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-adidas-defender-4-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9%2B%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%2B4%2B%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3327,8 +3408,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.co.jp/dp/B07WGPNKQT", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.com/dp/B07WGPNKQT", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.de/dp/B07WGPNKQT", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.com/dp/B07WGPNKQT", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.de/dp/B07WGPNKQT", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-golds-gym-duffel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%2B%E3%83%80%E3%83%83%E3%83%95%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5836,8 +5917,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.co.jp/dp/B01NBQEZQO", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.com/dp/B01NBQEZQO", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.de/dp/B01NBQEZQO", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.com/dp/B01NBQEZQO", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.de/dp/B01NBQEZQO", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rubbermaid-brilliance-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRubbermaid+Brilliance%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5851,8 +5932,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B0894MJPVB", rawUrl: "https://www.amazon.co.jp/dp/B0894MJPVB", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B0894MJPVB", rawUrl: "https://www.amazon.com/dp/B0894MJPVB", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B0894MJPVB", rawUrl: "https://www.amazon.de/dp/B0894MJPVB", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B0894MJPVB", rawUrl: "https://www.amazon.com/dp/B0894MJPVB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0894MJPVB", rawUrl: "https://www.amazon.de/dp/B0894MJPVB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oxo-smart-seal-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO+%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%AB+%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5866,8 +5947,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.co.jp/dp/B07W4SLHQM", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.com/dp/B07W4SLHQM", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.de/dp/B07W4SLHQM", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.com/dp/B07W4SLHQM", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.de/dp/B07W4SLHQM", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bentgo-glass-meal-prep", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBentgo+%E3%82%AC%E3%83%A9%E3%82%B9+%E4%BD%9C%E3%82%8A%E7%BD%AE%E3%81%8D%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5881,8 +5962,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B0000CFNBS", rawUrl: "https://www.amazon.co.jp/dp/B0000CFNBS", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B0000CFNBS", rawUrl: "https://www.amazon.com/dp/B0000CFNBS", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B0000CFNBS", rawUrl: "https://www.amazon.de/dp/B0000CFNBS", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B0000CFNBS", rawUrl: "https://www.amazon.com/dp/B0000CFNBS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0000CFNBS", rawUrl: "https://www.amazon.de/dp/B0000CFNBS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-pyrex-simply-store-18pc", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%82%A4%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9+%E4%BF%9D%E5%AD%98%E5%AE%B9%E5%99%A8+18%E7%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9116,8 +9197,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B001ARYU58", rawUrl: "https://www.amazon.co.jp/dp/B001ARYU58", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B001ARYU58", rawUrl: "https://www.amazon.com/dp/B001ARYU58", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B001ARYU58", rawUrl: "https://www.amazon.de/dp/B001ARYU58", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B001ARYU58", rawUrl: "https://www.amazon.com/dp/B001ARYU58", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B001ARYU58", rawUrl: "https://www.amazon.de/dp/B001ARYU58", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-bowflex-selecttech-552", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex%2BSelectTech%2B552%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9131,8 +9212,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.co.jp/dp/B07QBHG3GF", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.com/dp/B07QBHG3GF", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.de/dp/B07QBHG3GF", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.com/dp/B07QBHG3GF", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.de/dp/B07QBHG3GF", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-powerblock-elite-exp-50", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPowerBlock%2BElite%2BEXP%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9146,8 +9227,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B07BFRMXLV", rawUrl: "https://www.amazon.co.jp/dp/B07BFRMXLV", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B07BFRMXLV", rawUrl: "https://www.amazon.com/dp/B07BFRMXLV", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B07BFRMXLV", rawUrl: "https://www.amazon.de/dp/B07BFRMXLV", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B07BFRMXLV", rawUrl: "https://www.amazon.com/dp/B07BFRMXLV", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07BFRMXLV", rawUrl: "https://www.amazon.de/dp/B07BFRMXLV", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-nordictrack-select-a-weight-55", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNordicTrack%2BSelect-A-Weight%2B55%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9161,8 +9242,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B0002YRMRC", rawUrl: "https://www.amazon.co.jp/dp/B0002YRMRC", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B0002YRMRC", rawUrl: "https://www.amazon.com/dp/B0002YRMRC", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B0002YRMRC", rawUrl: "https://www.amazon.de/dp/B0002YRMRC", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B0002YRMRC", rawUrl: "https://www.amazon.com/dp/B0002YRMRC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B0002YRMRC", rawUrl: "https://www.amazon.de/dp/B0002YRMRC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ironmaster-quick-lock-75", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIronmaster%2BQuick-Lock%2B75%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9176,8 +9257,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.co.jp/dp/B08CYJN7X6", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.com/dp/B08CYJN7X6", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.de/dp/B08CYJN7X6", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.com/dp/B08CYJN7X6", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08CYJN7X6", rawUrl: "https://www.amazon.de/dp/B08CYJN7X6", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ativafit-adjustable-dumbbell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FATIVAFIT%2B%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9354,8 +9435,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B082WK7KGN", rawUrl: "https://www.amazon.co.jp/dp/B082WK7KGN", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B082WK7KGN", rawUrl: "https://www.amazon.com/dp/B082WK7KGN", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B082WK7KGN", rawUrl: "https://www.amazon.de/dp/B082WK7KGN", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B082WK7KGN", rawUrl: "https://www.amazon.com/dp/B082WK7KGN", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B082WK7KGN", rawUrl: "https://www.amazon.de/dp/B082WK7KGN", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-joist-mount-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Joist+Mount+Pull-Up+Bar%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9369,8 +9450,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B01M0HKKE0", rawUrl: "https://www.amazon.co.jp/dp/B01M0HKKE0", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B01M0HKKE0", rawUrl: "https://www.amazon.com/dp/B01M0HKKE0", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B01M0HKKE0", rawUrl: "https://www.amazon.de/dp/B01M0HKKE0", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B01M0HKKE0", rawUrl: "https://www.amazon.com/dp/B01M0HKKE0", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01M0HKKE0", rawUrl: "https://www.amazon.de/dp/B01M0HKKE0", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-wall-ceiling-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E5%A4%A9%E4%BA%95+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9384,8 +9465,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B07WFQDXY8", rawUrl: "https://www.amazon.co.jp/dp/B07WFQDXY8", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B07WFQDXY8", rawUrl: "https://www.amazon.com/dp/B07WFQDXY8", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B07WFQDXY8", rawUrl: "https://www.amazon.de/dp/B07WFQDXY8", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B07WFQDXY8", rawUrl: "https://www.amazon.com/dp/B07WFQDXY8", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07WFQDXY8", rawUrl: "https://www.amazon.de/dp/B07WFQDXY8", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-rep-fitness-ceiling-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FREP+Fitness+%E5%A4%A9%E4%BA%95+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9399,8 +9480,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B08P57PFP5", rawUrl: "https://www.amazon.co.jp/dp/B08P57PFP5", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B08P57PFP5", rawUrl: "https://www.amazon.com/dp/B08P57PFP5", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B08P57PFP5", rawUrl: "https://www.amazon.de/dp/B08P57PFP5", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B08P57PFP5", rawUrl: "https://www.amazon.com/dp/B08P57PFP5", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B08P57PFP5", rawUrl: "https://www.amazon.de/dp/B08P57PFP5", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-probar-wall-mount-pullup", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPullup+%26+Dip+%E5%A3%81+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -9414,8 +9495,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B003BYRGKY", rawUrl: "https://www.amazon.co.jp/dp/B003BYRGKY", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B003BYRGKY", rawUrl: "https://www.amazon.com/dp/B003BYRGKY", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B003BYRGKY", rawUrl: "https://www.amazon.de/dp/B003BYRGKY", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B003BYRGKY", rawUrl: "https://www.amazon.com/dp/B003BYRGKY", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B003BYRGKY", rawUrl: "https://www.amazon.de/dp/B003BYRGKY", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-ultimate-body-press-ceiling", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUltimate+Body+Press+%E5%A4%A9%E4%BA%95+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10125,8 +10206,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.co.jp/dp/B01LXUV2IW", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.com/dp/B01LXUV2IW", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.de/dp/B01LXUV2IW", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.com/dp/B01LXUV2IW", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.de/dp/B01LXUV2IW", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-breville-precision-brewer-bdc450", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BPrecision%2BBrewer%2BBDC450%2F", markets: ["JP"], approved: false },
     ],
   },
@@ -10140,8 +10221,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B000BYMBLC", rawUrl: "https://www.amazon.co.jp/dp/B000BYMBLC", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B000BYMBLC", rawUrl: "https://www.amazon.com/dp/B000BYMBLC", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B000BYMBLC", rawUrl: "https://www.amazon.de/dp/B000BYMBLC", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B000BYMBLC", rawUrl: "https://www.amazon.com/dp/B000BYMBLC", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B000BYMBLC", rawUrl: "https://www.amazon.de/dp/B000BYMBLC", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-technivorm-moccamaster-kbt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMoccamaster%2BKBT%2F", markets: ["JP"], approved: false },
     ],
   },
@@ -10155,8 +10236,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.co.jp/dp/B074Z2YMXB", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.com/dp/B074Z2YMXB", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.de/dp/B074Z2YMXB", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.com/dp/B074Z2YMXB", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.de/dp/B074Z2YMXB", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-oxo-brew-9-cup-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%2BBrew%2B9%2BCup%2FCoffee%2BMaker%2F", markets: ["JP"], approved: false },
     ],
   },
@@ -10170,8 +10251,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B01N5JS67B", rawUrl: "https://www.amazon.co.jp/dp/B01N5JS67B", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B01N5JS67B", rawUrl: "https://www.amazon.com/dp/B01N5JS67B", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B01N5JS67B", rawUrl: "https://www.amazon.de/dp/B01N5JS67B", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B01N5JS67B", rawUrl: "https://www.amazon.com/dp/B01N5JS67B", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B01N5JS67B", rawUrl: "https://www.amazon.de/dp/B01N5JS67B", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-cuisinart-dcc-3200p1-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BDCC-3200P1%2F", markets: ["JP"], approved: false },
     ],
   },
@@ -10185,8 +10266,8 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "amazon-jp", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.co.jp/dp/B07GV2S1GS", markets: ["JP"], approved: false },
-      { network: "amazon-us", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.com/dp/B07GV2S1GS", markets: ["US"], approved: false },
-      { network: "amazon-de", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.de/dp/B07GV2S1GS", markets: ["EU"], approved: false },
+      { network: "amazon-us", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.com/dp/B07GV2S1GS", markets: ["US"], approved: true },
+      { network: "amazon-de", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.de/dp/B07GV2S1GS", markets: ["EU"], approved: true },
       { network: "moshimo", productId: "rakuten-hamilton-beach-49350-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2B49350%2F", markets: ["JP"], approved: false },
     ],
   },
@@ -17408,7 +17489,7 @@ const RAW_CATALOG = [
   },
   // --- batch #256: best-dark-chocolate-2026 (food) ---
   {
-    id: "lindt-excellence-90-cocoa",
+    id: "lindt-excellence-90-cocoa", imageUrl: "https://www.lindtusa.com/media/catalog/product/7/6/767acf162cc2e4cc81679126c80e1f151cd09b542594eaf064c7c93585b4d835.jpeg",
     category: "food",
     badge: "Best Overall Dark Chocolate",
     name: { en: "Lindt Excellence 90% Cocoa Bar", ja: "リンツ エクセレンス 90% カカオ" },
@@ -17419,7 +17500,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "ghirardelli-midnight-reverie-86",
+    id: "ghirardelli-midnight-reverie-86", imageUrl: "https://www.ghirardelli.com/media/catalog/product/4/9/4993a77eaa2760d02fee612dbdd319d802fec7faf1d6c6debba01ff944139816.jpeg",
     category: "food",
     badge: "Best Budget Dark Chocolate",
     name: { en: "Ghirardelli Intense Dark Midnight Reverie 86%", ja: "ギラデリ インテンスダーク ミッドナイトリヴェリー 86%" },
@@ -17429,7 +17510,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "green-blacks-organic-dark-85",
+    id: "green-blacks-organic-dark-85", imageUrl: "https://britishcravings.com/cdn/shop/files/640x640_1_7c81ad6e-edf5-46e8-b67b-b17c7ccbdd9b.jpg?v=1753103579&width=1946",
     category: "food",
     badge: "Best Organic Dark Chocolate",
     name: { en: "Green & Black's Organic Dark 85%", ja: "グリーン＆ブラックス オーガニックダーク 85%" },
@@ -17439,7 +17520,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "theo-chocolate-organic-85",
+    id: "theo-chocolate-organic-85", imageUrl: "https://theochocolate.com/cdn/shop/files/31_source_1717701613.png?v=1757696083",
     category: "food",
     badge: "Best Bean-to-Bar Dark Chocolate",
     name: { en: "Theo Chocolate Organic 85% Dark Bar", ja: "テオ チョコレート オーガニック 85% ダークバー" },
@@ -17449,7 +17530,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "alter-eco-deep-dark-blackout-85",
+    id: "alter-eco-deep-dark-blackout-85", imageUrl: "https://www.alterecofoods.com/cdn/shop/files/ClassicBlackoutmain_1800x1800.png?v=1695416822",
     category: "food",
     badge: "Best Vegan Dark Chocolate",
     name: { en: "Alter Eco Deep Dark Blackout 85%", ja: "オルターエコ ディープダーク ブラックアウト 85%" },
@@ -17460,7 +17541,7 @@ const RAW_CATALOG = [
   },
   // --- batch #257: best-glute-resistance-bands-2026 (fitness) ---
   {
-    id: "victorem-hip-resistance-bands",
+    id: "victorem-hip-resistance-bands", imageUrl: "https://outfitocean.com/cdn/shop/products/uk-B074S8LZ7B.jpg?v=1669734383",
     category: "fitness",
     badge: "Best Overall Glute Band",
     name: { en: "Victorem Hip Resistance Bands", ja: "Victorem ヒップレジスタンスバンド" },
@@ -17470,7 +17551,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "fit-simplify-resistance-loop-bands",
+    id: "fit-simplify-resistance-loop-bands", imageUrl: "https://www.fitsimplify.com/wp-content/uploads/2016/12/1-mod-circle-749x800.jpg",
     category: "fitness",
     badge: "Best Value Glute Band Set",
     name: { en: "Fit Simplify Resistance Loop Exercise Bands", ja: "フィットシンプリファイ レジスタンスループバンド" },
@@ -17480,7 +17561,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "peach-bands-fabric-set",
+    id: "peach-bands-fabric-set", imageUrl: "https://peachbands.com/cdn/shop/products/phph_190731_c05_5674_v01_300x300.jpg?v=1578810170",
     category: "fitness",
     badge: "Best Fabric Glute Band Set",
     name: { en: "Peach Bands Resistance Bands Set", ja: "ピーチバンズ レジスタンスバンドセット" },
@@ -17490,7 +17571,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "theraband-resistance-loop",
+    id: "theraband-resistance-loop", imageUrl: "https://www.theraband.com/media/catalog/product/cache/4523b5db3c92d8c48ebfc8cb3890e655/t/h/theraband_band_loops_family.jpg",
     category: "fitness",
     badge: "Best PT-Grade Glute Band",
     name: { en: "TheraBand Professional Resistance Band Loop", ja: "セラバンド プロフェッショナル レジスタンスバンドループ" },
@@ -17500,7 +17581,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "gymshark-resistance-band",
+    id: "gymshark-resistance-band", imageUrl: "https://cdn.shopify.com/s/files/1/0156/6146/products/RESISTANCEBANDGARB3573-GR-0SA-Edit_BK_1_e36789fa-f8e9-4d04-8168-31d5639a2c44_3840x.jpg?v=1653925201",
     category: "fitness",
     badge: "Best Premium Glute Band",
     name: { en: "Gymshark Resistance Band", ja: "ジムシャーク レジスタンスバンド" },
@@ -17511,7 +17592,7 @@ const RAW_CATALOG = [
   },
   // --- batch #258: best-almond-butter-2026 (food) ---
   {
-    id: "justins-classic-almond-butter",
+    id: "justins-classic-almond-butter", imageUrl: "https://www.justins.com/wp-content/uploads/2020/10/Justins-Duo-ClassicAB-1024x1024-1.png",
     category: "food",
     badge: "Best Overall Almond Butter",
     name: { en: "Justin's Classic Almond Butter", ja: "ジャスティンズ クラシックアーモンドバター" },
@@ -17521,7 +17602,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "barney-bare-almond-butter",
+    id: "barney-bare-almond-butter", imageUrl: "https://barneybutter.com/cdn/shop/files/35125_Almond_Butter_Bare_Smooth_No_Added_10oz_-_01.png?v=1763581324",
     category: "food",
     badge: "Best Natural Almond Butter",
     name: { en: "Barney Butter Bare Almond Butter", ja: "バーニーバター ベアアーモンドバター" },
@@ -17531,7 +17612,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "wild-friends-almond-butter",
+    id: "wild-friends-almond-butter", imageUrl: "https://martie.com/cdn/shop/files/853547003771_R.png",
     category: "food",
     badge: "Best Flavored Almond Butter",
     name: { en: "Wild Friends Classic Creamy Almond Butter", ja: "ワイルドフレンズ クラシッククリーミーアーモンドバター" },
@@ -17541,7 +17622,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "artisana-organic-almond-butter",
+    id: "artisana-organic-almond-butter", imageUrl: "https://artisanamarket.com/cdn/shop/products/artisana-raw-almond-butter-14oz.jpg?v=1692833313",
     category: "food",
     badge: "Best Organic Almond Butter",
     name: { en: "Artisana Organics Raw Almond Butter", ja: "アルティサナ オーガニクス ロウアーモンドバター" },
@@ -17551,7 +17632,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "maranatha-no-stir-almond-butter",
+    id: "maranatha-no-stir-almond-butter", imageUrl: "https://s38182.pcdn.co/wp-content/uploads/2017/05/2019940-MaraNatha-Natural-Creamy-No-Stir-Almond-Butter-12oz-1024x1024.png",
     category: "food",
     badge: "Best No-Stir Almond Butter",
     name: { en: "MaraNatha No-Stir Creamy Almond Butter", ja: "マラナサ ノースター クリーミーアーモンドバター" },
@@ -17562,7 +17643,7 @@ const RAW_CATALOG = [
   },
   // --- batch #259: best-adjustable-kettlebell-2026 (fitness) ---
   {
-    id: "bowflex-selecttech-840-kettlebell",
+    id: "bowflex-selecttech-840-kettlebell", imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw987520d4/images/bfx/weights/100790/840-kettlebell-double-swing-in-home-m-lr.jpg",
     category: "fitness",
     badge: "Best Overall Adjustable Kettlebell",
     name: { en: "Bowflex SelectTech 840 Kettlebell", ja: "ボウフレックス セレクトテック 840 ケトルベル" },
@@ -17572,7 +17653,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "powerblock-sport-kettlebell",
+    id: "powerblock-sport-kettlebell", imageUrl: "https://powerblock.com/cdn/shop/files/light-adjustable-kettlebell-_540-00183-01_main-web_393e2c25-e99b-438f-b3fe-c5b38525268a.jpg?v=1776454465",
     category: "fitness",
     badge: "Best Compact Adjustable Kettlebell",
     name: { en: "PowerBlock Sport Adjustable Kettlebell", ja: "パワーブロック スポーツ アジャスタブル ケトルベル" },
@@ -17582,7 +17663,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "rep-fitness-adjustable-kettlebell",
+    id: "rep-fitness-adjustable-kettlebell", imageUrl: "https://cdn.shopify.com/s/files/1/0575/5401/0306/t/15/assets/acf.KG_8-16_Main.png?v=1635609152",
     category: "fitness",
     badge: "Best Gym-Quality Adjustable Kettlebell",
     name: { en: "REP Fitness Adjustable Kettlebell", ja: "REP フィットネス アジャスタブル ケトルベル" },
@@ -17592,7 +17673,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "apex-adjustable-kettlebell",
+    id: "apex-adjustable-kettlebell", imageUrl: "https://www.marcypro.com/cdn/shop/files/Apex-Adjustable-Kettle-Bell-Black-APKT-5009-1__82920.1677713329.1280.1280.png?v=1739773132",
     category: "fitness",
     badge: "Best Budget Adjustable Kettlebell",
     name: { en: "Apex Adjustable Kettle Ball", ja: "エーペックス アジャスタブル ケトルボール" },
@@ -17602,7 +17683,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "kettle-gryp-attachment",
+    id: "kettle-gryp-attachment", imageUrl: "https://kettlegryp.com/cdn/shop/products/Kettle_Gryp_Black_v2_8b_1000_COD.jpg",
     category: "fitness",
     badge: "Best Dumbbell-to-Kettlebell Converter",
     name: { en: "Kettle Gryp Adjustable Kettlebell", ja: "ケトルグリップ アジャスタブルケトルベル" },
@@ -17613,7 +17694,7 @@ const RAW_CATALOG = [
   },
   // --- batch #260: best-oat-milk-2026 (food) ---
   {
-    id: "oatly-oat-milk-original",
+    id: "oatly-oat-milk-original", imageUrl: "https://target.scene7.com/is/image/Target/GUEST_341fc0b4-e228-4ef0-80d1-9c2cac4dd131?wid=300&hei=300&fmt=pjpeg",
     category: "food",
     badge: "Best Overall Oat Milk",
     name: { en: "Oatly Oat-Drink Original", ja: "オートリー オーツドリンク オリジナル" },
@@ -17623,7 +17704,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "oatly-oat-milk-barista",
+    id: "oatly-oat-milk-barista", imageUrl: "https://target.scene7.com/is/image/Target/GUEST_dbd23a1e-74a9-4d1d-9722-68d5a25c2c07?wid=300&hei=300&fmt=pjpeg",
     category: "food",
     badge: "Best Oat Milk for Coffee",
     name: { en: "Oatly Barista Edition Oat Milk", ja: "オートリー バリスタエディション オーツミルク" },
@@ -17633,7 +17714,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "planet-oat-extra-creamy",
+    id: "planet-oat-extra-creamy", imageUrl: "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_395c6552-a9f6-4833-a896-587cab6be728.png",
     category: "food",
     badge: "Best Budget Oat Milk",
     name: { en: "Planet Oat Extra Creamy Oat Milk", ja: "プラネットオーツ エクストラクリーミー オーツミルク" },
@@ -17643,7 +17724,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "califia-oat-milk-barista",
+    id: "califia-oat-milk-barista", imageUrl: "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_31cbbc9a-914d-4314-ab87-de6b73c45854.png",
     category: "food",
     badge: "Best Barista Oat Milk Runner-Up",
     name: { en: "Califia Farms Better Half Oat Creamer", ja: "カリフィア ファームズ ベターハーフ オーツクリーマー" },
@@ -17653,7 +17734,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "elmhurst-oat-milk",
+    id: "elmhurst-oat-milk", imageUrl: "https://elmhurst1925.com/cdn/shop/files/elm_ecomm_us_oat_32oz_carton_R2_Front_2fc97fbe-3b70-4052-bce1-1b57d8413242.jpg",
     category: "food",
     badge: "Best Clean-Ingredient Oat Milk",
     name: { en: "Elmhurst 1925 Oat Milk", ja: "エルムハースト 1925 オーツミルク" },
@@ -17664,7 +17745,7 @@ const RAW_CATALOG = [
   },
   // --- batch #261: best-weightlifting-shoes-2026 (fitness) ---
   {
-    id: "nike-romaleos-4-weightlifting",
+    id: "nike-romaleos-4-weightlifting", imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Shoes/Weightlifting%20Shoes/Nike/CD3463003/CD3463003-H_rgs8hs.png",
     category: "fitness",
     badge: "Best Overall Weightlifting Shoe",
     name: { en: "Nike Romaleos 4 Weightlifting Shoes", ja: "ナイキ ロマレオス 4 ウエイトリフティングシューズ" },
@@ -17674,7 +17755,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "adidas-adipower-3-weightlifting",
+    id: "adidas-adipower-3-weightlifting", imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Shoes/Weightlifting%20Shoes/Adidas/IH8232/IH8232-H_un7ulh.png",
     category: "fitness",
     badge: "Best for Olympic Lifting",
     name: { en: "Adidas Adipower 3 Weightlifting Shoes", ja: "アディダス アディパワー 3 ウエイトリフティングシューズ" },
@@ -17684,7 +17765,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "reebok-legacy-lifter-3",
+    id: "reebok-legacy-lifter-3", imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Shoes/Weightlifting%20Shoes/Reebok/Reebok%20Legacy%20Lifter%20III/HR0428/HR0428-H_c8xcsm.png",
     category: "fitness",
     badge: "Best for CrossFit and Lifting",
     name: { en: "Reebok Legacy Lifter 3", ja: "リーボック レガシーリフター 3" },
@@ -17694,7 +17775,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "inov8-fastlift-power-g380",
+    id: "inov8-fastlift-power-g380", imageUrl: "https://cdn11.bigcommerce.com/s-7hhnvd/images/stencil/1280x1280/products/3681/22767/Squared_0024_SHOE_INOV-8-001056-BKWH-S-01_8752TWL22cestari_800x8002x.jpg__20691.1675421967.jpg",
     category: "fitness",
     badge: "Best Lightweight Weightlifting Shoe",
     name: { en: "Inov-8 Fastlift Power G 380", ja: "イノヴエイト ファストリフト パワー G380" },
@@ -17704,7 +17785,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "do-win-weightlifting-shoes",
+    id: "do-win-weightlifting-shoes", imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Shoes/Weightlifting%20Shoes/Do-Win/DWN0005/DWN0005-H_vnry55.png",
     category: "fitness",
     badge: "Best Budget Weightlifting Shoe",
     name: { en: "Do-Win Weightlifting Shoes", ja: "ドゥウィン ウエイトリフティングシューズ" },
@@ -17715,7 +17796,7 @@ const RAW_CATALOG = [
   },
   // --- batch #262: best-protein-pancake-mix-2026 (food) ---
   {
-    id: "kodiak-cakes-power-cakes",
+    id: "kodiak-cakes-power-cakes", imageUrl: "https://kodiakcakes.com/cdn/shop/files/705599011627_FlapjackMix_Buttermilk_MainImageHeroALT.png?v=1774581803",
     category: "food",
     badge: "Best Overall Protein Pancake Mix",
     name: { en: "Kodiak Cakes Power Cakes Flapjack Mix", ja: "コーディアック ケーキス パワーケーキス フラップジャックミックス" },
@@ -17725,7 +17806,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "birch-benders-protein-pancake",
+    id: "birch-benders-protein-pancake", imageUrl: "https://birchbenders.com/cdn/shop/products/Cue-Mix-Protein.png",
     category: "food",
     badge: "Best High-Protein Pancake Mix",
     name: { en: "Birch Benders Protein Pancake & Waffle Mix", ja: "バーチベンダーズ プロテインパンケーキ＆ワッフルミックス" },
@@ -17735,7 +17816,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "krusteaz-protein-pancake",
+    id: "krusteaz-protein-pancake", imageUrl: "https://www.krusteaz.com/wp-content/uploads/2021/04/041449471792_221-014804_KR_PBPM_MIL001-e1656536166734-769x1024.png",
     category: "food",
     badge: "Best Budget Protein Pancake Mix",
     name: { en: "Krusteaz Protein Pancake Mix", ja: "クラスティーズ プロテインパンケーキミックス" },
@@ -17745,7 +17826,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "bob-red-mill-protein-pancake",
+    id: "bob-red-mill-protein-pancake", imageUrl: "https://bobs-redmill.transforms.svdcdn.com/production/product/1399s144_proteinpancakemix_f_2.jpg?w=850&auto=compress%2Cformat&fit=max&dm=1753719705&s=857d916f88b42294c82a558bfd62b6df",
     category: "food",
     badge: "Best Whole Grain Protein Pancake Mix",
     name: { en: "Bob's Red Mill Protein Pancake & Waffle Mix", ja: "ボブズレッドミル プロテインパンケーキ＆ワッフルミックス" },
@@ -17755,7 +17836,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "carbon-fire-protein-pancake",
+    id: "carbon-fire-protein-pancake", imageUrl: "https://carbonfire.com/cdn/shop/products/element-chocolate-front_5000x.png?v=1674255082",
     category: "food",
     badge: "Best Macro-Optimized Protein Pancake Mix",
     name: { en: "Carbon Fire Protein Pancake Mix", ja: "カーボンファイア プロテインパンケーキミックス" },
@@ -17766,7 +17847,7 @@ const RAW_CATALOG = [
   },
   // --- batch #263: best-workout-gloves-2026 (fitness) ---
   {
-    id: "harbinger-pro-wrist-wrap-gloves",
+    id: "harbinger-pro-wrist-wrap-gloves", imageUrl: "https://harbingerfitness.com/cdn/shop/files/kqrb5rymtj4vgjmqhbvt.jpg?v=1744908620",
     category: "fitness",
     badge: "Best Overall Workout Gloves",
     name: { en: "Harbinger Pro Wrist Wrap Weightlifting Gloves", ja: "ハービンジャー プロ リストラップ ウエイトリフティンググローブ" },
@@ -17776,7 +17857,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "trideer-half-finger-gloves",
+    id: "trideer-half-finger-gloves", imageUrl: "https://trideer.com/cdn/shop/files/71FJy4HQrUL._AC_SL1500_fa5c8b5d-442f-425c-b25a-a61d1dd420f4.jpg?v=1742634442",
     category: "fitness",
     badge: "Best Budget Workout Gloves",
     name: { en: "Trideer Half-Finger Workout Gloves", ja: "トライディア ハーフフィンガー ワークアウトグローブ" },
@@ -17786,7 +17867,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "mechanix-wear-gym-gloves",
+    id: "mechanix-wear-gym-gloves", imageUrl: "https://res.cloudinary.com/hdtsjhzsw/image/upload/s--k0ud-0Gn--/w_370,h_650,c_lpad,b_white,f_jpg/b4e3bd8abbd83575339a508ede8692959f14bf94.jpg",
     category: "fitness",
     badge: "Best Durable Workout Gloves",
     name: { en: "Mechanix Wear Original Work Gloves (Gym Use)", ja: "メカニックスウェア オリジナルワークグローブ（ジム使用）" },
@@ -17796,7 +17877,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "bionic-premium-full-finger-gloves",
+    id: "bionic-premium-full-finger-gloves", imageUrl: "https://target.scene7.com/is/image/Target/GUEST_e9a7bc48-9fd1-4e16-bbd1-03bd746d6601?wid=300&hei=300&fmt=pjpeg",
     category: "fitness",
     badge: "Best Full-Finger Workout Gloves",
     name: { en: "Bionic Men's Premium Fitness Gloves", ja: "バイオニック プレミアム フィットネスグローブ" },
@@ -17806,7 +17887,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "bear-grips-barehand-straps",
+    id: "bear-grips-barehand-straps", imageUrl: "https://www.beargrips.com/cdn/shop/files/1_9d73f09d-4d38-4b96-aa58-1a03fbe18c58.jpg?v=1756931030&width=1946",
     category: "fitness",
     badge: "Best Gloves Alternative (Grips)",
     name: { en: "Bear Grips Finger Tape Lifting Grips", ja: "ベアグリップス フィンガーテープ リフティンググリップ" },
