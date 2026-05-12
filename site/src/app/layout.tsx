@@ -26,5 +26,15 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return children;
+  return (
+    <>
+      {children}
+      {/* Skimlinks — auto-monetize product links (publisher 302910X1790935) */}
+      <script
+        type="text/javascript"
+        src="https://s.skimresources.com/js/302910X1790935.skimlinks.js"
+        async
+      />
+    </>
+  );
 }
