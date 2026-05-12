@@ -28,8 +28,8 @@ interface Props {
 function safeRaw(t: Awaited<ReturnType<typeof getTranslations>>, key: string): unknown {
   try {
     const v = t.raw(key);
-    // next-intl returns the key path itself when missing instead of throwing
-    if (typeof v === "string" && v === key) return undefined;
+    const lastSegment = key.split(".").pop() ?? key;
+    if (typeof v === "string" && (v === key || v === lastSegment)) return undefined;
     return v;
   } catch { return undefined; }
 }
@@ -37,7 +37,9 @@ function safeRaw(t: Awaited<ReturnType<typeof getTranslations>>, key: string): u
 function safeT(t: Awaited<ReturnType<typeof getTranslations>>, key: string, fallback = ""): string {
   try {
     const v = t(key);
-    return v === key ? fallback : v;
+    // getMessageFallback が key の末尾セグメント ("lede" など) を返すため両方チェック
+    const lastSegment = key.split(".").pop() ?? key;
+    return (v === key || v === lastSegment) ? fallback : v;
   } catch { return fallback; }
 }
 

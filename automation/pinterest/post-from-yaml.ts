@@ -4,7 +4,8 @@
  * Pre-requisites:
  *   - Pinterest Standard access granted (Trial では拒否される)
  *   - PINTEREST_ACCESS_TOKEN set in env (~/.config/pickly/pinterest.env)
- *   - PINTEREST_DEFAULT_BOARD_ID set
+ *   - PINTEREST_DEFAULT_BOARD_ID set (fallback for all boards)
+ *   - PINTEREST_BOARD_FITNESS, PINTEREST_BOARD_FOOD, PINTEREST_BOARD_HOME_KITCHEN (optional; override per board)
  *   - NEXT_PUBLIC_SITE_URL set (https://pickly.blog)
  *
  * Usage:
@@ -107,6 +108,13 @@ async function main() {
     process.exit(1);
   }
 
+  // Per-board IDs — fall back to BOARD_ID if not set
+  const BOARD_MAP: Record<string, string> = {
+    fitness: process.env.PINTEREST_BOARD_FITNESS ?? BOARD_ID ?? "",
+    food: process.env.PINTEREST_BOARD_FOOD ?? BOARD_ID ?? "",
+    home_kitchen: process.env.PINTEREST_BOARD_HOME_KITCHEN ?? BOARD_ID ?? "",
+  };
+
   if (reset) {
     await saveState({ posted: {} });
     console.log("✓ posted log cleared");
@@ -143,7 +151,9 @@ async function main() {
     for (const p of targets) {
       const slug = p.article_slug ?? ((p.link ?? "").match(/\/([^/]+)\/?$/) ?? [])[1] ?? p.pin_id;
       const link = resolveLink(p.link ?? "", SITE_URL);
+      const boardId = (p.board && BOARD_MAP[p.board]) ? BOARD_MAP[p.board] : BOARD_ID ?? "(none)";
       console.log(`[${p.pin_id}]`);
+      console.log(`  board: ${p.board ?? "default"} → ${boardId}`);
       console.log(`  title: ${p.title}`);
       console.log(`  link: ${link}`);
       console.log(`  image: ${SITE_URL}/og/${slug}-${p.locale}.png`);
@@ -163,8 +173,9 @@ async function main() {
     const absoluteLink = resolveLink(p.link ?? "", SITE_URL);
     const imageUrl = `${SITE_URL}/og/${slug}-${p.locale}.png`;
     try {
+      const boardId = (p.board && BOARD_MAP[p.board]) ? BOARD_MAP[p.board] : BOARD_ID!;
       const r = await client.createPin({
-        boardId: BOARD_ID!,
+        boardId,
         title: p.title,
         description: p.description,
         link: absoluteLink,

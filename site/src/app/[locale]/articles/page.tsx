@@ -1,3 +1,5 @@
+import fs from "node:fs";
+import path from "node:path";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
@@ -30,7 +32,15 @@ function getCategoryColor(cat: string) {
   return CATEGORY_COLORS[cat] ?? "bg-slate-50 text-slate-700 border-slate-200";
 }
 
-/** Returns best available thumbnail: OG image → ASIN image → null */
+const OG_DIR = path.join(process.cwd(), "public/og");
+
+function ogPath(slug: string, locale: string): string | null {
+  if (fs.existsSync(path.join(OG_DIR, `${slug}-${locale}.png`))) return `/og/${slug}-${locale}.png`;
+  if (fs.existsSync(path.join(OG_DIR, `${slug}-en.png`))) return `/og/${slug}-en.png`;
+  return null;
+}
+
+/** Returns best available thumbnail: explicit OG → product imageUrl → auto OG */
 function getThumbnail(article: ArticleMeta, locale: string): string | null {
   if (article.ogImage && article.ogImage !== "auto") {
     return `${article.ogImage}-${locale}.png`;
@@ -41,7 +51,7 @@ function getThumbnail(article: ArticleMeta, locale: string): string | null {
     const img = getOfferImageUrl(offer);
     if (img) return img;
   }
-  return null;
+  return ogPath(article.slug, locale);
 }
 
 function ArticleCard({
