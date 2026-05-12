@@ -1,6 +1,7 @@
 node_modules/
 *.log
 .DS_Store
+.env
 
 # Playwright の永続セッション(クッキー、ログイン状態を含む) — 絶対 commit しない
 playwright-cache/

@@ -1898,6 +1898,7 @@ const RAW_CATALOG = [
   },
   {
     id: "vitruvi-stone-diffuser",
+    imageUrl: "https://vitruvi.com/cdn/shop/files/pdp_stone-diffuser_front_white_gallery_1_v9_image.png?v=1759291810",
     category: "beauty",
     badge: "🪨",
     name: { en: "Vitruvi Stone Diffuser", ja: "Vitruvi Stone Diffuser" },
@@ -1938,6 +1939,7 @@ const RAW_CATALOG = [
   },
   {
     id: "innogear-500ml-diffuser",
+    imageUrl: "https://www.innogear.com/cdn/shop/files/InnoGear_500ml_Essential_Oil_Diffuser_with_Remote_Control_Premium_Ultrasonic_Aromatherapy_Diffusers_Scent_Humidifier_Vaporizer_Auto-Off_Timer_for_Large_Room_Home_White_1_800x.jpg?v=1738813656",
     category: "beauty",
     badge: "💴",
     name: { en: "InnoGear Aromatherapy Diffuser 500 mL", ja: "InnoGear Aromatherapy Diffuser 500mL" },
@@ -3108,6 +3110,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nanit-pro-smart-camera",
+    imageUrl: "https://www.nanit.com/cdn/shop/files/1_-_SYSTEM.jpg?v=1763668478",
     category: "home",
     badge: "📊",
     name: { en: "Nanit Pro Smart Camera", ja: "Nanit Pro Smart Camera" },
@@ -3122,6 +3125,7 @@ const RAW_CATALOG = [
   },
   {
     id: "owlet-cam-2",
+    imageUrl: "https://www.macrobaby.com/cdn/shop/files/owlet-baby-smart-monitor-cam-2-white_image_1_400x.jpg?v=1769319952",
     category: "home",
     badge: "🦉",
     name: { en: "Owlet Cam 2", ja: "Owlet Cam 2" },
@@ -3136,6 +3140,7 @@ const RAW_CATALOG = [
   },
   {
     id: "babysense-v65",
+    imageUrl: "https://www.babysensemonitors.com/cdn/shop/products/parent-unit-for-babysense-video-baby-monitor-v65-413519.jpg?v=1751038526",
     category: "home",
     badge: "📺",
     name: { en: "Babysense V65 5-inch", ja: "Babysense V65 5型" },
