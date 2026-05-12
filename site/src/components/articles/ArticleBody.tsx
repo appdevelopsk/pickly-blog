@@ -141,9 +141,9 @@ export function ArticleBody({ meta, content, offers }: Props) {
             </div>
           )}
 
-          {/* TOC box */}
+          {/* TOC box — mobile only; desktop uses the sidebar TOC */}
           {(tocItems.length > 0 || sectionToc.length > 0) && (
-            <div className="mb-8 rounded-xl border border-slate-200 bg-slate-50 p-5">
+            <div className="mb-8 rounded-xl border border-slate-200 bg-slate-50 p-5 lg:hidden">
               <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-500">
                 {isComparison ? t("article.rankingHeading") : t("article.toc")}
               </p>

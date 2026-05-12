@@ -64,7 +64,7 @@
         "Garminウォッチを使用していてGarmin Connectでフィットネスデータを追跡しているなら、Garmin Index S2（約¥22,000）が整合性のある選択肢です。Eufyに対するプレミアムはエコシステム統合によってのみ正当化されます — Garminを使用していなければプレミアムを支払う理由はありません。",
         "最も厳密な消費者向けBIAを求める真剣なフィットネス・健康モニタリングユーザー、特にタニタ参照データを使用するパーソナルトレーナーやスポーツ医療専門家と連携している場合は、タニタ RD-906（約¥30,000）が擁護できる選択肢です。部位別計測は本比較の他のいずれのスケールも提供しない唯一の機能です。Health Planetアプリの制限は受け入れてください。",
         "体組成と並行して血管年齢モニタリングが重要ならWithings Body Compを選んでください。本比較で脈波伝播速度を計測するのはこれだけです。¥30,000という価格はタニタ RD-906 と同じですが計測技術が異なります（足底BIA vs 部位別4電極）。どちらが「優れているか」は部位別体組成と心血管系血管年齢のどちらの指標を最も追跡したいかによります。",
-        "予算が制約であれば、Xiaomi Mi Body Composition Scale 2（約¥3,000）は正当化不要です。生み出される体脂肪トレンドデータは有用です。絶対値は本比較で最も広い誤差幅を持ちます。"
+        "予算が制約であれば、Xiaomi Mi Body Composition Scale 2（約¥3,000）は正当化不要です。生み出される体脂肪トレンドデータは有用です。絶対値は最も広い誤差幅を持ちます。"
       ]
     },
     {
@@ -100,13 +100,13 @@
     },
     {
       "q": "Apple HealthまたはGoogle Fitとの連携が最も良いスケールはどれですか？",
-      "a": "Apple Health連携：Withings Body Compが本比較で最も完全で信頼性の高いApple Health同期を持ち、過去データのアップロードも対応しています。Anker Eufy P2 ProとMi Body Composition Scale 2もApple Healthに同期します。Garmin Index S2はGarmin Connectに同期し、そこからHealth Syncサードパーティアプリ経由でApple Healthに連携します — 機能しますが追加ステップが必要です。Google Fit連携：Withings Body CompとAnker Eufy P2 Proの両方がGoogle Fitに対応します。Xiaomi Mi FitnessはAndroidでGoogle Fitに同期します。Garmin ConnectはGoogle Fitとの直接連携が限定的です。タニタHealth Planetは本比較でサードパーティ連携オプションが最も少なく、Google Fitが主要データリポジトリの場合は最も不向きな選択肢です。"
+      "a": "Apple Health連携：Withings Body Compが最も完全で信頼性の高いApple Health同期を持ち、過去データのアップロードも対応しています。Anker Eufy P2 ProとMi Body Composition Scale 2もApple Healthに同期します。Garmin Index S2はGarmin Connectに同期し、そこからHealth Syncサードパーティアプリ経由でApple Healthに連携します — 機能しますが追加ステップが必要です。Google Fit連携：Withings Body CompとAnker Eufy P2 Proの両方がGoogle Fitに対応します。Xiaomi Mi FitnessはAndroidでGoogle Fitに同期します。Garmin ConnectはGoogle Fitとの直接連携が限定的です。タニタHealth Planetは本比較でサードパーティ連携オプションが最も少なく、Google Fitが主要データリポジトリの場合は最も不向きな選択肢です。"
     }
   ],
   "offerNotes": {
     "withings-body-comp": "本比較で血管年齢（脈波伝播速度）を体脂肪・筋肉量・内臓脂肪指数・骨量とともに計測する唯一のスケール。Withings Health MateはこのグループでCSVエクスポートとAPIアクセスという最良のデータエクスポートポリシーを持ち、Apple HealthとGoogle Fitの両方に信頼性の高い同期を提供。弱点：足底BIAは安い製品と同じ±3〜8%精度クラス、Withingsは会社として複数の所有権変更を経ており長期ソフトウェアサポートの軌跡に不確実性がある、¥30,000は本比較の同率最高価格。",
     "garmin-index-s2": "既存Garminデバイスを使用している場合に最も強い選択肢 — 体組成データがGarmin Connectにアクティビティ・睡眠・回復指標と並んで表示される単一プラットフォーム健康ダッシュボードを実現。16ユーザー同時対応で複数のGarminユーザーがいる家庭に有用。弱点：エコシステムプレミアムはGarminを使用している場合のみ価値がある。Garmin以外のユーザーにとってIndex S2は¥22,000の足底BIAスケールであり¥8,000のEufy P2 Proと同じ精度クラス。サードパーティ仲介アプリなしではGoogle Fitへの直接連携なし。",
-    "tanita-rd-906": "本比較で最も厳密な消費者BIA：InBodyライセンス多周波数4電極技術が上半身の足底インピーダンスからの推定ではなく腕・脚・体幹を個別計測。タニタは日本で外国ブランドが匹敵できない臨床的信頼性を持ち、病院・クリニック・スポーツ施設がタニタ業務用機器を使用。弱点：各計測でハンドル電極を正しく握る必要がある（足底のみスケールには不要）、Health Planetアプリは日本市場中心でWithingsやGarminほど国際的に洗練されていない、Withings Body Compと同価格帯ながら血管年齢計測なし。",
+    "tanita-rd-906": "最も厳密な消費者BIA：InBodyライセンス多周波数4電極技術が上半身の足底インピーダンスからの推定ではなく腕・脚・体幹を個別計測。タニタは日本で外国ブランドが匹敵できない臨床的信頼性を持ち、病院・クリニック・スポーツ施設がタニタ業務用機器を使用。弱点：各計測でハンドル電極を正しく握る必要がある（足底のみスケールには不要）、Health Planetアプリは日本市場中心でWithingsやGarminほど国際的に洗練されていない、Withings Body Compと同価格帯ながら血管年齢計測なし。",
     "xiaomi-body-composition-scale-2": "本比較でコスト対指標の最良コスパ（約¥3,000）：Mi Fitness経由のBluetooth同期でクリーンに体脂肪率・BMI・筋肉量・骨量・代謝率推定を提供。体脂肪トレンドデータは広い誤差幅にもかかわらず有用。弱点：Bluetoothのみのため計測時に近くにスマートフォンが必要、2電極足底BIA構成で本比較最大の誤差幅、Mi Fitnessのデータエクスポートが制限的、Xiaomiの移行期間の短い製品・アプリ終了実績は複数年データ追跡への正当な懸念。",
     "anker-eufy-smart-scale-p2-pro": "実用的な中間選択肢：Wi-Fi同期（スマートフォン近接不要）・Apple HealthとGoogle Fit連携・16指標をWithingsとタニタオプションの4分の1の価格で提供。Ankerは日本でXiaomiが持たない充実したサービス体制（小売店・日本語直接サポート）を持つ。弱点：16指標は充実して聞こえるが体重・体脂肪・BMI以外のほとんどの追加指標は同じ2電極足底BIA信号からの異なる回帰式による導出で独立した計測ではない、Eufy Lifeアプリエコシステムの成熟度はWithings Health MateやGarmin Connectより低い、日本でブランドはタニタの臨床的信頼性を持たない。"
   },

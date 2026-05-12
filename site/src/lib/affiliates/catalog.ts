@@ -135,6 +135,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hario-v60-ceramic-slim",
+    imageUrl: "https://global.hario.com/product/MSS-1DTB.jpg",
     category: "home",
     badge: "🌱",
     name: { en: "Hario V60 Ceramic Slim", ja: "ハリオ V60 セラミックスリム" },
@@ -149,6 +150,7 @@ const RAW_CATALOG = [
   },
   {
     id: "melitta-vario-e",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001592395.jpg",
     category: "home",
     badge: "☕",
     name: { en: "Melitta Vario E", ja: "メリタ バリオ E" },
@@ -162,6 +164,7 @@ const RAW_CATALOG = [
   },
   {
     id: "delonghi-kg79j",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000689946.jpg",
     category: "home",
     badge: "🎚️",
     name: { en: "Delonghi KG79J", ja: "デロンギ KG79J" },
@@ -175,6 +178,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fuji-royal-r220",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000892819.jpg",
     category: "home",
     badge: "🏆",
     name: { en: "Fuji Royal R-220 (Mirukko)", ja: "富士ローヤル みるっこ R-220" },
@@ -494,6 +498,7 @@ const RAW_CATALOG = [
   },
   {
     id: "botanist-damage-care-shampoo",
+    imageUrl: "https://item-shopping.c.yimg.jp/i/l/summer_4582521680719_i_20230607225453",
     category: "beauty",
     badge: "🌿",
     name: { en: "BOTANIST Damage Care Shampoo", ja: "BOTANIST ダメージケア シャンプー" },
@@ -522,6 +527,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mediquick-scalp-shampoo",
+    imageUrl: "https://item-shopping.c.yimg.jp/i/l/minoku-premium_6613-1-a_i_20260211072045",
     category: "beauty",
     badge: "🩺",
     name: { en: "MEDIQUICK H Scalp Shampoo (Medicated)", ja: "メディクイックH 薬用スカルプシャンプー" },
@@ -739,6 +745,7 @@ const RAW_CATALOG = [
   },
   {
     id: "anessa-sunscreen-spf50",
+    imageUrl: "https://m.media-amazon.com/images/I/31+snbPD0tL.jpg",
     category: "beauty",
     badge: "☀️",
     name: { en: "Anessa Perfect UV Sunscreen Milk SPF50+PA++++", ja: "アネッサ パーフェクトUV スキンケアミルク SPF50+PA++++" },
@@ -943,6 +950,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-fe-kxu07",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001373877.jpg",
     category: "home",
     badge: "🇯🇵",
     name: { en: "Panasonic FE-KXU07", ja: "パナソニック 加湿器 FE-KXU07" },
@@ -956,6 +964,7 @@ const RAW_CATALOG = [
   },
   {
     id: "balmuda-rain",
+    imageUrl: "https://www.balmuda.com/jp/rain/img/cta/desktop/rain-01@2x.jpg?20240616",
     category: "home",
     badge: "🌧️",
     name: { en: "Balmuda Rain", ja: "バルミューダ レイン 加湿器" },
@@ -978,6 +987,7 @@ const RAW_CATALOG = [
       ja: "約9,000〜12,000円（楽天輸入）スマート超音波式、アプリ＋音声操作、オートモード、6Lタンク。最も手頃なスマート加湿器。弱点：水道水で白い粉発生、UV-Cなし、週次タンク清掃必要、センサー精度が設置場所依存。",
     },
     links: [
+      { network: "amazon-us", productId: "B09C24TYGQ", rawUrl: "https://www.amazon.com/dp/B09C24TYGQ", markets: ["US", "EU", "global"], approved: true },
       { network: "moshimo", productId: "rakuten-levoit-classic-300s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLevoit%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2B%E8%B6%85%E9%9F%B3%E6%B3%A2%E5%BC%8F%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -992,6 +1002,7 @@ const RAW_CATALOG = [
       ja: "約3万円のスイスデザイン気化式ドラム型加湿器。45m²対応、iF・Red Dot受賞デザイン、白い粉なし、寝室対応の静音性。弱点：週次ドラム清掃、狭い流し台での大型タンク補水が困難、スマート接続なし。",
     },
     links: [
+      { network: "amazon-us", productId: "B002WGLQS0", rawUrl: "https://www.amazon.com/dp/B002WGLQS0", markets: ["US", "EU", "global"], approved: true },
       { network: "moshimo", productId: "rakuten-stadler-form-oskar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStadler%2BForm%2B%E3%82%AA%E3%82%B9%E3%82%AB%E3%83%BC%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1395,6 +1406,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-sr-v18ba",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001553749.jpg",
     category: "home",
     badge: "👑",
     name: { en: "Panasonic SR-V18BA (Bistro 1-sho)", ja: "パナソニック SR-V18BA(ビストロ1升)" },
@@ -1422,6 +1434,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mitsubishi-honsumigama-nj-awb10",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001269765.jpg",
     category: "home",
     badge: "🪨",
     name: { en: "Mitsubishi Honsumigama KAMADO NJ-AWB10", ja: "三菱 本炭釜 KAMADO NJ-AWB10" },
@@ -1555,6 +1568,7 @@ const RAW_CATALOG = [
   },
   {
     id: "twinbird-hr-db07",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000793346.jpg",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "TWINBIRD HR-DB07", ja: "TWINBIRD HR-DB07" },
@@ -1568,6 +1582,7 @@ const RAW_CATALOG = [
   },
   {
     id: "doshisha-sunruck-sr-r2002",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001467056.jpg",
     category: "beauty",
     badge: "📦",
     name: { en: "DOSHISHA SunRuck SR-R2002", ja: "DOSHISHA SunRuck SR-R2002" },
@@ -1625,6 +1640,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cuisinart-toa-29j",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001386118.jpg",
     category: "home",
     badge: "🍞",
     name: { en: "Cuisinart TOA-29J", ja: "Cuisinart TOA-29J" },
@@ -1638,6 +1654,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yamazen-yaf-c120",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001360826.jpg",
     category: "home",
     badge: "💴",
     name: { en: "Yamazen YAF-C120", ja: "山善 YAF-C120" },
@@ -1652,6 +1669,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Massage Guns (best-massage-gun-2026) ─────────
   {
     id: "theragun-pro-plus",
+    imageUrl: "https://www.therabody.com/cdn/shop/files/preview_images/ea9a9e93990548bb85d7588278ddbf70.thumbnail.0000000000.jpg?v=1760399032",
     category: "beauty",
     badge: "💪",
     name: { en: "Therabody Theragun PRO Plus", ja: "Therabody Theragun PRO Plus" },
@@ -1660,11 +1678,13 @@ const RAW_CATALOG = [
       ja: "79,900円のプロ仕様枠。ストローク振幅16mm、ストール力27kg、上背部に届く三角グリップ。本体1.4kgで長時間使用時に前腕疲労、LED・温熱アタッチメントは機能よりマーケティング寄り。",
     },
     links: [
+      { network: "amazon-us", productId: "B0CG2G7RQY", rawUrl: "https://www.amazon.com/dp/B0CG2G7RQY", markets: ["US", "EU", "global"], approved: true },
       { network: "moshimo", productId: "rakuten-theragun-pro-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTheragun%2BPRO%2BPlus%2F", markets: ["JP"], approved: true },
     ],
   },
   {
     id: "hypervolt-2-pro",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_2ed1a182-ee15-46cf-8a45-b542c5e02cb8?wid=300&hei=300&fmt=pjpeg",
     category: "beauty",
     badge: "🔫",
     name: { en: "Hyperice Hypervolt 2 Pro", ja: "Hyperice Hypervolt 2 Pro" },
@@ -1673,11 +1693,13 @@ const RAW_CATALOG = [
       ja: "69,300円のピストルグリップ枠。ストローク振幅14mm、ストール力30kg、アプリ連動の圧力フィードバック。最高速時のバッテリー減りがスペックより速い(公称180分に対し実使用90-100分)、Theragunよりやや動作音が大きい。",
     },
     links: [
+      { network: "amazon-us", productId: "B09JB64T9Z", rawUrl: "https://www.amazon.com/dp/B09JB64T9Z", markets: ["US", "EU", "global"], approved: true },
       { network: "moshimo", productId: "rakuten-hypervolt-2-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHypervolt%2B2%2BPro%2F", markets: ["JP"], approved: true },
     ],
   },
   {
     id: "bob-and-brad-c2",
+    imageUrl: "https://bobbrad.com/cdn/shop/files/C2.png?v=1739439796&width=1080",
     category: "beauty",
     badge: "💴",
     name: { en: "Bob and Brad C2", ja: "Bob and Brad C2" },
@@ -1686,11 +1708,13 @@ const RAW_CATALOG = [
       ja: "9,800円の予算フルサイズ枠。ストローク振幅10mm、ストール力13.6kgでTheragunの8分の1の価格。背中・太ももの密な筋肉ではストロークが浅すぎてヘッドが目視で滑る、毎日重使用なら14-18ヶ月でバッテリー劣化。",
     },
     links: [
+      { network: "amazon-us", productId: "B08CKWVYMF", rawUrl: "https://www.amazon.com/dp/B08CKWVYMF", markets: ["US", "EU", "global"], approved: true },
       { network: "moshimo", productId: "rakuten-bob-and-brad-c2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBob%2Band%2BBrad%2BC2%2F", markets: ["JP"], approved: true },
     ],
   },
   {
     id: "doctorair-exagun-handy",
+    imageUrl: "https://image.rakuten.co.jp/bodyplus/cabinet/reg07/11756430/lp01v2_main-.jpg",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "DOCTORAIR EXAGUN HANDY", ja: "ドクターエア エクサガン ハンディ" },
@@ -1704,6 +1728,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mytrex-rebive-mini-xs",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001419662.jpg",
     category: "beauty",
     badge: "🧳",
     name: { en: "MYTREX REBIVE MINI XS", ja: "MYTREX REBIVE MINI XS" },
@@ -1831,6 +1856,7 @@ const RAW_CATALOG = [
   },
   {
     id: "meiji-savas-whey-980g",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001044261.jpg",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Meiji SAVAS Whey Protein 100 980 g", ja: "明治 SAVAS ホエイプロテイン100 980g" },
@@ -1927,6 +1953,7 @@ const RAW_CATALOG = [
   // ───────── Tech / Smart Watches (best-smart-watch-2026) ─────────
   {
     id: "apple-watch-series-10",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001652614.jpg",
     category: "tech",
     badge: "🍎",
     name: { en: "Apple Watch Series 10", ja: "Apple Watch Series 10" },
@@ -1940,6 +1967,7 @@ const RAW_CATALOG = [
   },
   {
     id: "garmin-fenix-8-47mm",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001649227.jpg",
     category: "tech",
     badge: "⛰️",
     name: { en: "Garmin Fenix 8 47mm", ja: "Garmin Fenix 8 47mm" },
@@ -1969,6 +1997,7 @@ const RAW_CATALOG = [
   },
   {
     id: "huawei-watch-gt-5",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001656769.jpg",
     category: "tech",
     badge: "🔋",
     name: { en: "HUAWEI Watch GT 5 46mm", ja: "HUAWEI Watch GT 5 46mm" },
@@ -1982,6 +2011,7 @@ const RAW_CATALOG = [
   },
   {
     id: "amazfit-gtr-4",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001480730.jpg",
     category: "tech",
     badge: "⌚",
     name: { en: "Amazfit GTR 4", ja: "Amazfit GTR 4" },
@@ -1997,6 +2027,7 @@ const RAW_CATALOG = [
   // ───────── Fitness / Fitness Trackers (best-fitness-tracker-2026) ─────────
   {
     id: "xiaomi-smart-band-9",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001645966.jpg",
     category: "fitness",
     badge: "💴",
     name: { en: "Xiaomi Smart Band 9", ja: "Xiaomi スマートバンド 9" },
@@ -2011,6 +2042,7 @@ const RAW_CATALOG = [
   },
   {
     id: "garmin-vivosmart-5",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001443836.jpg",
     category: "fitness",
     badge: "🔋",
     name: { en: "Garmin Vivosmart 5", ja: "Garmin Vivosmart 5" },
@@ -2025,6 +2057,7 @@ const RAW_CATALOG = [
   },
   {
     id: "apple-watch-se-2nd",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000045813.jpg",
     category: "fitness",
     badge: "🍎",
     name: { en: "Apple Watch SE 2nd Generation", ja: "Apple Watch SE 第2世代" },
@@ -2039,6 +2072,7 @@ const RAW_CATALOG = [
   },
   {
     id: "samsung-galaxy-fit-3",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000047108.jpg",
     category: "fitness",
     badge: "📱",
     name: { en: "Samsung Galaxy Fit 3", ja: "Samsung Galaxy Fit 3" },
@@ -2069,6 +2103,7 @@ const RAW_CATALOG = [
   },
   {
     id: "garmin-index-s2",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000035022.jpg",
     category: "fitness",
     badge: "🔵",
     name: { en: "Garmin Index S2", ja: "Garmin Index S2" },
@@ -2083,6 +2118,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tanita-rd-906",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000021907.jpg",
     category: "fitness",
     badge: "🏥",
     name: { en: "Tanita RD-906", ja: "タニタ RD-906" },
@@ -2096,6 +2132,7 @@ const RAW_CATALOG = [
   },
   {
     id: "xiaomi-body-composition-scale-2",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001363705.jpg",
     category: "fitness",
     badge: "💴",
     name: { en: "Xiaomi Mi Body Composition Scale 2", ja: "Xiaomi 体組成計 2" },
@@ -2110,6 +2147,7 @@ const RAW_CATALOG = [
   },
   {
     id: "anker-eufy-smart-scale-p2-pro",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000040593.jpg",
     category: "fitness",
     badge: "📶",
     name: { en: "Anker Eufy Smart Scale P2 Pro", ja: "Anker Eufy スマート体重計 P2 Pro" },
@@ -2280,6 +2318,7 @@ const RAW_CATALOG = [
   },
   {
     id: "anker-maggo-3in1-station",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001605164.jpg",
     category: "tech",
     badge: "⚡",
     name: { en: "Anker MagGo 3-in-1 Charging Station", ja: "Anker MagGo 3in1充電ステーション" },
@@ -2294,6 +2333,7 @@ const RAW_CATALOG = [
   },
   {
     id: "belkin-boostcharge-pro-3in1",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001469363.jpg",
     category: "tech",
     badge: "💎",
     name: { en: "Belkin BoostCharge Pro 3-in-1", ja: "Belkin BoostCharge Pro 3in1 MagSafe" },
@@ -2352,6 +2392,7 @@ const RAW_CATALOG = [
   },
   {
     id: "elgato-key-light",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001327167.jpg",
     category: "tech",
     badge: "🎬",
     name: { en: "Elgato Key Light", ja: "Elgato Key Light クリエイター向けLEDパネル" },
@@ -2366,6 +2407,7 @@ const RAW_CATALOG = [
   },
   {
     id: "dyson-solarcycle-morph",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001242308.jpg",
     category: "tech",
     badge: "🌞",
     name: { en: "Dyson Solarcycle Morph", ja: "Dyson Solarcycle Morph デスクランプ" },
@@ -2422,6 +2464,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hhkb-professional-hybrid-type-s",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001447502.jpg",
     category: "tech",
     badge: "🏛️",
     name: { en: "HHKB Professional Hybrid Type-S", ja: "HHKB Professional Hybrid Type-S" },
@@ -2435,6 +2478,7 @@ const RAW_CATALOG = [
   },
   {
     id: "logicool-mx-keys-s",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001548209.jpg",
     category: "tech",
     badge: "💼",
     name: { en: "Logicool MX Keys S", ja: "Logicool MX Keys S ワイヤレスキーボード" },
@@ -2461,6 +2505,7 @@ const RAW_CATALOG = [
   },
   {
     id: "realforce-r3",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001456966.jpg",
     category: "tech",
     badge: "🇯🇵",
     name: { en: "Realforce R3", ja: "Realforce R3 静電容量キーボード" },
@@ -2490,6 +2535,7 @@ const RAW_CATALOG = [
   },
   {
     id: "razer-deathadder-v3",
+    imageUrl: "https://m.media-amazon.com/images/I/2153E0QymqL.jpg",
     category: "tech",
     badge: "🐍",
     name: { en: "Razer DeathAdder V3", ja: "Razer DeathAdder V3" },
@@ -2504,6 +2550,7 @@ const RAW_CATALOG = [
   },
   {
     id: "logicool-mx-master-3s",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001445408.jpg",
     category: "tech",
     badge: "🏆",
     name: { en: "Logicool MX Master 3S", ja: "Logicool MX Master 3S" },
@@ -2518,6 +2565,7 @@ const RAW_CATALOG = [
   },
   {
     id: "elecom-m-xgm20dlbk",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000815879.jpg",
     category: "tech",
     badge: "🇯🇵",
     name: { en: "Elecom HUGE EX M-XGM20DLBK", ja: "エレコム HUGE EX M-XGM20DLBK" },
@@ -2531,6 +2579,7 @@ const RAW_CATALOG = [
   },
   {
     id: "microsoft-arc-mouse",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000999680.jpg",
     category: "tech",
     badge: "🌙",
     name: { en: "Microsoft Arc Mouse", ja: "Microsoft Arc Mouse" },
@@ -2560,6 +2609,7 @@ const RAW_CATALOG = [
   },
   {
     id: "anker-powerconf-c200",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001422025.jpg",
     category: "tech",
     badge: "💰",
     name: { en: "Anker PowerConf C200", ja: "Anker PowerConf C200" },
@@ -2574,6 +2624,7 @@ const RAW_CATALOG = [
   },
   {
     id: "elgato-facecam-pro",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001553581.jpg",
     category: "tech",
     badge: "🎬",
     name: { en: "Elgato Facecam Pro", ja: "Elgato Facecam Pro" },
@@ -2601,6 +2652,7 @@ const RAW_CATALOG = [
   },
   {
     id: "microsoft-lifecam-studio",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000216551.jpg",
     category: "tech",
     badge: "💼",
     name: { en: "Microsoft LifeCam Studio", ja: "Microsoft LifeCam Studio" },
@@ -2615,6 +2667,7 @@ const RAW_CATALOG = [
   // ───────── Tech / Portable Speakers (best-portable-speaker-2026) ─────────
   {
     id: "jbl-flip-6",
+    imageUrl: "https://images.samsung.com/is/image/samsung/p6pim/us/jblflip6blkam/gallery/us-jbl-flip6-jblflip6blkam-550283072?$product-details-jpg$",
     category: "tech",
     badge: "🔊",
     name: { en: "JBL Flip 6", ja: "JBL Flip 6" },
@@ -2629,6 +2682,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sony-srs-xb33",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001265903.jpg",
     category: "tech",
     badge: "🔊",
     name: { en: "Sony SRS-XB33", ja: "Sony SRS-XB33" },
@@ -2643,6 +2697,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ultimate-ears-boom-3",
+    imageUrl: "https://resource.ultimateears.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/ue/products/wireless-speakers/boom-3/lagoon-blue/ue-boom3-lagoon-blue-front.png?v=1",
     category: "tech",
     badge: "🔊",
     name: { en: "Ultimate Ears BOOM 3", ja: "Ultimate Ears BOOM 3" },
@@ -2657,6 +2712,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bose-soundlink-flex",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001436926.jpg",
     category: "tech",
     badge: "🔊",
     name: { en: "Bose SoundLink Flex", ja: "Bose SoundLink Flex" },
@@ -2671,6 +2727,7 @@ const RAW_CATALOG = [
   },
   {
     id: "anker-soundcore-3",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/A3117011-Soundcore_3_-2000x2000-01_3840x.png?v=1752034171",
     category: "tech",
     badge: "🔊",
     name: { en: "Anker Soundcore 3", ja: "Anker Soundcore 3" },
@@ -2793,6 +2850,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nespresso-vertuo-next",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001224742.jpg",
     category: "home",
     badge: "🟫",
     name: { en: "Nespresso Vertuo Next", ja: "ネスプレッソ ヴァーチュオ ネクスト" },
@@ -2850,6 +2908,7 @@ const RAW_CATALOG = [
   },
   {
     id: "delonghi-magnifica-s-ecam22110",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001420364.jpg",
     category: "home",
     badge: "🤖",
     name: { en: "De'Longhi Magnifica S ECAM22.110", ja: "デロンギ マグニフィカS ECAM22.110" },
@@ -2891,6 +2950,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hario-v60-buono-kettle",
+    imageUrl: "https://shop.r10s.jp/roomania/cabinet/item512/4977642730656_1.jpg",
     category: "home",
     badge: "☕",
     name: { en: "Hario V60 Drip Kettle Buono", ja: "ハリオ V60 ドリップケトル" },
@@ -2905,6 +2965,7 @@ const RAW_CATALOG = [
   },
   {
     id: "delonghi-icona-vintage-kettle",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000021842.jpg",
     category: "home",
     badge: "🏺",
     name: { en: "De'Longhi Icona Vintage Electric Kettle", ja: "デロンギ アイコナ ヴィンテージ 電気ケトル" },
@@ -2919,6 +2980,7 @@ const RAW_CATALOG = [
   },
   {
     id: "zojirushi-keep-warm-pot",
+    imageUrl: "https://m.media-amazon.com/images/I/41Z8FIV7gVL.jpg",
     category: "home",
     badge: "🇯🇵",
     name: { en: "Zojirushi CV-GB22 Keep Warm Electric Pot", ja: "象印 CV-GB22 電気ポット 保温" },
@@ -2975,6 +3037,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tescom-tm856",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001134183.jpg",
     category: "home",
     badge: "🇯🇵",
     name: { en: "TESCOM Pure Natura TM856", ja: "テスコム ピュアナチュラ TM856" },
@@ -3002,6 +3065,7 @@ const RAW_CATALOG = [
   },
   {
     id: "iris-ohyama-ifm-s30g",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001364362.jpg",
     category: "home",
     badge: "💴",
     name: { en: "Iris Ohyama Mill Blender IFM-S30G", ja: "アイリスオーヤマ ミルサー IFM-S30G" },
@@ -3172,6 +3236,7 @@ const RAW_CATALOG = [
   },
   {
     id: "aladdin-aet-gs13c",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001466147.jpg",
     category: "home",
     badge: "🔥",
     name: { en: "Aladdin Graphite Grill & Toaster AET-GS13C", ja: "アラジン グラファイト グリル&トースター AET-GS13C" },
@@ -3185,6 +3250,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mitsubishi-bread-oven-to-st1",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001141338.jpg",
     category: "home",
     badge: "🥖",
     name: { en: "Mitsubishi Bread Oven TO-ST1-T", ja: "三菱 ブレッドオーブン TO-ST1-T" },
@@ -3198,6 +3264,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-bistro-nt-d700",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001314979.jpg",
     category: "home",
     badge: "🍕",
     name: { en: "Panasonic Bistro NT-D700", ja: "パナソニック ビストロ NT-D700" },
@@ -3225,6 +3292,7 @@ const RAW_CATALOG = [
   // ───────── Home / Cordless Stick Vacuums (best-cordless-vacuum-2026) ─────────
   {
     id: "dyson-v15-detect-absolute",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001357337.jpg",
     category: "home",
     badge: "🔦",
     name: { en: "Dyson V15 Detect Absolute", ja: "ダイソン V15 Detect Absolute" },
@@ -3239,6 +3307,7 @@ const RAW_CATALOG = [
   },
   {
     id: "eufy-mach-v1",
+    imageUrl: "https://www.ankerjapan.com/cdn/shop/products/T2750001.jpg?crop=center&height=582&v=1680159989&width=582",
     category: "home",
     badge: "💧",
     name: { en: "Anker Eufy MACH V1", ja: "Anker Eufy MACH V1" },
@@ -3253,6 +3322,7 @@ const RAW_CATALOG = [
   },
   {
     id: "shark-cs501j",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001312620.jpg",
     category: "home",
     badge: "🦈",
     name: { en: "Shark EVOPOWER SYSTEM iQ+ CS501J", ja: "シャーク EVOPOWER SYSTEM iQ+ CS501J" },
@@ -3266,6 +3336,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tineco-pure-one-s15-pet",
+    imageUrl: "https://static-ussite.tineco.com/S15%20PET-PC.jpg_a333bb7d-0.jpg",
     category: "home",
     badge: "🐾",
     name: { en: "Tineco Pure One S15 Pet", ja: "Tineco Pure One S15 Pet" },
@@ -3279,6 +3350,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hitachi-pv-bl3k",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001516159.jpg",
     category: "home",
     badge: "🪶",
     name: { en: "Hitachi PV-BL3K", ja: "日立 PV-BL3K" },
@@ -3373,6 +3445,7 @@ const RAW_CATALOG = [
   },
   {
     id: "asics-gel-kayano-31",
+    imageUrl: "https://m.media-amazon.com/images/I/41P-u8J+IbL._SL500_.jpg",
     category: "fitness",
     badge: "🏃",
     name: { en: "Asics Gel-Kayano 31", ja: "アシックス ゲルカヤノ 31" },
@@ -3386,6 +3459,7 @@ const RAW_CATALOG = [
   },
   {
     id: "brooks-ghost-16",
+    imageUrl: "https://shop.r10s.jp/nishinagasports/cabinet/12843036/12849828/brm4183-130-1.gif",
     category: "fitness",
     badge: "👟",
     name: { en: "Brooks Ghost 16", ja: "ブルックス ゴースト 16" },
@@ -3400,6 +3474,7 @@ const RAW_CATALOG = [
   },
   {
     id: "new-balance-880v14",
+    imageUrl: "https://www.supersports.com/ec/img/1/7910301/8539952_l.jpg",
     category: "fitness",
     badge: "🔵",
     name: { en: "New Balance Fresh Foam 880v14", ja: "ニューバランス Fresh Foam 880v14" },
@@ -3413,6 +3488,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hoka-clifton-9",
+    imageUrl: "https://m.media-amazon.com/images/I/21f954wCOiL._SL500_.jpg",
     category: "fitness",
     badge: "☁️",
     name: { en: "Hoka Clifton 9", ja: "ホカ クリフトン 9" },
@@ -3512,6 +3588,7 @@ const RAW_CATALOG = [
   },
   {
     id: "under-armour-undeniable-5-duffel",
+    imageUrl: "https://m.media-amazon.com/images/I/31njdMDbwvL._SL500_.jpg",
     category: "fitness",
     badge: "💧",
     name: { en: "Under Armour Undeniable 5.0 MD Duffle Bag", ja: "アンダーアーマー アンデナイアブル 5.0 MD ダッフルバッグ" },
@@ -3529,6 +3606,7 @@ const RAW_CATALOG = [
   },
   {
     id: "gym-shark-everyday-gym-bag",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0156/6146/files/images-EverydayHoldallMBlack_I3A2H_BBBB53_3840x.jpg?v=1770722507",
     category: "fitness",
     badge: "🦈",
     name: { en: "Gymshark Everyday Gym Bag", ja: "ジムシャーク エブリデイジムバッグ" },
@@ -3596,6 +3674,7 @@ const RAW_CATALOG = [
   },
   {
     id: "stanley-quencher-30oz",
+    imageUrl: "https://item-shopping.c.yimg.jp/i/l/lbreath_10866300401_i_20260409191003",
     category: "fitness",
     badge: "🥤",
     name: { en: "Stanley Quencher 30oz", ja: "スタンレー クエンチャー 30oz" },
@@ -3609,6 +3688,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nalgene-32oz",
+    imageUrl: "https://nalgene.com/wp-content/uploads/2024/01/32oz-WM-Periwinkle-Front_V2-505x757.jpg",
     category: "fitness",
     badge: "🥾",
     name: { en: "Nalgene 32oz Wide Mouth Tritan", ja: "ナルゲン 32oz ワイドマウス Tritan" },
@@ -3636,6 +3716,7 @@ const RAW_CATALOG = [
   },
   {
     id: "klean-kanteen-20oz",
+    imageUrl: "https://www.kleankanteen.jp/cdn/shop/products/K20TKWPCC-BS-T_1024x.jpg?v=1759296037",
     category: "fitness",
     badge: "☕",
     name: { en: "Klean Kanteen 20oz TKWide", ja: "クリーンカンティーン 20oz TKWide" },
@@ -3666,6 +3747,7 @@ const RAW_CATALOG = [
   },
   {
     id: "steelcase-leap-v2",
+    imageUrl: "https://images.steelcase.com/image/upload/c_fill,dpr_auto,q_70,h_656,w_1166/v1673460708/22-0188221.jpg",
     category: "home",
     badge: "🔄",
     name: { en: "Steelcase Leap V2", ja: "スティールケース リープV2" },
@@ -3680,6 +3762,7 @@ const RAW_CATALOG = [
   },
   {
     id: "okamura-contessa-seconda",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000037701.jpg",
     category: "home",
     badge: "🇯🇵",
     name: { en: "Okamura Contessa Seconda", ja: "オカムラ コンテッサ セコンダ" },
@@ -3706,6 +3789,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ikea-markus",
+    imageUrl: "https://www.ikea.com/us/en/images/products/markus-office-chair-vissle-dark-gray__0724714_pe734597_s5.jpg",
     category: "home",
     badge: "🪑",
     name: { en: "IKEA Markus", ja: "IKEA マルクス" },
@@ -3749,6 +3833,7 @@ const RAW_CATALOG = [
   },
   {
     id: "inkbird-iam-t1",
+    imageUrl: "https://www.inkbird.com/cdn/shop/files/wireless-4-in-1-air-quality-monitor-iam-t1-418858.png?v=1745376233",
     category: "home",
     badge: "💴",
     name: { en: "Inkbird IAM-T1", ja: "Inkbird IAM-T1 CO2モニター" },
@@ -3763,6 +3848,7 @@ const RAW_CATALOG = [
   },
   {
     id: "govee-air-quality-monitor",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0512/3489/8105/products/1_105fe514-97c6-41a5-9eb4-252c70be8ba8.jpg?v=1668163814",
     category: "home",
     badge: "📊",
     name: { en: "Govee Air Quality Monitor H5106", ja: "Govee 空気質モニター H5106" },
@@ -3777,6 +3863,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kaiterra-laser-egg-co2",
+    imageUrl: "https://iqnexus.com/wp-content/uploads/2022/08/Untitled-600x450.png",
     category: "home",
     badge: "🥚",
     name: { en: "Kaiterra Laser Egg+ CO2", ja: "Kaiterra Laser Egg+ CO2" },
@@ -3806,6 +3893,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fujifilm-instax-wide-300",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000709266.jpg",
     category: "tech",
     badge: "📷",
     name: { en: "Fujifilm Instax Wide 300", ja: "フジフイルム Instax Wide 300" },
@@ -3819,6 +3907,7 @@ const RAW_CATALOG = [
   },
   {
     id: "polaroid-now-plus",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001417245.jpg",
     category: "tech",
     badge: "🎨",
     name: { en: "Polaroid Now+", ja: "Polaroid Now+" },
@@ -3833,6 +3922,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kodak-mini-shot-3-retro",
+    imageUrl: "https://kodakphotoprinter.com/cdn/shop/files/B084MKQV4N.MAIN.jpg?v=1766158416&width=2000",
     category: "tech",
     badge: "🖨️",
     name: { en: "Kodak Mini Shot 3 Retro", ja: "Kodak Mini Shot 3 Retro" },
@@ -3877,6 +3967,7 @@ const RAW_CATALOG = [
   },
   {
     id: "zwilling-four-star-set",
+    imageUrl: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dw11802e30/images/large/35297-000_2.jpg",
     category: "food",
     badge: "⭐",
     name: { en: "Zwilling Four Star 7-Piece Block Set", ja: "ツヴィリング 四つ星 7点ブロックセット" },
@@ -3891,6 +3982,7 @@ const RAW_CATALOG = [
   },
   {
     id: "global-knife-block-set",
+    imageUrl: "https://www.hartsofstur.com/media/catalog/product/G/-/G-836KB1A-Global-Knife-Block-Set-with-6-Knives.jpg",
     category: "food",
     badge: "🗡️",
     name: { en: "Global G-836/KB 7-Piece Block Set", ja: "グローバル G-836/KB 7点ブロックセット" },
@@ -3904,6 +3996,7 @@ const RAW_CATALOG = [
   },
   {
     id: "victorinox-fibrox-pro",
+    imageUrl: "https://imageengine.victorinox.com/transform/21b443a6-0c04-4d65-bf17-3cc4f42fa6a7/CUT_5-2063-20_S1?io=transform%3Abackground%2Ccolor%3AF0F0F0&io=transform%3Afit%2Cwidth%3A900%2Cheight%3A650&quality=100",
     category: "food",
     badge: "🇨🇭",
     name: { en: "Victorinox Fibrox Pro 8-inch Chef's Knife", ja: "ヴィクトリノックス フィブロックス プロ 20cm シェフズナイフ" },
@@ -3947,6 +4040,7 @@ const RAW_CATALOG = [
   },
   {
     id: "braun-fp3020",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001390191.jpg",
     category: "food",
     badge: "🇩🇪",
     name: { en: "Braun MultiQuick 9 FP3020", ja: "Braun MultiQuick 9 FP3020" },
@@ -3960,6 +4054,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-mk-k48p",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000012530.jpg",
     category: "food",
     badge: "🇯🇵",
     name: { en: "Panasonic MK-K48P", ja: "Panasonic MK-K48P" },
@@ -4016,6 +4111,7 @@ const RAW_CATALOG = [
   },
   {
     id: "epson-eh-tw5825",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001421385.jpg",
     category: "tech",
     badge: "🖥️",
     name: { en: "Epson EH-TW5825", ja: "Epson EH-TW5825" },
@@ -4029,6 +4125,7 @@ const RAW_CATALOG = [
   },
   {
     id: "benq-th685p",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001265027.jpg",
     category: "tech",
     badge: "🎮",
     name: { en: "BenQ TH685P", ja: "BenQ TH685P" },
@@ -4043,6 +4140,7 @@ const RAW_CATALOG = [
   },
   {
     id: "xgimi-horizon-ultra",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001577516.jpg",
     category: "tech",
     badge: "✨",
     name: { en: "XGIMI Horizon Ultra", ja: "XGIMI Horizon Ultra" },
@@ -4084,6 +4182,7 @@ const RAW_CATALOG = [
   },
   {
     id: "blackvue-dr970x-2ch",
+    imageUrl: "https://blackvuenorthamerica.com/cdn/shop/files/thedashcamstore.com-blackvue-dr970x-2ch-ii-series-2-dash-cam-1_1400x.jpg?v=1755270378",
     category: "tech",
     badge: "☁️",
     name: { en: "BlackVue DR970X-2CH", ja: "BlackVue DR970X-2CH" },
@@ -4125,6 +4224,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nextbase-622gw",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001539274.jpg",
     category: "tech",
     badge: "🆘",
     name: { en: "Nextbase 622GW", ja: "Nextbase 622GW" },
@@ -4155,6 +4255,7 @@ const RAW_CATALOG = [
   },
   {
     id: "le-creuset-skillet-26cm",
+    imageUrl: "https://www.lecreuset.com/dw/image/v2/BDRT_PRD/on/demandware.static/-/Sites-le-creuset-master/default/dwf82a6ac2/images/cat_dutch_ovens/riviera_lifestyle/riviera_skillet_tentwofive_g1.jpg?sw=650&sh=650&sm=fit",
     category: "food",
     badge: "🔴",
     name: { en: "Le Creuset Enameled Cast Iron Skillet 26cm", ja: "ル・クルーゼ エナメル鋳鉄スキレット 26cm" },
@@ -4169,6 +4270,7 @@ const RAW_CATALOG = [
   },
   {
     id: "staub-frying-pan-26cm",
+    imageUrl: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dwe103dacd/images/large/40510-784-0_2.jpg",
     category: "food",
     badge: "⚫",
     name: { en: "Staub Frying Pan 26cm", ja: "ストウブ フライパン 26cm" },
@@ -4196,6 +4298,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lodge-l10sk3",
+    imageUrl: "https://tshop.r10s.jp/akibaoo-r/cabinet/gi292/0075536301006.jpg?fitin=300:300",
     category: "food",
     badge: "🍖",
     name: { en: "Lodge Cast Iron Skillet L10SK3 12\"", ja: "Lodge キャストアイアンスキレット L10SK3 12インチ" },
@@ -4225,6 +4328,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cuisinart-gr-4n",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000792410.jpg",
     category: "food",
     badge: "🍳",
     name: { en: "Cuisinart Griddler GR-4N", ja: "クイジナート グリドラー GR-4N" },
@@ -4295,6 +4399,7 @@ const RAW_CATALOG = [
   },
   {
     id: "instant-pot-duo-7in1",
+    imageUrl: "https://instantpot.com/cdn/shop/files/112-0170-01_Duo_6_Qt_Silo_01_ATF.png?v=1752158152&width=3000",
     category: "food",
     badge: "⚡",
     name: { en: "Instant Pot Duo 7-in-1", ja: "インスタントポット Duo 7-in-1" },
@@ -4323,6 +4428,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-sr-mp300",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001156594.jpg",
     category: "food",
     badge: "🌿",
     name: { en: "Panasonic SR-MP300", ja: "パナソニック SR-MP300" },
@@ -4336,6 +4442,7 @@ const RAW_CATALOG = [
   },
   {
     id: "twinbird-ep-4694",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/21131210106.jpg",
     category: "food",
     badge: "🫕",
     name: { en: "Twinbird EP-4694", ja: "ツインバード EP-4694" },
@@ -4404,6 +4511,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-mk-h4",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000059792.jpg",
     category: "food",
     badge: "japan-pick",
     name: { en: "Panasonic MK-H4 Stand Mixer", ja: "パナソニック MK-H4 スタンドミキサー" },
@@ -4433,6 +4541,7 @@ const RAW_CATALOG = [
   },
   {
     id: "breville-joule-turbo",
+    imageUrl: "https://assets.breville.com/cdn-cgi/image/width=1300,format=auto/BSV600/BSV600PSS1BNA1/pdp2.png",
     category: "food",
     badge: "⚡",
     name: { en: "Breville Joule Turbo Sous Vide", ja: "Breville Joule Turbo スービー" },
@@ -4447,6 +4556,7 @@ const RAW_CATALOG = [
   },
   {
     id: "inkbird-isv100w",
+    imageUrl: "https://www.inkbird.com/cdn/shop/files/ISV-100W_31df1e2a-8d94-48dc-99db-a48f20cff049.jpg?v=1768379235",
     category: "food",
     badge: "💰",
     name: { en: "Inkbird ISV-100W Sous Vide Cooker", ja: "Inkbird ISV-100W 低温調理器" },
@@ -4461,6 +4571,7 @@ const RAW_CATALOG = [
   },
   {
     id: "wancle-sous-vide",
+    imageUrl: "https://www.wancle.net/uploads/allimg/170710/1-1FG01J105.jpg",
     category: "food",
     badge: "🎯",
     name: { en: "Wancle Sous Vide Cooker", ja: "Wancle 低温調理器" },
@@ -4475,6 +4586,7 @@ const RAW_CATALOG = [
   },
   {
     id: "polyscience-creative-sous-vide",
+    imageUrl: "https://assets.breville.com/cdn-cgi/image/width=1300,format=auto/SVCRC5/CRC-5AC1B/pdp.png",
     category: "food",
     badge: "🔬",
     name: { en: "PolyScience Creative Series Sous Vide", ja: "PolyScience クリエイティブ シリーズ 低温調理器" },
@@ -4490,6 +4602,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Sunglasses (best-sunglasses-2026) ─────────
   {
     id: "rayban-wayfarer-classic",
+    imageUrl: "https://shop.r10s.jp/upup/cabinet/03444230/03798068/imgrc0062208328.jpg",
     category: "beauty",
     badge: "🕶️",
     name: { en: "Ray-Ban Wayfarer Classic RB2140", ja: "Ray-Ban ウェイファーラー クラシック RB2140" },
@@ -4504,6 +4617,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oakley-holbrook",
+    imageUrl: "https://shop.r10s.jp/gbft-ltd/cabinet/image52/gb-okly-0251_1.jpg",
     category: "beauty",
     badge: "🏔️",
     name: { en: "Oakley Holbrook", ja: "Oakley ホルブルック" },
@@ -4518,6 +4632,7 @@ const RAW_CATALOG = [
   },
   {
     id: "maui-jim-peahi",
+    imageUrl: "https://flightsunglasses.com/cdn/shop/products/blue_peahi_corner_2048x.png?v=1737007031",
     category: "beauty",
     badge: "🌊",
     name: { en: "Maui Jim Peahi", ja: "Maui Jim ペアヒ" },
@@ -4532,6 +4647,7 @@ const RAW_CATALOG = [
   },
   {
     id: "zoff-uv-sunglasses",
+    imageUrl: "https://tshop.r10s.jp/zoff/cabinet/top/za201g03_29e1.jpg",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Zoff UV Sunglasses", ja: "Zoff UVサングラス" },
@@ -4573,6 +4689,7 @@ const RAW_CATALOG = [
   },
   {
     id: "belkin-boost-charge-stand",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001347284.jpg",
     category: "home",
     badge: "🔋",
     name: { en: "Belkin BoostCharge 3-in-1 MagSafe Stand", ja: "Belkin BoostCharge 3-in-1 MagSafe充電スタンド" },
@@ -4586,6 +4703,7 @@ const RAW_CATALOG = [
   },
   {
     id: "anker-622-magnetic-stand",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001401908.jpg",
     category: "home",
     badge: "📱",
     name: { en: "Anker 622 MagGo Magnetic Stand", ja: "Anker 622 MagGo マグネティックスタンド" },
@@ -4600,6 +4718,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ikea-kallax-desk-insert",
+    imageUrl: "https://www.ikea.com/jp/ja/images/products/kallax-insert-with-2-drawers-white__0640671_pe699976_s5.jpg?f=u",
     category: "home",
     badge: "🗄️",
     name: { en: "IKEA Kallax Desk Insert Drawer", ja: "IKEAカラックス デスクインサート引き出し" },
@@ -4656,6 +4775,7 @@ const RAW_CATALOG = [
   },
   {
     id: "byredo-biblitheque",
+    imageUrl: "https://www.byredo.com/cdn-cgi/image/width=auto,height=1200,fit=scale-down,gravity=auto,format=webp,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/2/0/20020004_1_full_no.jpg",
     category: "home",
     badge: "📚",
     name: { en: "Byredo Bibliothèque Candle 240g", ja: "バイレード ビブリオテック キャンドル 240g" },
@@ -4711,6 +4831,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tomtoc-a61-laptop-backpack",
+    imageUrl: "https://www.tomtoc.com/cdn/shop/files/20251212-102147_1000x.jpg?v=1765506215",
     category: "tech",
     badge: "💼",
     name: { en: "Tomtoc A61 Laptop Backpack 40L", ja: "Tomtoc A61 ノートPCバックパック 40L" },
@@ -4725,6 +4846,7 @@ const RAW_CATALOG = [
   },
   {
     id: "incase-icon-backpack",
+    imageUrl: "https://www.incase.com/cdn/shop/files/icon-backpack-blk_04_1.jpg?v=1734748003&width=1000",
     category: "tech",
     badge: "🍎",
     name: { en: "Incase Icon Backpack", ja: "Incase Icon バックパック" },
@@ -4739,6 +4861,7 @@ const RAW_CATALOG = [
   },
   {
     id: "anello-polyester-backpack",
+    imageUrl: "https://tshop.r10s.jp/fgkawamura-2/cabinet/anello/gu-b3013_n00.jpg",
     category: "tech",
     badge: "🎒",
     name: { en: "Anello Polyester Backpack", ja: "アネロ ポリエステルバックパック" },
@@ -4753,6 +4876,7 @@ const RAW_CATALOG = [
   },
   {
     id: "the-north-face-recon",
+    imageUrl: "https://tshop.r10s.jp/abctown/cabinet/08256307/imgrc0111917173.jpg",
     category: "tech",
     badge: "🏔️",
     name: { en: "The North Face Recon 30L", ja: "ザ・ノース・フェイス Recon 30L" },
@@ -4835,6 +4959,7 @@ const RAW_CATALOG = [
   // ───────── Home / Indoor Plants (best-indoor-plant-2026) ─────────
   {
     id: "pothos-golden",
+    imageUrl: "https://shop.r10s.jp/flower-corp/cabinet/02392444/02393992/07963160/skan-000495.jpg",
     category: "home",
     badge: "🌿",
     name: { en: "Golden Pothos (Epipremnum aureum)", ja: "ゴールデンポトス（エピプレムナム・アウレウム）" },
@@ -4849,6 +4974,7 @@ const RAW_CATALOG = [
   },
   {
     id: "monstera-deliciosa",
+    imageUrl: "https://costafarms.com/cdn/shop/files/2000_x_2000-10in_Monstera_in_Two_Tone_Weave_Rope_2_300x.jpg?v=1753903345",
     category: "home",
     badge: "🌱",
     name: { en: "Monstera deliciosa", ja: "モンステラ・デリシオサ" },
@@ -4863,6 +4989,7 @@ const RAW_CATALOG = [
   },
   {
     id: "snake-plant-laurentii",
+    imageUrl: "https://edsplantshop.com/cdn/shop/files/sansevieria-trifasciata-laurentii-snake-plant-various-sizes-246650.jpg?v=1765772075&width=1500",
     category: "home",
     badge: "🪴",
     name: { en: "Sansevieria Laurentii (Snake Plant)", ja: "サンスベリア・ローレンティ（トラノオ）" },
@@ -4877,6 +5004,7 @@ const RAW_CATALOG = [
   },
   {
     id: "zz-plant",
+    imageUrl: "https://costafarms.com/cdn/shop/files/ZZPlantinMonacoYBG_300x.jpg?v=1766414668",
     category: "home",
     badge: "🌿",
     name: { en: "ZZ Plant (Zamioculcas zamiifolia)", ja: "ZZプランツ（ザミオクルカス・ザミフォリア）" },
@@ -4891,6 +5019,7 @@ const RAW_CATALOG = [
   },
   {
     id: "peace-lily",
+    imageUrl: "https://shop.r10s.jp/landplants2/cabinet/h04773502/h07459408/h09486960/halrc0108788729.jpg",
     category: "home",
     badge: "🤍",
     name: { en: "Peace Lily (Spathiphyllum)", ja: "スパティフィラム（ピースリリー）" },
@@ -4991,6 +5120,7 @@ const RAW_CATALOG = [
   },
   {
     id: "trtl-travel-pillow",
+    imageUrl: "https://trtltravel.com/cdn/shop/files/trtl-pillow1___Color--Grey_400x.png?v=1737461529",
     category: "home",
     badge: "🐢",
     name: { en: "Trtl Travel Pillow", ja: "Trtl トラベルピロー" },
@@ -5005,6 +5135,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bcozzy-travel-pillow",
+    imageUrl: "https://bcozzy.com/cdn/shop/files/91k4v6zC4BL_5292c43a-2426-4f6f-9556-cc6dad661204.jpg?v=1762193253&width=1946",
     category: "home",
     badge: "🛋️",
     name: { en: "BCozzy Travel Pillow", ja: "BCozzy トラベルピロー" },
@@ -5019,6 +5150,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ostrichpillow-go",
+    imageUrl: "https://scdn.speedsize.com/bd0a520e-390f-4542-9eab-50a527093b46/ostrichpillow.com/cdn/shop/files/Ostrichpillow_Go_2x_8c2128b6-f5c8-48ee-ba8e-1cbc6780e297.jpg?v=1765297775&width=1946",
     category: "home",
     badge: "🦚",
     name: { en: "Ostrichpillow Go", ja: "Ostrichpillow Go" },
@@ -5032,6 +5164,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tempur-travel-pillow",
+    imageUrl: "https://m.media-amazon.com/images/I/31DhCrAkrpL._SL500_.jpg",
     category: "home",
     badge: "💎",
     name: { en: "Tempur Travel Pillow", ja: "Tempur トラベルピロー" },
@@ -5131,6 +5264,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fellow-stagg-ekg-kettle",
+    imageUrl: "https://image.biccamera.com/img/00000014129017_A01.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Fellow Stagg EKG Electric Pour-Over Kettle", ja: "Fellow Stagg EKG 電気ポアオーバーケトル" },
@@ -5157,6 +5291,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hamilton-beach-40880-kettle",
+    imageUrl: "https://hamiltonbeach.com/media/products/40880.jpg",
     category: "food",
     badge: "💰",
     name: { en: "Hamilton Beach 40880 Programmable Kettle", ja: "Hamilton Beach 40880 プログラマブルケトル" },
@@ -5170,6 +5305,7 @@ const RAW_CATALOG = [
   },
   {
     id: "zojirushi-cv-dcc40-kettle",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/21267010279.jpg",
     category: "food",
     badge: "🏆",
     name: { en: "Zojirushi CV-DCC40 Micom Boiler and Warmer", ja: "象印 CV-DCC40 マイコン沸とうVE電気まほうびん" },
@@ -5199,6 +5335,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bodylastics-tube-bands",
+    imageUrl: "https://bodylastics.com/cdn/shop/files/indexset.jpg?v=1759248636&width=1500",
     category: "fitness",
     badge: "💪",
     name: { en: "Bodylastics Stackable Tube Bands", ja: "Bodylastics スタッカブルチューブバンド" },
@@ -5227,6 +5364,7 @@ const RAW_CATALOG = [
   },
   {
     id: "theraband-flat-bands",
+    imageUrl: "https://m.media-amazon.com/images/I/41M43ZzR4sL._SL500_.jpg",
     category: "fitness",
     badge: "🩺",
     name: { en: "TheraBand Resistance Bands", ja: "セラバンド レジスタンスバンド" },
@@ -5256,6 +5394,7 @@ const RAW_CATALOG = [
   // ───────── Tech / Smart Speakers (best-smart-speaker-2026) ─────────
   {
     id: "amazon-echo-4th-gen",
+    imageUrl: "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6430/6430065_sd.jpg",
     category: "tech",
     badge: "🔵",
     name: { en: "Amazon Echo (4th Gen)", ja: "Amazon Echo（第4世代）" },
@@ -5270,6 +5409,7 @@ const RAW_CATALOG = [
   },
   {
     id: "google-nest-audio",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Google_Nest_Audio.jpg",
     category: "tech",
     badge: "🟢",
     name: { en: "Google Nest Audio", ja: "Google Nest Audio" },
@@ -5284,6 +5424,7 @@ const RAW_CATALOG = [
   },
   {
     id: "apple-homepod-2nd-gen",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001702612.jpg",
     category: "tech",
     badge: "⚪",
     name: { en: "Apple HomePod (2nd Gen)", ja: "Apple HomePod（第2世代）" },
@@ -5298,6 +5439,7 @@ const RAW_CATALOG = [
   },
   {
     id: "amazon-echo-studio",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001195863.jpg",
     category: "tech",
     badge: "🟣",
     name: { en: "Amazon Echo Studio", ja: "Amazon Echo Studio" },
@@ -5312,6 +5454,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sonos-era-100",
+    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001521170.jpg",
     category: "tech",
     badge: "🔶",
     name: { en: "Sonos Era 100", ja: "Sonos Era 100" },
@@ -5348,6 +5491,7 @@ const RAW_CATALOG = [
   },
   {
     id: "intex-dura-beam-deluxe",
+    imageUrl: "https://cdn11.bigcommerce.com/s-u7yn5f7nmq/images/stencil/1280x1280/products/3867/13109/64413ED_A02_lifestyle-2000x2500-9ccac2e__23202.1688142894.jpg",
     category: "home",
     name: { en: "Intex Dura-Beam Deluxe Air Mattress", ja: "インテックス デュラビーム デラックス エアーマットレス" },
     description: {
@@ -5374,6 +5518,7 @@ const RAW_CATALOG = [
   },
   {
     id: "king-koil-luxury-air-mattress",
+    imageUrl: "https://kingkoilairbeds.com/cdn/shop/files/Black_Twin_20.jpg?v=1775561319&width=1946",
     category: "home",
     name: { en: "King Koil Luxury Air Mattress", ja: "キングコイル ラグジュアリー エアーマットレス" },
     description: {
@@ -5425,6 +5570,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kensington-smartfit-footrest",
+    imageUrl: "https://mindreaderproducts.com/cdn/shop/files/FTROLL-BLK_01.jpg?v=1747237948&width=1946",
     category: "home",
     name: { en: "Kensington SmartFit Solemate Footrest", ja: "ケンジントン スマートフィット ソールメイト フットレスト" },
     description: {
@@ -5451,6 +5597,7 @@ const RAW_CATALOG = [
   },
   {
     id: "everlasting-comfort-footrest",
+    imageUrl: "https://everlastingcomfort.com/cdn/shop/files/everlasting-comfort-under-desk-foot-rest-pillow-with-ergonomic-support-1233084154.png?v=1776703149&width=1946",
     category: "home",
     name: { en: "Everlasting Comfort Memory Foam Foot Rest", ja: "エバーラスティングコンフォート メモリーフォーム フットレスト" },
     description: {
@@ -5504,6 +5651,7 @@ const RAW_CATALOG = [
   },
   {
     id: "biddeford-electric-blanket",
+    imageUrl: "https://cdn.upload-sitecenter.shop/cdn/439/2024/11/26/main-Biddeford-Blankets-Comfort-Knit-Heated-Blanket-with-Therapeutic-Heat-Settings-Machine-Washable-Safety-Tested-ampamp-Approved--Perfect-for-Warm-Cozy-Ni-6646715-3802850.jpg",
     category: "home",
     name: { en: "Biddeford Comfort Knit Electric Heated Blanket", ja: "ビデフォード 電気毛布" },
     description: {
@@ -5530,6 +5678,7 @@ const RAW_CATALOG = [
   },
   {
     id: "perfect-sleep-pad-electric-blanket",
+    imageUrl: "https://www.perfectsleeppad.com/wp-content/uploads/2017/10/Perfect_Sleep_Pad_Zones_Stacked-600x800.jpg",
     category: "home",
     name: { en: "Perfect Sleep Pad Heated Mattress Pad", ja: "パーフェクトスリープパッド 電気敷きパッド" },
     description: {
@@ -5556,6 +5705,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rx-smart-gear-freestyle-rope",
+    imageUrl: "https://rxsmartgear.com/cdn/shop/files/RXSG_FREVO_Freestyle_Jump_Rope_Beaded_Rope_with_three_cables.jpg?v=1753901068&width=1280",
     category: "fitness",
     name: { en: "RX Smart Gear Freestyle Speed Rope", ja: "RXスマートギア フリースタイルスピードロープ" },
     description: {
@@ -5701,6 +5851,7 @@ const RAW_CATALOG = [
   },
   {
     id: "primula-burke-cold-brew-carafe",
+    imageUrl: "https://primulaproducts.com/cdn/shop/products/PrimulaBurkeColdBrewMakerBlack_29259836686494_1400x.png?v=1678905993",
     category: "food",
     name: { en: "Primula Burke Cold Brew Carafe", ja: "プリムラ・バーク コールドブリューカラフ" },
     description: {
@@ -5718,6 +5869,7 @@ const RAW_CATALOG = [
   },
   {
     id: "takeya-deluxe-cold-brew",
+    imageUrl: "https://cdn.shopify.com/s/files/1/1892/2457/files/white.jpg?v=1766062870",
     category: "food",
     name: { en: "Takeya Patented Deluxe Cold Brew Coffee Maker", ja: "タケヤ デラックス コールドブリューコーヒーメーカー" },
     description: {
@@ -5735,6 +5887,7 @@ const RAW_CATALOG = [
   },
   {
     id: "county-line-mason-jar-cold-brew",
+    imageUrl: "https://thecountylinekitchen.com/wp-content/uploads/2024/02/cold-brewers.png",
     category: "food",
     name: { en: "County Line Kitchen Mason Jar Cold Brew Coffee Maker", ja: "カウンティライン・キッチン メイソンジャー コールドブリューコーヒーメーカー" },
     description: {
@@ -5753,6 +5906,7 @@ const RAW_CATALOG = [
   // ───────── Home / Bath Mats (best-bath-mat-2026) ─────────
   {
     id: "townselect-diatomite-bath-mat",
+    imageUrl: "https://image.rakuten.co.jp/dondon/cabinet/bath/ksd-002/ksd-002_sp_01c1.jpg",
     category: "home",
     name: { en: "Townselect Diatomite Bath Mat", ja: "珪藻土バスマット" },
     description: {
@@ -5765,6 +5919,7 @@ const RAW_CATALOG = [
   },
   {
     id: "gorilla-grip-bath-mat",
+    imageUrl: "https://gorillagrip.com/cdn/shop/files/GG_BathMat_35x16_Clear_HERO.jpg?v=1776962879&width=1946",
     category: "home",
     name: { en: "Gorilla Grip Original Bath Mat", ja: "ゴリラグリップ バスマット" },
     description: {
@@ -5778,6 +5933,7 @@ const RAW_CATALOG = [
   },
   {
     id: "utopia-towels-bath-mat",
+    imageUrl: "https://www.utopiadeals.com/cdn/shop/files/towel-bathmats-white.progressive.jpg?v=684793272471579766",
     category: "home",
     name: { en: "Utopia Towels Bath Mat", ja: "ユートピアタオル バスマット" },
     description: {
@@ -5803,6 +5959,7 @@ const RAW_CATALOG = [
   },
   {
     id: "teak-bath-mat",
+    imageUrl: "https://cdn11.bigcommerce.com/s-80f75/images/stencil/500x659/products/3/32618/1da33953-93bb-40c6-9fa1-005f2bbfdf20__08536.1776548319.jpg",
     category: "home",
     name: { en: "Teak Bath Mat", ja: "チーク バスマット" },
     description: {
@@ -5887,6 +6044,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ceptics-world-travel-adapter",
+    imageUrl: "https://www.ceptics.com/cdn/shop/products/WPS-2B.jpg?v=1745832674&width=1116",
     category: "tech",
     name: { en: "Ceptics World Travel Adapter Set", ja: "Ceptics ワールド トラベルアダプターセット" },
     description: { en: "Modular interchangeable plug heads by region, lightweight design, USB charging ports", ja: "地域別モジュール式プラグヘッド、軽量設計、USB充電ポート内蔵" },
@@ -5897,6 +6055,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bestek-travel-adapter",
+    imageUrl: "https://www.bestekdirect.com/image/cache/catalog/000xiaoximi/B012ERZ7B8/power-converter-457x571.jpg",
     category: "tech",
     name: { en: "BESTEK Travel Adapter with Voltage Converter", ja: "BESTEK 変圧器内蔵 トラベルアダプター" },
     description: { en: "Built-in 220W step-down voltage converter, covers A/C/G/I/B plug types, USB charging", ja: "220W降圧変圧器内蔵、A/C/G/I/B対応、USB充電ポート付き" },
@@ -5941,6 +6100,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rumble-roller-original",
+    imageUrl: "https://www.rumbleroller.com/cdn/shop/products/Original_logo_45_900x.jpg?v=1573072052",
     category: "fitness",
     name: { en: "RumbleRoller Original Foam Roller", ja: "ランブルローラー オリジナル フォームローラー" },
     description: {
@@ -5967,6 +6127,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hyperice-vyper-3",
+    imageUrl: "https://hyperice.com/cdn/shop/files/vyper-3-pdp-1.png?v=1769126521&width=1300",
     category: "fitness",
     name: { en: "Hyperice Vyper 3 Vibrating Foam Roller", ja: "Hyperice Vyper 3 バイブレーション フォームローラー" },
     description: {
@@ -5980,6 +6141,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lux-fit-foam-roller",
+    imageUrl: "https://www.luxfitproducts.com/cdn/shop/products/MassageRoller-3-1280_copy_grande.jpg?v=1481906561",
     category: "fitness",
     name: { en: "LuxFit Premium High-Density Foam Roller", ja: "LuxFit プレミアム 高密度フォームローラー" },
     description: {
@@ -5994,6 +6156,7 @@ const RAW_CATALOG = [
   // ───────── Food / Cast Iron Skillets (best-cast-iron-skillet-2026) ─────────
   {
     id: "lodge-l8sk3-cast-iron-skillet",
+    imageUrl: "https://aandfstore.com/cdn/shop/products/19240005000010.jpg?v=1680664617",
     category: "food",
     name: { en: "Lodge L8SK3 10.25-Inch Cast Iron Skillet", ja: "ロッジ L8SK3 10.25インチ スキレット" },
     description: {
@@ -6012,6 +6175,7 @@ const RAW_CATALOG = [
   },
   {
     id: "stargazer-10-cast-iron-skillet",
+    imageUrl: "https://stargazercastiron.com/cdn/shop/products/SKT-105-S-Top-1200x1200.png?v=1636745832&width=1200",
     category: "food",
     name: { en: "Stargazer 10.5-Inch Cast Iron Skillet", ja: "スターゲイザー 10.5インチ スキレット" },
     description: {
@@ -6029,6 +6193,7 @@ const RAW_CATALOG = [
   },
   {
     id: "victoria-10-cast-iron-skillet",
+    imageUrl: "https://victoriacookware.com/cdn/shop/files/01.jpg?v=1767730910",
     category: "food",
     name: { en: "Victoria 10-Inch Cast Iron Skillet", ja: "ビクトリア 10インチ スキレット" },
     description: {
@@ -6058,6 +6223,7 @@ const RAW_CATALOG = [
   },
   {
     id: "le-creuset-signature-skillet",
+    imageUrl: "https://www.lecreuset.com/dw/image/v2/BDRT_PRD/on/demandware.static/-/Sites-le-creuset-master/default/dwf82a6ac2/images/cat_dutch_ovens/riviera_lifestyle/riviera_skillet_tentwofive_g1.jpg?sw=650&sh=650&sm=fit",
     category: "food",
     name: { en: "Le Creuset Signature Enameled Cast Iron Skillet", ja: "ル・クルーゼ シグネチャー ホーロースキレット" },
     description: {
@@ -6070,6 +6236,7 @@ const RAW_CATALOG = [
   },
   {
     id: "field-company-no8-skillet",
+    imageUrl: "https://fieldcompany.com/cdn/shop/files/Frame28_2b91a1f5-e28c-4d5b-8d2f-21ed5b6e01cd.jpg?v=1725546739&width=2000",
     category: "food",
     name: { en: "Field Company No.8 Cast Iron Skillet", ja: "フィールドカンパニー No.8 スキレット" },
     description: {
@@ -6107,6 +6274,7 @@ const RAW_CATALOG = [
   // ───────── Fitness / Insulated Water Bottles (best-insulated-water-bottle-2026) ─────────
   {
     id: "hydro-flask-wide-mouth",
+    imageUrl: "https://makeshop-multi-images.akamaized.net/plywood/shopimages/80/61/3_000000006180.jpg?1775029972",
     category: "fitness",
     name: { en: "Hydro Flask Wide Mouth Bottle 32oz", ja: "ハイドロフラスク ワイドマウス 32oz" },
     description: {
@@ -6120,6 +6288,7 @@ const RAW_CATALOG = [
   },
   {
     id: "stanley-quencher-tumbler",
+    imageUrl: "https://www.stanley1913.com/cdn/shop/files/Web_PNG_Square-TheQuencherH2.0FlowStateTumbler30OZ-PeachRosePicnicStripe-Front.png?v=1774558246",
     category: "fitness",
     name: { en: "Stanley Quencher H2.0 Tumbler 30oz", ja: "スタンレー クエンチャー H2.0 タンブラー 30oz" },
     description: {
@@ -6132,6 +6301,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yeti-rambler-bottle",
+    imageUrl: "https://eu.yeti.com/cdn/shop/files/21071200021_21071200029_70000000487_21071504097_70000003488_Drinkware_BottleChug_26oz_Navy_Studio_PrimaryB.png?v=1750778363&width=1946",
     category: "fitness",
     name: { en: "Yeti Rambler Bottle 26oz", ja: "Yeti ランブラー ボトル 26oz" },
     description: {
@@ -6145,6 +6315,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nalgene-silo-bottle",
+    imageUrl: "https://nalgene.com/wp-content/uploads/2022/06/48oz-WM-Gray_Front-NEW-505x757.jpg",
     category: "fitness",
     name: { en: "Nalgene Silo 32oz Wide Mouth Bottle", ja: "ナルゲン サイロ 32oz ワイドマウスボトル" },
     description: {
@@ -6157,6 +6328,7 @@ const RAW_CATALOG = [
   },
   {
     id: "camelbak-chute-mag",
+    imageUrl: "https://liveferal.com/cdn/shop/files/camelbak-moss-camelbak-chute-mag-25oz-insulated-stainless-steel-water-bottle-52870245417327.jpg?v=1744651151&width=3840",
     category: "fitness",
     name: { en: "CamelBak Chute Mag Insulated 25oz", ja: "CamelBak チュートマグ 断熱 25oz" },
     description: {
@@ -6231,6 +6403,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rubbermaid-brilliance-set",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_f93248de-a440-4752-bb9c-95c00ed4be7c?wid=300&hei=300&fmt=pjpeg",
     category: "food",
     name: { en: "Rubbermaid Brilliance BPA-Free Food Storage Set", ja: "ラバーメイド ブリリアンス BPAフリー保存容器セット" },
     description: {
@@ -6247,6 +6420,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oxo-smart-seal-glass",
+    imageUrl: "https://pyrexhome.com/cdn/shop/files/pyr_simply_store_18pc_1128223_1.jpg?v=1760025393&width=1500",
     category: "food",
     name: { en: "OXO Good Grips Smart Seal Glass Rectangle Containers", ja: "OXO グッドグリップス スマートシール ガラス角型保存容器" },
     description: {
@@ -6263,6 +6437,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bentgo-glass-meal-prep",
+    imageUrl: "https://bentgo.com/cdn/shop/files/BGSIGLPK4-DS_Hero_Alt.jpg?v=1748968743",
     category: "food",
     name: { en: "Bentgo Glass Leak-Proof Meal Prep Set", ja: "ベントゴー ガラス漏れ防止作り置き容器セット" },
     description: {
@@ -6309,6 +6484,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tempur-pedic-sleep-mask",
+    imageUrl: "https://relaxtheback.com/cdn/shop/products/Sleep-Mask-Tempur-Pedic-470990.jpg?v=1752796378&width=1946",
     category: "home",
     name: { en: "Tempur-Pedic Sleep Mask", ja: "テンピュール スリープマスク" },
     description: {
@@ -6321,6 +6497,7 @@ const RAW_CATALOG = [
   },
   {
     id: "manta-sleep-mask",
+    imageUrl: "https://mantasleep.com/cdn/shop/products/1.5-Mask-Buy-Box-1.png?v=1627037557",
     category: "home",
     name: { en: "Manta Sleep Mask", ja: "マンタ スリープマスク" },
     description: {
@@ -6334,6 +6511,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nidra-deep-rest-mask",
+    imageUrl: "https://nidragoods.com/cdn/shop/products/nidra-deep-rest-eye-mask-161538.jpg?v=1702480864&width=1000",
     category: "home",
     name: { en: "Nidra Deep Rest Sleep Mask", ja: "ニドラ ディープレスト アイマスク" },
     description: {
@@ -6363,6 +6541,7 @@ const RAW_CATALOG = [
   },
   {
     id: "anker-737-power-bank",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0493/9834/9974/products/A1289011-Anker_737_Power_Bank_PowerCore_24K_1_1600x.png?v=1775967275",
     category: "tech",
     badge: "⚡",
     name: { en: "Anker 737 Power Bank (PowerCore 24K)", ja: "Anker 737 パワーバンク (PowerCore 24K)" },
@@ -6377,6 +6556,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mophie-powerstation-pd",
+    imageUrl: "https://cdn11.bigcommerce.com/s-uv4dd6xvbk/products/326/images/2262/ps_10k_2022_black_hero__95817.1685991441.386.513.jpg?c=1",
     category: "tech",
     badge: "🎨",
     name: { en: "Mophie Powerstation PD", ja: "Mophie パワーステーション PD" },
@@ -6391,6 +6571,7 @@ const RAW_CATALOG = [
   },
   {
     id: "baseus-adaman-power-bank",
+    imageUrl: "https://www.baseus.com/cdn/shop/files/Baseus_Adaman_Power_Bank_65W_20000mAh_Black_14_1200x.jpg?v=1751017142",
     category: "tech",
     badge: "📊",
     name: { en: "Baseus Adaman 65W Power Bank", ja: "Baseus Adaman 65W モバイルバッテリー" },
@@ -6419,6 +6600,7 @@ const RAW_CATALOG = [
   },
   {
     id: "drowsy-silk-sleep-mask",
+    imageUrl: "https://us.drowsysleepco.com/cdn/shop/products/Drowsy-Sleep-Co-Midnight-Blue-The-Mulberry-Silk-Eye-Mask-Plain.jpg?v=1666615163&width=2040",
     category: "home",
     name: { en: "Drowsy Silk Sleep Mask", ja: "ドロウジー シルク スリープマスク" },
     description: {
@@ -6445,6 +6627,7 @@ const RAW_CATALOG = [
   },
   {
     id: "powerblock-elite-dumbbells",
+    imageUrl: "https://powerblock.com/cdn/shop/files/elite-usa-knurled-stage-3.jpg?v=1778085335",
     category: "fitness",
     name: { en: "PowerBlock Elite Adjustable Dumbbells", ja: "パワーブロック エリート 可変式ダンベル" },
     description: {
@@ -6458,6 +6641,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nuobell-adjustable-dumbbells",
+    imageUrl: "https://nuoathletics.com/cdn/shop/files/NUOBELL_550_classic_1.webp?v=1747741200",
     category: "fitness",
     name: { en: "Nüobell Adjustable Dumbbells 50 lb", ja: "ニューオベル 可変式ダンベル 50lb" },
     description: {
@@ -6471,6 +6655,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cap-barbell-hex-dumbbells",
+    imageUrl: "https://capbarbell.com/cdn/shop/files/14015_source_1464292457_987d1a36-cb90-418f-8d04-a10027c9ab5c.jpg",
     category: "fitness",
     name: { en: "CAP Barbell Hex Dumbbell (single)", ja: "キャップバーベル ヘックスダンベル（シングル）" },
     description: {
@@ -6499,6 +6684,7 @@ const RAW_CATALOG = [
   // ───────── Travel / Travel Backpacks (best-travel-backpack-2026) ─────────
   {
     id: "osprey-farpoint-40",
+    imageUrl: "https://shop.r10s.jp/canpanera/cabinet/item244/item_o09290_0.jpg",
     category: "travel",
     badge: "🎒",
     name: { en: "Osprey Farpoint 40 Travel Backpack", ja: "オスプレー ファーポイント 40 トラベルバックパック" },
@@ -6513,6 +6699,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tortuga-setout-45l",
+    imageUrl: "https://cdn.packhacker.com/2019/03/tortuga-setout-45l.jpg?auto=compress&auto=format&w=350&h=233&fit=crop",
     category: "travel",
     badge: "🧳",
     name: { en: "Tortuga Setout 45L Travel Backpack", ja: "トルトゥガ セットアウト 45L トラベルバックパック" },
@@ -6527,6 +6714,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nomatic-travel-pack-30l",
+    imageUrl: "https://m.media-amazon.com/images/I/31pV1iKBXoL._SL500_.jpg",
     category: "travel",
     badge: "💼",
     name: { en: "Nomatic Travel Pack 30L", ja: "ノマティック トラベルパック 30L" },
@@ -6541,6 +6729,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cotopaxi-allpa-35l",
+    imageUrl: "https://image.rakuten.co.jp/crouka/cabinet/21a7/cotop-allpa35_19.jpg",
     category: "travel",
     badge: "🏔️",
     name: { en: "Cotopaxi Allpa 35L Travel Pack", ja: "コトパクシ アルパ 35L トラベルパック" },
@@ -6555,6 +6744,7 @@ const RAW_CATALOG = [
   },
   {
     id: "amazonbasics-carry-on-backpack",
+    imageUrl: "https://www.luggagefactory.com/cdn/shop/products/51-YI9ljOZL_1024x1024.jpg?v=1515079553",
     category: "travel",
     badge: "💰",
     name: { en: "AmazonBasics Carry-On Travel Backpack", ja: "Amazonベーシックス 機内持ち込みトラベルバックパック" },
@@ -6600,6 +6790,7 @@ const RAW_CATALOG = [
   },
   {
     id: "travelpro-platinum-elite-21",
+    imageUrl: "https://travelpro.com/cdn/shop/files/409186105_12.jpg?v=1775141301",
     category: "travel",
     badge: "🛫",
     name: { en: "Travelpro Platinum Elite 21\" Softside Spinner", ja: "Travelpro Platinum Elite 21インチ ソフトサイドスピナー" },
@@ -6675,6 +6866,7 @@ const RAW_CATALOG = [
   },
   {
     id: "msr-hubba-hubba-2",
+    imageUrl: "https://cascadedesigns.com/cdn/shop/files/13937_msr_hubba_LT_2P_body_angled.jpg?v=1725608857&width=1946",
     category: "travel",
     badge: "🏔️",
     name: { en: "MSR Hubba Hubba 2 Tent", ja: "MSR Hubba Hubba 2 テント" },
@@ -6736,6 +6928,7 @@ const RAW_CATALOG = [
   },
   {
     id: "merrell-moab-3-mid-wp",
+    imageUrl: "https://thekit.wolverineworldwide.com/match/media_lookup/MRLM-J00003598-012826-F26-000/?preset=dw-pdp-primary",
     category: "fitness",
     name: { en: "Merrell Moab 3 Mid WP", ja: "メレル モアブ 3 ミッド WP" },
     description: {
@@ -6761,6 +6954,7 @@ const RAW_CATALOG = [
   },
   {
     id: "la-sportiva-tx4-gtx",
+    imageUrl: "https://www.lasportivausa.com/cdn/shop/files/37B_900322_TX4_Evo_Carbon_Cherry_Tomato_1_c30b621e-bc2c-4b25-8b70-fadf1b659281.jpg",
     category: "fitness",
     name: { en: "La Sportiva TX4 GTX", ja: "ラ スポルティバ TX4 GTX" },
     description: {
@@ -6773,6 +6967,7 @@ const RAW_CATALOG = [
   },
   {
     id: "columbia-newton-ridge-plus-ii",
+    imageUrl: "https://media.columbia.com/i/columbia/1594731_291_f_tt?w=1280&fmt=auto",
     category: "fitness",
     name: { en: "Columbia Newton Ridge Plus II", ja: "コロンビア ニュートンリッジ プラス II" },
     description: {
@@ -6802,6 +6997,7 @@ const RAW_CATALOG = [
   },
   {
     id: "coros-pace-3",
+    imageUrl: "https://d1teks7lx8pls2.cloudfront.net/filters:format(webp)/filters:quality(90)/fit-in/1920x900/coros-v2/images/36dc5e0795adcc3cdef5e61f254c5cba.png",
     category: "fitness",
     name: { en: "Coros Pace 3", ja: "コロス ペース 3" },
     description: {
@@ -6871,6 +7067,7 @@ const RAW_CATALOG = [
   },
   {
     id: "trtl-pillow-neck",
+    imageUrl: "https://trtltravel.com/cdn/shop/files/trtl-pillow1___Color--Grey_400x.png?v=1737461529",
     category: "travel",
     badge: "🐢",
     name: { en: "Trtl Travel Pillow", ja: "Trtl トラベルピロー" },
@@ -6886,6 +7083,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bcozzy-chin-pillow",
+    imageUrl: "https://bcozzy.com/cdn/shop/files/91k4v6zC4BL_5292c43a-2426-4f6f-9556-cc6dad661204.jpg?v=1762193253&width=1946",
     category: "travel",
     badge: "🛋️",
     name: { en: "BCozzy Adult Chin Supporting Travel Pillow", ja: "BCozzy 大人用顎サポートトラベルピロー" },
@@ -6901,6 +7099,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tempur-travel-neck-pillow",
+    imageUrl: "https://assets-www.tempurpedic.com/media/images/NeckPillowTravel_BX3Nl4X.original.original.jpg",
     category: "travel",
     badge: "💎",
     name: { en: "Tempur-Pedic Travel Neck Pillow", ja: "Tempur-Pedic トラベルネックピロー" },
@@ -6946,6 +7145,7 @@ const RAW_CATALOG = [
   },
   {
     id: "smith-trace-mips",
+    imageUrl: "https://www.smithoptics.com/cdn/shop/files/trace-helmet_black-matteCement_3Q.png?v=1758548864&width=1445",
     category: "fitness",
     name: { en: "Smith Trace MIPS", ja: "スミス トレース MIPS" },
     description: {
@@ -7011,6 +7211,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cap-barbell-cast-iron-kettlebell",
+    imageUrl: "https://capbarbell.com/cdn/shop/files/SDK2-010-variant.webp?v=1769787859",
     category: "fitness",
     name: { en: "CAP Barbell Cast Iron Kettlebell", ja: "CAPバーベル 鋳鉄ケトルベル" },
     description: {
@@ -7097,6 +7298,7 @@ const RAW_CATALOG = [
   },
   {
     id: "peloton-original-bike",
+    imageUrl: "https://res.cloudinary.com/peloton-cycle/image/fetch/dpr_1.0,f_auto,q_auto:good,w_600/https://images.ctfassets.net/7vk8puwnesgc/1t2RDtMWApLXAOVLe2jPw0/c5c812deeaa648ef16a957c9e854d0ee/Bike_Render1.png",
     category: "fitness",
     name: { en: "Peloton Original Bike", ja: "ペロトン オリジナルバイク" },
     description: {
@@ -7110,6 +7312,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sunny-health-sf-b1002-bike",
+    imageUrl: "https://sunnyhealthfitness.com/cdn/shop/products/sunny-health-fitness-bikes-belt-drive-indoor-cycling-bike-SF-B1002-01_750x.jpg?v=1691775342",
     category: "fitness",
     name: { en: "Sunny Health & Fitness SF-B1002 Indoor Cycling Bike", ja: "サニーヘルス＆フィットネス SF-B1002 インドアサイクリングバイク" },
     description: {
@@ -7124,6 +7327,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bowflex-c6-bike",
+    imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw66630289/images/bfx/bikes/100894/c6-bike-in-home-f-lr.jpg?sw=2600&sh=1464&sm=fit",
     category: "fitness",
     name: { en: "Bowflex C6 Bike", ja: "ボウフレックス C6 バイク" },
     description: {
@@ -7154,6 +7358,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tyr-special-ops-2",
+    imageUrl: "https://skyrosrunning.com/cdn/shop/products/TYR-special-OPS-20-transition-women-swim-goggles-clear-grey-mint-1_1024x1024.jpg?v=1640977108",
     category: "fitness",
     name: { en: "TYR Special Ops 2.0 Transition Swim Goggles", ja: "TYR スペシャルオプス 2.0 トランジションスイムゴーグル" },
     description: {
@@ -7168,6 +7373,7 @@ const RAW_CATALOG = [
   },
   {
     id: "arena-cobra-ultra-swipe",
+    imageUrl: "https://www.arenasport.com/media/catalog/product/cache/4e088f46ea9d1aa16967b1cdc7b0a954/0/0/003929110_001_xl_3.jpg",
     category: "fitness",
     name: { en: "Arena Cobra Ultra Swipe Racing Swim Goggles", ja: "アリーナ コブラ ウルトラ スワイプ 競泳ゴーグル" },
     description: {
@@ -7182,6 +7388,7 @@ const RAW_CATALOG = [
   },
   {
     id: "aqua-sphere-kayenne",
+    imageUrl: "https://us.aquasphereswim.com/cdn/shop/files/EP314_Photochromatic_1_682d2153-e30e-45fb-9950-81ac34854b06.jpg?v=1764639076&width=500",
     category: "fitness",
     name: { en: "Aqua Sphere Kayenne Swim Goggles", ja: "アクアスフィア カイエン スイムゴーグル" },
     description: {
@@ -7226,6 +7433,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hugger-mugger-cork-block",
+    imageUrl: "https://www.huggermugger.com/cdn/shop/files/cork-yoga-block_01___00716.1677793942.1280.1280.jpg?v=1764114553&width=320",
     category: "fitness",
     name: { en: "Hugger Mugger Cork Yoga Block", ja: "ハガーマガー コルク ヨガブロック" },
     description: {
@@ -7254,6 +7462,7 @@ const RAW_CATALOG = [
   },
   {
     id: "jade-yoga-foam-block",
+    imageUrl: "https://jadeyoga.com/cdn/shop/products/Jade-Yoga-Mats-Cork-Blocks_1024x1024.jpg?v=1631577210",
     category: "fitness",
     name: { en: "JadeYoga Foam Yoga Block", ja: "ジェイドヨガ フォーム ヨガブロック" },
     description: {
@@ -7268,6 +7477,7 @@ const RAW_CATALOG = [
   },
   {
     id: "prosource-firm-foam-block",
+    imageUrl: "https://www.prosourcefit.com/cdn/shop/files/Foam-Yoga-Blocks-Black-01_b5334eaf-6085-4056-b292-1bd1029bf43b.jpg?v=1764957713&width=2500",
     category: "fitness",
     name: { en: "ProSource Firm High-Density Foam Yoga Block", ja: "プロソース 高密度フォーム ヨガブロック" },
     description: {
@@ -7312,6 +7522,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-matador-pull-up-bar",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Rigs%20and%20Racks/Rig%20and%20Rack%20Accessories/Infinity%20Accessories/RA0191/RA0191-H_rkumby.png",
     category: "fitness",
     name: { en: "ROGUE Matador Mounted Pull-Up Bar", ja: "ROGUE Matador 壁取付けプルアップバー" },
     description: {
@@ -7326,6 +7537,7 @@ const RAW_CATALOG = [
   },
   {
     id: "prosourcefit-doorway-chinup",
+    imageUrl: "https://www.prosourcefit.com/cdn/shop/files/Doorway-Pull-Up-Bar-01-Shopify.jpg?v=1741295710&width=1500",
     category: "fitness",
     name: { en: "ProsourceFit Multi-Use Doorway Chinup Bar", ja: "ProsourceFit マルチユース ドア枠チンアップバー" },
     description: {
@@ -7340,6 +7552,7 @@ const RAW_CATALOG = [
   },
   {
     id: "gorilla-bow-pull-up-station",
+    imageUrl: "https://www.gorillabow.com/cdn/shop/files/WhatsApp_Image_2024-08-27_at_3.46.28_AM_1_1800x1800.jpg?v=1723028192",
     category: "fitness",
     name: { en: "Gorilla Bow Portable Resistance Pull-Up Station", ja: "Gorilla Bow ポータブルレジスタンス プルアップステーション" },
     description: {
@@ -7384,6 +7597,7 @@ const RAW_CATALOG = [
   },
   {
     id: "onyx-coffee-lab-subscription",
+    imageUrl: "https://onyxcoffeelab.com/cdn/shop/products/roasters_choice_1200x.gif?v=1597865634",
     category: "food",
     badge: "🖤",
     name: { en: "Onyx Coffee Lab Subscription", ja: "Onyx Coffee Lab サブスクリプション" },
@@ -7442,6 +7656,7 @@ const RAW_CATALOG = [
   },
   {
     id: "graze-snack-subscription",
+    imageUrl: "https://www.graze.com/cdn/shop/files/Crunch.jpg?v=1769681088&width=3840",
     category: "food",
     badge: "🥗",
     name: { en: "Graze Snack Subscription", ja: "Graze スナックサブスクリプション" },
@@ -7456,6 +7671,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mouth-snack-subscription",
+    imageUrl: "https://mouth.com/cdn/shop/t/174/assets/subscriptions-banner-updated_2000x.progressive.jpg",
     category: "food",
     badge: "🏡",
     name: { en: "Mouth Artisan Snack Subscription", ja: "Mouth アーティザン スナックサブスクリプション" },
@@ -7470,6 +7686,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bokksu-subscription",
+    imageUrl: "https://bokksu.com/cdn/shop/files/Bokksu_SnackBox_Seasons_Hero_Square_98f4d818-9d2f-42c3-8e53-3840200baa5d.jpg",
     category: "food",
     badge: "🍡",
     name: { en: "Bokksu Japanese Snack Subscription", ja: "Bokksu 和菓子サブスクリプション" },
@@ -7484,6 +7701,7 @@ const RAW_CATALOG = [
   },
   {
     id: "peets-coffee-subscription",
+    imageUrl: "https://www.peets.com/cdn/shop/files/preview_images/5a165f02098149f4b144fe97d7e1d350.thumbnail.0000000000_small.jpg?v=1709324985",
     category: "food",
     badge: "🫘",
     name: { en: "Peet's Coffee Major Dickason's Blend Subscription", ja: "ピーツコーヒー メジャーディッカソンズブレンド サブスクリプション" },
@@ -7571,6 +7789,7 @@ const RAW_CATALOG = [
   },
   {
     id: "blue-apron-meal-kit",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/2/20/Blue_Apron_meal_kit_box.jpg",
     category: "food",
     badge: "👨‍🍳",
     name: { en: "Blue Apron Meal Kit", ja: "Blue Apronミールキット" },
@@ -7670,6 +7889,7 @@ const RAW_CATALOG = [
   },
   {
     id: "brightland-alive-evoo",
+    imageUrl: "https://brightland.co/cdn/shop/files/Alive-1150x1400.jpg?v=1776359615",
     category: "food",
     name: { en: "Brightland Alive Extra Virgin Olive Oil", ja: "ブライトランド Alive エクストラバージンオリーブオイル" },
     description: {
@@ -7684,6 +7904,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cobram-estate-robust-evoo",
+    imageUrl: "https://shop.cobramestate.com/cdn/shop/files/3_d778b099-1859-4cbb-84aa-186511c3f5e3_1024x.png?v=1776874361",
     category: "food",
     name: { en: "Cobram Estate Robust Extra Virgin Olive Oil", ja: "コブラムエステート ロバスト エクストラバージンオリーブオイル" },
     description: {
@@ -7698,6 +7919,7 @@ const RAW_CATALOG = [
   },
   {
     id: "pompeian-smooth-evoo",
+    imageUrl: "https://pompeian.com/wp-content/uploads/2019/08/00070404002795_C1N1-2023.png",
     category: "food",
     name: { en: "Pompeian Smooth Extra Virgin Olive Oil", ja: "ポンペイアン スムース エクストラバージンオリーブオイル" },
     description: {
@@ -7727,6 +7949,7 @@ const RAW_CATALOG = [
   },
   {
     id: "schwinn-ic4",
+    imageUrl: "https://www.schwinnfitness.com/cdn/shop/files/schwinn-ic4-indoor-cycling-bike.png?v=1765321048&width=1946",
     category: "fitness",
     name: { en: "Schwinn IC4 Indoor Cycling Bike", ja: "シュウィン IC4 インドアサイクリングバイク" },
     description: {
@@ -7741,6 +7964,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nordictrack-s22i",
+    imageUrl: "https://www.ultimatefitnessoutlet.com/cdn/shop/files/S22I_1024x1024.jpg?v=1709419061",
     category: "fitness",
     name: { en: "NordicTrack S22i Studio Cycle", ja: "NordicTrack S22i スタジオサイクル" },
     description: {
@@ -7755,6 +7979,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bowflex-velocore-16",
+    imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw9105720a/images/bfx/bikes/velocore/100925/bowflex-velocore-16-bike-hero.png",
     category: "fitness",
     name: { en: "Bowflex VeloCore 16 Indoor Bike", ja: "ボウフレックス VeloCore 16 インドアバイク" },
     description: {
@@ -7769,6 +7994,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sunny-health-sf-b1002",
+    imageUrl: "https://sunnyhealthfitness.com/cdn/shop/products/sunny-health-fitness-bikes-belt-drive-indoor-cycling-bike-SF-B1002-01_750x.jpg?v=1691775342",
     category: "fitness",
     name: { en: "Sunny Health & Fitness SF-B1002 Indoor Cycling Bike", ja: "サニーヘルス SF-B1002 インドアサイクリングバイク" },
     description: {
@@ -7799,6 +8025,7 @@ const RAW_CATALOG = [
   },
   {
     id: "peloton-tread",
+    imageUrl: "https://res.cloudinary.com/peloton-cycle/image/fetch/dpr_1.0,f_auto,q_auto:good,w_600/https://images.ctfassets.net/7vk8puwnesgc/5RKuRCqMTqZv0H91RrLJYO/c3bdc753b9ac21043ad36bfb5ac02cd1/Tread_Render1.png",
     category: "fitness",
     name: { en: "Peloton Tread", ja: "Peloton Tread トレッドミル" },
     description: {
@@ -7812,6 +8039,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bowflex-treadmill-22",
+    imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dwc1aeedf4/images/bfx/treadmills/100910/t22-treadmill-in-home-living-room-m-ll.jpg?sw=2600&sh=1464&sm=fit",
     category: "fitness",
     name: { en: "Bowflex Treadmill 22", ja: "Bowflex Treadmill 22 トレッドミル" },
     description: {
@@ -7826,6 +8054,7 @@ const RAW_CATALOG = [
   },
   {
     id: "horizon-fitness-t101",
+    imageUrl: "https://www.horizonfitness.com/cdn/shop/files/T101-connect_Hero_06December2023_2_copy.jpg?v=1761178625&width=1946",
     category: "fitness",
     name: { en: "Horizon Fitness T101 Treadmill", ja: "Horizon Fitness T101 トレッドミル" },
     description: {
@@ -7840,6 +8069,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lifefitness-t3",
+    imageUrl: "https://thefitnessoutlet.com/cdn/shop/files/yhst-6009890876947_2270_35899022__28941.1730845707.1280.1280.jpg",
     category: "fitness",
     name: { en: "Life Fitness T3 Treadmill", ja: "Life Fitness T3 トレッドミル" },
     description: {
@@ -7869,6 +8099,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cholula-original",
+    imageUrl: "https://californiaranchmarket.com/cdn/shop/products/003938.jpg?v=1614673182",
     category: "food",
     name: { en: "Cholula Hot Sauce Original", ja: "コルーラ ホットソース オリジナル" },
     description: {
@@ -7883,6 +8114,7 @@ const RAW_CATALOG = [
   },
   {
     id: "valentina-extra-hot",
+    imageUrl: "https://www.salsavalentina.com/images/Valentina-Negra-370.png",
     category: "food",
     name: { en: "Valentina Extra Hot Sauce", ja: "バレンティーナ エクストラホット" },
     description: {
@@ -7897,6 +8129,7 @@ const RAW_CATALOG = [
   },
   {
     id: "crystal-hot-sauce",
+    imageUrl: "https://crystalhotsauce.com/wp-content/uploads/2020/01/Crystal-Hot-Sauce_Products_Crystal-Hot-Sauce-Original_12oz-Stage.png",
     category: "food",
     name: { en: "Crystal Hot Sauce", ja: "クリスタル ホットソース" },
     description: {
@@ -7911,6 +8144,7 @@ const RAW_CATALOG = [
   },
   {
     id: "franks-redhot-original",
+    imageUrl: "https://canadagrocerystore.com/cdn/shop/files/0428fd38-21bd-40a9-a345-287f493e50b1.jpg?v=1762440141",
     category: "food",
     name: { en: "Frank's RedHot Original", ja: "フランクス レッドホット オリジナル" },
     description: {
@@ -7941,6 +8175,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hydrow-wave-rower",
+    imageUrl: "https://www.360fitnesssuperstore.com/cdn/shop/products/Hydrow_Wave_Rower_4_300x300.jpg?v=1679106588",
     category: "fitness",
     name: { en: "Hydrow Wave Rower", ja: "ハイドロー ウェーブ ローイングマシン" },
     description: {
@@ -7954,6 +8189,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nordictrack-rw900",
+    imageUrl: "https://www.ultimatefitnessoutlet.com/cdn/shop/files/nordy.png?v=1709764727&width=1946",
     category: "fitness",
     name: { en: "NordicTrack RW900 Rower", ja: "ノルディックトラック RW900 ローイングマシン" },
     description: {
@@ -7980,6 +8216,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sunny-sf-rw5515",
+    imageUrl: "https://sunnyhealthfitness.com/cdn/shop/products/sunny-health-fitness-rowers-magnetic-rowing-machine-SF-RW5515-01_750x.jpg?v=1632353188",
     category: "fitness",
     name: { en: "Sunny Health SF-RW5515 Magnetic Rower", ja: "サニーヘルス SF-RW5515 マグネティックローイングマシン" },
     description: {
@@ -8010,6 +8247,7 @@ const RAW_CATALOG = [
   },
   {
     id: "health-ade-kombucha",
+    imageUrl: "https://health-ade.com/cdn/shop/files/HAK_Website_PDP_16oz_PLA_01_Front_2000x2000_593220df-ad8e-4547-b238-5f38c23fb6e5_580x580.png?v=1730753898",
     category: "food",
     name: { en: "Health-Ade Kombucha", ja: "ヘルスエイド コンブチャ" },
     description: {
@@ -8038,6 +8276,7 @@ const RAW_CATALOG = [
   },
   {
     id: "humm-kombucha",
+    imageUrl: "https://hummkombucha.com/cdn/shop/files/HUMM_OG_MangoPassionfruit_Web_PDP_1.jpg?v=1759508388",
     category: "food",
     name: { en: "Humm Kombucha", ja: "ハム コンブチャ" },
     description: {
@@ -8052,6 +8291,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kevita-master-brew",
+    imageUrl: "https://kevita.com/wp-content/uploads/013_Header_MBK_2-1-1-scaled.jpg",
     category: "food",
     name: { en: "KeVita Master Brew Kombucha", ja: "ケビータ マスターブリュー コンブチャ" },
     description: {
@@ -8096,6 +8336,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sklz-core-wheels",
+    imageUrl: "https://www.360fitnesssuperstore.com/cdn/shop/products/SKLZ_COREwheels_300x300.jpg?v=1629813598",
     category: "fitness",
     name: { en: "SKLZ Core Wheels", ja: "SKLZ コアホイール" },
     description: {
@@ -8124,6 +8365,7 @@ const RAW_CATALOG = [
   },
   {
     id: "power-systems-versadisc",
+    imageUrl: "https://powersystems.com/cdn/shop/files/6100.jpg?v=1739535711&width=1946",
     category: "fitness",
     name: { en: "Power Systems VersaDisc Ab Wheel", ja: "パワーシステムズ バーサディスク アブホイール" },
     description: {
@@ -8152,6 +8394,7 @@ const RAW_CATALOG = [
   },
   {
     id: "encha-ceremonial-matcha",
+    imageUrl: "https://encha.com/cdn/shop/files/Ceremonial60g.jpg?v=1776258092&width=1500",
     category: "food",
     name: { en: "Encha Ceremonial Organic Matcha", ja: "Encha 宇治産オーガニック抹茶（儀式用グレード）" },
     description: {
@@ -8165,6 +8408,7 @@ const RAW_CATALOG = [
   },
   {
     id: "jade-leaf-ceremonial-matcha",
+    imageUrl: "https://www.jadeleafmatcha.com/cdn/shop/files/Teahouse-Tin-Mockup-White-30g-FRONT_1.png",
     category: "food",
     name: { en: "Jade Leaf Organic Ceremonial Matcha", ja: "Jade Leaf オーガニック抹茶（儀式用グレード）" },
     description: {
@@ -8178,6 +8422,7 @@ const RAW_CATALOG = [
   },
   {
     id: "matcha-konomi-uji",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kyoto-ujitea/cabinet/04850810/100g.jpg",
     category: "food",
     name: { en: "Matcha Konomi Uji Ceremonial", ja: "抹茶このみ 宇治産 儀式用グレード" },
     description: {
@@ -8191,6 +8436,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tenzo-matcha",
+    imageUrl: "https://m.media-amazon.com/images/I/71bYeRvkjoL._AC_UL320_.jpg",
     category: "food",
     name: { en: "Tenzo Matcha", ja: "Tenzo 抹茶" },
     description: {
@@ -8272,6 +8518,7 @@ const RAW_CATALOG = [
   // ───────── Fitness / Battle Ropes v2 (best-battle-rope-2026 updated IDs) ─────────
   {
     id: "battle-rope-co-1-5-50ft",
+    imageUrl: "https://titan.fitness/cdn/shop/files/410523_01.jpg?v=1713972613&width=1946",
     category: "fitness",
     name: { en: "Battle Rope Co. 1.5-Inch x 50-Foot Poly Dacron Rope", ja: "バトルロープCo. 1.5インチ×50フィート ポリダクロンロープ" },
     description: {
@@ -8289,6 +8536,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titan-fitness-battle-rope-50ft",
+    imageUrl: "https://titan.fitness/cdn/shop/files/410521_01.jpg?v=1713972592",
     category: "fitness",
     name: { en: "Titan Fitness Battle Rope 1.5-Inch x 50-Foot", ja: "タイタンフィットネス バトルロープ 1.5インチ×50フィート" },
     description: {
@@ -8306,6 +8554,7 @@ const RAW_CATALOG = [
   },
   {
     id: "power-guidance-battle-rope-30ft",
+    imageUrl: "https://m.media-amazon.com/images/I/41Lt06TDSuL._SL500_.jpg",
     category: "fitness",
     name: { en: "Power Guidance Battle Rope 1.5-Inch x 30-Foot", ja: "パワーガイダンス バトルロープ 1.5インチ×30フィート" },
     description: {
@@ -8323,6 +8572,7 @@ const RAW_CATALOG = [
   },
   {
     id: "stroops-battle-rope-anchor",
+    imageUrl: "https://stroops.com/cdn/shop/files/Stroops-Black-Sleeve-Beast-500x500.jpg?v=1762515386&width=1946",
     category: "fitness",
     name: { en: "Stroops Battle Rope (Includes Anchor Kit)", ja: "ストループス バトルロープ（アンカーキット付属）" },
     description: {
@@ -8340,6 +8590,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rep-fitness-battle-rope-40ft",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0575/5401/0306/t/15/assets/acf.Battle-Rope-All-Main.png?v=1635544619",
     category: "fitness",
     name: { en: "Rep Fitness Battle Rope 2-Inch x 40-Foot", ja: "REPフィットネス バトルロープ 2インチ×40フィート" },
     description: {
@@ -8538,6 +8789,7 @@ const RAW_CATALOG = [
   },
   {
     id: "topo-chico-mineral-water",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/womensfitness/cabinet/item/wm_04001-06000/wm-04517.jpg",
     category: "food",
     name: { en: "Topo Chico Mineral Water", ja: "トポチコ ミネラルウォーター" },
     description: {
@@ -8552,6 +8804,7 @@ const RAW_CATALOG = [
   },
   {
     id: "perrier-sparkling-water",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/syoku/drink01/9c1085.jpg",
     category: "food",
     name: { en: "Perrier Sparkling Water", ja: "ペリエ スパークリングウォーター" },
     description: {
@@ -8566,6 +8819,7 @@ const RAW_CATALOG = [
   },
   {
     id: "la-croix-sparkling-water",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yummyusa/cabinet/item/k_01/kl-00172.jpg",
     category: "food",
     name: { en: "La Croix Sparkling Water", ja: "ラ・クロワ スパークリングウォーター" },
     description: {
@@ -8580,6 +8834,7 @@ const RAW_CATALOG = [
   },
   {
     id: "spindrift-sparkling-water",
+    imageUrl: "https://m.media-amazon.com/images/I/81maBtZEp4L._AC_UL320_.jpg",
     category: "food",
     name: { en: "Spindrift Sparkling Water", ja: "スピンドリフト スパークリングウォーター" },
     description: {
@@ -8623,6 +8878,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oikos-triple-zero",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/otodokestore-plus/cabinet/choice2/imgrc0122276823.jpg",
     category: "food",
     name: { en: "Oikos Triple Zero Greek Yogurt", ja: "オイコス トリプルゼロ ギリシャヨーグルト" },
     description: {
@@ -8680,6 +8936,7 @@ const RAW_CATALOG = [
   },
   {
     id: "trx-pro4-suspension",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fitnessclub/cabinet/trx/trx-pro4-2210-1.jpg",
     category: "fitness",
     name: { en: "TRX PRO4 Suspension Trainer", ja: "TRX PRO4 サスペンショントレーナー" },
     description: {
@@ -8694,6 +8951,7 @@ const RAW_CATALOG = [
   },
   {
     id: "jungle-gym-xt",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/americana/cabinet/04284newitemimage/b004r3vqu4-01.jpg",
     category: "fitness",
     name: { en: "Jungle Gym XT Suspension Trainer", ja: "ジャングルジム XT サスペンショントレーナー" },
     description: {
@@ -8753,6 +9011,7 @@ const RAW_CATALOG = [
   },
   {
     id: "champion-sports-medicine-ball",
+    imageUrl: "https://m.media-amazon.com/images/I/81t2cqxI01L._AC_UL320_.jpg",
     category: "fitness",
     name: { en: "Champion Sports Rubber Medicine Ball", ja: "Champion Sports ラバーメディシンボール" },
     description: {
@@ -8767,6 +9026,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yes4all-slam-ball",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/titivate520/cabinet/12010050/4149402_3.jpg",
     category: "fitness",
     name: { en: "Yes4All Slam Ball", ja: "Yes4All スラムボール" },
     description: {
@@ -8781,6 +9041,7 @@ const RAW_CATALOG = [
   },
   {
     id: "dynamax-medicine-ball",
+    imageUrl: "https://m.media-amazon.com/images/I/51jMYytaykL._AC_UL320_.jpg",
     category: "fitness",
     name: { en: "Dynamax Medicine Ball", ja: "Dynamax メディシンボール" },
     description: {
@@ -8839,6 +9100,7 @@ const RAW_CATALOG = [
   },
   {
     id: "pacific-foods-bone-broth",
+    imageUrl: "https://m.media-amazon.com/images/I/71EfVSSnp3L._AC_UL320_.jpg",
     category: "food",
     name: { en: "Pacific Foods Organic Bone Broth", ja: "Pacific Foods オーガニック ボーンブロス" },
     description: {
@@ -8853,6 +9115,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ancient-nutrition-bone-broth",
+    imageUrl: "https://m.media-amazon.com/images/I/81AHSPKU5BL._AC_UL320_.jpg",
     category: "food",
     name: { en: "Ancient Nutrition Multi-Collagen Bone Broth Protein", ja: "Ancient Nutrition マルチコラーゲン ボーンブロス プロテイン" },
     description: {
@@ -8867,6 +9130,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bare-bones-broth",
+    imageUrl: "https://m.media-amazon.com/images/I/71JYMUwtHxL._AC_UL320_.jpg",
     category: "food",
     name: { en: "Bare Bones Broth", ja: "Bare Bones ブロス" },
     description: {
@@ -8896,6 +9160,7 @@ const RAW_CATALOG = [
   },
   {
     id: "garden-of-life-collagen",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/thumb/6003446_01.jpg",
     category: "food",
     name: { en: "Garden of Life Grass Fed Collagen", ja: "Garden of Life グラスフェッドコラーゲン" },
     description: {
@@ -8910,6 +9175,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ancient-nutrition-collagen",
+    imageUrl: "https://m.media-amazon.com/images/I/51yzkdAgVXL._AC_UL320_.jpg",
     category: "food",
     name: { en: "Ancient Nutrition Multi-Collagen Protein", ja: "Ancient Nutrition マルチコラーゲンプロテイン" },
     description: {
@@ -8924,6 +9190,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sports-research-collagen",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/5979005_01.jpg",
     category: "food",
     name: { en: "Sports Research Collagen Peptides", ja: "Sports Research コラーゲンペプチド" },
     description: {
@@ -8938,6 +9205,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bulletproof-collagen",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/08739184/nowfoods2/24580050_01.jpg",
     category: "food",
     name: { en: "Bulletproof Collagen Protein", ja: "Bulletproof コラーゲンプロテイン" },
     description: {
@@ -8969,6 +9237,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rep-fitness-foam-plyo-box",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/uchinogym/cabinet/rep_fitness/12158771/pb-5100/imgrc0134583073.jpg",
     category: "fitness",
     name: { en: "Rep Fitness Foam Plyo Box", ja: "Rep Fitness フォームプライオボックス" },
     description: {
@@ -8983,6 +9252,7 @@ const RAW_CATALOG = [
   },
   {
     id: "jfit-adjustable-plyo-box",
+    imageUrl: "https://m.media-amazon.com/images/I/812m8OXvQ0L._AC_UL320_.jpg",
     category: "fitness",
     name: { en: "JFIT Adjustable Plyo Box", ja: "JFIT 調整式プライオボックス" },
     description: {
@@ -9011,6 +9281,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yes4all-foam-plyo-box",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukageya/cabinet/root_sniper_folder/sniper_folder_00048/imgrc0102410600.jpg",
     category: "fitness",
     name: { en: "Yes4All Stackable Foam Plyo Box", ja: "Yes4All 積み重ね式フォームプライオボックス" },
     description: {
@@ -9025,6 +9296,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titin-force-weighted-shirt",
+    imageUrl: "https://i.pinimg.com/736x/e6/93/dc/e693dc441684939c8ac30c2242dfd095.jpg",
     category: "fitness",
     name: { en: "Titin Force Weighted Shirt", ja: "Titin Force ウェイテッドシャツ" },
     description: {
@@ -9053,6 +9325,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hyperwear-hyper-vest-pro",
+    imageUrl: "https://hyperwear.com/cdn/shop/files/hyper-vest-pro-weight-vest-adjustable-comfortable-thin-1427907.png?v=1752932310&width=1080",
     category: "fitness",
     name: { en: "Hyperwear Hyper Vest PRO", ja: "Hyperwear Hyper Vest PRO" },
     description: {
@@ -9067,6 +9340,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cap-barbell-weight-vest",
+    imageUrl: "https://capbarbell.com/cdn/shop/files/14437_source_1730762928_4a662bb4-d475-4283-9726-02db898975ed.jpg?v=1768893361",
     category: "fitness",
     name: { en: "CAP Barbell Adjustable Weighted Vest", ja: "CAP Barbell アジャスタブル ウェイテッドベスト" },
     description: {
@@ -9081,6 +9355,7 @@ const RAW_CATALOG = [
   },
   {
     id: "511-tactical-tactec-vest",
+    imageUrl: "https://www.511tactical.com/media/catalog/product/56100/56100_019_01.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=855&width=855",
     category: "fitness",
     name: { en: "5.11 Tactical TacTec Plate Carrier Vest", ja: "5.11 Tactical TacTec プレートキャリアベスト" },
     description: {
@@ -9112,6 +9387,7 @@ const RAW_CATALOG = [
   },
   {
     id: "dynamic-health-acv",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/americana/cabinet/misako_y/001/my20231796.jpg",
     category: "food",
     name: { en: "Dynamic Health Organic Apple Cider Vinegar", ja: "Dynamic Health オーガニック アップルサイダービネガー" },
     description: {
@@ -9138,6 +9414,7 @@ const RAW_CATALOG = [
   },
   {
     id: "goli-acv-gummies",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/496/625496.jpg",
     category: "food",
     name: { en: "Goli Apple Cider Vinegar Gummies", ja: "Goli アップルサイダービネガーグミ" },
     description: {
@@ -9181,6 +9458,7 @@ const RAW_CATALOG = [
   },
   {
     id: "dark-iron-fitness-dip-belt",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-mhfriend/cabinet/1000005/1201382_2.jpg",
     category: "fitness",
     name: { en: "Dark Iron Fitness Leather Dip Belt", ja: "Dark Iron Fitness レザーディップベルト" },
     description: {
@@ -9195,6 +9473,7 @@ const RAW_CATALOG = [
   },
   {
     id: "harbinger-dip-belt",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/palmsamerica/cabinet/img_20240716/9/ay1pxurks3_0.jpg",
     category: "fitness",
     name: { en: "Harbinger Polypropylene Dip Belt", ja: "Harbinger ポリプロピレン ディップベルト" },
     description: {
@@ -9209,6 +9488,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fire-team-fit-dip-belt",
+    imageUrl: "https://m.media-amazon.com/images/I/81IADRU0RCL._AC_UL320_.jpg",
     category: "fitness",
     name: { en: "Fire Team Fit Weightlifting Dip Belt", ja: "Fire Team Fit ウェイトリフティング ディップベルト" },
     description: {
@@ -9252,6 +9532,7 @@ const RAW_CATALOG = [
   },
   {
     id: "life-extension-bio-curcumin",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/thumb/5964209_01.jpg",
     category: "food",
     name: { en: "Life Extension Super Bio-Curcumin (BCM-95)", ja: "Life Extension Super Bio-Curcumin（BCM-95）" },
     description: {
@@ -9266,6 +9547,7 @@ const RAW_CATALOG = [
   },
   {
     id: "qunol-turmeric-1000mg",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/womensfitness/cabinet/item/k_01/kl-02178.jpg",
     category: "food",
     name: { en: "Qunol Turmeric 1000mg", ja: "Qunol ターメリック 1000mg" },
     description: {
@@ -9280,6 +9562,7 @@ const RAW_CATALOG = [
   },
   {
     id: "gaia-herbs-turmeric",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/08739184/nowfoods/5986184_01.jpg",
     category: "food",
     name: { en: "Gaia Herbs Turmeric Supreme", ja: "Gaia Herbs Turmeric Supreme" },
     description: {
@@ -9294,6 +9577,7 @@ const RAW_CATALOG = [
   },
   {
     id: "garden-of-life-turmeric",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/mail/231209/5999096_01.jpg",
     category: "food",
     name: { en: "Garden of Life mykind Organics Turmeric", ja: "Garden of Life mykind Organics ターメリック" },
     description: {
@@ -9323,6 +9607,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tumbl-trak-p-bars",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/global-laboratory/cabinet/part08/b009fanvx4.jpg",
     category: "fitness",
     name: { en: "Tumbl Trak Gymnastics P-Bars", ja: "Tumbl Trak 体操用平行棒" },
     description: {
@@ -9351,6 +9636,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lebert-parallettes",
+    imageUrl: "https://m.media-amazon.com/images/I/61xVpceIRDL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Lebert Parallettes", ja: "Lebert パラレット" },
     description: {
@@ -9365,6 +9651,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yes4all-parallettes",
+    imageUrl: "https://m.media-amazon.com/images/I/61MhXEPit6L._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Yes4All Steel Parallettes", ja: "Yes4All スチールパラレット" },
     description: {
@@ -9395,6 +9682,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rxbar-protein",
+    imageUrl: "https://m.media-amazon.com/images/I/6185U-jq66L._SL1500_.jpg",
     category: "food",
     name: { en: "RXBAR Protein Bar", ja: "RXBAR プロテインバー" },
     description: {
@@ -9409,6 +9697,7 @@ const RAW_CATALOG = [
   },
   {
     id: "clif-builder-bar",
+    imageUrl: "https://m.media-amazon.com/images/I/81dgFOlEW6L._SL1500_.jpg",
     category: "food",
     name: { en: "Clif Bar Builder's Protein Bar", ja: "Clif Bar Builder プロテインバー" },
     description: {
@@ -9423,6 +9712,7 @@ const RAW_CATALOG = [
   },
   {
     id: "one-protein-bar",
+    imageUrl: "https://m.media-amazon.com/images/I/71uCj0On3+L._SL1500_.jpg",
     category: "food",
     name: { en: "ONE Protein Bar", ja: "ONE プロテインバー" },
     description: {
@@ -9437,6 +9727,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kind-protein-bar",
+    imageUrl: "https://m.media-amazon.com/images/I/81tc9nQeqtL._SL1500_.jpg",
     category: "food",
     name: { en: "KIND Protein Bar", ja: "KIND プロテインバー" },
     description: {
@@ -9467,6 +9758,7 @@ const RAW_CATALOG = [
   },
   {
     id: "liquid-iv-hydration-multiplier",
+    imageUrl: "https://m.media-amazon.com/images/I/71uzLBMH8ZL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Liquid I.V. Hydration Multiplier", ja: "Liquid I.V. ハイドレーション マルチプライヤー" },
     description: {
@@ -9481,6 +9773,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nuun-sport-electrolyte-tablets",
+    imageUrl: "https://m.media-amazon.com/images/I/81qjVIWun+L._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Nuun Sport Electrolyte Tablets", ja: "Nuun スポーツ 電解質タブレット" },
     description: {
@@ -9495,6 +9788,7 @@ const RAW_CATALOG = [
   },
   {
     id: "dripdrop-ors-powder",
+    imageUrl: "https://m.media-amazon.com/images/I/710mQWCyshL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "DripDrop ORS Electrolyte Powder", ja: "DripDrop ORS 電解質パウダー" },
     description: {
@@ -9509,6 +9803,7 @@ const RAW_CATALOG = [
   },
   {
     id: "pedialyte-sport",
+    imageUrl: "https://m.media-amazon.com/images/I/71xYleElcrL._AC_SL1300_.jpg",
     category: "food",
     name: { en: "Pedialyte Sport Electrolyte Solution", ja: "Pedialyte スポーツ 電解質ドリンク" },
     description: {
@@ -9524,6 +9819,7 @@ const RAW_CATALOG = [
   // ───────── Fitness / Doorframe Pull-Up Bars (best-pull-up-bar-doorframe-2026) ─────────
   {
     id: "iron-gym-total-upper-body-bar",
+    imageUrl: "https://www.living.fit/cdn/shop/files/Untitleddesign_11_1_535x.png?v=1768185746",
     category: "fitness",
     name: { en: "Iron Gym Total Upper Body Workout Bar", ja: "Iron Gym トータルアッパーボディワークアウトバー" },
     description: {
@@ -9538,6 +9834,7 @@ const RAW_CATALOG = [
   },
   {
     id: "perfect-fitness-multi-gym-pro",
+    imageUrl: "https://shop.r10s.jp/auc-jetrag/cabinet/zp_v2/zp_90/zp1000719617634.jpg",
     category: "fitness",
     name: { en: "Perfect Fitness Multi-Gym Pro", ja: "Perfect Fitness マルチジム プロ" },
     description: {
@@ -9552,6 +9849,7 @@ const RAW_CATALOG = [
   },
   {
     id: "pullup-dip-doorframe-bar",
+    imageUrl: "https://m.media-amazon.com/images/I/41yVLx5ZZ5L._SL500_.jpg",
     category: "fitness",
     name: { en: "Pullup & Dip Doorframe Pull-Up Bar", ja: "Pullup & Dip ドアフレーム懸垂バー" },
     description: {
@@ -9565,6 +9863,7 @@ const RAW_CATALOG = [
   },
   {
     id: "garren-fitness-maximiza-bar",
+    imageUrl: "https://m.media-amazon.com/images/I/61xbHr91nXL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Garren Fitness Maximiza Pull Up Bar", ja: "Garren Fitness Maximiza プルアップバー" },
     description: {
@@ -9579,6 +9878,7 @@ const RAW_CATALOG = [
   },
   {
     id: "prosource-multi-grip-chinup-bar",
+    imageUrl: "https://m.media-amazon.com/images/I/318PXJtMlOL._SL500_.jpg",
     category: "fitness",
     name: { en: "ProSource Multi-Grip Chin-Up/Pull-Up Bar", ja: "ProSource マルチグリップ チンアップ/プルアップバー" },
     description: {
@@ -9608,6 +9908,7 @@ const RAW_CATALOG = [
   },
   {
     id: "theraband-resistance-bands",
+    imageUrl: "https://m.media-amazon.com/images/I/51sBlNgoPAL._AC_SL1200_.jpg",
     category: "fitness",
     name: { en: "TheraBand Professional Resistance Bands (Set of 3)", ja: "TheraBand プロフェッショナル レジスタンスバンド 3本セット" },
     description: {
@@ -9622,6 +9923,7 @@ const RAW_CATALOG = [
   },
   {
     id: "spri-braided-xertube",
+    imageUrl: "https://m.media-amazon.com/images/I/61X6PbBcoxL._AC_SL1280_.jpg",
     category: "fitness",
     name: { en: "SPRI Braided Xertube Resistance Bands", ja: "SPRI ブレイデッドXertube レジスタンスバンド" },
     description: {
@@ -9636,6 +9938,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bodylastics-stackable-bands",
+    imageUrl: "https://m.media-amazon.com/images/I/61DsxYxtQdL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Bodylastics Stackable Tube Resistance Bands (Set of 12)", ja: "Bodylastics スタッカブルチューブ レジスタンスバンド 12本セット" },
     description: {
@@ -9650,6 +9953,7 @@ const RAW_CATALOG = [
   },
   {
     id: "wodfitters-pullup-bands",
+    imageUrl: "https://m.media-amazon.com/images/I/8178XnlkbBL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "WODFitters Pull-Up Assistance Bands", ja: "WODFitters プルアップ補助バンド" },
     description: {
@@ -9665,6 +9969,7 @@ const RAW_CATALOG = [
   // ───────── Home / Reusable Water Bottles (best-reusable-water-bottle-2026) ─────────
   {
     id: "hydro-flask-standard-mouth-21oz",
+    imageUrl: "https://makeshop-multi-images.akamaized.net/plywood/shopimages/00/51/2_000000005100.jpg?1774933356",
     category: "home",
     name: { en: "Hydro Flask Standard Mouth 21oz", ja: "Hydro Flask スタンダードマウス 21oz" },
     description: {
@@ -9682,6 +9987,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nalgene-sustain-wide-mouth-32oz",
+    imageUrl: "https://nalgene.com/wp-content/uploads/2024/01/32oz-WM-Periwinkle-Front_V2-505x757.jpg",
     category: "home",
     name: { en: "Nalgene Sustain Wide Mouth 32oz", ja: "Nalgene サステイン ワイドマウス 32oz" },
     description: {
@@ -9699,6 +10005,7 @@ const RAW_CATALOG = [
   },
   {
     id: "camelbak-chute-mag-25oz",
+    imageUrl: "https://image.rakuten.co.jp/style-depot/cabinet/camelbak/4002401717913_24ss.jpg",
     category: "home",
     name: { en: "CamelBak Chute Mag 25oz", ja: "CamelBak チュートマグ 25oz" },
     description: {
@@ -9716,6 +10023,7 @@ const RAW_CATALOG = [
   },
   {
     id: "stanley-classic-legendary-36oz",
+    imageUrl: "https://www.stanley1913.com/cdn/shop/files/Web_PNG_Square-The_Legendary_Classic_Bottle_1QT_-_Rose_Quartz_2.0_-_Front_9a1537f7-b8a6-4507-b946-c045dfcd3347.png?v=1772242125",
     category: "home",
     name: { en: "Stanley Classic Legendary Bottle 36oz", ja: "スタンレー クラシック 真空ボトル 36oz" },
     description: {
@@ -9733,6 +10041,7 @@ const RAW_CATALOG = [
   },
   {
     id: "klean-kanteen-classic-27oz",
+    imageUrl: "https://www.kleankanteen.com/cdn/shop/files/K27CFSS-BAL.jpg?v=1775528061&width=2000",
     category: "home",
     name: { en: "Klean Kanteen Classic 27oz", ja: "クリーンカンティーン クラシック 27oz" },
     description: {
@@ -9768,6 +10077,7 @@ const RAW_CATALOG = [
   },
   {
     id: "powerblock-elite-exp-50",
+    imageUrl: "https://m.media-amazon.com/images/I/71l8Aw0aZBS._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "PowerBlock Elite EXP 50 Adjustable Dumbbells", ja: "パワーブロック Elite EXP 50 可変式ダンベル" },
     description: {
@@ -9784,6 +10094,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nordictrack-select-a-weight-55",
+    imageUrl: "https://m.media-amazon.com/images/I/71V6q4OVY0L._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "NordicTrack Select-A-Weight 55 lb Dumbbell", ja: "ノルディックトラック セレクトアウェイト 55lb ダンベル" },
     description: {
@@ -9800,6 +10111,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ironmaster-quick-lock-75",
+    imageUrl: "https://www.ironmaster.com/mm5/graphics/00000001/1/75_white_2000_5.jpg",
     category: "fitness",
     name: { en: "Ironmaster Quick-Lock Adjustable Dumbbells (75 lb)", ja: "アイアンマスター クイックロック 可変式ダンベル（75lb）" },
     description: {
@@ -9816,6 +10128,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ativafit-adjustable-dumbbell",
+    imageUrl: "https://m.media-amazon.com/images/I/61ErkmJun5L._AC_SL1200_.jpg",
     category: "fitness",
     name: { en: "ATIVAFIT 71.5 lb Adjustable Dumbbell Set", ja: "ATIVAFIT 71.5lb 可変式ダンベルセット" },
     description: {
@@ -9852,6 +10165,7 @@ const RAW_CATALOG = [
   },
   {
     id: "breville-bambino-bes450",
+    imageUrl: "https://m.media-amazon.com/images/I/61egYXcL9OL._AC_SL1500_.jpg",
     category: "food",
     badge: "⚡",
     name: { en: "Breville Bambino BES450BSS", ja: "ブレビル バンビーノ BES450BSS" },
@@ -9870,6 +10184,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nespresso-essenza-mini-d30",
+    imageUrl: "https://m.media-amazon.com/images/I/518Hwe8xFgL._AC_SL1000_.jpg",
     category: "food",
     badge: "🟡",
     name: { en: "Nespresso Essenza Mini D30", ja: "ネスプレッソ エッセンサ ミニ D30" },
@@ -9888,6 +10203,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mr-coffee-ecmp50-espresso",
+    imageUrl: "https://m.media-amazon.com/images/I/61eB28IGPCL._AC_SL1500_.jpg",
     category: "food",
     badge: "🥛",
     name: { en: "Mr. Coffee Espresso and Cappuccino Machine ECMP50", ja: "Mr.コーヒー エスプレッソ＆カプチーノマシン ECMP50" },
@@ -9906,6 +10222,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hamilton-beach-40792-espresso",
+    imageUrl: "https://m.media-amazon.com/images/I/81ZfTaAxq+L._AC_SL1500_.jpg",
     category: "food",
     badge: "💰",
     name: { en: "Hamilton Beach Espresso Maker 40792", ja: "ハミルトンビーチ エスプレッソメーカー 40792" },
@@ -9944,6 +10261,7 @@ const RAW_CATALOG = [
   },
   {
     id: "chemex-classic-6cup",
+    imageUrl: "https://m.media-amazon.com/images/I/71oMA36JxfL._AC_SL1500_.jpg",
     category: "food",
     badge: "🫙",
     name: { en: "Chemex Classic Series 6-Cup", ja: "Chemex クラシックシリーズ 6カップ" },
@@ -9981,6 +10299,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bodum-pour-over-permanent",
+    imageUrl: "https://m.media-amazon.com/images/I/511yeWI0t0L._AC_SL1200_.jpg",
     category: "food",
     badge: "🔩",
     name: { en: "Bodum Pour Over Coffee Maker with Permanent Filter", ja: "Bodum パーマネントフィルター付きポアオーバーコーヒーメーカー" },
@@ -9999,6 +10318,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fellow-stagg-x-set",
+    imageUrl: "https://m.media-amazon.com/images/I/51pSk04+X0L._AC_SL1190_.jpg",
     category: "food",
     badge: "🎛️",
     name: { en: "Fellow Stagg [X] Pour-Over Set", ja: "Fellow Stagg [X] ポアオーバーセット" },
@@ -10035,6 +10355,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titan-wall-ceiling-pullup",
+    imageUrl: "https://m.media-amazon.com/images/I/41PoXwosyML._AC_SL1000_.jpg",
     category: "fitness",
     name: { en: "Titan Fitness Wall/Ceiling Pull-Up Bar", ja: "Titan Fitness 壁・天井兼用懸垂バー" },
     description: {
@@ -10051,6 +10372,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rep-fitness-ceiling-pullup",
+    imageUrl: "https://repfitness.com/cdn/shop/products/PU-1000-3-Edit-Thumbnail.jpg",
     category: "fitness",
     name: { en: "REP Fitness Ceiling Mount Pull-Up Bar", ja: "REP Fitness 天井固定懸垂バー" },
     description: {
@@ -10067,6 +10389,7 @@ const RAW_CATALOG = [
   },
   {
     id: "probar-wall-mount-pullup",
+    imageUrl: "https://m.media-amazon.com/images/I/61ddwL2lRAL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "ProBar Wall Mount Pull-Up Bar by Pullup & Dip", ja: "Pullup & Dip ProBar 壁固定懸垂バー" },
     description: {
@@ -10083,6 +10406,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ultimate-body-press-ceiling",
+    imageUrl: "https://m.media-amazon.com/images/I/61jGEaZXSfL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Ultimate Body Press Ceiling Mount Pull-Up Bar", ja: "Ultimate Body Press 天井固定懸垂バー" },
     description: {
@@ -10118,6 +10442,7 @@ const RAW_CATALOG = [
   },
   {
     id: "wod-nation-speed-jump-rope",
+    imageUrl: "https://m.media-amazon.com/images/I/71k3hT3rqoL._AC_SL1181_.jpg",
     category: "fitness",
     name: { en: "WOD Nation Speed Jump Rope", ja: "WOD Nation スピードジャンプロープ" },
     description: {
@@ -10135,6 +10460,7 @@ const RAW_CATALOG = [
   },
   {
     id: "crossrope-get-lean-bundle",
+    imageUrl: "https://m.media-amazon.com/images/I/51tV+okJpAL._AC_SL1000_.jpg",
     category: "fitness",
     name: { en: "CrossRope Get Lean Bundle (1/4 lb + 1/2 lb)", ja: "CrossRope ゲットリーンバンドル（1/4 lb + 1/2 lb）" },
     description: {
@@ -10152,6 +10478,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rpm-session-3-jump-rope",
+    imageUrl: "https://m.media-amazon.com/images/I/61MW26mFunL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "RPM Session 3 Jump Rope", ja: "RPM Session 3 ジャンプロープ" },
     description: {
@@ -10169,6 +10496,7 @@ const RAW_CATALOG = [
   },
   {
     id: "elite-srs-muay-thai-cable",
+    imageUrl: "https://m.media-amazon.com/images/I/71kUDHvnZ5L._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Elite SRS Muay Thai Cable Rope", ja: "Elite SRS ムエタイケーブルロープ" },
     description: {
@@ -10206,6 +10534,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oxo-chef-mandoline-2-0",
+    imageUrl: "https://m.media-amazon.com/images/I/61pqycfeKeL._AC_SL1500_.jpg",
     category: "food",
     badge: "🛡️",
     name: { en: "OXO Good Grips Chef's Mandoline Slicer 2.0", ja: "OXO グッドグリップス シェフズマンドリンスライサー 2.0" },
@@ -10224,6 +10553,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kyocera-ceramic-mandoline",
+    imageUrl: "https://m.media-amazon.com/images/I/61QoEL9qWXL._AC_SL1500_.jpg",
     category: "food",
     badge: "⚪",
     name: { en: "Kyocera Advanced Ceramic Adjustable Mandoline", ja: "京セラ アドバンスドセラミック アジャスタブルマンドリン" },
@@ -10242,6 +10572,7 @@ const RAW_CATALOG = [
   },
   {
     id: "swissmar-borner-v-power",
+    imageUrl: "https://m.media-amazon.com/images/I/61wUqFXl0TL._AC_SL1500_.jpg",
     category: "food",
     badge: "🇩🇪",
     name: { en: "Swissmar Borner V-Power Mandoline Slicer", ja: "スウィスマー ボーナー Vパワーマンドリンスライサー" },
@@ -10260,6 +10591,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mueller-v-pro-mandoline",
+    imageUrl: "https://m.media-amazon.com/images/I/71BLc3KCtbL._AC_SL1500_.jpg",
     category: "food",
     badge: "💰",
     name: { en: "Mueller Austria V-Pro Multi Blade Mandoline", ja: "Mueller Austria V-Pro マルチブレードマンドリン" },
@@ -10297,6 +10629,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-ohio-lifting-belt",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_1600,b_rgb:ffffff/catalog/Straps%20Wraps%20and%20Support%20/Belts%20/Powerlifting/WL0044/WL0044/UPDATED%20WL0044/WL0042-H_kv2rcv.png",
     category: "fitness",
     name: { en: "Rogue Ohio Lifting Belt (10mm)", ja: "Rogue Ohio リフティングベルト (10mm)" },
     description: {
@@ -10314,6 +10647,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sbd-lever-belt-13mm",
+    imageUrl: "https://m.media-amazon.com/images/I/81Xd4qmP8AL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "SBD Lever Belt (13mm)", ja: "SBD レバーベルト (13mm)" },
     description: {
@@ -10331,6 +10665,7 @@ const RAW_CATALOG = [
   },
   {
     id: "dark-iron-fitness-leather-belt",
+    imageUrl: "https://m.media-amazon.com/images/I/81wGm436LoL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Dark Iron Fitness Genuine Leather Belt", ja: "Dark Iron Fitness 本革ウェイトリフティングベルト" },
     description: {
@@ -10348,6 +10683,7 @@ const RAW_CATALOG = [
   },
   {
     id: "harbinger-foam-core-belt",
+    imageUrl: "https://m.media-amazon.com/images/I/81c0vZXaBmL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Harbinger Foam Core Belt (4-Inch)", ja: "Harbinger フォームコアベルト (4インチ)" },
     description: {
@@ -10385,6 +10721,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kitchenaid-khbv53-blender",
+    imageUrl: "https://m.media-amazon.com/images/I/61R9B8Sz3-L._AC_SL1500_.jpg",
     category: "food",
     badge: "🔵",
     name: { en: "KitchenAid KHBV53 Variable Speed Hand Blender", ja: "キッチンエイド KHBV53 可変速ハンドブレンダー" },
@@ -10403,6 +10740,7 @@ const RAW_CATALOG = [
   },
   {
     id: "vitamix-immersion-5speed",
+    imageUrl: "https://m.media-amazon.com/images/I/51YSMhNCzFL._AC_SL1500_.jpg",
     category: "food",
     badge: "🏆",
     name: { en: "Vitamix Immersion Blender (5-Speed)", ja: "バイタミックス ハンドブレンダー 5スピード" },
@@ -10421,6 +10759,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mueller-ultra-stick-blender",
+    imageUrl: "https://m.media-amazon.com/images/I/51QsacybR5L._AC_SL1500_.jpg",
     category: "food",
     badge: "💰",
     name: { en: "Mueller Ultra-Stick 500W Immersion Blender", ja: "Mueller Ultra-Stick 500W ハンドブレンダー" },
@@ -10439,6 +10778,7 @@ const RAW_CATALOG = [
   },
   {
     id: "koios-4in1-immersion-blender",
+    imageUrl: "https://m.media-amazon.com/images/I/61UnKmQ0OIL._AC_SL1500_.jpg",
     category: "food",
     badge: "🔧",
     name: { en: "KOIOS 4-in-1 Immersion Hand Blender", ja: "KOIOS 4-in-1 ハンドブレンダー" },
@@ -10510,6 +10850,7 @@ const RAW_CATALOG = [
   },
   {
     id: "etekcity-ek6015-scale",
+    imageUrl: "https://etekcity.com/cdn/shop/products/01.00_A1_EK6015_00.jpg",
     category: "food",
     name: { en: "Etekcity Food Kitchen Scale (EK6015)", ja: "エテックシティ 食品キッチンスケール（EK6015）" },
     description: {
@@ -10527,6 +10868,7 @@ const RAW_CATALOG = [
   },
   {
     id: "zwilling-enfinigy-scale",
+    imageUrl: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dwadae61f5/images/large/530110500_1.jpg",
     category: "food",
     name: { en: "Zwilling Enfinigy Digital Kitchen Scale", ja: "ツヴィリング エンフィニジー デジタルキッチンスケール" },
     description: {
@@ -10563,6 +10905,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rehband-rx-knee-sleeve-7mm",
+    imageUrl: "https://m.media-amazon.com/images/I/81mDfMcU4sL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Rehband RX Knee Sleeve (7mm)", ja: "Rehband RX ニースリーブ (7mm)" },
     description: {
@@ -10580,6 +10923,7 @@ const RAW_CATALOG = [
   },
   {
     id: "stoic-strength-knee-sleeves",
+    imageUrl: "https://m.media-amazon.com/images/I/91nXMsoU4zL._SL1500_.jpg",
     category: "fitness",
     name: { en: "Stoic Strength Knee Sleeves (7mm)", ja: "Stoic Strength ニースリーブ (7mm)" },
     description: {
@@ -10614,6 +10958,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-knee-sleeves-5mm",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Straps%20Wraps%20and%20Support%20/Protection%20and%20Supports/Knee/TEC0021-BLK/TEC0021-BLK-H_heyjmk.png",
     category: "fitness",
     name: { en: "Rogue Knee Sleeves (5mm)", ja: "Rogue ニースリーブ (5mm)" },
     description: {
@@ -10650,6 +10995,7 @@ const RAW_CATALOG = [
   },
   {
     id: "harbinger-21525-wrist-wraps",
+    imageUrl: "https://harbingerfitness.com/cdn/shop/files/onzwgyohgtsxqqaovtny_1afca7ce-5f00-4f04-9373-6ffdce7cbd87.jpg?v=1745291328",
     category: "fitness",
     name: { en: "Harbinger Unisex Polypropylene Wrist Wraps 20\"", ja: "Harbinger ユニセックス ポリプロピレン リストラップ 20インチ" },
     description: {
@@ -10667,6 +11013,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titan-signature-gold-wrist-wraps",
+    imageUrl: "https://titansupport.com/wp-content/uploads/2016/05/wrist3.jpg",
     category: "fitness",
     name: { en: "Titan Signature Gold Wrist Wrap", ja: "Titan Signature Gold リストラップ" },
     description: {
@@ -10684,6 +11031,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-wrist-wraps",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Straps%20Wraps%20and%20Support%20/Straps%20and%20Wraps/Wrist%20Wraps/PS0030/PS0030-H_gs8ky6.png",
     category: "fitness",
     name: { en: "Rogue Fitness Wrist Wraps", ja: "Rogue Fitness リストラップ" },
     description: {
@@ -10701,6 +11049,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sbd-wrist-wraps-competition",
+    imageUrl: "https://us.sbdapparel.com/cdn/shop/files/Wrist-Wraps-04.jpg?v=1755507354&width=1080",
     category: "fitness",
     name: { en: "SBD Wrist Wraps (Competition)", ja: "SBD リストラップ (コンペティション)" },
     description: {
@@ -10737,6 +11086,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lodge-enameled-dutch-oven-6qt",
+    imageUrl: "https://www.lodgecastiron.com/cdn/shop/files/3000x3000_EC7D51_e797bdf1-8921-42d9-9978-2eefee4237d3.jpg?v=1772557412&width=3000",
     category: "food",
     name: { en: "Lodge 6 Quart Enameled Cast Iron Dutch Oven", ja: "Lodge 6クォート ホーロー鋳鉄ダッチオーブン" },
     description: {
@@ -10754,6 +11104,7 @@ const RAW_CATALOG = [
   },
   {
     id: "staub-cocotte-5qt",
+    imageUrl: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dwd4c9bb0a/images/large/40509-356-0_1.jpg",
     category: "food",
     name: { en: "Staub Cast Iron Round Cocotte 5.5qt", ja: "ストウブ 鋳鉄 ラウンドココット 5.5qt" },
     description: {
@@ -10771,6 +11122,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cuisinart-chef-classic-dutch-oven",
+    imageUrl: "https://c1.neweggimages.com/productimage/nb640/A0ZX_1_20160427720219666.jpg",
     category: "food",
     name: { en: "Cuisinart Chef's Classic Enameled Cast Iron 7qt", ja: "クイジナート シェフズクラシック エナメル鋳鉄 7qt" },
     description: {
@@ -10807,6 +11159,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sbd-belt-powerlifting",
+    imageUrl: "https://us.sbdapparel.com/cdn/shop/files/13mm-Lever-Belt-01_1800x1800.jpg?v=1755507380",
     category: "fitness",
     name: { en: "SBD Belt (Lever)", ja: "SBD ベルト（レバー）" },
     description: {
@@ -10841,6 +11194,7 @@ const RAW_CATALOG = [
   },
   {
     id: "pioneer-cut-powerlifting-belt",
+    imageUrl: "https://pioneerfit.com/cdn/shop/files/Stock_4_10mm.png?v=1714409436&width=1080",
     category: "fitness",
     name: { en: "Pioneer Cut Powerlifting Belt", ja: "パイオニアカット パワーリフティングベルト" },
     description: {
@@ -10858,6 +11212,7 @@ const RAW_CATALOG = [
   },
   {
     id: "harbinger-padded-leather-belt",
+    imageUrl: "https://harbingerfitness.com/cdn/shop/files/HARB_15131_PaddedLeatherBelt2.0_4inch_Black_AAVFlat_240909-2000x2000-50cecc9.jpg",
     category: "fitness",
     name: { en: "Harbinger Padded Leather Belt", ja: "ハービンジャー パッド付きレザーベルト" },
     description: {
@@ -10876,6 +11231,7 @@ const RAW_CATALOG = [
 
   {
     id: "tramontina-enameled-dutch-oven",
+    imageUrl: "https://www.tramontina.com/cdn/shop/files/Bestow_6.5_Quart_Enameled_Cast_Iron_Covered_Round_Dutch_Oven_Latte_80131399.jpg?v=1740167280&width=3000",
     category: "food",
     name: { en: "Tramontina Enameled Cast Iron Covered Round Dutch Oven 6.5qt", ja: "トラモンティーナ ホーロー鋳鉄 カバード ラウンドダッチオーブン 6.5qt" },
     description: {
@@ -10998,6 +11354,7 @@ const RAW_CATALOG = [
   },
   {
     id: "texas-power-bar-bare-steel",
+    imageUrl: "https://texaspowerbars.com/cdn/shop/files/OriginalTexasPowerBarProductMainImage.jpg?v=1774101605&width=1500",
     category: "fitness",
     name: { en: "Texas Power Bar Bare Steel", ja: "テキサスパワーバー 裸スチール" },
     description: {
@@ -11049,6 +11406,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titan-fitness-olympic-bar",
+    imageUrl: "https://titan.fitness/cdn/shop/files/430367_01.jpg?v=1760022878&width=1946",
     category: "fitness",
     name: { en: "Titan Fitness Olympic Barbell 20kg", ja: "タイタン フィットネス オリンピックバーベル 20kg" },
     description: {
@@ -11068,6 +11426,7 @@ const RAW_CATALOG = [
   // ───────── Fitness / Squat Racks (best-squat-rack-2026) ─────────
   {
     id: "rogue-rm-3-power-rack",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_1600,b_rgb:ffffff/catalog/Rigs%20and%20Racks/Power%20Racks%20/Monster%20Racks/RM-3/RM-3-SATIN-BLACK-H_e9jkri.png",
     category: "fitness",
     name: { en: "Rogue RM-3 Monster Rack 2.0", ja: "ローグ RM-3 モンスターラック 2.0" },
     description: {
@@ -11085,6 +11444,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rep-fitness-pr-4000-power-rack",
+    imageUrl: "https://repfitness.com/cdn/shop/files/Pre-ConfiguredPR-40006-PostHigh-End-Thumbnail_6bd04dc5-5c47-4376-a1fc-cb0a5b6401a9.jpg",
     category: "fitness",
     name: { en: "REP Fitness PR-4000 Power Rack", ja: "REPフィットネス PR-4000 パワーラック" },
     description: {
@@ -11102,6 +11462,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titan-fitness-t-3-short-rack",
+    imageUrl: "https://titan.fitness/cdn/shop/files/401280_01.jpg?v=1722283120&width=1946",
     category: "fitness",
     name: { en: "Titan Fitness T-3 Short Power Rack", ja: "タイタン フィットネス T-3 ショート パワーラック" },
     description: {
@@ -11119,6 +11480,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cap-barbell-power-rack-fm-cs8000f",
+    imageUrl: "https://capbarbell.com/cdn/shop/files/FM_CB8000F__46543__91821.1446739894.1280.1280_e469e7f0-b22e-4e43-b1ea-81ddd367da97.jpg?v=1768893094",
     category: "fitness",
     name: { en: "CAP Barbell Deluxe Power Rack FM-CS8000F", ja: "CAPバーベル デラックス パワーラック FM-CS8000F" },
     description: {
@@ -11173,6 +11535,7 @@ const RAW_CATALOG = [
   },
   {
     id: "instant-pot-pro-10in1-6qt",
+    imageUrl: "https://instantpot.com/cdn/shop/files/112-0123-01.png?v=1745616608&width=3000",
     category: "food",
     name: { en: "Instant Pot Pro 10-in-1 Pressure Cooker 6qt", ja: "インスタントポット Pro 10-in-1 電気圧力鍋 6クォート" },
     description: {
@@ -11207,6 +11570,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cosori-pressure-cooker-6qt",
+    imageUrl: "https://cosori.com/cdn/shop/products/pressure-cooker-front-view.png?v=1762457655&width=1946",
     category: "food",
     name: { en: "COSORI 6Qt Electric Pressure Cooker 9-in-1", ja: "COSORI 6クォート電気圧力鍋 9-in-1" },
     description: {
@@ -11224,6 +11588,7 @@ const RAW_CATALOG = [
   },
   {
     id: "instant-pot-duo-crisp-air-fryer",
+    imageUrl: "https://instantpot.com/cdn/shop/files/IB_112-0120-01_140-0021-01_Duo-Crisp-6QT-8QT_ATF_Square_Tile1.png?v=1745812123&width=3000",
     category: "food",
     name: { en: "Instant Pot Duo Crisp 11-in-1 Air Fryer", ja: "インスタントポット Duo Crisp 11-in-1 エアフライヤー" },
     description: {
@@ -11261,6 +11626,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hamilton-beach-26031-waffle-maker",
+    imageUrl: "https://hamiltonbeach.com/media/products/26031-02.jpg",
     category: "food",
     badge: "budget-pick",
     name: { en: "Hamilton Beach 26031 Belgian Waffle Maker", ja: "ハミルトンビーチ 26031 ベルギーワッフルメーカー" },
@@ -11279,6 +11645,7 @@ const RAW_CATALOG = [
   },
   {
     id: "breville-bwm604xl-smart-waffle",
+    imageUrl: "https://assets-dam.foodthinkers.com/ZKCA55LU/at/wxwmjfv6qm5wmbcbc7cm378t/BWM604_BSS_USC_Product_Front_View_01_RGB_v1.png?pdp",
     category: "food",
     badge: "premium-pick",
     name: { en: "Breville BWM604XL Smart Waffle Pro", ja: "Breville BWM604XL スマートワッフルプロ" },
@@ -11297,6 +11664,7 @@ const RAW_CATALOG = [
   },
   {
     id: "dash-mini-waffle-maker",
+    imageUrl: "https://bydash.com/cdn/shop/products/DMW001LA_Hero_1.jpg?v=1749053750&width=1946",
     category: "food",
     badge: "mini-pick",
     name: { en: "Dash Mini Waffle Maker", ja: "Dash ミニワッフルメーカー" },
@@ -11353,6 +11721,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hexclad-7pc-hybrid-pan-set",
+    imageUrl: "https://hexclad.com/cdn/shop/files/Hexclad_12inchPan_34NoLid_BLACK.jpg?v=1762181904&width=375",
     category: "food",
     badge: "premium-pick",
     name: { en: "HexClad 12-Inch Hybrid Nonstick Pan", ja: "HexClad 12インチ ハイブリッドノンスティックパン" },
@@ -11371,6 +11740,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ozeri-stone-earth-frying-pan",
+    imageUrl: "https://ozeri.com/frontend/img/cookware/B00BK89AYS/product/medium/medium-img2.jpg",
     category: "food",
     badge: "budget-pick",
     name: { en: "Ozeri Stone Earth Frying Pan 10-Inch", ja: "Ozeri ストーンアース フライパン 10インチ" },
@@ -11407,6 +11777,7 @@ const RAW_CATALOG = [
   },
   {
     id: "greenpan-paris-ceramic-pan",
+    imageUrl: "https://www.greenpan.us/cdn/shop/products/CC000042-001-2.jpg?v=1763447150&width=1200",
     category: "food",
     badge: "editor-pick",
     name: { en: "GreenPan Paris 11-Inch Ceramic Nonstick Pan", ja: "GreenPan パリ 11インチ セラミックノンスティックパン" },
@@ -11426,6 +11797,7 @@ const RAW_CATALOG = [
   // ───────── Fitness / Elliptical Machines (best-elliptical-machine-2026) ─────────
   {
     id: "nordictrack-se7i-elliptical",
+    imageUrl: "https://m.media-amazon.com/images/I/316CSGKoxHL._SL500_.jpg",
     category: "fitness",
     badge: "adjustable-stride-pick",
     name: { en: "NordicTrack SE7i Elliptical", ja: "NordicTrack SE7i エリプティカル" },
@@ -11444,6 +11816,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sole-e35-elliptical",
+    imageUrl: "https://www.soletreadmills.com/cdn/shop/files/SOLE-E35-20230407-9381.jpg?v=1689099312&width=5472",
     category: "fitness",
     badge: "top-pick",
     name: { en: "Sole Fitness E35 Elliptical Machine", ja: "Sole Fitness E35 エリプティカルマシン" },
@@ -11462,6 +11835,7 @@ const RAW_CATALOG = [
   },
   {
     id: "schwinn-470-elliptical",
+    imageUrl: "https://www.schwinnfitness.com/cdn/shop/files/schwinn-elliptical-470-1.jpg?v=1771264825&width=1946",
     category: "fitness",
     badge: "budget-pick",
     name: { en: "Schwinn 470 Elliptical Machine", ja: "Schwinn 470 エリプティカルマシン" },
@@ -11480,6 +11854,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bowflex-max-trainer-m9",
+    imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw6d24a101/images/bfx/ellipticals/100996/m9-in-home-f-ll.jpg",
     category: "fitness",
     badge: "hiit-pick",
     name: { en: "Bowflex Max Trainer M9", ja: "Bowflex Max Trainer M9" },
@@ -11498,6 +11873,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nautilus-e616-elliptical",
+    imageUrl: "https://thefitnessstore.com/cdn/shop/products/e616a@2x.jpg?v=1574646216",
     category: "fitness",
     badge: "quiet-pick",
     name: { en: "Nautilus E616 Elliptical Trainer", ja: "Nautilus E616 エリプティカルトレーナー" },
@@ -11536,6 +11912,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cuisinart-cbk-110p1-bread-maker",
+    imageUrl: "https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us/default/dw9ad382b0/images/large/cbk110_sd_straight_slf.jpg?sw=1200&sh=1200&sm=fit",
     category: "food",
     badge: "compact-pick",
     name: { en: "Cuisinart CBK-110P1 Compact Automatic Bread Maker", ja: "クイジナート CBK-110P1 コンパクト自動ブレッドメーカー" },
@@ -11554,6 +11931,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hamilton-beach-29882-bread-maker",
+    imageUrl: "https://hamiltonbeach.com/media/products/29882-VPA-01.jpg",
     category: "food",
     badge: "budget-pick",
     name: { en: "Hamilton Beach 2-Pound Digital Bread Maker 29882", ja: "ハミルトンビーチ 2ポンド デジタルブレッドメーカー 29882" },
@@ -11590,6 +11968,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-sd-b2510-bread-maker",
+    imageUrl: "https://experience-fresh.panasonic.eu/wp-content/uploads/2021/03/Breadmaker_SD-B2510_Banner_20210305.jpg",
     category: "food",
     badge: "yeast-dispenser-pick",
     name: { en: "Panasonic SD-B2510 Automatic Bread Maker", ja: "パナソニック SD-B2510 ホームベーカリー" },
@@ -11669,6 +12048,7 @@ const RAW_CATALOG = [
   },
   {
     id: "gorilla-mats-premium-large-mat",
+    imageUrl: "https://gorillamats.com/cdn/shop/files/ugc-30_f8a86ad3-d6e8-4513-9054-f0271515455a_2048x.jpg?v=1772305573",
     category: "fitness",
     name: { en: "Gorilla Mats Premium Large Exercise Mat 6x4", ja: "ゴリラマッツ プレミアム ラージエクササイズマット 6x4" },
     description: {
@@ -11703,6 +12083,7 @@ const RAW_CATALOG = [
   },
   {
     id: "inspire-fitness-ft2-functional-trainer",
+    imageUrl: "https://inspirefitness.com/cdn/shop/files/FT2-PRO_LIFESTYLE-1_1200x1200_1.png?v=1727172065&width=1946",
     category: "fitness",
     badge: "top-pick",
     name: { en: "Inspire Fitness FT2 Functional Trainer", ja: "インスパイア フィットネス FT2 ファンクショナルトレーナー" },
@@ -11721,6 +12102,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bowflex-pr3000-home-gym",
+    imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dwa73ba416/images/bfx/home-gyms/100142/bowflex-pr3000-home-gym-hero.png?sw=2600&sh=1464&sm=fit",
     category: "fitness",
     badge: "budget-pick",
     name: { en: "Bowflex PR3000 Home Gym", ja: "ボウフレックス PR3000 ホームジム" },
@@ -11739,6 +12121,7 @@ const RAW_CATALOG = [
   },
   {
     id: "valor-fitness-bd-62-cable-crossover",
+    imageUrl: "https://valorfitness.com/cdn/shop/files/BD-62_Main.jpg?v=1687984911&width=1214",
     category: "fitness",
     badge: "space-saver-pick",
     name: { en: "Valor Fitness BD-62 Cable Crossover Machine", ja: "ヴェイラー フィットネス BD-62 ケーブルクロスオーバーマシン" },
@@ -11757,6 +12140,7 @@ const RAW_CATALOG = [
   },
   {
     id: "force-usa-g6-functional-trainer",
+    imageUrl: "https://www.forceusa.com/cdn/shop/files/F-G6-B-01-Main-Photo.jpg?v=1756331701&width=400",
     category: "fitness",
     name: { en: "Force USA G6 All-In-One Functional Trainer", ja: "フォース USA G6 オールインワン ファンクショナルトレーナー" },
     description: {
@@ -11776,6 +12160,7 @@ const RAW_CATALOG = [
   // ───────── Fitness / Dumbbell Racks (best-dumbbell-rack-2026) ─────────
   {
     id: "cap-barbell-a-frame-dumbbell-rack",
+    imageUrl: "https://magmafitness.com/cdn/shop/products/CAPBarbell-5Tier-AFrameRack_5000x.jpg?v=1651250531",
     category: "fitness",
     badge: "top-pick",
     name: { en: "CAP Barbell A-Frame Dumbbell Rack", ja: "CAP Barbell Aフレーム ダンベルラック" },
@@ -11794,6 +12179,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bowflex-selecttech-stand",
+    imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw2405335c/images/bfx/accessories/100584/bowflex-selecttech-dumbbell-stand-hero.png?sw=2600&sh=1464&sm=fit",
     category: "fitness",
     badge: "adjustable-pick",
     name: { en: "Bowflex SelectTech Dumbbell Stand with Media Rack", ja: "Bowflex SelectTech ダンベルスタンド（メディアラック付き）" },
@@ -11812,6 +12198,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-hd-monster-dumbbell-rack",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Weightlifting%20Bars%20and%20Plates/Storage/Dumbbell%20Storage/RF0936-BLACK-MG/RF0936-BLACK-MG-H_pstjup.png",
     category: "fitness",
     badge: "heavy-duty-pick",
     name: { en: "Rogue HD Monster Dumbbell Rack", ja: "Rogue HD Monster ダンベルラック" },
@@ -11848,6 +12235,7 @@ const RAW_CATALOG = [
   },
   {
     id: "go-time-gear-dumbbell-rack-3-tier",
+    imageUrl: "https://titan.fitness/cdn/shop/files/401869_01.jpg?v=1706742056",
     category: "fitness",
     name: { en: "Go Time Gear 3-Tier Dumbbell Rack", ja: "Go Time Gear 3段 ダンベルラック" },
     description: {
@@ -11904,6 +12292,7 @@ const RAW_CATALOG = [
   },
   {
     id: "breville-bic600xl-control-freak",
+    imageUrl: "https://assets-dam.foodthinkers.com/ZKCA55LU/at/n82h67fcws79c7f7g7k67/01_CMC850_USC_USA_1300px.png?pdp",
     category: "food",
     badge: "pro-pick",
     name: { en: "Breville BIC600XL the Control Freak Induction Cooktop", ja: "Breville BIC600XL コントロールフリーク IHクッキングヒーター" },
@@ -11940,6 +12329,7 @@ const RAW_CATALOG = [
   },
   {
     id: "secura-9100mc-induction-cooktop",
+    imageUrl: "https://www.thesecura.com/wp-content/uploads/9100-1-1600.jpg",
     category: "food",
     badge: "budget-pick",
     name: { en: "Secura 9100MC 1800W Portable Induction Cooktop", ja: "Secura 9100MC 1800W ポータブルIHクッキングヒーター" },
@@ -11979,6 +12369,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lavatools-javelin-pro-duo",
+    imageUrl: "https://www.lavatools.co/cdn/shop/products/red_duo.png?v=1767061164",
     category: "food",
     badge: "value-pick",
     name: { en: "Lavatools Javelin PRO Duo Digital Instant Read Thermometer", ja: "Lavatools Javelin PRO Duo デジタルインスタントリード温度計" },
@@ -11997,6 +12388,7 @@ const RAW_CATALOG = [
   },
   {
     id: "meater-plus-wireless-thermometer",
+    imageUrl: "https://store-us.meater.com/cdn/shop/files/MEATER__HNY_700x700.png?v=1722816907",
     category: "food",
     badge: "wireless-pick",
     name: { en: "MEATER Plus Wireless Smart Meat Thermometer", ja: "MEATER Plus ワイヤレススマート温度計" },
@@ -12015,6 +12407,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oxo-chef-precision-thermometer",
+    imageUrl: "https://kitchenandcompany.com/cdn/shop/products/oxo-oxo-good-grips-chef-s-precision-digital-instant-read-thermometer-29450-20027342684320_600x.jpg?v=1628083236",
     category: "food",
     badge: "mid-pick",
     name: { en: "OXO Good Grips Chef's Precision Instant Read Thermometer", ja: "OXO グッドグリップス シェフズプレシジョン インスタントリード温度計" },
@@ -12033,6 +12426,7 @@ const RAW_CATALOG = [
   },
   {
     id: "taylor-precision-9842-thermometer",
+    imageUrl: "https://www.taylorusa.com/cdn/shop/products/9842-1_47f08005-0352-45be-ba61-f51327366896.jpg?v=1607373344&width=2000",
     category: "food",
     badge: "budget-pick",
     name: { en: "Taylor Precision Products 9842 Digital Thermometer", ja: "Taylor Precision Products 9842 デジタル温度計" },
@@ -12072,6 +12466,7 @@ const RAW_CATALOG = [
   },
   {
     id: "zyliss-swift-dry-salad-spinner",
+    imageUrl: "https://zyliss.com/cdn/shop/files/zyliss-zyliss-swift-dry-large-salad-spinner-e940005u-40276559429926_3e856898-3596-4ffa-9708-687ae4aef5b3.jpg?v=1753289391&width=4096",
     category: "food",
     badge: "mid-pick",
     name: { en: "Zyliss Swift Dry Salad Spinner Large", ja: "Zyliss スウィフトドライ サラダスピナー ラージ" },
@@ -12090,6 +12485,7 @@ const RAW_CATALOG = [
   },
   {
     id: "chef-n-salad-shot-salad-spinner",
+    imageUrl: "https://www.chefn.com/cdn/shop/files/chef-n-salad-chopper-spinner-5273477-29966825455756.jpg?v=1699383698&width=1280",
     category: "food",
     badge: "compact-pick",
     name: { en: "Chef'n SaladShot Salad Spinner", ja: "Chef'n サラダショット サラダスピナー" },
@@ -12126,6 +12522,7 @@ const RAW_CATALOG = [
   },
   {
     id: "paderno-world-cuisine-salad-spinner",
+    imageUrl: "https://www.paderno.it/dw/image/v2/BGMT_PRD/on/demandware.static/-/Sites-pad-catalog-master/default/dw6ff2c4a9/images/high-res/49888-10.jpg?sw=632&sh=632",
     category: "food",
     badge: "workhorse-pick",
     name: { en: "Paderno World Cuisine A4982253 Salad Spinner", ja: "Paderno ワールドキュイジーヌ A4982253 サラダスピナー" },
@@ -12163,6 +12560,7 @@ const RAW_CATALOG = [
   },
   {
     id: "breville-bhm800sil-hand-mixer",
+    imageUrl: "https://assets.breville.com/cdn-cgi/image/width=1300,format=auto/BHM800/BHM800SILUSC.jpg?pdp",
     category: "food",
     badge: "feature-pick",
     name: { en: "Breville BHM800SIL Handy Mix Scraper Hand Mixer", ja: "Breville BHM800SIL ハンディミックス スクレーパー ハンドミキサー" },
@@ -12199,6 +12597,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hamilton-beach-62682-hand-mixer",
+    imageUrl: "https://hamiltonbeach.com/media/pdp/62682RZ-01.jpg",
     category: "food",
     badge: "budget-pick",
     name: { en: "Hamilton Beach 6-Speed Electric Hand Mixer 62682", ja: "Hamilton Beach 6スピード 電動ハンドミキサー 62682" },
@@ -12256,6 +12655,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rep-fitness-cast-iron-plates",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0574/1215/7598/t/16/assets/acf.WS-1100-Main2.png?v=1636585708",
     category: "fitness",
     badge: "top-pick",
     name: { en: "REP Fitness Cast Iron Olympic Plates", ja: "REP Fitness 鋳鉄オリンピックプレート" },
@@ -12274,6 +12674,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cap-barbell-olympic-plates",
+    imageUrl: "https://capbarbell.com/cdn/shop/files/71hOy-IzDXL._AC_SL1500___31662.1728617847.1280.1280.jpg?v=1766880499",
     category: "fitness",
     badge: "budget-pick",
     name: { en: "CAP Barbell Olympic Weight Plates", ja: "CAP Barbell オリンピックウェイトプレート" },
@@ -12292,6 +12693,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-hi-temp-bumper-plates",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/2025%20Plate%20Header%20Update/HI-Temps-Header-GFX_gwuce0.png",
     category: "fitness",
     badge: "bumper-pick",
     name: { en: "Rogue Hi-Temp Bumper Plates", ja: "Rogue Hi-Temp バンパープレート" },
@@ -12310,6 +12712,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fringe-sport-bumper-plates",
+    imageUrl: "https://www.fringesport.com/cdn/shop/files/OG-Black-Bumper-Plates-Fringe-Sport-552207473.jpg?v=1764635640",
     category: "fitness",
     badge: "virgin-rubber-pick",
     name: { en: "Fringe Sport Olympic Bumper Plates", ja: "Fringe Sport オリンピックバンパープレート" },
@@ -12348,6 +12751,7 @@ const RAW_CATALOG = [
   },
   {
     id: "emile-henry-pizza-stone",
+    imageUrl: "https://www.emilehenryusa.com/cdn/shop/files/7614_34_Burgundy_RidgedPizzaStone_2.png?v=1728601399&width=1200",
     category: "food",
     badge: "🔴",
     name: { en: "Emile Henry Made in France Pizza Stone", ja: "エミール・アンリ フランス製ピザストーン" },
@@ -12366,6 +12770,7 @@ const RAW_CATALOG = [
   },
   {
     id: "baking-steel-original-steel",
+    imageUrl: "https://assets.replocdn.com/projects/33ee9570-df97-45c6-a9b7-ae88b42b2a5c/241f99b1-b4df-4994-93b4-b289abf5c38d",
     category: "food",
     badge: "⚡",
     name: { en: "Baking Steel Original (1/4 inch)", ja: "Baking Steel オリジナル（6mm厚）" },
@@ -12384,6 +12789,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lodge-14-inch-cast-iron-pizza-pan",
+    imageUrl: "https://www.lodgecastiron.com/cdn/shop/files/BW15PP_Pizza1_Bakeware_White-Table_WEB_800x800_f6975858-5cd4-4e5e-a517-58c2054d75b7.jpg",
     category: "food",
     badge: "🍖",
     name: { en: "Lodge Pre-Seasoned 14\" Cast Iron Pizza Pan", ja: "Lodge 14インチ シーズニング済み鋳鉄ピザパン" },
@@ -12402,6 +12808,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hans-grill-pizza-stone-rectangular",
+    imageUrl: "https://hansgrill.shop/cdn/shop/files/81aigYN5G6L._AC_SL1500.jpg?v=1731421423&width=1946",
     category: "food",
     badge: "📐",
     name: { en: "Hans Grill Pizza Stone Rectangular", ja: "Hans Grill 長方形ピザストーン" },
@@ -12422,6 +12829,7 @@ const RAW_CATALOG = [
   // ───────── Fitness / Freestanding Pull-Up Bars (best-pull-up-bar-freestanding-2026) ─────────
   {
     id: "cap-barbell-freestanding-pull-up-bar",
+    imageUrl: "https://capbarbell.com/cdn/shop/files/FMI-570__05979.1515795172.500.750.jpg?v=1766880032",
     category: "fitness",
     badge: "compact-pick",
     name: { en: "CAP Barbell Freestanding Pull Up Bar", ja: "CAP Barbell 自立式懸垂バー" },
@@ -12440,6 +12848,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ultimate-body-press-freestanding-bar",
+    imageUrl: "https://ultimatebodypress.com/cdn/shop/products/MAIN-2020_700x700.jpg?v=1635953543",
     category: "fitness",
     badge: "tall-user-pick",
     name: { en: "Ultimate Body Press Freestanding Pull Up Bar", ja: "Ultimate Body Press 自立式懸垂バー" },
@@ -12458,6 +12867,7 @@ const RAW_CATALOG = [
   },
   {
     id: "power-tower-workout-dip-station",
+    imageUrl: "https://m.media-amazon.com/images/I/31+c7cayd7L._SL500_.jpg",
     category: "fitness",
     badge: "space-efficient-pick",
     name: { en: "Yaheetech Power Tower Pull Up Dip Station", ja: "Yaheetech パワータワー プルアップ＆ディップステーション" },
@@ -12494,6 +12904,7 @@ const RAW_CATALOG = [
   },
   {
     id: "weider-power-tower-200",
+    imageUrl: "https://www.best-powertower.com/wp-content/uploads/image/weider-live-photo.jpg",
     category: "fitness",
     badge: "premium-pick",
     name: { en: "Weider Power Tower 200", ja: "Weider パワータワー 200" },
@@ -12533,6 +12944,7 @@ const RAW_CATALOG = [
   },
   {
     id: "presto-8qt-pressure-cooker",
+    imageUrl: "https://www.gopresto.com/i/1526054519236/w1000/uploads/06301_Product_Page_Main.jpg",
     category: "food",
     badge: "💰",
     name: { en: "Presto 01370 8-Quart Stainless Steel Pressure Cooker", ja: "プレスト 8クォート ステンレス圧力鍋" },
@@ -12551,6 +12963,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tfal-clipso-pressure-cooker",
+    imageUrl: "https://www.t-fal.com/media/catalog/product/m/w/mwe70mp1e8wjuqvamt2p_9m7ojzsuhp09panp.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
     category: "food",
     badge: "👍",
     name: { en: "T-fal Clipso Stainless Steel Pressure Cooker 6.3 Qt", ja: "ティファール クリプソ ステンレス圧力鍋 6.3 Qt" },
@@ -12569,6 +12982,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kuhn-rikon-duromatic-pressure-cooker",
+    imageUrl: "https://cdn.kuhnrikon.com/media/catalog/product/cache/2c74959833d216e511901fad475c4cd7/3/7/3760-3762-3764-3915-3917-3919_ps.jpg",
     category: "food",
     badge: "⌚",
     name: { en: "Kuhn Rikon Duromatic Top Pressure Cooker", ja: "クーン・リコン デュロマティック トップ 圧力鍋" },
@@ -12587,6 +13001,7 @@ const RAW_CATALOG = [
   },
   {
     id: "magefesa-star-pressure-cooker",
+    imageUrl: "https://magefesausa.com/wp-content/uploads/2025/06/Magefesa-Star-Pressure-Cooker-3.webp",
     category: "food",
     badge: "⚡",
     name: { en: "Magefesa Star Super Fast Pressure Cooker 4.2 Qt", ja: "マゲフェサ スター 超高速圧力鍋 4.2 Qt" },
@@ -12625,6 +13040,7 @@ const RAW_CATALOG = [
   },
   {
     id: "perfect-pushup-elite",
+    imageUrl: "https://shop.r10s.jp/re-vida/cabinet/k0img822/k0-3733157-perfect.jpg",
     category: "fitness",
     badge: "🔄",
     name: { en: "Perfect Pushup Elite Rotating Push Up Handles", ja: "パーフェクトプッシュアップ エリート 回転式ハンドル" },
@@ -12718,6 +13134,7 @@ const RAW_CATALOG = [
   },
   {
     id: "imperia-pasta-maker-machine",
+    imageUrl: "https://www.cookserveenjoy.com/cdn/shop/products/ucwspdekdmv1yjlx8zrs_100x.jpg?v=1738900299",
     category: "food",
     badge: "🍝",
     name: { en: "Imperia Pasta Machine Double Cutter", ja: "インペリア パスタマシン ダブルカッター" },
@@ -12754,6 +13171,7 @@ const RAW_CATALOG = [
   },
   {
     id: "philips-pasta-maker-7000",
+    imageUrl: "https://images.philips.com/is/image/philipsconsumer/vrs_f0ffd553917a6324722faeafadb9d3bbaca0f22a?wid=700&hei=700&$pnglarge$",
     category: "food",
     badge: "🤖",
     name: { en: "Philips Pasta Maker 7000 Automatic", ja: "フィリップス パスタメーカー 7000 全自動" },
@@ -12772,6 +13190,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ronco-pasta-maker",
+    imageUrl: "https://dailysale.com/cdn/shop/products/ronco-automatic-pasta-maker-machine-kitchen-essentials-dailysale-683590.jpg?v=1756986183&width=1240",
     category: "food",
     badge: "💸",
     name: { en: "Ronco Pasta Maker Automatic", ja: "ロンコ パスタメーカー 全自動" },
@@ -12811,6 +13230,7 @@ const RAW_CATALOG = [
   },
   {
     id: "skywalker-15ft-round-trampoline",
+    imageUrl: "https://www.skywalkertrampolines.com/cdn/shop/files/b8421501ceee8ed8defa49d79fc692df.jpg?v=1746524864&width=1600",
     category: "fitness",
     badge: "⭐",
     name: { en: "Skywalker 15ft Round Trampoline with Safety Enclosure", ja: "スカイウォーカー 15ft ラウンドトランポリン セーフティエンクロージャー付き" },
@@ -12829,6 +13249,7 @@ const RAW_CATALOG = [
   },
   {
     id: "zupapa-15ft-trampoline",
+    imageUrl: "https://www.zupapa.us/cdn/shop/files/10ft_12ft_15ft_14ft_Saffun_Trampoline.png?v=1774939335&width=548",
     category: "fitness",
     badge: "💪",
     name: { en: "Zupapa 15ft Trampoline with Safety Enclosure Net", ja: "ズパパ 15ft トランポリン セーフティエンクロージャーネット付き" },
@@ -12847,6 +13268,7 @@ const RAW_CATALOG = [
   },
   {
     id: "jumpking-14ft-trampoline",
+    imageUrl: "https://www.jumpking.com/media/catalog/product/cache/a4c737835c007526158bcb31f8528463/i/m/img_4456.jpg",
     category: "fitness",
     badge: "👨‍👩‍👧",
     name: { en: "Jumpking 14ft Round Trampoline with Safety Enclosure", ja: "ジャンプキング 14ft ラウンドトランポリン セーフティエンクロージャー付き" },
@@ -12865,6 +13287,7 @@ const RAW_CATALOG = [
   },
   {
     id: "jumpsport-550f-fitness-trampoline",
+    imageUrl: "https://www.jumpsport.com/cdn/shop/files/550_transparent_1220x1220_2_1_610x610.png?v=1773867212",
     category: "fitness",
     badge: "🏃",
     name: { en: "JumpSport 550f Fitness Trampoline", ja: "ジャンプスポート 550f フィットネストランポリン" },
@@ -12904,6 +13327,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cosori-premium-food-dehydrator",
+    imageUrl: "https://cosori.com/cdn/shop/products/01.01_OA1_CP267-FD_Silver_03.png?v=1762457668&width=1946",
     category: "food",
     badge: "⭐",
     name: { en: "Cosori Premium Food Dehydrator 6-Tray", ja: "コソリ プレミアム 食品乾燥機 6トレイ" },
@@ -12922,6 +13346,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nesco-snackmaster-pro",
+    imageUrl: "https://b4333452.smushcdn.com/4333452/wp-content/uploads/2018/04/FD-75PR_1-500x500.jpg?lossy=2&strip=1&webp=1",
     category: "food",
     badge: "🔧",
     name: { en: "Nesco Snackmaster Pro Food Dehydrator", ja: "ネスコ スナックマスタープロ 食品乾燥機" },
@@ -12940,6 +13365,7 @@ const RAW_CATALOG = [
   },
   {
     id: "presto-dehydro-digital",
+    imageUrl: "https://www.gopresto.com/i/1526054076236/c1-h560-w560/uploads/06306_Product_Page_Main.jpg",
     category: "food",
     badge: "💸",
     name: { en: "Presto Dehydro Digital Food Dehydrator", ja: "プレスト デハイドロ デジタル 食品乾燥機" },
@@ -12958,6 +13384,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tribest-sedona-express",
+    imageUrl: "https://tribest.com/cdn/shop/products/Sedona-Express-Food-Dehydrator-with-Stainless-Steel-Trays_main_5ff0b20a-4142-4659-b201-65db4bd232ac.jpg?v=1660938489",
     category: "food",
     badge: "🎯",
     name: { en: "Tribest Sedona Express Food Dehydrator", ja: "トライベスト セドナエクスプレス 食品乾燥機" },
@@ -13033,6 +13460,7 @@ const RAW_CATALOG = [
   },
   {
     id: "plexus-yoga-wheel",
+    imageUrl: "https://gochirp.com/cdn/shop/files/IMG_9040_2048x2048.jpg?15908527102226676453",
     category: "fitness",
     badge: "✅",
     name: { en: "Plexus Yoga Wheel Certified", ja: "プレクサス ヨガホイール 認定モデル" },
@@ -13051,6 +13479,7 @@ const RAW_CATALOG = [
   },
   {
     id: "chirp-wheel-plus",
+    imageUrl: "https://gochirp.com/cdn/shop/products/chirp-3wheelpack-img-1-hero.png?v=1762270399&width=5000",
     category: "fitness",
     badge: "🦴",
     name: { en: "Chirp Wheel+ Spinal Groove Yoga Wheel", ja: "チャープホイール プラス 脊椎溝付きヨガホイール" },
@@ -13069,6 +13498,7 @@ const RAW_CATALOG = [
   },
   {
     id: "foodsaver-v4840-vacuum-sealer",
+    imageUrl: "https://image.rakuten.co.jp/shopavail/cabinet/imgrc0065906390.jpg",
     category: "food",
     badge: "🥩",
     name: { en: "FoodSaver V4840 2-in-1 Vacuum Sealer", ja: "フードセーバー V4840 2-in-1 真空パック機" },
@@ -13087,6 +13517,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nesco-vs-12-vacuum-sealer",
+    imageUrl: "https://b4333452.smushcdn.com/4333452/wp-content/uploads/2026/04/1.jpg?lossy=2&strip=1&webp=1",
     category: "food",
     badge: "🔒",
     name: { en: "Nesco VS-12 Deluxe Vacuum Sealer", ja: "Nesco VS-12 デラックス真空パック機" },
@@ -13105,6 +13536,7 @@ const RAW_CATALOG = [
   },
   {
     id: "anova-precision-vacuum-sealer-pro",
+    imageUrl: "https://cld.accentuate.io/7274992173245/1666707444987/Vac-Sealer-Pro---with-food-and-hands.jpg?v=1666707444987&options=w_1946",
     category: "food",
     badge: "♨️",
     name: { en: "Anova Precision Vacuum Sealer Pro", ja: "Anova プレシジョン バキュームシーラー Pro" },
@@ -13123,6 +13555,7 @@ const RAW_CATALOG = [
   },
   {
     id: "geryon-vacuum-sealer-machine",
+    imageUrl: "https://geryonkitchen.com/cdn/shop/products/E2900-MSVacuumSealer_1.jpg?v=1631689324",
     category: "food",
     badge: "📦",
     name: { en: "Geryon Vacuum Sealer Machine", ja: "Geryon 真空パック機" },
@@ -13141,6 +13574,7 @@ const RAW_CATALOG = [
   },
   {
     id: "zwilling-fresh-save-vacuum-system",
+    imageUrl: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dw19b444e3/images/large/36809-007.jpg",
     category: "food",
     badge: "🫙",
     name: { en: "Zwilling Fresh & Save Vacuum Starter Set", ja: "ツヴィリング フレッシュ＆セーブ バキュームスターターセット" },
@@ -13178,6 +13612,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bosu-balance-trainer-pro",
+    imageUrl: "https://bosu.com/cdn/shop/files/B72-10850-PBOSUPROBalanceTrainerIG_04-2000x2000.jpg?v=1767425416&width=2000",
     category: "fitness",
     badge: "🔵",
     name: { en: "BOSU Balance Trainer Pro", ja: "BOSU バランストレーナー プロ" },
@@ -13196,6 +13631,7 @@ const RAW_CATALOG = [
   },
   {
     id: "revbalance-101-balance-board",
+    imageUrl: "https://revbalance.com/wp-content/uploads/2021/08/101-hero-web-1200.png",
     category: "fitness",
     badge: "⚖️",
     name: { en: "RevBalance 101 Balance Board", ja: "RevBalance 101 バランスボード" },
@@ -13232,6 +13668,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fitterst-balance-board",
+    imageUrl: "https://balancefitness.com/cdn/shop/files/fitterfirst-16-fitterfirst-professional-balance-boards-30042697138265_e638edaf-65ab-4035-bffa-9df58c1f6fd3.jpg?v=1742078351&width=1500",
     category: "fitness",
     badge: "🎯",
     name: { en: "FitterFirst Professional Balance Board", ja: "FitterFirst プロフェッショナル バランスボード" },
@@ -13269,6 +13706,7 @@ const RAW_CATALOG = [
   },
   {
     id: "whynter-icm-200ls-ice-cream-maker",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_3cb5f507-14bf-4bf8-8938-cc4b6a919d7c?wid=300&hei=300&fmt=pjpeg",
     category: "food",
     badge: "❄️",
     name: { en: "Whynter ICM-200LS Automatic Ice Cream Maker", ja: "Whynter ICM-200LS 自動アイスクリームメーカー" },
@@ -13287,6 +13725,7 @@ const RAW_CATALOG = [
   },
   {
     id: "breville-bci600xl-smart-scoop",
+    imageUrl: "https://assets.breville.com/cdn-cgi/image/width=1300,format=auto/BCI600/BCI600BSS/pdp.png?pdp",
     category: "food",
     badge: "🍨",
     name: { en: "Breville BCI600XL Smart Scoop Ice Cream Maker", ja: "Breville BCI600XL スマートスクープ アイスクリームメーカー" },
@@ -13305,6 +13744,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ninja-creami-ice-cream-maker",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_f13ea89d-495c-44c1-8694-4f6ab631070b?wid=300&hei=300&fmt=pjpeg",
     category: "food",
     badge: "🫙",
     name: { en: "Ninja Creami NC301 Ice Cream Maker", ja: "Ninja Creami NC301 アイスクリームメーカー" },
@@ -13323,6 +13763,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kitchenaid-ice-cream-maker-attachment",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_698297dd-0459-4138-8d01-589945fdb582?wid=300&hei=300&fmt=pjpeg",
     category: "food",
     badge: "🥛",
     name: { en: "KitchenAid Ice Cream Maker Attachment", ja: "KitchenAid アイスクリームメーカーアタッチメント" },
@@ -13451,6 +13892,7 @@ const RAW_CATALOG = [
   },
   {
     id: "teakhaus-edge-grain-cutting-board",
+    imageUrl: "https://teakhaus.com/cdn/shop/products/106_02.jpg?v=1775846847&width=1000",
     category: "food",
     badge: "🌿",
     name: { en: "Teakhaus Edge Grain Teak Cutting Board", ja: "Teakhaus エッジグレイン チークまな板" },
@@ -13487,6 +13929,7 @@ const RAW_CATALOG = [
   },
   {
     id: "epicurean-kitchen-series-cutting-board",
+    imageUrl: "https://epicurean-us.com/cdn/shop/products/KS1.jpg?v=1664636231&width=400",
     category: "food",
     badge: "📄",
     name: { en: "Epicurean Kitchen Series Composite Cutting Board", ja: "Epicurean キッチンシリーズ コンポジットまな板" },
@@ -13505,6 +13948,7 @@ const RAW_CATALOG = [
   },
   {
     id: "john-boos-walnut-butcher-block",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0880/5521/8461/files/WAL-PCA2_PLP.jpg?v=1730077731&width=660&height=792&crop=center",
     category: "food",
     badge: "🌰",
     name: { en: "John Boos Walnut End-Grain Butcher Block Board", ja: "John Boos ウォルナット エンドグレイン ブッチャーブロックボード" },
@@ -13542,6 +13986,7 @@ const RAW_CATALOG = [
   },
   {
     id: "gaiam-total-body-balance-ball",
+    imageUrl: "https://www.gaiam.com/cdn/shop/products/05-51980-line-55ball-A.jpg?v=1588972863&width=2500",
     category: "fitness",
     badge: "🎯",
     name: { en: "Gaiam Total Body Balance Ball Kit", ja: "Gaiam トータルボディ バランスボール キット" },
@@ -13560,6 +14005,7 @@ const RAW_CATALOG = [
   },
   {
     id: "live-pro-stability-ball",
+    imageUrl: "https://www.livepro-fitness.com/wp-content/uploads/2022/02/LP8201hf.jpg",
     category: "fitness",
     badge: "🏋️",
     name: { en: "Live Pro Stability Ball", ja: "Live Pro スタビリティボール" },
@@ -13578,6 +14024,7 @@ const RAW_CATALOG = [
   },
   {
     id: "urbnfit-exercise-ball",
+    imageUrl: "https://modernspacegallery.com/cdn/shop/products/URBNFIT-Exercise-Ball---Anti-Burst_Swiss-Balance-Yoga-Ball_w--Quick-Pump-URBNFit-1659200787.jpg?v=1738890384&width=1080",
     category: "fitness",
     badge: "🎨",
     name: { en: "URBNFit Exercise Ball", ja: "URBNFit エクササイズボール" },
@@ -13596,6 +14043,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bosu-nexgen-stability-ball",
+    imageUrl: "https://bosu.com/cdn/shop/files/72-10850-PNGBOSUNexGenProBalanceTrainerIG_04-2000x2000_aa39fb82-404f-4869-978a-c0dc90ecf4fc.jpg?v=1767426672&width=2000",
     category: "fitness",
     badge: "🔵",
     name: { en: "BOSU NexGen Pro Balance Trainer", ja: "BOSU NexGen プロ バランストレーナー" },
@@ -13651,6 +14099,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tramontina-stainless-stockpot",
+    imageUrl: "https://www.tramontina.com/cdn/shop/files/Signature_8_Quart_Tri-Ply-Clad_Stainless_Steel_Covered_Stock_Pot_80116041.jpg?v=1738020387&width=1214",
     category: "food",
     badge: "⭐",
     name: { en: "Tramontina Gourmet Tri-Ply Clad Stockpot", ja: "Tramontina グルメ トリプルクラッド 寸胴鍋" },
@@ -13669,6 +14118,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lodge-cast-iron-dutch-oven-5qt",
+    imageUrl: "https://www.lodgecastiron.com/cdn/shop/files/3000x3000_EC7D51_e797bdf1-8921-42d9-9978-2eefee4237d3.jpg?v=1772557412&width=3000",
     category: "food",
     badge: "🫕",
     name: { en: "Lodge Enameled Cast Iron Dutch Oven (5 qt)", ja: "Lodge ホーロー鋳鉄ダッチオーブン（5クォート）" },
@@ -13743,6 +14193,7 @@ const RAW_CATALOG = [
   },
   {
     id: "buddy-lee-aero-speed-rope",
+    imageUrl: "https://greatcallathletics.com/cdn/shop/files/Buddy_Lee_Aero_Speed.png?v=1775870991&width=1200",
     category: "fitness",
     badge: "🔄",
     name: { en: "Buddy Lee Aero Speed Jump Rope", ja: "Buddy Lee Aero スピードジャンプロープ" },
@@ -13779,6 +14230,7 @@ const RAW_CATALOG = [
   },
   {
     id: "elite-surge-3-speed-rope",
+    imageUrl: "https://elitejumps.co/cdn/shop/files/SURGE_BLACK_a0fa304d-5290-40a2-a8da-98608cf07120.jpg",
     category: "fitness",
     badge: "⚡",
     name: { en: "Elite Surge 3 Speed Jump Rope", ja: "Elite Surge 3 スピードジャンプロープ" },
@@ -13816,6 +14268,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yosukata-carbon-steel-wok",
+    imageUrl: "https://us.yosukata.com/cdn/shop/files/WOK_Blue_Flat_34_WC_Wirecutter_2025_Bl2.jpg?v=1774132442&width=320",
     category: "food",
     badge: "🥢",
     name: { en: "Yosukata Hand-Hammered Carbon Steel Wok", ja: "Yosukata 手打ち炭素鋼中華鍋" },
@@ -13834,6 +14287,7 @@ const RAW_CATALOG = [
   },
   {
     id: "craft-wok-traditional-hand-hammered",
+    imageUrl: "https://craftwok.com/cdn/shop/products/731W88_300x300.jpg?v=1591448961",
     category: "food",
     badge: "🥢",
     name: { en: "Craft Wok Traditional Hand-Hammered Carbon Steel", ja: "Craft Wok 伝統的手打ち炭素鋼中華鍋" },
@@ -13852,6 +14306,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lodge-cast-iron-wok",
+    imageUrl: "https://www.lodgecastiron.com/cdn/shop/files/L14W_14-Inch-Wok_Whitetable1_800x800_WEB.jpg?v=1763150854&width=800",
     category: "food",
     badge: "🥢",
     name: { en: "Lodge Cast Iron Wok", ja: "Lodge 鋳鉄中華鍋" },
@@ -13870,6 +14325,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tfal-nonstick-wok",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_b5de1fd9-5eae-4187-ab40-4992a8aef2d0?wid=300&hei=300&fmt=pjpeg",
     category: "food",
     badge: "🥢",
     name: { en: "T-fal Nonstick Wok", ja: "T-fal ノンスティック中華鍋" },
@@ -13907,6 +14363,7 @@ const RAW_CATALOG = [
   },
   {
     id: "undersun-resistance-band-set",
+    imageUrl: "https://cdn.prod.website-files.com/62a404e653c2a1735291d1fc/62bca6370bfdf26437d536da_5%20Band%20Set%20-%20Orange.png",
     category: "fitness",
     badge: "💪",
     name: { en: "Undersun Resistance Loop Band Set", ja: "Undersun レジスタンスループバンドセット" },
@@ -13925,6 +14382,7 @@ const RAW_CATALOG = [
   },
   {
     id: "black-mountain-resistance-band-set",
+    imageUrl: "https://blackmountainproducts.com/wp-content/uploads/2015/04/17-600x450.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "Black Mountain Resistance Band Set", ja: "Black Mountain レジスタンスバンドセット" },
@@ -13943,6 +14401,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fit-simplify-resistance-band-set",
+    imageUrl: "https://www.fitsimplify.com/wp-content/uploads/2016/12/1-mod-circle-749x800.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "Fit Simplify Resistance Loop Band Set", ja: "Fit Simplify レジスタンスループバンドセット" },
@@ -14034,6 +14493,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oxo-good-grips-baking-sheet",
+    imageUrl: "https://gilbertwhitney.com/cdn/shop/files/81bFnKmAuZS._AC_SL1500.jpg?v=1729276447&width=500",
     category: "food",
     badge: "🍪",
     name: { en: "OXO Good Grips Nonstick Half Sheet Baking Pan", ja: "OXO Good Grips ノンスティック ハーフシート ベーキングパン" },
@@ -14052,6 +14512,7 @@ const RAW_CATALOG = [
   },
   {
     id: "chicago-metallic-baking-sheet",
+    imageUrl: "https://www.cmbakeware.com/wp-content/uploads/2020/07/40855-600x415.jpg",
     category: "food",
     badge: "🍪",
     name: { en: "Chicago Metallic Commercial II Half Sheet", ja: "Chicago Metallic 商業グレード ハーフシート" },
@@ -14089,6 +14550,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fat-gripz-barbell-attachment",
+    imageUrl: "https://fatgripz.com/cdn/shop/products/Fatgripz-fatgrips_533x.jpg?v=1649362811",
     category: "fitness",
     badge: "💪",
     name: { en: "Fat Gripz Barbell Attachment", ja: "Fat Gripz バーベルアタッチメント" },
@@ -14125,6 +14587,7 @@ const RAW_CATALOG = [
   },
   {
     id: "metolius-grip-saver-plus",
+    imageUrl: "https://www.metoliusclimbing.com/cdn/shop/files/GripSaver-Regular-Red.jpg?crop=center&height=1024&v=1759430968&width=1024",
     category: "fitness",
     badge: "💪",
     name: { en: "Metolius Grip Saver Plus", ja: "Metolius グリップセーバープラス" },
@@ -14198,6 +14661,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cuisinox-roma-moka-pot",
+    imageUrl: "https://cuisinox.com/cdn/shop/files/COF-6RS-SET_f6f4d7e9-790d-4fdd-b2d0-d76152d9ef7e_1500x.jpg?v=1769200909",
     category: "food",
     badge: "☕",
     name: { en: "Cuisinox Roma Stainless Steel Moka Pot", ja: "Cuisinox Roma ステンレス鋼モカポット" },
@@ -14234,6 +14698,7 @@ const RAW_CATALOG = [
   },
   {
     id: "pezzetti-italexpress-moka",
+    imageUrl: "https://yummybazaar.com/cdn/shop/files/GFM-103302_a947024a-5fa1-432a-95fc-cabaf8c0ec16_1024x.jpg?v=1752496468",
     category: "food",
     badge: "☕",
     name: { en: "Pezzetti Italexpress Moka Pot", ja: "Pezzetti イタレクスプレス モカポット" },
@@ -14271,6 +14736,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rep-fitness-sandbag",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0574/1215/7598/t/16/assets/acf.0J6A3575-Edit.png?v=1652899787",
     category: "fitness",
     badge: "🏋️",
     name: { en: "REP Fitness Training Sandbag", ja: "REP Fitness トレーニングサンドバッグ" },
@@ -14362,6 +14828,7 @@ const RAW_CATALOG = [
   },
   {
     id: "aeropress-go-portable",
+    imageUrl: "https://image.rakuten.co.jp/tsujimoto/cabinet/img/gear/g_aeropressgo/aeropressgo-w1.jpg",
     category: "food",
     badge: "☕",
     name: { en: "AeroPress Go Portable Coffee Maker", ja: "AeroPress Go ポータブル コーヒーメーカー" },
@@ -14380,6 +14847,7 @@ const RAW_CATALOG = [
   },
   {
     id: "aeropress-clear",
+    imageUrl: "https://image.rakuten.co.jp/tsujimoto/cabinet/img/gear/g_aeropressgo/gear-aeropress-cl-w1.jpg",
     category: "food",
     badge: "☕",
     name: { en: "AeroPress Clear Coffee Maker", ja: "AeroPress クリア コーヒーメーカー" },
@@ -14416,6 +14884,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fellow-prismo-aeropress-attachment",
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/smartkitchen/cabinet/19/s10009716-002.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Fellow Prismo AeroPress Attachment", ja: "Fellow Prismo エアロプレス アタッチメント" },
@@ -14545,6 +15014,7 @@ const RAW_CATALOG = [
   },
   {
     id: "Fellow-Clara-french-press",
+    imageUrl: "https://image.rakuten.co.jp/smartkitchen/cabinet/23/s10011318-002.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Fellow Clara French Press", ja: "Fellow Clara フレンチプレス" },
@@ -14655,6 +15125,7 @@ const RAW_CATALOG = [
   },
   {
     id: "flybird-adjustable-bench",
+    imageUrl: "https://image.rakuten.co.jp/alphaespace-usa/cabinet/img27/8001576.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "Flybird Adjustable Weight Bench", ja: "Flybird 調整可能ウェイトベンチ" },
@@ -14729,6 +15200,7 @@ const RAW_CATALOG = [
   },
   {
     id: "chemex-8-cup-classic",
+    imageUrl: "https://image.rakuten.co.jp/kobe-select/cabinet/imgrc0088285914.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Chemex Classic 8-Cup", ja: "Chemex クラシック 8カップ" },
@@ -14747,6 +15219,7 @@ const RAW_CATALOG = [
   },
   {
     id: "chemex-glass-handle",
+    imageUrl: "https://image.rakuten.co.jp/freedesign/cabinet/img23/pmcgc001-image01.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Chemex Glass Handle 8-Cup", ja: "Chemex グラスハンドル 8カップ" },
@@ -14765,6 +15238,7 @@ const RAW_CATALOG = [
   },
   {
     id: "chemex-bonded-filters",
+    imageUrl: "https://image.rakuten.co.jp/solairo/cabinet/chx/chx9001-2.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Chemex Bonded Filters (100-count)", ja: "Chemex 専用フィルター（100枚）" },
@@ -14783,6 +15257,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hario-v60-02",
+    imageUrl: "https://image.rakuten.co.jp/gensouen/cabinet/item/other/img61122244.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Hario V60 02 Pour-Over", ja: "Hario V60 02 ポアオーバー" },
@@ -14913,6 +15388,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oxo-brew-conical-burr-grinder",
+    imageUrl: "https://image.rakuten.co.jp/roomy/cabinet/kaden3/kcnkaden3/oxo_grinder_1.jpg",
     category: "food",
     badge: "☕",
     name: { en: "OXO Brew Conical Burr Grinder", ja: "OXO Brew コニカルバーグラインダー" },
@@ -14931,6 +15407,7 @@ const RAW_CATALOG = [
   },
   {
     id: "capresso-infinity-plus",
+    imageUrl: "https://image.rakuten.co.jp/alphaespace-usa/cabinet/img17/3008071-3.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Capresso Infinity Plus Burr Grinder", ja: "Capresso Infinity Plus バーグラインダー" },
@@ -14949,6 +15426,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bodum-bistro-burr-grinder",
+    imageUrl: "https://image.rakuten.co.jp/bodumshop/cabinet/item/bistro/imgrc0090530725.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Bodum Bistro Burr Coffee Grinder", ja: "Bodum Bistro バーコーヒーグラインダー" },
@@ -15170,6 +15648,7 @@ const RAW_CATALOG = [
   // ── best-ez-curl-bar-2026 ────────────────────────────────────────────────
   {
     id: "cap-barbell-ez-curl-bar",
+    imageUrl: "https://capbarbell.com/cdn/shop/files/51XNw5JejYL._AC_SL1500___56936.1735339527.1280.1280_ba8c8625-d5c3-4a64-ab92-002629d8b6df.jpg?v=1768895651",
     category: "fitness",
     badge: "💪",
     name: { en: "CAP Barbell Olympic EZ Curl Bar", ja: "CAP Barbell オリンピックEZカールバー" },
@@ -15188,6 +15667,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-curl-bar",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/RA1077-H_yya7yk.png",
     category: "fitness",
     badge: "💪",
     name: { en: "Rogue Curl Bar", ja: "Rogue カールバー" },
@@ -15206,6 +15686,7 @@ const RAW_CATALOG = [
   },
   {
     id: "body-solid-ez-curl-bar",
+    imageUrl: "https://strengthwarehouseusa.com/cdn/shop/products/OB47_600x600.jpg?v=1532981760",
     category: "fitness",
     badge: "💪",
     name: { en: "Body-Solid EZ Curl Bar", ja: "Body-Solid EZカールバー" },
@@ -15224,6 +15705,7 @@ const RAW_CATALOG = [
   },
   {
     id: "olympic-ez-curl-bar-by-titan",
+    imageUrl: "https://m.media-amazon.com/images/I/4109Je7P52L._SL500_.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "Titan Fitness Olympic EZ Curl Bar", ja: "Titan Fitness オリンピックEZカールバー" },
@@ -15242,6 +15724,7 @@ const RAW_CATALOG = [
   },
   {
     id: "standard-ez-curl-bar-25mm",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0574/1215/7598/t/16/assets/acf.Curl-HC-Main.png?v=1636641892",
     category: "fitness",
     badge: "💪",
     name: { en: "Standard EZ Curl Bar (25mm)", ja: "標準EZカールバー (25mm)" },
@@ -15280,6 +15763,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hario-v60-02-plastic",
+    imageUrl: "https://image.rakuten.co.jp/gensouen/cabinet/item/other/img61122244.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Hario V60 02 Plastic", ja: "Hario V60 02 プラスチック" },
@@ -15298,6 +15782,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hario-v60-02-glass",
+    imageUrl: "https://image.rakuten.co.jp/ksrainbow/cabinet/imgrc0139079835.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Hario V60 02 Glass", ja: "Hario V60 02 ガラス" },
@@ -15316,6 +15801,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hario-v60-02-metal",
+    imageUrl: "https://shop.hariocorp.co.jp/cdn/shop/products/VDM-02HSV_dd7ecf62-62af-4afe-9a20-a34a0b587034_1024x1024.jpg?v=1571720320",
     category: "food",
     badge: "☕",
     name: { en: "Hario V60 02 Metal", ja: "Hario V60 02 メタル" },
@@ -15334,6 +15820,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hario-v60-filters-02",
+    imageUrl: "https://image.rakuten.co.jp/receno/cabinet/coffeefilter2/ha-pf/img/0000040024000.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Hario V60 Paper Filters 02", ja: "Hario V60 ペーパーフィルター 02" },
@@ -15482,6 +15969,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hario-technica-siphon",
+    imageUrl: "https://img07.shop-pro.jp/PA01417/532/product/159844914.jpg?cmsp_timestamp=20210607150823",
     category: "food",
     badge: "☕",
     name: { en: "Hario Technica Siphon", ja: "Hario Technica サイフォン" },
@@ -15518,6 +16006,7 @@ const RAW_CATALOG = [
   },
   {
     id: "butane-burner-for-siphon",
+    imageUrl: "https://m.media-amazon.com/images/I/61IP-aVsjfL.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Butane Burner for Siphon Coffee", ja: "サイフォンコーヒー用ブタンバーナー" },
@@ -15556,6 +16045,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cap-barbell-trap-bar",
+    imageUrl: "https://repfitness.com/cdn/shop/products/Shopify-Hex_Trap-Thumbnail.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "CAP Barbell Hex Trap Bar", ja: "CAP Barbell ヘックストラップバー" },
@@ -15574,6 +16064,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titan-fitness-hex-trap-bar",
+    imageUrl: "https://titan.fitness/cdn/shop/files/430144_01.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "Titan Fitness Hex Trap Bar", ja: "Titan Fitness ヘックストラップバー" },
@@ -15592,6 +16083,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rep-fitness-hd-trap-bar",
+    imageUrl: "https://repfitness.com/cdn/shop/products/Shopify-Hex_Trap-Thumbnail.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "REP Fitness HD Trap Bar", ja: "REP Fitness HD トラップバー" },
@@ -15610,6 +16102,7 @@ const RAW_CATALOG = [
   },
   {
     id: "valor-fitness-ob-hx-trap-bar",
+    imageUrl: "https://valorfitness.com/cdn/shop/files/OB-HEX_Main.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "Valor Fitness Trap Bar", ja: "Valor Fitness トラップバー" },
@@ -15647,6 +16140,7 @@ const RAW_CATALOG = [
   },
   {
     id: "stainless-cezve-by-bosphorus",
+    imageUrl: "https://cuisinox.com/cdn/shop/files/TUR-700_BEST_SELLER_1500x.jpg?v=1769494317",
     category: "food",
     badge: "☕",
     name: { en: "Stainless Cezve by Bosphorus", ja: "Bosphorus ステンレスチェズベ" },
@@ -15665,6 +16159,7 @@ const RAW_CATALOG = [
   },
   {
     id: "electric-turkish-coffee-maker-arzum",
+    imageUrl: "https://arzumusa.com/cdn/shop/files/Arzum_Temmuz14322_300x300.jpg?v=1726805442",
     category: "food",
     badge: "☕",
     name: { en: "Arzum Okka Electric Turkish Coffee Maker", ja: "Arzum Okka 電気式トルココーヒーメーカー" },
@@ -15683,6 +16178,7 @@ const RAW_CATALOG = [
   },
   {
     id: "turkish-coffee-grinder-zassenhaus",
+    imageUrl: "https://www.zassenhaus-brandshop.com/media/f2/41/16/1715842910/24346_-_Mokkamuehle_Havanna_Messing-1.jpg?ts=1715842910",
     category: "food",
     badge: "☕",
     name: { en: "Zassenhaus Turkish Coffee Hand Grinder", ja: "Zassenhaus トルココーヒー ハンドグラインダー" },
@@ -15701,6 +16197,7 @@ const RAW_CATALOG = [
   },
   {
     id: "turkish-coffee-beans-mehmet",
+    imageUrl: "https://www.parthenonfoods.com/cdn/shop/files/MehmetCoffee250g_large.png?v=1767721377",
     category: "food",
     badge: "☕",
     name: { en: "Mehmet Efendi Turkish Ground Coffee", ja: "Mehmet Efendi トルコグランドコーヒー" },
@@ -15739,6 +16236,7 @@ const RAW_CATALOG = [
   },
   {
     id: "concept2-bike-erg",
+    imageUrl: "https://cms.concept2.com/sites/default/files/2024-02/BIKE_ERG_BLACK_F3Q_1_1920px.png",
     category: "fitness",
     badge: "💪",
     name: { en: "Concept2 BikeErg", ja: "Concept2 BikeErg" },
@@ -15757,6 +16255,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-echo-bike",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_1600,b_rgb:ffffff/catalog/Conditioning/Endurance%20/Bikes/ECHOBIKE/ECHOBIKE-H_t5871p.png",
     category: "fitness",
     badge: "💪",
     name: { en: "Rogue Echo Bike", ja: "Rogue Echo Bike" },
@@ -15775,6 +16274,7 @@ const RAW_CATALOG = [
   },
   {
     id: "schwinn-airdyne-pro",
+    imageUrl: "https://sandiegofitnessequipment.com/cdn/shop/products/s973414024662186571_p101_i5_w828_1024x.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "Schwinn Airdyne Pro Fan Bike", ja: "Schwinn Airdyne Pro ファンバイク" },
@@ -15793,6 +16293,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sunny-health-air-bike",
+    imageUrl: "https://sunnyhealthfitness.com/cdn/shop/products/sunny-health-fitness-bikes-motion-air-bike-fan-exercise-bike-unlimited-resistance-tablet-holder-SF-B2916-01.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "Sunny Health Magnetic Resistance Air Bike", ja: "Sunny Health 磁気抵抗エアバイク" },
@@ -15831,6 +16332,7 @@ const RAW_CATALOG = [
   },
   {
     id: "trung-nguyen-legend-ground",
+    imageUrl: "https://trungnguyenlegend.us/cdn/shop/products/TNcreative02-5000081_e101d535-bf81-4d31-bd0d-49c5e5ca53cb.jpg",
     category: "food",
     badge: "伝統的ベトナムコーヒー",
     name: { en: "Trung Nguyen Legend Ground Coffee", ja: "Trung Nguyen Legend グラウンドコーヒー" },
@@ -15849,6 +16351,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cafe-du-monde-coffee-chicory",
+    imageUrl: "https://shop.cafedumonde.com/wp-content/uploads/2014/07/cafe-du-monde-coffee-chicory-can.jpg.webp",
     category: "food",
     badge: "チコリブレンド",
     name: { en: "Cafe Du Monde Coffee with Chicory", ja: "Cafe Du Monde コーヒー＆チコリ" },
@@ -15867,6 +16370,7 @@ const RAW_CATALOG = [
   },
   {
     id: "longevity-brand-condensed-milk",
+    imageUrl: "https://img06.weeecdn.com/product/image/878/364/41CE6C48965494D7.png",
     category: "food",
     badge: "必須材料",
     name: { en: "Longevity Brand Sweetened Condensed Milk", ja: "Longevity Brand（Ong Tho）コンデンスミルク" },
@@ -15885,6 +16389,7 @@ const RAW_CATALOG = [
   },
   {
     id: "phin-coffee-filter-stainless",
+    imageUrl: "https://nguyencoffeesupply.com/cdn/shop/files/12oz-phin-filter.png",
     category: "food",
     badge: "基本フィン",
     name: { en: "Stainless Steel Phin Coffee Filter Set", ja: "ステンレス製フィンコーヒーフィルターセット" },
@@ -15904,6 +16409,7 @@ const RAW_CATALOG = [
   // ── Power Rack 💪 ──────────────────────────────────────────────────────
   {
     id: "rogue-r-3-power-rack",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Rigs%20and%20Racks/Power%20Racks%20/R-Series%20Racks/XX3803/XX3803-H_xarpcp.png",
     category: "fitness",
     badge: "ベストホームジムラック",
     name: { en: "Rogue R-3 Monster Lite Power Rack", ja: "Rogue R-3 Monster Lite パワーラック" },
@@ -15940,6 +16446,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titan-fitness-x-3-power-rack",
+    imageUrl: "https://titan.fitness/cdn/shop/files/401390_01.jpg?v=1722289719&width=1946",
     category: "fitness",
     badge: "11ゲージ予算オプション",
     name: { en: "Titan Fitness X-3 Power Rack", ja: "Titan Fitness X-3 パワーラック" },
@@ -15958,6 +16465,7 @@ const RAW_CATALOG = [
   },
   {
     id: "body-solid-gpr378-power-rack",
+    imageUrl: "https://cdn11.bigcommerce.com/s-2v01ommyhe/products/977/3626/GPR378_0004-Cutout__84700.1735836860.386.513.jpg?c=1",
     category: "fitness",
     badge: "統合システム",
     name: { en: "Body-Solid GPR378 Power Rack with Lat Pulldown", ja: "Body-Solid GPR378 パワーラック（ラットプルダウン付）" },
@@ -15976,6 +16484,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cap-barbell-fm-8000f-power-rack",
+    imageUrl: "https://capbarbell.com/cdn/shop/files/FM_CB8000F__46543__91821.1446739894.500.750.jpg?v=1766876514",
     category: "fitness",
     badge: "予算ケージ",
     name: { en: "CAP Barbell FM-8000F Power Rack", ja: "CAP Barbell FM-8000F パワーラック" },
@@ -16014,6 +16523,7 @@ const RAW_CATALOG = [
   },
   {
     id: "guayaki-yerba-mate-traditional",
+    imageUrl: "https://yerbamadre.com/cdn/shop/files/YM_LooseLeaf_Hero_Option_1_copy.jpg",
     category: "food",
     badge: "オーガニック",
     name: { en: "Guayaki Yerba Mate Traditional", ja: "Guayaki ヤーバマテ Traditional" },
@@ -16032,6 +16542,7 @@ const RAW_CATALOG = [
   },
   {
     id: "taragui-yerba-mate",
+    imageUrl: "https://goyerbamate.store/cdn/shop/files/taragui_yerba_mate_with_stems_500-g.jpg",
     category: "food",
     badge: "幅広い流通",
     name: { en: "Taragui Yerba Mate", ja: "Taragui ヤーバマテ" },
@@ -16050,6 +16561,7 @@ const RAW_CATALOG = [
   },
   {
     id: "gourd-and-bombilla-set",
+    imageUrl: "https://drinkmateina.com/cdn/shop/files/mateina_stainless_steel_gourd_and_bombilla_2.jpg",
     category: "food",
     badge: "スターターキット",
     name: { en: "Mate Gourd and Bombilla Set", ja: "マテゴードとボンビーリャセット" },
@@ -16068,6 +16580,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yerba-mate-electric-gourd",
+    imageUrl: "https://kalmateh.com/cdn/shop/products/IMG_0758.jpg",
     category: "food",
     badge: "電気ゴード",
     name: { en: "Yerba Mate Electric Gourd Thermos", ja: "ヤーバマテ電気ゴードサーモス" },
@@ -16106,6 +16619,7 @@ const RAW_CATALOG = [
   },
   {
     id: "valor-fitness-bd-62-leg-press",
+    imageUrl: "https://valorfitness.com/cdn/shop/files/CC-10_Main_51cb0ea6-94c2-425e-8cd3-2af74861161f.jpg",
     category: "fitness",
     badge: "コンパクト",
     name: { en: "Valor Fitness BD-62 Leg Press Machine", ja: "Valor Fitness BD-62 レッグプレスマシン" },
@@ -16142,6 +16656,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titan-fitness-leg-press-v2",
+    imageUrl: "https://titan.fitness/cdn/shop/files/400573_01_ec40682c-bc2a-4869-83bc-ff0550b87f27.jpg",
     category: "fitness",
     badge: "予算11ゲージ",
     name: { en: "Titan Fitness Leg Press V2", ja: "Titan Fitness レッグプレス V2" },
@@ -16160,6 +16675,7 @@ const RAW_CATALOG = [
   },
   {
     id: "marcy-diamond-leg-press",
+    imageUrl: "https://www.marcypro.com/cdn/shop/files/MWM-0418_p_01__79125.1738797113.1280.1280.jpg",
     category: "fitness",
     badge: "エントリーレベル",
     name: { en: "Marcy Diamond MD-9060G Leg Press Machine", ja: "Marcy Diamond MD-9060G レッグプレスマシン" },
@@ -16198,6 +16714,7 @@ const RAW_CATALOG = [
   },
   {
     id: "timemore-black-mirror-scale",
+    imageUrl: "https://onyxcoffeelab.com/cdn/shop/products/Scale2_grande.jpg",
     category: "food",
     badge: "ベストバリュー",
     name: { en: "Timemore Black Mirror Basic+ Coffee Scale", ja: "Timemore Black Mirror Basic+ コーヒースケール" },
@@ -16216,6 +16733,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hario-v60-drip-scale",
+    imageUrl: "https://www.hario-usa.com/cdn/shop/products/IMG_0368.jpg",
     category: "food",
     badge: "V60コンパニオン",
     name: { en: "Hario V60 Drip Scale", ja: "Hario V60 ドリップスケール" },
@@ -16234,6 +16752,7 @@ const RAW_CATALOG = [
   },
   {
     id: "felicita-incline-coffee-scale",
+    imageUrl: "https://ikawahome.com/cdn/shop/products/felicitainclinescales_grande.jpg",
     category: "food",
     badge: "エルゴノミクス",
     name: { en: "Felicita Incline Coffee Scale", ja: "Felicita Incline コーヒースケール" },
@@ -16252,6 +16771,7 @@ const RAW_CATALOG = [
   },
   {
     id: "coffee-gator-pour-over-scale",
+    imageUrl: "https://forestandmeadow.com/cdn/shop/products/Coffee_Gator_multifunction_timing_coffee_scales_10_1024x1024_e4d93e2d-e7b4-4331-97d4-28597309967d.jpg",
     category: "food",
     badge: "予算エントリー",
     name: { en: "Coffee Gator Pour-Over Scale", ja: "Coffee Gator ポアオーバースケール" },
@@ -16290,6 +16810,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rep-fitness-ab-5200-fid-bench",
+    imageUrl: "https://repfitness.com/cdn/shop/products/AB-5202-MetallicBlack-Thumbnail.jpg",
     category: "fitness",
     badge: "デュアルパーパス",
     name: { en: "REP Fitness AB-5200 FID Adjustable Bench", ja: "REP Fitness AB-5200 FID 調整可能ベンチ" },
@@ -16308,6 +16829,7 @@ const RAW_CATALOG = [
   },
   {
     id: "valor-fitness-hip-thrust-bench",
+    imageUrl: "https://valorfitness.com/cdn/shop/files/HT-31-MainImage.jpg",
     category: "fitness",
     badge: "中価格帯専用",
     name: { en: "Valor Fitness Hip Thrust Bench", ja: "Valor Fitness ヒップスラストベンチ" },
@@ -16344,6 +16866,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hip-thrust-pad-barbell",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_1600,b_rgb:ffffff/catalog/Strength%20Equipment/Strength%20Training/Lower%20Body%20Training/AB0013/AB0013-H_uiry3t.png",
     category: "fitness",
     badge: "必須アクセサリー",
     name: { en: "Barbell Hip Thrust Foam Pad", ja: "バーベルヒップスラストフォームパッド" },
@@ -16382,6 +16905,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ryze-mushroom-coffee",
+    imageUrl: "https://www.ryzesuperfoods.com/cdn/shop/files/Medium_Roast_-_Single_Bag_02.webp",
     category: "food",
     badge: "売上1位",
     name: { en: "Ryze Mushroom Coffee", ja: "Ryze マッシュルームコーヒー" },
@@ -16400,6 +16924,7 @@ const RAW_CATALOG = [
   },
   {
     id: "om-mushroom-master-blend",
+    imageUrl: "https://ommushrooms.com/cdn/shop/files/Om_PDP_180gPowders_MB_Front.png",
     category: "food",
     badge: "オーガニック認証",
     name: { en: "Om Mushroom Master Blend", ja: "Om Mushroom Master Blend" },
@@ -16418,6 +16943,7 @@ const RAW_CATALOG = [
   },
   {
     id: "earth-and-star-mushroom-coffee",
+    imageUrl: "https://cdn.prod.website-files.com/60e886f6c0fca2d6f5903bec/6335c6ee74a105b1fa9ad390_earth-star-coffee.jpg",
     category: "food",
     badge: "透明な投与量",
     name: { en: "Earth & Star Mushroom Coffee", ja: "Earth & Star マッシュルームコーヒー" },
@@ -16436,6 +16962,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lion-mane-mushroom-powder",
+    imageUrl: "https://www.malamamushrooms.com/cdn/shop/files/LionsMane-Extract-3_5oz_1_website.jpg",
     category: "food",
     badge: "DIY投与量",
     name: { en: "Lion's Mane Mushroom Extract Powder", ja: "ライオンズメーンキノコエキスパウダー" },
@@ -16492,6 +17019,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sunny-health-stair-stepper-mini",
+    imageUrl: "https://sunnyhealthfitness.com/cdn/shop/products/sunny-health-fitness-stepper-total-body-stepper-machine-SF-S0978-01.jpg",
     category: "fitness",
     badge: "予算ミニ",
     name: { en: "Sunny Health & Fitness Mini Stair Stepper", ja: "Sunny Health & Fitness ミニステアステッパー" },
@@ -16510,6 +17038,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nustep-t4r-recumbent-stepper",
+    imageUrl: "https://global.nustep.com/wp-content/uploads/2022/10/HERO_T4r.png",
     category: "fitness",
     badge: "関節保護",
     name: { en: "NuStep T4r Recumbent Cross Trainer", ja: "NuStep T4r リカンベントクロストレーナー" },
@@ -16528,6 +17057,7 @@ const RAW_CATALOG = [
   },
   {
     id: "stairmaster-8-series-stepmill",
+    imageUrl: "https://fitdir.com/wp-content/uploads/2016/11/StairMaster-8Gx-Gauntlet-8-Series-Stepmill.png",
     category: "fitness",
     badge: "改装品バリュー",
     name: { en: "StairMaster 8-Series Stepmill (Refurbished)", ja: "StairMaster 8シリーズ ステップミル（改装品）" },
@@ -16585,6 +17115,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tazo-chai-concentrate",
+    imageUrl: "https://images.ctfassets.net/67yjwz9a8c38/35Ir9EbS4j70fkm7oA8I3O/f4a143575c3725fa1af077ddf6aafb06/classic-chai-latte-front.webp",
     category: "food",
     badge: "コスパコンセントレート",
     name: { en: "Tazo Chai Latte Concentrate", ja: "タゾ チャイラテ コンセントレート" },
@@ -16603,6 +17134,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oregon-chai-original-concentrate",
+    imageUrl: "https://oregonchai.com/cdn/shop/files/9ad5d4b40793992ecda2914ebaee199716728a3b.jpg",
     category: "food",
     badge: "市場標準",
     name: { en: "Oregon Chai Original Concentrate", ja: "オレゴンチャイ オリジナル コンセントレート" },
@@ -16621,6 +17153,7 @@ const RAW_CATALOG = [
   },
   {
     id: "david-rio-elephant-vanilla-chai",
+    imageUrl: "https://static.wixstatic.com/media/c93979_6786ca571c7e4ba3afdfa441de25e179~mv2_d_1500_1538_s_2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     category: "food",
     badge: "最手軽フォーマット",
     name: { en: "David Rio Elephant Vanilla Chai Powder", ja: "デビッドリオ エレファント バニラチャイ パウダー" },
@@ -16659,6 +17192,7 @@ const RAW_CATALOG = [
   },
   {
     id: "century-bob-xl",
+    imageUrl: "https://centurymartialarts.com/cdn/shop/products/bob-xl-body-opponent-bag-857566.jpg",
     category: "fitness",
     badge: "精度トレーニング",
     name: { en: "Century BOB XL Body Opponent Bag", ja: "センチュリー BOB XL ボディ・オポーネント・バッグ" },
@@ -16677,6 +17211,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rdx-heavy-bag-5ft",
+    imageUrl: "https://rdxsports.com/cdn/shop/products/black_grey_training_punch_bag_with_chains_1.jpg",
     category: "fitness",
     badge: "ベストコスパハンギング",
     name: { en: "RDX 5ft Punching Bag (Hanging)", ja: "RDX 5ftパンチングバッグ（ハンギング）" },
@@ -16713,6 +17248,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ringside-heavy-bag-100lb",
+    imageUrl: "https://www.ringside.com/media/catalog/product/cache/d5221d94aa3a6635a511ca59d04c7bfc/l/h/lhb_100_v2.jpg",
     category: "fitness",
     badge: "伝統的ボクシングバッグ",
     name: { en: "Ringside 100 lb Heavy Bag", ja: "リングサイド 100lb ヘビーバッグ" },
@@ -16751,6 +17287,7 @@ const RAW_CATALOG = [
   },
   {
     id: "wedderspoon-manuka-kfactor16",
+    imageUrl: "https://wedderspoon.com/cdn/shop/files/MGO150-250g.png",
     category: "food",
     badge: "アクセシブルマヌカ",
     name: { en: "Wedderspoon Manuka Honey KFactor 16", ja: "ウェッダースプーン マヌカハニー KFactor 16" },
@@ -16769,6 +17306,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nature-nates-raw-honey",
+    imageUrl: "https://nateshoney.com/wp-content/uploads/Classic-16-Front-Render.png",
     category: "food",
     badge: "日常生ハチミツ",
     name: { en: "Nature Nate's 100% Pure Raw Honey", ja: "ネイチャーネーツ 100%純粋生ハチミツ" },
@@ -16787,6 +17325,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ys-eco-bee-raw-honey",
+    imageUrl: "https://www.pureformulas.com/ccstore/v1/images/?source=/file/v9097305561825314248/products/raw-honey-paste-22-oz-by-ys-eco-bee-farms-20260506074038.jpg",
     category: "food",
     badge: "濃厚未濾過生ハチミツ",
     name: { en: "Y.S. Eco Bee Farms Raw Honey", ja: "Y.S.エコビーファームズ 生ハチミツ" },
@@ -16805,6 +17344,7 @@ const RAW_CATALOG = [
   },
   {
     id: "wholesome-organic-raw-honey",
+    imageUrl: "https://wholesomesweet.com/cdn/shop/files/RawUnfilteredJar_ThisHoney_16oz.png",
     category: "food",
     badge: "オーガニックフェアトレード",
     name: { en: "Wholesome Organic Raw Honey", ja: "ホールサム オーガニック生ハチミツ" },
@@ -16843,6 +17383,7 @@ const RAW_CATALOG = [
   },
   {
     id: "everlast-prostyle-training-gloves",
+    imageUrl: "https://www.everlast.com/cdn/shop/files/Prostyle_Training_Gloves_PNK_4_552c7b04-2557-4d50-9423-49e0cccc1035.jpg",
     category: "fitness",
     badge: "エントリーグローブ",
     name: { en: "Everlast ProStyle Training Gloves", ja: "エバーラスト プロスタイル トレーニンググローブ" },
@@ -16935,6 +17476,7 @@ const RAW_CATALOG = [
   },
   {
     id: "harney-sons-japanese-sencha",
+    imageUrl: "https://www.harney.com/cdn/shop/products/Cup_Shots_Japanese_Sencha.jpg?v=1762200390&width=1110",
     category: "food",
     badge: "アクセシブル煎茶",
     name: { en: "Harney & Sons Japanese Sencha", ja: "ハーニー&サンズ 日本煎茶" },
@@ -16971,6 +17513,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ippodo-gyokuro",
+    imageUrl: "https://ippodotea.com/cdn/shop/files/ippodo-tea-kanro-gyokuro-winter-package.png?crop=center&height=600&v=1769101452&width=600",
     category: "food",
     badge: "玉露プレミアム",
     name: { en: "Ippodo Gyokuro Shade-Grown Green Tea", ja: "一保堂茶舗 玉露" },
@@ -16989,6 +17532,7 @@ const RAW_CATALOG = [
   },
   {
     id: "harney-sons-dragon-well",
+    imageUrl: "https://www.harney.com/cdn/shop/products/2021_Loose_3OZ_Lung_Ching_44243.jpg?v=1758315632&width=1110",
     category: "food",
     badge: "中国緑茶定番",
     name: { en: "Harney & Sons Dragon Well (Longjing) Green Tea", ja: "ハーニー&サンズ 龍井茶（ロンジン）" },
@@ -17027,6 +17571,7 @@ const RAW_CATALOG = [
   },
   {
     id: "joola-ben-johns-hyperion-cfs16",
+    imageUrl: "https://joola.com/cdn/shop/files/Ben-Johns-Hyperion-CFS-16-18502-Web-01.png?v=1768584359&width=1200",
     category: "fitness",
     badge: "スピン重視",
     name: { en: "Joola Ben Johns Hyperion CFS 16 Pickleball Paddle", ja: "ジョーラ ベン・ジョンズ ハイペリオンCFS16 ピックルボールパドル" },
@@ -17063,6 +17608,7 @@ const RAW_CATALOG = [
   },
   {
     id: "head-extreme-tour-paddle",
+    imageUrl: "https://cdn11.bigcommerce.com/s-tl5mxjzfsl/images/stencil/1000x1000/products/4403/18374/HD203_ExtremeTour_1_1000__08246.1673290053.jpg?c=1",
     category: "fitness",
     badge: "テニスプレーヤー向け",
     name: { en: "Head Extreme Tour Pickleball Paddle", ja: "ヘッド エクストリーム ツアー ピックルボールパドル" },
@@ -17081,6 +17627,7 @@ const RAW_CATALOG = [
   },
   {
     id: "paddletek-tempest-wave-pro",
+    imageUrl: "https://www.paddletek.com/cdn/shop/files/Paddletek_Tempest_WavePro-C_Aurora_14.3_Front.png?v=1763070846&width=1200",
     category: "fitness",
     badge: "中堅オールラウンダー",
     name: { en: "Paddletek Tempest Wave Pro Pickleball Paddle", ja: "パドルテック テンペスト ウェーブ プロ ピックルボールパドル" },
@@ -17119,6 +17666,7 @@ const RAW_CATALOG = [
   },
   {
     id: "harmless-harvest-raw",
+    imageUrl: "https://harmlessharvest.com/cdn/shop/files/harmless-harvest-32oz-organic-pink-coconut-water.png?v=1772214567&width=1000",
     category: "food",
     badge: "最高の生ヤシのウォーター",
     name: { en: "Harmless Harvest 100% Raw Coconut Water", ja: "ハームレスハーベスト 100%生ヤシのウォーター" },
@@ -17137,6 +17685,7 @@ const RAW_CATALOG = [
   },
   {
     id: "taste-nirvana-coconut-water",
+    imageUrl: "https://cdn.prod.website-files.com/66e8d3132d3f47033707a3f3/66e8d3132d3f47033707a839_Front_Real-Coconut-Water-9.5-fl.oz_.png",
     category: "food",
     badge: "コスパ中間品",
     name: { en: "Taste Nirvana Real Coconut Water", ja: "テイストニルヴァーナ リアルヤシのウォーター" },
@@ -17155,6 +17704,7 @@ const RAW_CATALOG = [
   },
   {
     id: "c2o-pure-coconut-water",
+    imageUrl: "https://drinkc2o.com/cdn/shop/products/C2O_ProductSquare_Original_Case_2022_1800x1800.jpg?v=1669837520",
     category: "food",
     badge: "缶形式",
     name: { en: "C2O Pure Coconut Water (Can)", ja: "C2Oピュアヤシのウォーター（缶）" },
@@ -17173,6 +17723,7 @@ const RAW_CATALOG = [
   },
   {
     id: "zico-natural-coconut-water",
+    imageUrl: "https://zico.com/cdn/shop/files/1536x1536-Zico-1L-Natural.png?v=1732220319&width=1000",
     category: "food",
     badge: "乾いた風味プロファイル",
     name: { en: "ZICO Natural Coconut Water", ja: "ジコ ナチュラルヤシのウォーター" },
@@ -17192,6 +17743,7 @@ const RAW_CATALOG = [
   // best-tennis-racket-2026
   {
     id: "wilson-pro-staff-97-v14",
+    imageUrl: "https://www.racquetpoint.com/cdn/shop/files/wilson-pro-staff-97-v14-tennis-racket-798575.jpg?v=1731795675&width=750",
     category: "fitness",
     badge: "究極のコントロール",
     name: { en: "Wilson Pro Staff 97 v14 Tennis Racket", ja: "ウィルソン プロスタッフ97 v14 テニスラケット" },
@@ -17210,6 +17762,7 @@ const RAW_CATALOG = [
   },
   {
     id: "babolat-pure-aero-2023",
+    imageUrl: "https://acesportsllc.com/cdn/shop/products/PureAero2023_2.png?v=1683829663&width=1946",
     category: "fitness",
     badge: "スピン重視",
     name: { en: "Babolat Pure Aero 2023 Tennis Racket", ja: "バボラ ピュアアエロ 2023 テニスラケット" },
@@ -17228,6 +17781,7 @@ const RAW_CATALOG = [
   },
   {
     id: "head-speed-mp",
+    imageUrl: "https://img.tennis-warehouse.com/watermark/rs.php?path=HSPDM-1.jpg&nw=455",
     category: "fitness",
     badge: "オールラウンド中上級",
     name: { en: "Head Speed MP Tennis Racket", ja: "ヘッド スピードMP テニスラケット" },
@@ -17246,6 +17800,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yonex-ezone-98",
+    imageUrl: "https://us.yonex.com/cdn/shop/files/EZ0898_BlastBlue_5868.jpg?v=1739481973&width=1946",
     category: "fitness",
     badge: "腕に優しいコントロール",
     name: { en: "Yonex EZONE 98 Tennis Racket", ja: "ヨネックス EZONE 98 テニスラケット" },
@@ -17264,6 +17819,7 @@ const RAW_CATALOG = [
   },
   {
     id: "wilson-blade-98-v8",
+    imageUrl: "https://img.tennis-warehouse.com/watermark/rs.php?path=B9816V8BG-1.jpg&nw=455",
     category: "fitness",
     badge: "アクセシブルコントロール",
     name: { en: "Wilson Blade 98 v8 Tennis Racket", ja: "ウィルソン ブレード98 v8 テニスラケット" },
@@ -17299,6 +17855,7 @@ const RAW_CATALOG = [
   },
   {
     id: "encha-latte-matcha",
+    imageUrl: "https://encha.com/cdn/shop/files/Latte60g.jpg?v=1766371283&width=1500",
     category: "food",
     badge: "Best for Lattes",
     name: { en: "Encha Latte Grade Organic Matcha", ja: "Encha ラテグレード有機抹茶" },
@@ -17329,6 +17886,7 @@ const RAW_CATALOG = [
   },
   {
     id: "aiya-cooking-grade-matcha",
+    imageUrl: "https://cdn11.bigcommerce.com/s-30z03xaf7j/images/stencil/500x659/products/1779/2355/culinary-grade-matcha-100g-bag-front_1__17957.1624480915.jpg?c=1",
     category: "food",
     badge: "Best for Baking",
     name: { en: "Aiya Cooking Grade Matcha", ja: "愛農（AIYA）製菓用抹茶" },
@@ -17344,6 +17902,7 @@ const RAW_CATALOG = [
   },
   {
     id: "matcha-love-unsweetened",
+    imageUrl: "https://itoen.com/cdn/shop/products/Matcha-Love-Single-Serve-Sticks-Box.png?v=1665672952&width=1946",
     category: "food",
     badge: "Most Accessible",
     name: { en: "Matcha Love Unsweetened Powder", ja: "Matcha Love 無糖抹茶パウダー" },
@@ -17376,6 +17935,7 @@ const RAW_CATALOG = [
   },
   {
     id: "garmin-approach-z82",
+    imageUrl: "https://www.playbetter.com/cdn/shop/products/approach-z82-rangefinder-2_700x700.jpg?v=1622701926",
     category: "fitness",
     badge: "Best Hybrid (Laser + GPS)",
     name: { en: "Garmin Approach Z82", ja: "Garmin Approach Z82" },
@@ -17391,6 +17951,7 @@ const RAW_CATALOG = [
   },
   {
     id: "precision-pro-nx9",
+    imageUrl: "https://precisionprogolf.com/cdn/shop/files/NX9_Slope_Hero_Image.png?v=1772136207&width=1000",
     category: "fitness",
     badge: "Best Value",
     name: { en: "Precision Pro NX9", ja: "Precision Pro NX9" },
@@ -17421,6 +17982,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nikon-coolshot-pro-stabilized",
+    imageUrl: "https://imaging.nikon.com/sport-optics/lineup/laser/coolshot_proii_stabilized/img/pic_001.jpg",
     category: "fitness",
     badge: "Best for Shaky Hands",
     name: { en: "Nikon Coolshot Pro II Stabilized", ja: "Nikon COOLSHOT PRO II STABILIZED" },
@@ -17453,6 +18015,7 @@ const RAW_CATALOG = [
   },
   {
     id: "twinings-english-breakfast",
+    imageUrl: "https://twiningsusa.com/cdn/shop/files/english-breakfast-bags-20ct-cf.png?v=1755534355&width=600",
     category: "food",
     badge: "Best Classic Breakfast Tea",
     name: { en: "Twinings English Breakfast", ja: "Twinings イングリッシュブレックファスト" },
@@ -17468,6 +18031,7 @@ const RAW_CATALOG = [
   },
   {
     id: "vahdam-darjeeling-first-flush",
+    imageUrl: "https://www.vahdam.com/cdn/shop/files/Darjeeling_Premium_01_66d4db6c-6ed6-4544-a5f1-675522f99b04.jpg?v=1721992476&width=1000",
     category: "food",
     badge: "Best Single-Origin",
     name: { en: "Vahdam Darjeeling First Flush", ja: "Vahdam ダージリン一番摘み" },
@@ -17498,6 +18062,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ahmad-tea-english-no-1",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0280/2237/4475/t/2/assets/Ahmad-PDP-EnglishTeaNo1_Desktop158680583612212.jpg?v=1586805838",
     category: "food",
     badge: "Best Budget Black Tea",
     name: { en: "Ahmad Tea English No. 1", ja: "Ahmad Tea イングリッシュNo.1" },
@@ -17530,6 +18095,7 @@ const RAW_CATALOG = [
   },
   {
     id: "speedo-biofuse-training-fin",
+    imageUrl: "https://static.thcdn.com/images/v2/productimg/original/13532307-1865076266151417.jpg?width=960&height=960",
     category: "fitness",
     badge: "Best All-Round Training Fin",
     name: { en: "Speedo Biofuse Training Fin", ja: "Speedo バイオフューズ トレーニングフィン" },
@@ -17545,6 +18111,7 @@ const RAW_CATALOG = [
   },
   {
     id: "arena-powerfin-pro",
+    imageUrl: "https://www.arenasport.com/media/catalog/product/cache/4e088f46ea9d1aa16967b1cdc7b0a954/f/t/ftp_m_magentoproduct_photos006151190_001_xl.jpg",
     category: "fitness",
     badge: "Best for Kicking Sets",
     name: { en: "Arena Powerfin Pro", ja: "Arena パワーフィン プロ" },
@@ -17560,6 +18127,7 @@ const RAW_CATALOG = [
   },
   {
     id: "finis-foil-monofin",
+    imageUrl: "https://elsmoreswim.com/cdn/shop/files/finis-foil-monofin-135012_1.jpg?v=1687976841",
     category: "fitness",
     badge: "Best Monofin",
     name: { en: "FINIS Foil Monofin", ja: "FINIS フォイル モノフィン" },
@@ -17575,6 +18143,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tyr-crossblade-trainer",
+    imageUrl: "https://elsmoreswim.com/cdn/shop/files/LFSCROSS2.jpg?v=1740004499",
     category: "fitness",
     badge: "Best Budget Training Fin",
     name: { en: "TYR Crossblade Trainer", ja: "TYR クロスブレード トレーナー" },
@@ -17607,6 +18176,7 @@ const RAW_CATALOG = [
   },
   {
     id: "palais-des-thes-hammam",
+    imageUrl: "https://us.palaisdesthes.com/media/catalog/product/cache/17268bf11b2baf4cb4cd0cb108e37f78/8/6/861-42158-rh8x3mmwnv.jpg",
     category: "food",
     badge: "Best Herbal Cold Brew",
     name: { en: "Palais des Thés Hammam", ja: "パレ・デ・テ ハンマム" },
@@ -17652,6 +18222,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rishi-te-cold-brew-green",
+    imageUrl: "https://www.rishi-tea.com/cdn/shop/files/Rishi-PDP-Carousel-Sencha-TC_800x.jpg?v=1762452186",
     category: "food",
     badge: "Best Organic Cold Brew",
     name: { en: "Rishi Tea Cold Brew Organic Green", ja: "Rishi Tea オーガニック コールドブリュー グリーン" },
@@ -17668,6 +18239,7 @@ const RAW_CATALOG = [
   // ── Speed Bag (fitness) ──────────────────────────────────────────────
   {
     id: "everlast-speed-bag",
+    imageUrl: "https://www.everlast.com/cdn/shop/files/130-1910ProSpeedbagM_BLK_02.jpg?v=1768307290&width=533",
     category: "fitness",
     badge: "Best for Beginners",
     name: { en: "Everlast Speed Bag", ja: "Everlast スピードバッグ" },
@@ -17683,6 +18255,7 @@ const RAW_CATALOG = [
   },
   {
     id: "title-boxing-speed-bag",
+    imageUrl: "https://cdnimages.opentip.com/full/TIT/TIT-SB-10.jpg",
     category: "fitness",
     badge: "Best Mid-Size Training Bag",
     name: { en: "Title Boxing Speed Bag", ja: "Title Boxing スピードバッグ" },
@@ -17698,6 +18271,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ringside-frequency-bag",
+    imageUrl: "https://www.ringside.com/media/catalog/product/cache/15d1fe01646e272664ed1c1747c334a6/a/s/asb1_v2.jpg",
     category: "fitness",
     badge: "Best All-Round Speed Bag",
     name: { en: "Ringside Frequency Speed Bag", ja: "Ringside フリクエンシー スピードバッグ" },
@@ -17713,6 +18287,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cleto-reyes-speed-bag",
+    imageUrl: "https://proboxingsupplies.com/cdn/shop/products/03_Platform_Speed_Bags__1528624511_79_1024x1024.jpg?v=1546619815",
     category: "fitness",
     badge: "Best Professional Speed Bag",
     name: { en: "Cleto Reyes Speed Bag", ja: "クレト・レイエス スピードバッグ" },
@@ -17728,6 +18303,7 @@ const RAW_CATALOG = [
   },
   {
     id: "century-wavemaster-speed-bag",
+    imageUrl: "https://centurymartialarts.com/cdn/shop/files/10162_010_1.jpg?crop=center&height=2160&v=1751040859&width=1728",
     category: "fitness",
     badge: "Best for Home Use (No Platform)",
     name: { en: "Century Wavemaster Freestanding Speed Bag", ja: "Century Wavemaster フリースタンディング スピードバッグ" },
@@ -17760,6 +18336,7 @@ const RAW_CATALOG = [
   },
   {
     id: "da-hong-pao-wuyi-rock",
+    imageUrl: "https://www.theteaspot.com/cdn/shop/files/dahongpaoproductleaves.jpg?v=1773692487&width=1445",
     category: "food",
     badge: "Best Rock Oolong",
     name: { en: "Da Hong Pao Wuyi Rock Oolong", ja: "大紅袍 武夷岩茶" },
@@ -17775,6 +18352,7 @@ const RAW_CATALOG = [
   },
   {
     id: "dong-ding-oolong",
+    imageUrl: "https://www.harney.com/cdn/shop/products/dongdinglight_base.jpg?v=1762198727&width=380",
     category: "food",
     badge: "Best Medium Roast Oolong",
     name: { en: "Dong Ding Oolong", ja: "凍頂烏龍茶" },
@@ -17790,6 +18368,7 @@ const RAW_CATALOG = [
   },
   {
     id: "li-shan-high-mountain-oolong",
+    imageUrl: "https://www.harney.com/cdn/shop/products/Cup_Shots_Li_Shan.jpg?v=1762198866&width=1110",
     category: "food",
     badge: "Best Premium Taiwan Oolong",
     name: { en: "Li Shan High Mountain Oolong", ja: "梨山高山烏龍茶" },
@@ -17805,6 +18384,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tie-guan-yin-anxi",
+    imageUrl: "https://www.harney.com/cdn/shop/products/Cup_Shots_Traditional_Ti_Kuan_Yon.jpg?v=1762268900&width=1110",
     category: "food",
     badge: "Best Classic Chinese Oolong",
     name: { en: "Tie Guan Yin Anxi", ja: "安渓 鉄観音" },
@@ -17837,6 +18417,7 @@ const RAW_CATALOG = [
   },
   {
     id: "celestial-seasonings-bengal-spice",
+    imageUrl: "https://celestialseasonings.com/cdn/shop/files/cel-053283-bengal-spice-herbal-tea_1_38b4e083-37ce-4899-b7a6-8e17cc50ba6b.png?v=1730819666",
     category: "food",
     badge: "Best Spiced Blend",
     name: { en: "Celestial Seasonings Bengal Spice", ja: "Celestial Seasonings ベンガルスパイス" },
@@ -17852,6 +18433,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tea-forte-rooibos-herbal",
+    imageUrl: "https://teaforte.com/cdn/shop/files/TeaPileHero_1120x1120_3C_ASolstice.jpg?format=webp&v=1776096763&width=1120",
     category: "food",
     badge: "Best Premium Rooibos",
     name: { en: "Tea Forté Rooibos Herbal", ja: "Tea Forté ルイボス ハーバル" },
@@ -17882,6 +18464,7 @@ const RAW_CATALOG = [
   },
   {
     id: "numi-honeybush",
+    imageUrl: "https://numitea.com/cdn/shop/files/honeybush-tea-bags-plastic-free_e1c0dd22-287e-41ef-b7f8-3b422126f90e.jpg?v=1752096260&width=3000",
     category: "food",
     badge: "Best Honeybush",
     name: { en: "Numi Organic Honeybush", ja: "Numi オーガニック ハニーブッシュ" },
@@ -17898,6 +18481,7 @@ const RAW_CATALOG = [
   // ── CrossFit Shoes (fitness) ──────────────────────────────────────────
   {
     id: "nike-metcon-9",
+    imageUrl: "https://shop.r10s.jp/asty-shop/cabinet/nfusl0507/e2-1kwzdbs1cz-1007.jpg",
     category: "fitness",
     badge: "Best Overall CrossFit Shoe",
     name: { en: "Nike Metcon 9", ja: "ナイキ メトコン 9" },
@@ -17913,6 +18497,7 @@ const RAW_CATALOG = [
   },
   {
     id: "reebok-nano-x4",
+    imageUrl: "https://shop.r10s.jp/sportszyuen-1/cabinet/img-18/100204675-1.jpg",
     category: "fitness",
     badge: "Best for Versatility",
     name: { en: "Reebok Nano X4", ja: "リーボック ナノ X4" },
@@ -17928,6 +18513,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nobull-trainer",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0558/4169/files/nobull-footwear-men-s-outwork-1200727320.png?v=1761933364",
     category: "fitness",
     badge: "Best Minimalist CrossFit Shoe",
     name: { en: "NoBull Trainer", ja: "NoBull トレーナー" },
@@ -17943,6 +18529,7 @@ const RAW_CATALOG = [
   },
   {
     id: "new-balance-minimus-tr",
+    imageUrl: "https://shop.r10s.jp/miz-spo/cabinet/shoes/mmtr5di2e_1.jpg",
     category: "fitness",
     badge: "Best for Running-Heavy WODs",
     name: { en: "New Balance Minimus TR", ja: "ニューバランス ミニマス TR" },
@@ -17958,6 +18545,7 @@ const RAW_CATALOG = [
   },
   {
     id: "inov8-fastlift-370",
+    imageUrl: "https://cdn11.bigcommerce.com/s-21x65e8kfn/images/stencil/original/products/16558/46669/INO1549_1000_1__95448.1688149286.jpg",
     category: "fitness",
     badge: "Best for Olympic Lifting",
     name: { en: "Inov-8 Fastlift 370", ja: "イノヴェイト ファストリフト 370" },
@@ -17990,6 +18578,7 @@ const RAW_CATALOG = [
   },
   {
     id: "scarpa-instinct-vs",
+    imageUrl: "https://us.scarpa.com/cdn/shop/files/70013-000-1_INS-VS_Blk_Instinct_VS___Black_a55d98de-dfb0-484b-9768-f241b77d9c1a.png?v=1741372157&width=2048",
     category: "fitness",
     badge: "Best Intermediate Shoe",
     name: { en: "Scarpa Instinct VS", ja: "スカルパ インスティンクト VS" },
@@ -18005,6 +18594,7 @@ const RAW_CATALOG = [
   },
   {
     id: "la-sportiva-solution",
+    imageUrl: "https://www.lasportivausa.com/cdn/shop/files/ZFCS013_W00Y00_Solution_WhiteYellow_1_ead535a4-9b03-44c2-bb53-d7d2f12d7234.jpg?v=1775748694&width=3840",
     category: "fitness",
     badge: "Best Performance Shoe",
     name: { en: "La Sportiva Solution", ja: "ラ・スポルティバ ソリューション" },
@@ -18020,6 +18610,7 @@ const RAW_CATALOG = [
   },
   {
     id: "black-diamond-momentum",
+    imageUrl: "https://blackdiamondequipment.com/cdn/shop/files/570003_9731_M_MOMENTUM_CLIMBING_SHOES_Moonstone_Black_01.jpg?v=1776716275",
     category: "fitness",
     badge: "Best Gym Shoe",
     name: { en: "Black Diamond Momentum", ja: "ブラックダイヤモンド モメンタム" },
@@ -18097,6 +18688,7 @@ const RAW_CATALOG = [
   },
   {
     id: "republic-of-tea-peppermint",
+    imageUrl: "https://www.republicoftea.com/cdn/shop/files/V20461_pt_tin.jpg?v=1763653679&width=1946",
     category: "food",
     badge: "Best Value Full-Leaf",
     name: { en: "Republic of Tea Peppermint Herb Tea", ja: "Republic of Tea ペパーミント ハーブティー" },
@@ -18112,6 +18704,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bigelow-benefits-peppermint",
+    imageUrl: "https://www.bigelowtea.com/cdn/shop/files/fzcrvorlmvyc8di2mzor.jpg?v=1776753835&width=1080",
     category: "food",
     badge: "Best Budget Peppermint",
     name: { en: "Bigelow Benefits Peppermint", ja: "Bigelow Benefits ペパーミント" },
@@ -18144,6 +18737,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bear-komplex-carbon-fiber-grips",
+    imageUrl: "https://bearkomplex.com/cdn/shop/files/Carbon3HF_81645ca1-b799-4dea-8d27-a3959fce8da1.png?v=1742280579&width=1920",
     category: "fitness",
     badge: "Best Carbon Fiber Grips",
     name: { en: "Bear KompleX Carbon Fiber Hand Grips", ja: "Bear KompleX カーボンファイバーハンドグリップス" },
@@ -18159,6 +18753,7 @@ const RAW_CATALOG = [
   },
   {
     id: "reisport-hook-loop-grips",
+    imageUrl: "https://reisport.com/cdn/shop/files/Reisport_Women_sUnevenBarGripsHookLoop1_1200x.jpg?v=1703702856",
     category: "fitness",
     badge: "Best for Competitive Gymnastics",
     name: { en: "Reisport Hook and Loop Gymnastics Grips", ja: "Reisport フック＆ループ体操グリップス" },
@@ -18221,6 +18816,7 @@ const RAW_CATALOG = [
   },
   {
     id: "vahdam-darjeeling-white-tea",
+    imageUrl: "https://www.vahdam.com/cdn/shop/files/Silver-Needle.jpg?v=1721371713&width=1000",
     category: "food",
     badge: "Best Estate White Tea",
     name: { en: "Vahdam Darjeeling White Tea", ja: "Vahdam ダージリン白茶" },
@@ -18236,6 +18832,7 @@ const RAW_CATALOG = [
   },
   {
     id: "harney-sons-white-peony",
+    imageUrl: "https://www.harney.com/cdn/shop/products/Cup_Shots_King_of_Bai_Mudan_White_800x_cb083e63-5307-426f-a7c6-250c56bad013.jpg?v=1762269265&width=800",
     category: "food",
     badge: "Best Everyday White Tea",
     name: { en: "Harney & Sons White Peony (Bai Mu Dan)", ja: "Harney & Sons 白牡丹（白牡丹）" },
@@ -18251,6 +18848,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rishi-bai-hao-silver-needle",
+    imageUrl: "https://www.rishi-tea.com/cdn/shop/files/Rishi-PDP-Carousel-SilverNeedles-TC.jpg?v=1762452193&width=800",
     category: "food",
     badge: "Best Premium Single-Origin",
     name: { en: "Rishi Tea Bai Hao Silver Needle", ja: "Rishi Tea 白毫銀針" },
@@ -18266,6 +18864,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bigelow-benefit-white-tea",
+    imageUrl: "https://www.bigelowtea.com/cdn/shop/files/ndokt8lkb4htxvdxsnfx.jpg?v=1776753843",
     category: "food",
     badge: "Best Budget Introduction",
     name: { en: "Bigelow Benefits White Tea with Blueberry", ja: "Bigelow Benefits ブルーベリー入り白茶" },
@@ -18298,6 +18897,7 @@ const RAW_CATALOG = [
   },
   {
     id: "epoch-hawk-iq9",
+    imageUrl: "https://www.sportstop.com/cdn/shop/products/media_f158c94a-5190-4b13-aadc-e5d23e7775ee.jpg?v=1759500645",
     category: "fitness",
     badge: "Best Performance Attack Stick",
     name: { en: "Epoch Hawk iQ9 Complete Stick", ja: "Epoch Hawk iQ9 コンプリートスティック" },
@@ -18313,6 +18913,7 @@ const RAW_CATALOG = [
   },
   {
     id: "warrior-evo-complete-stick",
+    imageUrl: "https://www.lax.com/cdn/shop/files/warrior-evo-attack-complete-stick-2022-mens-complete-sticks-war-ea2-bk-black-576016.png?v=1724264115&width=1500",
     category: "fitness",
     badge: "Best Value Mid-Range",
     name: { en: "Warrior Evo Complete Lacrosse Stick", ja: "Warrior Evo コンプリートラクロスステッキ" },
@@ -18328,6 +18929,7 @@ const RAW_CATALOG = [
   },
   {
     id: "maverik-lacrosse-complete-stick",
+    imageUrl: "https://www.lacrossemonkey.com/media/catalog/product/cache/b32e7142753984368b8a4b1edc19a338/7/6/7615701174918-1.jpg",
     category: "fitness",
     badge: "Best for Midfielders",
     name: { en: "Maverik Lacrosse Complete Stick", ja: "Maverik Lacrosse コンプリートスティック" },
@@ -18375,6 +18977,7 @@ const RAW_CATALOG = [
   },
   {
     id: "harney-sons-hibiscus-blend",
+    imageUrl: "https://www.harney.com/cdn/shop/files/2024_Cup_Shots_Hibiscus.jpg?v=1762281513&width=1110",
     category: "food",
     badge: "Best Premium Hibiscus Blend",
     name: { en: "Harney & Sons Hibiscus Herbal Tea", ja: "Harney & Sons ハイビスカスハーブティー" },
@@ -18405,6 +19008,7 @@ const RAW_CATALOG = [
   },
   {
     id: "celestial-seasonings-wild-berry-zinger",
+    imageUrl: "https://celestialseasonings.com/cdn/shop/files/cel-053351-wild-berry-zinger-herbal-tea_1_1ffc3068-1967-4808-91ce-d1eaf7232da7.png?v=1730819852",
     category: "food",
     badge: "Best Budget Hibiscus Option",
     name: { en: "Celestial Seasonings Wild Berry Zinger", ja: "Celestial Seasonings ワイルドベリージンジャー" },
@@ -18420,6 +19024,7 @@ const RAW_CATALOG = [
   },
   {
     id: "republic-of-tea-hibiscus-superflower",
+    imageUrl: "https://www.republicoftea.com/cdn/shop/files/V00684_pt_tin.jpg?v=1763653644&width=1946",
     category: "food",
     badge: "Best Hibiscus for Cold Brew",
     name: { en: "Republic of Tea Hibiscus Superflower", ja: "Republic of Tea ハイビスカス スーパーフラワー" },
@@ -18436,6 +19041,7 @@ const RAW_CATALOG = [
   // ── Volleyball Knee Pads (fitness) ────────────────────────────────────
   {
     id: "asics-unisex-gel-volleyball-knee-pad",
+    imageUrl: "https://www.allvolleyball.com/cdn/shop/files/3053A059_90_blk.jpg",
     category: "fitness",
     badge: "Best Overall Volleyball Knee Pad",
     name: { en: "Asics Unisex Gel Volleyball Knee Pad", ja: "Asics ユニセックス ゲルバレーボール膝パッド" },
@@ -18451,6 +19057,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mizuno-lr6-knee-pads",
+    imageUrl: "https://cdn11.bigcommerce.com/s-x6b2pdd9ey/products/17227/images/12421/480105_w_1280%2526h_1280%2526fmt_jpg%2526bg_rgb%2528255_255_255%2529__36011.1778068729.386.513.jpg?c=1",
     category: "fitness",
     badge: "Best for Libero Players",
     name: { en: "Mizuno LR6 Volleyball Knee Pad", ja: "Mizuno LR6 バレーボール膝パッド" },
@@ -18466,6 +19073,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nike-fundamentals-volleyball-knee-pad",
+    imageUrl: "https://m.media-amazon.com/images/I/31iDQNM9NyL._SL500_.jpg",
     category: "fitness",
     badge: "Best for Hitters and Setters",
     name: { en: "Nike Fundamentals Volleyball Knee Pad", ja: "Nike ファンダメンタルズ バレーボール膝パッド" },
@@ -18496,6 +19104,7 @@ const RAW_CATALOG = [
   },
   {
     id: "wilson-knee-pads-volleyball",
+    imageUrl: "https://cdn.shoplightspeed.com/shops/654589/files/49685397/1652x1652x2/wilson-wilson-standard-volleyball-knee-pad.jpg",
     category: "fitness",
     badge: "Best Mid-Range Option",
     name: { en: "Wilson Volleyball Knee Pads", ja: "Wilson バレーボール膝パッド" },
@@ -18512,6 +19121,7 @@ const RAW_CATALOG = [
   // ── Chamomile Tea (food) ──────────────────────────────────────────────
   {
     id: "alvita-organic-chamomile-tea",
+    imageUrl: "https://pennherb.com/herbstore/images/200/C40A.jpg",
     category: "food",
     badge: "Best Overall Chamomile",
     name: { en: "Alvita Organic Chamomile Tea", ja: "Alvita オーガニック カモミールティー" },
@@ -18527,6 +19137,7 @@ const RAW_CATALOG = [
   },
   {
     id: "traditional-medicinals-chamomile",
+    imageUrl: "https://www.traditionalmedicinals.com/cdn/shop/files/P103696-01_Chamomile_3D_Front_Facing_960x960.jpg?v=1761600388",
     category: "food",
     badge: "Best Herbal-Grade Chamomile",
     name: { en: "Traditional Medicinals Chamomile Tea", ja: "Traditional Medicinals カモミール" },
@@ -18542,6 +19153,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bigelow-benefits-chamomile-lavender",
+    imageUrl: "https://www.bigelowtea.com/cdn/shop/files/nxzoqfwslwkl9sz4vwh8.jpg?v=1776753910&width=1080",
     category: "food",
     badge: "Best Chamomile Blend",
     name: { en: "Bigelow Benefits Chamomile Lavender Tea", ja: "Bigelow Benefits カモミールラベンダーティー" },
@@ -18557,6 +19169,7 @@ const RAW_CATALOG = [
   },
   {
     id: "celestial-seasonings-chamomile",
+    imageUrl: "https://celestialseasonings.com/cdn/shop/files/cel-000102-chamomile-herbal-tea_1_2a77f16a-e345-48eb-8f41-9a74287292b3.png?v=1730819683",
     category: "food",
     badge: "Best Everyday Budget Chamomile",
     name: { en: "Celestial Seasonings Chamomile Tea", ja: "Celestial Seasonings カモミールティー" },
@@ -18572,6 +19185,7 @@ const RAW_CATALOG = [
   },
   {
     id: "numi-organic-chamomile-lemon",
+    imageUrl: "https://m.media-amazon.com/images/I/51uUboL13JL._SL500_.jpg",
     category: "food",
     badge: "Best Chamomile with Citrus",
     name: { en: "Numi Organic Chamomile Lemon Tea", ja: "Numi オーガニック カモミールレモンティー" },
@@ -18588,6 +19202,7 @@ const RAW_CATALOG = [
   // ── Soccer Cleats (fitness) ───────────────────────────────────────────
   {
     id: "adidas-predator-accuracy-fg",
+    imageUrl: "https://citysoccerplus.ca/cdn/shop/products/image_fa6b2912-176d-4a87-a260-6e8fd30ba15b.webp?v=1675982380&width=600",
     category: "fitness",
     badge: "Best Overall Soccer Cleat",
     name: { en: "Adidas Predator Accuracy FG", ja: "アディダス プレデター アキュラシー FG" },
@@ -18603,6 +19218,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nike-mercurial-vapor-15-fg",
+    imageUrl: "https://shop.r10s.jp/asty-shop/cabinet/niqym11a1/e2-qm1dzjhvjw-46c8.jpg",
     category: "fitness",
     badge: "Best Speed Cleat",
     name: { en: "Nike Mercurial Vapor 15 Elite FG", ja: "ナイキ マーキュリアル ヴェイパー 15 エリート FG" },
@@ -18618,6 +19234,7 @@ const RAW_CATALOG = [
   },
   {
     id: "new-balance-442-v2-fg",
+    imageUrl: "https://www.rockvillesoccer.com/cdn/shop/products/ms41frr2_nb_02_i_1024x1024@2x.webp?v=1659559121",
     category: "fitness",
     badge: "Best Value Firm Ground Cleat",
     name: { en: "New Balance 442 v2 Pro FG", ja: "ニューバランス 442 v2 プロ FG" },
@@ -18633,6 +19250,7 @@ const RAW_CATALOG = [
   },
   {
     id: "adidas-copa-pure-2-tf",
+    imageUrl: "https://www.soccervillage.com/graphics/00000001/1/gw4560_g01.jpg",
     category: "fitness",
     badge: "Best for Artificial Turf",
     name: { en: "Adidas Copa Pure 2 TF", ja: "アディダス コパ ピュア 2 TF" },
@@ -18648,6 +19266,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nike-premier-3-sg-pro",
+    imageUrl: "https://shop.r10s.jp/asty-shop/cabinet/nzith1d14/n0-cl5qfrcoh7-9rcu.jpg",
     category: "fitness",
     badge: "Best for Soft Ground / Wet Fields",
     name: { en: "Nike Premier 3 SG-Pro", ja: "ナイキ プレミア 3 SG-プロ" },
@@ -18680,6 +19299,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rosamonte-especial-yerba-mate",
+    imageUrl: "https://goyerbamate.store/cdn/shop/files/rosamante_especial_yerba_mate.jpg?v=1725893498&width=1946",
     category: "food",
     badge: "Best Bold Flavor Mate",
     name: { en: "Rosamonte Especial Yerba Mate", ja: "Rosamonte エスペシャル マテ茶" },
@@ -18695,6 +19315,7 @@ const RAW_CATALOG = [
   },
   {
     id: "anna-park-organic-green-yerba-mate",
+    imageUrl: "https://goyerbamate.store/cdn/shop/files/anna_park_500g.jpg?v=1725547365&width=1946",
     category: "food",
     badge: "Best Green (Unsmoked) Mate",
     name: { en: "Anna Park Organic Green Yerba Mate", ja: "Anna Park オーガニック グリーン マテ茶" },
@@ -18710,6 +19331,7 @@ const RAW_CATALOG = [
   },
   {
     id: "guayaki-traditional-loose-leaf",
+    imageUrl: "https://yerbamadre.com/cdn/shop/files/01.25-Yerba_Madre_NEW_bags_LL_8oz-Front-cropped2.png?v=1746073009&width=1000",
     category: "food",
     badge: "Best Ethically Sourced Mate",
     name: { en: "Guayakí Traditional Loose Leaf Yerba Mate", ja: "Guayakí トラディショナル ルースリーフ マテ茶" },
@@ -18725,6 +19347,7 @@ const RAW_CATALOG = [
   },
   {
     id: "canarias-yerba-mate",
+    imageUrl: "https://goyerbamate.store/cdn/shop/files/canarias_1kg.jpg?v=1725654181&width=1946",
     category: "food",
     badge: "Best Uruguayan Style Mate",
     name: { en: "Canarias Yerba Mate", ja: "Canarias マテ茶" },
@@ -18741,6 +19364,7 @@ const RAW_CATALOG = [
   // ── Basketball Shoes (fitness) ────────────────────────────────────────
   {
     id: "nike-lebron-xxii",
+    imageUrl: "https://shop.r10s.jp/asty-shop/cabinet/nrmfy0e97/e2-16glmji3jr-e2s7.jpg",
     category: "fitness",
     badge: "Best Premium Basketball Shoe",
     name: { en: "Nike LeBron XXII", ja: "ナイキ レブロン XXII" },
@@ -18756,6 +19380,7 @@ const RAW_CATALOG = [
   },
   {
     id: "adidas-harden-vol-8",
+    imageUrl: "https://www.shoebacca.com/cdn/shop/files/IG6589_1l.jpg?v=1771826402",
     category: "fitness",
     badge: "Best Guard Basketball Shoe",
     name: { en: "Adidas Harden Vol. 8", ja: "アディダス ハーデン Vol. 8" },
@@ -18771,6 +19396,7 @@ const RAW_CATALOG = [
   },
   {
     id: "new-balance-bb550",
+    imageUrl: "https://shop.r10s.jp/abc-mart/cabinet/item-image213/6763880001044.jpg",
     category: "fitness",
     badge: "Best Retro Court Shoe",
     name: { en: "New Balance BB550", ja: "ニューバランス BB550" },
@@ -18786,6 +19412,7 @@ const RAW_CATALOG = [
   },
   {
     id: "under-armour-curry-12",
+    imageUrl: "https://www.underarmour.co.jp/wp-content/uploads/2025/04/1080x1080_C12_Saturn.png",
     category: "fitness",
     badge: "Best Mid-Range Performance",
     name: { en: "Under Armour Curry 12", ja: "アンダーアーマー カリー 12" },
@@ -18801,6 +19428,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nike-giannis-immortality-4",
+    imageUrl: "https://shop.r10s.jp/ult-collection/cabinet/20/image/1sh24354.jpg",
     category: "fitness",
     badge: "Best Budget Performance Shoe",
     name: { en: "Nike Giannis Immortality 4", ja: "ナイキ ヤニス イモータリティ 4" },
@@ -18829,6 +19457,7 @@ const RAW_CATALOG = [
   },
   {
     id: "stash-tea-premium-ginger",
+    imageUrl: "https://www.stashtea.com/cdn/shop/files/Stash_Lemon_Ginger_Herbal_Tea.png?v=1772239862",
     category: "food",
     badge: "Best Everyday Ginger Tea",
     name: { en: "Stash Tea Premium Ginger", ja: "スタッシュティー プレミアムジンジャー" },
@@ -18840,6 +19469,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yogi-tea-ginger",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_a555e520-f50a-484a-9333-8d574985ed47?wid=600&hei=600&fmt=pjpeg",
     category: "food",
     badge: "Best Spice-Blend Ginger Tea",
     name: { en: "Yogi Tea Ginger", ja: "ヨギティー ジンジャー" },
@@ -18851,6 +19481,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bigelow-benefits-ginger-lemon",
+    imageUrl: "https://www.bigelowtea.com/cdn/shop/products/grijb3hddxsfqseur1gk_8fe07a93-70fa-48cf-94ee-406f3fcea44b.jpg?v=1776753899",
     category: "food",
     badge: "Best Ginger-Citrus Blend",
     name: { en: "Bigelow Benefits Ginger & Lemon", ja: "ビゲロー ベネフィッツ ジンジャー＆レモン" },
@@ -18862,6 +19493,7 @@ const RAW_CATALOG = [
   },
   {
     id: "pukka-three-ginger",
+    imageUrl: "https://www.planetorganic.com/cdn/shop/products/Pukka-Three-Ginger-Tea-20-Bags-9178_54262f8f-4c4f-4c69-9c09-2833a214ff43.jpg?v=1637557082",
     category: "food",
     badge: "Best Premium Ginger Experience",
     name: { en: "Pukka Three Ginger Tea", ja: "パッカ スリージンジャーティー" },
@@ -18886,6 +19518,7 @@ const RAW_CATALOG = [
   },
   {
     id: "traditional-medicinals-lemon-ginger",
+    imageUrl: "https://www.traditionalmedicinals.com/cdn/shop/files/P102822-03_Lemon-Ginger_3D_Front_Facing_960x960.jpg?v=1693260988",
     category: "food",
     badge: "Best Medicinal-Grade Lemon Ginger",
     name: { en: "Traditional Medicinals Lemon Ginger Tea", ja: "トラディショナルメディシナルズ レモンジンジャー" },
@@ -18897,6 +19530,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bigelow-lemon-ginger-herbal",
+    imageUrl: "https://www.bigelowtea.com/cdn/shop/products/grijb3hddxsfqseur1gk_8fe07a93-70fa-48cf-94ee-406f3fcea44b.jpg?v=1776753899",
     category: "food",
     badge: "Best Value Lemon Ginger Tea",
     name: { en: "Bigelow Lemon Ginger Herbal Tea", ja: "ビゲロー レモンジンジャー ハーブティー" },
@@ -18908,6 +19542,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yogi-ginger-lemon",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_8cc3ee06-7483-43b9-b359-e547dbdd389f?wid=600&hei=600&fmt=pjpeg",
     category: "food",
     badge: "Best Spice-Forward Lemon Ginger",
     name: { en: "Yogi Ginger Lemon Tea", ja: "ヨギ ジンジャーレモン" },
@@ -18919,6 +19554,7 @@ const RAW_CATALOG = [
   },
   {
     id: "harney-sons-lemon-ginger",
+    imageUrl: "https://www.harney.com/cdn/shop/products/HT_ORGANIC_GINGER_LEMON_30638_3_4_8f204af5-30f1-4ea3-baa4-32295e03605c.jpg",
     category: "food",
     badge: "Best Premium Lemon Ginger Tea",
     name: { en: "Harney & Sons Lemon Ginger Tea", ja: "ハーニー＆サンズ レモンジンジャーティー" },
@@ -18943,6 +19579,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yonex-nanoflare-800",
+    imageUrl: "https://www.yonex.com/media/catalog/product/a/l/all_nf-800p_269-1.png",
     category: "fitness",
     badge: "Best Singles/Speed Racket",
     name: { en: "Yonex Nanoflare 800", ja: "ヨネックス ナノフレア800" },
@@ -18954,6 +19591,7 @@ const RAW_CATALOG = [
   },
   {
     id: "victor-thruster-k-9900",
+    imageUrl: "https://e78.us/cdn/shop/products/TK-9900_900x.jpg?v=1556578505",
     category: "fitness",
     badge: "Best Premium Alternative to Yonex",
     name: { en: "Victor Thruster K 9900", ja: "ビクター スラスターK 9900" },
@@ -18965,6 +19603,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yonex-arcsaber-11",
+    imageUrl: "https://www.yonex.com/media/catalog/product/a/r/arc11-p.png",
     category: "fitness",
     badge: "Best All-Around Control Racket",
     name: { en: "Yonex Arcsaber 11", ja: "ヨネックス アークセイバー11" },
@@ -18976,6 +19615,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yonex-duora-10",
+    imageUrl: "https://www.badmintonalley.com/v/vspfiles/photos/RACKET-YONEX-DUORA-10-BLUE-ORG-2.jpg",
     category: "fitness",
     badge: "Best Two-Sided Design Racket",
     name: { en: "Yonex Duora 10", ja: "ヨネックス デュオラ10" },
@@ -18988,6 +19628,7 @@ const RAW_CATALOG = [
   // best-wrestling-shoes-2026
   {
     id: "asics-cael-v9-wrestling",
+    imageUrl: "https://www.bluechipwrestling.com/cdn/shop/products/cael-v8-black-black_fr-min_2000x.jpg?v=1570591613",
     category: "fitness",
     badge: "Best Competition Wrestling Shoe",
     name: { en: "ASICS Cael V9.0", ja: "アシックス ケイエル V9.0" },
@@ -18999,6 +19640,7 @@ const RAW_CATALOG = [
   },
   {
     id: "asics-matflex-6-wrestling",
+    imageUrl: "https://www.bluechipwrestling.com/cdn/shop/products/asics-matflex-6-classic-red-white-min_2000x.jpg?v=1570591698",
     category: "fitness",
     badge: "Best Value Wrestling Shoe",
     name: { en: "ASICS Matflex 6", ja: "アシックス マットフレックス 6" },
@@ -19010,6 +19652,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nike-speedsweep-vii",
+    imageUrl: "https://shop.r10s.jp/asty-shop/cabinet/njzlc120e/e2-101lag0lwg-i2c0.jpg",
     category: "fitness",
     badge: "Best Nike Wrestling Shoe",
     name: { en: "Nike Speedsweep VII", ja: "ナイキ スピードスウィープ VII" },
@@ -19021,6 +19664,7 @@ const RAW_CATALOG = [
   },
   {
     id: "adidas-adizero-varner-wrestling",
+    imageUrl: "https://www.bluechipwrestling.com/cdn/shop/products/adizero_varner_grey-royal-white-min_2000x.jpg?v=1570591549",
     category: "fitness",
     badge: "Best Lightweight Wrestling Shoe",
     name: { en: "Adidas Adizero Varner", ja: "アディダス アディゼロ バーナー" },
@@ -19032,6 +19676,7 @@ const RAW_CATALOG = [
   },
   {
     id: "asics-split-second-9",
+    imageUrl: "https://gaponez.com/wa-data/public/shop/products/13/94/9413/images/14785/14785.750.jpg",
     category: "fitness",
     badge: "Best Mid-Range Wrestling Shoe",
     name: { en: "ASICS Split Second 9", ja: "アシックス スプリットセカンド 9" },
@@ -19056,6 +19701,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kind-healthy-grains-oats-honey-toasted-coconut-granola",
+    imageUrl: "https://www.kindsnacks.com/cdn-cgi/image/width=472,height=472,f=auto,quality=90/sites/g/files/fnmzdf5536/files/migrate-product-files/2bf73c0cc59425a9a80a5ba77c0fe229a6485ccb.png",
     category: "food",
     badge: "Best Clusters Granola",
     name: { en: "KIND Healthy Grains Granola", ja: "KIND ヘルシーグレインズ グラノーラ" },
@@ -19067,6 +19713,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nature-valley-oats-honey-granola",
+    imageUrl: "https://mojo.generalmills.com/api/public/content/R9TYerU3SS6nXqKFWFiUtg_04c57eea-66a2-45cd-a3f2-ecd27146a451_04c57eea-66a2-45cd-a3f2-ecd27146a451.png?v=58e9098c&t=04c57eea66a245cda3f2ecd27146a451",
     category: "food",
     badge: "Best Value Granola",
     name: { en: "Nature Valley Oats & Honey Granola", ja: "Nature Valley オーツ＆ハニーグラノーラ" },
@@ -19078,6 +19725,7 @@ const RAW_CATALOG = [
   },
   {
     id: "purely-elizabeth-ancient-grain-granola",
+    imageUrl: "https://purelyelizabeth.com/cdn/shop/files/OriginalAncientGrain_Hero_864e40ed-1495-401c-bb53-71d82f600b43.webp?v=1757619610&width=800",
     category: "food",
     badge: "Best Premium Granola",
     name: { en: "Purely Elizabeth Ancient Grain Granola", ja: "Purely Elizabeth アンシェントグレイン グラノーラ" },
@@ -19089,6 +19737,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cascadian-farm-organic-oats-honey-granola",
+    imageUrl: "https://mojo.generalmills.com/api/public/content/IPRoNOAORCy5MnH68WLkKQ_04c57eea-66a2-45cd-a3f2-ecd27146a451_04c57eea-66a2-45cd-a3f2-ecd27146a451.png?v=58879385&t=04c57eea66a245cda3f2ecd27146a451",
     category: "food",
     badge: "Best Organic Granola",
     name: { en: "Cascadian Farm Organic Granola", ja: "Cascadian Farm オーガニック グラノーラ" },
@@ -19124,6 +19773,7 @@ const RAW_CATALOG = [
   },
   {
     id: "optimum-nutrition-gold-standard-pre-workout",
+    imageUrl: "https://www.optimumnutrition.com/cdn/shop/files/on-1146471_Image_01.png?v=1755790955&width=2000",
     category: "fitness",
     badge: "Best Mainstream Pre-Workout",
     name: { en: "Optimum Nutrition Gold Standard Pre-Workout", ja: "Optimum Nutrition ゴールドスタンダード プレワークアウト" },
@@ -19135,6 +19785,7 @@ const RAW_CATALOG = [
   },
   {
     id: "c4-original-pre-workout",
+    imageUrl: "https://cellucor.com/cdn/shop/files/C4AN_1002_Brand_C4YellowLabel_Transition_C4Original_CoreFlavors_BasicPDPs-OG-IBR-Hero-Grey.png?v=1773235672",
     category: "fitness",
     badge: "Best Entry-Level Pre-Workout",
     name: { en: "C4 Original Pre-Workout", ja: "C4 オリジナル プレワークアウト" },
@@ -19146,6 +19797,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ghost-legend-pre-workout",
+    imageUrl: "https://www.ghostlifestyle.com/cdn/shop/files/LEGENDSourStrips.webp?v=1777306356&width=800",
     category: "fitness",
     badge: "Best Flavor Pre-Workout",
     name: { en: "Ghost Legend Pre-Workout", ja: "Ghost Legend プレワークアウト" },

@@ -40,16 +40,16 @@ function ogPath(slug: string, locale: string): string | null {
   return null;
 }
 
-/** Returns best available thumbnail: explicit OG → product imageUrl → auto OG */
+/** Returns best available thumbnail: product imageUrl → explicit OG → auto OG */
 function getThumbnail(article: ArticleMeta, locale: string): string | null {
-  if (article.ogImage && article.ogImage !== "auto") {
-    return `${article.ogImage}-${locale}.png`;
-  }
   for (const offerId of article.offerIds) {
     const offer = CATALOG.find((o) => o.id === offerId);
     if (!offer) continue;
     const img = getOfferImageUrl(offer);
     if (img) return img;
+  }
+  if (article.ogImage && article.ogImage !== "auto") {
+    return `${article.ogImage}-${locale}.png`;
   }
   return ogPath(article.slug, locale);
 }
