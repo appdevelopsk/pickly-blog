@@ -1,0 +1,69 @@
+name: Check Image URLs
+
+on:
+  schedule:
+    # 毎日 09:00 JST (00:00 UTC)
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: automation/package-lock.json
+
+      - name: Install deps
+        run: npm ci
+        working-directory: automation
+
+      - name: Check image URLs
+        id: check
+        run: npx tsx check-image-urls.ts 2>&1 | tee /tmp/image-check-report.txt
+        working-directory: automation
+        continue-on-error: true
+
+      - name: Create issue if broken URLs found
+        if: steps.check.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = fs.readFileSync('/tmp/image-check-report.txt', 'utf8');
+            const today = new Date().toISOString().slice(0, 10);
+            const title = `[Image URL] Broken product images detected — ${today}`;
+
+            // Close existing open issues with same title prefix
+            const existing = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'image-url-broken',
+            });
+            for (const issue of existing.data) {
+              if (issue.title.startsWith('[Image URL]')) {
+                await github.rest.issues.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  state: 'closed',
+                });
+              }
+            }
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body: `## Broken product image URLs\n\nDetected by daily check on ${today}.\n\n\`\`\`\n${report}\n\`\`\`\n\nFix: update \`imageUrl\` for affected entries in \`site/src/lib/affiliates/catalog.ts\`, then rebuild and redeploy.`,
+              labels: ['image-url-broken'],
+            });
+
+      - name: Summary
+        if: always()
+        run: cat /tmp/image-check-report.txt || echo "No report generated"

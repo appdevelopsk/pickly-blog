@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
   },
+  verification: {
+    google: "google-site-verification-pending",
+  },
   other: {
     "impact-site-verification": "a2ed06ca-23b5-4d41-ba60-3435a0d22d61",
   },

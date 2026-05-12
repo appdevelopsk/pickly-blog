@@ -23,11 +23,19 @@ interface Props {
 }
 
 function safeRaw(t: Awaited<ReturnType<typeof getTranslations>>, key: string): unknown {
-  try { return t.raw(key); } catch { return undefined; }
+  try {
+    const v = t.raw(key);
+    // next-intl returns the key path itself when missing instead of throwing
+    if (typeof v === "string" && v === key) return undefined;
+    return v;
+  } catch { return undefined; }
 }
 
 function safeT(t: Awaited<ReturnType<typeof getTranslations>>, key: string, fallback = ""): string {
-  try { return t(key); } catch { return fallback; }
+  try {
+    const v = t(key);
+    return v === key ? fallback : v;
+  } catch { return fallback; }
 }
 
 export default async function ArticlePage({ params }: Props) {
@@ -88,9 +96,7 @@ export default async function ArticlePage({ params }: Props) {
     a: (f.a ?? f.answer ?? "") as string,
   }));
 
-  let lede = "";
-  try { lede = t(`articles.${slug}.lede`); } catch { /* missing */ }
-  if (!lede) try { lede = t(`articles.${slug}.intro`); } catch { /* missing */ }
+  const lede = safeT(t, `articles.${slug}.lede`) || safeT(t, `articles.${slug}.intro`);
 
   const conclusion = safeRaw(t, `articles.${slug}.conclusion`) as string | undefined;
   if (conclusion && typeof conclusion === "string") {

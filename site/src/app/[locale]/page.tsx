@@ -2,7 +2,18 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
+import { CATALOG } from "@/lib/affiliates/catalog";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
+import type { ArticleMeta } from "@/lib/articles/types";
+
+function getThumbnail(article: ArticleMeta, locale: string): string | null {
+  if (article.ogImage && article.ogImage !== "auto") return `${article.ogImage}-${locale}.png`;
+  for (const offerId of article.offerIds) {
+    const offer = CATALOG.find((o) => o.id === offerId);
+    if (offer?.imageUrl) return offer.imageUrl;
+  }
+  return null;
+}
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -44,17 +55,15 @@ export default async function HomePage({ params }: Props) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
-      <div className="mx-auto max-w-5xl px-4 py-12">
+      <div className="mx-auto max-w-5xl px-4 py-10">
         {/* Hero */}
-        <div className="mb-12 text-center">
-          <h1 className="mb-4 text-5xl font-bold tracking-tight text-slate-900">{heading}</h1>
-          <p className="mx-auto max-w-xl text-xl text-slate-500">{subheading}</p>
-          <div className="mt-6 flex items-center justify-center gap-3 text-sm text-slate-400">
-            <span className="font-semibold text-slate-700">{articles.length}</span> reviews
+        <div className="mb-10 rounded-2xl bg-gradient-to-br from-brand-50 to-white border border-brand-100 px-6 py-10 text-center">
+          <h1 className="mb-3 text-4xl font-black tracking-tight text-slate-900 md:text-5xl">{heading}</h1>
+          <p className="mx-auto max-w-xl text-lg text-slate-500">{subheading}</p>
+          <div className="mt-5 flex items-center justify-center gap-3 text-sm text-slate-400">
+            <span><span className="font-bold text-slate-700">{articles.length}</span> reviews</span>
             <span>·</span>
-            <span className="font-semibold text-slate-700">17</span> languages
-            <span>·</span>
-            <Link href="/articles" className="font-medium text-brand-600 hover:underline">
+            <Link href="/articles" className="font-semibold text-brand-600 hover:underline">
               {navArticles} →
             </Link>
           </div>
@@ -62,11 +71,11 @@ export default async function HomePage({ params }: Props) {
 
         {/* Recent articles grid */}
         {recent.length === 0 ? (
-          <p className="rounded-md bg-amber-50 p-6 text-amber-800">
+          <p className="rounded-xl bg-amber-50 p-6 text-amber-800">
             {t("home.empty")}
           </p>
         ) : (
-          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {recent.map((a) => {
               let title = a.slug;
               try { title = t(`articles.${a.slug}.title`); } catch { /* missing */ }
@@ -74,38 +83,39 @@ export default async function HomePage({ params }: Props) {
               try { description = t(`articles.${a.slug}.description`); } catch { /* missing */ }
               let catLabel: string = a.category;
               try { catLabel = t(`category.${a.category}`); } catch { /* missing */ }
-              const imgSrc = a.ogImage && a.ogImage !== "auto"
-                ? `${a.ogImage}-${locale}.png`
-                : null;
+              const imgSrc = getThumbnail(a, locale);
+              const isProductImg = imgSrc && !imgSrc.includes("/og/");
 
               return (
                 <li key={a.slug}>
                   <Link
                     href={`/articles/${a.slug}`}
-                    className="group flex flex-col rounded-xl border border-slate-200 overflow-hidden hover:border-brand-500 hover:shadow-md transition-all duration-200"
+                    className="group flex flex-col rounded-xl border border-slate-200 overflow-hidden bg-white hover:border-brand-400 hover:shadow-md transition-all duration-200"
                   >
-                    <div className="relative aspect-[2/3] bg-slate-100 overflow-hidden">
+                    {/* Thumbnail */}
+                    <div className="relative overflow-hidden bg-slate-50" style={{ aspectRatio: isProductImg ? "1/1" : "16/9" }}>
                       {imgSrc ? (
                         // eslint-disable-next-line @next/next/no-img-element
                         <img
                           src={imgSrc}
                           alt={title}
-                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                          className={`w-full h-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-3" : "object-cover"}`}
                           loading="lazy"
                         />
                       ) : (
-                        <CategoryPlaceholder category={a.category} />
+                        <CategoryPlaceholder category={a.category} title={title} />
                       )}
-                    </div>
-                    <div className="p-4">
-                      <span className="text-xs font-medium uppercase tracking-wide text-brand-600">
+                      <span className="absolute left-2 top-2 rounded-full bg-white/95 border border-slate-200 px-2 py-0.5 text-[11px] font-semibold text-slate-700 shadow-sm">
                         {catLabel}
                       </span>
-                      <h2 className="mt-1 font-semibold leading-snug text-slate-900 group-hover:text-brand-600 transition-colors line-clamp-2">
+                    </div>
+                    {/* Text */}
+                    <div className="flex flex-col flex-1 p-3">
+                      <h2 className="text-[13px] font-bold leading-snug text-slate-900 group-hover:text-brand-600 transition-colors line-clamp-3">
                         {title}
                       </h2>
                       {description && (
-                        <p className="mt-1 text-sm text-slate-500 line-clamp-2">{description}</p>
+                        <p className="mt-1.5 text-[11px] text-slate-500 line-clamp-2 flex-1">{description}</p>
                       )}
                     </div>
                   </Link>
@@ -119,9 +129,9 @@ export default async function HomePage({ params }: Props) {
           <div className="mt-10 text-center">
             <Link
               href="/articles"
-              className="inline-flex items-center gap-2 rounded-lg border border-slate-300 px-6 py-3 text-sm font-medium hover:border-brand-500 hover:text-brand-600 transition-colors"
+              className="inline-flex items-center gap-2 rounded-full bg-brand-600 px-8 py-3 text-sm font-bold text-white hover:bg-brand-700 transition-colors shadow-sm"
             >
-              {navArticles} ({articles.length} total) →
+              {navArticles}をすべて見る ({articles.length}件) →
             </Link>
           </div>
         )}

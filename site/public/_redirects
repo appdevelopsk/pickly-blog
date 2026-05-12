@@ -3,5 +3,10 @@
 # Status 302 (temporary) so we can adopt locale auto-detection later.
 / /en/ 302
 
+# Exclude static files from locale redirect (must come before /:locale rule)
+/sitemap.xml /sitemap.xml 200
+/robots.txt /robots.txt 200
+/og/* /og/:splat 200
+
 # Strip trailing-slash duplicates handled by Next config; this catches edges.
 /:locale /:locale/ 301

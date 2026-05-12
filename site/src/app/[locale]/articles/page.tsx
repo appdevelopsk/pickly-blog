@@ -2,6 +2,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
+import { CATALOG } from "@/lib/affiliates/catalog";
 import type { ArticleMeta } from "@/lib/articles/types";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 
@@ -13,19 +14,30 @@ interface Props {
   params: Promise<{ locale: string }>;
 }
 
-// Category display order and emoji
-const CATEGORY_META: Record<string, { emoji: string; color: string }> = {
-  fitness: { emoji: "💪", color: "bg-orange-50 text-orange-700 border-orange-200" },
-  food:    { emoji: "🍽️", color: "bg-green-50 text-green-700 border-green-200" },
-  tech:    { emoji: "💻", color: "bg-blue-50 text-blue-700 border-blue-200" },
-  beauty:  { emoji: "✨", color: "bg-pink-50 text-pink-700 border-pink-200" },
-  home:    { emoji: "🏠", color: "bg-amber-50 text-amber-700 border-amber-200" },
+const CATEGORY_COLORS: Record<string, string> = {
+  fitness: "bg-red-50 text-red-700 border-red-200",
+  food:    "bg-green-50 text-green-700 border-green-200",
+  tech:    "bg-blue-50 text-blue-700 border-blue-200",
+  beauty:  "bg-pink-50 text-pink-700 border-pink-200",
+  home:    "bg-amber-50 text-amber-700 border-amber-200",
 };
 
 const CATEGORY_ORDER = ["fitness", "food", "tech", "beauty", "home"];
 
-function getCategoryMeta(cat: string) {
-  return CATEGORY_META[cat] ?? { emoji: "📋", color: "bg-slate-50 text-slate-700 border-slate-200" };
+function getCategoryColor(cat: string) {
+  return CATEGORY_COLORS[cat] ?? "bg-slate-50 text-slate-700 border-slate-200";
+}
+
+/** Returns best available thumbnail: OG image → first product image → null */
+function getThumbnail(article: ArticleMeta, locale: string): string | null {
+  if (article.ogImage && article.ogImage !== "auto") {
+    return `${article.ogImage}-${locale}.png`;
+  }
+  for (const offerId of article.offerIds) {
+    const offer = CATALOG.find((o) => o.id === offerId);
+    if (offer?.imageUrl) return offer.imageUrl;
+  }
+  return null;
 }
 
 function ArticleCard({
@@ -41,38 +53,39 @@ function ArticleCard({
   description: string;
   catLabel: string;
 }) {
-  const cm = getCategoryMeta(article.category);
-  const imgSrc = article.ogImage ? `${article.ogImage}-${locale}.png` : null;
+  const color = getCategoryColor(article.category);
+  const imgSrc = getThumbnail(article, locale);
+  const isProductImg = imgSrc && !imgSrc.includes("/og/");
 
   return (
     <Link
       href={`/articles/${article.slug}`}
-      className="group flex flex-col rounded-xl border border-slate-200 overflow-hidden hover:border-brand-500 hover:shadow-md transition-all duration-200"
+      className="group flex flex-col rounded-xl border border-slate-200 overflow-hidden bg-white hover:border-brand-400 hover:shadow-md transition-all duration-200"
     >
       {/* Thumbnail */}
-      <div className="relative aspect-[2/3] bg-slate-100 overflow-hidden">
+      <div className="relative overflow-hidden bg-slate-50" style={{ aspectRatio: isProductImg ? "1/1" : "16/9" }}>
         {imgSrc ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
             src={imgSrc}
             alt={title}
-            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+            className={`w-full h-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-3" : "object-cover"}`}
             loading="lazy"
           />
         ) : (
-          <CategoryPlaceholder category={article.category} />
+          <CategoryPlaceholder category={article.category} title={title} />
         )}
-        <span className={`absolute top-2 left-2 rounded-full border px-2 py-0.5 text-xs font-semibold ${cm.color}`}>
+        <span className={`absolute left-2 top-2 rounded-full border px-2 py-0.5 text-[11px] font-semibold bg-white/95 shadow-sm ${color}`}>
           {catLabel}
         </span>
       </div>
       {/* Text */}
-      <div className="flex flex-col flex-1 p-4">
-        <h3 className="font-semibold leading-snug text-slate-900 group-hover:text-brand-600 transition-colors line-clamp-3">
+      <div className="flex flex-col flex-1 p-3">
+        <h3 className="text-[13px] font-bold leading-snug text-slate-900 group-hover:text-brand-600 transition-colors line-clamp-3">
           {title}
         </h3>
         {description && (
-          <p className="mt-2 text-sm text-slate-500 line-clamp-2 flex-1">{description}</p>
+          <p className="mt-1.5 text-[11px] text-slate-500 line-clamp-2 flex-1">{description}</p>
         )}
       </div>
     </Link>
@@ -85,13 +98,11 @@ export default async function ArticlesPage({ params }: Props) {
   const t = await getTranslations();
   const articles = listArticlesForLocale(locale);
 
-  // Group by category
   const byCategory = articles.reduce<Record<string, typeof articles>>(
     (acc, a) => { (acc[a.category] ??= []).push(a); return acc; },
     {},
   );
 
-  // Sort categories by preferred order, then alphabetically for unknowns
   const sortedCategories = [
     ...CATEGORY_ORDER.filter((c) => byCategory[c]),
     ...Object.keys(byCategory).filter((c) => !CATEGORY_ORDER.includes(c)).sort(),
@@ -99,38 +110,31 @@ export default async function ArticlesPage({ params }: Props) {
 
   let pageTitle = "Articles";
   try { pageTitle = t("nav.articles"); } catch { /* missing */ }
-  let siteName = "Pickly";
-  try { siteName = t("site.name"); } catch { /* missing */ }
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-10">
       {/* Hero */}
-      <div className="mb-10">
-        <h1 className="text-4xl font-bold text-slate-900 mb-3">{pageTitle}</h1>
-        <p className="text-slate-500 text-lg">
-          {articles.length} reviews &amp; comparisons
-          {" · "}
-          {sortedCategories.length} categories
-          {" · "}
-          {siteName}
+      <div className="mb-8">
+        <h1 className="text-3xl font-black text-slate-900 mb-2">{pageTitle}</h1>
+        <p className="text-slate-500">
+          {articles.length} reviews &amp; comparisons · {sortedCategories.length} categories
         </p>
       </div>
 
-      {/* Category jump links */}
+      {/* Category jump links — text only, no emoji */}
       <div className="flex flex-wrap gap-2 mb-10">
         {sortedCategories.map((cat) => {
           let label = cat;
           try { label = t(`category.${cat}`); } catch { /* missing */ }
-          const cm = getCategoryMeta(cat);
+          const color = getCategoryColor(cat);
           return (
             <a
               key={cat}
               href={`#${cat}`}
-              className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1 text-sm font-medium transition-colors hover:opacity-80 ${cm.color}`}
+              className={`inline-flex items-center rounded-full border px-3 py-1 text-sm font-medium transition-opacity hover:opacity-70 ${color}`}
             >
-              <span>{cm.emoji}</span>
-              <span>{label}</span>
-              <span className="ml-0.5 opacity-60">({byCategory[cat]?.length ?? 0})</span>
+              {label}
+              <span className="ml-1.5 opacity-60 text-xs">({byCategory[cat]?.length ?? 0})</span>
             </a>
           );
         })}
@@ -141,16 +145,14 @@ export default async function ArticlesPage({ params }: Props) {
         const items = byCategory[category] ?? [];
         let catLabel = category;
         try { catLabel = t(`category.${category}`); } catch { /* missing */ }
-        const cm = getCategoryMeta(category);
 
         return (
-          <section key={category} id={category} className="mb-16 scroll-mt-6">
-            <div className="flex items-center gap-3 mb-6">
-              <span className="text-2xl">{cm.emoji}</span>
-              <h2 className="text-2xl font-bold text-slate-900">{catLabel}</h2>
-              <span className="ml-auto text-sm text-slate-400">{items.length} articles</span>
+          <section key={category} id={category} className="mb-14 scroll-mt-6">
+            <div className="flex items-baseline gap-3 mb-5 border-b border-slate-200 pb-3">
+              <h2 className="text-xl font-black text-slate-900">{catLabel}</h2>
+              <span className="text-sm text-slate-400">{items.length}件</span>
             </div>
-            <ul className="grid gap-5 grid-cols-2 sm:grid-cols-3 lg:grid-cols-4">
+            <ul className="grid gap-4 grid-cols-2 sm:grid-cols-3 lg:grid-cols-4">
               {items.map((a) => {
                 let title = a.slug;
                 try { title = t(`articles.${a.slug}.title`); } catch { /* missing */ }

@@ -14,16 +14,30 @@ async function loadCommon(locale: string): Promise<Messages> {
 
 /**
  * Normalize article messages to always expose top-level `title` and `description`.
- * Supports both the legacy flat structure ({ title, description, ... })
- * and the newer nested structure ({ meta: { title, description }, ... }).
+ * Handles three formats:
+ *   1. Flat:   { title, description, ... }
+ *   2. Meta:   { meta: { title, description }, ... }
+ *   3. Nested: { articles: { "slug": { title, description, ... } } }
  */
-function normalizeArticleMessages(raw: Messages): Messages {
+function normalizeArticleMessages(raw: Messages, slug?: string): Messages {
+  // Format 3: { articles: { slug: { ... } } } — unwrap one level
+  if (
+    slug &&
+    Object.keys(raw).length === 1 &&
+    raw.articles !== undefined &&
+    typeof raw.articles === "object" &&
+    raw.articles !== null &&
+    slug in (raw.articles as Messages)
+  ) {
+    return (raw.articles as Messages)[slug] as Messages;
+  }
+
+  // Format 2: { meta: { title, description }, ... }
   const { meta, ...rest } = raw as { meta?: { title?: string; description?: string } } & Messages;
   if (!meta) return raw;
   return {
     ...rest,
     meta,
-    // Promote meta.title / meta.description to top level so existing t() calls work.
     ...(meta.title !== undefined && !rest.title ? { title: meta.title } : {}),
     ...(meta.description !== undefined && !rest.description ? { description: meta.description } : {}),
   };
@@ -35,11 +49,11 @@ async function loadArticleMessages(locale: string): Promise<Messages> {
   for (const a of articles) {
     try {
       const mod = await import(`@/articles/${a.slug}/messages/${locale}.json`);
-      out[a.slug] = normalizeArticleMessages(mod.default as Messages);
+      out[a.slug] = normalizeArticleMessages(mod.default as Messages, a.slug);
     } catch {
       try {
         const fallback = await import(`@/articles/${a.slug}/messages/${DEFAULT_LOCALE}.json`);
-        out[a.slug] = normalizeArticleMessages(fallback.default as Messages);
+        out[a.slug] = normalizeArticleMessages(fallback.default as Messages, a.slug);
       } catch {
         out[a.slug] = {};
       }
