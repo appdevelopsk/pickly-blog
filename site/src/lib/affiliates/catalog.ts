@@ -53,7 +53,7 @@ const RAW_CATALOG = [
     links: [
       { network: "direct", productId: "https://nordvpn.com/", markets: ["US", "EU", "UK", "global", "JP"], approved: true },
       { network: "impact", productId: "nordvpn-2026", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "a8", productId: "nordvpn-jp-2026", markets: ["JP"], approved: false },
+      { network: "a8", productId: "nordvpn-jp-2026", rawUrl: "https://px.a8.net/svt/ejp?a8mat=4B3OQX+CY6FG2+3YFI+61Z81", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -85,7 +85,7 @@ const RAW_CATALOG = [
     links: [
       { network: "direct", productId: "https://surfshark.com/", markets: ["US", "EU", "UK", "global", "JP"], approved: true },
       { network: "cj", productId: "surfshark-2026", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "a8", productId: "surfshark-jp", markets: ["JP"], approved: false },
+      { network: "a8", productId: "surfshark-jp", rawUrl: "https://px.a8.net/svt/ejp?a8mat=4B3OQX+C210S2+4LSW+BYLJL", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -830,7 +830,7 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "direct", productId: "https://www.xserver.ne.jp/", markets: ["JP"], approved: true },
-      { network: "a8", productId: "xserver-jp", markets: ["JP"], approved: false },
+      { network: "a8", productId: "xserver-jp", rawUrl: "https://px.a8.net/svt/ejp?a8mat=4B3OQX+CWZK8I+CO4+6HES1", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -872,7 +872,7 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "direct", productId: "https://mixhost.jp/", markets: ["JP"], approved: true },
-      { network: "a8", productId: "mixhost-jp", markets: ["JP"], approved: false },
+      { network: "a8", productId: "mixhost-jp", rawUrl: "https://px.a8.net/svt/ejp?a8mat=4B3OQX+CXKZUA+3JTE+5YRHE", markets: ["JP"], approved: true },
     ],
   },
   {
