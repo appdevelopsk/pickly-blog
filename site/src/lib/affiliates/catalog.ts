@@ -51,6 +51,7 @@ const RAW_CATALOG = [
       ja: "111カ国に6,400台以上のサーバー。Threat Protectionで広告とトラッカーをブロック。Meshnetは無料開放。",
     },
     links: [
+      { network: "direct", productId: "https://nordvpn.com/", markets: ["US", "EU", "UK", "global", "JP"], approved: true },
       { network: "impact", productId: "nordvpn-2026", markets: ["US", "EU", "UK", "global"], approved: false },
       { network: "a8", productId: "nordvpn-jp-2026", markets: ["JP"], approved: false },
     ],
@@ -66,6 +67,7 @@ const RAW_CATALOG = [
       ja: "Lightwayプロトコルで安定400Mbps超。105カ国対応。30日のテストで最速。",
     },
     links: [
+      { network: "direct", productId: "https://www.expressvpn.com/", markets: ["US", "EU", "UK", "global", "JP"], approved: true },
       { network: "impact", productId: "expressvpn-2026", markets: ["US", "EU", "UK", "global"], approved: false },
       { network: "moshimo", productId: "expressvpn-jp", markets: ["JP"], approved: false },
     ],
@@ -81,6 +83,7 @@ const RAW_CATALOG = [
       ja: "1アカウントで端末数無制限。CleanWebでマルウェア対策。月$3.99の高コスパ。",
     },
     links: [
+      { network: "direct", productId: "https://surfshark.com/", markets: ["US", "EU", "UK", "global", "JP"], approved: true },
       { network: "cj", productId: "surfshark-2026", markets: ["US", "EU", "UK", "global"], approved: false },
       { network: "a8", productId: "surfshark-jp", markets: ["JP"], approved: false },
     ],
@@ -96,8 +99,9 @@ const RAW_CATALOG = [
       ja: "スイス拠点・監査済みノーログ。Stealthプロトコルで検閲突破。無料プランあり。",
     },
     links: [
+      { network: "direct", productId: "https://protonvpn.com/", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "direct", productId: "https://protonvpn.com/?ref=affiliatefactory", markets: ["JP"], approved: true },
       { network: "impact", productId: "protonvpn-2026", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "direct", productId: "https://protonvpn.com/?ref=affiliatefactory", markets: ["JP"], approved: false },
     ],
   },
   {
@@ -111,7 +115,7 @@ const RAW_CATALOG = [
       ja: "月€5固定、プロモーション一切なし。現金・Monero対応。プライバシー最重視。",
     },
     links: [
-      { network: "direct", productId: "https://mullvad.net/en/account/create?ref=affiliatefactory", markets: ["US", "EU", "UK", "global", "JP"], approved: false },
+      { network: "direct", productId: "https://mullvad.net/en/account/create?ref=affiliatefactory", markets: ["US", "EU", "UK", "global", "JP"], approved: true },
     ],
   },
   // ───────── Home / Coffee Grinders (best-coffee-grinder-2026) ─────────
@@ -811,6 +815,7 @@ const RAW_CATALOG = [
       ja: "GMOの高速レンタルサーバー。WordPressかんたんセットアップ10分、初期費用無料、国内DC。管理画面が初心者向け。",
     },
     links: [
+      { network: "direct", productId: "https://www.conoha.jp/wing/", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "conoha-wing-jp", markets: ["JP"], approved: false },
     ],
   },
@@ -824,6 +829,7 @@ const RAW_CATALOG = [
       ja: "国内シェアードホスティングの老舗。稼働実績・24時間電話サポート、KUSANAGI最適化WordPress。",
     },
     links: [
+      { network: "direct", productId: "https://www.xserver.ne.jp/", markets: ["JP"], approved: true },
       { network: "a8", productId: "xserver-jp", markets: ["JP"], approved: false },
     ],
   },
@@ -837,6 +843,7 @@ const RAW_CATALOG = [
       ja: "GMOの低価格プラン。月220円から、ハイスピードプランで月550円。趣味ブログ・低予算向けの定番。",
     },
     links: [
+      { network: "direct", productId: "https://lolipop.jp/", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "lolipop-jp", markets: ["JP"], approved: false },
     ],
   },
@@ -850,6 +857,7 @@ const RAW_CATALOG = [
       ja: "1996年創業の国内老舗。スタンダードで月425円から。日本で最も歴史のある共有ホスティング。",
     },
     links: [
+      { network: "direct", productId: "https://www.sakura.ne.jp/", markets: ["JP"], approved: true },
       { network: "a8", productId: "sakura-rentalserver-jp", markets: ["JP"], approved: false },
     ],
   },
@@ -863,7 +871,27 @@ const RAW_CATALOG = [
       ja: "LiteSpeed採用の国内ホスト。スタンダードで月968円。HTTP/3の生スループットと一括バンドルが強み。",
     },
     links: [
+      { network: "direct", productId: "https://mixhost.jp/", markets: ["JP"], approved: true },
       { network: "a8", productId: "mixhost-jp", markets: ["JP"], approved: false },
+    ],
+  },
+  {
+    id: "onamae-com",
+    category: "tech",
+    badge: "🌐",
+    name: { en: "お名前.com", ja: "お名前.com" },
+    description: {
+      en: "Japan's #1 domain registrar by market share. .com/.net from ¥0/first year, broad TLD lineup, free WHOIS privacy, bundled DNS management. GMO Internet Group service.",
+      ja: "国内シェアNo.1のドメイン登録サービス。.com/.net初年度0円〜、豊富なTLD、Whois情報保護無料、DNS管理付属。GMOインターネット運営。",
+    },
+    links: [
+      {
+        network: "a8",
+        productId: "onamae-com-jp",
+        rawUrl: "https://px.a8.net/svt/ejp?a8mat=4B3LMO+7QMVW2+50+2HU3GX",
+        markets: ["JP"],
+        approved: true,
+      },
     ],
   },
   {
@@ -10188,7 +10216,7 @@ const RAW_CATALOG = [
     links: [
       { network: "amazon-us", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.com/dp/B01LXUV2IW", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B01LXUV2IW", rawUrl: "https://www.amazon.de/dp/B01LXUV2IW", markets: ["EU"], approved: true },
-      { network: "moshimo", productId: "rakuten-breville-precision-brewer-bdc450", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BPrecision%2BBrewer%2BBDC450%2F", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-breville-precision-brewer-bdc450", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BPrecision%2BBrewer%2BBDC450%2F", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -10202,7 +10230,7 @@ const RAW_CATALOG = [
     links: [
       { network: "amazon-us", productId: "B000BYMBLC", rawUrl: "https://www.amazon.com/dp/B000BYMBLC", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B000BYMBLC", rawUrl: "https://www.amazon.de/dp/B000BYMBLC", markets: ["EU"], approved: true },
-      { network: "moshimo", productId: "rakuten-technivorm-moccamaster-kbt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMoccamaster%2BKBT%2F", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-technivorm-moccamaster-kbt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMoccamaster%2BKBT%2F", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -10216,7 +10244,7 @@ const RAW_CATALOG = [
     links: [
       { network: "amazon-us", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.com/dp/B074Z2YMXB", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B074Z2YMXB", rawUrl: "https://www.amazon.de/dp/B074Z2YMXB", markets: ["EU"], approved: true },
-      { network: "moshimo", productId: "rakuten-oxo-brew-9-cup-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%2BBrew%2B9%2BCup%2FCoffee%2BMaker%2F", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-oxo-brew-9-cup-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOXO%2BBrew%2B9%2BCup%2FCoffee%2BMaker%2F", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -10230,7 +10258,7 @@ const RAW_CATALOG = [
     links: [
       { network: "amazon-us", productId: "B01N5JS67B", rawUrl: "https://www.amazon.com/dp/B01N5JS67B", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B01N5JS67B", rawUrl: "https://www.amazon.de/dp/B01N5JS67B", markets: ["EU"], approved: true },
-      { network: "moshimo", productId: "rakuten-cuisinart-dcc-3200p1-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BDCC-3200P1%2F", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-cuisinart-dcc-3200p1-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BDCC-3200P1%2F", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -10244,7 +10272,7 @@ const RAW_CATALOG = [
     links: [
       { network: "amazon-us", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.com/dp/B07GV2S1GS", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B07GV2S1GS", rawUrl: "https://www.amazon.de/dp/B07GV2S1GS", markets: ["EU"], approved: true },
-      { network: "moshimo", productId: "rakuten-hamilton-beach-49350-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2B49350%2F", markets: ["JP"], approved: false },
+      { network: "moshimo", productId: "rakuten-hamilton-beach-49350-coffee-maker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton%2BBeach%2B49350%2F", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Fitness / Barbells (best-barbell-2026) ─────────
