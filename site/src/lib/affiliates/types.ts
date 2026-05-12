@@ -9,6 +9,10 @@ export type AspNetwork =
   | "amazon-us"
   | "amazon-uk"
   | "amazon-de"
+  | "amazon-fr"
+  | "amazon-es"
+  | "amazon-it"
+  | "amazon-ca"
   | "a8"
   | "moshimo"
   | "valuecommerce"
@@ -19,7 +23,7 @@ export type AspNetwork =
   | "awin"
   | "direct";   // Direct partnership / company affiliate program
 
-export type Market = "global" | "JP" | "US" | "EU" | "UK" | "CN";
+export type Market = "global" | "JP" | "US" | "EU" | "UK" | "CN" | "FR" | "ES" | "IT" | "CA";
 
 /**
  * 1つの ASP との提携 = 1 link binding。
@@ -53,6 +57,10 @@ export interface AffiliateOffer {
   links: AspLink[];
   /** Product image URL (Amazon CDN or brand site). Optional — shows category placeholder when absent. */
   imageUrl?: string;
+  /** Editor rating out of 5 (e.g. 4.5) */
+  rating?: number;
+  /** Approximate price string (e.g. "¥3,980", "$29.99") */
+  price?: string;
 }
 
 export interface AffiliatePolicy {

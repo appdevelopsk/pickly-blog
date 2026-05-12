@@ -46,10 +46,13 @@ export const PINTEREST_PRIORITY_LOCALES: Locale[] = ["en", "ja", "es", "pt-BR", 
 /**
  * ロケールから推定される購買力市場（アフィリリンク振り分け用）。
  */
-export function inferMarketFromLocale(locale: string): "JP" | "US" | "EU" | "CN" | "global" {
+export function inferMarketFromLocale(locale: string): "JP" | "US" | "EU" | "FR" | "ES" | "IT" | "CN" | "global" {
   if (locale === "ja") return "JP";
   if (locale === "zh-CN" || locale === "zh-TW") return "CN";
-  if (["en"].includes(locale)) return "US";
-  if (["de", "fr", "it", "es", "pt-BR"].includes(locale)) return "EU";
+  if (locale === "en") return "US";
+  if (locale === "fr") return "FR";
+  if (locale === "es") return "ES";
+  if (locale === "it") return "IT";
+  if (locale === "de" || locale === "pt-BR") return "EU";
   return "global";
 }

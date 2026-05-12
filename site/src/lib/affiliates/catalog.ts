@@ -17930,8 +17930,11 @@ export function pickLink(
 ) {
   const approved = opts.onlyApproved ?? true;
   const candidates = offer.links.filter((l) => (approved ? l.approved : true));
+  // FR/ES/IT は EU フォールバック（amazon-de が amazon-fr/es/it にリマップされる）
+  const euFallback = (["FR", "ES", "IT"] as Market[]).includes(market) ? "EU" : null;
   return (
     candidates.find((l) => l.markets.includes(market)) ??
+    (euFallback ? candidates.find((l) => l.markets.includes(euFallback)) : null) ??
     candidates.find((l) => l.markets.includes("global")) ??
     null
   );

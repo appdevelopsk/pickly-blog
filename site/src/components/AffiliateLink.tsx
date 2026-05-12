@@ -69,7 +69,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
 
   const ctaLabel = offer.cta?.[locale as keyof typeof offer.cta] ?? offer.cta?.en ?? t("offer.defaultCta");
   const isApproved = link.approved;
-  const href = isApproved ? buildAffiliateUrl({ link, productName: offer.name.en ?? name }) : "#";
+  const href = isApproved ? buildAffiliateUrl({ link, productName: offer.name.en ?? name, market }) : "#";
 
   if (variant === "button") {
     return isApproved ? (
@@ -147,6 +147,10 @@ function amazonHostForMarket(market: string): string {
     case "US": return "https://www.amazon.com";
     case "UK": return "https://www.amazon.co.uk";
     case "EU": return "https://www.amazon.de";
+    case "FR": return "https://www.amazon.fr";
+    case "ES": return "https://www.amazon.es";
+    case "IT": return "https://www.amazon.it";
+    case "CA": return "https://www.amazon.ca";
     case "CN": return "https://www.amazon.cn";
     default:   return "https://www.amazon.com";
   }
