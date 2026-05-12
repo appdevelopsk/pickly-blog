@@ -8,6 +8,7 @@ const checks = [
   { name: "typecheck", cmd: "npm", args: ["run", "typecheck"] },
   { name: "audit:i18n", cmd: "npm", args: ["run", "audit:i18n"] },
   { name: "audit:affiliate", cmd: "npm", args: ["run", "audit:affiliate"] },
+  { name: "audit:content", cmd: "npm", args: ["run", "audit:content"] },
 ];
 
 let failed = 0;

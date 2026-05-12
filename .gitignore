@@ -41,3 +41,7 @@ yarn-error.log*
 public/og/*.png
 public/sitemap.xml
 public/robots.txt
+
+# Build artifacts / temp
+site/tmp/
+site/out/

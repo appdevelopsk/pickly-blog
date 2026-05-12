@@ -11,6 +11,7 @@
     "validate": "tsx scripts/validate.ts",
     "audit:i18n": "tsx scripts/audit-i18n.ts",
     "audit:affiliate": "tsx scripts/audit-affiliate.ts",
+    "audit:content": "tsx scripts/audit-content.ts",
     "sitemap": "tsx scripts/generate-sitemap.ts",
     "og:generate": "tsx scripts/generate-og.ts",
     "moshimo:link": "tsx scripts/moshimo-link.ts",
