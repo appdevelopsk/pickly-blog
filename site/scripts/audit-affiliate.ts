@@ -10,7 +10,8 @@ import { listArticles } from "../src/lib/articles/registry";
 import type { AspNetwork } from "../src/lib/affiliates/types";
 
 const KNOWN_NETWORKS: AspNetwork[] = [
-  "amazon-jp", "amazon-us", "amazon-uk", "amazon-de",
+  "amazon-jp", "amazon-us", "amazon-uk", "amazon-de", "amazon-ca",
+  "amazon-fr", "amazon-es", "amazon-it", "amazon-au", "amazon-in",
   "a8", "moshimo", "valuecommerce", "rakuten-affiliate",
   "shareasale", "cj", "impact", "awin", "direct",
 ];

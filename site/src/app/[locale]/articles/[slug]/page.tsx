@@ -3,6 +3,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { listArticles, getArticle } from "@/lib/articles/registry";
 import { CATALOG } from "@/lib/affiliates/catalog";
+import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { ArticleBody } from "@/components/articles/ArticleBody";
 import type { ArticleContent } from "@/lib/articles/types";
 
@@ -12,7 +13,9 @@ export function generateStaticParams() {
   const params: { locale: string; slug: string }[] = [];
   for (const locale of LOCALES) {
     for (const a of listArticles()) {
-      if (a.locales.includes(locale)) params.push({ locale, slug: a.slug });
+      if (!a.locales.includes(locale)) continue;
+      if (!hasApprovedAds(a, locale)) continue;
+      params.push({ locale, slug: a.slug });
     }
   }
   return params;

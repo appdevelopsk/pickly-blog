@@ -815,7 +815,6 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "direct", productId: "https://www.conoha.jp/wing/", markets: ["JP"], approved: true },
-      { network: "moshimo", productId: "conoha-wing-jp", markets: ["JP"], approved: false },
     ],
   },
   {
@@ -842,7 +841,6 @@ const RAW_CATALOG = [
     },
     links: [
       { network: "direct", productId: "https://lolipop.jp/", markets: ["JP"], approved: true },
-      { network: "moshimo", productId: "lolipop-jp", markets: ["JP"], approved: false },
     ],
   },
   {
@@ -10399,6 +10397,7 @@ const RAW_CATALOG = [
   {
     id: "breville-precision-brewer-bdc450",
     category: "food",
+    imageUrl: "https://assets.breville.com/cdn-cgi/image/width=800,format=auto/BDC450/BDC450BSS1BUS1.jpg",
     name: { en: "Breville Precision Brewer Thermal BDC450", ja: "ブレビル プレシジョン ブリュワー サーマル BDC450" },
     description: {
       en: "~$280 USD. SCAA-certified drip brewer with precise water temperature control, bloom pre-infusion, and a vacuum-sealed thermal carafe. The gold standard for home drip coffee in North America, producing specialty-grade extraction that rivals pour-over results.",
@@ -10415,6 +10414,7 @@ const RAW_CATALOG = [
   {
     id: "technivorm-moccamaster-kbt",
     category: "food",
+    imageUrl: "https://us.moccamaster.com/cdn/shop/files/MoccaMaster_Set_79112_KBT_PolishedSilver_1200x.png?v=1773954144",
     name: { en: "Technivorm Moccamaster KBT Coffee Maker", ja: "テクニフォーム モカマスター KBT" },
     description: {
       en: "~$350 USD. Dutch-made SCAA-certified drip brewer with a copper boiling element that reaches SCAA-specified 92–96°C brew temperature in 6 minutes. Handmade in the Netherlands with a 5-year warranty — the benchmark for consistent, specialty-grade drip coffee.",
@@ -10431,6 +10431,7 @@ const RAW_CATALOG = [
   {
     id: "oxo-brew-9-cup-coffee-maker",
     category: "food",
+    imageUrl: "https://www.buddybrew.com/cdn/shop/files/OXO_brewer_1024x1024.png?v=1732652549",
     name: { en: "OXO Brew 9-Cup Coffee Maker", ja: "OXO ブリュー 9カップ コーヒーメーカー" },
     description: {
       en: "~$200 USD. SCAA-certified 9-cup drip brewer with a rainmaker showerhead for even saturation, programmable pre-infusion bloom, and an insulated carafe. Positioned as the approachable SCAA pick — strong performance at a lower entry point than Moccamaster.",
@@ -10447,6 +10448,7 @@ const RAW_CATALOG = [
   {
     id: "cuisinart-dcc-3200p1-coffee-maker",
     category: "food",
+    imageUrl: "https://c1.neweggimages.com/productimage/nb640/B7VES2207190ZKBNY0A.jpg",
     name: { en: "Cuisinart PerfecTemp 14-Cup Programmable Coffeemaker DCC-3200P1", ja: "クイジナート パーフェクテンプ 14カップ プログラマブルコーヒーメーカー DCC-3200P1" },
     description: {
       en: "~$80 USD. 14-cup programmable drip brewer with 24-hour advance brewing, 1–4 cup brew strength adjustment, and a keep-warm plate. The widest-selling programmable coffee maker in North America — sensible if you brew large batches and want simple automation.",
@@ -10463,6 +10465,7 @@ const RAW_CATALOG = [
   {
     id: "hamilton-beach-49350-coffee-maker",
     category: "food",
+    imageUrl: "https://hgnjshoppingmall.com/wp-content/uploads/2023/12/49350.jpg",
     name: { en: "Hamilton Beach 12-Cup Coffee Maker 49350", ja: "ハミルトンビーチ 12カップ コーヒーメーカー 49350" },
     description: {
       en: "~$30 USD. 12-cup programmable drip brewer with a 2-hour keep-warm auto shutoff and a pause-and-pour feature. The honest budget pick for households who want a morning pot of coffee without spending more than a bag of beans on the machine itself.",

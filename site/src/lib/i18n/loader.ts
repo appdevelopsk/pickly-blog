@@ -47,15 +47,23 @@ async function loadArticleMessages(locale: string): Promise<Messages> {
   const articles = listArticles();
   const out: Messages = {};
   for (const a of articles) {
+    // Always load English as base so no key is ever missing
+    let base: Messages = {};
     try {
-      const mod = await import(`@/articles/${a.slug}/messages/${locale}.json`);
-      out[a.slug] = normalizeArticleMessages(mod.default as Messages, a.slug);
-    } catch {
+      const enMod = await import(`@/articles/${a.slug}/messages/${DEFAULT_LOCALE}.json`);
+      base = normalizeArticleMessages(enMod.default as Messages, a.slug);
+    } catch { /* no en.json, skip */ }
+
+    if (locale === DEFAULT_LOCALE) {
+      out[a.slug] = base;
+    } else {
       try {
-        const fallback = await import(`@/articles/${a.slug}/messages/${DEFAULT_LOCALE}.json`);
-        out[a.slug] = normalizeArticleMessages(fallback.default as Messages, a.slug);
+        const mod = await import(`@/articles/${a.slug}/messages/${locale}.json`);
+        const localized = normalizeArticleMessages(mod.default as Messages, a.slug);
+        // Locale keys override English base; missing keys fall back to English
+        out[a.slug] = { ...base, ...localized };
       } catch {
-        out[a.slug] = {};
+        out[a.slug] = base;
       }
     }
   }

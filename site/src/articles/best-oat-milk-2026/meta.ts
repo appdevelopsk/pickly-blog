@@ -1,4 +1,5 @@
 import type { ArticleMeta } from "@/lib/articles/types";
+import { ALL_LOCALES } from "@/lib/i18n/locales";
 
 export const meta: ArticleMeta = {
   slug: "best-oat-milk-2026",
@@ -7,7 +8,7 @@ export const meta: ArticleMeta = {
   publishedAt: "2026-05-11",
   updatedAt: "2026-05-11",
   ogImage: "/og/best-oat-milk-2026",
-  locales: ["en", "ja"],
+  locales: [...ALL_LOCALES],
   offerIds: [
     "oatly-oat-milk-original",
     "oatly-oat-milk-barista",

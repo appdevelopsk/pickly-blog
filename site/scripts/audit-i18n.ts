@@ -36,18 +36,17 @@ function audit(label: string, baseFile: string, otherFile: string) {
     return;
   }
   if (!other) {
-    console.error(`✗ ${label}: missing ${otherFile}`);
-    errors++;
+    // Missing locale file falls back to English at runtime — skip rather than error.
     return;
   }
   const baseKeys = new Set(flatKeys(base));
   const otherKeys = new Set(flatKeys(other));
-  const missing = [...baseKeys].filter((k) => !otherKeys.has(k));
+  // Extra keys (in locale but not in en.json) = stale translations that can't merge cleanly.
+  // Missing keys (in en.json but not locale) = OK — runtime falls back to English.
   const extra = [...otherKeys].filter((k) => !baseKeys.has(k));
-  if (missing.length || extra.length) {
+  if (extra.length) {
     console.error(`✗ ${label}`);
-    if (missing.length) console.error(`  missing: ${missing.join(", ")}`);
-    if (extra.length) console.error(`  extra:   ${extra.join(", ")}`);
+    console.error(`  extra:   ${extra.join(", ")}`);
     errors++;
   }
 }

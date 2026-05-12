@@ -3,18 +3,19 @@ import type { ArticleContent, ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { AffiliateLink } from "@/components/AffiliateLink";
 import { Link } from "@/lib/i18n/navigation";
+import { getOfferImageUrl } from "@/lib/affiliates/images";
 
-function StarRating({ rating, label }: { rating: number; label?: string }) {
+function StarRating({ rating, label, size = "md" }: { rating: number; label?: string; size?: "sm" | "md" }) {
   const full = Math.floor(rating);
   const half = rating % 1 >= 0.5;
   return (
     <span className="inline-flex items-center gap-0.5" aria-label={label ?? String(rating)}>
       {Array.from({ length: 5 }, (_, i) => (
-        <span key={i} className={`text-base leading-none ${i < full ? "text-amber-400" : i === full && half ? "text-amber-300" : "text-slate-200"}`}>
+        <span key={i} className={`leading-none ${size === "sm" ? "text-sm" : "text-base"} ${i < full ? "text-amber-400" : i === full && half ? "text-amber-300" : "text-slate-200"}`}>
           ★
         </span>
       ))}
-      <span className="ml-1 text-sm font-bold text-amber-600">{rating.toFixed(1)}</span>
+      <span className={`ml-1 font-bold text-amber-600 ${size === "sm" ? "text-xs" : "text-sm"}`}>{rating.toFixed(1)}</span>
     </span>
   );
 }
@@ -68,7 +69,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
           </span>
           <span className="text-xs text-slate-400">{t("article.updatedAt", { date: formatDate(meta.updatedAt) })}</span>
         </div>
-        <h1 className="mb-4 text-2xl font-black leading-snug text-slate-900 md:text-3xl">
+        <h1 className="mb-4 text-3xl font-black leading-tight text-slate-900 md:text-4xl">
           {content.title}
         </h1>
         {content.lede && (
@@ -84,9 +85,9 @@ export function ArticleBody({ meta, content, offers }: Props) {
 
           {/* Comparison table */}
           {isComparison && offers.length > 0 && (
-            <div className="mb-8 overflow-x-auto rounded-xl border border-slate-200">
+            <div className="mb-8 overflow-x-auto rounded-2xl border border-slate-200 shadow-sm">
               <table className="min-w-full text-sm">
-                <thead className="bg-slate-50 text-xs font-bold uppercase tracking-wide text-slate-500">
+                <thead className="bg-gradient-to-r from-slate-800 to-slate-700 text-xs font-bold uppercase tracking-wide text-slate-300">
                   <tr>
                     <th className="px-4 py-3 text-left">{t("article.tableProduct")}</th>
                     {offers.some(o => o.rating) && <th className="px-4 py-3 text-center">{t("article.tableRating")}</th>}
@@ -99,13 +100,17 @@ export function ArticleBody({ meta, content, offers }: Props) {
                     const name = o.name[locale as keyof typeof o.name] ?? o.name.en ?? o.id;
                     const product = content.products?.find((p) => p.offerId === o.id);
                     return (
-                      <tr key={o.id} className={i === 0 ? "bg-brand-50/40" : "bg-white"}>
+                      <tr key={o.id} className={i === 0 ? "bg-amber-50/60" : i % 2 === 0 ? "bg-white" : "bg-slate-50/40"}>
                         <td className="px-4 py-3">
                           <div className="flex items-center gap-2">
-                            <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-brand-600 text-[10px] font-bold text-white">
+                            <span className={`flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-[10px] font-black text-white ${i === 0 ? "bg-amber-500" : "bg-brand-600"}`}>
                               {i + 1}
                             </span>
-                            <a href={`#offer-${o.id}`} className="font-medium text-slate-800 hover:text-brand-600 line-clamp-1">
+                            {(() => { const img = getOfferImageUrl(o); return img ? (
+                              // eslint-disable-next-line @next/next/no-img-element
+                              <img src={img} alt={name} className="h-8 w-8 shrink-0 rounded object-contain bg-slate-50 border border-slate-100" loading="lazy" />
+                            ) : null; })()}
+                            <a href={`#offer-${o.id}`} className="font-semibold text-slate-800 hover:text-brand-600 transition-colors line-clamp-1">
                               {name}
                             </a>
                             {product?.badge && (
@@ -164,59 +169,70 @@ export function ArticleBody({ meta, content, offers }: Props) {
           {isComparison && offers.map((o, i) => {
             const product = content.products?.find((p) => p.offerId === o.id);
             const name = o.name[locale as keyof typeof o.name] ?? o.name.en ?? o.id;
+            const isWinner = i === 0;
             return (
               <section
                 key={o.id}
                 id={`offer-${o.id}`}
-                className="mb-10 scroll-mt-24 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm"
+                className={`mb-10 scroll-mt-24 rounded-2xl border p-6 ${
+                  isWinner
+                    ? "border-amber-300 bg-gradient-to-br from-amber-50 via-white to-white shadow-md shadow-amber-100"
+                    : "border-slate-200 bg-white shadow-sm"
+                }`}
               >
+                {/* Winner crown */}
+                {isWinner && (
+                  <div className="mb-3 flex items-center gap-2">
+                    <span className="inline-flex items-center gap-1.5 rounded-full bg-amber-400 px-3 py-0.5 text-xs font-black text-amber-900 shadow-sm">
+                      ★ Best Pick
+                    </span>
+                  </div>
+                )}
+
                 {/* Rank badge + name */}
                 <div className="mb-4 flex items-start gap-4">
-                  {o.imageUrl && (
-                    <div className="h-24 w-24 shrink-0 overflow-hidden rounded-xl border border-slate-100 bg-slate-50">
+                  {(() => { const img = getOfferImageUrl(o); return img ? (
+                    <div className={`h-24 w-24 shrink-0 overflow-hidden rounded-xl border bg-slate-50 ${isWinner ? "border-amber-200" : "border-slate-100"}`}>
                       {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img
-                        src={o.imageUrl}
-                        alt={name}
-                        className="h-full w-full object-contain p-1.5"
-                        loading="lazy"
-                      />
+                      <img src={img} alt={name} className="h-full w-full object-contain p-2" loading="lazy" />
                     </div>
-                  )}
+                  ) : null; })()}
                   <div className="flex-1 min-w-0">
-                    <div className="flex flex-wrap items-center gap-2 mb-1">
-                      <span className="text-3xl font-black text-brand-600 leading-none">#{i + 1}</span>
+                    <div className="flex flex-wrap items-center gap-2 mb-1.5">
+                      <span className={`text-4xl font-black leading-none ${isWinner ? "text-amber-500" : "text-brand-600"}`}>
+                        #{i + 1}
+                      </span>
                       {product?.badge && (
                         <span className="rounded-full bg-amber-100 px-2.5 py-0.5 text-xs font-bold text-amber-800">
                           {product.badge}
                         </span>
                       )}
                     </div>
-                    <h2 className="text-lg font-bold text-slate-900 mb-1">{name}</h2>
+                    <h2 className="text-xl font-black text-slate-900 mb-2">{name}</h2>
                     <div className="flex flex-wrap items-center gap-3">
                       {o.rating && <StarRating rating={o.rating} label={t("article.ratingLabel", { rating: o.rating.toFixed(1) })} />}
-                      {o.price && <span className="text-sm font-bold text-slate-700">{o.price}</span>}
+                      {o.price && <span className="text-sm font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-md">{o.price}</span>}
                     </div>
                   </div>
                 </div>
 
                 {/* Review */}
                 {product?.review && (
-                  <p className="mb-4 text-[15px] leading-relaxed text-slate-700">{product.review}</p>
+                  <p className="mb-5 text-base leading-relaxed text-slate-700">{product.review}</p>
                 )}
 
                 {/* Pros / Cons */}
                 {(product?.pros?.length || product?.cons?.length) && (
                   <div className="mb-5 grid gap-3 sm:grid-cols-2">
                     {product?.pros && product.pros.length > 0 && (
-                      <div className="rounded-lg bg-green-50 border border-green-100 p-3">
-                        <p className="mb-2 text-xs font-bold uppercase tracking-wide text-green-700">
+                      <div className="rounded-xl bg-emerald-50 border border-emerald-200 p-4">
+                        <p className="mb-2.5 text-xs font-black uppercase tracking-widest text-emerald-700">
                           {t("article.pros")}
                         </p>
-                        <ul className="space-y-1.5">
+                        <ul className="space-y-2">
                           {product.pros.map((pro, k) => (
-                            <li key={k} className="flex items-start gap-1.5 text-sm text-slate-700">
-                              <span className="mt-0.5 shrink-0 text-green-500 font-bold">✓</span>
+                            <li key={k} className="flex items-start gap-2 text-sm text-slate-700">
+                              <span className="mt-0.5 shrink-0 text-emerald-500 font-black text-base leading-none">✓</span>
                               {pro}
                             </li>
                           ))}
@@ -224,14 +240,14 @@ export function ArticleBody({ meta, content, offers }: Props) {
                       </div>
                     )}
                     {product?.cons && product.cons.length > 0 && (
-                      <div className="rounded-lg bg-slate-50 border border-slate-200 p-3">
-                        <p className="mb-2 text-xs font-bold uppercase tracking-wide text-slate-500">
+                      <div className="rounded-xl bg-slate-50 border border-slate-200 p-4">
+                        <p className="mb-2.5 text-xs font-black uppercase tracking-widest text-slate-500">
                           {t("article.cons")}
                         </p>
-                        <ul className="space-y-1.5">
+                        <ul className="space-y-2">
                           {product.cons.map((con, k) => (
-                            <li key={k} className="flex items-start gap-1.5 text-sm text-slate-500">
-                              <span className="mt-0.5 shrink-0 text-slate-400">✗</span>
+                            <li key={k} className="flex items-start gap-2 text-sm text-slate-500">
+                              <span className="mt-0.5 shrink-0 text-slate-400 font-black text-base leading-none">✗</span>
                               {con}
                             </li>
                           ))}
@@ -248,24 +264,24 @@ export function ArticleBody({ meta, content, offers }: Props) {
 
           {/* Sections (buying guide etc.) */}
           {content.sections.map((s, i) => (
-            <section key={i} id={`section-${i}`} className="mb-8 scroll-mt-24">
+            <section key={i} id={`section-${i}`} className="mb-10 scroll-mt-24">
               {s.heading && (
-                <h2 className="mb-4 text-xl font-bold text-slate-900 border-b-2 border-brand-500 pb-2 inline-block">
+                <h2 className="mb-4 text-xl font-black text-slate-900 flex items-center gap-3 before:block before:h-6 before:w-1 before:rounded-full before:bg-brand-500 before:shrink-0">
                   {s.heading}
                 </h2>
               )}
               {s.paragraphs.map((p, j) => (
-                <p key={j} className="mb-3 text-[15px] leading-loose text-slate-700">
+                <p key={j} className="mb-4 text-base leading-relaxed text-slate-700">
                   {p}
                 </p>
               ))}
               {s.subsections && s.subsections.length > 0 && (
-                <div className="mt-4 space-y-3">
+                <div className="mt-5 space-y-3">
                   {s.subsections.map((sub, j) => (
-                    <div key={j} className="rounded-xl border border-slate-200 bg-slate-50 p-4">
-                      <dt className="mb-1 font-bold text-slate-900">{sub.heading}</dt>
+                    <div key={j} className="rounded-xl border border-slate-200 bg-slate-50/80 p-4">
+                      <dt className="mb-1.5 font-bold text-slate-900">{sub.heading}</dt>
                       {sub.paragraphs.map((p, k) => (
-                        <dd key={k} className="text-[14px] leading-relaxed text-slate-600">
+                        <dd key={k} className="text-sm leading-relaxed text-slate-600">
                           {p}
                         </dd>
                       ))}
@@ -278,8 +294,8 @@ export function ArticleBody({ meta, content, offers }: Props) {
 
           {/* Non-comparison: offers grid */}
           {!isComparison && offers.length > 0 && (
-            <section className="mb-8">
-              <h2 className="mb-4 text-xl font-bold text-slate-900 border-b-2 border-brand-500 pb-2 inline-block">
+            <section className="mb-10">
+              <h2 className="mb-4 text-xl font-black text-slate-900 flex items-center gap-3 before:block before:h-6 before:w-1 before:rounded-full before:bg-brand-500 before:shrink-0">
                 {t("article.offersHeading")}
               </h2>
               <ul className="grid gap-3 sm:grid-cols-2">
@@ -294,18 +310,18 @@ export function ArticleBody({ meta, content, offers }: Props) {
 
           {/* FAQ */}
           {content.faqs.length > 0 && (
-            <section className="mb-8" id="faq">
-              <h2 className="mb-5 text-xl font-bold text-slate-900 border-b-2 border-brand-500 pb-2 inline-block">
+            <section className="mb-10" id="faq">
+              <h2 className="mb-5 text-xl font-black text-slate-900 flex items-center gap-3 before:block before:h-6 before:w-1 before:rounded-full before:bg-brand-500 before:shrink-0">
                 {t("article.faqHeading")}
               </h2>
-              <div className="space-y-3">
+              <div className="space-y-2">
                 {content.faqs.map((f, i) => (
-                  <details key={i} className="group rounded-xl border border-slate-200 bg-white">
-                    <summary className="flex cursor-pointer items-center justify-between p-4 font-semibold text-slate-900 marker:hidden list-none">
+                  <details key={i} className="group rounded-xl border border-slate-200 bg-white overflow-hidden">
+                    <summary className="flex cursor-pointer items-center justify-between px-5 py-4 font-semibold text-slate-900 marker:hidden list-none hover:bg-slate-50 transition-colors">
                       <span>{f.q}</span>
-                      <span className="ml-4 shrink-0 text-slate-400 group-open:rotate-180 transition-transform">▼</span>
+                      <span className="ml-4 shrink-0 text-brand-500 group-open:rotate-180 transition-transform duration-200 text-xs">▼</span>
                     </summary>
-                    <div className="border-t border-slate-100 px-4 pb-4 pt-3 text-[14px] leading-relaxed text-slate-600">
+                    <div className="border-t border-slate-100 px-5 pb-5 pt-4 text-sm leading-relaxed text-slate-600">
                       {f.a}
                     </div>
                   </details>
@@ -315,7 +331,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
           )}
 
           {/* Disclosure note */}
-          <div className="mt-8 rounded-lg bg-slate-50 border border-slate-200 px-4 py-3 text-xs text-slate-400">
+          <div className="mt-10 rounded-xl bg-slate-50 border border-slate-200 px-4 py-3 text-xs text-slate-400">
             {t("offer.disclosureBadge")} — {t("offer.disclosureNote")}
             <Link href="/disclosure" className="ml-1 underline hover:text-brand-600">
               {t("nav.disclosure")}

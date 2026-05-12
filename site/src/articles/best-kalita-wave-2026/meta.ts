@@ -1,4 +1,5 @@
 import type { ArticleMeta } from "@/lib/articles/types";
+import { ALL_LOCALES } from "@/lib/i18n/locales";
 
 export const meta: ArticleMeta = {
   slug: "best-kalita-wave-2026",
@@ -13,6 +14,6 @@ export const meta: ArticleMeta = {
   ],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en", "ja"],
+  locales: [...ALL_LOCALES],
   ogImage: "auto",
 };

@@ -9,4 +9,11 @@ html {
 body {
   background: #fff;
   color: #0f172a;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: #fecaca;
+  color: #7f1d1d;
 }

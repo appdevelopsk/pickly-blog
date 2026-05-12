@@ -3,6 +3,8 @@ import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import { CATALOG } from "@/lib/affiliates/catalog";
+import { hasApprovedAds } from "@/lib/affiliates/has-ads";
+import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import type { ArticleMeta } from "@/lib/articles/types";
 
@@ -10,7 +12,9 @@ function getThumbnail(article: ArticleMeta, locale: string): string | null {
   if (article.ogImage && article.ogImage !== "auto") return `${article.ogImage}-${locale}.png`;
   for (const offerId of article.offerIds) {
     const offer = CATALOG.find((o) => o.id === offerId);
-    if (offer?.imageUrl) return offer.imageUrl;
+    if (!offer) continue;
+    const img = getOfferImageUrl(offer);
+    if (img) return img;
   }
   return null;
 }
@@ -29,7 +33,7 @@ export default async function HomePage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
-  const articles = listArticlesForLocale(locale);
+  const articles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
   const recent = articles.slice(-12).reverse();
 
   const orgSchema = {
@@ -57,15 +61,27 @@ export default async function HomePage({ params }: Props) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
       <div className="mx-auto max-w-5xl px-4 py-10">
         {/* Hero */}
-        <div className="mb-10 rounded-2xl bg-gradient-to-br from-brand-50 to-white border border-brand-100 px-6 py-10 text-center">
-          <h1 className="mb-3 text-4xl font-black tracking-tight text-slate-900 md:text-5xl">{heading}</h1>
-          <p className="mx-auto max-w-xl text-lg text-slate-500">{subheading}</p>
-          <div className="mt-5 flex items-center justify-center gap-3 text-sm text-slate-400">
-            <span><span className="font-bold text-slate-700">{articles.length}</span> reviews</span>
-            <span>·</span>
-            <Link href="/articles" className="font-semibold text-brand-600 hover:underline">
-              {navArticles} →
-            </Link>
+        <div className="mb-12 overflow-hidden rounded-3xl bg-slate-900 px-8 py-14 text-center relative">
+          <div className="pointer-events-none absolute inset-0 bg-gradient-to-br from-brand-600/25 via-transparent to-transparent" />
+          <div className="pointer-events-none absolute -top-24 -right-24 h-64 w-64 rounded-full bg-brand-600/10 blur-3xl" />
+          <div className="relative">
+            <h1 className="mb-4 text-5xl font-black tracking-tight text-white md:text-6xl">
+              {heading}
+            </h1>
+            <p className="mx-auto max-w-xl text-lg leading-relaxed text-slate-400">{subheading}</p>
+            <div className="mt-8 flex items-center justify-center gap-4 text-sm">
+              <span className="text-slate-400">
+                <span className="font-bold text-white text-base">{articles.length}</span>
+                {" "}reviews
+              </span>
+              <span className="text-slate-700">·</span>
+              <Link
+                href="/articles"
+                className="inline-flex items-center gap-1.5 rounded-full bg-brand-600 px-5 py-2 text-sm font-bold text-white hover:bg-brand-500 transition-colors shadow-lg shadow-brand-900/30"
+              >
+                {navArticles} →
+              </Link>
+            </div>
           </div>
         </div>
 
@@ -90,7 +106,7 @@ export default async function HomePage({ params }: Props) {
                 <li key={a.slug}>
                   <Link
                     href={`/articles/${a.slug}`}
-                    className="group flex flex-col rounded-xl border border-slate-200 overflow-hidden bg-white hover:border-brand-400 hover:shadow-md transition-all duration-200"
+                    className="group flex flex-col rounded-2xl border border-slate-200 overflow-hidden bg-white hover:border-brand-300 hover:shadow-lg transition-all duration-200"
                   >
                     {/* Thumbnail */}
                     <div className="relative overflow-hidden bg-slate-50" style={{ aspectRatio: isProductImg ? "1/1" : "16/9" }}>
@@ -99,23 +115,23 @@ export default async function HomePage({ params }: Props) {
                         <img
                           src={imgSrc}
                           alt={title}
-                          className={`w-full h-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-3" : "object-cover"}`}
+                          className={`w-full h-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}
                           loading="lazy"
                         />
                       ) : (
                         <CategoryPlaceholder category={a.category} title={title} />
                       )}
-                      <span className="absolute left-2 top-2 rounded-full bg-white/95 border border-slate-200 px-2 py-0.5 text-[11px] font-semibold text-slate-700 shadow-sm">
+                      <span className="absolute left-3 top-3 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-semibold text-slate-700 shadow-sm">
                         {catLabel}
                       </span>
                     </div>
                     {/* Text */}
-                    <div className="flex flex-col flex-1 p-3">
-                      <h2 className="text-[13px] font-bold leading-snug text-slate-900 group-hover:text-brand-600 transition-colors line-clamp-3">
+                    <div className="flex flex-col flex-1 p-4">
+                      <h2 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-600 transition-colors line-clamp-3">
                         {title}
                       </h2>
                       {description && (
-                        <p className="mt-1.5 text-[11px] text-slate-500 line-clamp-2 flex-1">{description}</p>
+                        <p className="mt-2 text-xs leading-relaxed text-slate-500 line-clamp-2 flex-1">{description}</p>
                       )}
                     </div>
                   </Link>
@@ -126,12 +142,12 @@ export default async function HomePage({ params }: Props) {
         )}
 
         {articles.length > 12 && (
-          <div className="mt-10 text-center">
+          <div className="mt-12 text-center">
             <Link
               href="/articles"
-              className="inline-flex items-center gap-2 rounded-full bg-brand-600 px-8 py-3 text-sm font-bold text-white hover:bg-brand-700 transition-colors shadow-sm"
+              className="inline-flex items-center gap-2 rounded-full bg-brand-600 px-8 py-3 text-sm font-bold text-white hover:bg-brand-700 transition-colors shadow-md"
             >
-              {navArticles}をすべて見る ({articles.length}件) →
+              {navArticles} ({articles.length}) →
             </Link>
           </div>
         )}

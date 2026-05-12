@@ -12,5 +12,16 @@ export default getRequestConfig(async ({ requestLocale }) => {
   const requested = await requestLocale;
   const locale: Locale = isSupportedLocale(requested) ? requested : routing.defaultLocale;
   const messages = (await loadMessages(locale)) as AbstractIntlMessages;
-  return { locale, messages };
+  return {
+    locale,
+    messages,
+    onError(error) {
+      // Suppress MISSING_MESSAGE — loader already falls back to English
+      if (error.code === "MISSING_MESSAGE") return;
+      console.error(error);
+    },
+    getMessageFallback({ key }: { namespace?: string; key: string; error: Error }) {
+      return key.split(".").pop() ?? key;
+    },
+  };
 });

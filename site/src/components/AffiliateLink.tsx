@@ -94,7 +94,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         href={href}
         target="_blank"
         rel="sponsored noopener noreferrer"
-        className="inline-flex items-center gap-1 rounded-md bg-brand-600 px-4 py-2 text-sm font-semibold text-white hover:bg-brand-700 transition-colors"
+        className="inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-4 py-2 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
       >
         {ctaLabel} →
       </a>
@@ -147,7 +147,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
           href={href}
           target="_blank"
           rel="sponsored noopener noreferrer"
-          className="inline-flex items-center gap-1 rounded-md bg-brand-600 px-4 py-2 text-sm font-semibold text-white hover:bg-brand-700 transition-colors"
+          className="inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-5 py-2.5 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
         >
           {ctaLabel} →
         </a>

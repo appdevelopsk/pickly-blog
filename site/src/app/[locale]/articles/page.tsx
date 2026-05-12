@@ -3,6 +3,8 @@ import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import { CATALOG } from "@/lib/affiliates/catalog";
+import { hasApprovedAds } from "@/lib/affiliates/has-ads";
+import { getOfferImageUrl } from "@/lib/affiliates/images";
 import type { ArticleMeta } from "@/lib/articles/types";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 
@@ -28,14 +30,16 @@ function getCategoryColor(cat: string) {
   return CATEGORY_COLORS[cat] ?? "bg-slate-50 text-slate-700 border-slate-200";
 }
 
-/** Returns best available thumbnail: OG image → first product image → null */
+/** Returns best available thumbnail: OG image → ASIN image → null */
 function getThumbnail(article: ArticleMeta, locale: string): string | null {
   if (article.ogImage && article.ogImage !== "auto") {
     return `${article.ogImage}-${locale}.png`;
   }
   for (const offerId of article.offerIds) {
     const offer = CATALOG.find((o) => o.id === offerId);
-    if (offer?.imageUrl) return offer.imageUrl;
+    if (!offer) continue;
+    const img = getOfferImageUrl(offer);
+    if (img) return img;
   }
   return null;
 }
@@ -60,7 +64,7 @@ function ArticleCard({
   return (
     <Link
       href={`/articles/${article.slug}`}
-      className="group flex flex-col rounded-xl border border-slate-200 overflow-hidden bg-white hover:border-brand-400 hover:shadow-md transition-all duration-200"
+      className="group flex flex-col rounded-2xl border border-slate-200 overflow-hidden bg-white hover:border-brand-300 hover:shadow-lg transition-all duration-200"
     >
       {/* Thumbnail */}
       <div className="relative overflow-hidden bg-slate-50" style={{ aspectRatio: isProductImg ? "1/1" : "16/9" }}>
@@ -69,23 +73,23 @@ function ArticleCard({
           <img
             src={imgSrc}
             alt={title}
-            className={`w-full h-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-3" : "object-cover"}`}
+            className={`w-full h-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}
             loading="lazy"
           />
         ) : (
           <CategoryPlaceholder category={article.category} title={title} />
         )}
-        <span className={`absolute left-2 top-2 rounded-full border px-2 py-0.5 text-[11px] font-semibold bg-white/95 shadow-sm ${color}`}>
+        <span className={`absolute left-2.5 top-2.5 rounded-full border px-2.5 py-0.5 text-xs font-semibold bg-white/95 shadow-sm ${color}`}>
           {catLabel}
         </span>
       </div>
       {/* Text */}
-      <div className="flex flex-col flex-1 p-3">
-        <h3 className="text-[13px] font-bold leading-snug text-slate-900 group-hover:text-brand-600 transition-colors line-clamp-3">
+      <div className="flex flex-col flex-1 p-4">
+        <h3 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-600 transition-colors line-clamp-3">
           {title}
         </h3>
         {description && (
-          <p className="mt-1.5 text-[11px] text-slate-500 line-clamp-2 flex-1">{description}</p>
+          <p className="mt-2 text-xs leading-relaxed text-slate-500 line-clamp-2 flex-1">{description}</p>
         )}
       </div>
     </Link>
@@ -96,7 +100,7 @@ export default async function ArticlesPage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
-  const articles = listArticlesForLocale(locale);
+  const articles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
 
   const byCategory = articles.reduce<Record<string, typeof articles>>(
     (acc, a) => { (acc[a.category] ??= []).push(a); return acc; },
