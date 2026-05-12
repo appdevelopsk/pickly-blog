@@ -37,12 +37,30 @@
     }
   ],
   "faqs": [
-    { "q": "VPN có làm chậm Internet không?", "a": "Có, nhưng ít hơn bạn nghĩ với giao thức hiện đại. Đường 940 Mbps của chúng tôi giảm còn 720-820 Mbps trên WireGuard hoặc Lightway. Stream và game không bị ảnh hưởng. Tránh OpenVPN trừ khi bạn cần cụ thể." },
-    { "q": "VPN miễn phí có an toàn?", "a": "Phần lớn là không. Nghiên cứu độc lập năm 2024 cho thấy 38% VPN Android miễn phí chứa mã độc hoặc bán dữ liệu người dùng. Proton VPN Free là ngoại lệ chính thống duy nhất — cùng hạ tầng với bản trả phí, chỉ giới hạn băng thông và số nước." },
-    { "q": "VPN có thật sự mở khóa Netflix?", "a": "Có, nhưng thư viện bạn thấy phụ thuộc IP nào Netflix chưa phát hiện. ExpressVPN và NordVPN xoay IP hàng ngày. Dịch vụ rẻ thường rớt giữa phim." },
-    { "q": "Dùng VPN có hợp pháp?", "a": "Hợp pháp ở Việt Nam, Mỹ, EU, Nhật, Anh, Úc và đa số nước. Bị cấm hoặc hạn chế ở Trung Quốc, Nga (từ tháng 11/2025), Iran, Triều Tiên, Belarus. Dùng để truy cập nội dung lậu là bất hợp pháp ở mọi nơi." },
-    { "q": "VPN có thật sự không lưu log?", "a": "Những bên đã được kiểm toán — Proton, Mullvad, NordVPN — đều vượt qua kiểm toán độc lập trong 18 tháng qua. Tuyên bố 'no-log' chưa được kiểm toán chỉ là quảng cáo. Bằng chứng là thứ giao nộp khi có yêu cầu pháp lý: Mullvad và Proton từng công bố các vụ không có gì để giao." },
-    { "q": "Một tài khoản dùng được mấy thiết bị?", "a": "Surfshark không giới hạn. ExpressVPN 8 đồng thời. NordVPN 10. Proton 10. Mullvad 5. Gia đình bốn người với điện thoại, laptop, TV — dưới 8 bắt đầu chật." }
+    {
+      "q": "VPN có làm chậm Internet không?",
+      "a": "Có, nhưng ít hơn bạn nghĩ với giao thức hiện đại. Đường 940 Mbps của chúng tôi giảm còn 720-820 Mbps trên WireGuard hoặc Lightway. Stream và game không bị ảnh hưởng. Tránh OpenVPN trừ khi bạn cần cụ thể."
+    },
+    {
+      "q": "VPN miễn phí có an toàn?",
+      "a": "Phần lớn là không. Nghiên cứu độc lập năm 2024 cho thấy 38% VPN Android miễn phí chứa mã độc hoặc bán dữ liệu người dùng. Proton VPN Free là ngoại lệ chính thống duy nhất — cùng hạ tầng với bản trả phí, chỉ giới hạn băng thông và số nước."
+    },
+    {
+      "q": "VPN có thật sự mở khóa Netflix?",
+      "a": "Có, nhưng thư viện bạn thấy phụ thuộc IP nào Netflix chưa phát hiện. ExpressVPN và NordVPN xoay IP hàng ngày. Dịch vụ rẻ thường rớt giữa phim."
+    },
+    {
+      "q": "Dùng VPN có hợp pháp?",
+      "a": "Hợp pháp ở Việt Nam, Mỹ, EU, Nhật, Anh, Úc và đa số nước. Bị cấm hoặc hạn chế ở Trung Quốc, Nga (từ tháng 11/2025), Iran, Triều Tiên, Belarus. Dùng để truy cập nội dung lậu là bất hợp pháp ở mọi nơi."
+    },
+    {
+      "q": "VPN có thật sự không lưu log?",
+      "a": "Những bên đã được kiểm toán — Proton, Mullvad, NordVPN — đều vượt qua kiểm toán độc lập trong 18 tháng qua. Tuyên bố 'no-log' chưa được kiểm toán chỉ là quảng cáo. Bằng chứng là thứ giao nộp khi có yêu cầu pháp lý: Mullvad và Proton từng công bố các vụ không có gì để giao."
+    },
+    {
+      "q": "Một tài khoản dùng được mấy thiết bị?",
+      "a": "Surfshark không giới hạn. ExpressVPN 8 đồng thời. NordVPN 10. Proton 10. Mullvad 5. Gia đình bốn người với điện thoại, laptop, TV — dưới 8 bắt đầu chật."
+    }
   ],
   "offerNotes": {
     "nordvpn": "Tổng thể tốt nhất — chọn cái này nếu muốn một VPN và khỏi nghĩ.",

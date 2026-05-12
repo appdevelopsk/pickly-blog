@@ -37,12 +37,30 @@
     }
   ],
   "faqs": [
-    { "q": "Una VPN rallenta la connessione?", "a": "Sì, ma meno di quanto pensi con un protocollo moderno. La nostra linea da 940 Mbps è scesa a 720-820 Mbps con WireGuard o Lightway. Streaming e gaming non si accorgono. Evita OpenVPN se non ti serve." },
-    { "q": "Le VPN gratis sono sicure?", "a": "Quasi nessuna. Una ricerca indipendente del 2024 ha trovato che il 38% delle VPN Android gratis aveva malware o vendeva dati a terzi. Proton VPN Free è l'unica eccezione mainstream — stessa infrastruttura della versione a pagamento, con banda e paesi limitati." },
-    { "q": "Una VPN sblocca davvero Netflix?", "a": "Sì, ma il catalogo che vedi dipende dagli IP che Netflix non ha ancora bloccato. ExpressVPN e NordVPN ruotano gli IP ogni giorno. Servizi economici saltano spesso a metà film." },
-    { "q": "Usare una VPN è legale?", "a": "In Italia, USA, UE, Giappone, Regno Unito, Australia: legale. Vietata o limitata in Cina, Russia (dal novembre 2025), Iran, Corea del Nord, Bielorussia. Accedere a contenuti pirata è illegale ovunque." },
-    { "q": "Le VPN davvero non tengono log?", "a": "Quelle auditate sì — Proton, Mullvad e NordVPN hanno passato audit indipendenti negli ultimi 18 mesi. I «no-log» non auditati sono marketing. La prova è cosa consegnano alle autorità: Mullvad e Proton hanno pubblicato casi in cui non avevano nulla da dare." },
-    { "q": "Quanti dispositivi per account?", "a": "Surfshark, illimitati. ExpressVPN 8 simultanei. NordVPN 10. Proton 10. Mullvad 5. Famiglia di quattro con telefoni, portatili e TV: sotto 8 stringe." }
+    {
+      "q": "Una VPN rallenta la connessione?",
+      "a": "Sì, ma meno di quanto pensi con un protocollo moderno. La nostra linea da 940 Mbps è scesa a 720-820 Mbps con WireGuard o Lightway. Streaming e gaming non si accorgono. Evita OpenVPN se non ti serve."
+    },
+    {
+      "q": "Le VPN gratis sono sicure?",
+      "a": "Quasi nessuna. Una ricerca indipendente del 2024 ha trovato che il 38% delle VPN Android gratis aveva malware o vendeva dati a terzi. Proton VPN Free è l'unica eccezione mainstream — stessa infrastruttura della versione a pagamento, con banda e paesi limitati."
+    },
+    {
+      "q": "Una VPN sblocca davvero Netflix?",
+      "a": "Sì, ma il catalogo che vedi dipende dagli IP che Netflix non ha ancora bloccato. ExpressVPN e NordVPN ruotano gli IP ogni giorno. Servizi economici saltano spesso a metà film."
+    },
+    {
+      "q": "Usare una VPN è legale?",
+      "a": "In Italia, USA, UE, Giappone, Regno Unito, Australia: legale. Vietata o limitata in Cina, Russia (dal novembre 2025), Iran, Corea del Nord, Bielorussia. Accedere a contenuti pirata è illegale ovunque."
+    },
+    {
+      "q": "Le VPN davvero non tengono log?",
+      "a": "Quelle auditate sì — Proton, Mullvad e NordVPN hanno passato audit indipendenti negli ultimi 18 mesi. I «no-log» non auditati sono marketing. La prova è cosa consegnano alle autorità: Mullvad e Proton hanno pubblicato casi in cui non avevano nulla da dare."
+    },
+    {
+      "q": "Quanti dispositivi per account?",
+      "a": "Surfshark, illimitati. ExpressVPN 8 simultanei. NordVPN 10. Proton 10. Mullvad 5. Famiglia di quattro con telefoni, portatili e TV: sotto 8 stringe."
+    }
   ],
   "offerNotes": {
     "nordvpn": "Migliore complessivamente — scegli questa se vuoi una VPN e non pensarci più.",

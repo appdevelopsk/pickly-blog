@@ -37,12 +37,30 @@
     }
   ],
   "faqs": [
-    { "q": "Apakah VPN bikin internet lambat?", "a": "Ya, tapi tidak separah yang dikira di protokol modern. Jalur 940 Mbps kami turun ke 720-820 Mbps di WireGuard atau Lightway. Streaming dan game tidak terasa. Hindari OpenVPN kecuali memang perlu." },
-    { "q": "Apakah VPN gratis aman?", "a": "Sebagian besar tidak. Riset independen 2024 menemukan 38% VPN Android gratis berisi malware atau menjual data ke pihak ketiga. Proton VPN Free pengecualian utama — infrastruktur sama dengan versi berbayar, hanya bandwidth dan jumlah negara dibatasi." },
-    { "q": "Apakah VPN benar-benar buka Netflix?", "a": "Bisa, tapi katalog yang muncul tergantung IP mana yang belum dideteksi Netflix. ExpressVPN dan NordVPN rotasi IP harian. Layanan murah sering nyangkut di tengah film." },
-    { "q": "Apakah pakai VPN legal?", "a": "Di kebanyakan negara legal: Indonesia, AS, UE, Jepang, Inggris, Australia. Dilarang atau dibatasi di China, Rusia (sejak November 2025), Iran, Korea Utara, Belarus. Mengakses konten bajakan tetap ilegal di mana pun." },
-    { "q": "Apakah VPN benar-benar tidak menyimpan log?", "a": "Yang sudah diaudit ya — Proton, Mullvad, dan NordVPN lulus audit independen 18 bulan terakhir. Klaim no-log tanpa audit hanyalah pemasaran. Buktinya: apa yang diserahkan saat dipanggil. Mullvad dan Proton sudah mempublikasikan kasus ketika tidak ada yang bisa diserahkan." },
-    { "q": "Berapa perangkat per akun?", "a": "Surfshark tanpa batas. ExpressVPN 8 simultan. NordVPN 10. Proton 10. Mullvad 5. Keluarga empat orang dengan HP, laptop, TV — di bawah 8 mulai sempit." }
+    {
+      "q": "Apakah VPN bikin internet lambat?",
+      "a": "Ya, tapi tidak separah yang dikira di protokol modern. Jalur 940 Mbps kami turun ke 720-820 Mbps di WireGuard atau Lightway. Streaming dan game tidak terasa. Hindari OpenVPN kecuali memang perlu."
+    },
+    {
+      "q": "Apakah VPN gratis aman?",
+      "a": "Sebagian besar tidak. Riset independen 2024 menemukan 38% VPN Android gratis berisi malware atau menjual data ke pihak ketiga. Proton VPN Free pengecualian utama — infrastruktur sama dengan versi berbayar, hanya bandwidth dan jumlah negara dibatasi."
+    },
+    {
+      "q": "Apakah VPN benar-benar buka Netflix?",
+      "a": "Bisa, tapi katalog yang muncul tergantung IP mana yang belum dideteksi Netflix. ExpressVPN dan NordVPN rotasi IP harian. Layanan murah sering nyangkut di tengah film."
+    },
+    {
+      "q": "Apakah pakai VPN legal?",
+      "a": "Di kebanyakan negara legal: Indonesia, AS, UE, Jepang, Inggris, Australia. Dilarang atau dibatasi di China, Rusia (sejak November 2025), Iran, Korea Utara, Belarus. Mengakses konten bajakan tetap ilegal di mana pun."
+    },
+    {
+      "q": "Apakah VPN benar-benar tidak menyimpan log?",
+      "a": "Yang sudah diaudit ya — Proton, Mullvad, dan NordVPN lulus audit independen 18 bulan terakhir. Klaim no-log tanpa audit hanyalah pemasaran. Buktinya: apa yang diserahkan saat dipanggil. Mullvad dan Proton sudah mempublikasikan kasus ketika tidak ada yang bisa diserahkan."
+    },
+    {
+      "q": "Berapa perangkat per akun?",
+      "a": "Surfshark tanpa batas. ExpressVPN 8 simultan. NordVPN 10. Proton 10. Mullvad 5. Keluarga empat orang dengan HP, laptop, TV — di bawah 8 mulai sempit."
+    }
   ],
   "offerNotes": {
     "nordvpn": "Terbaik all-around — pilih ini kalau mau VPN dan tidak mau pusing.",

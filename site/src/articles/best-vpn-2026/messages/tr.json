@@ -37,12 +37,30 @@
     }
   ],
   "faqs": [
-    { "q": "VPN internetimi yavaşlatır mı?", "a": "Evet, ama modern protokolde sandığın kadar değil. 940 Mbps hattımız WireGuard veya Lightway'de 720-820 Mbps'ye düştü. Stream ve oyun fark etmiyor. Özel bir nedenin yoksa OpenVPN'den uzak dur." },
-    { "q": "Ücretsiz VPN'ler güvenli mi?", "a": "Çoğu değil. 2024'teki bağımsız bir araştırma, ücretsiz Android VPN'lerinin %38'inde kötü amaçlı yazılım veya kullanıcı verilerinin üçüncü taraflara satıldığını buldu. Proton VPN Free tek ana akım istisna — ücretli sürümle aynı altyapı, sadece bant genişliği ve ülke sayısı kısıtlı." },
-    { "q": "VPN gerçekten Netflix'i açar mı?", "a": "Açar, ama hangi katalog görüneceği Netflix'in henüz tespit etmediği IP'lere bağlı. ExpressVPN ve NordVPN IP'leri günlük döndürüyor. Ucuz hizmetler genelde film ortasında IP banlandığında düşer." },
-    { "q": "VPN kullanmak yasal mı?", "a": "Türkiye, ABD, AB, Japonya, İngiltere, Avustralya gibi çoğu ülkede yasal. Çin, Rusya (Kasım 2025'ten itibaren), İran, Kuzey Kore, Belarus'ta yasak veya kısıtlı. Korsan içerik için kullanmak her yerde yasa dışı." },
-    { "q": "VPN şirketleri gerçekten log tutmuyor mu?", "a": "Denetlenenler tutmuyor — Proton, Mullvad ve NordVPN son 18 ayda bağımsız denetimleri geçti. Denetlenmemiş 'no-log' iddiaları sadece reklam metni. Asıl kanıt, mahkeme celbinde ne teslim edildiği: Mullvad ve Proton, teslim edecek bir şey olmayan vakaları yayınladı." },
-    { "q": "Bir hesapla kaç cihaz?", "a": "Surfshark sınırsız. ExpressVPN 8 eşzamanlı. NordVPN 10. Proton 10. Mullvad 5. Telefon, dizüstü ve TV'si olan dört kişilik aile için 8'in altı dar gelmeye başlar." }
+    {
+      "q": "VPN internetimi yavaşlatır mı?",
+      "a": "Evet, ama modern protokolde sandığın kadar değil. 940 Mbps hattımız WireGuard veya Lightway'de 720-820 Mbps'ye düştü. Stream ve oyun fark etmiyor. Özel bir nedenin yoksa OpenVPN'den uzak dur."
+    },
+    {
+      "q": "Ücretsiz VPN'ler güvenli mi?",
+      "a": "Çoğu değil. 2024'teki bağımsız bir araştırma, ücretsiz Android VPN'lerinin %38'inde kötü amaçlı yazılım veya kullanıcı verilerinin üçüncü taraflara satıldığını buldu. Proton VPN Free tek ana akım istisna — ücretli sürümle aynı altyapı, sadece bant genişliği ve ülke sayısı kısıtlı."
+    },
+    {
+      "q": "VPN gerçekten Netflix'i açar mı?",
+      "a": "Açar, ama hangi katalog görüneceği Netflix'in henüz tespit etmediği IP'lere bağlı. ExpressVPN ve NordVPN IP'leri günlük döndürüyor. Ucuz hizmetler genelde film ortasında IP banlandığında düşer."
+    },
+    {
+      "q": "VPN kullanmak yasal mı?",
+      "a": "Türkiye, ABD, AB, Japonya, İngiltere, Avustralya gibi çoğu ülkede yasal. Çin, Rusya (Kasım 2025'ten itibaren), İran, Kuzey Kore, Belarus'ta yasak veya kısıtlı. Korsan içerik için kullanmak her yerde yasa dışı."
+    },
+    {
+      "q": "VPN şirketleri gerçekten log tutmuyor mu?",
+      "a": "Denetlenenler tutmuyor — Proton, Mullvad ve NordVPN son 18 ayda bağımsız denetimleri geçti. Denetlenmemiş 'no-log' iddiaları sadece reklam metni. Asıl kanıt, mahkeme celbinde ne teslim edildiği: Mullvad ve Proton, teslim edecek bir şey olmayan vakaları yayınladı."
+    },
+    {
+      "q": "Bir hesapla kaç cihaz?",
+      "a": "Surfshark sınırsız. ExpressVPN 8 eşzamanlı. NordVPN 10. Proton 10. Mullvad 5. Telefon, dizüstü ve TV'si olan dört kişilik aile için 8'in altı dar gelmeye başlar."
+    }
   ],
   "offerNotes": {
     "nordvpn": "En iyi genel — bir VPN al ve düşünme demek istiyorsan bunu seç.",
