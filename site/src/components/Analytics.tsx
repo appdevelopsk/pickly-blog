@@ -1,8 +1,8 @@
 "use client";
 import Script from "next/script";
 
-const GA_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
-const CLARITY_ID = process.env.NEXT_PUBLIC_CLARITY_PROJECT_ID;
+const GA_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID ?? "G-M7SF83B60R";
+const CLARITY_ID = process.env.NEXT_PUBLIC_CLARITY_PROJECT_ID ?? "wqatyufkhb";
 
 export function Analytics() {
   if (!GA_ID && !CLARITY_ID) return null;
