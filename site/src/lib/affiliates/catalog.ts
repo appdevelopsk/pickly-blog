@@ -121,6 +121,7 @@ const RAW_CATALOG = [
   {
     id: "timemore-c2",
     imageUrl: "https://www.timemore.com/cdn/shop/files/5_f6536073-3510-46a6-8f29-58aa4836fc47_1800x1800.jpg?v=1748572191",
+    price: "¥9,000",
     category: "home",
     badge: "⚙️",
     name: { en: "Timemore C2", ja: "タイムモア C2" },
@@ -136,6 +137,7 @@ const RAW_CATALOG = [
   {
     id: "hario-v60-ceramic-slim",
     imageUrl: "https://global.hario.com/product/MSS-1DTB.jpg",
+    price: "¥3,000",
     category: "home",
     badge: "🌱",
     name: { en: "Hario V60 Ceramic Slim", ja: "ハリオ V60 セラミックスリム" },
@@ -151,6 +153,7 @@ const RAW_CATALOG = [
   {
     id: "melitta-vario-e",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001592395.jpg",
+    price: "¥20,000",
     category: "home",
     badge: "☕",
     name: { en: "Melitta Vario E", ja: "メリタ バリオ E" },
@@ -165,6 +168,7 @@ const RAW_CATALOG = [
   {
     id: "delonghi-kg79j",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000689946.jpg",
+    price: "¥7,000",
     category: "home",
     badge: "🎚️",
     name: { en: "Delonghi KG79J", ja: "デロンギ KG79J" },
@@ -179,6 +183,7 @@ const RAW_CATALOG = [
   {
     id: "fuji-royal-r220",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000892819.jpg",
+    price: "¥50,000",
     category: "home",
     badge: "🏆",
     name: { en: "Fuji Royal R-220 (Mirukko)", ja: "富士ローヤル みるっこ R-220" },
@@ -194,6 +199,7 @@ const RAW_CATALOG = [
   {
     id: "philips-sonicare-9300",
     imageUrl: "https://images.philips.com/is/image/philipsconsumer/e769159bd9c44a15b4d2ac5e002799c0?wid=700&hei=700&$pnglarge$",
+    price: "¥35,000",
     category: "beauty",
     badge: "💎",
     name: { en: "Philips Sonicare DiamondClean Smart 9300", ja: "フィリップス ソニッケアー ダイヤモンドクリーン スマート 9300" },
@@ -208,6 +214,7 @@ const RAW_CATALOG = [
   {
     id: "philips-sonicare-4500",
     imageUrl: "https://images.philips.com/is/image/philipsconsumer/d460ae9f544148d486e0ac5e00bb3aef?wid=700&hei=700&$pnglarge$",
+    price: "¥12,000",
     category: "beauty",
     badge: "✨",
     name: { en: "Philips Sonicare ProtectiveClean 4500", ja: "フィリップス ソニッケアー プロテクトクリーン 4500" },
@@ -222,6 +229,7 @@ const RAW_CATALOG = [
   {
     id: "oral-b-pro-1",
     imageUrl: "https://cdn11.bigcommerce.com/s-2idmiil7bp/images/stencil/1280x1280/products/550/11538/00069055859636_C1C1_OOP__98078.1760034373.jpg",
+    price: "¥5,000",
     category: "beauty",
     badge: "🦷",
     name: { en: "Oral-B PRO 1", ja: "オーラルB PRO 1" },
@@ -236,6 +244,7 @@ const RAW_CATALOG = [
   {
     id: "panasonic-doltz-dp35",
     imageUrl: "https://wafuu.com/cdn/shop/files/panasonic-doltz-high-grade-sonic-vibration-toothbrush-white-ew-dp37-w-usb-type-c-103203_1024x1024.jpg",
+    price: "¥18,000",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Panasonic Doltz EW-DP35", ja: "パナソニック ドルツ EW-DP35" },
@@ -250,6 +259,7 @@ const RAW_CATALOG = [
   {
     id: "braun-oral-b-io9",
     imageUrl: "https://metapod.com/cdn/shop/products/braun-oral-b-io9-electric-toothbrush-31592985624772.png",
+    price: "¥50,000",
     category: "beauty",
     badge: "🤖",
     name: { en: "BRAUN Oral-B Genius X (iO 9)", ja: "ブラウン オーラルB Genius X (iO 9)" },
@@ -324,6 +334,7 @@ const RAW_CATALOG = [
   {
     id: "oclean-x-pro-elite",
     imageUrl: "https://www.oclean.com/cdn/shop/files/25.webp",
+    price: "~$80",
     category: "beauty",
     badge: "📱",
     name: { en: "Oclean X Pro Elite", ja: "オクリーン X Pro エリート" },
@@ -340,6 +351,7 @@ const RAW_CATALOG = [
   {
     id: "philips-series-9000-prestige",
     imageUrl: "https://images.philips.com/is/image/philipsconsumer/0cefc0e1da104056bfb3af1600d7df95?wid=700&hei=700&$pnglarge$",
+    price: "¥50,000",
     category: "beauty",
     badge: "top-pick",
     name: { en: "Philips Series 9000 Prestige SP9883", ja: "フィリップス シリーズ9000 プレステージ SP9883" },
@@ -355,6 +367,7 @@ const RAW_CATALOG = [
   {
     id: "braun-series-9-pro-plus",
     imageUrl: "https://images.ctfassets.net/f2uoy79ix7lt/2ElrNFPYPf4qRRYwxAUtU2/7a185f765c0f8f59730a97bc0e82953d/s9_any-beard_desktop.jpg",
+    price: "¥45,000",
     category: "beauty",
     badge: "best-foil",
     name: { en: "Braun Series 9 Pro+ 9565cc", ja: "ブラウン シリーズ9 Pro+ 9565cc" },
@@ -370,6 +383,7 @@ const RAW_CATALOG = [
   {
     id: "panasonic-lamdash-es-ls9a",
     imageUrl: "https://image.dokodemo.world/catalog-skus/9049835/62dc8c1866d524cff7ee36741c312213.jpg",
+    price: "¥35,000",
     category: "beauty",
     badge: "japan-pick",
     name: { en: "Panasonic ラムダッシュ ES-LS9A", ja: "パナソニック ラムダッシュ ES-LS9A" },
@@ -384,6 +398,7 @@ const RAW_CATALOG = [
   {
     id: "philips-series-5000-sp5588",
     imageUrl: "https://images.philips.com/is/image/philipsconsumer/09d1d6a3dd9e4cb0bf00b02800c86f0b?wid=700&hei=700&$pnglarge$",
+    price: "¥20,000",
     category: "beauty",
     badge: "budget-pick",
     name: { en: "Philips Series 5000 SP5588", ja: "フィリップス シリーズ5000 SP5588" },
@@ -398,6 +413,7 @@ const RAW_CATALOG = [
   {
     id: "braun-series-7-71-s7200cc",
     imageUrl: "https://images.ctfassets.net/vdz7892ev2zr/2On35slTsxlmoTc7nDHfdP/0df295e80fcaa14b3d5ed6dc4f824e41/pdp-mpg-series-7-71-s7200cc-hero-image.jpg",
+    price: "¥25,000",
     category: "beauty",
     badge: "value-pick",
     name: { en: "Braun Series 7 71-S7200cc", ja: "ブラウン シリーズ7 71-S7200cc" },
@@ -413,6 +429,7 @@ const RAW_CATALOG = [
   {
     id: "currentbody-skin-led",
     imageUrl: "https://www.currentbody.com/cdn/shop/files/Currentbody_skin_series1_led_light_therapy_mask_800x.png",
+    price: "¥75,000",
     category: "beauty",
     badge: "💡",
     name: { en: "CurrentBody Skin LED Light Therapy Mask", ja: "CurrentBody Skin LED ライトセラピーマスク" },
@@ -429,6 +446,7 @@ const RAW_CATALOG = [
     id: "yaman-medi-lift-plus",
     imageUrl: undefined,
     category: "beauty",
+    price: "¥77,000",
     badge: "🇯🇵",
     name: { en: "Yaman Medi Lift Plus", ja: "ヤーマン メディリフトプラス" },
     description: {
@@ -442,6 +460,7 @@ const RAW_CATALOG = [
   {
     id: "dr-arrivo-zeus-2",
     imageUrl: "https://artistic-co.us/wp-content/uploads/2020/04/Image_20250314143136.jpg",
+    price: "¥298,000",
     category: "beauty",
     badge: "👑",
     name: { en: "Dr.Arrivo Zeus II", ja: "ドクターアリーヴォ ゼウスII" },
@@ -456,6 +475,7 @@ const RAW_CATALOG = [
   {
     id: "aduro-7-plus-1",
     imageUrl: "https://myaduro.com/cdn/shop/files/Facial_Mask_01_1200x1200_7086fb93-ba4e-4e5e-9d10-0312c9b61571.png",
+    price: "¥30,000",
     category: "beauty",
     badge: "🌈",
     name: { en: "Aduro 7+1 Light Therapy Mask", ja: "Aduro 7+1 ライトセラピーマスク" },
@@ -470,6 +490,7 @@ const RAW_CATALOG = [
   {
     id: "omnilux-contour-face",
     imageUrl: "https://omniluxled.com/cdn/shop/files/Contour_Face_Cover_Image.jpg",
+    price: "¥58,000",
     category: "beauty",
     badge: "🏥",
     name: { en: "Omnilux Contour Face", ja: "オムニルクス コンツアー フェース" },
@@ -485,6 +506,7 @@ const RAW_CATALOG = [
   {
     id: "and-honey-deep-moist-shampoo",
     imageUrl: "https://japanesetaste.com/cdn/shop/files/andhoney-Deep-Moist-Shampoo-1-0--Japanese-Honey-Shampoo--440ml-1-2024-06-14T01_48_01.020Z.jpg",
+    price: "¥1,400",
     category: "beauty",
     badge: "🍯",
     name: { en: "&honey Deep Moist Shampoo", ja: "&honey Deep Moist シャンプー" },
@@ -499,6 +521,7 @@ const RAW_CATALOG = [
   {
     id: "botanist-damage-care-shampoo",
     imageUrl: "https://item-shopping.c.yimg.jp/i/l/summer_4582521680719_i_20230607225453",
+    price: "¥1,540",
     category: "beauty",
     badge: "🌿",
     name: { en: "BOTANIST Damage Care Shampoo", ja: "BOTANIST ダメージケア シャンプー" },
@@ -513,6 +536,7 @@ const RAW_CATALOG = [
   {
     id: "olaplex-no4-bond-maintenance",
     imageUrl: "https://olaplex.com/cdn/shop/files/1-N4_product_1440.png",
+    price: "¥4,840",
     category: "beauty",
     badge: "🔬",
     name: { en: "Olaplex No.4 Bond Maintenance Shampoo", ja: "Olaplex No.4 Bond Maintenance Shampoo" },
@@ -528,6 +552,7 @@ const RAW_CATALOG = [
   {
     id: "mediquick-scalp-shampoo",
     imageUrl: "https://item-shopping.c.yimg.jp/i/l/minoku-premium_6613-1-a_i_20260211072045",
+    price: "¥1,800",
     category: "beauty",
     badge: "🩺",
     name: { en: "MEDIQUICK H Scalp Shampoo (Medicated)", ja: "メディクイックH 薬用スカルプシャンプー" },
@@ -542,6 +567,7 @@ const RAW_CATALOG = [
   {
     id: "kerastase-bain-densite",
     imageUrl: "https://timetospa.com/cdn/shop/files/kerastase-densifique-bain-densite-hair-shampoo_1094075_02.jpg",
+    price: "¥5,500",
     category: "beauty",
     badge: "💎",
     name: { en: "Kerastase Bain Densite", ja: "ケラスターゼ DS バン デンシフィック" },
@@ -1089,6 +1115,7 @@ const RAW_CATALOG = [
   {
     id: "roborock-s8-pro-ultra",
     imageUrl: "https://cdn.awsusor0.fds.api.mi-img.com/newsroom/6fd2b83eb4b9071c322f2db3f0b66673.jpg",
+    price: "¥179,800",
     category: "home",
     badge: "🤖",
     name: { en: "Roborock S8 Pro Ultra", ja: "ロボロック S8 Pro Ultra" },
@@ -1104,6 +1131,7 @@ const RAW_CATALOG = [
   {
     id: "irobot-roomba-j7-plus",
     imageUrl: "https://cdn.freshstore.cloud/offer/images/15113/405/c/irobot-roomba-j7-7550-self-emptying-robot-vacuum-uses-precisionvision-navigation-to-identify-avoid-objects-like-socks-shoes-pet-waste-smart-mapping-self-empty-for-up-to-60-days-405-thumb.jpg",
+    price: "¥99,800",
     category: "home",
     badge: "🐾",
     name: { en: "iRobot Roomba j7+", ja: "iRobot ルンバ j7+" },
@@ -1119,6 +1147,7 @@ const RAW_CATALOG = [
   {
     id: "eufy-x10-pro-omni",
     imageUrl: "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/Maskgroup-1.png?v=1773055636&width=1920",
+    price: "¥99,990",
     category: "home",
     badge: "💪",
     name: { en: "Anker Eufy RoboVac X10 Pro Omni", ja: "Anker Eufy RoboVac X10 Pro Omni" },
@@ -1134,6 +1163,7 @@ const RAW_CATALOG = [
   {
     id: "switchbot-k10-plus",
     imageUrl: "https://us.switch-bot.com/cdn/shop/files/K10_Global_700x700.jpg?v=1712471125",
+    price: "¥59,800",
     category: "home",
     badge: "📏",
     name: { en: "SwitchBot K10+", ja: "SwitchBot K10+" },
@@ -1148,6 +1178,7 @@ const RAW_CATALOG = [
   {
     id: "dyson-360-vis-nav",
     imageUrl: "https://cdn.webshopapp.com/shops/210536/files/440562441/1652x1652x2/dyson-dyson-360-vis-nav.jpg",
+    price: "¥189,200",
     category: "home",
     badge: "🇬🇧",
     name: { en: "Dyson 360 Vis Nav", ja: "Dyson 360 Vis Nav" },
@@ -1163,6 +1194,7 @@ const RAW_CATALOG = [
   {
     id: "dyson-supersonic-nural",
     imageUrl: "https://media.ulta.com/i/ulta/2638890?w=600&h=600&fmt=auto",
+    price: "¥66,000",
     category: "beauty",
     badge: "💨",
     name: { en: "Dyson Supersonic Nural", ja: "Dyson Supersonic Nural" },
@@ -1178,6 +1210,7 @@ const RAW_CATALOG = [
   {
     id: "refa-beautech-dryer-pro",
     imageUrl: "https://www.refa.net/en/item/refa_beautech_dryer_pro/images/img-hero-pc.jpg",
+    price: "¥49,500",
     category: "beauty",
     badge: "✂️",
     name: { en: "ReFa BEAUTECH DRYER PRO", ja: "リファ ビューテック ドライヤー プロ" },
@@ -1192,6 +1225,7 @@ const RAW_CATALOG = [
   {
     id: "lepronizer-7d-plus",
     imageUrl: "https://www.beautytechdistribution.com/cdn/shop/products/7DRep_f2cc5c33-e5bd-4051-8f85-6222edf26560.jpg?v=1651034236&width=1600",
+    price: "¥77,000",
     category: "beauty",
     badge: "👑",
     name: { en: "Lepronizer 7D Plus", ja: "レプロナイザー 7D Plus" },
@@ -1206,6 +1240,7 @@ const RAW_CATALOG = [
   {
     id: "panasonic-nanocare-ehna0j",
     imageUrl: "https://imyshopjapan.com/cdn/shop/files/Panasonic-Hair-Dryer-Nano-Care-EH-NA0J-1.jpg?v=1756346888&width=1946",
+    price: "¥35,000",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Panasonic Nanocare EH-NA0J", ja: "パナソニック ナノケア EH-NA0J" },
@@ -1220,6 +1255,7 @@ const RAW_CATALOG = [
   {
     id: "sharp-plasmacluster-ibwx901",
     imageUrl: "https://wafuu.com/cdn/shop/files/sharp-plasmacluster-beauty-drape-flow-hair-dryer-ib-wx901-b-black-100v-931175_1024x1024.jpg?v=1719479233",
+    price: "¥18,000",
     category: "beauty",
     badge: "💴",
     name: { en: "Sharp Plasmacluster IB-WX901", ja: "シャープ プラズマクラスター IB-WX901" },
@@ -1382,6 +1418,7 @@ const RAW_CATALOG = [
   {
     id: "zojirushi-stan-nw-sa10",
     imageUrl: "https://wafuu.com/cdn/shop/products/zojirushi-55-cup-induction-rice-cooker-black-stan-nw-sa10-ba-100v-640423_1024x1024.jpg?v=1695257113",
+    price: "¥45,000",
     category: "home",
     badge: "🎨",
     name: { en: "Zojirushi STAN. NW-SA10", ja: "象印 STAN. NW-SA10" },
@@ -1396,6 +1433,7 @@ const RAW_CATALOG = [
   {
     id: "tiger-jpi-y100",
     imageUrl: "https://www.tiger-corporation.com/contents/product/rice-cooker/jpi-y/assets/img/JPI-Y_MV01.jpg",
+    price: "¥80,000",
     category: "home",
     badge: "🍚",
     name: { en: "Tiger JPI-Y100 (Tsuchinabe Gohoubi)", ja: "タイガー JPI-Y100(土鍋ご泡火炊き)" },
@@ -1410,6 +1448,7 @@ const RAW_CATALOG = [
   {
     id: "panasonic-sr-v18ba",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001553749.jpg",
+    price: "¥150,000",
     category: "home",
     badge: "👑",
     name: { en: "Panasonic SR-V18BA (Bistro 1-sho)", ja: "パナソニック SR-V18BA(ビストロ1升)" },
@@ -1424,6 +1463,7 @@ const RAW_CATALOG = [
   {
     id: "vermicular-rp23a",
     imageUrl: "https://japanwithlovestore.com/cdn/shop/files/Vermicular-Rice-Pot-5Cup-Rice-Cooker-Sea-Salt-White-With-Exclusive-Recipe-Book-Rp23AWh-4589923561172-0.jpg?v=1722582496&width=1065",
+    price: "¥85,000",
     category: "home",
     badge: "🔥",
     name: { en: "Vermicular Ricepot RP23A", ja: "バーミキュラ ライスポット RP23A" },
@@ -1438,6 +1478,7 @@ const RAW_CATALOG = [
   {
     id: "mitsubishi-honsumigama-nj-awb10",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001269765.jpg",
+    price: "¥99,800",
     category: "home",
     badge: "🪨",
     name: { en: "Mitsubishi Honsumigama KAMADO NJ-AWB10", ja: "三菱 本炭釜 KAMADO NJ-AWB10" },
@@ -1453,6 +1494,7 @@ const RAW_CATALOG = [
   {
     id: "sony-wh-1000xm5",
     imageUrl: "https://target.scene7.com/is/image/Target/GUEST_e47219be-8eb6-4843-bce5-b9e70b45fa01?wid=800&hei=800&fmt=pjpeg",
+    price: "¥45,000",
     category: "tech",
     badge: "🎧",
     name: { en: "Sony WH-1000XM5", ja: "ソニー WH-1000XM5" },
@@ -1468,6 +1510,7 @@ const RAW_CATALOG = [
   {
     id: "bose-quietcomfort-ultra",
     imageUrl: "https://assets.bosecreative.com/transform/e6ff1700-4749-4770-a02e-aff3a922475e/QCUHIILE26-MidnightViolet_E-Comm_Gallery_1_1632x1224?format=avif&quality=95&io=width:400,height:300,transform:fit",
+    price: "¥59,400",
     category: "tech",
     badge: "🔇",
     name: { en: "Bose QuietComfort Ultra Headphones", ja: "Bose QuietComfort Ultra Headphones" },
@@ -1483,6 +1526,7 @@ const RAW_CATALOG = [
   {
     id: "apple-airpods-max",
     imageUrl: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-compare-202409?wid=420&hei=500&fmt=jpeg&qlt=90&.v=MGJ3WGNoS1hJZng5ZTNiUkNNckE1WUNLYUZJYzNlb2M5YWlUSmxDUFM0VU1zMnAyYWJvaWNXR0hyZHB2dmJDMmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnFLMWZobVVoS25GeGxET3FhTGFDUFE",
+    price: "¥84,800",
     category: "tech",
     badge: "🍎",
     name: { en: "Apple AirPods Max", ja: "Apple AirPods Max" },
@@ -1498,6 +1542,7 @@ const RAW_CATALOG = [
   {
     id: "sennheiser-momentum-4",
     imageUrl: "https://us.sennheiser-hearing.com/cdn/shop/files/MOMENTUM_4_Black.jpg?v=1759511980",
+    price: "¥56,000",
     category: "tech",
     badge: "🎵",
     name: { en: "Sennheiser Momentum 4 Wireless", ja: "Sennheiser Momentum 4 Wireless" },
@@ -1513,6 +1558,7 @@ const RAW_CATALOG = [
   {
     id: "anker-soundcore-space-q45",
     imageUrl: "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/A3040G11_64363979-86bd-4bbf-a122-d26fadaa97cd_3840x.png?v=1751962475",
+    price: "¥14,990",
     category: "tech",
     badge: "💴",
     name: { en: "Anker Soundcore Space Q45", ja: "Anker Soundcore Space Q45" },
@@ -1529,6 +1575,7 @@ const RAW_CATALOG = [
   {
     id: "cooluli-mini-fridge-4l",
     imageUrl: "https://cooluli.com/cdn/shop/files/4lpink1.png?crop=center&height=2256&v=1712080851&width=2256",
+    price: "¥9,800",
     category: "beauty",
     badge: "🧊",
     name: { en: "Cooluli Mini Fridge 4L", ja: "Cooluli Mini Fridge 4L" },
@@ -1544,6 +1591,7 @@ const RAW_CATALOG = [
   {
     id: "astroai-mini-fridge-6l",
     imageUrl: "https://target.scene7.com/is/image/Target/GUEST_cdbffc07-25f2-485a-b21f-5a8f7be0f286",
+    price: "¥12,800",
     category: "beauty",
     badge: "❄️",
     name: { en: "AstroAI 6L Mini Fridge", ja: "AstroAI 6L Mini Fridge" },
@@ -1559,6 +1607,7 @@ const RAW_CATALOG = [
   {
     id: "cooluli-beauty-fridge-10l",
     imageUrl: "https://cooluli.com/cdn/shop/products/beauty_20light_20pink1.png?crop=center&height=3615&v=1700629408&width=3287",
+    price: "¥18,800",
     category: "beauty",
     badge: "💄",
     name: { en: "The Beauty Fridge by Cooluli 10L", ja: "The Beauty Fridge by Cooluli 10L" },
@@ -1574,6 +1623,7 @@ const RAW_CATALOG = [
   {
     id: "twinbird-hr-db07",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000793346.jpg",
+    price: "¥24,800",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "TWINBIRD HR-DB07", ja: "TWINBIRD HR-DB07" },
@@ -1588,6 +1638,7 @@ const RAW_CATALOG = [
   {
     id: "doshisha-sunruck-sr-r2002",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001467056.jpg",
+    price: "¥9,990",
     category: "beauty",
     badge: "📦",
     name: { en: "DOSHISHA SunRuck SR-R2002", ja: "DOSHISHA SunRuck SR-R2002" },
@@ -1603,6 +1654,7 @@ const RAW_CATALOG = [
   {
     id: "cosori-pro-ii-6-4l",
     imageUrl: "https://cosori.com/cdn/shop/products/01.01_WA1_CAF-P583S-KUS_2022-01-18_01copy.png?v=1762457662",
+    price: "¥17,800",
     category: "home",
     badge: "🍟",
     name: { en: "COSORI Pro II 6.4L", ja: "COSORI Pro II 6.4L" },
@@ -1618,6 +1670,7 @@ const RAW_CATALOG = [
   {
     id: "ninja-foodi-af400",
     category: "home",
+    price: "¥34,800",
     badge: "👥",
     name: { en: "Ninja Foodi MAX Dual Zone AF400", ja: "Ninja Foodi MAX Dual Zone AF400" },
     description: {
@@ -1632,6 +1685,7 @@ const RAW_CATALOG = [
   {
     id: "philips-essential-xl-hd9270",
     category: "home",
+    price: "¥29,800",
     badge: "🇳🇱",
     name: { en: "Philips Essential XL HD9270", ja: "Philips Essential XL HD9270" },
     description: {
@@ -1646,6 +1700,7 @@ const RAW_CATALOG = [
   {
     id: "cuisinart-toa-29j",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001386118.jpg",
+    price: "¥24,800",
     category: "home",
     badge: "🍞",
     name: { en: "Cuisinart TOA-29J", ja: "Cuisinart TOA-29J" },
@@ -1660,6 +1715,7 @@ const RAW_CATALOG = [
   {
     id: "yamazen-yaf-c120",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001360826.jpg",
+    price: "¥7,980",
     category: "home",
     badge: "💴",
     name: { en: "Yamazen YAF-C120", ja: "山善 YAF-C120" },
@@ -1675,8 +1731,8 @@ const RAW_CATALOG = [
   {
     id: "theragun-pro-plus",
     imageUrl: "https://www.therabody.com/cdn/shop/files/preview_images/ea9a9e93990548bb85d7588278ddbf70.thumbnail.0000000000.jpg?v=1760399032",
-    priceMin: "¥89,980",
-    priceMax: "¥99,800",
+    priceMin: "¥89,100",
+    priceMax: "¥99,000",
     category: "beauty",
     badge: "💪",
     name: { en: "Therabody Theragun PRO Plus", ja: "Therabody Theragun PRO Plus" },
@@ -1692,6 +1748,7 @@ const RAW_CATALOG = [
   {
     id: "hypervolt-2-pro",
     imageUrl: "https://target.scene7.com/is/image/Target/GUEST_2ed1a182-ee15-46cf-8a45-b542c5e02cb8?wid=300&hei=300&fmt=pjpeg",
+    price: "¥69,300",
     category: "beauty",
     badge: "🔫",
     name: { en: "Hyperice Hypervolt 2 Pro", ja: "Hyperice Hypervolt 2 Pro" },
@@ -1707,6 +1764,7 @@ const RAW_CATALOG = [
   {
     id: "bob-and-brad-c2",
     imageUrl: "https://bobbrad.com/cdn/shop/files/C2.png?v=1739439796&width=1080",
+    price: "¥9,800",
     category: "beauty",
     badge: "💴",
     name: { en: "Bob and Brad C2", ja: "Bob and Brad C2" },
@@ -1722,6 +1780,7 @@ const RAW_CATALOG = [
   {
     id: "doctorair-exagun-handy",
     imageUrl: "https://image.rakuten.co.jp/bodyplus/cabinet/reg07/11756430/lp01v2_main-.jpg",
+    price: "¥27,500",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "DOCTORAIR EXAGUN HANDY", ja: "ドクターエア エクサガン ハンディ" },
@@ -1736,6 +1795,7 @@ const RAW_CATALOG = [
   {
     id: "mytrex-rebive-mini-xs",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001419662.jpg",
+    price: "¥14,800",
     category: "beauty",
     badge: "🧳",
     name: { en: "MYTREX REBIVE MINI XS", ja: "MYTREX REBIVE MINI XS" },
@@ -1823,6 +1883,7 @@ const RAW_CATALOG = [
   {
     id: "optimum-gold-standard-2270g",
     imageUrl: "https://www.optimumnutrition.com/cdn/shop/files/GSW_Banana_2lb_FOP.png?v=1776170707&width=2500",
+    price: "¥9,800",
     category: "beauty",
     badge: "🏆",
     name: { en: "Optimum Nutrition Gold Standard 100% Whey 2.27 kg", ja: "Optimum Nutrition Gold Standard 100% Whey 2.27kg" },
@@ -1838,6 +1899,7 @@ const RAW_CATALOG = [
   {
     id: "myprotein-impact-whey-2500g",
     imageUrl: "https://static.thcdn.com/productimg/original/10530943-2175262135686325.jpg",
+    price: "¥7,990",
     category: "beauty",
     badge: "💴",
     name: { en: "Myprotein Impact Whey Protein 2.5 kg", ja: "Myprotein Impact ホエイプロテイン 2.5kg" },
@@ -1852,6 +1914,7 @@ const RAW_CATALOG = [
   {
     id: "dns-whey-g-plus-1kg",
     category: "beauty",
+    price: "¥4,800",
     badge: "🏋️",
     name: { en: "DNS Whey Protein G+ 1 kg", ja: "DNS ホエイプロテイン G+ 1kg" },
     description: {
@@ -1865,6 +1928,7 @@ const RAW_CATALOG = [
   {
     id: "meiji-savas-whey-980g",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001044261.jpg",
+    price: "¥4,980",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Meiji SAVAS Whey Protein 100 980 g", ja: "明治 SAVAS ホエイプロテイン100 980g" },
@@ -1879,6 +1943,7 @@ const RAW_CATALOG = [
   {
     id: "inputein-whey-1kg",
     category: "beauty",
+    price: "¥4,980",
     badge: "🌱",
     name: { en: "Inputein Kamikatsu Whey Protein 1 kg", ja: "Inputein 上勝ホエイプロテイン 1kg" },
     description: {
@@ -1893,6 +1958,7 @@ const RAW_CATALOG = [
   {
     id: "muji-aroma-diffuser-mj-adl2",
     imageUrl: "https://www.muji.us/cdn/shop/products/5055198210293_09_1260_700x.jpg?v=1762442356",
+    price: "¥7,990",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Muji Ultrasonic Aroma Diffuser MJ-ADL2", ja: "無印良品 超音波うるおいアロマディフューザー MJ-ADL2" },
@@ -1907,6 +1973,7 @@ const RAW_CATALOG = [
   {
     id: "vitruvi-stone-diffuser",
     imageUrl: "https://vitruvi.com/cdn/shop/files/pdp_stone-diffuser_front_white_gallery_1_v9_image.png?v=1759291810",
+    price: "¥18,800",
     category: "beauty",
     badge: "🪨",
     name: { en: "Vitruvi Stone Diffuser", ja: "Vitruvi Stone Diffuser" },
@@ -1922,6 +1989,7 @@ const RAW_CATALOG = [
   {
     id: "treeoflife-mood-air-mini",
     category: "beauty",
+    price: "¥9,900",
     badge: "🌿",
     name: { en: "Tree of Life mood air mini", ja: "生活の木 mood air mini" },
     description: {
@@ -1935,6 +2003,7 @@ const RAW_CATALOG = [
   {
     id: "at-aroma-pebble",
     category: "beauty",
+    price: "¥14,300",
     badge: "🪴",
     name: { en: "@aroma Aroma Pebble", ja: "@aroma Aroma Pebble" },
     description: {
@@ -1948,6 +2017,7 @@ const RAW_CATALOG = [
   {
     id: "innogear-500ml-diffuser",
     imageUrl: "https://www.innogear.com/cdn/shop/files/InnoGear_500ml_Essential_Oil_Diffuser_with_Remote_Control_Premium_Ultrasonic_Aromatherapy_Diffusers_Scent_Humidifier_Vaporizer_Auto-Off_Timer_for_Large_Room_Home_White_1_800x.jpg?v=1738813656",
+    price: "¥3,980",
     category: "beauty",
     badge: "💴",
     name: { en: "InnoGear Aromatherapy Diffuser 500 mL", ja: "InnoGear Aromatherapy Diffuser 500mL" },
@@ -1964,6 +2034,7 @@ const RAW_CATALOG = [
   {
     id: "apple-watch-series-10",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001652614.jpg",
+    price: "¥64,800",
     category: "tech",
     badge: "🍎",
     name: { en: "Apple Watch Series 10", ja: "Apple Watch Series 10" },
@@ -1978,6 +2049,7 @@ const RAW_CATALOG = [
   {
     id: "garmin-fenix-8-47mm",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001649227.jpg",
+    price: "¥149,800",
     category: "tech",
     badge: "⛰️",
     name: { en: "Garmin Fenix 8 47mm", ja: "Garmin Fenix 8 47mm" },
@@ -1993,6 +2065,7 @@ const RAW_CATALOG = [
   {
     id: "fitbit-charge-6",
     imageUrl: "https://www.heartratemonitorsusa.com/cdn/shop/files/fitbit-activity-monitors-black-fitbit-charge-6-activity-and-fitness-tracker-33297168662701.jpg?v=1736814159&width=1000",
+    price: "¥23,800",
     category: "tech",
     badge: "💴",
     name: { en: "Fitbit Charge 6", ja: "Fitbit Charge 6" },
@@ -2008,6 +2081,7 @@ const RAW_CATALOG = [
   {
     id: "huawei-watch-gt-5",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001656769.jpg",
+    price: "¥36,800",
     category: "tech",
     badge: "🔋",
     name: { en: "HUAWEI Watch GT 5 46mm", ja: "HUAWEI Watch GT 5 46mm" },
@@ -2022,6 +2096,7 @@ const RAW_CATALOG = [
   {
     id: "amazfit-gtr-4",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001480730.jpg",
+    price: "¥29,800",
     category: "tech",
     badge: "⌚",
     name: { en: "Amazfit GTR 4", ja: "Amazfit GTR 4" },
@@ -2038,6 +2113,7 @@ const RAW_CATALOG = [
   {
     id: "xiaomi-smart-band-9",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001645966.jpg",
+    price: "¥5,000",
     category: "fitness",
     badge: "💴",
     name: { en: "Xiaomi Smart Band 9", ja: "Xiaomi スマートバンド 9" },
@@ -2053,6 +2129,7 @@ const RAW_CATALOG = [
   {
     id: "garmin-vivosmart-5",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001443836.jpg",
+    price: "¥22,000",
     category: "fitness",
     badge: "🔋",
     name: { en: "Garmin Vivosmart 5", ja: "Garmin Vivosmart 5" },
@@ -2068,6 +2145,7 @@ const RAW_CATALOG = [
   {
     id: "apple-watch-se-2nd",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000045813.jpg",
+    price: "¥35,000",
     category: "fitness",
     badge: "🍎",
     name: { en: "Apple Watch SE 2nd Generation", ja: "Apple Watch SE 第2世代" },
@@ -2083,6 +2161,7 @@ const RAW_CATALOG = [
   {
     id: "samsung-galaxy-fit-3",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000047108.jpg",
+    price: "¥8,000",
     category: "fitness",
     badge: "📱",
     name: { en: "Samsung Galaxy Fit 3", ja: "Samsung Galaxy Fit 3" },
@@ -2099,6 +2178,7 @@ const RAW_CATALOG = [
   {
     id: "withings-body-comp",
     imageUrl: "https://www-assets.withings.com/pages/products/body-comp/media/hero_2024/comphero_en.png",
+    price: "¥30,000",
     category: "fitness",
     badge: "❤️",
     name: { en: "Withings Body Comp", ja: "Withings Body Comp" },
@@ -2114,6 +2194,7 @@ const RAW_CATALOG = [
   {
     id: "garmin-index-s2",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000035022.jpg",
+    price: "¥22,000",
     category: "fitness",
     badge: "🔵",
     name: { en: "Garmin Index S2", ja: "Garmin Index S2" },
@@ -2129,6 +2210,7 @@ const RAW_CATALOG = [
   {
     id: "tanita-rd-906",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000021907.jpg",
+    price: "¥30,000",
     category: "fitness",
     badge: "🏥",
     name: { en: "Tanita RD-906", ja: "タニタ RD-906" },
@@ -2143,6 +2225,7 @@ const RAW_CATALOG = [
   {
     id: "xiaomi-body-composition-scale-2",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001363705.jpg",
+    price: "¥3,000",
     category: "fitness",
     badge: "💴",
     name: { en: "Xiaomi Mi Body Composition Scale 2", ja: "Xiaomi 体組成計 2" },
@@ -2158,6 +2241,7 @@ const RAW_CATALOG = [
   {
     id: "anker-eufy-smart-scale-p2-pro",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000040593.jpg",
+    price: "¥8,000",
     category: "fitness",
     badge: "📶",
     name: { en: "Anker Eufy Smart Scale P2 Pro", ja: "Anker Eufy スマート体重計 P2 Pro" },
@@ -2174,6 +2258,8 @@ const RAW_CATALOG = [
   {
     id: "lululook-ipad-stand",
     imageUrl: "https://www.lululook.com/cdn/shop/files/1_8eb85562-e282-486a-a6cd-8890009ca764.jpg?v=1737035453&width=5000",
+    priceMin: "¥9,800",
+    priceMax: "¥12,800",
     category: "tech",
     badge: "🧲",
     name: { en: "Lululook Magnetic iPad Stand", ja: "Lululook マグネット式iPadスタンド" },
@@ -2189,6 +2275,7 @@ const RAW_CATALOG = [
   {
     id: "moft-float-stand",
     imageUrl: "https://www.moft.us/cdn/shop/files/tripod_stand3_ae8adacd-5ee1-43d1-b0ef-3641a1c7b070.png?v=1745751848",
+    price: "¥8,980",
     category: "tech",
     badge: "💼",
     name: { en: "MOFT Float", ja: "MOFT Float" },
@@ -2204,6 +2291,8 @@ const RAW_CATALOG = [
   {
     id: "lamicall-tablet-stand",
     category: "tech",
+    priceMin: "¥1,680",
+    priceMax: "¥2,480",
     badge: "🪑",
     name: { en: "Lamicall Adjustable Tablet Stand", ja: "Lamicall 角度調整タブレットスタンド" },
     description: {
@@ -2218,6 +2307,8 @@ const RAW_CATALOG = [
   {
     id: "uperfect-tablet-floor-stand",
     category: "tech",
+    priceMin: "¥5,980",
+    priceMax: "¥8,980",
     badge: "🛏️",
     name: { en: "UPERFECT Tablet Floor Stand", ja: "UPERFECT タブレット フロアスタンド" },
     description: {
@@ -2231,6 +2322,8 @@ const RAW_CATALOG = [
   {
     id: "twelve-south-hoverbar-duo",
     imageUrl: "https://www.twelvesouth.com/cdn/shop/products/12-2144_1_7e8713f1-cf6c-4e3e-99b3-38a587f6c56e_1200x1200.jpg?v=1719418274",
+    priceMin: "¥11,800",
+    priceMax: "¥13,800",
     category: "tech",
     badge: "✨",
     name: { en: "Twelve South HoverBar Duo", ja: "Twelve South HoverBar Duo" },
@@ -2542,6 +2635,7 @@ const RAW_CATALOG = [
   {
     id: "logicool-g-pro-x-superlight-2",
     imageUrl: "https://resource.logitechg.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/pro-x-superlight-2/new-gallery-assets-2025/pro-x-superlight-2-mice-top-angle-white-gallery-1.png",
+    price: "¥20,000",
     category: "tech",
     badge: "🖱️",
     name: { en: "Logicool G Pro X Superlight 2", ja: "Logicool G Pro X Superlight 2" },
@@ -2557,6 +2651,7 @@ const RAW_CATALOG = [
   {
     id: "razer-deathadder-v3",
     imageUrl: "https://m.media-amazon.com/images/I/2153E0QymqL.jpg",
+    price: "¥8,000",
     category: "tech",
     badge: "🐍",
     name: { en: "Razer DeathAdder V3", ja: "Razer DeathAdder V3" },
@@ -2572,6 +2667,7 @@ const RAW_CATALOG = [
   {
     id: "logicool-mx-master-3s",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001445408.jpg",
+    price: "¥15,000",
     category: "tech",
     badge: "🏆",
     name: { en: "Logicool MX Master 3S", ja: "Logicool MX Master 3S" },
@@ -2587,6 +2683,7 @@ const RAW_CATALOG = [
   {
     id: "elecom-m-xgm20dlbk",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000815879.jpg",
+    price: "¥8,000",
     category: "tech",
     badge: "🇯🇵",
     name: { en: "Elecom HUGE EX M-XGM20DLBK", ja: "エレコム HUGE EX M-XGM20DLBK" },
@@ -2601,6 +2698,7 @@ const RAW_CATALOG = [
   {
     id: "microsoft-arc-mouse",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000999680.jpg",
+    price: "¥8,000",
     category: "tech",
     badge: "🌙",
     name: { en: "Microsoft Arc Mouse", ja: "Microsoft Arc Mouse" },
@@ -2616,6 +2714,7 @@ const RAW_CATALOG = [
   {
     id: "logitech-brio-505",
     imageUrl: "https://resource.logitech.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/brio-505/gallery/brio-505-gallery-offwhite-1.png?v=1",
+    price: "¥18,000",
     category: "tech",
     badge: "📷",
     name: { en: "Logitech Brio 505", ja: "Logicool Brio 505" },
@@ -2631,6 +2730,7 @@ const RAW_CATALOG = [
   {
     id: "anker-powerconf-c200",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001422025.jpg",
+    price: "¥7,000",
     category: "tech",
     badge: "💰",
     name: { en: "Anker PowerConf C200", ja: "Anker PowerConf C200" },
@@ -2646,6 +2746,7 @@ const RAW_CATALOG = [
   {
     id: "elgato-facecam-pro",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001553581.jpg",
+    price: "¥42,000",
     category: "tech",
     badge: "🎬",
     name: { en: "Elgato Facecam Pro", ja: "Elgato Facecam Pro" },
@@ -2661,6 +2762,7 @@ const RAW_CATALOG = [
   {
     id: "elecom-ucam-cz30fbk",
     category: "tech",
+    price: "¥5,000",
     badge: "🇯🇵",
     name: { en: "Elecom UCAM-CZ30FBKF", ja: "エレコム UCAM-CZ30FBKF" },
     description: {
@@ -2674,6 +2776,8 @@ const RAW_CATALOG = [
   {
     id: "microsoft-lifecam-studio",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000216551.jpg",
+    priceMin: "¥6,000",
+    priceMax: "¥8,000",
     category: "tech",
     badge: "💼",
     name: { en: "Microsoft LifeCam Studio", ja: "Microsoft LifeCam Studio" },
@@ -2689,6 +2793,7 @@ const RAW_CATALOG = [
   {
     id: "jbl-flip-6",
     imageUrl: "https://images.samsung.com/is/image/samsung/p6pim/us/jblflip6blkam/gallery/us-jbl-flip6-jblflip6blkam-550283072?$product-details-jpg$",
+    price: "¥15,000",
     category: "tech",
     badge: "🔊",
     name: { en: "JBL Flip 6", ja: "JBL Flip 6" },
@@ -2704,6 +2809,7 @@ const RAW_CATALOG = [
   {
     id: "sony-srs-xb33",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001265903.jpg",
+    price: "¥12,000",
     category: "tech",
     badge: "🔊",
     name: { en: "Sony SRS-XB33", ja: "Sony SRS-XB33" },
@@ -2719,6 +2825,7 @@ const RAW_CATALOG = [
   {
     id: "ultimate-ears-boom-3",
     imageUrl: "https://resource.ultimateears.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/ue/products/wireless-speakers/boom-3/lagoon-blue/ue-boom3-lagoon-blue-front.png?v=1",
+    price: "¥15,000",
     category: "tech",
     badge: "🔊",
     name: { en: "Ultimate Ears BOOM 3", ja: "Ultimate Ears BOOM 3" },
@@ -2734,6 +2841,7 @@ const RAW_CATALOG = [
   {
     id: "bose-soundlink-flex",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001436926.jpg",
+    price: "¥20,000",
     category: "tech",
     badge: "🔊",
     name: { en: "Bose SoundLink Flex", ja: "Bose SoundLink Flex" },
@@ -2749,6 +2857,7 @@ const RAW_CATALOG = [
   {
     id: "anker-soundcore-3",
     imageUrl: "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/A3117011-Soundcore_3_-2000x2000-01_3840x.png?v=1752034171",
+    price: "¥5,000",
     category: "tech",
     badge: "🔊",
     name: { en: "Anker Soundcore 3", ja: "Anker Soundcore 3" },
@@ -2765,6 +2874,7 @@ const RAW_CATALOG = [
   {
     id: "tempur-original-supreme",
     imageUrl: "https://media.tempur.com/i/tempursealy/UKORIGMSUPGBR/OUTLET-Original-Supreme-Mattresses?$pdp-poi$",
+    price: "¥154,000",
     category: "home",
     badge: "🛌",
     name: { en: "Tempur Original Supreme", ja: "テンピュール オリジナル スプリーム" },
@@ -2779,6 +2889,7 @@ const RAW_CATALOG = [
   {
     id: "nishikawa-air-si",
     category: "home",
+    price: "¥66,000",
     badge: "🟦",
     name: { en: "Nishikawa [AiR] SI", ja: "西川 [エアー] SI" },
     description: {
@@ -2792,6 +2903,7 @@ const RAW_CATALOG = [
   {
     id: "coala-new-mattress",
     imageUrl: "https://jp.koala.com/cdn/shop/files/JP_Koala_Original_Mattress_Clear_BG_Diagonal_Double.png?v=1747892221&width=1900",
+    price: "¥69,900",
     category: "home",
     badge: "🐨",
     name: { en: "Coala (New Coala) Mattress", ja: "コアラ(ニューコアラ)マットレス" },
@@ -2806,6 +2918,7 @@ const RAW_CATALOG = [
   {
     id: "casper-original",
     imageUrl: "https://casper.com/cdn/shop/files/The-One-PDP-hero-with-Consumer-Reports.jpg?v=1773690918&width=300",
+    price: "¥99,000",
     category: "home",
     badge: "🛏️",
     name: { en: "Casper Original", ja: "キャスパー オリジナル" },
@@ -2821,6 +2934,7 @@ const RAW_CATALOG = [
   {
     id: "nell-mattress",
     imageUrl: "https://nell.life/data/product/mattress-original/thumbnail.webp",
+    price: "¥75,000",
     category: "home",
     badge: "🌀",
     name: { en: "NELL Mattress", ja: "NELL マットレス" },
@@ -2836,6 +2950,7 @@ const RAW_CATALOG = [
   {
     id: "breville-barista-pro-bes878",
     category: "home",
+    price: "¥119,800",
     badge: "☕",
     name: { en: "Breville Barista Pro BES878", ja: "ブレビル バリスタ プロ BES878" },
     description: {
@@ -2849,6 +2964,7 @@ const RAW_CATALOG = [
   {
     id: "delonghi-magnifica-start-ecam22020",
     category: "home",
+    price: "¥98,000",
     badge: "🤖",
     name: { en: "De'Longhi Magnifica Start ECAM22020B", ja: "デロンギ マニフィカ スタート ECAM22020B" },
     description: {
@@ -2862,6 +2978,7 @@ const RAW_CATALOG = [
   {
     id: "balmuda-the-brew-k06a",
     category: "home",
+    price: "¥66,000",
     badge: "🫖",
     name: { en: "Balmuda The Brew K06A", ja: "バルミューダ ザ・ブリュー K06A" },
     description: {
@@ -2875,6 +2992,7 @@ const RAW_CATALOG = [
   {
     id: "nespresso-vertuo-next",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001224742.jpg",
+    price: "¥21,800",
     category: "home",
     badge: "🟫",
     name: { en: "Nespresso Vertuo Next", ja: "ネスプレッソ ヴァーチュオ ネクスト" },
@@ -2890,6 +3008,7 @@ const RAW_CATALOG = [
   {
     id: "tiger-acc-a060",
     category: "home",
+    price: "¥32,800",
     badge: "🐯",
     name: { en: "Tiger ACC-A060 PCO-A", ja: "タイガー ACC-A060 PCO-A" },
     description: {
@@ -2904,6 +3023,7 @@ const RAW_CATALOG = [
   {
     id: "delonghi-dedica-ec685",
     imageUrl: "https://www.wholelattelove.com/cdn/shop/products/DedicaDeluxeStainless-Main.jpg?v=1640212878&width=1100",
+    price: "¥25,000",
     category: "home",
     badge: "☕",
     name: { en: "De'Longhi Dedica EC685", ja: "デロンギ Dedica EC685" },
@@ -2919,6 +3039,7 @@ const RAW_CATALOG = [
   {
     id: "breville-barista-express-bes870",
     imageUrl: "https://assets.breville.com/cdn-cgi/image/width=1300,format=auto/Dynamic_Bundle/US/BES870XL_Transparent_1300x1300.png?pdp",
+    price: "¥90,000",
     category: "home",
     badge: "🔧",
     name: { en: "Breville Barista Express BES870", ja: "ブレビル バリスタ エクスプレス BES870" },
@@ -2934,6 +3055,7 @@ const RAW_CATALOG = [
   {
     id: "delonghi-magnifica-s-ecam22110",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001420364.jpg",
+    price: "¥65,000",
     category: "home",
     badge: "🤖",
     name: { en: "De'Longhi Magnifica S ECAM22.110", ja: "デロンギ マグニフィカS ECAM22.110" },
@@ -2948,6 +3070,7 @@ const RAW_CATALOG = [
   {
     id: "philips-series-2200-ep2220",
     imageUrl: "https://images.philips.com/is/image/philipsconsumer/vrs_514c6884_aac0_4140_950b6d8d713ef25f?wid=700&hei=700&$pnglarge$",
+    price: "¥45,000",
     category: "home",
     badge: "💧",
     name: { en: "Philips Series 2200 EP2220/14", ja: "フィリップス シリーズ2200 EP2220/14" },
@@ -2963,6 +3086,7 @@ const RAW_CATALOG = [
   {
     id: "balmuda-the-pot",
     imageUrl: "https://us.balmuda.com/cdn/shop/files/Kettle-Black-Front_1dfbe93e-d3c0-42ac-80cc-7cc7884a8d62_grande.png?v=1741068748",
+    price: "¥15,000",
     category: "home",
     badge: "🫖",
     name: { en: "Balmuda The Pot", ja: "バルミューダ ザ・ポット" },
@@ -3037,6 +3161,7 @@ const RAW_CATALOG = [
   {
     id: "vitamix-a3500i",
     imageUrl: "https://www.vitamix.com/media/catalog/product/a/3/a3500_brushedstainless_build_2500x2500.png",
+    price: "¥143,000",
     category: "home",
     badge: "🥤",
     name: { en: "Vitamix A3500i", ja: "Vitamix A3500i" },
@@ -3052,6 +3177,7 @@ const RAW_CATALOG = [
   {
     id: "vitantonio-vbl-100",
     category: "home",
+    price: "¥7,500",
     badge: "🍓",
     name: { en: "Vitantonio My Bottle Blender VBL-100", ja: "ビタントニオ マイボトルブレンダー VBL-100" },
     description: {
@@ -3065,6 +3191,7 @@ const RAW_CATALOG = [
   {
     id: "tescom-tm856",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001134183.jpg",
+    price: "¥9,900",
     category: "home",
     badge: "🇯🇵",
     name: { en: "TESCOM Pure Natura TM856", ja: "テスコム ピュアナチュラ TM856" },
@@ -3079,6 +3206,7 @@ const RAW_CATALOG = [
   {
     id: "oxo-on-compact-blender",
     category: "home",
+    price: "¥39,800",
     badge: "🇺🇸",
     name: { en: "OXO On Compact Blender", ja: "OXO On Compact Blender" },
     description: {
@@ -3093,6 +3221,7 @@ const RAW_CATALOG = [
   {
     id: "iris-ohyama-ifm-s30g",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001364362.jpg",
+    price: "¥4,378",
     category: "home",
     badge: "💴",
     name: { en: "Iris Ohyama Mill Blender IFM-S30G", ja: "アイリスオーヤマ ミルサー IFM-S30G" },
@@ -3108,6 +3237,7 @@ const RAW_CATALOG = [
   {
     id: "cubo-ai-plus",
     imageUrl: "https://us.getcubo.com/cdn/shop/files/EN_Gen3-product_SSB_carousel-1.png?v=1765258356",
+    price: "¥39,800",
     category: "home",
     badge: "👶",
     name: { en: "Cubo Ai Plus", ja: "Cubo Ai Plus" },
@@ -3122,6 +3252,7 @@ const RAW_CATALOG = [
   {
     id: "eufy-spaceview-pro",
     category: "home",
+    price: "¥17,800",
     badge: "📡",
     name: { en: "Anker Eufy SpaceView Pro", ja: "Anker Eufy SpaceView Pro" },
     description: {
@@ -3136,6 +3267,7 @@ const RAW_CATALOG = [
   {
     id: "nanit-pro-smart-camera",
     imageUrl: "https://www.nanit.com/cdn/shop/files/1_-_SYSTEM.jpg?v=1763668478",
+    price: "¥45,000",
     category: "home",
     badge: "📊",
     name: { en: "Nanit Pro Smart Camera", ja: "Nanit Pro Smart Camera" },
@@ -3151,6 +3283,7 @@ const RAW_CATALOG = [
   {
     id: "owlet-cam-2",
     imageUrl: "https://www.macrobaby.com/cdn/shop/files/owlet-baby-smart-monitor-cam-2-white_image_1_400x.jpg?v=1769319952",
+    price: "¥28,800",
     category: "home",
     badge: "🦉",
     name: { en: "Owlet Cam 2", ja: "Owlet Cam 2" },
@@ -3166,6 +3299,7 @@ const RAW_CATALOG = [
   {
     id: "babysense-v65",
     imageUrl: "https://www.babysensemonitors.com/cdn/shop/products/parent-unit-for-babysense-video-baby-monitor-v65-413519.jpg?v=1751038526",
+    price: "¥18,900",
     category: "home",
     badge: "📺",
     name: { en: "Babysense V65 5-inch", ja: "Babysense V65 5型" },
@@ -3255,6 +3389,7 @@ const RAW_CATALOG = [
   {
     id: "balmuda-the-toaster-k11a",
     imageUrl: "https://wafuu.com/cdn/shop/files/balmuda-the-toaster-k11a-wh-100v-527624.jpg?v=1731079256",
+    price: "¥30,800",
     category: "home",
     badge: "🍞",
     name: { en: "Balmuda The Toaster K11A", ja: "バルミューダ ザ・トースター K11A" },
@@ -3269,6 +3404,7 @@ const RAW_CATALOG = [
   {
     id: "aladdin-aet-gs13c",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001466147.jpg",
+    price: "¥17,600",
     category: "home",
     badge: "🔥",
     name: { en: "Aladdin Graphite Grill & Toaster AET-GS13C", ja: "アラジン グラファイト グリル&トースター AET-GS13C" },
@@ -3283,6 +3419,7 @@ const RAW_CATALOG = [
   {
     id: "mitsubishi-bread-oven-to-st1",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001141338.jpg",
+    price: "¥34,000",
     category: "home",
     badge: "🥖",
     name: { en: "Mitsubishi Bread Oven TO-ST1-T", ja: "三菱 ブレッドオーブン TO-ST1-T" },
@@ -3297,6 +3434,7 @@ const RAW_CATALOG = [
   {
     id: "panasonic-bistro-nt-d700",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001314979.jpg",
+    price: "¥42,000",
     category: "home",
     badge: "🍕",
     name: { en: "Panasonic Bistro NT-D700", ja: "パナソニック ビストロ NT-D700" },
@@ -3311,6 +3449,7 @@ const RAW_CATALOG = [
   {
     id: "zojirushi-kongari-et-wma22",
     category: "home",
+    price: "¥9,900",
     badge: "💴",
     name: { en: "Zojirushi Kongari Club ET-WMA22", ja: "象印 こんがり倶楽部 ET-WMA22" },
     description: {
@@ -3325,6 +3464,7 @@ const RAW_CATALOG = [
   {
     id: "dyson-v15-detect-absolute",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001357337.jpg",
+    price: "¥98,780",
     category: "home",
     badge: "🔦",
     name: { en: "Dyson V15 Detect Absolute", ja: "ダイソン V15 Detect Absolute" },
@@ -3340,6 +3480,7 @@ const RAW_CATALOG = [
   {
     id: "eufy-mach-v1",
     imageUrl: "https://www.ankerjapan.com/cdn/shop/products/T2750001.jpg?crop=center&height=582&v=1680159989&width=582",
+    price: "¥45,800",
     category: "home",
     badge: "💧",
     name: { en: "Anker Eufy MACH V1", ja: "Anker Eufy MACH V1" },
@@ -3355,6 +3496,7 @@ const RAW_CATALOG = [
   {
     id: "shark-cs501j",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001312620.jpg",
+    price: "¥69,800",
     category: "home",
     badge: "🦈",
     name: { en: "Shark EVOPOWER SYSTEM iQ+ CS501J", ja: "シャーク EVOPOWER SYSTEM iQ+ CS501J" },
@@ -3369,6 +3511,7 @@ const RAW_CATALOG = [
   {
     id: "tineco-pure-one-s15-pet",
     imageUrl: "https://static-ussite.tineco.com/S15%20PET-PC.jpg_a333bb7d-0.jpg",
+    price: "¥69,800",
     category: "home",
     badge: "🐾",
     name: { en: "Tineco Pure One S15 Pet", ja: "Tineco Pure One S15 Pet" },
@@ -3383,6 +3526,7 @@ const RAW_CATALOG = [
   {
     id: "hitachi-pv-bl3k",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001516159.jpg",
+    price: "¥45,800",
     category: "home",
     badge: "🪶",
     name: { en: "Hitachi PV-BL3K", ja: "日立 PV-BL3K" },
@@ -3398,6 +3542,7 @@ const RAW_CATALOG = [
   {
     id: "manduka-pro-6mm",
     category: "beauty",
+    price: "¥17,600",
     badge: "🧘",
     name: { en: "Manduka PRO Mat 6mm", ja: "Manduka PRO Mat 6mm" },
     description: {
@@ -3411,6 +3556,7 @@ const RAW_CATALOG = [
   {
     id: "lululemon-take-form-5mm",
     category: "beauty",
+    price: "¥13,200",
     badge: "🌿",
     name: { en: "lululemon Take Form Mat 5mm", ja: "lululemon Take Form Mat 5mm" },
     description: {
@@ -3424,6 +3570,7 @@ const RAW_CATALOG = [
   {
     id: "liforme-original-4-2mm",
     category: "beauty",
+    price: "¥22,800",
     badge: "📐",
     name: { en: "Liforme Original Yoga Mat 4.2mm", ja: "Liforme Original Yoga Mat 4.2mm" },
     description: {
@@ -3437,6 +3584,7 @@ const RAW_CATALOG = [
   {
     id: "sukala-yoga-mat-pu",
     category: "beauty",
+    price: "¥9,900",
     badge: "🇯🇵",
     name: { en: "SUKALA Yoga Mat (PU type)", ja: "SUKALA ヨガマット PUタイプ" },
     description: {
@@ -3450,6 +3598,7 @@ const RAW_CATALOG = [
   {
     id: "funcy-yoga-mat-8mm",
     category: "beauty",
+    price: "¥3,180",
     badge: "💴",
     name: { en: "FUNCY Yoga Mat 8mm Thick", ja: "FUNCY ヨガマット 8mm 厚手" },
     description: {
@@ -3464,6 +3613,7 @@ const RAW_CATALOG = [
   {
     id: "nike-pegasus-41",
     imageUrl: "https://cdn.media.amplience.net/i/scheelspoc/19848801003?w=1200&h=1200&fmt=jpg",
+    price: "¥16,000",
     category: "fitness",
     badge: "👟",
     name: { en: "Nike Air Zoom Pegasus 41", ja: "ナイキ エア ズーム ペガサス 41" },
@@ -3478,6 +3628,7 @@ const RAW_CATALOG = [
   {
     id: "asics-gel-kayano-31",
     imageUrl: "https://m.media-amazon.com/images/I/41P-u8J+IbL._SL500_.jpg",
+    price: "¥22,000",
     category: "fitness",
     badge: "🏃",
     name: { en: "Asics Gel-Kayano 31", ja: "アシックス ゲルカヤノ 31" },
@@ -3492,6 +3643,7 @@ const RAW_CATALOG = [
   {
     id: "brooks-ghost-16",
     imageUrl: "https://shop.r10s.jp/nishinagasports/cabinet/12843036/12849828/brm4183-130-1.gif",
+    price: "¥16,500",
     category: "fitness",
     badge: "👟",
     name: { en: "Brooks Ghost 16", ja: "ブルックス ゴースト 16" },
@@ -3507,6 +3659,7 @@ const RAW_CATALOG = [
   {
     id: "new-balance-880v14",
     imageUrl: "https://www.supersports.com/ec/img/1/7910301/8539952_l.jpg",
+    price: "¥17,000",
     category: "fitness",
     badge: "🔵",
     name: { en: "New Balance Fresh Foam 880v14", ja: "ニューバランス Fresh Foam 880v14" },
@@ -3521,6 +3674,7 @@ const RAW_CATALOG = [
   {
     id: "hoka-clifton-9",
     imageUrl: "https://m.media-amazon.com/images/I/21f954wCOiL._SL500_.jpg",
+    price: "¥19,000",
     category: "fitness",
     badge: "☁️",
     name: { en: "Hoka Clifton 9", ja: "ホカ クリフトン 9" },
@@ -3537,6 +3691,8 @@ const RAW_CATALOG = [
   {
     id: "nike-brasilia-9-5",
     category: "fitness",
+    priceMin: "¥6,000",
+    priceMax: "¥9,000",
     badge: "👜",
     name: { en: "Nike Brasilia 9.5 Training Duffel Bag", ja: "ナイキ ブラジリア 9.5 トレーニングダッフルバッグ" },
     description: {
@@ -3550,6 +3706,8 @@ const RAW_CATALOG = [
   {
     id: "under-armour-undeniable-5",
     category: "fitness",
+    priceMin: "¥7,000",
+    priceMax: "¥12,000",
     badge: "💧",
     name: { en: "Under Armour Undeniable 5.0 Duffel Bag", ja: "アンダーアーマー アンデナイアブル 5.0 ダッフルバッグ" },
     description: {
@@ -3563,6 +3721,8 @@ const RAW_CATALOG = [
   {
     id: "adidas-defender-4",
     category: "fitness",
+    priceMin: "¥6,000",
+    priceMax: "¥8,000",
     badge: "♻️",
     name: { en: "Adidas Defender 4 Duffel Bag", ja: "アディダス ディフェンダー 4 ダッフルバッグ" },
     description: {
@@ -3576,6 +3736,8 @@ const RAW_CATALOG = [
   {
     id: "anello-gym-bag",
     category: "fitness",
+    priceMin: "¥4,000",
+    priceMax: "¥7,000",
     badge: "🎒",
     name: { en: "Anello Gym Bag", ja: "アネロ ジムバッグ" },
     description: {
@@ -3589,6 +3751,8 @@ const RAW_CATALOG = [
   {
     id: "the-north-face-base-camp",
     category: "fitness",
+    priceMin: "¥16,000",
+    priceMax: "¥18,000",
     badge: "🏔️",
     name: { en: "The North Face Base Camp Duffel S", ja: "ザ・ノース・フェイス ベースキャンプ ダッフル S" },
     description: {
@@ -3603,6 +3767,8 @@ const RAW_CATALOG = [
   {
     id: "nike-brasilia-9-5-training-duffel",
     imageUrl: "https://jdsports.ca/cdn/shop/products/DH7710010_brsla_9.5_med_trng_duffel_10.jpg?v=1762542892&width=1200",
+    priceMin: "¥6,000",
+    priceMax: "¥9,000",
     category: "fitness",
     badge: "👜",
     name: { en: "Nike Brasilia 9.5 Training Duffel Bag (Medium)", ja: "ナイキ ブラジリア 9.5 トレーニングダッフルバッグ (M)" },
@@ -3621,6 +3787,8 @@ const RAW_CATALOG = [
   {
     id: "under-armour-undeniable-5-duffel",
     imageUrl: "https://m.media-amazon.com/images/I/31njdMDbwvL._SL500_.jpg",
+    priceMin: "¥7,000",
+    priceMax: "¥12,000",
     category: "fitness",
     badge: "💧",
     name: { en: "Under Armour Undeniable 5.0 MD Duffle Bag", ja: "アンダーアーマー アンデナイアブル 5.0 MD ダッフルバッグ" },
@@ -3639,6 +3807,8 @@ const RAW_CATALOG = [
   {
     id: "gym-shark-everyday-gym-bag",
     imageUrl: "https://cdn.shopify.com/s/files/1/0156/6146/files/images-EverydayHoldallMBlack_I3A2H_BBBB53_3840x.jpg?v=1770722507",
+    priceMin: "¥8,000",
+    priceMax: "¥12,000",
     category: "fitness",
     badge: "🦈",
     name: { en: "Gymshark Everyday Gym Bag", ja: "ジムシャーク エブリデイジムバッグ" },
@@ -3657,6 +3827,8 @@ const RAW_CATALOG = [
   {
     id: "adidas-defender-4-duffel",
     category: "fitness",
+    priceMin: "¥5,000",
+    priceMax: "¥7,000",
     badge: "♻️",
     name: { en: "Adidas Defender 4 Small Duffel Bag", ja: "アディダス ディフェンダー 4 スモール ダッフルバッグ" },
     description: {
@@ -3674,6 +3846,8 @@ const RAW_CATALOG = [
   {
     id: "gold-gym-gym-bag-backpack",
     imageUrl: "https://shop.goldsgym.com/cdn/shop/files/Golds148_USnatural_012_3x4_c8032c3a-42f7-40c8-9739-2d0a39ad1877.jpg?crop=center&height=2133&v=1775589631&width=1600",
+    priceMin: "¥3,000",
+    priceMax: "¥5,000",
     category: "fitness",
     badge: "🏋️",
     name: { en: "Gold's Gym Duffel Bag", ja: "ゴールドジム ダッフルバッグ" },
@@ -3693,6 +3867,8 @@ const RAW_CATALOG = [
   {
     id: "hydro-flask-32oz",
     imageUrl: "https://eastsidesports.com/cdn/shop/products/32-oz-wide-mouth-pacific.jpg?v=1747431980&width=1200",
+    priceMin: "¥5,000",
+    priceMax: "¥7,000",
     category: "fitness",
     badge: "💧",
     name: { en: "Hydro Flask 32oz Wide Mouth", ja: "ハイドロフラスク 32oz ワイドマウス" },
@@ -3708,6 +3884,8 @@ const RAW_CATALOG = [
   {
     id: "stanley-quencher-30oz",
     imageUrl: "https://item-shopping.c.yimg.jp/i/l/lbreath_10866300401_i_20260409191003",
+    priceMin: "¥5,000",
+    priceMax: "¥8,000",
     category: "fitness",
     badge: "🥤",
     name: { en: "Stanley Quencher 30oz", ja: "スタンレー クエンチャー 30oz" },
@@ -3722,6 +3900,8 @@ const RAW_CATALOG = [
   {
     id: "nalgene-32oz",
     imageUrl: "https://nalgene.com/wp-content/uploads/2024/01/32oz-WM-Periwinkle-Front_V2-505x757.jpg",
+    priceMin: "¥1,500",
+    priceMax: "¥2,500",
     category: "fitness",
     badge: "🥾",
     name: { en: "Nalgene 32oz Wide Mouth Tritan", ja: "ナルゲン 32oz ワイドマウス Tritan" },
@@ -3737,6 +3917,8 @@ const RAW_CATALOG = [
   {
     id: "thermos-jni-502",
     imageUrl: "https://kiichin.com/cdn/shop/products/Thermos-Water-Bottle-Made-In-Japan-Vacuum-Insulated-Mobile-Mug-500Ml-Button-Jny502-Btn-Japan-Figure-4562344367370-0_1024x.jpg?v=1691560822",
+    priceMin: "¥2,500",
+    priceMax: "¥4,000",
     category: "fitness",
     badge: "🚂",
     name: { en: "Thermos JNI-502", ja: "サーモス JNI-502" },
@@ -3751,6 +3933,8 @@ const RAW_CATALOG = [
   {
     id: "klean-kanteen-20oz",
     imageUrl: "https://www.kleankanteen.jp/cdn/shop/products/K20TKWPCC-BS-T_1024x.jpg?v=1759296037",
+    priceMin: "¥4,000",
+    priceMax: "¥6,000",
     category: "fitness",
     badge: "☕",
     name: { en: "Klean Kanteen 20oz TKWide", ja: "クリーンカンティーン 20oz TKWide" },
@@ -3915,6 +4099,7 @@ const RAW_CATALOG = [
   {
     id: "fujifilm-instax-mini-12",
     imageUrl: "https://asset.fujifilm.com/www/us/files/2023-02/b1a3e1e92bdb57535543849b294c654c/pic_mini12_ov_01.png",
+    price: "¥8,000",
     category: "tech",
     badge: "📸",
     name: { en: "Fujifilm Instax Mini 12", ja: "フジフイルム Instax Mini 12" },
@@ -3930,6 +4115,7 @@ const RAW_CATALOG = [
   {
     id: "fujifilm-instax-wide-300",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000709266.jpg",
+    price: "¥12,000",
     category: "tech",
     badge: "📷",
     name: { en: "Fujifilm Instax Wide 300", ja: "フジフイルム Instax Wide 300" },
@@ -3944,6 +4130,7 @@ const RAW_CATALOG = [
   {
     id: "polaroid-now-plus",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001417245.jpg",
+    price: "¥18,000",
     category: "tech",
     badge: "🎨",
     name: { en: "Polaroid Now+", ja: "Polaroid Now+" },
@@ -3959,6 +4146,7 @@ const RAW_CATALOG = [
   {
     id: "kodak-mini-shot-3-retro",
     imageUrl: "https://kodakphotoprinter.com/cdn/shop/files/B084MKQV4N.MAIN.jpg?v=1766158416&width=2000",
+    price: "¥10,000",
     category: "tech",
     badge: "🖨️",
     name: { en: "Kodak Mini Shot 3 Retro", ja: "Kodak Mini Shot 3 Retro" },
@@ -3974,6 +4162,7 @@ const RAW_CATALOG = [
   {
     id: "canon-ivy-cliq-plus-2",
     imageUrl: "https://www.usa.canon.com/content/dam/canon-assets-(no-crop-applied)/newsroom/2020/20200916-printers/ivy_cliq-2b2_rosegold_back.jpg",
+    price: "¥15,000",
     category: "tech",
     badge: "📱",
     name: { en: "Canon IVY CLIQ+2", ja: "Canon IVY CLIQ+2" },
@@ -3990,6 +4179,8 @@ const RAW_CATALOG = [
   {
     id: "global-g-2-chefs-knife",
     imageUrl: "https://www.globalknives.co.uk/cdn/shop/files/G-2.jpg?v=1758469990&width=1780",
+    priceMin: "¥20,000",
+    priceMax: "¥25,000",
     category: "food",
     badge: "🔪",
     name: { en: "Global G-2 Chef's Knife", ja: "グローバル G-2 牛刀" },
@@ -4005,6 +4196,8 @@ const RAW_CATALOG = [
   {
     id: "zwilling-four-star-set",
     imageUrl: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dw11802e30/images/large/35297-000_2.jpg",
+    priceMin: "¥40,000",
+    priceMax: "¥50,000",
     category: "food",
     badge: "⭐",
     name: { en: "Zwilling Four Star 7-Piece Block Set", ja: "ツヴィリング 四つ星 7点ブロックセット" },
@@ -4020,6 +4213,8 @@ const RAW_CATALOG = [
   {
     id: "global-knife-block-set",
     imageUrl: "https://www.hartsofstur.com/media/catalog/product/G/-/G-836KB1A-Global-Knife-Block-Set-with-6-Knives.jpg",
+    priceMin: "¥60,000",
+    priceMax: "¥80,000",
     category: "food",
     badge: "🗡️",
     name: { en: "Global G-836/KB 7-Piece Block Set", ja: "グローバル G-836/KB 7点ブロックセット" },
@@ -4034,6 +4229,8 @@ const RAW_CATALOG = [
   {
     id: "victorinox-fibrox-pro",
     imageUrl: "https://imageengine.victorinox.com/transform/21b443a6-0c04-4d65-bf17-3cc4f42fa6a7/CUT_5-2063-20_S1?io=transform%3Abackground%2Ccolor%3AF0F0F0&io=transform%3Afit%2Cwidth%3A900%2Cheight%3A650&quality=100",
+    priceMin: "¥6,000",
+    priceMax: "¥8,000",
     category: "food",
     badge: "🇨🇭",
     name: { en: "Victorinox Fibrox Pro 8-inch Chef's Knife", ja: "ヴィクトリノックス フィブロックス プロ 20cm シェフズナイフ" },
@@ -4049,6 +4246,8 @@ const RAW_CATALOG = [
   {
     id: "kai-wasabi-black-set",
     category: "food",
+    priceMin: "¥15,000",
+    priceMax: "¥20,000",
     badge: "🌿",
     name: { en: "Kai Wasabi Black 6-Piece Knife Set", ja: "貝印 ワサビブラック 6点包丁セット" },
     description: {
@@ -4063,6 +4262,7 @@ const RAW_CATALOG = [
   {
     id: "cuisinart-dfp-14bcwb",
     imageUrl: "https://c1.neweggimages.com/productimage/nb640/96-171-572-S08.jpg",
+    price: "¥25,000",
     category: "food",
     badge: "🍽️",
     name: { en: "Cuisinart DFP-14BCWB", ja: "Cuisinart DFP-14BCWB" },
@@ -4078,6 +4278,7 @@ const RAW_CATALOG = [
   {
     id: "braun-fp3020",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001390191.jpg",
+    price: "¥18,000",
     category: "food",
     badge: "🇩🇪",
     name: { en: "Braun MultiQuick 9 FP3020", ja: "Braun MultiQuick 9 FP3020" },
@@ -4092,6 +4293,7 @@ const RAW_CATALOG = [
   {
     id: "panasonic-mk-k48p",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000012530.jpg",
+    price: "¥15,000",
     category: "food",
     badge: "🇯🇵",
     name: { en: "Panasonic MK-K48P", ja: "Panasonic MK-K48P" },
@@ -4106,6 +4308,7 @@ const RAW_CATALOG = [
   {
     id: "kitchenaid-kfp-0718",
     category: "food",
+    price: "¥20,000",
     badge: "🔴",
     name: { en: "KitchenAid KFP0718", ja: "KitchenAid KFP0718" },
     description: {
@@ -4120,6 +4323,7 @@ const RAW_CATALOG = [
   {
     id: "delonghi-multifry-fp8260",
     category: "food",
+    price: "¥20,000",
     badge: "🍲",
     name: { en: "De'Longhi Multifry FP8260", ja: "De'Longhi Multifry FP8260" },
     description: {
@@ -4281,6 +4485,7 @@ const RAW_CATALOG = [
   {
     id: "lodge-l8sk3",
     imageUrl: "https://www.lodgecastiron.com/cdn/shop/files/L10SK3.jpg",
+    price: "¥3,500",
     category: "food",
     badge: "🍳",
     name: { en: "Lodge Cast Iron Skillet L8SK3 10.25\"", ja: "Lodge キャストアイアンスキレット L8SK3 10.25インチ" },
@@ -4296,6 +4501,8 @@ const RAW_CATALOG = [
   {
     id: "le-creuset-skillet-26cm",
     imageUrl: "https://www.lecreuset.com/dw/image/v2/BDRT_PRD/on/demandware.static/-/Sites-le-creuset-master/default/dwf82a6ac2/images/cat_dutch_ovens/riviera_lifestyle/riviera_skillet_tentwofive_g1.jpg?sw=650&sh=650&sm=fit",
+    priceMin: "¥25,000",
+    priceMax: "¥30,000",
     category: "food",
     badge: "🔴",
     name: { en: "Le Creuset Enameled Cast Iron Skillet 26cm", ja: "ル・クルーゼ エナメル鋳鉄スキレット 26cm" },
@@ -4311,6 +4518,8 @@ const RAW_CATALOG = [
   {
     id: "staub-frying-pan-26cm",
     imageUrl: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dwe103dacd/images/large/40510-784-0_2.jpg",
+    priceMin: "¥28,000",
+    priceMax: "¥35,000",
     category: "food",
     badge: "⚫",
     name: { en: "Staub Frying Pan 26cm", ja: "ストウブ フライパン 26cm" },
@@ -4326,6 +4535,8 @@ const RAW_CATALOG = [
   {
     id: "iwachu-iron-skillet",
     imageUrl: "https://japanesetaste.com/cdn/shop/files/P-1-IWCH-SKYPOT-26-Iwachu_Sukiyaki_Pot_Large_Size_Japanese_Cast_Iron_Pan_26cm.jpg?v=1743429558",
+    priceMin: "¥8,000",
+    priceMax: "¥12,000",
     category: "food",
     badge: "🫕",
     name: { en: "Iwachu Iron Skillet 26cm", ja: "岩鋳 南部鉄器スキレット 26cm" },
@@ -4340,6 +4551,8 @@ const RAW_CATALOG = [
   {
     id: "lodge-l10sk3",
     imageUrl: "https://tshop.r10s.jp/akibaoo-r/cabinet/gi292/0075536301006.jpg?fitin=300:300",
+    priceMin: "¥5,500",
+    priceMax: "¥7,000",
     category: "food",
     badge: "🍖",
     name: { en: "Lodge Cast Iron Skillet L10SK3 12\"", ja: "Lodge キャストアイアンスキレット L10SK3 12インチ" },
@@ -4866,6 +5079,8 @@ const RAW_CATALOG = [
   {
     id: "peak-design-everyday-backpack-20l",
     imageUrl: "https://cdn.shopify.com/s/files/1/2986/1172/files/everyday-backpack-black-20-1.jpg?v=1762275581",
+    priceMin: "¥50,000",
+    priceMax: "¥60,000",
     category: "tech",
     badge: "📷",
     name: { en: "Peak Design Everyday Backpack 20L", ja: "Peak Design エブリデイバックパック 20L" },
@@ -4881,6 +5096,8 @@ const RAW_CATALOG = [
   {
     id: "tomtoc-a61-laptop-backpack",
     imageUrl: "https://www.tomtoc.com/cdn/shop/files/20251212-102147_1000x.jpg?v=1765506215",
+    priceMin: "¥8,000",
+    priceMax: "¥12,000",
     category: "tech",
     badge: "💼",
     name: { en: "Tomtoc A61 Laptop Backpack 40L", ja: "Tomtoc A61 ノートPCバックパック 40L" },
@@ -4896,6 +5113,8 @@ const RAW_CATALOG = [
   {
     id: "incase-icon-backpack",
     imageUrl: "https://www.incase.com/cdn/shop/files/icon-backpack-blk_04_1.jpg?v=1734748003&width=1000",
+    priceMin: "¥20,000",
+    priceMax: "¥25,000",
     category: "tech",
     badge: "🍎",
     name: { en: "Incase Icon Backpack", ja: "Incase Icon バックパック" },
@@ -4911,6 +5130,8 @@ const RAW_CATALOG = [
   {
     id: "anello-polyester-backpack",
     imageUrl: "https://tshop.r10s.jp/fgkawamura-2/cabinet/anello/gu-b3013_n00.jpg",
+    priceMin: "¥4,000",
+    priceMax: "¥7,000",
     category: "tech",
     badge: "🎒",
     name: { en: "Anello Polyester Backpack", ja: "アネロ ポリエステルバックパック" },
@@ -4926,6 +5147,8 @@ const RAW_CATALOG = [
   {
     id: "the-north-face-recon",
     imageUrl: "https://tshop.r10s.jp/abctown/cabinet/08256307/imgrc0111917173.jpg",
+    priceMin: "¥14,000",
+    priceMax: "¥18,000",
     category: "tech",
     badge: "🏔️",
     name: { en: "The North Face Recon 30L", ja: "ザ・ノース・フェイス Recon 30L" },
@@ -10257,6 +10480,7 @@ const RAW_CATALOG = [
   {
     id: "delonghi-ec155m-espresso",
     imageUrl: "https://c1.neweggimages.com/productimage/nb640/A0BU_1_20120113_1076517.jpg",
+    price: "~$80",
     category: "food",
     badge: "☕",
     name: { en: "De'Longhi EC155M Manual Espresso Machine", ja: "デロンギ EC155M マニュアルエスプレッソマシン" },
@@ -10276,6 +10500,7 @@ const RAW_CATALOG = [
   {
     id: "breville-bambino-bes450",
     imageUrl: "https://m.media-amazon.com/images/I/61egYXcL9OL._AC_SL1500_.jpg",
+    price: "~$170",
     category: "food",
     badge: "⚡",
     name: { en: "Breville Bambino BES450BSS", ja: "ブレビル バンビーノ BES450BSS" },
@@ -10295,6 +10520,7 @@ const RAW_CATALOG = [
   {
     id: "nespresso-essenza-mini-d30",
     imageUrl: "https://m.media-amazon.com/images/I/518Hwe8xFgL._AC_SL1000_.jpg",
+    price: "~$100",
     category: "food",
     badge: "🟡",
     name: { en: "Nespresso Essenza Mini D30", ja: "ネスプレッソ エッセンサ ミニ D30" },
@@ -10314,6 +10540,7 @@ const RAW_CATALOG = [
   {
     id: "mr-coffee-ecmp50-espresso",
     imageUrl: "https://m.media-amazon.com/images/I/61eB28IGPCL._AC_SL1500_.jpg",
+    price: "~$85",
     category: "food",
     badge: "🥛",
     name: { en: "Mr. Coffee Espresso and Cappuccino Machine ECMP50", ja: "Mr.コーヒー エスプレッソ＆カプチーノマシン ECMP50" },
@@ -10333,6 +10560,7 @@ const RAW_CATALOG = [
   {
     id: "hamilton-beach-40792-espresso",
     imageUrl: "https://m.media-amazon.com/images/I/81ZfTaAxq+L._AC_SL1500_.jpg",
+    price: "~$50",
     category: "food",
     badge: "💰",
     name: { en: "Hamilton Beach Espresso Maker 40792", ja: "ハミルトンビーチ エスプレッソメーカー 40792" },
@@ -10353,6 +10581,8 @@ const RAW_CATALOG = [
   {
     id: "hario-v60-ceramic-02",
     imageUrl: "https://www.hario-usa.com/cdn/shop/files/IMG_6721.jpg?v=1755531765&width=1946",
+    priceMin: "¥2,000",
+    priceMax: "¥2,500",
     category: "food",
     badge: "☕",
     name: { en: "Hario V60 Ceramic Dripper 02", ja: "ハリオ V60 セラミックドリッパー 02" },
@@ -10372,6 +10602,8 @@ const RAW_CATALOG = [
   {
     id: "chemex-classic-6cup",
     imageUrl: "https://m.media-amazon.com/images/I/71oMA36JxfL._AC_SL1500_.jpg",
+    priceMin: "¥6,000",
+    priceMax: "¥7,000",
     category: "food",
     badge: "🫙",
     name: { en: "Chemex Classic Series 6-Cup", ja: "Chemex クラシックシリーズ 6カップ" },
@@ -10391,6 +10623,8 @@ const RAW_CATALOG = [
   {
     id: "kalita-wave-185-stainless",
     imageUrl: "https://kalitausa.com/cdn/shop/products/kw185ss.jpg?v=1586189941",
+    priceMin: "¥5,000",
+    priceMax: "¥6,000",
     category: "food",
     badge: "〰️",
     name: { en: "Kalita Wave 185 Stainless Dripper", ja: "カリタ ウェーブ 185 ステンレスドリッパー" },
@@ -10410,6 +10644,8 @@ const RAW_CATALOG = [
   {
     id: "bodum-pour-over-permanent",
     imageUrl: "https://m.media-amazon.com/images/I/511yeWI0t0L._AC_SL1200_.jpg",
+    priceMin: "¥3,000",
+    priceMax: "¥3,500",
     category: "food",
     badge: "🔩",
     name: { en: "Bodum Pour Over Coffee Maker with Permanent Filter", ja: "Bodum パーマネントフィルター付きポアオーバーコーヒーメーカー" },
@@ -10429,6 +10665,8 @@ const RAW_CATALOG = [
   {
     id: "fellow-stagg-x-set",
     imageUrl: "https://m.media-amazon.com/images/I/51pSk04+X0L._AC_SL1190_.jpg",
+    priceMin: "¥18,000",
+    priceMax: "¥22,000",
     category: "food",
     badge: "🎛️",
     name: { en: "Fellow Stagg [X] Pour-Over Set", ja: "Fellow Stagg [X] ポアオーバーセット" },
@@ -10626,6 +10864,7 @@ const RAW_CATALOG = [
   {
     id: "benriner-mandoline-no64",
     imageUrl: "https://bernalcutlery.com/cdn/shop/files/DSC06921_b9d4a4df-d295-4d01-b25b-2e7b1a7cd205.jpg?v=1765403023&width=1200",
+    price: "¥22,000",
     category: "food",
     badge: "🔪",
     name: { en: "Benriner Japanese Mandoline Slicer No. 64", ja: "ベンリナー スーパーベンリナー No. 64" },
@@ -10645,6 +10884,7 @@ const RAW_CATALOG = [
   {
     id: "oxo-chef-mandoline-2-0",
     imageUrl: "https://m.media-amazon.com/images/I/61pqycfeKeL._AC_SL1500_.jpg",
+    price: "¥14,000",
     category: "food",
     badge: "🛡️",
     name: { en: "OXO Good Grips Chef's Mandoline Slicer 2.0", ja: "OXO グッドグリップス シェフズマンドリンスライサー 2.0" },
@@ -10664,6 +10904,7 @@ const RAW_CATALOG = [
   {
     id: "kyocera-ceramic-mandoline",
     imageUrl: "https://m.media-amazon.com/images/I/61QoEL9qWXL._AC_SL1500_.jpg",
+    price: "¥6,500",
     category: "food",
     badge: "⚪",
     name: { en: "Kyocera Advanced Ceramic Adjustable Mandoline", ja: "京セラ アドバンスドセラミック アジャスタブルマンドリン" },
@@ -10683,6 +10924,7 @@ const RAW_CATALOG = [
   {
     id: "swissmar-borner-v-power",
     imageUrl: "https://m.media-amazon.com/images/I/61wUqFXl0TL._AC_SL1500_.jpg",
+    price: "¥8,500",
     category: "food",
     badge: "🇩🇪",
     name: { en: "Swissmar Borner V-Power Mandoline Slicer", ja: "スウィスマー ボーナー Vパワーマンドリンスライサー" },
@@ -10702,6 +10944,7 @@ const RAW_CATALOG = [
   {
     id: "mueller-v-pro-mandoline",
     imageUrl: "https://m.media-amazon.com/images/I/71BLc3KCtbL._AC_SL1500_.jpg",
+    price: "¥3,500",
     category: "food",
     badge: "💰",
     name: { en: "Mueller Austria V-Pro Multi Blade Mandoline", ja: "Mueller Austria V-Pro マルチブレードマンドリン" },
@@ -11182,6 +11425,8 @@ const RAW_CATALOG = [
   {
     id: "le-creuset-dutch-oven-5qt",
     imageUrl: "https://www.lecreuset.com/dw/image/v2/BDRT_PRD/on/demandware.static/-/Sites-le-creuset-master/default/dw9e4ffb1b/images/cat_dutch_ovens/provence/provene_rdo_g1.jpg",
+    priceMin: "¥60,000",
+    priceMax: "¥80,000",
     category: "food",
     name: { en: "Le Creuset Signature Round Dutch Oven 5.5qt", ja: "ル・クルーゼ シグネチャー ラウンド ダッチオーブン 5.5qt" },
     description: {
@@ -11200,6 +11445,8 @@ const RAW_CATALOG = [
   {
     id: "lodge-enameled-dutch-oven-6qt",
     imageUrl: "https://www.lodgecastiron.com/cdn/shop/files/3000x3000_EC7D51_e797bdf1-8921-42d9-9978-2eefee4237d3.jpg?v=1772557412&width=3000",
+    priceMin: "¥8,000",
+    priceMax: "¥12,000",
     category: "food",
     name: { en: "Lodge 6 Quart Enameled Cast Iron Dutch Oven", ja: "Lodge 6クォート ホーロー鋳鉄ダッチオーブン" },
     description: {
@@ -11218,6 +11465,8 @@ const RAW_CATALOG = [
   {
     id: "staub-cocotte-5qt",
     imageUrl: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dwd4c9bb0a/images/large/40509-356-0_1.jpg",
+    priceMin: "¥55,000",
+    priceMax: "¥75,000",
     category: "food",
     name: { en: "Staub Cast Iron Round Cocotte 5.5qt", ja: "ストウブ 鋳鉄 ラウンドココット 5.5qt" },
     description: {
@@ -11236,6 +11485,8 @@ const RAW_CATALOG = [
   {
     id: "cuisinart-chef-classic-dutch-oven",
     imageUrl: "https://c1.neweggimages.com/productimage/nb640/A0ZX_1_20160427720219666.jpg",
+    priceMin: "¥12,000",
+    priceMax: "¥18,000",
     category: "food",
     name: { en: "Cuisinart Chef's Classic Enameled Cast Iron 7qt", ja: "クイジナート シェフズクラシック エナメル鋳鉄 7qt" },
     description: {
@@ -11255,6 +11506,8 @@ const RAW_CATALOG = [
   {
     id: "inzer-forever-lever-belt-10mm",
     imageUrl: "https://inzer.com/cdn/shop/files/L10_Image.jpg?v=1763613376",
+    priceMin: "¥25,000",
+    priceMax: "¥35,000",
     category: "fitness",
     name: { en: "Inzer Advance Designs Forever Lever Belt 10mm", ja: "インザー フォーエバー レバーベルト 10mm" },
     description: {
@@ -11273,6 +11526,8 @@ const RAW_CATALOG = [
   {
     id: "sbd-belt-powerlifting",
     imageUrl: "https://us.sbdapparel.com/cdn/shop/files/13mm-Lever-Belt-01_1800x1800.jpg?v=1755507380",
+    priceMin: "¥40,000",
+    priceMax: "¥50,000",
     category: "fitness",
     name: { en: "SBD Belt (Lever)", ja: "SBD ベルト（レバー）" },
     description: {
@@ -11291,6 +11546,8 @@ const RAW_CATALOG = [
   {
     id: "rogue-ohio-lifting-belt",
     category: "fitness",
+    priceMin: "¥20,000",
+    priceMax: "¥28,000",
     name: { en: "Rogue Ohio Lifting Belt", ja: "ローグ オハイオ リフティングベルト" },
     description: {
       en: "~¥20,000-¥28,000. 10mm thick single-ply leather belt with a double prong or single prong buckle option. Made in Columbus, Ohio from Herman Oak leather — the same tannery used by top custom belt makers. 4-inch width at back tapers to 3 inches in front for better hip mobility during deadlifts. Rogue's standard warranty applies.",
@@ -11308,6 +11565,8 @@ const RAW_CATALOG = [
   {
     id: "pioneer-cut-powerlifting-belt",
     imageUrl: "https://pioneerfit.com/cdn/shop/files/Stock_4_10mm.png?v=1714409436&width=1080",
+    priceMin: "¥18,000",
+    priceMax: "¥25,000",
     category: "fitness",
     name: { en: "Pioneer Cut Powerlifting Belt", ja: "パイオニアカット パワーリフティングベルト" },
     description: {
@@ -11326,6 +11585,8 @@ const RAW_CATALOG = [
   {
     id: "harbinger-padded-leather-belt",
     imageUrl: "https://harbingerfitness.com/cdn/shop/files/HARB_15131_PaddedLeatherBelt2.0_4inch_Black_AAVFlat_240909-2000x2000-50cecc9.jpg",
+    priceMin: "¥5,000",
+    priceMax: "¥8,000",
     category: "fitness",
     name: { en: "Harbinger Padded Leather Belt", ja: "ハービンジャー パッド付きレザーベルト" },
     description: {
@@ -11345,6 +11606,8 @@ const RAW_CATALOG = [
   {
     id: "tramontina-enameled-dutch-oven",
     imageUrl: "https://www.tramontina.com/cdn/shop/files/Bestow_6.5_Quart_Enameled_Cast_Iron_Covered_Round_Dutch_Oven_Latte_80131399.jpg?v=1740167280&width=3000",
+    priceMin: "¥10,000",
+    priceMax: "¥15,000",
     category: "food",
     name: { en: "Tramontina Enameled Cast Iron Covered Round Dutch Oven 6.5qt", ja: "トラモンティーナ ホーロー鋳鉄 カバード ラウンドダッチオーブン 6.5qt" },
     description: {
@@ -11365,6 +11628,7 @@ const RAW_CATALOG = [
     id: "breville-precision-brewer-bdc450",
     category: "food",
     imageUrl: "https://assets.breville.com/cdn-cgi/image/width=800,format=auto/BDC450/BDC450BSS1BUS1.jpg",
+    price: "~$280",
     name: { en: "Breville Precision Brewer Thermal BDC450", ja: "ブレビル プレシジョン ブリュワー サーマル BDC450" },
     description: {
       en: "~$280 USD. SCAA-certified drip brewer with precise water temperature control, bloom pre-infusion, and a vacuum-sealed thermal carafe. The gold standard for home drip coffee in North America, producing specialty-grade extraction that rivals pour-over results.",
@@ -11382,6 +11646,7 @@ const RAW_CATALOG = [
     id: "technivorm-moccamaster-kbt",
     category: "food",
     imageUrl: "https://us.moccamaster.com/cdn/shop/files/MoccaMaster_Set_79112_KBT_PolishedSilver_1200x.png?v=1773954144",
+    price: "~$350",
     name: { en: "Technivorm Moccamaster KBT Coffee Maker", ja: "テクニフォーム モカマスター KBT" },
     description: {
       en: "~$350 USD. Dutch-made SCAA-certified drip brewer with a copper boiling element that reaches SCAA-specified 92–96°C brew temperature in 6 minutes. Handmade in the Netherlands with a 5-year warranty — the benchmark for consistent, specialty-grade drip coffee.",
@@ -11399,6 +11664,7 @@ const RAW_CATALOG = [
     id: "oxo-brew-9-cup-coffee-maker",
     category: "food",
     imageUrl: "https://www.buddybrew.com/cdn/shop/files/OXO_brewer_1024x1024.png?v=1732652549",
+    price: "~$200",
     name: { en: "OXO Brew 9-Cup Coffee Maker", ja: "OXO ブリュー 9カップ コーヒーメーカー" },
     description: {
       en: "~$200 USD. SCAA-certified 9-cup drip brewer with a rainmaker showerhead for even saturation, programmable pre-infusion bloom, and an insulated carafe. Positioned as the approachable SCAA pick — strong performance at a lower entry point than Moccamaster.",
@@ -11416,6 +11682,7 @@ const RAW_CATALOG = [
     id: "cuisinart-dcc-3200p1-coffee-maker",
     category: "food",
     imageUrl: "https://c1.neweggimages.com/productimage/nb640/B7VES2207190ZKBNY0A.jpg",
+    price: "~$80",
     name: { en: "Cuisinart PerfecTemp 14-Cup Programmable Coffeemaker DCC-3200P1", ja: "クイジナート パーフェクテンプ 14カップ プログラマブルコーヒーメーカー DCC-3200P1" },
     description: {
       en: "~$80 USD. 14-cup programmable drip brewer with 24-hour advance brewing, 1–4 cup brew strength adjustment, and a keep-warm plate. The widest-selling programmable coffee maker in North America — sensible if you brew large batches and want simple automation.",
@@ -11433,6 +11700,7 @@ const RAW_CATALOG = [
     id: "hamilton-beach-49350-coffee-maker",
     category: "food",
     imageUrl: "https://hgnjshoppingmall.com/wp-content/uploads/2023/12/49350.jpg",
+    price: "~$30",
     name: { en: "Hamilton Beach 12-Cup Coffee Maker 49350", ja: "ハミルトンビーチ 12カップ コーヒーメーカー 49350" },
     description: {
       en: "~$30 USD. 12-cup programmable drip brewer with a 2-hour keep-warm auto shutoff and a pause-and-pour feature. The honest budget pick for households who want a morning pot of coffee without spending more than a bag of beans on the machine itself.",
@@ -11450,6 +11718,8 @@ const RAW_CATALOG = [
   {
     id: "rogue-ohio-bar-cerakote",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Weightlifting%20Bars%20and%20Plates/Barbells/Mens%2020KG%20Barbells/OHIOCERAKOTE/2023%20Update/Updated%2028.5%20header%20images/OHIOCERAKOTE-Red-black-H_qdfvwt.png",
+    priceMin: "¥55,000",
+    priceMax: "¥70,000",
     category: "fitness",
     name: { en: "Rogue Ohio Bar Cerakote", ja: "ローグ・オハイオバー Cerakote" },
     description: {
@@ -11468,6 +11738,8 @@ const RAW_CATALOG = [
   {
     id: "texas-power-bar-bare-steel",
     imageUrl: "https://texaspowerbars.com/cdn/shop/files/OriginalTexasPowerBarProductMainImage.jpg?v=1774101605&width=1500",
+    priceMin: "¥45,000",
+    priceMax: "¥60,000",
     category: "fitness",
     name: { en: "Texas Power Bar Bare Steel", ja: "テキサスパワーバー 裸スチール" },
     description: {
@@ -11486,6 +11758,8 @@ const RAW_CATALOG = [
   {
     id: "cap-ob-86pb-olympic-bar",
     imageUrl: "https://cdnimages.opentip.com/full/CBB/CBB-OB-86PB.jpg",
+    priceMin: "¥15,000",
+    priceMax: "¥25,000",
     category: "fitness",
     name: { en: "CAP Barbell 7ft Olympic Bar OB-86PB", ja: "CAPバーベル 7フィート オリンピックバー OB-86PB" },
     description: {
@@ -11504,6 +11778,8 @@ const RAW_CATALOG = [
   {
     id: "rep-fitness-equalizer-bar",
     imageUrl: "https://repfitness.com/cdn/shop/products/ColoradoBar-20KG-HardChrome-thumbnail.jpg?v=1685637768&width=448",
+    priceMin: "¥35,000",
+    priceMax: "¥50,000",
     category: "fitness",
     name: { en: "REP Fitness 20kg Equalizer Barbell", ja: "REPフィットネス 20kg イコライザーバーベル" },
     description: {
@@ -11522,6 +11798,8 @@ const RAW_CATALOG = [
   {
     id: "titan-fitness-olympic-bar",
     imageUrl: "https://titan.fitness/cdn/shop/files/430367_01.jpg?v=1760022878&width=1946",
+    priceMin: "¥30,000",
+    priceMax: "¥45,000",
     category: "fitness",
     name: { en: "Titan Fitness Olympic Barbell 20kg", ja: "タイタン フィットネス オリンピックバーベル 20kg" },
     description: {
@@ -11542,6 +11820,8 @@ const RAW_CATALOG = [
   {
     id: "rogue-rm-3-power-rack",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_1600,b_rgb:ffffff/catalog/Rigs%20and%20Racks/Power%20Racks%20/Monster%20Racks/RM-3/RM-3-SATIN-BLACK-H_e9jkri.png",
+    priceMin: "¥300,000",
+    priceMax: "¥400,000",
     category: "fitness",
     name: { en: "Rogue RM-3 Monster Rack 2.0", ja: "ローグ RM-3 モンスターラック 2.0" },
     description: {
@@ -11560,6 +11840,8 @@ const RAW_CATALOG = [
   {
     id: "rep-fitness-pr-4000-power-rack",
     imageUrl: "https://repfitness.com/cdn/shop/files/Pre-ConfiguredPR-40006-PostHigh-End-Thumbnail_6bd04dc5-5c47-4376-a1fc-cb0a5b6401a9.jpg",
+    priceMin: "¥180,000",
+    priceMax: "¥250,000",
     category: "fitness",
     name: { en: "REP Fitness PR-4000 Power Rack", ja: "REPフィットネス PR-4000 パワーラック" },
     description: {
@@ -11578,6 +11860,8 @@ const RAW_CATALOG = [
   {
     id: "titan-fitness-t-3-short-rack",
     imageUrl: "https://titan.fitness/cdn/shop/files/401280_01.jpg?v=1722283120&width=1946",
+    priceMin: "¥80,000",
+    priceMax: "¥120,000",
     category: "fitness",
     name: { en: "Titan Fitness T-3 Short Power Rack", ja: "タイタン フィットネス T-3 ショート パワーラック" },
     description: {
@@ -11596,6 +11880,8 @@ const RAW_CATALOG = [
   {
     id: "cap-barbell-power-rack-fm-cs8000f",
     imageUrl: "https://capbarbell.com/cdn/shop/files/FM_CB8000F__46543__91821.1446739894.1280.1280_e469e7f0-b22e-4e43-b1ea-81ddd367da97.jpg?v=1768893094",
+    priceMin: "¥30,000",
+    priceMax: "¥50,000",
     category: "fitness",
     name: { en: "CAP Barbell Deluxe Power Rack FM-CS8000F", ja: "CAPバーベル デラックス パワーラック FM-CS8000F" },
     description: {
@@ -11614,6 +11900,8 @@ const RAW_CATALOG = [
   {
     id: "fitness-reality-810xlt-power-cage",
     imageUrl: "https://fitnessrealityshop.com/wp-content/uploads/2025/06/Fitness-Reality-810xlt.webp",
+    priceMin: "¥35,000",
+    priceMax: "¥55,000",
     category: "fitness",
     name: { en: "Fitness Reality 810XLT Power Cage", ja: "フィットネスリアリティ 810XLT パワーケージ" },
     description: {
@@ -11634,6 +11922,8 @@ const RAW_CATALOG = [
   {
     id: "instant-pot-duo-7in1-6qt",
     imageUrl: "https://instantpot.com/cdn/shop/files/112-0170-01_Duo_6_Qt_Silo_01_ATF.png?v=1752158152",
+    priceMin: "¥8,000",
+    priceMax: "¥12,000",
     category: "food",
     name: { en: "Instant Pot Duo 7-in-1 Electric Pressure Cooker 6qt", ja: "インスタントポット Duo 7-in-1 電気圧力鍋 6クォート" },
     description: {
@@ -11652,6 +11942,8 @@ const RAW_CATALOG = [
   {
     id: "instant-pot-pro-10in1-6qt",
     imageUrl: "https://instantpot.com/cdn/shop/files/112-0123-01.png?v=1745616608&width=3000",
+    priceMin: "¥15,000",
+    priceMax: "¥20,000",
     category: "food",
     name: { en: "Instant Pot Pro 10-in-1 Pressure Cooker 6qt", ja: "インスタントポット Pro 10-in-1 電気圧力鍋 6クォート" },
     description: {
@@ -11670,6 +11962,8 @@ const RAW_CATALOG = [
   {
     id: "ninja-fd401-foodi-8qt",
     imageUrl: "https://www.thezestfull.com/wp-content/uploads/2021/02/81bticOPJL._AC_SL1500_.jpg",
+    priceMin: "¥25,000",
+    priceMax: "¥35,000",
     category: "food",
     name: { en: "Ninja FD401 Foodi 8-Quart 9-in-1 Deluxe XL", ja: "Ninja FD401 Foodi 8クォート 9-in-1 デラックス XL" },
     description: {
@@ -11688,6 +11982,8 @@ const RAW_CATALOG = [
   {
     id: "cosori-pressure-cooker-6qt",
     imageUrl: "https://cosori.com/cdn/shop/products/pressure-cooker-front-view.png?v=1762457655&width=1946",
+    priceMin: "¥7,000",
+    priceMax: "¥10,000",
     category: "food",
     name: { en: "COSORI 6Qt Electric Pressure Cooker 9-in-1", ja: "COSORI 6クォート電気圧力鍋 9-in-1" },
     description: {
@@ -11706,6 +12002,8 @@ const RAW_CATALOG = [
   {
     id: "instant-pot-duo-crisp-air-fryer",
     imageUrl: "https://instantpot.com/cdn/shop/files/IB_112-0120-01_140-0021-01_Duo-Crisp-6QT-8QT_ATF_Square_Tile1.png?v=1745812123&width=3000",
+    priceMin: "¥18,000",
+    priceMax: "¥25,000",
     category: "food",
     name: { en: "Instant Pot Duo Crisp 11-in-1 Air Fryer", ja: "インスタントポット Duo Crisp 11-in-1 エアフライヤー" },
     description: {
@@ -12857,6 +13155,7 @@ const RAW_CATALOG = [
   {
     id: "unicook-heavy-duty-pizza-stone",
     imageUrl: "https://www.unicook.net/cdn/shop/files/820-2009unicookpizzastone_1_300x.jpg?v=1762337960",
+    price: "~$30",
     category: "food",
     badge: "🍕",
     name: { en: "Unicook Heavy Duty Cordierite Pizza Stone", ja: "Unicook コーディエライト製ピザストーン" },
@@ -12876,6 +13175,7 @@ const RAW_CATALOG = [
   {
     id: "emile-henry-pizza-stone",
     imageUrl: "https://www.emilehenryusa.com/cdn/shop/files/7614_34_Burgundy_RidgedPizzaStone_2.png?v=1728601399&width=1200",
+    price: "~$60",
     category: "food",
     badge: "🔴",
     name: { en: "Emile Henry Made in France Pizza Stone", ja: "エミール・アンリ フランス製ピザストーン" },
@@ -12895,6 +13195,7 @@ const RAW_CATALOG = [
   {
     id: "baking-steel-original-steel",
     imageUrl: "https://assets.replocdn.com/projects/33ee9570-df97-45c6-a9b7-ae88b42b2a5c/241f99b1-b4df-4994-93b4-b289abf5c38d",
+    price: "~$100",
     category: "food",
     badge: "⚡",
     name: { en: "Baking Steel Original (1/4 inch)", ja: "Baking Steel オリジナル（6mm厚）" },
@@ -12914,6 +13215,7 @@ const RAW_CATALOG = [
   {
     id: "lodge-14-inch-cast-iron-pizza-pan",
     imageUrl: "https://www.lodgecastiron.com/cdn/shop/files/BW15PP_Pizza1_Bakeware_White-Table_WEB_800x800_f6975858-5cd4-4e5e-a517-58c2054d75b7.jpg",
+    price: "~$40",
     category: "food",
     badge: "🍖",
     name: { en: "Lodge Pre-Seasoned 14\" Cast Iron Pizza Pan", ja: "Lodge 14インチ シーズニング済み鋳鉄ピザパン" },
@@ -12933,6 +13235,7 @@ const RAW_CATALOG = [
   {
     id: "hans-grill-pizza-stone-rectangular",
     imageUrl: "https://hansgrill.shop/cdn/shop/files/81aigYN5G6L._AC_SL1500.jpg?v=1731421423&width=1946",
+    price: "~$30",
     category: "food",
     badge: "📐",
     name: { en: "Hans Grill Pizza Stone Rectangular", ja: "Hans Grill 長方形ピザストーン" },
@@ -13051,6 +13354,7 @@ const RAW_CATALOG = [
   {
     id: "fissler-vitaquick-6qt",
     imageUrl: "https://us.fissler.com/cdn/shop/files/602-410-06-0700_2000x2000_299755f2-6584-41aa-b1a8-ebada6863f5e.jpg",
+    price: "~$180",
     category: "food",
     badge: "🏆",
     name: { en: "Fissler Vitaquick 6.3 Qt Pressure Cooker", ja: "フィスラー ビタクイック 6.3 Qt 圧力鍋" },
@@ -13070,6 +13374,7 @@ const RAW_CATALOG = [
   {
     id: "presto-8qt-pressure-cooker",
     imageUrl: "https://www.gopresto.com/i/1526054519236/w1000/uploads/06301_Product_Page_Main.jpg",
+    price: "~$35",
     category: "food",
     badge: "💰",
     name: { en: "Presto 01370 8-Quart Stainless Steel Pressure Cooker", ja: "プレスト 8クォート ステンレス圧力鍋" },
@@ -13089,6 +13394,7 @@ const RAW_CATALOG = [
   {
     id: "tfal-clipso-pressure-cooker",
     imageUrl: "https://www.t-fal.com/media/catalog/product/m/w/mwe70mp1e8wjuqvamt2p_9m7ojzsuhp09panp.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+    price: "~$60",
     category: "food",
     badge: "👍",
     name: { en: "T-fal Clipso Stainless Steel Pressure Cooker 6.3 Qt", ja: "ティファール クリプソ ステンレス圧力鍋 6.3 Qt" },
@@ -13108,6 +13414,7 @@ const RAW_CATALOG = [
   {
     id: "kuhn-rikon-duromatic-pressure-cooker",
     imageUrl: "https://cdn.kuhnrikon.com/media/catalog/product/cache/2c74959833d216e511901fad475c4cd7/3/7/3760-3762-3764-3915-3917-3919_ps.jpg",
+    price: "~$200",
     category: "food",
     badge: "⌚",
     name: { en: "Kuhn Rikon Duromatic Top Pressure Cooker", ja: "クーン・リコン デュロマティック トップ 圧力鍋" },
@@ -13127,6 +13434,7 @@ const RAW_CATALOG = [
   {
     id: "magefesa-star-pressure-cooker",
     imageUrl: "https://magefesausa.com/wp-content/uploads/2025/06/Magefesa-Star-Pressure-Cooker-3.webp",
+    price: "~$40",
     category: "food",
     badge: "⚡",
     name: { en: "Magefesa Star Super Fast Pressure Cooker 4.2 Qt", ja: "マゲフェサ スター 超高速圧力鍋 4.2 Qt" },
@@ -13148,6 +13456,7 @@ const RAW_CATALOG = [
   {
     id: "sportneer-push-up-board",
     category: "fitness",
+    price: "~$25",
     badge: "🏆",
     name: { en: "Sportneer Push Up Board Multi-Functional", ja: "スポートニア プッシュアップボード 多機能" },
     description: {
@@ -13166,6 +13475,7 @@ const RAW_CATALOG = [
   {
     id: "perfect-pushup-elite",
     imageUrl: "https://shop.r10s.jp/re-vida/cabinet/k0img822/k0-3733157-perfect.jpg",
+    price: "~$25",
     category: "fitness",
     badge: "🔄",
     name: { en: "Perfect Pushup Elite Rotating Push Up Handles", ja: "パーフェクトプッシュアップ エリート 回転式ハンドル" },
@@ -13185,6 +13495,7 @@ const RAW_CATALOG = [
   {
     id: "hashtag-fitness-push-up-board",
     category: "fitness",
+    price: "~$25",
     badge: "📐",
     name: { en: "HASHTAG FITNESS 36-Position Push Up Board", ja: "HASHTAG FITNESS 36ポジション プッシュアップボード" },
     description: {
@@ -13203,6 +13514,7 @@ const RAW_CATALOG = [
   {
     id: "yes4all-push-up-board",
     imageUrl: "https://m.media-amazon.com/images/I/81SLxP4MneL._AC_UL640_QL65_.jpg",
+    price: "~$15",
     category: "fitness",
     badge: "💸",
     name: { en: "Yes4All Push Up Board Multi-Angle", ja: "Yes4All マルチアングル プッシュアップボード" },
@@ -13222,6 +13534,7 @@ const RAW_CATALOG = [
   {
     id: "limm-push-up-board",
     imageUrl: "https://m.media-amazon.com/images/I/71x-7Rv+X7L._AC_UL320_.jpg",
+    price: "~$30",
     category: "fitness",
     badge: "🎯",
     name: { en: "Limm Push-Up Board with Resistance Bands", ja: "Limm プッシュアップボード レジスタンスバンド付き" },
@@ -13243,6 +13556,7 @@ const RAW_CATALOG = [
   {
     id: "marcato-atlas-150-pasta-maker",
     imageUrl: "https://qbcucina.com/cdn/shop/files/Atlas_150_Marcato_Pasta_Machine_-_Copper-2_a6283543-c876-4ffd-8986-3ed12c249847.jpg?v=1774621184&width=1200",
+    price: "~$50",
     category: "food",
     badge: "🏆",
     name: { en: "Marcato Atlas 150 Pasta Maker", ja: "マルカート アトラス 150 パスタマシン" },
@@ -13262,6 +13576,7 @@ const RAW_CATALOG = [
   {
     id: "imperia-pasta-maker-machine",
     imageUrl: "https://www.cookserveenjoy.com/cdn/shop/products/ucwspdekdmv1yjlx8zrs_100x.jpg?v=1738900299",
+    price: "~$60",
     category: "food",
     badge: "🍝",
     name: { en: "Imperia Pasta Machine Double Cutter", ja: "インペリア パスタマシン ダブルカッター" },
@@ -13281,6 +13596,7 @@ const RAW_CATALOG = [
   {
     id: "kitchenaid-pasta-roller-attachment",
     imageUrl: "https://images.kitchenaid.com/is/image/KitchenAid/KSMPRA-1?wid=500&hei=500&fmt=webp",
+    price: "~$150",
     category: "food",
     badge: "⚙️",
     name: { en: "KitchenAid Pasta Roller and Cutter Attachment Set", ja: "キッチンエイド パスタローラー＆カッターアタッチメントセット" },
@@ -13300,6 +13616,7 @@ const RAW_CATALOG = [
   {
     id: "philips-pasta-maker-7000",
     imageUrl: "https://images.philips.com/is/image/philipsconsumer/vrs_f0ffd553917a6324722faeafadb9d3bbaca0f22a?wid=700&hei=700&$pnglarge$",
+    price: "~$200",
     category: "food",
     badge: "🤖",
     name: { en: "Philips Pasta Maker 7000 Automatic", ja: "フィリップス パスタメーカー 7000 全自動" },
@@ -13319,6 +13636,7 @@ const RAW_CATALOG = [
   {
     id: "ronco-pasta-maker",
     imageUrl: "https://dailysale.com/cdn/shop/products/ronco-automatic-pasta-maker-machine-kitchen-essentials-dailysale-683590.jpg?v=1756986183&width=1240",
+    price: "~$80",
     category: "food",
     badge: "💸",
     name: { en: "Ronco Pasta Maker Automatic", ja: "ロンコ パスタメーカー 全自動" },
@@ -13340,6 +13658,7 @@ const RAW_CATALOG = [
   {
     id: "springfree-trampoline-medium-oval",
     imageUrl: "https://www.springfreetrampoline.com/cdn/shop/files/O77_a0465b8b-4f64-4717-b900-1697016f7315.webp?v=1747762151",
+    price: "~$1,500",
     category: "fitness",
     badge: "🏆",
     name: { en: "Springfree Trampoline Medium Oval", ja: "スプリングフリー トランポリン ミディアムオーバル" },
@@ -13359,6 +13678,7 @@ const RAW_CATALOG = [
   {
     id: "skywalker-15ft-round-trampoline",
     imageUrl: "https://www.skywalkertrampolines.com/cdn/shop/files/b8421501ceee8ed8defa49d79fc692df.jpg?v=1746524864&width=1600",
+    price: "~$300",
     category: "fitness",
     badge: "⭐",
     name: { en: "Skywalker 15ft Round Trampoline with Safety Enclosure", ja: "スカイウォーカー 15ft ラウンドトランポリン セーフティエンクロージャー付き" },
@@ -13378,6 +13698,7 @@ const RAW_CATALOG = [
   {
     id: "zupapa-15ft-trampoline",
     imageUrl: "https://www.zupapa.us/cdn/shop/files/10ft_12ft_15ft_14ft_Saffun_Trampoline.png?v=1774939335&width=548",
+    price: "~$400",
     category: "fitness",
     badge: "💪",
     name: { en: "Zupapa 15ft Trampoline with Safety Enclosure Net", ja: "ズパパ 15ft トランポリン セーフティエンクロージャーネット付き" },
@@ -13397,6 +13718,7 @@ const RAW_CATALOG = [
   {
     id: "jumpking-14ft-trampoline",
     imageUrl: "https://www.jumpking.com/media/catalog/product/cache/a4c737835c007526158bcb31f8528463/i/m/img_4456.jpg",
+    price: "~$250",
     category: "fitness",
     badge: "👨‍👩‍👧",
     name: { en: "Jumpking 14ft Round Trampoline with Safety Enclosure", ja: "ジャンプキング 14ft ラウンドトランポリン セーフティエンクロージャー付き" },
@@ -13416,6 +13738,7 @@ const RAW_CATALOG = [
   {
     id: "jumpsport-550f-fitness-trampoline",
     imageUrl: "https://www.jumpsport.com/cdn/shop/files/550_transparent_1220x1220_2_1_610x610.png?v=1773867212",
+    price: "~$300",
     category: "fitness",
     badge: "🏃",
     name: { en: "JumpSport 550f Fitness Trampoline", ja: "ジャンプスポート 550f フィットネストランポリン" },
@@ -13437,6 +13760,7 @@ const RAW_CATALOG = [
   {
     id: "excalibur-9-tray-dehydrator",
     imageUrl: "https://excaliburdehydrator.com/cdn/shop/files/gig1smq8xlynf6phomk6.jpg?v=1731056762",
+    price: "~$200",
     category: "food",
     badge: "🏆",
     name: { en: "Excalibur 9-Tray Food Dehydrator", ja: "エクスカリバー 9トレイ 食品乾燥機" },
@@ -13456,6 +13780,7 @@ const RAW_CATALOG = [
   {
     id: "cosori-premium-food-dehydrator",
     imageUrl: "https://cosori.com/cdn/shop/products/01.01_OA1_CP267-FD_Silver_03.png?v=1762457668&width=1946",
+    price: "~$100",
     category: "food",
     badge: "⭐",
     name: { en: "Cosori Premium Food Dehydrator 6-Tray", ja: "コソリ プレミアム 食品乾燥機 6トレイ" },
@@ -13475,6 +13800,7 @@ const RAW_CATALOG = [
   {
     id: "nesco-snackmaster-pro",
     imageUrl: "https://b4333452.smushcdn.com/4333452/wp-content/uploads/2018/04/FD-75PR_1-500x500.jpg?lossy=2&strip=1&webp=1",
+    price: "~$60",
     category: "food",
     badge: "🔧",
     name: { en: "Nesco Snackmaster Pro Food Dehydrator", ja: "ネスコ スナックマスタープロ 食品乾燥機" },
@@ -13494,6 +13820,7 @@ const RAW_CATALOG = [
   {
     id: "presto-dehydro-digital",
     imageUrl: "https://www.gopresto.com/i/1526054076236/c1-h560-w560/uploads/06306_Product_Page_Main.jpg",
+    price: "~$60",
     category: "food",
     badge: "💸",
     name: { en: "Presto Dehydro Digital Food Dehydrator", ja: "プレスト デハイドロ デジタル 食品乾燥機" },
@@ -13513,6 +13840,7 @@ const RAW_CATALOG = [
   {
     id: "tribest-sedona-express",
     imageUrl: "https://tribest.com/cdn/shop/products/Sedona-Express-Food-Dehydrator-with-Stainless-Steel-Trays_main_5ff0b20a-4142-4659-b201-65db4bd232ac.jpg?v=1660938489",
+    price: "~$250",
     category: "food",
     badge: "🎯",
     name: { en: "Tribest Sedona Express Food Dehydrator", ja: "トライベスト セドナエクスプレス 食品乾燥機" },
@@ -13534,6 +13862,7 @@ const RAW_CATALOG = [
   {
     id: "dharma-yoga-wheel",
     imageUrl: "https://www.dharmayogawheel.com/cdn/shop/files/DSC02631-6-F.jpg?v=1755898532",
+    price: "~$75",
     category: "fitness",
     badge: "🏆",
     name: { en: "Dharma Yoga Wheel (Original)", ja: "ダーマ ヨガホイール（オリジナル）" },
@@ -13553,6 +13882,7 @@ const RAW_CATALOG = [
   {
     id: "tumaz-yoga-wheel",
     imageUrl: "https://m.media-amazon.com/images/I/71dK8q3p2oL._AC_UL320_.jpg",
+    price: "~$35",
     category: "fitness",
     badge: "⭐",
     name: { en: "Tumaz Yoga Wheel 13-inch", ja: "タマズ ヨガホイール 33 cm" },
@@ -13572,6 +13902,7 @@ const RAW_CATALOG = [
   {
     id: "bly-yoga-wheel",
     category: "fitness",
+    price: "~$40",
     badge: "🛋️",
     name: { en: "BLY Yoga Wheel Extra-Thick Padding", ja: "BLY ヨガホイール 特厚パッド" },
     description: {
@@ -13590,6 +13921,7 @@ const RAW_CATALOG = [
   {
     id: "plexus-yoga-wheel",
     imageUrl: "https://gochirp.com/cdn/shop/files/IMG_9040_2048x2048.jpg?15908527102226676453",
+    price: "~$40",
     category: "fitness",
     badge: "✅",
     name: { en: "Plexus Yoga Wheel Certified", ja: "プレクサス ヨガホイール 認定モデル" },
@@ -13609,6 +13941,7 @@ const RAW_CATALOG = [
   {
     id: "chirp-wheel-plus",
     imageUrl: "https://gochirp.com/cdn/shop/products/chirp-3wheelpack-img-1-hero.png?v=1762270399&width=5000",
+    price: "~$30",
     category: "fitness",
     badge: "🦴",
     name: { en: "Chirp Wheel+ Spinal Groove Yoga Wheel", ja: "チャープホイール プラス 脊椎溝付きヨガホイール" },
@@ -13628,6 +13961,7 @@ const RAW_CATALOG = [
   {
     id: "foodsaver-v4840-vacuum-sealer",
     imageUrl: "https://image.rakuten.co.jp/shopavail/cabinet/imgrc0065906390.jpg",
+    price: "~$100",
     category: "food",
     badge: "🥩",
     name: { en: "FoodSaver V4840 2-in-1 Vacuum Sealer", ja: "フードセーバー V4840 2-in-1 真空パック機" },
@@ -13647,6 +13981,7 @@ const RAW_CATALOG = [
   {
     id: "nesco-vs-12-vacuum-sealer",
     imageUrl: "https://b4333452.smushcdn.com/4333452/wp-content/uploads/2026/04/1.jpg?lossy=2&strip=1&webp=1",
+    price: "~$70",
     category: "food",
     badge: "🔒",
     name: { en: "Nesco VS-12 Deluxe Vacuum Sealer", ja: "Nesco VS-12 デラックス真空パック機" },
@@ -13666,6 +14001,7 @@ const RAW_CATALOG = [
   {
     id: "anova-precision-vacuum-sealer-pro",
     imageUrl: "https://cld.accentuate.io/7274992173245/1666707444987/Vac-Sealer-Pro---with-food-and-hands.jpg?v=1666707444987&options=w_1946",
+    price: "~$100",
     category: "food",
     badge: "♨️",
     name: { en: "Anova Precision Vacuum Sealer Pro", ja: "Anova プレシジョン バキュームシーラー Pro" },
@@ -13685,6 +14021,7 @@ const RAW_CATALOG = [
   {
     id: "geryon-vacuum-sealer-machine",
     imageUrl: "https://geryonkitchen.com/cdn/shop/products/E2900-MSVacuumSealer_1.jpg?v=1631689324",
+    price: "~$30",
     category: "food",
     badge: "📦",
     name: { en: "Geryon Vacuum Sealer Machine", ja: "Geryon 真空パック機" },
@@ -13704,6 +14041,7 @@ const RAW_CATALOG = [
   {
     id: "zwilling-fresh-save-vacuum-system",
     imageUrl: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dw19b444e3/images/large/36809-007.jpg",
+    price: "~$60",
     category: "food",
     badge: "🫙",
     name: { en: "Zwilling Fresh & Save Vacuum Starter Set", ja: "ツヴィリング フレッシュ＆セーブ バキュームスターターセット" },
@@ -13723,6 +14061,7 @@ const RAW_CATALOG = [
   {
     id: "indo-board-original-balance-trainer",
     imageUrl: "https://indoboard.com/cdn/shop/files/original-deck-23042026_a0705b7f-6245-4138-8cc0-7562fd13561a.png",
+    price: "~$100",
     category: "fitness",
     badge: "🏄",
     name: { en: "Indo Board Original Balance Trainer", ja: "インドボード オリジナル バランストレーナー" },
@@ -13742,6 +14081,7 @@ const RAW_CATALOG = [
   {
     id: "bosu-balance-trainer-pro",
     imageUrl: "https://bosu.com/cdn/shop/files/B72-10850-PBOSUPROBalanceTrainerIG_04-2000x2000.jpg?v=1767425416&width=2000",
+    price: "~$150",
     category: "fitness",
     badge: "🔵",
     name: { en: "BOSU Balance Trainer Pro", ja: "BOSU バランストレーナー プロ" },
@@ -13761,6 +14101,7 @@ const RAW_CATALOG = [
   {
     id: "revbalance-101-balance-board",
     imageUrl: "https://revbalance.com/wp-content/uploads/2021/08/101-hero-web-1200.png",
+    price: "~$60",
     category: "fitness",
     badge: "⚖️",
     name: { en: "RevBalance 101 Balance Board", ja: "RevBalance 101 バランスボード" },
@@ -13780,6 +14121,7 @@ const RAW_CATALOG = [
   {
     id: "yes4all-wobble-balance-board",
     imageUrl: "https://i5.walmartimages.com/seo/Yes4All-Wobble-Balance-Board-16-in-Surface-for-Exercise-Balance-Trainer-Sugar-Plum_310345f5-c1e2-446a-878c-7de79486017b.ace4dbbc2177fdcb408b6eca4d90ef3b.jpeg",
+    price: "~$20",
     category: "fitness",
     badge: "🪵",
     name: { en: "Yes4All Wobble Balance Board", ja: "Yes4All ウォブルバランスボード" },
@@ -13799,6 +14141,7 @@ const RAW_CATALOG = [
   {
     id: "fitterst-balance-board",
     imageUrl: "https://balancefitness.com/cdn/shop/files/fitterfirst-16-fitterfirst-professional-balance-boards-30042697138265_e638edaf-65ab-4035-bffa-9df58c1f6fd3.jpg?v=1742078351&width=1500",
+    price: "~$40",
     category: "fitness",
     badge: "🎯",
     name: { en: "FitterFirst Professional Balance Board", ja: "FitterFirst プロフェッショナル バランスボード" },
@@ -13818,6 +14161,7 @@ const RAW_CATALOG = [
   {
     id: "cuisinart-ice-21-ice-cream-maker",
     imageUrl: "https://c1.neweggimages.com/productimage/nb640/96-110-524-03.jpg",
+    price: "~$50",
     category: "food",
     badge: "🍦",
     name: { en: "Cuisinart ICE-21 1.5-Quart Ice Cream Maker", ja: "Cuisinart ICE-21 1.5クォート アイスクリームメーカー" },
@@ -13837,6 +14181,7 @@ const RAW_CATALOG = [
   {
     id: "whynter-icm-200ls-ice-cream-maker",
     imageUrl: "https://target.scene7.com/is/image/Target/GUEST_3cb5f507-14bf-4bf8-8938-cc4b6a919d7c?wid=300&hei=300&fmt=pjpeg",
+    price: "~$250",
     category: "food",
     badge: "❄️",
     name: { en: "Whynter ICM-200LS Automatic Ice Cream Maker", ja: "Whynter ICM-200LS 自動アイスクリームメーカー" },
@@ -13856,6 +14201,7 @@ const RAW_CATALOG = [
   {
     id: "breville-bci600xl-smart-scoop",
     imageUrl: "https://assets.breville.com/cdn-cgi/image/width=1300,format=auto/BCI600/BCI600BSS/pdp.png?pdp",
+    price: "~$350",
     category: "food",
     badge: "🍨",
     name: { en: "Breville BCI600XL Smart Scoop Ice Cream Maker", ja: "Breville BCI600XL スマートスクープ アイスクリームメーカー" },
@@ -13875,6 +14221,7 @@ const RAW_CATALOG = [
   {
     id: "ninja-creami-ice-cream-maker",
     imageUrl: "https://target.scene7.com/is/image/Target/GUEST_f13ea89d-495c-44c1-8694-4f6ab631070b?wid=300&hei=300&fmt=pjpeg",
+    price: "~$150",
     category: "food",
     badge: "🫙",
     name: { en: "Ninja Creami NC301 Ice Cream Maker", ja: "Ninja Creami NC301 アイスクリームメーカー" },
@@ -13894,6 +14241,7 @@ const RAW_CATALOG = [
   {
     id: "kitchenaid-ice-cream-maker-attachment",
     imageUrl: "https://target.scene7.com/is/image/Target/GUEST_698297dd-0459-4138-8d01-589945fdb582?wid=300&hei=300&fmt=pjpeg",
+    price: "~$50",
     category: "food",
     badge: "🥛",
     name: { en: "KitchenAid Ice Cream Maker Attachment", ja: "KitchenAid アイスクリームメーカーアタッチメント" },
@@ -13913,6 +14261,7 @@ const RAW_CATALOG = [
   {
     id: "sklz-quick-ladders",
     imageUrl: "https://sklz.com/cdn/shop/files/zxywwpcghriuf2muoyxg_1.jpg?v=1740080978",
+    price: "~$20",
     category: "fitness",
     badge: "🏃",
     name: { en: "SKLZ Quick Agility Ladder", ja: "SKLZ クイック アジリティラダー" },
@@ -13932,6 +14281,7 @@ const RAW_CATALOG = [
   {
     id: "perfect-fitness-agility-ladder",
     imageUrl: "https://m.media-amazon.com/images/I/619pibS4QtL._AC_UL320_.jpg",
+    price: "~$15",
     category: "fitness",
     badge: "📋",
     name: { en: "Perfect Fitness Agility Ladder with Drill Card", ja: "Perfect Fitness アジリティラダー ドリルカード付き" },
@@ -13951,6 +14301,7 @@ const RAW_CATALOG = [
   {
     id: "yes4all-agility-ladder",
     imageUrl: "https://m.media-amazon.com/images/I/71ZPLLV-COS._AC_UL320_.jpg",
+    price: "~$20",
     category: "fitness",
     badge: "⚡",
     name: { en: "Yes4All Agility Ladder (10/15/20 ft)", ja: "Yes4All アジリティラダー（10/15/20フィート）" },
@@ -13970,6 +14321,7 @@ const RAW_CATALOG = [
   {
     id: "toezone-agility-ladder",
     imageUrl: "https://m.media-amazon.com/images/I/51P0UJbVqgL._AC_UL320_.jpg",
+    price: "~$30",
     category: "fitness",
     badge: "🏋️",
     name: { en: "Toezone Agility Ladder (Heavy Duty)", ja: "Toezone アジリティラダー（ヘビーデューティー）" },
@@ -13989,6 +14341,7 @@ const RAW_CATALOG = [
   {
     id: "speed-and-agility-pro-ladder",
     imageUrl: "https://m.media-amazon.com/images/I/71LqxqweeJL._AC_UL320_.jpg",
+    price: "~$40",
     category: "fitness",
     badge: "🥇",
     name: { en: "Speed & Agility Pro Aluminum Agility Ladder", ja: "Speed & Agility Pro アルミ アジリティラダー" },
@@ -14008,6 +14361,7 @@ const RAW_CATALOG = [
   {
     id: "boos-block-maple-cutting-board",
     imageUrl: "https://cms.johnboos.com/assets/r01_pdp-stories-2880x1440.jpg",
+    price: "~$100",
     category: "food",
     badge: "🍁",
     name: { en: "Boos Block Maple Cutting Board", ja: "Boos Block メープルまな板" },
@@ -14027,6 +14381,7 @@ const RAW_CATALOG = [
   {
     id: "teakhaus-edge-grain-cutting-board",
     imageUrl: "https://teakhaus.com/cdn/shop/products/106_02.jpg?v=1775846847&width=1000",
+    price: "~$80",
     category: "food",
     badge: "🌿",
     name: { en: "Teakhaus Edge Grain Teak Cutting Board", ja: "Teakhaus エッジグレイン チークまな板" },
@@ -14046,6 +14401,7 @@ const RAW_CATALOG = [
   {
     id: "oxo-good-grips-plastic-cutting-board",
     imageUrl: "https://m.media-amazon.com/images/I/41fvftMdTZL._AC_UL320_.jpg",
+    price: "~$30",
     category: "food",
     badge: "🧼",
     name: { en: "OXO Good Grips Plastic Cutting Board", ja: "OXO グッドグリップス プラスチックまな板" },
@@ -14065,6 +14421,7 @@ const RAW_CATALOG = [
   {
     id: "epicurean-kitchen-series-cutting-board",
     imageUrl: "https://epicurean-us.com/cdn/shop/products/KS1.jpg?v=1664636231&width=400",
+    price: "~$30",
     category: "food",
     badge: "📄",
     name: { en: "Epicurean Kitchen Series Composite Cutting Board", ja: "Epicurean キッチンシリーズ コンポジットまな板" },
@@ -14084,6 +14441,7 @@ const RAW_CATALOG = [
   {
     id: "john-boos-walnut-butcher-block",
     imageUrl: "https://cdn.shopify.com/s/files/1/0880/5521/8461/files/WAL-PCA2_PLP.jpg?v=1730077731&width=660&height=792&crop=center",
+    price: "~$150",
     category: "food",
     badge: "🌰",
     name: { en: "John Boos Walnut End-Grain Butcher Block Board", ja: "John Boos ウォルナット エンドグレイン ブッチャーブロックボード" },
@@ -14103,6 +14461,7 @@ const RAW_CATALOG = [
   {
     id: "trideer-stability-ball",
     imageUrl: "https://trideer.com/cdn/shop/files/TrideerExtraThickExerciseBall_1.jpg?v=1776329760",
+    price: "~$25",
     category: "fitness",
     badge: "⚪",
     name: { en: "Trideer Extra Thick Exercise Ball", ja: "Trideer エクストラシック エクササイズボール" },
@@ -14122,6 +14481,7 @@ const RAW_CATALOG = [
   {
     id: "gaiam-total-body-balance-ball",
     imageUrl: "https://www.gaiam.com/cdn/shop/products/05-51980-line-55ball-A.jpg?v=1588972863&width=2500",
+    price: "~$30",
     category: "fitness",
     badge: "🎯",
     name: { en: "Gaiam Total Body Balance Ball Kit", ja: "Gaiam トータルボディ バランスボール キット" },
@@ -14141,6 +14501,7 @@ const RAW_CATALOG = [
   {
     id: "live-pro-stability-ball",
     imageUrl: "https://www.livepro-fitness.com/wp-content/uploads/2022/02/LP8201hf.jpg",
+    price: "~$40",
     category: "fitness",
     badge: "🏋️",
     name: { en: "Live Pro Stability Ball", ja: "Live Pro スタビリティボール" },
@@ -14160,6 +14521,7 @@ const RAW_CATALOG = [
   {
     id: "urbnfit-exercise-ball",
     imageUrl: "https://modernspacegallery.com/cdn/shop/products/URBNFIT-Exercise-Ball---Anti-Burst_Swiss-Balance-Yoga-Ball_w--Quick-Pump-URBNFit-1659200787.jpg?v=1738890384&width=1080",
+    price: "~$30",
     category: "fitness",
     badge: "🎨",
     name: { en: "URBNFit Exercise Ball", ja: "URBNFit エクササイズボール" },
@@ -14179,6 +14541,7 @@ const RAW_CATALOG = [
   {
     id: "bosu-nexgen-stability-ball",
     imageUrl: "https://bosu.com/cdn/shop/files/72-10850-PNGBOSUNexGenProBalanceTrainerIG_04-2000x2000_aa39fb82-404f-4869-978a-c0dc90ecf4fc.jpg?v=1767426672&width=2000",
+    price: "~$100",
     category: "fitness",
     badge: "🔵",
     name: { en: "BOSU NexGen Pro Balance Trainer", ja: "BOSU NexGen プロ バランストレーナー" },
@@ -14198,6 +14561,7 @@ const RAW_CATALOG = [
   {
     id: "all-clad-d3-stainless-stockpot",
     imageUrl: "https://www.all-clad.com/media/catalog/product/8/7/8701005780_hero.jpg",
+    price: "~$200",
     category: "food",
     badge: "🍲",
     name: { en: "All-Clad D3 Stainless Stockpot", ja: "All-Clad D3 ステンレス寸胴鍋" },
@@ -14217,6 +14581,7 @@ const RAW_CATALOG = [
   {
     id: "cuisinart-multiclad-pro-stockpot",
     imageUrl: "https://m.media-amazon.com/images/I/519MAG1upTL._AC_UL320_.jpg",
+    price: "~$60",
     category: "food",
     badge: "🥘",
     name: { en: "Cuisinart Multiclad Pro Stainless Stockpot", ja: "Cuisinart Multiclad Pro ステンレス寸胴鍋" },
@@ -14236,6 +14601,7 @@ const RAW_CATALOG = [
   {
     id: "tramontina-stainless-stockpot",
     imageUrl: "https://www.tramontina.com/cdn/shop/files/Signature_8_Quart_Tri-Ply-Clad_Stainless_Steel_Covered_Stock_Pot_80116041.jpg?v=1738020387&width=1214",
+    price: "~$100",
     category: "food",
     badge: "⭐",
     name: { en: "Tramontina Gourmet Tri-Ply Clad Stockpot", ja: "Tramontina グルメ トリプルクラッド 寸胴鍋" },
@@ -14255,6 +14621,7 @@ const RAW_CATALOG = [
   {
     id: "lodge-cast-iron-dutch-oven-5qt",
     imageUrl: "https://www.lodgecastiron.com/cdn/shop/files/3000x3000_EC7D51_e797bdf1-8921-42d9-9978-2eefee4237d3.jpg?v=1772557412&width=3000",
+    price: "~$80",
     category: "food",
     badge: "🫕",
     name: { en: "Lodge Enameled Cast Iron Dutch Oven (5 qt)", ja: "Lodge ホーロー鋳鉄ダッチオーブン（5クォート）" },
@@ -14274,6 +14641,7 @@ const RAW_CATALOG = [
   {
     id: "demeyere-industry-stockpot",
     imageUrl: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dw4295bede/images/large/5412191483947_48394.jpg",
+    price: "~$250",
     category: "food",
     badge: "🏆",
     name: { en: "Demeyere Industry Stainless Stockpot", ja: "Demeyere Industry ステンレス寸胴鍋" },
@@ -14293,6 +14661,7 @@ const RAW_CATALOG = [
   {
     id: "rx-smart-gear-bullet-comp-speed-rope",
     imageUrl: "https://rxsmartgear.com/cdn/shop/files/EVO_G2_Speed_Rope_Handles__65008.jpg?v=1742313160",
+    price: "~$55",
     category: "fitness",
     badge: "🏅",
     name: { en: "RX Smart Gear Bullet Comp Speed Rope", ja: "RX Smart Gear Bullet Comp スピードロープ" },
@@ -14312,6 +14681,7 @@ const RAW_CATALOG = [
   {
     id: "crossrope-get-lean-set",
     imageUrl: "https://www.crossrope.com/cdn/shop/files/Classic_GetLean_1.jpg?v=1776713490",
+    price: "~$80",
     category: "fitness",
     badge: "⚖️",
     name: { en: "Crossrope Get Lean Set (Weighted Jump Rope)", ja: "Crossrope Get Lean セット（加重ジャンプロープ）" },
@@ -14331,6 +14701,7 @@ const RAW_CATALOG = [
   {
     id: "buddy-lee-aero-speed-rope",
     imageUrl: "https://greatcallathletics.com/cdn/shop/files/Buddy_Lee_Aero_Speed.png?v=1775870991&width=1200",
+    price: "~$30",
     category: "fitness",
     badge: "🔄",
     name: { en: "Buddy Lee Aero Speed Jump Rope", ja: "Buddy Lee Aero スピードジャンプロープ" },
@@ -14350,6 +14721,7 @@ const RAW_CATALOG = [
   {
     id: "wod-nation-speed-rope",
     imageUrl: "https://m.media-amazon.com/images/I/71R3cJYpa0L._AC_UL320_.jpg",
+    price: "~$20",
     category: "fitness",
     badge: "📝",
     name: { en: "WOD Nation Speed Jump Rope", ja: "WOD Nation スピードジャンプロープ" },
@@ -14369,6 +14741,7 @@ const RAW_CATALOG = [
   {
     id: "elite-surge-3-speed-rope",
     imageUrl: "https://elitejumps.co/cdn/shop/files/SURGE_BLACK_a0fa304d-5290-40a2-a8da-98608cf07120.jpg",
+    price: "~$25",
     category: "fitness",
     badge: "⚡",
     name: { en: "Elite Surge 3 Speed Jump Rope", ja: "Elite Surge 3 スピードジャンプロープ" },
@@ -14388,6 +14761,7 @@ const RAW_CATALOG = [
   {
     id: "joyce-chen-carbon-steel-wok",
     imageUrl: "https://thejoycechen.com/wp-content/uploads/2024/02/joyce-chen-classic-series-14-inch-carbon-steel-wok-with-birch-handles-768x768.jpg",
+    price: "~$35",
     category: "food",
     badge: "🥢",
     name: { en: "Joyce Chen Carbon Steel Wok", ja: "Joyce Chen 炭素鋼中華鍋" },
@@ -14407,6 +14781,7 @@ const RAW_CATALOG = [
   {
     id: "yosukata-carbon-steel-wok",
     imageUrl: "https://us.yosukata.com/cdn/shop/files/WOK_Blue_Flat_34_WC_Wirecutter_2025_Bl2.jpg?v=1774132442&width=320",
+    price: "~$50",
     category: "food",
     badge: "🥢",
     name: { en: "Yosukata Hand-Hammered Carbon Steel Wok", ja: "Yosukata 手打ち炭素鋼中華鍋" },
@@ -14426,6 +14801,7 @@ const RAW_CATALOG = [
   {
     id: "craft-wok-traditional-hand-hammered",
     imageUrl: "https://craftwok.com/cdn/shop/products/731W88_300x300.jpg?v=1591448961",
+    price: "~$45",
     category: "food",
     badge: "🥢",
     name: { en: "Craft Wok Traditional Hand-Hammered Carbon Steel", ja: "Craft Wok 伝統的手打ち炭素鋼中華鍋" },
@@ -14445,6 +14821,7 @@ const RAW_CATALOG = [
   {
     id: "lodge-cast-iron-wok",
     imageUrl: "https://www.lodgecastiron.com/cdn/shop/files/L14W_14-Inch-Wok_Whitetable1_800x800_WEB.jpg?v=1763150854&width=800",
+    price: "~$50",
     category: "food",
     badge: "🥢",
     name: { en: "Lodge Cast Iron Wok", ja: "Lodge 鋳鉄中華鍋" },
@@ -14464,6 +14841,7 @@ const RAW_CATALOG = [
   {
     id: "tfal-nonstick-wok",
     imageUrl: "https://target.scene7.com/is/image/Target/GUEST_b5de1fd9-5eae-4187-ab40-4992a8aef2d0?wid=300&hei=300&fmt=pjpeg",
+    price: "~$30",
     category: "food",
     badge: "🥢",
     name: { en: "T-fal Nonstick Wok", ja: "T-fal ノンスティック中華鍋" },
@@ -14483,6 +14861,7 @@ const RAW_CATALOG = [
   {
     id: "bodylastics-resistance-band-set",
     imageUrl: "https://bodylastics.com/cdn/shop/files/indexset.jpg?v=1759248636",
+    price: "~$50",
     category: "fitness",
     badge: "💪",
     name: { en: "Bodylastics Stackable Resistance Band Set", ja: "Bodylastics スタッカブルレジスタンスバンドセット" },
@@ -14502,6 +14881,7 @@ const RAW_CATALOG = [
   {
     id: "undersun-resistance-band-set",
     imageUrl: "https://cdn.prod.website-files.com/62a404e653c2a1735291d1fc/62bca6370bfdf26437d536da_5%20Band%20Set%20-%20Orange.png",
+    price: "~$40",
     category: "fitness",
     badge: "💪",
     name: { en: "Undersun Resistance Loop Band Set", ja: "Undersun レジスタンスループバンドセット" },
@@ -14521,6 +14901,7 @@ const RAW_CATALOG = [
   {
     id: "black-mountain-resistance-band-set",
     imageUrl: "https://blackmountainproducts.com/wp-content/uploads/2015/04/17-600x450.jpg",
+    price: "~$30",
     category: "fitness",
     badge: "💪",
     name: { en: "Black Mountain Resistance Band Set", ja: "Black Mountain レジスタンスバンドセット" },
@@ -14540,6 +14921,7 @@ const RAW_CATALOG = [
   {
     id: "fit-simplify-resistance-band-set",
     imageUrl: "https://www.fitsimplify.com/wp-content/uploads/2016/12/1-mod-circle-749x800.jpg",
+    price: "~$12",
     category: "fitness",
     badge: "💪",
     name: { en: "Fit Simplify Resistance Loop Band Set", ja: "Fit Simplify レジスタンスループバンドセット" },
@@ -14559,6 +14941,7 @@ const RAW_CATALOG = [
   {
     id: "wod-nation-resistance-band-set",
     imageUrl: "https://m.media-amazon.com/images/I/61Y8K1OuxXL._AC_UL320_.jpg",
+    price: "~$20",
     category: "fitness",
     badge: "💪",
     name: { en: "WOD Nation Resistance Band Set", ja: "WOD Nation レジスタンスバンドセット" },
@@ -14578,6 +14961,7 @@ const RAW_CATALOG = [
   {
     id: "nordic-ware-baking-sheet",
     imageUrl: "https://target.scene7.com/is/image/Target/GUEST_312234e2-4119-47f6-b673-b51c28d34afb?wid=600&hei=600&fmt=pjpeg",
+    price: "~$15",
     category: "food",
     badge: "🍪",
     name: { en: "Nordic Ware Natural Aluminum Half Sheet", ja: "Nordic Ware 天然アルミニウム ハーフシート" },
@@ -14597,6 +14981,7 @@ const RAW_CATALOG = [
   {
     id: "usa-pan-half-sheet",
     imageUrl: "https://d163axztg8am2h.cloudfront.net/static/img/54/38/f0a27048be675768e7c22e8bae57.webp",
+    price: "~$20",
     category: "food",
     badge: "🍪",
     name: { en: "USA Pan Half Sheet Baking Pan", ja: "USA Pan ハーフシート ベーキングパン" },
@@ -14616,6 +15001,7 @@ const RAW_CATALOG = [
   {
     id: "wilton-baking-sheet",
     imageUrl: "https://m.media-amazon.com/images/I/91VO5ZaYinL._AC_UL320_.jpg",
+    price: "~$10",
     category: "food",
     badge: "🍪",
     name: { en: "Wilton Nonstick Half Sheet Baking Pan", ja: "Wilton ノンスティック ハーフシート ベーキングパン" },
@@ -14635,6 +15021,7 @@ const RAW_CATALOG = [
   {
     id: "oxo-good-grips-baking-sheet",
     imageUrl: "https://gilbertwhitney.com/cdn/shop/files/81bFnKmAuZS._AC_SL1500.jpg?v=1729276447&width=500",
+    price: "~$20",
     category: "food",
     badge: "🍪",
     name: { en: "OXO Good Grips Nonstick Half Sheet Baking Pan", ja: "OXO Good Grips ノンスティック ハーフシート ベーキングパン" },
@@ -14654,6 +15041,7 @@ const RAW_CATALOG = [
   {
     id: "chicago-metallic-baking-sheet",
     imageUrl: "https://www.cmbakeware.com/wp-content/uploads/2020/07/40855-600x415.jpg",
+    price: "~$20",
     category: "food",
     badge: "🍪",
     name: { en: "Chicago Metallic Commercial II Half Sheet", ja: "Chicago Metallic 商業グレード ハーフシート" },
@@ -14673,6 +15061,7 @@ const RAW_CATALOG = [
   {
     id: "ironmind-captains-of-crush-gripper",
     imageUrl: "https://www.ironmind-store.com/images/1250-bkid-t.jpg",
+    price: "~$20",
     category: "fitness",
     badge: "💪",
     name: { en: "IronMind Captains of Crush Gripper", ja: "IronMind Captains of Crush グリッパー" },
@@ -14692,6 +15081,7 @@ const RAW_CATALOG = [
   {
     id: "fat-gripz-barbell-attachment",
     imageUrl: "https://fatgripz.com/cdn/shop/products/Fatgripz-fatgrips_533x.jpg?v=1649362811",
+    price: "~$35",
     category: "fitness",
     badge: "💪",
     name: { en: "Fat Gripz Barbell Attachment", ja: "Fat Gripz バーベルアタッチメント" },
@@ -14711,6 +15101,7 @@ const RAW_CATALOG = [
   {
     id: "harbinger-wrist-roller",
     category: "fitness",
+    price: "~$15",
     badge: "💪",
     name: { en: "Harbinger Wrist Roller", ja: "Harbinger リストローラー" },
     description: {
@@ -14729,6 +15120,7 @@ const RAW_CATALOG = [
   {
     id: "metolius-grip-saver-plus",
     imageUrl: "https://www.metoliusclimbing.com/cdn/shop/files/GripSaver-Regular-Red.jpg?crop=center&height=1024&v=1759430968&width=1024",
+    price: "~$15",
     category: "fitness",
     badge: "💪",
     name: { en: "Metolius Grip Saver Plus", ja: "Metolius グリップセーバープラス" },
@@ -14748,6 +15140,7 @@ const RAW_CATALOG = [
   {
     id: "grip4force-grip-trainer",
     category: "fitness",
+    price: "~$30",
     badge: "💪",
     name: { en: "Grip4Force Grip Trainer Pull-Up Bar Attachment", ja: "Grip4Force グリップトレーナー 懸垂バーアタッチメント" },
     description: {
@@ -14766,6 +15159,7 @@ const RAW_CATALOG = [
   {
     id: "bialetti-moka-express",
     imageUrl: "https://www.bialetti.com/media/catalog/product/m/o/moka_express.png?format=jpeg",
+    price: "~$25",
     category: "food",
     badge: "☕",
     name: { en: "Bialetti Moka Express", ja: "Bialetti モカエクスプレス" },
@@ -14785,6 +15179,7 @@ const RAW_CATALOG = [
   {
     id: "bialetti-brikka",
     imageUrl: "https://www.bialetti.com/media/catalog/product/b/r/brikka_4.png",
+    price: "~$40",
     category: "food",
     badge: "☕",
     name: { en: "Bialetti Brikka Moka Pot", ja: "Bialetti ブリッカ モカポット" },
@@ -14804,6 +15199,7 @@ const RAW_CATALOG = [
   {
     id: "cuisinox-roma-moka-pot",
     imageUrl: "https://cuisinox.com/cdn/shop/files/COF-6RS-SET_f6f4d7e9-790d-4fdd-b2d0-d76152d9ef7e_1500x.jpg?v=1769200909",
+    price: "~$40",
     category: "food",
     badge: "☕",
     name: { en: "Cuisinox Roma Stainless Steel Moka Pot", ja: "Cuisinox Roma ステンレス鋼モカポット" },
@@ -14823,6 +15219,7 @@ const RAW_CATALOG = [
   {
     id: "ilsa-stovetop-espresso-maker",
     imageUrl: "https://m.media-amazon.com/images/I/71S-rzjR9uL._AC_UL320_.jpg",
+    price: "~$35",
     category: "food",
     badge: "☕",
     name: { en: "Ilsa Stovetop Espresso Maker", ja: "Ilsa ストーブトップエスプレッソメーカー" },
@@ -14842,6 +15239,7 @@ const RAW_CATALOG = [
   {
     id: "pezzetti-italexpress-moka",
     imageUrl: "https://yummybazaar.com/cdn/shop/files/GFM-103302_a947024a-5fa1-432a-95fc-cabaf8c0ec16_1024x.jpg?v=1752496468",
+    price: "~$20",
     category: "food",
     badge: "☕",
     name: { en: "Pezzetti Italexpress Moka Pot", ja: "Pezzetti イタレクスプレス モカポット" },
@@ -14861,6 +15259,7 @@ const RAW_CATALOG = [
   {
     id: "rogue-sandbag",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Conditioning/Strength%20Equipment/Sand%20Bags/RA2210/RA2210-H_cgbvhx.png",
+    price: "~$175",
     category: "fitness",
     badge: "🏋️",
     name: { en: "Rogue Fitness Training Sandbag", ja: "Rogue Fitness トレーニングサンドバッグ" },
@@ -14880,6 +15279,7 @@ const RAW_CATALOG = [
   {
     id: "rep-fitness-sandbag",
     imageUrl: "https://cdn.shopify.com/s/files/1/0574/1215/7598/t/16/assets/acf.0J6A3575-Edit.png?v=1652899787",
+    price: "~$80",
     category: "fitness",
     badge: "🏋️",
     name: { en: "REP Fitness Training Sandbag", ja: "REP Fitness トレーニングサンドバッグ" },
@@ -14899,6 +15299,7 @@ const RAW_CATALOG = [
   {
     id: "goruck-training-sandbag",
     imageUrl: "https://www.goruck.com/cdn/shop/files/SimpleSandbag_20LB_Black.jpg?v=1769629383&width=1500",
+    price: "~$100",
     category: "fitness",
     badge: "🏋️",
     name: { en: "GORUCK Training Sandbag", ja: "GORUCK トレーニングサンドバッグ" },
@@ -14918,6 +15319,7 @@ const RAW_CATALOG = [
   {
     id: "vikingstrength-sandbag",
     category: "fitness",
+    price: "~$100",
     badge: "🏋️",
     name: { en: "Viking Strength Training Sandbag", ja: "Viking Strength トレーニングサンドバッグ" },
     description: {
@@ -14936,6 +15338,7 @@ const RAW_CATALOG = [
   {
     id: "cerberus-strength-sandbag",
     imageUrl: "https://m.media-amazon.com/images/I/61lShutBabL._AC_UL320_.jpg",
+    price: "~$150",
     category: "fitness",
     badge: "🏋️",
     name: { en: "Cerberus Strength Training Sandbag", ja: "Cerberus Strength トレーニングサンドバッグ" },
@@ -14955,6 +15358,7 @@ const RAW_CATALOG = [
   {
     id: "aeropress-original",
     imageUrl: "https://aeropress.com/cdn/shop/files/AP_OG_PDP_ATF_1_900x.png?v=1757095176",
+    price: "~$35",
     category: "food",
     badge: "☕",
     name: { en: "AeroPress Original Coffee Maker", ja: "AeroPress オリジナル コーヒーメーカー" },
@@ -14974,6 +15378,7 @@ const RAW_CATALOG = [
   {
     id: "aeropress-go-portable",
     imageUrl: "https://image.rakuten.co.jp/tsujimoto/cabinet/img/gear/g_aeropressgo/aeropressgo-w1.jpg",
+    price: "~$35",
     category: "food",
     badge: "☕",
     name: { en: "AeroPress Go Portable Coffee Maker", ja: "AeroPress Go ポータブル コーヒーメーカー" },
@@ -14993,6 +15398,7 @@ const RAW_CATALOG = [
   {
     id: "aeropress-clear",
     imageUrl: "https://image.rakuten.co.jp/tsujimoto/cabinet/img/gear/g_aeropressgo/gear-aeropress-cl-w1.jpg",
+    price: "~$40",
     category: "food",
     badge: "☕",
     name: { en: "AeroPress Clear Coffee Maker", ja: "AeroPress クリア コーヒーメーカー" },
@@ -15012,6 +15418,7 @@ const RAW_CATALOG = [
   {
     id: "aeropress-xl",
     imageUrl: "https://aeropress.com/cdn/shop/files/AP_OG_PDP_ATF_1_0fc0a228-ef61-4e98-8c64-6c0acb90a128_900x.png?v=1757102919",
+    price: "~$55",
     category: "food",
     badge: "☕",
     name: { en: "AeroPress XL Coffee Maker", ja: "AeroPress XL コーヒーメーカー" },
@@ -15031,6 +15438,7 @@ const RAW_CATALOG = [
   {
     id: "fellow-prismo-aeropress-attachment",
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/smartkitchen/cabinet/19/s10009716-002.jpg",
+    price: "~$25",
     category: "food",
     badge: "☕",
     name: { en: "Fellow Prismo AeroPress Attachment", ja: "Fellow Prismo エアロプレス アタッチメント" },
@@ -15050,6 +15458,7 @@ const RAW_CATALOG = [
   {
     id: "ultimate-body-press-dip-bar",
     imageUrl: "https://ultimatebodypress.com/cdn/shop/products/dip-bar-fitness-station-folding-bodyweight-bw_700x700.jpg?v=1763055633",
+    price: "~$80",
     category: "fitness",
     badge: "💪",
     name: { en: "Ultimate Body Press Dip Bar", ja: "Ultimate Body Press ディップバー" },
@@ -15069,6 +15478,7 @@ const RAW_CATALOG = [
   {
     id: "rep-fitness-dip-bar",
     imageUrl: "https://cdn.arenacommerce.com/repfitnessco/DipAttachment2%20-%20Main.webp",
+    price: "~$120",
     category: "fitness",
     badge: "💪",
     name: { en: "REP Fitness Dip Bar", ja: "REP Fitness ディップバー" },
@@ -15088,6 +15498,7 @@ const RAW_CATALOG = [
   {
     id: "rogue-matador-dip-attachment",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Rigs%20and%20Racks/Rig%20and%20Rack%20Accessories/Monster%20Accessories/MATADORGROUP/MATADORGROUP-H_c09sdh.png",
+    price: "~$80",
     category: "fitness",
     badge: "💪",
     name: { en: "Rogue Matador Dip Attachment", ja: "Rogue Matador ディップアタッチメント" },
@@ -15107,6 +15518,7 @@ const RAW_CATALOG = [
   {
     id: "cap-barbell-dip-bar",
     imageUrl: "https://cdn.shopify.com/s/files/1/0604/5840/1863/files/FM_FLDIPR_006__55923.1460756819.1280.1280_ec616e2b-a274-48a7-954c-d900166044a9.jpg?v=1768894393",
+    price: "~$40",
     category: "fitness",
     badge: "💪",
     name: { en: "CAP Barbell Dip Bar Stand", ja: "CAP Barbell ディップバースタンド" },
@@ -15126,6 +15538,7 @@ const RAW_CATALOG = [
   {
     id: "valor-fitness-bd-62-dip-bar",
     category: "fitness",
+    price: "~$80",
     badge: "💪",
     name: { en: "Valor Fitness BD-62 Dip Bar", ja: "Valor Fitness BD-62 ディップバー" },
     description: {
@@ -15145,6 +15558,7 @@ const RAW_CATALOG = [
   {
     id: "bodum-chambord-french-press",
     imageUrl: "https://www.vervecoffee.com/cdn/shop/products/Merch-Bodum-Chambord-8-Cup-French-Press_1500x.png?v=1736893684",
+    price: "~$35",
     category: "food",
     badge: "☕",
     name: { en: "Bodum Chambord French Press", ja: "Bodum Chambord フレンチプレス" },
@@ -15164,6 +15578,7 @@ const RAW_CATALOG = [
   {
     id: "Fellow-Clara-french-press",
     imageUrl: "https://image.rakuten.co.jp/smartkitchen/cabinet/23/s10011318-002.jpg",
+    price: "~$80",
     category: "food",
     badge: "☕",
     name: { en: "Fellow Clara French Press", ja: "Fellow Clara フレンチプレス" },
@@ -15183,6 +15598,7 @@ const RAW_CATALOG = [
   {
     id: "espro-p3-french-press",
     imageUrl: "https://espro.com/cdn/shop/files/p3_32.jpg?v=1774905349",
+    price: "~$60",
     category: "food",
     badge: "☕",
     name: { en: "Espro P3 French Press", ja: "Espro P3 フレンチプレス" },
@@ -15202,6 +15618,7 @@ const RAW_CATALOG = [
   {
     id: "frieling-double-wall-french-press",
     imageUrl: "https://m.media-amazon.com/images/I/61P1EOqVQWL._AC_UL320_.jpg",
+    price: "~$80",
     category: "food",
     badge: "☕",
     name: { en: "Frieling Double-Wall French Press", ja: "Frieling 二重壁フレンチプレス" },
@@ -15221,6 +15638,7 @@ const RAW_CATALOG = [
   {
     id: "mueller-french-press",
     imageUrl: "https://m.media-amazon.com/images/I/81o2iIR4ulL._AC_UL320_.jpg",
+    price: "~$25",
     category: "food",
     badge: "☕",
     name: { en: "Mueller French Press", ja: "Mueller フレンチプレス" },
@@ -15241,6 +15659,7 @@ const RAW_CATALOG = [
   {
     id: "rep-fitness-ab-5000-adjustable-bench",
     imageUrl: "https://garagegymproducts.com/wp-content/uploads/2020/08/Rep-Fitness-AB-5000-FID.png",
+    price: "~$350",
     category: "fitness",
     badge: "💪",
     name: { en: "REP Fitness AB-5000 Adjustable Bench", ja: "REP Fitness AB-5000 調整可能ベンチ" },
@@ -15260,6 +15679,7 @@ const RAW_CATALOG = [
   {
     id: "rogue-monster-utility-bench",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Strength%20Equipment/Strength%20Training/Weight%20Benches/MONSTERBENCH2-0-MG/RF0853-Premium-Textured-Foam-Standard_wcnr4b.png",
+    price: "~$245",
     category: "fitness",
     badge: "💪",
     name: { en: "Rogue Monster Utility Bench", ja: "Rogue Monster ユーティリティベンチ" },
@@ -15279,6 +15699,7 @@ const RAW_CATALOG = [
   {
     id: "flybird-adjustable-bench",
     imageUrl: "https://image.rakuten.co.jp/alphaespace-usa/cabinet/img27/8001576.jpg",
+    price: "~$100",
     category: "fitness",
     badge: "💪",
     name: { en: "Flybird Adjustable Weight Bench", ja: "Flybird 調整可能ウェイトベンチ" },
@@ -15298,6 +15719,7 @@ const RAW_CATALOG = [
   {
     id: "fitness-reality-1000-super-max-bench",
     imageUrl: "https://m.media-amazon.com/images/I/71Qqb65dhAL._AC_UL320_.jpg",
+    price: "~$150",
     category: "fitness",
     badge: "💪",
     name: { en: "Fitness Reality 1000 Super Max Bench", ja: "Fitness Reality 1000 Super Max ベンチ" },
@@ -15317,6 +15739,7 @@ const RAW_CATALOG = [
   {
     id: "prime-fitness-flat-bench",
     category: "fitness",
+    price: "~$100",
     badge: "💪",
     name: { en: "Prime Fitness Flat Bench", ja: "Prime Fitness フラットベンチ" },
     description: {
@@ -15336,6 +15759,7 @@ const RAW_CATALOG = [
   {
     id: "chemex-6-cup-classic",
     imageUrl: "https://chemexcoffeemaker.com/cdn/shop/files/cm-6a.jpg?v=1724186506",
+    price: "~$45",
     category: "food",
     badge: "☕",
     name: { en: "Chemex Classic 6-Cup", ja: "Chemex クラシック 6カップ" },
@@ -15355,6 +15779,7 @@ const RAW_CATALOG = [
   {
     id: "chemex-8-cup-classic",
     imageUrl: "https://image.rakuten.co.jp/kobe-select/cabinet/imgrc0088285914.jpg",
+    price: "~$55",
     category: "food",
     badge: "☕",
     name: { en: "Chemex Classic 8-Cup", ja: "Chemex クラシック 8カップ" },
@@ -15374,6 +15799,7 @@ const RAW_CATALOG = [
   {
     id: "chemex-glass-handle",
     imageUrl: "https://image.rakuten.co.jp/freedesign/cabinet/img23/pmcgc001-image01.jpg",
+    price: "~$55",
     category: "food",
     badge: "☕",
     name: { en: "Chemex Glass Handle 8-Cup", ja: "Chemex グラスハンドル 8カップ" },
@@ -15393,6 +15819,7 @@ const RAW_CATALOG = [
   {
     id: "chemex-bonded-filters",
     imageUrl: "https://image.rakuten.co.jp/solairo/cabinet/chx/chx9001-2.jpg",
+    price: "~$10",
     category: "food",
     badge: "☕",
     name: { en: "Chemex Bonded Filters (100-count)", ja: "Chemex 専用フィルター（100枚）" },
@@ -15412,6 +15839,7 @@ const RAW_CATALOG = [
   {
     id: "hario-v60-02",
     imageUrl: "https://image.rakuten.co.jp/gensouen/cabinet/item/other/img61122244.jpg",
+    price: "~$25",
     category: "food",
     badge: "☕",
     name: { en: "Hario V60 02 Pour-Over", ja: "Hario V60 02 ポアオーバー" },
@@ -15432,6 +15860,7 @@ const RAW_CATALOG = [
   {
     id: "lat-pulldown-machine-by-marcy",
     imageUrl: "https://www.marcypro.com/cdn/shop/files/Marcy_Home_Gym_System_150lb_Weight_Stack_Machine_MWM-988__97260.1677714781.1280.1280.jpg?v=1752513021",
+    price: "~$350",
     category: "fitness",
     badge: "💪",
     name: { en: "Marcy Lat Pulldown Machine", ja: "Marcy ラットプルダウンマシン" },
@@ -15451,6 +15880,7 @@ const RAW_CATALOG = [
   {
     id: "body-solid-lat-pulldown",
     imageUrl: "https://cdn11.bigcommerce.com/s-2v01ommyhe/images/stencil/1028x1028/products/787/2834/LVLA%5F0002%5F%5F75146.1735657465.jpg?c=1",
+    price: "~$500",
     category: "fitness",
     badge: "💪",
     name: { en: "Body-Solid Lat Pulldown Machine", ja: "Body-Solid ラットプルダウンマシン" },
@@ -15470,6 +15900,7 @@ const RAW_CATALOG = [
   {
     id: "valor-fitness-cb-12",
     imageUrl: "https://valorfitness.com/cdn/shop/files/CB_12_Main_1.jpg?v=1755713643&width=1214",
+    price: "~$300",
     category: "fitness",
     badge: "💪",
     name: { en: "Valor Fitness CB-12 Cable Station", ja: "Valor Fitness CB-12 ケーブルステーション" },
@@ -15489,6 +15920,7 @@ const RAW_CATALOG = [
   {
     id: "functional-trainer-by-force-usa",
     imageUrl: "https://www.forceusa.com/cdn/shop/files/F-FTR-03-new.jpg?v=1757948650&width=400",
+    price: "~$800",
     category: "fitness",
     badge: "💪",
     name: { en: "Force USA Functional Trainer", ja: "Force USA 機能的トレーナー" },
@@ -15508,6 +15940,7 @@ const RAW_CATALOG = [
   {
     id: "cable-crossover-by-titan-fitness",
     imageUrl: "https://titan.fitness/cdn/shop/files/400883_01.jpg?v=1742223739&width=1946",
+    price: "~$700",
     category: "fitness",
     badge: "💪",
     name: { en: "Titan Fitness Functional Trainer", ja: "Titan Fitness 機能的トレーナー" },
@@ -15528,6 +15961,7 @@ const RAW_CATALOG = [
   {
     id: "baratza-encore-burr-grinder",
     imageUrl: "https://www.stumptowncoffee.com/cdn/shop/products/STC-Shopify-EncoreGrinder_Product-Image-Transparent-PNG.png?v=1625782333",
+    price: "~$140",
     category: "food",
     badge: "☕",
     name: { en: "Baratza Encore Burr Grinder", ja: "Baratza Encore バーグラインダー" },
@@ -15547,6 +15981,7 @@ const RAW_CATALOG = [
   {
     id: "oxo-brew-conical-burr-grinder",
     imageUrl: "https://image.rakuten.co.jp/roomy/cabinet/kaden3/kcnkaden3/oxo_grinder_1.jpg",
+    price: "~$80",
     category: "food",
     badge: "☕",
     name: { en: "OXO Brew Conical Burr Grinder", ja: "OXO Brew コニカルバーグラインダー" },
@@ -15566,6 +16001,7 @@ const RAW_CATALOG = [
   {
     id: "capresso-infinity-plus",
     imageUrl: "https://image.rakuten.co.jp/alphaespace-usa/cabinet/img17/3008071-3.jpg",
+    price: "~$75",
     category: "food",
     badge: "☕",
     name: { en: "Capresso Infinity Plus Burr Grinder", ja: "Capresso Infinity Plus バーグラインダー" },
@@ -15585,6 +16021,7 @@ const RAW_CATALOG = [
   {
     id: "bodum-bistro-burr-grinder",
     imageUrl: "https://image.rakuten.co.jp/bodumshop/cabinet/item/bistro/imgrc0090530725.jpg",
+    price: "~$50",
     category: "food",
     badge: "☕",
     name: { en: "Bodum Bistro Burr Coffee Grinder", ja: "Bodum Bistro バーコーヒーグラインダー" },
@@ -15604,6 +16041,7 @@ const RAW_CATALOG = [
   {
     id: "javapresse-manual-burr-grinder",
     imageUrl: "https://www.javapresse.com/cdn/shop/files/GrinderImage1.webp?v=1726314232&width=480",
+    price: "~$25",
     category: "food",
     badge: "☕",
     name: { en: "JavaPresse Manual Burr Grinder", ja: "JavaPresse 手動バーグラインダー" },
@@ -15624,6 +16062,7 @@ const RAW_CATALOG = [
   {
     id: "hip-thrust-machine-by-prime-fitness",
     imageUrl: "https://muscledfit.com/cdn/shop/files/HT-1.jpg?v=1730233449",
+    price: "~$800",
     category: "fitness",
     badge: "💪",
     name: { en: "Prime Fitness Hip Thrust Machine", ja: "Prime Fitness ヒップスラストマシン" },
@@ -15643,6 +16082,7 @@ const RAW_CATALOG = [
   {
     id: "glute-ham-developer-by-rep-fitness",
     imageUrl: "https://repfitness.com/cdn/shop/products/Shopify-GHD-3000-Thumbnail.jpg?v=1635875992&width=448",
+    price: "~$400",
     category: "fitness",
     badge: "💪",
     name: { en: "REP Fitness Glute-Ham Developer (GHD)", ja: "REP Fitness グルートハムデベロッパー（GHD）" },
@@ -15662,6 +16102,7 @@ const RAW_CATALOG = [
   {
     id: "hip-abductor-machine-by-body-solid",
     imageUrl: "https://cdn11.bigcommerce.com/s-2v01ommyhe/products/757/images/5092/GIOTB-with-STK_0O2A4929-hero-2500__43412.1775755411.386.513.png?c=1",
+    price: "~$500",
     category: "fitness",
     badge: "💪",
     name: { en: "Body-Solid Hip Abductor Machine", ja: "Body-Solid ヒップアブダクターマシン" },
@@ -15681,6 +16122,7 @@ const RAW_CATALOG = [
   {
     id: "cable-pull-through-setup",
     category: "fitness",
+    price: "~$20",
     badge: "💪",
     name: { en: "Cable Pull-Through Setup (Rope Attachment)", ja: "ケーブルプルスルー設定（ロープアタッチメント）" },
     description: {
@@ -15699,6 +16141,7 @@ const RAW_CATALOG = [
   {
     id: "hip-circle-band-by-sling-shot",
     imageUrl: "https://markbellslingshot.com/cdn/shop/products/HIPCIRCLE-BLUE_1.jpg?v=1613772161&width=720",
+    price: "~$25",
     category: "fitness",
     badge: "💪",
     name: { en: "Sling Shot Hip Circle Band", ja: "Sling Shot ヒップサークルバンド" },
@@ -15719,6 +16162,7 @@ const RAW_CATALOG = [
   {
     id: "kalita-wave-185-stainless",
     imageUrl: "https://kalitausa.com/cdn/shop/products/kw185ss.jpg?v=1586189941",
+    price: "~$40",
     category: "food",
     badge: "☕",
     name: { en: "Kalita Wave 185 Stainless", ja: "Kalita Wave 185 ステンレス" },
@@ -15738,6 +16182,7 @@ const RAW_CATALOG = [
   {
     id: "kalita-wave-155-ceramic",
     imageUrl: "https://kalitausa.com/cdn/shop/products/glass-wave-155_95d70ed6-1236-45e1-87bc-8a21027fefc1.jpg?v=1674500913&width=533",
+    price: "~$35",
     category: "food",
     badge: "☕",
     name: { en: "Kalita Wave 155 Ceramic", ja: "Kalita Wave 155 セラミック" },
@@ -15757,6 +16202,7 @@ const RAW_CATALOG = [
   {
     id: "kalita-wave-185-glass",
     imageUrl: "https://kalitausa.com/cdn/shop/products/kw185gl_1.jpg?v=1586190311&width=1946",
+    price: "~$45",
     category: "food",
     badge: "☕",
     name: { en: "Kalita Wave 185 Glass", ja: "Kalita Wave 185 ガラス" },
@@ -15776,6 +16222,7 @@ const RAW_CATALOG = [
   {
     id: "kalita-wave-filters-185",
     imageUrl: "https://kalitausa.com/cdn/shop/products/kalita_185_filter.jpg?v=1670455384&width=533",
+    price: "~$10",
     category: "food",
     badge: "☕",
     name: { en: "Kalita Wave Filters 185", ja: "Kalita Wave フィルター 185" },
@@ -15795,6 +16242,7 @@ const RAW_CATALOG = [
   {
     id: "fellow-stagg-ekg-kettle",
     category: "food",
+    price: "~$150",
     badge: "☕",
     name: { en: "Fellow Stagg EKG Electric Kettle", ja: "Fellow Stagg EKG 電気ケトル" },
     description: {
@@ -15814,6 +16262,7 @@ const RAW_CATALOG = [
   {
     id: "cap-barbell-ez-curl-bar",
     imageUrl: "https://capbarbell.com/cdn/shop/files/51XNw5JejYL._AC_SL1500___56936.1735339527.1280.1280_ba8c8625-d5c3-4a64-ab92-002629d8b6df.jpg?v=1768895651",
+    price: "~$40",
     category: "fitness",
     badge: "💪",
     name: { en: "CAP Barbell Olympic EZ Curl Bar", ja: "CAP Barbell オリンピックEZカールバー" },
@@ -15833,6 +16282,7 @@ const RAW_CATALOG = [
   {
     id: "rogue-curl-bar",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/RA1077-H_yya7yk.png",
+    price: "~$225",
     category: "fitness",
     badge: "💪",
     name: { en: "Rogue Curl Bar", ja: "Rogue カールバー" },
@@ -15852,6 +16302,7 @@ const RAW_CATALOG = [
   {
     id: "body-solid-ez-curl-bar",
     imageUrl: "https://strengthwarehouseusa.com/cdn/shop/products/OB47_600x600.jpg?v=1532981760",
+    price: "~$55",
     category: "fitness",
     badge: "💪",
     name: { en: "Body-Solid EZ Curl Bar", ja: "Body-Solid EZカールバー" },
@@ -15871,6 +16322,7 @@ const RAW_CATALOG = [
   {
     id: "olympic-ez-curl-bar-by-titan",
     imageUrl: "https://m.media-amazon.com/images/I/4109Je7P52L._SL500_.jpg",
+    price: "~$65",
     category: "fitness",
     badge: "💪",
     name: { en: "Titan Fitness Olympic EZ Curl Bar", ja: "Titan Fitness オリンピックEZカールバー" },
@@ -15890,6 +16342,7 @@ const RAW_CATALOG = [
   {
     id: "standard-ez-curl-bar-25mm",
     imageUrl: "https://cdn.shopify.com/s/files/1/0574/1215/7598/t/16/assets/acf.Curl-HC-Main.png?v=1636641892",
+    price: "~$25",
     category: "fitness",
     badge: "💪",
     name: { en: "Standard EZ Curl Bar (25mm)", ja: "標準EZカールバー (25mm)" },
@@ -15910,6 +16363,7 @@ const RAW_CATALOG = [
   {
     id: "hario-v60-02-ceramic",
     imageUrl: "https://www.hario-usa.com/cdn/shop/files/IMG_6715.jpg?v=1755531765",
+    price: "~$25",
     category: "food",
     badge: "☕",
     name: { en: "Hario V60 02 Ceramic", ja: "Hario V60 02 セラミック" },
@@ -15929,6 +16383,7 @@ const RAW_CATALOG = [
   {
     id: "hario-v60-02-plastic",
     imageUrl: "https://image.rakuten.co.jp/gensouen/cabinet/item/other/img61122244.jpg",
+    price: "~$8",
     category: "food",
     badge: "☕",
     name: { en: "Hario V60 02 Plastic", ja: "Hario V60 02 プラスチック" },
@@ -15948,6 +16403,7 @@ const RAW_CATALOG = [
   {
     id: "hario-v60-02-glass",
     imageUrl: "https://image.rakuten.co.jp/ksrainbow/cabinet/imgrc0139079835.jpg",
+    price: "~$25",
     category: "food",
     badge: "☕",
     name: { en: "Hario V60 02 Glass", ja: "Hario V60 02 ガラス" },
@@ -15967,6 +16423,7 @@ const RAW_CATALOG = [
   {
     id: "hario-v60-02-metal",
     imageUrl: "https://shop.hariocorp.co.jp/cdn/shop/products/VDM-02HSV_dd7ecf62-62af-4afe-9a20-a34a0b587034_1024x1024.jpg?v=1571720320",
+    price: "~$60",
     category: "food",
     badge: "☕",
     name: { en: "Hario V60 02 Metal", ja: "Hario V60 02 メタル" },
@@ -15986,6 +16443,7 @@ const RAW_CATALOG = [
   {
     id: "hario-v60-filters-02",
     imageUrl: "https://image.rakuten.co.jp/receno/cabinet/coffeefilter2/ha-pf/img/0000040024000.jpg",
+    price: "~$5",
     category: "food",
     badge: "☕",
     name: { en: "Hario V60 Paper Filters 02", ja: "Hario V60 ペーパーフィルター 02" },
@@ -16006,6 +16464,7 @@ const RAW_CATALOG = [
   {
     id: "body-solid-preacher-curl-bench",
     imageUrl: "https://cdn11.bigcommerce.com/s-2v01ommyhe/products/850/images/3624/GPCB329B_IMGL3812-1028px__30874.1735836771.386.513.jpg?c=1",
+    price: "~$100",
     category: "fitness",
     badge: "💪",
     name: { en: "Body-Solid Preacher Curl Bench", ja: "Body-Solid プリーチャーカールベンチ" },
@@ -16025,6 +16484,7 @@ const RAW_CATALOG = [
   {
     id: "marcy-preacher-curl-bench",
     imageUrl: "https://www.marcypro.com/cdn/shop/files/SB-7799_p_01__69225.1738628038.1280.1280.jpg",
+    price: "~$70",
     category: "fitness",
     badge: "💪",
     name: { en: "Marcy Preacher Curl Bench", ja: "Marcy プリーチャーカールベンチ" },
@@ -16044,6 +16504,7 @@ const RAW_CATALOG = [
   {
     id: "valor-fitness-preacher-curl-bench",
     imageUrl: "https://valorfitness.com/cdn/shop/files/CB-5_Main.jpg?v=1755106353&width=1214",
+    price: "~$80",
     category: "fitness",
     badge: "💪",
     name: { en: "Valor Fitness Preacher Curl Bench", ja: "Valor Fitness プリーチャーカールベンチ" },
@@ -16063,6 +16524,7 @@ const RAW_CATALOG = [
   {
     id: "rep-fitness-preacher-curl-bench",
     category: "fitness",
+    price: "~$130",
     badge: "💪",
     name: { en: "REP Fitness Preacher Curl Bench", ja: "REP Fitness プリーチャーカールベンチ" },
     description: {
@@ -16081,6 +16543,7 @@ const RAW_CATALOG = [
   {
     id: "adjustable-preacher-curl-attachment",
     imageUrl: "https://titan.fitness/cdn/shop/files/401480_01.jpg?v=1763668419",
+    price: "~$40",
     category: "fitness",
     badge: "💪",
     name: { en: "Adjustable Preacher Curl Attachment", ja: "調整可能プリーチャーカールアタッチメント" },
@@ -16101,6 +16564,7 @@ const RAW_CATALOG = [
   {
     id: "hario-next-siphon",
     imageUrl: "https://www.hario-usa.com/cdn/shop/products/IMG_9088-DNG.jpg?v=1585167725",
+    price: "~$60",
     category: "food",
     badge: "☕",
     name: { en: "Hario Next Siphon", ja: "Hario Next サイフォン" },
@@ -16120,6 +16584,7 @@ const RAW_CATALOG = [
   {
     id: "yama-glass-siphon-5-cup",
     imageUrl: "https://yama-glass.com/cdn/shop/products/b002cvtktw.main_300x300.jpg?v=1582851827",
+    price: "~$70",
     category: "food",
     badge: "☕",
     name: { en: "Yama Glass Siphon 5-Cup", ja: "Yama Glass サイフォン 5カップ" },
@@ -16139,6 +16604,7 @@ const RAW_CATALOG = [
   {
     id: "hario-technica-siphon",
     imageUrl: "https://img07.shop-pro.jp/PA01417/532/product/159844914.jpg?cmsp_timestamp=20210607150823",
+    price: "~$45",
     category: "food",
     badge: "☕",
     name: { en: "Hario Technica Siphon", ja: "Hario Technica サイフォン" },
@@ -16158,6 +16624,7 @@ const RAW_CATALOG = [
   {
     id: "cona-siphon-coffee-maker",
     imageUrl: "https://dominotees.myshopify.com/cdn/shop/products/31EUnJ73erL_300x300.jpg?v=1582788623",
+    price: "~$90",
     category: "food",
     badge: "☕",
     name: { en: "Cona Siphon Coffee Maker", ja: "Cona サイフォンコーヒーメーカー" },
@@ -16177,6 +16644,7 @@ const RAW_CATALOG = [
   {
     id: "butane-burner-for-siphon",
     imageUrl: "https://m.media-amazon.com/images/I/61IP-aVsjfL.jpg",
+    price: "~$20",
     category: "food",
     badge: "☕",
     name: { en: "Butane Burner for Siphon Coffee", ja: "サイフォンコーヒー用ブタンバーナー" },
@@ -16197,6 +16665,7 @@ const RAW_CATALOG = [
   {
     id: "rogue-tb-2-trap-bar",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Weightlifting%20Bars%20and%20Plates/Barbells/Specialty%20Barbells/RA0711/RA0711-h_t4b2kt.png",
+    price: "~$300",
     category: "fitness",
     badge: "💪",
     name: { en: "Rogue TB-2 Trap Bar", ja: "Rogue TB-2 トラップバー" },
@@ -16216,6 +16685,7 @@ const RAW_CATALOG = [
   {
     id: "cap-barbell-trap-bar",
     imageUrl: "https://repfitness.com/cdn/shop/products/Shopify-Hex_Trap-Thumbnail.jpg",
+    price: "~$80",
     category: "fitness",
     badge: "💪",
     name: { en: "CAP Barbell Hex Trap Bar", ja: "CAP Barbell ヘックストラップバー" },
@@ -16235,6 +16705,7 @@ const RAW_CATALOG = [
   {
     id: "titan-fitness-hex-trap-bar",
     imageUrl: "https://titan.fitness/cdn/shop/files/430144_01.jpg",
+    price: "~$100",
     category: "fitness",
     badge: "💪",
     name: { en: "Titan Fitness Hex Trap Bar", ja: "Titan Fitness ヘックストラップバー" },
@@ -16254,6 +16725,7 @@ const RAW_CATALOG = [
   {
     id: "rep-fitness-hd-trap-bar",
     imageUrl: "https://repfitness.com/cdn/shop/products/Shopify-Hex_Trap-Thumbnail.jpg",
+    price: "~$150",
     category: "fitness",
     badge: "💪",
     name: { en: "REP Fitness HD Trap Bar", ja: "REP Fitness HD トラップバー" },
@@ -16273,6 +16745,7 @@ const RAW_CATALOG = [
   {
     id: "valor-fitness-ob-hx-trap-bar",
     imageUrl: "https://valorfitness.com/cdn/shop/files/OB-HEX_Main.jpg",
+    price: "~$90",
     category: "fitness",
     badge: "💪",
     name: { en: "Valor Fitness Trap Bar", ja: "Valor Fitness トラップバー" },
@@ -16293,6 +16766,7 @@ const RAW_CATALOG = [
   {
     id: "copper-cezve-ibrik-by-shiritek",
     imageUrl: "https://www.amazon.com/Cezve-Turkish-Coffee-Pot-Traditional/dp/B0BPY5KK1V",
+    price: "~$15",
     category: "food",
     badge: "☕",
     name: { en: "Copper Cezve / Ibrik by Shiritek", ja: "Shiritek 銅チェズベ/イブリック" },
@@ -16312,6 +16786,7 @@ const RAW_CATALOG = [
   {
     id: "stainless-cezve-by-bosphorus",
     imageUrl: "https://cuisinox.com/cdn/shop/files/TUR-700_BEST_SELLER_1500x.jpg?v=1769494317",
+    price: "~$10",
     category: "food",
     badge: "☕",
     name: { en: "Stainless Cezve by Bosphorus", ja: "Bosphorus ステンレスチェズベ" },
@@ -16331,6 +16806,7 @@ const RAW_CATALOG = [
   {
     id: "electric-turkish-coffee-maker-arzum",
     imageUrl: "https://arzumusa.com/cdn/shop/files/Arzum_Temmuz14322_300x300.jpg?v=1726805442",
+    price: "~$60",
     category: "food",
     badge: "☕",
     name: { en: "Arzum Okka Electric Turkish Coffee Maker", ja: "Arzum Okka 電気式トルココーヒーメーカー" },
@@ -16350,6 +16826,7 @@ const RAW_CATALOG = [
   {
     id: "turkish-coffee-grinder-zassenhaus",
     imageUrl: "https://www.zassenhaus-brandshop.com/media/f2/41/16/1715842910/24346_-_Mokkamuehle_Havanna_Messing-1.jpg?ts=1715842910",
+    price: "~$60",
     category: "food",
     badge: "☕",
     name: { en: "Zassenhaus Turkish Coffee Hand Grinder", ja: "Zassenhaus トルココーヒー ハンドグラインダー" },
@@ -16369,6 +16846,7 @@ const RAW_CATALOG = [
   {
     id: "turkish-coffee-beans-mehmet",
     imageUrl: "https://www.parthenonfoods.com/cdn/shop/files/MehmetCoffee250g_large.png?v=1767721377",
+    price: "~$8",
     category: "food",
     badge: "☕",
     name: { en: "Mehmet Efendi Turkish Ground Coffee", ja: "Mehmet Efendi トルコグランドコーヒー" },
@@ -16389,6 +16867,7 @@ const RAW_CATALOG = [
   {
     id: "assault-fitness-assault-air-bike",
     imageUrl: "https://www.assaultfitness.com/cdn/shop/files/assault_bike_classic_1_2x_374e588b-597b-4525-926f-5c93e3c1c615.webp",
+    price: "~$700",
     category: "fitness",
     badge: "💪",
     name: { en: "Assault Fitness AssaultBike Classic", ja: "Assault Fitness AssaultBike クラシック" },
@@ -16408,6 +16887,7 @@ const RAW_CATALOG = [
   {
     id: "concept2-bike-erg",
     imageUrl: "https://cms.concept2.com/sites/default/files/2024-02/BIKE_ERG_BLACK_F3Q_1_1920px.png",
+    price: "~$1,100",
     category: "fitness",
     badge: "💪",
     name: { en: "Concept2 BikeErg", ja: "Concept2 BikeErg" },
@@ -16427,6 +16907,7 @@ const RAW_CATALOG = [
   {
     id: "rogue-echo-bike",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_1600,b_rgb:ffffff/catalog/Conditioning/Endurance%20/Bikes/ECHOBIKE/ECHOBIKE-H_t5871p.png",
+    price: "~$700",
     category: "fitness",
     badge: "💪",
     name: { en: "Rogue Echo Bike", ja: "Rogue Echo Bike" },
@@ -16446,6 +16927,7 @@ const RAW_CATALOG = [
   {
     id: "schwinn-airdyne-pro",
     imageUrl: "https://sandiegofitnessequipment.com/cdn/shop/products/s973414024662186571_p101_i5_w828_1024x.jpg",
+    price: "~$500",
     category: "fitness",
     badge: "💪",
     name: { en: "Schwinn Airdyne Pro Fan Bike", ja: "Schwinn Airdyne Pro ファンバイク" },
@@ -16465,6 +16947,7 @@ const RAW_CATALOG = [
   {
     id: "sunny-health-air-bike",
     imageUrl: "https://sunnyhealthfitness.com/cdn/shop/products/sunny-health-fitness-bikes-motion-air-bike-fan-exercise-bike-unlimited-resistance-tablet-holder-SF-B2916-01.jpg",
+    price: "~$200",
     category: "fitness",
     badge: "💪",
     name: { en: "Sunny Health Magnetic Resistance Air Bike", ja: "Sunny Health 磁気抵抗エアバイク" },

@@ -5,7 +5,29 @@ You are writing the **English-language** content for an affiliate article. The o
 ## Inputs
 
 - `pipeline/specs/<slug>.yaml` — article spec (slug, type, category, offerIds, research, pinAngle)
-- `site/src/lib/affiliates/catalog.ts` — confirm each `offerId` exists; if not, add minimal entries
+- `site/src/lib/affiliates/catalog.ts` — confirm each `offerId` exists; if not, add entries including `imageUrl`
+
+### Catalog `imageUrl` requirements
+
+Every catalog entry you create or modify **must include `imageUrl`**. The article list page uses this field as the card thumbnail — missing it causes the card to show a text-banner fallback instead of a product photo.
+
+**Source priority (highest to lowest):**
+1. Brand's official site if it runs on Shopify CDN (`cdn.shopify.com` or `<brand>.com/cdn/shop/`) — stable, no expiry
+2. Best Buy (`pisces.bbystatic.com`) or Target (`target.scene7.com`) product image CDN
+3. Authorized specialty retailer on Shopify CDN (e.g. macrobaby.com, rei.com, backcountry.com)
+
+**Never use:**
+- Amazon image CDN (`images-na.ssl-images-amazon.com`, `m.media-amazon.com`) — returns blank GIF stubs without PA API
+- Walmart image CDN — blocks hotlinking
+- Expiring signed URLs (avoid `X-Amz-Expires`, `token=`, `Signature=` in the URL)
+
+**How to find the URL:**
+1. Visit the brand's official site and open the product page
+2. Right-click the main product image → "Copy image address"
+3. Verify the URL ends in `.jpg`, `.png`, or `.webp` and loads directly in a browser tab
+4. Prefer clean white-background product shots over lifestyle photos
+
+If after searching you cannot find a hotlink-safe URL (e.g. Amazon/Walmart-exclusive product with no brand site), set `imageUrl` to the best available URL and add a `// TODO: find stable imageUrl` comment on the same line so it can be fixed later.
 
 ## Output structure
 
@@ -111,7 +133,7 @@ Trigger when the spec sets `audienceLevel: beginner` — typical for rental serv
 ## Output checklist before finishing
 
 - [ ] meta.ts compiles (correct ArticleType / ArticleCategory string literals)
-- [ ] All `offerIds` resolve in catalog (if not, add the missing ones)
+- [ ] All `offerIds` resolve in catalog (if not, add the missing ones **with `imageUrl`**)
 - [ ] **`offerNotes` keys exactly match `meta.ts` offerIds** — no extras, no missing
 - [ ] **Title ≤ 80 chars in every locale**, no "A vs B vs C vs D vs E" chains, no comma-separated keyword stuffing after the em-dash
 - [ ] No banned phrases (including the new ones: "総評" recap heading, "明確な弱点：" / "Explicit weakness:" repeated label, "全製品に弱点あり", "本比較で唯一" leaning)

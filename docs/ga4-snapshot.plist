@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.pickly.ga4-snapshot</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/ken/.nvm/versions/node/v20.19.5/bin/npx</string>
+    <string>tsx</string>
+    <string>/Users/ken/Dropbox/affiliate_factory/automation/ga4-daily-snapshot.ts</string>
+  </array>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>GA4_PROPERTY_ID</key>
+    <string>537610479</string>
+    <key>HOME</key>
+    <string>/Users/ken</string>
+    <key>PATH</key>
+    <string>/Users/ken/.nvm/versions/node/v20.19.5/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    <key>GOOGLE_APPLICATION_CREDENTIALS</key>
+    <string>/Users/ken/.config/gcloud/application_default_credentials.json</string>
+  </dict>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>9</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/ken/Dropbox/affiliate_factory</string>
+
+  <key>StandardOutPath</key>
+  <string>/Users/ken/Dropbox/affiliate_factory/data/analytics/snapshot.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/Users/ken/Dropbox/affiliate_factory/data/analytics/snapshot.log</string>
+
+  <key>RunAtLoad</key>
+  <false/>
+</dict>
+</plist>
