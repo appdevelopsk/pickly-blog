@@ -5,6 +5,11 @@ import { AffiliateLink } from "@/components/AffiliateLink";
 import { Link } from "@/lib/i18n/navigation";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 
+function resolvePrice(o: AffiliateOffer): string | null {
+  if (o.priceMin && o.priceMax) return `${o.priceMin}〜${o.priceMax}`;
+  return o.price ?? null;
+}
+
 function StarRating({ rating, label, size = "md" }: { rating: number; label?: string; size?: "sm" | "md" }) {
   const full = Math.floor(rating);
   const half = rating % 1 >= 0.5;
@@ -83,15 +88,15 @@ export function ArticleBody({ meta, content, offers }: Props) {
         {/* Main content */}
         <div className="min-w-0 flex-1">
 
-          {/* Comparison table */}
-          {isComparison && offers.length > 0 && (
+          {/* Comparison table — only shown when offers have rating or price data */}
+          {isComparison && offers.length > 0 && (offers.some(o => o.rating) || offers.some(o => resolvePrice(o))) && (
             <div className="mb-8 overflow-x-auto rounded-2xl border border-slate-200 shadow-sm">
               <table className="min-w-full text-sm">
                 <thead className="bg-gradient-to-r from-slate-800 to-slate-700 text-xs font-bold uppercase tracking-wide text-slate-300">
                   <tr>
                     <th className="px-4 py-3 text-left">{t("article.tableProduct")}</th>
                     {offers.some(o => o.rating) && <th className="px-4 py-3 text-center">{t("article.tableRating")}</th>}
-                    {offers.some(o => o.price) && <th className="px-4 py-3 text-right">{t("article.tablePrice")}</th>}
+                    {offers.some(o => resolvePrice(o)) && <th className="px-4 py-3 text-right">{t("article.tablePrice")}</th>}
                     <th className="px-4 py-3 text-center">{t("article.tableLink")}</th>
                   </tr>
                 </thead>
@@ -125,9 +130,9 @@ export function ArticleBody({ meta, content, offers }: Props) {
                             {o.rating ? <StarRating rating={o.rating} label={t("article.ratingLabel", { rating: o.rating.toFixed(1) })} /> : <span className="text-slate-300">—</span>}
                           </td>
                         )}
-                        {offers.some(o2 => o2.price) && (
+                        {offers.some(o2 => resolvePrice(o2)) && (
                           <td className="px-4 py-3 text-right font-medium text-slate-700">
-                            {o.price ?? "—"}
+                            {resolvePrice(o) ?? "—"}
                           </td>
                         )}
                         <td className="px-4 py-3 text-center">
@@ -211,10 +216,17 @@ export function ArticleBody({ meta, content, offers }: Props) {
                     <h2 className="text-xl font-black text-slate-900 mb-2">{name}</h2>
                     <div className="flex flex-wrap items-center gap-3">
                       {o.rating && <StarRating rating={o.rating} label={t("article.ratingLabel", { rating: o.rating.toFixed(1) })} />}
-                      {o.price && <span className="text-sm font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-md">{o.price}</span>}
+                      {resolvePrice(o) && <span className="text-sm font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-md">{resolvePrice(o)}</span>}
                     </div>
                   </div>
                 </div>
+
+                {/* One-liner tagline from offerNotes */}
+                {content.offerNotes?.[o.id] && (
+                  <p className="mb-4 text-sm font-medium text-slate-600 bg-slate-50 border border-slate-200 rounded-lg px-4 py-2.5">
+                    {content.offerNotes[o.id]}
+                  </p>
+                )}
 
                 {/* Review */}
                 {product?.review && (

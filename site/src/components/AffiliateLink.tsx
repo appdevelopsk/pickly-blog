@@ -94,6 +94,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         href={href}
         target="_blank"
         rel="sponsored noopener noreferrer"
+        data-offer-id={offer.id}
         className="inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-4 py-2 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
       >
         {ctaLabel} →
@@ -109,6 +110,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         href={href}
         target="_blank"
         rel="sponsored noopener noreferrer"
+        data-offer-id={offer.id}
         className="font-medium text-brand-600 underline-offset-2 hover:underline"
       >
         {name}
@@ -147,6 +149,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
           href={href}
           target="_blank"
           rel="sponsored noopener noreferrer"
+          data-offer-id={offer.id}
           className="inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-5 py-2.5 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
         >
           {ctaLabel} →

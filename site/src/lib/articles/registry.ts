@@ -273,3 +273,20 @@ export function listArticlesByCategory(category: string): ArticleMeta[] {
 export function listArticlesForLocale(locale: string): ArticleMeta[] {
   return REGISTRY.filter((a) => a.locales.includes(locale as ArticleMeta["locales"][number]));
 }
+
+export function getRelatedArticles(
+  slug: string,
+  category: string,
+  locale: string,
+  limit = 4,
+): ArticleMeta[] {
+  const loc = locale as ArticleMeta["locales"][number];
+  const sameCategory = REGISTRY.filter(
+    (a) => a.slug !== slug && a.category === category && a.locales.includes(loc),
+  );
+  if (sameCategory.length >= limit) return sameCategory.slice(0, limit);
+  const others = REGISTRY.filter(
+    (a) => a.slug !== slug && a.category !== category && a.locales.includes(loc),
+  );
+  return [...sameCategory, ...others].slice(0, limit);
+}

@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { LOCALES, getDirection, type Locale } from "@/lib/i18n/locales";
 import { SiteHeader } from "@/components/layout/SiteHeader";
 import { SiteFooter } from "@/components/layout/SiteFooter";
+import { Analytics } from "@/components/Analytics";
 
 const inter = Inter({
   subsets: ["latin", "latin-ext"],
@@ -37,6 +38,7 @@ export default async function LocaleLayout({ children, params }: Props) {
           <main className="flex-1">{children}</main>
           <SiteFooter />
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );

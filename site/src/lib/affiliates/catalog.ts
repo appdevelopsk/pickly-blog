@@ -570,6 +570,7 @@ const RAW_CATALOG = [
   },
   {
     id: "la-roche-posay-anthelios-uvmune",
+    imageUrl: "https://africa.laroche-posay.com/-/media/project/loreal/brand-sites/lrp/emea/za/products/anthelios/uvmune-fluid-non-perfumed/lrpproductpagesunantheliosuvmune400fluidspspf503337875797597frontpng.png?sc_lang=en-za",
     category: "beauty",
     badge: "🇫🇷",
     name: { en: "La Roche-Posay Anthelios UVMune 400", ja: "ラロッシュポゼ アンテリオス UVミューン400" },
@@ -848,6 +849,7 @@ const RAW_CATALOG = [
   },
   {
     id: "xserver",
+    imageUrl: "https://www.xserver.ne.jp/img/top/mv_wordpress_b_ttl_s.png",
     category: "tech",
     badge: "🏛️",
     name: { en: "Xserver", ja: "エックスサーバー" },
@@ -861,6 +863,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lolipop-server",
+    imageUrl: "https://lolipop.jp/img/default/home/hero-main-image.webp",
     category: "tech",
     badge: "💴",
     name: { en: "Lolipop!", ja: "ロリポップ！" },
@@ -1540,6 +1543,7 @@ const RAW_CATALOG = [
   },
   {
     id: "astroai-mini-fridge-6l",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_cdbffc07-25f2-485a-b21f-5a8f7be0f286",
     category: "beauty",
     badge: "❄️",
     name: { en: "AstroAI 6L Mini Fridge", ja: "AstroAI 6L Mini Fridge" },
@@ -1554,6 +1558,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cooluli-beauty-fridge-10l",
+    imageUrl: "https://cooluli.com/cdn/shop/products/beauty_20light_20pink1.png?crop=center&height=3615&v=1700629408&width=3287",
     category: "beauty",
     badge: "💄",
     name: { en: "The Beauty Fridge by Cooluli 10L", ja: "The Beauty Fridge by Cooluli 10L" },
@@ -1670,6 +1675,8 @@ const RAW_CATALOG = [
   {
     id: "theragun-pro-plus",
     imageUrl: "https://www.therabody.com/cdn/shop/files/preview_images/ea9a9e93990548bb85d7588278ddbf70.thumbnail.0000000000.jpg?v=1760399032",
+    priceMin: "¥89,980",
+    priceMax: "¥99,800",
     category: "beauty",
     badge: "💪",
     name: { en: "Therabody Theragun PRO Plus", ja: "Therabody Theragun PRO Plus" },
@@ -1830,6 +1837,7 @@ const RAW_CATALOG = [
   },
   {
     id: "myprotein-impact-whey-2500g",
+    imageUrl: "https://static.thcdn.com/productimg/original/10530943-2175262135686325.jpg",
     category: "beauty",
     badge: "💴",
     name: { en: "Myprotein Impact Whey Protein 2.5 kg", ja: "Myprotein Impact ホエイプロテイン 2.5kg" },
@@ -2180,6 +2188,7 @@ const RAW_CATALOG = [
   },
   {
     id: "moft-float-stand",
+    imageUrl: "https://www.moft.us/cdn/shop/files/tripod_stand3_ae8adacd-5ee1-43d1-b0ef-3641a1c7b070.png?v=1745751848",
     category: "tech",
     badge: "💼",
     name: { en: "MOFT Float", ja: "MOFT Float" },
@@ -2221,6 +2230,7 @@ const RAW_CATALOG = [
   },
   {
     id: "twelve-south-hoverbar-duo",
+    imageUrl: "https://www.twelvesouth.com/cdn/shop/products/12-2144_1_7e8713f1-cf6c-4e3e-99b3-38a587f6c56e_1200x1200.jpg?v=1719418274",
     category: "tech",
     badge: "✨",
     name: { en: "Twelve South HoverBar Duo", ja: "Twelve South HoverBar Duo" },
@@ -2251,6 +2261,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ikea-bekant-sit-stand",
+    imageUrl: "https://www.ikea.com/us/en/images/products/bekant-desk-sit-stand-white__0974146_PH172729_S5.JPG",
     category: "tech",
     badge: "🪑",
     name: { en: "IKEA Bekant Sit/Stand Desk", ja: "IKEA ベカント 昇降デスク" },
@@ -2264,6 +2275,7 @@ const RAW_CATALOG = [
   },
   {
     id: "autonomous-smartdesk-pro",
+    imageUrl: "https://cdn.autonomous.ai/production/ecm/260421/Smd5prow.webp",
     category: "tech",
     badge: "🤖",
     name: { en: "Autonomous SmartDesk Pro", ja: "Autonomous SmartDesk Pro スタンディングデスク" },
@@ -2278,6 +2290,7 @@ const RAW_CATALOG = [
   },
   {
     id: "okamura-swift-desk",
+    imageUrl: "https://lifestylestore.okamura.co.jp/cdn/shop/products/80G55P_Z25_f.jpg?v=1685708079&width=1946",
     category: "tech",
     badge: "🇯🇵",
     name: { en: "Okamura Swift Standing Desk", ja: "オカムラ スウィフト 昇降デスク" },
@@ -2291,6 +2304,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bamboo-standing-desk",
+    imageUrl: "https://www.content.upliftdesk.com/content/img/product/LIS-bamboo-desktop/bamboo_30.jpg?compression=lossy",
     category: "tech",
     badge: "🌿",
     name: { en: "Bamboo Top Standing Desk", ja: "竹 スタンディングデスク 昇降" },
@@ -2350,6 +2364,7 @@ const RAW_CATALOG = [
   },
   {
     id: "anker-313-wireless-charger",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0493/9834/9974/products/A2503016-Anker_313_Wireless_Charger_Pad_1600x.png?v=1672495119",
     category: "tech",
     badge: "📱",
     name: { en: "Anker 313 Wireless Charger (Qi, 10W)", ja: "Anker 313 ワイヤレス充電器（Qi、10W）" },
@@ -2364,6 +2379,7 @@ const RAW_CATALOG = [
   },
   {
     id: "esr-halolock-2in1-travel",
+    imageUrl: "https://www.esrtech.com/cdn/shop/files/2-in-1.jpg?v=1742202312&width=1946",
     category: "tech",
     badge: "✈️",
     name: { en: "ESR HaloLock 2-in-1 Travel Wireless Charger", ja: "ESR HaloLock 2in1 旅行用ワイヤレス充電器" },
@@ -2424,6 +2440,7 @@ const RAW_CATALOG = [
   },
   {
     id: "panasonic-led-desk-lamp-wireless",
+    imageUrl: "https://www1.yohohongkong.com/images/201707/goods_img/13847_P_1499394258070.png",
     category: "tech",
     badge: "🇯🇵",
     name: { en: "Panasonic LED Desk Lamp (Wireless Charging)", ja: "Panasonic LEDデスクスタンド ワイヤレス充電" },
@@ -2437,6 +2454,7 @@ const RAW_CATALOG = [
   },
   {
     id: "baseus-monitor-light-bar",
+    imageUrl: "https://baseus.io/cdn/shop/files/A0002618_media-01.jpg?v=1714408582",
     category: "tech",
     badge: "💰",
     name: { en: "Baseus i-wok Monitor Light Bar", ja: "Baseus i-wok モニターライト" },
@@ -2494,6 +2512,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nuphy-air75-v2",
+    imageUrl: "https://nuphy.com/cdn/shop/files/Main043000x_230811_1800x1800.jpg?v=1776419086",
     category: "tech",
     badge: "🪶",
     name: { en: "Nuphy Air75 V2", ja: "Nuphy Air75 V2 低プロファイルキーボード" },
@@ -2772,6 +2791,7 @@ const RAW_CATALOG = [
   },
   {
     id: "coala-new-mattress",
+    imageUrl: "https://jp.koala.com/cdn/shop/files/JP_Koala_Original_Mattress_Clear_BG_Diagonal_Double.png?v=1747892221&width=1900",
     category: "home",
     badge: "🐨",
     name: { en: "Coala (New Coala) Mattress", ja: "コアラ(ニューコアラ)マットレス" },
@@ -2785,6 +2805,7 @@ const RAW_CATALOG = [
   },
   {
     id: "casper-original",
+    imageUrl: "https://casper.com/cdn/shop/files/The-One-PDP-hero-with-Consumer-Reports.jpg?v=1773690918&width=300",
     category: "home",
     badge: "🛏️",
     name: { en: "Casper Original", ja: "キャスパー オリジナル" },
@@ -2799,6 +2820,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nell-mattress",
+    imageUrl: "https://nell.life/data/product/mattress-original/thumbnail.webp",
     category: "home",
     badge: "🌀",
     name: { en: "NELL Mattress", ja: "NELL マットレス" },
@@ -2896,6 +2918,7 @@ const RAW_CATALOG = [
   },
   {
     id: "breville-barista-express-bes870",
+    imageUrl: "https://assets.breville.com/cdn-cgi/image/width=1300,format=auto/Dynamic_Bundle/US/BES870XL_Transparent_1300x1300.png?pdp",
     category: "home",
     badge: "🔧",
     name: { en: "Breville Barista Express BES870", ja: "ブレビル バリスタ エクスプレス BES870" },
@@ -2924,6 +2947,7 @@ const RAW_CATALOG = [
   },
   {
     id: "philips-series-2200-ep2220",
+    imageUrl: "https://images.philips.com/is/image/philipsconsumer/vrs_514c6884_aac0_4140_950b6d8d713ef25f?wid=700&hei=700&$pnglarge$",
     category: "home",
     badge: "💧",
     name: { en: "Philips Series 2200 EP2220/14", ja: "フィリップス シリーズ2200 EP2220/14" },
@@ -2996,6 +3020,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fellow-stagg-ekg",
+    imageUrl: "https://fellowproducts.com/cdn/shop/files/Web_PDP_StaggEKGElectricKettle-Pro_DesertRose_Maple_1.png?v=1773351258&width=2000",
     category: "home",
     badge: "🎯",
     name: { en: "Fellow Stagg EKG Electric Kettle", ja: "Fellow Stagg EKG ケトル" },
@@ -3185,6 +3210,7 @@ const RAW_CATALOG = [
   },
   {
     id: "wyze-cam-v3",
+    imageUrl: "https://www.wyze.com/cdn/shop/files/wyze-cam-v3-wyze-labs-inc-511906.png?v=1762447526&width=1946",
     category: "home",
     badge: "📹",
     name: { en: "Wyze Cam v3", ja: "Wyze Cam v3" },
@@ -3213,6 +3239,7 @@ const RAW_CATALOG = [
   },
   {
     id: "eufy-indoor-cam-2k-pan-tilt",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/S220IndoorCam_3840x.png?v=1698305513",
     category: "home",
     badge: "🏠",
     name: { en: "Anker Eufy Indoor Cam 2K Pan & Tilt", ja: "Anker Eufy Indoor Cam 2K Pan & Tilt" },
@@ -3646,6 +3673,7 @@ const RAW_CATALOG = [
   },
   {
     id: "gold-gym-gym-bag-backpack",
+    imageUrl: "https://shop.goldsgym.com/cdn/shop/files/Golds148_USnatural_012_3x4_c8032c3a-42f7-40c8-9739-2d0a39ad1877.jpg?crop=center&height=2133&v=1775589631&width=1600",
     category: "fitness",
     badge: "🏋️",
     name: { en: "Gold's Gym Duffel Bag", ja: "ゴールドジム ダッフルバッグ" },
@@ -3708,6 +3736,7 @@ const RAW_CATALOG = [
   },
   {
     id: "thermos-jni-502",
+    imageUrl: "https://kiichin.com/cdn/shop/products/Thermos-Water-Bottle-Made-In-Japan-Vacuum-Insulated-Mobile-Mug-500Ml-Button-Jny502-Btn-Japan-Figure-4562344367370-0_1024x.jpg?v=1691560822",
     category: "fitness",
     badge: "🚂",
     name: { en: "Thermos JNI-502", ja: "サーモス JNI-502" },
@@ -3781,6 +3810,7 @@ const RAW_CATALOG = [
   },
   {
     id: "flexispot-ej2-ergonomic",
+    imageUrl: "https://pricedepot.com/cdn/shop/products/81A5C0C1-5248-4B8C-8F8B-B0D09DF826A2.jpg?v=1689918259",
     category: "home",
     badge: "💴",
     name: { en: "Flexispot OC3 Ergonomic Chair", ja: "フレキシスポット OC3 エルゴノミクスチェア" },
@@ -3824,6 +3854,7 @@ const RAW_CATALOG = [
   },
   {
     id: "iqair-airvisual-node",
+    imageUrl: "https://c1.neweggimages.com/productimage/nb640/81-600-001-01.jpg",
     category: "home",
     badge: "🔬",
     name: { en: "IQAir AirVisual Node", ja: "IQAir AirVisual Node" },
@@ -3942,6 +3973,7 @@ const RAW_CATALOG = [
   },
   {
     id: "canon-ivy-cliq-plus-2",
+    imageUrl: "https://www.usa.canon.com/content/dam/canon-assets-(no-crop-applied)/newsroom/2020/20200916-printers/ivy_cliq-2b2_rosegold_back.jpg",
     category: "tech",
     badge: "📱",
     name: { en: "Canon IVY CLIQ+2", ja: "Canon IVY CLIQ+2" },
@@ -4159,6 +4191,7 @@ const RAW_CATALOG = [
   },
   {
     id: "xiaomi-mi-laser-projector-150",
+    imageUrl: "https://xiaomistoreph.com/cdn/shop/products/MiLaserProjector150White_1_1000x1000.jpg?v=1749553304",
     category: "tech",
     badge: "💡",
     name: { en: "Xiaomi Mi Laser Projector 150\"", ja: "Xiaomi Miレーザープロジェクター150\"" },
@@ -4202,6 +4235,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kenwood-drv-a601w",
+    imageUrl: "https://www.kenwood.com/usa/car/caraudio/cameras/drv-a601w/img/drv/image_product01_big.png",
     category: "tech",
     badge: "🎌",
     name: { en: "Kenwood DRV-A601W", ja: "ケンウッド DRV-A601W" },
@@ -4215,6 +4249,7 @@ const RAW_CATALOG = [
   },
   {
     id: "garmin-dash-cam-67w",
+    imageUrl: "https://competitionmotorsport.com/cdn/shop/files/garmin-dash-cam-67w-image_1280x.jpg?v=1745603665",
     category: "tech",
     badge: "🔭",
     name: { en: "Garmin Dash Cam 67W", ja: "ガーミン Dash Cam 67W" },
@@ -4290,6 +4325,7 @@ const RAW_CATALOG = [
   },
   {
     id: "iwachu-iron-skillet",
+    imageUrl: "https://japanesetaste.com/cdn/shop/files/P-1-IWCH-SKYPOT-26-Iwachu_Sukiyaki_Pot_Large_Size_Japanese_Cast_Iron_Pan_26cm.jpg?v=1743429558",
     category: "food",
     badge: "🫕",
     name: { en: "Iwachu Iron Skillet 26cm", ja: "岩鋳 南部鉄器スキレット 26cm" },
@@ -4348,6 +4384,7 @@ const RAW_CATALOG = [
   },
   {
     id: "george-foreman-gfo201r",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_95d3dfa7-c23c-44ff-8163-cbb6a15fd1b5?wid=1000&hei=1000&fmt=pjpeg",
     category: "food",
     badge: "🥩",
     name: { en: "George Foreman 5-Serving Indoor Grill GFO201R", ja: "ジョージフォアマン 5人前インドアグリル GFO201R" },
@@ -4362,6 +4399,7 @@ const RAW_CATALOG = [
   },
   {
     id: "recolte-rgh-1",
+    imageUrl: "https://recolte-jp.com/en/wp-content/uploads/2018/07/pd_spec_RRF-1_R_600x400.png",
     category: "food",
     badge: "🧀",
     name: { en: "Récolte Raclette Grill RGH-1", ja: "レコルト ラクレットグリル RGH-1" },
@@ -4375,6 +4413,7 @@ const RAW_CATALOG = [
   },
   {
     id: "iwatani-cb-p-y3",
+    imageUrl: "https://www.iwatani.com/sites/default/files/products/2020-06/product-8-lg.png",
     category: "food",
     badge: "🔆",
     name: { en: "Iwatani Cassette Grill CB-P-Y3", ja: "岩谷 カセットグリル CB-P-Y3" },
@@ -4477,6 +4516,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kenwood-chef-xl-kvl4100s",
+    imageUrl: "https://shopkenwood.co.za/cdn/shop/files/Kenwood_-_Chef_XL_-_KVL4100S_MAIN.jpg?v=1763528935&width=1500",
     category: "food",
     badge: "bread-pick",
     name: { en: "Kenwood Chef XL (KVL4100S)", ja: "ケンウッド Chef XL（KVL4100S）" },
@@ -4503,6 +4543,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cuisinart-sm-50",
+    imageUrl: "https://steamykitchen.com/wp-content/uploads/2016/12/cuisinart-precision-master-stand-mixer-SM-50-review-2-500x479.jpg",
     category: "food",
     badge: "budget-pick",
     name: { en: "Cuisinart SM-50 5.5-Qt Stand Mixer", ja: "クイジナート SM-50 5.5クォート スタンドミキサー" },
@@ -4737,6 +4778,7 @@ const RAW_CATALOG = [
   },
   {
     id: "muji-acrylic-organizer",
+    imageUrl: "https://www.muji.us/cdn/shop/products/4547315296286_02_org.jpg",
     category: "home",
     badge: "🔲",
     name: { en: "Muji Acrylic Desk Organizer Set", ja: "無印良品 アクリルデスクオーガナイザーセット" },
@@ -4766,6 +4808,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yankee-candle-clean-cotton",
+    imageUrl: "https://candlesdirect.com/cdn/shop/products/Yankee-Candle-Clean-Cotton-Large-Jar-Candle-1.jpg?v=1739443220&width=1000",
     category: "home",
     badge: "🧺",
     name: { en: "Yankee Candle Clean Cotton Large Jar", ja: "ヤンキーキャンドル クリーンコットン ラージジャー" },
@@ -4807,6 +4850,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kuumba-international-incense",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0051/7042/files/Kuumba-Regular-Incense-Assorted-1.jpg?v=1745218917",
     category: "home",
     badge: "🌿",
     name: { en: "Kuumba International Incense Sticks", ja: "クンバインターナショナル お香スティック" },
@@ -4911,6 +4955,7 @@ const RAW_CATALOG = [
   },
   {
     id: "today-s-towel-waffle",
+    imageUrl: "https://www.muji.us/cdn/shop/files/4548076415893_01_org.jpg",
     category: "home",
     badge: "🧇",
     name: { en: "Today's Towel Waffle Weave", ja: "ワッフルウィーブバスタオル" },
@@ -5055,6 +5100,7 @@ const RAW_CATALOG = [
   },
   {
     id: "comfymed-posture-brace",
+    imageUrl: "https://www.gosupps.com/media/catalog/product/cache/25/small_image/1500x1650/9df78eab33525d08d6e5fb8d27136e95/7/1/71tCdiJcYAL.jpg",
     category: "fitness",
     badge: "🔧",
     name: { en: "ComfyMed Posture Brace", ja: "ComfyMed 姿勢矯正サポーター" },
@@ -5082,6 +5128,7 @@ const RAW_CATALOG = [
   },
   {
     id: "truweo-posture-corrector",
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/41Pq0lkliPL._SS600_.jpg",
     category: "fitness",
     badge: "⚙️",
     name: { en: "Truweo Posture Corrector", ja: "Truweo 姿勢矯正サポーター" },
@@ -5096,6 +5143,7 @@ const RAW_CATALOG = [
   },
   {
     id: "back-brace-posture-corrector",
+    imageUrl: "https://www.gosupps.com/media/catalog/product/cache/25/small_image/1500x1650/9df78eab33525d08d6e5fb8d27136e95/9/1/91H-WDen81L.jpg",
     category: "fitness",
     badge: "🦺",
     name: { en: "Mueller Back Brace with Lumbar Support", ja: "Mueller 腰部サポート付きバックブレース" },
@@ -5199,6 +5247,7 @@ const RAW_CATALOG = [
   },
   {
     id: "liforme-yoga-mat",
+    imageUrl: "https://liforme.com/cdn/shop/files/Liforme_Classic_Black_Yoga_Mat_Frontview.png?v=1772447172&width=500",
     category: "fitness",
     badge: "📐",
     name: { en: "Liforme Yoga Mat", ja: "Liforme ヨガマット" },
@@ -5213,6 +5262,7 @@ const RAW_CATALOG = [
   },
   {
     id: "jade-harmony-yoga-mat",
+    imageUrl: "https://jadeyoga.com/cdn/shop/products/Jade-Yoga-Harmony-Mat-Cover_1024x1024.jpg?v=1631573421",
     category: "fitness",
     badge: "🌿",
     name: { en: "Jade Harmony Yoga Mat", ja: "Jade Harmony ヨガマット" },
@@ -5227,6 +5277,7 @@ const RAW_CATALOG = [
   },
   {
     id: "gaiam-premium-yoga-mat",
+    imageUrl: "https://www.gaiam.com/cdn/shop/products/05-59141_2.jpg?v=1673041556&width=2000",
     category: "fitness",
     badge: "🎨",
     name: { en: "Gaiam Premium Print Yoga Mat", ja: "Gaiam プレミアム プリント ヨガマット" },
@@ -5355,6 +5406,7 @@ const RAW_CATALOG = [
   },
   {
     id: "whatafit-resistance-bands",
+    imageUrl: "https://m.media-amazon.com/images/I/51VUPssurQL.jpg",
     category: "fitness",
     badge: "🏋️",
     name: { en: "Whatafit Resistance Bands Set", ja: "Whatafit レジスタンスバンドセット" },
@@ -5510,6 +5562,7 @@ const RAW_CATALOG = [
   },
   {
     id: "coleman-supportrest-plus",
+    imageUrl: "https://cdn11.bigcommerce.com/s-dlp5xwiggc/images/stencil/1280x1280/products/74190/117273/076501128024__48241.1746751198.jpg?c=2",
     category: "home",
     name: { en: "Coleman SupportRest Plus Double-High Air Mattress", ja: "コールマン サポートレスト プラス ダブルハイ エアーマットレス" },
     description: {
@@ -5537,6 +5590,7 @@ const RAW_CATALOG = [
   },
   {
     id: "alps-mountaineering-lightweight",
+    imageUrl: "https://www.gearx.com/cdn/shop/files/vertex_1.jpg?v=1753807418&width=1946",
     category: "home",
     name: { en: "ALPS Mountaineering Lightweight Air Bed", ja: "アルプスマウンテニアリング ライトウェイト エアーベッド" },
     description: {
@@ -5589,6 +5643,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mind-reader-footrest",
+    imageUrl: "https://mindreaderproducts.com/cdn/shop/files/FTROLL-BLK_01.jpg?v=1747237948&width=1946",
     category: "home",
     name: { en: "Mind Reader Ergonomic Foot Rest Platform", ja: "マインドリーダー エルゴノミクス フットレスト プラットフォーム" },
     description: {
@@ -5616,6 +5671,7 @@ const RAW_CATALOG = [
   },
   {
     id: "humanscale-fm300",
+    imageUrl: "https://cdn11.bigcommerce.com/s-492apnl0xy/images/stencil/1280x1280/products/413/1874/humanscale-foot-rest-fm300-hus018%5F%5F77407.1662578225.jpg?c=2",
     category: "home",
     name: { en: "Humanscale FM300 Ergonomic Footrest", ja: "ヒューマンスケール FM300 エルゴノミクス フットレスト" },
     description: {
@@ -5643,6 +5699,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sunbeam-microplush-heated-blanket",
+    imageUrl: "https://www.sunbeamhome.com/images/virtuemart/product/13705_Main.jpg",
     category: "home",
     name: { en: "Sunbeam MicroPlush Heated Blanket", ja: "サンビーム マイクロプラッシュ 電気毛布" },
     description: {
@@ -5670,6 +5727,7 @@ const RAW_CATALOG = [
   },
   {
     id: "serta-fleece-electric-blanket",
+    imageUrl: "https://cozywinters.com/graphics/00000001/serta-plush-electric-blanket-LG_A_190x190.jpg",
     category: "home",
     name: { en: "Serta Plush Fleece Electric Heated Blanket", ja: "サータ プラッシュフリース 電気毛布" },
     description: {
@@ -5839,6 +5897,7 @@ const RAW_CATALOG = [
   },
   {
     id: "toddy-cold-brew-home",
+    imageUrl: "https://ineffablecoffee.com/cdn/shop/files/cafetera-para-cold-brew-toddy-home-use-system.jpg?v=1746533756&width=1100",
     category: "food",
     name: { en: "Toddy Cold Brew System (Home Model)", ja: "トッディ コールドブリューシステム（ホームモデル）" },
     description: {
@@ -6119,6 +6178,7 @@ const RAW_CATALOG = [
   },
   {
     id: "amazon-basics-foam-roller",
+    imageUrl: "https://www.gosupps.com/media/catalog/product/cache/25/small_image/1500x1650/9df78eab33525d08d6e5fb8d27136e95/9/1/91yuQpw_mL.jpg",
     category: "fitness",
     name: { en: "Amazon Basics High-Density Round Foam Roller", ja: "Amazonベーシック 高密度ラウンドフォームローラー" },
     description: {
@@ -6459,6 +6519,7 @@ const RAW_CATALOG = [
   },
   {
     id: "pyrex-simply-store-18pc",
+    imageUrl: "https://pyrexhome.com/cdn/shop/files/pyr_simply_store_18pc_1128223_1.jpg?v=1760025393&width=1500",
     category: "food",
     name: { en: "Pyrex Simply Store Glass Set (18-piece)", ja: "パイレックス シンプリーストア ガラス保存容器 18点セット" },
     description: {
@@ -6591,6 +6652,7 @@ const RAW_CATALOG = [
   },
   {
     id: "iniu-portable-charger",
+    imageUrl: "https://iniushop.com/cdn/shop/files/b6_cca27a37-7095-4a9f-87dc-82b9a741a57f.png?v=1747881372&width=1946",
     category: "tech",
     badge: "💡",
     name: { en: "INIU 10000mAh Portable Charger", ja: "INIU 10000mAh モバイルバッテリー" },
@@ -6780,6 +6842,7 @@ const RAW_CATALOG = [
   },
   {
     id: "samsonite-omni-pc-20",
+    imageUrl: "https://outdoorgearlab.b-cdn.net/photos/28/49/406403_29975_XXL.jpg",
     category: "travel",
     badge: "💼",
     name: { en: "Samsonite Omni PC 20\" Hardside Spinner", ja: "Samsonite Omni PC 20インチ ハードサイドスピナー" },
@@ -6811,6 +6874,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rimowa-essential-20",
+    imageUrl: "https://n.nordstrommedia.com/it/c448c59f-4c28-4944-a7d9-03d3bd2b8133.jpeg",
     category: "travel",
     badge: "💎",
     name: { en: "Rimowa Essential 20\" Carry-On", ja: "Rimowa Essential 20インチ キャリーオン" },
@@ -6856,6 +6920,7 @@ const RAW_CATALOG = [
   },
   {
     id: "big-agnes-copper-spur-ul2",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/Copper-Spur-UL-2-Tangelo-04.png?v=1734463774",
     category: "travel",
     badge: "🪶",
     name: { en: "Big Agnes Copper Spur HV UL2 Tent", ja: "Big Agnes Copper Spur HV UL2 テント" },
@@ -6887,6 +6952,7 @@ const RAW_CATALOG = [
   },
   {
     id: "coleman-sundome-2",
+    imageUrl: "https://www.themightyfish.com/cdn/shop/files/2sundome.webp?v=1699632024&width=1500",
     category: "travel",
     badge: "🏕️",
     name: { en: "Coleman Sundome 2 Tent", ja: "Coleman Sundome 2 テント" },
@@ -6902,6 +6968,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nemo-dagger-2p",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0582/1136/9133/files/m42owi2au0pvt9pfffaz.jpg?v=1776457746",
     category: "travel",
     badge: "🌲",
     name: { en: "NEMO Dagger 2P Tent", ja: "NEMO Dagger 2P テント" },
@@ -6947,6 +7014,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hoka-anacapa-mid-gtx",
+    imageUrl: "https://cdn.runrepeat.com/storage/gallery/product_primary/37666/hoka-anacapa-mid-gtx-21208091-720.jpg",
     category: "fitness",
     name: { en: "Hoka Anacapa Mid GTX", ja: "ホカ アナカパ ミッド GTX" },
     description: {
@@ -7028,6 +7096,7 @@ const RAW_CATALOG = [
   },
   {
     id: "polar-pacer-pro",
+    imageUrl: "https://www.polar.com/img/static/pacer-pro/polar-pacer-pro-front-blue-you-better-run-device-l.png",
     category: "fitness",
     name: { en: "Polar Pacer Pro", ja: "ポラール ペーサー プロ" },
     description: {
@@ -7041,6 +7110,7 @@ const RAW_CATALOG = [
   },
   {
     id: "garmin-forerunner-55",
+    imageUrl: "https://res.garmin.com/en/products/010-02293-10/v/cf-lg-b31fcc72-a9a9-466b-9231-8e57a732e677-1.jpg",
     category: "fitness",
     name: { en: "Garmin Forerunner 55", ja: "ガーミン フォアランナー 55" },
     description: {
@@ -7120,6 +7190,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lewis-clark-neck-pillow",
+    imageUrl: "https://www.luggageonline.com/cdn/shop/products/a134d1680e290b7d42a20e758beeec68cedec94cd49e12b6337624164b641d2c.jpg?v=1614987184",
     category: "travel",
     badge: "💰",
     name: { en: "Lewis N. Clark Comfort Neck Pillow", ja: "Lewis N. Clark コンフォートネックピロー" },
@@ -7163,6 +7234,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bell-super-air-r-mips",
+    imageUrl: "https://racycles.com/cdn/shop/files/bell-super-air-r-mips-helmet-4120182.jpg?v=1771302253&width=1500",
     category: "fitness",
     name: { en: "Bell Super Air R MIPS", ja: "ベル スーパーエア R MIPS" },
     description: {
@@ -7176,6 +7248,7 @@ const RAW_CATALOG = [
   },
   {
     id: "specialized-align-ii-mips",
+    imageUrl: "https://peachtreebikes.com/cdn/shop/files/60826-101_HLMT_ALIGN-II-HLMT-MIPS-CE-SNDSTNMET_HERO-PDP.jpg?v=1760725900&width=1600",
     category: "fitness",
     name: { en: "Specialized Align II MIPS", ja: "スペシャライズド アライン II MIPS" },
     description: {
@@ -7188,6 +7261,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nutcase-street-mips",
+    imageUrl: "https://tacomabike.com/cdn/shop/files/NC21_ST_Dipinto_Visor_Angle_600x.jpg?v=1728481616",
     category: "fitness",
     name: { en: "Nutcase Street MIPS", ja: "ナットケース ストリート MIPS" },
     description: {
@@ -7231,6 +7305,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bowflex-selecttech-840",
+    imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw53ccb650/images/bfx/weights/100790/bowflex-selecttech-840-kettlebell-hero-sqr.png",
     category: "fitness",
     name: { en: "Bowflex SelectTech 840 Kettlebell", ja: "ボウフレックス セレクトテック 840 ケトルベル" },
     description: {
@@ -7245,6 +7320,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titan-fitness-cast-iron-kettlebell",
+    imageUrl: "https://titan.fitness/cdn/shop/files/422155_03.jpg?v=1777919923&width=1946",
     category: "fitness",
     name: { en: "Titan Fitness Cast Iron Kettlebell", ja: "タイタンフィットネス 鋳鉄ケトルベル" },
     description: {
@@ -7259,6 +7335,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yes4all-vinyl-kettlebell",
+    imageUrl: "https://i.barbend.com/190/306/592/5/Yes4All-Vinyl-Kettlebell-275x275.webp",
     category: "fitness",
     name: { en: "Yes4All Vinyl Coated Kettlebell", ja: "Yes4All ビニールコートケトルベル" },
     description: {
@@ -7289,6 +7366,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nordictrack-s22i-studio-bike",
+    imageUrl: "https://www.360fitnesssuperstore.com/cdn/shop/files/nordictrack-s22i-commercial-studio-indoor-cycle-bike-main_1024x1024@2x.jpg?v=1701218316",
     category: "fitness",
     name: { en: "NordicTrack S22i Studio Cycle Bike", ja: "ノルディックトラック S22i スタジオサイクルバイク" },
     description: {
@@ -7408,6 +7486,7 @@ const RAW_CATALOG = [
   },
   {
     id: "barracuda-fenix-goggles",
+    imageUrl: "https://cdn.shopify.com/s/files/1/1767/1963/products/FENIXSMALL-FIT-BLACK.jpg",
     category: "fitness",
     name: { en: "Barracuda Fenix Swim Goggles", ja: "バラクーダ フェニックス スイムゴーグル" },
     description: {
@@ -7453,6 +7532,7 @@ const RAW_CATALOG = [
   },
   {
     id: "gaiam-essentials-yoga-block",
+    imageUrl: "https://www.gaiam.com/cdn/shop/products/05-63614_YOGA-BLOCK-COOL-MINT_A_2000.jpg?v=1594923566&width=2000",
     category: "fitness",
     name: { en: "Gaiam Essentials Yoga Block", ja: "ガイアム エッセンシャルズ ヨガブロック" },
     description: {
@@ -7513,6 +7593,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fitness-reality-810xlt",
+    imageUrl: "https://fitnessrealityshop.com/wp-content/uploads/2025/06/Fitness-Reality-810xlt.webp",
     category: "fitness",
     name: { en: "Fitness Reality 810XLT Wall-Mounted Pull-Up Bar", ja: "Fitness Reality 810XLT 壁取付け懸垂バー" },
     description: {
@@ -7588,6 +7669,7 @@ const RAW_CATALOG = [
   },
   {
     id: "atlas-coffee-club",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0723/6423/products/atlas_sub_10717404-6f6f-4b85-b8c0-89edaaafd6cb.png?v=1500261171",
     category: "food",
     badge: "🌍",
     name: { en: "Atlas Coffee Club", ja: "Atlas Coffee Club" },
@@ -7617,6 +7699,7 @@ const RAW_CATALOG = [
   },
   {
     id: "angels-cup-subscription",
+    imageUrl: "https://angelscup.com/cdn/shop/files/coffee__HERO.jpg?v=1724998147&width=3840",
     category: "food",
     badge: "😇",
     name: { en: "Angels' Cup Subscription", ja: "Angels' Cup サブスクリプション" },
@@ -7737,6 +7820,7 @@ const RAW_CATALOG = [
   },
   {
     id: "firstleaf-subscription",
+    imageUrl: "https://blog.mysubscriptionaddiction.com/wp-content/uploads/2021/12/14/YIR_FirstLeaf_FEATURED-733x733.jpg",
     category: "food",
     badge: "🍃",
     name: { en: "Firstleaf Wine Subscription", ja: "Firstleafワインサブスクリプション" },
@@ -7751,6 +7835,7 @@ const RAW_CATALOG = [
   },
   {
     id: "naked-wines-subscription",
+    imageUrl: "https://0ccd0cac.delivery.rocketcdn.me/wp-content/uploads/2012/11/new-naked-wines-scaled.jpg",
     category: "food",
     badge: "👼",
     name: { en: "Naked Wines Angel Membership", ja: "Naked Wines Angelメンバーシップ" },
@@ -7765,6 +7850,7 @@ const RAW_CATALOG = [
   },
   {
     id: "wine-access-subscription",
+    imageUrl: "https://static.wineaccess.com/nuxt3/_nuxt/bottles-per-homepage-banner.Bh-KVNcf.png",
     category: "food",
     badge: "🏆",
     name: { en: "Wine Access Membership", ja: "Wine Accessメンバーシップ" },
@@ -7809,6 +7895,7 @@ const RAW_CATALOG = [
   },
   {
     id: "green-chef-meal-kit",
+    imageUrl: "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2021/01/596114-Green-Chef-meal-delivery-review_1296x728-Header-cedd87.jpg",
     category: "food",
     badge: "🥗",
     name: { en: "Green Chef Meal Kit", ja: "Green Chefミールキット" },
@@ -7823,6 +7910,7 @@ const RAW_CATALOG = [
   },
   {
     id: "everyplate-meal-kit",
+    imageUrl: "https://media.post.rvohealth.io/wp-content/uploads/2023/11/everyplate-chicken-fajitas-1296-728-header.jpg",
     category: "food",
     badge: "💰",
     name: { en: "EveryPlate Meal Kit", ja: "EveryPlateミールキット" },
@@ -7837,6 +7925,7 @@ const RAW_CATALOG = [
   },
   {
     id: "sunbasket-meal-kit",
+    imageUrl: "https://mealfan.com/wp-content/uploads/2020/03/Feature_Sunbasket.webp",
     category: "food",
     badge: "🌿",
     name: { en: "Sunbasket Meal Kit", ja: "Sunbasketミールキット" },
@@ -7851,6 +7940,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bright-cellars-subscription",
+    imageUrl: "https://thepinkenvelope.com/wp-content/uploads/2021/08/maxresdefault.jpg",
     category: "food",
     badge: "🌟",
     name: { en: "BRIGHT Cellars Wine Subscription", ja: "BRIGHT Cellarsワインサブスクリプション" },
@@ -7881,6 +7971,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kirkland-organic-evoo",
+    imageUrl: "https://wepack4u.com/cdn/shop/products/imageService_7_19cbe77f-2717-49f8-b4a3-16eb6b83024f.jpg?v=1662242656&width=1945",
     category: "food",
     name: { en: "Kirkland Signature Organic Extra Virgin Olive Oil", ja: "カークランドシグネチャー オーガニックエクストラバージンオリーブオイル" },
     description: {
@@ -8208,6 +8299,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ergatta-rower",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0657/5213/7954/files/1025-ErgattaLuxe-1.png?v=1769962548",
     category: "fitness",
     name: { en: "Ergatta Water Rower", ja: "エルガッタ ウォーターローイングマシン" },
     description: {
@@ -8267,6 +8359,7 @@ const RAW_CATALOG = [
   },
   {
     id: "brew-dr-kombucha",
+    imageUrl: "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/680167a71a09e57dbbf5765e_BDK_Outdoor-Lifestyle_4I5A9685-16x9.jpg",
     category: "food",
     name: { en: "Brew Dr. Kombucha", ja: "ブリュードクター コンブチャ" },
     description: {
@@ -8741,6 +8834,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titan-fitness-wooden-rings",
+    imageUrl: "https://titan.fitness/cdn/shop/files/410111_01.jpg?v=1708458519",
     category: "fitness",
     badge: "💪",
     name: { en: "Titan Fitness Wooden Gymnastics Rings", ja: "Titan Fitness ウッド体操リング" },
@@ -8759,6 +8853,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rep-fitness-wooden-rings",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0574/1215/7598/t/16/assets/acf.Wood-Rings2-Main.png",
     category: "fitness",
     badge: "🍁",
     name: { en: "Rep Fitness Wooden Gymnastics Rings", ja: "Rep Fitness ウッド体操リング" },
@@ -8869,6 +8964,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fage-total-0",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_3a47d9f3-d83a-4502-8fda-c082491f32b3?wid=300&hei=300&fmt=pjpeg",
     category: "food",
     name: { en: "Fage Total 0% Greek Yogurt", ja: "ファージ トータル0% ギリシャヨーグルト" },
     description: {
@@ -8898,6 +8994,7 @@ const RAW_CATALOG = [
   },
   {
     id: "stonyfield-organic-greek",
+    imageUrl: "https://www.stonyfield.com/wp-content/uploads/2023/03/Untitled-design60-2048x2048-1.webp",
     category: "food",
     name: { en: "Stonyfield Organic Greek Yogurt", ja: "ストーニーフィールド オーガニック ギリシャヨーグルト" },
     description: {
@@ -8912,6 +9009,7 @@ const RAW_CATALOG = [
   },
   {
     id: "siggis-icelandic-yogurt",
+    imageUrl: "https://siggis.com/wp-content/uploads/2024/07/siggis_0_5.3oz_Plain@2x.webp",
     category: "food",
     name: { en: "Siggi's Icelandic-Style Yogurt (Skyr)", ja: "シッギーズ アイスランドスタイル ヨーグルト（スキル）" },
     description: {
@@ -8971,6 +9069,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nossk-twin-strap",
+    imageUrl: "https://nossk.com/cdn/shop/files/NOSSK_TWIN-Pro_Suspension_Fitness_Trainer_Black.jpg?v=1719355126&width=1500",
     category: "fitness",
     name: { en: "NOSSK Twin-Strap Suspension Trainer", ja: "NOSSK ツインストラップ サスペンショントレーナー" },
     description: {
@@ -8985,6 +9084,7 @@ const RAW_CATALOG = [
   },
   {
     id: "monkii-bars-2",
+    imageUrl: "https://abrotherabroad.com/wp-content/uploads/2018/06/Monkii-Bars-2-Review-Horizontal-opt.jpg",
     category: "fitness",
     name: { en: "Monkii Bars 2", ja: "モンキーバーズ 2" },
     description: {
@@ -9091,6 +9191,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fond-bone-broth",
+    imageUrl: "https://fondregenerative.com/cdn/shop/products/BeefJar1.png",
     category: "food",
     name: { en: "FOND Bone Broth", ja: "FOND ボーンブロス" },
     description: {
@@ -9272,6 +9373,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titan-fitness-plyo-box",
+    imageUrl: "https://titan.fitness/cdn/shop/files/412126_01_5888e1d0-6627-4b93-b886-2072cfddbbc8.jpg?v=1718295162&width=1946",
     category: "fitness",
     name: { en: "Titan Fitness Wooden Plyo Box", ja: "Titan Fitness ウッドプライオボックス" },
     description: {
@@ -9316,6 +9418,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-dog-collar-vest",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_fill,g_center,w_361,h_361,b_rgb:f8f8f8/catalog/Gear%20and%20Accessories/Accessories/Everyday%20Gear/DOGCOLLAR/DOGCOLLAR-TH_klxnpr.png",
     category: "fitness",
     name: { en: "Rogue Dog Collar Weight Vest", ja: "Rogue Dog Collar ウェイトベスト" },
     description: {
@@ -9434,6 +9537,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fairchilds-organic-acv",
+    imageUrl: "https://www.fairchildsvinegar.com/cdn/shop/files/3.jpg?v=1772754848&width=1100",
     category: "food",
     name: { en: "Fairchild's Organic Apple Cider Vinegar", ja: "Fairchild's オーガニック アップルサイダービネガー" },
     description: {
@@ -9627,6 +9731,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-p3-parallettes",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/RA1052-H_zcoler.png",
     category: "fitness",
     name: { en: "Rogue P-3 Parallettes", ja: "Rogue P-3 パラレット" },
     description: {
@@ -10821,6 +10926,7 @@ const RAW_CATALOG = [
   },
   {
     id: "escali-primo-p115c",
+    imageUrl: "https://kitchensupply.com/cdn/shop/files/P115CPrimoDigitalScale_ANGLE.jpg?v=1694706792&width=1946",
     category: "food",
     name: { en: "Escali Primo Digital Food Scale (P115C)", ja: "エスカリ プリモ デジタル食品スケール（P115C）" },
     description: {
@@ -10838,6 +10944,7 @@ const RAW_CATALOG = [
   },
   {
     id: "my-weigh-kd8000-scale",
+    imageUrl: "https://woodartsupply.com/cdn/shop/files/51XEFZWk4cL.jpg",
     category: "food",
     name: { en: "My Weigh KD-8000 Kitchen and Craft Digital Scale", ja: "マイウェイ KD-8000 キッチン＆クラフト デジタルスケール" },
     description: {
@@ -10946,6 +11053,7 @@ const RAW_CATALOG = [
   },
   {
     id: "a7-bar-grip-knee-sleeves",
+    imageUrl: "https://a7.co/cdn/shop/products/a7-stealth-stiff-cone-knee-sleeves-front.jpg?v=1748098153&width=4096",
     category: "fitness",
     name: { en: "A7 Bar Grip Knee Sleeves (5mm)", ja: "A7 Bar Grip ニースリーブ (5mm)" },
     description: {
@@ -11377,6 +11485,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cap-ob-86pb-olympic-bar",
+    imageUrl: "https://cdnimages.opentip.com/full/CBB/CBB-OB-86PB.jpg",
     category: "fitness",
     name: { en: "CAP Barbell 7ft Olympic Bar OB-86PB", ja: "CAPバーベル 7フィート オリンピックバー OB-86PB" },
     description: {
@@ -11394,6 +11503,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rep-fitness-equalizer-bar",
+    imageUrl: "https://repfitness.com/cdn/shop/products/ColoradoBar-20KG-HardChrome-thumbnail.jpg?v=1685637768&width=448",
     category: "fitness",
     name: { en: "REP Fitness 20kg Equalizer Barbell", ja: "REPフィットネス 20kg イコライザーバーベル" },
     description: {
@@ -11503,6 +11613,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fitness-reality-810xlt-power-cage",
+    imageUrl: "https://fitnessrealityshop.com/wp-content/uploads/2025/06/Fitness-Reality-810xlt.webp",
     category: "fitness",
     name: { en: "Fitness Reality 810XLT Power Cage", ja: "フィットネスリアリティ 810XLT パワーケージ" },
     description: {
@@ -11558,6 +11669,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ninja-fd401-foodi-8qt",
+    imageUrl: "https://www.thezestfull.com/wp-content/uploads/2021/02/81bticOPJL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Ninja FD401 Foodi 8-Quart 9-in-1 Deluxe XL", ja: "Ninja FD401 Foodi 8クォート 9-in-1 デラックス XL" },
     description: {
@@ -11688,6 +11800,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oster-belgian-waffle-maker-ckstwf2000",
+    imageUrl: "https://www.oster.ca/on/demandware.static/-/Sites-master-catalog/default/dw6302eb32/images/highres/CKSTWF2000-033-1.jpg",
     category: "food",
     badge: "family-pick",
     name: { en: "Oster Belgian Waffle Maker CKSTWF2000", ja: "オスター ベルギーワッフルメーカー CKSTWF2000" },
@@ -11764,6 +11877,7 @@ const RAW_CATALOG = [
   },
   {
     id: "caraway-nonstick-ceramic-pan",
+    imageUrl: "https://target.scene7.com/is/image/Target/GUEST_3448da58-bc8d-49dc-8550-9f76fc026a57?wid=800&hei=800&fmt=pjpeg",
     category: "food",
     badge: "ceramic-pick",
     name: { en: "Caraway Home Nonstick Ceramic Fry Pan 10.5-Inch", ja: "Caraway ホーム セラミックノンスティック フライパン 10.5インチ" },
@@ -11955,6 +12069,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oster-expressbake-bread-maker",
+    imageUrl: "https://c1.neweggimages.com/productimage/nb640/96-103-169-02.jpg",
     category: "food",
     badge: "fast-pick",
     name: { en: "Oster CKSTBR9050-NP Expressbake Bread Maker", ja: "オスター CKSTBR9050-NP エクスプレスベイク ブレッドメーカー" },
@@ -12012,6 +12127,7 @@ const RAW_CATALOG = [
   },
   {
     id: "balancefrom-puzzle-exercise-mat",
+    imageUrl: "https://www.exit15.com/image/cache/catalog/balancefrom/balancefrom-puzzle-exercise-mat-with-eva-foam-interlocking-t-B072MLTVS4-500x500h.jpg",
     category: "fitness",
     badge: "budget-pick",
     name: { en: "BalanceFrom Puzzle Exercise Mat with EVA Foam", ja: "BalanceFrom パズルエクササイズマット（EVAフォーム）" },
@@ -12026,6 +12142,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-fitness-flooring-rolls",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Gear%20and%20Accessories/Gym%20Essentials%20/Flooring%20and%20Rubber/HM0001/HM0001-web6_rvwq1u.png",
     category: "fitness",
     badge: "premium-pick",
     name: { en: "Rogue Monster Matting (per linear foot)", ja: "ローグ モンスターマッティング（1フィート単位）" },
@@ -12040,6 +12157,7 @@ const RAW_CATALOG = [
   },
   {
     id: "superjock-rubber-floor-tiles",
+    imageUrl: "https://strengthwarehouseusa.com/cdn/shop/products/supermats-musclemat-rubber-floor-mat_700x700.jpg?v=1662479855",
     category: "fitness",
     name: { en: "SuperMats Heavy Duty Rubber Mat 4x6", ja: "SuperMats ヘビーデューティー ゴムマット 4x6" },
     description: {
@@ -12584,6 +12702,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cuisinart-hm-90bcs-hand-mixer",
+    imageUrl: "https://zestbillings.com/cdn/shop/files/Cuisinart-Cuisinart-Power-Advantage-Hand-Mixer-9-Speed-Brushed-Chrome.webp?v=1739693077&width=1946",
     category: "food",
     badge: "control-pick",
     name: { en: "Cuisinart HM-90BCS Hand Mixer 9-Speed", ja: "Cuisinart HM-90BCS ハンドミキサー 9スピード" },
@@ -12891,6 +13010,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fitness-reality-x2-power-tower",
+    imageUrl: "https://fitnessrealityshop.com/wp-content/uploads/2024/11/Fitness-Reality-XLT-Power-Cage.png",
     category: "fitness",
     badge: "top-pick",
     name: { en: "Fitness Reality X2 4-in-1 Power Tower", ja: "Fitness Reality X2 4-in-1 パワータワー" },
@@ -13082,6 +13202,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yes4all-push-up-board",
+    imageUrl: "https://m.media-amazon.com/images/I/81SLxP4MneL._AC_UL640_QL65_.jpg",
     category: "fitness",
     badge: "💸",
     name: { en: "Yes4All Push Up Board Multi-Angle", ja: "Yes4All マルチアングル プッシュアップボード" },
@@ -13100,6 +13221,7 @@ const RAW_CATALOG = [
   },
   {
     id: "limm-push-up-board",
+    imageUrl: "https://m.media-amazon.com/images/I/71x-7Rv+X7L._AC_UL320_.jpg",
     category: "fitness",
     badge: "🎯",
     name: { en: "Limm Push-Up Board with Resistance Bands", ja: "Limm プッシュアップボード レジスタンスバンド付き" },
@@ -13158,6 +13280,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kitchenaid-pasta-roller-attachment",
+    imageUrl: "https://images.kitchenaid.com/is/image/KitchenAid/KSMPRA-1?wid=500&hei=500&fmt=webp",
     category: "food",
     badge: "⚙️",
     name: { en: "KitchenAid Pasta Roller and Cutter Attachment Set", ja: "キッチンエイド パスタローラー＆カッターアタッチメントセット" },
@@ -13429,6 +13552,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tumaz-yoga-wheel",
+    imageUrl: "https://m.media-amazon.com/images/I/71dK8q3p2oL._AC_UL320_.jpg",
     category: "fitness",
     badge: "⭐",
     name: { en: "Tumaz Yoga Wheel 13-inch", ja: "タマズ ヨガホイール 33 cm" },
@@ -13655,6 +13779,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yes4all-wobble-balance-board",
+    imageUrl: "https://i5.walmartimages.com/seo/Yes4All-Wobble-Balance-Board-16-in-Surface-for-Exercise-Balance-Trainer-Sugar-Plum_310345f5-c1e2-446a-878c-7de79486017b.ace4dbbc2177fdcb408b6eca4d90ef3b.jpeg",
     category: "fitness",
     badge: "🪵",
     name: { en: "Yes4All Wobble Balance Board", ja: "Yes4All ウォブルバランスボード" },
@@ -13806,6 +13931,7 @@ const RAW_CATALOG = [
   },
   {
     id: "perfect-fitness-agility-ladder",
+    imageUrl: "https://m.media-amazon.com/images/I/619pibS4QtL._AC_UL320_.jpg",
     category: "fitness",
     badge: "📋",
     name: { en: "Perfect Fitness Agility Ladder with Drill Card", ja: "Perfect Fitness アジリティラダー ドリルカード付き" },
@@ -13824,6 +13950,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yes4all-agility-ladder",
+    imageUrl: "https://m.media-amazon.com/images/I/71ZPLLV-COS._AC_UL320_.jpg",
     category: "fitness",
     badge: "⚡",
     name: { en: "Yes4All Agility Ladder (10/15/20 ft)", ja: "Yes4All アジリティラダー（10/15/20フィート）" },
@@ -13842,6 +13969,7 @@ const RAW_CATALOG = [
   },
   {
     id: "toezone-agility-ladder",
+    imageUrl: "https://m.media-amazon.com/images/I/51P0UJbVqgL._AC_UL320_.jpg",
     category: "fitness",
     badge: "🏋️",
     name: { en: "Toezone Agility Ladder (Heavy Duty)", ja: "Toezone アジリティラダー（ヘビーデューティー）" },
@@ -13860,6 +13988,7 @@ const RAW_CATALOG = [
   },
   {
     id: "speed-and-agility-pro-ladder",
+    imageUrl: "https://m.media-amazon.com/images/I/71LqxqweeJL._AC_UL320_.jpg",
     category: "fitness",
     badge: "🥇",
     name: { en: "Speed & Agility Pro Aluminum Agility Ladder", ja: "Speed & Agility Pro アルミ アジリティラダー" },
@@ -13916,6 +14045,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oxo-good-grips-plastic-cutting-board",
+    imageUrl: "https://m.media-amazon.com/images/I/41fvftMdTZL._AC_UL320_.jpg",
     category: "food",
     badge: "🧼",
     name: { en: "OXO Good Grips Plastic Cutting Board", ja: "OXO グッドグリップス プラスチックまな板" },
@@ -14086,6 +14216,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cuisinart-multiclad-pro-stockpot",
+    imageUrl: "https://m.media-amazon.com/images/I/519MAG1upTL._AC_UL320_.jpg",
     category: "food",
     badge: "🥘",
     name: { en: "Cuisinart Multiclad Pro Stainless Stockpot", ja: "Cuisinart Multiclad Pro ステンレス寸胴鍋" },
@@ -14142,6 +14273,7 @@ const RAW_CATALOG = [
   },
   {
     id: "demeyere-industry-stockpot",
+    imageUrl: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dw4295bede/images/large/5412191483947_48394.jpg",
     category: "food",
     badge: "🏆",
     name: { en: "Demeyere Industry Stainless Stockpot", ja: "Demeyere Industry ステンレス寸胴鍋" },
@@ -14217,6 +14349,7 @@ const RAW_CATALOG = [
   },
   {
     id: "wod-nation-speed-rope",
+    imageUrl: "https://m.media-amazon.com/images/I/71R3cJYpa0L._AC_UL320_.jpg",
     category: "fitness",
     badge: "📝",
     name: { en: "WOD Nation Speed Jump Rope", ja: "WOD Nation スピードジャンプロープ" },
@@ -14425,6 +14558,7 @@ const RAW_CATALOG = [
   },
   {
     id: "wod-nation-resistance-band-set",
+    imageUrl: "https://m.media-amazon.com/images/I/61Y8K1OuxXL._AC_UL320_.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "WOD Nation Resistance Band Set", ja: "WOD Nation レジスタンスバンドセット" },
@@ -14462,6 +14596,7 @@ const RAW_CATALOG = [
   },
   {
     id: "usa-pan-half-sheet",
+    imageUrl: "https://d163axztg8am2h.cloudfront.net/static/img/54/38/f0a27048be675768e7c22e8bae57.webp",
     category: "food",
     badge: "🍪",
     name: { en: "USA Pan Half Sheet Baking Pan", ja: "USA Pan ハーフシート ベーキングパン" },
@@ -14480,6 +14615,7 @@ const RAW_CATALOG = [
   },
   {
     id: "wilton-baking-sheet",
+    imageUrl: "https://m.media-amazon.com/images/I/91VO5ZaYinL._AC_UL320_.jpg",
     category: "food",
     badge: "🍪",
     name: { en: "Wilton Nonstick Half Sheet Baking Pan", ja: "Wilton ノンスティック ハーフシート ベーキングパン" },
@@ -14648,6 +14784,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bialetti-brikka",
+    imageUrl: "https://www.bialetti.com/media/catalog/product/b/r/brikka_4.png",
     category: "food",
     badge: "☕",
     name: { en: "Bialetti Brikka Moka Pot", ja: "Bialetti ブリッカ モカポット" },
@@ -14685,6 +14822,7 @@ const RAW_CATALOG = [
   },
   {
     id: "ilsa-stovetop-espresso-maker",
+    imageUrl: "https://m.media-amazon.com/images/I/71S-rzjR9uL._AC_UL320_.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Ilsa Stovetop Espresso Maker", ja: "Ilsa ストーブトップエスプレッソメーカー" },
@@ -14760,6 +14898,7 @@ const RAW_CATALOG = [
   },
   {
     id: "goruck-training-sandbag",
+    imageUrl: "https://www.goruck.com/cdn/shop/files/SimpleSandbag_20LB_Black.jpg?v=1769629383&width=1500",
     category: "fitness",
     badge: "🏋️",
     name: { en: "GORUCK Training Sandbag", ja: "GORUCK トレーニングサンドバッグ" },
@@ -14796,6 +14935,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cerberus-strength-sandbag",
+    imageUrl: "https://m.media-amazon.com/images/I/61lShutBabL._AC_UL320_.jpg",
     category: "fitness",
     badge: "🏋️",
     name: { en: "Cerberus Strength Training Sandbag", ja: "Cerberus Strength トレーニングサンドバッグ" },
@@ -14871,6 +15011,7 @@ const RAW_CATALOG = [
   },
   {
     id: "aeropress-xl",
+    imageUrl: "https://aeropress.com/cdn/shop/files/AP_OG_PDP_ATF_1_0fc0a228-ef61-4e98-8c64-6c0acb90a128_900x.png?v=1757102919",
     category: "food",
     badge: "☕",
     name: { en: "AeroPress XL Coffee Maker", ja: "AeroPress XL コーヒーメーカー" },
@@ -14927,6 +15068,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rep-fitness-dip-bar",
+    imageUrl: "https://cdn.arenacommerce.com/repfitnessco/DipAttachment2%20-%20Main.webp",
     category: "fitness",
     badge: "💪",
     name: { en: "REP Fitness Dip Bar", ja: "REP Fitness ディップバー" },
@@ -14945,6 +15087,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-matador-dip-attachment",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Rigs%20and%20Racks/Rig%20and%20Rack%20Accessories/Monster%20Accessories/MATADORGROUP/MATADORGROUP-H_c09sdh.png",
     category: "fitness",
     badge: "💪",
     name: { en: "Rogue Matador Dip Attachment", ja: "Rogue Matador ディップアタッチメント" },
@@ -14963,6 +15106,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cap-barbell-dip-bar",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0604/5840/1863/files/FM_FLDIPR_006__55923.1460756819.1280.1280_ec616e2b-a274-48a7-954c-d900166044a9.jpg?v=1768894393",
     category: "fitness",
     badge: "💪",
     name: { en: "CAP Barbell Dip Bar Stand", ja: "CAP Barbell ディップバースタンド" },
@@ -15038,6 +15182,7 @@ const RAW_CATALOG = [
   },
   {
     id: "espro-p3-french-press",
+    imageUrl: "https://espro.com/cdn/shop/files/p3_32.jpg?v=1774905349",
     category: "food",
     badge: "☕",
     name: { en: "Espro P3 French Press", ja: "Espro P3 フレンチプレス" },
@@ -15056,6 +15201,7 @@ const RAW_CATALOG = [
   },
   {
     id: "frieling-double-wall-french-press",
+    imageUrl: "https://m.media-amazon.com/images/I/61P1EOqVQWL._AC_UL320_.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Frieling Double-Wall French Press", ja: "Frieling 二重壁フレンチプレス" },
@@ -15074,6 +15220,7 @@ const RAW_CATALOG = [
   },
   {
     id: "mueller-french-press",
+    imageUrl: "https://m.media-amazon.com/images/I/81o2iIR4ulL._AC_UL320_.jpg",
     category: "food",
     badge: "☕",
     name: { en: "Mueller French Press", ja: "Mueller フレンチプレス" },
@@ -15112,6 +15259,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rogue-monster-utility-bench",
+    imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Strength%20Equipment/Strength%20Training/Weight%20Benches/MONSTERBENCH2-0-MG/RF0853-Premium-Textured-Foam-Standard_wcnr4b.png",
     category: "fitness",
     badge: "💪",
     name: { en: "Rogue Monster Utility Bench", ja: "Rogue Monster ユーティリティベンチ" },
@@ -15149,6 +15297,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fitness-reality-1000-super-max-bench",
+    imageUrl: "https://m.media-amazon.com/images/I/71Qqb65dhAL._AC_UL320_.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "Fitness Reality 1000 Super Max Bench", ja: "Fitness Reality 1000 Super Max ベンチ" },
@@ -15301,6 +15450,7 @@ const RAW_CATALOG = [
   },
   {
     id: "body-solid-lat-pulldown",
+    imageUrl: "https://cdn11.bigcommerce.com/s-2v01ommyhe/images/stencil/1028x1028/products/787/2834/LVLA%5F0002%5F%5F75146.1735657465.jpg?c=1",
     category: "fitness",
     badge: "💪",
     name: { en: "Body-Solid Lat Pulldown Machine", ja: "Body-Solid ラットプルダウンマシン" },
@@ -15319,6 +15469,7 @@ const RAW_CATALOG = [
   },
   {
     id: "valor-fitness-cb-12",
+    imageUrl: "https://valorfitness.com/cdn/shop/files/CB_12_Main_1.jpg?v=1755713643&width=1214",
     category: "fitness",
     badge: "💪",
     name: { en: "Valor Fitness CB-12 Cable Station", ja: "Valor Fitness CB-12 ケーブルステーション" },
@@ -15337,6 +15488,7 @@ const RAW_CATALOG = [
   },
   {
     id: "functional-trainer-by-force-usa",
+    imageUrl: "https://www.forceusa.com/cdn/shop/files/F-FTR-03-new.jpg?v=1757948650&width=400",
     category: "fitness",
     badge: "💪",
     name: { en: "Force USA Functional Trainer", ja: "Force USA 機能的トレーナー" },
@@ -15355,6 +15507,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cable-crossover-by-titan-fitness",
+    imageUrl: "https://titan.fitness/cdn/shop/files/400883_01.jpg?v=1742223739&width=1946",
     category: "fitness",
     badge: "💪",
     name: { en: "Titan Fitness Functional Trainer", ja: "Titan Fitness 機能的トレーナー" },
@@ -15450,6 +15603,7 @@ const RAW_CATALOG = [
   },
   {
     id: "javapresse-manual-burr-grinder",
+    imageUrl: "https://www.javapresse.com/cdn/shop/files/GrinderImage1.webp?v=1726314232&width=480",
     category: "food",
     badge: "☕",
     name: { en: "JavaPresse Manual Burr Grinder", ja: "JavaPresse 手動バーグラインダー" },
@@ -15488,6 +15642,7 @@ const RAW_CATALOG = [
   },
   {
     id: "glute-ham-developer-by-rep-fitness",
+    imageUrl: "https://repfitness.com/cdn/shop/products/Shopify-GHD-3000-Thumbnail.jpg?v=1635875992&width=448",
     category: "fitness",
     badge: "💪",
     name: { en: "REP Fitness Glute-Ham Developer (GHD)", ja: "REP Fitness グルートハムデベロッパー（GHD）" },
@@ -15506,6 +15661,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hip-abductor-machine-by-body-solid",
+    imageUrl: "https://cdn11.bigcommerce.com/s-2v01ommyhe/products/757/images/5092/GIOTB-with-STK_0O2A4929-hero-2500__43412.1775755411.386.513.png?c=1",
     category: "fitness",
     badge: "💪",
     name: { en: "Body-Solid Hip Abductor Machine", ja: "Body-Solid ヒップアブダクターマシン" },
@@ -15542,6 +15698,7 @@ const RAW_CATALOG = [
   },
   {
     id: "hip-circle-band-by-sling-shot",
+    imageUrl: "https://markbellslingshot.com/cdn/shop/products/HIPCIRCLE-BLUE_1.jpg?v=1613772161&width=720",
     category: "fitness",
     badge: "💪",
     name: { en: "Sling Shot Hip Circle Band", ja: "Sling Shot ヒップサークルバンド" },
@@ -15580,6 +15737,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kalita-wave-155-ceramic",
+    imageUrl: "https://kalitausa.com/cdn/shop/products/glass-wave-155_95d70ed6-1236-45e1-87bc-8a21027fefc1.jpg?v=1674500913&width=533",
     category: "food",
     badge: "☕",
     name: { en: "Kalita Wave 155 Ceramic", ja: "Kalita Wave 155 セラミック" },
@@ -15598,6 +15756,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kalita-wave-185-glass",
+    imageUrl: "https://kalitausa.com/cdn/shop/products/kw185gl_1.jpg?v=1586190311&width=1946",
     category: "food",
     badge: "☕",
     name: { en: "Kalita Wave 185 Glass", ja: "Kalita Wave 185 ガラス" },
@@ -15616,6 +15775,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kalita-wave-filters-185",
+    imageUrl: "https://kalitausa.com/cdn/shop/products/kalita_185_filter.jpg?v=1670455384&width=533",
     category: "food",
     badge: "☕",
     name: { en: "Kalita Wave Filters 185", ja: "Kalita Wave フィルター 185" },
@@ -15864,6 +16024,7 @@ const RAW_CATALOG = [
   },
   {
     id: "marcy-preacher-curl-bench",
+    imageUrl: "https://www.marcypro.com/cdn/shop/files/SB-7799_p_01__69225.1738628038.1280.1280.jpg",
     category: "fitness",
     badge: "💪",
     name: { en: "Marcy Preacher Curl Bench", ja: "Marcy プリーチャーカールベンチ" },
@@ -15882,6 +16043,7 @@ const RAW_CATALOG = [
   },
   {
     id: "valor-fitness-preacher-curl-bench",
+    imageUrl: "https://valorfitness.com/cdn/shop/files/CB-5_Main.jpg?v=1755106353&width=1214",
     category: "fitness",
     badge: "💪",
     name: { en: "Valor Fitness Preacher Curl Bench", ja: "Valor Fitness プリーチャーカールベンチ" },
@@ -15918,6 +16080,7 @@ const RAW_CATALOG = [
   },
   {
     id: "adjustable-preacher-curl-attachment",
+    imageUrl: "https://titan.fitness/cdn/shop/files/401480_01.jpg?v=1763668419",
     category: "fitness",
     badge: "💪",
     name: { en: "Adjustable Preacher Curl Attachment", ja: "調整可能プリーチャーカールアタッチメント" },
@@ -15956,6 +16119,7 @@ const RAW_CATALOG = [
   },
   {
     id: "yama-glass-siphon-5-cup",
+    imageUrl: "https://yama-glass.com/cdn/shop/products/b002cvtktw.main_300x300.jpg?v=1582851827",
     category: "food",
     badge: "☕",
     name: { en: "Yama Glass Siphon 5-Cup", ja: "Yama Glass サイフォン 5カップ" },
@@ -15993,6 +16157,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cona-siphon-coffee-maker",
+    imageUrl: "https://dominotees.myshopify.com/cdn/shop/products/31EUnJ73erL_300x300.jpg?v=1582788623",
     category: "food",
     badge: "☕",
     name: { en: "Cona Siphon Coffee Maker", ja: "Cona サイフォンコーヒーメーカー" },
@@ -16127,6 +16292,7 @@ const RAW_CATALOG = [
   // ── best-turkish-coffee-maker-2026 ───────────────────────────────────────
   {
     id: "copper-cezve-ibrik-by-shiritek",
+    imageUrl: "https://www.amazon.com/Cezve-Turkish-Coffee-Pot-Traditional/dp/B0BPY5KK1V",
     category: "food",
     badge: "☕",
     name: { en: "Copper Cezve / Ibrik by Shiritek", ja: "Shiritek 銅チェズベ/イブリック" },
@@ -16853,6 +17019,7 @@ const RAW_CATALOG = [
   },
   {
     id: "titan-fitness-hip-thrust-machine",
+    imageUrl: "https://titan.fitness/cdn/shop/files/401784_01.jpg?v=1764178172&width=1946",
     category: "fitness",
     badge: "予算専用",
     name: { en: "Titan Fitness Hip Thrust Machine", ja: "Titan Fitness ヒップスラストマシン" },
@@ -17235,6 +17402,7 @@ const RAW_CATALOG = [
   },
   {
     id: "everlast-c3-heavy-bag-100lb",
+    imageUrl: "https://www.everlast.com/cdn/shop/files/4768_5.jpg?v=1702973275",
     category: "fitness",
     badge: "標準ハンギングバッグ",
     name: { en: "Everlast C3 Heavy Bag 100 lb", ja: "エバーラスト C3 ヘビーバッグ 100lb" },
@@ -17407,6 +17575,7 @@ const RAW_CATALOG = [
   },
   {
     id: "title-boxing-classic-gloves",
+    imageUrl: "https://cdnimages.opentip.com/full/TIT/TIT-CABG-BLACKRED.jpg",
     category: "fitness",
     badge: "中堅ボクシング専門",
     name: { en: "Title Boxing Classic Training Gloves", ja: "タイトル ボクシング クラシック トレーニンググローブ" },
@@ -17425,6 +17594,7 @@ const RAW_CATALOG = [
   },
   {
     id: "everlast-1910-boxing-gloves",
+    imageUrl: "https://www.everlast.com/cdn/shop/files/image-3.jpg?v=1774352046&width=1946",
     category: "fitness",
     badge: "本革アップグレード",
     name: { en: "Everlast 1910 Training Gloves", ja: "エバーラスト 1910 トレーニンググローブ" },
@@ -17443,6 +17613,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cleto-reyes-hook-loop-training",
+    imageUrl: "https://cletoreyes.com/cdn/shop/products/01E6.12.RED_eedb0bdf-4f11-4cf7-ae03-f14f1aee00b8.jpg?v=1652221864&width=800",
     category: "fitness",
     badge: "プロ競技グレード",
     name: { en: "Cleto Reyes Hook & Loop Training Gloves", ja: "クレトレイエス フック&ループ トレーニンググローブ" },
@@ -17972,6 +18143,7 @@ const RAW_CATALOG = [
   },
   {
     id: "garmin-approach-g12",
+    imageUrl: "https://www.heartratemonitorsusa.com/cdn/shop/products/garmin-golf-garmin-approach-g12-gps-golf-range-finder-29796461281453.png?v=1628113729&width=1000",
     category: "fitness",
     badge: "Best GPS Watch",
     name: { en: "Garmin Approach G12", ja: "Garmin Approach G12" },
@@ -18052,6 +18224,7 @@ const RAW_CATALOG = [
   },
   {
     id: "republic-of-tea-black-tea",
+    imageUrl: "https://www.republicoftea.com/cdn/shop/files/V00586_pt_tin.jpg?v=1763652940&width=1946",
     category: "food",
     badge: "Best Everyday Value",
     name: { en: "Republic of Tea Daily Black Tea", ja: "Republic of Tea デイリーブラックティー" },
@@ -18631,6 +18804,7 @@ const RAW_CATALOG = [
   },
   {
     id: "five-ten-hiangle",
+    imageUrl: "https://www.oliunid.com/media/catalog/product/cache/5a24461f6a5b003a808c9550a18372ea/a/d/adidas-five-ten-hiangle-scarpette-arrampicata.jpg",
     category: "fitness",
     badge: "Best Slab Shoe",
     name: { en: "Five Ten Hiangle", ja: "ファイブテン ハイアングル" },
@@ -18678,6 +18852,7 @@ const RAW_CATALOG = [
   },
   {
     id: "numi-organic-peppermint-tea",
+    imageUrl: "https://numitea.com/cdn/shop/files/moroccan-mint-tea-bags-plastic-free_38765c4b-d505-429d-b869-980c6336a438.jpg?v=1752098858",
     category: "food",
     badge: "Best Premium Organic",
     name: { en: "Numi Organic Peppermint", ja: "Numi オーガニック ペパーミント" },
@@ -18950,6 +19125,7 @@ const RAW_CATALOG = [
   },
   {
     id: "stx-crux-200-womens-stick",
+    imageUrl: "https://stx.com/cdn/shop/files/stx-wlx-crux_pro-white_yellow-ss-front.jpg?v=1752065012&width=533",
     category: "fitness",
     badge: "Best Women's Lacrosse Stick",
     name: { en: "STX Crux 200 Women's Complete Stick", ja: "STX Crux 200 女性用コンプリートスティック" },
@@ -18998,6 +19174,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bigelow-benefits-hibiscus",
+    imageUrl: "https://www.bigelowtea.com/cdn/shop/files/moutt7uewhkaupkxphct.jpg?v=1776753836&width=1080",
     category: "food",
     badge: "Best Everyday Hibiscus Tea",
     name: { en: "Bigelow Benefits Hibiscus Tea", ja: "Bigelow Benefits ハイビスカスティー" },
@@ -19094,6 +19271,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tachikara-sv-5ws-volleyball-knee-pad",
+    imageUrl: "https://onepremiersports.com/cdn/shop/products/81sbt0goc6l._ac_sl1500_2000x2000.jpg?v=1655752011",
     category: "fitness",
     badge: "Best Budget Knee Pad",
     name: { en: "Tachikara Volleyball Knee Pad", ja: "Tachikara バレーボール膝パッド" },
@@ -19767,6 +19945,7 @@ const RAW_CATALOG = [
   },
   {
     id: "legion-pulse-pre-workout",
+    imageUrl: "https://bipfit.com/cdn/shop/products/81YLzQgr1IL.jpg?v=1571624692",
     category: "fitness",
     badge: "Best Stimulant-Free Option",
     name: { en: "Legion Pulse Pre-Workout", ja: "Legion Pulse プレワークアウト" },

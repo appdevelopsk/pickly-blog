@@ -61,6 +61,9 @@ export interface AffiliateOffer {
   rating?: number;
   /** Approximate price string (e.g. "¥3,980", "$29.99") */
   price?: string;
+  /** Price range for multi-seller platforms (e.g. Rakuten). When both are set, displayed as "¥15,800〜¥22,000" */
+  priceMin?: string;
+  priceMax?: string;
 }
 
 export interface AffiliatePolicy {

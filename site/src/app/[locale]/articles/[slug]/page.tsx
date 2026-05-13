@@ -5,6 +5,8 @@ import { listArticles, getArticle } from "@/lib/articles/registry";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { ArticleBody } from "@/components/articles/ArticleBody";
+import { RelatedArticles } from "@/components/articles/RelatedArticles";
+import { AffiliateClickTracker } from "@/components/AffiliateClickTracker";
 import type { ArticleContent } from "@/lib/articles/types";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
@@ -172,6 +174,10 @@ export default async function ArticlePage({ params }: Props) {
       )}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <ArticleBody meta={meta} content={content} offers={offers} />
+      <div className="mx-auto max-w-3xl px-4 sm:px-6">
+        <RelatedArticles slug={slug} category={meta.category} locale={locale} />
+      </div>
+      <AffiliateClickTracker slug={slug} />
     </>
   );
 }
