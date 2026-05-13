@@ -43,6 +43,8 @@ const RAW_CATALOG = [
   {
     id: "nordvpn",
     imageUrl: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nordvpn-icon.png",
+    priceMin: "¥430/月",
+    priceMax: "¥1,790/月",
     category: "tech",
     badge: "🛡️",
     name: { en: "NordVPN", ja: "NordVPN", "zh-CN": "NordVPN", "zh-TW": "NordVPN", ko: "NordVPN", es: "NordVPN", "pt-BR": "NordVPN", fr: "NordVPN", de: "NordVPN", it: "NordVPN", ru: "NordVPN", ar: "NordVPN", hi: "NordVPN", id: "NordVPN", th: "NordVPN", vi: "NordVPN", tr: "NordVPN" },
@@ -59,6 +61,8 @@ const RAW_CATALOG = [
   {
     id: "expressvpn",
     imageUrl: "https://dl.svgcdn.com/png/simple-icons/expressvpn-400.png",
+    priceMin: "$4.99/月",
+    priceMax: "$12.95/月",
     category: "tech",
     badge: "⚡",
     name: { en: "ExpressVPN", ja: "ExpressVPN" },
@@ -74,6 +78,8 @@ const RAW_CATALOG = [
   {
     id: "surfshark",
     imageUrl: "https://dl.svgcdn.com/png/simple-icons/surfshark-400.png",
+    priceMin: "$1.99/月",
+    priceMax: "$15.45/月",
     category: "tech",
     badge: "🦈",
     name: { en: "Surfshark", ja: "Surfshark" },
@@ -90,6 +96,8 @@ const RAW_CATALOG = [
   {
     id: "protonvpn",
     imageUrl: "https://dl.svgcdn.com/png/simple-icons/protonvpn-400.png",
+    priceMin: "$3.59/月",
+    priceMax: "$12.99/月",
     category: "tech",
     badge: "🔒",
     name: { en: "Proton VPN", ja: "Proton VPN" },
@@ -106,6 +114,7 @@ const RAW_CATALOG = [
   {
     id: "mullvad",
     imageUrl: "https://dl.svgcdn.com/png/simple-icons/mullvad-400.png",
+    price: "€5/月",
     category: "tech",
     badge: "🐾",
     name: { en: "Mullvad", ja: "Mullvad" },
@@ -275,6 +284,7 @@ const RAW_CATALOG = [
   {
     id: "oral-b-io-series-9",
     imageUrl: "https://cdn11.bigcommerce.com/s-2idmiil7bp/images/stencil/500x659/products/1311/10360/00069055128909_C1C1_OOP_91434457__99382__27200.1773720284.jpg",
+    price: "¥44,800",
     category: "beauty",
     badge: "🦷",
     name: { en: "Oral-B iO Series 9", ja: "オーラルB iO Series 9" },
@@ -290,6 +300,8 @@ const RAW_CATALOG = [
   {
     id: "philips-sonicare-diamondclean-9000",
     imageUrl: "https://images.philips.com/is/image/philipsconsumer/d15129270d43438db05eb06f00cf6520?wid=700&hei=700&$pnglarge$",
+    priceMin: "¥18,900",
+    priceMax: "¥27,600",
     category: "beauty",
     badge: "💎",
     name: { en: "Philips Sonicare DiamondClean 9000", ja: "フィリップス ソニッケアー ダイヤモンドクリーン 9000" },
@@ -305,6 +317,8 @@ const RAW_CATALOG = [
   {
     id: "panasonic-doltz-ew-dp52",
     imageUrl: "https://image.dokodemo.world/catalog-skus/9027706/b1efa47cc7819ba589c6a740296190e2.png",
+    priceMin: "¥8,000",
+    priceMax: "¥12,000",
     category: "beauty",
     badge: "🇯🇵",
     name: { en: "Panasonic Doltz EW-DP52", ja: "パナソニック ドルツ EW-DP52" },
@@ -319,6 +333,7 @@ const RAW_CATALOG = [
   {
     id: "quip-electric-toothbrush",
     imageUrl: "https://www.getquip.com/cdn/shop/files/2501_DTC_SonicToothbrush_2880x2880_Green-1.jpg",
+    price: "$40",
     category: "beauty",
     badge: "✈️",
     name: { en: "Quip Electric Toothbrush", ja: "Quip 電動歯ブラシ" },
@@ -583,6 +598,7 @@ const RAW_CATALOG = [
   {
     id: "anessa-perfect-uv-spf50",
     imageUrl: "https://japanesetaste.com/cdn/shop/files/Shiseido-Anessa-Perfect-UV-Sunscreen-Skincare-Milk-SPF50_-60ml--1-2024-06-14T02_08_59.526Z.webp",
+    price: "¥3,058",
     category: "beauty",
     badge: "☀️",
     name: { en: "Anessa Perfect UV Sunscreen SPF50+ PA++++", ja: "アネッサ パーフェクトUV サンスクリーン SPF50+ PA++++" },
@@ -597,6 +613,8 @@ const RAW_CATALOG = [
   {
     id: "la-roche-posay-anthelios-uvmune",
     imageUrl: "https://africa.laroche-posay.com/-/media/project/loreal/brand-sites/lrp/emea/za/products/anthelios/uvmune-fluid-non-perfumed/lrpproductpagesunantheliosuvmune400fluidspspf503337875797597frontpng.png?sc_lang=en-za",
+    priceMin: "¥2,700",
+    priceMax: "¥3,690",
     category: "beauty",
     badge: "🇫🇷",
     name: { en: "La Roche-Posay Anthelios UVMune 400", ja: "ラロッシュポゼ アンテリオス UVミューン400" },
@@ -612,6 +630,8 @@ const RAW_CATALOG = [
   {
     id: "biore-uv-aqua-rich-essence",
     imageUrl: "https://kao-h.assetsadobe3.com/is/image/content/dam/sites/kao/www-kao-com/sg/en/products/biore/bio_aquarich_essence_00.jpg",
+    priceMin: "¥1,000",
+    priceMax: "¥1,280",
     category: "beauty",
     badge: "💧",
     name: { en: "Biore UV Aqua Rich Watery Essence SPF50+", ja: "ビオレUV アクア リッチ ウォータリーエッセンス SPF50+" },
@@ -626,6 +646,7 @@ const RAW_CATALOG = [
   {
     id: "eltamd-uv-clear-spf46",
     imageUrl: "https://eltamd.com/cdn/shop/files/2-award_120x.png",
+    price: "$45",
     category: "beauty",
     badge: "🩺",
     name: { en: "EltaMD UV Clear SPF46", ja: "EltaMD UV Clear SPF46" },
@@ -648,6 +669,7 @@ const RAW_CATALOG = [
       en: "Rohto's color-correcting tinted SPF50+ PA++++. Lavender pigment neutralizes yellow and sallow undertones on East Asian complexions for a brightening finish. Under ¥1,000 per 80g. Explicit weakness: lavender tint reads as purple-grey on deeper skin tones (Fitzpatrick IV+), mild water resistance only, no skincare active benefit.",
       ja: "ロートの色補正ティント入りSPF50+ PA++++。ラベンダー顔料が東アジアの肌色の黄色みとくすみを中和して明るい仕上がりを実現。80gで1,000円以下。明確な弱点：フィッツパトリックIV以上の肌色にラベンダーティントが紫がかったグレーに見える、耐水性は軽度のみ、スキンケア有効成分なし。",
     },
+    price: "¥1,210",
     links: [
       { network: "moshimo", productId: "rakuten-skin-aqua-tone-up-lavender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%A2%E3%82%AF%E3%82%A2%2B%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%2BUV%2B%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
@@ -663,6 +685,7 @@ const RAW_CATALOG = [
       en: "Non-foaming pump cleanser with ceramide complex (NP, AP, EOP), hyaluronic acid, and niacinamide. AAD-recommended for dry and sensitive skin. Fragrance-free, non-comedogenic. Explicit weakness: non-foam texture fails the sensory expectations of users who equate lather with cleansing; pump nozzle clogs when cleanser dries in the tip; requires prior oil-cleanse for heavy SPF or waterproof makeup removal.",
       ja: "セラミドコンプレックス（NP・AP・EOP）、ヒアルロン酸、ナイアシンアミドの非泡立てポンプ洗顔料。乾燥・敏感肌に米国皮膚科学会（AAD）推奨。無香料・非コメドジェニック。明確な弱点：非泡立てのテクスチャーが洗浄感を求めるユーザーの感覚的期待に応えない；ポンプノズルが先端で詰まりやすい；重SPFや防水メイクには前段のオイルクレンジングが必要。",
     },
+    price: "$17.49",
     links: [
       { network: "amazon-us", productId: "B01MSSDEPK", rawUrl: "https://www.amazon.com/dp/B01MSSDEPK", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-cerave-hydrating-facial-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCeraVe%2B%E6%B4%97%E9%A1%94%E6%96%99%2B%E4%BF%9D%E6%B9%BF%2F", markets: ["JP"], approved: true },
@@ -678,6 +701,7 @@ const RAW_CATALOG = [
       en: "Japanese drugstore oil cleanser that emulsifies with water to a milky rinse, removing makeup and SPF in one step. Under ¥1,000 for 230ml. Explicit weakness: not suitable for bare no-SPF skin (over-cleansing risk); silicone content divides long-term reviewers; fragrance present — unsuitable for reactive or sensitive skin.",
       ja: "水と混ぜて乳化リンスになり、メイクとSPFをワンステップで除去する日本のドラッグストアのオイルクレンザー。230mlで1,000円以下。明確な弱点：SPFなしの素肌には不適（過洗顔リスク）；シリコン含量が長期レビューで賛否；香料が含まれており反応性・敏感肌には不適。",
     },
+    price: "¥1,078",
     links: [
       { network: "moshimo", productId: "rakuten-kose-softymo-speedy-cleansing", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%BC%2B%E3%82%BD%E3%83%95%E3%83%86%E3%82%A3%E3%83%A2%2B%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true },
     ],
@@ -692,6 +716,7 @@ const RAW_CATALOG = [
       en: "Balm-to-oil cleanser with plant-derived squalane. Removes SPF and waterproof makeup without sulfate surfactants. Fragrance-free, silicone-free, non-comedogenic. Explicit weakness: requires thorough emulsification with wet hands or leaves residue; too heavy for very oily skin as standalone; 50ml tube empties faster than expected.",
       ja: "植物由来スクワランのバームtoオイル洗顔料。硫酸系界面活性剤なしにSPFと防水メイクを除去。無香料・シリコンフリー・非コメドジェニック。明確な弱点：濡れた手でしっかり乳化しないと残留物が出る；非常に油性な肌のスタンドアローン使用には重すぎる；50mlチューブが予想より早く空になる。",
     },
+    price: "$19.45",
     links: [
       { network: "amazon-us", productId: "B078LBH8T9", rawUrl: "https://www.amazon.com/dp/B078LBH8T9", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-the-ordinary-squalane-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FThe%2BOrdinary%2B%E3%82%B9%E3%82%AF%E3%83%AF%E3%83%A9%E3%83%B3%2B%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B6%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -707,13 +732,17 @@ const RAW_CATALOG = [
       en: "Dense-foam facial cleanser with hydrolyzed collagen and silk extract. Long-running Japanese drugstore bestseller, under ¥700 for 120g. Explicit weakness: fragrance present — unsuitable for reactive skin and rosacea; collagen molecules too large to penetrate skin in a rinse-off product; foam net required for advertised lather but not included.",
       ja: "加水分解コラーゲンとシルクエキス配合の濃密泡洗顔料。日本のドラッグストアで長年のベストセラー、120gで700円以下。明確な弱点：香料が含まれており反応性肌・酒さに不適；洗い流し製品でコラーゲン分子は肌バリアを透過できない；宣伝の泡立てには同梱されていない洗顔ネットが必要。",
     },
+    price: "$9.99",
     links: [
       { network: "moshimo", productId: "rakuten-shiseido-senka-perfect-whip", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B0%82%E7%A7%91%2B%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%9B%E3%82%A4%E3%83%83%E3%83%97%2B%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true },
     ],
   },
   {
     id: "la-roche-posay-toleriane-cleanser",
+    imageUrl: "https://m.media-amazon.com/images/I/911Y9P7RWML._SL1500_.jpg",
     category: "beauty",
+    priceMin: "¥2,980",
+    priceMax: "¥3,520",
     badge: "🇫🇷",
     name: { en: "La Roche-Posay Toleriane Hydrating Gentle Cleanser", ja: "ラロッシュポゼ トレリアン ハイドレーティング ジェントル クレンザー" },
     description: {
@@ -736,6 +765,7 @@ const RAW_CATALOG = [
       en: "Fragrance-free mild surfactant cleanser developed for sensitive and dry skin. AAD-recommended dermatology reference standard for gentle cleansing. Non-comedogenic. Explicit weakness: very low foam output that does not satisfy lather expectations; contains low-concentration SLS that a small percentage of SLS-sensitive users may react to; requires pre-cleanse step for heavy SPF or waterproof makeup removal.",
       ja: "無香料・敏感肌・乾燥肌向けに開発されたマイルドな界面活性剤洗顔料。マイルドな洗顔の皮膚科基準として使用。非コメドジェニック。明確な弱点：泡立ちが少なく濃密泡を求めるユーザーの期待に応えない；低濃度SLSを含みごく一部のSLS過敏症ユーザーが反応する場合がある；重SPFや防水メイクのスタンドアローン洗顔には前洗顔が必要。",
     },
+    price: "$11.88",
     links: [
       { network: "amazon-us", productId: "B01N7IJ5G8", rawUrl: "https://www.amazon.com/dp/B01N7IJ5G8", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-cetaphil-gentle-skin-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCetaphil+%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -751,6 +781,7 @@ const RAW_CATALOG = [
       en: "Multi-molecular-weight hyaluronic acid toner, long-term bestseller in Japan's toner category. Fragrance-free, alcohol-free, no mineral oils. Explicit weakness: in low-humidity environments draws moisture from deeper skin layers if no moisturizer is applied over it; slightly viscous texture takes longer to absorb than water-thin toners; cotton pad application increases product waste relative to palming in.",
       ja: "複数の分子量のヒアルロン酸化粧水、日本化粧水カテゴリーの長期ベストセラー。無香料・アルコールなし・無鉱物油。明確な弱点：低湿度環境で保湿剤を重ねないと深い肌の層から水分を引き出し乾燥を悪化させる可能性；粘性テクスチャーが吸収に時間がかかり塗りすぎると乗っている感覚がある；コットンパッドでの使用は製品の無駄が生じる。",
     },
+    price: "¥1,650",
     links: [
       { network: "moshimo", productId: "rakuten-hada-labo-gokujyun-lotion", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%82%8C%E3%83%A9%E3%83%9C+%E6%A5%B5%E6%BD%A4+%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E9%85%B8%E6%B6%B2%2F", markets: ["JP"], approved: true },
     ],
@@ -765,6 +796,7 @@ const RAW_CATALOG = [
       en: "Ceramide NP, AP, EOP plus hyaluronic acid and cholesterol via MVE sustained-release delivery. AAD-recommended for dry, eczema-prone, and sensitive skin. Non-comedogenic. Explicit weakness: too occlusive for oily and combination skin in hot climates; jar packaging requires clean spatula use; too heavy under SPF on oily skin in Japanese summer heat.",
       ja: "セラミドNP・AP・EOP＋ヒアルロン酸・コレステロールをMVE持続放出デリバリーで配合。乾燥・アトピー傾向・敏感肌にAAD推奨。非コメドジェニック。明確な弱点：夏の暑さ・湿気の中の朝SPFとの組み合わせで油性・混合肌には閉塞性が高すぎる場合；ジャーは清潔なスパチュラが必要；日本の夏の油性肌にはSPFの下で重すぎる場合がある。",
     },
+    price: "$22.99",
     links: [
       { network: "amazon-us", productId: "B003D6LI0W", rawUrl: "https://www.amazon.com/dp/B003D6LI0W", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-cerave-moisturizing-cream", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCeraVe+%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0+%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
@@ -780,6 +812,7 @@ const RAW_CATALOG = [
       en: "Silicone-hybrid UV filter system with Aqua Booster EX technology — film strengthens on contact with sweat and water. SPF50+PA++++. Non-comedogenic milk texture for facial use. Explicit weakness: contains alcohol — unsuitable for reactive, rosacea-prone, or alcohol-sensitive skin; chemical filters not appropriate for broken or post-procedure skin; 60ml bottle expensive per-ml vs Korean or European equivalents.",
       ja: "アクアブースターEX技術によるシリコンハイブリッドUVフィルターシステム — 汗・水との接触で膜が強化。SPF50+PA++++。顔用の非コメドジェニックなミルクテクスチャー。明確な弱点：アルコール含有で反応性肌・酒さ・アルコール感受性肌には不適；ケミカルフィルターは破れた肌や施術後には不適；60mlで韓国・欧州同等品よりml当たりコストが高い。",
     },
+    price: "¥2,750",
     links: [
       { network: "amazon-us", productId: "B07XFT6NJX", rawUrl: "https://www.amazon.com/dp/B07XFT6NJX", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-anessa-sunscreen-spf50", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%8D%E3%83%83%E3%82%B5+%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88UV+%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%9F%E3%83%AB%E3%82%AF%2F", markets: ["JP"], approved: true },
@@ -795,6 +828,7 @@ const RAW_CATALOG = [
       en: "Water-based serum with 10% niacinamide for oil control, pore appearance, and tone evenness; 1% zinc PCA for sebum regulation. One of the highest cost-to-evidence-base ratios in OTC skincare. Explicit weakness: 10% can cause temporary flushing in niacin-sensitive users; contains silicone (dimethicone); niacinamide-vitamin-C interaction is largely theoretical but conservative users should layer them at separate times.",
       ja: "油分コントロール・毛穴の見え方・トーンの均一性のための10%ナイアシンアミドと皮脂調節のための1%ジンクPCAの水性セラム。市販スキンケアで最もコスト対エビデンス比率の高い製品の一つ。明確な弱点：10%はナイアシン感受性のあるユーザーに一時的フラッシングを引き起こす場合がある；シリコン（ジメチコン）含有；ナイアシンアミドとビタミンCの相互作用は大部分が理論上だが保守的なユーザーは朝/夜で分けて使うとよい。",
     },
+    price: "$6.90",
     links: [
       { network: "moshimo", productId: "rakuten-the-ordinary-niacinamide", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FThe+Ordinary+%E3%83%8A%E3%82%A4%E3%82%A2%E3%82%B7%E3%83%B3%E3%82%A2%E3%83%9F%E3%83%89+10%25%2F", markets: ["JP"], approved: true },
     ],
@@ -803,6 +837,7 @@ const RAW_CATALOG = [
   {
     id: "dyson-purifier-cool-gen1",
     imageUrl: "https://www.wellbots.com/cdn/shop/files/01-Hero-overview-full-width-Senses-and-captures-pollution-V1_1024x.jpg",
+    price: "¥49,940",
     category: "home",
     badge: "🌪️",
     name: { en: "Dyson Purifier Cool Gen1", ja: "ダイソン ピュリファイアー クール Gen1" },
@@ -818,6 +853,8 @@ const RAW_CATALOG = [
   {
     id: "sharp-plasmacluster-fp-j80",
     imageUrl: "https://my.sharp/sites/default/files/styles/produc/public/2018-12/FPJ80.jpg",
+    priceMin: "¥35,000",
+    priceMax: "¥50,000",
     category: "home",
     badge: "🇯🇵",
     name: { en: "Sharp Plasmacluster FP-J80", ja: "シャープ プラズマクラスター FP-J80" },
@@ -832,6 +869,7 @@ const RAW_CATALOG = [
   {
     id: "panasonic-f-vxu90",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/J0000036285.jpg",
+    price: "¥92,000",
     category: "home",
     badge: "💨",
     name: { en: "Panasonic F-VXU90", ja: "パナソニック F-VXU90 空気清浄機" },
@@ -846,6 +884,8 @@ const RAW_CATALOG = [
   {
     id: "blueair-blue-max-3250i",
     imageUrl: "https://www.blueair.com/cdn/shop/files/3250auto_1.png",
+    priceMin: "¥16,818",
+    priceMax: "¥24,970",
     category: "home",
     badge: "🇸🇪",
     name: { en: "Blueair Blue Max 3250i", ja: "ブルーエア Blue Max 3250i" },
@@ -869,6 +909,7 @@ const RAW_CATALOG = [
       en: "GMO's high-speed rental server. WordPress kantan setup in 10 minutes, free initial fee, JP datacenter. Beginner-friendly admin panel.",
       ja: "GMOの高速レンタルサーバー。WordPressかんたんセットアップ10分、初期費用無料、国内DC。管理画面が初心者向け。",
     },
+    price: "¥678/月",
     links: [
       { network: "direct", productId: "https://www.conoha.jp/wing/", markets: ["JP"], approved: true },
     ],
@@ -876,6 +917,8 @@ const RAW_CATALOG = [
   {
     id: "xserver",
     imageUrl: "https://www.xserver.ne.jp/img/top/mv_wordpress_b_ttl_s.png",
+    priceMin: "¥990/月",
+    priceMax: "¥1,320/月",
     category: "tech",
     badge: "🏛️",
     name: { en: "Xserver", ja: "エックスサーバー" },
@@ -890,6 +933,8 @@ const RAW_CATALOG = [
   {
     id: "lolipop-server",
     imageUrl: "https://lolipop.jp/img/default/home/hero-main-image.webp",
+    priceMin: "¥330/月",
+    priceMax: "¥550/月",
     category: "tech",
     badge: "💴",
     name: { en: "Lolipop!", ja: "ロリポップ！" },
@@ -904,6 +949,8 @@ const RAW_CATALOG = [
   {
     id: "sakura-rentalserver",
     category: "tech",
+    priceMin: "¥128/月",
+    priceMax: "¥660/月",
     badge: "🌸",
     name: { en: "Sakura Rental Server", ja: "さくらのレンタルサーバ" },
     description: {
@@ -918,6 +965,8 @@ const RAW_CATALOG = [
   {
     id: "mixhost",
     category: "tech",
+    priceMin: "¥858/月",
+    priceMax: "¥1,320/月",
     badge: "⚡",
     name: { en: "mixhost", ja: "mixhost" },
     description: {
@@ -931,6 +980,8 @@ const RAW_CATALOG = [
   {
     id: "onamae-com",
     category: "tech",
+    priceMin: "¥220/月",
+    priceMax: "¥880/月",
     badge: "🌐",
     name: { en: "お名前.com", ja: "お名前.com" },
     description: {
@@ -950,6 +1001,7 @@ const RAW_CATALOG = [
   {
     id: "coway-airmega-200m",
     imageUrl: "https://au.coway.com/cdn/shop/files/200m_3e1d8556-16a4-470d-b129-7b6b182edd67.png",
+    price: "$229",
     category: "home",
     badge: "🇰🇷",
     name: { en: "Coway Airmega 200M", ja: "コウェイ アイレーマ200M" },
@@ -987,6 +1039,7 @@ const RAW_CATALOG = [
       en: "Japanese brand ultrasonic-evaporative hybrid with nanoe X ion technology. JEMA-standard humidity labeling, quiet, auto humidity sensing. Weakness: weekly filter cleaning in hard-water areas, nanoe X efficacy debate, Japan-domestic availability.",
       ja: "ナノイーXイオン技術搭載の国内ブランド超音波気化ハイブリッド加湿器。JEMA規格湿度表示・静音・自動湿度センシング。弱点：硬水地域で週次フィルター清掃必要、ナノイーX効果論争、日本国内流通が主流。",
     },
+    price: "¥27,100",
     links: [
       { network: "moshimo", productId: "rakuten-panasonic-fe-kxu07", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2BFE-KXU07%2F", markets: ["JP"], approved: true },
     ],
@@ -1015,6 +1068,7 @@ const RAW_CATALOG = [
       en: "~9,000-12,000 yen (Rakuten import) smart ultrasonic, app+voice control, auto mode, 6L tank. Most affordable smart pick. Weakness: white dust from tap water, no UV-C, weekly tank cleaning required, sensor accuracy placement-dependent.",
       ja: "約9,000〜12,000円（楽天輸入）スマート超音波式、アプリ＋音声操作、オートモード、6Lタンク。最も手頃なスマート加湿器。弱点：水道水で白い粉発生、UV-Cなし、週次タンク清掃必要、センサー精度が設置場所依存。",
     },
+    price: "$69.99",
     links: [
       { network: "amazon-us", productId: "B09C24TYGQ", rawUrl: "https://www.amazon.com/dp/B09C24TYGQ", markets: ["US", "EU", "global"], approved: true },
       { network: "moshimo", productId: "rakuten-levoit-classic-300s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLevoit%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2B%E8%B6%85%E9%9F%B3%E6%B3%A2%E5%BC%8F%2F", markets: ["JP"], approved: true },
@@ -1030,6 +1084,7 @@ const RAW_CATALOG = [
       en: "~30,000 yen Swiss design evaporative drum humidifier. 45m² coverage, award-winning design (iF, Red Dot), no white dust, quiet for bedroom. Weakness: weekly drum cleaning, large tank hard to fill in narrow sinks, no smart connectivity.",
       ja: "約3万円のスイスデザイン気化式ドラム型加湿器。45m²対応、iF・Red Dot受賞デザイン、白い粉なし、寝室対応の静音性。弱点：週次ドラム清掃、狭い流し台での大型タンク補水が困難、スマート接続なし。",
     },
+    price: "$179.99",
     links: [
       { network: "amazon-us", productId: "B002WGLQS0", rawUrl: "https://www.amazon.com/dp/B002WGLQS0", markets: ["US", "EU", "global"], approved: true },
       { network: "moshimo", productId: "rakuten-stadler-form-oskar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStadler%2BForm%2B%E3%82%AA%E3%82%B9%E3%82%AB%E3%83%BC%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
@@ -1046,6 +1101,7 @@ const RAW_CATALOG = [
       en: "App control via VeSync, Alexa/Google voice, auto mode with built-in humidity sensor, 6L tank, whisper-quiet sleep mode. Best value smart humidifier. Weakness: ultrasonic white dust on hard tap water, no UV-C, weekly tank cleaning mandatory.",
       ja: "VeSyncアプリ・Alexa/Googleボイス対応、内蔵センサー付きオートモード、6Lタンク、静音スリープモード。コスパ最高のスマート加湿器。弱点：硬水で白い粉発生・UV-Cなし・週次タンク清掃必須。",
     },
+    price: "$69.99",
     links: [
       { network: "amazon-us", productId: "B08C9ZN5GR", rawUrl: "https://www.amazon.com/dp/B08C9ZN5GR", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-levoit-classic-300s-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLevoit%2BClassic%2B300S%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
@@ -1076,6 +1132,7 @@ const RAW_CATALOG = [
       en: "Evaporative cool mist, UV-C technology kills 99.9% of microorganisms in the water, no white dust, easy-to-clean design, dishwasher-safe components. Best no-dust pick. Weakness: filter replacement every 1-2 months, no smart features, US-focused.",
       ja: "気化式冷風・UV-C技術で水中微生物99.9%除菌・白い粉なし・お手入れ簡単・食洗機対応パーツ。白粉なし最有力。弱点：1〜2ヶ月ごとフィルター交換・スマート機能なし・米国向け製品。",
     },
+    price: "$89.95",
     links: [
       { network: "amazon-us", productId: "B001FWXKTA", rawUrl: "https://www.amazon.com/dp/B001FWXKTA", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-honeywell-hcm350-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHoneywell%2BHCM-350%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
@@ -1106,6 +1163,7 @@ const RAW_CATALOG = [
       en: "Compact droplet design, 1-gallon tank (3.8L), 500 sq ft coverage, 24-hour runtime, whisper-quiet, easy-fill top-loading tank. Best compact bedroom pick. Weakness: no app or smart features, white dust on hard water, filter optional but recommended.",
       ja: "コンパクトな水滴デザイン、1ガロンタンク（3.8L）、46m²対応、24時間連続運転、静音、上部給水。寝室向けコンパクト最有力。弱点：アプリ・スマート機能なし・硬水で白い粉発生・フィルターはオプション推奨。",
     },
+    price: "$44.99",
     links: [
       { network: "amazon-us", productId: "B0013C0NYE", rawUrl: "https://www.amazon.com/dp/B0013C0NYE", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-crane-droplet-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCrane%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2B%E8%B6%85%E9%9F%B3%E6%B3%A2%2F", markets: ["JP"], approved: true },
@@ -1278,6 +1336,7 @@ const RAW_CATALOG = [
       en: "~60,000 yen cordless straightener. Flex plates conform to hair shape for full contact, 30-min battery, universal 100-240V charger. Brand claims 30% less heat damage — from Dyson's own lab, not independently replicated. 30 min is a hard ceiling for long or thick hair.",
       ja: "約60,000円のコードレスアイロン。フレックスプレートが毛束の形状に密着、30分バッテリー、100〜240V対応充電器。「ダメージ30%削減」はDyson自社ラボデータ、独立検証なし。長い・多い髪では30分で終わらない場合あり。",
     },
+    price: "$499.99",
     links: [
       { network: "amazon-us", productId: "B083VQ5MJC", rawUrl: "https://www.amazon.com/dp/B083VQ5MJC", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-dyson-corrale-straightener", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDyson%2BCorrale%2F", markets: ["JP"], approved: true },
@@ -1293,6 +1352,7 @@ const RAW_CATALOG = [
       en: "~35,000 yen professional-standard straightener. Fixed 185°C predictive heating reads temperature 250x per second. Removes temperature decision-making entirely. No domestic Japan service center — warranty via importer.",
       ja: "約35,000円のプロフェッショナル標準機。固定185°C予測ヒーティングが1秒250回計測。温度設定の判断を完全に省ける。日本国内修理センターなし — 保証は輸入代理店経由。",
     },
+    price: "$249.00",
     links: [
       { network: "amazon-us", productId: "B082DNXFZZ", rawUrl: "https://www.amazon.com/dp/B082DNXFZZ", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-ghd-platinum-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGHD%2BPlatinum%2B%E3%83%97%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
@@ -1308,6 +1368,7 @@ const RAW_CATALOG = [
       en: "~25,000 yen Japan No.1 pick. Nanoe double-ion moisture delivery, 130-200°C range, domestic service network. 100V only — cannot be used abroad without a voltage converter.",
       ja: "約25,000円の国内人気No.1。ナノイーダブルイオン水分補給、130〜200°C可変、国内サービス網完備。100V専用 — 変圧器なしの海外使用不可。",
     },
+    price: "$129.99",
     links: [
       { network: "moshimo", productId: "rakuten-panasonic-nanocare-eh-hs0e", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPanasonic%2B%E3%83%8A%E3%83%8E%E3%82%B1%E3%82%A2%2BEH-HS0E%2F", markets: ["JP"], approved: true },
     ],
@@ -1322,6 +1383,7 @@ const RAW_CATALOG = [
       en: "~8,000 yen entry ceramic pick. 9 heat settings, 230°C max, 60-second heat-up. Ceramic coating wears thin after 12-18 months of daily use — plan to replace.",
       ja: "約8,000円のエントリーセラミック枠。9段階温度設定、最大230°C、60秒加熱。セラミックコーティングは毎日使用で12〜18ヶ月で摩耗 — 買い替え前提の選択。",
     },
+    price: "$38.81",
     links: [
       { network: "moshimo", productId: "rakuten-remington-s9500-pearl", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRemington%2BS9500%2BPearl%2F", markets: ["JP"], approved: true },
     ],
@@ -1336,6 +1398,7 @@ const RAW_CATALOG = [
       en: "~15,000 yen ceramic-titanium value pro pick. 235°C max, 60-second heat-up, Amazon JP top seller. Manual temperature only — no predictive tech. 235°C causes rapid damage on fine or color-treated hair without active user restraint.",
       ja: "約15,000円のセラミック+チタン中価格プロ向け。最大235°C、60秒加熱、Amazon JP人気上位。予測技術なし手動温度制御のみ。細い髪・カラーリング毛を235°Cで使うと急速にダメージ。",
     },
+    price: "$59.99",
     links: [
       { network: "moshimo", productId: "rakuten-babyliss-st330e", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBaByliss%2BST330E%2F", markets: ["JP"], approved: true },
     ],
@@ -1351,6 +1414,7 @@ const RAW_CATALOG = [
       en: "~66,000-80,000 yen Coanda-effect multi-styler. Air wraps hair around barrel at ~150°C without direct plate contact. Best on fine-to-medium straight hair. Does not suit thick or coarse hair — airflow too weak to penetrate dense sections efficiently. 2-4 week learning curve before results become consistent.",
       ja: "66,000〜80,000円のコアンダ効果マルチスタイラー。プレート直接接触なしで約150℃の気流が髪をバレルに巻き付ける。細〜中毛の直毛に最適。太い・剛毛には向かず気流が密な毛束を効率的に通らない。安定した結果を得るまで2〜4週間の習得期間が必要。",
     },
+    price: "$599.99",
     links: [
       { network: "amazon-us", productId: "B09DKYGF5G", rawUrl: "https://www.amazon.com/dp/B09DKYGF5G", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-dyson-airwrap", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDyson%2BAirwrap%2F", markets: ["JP"], approved: true },
@@ -1381,6 +1445,7 @@ const RAW_CATALOG = [
       en: "~4,000-6,000 yen round brush + dryer combo. Dry and volumize in one step, zero learning curve, best budget multi-tool. Cannot produce defined curls or waves like Airwrap — suited to blowout-volume styling only. Fastest results for straight hair wanting volume.",
       ja: "4,000〜6,000円のロールブラシ+ドライヤー一体型。乾かしながらボリュームアップ、学習ゼロ、最安コスパマルチツール。エアラップのような巻き・ウェーブは作れずブローアウトボリューム専用。直毛のボリュームアップに最速。",
     },
+    price: "$39.99",
     links: [
       { network: "amazon-us", productId: "B01LSUQSB0", rawUrl: "https://www.amazon.com/dp/B01LSUQSB0", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-revlon-one-step-volumizer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRevlon%2BOne-Step%2BVolumizer%2F", markets: ["JP"], approved: true },
@@ -1396,6 +1461,7 @@ const RAW_CATALOG = [
       en: "~35,000-45,000 yen wide-plate professional flat iron. 185-220°C predictive heating, wider plates cover more hair per pass. Best for thick, long, or resistant hair where Coanda tools are slow. Direct plate contact — heat protectant required every session. Parallel imports have no domestic Japan warranty.",
       ja: "約35,000〜45,000円の幅広プレート プロ用アイロン。185〜220℃予測加熱、幅広プレートで1回のパスで多くの髪をカバー。コアンダ系ツールが遅い太い・長い・剛毛に最適。プレート直接加熱のためヒートプロテクター毎回必須。並行輸入品は日本国内保証なし。",
     },
+    price: "$249.00",
     links: [
       { network: "moshimo", productId: "rakuten-ghd-max-styler", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGHD%2BMax%2B%E3%83%98%E3%82%A2%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
@@ -1410,6 +1476,7 @@ const RAW_CATALOG = [
       en: "~25,000-30,000 yen nanoe hair dryer for frizz control and moisture retention. Nanoe X technology has published Panasonic research support. 60°C scalp mode prevents overheating. Full domestic Japan warranty and service network. This is a hair dryer — wrong choice if curling or waving is the primary goal.",
       ja: "25,000〜30,000円のナノイーヘアドライヤー、広がり・くせ毛対策と水分保持。ナノイーX技術はパナソニックの研究論文裏付けあり。60℃頭皮モードで過熱防止。国内保証・修理サービス完備。ヘアドライヤーであり、カール・ウェーブ作成が主目的なら不適。",
     },
+    price: "¥22,000",
     links: [
       { network: "moshimo", productId: "rakuten-panasonic-eh-na0j", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPanasonic%2BEH-NA0J%2F", markets: ["JP"], approved: true },
     ],
@@ -1684,6 +1751,7 @@ const RAW_CATALOG = [
   },
   {
     id: "philips-essential-xl-hd9270",
+    imageUrl: "https://m.media-amazon.com/images/P/B08SHR1QFS.01._SCLZZZZZZZ_.jpg",
     category: "home",
     price: "¥29,800",
     badge: "🇳🇱",
@@ -1811,6 +1879,7 @@ const RAW_CATALOG = [
   {
     id: "theragun-pro-gen6",
     imageUrl: "https://www.therabody.com/cdn/shop/files/Theragun-Prime-G6-PDP-Hero-2.webp?v=1758755192",
+    price: "$599",
     category: "fitness",
     badge: "💪",
     name: { en: "Theragun PRO Gen 6", ja: "Theragun PRO Gen 6" },
@@ -1825,7 +1894,10 @@ const RAW_CATALOG = [
   },
   {
     id: "hyperice-hypervolt-2-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/61jirA2o7nL._AC_SL1500_.jpg",
     category: "fitness",
+    priceMin: "$299",
+    priceMax: "$349",
     badge: "🔵",
     name: { en: "Hyperice Hypervolt 2 Pro", ja: "Hyperice Hypervolt 2 Pro" },
     description: {
@@ -1839,7 +1911,9 @@ const RAW_CATALOG = [
   },
   {
     id: "ekrin-b37s-massage-gun",
+    imageUrl: "https://m.media-amazon.com/images/I/51KZak83wPL._AC_SL1080_.jpg",
     category: "fitness",
+    price: "$230",
     badge: "📐",
     name: { en: "Ekrin B37S", ja: "Ekrin B37S" },
     description: {
@@ -1853,7 +1927,9 @@ const RAW_CATALOG = [
   },
   {
     id: "renpho-r3-mini-massage-gun",
+    imageUrl: "https://m.media-amazon.com/images/I/719+iFaLIrL._AC_SL1500_.jpg",
     category: "fitness",
+    price: "$140",
     badge: "✈️",
     name: { en: "Renpho R3 Mini Massage Gun", ja: "Renpho R3 ミニマッサージガン" },
     description: {
@@ -1867,7 +1943,9 @@ const RAW_CATALOG = [
   },
   {
     id: "achedaway-pro-massage-gun",
+    imageUrl: "https://m.media-amazon.com/images/I/61STYsFxbYL._AC_SL1000_.jpg",
     category: "fitness",
+    price: "$299",
     badge: "💥",
     name: { en: "Achedaway Pro", ja: "Achedaway Pro" },
     description: {
@@ -2002,6 +2080,7 @@ const RAW_CATALOG = [
   },
   {
     id: "at-aroma-pebble",
+    imageUrl: "https://m.media-amazon.com/images/P/B07QTBZ3SC.01._SCLZZZZZZZ_.jpg",
     category: "beauty",
     price: "¥14,300",
     badge: "🪴",
@@ -2290,6 +2369,7 @@ const RAW_CATALOG = [
   },
   {
     id: "lamicall-tablet-stand",
+    imageUrl: "https://m.media-amazon.com/images/I/81klrGHtfkL._AC_SL1500_.jpg",
     category: "tech",
     priceMin: "¥1,680",
     priceMax: "¥2,480",
@@ -2306,6 +2386,7 @@ const RAW_CATALOG = [
   },
   {
     id: "uperfect-tablet-floor-stand",
+    imageUrl: "https://m.media-amazon.com/images/I/61QCE7+O+TL._AC_SL1500_.jpg",
     category: "tech",
     priceMin: "¥5,980",
     priceMax: "¥8,980",
@@ -2347,6 +2428,7 @@ const RAW_CATALOG = [
       en: "Flagship dual-motor electric sit-stand desk with 125kg weight capacity, anti-collision obstacle detection, 4-position memory presets, and C-frame design for knee clearance. Dual motors keep lift quiet and consistent under heavy monitor loads. Weakness: C-frame wobbles more than four-leg frames at full standing height with heavy monitors; ~50kg weight requires two people for assembly (60-90 min).",
       ja: "デュアルモーター電動昇降デスクのフラッグシップ。125kg耐荷重、衝突防止センサー標準、4ポジションメモリープリセット、膝元空間を確保するC型フレーム。弱点：重いモニター使用時の最大立位高でのC型横揺れ；約50kgの重量により2人での組み立て（60〜90分）が必要。",
     },
+    price: "$479.00",
     links: [
       { network: "amazon-us", productId: "B09C49GZXL", rawUrl: "https://www.amazon.com/dp/B09C49GZXL", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-flexispot-e7-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFlexispot%2BE7%2BPro%2B%E6%98%87%E9%99%8D%E3%83%87%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
@@ -2355,6 +2437,8 @@ const RAW_CATALOG = [
   {
     id: "ikea-bekant-sit-stand",
     imageUrl: "https://www.ikea.com/us/en/images/products/bekant-desk-sit-stand-white__0974146_PH172729_S5.JPG",
+    priceMin: "¥49,990",
+    priceMax: "¥69,990",
     category: "tech",
     badge: "🪑",
     name: { en: "IKEA Bekant Sit/Stand Desk", ja: "IKEA ベカント 昇降デスク" },
@@ -2369,6 +2453,8 @@ const RAW_CATALOG = [
   {
     id: "autonomous-smartdesk-pro",
     imageUrl: "https://cdn.autonomous.ai/production/ecm/260421/Smd5prow.webp",
+    priceMin: "$499",
+    priceMax: "$599",
     category: "tech",
     badge: "🤖",
     name: { en: "Autonomous SmartDesk Pro", ja: "Autonomous SmartDesk Pro スタンディングデスク" },
@@ -2384,6 +2470,8 @@ const RAW_CATALOG = [
   {
     id: "okamura-swift-desk",
     imageUrl: "https://lifestylestore.okamura.co.jp/cdn/shop/products/80G55P_Z25_f.jpg?v=1685708079&width=1946",
+    priceMin: "¥100,000",
+    priceMax: "¥200,000",
     category: "tech",
     badge: "🇯🇵",
     name: { en: "Okamura Swift Standing Desk", ja: "オカムラ スウィフト 昇降デスク" },
@@ -2405,6 +2493,7 @@ const RAW_CATALOG = [
       en: "Bamboo desktop top paired with an electric sit-stand frame, offering natural material aesthetics, anti-bacterial surface (bamboo-kun natural antimicrobial compound), and home-office warmth that melamine and MDF-core tops cannot replicate. Weakness: bamboo warps in sustained high-humidity environments — Japan's summer months (June-September, 70-90% RH) can cause cupping and edge-lift within 1-2 seasons in apartments without year-round climate control; heavier than MDF-core tops, reducing usable motor payload; ¥10,000-20,000 premium over MDF-core.",
       ja: "電動昇降フレームに合わせた竹天板。天然素材の美観・抗菌表面（天然抗菌成分バンブーくん）・メラミンやMDFコアが実現できない温かいホームオフィスの雰囲気。弱点：持続高湿度環境での反り — 年中空調なし日本の夏（6〜9月、湿度70〜90%）では1〜2シーズンで湾曲・端部浮きが生じる可能性；MDFコアより重くモーター耐荷重を減少；MDFコアへの1万〜2万円プレミアム。",
     },
+    price: "$449.99",
     links: [
       { network: "moshimo", productId: "rakuten-bamboo-standing-desk", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%AB%B9%2B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%87%E3%82%B9%E3%82%AF%2B%E6%98%87%E9%99%8D%2F", markets: ["JP"], approved: true },
     ],
@@ -2420,6 +2509,7 @@ const RAW_CATALOG = [
       en: "Apple's official MagSafe Charger with USB-C connector and 2m cable. 15W on iPhone 12 and later with a 20W+ USB-C PD adapter, magnetic alignment ring for reliable coil coupling, MFi-certified. Weakness: cable only, no adapter included — 15W requires a 20W+ USB-C PD adapter purchased separately (~¥2,780); charges one device only; 7.5W Qi for non-MagSafe devices; ~¥4,980 is expensive per watt versus third-party Qi2 alternatives.",
       ja: "Apple公式MagSafe充電器、USB-Cコネクター・2mケーブル付き。20W以上のUSB-C PDアダプターでiPhone 12以降に15W供給、確実なコイルカップリングのための磁気アライメントリング、MFi認証済み。弱点：ケーブルのみ同梱でアダプターなし — 15Wには別途約2,780円の20W以上のUSB-C PDアダプターが必要；1台のみ充電；MagSafe非対応端末は7.5W Qi；約4,980円はサードパーティのQi2代替品と比べ1Wあたりのコストが高い。",
     },
+    price: "$39.00",
     links: [
       { network: "amazon-us", productId: "B0CH9XNKGG", rawUrl: "https://www.amazon.com/dp/B0CH9XNKGG", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-apple-magsafe-charger-usb-c", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2BMagSafe%2B%E5%85%85%E9%9B%BB%E5%99%A8%2BUSB-C%2F", markets: ["JP"], approved: true },
@@ -2435,6 +2525,7 @@ const RAW_CATALOG = [
       en: "MagSafe-certified 3-in-1 charging station with foldable design. Simultaneous 15W MagSafe iPhone, MFi Apple Watch fast charge, and 5W AirPods Qi pad. Weakness: 30W USB-C PD adapter required for full simultaneous charging not included (~¥2,000–4,000 extra); non-Apple devices charge at basic Qi rates; folded size larger and heavier than single-device travel options; Apple Watch arm is fixed-angle.",
       ja: "折りたたみ式のMagSafe認証済み3in1充電ステーション。iPhone 15W MagSafe・MFi認証Apple Watchクイック充電・AirPods 5W Qiパッドを同時充電。弱点：3台フル同時充電に必要な30W USB-C PDアダプター不含（追加2,000〜4,000円）；非Appleデバイスは基本Qi速度；折りたたみ後も単体旅行用より大きく重い；Apple Watchアームが固定角。",
     },
+    price: "$89.99",
     links: [
       { network: "amazon-us", productId: "B09YLD86T5", rawUrl: "https://www.amazon.com/dp/B09YLD86T5", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-anker-maggo-3in1-station", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BMagGo%2B3in1%2B%E5%85%85%E9%9B%BB%E5%99%A8%2F", markets: ["JP"], approved: true },
@@ -2458,6 +2549,7 @@ const RAW_CATALOG = [
   {
     id: "anker-313-wireless-charger",
     imageUrl: "https://cdn.shopify.com/s/files/1/0493/9834/9974/products/A2503016-Anker_313_Wireless_Charger_Pad_1600x.png?v=1672495119",
+    price: "$15.99",
     category: "tech",
     badge: "📱",
     name: { en: "Anker 313 Wireless Charger (Qi, 10W)", ja: "Anker 313 ワイヤレス充電器（Qi、10W）" },
@@ -2473,6 +2565,8 @@ const RAW_CATALOG = [
   {
     id: "esr-halolock-2in1-travel",
     imageUrl: "https://www.esrtech.com/cdn/shop/files/2-in-1.jpg?v=1742202312&width=1946",
+    priceMin: "$29.99",
+    priceMax: "$49.99",
     category: "tech",
     badge: "✈️",
     name: { en: "ESR HaloLock 2-in-1 Travel Wireless Charger", ja: "ESR HaloLock 2in1 旅行用ワイヤレス充電器" },
@@ -2504,6 +2598,7 @@ const RAW_CATALOG = [
   {
     id: "elgato-key-light",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001327167.jpg",
+    price: "¥23,180",
     category: "tech",
     badge: "🎬",
     name: { en: "Elgato Key Light", ja: "Elgato Key Light クリエイター向けLEDパネル" },
@@ -2526,6 +2621,7 @@ const RAW_CATALOG = [
       en: "Articulated desk lamp with task, ambient, and indirect light modes. Personalized light schedule, 150,000-hour LED life claim, CRI 98 claimed, 2,700–6,500K, Dyson Link app control. Explicit weakness: ¥90,000+ is ~3x the next most expensive product; heat pipe cooling requires designed angle ranges; heavy base makes repositioning effortful.",
       ja: "タスク・アンビエント・間接照明の3モード切り替え可動デスクランプ。パーソナライズ光スケジュール・15万時間LED寿命主張・CRI 98主張・2,700〜6,500K・Dyson Linkアプリ操作。明確な弱点：9万円超は次点製品の約3倍；ヒートパイプ冷却は設計角度内での使用前提；重いベースは位置変更が面倒。",
     },
+    price: "$849.99",
     links: [
       { network: "amazon-us", productId: "B08XXW5T7K", rawUrl: "https://www.amazon.com/dp/B08XXW5T7K", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-dyson-solarcycle-morph", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%82%A4%E3%82%BD%E3%83%B3%2BSolarcycle%2BMorph%2B%E3%83%87%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97%2F", markets: ["JP"], approved: true },
@@ -2534,6 +2630,7 @@ const RAW_CATALOG = [
   {
     id: "panasonic-led-desk-lamp-wireless",
     imageUrl: "https://www1.yohohongkong.com/images/201707/goods_img/13847_P_1499394258070.png",
+    price: "¥18,810",
     category: "tech",
     badge: "🇯🇵",
     name: { en: "Panasonic LED Desk Lamp (Wireless Charging)", ja: "Panasonic LEDデスクスタンド ワイヤレス充電" },
@@ -2555,6 +2652,7 @@ const RAW_CATALOG = [
       en: "Budget BenQ ScreenBar alternative under ¥5,000. USB-C powered, touch control strip, asymmetric optic for desk illumination without screen glare, clip mount for monitor bezels. Explicit weakness: lighter build than BenQ, no bias back-glow, no ambient sensor, CRI not prominently specified (likely below 80 at cool temperatures).",
       ja: "5,000円以下のBenQ ScreenBar代替。USB-C給電・バー上タッチコントロール・グレアなし非対称光学設計・モニターベゼルクリップ装着。明確な弱点：BenQよりビルドが軽くクリップの固定力が低い；バイアスライティング（バックグロー）なし；照度センサーなし；CRIは目立つ形で非公表でクールな色温度でCRI 80以下の可能性が高い。",
     },
+    price: "$31.99",
     links: [
       { network: "moshimo", productId: "rakuten-baseus-monitor-light-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBaseus%2B%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%2B%E3%83%87%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
@@ -2570,6 +2668,7 @@ const RAW_CATALOG = [
       en: "Gasket-mounted 75% layout, Bluetooth 5.1 and 2.4GHz wireless, QMK/VIA programmable firmware, full aluminum body (~2kg), south-facing RGB, hot-swap MX-compatible sockets, ~¥30,000. Explicit weakness: 2kg weight unsuitable for travel; volume knob absent on base model (knob upgrade variant only); QMK firmware has a genuine learning curve; ¥30,000 expensive for a 75% without included switches in barebones configurations.",
       ja: "ガスケットマウント75%レイアウト、Bluetooth 5.1 + 2.4GHzワイヤレス、QMK/VIA対応ファームウェア、フルアルミボディ（約2kg）、サウスフェーシングRGB、ホットスワップMX互換ソケット、約3万円。明確な弱点：約2kgで旅行・持ち運び不適、ボリュームノブはベースモデル非搭載（ノブ変種のみ）、QMKは本物の学習曲線あり、ベアボーン構成ではスイッチ別途購入が必要で3万円は高価。",
     },
+    price: "$149.99",
     links: [
       { network: "amazon-us", productId: "B0BLQVF4YM", rawUrl: "https://www.amazon.com/dp/B0BLQVF4YM", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-keychron-q1-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKeychron%2BQ1%2BPro%2F", markets: ["JP"], approved: true },
@@ -2585,6 +2684,7 @@ const RAW_CATALOG = [
       en: "Electrostatic capacitive Topre switches with silenced domes, ultra-quiet 60% layout, Bluetooth + USB-C, ¥35,000+. Explicit weakness: no RGB, no hot-swap, no QMK, Bluetooth-only wireless (no 2.4GHz dongle), Topre non-MX keycap stems limit aftermarket options, 60% layout requires adjustment period.",
       ja: "静電容量無接点Topreサイレントドーム、超静音60%レイアウト、Bluetooth + USB-C、3.5万円以上。明確な弱点：RGBなし・ホットスワップなし・QMKなし・Bluetoothのみ（2.4GHzドングルなし）・Topre専用軸でキーキャップ選択肢限定・60%レイアウトは慣れが必要。",
     },
+    price: "¥36,850",
     links: [
       { network: "moshimo", productId: "rakuten-hhkb-professional-hybrid-type-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHHKB%2BProfessional%2BHybrid%2BType-S%2F", markets: ["JP"], approved: true },
     ],
@@ -2599,6 +2699,7 @@ const RAW_CATALOG = [
       en: "Scissor-switch (not mechanical), low-profile, Bluetooth and Logi Bolt 2.4GHz wireless, per-key backlight, Flow multi-device switching (up to 3 devices), ~¥17,000–¥20,000. Explicit weakness: NOT a mechanical keyboard — scissor mechanism categorically different from MX or Topre; limited programmability beyond Logi Options+ macros; 1.8mm key travel divides preference.",
       ja: "シザー方式（メカニカルではない）、薄型、Bluetooth + Logi Bolt 2.4GHz、キー個別バックライト、Flowマルチデバイス切り替え（最大3台）、約1.7〜2万円。明確な弱点：メカニカルキーボードではない — シザー機構はMXやTopreとは根本的に異なる、Logi Options+以上のカスタマイズ不可、1.8mmストロークは好み次第。",
     },
+    price: "¥19,191",
     links: [
       { network: "moshimo", productId: "rakuten-logicool-mx-keys-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLogicool%2BMX%2BKeys%2BS%2F", markets: ["JP"], approved: true },
     ],
@@ -2606,6 +2707,7 @@ const RAW_CATALOG = [
   {
     id: "nuphy-air75-v2",
     imageUrl: "https://nuphy.com/cdn/shop/files/Main043000x_230811_1800x1800.jpg?v=1776419086",
+    price: "¥27,280",
     category: "tech",
     badge: "🪶",
     name: { en: "Nuphy Air75 V2", ja: "Nuphy Air75 V2 低プロファイルキーボード" },
@@ -2627,6 +2729,7 @@ const RAW_CATALOG = [
       en: "Electrostatic capacitive Topre, full-size (104-key) and TKL (87-key), actuation point changer (1.5–3mm), made in Japan by Topre Corp, PBT keycaps, JIS and US ANSI layouts, ¥40,000+. Explicit weakness: no wireless on most variants, no RGB comparable to competition, heavy full-size footprint, Topre keycap ecosystem limits aftermarket, APC software requires setup.",
       ja: "静電容量無接点Topre、フルサイズ（104キー）とTKL（87キー）展開、アクチュエーションポイント変更機能（1.5〜3mm）、東プレ社の日本製、PBTキーキャップ、JIS/USレイアウト、4万円以上。明確な弱点：ほとんどの変種でワイヤレスなし、競合比較でRGB見劣り、フルサイズは重くデスク面積大、Topreキーキャップエコシステム制限あり、APCソフトウェア設定必要。",
     },
+    price: "¥27,390",
     links: [
       { network: "moshimo", productId: "rakuten-realforce-r3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRealforce%2BR3%2F", markets: ["JP"], approved: true },
     ],
@@ -2761,6 +2864,7 @@ const RAW_CATALOG = [
   },
   {
     id: "elecom-ucam-cz30fbk",
+    imageUrl: "https://m.media-amazon.com/images/P/B078J9MR75.01._SCLZZZZZZZ_.jpg",
     category: "tech",
     price: "¥5,000",
     badge: "🇯🇵",
@@ -2888,6 +2992,7 @@ const RAW_CATALOG = [
   },
   {
     id: "nishikawa-air-si",
+    imageUrl: "https://m.media-amazon.com/images/I/81VQorhCWLL._AC_SL1500_.jpg",
     category: "home",
     price: "¥66,000",
     badge: "🟦",
@@ -2949,6 +3054,7 @@ const RAW_CATALOG = [
   // ───────── Home / Coffee Makers (best-coffee-maker-2026) ─────────
   {
     id: "breville-barista-pro-bes878",
+    imageUrl: "https://m.media-amazon.com/images/I/81krndMpmFL._AC_SL1500_.jpg",
     category: "home",
     price: "¥119,800",
     badge: "☕",
@@ -2963,6 +3069,7 @@ const RAW_CATALOG = [
   },
   {
     id: "delonghi-magnifica-start-ecam22020",
+    imageUrl: "https://m.media-amazon.com/images/I/71wIs1L9PIL._AC_SL1500_.jpg",
     category: "home",
     price: "¥98,000",
     badge: "🤖",
@@ -3007,6 +3114,7 @@ const RAW_CATALOG = [
   },
   {
     id: "tiger-acc-a060",
+    imageUrl: "https://m.media-amazon.com/images/P/B00EC5B59O.01._SCLZZZZZZZ_.jpg",
     category: "home",
     price: "¥32,800",
     badge: "🐯",
@@ -3108,6 +3216,7 @@ const RAW_CATALOG = [
       en: "Classic stove-top gooseneck pour-over kettle. 1.2 L stainless steel, IH and gas compatible, reference kettle for pour-over coffee and Japanese tea ceremony. No electric keep-warm; handle heats on gas burners.",
       ja: "クラシックなコンロ用グースネックポアオーバーケトル。1.2Lステンレス・IH/ガス対応、日本のポアオーバーコミュニティの参照ケトル。電気保温なし、ガスコンロでハンドルが熱くなる。",
     },
+    price: "$65.00",
     links: [
       { network: "amazon-us", productId: "B000IGOXLS", rawUrl: "https://www.amazon.com/dp/B000IGOXLS", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-hario-v60-buono-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%AA%E3%82%AA%2BV60%2B%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%82%B1%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -3123,6 +3232,7 @@ const RAW_CATALOG = [
       en: "Retro-styled 1.7 L rapid-boil electric kettle. 360-degree cordless base, drip-free spout, automatic shutoff. Heavy when full (~2.5 kg); plastic interior builds lime-scale faster in hard-water areas; wide spout unsuitable for pour-over.",
       ja: "レトロスタイルの1.7L急速沸騰電気ケトル。360度コードレスベース・液だれなしスパウト・自動シャットオフ。満タン時に重い（約2.5kg）、プラスチック内部は硬水で石灰スケールが速い、広口はポアオーバーに不向き。",
     },
+    price: "$89.99",
     links: [
       { network: "amazon-us", productId: "B08DS4C69H", rawUrl: "https://www.amazon.com/dp/B08DS4C69H", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-delonghi-icona-vintage-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%2B%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -3138,6 +3248,7 @@ const RAW_CATALOG = [
       en: "2.2 L all-day keep-warm dispenser pot. Four temperature settings (60/70/80/98°C), pump dispense, auto re-boil, child-safety lid lock, PSE certified. Stationary and bulkier than any kettle-style pick; descaling required every 1–2 months in hard-water areas.",
       ja: "2.2L終日保温ディスペンサーポット。4段階温度設定（60/70/80/98°C）・ポンプディスペンス・自動再沸騰・子ども安全ふたロック・PSE認証。据え置き型でどのケトルより嵩張る、硬水地域では1〜2ヶ月ごとの除石灰が必要。",
     },
+    price: "¥6,578",
     links: [
       { network: "moshimo", productId: "rakuten-zojirushi-keep-warm-pot", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%B1%A1%E5%8D%B0%2B%E9%9B%BB%E6%B0%97%E3%83%9D%E3%83%83%E3%83%88%2B%E4%BF%9D%E6%B8%A9%2F", markets: ["JP"], approved: true },
     ],
@@ -3176,6 +3287,7 @@ const RAW_CATALOG = [
   },
   {
     id: "vitantonio-vbl-100",
+    imageUrl: "https://m.media-amazon.com/images/P/B0149TVR0E.01._SCLZZZZZZZ_.jpg",
     category: "home",
     price: "¥7,500",
     badge: "🍓",
@@ -3205,6 +3317,7 @@ const RAW_CATALOG = [
   },
   {
     id: "oxo-on-compact-blender",
+    imageUrl: "https://m.media-amazon.com/images/P/B00YEYL8T0.01._SCLZZZZZZZ_.jpg",
     category: "home",
     price: "¥39,800",
     badge: "🇺🇸",
@@ -3251,6 +3364,7 @@ const RAW_CATALOG = [
   },
   {
     id: "eufy-spaceview-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/6146Ezy0QFL._SL1500_.jpg",
     category: "home",
     price: "¥17,800",
     badge: "📡",
@@ -3316,6 +3430,7 @@ const RAW_CATALOG = [
   {
     id: "furbo-360-dog-camera",
     imageUrl: "https://shopus.furbo.com/cdn/shop/products/Furbo360img_1024x1024.png?v=1654580539",
+    price: "¥22,980",
     category: "home",
     badge: "🐶",
     name: { en: "Furbo 360° Dog Camera", ja: "Furbo 360° ドッグカメラ" },
@@ -3330,7 +3445,9 @@ const RAW_CATALOG = [
   },
   {
     id: "petcube-cam",
+    imageUrl: "https://m.media-amazon.com/images/I/71dFPMVRBfL._AC_SL1500_.jpg",
     category: "home",
+    price: "$29.99",
     badge: "🐾",
     name: { en: "Petcube Cam", ja: "Petcube Cam" },
     description: {
@@ -3352,6 +3469,7 @@ const RAW_CATALOG = [
       en: "Roughly 4,800 yen repurposed-security-cam budget pick with 1080p video, color night vision, two-way audio, weather-resistant for outdoor use, microSD local storage, the cheapest competent indoor camera that consistently appears on budget pet-camera lists. Not pet-specific — no bark detection, no treat dispense, no pet-aimed audio profile, the AI is trained on person-and-package classification with pet detection as a secondary feature; recent privacy and CSAM-moderation controversies in 2022-2023 plus a 2024 account-mixup incident damaged the brand reputation in the pet-camera community and any buyer should read the public reporting before committing; cloud event history requires Wyze Cam Plus at roughly 250 yen per month per camera which most budget-tier buyers skip and accept the 12-second cooldown between cloud events.",
       ja: "約4,800円の流用セキュリティ カメラ予算枠、1080pビデオ・カラー暗視・双方向オーディオ・屋外使用向け耐候性・microSDローカル ストレージ、予算ペットカメラ リストに一貫して登場する最も安価な有能な屋内カメラ。ペット特化ではない — 吠え声検知なし・おやつディスペンサーなし・ペット狙いオーディオ プロファイルなし、AIはペット検出を二次機能として人物と荷物分類で訓練; 2022-2023年の最近のプライバシーとCSAMモデレーション問題に加えて2024年アカウント混在事案がペットカメラ コミュニティでブランド評判を損ない買い手はコミットする前に公的報道を読むべき; クラウド イベント履歴はカメラごと月約250円のWyze Cam Plusを必要としほとんどの予算枠買い手はスキップしクラウド イベント間の12秒クールダウンを受け入れる。",
     },
+    price: "$35.98",
     links: [
       { network: "amazon-us", productId: "B08R59YH7W", rawUrl: "https://www.amazon.com/dp/B08R59YH7W", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-wyze-cam-v3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWyze%2BCam%2Bv3%2F", markets: ["JP"], approved: true },
@@ -3360,6 +3478,7 @@ const RAW_CATALOG = [
   {
     id: "pawbo-pet-camera",
     category: "home",
+    price: "$53.51",
     badge: "🎯",
     name: { en: "Pawbo Pet Camera", ja: "Pawbo ペットカメラ" },
     description: {
@@ -3381,6 +3500,7 @@ const RAW_CATALOG = [
       en: "Roughly 9,800 yen no-subscription local-storage indoor pick with 2K video, 360-degree pan and 96-degree tilt to find the pet wherever it is napping, person-and-pet motion detection, two-way audio, microSD local storage with no subscription required, Apple HomeKit Secure Video integration, the strongest local-storage indoor pick in the sub-15,000-yen band. No pet-specific AI — motion detection classifies person versus pet but does not provide bark detection, dog activity scoring, or any of the pet-trained AI features that justify the Furbo premium; no treat dispense or laser-pointer hardware so the interactive features that some pet owners want are absent; built-in speaker is thin and the audio quality on two-way conversations is meaningfully worse than the Furbo or Petcube speakers; designed as general-purpose indoor security and not as a pet camera so the marketing copy and the customer service assume a homeowner not a pet owner.",
       ja: "約9,800円のサブスク不要のローカル ストレージ屋内枠、2Kビデオ・ペットがどこで昼寝していても見つける360度パンと96度チルト・人物とペットのモーション検知・双方向オーディオ・サブスク不要のmicroSDローカル ストレージ・Apple HomeKit Secure Video統合、15,000円未満帯で最強のローカル ストレージ屋内枠。ペット特化AIなし — モーション検知は人物対ペットを分類するが吠え声検知・犬活動スコアリング・Furboプレミアムを正当化するペット訓練AI機能のいずれも提供しない; おやつディスペンサーまたはレーザー ポインター ハードウェアなしなので一部のペット オーナーが欲しいインタラクティブ機能は不在; 内蔵スピーカーは薄く双方向会話のオーディオ品質はFurboまたはPetcubeスピーカーより意味的に悪い; 汎用屋内セキュリティとして設計されペットカメラとしてではないためマーケティング コピーとカスタマー サービスはペット オーナーではなく住宅所有者を仮定。",
     },
+    price: "$54.99",
     links: [
       { network: "moshimo", productId: "rakuten-eufy-indoor-cam-2k-pan-tilt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEufy%2BIndoor%2BCam%2B2K%2F", markets: ["JP"], approved: true },
     ],
@@ -3448,6 +3568,7 @@ const RAW_CATALOG = [
   },
   {
     id: "zojirushi-kongari-et-wma22",
+    imageUrl: "https://m.media-amazon.com/images/P/B074V3TXR1.01._SCLZZZZZZZ_.jpg",
     category: "home",
     price: "¥9,900",
     badge: "💴",
@@ -3541,6 +3662,7 @@ const RAW_CATALOG = [
   // ───────── Beauty / Yoga Mats (best-yoga-mat-2026) ─────────
   {
     id: "manduka-pro-6mm",
+    imageUrl: "https://m.media-amazon.com/images/I/91wBluoLmVL._AC_SL1500_.jpg",
     category: "beauty",
     price: "¥17,600",
     badge: "🧘",
@@ -3569,6 +3691,7 @@ const RAW_CATALOG = [
   },
   {
     id: "liforme-original-4-2mm",
+    imageUrl: "https://m.media-amazon.com/images/I/41bi96KLRpL._AC_SL1000_.jpg",
     category: "beauty",
     price: "¥22,800",
     badge: "📐",
@@ -3690,6 +3813,7 @@ const RAW_CATALOG = [
   // ───────── Fitness / Gym Bags (best-gym-bag-2026) ─────────
   {
     id: "nike-brasilia-9-5",
+    imageUrl: "https://m.media-amazon.com/images/I/81qRlLlnqDL._AC_SL1500_.jpg",
     category: "fitness",
     priceMin: "¥6,000",
     priceMax: "¥9,000",
@@ -3705,6 +3829,7 @@ const RAW_CATALOG = [
   },
   {
     id: "under-armour-undeniable-5",
+    imageUrl: "https://m.media-amazon.com/images/I/71o0IHpelBL._AC_SL1500_.jpg",
     category: "fitness",
     priceMin: "¥7,000",
     priceMax: "¥12,000",
@@ -3720,6 +3845,7 @@ const RAW_CATALOG = [
   },
   {
     id: "adidas-defender-4",
+    imageUrl: "https://m.media-amazon.com/images/I/71t-TFiFsjL._AC_SL1500_.jpg",
     category: "fitness",
     priceMin: "¥6,000",
     priceMax: "¥8,000",
@@ -3750,6 +3876,7 @@ const RAW_CATALOG = [
   },
   {
     id: "the-north-face-base-camp",
+    imageUrl: "https://m.media-amazon.com/images/I/71DGFB5MZGL._AC_SL1500_.jpg",
     category: "fitness",
     priceMin: "¥16,000",
     priceMax: "¥18,000",
@@ -3826,6 +3953,7 @@ const RAW_CATALOG = [
   },
   {
     id: "adidas-defender-4-duffel",
+    imageUrl: "https://m.media-amazon.com/images/I/91YU+VARgMS._AC_SL1500_.jpg",
     category: "fitness",
     priceMin: "¥5,000",
     priceMax: "¥7,000",
@@ -3973,6 +4101,7 @@ const RAW_CATALOG = [
       en: "~150,000 yen LiveBack flexible spine mechanism flagship. Back changes shape as you move, natural glide seat pan, upper/lower back adjustment, 12-year warranty. Best for users who shift posture constantly. Explicit weakness: LiveBack advantage unused by static sitters; Japan availability primarily corporate/premium retail; mechanism complexity confuses some users.",
       ja: "約¥150,000のライブバック可動脊椎機構フラッグシップ。動きに合わせて背もたれが変形、ナチュラルグライド座面、上下背もたれ調整、12年保証。姿勢を常に変える方に最適。弱点：硬直着座ではライブバックの優位性を活かせない；日本では主に法人・プレミアム小売での入手；機構が複雑でわかりにくいという声もある。",
     },
+    price: "$1,376.00",
     links: [
       { network: "amazon-us", productId: "B01MS5PGWA", rawUrl: "https://www.amazon.com/dp/B01MS5PGWA", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-steelcase-leap-v2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%82%B1%E3%83%BC%E3%82%B9%2B%E3%83%AA%E3%83%BC%E3%83%97V2%2F", markets: ["JP"], approved: true },
@@ -3995,6 +4124,7 @@ const RAW_CATALOG = [
   {
     id: "flexispot-ej2-ergonomic",
     imageUrl: "https://pricedepot.com/cdn/shop/products/81A5C0C1-5248-4B8C-8F8B-B0D09DF826A2.jpg?v=1689918259",
+    price: "¥35,800",
     category: "home",
     badge: "💴",
     name: { en: "Flexispot OC3 Ergonomic Chair", ja: "フレキシスポット OC3 エルゴノミクスチェア" },
@@ -4016,6 +4146,7 @@ const RAW_CATALOG = [
       en: "~25,000 yen IKEA entry-level with fixed built-in lumbar support, height adjustment, 10-year IKEA guarantee. Available at IKEA Japan stores. Explicit weakness: fixed lumbar either fits your spine or it does not — no adjustment path; foam compression in long-term heavy use; no armrest width/pivot adjustment; not appropriate for 7+ hour daily use or existing back problems.",
       ja: "約¥25,000のIKEA入門モデル。固定内蔵ランバーサポート・高さ調整・IKEA品質保証10年。IKEA Japan店舗で入手可能。弱点：固定ランバーは体型に合うか合わないかで調整の余地なし；長期重使用でのウレタンへたり；アームレストの幅・ピボット調整なし；1日7時間以上の着座や既存腰背部問題がある方には不適。",
     },
+    price: "$299.99",
     links: [
       { network: "moshimo", productId: "rakuten-ikea-markus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIKEA%2B%E3%83%9E%E3%83%AB%E3%82%AF%E3%82%B9%2B%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%81%E3%82%A7%E3%82%A2%2F", markets: ["JP"], approved: true },
     ],
@@ -4031,6 +4162,7 @@ const RAW_CATALOG = [
       en: "~30,000 yen 5-sensor air quality monitor (CO2 NDIR, VOC Sensirion SGP40, laser PM2.5, temperature, humidity). Awair Score composite dashboard, HomeKit/Alexa/Google Home, API access. Weakness: Awair Score hides which sensor is degraded; VOC is relative index not absolute TVOC; HomeKit is cloud-dependent and breaks on router reboots.",
       ja: "約3万円の5センサー空気質モニター（CO2 NDIR・VOC Sensirion SGP40・レーザーPM2.5・温度・湿度）。Awairスコアコンポジットダッシュボード、HomeKit/Alexa/Google Home、API連携。弱点：Awairスコアはどのセンサーが悪化しているか隠す。VOCは相対インデックスで絶対TVOC濃度ではない。HomeKitはクラウド依存でルーター再起動後に切断。",
     },
+    price: "$299.00",
     links: [
       { network: "amazon-us", productId: "B082ZF8B58", rawUrl: "https://www.amazon.com/dp/B082ZF8B58", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-awair-element", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAwair%2BElement%2B%E7%A9%BA%E6%B0%97%E8%B3%AA%2F", markets: ["JP"], approved: true },
@@ -4039,6 +4171,8 @@ const RAW_CATALOG = [
   {
     id: "iqair-airvisual-node",
     imageUrl: "https://c1.neweggimages.com/productimage/nb640/81-600-001-01.jpg",
+    priceMin: "¥30,000",
+    priceMax: "¥45,000",
     category: "home",
     badge: "🔬",
     name: { en: "IQAir AirVisual Node", ja: "IQAir AirVisual Node" },
@@ -4061,6 +4195,7 @@ const RAW_CATALOG = [
       en: "~5,000 yen NDIR CO2 + temperature + humidity monitor. Large readable display, button battery 6-12 months, Amazon Japan bestseller. Weakness: button battery gaps overnight; temperature reads 2-4°C high near heat sources; no PM2.5 or VOC sensor; no smart home integration.",
       ja: "約5,000円のNDIR CO2＋温度＋湿度モニター。大型読みやすいディスプレイ、ボタン電池6〜12ヶ月、Amazon Japan人気製品。弱点：ボタン電池切れで夜間ギャップが生じる可能性。熱源近くで温度が2〜4°C高くなる。PM2.5センサーなし・VOCセンサーなし。スマートホーム連携なし。",
     },
+    price: "$149.99",
     links: [
       { network: "amazon-us", productId: "B09FDNTD3D", rawUrl: "https://www.amazon.com/dp/B09FDNTD3D", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-inkbird-iam-t1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInkbird%2BIAM-T1%2B%E4%BA%8C%E9%85%B8%E5%8C%96%E7%82%AD%E7%B4%A0%2F", markets: ["JP"], approved: true },
@@ -4076,6 +4211,7 @@ const RAW_CATALOG = [
       en: "~4,000 yen CO2 + PM2.5 + temperature + humidity. Best sensor-count-per-yen in this comparison. Govee app integration. Weakness: no HomeKit/Google Home/Alexa; PM2.5 accuracy more variable than Awair or Kaiterra per user reports; sensor datasheets not published; small display.",
       ja: "約4,000円のCO2＋PM2.5＋温度＋湿度。この比較でセンサー数/円の最高コスパ。Goveeアプリ連携。弱点：HomeKit/Google Home/Alexaなし。ユーザー報告でPM2.5精度がAwairやKaiterraより変動大きい。センサーデータシート非公開。小型ディスプレイ。",
     },
+    price: "$34.99",
     links: [
       { network: "amazon-us", productId: "B09VCJ3ZDP", rawUrl: "https://www.amazon.com/dp/B09VCJ3ZDP", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-govee-h5106", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGovee%2B%E7%A9%BA%E6%B0%97%E8%B3%AA%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%2BH5106%2F", markets: ["JP"], approved: true },
@@ -4091,6 +4227,7 @@ const RAW_CATALOG = [
       en: "~15,000 yen laser PM2.5 + NDIR CO2 + temperature + humidity. Best standalone display readability in this comparison. Japanese language support. Works without app. Weakness: HomeKit is cloud-dependent (Kaiterra bridge server, periodic outages); no VOC sensor; PM2.5 calibration algorithm not documented.",
       ja: "約1万5,000円のレーザーPM2.5＋NDIR CO2＋温度＋湿度。この比較で最も読みやすいスタンドアロン表示。日本語対応。アプリなしで動作。弱点：HomeKitはクラウド依存（Kaiterraブリッジサーバー、定期的な停止あり）。VOCセンサーなし。PM2.5校正アルゴリズム非公開。",
     },
+    price: "$199.99",
     links: [
       { network: "moshimo", productId: "rakuten-kaiterra-laser-egg-co2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKaiterra%2BLaser%2BEgg%2BCO2%2F", markets: ["JP"], approved: true },
     ],
@@ -4245,6 +4382,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kai-wasabi-black-set",
+    imageUrl: "https://m.media-amazon.com/images/P/B002IIECME.01._SCLZZZZZZZ_.jpg",
     category: "food",
     priceMin: "¥15,000",
     priceMax: "¥20,000",
@@ -4307,6 +4445,7 @@ const RAW_CATALOG = [
   },
   {
     id: "kitchenaid-kfp-0718",
+    imageUrl: "https://m.media-amazon.com/images/P/B07CZ5TF45.01._SCLZZZZZZZ_.jpg",
     category: "food",
     price: "¥20,000",
     badge: "🔴",
@@ -4322,6 +4461,7 @@ const RAW_CATALOG = [
   },
   {
     id: "delonghi-multifry-fp8260",
+    imageUrl: "https://m.media-amazon.com/images/P/B00YCP6OU4.01._SCLZZZZZZZ_.jpg",
     category: "food",
     price: "¥20,000",
     badge: "🍲",
@@ -4338,6 +4478,8 @@ const RAW_CATALOG = [
   {
     id: "anker-nebula-capsule-3",
     imageUrl: "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/D2425_TD_V1_d49837a5-9c62-4b65-9b03-30d4e73ab55d_3840x.png?v=1762250321",
+    priceMin: "¥51,990",
+    priceMax: "¥96,907",
     category: "tech",
     badge: "🎥",
     name: { en: "Anker Nebula Capsule 3", ja: "Anker Nebula Capsule 3" },
@@ -4353,6 +4495,8 @@ const RAW_CATALOG = [
   {
     id: "epson-eh-tw5825",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001421385.jpg",
+    priceMin: "¥50,000",
+    priceMax: "¥80,000",
     category: "tech",
     badge: "🖥️",
     name: { en: "Epson EH-TW5825", ja: "Epson EH-TW5825" },
@@ -4367,6 +4511,8 @@ const RAW_CATALOG = [
   {
     id: "benq-th685p",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001265027.jpg",
+    priceMin: "¥80,000",
+    priceMax: "¥110,000",
     category: "tech",
     badge: "🎮",
     name: { en: "BenQ TH685P", ja: "BenQ TH685P" },
@@ -4382,6 +4528,7 @@ const RAW_CATALOG = [
   {
     id: "xgimi-horizon-ultra",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001577516.jpg",
+    price: "¥279,800",
     category: "tech",
     badge: "✨",
     name: { en: "XGIMI Horizon Ultra", ja: "XGIMI Horizon Ultra" },
@@ -4403,6 +4550,7 @@ const RAW_CATALOG = [
       en: "5000 ANSI lumens, ALPD 3.0 laser, 1080p native (4K upscaling), 150-inch rated, 25,000hr laser lifespan. Usable in lit rooms. Weakness: 1080p native not true 4K; 4:1 throw ratio limits room layouts; loud fan at full brightness.",
       ja: "5000 ANSIルーメン、ALPD 3.0レーザー、1080pネイティブ（4Kアップスケーリング）、150インチ定格、レーザー25,000時間。通常照明下でも使用可能。弱点：1080pネイティブはネイティブ4Kではない；4:1投射比でレイアウトが制限；定格輝度でファンノイズが大きい。",
     },
+    price: "$1,999.99",
     links: [
       { network: "moshimo", productId: "rakuten-xiaomi-mi-laser-projector-150", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXiaomi%2BMi%2BLaser%2BProjector%2B150%2F", markets: ["JP"], approved: true },
     ],
@@ -4440,6 +4588,8 @@ const RAW_CATALOG = [
   {
     id: "kenwood-drv-a601w",
     imageUrl: "https://www.kenwood.com/usa/car/caraudio/cameras/drv-a601w/img/drv/image_product01_big.png",
+    priceMin: "¥20,000",
+    priceMax: "¥30,000",
     category: "tech",
     badge: "🎌",
     name: { en: "Kenwood DRV-A601W", ja: "ケンウッド DRV-A601W" },
@@ -4454,6 +4604,8 @@ const RAW_CATALOG = [
   {
     id: "garmin-dash-cam-67w",
     imageUrl: "https://competitionmotorsport.com/cdn/shop/files/garmin-dash-cam-67w-image_1280x.jpg?v=1745603665",
+    priceMin: "$149.99",
+    priceMax: "$199.99",
     category: "tech",
     badge: "🔭",
     name: { en: "Garmin Dash Cam 67W", ja: "ガーミン Dash Cam 67W" },
@@ -4476,6 +4628,7 @@ const RAW_CATALOG = [
       en: "4K with image stabilization and emergency SOS (contacts emergency services on significant unacknowledged impact). Built-in GPS. Weakness: emergency SOS needs Nextbase account and data plan; parking mode needs separate hardwire kit; Click&Go mount is proprietary.",
       ja: "4Kと映像ぶれ補正、大衝撃検知時の緊急SOS機能（確認なければ緊急サービスに連絡）。GPS内蔵。弱点：緊急SOSにNextbaseアカウントとデータプラン必要、駐車監視に別売りハードワイヤーキット必要、Click&Goマウントが独自規格。",
     },
+    price: "$249.99",
     links: [
       { network: "amazon-us", productId: "B08X1T4B9G", rawUrl: "https://www.amazon.com/dp/B08X1T4B9G", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-nextbase-622gw", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNextbase%2B622GW%2F", markets: ["JP"], approved: true },
@@ -4576,6 +4729,7 @@ const RAW_CATALOG = [
       en: "Japanese flagship electric grill — 1300W thick aluminum plates, water-tray smoke reduction, removable hand-wash plates. Best for yakiniku and fish at home. Plates are hand-wash only; smoke suppression works on lean protein but not fatty cuts at high heat.",
       ja: "象印の定番電気グリル。1300W厚アルミプレート・水トレー煙抑制・プレート着脱可能。焼肉・焼き魚のマンション利用に最適。プレートは手洗い専用；脂の多い食材を高温で焼けば煙は出る。",
     },
+    price: "$89.99",
     links: [
       { network: "moshimo", productId: "rakuten-zojirushi-eb-dlc20", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%B1%A1%E5%8D%B0%2B%E3%83%9B%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
@@ -4583,6 +4737,7 @@ const RAW_CATALOG = [
   {
     id: "cuisinart-gr-4n",
     imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0000792410.jpg",
+    price: "$74",
     category: "food",
     badge: "🍳",
     name: { en: "Cuisinart Griddler GR-4N", ja: "クイジナート グリドラー GR-4N" },
@@ -4598,6 +4753,8 @@ const RAW_CATALOG = [
   {
     id: "george-foreman-gfo201r",
     imageUrl: "https://target.scene7.com/is/image/Target/GUEST_95d3dfa7-c23c-44ff-8163-cbb6a15fd1b5?wid=1000&hei=1000&fmt=pjpeg",
+    priceMin: "$105",
+    priceMax: "$130",
     category: "food",
     badge: "🥩",
     name: { en: "George Foreman 5-Serving Indoor Grill GFO201R", ja: "ジョージフォアマン 5人前インドアグリル GFO201R" },
@@ -4620,6 +4777,7 @@ const RAW_CATALOG = [
       en: "Compact raclette grill for 2-3 people — 700W, low smoke, easy cleanup. Best for vegetables, mushrooms, and social tabletop cooking. Not suited for high-heat beef searing; 700W cannot reach the caramelization temperature yakiniku requires.",
       ja: "2〜3人用コンパクトラクレットグリル。700W・低煙・洗浄が最も楽。野菜・きのこ・チーズの卓上調理に最適。700Wでは牛肉のセアリング温度に届かず焼肉向けではない。",
     },
+    price: "¥7,259",
     links: [
       { network: "moshimo", productId: "rakuten-recolte-rgh-1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AC%E3%82%B3%E3%83%AB%E3%83%88%2B%E3%83%A9%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E3%82%B0%E3%83%AA%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
@@ -4627,6 +4785,8 @@ const RAW_CATALOG = [
   {
     id: "iwatani-cb-p-y3",
     imageUrl: "https://www.iwatani.com/sites/default/files/products/2020-06/product-8-lg.png",
+    priceMin: "¥1,260",
+    priceMax: "¥2,500",
     category: "food",
     badge: "🔆",
     name: { en: "Iwatani Cassette Grill CB-P-Y3", ja: "岩谷 カセットグリル CB-P-Y3" },
@@ -4649,6 +4809,7 @@ const RAW_CATALOG = [
       en: "The original slow cooker. 6-quart ceramic insert, three-setting dial (Low/High/Warm), dishwasher-safe pot and lid. No programmable timer — switches to Warm only when you turn the dial manually.",
       ja: "元祖スロークッカー。6クォートセラミック内釜、3段階ダイヤル（Low/High/Warm）、食洗機対応。タイマーなし — Warmへの切り替えは手動。",
     },
+    price: "$39.99",
     links: [
       { network: "amazon-us", productId: "B0069RYLKC", rawUrl: "https://www.amazon.com/dp/B0069RYLKC", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-crock-pot-sccpvl610-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCrock-Pot%2B%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%AF%E3%83%83%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -4664,6 +4825,7 @@ const RAW_CATALOG = [
       en: "Pressure cooker and slow cooker combined. Slow cooker mode is programmable with delay start and auto Keep Warm. Slow cooker Low runs hotter than a traditional Crock-Pot Low — traditional recipes need adjustment.",
       ja: "圧力鍋 + スロークッカー一体型。スロークッカーモードはタイマー・遅延スタート・自動Keep Warm対応。スロークッカーLowは通常の専用機Highに相当するため、既存レシピの調整が必要。",
     },
+    price: "$99.99",
     links: [
       { network: "amazon-us", productId: "B00FLYWNYQ", rawUrl: "https://www.amazon.com/dp/B00FLYWNYQ", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-instant-pot-duo-7in1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BDuo%2B7in1%2F", markets: ["JP"], approved: true },
@@ -4671,6 +4833,7 @@ const RAW_CATALOG = [
   },
   {
     id: "cuisinart-csc-800",
+    imageUrl: "https://m.media-amazon.com/images/P/B0053WRWX8.01._SCLZZZZZZZ_.jpg",
     category: "food",
     badge: "🕐",
     name: { en: "Cuisinart CSC-800 3.5L Slow Cooker", ja: "クイジナート CSC-800 3.5Lスロークッカー" },
@@ -4678,6 +4841,7 @@ const RAW_CATALOG = [
       en: "3.5-liter compact slow cooker with 24-hour programmable timer and auto Keep Warm. Right-sized for 1-2 person households. Import-only in Japan; warranty service through importer.",
       ja: "3.5L コンパクトスロークッカー。24時間プログラムタイマーと自動Keep Warm付き。1〜2人向けサイズ。日本では並行輸入のみ；保証は輸入業者経由。",
     },
+    price: "$119.99",
     links: [
       { network: "amazon-us", productId: "B01HFXHMEY", rawUrl: "https://www.amazon.com/dp/B01HFXHMEY", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-cuisinart-csc-800", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BCSC-800%2F", markets: ["JP"], approved: true },
@@ -4693,6 +4857,7 @@ const RAW_CATALOG = [
       en: "Japanese-market slow cooker with fermentation mode. 40-60°C precise temperature control for yogurt and amazake. Temperature settings calibrated for nimono, oden, and kakuni. No pressure function.",
       ja: "発酵モード搭載の国産スロークッカー。ヨーグルト・甘酒向けの40〜60°C精密制御。煮物・おでん・角煮向けの温度設定。圧力機能なし。",
     },
+    price: "¥21,493",
     links: [
       { network: "moshimo", productId: "rakuten-panasonic-sr-mp300", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2BSR-MP300%2F", markets: ["JP"], approved: true },
     ],
@@ -4707,6 +4872,7 @@ const RAW_CATALOG = [
       en: "Compact Japanese slow cooker for braised dishes and oden. Ceramic pot with glass lid, 450W low power draw. No programmable timer. Domestic sales and service in Japan.",
       ja: "ブレイズ料理・おでん向け国産コンパクトスロークッカー。セラミック鍋・ガラスぶた・450W低消費電力。タイマーなし。国内販売・サポート完備。",
     },
+    price: "¥3,900",
     links: [
       { network: "moshimo", productId: "rakuten-twinbird-ep-4694", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%84%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC%E3%83%89%2BEP-4694%2F", markets: ["JP"], approved: true },
     ],
@@ -4722,6 +4888,7 @@ const RAW_CATALOG = [
       en: "Iconic tilt-head stand mixer. 4.7L bowl, 325W motor, 80+ attachment ecosystem (pasta roller, meat grinder, grain mill, spiralizer). Motor strains on stiff bread dough and multi-loaf batches; designed for cakes, cookies, and light doughs. Explicit weakness: 325W is marginal for high-hydration or multi-batch bread dough.",
       ja: "定番ティルトヘッドスタンドミキサー。4.7Lボウル・325Wモーター・80種類以上のアタッチメント（パスタローラー・ミートグラインダー・穀物ミル等）。かたいパン生地や複数斤バッチではモーターに負荷がかかる；ケーキ・クッキー・軽い生地向け設計。弱点：325Wは高水分率または複数バッチのパン生地には限界に近い。",
     },
+    price: "$449.95",
     links: [
       { network: "amazon-us", productId: "B00005UP2P", rawUrl: "https://www.amazon.com/dp/B00005UP2P", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-kitchenaid-ksm150ps", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKitchenAid%2B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%9F%E3%82%AD%E3%82%B5%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -4730,6 +4897,8 @@ const RAW_CATALOG = [
   {
     id: "kenwood-chef-xl-kvl4100s",
     imageUrl: "https://shopkenwood.co.za/cdn/shop/files/Kenwood_-_Chef_XL_-_KVL4100S_MAIN.jpg?v=1763528935&width=1500",
+    priceMin: "$499",
+    priceMax: "$599",
     category: "food",
     badge: "bread-pick",
     name: { en: "Kenwood Chef XL (KVL4100S)", ja: "ケンウッド Chef XL（KVL4100S）" },
@@ -4743,7 +4912,10 @@ const RAW_CATALOG = [
   },
   {
     id: "bosch-mum5",
+    imageUrl: "https://m.media-amazon.com/images/P/B01B7HVW7O.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    priceMin: "$399",
+    priceMax: "$499",
     badge: "value-pick",
     name: { en: "Bosch MUM5", ja: "ボッシュ MUM5" },
     description: {
@@ -4757,6 +4929,8 @@ const RAW_CATALOG = [
   {
     id: "cuisinart-sm-50",
     imageUrl: "https://steamykitchen.com/wp-content/uploads/2016/12/cuisinart-precision-master-stand-mixer-SM-50-review-2-500x479.jpg",
+    priceMin: "$198",
+    priceMax: "$249",
     category: "food",
     badge: "budget-pick",
     name: { en: "Cuisinart SM-50 5.5-Qt Stand Mixer", ja: "クイジナート SM-50 5.5クォート スタンドミキサー" },
@@ -4778,6 +4952,7 @@ const RAW_CATALOG = [
       en: "Japanese-market stand mixer with motor calibrated for shokupan (Japanese milk bread) and pizza dough at Japanese recipe hydration levels. Compact footprint. Panasonic domestic support and nationwide parts availability. Explicit weakness: attachment ecosystem is narrow (bowl, dough hook, flat beater, wire whisk only); not sold outside Japan.",
       ja: "日本市場向けスタンドミキサー。日本のレシピ水分率の食パン・ピザ生地に合わせたモーター調整。コンパクトフットプリント。パナソニック国内サポートと全国部品入手対応。弱点：アタッチメントはボウル・ドウフック・フラットビーター・ワイヤーウィスクのみ；日本国外で未販売。",
     },
+    price: "¥4,980",
     links: [
       { network: "moshimo", productId: "rakuten-panasonic-mk-h4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2BMK-H4%2F", markets: ["JP"], approved: true },
     ],
@@ -4793,6 +4968,7 @@ const RAW_CATALOG = [
       en: "1200W immersion circulator with WiFi and Bluetooth. Stainless steel build rated for commercial use, clamps to any container up to 100L. Temperature precision to ±0.1°C, range 0–92°C. WiFi connects to the Anova app for remote monitoring and guided recipes. The Pro's motor handles large containers that cause budget units to stall.",
       ja: "WiFi + Bluetooth搭載1200W水中循環器。ステンレス製商業用グレード、最大100Lコンテナ対応クランプ。温度精度±0.1°C、0〜92°C対応。Anovaアプリでリモートモニタリングとガイドレシピ対応。Proモーターは安価機種が止まる大型コンテナでも安定稼働。",
     },
+    price: "$199.00",
     links: [
       { network: "amazon-us", productId: "B07WQ3TJZZ", rawUrl: "https://www.amazon.com/dp/B07WQ3TJZZ", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-anova-precision-cooker-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnova+Precision+Cooker+Pro%2F", markets: ["JP"], approved: true },
@@ -4808,6 +4984,7 @@ const RAW_CATALOG = [
       en: "1100W compact sous vide stick at 28cm tall and 281g — the smallest full-power unit in this comparison. App-only control via the Joule app (no manual controls on the unit itself). Turbo mode uses predictive algorithms to finish cook cycles up to 30% faster by adjusting temperature ramps. Clamps to containers 11–30cm deep.",
       ja: "28cm・281gの1100Wコンパクト低温調理スティック — 本比較で最小のフルパワー機。Jouleアプリのみ操作（本体手動コントロールなし）。ターボモードは温度ランプを調整して最大30%速くクックサイクルを完了する予測アルゴリズム搭載。11〜30cmコンテナ対応クランプ。",
     },
+    price: "$199.95",
     links: [
       { network: "amazon-us", productId: "B01HFXKMDI", rawUrl: "https://www.amazon.com/dp/B01HFXKMDI", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-breville-joule-turbo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville+Joule+Turbo+Sous+Vide%2F", markets: ["JP"], approved: true },
@@ -4838,6 +5015,7 @@ const RAW_CATALOG = [
       en: "850W entry-level immersion circulator with manual dial, LED display, and no WiFi. Temperature range 25–99.5°C, accuracy ±0.5°C. Straightforward operation: set temperature and time with the dial, clip to any pot. 15L maximum container. The no-WiFi design means no app dependency and no cloud connectivity — preferred by buyers who find app-required devices unreliable.",
       ja: "マニュアルダイヤル・LED表示・WiFiなしの850W入門水中循環器。温度範囲25〜99.5°C、精度±0.5°C。シンプル操作：ダイヤルで温度と時間を設定してポットにクリップ。最大15Lコンテナ。WiFiなし設計でアプリ依存なしかつクラウド接続なし — アプリ必須機器を信頼しないユーザーに好評。",
     },
+    price: "$49.99",
     links: [
       { network: "amazon-us", productId: "B077HW4SH2", rawUrl: "https://www.amazon.com/dp/B077HW4SH2", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-wancle-sous-vide", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWancle+%E4%BD%8E%E6%B8%A9%E8%AA%BF%E7%90%86%E5%99%A8%2F", markets: ["JP"], approved: true },
@@ -4853,6 +5031,7 @@ const RAW_CATALOG = [
       en: "1100W professional-grade immersion circulator with ±0.07°C temperature stability — the tightest in this comparison. Used in restaurant kitchens and culinary schools. Manual controls with digital readout, no app required. Flow rate 11.5L/min maintains uniform temperature across large containers. IP rating protects against cooking liquid splashes.",
       ja: "温度安定性±0.07°C — 本比較最高精度の1100Wプロフェッショナルグレード水中循環器。レストランキッチンと料理学校で使用。デジタル表示付きマニュアルコントロール、アプリ不要。流量11.5L/minで大型コンテナの均一温度を維持。調理液のスプラッシュに対応したIPレーティング。",
     },
+    price: "$329.95",
     links: [
       { network: "amazon-us", productId: "B00L2P0KNO", rawUrl: "https://www.amazon.com/dp/B00L2P0KNO", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-polyscience-creative-sous-vide", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPolyScience+Creative+Sous+Vide%2F", markets: ["JP"], approved: true },
@@ -4869,6 +5048,7 @@ const RAW_CATALOG = [
       en: "The original 1956 acetate Wayfarer with UV400 protection standard across all lens options and a polarized upgrade available. Keyhole nose bridge accommodates lower nose bridges better than saddle designs. Explicit weakness: no official Asian Fit variant for RB2140; polarized upgrade is significantly pricier; counterfeit listings common on Rakuten — verify seller authorization.",
       ja: "UV400対策を全レンズオプション標準搭載、偏光アップグレードもある1956年オリジナルアセテートWayfarer。キーホールノーズブリッジはサドルブリッジよりアジア顔型に寛容。明確な弱点：RB2140の公式アジアフィットバリアントなし；偏光アップグレードが大幅高価；楽天には偽造品が多いため販売者認定の確認が必須。",
     },
+    price: "$163.00",
     links: [
       { network: "amazon-us", productId: "B001Q3BNRK", rawUrl: "https://www.amazon.com/dp/B001Q3BNRK", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-rayban-wayfarer-classic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRay-Ban%2BWayfarer%2BRB2140%2F", markets: ["JP"], approved: true },
@@ -4884,6 +5064,7 @@ const RAW_CATALOG = [
       en: "O-Matter lightweight polycarbonate frame with optional Prizm lens technology for activity-specific contrast enhancement. Three-Point Fit grips at nose and temples. Explicit weakness: saddle bridge slides on most Asian face shapes without aftermarket nose pad modification; Prizm color tints cause initial visual disorientation in mixed environments.",
       ja: "O-Matter軽量ポリカーボネートフレームとオプションのPrizmレンズ技術で活動特化コントラスト向上。スリーポイントフィットが鼻とテンプルをグリップ。明確な弱点：アフターマーケット鼻パッドなしにほとんどのアジア顔型でサドルブリッジが滑る；Prizmレンズカラーが混在環境での切り替えで初期の視覚的違和感を生じることがある。",
     },
+    price: "$197.00",
     links: [
       { network: "amazon-us", productId: "B0057AFWUS", rawUrl: "https://www.amazon.com/dp/B0057AFWUS", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-oakley-holbrook", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOakley%2BHolbrook%2F", markets: ["JP"], approved: true },
@@ -4899,6 +5080,7 @@ const RAW_CATALOG = [
       en: "SuperThin glass polarized lenses with PolarizedPlus2 dual-surface coating for the highest optical clarity in this comparison. Minimal peripheral distortion, genuine color accuracy. Explicit weakness: glass is heavier than polycarbonate/NXT; shatters on impact — unsuitable for sport; ¥30,000+ in Japan; no prescription service in Japan; Asian Fit variant hard to find in domestic retail.",
       ja: "この比較で最高の光学的透明度を実現するSuperThinガラス偏光レンズとPolarizedPlus2デュアル面コーティング。周辺歪み最小で真の色の正確さ。明確な弱点：ガラスはポリカーボネート/NXTより重い；衝撃で割れるためスポーツ不向き；日本で30,000円以上；日本での度数サービスなし；国内小売でアジアフィットバリアントの入手が困難。",
     },
+    price: "$289.00",
     links: [
       { network: "amazon-us", productId: "B0015R0MJS", rawUrl: "https://www.amazon.com/dp/B0015R0MJS", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-maui-jim-peahi", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMaui%2BJim%2BPeahi%2F", markets: ["JP"], approved: true },
@@ -4914,6 +5096,7 @@ const RAW_CATALOG = [
       en: "Japanese brand with frames designed for East Asian face geometry — lower nose bridge, appropriate face width, stable fit without modification. UV400 compliant. Same-day Rx service at all Japan stores. Polarized options available from ¥4,000-¥8,000. Explicit weakness: polycarbonate optical quality adequate but not premium; conservative style selection; third-party UV400 verification harder to confirm than major international brands.",
       ja: "低鼻筋・適切な顔幅・修正不要の安定フィットを実現した東アジア顔型向け日本ブランド。UV400準拠。全国店舗で当日度付き対応。4,000〜8,000円から偏光オプションあり。明確な弱点：ポリカーボネートの光学品質は十分だが高級ではない；デザインがコンサバティブ；大手国際ブランドと比べてサードパーティUV400確認が困難。",
     },
+    price: "¥5,500",
     links: [
       { network: "moshimo", productId: "rakuten-zoff-uv-sunglasses", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZoff%2BUV%2B%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
@@ -4927,6 +5110,7 @@ const RAW_CATALOG = [
       en: "Combined UV-blocking and infrared-reducing lens coating with prescription compatibility across the product range. Same-day Rx sunglasses at JINS Japan stores; NXT Trivex upgrade available at most locations. Explicit weakness: anti-IR screen protection not validated by third-party optical standards body; functional-dominant frame aesthetic; polycarbonate-heavy construction lacks premium tactile quality.",
       ja: "UV遮断と赤外線軽減レンズコーティングの組み合わせと全製品ラインでの度付き対応。JINS日本店舗で当日度付きサングラス対応；ほとんどの店舗でNXT Trivexアップグレード可。明確な弱点：スクリーン保護のIRコーティングにサードパーティ光学基準機関の検証がない；機能性重視のフレーム外観；ポリカーボネート主体で高級感の触感に欠ける。",
     },
+    price: "¥6,600",
     links: [
       { network: "moshimo", productId: "rakuten-jins-smart-shield", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJINS%2B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
@@ -4942,6 +5126,7 @@ const RAW_CATALOG = [
       en: "Japanese minimalist powder-coated steel wire desk organizer. Open construction keeps visual footprint light. Cable routing notch at back. Fits roughly 15×20 cm of desk surface.",
       ja: "粉体塗装スチールワイヤーの日本ミニマリストデスクオーガナイザー。オープン構造で視覚的なフットプリントが軽い。後部ケーブル通し穴あり。約15×20cmのデスクスペースに収まる。",
     },
+    price: "¥2,860",
     links: [
       { network: "moshimo", productId: "rakuten-yamazaki-tower-desk-organizer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B1%B1%E5%B4%8E%E5%AE%9F%E6%A5%AD+tower+%E3%83%87%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
@@ -4956,6 +5141,7 @@ const RAW_CATALOG = [
       en: "Charges iPhone via MagSafe at 15W, Apple Watch at fast-charge speed, and AirPods via Qi — all from one USB-C cable. Best for iPhone + Apple Watch + AirPods households.",
       ja: "MagSafe経由でiPhoneを15W充電、Apple Watchを急速充電、QiでAirPodsを充電。1本のUSB-Cケーブルで3台同時充電。iPhone＋Apple Watch＋AirPodsの家庭に最適。",
     },
+    price: "$35.99",
     links: [
       { network: "moshimo", productId: "rakuten-belkin-boost-charge-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBelkin+BoostCharge+3-in-1+MagSafe%2F", markets: ["JP"], approved: true },
     ],
@@ -4970,6 +5156,7 @@ const RAW_CATALOG = [
       en: "Foldable MagSafe-compatible iPhone stand. Collapses to ~1 cm thickness. Detachable MagSafe puck. Charges iPhone at 15W. Best for frequent travelers and small-desk users.",
       ja: "折りたたみMagSafe対応iPhoneスタンド。折りたたみ時に約1cm厚。MagSafeパックは着脱可能。iPhone 15W充電対応。頻繁な外出や小さいデスクのユーザーに最適。",
     },
+    price: "$47.99",
     links: [
       { network: "amazon-us", productId: "B09BRZBX4C", rawUrl: "https://www.amazon.com/dp/B09BRZBX4C", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-anker-622-magnetic-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker+622+MagGo%2F", markets: ["JP"], approved: true },
@@ -4999,6 +5186,7 @@ const RAW_CATALOG = [
       en: "Transparent stackable acrylic modular units. See contents without opening. Popular in Japanese home-office setups. Configurable for pens, small items, and documents.",
       ja: "透明スタッカブルアクリルのモジュラーユニット。開けずに中身が見える。日本のホームオフィスで定番。ペン・小物・書類に対応する構成が可能。",
     },
+    price: "$16.90",
     links: [
       { network: "moshimo", productId: "rakuten-muji-acrylic-organizer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB+%E3%83%87%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
@@ -5014,6 +5202,7 @@ const RAW_CATALOG = [
       en: "French luxury candle. Blackcurrant leaf and Bulgarian rose. Strong cold throw, ambient hot throw, 50–60 hr burn time. Explicit weakness: highest cost-per-burn-hour; underwhelming hot throw for large rooms; tunneling risk if first-burn rules aren't followed.",
       ja: "フランス高級キャンドル。カシスの葉とブルガリアンローズ。強いコールドスロー、アンビエントなホットスロー、燃焼50〜60時間。明確な弱点：最高の時間あたりコスト；広い部屋には物足りないホットスロー；最初の点灯ルールを守らないとトンネリングリスク。",
     },
+    price: "$90.00",
     links: [
       { network: "amazon-us", productId: "B00W8VHAPQ", rawUrl: "https://www.amazon.com/dp/B00W8VHAPQ", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-diptyque-baies-190g", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDiptyque%2BBaies%2F", markets: ["JP"], approved: true },
@@ -5029,6 +5218,7 @@ const RAW_CATALOG = [
       en: "American mass-market candle. Fresh linen and cotton musk. Strong paraffin hot throw fills rooms up to 20m², 110–150 hr burn time. Explicit weakness: entirely synthetic fragrance; paraffin base produces more soot; no design value.",
       ja: "アメリカのマスマーケットキャンドル。フレッシュリネンとコットンムスク。強いパラフィンホットスローで20m²まで充填、燃焼110〜150時間。明確な弱点：完全合成の香り；パラフィンベースで煤が出やすい；デザイン価値なし。",
     },
+    price: "$32.49",
     links: [
       { network: "amazon-us", productId: "B00004S1DW", rawUrl: "https://www.amazon.com/dp/B00004S1DW", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-yankee-clean-cotton", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYankee+Candle+Clean+Cotton%2F", markets: ["JP"], approved: true },
@@ -5051,6 +5241,7 @@ const RAW_CATALOG = [
   {
     id: "harnn-jasmine-rice",
     category: "home",
+    price: "$24",
     badge: "🌸",
     name: { en: "HARNN Jasmine Rice Candle 185g", ja: "HARNN ジャスミンライス キャンドル 185g" },
     description: {
@@ -5071,6 +5262,7 @@ const RAW_CATALOG = [
       en: "California brand with deep Japanese streetwear cultural ties. Hinoki, cedar, and resin-forward profiles alongside sweeter florals. 20–30 min per stick. Explicit weakness: smoke not suitable for respiratory-sensitive households; much shorter burn time than candles; select-retail only.",
       ja: "日本のストリートウェア文化と深いつながりを持つカリフォルニアブランド。ヒノキ・スギ・レジン系と甘めのフローラル系。1本20〜30分。明確な弱点：煙が呼吸器過敏の家庭には不向き；キャンドルより燃焼時間が著しく短い；セレクトショップ限定。",
     },
+    price: "¥1,100",
     links: [
       { network: "moshimo", productId: "rakuten-kuumba-international-incense", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKuumba+International%2F", markets: ["JP"], approved: true },
     ],
@@ -5172,6 +5364,7 @@ const RAW_CATALOG = [
       en: "Certified Imabari ring-spun Japanese cotton with the genuine woven certification tag. Absorbency guaranteed — water drop absorbed in under five seconds. Standard tier (¥1,500–3,000). Available from Imabari manufacturer stores on Rakuten.",
       ja: "今治認定の本物の織りタグ付きリング撚り日本製綿。吸水性保証あり（水滴が5秒以内に吸収）。標準ティア価格帯（1,500〜3,000円）。楽天の今治製造元ショップで入手可能。",
     },
+    price: "¥4,900",
     links: [
       { network: "moshimo", productId: "rakuten-imabari-towel-standard", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BB%8A%E6%B2%BB%E3%82%BF%E3%82%AA%E3%83%AB%2B%E3%83%90%E3%82%B9%E3%82%BF%E3%82%AA%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
@@ -5179,6 +5372,8 @@ const RAW_CATALOG = [
   {
     id: "today-s-towel-waffle",
     imageUrl: "https://www.muji.us/cdn/shop/files/4548076415893_01_org.jpg",
+    priceMin: "$10",
+    priceMax: "$25",
     category: "home",
     badge: "🧇",
     name: { en: "Today's Towel Waffle Weave", ja: "ワッフルウィーブバスタオル" },
@@ -5192,7 +5387,10 @@ const RAW_CATALOG = [
   },
   {
     id: "muji-organic-cotton-towel",
+    imageUrl: "https://m.media-amazon.com/images/P/B07C5L374F.01._SCLZZZZZZZ_.jpg",
     category: "home",
+    priceMin: "¥1,290",
+    priceMax: "¥1,490",
     badge: "🌿",
     name: { en: "Muji Organic Cotton Bath Towel", ja: "無印良品 オーガニックコットンバスタオル" },
     description: {
@@ -5205,7 +5403,10 @@ const RAW_CATALOG = [
   },
   {
     id: "ikeuchi-organic-340",
+    imageUrl: "https://m.media-amazon.com/images/I/51aEovE6TIL._AC_SL1000_.jpg",
     category: "home",
+    priceMin: "¥6,600",
+    priceMax: "¥7,700",
     badge: "✨",
     name: { en: "Ikeuchi Organic 340 Towel", ja: "ikeuchi organic 340 タオル" },
     description: {
@@ -5218,6 +5419,7 @@ const RAW_CATALOG = [
   },
   {
     id: "bamboo-bath-towel-set",
+    imageUrl: "https://m.media-amazon.com/images/P/B08WLG34X6.01._SCLZZZZZZZ_.jpg",
     category: "home",
     badge: "🎋",
     name: { en: "Bamboo Bath Towel Set", ja: "竹繊維バスタオルセット" },
@@ -5225,6 +5427,7 @@ const RAW_CATALOG = [
       en: "Bamboo viscose and cotton blend (typically 70/30) at approximately 450–500 GSM. Distinct silky-smooth hand feel from bamboo viscose fibre diameter. Sold as 2-piece or 4-piece sets for household value.",
       ja: "竹ビスコースとコットンの混紡（一般的に70%竹/30%コットン）、約450〜500GSM。竹ビスコース繊維径による独特のなめらかでほぼ絹のような手触り。2枚または4枚セットで家庭のコスパが出る。",
     },
+    price: "$29.99",
     links: [
       { network: "moshimo", productId: "rakuten-bamboo-bath-towel-set", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%AB%B9%E7%B9%8A%E7%B6%AD%2B%E3%83%90%E3%82%B9%E3%82%BF%E3%82%AA%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
@@ -5240,6 +5443,7 @@ const RAW_CATALOG = [
       en: "The most forgiving foliage plant for beginners. Trailing vines root easily in water, tolerate irregular watering and low light, golden-green variegation in moderate indirect light. Explicit weakness: toxic to cats and dogs; variegation fades in very low light; trailing habit places it within reach of pets.",
       ja: "初心者に最も勧められる観葉植物。水で簡単発根、不規則な水やりと低光量に耐え、適度な間接光で黄緑の斑入り葉を維持。明確な弱点：猫と犬に毒性あり；低光量で斑が消える；蔓がペットの届く場所に垂れる。",
     },
+    price: "$39.00",
     links: [
       { network: "amazon-us", productId: "B09QMFGPJZ", rawUrl: "https://www.amazon.com/dp/B09QMFGPJZ", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-pothos-golden", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9D%E3%83%88%E3%82%B9+%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%2F", markets: ["JP"], approved: true },
@@ -5255,6 +5459,7 @@ const RAW_CATALOG = [
       en: "Iconic split-leaf tropical statement plant. Fenestrated leaves develop only in sufficient bright indirect light. Available from small nursery specimens to large mature plants. Explicit weakness: bright indirect light requirement frequently underestimated; slow grower; toxic to cats and dogs; needs structural support.",
       ja: "象徴的な切れ込み葉の熱帯観葉植物。切れ込み葉は十分な明るい間接光でのみ発達。小型苗から大型株まで販売。明確な弱点：明るい間接光の必要性が過小評価されやすい；成長が遅い；猫と犬に毒性あり；モスポールなど支柱が必要。",
     },
+    price: "$169.00",
     links: [
       { network: "amazon-us", productId: "B08CBXSH8K", rawUrl: "https://www.amazon.com/dp/B08CBXSH8K", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-monstera-deliciosa", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%86%E3%83%A9+%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%2F", markets: ["JP"], approved: true },
@@ -5270,6 +5475,7 @@ const RAW_CATALOG = [
       en: "Most drought-tolerant foliage plant on this list. Yellow-edged upright form works in corners and entryways. Can go 3-6 weeks without water in winter. Explicit weakness: toxic to cats and dogs via saponins; slow growth; root rot in pots without drainage despite drought tolerance.",
       ja: "このリストで最も乾燥に強い観葉植物。黄縁の直立形は角や玄関先で使いやすい。冬は3〜6週間水なしでOK。明確な弱点：サポニンにより猫と犬に毒性あり；成長が遅い；乾燥耐性があっても排水穴なし鉢では根腐れする。",
     },
+    price: "$89.00",
     links: [
       { network: "amazon-us", productId: "B07LGS96WQ", rawUrl: "https://www.amazon.com/dp/B07LGS96WQ", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-snake-plant-laurentii", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%83%B3%E3%82%B9%E3%83%99%E3%83%AA%E3%82%A2+%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%2F", markets: ["JP"], approved: true },
@@ -5285,6 +5491,7 @@ const RAW_CATALOG = [
       en: "True low-light champion with rhizome water storage. Waxy deep-green arching stems suit modern interiors. Can go weeks without water. Explicit weakness: toxic to cats, dogs, and children; extremely slow growth; waxy leaves collect dust and need wiping.",
       ja: "根茎で水を蓄える真の耐陰性チャンピオン。ツルツルした深緑のアーチ茎がモダンなインテリアに合う。数週間水なしでOK。明確な弱点：猫・犬・子どもに毒性あり；非常に成長が遅い；ツルツルした葉にほこりが溜まりやすく拭き取りが必要。",
     },
+    price: "$99.00",
     links: [
       { network: "amazon-us", productId: "B07BJ45BMT", rawUrl: "https://www.amazon.com/dp/B07BJ45BMT", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-zz-plant", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B6%E3%83%9F%E3%82%AA%E3%82%AF%E3%83%AB%E3%82%AB%E3%82%B9+%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%2F", markets: ["JP"], approved: true },
@@ -5300,6 +5507,7 @@ const RAW_CATALOG = [
       en: "One of very few houseplants that flowers reliably indoors. Droops visibly when thirsty, recovers within hours of watering. White spathe flowers in spring. Explicit weakness: toxic to cats, dogs, and children; dramatic droop when thirsty can alarm owners; brown leaf tips from fluoride sensitivity.",
       ja: "室内で安定して花が咲く数少ない観葉植物の一つ。喉が渇くと劇的にしなだれ、水やり後数時間で回復。春に白い苞の花が咲く。明確な弱点：猫・犬・子どもに毒性あり；しなだれを枯れかけと誤解されやすい；フッ化物感受性による葉先の茶変が起きやすい。",
     },
+    price: "$89.00",
     links: [
       { network: "amazon-us", productId: "B07LPZX8CZ", rawUrl: "https://www.amazon.com/dp/B07LPZX8CZ", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-peace-lily", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%91%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A0+%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%2F", markets: ["JP"], approved: true },
@@ -5316,6 +5524,7 @@ const RAW_CATALOG = [
       en: "Adhesive biofeedback sensor for the upper back. Vibrates when slouching, app tracks posture improvement over time. Active training approach avoids muscle dependency. Explicit weakness: no lower back or neck coverage; adhesive pad may irritate sensitive skin; unreliable readings during walking; requires app account.",
       ja: "上背部に貼る接着式バイオフィードバックセンサー。猫背を検知して振動、アプリで姿勢改善を経時トラッキング。アクティブ訓練方式で筋力依存を回避。弱点：腰部・首は対応外；接着パッドが敏感肌に刺激；歩行中は不正確；アプリアカウント登録必要。",
     },
+    price: "$99.95",
     links: [
       { network: "amazon-us", productId: "B07CMTM37G", rawUrl: "https://www.amazon.com/dp/B07CMTM37G", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-upright-go-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUpright+GO+%E5%A7%BF%E5%8B%A2%2F", markets: ["JP"], approved: true },
@@ -5324,6 +5533,7 @@ const RAW_CATALOG = [
   {
     id: "comfymed-posture-brace",
     imageUrl: "https://www.gosupps.com/media/catalog/product/cache/25/small_image/1500x1650/9df78eab33525d08d6e5fb8d27136e95/7/1/71tCdiJcYAL.jpg",
+    price: "$28",
     category: "fitness",
     badge: "🔧",
     name: { en: "ComfyMed Posture Brace", ja: "ComfyMed 姿勢矯正サポーター" },
@@ -5339,6 +5549,7 @@ const RAW_CATALOG = [
   {
     id: "fitletic-posture-corrector",
     category: "fitness",
+    price: "$30",
     badge: "🏃",
     name: { en: "Fitletic Posture Corrector", ja: "Fitletic 姿勢矯正サポーター" },
     description: {
@@ -5352,6 +5563,7 @@ const RAW_CATALOG = [
   {
     id: "truweo-posture-corrector",
     imageUrl: "https://images-na.ssl-images-amazon.com/images/I/41Pq0lkliPL._SS600_.jpg",
+    price: "$27",
     category: "fitness",
     badge: "⚙️",
     name: { en: "Truweo Posture Corrector", ja: "Truweo 姿勢矯正サポーター" },
@@ -5374,6 +5586,7 @@ const RAW_CATALOG = [
       en: "Full lumbar support brace for standing and physical loading. Rigid panel with adjustable side compression. Explicit weakness: addresses lower back only — does not help thoracic kyphosis, rounded shoulders, or neck posture; too bulky for seated office use; muscle dependency applies to spinal erectors with prolonged use.",
       ja: "立ち仕事・荷重作業向けの腰部サポートブレース。可調整サイドコンプレッション付き硬質パネル。弱点：腰部のみ対応——胸椎後弯・肩の丸まり・首の姿勢には無効；座位での使用には嵩張りすぎ；長時間使用での脊柱起立筋への筋力依存あり。",
     },
+    price: "$24.99",
     links: [
       { network: "moshimo", productId: "rakuten-mueller-back-brace", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+%E3%83%90%E3%83%83%E3%82%AF%E3%83%96%E3%83%AC%E3%83%BC%E3%82%B9+%E8%85%B0%E9%83%A8%2F", markets: ["JP"], approved: true },
     ],
@@ -5389,6 +5602,7 @@ const RAW_CATALOG = [
       en: "Memory foam U-shape with headrest anchor clips that keep the pillow in place through a 13-hour flight. Best all-rounder for aisle and middle seats. Weakness: fights lateral lean for window-seat sleepers; compressed size of 13×13×8 cm is not compact.",
       ja: "メモリーフォームU字型、ヘッドレストピラーに固定するマグネットクリップ付き。13時間フライトでもずれない。通路席・中央席の最善オールラウンダー。弱点：窓側横傾き寝には向かない、圧縮後13×13×8cmは小さくない。",
     },
+    price: "$39.99",
     links: [
       { network: "amazon-us", productId: "B07DVNV3SZ", rawUrl: "https://www.amazon.com/dp/B07DVNV3SZ", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-cabeau-evolution-s3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCabeau+%E3%83%8D%E3%83%83%E3%82%AF%E3%83%94%E3%83%AD%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -5404,6 +5618,7 @@ const RAW_CATALOG = [
       en: "Fleece scarf with rigid internal scaffold — not a U-shape. Provides true one-sided lateral neck support for window-seat sleepers. Rolls flat to jacket-pocket size. Weakness: only works leaning one direction; re-wrapping mid-flight wakes you up; rigid insert can cause pressure marks on 10+ hour flights.",
       ja: "硬質内部骨格を内蔵したフリーススカーフ。U字型ではなく、窓側横傾き寝に真の片側サポートを提供。ジャケットポケットサイズに丸まる。弱点：一方向への傾きにのみ対応、向き変更にスカーフ巻き直しが必要で目が覚める、10時間超では圧迫跡が出ることがある。",
     },
+    price: "$54.99",
     links: [
       { network: "amazon-us", productId: "B00LEODGP2", rawUrl: "https://www.amazon.com/dp/B00LEODGP2", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-trtl-travel-pillow", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTrtl+%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%83%94%E3%83%AD%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -5419,6 +5634,7 @@ const RAW_CATALOG = [
       en: "U-shape with chin-support channel at the front — stops the chin from dropping toward the chest on upright middle and aisle seats. Lighter and more packable than memory foam. Weakness: chin support becomes awkward when leaning laterally rather than forward.",
       ja: "前部に顎サポートチャンネル付きU字型——中央席・通路席の直立睡眠で顎が胸に落ちるのを防ぐ。メモリーフォームより軽く圧縮しやすい。弱点：横傾きポジションでは顎サポートが邪魔になる。",
     },
+    price: "$49.95",
     links: [
       { network: "amazon-us", productId: "B07MGCQJBC", rawUrl: "https://www.amazon.com/dp/B07MGCQJBC", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-bcozzy-travel-pillow", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBCozzy+%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%83%94%E3%83%AD%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -5434,6 +5650,7 @@ const RAW_CATALOG = [
       en: "Closed-loop neck and chin wrap that cradles the head from multiple angles — best for forward-and-lateral tilt sleepers. Accommodates position switching without re-setup. Weakness: retains heat in warm cabin conditions; full wrap can feel claustrophobic.",
       ja: "首と顎を全方向から包むクローズドループ——前方かつ斜め傾き睡眠に最適。再セットアップなしでポジション転換に対応。弱点：機内で熱がこもりやすい、フルラップに閉所感を感じるユーザーがいる。",
     },
+    price: "$69.00",
     links: [
       { network: "moshimo", productId: "rakuten-ostrichpillow-go", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOstrichpillow+Go%2F", markets: ["JP"], approved: true },
     ],
@@ -5463,6 +5680,7 @@ const RAW_CATALOG = [
       en: "Premium 6 mm closed-cell PVC with cork-rubber dot-pattern bottom for studio-floor grip and a lifetime warranty against splitting and peeling. Needs a 2-3 week salt-scrub break-in period before surface grip reaches advertised level. At 3.4 kg, heavy for daily train commute to studio.",
       ja: "プレミアム6mmクローズドセルPVC、コルクゴムドットパターン底面でスタジオ床グリップ、剥離・割れ対する終身保証。表面グリップが公称レベルに達する前に2-3週間の塩スクラブ ブレイクインが必要。3.4kgで電車スタジオ通学には重い。",
     },
+    price: "$110.00",
     links: [
       { network: "amazon-us", productId: "B0019BTFTS", rawUrl: "https://www.amazon.com/dp/B0019BTFTS", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-manduka-pro-yoga-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FManduka+PRO+%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
@@ -5478,6 +5696,7 @@ const RAW_CATALOG = [
       en: "4.2 mm eco-polyurethane top over natural rubber base with the AlignForMe etched alignment-line system — centerline, hip-line, and foot-placement marks for warrior and triangle poses. 73 × 185 cm extra-wide fits taller practitioners. Strict water-only cleaning protocol; natural rubber base excludes latex-allergy users.",
       ja: "天然ゴムベース上の4.2mmエコポリウレタン トップ、AlignForMeエッチング アライメント ライン システム(中央線・腰幅線・ウォリアー/トライアングル用足配置マーク)。73×185cm特大サイズで背の高い人にも対応。水のみの厳密なクリーニング指示、天然ゴムベースでラテックスアレルギー不可。",
     },
+    price: "$160.00",
     links: [
       { network: "amazon-us", productId: "B01DBXPYIU", rawUrl: "https://www.amazon.com/dp/B01DBXPYIU", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-liforme-yoga-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLiforme+%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
@@ -5486,6 +5705,8 @@ const RAW_CATALOG = [
   {
     id: "jade-harmony-yoga-mat",
     imageUrl: "https://jadeyoga.com/cdn/shop/products/Jade-Yoga-Harmony-Mat-Cover_1024x1024.jpg?v=1631573421",
+    priceMin: "$100",
+    priceMax: "$110",
     category: "fitness",
     badge: "🌿",
     name: { en: "Jade Harmony Yoga Mat", ja: "Jade Harmony ヨガマット" },
@@ -5501,6 +5722,8 @@ const RAW_CATALOG = [
   {
     id: "gaiam-premium-yoga-mat",
     imageUrl: "https://www.gaiam.com/cdn/shop/products/05-59141_2.jpg?v=1673041556&width=2000",
+    priceMin: "$30",
+    priceMax: "$40",
     category: "fitness",
     badge: "🎨",
     name: { en: "Gaiam Premium Print Yoga Mat", ja: "Gaiam プレミアム プリント ヨガマット" },
@@ -5515,7 +5738,9 @@ const RAW_CATALOG = [
   },
   {
     id: "lululemon-reversible-mat",
+    imageUrl: "https://m.media-amazon.com/images/I/31KLe5PelUL._AC_SL1001_.jpg",
     category: "fitness",
+    price: "$98",
     badge: "🔄",
     name: { en: "Lululemon The Reversible Mat", ja: "Lululemon リバーシブル マット" },
     description: {
@@ -5537,6 +5762,7 @@ const RAW_CATALOG = [
       en: "1.8L stainless steel kettle with variable temperature control (60-100°C in 5°C increments), gooseneck spout for precision pour, and 20-minute keep-warm function. Dedicated buttons for green tea (75°C), white tea (80°C), oolong (85°C), coffee (90°C), and black tea/French press (100°C). Precise temperature holds within ±2°C. Heavier and larger than entry-level kettles; base unit requires counter space; some users report the gooseneck spout is slower for filling large French presses.",
       ja: "1.8Lステンレス製ケトル。60〜100°Cを5°C刻みで設定可能な温度可変、精密注ぎ用グースネックスパウト、20分間保温機能付き。緑茶(75°C)・白茶(80°C)・ウーロン茶(85°C)・コーヒー(90°C)・紅茶/フレンチプレス(100°C)の専用ボタン搭載。温度精度±2°C以内。入門モデルより重く大きい；ベースユニットがカウンタースペース必要；グースネックは大型フレンチプレスへの注入がやや遅いという声あり。",
     },
+    price: "$179.95",
     links: [
       { network: "moshimo", productId: "rakuten-breville-bke820xl-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville+BKE820XL+%E3%82%B1%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
@@ -5544,6 +5770,7 @@ const RAW_CATALOG = [
   {
     id: "fellow-stagg-ekg-kettle",
     imageUrl: "https://image.biccamera.com/img/00000014129017_A01.jpg",
+    price: "$199.95",
     category: "food",
     badge: "☕",
     name: { en: "Fellow Stagg EKG Electric Pour-Over Kettle", ja: "Fellow Stagg EKG 電気ポアオーバーケトル" },
@@ -5557,7 +5784,9 @@ const RAW_CATALOG = [
   },
   {
     id: "cuisinart-cpk17-kettle",
+    imageUrl: "https://m.media-amazon.com/images/P/B08CYBHW8K.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$74.95",
     badge: "⚙️",
     name: { en: "Cuisinart CPK-17 PerfecTemp Cordless Kettle", ja: "Cuisinart CPK-17 PerfecTemp コードレスケトル" },
     description: {
@@ -5578,6 +5807,7 @@ const RAW_CATALOG = [
       en: "1.7L programmable electric kettle with 5 temperature presets (160°F/71°C, 175°F/79°C, 185°F/85°C, 190°F/88°C, 212°F/100°C) and 30-minute keep-warm. Budget-friendly entry point under $30. Plastic interior lid has a small aroma impact on first uses; standard wide spout, not gooseneck; keep-warm limited to 30 minutes; plastic cord base.",
       ja: "1.7Lプログラマブル電気ケトル。5段階温度プリセット(71°C・79°C・85°C・88°C・100°C)と30分間保温機能付き。3,000円台のコスパ最強入門モデル。プラスチック内蓋が初回使用時に若干香りに影響；標準ワイドスパウト(グースネックなし)；保温30分間限定；プラスチックコードベース。",
     },
+    price: "$34.95",
     links: [
       { network: "moshimo", productId: "rakuten-hamilton-beach-40880-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHamilton+Beach+40880+%E3%82%B1%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
@@ -5592,6 +5822,7 @@ const RAW_CATALOG = [
       en: "4.0L vacuum-insulated electric thermos boiler with 3 keep-warm temperature settings (70°C, 80°C, 98°C), MICOM (microcomputer) control for precise temperature maintenance, and VE insulation that cuts electricity use by up to 84% versus conventional electric pots. Designed to sit on a counter permanently — boil once, dispense hot water on demand all day. Larger 4L capacity is intended for families or offices, not single-serve brewing; heavy at 3.3 kg empty; higher upfront cost; not a kettle in the traditional sense but a hot water dispenser.",
       ja: "4.0L真空断熱VE電気まほうびん。3段階保温温度(70°C・80°C・98°C)、正確な温度管理のMICOM(マイコン)制御、従来型電気ポットより最大84%の省エネVE断熱機能付き。カウンターに常設して1日中お湯を出し続ける設計。4Lは家庭またはオフィス向け(一人用ブリューには過剰)；空でも3.3kgの重さ；初期費用高め；従来のケトルというより給湯器。",
     },
+    price: "$229.99",
     links: [
       { network: "moshimo", productId: "rakuten-zojirushi-cv-dcc40-kettle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%B1%A1%E5%8D%B0+CV-DCC40%2F", markets: ["JP"], approved: true },
     ],
@@ -5607,6 +5838,7 @@ const RAW_CATALOG = [
       en: "Set of 5 color-coded 12-inch mini latex loop bands: yellow (2–4 lbs / 0.9–1.8 kg), red (4–6 lbs / 1.8–2.7 kg), black (10–12 lbs / 4.5–5.4 kg), purple (15–20 lbs / 6.8–9.1 kg), blue (25–30 lbs / 11.3–13.6 kg). Designed primarily for glute work, lateral band walks, clamshells, and warm-up activation. Mini-loop form limits upper-body pressing range of motion; latex construction excludes latex-allergy users; lower resistance ceiling than full-length tube bands.",
       ja: "5色カラーコード付き12インチミニラテックスループバンド5本セット：黄（2〜4ポンド/0.9〜1.8kg）、赤（4〜6ポンド/1.8〜2.7kg）、黒（10〜12ポンド/4.5〜5.4kg）、紫（15〜20ポンド/6.8〜9.1kg）、青（25〜30ポンド/11.3〜13.6kg）。臀部トレーニング、サイドウォーク、クラムシェル、ウォームアップアクティベーションに最適。ミニループ形状は上半身プレス可動域を制限；ラテックス構造のためラテックスアレルギー使用者には不向き；フルレングスチューブバンドと比較してより低い最大抵抗。",
     },
+    price: "$13.99",
     links: [
       { network: "amazon-us", productId: "B01AVDVHTI", rawUrl: "https://www.amazon.com/dp/B01AVDVHTI", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-fit-simplify-loop-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFit+Simplify+%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
@@ -5622,6 +5854,7 @@ const RAW_CATALOG = [
       en: "Stackable resistance tube set capable of combining up to 96 lbs (43.5 kg) total resistance. Includes door anchor, foam handles, and ankle straps. Individual tubes: 3 lbs (1.4 kg), 5 lbs (2.3 kg), 8 lbs (3.6 kg), 13 lbs (5.9 kg), 19 lbs (8.6 kg), 23 lbs (10.4 kg), 25 lbs (11.3 kg). Anti-snap technology with internal safety cord. Stack math means nominal resistance at the handle depends on anchor point and exercise angle — stated lbs not equivalent to dumbbell lbs at slow eccentric speed.",
       ja: "最大96ポンド（43.5kg）まで組み合わせ可能なスタッカブルチューブバンドセット。ドアアンカー、フォームハンドル、アンクルストラップ付属。個別チューブ：3ポンド（1.4kg）・5ポンド（2.3kg）・8ポンド（3.6kg）・13ポンド（5.9kg）・19ポンド（8.6kg）・23ポンド（10.4kg）・25ポンド（11.3kg）。内部セーフティコードによるアンチスナップテクノロジー搭載。スタック時の実効抵抗はアンカー位置とエクササイズ角度に依存するため、表示ポンドはダンベルの同重量と同等ではない。",
     },
+    price: "$59.99",
     links: [
       { network: "amazon-us", productId: "B00YJHJZKA", rawUrl: "https://www.amazon.com/dp/B00YJHJZKA", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-bodylastics-tube-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBodylastics+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
@@ -5630,6 +5863,8 @@ const RAW_CATALOG = [
   {
     id: "whatafit-resistance-bands",
     imageUrl: "https://m.media-amazon.com/images/I/51VUPssurQL.jpg",
+    priceMin: "$21",
+    priceMax: "$28",
     category: "fitness",
     badge: "🏋️",
     name: { en: "Whatafit Resistance Bands Set", ja: "Whatafit レジスタンスバンドセット" },
@@ -5645,6 +5880,8 @@ const RAW_CATALOG = [
   {
     id: "theraband-flat-bands",
     imageUrl: "https://m.media-amazon.com/images/I/41M43ZzR4sL._SL500_.jpg",
+    priceMin: "$20",
+    priceMax: "$50",
     category: "fitness",
     badge: "🩺",
     name: { en: "TheraBand Resistance Bands", ja: "セラバンド レジスタンスバンド" },
@@ -5659,7 +5896,9 @@ const RAW_CATALOG = [
   },
   {
     id: "wodskai-pullup-bands",
+    imageUrl: "https://m.media-amazon.com/images/I/71H43FU9tCL._AC_SL1000_.jpg",
     category: "fitness",
+    price: "$19",
     badge: "🏅",
     name: { en: "WODSKAI Pull-Up Assistance Bands", ja: "WODSKAI プルアップアシストバンド" },
     description: {
@@ -5682,6 +5921,7 @@ const RAW_CATALOG = [
       en: "Alexa smart speaker with 360-degree sound, built-in Zigbee smart home hub, and Thread/Matter support. 3.0-inch woofer with dual tweeters. Compact spherical design. Supports Amazon Music, Spotify, Apple Music, and most streaming services. Functions as a smart home hub for Zigbee devices without a separate hub purchase.",
       ja: "360度サウンド、Zigbeeスマートホームハブ内蔵、Thread/Matter対応のAlexa搭載スマートスピーカー。3インチウーファーとデュアルツイーター搭載。コンパクトな球体デザイン。Amazon Music・Spotify・Apple Musicなど主要ストリーミングサービスに対応。別途ハブなしでZigbeeデバイスのスマートホームハブとして機能。",
     },
+    price: "$64.99",
     links: [
       { network: "amazon-us", productId: "B07XKT98ST", rawUrl: "https://www.amazon.com/dp/B07XKT98ST", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-amazon-echo-4th-gen", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazon+Echo+%E7%AC%AC4%E4%B8%96%E4%BB%A3%2F", markets: ["JP"], approved: true },
@@ -5697,6 +5937,7 @@ const RAW_CATALOG = [
       en: "Google Assistant smart speaker with 75 mm woofer and 19 mm tweeter. Rich, warm sound profile with strong mid-range clarity. Deep integration with Google Search, YouTube Music, and Spotify. Best voice assistant for search-type queries and follow-up questions in natural conversation. Supports multi-room audio with other Cast-compatible speakers.",
       ja: "75mmウーファーと19mmツイーター搭載のGoogleアシスタント内蔵スマートスピーカー。豊かで温かみのあるサウンドプロファイルと優れた中音域。Google検索・YouTube Music・Spotifyと深く連携。検索系のクエリや文脈を引き継いだ追加質問に最も優れた音声アシスタント。他のCast対応スピーカーとマルチルーム再生に対応。",
     },
+    price: "$79.99",
     links: [
       { network: "amazon-us", productId: "B08C7QTTJ8", rawUrl: "https://www.amazon.com/dp/B08C7QTTJ8", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-google-nest-audio", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGoogle+Nest+Audio%2F", markets: ["JP"], approved: true },
@@ -5712,6 +5953,7 @@ const RAW_CATALOG = [
       en: "Siri smart speaker with 4-inch high-excursion woofer and five tweeters. Real-time room-correction Spatial Audio processing adapts EQ to placement in any room. Thread border router and HomeKit hub built-in. Hardware microphone mute button. Requires Apple Music for full audio quality. iPhone/iPad required for setup. Best privacy default in class — Siri requests linked to random identifier, not Apple ID.",
       ja: "4インチ大口径ウーファーと5基のツイーター搭載のSiri内蔵スマートスピーカー。リアルタイム室内補正の空間オーディオ処理がどの設置場所でもEQを最適化。Thread境界ルーターとHomekitハブ内蔵。ハードウェアマイクミュートボタン搭載。フルオーディオ品質にはApple Musicが必要。設定にはiPhone/iPadが必須。クラス最高のプライバシー設定——SiriリクエストはApple IDではなくランダム識別子に紐づく。",
     },
+    price: "$299.00",
     links: [
       { network: "amazon-us", productId: "B0BSHF7WHD", rawUrl: "https://www.amazon.com/dp/B0BSHF7WHD", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-apple-homepod-2nd-gen", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple+HomePod+%E7%AC%AC2%E4%B8%96%E4%BB%A3%2F", markets: ["JP"], approved: true },
@@ -5727,6 +5969,7 @@ const RAW_CATALOG = [
       en: "Amazon's hi-fi smart speaker with five drivers: one 5.25-inch woofer, two 2-inch midrange drivers, one front-facing tweeter, and one upward-firing tweeter for Dolby Atmos ceiling reflection. 330W peak output. Automatic room adaptation. Full Alexa ecosystem with the same smart home integrations as Echo 4th Gen but without the Zigbee hub radio. Best Amazon speaker for music listening.",
       ja: "5基のドライバー（5.25インチウーファー×1、2インチミッドレンジ×2、フロントツイーター×1、Dolby Atmos天井反射用上向きツイーター×1）搭載のAmazonハイファイスマートスピーカー。330Wのピーク出力。自動室内適応機能。Echo第4世代と同じスマートホーム連携を持つフルAlexaエコシステムだがZigbeeハブラジオはなし。音楽リスニングに最適なAmazonスピーカー。",
     },
+    price: "$219.99",
     links: [
       { network: "amazon-us", productId: "B07G9Y3ZMC", rawUrl: "https://www.amazon.com/dp/B07G9Y3ZMC", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-amazon-echo-studio", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazon+Echo+Studio%2F", markets: ["JP"], approved: true },
@@ -5742,6 +5985,7 @@ const RAW_CATALOG = [
       en: "Premium smart speaker with two tweeters angled outward at 70 degrees for wide stereo imaging, plus a single woofer. Trueplay acoustic tuning (iOS and Android) measures room acoustics and adjusts EQ automatically. Works with Alexa and Google Assistant via voice forwarding, plus AirPlay 2. Platform-agnostic: compatible with Spotify, Apple Music, Amazon Music, Tidal, and more. No native voice assistant. Best audio quality in the comparison for non-Apple-ecosystem buyers.",
       ja: "70度外向きに配置されたデュアルツイーターと単一ウーファーによる広いステレオイメージを持つプレミアムスマートスピーカー。Trueplay音響調整（iOS・Android対応）が室内音響を計測して自動EQ最適化。音声転送でAlexaとGoogleアシスタントに対応し、AirPlay 2もサポート。プラットフォーム非依存：Spotify・Apple Music・Amazon Music・Tidalなどに対応。固有の音声アシスタントはなし。Apple以外のエコシステムのユーザーにはこの比較で最高の音質。",
     },
+    price: "$219.00",
     links: [
       { network: "amazon-us", productId: "B09JKN4NXY", rawUrl: "https://www.amazon.com/dp/B09JKN4NXY", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-sonos-era-100", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSonos+Era+100%2F", markets: ["JP"], approved: true },
@@ -5749,11 +5993,11 @@ const RAW_CATALOG = [
   },
   { id: "cerave-hydrating-cleanser", imageUrl: "https://static.thcdn.com/productimg/original/12901351-2065306463117549.jpg", category: "beauty", name: { en: "CeraVe Hydrating Facial Cleanser", ja: "CeraVe モイスチャライジングクレンザー" }, description: { en: "Non-foaming cleanser with ceramides for dry/normal skin.", ja: "セラミド配合の非泡立てクレンザー。乾燥肌・普通肌向け。" }, links: [
       { network: "amazon-us", productId: "B01MSSDEPK", rawUrl: "https://www.amazon.com/dp/B01MSSDEPK", markets: ["US"], approved: true },{ network: "moshimo", productId: "rakuten-cerave-hydrating-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCeraVe+%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true }] },
-  { id: "laroche-posay-toleriane-cleanser", category: "beauty", name: { en: "La Roche-Posay Toleriane Gentle Cleanser", ja: "ラロッシュポゼ トレリアンクレンザー" }, description: { en: "Ultra-gentle cleanser for sensitive and rosacea-prone skin.", ja: "敏感肌・ロゼーシア肌向けの超マイルドクレンザー。" }, links: [{ network: "moshimo", productId: "rakuten-laroche-posay-toleriane-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC+%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true }] },
-  { id: "cetaphil-gentle-cleanser", category: "beauty", name: { en: "Cetaphil Gentle Skin Cleanser", ja: "セタフィル ジェントルクレンザー" }, description: { en: "70-year classic ultra-mild cleanser, fragrance-free.", ja: "70年のロングセラー超低刺激クレンザー。無香料。" }, links: [{ network: "moshimo", productId: "rakuten-cetaphil-gentle-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCetaphil+%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true }] },
-  { id: "paulas-choice-foaming-cleanser", category: "beauty", name: { en: "Paula's Choice RESIST Foaming Cleanser", ja: "ポーラスチョイス フォーミングクレンザー" }, description: { en: "SLS-free foaming cleanser for oily and combination skin.", ja: "オイリー・混合肌向けSLSフリー泡洗顔料。" }, links: [
+  { id: "laroche-posay-toleriane-cleanser", imageUrl: "https://m.media-amazon.com/images/I/911Y9P7RWML._SL1500_.jpg", category: "beauty", name: { en: "La Roche-Posay Toleriane Gentle Cleanser", ja: "ラロッシュポゼ トレリアンクレンザー" }, description: { en: "Ultra-gentle cleanser for sensitive and rosacea-prone skin.", ja: "敏感肌・ロゼーシア肌向けの超マイルドクレンザー。" }, links: [{ network: "moshimo", productId: "rakuten-laroche-posay-toleriane-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC+%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true }] },
+  { id: "cetaphil-gentle-cleanser", imageUrl: "https://m.media-amazon.com/images/I/81mHbJoiFxL._SL1500_.jpg", category: "beauty", name: { en: "Cetaphil Gentle Skin Cleanser", ja: "セタフィル ジェントルクレンザー" }, description: { en: "70-year classic ultra-mild cleanser, fragrance-free.", ja: "70年のロングセラー超低刺激クレンザー。無香料。" }, links: [{ network: "moshimo", productId: "rakuten-cetaphil-gentle-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCetaphil+%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true }] },
+  { id: "paulas-choice-foaming-cleanser", imageUrl: "https://m.media-amazon.com/images/I/61VqBFP1hKL._SL1500_.jpg", category: "beauty", name: { en: "Paula's Choice RESIST Foaming Cleanser", ja: "ポーラスチョイス フォーミングクレンザー" }, description: { en: "SLS-free foaming cleanser for oily and combination skin.", ja: "オイリー・混合肌向けSLSフリー泡洗顔料。" }, links: [
       { network: "amazon-us", productId: "B00NVKXB20", rawUrl: "https://www.amazon.com/dp/B00NVKXB20", markets: ["US"], approved: true },{ network: "moshimo", productId: "rakuten-paulas-choice-foaming-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9D%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%81%E3%83%A7%E3%82%A4%E3%82%B9+%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true }] },
-  { id: "tatcha-rice-wash", category: "beauty", name: { en: "Tatcha The Rice Wash", ja: "タッチャ ライスウォッシュ" }, description: { en: "Soft milky cleanser with rice bran for brightening.", ja: "米ぬか配合のやわらかミルク洗顔料。明るさ改善効果。" }, links: [
+  { id: "tatcha-rice-wash", imageUrl: "https://m.media-amazon.com/images/I/31IWYJhiUmL._SL1000_.jpg", category: "beauty", name: { en: "Tatcha The Rice Wash", ja: "タッチャ ライスウォッシュ" }, description: { en: "Soft milky cleanser with rice bran for brightening.", ja: "米ぬか配合のやわらかミルク洗顔料。明るさ改善効果。" }, links: [
       { network: "amazon-us", productId: "B01MSLQTNP", rawUrl: "https://www.amazon.com/dp/B01MSLQTNP", markets: ["US"], approved: true },{ network: "moshimo", productId: "rakuten-tatcha-rice-wash", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%83%E3%83%81%E3%83%A3+%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5%2F", markets: ["JP"], approved: true }] },
   {
     id: "soundasleep-dream-series",
@@ -5764,6 +6008,7 @@ const RAW_CATALOG = [
       en: "Double-height air mattress with 40 ComfortCoil internal coils for even support across the sleeping surface. Built-in auto-pump inflates in under 4 minutes. The coil count is the highest in the mid-range category and makes the firmness more consistent than cheaper single-chamber alternatives.",
       ja: "40本のComfortCoil内部コイルを搭載したダブルハイエアーマットレス。就寝面全体に均一なサポートを提供。内蔵オートポンプで4分以内に膨らむ。中価格帯でコイル数最多で、安価なシングルチャンバー製品より一貫した硬さを実現。",
     },
+    price: "$149.95",
     links: [
       { network: "amazon-us", productId: "B00BMHGKBS", rawUrl: "https://www.amazon.com/dp/B00BMHGKBS", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-soundasleep-dream-series", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSoundAsleep+Dream+Series+Air+Mattress%2F", markets: ["JP"], approved: true },
@@ -5778,6 +6023,7 @@ const RAW_CATALOG = [
       en: "Budget-friendly air mattress with fiber-tech internal construction — thousands of polyester fibers connect the top and bottom layers, reducing the barrel-bulge that plagues basic air mattresses. Built-in electric pump. The most widely available air mattress in Japan through Rakuten and Amazon.",
       ja: "ファイバーテック内部構造採用のコスパ重視エアーマットレス。数千本のポリエステル繊維が上下層を連結し、基本的なエアーマットレスに多い側面の膨らみを軽減。内蔵電動ポンプ付き。楽天・Amazonで最も流通量の多いエアーマットレス。",
     },
+    price: "$73.04",
     links: [
       { network: "amazon-us", productId: "B0090RRHJQ", rawUrl: "https://www.amazon.com/dp/B0090RRHJQ", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-intex-dura-beam-deluxe", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIntex+Dura-Beam+Deluxe+Air+Mattress%2F", markets: ["JP"], approved: true },
@@ -5792,6 +6038,7 @@ const RAW_CATALOG = [
       en: "Double-high guest air mattress from Coleman with a comfort-mapped sleeping surface. Raised height makes it easy to get in and out of. Coleman's brand recognition in Japan's outdoor market means this model is available in outdoor retailers alongside camping equipment, unusual for an indoor-use guest mattress.",
       ja: "コンフォートマップ加工の就寝面を持つコールマンのダブルハイ来客用エアーマットレス。高さがあり乗り降りしやすい。日本のアウトドア市場でのコールマンのブランド認知度が高く、室内用来客マットレスとしては珍しくアウトドア用品店でも取り扱いがある。",
     },
+    price: "$89.99",
     links: [
       { network: "amazon-us", productId: "B002USQZH6", rawUrl: "https://www.amazon.com/dp/B002USQZH6", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-coleman-supportrest-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FColeman+SupportRest+Plus+Air+Mattress%2F", markets: ["JP"], approved: true },
@@ -5806,6 +6053,7 @@ const RAW_CATALOG = [
       en: "Hotel-grade air mattress with a built-in soft pillow top and integrated electric pump. The pillow top is stitched rather than glued and adds 5 cm of cushioning over the air chamber. Weight capacity rated at 500 lbs (227 kg), the highest in this comparison. Designed for couples or regular guest use.",
       ja: "内蔵電動ポンプ付きのホテルグレードエアーマットレス。ソフトピロートップはステッチ加工（接着剤不使用）で、エアチャンバーの上に5cmのクッションを追加。耐荷重は227kg（500ポンド）で本比較中最高。カップルや常連ゲスト用途向け。",
     },
+    price: "$118.95",
     links: [
       { network: "amazon-us", productId: "B08LF9M7KL", rawUrl: "https://www.amazon.com/dp/B08LF9M7KL", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-king-koil-luxury-air-mattress", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKing+Koil+Luxury+Air+Mattress%2F", markets: ["JP"], approved: true },
@@ -5820,6 +6068,7 @@ const RAW_CATALOG = [
       en: "Camping-grade air mattress designed for outdoor use: lightweight PVC construction, manual valve system compatible with standard camping pumps, no electricity required. Rolls down to a compact carry bag. Weight is roughly half that of double-high indoor mattresses. Primary use case is tent camping where electrical outlets are unavailable.",
       ja: "アウトドア向けキャンプグレードエアーマットレス。軽量PVC素材、標準キャンプポンプ対応の手動バルブシステム、電源不要。コンパクトな収納袋に収納可能。重量はダブルハイ室内マットレスのほぼ半分。電源がないテントキャンプが主な用途。",
     },
+    price: "$134.73",
     links: [
       { network: "amazon-us", productId: "B003AIIB1G", rawUrl: "https://www.amazon.com/dp/B003AIIB1G", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-alps-mountaineering-lightweight", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FALPS+Mountaineering+Lightweight+Air+Bed%2F", markets: ["JP"], approved: true },
@@ -5828,12 +6077,12 @@ const RAW_CATALOG = [
   // ───────── Fitness / Protein Shakers (best-protein-shaker-2026) ─────────
   { id: "blenderbottle-classic-v2", imageUrl: "https://www.blenderbottle.com/cdn/shop/files/Classic_V2_Black_Angled-400x600-426df4e_1.png?v=1762439978&width=600", category: "fitness", name: { en: "BlenderBottle Classic V2 Shaker Bottle", ja: "BlenderBottle クラシック V2 シェイカーボトル" }, description: { en: "28oz wire whisk ball shaker with click-lock flip-top lid and smooth BPA-free polypropylene interior. Industry-standard design with 316 stainless steel BlenderBall. Top-rack dishwasher safe.", ja: "ワイヤーボール式28ozシェイカー。カチッとロックするフリップトップ蓋、BPA不使用スムーズ内面ポリプロピレン。316ステンレス製ブレンダーボール採用の業界標準設計。上段食洗機対応。" }, links: [
       { network: "amazon-us", productId: "B01LX3S7TM", rawUrl: "https://www.amazon.com/dp/B01LX3S7TM", markets: ["US"], approved: true },{ network: "moshimo", productId: "rakuten-blenderbottle-classic-v2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBlenderBottle+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
-  { id: "hydra-cup-dual-shaker", category: "fitness", name: { en: "Hydra Cup Dual Shaker Bottle", ja: "Hydra Cup デュアルシェイカーボトル" }, description: { en: "Two full-size mixing cups in one unit — separate pre-workout and post-workout compartments, each with a wire whisk ball. For lifters who need both supplements on the same gym trip.", ja: "2つのフルサイズ混合カップが一体化。プレワークアウトとポストワークアウトを別コンパートメントに保管し、それぞれにワイヤーボール付き。同一セッションで両補給を行うリフター向け。" }, links: [
+  { id: "hydra-cup-dual-shaker", imageUrl: "https://m.media-amazon.com/images/P/B011WKK49I.01._SCLZZZZZZZ_.jpg", category: "fitness", name: { en: "Hydra Cup Dual Shaker Bottle", ja: "Hydra Cup デュアルシェイカーボトル" }, description: { en: "Two full-size mixing cups in one unit — separate pre-workout and post-workout compartments, each with a wire whisk ball. For lifters who need both supplements on the same gym trip.", ja: "2つのフルサイズ混合カップが一体化。プレワークアウトとポストワークアウトを別コンパートメントに保管し、それぞれにワイヤーボール付き。同一セッションで両補給を行うリフター向け。" }, links: [
       { network: "amazon-us", productId: "B01D6JWKSE", rawUrl: "https://www.amazon.com/dp/B01D6JWKSE", markets: ["US"], approved: true },{ network: "moshimo", productId: "rakuten-hydra-cup-dual-shaker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHydra+Cup+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
-  { id: "umoro-one-shaker", category: "fitness", name: { en: "Umoro One 2-in-1 Shaker Bottle", ja: "Umoro One 2-in-1 シェイカーボトル" }, description: { en: "Hidden water/supplement compartment built into the base — keeps the form factor of a standard single shaker while adding a ~150ml secondary chamber for pre-workout concentrate or dry creatine.", ja: "底部に隠し収納コンパートメントを内蔵。標準シェイカーに近いサイズを保ちながら、プレワークアウト濃縮液や乾燥クレアチン用に約150mlのセカンダリーチャンバーを追加。" }, links: [{ network: "moshimo", productId: "rakuten-umoro-one-shaker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUmoro+One+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
-  { id: "smartshake-original", category: "fitness", name: { en: "Smartshake Original Shaker Bottle", ja: "Smartshake オリジナル シェイカーボトル" }, description: { en: "Three-compartment shaker: 600ml main mixing cup with disc agitator, mid-section powder storage for one pre-measured serving, and a base pill compartment for 5-8 capsules. Modular design for supplement stacking.", ja: "3コンパートメント設計：600mlメインカップ（ディスクアジテーター）、計量済み1服分のパウダー収納、5〜8粒対応のピルコンパートメント。サプリメントスタッキング向けモジュラー設計。" }, links: [
+  { id: "umoro-one-shaker", imageUrl: "https://m.media-amazon.com/images/P/B00NY3OHYA.01._SCLZZZZZZZ_.jpg", category: "fitness", name: { en: "Umoro One 2-in-1 Shaker Bottle", ja: "Umoro One 2-in-1 シェイカーボトル" }, description: { en: "Hidden water/supplement compartment built into the base — keeps the form factor of a standard single shaker while adding a ~150ml secondary chamber for pre-workout concentrate or dry creatine.", ja: "底部に隠し収納コンパートメントを内蔵。標準シェイカーに近いサイズを保ちながら、プレワークアウト濃縮液や乾燥クレアチン用に約150mlのセカンダリーチャンバーを追加。" }, links: [{ network: "moshimo", productId: "rakuten-umoro-one-shaker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUmoro+One+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
+  { id: "smartshake-original", imageUrl: "https://m.media-amazon.com/images/P/B07DJ2H9J5.01._SCLZZZZZZZ_.jpg", category: "fitness", name: { en: "Smartshake Original Shaker Bottle", ja: "Smartshake オリジナル シェイカーボトル" }, description: { en: "Three-compartment shaker: 600ml main mixing cup with disc agitator, mid-section powder storage for one pre-measured serving, and a base pill compartment for 5-8 capsules. Modular design for supplement stacking.", ja: "3コンパートメント設計：600mlメインカップ（ディスクアジテーター）、計量済み1服分のパウダー収納、5〜8粒対応のピルコンパートメント。サプリメントスタッキング向けモジュラー設計。" }, links: [
       { network: "amazon-us", productId: "B00GLRFWB0", rawUrl: "https://www.amazon.com/dp/B00GLRFWB0", markets: ["US"], approved: true },{ network: "moshimo", productId: "rakuten-smartshake-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSmartshake+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
-  { id: "contigo-shake-go", category: "fitness", name: { en: "Contigo Shake & Go Fit Shaker Bottle", ja: "Contigo シェイク＆ゴー フィット シェイカーボトル" }, description: { en: "Wide-base vortex-mixing design with no blender ball — autoseal push-button lid closes automatically after each drink. Stable counter mixing, no rattling between shakes. Full lid disassembly required before dishwasher cycling.", ja: "ワイドベース渦流混合設計でブレンダーボール不要。オートシールプッシュボタン蓋が飲む度に自動で閉まる。カウンター上でのシェイクに安定感あり、シェイク間にカチカチ音なし。食洗機前にフタの完全分解が必要。" }, links: [
+  { id: "contigo-shake-go", imageUrl: "https://m.media-amazon.com/images/P/B00LX6VHM0.01._SCLZZZZZZZ_.jpg", category: "fitness", name: { en: "Contigo Shake & Go Fit Shaker Bottle", ja: "Contigo シェイク＆ゴー フィット シェイカーボトル" }, description: { en: "Wide-base vortex-mixing design with no blender ball — autoseal push-button lid closes automatically after each drink. Stable counter mixing, no rattling between shakes. Full lid disassembly required before dishwasher cycling.", ja: "ワイドベース渦流混合設計でブレンダーボール不要。オートシールプッシュボタン蓋が飲む度に自動で閉まる。カウンター上でのシェイクに安定感あり、シェイク間にカチカチ音なし。食洗機前にフタの完全分解が必要。" }, links: [
       { network: "amazon-us", productId: "B00YCHRV1G", rawUrl: "https://www.amazon.com/dp/B00YCHRV1G", markets: ["US"], approved: true },{ network: "moshimo", productId: "rakuten-contigo-shake-go", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FContigo+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
   // ───────── Home / Ergonomic Footrests (best-ergonomic-footrest-2026) ─────────
   {
@@ -5845,6 +6094,7 @@ const RAW_CATALOG = [
       en: "Rocking motion footrest with a curved base that produces a 20-degree forward-to-back arc. Non-slip textured surface prevents sliding during movement. 43 cm wide platform fits under standard desks. No height adjustment — the rocking range is fixed.",
       ja: "湾曲底面が前後約20度のアークを生み出すロッキング動作フットレスト。滑り止めテクスチャー表面が動作中の足の滑りを防止。幅43cmで標準デスク下に収まる。高さ調節なし、ロッキング幅は固定。",
     },
+    price: "$49.99",
     links: [
       { network: "amazon-us", productId: "B009OOOKHM", rawUrl: "https://www.amazon.com/dp/B009OOOKHM", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-fellowes-foot-rocker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88+%E3%83%AD%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
@@ -5859,6 +6109,7 @@ const RAW_CATALOG = [
       en: "Four-position adjustable footrest with height range of 10-15 cm and matching tilt. Massage-bump non-slip surface across the top platform. 45 cm wide. The SmartFit color-coding system guides height selection based on hand measurement.",
       ja: "高さ10〜15cmの4段階調節フットレスト。連動する傾斜角変更が可能。マッサージバンプ付き滑り止め表面、幅45cm。スマートフィットカラーコーディングシステムで手のひら計測から適切な高さを案内。",
     },
+    price: "$57.99",
     links: [
       { network: "amazon-us", productId: "B00009KFK0", rawUrl: "https://www.amazon.com/dp/B00009KFK0", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-kensington-smartfit-footrest", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B1%E3%83%B3%E3%82%B8%E3%83%B3%E3%83%88%E3%83%B3+%E3%83%95%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
@@ -5867,6 +6118,7 @@ const RAW_CATALOG = [
   {
     id: "mind-reader-footrest",
     imageUrl: "https://mindreaderproducts.com/cdn/shop/files/FTROLL-BLK_01.jpg?v=1747237948&width=1946",
+    price: "$25",
     category: "home",
     name: { en: "Mind Reader Ergonomic Foot Rest Platform", ja: "マインドリーダー エルゴノミクス フットレスト プラットフォーム" },
     description: {
@@ -5887,6 +6139,7 @@ const RAW_CATALOG = [
       en: "Memory foam top surface that conforms to foot shape, distributing pressure across the arch and heel rather than concentrating it on the ball of the foot. Fixed approximately 18-degree tilt. Removable and washable cover. Best for barefoot or thin-slipper home-office use.",
       ja: "足の形状に馴染むメモリーフォームトップ表面。圧力を足裏全体に分散し、足の指の付け根への集中を防ぐ。傾斜約18度固定。カバーは取り外し洗濯可能。素足・薄いスリッパでのホームオフィス使用に最適。",
     },
+    price: "$29.99",
     links: [
       { network: "amazon-us", productId: "B07RS18YW4", rawUrl: "https://www.amazon.com/dp/B07RS18YW4", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-everlasting-comfort-footrest", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0+%E3%83%95%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
@@ -5901,6 +6154,7 @@ const RAW_CATALOG = [
       en: "Professional-grade continuously adjustable footrest with height range of 6.5-15 cm and smooth locking mechanism. Slightly curved top surface accommodates natural foot position. 47 cm wide platform. Built to Humanscale's professional ergonomics standard — intended as a long-term workstation investment.",
       ja: "高さ6.5〜15cmの無段階調節と滑らかなロック機構を持つプロフェッショナルグレードフットレスト。足の自然な位置に合わせた緩やかなカーブトップ表面、幅47cmプラットフォーム。Humanscaleのプロフェッショナルエルゴノミクス基準で設計された長期ワークステーション投資向け製品。",
     },
+    price: "$150.00",
     links: [
       { network: "moshimo", productId: "rakuten-humanscale-fm300", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHumanscale+FM300+%E3%83%95%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
@@ -5915,6 +6169,7 @@ const RAW_CATALOG = [
       en: "Auto-shutoff at 10 hours, 20 heat settings, machine washable with controller attached, dual-zone option for couples.",
       ja: "10時間オートオフ、20段階調節、コントローラー取り付けたまま丸洗い可能、カップル向けデュアルゾーンオプションあり。",
     },
+    price: "$144.05",
     links: [
       { network: "amazon-us", productId: "B09TXNRKL5", rawUrl: "https://www.amazon.com/dp/B09TXNRKL5", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-beautyrest-electric-blanket", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBeautyrest%25E9%259B%25BB%25E6%25B0%2597%25E6%25AF%259B%25E5%25B8%2583%2F", markets: ["JP"], approved: true },
@@ -5923,6 +6178,8 @@ const RAW_CATALOG = [
   {
     id: "sunbeam-microplush-heated-blanket",
     imageUrl: "https://www.sunbeamhome.com/images/virtuemart/product/13705_Main.jpg",
+    priceMin: "$49.99",
+    priceMax: "$109.99",
     category: "home",
     name: { en: "Sunbeam MicroPlush Heated Blanket", ja: "サンビーム マイクロプラッシュ 電気毛布" },
     description: {
@@ -5943,6 +6200,7 @@ const RAW_CATALOG = [
       en: "Budget-friendly electric blanket with 10 heat settings, auto-shutoff, and machine-washable body once controller is detached. Core warmth function without premium pricing.",
       ja: "10段階調節・オートオフ・コントローラーを取り外せば丸洗い可能なコスパ重視の電気毛布。プレミアム価格なしの基本的な温かさ機能。",
     },
+    price: "$67.45",
     links: [
       { network: "amazon-us", productId: "B0C5TBYXB3", rawUrl: "https://www.amazon.com/dp/B0C5TBYXB3", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-biddeford-electric-blanket", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBiddeford%25E9%259B%25BB%25E6%25B0%2597%25E6%25AF%259B%25E5%25B8%2583%2F", markets: ["JP"], approved: true },
@@ -5951,6 +6209,8 @@ const RAW_CATALOG = [
   {
     id: "serta-fleece-electric-blanket",
     imageUrl: "https://cozywinters.com/graphics/00000001/serta-plush-electric-blanket-LG_A_190x190.jpg",
+    priceMin: "$49.99",
+    priceMax: "$79.99",
     category: "home",
     name: { en: "Serta Plush Fleece Electric Heated Blanket", ja: "サータ プラッシュフリース 電気毛布" },
     description: {
@@ -5971,6 +6231,7 @@ const RAW_CATALOG = [
       en: "Under-body heated pad that goes between the mattress and sleeper — radiant heat from below, compatible with any bedding, no blanket weight on top, lower wattage than over-blankets.",
       ja: "マットレスと寝ている人の間に置く敷き型加熱パッド。体の下からの輻射熱、既存の寝具対応、上に毛布の重みなし、掛け毛布より低消費電力の敷き毛布タイプ。",
     },
+    price: "$1,450.00",
     links: [
       { network: "moshimo", productId: "rakuten-perfect-sleep-pad", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%259B%25BB%25E6%25B0%2597%25E6%2595%25B7%25E3%2581%258D%25E6%25AF%259B%25E5%25B8%2583%2F", markets: ["JP"], approved: true },
     ],
@@ -5985,6 +6246,7 @@ const RAW_CATALOG = [
       en: "Interchangeable weighted cables (1/4lb + 1/2lb), app-connected for workout tracking, handles sold separately or as a bundle. Distributed cable weight loads shoulders and forearms through each rotation — fundamentally different training stimulus from speed ropes.",
       ja: "交換式ウエイトケーブル（1/4lb・1/2lb）、ワークアウトトラッキング用アプリ連動、ハンドル別売または同梱セットで購入可。分散したケーブル重量が各回転で肩と前腕に負荷——スピードロープとは根本的に異なるトレーニング刺激。",
     },
+    price: "$298.00",
     links: [
       { network: "moshimo", productId: "rakuten-crossrope-get-lean", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%B8%84%E8%B7%B3%E3%81%B3%2F", markets: ["JP"], approved: true },
     ],
@@ -5998,13 +6260,17 @@ const RAW_CATALOG = [
       en: "Competition-grade wire speed rope with precision swivel bearing system. Cut-to-length cable, thin coated wire, industry standard for double under training and CrossFit. Bearings spin 25–40 seconds from a single flick.",
       ja: "精密スイベルベアリングシステム搭載の競技グレードワイヤースピードロープ。カット注文ケーブル、細いコーティングワイヤー、二重跳び練習とクロスフィットの業界標準。ベアリングは一回の弾きで25〜40秒回転。",
     },
+    price: "$65.00",
     links: [
       { network: "moshimo", productId: "rakuten-rx-smart-gear-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E7%B8%84%E8%B7%B3%E3%81%B3%2B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
   {
     id: "harbor-freight-speed-rope",
+    imageUrl: "https://m.media-amazon.com/images/I/61oh3g5B9PL._AC_SL1500_.jpg",
     category: "fitness",
+    priceMin: "$10",
+    priceMax: "$20",
     name: { en: "Harbor Freight Basic Speed Jump Rope", ja: "ハーバーフレイト 基本スピード縄跳び" },
     description: {
       en: "Ultra-budget PVC jump rope under ¥2,000. Basic swivel joint, thick PVC cord, adjustable length clamp. Adequate for beginner rhythm practice and basic cardio. Not suitable for double unders or sustained high-speed work.",
@@ -6016,7 +6282,9 @@ const RAW_CATALOG = [
   },
   {
     id: "survival-and-cross-jump-rope",
+    imageUrl: "https://m.media-amazon.com/images/I/81+eWYsAZZL._AC_SL1500_.jpg",
     category: "fitness",
+    price: "$16",
     name: { en: "Survival and Cross Speed Jump Rope", ja: "サバイバルアンドクロス スピード縄跳び" },
     description: {
       en: "Ball-bearing wire speed rope at budget price point. Sealed ball bearings allow cable to rotate independently of handle, 3mm coated wire cable, adjustable length. Best value upgrade from basic PVC for beginner-to-intermediate speed work.",
@@ -6028,7 +6296,10 @@ const RAW_CATALOG = [
   },
   {
     id: "rpg-jump-rope",
+    imageUrl: "https://m.media-amazon.com/images/I/71mRfjioiIL._AC_SL1500_.jpg",
     category: "fitness",
+    priceMin: "$15",
+    priceMax: "$30",
     name: { en: "RPG Jump Rope Smart Counting Rope", ja: "RPGジャンプロープ スマートカウンティングロープ" },
     description: {
       en: "Smart jump rope with built-in accelerometer counting reps and calories via embedded display in one handle. Functional ball bearings, adjustable length, no smartphone required during session. Slightly heavier handles than pure speed ropes due to electronics.",
@@ -6041,19 +6312,23 @@ const RAW_CATALOG = [
   // ───────── Food / Cold Brew Coffee Makers (best-cold-brew-coffee-maker-2026) ─────────
   {
     id: "toddy-cold-brew-system",
+    imageUrl: "https://m.media-amazon.com/images/P/B0006H0JVW.01._SCLZZZZZZZ_.jpg",
     category: "food",
     name: { en: "Toddy Cold Brew System", ja: "トッディ コールドブリューシステム" },
     description: {
       en: "Classic felt filter immersion system since 1964 — 1.5L batch, 24-hour fridge steep, near-zero sediment concentrate. Glass decanter included.",
       ja: "1964年から続くクラシックなフェルトフィルター浸漬式システム。1.5Lバッチ、24時間冷蔵浸漬、澱ほぼゼロのコンセントレート。ガラスデカンター付属。",
     },
+    price: "$49.99",
     links: [
       { network: "moshimo", productId: "rakuten-toddy-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
   {
     id: "oxo-brew-compact-cold-brewer",
+    imageUrl: "https://m.media-amazon.com/images/P/B07HB3GH6W.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$33.93",
     name: { en: "OXO Brew Compact Cold Brewer", ja: "OXO ブリュー コンパクト コールドブリュワー" },
     description: {
       en: "Slow-drip tower for single-origin expression — 300–400mL per 12–24 hour batch, adjustable drip rate, aluminum carafe. Best for specialty coffee enthusiasts.",
@@ -6066,6 +6341,7 @@ const RAW_CATALOG = [
   {
     id: "filtron-cold-water-brewer",
     category: "food",
+    price: "$39.95",
     name: { en: "Filtron Cold Water Brewer", ja: "フィルトロン コールドウォータービュワー" },
     description: {
       en: "High-capacity immersion cold brew — up to 1.8L water, paper filter insert for zero sediment, functional plastic body. Best for 3–4 person households.",
@@ -6077,24 +6353,28 @@ const RAW_CATALOG = [
   },
   {
     id: "county-line-kitchen-mason-jar",
+    imageUrl: "https://m.media-amazon.com/images/P/B07VJJJ764.01._SCLZZZZZZZ_.jpg",
     category: "food",
     name: { en: "County Line Kitchen Cold Brew Coffee Maker", ja: "カウンティライン・キッチン コールドブリューコーヒーメーカー" },
     description: {
       en: "Stainless mesh basket kit for wide-mouth mason jars — lowest entry cost, scales to 1-gallon batches, metal mesh filter allows some sediment.",
       ja: "ワイドマウスメイソンジャー用ステンレスメッシュバスケットキット。最低コストのエントリー、1ガロンバッチまでスケール可能、金属メッシュフィルターで澱あり。",
     },
+    price: "$28.00",
     links: [
       { network: "moshimo", productId: "rakuten-mason-jar-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E5%87%BA%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
   {
     id: "takeya-cold-brew-coffee-maker",
+    imageUrl: "https://m.media-amazon.com/images/P/B00FFLY64U.01._SCLZZZZZZZ_.jpg",
     category: "food",
     name: { en: "Takeya Cold Brew Coffee Maker", ja: "タケヤ コールドブリューコーヒーメーカー" },
     description: {
       en: "1L glass carafe with fine-mesh lid — fits refrigerator door shelves, no replacement filters needed, daily single-serve brewing at 1:6–1:7 ratio.",
       ja: "細目メッシュ蓋付き1Lガラスカラフ。冷蔵庫ドアポケット収納、交換フィルター不要、1:6〜1:7比率での毎日のシングルサーブ醸造向け。",
     },
+    price: "$22.39",
     links: [
       { network: "moshimo", productId: "rakuten-takeya-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E5%87%BA%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
@@ -6109,6 +6389,7 @@ const RAW_CATALOG = [
       en: "Slow-drip tower for single-origin expression — 32 oz brew chamber, 12–16 oz concentrate per 12–24 hour batch, adjustable drip rate knob, anodized aluminum carafe. Best for specialty coffee enthusiasts who want to taste what drip extraction does with interesting beans.",
       ja: "シングルオリジン向け点滴式タワー。32oz醸造チャンバーで12〜24時間バッチあたり355〜475mLのコンセントレート、調整可能な滴下速度ノブ、陽極酸化アルミニウムカラフ。豆の個性を引き出したいスペシャルティコーヒー愛好家に最適。",
     },
+    price: "$33.93",
     links: [
       { network: "amazon-jp", productId: "B07BHF71KL", rawUrl: "https://www.amazon.co.jp/dp/B07BHF71KL", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07BHF71KL", rawUrl: "https://www.amazon.com/dp/B07BHF71KL", markets: ["US"], approved: true },
@@ -6121,6 +6402,7 @@ const RAW_CATALOG = [
   {
     id: "toddy-cold-brew-home",
     imageUrl: "https://ineffablecoffee.com/cdn/shop/files/cafetera-para-cold-brew-toddy-home-use-system.jpg?v=1746533756&width=1100",
+    price: "$49",
     category: "food",
     name: { en: "Toddy Cold Brew System (Home Model)", ja: "トッディ コールドブリューシステム（ホームモデル）" },
     description: {
@@ -6145,6 +6427,7 @@ const RAW_CATALOG = [
       en: "1.6L borosilicate glass carafe with removable full-length fine-mesh stainless steel filter — no drain assembly, no felt pad conditioning. Steep 16–20 hours in fridge at 1:5–1:6 ratio, remove filter, store concentrate. Dishwasher-safe carafe, rinse-and-dry filter.",
       ja: "着脱式フルレングス細目ステンレスメッシュフィルター付き1.6Lホウケイ酸ガラスカラフ。ドレインアセンブリ不要、フェルトパッドのコンディショニング不要。1:5〜1:6の比率で冷蔵庫に16〜20時間、フィルターを取り出すだけ。食洗機対応カラフ、フィルターはすすぎ・乾燥のみ。",
     },
+    price: "$18.99",
     links: [
       { network: "amazon-jp", productId: "B078NWJZ9C", rawUrl: "https://www.amazon.co.jp/dp/B078NWJZ9C", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B078NWJZ9C", rawUrl: "https://www.amazon.com/dp/B078NWJZ9C", markets: ["US"], approved: true },
@@ -6163,6 +6446,7 @@ const RAW_CATALOG = [
       en: "1L borosilicate glass carafe with dual-layer fine-mesh stainless lid-filter — fits refrigerator door shelves, no replacement filters needed, daily single-serve brewing at 1:6–1:7 ratio. Thicker glass than base model for drop resistance.",
       ja: "デュアルレイヤー細目ステンレスメッシュ蓋フィルター付き1Lホウケイ酸ガラスカラフ。冷蔵庫ドアポケット収納、交換フィルター不要、1:6〜1:7比率での毎日のシングルサーブ醸造。耐衝撃性のためベースモデルより厚いガラスを使用。",
     },
+    price: "$24.99",
     links: [
       { network: "amazon-jp", productId: "B01KQTFRGM", rawUrl: "https://www.amazon.co.jp/dp/B01KQTFRGM", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01KQTFRGM", rawUrl: "https://www.amazon.com/dp/B01KQTFRGM", markets: ["US"], approved: true },
@@ -6181,6 +6465,7 @@ const RAW_CATALOG = [
       en: "Stainless steel fine-mesh basket kit for wide-mouth mason jars — lowest entry cost, scales to 1-gallon (3.8L) batches, metal mesh allows some sediment. Best as a low-commitment entry point or high-volume batch setup.",
       ja: "ワイドマウスメイソンジャー用ステンレス細目メッシュバスケットキット。最低コストのエントリー、1ガロン（3.8L）バッチまでスケール可能、金属メッシュで若干の澱あり。低コストのトライアルや大容量バッチ設定に最適。",
     },
+    price: "$33.00",
     links: [
       { network: "amazon-jp", productId: "B01LXHSMRU", rawUrl: "https://www.amazon.co.jp/dp/B01LXHSMRU", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01LXHSMRU", rawUrl: "https://www.amazon.com/dp/B01LXHSMRU", markets: ["US"], approved: true },
@@ -6200,6 +6485,7 @@ const RAW_CATALOG = [
       en: "Natural diatomite stone, fast-drying, antimicrobial, no washing needed",
       ja: "天然珪藻土、速乾性、抗菌、洗濯不要",
     },
+    price: "$24.99",
     links: [
       { network: "moshimo", productId: "rakuten-diatomite-bath-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%8F%AA%E8%97%BB%E5%9C%9F%E3%83%90%E3%82%B9%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
@@ -6213,6 +6499,7 @@ const RAW_CATALOG = [
       en: "Thick memory foam with suction-cup TPR backing for strong non-slip grip on tile",
       ja: "吸盤TPRバッキング付き厚手メモリーフォーム、タイルでの強力な滑り止めグリップ",
     },
+    price: "$32.99",
     links: [
       { network: "amazon-us", productId: "B01BHDKNWI", rawUrl: "https://www.amazon.com/dp/B01BHDKNWI", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-gorilla-grip-bath-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%90%E3%82%B9%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
@@ -6227,6 +6514,7 @@ const RAW_CATALOG = [
       en: "Machine-washable cotton terry bath mat, value multi-pack, 400–450 GSM",
       ja: "洗濯機洗い可能なコットンテリーバスマット、お得なマルチパック、400〜450 GSM",
     },
+    price: "$14.99",
     links: [
       { network: "amazon-us", productId: "B072N4H4J2", rawUrl: "https://www.amazon.com/dp/B072N4H4J2", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-cotton-bath-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%83%E3%83%88%E3%83%B3%E3%83%90%E3%82%B9%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
@@ -6234,7 +6522,10 @@ const RAW_CATALOG = [
   },
   {
     id: "hotel-collection-bath-rug",
+    imageUrl: "https://m.media-amazon.com/images/P/B00J5FKJ2U.01._SCLZZZZZZZ_.jpg",
     category: "home",
+    priceMin: "$15",
+    priceMax: "$30",
     name: { en: "Hotel Collection Bath Rug", ja: "ホテルコレクション バスラグ" },
     description: {
       en: "Premium plush micro-cotton terry at 600+ GSM, spa-quality softness, machine washable",
@@ -6253,6 +6544,7 @@ const RAW_CATALOG = [
       en: "Solid teak wood slats with drainage gaps, natural oil content inhibits mold, spa aesthetic",
       ja: "排水ギャップ付き無垢チーク材スラット、天然オイル分がカビを抑制、スパ美観",
     },
+    price: "$59.99",
     links: [
       { network: "moshimo", productId: "rakuten-teak-bath-mat", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%BC%E3%82%AF%E3%83%90%E3%82%B9%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
@@ -6266,13 +6558,16 @@ const RAW_CATALOG = [
       en: "0.1g precision over 200g–6kg range, IP54 water resistance, configurable auto-off. Lab-grade load cell calibration for espresso dosing, French pastry, and supplement measurement.",
       ja: "200g〜6kgで0.1g精度、IP54防水、オートオフ設定可能。エスプレッソのドーシング・フランス菓子・サプリメント計量向けラボグレード荷重セル校正。",
     },
+    price: "$89.99",
     links: [
       { network: "moshimo", productId: "rakuten-ohaus-scout-kitchen-scale", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
   {
     id: "escali-primo-kitchen-scale",
+    imageUrl: "https://m.media-amazon.com/images/P/B0007GAWRS.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$25",
     name: { en: "Escali Primo Digital Kitchen Scale", ja: "エスカリ プリモ デジタルキッチンスケール" },
     description: {
       en: "5kg/11lb capacity, 1g resolution, lifetime warranty. The consistent recommendation from serious bread bakers for 15+ years — solid build quality that holds calibration over years of daily use.",
@@ -6284,7 +6579,9 @@ const RAW_CATALOG = [
   },
   {
     id: "ozeri-pronto-kitchen-scale",
+    imageUrl: "https://m.media-amazon.com/images/P/B004164SRA.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$12.22",
     name: { en: "Ozeri Pronto Digital Multifunction Kitchen Scale", ja: "オゼリ プロント デジタル多機能キッチンスケール" },
     description: {
       en: "Under 1.5cm thin profile, 11kg maximum capacity, 1g resolution, 4 unit conversions. Stores flat in any drawer. 60–90 second auto-off suits quick measurements; too short for long baking sessions.",
@@ -6296,7 +6593,9 @@ const RAW_CATALOG = [
   },
   {
     id: "etekcity-kitchen-scale",
+    imageUrl: "https://m.media-amazon.com/images/P/B0113UZJE2.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$15.99",
     name: { en: "Etekcity Digital Kitchen Scale", ja: "エテックシティ デジタルキッチンスケール" },
     description: {
       en: "Large 22cm × 17cm platform, 11kg capacity, 1g resolution. Tilted display readable with a wide mixing bowl on the platform. Best large-platform budget option.",
@@ -6308,7 +6607,9 @@ const RAW_CATALOG = [
   },
   {
     id: "greater-goods-kitchen-scale",
+    imageUrl: "https://m.media-amazon.com/images/P/B07CSBYPGM.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$11.95",
     name: { en: "Greater Goods Digital Kitchen Food Scale", ja: "グレーター・グッズ デジタルキッチンフードスケール" },
     description: {
       en: "4-minute auto-off (longest in consumer budget category), removable stainless steel platform for separate washing, 11kg capacity, 1g resolution. Charitable giving brand.",
@@ -6321,6 +6622,8 @@ const RAW_CATALOG = [
   {
     id: "epicka-universal-adapter",
     imageUrl: "https://www.epickatech.com/cdn/shop/files/105_8e925497-ceb2-4fd0-974b-aaf6c5d23c75.png?v=1732612983&width=600",
+    priceMin: "$10",
+    priceMax: "$25.99",
     category: "tech",
     name: { en: "EPICKA Universal Travel Adapter", ja: "EPICKA ユニバーサル トラベルアダプター" },
     description: { en: "150+ countries, 4 USB ports + USB-C, surge protection, all-in-one design", ja: "150カ国以上対応、USB4ポート+USB-C、サージ保護、オールインワン設計" },
@@ -6332,6 +6635,8 @@ const RAW_CATALOG = [
   {
     id: "ceptics-world-travel-adapter",
     imageUrl: "https://www.ceptics.com/cdn/shop/products/WPS-2B.jpg?v=1745832674&width=1116",
+    priceMin: "$14.99",
+    priceMax: "$29.99",
     category: "tech",
     name: { en: "Ceptics World Travel Adapter Set", ja: "Ceptics ワールド トラベルアダプターセット" },
     description: { en: "Modular interchangeable plug heads by region, lightweight design, USB charging ports", ja: "地域別モジュール式プラグヘッド、軽量設計、USB充電ポート内蔵" },
@@ -6346,6 +6651,7 @@ const RAW_CATALOG = [
     category: "tech",
     name: { en: "BESTEK Travel Adapter with Voltage Converter", ja: "BESTEK 変圧器内蔵 トラベルアダプター" },
     description: { en: "Built-in 220W step-down voltage converter, covers A/C/G/I/B plug types, USB charging", ja: "220W降圧変圧器内蔵、A/C/G/I/B対応、USB充電ポート付き" },
+    price: "$29.99",
     links: [
       { network: "amazon-us", productId: "B01J69Z3HG", rawUrl: "https://www.amazon.com/dp/B01J69Z3HG", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-bestek-travel-adapter", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%89%E5%9C%A7%E5%99%A8%E5%86%85%E8%94%B5%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -6353,7 +6659,10 @@ const RAW_CATALOG = [
   },
   {
     id: "satechi-travel-adapter",
+    imageUrl: "https://m.media-amazon.com/images/P/B00EZD5AFI.01._SCLZZZZZZZ_.jpg",
     category: "tech",
+    priceMin: "$49.99",
+    priceMax: "$79.99",
     name: { en: "Satechi Dual Smart Travel Adapter", ja: "Satechi デュアル スマート トラベルアダプター" },
     description: { en: "30W USB-C PD port for laptop charging, slim flat-profile design, covers A/C/G/I", ja: "USB-C PD 30Wでノートパソコン充電対応、薄型フラットデザイン、A/C/G/I対応" },
     links: [
@@ -6366,6 +6675,7 @@ const RAW_CATALOG = [
     category: "tech",
     name: { en: "Aulola Universal Travel Adapter", ja: "Aulola ユニバーサル トラベルアダプター" },
     description: { en: "Ultra-compact budget adapter, covers A/C/G/I plug types, single AC outlet", ja: "超コンパクト低価格アダプター、A/C/G/I対応、コンセント1口" },
+    price: "$15.99",
     links: [
       { network: "moshimo", productId: "rakuten-aulola-travel-adapter", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E5%A4%89%E6%8F%9B%E3%83%97%E3%83%A9%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
@@ -6380,6 +6690,7 @@ const RAW_CATALOG = [
       en: "Hollow-core grid surface, 13\" standard length, professional standard for myofascial release",
       ja: "ホローコアグリッド面、33cm標準サイズ、筋膜リリースのプロ標準モデル",
     },
+    price: "$39.99",
     links: [
       { network: "amazon-us", productId: "B015X0PFGQ", rawUrl: "https://www.amazon.com/dp/B015X0PFGQ", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-triggerpoint-grid-foam-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88+%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89+%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -6394,6 +6705,7 @@ const RAW_CATALOG = [
       en: "Deep-tissue firm thermoplastic rubber knobs at 3–4cm intervals, 22\" standard length, for experienced rollers with chronic dense adhesions",
       ja: "3〜4cm間隔の硬い熱可塑性ゴムノブ、56cmスタンダードサイズ、慢性的な密な癒着を持つ経験豊富なローラー向け",
     },
+    price: "$74.95",
     links: [
       { network: "amazon-us", productId: "B01LXOFWEX", rawUrl: "https://www.amazon.com/dp/B01LXOFWEX", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-rumble-roller-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -6402,6 +6714,8 @@ const RAW_CATALOG = [
   {
     id: "amazon-basics-foam-roller",
     imageUrl: "https://www.gosupps.com/media/catalog/product/cache/25/small_image/1500x1650/9df78eab33525d08d6e5fb8d27136e95/9/1/91yuQpw_mL.jpg",
+    priceMin: "$17",
+    priceMax: "$22",
     category: "fitness",
     name: { en: "Amazon Basics High-Density Round Foam Roller", ja: "Amazonベーシック 高密度ラウンドフォームローラー" },
     description: {
@@ -6422,6 +6736,7 @@ const RAW_CATALOG = [
       en: "Three-frequency vibrating roller (33Hz, 40Hz, 53Hz), hard EVA surface, 2-hour battery life, documented additive recovery benefit for competitive athletes",
       ja: "3段階振動周波数（33Hz・40Hz・53Hz）、硬EVA面、2時間バッテリー寿命、競技アスリート向けの実証された付加的回復効果",
     },
+    price: "$199.00",
     links: [
       { network: "amazon-us", productId: "B09DT6NG3G", rawUrl: "https://www.amazon.com/dp/B09DT6NG3G", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-hyperice-vyper-3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHyperice+Vyper%2F", markets: ["JP"], approved: true },
@@ -6436,6 +6751,7 @@ const RAW_CATALOG = [
       en: "Solid high-density EPE, smooth surface, 12\" travel size, beginner-friendly pressure distribution for building rolling tolerance",
       ja: "ソリッド高密度EPE、スムース面、30cmトラベルサイズ、ローリング耐性を構築する初心者フレンドリーな圧力分散",
     },
+    price: "$17.99",
     links: [
       { network: "amazon-us", productId: "B00ZGR5IH2", rawUrl: "https://www.amazon.com/dp/B00ZGR5IH2", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-lux-fit-foam-roller", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC+%E5%88%9D%E5%BF%83%E8%80%85%2F", markets: ["JP"], approved: true },
@@ -6451,6 +6767,7 @@ const RAW_CATALOG = [
       en: "Pre-seasoned, 10.25-inch (26cm), 2.1 kg, oven-safe to 260°C, induction compatible, campfire safe. Industry benchmark bare cast iron — rough foundry surface improves with each cook of fatty foods.",
       ja: "シーズニング済み、26cm、2.1 kg、260°Cオーブン対応・IH対応・直火対応。定番の裸の鋳鉄スキレット──砂型鋳造面は油脂の多い調理を重ねるごとに育つ。",
     },
+    price: "$14.88",
     links: [
       { network: "amazon-us", productId: "B00006JSUA", rawUrl: "https://www.amazon.com/dp/B00006JSUA", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "B00006JSUA", rawUrl: "https://www.amazon.co.jp/dp/B00006JSUA", markets: ["JP"], approved: true },
@@ -6470,6 +6787,7 @@ const RAW_CATALOG = [
       en: "American-made machined-smooth cast iron, 10.5-inch, approx 2.2 kg, flared rim for drip-free pouring, helper handle, oven-safe, induction compatible. Polished surface develops seasoning faster than sand-cast alternatives.",
       ja: "米国製機械研磨鋳鉄、10.5インチ、約2.2 kg、液垂れしにくいフレアリム、補助ハンドル付き、オーブン対応・IH対応。磨かれた表面は砂型鋳造より早くシーズニングが育つ。",
     },
+    price: "$155.00",
     links: [
       { network: "amazon-jp", productId: "B07DHJZ7JC", rawUrl: "https://www.amazon.co.jp/dp/B07DHJZ7JC", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07DHJZ7JC", rawUrl: "https://www.amazon.com/dp/B07DHJZ7JC", markets: ["US"], approved: true },
@@ -6499,7 +6817,9 @@ const RAW_CATALOG = [
   },
   {
     id: "lodge-cast-iron-skillet",
+    imageUrl: "https://m.media-amazon.com/images/P/B001FSJNRW.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$29.90",
     name: { en: "Lodge L10SK3 12-Inch Cast Iron Skillet", ja: "ロッジ 12インチ スキレット" },
     description: {
       en: "Pre-seasoned, 12-inch (30cm), dual handle, oven/induction/campfire safe, industry benchmark. 3.8 kg with rough foundry texture that improves over months of cooking.",
@@ -6531,13 +6851,16 @@ const RAW_CATALOG = [
       en: "Lightweight machined-smooth cast iron at approx 1.8 kg — half the weight of a Lodge 12-inch. Machined surface develops seasoning faster than rough foundry texture. Best pick for weight-sensitive cooks.",
       ja: "約1.8 kgの軽量機械研磨面スキレット──ロッジ30cmの半分の重さ。機械研磨面は砂型鋳造面よりシーズニングが早く育つ。重量に悩む料理人に最適。",
     },
+    price: "$135.00",
     links: [
       { network: "moshimo", productId: "rakuten-field-company-no8-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88+%E8%BB%BD%E9%87%8F%2F", markets: ["JP"], approved: true },
     ],
   },
   {
     id: "camp-chef-cast-iron-skillet",
+    imageUrl: "https://m.media-amazon.com/images/P/B000AL3KGU.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$29.99",
     name: { en: "Camp Chef 12-Inch Cast Iron Skillet with Dual Handle", ja: "キャンプシェフ 12インチ ダブルハンドル スキレット" },
     description: {
       en: "Factory pre-seasoned, dual helper handles for stovetop-to-oven transport, campfire and induction safe. Comparable quality to Lodge at competitive price.",
@@ -6549,6 +6872,7 @@ const RAW_CATALOG = [
   },
   {
     id: "victoria-cast-iron-skillet",
+    imageUrl: "https://m.media-amazon.com/images/P/B01726HDY0.01._SCLZZZZZZZ_.jpg",
     category: "food",
     name: { en: "Victoria 10-Inch Cast Iron Skillet", ja: "ビクトリア 10インチ スキレット" },
     description: {
@@ -6569,6 +6893,7 @@ const RAW_CATALOG = [
       en: "Double-wall vacuum insulation, 24h cold/12h hot, wide mouth fits ice cubes, Pro-Grade stainless",
       ja: "二重真空断熱、24時間保冷/12時間保温、氷が入るワイドマウス、プログレードステンレス",
     },
+    price: "$44.95",
     links: [
       { network: "amazon-us", productId: "B07CTXH2HX", rawUrl: "https://www.amazon.com/dp/B07CTXH2HX", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-hydro-flask-wide-mouth", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AD%E3%83%95%E3%83%A9%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
@@ -6583,6 +6908,7 @@ const RAW_CATALOG = [
       en: "Straw-lid tumbler with handle, car-cup-holder compatible, spill-resistant, 24h cold vacuum insulation",
       ja: "ストロー蓋タンブラー、ハンドル付き、車のカップホルダー対応、こぼれにくい設計、24時間保冷真空断熱",
     },
+    price: "$45.00",
     links: [
       { network: "moshimo", productId: "rakuten-stanley-quencher", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%AC%E3%83%BC+%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
@@ -6596,6 +6922,7 @@ const RAW_CATALOG = [
       en: "Commercial-grade 18/8 stainless, DuraCoat finish, double-wall vacuum, 5-year warranty, No Sweat design",
       ja: "商業用グレード18/8ステンレス、DuraCoat仕上げ、二重真空断熱、5年保証、結露なし設計",
     },
+    price: "$40.00",
     links: [
       { network: "amazon-us", productId: "B07CWJQJDM", rawUrl: "https://www.amazon.com/dp/B07CWJQJDM", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-yeti-rambler", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYeti+%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -6610,6 +6937,7 @@ const RAW_CATALOG = [
       en: "Lightweight 113g BPA-free Tritan plastic, wide mouth, dishwasher-safe, non-insulated hiker's gram-counter pick",
       ja: "軽量113g BPAフリー Tritanプラスチック、ワイドマウス、食器洗浄機対応、断熱なし・登山グラム重視派向け",
     },
+    price: "$20.00",
     links: [
       { network: "moshimo", productId: "rakuten-nalgene-silo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8A%E3%83%AB%E3%82%B2%E3%83%B3+%E3%83%9C%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
@@ -6623,6 +6951,7 @@ const RAW_CATALOG = [
       en: "Magnetic flip lid stays open during pour, 25oz stainless vacuum insulation, hiker-designed, one-hand cap",
       ja: "注ぐ際に磁石で蓋が開いたまま保持、25ozステンレス真空断熱、ハイカー設計、片手キャップ操作",
     },
+    price: "$33.99",
     links: [
       { network: "amazon-us", productId: "B07KNTKLMW", rawUrl: "https://www.amazon.com/dp/B07KNTKLMW", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-camelbak-chute-mag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCamelBak+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%2F", markets: ["JP"], approved: true },
@@ -6637,13 +6966,16 @@ const RAW_CATALOG = [
       en: "Borosilicate glass, snap-lock lids, microwave/oven/freezer safe, 20-piece set in four sizes (0.4L, 0.6L, 1.0L, 1.4L)",
       ja: "ホウケイ酸ガラス、4方向スナップロック蓋、電子レンジ/オーブン/冷凍対応、4サイズ20点セット（0.4L・0.6L・1.0L・1.4L）",
     },
+    price: "$29.99",
     links: [
       { network: "moshimo", productId: "rakuten-prep-naturals-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BD%9C%E3%82%8A%E7%BD%AE%E3%81%8D%E3%82%AC%E3%83%A9%E3%82%B9%E5%AE%B9%E5%99%A8%2F", markets: ["JP"], approved: true },
     ],
   },
   {
     id: "rubbermaid-brilliance-containers",
+    imageUrl: "https://m.media-amazon.com/images/P/B01JCNEJSO.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$29.99",
     name: { en: "Rubbermaid Brilliance Food Storage Containers", ja: "ラバーメイド ブリリアンス 保存容器セット" },
     description: {
       en: "Crystal-clear BPA-free Tritan plastic, press-seal leakproof lids, airtight, microwave/dishwasher safe, stackable",
@@ -6655,7 +6987,9 @@ const RAW_CATALOG = [
   },
   {
     id: "pyrex-simply-store-set",
+    imageUrl: "https://m.media-amazon.com/images/P/B0157G34AY.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$37.99",
     name: { en: "Pyrex Simply Store Glass Food Storage Set", ja: "パイレックス シンプリーストア ガラス保存容器セット" },
     description: {
       en: "Soda-lime tempered glass, oven safe to 450°F, BPA-free plastic lids, classic trusted brand since 1915",
@@ -6667,7 +7001,9 @@ const RAW_CATALOG = [
   },
   {
     id: "bentgo-glass-prep-set",
+    imageUrl: "https://m.media-amazon.com/images/P/B0BQRY56YX.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$39.99",
     name: { en: "Bentgo Glass Meal Prep Set with Compartments", ja: "ベントゴー ガラス仕切り付き作り置き容器セット" },
     description: {
       en: "Borosilicate glass dual-compartment containers, snap-lock lids, oven safe to 425°F, ideal for bento-style meals",
@@ -6679,7 +7015,9 @@ const RAW_CATALOG = [
   },
   {
     id: "weesprout-glass-containers",
+    imageUrl: "https://m.media-amazon.com/images/P/B08LYNKHYH.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$29.98",
     name: { en: "WeeSprout Glass Food Storage Containers with Hinge-Lock Lids", ja: "ウィースプラウト ヒンジロック蓋付きガラス保存容器" },
     description: {
       en: "Borosilicate glass, hinge-lock leakproof lids for maximum seal, oven safe to 400°F, dishwasher/microwave/freezer safe",
@@ -6698,6 +7036,7 @@ const RAW_CATALOG = [
       en: "Crystal-clear BPA-free Tritan plastic, press-seal leakproof lids, airtight stacking, microwave/dishwasher safe",
       ja: "クリスタルクリアBPAフリーTritan樹脂、押し込み密閉蓋、エアタイトスタック収納、電子レンジ/食洗機対応",
     },
+    price: "$29.99",
     links: [
       { network: "amazon-us", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.com/dp/B01NBQEZQO", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B01NBQEZQO", rawUrl: "https://www.amazon.de/dp/B01NBQEZQO", markets: ["EU"], approved: true },
@@ -6715,6 +7054,7 @@ const RAW_CATALOG = [
       en: "Borosilicate glass, Smart Seal lid with dual-hinged locking tabs, leak-proof, oven/microwave/freezer/dishwasher safe",
       ja: "ホウケイ酸ガラス、デュアルヒンジロックタブ付きスマートシール蓋、密閉漏れ防止、オーブン/電子レンジ/冷凍/食洗機対応",
     },
+    price: "$79.99",
     links: [
       { network: "amazon-us", productId: "B0894MJPVB", rawUrl: "https://www.amazon.com/dp/B0894MJPVB", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B0894MJPVB", rawUrl: "https://www.amazon.de/dp/B0894MJPVB", markets: ["EU"], approved: true },
@@ -6732,6 +7072,7 @@ const RAW_CATALOG = [
       en: "Borosilicate glass with dual-compartment design, snap-lock leakproof lids, oven safe to 425°F, bento-style meal separation",
       ja: "ホウケイ酸ガラス2室仕切り設計、スナップロック密閉蓋、425°F（220°C）オーブン対応、弁当スタイルの食材分離に最適",
     },
+    price: "$39.99",
     links: [
       { network: "amazon-us", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.com/dp/B07W4SLHQM", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B07W4SLHQM", rawUrl: "https://www.amazon.de/dp/B07W4SLHQM", markets: ["EU"], approved: true },
@@ -6743,6 +7084,7 @@ const RAW_CATALOG = [
   {
     id: "pyrex-simply-store-18pc",
     imageUrl: "https://pyrexhome.com/cdn/shop/files/pyr_simply_store_18pc_1128223_1.jpg?v=1760025393&width=1500",
+    price: "$37.99",
     category: "food",
     name: { en: "Pyrex Simply Store Glass Set (18-piece)", ja: "パイレックス シンプリーストア ガラス保存容器 18点セット" },
     description: {
@@ -6760,6 +7102,8 @@ const RAW_CATALOG = [
   {
     id: "alaska-bear-sleep-mask",
     imageUrl: "https://www.myalaskabear.com/wp-content/uploads/2025/08/61W8d2O8DfL._AC_SL1000_-2.jpg",
+    priceMin: "$9.99",
+    priceMax: "$19.99",
     category: "home",
     name: { en: "Alaska Bear Natural Silk Sleep Mask", ja: "アラスカベア シルクアイマスク" },
     description: {
@@ -6774,6 +7118,7 @@ const RAW_CATALOG = [
   {
     id: "tempur-pedic-sleep-mask",
     imageUrl: "https://relaxtheback.com/cdn/shop/products/Sleep-Mask-Tempur-Pedic-470990.jpg?v=1752796378&width=1946",
+    price: "$29",
     category: "home",
     name: { en: "Tempur-Pedic Sleep Mask", ja: "テンピュール スリープマスク" },
     description: {
@@ -6793,6 +7138,7 @@ const RAW_CATALOG = [
       en: "Modular independently adjustable magnetic eye cups, zero eye-lid pressure, configurable for asymmetric face geometry",
       ja: "モジュール式独立調整マグネットアイカップ、ゼロまぶた圧力、非対称顔ジオメトリ対応",
     },
+    price: "$39.00",
     links: [
       { network: "amazon-us", productId: "B09BGBMZRZ", rawUrl: "https://www.amazon.com/dp/B09BGBMZRZ", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-manta-sleep-mask", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%BF+%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
@@ -6823,6 +7169,7 @@ const RAW_CATALOG = [
       en: "10,000mAh, slim flat design, USB-C + USB-A, 12W output, 186g",
       ja: "10,000mAh、スリムフラット設計、USB-C+USB-A、12W出力、186g",
     },
+    price: "$25.99",
     links: [
       { network: "amazon-us", productId: "B07QXV6N1B", rawUrl: "https://www.amazon.com/dp/B07QXV6N1B", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-anker-powercore-slim-10000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -6831,6 +7178,8 @@ const RAW_CATALOG = [
   {
     id: "anker-737-power-bank",
     imageUrl: "https://cdn.shopify.com/s/files/1/0493/9834/9974/products/A1289011-Anker_737_Power_Bank_PowerCore_24K_1_1600x.png?v=1775967275",
+    priceMin: "$74.99",
+    priceMax: "$109.99",
     category: "tech",
     badge: "⚡",
     name: { en: "Anker 737 Power Bank (PowerCore 24K)", ja: "Anker 737 パワーバンク (PowerCore 24K)" },
@@ -6846,6 +7195,8 @@ const RAW_CATALOG = [
   {
     id: "mophie-powerstation-pd",
     imageUrl: "https://cdn11.bigcommerce.com/s-uv4dd6xvbk/products/326/images/2262/ps_10k_2022_black_hero__95817.1685991441.386.513.jpg?c=1",
+    priceMin: "$29.99",
+    priceMax: "$49.99",
     category: "tech",
     badge: "🎨",
     name: { en: "Mophie Powerstation PD", ja: "Mophie パワーステーション PD" },
@@ -6861,6 +7212,8 @@ const RAW_CATALOG = [
   {
     id: "baseus-adaman-power-bank",
     imageUrl: "https://www.baseus.com/cdn/shop/files/Baseus_Adaman_Power_Bank_65W_20000mAh_Black_14_1200x.jpg?v=1751017142",
+    priceMin: "$41",
+    priceMax: "$59.99",
     category: "tech",
     badge: "📊",
     name: { en: "Baseus Adaman 65W Power Bank", ja: "Baseus Adaman 65W モバイルバッテリー" },
@@ -6876,6 +7229,8 @@ const RAW_CATALOG = [
   {
     id: "iniu-portable-charger",
     imageUrl: "https://iniushop.com/cdn/shop/files/b6_cca27a37-7095-4a9f-87dc-82b9a741a57f.png?v=1747881372&width=1946",
+    priceMin: "$17.99",
+    priceMax: "$29.99",
     category: "tech",
     badge: "💡",
     name: { en: "INIU 10000mAh Portable Charger", ja: "INIU 10000mAh モバイルバッテリー" },
@@ -6891,6 +7246,8 @@ const RAW_CATALOG = [
   {
     id: "drowsy-silk-sleep-mask",
     imageUrl: "https://us.drowsysleepco.com/cdn/shop/products/Drowsy-Sleep-Co-Midnight-Blue-The-Mulberry-Silk-Eye-Mask-Plain.jpg?v=1666615163&width=2040",
+    priceMin: "$45",
+    priceMax: "$65",
     category: "home",
     name: { en: "Drowsy Silk Sleep Mask", ja: "ドロウジー シルク スリープマスク" },
     description: {
@@ -6904,6 +7261,7 @@ const RAW_CATALOG = [
   {
     id: "adjustable-dumbbell-bowflex-552",
     imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw6f262211/images/bfx/weights/ZMK4011008/results-series-552-dumbbell-pair-black-orange.jpg.jpg",
+    price: "$399",
     category: "fitness",
     name: { en: "Bowflex SelectTech 552 Adjustable Dumbbells (pair)", ja: "ボウフレックス セレクテック 552 可変式ダンベル（ペア）" },
     description: {
@@ -6924,6 +7282,7 @@ const RAW_CATALOG = [
       en: "Pin-adjust 5–70 lb expandable to 90 lb per hand, 5-second weight change, stackable add-on kits",
       ja: "ピン式5〜70lb（1ハンドあたり90lbまで拡張可能）、重量変更約5秒、スタッカブル拡張キット対応",
     },
+    price: "$349.99",
     links: [
       { network: "amazon-us", productId: "B07GHMJNN6", rawUrl: "https://www.amazon.com/dp/B07GHMJNN6", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-powerblock-elite", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%AF%E3%83%BC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF+%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -6938,6 +7297,7 @@ const RAW_CATALOG = [
       en: "Cylindrical shell mimics standard dumbbell profile, dial-adjust 5–50 lb in 5 lb increments, most compact adjustable form factor",
       ja: "円筒形シェルが標準ダンベルのプロファイルを模倣、ダイヤル式5〜50lbを5lb刻み、最もコンパクトな可変式形状",
     },
+    price: "$595.00",
     links: [
       { network: "amazon-us", productId: "B09MZKZLQN", rawUrl: "https://www.amazon.com/dp/B09MZKZLQN", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-nuobell-adjustable", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB+%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%2F", markets: ["JP"], approved: true },
@@ -6952,6 +7312,7 @@ const RAW_CATALOG = [
       en: "Cast iron hex dumbbell, no-roll hex design, knurled handle, commercial quality, sold as singles",
       ja: "鋳鉄製ヘックスダンベル、転がり防止ヘックス設計、ナーリング加工ハンドル、商業品質、シングル販売",
     },
+    price: "$64.99",
     links: [
       { network: "amazon-us", productId: "B000MLKRPO", rawUrl: "https://www.amazon.com/dp/B000MLKRPO", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-cap-barbell-hex", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%89%84%E8%A3%BD%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB+%E3%83%98%E3%83%83%E3%82%AF%E3%82%B9%2F", markets: ["JP"], approved: true },
@@ -6959,7 +7320,10 @@ const RAW_CATALOG = [
   },
   {
     id: "yes4all-vinyl-dumbbell-set",
+    imageUrl: "https://m.media-amazon.com/images/I/81IQX7qLQjL._AC_SL1500_.jpg",
     category: "fitness",
+    priceMin: "$20",
+    priceMax: "$80",
     name: { en: "Yes4All Vinyl Coated Dumbbell Set", ja: "イエス4オール ビニールコーティング ダンベルセット" },
     description: {
       en: "Vinyl-coated cast iron dumbbell set, hex shape, floor-friendly coating, budget beginner set 5–15 lb",
@@ -6975,6 +7339,8 @@ const RAW_CATALOG = [
   {
     id: "osprey-farpoint-40",
     imageUrl: "https://shop.r10s.jp/canpanera/cabinet/item244/item_o09290_0.jpg",
+    priceMin: "¥31,000",
+    priceMax: "¥32,000",
     category: "travel",
     badge: "🎒",
     name: { en: "Osprey Farpoint 40 Travel Backpack", ja: "オスプレー ファーポイント 40 トラベルバックパック" },
@@ -6990,6 +7356,7 @@ const RAW_CATALOG = [
   {
     id: "tortuga-setout-45l",
     imageUrl: "https://cdn.packhacker.com/2019/03/tortuga-setout-45l.jpg?auto=compress&auto=format&w=350&h=233&fit=crop",
+    price: "$199",
     category: "travel",
     badge: "🧳",
     name: { en: "Tortuga Setout 45L Travel Backpack", ja: "トルトゥガ セットアウト 45L トラベルバックパック" },
@@ -7005,6 +7372,7 @@ const RAW_CATALOG = [
   {
     id: "nomatic-travel-pack-30l",
     imageUrl: "https://m.media-amazon.com/images/I/31pV1iKBXoL._SL500_.jpg",
+    price: "$300",
     category: "travel",
     badge: "💼",
     name: { en: "Nomatic Travel Pack 30L", ja: "ノマティック トラベルパック 30L" },
@@ -7020,6 +7388,8 @@ const RAW_CATALOG = [
   {
     id: "cotopaxi-allpa-35l",
     imageUrl: "https://image.rakuten.co.jp/crouka/cabinet/21a7/cotop-allpa35_19.jpg",
+    priceMin: "$225",
+    priceMax: "$230",
     category: "travel",
     badge: "🏔️",
     name: { en: "Cotopaxi Allpa 35L Travel Pack", ja: "コトパクシ アルパ 35L トラベルパック" },
@@ -7035,6 +7405,8 @@ const RAW_CATALOG = [
   {
     id: "amazonbasics-carry-on-backpack",
     imageUrl: "https://www.luggagefactory.com/cdn/shop/products/51-YI9ljOZL_1024x1024.jpg?v=1515079553",
+    priceMin: "$29.99",
+    priceMax: "$49.99",
     category: "travel",
     badge: "💰",
     name: { en: "AmazonBasics Carry-On Travel Backpack", ja: "Amazonベーシックス 機内持ち込みトラベルバックパック" },
@@ -7051,6 +7423,8 @@ const RAW_CATALOG = [
   {
     id: "away-carry-on",
     imageUrl: "https://www.awaytravel.com/cdn/shop/files/95310acf-237d-4762-9619-f899a41073f5_20b2cb4b-50cc-41ed-b8f1-3b2b152ad4a1.jpg",
+    priceMin: "$245",
+    priceMax: "$395",
     category: "travel",
     badge: "✈️",
     name: { en: "Away The Carry-On", ja: "Away The Carry-On" },
@@ -7066,6 +7440,8 @@ const RAW_CATALOG = [
   {
     id: "samsonite-omni-pc-20",
     imageUrl: "https://outdoorgearlab.b-cdn.net/photos/28/49/406403_29975_XXL.jpg",
+    priceMin: "$69.99",
+    priceMax: "$89.75",
     category: "travel",
     badge: "💼",
     name: { en: "Samsonite Omni PC 20\" Hardside Spinner", ja: "Samsonite Omni PC 20インチ ハードサイドスピナー" },
@@ -7098,6 +7474,8 @@ const RAW_CATALOG = [
   {
     id: "rimowa-essential-20",
     imageUrl: "https://n.nordstrommedia.com/it/c448c59f-4c28-4944-a7d9-03d3bd2b8133.jpeg",
+    priceMin: "$760",
+    priceMax: "$900",
     category: "travel",
     badge: "💎",
     name: { en: "Rimowa Essential 20\" Carry-On", ja: "Rimowa Essential 20インチ キャリーオン" },
@@ -7112,7 +7490,10 @@ const RAW_CATALOG = [
   },
   {
     id: "amazonbasics-hardside-spinner-20",
+    imageUrl: "https://m.media-amazon.com/images/I/910NnGbHieL._AC_SL1500_.jpg",
     category: "travel",
+    priceMin: "$84.47",
+    priceMax: "$89.75",
     badge: "💰",
     name: { en: "Amazon Basics Hardside Spinner 20\"", ja: "Amazonベーシックス ハードサイドスピナー 20インチ" },
     description: {
@@ -7183,6 +7564,7 @@ const RAW_CATALOG = [
       en: "Best budget car-camping tent — 35 sq ft floor, 4 ft headroom, fast setup, proven Coleman reliability for two decades. For car camping, festivals, and weekend trips where weight is irrelevant. Weakness: fiberglass poles flex in sustained wind; partial fly leaves door exposed in rain; not suitable for serious weather or backpacking.",
       ja: "最良予算カーキャンプテント——床面積約3.25㎡・ヘッドルーム約122cm・素早い設営・数十年実証済みのColemanの信頼性。重量が無関係なカーキャンプ・フェスティバル・週末トリップ向け。弱点：グラスファイバーポールは持続する風で曲がる；一部のフライが雨でドアを露出させる；本格的な天候やバックパッキングには不適切。",
     },
+    price: "$71.99",
     links: [
       { network: "amazon-us", productId: "B00BXLC9AY", rawUrl: "https://www.amazon.com/dp/B00BXLC9AY", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "coleman-sundome-2-jp", rawUrl: "https://www.amazon.co.jp/s?k=Coleman+Sundome+2+%E3%83%86%E3%83%B3%E3%83%88", markets: ["JP"], approved: true },
@@ -7199,6 +7581,7 @@ const RAW_CATALOG = [
       en: "Best versatile 3-season tent — 42-inch headroom (highest of backpacking tents here), dual vestibules (16 sq ft combined), polyester fly, 3 lbs 9 oz. Works for both car camping and 3-season backpacking. Weakness: heavier than ultralight options; more expensive than REI Passage 2 without a clear single-use advantage; smaller brand trail presence.",
       ja: "最良多用途3シーズンテント——ヘッドルーム約107cm（ここで比較するバックパッキングテント中最高）・デュアルベスティビュール（合計約1.49㎡）・ポリエステルフライ・収納重量約1.63kg。カーキャンプと3シーズンバックパッキングの両方に対応。弱点：超軽量オプションより重い；明確な単一用途優位性なしにREI Passage 2より高価；トレイルでのブランド認知度がREIやMSRより低い。",
     },
+    price: "$599.95",
     links: [
       { network: "amazon-us", productId: "B0B8CMGFHJ", rawUrl: "https://www.amazon.com/dp/B0B8CMGFHJ", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "nemo-dagger-2p-jp", rawUrl: "https://www.amazon.co.jp/s?k=NEMO+Dagger+2P+%E3%83%86%E3%83%B3%E3%83%88", markets: ["JP"], approved: true },
@@ -7216,6 +7599,7 @@ const RAW_CATALOG = [
       en: "Best overall day hiking boot — Gore-Tex EC waterproofing, Contagrip MA outsole, Advanced Chassis TPU torsional stability, quick break-in",
       ja: "オールラウンド日帰りハイキングブーツ — Gore-Tex EC防水、Contagrip MAアウトソール、Advanced Chassis TPUトーショナルスタビリティ、短い慣らし期間",
     },
+    price: "$160.00",
     links: [
       { network: "amazon-us", productId: "B08BG66FPS", rawUrl: "https://www.amazon.com/dp/B08BG66FPS", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-salomon-x-ultra-4-gtx", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%83%AD%E3%83%A2%E3%83%B3+X%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A94+GTX%2F", markets: ["JP"], approved: true },
@@ -7230,6 +7614,7 @@ const RAW_CATALOG = [
       en: "Best value waterproof mid-cut — Vibram TC5+ outsole, M-Select DRY membrane, wide-width availability, comfortable out-of-box fit",
       ja: "コスパ最良の防水ミッドカット — Vibram TC5+アウトソール、M-Select DRYメンブレン、ワイドサイズ展開、すぐ履けるフィット感",
     },
+    price: "$150.00",
     links: [
       { network: "amazon-us", productId: "B09MZWKH2P", rawUrl: "https://www.amazon.com/dp/B09MZWKH2P", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-merrell-moab-3-mid-wp", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A1%E3%83%AC%E3%83%AB+%E3%83%A2%E3%82%A23+%E3%83%9F%E3%83%83%E3%83%89%2F", markets: ["JP"], approved: true },
@@ -7238,6 +7623,7 @@ const RAW_CATALOG = [
   {
     id: "hoka-anacapa-mid-gtx",
     imageUrl: "https://cdn.runrepeat.com/storage/gallery/product_primary/37666/hoka-anacapa-mid-gtx-21208091-720.jpg",
+    price: "$195",
     category: "fitness",
     name: { en: "Hoka Anacapa Mid GTX", ja: "ホカ アナカパ ミッド GTX" },
     description: {
@@ -7257,6 +7643,7 @@ const RAW_CATALOG = [
       en: "Best approach and technical hiking boot — FriXion AT climbing rubber rand, Vibram Megagrip outsole, precision fit for rock scrambling and via ferrata",
       ja: "アプローチ・テクニカルハイキング最強 — FriXion ATクライミングラバーランド、Vibram Megagripアウトソール、岩場スクランブルとビアフェラータに対応",
     },
+    price: "$179.00",
     links: [
       { network: "moshimo", productId: "rakuten-la-sportiva-tx4-gtx", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%82%B9%E3%83%9D%E3%83%AB%E3%83%86%E3%82%A3%E3%83%90+TX4+GTX%2F", markets: ["JP"], approved: true },
     ],
@@ -7270,6 +7657,7 @@ const RAW_CATALOG = [
       en: "Budget waterproof hiking boot — Omni-Tech waterproofing, Omni-Grip outsole, generous fit for wide feet, entry-level trail performance",
       ja: "入門防水登山ブーツ — Omni-Tech防水、Omni-Gripアウトソール、幅広の足に余裕のあるフィット、エントリーレベルのトレイル性能",
     },
+    price: "$100.00",
     links: [
       { network: "amazon-us", productId: "B001BSFFGQ", rawUrl: "https://www.amazon.com/dp/B001BSFFGQ", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-columbia-newton-ridge-plus-ii", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2+%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3%E3%83%AA%E3%83%83%E3%82%B8%2F", markets: ["JP"], approved: true },
@@ -7286,6 +7674,7 @@ const RAW_CATALOG = [
       en: "Best overall GPS running watch — multi-band L1/L5 GPS, Elevate v4 optical HR, AMOLED display, Training Readiness, HRV Status, 20-hour GPS battery",
       ja: "総合最良GPSランニングウォッチ — マルチバンドL1/L5 GPS・Elevate v4光学HR・AMOLEDディスプレイ・Training Readiness・HRV Status・20時間GPSバッテリー",
     },
+    price: "$349.99",
     links: [
       { network: "amazon-us", productId: "B0BSQ7Y5BM", rawUrl: "https://www.amazon.com/dp/B0BSQ7Y5BM", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-garmin-forerunner-265", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AC%E3%83%BC%E3%83%9F%E3%83%B3+%E3%83%95%E3%82%A9%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC+265%2F", markets: ["JP"], approved: true },
@@ -7300,6 +7689,7 @@ const RAW_CATALOG = [
       en: "Best lightweight running watch — 30g, 38-hour GPS battery, multi-band GPS, EvoLab training analysis, minimal smartwatch features by design",
       ja: "最軽量ランニングウォッチ — 30g・38時間GPSバッテリー・マルチバンドGPS・EvoLabトレーニング分析・意図的に最小限のスマートウォッチ機能",
     },
+    price: "$229.00",
     links: [
       { network: "amazon-us", productId: "B0CG19YCK3", rawUrl: "https://www.amazon.com/dp/B0CG19YCK3", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-coros-pace-3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%AD%E3%82%B9+%E3%83%9A%E3%83%BC%E3%82%B93%2F", markets: ["JP"], approved: true },
@@ -7307,7 +7697,10 @@ const RAW_CATALOG = [
   },
   {
     id: "apple-watch-series-9",
+    imageUrl: "https://m.media-amazon.com/images/I/81C8zw3D4YL._AC_SL1500_.jpg",
     category: "fitness",
+    priceMin: "¥49,698",
+    priceMax: "¥59,800",
     name: { en: "Apple Watch Series 9", ja: "アップルウォッチ シリーズ 9" },
     description: {
       en: "Best for iPhone users — L1/L5 dual-frequency GPS, AFib detection, ECG, Apple Pay, 6–8 hour GPS battery, full Apple ecosystem integration",
@@ -7320,6 +7713,7 @@ const RAW_CATALOG = [
   {
     id: "polar-pacer-pro",
     imageUrl: "https://www.polar.com/img/static/pacer-pro/polar-pacer-pro-front-blue-you-better-run-device-l.png",
+    price: "$300",
     category: "fitness",
     name: { en: "Polar Pacer Pro", ja: "ポラール ペーサー プロ" },
     description: {
@@ -7334,6 +7728,7 @@ const RAW_CATALOG = [
   {
     id: "garmin-forerunner-55",
     imageUrl: "https://res.garmin.com/en/products/010-02293-10/v/cf-lg-b31fcc72-a9a9-466b-9231-8e57a732e677-1.jpg",
+    price: "$199",
     category: "fitness",
     name: { en: "Garmin Forerunner 55", ja: "ガーミン フォアランナー 55" },
     description: {
@@ -7357,6 +7752,7 @@ const RAW_CATALOG = [
       en: "Memory foam U-shape with magnetic headrest anchor clips that secure the pillow to seat headrest wings or pillars — prevents shifting through 13+ hour flights. Velour removable cover, compresses to ~13 × 13 × 8 cm. Best all-rounder for aisle and middle seats. Weakness: anchor clips need an adjustable headrest to work well; compressed size larger than the Trtl.",
       ja: "メモリーフォームU字型、磁石ヘッドレストアンカークリップでシートヘッドレストウィングや柱に固定——13時間以上のフライトでもずれない。ベロア取り外しカバー付き、約13 × 13 × 8 cmに圧縮可能。通路席・中央席の最善オールラウンダー。弱点：アンカークリップは調整可能なヘッドレストで最良機能；圧縮サイズはTrtlより大きい。",
     },
+    price: "$39.99",
     links: [
       { network: "amazon-us", productId: "B07DVNV3SZ", rawUrl: "https://www.amazon.com/dp/B07DVNV3SZ", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "cabeau-evolution-s3-neck-jp", rawUrl: "https://www.amazon.co.jp/s?k=Cabeau+Evolution+S3+%E3%83%8D%E3%83%83%E3%82%AF%E3%83%94%E3%83%AD%E3%83%BC", markets: ["JP"], approved: true },
@@ -7373,6 +7769,7 @@ const RAW_CATALOG = [
       en: "Rigid plastic scaffold inside a fleece scarf — not a U-shape. Provides one-sided lateral neck support for window-seat sleepers who lean sideways. Rolls to jacket-pocket size at 145 g. Weakness: only supports one lean direction; switching sides requires re-wrapping, which wakes you up; rigid insert may cause pressure marks on 10+ hour flights.",
       ja: "フリーススカーフ内蔵の硬質プラスチック骨格——U字型ではない。窓際席で横に傾いて寝る旅行者への片側横向きサポート。145gでジャケットポケットサイズに丸まる。弱点：一方向への傾きにのみ対応；向き変更にスカーフ巻き直しが必要で目が覚める；10時間超では圧迫跡が出ることがある。",
     },
+    price: "$74.99",
     links: [
       { network: "amazon-us", productId: "B00LEODGP2", rawUrl: "https://www.amazon.com/dp/B00LEODGP2", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "trtl-pillow-neck-jp", rawUrl: "https://www.amazon.co.jp/s?k=Trtl+%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%83%94%E3%83%AD%E3%83%BC+%E3%83%8D%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
@@ -7389,6 +7786,7 @@ const RAW_CATALOG = [
       en: "U-shape with a chin-support channel at the front that cradles the chin and prevents forward head drop on upright middle and aisle seats. More compressible and lighter than memory foam. Removable machine-washable cover. Weakness: chin support becomes awkward when leaning laterally; positioning the pillow correctly requires some trial and error.",
       ja: "前部に顎サポートチャンネル付きU字型——中央席・通路席の直立睡眠で顎が胸に落ちるのを支える。メモリーフォームより圧縮しやすく軽い。取り外し洗濯機洗い可能カバー付き。弱点：横傾きポジションでは顎サポートが邪魔になる；正しい位置に調整するのに試行錯誤が必要。",
     },
+    price: "$49.95",
     links: [
       { network: "amazon-us", productId: "B07MGCQJBC", rawUrl: "https://www.amazon.com/dp/B07MGCQJBC", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "bcozzy-chin-pillow-jp", rawUrl: "https://www.amazon.co.jp/s?k=BCozzy+%E3%83%8D%E3%83%83%E3%82%AF%E3%83%94%E3%83%AD%E3%83%BC+%E9%A1%8E%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88", markets: ["JP"], approved: true },
@@ -7414,6 +7812,8 @@ const RAW_CATALOG = [
   {
     id: "lewis-clark-neck-pillow",
     imageUrl: "https://www.luggageonline.com/cdn/shop/products/a134d1680e290b7d42a20e758beeec68cedec94cd49e12b6337624164b641d2c.jpg?v=1614987184",
+    priceMin: "$9.99",
+    priceMax: "$24.99",
     category: "travel",
     badge: "💰",
     name: { en: "Lewis N. Clark Comfort Neck Pillow", ja: "Lewis N. Clark コンフォートネックピロー" },
@@ -7437,6 +7837,7 @@ const RAW_CATALOG = [
       en: "Best road cycling helmet for training and sportives — 25-vent Wind Tunnel ventilation, Roc Loc 5 Air fit system, 5-star Virginia Tech rating, MIPS liner",
       ja: "トレーニングとスポーティブに最良のロードサイクリングヘルメット — 25ベントウィンドトンネル通気・Roc Loc 5 Airフィット・5スターVT評価・MIPSライナー",
     },
+    price: "$112.99",
     links: [
       { network: "amazon-us", productId: "B07DTJFYRX", rawUrl: "https://www.amazon.com/dp/B07DTJFYRX", markets: ["US"], approved: true },
       { network: "moshimo", productId: "rakuten-giro-syntax-mips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGiro+Syntax+MIPS%2F", markets: ["JP"], approved: true },
@@ -7451,6 +7852,7 @@ const RAW_CATALOG = [
       en: "Best aerodynamic road helmet — Koroyd structure, MIPS liner, 5-star Virginia Tech rating, aero profile optimized for riding above 30 km/h",
       ja: "最良エアロロードヘルメット — Koroyd構造・MIPSライナー・5スターVT評価・時速30km以上に最適化されたエアロプロファイル",
     },
+    price: "$285.00",
     links: [
       { network: "moshimo", productId: "rakuten-smith-trace-mips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSmith+Trace+MIPS%2F", markets: ["JP"], approved: true },
     ],
@@ -7458,6 +7860,7 @@ const RAW_CATALOG = [
   {
     id: "bell-super-air-r-mips",
     imageUrl: "https://racycles.com/cdn/shop/files/bell-super-air-r-mips-helmet-4120182.jpg?v=1771302253&width=1500",
+    price: "$250",
     category: "fitness",
     name: { en: "Bell Super Air R MIPS", ja: "ベル スーパーエア R MIPS" },
     description: {
@@ -7472,6 +7875,7 @@ const RAW_CATALOG = [
   {
     id: "specialized-align-ii-mips",
     imageUrl: "https://peachtreebikes.com/cdn/shop/files/60826-101_HLMT_ALIGN-II-HLMT-MIPS-CE-SNDSTNMET_HERO-PDP.jpg?v=1760725900&width=1600",
+    price: "$50",
     category: "fitness",
     name: { en: "Specialized Align II MIPS", ja: "スペシャライズド アライン II MIPS" },
     description: {
@@ -7491,6 +7895,7 @@ const RAW_CATALOG = [
       en: "Best urban commuter helmet — rounded shell with deep temporal coverage, 12 vents, MIPS liner, twist-dial retention, available in multiple color styles",
       ja: "最良都市通勤ヘルメット — 側頭部深カバレッジの丸みシェル・12ベント・MIPSライナー・ツイストダイヤルリテンション・複数カラー展開",
     },
+    price: "$69.99",
     links: [
       { network: "moshimo", productId: "rakuten-nutcase-street-mips", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNutcase+Street+MIPS%2F", markets: ["JP"], approved: true },
     ],
@@ -7505,6 +7910,7 @@ const RAW_CATALOG = [
       en: "Best competition-grade kettlebell — 33 mm handle diameter, ±1% weight tolerance, uniform body dimensions across all weights, steel construction for high-rep snatch and GS sport training",
       ja: "最良コンペティショングレードケトルベル — 33mmハンドル径・±1%重量公差・全重量で均一な本体寸法・高レップスナッチとGSスポーツトレーニング向け鋼鉄構造",
     },
+    price: "$99.00",
     links: [
       { network: "amazon-us", productId: "B07KH64VGM", rawUrl: "https://www.amazon.com/dp/B07KH64VGM", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-kettlebell-kings-competition", rawUrl: "https://www.amazon.co.jp/s?k=Kettlebell+Kings+Competition+Kettlebell", markets: ["JP"], approved: true },
@@ -7520,6 +7926,7 @@ const RAW_CATALOG = [
       en: "Best value cast iron kettlebell — enamel finish, functional flat bottom, handles swings, deadlifts, presses and carries at the lowest cost per kg in this comparison",
       ja: "最良コストパフォーマンス鋳鉄ケトルベル — エナメル仕上げ・機能的フラットボトム・この比較で最低コスト/kgでスウィング・デッドリフト・プレス・キャリーに対応",
     },
+    price: "$54.99",
     links: [
       { network: "amazon-us", productId: "B000TGBDBI", rawUrl: "https://www.amazon.com/dp/B000TGBDBI", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-cap-barbell-cast-iron-kettlebell", rawUrl: "https://www.amazon.co.jp/s?k=CAP+Barbell+Cast+Iron+Kettlebell", markets: ["JP"], approved: true },
@@ -7529,6 +7936,7 @@ const RAW_CATALOG = [
   {
     id: "bowflex-selecttech-840",
     imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw53ccb650/images/bfx/weights/100790/bowflex-selecttech-840-kettlebell-hero-sqr.png",
+    price: "$149",
     category: "fitness",
     name: { en: "Bowflex SelectTech 840 Kettlebell", ja: "ボウフレックス セレクトテック 840 ケトルベル" },
     description: {
@@ -7544,6 +7952,8 @@ const RAW_CATALOG = [
   {
     id: "titan-fitness-cast-iron-kettlebell",
     imageUrl: "https://titan.fitness/cdn/shop/files/422155_03.jpg?v=1777919923&width=1946",
+    priceMin: "$25",
+    priceMax: "$105",
     category: "fitness",
     name: { en: "Titan Fitness Cast Iron Kettlebell", ja: "タイタンフィットネス 鋳鉄ケトルベル" },
     description: {
@@ -7559,6 +7969,8 @@ const RAW_CATALOG = [
   {
     id: "yes4all-vinyl-kettlebell",
     imageUrl: "https://i.barbend.com/190/306/592/5/Yes4All-Vinyl-Kettlebell-275x275.webp",
+    priceMin: "$18",
+    priceMax: "$55",
     category: "fitness",
     name: { en: "Yes4All Vinyl Coated Kettlebell", ja: "Yes4All ビニールコートケトルベル" },
     description: {
@@ -7581,6 +7993,7 @@ const RAW_CATALOG = [
       en: "Best mid-range upright bike — 25 resistance levels, 29 digital workout programs, 13.3 kg flywheel, Bluetooth to Zwift and Peloton app, dual LCD console. Quiet magnetic resistance. Best fit for users who want structured workout programs without a subscription.",
       ja: "最良ミッドレンジアップライトバイク——25段階負荷・29デジタルワークアウトプログラム・13.3kgフライホイール・ZwiftとPelotonアプリへのBluetooth対応・デュアルLCDコンソール。静音マグネット抵抗。サブスクリプションなしで構造化ワークアウトを求めるユーザーに最適。",
     },
+    price: "$449.00",
     links: [
       { network: "amazon-us", productId: "B0043D3APO", rawUrl: "https://www.amazon.com/dp/B0043D3APO", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-schwinn-170-upright-bike", rawUrl: "https://www.amazon.co.jp/s?k=Schwinn+170+Upright+Bike", markets: ["JP"], approved: true },
@@ -7590,6 +8003,7 @@ const RAW_CATALOG = [
   {
     id: "nordictrack-s22i-studio-bike",
     imageUrl: "https://www.360fitnesssuperstore.com/cdn/shop/files/nordictrack-s22i-commercial-studio-indoor-cycle-bike-main_1024x1024@2x.jpg?v=1701218316",
+    price: "$1,699",
     category: "fitness",
     name: { en: "NordicTrack S22i Studio Cycle Bike", ja: "ノルディックトラック S22i スタジオサイクルバイク" },
     description: {
@@ -7611,6 +8025,7 @@ const RAW_CATALOG = [
       en: "Best live-class ecosystem — 21.5-inch HD touchscreen, 100 levels of magnetic resistance, Peloton Membership unlocks 10,000+ live and on-demand classes, auto-follow instructor resistance cues. The strongest community and leaderboard feature of any connected bike.",
       ja: "最良ライブクラスエコシステム——21.5インチHDタッチスクリーン・100段階マグネット負荷・Pelotonメンバーシップで1万以上のライブ・オンデマンドクラスを解放・インストラクター負荷キューへの自動追従。全コネクテッドバイク中最強のコミュニティとリーダーボード機能。",
     },
+    price: "$1,445.00",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-peloton-original-bike", rawUrl: "https://www.amazon.co.jp/s?k=Peloton+%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%90%E3%82%A4%E3%82%AF", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-peloton-original-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPeloton+%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%90%E3%82%A4%E3%82%AF%2F", markets: ["JP"], approved: true },
@@ -7656,6 +8071,7 @@ const RAW_CATALOG = [
       en: "Best competitive swim goggles — low-profile silicone gasket, hydrodynamic shell, multiple nose bridge widths, UV400 anti-fog lenses; proven competition tool for pool training and racing",
       ja: "最良競泳ゴーグル — 低プロファイルシリコンガスケット・流体力学的シェル・複数鼻幅ブリッジ・UV400曇り止めレンズ；プールトレーニングと競技向けの実証済み競技ツール",
     },
+    price: "$28.00",
     links: [
       { network: "amazon-us", productId: "B0011ZSQRY", rawUrl: "https://www.amazon.com/dp/B0011ZSQRY", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-speedo-vanquisher-2", rawUrl: "https://www.amazon.co.jp/s?k=Speedo+Vanquisher+2.0+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB", markets: ["JP"], approved: true },
@@ -7671,6 +8087,7 @@ const RAW_CATALOG = [
       en: "Best triathlon open-water swim goggles — polarized wide-angle lens cuts water-surface glare, dual-strap system handles wave impact, thick silicone gasket for extended open-water wear",
       ja: "最良トライアスロン・オープンウォーターゴーグル — 偏光ワイドアングルレンズが水面グレアをカット・デュアルストラップが波の衝撃に対応・長時間オープンウォーター着用向け厚いシリコンガスケット",
     },
+    price: "$32.50",
     links: [
       { network: "amazon-us", productId: "B00IRIQHIA", rawUrl: "https://www.amazon.com/dp/B00IRIQHIA", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-tyr-special-ops-2", rawUrl: "https://www.amazon.co.jp/s?k=TYR+Special+Ops+2.0+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB", markets: ["JP"], approved: true },
@@ -7686,6 +8103,7 @@ const RAW_CATALOG = [
       en: "Best high-performance racing swim goggles — curved wraparound lens expands peripheral vision, low-profile frame for competitive swimming, durable anti-fog coating, UV400 protection",
       ja: "最良ハイパフォーマンス競泳ゴーグル — 曲面ラップアラウンドレンズが周辺視野を拡大・競泳向け低プロファイルフレーム・耐久性の高い曇り止めコーティング・UV400保護",
     },
+    price: "$56.99",
     links: [
       { network: "amazon-us", productId: "B07B6J2B3L", rawUrl: "https://www.amazon.com/dp/B07B6J2B3L", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-arena-cobra-ultra-swipe", rawUrl: "https://www.amazon.co.jp/s?k=Arena+Cobra+Ultra+Swipe+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB", markets: ["JP"], approved: true },
@@ -7701,6 +8119,7 @@ const RAW_CATALOG = [
       en: "Best fitness and leisure swim goggles — flexible curved lens and wide silicone gasket fit a broad range of face shapes, UV400 tinted lenses for indoor and outdoor pools, most forgiving seal in this comparison",
       ja: "最良フィットネス・レジャー水泳ゴーグル — 柔軟な曲面レンズと幅広シリコンガスケットが広い顔型範囲に対応・屋内外両方のプール向けUV400ティンテッドレンズ・この比較で最も寛容なシール",
     },
+    price: "$34.99",
     links: [
       { network: "amazon-us", productId: "B005DKF1N0", rawUrl: "https://www.amazon.com/dp/B005DKF1N0", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-aqua-sphere-kayenne", rawUrl: "https://www.amazon.co.jp/s?k=Aqua+Sphere+Kayenne+%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB", markets: ["JP"], approved: true },
@@ -7710,6 +8129,7 @@ const RAW_CATALOG = [
   {
     id: "barracuda-fenix-goggles",
     imageUrl: "https://cdn.shopify.com/s/files/1/1767/1963/products/FENIXSMALL-FIT-BLACK.jpg",
+    price: "$20",
     category: "fitness",
     name: { en: "Barracuda Fenix Swim Goggles", ja: "バラクーダ フェニックス スイムゴーグル" },
     description: {
@@ -7732,6 +8152,7 @@ const RAW_CATALOG = [
       en: "Best premium foam yoga block — recycled-content EVA foam with above-standard density, beveled edges for both restorative and standing balance poses, consistent Manduka build quality",
       ja: "最良プレミアムフォームヨガブロック — リサイクルコンテンツEVA・標準グレード以上の密度・リストラティブと立位両対応ベベルエッジ・一貫したMandukのビルドクオリティ",
     },
+    price: "$20.00",
     links: [
       { network: "amazon-us", productId: "B07V5HFDTF", rawUrl: "https://www.amazon.com/dp/B07V5HFDTF", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-manduka-recycled-foam-block", rawUrl: "https://www.amazon.co.jp/s?k=Manduka+%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
@@ -7747,6 +8168,7 @@ const RAW_CATALOG = [
       en: "Best natural cork yoga block — non-compressible under full body weight, natural grip that improves in humid conditions, biodegradable material from sustainable cork oak harvesting",
       ja: "最良天然コルクヨガブロック — 全体重下で非圧縮性・湿潤条件で向上する天然グリップ・持続可能なコルクオーク収穫の生分解性素材",
     },
+    price: "$24.00",
     links: [
       { network: "amazon-us", productId: "B01LZWHNZQ", rawUrl: "https://www.amazon.com/dp/B01LZWHNZQ", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-hugger-mugger-cork-block", rawUrl: "https://www.amazon.co.jp/s?k=Hugger+Mugger+%E3%82%B3%E3%83%AB%E3%82%AF+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
@@ -7756,6 +8178,8 @@ const RAW_CATALOG = [
   {
     id: "gaiam-essentials-yoga-block",
     imageUrl: "https://www.gaiam.com/cdn/shop/products/05-63614_YOGA-BLOCK-COOL-MINT_A_2000.jpg?v=1594923566&width=2000",
+    priceMin: "$10",
+    priceMax: "$17",
     category: "fitness",
     name: { en: "Gaiam Essentials Yoga Block", ja: "ガイアム エッセンシャルズ ヨガブロック" },
     description: {
@@ -7777,6 +8201,7 @@ const RAW_CATALOG = [
       en: "Best eco-conscious foam yoga block — recycled-content EVA foam from a brand with documented environmental commitments including a tree-planting program, performance comparable to premium foam",
       ja: "最良エコ意識フォームヨガブロック — 植樹プログラム含む文書化された環境コミットメントブランドのリサイクルコンテンツEVA・プレミアムフォームに匹敵するパフォーマンス",
     },
+    price: "$30.00",
     links: [
       { network: "amazon-us", productId: "B00H0BVHB8", rawUrl: "https://www.amazon.com/dp/B00H0BVHB8", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-jade-yoga-foam-block", rawUrl: "https://www.amazon.co.jp/s?k=JadeYoga+%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
@@ -7792,6 +8217,7 @@ const RAW_CATALOG = [
       en: "Best firm high-density foam yoga block — hardest EVA foam in this comparison with square-cut edges for maximum stability, compression resistance approaching cork, lighter than cork at the same rigidity",
       ja: "最良高密度フォームヨガブロック — この比較で最硬EVAフォーム・最大安定性の四角く切られたエッジ・コルクに近い圧縮抵抗・同じ剛性でコルクより軽量",
     },
+    price: "$19.99",
     links: [
       { network: "amazon-us", productId: "B003M9A6SA", rawUrl: "https://www.amazon.com/dp/B003M9A6SA", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-prosource-firm-foam-block", rawUrl: "https://www.amazon.co.jp/s?k=ProSource+%E9%AB%98%E5%AF%86%E5%BA%A6%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0+%E3%83%A8%E3%82%AC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
@@ -7808,6 +8234,7 @@ const RAW_CATALOG = [
       en: "Best doorframe pull-up bar — no-tools over-the-door lever mount, multiple grip positions (wide overhand, neutral, close supinated), 136 kg static load rating; not designed for kipping or dynamic loading",
       ja: "最良ドア枠懸垂バー — 工具不要オーバードアレバーマウント・複数グリップ位置（ワイドオーバーハンド・ニュートラル・クローズ回外）・136kg静荷重定格；キッピングや動的荷重向きでない",
     },
+    price: "$29.99",
     links: [
       { network: "amazon-us", productId: "B001EJMS6K", rawUrl: "https://www.amazon.com/dp/B001EJMS6K", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-iron-gym-total-body-bar", rawUrl: "https://www.amazon.co.jp/s?k=Iron+Gym+Total+Upper+Body+Workout+Bar", markets: ["JP"], approved: true },
@@ -7817,6 +8244,7 @@ const RAW_CATALOG = [
   {
     id: "fitness-reality-810xlt",
     imageUrl: "https://fitnessrealityshop.com/wp-content/uploads/2025/06/Fitness-Reality-810xlt.webp",
+    price: "$329",
     category: "fitness",
     name: { en: "Fitness Reality 810XLT Wall-Mounted Pull-Up Bar", ja: "Fitness Reality 810XLT 壁取付け懸垂バー" },
     description: {
@@ -7838,6 +8266,7 @@ const RAW_CATALOG = [
       en: "Best heavy-duty wall mount pull-up bar — ROGUE 3-inch mounting system for power racks and wall rafters, rated for kipping pull-ups, weighted pull-ups, and muscle-up training; requires ROGUE mounting infrastructure",
       ja: "最良本格壁取付けプルアップバー — パワーラックと壁垂木向けROGUE 3インチマウントシステム・キッピング懸垂・加重懸垂・マッスルアップトレーニング定格；ROGUEマウントインフラが必要",
     },
+    price: "$105.00",
     links: [
       { network: "amazon-us", productId: "B01LYNH0VQ", rawUrl: "https://www.amazon.com/dp/B01LYNH0VQ", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-rogue-matador-pull-up-bar", rawUrl: "https://www.amazon.co.jp/s?k=ROGUE+Matador+Pull+Up+Bar", markets: ["JP"], approved: true },
@@ -7853,6 +8282,7 @@ const RAW_CATALOG = [
       en: "Best budget doorframe pull-up bar — over-the-door mount, no drilling, 120 kg (265 lb) static load rating, suitable for strict bodyweight pull-ups under 100 kg",
       ja: "最良低価格ドア枠懸垂バー — オーバードアマウント・穴あけ不要・120kg（265ポンド）静荷重定格・100kg未満の厳格な自重懸垂に適する",
     },
+    price: "$19.99",
     links: [
       { network: "amazon-us", productId: "B0026HDURA", rawUrl: "https://www.amazon.com/dp/B0026HDURA", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-prosourcefit-doorway-chinup", rawUrl: "https://www.amazon.co.jp/s?k=ProsourceFit+Multi-Use+Doorway+Chinup+Bar", markets: ["JP"], approved: true },
@@ -7868,6 +8298,7 @@ const RAW_CATALOG = [
       en: "Best freestanding pull-up option — no wall or door anchoring required, resistance band integration, suitable for renters and frequent movers; lower stability than mounted bars, not designed for kipping",
       ja: "最良自立式プルアップオプション — 壁やドアへのアンカー不要・レジスタンスバンド統合・賃貸居住者と頻繁な引越しに対応；取付けバーより安定性低下・キッピング向きでない",
     },
+    price: "$199.00",
     links: [
       { network: "amazon-us", productId: "B07MVLK9YK", rawUrl: "https://www.amazon.com/dp/B07MVLK9YK", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-gorilla-bow-pull-up-station", rawUrl: "https://www.amazon.co.jp/s?k=Gorilla+Bow+Portable+Pull-Up+Station", markets: ["JP"], approved: true },
@@ -7885,6 +8316,7 @@ const RAW_CATALOG = [
       en: "Personalized whole-bean subscription matched from 60+ roasters. Ships within 1-3 days of roast. Preference quiz + ratings feedback loop refines matches over time. Best for curious drinkers who want variety without researching individual roasters.",
       ja: "60以上のロースターからAIマッチングするホールビーンサブスク。焙煎後1〜3日以内に発送。好みクイズと評価フィードバックでマッチング精度が向上。個々のロースターを調べずに多様性を求める方に最適。",
     },
+    price: "$16.99",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-trade-coffee-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Trade+Coffee+Subscription", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-trade-coffee-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
@@ -7893,6 +8325,7 @@ const RAW_CATALOG = [
   {
     id: "atlas-coffee-club",
     imageUrl: "https://cdn.shopify.com/s/files/1/0723/6423/products/atlas_sub_10717404-6f6f-4b85-b8c0-89edaaafd6cb.png?v=1500261171",
+    price: "$17",
     category: "food",
     badge: "🌍",
     name: { en: "Atlas Coffee Club", ja: "Atlas Coffee Club" },
@@ -7915,6 +8348,7 @@ const RAW_CATALOG = [
       en: "Roasts to order, ships within 24-48 hrs of roast. Lighter roasts, process-forward lots, consistently high cup quality. Best for buyers who already know they prefer light-roasted specialty coffee.",
       ja: "受注焙煎・焙煎後24〜48時間以内発送。ライトロースト・製法重視・高品質ロット。自分がライトロースト系スペシャルティコーヒーが好きだとわかっている方に最適。",
     },
+    price: "$19.95",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-onyx-coffee-lab-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Onyx+Coffee+Lab+Subscription", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-onyx-coffee-lab-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%8B%E3%82%AD%E3%82%B9%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A9%E3%83%9C%20%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
@@ -7923,6 +8357,7 @@ const RAW_CATALOG = [
   {
     id: "angels-cup-subscription",
     imageUrl: "https://angelscup.com/cdn/shop/files/coffee__HERO.jpg?v=1724998147&width=3840",
+    price: "$22.99",
     category: "food",
     badge: "😇",
     name: { en: "Angels' Cup Subscription", ja: "Angels' Cup サブスクリプション" },
@@ -7946,6 +8381,7 @@ const RAW_CATALOG = [
       en: "Best international snack subscription — retail products from a new country each month, 10 full-size snacks at ~$30/month including shipping. Authentic local brands in original packaging. Best for snackers who want the real thing from each country.",
       ja: "最高の海外スナックサブスク——毎月新しい国から市販スナック10品、送料込み約4,500円/月。現地ブランドのオリジナルパッケージ。その国の本物を求める方に最適。",
     },
+    price: "$26.00",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-snackcrate-subscription", rawUrl: "https://www.amazon.co.jp/s?k=SnackCrate+Subscription+Box", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-snackcrate-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSnackCrate+%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
@@ -7954,6 +8390,7 @@ const RAW_CATALOG = [
   {
     id: "universal-yums-subscription",
     category: "food",
+    price: "$20/month",
     badge: "🗺️",
     name: { en: "Universal Yums Subscription", ja: "Universal Yums サブスクリプション" },
     description: {
@@ -7975,6 +8412,7 @@ const RAW_CATALOG = [
       en: "Best healthy snack subscription — 9 nutritionist-designed snacks at ~$13/month, explicit allergen labeling, dedicated vegan box available. Best for health-conscious snackers who want variety without dietary compromise.",
       ja: "最高の健康志向スナックサブスク——栄養士設計の9品が約1,800円/月、明示的なアレルゲン表示、専用ビーガンボックスあり。食事制限なしに多様性を求める健康志向の方に最適。",
     },
+    price: "$13.99",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-graze-snack-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Graze+Snack+Subscription+Box", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-graze-snack-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGraze+%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF+%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
@@ -7990,6 +8428,7 @@ const RAW_CATALOG = [
       en: "Best artisan US snack subscription — 6-8 full-size items from small-batch American producers at $40-45/month. Producer story inserts, genuine small-business sourcing. Best for food culture enthusiasts supporting independent makers.",
       ja: "最高のアメリカ職人スナックサブスク——小規模アメリカ生産者からのフルサイズアイテム6〜8品が約6,000〜6,500円/月。生産者ストーリーカード付き。独立した作り手を応援したいフードカルチャー愛好家に最適。",
     },
+    price: "$60.00",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-mouth-snack-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Mouth+Artisan+Snack+Subscription+Box", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-mouth-snack-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMouth+%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B6%E3%83%B3+%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
@@ -8005,6 +8444,7 @@ const RAW_CATALOG = [
       en: "Best Japanese snack subscription — 20-25 items in Classic tier ($49/month) sourced from Japanese family producers, many with limited outside-Japan distribution. Producer-focused culture guide. Best for people with specific interest in Japanese food culture.",
       ja: "最高の和菓子サブスク——クラシックティアで20〜25品（約7,000円/月）、日本国外にはほとんど流通していない日本の家族経営生産者から調達。生産者フォーカスの文化ガイド付き。日本のフードカルチャーに関心がある方に最適。",
     },
+    price: "$44.95",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-bokksu-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Bokksu+%E5%92%8C%E8%8F%93%E5%AD%90+%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-bokksu-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBokksu+%E5%92%8C%E8%8F%93%E5%AD%90+%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%2F", markets: ["JP"], approved: true },
@@ -8020,6 +8460,7 @@ const RAW_CATALOG = [
       en: "Reliable dark-roast subscription at ~$12-15/12 oz with free shipping. Consistent blend, no learning curve, available whole bean or pre-ground. Best for drinkers who want the same reliable cup every morning without variety.",
       ja: "安定したダークローストサブスク。約1,600〜2,000円/12オンス、送料無料。一貫したブレンド、学習曲線なし、ホールビーンまたは挽き豆で選択可能。毎朝変化なく同じ安定したカップが欲しい方に最適。",
     },
+    price: "$18.95",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-peets-coffee-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Peets+Coffee+Major+Dickasons+Blend", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-peets-coffee-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%94%E3%83%BC%E3%83%84%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3%E3%82%BA%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
@@ -8036,6 +8477,7 @@ const RAW_CATALOG = [
       en: "Best everyday personalized wine subscription — algorithm-matched selections at $13-20/bottle, free shipping on 4+ bottles. Ratings feedback improves personalization over time. Best for drinkers who want consistent quality delivered on autopilot.",
       ja: "日常飲み向け最高のパーソナライズワインサブスク——1本13〜20ドルのアルゴリズムマッチング選定、4本以上送料無料。評価フィードバックでパーソナライズが継続的に向上。手間なく安定品質を求める飲み手に最適。",
     },
+    price: "$59.95",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-winc-subscription", rawUrl: "https://www.amazon.co.jp/s?k=Winc+Wine+Subscription", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-winc-subscription", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWinc%2B%E3%83%AF%E3%82%A4%E3%83%B3%2B%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
@@ -8044,6 +8486,7 @@ const RAW_CATALOG = [
   {
     id: "firstleaf-subscription",
     imageUrl: "https://blog.mysubscriptionaddiction.com/wp-content/uploads/2021/12/14/YIR_FirstLeaf_FEATURED-733x733.jpg",
+    price: "$13.33/bottle",
     category: "food",
     badge: "🍃",
     name: { en: "Firstleaf Wine Subscription", ja: "Firstleafワインサブスクリプション" },
@@ -8059,6 +8502,7 @@ const RAW_CATALOG = [
   {
     id: "naked-wines-subscription",
     imageUrl: "https://0ccd0cac.delivery.rocketcdn.me/wp-content/uploads/2012/11/new-naked-wines-scaled.jpg",
+    price: "$13/bottle",
     category: "food",
     badge: "👼",
     name: { en: "Naked Wines Angel Membership", ja: "Naked Wines Angelメンバーシップ" },
@@ -8074,6 +8518,7 @@ const RAW_CATALOG = [
   {
     id: "wine-access-subscription",
     imageUrl: "https://static.wineaccess.com/nuxt3/_nuxt/bottles-per-homepage-banner.Bh-KVNcf.png",
+    price: "$25/bottle",
     category: "food",
     badge: "🏆",
     name: { en: "Wine Access Membership", ja: "Wine Accessメンバーシップ" },
@@ -8096,6 +8541,7 @@ const RAW_CATALOG = [
       en: "Best overall for meal kit beginners — widest weekly recipe selection (30–40 options), reliable portions, skip mechanics that work without a support call. Mid-range per-serving cost with difficulty levels from easy 20-minute meals to chef's choice techniques.",
       ja: "ミールキット初心者向け総合最高——週30〜40の幅広いレシピ選択、安定した食材量、サポートへの連絡不要で機能するスキップ機能。簡単な20分料理からシェフズチョイスのテクニックまで難易度幅あり。",
     },
+    price: "$70.93",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-hellofresh-meal-kit", rawUrl: "https://www.amazon.co.jp/s?k=HelloFresh+%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-hellofresh-meal-kit", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHelloFresh%2B%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
@@ -8111,6 +8557,7 @@ const RAW_CATALOG = [
       en: "Best for cooking skill development — technique-forward recipes with detailed instruction cards that explain why, not just what. Smaller weekly menu (12–16 recipes) with consistent ingredient quality. Best for cooks who want meal delivery to teach them something.",
       ja: "料理スキル習得に最適——なぜそのテクニックを使うかを説明する詳細なインストラクションカード付きのテクニック重視レシピ。週12〜16レシピで一貫した食材品質。料理を通じて何かを学びたい人に最適。",
     },
+    price: "$71.92",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-blue-apron-meal-kit", rawUrl: "https://www.amazon.co.jp/s?k=Blue+Apron+%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-blue-apron-meal-kit", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBlue%2BApron%2B%E3%83%9F%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
@@ -8119,6 +8566,7 @@ const RAW_CATALOG = [
   {
     id: "green-chef-meal-kit",
     imageUrl: "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2021/01/596114-Green-Chef-meal-delivery-review_1296x728-Header-cedd87.jpg",
+    price: "$12.99/serving",
     category: "food",
     badge: "🥗",
     name: { en: "Green Chef Meal Kit", ja: "Green Chefミールキット" },
@@ -8134,6 +8582,7 @@ const RAW_CATALOG = [
   {
     id: "everyplate-meal-kit",
     imageUrl: "https://media.post.rvohealth.io/wp-content/uploads/2023/11/everyplate-chicken-fajitas-1296-728-header.jpg",
+    price: "$5.99/serving",
     category: "food",
     badge: "💰",
     name: { en: "EveryPlate Meal Kit", ja: "EveryPlateミールキット" },
@@ -8149,6 +8598,7 @@ const RAW_CATALOG = [
   {
     id: "sunbasket-meal-kit",
     imageUrl: "https://mealfan.com/wp-content/uploads/2020/03/Feature_Sunbasket.webp",
+    price: "$11.49/serving",
     category: "food",
     badge: "🌿",
     name: { en: "Sunbasket Meal Kit", ja: "Sunbasketミールキット" },
@@ -8164,6 +8614,7 @@ const RAW_CATALOG = [
   {
     id: "bright-cellars-subscription",
     imageUrl: "https://thepinkenvelope.com/wp-content/uploads/2021/08/maxresdefault.jpg",
+    price: "$20/bottle",
     category: "food",
     badge: "🌟",
     name: { en: "BRIGHT Cellars Wine Subscription", ja: "BRIGHT Cellarsワインサブスクリプション" },
@@ -8195,6 +8646,7 @@ const RAW_CATALOG = [
   {
     id: "kirkland-organic-evoo",
     imageUrl: "https://wepack4u.com/cdn/shop/products/imageService_7_19cbe77f-2717-49f8-b4a3-16eb6b83024f.jpg?v=1662242656&width=1945",
+    price: "$20.99",
     category: "food",
     name: { en: "Kirkland Signature Organic Extra Virgin Olive Oil", ja: "カークランドシグネチャー オーガニックエクストラバージンオリーブオイル" },
     description: {
@@ -8215,6 +8667,7 @@ const RAW_CATALOG = [
       en: "Best premium single-origin finishing oil — harvest date and pressing date labeled, direct-to-consumer supply chain, high-polyphenol California Arbequina/Arbosana blend with assertive grassy flavor. Best for finishing use where oil flavor is the point.",
       ja: "最高のプレミアムシングルオリジン仕上げオイル——収穫日と搾油日ラベル記載、コンシューマーダイレクトのサプライチェーン、主張の強い草の香りを持つ高ポリフェノールのカリフォルニア産アルベキーナ/アルボサナブレンド。オイルの風味が重要な仕上げ用途に最適。",
     },
+    price: "$40.00",
     links: [
       { network: "amazon-us", productId: "B07NXHV1W8", rawUrl: "https://www.amazon.com/dp/B07NXHV1W8", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-brightland-alive-evoo", rawUrl: "https://www.amazon.co.jp/s?k=Brightland+Alive+%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB", markets: ["JP"], approved: true },
@@ -8230,6 +8683,7 @@ const RAW_CATALOG = [
       en: "Best for high-heat cooking — higher-polyphenol Robust designation from Coratina and Koroneiki varieties provides oxidative stability at cooking temperatures, harvest-date labeled. Peppery, assertive flavor profile. Best for sautéing and roasting.",
       ja: "高温調理に最適——コラティーナとコロネイキ品種からのRobust指定による高ポリフェノールが調理温度での酸化安定性を提供、収穫日ラベル付き。ピリッとした主張のある風味プロファイル。ソテーとローストに最適。",
     },
+    price: "$25.50",
     links: [
       { network: "amazon-us", productId: "B07DWZ53CB", rawUrl: "https://www.amazon.com/dp/B07DWZ53CB", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-cobram-estate-robust-evoo", rawUrl: "https://www.amazon.co.jp/s?k=Cobram+Estate+Robust+%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB", markets: ["JP"], approved: true },
@@ -8261,6 +8715,7 @@ const RAW_CATALOG = [
       en: "Best connected spin bike with live classes — 21.5-inch HD touchscreen, 16 kg flywheel, silent magnetic resistance, and the Peloton All-Access content library with 50,000+ on-demand and live instructor-led rides",
       ja: "ライブクラス最高のコネクテッドスピンバイク — 21.5インチHDタッチスクリーン・16kgフライホイール・静音マグネティックレジスタンス・5万以上のオンデマンドとライブクラスのPeloton All-Accessコンテンツライブラリ",
     },
+    price: "$1,445.00",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-peloton-bike", rawUrl: "https://www.amazon.co.jp/s?k=Peloton+%E3%83%90%E3%82%A4%E3%82%AF+%E3%82%B9%E3%83%94%E3%83%B3%E3%83%90%E3%82%A4%E3%82%AF", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-peloton-bike", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPeloton+%E3%83%90%E3%82%A4%E3%82%AF%2F", markets: ["JP"], approved: true },
@@ -8275,6 +8730,7 @@ const RAW_CATALOG = [
       en: "Best value connected indoor cycling bike — 18 kg flywheel, 100-level magnetic resistance, full four-way adjustability, Bluetooth compatibility with Peloton, Zwift, and Apple Fitness+ without a built-in screen",
       ja: "最高コストパフォーマンスのコネクテッドインドアサイクリングバイク — 18kgフライホイール・100段階マグネティックレジスタンス・完全4方向調整性・Peloton/Zwift/Apple Fitness+対応Bluetooth（内蔵スクリーンなし）",
     },
+    price: "$899.99",
     links: [
       { network: "amazon-us", productId: "B08HMNT68B", rawUrl: "https://www.amazon.com/dp/B08HMNT68B", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-schwinn-ic4", rawUrl: "https://www.amazon.co.jp/s?k=Schwinn+IC4+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%90%E3%82%A4%E3%82%AF", markets: ["JP"], approved: true },
@@ -8290,6 +8746,7 @@ const RAW_CATALOG = [
       en: "Best incline training spin bike — motorized -10 to +20% incline, 22-inch rotating touchscreen, iFit automatic resistance sync for terrain simulation; the most technically ambitious home indoor cycling bike",
       ja: "最高の傾斜トレーニングスピンバイク — 電動-10〜+20%傾斜・22インチ回転タッチスクリーン・iFit自動レジスタンス同期による地形シミュレーション；最も技術的に野心的なホームインドアサイクリングバイク",
     },
+    price: "$1,689.00",
     links: [
       { network: "amazon-us", productId: "B07TXDFQY6", rawUrl: "https://www.amazon.com/dp/B07TXDFQY6", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-nordictrack-s22i", rawUrl: "https://www.amazon.co.jp/s?k=NordicTrack+S22i+%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB", markets: ["JP"], approved: true },
@@ -8305,6 +8762,7 @@ const RAW_CATALOG = [
       en: "Best budget connected bike with leaning feature — unique 25-degree side-to-side lean engages core and lateral stabilizers, 16-inch touchscreen, JRNY app; corrects lower-back fatigue from static riding positions",
       ja: "傾斜機能付き最高のコネクテッドバジェットバイク — ユニークな25度左右傾斜でコアと側方安定筋を使う・16インチタッチスクリーン・JRNYアプリ；静止ライド姿勢からの腰部疲労を改善",
     },
+    price: "$1,299.00",
     links: [
       { network: "amazon-us", productId: "B08NKZF7ZK", rawUrl: "https://www.amazon.com/dp/B08NKZF7ZK", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-bowflex-velocore-16", rawUrl: "https://www.amazon.co.jp/s?k=Bowflex+VeloCore+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%83%90%E3%82%A4%E3%82%AF", markets: ["JP"], approved: true },
@@ -8336,6 +8794,7 @@ const RAW_CATALOG = [
       en: "Best overall connected treadmill — 3.75 CHP motor, 56×152 cm belt, FlexSelect adjustable cushioning, -3% to 15% incline, 14-inch HD touchscreen with iFit terrain simulation and automatic speed/incline control",
       ja: "最高の総合コネクテッドトレッドミル — 3.75 CHPモーター・56×152 cmベルト・FlexSelect調整可能クッション・-3%〜15%傾斜・iFit地形シミュレーション付き14インチHDタッチスクリーン・自動速度/傾斜制御",
     },
+    price: "$2,499.00",
     links: [
       { network: "amazon-us", productId: "B08HMNT68B", rawUrl: "https://www.amazon.com/dp/B08HMNT68B", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-nordictrack-commercial-1750", rawUrl: "https://www.amazon.co.jp/s?k=NordicTrack+Commercial+1750+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB", markets: ["JP"], approved: true },
@@ -8351,6 +8810,7 @@ const RAW_CATALOG = [
       en: "Best for live class running experience — rubber slat belt for superior cushioning, 3.0 CHP motor, 56×152 cm belt, 12% incline/-3% decline, Peloton running content with structured training plans from 5K to marathon",
       ja: "ライブクラスランニング体験に最適 — 優れたクッション性のゴムスラットベルト・3.0 CHPモーター・56×152 cmベルト・12%傾斜/-3%下降・5Kからマラソンまでの構造化トレーニングプラン付きPelotonランニングコンテンツ",
     },
+    price: "$3,295",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-peloton-tread", rawUrl: "https://www.amazon.co.jp/s?k=Peloton+Tread+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-peloton-tread", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPeloton+Tread+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -8365,6 +8825,7 @@ const RAW_CATALOG = [
       en: "Best mid-range connected treadmill — 4.0 CHP motor, 56×152 cm belt, 20% incline/-6% decline (widest range in class), JRNY adaptive coaching adjusts speed in real time based on heart rate",
       ja: "最高の中間コネクテッドトレッドミル — 4.0 CHPモーター・56×152 cmベルト・20%傾斜/-6%下降（クラス最広範囲）・心拍数に基づきリアルタイムで速度を調整するJRNYアダプティブコーチング",
     },
+    price: "$2,799",
     links: [
       { network: "amazon-us", productId: "B0899YPGZ7", rawUrl: "https://www.amazon.com/dp/B0899YPGZ7", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-bowflex-treadmill-22", rawUrl: "https://www.amazon.co.jp/s?k=Bowflex+Treadmill+22+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB", markets: ["JP"], approved: true },
@@ -8380,6 +8841,7 @@ const RAW_CATALOG = [
       en: "Best budget folding treadmill — 2.5 CHP motor, 51×137 cm belt, 12% incline, foldable deck with transport wheels; lifetime motor and frame warranty; correct for walkers and light joggers with space constraints",
       ja: "最高のバジェット折りたたみトレッドミル — 2.5 CHPモーター・51×137 cmベルト・12%傾斜・運搬ホイール付き折りたたみデッキ；生涯モーターとフレーム保証；スペース制約のあるウォーカーと軽いジョガーに最適",
     },
+    price: "$649",
     links: [
       { network: "amazon-us", productId: "B07PKWZX5Y", rawUrl: "https://www.amazon.com/dp/B07PKWZX5Y", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-horizon-fitness-t101", rawUrl: "https://www.amazon.co.jp/s?k=Horizon+Fitness+T101+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB", markets: ["JP"], approved: true },
@@ -8395,6 +8857,7 @@ const RAW_CATALOG = [
       en: "Best commercial-grade belt durability — 3.0 CHP motor, 56×152 cm belt, 15% incline, Flex Deck cushioning built to commercial gym standards; lifetime motor and frame warranty; no connected content, pure running machine",
       ja: "最高の業務用グレードベルト耐久性 — 3.0 CHPモーター・56×152 cmベルト・15%傾斜・商業ジム基準のFlex Deckクッション；生涯モーターとフレーム保証；コネクテッドコンテンツなし・純粋なランニングマシン",
     },
+    price: "$3,400",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-lifefitness-t3", rawUrl: "https://www.amazon.co.jp/s?k=Life+Fitness+T3+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-lifefitness-t3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLife+Fitness+T3+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -8410,6 +8873,7 @@ const RAW_CATALOG = [
       en: "Classic fermented pepper sauce, 2,500–5,000 Scoville",
       ja: "発酵ペッパーソースの定番、2,500〜5,000スコヴィル",
     },
+    price: "$4.99",
     links: [
       { network: "amazon-us", productId: "B000FDW0KE", rawUrl: "https://www.amazon.com/dp/B000FDW0KE", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-tabasco-original-red", rawUrl: "https://www.amazon.co.jp/s?k=tabasco+original+red+sauce", markets: ["JP"], approved: true },
@@ -8425,6 +8889,7 @@ const RAW_CATALOG = [
       en: "Mexican-style pequin and arbol chile blend, ~1,000–2,000 Scoville",
       ja: "メキシカンスタイル、ペキンとアルボルチリのブレンド",
     },
+    price: "$3.92",
     links: [
       { network: "amazon-us", productId: "B005KG6DPC", rawUrl: "https://www.amazon.com/dp/B005KG6DPC", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-cholula-original", rawUrl: "https://www.amazon.co.jp/s?k=cholula+hot+sauce+original", markets: ["JP"], approved: true },
@@ -8440,6 +8905,7 @@ const RAW_CATALOG = [
       en: "Thick Mexican hot sauce, ~2,100 Scoville, exceptional value",
       ja: "コクのあるメキシカンホットソース、コスパ抜群",
     },
+    price: "$2.49",
     links: [
       { network: "amazon-us", productId: "B006TF7HGK", rawUrl: "https://www.amazon.com/dp/B006TF7HGK", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-valentina-extra-hot", rawUrl: "https://www.amazon.co.jp/s?k=valentina+extra+hot+sauce", markets: ["JP"], approved: true },
@@ -8455,6 +8921,7 @@ const RAW_CATALOG = [
       en: "Louisiana-style aged cayenne sauce, ~800–1,000 Scoville",
       ja: "ルイジアナスタイル、熟成カイエンペッパー使用",
     },
+    price: "$3.68",
     links: [
       { network: "amazon-us", productId: "B00L64JVVY", rawUrl: "https://www.amazon.com/dp/B00L64JVVY", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-crystal-hot-sauce", rawUrl: "https://www.amazon.co.jp/s?k=crystal+hot+sauce+louisiana", markets: ["JP"], approved: true },
@@ -8470,6 +8937,7 @@ const RAW_CATALOG = [
       en: "Mild cayenne hot sauce, ~450 Scoville, classic buffalo wing base",
       ja: "マイルドなカイエンホットソース、バッファローウィングの定番",
     },
+    price: "$3.97",
     links: [
       { network: "amazon-us", productId: "B000W4AZOI", rawUrl: "https://www.amazon.com/dp/B000W4AZOI", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-franks-redhot-original", rawUrl: "https://www.amazon.co.jp/s?k=frank%27s+redhot+original", markets: ["JP"], approved: true },
@@ -8486,6 +8954,7 @@ const RAW_CATALOG = [
       en: "Air resistance rower with PM5 monitor, industry standard",
       ja: "エアー抵抗式、PM5モニター搭載、業界標準モデル",
     },
+    price: "$1,105",
     links: [
       { network: "amazon-us", productId: "B014YGJXIW", rawUrl: "https://www.amazon.com/dp/B014YGJXIW", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-concept2-model-d", rawUrl: "https://www.amazon.co.jp/s?k=concept2+model+d+rowing+machine", markets: ["JP"], approved: true },
@@ -8501,6 +8970,7 @@ const RAW_CATALOG = [
       en: "Electromagnetic resistance, 16-inch touchscreen, live and on-demand classes",
       ja: "電磁抵抗式、16インチタッチスクリーン、ライブ・オンデマンドクラス対応",
     },
+    price: "$1,495",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-hydrow-wave-rower", rawUrl: "https://www.amazon.co.jp/s?k=hydrow+wave+rower", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-hydrow-wave-rower", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AD%E3%83%BC%2B%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
@@ -8515,6 +8985,7 @@ const RAW_CATALOG = [
       en: "22-inch HD touchscreen, 26 resistance levels, iFIT compatible",
       ja: "22インチHDタッチスクリーン、抵抗26段階、iFIT対応",
     },
+    price: "$2,799",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-nordictrack-rw900", rawUrl: "https://www.amazon.co.jp/s?k=nordictrack+rw900+rowing+machine", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-nordictrack-rw900", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%2B%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
@@ -8523,6 +8994,8 @@ const RAW_CATALOG = [
   {
     id: "ergatta-rower",
     imageUrl: "https://cdn.shopify.com/s/files/1/0657/5213/7954/files/1025-ErgattaLuxe-1.png?v=1769962548",
+    priceMin: "$1,999",
+    priceMax: "$2,499",
     category: "fitness",
     name: { en: "Ergatta Water Rower", ja: "エルガッタ ウォーターローイングマシン" },
     description: {
@@ -8543,6 +9016,7 @@ const RAW_CATALOG = [
       en: "Budget magnetic rower, 12 resistance levels, quiet operation",
       ja: "コスパ重視、磁気抵抗12段階、静音設計",
     },
+    price: "$399",
     links: [
       { network: "amazon-us", productId: "B07YY1HXX7", rawUrl: "https://www.amazon.com/dp/B07YY1HXX7", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-sunny-sf-rw5515", rawUrl: "https://www.amazon.co.jp/s?k=sunny+health+rowing+machine+magnetic", markets: ["JP"], approved: true },
@@ -8559,6 +9033,7 @@ const RAW_CATALOG = [
       en: "The original raw unpasteurized kombucha, live cultures, bold fermented flavor",
       ja: "生・非加熱の元祖コンブチャ、生きた菌入り、本格発酵フレーバー",
     },
+    price: "$3.48",
     links: [
       { network: "amazon-us", productId: "B005YIBXRW", rawUrl: "https://www.amazon.com/dp/B005YIBXRW", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-gts-synergy-kombucha", rawUrl: "https://www.amazon.co.jp/s?k=GT%27s+synergy+kombucha", markets: ["JP"], approved: true },
@@ -8574,6 +9049,7 @@ const RAW_CATALOG = [
       en: "Glass bottle fermented kombucha, widely available flavors, clean taste",
       ja: "ガラス瓶醸造コンブチャ、豊富なフレーバー、すっきりとした味わい",
     },
+    price: "$2.94",
     links: [
       { network: "amazon-us", productId: "B019K7H3YS", rawUrl: "https://www.amazon.com/dp/B019K7H3YS", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-health-ade-kombucha", rawUrl: "https://www.amazon.co.jp/s?k=health+ade+kombucha", markets: ["JP"], approved: true },
@@ -8583,6 +9059,7 @@ const RAW_CATALOG = [
   {
     id: "brew-dr-kombucha",
     imageUrl: "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/680167a71a09e57dbbf5765e_BDK_Outdoor-Lifestyle_4I5A9685-16x9.jpg",
+    price: "$3.99",
     category: "food",
     name: { en: "Brew Dr. Kombucha", ja: "ブリュードクター コンブチャ" },
     description: {
@@ -8604,6 +9081,7 @@ const RAW_CATALOG = [
       en: "Beginner-friendly, low sugar, mild flavor, lighter carbonation",
       ja: "初心者向け、低糖質、マイルドな風味、軽めの炭酸",
     },
+    price: "$2.64",
     links: [
       { network: "amazon-us", productId: "B07FCMQR9V", rawUrl: "https://www.amazon.com/dp/B07FCMQR9V", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-humm-kombucha", rawUrl: "https://www.amazon.co.jp/s?k=humm+kombucha", markets: ["JP"], approved: true },
@@ -8619,6 +9097,7 @@ const RAW_CATALOG = [
       en: "PepsiCo backed, 6 billion CFU probiotics, bold carbonation, wide distribution",
       ja: "ペプシコ傘下、60億CFUプロバイオティクス、しっかり炭酸、全国流通",
     },
+    price: "$3.99",
     links: [
       { network: "amazon-us", productId: "B079SV9K6T", rawUrl: "https://www.amazon.com/dp/B079SV9K6T", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-kevita-master-brew", rawUrl: "https://www.amazon.co.jp/s?k=kevita+master+brew+kombucha", markets: ["JP"], approved: true },
@@ -8635,6 +9114,7 @@ const RAW_CATALOG = [
       en: "Carbon steel internal spring assists rollout phase, ultra-wide 7.5-inch wheel for oblique carving, ergonomic 45-degree handles to reduce wrist strain",
       ja: "カーボンスチールスプリングでロールアウトをアシスト、幅約19cmの超ワイドホイールで腹斜筋を刺激、45度人間工学的ハンドルで手首負担軽減",
     },
+    price: "$39.99",
     links: [
       { network: "amazon-us", productId: "B00AQ3MUH0", rawUrl: "https://www.amazon.com/dp/B00AQ3MUH0", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-perfect-fitness-ab-carver-pro", rawUrl: "https://www.amazon.co.jp/s?k=perfect+fitness+ab+carver+pro", markets: ["JP"], approved: true },
@@ -8643,7 +9123,9 @@ const RAW_CATALOG = [
   },
   {
     id: "elite-sportz-ab-roller",
+    imageUrl: "https://m.media-amazon.com/images/I/71iW1vsubxL._AC_SL1500_.jpg",
     category: "fitness",
+    price: "$25",
     name: { en: "Elite Sportz Ab Roller Wheel", ja: "エリートスポーツ アブローラーホイール" },
     description: {
       en: "Wide foam-grip wheel with excellent floor traction, no assembly required, ergonomic non-slip handles, knee pad included",
@@ -8664,6 +9146,7 @@ const RAW_CATALOG = [
       en: "Dual independent wheels for lateral stability, elevated handles for neutral wrist position, folds flat for gym bag storage",
       ja: "デュアル独立ホイールで横方向安定性抜群、高めハンドルで手首を自然な角度に保つ、折りたたみジムバッグ収納対応",
     },
+    price: "$44.99",
     links: [
       { network: "amazon-us", productId: "B00BFYMDMU", rawUrl: "https://www.amazon.com/dp/B00BFYMDMU", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-sklz-core-wheels", rawUrl: "https://www.amazon.co.jp/s?k=sklz+core+wheels+ab+roller", markets: ["JP"], approved: true },
@@ -8672,7 +9155,9 @@ const RAW_CATALOG = [
   },
   {
     id: "vinsguir-ab-roller",
+    imageUrl: "https://m.media-amazon.com/images/I/71WYhvuQfbL._AC_SL1497_.jpg",
     category: "fitness",
+    price: "$20",
     name: { en: "Vinsguir Ab Roller Wheel", ja: "ヴィンスガー アブローラーホイール" },
     description: {
       en: "Textured non-slip wheel surface, foam handles, 440 lb capacity, knee pad included, best value entry-level pick",
@@ -8693,6 +9178,7 @@ const RAW_CATALOG = [
       en: "Rocker base adds balance challenge to standard rollouts, forces deep core stabilizers to fire continuously, advanced progression tool",
       ja: "ロッカーベースで標準ロールアウトにバランス挑戦を追加、深層安定筋を常に発火、上級者向け進化型ツール",
     },
+    price: "$46.39",
     links: [
       { network: "amazon-us", productId: "B00F4DCMVM", rawUrl: "https://www.amazon.com/dp/B00F4DCMVM", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-power-systems-versadisc", rawUrl: "https://www.amazon.co.jp/s?k=power+systems+versadisc+ab+wheel", markets: ["JP"], approved: true },
@@ -8708,6 +9194,7 @@ const RAW_CATALOG = [
       en: "Ceremonial grade matcha from Kyoto's most respected tea house, founded 1717. Vivid green color, umami-forward with natural sweetness.",
       ja: "1717年創業、京都屈指の老舗茶舗・一保堂の抹茶グレード。鮮やかな緑色と旨味、自然な甘みが特徴の儀式用抹茶。",
     },
+    price: "¥4,000",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-ippodo-matcha-ummon", rawUrl: "https://www.amazon.co.jp/s?k=%E4%B8%80%E4%BF%9D%E5%A0%82+%E6%8A%B9%E8%8C%B6+%E9%9B%B2%E9%96%80", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-ippodo-matcha-ummon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%80%E4%BF%9D%E5%A0%82%2B%E6%8A%B9%E8%8C%B6%2B%E9%9B%B2%E9%96%80%2F", markets: ["JP"], approved: true },
@@ -8722,6 +9209,7 @@ const RAW_CATALOG = [
       en: "USDA organic certified, single-origin from Uji, Japan. First-harvest option available. Resealable foil pouch for freshness.",
       ja: "USDAオーガニック認証、宇治産シングルオリジン。一番茶あり。酸化を防ぐ再封可能フォイルポーチ入り。",
     },
+    price: "$29.99",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-encha-ceremonial-matcha", rawUrl: "https://www.amazon.co.jp/s?k=encha+%E5%AE%87%E6%B2%BB+%E6%8A%B9%E8%8C%B6+%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-encha-ceremonial-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEncha%2B%E6%8A%B9%E8%8C%B6%2B%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%2F", markets: ["JP"], approved: true },
@@ -8730,6 +9218,7 @@ const RAW_CATALOG = [
   {
     id: "jade-leaf-ceremonial-matcha",
     imageUrl: "https://www.jadeleafmatcha.com/cdn/shop/files/Teahouse-Tin-Mockup-White-30g-FRONT_1.png",
+    price: "$26.99",
     category: "food",
     name: { en: "Jade Leaf Organic Ceremonial Matcha", ja: "Jade Leaf オーガニック抹茶（儀式用グレード）" },
     description: {
@@ -8750,6 +9239,7 @@ const RAW_CATALOG = [
       en: "Small-batch, farm-direct from Uji. Transparent harvest dates and growing methods. Deep emerald color, clean grassy-sweet flavor.",
       ja: "宇治の農家と直接契約したスモールバッチ。収穫日・栽培方法の透明性が高い。深いエメラルド色とクリーンな草・甘みのフレーバー。",
     },
+    price: "$27.95",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-matcha-konomi-uji", rawUrl: "https://www.amazon.co.jp/s?k=%E6%8A%B9%E8%8C%B6+%E5%AE%87%E6%B2%BB%E7%94%A3+%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%E3%83%90%E3%83%83%E3%83%81", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-matcha-konomi-uji", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%8A%B9%E8%8C%B6%2B%E5%AE%87%E6%B2%BB%E7%94%A3%2B%E7%A2%BE%E8%8C%B6%2F", markets: ["JP"], approved: true },
@@ -8764,6 +9254,7 @@ const RAW_CATALOG = [
       en: "Subscription-friendly ceremonial grade matcha. Lower per-serving cost than heritage brands. Clean flavor, bright color. Single-serve packets available.",
       ja: "定期便でお得な抹茶グレード。老舗ブランドより低コスト。クリーンな風味と適切な明るさの色。個包装タイプもあり。",
     },
+    price: "$19.90",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-tenzo-matcha", rawUrl: "https://www.amazon.co.jp/s?k=tenzo+%E6%8A%B9%E8%8C%B6+%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-tenzo-matcha", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTenzo%2B%E6%8A%B9%E8%8C%B6%2F", markets: ["JP"], approved: true },
@@ -8773,7 +9264,10 @@ const RAW_CATALOG = [
   // ───────── Fitness / Battle Ropes (best-battle-rope-2026) ─────────
   {
     id: "power-guidance-battle-rope",
+    imageUrl: "https://m.media-amazon.com/images/I/71wuXkDDK3L._AC_SL1100_.jpg",
     category: "fitness",
+    priceMin: "$40",
+    priceMax: "$90",
     name: { en: "Power Guidance Battle Rope", ja: "パワーガイダンス バトルロープ" },
     description: {
       en: "Woven polyester sleeve protects core rope from fraying, heat-shrink end caps, available in 1.5\" and 2\" diameters, 30–50 ft lengths",
@@ -8786,7 +9280,10 @@ const RAW_CATALOG = [
   },
   {
     id: "garage-fit-battle-rope",
+    imageUrl: "https://m.media-amazon.com/images/I/71Ylw-fHGcL._AC_SL1500_.jpg",
     category: "fitness",
+    priceMin: "$60",
+    priceMax: "$130",
     name: { en: "Garage Fit Battle Ropes", ja: "ガレージフィット バトルロープ" },
     description: {
       en: "Dacron polyester for superior abrasion resistance, tightest heat-shrink handles in class, non-fray nylon end caps, 30–50 ft options",
@@ -8800,6 +9297,8 @@ const RAW_CATALOG = [
   {
     id: "vigor-ground-battle-rope",
     category: "fitness",
+    priceMin: "$50",
+    priceMax: "$100",
     name: { en: "VIGOR GROUND Battle Rope", ja: "ヴィゴーグラウンド バトルロープ" },
     description: {
       en: "Dacron polyester construction with pre-installed foam handle wraps for reduced hand fatigue, available in 30, 40, and 50 ft lengths",
@@ -8812,7 +9311,10 @@ const RAW_CATALOG = [
   },
   {
     id: "champion-sports-battle-rope",
+    imageUrl: "https://m.media-amazon.com/images/I/81cnifggZkL._AC_SL1500_.jpg",
     category: "fitness",
+    priceMin: "$50",
+    priceMax: "$100",
     name: { en: "Champion Sports Battle Rope", ja: "チャンピオンスポーツ バトルロープ" },
     description: {
       en: "Commercial-grade construction for school and gym use, heavy-duty reinforced ends, optimized for multiple daily users",
@@ -8826,6 +9328,8 @@ const RAW_CATALOG = [
   {
     id: "zeiser-battle-rope",
     category: "fitness",
+    priceMin: "$50",
+    priceMax: "$120",
     name: { en: "ZEISER Battle Rope", ja: "ザイザー バトルロープ" },
     description: {
       en: "Complete kit including anchor strap and storage bag, Dacron construction with foam handle wraps, best all-in-one value for home gym",
@@ -8846,6 +9350,7 @@ const RAW_CATALOG = [
       en: "Poly dacron blend, 1.5\" diameter, 50 ft length, heat-shrink end caps, approx 26 lbs, ideal for large home gyms and CrossFit boxes",
       ja: "ポリダクロン混紡、直径1.5インチ、全長50フィート、熱収縮エンドキャップ、約12kg、広めのホームジムやCrossFitボックス向け",
     },
+    price: "$89.99",
     links: [
       { network: "amazon-jp", productId: "B07CQTMMNB", rawUrl: "https://www.amazon.co.jp/dp/B07CQTMMNB", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07CQTMMNB", rawUrl: "https://www.amazon.com/dp/B07CQTMMNB", markets: ["US"], approved: true },
@@ -8864,6 +9369,7 @@ const RAW_CATALOG = [
       en: "Poly dacron construction, 1.5\" diameter, 50 ft, approx 24 lbs, durable nylon end caps, designed for commercial and home gym use",
       ja: "ポリダクロン素材、直径1.5インチ、50フィート、約11kg、耐久性ナイロンエンドキャップ、商業・ホームジム両対応",
     },
+    price: "$164.99",
     links: [
       { network: "amazon-jp", productId: "B01LWTJ7EK", rawUrl: "https://www.amazon.co.jp/dp/B01LWTJ7EK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01LWTJ7EK", rawUrl: "https://www.amazon.com/dp/B01LWTJ7EK", markets: ["US"], approved: true },
@@ -8882,6 +9388,7 @@ const RAW_CATALOG = [
       en: "Poly dacron blend, 1.5\" diameter, 30 ft length, approx 14 lbs, woven protective sleeve, compact option for smaller spaces",
       ja: "ポリダクロン混紡、直径1.5インチ、全長30フィート、約6kg、織り込み保護スリーブ、狭いスペース向けコンパクトモデル",
     },
+    price: "$65.99",
     links: [
       { network: "amazon-jp", productId: "B07PHLM9MB", rawUrl: "https://www.amazon.co.jp/dp/B07PHLM9MB", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07PHLM9MB", rawUrl: "https://www.amazon.com/dp/B07PHLM9MB", markets: ["US"], approved: true },
@@ -8900,6 +9407,7 @@ const RAW_CATALOG = [
       en: "Nylon construction, 1.5\" diameter, 30–50 ft options, approx 20 lbs (40 ft), complete anchor kit included, designed for functional training",
       ja: "ナイロン素材、直径1.5インチ、30〜50フィート展開、約9kg（40フィート）、アンカーキット付属、ファンクショナルトレーニング特化設計",
     },
+    price: "$29.95",
     links: [
       { network: "amazon-jp", productId: "B0195XGKQO", rawUrl: "https://www.amazon.co.jp/dp/B0195XGKQO", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0195XGKQO", rawUrl: "https://www.amazon.com/dp/B0195XGKQO", markets: ["US"], approved: true },
@@ -8918,6 +9426,7 @@ const RAW_CATALOG = [
       en: "Poly dacron construction, 2\" diameter, 40 ft length, approx 32 lbs, extra-thick for maximum strength demand, reinforced heat-shrink ends",
       ja: "ポリダクロン素材、直径2インチ、全長40フィート、約15kg、最大筋力負荷の極太タイプ、補強熱収縮エンド",
     },
+    price: "$89.99",
     links: [
       { network: "amazon-jp", productId: "B07WGJM87C", rawUrl: "https://www.amazon.co.jp/dp/B07WGJM87C", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07WGJM87C", rawUrl: "https://www.amazon.com/dp/B07WGJM87C", markets: ["US"], approved: true },
@@ -8931,7 +9440,9 @@ const RAW_CATALOG = [
   // ───────── Fitness / Gymnastic Rings (best-gymnastic-rings-2026) ─────────
   {
     id: "nayoya-gymnastic-rings",
+    imageUrl: "https://m.media-amazon.com/images/I/71E3uMahKnL._AC_SL1500_.jpg",
     category: "fitness",
+    price: "$35",
     badge: "🔴",
     name: { en: "Nayoya Gymnastic Rings", ja: "Nayoya 体操リング" },
     description: {
@@ -8945,7 +9456,10 @@ const RAW_CATALOG = [
   },
   {
     id: "spri-wooden-rings",
+    imageUrl: "https://m.media-amazon.com/images/I/81-m-jTH7TL._AC_SL1500_.jpg",
     category: "fitness",
+    priceMin: "$35",
+    priceMax: "$55",
     badge: "🏅",
     name: { en: "SPRI Wooden Gymnastic Rings", ja: "SPRI ウッド体操リング" },
     description: {
@@ -8960,6 +9474,8 @@ const RAW_CATALOG = [
   {
     id: "rogue-wood-rings",
     category: "fitness",
+    priceMin: "$75",
+    priceMax: "$95",
     badge: "🏆",
     name: { en: "Rogue Wood Rings", ja: "Rogue ウッドリング" },
     description: {
@@ -8973,7 +9489,10 @@ const RAW_CATALOG = [
   },
   {
     id: "elite-fts-gymnastic-rings",
+    imageUrl: "https://m.media-amazon.com/images/P/B00G8UJZBQ.01._SCLZZZZZZZ_.jpg",
     category: "fitness",
+    priceMin: "$30",
+    priceMax: "$60",
     badge: "✈️",
     name: { en: "Elite FTS Gymnastic Rings", ja: "Elite FTS 体操リング" },
     description: {
@@ -8988,6 +9507,8 @@ const RAW_CATALOG = [
   {
     id: "titan-fitness-rings",
     category: "fitness",
+    priceMin: "$55",
+    priceMax: "$65",
     badge: "💪",
     name: { en: "Titan Fitness Wooden Rings", ja: "Titan Fitness ウッドリング" },
     description: {
@@ -9010,6 +9531,7 @@ const RAW_CATALOG = [
       en: "Competition-grade Baltic birch rings at 1.25\" diameter. 1.5\" nylon straps with stainless steel roller buckles. Used in CrossFit-sanctioned events. 400 lb capacity.",
       ja: "競技規格のバルティックバーチ製1.25インチ径リング。幅38mmナイロンストラップとステンレス鋼ローラーバックル。クロスフィット公認大会使用実績。耐荷重181kg。",
     },
+    price: "$67.00",
     links: [
       { network: "amazon-jp", productId: "B00NH0XJWQ", rawUrl: "https://www.amazon.co.jp/dp/B00NH0XJWQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00NH0XJWQ", rawUrl: "https://www.amazon.com/dp/B00NH0XJWQ", markets: ["US"], approved: true },
@@ -9022,6 +9544,8 @@ const RAW_CATALOG = [
   {
     id: "gorilla-rings-wooden-gym",
     category: "fitness",
+    priceMin: "$25",
+    priceMax: "$55",
     badge: "🦍",
     name: { en: "GORILLA RINGS Wooden Gym Rings", ja: "GORILLA RINGS ウッドジムリング" },
     description: {
@@ -9040,6 +9564,7 @@ const RAW_CATALOG = [
   {
     id: "nayoya-wooden-exercise-rings",
     category: "fitness",
+    price: "$35",
     badge: "🟢",
     name: { en: "Nayoya Wooden Exercise Rings", ja: "Nayoya ウッドエクササイズリング" },
     description: {
@@ -9058,6 +9583,8 @@ const RAW_CATALOG = [
   {
     id: "titan-fitness-wooden-rings",
     imageUrl: "https://titan.fitness/cdn/shop/files/410111_01.jpg?v=1708458519",
+    priceMin: "$55",
+    priceMax: "$65",
     category: "fitness",
     badge: "💪",
     name: { en: "Titan Fitness Wooden Gymnastics Rings", ja: "Titan Fitness ウッド体操リング" },
@@ -9077,6 +9604,8 @@ const RAW_CATALOG = [
   {
     id: "rep-fitness-wooden-rings",
     imageUrl: "https://cdn.shopify.com/s/files/1/0574/1215/7598/t/16/assets/acf.Wood-Rings2-Main.png",
+    priceMin: "$45",
+    priceMax: "$70",
     category: "fitness",
     badge: "🍁",
     name: { en: "Rep Fitness Wooden Gymnastics Rings", ja: "Rep Fitness ウッド体操リング" },
@@ -9104,6 +9633,7 @@ const RAW_CATALOG = [
       en: "Austrian Alps-sourced sparkling water in 16.9oz aluminum cans, aggressive carbonation, cult brand favored at concerts and bars",
       ja: "オーストリアアルプス源の強炭酸水、16.9オンスアルミ缶、コンサートやバーで人気のカルトブランド",
     },
+    price: "$1.99",
     links: [
       { network: "amazon-us", productId: "B07Y1P82KN", rawUrl: "https://www.amazon.com/dp/B07Y1P82KN", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-liquid-death-mountain-water", rawUrl: "https://www.amazon.co.jp/s?k=liquid+death+sparkling+water", markets: ["JP"], approved: true },
@@ -9119,6 +9649,7 @@ const RAW_CATALOG = [
       en: "Mexican mineral sparkling water sourced from Monterrey since 1895, high tight carbonation, the bartender's go-to mixer",
       ja: "1895年からモンテレイ産のメキシコ天然ミネラルスパークリングウォーター、強くキレのある炭酸、バーテンダー御用達のミキサー",
     },
+    price: "$2.49",
     links: [
       { network: "amazon-us", productId: "B001401L38", rawUrl: "https://www.amazon.com/dp/B001401L38", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-topo-chico-mineral-water", rawUrl: "https://www.amazon.co.jp/s?k=topo+chico+sparkling+water", markets: ["JP"], approved: true },
@@ -9134,6 +9665,7 @@ const RAW_CATALOG = [
       en: "French natural mineral sparkling water in iconic green glass bottle since 1863, medium carbonation, clean mineral taste",
       ja: "1863年から続くフランスの天然ミネラル炭酸水、アイコニックな緑のガラス瓶、中程度の炭酸、澄んだミネラル味",
     },
+    price: "$2.49",
     links: [
       { network: "amazon-us", productId: "B001401L6Q", rawUrl: "https://www.amazon.com/dp/B001401L6Q", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-perrier-sparkling-water", rawUrl: "https://www.amazon.co.jp/s?k=perrier+%E7%82%AD%E9%85%B8%E6%B0%B4", markets: ["JP"], approved: true },
@@ -9149,6 +9681,7 @@ const RAW_CATALOG = [
       en: "Light carbonation, 20+ natural essence flavors, zero calories, zero sweeteners — the everyday sparkling water for high-volume drinkers",
       ja: "軽炭酸、20種類以上の天然エッセンスフレーバー、ゼロカロリー・甘味料ゼロ——大量に飲む人向けの日常炭酸水",
     },
+    price: "$6.49",
     links: [
       { network: "amazon-us", productId: "B07RWX9WDM", rawUrl: "https://www.amazon.com/dp/B07RWX9WDM", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-la-croix-sparkling-water", rawUrl: "https://www.amazon.co.jp/s?k=la+croix+sparkling+water", markets: ["JP"], approved: true },
@@ -9164,6 +9697,7 @@ const RAW_CATALOG = [
       en: "Made with real squeezed fruit juice, 9–17 calories per can, natural fruit flavor without artificial additives",
       ja: "本物の絞り果汁使用、1缶あたり9〜17カロリー、人工添加物なしの天然フルーツフレーバー",
     },
+    price: "$9.99",
     links: [
       { network: "amazon-us", productId: "B07VJ4RX23", rawUrl: "https://www.amazon.com/dp/B07VJ4RX23", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-spindrift-sparkling-water", rawUrl: "https://www.amazon.co.jp/s?k=spindrift+sparkling+water+fruit", markets: ["JP"], approved: true },
@@ -9179,6 +9713,7 @@ const RAW_CATALOG = [
       en: "Market-leading Greek yogurt with 15g protein per cup, clean 3-ingredient formula, thick texture, no added sugar",
       ja: "1カップ15gタンパク質、原材料3つのシンプルな配合、濃厚な食感、添加糖なし。市場をリードするギリシャヨーグルト",
     },
+    price: "$6.98",
     links: [
       { network: "amazon-us", productId: "B0094BFBY6", rawUrl: "https://www.amazon.com/dp/B0094BFBY6", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-chobani-plain-nonfat", rawUrl: "https://www.amazon.co.jp/s?k=chobani+greek+yogurt+plain+nonfat", markets: ["JP"], approved: true },
@@ -9188,6 +9723,7 @@ const RAW_CATALOG = [
   {
     id: "fage-total-0",
     imageUrl: "https://target.scene7.com/is/image/Target/GUEST_3a47d9f3-d83a-4502-8fda-c082491f32b3?wid=300&hei=300&fmt=pjpeg",
+    price: "$7.49",
     category: "food",
     name: { en: "Fage Total 0% Greek Yogurt", ja: "ファージ トータル0% ギリシャヨーグルト" },
     description: {
@@ -9209,6 +9745,7 @@ const RAW_CATALOG = [
       en: "Zero added sugar, zero artificial sweeteners, zero fat — 15g protein per cup, sweetened with monk fruit",
       ja: "添加糖ゼロ、人工甘味料ゼロ、脂肪ゼロ — 1カップ15gタンパク質、モンクフルーツで甘みづけ",
     },
+    price: "$1.49",
     links: [
       { network: "amazon-us", productId: "B06WP39VBN", rawUrl: "https://www.amazon.com/dp/B06WP39VBN", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-oikos-triple-zero", rawUrl: "https://www.amazon.co.jp/s?k=oikos+triple+zero+greek+yogurt", markets: ["JP"], approved: true },
@@ -9218,6 +9755,7 @@ const RAW_CATALOG = [
   {
     id: "stonyfield-organic-greek",
     imageUrl: "https://www.stonyfield.com/wp-content/uploads/2023/03/Untitled-design60-2048x2048-1.webp",
+    price: "$7.99",
     category: "food",
     name: { en: "Stonyfield Organic Greek Yogurt", ja: "ストーニーフィールド オーガニック ギリシャヨーグルト" },
     description: {
@@ -9233,6 +9771,7 @@ const RAW_CATALOG = [
   {
     id: "siggis-icelandic-yogurt",
     imageUrl: "https://siggis.com/wp-content/uploads/2024/07/siggis_0_5.3oz_Plain@2x.webp",
+    price: "$6.49",
     category: "food",
     name: { en: "Siggi's Icelandic-Style Yogurt (Skyr)", ja: "シッギーズ アイスランドスタイル ヨーグルト（スキル）" },
     description: {
@@ -9254,6 +9793,7 @@ const RAW_CATALOG = [
       en: "Entry-level TRX at 1.4 lbs — pocket-size, door anchor included, 350 lb capacity. Authentic TRX quality for travel and occasional training.",
       ja: "重量1.4ポンドの入門TRX——ポケットサイズ、ドアアンカー付属、耐荷重350ポンド。旅行・軽量トレーニング向けの本格TRX品質。",
     },
+    price: "$129.95",
     links: [
       { network: "amazon-us", productId: "B076ZXB7RC", rawUrl: "https://www.amazon.com/dp/B076ZXB7RC", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-trx-go-suspension", rawUrl: "https://www.amazon.co.jp/s?k=TRX+GO+%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC", markets: ["JP"], approved: true },
@@ -9269,6 +9809,7 @@ const RAW_CATALOG = [
       en: "Commercial-grade TRX with 1,400 lb capacity, door anchor, suspension anchor, and mesh bag. The benchmark suspension trainer for serious training.",
       ja: "耐荷重1,400ポンドの業務グレードTRX。ドアアンカー・サスペンションアンカー・メッシュバッグ付属。本格トレーニングの基準モデル。",
     },
+    price: "$249.95",
     links: [
       { network: "amazon-us", productId: "B079P9RCT1", rawUrl: "https://www.amazon.com/dp/B079P9RCT1", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-trx-pro4-suspension", rawUrl: "https://www.amazon.co.jp/s?k=TRX+PRO4+%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC", markets: ["JP"], approved: true },
@@ -9284,6 +9825,7 @@ const RAW_CATALOG = [
       en: "Split independent-arm design with carabiner clips — each arm moves freely for natural shoulder tracking. 400 lb capacity, no door anchor needed.",
       ja: "カラビナクリップ式の左右独立アーム設計——各アームが自由に動き、自然な肩の追従を実現。耐荷重400ポンド、ドアアンカー不要。",
     },
+    price: "$99.95",
     links: [
       { network: "amazon-us", productId: "B001GHZQXS", rawUrl: "https://www.amazon.com/dp/B001GHZQXS", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-jungle-gym-xt", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%B8%E3%83%A0+XT+%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC", markets: ["JP"], approved: true },
@@ -9293,6 +9835,7 @@ const RAW_CATALOG = [
   {
     id: "nossk-twin-strap",
     imageUrl: "https://nossk.com/cdn/shop/files/NOSSK_TWIN-Pro_Suspension_Fitness_Trainer_Black.jpg?v=1719355126&width=1500",
+    price: "$55",
     category: "fitness",
     name: { en: "NOSSK Twin-Strap Suspension Trainer", ja: "NOSSK ツインストラップ サスペンショントレーナー" },
     description: {
@@ -9308,6 +9851,8 @@ const RAW_CATALOG = [
   {
     id: "monkii-bars-2",
     imageUrl: "https://abrotherabroad.com/wp-content/uploads/2018/06/Monkii-Bars-2-Review-Horizontal-opt.jpg",
+    priceMin: "$100",
+    priceMax: "$150",
     category: "fitness",
     name: { en: "Monkii Bars 2", ja: "モンキーバーズ 2" },
     description: {
@@ -9331,6 +9876,7 @@ const RAW_CATALOG = [
       en: "Thick natural rubber shell with sand-and-rubber fill — near-zero rebound, molded weight markings, 10–150 lb range. Built for floor slams, wall throws, and loaded carries.",
       ja: "天然ゴム厚シェルに砂とゴムクラム充填——反発ほぼゼロ、重量表記型押し、10〜150ポンド展開。フロアスラム・ウォールスロー・ローデッドキャリー向け。",
     },
+    price: "$125.00",
     links: [
       { network: "amazon-us", productId: "B08MKXJXZ6", rawUrl: "https://www.amazon.com/dp/B08MKXJXZ6", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-rogue-medicine-ball", rawUrl: "https://www.amazon.co.jp/s?k=Rogue+Medicine+Ball+Slam+Ball", markets: ["JP"], approved: true },
@@ -9346,6 +9892,7 @@ const RAW_CATALOG = [
       en: "4mm vulcanized rubber shell, pebbled grip, moderate predictable rebound. 2–30 lb range. Best for wall-ball drills, partner conditioning, and beginner overhead mechanics.",
       ja: "4mm加硫ゴムシェル、ぼつぼつグリップ、適度で予測可能な反発。2〜30ポンド展開。ウォールボールドリル・パートナーコンディショニング・入門者の頭上動作習得に最適。",
     },
+    price: "$29.99",
     links: [
       { network: "amazon-us", productId: "B007QCZM1U", rawUrl: "https://www.amazon.com/dp/B007QCZM1U", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-champion-sports-medicine-ball", rawUrl: "https://www.amazon.co.jp/s?k=Champion+Sports+Rubber+Medicine+Ball", markets: ["JP"], approved: true },
@@ -9361,6 +9908,7 @@ const RAW_CATALOG = [
       en: "Heavy-duty rubber shell, sand fill, minimal rebound. 10–50 lb range in 5 lb increments. Best value slam ball for home gym progression ladders.",
       ja: "耐久ゴムシェル・砂充填・最小反発。10〜50ポンドを5ポンド刻みで展開。ホームジムのプログレッションラダー構築に最もコスパが高いスラムボール。",
     },
+    price: "$24.99",
     links: [
       { network: "amazon-us", productId: "B00VFWXFXA", rawUrl: "https://www.amazon.com/dp/B00VFWXFXA", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-yes4all-slam-ball", rawUrl: "https://www.amazon.co.jp/s?k=Yes4All+Slam+Ball", markets: ["JP"], approved: true },
@@ -9376,6 +9924,7 @@ const RAW_CATALOG = [
       en: "Foam-padded vinyl shell, standardized diameter across all weights, 4–30 lb range. Designed for partner passes and catch-and-throw drills where soft catch is essential.",
       ja: "フォームパッド入りビニールシェル、全重量で直径統一、4〜30ポンド展開。ソフトキャッチが必要なパートナーパスとキャッチ＆スロードリル向けに設計。",
     },
+    price: "$165.00",
     links: [
       { network: "amazon-us", productId: "B001RK7C7W", rawUrl: "https://www.amazon.com/dp/B001RK7C7W", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-dynamax-medicine-ball", rawUrl: "https://www.amazon.co.jp/s?k=Dynamax+Medicine+Ball", markets: ["JP"], approved: true },
@@ -9384,7 +9933,10 @@ const RAW_CATALOG = [
   },
   {
     id: "cap-barbell-medicine-ball",
+    imageUrl: "https://m.media-amazon.com/images/I/91vtyTATIaL._AC_SL1500_.jpg",
     category: "fitness",
+    priceMin: "$15",
+    priceMax: "$45",
     name: { en: "CAP Barbell Medicine Ball", ja: "CAP Barbell メディシンボール" },
     description: {
       en: "Single-layer rubber, pebble grip surface, moderate rebound. 4–30 lb range. Budget pick for general conditioning, rehab, and beginner programs at moderate use volumes.",
@@ -9406,6 +9958,7 @@ const RAW_CATALOG = [
       en: "Shelf-stable Tetra Pak, grass-fed beef bones, 10g protein per serving, short ingredient list with organic vegetables and apple cider vinegar",
       ja: "常温保存テトラパック、グラスフェッドビーフボーン使用、1食10gタンパク質、有機野菜とアップルサイダービネガーのシンプル配合",
     },
+    price: "$6.58",
     links: [
       { network: "amazon-us", productId: "B01MXLF1ON", rawUrl: "https://www.amazon.com/dp/B01MXLF1ON", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-kettle-fire-beef-broth", rawUrl: "https://www.amazon.co.jp/s?k=Kettle+%26+Fire+beef+bone+broth", markets: ["JP"], approved: true },
@@ -9415,6 +9968,7 @@ const RAW_CATALOG = [
   {
     id: "fond-bone-broth",
     imageUrl: "https://fondregenerative.com/cdn/shop/products/BeefJar1.png",
+    price: "$9.99",
     category: "food",
     name: { en: "FOND Bone Broth", ja: "FOND ボーンブロス" },
     description: {
@@ -9436,6 +9990,7 @@ const RAW_CATALOG = [
       en: "USDA certified organic, shelf-stable, widely available at major retailers, 9–10g protein per serving — best value in the category",
       ja: "USDAオーガニック認定、常温保存、大手量販店で広く入手可能、1食9〜10gタンパク質。カテゴリ最高コスパ",
     },
+    price: "$7.49",
     links: [
       { network: "amazon-us", productId: "B00ND4G6XA", rawUrl: "https://www.amazon.com/dp/B00ND4G6XA", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-pacific-foods-bone-broth", rawUrl: "https://www.amazon.co.jp/s?k=Pacific+Foods+organic+bone+broth", markets: ["JP"], approved: true },
@@ -9451,6 +10006,7 @@ const RAW_CATALOG = [
       en: "Powder form — 20g collagen protein per serving from bovine, chicken, fish, and egg white collagen. Mixes into hot or cold beverages without clumping",
       ja: "パウダー形態。牛・鶏・魚・卵白由来の複合コラーゲンで1食20gのコラーゲンプロテイン。温冷どちらの飲み物にもダマにならず溶ける",
     },
+    price: "$37.49",
     links: [
       { network: "amazon-us", productId: "B01LXI4P9M", rawUrl: "https://www.amazon.com/dp/B01LXI4P9M", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-ancient-nutrition-bone-broth", rawUrl: "https://www.amazon.co.jp/s?k=Ancient+Nutrition+bone+broth+protein+powder", markets: ["JP"], approved: true },
@@ -9466,6 +10022,7 @@ const RAW_CATALOG = [
       en: "Woman-owned brand, 100% grass-fed beef bones, 4-ingredient formula (bones, water, apple cider vinegar, sea salt), no natural flavors or stabilizers, 10g protein per serving",
       ja: "女性創業ブランド、100%グラスフェッドビーフボーン使用、4原材料（骨・水・アップルサイダービネガー・海塩）、ナチュラルフレーバーや安定剤なし、1食10gタンパク質",
     },
+    price: "$10.99",
     links: [
       { network: "amazon-us", productId: "B01GI1BBEE", rawUrl: "https://www.amazon.com/dp/B01GI1BBEE", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-bare-bones-broth", rawUrl: "https://www.amazon.co.jp/s?k=Bare+Bones+bone+broth+grass+fed", markets: ["JP"], approved: true },
@@ -9481,6 +10038,7 @@ const RAW_CATALOG = [
       en: "Market-leading hydrolyzed bovine collagen peptides (Type I & III), 20g per serving, unflavored — dissolves completely in cold or hot beverages without altering taste",
       ja: "市場トップの加水分解ウシコラーゲンペプチド（タイプI・III）、1食20g、無香料——冷温どちらの飲み物にも完全に溶け味を変えない",
     },
+    price: "$42.99",
     links: [
       { network: "amazon-us", productId: "B072XYM5X6", rawUrl: "https://www.amazon.com/dp/B072XYM5X6", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-vital-proteins-collagen", rawUrl: "https://www.amazon.co.jp/s?k=Vital+Proteins+collagen+peptides", markets: ["JP"], approved: true },
@@ -9496,6 +10054,7 @@ const RAW_CATALOG = [
       en: "USDA certified organic, NSF certified for sport, grass-fed bovine collagen (Type I & III) 20g + probiotics — the most verified collagen supplement in the category",
       ja: "USDA有機認証、NSFスポーツ認証、グラスフェッドウシコラーゲン（タイプI・III）20g＋プロバイオティクス——カテゴリー最高水準の認証を誇るコラーゲンサプリ",
     },
+    price: "$22.39",
     links: [
       { network: "amazon-us", productId: "B07M9G5RVT", rawUrl: "https://www.amazon.com/dp/B07M9G5RVT", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-garden-of-life-collagen", rawUrl: "https://www.amazon.co.jp/s?k=Garden+of+Life+collagen+grass+fed", markets: ["JP"], approved: true },
@@ -9511,6 +10070,7 @@ const RAW_CATALOG = [
       en: "5 collagen types from 4 animal sources (bovine, chicken, fish, eggshell membrane) with a bone broth protein base — 20g collagen protein per serving",
       ja: "4種の動物原料（牛・鶏・魚・卵殻膜）から5タイプのコラーゲンをボーンブロスプロテインベースで配合——1食20gのコラーゲンプロテイン",
     },
+    price: "$38.96",
     links: [
       { network: "amazon-us", productId: "B07G4GDNHQ", rawUrl: "https://www.amazon.com/dp/B07G4GDNHQ", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-ancient-nutrition-collagen", rawUrl: "https://www.amazon.co.jp/s?k=Ancient+Nutrition+multi+collagen+protein", markets: ["JP"], approved: true },
@@ -9526,6 +10086,7 @@ const RAW_CATALOG = [
       en: "BSCG certified, pasture-raised grass-fed bovine collagen (Type I & III), 11g per scoop — third-party tested, strong value among certified options",
       ja: "BSCG認証、牧草飼育グラスフェッドウシコラーゲン（タイプI・III）、1スクープ11g——第三者検査済み、認証品の中でも最高コスパ",
     },
+    price: "$32.95",
     links: [
       { network: "amazon-us", productId: "B07K3MQRQM", rawUrl: "https://www.amazon.com/dp/B07K3MQRQM", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-sports-research-collagen", rawUrl: "https://www.amazon.co.jp/s?k=Sports+Research+collagen+peptides", markets: ["JP"], approved: true },
@@ -9541,6 +10102,7 @@ const RAW_CATALOG = [
       en: "Keto-friendly, pasture-raised bovine collagen (Type I & III), 18g per serving, no detectable flavor in black coffee — optimized for daily coffee integration",
       ja: "ケトフレンドリー、牧草飼育ウシコラーゲン（タイプI・III）、1食18g、ブラックコーヒーで無味——毎朝のコーヒー習慣への統合に最適化",
     },
+    price: "$44.95",
     links: [
       { network: "amazon-us", productId: "B0764K5WCJ", rawUrl: "https://www.amazon.com/dp/B0764K5WCJ", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-bulletproof-collagen", rawUrl: "https://www.amazon.co.jp/s?k=Bulletproof+collagen+protein", markets: ["JP"], approved: true },
@@ -9558,6 +10120,7 @@ const RAW_CATALOG = [
       en: "Soft foam exterior that compresses on contact rather than cutting skin — stackable design, wide base for step-ups and split squats. Best shin-safe plyo box for athletes training near their jump limit.",
       ja: "接触時に肌を切るのではなく圧縮するソフトフォーム外装——スタッカブル設計、ステップアップやスプリットスクワット向けの広いベース。ジャンプ限界付近で練習するアスリートに最適なスネ対応プライオボックス。",
     },
+    price: "$155.00",
     links: [
       { network: "amazon-us", productId: "B07XDCRFKP", rawUrl: "https://www.amazon.com/dp/B07XDCRFKP", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-rogue-foam-plyo-box", rawUrl: "https://www.amazon.co.jp/s?k=Rogue+Foam+Plyo+Box+%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9", markets: ["JP"], approved: true },
@@ -9573,6 +10136,7 @@ const RAW_CATALOG = [
       en: "3-in-1 heights (16/20/24 inches) in a single unit — rotate orientation to change height. Removable washable cover, foam exterior for shin safety. Best value foam plyo box for athletes topping out at 24 inches.",
       ja: "1台で3高さ（16/20/24インチ）——向きを変えるだけで高さ切り替え。着脱・洗濯可能カバー、スネ対応フォーム外装。24インチ以内のトレーニングに最もコスパの高いフォームプライオボックス。",
     },
+    price: "$89.99",
     links: [
       { network: "amazon-us", productId: "B07CTFQ7VL", rawUrl: "https://www.amazon.com/dp/B07CTFQ7VL", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-rep-fitness-foam-plyo-box", rawUrl: "https://www.amazon.co.jp/s?k=Rep+Fitness+Foam+Plyo+Box+3in1", markets: ["JP"], approved: true },
@@ -9597,6 +10161,7 @@ const RAW_CATALOG = [
   {
     id: "titan-fitness-plyo-box",
     imageUrl: "https://titan.fitness/cdn/shop/files/412126_01_5888e1d0-6627-4b93-b886-2072cfddbbc8.jpg?v=1718295162&width=1946",
+    price: "$90",
     category: "fitness",
     name: { en: "Titan Fitness Wooden Plyo Box", ja: "Titan Fitness ウッドプライオボックス" },
     description: {
@@ -9627,6 +10192,7 @@ const RAW_CATALOG = [
   {
     id: "titin-force-weighted-shirt",
     imageUrl: "https://i.pinimg.com/736x/e6/93/dc/e693dc441684939c8ac30c2242dfd095.jpg",
+    price: "$189",
     category: "fitness",
     name: { en: "Titin Force Weighted Shirt", ja: "Titin Force ウェイテッドシャツ" },
     description: {
@@ -9642,6 +10208,7 @@ const RAW_CATALOG = [
   {
     id: "rogue-dog-collar-vest",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_fill,g_center,w_361,h_361,b_rgb:f8f8f8/catalog/Gear%20and%20Accessories/Accessories/Everyday%20Gear/DOGCOLLAR/DOGCOLLAR-TH_klxnpr.png",
+    price: "$20",
     category: "fitness",
     name: { en: "Rogue Dog Collar Weight Vest", ja: "Rogue Dog Collar ウェイトベスト" },
     description: {
@@ -9663,6 +10230,7 @@ const RAW_CATALOG = [
       en: "Steel shot weight vest with corset-style side lacing for near-zero bounce. Available 10–20 lbs. Purpose-built for running, HIIT, and high-movement cardio where vest stability directly affects performance.",
       ja: "コルセット式サイドレーシングでバウンドをほぼゼロに抑えるスチールショットウェイトベスト。10〜20ポンドの選択肢。ランニング・HIIT・ベストの安定性がパフォーマンスに直結する高運動強度カーディオ専用設計。",
     },
+    price: "$239.95",
     links: [
       { network: "amazon-us", productId: "B007I2AYW8", rawUrl: "https://www.amazon.com/dp/B007I2AYW8", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-hyperwear-hyper-vest-pro", rawUrl: "https://www.amazon.co.jp/s?k=Hyperwear+Hyper+Vest+PRO+%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%99%E3%82%B9%E3%83%88", markets: ["JP"], approved: true },
@@ -9687,6 +10255,7 @@ const RAW_CATALOG = [
   {
     id: "511-tactical-tactec-vest",
     imageUrl: "https://www.511tactical.com/media/catalog/product/56100/56100_019_01.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=855&width=855",
+    price: "$140",
     category: "fitness",
     name: { en: "5.11 Tactical TacTec Plate Carrier Vest", ja: "5.11 Tactical TacTec プレートキャリアベスト" },
     description: {
@@ -9710,6 +10279,7 @@ const RAW_CATALOG = [
       en: "The original 'with the mother' ACV — USDA Organic, Non-GMO Verified, unfiltered and unpasteurized. Sharp apple-forward flavor with fermentation complexity. The reference raw ACV for drinking tonics and culinary use.",
       ja: "定番の「マザー入り」ACV——USDA認定オーガニック、Non-GMO認証、非ろ過・非加熱殺菌。鋭くリンゴ前面の風味に発酵の複雑さ。飲用トニックと料理用途の基準となる生ACV。",
     },
+    price: "$9.99",
     links: [
       { network: "amazon-us", productId: "B001I7MVG4", rawUrl: "https://www.amazon.com/dp/B001I7MVG4", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-bragg-organic-acv", rawUrl: "https://www.amazon.co.jp/s?k=Bragg+%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF+%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC", markets: ["JP"], approved: true },
@@ -9725,6 +10295,7 @@ const RAW_CATALOG = [
       en: "USDA Organic, unfiltered, with the mother — functionally equivalent to Bragg at a lower cost per ounce. Best value for high-volume cooking and daily tonic use where brand recognition is secondary to cost.",
       ja: "USDA認定オーガニック、非ろ過、マザー入り——Braggと機能的に同等でオンスあたりコストが低い。コスト重視の高頻度調理・毎日トニック用途に最高のコスパ。",
     },
+    price: "$8.99",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-dynamic-health-acv", rawUrl: "https://www.amazon.co.jp/s?k=Dynamic+Health+%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF+%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-dynamic-health-acv", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDynamic+Health%2B%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -9732,7 +10303,9 @@ const RAW_CATALOG = [
   },
   {
     id: "kevita-acv-tonic",
+    imageUrl: "https://m.media-amazon.com/images/P/B018O4TVVW.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$3.99",
     name: { en: "Kevita Apple Cider Vinegar Tonic", ja: "Kevita アップルサイダービネガートニック" },
     description: {
       en: "Ready-to-drink carbonated ACV beverage with ginger, lemon, and stevia. Lower acidity and lower dose than liquid protocols — designed for palatability over maximum ACV content. Best for people who want daily ACV without the harsh liquid taste.",
@@ -9752,6 +10325,7 @@ const RAW_CATALOG = [
       en: "Gummy-format ACV with B vitamins (B9 and B12). Each serving (2 gummies) delivers roughly 1 tsp ACV equivalent — lower dose than liquid but far more palatable for daily compliance. Certified organic, vegan, Non-GMO.",
       ja: "ビタミンB（B9・B12）配合のグミ型ACV。1回摂取量（2粒）でACV小さじ1杯相当を摂取——液体より用量は少ないが日常継続性がはるかに高い。オーガニック認証・ビーガン・Non-GMO。",
     },
+    price: "$14.98",
     links: [
       { network: "amazon-us", productId: "B07ZFHP1XS", rawUrl: "https://www.amazon.com/dp/B07ZFHP1XS", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-goli-acv-gummies", rawUrl: "https://www.amazon.co.jp/s?k=Goli+%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%8D%E3%82%AC%E3%83%BC+%E3%82%B0%E3%83%9F", markets: ["JP"], approved: true },
@@ -9761,6 +10335,7 @@ const RAW_CATALOG = [
   {
     id: "fairchilds-organic-acv",
     imageUrl: "https://www.fairchildsvinegar.com/cdn/shop/files/3.jpg?v=1772754848&width=1100",
+    price: "$8.99",
     category: "food",
     name: { en: "Fairchild's Organic Apple Cider Vinegar", ja: "Fairchild's オーガニック アップルサイダービネガー" },
     description: {
@@ -9776,6 +10351,7 @@ const RAW_CATALOG = [
   {
     id: "rogue-dip-belt",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Bodyweight%20and%20Gymnastics/Bodyweight%20/Dip%20Belts/RA2871/RA2871-BLK-H_ffe9et.png",
+    price: "$65",
     category: "fitness",
     name: { en: "Rogue Dip Belt", ja: "Rogue ディップベルト" },
     description: {
@@ -9797,6 +10373,7 @@ const RAW_CATALOG = [
       en: "Genuine leather 6-inch wide pad — wider than most — with 30-inch steel chain. Rated 300 lbs. Budget leather option that molds to the body after break-in.",
       ja: "6インチ幅の本革パッド（標準より幅広）と30インチスチールチェーン。耐荷重300lb。馴染ませ後に体にフィットするコスパ重視レザーモデル。",
     },
+    price: "$29.99",
     links: [
       { network: "amazon-us", productId: "B00JBGO1GI", rawUrl: "https://www.amazon.com/dp/B00JBGO1GI", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-dark-iron-fitness-dip-belt", rawUrl: "https://www.amazon.co.jp/s?k=Dark+Iron+Fitness+%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88+%E3%83%AC%E3%82%B6%E3%83%BC", markets: ["JP"], approved: true },
@@ -9812,6 +10389,7 @@ const RAW_CATALOG = [
       en: "Heavy-duty polypropylene webbing with 30-inch steel chain. The go-to budget option stocked in most commercial gyms. Works well for 25-75 lbs added weight.",
       ja: "丈夫なポリプロピレンウェビングと30インチスチールチェーン。多くの商業ジムでも採用されている定番の低価格モデル。追加重量11〜34kgの範囲に最適。",
     },
+    price: "$39.99",
     links: [
       { network: "amazon-us", productId: "B000H5ETKA", rawUrl: "https://www.amazon.com/dp/B000H5ETKA", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-harbinger-dip-belt", rawUrl: "https://www.amazon.co.jp/s?k=Harbinger+%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88", markets: ["JP"], approved: true },
@@ -9827,6 +10405,7 @@ const RAW_CATALOG = [
       en: "Neoprene padding with quick-release buckle and 36-inch steel chain. Soft from day one, rated 300 lbs. Best for comfort and fast transitions between sets.",
       ja: "ネオプレンパッドとクイックリリースバックル、36インチスチールチェーン。最初から柔らかく、耐荷重300lb。快適性とセット間の素早い着脱を重視するトレーニーに最適。",
     },
+    price: "$55.99",
     links: [
       { network: "amazon-us", productId: "B01N9PKJB3", rawUrl: "https://www.amazon.com/dp/B01N9PKJB3", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-fire-team-fit-dip-belt", rawUrl: "https://www.amazon.co.jp/s?k=Fire+Team+Fit+%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%83%99%E3%83%AB%E3%83%88", markets: ["JP"], approved: true },
@@ -9836,6 +10415,7 @@ const RAW_CATALOG = [
   {
     id: "mummyfit-dip-belt",
     category: "fitness",
+    price: "$25",
     name: { en: "MummyFit Dip Belt", ja: "MummyFit ディップベルト" },
     description: {
       en: "Budget neoprene dip belt with 36-inch steel chain. Best value pick for beginners and gym-goers who want soft padding without spending on premium hardware.",
@@ -9856,6 +10436,7 @@ const RAW_CATALOG = [
       en: "Phospholipid-bound curcumin phytosome with ~29x greater absorption than plain curcumin. Soy-free formulation using sunflower lecithin. NSF Certified for Sport — every batch tested for banned substances. The most research-backed high-bioavailability curcumin form available.",
       ja: "ヒマワリレシチン結合のクルクミンフィトソーム。通常クルクミン比で約29倍の吸収率。ソイフリー処方。NSF認定（スポーツ向け）で全ロット禁止物質検査済み。最も研究実績のある高吸収型クルクミン。",
     },
+    price: "$52.00",
     links: [
       { network: "amazon-us", productId: "B0013OQNM2", rawUrl: "https://www.amazon.com/dp/B0013OQNM2", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-thorne-meriva-curcumin", rawUrl: "https://www.amazon.co.jp/s?k=Thorne+Meriva+%E3%82%AF%E3%83%AB%E3%82%AF%E3%83%9F%E3%83%B3+%E3%83%95%E3%82%A3%E3%83%88%E3%82%BD%E3%83%BC%E3%83%A0", markets: ["JP"], approved: true },
@@ -9871,6 +10452,7 @@ const RAW_CATALOG = [
       en: "BCM-95 extract combining curcuminoids with turmeric's own essential oils for ~6.93x greater absorption than standard curcumin. Piperine-free, making it safer for people on medications. 400mg per capsule. Rigorous third-party tested.",
       ja: "クルクミノイドとターメリック精油を組み合わせたBCM-95エキス。通常クルクミン比で約6.93倍の吸収率。ピペリン不使用で薬との相互作用リスクが低い。1カプセル400mg。厳格な第三者試験済み。",
     },
+    price: "$22.50",
     links: [
       { network: "amazon-us", productId: "B001QHGPAM", rawUrl: "https://www.amazon.com/dp/B001QHGPAM", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-life-extension-bio-curcumin", rawUrl: "https://www.amazon.co.jp/s?k=Life+Extension+Super+Bio-Curcumin+BCM-95", markets: ["JP"], approved: true },
@@ -9901,6 +10483,7 @@ const RAW_CATALOG = [
       en: "Whole-herb concentrated turmeric extract with black pepper (piperine) for ~20x absorption boost. Certified organic, B Corp certified, grown on their own North Carolina farm. Seed-to-shelf traceability code on every batch. Best for those prioritizing organic and supply-chain transparency.",
       ja: "黒コショウ（ピペリン）添加で吸収率約20倍向上のホールハーブ濃縮ターメリックエキス。オーガニック認証・Bコープ認証。ノースカロライナ州自社農場栽培。全ロットにSeed to Shelfトレーサビリティコード付き。",
     },
+    price: "$49.49",
     links: [
       { network: "amazon-us", productId: "B00014DY5E", rawUrl: "https://www.amazon.com/dp/B00014DY5E", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-gaia-herbs-turmeric", rawUrl: "https://www.amazon.co.jp/s?k=Gaia+Herbs+Turmeric+Supreme+%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
@@ -9916,6 +10499,7 @@ const RAW_CATALOG = [
       en: "USDA Certified Organic whole turmeric root and ginger, fermented with probiotics for digestive support. Non-GMO Project Verified, Certified Vegan. Whole-food philosophy with added digestive enzymes and live cultures. Best for clean-label priority and digestive health combination.",
       ja: "USDA認定オーガニックのホールターメリック根とショウガをプロバイオティクスで発酵。Non-GMOプロジェクト認証・ビーガン認証。消化酵素と生菌入りのホールフード。クリーンラベル優先かつ腸内環境ケアにも配慮したい人向け。",
     },
+    price: "$23.09",
     links: [
       { network: "amazon-us", productId: "B0BN1FXQQP", rawUrl: "https://www.amazon.com/dp/B0BN1FXQQP", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-garden-of-life-turmeric", rawUrl: "https://www.amazon.co.jp/s?k=Garden+of+Life+mykind+Organics+%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%83%E3%82%AF", markets: ["JP"], approved: true },
@@ -9931,6 +10515,7 @@ const RAW_CATALOG = [
       en: "Wooden parallettes at 9-inch height with wide base for stability. Birch wood rails provide warm grip feel and reduce wrist fatigue during L-sits, dips, and push-up progressions. Wide footprint resists lateral torque under load.",
       ja: "高さ9インチ・広ベースで安定感抜群の木製パラレット。バーチ材レールが手首への負担を軽減し、Lシット・ディップス・腕立て進行に最適。広い設置面積が横方向のねじれに対して高い安定性を発揮。",
     },
+    price: "$39.99",
     links: [
       { network: "amazon-us", productId: "B008IQWSS6", rawUrl: "https://www.amazon.com/dp/B008IQWSS6", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-prosourcefit-parallettes", rawUrl: "https://www.amazon.co.jp/s?k=ProsourceFit+%E3%83%91%E3%83%A9%E3%83%AC%E3%83%AB%E3%83%90%E3%83%BC", markets: ["JP"], approved: true },
@@ -9946,6 +10531,7 @@ const RAW_CATALOG = [
       en: "Adjustable-height PVC parallettes designed for gymnastics training. Height flexibility suits skill progressions including handstand push-up work. Lightweight and portable, best for skill-focused body-weight training at moderate loads.",
       ja: "高さ調節可能なPVC製体操用平行棒。ハンドスタンドプッシュアップなどのスキル習得に合わせて高さを変えられる。軽量で持ち運びやすく、中程度の強度での技術系体重トレーニングに最適。",
     },
+    price: "$69.99",
     links: [
       { network: "amazon-us", productId: "B004AAKL3Y", rawUrl: "https://www.amazon.com/dp/B004AAKL3Y", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-tumbl-trak-p-bars", rawUrl: "https://www.amazon.co.jp/s?k=Tumbl+Trak+%E4%BD%93%E6%93%8D+%E5%B9%B3%E8%A1%8C%E6%A3%92", markets: ["JP"], approved: true },
@@ -9955,6 +10541,7 @@ const RAW_CATALOG = [
   {
     id: "rogue-p3-parallettes",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/RA1052-H_zcoler.png",
+    price: "$95",
     category: "fitness",
     name: { en: "Rogue P-3 Parallettes", ja: "Rogue P-3 パラレット" },
     description: {
@@ -9976,6 +10563,7 @@ const RAW_CATALOG = [
       en: "Low 3-inch parallettes focused on strength training and push-up variations. Near-floor height maximizes range of motion for push-up work without balance demands of taller bars. Highly portable and suitable for travel training and apartment workouts.",
       ja: "高さ3インチの低設計パラレット。筋力トレーニングと腕立て伏せバリエーション重視。床に近い高さが高いバーのバランス要求なしに腕立て伏せの最大可動域を引き出す。高い携帯性で旅行中のトレーニングやアパートでの使用に最適。",
     },
+    price: "$69.95",
     links: [
       { network: "amazon-us", productId: "B002WSFBFK", rawUrl: "https://www.amazon.com/dp/B002WSFBFK", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-lebert-parallettes", rawUrl: "https://www.amazon.co.jp/s?k=Lebert+%E3%83%91%E3%83%A9%E3%83%AC%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
@@ -9991,6 +10579,7 @@ const RAW_CATALOG = [
       en: "Budget steel parallettes at 9-inch height with rubber feet for floor grip. Steel construction provides more rigidity than PVC without commercial-grade pricing. Suitable for home athletes working L-sits, push-ups, and intermediate calisthenics exercises.",
       ja: "ゴムフット付き・高さ9インチのバジェットスチールパラレット。スチール構造がPVCより剛性が高く、業務グレードの価格なしで金属の安定性を実現。Lシット・腕立て伏せ・中級カリステニクスに取り組むホームアスリートに最適。",
     },
+    price: "$39.99",
     links: [
       { network: "amazon-us", productId: "B09M27Q7GC", rawUrl: "https://www.amazon.com/dp/B09M27Q7GC", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-yes4all-parallettes", rawUrl: "https://www.amazon.co.jp/s?k=Yes4All+%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E3%83%91%E3%83%A9%E3%83%AC%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
@@ -10007,6 +10596,7 @@ const RAW_CATALOG = [
       en: "20–21g protein from whey and milk protein isolate, 4–5g net carbs, sweetened with erythritol and stevia. High-fiber formula with soluble corn fiber. Best for low-net-carb post-workout snacking and keto-friendly high-protein needs.",
       ja: "ホエイ＋ミルクタンパクアイソレートから20〜21gのタンパク質、ネット炭水化物4〜5g。エリスリトール＋ステビア甘味。可溶性コーンファイバーによる高食物繊維処方。低ネット炭水化物・ケト対応のトレーニング後スナックに最適。",
     },
+    price: "$4.95",
     links: [
       { network: "amazon-us", productId: "B005M12EGA", rawUrl: "https://www.amazon.com/dp/B005M12EGA", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-quest-bar", rawUrl: "https://www.amazon.co.jp/s?k=Quest+%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC", markets: ["JP"], approved: true },
@@ -10016,6 +10606,7 @@ const RAW_CATALOG = [
   {
     id: "rxbar-protein",
     imageUrl: "https://m.media-amazon.com/images/I/6185U-jq66L._SL1500_.jpg",
+    price: "$2.33",
     category: "food",
     name: { en: "RXBAR Protein Bar", ja: "RXBAR プロテインバー" },
     description: {
@@ -10031,6 +10622,7 @@ const RAW_CATALOG = [
   {
     id: "clif-builder-bar",
     imageUrl: "https://m.media-amazon.com/images/I/81dgFOlEW6L._SL1500_.jpg",
+    price: "$1.67",
     category: "food",
     name: { en: "Clif Bar Builder's Protein Bar", ja: "Clif Bar Builder プロテインバー" },
     description: {
@@ -10046,6 +10638,7 @@ const RAW_CATALOG = [
   {
     id: "one-protein-bar",
     imageUrl: "https://m.media-amazon.com/images/I/71uCj0On3+L._SL1500_.jpg",
+    price: "$2.68",
     category: "food",
     name: { en: "ONE Protein Bar", ja: "ONE プロテインバー" },
     description: {
@@ -10061,6 +10654,7 @@ const RAW_CATALOG = [
   {
     id: "kind-protein-bar",
     imageUrl: "https://m.media-amazon.com/images/I/81tc9nQeqtL._SL1500_.jpg",
+    price: "$1.46",
     category: "food",
     name: { en: "KIND Protein Bar", ja: "KIND プロテインバー" },
     description: {
@@ -10077,6 +10671,7 @@ const RAW_CATALOG = [
   {
     id: "lmnt-recharge-electrolyte",
     imageUrl: "https://res.cloudinary.com/drinklmnt/image/upload/f_auto,q_auto/v1759900501/lmnt-citrus-salt-30ct-box_ux0v3u.webp",
+    price: "$45",
     category: "food",
     name: { en: "LMNT Recharge Electrolyte Drink Mix", ja: "LMNT リチャージ 電解質ドリンクミックス" },
     description: {
@@ -10092,6 +10687,7 @@ const RAW_CATALOG = [
   {
     id: "liquid-iv-hydration-multiplier",
     imageUrl: "https://m.media-amazon.com/images/I/71uzLBMH8ZL._AC_SL1500_.jpg",
+    price: "$30.55",
     category: "food",
     name: { en: "Liquid I.V. Hydration Multiplier", ja: "Liquid I.V. ハイドレーション マルチプライヤー" },
     description: {
@@ -10107,6 +10703,7 @@ const RAW_CATALOG = [
   {
     id: "nuun-sport-electrolyte-tablets",
     imageUrl: "https://m.media-amazon.com/images/I/81qjVIWun+L._AC_SL1500_.jpg",
+    price: "$6.94",
     category: "food",
     name: { en: "Nuun Sport Electrolyte Tablets", ja: "Nuun スポーツ 電解質タブレット" },
     description: {
@@ -10122,6 +10719,7 @@ const RAW_CATALOG = [
   {
     id: "dripdrop-ors-powder",
     imageUrl: "https://m.media-amazon.com/images/I/710mQWCyshL._AC_SL1500_.jpg",
+    price: "$8.99",
     category: "food",
     name: { en: "DripDrop ORS Electrolyte Powder", ja: "DripDrop ORS 電解質パウダー" },
     description: {
@@ -10143,6 +10741,7 @@ const RAW_CATALOG = [
       en: "490mg sodium, 380mg potassium, 6g sugar per serving. Adult-focused Sport line with higher sodium and potassium than original Pedialyte. Available pre-mixed in bottles at drugstores and grocery stores 24/7 — the main advantage. Best for illness recovery and situations where availability at any hour matters more than cost efficiency.",
       ja: "1回分にナトリウム490mg・カリウム380mg・糖質6g。オリジナルより高いナトリウム・カリウム配合の大人向けSportライン。ドラッグストアやスーパーで24時間いつでも液体ボトルが手に入る——これが最大の強み。コスト効率より深夜でも入手できることが重要な体調不良回復シーンに最適。",
     },
+    price: "$11.87",
     links: [
       { network: "amazon-us", productId: "B07KTBDJSC", rawUrl: "https://www.amazon.com/dp/B07KTBDJSC", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-pedialyte-sport", rawUrl: "https://www.amazon.co.jp/s?k=Pedialyte+%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84+%E9%9B%BB%E8%A7%A3%E8%B3%AA", markets: ["JP"], approved: true },
@@ -10153,6 +10752,8 @@ const RAW_CATALOG = [
   {
     id: "iron-gym-total-upper-body-bar",
     imageUrl: "https://www.living.fit/cdn/shop/files/Untitleddesign_11_1_535x.png?v=1768185746",
+    priceMin: "$25",
+    priceMax: "$35",
     category: "fitness",
     name: { en: "Iron Gym Total Upper Body Workout Bar", ja: "Iron Gym トータルアッパーボディワークアウトバー" },
     description: {
@@ -10174,6 +10775,7 @@ const RAW_CATALOG = [
       en: "Doorframe pull-up bar with thicker frame and wider padding for heavier users — over-the-door lever mount, fits 61–91 cm openings, three grip positions plus floor push-up and dip function, 136 kg static load rating. Best for users 100–120 kg who need more stability than standard doorframe bars.",
       ja: "重いユーザー向けに厚いフレームと広いパッドを備えたドア枠懸垂バー——オーバードアレバーマウント・対応61〜91cm・3グリップ＋床置きプッシュアップ・ディップ兼用・静荷重136kg定格。軽量バーでは安定性が不十分な100〜120kgのユーザーに最適。",
     },
+    price: "$44.99",
     links: [
       { network: "amazon-us", productId: "B00B18V4HC", rawUrl: "https://www.amazon.com/dp/B00B18V4HC", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-perfect-fitness-multi-gym-pro", rawUrl: "https://www.amazon.co.jp/dp/B001EJMS6K", markets: ["JP"], approved: true },
@@ -10189,6 +10791,7 @@ const RAW_CATALOG = [
       en: "Adjustable-width doorframe pull-up bar — covers door openings from 62–100 cm including non-standard widths outside the typical 61–91 cm range, knurled steel grips, 100 kg static load rating. Best for buyers whose door frames do not fit standard fixed-width bars.",
       ja: "調整式幅対応ドアフレーム懸垂バー——標準61〜91cm範囲外の62〜100cmのドア開口部に対応・ナーリングスチールグリップ・静荷重100kg定格。標準固定式バーが合わないドア枠を持つユーザーに最適。",
     },
+    price: "$89.95",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-pullup-dip-doorframe-bar", rawUrl: "https://www.amazon.co.jp/dp/B08GWDQWJK", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-pullup-dip-doorframe-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPullup+%26+Dip+%E3%83%89%E3%82%A2%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0+%E6%87%B8%E5%9E%82%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -10203,6 +10806,7 @@ const RAW_CATALOG = [
       en: "Telescoping friction-mount doorframe pull-up bar — mounts at any height within the door opening (not limited to top trim level), fits 61–91 cm openings, 136 kg static load rating. Best for tall users (over 180 cm) who need more head clearance than over-the-door hook bars allow.",
       ja: "テレスコープ摩擦固定式ドアフレーム懸垂バー——ドア開口部内の任意の高さに設置可能（上枠フック式と異なり高い位置への設置が可能）・対応61〜91cm・静荷重136kg定格。フックオーバー式では頭上クリアランスが不足する180cm超のユーザーに最適。",
     },
+    price: "$59.99",
     links: [
       { network: "amazon-us", productId: "B00H83T2JG", rawUrl: "https://www.amazon.com/dp/B00H83T2JG", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-garren-fitness-maximiza-bar", rawUrl: "https://www.amazon.co.jp/dp/B001YHXKAQ", markets: ["JP"], approved: true },
@@ -10218,6 +10822,7 @@ const RAW_CATALOG = [
       en: "Doorframe pull-up bar with the widest grip variety in the category — five positions: wide overhand (81 cm), medium overhand (61 cm), close supinated (30 cm), and two neutral parallel grips (45 and 61 cm). Fits 61–91 cm openings, 120 kg static load rating. Best for intermediate trainees running multi-grip pull-up programs.",
       ja: "カテゴリー最多グリップポジションを持つドア枠懸垂バー——5種類：ワイドオーバーハンド（81cm）・ミディアムオーバーハンド（61cm）・ナロースピネイテッド（30cm）・ニュートラルパラレル2種（45cmと61cm）。対応61〜91cm・静荷重120kg定格。複数グリップのプルアッププログラムを実施する中上級者に最適。",
     },
+    price: "$49.99",
     links: [
       { network: "amazon-us", productId: "B07H4SYKCS", rawUrl: "https://www.amazon.com/dp/B07H4SYKCS", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-prosource-multi-grip-chinup-bar", rawUrl: "https://www.amazon.co.jp/dp/B00BKRQ4OM", markets: ["JP"], approved: true },
@@ -10234,6 +10839,7 @@ const RAW_CATALOG = [
       en: "Set of 5 mini loop bands covering 2–4 lbs (yellow), 4–6 lbs (red), 10–12 lbs (black), 15–20 lbs (purple), and 25–30 lbs (blue). Natural latex, 12-inch circumference, five-layer construction resists rolling during glute bridges, clamshells, and lateral band walks. Best for glute activation warm-ups and lower-body isolation where a 12-inch loop maintains tension in the abduction plane without a door anchor.",
       ja: "2〜4lbs（イエロー）から25〜30lbs（ブルー）まで5段階をカバーする12インチミニループバンド5本セット。天然ラテックス5層構造でグルートブリッジ・クラムシェル・サイドウォーク中のズレを防止。ドアアンカー不要でグルートウォームアップと下半身孤立種目に最適。",
     },
+    price: "$13.99",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-fit-simplify-loop-bands", rawUrl: "https://www.amazon.co.jp/dp/B01AVDVHTI", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-fit-simplify-loop-bands", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFit+Simplify+%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%97%E3%83%90%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
@@ -10248,6 +10854,7 @@ const RAW_CATALOG = [
       en: "Set of 3 flat therapy bands in yellow (2.5 lbs at 100% elongation), red (3.7 lbs), and green (5.5 lbs) — entry range of TheraBand's clinical color progression. Natural latex, no handles or clips, cut lengths for direct grip or wrapping around limbs. Clinical standard for shoulder external rotation, scapular rehab, and rotator cuff work. Not suitable for heavy strength training.",
       ja: "イエロー（100%伸長時2.5lbs）・レッド（3.7lbs）・グリーン（5.5lbs）のフラットセラピーバンド3本セット。天然ラテックス、ハンドル・クリップなし。直接握ったり肢体に巻き付けて使用。肩外旋・肩甲骨リハビリ・ローテーターカフワークのクリニカル標準。重い筋力トレーニングには不向き。",
     },
+    price: "$24.99",
     links: [
       { network: "amazon-us", productId: "B001V3KKDM", rawUrl: "https://www.amazon.com/dp/B001V3KKDM", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-theraband-resistance-bands", rawUrl: "https://www.amazon.co.jp/dp/B00B1RNZKA", markets: ["JP"], approved: true },
@@ -10263,6 +10870,7 @@ const RAW_CATALOG = [
       en: "Single braided latex resistance tube available in seven resistance grades from ultra-light (3–5 lbs) to ultra-heavy (30–40 lbs at standard extension). Braided multi-strand construction maintains round cross-section under load and resists tearing better than single-wall tubes. 48-inch length with carabiner clip ends. No internal safety cord — snap risk applies at maximum resistance. Best for intermediate trainees doing heavy daily cable-style upper-body work.",
       ja: "ウルトラライト（3〜5lbs）からウルトラヘビー（標準伸長で30〜40lbs）まで7段階のブレイデッドラテックス単体チューブバンド。複数ストランドの組み紐構造が荷重下で円形断面を維持し、単一壁チューブより高い耐引裂性を発揮。カラビナクリップエンド付き48インチ長。インターナルセーフティコードなし。高負荷での日常的なケーブルスタイル上半身トレーニングに取り組む中上級者に最適。",
     },
+    price: "$16.99",
     links: [
       { network: "amazon-us", productId: "B00B0R1C7G", rawUrl: "https://www.amazon.com/dp/B00B0R1C7G", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-spri-braided-xertube", rawUrl: "https://www.amazon.co.jp/dp/B000FIJGUM", markets: ["JP"], approved: true },
@@ -10278,6 +10886,7 @@ const RAW_CATALOG = [
       en: "12-tube stackable system covering 3–25 lbs per tube, stackable to 96 lbs combined. Defining feature: internal bungee safety cord in each tube that catches the load if latex snaps, preventing whip-back injury. Color-coded carabiner clips attach to shared foam handles. Includes 2 door anchors, 2 ankle straps, and carry bag. Best for home gym users who want the widest stackable range with genuine safety engineering — the anti-snap cord is absent in most competitor tube sets.",
       ja: "チューブ1本あたり3〜25lbs、合計最大96lbsまでスタック可能な12本チューブシステム。最大の特徴はラテックス破断時に跳ね返りを防ぐインターナルバンジーセーフティコード。色分けカラビナクリップで共通フォームハンドルに装着。ドアアンカー2本・アンクルストラップ2本・キャリーバッグ付属。最も広いスタッカブルレンジと安全設計を求めるホームジムユーザーに最適——アンチスナップコードは多くの競合チューブセットにない機能。",
     },
+    price: "$49.99",
     links: [
       { network: "amazon-us", productId: "B00YJHJZKA", rawUrl: "https://www.amazon.com/dp/B00YJHJZKA", markets: ["US"], approved: true },
       { network: "amazon-jp", productId: "amazon-jp-bodylastics-stackable-bands", rawUrl: "https://www.amazon.co.jp/dp/B0009O5HEK", markets: ["JP"], approved: true },
@@ -10287,6 +10896,8 @@ const RAW_CATALOG = [
   {
     id: "wodfitters-pullup-bands",
     imageUrl: "https://m.media-amazon.com/images/I/8178XnlkbBL._AC_SL1500_.jpg",
+    priceMin: "$15",
+    priceMax: "$50",
     category: "fitness",
     name: { en: "WODFitters Pull-Up Assistance Bands", ja: "WODFitters プルアップ補助バンド" },
     description: {
@@ -10303,6 +10914,7 @@ const RAW_CATALOG = [
   {
     id: "hydro-flask-standard-mouth-21oz",
     imageUrl: "https://makeshop-multi-images.akamaized.net/plywood/shopimages/00/51/2_000000005100.jpg?1774933356",
+    price: "$34.95",
     category: "home",
     name: { en: "Hydro Flask Standard Mouth 21oz", ja: "Hydro Flask スタンダードマウス 21oz" },
     description: {
@@ -10321,6 +10933,7 @@ const RAW_CATALOG = [
   {
     id: "nalgene-sustain-wide-mouth-32oz",
     imageUrl: "https://nalgene.com/wp-content/uploads/2024/01/32oz-WM-Periwinkle-Front_V2-505x757.jpg",
+    price: "$16.99",
     category: "home",
     name: { en: "Nalgene Sustain Wide Mouth 32oz", ja: "Nalgene サステイン ワイドマウス 32oz" },
     description: {
@@ -10339,6 +10952,7 @@ const RAW_CATALOG = [
   {
     id: "camelbak-chute-mag-25oz",
     imageUrl: "https://image.rakuten.co.jp/style-depot/cabinet/camelbak/4002401717913_24ss.jpg",
+    price: "$35",
     category: "home",
     name: { en: "CamelBak Chute Mag 25oz", ja: "CamelBak チュートマグ 25oz" },
     description: {
@@ -10357,6 +10971,7 @@ const RAW_CATALOG = [
   {
     id: "stanley-classic-legendary-36oz",
     imageUrl: "https://www.stanley1913.com/cdn/shop/files/Web_PNG_Square-The_Legendary_Classic_Bottle_1QT_-_Rose_Quartz_2.0_-_Front_9a1537f7-b8a6-4507-b946-c045dfcd3347.png?v=1772242125",
+    price: "$24.97",
     category: "home",
     name: { en: "Stanley Classic Legendary Bottle 36oz", ja: "スタンレー クラシック 真空ボトル 36oz" },
     description: {
@@ -10375,6 +10990,7 @@ const RAW_CATALOG = [
   {
     id: "klean-kanteen-classic-27oz",
     imageUrl: "https://www.kleankanteen.com/cdn/shop/files/K27CFSS-BAL.jpg?v=1775528061&width=2000",
+    price: "$21.95",
     category: "home",
     name: { en: "Klean Kanteen Classic 27oz", ja: "クリーンカンティーン クラシック 27oz" },
     description: {
@@ -10400,6 +11016,7 @@ const RAW_CATALOG = [
       en: "5–52.5 lb per dumbbell in 2.5 lb increments, dial-select mechanism changes weight in ~2 seconds, replaces 15 pairs, cradle dimensions 51 cm × 20 cm.",
       ja: "1ダンベルあたり5〜52.5lb、2.5lb刻み、ダイヤル式で約2秒で重量変更、15ペア相当、クレードル寸法51cm×20cm。",
     },
+    price: "$399.00",
     links: [
       { network: "amazon-us", productId: "B001ARYU58", rawUrl: "https://www.amazon.com/dp/B001ARYU58", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B001ARYU58", rawUrl: "https://www.amazon.de/dp/B001ARYU58", markets: ["EU"], approved: true },
@@ -10417,6 +11034,7 @@ const RAW_CATALOG = [
       en: "5–50 lb base (expandable to 90 lb with kits), pin-and-sleeve adjustment in ~5 seconds, rectangular stacked-column design, Stage 2 and 3 expansion kits sold separately.",
       ja: "ベース5〜50lb（キットで90lbまで拡張可能）、ピン＆スリーブ調節約5秒、四角形積み重ねカラムデザイン、Stage 2・3拡張キット別売り。",
     },
+    price: "$439.00",
     links: [
       { network: "amazon-us", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.com/dp/B07QBHG3GF", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B07QBHG3GF", rawUrl: "https://www.amazon.de/dp/B07QBHG3GF", markets: ["EU"], approved: true },
@@ -10428,6 +11046,7 @@ const RAW_CATALOG = [
   {
     id: "nordictrack-select-a-weight-55",
     imageUrl: "https://m.media-amazon.com/images/I/71V6q4OVY0L._AC_SL1500_.jpg",
+    price: "$350",
     category: "fitness",
     name: { en: "NordicTrack Select-A-Weight 55 lb Dumbbell", ja: "ノルディックトラック セレクトアウェイト 55lb ダンベル" },
     description: {
@@ -10451,6 +11070,7 @@ const RAW_CATALOG = [
       en: "5–75 lb per dumbbell (expandable to 120 lb), screw-lock collar with no plastic selector parts, knurled steel handle, adjustment in 10–15 seconds, most drop-tolerant adjustable system.",
       ja: "1ダンベルあたり5〜75lb（120lbまで拡張可能）、プラスチックセレクター部品なしのスクリューロックカラー、ローレット加工スチールハンドル、調節10〜15秒、最も耐落下性が高い可変式システム。",
     },
+    price: "$749.00",
     links: [
       { network: "amazon-us", productId: "B0002YRMRC", rawUrl: "https://www.amazon.com/dp/B0002YRMRC", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B0002YRMRC", rawUrl: "https://www.amazon.de/dp/B0002YRMRC", markets: ["EU"], approved: true },
@@ -10462,6 +11082,7 @@ const RAW_CATALOG = [
   {
     id: "ativafit-adjustable-dumbbell",
     imageUrl: "https://m.media-amazon.com/images/I/61ErkmJun5L._AC_SL1200_.jpg",
+    price: "$299",
     category: "fitness",
     name: { en: "ATIVAFIT 71.5 lb Adjustable Dumbbell Set", ja: "ATIVAFIT 71.5lb 可変式ダンベルセット" },
     description: {
@@ -10693,6 +11314,7 @@ const RAW_CATALOG = [
       en: "11-gauge 1.25-inch steel, 500-lb rated, 48-inch span. Lags into two standard 16-inch-spaced ceiling joists. Full hardware included, medium-depth knurl, rack-grade powder coat. The garage gym benchmark for permanent ceiling installation.",
       ja: "11ゲージ・直径1.25インチ鋼管・耐荷重227kg・48インチスパン。標準16インチ間隔の天井根太2本にラグ固定。ハードウェア全同梱、中深度ローレット、ラックグレードパウダーコート。天井永久設置のガレージジム基準機。",
     },
+    price: "$95.00",
     links: [
       { network: "amazon-us", productId: "B082WK7KGN", rawUrl: "https://www.amazon.com/dp/B082WK7KGN", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B082WK7KGN", rawUrl: "https://www.amazon.de/dp/B082WK7KGN", markets: ["EU"], approved: true },
@@ -10704,6 +11326,8 @@ const RAW_CATALOG = [
   {
     id: "titan-wall-ceiling-pullup",
     imageUrl: "https://m.media-amazon.com/images/I/41PoXwosyML._AC_SL1000_.jpg",
+    priceMin: "$85",
+    priceMax: "$120",
     category: "fitness",
     name: { en: "Titan Fitness Wall/Ceiling Pull-Up Bar", ja: "Titan Fitness 壁・天井兼用懸垂バー" },
     description: {
@@ -10721,6 +11345,8 @@ const RAW_CATALOG = [
   {
     id: "rep-fitness-ceiling-pullup",
     imageUrl: "https://repfitness.com/cdn/shop/products/PU-1000-3-Edit-Thumbnail.jpg",
+    priceMin: "$80",
+    priceMax: "$140",
     category: "fitness",
     name: { en: "REP Fitness Ceiling Mount Pull-Up Bar", ja: "REP Fitness 天井固定懸垂バー" },
     description: {
@@ -10738,6 +11364,8 @@ const RAW_CATALOG = [
   {
     id: "probar-wall-mount-pullup",
     imageUrl: "https://m.media-amazon.com/images/I/61ddwL2lRAL._AC_SL1500_.jpg",
+    priceMin: "$60",
+    priceMax: "$100",
     category: "fitness",
     name: { en: "ProBar Wall Mount Pull-Up Bar by Pullup & Dip", ja: "Pullup & Dip ProBar 壁固定懸垂バー" },
     description: {
@@ -10761,6 +11389,7 @@ const RAW_CATALOG = [
       en: "14-gauge 1.25-inch steel, 300-lb rated, 40-inch span. 90-inch ceiling height minimum — lowest in this comparison. Budget entry into permanent ceiling installation. Best for users under 100 kg doing strict dead-hang pull-ups.",
       ja: "14ゲージ・直径1.25インチ鋼管・耐荷重136kg・40インチスパン。最低天井高90インチ（229cm）は本比較最低値。天井永久設置の最安エントリー。100kg未満の厳格デッドハング向け。",
     },
+    price: "$89.95",
     links: [
       { network: "amazon-us", productId: "B003BYRGKY", rawUrl: "https://www.amazon.com/dp/B003BYRGKY", markets: ["US"], approved: true },
       { network: "amazon-de", productId: "B003BYRGKY", rawUrl: "https://www.amazon.de/dp/B003BYRGKY", markets: ["EU"], approved: true },
@@ -10779,6 +11408,7 @@ const RAW_CATALOG = [
       en: "1.5mm coated wire with precision needle bearings in 6.5-inch aluminum handles (57g each). Competition-grade smoothness for double-unders; cable adjusts via crimp system. Best for intermediate-to-advanced CrossFit athletes chasing sub-1:30 on 50 double-unders.",
       ja: "6.5インチアルミハンドル（各57g）にニードルベアリングを内蔵した1.5mmコーティングワイヤー。二重跳び向け競技グレードの滑らかさ。クリンプシステムでケーブル長を調整。50回二重跳び1分30秒以下を目指す中〜上級クロスフィット選手に最適。",
     },
+    price: "$175.00",
     links: [
       { network: "amazon-jp", productId: "B07BQKQV8P", rawUrl: "https://www.amazon.co.jp/dp/B07BQKQV8P", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07BQKQV8P", rawUrl: "https://www.amazon.com/dp/B07BQKQV8P", markets: ["US"], approved: true },
@@ -10797,6 +11427,7 @@ const RAW_CATALOG = [
       en: "1.8mm PVC-coated steel cable with sealed ball bearings in lightweight polymer handles. Ships in three handle lengths; cable trims in under two minutes with included screw tool. Best budget upgrade from bare PVC for athletes learning double-unders.",
       ja: "軽量ポリマーハンドルに密封ボールベアリング内蔵の1.8mm PVCコーティング鋼線ケーブル。3種類のハンドル長で販売。付属スクリュー工具で2分以内にケーブルカット可能。二重跳びを習得中の選手向け最良バジェットアップグレード。",
     },
+    price: "$15.00",
     links: [
       { network: "amazon-jp", productId: "B01LYFGVNQ", rawUrl: "https://www.amazon.co.jp/dp/B01LYFGVNQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01LYFGVNQ", rawUrl: "https://www.amazon.com/dp/B01LYFGVNQ", markets: ["US"], approved: true },
@@ -10815,6 +11446,7 @@ const RAW_CATALOG = [
       en: "Two weighted cables (113g and 227g) with quick-connect aluminum handles that swap in under three seconds. Distributed cable weight loads shoulders and forearms through full rotation range. App tracks jump count and connects to guided workouts.",
       ja: "3秒以内にケーブル交換できるクイックコネクト式アルミハンドル付き加重ケーブル2本セット（113gと227g）。分散したケーブル重量が回転全域で肩と前腕に負荷。アプリがジャンプ数を記録しガイドワークアウトと連携。",
     },
+    price: "$179.00",
     links: [
       { network: "amazon-jp", productId: "B07P8J1P6Q", rawUrl: "https://www.amazon.co.jp/dp/B07P8J1P6Q", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07P8J1P6Q", rawUrl: "https://www.amazon.com/dp/B07P8J1P6Q", markets: ["US"], approved: true },
@@ -10833,6 +11465,7 @@ const RAW_CATALOG = [
       en: "1.6mm aircraft-grade steel cable with chrome-plated aluminum handles in 145mm or 165mm lengths. Precision steel-ball bearings in a recessed housing resist gym-floor impact damage. Cable swaps tool-free in 60 seconds. Competition-finish quality at around ¥18,000.",
       ja: "145mmまたは165mm長クロームメッキアルミハンドルと1.6mm航空機グレード鋼線ケーブル。くぼんだハウジング内の精密スチールボールベアリングがジム床衝突に強い。ツール不要60秒ケーブル交換。約¥18,000の競技グレード仕上げ。",
     },
+    price: "$89.95",
     links: [
       { network: "amazon-jp", productId: "B08XQBCF3N", rawUrl: "https://www.amazon.co.jp/dp/B08XQBCF3N", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08XQBCF3N", rawUrl: "https://www.amazon.com/dp/B08XQBCF3N", markets: ["US"], approved: true },
@@ -10851,6 +11484,7 @@ const RAW_CATALOG = [
       en: "3mm PVC-jacketed steel cable generating higher air resistance and audio feedback per revolution than thin wire. Sealed ball bearings in 5.5-inch handles. Designed for tempo conditioning and power training; outdoor-rated PVC jacket withstands rough surfaces better than coated wire alternatives.",
       ja: "細いワイヤーより1回転ごとの空気抵抗と音のフィードバックが大きい3mm PVCジャケット付き鋼線ケーブル。5.5インチハンドルに密封ボールベアリング内蔵。テンポコンディショニングとパワートレーニング向け設計。屋外対応PVCジャケットはコーティングワイヤーより粗い路面に強い。",
     },
+    price: "$29.99",
     links: [
       { network: "amazon-jp", productId: "B00IOIUIFW", rawUrl: "https://www.amazon.co.jp/dp/B00IOIUIFW", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00IOIUIFW", rawUrl: "https://www.amazon.com/dp/B00IOIUIFW", markets: ["US"], approved: true },
@@ -10971,6 +11605,7 @@ const RAW_CATALOG = [
       en: "10mm single-ply vegetable-tanned leather, 4 inches wide, lever buckle. IPF-approved. Made in USA with lifetime guarantee. The industry benchmark for raw powerlifting belts. Break-in period 4-6 weeks.",
       ja: "厚さ10mm一枚革・植物なめし処理、幅4インチ、レバーバックル。IPF公認。アメリカ製・生涯保証。ローパワーリフティングベルトの業界基準。馴染み期間4〜6週間。",
     },
+    price: "$129.95",
     links: [
       { network: "amazon-jp", productId: "B000P1WUKG", rawUrl: "https://www.amazon.co.jp/dp/B000P1WUKG", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000P1WUKG", rawUrl: "https://www.amazon.com/dp/B000P1WUKG", markets: ["US"], approved: true },
@@ -10983,6 +11618,7 @@ const RAW_CATALOG = [
   {
     id: "rogue-ohio-lifting-belt",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_1600,b_rgb:ffffff/catalog/Straps%20Wraps%20and%20Support%20/Belts%20/Powerlifting/WL0044/WL0044/UPDATED%20WL0044/WL0042-H_kv2rcv.png",
+    price: "$145",
     category: "fitness",
     name: { en: "Rogue Ohio Lifting Belt (10mm)", ja: "Rogue Ohio リフティングベルト (10mm)" },
     description: {
@@ -11007,6 +11643,7 @@ const RAW_CATALOG = [
       en: "13mm single-ply leather with integrated lever mechanism. IPF World Championship standard. Available in 7 sizes. Maximum rigidity for competition powerlifting. Side-press lever release.",
       ja: "13mm一枚革・組み込み式レバー機構。IPF世界選手権標準モデル。7サイズ展開。競技パワーリフティング向け最大剛性。サイドプレス式レバー解放。",
     },
+    price: "$310.00",
     links: [
       { network: "amazon-jp", productId: "B08GTTW5M2", rawUrl: "https://www.amazon.co.jp/dp/B08GTTW5M2", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08GTTW5M2", rawUrl: "https://www.amazon.com/dp/B08GTTW5M2", markets: ["US"], approved: true },
@@ -11025,6 +11662,7 @@ const RAW_CATALOG = [
       en: "10mm genuine cowhide leather, 4 inches wide, double-prong roller buckle. Softer from day one than competition belts. Best budget genuine leather option for general strength training. No IPF approval.",
       ja: "厚さ10mm本牛革、幅4インチ、ダブルプロングローラーバックル。競技ベルトより最初から柔らかい。一般筋トレ向け予算内最優秀の本革モデル。IPF非公認。",
     },
+    price: "$49.99",
     links: [
       { network: "amazon-jp", productId: "B01A5MMWL4", rawUrl: "https://www.amazon.co.jp/dp/B01A5MMWL4", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01A5MMWL4", rawUrl: "https://www.amazon.com/dp/B01A5MMWL4", markets: ["US"], approved: true },
@@ -11043,6 +11681,7 @@ const RAW_CATALOG = [
       en: "Nylon exterior with closed-cell foam core, 4 inches wide, steel buckle. No break-in required. Flexible front panel suits Olympic lifting rack position. Best entry-level belt for beginners and general gym training.",
       ja: "ナイロン外装・閉気泡フォームコア、幅4インチ、スチールバックル。馴染ませ不要。前面の柔軟なパネルがオリンピックリフティングのラックポジションに対応。初心者と一般ジムトレーニング向け最優秀エントリーモデル。",
     },
+    price: "$21.99",
     links: [
       { network: "amazon-jp", productId: "B0000C0CVB", rawUrl: "https://www.amazon.co.jp/dp/B0000C0CVB", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0000C0CVB", rawUrl: "https://www.amazon.com/dp/B0000C0CVB", markets: ["US"], approved: true },
@@ -11063,6 +11702,7 @@ const RAW_CATALOG = [
       en: "350W variable-speed trigger, PowerBell splatter-reducing blade housing, 18 cm shaft, dishwasher-safe blade assembly. Best all-round immersion blender for daily soup and smoothie use.",
       ja: "350W無段階トリガー速度、飛び散り防止PowerBellハウジング、18cmシャフト、食洗機対応ブレードユニット。日常のスープ・スムージー用途で総合バランス最良。",
     },
+    price: "$63.08",
     links: [
       { network: "amazon-jp", productId: "B07PKWTQJL", rawUrl: "https://www.amazon.co.jp/dp/B07PKWTQJL", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07PKWTQJL", rawUrl: "https://www.amazon.com/dp/B07PKWTQJL", markets: ["US"], approved: true },
@@ -11082,6 +11722,7 @@ const RAW_CATALOG = [
       en: "300W motor, 5 discrete speed settings, 15.5 cm shaft, push-button detach blade assembly. Best discrete speed control for emulsifying dressings and custards.",
       ja: "300Wモーター、5段階固定速度、15.5cmシャフト、プッシュボタン着脱ブレードユニット。乳化・カスタード作業に有利な低速精度。",
     },
+    price: "$54.99",
     links: [
       { network: "amazon-jp", productId: "B08GYLK19H", rawUrl: "https://www.amazon.co.jp/dp/B08GYLK19H", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08GYLK19H", rawUrl: "https://www.amazon.com/dp/B08GYLK19H", markets: ["US"], approved: true },
@@ -11101,6 +11742,7 @@ const RAW_CATALOG = [
       en: "625W continuous-rated motor, 5-speed dial, 20 cm shaft, hardened laser-cut 4-prong blade. Best for heavy daily use — handles frozen ingredients and fibrous vegetables without stalling.",
       ja: "625W連続定格モーター、5段階ダイヤル、20cmシャフト、硬化レーザーカット4本爪ブレード。冷凍食材や繊維質野菜も止まらずこなす高負荷用途向け。",
     },
+    price: "$144.95",
     links: [
       { network: "amazon-jp", productId: "B07W6FY5WK", rawUrl: "https://www.amazon.co.jp/dp/B07W6FY5WK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07W6FY5WK", rawUrl: "https://www.amazon.com/dp/B07W6FY5WK", markets: ["US"], approved: true },
@@ -11120,6 +11762,7 @@ const RAW_CATALOG = [
       en: "500W motor, 19 cm shaft, includes 600 ml beaker and whisk attachment. Best value package — louder at full speed than competitors but adequate seal longevity for moderate home use.",
       ja: "500Wモーター、19cmシャフト、600mlビーカー・ホイッパー付属。コスパ最良パッケージ。フル回転時の騒音はやや大きめだが中程度の家庭使用には十分な耐久性。",
     },
+    price: "$34.99",
     links: [
       { network: "amazon-jp", productId: "B07X3TGLSZ", rawUrl: "https://www.amazon.co.jp/dp/B07X3TGLSZ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07X3TGLSZ", rawUrl: "https://www.amazon.com/dp/B07X3TGLSZ", markets: ["US"], approved: true },
@@ -11139,6 +11782,7 @@ const RAW_CATALOG = [
       en: "800W peak, 8-speed + pulse dial, 17 cm shaft, includes blade, whisk, milk frother, and 600 ml beaker. Best attachment variety for households blending soups, frothing milk, and whipping cream.",
       ja: "ピーク800W、8段階＋パルスダイヤル、17cmシャフト、ブレード・ホイッパー・ミルクフロッサー・600mlビーカー付属。スープ・ミルクフォーム・生クリームを1台でまかないたい家庭向け。",
     },
+    price: "$29.99",
     links: [
       { network: "amazon-jp", productId: "B07VNY6DX4", rawUrl: "https://www.amazon.co.jp/dp/B07VNY6DX4", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07VNY6DX4", rawUrl: "https://www.amazon.com/dp/B07VNY6DX4", markets: ["US"], approved: true },
@@ -11158,6 +11802,7 @@ const RAW_CATALOG = [
       en: "5 kg / 11 lb capacity, 1g resolution, pull-out display readable under a large bowl, front-face tare button reachable without moving the bowl, 2-minute auto-off. The most practical design upgrade for bakers who weigh multiple ingredients into a single large mixing bowl.",
       ja: "5kg / 11ポンド容量、1g分解能、大型ボウルの下でも読める引き出し式ディスプレイ、ボウルを動かさずに押せる前面タレボタン、2分オートオフ。同じ大きなミキシングボウルに複数の食材を量り入れるベーカーに最も実用的なデザイン。",
     },
+    price: "$51.93",
     links: [
       { network: "amazon-jp", productId: "B000WKXSHY", rawUrl: "https://www.amazon.co.jp/dp/B000WKXSHY", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000WKXSHY", rawUrl: "https://www.amazon.com/dp/B000WKXSHY", markets: ["US"], approved: true },
@@ -11170,6 +11815,7 @@ const RAW_CATALOG = [
   {
     id: "escali-primo-p115c",
     imageUrl: "https://kitchensupply.com/cdn/shop/files/P115CPrimoDigitalScale_ANGLE.jpg?v=1694706792&width=1946",
+    price: "$25",
     category: "food",
     name: { en: "Escali Primo Digital Food Scale (P115C)", ja: "エスカリ プリモ デジタル食品スケール（P115C）" },
     description: {
@@ -11188,6 +11834,7 @@ const RAW_CATALOG = [
   {
     id: "my-weigh-kd8000-scale",
     imageUrl: "https://woodartsupply.com/cdn/shop/files/51XEFZWk4cL.jpg",
+    price: "$53.99",
     category: "food",
     name: { en: "My Weigh KD-8000 Kitchen and Craft Digital Scale", ja: "マイウェイ KD-8000 キッチン＆クラフト デジタルスケール" },
     description: {
@@ -11212,6 +11859,7 @@ const RAW_CATALOG = [
       en: "26 cm x 20 cm stainless steel platform, 5 kg / 11 lb capacity, 1g resolution, angled display readable under a large bowl, 4 unit modes. Budget-tier workhorse at around $12–15. 60-second auto-off is the main trade-off in long baking sessions.",
       ja: "26cm×20cmステンレスプラットフォーム、5kg / 11ポンド容量、1g分解能、大ボウル下でも読める角度ディスプレイ、4単位モード。約1,500〜2,000円の予算帯ワークホース。60秒オートオフが長いパン作りセッションでの主なトレードオフ。",
     },
+    price: "$13.99",
     links: [
       { network: "amazon-jp", productId: "B07YTLHW7Z", rawUrl: "https://www.amazon.co.jp/dp/B07YTLHW7Z", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07YTLHW7Z", rawUrl: "https://www.amazon.com/dp/B07YTLHW7Z", markets: ["US"], approved: true },
@@ -11230,6 +11878,7 @@ const RAW_CATALOG = [
       en: "Flat glass platform with flush touch buttons, 5 kg / 11 lb capacity, 1g resolution, integrated countdown timer that operates independently of weighing, 3-minute auto-off. German design for countertop espresso and precision baking use where aesthetics are a purchasing factor.",
       ja: "フラッシュタッチボタン付きフラットガラスプラットフォーム、5kg / 11ポンド容量、1g分解能、計量と独立して動作する内蔵カウントダウンタイマー、3分オートオフ。美観が購入要因となるカウンタートップエスプレッソと精密ベーキング向けドイツデザイン。",
     },
+    price: "$49.99",
     links: [
       { network: "amazon-jp", productId: "B08GKZM7R4", rawUrl: "https://www.amazon.co.jp/dp/B08GKZM7R4", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08GKZM7R4", rawUrl: "https://www.amazon.com/dp/B08GKZM7R4", markets: ["US"], approved: true },
@@ -11249,6 +11898,7 @@ const RAW_CATALOG = [
       en: "7mm double-layer neoprene, IPF-approved, sold in pairs, sized by thigh circumference. Double-stitched top and bottom edges prevent roll-down. The standard at IPF World Championships.",
       ja: "7mmダブルレイヤーネオプレーン、IPF公認、ペア販売、モモまわりでサイジング。上下端ダブルステッチでズレ落ち防止。IPF世界選手権での使用率ナンバーワン。",
     },
+    price: "$110.00",
     links: [
       { network: "amazon-jp", productId: "B08CJQZK3M", rawUrl: "https://www.amazon.co.jp/dp/B08CJQZK3M", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08CJQZK3M", rawUrl: "https://www.amazon.com/dp/B08CJQZK3M", markets: ["US"], approved: true },
@@ -11267,6 +11917,7 @@ const RAW_CATALOG = [
       en: "7mm neoprene with tapered anatomical cut, wider at top tapering at patella base. Not IPF-approved. Sold individually. Long-standing rehab and strength sports standard.",
       ja: "7mmネオプレーン・テーパード解剖学的カット採用、上部が広く膝蓋骨底部で絞れる設計。IPF非公認。単体販売。リハビリ・競技スポーツの長年の定番。",
     },
+    price: "$49.99",
     links: [
       { network: "amazon-jp", productId: "B00BEGJKL0", rawUrl: "https://www.amazon.co.jp/dp/B00BEGJKL0", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00BEGJKL0", rawUrl: "https://www.amazon.com/dp/B00BEGJKL0", markets: ["US"], approved: true },
@@ -11285,6 +11936,7 @@ const RAW_CATALOG = [
       en: "7mm neoprene, IPF-approved, sold in pairs, reinforced rear seam. Best value competition-grade knee sleeve. Runs slightly small — size up if between sizes.",
       ja: "7mmネオプレーン、IPF公認、ペア販売、後面補強縫製。最高コスパの競技グレードニースリーブ。やや小さめサイズ感——ハーフサイズならワンサイズ上を選択。",
     },
+    price: "$67.00",
     links: [
       { network: "amazon-jp", productId: "B07DPWMKHL", rawUrl: "https://www.amazon.co.jp/dp/B07DPWMKHL", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07DPWMKHL", rawUrl: "https://www.amazon.com/dp/B07DPWMKHL", markets: ["US"], approved: true },
@@ -11297,6 +11949,8 @@ const RAW_CATALOG = [
   {
     id: "a7-bar-grip-knee-sleeves",
     imageUrl: "https://a7.co/cdn/shop/products/a7-stealth-stiff-cone-knee-sleeves-front.jpg?v=1748098153&width=4096",
+    priceMin: "$60",
+    priceMax: "$70",
     category: "fitness",
     name: { en: "A7 Bar Grip Knee Sleeves (5mm)", ja: "A7 Bar Grip ニースリーブ (5mm)" },
     description: {
@@ -11321,6 +11975,7 @@ const RAW_CATALOG = [
       en: "5mm single-layer neoprene, moderate compression, sold in pairs. Not IPF-approved. Best for general strength training where sleeves stay on through varied movements across 60-90 minute sessions.",
       ja: "5mmシングルレイヤーネオプレーン、適度な圧迫、ペア販売。IPF非公認。60〜90分セッションを通じて多様な動作でスリーブを着けたままでいたい一般筋トレ向け最適モデル。",
     },
+    price: "$60.00",
     links: [
       { network: "amazon-jp", productId: "B07BGWYFKW", rawUrl: "https://www.amazon.co.jp/dp/B07BGWYFKW", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07BGWYFKW", rawUrl: "https://www.amazon.com/dp/B07BGWYFKW", markets: ["US"], approved: true },
@@ -11340,6 +11995,7 @@ const RAW_CATALOG = [
       en: "24-inch cotton/elastic blend wraps with thumb loop, stiff support panel, and hook-and-loop closure. Schiek's flagship wrist wrap — the benchmark for powerlifting and bodybuilding gymgoers who need consistent rigid support on heavy pressing days.",
       ja: "24インチのコットン/エラスティックブレンドラップ、サムループ付き、スティッフサポートパネル、マジックテープ留め。Schieckのフラッグシップリストラップ——重い日のプレス種目で安定したリジッドサポートを求めるパワーリフター・ボディビルダーの基準モデル。",
     },
+    price: "$24.95",
     links: [
       { network: "amazon-jp", productId: "B0000C6T1E", rawUrl: "https://www.amazon.co.jp/dp/B0000C6T1E", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0000C6T1E", rawUrl: "https://www.amazon.com/dp/B0000C6T1E", markets: ["US"], approved: true },
@@ -11358,6 +12014,7 @@ const RAW_CATALOG = [
       en: "20-inch polypropylene wraps with adjustable thumb loop and hook-and-loop closure. Flexible yet supportive — best entry-level wrist wrap for general gym training, bench press, and overhead pressing.",
       ja: "20インチのポリプロピレンラップ、調整可能なサムループ、マジックテープ留め。柔軟性と保護性を兼ね備え——一般ジムトレーニング、ベンチプレス、オーバーヘッドプレス向け最優秀エントリーモデル。",
     },
+    price: "$13.95",
     links: [
       { network: "amazon-jp", productId: "B0000C6TOG", rawUrl: "https://www.amazon.co.jp/dp/B0000C6TOG", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0000C6TOG", rawUrl: "https://www.amazon.com/dp/B0000C6TOG", markets: ["US"], approved: true },
@@ -11376,6 +12033,7 @@ const RAW_CATALOG = [
       en: "Heavy-duty cotton blend with non-slip velcro closure, 24-inch length, maximum stiffness for competition powerlifting. IPF-approved for equipped and raw divisions. The go-to for lifters benching 140kg+.",
       ja: "ノンスリップベルクロ留め付きヘビーデューティーコットンブレンド、24インチ長、競技パワーリフティング向け最大剛性。IPF公認、装備・ロー部門対応。140kg超えベンチプレスリフターの定番。",
     },
+    price: "$36.99",
     links: [
       { network: "amazon-jp", productId: "B00BEGJQPE", rawUrl: "https://www.amazon.co.jp/dp/B00BEGJQPE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00BEGJQPE", rawUrl: "https://www.amazon.com/dp/B00BEGJQPE", markets: ["US"], approved: true },
@@ -11394,6 +12052,7 @@ const RAW_CATALOG = [
       en: "Cotton/elastic blend, 18-inch length, moderate stiffness suitable for both strength training and Olympic lifting. Made in Columbus, Ohio. Balanced support for lifters who rotate between barbell pressing and overhead work.",
       ja: "コットン/エラスティックブレンド、18インチ長、筋力トレーニングとオリンピックリフティング両対応の適度な剛性。オハイオ州コロンバス製。バーベルプレスとオーバーヘッド系を行き来するリフター向けバランス型サポート。",
     },
+    price: "$15.00",
     links: [
       { network: "amazon-jp", productId: "B07BGWZQNK", rawUrl: "https://www.amazon.co.jp/dp/B07BGWZQNK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07BGWZQNK", rawUrl: "https://www.amazon.com/dp/B07BGWZQNK", markets: ["US"], approved: true },
@@ -11412,6 +12071,7 @@ const RAW_CATALOG = [
       en: "45cm or 60cm length options, maximum-stiffness woven cotton blend, IPF-approved. Worn at more IPF World Championship bench press attempts than any other wrap. Built for lifters who want the same wrap at the gym as at the meet.",
       ja: "45cmまたは60cmの長さ選択、最大剛性の織り綿ブレンド、IPF公認。他のどのラップよりも多くのIPF世界選手権ベンチプレス挑戦で使用。ジムと試合で同じラップを使いたいリフター向けに設計。",
     },
+    price: "$42.50",
     links: [
       { network: "amazon-jp", productId: "B08GTTN8XP", rawUrl: "https://www.amazon.co.jp/dp/B08GTTN8XP", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08GTTN8XP", rawUrl: "https://www.amazon.com/dp/B08GTTN8XP", markets: ["US"], approved: true },
@@ -11514,6 +12174,7 @@ const RAW_CATALOG = [
       en: "~¥25,000-¥35,000. 10mm single-ply stiff leather powerlifting belt with lever closure. IPF-approved dimensions (10cm width), uniform 10mm thickness all the way around. The lever buckle provides the same tightness every single rep without the fiddling of a prong belt — once set, just click in and click out. Inzer's signature Forever warranty covers defects for the life of the belt.",
       ja: "約25,000〜35,000円。10mmシングルプライスティフレザー パワーリフティングベルト、レバー締め。IPF認定寸法（幅10cm）、全周均一10mm厚。レバーバックルは毎レップ同じ締め付けを実現 — 一度セットすればカチッと締めるだけ。インザーのForeverワランティで生涯保証。",
     },
+    price: "$129.95",
     links: [
       { network: "amazon-jp", productId: "B0002YV1XU", rawUrl: "https://www.amazon.co.jp/dp/B0002YV1XU", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0002YV1XU", rawUrl: "https://www.amazon.com/dp/B0002YV1XU", markets: ["US"], approved: true },
@@ -12030,6 +12691,7 @@ const RAW_CATALOG = [
       en: "Dual 1-inch-deep Belgian waffle grids that cook two waffles simultaneously. 1400W with six browning settings and indicator lights. Stainless brushed exterior, nonstick removable plates, drip tray included. Takes 4-5 minutes for the first batch; subsequent batches move faster once the plates are fully heated.",
       ja: "厚さ2.5cmのベルギーワッフルグリッドが2枚同時調理可能。1400W・6段階焼き色設定・完了インジケーター付き。ブラシドステンレス外装、着脱式ノンスティックプレート、ドリップトレー付属。最初のバッチは4〜5分；プレートが十分熱されると後続バッチは短縮。",
     },
+    price: "$89.99",
     links: [
       { network: "amazon-jp", productId: "B082PPLFW3", rawUrl: "https://www.amazon.co.jp/dp/B082PPLFW3", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B082PPLFW3", rawUrl: "https://www.amazon.com/dp/B082PPLFW3", markets: ["US"], approved: true },
@@ -12049,6 +12711,7 @@ const RAW_CATALOG = [
       en: "Single round Belgian waffle maker under $30. Nonstick grids, adjustable temperature dial, and a flip design that ensures even batter distribution. Compact footprint stores upright. The entry point for households that want Belgian-style depth without spending on a Cuisinart or Breville.",
       ja: "3,000円台のシングルラウンドベルギーワッフルメーカー。ノンスティックグリッド・温度調節ダイヤル・フリップ設計で均一なバター分布を実現。コンパクトで縦置き収納可能。クイジナートやBrevilleを買わずにベルギースタイルを始めたい家庭向けエントリーモデル。",
     },
+    price: "$82.99",
     links: [
       { network: "amazon-jp", productId: "B00YWHXHM2", rawUrl: "https://www.amazon.co.jp/dp/B00YWHXHM2", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00YWHXHM2", rawUrl: "https://www.amazon.com/dp/B00YWHXHM2", markets: ["US"], approved: true },
@@ -12087,6 +12750,7 @@ const RAW_CATALOG = [
       en: "4-inch single waffle maker at under $15. Heats in under 2 minutes, 350W draw, no settings to fumble with — just plug in and pour. Makes 4-inch round waffles suitable for a single serving. Hugely popular in dorm rooms and small apartments. Not for large households; the single-waffle output makes batch cooking impractical.",
       ja: "1,500円台の直径10cmミニワッフルメーカー。2分以内で加熱完了・350W・設定不要でコンセントを差して生地を注ぐだけ。直径10cmの1枚焼きで1人分に最適。ひとり暮らし・寮・ミニキッチン向けに大人気。大人数のバッチ調理には不向き。",
     },
+    price: "$9.99",
     links: [
       { network: "amazon-jp", productId: "B07D8KD8CW", rawUrl: "https://www.amazon.co.jp/dp/B07D8KD8CW", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07D8KD8CW", rawUrl: "https://www.amazon.com/dp/B07D8KD8CW", markets: ["US"], approved: true },
@@ -12099,6 +12763,7 @@ const RAW_CATALOG = [
   {
     id: "oster-belgian-waffle-maker-ckstwf2000",
     imageUrl: "https://www.oster.ca/on/demandware.static/-/Sites-master-catalog/default/dw6302eb32/images/highres/CKSTWF2000-033-1.jpg",
+    price: "$49.99",
     category: "food",
     badge: "family-pick",
     name: { en: "Oster Belgian Waffle Maker CKSTWF2000", ja: "オスター ベルギーワッフルメーカー CKSTWF2000" },
@@ -12176,6 +12841,7 @@ const RAW_CATALOG = [
   {
     id: "caraway-nonstick-ceramic-pan",
     imageUrl: "https://target.scene7.com/is/image/Target/GUEST_3448da58-bc8d-49dc-8550-9f76fc026a57?wid=800&hei=800&fmt=pjpeg",
+    price: "$145",
     category: "food",
     badge: "ceramic-pick",
     name: { en: "Caraway Home Nonstick Ceramic Fry Pan 10.5-Inch", ja: "Caraway ホーム セラミックノンスティック フライパン 10.5インチ" },
@@ -12202,6 +12868,7 @@ const RAW_CATALOG = [
       en: "Thermolon ceramic nonstick coating — free of PFAS, PFOA, lead, and cadmium. Hard-anodized aluminum body distributes heat evenly without hot spots. Oven-safe to 350°F, dishwasher-safe. GreenPan's Paris line sits between bargain ceramic pans and premium picks: it performs better than entry-level stone-coated options and holds up well under regular home cooking for 2-3 years before recoating is needed.",
       ja: "Therlmoンセラミックノンスティックコーティング（PFAS・PFOA・鉛・カドミウム不使用）。硬質アルマイト加工のアルミ素材で均一な熱分布を実現。オーブン175℃対応、食洗機使用可能。GreenPan パリラインはエントリー級と高級品の中間に位置し、一般的な石コーティングより優れた耐久性を持ち、日常調理で2〜3年の使用に耐える。",
     },
+    price: "$69.99",
     links: [
       { network: "amazon-jp", productId: "B00M2EVEXQ", rawUrl: "https://www.amazon.co.jp/dp/B00M2EVEXQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00M2EVEXQ", rawUrl: "https://www.amazon.com/dp/B00M2EVEXQ", markets: ["US"], approved: true },
@@ -12222,6 +12889,7 @@ const RAW_CATALOG = [
       en: "Power-adjustable stride from 46–61 cm accommodates users across the full height range without compromise. Powered 0–10% incline adjusts automatically during iFit sessions. 22-inch HD touchscreen, silent magnetic resistance, and iFit terrain-matched outdoor routes with automatic stride and incline control during trainer-led classes.",
       ja: "46〜61cmの電動調整可能ストライドで全身長ユーザーに妥協なく対応。iFitセッション中に0〜10%の電動傾斜を自動調整。22インチHDタッチスクリーン、静音マグネット抵抗、トレーナー主導クラス中にストライドと傾斜を自動制御するiFit地形マッチングアウトドアルート搭載。",
     },
+    price: "$1,099.00",
     links: [
       { network: "amazon-jp", productId: "B09Q7J3PCP", rawUrl: "https://www.amazon.co.jp/dp/B09Q7J3PCP", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B09Q7J3PCP", rawUrl: "https://www.amazon.com/dp/B09Q7J3PCP", markets: ["US"], approved: true },
@@ -12272,6 +12940,7 @@ const RAW_CATALOG = [
   {
     id: "bowflex-max-trainer-m9",
     imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw6d24a101/images/bfx/ellipticals/100996/m9-in-home-f-ll.jpg",
+    price: "$1,999",
     category: "fitness",
     badge: "hiit-pick",
     name: { en: "Bowflex Max Trainer M9", ja: "Bowflex Max Trainer M9" },
@@ -12298,6 +12967,7 @@ const RAW_CATALOG = [
       en: "Runs noticeably quieter than the Schwinn 470 or Sole E35 at equivalent resistance levels — a meaningful advantage in apartments or homes where noise transfers to other rooms. 25 resistance levels, power incline to 10%, Bluetooth to the Nautilus app, and a 51 cm stride for users in the 163–175 cm range. The quietest drive system in this comparison.",
       ja: "同等の負荷設定でSchwinn 470やSole E35より顕著に静かに動作——音が他の部屋に伝わるアパートや住宅で大きな優位性。25段階負荷、10%までの電動傾斜、NautilusアプリへのBluetooth接続、163〜175cmの範囲向け51cmストライド。本比較で最も静かな駆動システム。",
     },
+    price: "$849.00",
     links: [
       { network: "amazon-jp", productId: "B07BGMCX7L", rawUrl: "https://www.amazon.co.jp/dp/B07BGMCX7L", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07BGMCX7L", rawUrl: "https://www.amazon.com/dp/B07BGMCX7L", markets: ["US"], approved: true },
@@ -12318,6 +12988,7 @@ const RAW_CATALOG = [
       en: "Two kneading blades and dual heaters on top and bottom produce bakery-quality loaves with an evenly browned crust that covers the full surface including corners — a problem single-blade machines never fully solve. 10 pre-programmed settings, gluten-free cycle, sourdough cycle, and a 13-hour delay timer. 2-pound capacity. The dual-blade design means the baked loaf has two small holes on the bottom; easily hidden once sliced. At 21 × 35 × 39 cm and 7.4 kg, this is a counter-permanent appliance.",
       ja: "2枚の混練ブレードと上下デュアルヒーターで、角まで均一に焼き色がついたベーカリー品質のパンを実現——シングルブレード機が解決できない問題を克服。10種のプログラム、グルテンフリーサイクル、サワードウサイクル、13時間タイマー付き。900gサイズ対応。デュアルブレード設計のため焼き上がりの底面に穴が2つ開くが、スライスすれば目立たない。21×35×39cm・約7.4kgで常設前提の大型機。",
     },
+    price: "$349.95",
     links: [
       { network: "amazon-jp", productId: "B07CNNKHLZ", rawUrl: "https://www.amazon.co.jp/dp/B07CNNKHLZ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07CNNKHLZ", rawUrl: "https://www.amazon.com/dp/B07CNNKHLZ", markets: ["US"], approved: true },
@@ -12337,6 +13008,7 @@ const RAW_CATALOG = [
       en: "12 pre-programmed settings including gluten-free and whole wheat, with 3 crust color options. 2-pound maximum loaf size. 14 × 22 × 30 cm footprint is among the smallest in this category — fits a kitchen counter without monopolizing it. 13-hour delay timer, 60-minute keep-warm. Single kneading blade produces a characteristic hole in the loaf bottom; a minor visual issue that doesn't affect taste or texture.",
       ja: "グルテンフリー・全粒粉を含む12プログラム、3段階の焼き色選択。最大900g対応。14×22×30cmのフットプリントはこのカテゴリで最小クラス——キッチンカウンターを独占しない。13時間タイマー・60分保温機能付き。シングルブレードのため焼き上がりの底に穴が開くが、味や食感への影響はなし。",
     },
+    price: "$135.96",
     links: [
       { network: "amazon-jp", productId: "B01N6634KH", rawUrl: "https://www.amazon.co.jp/dp/B01N6634KH", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01N6634KH", rawUrl: "https://www.amazon.com/dp/B01N6634KH", markets: ["US"], approved: true },
@@ -12368,6 +13040,7 @@ const RAW_CATALOG = [
   {
     id: "oster-expressbake-bread-maker",
     imageUrl: "https://c1.neweggimages.com/productimage/nb640/96-103-169-02.jpg",
+    price: "$99.99",
     category: "food",
     badge: "fast-pick",
     name: { en: "Oster CKSTBR9050-NP Expressbake Bread Maker", ja: "オスター CKSTBR9050-NP エクスプレスベイク ブレッドメーカー" },
@@ -12414,6 +13087,7 @@ const RAW_CATALOG = [
       en: "Classic value pick for home gym flooring — 3/4-inch dense vulcanized rubber in a 4x6-foot mat handles barbell drops that EVA foam tiles cannot. Consistent thickness across the full mat surface provides stable feedback during squats and deadlifts. Expect a strong rubber odor for 2–6 weeks in enclosed spaces; air outdoors before installation.",
       ja: "ホームジムフローリングの定番コスパ選択肢——厚さ3/4インチの高密度加硫ゴム4×6フィートマットはEVAフォームタイルでは対応できないバーベル落下を処理。全面均一厚みがスクワット・デッドリフトでの安定したフィードバックを提供。密閉空間では2〜6週間の強いゴム臭を見込むこと；設置前に屋外で空気にさらすことを推奨。",
     },
+    price: "$49.50",
     links: [
       { network: "amazon-jp", productId: "B07H8MGRGQ", rawUrl: "https://www.amazon.co.jp/dp/B07H8MGRGQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07H8MGRGQ", rawUrl: "https://www.amazon.com/dp/B07H8MGRGQ", markets: ["US"], approved: true },
@@ -12426,6 +13100,7 @@ const RAW_CATALOG = [
   {
     id: "balancefrom-puzzle-exercise-mat",
     imageUrl: "https://www.exit15.com/image/cache/catalog/balancefrom/balancefrom-puzzle-exercise-mat-with-eva-foam-interlocking-t-B072MLTVS4-500x500h.jpg",
+    price: "$35",
     category: "fitness",
     badge: "budget-pick",
     name: { en: "BalanceFrom Puzzle Exercise Mat with EVA Foam", ja: "BalanceFrom パズルエクササイズマット（EVAフォーム）" },
@@ -12441,6 +13116,7 @@ const RAW_CATALOG = [
   {
     id: "rogue-fitness-flooring-rolls",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Gear%20and%20Accessories/Gym%20Essentials%20/Flooring%20and%20Rubber/HM0001/HM0001-web6_rvwq1u.png",
+    price: "$225",
     category: "fitness",
     badge: "premium-pick",
     name: { en: "Rogue Monster Matting (per linear foot)", ja: "ローグ モンスターマッティング（1フィート単位）" },
@@ -12456,6 +13132,7 @@ const RAW_CATALOG = [
   {
     id: "superjock-rubber-floor-tiles",
     imageUrl: "https://strengthwarehouseusa.com/cdn/shop/products/supermats-musclemat-rubber-floor-mat_700x700.jpg?v=1662479855",
+    price: "$45",
     category: "fitness",
     name: { en: "SuperMats Heavy Duty Rubber Mat 4x6", ja: "SuperMats ヘビーデューティー ゴムマット 4x6" },
     description: {
@@ -12476,6 +13153,7 @@ const RAW_CATALOG = [
       en: "Single-piece premium exercise mat that eliminates seams for smaller lifting areas — one mat covers a power rack footprint and immediate landing zone without any butted edges. Odor-reduced rubber compound off-gasses faster than standard stall mats and arrives ready to use sooner.",
       ja: "小〜中規模リフティングエリアの継ぎ目を完全に排除するシングルピースプレミアムエクササイズマット——1枚でパワーラックのフットプリントと即時落下ゾーンをカバー。標準ストールマットより臭い解消が早いゴム配合を採用。",
     },
+    price: "$219.95",
     links: [
       { network: "amazon-jp", productId: "amazon-jp-gorilla-mats-premium-large", rawUrl: "https://www.amazon.co.jp/s?k=Gorilla+Mats+Premium+Large+Exercise+Mat", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-gorilla-mats-premium-large", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGorilla%2BMats%2BPremium%2BLarge%2BExercise%2BMat%2F", markets: ["JP"], approved: true },
@@ -12493,6 +13171,7 @@ const RAW_CATALOG = [
       en: "Built to the same spec as commercial gym installations — 11-gauge steel uprights, dual weight stacks with smooth nylon bearings, 19 adjustable cable positions per side from floor to top. The cable path stays consistent at every height, which matters for flies, rows, and triceps pressdowns equally. Assembled footprint is large; measure your ceiling height before ordering.",
       ja: "商業ジムと同等のスペックで製造——11ゲージスチールアップライト、スムーズナイロンベアリング付きデュアルウェイトスタック、片側19段階の床からトップまで調整可能なケーブルポジション。全高さでケーブルパスが安定しており、フライ・ロウ・トライセプスプレスダウンすべてに有効。組み立て後フットプリントが大きいため、注文前に天井高を必ず計測すること。",
     },
+    price: "$4,800.00",
     links: [
       { network: "amazon-jp", productId: "B08R6J8C7N", rawUrl: "https://www.amazon.co.jp/dp/B08R6J8C7N", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08R6J8C7N", rawUrl: "https://www.amazon.com/dp/B08R6J8C7N", markets: ["US"], approved: true },
@@ -12512,6 +13191,7 @@ const RAW_CATALOG = [
       en: "Dual 165-lb weight stacks (330 lb combined), 19 cable positions per column, and a 1:1 pulley ratio that makes load feel honest — what you set is what you lift. Comes with a pull-up bar, functional arm, and enough attachments to replace a full cable station. The footprint is narrower than a true crossover, which makes it fit most garage gyms without reconfiguring other equipment.",
       ja: "デュアル165ポンドウェイトスタック（合計330ポンド）、カラムごとに19ポジション、1:1プーリー比で設定重量がそのまま体感重量に直結。チンニングバー・ファンクショナルアーム・各種アタッチメント付属でケーブルステーション全体を代替可能。真のクロスオーバーより幅が狭く、ガレージジムで他の器具を動かさずに収まるケースが多い。",
     },
+    price: "$4,999.00",
     links: [
       { network: "amazon-jp", productId: "B07VDVZ9Q2", rawUrl: "https://www.amazon.co.jp/dp/B07VDVZ9Q2", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07VDVZ9Q2", rawUrl: "https://www.amazon.com/dp/B07VDVZ9Q2", markets: ["US"], approved: true },
@@ -12531,6 +13211,7 @@ const RAW_CATALOG = [
       en: "210 lb of Power Rod resistance across 50+ exercises, no weight plates or cables to swap mid-set. The lat tower and chest cable attachment cover the most common cable movements without a full crossover footprint. Rod resistance feels different from steel cable — lighter at the start of each rep and progressively harder — which suits rehab and high-rep conditioning work better than max-effort strength sets.",
       ja: "210ポンドのパワーロード抵抗で50種類以上のエクササイズ対応、セット途中でウェイトプレートやケーブルの交換不要。ラットタワーとチェストケーブルアタッチメントが最も一般的なケーブル動作をカバー、本格クロスオーバーより設置面積が小さい。ロード抵抗はスチールケーブルと感触が異なり——各レップ開始時に軽く徐々に重くなる——最大強度セットよりリハビリや高回数コンディショニングに向いている。",
     },
+    price: "$1,099.00",
     links: [
       { network: "amazon-jp", productId: "B00PJHXYX6", rawUrl: "https://www.amazon.co.jp/dp/B00PJHXYX6", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00PJHXYX6", rawUrl: "https://www.amazon.com/dp/B00PJHXYX6", markets: ["US"], approved: true },
@@ -12568,6 +13249,7 @@ const RAW_CATALOG = [
       en: "All-in-one rack that combines a functional trainer with a power rack, lat pulldown, and low row in one frame — useful when floor space is the binding constraint but you still want full cable range. The 150-lb per stack weight capacity is adequate for most accessory work. If you already own a power rack, this is overkill; if you're starting from nothing, the integrated design reduces total footprint versus buying separate pieces.",
       ja: "パワーラック・ラットプルダウン・ローロウを1フレームに統合したオールインワンラック——床面積が制約要因でも全ケーブルレンジを確保したい場合に有効。スタックあたり150ポンドの重量容量はほとんどのアクセサリー系種目に対応。既にパワーラックがあれば過剰スペックだが、ゼロから揃えるなら統合デザインが個別購入より設置面積を削減できる。",
     },
+    price: "$3,999.00",
     links: [
       { network: "amazon-jp", productId: "B08MHQBYTM", rawUrl: "https://www.amazon.co.jp/dp/B08MHQBYTM", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08MHQBYTM", rawUrl: "https://www.amazon.com/dp/B08MHQBYTM", markets: ["US"], approved: true },
@@ -12589,6 +13271,7 @@ const RAW_CATALOG = [
       en: "Three-tier welded A-frame design holds up to 10 pairs of hex dumbbells at a 550 lb rated capacity. Inclined angle keeps handles accessible without reaching past other weights. 33-inch wide, 20-inch deep footprint fits against a garage wall without consuming training floor space. Rubber foot pads included.",
       ja: "3段溶接Aフレーム設計で最大10ペアのヘックスダンベルを550ポンドの耐荷重で収納。傾斜角度により他のウェイトを越えずにハンドルにアクセス可能。幅33インチ・奥行20インチのフットプリントでトレーニング床面積を圧迫しない。ゴムフットパッド付属。",
     },
+    price: "$59.99",
     links: [
       { network: "amazon-jp", productId: "B00E6TSXBW", rawUrl: "https://www.amazon.co.jp/dp/B00E6TSXBW", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00E6TSXBW", rawUrl: "https://www.amazon.com/dp/B00E6TSXBW", markets: ["US"], approved: true },
@@ -12608,6 +13291,7 @@ const RAW_CATALOG = [
       en: "Engineered for SelectTech 552 and 1090 adjustable dumbbells — cradle geometry matches the SelectTech tray exactly. Raises dumbbells to knuckle height for ergonomic pick-up and replacement. Media shelf holds a tablet at eye level for video workouts. Not designed for hex or other adjustable sets.",
       ja: "SelectTech 552および1090可変式ダンベル専用設計——クレードル形状がSelectTechトレイに正確に合致。ダンベルをナックル高さに持ち上げ人間工学的な拾い上げ・戻しを実現。メディアシェルフで動画ワークアウト用タブレットを目線の高さで保持。ヘックスや他の可変式セットには非対応。",
     },
+    price: "$199.00",
     links: [
       { network: "amazon-jp", productId: "B001ARYU58", rawUrl: "https://www.amazon.co.jp/dp/B001ARYU58", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001ARYU58", rawUrl: "https://www.amazon.com/dp/B001ARYU58", markets: ["US"], approved: true },
@@ -12627,6 +13311,7 @@ const RAW_CATALOG = [
       en: "Commercial-grade 11-gauge 3x3-inch welded steel construction built to the same spec as Rogue's gym equipment. Three-tier flat-shelf design accommodates round rubber, hex, and urethane dumbbells. Rubber-lined shelves prevent sliding and protect dumbbell coatings. Rated for commercial dumbbell sets from 5 lb through 100 lb per side.",
       ja: "Rogueのジム機器と同スペックで製造された11ゲージ3x3インチ溶接スチールのコマーシャルグレード構造。3段フラットシェルフ設計でラバーラウンド・ヘックス・ウレタンダンベルに対応。ゴムライニングシェルフでダンベルの滑りを防止しコーティングを保護。片側5〜100ポンドのコマーシャルダンベルセットに対応した耐荷重評価。",
     },
+    price: "$1,200.00",
     links: [
       { network: "amazon-jp", productId: "B07D5KLTDR", rawUrl: "https://www.amazon.co.jp/dp/B07D5KLTDR", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07D5KLTDR", rawUrl: "https://www.amazon.com/dp/B07D5KLTDR", markets: ["US"], approved: true },
@@ -12639,6 +13324,8 @@ const RAW_CATALOG = [
   {
     id: "fitness-reality-universal-dumbbell-rack",
     category: "fitness",
+    priceMin: "$60",
+    priceMax: "$120",
     badge: "mid-range-pick",
     name: { en: "Fitness Reality Universal Dumbbell Rack", ja: "Fitness Reality ユニバーサル ダンベルラック" },
     description: {
@@ -12695,7 +13382,9 @@ const RAW_CATALOG = [
   },
   {
     id: "nuwave-precision-induction-2-cooktop",
+    imageUrl: "https://m.media-amazon.com/images/P/B01N94TD1V.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$69.99",
     badge: "precision-pick",
     name: { en: "NuWave Precision Induction Cooktop 2", ja: "NuWave プレシジョン IHクッキングヒーター 2" },
     description: {
@@ -12721,6 +13410,7 @@ const RAW_CATALOG = [
       en: "Pan-surface temperature probe measures the actual cooking surface — not the glass beneath — and adjusts output every 20 milliseconds to hold within 1°F of target from 77°F to 482°F. Large dial interface matches professional kitchen workflow. Magnetic probe stores in the handle. Used by line cooks for chocolate tempering, custards, candy, and any technique where 5°F variance causes failure.",
       ja: "パン表面温度プローブがガラス面ではなく実際の調理面を計測し、77〜482°Fで目標値の1°F以内をキープするよう20ミリ秒ごとに出力を調整。大型ダイヤルがプロキッチンの作業フローに合致。プローブはハンドルに磁気収納。チョコレートテンパリング・カスタード・キャンディ製造で5°Fのズレが失敗につながる技術でプロが使用。",
     },
+    price: "$1,299.00",
     links: [
       { network: "amazon-jp", productId: "B00LQOU3GQ", rawUrl: "https://www.amazon.co.jp/dp/B00LQOU3GQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00LQOU3GQ", rawUrl: "https://www.amazon.com/dp/B00LQOU3GQ", markets: ["US"], approved: true },
@@ -12733,6 +13423,7 @@ const RAW_CATALOG = [
   {
     id: "cosori-induction-cooktop-1800w",
     category: "food",
+    price: "$49.99",
     badge: "portable-pick",
     name: { en: "COSORI 1800W Induction Cooktop", ja: "COSORI 1800W IHクッキングヒーター" },
     description: {
@@ -12779,6 +13470,7 @@ const RAW_CATALOG = [
       en: "One-second read time accurate to ±0.5°F from -58°F to 572°F. Auto-rotating display orients digits based on grip angle. IP67 waterproof — washable under a running tap. Motion-sensing sleep and auto backlight in low light. 2,000-hour battery life. The reference standard for instant-read thermometers used by food scientists, competition BBQ judges, and professional kitchens.",
       ja: "-58°F〜572°Fで1秒読み取り・±0.5°F精度。自動回転ディスプレイが持ち手の角度に合わせて数字を正立。IP67防水で水道水洗浄可。動き感知スリープ・低照度自動バックライト。電池寿命2,000時間。食品科学者・BBQ競技審査員・プロキッチンが使うインスタントリード温度計の業界標準。",
     },
+    price: "$109.00",
     links: [
       { network: "amazon-jp", productId: "B09P67VKXJ", rawUrl: "https://www.amazon.co.jp/dp/B09P67VKXJ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B09P67VKXJ", rawUrl: "https://www.amazon.com/dp/B09P67VKXJ", markets: ["US"], approved: true },
@@ -12817,6 +13509,7 @@ const RAW_CATALOG = [
       en: "Completely wireless probe stays in the meat throughout the cook — no cords to manage or melt on grill grates. Dual sensors read internal meat temperature (up to 212°F) and ambient cooking temperature (up to 527°F) simultaneously. Companion app displays both in real time and sends alerts with estimated time-to-target. Bluetooth range 165 feet; Wi-Fi extended range via the charging dock.",
       ja: "完全ワイヤレスプローブが調理中ずっと肉に刺さったまま——コードの取り回しやグリル格子でのコード溶融なし。内部センサー（最大212°F）と周囲センサー（最大527°F）を同時計測。専用アプリがリアルタイム表示と目標温度への到達時間通知。Bluetooth到達距離50m、充電ドック経由でWi-Fi延長対応。",
     },
+    price: "$99.95",
     links: [
       { network: "amazon-jp", productId: "B07Y7DQHV8", rawUrl: "https://www.amazon.co.jp/dp/B07Y7DQHV8", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07Y7DQHV8", rawUrl: "https://www.amazon.com/dp/B07Y7DQHV8", markets: ["US"], approved: true },
@@ -12855,6 +13548,7 @@ const RAW_CATALOG = [
       en: "Four-to-five second read time accurate to ±2°F from 32°F to 392°F. Straightforward digital display with a foldable probe. Covers the essential use cases — checking chicken, roasts, and frying oil — at under $20. The entry point for households that cook protein infrequently and want a functional thermometer without spending on premium features.",
       ja: "32°F〜392°Fで4〜5秒読み取り・±2°F精度。シンプルなデジタル表示と折り畳みプローブ。鶏肉・ローストビーフ・揚げ油の温度確認という基本用途を2,000円台でカバー。タンパク質を頻繁に調理しないが実用的な温度計が欲しいユーザー向けのエントリーポイント。",
     },
+    price: "$14.99",
     links: [
       { network: "amazon-jp", productId: "B00004XSC5", rawUrl: "https://www.amazon.co.jp/dp/B00004XSC5", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00004XSC5", rawUrl: "https://www.amazon.com/dp/B00004XSC5", markets: ["US"], approved: true },
@@ -12876,6 +13570,7 @@ const RAW_CATALOG = [
       en: "Push-button pump mechanism with one-handed brake stop, 5-quart basket that doubles as a colander, non-slip base, and a clear bowl presentable enough for the table. The benchmark salad spinner for daily home use.",
       ja: "プッシュボタンポンプ式・片手ブレーキ停止、コランダー兼用の5クォートバスケット、滑り止めベース、食卓に出せるクリアボウルを備えた日常使い向け基準製品。",
     },
+    price: "$34.99",
     links: [
       { network: "amazon-jp", productId: "B00004OCLJ", rawUrl: "https://www.amazon.co.jp/dp/B00004OCLJ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00004OCLJ", rawUrl: "https://www.amazon.com/dp/B00004OCLJ", markets: ["US"], approved: true },
@@ -12895,6 +13590,7 @@ const RAW_CATALOG = [
       en: "Pull-cord mechanism generates fast initial spin speed with a single pull and a simpler design means fewer crevices for food to collect. A reliable mid-range pick for effective water removal without pump mechanism cleaning complexity.",
       ja: "引き紐式で一回の引きから高速回転を生み出し、シンプルな設計で食物が詰まる隙間が少ない。ポンプ機構の洗浄の手間なしに効果的な脱水を求める中間層向けの確かな製品。",
     },
+    price: "$44.95",
     links: [
       { network: "amazon-jp", productId: "B01N9THUNM", rawUrl: "https://www.amazon.co.jp/dp/B01N9THUNM", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01N9THUNM", rawUrl: "https://www.amazon.com/dp/B01N9THUNM", markets: ["US"], approved: true },
@@ -12914,6 +13610,7 @@ const RAW_CATALOG = [
       en: "Trigger-pull mechanism in a compact 3.3-quart body that fits in kitchen drawers where standard spinners won't. The right pick for one-to-two person households or kitchens with limited cabinet space.",
       ja: "標準スピナーが入らない引き出しに収まるコンパクトな3.3クォートのトリガー引き式。収納スペースが限られた1〜2人世帯に最適。",
     },
+    price: "$39.95",
     links: [
       { network: "amazon-jp", productId: "B002YB0SBK", rawUrl: "https://www.amazon.co.jp/dp/B002YB0SBK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B002YB0SBK", rawUrl: "https://www.amazon.com/dp/B002YB0SBK", markets: ["US"], approved: true },
@@ -12925,7 +13622,9 @@ const RAW_CATALOG = [
   },
   {
     id: "kitchenaid-salad-spinner-ksgss5",
+    imageUrl: "https://m.media-amazon.com/images/P/B09S6TZ69R.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$69.99",
     badge: "premium-pick",
     name: { en: "KitchenAid Salad Spinner KSGSS5", ja: "KitchenAid サラダスピナー KSGSS5" },
     description: {
@@ -12951,6 +13650,7 @@ const RAW_CATALOG = [
       en: "Large-capacity cord-pull spinner with minimal moving parts — easy to clean and durable over years of use. A reliable workhorse for households that prioritize longevity and simplicity over feature refinements.",
       ja: "可動部が少なく洗いやすく何年も使える大容量引き紐式スピナー。細かな機能差より長持ちとシンプルさを優先する家庭への信頼性の高い実用製品。",
     },
+    price: "$27.00",
     links: [
       { network: "amazon-jp", productId: "B00ATO5IPE", rawUrl: "https://www.amazon.co.jp/dp/B00ATO5IPE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00ATO5IPE", rawUrl: "https://www.amazon.com/dp/B00ATO5IPE", markets: ["US"], approved: true },
@@ -12970,6 +13670,7 @@ const RAW_CATALOG = [
       en: "DC motor maintains consistent RPM under load from light whipped cream to dense cookie dough, with turbo beaters that resist staining and clean easily. The most balanced hand mixer for regular home bakers.",
       ja: "軽いホイップクリームから粘度の高いクッキー生地まで、負荷時も安定した回転数を維持するDCモーターと汚れにくいターボビーターを搭載。定期的に製菓する家庭向けの最もバランスの取れたハンドミキサー。",
     },
+    price: "$59.99",
     links: [
       { network: "amazon-jp", productId: "B00BWKZK1A", rawUrl: "https://www.amazon.co.jp/dp/B00BWKZK1A", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00BWKZK1A", rawUrl: "https://www.amazon.com/dp/B00BWKZK1A", markets: ["US"], approved: true },
@@ -12989,6 +13690,7 @@ const RAW_CATALOG = [
       en: "The only hand mixer with a scraper beater — a silicone-edged attachment that wipes the bowl wall on each rotation, cutting manual scrape-downs by roughly half. Nine speeds and 240W handle a full baking range.",
       ja: "回転のたびにボウルの側面を拭うシリコン縁付きスクレーパービーターを持つ唯一のハンドミキサー。手作業での掻き落とし回数を約半分に削減。9段階速度と240Wで全製菓タスクに対応。",
     },
+    price: "$159.95",
     links: [
       { network: "amazon-jp", productId: "B00BWKZMRA", rawUrl: "https://www.amazon.co.jp/dp/B00BWKZMRA", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00BWKZMRA", rawUrl: "https://www.amazon.com/dp/B00BWKZMRA", markets: ["US"], approved: true },
@@ -13001,6 +13703,7 @@ const RAW_CATALOG = [
   {
     id: "cuisinart-hm-90bcs-hand-mixer",
     imageUrl: "https://zestbillings.com/cdn/shop/files/Cuisinart-Cuisinart-Power-Advantage-Hand-Mixer-9-Speed-Brushed-Chrome.webp?v=1739693077&width=1946",
+    price: "$79.95",
     category: "food",
     badge: "control-pick",
     name: { en: "Cuisinart HM-90BCS Hand Mixer 9-Speed", ja: "Cuisinart HM-90BCS ハンドミキサー 9スピード" },
@@ -13039,6 +13742,7 @@ const RAW_CATALOG = [
   {
     id: "krups-gn9019-hand-mixer",
     category: "food",
+    price: "$49.99",
     badge: "precision-pick",
     name: { en: "KRUPS GN9019 Hand Mixer 9-Speed", ja: "KRUPS GN9019 ハンドミキサー 9スピード" },
     description: {
@@ -13066,6 +13770,7 @@ const RAW_CATALOG = [
       en: "Competition-accurate KG steel plates machined to IWF tolerances (within 10 grams). Black oxide finish with chrome ring for easy identification. Standard 450mm diameter positions bar at correct deadlift starting height. The choice for lifters who compete or train on competition-spec equipment.",
       ja: "IWF公差（10グラム以内）に機械加工された競技精度KGスチールプレート。ブラックオキサイド仕上げとクロームリングで識別しやすい。標準450mm径でデッドリフトの正しいスタート高さを確保。競技出場者または競技仕様機器でトレーニングするリフター向け。",
     },
+    price: "$311.00",
     links: [
       { network: "amazon-jp", productId: "B07DKZV89N", rawUrl: "https://www.amazon.co.jp/dp/B07DKZV89N", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07DKZV89N", rawUrl: "https://www.amazon.com/dp/B07DKZV89N", markets: ["US"], approved: true },
@@ -13104,6 +13809,7 @@ const RAW_CATALOG = [
       en: "The most affordable new Olympic cast iron plates available. Weight variance of 2-3% is acceptable for general strength training. Widely available through major retailers for fast sourcing. The right call when budget is the primary constraint and you plan to upgrade later.",
       ja: "最も手頃な新品オリンピック鋳鉄プレート。2〜3%の重量誤差は一般的なストレングストレーニングでは許容範囲。大手小売店で広く販売されており素早く調達可能。予算が最優先で後でアップグレードを予定している場合の適切な選択。",
     },
+    price: "$53.97",
     links: [
       { network: "amazon-jp", productId: "B000VDIKAQ", rawUrl: "https://www.amazon.co.jp/dp/B000VDIKAQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000VDIKAQ", rawUrl: "https://www.amazon.com/dp/B000VDIKAQ", markets: ["US"], approved: true },
@@ -13123,6 +13829,7 @@ const RAW_CATALOG = [
       en: "Recycled rubber bumper plates rated for daily drops from overhead at full extension. Steel-reinforced 2-inch center insert maintains hole geometry through years of drop cycles. IWF-standard 450mm diameter across all weights. The standard choice for home Olympic lifting and CrossFit setups.",
       ja: "頭上から完全伸展でのドロップを毎日繰り返せるリサイクルゴムバンパープレート。スチール補強2インチセンターインサートが長年のドロップサイクルを経てもホール形状を維持。全重量でIWF標準450mm径。ホームオリンピックリフティングとクロスフィットセットアップの標準的な選択。",
     },
+    price: "$195.00",
     links: [
       { network: "amazon-jp", productId: "B00BEZT3L4", rawUrl: "https://www.amazon.co.jp/dp/B00BEZT3L4", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00BEZT3L4", rawUrl: "https://www.amazon.com/dp/B00BEZT3L4", markets: ["US"], approved: true },
@@ -13142,6 +13849,7 @@ const RAW_CATALOG = [
       en: "Virgin rubber bumper plates with lower dead bounce than recycled rubber options — useful in shared spaces or on smaller platforms where bounce distance is a concern. IWF-standard diameter, steel-reinforced insert. A quieter drop alternative to Hi-Temps for lifters who need bumper performance with less rebound.",
       ja: "リサイクルゴムよりデッドバウンスが低いバージンゴムバンパープレート——バウンス距離が制約となる共有スペースや小さなプラットフォームで有用。IWF標準径、スチール補強インサート。バンパー性能を求めつつ反発を抑えたいリフターへのHi-Tempより静かなドロップの代替。",
     },
+    price: "$179.99",
     links: [
       { network: "amazon-jp", productId: "B01LYFK22C", rawUrl: "https://www.amazon.co.jp/dp/B01LYFK22C", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01LYFK22C", rawUrl: "https://www.amazon.com/dp/B01LYFK22C", markets: ["US"], approved: true },
@@ -13264,6 +13972,7 @@ const RAW_CATALOG = [
       en: "A-frame standalone pull-up station without dip or VKR stations — smallest depth footprint in this comparison at approximately 97 by 60 cm. Wide outrigger feet deliver good lateral stability for strict dead-hang pull-ups without wall anchoring. Fixed bar height at approximately 218 cm. Multiple grip options: wide overhand at top, neutral parallel on angled side rails. Rated to 136 kg static.",
       ja: "ディップ台・VKRなしの単体プルアップステーション——このリスト中最小の奥行き約97×60cm。幅広アウトリガーフットが壁固定なしで優れた横方向安定性を提供。固定バー高さ約218cm。グリップ複数：上部ワイドオーバーハンド、斜めサイドレールのニュートラルパラレル。静荷重136kg定格。",
     },
+    price: "$149.99",
     links: [
       { network: "amazon-jp", productId: "B07L96RQDS", rawUrl: "https://www.amazon.co.jp/dp/B07L96RQDS", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07L96RQDS", rawUrl: "https://www.amazon.com/dp/B07L96RQDS", markets: ["US"], approved: true },
@@ -13283,6 +13992,7 @@ const RAW_CATALOG = [
       en: "Height-adjustable standalone pull-up bar from approximately 193 to 244 cm in preset steps — the tallest available setting in this comparison. Rectangular four-foot base with optional wall-anchor strap hardware included for added stability under dynamic loading. Straight overhand bar only; no integrated parallel or neutral grip handles. Rated to 136 kg with anchor. Best for users taller than 185 cm who need maximum overhead clearance.",
       ja: "プリセット段階で約193〜244cmに高さ調整可能な単体懸垂バー——このリスト中で利用可能な最大高さ。動的荷重時の安定性向上のためのオプション壁アンカーストラップハードウェア付属の長方形4フットベース。ストレートオーバーハンドバーのみ（パラレル・ニュートラルグリップ非搭載）。アンカー使用時136kg定格。最大オーバーヘッドクリアランスを必要とする185cm超のユーザーに最適。",
     },
+    price: "$79.95",
     links: [
       { network: "amazon-jp", productId: "B003TKGQQ0", rawUrl: "https://www.amazon.co.jp/dp/B003TKGQQ0", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B003TKGQQ0", rawUrl: "https://www.amazon.com/dp/B003TKGQQ0", markets: ["US"], approved: true },
@@ -13302,6 +14012,7 @@ const RAW_CATALOG = [
       en: "Full four-station power tower (pull-up, dip, push-up, VKR) in a compact approximately 95 by 110 cm footprint — the most space-efficient power tower in this comparison. Adjustable bar height to approximately 220 cm via preset holes in upright tubes. Fixed-width dip handles. Thinner VKR arm rest padding than premium alternatives. Rated to 150 kg static — highest weight capacity of any unit in this comparison. Strong value for full-function power tower capability in smaller rooms.",
       ja: "コンパクトな約95×110cmの設置面積でフル4ステーション（プルアップ・ディップ・プッシュアップ・VKR）——このリストで最もスペース効率の高いパワータワー。アップライトチューブのプリセット穴でバー高さ約220cmまで調整可能。固定幅ディップハンドル。プレミアム製品より薄いVKRアームレストパッド。耐荷重150kg定格——このリスト中最高。小さな部屋でのフル機能パワータワーに優れた価値。",
     },
+    price: "$199.99",
     links: [
       { network: "amazon-jp", productId: "B07R9WRWBB", rawUrl: "https://www.amazon.co.jp/dp/B07R9WRWBB", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07R9WRWBB", rawUrl: "https://www.amazon.com/dp/B07R9WRWBB", markets: ["US"], approved: true },
@@ -13314,6 +14025,7 @@ const RAW_CATALOG = [
   {
     id: "fitness-reality-x2-power-tower",
     imageUrl: "https://fitnessrealityshop.com/wp-content/uploads/2024/11/Fitness-Reality-XLT-Power-Cage.png",
+    price: "$140",
     category: "fitness",
     badge: "top-pick",
     name: { en: "Fitness Reality X2 4-in-1 Power Tower", ja: "Fitness Reality X2 4-in-1 パワータワー" },
@@ -13340,6 +14052,7 @@ const RAW_CATALOG = [
       en: "Premium four-station power tower (pull-up, dip, push-up, VKR) with heavier frame gauge, wider dip handle spacing, and thicker VKR arm rest padding than budget alternatives. Pull-up bar at approximately 228 cm fixed height. Base footprint approximately 115 by 135 cm — largest in this comparison. Rated to 136 kg static. Worth the premium over the Fitness Reality X2 for buyers who will use the dip and VKR stations frequently and value comfort during longer sets.",
       ja: "バジェット代替品より重量規格のフレーム・広いディップハンドル間隔・厚いVKRアームレストパッドを備えたプレミアム4ステーションパワータワー（プルアップ・ディップ・プッシュアップ・VKR）。懸垂バー固定高さ約228cm。ベース設置面積約115×135cm——このリスト中最大。静荷重136kg定格。ディップとVKRステーションを頻繁に使用しロングセットの快適性を重視するユーザーにFitness Reality X2へのプレミアムの価値あり。",
     },
+    price: "$206.09",
     links: [
       { network: "amazon-jp", productId: "B07PLDG9DQ", rawUrl: "https://www.amazon.co.jp/dp/B07PLDG9DQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07PLDG9DQ", rawUrl: "https://www.amazon.com/dp/B07PLDG9DQ", markets: ["US"], approved: true },
@@ -14681,7 +15394,6 @@ const RAW_CATALOG = [
   {
     id: "crossrope-get-lean-set",
     imageUrl: "https://www.crossrope.com/cdn/shop/files/Classic_GetLean_1.jpg?v=1776713490",
-    price: "~$80",
     category: "fitness",
     badge: "⚖️",
     name: { en: "Crossrope Get Lean Set (Weighted Jump Rope)", ja: "Crossrope Get Lean セット（加重ジャンプロープ）" },
@@ -14689,6 +15401,7 @@ const RAW_CATALOG = [
       en: "~$80-150. Weighted cable system with magnetic quick-connect, multiple cable weights (1/4 lb, 1/2 lb). Best for cardiovascular training with progressive overload. Not optimal for double-under speed — use a lighter rope for that.",
       ja: "約8千〜1万5千円。磁気クイックコネクト付き加重ケーブルシステム、複数ケーブル重量（1/4ポンド・1/2ポンド）。漸進的過負荷付きの心臓血管トレーニングに最適。ダブルアンダーのスピードには最適でない——そのためには軽いロープを。",
     },
+    price: "$298.00",
     links: [
       { network: "amazon-jp", productId: "B07YCMKN5B", rawUrl: "https://www.amazon.co.jp/dp/B07YCMKN5B", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07YCMKN5B", rawUrl: "https://www.amazon.com/dp/B07YCMKN5B", markets: ["US"], approved: true },
@@ -15100,6 +15813,7 @@ const RAW_CATALOG = [
   },
   {
     id: "harbinger-wrist-roller",
+    imageUrl: "https://m.media-amazon.com/images/I/41tGcRWDGBL._AC_SL1000_.jpg",
     category: "fitness",
     price: "~$15",
     badge: "💪",
@@ -15537,6 +16251,7 @@ const RAW_CATALOG = [
   },
   {
     id: "valor-fitness-bd-62-dip-bar",
+    imageUrl: "https://m.media-amazon.com/images/P/B00B29E0HM.01._SCLZZZZZZZ_.jpg",
     category: "fitness",
     price: "~$80",
     badge: "💪",
@@ -16241,6 +16956,7 @@ const RAW_CATALOG = [
   },
   {
     id: "fellow-stagg-ekg-kettle",
+    imageUrl: "https://m.media-amazon.com/images/P/B077JBQZPX.01._SCLZZZZZZZ_.jpg",
     category: "food",
     price: "~$150",
     badge: "☕",
@@ -16523,6 +17239,7 @@ const RAW_CATALOG = [
   },
   {
     id: "rep-fitness-preacher-curl-bench",
+    imageUrl: "https://m.media-amazon.com/images/P/B00DZ3P9NW.01._SCLZZZZZZZ_.jpg",
     category: "fitness",
     price: "~$130",
     badge: "💪",
@@ -16975,6 +17692,7 @@ const RAW_CATALOG = [
       en: "Stainless steel phin filter + ceramic cup + Vietnamese single-origin coffee sample. Everything needed to brew authentic ca phe sua da at home.",
       ja: "ステンレス製フィン＋セラミックカップ＋ベトナム単一起源コーヒーサンプル。本格カフェスア・ダーを自宅で淹れるのに必要なすべて。",
     },
+    price: "$15.30",
     links: [
       { network: "amazon-jp", productId: "B08XYZNGVC", rawUrl: "https://www.amazon.co.jp/dp/B08XYZNGVC", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08XYZNGVC", rawUrl: "https://www.amazon.com/dp/B08XYZNGVC", markets: ["US"], approved: true },
@@ -16994,6 +17712,7 @@ const RAW_CATALOG = [
       en: "Robusta-arabica blend pre-ground for phin brewing. Most representative traditional Vietnamese coffee — high caffeine, chocolatey body, correct grind for ca phe sua da.",
       ja: "フィン醸造用ロブスタ-アラビカブレンドの事前挽き。最も代表的な伝統的ベトナムコーヒー——高カフェイン、チョコレートのようなボディ、カフェスア・ダーに正しい粒度。",
     },
+    price: "$12.85",
     links: [
       { network: "amazon-jp", productId: "B00GHZD4QK", rawUrl: "https://www.amazon.co.jp/dp/B00GHZD4QK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00GHZD4QK", rawUrl: "https://www.amazon.com/dp/B00GHZD4QK", markets: ["US"], approved: true },
@@ -17013,6 +17732,7 @@ const RAW_CATALOG = [
       en: "Classic New Orleans coffee + chicory blend, 15 oz can. Vietnamese-American tradition — woody bitterness pairs well with condensed milk. Pre-ground for drip, works in phin.",
       ja: "定番ニューオーリンズコーヒー＋チコリブレンド、15オンス缶。ベトナム系アメリカ人の伝統——チコリの木質的な苦みがコンデンスミルクとよく合います。ドリップ用事前挽き、フィンで使用可能。",
     },
+    price: "$9.95",
     links: [
       { network: "amazon-jp", productId: "B0000CFN2T", rawUrl: "https://www.amazon.co.jp/dp/B0000CFN2T", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0000CFN2T", rawUrl: "https://www.amazon.com/dp/B0000CFN2T", markets: ["US"], approved: true },
@@ -17032,6 +17752,7 @@ const RAW_CATALOG = [
       en: "Traditional Vietnamese sweetened condensed milk (Ong Tho brand). The essential ingredient for ca phe sua da — 2-3 tablespoons per cup provides both sweetness and creaminess.",
       ja: "伝統的なベトナムの加糖コンデンスミルク（Ong Thoブランド）。カフェスア・ダーに必須の材料——1カップに2〜3大さじで甘みとクリーミーさの両方を提供。",
     },
+    price: "$5.99",
     links: [
       { network: "amazon-jp", productId: "B07FDSMKDN", rawUrl: "https://www.amazon.co.jp/dp/B07FDSMKDN", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07FDSMKDN", rawUrl: "https://www.amazon.com/dp/B07FDSMKDN", markets: ["US"], approved: true },
@@ -17051,6 +17772,7 @@ const RAW_CATALOG = [
       en: "Standard stainless steel phin filter for Vietnamese drip coffee. Look for snug press plate fit and uniform perforations. 4 oz for one cup, 8 oz for larger volume.",
       ja: "ベトナムドリップコーヒー用標準的なステンレス製フィンフィルター。プレス板のしっかりとしたはまり具合と均一な穿孔を確認。1カップに4オンス、大容量には8オンス。",
     },
+    price: "$12.99",
     links: [
       { network: "amazon-jp", productId: "B08XPHINSS", rawUrl: "https://www.amazon.co.jp/dp/B08XPHINSS", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08XPHINSS", rawUrl: "https://www.amazon.com/dp/B08XPHINSS", markets: ["US"], approved: true },
@@ -17071,6 +17793,7 @@ const RAW_CATALOG = [
       en: "3x3 inch, 11-gauge uprights, 1-inch hole spacing, 90-inch height. The reference home gym power rack — Rogue build quality, extensive Monster Lite accessory ecosystem.",
       ja: "3x3インチ、11ゲージアップライト、1インチホール間隔、90インチ高さ。ホームジムパワーラックの基準——Rogueビルド品質、広範なMonster Liteアクセサリーエコシステム。",
     },
+    price: "$825.00",
     links: [
       { network: "amazon-jp", productId: "B07DRGUER3", rawUrl: "https://www.amazon.co.jp/dp/B07DRGUER3", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07DRGUER3", rawUrl: "https://www.amazon.com/dp/B07DRGUER3", markets: ["US"], approved: true },
@@ -17083,6 +17806,8 @@ const RAW_CATALOG = [
   {
     id: "rep-fitness-pr-4000-power-rack",
     category: "fitness",
+    priceMin: "$621",
+    priceMax: "$1,700",
     badge: "ベストバリュー",
     name: { en: "REP Fitness PR-4000 Power Rack", ja: "REP Fitness PR-4000 パワーラック" },
     description: {
@@ -17127,6 +17852,7 @@ const RAW_CATALOG = [
       en: "2x2 inch, 12-gauge uprights, includes lat pulldown and cable system. Complete integrated home gym system. Lighter upright spec limits heavy barbell use.",
       ja: "2x2インチ、12ゲージアップライト、ラットプルダウン＋ケーブルシステム付属。完全な統合ホームジムシステム。より軽いアップライトスペックが重いバーベル使用を制限。",
     },
+    price: "$599.00",
     links: [
       { network: "amazon-jp", productId: "B001BSGPR3", rawUrl: "https://www.amazon.co.jp/dp/B001BSGPR3", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001BSGPR3", rawUrl: "https://www.amazon.com/dp/B001BSGPR3", markets: ["US"], approved: true },
@@ -17146,6 +17872,7 @@ const RAW_CATALOG = [
       en: "2x2 inch, 14-gauge, 2-inch hole spacing, entry-level. Budget cage for home training at moderate loads. Not recommended for heavy powerlifting use long-term.",
       ja: "2x2インチ、14ゲージ、2インチホール間隔、エントリーレベル。中程度の負荷での家庭トレーニング用予算ケージ。重いパワーリフティング使用の長期解決策としては非推薦。",
     },
+    price: "$249.99",
     links: [
       { network: "amazon-jp", productId: "B00CAPFM80", rawUrl: "https://www.amazon.co.jp/dp/B00CAPFM80", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00CAPFM80", rawUrl: "https://www.amazon.com/dp/B00CAPFM80", markets: ["US"], approved: true },
@@ -17166,6 +17893,7 @@ const RAW_CATALOG = [
       en: "Traditional Argentine con palo (with stems) blend, 500g. Representative everyday yerba — milder flavor, longer aging process. The reference traditional Argentine mate.",
       ja: "伝統的なアルゼンチンのコンパロ（茎あり）ブレンド、500g。代表的な日常のヤーバ——穏やかな風味、長い熟成プロセス。伝統的なアルゼンチンマテの基準。",
     },
+    price: "$16.99",
     links: [
       { network: "amazon-jp", productId: "B00CRUZMALT", rawUrl: "https://www.amazon.co.jp/dp/B00CRUZMALT", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00CRUZMALT", rawUrl: "https://www.amazon.com/dp/B00CRUZMALT", markets: ["US"], approved: true },
@@ -17185,6 +17913,7 @@ const RAW_CATALOG = [
       en: "USDA organic, shade-grown, Misiones province Argentina, 500g. Most accessible premium yerba in North America/Japan — woody, earthy flavor profile.",
       ja: "USDA認定オーガニック、日陰栽培、アルゼンチンのミシオネス州産、500g。北米/日本で最もアクセスしやすいプレミアムヤーバ——木質的で土っぽい風味プロファイル。",
     },
+    price: "$21.99",
     links: [
       { network: "amazon-jp", productId: "B001GUAYAKI", rawUrl: "https://www.amazon.co.jp/dp/B001GUAYAKI", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001GUAYAKI", rawUrl: "https://www.amazon.com/dp/B001GUAYAKI", markets: ["US"], approved: true },
@@ -17204,6 +17933,7 @@ const RAW_CATALOG = [
       en: "Major Argentine brand with wide international distribution, 500g. Classic con palo for beginners, Sin Palo for experienced drinkers. Practical choice outside South America.",
       ja: "幅広い国際流通を持つ主要アルゼンチンブランド、500g。初心者向けクラシックコンパロ、経験豊富な飲者向けシンパロ。南米以外での実用的な選択肢。",
     },
+    price: "$14.99",
     links: [
       { network: "amazon-jp", productId: "B001TARAGUI", rawUrl: "https://www.amazon.co.jp/dp/B001TARAGUI", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001TARAGUI", rawUrl: "https://www.amazon.com/dp/B001TARAGUI", markets: ["US"], approved: true },
@@ -17223,6 +17953,7 @@ const RAW_CATALOG = [
       en: "Calabash or wood gourd + stainless spring bombilla. Requires curing before first use. Wide mouth gourd and spring bombilla recommended for beginners.",
       ja: "カラバッシュまたは木材ゴード＋ステンレスのスプリングボンビーリャ。初回使用前にキュアリングが必要。初心者には広口ゴードとスプリングボンビーリャを推薦。",
     },
+    price: "$17.99",
     links: [
       { network: "amazon-jp", productId: "B07MATEGOURD", rawUrl: "https://www.amazon.co.jp/dp/B07MATEGOURD", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07MATEGOURD", rawUrl: "https://www.amazon.com/dp/B07MATEGOURD", markets: ["US"], approved: true },
@@ -17242,6 +17973,7 @@ const RAW_CATALOG = [
       en: "Electric thermos maintaining 75-80°C for mate temperature. Eliminates repeated kettle trips — ideal for office or travel use. Verify temperature accuracy spec before purchasing.",
       ja: "マテ温度のために75〜80℃を維持する電気サーモス。繰り返しケトルへの往復を排除——オフィスや旅行使用に理想的。購入前に温度精度スペックを確認。",
     },
+    price: "$45.99",
     links: [
       { network: "amazon-jp", productId: "B08MATEEL", rawUrl: "https://www.amazon.co.jp/dp/B08MATEEL", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08MATEEL", rawUrl: "https://www.amazon.com/dp/B08MATEEL", markets: ["US"], approved: true },
@@ -17262,6 +17994,7 @@ const RAW_CATALOG = [
       en: "Dual leg press + hack squat, 1,000 lb capacity, linear bearings, commercial-grade. Best home gym value — two exercises from one machine under $1,000.",
       ja: "デュアルレッグプレス＋ハックスクワット、耐荷重1,000ポンド、リニアベアリング、商業グレード。ホームジム最高バリュー——1,000ドル未満で一台から2種類のエクササイズ。",
     },
+    price: "$1,735.00",
     links: [
       { network: "amazon-jp", productId: "B001GLPH11", rawUrl: "https://www.amazon.co.jp/dp/B001GLPH11", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001GLPH11", rawUrl: "https://www.amazon.com/dp/B001GLPH11", markets: ["US"], approved: true },
@@ -17281,6 +18014,7 @@ const RAW_CATALOG = [
       en: "45-degree sled, nylon guide rods, 400 lb load capacity, compact footprint. $500-650. Budget leg press for moderate loads — smaller footprint than REP or Body-Solid.",
       ja: "45度スレッド、ナイロンガイドロッド、400ポンド耐荷重、コンパクト設置面積。500〜650ドル。中程度の負荷向け予算レッグプレス——REPやBody-Solidより小さい設置面積。",
     },
+    price: "$305.00",
     links: [
       { network: "amazon-jp", productId: "B007VALORBD62", rawUrl: "https://www.amazon.co.jp/dp/B007VALORBD62", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B007VALORBD62", rawUrl: "https://www.amazon.com/dp/B007VALORBD62", markets: ["US"], approved: true },
@@ -17293,6 +18027,8 @@ const RAW_CATALOG = [
   {
     id: "rep-fitness-lp-5000-leg-press",
     category: "fitness",
+    priceMin: "$700",
+    priceMax: "$1,200",
     badge: "専用設計",
     name: { en: "REP Fitness LP-5000 Leg Press Machine", ja: "REP Fitness LP-5000 レッグプレスマシン" },
     description: {
@@ -17318,6 +18054,7 @@ const RAW_CATALOG = [
       en: "45-degree sled, linear bearings, 1,000 lb capacity. $600-800. Budget alternative to REP — adequate function at lower cost. Slightly rougher sled travel than REP.",
       ja: "45度スレッド、リニアベアリング、耐荷重1,000ポンド。600〜800ドル。REPへの予算代替——低コストで適切な機能。REPよりわずかに粗いスレッド移動。",
     },
+    price: "$399.99",
     links: [
       { network: "amazon-jp", productId: "B07TITANLPV2", rawUrl: "https://www.amazon.co.jp/dp/B07TITANLPV2", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07TITANLPV2", rawUrl: "https://www.amazon.com/dp/B07TITANLPV2", markets: ["US"], approved: true },
@@ -17337,6 +18074,7 @@ const RAW_CATALOG = [
       en: "45-degree sled, 14-gauge steel, 600 lb rated, entry-level. $300-450. Budget option for light home use — not recommended for high-volume or heavy leg press training.",
       ja: "45度スレッド、14ゲージスチール、600ポンド定格、エントリーレベル。300〜450ドル。軽い家庭使用向け予算オプション——高ボリュームや重いレッグプレストレーニングには非推薦。",
     },
+    price: "$249.99",
     links: [
       { network: "amazon-jp", productId: "B00MARCYDMD", rawUrl: "https://www.amazon.co.jp/dp/B00MARCYDMD", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00MARCYDMD", rawUrl: "https://www.amazon.com/dp/B00MARCYDMD", markets: ["US"], approved: true },
@@ -17350,6 +18088,7 @@ const RAW_CATALOG = [
   {
     id: "acaia-pearl-coffee-scale",
     imageUrl: "https://acaia.co/cdn/shop/files/Pearl_PitchBlack_withLED.jpg?v=1740983808",
+    price: "$150",
     category: "food",
     badge: "最高基準",
     name: { en: "Acaia Pearl Coffee Scale", ja: "Acaia Pearl コーヒースケール" },
@@ -17395,6 +18134,7 @@ const RAW_CATALOG = [
       en: "0.1g resolution, 1 second response, AA batteries, 80-hour battery life, designed for V60 ecosystem. Simple one-button timer operation.",
       ja: "0.1g分解能、1秒レスポンス、AAバッテリー、80時間バッテリー寿命、V60エコシステム向け設計。シンプルなワンボタンタイマー操作。",
     },
+    price: "$60.00",
     links: [
       { network: "amazon-jp", productId: "B009GPJMOU", rawUrl: "https://www.amazon.co.jp/dp/B009GPJMOU", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B009GPJMOU", rawUrl: "https://www.amazon.com/dp/B009GPJMOU", markets: ["US"], approved: true },
@@ -17414,6 +18154,7 @@ const RAW_CATALOG = [
       en: "0.1g resolution, 200-300ms response, USB-C rechargeable, 10-degree tilted display, auto-start timer. Best ergonomic design for espresso setups.",
       ja: "0.1g分解能、200〜300msレスポンス、USB-C充電式、10度傾斜ディスプレイ、オートスタートタイマー。エスプレッソセットアップに最高の人間工学的デザイン。",
     },
+    price: "$89.99",
     links: [
       { network: "amazon-jp", productId: "B08FELICIT", rawUrl: "https://www.amazon.co.jp/dp/B08FELICIT", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08FELICIT", rawUrl: "https://www.amazon.com/dp/B08FELICIT", markets: ["US"], approved: true },
@@ -17433,6 +18174,7 @@ const RAW_CATALOG = [
       en: "0.1g resolution, 1-2 second response, built-in timer, AA batteries. Budget entry-level coffee scale — adds timing and measurement at lowest cost.",
       ja: "0.1g分解能、1〜2秒レスポンス、内蔵タイマー、AAバッテリー。予算エントリーレベルのコーヒースケール——最低コストでタイミングと計測を追加。",
     },
+    price: "$23.99",
     links: [
       { network: "amazon-jp", productId: "B07COFGAT", rawUrl: "https://www.amazon.co.jp/dp/B07COFGAT", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07COFGAT", rawUrl: "https://www.amazon.com/dp/B07COFGAT", markets: ["US"], approved: true },
@@ -17453,6 +18195,7 @@ const RAW_CATALOG = [
       en: "Purpose-built hip thrust station with integrated barbell cradle, adjustable foot platform, heavily cushioned back pad, and wheels. Eliminates all setup friction.",
       ja: "統合バーベルクレードル・調整可能フットプラットフォーム・重い緩衝背パッド・ホイール付きの目的特化ヒップスラストステーション。すべてのセットアップの摩擦を解消。",
     },
+    price: "$1,199.00",
     links: [
       { network: "amazon-jp", productId: "B08BELLHIP", rawUrl: "https://www.amazon.co.jp/dp/B08BELLHIP", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08BELLHIP", rawUrl: "https://www.amazon.com/dp/B08BELLHIP", markets: ["US"], approved: true },
@@ -17472,6 +18215,7 @@ const RAW_CATALOG = [
       en: "FID adjustable bench, 17-inch pad height at flat position, heavy commercial-grade frame. Dual-purpose: full adjustable bench + effective hip thrust station.",
       ja: "FID調整可能ベンチ、フラットポジションで17インチパッド高さ、重い商業グレードフレーム。デュアルパーパス：完全調整可能ベンチ＋効果的なヒップスラストステーション。",
     },
+    price: "$500.00",
     links: [
       { network: "amazon-jp", productId: "B08REPAB52", rawUrl: "https://www.amazon.co.jp/dp/B08REPAB52", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08REPAB52", rawUrl: "https://www.amazon.com/dp/B08REPAB52", markets: ["US"], approved: true },
@@ -17491,6 +18235,7 @@ const RAW_CATALOG = [
       en: "Dedicated hip thrust station with integrated foot platform and angled back pad. Purpose-built at lower cost than Bells of Steel. Adequate for loads to 400 lbs.",
       ja: "統合フットプラットフォームと角度付き背パッドを持つ専用ヒップスラストステーション。Bells of Steelより低いコストで目的特化。400ポンドまでのロードに十分。",
     },
+    price: "$89.99",
     links: [
       { network: "amazon-jp", productId: "B07VALORHIP", rawUrl: "https://www.amazon.co.jp/dp/B07VALORHIP", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07VALORHIP", rawUrl: "https://www.amazon.com/dp/B07VALORHIP", markets: ["US"], approved: true },
@@ -17503,6 +18248,7 @@ const RAW_CATALOG = [
   {
     id: "titan-fitness-hip-thrust-machine",
     imageUrl: "https://titan.fitness/cdn/shop/files/401784_01.jpg?v=1764178172&width=1946",
+    price: "$499",
     category: "fitness",
     badge: "予算専用",
     name: { en: "Titan Fitness Hip Thrust Machine", ja: "Titan Fitness ヒップスラストマシン" },
@@ -17529,6 +18275,7 @@ const RAW_CATALOG = [
       en: "Foam pad with velcro strap for barbell hip thrust. Required for comfortable contact across hip bones. Works with any bench or dedicated hip thrust machine.",
       ja: "バーベルヒップスラスト用ベルクロストラップ付きフォームパッド。腰骨での快適な接触に必要。どのベンチまたは専用ヒップスラストマシンでも使用可能。",
     },
+    price: "$24.99",
     links: [
       { network: "amazon-jp", productId: "B07HIPPAD", rawUrl: "https://www.amazon.co.jp/dp/B07HIPPAD", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07HIPPAD", rawUrl: "https://www.amazon.com/dp/B07HIPPAD", markets: ["US"], approved: true },
@@ -17549,6 +18296,7 @@ const RAW_CATALOG = [
       en: "250mg lion's mane + 200mg chaga per serving, dual-extraction organic Arabica, 12 servings. Most established mushroom coffee brand — bioavailability-focused dual extraction.",
       ja: "1回分あたりライオンズメーン250mg＋チャガ200mg、二重抽出オーガニックアラビカ、12回分。最も確立されたマッシュルームコーヒーブランド——生体利用能重視の二重抽出。",
     },
+    price: "$28.50",
     links: [
       { network: "amazon-jp", productId: "B07FSIGMTK", rawUrl: "https://www.amazon.co.jp/dp/B07FSIGMTK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07FSIGMTK", rawUrl: "https://www.amazon.com/dp/B07FSIGMTK", markets: ["US"], approved: true },
@@ -17568,6 +18316,7 @@ const RAW_CATALOG = [
       en: "6-mushroom blend (2,000mg total), organic Arabica, 48mg caffeine per serving, 30 servings. Most popular by sales — lower caffeine, good value per serving.",
       ja: "6キノコブレンド（合計2,000mg）、オーガニックアラビカ、1回分あたりカフェイン48mg、30回分。売上最多——低カフェイン、1回分あたり良好なコスト。",
     },
+    price: "$45.00",
     links: [
       { network: "amazon-jp", productId: "B09RYZE001", rawUrl: "https://www.amazon.co.jp/dp/B09RYZE001", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B09RYZE001", rawUrl: "https://www.amazon.com/dp/B09RYZE001", markets: ["US"], approved: true },
@@ -17587,6 +18336,7 @@ const RAW_CATALOG = [
       en: "10 mushroom species, USDA organic, full-spectrum whole mushroom powder, third-party tested. Best organic credentials — transparent labeling, not just extracts.",
       ja: "10キノコ種、USDAオーガニック、フルスペクトル全キノコパウダー、サードパーティテスト。最高のオーガニック証明書——透明なラベリング、エキスだけでなく全パウダー。",
     },
+    price: "$19.99",
     links: [
       { network: "amazon-jp", productId: "B07OMMBLND", rawUrl: "https://www.amazon.co.jp/dp/B07OMMBLND", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07OMMBLND", rawUrl: "https://www.amazon.com/dp/B07OMMBLND", markets: ["US"], approved: true },
@@ -17606,6 +18356,7 @@ const RAW_CATALOG = [
       en: "Lion's mane + chaga + reishi, organic coffee, per-serving mushroom content labeled. More honest dosing transparency than many competitors. Also offers mushroom matcha.",
       ja: "ライオンズメーン＋チャガ＋霊芝、オーガニックコーヒー、1回分あたりのキノコ含有量表示。多くの競合より誠実な投与量の透明性。マッシュルームマッチャも提供。",
     },
+    price: "$24.99",
     links: [
       { network: "amazon-jp", productId: "B09EARTHSTR", rawUrl: "https://www.amazon.co.jp/dp/B09EARTHSTR", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B09EARTHSTR", rawUrl: "https://www.amazon.com/dp/B09EARTHSTR", markets: ["US"], approved: true },
@@ -17625,6 +18376,7 @@ const RAW_CATALOG = [
       en: "Pure lion's mane extract powder, 500mg-1g per serving, 50-100 servings. Best DIY approach — add to any coffee for precise dosing at clinical-relevant amounts.",
       ja: "純粋なライオンズメーンエキスパウダー、1回分あたり500mg〜1g、50〜100回分。最高のDIYアプローチ——臨床関連量の正確な投与のためにどのコーヒーにも追加可能。",
     },
+    price: "$24.99",
     links: [
       { network: "amazon-jp", productId: "B08LIONMANE", rawUrl: "https://www.amazon.co.jp/dp/B08LIONMANE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08LIONMANE", rawUrl: "https://www.amazon.com/dp/B08LIONMANE", markets: ["US"], approved: true },
@@ -17645,6 +18397,7 @@ const RAW_CATALOG = [
       en: "Rotating stepmill, 8-inch steps, 26 resistance levels, touchscreen, ~440 lbs. Commercial flagship — genuine stair climbing mechanics, highest glute engagement.",
       ja: "回転ステップミル、8インチステップ、26レベル抵抗、タッチスクリーン、約440ポンド。商業フラッグシップ——本物の階段登りメカニズム、最高の臀筋関与。",
     },
+    price: "$6,449.00",
     links: [
       { network: "amazon-jp", productId: "B07STRGAUNT", rawUrl: "https://www.amazon.co.jp/dp/B07STRGAUNT", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07STRGAUNT", rawUrl: "https://www.amazon.com/dp/B07STRGAUNT", markets: ["US"], approved: true },
@@ -17657,6 +18410,7 @@ const RAW_CATALOG = [
   {
     id: "bowflex-max-trainer-m9",
     category: "fitness",
+    price: "$1,999",
     badge: "コネクテッドホーム",
     name: { en: "Bowflex Max Trainer M9", ja: "Bowflex Max Trainer M9" },
     description: {
@@ -17682,6 +18436,7 @@ const RAW_CATALOG = [
       en: "Mini step climber, hydraulic resistance, 4-6 inch step range, no handles. $30-60. Light daily movement option — desk use or rehabilitation, not serious conditioning.",
       ja: "ミニステップクライマー、油圧抵抗、4〜6インチステップ範囲、ハンドルなし。30〜60ドル。軽い日常的な動きオプション——デスク使用またはリハビリ、本格的なコンディショニングには不適切。",
     },
+    price: "$39.99",
     links: [
       { network: "amazon-jp", productId: "B07SUNNYST", rawUrl: "https://www.amazon.co.jp/dp/B07SUNNYST", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07SUNNYST", rawUrl: "https://www.amazon.com/dp/B07SUNNYST", markets: ["US"], approved: true },
@@ -17701,6 +18456,7 @@ const RAW_CATALOG = [
       en: "Recumbent stepping, seated position, full upper + lower body, near-zero to high resistance. Best for joint protection — rehabilitation-grade design for knee/hip limitations.",
       ja: "リカンベントステッピング、座位、完全な上下半身、ゼロ近くから高抵抗。関節保護に最適——膝/股関節の制限向けリハビリグレード設計。",
     },
+    price: "$2,995.00",
     links: [
       { network: "amazon-jp", productId: "B07NUSTEP4", rawUrl: "https://www.amazon.co.jp/dp/B07NUSTEP4", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07NUSTEP4", rawUrl: "https://www.amazon.com/dp/B07NUSTEP4", markets: ["US"], approved: true },
@@ -17720,6 +18476,7 @@ const RAW_CATALOG = [
       en: "Commercial stepmill (previous generation), 7-8 inch steps, available refurbished at $1,500-2,500. Best home stepmill value — genuine mechanics at lower cost than Gauntlet.",
       ja: "商業ステップミル（前世代）、7〜8インチステップ、1,500〜2,500ドルで改装品として入手可能。最高のホームステップミルバリュー——Gauntletより低コストで本物のメカニズム。",
     },
+    price: "$10,199.00",
     links: [
       { network: "amazon-jp", productId: "B07STR8SER", rawUrl: "https://www.amazon.co.jp/dp/B07STR8SER", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07STR8SER", rawUrl: "https://www.amazon.com/dp/B07STR8SER", markets: ["US"], approved: true },
@@ -17740,6 +18497,7 @@ const RAW_CATALOG = [
       en: "Loose leaf masala chai, Assam base, cardamom-forward, 18-22 servings. $12-16. Best loose leaf chai — whole spice complexity, farm-direct sourcing.",
       ja: "ルーフリーフ・マサラチャイ、アッサムベース、カルダモン主体、18〜22杯分。$12〜16。最高のルーフリーフチャイ——ホールスパイスの複雑さ、農家直接調達。",
     },
+    price: "$17.50",
     links: [
       { network: "amazon-jp", productId: "B000VK7XNM", rawUrl: "https://www.amazon.co.jp/dp/B000VK7XNM", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000VK7XNM", rawUrl: "https://www.amazon.com/dp/B000VK7XNM", markets: ["US"], approved: true },
@@ -17759,6 +18517,7 @@ const RAW_CATALOG = [
       en: "Black tea with cinnamon, orange peel, sweet cloves, 50 bags. $10-14. Best spiced black tea — cinnamon-forward, sweet, excellent cold-brewed in milk.",
       ja: "シナモン・オレンジピール・スウィートクローブ入りブラックティー、50袋。$10〜14。最高のスパイスブラックティー——シナモン主体、甘み、ミルクでのコールドブリューに最適。",
     },
+    price: "$19.99",
     links: [
       { network: "amazon-jp", productId: "B000F9NMBE", rawUrl: "https://www.amazon.co.jp/dp/B000F9NMBE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000F9NMBE", rawUrl: "https://www.amazon.com/dp/B000F9NMBE", markets: ["US"], approved: true },
@@ -17778,6 +18537,7 @@ const RAW_CATALOG = [
       en: "Chai concentrate, 1:1 mix with milk, 32 oz. $5-8. Budget chai latte concentrate — widely available, consistent sweet-spiced result.",
       ja: "チャイコンセントレート、ミルクと1:1で混合、32oz。$5〜8。手頃なチャイラテコンセントレート——広く入手可能、一定の甘くスパイシーな結果。",
     },
+    price: "$5.79",
     links: [
       { network: "amazon-jp", productId: "B001VJ06ZO", rawUrl: "https://www.amazon.co.jp/dp/B001VJ06ZO", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001VJ06ZO", rawUrl: "https://www.amazon.com/dp/B001VJ06ZO", markets: ["US"], approved: true },
@@ -17797,6 +18557,7 @@ const RAW_CATALOG = [
       en: "Chai concentrate, sweet, cardamom-forward, 32 oz / 16 servings. $8-12. Market-standard chai latte concentrate — approximates coffee shop chai at home.",
       ja: "チャイコンセントレート、甘くカルダモン主体、32oz / 16杯分。$8〜12。市場標準チャイラテコンセントレート——コーヒーショップのチャイを家で再現。",
     },
+    price: "$5.29",
     links: [
       { network: "amazon-jp", productId: "B00198ZXRO", rawUrl: "https://www.amazon.co.jp/dp/B00198ZXRO", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00198ZXRO", rawUrl: "https://www.amazon.com/dp/B00198ZXRO", markets: ["US"], approved: true },
@@ -17816,6 +18577,7 @@ const RAW_CATALOG = [
       en: "Powdered chai mix, vanilla-forward, 16 oz / 16-20 servings. $15-20. Most convenient format — dissolve in hot milk, no brewing steps.",
       ja: "パウダーチャイミックス、バニラ主体、16oz / 16〜20杯分。$15〜20。最も手軽なフォーマット——熱いミルクに溶かすだけ。",
     },
+    price: "$13.95",
     links: [
       { network: "amazon-jp", productId: "B0007WW0T0", rawUrl: "https://www.amazon.co.jp/dp/B0007WW0T0", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0007WW0T0", rawUrl: "https://www.amazon.com/dp/B0007WW0T0", markets: ["US"], approved: true },
@@ -17836,6 +18598,7 @@ const RAW_CATALOG = [
       en: "Freestanding, 70 lb max, Nevatear synthetic, water/sand base. $150-200. Best freestanding entry-level bag — no mounting needed, apartment-friendly.",
       ja: "フリースタンディング、最大70lb、ネバティアーシンセティック、水/砂ベース。$150〜200。最高のエントリーレベルフリースタンディングバッグ——マウント不要、アパート対応。",
     },
+    price: "$229.99",
     links: [
       { network: "amazon-jp", productId: "B07GGH5KDV", rawUrl: "https://www.amazon.co.jp/dp/B07GGH5KDV", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07GGH5KDV", rawUrl: "https://www.amazon.com/dp/B07GGH5KDV", markets: ["US"], approved: true },
@@ -17855,6 +18618,7 @@ const RAW_CATALOG = [
       en: "Freestanding body-shaped torso target, adjustable height, water/sand base. $100-150. Best accuracy training bag — human-shaped target develops striking precision.",
       ja: "フリースタンディング人体形状胴体ターゲット、調整可能高さ、水/砂ベース。$100〜150。最高の精度トレーニングバッグ——人体形状ターゲットが打撃精度を養成。",
     },
+    price: "$419.00",
     links: [
       { network: "amazon-jp", productId: "B000BRQNC6", rawUrl: "https://www.amazon.co.jp/dp/B000BRQNC6", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000BRQNC6", rawUrl: "https://www.amazon.com/dp/B000BRQNC6", markets: ["US"], approved: true },
@@ -17874,6 +18638,7 @@ const RAW_CATALOG = [
       en: "Hanging heavy bag, 5ft / ~80 lb, Maya Hide leather, free-swinging. $80-100. Best value hanging bag — dense foam fill, good resistance feedback.",
       ja: "ハンギングヘビーバッグ、5ft / 約80lb、マヤハイドレザー、自由揺れ。$80〜100。最高コスパのハンギングバッグ——密なフォーム充填、良好な抵抗フィードバック。",
     },
+    price: "$119.99",
     links: [
       { network: "amazon-jp", productId: "B00N5A0ZQK", rawUrl: "https://www.amazon.co.jp/dp/B00N5A0ZQK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00N5A0ZQK", rawUrl: "https://www.amazon.com/dp/B00N5A0ZQK", markets: ["US"], approved: true },
@@ -17886,6 +18651,7 @@ const RAW_CATALOG = [
   {
     id: "everlast-c3-heavy-bag-100lb",
     imageUrl: "https://www.everlast.com/cdn/shop/files/4768_5.jpg?v=1702973275",
+    price: "$130",
     category: "fitness",
     badge: "標準ハンギングバッグ",
     name: { en: "Everlast C3 Heavy Bag 100 lb", ja: "エバーラスト C3 ヘビーバッグ 100lb" },
@@ -17912,6 +18678,7 @@ const RAW_CATALOG = [
       en: "Hanging heavy bag, 100 lb, canvas, boxing gym standard. $100-150. Best traditional boxing bag — heritage brand, gym-proven durability.",
       ja: "ハンギングヘビーバッグ、100lb、キャンバス、ボクシングジム標準。$100〜150。最高の伝統的ボクシングバッグ——老舗ブランド、ジム実証済みの耐久性。",
     },
+    price: "$239.00",
     links: [
       { network: "amazon-jp", productId: "B001ABTEV8", rawUrl: "https://www.amazon.co.jp/dp/B001ABTEV8", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001ABTEV8", rawUrl: "https://www.amazon.com/dp/B001ABTEV8", markets: ["US"], approved: true },
@@ -17932,6 +18699,7 @@ const RAW_CATALOG = [
       en: "Manuka honey, UMF 10+ / MGO 263+, 250g. $30-40. Best certified Manuka — UMF certification verifies MGO and authenticity.",
       ja: "マヌカハニー、UMF 10+ / MGO 263+、250g。$30〜40。最高認証マヌカ——UMF認証がMGOと真正性を検証。",
     },
+    price: "$26.24",
     links: [
       { network: "amazon-jp", productId: "B003JV6PXW", rawUrl: "https://www.amazon.co.jp/dp/B003JV6PXW", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B003JV6PXW", rawUrl: "https://www.amazon.com/dp/B003JV6PXW", markets: ["US"], approved: true },
@@ -17951,6 +18719,7 @@ const RAW_CATALOG = [
       en: "Manuka honey, KFactor 16 (75%+ Manuka pollen), 11.4 oz. $20-30. Best accessible Manuka — KFactor certifies pollen content.",
       ja: "マヌカハニー、KFactor 16（75%以上マヌカ花粉）、11.4oz。$20〜30。最高のアクセシブルマヌカ——KFactorは花粉含有量を認証。",
     },
+    price: "$27.99",
     links: [
       { network: "amazon-jp", productId: "B007YHPAJ4", rawUrl: "https://www.amazon.co.jp/dp/B007YHPAJ4", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B007YHPAJ4", rawUrl: "https://www.amazon.com/dp/B007YHPAJ4", markets: ["US"], approved: true },
@@ -17970,6 +18739,7 @@ const RAW_CATALOG = [
       en: "Raw clover honey, unfiltered, unheated, 16 oz. $10-15. Best everyday raw honey — traceable US sourcing, mild flavor.",
       ja: "生クローバーハニー、未濾過、未加熱、16oz。$10〜15。最高の日常生ハチミツ——追跡可能な米国産、穏やかな風味。",
     },
+    price: "$9.99",
     links: [
       { network: "amazon-jp", productId: "B003OBJ3DE", rawUrl: "https://www.amazon.co.jp/dp/B003OBJ3DE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B003OBJ3DE", rawUrl: "https://www.amazon.com/dp/B003OBJ3DE", markets: ["US"], approved: true },
@@ -17989,6 +18759,7 @@ const RAW_CATALOG = [
       en: "Raw honey, USDA organic, unfiltered, 22 oz. $12-18. Best thick unfiltered raw honey — visible propolis and pollen, assertive flavor.",
       ja: "生ハチミツ、USDAオーガニック、未濾過、22oz。$12〜18。最高の濃厚未濾過生ハチミツ——見えるプロポリスと花粉、力強い風味。",
     },
+    price: "$19.99",
     links: [
       { network: "amazon-jp", productId: "B000WTHP28", rawUrl: "https://www.amazon.co.jp/dp/B000WTHP28", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000WTHP28", rawUrl: "https://www.amazon.com/dp/B000WTHP28", markets: ["US"], approved: true },
@@ -18008,6 +18779,7 @@ const RAW_CATALOG = [
       en: "Organic raw honey, fair-trade certified, 16 oz. $12-18. Best organic-certified raw honey — fair-trade sourcing, mild flavor.",
       ja: "オーガニック生ハチミツ、フェアトレード認証、16oz。$12〜18。最高のオーガニック認証生ハチミツ——フェアトレード調達、穏やかな風味。",
     },
+    price: "$17.99",
     links: [
       { network: "amazon-jp", productId: "B002VBWZTU", rawUrl: "https://www.amazon.co.jp/dp/B002VBWZTU", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B002VBWZTU", rawUrl: "https://www.amazon.com/dp/B002VBWZTU", markets: ["US"], approved: true },
@@ -18028,6 +18800,7 @@ const RAW_CATALOG = [
       en: "Premium training glove, dual-X wrist strap, Vylar leather, multi-layer foam, 12/14/16oz. $100-130. Best training glove for regular use.",
       ja: "プレミアムトレーニンググローブ、デュアルXリストストラップ、Vylarレザー、多層フォーム、12/14/16oz。$100〜130。定期使用に最高のトレーニンググローブ。",
     },
+    price: "$159.00",
     links: [
       { network: "amazon-jp", productId: "B00AR1LKYS", rawUrl: "https://www.amazon.co.jp/dp/B00AR1LKYS", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00AR1LKYS", rawUrl: "https://www.amazon.com/dp/B00AR1LKYS", markets: ["US"], approved: true },
@@ -18047,6 +18820,7 @@ const RAW_CATALOG = [
       en: "Entry training glove, vinyl, single-layer foam, velcro, 12/14/16oz. $20-35. Best budget entry point — appropriate for beginners.",
       ja: "エントリートレーニンググローブ、ビニール、シングル層フォーム、ベルクロ、12/14/16oz。$20〜35。最高の予算エントリーポイント——初心者に適切。",
     },
+    price: "$44.99",
     links: [
       { network: "amazon-jp", productId: "B00138YFGU", rawUrl: "https://www.amazon.co.jp/dp/B00138YFGU", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00138YFGU", rawUrl: "https://www.amazon.com/dp/B00138YFGU", markets: ["US"], approved: true },
@@ -18059,6 +18833,7 @@ const RAW_CATALOG = [
   {
     id: "title-boxing-classic-gloves",
     imageUrl: "https://cdnimages.opentip.com/full/TIT/TIT-CABG-BLACKRED.jpg",
+    price: "$40",
     category: "fitness",
     badge: "中堅ボクシング専門",
     name: { en: "Title Boxing Classic Training Gloves", ja: "タイトル ボクシング クラシック トレーニンググローブ" },
@@ -18078,6 +18853,7 @@ const RAW_CATALOG = [
   {
     id: "everlast-1910-boxing-gloves",
     imageUrl: "https://www.everlast.com/cdn/shop/files/image-3.jpg?v=1774352046&width=1946",
+    price: "$80",
     category: "fitness",
     badge: "本革アップグレード",
     name: { en: "Everlast 1910 Training Gloves", ja: "エバーラスト 1910 トレーニンググローブ" },
@@ -18097,6 +18873,7 @@ const RAW_CATALOG = [
   {
     id: "cleto-reyes-hook-loop-training",
     imageUrl: "https://cletoreyes.com/cdn/shop/products/01E6.12.RED_eedb0bdf-4f11-4cf7-ae03-f14f1aee00b8.jpg?v=1652221864&width=800",
+    price: "$175",
     category: "fitness",
     badge: "プロ競技グレード",
     name: { en: "Cleto Reyes Hook & Loop Training Gloves", ja: "クレトレイエス フック&ループ トレーニンググローブ" },
@@ -18124,6 +18901,7 @@ const RAW_CATALOG = [
       en: "Japanese loose leaf sencha, Uji-sourced, 80g. $18-25. Best quality reference sencha — Ippodo is Japan's oldest tea shop, direct Uji sourcing.",
       ja: "日本産ルーフリーフ煎茶、宇治産、80g。$18〜25。最高品質の参考煎茶——日本最古の茶舗・一保堂、宇治からの直接調達。",
     },
+    price: "¥2,500",
     links: [
       { network: "amazon-jp", productId: "B001FGQRKY", rawUrl: "https://www.amazon.co.jp/dp/B001FGQRKY", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001FGQRKY", rawUrl: "https://www.amazon.com/dp/B001FGQRKY", markets: ["US"], approved: true },
@@ -18143,6 +18921,7 @@ const RAW_CATALOG = [
       en: "Japanese sencha loose leaf / bags, 4oz / 20 bags. $8-12. Best accessible sencha — available at Whole Foods, good everyday quality.",
       ja: "日本産煎茶ルーフリーフ/バッグ、4oz / 20袋。$8〜12。最高のアクセシブル煎茶——ホールフーズで入手可能、日常に良い品質。",
     },
+    price: "$12.99",
     links: [
       { network: "amazon-jp", productId: "B00AO9OQPI", rawUrl: "https://www.amazon.co.jp/dp/B00AO9OQPI", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00AO9OQPI", rawUrl: "https://www.amazon.com/dp/B00AO9OQPI", markets: ["US"], approved: true },
@@ -18154,7 +18933,9 @@ const RAW_CATALOG = [
   },
   {
     id: "two-leaves-genmaicha",
+    imageUrl: "https://m.media-amazon.com/images/P/B00F9WMXL8.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$8.99",
     badge: "初心者向け玄米茶",
     name: { en: "Two Leaves Genmaicha Green Tea", ja: "ツー・リーブス 玄米茶" },
     description: {
@@ -18173,6 +18954,7 @@ const RAW_CATALOG = [
   {
     id: "ippodo-gyokuro",
     imageUrl: "https://ippodotea.com/cdn/shop/files/ippodo-tea-kanro-gyokuro-winter-package.png?crop=center&height=600&v=1769101452&width=600",
+    price: "$28",
     category: "food",
     badge: "玉露プレミアム",
     name: { en: "Ippodo Gyokuro Shade-Grown Green Tea", ja: "一保堂茶舗 玉露" },
@@ -18199,6 +18981,7 @@ const RAW_CATALOG = [
       en: "Chinese Dragon Well (Longjing) loose leaf, 4oz. $12-18. Best Chinese green tea — pan-fired, toasty-sweet, less vegetal than Japanese greens.",
       ja: "中国産龍井茶（ロンジン）ルーフリーフ、4oz。$12〜18。最高の中国緑茶——釜炒り製、トースティで甘い、日本茶より植物的でない。",
     },
+    price: "$38.00",
     links: [
       { network: "amazon-jp", productId: "B00AO9OQOE", rawUrl: "https://www.amazon.co.jp/dp/B00AO9OQOE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00AO9OQOE", rawUrl: "https://www.amazon.com/dp/B00AO9OQOE", markets: ["US"], approved: true },
@@ -18219,6 +19002,7 @@ const RAW_CATALOG = [
       en: "Premium carbon paddle, polymer honeycomb core, Aero-Tec face, 16mm, 7.4-7.6 oz. $200-230. Best premium pickleball paddle — pro tour brand.",
       ja: "プレミアムカーボンパドル、ポリマーハニカムコア、Aero-Tec面、16mm、7.4〜7.6oz。$200〜230。最高のプレミアムピックルボールパドル——プロツアーブランド。",
     },
+    price: "$250.00",
     links: [
       { network: "amazon-jp", productId: "B09D8JMJMV", rawUrl: "https://www.amazon.co.jp/dp/B09D8JMJMV", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B09D8JMJMV", rawUrl: "https://www.amazon.com/dp/B09D8JMJMV", markets: ["US"], approved: true },
@@ -18238,6 +19022,7 @@ const RAW_CATALOG = [
       en: "Carbon fiber face (CFS), 16mm polymer core, co-designed with world #1 Ben Johns. $200-230. Best spin-forward premium paddle.",
       ja: "カーボンファイバー面（CFS）、16mmポリマーコア、世界1位ベン・ジョンズとの共同設計。$200〜230。最高のスピン重視プレミアムパドル。",
     },
+    price: "$219.95",
     links: [
       { network: "amazon-jp", productId: "B09QDNFMYZ", rawUrl: "https://www.amazon.co.jp/dp/B09QDNFMYZ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B09QDNFMYZ", rawUrl: "https://www.amazon.com/dp/B09QDNFMYZ", markets: ["US"], approved: true },
@@ -18249,7 +19034,10 @@ const RAW_CATALOG = [
   },
   {
     id: "franklin-x40-paddle-set",
+    imageUrl: "https://m.media-amazon.com/images/I/9154L60eV6L._AC_SL1500_.jpg",
     category: "fitness",
+    priceMin: "$30",
+    priceMax: "$80",
     badge: "初心者セット",
     name: { en: "Franklin Sports X-40 Pickleball Paddle Set (2 Paddles + 4 Balls)", ja: "フランクリン・スポーツ X-40 ピックルボールパドルセット（2本＋ボール4個）" },
     description: {
@@ -18275,6 +19063,7 @@ const RAW_CATALOG = [
       en: "Graphite face, polymer core, 7.6 oz. $80-100. Best mid-tier for tennis players — familiar feel, forgiving sweet spot.",
       ja: "グラファイト面、ポリマーコア、7.6oz。$80〜100。テニスプレーヤーに最高の中堅——親しみやすい感触、許容性の高いスウィートスポット。",
     },
+    price: "$99.95",
     links: [
       { network: "amazon-jp", productId: "B01M5HFY21", rawUrl: "https://www.amazon.co.jp/dp/B01M5HFY21", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01M5HFY21", rawUrl: "https://www.amazon.com/dp/B01M5HFY21", markets: ["US"], approved: true },
@@ -18294,6 +19083,7 @@ const RAW_CATALOG = [
       en: "Textured fiberglass face, polymer core, 14mm, 7.6-8.0 oz. $120-150. Best mid-tier all-rounder — between beginner and premium.",
       ja: "テクスチャー付きファイバーグラス面、ポリマーコア、14mm、7.6〜8.0oz。$120〜150。最高の中堅オールラウンダー——初心者とプレミアムの間。",
     },
+    price: "$149.99",
     links: [
       { network: "amazon-jp", productId: "B07232PYV4", rawUrl: "https://www.amazon.co.jp/dp/B07232PYV4", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07232PYV4", rawUrl: "https://www.amazon.com/dp/B07232PYV4", markets: ["US"], approved: true },
@@ -18314,6 +19104,7 @@ const RAW_CATALOG = [
       en: "Pasteurized, no added sugar, 16.9 oz Tetra Pak. $2-3. Best mainstream coconut water — available everywhere, consistent, reliable electrolytes.",
       ja: "殺菌処理、砂糖不使用、16.9ozテトラパック。$2〜3。最高の主流ヤシのウォーター——どこでも入手可能、一貫性があり信頼できる電解質。",
     },
+    price: "$4.99",
     links: [
       { network: "amazon-jp", productId: "B00B3DQKEG", rawUrl: "https://www.amazon.co.jp/dp/B00B3DQKEG", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00B3DQKEG", rawUrl: "https://www.amazon.com/dp/B00B3DQKEG", markets: ["US"], approved: true },
@@ -18333,6 +19124,7 @@ const RAW_CATALOG = [
       en: "Raw (never heated), refrigerated, 10-16 oz. $3.50-5.00. Best raw coconut water — closest to fresh, naturally pink from antioxidants.",
       ja: "生（加熱なし）、冷蔵、10〜16oz。$3.50〜5.00。最高の生ヤシのウォーター——生のものに最も近く、抗酸化物質による自然なピンク色。",
     },
+    price: "$8.05",
     links: [
       { network: "amazon-jp", productId: "B00BKGLRWM", rawUrl: "https://www.amazon.co.jp/dp/B00BKGLRWM", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00BKGLRWM", rawUrl: "https://www.amazon.com/dp/B00BKGLRWM", markets: ["US"], approved: true },
@@ -18352,6 +19144,7 @@ const RAW_CATALOG = [
       en: "Pasteurized, not from concentrate, Thailand-sourced, 9.5 oz can/glass bottle. $2-3. Best value intermediate — closer to fresh than Vita Coco.",
       ja: "殺菌処理、濃縮物不使用、タイ産、9.5oz缶/ガラス瓶。$2〜3。コスパ最高の中間品——ビタココより生のものに近い。",
     },
+    price: "$4.99",
     links: [
       { network: "amazon-jp", productId: "B009VRW9T4", rawUrl: "https://www.amazon.co.jp/dp/B009VRW9T4", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B009VRW9T4", rawUrl: "https://www.amazon.com/dp/B009VRW9T4", markets: ["US"], approved: true },
@@ -18371,6 +19164,7 @@ const RAW_CATALOG = [
       en: "Pasteurized, not from concentrate, Thailand-sourced, 17.5 oz can. $2.50-3.50. Best can format — light barrier preserves shelf-life flavor.",
       ja: "殺菌処理、濃縮物不使用、タイ産、17.5oz缶。$2.50〜3.50。最高の缶形式——遮光性が保存期間中の風味を保持。",
     },
+    price: "$4.99",
     links: [
       { network: "amazon-jp", productId: "B00IJ0CQCU", rawUrl: "https://www.amazon.co.jp/dp/B00IJ0CQCU", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00IJ0CQCU", rawUrl: "https://www.amazon.com/dp/B00IJ0CQCU", markets: ["US"], approved: true },
@@ -18390,6 +19184,7 @@ const RAW_CATALOG = [
       en: "Pasteurized, no added sugar, 16.9 oz. $2.50-3.50. Best dry-profile coconut water — slightly less sweet than Vita Coco, favored by athletes.",
       ja: "殺菌処理、砂糖不使用、16.9oz。$2.50〜3.50。最高の乾いた風味プロファイルのヤシのウォーター——ビタココより少し甘みが少なく、スポーツ選手に好まれる。",
     },
+    price: "$4.99",
     links: [
       { network: "amazon-jp", productId: "B009BI0DGA", rawUrl: "https://www.amazon.co.jp/dp/B009BI0DGA", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B009BI0DGA", rawUrl: "https://www.amazon.com/dp/B009BI0DGA", markets: ["US"], approved: true },
@@ -18410,6 +19205,7 @@ const RAW_CATALOG = [
       en: "97 sq in, 315g strung, 21mm beam, 16x19. $230-260. Best control racket — iconic frame, exceptional precision for advanced players.",
       ja: "97平方インチ、315gストリング込み、21mmフレーム、16×19。$230〜260。最高のコントロールラケット——象徴的なフレーム、上級プレーヤーに卓越した精度。",
     },
+    price: "$279.00",
     links: [
       { network: "amazon-jp", productId: "B09P6MPGT6", rawUrl: "https://www.amazon.co.jp/dp/B09P6MPGT6", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B09P6MPGT6", rawUrl: "https://www.amazon.com/dp/B09P6MPGT6", markets: ["US"], approved: true },
@@ -18429,6 +19225,7 @@ const RAW_CATALOG = [
       en: "100 sq in, 300g, aerodynamic beam, 16x19. $240-270. Best spin-oriented racket — Nadal's frame, optimized for topspin baseline play.",
       ja: "100平方インチ、300g、空力設計フレーム、16×19。$240〜270。最高のスピン重視ラケット——ナダルのフレーム、トップスピンのベースラインプレーに最適化。",
     },
+    price: "$289.00",
     links: [
       { network: "amazon-jp", productId: "B0B3JQVQBQ", rawUrl: "https://www.amazon.co.jp/dp/B0B3JQVQBQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0B3JQVQBQ", rawUrl: "https://www.amazon.com/dp/B0B3JQVQBQ", markets: ["US"], approved: true },
@@ -18448,6 +19245,7 @@ const RAW_CATALOG = [
       en: "100 sq in, 300g, 23mm beam, 16x19. $220-250. Best all-round intermediate/advanced racket — versatile, Djokovic association.",
       ja: "100平方インチ、300g、23mmフレーム、16×19。$220〜250。最高のオールラウンド中〜上級ラケット——汎用性高く、ジョコビッチの関連性。",
     },
+    price: "$299.00",
     links: [
       { network: "amazon-jp", productId: "B09NLLPWVQ", rawUrl: "https://www.amazon.co.jp/dp/B09NLLPWVQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B09NLLPWVQ", rawUrl: "https://www.amazon.com/dp/B09NLLPWVQ", markets: ["US"], approved: true },
@@ -18467,6 +19265,7 @@ const RAW_CATALOG = [
       en: "98 sq in, 305g, 23.5mm beam, Vibration Dampening Mesh. $230-260. Best arm-friendly control racket — shock reduction for tennis elbow.",
       ja: "98平方インチ、305g、23.5mmフレーム、バイブレーション・ダンプニング・メッシュ。$230〜260。最高の腕に優しいコントロールラケット——テニス肘に衝撃軽減。",
     },
+    price: "$305.00",
     links: [
       { network: "amazon-jp", productId: "B0B1JXLF5Y", rawUrl: "https://www.amazon.co.jp/dp/B0B1JXLF5Y", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0B1JXLF5Y", rawUrl: "https://www.amazon.com/dp/B0B1JXLF5Y", markets: ["US"], approved: true },
@@ -18486,6 +19285,7 @@ const RAW_CATALOG = [
       en: "98 sq in, 304g, 21.5mm beam, 16x19. $220-250. Best accessible control racket — less demanding than Pro Staff, Swiatek association.",
       ja: "98平方インチ、304gストリング込み、21.5mmフレーム、16×19。$220〜250。最高のアクセシブルコントロールラケット——プロスタッフより要求が少なく、シュビアテクの関連性。",
     },
+    price: "$249.00",
     links: [
       { network: "amazon-jp", productId: "B09PZXZXWB", rawUrl: "https://www.amazon.co.jp/dp/B09PZXZXWB", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B09PZXZXWB", rawUrl: "https://www.amazon.com/dp/B09PZXZXWB", markets: ["US"], approved: true },
@@ -18503,6 +19303,7 @@ const RAW_CATALOG = [
     badge: "Best Overall",
     name: { en: "Ippodo Kan-no-Shiro", ja: "一保堂 喜の昔" },
     description: { en: "Premium ceremonial grade matcha from Kyoto's Ippodo, stone-ground first harvest", ja: "京都一保堂の看板抹茶、石臼挽き一番摘み" },
+    price: "¥1,600",
     links: [
       { network: "amazon-jp", productId: "B00FFBW9LW", rawUrl: "https://www.amazon.co.jp/dp/B00FFBW9LW", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00FFBW9LW", rawUrl: "https://www.amazon.com/dp/B00FFBW9LW", markets: ["US"], approved: true },
@@ -18519,6 +19320,7 @@ const RAW_CATALOG = [
     badge: "Best for Lattes",
     name: { en: "Encha Latte Grade Organic Matcha", ja: "Encha ラテグレード有機抹茶" },
     description: { en: "Single-farm Uji organic matcha optimized for milk-based drinks", ja: "宇治単一農園の有機抹茶、ラテ向け設計" },
+    price: "$19.99",
     links: [
       { network: "amazon-jp", productId: "B01M6C77LU", rawUrl: "https://www.amazon.co.jp/dp/B01M6C77LU", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01M6C77LU", rawUrl: "https://www.amazon.com/dp/B01M6C77LU", markets: ["US"], approved: true },
@@ -18530,7 +19332,9 @@ const RAW_CATALOG = [
   },
   {
     id: "jade-leaf-ceremonial-matcha",
+    imageUrl: "https://m.media-amazon.com/images/P/B014LT0712.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$26.99",
     badge: "Best Value Ceremonial",
     name: { en: "Jade Leaf Ceremonial Matcha", ja: "Jade Leaf 宇治抹茶" },
     description: { en: "Uji-origin ceremonial grade matcha at an accessible price point", ja: "宇治産抹茶グレード、手頃な価格" },
@@ -18546,6 +19350,7 @@ const RAW_CATALOG = [
   {
     id: "aiya-cooking-grade-matcha",
     imageUrl: "https://cdn11.bigcommerce.com/s-30z03xaf7j/images/stencil/500x659/products/1779/2355/culinary-grade-matcha-100g-bag-front_1__17957.1624480915.jpg?c=1",
+    price: "$22.99",
     category: "food",
     badge: "Best for Baking",
     name: { en: "Aiya Cooking Grade Matcha", ja: "愛農（AIYA）製菓用抹茶" },
@@ -18566,6 +19371,7 @@ const RAW_CATALOG = [
     badge: "Most Accessible",
     name: { en: "Matcha Love Unsweetened Powder", ja: "Matcha Love 無糖抹茶パウダー" },
     description: { en: "ITO EN's widely available unsweetened matcha powder for everyday use", ja: "伊藤園のMatchaLove、無糖・手軽に入手可能" },
+    price: "$15.74",
     links: [
       { network: "amazon-jp", productId: "B01LXHJ1OY", rawUrl: "https://www.amazon.co.jp/dp/B01LXHJ1OY", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01LXHJ1OY", rawUrl: "https://www.amazon.com/dp/B01LXHJ1OY", markets: ["US"], approved: true },
@@ -18583,6 +19389,7 @@ const RAW_CATALOG = [
     badge: "Best Overall",
     name: { en: "Bushnell Pro XE", ja: "Bushnell Pro XE" },
     description: { en: "Premium laser golf rangefinder with BITE slope and magnetic mount", ja: "スロープBITE対応プレミアムレーザー距離計、磁気マウント付き" },
+    price: "$549.00",
     links: [
       { network: "amazon-jp", productId: "B07Q2VXJLC", rawUrl: "https://www.amazon.co.jp/dp/B07Q2VXJLC", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07Q2VXJLC", rawUrl: "https://www.amazon.com/dp/B07Q2VXJLC", markets: ["US"], approved: true },
@@ -18599,6 +19406,7 @@ const RAW_CATALOG = [
     badge: "Best Hybrid (Laser + GPS)",
     name: { en: "Garmin Approach Z82", ja: "Garmin Approach Z82" },
     description: { en: "Hybrid laser and GPS golf rangefinder with 41,000+ course maps", ja: "レーザー＋GPS複合、41,000コース以上収録" },
+    price: "$599.99",
     links: [
       { network: "amazon-jp", productId: "B07XLQFHJ9", rawUrl: "https://www.amazon.co.jp/dp/B07XLQFHJ9", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07XLQFHJ9", rawUrl: "https://www.amazon.com/dp/B07XLQFHJ9", markets: ["US"], approved: true },
@@ -18615,6 +19423,7 @@ const RAW_CATALOG = [
     badge: "Best Value",
     name: { en: "Precision Pro NX9", ja: "Precision Pro NX9" },
     description: { en: "Value laser rangefinder with slope, adaptive temperature compensation, and free battery replacement", ja: "スロープ・温度補正付き高コスパ距離計、バッテリー無料交換保証" },
+    price: "$199.99",
     links: [
       { network: "amazon-jp", productId: "B083HWS7TL", rawUrl: "https://www.amazon.co.jp/dp/B083HWS7TL", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B083HWS7TL", rawUrl: "https://www.amazon.com/dp/B083HWS7TL", markets: ["US"], approved: true },
@@ -18627,6 +19436,7 @@ const RAW_CATALOG = [
   {
     id: "garmin-approach-g12",
     imageUrl: "https://www.heartratemonitorsusa.com/cdn/shop/products/garmin-golf-garmin-approach-g12-gps-golf-range-finder-29796461281453.png?v=1628113729&width=1000",
+    price: "$80",
     category: "fitness",
     badge: "Best GPS Watch",
     name: { en: "Garmin Approach G12", ja: "Garmin Approach G12" },
@@ -18647,6 +19457,7 @@ const RAW_CATALOG = [
     badge: "Best for Shaky Hands",
     name: { en: "Nikon Coolshot Pro II Stabilized", ja: "Nikon COOLSHOT PRO II STABILIZED" },
     description: { en: "Nikon laser rangefinder with optical image stabilization for faster flagstick acquisition", ja: "光学式手ブレ補正搭載、フラッグロックが速い" },
+    price: "$449.00",
     links: [
       { network: "amazon-jp", productId: "B08FRGFLKD", rawUrl: "https://www.amazon.co.jp/dp/B08FRGFLKD", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B08FRGFLKD", rawUrl: "https://www.amazon.com/dp/B08FRGFLKD", markets: ["US"], approved: true },
@@ -18664,6 +19475,7 @@ const RAW_CATALOG = [
     badge: "Best Flavored Black Tea",
     name: { en: "Harney & Sons Hot Cinnamon Spice", ja: "Harney & Sons ホットシナモンスパイス" },
     description: { en: "Bold black tea with three cinnamons, orange peel and cloves — the benchmark flavored tea", ja: "3種のシナモン・オレンジピール・クローブ入り濃厚フレーバーティー" },
+    price: "$19.99",
     links: [
       { network: "amazon-jp", productId: "B000GG0BNE", rawUrl: "https://www.amazon.co.jp/dp/B000GG0BNE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000GG0BNE", rawUrl: "https://www.amazon.com/dp/B000GG0BNE", markets: ["US"], approved: true },
@@ -18680,6 +19492,7 @@ const RAW_CATALOG = [
     badge: "Best Classic Breakfast Tea",
     name: { en: "Twinings English Breakfast", ja: "Twinings イングリッシュブレックファスト" },
     description: { en: "Assam-forward blend delivering consistent malty strength for milk tea since 1837", ja: "1837年から続くアッサム主体のミルクティー向けブレンド" },
+    price: "$8.49",
     links: [
       { network: "amazon-jp", productId: "B000GG1OFW", rawUrl: "https://www.amazon.co.jp/dp/B000GG1OFW", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000GG1OFW", rawUrl: "https://www.amazon.com/dp/B000GG1OFW", markets: ["US"], approved: true },
@@ -18696,6 +19509,7 @@ const RAW_CATALOG = [
     badge: "Best Single-Origin",
     name: { en: "Vahdam Darjeeling First Flush", ja: "Vahdam ダージリン一番摘み" },
     description: { en: "Direct-estate first flush Darjeeling with genuine muscatel character, best without milk", ja: "エステートダイレクト仕入れの一番摘みダージリン、本物のマスカテル風味" },
+    price: "$10.99",
     links: [
       { network: "amazon-jp", productId: "B00LS5GKAG", rawUrl: "https://www.amazon.co.jp/dp/B00LS5GKAG", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00LS5GKAG", rawUrl: "https://www.amazon.com/dp/B00LS5GKAG", markets: ["US"], approved: true },
@@ -18708,6 +19522,7 @@ const RAW_CATALOG = [
   {
     id: "republic-of-tea-black-tea",
     imageUrl: "https://www.republicoftea.com/cdn/shop/files/V00586_pt_tin.jpg?v=1763652940&width=1946",
+    price: "$11",
     category: "food",
     badge: "Best Everyday Value",
     name: { en: "Republic of Tea Daily Black Tea", ja: "Republic of Tea デイリーブラックティー" },
@@ -18724,6 +19539,7 @@ const RAW_CATALOG = [
   {
     id: "ahmad-tea-english-no-1",
     imageUrl: "https://cdn.shopify.com/s/files/1/0280/2237/4475/t/2/assets/Ahmad-PDP-EnglishTeaNo1_Desktop158680583612212.jpg?v=1586805838",
+    price: "$7.69",
     category: "food",
     badge: "Best Budget Black Tea",
     name: { en: "Ahmad Tea English No. 1", ja: "Ahmad Tea イングリッシュNo.1" },
@@ -18745,6 +19561,7 @@ const RAW_CATALOG = [
     badge: "Best for Technique",
     name: { en: "FINIS Zoomers Gold", ja: "FINIS ズーマーズ ゴールド" },
     description: { en: "Short blade training fins that force fast kick turnover matching freestyle cadence", ja: "フリースタイルのリズムに合わせた速いキックターンオーバーを強制するショートブレードフィン" },
+    price: "$37.99",
     links: [
       { network: "amazon-jp", productId: "B000BLLG6Q", rawUrl: "https://www.amazon.co.jp/dp/B000BLLG6Q", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000BLLG6Q", rawUrl: "https://www.amazon.com/dp/B000BLLG6Q", markets: ["US"], approved: true },
@@ -18761,6 +19578,7 @@ const RAW_CATALOG = [
     badge: "Best All-Round Training Fin",
     name: { en: "Speedo Biofuse Training Fin", ja: "Speedo バイオフューズ トレーニングフィン" },
     description: { en: "Medium blade split-channel fins bridging technique and recreational use", ja: "テクニック用とレクリエーション用の中間を埋めるミドルブレードスプリットフィン" },
+    price: "$34.99",
     links: [
       { network: "amazon-jp", productId: "B00KE3BPQQ", rawUrl: "https://www.amazon.co.jp/dp/B00KE3BPQQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00KE3BPQQ", rawUrl: "https://www.amazon.com/dp/B00KE3BPQQ", markets: ["US"], approved: true },
@@ -18777,6 +19595,7 @@ const RAW_CATALOG = [
     badge: "Best for Kicking Sets",
     name: { en: "Arena Powerfin Pro", ja: "Arena パワーフィン プロ" },
     description: { en: "Split blade fins with two independent flex channels for balanced kick development", ja: "2チャンネルの独立たわみでバランスよくキックを鍛えるスプリットブレードフィン" },
+    price: "$59.99",
     links: [
       { network: "amazon-jp", productId: "B00TQHKXVY", rawUrl: "https://www.amazon.co.jp/dp/B00TQHKXVY", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00TQHKXVY", rawUrl: "https://www.amazon.com/dp/B00TQHKXVY", markets: ["US"], approved: true },
@@ -18793,6 +19612,7 @@ const RAW_CATALOG = [
     badge: "Best Monofin",
     name: { en: "FINIS Foil Monofin", ja: "FINIS フォイル モノフィン" },
     description: { en: "Monofin for dolphin kick and butterfly undulation development", ja: "イルカキックとバタフライのうねり動作を開発するモノフィン" },
+    price: "$113.36",
     links: [
       { network: "amazon-jp", productId: "B000E9WUFA", rawUrl: "https://www.amazon.co.jp/dp/B000E9WUFA", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000E9WUFA", rawUrl: "https://www.amazon.com/dp/B000E9WUFA", markets: ["US"], approved: true },
@@ -18809,6 +19629,7 @@ const RAW_CATALOG = [
     badge: "Best Budget Training Fin",
     name: { en: "TYR Crossblade Trainer", ja: "TYR クロスブレード トレーナー" },
     description: { en: "Entry-level short blade training fins delivering core kick development at low cost", ja: "低コストでキック強化の基本効果を得られるエントリーショートブレードフィン" },
+    price: "$29.99",
     links: [
       { network: "amazon-jp", productId: "B001EQOBG4", rawUrl: "https://www.amazon.co.jp/dp/B001EQOBG4", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001EQOBG4", rawUrl: "https://www.amazon.com/dp/B001EQOBG4", markets: ["US"], approved: true },
@@ -18826,6 +19647,7 @@ const RAW_CATALOG = [
     badge: "Best Cold Brew Bags",
     name: { en: "Harney & Sons Cold Brew Iced Tea", ja: "Harney & Sons コールドブリュー アイスティー" },
     description: { en: "Cold-brew-specific tea bags formulated for low-temperature extraction, quart-size format", ja: "低温抽出専用配合のコールドブリューティーバッグ、1クォートサイズ" },
+    price: "$25.00",
     links: [
       { network: "amazon-jp", productId: "B00CBSGWH2", rawUrl: "https://www.amazon.co.jp/dp/B00CBSGWH2", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00CBSGWH2", rawUrl: "https://www.amazon.com/dp/B00CBSGWH2", markets: ["US"], approved: true },
@@ -18842,6 +19664,7 @@ const RAW_CATALOG = [
     badge: "Best Herbal Cold Brew",
     name: { en: "Palais des Thés Hammam", ja: "パレ・デ・テ ハンマム" },
     description: { en: "Hibiscus-rose-orange herbal blend that cold brews into striking ruby red with natural sweetness", ja: "ハイビスカス・バラ・オレンジブレンド、コールドブリューで鮮やかなルビー色" },
+    price: "$18.00",
     links: [
       { network: "amazon-jp", productId: "B01BVHQXHQ", rawUrl: "https://www.amazon.co.jp/dp/B01BVHQXHQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01BVHQXHQ", rawUrl: "https://www.amazon.com/dp/B01BVHQXHQ", markets: ["US"], approved: true },
@@ -18853,7 +19676,9 @@ const RAW_CATALOG = [
   },
   {
     id: "ippodo-gyokuro",
+    imageUrl: "https://m.media-amazon.com/images/P/B003KYSO9M.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$28",
     badge: "Best Japanese Green Cold Brew",
     name: { en: "Ippodo Gyokuro", ja: "一保堂 玉露" },
     description: { en: "Premium shade-grown gyokuro that develops sweet umami notes when cold brewed overnight", ja: "一晩冷水出しで甘いうまみノートが際立つ高級覆下栽培玉露" },
@@ -18869,6 +19694,7 @@ const RAW_CATALOG = [
   {
     id: "bigelow-benefits-cold-brew",
     category: "food",
+    price: "$4.49",
     badge: "Best Value Cold Brew",
     name: { en: "Bigelow Benefits Cold Brew", ja: "Bigelow Benefits コールドブリュー" },
     description: { en: "Accessible cold brew bags with functional flavors, clean-tasting without cloudiness", ja: "機能系フレーバー付きの手軽なコールドブリューバッグ、濁りなくクリーン" },
@@ -18888,6 +19714,7 @@ const RAW_CATALOG = [
     badge: "Best Organic Cold Brew",
     name: { en: "Rishi Tea Cold Brew Organic Green", ja: "Rishi Tea オーガニック コールドブリュー グリーン" },
     description: { en: "USDA organic green tea blend formulated for cold extraction without bitterness", ja: "低温抽出で苦みなしのUSDA有機認証緑茶ブレンド" },
+    price: "$10.00",
     links: [
       { network: "amazon-jp", productId: "B00B9MYE0W", rawUrl: "https://www.amazon.co.jp/dp/B00B9MYE0W", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00B9MYE0W", rawUrl: "https://www.amazon.com/dp/B00B9MYE0W", markets: ["US"], approved: true },
@@ -18905,6 +19732,7 @@ const RAW_CATALOG = [
     badge: "Best for Beginners",
     name: { en: "Everlast Speed Bag", ja: "Everlast スピードバッグ" },
     description: { en: "Standard medium speed bag for beginner rhythm development, replaceable bladder", ja: "初心者のリズム習得向け標準ミドルサイズスピードバッグ、交換可能エアブラダー" },
+    price: "$29.99",
     links: [
       { network: "amazon-jp", productId: "B00006JSC1", rawUrl: "https://www.amazon.co.jp/dp/B00006JSC1", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00006JSC1", rawUrl: "https://www.amazon.com/dp/B00006JSC1", markets: ["US"], approved: true },
@@ -18921,6 +19749,7 @@ const RAW_CATALOG = [
     badge: "Best Mid-Size Training Bag",
     name: { en: "Title Boxing Speed Bag", ja: "Title Boxing スピードバッグ" },
     description: { en: "Genuine leather speed bag for intermediate training with consistent rebound", ja: "一貫したリバウンドの中級者向け本革スピードバッグ" },
+    price: "$49.99",
     links: [
       { network: "amazon-jp", productId: "B000O64HV0", rawUrl: "https://www.amazon.co.jp/dp/B000O64HV0", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000O64HV0", rawUrl: "https://www.amazon.com/dp/B000O64HV0", markets: ["US"], approved: true },
@@ -18937,6 +19766,7 @@ const RAW_CATALOG = [
     badge: "Best All-Round Speed Bag",
     name: { en: "Ringside Frequency Speed Bag", ja: "Ringside フリクエンシー スピードバッグ" },
     description: { en: "Multi-layer genuine leather speed bag with consistent rebound for long-term home gym use", ja: "長期ホームジム使用向け多層本革スピードバッグ、安定したリバウンド" },
+    price: "$49.99",
     links: [
       { network: "amazon-jp", productId: "B0019OXUMM", rawUrl: "https://www.amazon.co.jp/dp/B0019OXUMM", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0019OXUMM", rawUrl: "https://www.amazon.com/dp/B0019OXUMM", markets: ["US"], approved: true },
@@ -18953,6 +19783,7 @@ const RAW_CATALOG = [
     badge: "Best Professional Speed Bag",
     name: { en: "Cleto Reyes Speed Bag", ja: "クレト・レイエス スピードバッグ" },
     description: { en: "Handcrafted Mexican leather speed bag with precise internal geometry for professional training", ja: "精密な内部ジオメトリのメキシコ製手縫い本革スピードバッグ" },
+    price: "$125.00",
     links: [
       { network: "amazon-jp", productId: "B001CQFB2Y", rawUrl: "https://www.amazon.co.jp/dp/B001CQFB2Y", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001CQFB2Y", rawUrl: "https://www.amazon.com/dp/B001CQFB2Y", markets: ["US"], approved: true },
@@ -18969,6 +19800,7 @@ const RAW_CATALOG = [
     badge: "Best for Home Use (No Platform)",
     name: { en: "Century Wavemaster Freestanding Speed Bag", ja: "Century Wavemaster フリースタンディング スピードバッグ" },
     description: { en: "Self-contained floor-standing speed bag platform requiring no wall or ceiling installation", ja: "壁・天井への固定不要の自立型スピードバッグプラットフォーム" },
+    price: "$149.99",
     links: [
       { network: "amazon-jp", productId: "B000MVPF4O", rawUrl: "https://www.amazon.co.jp/dp/B000MVPF4O", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000MVPF4O", rawUrl: "https://www.amazon.com/dp/B000MVPF4O", markets: ["US"], approved: true },
@@ -18982,6 +19814,7 @@ const RAW_CATALOG = [
   {
     id: "alishan-high-mountain-oolong",
     imageUrl: "https://eco-cha.com/cdn/shop/products/Alishan_High_Mountain_Oolong_-_Lifestyle_02_600x.jpg?v=1628345828",
+    price: "$15",
     category: "food",
     badge: "Best Light Oolong",
     name: { en: "Ali Shan High Mountain Oolong", ja: "阿里山高山烏龍茶" },
@@ -19002,6 +19835,7 @@ const RAW_CATALOG = [
     badge: "Best Rock Oolong",
     name: { en: "Da Hong Pao Wuyi Rock Oolong", ja: "大紅袍 武夷岩茶" },
     description: { en: "Famous mineral-forward heavily roasted rock oolong from Fujian's Wuyi mountains", ja: "福建省武夷山産のミネラル感ある重焙煎岩茶、中国十大名茶" },
+    price: "$14.99",
     links: [
       { network: "amazon-jp", productId: "B008JCSCAI", rawUrl: "https://www.amazon.co.jp/dp/B008JCSCAI", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B008JCSCAI", rawUrl: "https://www.amazon.com/dp/B008JCSCAI", markets: ["US"], approved: true },
@@ -19018,6 +19852,7 @@ const RAW_CATALOG = [
     badge: "Best Medium Roast Oolong",
     name: { en: "Dong Ding Oolong", ja: "凍頂烏龍茶" },
     description: { en: "Classic Taiwanese medium-roast oolong from Nantou County with toasted grain and fruit notes", ja: "南投県産の台湾定番中焙烏龍、焙じ穀物とフルーティさのバランス" },
+    price: "$14.99",
     links: [
       { network: "amazon-jp", productId: "B001EQ5Y7A", rawUrl: "https://www.amazon.co.jp/dp/B001EQ5Y7A", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001EQ5Y7A", rawUrl: "https://www.amazon.com/dp/B001EQ5Y7A", markets: ["US"], approved: true },
@@ -19034,6 +19869,7 @@ const RAW_CATALOG = [
     badge: "Best Premium Taiwan Oolong",
     name: { en: "Li Shan High Mountain Oolong", ja: "梨山高山烏龍茶" },
     description: { en: "Ultra-high elevation Taiwan oolong from 2,200-2,600m with intense floral complexity", ja: "台湾標高2,200〜2,600mの超高山烏龍、濃厚な花香複雑性" },
+    price: "$32.00",
     links: [
       { network: "amazon-jp", productId: "B00AISNC7O", rawUrl: "https://www.amazon.co.jp/dp/B00AISNC7O", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00AISNC7O", rawUrl: "https://www.amazon.com/dp/B00AISNC7O", markets: ["US"], approved: true },
@@ -19050,6 +19886,7 @@ const RAW_CATALOG = [
     badge: "Best Classic Chinese Oolong",
     name: { en: "Tie Guan Yin Anxi", ja: "安渓 鉄観音" },
     description: { en: "Classic lightly oxidized Anxi oolong with orchid and lily floral notes — one of China's ten famous teas", ja: "蘭・百合の花香を持つ安渓産軽酸化烏龍、中国十大名茶" },
+    price: "$12.99",
     links: [
       { network: "amazon-jp", productId: "B001NNFHKC", rawUrl: "https://www.amazon.co.jp/dp/B001NNFHKC", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001NNFHKC", rawUrl: "https://www.amazon.com/dp/B001NNFHKC", markets: ["US"], approved: true },
@@ -19067,6 +19904,7 @@ const RAW_CATALOG = [
     badge: "Best Classic Rooibos",
     name: { en: "Numi Organic Rooibos", ja: "Numi オーガニック ルイボス" },
     description: { en: "USDA organic fair-trade South African rooibos with full-leaf bags and clean earthy flavor", ja: "USDA有機・フェアトレード認証の南アフリカルイボス、フルリーフバッグ" },
+    price: "$6.61",
     links: [
       { network: "amazon-jp", productId: "B001E5E5KG", rawUrl: "https://www.amazon.co.jp/dp/B001E5E5KG", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001E5E5KG", rawUrl: "https://www.amazon.com/dp/B001E5E5KG", markets: ["US"], approved: true },
@@ -19083,6 +19921,7 @@ const RAW_CATALOG = [
     badge: "Best Spiced Blend",
     name: { en: "Celestial Seasonings Bengal Spice", ja: "Celestial Seasonings ベンガルスパイス" },
     description: { en: "Caffeine-free chai blend with cinnamon, ginger, cardamom on rooibos base — naturally sweet", ja: "ルイボスベースのカフェインフリーチャイブレンド、シナモン・ジンジャー・カルダモン" },
+    price: "$5.49",
     links: [
       { network: "amazon-jp", productId: "B000GG03KY", rawUrl: "https://www.amazon.co.jp/dp/B000GG03KY", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000GG03KY", rawUrl: "https://www.amazon.com/dp/B000GG03KY", markets: ["US"], approved: true },
@@ -19099,6 +19938,7 @@ const RAW_CATALOG = [
     badge: "Best Premium Rooibos",
     name: { en: "Tea Forté Rooibos Herbal", ja: "Tea Forté ルイボス ハーバル" },
     description: { en: "Premium pyramid sachet rooibos with refined whole-leaf quality and gift-worthy presentation", ja: "精製ホールリーフ品質のプレミアムピラミッドサシェルイボス" },
+    price: "$22.00",
     links: [
       { network: "amazon-jp", productId: "B002SFKGF0", rawUrl: "https://www.amazon.co.jp/dp/B002SFKGF0", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B002SFKGF0", rawUrl: "https://www.amazon.com/dp/B002SFKGF0", markets: ["US"], approved: true },
@@ -19111,6 +19951,7 @@ const RAW_CATALOG = [
   {
     id: "wild-rooibos-loose-leaf",
     category: "food",
+    price: "$12.99",
     badge: "Best Loose Leaf Rooibos",
     name: { en: "Wild Rooibos Loose Leaf", ja: "ワイルドルイボス ルースリーフ" },
     description: { en: "Wild-harvested Cederberg mountain rooibos with complex earthiness and mineral notes", ja: "セダーバーグ山地野生採取の複雑な土っぽさとミネラルノートのルイボス" },
@@ -19130,6 +19971,7 @@ const RAW_CATALOG = [
     badge: "Best Honeybush",
     name: { en: "Numi Organic Honeybush", ja: "Numi オーガニック ハニーブッシュ" },
     description: { en: "Organic South African honeybush with natural honey and apricot notes, caffeine-free", ja: "有機南アフリカハニーブッシュ、はちみつとあんずの自然なノート、カフェインフリー" },
+    price: "$9.99",
     links: [
       { network: "amazon-jp", productId: "B001E5E5JC", rawUrl: "https://www.amazon.co.jp/dp/B001E5E5JC", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001E5E5JC", rawUrl: "https://www.amazon.com/dp/B001E5E5JC", markets: ["US"], approved: true },
@@ -19147,6 +19989,7 @@ const RAW_CATALOG = [
     badge: "Best Overall CrossFit Shoe",
     name: { en: "Nike Metcon 9", ja: "ナイキ メトコン 9" },
     description: { en: "Market-leading CrossFit trainer with flat rigid heel for lifting stability and durable rope-climb wrap", ja: "フラット硬性ヒールと耐久ロープラップ搭載の市場リーダークロスフィットトレーナー" },
+    price: "$150.00",
     links: [
       { network: "amazon-jp", productId: "B0BXQV4KJH", rawUrl: "https://www.amazon.co.jp/dp/B0BXQV4KJH", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0BXQV4KJH", rawUrl: "https://www.amazon.com/dp/B0BXQV4KJH", markets: ["US"], approved: true },
@@ -19163,6 +20006,7 @@ const RAW_CATALOG = [
     badge: "Best for Versatility",
     name: { en: "Reebok Nano X4", ja: "リーボック ナノ X4" },
     description: { en: "Versatile CrossFit trainer with better running comfort than Metcon, dual-layer outsole", ja: "メトコンよりランニング快適性の高いデュアルレイヤーアウトソールクロスフィットトレーナー" },
+    price: "$140.00",
     links: [
       { network: "amazon-jp", productId: "B0BV3WZT9W", rawUrl: "https://www.amazon.co.jp/dp/B0BV3WZT9W", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0BV3WZT9W", rawUrl: "https://www.amazon.com/dp/B0BV3WZT9W", markets: ["US"], approved: true },
@@ -19179,6 +20023,7 @@ const RAW_CATALOG = [
     badge: "Best Minimalist CrossFit Shoe",
     name: { en: "NoBull Trainer", ja: "NoBull トレーナー" },
     description: { en: "Minimalist SuperFabric CrossFit trainer with flat outsole and maximum durability, no foam tech", ja: "フォームなしの超耐久SuperFabricアッパーとフラットアウトソールのミニマリストトレーナー" },
+    price: "$150.00",
     links: [
       { network: "amazon-jp", productId: "B09S7C8RRM", rawUrl: "https://www.amazon.co.jp/dp/B09S7C8RRM", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B09S7C8RRM", rawUrl: "https://www.amazon.com/dp/B09S7C8RRM", markets: ["US"], approved: true },
@@ -19195,6 +20040,7 @@ const RAW_CATALOG = [
     badge: "Best for Running-Heavy WODs",
     name: { en: "New Balance Minimus TR", ja: "ニューバランス ミニマス TR" },
     description: { en: "Minimal drop flexible CrossFit shoe for run-heavy WODs with 800m+ repeats", ja: "800m以上のリピートを含むランニング重視WOD向けの低ドロップ柔軟クロスフィットシューズ" },
+    price: "$129.99",
     links: [
       { network: "amazon-jp", productId: "B07CTHBVBY", rawUrl: "https://www.amazon.co.jp/dp/B07CTHBVBY", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07CTHBVBY", rawUrl: "https://www.amazon.com/dp/B07CTHBVBY", markets: ["US"], approved: true },
@@ -19211,6 +20057,7 @@ const RAW_CATALOG = [
     badge: "Best for Olympic Lifting",
     name: { en: "Inov-8 Fastlift 370", ja: "イノヴェイト ファストリフト 370" },
     description: { en: "Hybrid CrossFit trainer with 4mm heel elevation for Olympic lifting stability while retaining trainer flexibility", ja: "リフティング安定性のための4mmヒール挙上とトレーナー柔軟性を兼ね備えたハイブリッド" },
+    price: "$170.00",
     links: [
       { network: "amazon-jp", productId: "B01N0EP91P", rawUrl: "https://www.amazon.co.jp/dp/B01N0EP91P", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01N0EP91P", rawUrl: "https://www.amazon.com/dp/B01N0EP91P", markets: ["US"], approved: true },
@@ -19228,6 +20075,7 @@ const RAW_CATALOG = [
     badge: "Best for Beginners",
     name: { en: "La Sportiva Tarantula", ja: "ラ・スポルティバ タランチュラ" },
     description: { en: "Symmetric flat-last beginner climbing shoe with lace + strap closure, widely recommended", ja: "対称フラットラストの初心者クライミングシューズ、レース＋ストラップ、定番推薦品" },
+    price: "$104.99",
     links: [
       { network: "amazon-jp", productId: "B00AEPE7IE", rawUrl: "https://www.amazon.co.jp/dp/B00AEPE7IE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00AEPE7IE", rawUrl: "https://www.amazon.com/dp/B00AEPE7IE", markets: ["US"], approved: true },
@@ -19244,6 +20092,7 @@ const RAW_CATALOG = [
     badge: "Best Intermediate Shoe",
     name: { en: "Scarpa Instinct VS", ja: "スカルパ インスティンクト VS" },
     description: { en: "Slightly downturned intermediate climbing shoe with VS rubber and velcro closure", ja: "わずかなダウンターンのVSゴム採用中級クライミングシューズ、ベルクロ" },
+    price: "$135.00",
     links: [
       { network: "amazon-jp", productId: "B003EWWHV8", rawUrl: "https://www.amazon.co.jp/dp/B003EWWHV8", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B003EWWHV8", rawUrl: "https://www.amazon.com/dp/B003EWWHV8", markets: ["US"], approved: true },
@@ -19260,6 +20109,7 @@ const RAW_CATALOG = [
     badge: "Best Performance Shoe",
     name: { en: "La Sportiva Solution", ja: "ラ・スポルティバ ソリューション" },
     description: { en: "World Cup-level aggressively downturned boulder shoe with P3 system for maximum precision", ja: "ワールドカップ仕様のP3システム搭載攻撃的ダウンターンボルダリングシューズ" },
+    price: "$180.00",
     links: [
       { network: "amazon-jp", productId: "B0030JMQBA", rawUrl: "https://www.amazon.co.jp/dp/B0030JMQBA", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0030JMQBA", rawUrl: "https://www.amazon.com/dp/B0030JMQBA", markets: ["US"], approved: true },
@@ -19276,6 +20126,7 @@ const RAW_CATALOG = [
     badge: "Best Gym Shoe",
     name: { en: "Black Diamond Momentum", ja: "ブラックダイヤモンド モメンタム" },
     description: { en: "Indoor gym-optimized climbing shoe with breathable synthetic upper and NeoFriction rubber", ja: "ジム専用設計の通気合成アッパー・NeoFrictionゴム採用クライミングシューズ" },
+    price: "$129.95",
     links: [
       { network: "amazon-jp", productId: "B07CY6T2CL", rawUrl: "https://www.amazon.co.jp/dp/B07CY6T2CL", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07CY6T2CL", rawUrl: "https://www.amazon.com/dp/B07CY6T2CL", markets: ["US"], approved: true },
@@ -19288,6 +20139,7 @@ const RAW_CATALOG = [
   {
     id: "five-ten-hiangle",
     imageUrl: "https://www.oliunid.com/media/catalog/product/cache/5a24461f6a5b003a808c9550a18372ea/a/d/adidas-five-ten-hiangle-scarpette-arrampicata.jpg",
+    price: "$120",
     category: "fitness",
     badge: "Best Slab Shoe",
     name: { en: "Five Ten Hiangle", ja: "ファイブテン ハイアングル" },
@@ -19309,6 +20161,7 @@ const RAW_CATALOG = [
     badge: "Best Medical-Grade Peppermint",
     name: { en: "Heather's Tummy Tamer Peppermint", ja: "Heather's Tummy Tamer ペパーミント" },
     description: { en: "Extra-high menthol peppermint tea formulated for digestive comfort and IBS relief", ja: "消化器系の快適さとIBS緩和のために特別配合された超高メントールペパーミントティー" },
+    price: "$14.99",
     links: [
       { network: "amazon-jp", productId: "B000F9YVDI", rawUrl: "https://www.amazon.co.jp/dp/B000F9YVDI", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000F9YVDI", rawUrl: "https://www.amazon.com/dp/B000F9YVDI", markets: ["US"], approved: true },
@@ -19320,7 +20173,9 @@ const RAW_CATALOG = [
   },
   {
     id: "choice-organic-peppermint",
+    imageUrl: "https://m.media-amazon.com/images/P/B000FV8KQU.01._SCLZZZZZZZ_.jpg",
     category: "food",
+    price: "$6.89",
     badge: "Best Everyday Organic",
     name: { en: "Choice Organic Peppermint", ja: "Choice Organic ペパーミント" },
     description: { en: "Single-ingredient USDA organic peppermint tea in compostable square bags", ja: "堆肥化可能な正方形バッグのシングルインリーディエントUSDA有機ペパーミントティー" },
@@ -19336,6 +20191,7 @@ const RAW_CATALOG = [
   {
     id: "numi-organic-peppermint-tea",
     imageUrl: "https://numitea.com/cdn/shop/files/moroccan-mint-tea-bags-plastic-free_38765c4b-d505-429d-b869-980c6336a438.jpg?v=1752098858",
+    price: "$5.49",
     category: "food",
     badge: "Best Premium Organic",
     name: { en: "Numi Organic Peppermint", ja: "Numi オーガニック ペパーミント" },
@@ -19356,6 +20212,7 @@ const RAW_CATALOG = [
     badge: "Best Value Full-Leaf",
     name: { en: "Republic of Tea Peppermint Herb Tea", ja: "Republic of Tea ペパーミント ハーブティー" },
     description: { en: "Large-cut peppermint in a freshness-preserving recyclable tin, moderate menthol intensity", ja: "鮮度を保つリサイクル可能なティン入りの大きくカットされたペパーミント、中程度のメントール強度" },
+    price: "$14.50",
     links: [
       { network: "amazon-jp", productId: "B000GG08AW", rawUrl: "https://www.amazon.co.jp/dp/B000GG08AW", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000GG08AW", rawUrl: "https://www.amazon.com/dp/B000GG08AW", markets: ["US"], approved: true },
@@ -19372,6 +20229,7 @@ const RAW_CATALOG = [
     badge: "Best Budget Peppermint",
     name: { en: "Bigelow Benefits Peppermint", ja: "Bigelow Benefits ペパーミント" },
     description: { en: "Widely available grocery store peppermint in individually foil-wrapped bags for freshness", ja: "個別アルミホイル包装で鮮度を保つ広く流通するスーパーマーケットペパーミントティー" },
+    price: "$3.52",
     links: [
       { network: "amazon-jp", productId: "B0000CFN9G", rawUrl: "https://www.amazon.co.jp/dp/B0000CFN9G", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0000CFN9G", rawUrl: "https://www.amazon.com/dp/B0000CFN9G", markets: ["US"], approved: true },
@@ -19389,6 +20247,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Gymnastics Grips",
     name: { en: "Gibson Athletic Bear Grips", ja: "Gibson Athletic ベアグリップス" },
     description: { en: "Premium leather dowel gymnastics grips for competitive gymnastics and high-volume CrossFit bar work", ja: "競技体操と高量クロスフィットバーワーク向けプレミアムレザーダウエル体操グリップ" },
+    price: "$34.99",
     links: [
       { network: "amazon-jp", productId: "B00GRXRB2S", rawUrl: "https://www.amazon.co.jp/dp/B00GRXRB2S", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00GRXRB2S", rawUrl: "https://www.amazon.com/dp/B00GRXRB2S", markets: ["US"], approved: true },
@@ -19405,6 +20264,7 @@ const RAW_CATALOG = [
     badge: "Best Carbon Fiber Grips",
     name: { en: "Bear KompleX Carbon Fiber Hand Grips", ja: "Bear KompleX カーボンファイバーハンドグリップス" },
     description: { en: "No break-in carbon fiber 3-hole CrossFit grips with consistent performance across humidity levels", ja: "慣らし不要のカーボンファイバー3穴クロスフィットグリップ、湿度に左右されない一貫したパフォーマンス" },
+    price: "$49.98",
     links: [
       { network: "amazon-jp", productId: "B074W95MWK", rawUrl: "https://www.amazon.co.jp/dp/B074W95MWK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B074W95MWK", rawUrl: "https://www.amazon.com/dp/B074W95MWK", markets: ["US"], approved: true },
@@ -19421,6 +20281,7 @@ const RAW_CATALOG = [
     badge: "Best for Competitive Gymnastics",
     name: { en: "Reisport Hook and Loop Gymnastics Grips", ja: "Reisport フック＆ループ体操グリップス" },
     description: { en: "Elite-level leather gymnastics grips used by competitive programs worldwide for horizontal bar and rings", ja: "鉄棒と吊り輪向けに世界の競技プログラムが使用するエリートレベルレザー体操グリップ" },
+    price: "$64.99",
     links: [
       { network: "amazon-jp", productId: "B000F4BDMK", rawUrl: "https://www.amazon.co.jp/dp/B000F4BDMK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000F4BDMK", rawUrl: "https://www.amazon.com/dp/B000F4BDMK", markets: ["US"], approved: true },
@@ -19433,6 +20294,8 @@ const RAW_CATALOG = [
   {
     id: "jap-grips-gymnastics",
     category: "fitness",
+    priceMin: "$25",
+    priceMax: "$40",
     badge: "Best Beginner Gymnastics Grips",
     name: { en: "JAP Grips Gymnastics Hand Guards", ja: "JAP Grips 体操ハンドガード" },
     description: { en: "Entry-level suede leather grips for recreational gymnastics and youth programs, easy to size and fit", ja: "サイジングとフィットが簡単なレクリエーション体操とユースプログラム向けエントリーレベルスエードレザーグリップ" },
@@ -19447,7 +20310,10 @@ const RAW_CATALOG = [
   },
   {
     id: "wod-nation-gymnastics-grips",
+    imageUrl: "https://m.media-amazon.com/images/I/71bTiQToYRL._AC_SL1500_.jpg",
     category: "fitness",
+    priceMin: "$18",
+    priceMax: "$30",
     badge: "Best Budget CrossFit Grips",
     name: { en: "WOD Nation Gymnastics Hand Grips", ja: "WOD Nation 体操ハンドグリップス" },
     description: { en: "Budget-friendly 3-hole leather CrossFit grips for athletes new to grip use in standard WOD volumes", ja: "標準WOD量でグリップを試し始めるクロスフィッター向けコスパ良好な3穴レザーグリップ" },
@@ -19468,6 +20334,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Silver Needle",
     name: { en: "Teavana Silver Needle White Tea", ja: "Teavana シルバーニードル白茶" },
     description: { en: "Premium buds-only Silver Needle white tea with delicate sweetness, floral finish, and no bitterness", ja: "苦みなし・繊細な甘さとフローラルな後味を持つ芽のみのプレミアム銀針白茶" },
+    price: "$19.99",
     links: [
       { network: "amazon-jp", productId: "B00GVJJQ08", rawUrl: "https://www.amazon.co.jp/dp/B00GVJJQ08", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00GVJJQ08", rawUrl: "https://www.amazon.com/dp/B00GVJJQ08", markets: ["US"], approved: true },
@@ -19484,6 +20351,7 @@ const RAW_CATALOG = [
     badge: "Best Estate White Tea",
     name: { en: "Vahdam Darjeeling White Tea", ja: "Vahdam ダージリン白茶" },
     description: { en: "Single-estate Darjeeling white tea with muscatel-adjacent floral and fruity notes, traceable sourcing", ja: "トレーサブルソーシングのマスカテル的フローラル＆フルーティーな香りのシングルエステートダージリン白茶" },
+    price: "$12.99",
     links: [
       { network: "amazon-jp", productId: "B01N9VGDIM", rawUrl: "https://www.amazon.co.jp/dp/B01N9VGDIM", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01N9VGDIM", rawUrl: "https://www.amazon.com/dp/B01N9VGDIM", markets: ["US"], approved: true },
@@ -19516,6 +20384,7 @@ const RAW_CATALOG = [
     badge: "Best Premium Single-Origin",
     name: { en: "Rishi Tea Bai Hao Silver Needle", ja: "Rishi Tea 白毫銀針" },
     description: { en: "Fujian-province single-origin Silver Needle with clean melon-honeydew sweetness and floral top note", ja: "クリーンなメロン・ハネデューの甘さとフローラルな上部の香りを持つ福建省シングルオリジン銀針" },
+    price: "$15.99",
     links: [
       { network: "amazon-jp", productId: "B001E5E0F0", rawUrl: "https://www.amazon.co.jp/dp/B001E5E0F0", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001E5E0F0", rawUrl: "https://www.amazon.com/dp/B001E5E0F0", markets: ["US"], approved: true },
@@ -19532,6 +20401,7 @@ const RAW_CATALOG = [
     badge: "Best Budget Introduction",
     name: { en: "Bigelow Benefits White Tea with Blueberry", ja: "Bigelow Benefits ブルーベリー入り白茶" },
     description: { en: "Accessible white tea blend with blueberry for those new to white tea, foil-wrapped for freshness", ja: "白茶初心者向けのアルミホイル包装鮮度保持ブルーベリー入りアクセスしやすい白茶ブレンド" },
+    price: "$4.98",
     links: [
       { network: "amazon-jp", productId: "B00028JMPE", rawUrl: "https://www.amazon.co.jp/dp/B00028JMPE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00028JMPE", rawUrl: "https://www.amazon.com/dp/B00028JMPE", markets: ["US"], approved: true },
@@ -19549,6 +20419,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Complete Stick",
     name: { en: "STX Stallion U Complete Lacrosse Stick", ja: "STX スタリオン U コンプリートラクロスステッキ" },
     description: { en: "Mid-range complete lacrosse stick bridging beginner and performance gear for high school and adult players", ja: "高校生と大人向けに初心者と高性能の間を埋める中価格帯コンプリートラクロスステッキ" },
+    price: "$99.99",
     links: [
       { network: "amazon-jp", productId: "B07KQPR2T6", rawUrl: "https://www.amazon.co.jp/dp/B07KQPR2T6", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07KQPR2T6", rawUrl: "https://www.amazon.com/dp/B07KQPR2T6", markets: ["US"], approved: true },
@@ -19565,6 +20436,7 @@ const RAW_CATALOG = [
     badge: "Best Performance Attack Stick",
     name: { en: "Epoch Hawk iQ9 Complete Stick", ja: "Epoch Hawk iQ9 コンプリートスティック" },
     description: { en: "High-performance attack lacrosse stick with narrow iQ9 head, aggressive offset, and Dragonfly composite shaft", ja: "ナローiQ9ヘッド・アグレッシブオフセット・Dragonflyコンポジットシャフトの高性能アタックラクロスステッキ" },
+    price: "$99.99",
     links: [
       { network: "amazon-jp", productId: "B07BDXDPMC", rawUrl: "https://www.amazon.co.jp/dp/B07BDXDPMC", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07BDXDPMC", rawUrl: "https://www.amazon.com/dp/B07BDXDPMC", markets: ["US"], approved: true },
@@ -19581,6 +20453,7 @@ const RAW_CATALOG = [
     badge: "Best Value Mid-Range",
     name: { en: "Warrior Evo Complete Lacrosse Stick", ja: "Warrior Evo コンプリートラクロスステッキ" },
     description: { en: "Reliable mid-range complete stick for recreational and high school lacrosse with good pocket control", ja: "良好なポケットコントロールを持つレクリエーション・高校ラクロス向け信頼性の高い中価格帯コンプリートスティック" },
+    price: "$79.99",
     links: [
       { network: "amazon-jp", productId: "B074WFHQ6P", rawUrl: "https://www.amazon.co.jp/dp/B074WFHQ6P", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B074WFHQ6P", rawUrl: "https://www.amazon.com/dp/B074WFHQ6P", markets: ["US"], approved: true },
@@ -19597,6 +20470,7 @@ const RAW_CATALOG = [
     badge: "Best for Midfielders",
     name: { en: "Maverik Lacrosse Complete Stick", ja: "Maverik Lacrosse コンプリートスティック" },
     description: { en: "Midfielder-optimized complete lacrosse stick with wider throat for ground balls and throwing accuracy balance", ja: "グラウンドボールとスローイング精度バランスのための広いスロートを持つミッドフィールダー最適化コンプリートスティック" },
+    price: "$99.99",
     links: [
       { network: "amazon-jp", productId: "B07G3H5ZFK", rawUrl: "https://www.amazon.co.jp/dp/B07G3H5ZFK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07G3H5ZFK", rawUrl: "https://www.amazon.com/dp/B07G3H5ZFK", markets: ["US"], approved: true },
@@ -19609,6 +20483,7 @@ const RAW_CATALOG = [
   {
     id: "stx-crux-200-womens-stick",
     imageUrl: "https://stx.com/cdn/shop/files/stx-wlx-crux_pro-white_yellow-ss-front.jpg?v=1752065012&width=533",
+    price: "$75",
     category: "fitness",
     badge: "Best Women's Lacrosse Stick",
     name: { en: "STX Crux 200 Women's Complete Stick", ja: "STX Crux 200 女性用コンプリートスティック" },
@@ -19630,6 +20505,7 @@ const RAW_CATALOG = [
     badge: "Best Loose Hibiscus",
     name: { en: "Frontier Co-op Hibiscus Flowers", ja: "Frontier Co-op ハイビスカスフラワー" },
     description: { en: "Whole dried organic hibiscus calyxes for brewing deep ruby agua de jamaica at home", ja: "自宅で深いルビーのアグア・デ・ジャマイカを淹れるためのホール乾燥オーガニックハイビスカスがく" },
+    price: "$12.98",
     links: [
       { network: "amazon-jp", productId: "B000WS2PBK", rawUrl: "https://www.amazon.co.jp/dp/B000WS2PBK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000WS2PBK", rawUrl: "https://www.amazon.com/dp/B000WS2PBK", markets: ["US"], approved: true },
@@ -19646,6 +20522,7 @@ const RAW_CATALOG = [
     badge: "Best Premium Hibiscus Blend",
     name: { en: "Harney & Sons Hibiscus Herbal Tea", ja: "Harney & Sons ハイビスカスハーブティー" },
     description: { en: "Premium hibiscus blend with rosehips and chamomile for a balanced deep ruby cup with floral notes", ja: "フローラルな香りを持つ均衡の取れた深いルビーカップのためのローズヒップとカモミール入りプレミアムハイビスカスブレンド" },
+    price: "$9.99",
     links: [
       { network: "amazon-jp", productId: "B000FGDIAI", rawUrl: "https://www.amazon.co.jp/dp/B000FGDIAI", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000FGDIAI", rawUrl: "https://www.amazon.com/dp/B000FGDIAI", markets: ["US"], approved: true },
@@ -19658,6 +20535,7 @@ const RAW_CATALOG = [
   {
     id: "bigelow-benefits-hibiscus",
     imageUrl: "https://www.bigelowtea.com/cdn/shop/files/moutt7uewhkaupkxphct.jpg?v=1776753836&width=1080",
+    price: "$4.49",
     category: "food",
     badge: "Best Everyday Hibiscus Tea",
     name: { en: "Bigelow Benefits Hibiscus Tea", ja: "Bigelow Benefits ハイビスカスティー" },
@@ -19678,6 +20556,7 @@ const RAW_CATALOG = [
     badge: "Best Budget Hibiscus Option",
     name: { en: "Celestial Seasonings Wild Berry Zinger", ja: "Celestial Seasonings ワイルドベリージンジャー" },
     description: { en: "Budget-friendly hibiscus-base fruity herbal blend for hibiscus beginners and approachable daily tea", ja: "ハイビスカス初心者とアクセスしやすい毎日のお茶向けコスパ良好なハイビスカスベースフルーティーハーブブレンド" },
+    price: "$9.13",
     links: [
       { network: "amazon-jp", productId: "B000GG2AUQ", rawUrl: "https://www.amazon.co.jp/dp/B000GG2AUQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000GG2AUQ", rawUrl: "https://www.amazon.com/dp/B000GG2AUQ", markets: ["US"], approved: true },
@@ -19694,6 +20573,7 @@ const RAW_CATALOG = [
     badge: "Best Hibiscus for Cold Brew",
     name: { en: "Republic of Tea Hibiscus Superflower", ja: "Republic of Tea ハイビスカス スーパーフラワー" },
     description: { en: "Single-ingredient hibiscus in airtight tin sachets optimized for cold brew and wellness-focused daily use", ja: "コールドブリューとウェルネス重視の毎日の使用に最適化された気密ティンサシェのシングルインリーディエントハイビスカス" },
+    price: "$14.99",
     links: [
       { network: "amazon-jp", productId: "B002H0G5KW", rawUrl: "https://www.amazon.co.jp/dp/B002H0G5KW", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B002H0G5KW", rawUrl: "https://www.amazon.com/dp/B002H0G5KW", markets: ["US"], approved: true },
@@ -19711,6 +20591,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Volleyball Knee Pad",
     name: { en: "Asics Unisex Gel Volleyball Knee Pad", ja: "Asics ユニセックス ゲルバレーボール膝パッド" },
     description: { en: "Gel-padded volleyball knee pad with correct impact zone positioning and anti-slip retention for competitive play", ja: "競技プレイ向け正確な衝撃ゾーン位置決めと滑り止め保持のゲルパッド入りバレーボール膝パッド" },
+    price: "$19.99",
     links: [
       { network: "amazon-jp", productId: "B00C4Q8BBO", rawUrl: "https://www.amazon.co.jp/dp/B00C4Q8BBO", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00C4Q8BBO", rawUrl: "https://www.amazon.com/dp/B00C4Q8BBO", markets: ["US"], approved: true },
@@ -19727,6 +20608,7 @@ const RAW_CATALOG = [
     badge: "Best for Libero Players",
     name: { en: "Mizuno LR6 Volleyball Knee Pad", ja: "Mizuno LR6 バレーボール膝パッド" },
     description: { en: "Thick-padded libero-specific volleyball knee pad with reinforced kneecap and side panels for lateral slides", ja: "強化膝頭と横スライド用サイドパネルを持つ厚パッドリベロ専用バレーボール膝パッド" },
+    price: "$24.99",
     links: [
       { network: "amazon-jp", productId: "B00C4Q8BBO", rawUrl: "https://www.amazon.co.jp/dp/B00C4Q8BBO", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00C4Q8BBO", rawUrl: "https://www.amazon.com/dp/B00C4Q8BBO", markets: ["US"], approved: true },
@@ -19743,6 +20625,7 @@ const RAW_CATALOG = [
     badge: "Best for Hitters and Setters",
     name: { en: "Nike Fundamentals Volleyball Knee Pad", ja: "Nike ファンダメンタルズ バレーボール膝パッド" },
     description: { en: "Thin-profile volleyball knee pad for front-row players who need jump freedom with minimal bulk", ja: "最小限の嵩でジャンプの自由が必要なフロントロー選手向けの薄型バレーボール膝パッド" },
+    price: "$28.00",
     links: [
       { network: "amazon-jp", productId: "B07RLTK9QK", rawUrl: "https://www.amazon.co.jp/dp/B07RLTK9QK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07RLTK9QK", rawUrl: "https://www.amazon.com/dp/B07RLTK9QK", markets: ["US"], approved: true },
@@ -19755,6 +20638,7 @@ const RAW_CATALOG = [
   {
     id: "tachikara-sv-5ws-volleyball-knee-pad",
     imageUrl: "https://onepremiersports.com/cdn/shop/products/81sbt0goc6l._ac_sl1500_2000x2000.jpg?v=1655752011",
+    price: "$30",
     category: "fitness",
     badge: "Best Budget Knee Pad",
     name: { en: "Tachikara Volleyball Knee Pad", ja: "Tachikara バレーボール膝パッド" },
@@ -19775,6 +20659,7 @@ const RAW_CATALOG = [
     badge: "Best Mid-Range Option",
     name: { en: "Wilson Volleyball Knee Pads", ja: "Wilson バレーボール膝パッド" },
     description: { en: "Mid-range EVA foam volleyball knee pads for competitive high school and adult recreational players", ja: "競技高校生と大人のレクリエーション選手向けの中価格帯EVAフォームバレーボール膝パッド" },
+    price: "$15.46",
     links: [
       { network: "amazon-jp", productId: "B07G4MT7QJ", rawUrl: "https://www.amazon.co.jp/dp/B07G4MT7QJ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07G4MT7QJ", rawUrl: "https://www.amazon.com/dp/B07G4MT7QJ", markets: ["US"], approved: true },
@@ -19792,6 +20677,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Chamomile",
     name: { en: "Alvita Organic Chamomile Tea", ja: "Alvita オーガニック カモミールティー" },
     description: { en: "Whole-flower organic chamomile tea with honey-apple aroma and full-bodied golden cup", ja: "蜂蜜リンゴの香りと豊かな金色カップのホールフラワーオーガニックカモミールティー" },
+    price: "$14.48",
     links: [
       { network: "amazon-jp", productId: "B000A38G9O", rawUrl: "https://www.amazon.co.jp/dp/B000A38G9O", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000A38G9O", rawUrl: "https://www.amazon.com/dp/B000A38G9O", markets: ["US"], approved: true },
@@ -19808,6 +20694,7 @@ const RAW_CATALOG = [
     badge: "Best Herbal-Grade Chamomile",
     name: { en: "Traditional Medicinals Chamomile Tea", ja: "Traditional Medicinals カモミール" },
     description: { en: "Pharmacopeial-quality chamomile with standardized apigenin content for consistent sleep and anxiety support", ja: "一貫した睡眠・不安サポートのための標準化アピゲニン含有量を持つ薬局方品質カモミール" },
+    price: "$9.69",
     links: [
       { network: "amazon-jp", productId: "B000GG0H5K", rawUrl: "https://www.amazon.co.jp/dp/B000GG0H5K", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000GG0H5K", rawUrl: "https://www.amazon.com/dp/B000GG0H5K", markets: ["US"], approved: true },
@@ -19824,6 +20711,7 @@ const RAW_CATALOG = [
     badge: "Best Chamomile Blend",
     name: { en: "Bigelow Benefits Chamomile Lavender Tea", ja: "Bigelow Benefits カモミールラベンダーティー" },
     description: { en: "Mass-market chamomile lavender blend with complementary floral notes, foil-wrapped and widely available", ja: "広く流通するアルミホイル包装のフローラルな香りを持つ大量生産カモミールラベンダーブレンド" },
+    price: "$5.49",
     links: [
       { network: "amazon-jp", productId: "B00028JMMK", rawUrl: "https://www.amazon.co.jp/dp/B00028JMMK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00028JMMK", rawUrl: "https://www.amazon.com/dp/B00028JMMK", markets: ["US"], approved: true },
@@ -19840,6 +20728,7 @@ const RAW_CATALOG = [
     badge: "Best Everyday Budget Chamomile",
     name: { en: "Celestial Seasonings Chamomile Tea", ja: "Celestial Seasonings カモミールティー" },
     description: { en: "Reliable everyday grocery store chamomile with mild floral sweetness for a consistent bedtime routine", ja: "一貫した就寝ルーティン向けの穏やかなフローラルな甘さを持つ信頼性の高い毎日のスーパーマーケットカモミール" },
+    price: "$7.89",
     links: [
       { network: "amazon-jp", productId: "B000GG0H0Y", rawUrl: "https://www.amazon.co.jp/dp/B000GG0H0Y", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000GG0H0Y", rawUrl: "https://www.amazon.com/dp/B000GG0H0Y", markets: ["US"], approved: true },
@@ -19856,6 +20745,7 @@ const RAW_CATALOG = [
     badge: "Best Chamomile with Citrus",
     name: { en: "Numi Organic Chamomile Lemon Tea", ja: "Numi オーガニック カモミールレモンティー" },
     description: { en: "Organic whole-flower chamomile with lemon verbena and lemon myrtle for a vibrant citrus-floral blend", ja: "鮮やかなシトラス・フローラルブレンドのためのレモンバーベナとレモンマートル入りオーガニックホールフラワーカモミール" },
+    price: "$8.99",
     links: [
       { network: "amazon-jp", productId: "B000GG0BNE", rawUrl: "https://www.amazon.co.jp/dp/B000GG0BNE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000GG0BNE", rawUrl: "https://www.amazon.com/dp/B000GG0BNE", markets: ["US"], approved: true },
@@ -19869,6 +20759,7 @@ const RAW_CATALOG = [
   {
     id: "adidas-predator-accuracy-fg",
     imageUrl: "https://citysoccerplus.ca/cdn/shop/products/image_fa6b2912-176d-4a87-a260-6e8fd30ba15b.webp?v=1675982380&width=600",
+    price: "$90",
     category: "fitness",
     badge: "Best Overall Soccer Cleat",
     name: { en: "Adidas Predator Accuracy FG", ja: "アディダス プレデター アキュラシー FG" },
@@ -19889,6 +20780,7 @@ const RAW_CATALOG = [
     badge: "Best Speed Cleat",
     name: { en: "Nike Mercurial Vapor 15 Elite FG", ja: "ナイキ マーキュリアル ヴェイパー 15 エリート FG" },
     description: { en: "Ultra-lightweight speed-optimized FG soccer cleat with Flyknit upper for forwards and attacking players", ja: "フォワードとアタッカー向けFlyknitsアッパーを持つ超軽量スピード最適化FGサッカースパイク" },
+    price: "$149.99",
     links: [
       { network: "amazon-jp", productId: "B0B5F3M3VJ", rawUrl: "https://www.amazon.co.jp/dp/B0B5F3M3VJ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0B5F3M3VJ", rawUrl: "https://www.amazon.com/dp/B0B5F3M3VJ", markets: ["US"], approved: true },
@@ -19917,6 +20809,7 @@ const RAW_CATALOG = [
   {
     id: "adidas-copa-pure-2-tf",
     imageUrl: "https://www.soccervillage.com/graphics/00000001/1/gw4560_g01.jpg",
+    price: "$80",
     category: "fitness",
     badge: "Best for Artificial Turf",
     name: { en: "Adidas Copa Pure 2 TF", ja: "アディダス コパ ピュア 2 TF" },
@@ -19937,6 +20830,7 @@ const RAW_CATALOG = [
     badge: "Best for Soft Ground / Wet Fields",
     name: { en: "Nike Premier 3 SG-Pro", ja: "ナイキ プレミア 3 SG-プロ" },
     description: { en: "Soft ground soccer cleat with replaceable screw-in metal studs for wet and muddy natural grass conditions", ja: "濡れた・泥だらけの天然芝コンディション向けの交換可能なねじ込み式金属スタッドを持つSGサッカースパイク" },
+    price: "$119.99",
     links: [
       { network: "amazon-jp", productId: "B07BFWTL5V", rawUrl: "https://www.amazon.co.jp/dp/B07BFWTL5V", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07BFWTL5V", rawUrl: "https://www.amazon.com/dp/B07BFWTL5V", markets: ["US"], approved: true },
@@ -19954,6 +20848,7 @@ const RAW_CATALOG = [
     badge: "Best Traditional Argentine Mate",
     name: { en: "Cruz de Malta Traditional Yerba Mate", ja: "Cruz de Malta トラディショナル マテ茶" },
     description: { en: "Classic Argentine yerba mate with stems included for authentic traditional preparation in gourd and bombilla", ja: "ゴーレドとボンビジャでの本物の伝統的な準備のための茎入りの定番アルゼンチンマテ茶" },
+    price: "$14.99",
     links: [
       { network: "amazon-jp", productId: "B00ET9LBSA", rawUrl: "https://www.amazon.co.jp/dp/B00ET9LBSA", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00ET9LBSA", rawUrl: "https://www.amazon.com/dp/B00ET9LBSA", markets: ["US"], approved: true },
@@ -19970,6 +20865,7 @@ const RAW_CATALOG = [
     badge: "Best Bold Flavor Mate",
     name: { en: "Rosamonte Especial Yerba Mate", ja: "Rosamonte エスペシャル マテ茶" },
     description: { en: "Intensely aged Argentine mate with deep earthy complexity for experienced mate drinkers who prefer bold flavor", ja: "大胆な風味を好む経験豊富なマテ飲み手向けの深い土っぽい複雑さを持つ強く熟成されたアルゼンチンマテ" },
+    price: "$12.99",
     links: [
       { network: "amazon-jp", productId: "B00LRFVT9E", rawUrl: "https://www.amazon.co.jp/dp/B00LRFVT9E", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00LRFVT9E", rawUrl: "https://www.amazon.com/dp/B00LRFVT9E", markets: ["US"], approved: true },
@@ -19986,6 +20882,7 @@ const RAW_CATALOG = [
     badge: "Best Green (Unsmoked) Mate",
     name: { en: "Anna Park Organic Green Yerba Mate", ja: "Anna Park オーガニック グリーン マテ茶" },
     description: { en: "Unsmoked organic yerba mate with lighter, more grassy character for those who find traditional smoked mate too harsh", ja: "伝統的な燻製マテが強すぎる方向けのより軽くより草っぽいキャラクターの非燻製オーガニックマテ茶" },
+    price: "$14.99",
     links: [
       { network: "amazon-jp", productId: "B01GBFFK8Q", rawUrl: "https://www.amazon.co.jp/dp/B01GBFFK8Q", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01GBFFK8Q", rawUrl: "https://www.amazon.com/dp/B01GBFFK8Q", markets: ["US"], approved: true },
@@ -20002,6 +20899,7 @@ const RAW_CATALOG = [
     badge: "Best Ethically Sourced Mate",
     name: { en: "Guayakí Traditional Loose Leaf Yerba Mate", ja: "Guayakí トラディショナル ルースリーフ マテ茶" },
     description: { en: "Fair trade organic mate from Atlantic Forest agroforestry for responsible sourcing with balanced flavor", ja: "均衡の取れた風味と責任あるソーシングのための大西洋森林アグロフォレストリーのフェアトレードオーガニックマテ" },
+    price: "$20.24",
     links: [
       { network: "amazon-jp", productId: "B003JL7BX8", rawUrl: "https://www.amazon.co.jp/dp/B003JL7BX8", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B003JL7BX8", rawUrl: "https://www.amazon.com/dp/B003JL7BX8", markets: ["US"], approved: true },
@@ -20018,6 +20916,7 @@ const RAW_CATALOG = [
     badge: "Best Uruguayan Style Mate",
     name: { en: "Canarias Yerba Mate", ja: "Canarias マテ茶" },
     description: { en: "Fine-cut stemless Uruguayan mate for experienced drinkers who prefer the stronger and more bitter regional style", ja: "より強くより苦い地域スタイルを好む経験豊富な飲み手向けの細かいカット茎なしウルグアイマテ" },
+    price: "$13.99",
     links: [
       { network: "amazon-jp", productId: "B00LEJQYCA", rawUrl: "https://www.amazon.co.jp/dp/B00LEJQYCA", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00LEJQYCA", rawUrl: "https://www.amazon.com/dp/B00LEJQYCA", markets: ["US"], approved: true },
@@ -20035,6 +20934,7 @@ const RAW_CATALOG = [
     badge: "Best Premium Basketball Shoe",
     name: { en: "Nike LeBron XXII", ja: "ナイキ レブロン XXII" },
     description: { en: "Max-cushion basketball shoe with Air Max heel and Zoom Air forefoot for power players and bigs", ja: "パワープレイヤーとビッグマン向けのエアマックスヒールとズームエアフォアフットを持つ最大クッションバスケットボールシューズ" },
+    price: "$180.00",
     links: [
       { network: "amazon-jp", productId: "B0CSFPWXHQ", rawUrl: "https://www.amazon.co.jp/dp/B0CSFPWXHQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0CSFPWXHQ", rawUrl: "https://www.amazon.com/dp/B0CSFPWXHQ", markets: ["US"], approved: true },
@@ -20047,6 +20947,7 @@ const RAW_CATALOG = [
   {
     id: "adidas-harden-vol-8",
     imageUrl: "https://www.shoebacca.com/cdn/shop/files/IG6589_1l.jpg?v=1771826402",
+    price: "$130",
     category: "fitness",
     badge: "Best Guard Basketball Shoe",
     name: { en: "Adidas Harden Vol. 8", ja: "アディダス ハーデン Vol. 8" },
@@ -20067,6 +20968,7 @@ const RAW_CATALOG = [
     badge: "Best Retro Court Shoe",
     name: { en: "New Balance BB550", ja: "ニューバランス BB550" },
     description: { en: "Retro-influenced low-top basketball shoe that performs on court for recreational play and transitions to casual use", ja: "レクリエーションプレイのコートで機能しカジュアルな使用へ移行するレトロの影響を受けたローカットバスケットボールシューズ" },
+    price: "$110.00",
     links: [
       { network: "amazon-jp", productId: "B0BQ9JHXLS", rawUrl: "https://www.amazon.co.jp/dp/B0BQ9JHXLS", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0BQ9JHXLS", rawUrl: "https://www.amazon.com/dp/B0BQ9JHXLS", markets: ["US"], approved: true },
@@ -20083,6 +20985,7 @@ const RAW_CATALOG = [
     badge: "Best Mid-Range Performance",
     name: { en: "Under Armour Curry 12", ja: "アンダーアーマー カリー 12" },
     description: { en: "Lightweight UA Flow cushioned basketball shoe with exceptional clean-court traction for guards and perimeter players", ja: "ガードとペリメータープレイヤー向けの卓越したクリーンコートトラクションを持つ軽量UAフロークッションバスケットボールシューズ" },
+    price: "$140.00",
     links: [
       { network: "amazon-jp", productId: "B0CSFK9DHB", rawUrl: "https://www.amazon.co.jp/dp/B0CSFK9DHB", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0CSFK9DHB", rawUrl: "https://www.amazon.com/dp/B0CSFK9DHB", markets: ["US"], approved: true },
@@ -20099,6 +21002,7 @@ const RAW_CATALOG = [
     badge: "Best Budget Performance Shoe",
     name: { en: "Nike Giannis Immortality 4", ja: "ナイキ ヤニス イモータリティ 4" },
     description: { en: "Budget performance basketball shoe with Air Strobel cushioning and herringbone traction from higher-end Nike models", ja: "上位ナイキモデルのエアストローベルクッションとヘリンボーントラクションを持つコスパパフォーマンスバスケットボールシューズ" },
+    price: "$85.00",
     links: [
       { network: "amazon-jp", productId: "B0CF3WKQGQ", rawUrl: "https://www.amazon.co.jp/dp/B0CF3WKQGQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0CF3WKQGQ", rawUrl: "https://www.amazon.com/dp/B0CF3WKQGQ", markets: ["US"], approved: true },
@@ -20116,6 +21020,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Ginger Tea",
     name: { en: "Traditional Medicinals Organic Ginger Tea", ja: "トラディショナルメディシナルズ オーガニックジンジャー" },
     description: { en: "Medicinal-grade whole-root organic ginger tea with consistent potency and genuine digestive support", ja: "一貫した効力と本物の消化サポートを持つ薬用グレードの全根オーガニックジンジャーティー" },
+    price: "$5.88",
     links: [
       { network: "amazon-jp", productId: "B000GG7VIE", rawUrl: "https://www.amazon.co.jp/dp/B000GG7VIE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000GG7VIE", rawUrl: "https://www.amazon.com/dp/B000GG7VIE", markets: ["US"], approved: true },
@@ -20128,6 +21033,7 @@ const RAW_CATALOG = [
     badge: "Best Everyday Ginger Tea",
     name: { en: "Stash Tea Premium Ginger", ja: "スタッシュティー プレミアムジンジャー" },
     description: { en: "Pyramid sachet ginger tea with genuine flavor and good value for daily drinking", ja: "本物の風味と毎日の飲用に優れたバリューを持つピラミッドサッシェジンジャーティー" },
+    price: "$5.49",
     links: [
       { network: "amazon-jp", productId: "B001E5DZ2M", rawUrl: "https://www.amazon.co.jp/dp/B001E5DZ2M", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B001E5DZ2M", rawUrl: "https://www.amazon.com/dp/B001E5DZ2M", markets: ["US"], approved: true },
@@ -20140,6 +21046,7 @@ const RAW_CATALOG = [
     badge: "Best Spice-Blend Ginger Tea",
     name: { en: "Yogi Tea Ginger", ja: "ヨギティー ジンジャー" },
     description: { en: "Ginger tea blended with black pepper for enhanced gingerol absorption and layered warming flavor", ja: "ジンゲロールの吸収を高めるために黒胡椒とブレンドされた層状の温かい風味のジンジャーティー" },
+    price: "$3.48",
     links: [
       { network: "amazon-jp", productId: "B000FOUHJG", rawUrl: "https://www.amazon.co.jp/dp/B000FOUHJG", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000FOUHJG", rawUrl: "https://www.amazon.com/dp/B000FOUHJG", markets: ["US"], approved: true },
@@ -20152,6 +21059,7 @@ const RAW_CATALOG = [
     badge: "Best Ginger-Citrus Blend",
     name: { en: "Bigelow Benefits Ginger & Lemon", ja: "ビゲロー ベネフィッツ ジンジャー＆レモン" },
     description: { en: "Approachable ginger-lemon blend with moderate spice intensity and foil-wrapped freshness protection", ja: "適度な辛味の強度とアルミホイル包装の鮮度保護を持つアクセスしやすいジンジャーレモンブレンド" },
+    price: "$3.52",
     links: [
       { network: "amazon-jp", productId: "B01MXBZ1F4", rawUrl: "https://www.amazon.co.jp/dp/B01MXBZ1F4", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01MXBZ1F4", rawUrl: "https://www.amazon.com/dp/B01MXBZ1F4", markets: ["US"], approved: true },
@@ -20164,6 +21072,7 @@ const RAW_CATALOG = [
     badge: "Best Premium Ginger Experience",
     name: { en: "Pukka Three Ginger Tea", ja: "パッカ スリージンジャーティー" },
     description: { en: "Premium organic ginger tea using three ginger preparations for complex layered flavor and maximum potency", ja: "複雑な層状の風味と最大効力のために3種類のショウガ製品を使用したプレミアムオーガニックジンジャーティー" },
+    price: "$9.99",
     links: [
       { network: "amazon-jp", productId: "B006FIVZGI", rawUrl: "https://www.amazon.co.jp/dp/B006FIVZGI", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B006FIVZGI", rawUrl: "https://www.amazon.com/dp/B006FIVZGI", markets: ["US"], approved: true },
@@ -20177,6 +21086,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Lemon Ginger Tea",
     name: { en: "Celestial Seasonings Lemon Ginger Tea", ja: "セレスティアルシーズニングス レモンジンジャーティー" },
     description: { en: "Balanced lemon ginger tea with genuine botanical lemon from lemongrass and lemon myrtle — consistent flavor for daily use", ja: "レモングラスとレモンマートルからの本物の植物性レモンを持つバランスのとれたレモンジンジャーティー——毎日の使用に一貫した風味" },
+    price: "$10.99",
     links: [
       { network: "amazon-jp", productId: "B000GG90FK", rawUrl: "https://www.amazon.co.jp/dp/B000GG90FK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000GG90FK", rawUrl: "https://www.amazon.com/dp/B000GG90FK", markets: ["US"], approved: true },
@@ -20189,6 +21099,7 @@ const RAW_CATALOG = [
     badge: "Best Medicinal-Grade Lemon Ginger",
     name: { en: "Traditional Medicinals Lemon Ginger Tea", ja: "トラディショナルメディシナルズ レモンジンジャー" },
     description: { en: "Whole-root organic ginger with real lemon peel and citrus extracts — high intensity for therapeutic use", ja: "本物のレモンの皮と柑橘エキスを持つ全根オーガニックショウガ——治療的使用のための高強度" },
+    price: "$5.32",
     links: [
       { network: "amazon-jp", productId: "B000FNDESQ", rawUrl: "https://www.amazon.co.jp/dp/B000FNDESQ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000FNDESQ", rawUrl: "https://www.amazon.com/dp/B000FNDESQ", markets: ["US"], approved: true },
@@ -20201,6 +21112,7 @@ const RAW_CATALOG = [
     badge: "Best Value Lemon Ginger Tea",
     name: { en: "Bigelow Lemon Ginger Herbal Tea", ja: "ビゲロー レモンジンジャー ハーブティー" },
     description: { en: "Foil-wrapped lemon ginger tea with tart citrus character and consistent quality for high-volume households", ja: "アルミホイル包装のタルトな柑橘キャラクターと高消費家庭への一貫した品質のレモンジンジャーティー" },
+    price: "$3.34",
     links: [
       { network: "amazon-jp", productId: "B000GG90IO", rawUrl: "https://www.amazon.co.jp/dp/B000GG90IO", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000GG90IO", rawUrl: "https://www.amazon.com/dp/B000GG90IO", markets: ["US"], approved: true },
@@ -20213,6 +21125,7 @@ const RAW_CATALOG = [
     badge: "Best Spice-Forward Lemon Ginger",
     name: { en: "Yogi Ginger Lemon Tea", ja: "ヨギ ジンジャーレモン" },
     description: { en: "Ginger-dominant lemon ginger blend with black pepper for absorption — warming morning tea or post-meal digestive", ja: "吸収のための黒胡椒を持つショウガ主体のレモンジンジャーブレンド——温かい朝のティーまたは食後の消化補助" },
+    price: "$3.48",
     links: [
       { network: "amazon-jp", productId: "B000FOUHJG", rawUrl: "https://www.amazon.co.jp/dp/B000FOUHJG", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000FOUHJG", rawUrl: "https://www.amazon.com/dp/B000FOUHJG", markets: ["US"], approved: true },
@@ -20225,6 +21138,7 @@ const RAW_CATALOG = [
     badge: "Best Premium Lemon Ginger Tea",
     name: { en: "Harney & Sons Lemon Ginger Tea", ja: "ハーニー＆サンズ レモンジンジャーティー" },
     description: { en: "Specialty-sourced whole-piece dried ginger with lemon myrtle leaf in biodegradable pyramid sachets", ja: "生分解可能なピラミッドサッシェに入った専門的に調達された全粒乾燥ショウガとレモンマートルの葉" },
+    price: "$9.45",
     links: [
       { network: "amazon-jp", productId: "B07G35DC7X", rawUrl: "https://www.amazon.co.jp/dp/B07G35DC7X", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07G35DC7X", rawUrl: "https://www.amazon.com/dp/B07G35DC7X", markets: ["US"], approved: true },
@@ -20238,6 +21152,7 @@ const RAW_CATALOG = [
     badge: "Best Doubles/Smash Racket",
     name: { en: "Yonex Astrox 88D Pro", ja: "ヨネックス アストロクス88D プロ" },
     description: { en: "Head-heavy extra-stiff doubles racket with Namd graphite for maximum smash power and steep angle shuttles", ja: "最大スマッシュパワーと急峻角のシャトルのためのNamdグラファイトを持つヘッドヘビー超硬ダブルスラケット" },
+    price: "$320.00",
     links: [
       { network: "amazon-jp", productId: "B09TWHVDGZ", rawUrl: "https://www.amazon.co.jp/dp/B09TWHVDGZ", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B09TWHVDGZ", rawUrl: "https://www.amazon.com/dp/B09TWHVDGZ", markets: ["US"], approved: true },
@@ -20250,6 +21165,7 @@ const RAW_CATALOG = [
     badge: "Best Singles/Speed Racket",
     name: { en: "Yonex Nanoflare 800", ja: "ヨネックス ナノフレア800" },
     description: { en: "Head-light aerodynamic singles racket for fast recovery, long rallies, and precise net play", ja: "素早いリカバリー・長いラリー・精確なネットプレーのためのヘッドライト空力シングルスラケット" },
+    price: "$310.00",
     links: [
       { network: "amazon-jp", productId: "B0983Y1MXK", rawUrl: "https://www.amazon.co.jp/dp/B0983Y1MXK", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B0983Y1MXK", rawUrl: "https://www.amazon.com/dp/B0983Y1MXK", markets: ["US"], approved: true },
@@ -20262,6 +21178,7 @@ const RAW_CATALOG = [
     badge: "Best Premium Alternative to Yonex",
     name: { en: "Victor Thruster K 9900", ja: "ビクター スラスターK 9900" },
     description: { en: "Competition-level head-heavy doubles racket with Pyrofil carbon at lower cost than equivalent Yonex flagship", ja: "ヨネックスの同等フラッグシップより低コストのPyrofilカーボンを持つ競技レベルのヘッドヘビーダブルスラケット" },
+    price: "$185.00",
     links: [
       { network: "amazon-jp", productId: "B07BQGQKW7", rawUrl: "https://www.amazon.co.jp/dp/B07BQGQKW7", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07BQGQKW7", rawUrl: "https://www.amazon.com/dp/B07BQGQKW7", markets: ["US"], approved: true },
@@ -20274,6 +21191,7 @@ const RAW_CATALOG = [
     badge: "Best All-Around Control Racket",
     name: { en: "Yonex Arcsaber 11", ja: "ヨネックス アークセイバー11" },
     description: { en: "Even-balanced medium-stiff control racket for consistent placement and versatile singles/doubles play", ja: "一貫した配置と多目的なシングルス/ダブルスプレーのための均等バランスのミディアムハードコントロールラケット" },
+    price: "$284.99",
     links: [
       { network: "amazon-jp", productId: "B005P1Y2DE", rawUrl: "https://www.amazon.co.jp/dp/B005P1Y2DE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B005P1Y2DE", rawUrl: "https://www.amazon.com/dp/B005P1Y2DE", markets: ["US"], approved: true },
@@ -20286,6 +21204,7 @@ const RAW_CATALOG = [
     badge: "Best Two-Sided Design Racket",
     name: { en: "Yonex Duora 10", ja: "ヨネックス デュオラ10" },
     description: { en: "Asymmetric frame with different forehand/backhand geometries for optimized power and quick drive shots", ja: "最適化されたパワーと素早いドライブショットのための異なるフォアハンド/バックハンド形状を持つ非対称フレーム" },
+    price: "$180.00",
     links: [
       { network: "amazon-jp", productId: "B01FXKFPV4", rawUrl: "https://www.amazon.co.jp/dp/B01FXKFPV4", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01FXKFPV4", rawUrl: "https://www.amazon.com/dp/B01FXKFPV4", markets: ["US"], approved: true },
@@ -20299,6 +21218,7 @@ const RAW_CATALOG = [
     badge: "Best Competition Wrestling Shoe",
     name: { en: "ASICS Cael V9.0", ja: "アシックス ケイエル V9.0" },
     description: { en: "Top-tier competition wrestling shoe with split outsole, under-6oz weight, and ankle stabilizing system", ja: "スプリットアウトソール・6オンス以下の重量・足首安定化システムを持つトップティア競技レスリングシューズ" },
+    price: "$120.00",
     links: [
       { network: "amazon-jp", productId: "B07BXHVZ5K", rawUrl: "https://www.amazon.co.jp/dp/B07BXHVZ5K", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07BXHVZ5K", rawUrl: "https://www.amazon.com/dp/B07BXHVZ5K", markets: ["US"], approved: true },
@@ -20311,6 +21231,7 @@ const RAW_CATALOG = [
     badge: "Best Value Wrestling Shoe",
     name: { en: "ASICS Matflex 6", ja: "アシックス マットフレックス 6" },
     description: { en: "Entry-level wrestling shoe with rubber cupsole grip and high-cut ankle support for practice and beginner competition", ja: "練習と初心者競技のためのゴムカップソールグリップとハイカット足首サポートを持つエントリーレベルレスリングシューズ" },
+    price: "$55.00",
     links: [
       { network: "amazon-jp", productId: "B01N9PVH5L", rawUrl: "https://www.amazon.co.jp/dp/B01N9PVH5L", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01N9PVH5L", rawUrl: "https://www.amazon.com/dp/B01N9PVH5L", markets: ["US"], approved: true },
@@ -20323,6 +21244,7 @@ const RAW_CATALOG = [
     badge: "Best Nike Wrestling Shoe",
     name: { en: "Nike Speedsweep VII", ja: "ナイキ スピードスウィープ VII" },
     description: { en: "Nike's foundational wrestling shoe built for lateral quickness and mat feel with adjustable Velcro ankle strap", ja: "調整可能なベルクロ足首ストラップを持つ横方向の素早さとマットフィールのために構築されたナイキの基礎的なレスリングシューズ" },
+    price: "$63.00",
     links: [
       { network: "amazon-jp", productId: "B076FNYBND", rawUrl: "https://www.amazon.co.jp/dp/B076FNYBND", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B076FNYBND", rawUrl: "https://www.amazon.com/dp/B076FNYBND", markets: ["US"], approved: true },
@@ -20331,6 +21253,7 @@ const RAW_CATALOG = [
   {
     id: "adidas-adizero-varner-wrestling",
     imageUrl: "https://www.bluechipwrestling.com/cdn/shop/products/adizero_varner_grey-royal-white-min_2000x.jpg?v=1570591549",
+    price: "$85",
     category: "fitness",
     badge: "Best Lightweight Wrestling Shoe",
     name: { en: "Adidas Adizero Varner", ja: "アディダス アディゼロ バーナー" },
@@ -20347,6 +21270,7 @@ const RAW_CATALOG = [
     badge: "Best Mid-Range Wrestling Shoe",
     name: { en: "ASICS Split Second 9", ja: "アシックス スプリットセカンド 9" },
     description: { en: "Mid-range wrestling shoe with split outsole for better mat feel and multi-layer upper for durability", ja: "より良いマットフィールのためのスプリットアウトソールと耐久性のためのマルチレイヤーアッパーを持つ中価格帯レスリングシューズ" },
+    price: "$75.00",
     links: [
       { network: "amazon-jp", productId: "B01NAH9ESN", rawUrl: "https://www.amazon.co.jp/dp/B01NAH9ESN", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01NAH9ESN", rawUrl: "https://www.amazon.com/dp/B01NAH9ESN", markets: ["US"], approved: true },
@@ -20360,6 +21284,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Granola",
     name: { en: "Bob's Red Mill Old Fashioned Granola", ja: "Bob's Red Mill オールドファッション・グラノーラ" },
     description: { en: "Whole grain rolled oats granola with honey and brown sugar, clean ingredients, consistent clusters", ja: "全粒ロールドオーツ使用、ハチミツとブラウンシュガーのグラノーラ。素材クリーンで安定したクラスター" },
+    price: "$6.48",
     links: [
       { network: "amazon-jp", productId: "B07G4Y8HJH", rawUrl: "https://www.amazon.co.jp/dp/B07G4Y8HJH", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07G4Y8HJH", rawUrl: "https://www.amazon.com/dp/B07G4Y8HJH", markets: ["US"], approved: true },
@@ -20372,6 +21297,7 @@ const RAW_CATALOG = [
     badge: "Best Clusters Granola",
     name: { en: "KIND Healthy Grains Granola", ja: "KIND ヘルシーグレインズ グラノーラ" },
     description: { en: "Multi-grain cluster granola with oats, quinoa, millet, amaranth, and toasted coconut", ja: "オーツ・キノア・キビ・アマランサス・トーストコアのマルチグレイン・クラスターグラノーラ" },
+    price: "$8.99",
     links: [
       { network: "amazon-jp", productId: "B00BWSRBOE", rawUrl: "https://www.amazon.co.jp/dp/B00BWSRBOE", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00BWSRBOE", rawUrl: "https://www.amazon.com/dp/B00BWSRBOE", markets: ["US"], approved: true },
@@ -20396,6 +21322,7 @@ const RAW_CATALOG = [
     badge: "Best Premium Granola",
     name: { en: "Purely Elizabeth Ancient Grain Granola", ja: "Purely Elizabeth アンシェントグレイン グラノーラ" },
     description: { en: "Gluten-free granola with coconut sugar, coconut oil, and ancient grains quinoa, millet, amaranth", ja: "グルテンフリー認証。ヤシ砂糖・ヤシ油・アンシェントグレイン（キノア・キビ・アマランサス）使用" },
+    price: "$9.99",
     links: [
       { network: "amazon-jp", productId: "B007KOFZAM", rawUrl: "https://www.amazon.co.jp/dp/B007KOFZAM", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B007KOFZAM", rawUrl: "https://www.amazon.com/dp/B007KOFZAM", markets: ["US"], approved: true },
@@ -20408,6 +21335,7 @@ const RAW_CATALOG = [
     badge: "Best Organic Granola",
     name: { en: "Cascadian Farm Organic Granola", ja: "Cascadian Farm オーガニック グラノーラ" },
     description: { en: "USDA organic certified granola with organic oats, honey, and sunflower oil", ja: "有機オーツ・有機ハチミツ・有機ひまわり油使用のUSDAオーガニック認証グラノーラ" },
+    price: "$12.75",
     links: [
       { network: "amazon-jp", productId: "B000N7XBFW", rawUrl: "https://www.amazon.co.jp/dp/B000N7XBFW", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B000N7XBFW", rawUrl: "https://www.amazon.com/dp/B000N7XBFW", markets: ["US"], approved: true },
@@ -20421,6 +21349,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Pre-Workout",
     name: { en: "Transparent Labs BULK Pre-Workout", ja: "Transparent Labs BULK プレワークアウト" },
     description: { en: "Fully disclosed pre-workout with clinically dosed citrulline 8g, beta-alanine 4g, betaine 2.5g, caffeine 200mg + L-theanine 200mg", ja: "シトルリン8g・ベータアラニン4g・ベタイン2.5g・カフェイン200mg＋L-テアニン200mgの完全開示プレワークアウト" },
+    price: "$49.99",
     links: [
       { network: "amazon-jp", productId: "B01MUQWL5K", rawUrl: "https://www.amazon.co.jp/dp/B01MUQWL5K", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B01MUQWL5K", rawUrl: "https://www.amazon.com/dp/B01MUQWL5K", markets: ["US"], approved: true },
@@ -20429,6 +21358,7 @@ const RAW_CATALOG = [
   {
     id: "legion-pulse-pre-workout",
     imageUrl: "https://bipfit.com/cdn/shop/products/81YLzQgr1IL.jpg?v=1571624692",
+    price: "$39.99",
     category: "fitness",
     badge: "Best Stimulant-Free Option",
     name: { en: "Legion Pulse Pre-Workout", ja: "Legion Pulse プレワークアウト" },
@@ -20445,6 +21375,7 @@ const RAW_CATALOG = [
     badge: "Best Mainstream Pre-Workout",
     name: { en: "Optimum Nutrition Gold Standard Pre-Workout", ja: "Optimum Nutrition ゴールドスタンダード プレワークアウト" },
     description: { en: "Entry-level pre-workout from the most trusted supplement brand, 175mg caffeine, creatine, beta-alanine", ja: "最信頼のサプリブランドのエントリーレベルプレワークアウト。カフェイン175mg・クレアチン・ベータアラニン配合" },
+    price: "$29.99",
     links: [
       { network: "amazon-jp", productId: "B00JWMX4V4", rawUrl: "https://www.amazon.co.jp/dp/B00JWMX4V4", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00JWMX4V4", rawUrl: "https://www.amazon.com/dp/B00JWMX4V4", markets: ["US"], approved: true },
@@ -20457,6 +21388,7 @@ const RAW_CATALOG = [
     badge: "Best Entry-Level Pre-Workout",
     name: { en: "C4 Original Pre-Workout", ja: "C4 オリジナル プレワークアウト" },
     description: { en: "Best-selling beginner pre-workout with 150mg caffeine and beta-alanine for a clean, manageable energy boost", ja: "カフェイン150mgとベータアラニン配合のベストセラー入門プレワークアウト" },
+    price: "$29.84",
     links: [
       { network: "amazon-jp", productId: "B00E8YHHCM", rawUrl: "https://www.amazon.co.jp/dp/B00E8YHHCM", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00E8YHHCM", rawUrl: "https://www.amazon.com/dp/B00E8YHHCM", markets: ["US"], approved: true },
@@ -20469,6 +21401,7 @@ const RAW_CATALOG = [
     badge: "Best Flavor Pre-Workout",
     name: { en: "Ghost Legend Pre-Workout", ja: "Ghost Legend プレワークアウト" },
     description: { en: "Licensed candy-brand flavors with transparent labeling, 250mg caffeine, citrulline 4g, beta-alanine 3.2g", ja: "ライセンスキャンディフレーバー・透明ラベル・カフェイン250mg・シトルリン4g・ベータアラニン3.2g" },
+    price: "$44.99",
     links: [
       { network: "amazon-jp", productId: "B07F4RLS1V", rawUrl: "https://www.amazon.co.jp/dp/B07F4RLS1V", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B07F4RLS1V", rawUrl: "https://www.amazon.com/dp/B07F4RLS1V", markets: ["US"], approved: true },
@@ -20481,6 +21414,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Dark Chocolate",
     name: { en: "Lindt Excellence 90% Cocoa Bar", ja: "リンツ エクセレンス 90% カカオ" },
     description: { en: "Intensely dark Swiss chocolate with a clean ingredient list: cocoa mass, cocoa butter, sugar, bourbon vanilla.", ja: "カカオ90%の濃厚なスイスチョコレート。シンプルな原材料：カカオマス・カカオバター・砂糖・バニラ。" },
+    price: "$4.99",
     links: [
       { network: "amazon-jp", productId: "B00G6NHK6Y", rawUrl: "https://www.amazon.co.jp/dp/B00G6NHK6Y", markets: ["JP"], approved: true },
       { network: "amazon-us", productId: "B00G6NHK6Y", rawUrl: "https://www.amazon.com/dp/B00G6NHK6Y", markets: ["US", "EU", "global"], approved: true },
@@ -20492,6 +21426,7 @@ const RAW_CATALOG = [
     badge: "Best Budget Dark Chocolate",
     name: { en: "Ghirardelli Intense Dark Midnight Reverie 86%", ja: "ギラデリ インテンスダーク ミッドナイトリヴェリー 86%" },
     description: { en: "Widely available 86% bar with complex bittersweet notes. Great for baking or snacking.", ja: "入手しやすい86%バー。複雑な苦甘さ。製菓・間食両用。" },
+    price: "$4.29",
     links: [
       { network: "amazon-us", productId: "B000WQTQCQ", rawUrl: "https://www.amazon.com/dp/B000WQTQCQ", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20502,6 +21437,7 @@ const RAW_CATALOG = [
     badge: "Best Organic Dark Chocolate",
     name: { en: "Green & Black's Organic Dark 85%", ja: "グリーン＆ブラックス オーガニックダーク 85%" },
     description: { en: "Fairtrade organic cacao, smooth melt, notes of raisin and cherry. B-Corp certified.", ja: "フェアトレード有機カカオ使用。なめらかな口溶けとレーズン・チェリー風味。B Corp認証。" },
+    price: "$4.49",
     links: [
       { network: "amazon-us", productId: "B07HMLXYRR", rawUrl: "https://www.amazon.com/dp/B07HMLXYRR", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20512,6 +21448,7 @@ const RAW_CATALOG = [
     badge: "Best Bean-to-Bar Dark Chocolate",
     name: { en: "Theo Chocolate Organic 85% Dark Bar", ja: "テオ チョコレート オーガニック 85% ダークバー" },
     description: { en: "Seattle bean-to-bar craft chocolate with fair-trade Congo cacao. Notes of dried cherry and walnut.", ja: "フェアトレードコンゴカカオ使用のシアトル産クラフトチョコ。ドライチェリーとクルミの風味。" },
+    price: "$5.99",
     links: [
       { network: "amazon-us", productId: "B007M3KOXO", rawUrl: "https://www.amazon.com/dp/B007M3KOXO", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20519,6 +21456,7 @@ const RAW_CATALOG = [
   {
     id: "alter-eco-deep-dark-blackout-85", imageUrl: "https://www.alterecofoods.com/cdn/shop/files/ClassicBlackoutmain_1800x1800.png?v=1695416822",
     category: "food",
+    price: "$3.99",
     badge: "Best Vegan Dark Chocolate",
     name: { en: "Alter Eco Deep Dark Blackout 85%", ja: "オルターエコ ディープダーク ブラックアウト 85%" },
     description: { en: "Vegan, organic, fair-trade dark chocolate with compostable packaging.", ja: "ビーガン・有機・フェアトレードダークチョコ。堆肥化可能なパッケージ。" },
@@ -20533,6 +21471,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Glute Band",
     name: { en: "Victorem Hip Resistance Bands", ja: "Victorem ヒップレジスタンスバンド" },
     description: { en: "Fabric loop bands in 3 resistance levels. Non-slip grip prevents rolling during hip thrusts and squats.", ja: "3段階負荷のファブリックループバンド。ヒップスラスト・スクワット中にずれない滑り止めグリップ。" },
+    price: "$24.99",
     links: [
       { network: "amazon-us", productId: "B07NTJPHG1", rawUrl: "https://www.amazon.com/dp/B07NTJPHG1", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20543,6 +21482,7 @@ const RAW_CATALOG = [
     badge: "Best Value Glute Band Set",
     name: { en: "Fit Simplify Resistance Loop Exercise Bands", ja: "フィットシンプリファイ レジスタンスループバンド" },
     description: { en: "5-band latex set from extra-light to extra-heavy. Bestselling set for glute activation and warm-ups.", ja: "極軽〜極重5段階ラテックスバンドセット。臀部活性化・ウォームアップのベストセラー。" },
+    price: "$20.95",
     links: [
       { network: "amazon-us", productId: "B01AVDVHTI", rawUrl: "https://www.amazon.com/dp/B01AVDVHTI", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20553,6 +21493,7 @@ const RAW_CATALOG = [
     badge: "Best Fabric Glute Band Set",
     name: { en: "Peach Bands Resistance Bands Set", ja: "ピーチバンズ レジスタンスバンドセット" },
     description: { en: "3-piece fabric booty band set. Wider band prevents digging into skin during heavy hip thrusts.", ja: "3本セット布製ヒップバンド。幅広設計でヘビーヒップスラスト中の食い込みを防止。" },
+    price: "$24.95",
     links: [
       { network: "amazon-us", productId: "B08WFCXH6Y", rawUrl: "https://www.amazon.com/dp/B08WFCXH6Y", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20563,6 +21504,7 @@ const RAW_CATALOG = [
     badge: "Best PT-Grade Glute Band",
     name: { en: "TheraBand Professional Resistance Band Loop", ja: "セラバンド プロフェッショナル レジスタンスバンドループ" },
     description: { en: "Clinic-grade latex loop used in sports medicine and PT. Color-coded resistance levels standardized across healthcare settings.", ja: "スポーツ医学・理学療法で使用するクリニックグレードのラテックスループ。医療現場で標準化された色分け負荷。" },
+    price: "$19.98",
     links: [
       { network: "amazon-us", productId: "B000LBXFLI", rawUrl: "https://www.amazon.com/dp/B000LBXFLI", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20573,6 +21515,7 @@ const RAW_CATALOG = [
     badge: "Best Premium Glute Band",
     name: { en: "Gymshark Resistance Band", ja: "ジムシャーク レジスタンスバンド" },
     description: { en: "Premium fabric band from the UK fitness brand. Durable knit construction, color-matched to Gymshark apparel.", ja: "人気UKフィットネスブランドのプレミアムファブリックバンド。耐久ニット構造でウェアとカラーコーデ可能。" },
+    price: "$20.00",
     links: [
       { network: "amazon-us", productId: "B08GH4C2VN", rawUrl: "https://www.amazon.com/dp/B08GH4C2VN", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20584,6 +21527,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Almond Butter",
     name: { en: "Justin's Classic Almond Butter", ja: "ジャスティンズ クラシックアーモンドバター" },
     description: { en: "Two ingredients: dry-roasted almonds and palm oil. Creamy texture, mild roast flavor, no stir required.", ja: "原材料2つ：ドライロースト アーモンドとパーム油。クリーミーな食感・マイルドなロースト風味・混ぜ不要。" },
+    price: "$12.99",
     links: [
       { network: "amazon-us", productId: "B002TBZPQQ", rawUrl: "https://www.amazon.com/dp/B002TBZPQQ", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20594,6 +21538,7 @@ const RAW_CATALOG = [
     badge: "Best Natural Almond Butter",
     name: { en: "Barney Butter Bare Almond Butter", ja: "バーニーバター ベアアーモンドバター" },
     description: { en: "Single ingredient: blanched almonds. Blanching removes skins for a smoother, milder flavor than skin-on almond butters.", ja: "原材料1つ：ブランチドアーモンド。皮を除去することで、皮付きより滑らかでマイルドな風味を実現。" },
+    price: "$13.99",
     links: [
       { network: "amazon-us", productId: "B00AGWAHPC", rawUrl: "https://www.amazon.com/dp/B00AGWAHPC", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20604,6 +21549,7 @@ const RAW_CATALOG = [
     badge: "Best Flavored Almond Butter",
     name: { en: "Wild Friends Classic Creamy Almond Butter", ja: "ワイルドフレンズ クラシッククリーミーアーモンドバター" },
     description: { en: "Stone-ground almonds with minimal ingredients, no palm oil. Lighter texture than standard jar butters, slight sweet aftertaste.", ja: "石臼挽きアーモンド・最小限の原材料・パーム油不使用。標準バターより軽い食感と微かな甘い後味。" },
+    price: "$15.50",
     links: [
       { network: "amazon-us", productId: "B07CSWFBDD", rawUrl: "https://www.amazon.com/dp/B07CSWFBDD", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20614,6 +21560,7 @@ const RAW_CATALOG = [
     badge: "Best Organic Almond Butter",
     name: { en: "Artisana Organics Raw Almond Butter", ja: "アルティサナ オーガニクス ロウアーモンドバター" },
     description: { en: "Raw (not roasted) organic almonds. Thicker consistency, stronger natural almond flavor. Single ingredient, USDA certified organic.", ja: "非加熱（ロースト不使用）オーガニックアーモンド。濃厚なコンシステンシーと強いアーモンド本来の風味。単一原材料・USDA有機認証。" },
+    price: "$21.28",
     links: [
       { network: "amazon-us", productId: "B000WQTOPG", rawUrl: "https://www.amazon.com/dp/B000WQTOPG", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20624,6 +21571,7 @@ const RAW_CATALOG = [
     badge: "Best No-Stir Almond Butter",
     name: { en: "MaraNatha No-Stir Creamy Almond Butter", ja: "マラナサ ノースター クリーミーアーモンドバター" },
     description: { en: "Emulsified for permanent no-stir consistency. Natural almond flavor with slightly added salt and sugar. The supermarket staple for daily spreading.", ja: "混ぜ不要の永続的なクリーミーさを実現するために乳化処理済み。自然なアーモンド風味に少量の塩と砂糖。毎日のトースト用スーパー定番品。" },
+    price: "$9.99",
     links: [
       { network: "amazon-us", productId: "B001E5DPD8", rawUrl: "https://www.amazon.com/dp/B001E5DPD8", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20635,6 +21583,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Adjustable Kettlebell",
     name: { en: "Bowflex SelectTech 840 Kettlebell", ja: "ボウフレックス セレクトテック 840 ケトルベル" },
     description: { en: "6-weight adjustable from 8 to 40 lbs via a turn-dial mechanism. Full cast-iron feel with a wide handle for two-handed swings.", ja: "ダイヤル操作で8〜40lbsの6段階調整。全キャスト鉄の感触と両手スイング対応のワイドハンドル。" },
+    price: "$150.00",
     links: [
       { network: "amazon-us", productId: "B07DCNHQQ5", rawUrl: "https://www.amazon.com/dp/B07DCNHQQ5", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20645,6 +21594,7 @@ const RAW_CATALOG = [
     badge: "Best Compact Adjustable Kettlebell",
     name: { en: "PowerBlock Sport Adjustable Kettlebell", ja: "パワーブロック スポーツ アジャスタブル ケトルベル" },
     description: { en: "Block-style design replaces 8 kettlebells. 35 lbs total adjustable. Perforated steel shell, square base doesn't roll.", ja: "8個のケトルベルを代替するブロックスタイル。合計35lbs調整可能。穿孔スチールシェル・転がらない正方形ベース。" },
+    price: "$199.00",
     links: [
       { network: "amazon-us", productId: "B07WX8XMQG", rawUrl: "https://www.amazon.com/dp/B07WX8XMQG", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20655,6 +21605,7 @@ const RAW_CATALOG = [
     badge: "Best Gym-Quality Adjustable Kettlebell",
     name: { en: "REP Fitness Adjustable Kettlebell", ja: "REP フィットネス アジャスタブル ケトルベル" },
     description: { en: "0.5 lb increments up to 70 lbs. Traditional round bell shape with a standard-width handle. The adjustable option closest to a fixed competition bell.", ja: "0.5lb刻みで最大70lbsまで調整可能。標準幅ハンドル付き従来の丸型ベル形状。固定式コンペティションベルに最も近い調整可能オプション。" },
+    price: "$159.99",
     links: [
       { network: "amazon-us", productId: "B07FZPP2KY", rawUrl: "https://www.amazon.com/dp/B07FZPP2KY", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20665,6 +21616,7 @@ const RAW_CATALOG = [
     badge: "Best Budget Adjustable Kettlebell",
     name: { en: "Apex Adjustable Kettle Ball", ja: "エーペックス アジャスタブル ケトルボール" },
     description: { en: "Plate-loaded design with standard olympic plates. Adjusts from 20 to 50 lbs. Most affordable entry point for adjustable kettlebell training.", ja: "標準オリンピックプレート装着式設計。20〜50lbsに調整可能。アジャスタブルケトルベルトレーニングへの最もリーズナブルなエントリーポイント。" },
+    price: "$59.99",
     links: [
       { network: "amazon-us", productId: "B004YSSGE6", rawUrl: "https://www.amazon.com/dp/B004YSSGE6", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20675,6 +21627,7 @@ const RAW_CATALOG = [
     badge: "Best Dumbbell-to-Kettlebell Converter",
     name: { en: "Kettle Gryp Adjustable Kettlebell", ja: "ケトルグリップ アジャスタブルケトルベル" },
     description: { en: "Clamps onto any dumbbell handle to create a kettlebell grip. Portable travel solution for 15–55 lb dumbbells. Weighs 1 lb itself.", ja: "任意のダンベルハンドルに装着してケトルベルグリップを作成。15〜55lbダンベル対応の携帯用トラベルソリューション。本体重量1lb。" },
+    price: "$34.95",
     links: [
       { network: "amazon-us", productId: "B00XYYLP2A", rawUrl: "https://www.amazon.com/dp/B00XYYLP2A", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20686,6 +21639,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Oat Milk",
     name: { en: "Oatly Oat-Drink Original", ja: "オートリー オーツドリンク オリジナル" },
     description: { en: "The brand that mainstreamed oat milk globally. Clean oat flavor, creamy texture, fortified with calcium and vitamins. The benchmark for the category.", ja: "オーツミルクを世界に広めたブランド。クリーンなオーツ風味・クリーミーな食感・カルシウム＆ビタミン強化。カテゴリーのベンチマーク。" },
+    price: "$5.99",
     links: [
       { network: "amazon-us", productId: "B07PKZNGGR", rawUrl: "https://www.amazon.com/dp/B07PKZNGGR", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20696,6 +21650,7 @@ const RAW_CATALOG = [
     badge: "Best Oat Milk for Coffee",
     name: { en: "Oatly Barista Edition Oat Milk", ja: "オートリー バリスタエディション オーツミルク" },
     description: { en: "High-fat formula designed to steam and froth like dairy. Creates microfoam for lattes. The standard choice in specialty coffee shops.", ja: "乳製品と同様に蒸気泡立てができる高脂肪フォーミュラ。ラテ用のマイクロフォームを生成。スペシャルティコーヒーショップの定番。" },
+    price: "$4.67",
     links: [
       { network: "amazon-us", productId: "B07X9GBJGD", rawUrl: "https://www.amazon.com/dp/B07X9GBJGD", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20706,6 +21661,7 @@ const RAW_CATALOG = [
     badge: "Best Budget Oat Milk",
     name: { en: "Planet Oat Extra Creamy Oat Milk", ja: "プラネットオーツ エクストラクリーミー オーツミルク" },
     description: { en: "Widely available US brand with a richer body than standard oat milks. Non-GMO, gluten-free certified. Best value in the mainstream oat milk segment.", ja: "豊かなコクを持つ広く入手可能な米国ブランド。Non-GMO・グルテンフリー認証。主流オーツミルクセグメントの最良コスパ。" },
+    price: "$3.38",
     links: [
       { network: "amazon-us", productId: "B07YPQF38T", rawUrl: "https://www.amazon.com/dp/B07YPQF38T", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20716,6 +21672,7 @@ const RAW_CATALOG = [
     badge: "Best Barista Oat Milk Runner-Up",
     name: { en: "Califia Farms Better Half Oat Creamer", ja: "カリフィア ファームズ ベターハーフ オーツクリーマー" },
     description: { en: "Blended oat and coconut cream for a richer, slightly sweeter profile than pure oat milks. Popular for cold coffee drinks and cereal.", ja: "オーツとコナッツクリームをブレンドし、純粋なオーツミルクより濃厚でほんのり甘いプロファイル。コールドコーヒーやシリアルに人気。" },
+    price: "$5.49",
     links: [
       { network: "amazon-us", productId: "B07N8Y2MNX", rawUrl: "https://www.amazon.com/dp/B07N8Y2MNX", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20726,6 +21683,7 @@ const RAW_CATALOG = [
     badge: "Best Clean-Ingredient Oat Milk",
     name: { en: "Elmhurst 1925 Oat Milk", ja: "エルムハースト 1925 オーツミルク" },
     description: { en: "Minimal ingredients: oats, water, sea salt. No added oils, gums, or emulsifiers. The purist choice for those avoiding additives found in most oat milks.", ja: "最小限の原材料：オーツ・水・海塩。添加油・ガム・乳化剤なし。多くのオーツミルクに含まれる添加物を避けたい純粋主義者の選択。" },
+    price: "$7.58",
     links: [
       { network: "amazon-us", productId: "B07GXWKV5V", rawUrl: "https://www.amazon.com/dp/B07GXWKV5V", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20737,6 +21695,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Weightlifting Shoe",
     name: { en: "Nike Romaleos 4 Weightlifting Shoes", ja: "ナイキ ロマレオス 4 ウエイトリフティングシューズ" },
     description: { en: "22mm heel elevation, wide toe box, dual strap closure. Competition-standard shoe for Olympic weightlifting and powerlifting squats.", ja: "22mmヒールエレベーション・ワイドトゥボックス・デュアルストラップクロージャー。オリンピックリフティング＆パワーリフティングスクワット対応の競技標準シューズ。" },
+    price: "$200.00",
     links: [
       { network: "amazon-us", productId: "B08KY4JL7B", rawUrl: "https://www.amazon.com/dp/B08KY4JL7B", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20744,6 +21703,7 @@ const RAW_CATALOG = [
   {
     id: "adidas-adipower-3-weightlifting", imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Shoes/Weightlifting%20Shoes/Adidas/IH8232/IH8232-H_un7ulh.png",
     category: "fitness",
+    price: "$230",
     badge: "Best for Olympic Lifting",
     name: { en: "Adidas Adipower 3 Weightlifting Shoes", ja: "アディダス アディパワー 3 ウエイトリフティングシューズ" },
     description: { en: "24mm heel-to-toe drop, TPU heel counter, single strap. Preferred by many national team weightlifters for snatches and clean & jerks.", ja: "24mmヒールドロップ・TPUヒールカウンター・シングルストラップ。スナッチ＆クリーン&ジャークで多くの代表選手に愛用されている。" },
@@ -20757,6 +21717,7 @@ const RAW_CATALOG = [
     badge: "Best for CrossFit and Lifting",
     name: { en: "Reebok Legacy Lifter 3", ja: "リーボック レガシーリフター 3" },
     description: { en: "Versatile lifting shoe with 22mm heel, wide forefoot for power movements. Popular in CrossFit for combining lifting stability with some flexibility.", ja: "パワー動作向けの22mmヒール・ワイドフォアフット対応の汎用リフティングシューズ。リフティング安定性と柔軟性を兼ね備えクロスフィットで人気。" },
+    price: "$220.00",
     links: [
       { network: "amazon-us", productId: "B09D73NVHK", rawUrl: "https://www.amazon.com/dp/B09D73NVHK", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20767,6 +21728,7 @@ const RAW_CATALOG = [
     badge: "Best Lightweight Weightlifting Shoe",
     name: { en: "Inov-8 Fastlift Power G 380", ja: "イノヴエイト ファストリフト パワー G380" },
     description: { en: "Graphene-enhanced outsole, 20mm heel elevation, lightest competition-viable lifting shoe. For lifters who want minimal weight without sacrificing heel height.", ja: "グラフェン強化アウトソール・20mmヒールエレベーション・最軽量の競技対応リフティングシューズ。ヒール高を犠牲にせず軽量化を求めるリフター向け。" },
+    price: "$210.00",
     links: [
       { network: "amazon-us", productId: "B07FNQFR4S", rawUrl: "https://www.amazon.com/dp/B07FNQFR4S", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20777,6 +21739,7 @@ const RAW_CATALOG = [
     badge: "Best Budget Weightlifting Shoe",
     name: { en: "Do-Win Weightlifting Shoes", ja: "ドゥウィン ウエイトリフティングシューズ" },
     description: { en: "Entry-level competition-approved shoe at a fraction of Nike/Adidas pricing. Wood heel block, 20mm elevation, metatarsal strap. Worn by competitive lifters on tighter budgets.", ja: "ナイキ・アディダスの半額以下で購入できる競技承認エントリーシューズ。ウッドヒールブロック・20mmエレベーション・中足骨ストラップ。予算を抑えた競技選手に愛用。" },
+    price: "$95.00",
     links: [
       { network: "amazon-us", productId: "B001GBRFZM", rawUrl: "https://www.amazon.com/dp/B001GBRFZM", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20788,6 +21751,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Protein Pancake Mix",
     name: { en: "Kodiak Cakes Power Cakes Flapjack Mix", ja: "コーディアック ケーキス パワーケーキス フラップジャックミックス" },
     description: { en: "14g protein per serving from whey and whole wheat flour. Just add water — no eggs or milk needed. Best-in-class protein-to-taste ratio among mainstream mixes.", ja: "ホエイ＆全粒小麦粉由来のサービングあたり14gタンパク質。水を加えるだけ——卵も牛乳も不要。主流ミックスの中で最高のタンパク質対味比。" },
+    price: "$9.99",
     links: [
       { network: "amazon-us", productId: "B002DEOXA4", rawUrl: "https://www.amazon.com/dp/B002DEOXA4", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20798,6 +21762,7 @@ const RAW_CATALOG = [
     badge: "Best High-Protein Pancake Mix",
     name: { en: "Birch Benders Protein Pancake & Waffle Mix", ja: "バーチベンダーズ プロテインパンケーキ＆ワッフルミックス" },
     description: { en: "18g protein per serving from whey and milk protein. Requires only water. Good clean flavor without chalky protein taste. Also works in waffle irons.", ja: "ホエイ＆ミルクプロテイン由来のサービングあたり18gタンパク質。水だけでOK。粉っぽさのないクリーンな風味。ワッフルメーカーでも使用可能。" },
+    price: "$7.11",
     links: [
       { network: "amazon-us", productId: "B07BG5YQ5Z", rawUrl: "https://www.amazon.com/dp/B07BG5YQ5Z", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20808,6 +21773,7 @@ const RAW_CATALOG = [
     badge: "Best Budget Protein Pancake Mix",
     name: { en: "Krusteaz Protein Pancake Mix", ja: "クラスティーズ プロテインパンケーキミックス" },
     description: { en: "15g protein per serving, classic American pancake texture. Most affordable per-serving cost in the protein pancake category. Widely available in grocery stores.", ja: "サービングあたり15gタンパク質、クラシックなアメリカンパンケーキの食感。プロテインパンケーキカテゴリーで最もリーズナブルなサービングあたりコスト。スーパーで広く入手可能。" },
+    price: "$4.24",
     links: [
       { network: "amazon-us", productId: "B08CMLKJ5L", rawUrl: "https://www.amazon.com/dp/B08CMLKJ5L", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20818,6 +21784,7 @@ const RAW_CATALOG = [
     badge: "Best Whole Grain Protein Pancake Mix",
     name: { en: "Bob's Red Mill Protein Pancake & Waffle Mix", ja: "ボブズレッドミル プロテインパンケーキ＆ワッフルミックス" },
     description: { en: "12g protein per serving from pea protein and whole grains. Plant-based, gluten-free option for dairy-free diets. Denser, more substantial texture than egg-based mixes.", ja: "エンドウ豆タンパク質と全粒穀物由来のサービングあたり12gタンパク質。植物性・グルテンフリーで乳製品不使用食事に対応。卵ベースミックスより密度が高く食べ応えがある食感。" },
+    price: "$7.98",
     links: [
       { network: "amazon-us", productId: "B078HGV11S", rawUrl: "https://www.amazon.com/dp/B078HGV11S", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20828,6 +21795,7 @@ const RAW_CATALOG = [
     badge: "Best Macro-Optimized Protein Pancake Mix",
     name: { en: "Carbon Fire Protein Pancake Mix", ja: "カーボンファイア プロテインパンケーキミックス" },
     description: { en: "25g protein per serving, 1g fat, 5g carbs. Extreme macro ratio targeting bodybuilders and strict dieters. Requires egg whites and water — not a 'just add water' mix.", ja: "サービングあたり25gタンパク質・1g脂肪・5g炭水化物。ボディビルダーや厳格な食事制限者向けの極端なマクロ比。卵白と水が必要——「水だけ」ミックスではない。" },
+    price: "$17.99",
     links: [
       { network: "amazon-us", productId: "B00BDMXB9E", rawUrl: "https://www.amazon.com/dp/B00BDMXB9E", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20839,6 +21807,7 @@ const RAW_CATALOG = [
     badge: "Best Overall Workout Gloves",
     name: { en: "Harbinger Pro Wrist Wrap Weightlifting Gloves", ja: "ハービンジャー プロ リストラップ ウエイトリフティンググローブ" },
     description: { en: "Leather palm with integrated 12-inch wrist wrap. Closed-cell foam padding in palm and finger bases. The gold standard for gym gloves combining protection and wrist support.", ja: "12インチリストラップ一体型レザーパーム。手のひらと指の付け根に独立気泡フォームパッド。保護とリストサポートを兼ね備えたジムグローブの定番。" },
+    price: "$21.99",
     links: [
       { network: "amazon-us", productId: "B0007ZL4HC", rawUrl: "https://www.amazon.com/dp/B0007ZL4HC", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20849,6 +21818,7 @@ const RAW_CATALOG = [
     badge: "Best Budget Workout Gloves",
     name: { en: "Trideer Half-Finger Workout Gloves", ja: "トライディア ハーフフィンガー ワークアウトグローブ" },
     description: { en: "Microfiber palm, half-finger design, machine washable. Best-value daily training gloves for people who want basic grip protection without bulk.", ja: "マイクロファイバーパーム・ハーフフィンガーデザイン・洗濯機対応。かさばりなしに基本的なグリップ保護を求める人向けの最良コスパ毎日使いグローブ。" },
+    price: "$19.99",
     links: [
       { network: "amazon-us", productId: "B07PNL2F9D", rawUrl: "https://www.amazon.com/dp/B07PNL2F9D", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20859,6 +21829,7 @@ const RAW_CATALOG = [
     badge: "Best Durable Workout Gloves",
     name: { en: "Mechanix Wear Original Work Gloves (Gym Use)", ja: "メカニックスウェア オリジナルワークグローブ（ジム使用）" },
     description: { en: "Built for mechanics, adopted by gym athletes for unmatched durability. Synthetic leather palm, no-slip hook-and-loop cuff, lasts 3-5x longer than dedicated gym gloves.", ja: "メカニック向け設計がジムアスリートに採用された圧倒的耐久性。合成皮革パーム・ノンスリップ面ファスナーカフ。専用ジムグローブの3〜5倍長持ち。" },
+    price: "$25.49",
     links: [
       { network: "amazon-us", productId: "B000LJZ02Q", rawUrl: "https://www.amazon.com/dp/B000LJZ02Q", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20869,6 +21840,7 @@ const RAW_CATALOG = [
     badge: "Best Full-Finger Workout Gloves",
     name: { en: "Bionic Men's Premium Fitness Gloves", ja: "バイオニック プレミアム フィットネスグローブ" },
     description: { en: "Anatomical pad design with pre-rotated finger position reduces fatigue during high-rep sets. Full-finger coverage for rope climbs and pull-ups.", ja: "高回数セットの疲労を軽減するアナトミカルパッドデザインと事前回転指配置。ロープクライム＆懸垂向けフルフィンガーカバレッジ。" },
+    price: "$44.00",
     links: [
       { network: "amazon-us", productId: "B001CBQNYU", rawUrl: "https://www.amazon.com/dp/B001CBQNYU", markets: ["US", "EU", "global"], approved: true },
     ],
@@ -20879,6 +21851,7 @@ const RAW_CATALOG = [
     badge: "Best Gloves Alternative (Grips)",
     name: { en: "Bear Grips Finger Tape Lifting Grips", ja: "ベアグリップス フィンガーテープ リフティンググリップ" },
     description: { en: "Silicone finger grips without palm coverage — protects fingertips and grips without adding bulk or heat. Popular with Olympic lifters who want feel without calluses.", ja: "手のひらカバーなしのシリコンフィンガーグリップ。かさばり・熱なしに指先を保護しグリップ力を向上。感触を保ちつつマメを防ぎたいオリンピックリフターに人気。" },
+    price: "$39.98",
     links: [
       { network: "amazon-us", productId: "B07FNCFXHN", rawUrl: "https://www.amazon.com/dp/B07FNCFXHN", markets: ["US", "EU", "global"], approved: true },
     ],
