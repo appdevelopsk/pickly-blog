@@ -947,7 +947,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "sakura-rentalserver",
+    id: "sakura-rentalserver", imageUrl: "https://rs.sakura.ad.jp/assets/images/home/img-hero-plan.webp",
     category: "tech",
     priceMin: "¥128/月",
     priceMax: "¥660/月",
@@ -963,7 +963,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "mixhost",
+    id: "mixhost", imageUrl: "https://mixhost.jp/wp-content/uploads/2025/08/ogp.png",
     category: "tech",
     priceMin: "¥858/月",
     priceMax: "¥1,320/月",
@@ -978,7 +978,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "onamae-com",
+    id: "onamae-com", imageUrl: "https://www.onamae.com/common/images/og.jpg",
     category: "tech",
     priceMin: "¥220/月",
     priceMax: "¥880/月",
@@ -1735,7 +1735,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "ninja-foodi-af400",
+    id: "ninja-foodi-af400", imageUrl: "https://img.appliancesdirect.co.uk/Images/AF400UK_1_16901925_Supersize.jpg?width=750&height=750&v=5",
     category: "home",
     price: "¥34,800",
     badge: "👥",
@@ -1990,7 +1990,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "dns-whey-g-plus-1kg",
+    id: "dns-whey-g-plus-1kg", imageUrl: "https://m.media-amazon.com/images/I/51vCxvWu1EL._AC_.jpg",
     category: "beauty",
     price: "¥4,800",
     badge: "🏋️",
@@ -2065,7 +2065,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "treeoflife-mood-air-mini",
+    id: "treeoflife-mood-air-mini", imageUrl: "https://onlineshop.treeoflife.co.jp/cdn/shop/files/088017070_m.png?v=1715911583&width=1080",
     category: "beauty",
     price: "¥9,900",
     badge: "🌿",
@@ -3083,7 +3083,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "balmuda-the-brew-k06a",
+    id: "balmuda-the-brew-k06a", imageUrl: "https://us.balmuda.com/cdn/shop/products/EC_3.png?v=1740984958",
     category: "home",
     price: "¥66,000",
     badge: "🫖",
@@ -3476,7 +3476,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "pawbo-pet-camera",
+    id: "pawbo-pet-camera", imageUrl: "https://petshopaholics.com/cdn/shop/files/61A3iP3inrL.jpg?v=1718279450&width=1946",
     category: "home",
     price: "$53.51",
     badge: "🎯",
@@ -3676,7 +3676,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "lululemon-take-form-5mm",
+    id: "lululemon-take-form-5mm", imageUrl: "https://images.lululemon.com/is/image/lululemon/LU9AP2S_0023_1",
     category: "beauty",
     price: "¥13,200",
     badge: "🌿",
@@ -3705,7 +3705,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "sukala-yoga-mat-pu",
+    id: "sukala-yoga-mat-pu", imageUrl: "https://store.yoga-lava.com/img/goods/L/4582694169509_L.jpg",
     category: "beauty",
     price: "¥9,900",
     badge: "🇯🇵",
@@ -3860,7 +3860,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "anello-gym-bag",
+    id: "anello-gym-bag", imageUrl: "https://m.media-amazon.com/images/I/31rxnT2t5UL._AC_.jpg",
     category: "fitness",
     priceMin: "¥4,000",
     priceMax: "¥7,000",
@@ -5102,7 +5102,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "jins-smart-shield",
+    id: "jins-smart-shield", imageUrl: "https://us.jins.com/cdn/shop/files/screen-heavy-40.png?v=1741286107",
     category: "beauty",
     badge: "🛡️",
     name: { en: "JINS Smart Shield", ja: "JINS スマートシールド" },
@@ -5239,7 +5239,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "harnn-jasmine-rice",
+    id: "harnn-jasmine-rice", imageUrl: "https://media.tanachira.co.th/rec/production/harnn/media/products/9886fd300ba84c53a253a2b7ac5c7c33.jpg",
     category: "home",
     price: "$24",
     badge: "🌸",
@@ -6339,7 +6339,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "filtron-cold-water-brewer",
+    id: "filtron-cold-water-brewer", imageUrl: "https://ptscoffee.com/cdn/shop/products/FIltron_image_694c46d4-a33d-4817-af3b-d625bc2cccff_1100x.jpg",
     category: "food",
     price: "$39.95",
     name: { en: "Filtron Cold Water Brewer", ja: "フィルトロン コールドウォータービュワー" },
@@ -6551,7 +6551,7 @@ const RAW_CATALOG = [
   },
   // ───────── Food / Kitchen Scales (best-kitchen-scale-2026) ─────────
   {
-    id: "ohaus-scout-kitchen-scale",
+    id: "ohaus-scout-kitchen-scale", imageUrl: "https://dmx.ohaus.com/getmedia/56bd239b-fa47-41ed-98eb-6f13c7e281e9/Scout-Pro_DMX-ID_2348_WebShop",
     category: "food",
     name: { en: "Ohaus Scout Precision Kitchen Scale", ja: "オーハウス スカウト 精密キッチンスケール" },
     description: {
@@ -6671,7 +6671,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "aulola-travel-adapter",
+    id: "aulola-travel-adapter", imageUrl: "https://www.aulola.co.uk/uploadfile/images/598808/2022-02/2022-02-23CR-szooxs1jjz.jpg",
     category: "tech",
     name: { en: "Aulola Universal Travel Adapter", ja: "Aulola ユニバーサル トラベルアダプター" },
     description: { en: "Ultra-compact budget adapter, covers A/C/G/I plug types, single AC outlet", ja: "超コンパクト低価格アダプター、A/C/G/I対応、コンセント1口" },
@@ -8388,7 +8388,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "universal-yums-subscription",
+    id: "universal-yums-subscription", imageUrl: "https://www.boxometry.com/static/media/uploads/box/universal-yums.jpg",
     category: "food",
     price: "$20/month",
     badge: "🗺️",
@@ -9472,7 +9472,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "rogue-wood-rings",
+    id: "rogue-wood-rings", imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Bodyweight%20and%20Gymnastics/Gymnastics%20/Rings/XX45/XX45-H_iy5vcg.png",
     category: "fitness",
     priceMin: "$75",
     priceMax: "$95",
@@ -9505,7 +9505,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "titan-fitness-rings",
+    id: "titan-fitness-rings", imageUrl: "https://titan.fitness/cdn/shop/files/410113_01.jpg?v=1708458331&width=1946",
     category: "fitness",
     priceMin: "$55",
     priceMax: "$65",
@@ -9542,7 +9542,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "gorilla-rings-wooden-gym",
+    id: "gorilla-rings-wooden-gym", imageUrl: "https://gorillacalisthenics.com/wp-content/uploads/2021/06/Gymnastics-Wooden-Rings-600x600.jpg",
     category: "fitness",
     priceMin: "$25",
     priceMax: "$55",
@@ -9562,7 +9562,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "nayoya-wooden-exercise-rings",
+    id: "nayoya-wooden-exercise-rings", imageUrl: "https://m.media-amazon.com/images/I/71E3uMahKnL._AC_SX522_.jpg",
     category: "fitness",
     price: "$35",
     badge: "🟢",
@@ -12205,7 +12205,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "rogue-ohio-lifting-belt",
+    id: "rogue-ohio-lifting-belt", imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_1600,b_rgb:ffffff/catalog/Straps%20Wraps%20and%20Support%20/Belts%20/Powerlifting/WL0044/WL0044/UPDATED%20WL0044/WL0042-H_kv2rcv.png",
     category: "fitness",
     priceMin: "¥20,000",
     priceMax: "¥28,000",
@@ -13740,7 +13740,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "krups-gn9019-hand-mixer",
+    id: "krups-gn9019-hand-mixer", imageUrl: "https://dam.groupeseb.com/m/26d48c13098bd6bd/Digital-3MIX9000_GN912111_PACKSHOT.png",
     category: "food",
     price: "$49.99",
     badge: "precision-pick",
@@ -15852,7 +15852,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "grip4force-grip-trainer",
+    id: "grip4force-grip-trainer", imageUrl: "https://grip4orce.com/wp-content/uploads/2025/10/grip4orce-black.jpg",
     category: "fitness",
     price: "~$30",
     badge: "💪",
@@ -16452,7 +16452,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "prime-fitness-flat-bench",
+    id: "prime-fitness-flat-bench", imageUrl: "https://www.primefitnessusa.com/cdn/shop/files/LV-AFB_0-85_-_1207854_B_294x220_crop_center.jpg?v=1775471333",
     category: "fitness",
     price: "~$100",
     badge: "💪",
@@ -16835,7 +16835,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "cable-pull-through-setup",
+    id: "cable-pull-through-setup", imageUrl: "https://awefrank.com/cdn/shop/products/CK50076-1_71233ee6-fb3c-4ee6-a9f8-44d2f8b92e2d_1024x1024@2x.jpg?v=1601954795",
     category: "fitness",
     price: "~$20",
     badge: "💪",
@@ -17804,7 +17804,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "rep-fitness-pr-4000-power-rack",
+    id: "rep-fitness-pr-4000-power-rack", imageUrl: "https://repfitness.com/cdn/shop/files/Pre-ConfiguredPR-40006-PostHigh-End-Thumbnail_6bd04dc5-5c47-4376-a1fc-cb0a5b6401a9.jpg",
     category: "fitness",
     priceMin: "$621",
     priceMax: "$1,700",
@@ -18408,7 +18408,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "bowflex-max-trainer-m9",
+    id: "bowflex-max-trainer-m9", imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw6d24a101/images/bfx/ellipticals/100996/m9-in-home-f-ll.jpg",
     category: "fitness",
     price: "$1,999",
     badge: "コネクテッドホーム",
@@ -19692,7 +19692,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "bigelow-benefits-cold-brew",
+    id: "bigelow-benefits-cold-brew", imageUrl: "https://www.bigelowtea.com/cdn/shop/files/bnqpvl8gtke4wvjzhkkv.jpg?v=1776753837&width=1080",
     category: "food",
     price: "$4.49",
     badge: "Best Value Cold Brew",
@@ -19949,7 +19949,7 @@ const RAW_CATALOG = [
     ],
   },
   {
-    id: "wild-rooibos-loose-leaf",
+    id: "wild-rooibos-loose-leaf", imageUrl: "https://fullleafteacompany.com/cdn/shop/files/RooibosProductPagePhotos.jpg?v=1695853578&width=596",
     category: "food",
     price: "$12.99",
     badge: "Best Loose Leaf Rooibos",
