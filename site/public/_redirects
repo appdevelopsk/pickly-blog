@@ -8,6 +8,7 @@
 /robots.txt /robots.txt 200
 /ads.txt /ads.txt 200
 /og/* /og/:splat 200
+/images/* /images/:splat 200
 
 # Strip trailing-slash duplicates handled by Next config; this catches edges.
 /:locale /:locale/ 301
