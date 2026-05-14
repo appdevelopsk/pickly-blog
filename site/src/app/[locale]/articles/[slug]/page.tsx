@@ -1,8 +1,8 @@
 import { notFound } from "next/navigation";
 import { setRequestLocale, getTranslations } from "next-intl/server";
-import { LOCALES } from "@/lib/i18n/locales";
+import { LOCALES, inferMarketFromLocale } from "@/lib/i18n/locales";
 import { listArticles, getArticle } from "@/lib/articles/registry";
-import { CATALOG } from "@/lib/affiliates/catalog";
+import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { ArticleBody } from "@/components/articles/ArticleBody";
 import { RelatedArticles } from "@/components/articles/RelatedArticles";
@@ -123,7 +123,9 @@ export default async function ArticlePage({ params }: Props) {
     offerNotes: (safeRaw(t, `articles.${slug}.offerNotes`) ?? {}) as Record<string, string>,
   };
 
-  const offers = CATALOG.filter((o) => meta.offerIds.includes(o.id))
+  const market = inferMarketFromLocale(locale);
+  const offers = CATALOG
+    .filter((o) => meta.offerIds.includes(o.id) && pickLink(o, market) !== null)
     .sort((a, b) => meta.offerIds.indexOf(a.id) - meta.offerIds.indexOf(b.id));
 
   const canonicalUrl = `${SITE_URL}/${locale}/articles/${slug}/`;
