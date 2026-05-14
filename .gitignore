@@ -46,3 +46,7 @@ public/robots.txt
 site/tmp/
 site/out/
 .secrets/
+
+# Google API credentials (secret — never commit)
+site/gsc-credentials.json
+site/gsc-token.json

@@ -1,0 +1,52 @@
+name: GSC Performance Snapshot
+
+on:
+  schedule:
+    # 毎日 JST 10:00 (UTC 01:00) に実行
+    - cron: "0 1 * * *"
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: site
+
+      - name: Fetch GSC performance (page)
+        run: npx tsx scripts/gsc-performance.ts --dim page --days 28 --rows 50
+        working-directory: site
+        env:
+          GSC_CREDENTIALS_B64: ${{ secrets.GSC_CREDENTIALS_B64 }}
+          GSC_TOKEN_B64: ${{ secrets.GSC_TOKEN_B64 }}
+
+      - name: Fetch GSC performance (query)
+        run: npx tsx scripts/gsc-performance.ts --dim query --days 28 --rows 50
+        working-directory: site
+        env:
+          GSC_CREDENTIALS_B64: ${{ secrets.GSC_CREDENTIALS_B64 }}
+          GSC_TOKEN_B64: ${{ secrets.GSC_TOKEN_B64 }}
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/gsc-data/
+          if git diff --cached --quiet; then
+            echo "No new GSC data."
+          else
+            git commit -m "chore: gsc snapshot $(date +%Y-%m-%d) [skip ci]"
+            git push
+          fi
