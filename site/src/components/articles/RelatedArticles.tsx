@@ -1,3 +1,5 @@
+import fs from "fs";
+import path from "path";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/lib/i18n/navigation";
 import { getRelatedArticles } from "@/lib/articles/registry";
@@ -6,13 +8,26 @@ import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import type { ArticleMeta } from "@/lib/articles/types";
 
-function getThumbnail(article: ArticleMeta): string | null {
+function getThumbnail(article: ArticleMeta, locale: string): string | null {
+  // 1. Catalog product imageUrl
   for (const offerId of article.offerIds) {
     const offer = CATALOG.find((o) => o.id === offerId);
     if (!offer) continue;
     const img = getOfferImageUrl(offer);
     if (img) return img;
   }
+
+  // 2. Article ogImage field (if set and not "auto")
+  if (article.ogImage && article.ogImage !== "auto") {
+    return `${article.ogImage}-${locale}.png`;
+  }
+
+  // 3. Check if /og/<slug>-<locale>.png exists on disk
+  const ogFile = path.join(process.cwd(), "public", "og", `${article.slug}-${locale}.png`);
+  if (fs.existsSync(ogFile)) {
+    return `/og/${article.slug}-${locale}.png`;
+  }
+
   return null;
 }
 
@@ -38,8 +53,8 @@ export async function RelatedArticles({ slug, category, locale }: Props) {
         {articles.map((a) => {
           let title = a.slug;
           try { title = t(`articles.${a.slug}.title`); } catch { /* missing */ }
-          const imgSrc = getThumbnail(a);
-          const isProductImg = !!imgSrc;
+          const imgSrc = getThumbnail(a, locale);
+          const isProductImg = imgSrc && !imgSrc.includes("/og/");
 
           return (
             <li key={a.slug}>
@@ -56,7 +71,7 @@ export async function RelatedArticles({ slug, category, locale }: Props) {
                     <img
                       src={imgSrc}
                       alt={title}
-                      className="w-full h-full object-contain p-3 transition-transform duration-300 group-hover:scale-105"
+                      className={`w-full h-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-3" : "object-cover"}`}
                       loading="lazy"
                     />
                   ) : (
