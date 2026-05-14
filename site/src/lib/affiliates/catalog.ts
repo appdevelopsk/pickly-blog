@@ -21754,6 +21754,7 @@ const RAW_CATALOG = [
     price: "$9.99",
     links: [
       { network: "amazon-us", productId: "B002DEOXA4", rawUrl: "https://www.amazon.com/dp/B002DEOXA4", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "B07WG9QDNG", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21765,6 +21766,7 @@ const RAW_CATALOG = [
     price: "$7.11",
     links: [
       { network: "amazon-us", productId: "B07BG5YQ5Z", rawUrl: "https://www.amazon.com/dp/B07BG5YQ5Z", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "B0179XFQ5E", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21776,6 +21778,7 @@ const RAW_CATALOG = [
     price: "$4.24",
     links: [
       { network: "amazon-us", productId: "B08CMLKJ5L", rawUrl: "https://www.amazon.com/dp/B08CMLKJ5L", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "krusteaz-protein", rawUrl: "https://www.amazon.co.jp/s?k=クラスティーズ+プロテインパンケーキ", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21787,6 +21790,7 @@ const RAW_CATALOG = [
     price: "$7.98",
     links: [
       { network: "amazon-us", productId: "B078HGV11S", rawUrl: "https://www.amazon.com/dp/B078HGV11S", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "bobs-red-mill-protein", rawUrl: "https://www.amazon.co.jp/s?k=ボブズレッドミル+プロテインパンケーキ", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21798,6 +21802,30 @@ const RAW_CATALOG = [
     price: "$17.99",
     links: [
       { network: "amazon-us", productId: "B00BDMXB9E", rawUrl: "https://www.amazon.com/dp/B00BDMXB9E", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "carbon-fire-protein", rawUrl: "https://www.amazon.co.jp/s?k=高タンパク+プロテインパンケーキミックス+25g", markets: ["JP"], approved: true },
+    ],
+  },
+  // --- best-protein-pancake-mix-2026: Japan-market picks ---
+  {
+    id: "nisshin-protein-hotcake-mix",
+    category: "food",
+    badge: "Best Japan-Market Pick",
+    name: { en: "Nisshin Welna Protein Hotcake Mix", ja: "日清製粉ウェルナ プロテインホットケーキミックス" },
+    description: { en: "Japan's most widely available domestic protein hotcake mix. 30g protein per two pancakes from whey — texture nearly identical to regular hotcakes with no chalky aftertaste. Available at major Japanese supermarkets and Amazon Japan.", ja: "国内で最も広く流通するプロテインホットケーキミックス。ホエイ由来で2枚あたり30gのタンパク質——粉っぽさなしで普通のホットケーキと変わらない食感。スーパーとAmazon Japanで安定して購入可能。" },
+    price: "¥1,288",
+    links: [
+      { network: "amazon-jp", productId: "B0BWHTRG73", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "finelab-protein-pancake",
+    category: "food",
+    badge: "Best Value (Japan Market)",
+    name: { en: "Fine Lab Protein Pancakes", ja: "ファインラボ プロテインパンケーキ" },
+    description: { en: "Japanese sports nutrition brand. 34.1g protein per serving from a 600g bag. Higher protein density than most international mixes at a competitive price per gram. Plain and chocolate flavors available.", ja: "国内スポーツ栄養ブランド。600g袋で1食34.1gのタンパク質。グラムあたりコストで多くの海外製品を上回る高タンパク密度。プレーン・チョコレートのフレーバーあり。" },
+    price: "¥2,557",
+    links: [
+      { network: "amazon-jp", productId: "B07VWMJH1R", markets: ["JP"], approved: true },
     ],
   },
   // --- batch #263: best-workout-gloves-2026 (fitness) ---

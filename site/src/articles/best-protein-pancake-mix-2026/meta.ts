@@ -15,5 +15,7 @@ export const meta: ArticleMeta = {
     "krusteaz-protein-pancake",
     "bob-red-mill-protein-pancake",
     "carbon-fire-protein-pancake",
+    "nisshin-protein-hotcake-mix",
+    "finelab-protein-pancake",
   ],
 };
