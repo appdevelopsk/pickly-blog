@@ -21429,6 +21429,7 @@ const RAW_CATALOG = [
     price: "$4.29",
     links: [
       { network: "amazon-us", productId: "B000WQTQCQ", rawUrl: "https://www.amazon.com/dp/B000WQTQCQ", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "Optimum Nutrition ゴールドスタンダード プレワークアウト", rawUrl: "https://www.amazon.co.jp/s?k=Optimum%20Nutrition%20%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%20%E3%83%97%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21440,6 +21441,7 @@ const RAW_CATALOG = [
     price: "$4.49",
     links: [
       { network: "amazon-us", productId: "B07HMLXYRR", rawUrl: "https://www.amazon.com/dp/B07HMLXYRR", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "C4 オリジナル プレワークアウト", rawUrl: "https://www.amazon.co.jp/s?k=C4%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%20%E3%83%97%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21451,6 +21453,7 @@ const RAW_CATALOG = [
     price: "$5.99",
     links: [
       { network: "amazon-us", productId: "B007M3KOXO", rawUrl: "https://www.amazon.com/dp/B007M3KOXO", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "カフェイン150mgとベータアラニン配合のベストセラー入門プレワークアウト", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%AB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%B3150mg%E3%81%A8%E3%83%99%E3%83%BC%E3%82%BF%E3%82%A2%E3%83%A9%E3%83%8B%E3%83%B3%E9%85%8D%E5%90%88%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%82%BB%E3%83%A9%E3%83%BC%E5%85%A5%E9%96%80%E3%83%97%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21462,6 +21465,7 @@ const RAW_CATALOG = [
     description: { en: "Vegan, organic, fair-trade dark chocolate with compostable packaging.", ja: "ビーガン・有機・フェアトレードダークチョコ。堆肥化可能なパッケージ。" },
     links: [
       { network: "amazon-us", productId: "B00E8FH9MA", rawUrl: "https://www.amazon.com/dp/B00E8FH9MA", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "Ghost Legend プレワークアウト", rawUrl: "https://www.amazon.co.jp/s?k=Ghost%20Legend%20%E3%83%97%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88", markets: ["JP"], approved: true },
     ],
   },
   // --- batch #257: best-glute-resistance-bands-2026 (fitness) ---
@@ -21474,6 +21478,7 @@ const RAW_CATALOG = [
     price: "$24.99",
     links: [
       { network: "amazon-us", productId: "B07NTJPHG1", rawUrl: "https://www.amazon.com/dp/B07NTJPHG1", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "リンツ エクセレンス 90% カカオ", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%AA%E3%83%B3%E3%83%84%20%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AC%E3%83%B3%E3%82%B9%2090%25%20%E3%82%AB%E3%82%AB%E3%82%AA", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21485,6 +21490,7 @@ const RAW_CATALOG = [
     price: "$20.95",
     links: [
       { network: "amazon-us", productId: "B01AVDVHTI", rawUrl: "https://www.amazon.com/dp/B01AVDVHTI", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "ギラデリ インテンスダーク ミッドナイトリヴェリー 86%", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%AE%E3%83%A9%E3%83%87%E3%83%AA%20%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%82%B9%E3%83%80%E3%83%BC%E3%82%AF%20%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B4%E3%82%A7%E3%83%AA%E3%83%BC%2086%25", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21496,6 +21502,7 @@ const RAW_CATALOG = [
     price: "$24.95",
     links: [
       { network: "amazon-us", productId: "B08WFCXH6Y", rawUrl: "https://www.amazon.com/dp/B08WFCXH6Y", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "グリーン＆ブラックス オーガニックダーク 85%", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%EF%BC%86%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%E3%83%80%E3%83%BC%E3%82%AF%2085%25", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21507,6 +21514,7 @@ const RAW_CATALOG = [
     price: "$19.98",
     links: [
       { network: "amazon-us", productId: "B000LBXFLI", rawUrl: "https://www.amazon.com/dp/B000LBXFLI", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "テオ チョコレート オーガニック 85% ダークバー", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%86%E3%82%AA%20%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%20%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%2085%25%20%E3%83%80%E3%83%BC%E3%82%AF%E3%83%90%E3%83%BC", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21518,6 +21526,7 @@ const RAW_CATALOG = [
     price: "$20.00",
     links: [
       { network: "amazon-us", productId: "B08GH4C2VN", rawUrl: "https://www.amazon.com/dp/B08GH4C2VN", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "オルターエコ ディープダーク ブラックアウト 85%", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%A8%E3%82%B3%20%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%80%E3%83%BC%E3%82%AF%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%2085%25", markets: ["JP"], approved: true },
     ],
   },
   // --- batch #258: best-almond-butter-2026 (food) ---
@@ -21530,6 +21539,7 @@ const RAW_CATALOG = [
     price: "$12.99",
     links: [
       { network: "amazon-us", productId: "B002TBZPQQ", rawUrl: "https://www.amazon.com/dp/B002TBZPQQ", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "Victorem ヒップレジスタンスバンド", rawUrl: "https://www.amazon.co.jp/s?k=Victorem%20%E3%83%92%E3%83%83%E3%83%97%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21541,6 +21551,7 @@ const RAW_CATALOG = [
     price: "$13.99",
     links: [
       { network: "amazon-us", productId: "B00AGWAHPC", rawUrl: "https://www.amazon.com/dp/B00AGWAHPC", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "フィットシンプリファイ レジスタンスループバンド", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%20%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%97%E3%83%90%E3%83%B3%E3%83%89", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21552,6 +21563,7 @@ const RAW_CATALOG = [
     price: "$15.50",
     links: [
       { network: "amazon-us", productId: "B07CSWFBDD", rawUrl: "https://www.amazon.com/dp/B07CSWFBDD", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "ピーチバンズ レジスタンスバンドセット", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%94%E3%83%BC%E3%83%81%E3%83%90%E3%83%B3%E3%82%BA%20%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89%E3%82%BB%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21563,6 +21575,7 @@ const RAW_CATALOG = [
     price: "$21.28",
     links: [
       { network: "amazon-us", productId: "B000WQTOPG", rawUrl: "https://www.amazon.com/dp/B000WQTOPG", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "セラバンド プロフェッショナル レジスタンスバンドループ", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%BB%E3%83%A9%E3%83%90%E3%83%B3%E3%83%89%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%20%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21574,6 +21587,7 @@ const RAW_CATALOG = [
     price: "$9.99",
     links: [
       { network: "amazon-us", productId: "B001E5DPD8", rawUrl: "https://www.amazon.com/dp/B001E5DPD8", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "ジムシャーク レジスタンスバンド", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%AF%20%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89", markets: ["JP"], approved: true },
     ],
   },
   // --- batch #259: best-adjustable-kettlebell-2026 (fitness) ---
@@ -21586,6 +21600,7 @@ const RAW_CATALOG = [
     price: "$150.00",
     links: [
       { network: "amazon-us", productId: "B07DCNHQQ5", rawUrl: "https://www.amazon.com/dp/B07DCNHQQ5", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "ジャスティンズ クラシックアーモンドバター", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%BA%20%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%89%E3%83%90%E3%82%BF%E3%83%BC", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21597,6 +21612,7 @@ const RAW_CATALOG = [
     price: "$199.00",
     links: [
       { network: "amazon-us", productId: "B07WX8XMQG", rawUrl: "https://www.amazon.com/dp/B07WX8XMQG", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "バーニーバター ベアアーモンドバター", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%90%E3%83%BC%E3%83%8B%E3%83%BC%E3%83%90%E3%82%BF%E3%83%BC%20%E3%83%99%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%89%E3%83%90%E3%82%BF%E3%83%BC", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21608,6 +21624,7 @@ const RAW_CATALOG = [
     price: "$159.99",
     links: [
       { network: "amazon-us", productId: "B07FZPP2KY", rawUrl: "https://www.amazon.com/dp/B07FZPP2KY", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "ワイルドフレンズ クラシッククリーミーアーモンドバター", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA%20%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%89%E3%83%90%E3%82%BF%E3%83%BC", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21619,6 +21636,7 @@ const RAW_CATALOG = [
     price: "$59.99",
     links: [
       { network: "amazon-us", productId: "B004YSSGE6", rawUrl: "https://www.amazon.com/dp/B004YSSGE6", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "アルティサナ オーガニクス ロウアーモンドバター", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%82%B5%E3%83%8A%20%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%82%AF%E3%82%B9%20%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%89%E3%83%90%E3%82%BF%E3%83%BC", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21630,6 +21648,7 @@ const RAW_CATALOG = [
     price: "$34.95",
     links: [
       { network: "amazon-us", productId: "B00XYYLP2A", rawUrl: "https://www.amazon.com/dp/B00XYYLP2A", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "マラナサ ノースター クリーミーアーモンドバター", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%A9%E3%83%8A%E3%82%B5%20%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%89%E3%83%90%E3%82%BF%E3%83%BC", markets: ["JP"], approved: true },
     ],
   },
   // --- batch #260: best-oat-milk-2026 (food) ---
@@ -21642,6 +21661,7 @@ const RAW_CATALOG = [
     price: "$5.99",
     links: [
       { network: "amazon-us", productId: "B07PKZNGGR", rawUrl: "https://www.amazon.com/dp/B07PKZNGGR", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "ボウフレックス セレクトテック 840 ケトルベル", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%9C%E3%82%A6%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%88%E3%83%86%E3%83%83%E3%82%AF%20840%20%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21653,6 +21673,7 @@ const RAW_CATALOG = [
     price: "$4.67",
     links: [
       { network: "amazon-us", productId: "B07X9GBJGD", rawUrl: "https://www.amazon.com/dp/B07X9GBJGD", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "パワーブロック スポーツ アジャスタブル ケトルベル", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%91%E3%83%AF%E3%83%BC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%20%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%20%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21664,6 +21685,7 @@ const RAW_CATALOG = [
     price: "$3.38",
     links: [
       { network: "amazon-us", productId: "B07YPQF38T", rawUrl: "https://www.amazon.com/dp/B07YPQF38T", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "REP フィットネス アジャスタブル ケトルベル", rawUrl: "https://www.amazon.co.jp/s?k=REP%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%20%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21675,6 +21697,7 @@ const RAW_CATALOG = [
     price: "$5.49",
     links: [
       { network: "amazon-us", productId: "B07N8Y2MNX", rawUrl: "https://www.amazon.com/dp/B07N8Y2MNX", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "エーペックス アジャスタブル ケトルボール", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%BC%E3%83%9A%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%20%E3%82%B1%E3%83%88%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21686,6 +21709,7 @@ const RAW_CATALOG = [
     price: "$7.58",
     links: [
       { network: "amazon-us", productId: "B07GXWKV5V", rawUrl: "https://www.amazon.com/dp/B07GXWKV5V", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "ケトルグリップ アジャスタブルケトルベル", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%B1%E3%83%88%E3%83%AB%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB", markets: ["JP"], approved: true },
     ],
   },
   // --- batch #261: best-weightlifting-shoes-2026 (fitness) ---
@@ -21698,6 +21722,7 @@ const RAW_CATALOG = [
     price: "$200.00",
     links: [
       { network: "amazon-us", productId: "B08KY4JL7B", rawUrl: "https://www.amazon.com/dp/B08KY4JL7B", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "オートリー オーツドリンク オリジナル", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%20%E3%82%AA%E3%83%BC%E3%83%84%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21709,6 +21734,7 @@ const RAW_CATALOG = [
     description: { en: "24mm heel-to-toe drop, TPU heel counter, single strap. Preferred by many national team weightlifters for snatches and clean & jerks.", ja: "24mmヒールドロップ・TPUヒールカウンター・シングルストラップ。スナッチ＆クリーン&ジャークで多くの代表選手に愛用されている。" },
     links: [
       { network: "amazon-us", productId: "B09DZKSHD4", rawUrl: "https://www.amazon.com/dp/B09DZKSHD4", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "オートリー バリスタエディション オーツミルク", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%20%E3%83%90%E3%83%AA%E3%82%B9%E3%82%BF%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%AA%E3%83%BC%E3%83%84%E3%83%9F%E3%83%AB%E3%82%AF", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21720,6 +21746,7 @@ const RAW_CATALOG = [
     price: "$220.00",
     links: [
       { network: "amazon-us", productId: "B09D73NVHK", rawUrl: "https://www.amazon.com/dp/B09D73NVHK", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "プラネットオーツ エクストラクリーミー オーツミルク", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%82%AA%E3%83%BC%E3%83%84%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%20%E3%82%AA%E3%83%BC%E3%83%84%E3%83%9F%E3%83%AB%E3%82%AF", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21731,6 +21758,7 @@ const RAW_CATALOG = [
     price: "$210.00",
     links: [
       { network: "amazon-us", productId: "B07FNQFR4S", rawUrl: "https://www.amazon.com/dp/B07FNQFR4S", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "カリフィア ファームズ ベターハーフ オーツクリーマー", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A3%E3%82%A2%20%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%BA%20%E3%83%99%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%BC%E3%83%95%20%E3%82%AA%E3%83%BC%E3%83%84%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21742,6 +21770,7 @@ const RAW_CATALOG = [
     price: "$95.00",
     links: [
       { network: "amazon-us", productId: "B001GBRFZM", rawUrl: "https://www.amazon.com/dp/B001GBRFZM", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "エルムハースト 1925 オーツミルク", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AB%E3%83%A0%E3%83%8F%E3%83%BC%E3%82%B9%E3%83%88%201925%20%E3%82%AA%E3%83%BC%E3%83%84%E3%83%9F%E3%83%AB%E3%82%AF", markets: ["JP"], approved: true },
     ],
   },
   // --- batch #262: best-protein-pancake-mix-2026 (food) ---
@@ -21838,6 +21867,7 @@ const RAW_CATALOG = [
     price: "$21.99",
     links: [
       { network: "amazon-us", productId: "B0007ZL4HC", rawUrl: "https://www.amazon.com/dp/B0007ZL4HC", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "サービングあたり15gタンパク質、クラシックなアメリカンパンケーキの食感。プロテインパンケーキカテゴリーで最もリーズナブルなサービングあたりコスト。スーパーで広く入手可能。", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%BC%E3%83%93%E3%83%B3%E3%82%B0%E3%81%82%E3%81%9F%E3%82%8A15g%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E3%80%81%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%81%AA%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD%E3%81%AE%E9%A3%9F%E6%84%9F%E3%80%82%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC%E3%81%A7%E6%9C%80%E3%82%82%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%8A%E3%83%96%E3%83%AB%E3%81%AA%E3%82%B5%E3%83%BC%E3%83%93%E3%83%B3%E3%82%B0%E3%81%82%E3%81%9F%E3%82%8A%E3%82%B3%E3%82%B9%E3%83%88%E3%80%82%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%81%A7%E5%BA%83%E3%81%8F%E5%85%A5%E6%89%8B%E5%8F%AF%E8%83%BD%E3%80%82", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21849,6 +21879,7 @@ const RAW_CATALOG = [
     price: "$19.99",
     links: [
       { network: "amazon-us", productId: "B07PNL2F9D", rawUrl: "https://www.amazon.com/dp/B07PNL2F9D", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "エンドウ豆タンパク質と全粒穀物由来のサービングあたり12gタンパク質。植物性・グルテンフリーで乳製品不使用食事に対応。卵ベースミックスより密度が高く食べ応えがある食感。", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A6%E8%B1%86%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E3%81%A8%E5%85%A8%E7%B2%92%E7%A9%80%E7%89%A9%E7%94%B1%E6%9D%A5%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%83%B3%E3%82%B0%E3%81%82%E3%81%9F%E3%82%8A12g%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E3%80%82%E6%A4%8D%E7%89%A9%E6%80%A7%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%86%E3%83%B3%E3%83%95%E3%83%AA%E3%83%BC%E3%81%A7%E4%B9%B3%E8%A3%BD%E5%93%81%E4%B8%8D%E4%BD%BF%E7%94%A8%E9%A3%9F%E4%BA%8B%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%80%82%E5%8D%B5%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%82%88%E3%82%8A%E5%AF%86%E5%BA%A6%E3%81%8C%E9%AB%98%E3%81%8F%E9%A3%9F%E3%81%B9%E5%BF%9C%E3%81%88%E3%81%8C%E3%81%82%E3%82%8B%E9%A3%9F%E6%84%9F%E3%80%82", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21860,6 +21891,7 @@ const RAW_CATALOG = [
     price: "$25.49",
     links: [
       { network: "amazon-us", productId: "B000LJZ02Q", rawUrl: "https://www.amazon.com/dp/B000LJZ02Q", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "サービングあたり25gタンパク質・1g脂肪・5g炭水化物。ボディビルダーや厳格な食事制限者向けの極端なマクロ比。卵白と水が必要——「水だけ」ミックスではない。", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%BC%E3%83%93%E3%83%B3%E3%82%B0%E3%81%82%E3%81%9F%E3%82%8A25g%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E3%83%BB1g%E8%84%82%E8%82%AA%E3%83%BB5g%E7%82%AD%E6%B0%B4%E5%8C%96%E7%89%A9%E3%80%82%E3%83%9C%E3%83%87%E3%82%A3%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC%E3%82%84%E5%8E%B3%E6%A0%BC%E3%81%AA%E9%A3%9F%E4%BA%8B%E5%88%B6%E9%99%90%E8%80%85%E5%90%91%E3%81%91%E3%81%AE%E6%A5%B5%E7%AB%AF%E3%81%AA%E3%83%9E%E3%82%AF%E3%83%AD%E6%AF%94%E3%80%82%E5%8D%B5%E7%99%BD%E3%81%A8%E6%B0%B4%E3%81%8C%E5%BF%85%E8%A6%81%E2%80%94%E2%80%94%E3%80%8C%E6%B0%B4%E3%81%A0%E3%81%91%E3%80%8D%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21871,6 +21903,7 @@ const RAW_CATALOG = [
     price: "$44.00",
     links: [
       { network: "amazon-us", productId: "B001CBQNYU", rawUrl: "https://www.amazon.com/dp/B001CBQNYU", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "日清製粉ウェルナ プロテインホットケーキミックス", rawUrl: "https://www.amazon.co.jp/s?k=%E6%97%A5%E6%B8%85%E8%A3%BD%E7%B2%89%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%8A%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%9B%E3%83%83%E3%83%88%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21882,6 +21915,7 @@ const RAW_CATALOG = [
     price: "$39.98",
     links: [
       { network: "amazon-us", productId: "B07FNCFXHN", rawUrl: "https://www.amazon.com/dp/B07FNCFXHN", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "ファインラボ プロテインパンケーキ", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%A9%E3%83%9C%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD", markets: ["JP"], approved: true },
     ],
   },
 ] as unknown as AffiliateOffer[];
