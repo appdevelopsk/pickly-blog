@@ -32,6 +32,13 @@ export default async function LocaleLayout({ children, params }: Props) {
 
   return (
     <html lang={locale} dir={dir}>
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4927026308242118"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className={`${inter.variable} min-h-screen flex flex-col`}>
         <NextIntlClientProvider locale={locale as Locale} messages={messages}>
           <SiteHeader />
