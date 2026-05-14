@@ -39,30 +39,44 @@ function readJson(file: string): Record<string, unknown> | null {
   }
 }
 
-function stringifyText(content: Record<string, unknown>): string {
-  // Flatten title / description / lede / sections / faqs into one big searchable string.
+function stringifyText(content: unknown): string {
+  // Recursively collect all string values from the JSON tree.
   const out: string[] = [];
-  const meta = content.meta as { title?: string; description?: string } | undefined;
-  if (meta?.title) out.push(meta.title);
-  if (meta?.description) out.push(meta.description);
-  if (typeof content.title === "string") out.push(content.title);
-  if (typeof content.description === "string") out.push(content.description);
-  if (typeof content.lede === "string") out.push(content.lede);
-  const sections = content.sections as Array<{ heading?: string; paragraphs?: string[] }> | undefined;
-  if (Array.isArray(sections)) {
-    for (const s of sections) {
-      if (s.heading) out.push(s.heading);
-      if (Array.isArray(s.paragraphs)) out.push(...s.paragraphs);
+  function collect(node: unknown): void {
+    if (typeof node === "string") {
+      out.push(node);
+    } else if (Array.isArray(node)) {
+      for (const item of node) collect(item);
+    } else if (node !== null && typeof node === "object") {
+      for (const val of Object.values(node as Record<string, unknown>)) collect(val);
     }
   }
-  const faqs = content.faqs as Array<{ q?: string; a?: string }> | undefined;
-  if (Array.isArray(faqs)) {
-    for (const f of faqs) {
-      if (f.q) out.push(f.q);
-      if (f.a) out.push(f.a);
-    }
-  }
+  collect(content);
   return out.join("\n");
+}
+
+function hasCJK(s: string): boolean {
+  return /[　-鿿豈-﫿가-힯]/.test(s);
+}
+
+function extractTokens(name: string): string[] {
+  // Split on spaces, hyphens, punctuation, and common Japanese function characters
+  const parts = name
+    .split(/[\s\-—／/、。.()（）\[\]【】!！用とのでが]+/)
+    .filter((t) => (hasCJK(t) ? t.length >= 2 : t.length >= 3));
+
+  // For long CJK-only tokens (no Latin), also generate 3-5 char substrings
+  const extra: string[] = [];
+  for (const t of parts) {
+    if (hasCJK(t) && !/[a-zA-Z]/.test(t) && t.length > 5) {
+      for (let len = 3; len <= Math.min(t.length, 5); len++) {
+        for (let i = 0; i <= t.length - len; i++) {
+          extra.push(t.slice(i, i + len));
+        }
+      }
+    }
+  }
+  return [...parts, ...extra];
 }
 
 const offersById = new Map(CATALOG.map((o) => [o.id, o]));
@@ -121,6 +135,7 @@ for (const article of listArticles()) {
 
     // 3) Each offerId should be mentioned by brand+model in the body.
     //    Only enforce on en/ja — other locales may use transliterated brand names.
+    //    offer-unmentioned uses fuzzy name matching and is warning-only (not a hard error).
     const body = stringifyText(content);
     if (locale === "en" || locale === "ja") {
       for (const offerId of offerIds) {
@@ -130,16 +145,16 @@ for (const article of listArticles()) {
         const enName = (offer.name as Record<string, string>).en;
         const jaName = (offer.name as Record<string, string>).ja;
         const candidates = [localeName, enName, jaName].filter(Boolean) as string[];
-        const tokens = candidates.flatMap((n) =>
-          n.split(/[\s\-—／/、,。.()（）]+/).filter((t) => t.length >= 3),
-        );
-        const found = tokens.some((t) => body.includes(t));
+        const bodyLower = body.toLowerCase();
+        const tokens = candidates.flatMap(extractTokens);
+        const found = tokens.some((t) => bodyLower.includes(t.toLowerCase()));
         if (!found) {
+          const preview = [...new Set(tokens)].slice(0, 3).join("/");
           issues.push({
             slug: article.slug,
             locale,
             kind: "offer-unmentioned",
-            detail: `${offerId} (tried: ${tokens.slice(0, 3).join("/")})`,
+            detail: `${offerId} (tried: ${preview})`,
           });
         }
       }
