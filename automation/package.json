@@ -46,6 +46,7 @@
     "cj:signup": "tsx cj/signup.ts",
     "wise:explore": "tsx wise/explore.ts",
     "pinterest:post-yaml": "tsx pinterest/post-from-yaml.ts",
+    "pinterest:export-csv": "tsx pinterest/export-csv.ts",
     "check:images": "tsx check-image-urls.ts"
   },
   "devDependencies": {

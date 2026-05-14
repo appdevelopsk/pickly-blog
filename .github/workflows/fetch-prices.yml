@@ -25,7 +25,13 @@ jobs:
         run: npm ci
         working-directory: site
 
-      - name: Fetch prices from Amazon
+      - name: Fetch prices
+        # KEEPA_API_KEY が設定されている場合は Keepa API 経由（確実）
+        # 未設定の場合は curl スクレイピング（Amazon CAPTCHA でほぼ失敗）
+        # 設定方法: GitHub → Settings → Secrets → Actions → KEEPA_API_KEY
+        # 取得方法: https://keepa.com/#!api (無料: 100 tokens/day)
+        env:
+          KEEPA_API_KEY: ${{ secrets.KEEPA_API_KEY }}
         run: npx tsx scripts/fetch-prices.ts
         working-directory: site
 
