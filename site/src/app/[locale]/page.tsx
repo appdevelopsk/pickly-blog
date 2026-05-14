@@ -6,6 +6,7 @@ import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
+import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
 
 function getThumbnail(article: ArticleMeta, locale: string): string | null {
@@ -167,16 +168,13 @@ export default async function HomePage({ params }: Props) {
                     className="relative shrink-0 overflow-hidden bg-slate-100 sm:w-2/5"
                     style={{ aspectRatio: isProductImg ? "1/1" : "3/2" }}
                   >
-                    {imgSrc ? (
-                      // eslint-disable-next-line @next/next/no-img-element
-                      <img
-                        src={imgSrc}
-                        alt={title}
-                        className={`h-full w-full transition-transform duration-500 group-hover:scale-105 ${isProductImg ? "object-contain p-6" : "object-cover"}`}
-                      />
-                    ) : (
+                    <ArticleCardImage
+                      src={imgSrc}
+                      alt={title}
+                      className={`h-full w-full transition-transform duration-500 group-hover:scale-105 ${isProductImg ? "object-contain p-6" : "object-cover"}`}
+                    >
                       <CategoryPlaceholder category={featured.category} title={title} />
-                    )}
+                    </ArticleCardImage>
                     <span className="absolute left-3 top-3 rounded-full bg-white/95 border border-slate-200 px-3 py-1 text-xs font-semibold text-slate-700 shadow-sm">
                       {CATEGORY_ICONS[featured.category] ?? ""} {catLabel}
                     </span>
@@ -219,17 +217,13 @@ export default async function HomePage({ params }: Props) {
                         className="relative shrink-0 overflow-hidden bg-slate-100"
                         style={{ aspectRatio: isProductImg ? "4/3" : "4/3" }}
                       >
-                        {imgSrc ? (
-                          // eslint-disable-next-line @next/next/no-img-element
-                          <img
-                            src={imgSrc}
-                            alt={title}
-                            className={`h-full w-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}
-                            loading="lazy"
-                          />
-                        ) : (
+                        <ArticleCardImage
+                          src={imgSrc}
+                          alt={title}
+                          className={`h-full w-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}
+                        >
                           <CategoryPlaceholder category={a.category} title={title} />
-                        )}
+                        </ArticleCardImage>
                         <span className="absolute left-2.5 top-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-semibold text-slate-700 shadow-sm">
                           {catLabel}
                         </span>
