@@ -382,7 +382,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
             <div className="rounded-xl border border-slate-200 bg-white p-4">
               <div className="flex items-center gap-3 mb-3">
                 <img
-                  src="/author-icon.png"
+                  src="/images/author-icon.png"
                   alt={t("author.name")}
                   width={44}
                   height={44}
