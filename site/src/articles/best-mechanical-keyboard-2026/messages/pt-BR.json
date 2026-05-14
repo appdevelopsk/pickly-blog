@@ -1,0 +1,118 @@
+{
+  "title": "Melhor Teclado Mecânico 2026: 5 opções comparadas",
+  "description": "Do Keychron Q1 Pro (montura gasket 75%, Bluetooth 5.1 + 2.4GHz sem fio, programável QMK/VIA, alumínio, RGB, ~¥30.000) ao HHKB Professional Hybrid Type-S (switches eletrostáticos capacitivos Topre, 60% ultra-silencioso, Bluetooth + USB-C, ¥35.000+) passando por Logicool MX Keys S, Nuphy Air75 V2 e Realforce R3.",
+  "lede": "Cinco teclados — Keychron Q1 Pro (montura gasket 75%, Bluetooth 5.1 e 2.4GHz sem fio, programável QMK/VIA, corpo de alumínio completo, RGB, em torno de ¥30.000, disponível no Rakuten Ichiba). O conforto diário e a confiabilidade de construção superam qualquer vantagem na ficha técnica ao longo de um ano.",
+  "sections": [
+    {
+      "heading": "Como comparamos",
+      "paragraphs": [
+        "Não realizamos medições independentes de força de acionamento de switches em condições controladas. Não conduzimos testes de nível de ruído com equipamentos de medição acústica calibrados. Não medimos a taxa de polling nem a latência sem fio com câmeras de alta velocidade ou analisadores de sinal. Testes rigorosos de teclado exigem equipamentos especializados que não podemos reproduzir aqui.",
+        "Em vez disso: revisamos especificações do fabricante e datasheets de switches publicados, especificamente as curvas de força de acionamento publicadas da Gateron para os switches incluídos nas variantes Keychron Q1 Pro e Nuphy Air75 V2, as especificações publicadas da Topre Corporation para o mecanismo eletrostático capacitivo de 45g usado tanto no HHKB Professional Hybrid Type-S quanto no Realforce R3, e as especificações publicadas da Logicool para o mecanismo de tesoura no MX Keys S.",
+        "Um ponto de enquadramento antes dos produtos: esta comparação abrange duas tecnologias de switch diferentes — mecânico (Keychron Q1 Pro, Nuphy Air75 V2), eletrostático capacitivo (HHKB, Realforce) e tesoura (MX Keys S). Esses não são diretamente comparáveis no mesmo eixo tátil ou acústico."
+      ]
+    },
+    {
+      "heading": "Tipos de switches explicados — mecânico vs Topre vs tesoura",
+      "paragraphs": [
+        "Os switches mecânicos compatíveis com MX — a categoria que cobre Gateron, Cherry, Kailh e os switches do Keychron Q1 Pro e Nuphy Air75 V2 — operam completando fisicamente um circuito elétrico quando um haste pressiona uma mola até um ponto de contato. Switches lineares não têm bump tátil ou clique audível. Switches táteis produzem um bump físico no ponto de acionamento. Switches clicky produzem tanto um bump tátil quanto um clique audível.",
+        "Os switches eletrostáticos capacitivos Topre — usados tanto no HHKB Professional Hybrid Type-S quanto no Realforce R3 — operam com um mecanismo completamente diferente. Uma cúpula de borracha cônica sobre uma mola e um sensor capacitivo; quando você pressiona a tecla, a cúpula comprime, a mola se deforma e a mudança na capacitância é registrada como um pressionamento de tecla sem contato físico metal a metal.",
+        "Os switches de tesoura — usados no Logicool MX Keys S — não são teclados mecânicos no sentido tradicional do hobby. O MX Keys S está incluído nesta comparação porque serve ao mesmo caso de uso de 'teclado de escritório de uso diário', mas somos explícitos: não é um teclado mecânico."
+      ]
+    },
+    {
+      "heading": "Escolhas de layout — 60% vs 75% vs TKL vs tamanho completo",
+      "paragraphs": [
+        "O layout do teclado determina quais teclas físicas estão presentes e molda a pegada na mesa, o posicionamento do mouse e o atrito do fluxo de trabalho para uso diário. Tamanho completo (100%) inclui todas as teclas — teclado numérico, linha de funções, cluster de navegação e teclas de seta. TKL (~87%) remove o teclado numérico. O 75% (como o Keychron Q1 Pro e Nuphy Air75 V2) comprime o cluster de navegação e a linha de funções numa grade mais compacta. O 60% (HHKB) remove a linha de funções e o cluster de navegação por completo.",
+        "Para ambientes de escritório japoneses, o tamanho completo é o padrão — o teclado numérico é muito usado para entrada de dados numéricos em fluxos de trabalho de contabilidade, administração e varejo. O Realforce R3 visa esse contexto.",
+        "Teclados 60% como o HHKB requerem uma mudança de modelo mental. Teclas de função e navegação tornam-se acessadas por camadas via a tecla Fn. Este é um período de ajuste não trivial de uma a três semanas antes que a memória muscular o automatize."
+      ]
+    },
+    {
+      "heading": "Montura gasket vs montura de bandeja — qual é a diferença na sensação de digitação",
+      "paragraphs": [
+        "O estilo de montura descreve como a placa interna do teclado — a estrutura à qual os switches são montados — é fixada à carcaça externa. A montura de bandeja fixa a placa ou PCB diretamente à carcaça inferior com parafusos. O resultado é uma estrutura rígida e sólida sem flexão.",
+        "A montura gasket (usada tanto no Keychron Q1 Pro quanto no Nuphy Air75 V2) suspende a placa dentro da carcaça em juntas de silicone ou borracha em vez de parafusos rígidos. Quando você pressiona uma tecla, a placa tem uma pequena quantidade de curso e flexão antes que o fundo da carcaça a pare. A diferença prática: as teclas se sentem mais macias e têm um sutil rebote, e a acústica se desloca para um som de tom mais baixo.",
+        "A diferença acústica entre a montura gasket e a de bandeja é real e mensurável em testes de som da comunidade de entusiastas — mas o grau depende muito da escolha do switch, das keycaps e se alguma espuma de amortecimento foi instalada."
+      ]
+    },
+    {
+      "heading": "Latência sem fio — é real?",
+      "paragraphs": [
+        "A latência do teclado sem fio é uma questão legítima com uma resposta matizada que depende do protocolo sem fio. A latência Bluetooth variou historicamente de 20ms a 100ms dependendo da implementação, dispositivo e ambiente de interferência — significativamente maior que o polling USB com fio a 1–8ms.",
+        "O sem fio com dongle 2.4GHz — usado no Keychron Q1 Pro, Nuphy Air75 V2 e no Logicool MX Keys S (Logi Bolt) — opera com latências de aproximadamente 1–8ms na prática, o que é equivalente ao USB com fio para todos os fins de digitação.",
+        "O HHKB Professional Hybrid Type-S usa apenas Bluetooth — sem opção de dongle 2.4GHz. O Realforce R3 é apenas com fio na maioria das variantes, o que elimina a latência sem fio por completo ao custo do gerenciamento de cabos."
+      ]
+    },
+    {
+      "heading": "Específico para o Japão: layout JIS vs US, status de culto Topre",
+      "paragraphs": [
+        "O layout de teclado JIS (Padrão Industrial Japonês) difere do layout ANSI americano em várias formas que importam na prática. Os teclados JIS têm teclas adicionais para troca de entrada kana (無変換 / 変換 flanqueando a barra de espaço), uma barra de espaço menor para acomodá-las, uma forma diferente da tecla Enter e caracteres kana físicos impressos nas legends das keycaps junto ao romaji.",
+        "Todos os cinco produtos nesta comparação estão disponíveis em variantes JIS ou US ANSI no mercado japonês, com disponibilidade variável. A escolha do HHKB é significativa porque as keycaps do HHKB são de haste Topre não padrão e difíceis de substituir.",
+        "O status de culto Topre nas comunidades japonesas de engenharia e programação é real e tem uma história específica. O HHKB — Happy Hacking Keyboard — foi projetado em 1996 pelo Professor Eiiti Wada da Universidade de Tóquio e fabricado pela PFU Limited. Desenvolveu uma reputação não apenas como um teclado capaz, mas como um artefato cultural associado a programadores sérios."
+      ]
+    },
+    {
+      "heading": "O que mudou em 2026",
+      "paragraphs": [
+        "A montura gasket 75% é agora o ponto ideal convencional. Três anos atrás, a construção com montura gasket a um preço razoável significava pagar ¥40.000+ por placas boutique. Em 2026, o Keychron Q1 Pro e o Nuphy Air75 V2 trouxeram a construção de alumínio com montura gasket para a faixa de ¥20.000–¥30.000 com sem fio como padrão.",
+        "O hot-swap tornou-se a expectativa padrão acima de ¥15.000. Em 2024, os sockets hot-swap eram um recurso premium. Em 2026, são esperados em qualquer placa acima do nível de entrada.",
+        "A lacuna de qualidade sem fio com fio fechou para casos de uso de digitação. As preocupações sobre a confiabilidade de 2.4GHz e Bluetooth que eram legítimas em 2020–2022 melhoraram significativamente nas implementações de geração atual."
+      ]
+    },
+    {
+      "heading": "Onde cada um se encaixa",
+      "paragraphs": [
+        "Home office para entusiastas, montura gasket 75%, sem fio, programabilidade QMK/VIA, hot-swap, construção de alumínio completo, RGB: Keychron Q1 Pro. A combinação de flexibilidade sem fio, firmware programável e construção com montura gasket a aproximadamente ¥30.000 representa o conjunto de recursos mais completo para um digitador de home office que quer personalização.",
+        "Fluxo de trabalho 60% centrado em programação, sensação de switch eletrostático capacitivo, operação de escritório ultra-silenciosa, Bluetooth multi-dispositivo, procedência de engenharia japonesa: HHKB Professional Hybrid Type-S. Para usuários que já usaram switches Topre e valorizam a sensação específica de acionamento eletrostático capacitivo, nada nesta comparação replica isso.",
+        "Produtividade de escritório, sem fio multi-dispositivo, retroiluminação por tecla, sensação de perfil baixo, Flow multi-dispositivo: Logicool MX Keys S. Para usuários que priorizam o conforto de digitação no escritório e o fluxo de trabalho multi-dispositivo acima da sensação do switch mecânico.",
+        "Sem fio de perfil baixo, estética de mesa slim, montura gasket 75%, entrada econômica para construção de alumínio: Nuphy Air75 V2. Para usuários que querem montura gasket sem fio num pacote mais slim que o Keychron Q1 Pro a um preço mais baixo.",
+        "Ambiente corporativo japonês ou profissional — serviços financeiros, administração, instituição de pesquisa — onde importa o tamanho completo ou TKL com qualidade de construção profissional e procedência de fabricação japonesa: Realforce R3."
+      ]
+    },
+    {
+      "heading": "Veredicto",
+      "paragraphs": [
+        "Para um entusiasta de home office que quer sem fio, programabilidade, flexibilidade hot-swap e construção com montura gasket a um preço razoável único: Keychron Q1 Pro. Aceite o peso e a curva de aprendizado do QMK.",
+        "Para um programador ou engenheiro de software que já usou Topre e quer a operação mais silenciosa possível com a filosofia de layout do HHKB: HHKB Professional Hybrid Type-S. Não compre para experimentar Topre pela primeira vez — o preço é alto demais para um experimento de preferência.",
+        "Para um trabalhador de escritório multi-dispositivo que digita o dia todo e não precisa da sensação de switch mecânico: Logicool MX Keys S. Não é um teclado mecânico e não pretende ser.",
+        "Para uma configuração de mesa compacta e slim onde o peso e a pegada do Keychron Q1 Pro são um problema: Nuphy Air75 V2.",
+        "Para um ambiente corporativo japonês ou profissional onde importa o tamanho completo ou TKL com qualidade de construção profissional: Realforce R3.",
+        "Uma nota que se aplica a todos os cinco: nenhum teclado corrige uma má postura de digitação ou uma altura incorreta de mesa-cadeira. A tensão no pulso de sessões prolongadas de digitação é principalmente um problema ergonômico antes de ser um problema de sensação de switch."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Qual tipo de switch um iniciante deveria escolher — linear, tátil ou clicky?",
+      "a": "Para iniciantes que digitam principalmente documentos e código num home office ou escritório privado: switches táteis (Gateron Brown, Gateron G Pro 3.0 Brown ou equivalente) fornecem feedback no ponto de acionamento sem o ruído dos switches clicky. Switches lineares (variantes Red, Yellow, Speed) se adequam a gamers e digitadores rápidos que querem o pressionamento mais suave possível sem feedback. Switches clicky (Blue, Green) são satisfatórios para digitar sozinho, mas inapropriados em ambientes de escritório compartilhados."
+    },
+    {
+      "q": "O hot-swap é necessário, ou posso me comprometer com um tipo de switch?",
+      "a": "Os sockets hot-swap são úteis se você não tem certeza da preferência de switch, quer experimentar ao longo do tempo ou antecipa trocar switches quando desgastados. São menos necessários se você já digitou em switches suficientes para conhecer sua preferência. Se você está comprando uma placa compatível com MX (Keychron Q1 Pro, Nuphy Air75 V2) e não tem certeza sobre os switches, o suporte hot-swap significa que seu investimento em switches não está bloqueado."
+    },
+    {
+      "q": "Um teclado mecânico é apropriado para um ambiente de escritório compartilhado?",
+      "a": "Depende do switch específico. Switches clicky (Blue, Green) não são apropriados para escritórios abertos compartilhados. Switches táteis (variantes Brown) estão no limite. Variantes de switch silencioso — Gateron Silent Red, Cherry MX Silent Red e as cúpulas Topre silenciadas do HHKB Professional Hybrid Type-S — são especificamente projetadas para ambientes compartilhados. O switch de tesoura do Logicool MX Keys S é inerentemente silencioso e apropriado para qualquer escritório compartilhado."
+    },
+    {
+      "q": "Devo escolher layout JIS ou US ANSI no Japão?",
+      "a": "Se você digita japonês principalmente usando entrada romaji (entrada de kana através de caracteres romanos convertidos pelo IME), o layout US ANSI é viável e preferido por muitos programadores. Se você digita japonês usando entrada direta de kana, o layout JIS é necessário. O HHKB está particularmente associado ao layout US ANSI entre usuários programadores devido à sua filosofia de posicionamento da tecla Ctrl."
+    },
+    {
+      "q": "As keycaps Topre são compatíveis com switches MX e vice-versa?",
+      "a": "Não. Os switches Topre usam um design de haste proprietário (frequentemente chamado de haste Topre ou HHKB) que não é compatível com keycaps compatíveis com MX, que usam um design de haste em cruz (+). As keycaps compatíveis com MX do vasto mercado aftermarket — GMK, sets PBT, keycaps da Akko, sets de keycaps da Keychron — não se encaixarão em switches HHKB ou Realforce sem um adaptador."
+    },
+    {
+      "q": "Qual é a vida útil real da bateria dos teclados sem fio no uso diário?",
+      "a": "A vida útil da bateria varia significativamente pelo uso da retroiluminação e pelo modo de conexão. O Keychron Q1 Pro com retroiluminação RGB habilitada funciona aproximadamente 3–4 dias com carga completa sob uso intenso; com retroiluminação desligada, a vida útil da bateria se estende por várias semanas. O HHKB Professional Hybrid Type-S usa pilhas AA (duas), que duram aproximadamente 3 meses sob uso típico de Bluetooth. O Logicool MX Keys S carrega via USB-C e afirma aproximadamente 10 dias com retroiluminação ligada e até 5 meses com retroiluminação desligada."
+    }
+  ],
+  "offerNotes": {
+    "keychron-q1-pro": "Keychron Q1 Pro — montura gasket 75%, Bluetooth 5.1 e 2.4GHz sem fio, firmware programável QMK/VIA, corpo de alumínio completo (~2kg), RGB, sockets hot-swap compatíveis com MX, ~¥30.000. O peso de ~2kg o torna inadequado para viagem; o botão de volume está ausente no modelo base; a configuração de firmware QMK tem uma curva de aprendizado genuína.",
+    "hhkb-professional-hybrid-type-s": "HHKB Professional Hybrid Type-S — switches eletrostáticos capacitivos Topre com cúpulas silenciadas (variante Type-S), operação ultra-silenciosa, layout 60%, Bluetooth 4.2 e USB-C, ¥35.000+. O preço de ¥35.000+ por um teclado 60% sem RGB, sem QMK/VIA, sem hot-swap e sem opção de dongle 2.4GHz é uma proposta de valor que depende completamente de apreciar a sensação Topre.",
+    "logicool-mx-keys-s": "Logicool MX Keys S — switch de tesoura (não mecânico), perfil baixo, Bluetooth e Logi Bolt 2.4GHz sem fio, retroiluminação por tecla, troca de dispositivo Flow (até três dispositivos), ~¥17.000–¥20.000. Não é um teclado mecânico — o mecanismo de tesoura é categoricamente diferente dos switches MX ou Topre.",
+    "nuphy-air75-v2": "Nuphy Air75 V2 — montura gasket ultra-slim 75%, switches mecânicos de perfil baixo, Bluetooth 5.1 e 2.4GHz sem fio, chassi de alumínio, sockets hot-swap compatíveis com MX de perfil baixo, ~¥20.000. Switches de perfil baixo com ~2,5–3mm de curso dividem a opinião dos usuários.",
+    "realforce-r3": "Realforce R3 — mecanismo eletrostático capacitivo Topre, variantes de tamanho completo (104 teclas) e TKL (87 teclas), cambiador de ponto de acionamento (APC) ajustável de 1,5mm a 3mm, fabricado no Japão pela Topre Corporation, ¥40.000+ para tamanho completo."
+  },
+  "pinDescription": "5 teclados comparados para home office 2026 — Keychron Q1 Pro montura gasket sem fio vs HHKB Topre clássico de culto vs Logicool MX Keys S (não mecânico — dizemos isso) vs Nuphy Air75 V2 slim vs Realforce R3 fabricado no Japão. Tipos de switches, layout JIS vs US, verdade sobre latência sem fio."
+}
