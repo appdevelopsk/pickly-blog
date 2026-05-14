@@ -8,6 +8,11 @@ export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
       {
+        // Explicitly allow AdSense/AdBot crawlers before the wildcard rule
+        userAgent: ["Mediapartners-Google", "AdsBot-Google"],
+        allow: "/",
+      },
+      {
         userAgent: "*",
         allow: "/",
         disallow: ["/api/", "/_next/", "/og/_raw/"],
