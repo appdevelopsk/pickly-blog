@@ -10,12 +10,13 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import https from "node:https";
+import { execSync } from "node:child_process";
 import { CATALOG } from "../src/lib/affiliates/catalog";
+import { PRICES as EXISTING_PRICES } from "../src/lib/affiliates/prices-override";
 
 const OUT_PATH = path.resolve(__dirname, "../src/lib/affiliates/prices-override.ts");
-const DELAY_MS = 1500; // polite delay between requests
-const TIMEOUT_MS = 10000;
+const DELAY_MS = 600;    // delay between requests per worker
+const CONCURRENCY = 4;   // parallel workers
 
 // ── helpers ──────────────────────────────────────────────────────────────────
 
@@ -23,28 +24,19 @@ function sleep(ms: number) {
   return new Promise<void>((r) => setTimeout(r, ms));
 }
 
-function fetchPage(url: string): Promise<string> {
-  return new Promise((resolve, reject) => {
-    const req = https.get(
-      url,
-      {
-        headers: {
-          "User-Agent":
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-          "Accept-Language": "ja-JP,ja;q=0.9",
-          Accept: "text/html,application/xhtml+xml",
-        },
-        timeout: TIMEOUT_MS,
-      },
-      (res) => {
-        const chunks: Buffer[] = [];
-        res.on("data", (c: Buffer) => chunks.push(c));
-        res.on("end", () => resolve(Buffer.concat(chunks).toString("utf8")));
-      }
+function fetchPage(url: string): string {
+  try {
+    const buf = execSync(
+      `curl -s -L --max-time 8 ` +
+        `-A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" ` +
+        `-H "Accept-Language: ja-JP,ja;q=0.9" ` +
+        `"${url}"`,
+      { timeout: 12000, maxBuffer: 4 * 1024 * 1024 }
     );
-    req.on("error", reject);
-    req.on("timeout", () => { req.destroy(); reject(new Error("timeout")); });
-  });
+    return buf.toString("utf8");
+  } catch {
+    return "";
+  }
 }
 
 function extractJpPrice(html: string): string | null {
@@ -69,6 +61,12 @@ function formatUsd(raw: string | undefined): string | null {
   return m ? m[0] : null;
 }
 
+function formatJpy(raw: string | undefined): string | null {
+  if (!raw) return null;
+  const m = raw.match(/¥[\d,]+/);
+  return m ? m[0] : null;
+}
+
 // ── main ─────────────────────────────────────────────────────────────────────
 
 async function main() {
@@ -85,38 +83,50 @@ async function main() {
 
   console.log(`Fetching JP prices for ${toFetch.length} offers…`);
 
+  // Start with previously fetched prices so successful scrapes aren't lost on partial runs
   const prices: Record<string, Record<string, string>> = {};
+  for (const [id, markets] of Object.entries(EXISTING_PRICES)) {
+    prices[id] = { ...(markets as Record<string, string>) };
+  }
 
-  // Seed with existing USD prices from catalog
+  // Seed with existing prices from catalog price fields
   for (const o of CATALOG) {
     const usd = formatUsd(o.price);
-    if (usd) {
-      prices[o.id] = { ...prices[o.id], US: usd };
-    }
+    if (usd) prices[o.id] = { ...prices[o.id], US: usd };
+    const jpy = formatJpy(o.price);
+    if (jpy) prices[o.id] = { ...prices[o.id], JP: jpy };
+    // Also check priceMin for yen (some offers only have range)
+    const jpyMin = formatJpy(o.priceMin);
+    if (jpyMin && !prices[o.id]?.JP) prices[o.id] = { ...prices[o.id], JP: jpyMin };
   }
 
-  let ok = 0, failed = 0;
+  let ok = 0, failed = 0, done = 0;
+  const total = toFetch.length;
 
-  for (let i = 0; i < toFetch.length; i++) {
-    const { offer, asin } = toFetch[i];
-    const url = `https://www.amazon.co.jp/dp/${asin}`;
+  // Split into CONCURRENCY chunks and process each chunk sequentially with delay
+  const chunks: (typeof toFetch)[] = Array.from({ length: CONCURRENCY }, () => []);
+  toFetch.forEach((item, i) => chunks[i % CONCURRENCY].push(item));
 
-    try {
-      const html = await fetchPage(url);
-      const price = extractJpPrice(html);
-      if (price) {
-        prices[offer.id] = { ...prices[offer.id], JP: price };
-        ok++;
-        if (ok % 50 === 0) process.stdout.write(`  [${i + 1}/${toFetch.length}] ${ok} ok, ${failed} failed\n`);
-      } else {
-        failed++;
+  await Promise.all(
+    chunks.map(async (chunk) => {
+      for (const { offer, asin } of chunk) {
+        const url = `https://www.amazon.co.jp/dp/${asin}`;
+        const html = fetchPage(url);
+        const price = extractJpPrice(html);
+        if (price) {
+          prices[offer.id] = { ...prices[offer.id], JP: price };
+          ok++;
+        } else {
+          failed++;
+        }
+        done++;
+        if (done % 50 === 0 || done === total) {
+          process.stdout.write(`  [${done}/${total}] ok=${ok} failed=${failed}\n`);
+        }
+        await sleep(DELAY_MS);
       }
-    } catch {
-      failed++;
-    }
-
-    if (i < toFetch.length - 1) await sleep(DELAY_MS);
-  }
+    })
+  );
 
   console.log(`\nDone: ${ok} prices fetched, ${failed} failed.`);
 
