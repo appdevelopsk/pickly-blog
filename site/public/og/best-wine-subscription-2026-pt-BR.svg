@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0" stop-color="#7c2d12"/>
+      <stop offset="1" stop-color="#3f1d04"/>
+    </linearGradient>
+    <linearGradient id="overlay" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="rgba(0,0,0,0)"/>
+      <stop offset="1" stop-color="rgba(0,0,0,0.3)"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1500" fill="url(#bg)"/>
+  <rect width="1000" height="1500" fill="url(#overlay)"/>
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="1000" height="12" fill="#f59e0b"/>
+
+  <!-- Year + locale chip -->
+  <rect x="60" y="80" width="120" height="40" rx="20" fill="#f59e0b"/>
+  <text x="120" y="108" font-family="'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Hiragino Sans', 'PingFang SC', 'PingFang TC', 'Apple SD Gothic Neo', 'Kohinoor Devanagari', 'Devanagari Sangam MN', 'Geeza Pro', 'SF Arabic', Thonburi, 'Sukhumvit Set', 'Arial Unicode MS', sans-serif" font-size="22" fill="#ffffff" font-weight="700" text-anchor="middle">2026</text>
+  <text x="200" y="108" font-family="'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Hiragino Sans', 'PingFang SC', 'PingFang TC', 'Apple SD Gothic Neo', 'Kohinoor Devanagari', 'Devanagari Sangam MN', 'Geeza Pro', 'SF Arabic', Thonburi, 'Sukhumvit Set', 'Arial Unicode MS', sans-serif" font-size="20" fill="rgba(255,255,255,0.7)" font-weight="500">PT-BR</text>
+
+  <!-- Title -->
+  <text x="60" y="420" font-family="'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Hiragino Sans', 'PingFang SC', 'PingFang TC', 'Apple SD Gothic Neo', 'Kohinoor Devanagari', 'Devanagari Sangam MN', 'Geeza Pro', 'SF Arabic', Thonburi, 'Sukhumvit Set', 'Arial Unicode MS', sans-serif" font-size="92" fill="#ffffff" font-weight="900" letter-spacing="-2" text-anchor="start">As melhores</text>
+  <text x="60" y="530" font-family="'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Hiragino Sans', 'PingFang SC', 'PingFang TC', 'Apple SD Gothic Neo', 'Kohinoor Devanagari', 'Devanagari Sangam MN', 'Geeza Pro', 'SF Arabic', Thonburi, 'Sukhumvit Set', 'Arial Unicode MS', sans-serif" font-size="92" fill="#ffffff" font-weight="900" letter-spacing="-2" text-anchor="start">assinaturas de</text>
+  <text x="60" y="640" font-family="'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Hiragino Sans', 'PingFang SC', 'PingFang TC', 'Apple SD Gothic Neo', 'Kohinoor Devanagari', 'Devanagari Sangam MN', 'Geeza Pro', 'SF Arabic', Thonburi, 'Sukhumvit Set', 'Arial Unicode MS', sans-serif" font-size="92" fill="#ffffff" font-weight="900" letter-spacing="-2" text-anchor="start">vinho 2026</text>
+
+  <!-- Subtitle (pin description excerpt) -->
+  <text x="60" y="830" font-family="'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Hiragino Sans', 'PingFang SC', 'PingFang TC', 'Apple SD Gothic Neo', 'Kohinoor Devanagari', 'Devanagari Sangam MN', 'Geeza Pro', 'SF Arabic', Thonburi, 'Sukhumvit Set', 'Arial Unicode MS', sans-serif" font-size="32" fill="rgba(255,255,255,0.85)" font-weight="400" text-anchor="start">5 assinaturas de vinho comparadas para</text>
+  <text x="60" y="874" font-family="'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Hiragino Sans', 'PingFang SC', 'PingFang TC', 'Apple SD Gothic Neo', 'Kohinoor Devanagari', 'Devanagari Sangam MN', 'Geeza Pro', 'SF Arabic', Thonburi, 'Sukhumvit Set', 'Arial Unicode MS', sans-serif" font-size="32" fill="rgba(255,255,255,0.85)" font-weight="400" text-anchor="start">2026: Winc vs Firstleaf vs Naked Wines</text>
+  <text x="60" y="918" font-family="'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Hiragino Sans', 'PingFang SC', 'PingFang TC', 'Apple SD Gothic Neo', 'Kohinoor Devanagari', 'Devanagari Sangam MN', 'Geeza Pro', 'SF Arabic', Thonburi, 'Sukhumvit Set', 'Arial Unicode MS', sans-serif" font-size="32" fill="rgba(255,255,255,0.85)" font-weight="400" text-anchor="start">vs Wine Access vs BRIGHT Cellars.…</text>
+
+  <!-- Footer brand -->
+  <rect x="0" y="1410" width="1000" height="90" fill="rgba(0,0,0,0.4)"/>
+  <text x="60" y="1465" font-family="'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Hiragino Sans', 'PingFang SC', 'PingFang TC', 'Apple SD Gothic Neo', 'Kohinoor Devanagari', 'Devanagari Sangam MN', 'Geeza Pro', 'SF Arabic', Thonburi, 'Sukhumvit Set', 'Arial Unicode MS', sans-serif" font-size="36" fill="#ffffff" font-weight="800">Pickly</text>
+  <text x="940" y="1465" font-family="'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Hiragino Sans', 'PingFang SC', 'PingFang TC', 'Apple SD Gothic Neo', 'Kohinoor Devanagari', 'Devanagari Sangam MN', 'Geeza Pro', 'SF Arabic', Thonburi, 'Sukhumvit Set', 'Arial Unicode MS', sans-serif" font-size="22" fill="rgba(255,255,255,0.7)" font-weight="500" text-anchor="end">pickly.blog</text>
+</svg>
