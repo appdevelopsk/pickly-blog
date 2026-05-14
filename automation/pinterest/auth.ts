@@ -15,7 +15,7 @@ import { URL } from "node:url";
 const APP_ID = process.env.PINTEREST_APP_ID;
 const APP_SECRET = process.env.PINTEREST_APP_SECRET;
 const REDIRECT = "http://localhost:8080/callback";
-const SCOPES = "boards:read,pins:read,pins:write";
+const SCOPES = "boards:read,boards:write,pins:read,pins:write";
 
 if (!APP_ID || !APP_SECRET) {
   console.error("Set PINTEREST_APP_ID and PINTEREST_APP_SECRET in .env");
