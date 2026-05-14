@@ -129,8 +129,10 @@ export default async function ArticlePage({ params }: Props) {
     .sort((a, b) => meta.offerIds.indexOf(a.id) - meta.offerIds.indexOf(b.id));
 
   const canonicalUrl = `${SITE_URL}/${locale}/articles/${slug}/`;
-  const ogImageUrl = meta.ogImage && meta.ogImage !== "auto"
-    ? `${SITE_URL}${meta.ogImage}-${locale}.png`
+  const ogImageUrl = meta.ogImage
+    ? meta.ogImage === "auto"
+      ? `${SITE_URL}/og/${slug}-${locale}.png`
+      : `${SITE_URL}${meta.ogImage}-${locale}.png`
     : null;
 
   // JSON-LD: Article + FAQPage + BreadcrumbList
@@ -195,8 +197,10 @@ export async function generateMetadata({ params }: Props) {
   const description = safeT(t, `articles.${slug}.description`);
 
   const canonicalUrl = `${SITE_URL}/${locale}/articles/${slug}/`;
-  const ogImageUrl = meta.ogImage && meta.ogImage !== "auto"
-    ? `${SITE_URL}${meta.ogImage}-${locale}.png`
+  const ogImageUrl = meta.ogImage
+    ? meta.ogImage === "auto"
+      ? `${SITE_URL}/og/${slug}-${locale}.png`
+      : `${SITE_URL}${meta.ogImage}-${locale}.png`
     : null;
 
   return {
