@@ -21,6 +21,19 @@ function getThumbnail(article: ArticleMeta, locale: string): string | null {
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
+const CATEGORY_ICONS: Record<string, string> = {
+  fitness: "🏋️",
+  food: "🍳",
+  tech: "💻",
+  beauty: "✨",
+  home: "🏠",
+  fashion: "👗",
+  finance: "💰",
+  travel: "✈️",
+  parenting: "👶",
+  pets: "🐾",
+};
+
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
 }
@@ -33,8 +46,21 @@ export default async function HomePage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
-  const articles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
-  const recent = articles.slice(-12).reverse();
+
+  const allArticles = listArticlesForLocale(locale);
+  const articles = allArticles.filter((a) => hasApprovedAds(a, locale));
+  const recent = articles.slice(-16).reverse();
+  const [featured, ...gridArticles] = recent;
+
+  // Category counts across all articles
+  const categoryCounts: Record<string, number> = {};
+  for (const a of allArticles) {
+    categoryCounts[a.category] = (categoryCounts[a.category] ?? 0) + 1;
+  }
+  const topCategories = Object.entries(categoryCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 6)
+    .map(([cat]) => cat);
 
   const orgSchema = {
     "@context": "https://schema.org",
@@ -50,107 +76,212 @@ export default async function HomePage({ params }: Props) {
   };
 
   let heading = "Real reviews, no filler.";
-  let subheading = "Honest comparisons and buyer's guides.";
+  let subheading = "Honest comparisons and buyer's guides across 17 languages.";
+  let navArticles = "Browse all reviews";
   try { heading = t("home.heading"); } catch { /* missing */ }
   try { subheading = t("home.subheading"); } catch { /* missing */ }
-  let navArticles = "All Articles";
   try { navArticles = t("nav.articles"); } catch { /* missing */ }
+
+  // Get title/description for an article
+  function getArticleText(a: ArticleMeta) {
+    let title = a.slug.replace(/-/g, " ");
+    let description = "";
+    try { title = t(`articles.${a.slug}.title`); } catch { /* missing */ }
+    try { description = t(`articles.${a.slug}.description`); } catch { /* missing */ }
+    let catLabel: string = a.category;
+    try { catLabel = t(`category.${a.category}`); } catch { /* missing */ }
+    return { title, description, catLabel };
+  }
 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
-      <div className="mx-auto max-w-5xl px-4 py-10">
-        {/* Hero */}
-        <div className="mb-12 overflow-hidden rounded-3xl bg-slate-900 px-8 py-14 text-center relative">
-          <div className="pointer-events-none absolute inset-0 bg-gradient-to-br from-brand-600/25 via-transparent to-transparent" />
-          <div className="pointer-events-none absolute -top-24 -right-24 h-64 w-64 rounded-full bg-brand-600/10 blur-3xl" />
-          <div className="relative">
-            <h1 className="mb-4 text-5xl font-black tracking-tight text-white md:text-6xl">
-              {heading}
-            </h1>
-            <p className="mx-auto max-w-xl text-lg leading-relaxed text-slate-400">{subheading}</p>
-            <div className="mt-8 flex items-center justify-center gap-4 text-sm">
-              <span className="text-slate-400">
-                <span className="font-bold text-white text-base">{articles.length}</span>
-                {" "}reviews
-              </span>
-              <span className="text-slate-700">·</span>
-              <Link
-                href="/articles"
-                className="inline-flex items-center gap-1.5 rounded-full bg-brand-600 px-5 py-2 text-sm font-bold text-white hover:bg-brand-500 transition-colors shadow-lg shadow-brand-900/30"
-              >
-                {navArticles} →
-              </Link>
-            </div>
-          </div>
-        </div>
 
-        {/* Recent articles grid */}
+      <div className="mx-auto max-w-5xl px-4 pb-20">
+
+        {/* ── Hero ─────────────────────────────────────── */}
+        <section className="py-14 text-center md:py-20">
+          {/* Live indicator + count */}
+          <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-slate-200 bg-slate-50 px-4 py-1.5 text-xs font-semibold text-slate-500 tracking-wide">
+            <span className="inline-block h-1.5 w-1.5 animate-pulse rounded-full bg-green-500" />
+            {articles.length} reviews &nbsp;·&nbsp; 17 languages
+          </div>
+
+          <h1 className="mx-auto mb-4 max-w-2xl text-4xl font-black tracking-tight text-slate-900 md:text-5xl lg:text-6xl">
+            {heading}
+          </h1>
+          <p className="mx-auto max-w-lg text-lg leading-relaxed text-slate-500">
+            {subheading}
+          </p>
+
+          <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
+            <Link
+              href="/articles"
+              className="inline-flex items-center gap-2 rounded-full bg-brand-600 px-7 py-3 text-sm font-bold text-white shadow-lg shadow-brand-900/20 transition-all hover:-translate-y-0.5 hover:bg-brand-700 hover:shadow-brand-900/30"
+            >
+              {navArticles} →
+            </Link>
+          </div>
+        </section>
+
+        {/* ── Category pills ───────────────────────────── */}
+        {topCategories.length > 0 && (
+          <nav className="mb-12 flex flex-wrap justify-center gap-2">
+            {topCategories.map((cat) => {
+              let label = cat;
+              try { label = t(`category.${cat}`); } catch { /* missing */ }
+              return (
+                <Link
+                  key={cat}
+                  href={`/articles#${cat}`}
+                  className="flex items-center gap-1.5 rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-medium text-slate-600 shadow-sm transition-colors hover:border-brand-300 hover:bg-brand-50 hover:text-brand-700"
+                >
+                  {CATEGORY_ICONS[cat] && <span>{CATEGORY_ICONS[cat]}</span>}
+                  <span>{label}</span>
+                  <span className="text-xs text-slate-400">({categoryCounts[cat]})</span>
+                </Link>
+              );
+            })}
+          </nav>
+        )}
+
+        {/* ── Content ──────────────────────────────────── */}
         {recent.length === 0 ? (
           <p className="rounded-xl bg-amber-50 p-6 text-amber-800">
             {t("home.empty")}
           </p>
         ) : (
-          <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {recent.map((a) => {
-              let title = a.slug;
-              try { title = t(`articles.${a.slug}.title`); } catch { /* missing */ }
-              let description = "";
-              try { description = t(`articles.${a.slug}.description`); } catch { /* missing */ }
-              let catLabel: string = a.category;
-              try { catLabel = t(`category.${a.category}`); } catch { /* missing */ }
-              const imgSrc = getThumbnail(a, locale);
+          <>
+            {/* Featured article – large card */}
+            {featured && (() => {
+              const { title, description, catLabel } = getArticleText(featured);
+              const imgSrc = getThumbnail(featured, locale);
               const isProductImg = imgSrc && !imgSrc.includes("/og/");
-
               return (
-                <li key={a.slug}>
-                  <Link
-                    href={`/articles/${a.slug}`}
-                    className="group flex flex-col rounded-2xl border border-slate-200 overflow-hidden bg-white hover:border-brand-300 hover:shadow-lg transition-all duration-200"
+                <Link
+                  href={`/articles/${featured.slug}`}
+                  className="group mb-5 flex flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-brand-200 hover:shadow-xl sm:flex-row"
+                >
+                  {/* Image */}
+                  <div
+                    className="relative shrink-0 overflow-hidden bg-slate-100 sm:w-2/5"
+                    style={{ aspectRatio: isProductImg ? "1/1" : "3/2" }}
                   >
-                    {/* Thumbnail */}
-                    <div className="relative overflow-hidden bg-slate-50" style={{ aspectRatio: isProductImg ? "1/1" : "16/9" }}>
-                      {imgSrc ? (
-                        // eslint-disable-next-line @next/next/no-img-element
-                        <img
-                          src={imgSrc}
-                          alt={title}
-                          className={`w-full h-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}
-                          loading="lazy"
-                        />
-                      ) : (
-                        <CategoryPlaceholder category={a.category} title={title} />
-                      )}
-                      <span className="absolute left-3 top-3 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-semibold text-slate-700 shadow-sm">
-                        {catLabel}
-                      </span>
-                    </div>
-                    {/* Text */}
-                    <div className="flex flex-col flex-1 p-4">
-                      <h2 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-600 transition-colors line-clamp-3">
-                        {title}
-                      </h2>
-                      {description && (
-                        <p className="mt-2 text-xs leading-relaxed text-slate-500 line-clamp-2 flex-1">{description}</p>
-                      )}
-                    </div>
-                  </Link>
-                </li>
+                    {imgSrc ? (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img
+                        src={imgSrc}
+                        alt={title}
+                        className={`h-full w-full transition-transform duration-500 group-hover:scale-105 ${isProductImg ? "object-contain p-6" : "object-cover"}`}
+                      />
+                    ) : (
+                      <CategoryPlaceholder category={featured.category} title={title} />
+                    )}
+                    <span className="absolute left-3 top-3 rounded-full bg-white/95 border border-slate-200 px-3 py-1 text-xs font-semibold text-slate-700 shadow-sm">
+                      {CATEGORY_ICONS[featured.category] ?? ""} {catLabel}
+                    </span>
+                  </div>
+                  {/* Text */}
+                  <div className="flex flex-1 flex-col justify-center p-6 sm:p-8">
+                    <p className="mb-2 text-xs font-semibold uppercase tracking-widest text-brand-600">
+                      Featured
+                    </p>
+                    <h2 className="mb-3 text-xl font-black leading-snug text-slate-900 transition-colors group-hover:text-brand-700 sm:text-2xl">
+                      {title}
+                    </h2>
+                    {description && (
+                      <p className="text-sm leading-relaxed text-slate-500 line-clamp-3">
+                        {description}
+                      </p>
+                    )}
+                    <p className="mt-5 text-sm font-semibold text-brand-600 group-hover:underline">
+                      Read review →
+                    </p>
+                  </div>
+                </Link>
               );
-            })}
-          </ul>
+            })()}
+
+            {/* Article grid */}
+            <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {gridArticles.slice(0, 12).map((a) => {
+                const { title, description, catLabel } = getArticleText(a);
+                const imgSrc = getThumbnail(a, locale);
+                const isProductImg = imgSrc && !imgSrc.includes("/og/");
+                return (
+                  <li key={a.slug}>
+                    <Link
+                      href={`/articles/${a.slug}`}
+                      className="group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-brand-200 hover:shadow-lg"
+                    >
+                      {/* Thumbnail */}
+                      <div
+                        className="relative shrink-0 overflow-hidden bg-slate-100"
+                        style={{ aspectRatio: isProductImg ? "4/3" : "4/3" }}
+                      >
+                        {imgSrc ? (
+                          // eslint-disable-next-line @next/next/no-img-element
+                          <img
+                            src={imgSrc}
+                            alt={title}
+                            className={`h-full w-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}
+                            loading="lazy"
+                          />
+                        ) : (
+                          <CategoryPlaceholder category={a.category} title={title} />
+                        )}
+                        <span className="absolute left-2.5 top-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-semibold text-slate-700 shadow-sm">
+                          {catLabel}
+                        </span>
+                      </div>
+
+                      {/* Text */}
+                      <div className="flex flex-1 flex-col p-4">
+                        <h2 className="text-sm font-bold leading-snug text-slate-900 transition-colors group-hover:text-brand-700 line-clamp-2">
+                          {title}
+                        </h2>
+                        {description && (
+                          <p className="mt-2 flex-1 text-xs leading-relaxed text-slate-500 line-clamp-2">
+                            {description}
+                          </p>
+                        )}
+                        <p className="mt-3 text-xs font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">
+                          Read →
+                        </p>
+                      </div>
+                    </Link>
+                  </li>
+                );
+              })}
+            </ul>
+          </>
         )}
 
-        {articles.length > 12 && (
-          <div className="mt-12 text-center">
+        {/* ── View all CTA ─────────────────────────────── */}
+        {articles.length > 13 && (
+          <div className="mt-14 text-center">
             <Link
               href="/articles"
-              className="inline-flex items-center gap-2 rounded-full bg-brand-600 px-8 py-3 text-sm font-bold text-white hover:bg-brand-700 transition-colors shadow-md"
+              className="inline-flex items-center gap-2 rounded-full border-2 border-brand-600 px-8 py-3 text-sm font-bold text-brand-600 transition-all hover:bg-brand-600 hover:text-white"
             >
               {navArticles} ({articles.length}) →
             </Link>
           </div>
         )}
+
+        {/* ── Trust strip ──────────────────────────────── */}
+        <div className="mt-20 flex flex-wrap justify-center gap-8 border-t border-slate-100 pt-10 text-center">
+          {[
+            { num: articles.length.toString(), label: "Curated reviews" },
+            { num: "17", label: "Languages" },
+            { num: "5+", label: "ASPs monitored" },
+          ].map(({ num, label }) => (
+            <div key={label}>
+              <p className="text-3xl font-black text-slate-900">{num}</p>
+              <p className="mt-0.5 text-xs font-medium text-slate-400 uppercase tracking-wide">{label}</p>
+            </div>
+          ))}
+        </div>
       </div>
     </>
   );

@@ -11,7 +11,10 @@
  */
 import fs from "node:fs/promises";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { PinterestClient } from "./client";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL;
 const BOARD_ID = process.env.PINTEREST_DEFAULT_BOARD_ID;
@@ -47,13 +50,17 @@ async function* enumerateTargets(): AsyncGenerator<PinTarget> {
       const locale = file.replace(".json", "");
       const json = JSON.parse(
         await fs.readFile(path.join(messagesDir, file), "utf8"),
-      ) as { title: string; pinDescription?: string; description: string };
+      ) as { title?: string; pinDescription?: string; description?: string; meta?: { title?: string; description?: string } };
+
+      const title = json.title ?? json.meta?.title ?? "";
+      const description = json.pinDescription ?? json.description ?? json.meta?.description ?? "";
+      if (!title) continue;
 
       yield {
         slug,
         locale,
-        title: json.title,
-        description: json.pinDescription ?? json.description,
+        title,
+        description,
         imageUrl: `${SITE_URL}/og/${slug}-${locale}.png`,
         link: `${SITE_URL}/${locale}/articles/${slug}/`,
       };
