@@ -5,12 +5,16 @@ import { AffiliateLink } from "@/components/AffiliateLink";
 import { Link } from "@/lib/i18n/navigation";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
+import { PRICES } from "@/lib/affiliates/prices-override";
 
 function resolvePrice(o: AffiliateOffer, locale: string): string | null {
+  const market = inferMarketFromLocale(locale);
+  // 1. Market-specific override (auto-fetched daily)
+  const override = PRICES[o.id]?.[market];
+  if (override) return override;
+  // 2. Catalog price field — hide when currency doesn't match market
   const price = o.priceMin && o.priceMax ? `${o.priceMin}〜${o.priceMax}` : (o.price ?? null);
   if (!price) return null;
-  const market = inferMarketFromLocale(locale);
-  // Hide price when currency doesn't match the user's market
   if (price.includes("$") && market !== "US" && market !== "CA") return null;
   if ((price.includes("¥") || price.includes("円")) && market !== "JP") return null;
   if (price.includes("£") && market !== "UK") return null;
