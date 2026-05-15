@@ -58,5 +58,114 @@
     "hamilton-beach-49350-coffee-maker": "The honest budget option — functional 12-cup drip brewing at $30, with pause-and-pour and programmable start. No SCAA certification, no temperature control, no thermal carafe. Makes perfectly acceptable hot coffee if you use good beans and don't let it sit on the warming plate past 20 minutes."
   },
   "pinDescription": "Best drip coffee makers 2026 ranked: Breville Precision Brewer vs Moccamaster KBT vs OXO Brew vs Cuisinart vs Hamilton Beach. SCAA certification explained, thermal vs glass carafe, and which one actually suits your morning routine.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "breville-precision-brewer-bdc450",
+      "badge": "Best Overall",
+      "review": "The Breville Precision Brewer BDC450 hits the SCAA-specified 92-96°C brew window throughout the cycle, runs a 30-45 second bloom pre-infusion to wet the grounds before the main pour, and pushes water through at the flow rate the SCAA's 6-minute target is calibrated for. The 12-cup (1.4 L) vacuum-sealed thermal carafe holds coffee at drinking temperature for two-plus hours without a hot plate, and the included Gold Tone permanent filter means you can skip paper if you prefer. Build quality is solid without feeling overbuilt and the 36 cm height fits under most kitchen cabinets. The main inconvenience is the non-removable water tank — you fill it from the top with a pitcher or move the machine to the sink — but at $280 it's the most extraction-capable home drip brewer that doesn't cost Moccamaster money.",
+      "pros": [
+        "SCAA-certified 92-96°C brew temperature held across the cycle",
+        "30-45 second bloom pre-infusion before main pour",
+        "Vacuum-sealed thermal carafe — no scorching hot plate",
+        "Gold Tone permanent filter included alongside paper compatibility"
+      ],
+      "cons": [
+        "Water tank is non-removable",
+        "Narrow carafe mouth needs a bottle brush for cleaning"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "technivorm-moccamaster-kbt",
+      "badge": "Best Premium",
+      "review": "The Moccamaster KBT is the reference home drip brewer, handmade in Amerongen, Netherlands and SCAA-certified since the program began in 1969. The copper boiling element heats water to 92-96°C in under six minutes, and the brewing arm's three-position flow valve lets you slow extraction for light roasts or speed it up for darker beans — a hardware control no other machine in this comparison offers. A full 10-cup carafe brews in roughly six minutes versus eight to nine on the Breville. The five-year warranty plus parts availability for machines sold decades ago is the actual case for the $70-150 premium over Breville and OXO — most tasters can't reliably distinguish the cup in blind comparisons, so you're paying for repairability, the flow valve, and a machine that will outlast multiple replacements of cheaper brewers.",
+      "pros": [
+        "Manually adjustable three-position flow valve",
+        "Brews a full 10-cup carafe in about six minutes",
+        "Five-year warranty with parts available for decades-old units",
+        "SCAA-certified since 1969 with no major design changes"
+      ],
+      "cons": [
+        "$70+ premium over Breville for marginal in-cup differences",
+        "Single-function — no programmable timer"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "oxo-brew-9-cup-coffee-maker",
+      "badge": "Best Value",
+      "review": "The OXO Brew 9-Cup is the entry point into SCAA-certified drip brewing at $200, undercutting the Breville BDC450 by $80 while delivering the same core specifications: 92-96°C brew temperature, bloom pre-infusion, and a calibrated flow rate. The Rainmaker showerhead distributes water across the full coffee bed evenly rather than pouring from a single point, which produces more consistent extraction across every cup in the carafe. The 9-cup insulated carafe is slightly smaller than Breville's 12-cup but keeps coffee hot for a comparable two hours. The brew-pause feature lets you pour mid-cycle but adds a 10-15 second delay when the carafe returns. For households brewing 6-9 cups daily who want SCAA performance without paying Breville prices, this is the strongest value argument in the comparison.",
+      "pros": [
+        "SCAA-certified at $80 less than the Breville",
+        "Rainmaker showerhead distributes water evenly",
+        "Insulated carafe keeps coffee hot for about two hours",
+        "Bloom pre-infusion built in"
+      ],
+      "cons": [
+        "Narrower carafe mouth makes filling and cleaning awkward",
+        "Brew-pause adds a 10-15 second delay when the carafe returns"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "cuisinart-dcc-3200p1-coffee-maker",
+      "badge": "Best Programmable",
+      "review": "The Cuisinart PerfecTemp DCC-3200P1 is the large-batch programmable workhorse — 14-cup glass carafe, 24-hour advance scheduling, and an adjustable brew strength setting that reduces water flow for smaller 1-4 cup batches. Brew temperature runs roughly 1-3°C below the SCAA-optimal range and the saturation is less even than a showerhead design, so it's not extraction-grade equipment, but for households brewing medium-roast supermarket coffee with morning programming, it does its job well at around $80. The structural weakness is the keep-warm plate: it holds coffee at 65-75°C for up to four hours, but slowly scorches the bottom of the carafe past the 45-minute mark, which affects the last cups of a long-sitting batch. Pour within 30 minutes and this doesn't matter.",
+      "pros": [
+        "24-hour programmable start with adjustable brew strength",
+        "14-cup capacity covers large households",
+        "1-4 cup setting partially compensates for small batches",
+        "Replacement cost is low enough that long-term ownership is forgiving"
+      ],
+      "cons": [
+        "Brew temperature runs below the SCAA-optimal range",
+        "Keep-warm plate scorches the carafe bottom after 45 minutes"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "hamilton-beach-49350-coffee-maker",
+      "badge": "Best Budget",
+      "review": "The Hamilton Beach 49350 is the baseline functional drip brewer at around $30 — 12-cup glass carafe, programmable start time, pause-and-pour that lets you pull the carafe mid-brew, and a 2-hour auto-shutoff keep-warm plate. No SCAA certification, no bloom pre-infusion, no temperature control beyond 'hot.' It makes hot coffee from ground beans in about eight minutes and that's the entire feature list. For households that treat coffee as fuel rather than a considered beverage, this does its job honestly. Realistic lifespan is 3-5 years of normal use, and the total cost of cycling through two of these over eight years is still less than a single Moccamaster — that's the real value argument, not the in-cup quality.",
+      "pros": [
+        "Functional 12-cup drip brewing at around $30",
+        "Programmable start time and pause-and-pour feature",
+        "2-hour auto-shutoff keep-warm",
+        "Cheap enough to replace rather than repair"
+      ],
+      "cons": [
+        "No SCAA certification or temperature control",
+        "Glass carafe with keep-warm plate causes scorching past 20-30 minutes"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For 8-12 cup households who want extraction quality",
+      "offerId": "breville-precision-brewer-bdc450",
+      "reason": "The Breville hits SCAA brew temperature with a bloom pre-infusion and thermal carafe at $280, which is the best extraction performance available in a home drip brewer that doesn't cost Moccamaster money."
+    },
+    {
+      "label": "For buyers who want a 15+ year machine",
+      "offerId": "technivorm-moccamaster-kbt",
+      "reason": "Technivorm keeps spare parts available for machines sold decades ago and the modular construction means most failures are a replacement part, not a new brewer."
+    },
+    {
+      "label": "For 4-8 cup brewers on a tighter budget",
+      "offerId": "oxo-brew-9-cup-coffee-maker",
+      "reason": "OXO delivers SCAA-certified extraction and a Rainmaker showerhead at $200 — $80 less than the Breville — which is the strongest extraction-per-dollar pick here."
+    },
+    {
+      "label": "For large households who need morning programming",
+      "offerId": "cuisinart-dcc-3200p1-coffee-maker",
+      "reason": "The 14-cup capacity plus 24-hour advance scheduling and 1-4 cup strength adjustment make the Cuisinart the practical pick for families brewing on a schedule."
+    },
+    {
+      "label": "For households treating coffee as utility",
+      "offerId": "hamilton-beach-49350-coffee-maker",
+      "reason": "At $30 with programmable start, it makes acceptable hot coffee from good beans without trying to be more than that — and replacement after 3-5 years is still cheaper than premium options."
+    }
+  ]
 }

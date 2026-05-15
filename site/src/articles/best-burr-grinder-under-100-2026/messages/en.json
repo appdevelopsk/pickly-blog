@@ -58,5 +58,114 @@
     "javapresse-manual-burr-grinder": "Ceramic conical burrs, adjustable click settings, hand crank. $25-40. Best manual burr grinder — consistent grind quality, travel-ready, no power required. 1-2 min per cup by hand. Correct for travel, camping, or low-volume daily use."
   },
   "pinDescription": "Best burr grinders under $100 2026: Baratza Encore vs OXO vs Capresso vs Bodum vs JavaPresse manual — grind consistency, settings range, and which budget burr grinder is the biggest upgrade from a blade grinder.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "baratza-encore-burr-grinder",
+      "badge": "Best Overall",
+      "review": "The Baratza Encore is the benchmark entry burr grinder and the one against which every cheaper option gets measured. 40mm conical steel burrs, 40 grind settings ranging from drip-fine down to coarse French press, pulse button for short bursts, and timer-based grinding. The settings range covers every non-espresso brewing method — pour-over, AeroPress, French press, cold brew — without forcing compromises on either end. The real long-term value is repairability: Baratza sells replacement parts and offers factory repair service, which means a well-maintained Encore lasts a decade or more. At $140-160 (often $120-130 on sale) it sits just above the $100 budget threshold, but the consistency and 10+ year lifespan make it better value than cheaper electric grinders that wear out and get tossed.",
+      "pros": [
+        "40 grind settings cover every non-espresso method",
+        "40mm conical steel burrs deliver consistent particle size",
+        "Replacement parts and factory repair service available",
+        "Pulse button for short bursts plus timer-based grinding"
+      ],
+      "cons": [
+        "Slightly above the $100 budget threshold",
+        "Motor is louder than mid-range grinders"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "oxo-brew-conical-burr-grinder",
+      "badge": "Best Value",
+      "review": "The OXO Brew Conical Burr Grinder is the strongest sub-$100 electric pick because of the integrated scale — you dose by weight instead of grinding for a fixed time, which produces more consistent doses across brew sessions and as the bean hopper empties. 15 grind settings cover the range from drip through French press, stainless conical burrs produce reasonably even particle size, and the motor is quieter than the Baratza Encore. The 15 settings are a meaningful step down from the Encore's 40 — there's less fine-tuning headroom — but for most home brewers running a single brew method, the resolution is enough. At $80-100, this is the best argument for not stepping up to the Baratza if budget is the constraint.",
+      "pros": [
+        "Built-in scale doses by weight for repeatable shots",
+        "Stainless steel conical burrs",
+        "Quieter motor than the Baratza Encore",
+        "Stays under the $100 budget threshold"
+      ],
+      "cons": [
+        "15 settings are coarser than the Encore's 40",
+        "Scale calibration drifts and needs occasional reset"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "capresso-infinity-plus",
+      "badge": "Best Low-Static",
+      "review": "The Capresso Infinity Plus runs its stainless conical burrs at a deliberately slow 450 RPM, which is the key spec — the lower speed produces less frictional heat and less static, which in turn reduces grind clumping and the powdery mess that surrounds static-heavy grinders. 16 grind settings cover the drip-through-French-press range. The trade against the OXO is the dosing method: Capresso uses a timer dial rather than a built-in scale, which is less precise for measured doses. Grind quality at comparable settings is on par with OXO. At $75-100 it's the right choice if you've been frustrated by static mess or by grinders heating beans during grinding.",
+      "pros": [
+        "Slow 450 RPM motor reduces static and heat",
+        "16 grind settings cover non-espresso brewing range",
+        "Stainless steel conical burrs",
+        "Less ground-coffee mess at the chute"
+      ],
+      "cons": [
+        "Timer dosing is less precise than OXO's scale",
+        "Slow grinding speed adds time per dose"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "bodum-bistro-burr-grinder",
+      "badge": "Best Entry-Level",
+      "review": "The Bodum Bistro Burr Coffee Grinder is the entry-level electric burr grinder at $50-80 — conical steel burrs, 12 grind settings, and a borosilicate glass grounds container that reduces static cling on the way out of the chute. The construction is lighter than the OXO or Capresso, the 12 settings provide less fine-tuning range than competitors, and the build is engineered down to the price point. For first-time burr grinder buyers stepping up from a blade grinder, the jump in cup quality is immediate and obvious; the Bistro is a legitimate starting point with the realistic expectation of upgrading within two to three years. It's the lowest entry price into consistent grinding, not the long-term pick.",
+      "pros": [
+        "Lowest electric burr grinder price in this comparison",
+        "Glass grounds container reduces static cling",
+        "Conical steel burrs produce real consistency over blade grinders",
+        "Compact footprint for tight kitchens"
+      ],
+      "cons": [
+        "Only 12 grind settings — limited fine-tuning headroom",
+        "Lighter construction won't match Baratza longevity"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "javapresse-manual-burr-grinder",
+      "badge": "Best Manual",
+      "review": "The JavaPresse Manual Burr Grinder is a hand-cranked ceramic burr grinder — you turn a handle to drive the burrs rather than a motor. The ceramic conical burrs produce grind consistency comparable to electric grinders in the same price range, with adjustable click settings spanning fine to coarse. The trade-off is time and effort: grinding 20 grams of coffee for a pour-over takes one to two minutes of cranking. No power required, no motor noise, compact enough for a backpack — which is exactly why manual grinders dominate the camping and travel categories. At $25-40 it's the cheapest entry into consistent burr grinding, but it's not the right tool for daily multi-cup brewing.",
+      "pros": [
+        "Ceramic burrs grind consistently without power",
+        "Travel-friendly compact size and no motor noise",
+        "Lowest price in the comparison for true burr grinding",
+        "Adjustable click settings span fine to coarse"
+      ],
+      "cons": [
+        "1-2 minutes of hand cranking per dose",
+        "Impractical for multi-cup daily household use"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For brewers who'll keep the same grinder for a decade",
+      "offerId": "baratza-encore-burr-grinder",
+      "reason": "Baratza's factory repair service and replaceable parts mean the Encore lasts 10+ years, which is the realistic value frame even at the slight premium over $100."
+    },
+    {
+      "label": "For brewers who want a built-in scale",
+      "offerId": "oxo-brew-conical-burr-grinder",
+      "reason": "OXO is the only sub-$100 grinder here with weight-based dosing, which produces noticeably more consistent shots than timer-based grinding."
+    },
+    {
+      "label": "For kitchens frustrated by grinder static mess",
+      "offerId": "capresso-infinity-plus",
+      "reason": "The 450 RPM slow-speed motor produces less heat and static than competitors, which directly reduces the powdery mess around the chute."
+    },
+    {
+      "label": "For first-time burr grinder buyers on a tight budget",
+      "offerId": "bodum-bistro-burr-grinder",
+      "reason": "At $50-80 the Bistro is the cheapest electric burr grinder here and the cup-quality jump from a blade grinder is immediate."
+    },
+    {
+      "label": "For travelers and campers",
+      "offerId": "javapresse-manual-burr-grinder",
+      "reason": "The hand-crank ceramic burrs work without power, fit in a backpack, and produce grind consistency comparable to entry electric grinders."
+    }
+  ]
 }

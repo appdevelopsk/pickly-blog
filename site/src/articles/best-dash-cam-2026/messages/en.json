@@ -80,5 +80,114 @@
     "nextbase-622gw": "4K resolution with image stabilization (Nextbase's 'image stabilization' addresses vibration blur in rough-road footage), emergency SOS feature (contacts emergency services on significant impact detection if not acknowledged by driver), built-in GPS. Clear weakness: emergency SOS requires a Nextbase account and active data subscription for full functionality; parking mode implementation requires a separate Nextbase hardwire kit; the Click&Go mount system is proprietary and accessories are Nextbase-specific; image stabilization reduces some but not all vibration blur and does not match a gimbal-stabilized camera in rough conditions."
   },
   "pinDescription": "Five dash cams compared for 2026 — Vantrue E1 Lite budget compact to BlackVue DR970X-2CH 4K cloud-connected two-channel. 4K vs STARVIS low-light, parking mode power options, front-only vs 2-channel decision",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "vantrue-e1-lite",
+      "badge": "Best Budget",
+      "grade": "A+",
+      "review": "The Vantrue E1 Lite is the entry-level pick that earns its top ranking by value rather than by image quality. The compact 1080p body mounts discreetly behind the rearview mirror, daytime footage is clean enough for plate capture at typical following distances, and the price sits at roughly one-eighth of the BlackVue DR970X-2CH. Sony STARVIS is not confirmed in official documentation, so low-light performance trails the Kenwood and Garmin units by a visible margin in night and parking-garage scenarios. There is no GPS and no hardwire kit included for proper parking mode. The honest framing: this is the right pick for daylight commuting and incident-only recording, not the right pick if you regularly drive at night or want serious parking surveillance.",
+      "pros": [
+        "Compact 1080p body mounts discreetly behind the rearview mirror",
+        "Entry-level price around 8,000 yen — lowest in the comparison",
+        "Adequate daylight image quality for plate capture at typical distances",
+        "Simple installation with no hardwire kit required for basic use"
+      ],
+      "cons": [
+        "Unspecified sensor — low-light performance trails STARVIS-equipped rivals",
+        "No GPS and no parking mode hardwire kit included"
+      ]
+    },
+    {
+      "offerId": "blackvue-dr970x-2ch",
+      "badge": "Best Premium",
+      "grade": "A",
+      "review": "The BlackVue DR970X-2CH is the most complete spec sheet in this comparison and the right pick for buyers who want 4K front, 1080p rear, and BlackVue Cloud live remote viewing on a single integrated system. The supercapacitor power buffer instead of a LiPo battery is a genuine advantage in Japanese summer parking — the supercapacitor tolerates 70-80°C cabin temperatures far better than the lithium polymer cells used in cheaper cameras. Cloud crash notification, LTE option on the LTE variant, and dual-channel rear coverage make this the right tool for owners who want comprehensive insurance documentation. The 60,000-70,000 yen price is the highest here, installation runs 30-60 minutes including headliner cable routing, and advanced cloud features require a subscription.",
+      "pros": [
+        "4K front plus 1080p rear with integrated dual-channel cable routing",
+        "Supercapacitor power buffer survives Japanese summer interior heat",
+        "BlackVue Cloud live remote viewing and crash notification",
+        "LTE variant available for always-connected parking monitoring"
+      ],
+      "cons": [
+        "60,000-70,000 yen is the highest price in the comparison",
+        "Cloud features require a subscription and installation takes 30-60 minutes"
+      ]
+    },
+    {
+      "offerId": "kenwood-drv-a601w",
+      "badge": "Best Low-Light",
+      "grade": "A",
+      "review": "The Kenwood DRV-A601W pairs a 4K front sensor with Sony STARVIS, which produces the best night and low-light footage of any front-only camera in this comparison. License plate readability at 15+ meters in drizzle or in a dim parking garage genuinely surpasses what the Vantrue E1 Lite captures, and the built-in GPS handles speed and location stamping for insurance evidence. Kenwood's domestic Japanese dealer and service network is a real practical advantage if anything needs warranty attention. The honest tradeoffs: this is front-only, so adding rear coverage requires a separate add-on camera that increases total cost, the parking mode implementation is less sophisticated than BlackVue's cloud-based system, and a hardwire kit is sold separately for real-time motion-trigger parking mode.",
+      "pros": [
+        "4K front with confirmed Sony STARVIS sensor for low-light footage",
+        "Built-in GPS for speed and location stamping",
+        "Strong Japanese dealer and service network for warranty support",
+        "Excellent plate readability at 15+ meters in poor lighting"
+      ],
+      "cons": [
+        "Front-only — rear coverage requires separate add-on camera",
+        "Parking mode requires a separately-sold hardwire kit"
+      ]
+    },
+    {
+      "offerId": "garmin-dash-cam-67w",
+      "badge": "Best Wide-Angle",
+      "grade": "B+",
+      "review": "The Garmin Dash Cam 67W earns its place by capturing what narrower cameras miss. The 180-degree field of view records lane-change conflicts and side-impact scenarios that 120-140 degree cameras simply cannot frame, and the Sony STARVIS sensor delivers respectable night-time performance at 1440p. Voice control, built-in GPS, and Travelapse journey-playback mode are genuinely useful daily features, and the compact body fits behind a small mirror cleanly. The honest cost of that wide field of view is barrel distortion at the frame edges that can reduce plate readability for vehicles at the far sides, the 1440p resolution sits between 1080p and true 4K, the camera is front-only with no rear option, and Garmin Drive app is required for GPS log review. There is no cloud connectivity.",
+      "pros": [
+        "180-degree field of view captures lane-change and side-impact scenarios",
+        "Sony STARVIS sensor with 1440p resolution for night driving",
+        "Voice control plus built-in GPS and Travelapse playback mode",
+        "Compact body suits drivers who want a discreet mount"
+      ],
+      "cons": [
+        "Barrel distortion at frame edges reduces plate readability at the sides",
+        "Front-only with no cloud connectivity or rear-camera option"
+      ]
+    },
+    {
+      "offerId": "nextbase-622gw",
+      "badge": "Best Safety Features",
+      "grade": "B+",
+      "review": "The Nextbase 622GW is the pick for drivers who specifically want emergency-response features integrated into the dash cam. The 4K front sensor with Nextbase's image stabilization addresses vibration blur on rough Japanese road surfaces meaningfully, and the emergency SOS feature contacts emergency services automatically on significant impact detection if the driver does not respond — a genuine differentiator for solo drivers and long-distance commuters. Built-in GPS handles location stamping and the Click&Go mount makes installation and removal quick. The honest tradeoffs: emergency SOS requires a Nextbase account and active data subscription for full functionality, parking mode needs a separately-sold Nextbase hardwire kit, the Click&Go mount accepts only Nextbase accessories, and image stabilization reduces but does not eliminate vibration blur in the worst road conditions.",
+      "pros": [
+        "Emergency SOS contacts emergency services on significant impact",
+        "Image stabilization meaningfully reduces vibration blur",
+        "Built-in GPS plus quick-release Click&Go mount",
+        "4K resolution with a Sony STARVIS-class sensor architecture"
+      ],
+      "cons": [
+        "Emergency SOS needs Nextbase account and data subscription",
+        "Proprietary Click&Go mount limits accessory ecosystem"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For daylight commuters on a tight budget",
+      "offerId": "vantrue-e1-lite",
+      "reason": "8,000-yen entry price and discreet 1080p body cover daylight incident recording without the night or parking mode complications."
+    },
+    {
+      "label": "For Japanese summer parking and full cloud coverage",
+      "offerId": "blackvue-dr970x-2ch",
+      "reason": "Supercapacitor power buffer and BlackVue Cloud LTE option give the most complete 4K plus 1080p rear coverage with crash notification."
+    },
+    {
+      "label": "For drivers who care most about night-time plate readability",
+      "offerId": "kenwood-drv-a601w",
+      "reason": "4K Sony STARVIS sensor produces the cleanest front-only night and low-light footage with built-in GPS and Japanese service support."
+    },
+    {
+      "label": "For lane-change and side-impact documentation",
+      "offerId": "garmin-dash-cam-67w",
+      "reason": "180-degree field of view plus voice control and Travelapse mode capture conflicts that narrower cameras miss at intersections."
+    },
+    {
+      "label": "For solo drivers who want automatic emergency response",
+      "offerId": "nextbase-622gw",
+      "reason": "Emergency SOS auto-call and image stabilization with 4K and built-in GPS suit long-distance and solo highway driving."
+    }
+  ]
 }

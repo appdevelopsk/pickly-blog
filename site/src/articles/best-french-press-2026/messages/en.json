@@ -58,5 +58,114 @@
     "mueller-french-press": "Stainless carafe (single-wall), multi-layer filtration. $25-35. Lowest-cost functional French press. Better heat retention than glass, adequate filtration for the price. Entry point for first-time French press brewers."
   },
   "pinDescription": "French press comparison 2026: Bodum Chambord vs Fellow Clara vs Espro P3 vs Frieling vs Mueller — filtration quality, heat retention, and which French press is worth paying more for.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "bodum-chambord-french-press",
+      "badge": "Best Overall",
+      "review": "The Bodum Chambord is the reference French press — manufactured largely unchanged since 1974, and for most of that time it was the best-available option for home use. The borosilicate glass carafe is heat-resistant and flavor-neutral, the stainless steel frame plus chrome-plated handle and lid are durable, and the single-mesh plunger does its job with the expected caveat: some sediment makes it to the cup. That's inherent to the design, not a flaw. Available in 3, 4, 8, and 12-cup sizes; the 8-cup at $35-50 is the household standard. The honest weakness is heat retention — glass loses temperature quickly, so this is the press for brew-and-drink-immediately use rather than a press that sits on the counter for an hour. As the baseline correct choice for full-immersion French press, it sets the standard everything else in this category is measured against.",
+      "pros": [
+        "Heat-resistant borosilicate glass carafe",
+        "Stainless frame durable enough to last decades",
+        "Widely available in multiple sizes and replacement parts",
+        "Lowest barrier-to-entry for proper French press brewing"
+      ],
+      "cons": [
+        "Glass carafe loses heat quickly",
+        "Single-mesh plunger lets fines through"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "Fellow-Clara-french-press",
+      "badge": "Best Insulated",
+      "review": "The Fellow Clara French Press applies the insulated-bottle principle to French press — a double-wall stainless steel carafe keeps brew at drinking temperature for 45-60 minutes versus 15-20 minutes for the glass-carafe Chambord. The outer wall is matte black or polished finish; the inner wall is brushed stainless. The plunger uses a screen that's marginally finer than Bodum's standard mesh — not as engineered as Espro's dual-screen, but enough to reduce sediment somewhat. The aesthetic is deliberate kitchen-counter object territory; Fellow makes design-forward equipment and this is no exception. At $80-100 for an 8-cup, the price reflects both the insulation and the industrial design. The right pick for households where the press sits on the counter while people work.",
+      "pros": [
+        "Double-wall stainless holds heat 45-60 minutes",
+        "Premium kitchen-counter aesthetic",
+        "Finer mesh than standard single-screen plungers",
+        "Stainless construction won't shatter like glass"
+      ],
+      "cons": [
+        "Filtration is better than Bodum but not Espro-tier",
+        "$80-100 is a real premium over the Chambord baseline"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "espro-p3-french-press",
+      "badge": "Best Filtration",
+      "review": "The Espro P3 uses a patented double micro-filter — two stacked filters with different mesh sizes that dramatically reduce sediment compared to standard plungers. The outer filter catches grounds; the inner micro-filter catches the fines that standard mesh passes. The result is a French press cup that's significantly cleaner than any single-mesh plunger produces while retaining the oil-rich body that makes French press distinct from drip. The carafe is borosilicate glass with a plastic outer shell, available in 18 oz or 32 oz. If you love French press body but dislike sediment at the bottom of the cup, this is the specific tool designed to deliver exactly that — and it works as advertised. The trade is that the dual-screen filter requires rinsing both layers after each brew, which is slightly more cleanup than the Chambord.",
+      "pros": [
+        "Patented double micro-filter cuts sediment dramatically",
+        "Retains full-bodied oil-rich character",
+        "Available in 18 oz and 32 oz sizes",
+        "Cleaner cup than any single-mesh plunger"
+      ],
+      "cons": [
+        "Dual-screen filter requires more rinsing per cleanup",
+        "Heat retention is closer to glass than to double-wall stainless"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "frieling-double-wall-french-press",
+      "badge": "Best Heat Retention",
+      "review": "The Frieling is the utilitarian version of the double-wall insulated French press — same thermal principle as the Fellow Clara, but without the industrial design ambitions. Double-wall polished stainless steel construction holds coffee hot for roughly an hour. The plunger uses a four-part filtration system with a spring-loaded screen that maintains consistent pressure against the carafe walls to minimize bypass flow around the edges, which produces slightly better filtration than the Chambord. Heat retention is comparable to Fellow Clara, sometimes marginally better depending on ambient temperature. At $80-120 for an 8-cup, it's priced similarly to Clara but the design is functional rather than display-forward. Pick it if you want maximum heat retention and don't care about how it looks on the counter.",
+      "pros": [
+        "Polished double-wall stainless retains heat about an hour",
+        "Four-part spring-loaded plunger minimizes bypass flow",
+        "Won't break from drops or thermal shock",
+        "Dishwasher-safe components"
+      ],
+      "cons": [
+        "Utilitarian design without Fellow Clara's display appeal",
+        "Stainless makes it harder to gauge brew color and progress"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "mueller-french-press",
+      "badge": "Best Budget",
+      "review": "The Mueller French Press is the high-volume budget option at $25-35 — single-wall stainless steel carafe (not double-wall), claims of 4-layer filtration that in practice amount to a standard mesh plunger plus an additional coarse screen. Heat retention is better than glass but less than true double-wall insulated presses. Filtration is adequate for the price, not premium. The stainless construction means it won't shatter, and the price point makes it the entry choice for first-time French press brewers or for offices and break rooms where breakage risk is real. Don't expect Espro-level clean cup or Fellow-level heat retention — at this price, it covers the basics functionally and that's the value argument.",
+      "pros": [
+        "Lowest-cost functional French press in this comparison",
+        "Stainless carafe won't shatter from drops",
+        "Heat retention is better than glass single-wall presses",
+        "Adequate filtration for the price"
+      ],
+      "cons": [
+        "Single-wall stainless doesn't match true double-wall insulation",
+        "Filtration won't match Espro's dual micro-filter"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For first-time French press brewers",
+      "offerId": "bodum-chambord-french-press",
+      "reason": "The Chambord is the category baseline — heat-resistant glass, durable stainless frame, and the lowest entry price for proper French press brewing."
+    },
+    {
+      "label": "For households where the press sits while people work",
+      "offerId": "Fellow-Clara-french-press",
+      "reason": "The double-wall stainless carafe holds drinking temperature 45-60 minutes, which makes the second and third cups taste like the first."
+    },
+    {
+      "label": "For drinkers who love French press body but dislike sediment",
+      "offerId": "espro-p3-french-press",
+      "reason": "The patented double micro-filter is the only mechanism here that meaningfully reduces fines without losing the oil-rich body that defines French press."
+    },
+    {
+      "label": "For maximum heat retention without aesthetic premiums",
+      "offerId": "frieling-double-wall-french-press",
+      "reason": "Frieling matches Fellow Clara's hour-long thermal hold with a four-part spring-loaded plunger and a utilitarian price-to-function ratio."
+    },
+    {
+      "label": "For offices, break rooms, and first-time buyers on a budget",
+      "offerId": "mueller-french-press",
+      "reason": "Stainless construction won't shatter and the $25-35 price covers the basics without the heat retention or filtration premiums of the higher tiers."
+    }
+  ]
 }

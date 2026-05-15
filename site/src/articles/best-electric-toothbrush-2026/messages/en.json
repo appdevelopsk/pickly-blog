@@ -116,5 +116,114 @@
     "oclean-x-pro-elite": "Oclean's AI-coached flagship brush with a piezoelectric motor (significantly quieter than oscillating or sonic brushes), an AMOLED display on the handle showing real-time brushing coverage and pressure, AI coaching that identifies missed zones without requiring a phone in hand, and approximately 30 days of battery life on a charge. At around $80, it delivers AI coaching at roughly one-quarter the price of the Oral-B iO Series 9. Oclean is a newer brand (founded 2017) with a shorter long-term reliability track record than Oral-B or Philips; the app's AI coaching data goes to Chinese servers, a data-residency consideration distinct from product quality; replacement heads are available primarily online and not in physical pharmacy retail in most markets outside China."
   },
   "pinDescription": "5 electric toothbrushes compared in 2026 — from the $300+ Oral-B iO with AI zone coaching to the $80 Oclean with AMOLED display. Oscillating vs sonic vs piezoelectric honestly explained. Pressure sensor math. Subscription head costs over 2 years. Data privacy angle on app brushes",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use.",
+  "products": [
+    {
+      "offerId": "oral-b-io-series-9",
+      "badge": "Best AI Coaching",
+      "review": "The iO Series 9 is the most behaviorally instrumented brush in this comparison. The magnetic-drive oscillating-rotating head spins the round brush head at roughly 9,000 oscillations per minute with significantly less handle vibration than older Oral-B Pro motors, and the 16-zone Bluetooth mouth-mapping in the Oral-B app identifies missed surfaces session by session. A pressure-sensor color ring on the handle changes from white to red when force crosses the enamel-erosion threshold, which is the one clinically defensible feature in the category. Six cleaning modes and a charging travel case round out the package. The round head suits predictable dentition; crowded or rotated teeth get less even contact than a sonic brush head delivers.",
+      "pros": [
+        "16-zone AI mouth-mapping with session-by-session feedback",
+        "Pressure-sensor ring with visible color alert on handle",
+        "Magnetic drive runs quieter than legacy Pro motors",
+        "ADA Seal of Acceptance and well-studied oscillating geometry"
+      ],
+      "cons": [
+        "Round head cups less cleanly around crowded or rotated teeth",
+        "App requires Oral-B account and pushes data sharing during onboarding"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "philips-sonicare-diamondclean-9000",
+      "badge": "Best Gift Pick",
+      "review": "The DiamondClean 9000 is Philips Sonicare's premium-presented sonic flagship — the glass charging cup, weighted handle, and lacquered packaging make it the most gift-appropriate brush in this comparison. Sonic vibration at 31,000 strokes per minute is gentler on gum tissue than oscillating-rotating, which makes it the better fit for users with recession or sensitivity. Four modes cover Clean, White+, Gum Health, and Deep Clean+, and the pressure sensor slows the motor under excess force rather than just lighting an indicator. The glass charging cup is fragile and impractical for travel; the brush needs a separate travel case and standard cable for any trip beyond the battery window.",
+      "pros": [
+        "Sonic 31,000 strokes/min is gentler on receding or sensitive gums",
+        "Motor slows under excess pressure rather than just flashing a light",
+        "Premium glass charging cup and packaging present well as a gift",
+        "Four cleaning modes cover most preference profiles"
+      ],
+      "cons": [
+        "Glass charging cup is fragile and useless for travel",
+        "App data model and account creation comparable to Oral-B"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "panasonic-doltz-ew-dp52",
+      "badge": "Best No-App Pick",
+      "review": "The Doltz EW-DP52 is the mid-to-premium Japanese-made sonic brush for buyers who want a pressure sensor and a built-in timer without Bluetooth, app accounts, or data uploads. The slim handle suits smaller hands and balances well over a two-minute brushing cycle. Sonic vibration delivers respectable plaque removal at a sub-flagship price, and Panasonic's domestic service network in Japan means broken units get repaired rather than replaced. The trade is honest: no AI coaching, weaker oscillation output than the Oral-B iO's magnetic drive, and replacement heads are harder to find outside Japan, which is a real constraint for international users who travel with the brush.",
+      "pros": [
+        "Pressure sensor with light indicator — no app required",
+        "Slim ergonomic handle suits smaller hands",
+        "Japanese domestic service network for repair support",
+        "Sonic technology gentler on gum tissue than oscillating-rotating"
+      ],
+      "cons": [
+        "Replacement heads harder to source outside Japan",
+        "No AI coaching or zone-mapping feedback"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "quip-electric-toothbrush",
+      "badge": "Best for Travel",
+      "review": "The Quip Electric is the minimalist travel-first pick — a flat profile that fits any toiletry bag without a dedicated case, a built-in two-minute timer with 30-second quadrant intervals, and a subscription that ships a fresh head and AAA battery every three months for $5. Running on a single AAA rather than a rechargeable pack eliminates the charging cable from your travel kit entirely, and the ADA Seal of Acceptance is on file. The omissions are real: no pressure sensor (the most meaningful clinical gap in this comparison), basic vibration that does not meet the clinical definition of oscillating or sonic, and subscription-only replacement heads mean you cannot grab a spare at a pharmacy mid-trip.",
+      "pros": [
+        "Flat profile fits any toiletry bag without a travel case",
+        "Single AAA battery removes charging cables entirely",
+        "$5/quarter subscription is the lowest two-year head cost in this list",
+        "ADA Seal of Acceptance and 30-second quadrant timer built in"
+      ],
+      "cons": [
+        "No pressure sensor — the most significant clinical omission here",
+        "Replacement heads only via subscription, not pharmacy retail"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "oclean-x-pro-elite",
+      "badge": "Best Value",
+      "review": "The X Pro Elite brings AI brushing coaching, an AMOLED display showing real-time zone coverage and pressure, a quiet piezoelectric motor, and roughly 30 days of battery life on a single charge to around $80 — a category shift from when AI-coached brushing meant paying $250 or more. The AMOLED screen on the handle gives you feedback without needing your phone in hand, which is a genuine usability advantage over Bluetooth-only systems. The piezoelectric motor is the quietest in the group. The caveats are real: shorter brand track record than Oral-B or Philips, app data goes to Chinese servers (a jurisdiction consideration distinct from product quality), and replacement heads are primarily online rather than in pharmacy retail.",
+      "pros": [
+        "AMOLED display shows coverage and pressure without phone in hand",
+        "Piezoelectric motor noticeably quieter than oscillating or sonic",
+        "Roughly 30-day battery life — longest in this comparison",
+        "Lowest two-year total cost of ownership in the group"
+      ],
+      "cons": [
+        "App data resides on Chinese servers — jurisdiction-sensitive users should note",
+        "Replacement heads not stocked in physical pharmacy retail in most markets"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For chronic zone-missers diagnosed by a dentist",
+      "offerId": "oral-b-io-series-9",
+      "reason": "The 16-zone Bluetooth mouth-mapping is the most granular feedback in the category and directly addresses a documented brushing-pattern problem."
+    },
+    {
+      "label": "For sensitive or receding gums",
+      "offerId": "philips-sonicare-diamondclean-9000",
+      "reason": "Sonic 31,000 strokes/min and a pressure sensor that slows the motor are gentler on compromised gum tissue than oscillating-rotating."
+    },
+    {
+      "label": "For privacy-conscious buyers who want no app",
+      "offerId": "panasonic-doltz-ew-dp52",
+      "reason": "Pressure-sensor feedback and a built-in timer without any Bluetooth, account creation, or data upload to a corporate server."
+    },
+    {
+      "label": "For frequent travelers and minimalists",
+      "offerId": "quip-electric-toothbrush",
+      "reason": "Flat profile fits any bag, runs on a single AAA so no charger required, and the $5/quarter subscription handles head and battery replacement."
+    },
+    {
+      "label": "For AI coaching on a tight budget",
+      "offerId": "oclean-x-pro-elite",
+      "reason": "AMOLED zone feedback and AI coaching at roughly one-quarter the price of the Oral-B iO, with the longest battery life in this comparison."
+    }
+  ]
 }

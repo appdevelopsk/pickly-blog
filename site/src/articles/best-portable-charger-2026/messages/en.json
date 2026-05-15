@@ -92,5 +92,114 @@
     "iniu-portable-charger": "Budget fast-charging pick — 10,000mAh, 20W USB-C at the same price as the Anker Slim. Faster charging than the Anker Slim; shorter brand track record. Right pick if charging speed matters more than form factor at sub-$25."
   },
   "pinDescription": "5 portable chargers compared for 2026: from 186g commuter-slim Anker to 140W laptop-charging Anker 737. mAh explained, airline rules, USB-C wattage guide — know exactly what to carry.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "anker-powercore-slim-10000",
+      "badge": "Best for Daily Commute",
+      "grade": "A+",
+      "review": "The Anker PowerCore Slim 10000 is the right pick for the most common use case — daily commute emergency phone charging at the lightest possible weight. The 186g flat slab is roughly the size and shape of two stacked iPhones, slim enough to forget it's in a jacket pocket and able to slide into a laptop bag back pocket where cylindrical banks would roll around. 10,000mAh delivers approximately 2 full iPhone 15 charges or 1.5 charges of a Samsung Galaxy S24 Ultra, with USB-C and USB-A outputs at 12W each and overnight recharge in 4-5 hours via 18W USB-C input. At around 22 USD this is the value benchmark for a daily-carry charger. The honest tradeoffs: 12W USB-C output is noticeably slower than the 20W Apple charger that most modern phones expect, and the remaining-capacity indicator is LED dots only (no precise percentage display).",
+      "pros": [
+        "186g flat slab — disappears in a jacket pocket or bag pocket",
+        "10,000mAh delivers approximately 2 full iPhone 15 charges",
+        "USB-C and USB-A outputs at 12W each cover most phones",
+        "Around 22 USD — the value benchmark in this comparison"
+      ],
+      "cons": [
+        "12W USB-C output is slower than modern 20W fast chargers",
+        "LED-dot capacity indicator — no precise percentage display"
+      ]
+    },
+    {
+      "offerId": "anker-737-power-bank",
+      "badge": "Best for Laptops",
+      "grade": "A",
+      "review": "The Anker 737 Power Bank (PowerCore 24K) is the high-end pick for buyers who charge a laptop away from outlets. 24,000mAh at 88.8Wh stays under the 100Wh airline carry-on limit, dual USB-C ports each support 100W output, total 140W output charges a 15-inch MacBook Pro at approximately wall-charger speed, and the dual-port 65W input recharges the bank itself in about 2.5 hours — faster per mAh than the slim unit. The digital display shows exact battery percentage rather than LED dots, which matters when planning charge windows during a 3-hour layover. At around 100 USD this is a considered purchase. The honest tradeoffs: 443g and 86 × 62 × 33mm — this is a brick that belongs in a bag rather than a pocket, and the price is roughly five times the value picks for users whose primary need is phone charging.",
+      "pros": [
+        "140W USB-C output charges a 15-inch MacBook Pro at wall-charger speed",
+        "24,000mAh at 88.8Wh stays under the 100Wh airline carry-on limit",
+        "Digital display shows exact battery percentage",
+        "Dual-port 65W input recharges the bank in about 2.5 hours"
+      ],
+      "cons": [
+        "443g is a brick that belongs in a bag, not a pocket",
+        "100 USD is roughly five times the value picks for phone-only users"
+      ]
+    },
+    {
+      "offerId": "mophie-powerstation-pd",
+      "badge": "Best Premium Build",
+      "grade": "A",
+      "review": "The Mophie Powerstation PD is the premium-build pick for buyers who care about long-term reliability and aesthetics alongside function. 10,000mAh in Mophie's signature slim form with USB-C PD output at 18W and a single USB-A port, finished in fabric or aluminum depending on variant. Mophie's build quality is consistently rated higher than budget alternatives in long-term reviews — fewer reports of rattling, port wobble, or LED failure at the 18-month mark compared to no-name brands at similar capacity. At around 50 USD this is roughly twice the price per mAh of the Anker Slim. The honest tradeoffs: you are paying for Mophie brand and premium finish rather than charging speed or capacity density, the 18W USB-C output is better than the Anker Slim's 12W but still below the 20W threshold that fully enables modern phone fast charging, and at this capacity tier there are faster-charging options at lower prices.",
+      "pros": [
+        "Mophie signature slim form with fabric or aluminum finish",
+        "Build quality rated higher than budget brands at 18+ month mark",
+        "18W USB-C PD output — faster than the Anker Slim's 12W",
+        "Premium aesthetics suit travel and lifestyle carry"
+      ],
+      "cons": [
+        "Roughly twice the price per mAh of the Anker Slim",
+        "18W output still below the 20W modern phone fast-charge threshold"
+      ]
+    },
+    {
+      "offerId": "baseus-adaman-power-bank",
+      "badge": "Best Value for Laptops",
+      "grade": "B+",
+      "review": "The Baseus Adaman 65W is the value pick for buyers who need laptop-charging ability without paying Anker 737 prices. 20,000mAh with USB-C PD at 65W charges a 13-inch MacBook Air at full speed — practically identical to plugging into a wall adapter — and a small LED display shows exact battery percentage rather than LED dots. USB-A at 18W handles phone charging adequately. At around 36 USD this is roughly one-third the Anker 737 price for users whose laptop is a thin Mac or Windows ultrabook rather than a 15-inch power-hungry workstation. The honest tradeoffs: Baseus is a Chinese brand less established in Japan than Anker, replacement and support infrastructure is thinner, long-term (2+ year) quality data is more mixed than Anker flagship units, and 310g is heavier than slim designs but lighter than the Anker 737.",
+      "pros": [
+        "65W USB-C PD charges a 13-inch MacBook Air at wall-charger speed",
+        "20,000mAh capacity at around 36 USD — strong price per Wh",
+        "Digital display shows exact battery percentage",
+        "Lighter than Anker 737 at 310g for thin-laptop travelers"
+      ],
+      "cons": [
+        "Baseus brand support thinner than Anker in Japan",
+        "Long-term quality data more mixed at 2+ years vs Anker flagships"
+      ]
+    },
+    {
+      "offerId": "iniu-portable-charger",
+      "badge": "Best Budget Fast Charging",
+      "grade": "B+",
+      "review": "The INIU 10000mAh Portable Charger is the right pick for budget buyers who want genuine fast charging without paying for Mophie's premium finish. 10,000mAh with USB-C output at 20W — the only sub-25 USD unit in this comparison that hits 20W on USB-C — and USB-A at 22.5W handles fast-charge Android phones competently. At 20W the INIU charges an iPhone 15 to 50% in under 30 minutes, genuinely matching wall-adapter speed. LED percentage display improves on the Anker Slim's LED dots. At around 22 USD this matches the Anker Slim price while winning on USB-C wattage (20W vs 12W). The honest tradeoffs: INIU is a newer brand with less long-term quality data than Anker, the 18-month and 3-year failure patterns are not as well documented, and the durability track record is shorter even though short-term build quality reviews are solid.",
+      "pros": [
+        "20W USB-C output at sub-25 USD price — fast iPhone 15 charging",
+        "USB-A at 22.5W handles fast-charge Android phones",
+        "LED percentage display rather than dots-only indicator",
+        "10,000mAh in compact form at the Anker Slim price"
+      ],
+      "cons": [
+        "Newer brand with shorter long-term quality track record",
+        "18-month and 3-year failure patterns less well documented than Anker"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For daily commute and emergency phone charging",
+      "offerId": "anker-powercore-slim-10000",
+      "reason": "186g flat slab with 10,000mAh in a 22 USD price covers daily phone-only emergency charging at the lightest possible weight."
+    },
+    {
+      "label": "For laptop charging away from outlets",
+      "offerId": "anker-737-power-bank",
+      "reason": "140W output and 24,000mAh under the airline carry-on limit charges a 15-inch MacBook Pro at wall-charger speed for remote workers."
+    },
+    {
+      "label": "For travelers who value premium build and aesthetics",
+      "offerId": "mophie-powerstation-pd",
+      "reason": "Mophie's slim aluminum/fabric finish with above-average long-term reliability suits lifestyle and travel carry."
+    },
+    {
+      "label": "For thin-laptop users who want 65W without Anker 737 pricing",
+      "offerId": "baseus-adaman-power-bank",
+      "reason": "65W USB-C charges a 13-inch MacBook Air at full speed for one-third the Anker 737 price with digital percentage display."
+    },
+    {
+      "label": "For budget buyers who prioritize charging speed",
+      "offerId": "iniu-portable-charger",
+      "reason": "20W USB-C output at the Anker Slim price beats it on charging speed for buyers who value wattage over brand pedigree."
+    }
+  ]
 }

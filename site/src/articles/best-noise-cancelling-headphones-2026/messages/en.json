@@ -78,5 +78,114 @@
     "anker-soundcore-space-q45": "80% of flagship ANC at one-third the price. LDAC support, 50-hour battery, reliable multipoint. Call mic is the weakest in this comparison; build is plastic-dominant; long-term owner reviews flag headband-pivot hinges as the failure point around 18 months."
   },
   "pinDescription": "Five over-ear ANC headphones compared in 2026: 14,990 yen Anker Space Q45 to 84,800 yen AirPods Max. Train-rumble cancellation, codec support, comfort over 8 hours, and which one a daily Tokyo commuter actually picks.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "sony-wh-1000xm5",
+      "badge": "Best Overall",
+      "grade": "A+",
+      "review": "The Sony WH-1000XM5 is the right pick for the broadest range of buyers — Android users, platform-agnostic listeners, and anyone who values lightweight comfort for long sessions. ANC is essentially tied with Bose QuietComfort Ultra for low-frequency rejection, the 250g body is the lightest among true flagships in this comparison, and LDAC support keeps Android users in hi-res audio territory at 990kbps. The 30-hour battery life with ANC engaged covers a Tokyo-Hokkaido round-trip flight without charging, and the dual-processor V1+QN1 architecture handles adaptive ANC competently. The honest tradeoffs: multipoint Bluetooth is functional but rougher than Bose — switching from a Mac to an iPhone for an incoming call sometimes requires manual device re-selection, call quality is a half-step behind Bose and Apple in windy outdoor conditions, and the new headband no longer folds flat so the carrying case is larger than the XM4's.",
+      "pros": [
+        "Class-leading low-frequency ANC tied with Bose for train and plane cabin",
+        "LDAC support keeps Android users in 990kbps hi-res audio",
+        "250g body — lightest among true flagships in this comparison",
+        "30-hour ANC battery covers long-haul flights without charging"
+      ],
+      "cons": [
+        "Multipoint Bluetooth rougher than Bose during device switches",
+        "Doesn't fold flat — carrying case is larger than XM4"
+      ]
+    },
+    {
+      "offerId": "bose-quietcomfort-ultra",
+      "badge": "Best ANC + Calls",
+      "grade": "A",
+      "review": "The Bose QuietComfort Ultra Headphones earn their slot with the most aggressive ANC and the best call quality in this comparison. CustomTune technology calibrates the ANC to your specific ear canal at startup — a genuine differentiator that adapts to head shape and ear geometry. Immersive Audio's head-tracked spatial mode meaningfully improves movie watching and certain music genres (it does not help with podcasts and is best left off for those). The beamforming microphone array handles Tokyo station platforms and Yokohama waterfront wind cleanly enough that call recipients hear you clearly. At 59,400 yen this is premium pricing. The honest tradeoffs: clamp force is firmer than Sony — people with larger heads (size 7 1/2 hat or larger) report pressure-point fatigue around the 3-hour mark, no LDAC support so Android hi-res users get only AAC, and Immersive Audio drops real-world battery life from a claimed 24 hours to 17-18.",
+      "pros": [
+        "Most aggressive ANC in the comparison with CustomTune ear-canal calibration",
+        "Best call quality — beamforming mic array handles outdoor wind cleanly",
+        "Immersive Audio head-tracked spatial mode for movies and select music",
+        "Adaptive ANC re-tunes per environment every few hundred milliseconds"
+      ],
+      "cons": [
+        "Firmer clamp force causes pressure-point fatigue past 3 hours for larger heads",
+        "No LDAC support — Android tops out at AAC"
+      ]
+    },
+    {
+      "offerId": "apple-airpods-max",
+      "badge": "Best for Apple Ecosystem",
+      "grade": "A",
+      "review": "The Apple AirPods Max are the maximalist pick for buyers who live deeply inside the Apple ecosystem. The H1 chip (still present on the 2024 USB-C revision) handles seamless device switching across iPhone, iPad, and Mac that no other headphone in this comparison can replicate — pick up your iPad and audio routes there, accept a call on iPhone and audio routes there, no manual pairing. Aluminum earcups and a stainless steel headband make this the most premium-feeling build here. ANC is excellent though slightly behind Bose at low frequencies, and the 2024 USB-C revision finally supports lossless wired audio. At 84,800 yen the price is steep. The honest tradeoffs: 384.8g is the heaviest by a wide margin and is genuinely fatiguing on flights past 4 hours, the carrying case is widely mocked (it doesn't cover the headband and looks like a purse), the battery is not user-replaceable, and outside Apple the magic disappears entirely.",
+      "pros": [
+        "Seamless Apple device switching across iPhone, iPad, and Mac via H1",
+        "Aluminum and stainless steel build — most premium feel here",
+        "Lossless wired audio support on the 2024 USB-C revision",
+        "Excellent ANC — only slightly behind Bose at low frequencies"
+      ],
+      "cons": [
+        "384.8g is the heaviest in the comparison and fatigues on long flights",
+        "Magic vanishes outside Apple — on Windows or Android it's just AAC"
+      ]
+    },
+    {
+      "offerId": "sennheiser-momentum-4",
+      "badge": "Best for Music Listening",
+      "grade": "B+",
+      "review": "The Sennheiser Momentum 4 Wireless is the audiophile-leaning pick for buyers whose primary use is music listening rather than calls or commute. Sennheiser's tuning is the most neutral here — flatter midrange and less elevated bass than Sony or Bose — so classical, jazz, vocal-heavy pop, and acoustic singer-songwriter material come through with the most natural timbre. LDAC and aptX Adaptive are both supported. The 60-hour battery life with ANC engaged is the longest in this comparison by a significant margin. At around 56,000 yen this is competitive premium pricing. The honest tradeoffs: ANC is a genuine step behind Sony XM5 and Bose QC Ultra for low-frequency rejection — train rumble and plane cabin drone are attenuated noticeably less, the Sennheiser Smart Control app is the worst of the four flagship apps in this list (sluggish, occasional Android pairing issues, less granular EQ), and the build is plastic-heavy.",
+      "pros": [
+        "Most neutral tuning here for classical, jazz, vocals, and acoustic genres",
+        "60-hour ANC battery life — longest in this comparison by a wide margin",
+        "LDAC and aptX Adaptive both supported for Android hi-res",
+        "Plushest earcup cushions for some long-session comfort profiles"
+      ],
+      "cons": [
+        "ANC is a real step behind Sony and Bose for low-frequency rejection",
+        "Smart Control app is sluggish with occasional Android pairing issues"
+      ]
+    },
+    {
+      "offerId": "anker-soundcore-space-q45",
+      "badge": "Best Value",
+      "grade": "B+",
+      "review": "The Anker Soundcore Space Q45 delivers approximately 80% of flagship ANC performance at less than one-third of the price. LDAC support is rare in this price tier, 50-hour battery life with ANC is competitive with mid-range flagships, multipoint Bluetooth works reliably across Windows, macOS, Android, and iOS, and the adaptive ANC — while not in the same league as Bose CustomTune — is genuinely effective on commuter trains and at coffee shops. At 14,990 yen this is the value pick for buyers who can accept clearly compromised call quality and a less premium feel. The honest tradeoffs: the call microphone is the weakest in this comparison and call recipients consistently report your voice sounds compressed and slightly nasal, the build is plastic-dominant — headband, hinges, and earcup housings all flex more than Sony or Bose, and long-term owner reviews flag the headband-pivot hinges as the failure point at the 18-month mark.",
+      "pros": [
+        "LDAC support and 50-hour ANC battery rare at 14,990 yen",
+        "Reliable multipoint Bluetooth across Windows, macOS, Android, iOS",
+        "80% of flagship ANC effectiveness at under one-third the price",
+        "Adaptive ANC genuinely effective on trains and at coffee shops"
+      ],
+      "cons": [
+        "Call microphone is the weakest here — voice sounds compressed on Zoom",
+        "Headband-pivot hinges flagged as failure point around 18 months"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For daily Tokyo commute and platform-agnostic use",
+      "offerId": "sony-wh-1000xm5",
+      "reason": "Class-leading ANC at 250g with LDAC and 30-hour battery makes this the right all-rounder for Android and mixed-device users."
+    },
+    {
+      "label": "For 4+ hours of calls per day from variable environments",
+      "offerId": "bose-quietcomfort-ultra",
+      "reason": "Beamforming microphone array and CustomTune ANC handle Tokyo station platforms and outdoor wind cleanly for back-to-back call days."
+    },
+    {
+      "label": "For deep iPhone-iPad-Mac ecosystem workflows",
+      "offerId": "apple-airpods-max",
+      "reason": "H1-chip seamless device switching across Apple gear plus aluminum build justifies the price for those inside the ecosystem."
+    },
+    {
+      "label": "For music-first listeners who value natural timbre",
+      "offerId": "sennheiser-momentum-4",
+      "reason": "Most neutral tuning here with LDAC and 60-hour battery suits classical, jazz, and acoustic material with long listening sessions."
+    },
+    {
+      "label": "For budget-conscious buyers who accept call quality compromises",
+      "offerId": "anker-soundcore-space-q45",
+      "reason": "LDAC and 50-hour battery at 14,990 yen delivers 80% of flagship ANC for commuters who don't take heavy calls from outdoors."
+    }
+  ]
 }

@@ -98,5 +98,114 @@
     "victoria-10-cast-iron-skillet": "Budget pre-seasoned entry point — 10-inch, about 2.3 kg, seasoned with flaxseed oil. Made in Colombia. Best value for solo or couple households at the lowest price in this comparison."
   },
   "pinDescription": "5 cast iron skillets compared in 2026: Lodge 12\" at 4,000 yen vs Le Creuset enamel at 40,000 yen. Weight, seasoning, induction compatibility, and the soap myth — what actually matters when buying cast iron.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "lodge-l8sk3-cast-iron-skillet",
+      "badge": "Best Overall",
+      "review": "The Lodge L8SK3 is the cast iron skillet that defines the category — sand-cast in South Pittsburg, Tennessee, factory pre-seasoned with vegetable oil, and priced low enough that a wrong purchase costs almost nothing. At 26 cm (10.25 inches) the cooking area handles two pork chops or a full chicken cutlet without crowding, and the dual handle design (main grip plus opposite helper loop) makes stovetop-to-oven transport a two-handed job rather than a wrist test. The rough foundry texture seasons up over the first 6-12 months of regular cooking into a slick, dark patina. Induction, oven, and campfire compatible without restriction. Long-term Amazon reviews going back a decade document Lodge skillets surviving drops, oven self-clean cycles, and being left outside in rain — the failure modes that destroy non-stick pans don't apply here.",
+      "pros": [
+        "Factory pre-seasoned and usable from day one",
+        "Dual handle simplifies two-handed transport",
+        "Works on induction, oven, and open flame without restriction",
+        "Lowest entry price for full-size pre-seasoned cast iron"
+      ],
+      "cons": [
+        "Rough foundry texture needs months of cooking to slick up",
+        "2.1 kg feels heavy compared to thinner machined skillets"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "le-creuset-signature-skillet",
+      "badge": "Best Enameled",
+      "review": "Le Creuset's Signature enameled skillet eliminates the seasoning question entirely — the vitreous enamel coating is the cooking surface, and it doesn't accept or require polymerized fat. That means you can deglaze with wine, simmer tomato sauce, or cook a lemon-butter fish without worrying about stripping the pan, and you can clean it with regular dish soap and a sponge. The 26 cm cast iron core retains heat the same way bare cast iron does, but the enamel surface moderates direct heat slightly for more even distribution. The trade-offs are price (about 8-10x a comparable Lodge), the phenolic handle's 190°C oven cap on the Signature line, and the fact that the enamel can chip if dropped. Color options across the lineup make it as much a kitchen aesthetic object as a cooking tool.",
+      "pros": [
+        "No seasoning maintenance — soap and acid are safe",
+        "Handles tomato sauces and wine deglazes without flavor transfer",
+        "Heat distribution slightly more even than bare cast iron",
+        "Wide range of color options for kitchen display"
+      ],
+      "cons": [
+        "Premium price reflects brand and color options as much as performance",
+        "Phenolic handle limits oven use to 190°C on Signature line"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "field-company-no8-skillet",
+      "badge": "Best Lightweight",
+      "review": "The Field Company No.8 is the cast iron skillet for cooks who find a Lodge tiring at the stove. Cast in the US and then machined smooth across the cooking surface (rather than left with the pebbly sand-cast texture), it lands at approximately 1.8 kg — close to half the weight of a Lodge 12-inch — and the machined finish develops seasoning more evenly and faster than rough cast surfaces. By the six-month mark of regular use, the surface slickness rivals a well-seasoned older Lodge. The thinner walls reduce thermal mass slightly, which a restaurant cook searing eight steaks in sequence might notice but a home cook generally won't. At a 5x premium over Lodge, it's a defensible upgrade for buyers with wrist issues or anyone who's previously abandoned cast iron because of the weight.",
+      "pros": [
+        "Roughly half the weight of a Lodge 12-inch",
+        "Machined smooth surface develops seasoning faster",
+        "Lighter pan means easier flipping and stove-side handling",
+        "Made in the USA with consistent build quality"
+      ],
+      "cons": [
+        "5x the price of a comparable Lodge",
+        "Thinner walls give up a small amount of thermal mass"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "stargazer-10-cast-iron-skillet",
+      "badge": "Best Premium US-Made",
+      "review": "Stargazer's 10.5-inch skillet is the other premium American machined-smooth option alongside Field Company, with a few design choices that distinguish it. The cooking surface is polished after casting rather than left with the foundry texture, the rim is flared on all sides for drip-free pouring of pan sauces and rendered fat, and a long curved primary handle plus a helper loop on the opposite side give two-handed control without the helper loop blocking spatula access. Weight lands around 2.2 kg, between Field Company's lightweight pick and a standard Lodge. The polished surface seasons faster than rough sand-cast alternatives, and the flared rim is genuinely useful when finishing a sauce in the pan and pouring it over food.",
+      "pros": [
+        "Polished cooking surface seasons quickly and evenly",
+        "Flared rim across the whole pan for clean pouring",
+        "Long primary handle plus opposite helper loop",
+        "US-made with consistent machining"
+      ],
+      "cons": [
+        "Roughly 4-5x the price of a standard Lodge",
+        "Lower thermal mass than thicker traditional castings"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "victoria-10-cast-iron-skillet",
+      "badge": "Best Budget",
+      "review": "Victoria's 10-inch cast iron skillet is the budget pre-seasoned entry point in this comparison — cast in Colombia, factory pre-seasoned with flaxseed oil (which some seasoning enthusiasts consider a cleaner starting surface than the vegetable-oil baseline Lodge ships with), and priced low enough that it's often the cheapest pre-seasoned cast iron in this category. The 10-inch diameter is meaningfully smaller than a 12-inch Lodge and suits one or two-person cooking — two chicken thighs, a couple of eggs, a single pork chop. Weight is approximately 2.3 kg, lighter than the Lodge 12-inch by virtue of the smaller diameter rather than thinner walls. Amazon US owner reviews consistently note the factory seasoning as comparable to or better than Lodge's out-of-the-box surface.",
+      "pros": [
+        "Lowest price in this comparison for pre-seasoned cast iron",
+        "Flaxseed-oil factory seasoning is unusually smooth from new",
+        "10-inch size suits solo and couple cooking",
+        "Works on induction, oven, and open flame"
+      ],
+      "cons": [
+        "10-inch diameter is small for family-size cooking",
+        "Less widely reviewed than Lodge in long-term ownership data"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For first-time cast iron buyers",
+      "offerId": "lodge-l8sk3-cast-iron-skillet",
+      "reason": "Lodge's low price means a wrong fit costs almost nothing, and the dual handle plus pre-seasoned surface make it usable from the first cook."
+    },
+    {
+      "label": "For tomato-sauce and wine-deglaze cooking",
+      "offerId": "le-creuset-signature-skillet",
+      "reason": "The enamel coating isolates the iron from acidic ingredients, which makes Le Creuset the only option here that handles long acid-based braises without stripping seasoning."
+    },
+    {
+      "label": "For cooks with wrist or shoulder limits",
+      "offerId": "field-company-no8-skillet",
+      "reason": "At roughly 1.8 kg the Field Company is the lightest full-size cast iron skillet in this comparison and the only one most cooks with arm fatigue can actually use daily."
+    },
+    {
+      "label": "For pan-sauce finishers who want a premium US-made pan",
+      "offerId": "stargazer-10-cast-iron-skillet",
+      "reason": "The flared rim and polished cooking surface make pouring rendered fat and reductions clean, and the machined finish builds seasoning faster than foundry textures."
+    },
+    {
+      "label": "For solo or couple households on a budget",
+      "offerId": "victoria-10-cast-iron-skillet",
+      "reason": "The 10-inch size matches one-to-two person portions and Victoria's flaxseed-oil pre-seasoning is unusually slick out of the box for the lowest price in the category."
+    }
+  ]
 }

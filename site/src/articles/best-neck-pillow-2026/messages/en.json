@@ -85,5 +85,114 @@
     "lewis-clark-neck-pillow": "Budget utility pick at around ¥1,500–2,500 — inflatable, folds to wallet size, weighs under 100 g. Adequate for flights under 6 hours. Valve reliability degrades over time; support quality below memory foam; right for occasional travelers who need something functional and cheap."
   },
   "pinDescription": "5 travel neck pillows compared for 2026: Cabeau vs Trtl vs BCozzy vs Tempur vs Lewis N. Clark. Memory foam, wrap-style, inflatable — find the right pillow for how you actually sleep on planes.",
-  "methodology": "We assessed each option on coverage breadth, real-traveler review consistency, value vs alternatives, customer service responsiveness, and limitations buried in fine print."
+  "methodology": "We assessed each option on coverage breadth, real-traveler review consistency, value vs alternatives, customer service responsiveness, and limitations buried in fine print.",
+  "products": [
+    {
+      "offerId": "cabeau-evolution-s3-neck",
+      "badge": "Best All-Rounder",
+      "review": "The Cabeau Evolution S3 is the best general-purpose pick for travelers who don't want to overthink it. Memory foam conforms to your neck geometry from the moment you put it on — no inflation, no setup, no mid-flight adjustment. The defining feature is the headrest anchor clips, which attach the pillow to a seat's headrest wings or pillars so your head doesn't roll away from window-side support while you sleep. The velour cover zips off for machine washing, and the included compression bag squashes the pillow down to roughly 13 × 13 × 8 cm — smaller than most foam alternatives. The honest limitation: the anchor clips need an adjustable headrest to work properly, which most economy seats lack, and it still doesn't compress to Trtl pack-size.",
+      "pros": [
+        "Memory foam holds neck position without adjustment",
+        "Headrest anchor clips prevent head-roll during sleep",
+        "Velour cover zips off for machine washing",
+        "Compression bag reduces to ~13 × 13 × 8 cm for packing"
+      ],
+      "cons": [
+        "Anchor clips need adjustable headrests that most economy seats lack",
+        "Compressed size still larger than the Trtl or inflatable options"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "trtl-pillow-neck",
+      "badge": "Most Packable",
+      "review": "The Trtl is the pack-size winner of this comparison and the right pick for window-seat travelers who value bag space above all else. A rigid internal scaffold is sewn into a fleece scarf that wraps around your neck and locks via the fleece itself — once secured, it provides genuine one-sided lateral support at the right height for most adults. At 145 grams and rolling to roughly the size of a large sock, it slips into a jacket pocket where nothing else here fits. The fleece cover is machine-washable after removing the scaffold insert. The honest limitation: it only supports leaning in one direction, so switching sides mid-flight means re-wrapping the scarf and waking yourself up, and the rigid insert can leave pressure marks on ultra-long flights.",
+      "pros": [
+        "145 g — lightest pillow here, fits in a jacket pocket",
+        "Rigid scaffold provides one-sided lateral neck support",
+        "Fleece cover is machine-washable when scaffold is removed",
+        "Doubles as a scarf for cold cabins"
+      ],
+      "cons": [
+        "Supports leaning in only one direction at a time",
+        "Rigid insert can leave pressure marks on ultra-long flights"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "bcozzy-chin-pillow",
+      "badge": "Best for Forward Head Drop",
+      "review": "The BCozzy is built around a specific problem that standard U-shape pillows don't solve: forward head drop. On upright economy seats — typical middle and aisle positions where the seatback doesn't recline enough to fully support the head — the chin tilts down, eventually pulling the head forward and waking you up. The BCozzy's U-shape curves forward at the base so the chin rests in a cradle rather than dropping freely. It's more compressible than memory foam alternatives, with a removable machine-washable cover, and it works for travelers who've tried standard neck pillows without success. The honest limitation: the chin support gets in the way for lateral-lean positions, and support quality depends on how you position the pillow.",
+      "pros": [
+        "Chin-support cradle prevents forward head drop on upright seats",
+        "Compressible to roughly large-apple volume for packing",
+        "Removable cover is machine-washable",
+        "Better than standard U-shape for middle and aisle seats"
+      ],
+      "cons": [
+        "Chin support gets in the way of lateral-lean sleeping",
+        "Support quality varies with how you position the pillow"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "tempur-travel-neck-pillow",
+      "badge": "Best Support Quality",
+      "review": "The Tempur Travel Neck Pillow is the premium pick for travelers who check luggage and want the best possible support quality without compromise. TEMPUR slow-rebound foam conforms to your neck geometry and holds position through long flights with a stability that bouncier memory foams can't match — the same technology that built TEMPUR's mattress reputation translates directly to travel use. The cover is removable and machine-washable, which matters at this price tier. The honest limitation: it doesn't compress meaningfully. At roughly 28 × 28 × 12 cm full-size, it occupies real bag space, which is why it only makes practical sense if you check luggage. At ¥10,000–15,000 it's the most expensive option here.",
+      "pros": [
+        "TEMPUR slow-rebound foam holds position through long flights",
+        "Highest support quality of any pillow in this comparison",
+        "Removable machine-washable cover at premium price tier",
+        "Durable construction outlasts cheaper foam alternatives"
+      ],
+      "cons": [
+        "Does not compress — full ~28 × 28 × 12 cm in your bag",
+        "¥10,000–15,000 is the highest price in this comparison"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "lewis-clark-neck-pillow",
+      "badge": "Best Budget Pick",
+      "review": "The Lewis N. Clark inflatable is the budget utility pick — around ¥1,500–2,500, fits anywhere, works adequately for flights under six hours. Deflated, it folds to wallet size and weighs under 100 grams, which means it slides into a jeans pocket and doesn't compete with anything else in your carry-on for space. Inflated, it provides reasonable support for short-to-medium routes. The fabric cover can be hand-washed and air-dried. The honest limitation: inflatable support quality is below memory foam — there's a slight give and bounce that becomes noticeable after three hours, the inflation valve is a single point of failure that eventually leaks, and it's not the right tool for a 14-hour transpacific route.",
+      "pros": [
+        "Under 100 g and folds to wallet size when deflated",
+        "Sub-¥2,500 price is the lowest in this comparison",
+        "Adjustable inflation lets you tune firmness",
+        "Fits in a jeans pocket — no carry-on space used"
+      ],
+      "cons": [
+        "Inflation valve eventually leaks with repeated use",
+        "Support quality below memory foam on flights over 6 hours"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For most long-haul economy travelers",
+      "offerId": "cabeau-evolution-s3-neck",
+      "reason": "Memory foam with headrest anchor clips covers both lateral lean and moderate forward tilt on most seat types."
+    },
+    {
+      "label": "For window-seat one-baggers",
+      "offerId": "trtl-pillow-neck",
+      "reason": "145 g and rolls to jacket-pocket size — the only pillow here that fits where nothing else does."
+    },
+    {
+      "label": "For upright sleepers on middle/aisle seats",
+      "offerId": "bcozzy-chin-pillow",
+      "reason": "The forward chin-support cradle solves head-drop that standard U-shapes leave unaddressed."
+    },
+    {
+      "label": "For checked-bag travelers chasing comfort",
+      "offerId": "tempur-travel-neck-pillow",
+      "reason": "TEMPUR slow-rebound foam holds position through 12+ hour flights when packability isn't a constraint."
+    },
+    {
+      "label": "For occasional short-haul travelers",
+      "offerId": "lewis-clark-neck-pillow",
+      "reason": "Sub-¥2,500 inflatable folds to wallet size — adequate for flights under 6 hours."
+    }
+  ]
 }

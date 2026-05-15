@@ -107,5 +107,114 @@
     "microsoft-arc-mouse": "Microsoft Arc Mouse — ultra-thin foldable Bluetooth travel mouse, capacitive touch scroll strip (no physical scroll wheel), Bluetooth 5.0, approximately one-year battery life on two AAA batteries, folds flat to approximately 7mm thickness for bag carry, works on most surfaces, instant pairing with Surface and Windows devices, approximately ¥8,000. Available on Rakuten Ichiba. Bluetooth-only with no 2.4GHz dongle option — susceptible to interference in RF-crowded environments and higher latency than dongle wireless; the capacitive touch scroll strip provides no tactile feedback and requires intentional gesture rather than passive scroll, which some users never adapt to; not suitable for gaming of any kind — the click mechanism has limited tactile feedback and the shape is not optimized for rapid pointer movement; the fold hinge mechanism has documented wear failure at 2–3 years of frequent travel use; the asymmetric arc shape is a size fit issue for users with larger hands."
   },
   "pinDescription": "5 mice compared for 2026 — G Pro X Superlight 2 ultra-light competitive vs Razer DeathAdder V3 ergonomic vs MX Master 3S productivity scroll wheel vs Elecom HUGE EX Japan domestic vs Arc Mouse fold-flat travel. DPI truth, polling rate reality, wireless latency facts Your next mouse starts here.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "logicool-g-pro-x-superlight-2",
+      "badge": "Best for Competitive Gaming",
+      "grade": "A+",
+      "review": "The Logicool G Pro X Superlight 2 is the most complete competitive specification in this comparison — 60g body, HERO 25K sensor, LIGHTSPEED 2.4GHz wireless with sub-1ms latency, up to 2000Hz polling via firmware update, and 95-hour battery life. Pro esports players across major tournaments use this platform, which is genuine performance credibility rather than marketing language. The minimal right-hand-biased shape with zero side buttons keeps the weight at the competitive threshold but eliminates macro functionality entirely. At around 20,000 yen this is premium pricing for a mouse, and the previous-generation G Pro X Superlight 1 offers virtually identical sensor performance at 8,000-12,000 yen on the Japanese used market — worth considering if budget matters more than the 2000Hz polling and updated coating.",
+      "pros": [
+        "Ultra-light 60g body for low-fatigue flick shots and tracking",
+        "HERO 25K sensor with sub-1ms LIGHTSPEED wireless latency",
+        "2000Hz polling rate via firmware update",
+        "95-hour battery life with USB-C charging"
+      ],
+      "cons": [
+        "Right-hand-only shape with zero side buttons removes macro use",
+        "Premium 20,000 yen price for an essentially minimalist mouse"
+      ]
+    },
+    {
+      "offerId": "razer-deathadder-v3",
+      "badge": "Best Ergonomic Value",
+      "grade": "A",
+      "review": "The Razer DeathAdder V3 is the right-hand ergonomic value pick. The DeathAdder shape has 20+ years of refinement for medium-to-large right hands with palm or relaxed claw grip, and at 59g the wired base model matches the G Pro X Superlight 2 on weight while costing roughly one-third the price at around 8,000 yen. The Focus Pro 30K optical sensor is top-tier and the Razer Optical Switch Gen-3 is rated for 90 million clicks. The pronounced hump behind the sensor area provides active wrist support during multi-hour sessions in a way the minimalist G Pro X shape does not. The honest tradeoff: the base model is wired-only — the wireless V3 HyperSpeed is a separate higher-priced product. Left-handed users are excluded by the shape, and small-hand fingertip-grip users may find the hump too pronounced.",
+      "pros": [
+        "59g wired body matches competitive weight benchmarks",
+        "Proven DeathAdder ergonomic shape for palm and claw grip",
+        "Focus Pro 30K sensor with 90M-click Razer Optical switches",
+        "Around 8,000 yen — strongest price-to-performance ratio"
+      ],
+      "cons": [
+        "Wired-only at the base price — wireless variant costs more",
+        "Right-hand-only shape excludes left-handed users entirely"
+      ]
+    },
+    {
+      "offerId": "logicool-mx-master-3s",
+      "badge": "Best for Productivity",
+      "grade": "A",
+      "review": "The Logicool MX Master 3S is the productivity powerhouse for users who spend more time in spreadsheets, long documents, and browser tabs than in games. The MagSpeed electromagnetic scroll wheel covers approximately 1000 lines per second in free-spin mode and ratchets cleanly for precise document navigation, while Logi Flow handles cursor movement and clipboard sharing across up to three computers. The 8000 DPI sensor includes glass-surface calibration, which is genuinely relevant for the glass-topped desks common in Japanese home offices. Up to 70 days battery life per charge and dual-mode Logi Bolt 2.4GHz plus Bluetooth complete the office package. The honest tradeoffs: 141g is more than double the competitive mice and unsuitable for fast-tracking FPS gaming, and the MagSpeed free-spin mode requires an adjustment period.",
+      "pros": [
+        "MagSpeed electromagnetic scroll wheel for document and spreadsheet work",
+        "Logi Flow multi-device switching across up to three computers",
+        "8000 DPI sensor with glass surface calibration",
+        "Up to 70-day battery life per charge"
+      ],
+      "cons": [
+        "141g weight is unsuitable for competitive gaming",
+        "Logi Options+ background software required for full customization"
+      ]
+    },
+    {
+      "offerId": "elecom-m-xgm20dlbk",
+      "badge": "Best for Large Hands",
+      "grade": "B+",
+      "review": "The Elecom HUGE EX M-XGM20DLBK is designed specifically around Japanese large-hand ergonomic research and fills a category gap — large ergonomic mice for office-gaming hybrid use — that has almost no direct international equivalent. The large chassis supports the entire palm during multi-hour work sessions, the 25600 DPI sensor handles general gaming and productivity sensitivity ranges, and 8 programmable buttons cover macro and shortcut needs that minimalist competitive mice ignore. At around 8,000 yen, it matches the DeathAdder V3 on price while offering side-button productivity that the Razer minimalist designs lack. The honest tradeoffs: the international community presence is thin — almost no English-language reviews or troubleshooting resources exist outside Japan, Elecom Gaming Manager software trails Logi Options+ and Razer Synapse in polish, and the large chassis is not portable.",
+      "pros": [
+        "Large ergonomic chassis tuned for Japanese large-hand grip research",
+        "8 programmable buttons for productivity macros and shortcuts",
+        "25600 DPI optical sensor with USB dongle wireless",
+        "Around 8,000 yen with Japanese-domestic support and software"
+      ],
+      "cons": [
+        "Very limited international community and English-language resources",
+        "Elecom Gaming Manager software less polished than Synapse or Logi Options+"
+      ]
+    },
+    {
+      "offerId": "microsoft-arc-mouse",
+      "badge": "Best for Travel",
+      "grade": "B+",
+      "review": "The Microsoft Arc Mouse solves a specific portability problem that no other mouse in this comparison addresses — folding flat to approximately 7mm thickness so it disappears into a bag without pressing against laptops, notebooks, or chargers. The capacitive touch scroll strip replaces a physical scroll wheel and works reliably for browser navigation and document scrolling once you adapt to the gesture rather than passive scroll. Bluetooth 5.0 pairs instantly with Surface and Windows devices, and two AA batteries deliver approximately one year of typical use without recharging. Around 8,000 yen. The honest tradeoffs: Bluetooth-only means higher latency than 2.4GHz dongle wireless and worse RF performance in crowded environments, the touch scroll strip has no tactile feedback so some users never adapt, and the fold hinge has documented wear issues at the 2-3 year mark with frequent travel.",
+      "pros": [
+        "Folds flat to approximately 7mm thickness for bag carry",
+        "Bluetooth 5.0 instant pairing with Surface and Windows devices",
+        "About one year battery life on two AA batteries",
+        "Capacitive touch scroll strip for browser and document navigation"
+      ],
+      "cons": [
+        "Bluetooth-only — higher latency than 2.4GHz dongle wireless",
+        "Fold hinge mechanism has documented wear at 2-3 years of frequent use"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For competitive FPS and pro esports aspirations",
+      "offerId": "logicool-g-pro-x-superlight-2",
+      "reason": "60g HERO 25K body with 2000Hz LIGHTSPEED matches the most complete competitive specification used by tournament pros."
+    },
+    {
+      "label": "For right-hand ergonomic gaming on a tight budget",
+      "offerId": "razer-deathadder-v3",
+      "reason": "Proven DeathAdder palm-grip shape at 59g and around 8,000 yen offers the strongest price-to-performance ratio for medium-to-large hands."
+    },
+    {
+      "label": "For spreadsheet-heavy office and multi-device work",
+      "offerId": "logicool-mx-master-3s",
+      "reason": "MagSpeed scroll wheel and Logi Flow multi-device switching make long documents and three-computer workflows genuinely faster."
+    },
+    {
+      "label": "For Japanese large-hand office-plus-casual-gaming use",
+      "offerId": "elecom-m-xgm20dlbk",
+      "reason": "Large ergonomic chassis with 8 programmable buttons and Japanese-domestic support fills the office-gaming hybrid gap."
+    },
+    {
+      "label": "For frequent business travel and bag-carry minimalism",
+      "offerId": "microsoft-arc-mouse",
+      "reason": "Fold-flat 7mm thickness and one-year AA battery life make it the only mouse that disappears into a travel bag."
+    }
+  ]
 }

@@ -58,5 +58,110 @@
     "fellow-prismo-aeropress-attachment": "Replacement filter cap with pressure valve and metal filter. $25-35. Best espresso-style upgrade for AeroPress owners. Eliminates inverted method, allows oils through for fuller body. Requires existing AeroPress Original or Go."
   },
   "pinDescription": "AeroPress comparison 2026: Original vs Go vs Clear vs XL vs Fellow Prismo — what AeroPress actually brews, how it compares to French press and espresso, and which model is right for home vs travel coffee.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "aeropress-original",
+      "badge": "Best Overall",
+      "review": "The Original AeroPress is the baseline correct choice for single-serve specialty coffee and remains the brewer almost every AeroPress recipe is calibrated for. The polypropylene cylinder is BPA-free, dishwasher-safe, and shrugs off drops that would shatter ceramic. Capacity is 1-3 cups per press (roughly 40-250 ml), which covers espresso-style concentrate through long-format brews. The included 350 paper filters and scoop mean you can start brewing the day it arrives. What makes it the benchmark is consistency: the same recipe produces the same cup whether you brew at home, at the office, or on a kitchen counter on holiday.",
+      "pros": [
+        "Brews 1-3 cup capacity per press with the same hardware",
+        "Dishwasher-safe BPA-free polypropylene survives drops",
+        "Widely-available paper filters and huge recipe library",
+        "Cleanup is a single ejected puck"
+      ],
+      "cons": [
+        "Single-serve only — two people means two brew cycles"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "aeropress-go-portable",
+      "badge": "Best for Travel",
+      "review": "The AeroPress Go compresses the Original into a 12 oz drinking mug that doubles as the carrying case — plunger, chamber, filter cap, filters, and stirrer all nest inside. Capacity drops slightly to 1-2 cups per press and the filter cap is a bit shallower than the Original, but the brewing mechanism is identical. For camping, hotel rooms, and commute brewing, the Go solves the packing problem the Original doesn't address. Same $35-45 price tier as the Original makes it a sideways choice rather than an upgrade — pick it when portability matters more than maximum cup volume.",
+      "pros": [
+        "Whole brewer nests inside the included mug for travel",
+        "Identical brewing mechanism to the Original",
+        "Same paper filter ecosystem as the standard AeroPress",
+        "Compact footprint fits in a backpack pocket"
+      ],
+      "cons": [
+        "Smaller 1-2 cup capacity vs the Original's 1-3"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "aeropress-clear",
+      "badge": "Best for Recipe Tinkering",
+      "review": "The AeroPress Clear matches the Original on dimensions, capacity, and brewing performance, swapping the opaque polypropylene for crystal-clear Tritan plastic. The brew is visible through the cylinder during steep, which is genuinely useful when you're dialing in a new recipe and watching how quickly the slurry darkens. At $40-50 it commands a small premium over the Original purely for the transparent body — the cup you pull out is indistinguishable. Worth it if you tinker with recipes or if the see-through aesthetic appeals to you; otherwise the Original delivers the same coffee for less.",
+      "pros": [
+        "Transparent Tritan lets you watch the steep and bloom",
+        "Same capacity and brewing performance as the Original",
+        "Useful learning tool when developing recipes",
+        "BPA-free and dishwasher safe"
+      ],
+      "cons": [
+        "$5-10 premium over the Original for visual differentiation only"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "aeropress-xl",
+      "badge": "Best Capacity",
+      "review": "Launched in 2024, the AeroPress XL doubles the Original's brew volume to roughly 500 ml in a single press, enough for two standard 8 oz cups. The wider cylinder uses XL-specific paper filters (the Original's filters don't fit) but the technique and recipe logic translate directly — most brewers scale their Original recipe by 2x and it works. The plunger is heavier to press through the longer travel, which is the trade for brewing a second cup without a second cycle. At $55-65 it costs noticeably more than the Original, but for two-person households it eliminates the back-to-back brew that defines mornings with the standard model.",
+      "pros": [
+        "Single press yields enough for two standard cups",
+        "Existing AeroPress recipes scale linearly",
+        "Same paper-filter clean-puck cleanup",
+        "Same pressure-extraction profile as the Original"
+      ],
+      "cons": [
+        "Requires XL-specific paper filters, not Original size",
+        "Longer plunger stroke is more physically demanding"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "fellow-prismo-aeropress-attachment",
+      "badge": "Best Espresso-Style Upgrade",
+      "review": "The Fellow Prismo is a replacement filter cap that bolts onto the Original or Go and adds two things: a pressure-actuated valve that holds liquid in the chamber until you press, and a 0.2 mm stainless metal filter that passes more coffee oils than paper. The valve eliminates the inverted method — you can brew upright with any recipe — and the metal filter pushes the body closer to espresso or French press territory. With very fine grind and firm pressing you can pull a thicker, more concentrated shot than standard AeroPress allows, though it's not true 9-bar espresso. At $25-35 it's an accessory, not a standalone brewer, and only worth the cost if you already own an AeroPress.",
+      "pros": [
+        "Pressure-actuated valve removes the need for inverted brewing",
+        "Metal filter retains oils for a fuller-bodied cup",
+        "Enables espresso-style concentrate from an AeroPress",
+        "Drop-in replacement — no new brewer required"
+      ],
+      "cons": [
+        "Accessory only — needs an existing AeroPress Original or Go"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For first-time specialty coffee brewers",
+      "offerId": "aeropress-original",
+      "reason": "The Original covers every common recipe at the lowest entry price and survives a drop from the counter, which makes it the right place to start before deciding what to upgrade."
+    },
+    {
+      "label": "For commuters and frequent travelers",
+      "offerId": "aeropress-go-portable",
+      "reason": "Everything nests inside the included drinking mug, so the entire brew kit fits in a backpack pocket alongside a small bag of beans."
+    },
+    {
+      "label": "For recipe developers and visual learners",
+      "offerId": "aeropress-clear",
+      "reason": "Watching the slurry color shift through the transparent chamber gives you direct feedback when calibrating new grind sizes or steep times."
+    },
+    {
+      "label": "For two-person households",
+      "offerId": "aeropress-xl",
+      "reason": "The 500 ml single-press capacity covers two full cups in one cycle, which is the main limitation of the standard AeroPress for couples."
+    },
+    {
+      "label": "For AeroPress owners chasing espresso body",
+      "offerId": "fellow-prismo-aeropress-attachment",
+      "reason": "The pressure valve plus 0.2 mm metal filter combination delivers a concentrated, oil-rich pull that standard paper-filter AeroPress can't produce."
+    }
+  ]
 }

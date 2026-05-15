@@ -69,5 +69,114 @@
     "omnilux-contour-face": "FDA-cleared with the longest published study record — pick if regulatory backing matters to you."
   },
   "pinDescription": "Five LED face masks compared side-by-side in 2026: 30,000 yen Aduro to 298,000 yen Dr.Arrivo Zeus II. Wavelengths, session times, and what dermatologists actually recommend for at-home red light therapy.",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use.",
+  "products": [
+    {
+      "offerId": "currentbody-skin-led",
+      "badge": "Best Overall",
+      "review": "The CurrentBody Skin LED Mask is the most-recommended at-home device when dermatologists are asked which mask to start with, and the spec sheet supports the reputation. 132 LEDs deliver dual 633 nm red and 830 nm near-infrared wavelengths — the two bands with the strongest peer-reviewed support for supporting collagen synthesis and reducing inflammation over 8-12 weeks of consistent use. The silicone Series 2 shell contours to the cheekbone and jawline rather than sitting 1-2 cm off the skin, so more energy reaches the dermis instead of dispersing across an air gap. A 10-minute session is short enough that real adherence is plausible four nights a week, and resale value on Mercari stays high if you decide light therapy is not for you.",
+      "pros": [
+        "Dual 633 nm and 830 nm wavelengths with the strongest research support",
+        "Silicone flex shell contours to face for direct skin contact",
+        "10-minute session promotes consistent weekly use",
+        "Strong resale value on Mercari and second-hand markets"
+      ],
+      "cons": [
+        "Battery handset is the failure point at the 3-5 year mark",
+        "Eye area coverage is limited by the built-in cutouts"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "yaman-medi-lift-plus",
+      "badge": "Best LED + EMS Combo",
+      "review": "Yaman's Medi Lift Plus layers EMS muscle stimulation on top of LED light delivery, which produces a visible same-day lift effect from the EMS that lasts hours rather than weeks. This is honestly described — the LED component contributes the long-term collagen and inflammation pathway, and the EMS provides the immediate after-photo moment that keeps users motivated to maintain weekly sessions. 10-minute cycles, and the design's strap-around-the-jaw form factor targets the lower face more directly than flat masks. The trade-off is that the EMS focus narrows the device's LED coverage compared to full-face masks like CurrentBody, and the silicone band needs careful cleaning between sessions to avoid skin contact issues.",
+      "pros": [
+        "EMS plus LED combination delivers immediate visible lift",
+        "Jaw-strap design targets the lower face directly",
+        "10-minute cycles fit easily into evening routines",
+        "Top of Rakuten Beauty rankings for sustained adherence"
+      ],
+      "cons": [
+        "LED coverage is narrower than full-face mask designs",
+        "EMS lift effect is short-term, lasting hours not weeks"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "dr-arrivo-zeus-2",
+      "badge": "Best Luxury Pick",
+      "review": "The Dr.Arrivo Zeus II is the luxury-clinic equivalent for home use — six modalities (LED, EMS, RF, ultrasound, ion, microcurrent) in one device with gold-plated electrodes and a build quality that justifies the headline price for the right buyer. The modular construction allows component replacement rather than full-device disposal at the battery's end of life, which improves the 10-year cost math somewhat. Whether the additional 220,000 yen versus CurrentBody buys four times the result is the honest question, and the answer is no — the LED output spec is not 4x better, and the additional modalities support rather than multiply the core mechanism. Heavier than it looks at over a kilogram; the strap fatigues the neck after roughly 15 minutes.",
+      "pros": [
+        "Six modalities in one device (LED, EMS, RF, ultrasound, ion, microcurrent)",
+        "Gold-plated electrodes and premium build quality",
+        "User-replaceable modules extend total device lifespan",
+        "Holds resale value in the Japanese luxury beauty market"
+      ],
+      "cons": [
+        "Over 1 kg of weight fatigues the neck within 15 minutes",
+        "LED spec is not proportionally better than masks costing one-quarter as much"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "aduro-7-plus-1",
+      "badge": "Best Entry Test",
+      "review": "Aduro 7+1 is the lowest-risk way to find out whether at-home light therapy is something you will actually use four times a week before committing 75,000 yen to a CurrentBody. Seven color modes plus near-infrared in a rigid shell, 10-15 minute sessions, and a price point around 30,000 yen that makes the entry decision easy. The tethered design has no battery to degrade, which extends mechanical lifespan beyond the rechargeable competitors. The honest weakness is real: red-light intensity is below CurrentBody's spec, the rigid shell sits 1-2 cm off cheekbone and jawline (the air gap that newer silicone designs eliminate), and the multi-color marketing implies clinical claims for the non-red wavelengths that the published research does not substantively support.",
+      "pros": [
+        "Lowest entry price for testing light therapy commitment",
+        "Tethered design has no battery to degrade over time",
+        "Seven color modes plus near-infrared in one unit",
+        "Resells well after 60 days if upgrading to CurrentBody"
+      ],
+      "cons": [
+        "Red-light intensity below CurrentBody specification",
+        "Rigid shell sits off the face with air-gap energy loss"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "omnilux-contour-face",
+      "badge": "Best FDA-Cleared",
+      "review": "Omnilux Contour Face is the FDA-cleared pick with the longest independent published study record in the at-home LED category, which makes it the option US dermatologists most often recommend when regulatory backing matters to the buyer. The dual-wavelength approach (633 nm red plus 830 nm near-infrared) mirrors CurrentBody's spec, though the LED count is slightly lower. The silicone flex form factor delivers the same direct-contact light delivery as CurrentBody Series 2, and the brand's clinical paper trail dating back to professional dermatology devices gives the regulatory argument more weight than newer entrants. 10-minute sessions, hands-free wear with the head strap. Slightly fewer LEDs than CurrentBody and lower visibility in Japanese retail are the trade-offs.",
+      "pros": [
+        "FDA-cleared with the longest independent paper trail in the category",
+        "Dual 633 nm and 830 nm wavelengths in silicone flex form factor",
+        "Brand history in professional dermatology devices",
+        "Hands-free head strap allows multitasking during 10-minute sessions"
+      ],
+      "cons": [
+        "Slightly fewer LEDs than the comparable CurrentBody",
+        "Lower retail visibility and resale market in Japan"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For first-time at-home light therapy buyers",
+      "offerId": "currentbody-skin-led",
+      "reason": "Dual-wavelength dermatologist favorite with strong adherence-friendly 10-minute sessions and high resale value if it does not fit your routine."
+    },
+    {
+      "label": "For buyers motivated by immediate visible results",
+      "offerId": "yaman-medi-lift-plus",
+      "reason": "EMS plus LED combination delivers a same-day lift effect that keeps weekly adherence high — long-term LED benefits build underneath."
+    },
+    {
+      "label": "For luxury buyers replacing a clinic course",
+      "offerId": "dr-arrivo-zeus-2",
+      "reason": "Six modalities in one device with gold-plated electrodes makes sense only if you were already going to spend 200,000+ yen on professional sessions."
+    },
+    {
+      "label": "For buyers unsure if they will use it consistently",
+      "offerId": "aduro-7-plus-1",
+      "reason": "Lowest-risk entry to test whether you actually use a mask 4 nights a week before committing 75,000 yen to a flagship device."
+    },
+    {
+      "label": "For buyers who prioritize regulatory backing",
+      "offerId": "omnilux-contour-face",
+      "reason": "FDA-cleared with the longest independent paper trail in at-home LED — the option US dermatologists most often recommend when regulatory documentation matters."
+    }
+  ]
 }

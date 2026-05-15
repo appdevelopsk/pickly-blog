@@ -70,5 +70,114 @@
     "sharp-plasmacluster-ibwx901": "Lowest entry price — only pick this if you upgrade dryers every 2-3 years anyway, motor lifespan is the shortest in this list."
   },
   "pinDescription": "Five hair dryers compared in 2026: 18,000 yen Sharp Plasmacluster to 77,000 yen Lepronizer 7D Plus. Motor type, heat control, weight, and which one a Tokyo salon would actually recommend for at-home use.",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use.",
+  "products": [
+    {
+      "offerId": "dyson-supersonic-nural",
+      "badge": "Best for Long Hair",
+      "review": "The Supersonic Nural is the fastest dryer in this comparison for long, thick hair — the V9 digital motor pushes high airflow at roughly 110,000 rpm, dropping long-hair drying times from around 12 minutes on AC motors to under 7. A scalp-distance sensor reads how close the nozzle is to your head and throttles heat in real time, which addresses the actual cause of heat damage (temperature spikes, not average temperature). Magnetic attachments make nozzle swaps one-handed. The honest weakness is weight and balance: at 720 g with a front-heavy handle, your wrist will start to fatigue around the six-minute mark, and long-hair owners with shoulder issues consistently flag this in reviews.",
+      "pros": [
+        "V9 digital motor cuts long-hair dry time roughly in half",
+        "Scalp-distance sensor throttles heat in real time",
+        "Magnetic attachments swap one-handed mid-dry",
+        "Cooler airflow temperature than budget dryers at the head"
+      ],
+      "cons": [
+        "720 g front-heavy balance fatigues the wrist in 10-minute sessions",
+        "Most expensive cord-attached option in this comparison"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "refa-beautech-dryer-pro",
+      "badge": "Best Salon-Pro Feel",
+      "review": "The Refa BEAUTECH DRYER PRO is what many Tokyo and Osaka salons actually use behind the chair, and the engineering supports the positioning. The Pro-Sense Hybrid Sensor reads ambient and surface temperature 200 times per second to keep heat below the hair-damage threshold — roughly 60°C at the strand. The wider nozzle diffuses airflow more evenly than Dyson's narrow concentrator, which produces a gentler, smoother feel. The trade is genuine: heat output is milder than Dyson or Panasonic, so on a cold winter morning with thick wet hair you will spend one to two minutes longer drying. Owners describe the airflow as warm and gentle, which is the design intent and the honest cost.",
+      "pros": [
+        "Pro-Sense sensor reads temperature 200 times per second",
+        "Wider nozzle diffuses airflow more evenly than narrow concentrators",
+        "Genuine pro-bench presence in Japanese salons",
+        "Holds approximately 60°C at the hair strand"
+      ],
+      "cons": [
+        "Drying takes 1-2 minutes longer than Dyson on thick wet hair",
+        "Heat output is milder than Panasonic or Dyson"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "lepronizer-7d-plus",
+      "badge": "Best Premium Build",
+      "review": "The Lepronizer 7D Plus is the top-of-range buy for people who have already accepted Bioprogramming's brand story. Build quality is excellent, the warm airflow is genuinely pleasant, and owners commonly keep the unit for 8-10 years — making the per-year cost less wild than the sticker. The honest caveat is real: the Bioprogramming claim — that mineral-coated tourmaline emits a specific electromagnetic frequency that improves hair fiber over time — is not externally peer-reviewed, and dermatologists outside the brand's own materials do not endorse the mechanism. Owners report subjectively smoother hair after 4-6 weeks of daily use; that subjective experience is real, but the causal pathway as described is not established.",
+      "pros": [
+        "Build quality is the best in this comparison",
+        "Rated lifespan of 8-10 years lowers per-year cost",
+        "Warm, pleasant airflow described as gentle by owners",
+        "Resale value holds up well on Mercari and Yahoo Auctions"
+      ],
+      "cons": [
+        "Bioprogramming claims are not externally peer-reviewed",
+        "Worst spec-to-price ratio in this comparison"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "panasonic-nanocare-ehna0j",
+      "badge": "Best Value Flagship",
+      "review": "The Panasonic Nanocare EH-NA0J is the most defensible buy for most people. Nanoe ion technology (water-coated mineral ions) has the longest published research record among the moisture-delivery systems in this group, the scalp mode holds approximately 60°C against the skin by default, and Panasonic's domestic service network in Japan means a broken unit returns in two weeks rather than being discarded. Weight is identical to the prestige options but the price is roughly half. The honest weakness: the nozzle attachments are clunkier than Dyson's magnetic system — swapping the concentrator and diffuser requires both hands and the airflow direction is coarser, which matters if you actively style versus simply dry.",
+      "pros": [
+        "Nanoe technology has the longest published research record here",
+        "60°C scalp mode holds steady against the skin by default",
+        "Panasonic domestic warranty and repair network in Japan",
+        "Half the price of Dyson at near-equal real-world performance"
+      ],
+      "cons": [
+        "Nozzle attachments require two hands to swap",
+        "Airflow direction is coarser than Dyson's concentrator"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "sharp-plasmacluster-ibwx901",
+      "badge": "Best Budget",
+      "review": "The Sharp Plasmacluster IB-WX901 is the sub-20,000 yen value pick — a lightweight 595 g body (the only sub-600 g unit here), Plasmacluster ion technology shared with Sharp's air purifier line, and a drape-dry mode that holds around 60°C. For users who replace dryers every two to three years anyway, the lower upfront cost is the right trade. The honest weakness, repeated across long-term reviews, is motor lifespan: the WX-series AC motor has a noticeably shorter rated life than the digital motors in Dyson, Refa, and Lepronizer, with owners reporting failures around the 2-3 year mark versus 6-8 years for the digital-motor flagships. You are buying low upfront cost in exchange for replacement frequency.",
+      "pros": [
+        "Lightest unit in this comparison at around 595 g",
+        "Plasmacluster ion mode shared with Sharp's air purifier line",
+        "Lowest upfront price by a wide margin",
+        "Reasonable choice if you replace dryers every 2-3 years"
+      ],
+      "cons": [
+        "Motor lifespan shortest in this comparison — often fails at 2-3 years",
+        "Smaller motor takes longer overall to dry long hair"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For long thick hair where dry time matters",
+      "offerId": "dyson-supersonic-nural",
+      "reason": "The V9 digital motor cuts long-hair dry time from roughly 12 minutes to under 7, and the scalp-distance sensor manages heat spikes that cause cumulative damage."
+    },
+    {
+      "label": "For salon-quality feel at home",
+      "offerId": "refa-beautech-dryer-pro",
+      "reason": "Pro-Sense sensor reads 200 times per second and the wider nozzle diffuses evenly — the same airflow many Tokyo and Osaka salons use behind the chair."
+    },
+    {
+      "label": "For buyers who want a 10-year flagship",
+      "offerId": "lepronizer-7d-plus",
+      "reason": "Build quality and rated 8-10 year lifespan make per-year cost reasonable for owners who keep the unit long-term."
+    },
+    {
+      "label": "For most people who want a safe Japan-market pick",
+      "offerId": "panasonic-nanocare-ehna0j",
+      "reason": "Nanoe technology has the longest published research record, the 60°C scalp mode is real, and Panasonic's domestic service network handles repairs in two weeks."
+    },
+    {
+      "label": "For buyers who upgrade dryers every 2-3 years",
+      "offerId": "sharp-plasmacluster-ibwx901",
+      "reason": "Lightest in the group at 595 g and lowest upfront price — the right trade if shorter motor lifespan does not bother you."
+    }
+  ]
 }

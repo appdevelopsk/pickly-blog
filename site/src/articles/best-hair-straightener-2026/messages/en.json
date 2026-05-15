@@ -103,5 +103,114 @@
     "remington-s9500-pearl": "Best entry-level pick — ceramic plates, 9 heat settings, low upfront cost. Ceramic coating wears in 12-18 months of daily use; plan to replace or upgrade."
   },
   "pinDescription": "Five hair straighteners compared in 2026: 8,000 yen Remington to 60,000 yen Dyson Corrale. Plate tech, temperature science, heat damage reality, and which one a professional stylist would recommend for daily home use.",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use.",
+  "products": [
+    {
+      "offerId": "dyson-corrale-straightener",
+      "badge": "Best Cordless",
+      "review": "The Corrale is the only credible cordless straightener in this group — a full lithium-ion battery delivers around 30 minutes of styling, which covers shoulder-length medium-thick hair on one charge. The defining feature is flex plates: the two halves of each plate flex independently to conform to each hair section, which Dyson's own testing reports as a roughly 30% heat-exposure reduction compared with rigid plates at equivalent temperatures. The figure has not been independently replicated, but the contact geometry argument is plausible. Three settings (165 / 185 / 210°C) cover most hair types. The honest weakness is price-to-feature: at around 60,000 yen, you are paying a steep premium for cordless that most home users at a fixed vanity will never actually need.",
+      "pros": [
+        "Genuinely cordless with ~30 min of styling per charge",
+        "Flex plates conform to each hair section for fuller contact",
+        "Three temperature settings cover most hair types",
+        "Universal 100-240V charger works anywhere"
+      ],
+      "cons": [
+        "30-minute battery is a hard ceiling for waist-length or very thick hair",
+        "Cordless premium does not pay back if you style at a fixed mirror"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "ghd-platinum-plus",
+      "badge": "Best for Daily Use",
+      "review": "The Platinum+ is the most defensible choice for daily straightening because it removes the most common cause of heat damage — users cranking temperatures higher than they need. A single fixed 185°C is the temperature where alpha-keratin restructures most efficiently without crossing into the protein-degradation zone that starts around 200°C, and the predictive heating system reads plate temperature 250 times per second to hold that setting even as cold wet sections pull heat away. No mode selection, no dial fumbling, no decision required. The honest caveat: 185°C is not hot enough for very coarse or highly resistant hair, and GHD does not operate a domestic Japan service center, so warranty handling is via the importer.",
+      "pros": [
+        "Fixed 185°C eliminates the temperature-overshoot mistake",
+        "Predictive heating reads 250 times per second",
+        "Auto-shutoff and well-balanced wand for daily use",
+        "Strongest hair-science argument among temperature-control claims"
+      ],
+      "cons": [
+        "185°C insufficient for very coarse or highly resistant hair",
+        "No domestic Japan service center for warranty repairs"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "panasonic-nanocare-eh-hs0e",
+      "badge": "Best for Japanese Hair",
+      "review": "The EH-HS0E is the Japan-market mainstream pick — domestic Panasonic warranty support, nanoe moisture technology with the most published research record in this group, and a temperature ceiling of 200°C that is safer than the 230°C+ options for fine-to-medium Asian hair. The nanoe system emits charged water-containing nano-particles small enough to penetrate the cuticle, which helps moisture retention during heat styling rather than serving as a heat-protection mechanism (the distinction matters). Honest caveat: the EH-HS0E is 100V-only and will not work in Europe or North America without a voltage converter, which is a real constraint for international travelers.",
+      "pros": [
+        "Nanoe moisture technology has the most published research here",
+        "200°C ceiling is safer than 230°C+ options for fine Asian hair",
+        "Panasonic domestic warranty and Japan-wide repair network",
+        "Reasonable plate width and balance for everyday use"
+      ],
+      "cons": [
+        "100V-only — cannot be used abroad without a converter",
+        "Plate width narrower than BaByliss and Remington 38 mm options"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "remington-s9500-pearl",
+      "badge": "Best Budget",
+      "review": "The S9500 Pearl is the entry-level tier — ceramic plates with a 9-step heat range to 230°C, 60-second heat-up, and an upfront price that lands around 8,000 yen. For users who replace styling tools every one to two years anyway, the math works: low initial cost in exchange for a shorter useful life. The honest weakness is plate longevity — the ceramic coating is thinner than on the higher-tier units and shows wear in owner reviews after 12-18 months of daily use. Scratched ceramic loses its smooth glide and can snag hair, which is the failure mode that prompts replacement. If you plan to use a straightener daily for three or more years, BaByliss or Panasonic is the more economical long-run choice.",
+      "pros": [
+        "Lowest upfront price in this comparison by a wide margin",
+        "9 heat settings up to 230°C cover most styling needs",
+        "60-second heat-up time matches more expensive units",
+        "Ceramic plates distribute heat more evenly than bare metal"
+      ],
+      "cons": [
+        "Ceramic coating wears within 12-18 months of daily use",
+        "No predictive heating — temperature drifts on cold passes"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "babyliss-st330e",
+      "badge": "Best Pro-Spec Value",
+      "review": "The ST330E is the value professional pick — ceramic-titanium hybrid plates (ceramic surface for glide, titanium core for heat retention), 235°C top temperature, 60-second heat-up, and genuine salon credibility in Europe and Australia. The hybrid construction is a sound compromise for medium-thick hair that resists styling — titanium's heat retention reduces the multi-pass problem on coarse sections without the static stripping issue of bare titanium. The honest weakness: 235°C is hot enough to cause rapid damage on fine or color-treated hair, and the variable temperature control is manual with no predictive technology. This is a tool for people who know what they are doing with heat settings, not a fire-and-forget daily driver.",
+      "pros": [
+        "Ceramic-titanium hybrid balances glide and heat retention",
+        "235°C ceiling handles coarse or resistant hair in one pass",
+        "60-second heat-up and professional-spec build",
+        "Genuine salon credibility in European markets"
+      ],
+      "cons": [
+        "235°C top setting damages fine or color-treated hair quickly",
+        "Manual variable temperature requires active user discipline"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For travel and styling without an outlet",
+      "offerId": "dyson-corrale-straightener",
+      "reason": "Only credibly cordless option here — 30 minutes of battery covers shoulder-length styling in hotels or anywhere without a power outlet."
+    },
+    {
+      "label": "For daily home use, fine-to-medium hair",
+      "offerId": "ghd-platinum-plus",
+      "reason": "Fixed 185°C with predictive heating removes the most common heat-damage cause and is the strongest hair-science argument in the group."
+    },
+    {
+      "label": "For Japan-resident buyers on fine Asian hair",
+      "offerId": "panasonic-nanocare-eh-hs0e",
+      "reason": "Nanoe moisture technology has the most research record, the 200°C ceiling suits fine Asian hair, and Panasonic's domestic warranty network handles repairs."
+    },
+    {
+      "label": "For occasional users on a tight budget",
+      "offerId": "remington-s9500-pearl",
+      "reason": "Lowest upfront price by a wide margin and 9 heat settings cover basic needs — the right trade if you upgrade tools every 1-2 years."
+    },
+    {
+      "label": "For coarse or resistant hair, experienced users",
+      "offerId": "babyliss-st330e",
+      "reason": "Ceramic-titanium hybrid plates and 235°C top temperature handle resistant sections in one pass — for users who manage heat settings deliberately."
+    }
+  ]
 }

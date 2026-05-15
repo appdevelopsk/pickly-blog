@@ -110,5 +110,114 @@
     "la-roche-posay-toleriane-cleanser": "La Roche-Posay Toleriane Hydrating Gentle Cleanser — non-foaming cleanser formulated with La Roche-Posay thermal spring water, glycerin, and niacinamide, with zero fragrance, zero alcohol, and minimal preservative profile. Designed for sensitized and reactive skin, recommended by Japanese dermatologists for post-procedure skincare. Available on Rakuten Ichiba. approximately ¥2,500–¥3,000 for 400ml positions it as the most expensive daily cleanser in this comparison by per-ml cost, which is a difficult value proposition against drugstore alternatives that perform similarly on non-reactive skin; the formulation gentleness that makes it appropriate for reactive skin means it cannot remove SPF50+ or waterproof makeup as a standalone cleanser — a micellar water or oil first step is required on SPF days; users accustomed to foam or stronger gel cleansers experience the texture as 'not doing anything,' creating an adoption challenge."
   },
   "pinDescription": "5 face washes compared for 2026 — barrier-first cleansing explained. Foaming vs non-foam, when to double cleanse, pH truth vs influencer myth, and the collagen claim that does not survive a rinse. CeraVe, Senka, La Roche-Posay, The Ordinary, Kose — explicit weakness on every pick. Morning skin barrier starts here.",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use.",
+  "products": [
+    {
+      "offerId": "cerave-hydrating-facial-cleanser",
+      "badge": "Best for Dry Skin",
+      "review": "CeraVe Hydrating Facial Cleanser is the most evidence-backed pick in this comparison for barrier-compromised skin. The non-foaming pump formula combines three ceramides (ceramide NP, AP, EOP) that supplement the skin's own barrier lipids, hyaluronic acid (sodium hyaluronate) as a humectant that reduces post-cleanse tightness, and niacinamide that supports barrier function. Developed with dermatologists and recommended by the American Academy of Dermatology for dry and sensitive skin, the formula is fragrance-free and non-comedogenic. The honest trade is sensory: the non-foaming lotion texture feels different from a foaming cleanser, which is an adoption barrier for users who associate lather with thorough cleansing. It is also insufficient as a standalone for heavy SPF or waterproof makeup without a prior oil-cleanse step.",
+      "pros": [
+        "Three ceramides plus hyaluronic acid and niacinamide for barrier support",
+        "Fragrance-free, non-comedogenic, AAD-recommended",
+        "Non-foaming texture preserves barrier lipids during daily use",
+        "Pump bottle is hygienic and lasts months at normal use"
+      ],
+      "cons": [
+        "Insufficient alone for heavy SPF or waterproof makeup removal",
+        "Lotion texture frustrates users who expect foam"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "kose-softymo-speedy-cleansing",
+      "badge": "Best for Makeup Days",
+      "review": "Kose Softymo Speedy Cleansing Oil is the Japanese drugstore institution for oil cleansing — it emulsifies with water into a milky rinse that does not require wiping, costs under 1,000 yen for 230ml, and is stocked at every Matsukiyo and Welcia in Japan. It does real work removing SPF and long-wear makeup as a first step in a double cleanse routine. The honest limits are clear: not suitable as a standalone daily cleanser on no-makeup, no-SPF days because using an oil cleanser without a corresponding oil-phase load risks over-cleansing; silicone content (dimethicone in INCI) divides reviews with some users reporting buildup requiring a clarifying wash; and the parfum in INCI rules it out for fragrance-sensitive or reactive skin. The bottle dispenser is also inconsistent in dosage.",
+      "pros": [
+        "Drugstore-affordable at under 1,000 yen for 230ml",
+        "Emulsifies cleanly and removes SPF without wiping",
+        "Available at every major Japanese drugstore chain",
+        "Effective first-step for waterproof makeup and mineral SPF"
+      ],
+      "cons": [
+        "Contains parfum — not for fragrance-sensitive or reactive skin",
+        "Not suitable as a daily standalone cleanser on bare skin days"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "the-ordinary-squalane-cleanser",
+      "badge": "Best Fragrance-Free Oil",
+      "review": "The Ordinary Squalane Cleanser is the fragrance-free, silicone-free first-step option — a balm-to-oil formula with plant-derived squalane as the primary ingredient (mimicking the squalane component of human sebum, which is why it works for sensitive and acne-prone skin alike) and polyglyceryl-3 diisostearate as the emulsifier. It removes SPF and waterproof makeup without sulfate surfactants and without silicone buildup. The honest weakness is technique-dependent: emulsification requires thorough water contact on wet hands before rinsing, and the residue complaints that dominate negative reviews are almost entirely from users who did not add enough water at that step. The 50ml tube also empties faster than its price implies, lasting 4-6 weeks of daily full-face use.",
+      "pros": [
+        "Fragrance-free and silicone-free first-step cleansing",
+        "Plant-derived squalane mimics human sebum composition",
+        "Suitable for sensitive and acne-prone skin alike",
+        "Removes SPF50+ and waterproof makeup without sulfates"
+      ],
+      "cons": [
+        "Requires technique — insufficient water leaves residue",
+        "50ml tube empties in 4-6 weeks at daily full-face use"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "shiseido-senka-perfect-whip",
+      "badge": "Best Drugstore Foam",
+      "review": "Shiseido Senka Perfect Whip is the dense-foam Japanese drugstore institution — under 700 yen for 120g, available at every Matsukiyo and Welcia, and built around a creamy lather experience that explains its decade-plus dominance in Japanese drugstore rankings. Suitable for normal to normal-oily skin as a morning cleanser. Honest caveats: the parfum in INCI rules it out for reactive skin, rosacea, or perioral dermatitis; the collagen marketing claim implies a structural anti-aging benefit that a rinse-off product cannot deliver because collagen molecules are too large to penetrate the skin barrier and wash away with the rinse (it functions as a film-forming humectant during application, not as collagen replacement); and achieving the advertised dense foam requires a foam net that is not included.",
+      "pros": [
+        "Drugstore-affordable at under 700 yen for 120g",
+        "Dense satisfying foam for users who prefer lather",
+        "Widely available across Japanese drugstore chains",
+        "Suitable as a morning cleanser for normal to oily skin"
+      ],
+      "cons": [
+        "Parfum in INCI — unsuitable for reactive or sensitized skin",
+        "Collagen claim functions as humectant only, not structural"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "la-roche-posay-toleriane-cleanser",
+      "badge": "Best for Reactive Skin",
+      "review": "La Roche-Posay Toleriane Hydrating Gentle Cleanser is the most sensitive-skin appropriate pick by INCI profile — La Roche-Posay thermal spring water, glycerin, niacinamide as the prebiotic, zero fragrance, zero alcohol, and a minimal preservative profile beyond the safety threshold. Recommended by Japanese dermatologists for post-procedure skincare and reactive presentations including rosacea-prone skin. Available at about 2,500-3,000 yen for 400ml. The honest trade-offs: this is the highest per-ml cost in the comparison and the value proposition is harder to justify against drugstore alternatives on non-reactive skin; the formulation gentleness that makes it appropriate for reactive skin means it cannot remove SPF50+ alone — a micellar water or oil first step is required on SPF days.",
+      "pros": [
+        "Zero fragrance, zero alcohol, minimal preservatives",
+        "Thermal spring water plus prebiotic niacinamide",
+        "Recommended by Japanese dermatologists for post-procedure care",
+        "Most appropriate INCI profile for reactive or rosacea-prone skin"
+      ],
+      "cons": [
+        "Highest per-ml cost in the comparison",
+        "Cannot remove SPF50+ as a standalone cleanser"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For dry or barrier-compromised skin",
+      "offerId": "cerave-hydrating-facial-cleanser",
+      "reason": "Three ceramides plus hyaluronic acid in a non-foaming formula is the most evidence-backed barrier-support option in this comparison."
+    },
+    {
+      "label": "For double-cleanse first step on SPF days",
+      "offerId": "kose-softymo-speedy-cleansing",
+      "reason": "Drugstore-affordable oil cleanser that emulsifies cleanly and removes SPF without wiping — designed exactly for this job."
+    },
+    {
+      "label": "For fragrance-free SPF removal",
+      "offerId": "the-ordinary-squalane-cleanser",
+      "reason": "Squalane base with no fragrance, no silicone, and no sulfates — the first-step option for users who react to parfum in Kose's formula."
+    },
+    {
+      "label": "For normal-to-oily skin who prefer foam",
+      "offerId": "shiseido-senka-perfect-whip",
+      "reason": "Dense satisfying lather at drugstore price for morning cleansing on normal-to-oily skin where foam is the sensory preference."
+    },
+    {
+      "label": "For rosacea-prone or reactive skin",
+      "offerId": "la-roche-posay-toleriane-cleanser",
+      "reason": "Zero fragrance, zero alcohol, minimal preservatives — the most appropriate INCI profile for sensitized or post-procedure skin."
+    }
+  ]
 }

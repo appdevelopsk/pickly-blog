@@ -115,5 +115,114 @@
     "realforce-r3": "Realforce R3 — electrostatic capacitive Topre mechanism, full-size (104-key) and TKL (87-key) variants, actuation point changer (APC) adjustable from 1.5mm to 3mm, manufactured in Japan by Topre Corporation, PBT keycaps standard, available in JIS and US ANSI layouts, ¥40,000+ for full-size. Available on Rakuten Ichiba. ¥40,000+ for a full-size keyboard with no wireless on most R3 variants (wired USB-C only), no RGB lighting system comparable to Keychron or Nuphy, and significant weight makes it a purely desk-bound investment; APC configuration requires dedicated software setup; the Topre keycap ecosystem limitations apply — aftermarket keycap options are far fewer than MX-compatible boards; the large full-size footprint requires substantial desk real estate that reduces mouse movement area compared to TKL or 75% layouts."
   },
   "pinDescription": "5 keyboards compared for 2026 home office — Keychron Q1 Pro gasket-mount wireless vs HHKB Topre cult classic vs Logicool MX Keys S (not mechanical — we say it) vs Nuphy Air75 V2 slim vs Realforce R3 Japan-made. Switch types, JIS vs US layout, wireless latency truth Desk setup starts here.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "keychron-q1-pro",
+      "badge": "Best Overall",
+      "grade": "A+",
+      "review": "The Keychron Q1 Pro is the most complete enthusiast home-office keyboard at a reasonable price. Gasket-mounted 75% layout in a full aluminum body (approximately 2kg), QMK/VIA programmable firmware, hot-swap MX-compatible sockets, Bluetooth 5.1 plus 2.4GHz wireless, and south-facing RGB combine into a feature set that three years ago required entering boutique group-buy territory at 40,000 yen and above. The gasket mount produces a softer, lower-pitched typing acoustic than tray-mount alternatives, and the 4000mAh battery covers several weeks of typical use with backlight off. At around 30,000 yen this is meaningful spending. The honest tradeoffs: the 2kg weight rules out travel use, the volume knob is absent on the base model and requires the knob variant at additional cost, and QMK firmware has a real learning curve for users who want plug-and-play.",
+      "pros": [
+        "Gasket-mount 75% aluminum body with hot-swap MX sockets",
+        "QMK/VIA programmable firmware for full key remapping",
+        "Bluetooth 5.1 plus 2.4GHz wireless with multi-device pairing",
+        "South-facing RGB and 4000mAh battery for multi-week backlight-off use"
+      ],
+      "cons": [
+        "Approximately 2kg weight rules out travel or lap use",
+        "Volume knob requires the knob upgrade variant at extra cost"
+      ]
+    },
+    {
+      "offerId": "hhkb-professional-hybrid-type-s",
+      "badge": "Best for Programmers",
+      "grade": "A",
+      "review": "The HHKB Professional Hybrid Type-S is the cult-status keyboard of Japanese software engineering culture, designed by Professor Eiiti Wada in 1996 and built around a Ctrl-over-Caps-Lock layout philosophy that resonates with Unix and Emacs users. The Type-S variant uses silenced Topre electrostatic capacitive domes for genuinely office-appropriate noise levels, supports Bluetooth 4.2 plus USB-C, and pairs with Mac, Windows, iOS, and Android. The 45g Topre actuation feel — smooth tactile bump with a 'thocky' dampened sound profile — is fundamentally different from any MX switch and cannot be replicated. At 35,000 yen and up this is premium pricing, and the value proposition depends entirely on appreciating Topre. The honest tradeoffs: no RGB, no QMK/VIA, no hot-swap, no 2.4GHz dongle option, and the small Topre keycap aftermarket limits customization.",
+      "pros": [
+        "Silenced Topre electrostatic capacitive switches for quiet office use",
+        "HHKB Ctrl-over-Caps-Lock layout philosophy for Unix and Emacs workflows",
+        "Bluetooth 4.2 plus USB-C with multi-device pairing",
+        "PFU-manufactured build quality with cult status among Japanese engineers"
+      ],
+      "cons": [
+        "35,000 yen+ with no RGB, no QMK/VIA, no hot-swap",
+        "Topre proprietary keycap stem limits aftermarket options"
+      ]
+    },
+    {
+      "offerId": "logicool-mx-keys-s",
+      "badge": "Best for Office Productivity",
+      "grade": "A",
+      "review": "The Logicool MX Keys S is included as an honest reference point for the office productivity use case: it is not a mechanical keyboard. The scissor mechanism with approximately 1.8mm key travel is categorically different from MX or Topre switches, and users expecting mechanical feel will be disappointed. What it does well is high-volume daily typing across multiple devices: Bluetooth plus Logi Bolt 2.4GHz wireless, Flow multi-device switching across up to three computers, per-key backlight that adapts to ambient light, and USB-C charging delivering several weeks per charge. At around 17,000-20,000 yen, this is the most polished non-mechanical option in the comparison and serves the daily-driver office keyboard role for users who prioritize typing comfort and multi-device workflow over switch feel.",
+      "pros": [
+        "Scissor mechanism with quiet, low-profile typing for shared offices",
+        "Flow multi-device switching across up to three computers",
+        "Per-key backlight that adapts to ambient lighting conditions",
+        "USB-C charging with up to five months battery life backlight-off"
+      ],
+      "cons": [
+        "Not a mechanical keyboard — no MX or Topre switch feel",
+        "Not programmable beyond Logi Options+ macros"
+      ]
+    },
+    {
+      "offerId": "nuphy-air75-v2",
+      "badge": "Best Slim Profile",
+      "grade": "B+",
+      "review": "The Nuphy Air75 V2 is the slim gasket-mount 75% pick at a lower price than the Keychron Q1 Pro. Low-profile mechanical switches (Gateron or Nuphy low-profile variants) with approximately 2.5-3mm travel suit users who find standard 4mm MX travel unnecessarily deep, and the aluminum chassis with hot-swap MX low-profile sockets retains enthusiast customizability. Bluetooth 5.1 plus 2.4GHz dongle wireless covers desk use reliably, and at around 20,000 yen this is the lowest-priced gasket-mount aluminum 75% option in the comparison. The honest tradeoffs: low-profile switches divide opinion — users accustomed to standard MX travel find them less satisfying, the Nuphy enthusiast modding community is significantly smaller than Keychron's, battery life with RGB enabled is shorter than the Q1 Pro, and firmware updates have been slower and less consistent than Keychron's history.",
+      "pros": [
+        "Slim gasket-mount aluminum 75% at around 20,000 yen",
+        "Low-profile mechanical switches with hot-swap MX low-profile sockets",
+        "Bluetooth 5.1 plus 2.4GHz dongle wireless",
+        "Compact desk footprint for tight setups"
+      ],
+      "cons": [
+        "Low-profile 2.5-3mm travel divides preference vs standard MX",
+        "Smaller modding community and slower firmware update cadence"
+      ]
+    },
+    {
+      "offerId": "realforce-r3",
+      "badge": "Best for Professional Use",
+      "grade": "B+",
+      "review": "The Realforce R3 is the professional-grade Topre full-size and TKL option made in Japan by Topre Corporation. The 45g electrostatic capacitive mechanism is paired with an actuation point changer (APC) adjustable from 1.5mm to 3mm, giving per-key sensitivity tuning that no other keyboard in this comparison offers. PBT keycaps come standard, both JIS and US ANSI layouts are available, and the full-size variant supports the numpad-heavy data entry workflows common in Japanese corporate, financial, and administrative environments. At 40,000 yen and up for the full-size, this is premium pricing for a wired keyboard with no RGB. The honest tradeoffs: most R3 variants are wired-only (the R3S has Bluetooth on select configurations), the full-size footprint limits mouse-movement area, and Topre keycap ecosystem limitations apply as they do for HHKB.",
+      "pros": [
+        "Japan-made Topre electrostatic capacitive mechanism",
+        "APC actuation point adjustable from 1.5mm to 3mm per key",
+        "Full-size and TKL variants in JIS and US ANSI layouts",
+        "PBT keycaps standard with corporate-grade build quality"
+      ],
+      "cons": [
+        "Most variants are wired-only with no RGB lighting",
+        "Topre proprietary keycap stem limits aftermarket options"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For enthusiast home office with wireless and programmability",
+      "offerId": "keychron-q1-pro",
+      "reason": "Gasket-mount 75% aluminum with QMK/VIA, hot-swap, and dual wireless covers the most complete enthusiast feature set at 30,000 yen."
+    },
+    {
+      "label": "For programmers committed to Topre and the HHKB layout",
+      "offerId": "hhkb-professional-hybrid-type-s",
+      "reason": "Silenced Topre domes plus the Ctrl-over-Caps-Lock layout philosophy serve Unix and Emacs workflows that no MX board replicates."
+    },
+    {
+      "label": "For multi-device office typists who don't need mechanical feel",
+      "offerId": "logicool-mx-keys-s",
+      "reason": "Scissor-switch quiet typing with Flow multi-device switching across three computers and per-key backlight suits all-day office use."
+    },
+    {
+      "label": "For slim desk setups where the Q1 Pro is too heavy",
+      "offerId": "nuphy-air75-v2",
+      "reason": "Slim gasket-mount aluminum 75% with low-profile switches at around 20,000 yen handles tight desks and minimalist aesthetics."
+    },
+    {
+      "label": "For Japanese corporate full-size or TKL professional use",
+      "offerId": "realforce-r3",
+      "reason": "Japan-made Topre with APC actuation point adjustment and JIS layout availability fits financial and administrative environments."
+    }
+  ]
 }
