@@ -1,73 +1,123 @@
 {
   "title": "Bester Schwarztee 2026: Von English Breakfast bis Single-Origin Darjeeling im Test",
   "description": "Wir haben 5 Schwarztees nach Herkunft, Guete und Stil getestet. Von kraeftigen Fruehstuecksmischungen bis zum delikaten Darjeeling First Flush — was wirklich kaufenswert ist.",
-  "intro": "Schwarztee ist der meistkonsumierte Tee der Welt, doch die Qualitaetskluft zwischen Supermarkt-Teebaeuteln und gutem losen Tee ist enorm. Wir haben fuenf weit verbreitete Optionen aufgebruehst und bewertet, die von kraeftigen Alltagstees bis hin zu raffinierten Single-Origin-Auswahlen reichen, und Geschmack, Koerper und Preis-Leistungs-Verhaeltnis verglichen.",
-  "products": {
-    "harney-sons-hot-cinnamon-spice": {
-      "name": "Harney & Sons Hot Cinnamon Spice",
-      "badge": "Bester aromatisierter Schwarztee",
-      "review": "Harney & Sons Hot Cinnamon Spice hat aus gutem Grund eine treue Anhaengerschaft — drei Zimtsorten plus Orangenschale und suesse Gewuerznelken auf einer kraeftigen Schwarztee-Basis. Er ist intensiv aromatisch und ueberraschend ausgewogen: das Gewuerz steht vorne, aber der Tee dahinter ist echt. Brueht zu tiefem Bernstein, funktioniert mit und ohne Milch und harmoniert gut mit Honig. Wer einen aromatisierten Schwarztee moechte, der nicht kuenstlich schmeckt, findet hier den Massstab. Die Dose ist ein schoenes Plus zum Verschenken."
-    },
-    "twinings-english-breakfast": {
-      "name": "Twinings English Breakfast",
-      "badge": "Bester klassischer Fruehstueckstee",
-      "review": "Twinings mischt English Breakfast seit 1837 und die Formel funktioniert noch immer. Eine Assam-betonte Mischung mit genueg Malz und Staerke, um durch Milch zu kommen — das ist der Sinn eines Fruehstueckstees. Die Teebeutelversion ist zugaenglicher als aufregend, aber konstant gut — dieselbe Tasse jedes Mal, bei jeder Wasserhaerte. Die Losblattversion bietet mehr Geschmackskomplexitaet. Fuer eine zuverlaessige Alltagsoption, die nicht enttaeuscht, ist Twinings die sichere Wahl."
-    },
-    "vahdam-darjeeling-first-flush": {
-      "name": "Vahdam Darjeeling First Flush",
-      "badge": "Bester Single-Origin",
-      "review": "Vahdam bezieht direkt von Gueten in Darjeeling und ihr First Flush (Fruehjahrs-Ernte) ist echter Muscatel — der charakteristische moschusartige, blumige, leicht adstringierende Charakter, der echten Darjeeling auszeichnet. Helleres Bernstein als Assam-Mischungen, weniger Koffein, am besten ohne Milch. Das ist eine voellig andere Erfahrung als Fruehstueckstee: langsam nippen, Wasser bei ca. 90 Grad, nicht ueberziehem. Die direkte Gueten-Beschaffung bedeutet bessere Rueckverfolgbarkeit und Frische als traditionelle Supermarktmarken. Fuer Teeliebhaber ein Geheimtipp."
-    },
-    "republic-of-tea-black-tea": {
-      "name": "Republic of Tea Daily Black Tea",
-      "badge": "Bester Alltagswert",
-      "review": "Republic of Teas Daily Black verwendet runde Ganzblaetter-Teebutel, die bessere Extraktion als flache Standardbutel bieten. Mittlerer Koerper, sauberer Abgang, leichte Malzigkeit. Nicht so komplex wie Losblatt, aber deutlich besser als die meisten Supermarkt-Teebeutel. Die recycelbare Dose haelt den Tee frisch. Zum Preis, den er besetzt, ist das der ehrlichste Wert in der Kategorie — bessere Qualitaet als erwartet, keine Aromatrickereien, kein Staubboden im Butel. Gute Wahl fuer Buerokuechen oder jeden, der taeglich 2-3 Tassen trinkt."
-    },
-    "ahmad-tea-english-no-1": {
-      "name": "Ahmad Tea English No. 1",
-      "badge": "Bester guenstiger Schwarztee",
-      "review": "Ahmad Tea ist ein verstecktes Juwel — ein echter Londoner Teehersteller, der zu Supermarktpreisen verkauft. English No. 1 ist eine flotte, malzige Mischung, die gut zu Milch und Zucker passt, schnell dunkel brueht und nicht bitter wird, wenn der Butel zu lange drin bleibt. Der Geschmack ist klar und echt, nicht parfuemiert. Zum Preis schlaegt er fast alles im Supermarktregal. Weit verbreitet in asiatischen Lebensmittelgeschaeften und einigen grossen Haendlern. Wer taeglich Tee trinkt und nicht fuer Premium ausgeben moechte, liegt hier richtig."
-    }
-  },
-  "buyingGuide": {
-    "title": "Wie man Schwarztee auswaehlt",
-    "intro": "Herkunft, Guete und Form (Teebeutel vs. Losblatt) bestimmen den groessten Teil der Qualitaetskluft. Worauf man achten sollte:",
-    "factors": [
-      {
-        "name": "Herkunft und Stil",
-        "detail": "Assam (Indien) erzeugt kraeftige, malzige Tees, ideal fuer Milch — die Basis der meisten English-Breakfast-Mischungen. Darjeeling (Indien) ist leichter, blumig, Muscatel-aromatisch — am besten ohne Milch, wie Wein. Ceylon (Sri Lanka) hat mittleren Koerper, leicht zitrusfruechtig. Keemun (China) ist komplex, leicht rauchig, traditionell fuer English Breakfast in Grossbritannien. Jeder Stil eignet sich fuer verschiedene Verwendungszwecke."
-      },
-      {
-        "name": "Guete: Ganzblaetter vs. CTC vs. Staub",
-        "detail": "Ganzblaetter (FTGFOP, OP-Gueten) bruehen langsamer, aber mit mehr Komplexitaet und weniger Tanninen. CTC (crush-tear-curl) wird maschinell zu kleinen Pellets verarbeitet fuer schnelle Extraktion und starken Aufguss — die Basis der meisten Teebeutel. Staub ist die niedrigste Guete in billigen Teebeuteln, brueht schnell und herb. Lose Ganzblaetter geben im Allgemeinen besseren Geschmack; runde Butel mit losen Stuecken sind ein Mittelweg."
-      },
-      {
-        "name": "Frische",
-        "detail": "Schwarztee oxidiert langsamer als Gruentee, verliert aber trotzdem mit der Zeit Aroma. First-Flush-Tees (Fruejahrsernte) haben ein Frischefenster. Bei Premium-Tees Erntejahre pruefen. Generische Supermarkt-Teebeutel zeigen diese Information selten, was ein Qualitaetssignal ist. In luftdichten Dosen, lichtgeschuetzt und von starken Geruechen fernhalten."
-      },
-      {
-        "name": "Mit oder ohne Milch",
-        "detail": "Tannin- und malzreiche Tees (Assam, kraeftige Fruehstuecksmischungen) sind fuer Milch und Zucker ausgelegt — Milch mildert Tannine und macht sie bei staerkeren Aufguessen trinkbar. Delikate Tees (Darjeeling, Keemun, Weissspitzen-Sorten) werden am besten ohne Milch genossen, um ihre natuerlichen Aromen zu bewahren. Milch zum First-Flush-Darjeeling wuerde den ganzen Punkt verdecken."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "Schwarztee ist der meistkonsumierte Tee der Welt, doch die Qualitaetskluft zwischen Supermarkt-Teebaeuteln und gutem losen Tee ist enorm. Wir haben fuenf weit verbreitete Optionen aufgebruehst und bewertet, die von kraeftigen Alltagstees bis hin zu raffinierten Single-Origin-Auswahlen reichen, und Geschmack, Koerper und Preis-Leistungs-Verhaeltnis verglichen.",
+  "sections": [
     {
-      "question": "Was ist der Unterschied zwischen losem Schwarztee und Teebeuteln?",
-      "answer": "Teebeutel enthalten typischerweise minderwertigen CTC oder Staub fuer schnelle Extraktion. Losblatt verwendet ganze oder gebrochene Blaetter, die langsamer bruehen aber mit groesserer Komplexitaet, weniger Bitterkeit und nuancierterem Geschmack. Runde Butel (wie Republic of Tea) bruecken die Luecke. Fuer den taeglichen Bedarf ist ein guter Teebeutel in Ordnung; fuer eine echte Tasse Single-Origin-Tee macht Losblatt einen wirklichen Unterschied."
+      "heading": "Wie man Schwarztee auswaehlt",
+      "paragraphs": [
+        "Herkunft, Guete und Form (Teebeutel vs. Losblatt) bestimmen den groessten Teil der Qualitaetskluft. Worauf man achten sollte:"
+      ],
+      "subsections": [
+        {
+          "heading": "Herkunft und Stil",
+          "paragraphs": [
+            "Assam (Indien) erzeugt kraeftige, malzige Tees, ideal fuer Milch — die Basis der meisten English-Breakfast-Mischungen. Darjeeling (Indien) ist leichter, blumig, Muscatel-aromatisch — am besten ohne Milch, wie Wein. Ceylon (Sri Lanka) hat mittleren Koerper, leicht zitrusfruechtig. Keemun (China) ist komplex, leicht rauchig, traditionell fuer English Breakfast in Grossbritannien. Jeder Stil eignet sich fuer verschiedene Verwendungszwecke."
+          ]
+        },
+        {
+          "heading": "Guete: Ganzblaetter vs. CTC vs. Staub",
+          "paragraphs": [
+            "Ganzblaetter (FTGFOP, OP-Gueten) bruehen langsamer, aber mit mehr Komplexitaet und weniger Tanninen. CTC (crush-tear-curl) wird maschinell zu kleinen Pellets verarbeitet fuer schnelle Extraktion und starken Aufguss — die Basis der meisten Teebeutel. Staub ist die niedrigste Guete in billigen Teebeuteln, brueht schnell und herb. Lose Ganzblaetter geben im Allgemeinen besseren Geschmack; runde Butel mit losen Stuecken sind ein Mittelweg."
+          ]
+        },
+        {
+          "heading": "Frische",
+          "paragraphs": [
+            "Schwarztee oxidiert langsamer als Gruentee, verliert aber trotzdem mit der Zeit Aroma. First-Flush-Tees (Fruejahrsernte) haben ein Frischefenster. Bei Premium-Tees Erntejahre pruefen. Generische Supermarkt-Teebeutel zeigen diese Information selten, was ein Qualitaetssignal ist. In luftdichten Dosen, lichtgeschuetzt und von starken Geruechen fernhalten."
+          ]
+        },
+        {
+          "heading": "Mit oder ohne Milch",
+          "paragraphs": [
+            "Tannin- und malzreiche Tees (Assam, kraeftige Fruehstuecksmischungen) sind fuer Milch und Zucker ausgelegt — Milch mildert Tannine und macht sie bei staerkeren Aufguessen trinkbar. Delikate Tees (Darjeeling, Keemun, Weissspitzen-Sorten) werden am besten ohne Milch genossen, um ihre natuerlichen Aromen zu bewahren. Milch zum First-Flush-Darjeeling wuerde den ganzen Punkt verdecken."
+          ]
+        }
+      ]
     },
     {
-      "question": "Wie viel Koffein hat Schwarztee im Vergleich zu Kaffee?",
-      "answer": "Eine Standardtasse (240 ml) Schwarztee enthaelt 40-70 mg Koffein, verglichen mit 80-100 mg in einem typischen Filterkaffee. Die Ziehzeit wirkt sich erheblich auf den Koffeingehalt aus — ein 5-minuetiger Aufguss hat 40% mehr Koffein als ein 1-minuetiger. Kraeftigere Mischungen wie Assam und Fruehstueckstees enthalten mehr Koffein als leichtere Sorten wie Darjeeling."
-    },
-    {
-      "question": "Wie bruehe ich Schwarztee richtig?",
-      "answer": "Frisch gekochtes Wasser (95-100 Grad) fuer die meisten Schwarztees verwenden — anders als Gruentee braucht Schwarztee volle Wassertemperatur zur richtigen Extraktion. Je nach gewuenschter Staerke 3-5 Minuten ziehen lassen. Teebeutel oder Blaetter sofort entfernen, um Bitterkeit zu vermeiden. Fuer Ganzblaetter-Darjeeling geben 90 Grad und 3 Minuten die besten Ergebnisse. Fuer Assam oder Fruehstuecksmischungen fuer Milch sorgen 4-5 Minuten fuer den gewuenschten Koerper."
-    },
-    {
-      "question": "Was ist ein Darjeeling First Flush?",
-      "answer": "First Flush bezeichnet die erste Fruejahrsernte des Darjeeling-Tees, meist Maerz bis April nach der Winterruhe. Diese Tees sind leichter, aromatischer und haben den charakteristischen Muscatel-Charakter (weintraubig, blumig), der Darjeeling einzigartig macht. Sie gelten als Premium-Ernte. Der Second Flush (Mai-Juni) ist voller und kraeftiger. First-Flush-Tees sind am besten frisch und ohne Milch zu trinken."
+      "heading": "Fazit",
+      "paragraphs": [
+        "Fuer eine Morgentasse mit Milch sind Twinings English Breakfast oder Ahmad Tea No. 1 zuverlaessig und ehrlich. Fuer einen aromatisierten Tee, der das Trinken wirklich lohnt, sticht Harney & Sons Hot Cinnamon Spice heraus. Wer verstehen moechte, wie echter Darjeeling schmeckt, beginnt am besten mit Vahdams First Flush. Die groesste Aufwertung, die die meisten taeglichen Teetrinker vornehmen koennen, ist der Wechsel von generischen Supermarkt-Teebeuteln zu fast allem auf dieser Liste."
+      ]
     }
   ],
-  "conclusion": "Fuer eine Morgentasse mit Milch sind Twinings English Breakfast oder Ahmad Tea No. 1 zuverlaessig und ehrlich. Fuer einen aromatisierten Tee, der das Trinken wirklich lohnt, sticht Harney & Sons Hot Cinnamon Spice heraus. Wer verstehen moechte, wie echter Darjeeling schmeckt, beginnt am besten mit Vahdams First Flush. Die groesste Aufwertung, die die meisten taeglichen Teetrinker vornehmen koennen, ist der Wechsel von generischen Supermarkt-Teebeuteln zu fast allem auf dieser Liste."
+  "faqs": [
+    {
+      "q": "Was ist der Unterschied zwischen losem Schwarztee und Teebeuteln?",
+      "a": "Teebeutel enthalten typischerweise minderwertigen CTC oder Staub fuer schnelle Extraktion. Losblatt verwendet ganze oder gebrochene Blaetter, die langsamer bruehen aber mit groesserer Komplexitaet, weniger Bitterkeit und nuancierterem Geschmack. Runde Butel (wie Republic of Tea) bruecken die Luecke. Fuer den taeglichen Bedarf ist ein guter Teebeutel in Ordnung; fuer eine echte Tasse Single-Origin-Tee macht Losblatt einen wirklichen Unterschied."
+    },
+    {
+      "q": "Wie viel Koffein hat Schwarztee im Vergleich zu Kaffee?",
+      "a": "Eine Standardtasse (240 ml) Schwarztee enthaelt 40-70 mg Koffein, verglichen mit 80-100 mg in einem typischen Filterkaffee. Die Ziehzeit wirkt sich erheblich auf den Koffeingehalt aus — ein 5-minuetiger Aufguss hat 40% mehr Koffein als ein 1-minuetiger. Kraeftigere Mischungen wie Assam und Fruehstueckstees enthalten mehr Koffein als leichtere Sorten wie Darjeeling."
+    },
+    {
+      "q": "Wie bruehe ich Schwarztee richtig?",
+      "a": "Frisch gekochtes Wasser (95-100 Grad) fuer die meisten Schwarztees verwenden — anders als Gruentee braucht Schwarztee volle Wassertemperatur zur richtigen Extraktion. Je nach gewuenschter Staerke 3-5 Minuten ziehen lassen. Teebeutel oder Blaetter sofort entfernen, um Bitterkeit zu vermeiden. Fuer Ganzblaetter-Darjeeling geben 90 Grad und 3 Minuten die besten Ergebnisse. Fuer Assam oder Fruehstuecksmischungen fuer Milch sorgen 4-5 Minuten fuer den gewuenschten Koerper."
+    },
+    {
+      "q": "Was ist ein Darjeeling First Flush?",
+      "a": "First Flush bezeichnet die erste Fruejahrsernte des Darjeeling-Tees, meist Maerz bis April nach der Winterruhe. Diese Tees sind leichter, aromatischer und haben den charakteristischen Muscatel-Charakter (weintraubig, blumig), der Darjeeling einzigartig macht. Sie gelten als Premium-Ernte. Der Second Flush (Mai-Juni) ist voller und kraeftiger. First-Flush-Tees sind am besten frisch und ohne Milch zu trinken."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "badge": "Bester aromatisierter Schwarztee",
+      "review": "Harney & Sons Hot Cinnamon Spice hat aus gutem Grund eine treue Anhaengerschaft — drei Zimtsorten plus Orangenschale und suesse Gewuerznelken auf einer kraeftigen Schwarztee-Basis. Er ist intensiv aromatisch und ueberraschend ausgewogen: das Gewuerz steht vorne, aber der Tee dahinter ist echt. Brueht zu tiefem Bernstein, funktioniert mit und ohne Milch und harmoniert gut mit Honig. Wer einen aromatisierten Schwarztee moechte, der nicht kuenstlich schmeckt, findet hier den Massstab. Die Dose ist ein schoenes Plus zum Verschenken.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "twinings-english-breakfast",
+      "badge": "Bester klassischer Fruehstueckstee",
+      "review": "Twinings mischt English Breakfast seit 1837 und die Formel funktioniert noch immer. Eine Assam-betonte Mischung mit genueg Malz und Staerke, um durch Milch zu kommen — das ist der Sinn eines Fruehstueckstees. Die Teebeutelversion ist zugaenglicher als aufregend, aber konstant gut — dieselbe Tasse jedes Mal, bei jeder Wasserhaerte. Die Losblattversion bietet mehr Geschmackskomplexitaet. Fuer eine zuverlaessige Alltagsoption, die nicht enttaeuscht, ist Twinings die sichere Wahl.",
+      "grade": "A"
+    },
+    {
+      "offerId": "vahdam-darjeeling-first-flush",
+      "badge": "Bester Single-Origin",
+      "review": "Vahdam bezieht direkt von Gueten in Darjeeling und ihr First Flush (Fruehjahrs-Ernte) ist echter Muscatel — der charakteristische moschusartige, blumige, leicht adstringierende Charakter, der echten Darjeeling auszeichnet. Helleres Bernstein als Assam-Mischungen, weniger Koffein, am besten ohne Milch. Das ist eine voellig andere Erfahrung als Fruehstueckstee: langsam nippen, Wasser bei ca. 90 Grad, nicht ueberziehem. Die direkte Gueten-Beschaffung bedeutet bessere Rueckverfolgbarkeit und Frische als traditionelle Supermarktmarken. Fuer Teeliebhaber ein Geheimtipp.",
+      "grade": "A"
+    },
+    {
+      "offerId": "republic-of-tea-black-tea",
+      "badge": "Bester Alltagswert",
+      "review": "Republic of Teas Daily Black verwendet runde Ganzblaetter-Teebutel, die bessere Extraktion als flache Standardbutel bieten. Mittlerer Koerper, sauberer Abgang, leichte Malzigkeit. Nicht so komplex wie Losblatt, aber deutlich besser als die meisten Supermarkt-Teebeutel. Die recycelbare Dose haelt den Tee frisch. Zum Preis, den er besetzt, ist das der ehrlichste Wert in der Kategorie — bessere Qualitaet als erwartet, keine Aromatrickereien, kein Staubboden im Butel. Gute Wahl fuer Buerokuechen oder jeden, der taeglich 2-3 Tassen trinkt.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "ahmad-tea-english-no-1",
+      "badge": "Bester guenstiger Schwarztee",
+      "review": "Ahmad Tea ist ein verstecktes Juwel — ein echter Londoner Teehersteller, der zu Supermarktpreisen verkauft. English No. 1 ist eine flotte, malzige Mischung, die gut zu Milch und Zucker passt, schnell dunkel brueht und nicht bitter wird, wenn der Butel zu lange drin bleibt. Der Geschmack ist klar und echt, nicht parfuemiert. Zum Preis schlaegt er fast alles im Supermarktregal. Weit verbreitet in asiatischen Lebensmittelgeschaeften und einigen grossen Haendlern. Wer taeglich Tee trinkt und nicht fuer Premium ausgeben moechte, liegt hier richtig.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Bester aromatisierter Schwarztee",
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "reason": "Harney & Sons Hot Cinnamon Spice hat aus gutem Grund eine treue Anhaengerschaft — drei Zimtsorten plus Orangenschale und suesse..."
+    },
+    {
+      "label": "Bester klassischer Fruehstueckstee",
+      "offerId": "twinings-english-breakfast",
+      "reason": "Twinings mischt English Breakfast seit 1837 und die Formel funktioniert noch immer."
+    },
+    {
+      "label": "Bester Single-Origin",
+      "offerId": "vahdam-darjeeling-first-flush",
+      "reason": "Vahdam bezieht direkt von Gueten in Darjeeling und ihr First Flush (Fruehjahrs-Ernte) ist echter Muscatel — der charakteristisc..."
+    },
+    {
+      "label": "Bester Alltagswert",
+      "offerId": "republic-of-tea-black-tea",
+      "reason": "Republic of Teas Daily Black verwendet runde Ganzblaetter-Teebutel, die bessere Extraktion als flache Standardbutel bieten."
+    },
+    {
+      "label": "Bester guenstiger Schwarztee",
+      "offerId": "ahmad-tea-english-no-1",
+      "reason": "Ahmad Tea ist ein verstecktes Juwel — ein echter Londoner Teehersteller, der zu Supermarktpreisen verkauft."
+    }
+  ]
 }

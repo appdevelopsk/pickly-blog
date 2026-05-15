@@ -1,73 +1,123 @@
 {
   "title": "Mejor Té Negro 2026: De English Breakfast a Darjeeling Single-Origin Probados",
   "description": "Probamos 5 tés negros en orígenes, grados y estilos. Desde mezclas de desayuno robustas hasta delicado Darjeeling de primera cosecha — esto es lo que realmente vale la pena comprar.",
-  "intro": "El té negro es el té más consumido en el mundo, pero la brecha de calidad entre las bolsitas del supermercado y el té suelto de calidad es enorme. Preparamos y evaluamos cinco opciones ampliamente disponibles que abarcan desde tés cotidianos robustos hasta selecciones single-origin refinadas, comparando sabor, cuerpo y valor.",
-  "products": {
-    "harney-sons-hot-cinnamon-spice": {
-      "name": "Harney & Sons Hot Cinnamon Spice",
-      "badge": "Mejor Té Negro con Sabor",
-      "review": "Harney & Sons Hot Cinnamon Spice tiene un seguimiento de culto por una razón — tres tipos de canela más piel de naranja y clavo dulce sobre una base de té negro robusto. Es intensamente aromático y sorprendentemente equilibrado: la especia está al frente pero el té debajo es auténtico. Infunde un ámbar profundo, funciona con o sin leche y aguanta bien con miel. Si quieres un té negro con sabor que no sepa artificial, este es el referente. La lata es un plus agradable para regalar."
-    },
-    "twinings-english-breakfast": {
-      "name": "Twinings English Breakfast",
-      "badge": "Mejor Té de Desayuno Clásico",
-      "review": "Twinings lleva mezclando English Breakfast desde 1837 y la fórmula sigue funcionando. Mezcla con predominio de Assam con suficiente malta y fuerza para cortar con la leche, que es el objetivo de un té de desayuno. La versión en bolsita es más accesible que emocionante, pero es consistentemente buena — la misma taza cada vez, con cualquier dureza de agua. La versión de hoja suelta da un paso adelante en complejidad de sabor. Para una opción diaria confiable que no decepciona, Twinings es la elección segura."
-    },
-    "vahdam-darjeeling-first-flush": {
-      "name": "Vahdam Darjeeling First Flush",
-      "badge": "Mejor Single-Origin",
-      "review": "Vahdam abastece directamente de haciendas en Darjeeling y su primera cosecha (cosecha de primavera) es muscatel genuino — el carácter floral, ligeramente astringente y característicamente almizclado que define el verdadero Darjeeling. Ámbar más claro que las mezclas de Assam, menos cafeína, mejor sin leche. Esta es una experiencia completamente diferente al té de desayuno: bebe despacio, usa agua a unos 90°C, no lo dejes infusionar demasiado. El abastecimiento directo de la hacienda significa mejor trazabilidad y frescura que las marcas de supermercado tradicionales. Para los entusiastas del té, vale la pena conocer este producto."
-    },
-    "republic-of-tea-black-tea": {
-      "name": "Republic of Tea Daily Black Tea",
-      "badge": "Mejor Valor Cotidiano",
-      "review": "El Daily Black de Republic of Tea usa bolsitas redondas de hoja entera que dan una mejor extracción que las bolsitas planas estándar. Cuerpo medio, final limpio, maltosidad suave. No es tan complejo como la hoja suelta pero significativamente mejor que la mayoría de las bolsitas de supermercado. La lata reciclable mantiene el té fresco entre usos. Al precio que ocupa, es el mejor valor honesto en la categoría — mejor calidad de la esperada, sin trucos de saborizantes, sin restos de piso en la bolsita. Buena opción para cocinas de oficina o cualquiera que tome 2-3 tazas al día."
-    },
-    "ahmad-tea-english-no-1": {
-      "name": "Ahmad Tea English No. 1",
-      "badge": "Mejor Té Negro Económico",
-      "review": "Ahmad Tea es una joya oculta — una empresa londinense de té genuina que vende a precios de supermercado. El English No. 1 es una mezcla vivaz y maltosa que aguanta bien con leche y azúcar, infunde oscuro rápidamente y no se amarga si dejas la bolsita demasiado tiempo. El sabor es limpio y genuino, no perfumado. Por el precio, supera a casi todo lo que hay en las estanterías de los supermercados. Ampliamente disponible en tiendas de comestibles asiáticas y algunos minoristas importantes. Si bebes té a diario y no quieres gastar en premium, esta es la elección inteligente."
-    }
-  },
-  "buyingGuide": {
-    "title": "Cómo Elegir Té Negro",
-    "intro": "El origen, el grado y la forma (bolsita vs hoja suelta) determinan la mayor parte de la brecha de calidad. Esto es lo que hay que buscar.",
-    "factors": [
-      {
-        "name": "Origen y Estilo",
-        "detail": "Assam (India) produce tés robustos y maltosos ideales con leche — la base de la mayoría de las mezclas English Breakfast. Darjeeling (India) es más ligero, floral, con sabor muscatel — mejor sin leche, como el vino. Ceilán (Sri Lanka) es de cuerpo medio, ligeramente cítrico. Keemun (China) es complejo, ligeramente ahumado, tradicional para el English Breakfast en el Reino Unido. Cada estilo se adapta a diferentes usos."
-      },
-      {
-        "name": "Grado: Hoja Entera vs CTC vs Polvo",
-        "detail": "La hoja entera (grados FTGFOP, OP) infunde más lentamente pero con más complejidad y menos taninos. CTC (crush-tear-curl) se procesa mecánicamente en pequeños gránulos para extracción rápida e infusión fuerte — la base de la mayoría de las bolsitas. El polvo es el grado más bajo, en bolsitas baratas, infunde rápido y de forma agresiva. Los grados de hoja suelta entera generalmente dan mejor sabor; las bolsitas redondas con piezas sueltas son un término medio."
-      },
-      {
-        "name": "Frescura",
-        "detail": "El té negro se oxida más lentamente que el té verde pero igualmente pierde aroma con el tiempo. Los tés de primera cosecha (cosecha de primavera) tienen una ventana de frescura. Verifica los años de cosecha en los tés premium. Las bolsitas de supermercado genéricas rara vez muestran esta información, lo que es una señal de calidad. Guarda en latas herméticas lejos de la luz y los olores fuertes."
-      },
-      {
-        "name": "Con Leche o Sin Leche",
-        "detail": "Los tés con alto contenido de taninos y maltosos (Assam, mezclas de desayuno robustas) están diseñados para leche y azúcar — la leche suaviza los taninos y los hace bebibles en infusiones más fuertes. Los tés delicados (Darjeeling, Keemun, variedades con punta blanca) se aprecian mejor sin leche para preservar sus aromáticos naturales. Usar leche con el Darjeeling de primera cosecha ocultaría toda la gracia."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "El té negro es el té más consumido en el mundo, pero la brecha de calidad entre las bolsitas del supermercado y el té suelto de calidad es enorme. Preparamos y evaluamos cinco opciones ampliamente disponibles que abarcan desde tés cotidianos robustos hasta selecciones single-origin refinadas, comparando sabor, cuerpo y valor.",
+  "sections": [
     {
-      "question": "¿Cuál es la diferencia entre el té negro de hoja suelta y en bolsita?",
-      "answer": "Las bolsitas típicamente contienen CTC o polvo de grado inferior para extracción rápida. La hoja suelta usa hojas enteras o rotas que infunden más lentamente pero con mayor complejidad, menos amargor y un sabor más matizado. Las bolsitas redondas (como Republic of Tea) cubren el espacio intermedio. Para la conveniencia diaria, una buena bolsita está bien; para una taza adecuada de té single-origin, la hoja suelta marca una diferencia real."
+      "heading": "Cómo Elegir Té Negro",
+      "paragraphs": [
+        "El origen, el grado y la forma (bolsita vs hoja suelta) determinan la mayor parte de la brecha de calidad. Esto es lo que hay que buscar."
+      ],
+      "subsections": [
+        {
+          "heading": "Origen y Estilo",
+          "paragraphs": [
+            "Assam (India) produce tés robustos y maltosos ideales con leche — la base de la mayoría de las mezclas English Breakfast. Darjeeling (India) es más ligero, floral, con sabor muscatel — mejor sin leche, como el vino. Ceilán (Sri Lanka) es de cuerpo medio, ligeramente cítrico. Keemun (China) es complejo, ligeramente ahumado, tradicional para el English Breakfast en el Reino Unido. Cada estilo se adapta a diferentes usos."
+          ]
+        },
+        {
+          "heading": "Grado: Hoja Entera vs CTC vs Polvo",
+          "paragraphs": [
+            "La hoja entera (grados FTGFOP, OP) infunde más lentamente pero con más complejidad y menos taninos. CTC (crush-tear-curl) se procesa mecánicamente en pequeños gránulos para extracción rápida e infusión fuerte — la base de la mayoría de las bolsitas. El polvo es el grado más bajo, en bolsitas baratas, infunde rápido y de forma agresiva. Los grados de hoja suelta entera generalmente dan mejor sabor; las bolsitas redondas con piezas sueltas son un término medio."
+          ]
+        },
+        {
+          "heading": "Frescura",
+          "paragraphs": [
+            "El té negro se oxida más lentamente que el té verde pero igualmente pierde aroma con el tiempo. Los tés de primera cosecha (cosecha de primavera) tienen una ventana de frescura. Verifica los años de cosecha en los tés premium. Las bolsitas de supermercado genéricas rara vez muestran esta información, lo que es una señal de calidad. Guarda en latas herméticas lejos de la luz y los olores fuertes."
+          ]
+        },
+        {
+          "heading": "Con Leche o Sin Leche",
+          "paragraphs": [
+            "Los tés con alto contenido de taninos y maltosos (Assam, mezclas de desayuno robustas) están diseñados para leche y azúcar — la leche suaviza los taninos y los hace bebibles en infusiones más fuertes. Los tés delicados (Darjeeling, Keemun, variedades con punta blanca) se aprecian mejor sin leche para preservar sus aromáticos naturales. Usar leche con el Darjeeling de primera cosecha ocultaría toda la gracia."
+          ]
+        }
+      ]
     },
     {
-      "question": "¿Cuánta cafeína tiene el té negro en comparación con el café?",
-      "answer": "Una taza estándar de 8 oz de té negro contiene 40-70 mg de cafeína, en comparación con los 80-100 mg de un café de goteo típico. El tiempo de infusión afecta significativamente el contenido de cafeína — una infusión de 5 minutos tiene un 40% más de cafeína que una de 1 minuto. Las mezclas más fuertes como Assam y los tés de desayuno son más altos en cafeína que las variedades más ligeras como el Darjeeling."
-    },
-    {
-      "question": "¿Cómo debo preparar el té negro?",
-      "answer": "Usa agua recién hervida (95-100°C) para la mayoría de los tés negros — a diferencia del té verde, el té negro necesita agua a temperatura completa para extraerse correctamente. Infunde 3-5 minutos según la intensidad deseada. Retira la bolsita o cuela las hojas de inmediato para evitar el amargor. Para el Darjeeling de hoja entera, 90°C y 3 minutos dan los mejores resultados. Para el Assam o las mezclas de desayuno destinadas a la leche, 4-5 minutos dan el cuerpo que deseas."
-    },
-    {
-      "question": "¿Qué es un Darjeeling de primera cosecha (first flush)?",
-      "answer": "La primera cosecha (first flush) se refiere a la primera cosecha de primavera del té Darjeeling, generalmente entre marzo y abril, después del período de dormancia invernal. Estos tés son más ligeros, más aromáticos y tienen el carácter muscatel característico (afrutado, floral) que hace único al Darjeeling. Se consideran la cosecha premium. La segunda cosecha (second flush, mayo-junio) es más plena y robusta. Los tés de primera cosecha se beben mejor frescos y sin leche."
+      "heading": "Conclusión",
+      "paragraphs": [
+        "Para una taza matutina con leche, Twinings English Breakfast o Ahmad Tea No. 1 son confiables y honestos. Para un té con sabor que realmente vale la pena beber, Harney & Sons Hot Cinnamon Spice destaca. Si quieres entender cómo sabe el verdadero Darjeeling, la primera cosecha de Vahdam es el punto de partida. La mayor mejora que pueden hacer la mayoría de los bebedores diarios de té es cambiar de las bolsitas genéricas del supermercado a casi cualquier cosa de esta lista."
+      ]
     }
   ],
-  "conclusion": "Para una taza matutina con leche, Twinings English Breakfast o Ahmad Tea No. 1 son confiables y honestos. Para un té con sabor que realmente vale la pena beber, Harney & Sons Hot Cinnamon Spice destaca. Si quieres entender cómo sabe el verdadero Darjeeling, la primera cosecha de Vahdam es el punto de partida. La mayor mejora que pueden hacer la mayoría de los bebedores diarios de té es cambiar de las bolsitas genéricas del supermercado a casi cualquier cosa de esta lista."
+  "faqs": [
+    {
+      "q": "¿Cuál es la diferencia entre el té negro de hoja suelta y en bolsita?",
+      "a": "Las bolsitas típicamente contienen CTC o polvo de grado inferior para extracción rápida. La hoja suelta usa hojas enteras o rotas que infunden más lentamente pero con mayor complejidad, menos amargor y un sabor más matizado. Las bolsitas redondas (como Republic of Tea) cubren el espacio intermedio. Para la conveniencia diaria, una buena bolsita está bien; para una taza adecuada de té single-origin, la hoja suelta marca una diferencia real."
+    },
+    {
+      "q": "¿Cuánta cafeína tiene el té negro en comparación con el café?",
+      "a": "Una taza estándar de 8 oz de té negro contiene 40-70 mg de cafeína, en comparación con los 80-100 mg de un café de goteo típico. El tiempo de infusión afecta significativamente el contenido de cafeína — una infusión de 5 minutos tiene un 40% más de cafeína que una de 1 minuto. Las mezclas más fuertes como Assam y los tés de desayuno son más altos en cafeína que las variedades más ligeras como el Darjeeling."
+    },
+    {
+      "q": "¿Cómo debo preparar el té negro?",
+      "a": "Usa agua recién hervida (95-100°C) para la mayoría de los tés negros — a diferencia del té verde, el té negro necesita agua a temperatura completa para extraerse correctamente. Infunde 3-5 minutos según la intensidad deseada. Retira la bolsita o cuela las hojas de inmediato para evitar el amargor. Para el Darjeeling de hoja entera, 90°C y 3 minutos dan los mejores resultados. Para el Assam o las mezclas de desayuno destinadas a la leche, 4-5 minutos dan el cuerpo que deseas."
+    },
+    {
+      "q": "¿Qué es un Darjeeling de primera cosecha (first flush)?",
+      "a": "La primera cosecha (first flush) se refiere a la primera cosecha de primavera del té Darjeeling, generalmente entre marzo y abril, después del período de dormancia invernal. Estos tés son más ligeros, más aromáticos y tienen el carácter muscatel característico (afrutado, floral) que hace único al Darjeeling. Se consideran la cosecha premium. La segunda cosecha (second flush, mayo-junio) es más plena y robusta. Los tés de primera cosecha se beben mejor frescos y sin leche."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "badge": "Mejor Té Negro con Sabor",
+      "review": "Harney & Sons Hot Cinnamon Spice tiene un seguimiento de culto por una razón — tres tipos de canela más piel de naranja y clavo dulce sobre una base de té negro robusto. Es intensamente aromático y sorprendentemente equilibrado: la especia está al frente pero el té debajo es auténtico. Infunde un ámbar profundo, funciona con o sin leche y aguanta bien con miel. Si quieres un té negro con sabor que no sepa artificial, este es el referente. La lata es un plus agradable para regalar.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "twinings-english-breakfast",
+      "badge": "Mejor Té de Desayuno Clásico",
+      "review": "Twinings lleva mezclando English Breakfast desde 1837 y la fórmula sigue funcionando. Mezcla con predominio de Assam con suficiente malta y fuerza para cortar con la leche, que es el objetivo de un té de desayuno. La versión en bolsita es más accesible que emocionante, pero es consistentemente buena — la misma taza cada vez, con cualquier dureza de agua. La versión de hoja suelta da un paso adelante en complejidad de sabor. Para una opción diaria confiable que no decepciona, Twinings es la elección segura.",
+      "grade": "A"
+    },
+    {
+      "offerId": "vahdam-darjeeling-first-flush",
+      "badge": "Mejor Single-Origin",
+      "review": "Vahdam abastece directamente de haciendas en Darjeeling y su primera cosecha (cosecha de primavera) es muscatel genuino — el carácter floral, ligeramente astringente y característicamente almizclado que define el verdadero Darjeeling. Ámbar más claro que las mezclas de Assam, menos cafeína, mejor sin leche. Esta es una experiencia completamente diferente al té de desayuno: bebe despacio, usa agua a unos 90°C, no lo dejes infusionar demasiado. El abastecimiento directo de la hacienda significa mejor trazabilidad y frescura que las marcas de supermercado tradicionales. Para los entusiastas del té, vale la pena conocer este producto.",
+      "grade": "A"
+    },
+    {
+      "offerId": "republic-of-tea-black-tea",
+      "badge": "Mejor Valor Cotidiano",
+      "review": "El Daily Black de Republic of Tea usa bolsitas redondas de hoja entera que dan una mejor extracción que las bolsitas planas estándar. Cuerpo medio, final limpio, maltosidad suave. No es tan complejo como la hoja suelta pero significativamente mejor que la mayoría de las bolsitas de supermercado. La lata reciclable mantiene el té fresco entre usos. Al precio que ocupa, es el mejor valor honesto en la categoría — mejor calidad de la esperada, sin trucos de saborizantes, sin restos de piso en la bolsita. Buena opción para cocinas de oficina o cualquiera que tome 2-3 tazas al día.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "ahmad-tea-english-no-1",
+      "badge": "Mejor Té Negro Económico",
+      "review": "Ahmad Tea es una joya oculta — una empresa londinense de té genuina que vende a precios de supermercado. El English No. 1 es una mezcla vivaz y maltosa que aguanta bien con leche y azúcar, infunde oscuro rápidamente y no se amarga si dejas la bolsita demasiado tiempo. El sabor es limpio y genuino, no perfumado. Por el precio, supera a casi todo lo que hay en las estanterías de los supermercados. Ampliamente disponible en tiendas de comestibles asiáticas y algunos minoristas importantes. Si bebes té a diario y no quieres gastar en premium, esta es la elección inteligente.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Mejor Té Negro con Sabor",
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "reason": "Harney & Sons Hot Cinnamon Spice tiene un seguimiento de culto por una razón — tres tipos de canela más piel de naranja y clavo..."
+    },
+    {
+      "label": "Mejor Té de Desayuno Clásico",
+      "offerId": "twinings-english-breakfast",
+      "reason": "Twinings lleva mezclando English Breakfast desde 1837 y la fórmula sigue funcionando."
+    },
+    {
+      "label": "Mejor Single-Origin",
+      "offerId": "vahdam-darjeeling-first-flush",
+      "reason": "Vahdam abastece directamente de haciendas en Darjeeling y su primera cosecha (cosecha de primavera) es muscatel genuino — el ca..."
+    },
+    {
+      "label": "Mejor Valor Cotidiano",
+      "offerId": "republic-of-tea-black-tea",
+      "reason": "El Daily Black de Republic of Tea usa bolsitas redondas de hoja entera que dan una mejor extracción que las bolsitas planas est..."
+    },
+    {
+      "label": "Mejor Té Negro Económico",
+      "offerId": "ahmad-tea-english-no-1",
+      "reason": "Ahmad Tea es una joya oculta — una empresa londinense de té genuina que vende a precios de supermercado."
+    }
+  ]
 }

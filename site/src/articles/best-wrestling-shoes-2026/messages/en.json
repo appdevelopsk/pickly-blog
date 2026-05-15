@@ -1,73 +1,123 @@
 {
   "title": "Best Wrestling Shoes 2026: Grip, Ankle Support, and Mat Feel",
   "description": "We tested 5 wrestling shoes for traction, ankle support, and mat sensitivity. From competition-grade to beginner options — here's what gives you the edge on the mat.",
-  "intro": "Wrestling shoes fail athletes in one of two ways: they provide ankle stability at the expense of the mat feel needed for quick foot transitions, or they're so minimal that ankle support disappears during scrambles and explosive movements. The best wrestling shoes depend on your level, style, and whether you're competing or drilling. We tested five options from premium competition models to practical beginner picks to find where the real value is.",
-  "products": {
-    "asics-cael-v9-wrestling": {
-      "name": "ASICS Cael V9.0",
-      "badge": "Best Competition Wrestling Shoe",
-      "review": "The Cael V9.0 is ASICS's top-tier competition wrestling shoe, built for wrestlers who compete at high school, college, or club levels where every positional advantage matters. The split outsole design reduces weight while maintaining the multi-directional grip pattern that matters during scrambles and stance transitions. The ankle stabilizing system wraps above the ankle without restricting the explosive dorsiflexion wrestlers need for shots and counters. The upper mesh is breathable and the synthetic overlays are positioned specifically for lateral reinforcement during wrestling-specific foot positions. The weight is under 6 ounces, which is competition-standard. If you're stepping onto a competition mat, the Cael V9.0 is the serious choice — it's built to the specifications that performance demands."
-    },
-    "asics-matflex-6-wrestling": {
-      "name": "ASICS Matflex 6",
-      "badge": "Best Value Wrestling Shoe",
-      "review": "The Matflex 6 is the entry point that doesn't make compromises where it matters. The rubber cupsole outsole provides solid mat grip — not the split-outsole of premium models, but genuinely effective for practice, beginner competition, and recreational wrestling. The high-cut collar provides meaningful ankle support without the price tag of the Cael or Split Second lines. The upper is single-layer synthetic — it holds up to mat friction and repeated lacing. Where the Matflex 6 yields to higher-end ASICS: it's heavier (around 8 ounces) and the mat feel is less sensitive. For wrestlers starting out, youth competitors, or serious practitioners who want a dedicated wrestling shoe without paying competition-shoe prices, the Matflex 6 is the practical choice."
-    },
-    "nike-speedsweep-vii": {
-      "name": "Nike Speedsweep VII",
-      "badge": "Best Nike Wrestling Shoe",
-      "review": "The Speedsweep VII is Nike's foundational wrestling shoe — built around lateral quickness and foot sensitivity rather than ankle stability or maximum protection. The low-profile design keeps you closer to the mat, which translates to faster foot transitions and better positional feel. The split outsole reduces weight and increases ground contact variety. Nike's fit runs narrower than ASICS, which suits wrestlers with medium or narrow feet who want a locked-down feel. The Velcro ankle strap system provides adjustable support beyond the standard lacing. Worth noting: Nike's wrestling line has narrowed over time, making specific models harder to find in all sizes. For wrestlers who prioritize speed and mat feel and run narrow, the Speedsweep VII is a strong alternative to the ASICS lineup."
-    },
-    "adidas-adizero-varner-wrestling": {
-      "name": "Adidas Adizero Varner",
-      "badge": "Best Lightweight Wrestling Shoe",
-      "review": "The Adizero Varner is Adidas's elite competition wrestling shoe, co-developed with Olympic gold medalist James Varner. At under 4 ounces per shoe, it's one of the lightest competition wrestling shoes available — a real advantage in extended matches where foot speed matters. The Sprintframe construction wraps the foot without adding material bulk. The Continental rubber outsole provides excellent traction on competition-grade mats. The trade-off for the ultralight design: less ankle padding and support than the ASICS models at similar price points. For experienced wrestlers who know their ankle needs and prioritize speed over maximum support, the Adizero Varner is the specialist choice. Not the right shoe for beginners or wrestlers with ankle history — but for elite foot-speed wrestling, it's genuinely exceptional."
-    },
-    "asics-split-second-9": {
-      "name": "ASICS Split Second 9",
-      "badge": "Best Mid-Range Wrestling Shoe",
-      "review": "The Split Second 9 sits between the Matflex 6's value positioning and the Cael V9.0's competition-tier price. The split outsole gives it better mat feel and lighter weight than the Matflex while keeping the price below the premium tier. The multi-layer upper construction provides more durability than single-layer options without the stiffness that kills mat sensitivity. The ankle collar height is mid-cut, which splits the difference between the high-ankle support wrestlers sometimes want for takedown defense and the low profiles favored for foot speed. For serious high school wrestlers, intermediate competitors, or adult recreational wrestlers who've moved past beginner footwear but aren't paying for competition-only shoes, the Split Second 9 hits the performance-value target."
-    }
-  },
-  "buyingGuide": {
-    "title": "How to Choose Wrestling Shoes",
-    "intro": "Ankle height, outsole design, and weight class are the three factors that determine whether wrestling shoes help or limit your performance on the mat.",
-    "factors": [
-      {
-        "name": "High-Top vs. Low-Top",
-        "detail": "High-top wrestling shoes provide more ankle support and are preferred by wrestlers who have had ankle injuries or who compete in weight classes where scramble defense requires stability. Low-top and mid-top designs sacrifice ankle height for foot speed and flexibility — favored by lightweight wrestlers whose style depends on quick foot transitions and explosive shots. There's no universal right answer: your ankle history and wrestling style should determine the choice. High school and beginning wrestlers often benefit from high-top support; experienced wrestlers may prefer the freedom of a lower profile."
-      },
-      {
-        "name": "Outsole Design: Split vs. Cup",
-        "detail": "Split outsoles (where the forefoot and heel sections are separate) reduce weight and increase mat sensitivity — you can feel the mat surface better, which helps with balance and foot positioning. Cup soles (solid rubber unit) are heavier but more durable and provide more uniform grip across the full foot. Premium and competition shoes use split outsoles for performance. Entry-level and practice shoes use cup soles for durability and cost. If you're drilling primarily and competing occasionally, a cup sole shoe like the Matflex 6 is practical. If you're competing regularly, the split outsole's performance advantages justify the premium."
-      },
-      {
-        "name": "Fit and Sizing",
-        "detail": "Wrestling shoes should fit snugly — closer than athletic shoes, with minimal space between the toes and the shoe end. Loose wrestling shoes cause slippage during explosive movements and reduce the tactile mat connection that wrestling technique depends on. ASICS tends to fit wider than Nike. Most wrestlers size down half a size from their running shoe size. Break-in time is minimal for mesh and synthetic uppers. Lacing should be tight through the forefoot; the ankle strap or upper laces add adjustable support without cutting off circulation."
-      },
-      {
-        "name": "Mat Care and Indoor-Only Use",
-        "detail": "Wrestling shoes are strictly indoor/mat-only footwear. Walking on outdoor surfaces destroys the outsole traction pattern and introduces debris that damages the mat and other wrestlers' skin. Bring a separate pair of slides or sandals to wear between the locker room and the mat. Wipe outsoles before stepping on the mat. The rubber compounds in wrestling shoes are formulated for mat grip specifically — they don't perform on gym floors, pavement, or other surfaces. Treating wrestling shoes as mat-only extends their life significantly and respects the shared training environment."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "Wrestling shoes fail athletes in one of two ways: they provide ankle stability at the expense of the mat feel needed for quick foot transitions, or they're so minimal that ankle support disappears during scrambles and explosive movements. The best wrestling shoes depend on your level, style, and whether you're competing or drilling. We tested five options from premium competition models to practical beginner picks to find where the real value is.",
+  "sections": [
     {
-      "question": "Do wrestling shoes help with technique?",
-      "answer": "Yes — wrestling shoes are specifically engineered for the movement patterns wrestling requires. The grip pattern, ankle support profile, and mat sensitivity of wrestling shoes directly affect takedown setups, scramble recovery, and positional balance. Wearing running shoes or cross-trainers for wrestling is a technique handicap: they don't grip wrestling mats correctly, they're too cushioned for the ground-feel needed in wrestling, and they don't support the ankle positions wrestling creates. For anyone training regularly, wrestling-specific footwear is a genuine performance factor, not just convention."
+      "heading": "How to Choose Wrestling Shoes",
+      "paragraphs": [
+        "Ankle height, outsole design, and weight class are the three factors that determine whether wrestling shoes help or limit your performance on the mat."
+      ],
+      "subsections": [
+        {
+          "heading": "High-Top vs. Low-Top",
+          "paragraphs": [
+            "High-top wrestling shoes provide more ankle support and are preferred by wrestlers who have had ankle injuries or who compete in weight classes where scramble defense requires stability. Low-top and mid-top designs sacrifice ankle height for foot speed and flexibility — favored by lightweight wrestlers whose style depends on quick foot transitions and explosive shots. There's no universal right answer: your ankle history and wrestling style should determine the choice. High school and beginning wrestlers often benefit from high-top support; experienced wrestlers may prefer the freedom of a lower profile."
+          ]
+        },
+        {
+          "heading": "Outsole Design: Split vs. Cup",
+          "paragraphs": [
+            "Split outsoles (where the forefoot and heel sections are separate) reduce weight and increase mat sensitivity — you can feel the mat surface better, which helps with balance and foot positioning. Cup soles (solid rubber unit) are heavier but more durable and provide more uniform grip across the full foot. Premium and competition shoes use split outsoles for performance. Entry-level and practice shoes use cup soles for durability and cost. If you're drilling primarily and competing occasionally, a cup sole shoe like the Matflex 6 is practical. If you're competing regularly, the split outsole's performance advantages justify the premium."
+          ]
+        },
+        {
+          "heading": "Fit and Sizing",
+          "paragraphs": [
+            "Wrestling shoes should fit snugly — closer than athletic shoes, with minimal space between the toes and the shoe end. Loose wrestling shoes cause slippage during explosive movements and reduce the tactile mat connection that wrestling technique depends on. ASICS tends to fit wider than Nike. Most wrestlers size down half a size from their running shoe size. Break-in time is minimal for mesh and synthetic uppers. Lacing should be tight through the forefoot; the ankle strap or upper laces add adjustable support without cutting off circulation."
+          ]
+        },
+        {
+          "heading": "Mat Care and Indoor-Only Use",
+          "paragraphs": [
+            "Wrestling shoes are strictly indoor/mat-only footwear. Walking on outdoor surfaces destroys the outsole traction pattern and introduces debris that damages the mat and other wrestlers' skin. Bring a separate pair of slides or sandals to wear between the locker room and the mat. Wipe outsoles before stepping on the mat. The rubber compounds in wrestling shoes are formulated for mat grip specifically — they don't perform on gym floors, pavement, or other surfaces. Treating wrestling shoes as mat-only extends their life significantly and respects the shared training environment."
+          ]
+        }
+      ]
     },
     {
-      "question": "How long do wrestling shoes last?",
-      "answer": "1-3 seasons of regular training, depending on training frequency and care. The outsole traction pattern wears first — once the rubber surface flattens, you lose mat grip in critical positions. Uppers can hold up longer than outsoles if shoes are dried properly after training (moisture degrades adhesives and materials). Competition shoes used only for matches last longer than practice shoes used daily. Keep a separate pair for competition versus daily training to extend the life of the higher-quality shoes."
-    },
-    {
-      "question": "Can I use wrestling shoes for other sports?",
-      "answer": "Not recommended for performance in other sports — wrestling shoes are specifically optimized for mat surfaces and will underperform on gym floors, courts, or outdoor surfaces. The thin outsoles provide minimal impact protection for jumping or running sports. However, wrestlers sometimes use their shoes for agility drills or light footwork training in gym settings. The mat-specific grip pattern won't damage gym floors, but the shoes won't perform at their best off a wrestling mat."
-    },
-    {
-      "question": "What's the difference between high school and college wrestling shoes?",
-      "answer": "No equipment rules prevent using the same shoes at different levels — the choice is about performance, not compliance. College and elite wrestlers often use lighter, split-outsole competition shoes because the technical demands at higher levels reward foot speed and mat sensitivity over ankle protection. High school wrestlers, especially beginners, often benefit from more supportive high-top models while developing technique. The rule of thumb: use lighter, more performance-focused shoes as technique improves and ankle strength develops through mat time."
+      "heading": "Bottom line",
+      "paragraphs": [
+        "For competition-level performance, the ASICS Cael V9.0 is the serious choice — split outsole, competition weight, and ankle support calibrated for high-level wrestling. Wrestlers prioritizing foot speed at elite levels should consider the Adidas Adizero Varner's ultralight construction. The ASICS Split Second 9 hits the mid-range performance-value target for intermediate competitors. For beginners and budget-focused wrestlers, the Matflex 6 provides genuine wrestling-specific performance without competition pricing. The non-negotiable: treat wrestling shoes as mat-only footwear — outsole preservation and mat hygiene both depend on it."
+      ]
     }
   ],
-  "conclusion": "For competition-level performance, the ASICS Cael V9.0 is the serious choice — split outsole, competition weight, and ankle support calibrated for high-level wrestling. Wrestlers prioritizing foot speed at elite levels should consider the Adidas Adizero Varner's ultralight construction. The ASICS Split Second 9 hits the mid-range performance-value target for intermediate competitors. For beginners and budget-focused wrestlers, the Matflex 6 provides genuine wrestling-specific performance without competition pricing. The non-negotiable: treat wrestling shoes as mat-only footwear — outsole preservation and mat hygiene both depend on it."
+  "faqs": [
+    {
+      "q": "Do wrestling shoes help with technique?",
+      "a": "Yes — wrestling shoes are specifically engineered for the movement patterns wrestling requires. The grip pattern, ankle support profile, and mat sensitivity of wrestling shoes directly affect takedown setups, scramble recovery, and positional balance. Wearing running shoes or cross-trainers for wrestling is a technique handicap: they don't grip wrestling mats correctly, they're too cushioned for the ground-feel needed in wrestling, and they don't support the ankle positions wrestling creates. For anyone training regularly, wrestling-specific footwear is a genuine performance factor, not just convention."
+    },
+    {
+      "q": "How long do wrestling shoes last?",
+      "a": "1-3 seasons of regular training, depending on training frequency and care. The outsole traction pattern wears first — once the rubber surface flattens, you lose mat grip in critical positions. Uppers can hold up longer than outsoles if shoes are dried properly after training (moisture degrades adhesives and materials). Competition shoes used only for matches last longer than practice shoes used daily. Keep a separate pair for competition versus daily training to extend the life of the higher-quality shoes."
+    },
+    {
+      "q": "Can I use wrestling shoes for other sports?",
+      "a": "Not recommended for performance in other sports — wrestling shoes are specifically optimized for mat surfaces and will underperform on gym floors, courts, or outdoor surfaces. The thin outsoles provide minimal impact protection for jumping or running sports. However, wrestlers sometimes use their shoes for agility drills or light footwork training in gym settings. The mat-specific grip pattern won't damage gym floors, but the shoes won't perform at their best off a wrestling mat."
+    },
+    {
+      "q": "What's the difference between high school and college wrestling shoes?",
+      "a": "No equipment rules prevent using the same shoes at different levels — the choice is about performance, not compliance. College and elite wrestlers often use lighter, split-outsole competition shoes because the technical demands at higher levels reward foot speed and mat sensitivity over ankle protection. High school wrestlers, especially beginners, often benefit from more supportive high-top models while developing technique. The rule of thumb: use lighter, more performance-focused shoes as technique improves and ankle strength develops through mat time."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "asics-cael-v9-wrestling",
+      "badge": "Best Competition Wrestling Shoe",
+      "review": "The Cael V9.0 is ASICS's top-tier competition wrestling shoe, built for wrestlers who compete at high school, college, or club levels where every positional advantage matters. The split outsole design reduces weight while maintaining the multi-directional grip pattern that matters during scrambles and stance transitions. The ankle stabilizing system wraps above the ankle without restricting the explosive dorsiflexion wrestlers need for shots and counters. The upper mesh is breathable and the synthetic overlays are positioned specifically for lateral reinforcement during wrestling-specific foot positions. The weight is under 6 ounces, which is competition-standard. If you're stepping onto a competition mat, the Cael V9.0 is the serious choice — it's built to the specifications that performance demands.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "asics-matflex-6-wrestling",
+      "badge": "Best Value Wrestling Shoe",
+      "review": "The Matflex 6 is the entry point that doesn't make compromises where it matters. The rubber cupsole outsole provides solid mat grip — not the split-outsole of premium models, but genuinely effective for practice, beginner competition, and recreational wrestling. The high-cut collar provides meaningful ankle support without the price tag of the Cael or Split Second lines. The upper is single-layer synthetic — it holds up to mat friction and repeated lacing. Where the Matflex 6 yields to higher-end ASICS: it's heavier (around 8 ounces) and the mat feel is less sensitive. For wrestlers starting out, youth competitors, or serious practitioners who want a dedicated wrestling shoe without paying competition-shoe prices, the Matflex 6 is the practical choice.",
+      "grade": "A"
+    },
+    {
+      "offerId": "nike-speedsweep-vii",
+      "badge": "Best Nike Wrestling Shoe",
+      "review": "The Speedsweep VII is Nike's foundational wrestling shoe — built around lateral quickness and foot sensitivity rather than ankle stability or maximum protection. The low-profile design keeps you closer to the mat, which translates to faster foot transitions and better positional feel. The split outsole reduces weight and increases ground contact variety. Nike's fit runs narrower than ASICS, which suits wrestlers with medium or narrow feet who want a locked-down feel. The Velcro ankle strap system provides adjustable support beyond the standard lacing. Worth noting: Nike's wrestling line has narrowed over time, making specific models harder to find in all sizes. For wrestlers who prioritize speed and mat feel and run narrow, the Speedsweep VII is a strong alternative to the ASICS lineup.",
+      "grade": "A"
+    },
+    {
+      "offerId": "adidas-adizero-varner-wrestling",
+      "badge": "Best Lightweight Wrestling Shoe",
+      "review": "The Adizero Varner is Adidas's elite competition wrestling shoe, co-developed with Olympic gold medalist James Varner. At under 4 ounces per shoe, it's one of the lightest competition wrestling shoes available — a real advantage in extended matches where foot speed matters. The Sprintframe construction wraps the foot without adding material bulk. The Continental rubber outsole provides excellent traction on competition-grade mats. The trade-off for the ultralight design: less ankle padding and support than the ASICS models at similar price points. For experienced wrestlers who know their ankle needs and prioritize speed over maximum support, the Adizero Varner is the specialist choice. Not the right shoe for beginners or wrestlers with ankle history — but for elite foot-speed wrestling, it's genuinely exceptional.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "asics-split-second-9",
+      "badge": "Best Mid-Range Wrestling Shoe",
+      "review": "The Split Second 9 sits between the Matflex 6's value positioning and the Cael V9.0's competition-tier price. The split outsole gives it better mat feel and lighter weight than the Matflex while keeping the price below the premium tier. The multi-layer upper construction provides more durability than single-layer options without the stiffness that kills mat sensitivity. The ankle collar height is mid-cut, which splits the difference between the high-ankle support wrestlers sometimes want for takedown defense and the low profiles favored for foot speed. For serious high school wrestlers, intermediate competitors, or adult recreational wrestlers who've moved past beginner footwear but aren't paying for competition-only shoes, the Split Second 9 hits the performance-value target.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "recommendedFor": [
+    {
+      "label": "Best Competition Wrestling Shoe",
+      "offerId": "asics-cael-v9-wrestling",
+      "reason": "The Cael V9.0 is ASICS's top-tier competition wrestling shoe, built for wrestlers who compete at high school, college, or club ..."
+    },
+    {
+      "label": "Best Value Wrestling Shoe",
+      "offerId": "asics-matflex-6-wrestling",
+      "reason": "The Matflex 6 is the entry point that doesn't make compromises where it matters."
+    },
+    {
+      "label": "Best Nike Wrestling Shoe",
+      "offerId": "nike-speedsweep-vii",
+      "reason": "The Speedsweep VII is Nike's foundational wrestling shoe — built around lateral quickness and foot sensitivity rather than ankl..."
+    },
+    {
+      "label": "Best Lightweight Wrestling Shoe",
+      "offerId": "adidas-adizero-varner-wrestling",
+      "reason": "The Adizero Varner is Adidas's elite competition wrestling shoe, co-developed with Olympic gold medalist James Varner."
+    },
+    {
+      "label": "Best Mid-Range Wrestling Shoe",
+      "offerId": "asics-split-second-9",
+      "reason": "The Split Second 9 sits between the Matflex 6's value positioning and the Cael V9.0's competition-tier price."
+    }
+  ]
 }

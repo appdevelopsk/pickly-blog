@@ -1,73 +1,123 @@
 {
   "title": "Best White Tea 2026: Delicate, High-Grade Options Worth the Premium",
   "description": "We tested 5 white teas for flavor complexity, freshness, and value. Silver Needle to affordable estate whites — here's what justifies the price.",
-  "intro": "White tea rewards attention — the difference between a properly processed Silver Needle and a commodity white tea blend is as significant as any tea category. We tested five options from premier Silver Needle to accessible everyday whites to find where genuine quality differences exist and where premium pricing is simply marketing.",
-  "products": {
-    "teavana-silver-needle-white-tea": {
-      "name": "Teavana Silver Needle White Tea",
-      "badge": "Best Overall Silver Needle",
-      "review": "Teavana's Silver Needle delivers what premium white tea should — each bud covered in fine white down, a delicate sweetness with no bitterness, and a lingering floral finish. The buds-only harvest means you get consistent quality without the variable tannin levels that mixed leaf and bud white teas produce. Brewed at the right temperature (75°C, not boiling), the cup is pale gold with a subtle honey-like sweetness and light hay notes. This is the correct introduction to white tea for someone who has only had white tea blends. Worth the price for occasions when you want to taste what white tea actually is."
-    },
-    "vahdam-darjeeling-white-tea": {
-      "name": "Vahdam Darjeeling White Tea",
-      "badge": "Best Estate White Tea",
-      "review": "Vahdam's Darjeeling white tea offers the muscatel-adjacent character of Darjeeling terroir applied to minimally processed white tea — lighter body than Darjeeling black, with the region's distinctive floral and slightly fruity notes. The estate sourcing means traceability and consistent harvest timing, which matters for white tea because oxidation control during processing determines quality. This is a more complex white tea than generic white peony, with character that changes slightly cup to cup depending on brewing time. For those who appreciate Darjeeling's terroir and want to explore it in a more delicate format."
-    },
-    "harney-sons-white-peony": {
-      "name": "Harney & Sons White Peony (Bai Mu Dan)",
-      "badge": "Best Everyday White Tea",
-      "review": "White Peony (Bai Mu Dan) is the practical choice for everyday white tea — it includes the young leaves alongside the buds, which makes it more forgiving than Silver Needle but more complex than commodity white tea. Harney & Sons sources reasonably and the tea brews a pale golden cup with light grassy and sweet notes. More texture than Silver Needle, less delicate. The price point makes daily drinking sustainable. For people who want white tea as a daily routine rather than an occasional luxury, White Peony from a reliable sourcer like Harney & Sons is the right choice."
-    },
-    "rishi-bai-hao-silver-needle": {
-      "name": "Rishi Tea Bai Hao Silver Needle",
-      "badge": "Best Premium Single-Origin",
-      "review": "Rishi's Bai Hao Silver Needle is sourced from Fujian province — the traditional growing region for Silver Needle — and reflects the attention to processing that makes white tea expensive when done correctly. The dry leaf is visually impressive: tight, downy buds with visible silver hair. The cup is exceptionally clean with a light sweetness that some describe as melon or honeydew with a floral top note. Rishi's sourcing documentation is transparent. This is the right choice for someone who wants to give premium white tea as a gift or compare properly processed Silver Needle against commodity options."
-    },
-    "bigelow-benefit-white-tea": {
-      "name": "Bigelow Benefits White Tea with Blueberry",
-      "badge": "Best Budget Introduction",
-      "review": "Bigelow's white tea with blueberry represents the accessible end of white tea — it's a white tea blend that adds flavor to make the experience more approachable. The white tea base is not premium Silver Needle, which means the delicate white tea character is less prominent than in single-origin options, but the blueberry note adds sweetness and accessibility that makes it a reasonable starting point. For people who find pure white tea too subtle, this provides white tea's light body and lower caffeine without the premium price. It's an honest mass-market product, and the foil wrapping maintains freshness adequately."
-    }
-  },
-  "buyingGuide": {
-    "title": "How to Choose White Tea",
-    "intro": "Grade, origin, and processing integrity determine white tea quality — and the differences are more dramatic than with most tea types.",
-    "factors": [
-      {
-        "name": "Silver Needle vs. White Peony vs. Shou Mei",
-        "detail": "Silver Needle (Bai Hao Yinzhen) is buds only — the most delicate, expensive, and prized. White Peony (Bai Mu Dan) includes young leaves with the buds, giving more body and complexity at lower cost. Shou Mei (Shoumei) is made from older leaves and is the most affordable, with a stronger flavor approaching green tea. For first-time white tea exploration, White Peony is often the best value. For the full experience, Silver Needle is worth trying once."
-      },
-      {
-        "name": "Brewing Temperature Matters More Than With Other Teas",
-        "detail": "White tea should not be brewed with boiling water. 75-80°C (167-176°F) is the correct range for Silver Needle; White Peony tolerates slightly higher temperatures. Boiling water extracts harsh tannins and destroys the delicate floral notes that make premium white tea worth its price. Use a kettle with temperature control or let boiling water cool for 3-4 minutes. Brewing time of 2-3 minutes is sufficient — white tea doesn't need long steeping."
-      },
-      {
-        "name": "Freshness and Storage",
-        "detail": "White tea is minimally processed and retains more of its fresh character than heavily oxidized teas. This also means it's more vulnerable to degradation from light, heat, and humidity. Store in an airtight, opaque container away from strong odors. White tea can actually improve slightly with aging when stored correctly (unlike most teas), but improperly stored white tea degrades quickly. Buy smaller quantities from fresh stock rather than large quantities that will sit for months."
-      },
-      {
-        "name": "Loose Leaf vs. Bags",
-        "detail": "White tea loses more quality from bagging than almost any other tea type. The buds are bulky and can't expand properly in standard flat bags, and the grinding required to fit tea into small bags destroys the delicate structure. If you're going to pay premium prices for white tea, buy loose leaf. Pyramid sachets are an acceptable middle ground if loose leaf isn't practical."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "White tea rewards attention — the difference between a properly processed Silver Needle and a commodity white tea blend is as significant as any tea category. We tested five options from premier Silver Needle to accessible everyday whites to find where genuine quality differences exist and where premium pricing is simply marketing.",
+  "sections": [
     {
-      "question": "Does white tea have less caffeine than green tea?",
-      "answer": "White tea typically has slightly less caffeine than green tea, but the difference is smaller than commonly believed. Silver Needle, made from young buds, can actually be relatively high in caffeine since buds have higher caffeine concentration than mature leaves. White Peony and Shou Mei, using more leaf, tend to have lower caffeine than Silver Needle. In practice, white tea is light-bodied and many people perceive it as low-caffeine, though individual variation in extraction matters significantly."
+      "heading": "How to Choose White Tea",
+      "paragraphs": [
+        "Grade, origin, and processing integrity determine white tea quality — and the differences are more dramatic than with most tea types."
+      ],
+      "subsections": [
+        {
+          "heading": "Silver Needle vs. White Peony vs. Shou Mei",
+          "paragraphs": [
+            "Silver Needle (Bai Hao Yinzhen) is buds only — the most delicate, expensive, and prized. White Peony (Bai Mu Dan) includes young leaves with the buds, giving more body and complexity at lower cost. Shou Mei (Shoumei) is made from older leaves and is the most affordable, with a stronger flavor approaching green tea. For first-time white tea exploration, White Peony is often the best value. For the full experience, Silver Needle is worth trying once."
+          ]
+        },
+        {
+          "heading": "Brewing Temperature Matters More Than With Other Teas",
+          "paragraphs": [
+            "White tea should not be brewed with boiling water. 75-80°C (167-176°F) is the correct range for Silver Needle; White Peony tolerates slightly higher temperatures. Boiling water extracts harsh tannins and destroys the delicate floral notes that make premium white tea worth its price. Use a kettle with temperature control or let boiling water cool for 3-4 minutes. Brewing time of 2-3 minutes is sufficient — white tea doesn't need long steeping."
+          ]
+        },
+        {
+          "heading": "Freshness and Storage",
+          "paragraphs": [
+            "White tea is minimally processed and retains more of its fresh character than heavily oxidized teas. This also means it's more vulnerable to degradation from light, heat, and humidity. Store in an airtight, opaque container away from strong odors. White tea can actually improve slightly with aging when stored correctly (unlike most teas), but improperly stored white tea degrades quickly. Buy smaller quantities from fresh stock rather than large quantities that will sit for months."
+          ]
+        },
+        {
+          "heading": "Loose Leaf vs. Bags",
+          "paragraphs": [
+            "White tea loses more quality from bagging than almost any other tea type. The buds are bulky and can't expand properly in standard flat bags, and the grinding required to fit tea into small bags destroys the delicate structure. If you're going to pay premium prices for white tea, buy loose leaf. Pyramid sachets are an acceptable middle ground if loose leaf isn't practical."
+          ]
+        }
+      ]
     },
     {
-      "question": "What does white tea taste like compared to green tea?",
-      "answer": "White tea is more delicate and sweet than most green teas, with no vegetal or grassy notes. Green tea (especially Japanese varieties) often has a pronounced umami or grass-like character from steaming or pan-firing. White tea is sun-dried or air-dried with minimal processing, giving it a lighter, more floral and honey-like character. It's the most subtle tea category — if you find green tea's flavor too assertive, white tea is worth trying."
-    },
-    {
-      "question": "Can white tea be re-steeped?",
-      "answer": "Yes — especially Silver Needle. High-quality loose-leaf white tea can typically be steeped 2-3 times, with the second and sometimes third steeping being considered the best expression of the tea's flavor. Use slightly longer steeping times for re-steeps. This multiple-steep quality is one reason premium white tea is more economical than its per-gram price suggests."
-    },
-    {
-      "question": "Is aged white tea worth trying?",
-      "answer": "Aged white tea (shoucha pai) is a niche but legitimate category. Properly aged white tea develops a darker color, earthier notes, and a different complexity than fresh white tea. Some collectors age it for 3, 5, or even 10 years. It's distinctly different from fresh white tea — more like aged pu-erh in some respects. Worth exploring if you're already interested in white tea, but not a starting point."
+      "heading": "Bottom line",
+      "paragraphs": [
+        "For a genuine Silver Needle experience, Rishi's Bai Hao or Teavana's Silver Needle are both excellent. For everyday white tea that won't break the budget, Harney & Sons White Peony delivers honest quality. The single most important variable with white tea is brewing temperature — boiling water ruins the delicate character that makes it interesting. Get a temperature-controlled kettle or use the cool-down method."
+      ]
     }
   ],
-  "conclusion": "For a genuine Silver Needle experience, Rishi's Bai Hao or Teavana's Silver Needle are both excellent. For everyday white tea that won't break the budget, Harney & Sons White Peony delivers honest quality. The single most important variable with white tea is brewing temperature — boiling water ruins the delicate character that makes it interesting. Get a temperature-controlled kettle or use the cool-down method."
+  "faqs": [
+    {
+      "q": "Does white tea have less caffeine than green tea?",
+      "a": "White tea typically has slightly less caffeine than green tea, but the difference is smaller than commonly believed. Silver Needle, made from young buds, can actually be relatively high in caffeine since buds have higher caffeine concentration than mature leaves. White Peony and Shou Mei, using more leaf, tend to have lower caffeine than Silver Needle. In practice, white tea is light-bodied and many people perceive it as low-caffeine, though individual variation in extraction matters significantly."
+    },
+    {
+      "q": "What does white tea taste like compared to green tea?",
+      "a": "White tea is more delicate and sweet than most green teas, with no vegetal or grassy notes. Green tea (especially Japanese varieties) often has a pronounced umami or grass-like character from steaming or pan-firing. White tea is sun-dried or air-dried with minimal processing, giving it a lighter, more floral and honey-like character. It's the most subtle tea category — if you find green tea's flavor too assertive, white tea is worth trying."
+    },
+    {
+      "q": "Can white tea be re-steeped?",
+      "a": "Yes — especially Silver Needle. High-quality loose-leaf white tea can typically be steeped 2-3 times, with the second and sometimes third steeping being considered the best expression of the tea's flavor. Use slightly longer steeping times for re-steeps. This multiple-steep quality is one reason premium white tea is more economical than its per-gram price suggests."
+    },
+    {
+      "q": "Is aged white tea worth trying?",
+      "a": "Aged white tea (shoucha pai) is a niche but legitimate category. Properly aged white tea develops a darker color, earthier notes, and a different complexity than fresh white tea. Some collectors age it for 3, 5, or even 10 years. It's distinctly different from fresh white tea — more like aged pu-erh in some respects. Worth exploring if you're already interested in white tea, but not a starting point."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "teavana-silver-needle-white-tea",
+      "badge": "Best Overall Silver Needle",
+      "review": "Teavana's Silver Needle delivers what premium white tea should — each bud covered in fine white down, a delicate sweetness with no bitterness, and a lingering floral finish. The buds-only harvest means you get consistent quality without the variable tannin levels that mixed leaf and bud white teas produce. Brewed at the right temperature (75°C, not boiling), the cup is pale gold with a subtle honey-like sweetness and light hay notes. This is the correct introduction to white tea for someone who has only had white tea blends. Worth the price for occasions when you want to taste what white tea actually is.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "vahdam-darjeeling-white-tea",
+      "badge": "Best Estate White Tea",
+      "review": "Vahdam's Darjeeling white tea offers the muscatel-adjacent character of Darjeeling terroir applied to minimally processed white tea — lighter body than Darjeeling black, with the region's distinctive floral and slightly fruity notes. The estate sourcing means traceability and consistent harvest timing, which matters for white tea because oxidation control during processing determines quality. This is a more complex white tea than generic white peony, with character that changes slightly cup to cup depending on brewing time. For those who appreciate Darjeeling's terroir and want to explore it in a more delicate format.",
+      "grade": "A"
+    },
+    {
+      "offerId": "harney-sons-white-peony",
+      "badge": "Best Everyday White Tea",
+      "review": "White Peony (Bai Mu Dan) is the practical choice for everyday white tea — it includes the young leaves alongside the buds, which makes it more forgiving than Silver Needle but more complex than commodity white tea. Harney & Sons sources reasonably and the tea brews a pale golden cup with light grassy and sweet notes. More texture than Silver Needle, less delicate. The price point makes daily drinking sustainable. For people who want white tea as a daily routine rather than an occasional luxury, White Peony from a reliable sourcer like Harney & Sons is the right choice.",
+      "grade": "A"
+    },
+    {
+      "offerId": "rishi-bai-hao-silver-needle",
+      "badge": "Best Premium Single-Origin",
+      "review": "Rishi's Bai Hao Silver Needle is sourced from Fujian province — the traditional growing region for Silver Needle — and reflects the attention to processing that makes white tea expensive when done correctly. The dry leaf is visually impressive: tight, downy buds with visible silver hair. The cup is exceptionally clean with a light sweetness that some describe as melon or honeydew with a floral top note. Rishi's sourcing documentation is transparent. This is the right choice for someone who wants to give premium white tea as a gift or compare properly processed Silver Needle against commodity options.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "bigelow-benefit-white-tea",
+      "badge": "Best Budget Introduction",
+      "review": "Bigelow's white tea with blueberry represents the accessible end of white tea — it's a white tea blend that adds flavor to make the experience more approachable. The white tea base is not premium Silver Needle, which means the delicate white tea character is less prominent than in single-origin options, but the blueberry note adds sweetness and accessibility that makes it a reasonable starting point. For people who find pure white tea too subtle, this provides white tea's light body and lower caffeine without the premium price. It's an honest mass-market product, and the foil wrapping maintains freshness adequately.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Best Overall Silver Needle",
+      "offerId": "teavana-silver-needle-white-tea",
+      "reason": "Teavana's Silver Needle delivers what premium white tea should — each bud covered in fine white down, a delicate sweetness with..."
+    },
+    {
+      "label": "Best Estate White Tea",
+      "offerId": "vahdam-darjeeling-white-tea",
+      "reason": "Vahdam's Darjeeling white tea offers the muscatel-adjacent character of Darjeeling terroir applied to minimally processed white..."
+    },
+    {
+      "label": "Best Everyday White Tea",
+      "offerId": "harney-sons-white-peony",
+      "reason": "White Peony (Bai Mu Dan) is the practical choice for everyday white tea — it includes the young leaves alongside the buds, whic..."
+    },
+    {
+      "label": "Best Premium Single-Origin",
+      "offerId": "rishi-bai-hao-silver-needle",
+      "reason": "Rishi's Bai Hao Silver Needle is sourced from Fujian province — the traditional growing region for Silver Needle — and reflects..."
+    },
+    {
+      "label": "Best Budget Introduction",
+      "offerId": "bigelow-benefit-white-tea",
+      "reason": "Bigelow's white tea with blueberry represents the accessible end of white tea — it's a white tea blend that adds flavor to make..."
+    }
+  ]
 }

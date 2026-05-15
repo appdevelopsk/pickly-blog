@@ -1,73 +1,123 @@
 {
   "title": "Melhor Chá Oolong 2026: Alta Montanha de Taiwan vs Oolong de Pedra Wuyi Comparados",
   "description": "Testamos 5 chás oolong de Taiwan e da China em diferentes níveis de torra e graus de oxidação. Oolong floral leve, médio tostado e torra intensa — o melhor oolong para cada apreciador.",
-  "intro": "O oolong abrange uma gama de sabores mais ampla do que qualquer outra categoria de chá — de oolongs verdes, florais e levemente oxidados (15% de oxidação) a oolongs escuros de torra intensa (80% de oxidação) que se aproximam do chá preto em caráter. A diferença entre um oolong jade leve de Taiwan e um oolong de pedra mineral de Wuyi é tão dramática quanto comparar um Sancerre com um Bordeaux defumado. Testamos cinco ao longo do espectro.",
-  "products": {
-    "alishan-high-mountain-oolong": {
-      "name": "Ali Shan High Mountain Oolong",
-      "badge": "Melhor Oolong Leve",
-      "review": "O Ali Shan é cultivado a 1.200-1.600 metros nas montanhas Chiayi de Taiwan — a altitude desacelera o crescimento das folhas e concentra os sabores. O resultado é um oolong levemente oxidado e levemente tostado com aroma floral distinto (semelhante à orquídea), textura cremosa e uma doçura natural que persiste. Múltiplas infusões: a terceira e a quarta geralmente produzem a melhor xícara. Se você já bebe chá verde e quer experimentar o oolong, o Ali Shan é a entrada acessível — floral e acessível sem a complexidade dos estilos mais torrados."
-    },
-    "da-hong-pao-wuyi-rock": {
-      "name": "Da Hong Pao Wuyi Rock Oolong",
-      "badge": "Melhor Oolong de Pedra",
-      "review": "Da Hong Pao é um dos chás chineses mais famosos — originalmente de alguns arbustos antigos nas montanhas Wuyi de Fujian. O Da Hong Pao comercial moderno é um oolong torrado de perfil mineral pronunciado com notas de caramelo escuro, frutas com caroço e mineral que não se parece com nada mais na categoria. A torra intensa neutraliza parcialmente a cafeína e produz uma infusão aquecedora e complexa. Melhor com água a 90-95°C. Se você quer entender por que o oolong de pedra tem seus próprios seguidores devotos, é por aqui que se começa."
-    },
-    "dong-ding-oolong": {
-      "name": "Dong Ding Oolong",
-      "badge": "Melhor Oolong de Torra Média",
-      "review": "Dong Ding é o clássico oolong taiwanês de torra média — um ponto de referência para o estilo. Cultivado no condado de Nantou, é mais oxidado e torrado do que o Ali Shan, com notas de grão tostado ao lado da frutosidade e um corpo redondo e pleno. A torra suaviza quaisquer arestas e o torna mais tolerante a uma leve sobre-infusão em comparação com os estilos mais leves. Excelente com comida — combina bem com carnes assadas e pratos salgados. Múltiplas infusões funcionam muito bem com o método gongfu; uma bule produz uma xícara limpa e de sabor completo."
-    },
-    "li-shan-high-mountain-oolong": {
-      "name": "Li Shan High Mountain Oolong",
-      "badge": "Melhor Oolong Premium de Taiwan",
-      "review": "Li Shan cresce a 2.200-2.600 metros — entre os chás de maior altitude de Taiwan. A combinação de noites frias, névoa matinal e uma temporada de crescimento lenta produz um caráter floral intenso e concentrado com um acabamento longo e sedoso. Este é um chá premium — visivelmente melhor do que a maioria dos Ali Shan no mercado quando é o verdadeiro. A complexidade do sabor se revela ao longo de múltiplas infusões: a primeira é delicada, a terceira ou quarta costuma ser o pico. Vale o preço premium se você leva a sério os oolongs de alta montanha."
-    },
-    "tie-guan-yin-anxi": {
-      "name": "Tie Guan Yin Anxi",
-      "badge": "Melhor Oolong Chinês Clássico",
-      "review": "O Tie Guan Yin de Anxi, Fujian, é um dos dez chás famosos da China e o oolong chinês levemente oxidado por excelência. O nome significa Deusa de Ferro da Misericórdia. Os estilos modernos tendem ao floral-orquídea com um caráter limpo e fresco; os estilos tradicionais têm mais torra. O estilo verde (oxidação leve) produz uma infusão clara, dourado pálido, com notas florais distintas de orquídea e lírio. Menos cafeína do que os oolongs de torra intensa. Bom para o consumo diário e preço acessível. Se você quer um oolong chinês clássico para entender a categoria, o Tie Guan Yin é a referência essencial."
-    }
-  },
-  "buyingGuide": {
-    "title": "Como Escolher um Chá Oolong",
-    "intro": "O nível de oxidação e o grau de torra determinam o caráter do oolong. Veja como navegar pelo espectro.",
-    "factors": [
-      {
-        "name": "Nível de Oxidação",
-        "detail": "Oolongs levemente oxidados (15-40%): verdes, florais, frescos — semelhantes em abordagem ao chá verde de alta qualidade. Oolongs jade de Taiwan, Tie Guan Yin estilo verde. Oxidação média (40-60%): complexos, frutados, com algumas notas torradas. Estilo Dong Ding. Muito oxidados (60-80%): mais profundos, mais robustos, aproximando-se do chá preto. Tie Guan Yin tradicional, alguns oolongs de pedra. A oxidação acontece no processamento entre o murchamento e o kill-green — é onde a maior parte da complexidade do oolong se origina."
-      },
-      {
-        "name": "Nível de Torra",
-        "detail": "A torra (forneamento) após a oxidação adiciona notas de caramelo, mineral e grão tostado, reduzindo a frescura e o caráter floral. Oolongs leves ou sem torra preservam a frescura e os aromáticos florais. A torra média adiciona complexidade e corpo. A torra intensa produz notas escuras, minerais e caramelizadas — Da Hong Pao é o exemplo extremo. Os oolongs torrados são geralmente mais estáveis no armazenamento e menos sensíveis à sobre-infusão."
-      },
-      {
-        "name": "Alta Montanha vs. Planície",
-        "detail": "Os oolongs de alta montanha (acima de 1.000 m) se desenvolvem mais lentamente, concentrando os sabores e produzindo perfis de aminoácidos mais complexos. A altitude cria condições de cultivo frias que atrasam a colheita e acumulam complexidade. Esses chás têm preços premium. Os oolongs de planície são mais acessíveis, mas não têm a característica doçura concentrada e a complexidade floral dos verdadeiros chás de alta montanha."
-      },
-      {
-        "name": "Método de Preparo",
-        "detail": "O preparo gongfu (bule pequeno ou gaiwan, múltiplas infusões curtas de 5-15 segundos cada) revela diferentes dimensões ao longo das infusões e é o método tradicional. O preparo ao estilo ocidental (uma infusão mais longa de 2-3 minutos) é mais prático, mas mostra menos do alcance do chá. Temperatura da água: 85-90°C para oolongs leves; 90-95°C para oolongs torrados. Nunca use água fervendo com oolongs leves — extrai amargura excessiva e destrói os aromáticos delicados."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "O oolong abrange uma gama de sabores mais ampla do que qualquer outra categoria de chá — de oolongs verdes, florais e levemente oxidados (15% de oxidação) a oolongs escuros de torra intensa (80% de oxidação) que se aproximam do chá preto em caráter. A diferença entre um oolong jade leve de Taiwan e um oolong de pedra mineral de Wuyi é tão dramática quanto comparar um Sancerre com um Bordeaux defumado. Testamos cinco ao longo do espectro.",
+  "sections": [
     {
-      "question": "Quantas vezes posso infundir o chá oolong?",
-      "answer": "Um bom oolong pode ser infundido 4-8 vezes com o preparo gongfu. A primeira infusão (5-10 segundos) desperta a folha. A terceira e quarta infusões geralmente produzem as xícaras mais complexas e saborosas. Cada infusão sucessiva precisa de um pouco mais de tempo. Após 6-8 infusões, o sabor diminui. Os oolongs de torra intensa duram menos infusões do que os levemente torrados. O preparo ao estilo ocidental (uma infusão de 2-3 minutos) extrai mais de uma vez, mas você perde a evolução ao longo das infusões."
+      "heading": "Como Escolher um Chá Oolong",
+      "paragraphs": [
+        "O nível de oxidação e o grau de torra determinam o caráter do oolong. Veja como navegar pelo espectro."
+      ],
+      "subsections": [
+        {
+          "heading": "Nível de Oxidação",
+          "paragraphs": [
+            "Oolongs levemente oxidados (15-40%): verdes, florais, frescos — semelhantes em abordagem ao chá verde de alta qualidade. Oolongs jade de Taiwan, Tie Guan Yin estilo verde. Oxidação média (40-60%): complexos, frutados, com algumas notas torradas. Estilo Dong Ding. Muito oxidados (60-80%): mais profundos, mais robustos, aproximando-se do chá preto. Tie Guan Yin tradicional, alguns oolongs de pedra. A oxidação acontece no processamento entre o murchamento e o kill-green — é onde a maior parte da complexidade do oolong se origina."
+          ]
+        },
+        {
+          "heading": "Nível de Torra",
+          "paragraphs": [
+            "A torra (forneamento) após a oxidação adiciona notas de caramelo, mineral e grão tostado, reduzindo a frescura e o caráter floral. Oolongs leves ou sem torra preservam a frescura e os aromáticos florais. A torra média adiciona complexidade e corpo. A torra intensa produz notas escuras, minerais e caramelizadas — Da Hong Pao é o exemplo extremo. Os oolongs torrados são geralmente mais estáveis no armazenamento e menos sensíveis à sobre-infusão."
+          ]
+        },
+        {
+          "heading": "Alta Montanha vs. Planície",
+          "paragraphs": [
+            "Os oolongs de alta montanha (acima de 1.000 m) se desenvolvem mais lentamente, concentrando os sabores e produzindo perfis de aminoácidos mais complexos. A altitude cria condições de cultivo frias que atrasam a colheita e acumulam complexidade. Esses chás têm preços premium. Os oolongs de planície são mais acessíveis, mas não têm a característica doçura concentrada e a complexidade floral dos verdadeiros chás de alta montanha."
+          ]
+        },
+        {
+          "heading": "Método de Preparo",
+          "paragraphs": [
+            "O preparo gongfu (bule pequeno ou gaiwan, múltiplas infusões curtas de 5-15 segundos cada) revela diferentes dimensões ao longo das infusões e é o método tradicional. O preparo ao estilo ocidental (uma infusão mais longa de 2-3 minutos) é mais prático, mas mostra menos do alcance do chá. Temperatura da água: 85-90°C para oolongs leves; 90-95°C para oolongs torrados. Nunca use água fervendo com oolongs leves — extrai amargura excessiva e destrói os aromáticos delicados."
+          ]
+        }
+      ]
     },
     {
-      "question": "O chá oolong é mais saudável que o chá verde ou o preto?",
-      "answer": "Todos os chás da planta Camellia sinensis contêm polifenóis e antioxidantes. O oolong fica entre o verde (menos processado) e o preto (totalmente oxidado) em termos de conteúdo de catequinas. Algumas pesquisas sugerem que o oolong tem perfis de polifenóis únicos decorrentes da oxidação parcial, mas as diferenças de saúde entre os tipos de chá são modestas. A melhor escolha é a que você realmente vai beber de forma consistente."
-    },
-    {
-      "question": "Por que o oolong tem sabor tão diferente do chá verde ou do preto?",
-      "answer": "A chave é a oxidação parcial do oolong. As folhas de chá são intencionalmente deixadas para oxidar até a metade, quando o processo é interrompido pelo calor (etapa kill-green). Isso cria compostos de sabor complexos que não existem nem no chá verde não oxidado nem no chá preto totalmente oxidado. A dimensão da torra adiciona outra camada. O resultado é um espectro de perfis de sabor que vão do floral e fresco ao mineral e caramelizado."
-    },
-    {
-      "question": "Qual é a melhor temperatura da água para o chá oolong?",
-      "answer": "Oolongs leves e verdes (Ali Shan, Tie Guan Yin verde): 85-90°C. Oolongs de torra média (Dong Ding): 90°C. Oolongs de torra intensa (Da Hong Pao, Tie Guan Yin tradicional): 90-95°C. Evite água fervendo para oolongs leves — extrai amargura excessiva e destrói os aromáticos delicados. Os oolongs torrados se beneficiam de temperaturas mais altas para extração completa."
+      "heading": "Conclusão",
+      "paragraphs": [
+        "Para uma entrada no mundo do oolong que não intimide, o Ali Shan High Mountain oferece acessibilidade floral. Para a experiência definitiva do oolong de pedra chinês, o Da Hong Pao de Wuyi é a referência. Se você quer um chá para o dia a dia que combine com a comida, o Dong Ding de torra média é confiável e tolerante. O maior erro que os novos apreciadores de oolong cometem é preparar todos os oolongs da mesma forma — a temperatura e o tempo de infusão precisam ser ajustados com base no nível de oxidação e de torra."
+      ]
     }
   ],
-  "conclusion": "Para uma entrada no mundo do oolong que não intimide, o Ali Shan High Mountain oferece acessibilidade floral. Para a experiência definitiva do oolong de pedra chinês, o Da Hong Pao de Wuyi é a referência. Se você quer um chá para o dia a dia que combine com a comida, o Dong Ding de torra média é confiável e tolerante. O maior erro que os novos apreciadores de oolong cometem é preparar todos os oolongs da mesma forma — a temperatura e o tempo de infusão precisam ser ajustados com base no nível de oxidação e de torra."
+  "faqs": [
+    {
+      "q": "Quantas vezes posso infundir o chá oolong?",
+      "a": "Um bom oolong pode ser infundido 4-8 vezes com o preparo gongfu. A primeira infusão (5-10 segundos) desperta a folha. A terceira e quarta infusões geralmente produzem as xícaras mais complexas e saborosas. Cada infusão sucessiva precisa de um pouco mais de tempo. Após 6-8 infusões, o sabor diminui. Os oolongs de torra intensa duram menos infusões do que os levemente torrados. O preparo ao estilo ocidental (uma infusão de 2-3 minutos) extrai mais de uma vez, mas você perde a evolução ao longo das infusões."
+    },
+    {
+      "q": "O chá oolong é mais saudável que o chá verde ou o preto?",
+      "a": "Todos os chás da planta Camellia sinensis contêm polifenóis e antioxidantes. O oolong fica entre o verde (menos processado) e o preto (totalmente oxidado) em termos de conteúdo de catequinas. Algumas pesquisas sugerem que o oolong tem perfis de polifenóis únicos decorrentes da oxidação parcial, mas as diferenças de saúde entre os tipos de chá são modestas. A melhor escolha é a que você realmente vai beber de forma consistente."
+    },
+    {
+      "q": "Por que o oolong tem sabor tão diferente do chá verde ou do preto?",
+      "a": "A chave é a oxidação parcial do oolong. As folhas de chá são intencionalmente deixadas para oxidar até a metade, quando o processo é interrompido pelo calor (etapa kill-green). Isso cria compostos de sabor complexos que não existem nem no chá verde não oxidado nem no chá preto totalmente oxidado. A dimensão da torra adiciona outra camada. O resultado é um espectro de perfis de sabor que vão do floral e fresco ao mineral e caramelizado."
+    },
+    {
+      "q": "Qual é a melhor temperatura da água para o chá oolong?",
+      "a": "Oolongs leves e verdes (Ali Shan, Tie Guan Yin verde): 85-90°C. Oolongs de torra média (Dong Ding): 90°C. Oolongs de torra intensa (Da Hong Pao, Tie Guan Yin tradicional): 90-95°C. Evite água fervendo para oolongs leves — extrai amargura excessiva e destrói os aromáticos delicados. Os oolongs torrados se beneficiam de temperaturas mais altas para extração completa."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "alishan-high-mountain-oolong",
+      "badge": "Melhor Oolong Leve",
+      "review": "O Ali Shan é cultivado a 1.200-1.600 metros nas montanhas Chiayi de Taiwan — a altitude desacelera o crescimento das folhas e concentra os sabores. O resultado é um oolong levemente oxidado e levemente tostado com aroma floral distinto (semelhante à orquídea), textura cremosa e uma doçura natural que persiste. Múltiplas infusões: a terceira e a quarta geralmente produzem a melhor xícara. Se você já bebe chá verde e quer experimentar o oolong, o Ali Shan é a entrada acessível — floral e acessível sem a complexidade dos estilos mais torrados.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "da-hong-pao-wuyi-rock",
+      "badge": "Melhor Oolong de Pedra",
+      "review": "Da Hong Pao é um dos chás chineses mais famosos — originalmente de alguns arbustos antigos nas montanhas Wuyi de Fujian. O Da Hong Pao comercial moderno é um oolong torrado de perfil mineral pronunciado com notas de caramelo escuro, frutas com caroço e mineral que não se parece com nada mais na categoria. A torra intensa neutraliza parcialmente a cafeína e produz uma infusão aquecedora e complexa. Melhor com água a 90-95°C. Se você quer entender por que o oolong de pedra tem seus próprios seguidores devotos, é por aqui que se começa.",
+      "grade": "A"
+    },
+    {
+      "offerId": "dong-ding-oolong",
+      "badge": "Melhor Oolong de Torra Média",
+      "review": "Dong Ding é o clássico oolong taiwanês de torra média — um ponto de referência para o estilo. Cultivado no condado de Nantou, é mais oxidado e torrado do que o Ali Shan, com notas de grão tostado ao lado da frutosidade e um corpo redondo e pleno. A torra suaviza quaisquer arestas e o torna mais tolerante a uma leve sobre-infusão em comparação com os estilos mais leves. Excelente com comida — combina bem com carnes assadas e pratos salgados. Múltiplas infusões funcionam muito bem com o método gongfu; uma bule produz uma xícara limpa e de sabor completo.",
+      "grade": "A"
+    },
+    {
+      "offerId": "li-shan-high-mountain-oolong",
+      "badge": "Melhor Oolong Premium de Taiwan",
+      "review": "Li Shan cresce a 2.200-2.600 metros — entre os chás de maior altitude de Taiwan. A combinação de noites frias, névoa matinal e uma temporada de crescimento lenta produz um caráter floral intenso e concentrado com um acabamento longo e sedoso. Este é um chá premium — visivelmente melhor do que a maioria dos Ali Shan no mercado quando é o verdadeiro. A complexidade do sabor se revela ao longo de múltiplas infusões: a primeira é delicada, a terceira ou quarta costuma ser o pico. Vale o preço premium se você leva a sério os oolongs de alta montanha.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "tie-guan-yin-anxi",
+      "badge": "Melhor Oolong Chinês Clássico",
+      "review": "O Tie Guan Yin de Anxi, Fujian, é um dos dez chás famosos da China e o oolong chinês levemente oxidado por excelência. O nome significa Deusa de Ferro da Misericórdia. Os estilos modernos tendem ao floral-orquídea com um caráter limpo e fresco; os estilos tradicionais têm mais torra. O estilo verde (oxidação leve) produz uma infusão clara, dourado pálido, com notas florais distintas de orquídea e lírio. Menos cafeína do que os oolongs de torra intensa. Bom para o consumo diário e preço acessível. Se você quer um oolong chinês clássico para entender a categoria, o Tie Guan Yin é a referência essencial.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Melhor Oolong Leve",
+      "offerId": "alishan-high-mountain-oolong",
+      "reason": "O Ali Shan é cultivado a 1.200-1.600 metros nas montanhas Chiayi de Taiwan — a altitude desacelera o crescimento das folhas e c..."
+    },
+    {
+      "label": "Melhor Oolong de Pedra",
+      "offerId": "da-hong-pao-wuyi-rock",
+      "reason": "Da Hong Pao é um dos chás chineses mais famosos — originalmente de alguns arbustos antigos nas montanhas Wuyi de Fujian."
+    },
+    {
+      "label": "Melhor Oolong de Torra Média",
+      "offerId": "dong-ding-oolong",
+      "reason": "Dong Ding é o clássico oolong taiwanês de torra média — um ponto de referência para o estilo."
+    },
+    {
+      "label": "Melhor Oolong Premium de Taiwan",
+      "offerId": "li-shan-high-mountain-oolong",
+      "reason": "Li Shan cresce a 2.200-2.600 metros — entre os chás de maior altitude de Taiwan."
+    },
+    {
+      "label": "Melhor Oolong Chinês Clássico",
+      "offerId": "tie-guan-yin-anxi",
+      "reason": "O Tie Guan Yin de Anxi, Fujian, é um dos dez chás famosos da China e o oolong chinês levemente oxidado por excelência."
+    }
+  ]
 }

@@ -1,73 +1,123 @@
 {
   "title": "Best Golf Rangefinder 2026: Laser vs GPS Tested on the Course",
   "description": "We tested 5 golf rangefinders for accuracy, speed, and usability across different handicap levels. Here's which ones are worth the money in 2026.",
-  "intro": "A rangefinder removes the biggest variable in club selection: distance uncertainty. But the category spans $100 GPS watches to $700 laser rangefinders with slope compensation, and the right choice depends entirely on how you play. We tested five popular options across multiple rounds to separate genuine performance gains from spec-sheet theater.",
-  "products": {
-    "bushnell-pro-xe": {
-      "name": "Bushnell Pro XE",
-      "badge": "Best Overall",
-      "review": "The Pro XE is the standard against which other laser rangefinders are compared. Slope-with-temperature-and-altitude compensation (BITE technology) gives genuinely better playing yardages than slope alone — a meaningful difference at elevation or in cold morning rounds. The magnetic cart mount is legitimately useful rather than gimmicky. Fast lock, clear display, accurate to within a yard consistently. It's expensive, but if you're a serious player who plays courses with significant elevation change, the Pro XE earns its price."
-    },
-    "garmin-approach-z82": {
-      "name": "Garmin Approach Z82",
-      "badge": "Best Hybrid (Laser + GPS)",
-      "review": "The Z82 combines laser precision with Garmin's course maps — point at the flag for exact distance, or glance at the GPS overlay for hazard distances and green edges without taking your eye off the course. The combination eliminates the main weakness of pure laser (you must aim at something) and pure GPS (limited to pre-loaded points). Preloaded with over 41,000 courses. The color display is cleaner than most. Battery life is good for 2-3 rounds per charge. Premium price is justified if you value both measurement methods."
-    },
-    "precision-pro-nx9": {
-      "name": "Precision Pro NX9",
-      "badge": "Best Value",
-      "review": "Precision Pro consistently undercuts the major brands on price while delivering competitive accuracy. The NX9 has slope compensation, adaptive slope technology that adjusts the slope angle measurement based on temperature, and a clear 6x magnification view. Accuracy tests within 1-2 yards of the Bushnell. Free lifetime battery replacement is a genuine selling point — most competitors charge for batteries. For golfers who want legitimate performance without the Bushnell/Nikon premium, this is the smart buy."
-    },
-    "garmin-approach-g12": {
-      "name": "Garmin Approach G12",
-      "badge": "Best GPS Watch",
-      "review": "Not a laser rangefinder — a dedicated GPS golf watch. Distances to front/center/back of green are instantaneous without aiming. The G12 clips to a glove or belt loop (no wristwatch bulk) and has a simple interface that doesn't distract mid-round. Course database covers 42,000+ courses with auto-detect at arrival. No slope compensation (GPS can't calculate it), but for mid-handicap players who primarily need consistent center-of-green distances, a GPS watch is faster and less fussy than aiming a laser. Better in bright sunlight than most laser displays."
-    },
-    "nikon-coolshot-pro-stabilized": {
-      "name": "Nikon Coolshot Pro II Stabilized",
-      "badge": "Best for Shaky Hands",
-      "review": "Nikon's optical stabilization actually works — it's not marketing. The stabilized view makes flagstick acquisition noticeably faster, especially when you're tired on the back nine or playing in wind. First Target Priority helps with front pin placements where the flag is closer than the back of the green. The ID Technology (Incline/Decline) provides slope compensation. The optics are Nikon, which means the view is cleaner and brighter than budget options. Slightly slower lock-on than Bushnell in direct comparison, but the stabilization compensates in real playing conditions."
-    }
-  },
-  "buyingGuide": {
-    "title": "How to Choose a Golf Rangefinder",
-    "intro": "Laser vs GPS, slope vs no slope, and price vs features — here's what actually matters.",
-    "factors": [
-      {
-        "name": "Laser vs GPS",
-        "detail": "Laser rangefinders measure to whatever you aim at — precise to the flag or specific hazard, but requires aiming. GPS units display pre-loaded distances instantly — no aiming required, but limited to programmed points (green center, front/back). Hybrid units (like the Garmin Z82) combine both. Laser is more accurate; GPS is faster. Tournament-legal slope models have a slope-off mode to comply with USGA rules."
-      },
-      {
-        "name": "Slope Compensation",
-        "detail": "Slope compensation calculates 'plays-like distance' — what flat yardage a sloped shot is equivalent to. A 150-yard shot up a steep hill might play like 165 yards. Slope is particularly valuable on hilly courses. USGA and R&A prohibit slope mode in stroke play competitions, but most recreational golfers can use it freely. Check whether slope can be toggled off if you play in club competitions."
-      },
-      {
-        "name": "Speed and Lock Technology",
-        "detail": "Pin Seeker/Flag Lock/PinFinder technology identifies the flag versus background objects. Fast lock matters less on open courses but significantly more when trees are behind the green. Most premium models lock in under a second. Budget models can take 2-3 seconds and miss the flag in cluttered backgrounds."
-      },
-      {
-        "name": "Battery and Durability",
-        "detail": "Most laser rangefinders use CR2 batteries (1-2 rounds per battery depending on use). GPS units charge via USB. CR2 batteries cost $3-8 each — factor this into long-term cost, or look for units with free replacement programs. Water resistance ratings (IPX4-7) matter if you play in rain. Most premium units are splash-proof; few are fully submersible."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "A rangefinder removes the biggest variable in club selection: distance uncertainty. But the category spans $100 GPS watches to $700 laser rangefinders with slope compensation, and the right choice depends entirely on how you play. We tested five popular options across multiple rounds to separate genuine performance gains from spec-sheet theater.",
+  "sections": [
     {
-      "question": "Are laser rangefinders allowed in tournament play?",
-      "answer": "Laser rangefinders are allowed in most amateur tournaments and club competitions under the USGA's Local Rule allowing distance-measuring devices. However, slope compensation must be disabled during stroke play competitions — units without a slope toggle aren't tournament legal. Check the specific event rules. GPS watches are also permitted under the same rule."
+      "heading": "How to Choose a Golf Rangefinder",
+      "paragraphs": [
+        "Laser vs GPS, slope vs no slope, and price vs features — here's what actually matters."
+      ],
+      "subsections": [
+        {
+          "heading": "Laser vs GPS",
+          "paragraphs": [
+            "Laser rangefinders measure to whatever you aim at — precise to the flag or specific hazard, but requires aiming. GPS units display pre-loaded distances instantly — no aiming required, but limited to programmed points (green center, front/back). Hybrid units (like the Garmin Z82) combine both. Laser is more accurate; GPS is faster. Tournament-legal slope models have a slope-off mode to comply with USGA rules."
+          ]
+        },
+        {
+          "heading": "Slope Compensation",
+          "paragraphs": [
+            "Slope compensation calculates 'plays-like distance' — what flat yardage a sloped shot is equivalent to. A 150-yard shot up a steep hill might play like 165 yards. Slope is particularly valuable on hilly courses. USGA and R&A prohibit slope mode in stroke play competitions, but most recreational golfers can use it freely. Check whether slope can be toggled off if you play in club competitions."
+          ]
+        },
+        {
+          "heading": "Speed and Lock Technology",
+          "paragraphs": [
+            "Pin Seeker/Flag Lock/PinFinder technology identifies the flag versus background objects. Fast lock matters less on open courses but significantly more when trees are behind the green. Most premium models lock in under a second. Budget models can take 2-3 seconds and miss the flag in cluttered backgrounds."
+          ]
+        },
+        {
+          "heading": "Battery and Durability",
+          "paragraphs": [
+            "Most laser rangefinders use CR2 batteries (1-2 rounds per battery depending on use). GPS units charge via USB. CR2 batteries cost $3-8 each — factor this into long-term cost, or look for units with free replacement programs. Water resistance ratings (IPX4-7) matter if you play in rain. Most premium units are splash-proof; few are fully submersible."
+          ]
+        }
+      ]
     },
     {
-      "question": "How accurate are golf rangefinders?",
-      "answer": "Premium laser rangefinders (Bushnell, Nikon, Leupold) are accurate to within 0.5-1 yard under normal conditions. Budget models are typically within 1-2 yards. GPS rangefinders depend on course map quality and satellite signal — generally accurate to 3-5 yards for pre-loaded points. For most golfers, a 1-2 yard difference in GPS accuracy doesn't affect club selection; laser precision matters more for tight approach shots."
-    },
-    {
-      "question": "What's the difference between slope and non-slope rangefinders?",
-      "answer": "Non-slope units give raw horizontal distance. Slope units calculate the 'plays-like distance' adjusted for incline or decline. If you're hitting to a green 160 yards away but 30 feet uphill, a slope rangefinder might show 168 yards. The difference can be one full club. Slope is not allowed in USGA stroke play competitions without slope-off mode, but most recreational golfers benefit significantly from it."
-    },
-    {
-      "question": "Do I need a rangefinder if I already have GPS on my phone?",
-      "answer": "Phone GPS apps (18Birdies, Golfshot, etc.) give green distance adequately but can't target specific flags or hazards with the accuracy a laser provides. They also require holding your phone out and draining the battery. A dedicated GPS unit or clip-on watch is faster and more convenient. A laser rangefinder gives significantly better precision for approach shots. If you're a serious golfer, yes — a dedicated device is worth it."
+      "heading": "Bottom line",
+      "paragraphs": [
+        "The Bushnell Pro XE remains the benchmark for serious golfers who prioritize accuracy and play hilly courses. For the best value, Precision Pro NX9 delivers comparable performance at a meaningfully lower price. GPS-only players who hate aiming a laser should consider the Garmin Approach G12 clip — it's the fastest distance-to-green tool on this list. The main mistake is buying a non-slope unit and wishing you had slope by the third round on a hilly course."
+      ]
     }
   ],
-  "conclusion": "The Bushnell Pro XE remains the benchmark for serious golfers who prioritize accuracy and play hilly courses. For the best value, Precision Pro NX9 delivers comparable performance at a meaningfully lower price. GPS-only players who hate aiming a laser should consider the Garmin Approach G12 clip — it's the fastest distance-to-green tool on this list. The main mistake is buying a non-slope unit and wishing you had slope by the third round on a hilly course."
+  "faqs": [
+    {
+      "q": "Are laser rangefinders allowed in tournament play?",
+      "a": "Laser rangefinders are allowed in most amateur tournaments and club competitions under the USGA's Local Rule allowing distance-measuring devices. However, slope compensation must be disabled during stroke play competitions — units without a slope toggle aren't tournament legal. Check the specific event rules. GPS watches are also permitted under the same rule."
+    },
+    {
+      "q": "How accurate are golf rangefinders?",
+      "a": "Premium laser rangefinders (Bushnell, Nikon, Leupold) are accurate to within 0.5-1 yard under normal conditions. Budget models are typically within 1-2 yards. GPS rangefinders depend on course map quality and satellite signal — generally accurate to 3-5 yards for pre-loaded points. For most golfers, a 1-2 yard difference in GPS accuracy doesn't affect club selection; laser precision matters more for tight approach shots."
+    },
+    {
+      "q": "What's the difference between slope and non-slope rangefinders?",
+      "a": "Non-slope units give raw horizontal distance. Slope units calculate the 'plays-like distance' adjusted for incline or decline. If you're hitting to a green 160 yards away but 30 feet uphill, a slope rangefinder might show 168 yards. The difference can be one full club. Slope is not allowed in USGA stroke play competitions without slope-off mode, but most recreational golfers benefit significantly from it."
+    },
+    {
+      "q": "Do I need a rangefinder if I already have GPS on my phone?",
+      "a": "Phone GPS apps (18Birdies, Golfshot, etc.) give green distance adequately but can't target specific flags or hazards with the accuracy a laser provides. They also require holding your phone out and draining the battery. A dedicated GPS unit or clip-on watch is faster and more convenient. A laser rangefinder gives significantly better precision for approach shots. If you're a serious golfer, yes — a dedicated device is worth it."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "bushnell-pro-xe",
+      "badge": "Best Overall",
+      "review": "The Pro XE is the standard against which other laser rangefinders are compared. Slope-with-temperature-and-altitude compensation (BITE technology) gives genuinely better playing yardages than slope alone — a meaningful difference at elevation or in cold morning rounds. The magnetic cart mount is legitimately useful rather than gimmicky. Fast lock, clear display, accurate to within a yard consistently. It's expensive, but if you're a serious player who plays courses with significant elevation change, the Pro XE earns its price.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "garmin-approach-z82",
+      "badge": "Best Hybrid (Laser + GPS)",
+      "review": "The Z82 combines laser precision with Garmin's course maps — point at the flag for exact distance, or glance at the GPS overlay for hazard distances and green edges without taking your eye off the course. The combination eliminates the main weakness of pure laser (you must aim at something) and pure GPS (limited to pre-loaded points). Preloaded with over 41,000 courses. The color display is cleaner than most. Battery life is good for 2-3 rounds per charge. Premium price is justified if you value both measurement methods.",
+      "grade": "A"
+    },
+    {
+      "offerId": "precision-pro-nx9",
+      "badge": "Best Value",
+      "review": "Precision Pro consistently undercuts the major brands on price while delivering competitive accuracy. The NX9 has slope compensation, adaptive slope technology that adjusts the slope angle measurement based on temperature, and a clear 6x magnification view. Accuracy tests within 1-2 yards of the Bushnell. Free lifetime battery replacement is a genuine selling point — most competitors charge for batteries. For golfers who want legitimate performance without the Bushnell/Nikon premium, this is the smart buy.",
+      "grade": "A"
+    },
+    {
+      "offerId": "garmin-approach-g12",
+      "badge": "Best GPS Watch",
+      "review": "Not a laser rangefinder — a dedicated GPS golf watch. Distances to front/center/back of green are instantaneous without aiming. The G12 clips to a glove or belt loop (no wristwatch bulk) and has a simple interface that doesn't distract mid-round. Course database covers 42,000+ courses with auto-detect at arrival. No slope compensation (GPS can't calculate it), but for mid-handicap players who primarily need consistent center-of-green distances, a GPS watch is faster and less fussy than aiming a laser. Better in bright sunlight than most laser displays.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "nikon-coolshot-pro-stabilized",
+      "badge": "Best for Shaky Hands",
+      "review": "Nikon's optical stabilization actually works — it's not marketing. The stabilized view makes flagstick acquisition noticeably faster, especially when you're tired on the back nine or playing in wind. First Target Priority helps with front pin placements where the flag is closer than the back of the green. The ID Technology (Incline/Decline) provides slope compensation. The optics are Nikon, which means the view is cleaner and brighter than budget options. Slightly slower lock-on than Bushnell in direct comparison, but the stabilization compensates in real playing conditions.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "recommendedFor": [
+    {
+      "label": "Best Overall",
+      "offerId": "bushnell-pro-xe",
+      "reason": "The Pro XE is the standard against which other laser rangefinders are compared."
+    },
+    {
+      "label": "Best Hybrid (Laser + GPS)",
+      "offerId": "garmin-approach-z82",
+      "reason": "The Z82 combines laser precision with Garmin's course maps — point at the flag for exact distance, or glance at the GPS overlay..."
+    },
+    {
+      "label": "Best Value",
+      "offerId": "precision-pro-nx9",
+      "reason": "Precision Pro consistently undercuts the major brands on price while delivering competitive accuracy."
+    },
+    {
+      "label": "Best GPS Watch",
+      "offerId": "garmin-approach-g12",
+      "reason": "Not a laser rangefinder — a dedicated GPS golf watch."
+    },
+    {
+      "label": "Best for Shaky Hands",
+      "offerId": "nikon-coolshot-pro-stabilized",
+      "reason": "Nikon's optical stabilization actually works — it's not marketing."
+    }
+  ]
 }

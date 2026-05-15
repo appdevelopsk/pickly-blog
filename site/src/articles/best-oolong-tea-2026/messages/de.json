@@ -1,73 +1,123 @@
 {
   "title": "Bester Oolong-Tee 2026: Taiwans Hochgebirgstee vs. Wuyi-Felsenoolong im Vergleich",
   "description": "Wir haben 5 Oolong-Tees aus Taiwan und China bei verschiedenen Roeststufen und Oxidationsgraden getestet. Leicht-floral, mittelschwer geröstet und stark gerostet -- der beste Oolong fuer jeden Geniesser.",
-  "intro": "Oolong umfasst eine breitere Geschmacksspanne als jede andere Tee-Kategorie -- von leichten, floralen grünen Oolongs (15% Oxidation) bis zu stark geroesteten dunklen Oolongs (80% Oxidation), die im Charakter an schwarzen Tee heranreichen. Der Unterschied zwischen einem leichten Jade-Oolong aus Taiwan und einem mineralischen Felsenoolong aus Wuyi ist so markant wie der Vergleich zwischen einem Sancerre und einem rauchigen Bordeaux. Wir haben fuenf quer durch das Spektrum getestet.",
-  "products": {
-    "alishan-high-mountain-oolong": {
-      "name": "Ali Shan High Mountain Oolong",
-      "badge": "Bester leichter Oolong",
-      "review": "Ali Shan waechst in 1.200-1.600 Metern Hoehe in Taiwans Chiayi-Bergen -- die Hoehenlage verlangsamt das Blattwachstum und konzentriert die Aromen. Das Ergebnis ist ein leicht oxidierter, leicht geroesteter Oolong mit charakteristischem Blumenaroma (orchideenaehnlich), cremiger Textur und einer natuerlichen Suesse, die nachklingt. Mehrfache Aufguesse: der dritte und vierte liefern oft den besten Aufguss. Wer bisher gruenen Tee getrunken hat und Oolong ausprobieren moechte, findet im Ali Shan den zugaenglichen Einstieg -- blumig und angenehm ohne die Komplexitaet stark geroesteter Stile."
-    },
-    "da-hong-pao-wuyi-rock": {
-      "name": "Da Hong Pao Wuyi Rock Oolong",
-      "badge": "Bester Felsenoolong",
-      "review": "Da Hong Pao gehoert zu den beruehmtesten chinesischen Tees -- urspruenglich von wenigen alten Strauchern in Fujians Wuyi-Bergen. Moderner kommerzieller Da Hong Pao ist ein spezifisch mineral-betonter geroesteter Oolong mit Noten von dunklem Karamell, Steinfruechtden und Mineralitaet, der seinesgleichen in der Kategorie sucht. Die starke Roestung neutralisiert Koffein teilweise und ergibt einen wohltuenden, komplexen Aufguss. Am besten mit Wasser bei 90-95°C. Wer verstehen moechte, warum Felsenoolong seine eigene treue Anhaengerschaft hat, fangt hier an."
-    },
-    "dong-ding-oolong": {
-      "name": "Dong Ding Oolong",
-      "badge": "Bester Oolong mit mittlerer Roestung",
-      "review": "Dong Ding ist der klassische taiwanesische Oolong mit mittlerer Roestung -- ein Referenzpunkt fuer diesen Stil. Im Nantou County angebaut, ist er staerker oxidiert und geröstet als Ali Shan, mit Noten von geroestem Getreide neben Fruechtigkeit und einem runden, vollen Koerper. Die Roestung glaettet eventuelle Rauheiten und macht ihn bei leichtem Ueberziehen verzeihender als leichtere Stile. Hervorragend zur Mahlzeit -- passt gut zu gebratenem Fleisch und herzhaften Gerichten. Mehrfache Aufguesse eignen sich gut fuer Gongfu-Zubereitung; eine Teekanne liefert einen klaren, vollmundigen Aufguss."
-    },
-    "li-shan-high-mountain-oolong": {
-      "name": "Li Shan High Mountain Oolong",
-      "badge": "Bester Premium-Taiwan-Oolong",
-      "review": "Li Shan waechst in 2.200-2.600 Metern -- unter den Tees mit der hoechsten Anbauhoehe in Taiwan. Die Kombination aus kuehlen Naechten, Morgennebel und langsamer Wachstumssaison erzeugt ein intensives, konzentriertes Blumenprofil mit langem, seidigem Abgang. Dies ist ein Premiumtee -- spiuerbar besser als die meisten Ali Shan auf dem Markt, wenn er echt ist. Die Geschmackskomplexitaet entfaltet sich ueber mehrere Aufguesse: der erste ist zart, der dritte oder vierte oft der Hoehepunkt. Den Premiumpreis wert fuer alle, die Hochgebirgs-Oolongs ernst nehmen."
-    },
-    "tie-guan-yin-anxi": {
-      "name": "Tie Guan Yin Anxi",
-      "badge": "Bester klassischer chinesischer Oolong",
-      "review": "Tie Guan Yin aus Anxi, Fujian, ist einer der zehn beruehmten Tees Chinas und der massgebliche leicht oxidierte chinesische Oolong. Der Name bedeutet Eiserne Goettin der Barmherzigkeit. Moderne Stile tendieren zu floral-orchideenhaft mit einem klaren, frischen Charakter; traditionelle Stile haben mehr Roestung. Der gruene Stil (leichte Oxidation) ergibt eine klare, blassige Infusion mit ausgepraegten Orchideen- und Lilienaromen. Weniger Koffein als stark geroestete Oolongs. Gut fuer den taeglichen Genuss und zugaenglicher Preis. Wer einen klassischen chinesischen Oolong sucht, um die Kategorie zu verstehen, fuer den ist Tie Guan Yin die wesentliche Referenz."
-    }
-  },
-  "buyingGuide": {
-    "title": "Wie man Oolong-Tee auswaehlt",
-    "intro": "Oxidationsgrad und Roeststufe bestimmen den Charakter des Oolongs. So navigiert man durch das Spektrum.",
-    "factors": [
-      {
-        "name": "Oxidationsgrad",
-        "detail": "Leicht oxidierte Oolongs (15-40%): gruen, blumig, frisch -- im Ansatz aehnlich hochwertigem gruenen Tee. Taiwan-Jade-Oolongs, Tie Guan Yin gruener Stil. Mittlere Oxidation (40-60%): komplex, fruchtig, mit einigen geroesteten Noten. Dong-Ding-Stil. Stark oxidiert (60-80%): tiefer, kraeftiger, naeher am schwarzen Tee. Traditioneller Tie Guan Yin, einige Felsenoolongs. Die Oxidation findet beim Verarbeiten zwischen Welken und Kill-Green statt -- dort entsteht der Grossteil der Komplexitaet des Oolongs."
-      },
-      {
-        "name": "Roeststufe",
-        "detail": "Das Roesten (Backen) nach der Oxidation fuegt Karamell-, Mineral- und geroestete Getreidenoten hinzu und reduziert Frische und Blumencharakter. Leichte oder unverarbeitete Oolongs bewahren Frische und Blumenaromaten. Mittlere Roestung fuegt Komplexitaet und Koerper hinzu. Starke Roestung erzeugt dunkle, mineralische, karamellartige Noten -- Da Hong Pao ist das extreme Beispiel. Geroestete Oolongs sind generell stabiler bei der Lagerung und weniger empfindlich gegen Ueberziehen."
-      },
-      {
-        "name": "Hochgebirge vs. Tieflagen",
-        "detail": "Hochgebirgs-Oolongs (ueber 1.000 m) wachsen langsamer, konzentrieren Aromen und entwickeln komplexere Aminosaeureprofile. Die Hoehenlage erzeugt kuehlere Bedingungen, die die Ernte verzoegern und Komplexitaet aufbauen. Diese Tees werden zu Premiumpreisen gehandelt. Tieflagen-Oolongs sind zugaenglicher, haben aber nicht die charakteristische konzentrierte Suesse und Blumenkomplexitaet echter Hochgebirgstees."
-      },
-      {
-        "name": "Zubereitungsmethode",
-        "detail": "Gongfu-Zubereitung (kleine Teekanne oder Gaiwan, mehrere kurze Aufguesse von je 5-15 Sekunden) zeigt verschiedene Dimensionen ueber Aufguesse hinweg und ist die traditionelle Methode. Westliche Zubereitung (ein laengerer Aufguss von 2-3 Minuten) ist bequemer, zeigt aber weniger vom Spektrum des Tees. Wassertemperatur: 85-90°C fuer leichte Oolongs; 90-95°C fuer geroestete Oolongs. Niemals kochendes Wasser fuer leichte Oolongs -- es loest ueberschuessige Bitterkeit und zerstoert empfindliche Aromaten."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "Oolong umfasst eine breitere Geschmacksspanne als jede andere Tee-Kategorie -- von leichten, floralen grünen Oolongs (15% Oxidation) bis zu stark geroesteten dunklen Oolongs (80% Oxidation), die im Charakter an schwarzen Tee heranreichen. Der Unterschied zwischen einem leichten Jade-Oolong aus Taiwan und einem mineralischen Felsenoolong aus Wuyi ist so markant wie der Vergleich zwischen einem Sancerre und einem rauchigen Bordeaux. Wir haben fuenf quer durch das Spektrum getestet.",
+  "sections": [
     {
-      "question": "Wie oft kann ich Oolong-Tee aufgiessen?",
-      "answer": "Guter Oolong kann mit Gongfu-Zubereitung 4-8 Mal aufgegossen werden. Der erste Aufguss (5-10 Sekunden) weckt das Blatt. Der dritte und vierte Aufguss liefern oft die komplexesten, vollmundigsten Tassen. Jeder weitere Aufguss braucht etwas mehr Zeit. Nach 6-8 Aufguessen nimmt der Geschmack ab. Stark geroestete Oolongs halten weniger Aufguesse aus als leicht geroestete. Westliche Zubereitung (ein Aufguss von 2-3 Minuten) extrahiert mehr auf einmal, aber man verliert die Entwicklung ueber mehrere Aufguesse."
+      "heading": "Wie man Oolong-Tee auswaehlt",
+      "paragraphs": [
+        "Oxidationsgrad und Roeststufe bestimmen den Charakter des Oolongs. So navigiert man durch das Spektrum."
+      ],
+      "subsections": [
+        {
+          "heading": "Oxidationsgrad",
+          "paragraphs": [
+            "Leicht oxidierte Oolongs (15-40%): gruen, blumig, frisch -- im Ansatz aehnlich hochwertigem gruenen Tee. Taiwan-Jade-Oolongs, Tie Guan Yin gruener Stil. Mittlere Oxidation (40-60%): komplex, fruchtig, mit einigen geroesteten Noten. Dong-Ding-Stil. Stark oxidiert (60-80%): tiefer, kraeftiger, naeher am schwarzen Tee. Traditioneller Tie Guan Yin, einige Felsenoolongs. Die Oxidation findet beim Verarbeiten zwischen Welken und Kill-Green statt -- dort entsteht der Grossteil der Komplexitaet des Oolongs."
+          ]
+        },
+        {
+          "heading": "Roeststufe",
+          "paragraphs": [
+            "Das Roesten (Backen) nach der Oxidation fuegt Karamell-, Mineral- und geroestete Getreidenoten hinzu und reduziert Frische und Blumencharakter. Leichte oder unverarbeitete Oolongs bewahren Frische und Blumenaromaten. Mittlere Roestung fuegt Komplexitaet und Koerper hinzu. Starke Roestung erzeugt dunkle, mineralische, karamellartige Noten -- Da Hong Pao ist das extreme Beispiel. Geroestete Oolongs sind generell stabiler bei der Lagerung und weniger empfindlich gegen Ueberziehen."
+          ]
+        },
+        {
+          "heading": "Hochgebirge vs. Tieflagen",
+          "paragraphs": [
+            "Hochgebirgs-Oolongs (ueber 1.000 m) wachsen langsamer, konzentrieren Aromen und entwickeln komplexere Aminosaeureprofile. Die Hoehenlage erzeugt kuehlere Bedingungen, die die Ernte verzoegern und Komplexitaet aufbauen. Diese Tees werden zu Premiumpreisen gehandelt. Tieflagen-Oolongs sind zugaenglicher, haben aber nicht die charakteristische konzentrierte Suesse und Blumenkomplexitaet echter Hochgebirgstees."
+          ]
+        },
+        {
+          "heading": "Zubereitungsmethode",
+          "paragraphs": [
+            "Gongfu-Zubereitung (kleine Teekanne oder Gaiwan, mehrere kurze Aufguesse von je 5-15 Sekunden) zeigt verschiedene Dimensionen ueber Aufguesse hinweg und ist die traditionelle Methode. Westliche Zubereitung (ein laengerer Aufguss von 2-3 Minuten) ist bequemer, zeigt aber weniger vom Spektrum des Tees. Wassertemperatur: 85-90°C fuer leichte Oolongs; 90-95°C fuer geroestete Oolongs. Niemals kochendes Wasser fuer leichte Oolongs -- es loest ueberschuessige Bitterkeit und zerstoert empfindliche Aromaten."
+          ]
+        }
+      ]
     },
     {
-      "question": "Ist Oolong gesünder als gruener oder schwarzer Tee?",
-      "answer": "Alle Tees der Camellia-sinensis-Pflanze enthalten Polyphenole und Antioxidantien. Oolong liegt zwischen gruenem (weniger verarbeitet) und schwarzem Tee (vollstaendig oxidiert) in Bezug auf den Catechingehalt. Einige Studien legen nahe, dass Oolong einzigartige Polyphenolprofile aus der Teiloxidation hat, aber die gesundheitlichen Unterschiede zwischen Teesorten sind gering. Die beste Wahl ist die, die man tatsaechlich regelmaessig trinkt."
-    },
-    {
-      "question": "Warum schmeckt Oolong so anders als gruener oder schwarzer Tee?",
-      "answer": "Die Teiloxidation des Oolongs ist entscheidend. Die Teeblatter werden absichtlich teilweise oxidiert, bevor der Prozess durch Hitze gestoppt wird (Kill-Green-Schritt). Dadurch entstehen komplexe Aromaverbindungen, die weder im unoxidierten gruenen Tee noch im vollstaendig oxidierten schwarzen Tee vorkommen. Die Roestedimension fuegt eine weitere Ebene hinzu. Das Ergebnis ist ein Spektrum von Geschmacksprofilen -- von blumig und frisch bis mineralisch und karamellartig."
-    },
-    {
-      "question": "Welche Wassertemperatur ist am besten fuer Oolong-Tee?",
-      "answer": "Leichte, gruene Oolongs (Ali Shan, gruener Tie Guan Yin): 85-90°C. Mittelschwer geroestete Oolongs (Dong Ding): 90°C. Stark geroestete Oolongs (Da Hong Pao, traditioneller Tie Guan Yin): 90-95°C. Kochendes Wasser fuer leichte Oolongs vermeiden -- es loest ueberschuessige Bitterkeit und zerstoert empfindliche Aromaten. Geroestete Oolongs profitieren von hoeheren Temperaturen fuer eine vollstaendige Extraktion."
+      "heading": "Fazit",
+      "paragraphs": [
+        "Fuer einen Einstieg in Oolong, der nicht ueberwaeltigt, bietet Ali Shan High Mountain blumige Zugaenglichkeit. Fuer das massgebliche chinesische Felsenoolong-Erlebnis ist Da Hong Pao aus Wuyi die Referenz. Wer einen Alltagstee sucht, der zur Mahlzeit passt, findet im Dong Ding mit mittlerer Roestung einen zuverlaessigen und verzeihenden Begleiter. Der groesste Fehler neuer Oolong-Geniesser ist es, alle Oolongs gleich zuzubereiten -- Temperatur und Ziehzeit muessen je nach Oxidations- und Roeststufe angepasst werden."
+      ]
     }
   ],
-  "conclusion": "Fuer einen Einstieg in Oolong, der nicht ueberwaeltigt, bietet Ali Shan High Mountain blumige Zugaenglichkeit. Fuer das massgebliche chinesische Felsenoolong-Erlebnis ist Da Hong Pao aus Wuyi die Referenz. Wer einen Alltagstee sucht, der zur Mahlzeit passt, findet im Dong Ding mit mittlerer Roestung einen zuverlaessigen und verzeihenden Begleiter. Der groesste Fehler neuer Oolong-Geniesser ist es, alle Oolongs gleich zuzubereiten -- Temperatur und Ziehzeit muessen je nach Oxidations- und Roeststufe angepasst werden."
+  "faqs": [
+    {
+      "q": "Wie oft kann ich Oolong-Tee aufgiessen?",
+      "a": "Guter Oolong kann mit Gongfu-Zubereitung 4-8 Mal aufgegossen werden. Der erste Aufguss (5-10 Sekunden) weckt das Blatt. Der dritte und vierte Aufguss liefern oft die komplexesten, vollmundigsten Tassen. Jeder weitere Aufguss braucht etwas mehr Zeit. Nach 6-8 Aufguessen nimmt der Geschmack ab. Stark geroestete Oolongs halten weniger Aufguesse aus als leicht geroestete. Westliche Zubereitung (ein Aufguss von 2-3 Minuten) extrahiert mehr auf einmal, aber man verliert die Entwicklung ueber mehrere Aufguesse."
+    },
+    {
+      "q": "Ist Oolong gesünder als gruener oder schwarzer Tee?",
+      "a": "Alle Tees der Camellia-sinensis-Pflanze enthalten Polyphenole und Antioxidantien. Oolong liegt zwischen gruenem (weniger verarbeitet) und schwarzem Tee (vollstaendig oxidiert) in Bezug auf den Catechingehalt. Einige Studien legen nahe, dass Oolong einzigartige Polyphenolprofile aus der Teiloxidation hat, aber die gesundheitlichen Unterschiede zwischen Teesorten sind gering. Die beste Wahl ist die, die man tatsaechlich regelmaessig trinkt."
+    },
+    {
+      "q": "Warum schmeckt Oolong so anders als gruener oder schwarzer Tee?",
+      "a": "Die Teiloxidation des Oolongs ist entscheidend. Die Teeblatter werden absichtlich teilweise oxidiert, bevor der Prozess durch Hitze gestoppt wird (Kill-Green-Schritt). Dadurch entstehen komplexe Aromaverbindungen, die weder im unoxidierten gruenen Tee noch im vollstaendig oxidierten schwarzen Tee vorkommen. Die Roestedimension fuegt eine weitere Ebene hinzu. Das Ergebnis ist ein Spektrum von Geschmacksprofilen -- von blumig und frisch bis mineralisch und karamellartig."
+    },
+    {
+      "q": "Welche Wassertemperatur ist am besten fuer Oolong-Tee?",
+      "a": "Leichte, gruene Oolongs (Ali Shan, gruener Tie Guan Yin): 85-90°C. Mittelschwer geroestete Oolongs (Dong Ding): 90°C. Stark geroestete Oolongs (Da Hong Pao, traditioneller Tie Guan Yin): 90-95°C. Kochendes Wasser fuer leichte Oolongs vermeiden -- es loest ueberschuessige Bitterkeit und zerstoert empfindliche Aromaten. Geroestete Oolongs profitieren von hoeheren Temperaturen fuer eine vollstaendige Extraktion."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "alishan-high-mountain-oolong",
+      "badge": "Bester leichter Oolong",
+      "review": "Ali Shan waechst in 1.200-1.600 Metern Hoehe in Taiwans Chiayi-Bergen -- die Hoehenlage verlangsamt das Blattwachstum und konzentriert die Aromen. Das Ergebnis ist ein leicht oxidierter, leicht geroesteter Oolong mit charakteristischem Blumenaroma (orchideenaehnlich), cremiger Textur und einer natuerlichen Suesse, die nachklingt. Mehrfache Aufguesse: der dritte und vierte liefern oft den besten Aufguss. Wer bisher gruenen Tee getrunken hat und Oolong ausprobieren moechte, findet im Ali Shan den zugaenglichen Einstieg -- blumig und angenehm ohne die Komplexitaet stark geroesteter Stile.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "da-hong-pao-wuyi-rock",
+      "badge": "Bester Felsenoolong",
+      "review": "Da Hong Pao gehoert zu den beruehmtesten chinesischen Tees -- urspruenglich von wenigen alten Strauchern in Fujians Wuyi-Bergen. Moderner kommerzieller Da Hong Pao ist ein spezifisch mineral-betonter geroesteter Oolong mit Noten von dunklem Karamell, Steinfruechtden und Mineralitaet, der seinesgleichen in der Kategorie sucht. Die starke Roestung neutralisiert Koffein teilweise und ergibt einen wohltuenden, komplexen Aufguss. Am besten mit Wasser bei 90-95°C. Wer verstehen moechte, warum Felsenoolong seine eigene treue Anhaengerschaft hat, fangt hier an.",
+      "grade": "A"
+    },
+    {
+      "offerId": "dong-ding-oolong",
+      "badge": "Bester Oolong mit mittlerer Roestung",
+      "review": "Dong Ding ist der klassische taiwanesische Oolong mit mittlerer Roestung -- ein Referenzpunkt fuer diesen Stil. Im Nantou County angebaut, ist er staerker oxidiert und geröstet als Ali Shan, mit Noten von geroestem Getreide neben Fruechtigkeit und einem runden, vollen Koerper. Die Roestung glaettet eventuelle Rauheiten und macht ihn bei leichtem Ueberziehen verzeihender als leichtere Stile. Hervorragend zur Mahlzeit -- passt gut zu gebratenem Fleisch und herzhaften Gerichten. Mehrfache Aufguesse eignen sich gut fuer Gongfu-Zubereitung; eine Teekanne liefert einen klaren, vollmundigen Aufguss.",
+      "grade": "A"
+    },
+    {
+      "offerId": "li-shan-high-mountain-oolong",
+      "badge": "Bester Premium-Taiwan-Oolong",
+      "review": "Li Shan waechst in 2.200-2.600 Metern -- unter den Tees mit der hoechsten Anbauhoehe in Taiwan. Die Kombination aus kuehlen Naechten, Morgennebel und langsamer Wachstumssaison erzeugt ein intensives, konzentriertes Blumenprofil mit langem, seidigem Abgang. Dies ist ein Premiumtee -- spiuerbar besser als die meisten Ali Shan auf dem Markt, wenn er echt ist. Die Geschmackskomplexitaet entfaltet sich ueber mehrere Aufguesse: der erste ist zart, der dritte oder vierte oft der Hoehepunkt. Den Premiumpreis wert fuer alle, die Hochgebirgs-Oolongs ernst nehmen.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "tie-guan-yin-anxi",
+      "badge": "Bester klassischer chinesischer Oolong",
+      "review": "Tie Guan Yin aus Anxi, Fujian, ist einer der zehn beruehmten Tees Chinas und der massgebliche leicht oxidierte chinesische Oolong. Der Name bedeutet Eiserne Goettin der Barmherzigkeit. Moderne Stile tendieren zu floral-orchideenhaft mit einem klaren, frischen Charakter; traditionelle Stile haben mehr Roestung. Der gruene Stil (leichte Oxidation) ergibt eine klare, blassige Infusion mit ausgepraegten Orchideen- und Lilienaromen. Weniger Koffein als stark geroestete Oolongs. Gut fuer den taeglichen Genuss und zugaenglicher Preis. Wer einen klassischen chinesischen Oolong sucht, um die Kategorie zu verstehen, fuer den ist Tie Guan Yin die wesentliche Referenz.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Bester leichter Oolong",
+      "offerId": "alishan-high-mountain-oolong",
+      "reason": "Ali Shan waechst in 1.200-1.600 Metern Hoehe in Taiwans Chiayi-Bergen -- die Hoehenlage verlangsamt das Blattwachstum und konze..."
+    },
+    {
+      "label": "Bester Felsenoolong",
+      "offerId": "da-hong-pao-wuyi-rock",
+      "reason": "Da Hong Pao gehoert zu den beruehmtesten chinesischen Tees -- urspruenglich von wenigen alten Strauchern in Fujians Wuyi-Bergen."
+    },
+    {
+      "label": "Bester Oolong mit mittlerer Roestung",
+      "offerId": "dong-ding-oolong",
+      "reason": "Dong Ding ist der klassische taiwanesische Oolong mit mittlerer Roestung -- ein Referenzpunkt fuer diesen Stil."
+    },
+    {
+      "label": "Bester Premium-Taiwan-Oolong",
+      "offerId": "li-shan-high-mountain-oolong",
+      "reason": "Li Shan waechst in 2.200-2.600 Metern -- unter den Tees mit der hoechsten Anbauhoehe in Taiwan."
+    },
+    {
+      "label": "Bester klassischer chinesischer Oolong",
+      "offerId": "tie-guan-yin-anxi",
+      "reason": "Tie Guan Yin aus Anxi, Fujian, ist einer der zehn beruehmten Tees Chinas und der massgebliche leicht oxidierte chinesische Oolong."
+    }
+  ]
 }

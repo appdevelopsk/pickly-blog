@@ -85,8 +85,6 @@ export interface ArticleContent {
   pinDescription?: string;
   /** Optional methodology/testing criteria statement shown before the ranking */
   methodology?: string;
-  /** Optional expert reviewer for credibility */
-  expert?: { name: string; title: string; bio: string; imageUrl?: string };
   /** Optional "recommended for" matrix — maps buyer personas to specific offers */
   recommendedFor?: { label: string; offerId: string; reason: string }[];
 }

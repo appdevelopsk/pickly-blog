@@ -1,73 +1,123 @@
 {
   "title": "Best Hibiscus Tea 2026: Tart, Vibrant, and Actually Beneficial",
   "description": "We tested 5 hibiscus teas for tartness intensity, color depth, and quality. Loose hibiscus flowers to tea bags — here's what delivers the real experience.",
-  "intro": "Hibiscus tea has one of the most recognizable flavors in herbal tea — tart, cranberry-adjacent, and intensely colored. But quality varies significantly between full dried hibiscus flowers and processed blends that dilute the character with filler herbs. We tested five options to find where you get genuine hibiscus flavor versus a pale imitation.",
-  "products": {
-    "frontier-co-op-hibiscus-flowers": {
-      "name": "Frontier Co-op Hibiscus Flowers",
-      "badge": "Best Loose Hibiscus",
-      "review": "Frontier Co-op's dried hibiscus flowers are the benchmark for loose hibiscus — the whole and cut dried calyxes brew a deep ruby red with intense tartness and a fruity, cranberry-like depth that teabag hibiscus rarely achieves. The organic certification means you're getting hibiscus without pesticide residue, which matters more than with processed teas since hibiscus is the entirety of what you're drinking. Use 1 tablespoon per 8 oz water, steep 5-7 minutes in near-boiling water. The result is the closest to agua de jamaica (Mexican hibiscus water) that you can make at home without a specialty store. Also works cold-steeped overnight for a stunning deep red iced tea."
-    },
-    "harney-sons-hibiscus-blend": {
-      "name": "Harney & Sons Hibiscus Herbal Tea",
-      "badge": "Best Premium Hibiscus Blend",
-      "review": "Harney & Sons hibiscus blend combines hibiscus with complementary herbs (rose hips, chamomile) that round out the tartness without diluting the hibiscus character. The quality sourcing is evident in the color — this brews a proper deep red-purple, not the pale pink of lesser hibiscus products. The blend adds a slight floral note from chamomile and a mild sweetness from rosehips that makes it more balanced than pure hibiscus for those who find straight hibiscus too sharp. The tin packaging maintains freshness. For a hibiscus tea that's more nuanced than pure flowers but still hibiscus-forward, this is the pick."
-    },
-    "bigelow-benefits-hibiscus": {
-      "name": "Bigelow Benefits Hibiscus",
-      "badge": "Best Everyday Hibiscus Tea",
-      "review": "Bigelow's hibiscus benefits tea is the accessible standard for everyday hibiscus — it brews a good color, delivers adequate tartness, and is available everywhere at a price that makes daily drinking sustainable. The benefits line version adds mint, which lifts the tartness with a cool note that many drinkers prefer to straight hibiscus. The foil-wrapped bags maintain freshness adequately. If you want hibiscus tea as a regular habit without the effort of loose flower preparation, Bigelow delivers a consistent product at a reasonable price. Not the most intense hibiscus experience, but reliable for what it is."
-    },
-    "celestial-seasonings-wild-berry-zinger": {
-      "name": "Celestial Seasonings Wild Berry Zinger",
-      "badge": "Best Budget Hibiscus Option",
-      "review": "Wild Berry Zinger has hibiscus as its base with sweet berry notes added — it's less pure hibiscus and more of a fruity herbal blend, but it represents the accessible, widely available entry point to the hibiscus tea category. The tartness is more muted than pure hibiscus due to the blending, which makes it easier for those new to hibiscus. Brews a bright red-pink color. The price per bag is genuinely low. For someone who wants to try hibiscus tea without commitment, or a household tea that most people find approachable regardless of hibiscus preference, this is the pragmatic choice."
-    },
-    "republic-of-tea-hibiscus-superflower": {
-      "name": "Republic of Tea Hibiscus Superflower",
-      "badge": "Best Hibiscus for Cold Brew",
-      "review": "Republic of Tea's Hibiscus Superflower positions hibiscus tea in the wellness space — it's a single-ingredient hibiscus that emphasizes the cardiovascular and blood pressure research behind regular hibiscus consumption. The whole flower sachets in the Republic of Tea tin preserve the dried calyxes better than cut hibiscus in flat bags, which means more surface area is preserved until brewing. Cold brewing this overnight produces an excellent concentrated hibiscus base that you can dilute for iced tea, use as a mixer, or serve over ice directly. The tin keeps the floral notes from dissipating between uses."
-    }
-  },
-  "buyingGuide": {
-    "title": "How to Choose Hibiscus Tea",
-    "intro": "Flower quality, whether it's pure hibiscus or a blend, and intended use (hot vs. cold brew) are the main decisions.",
-    "factors": [
-      {
-        "name": "Whole Flowers vs. Cut vs. Powder",
-        "detail": "Whole or large-cut dried hibiscus calyxes retain more of the tart flavor compounds and produce deeper color than finely cut or powdered hibiscus. This is the primary quality indicator. The deep ruby color of well-made hibiscus tea comes from the anthocyanins in the calyxes — finer processing degrades these. Buy loose whole flowers or tea products that use visible full-cut calyxes for the best result."
-      },
-      {
-        "name": "Pure Hibiscus vs. Blends",
-        "detail": "Pure hibiscus is intensely tart — some find it sharp enough to need sweetening. Blends that add rosehips, chamomile, or berries soften the tartness and add complexity. Neither is better — it depends on whether you want the pure flavor experience or a more balanced cup. For culinary uses (agua de jamaica, cocktail mixers, syrups), pure hibiscus is correct. For daily drinking, a blend may be more sustainable."
-      },
-      {
-        "name": "Hot vs. Cold Brew Method",
-        "detail": "Hibiscus is exceptional cold-brewed — place whole flowers in cold water for 8-12 hours in the refrigerator. Cold brew extracts the tartness and color without the slightly astringent note that can appear with hot water over-steeping. Hot brewing is fine (2-5 minutes, near-boiling water), but don't over-steep as hibiscus can turn slightly bitter. Cover while steeping to trap volatile aromatic compounds."
-      },
-      {
-        "name": "Potential Health Interactions",
-        "detail": "Hibiscus has genuine evidence for modest blood pressure reduction with regular consumption. This is generally positive for most adults but important to know if you take antihypertensive medications — check with your doctor if combining. Hibiscus also has mild diuretic properties. It's not a concern for most people drinking 1-2 cups daily, but awareness is appropriate for anyone managing blood pressure or kidney conditions."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "Hibiscus tea has one of the most recognizable flavors in herbal tea — tart, cranberry-adjacent, and intensely colored. But quality varies significantly between full dried hibiscus flowers and processed blends that dilute the character with filler herbs. We tested five options to find where you get genuine hibiscus flavor versus a pale imitation.",
+  "sections": [
     {
-      "question": "What does hibiscus tea taste like?",
-      "answer": "Hibiscus tea tastes like a tart, fruity herbal tea — the closest comparison is unsweetened cranberry juice or a very tart berry. The flavor is bright, acidic, and slightly astringent. Most people add a small amount of honey or sugar because pure hibiscus is quite tart. The color is an intense ruby red that's visually striking. Cold or iced hibiscus tea is particularly refreshing because the tartness works well at cold temperatures."
+      "heading": "How to Choose Hibiscus Tea",
+      "paragraphs": [
+        "Flower quality, whether it's pure hibiscus or a blend, and intended use (hot vs. cold brew) are the main decisions."
+      ],
+      "subsections": [
+        {
+          "heading": "Whole Flowers vs. Cut vs. Powder",
+          "paragraphs": [
+            "Whole or large-cut dried hibiscus calyxes retain more of the tart flavor compounds and produce deeper color than finely cut or powdered hibiscus. This is the primary quality indicator. The deep ruby color of well-made hibiscus tea comes from the anthocyanins in the calyxes — finer processing degrades these. Buy loose whole flowers or tea products that use visible full-cut calyxes for the best result."
+          ]
+        },
+        {
+          "heading": "Pure Hibiscus vs. Blends",
+          "paragraphs": [
+            "Pure hibiscus is intensely tart — some find it sharp enough to need sweetening. Blends that add rosehips, chamomile, or berries soften the tartness and add complexity. Neither is better — it depends on whether you want the pure flavor experience or a more balanced cup. For culinary uses (agua de jamaica, cocktail mixers, syrups), pure hibiscus is correct. For daily drinking, a blend may be more sustainable."
+          ]
+        },
+        {
+          "heading": "Hot vs. Cold Brew Method",
+          "paragraphs": [
+            "Hibiscus is exceptional cold-brewed — place whole flowers in cold water for 8-12 hours in the refrigerator. Cold brew extracts the tartness and color without the slightly astringent note that can appear with hot water over-steeping. Hot brewing is fine (2-5 minutes, near-boiling water), but don't over-steep as hibiscus can turn slightly bitter. Cover while steeping to trap volatile aromatic compounds."
+          ]
+        },
+        {
+          "heading": "Potential Health Interactions",
+          "paragraphs": [
+            "Hibiscus has genuine evidence for modest blood pressure reduction with regular consumption. This is generally positive for most adults but important to know if you take antihypertensive medications — check with your doctor if combining. Hibiscus also has mild diuretic properties. It's not a concern for most people drinking 1-2 cups daily, but awareness is appropriate for anyone managing blood pressure or kidney conditions."
+          ]
+        }
+      ]
     },
     {
-      "question": "Does hibiscus tea lower blood pressure?",
-      "answer": "Multiple controlled studies show that regular hibiscus tea consumption (2-3 cups daily) produces modest but statistically significant blood pressure reductions, particularly in people with stage 1 hypertension. The effect is not dramatic enough to replace medication, but it's meaningful as a dietary complement. The mechanism involves hibiscus anthocyanins acting on ACE activity. People on antihypertensive medications should monitor blood pressure if adding hibiscus regularly."
-    },
-    {
-      "question": "Can you use hibiscus tea for cocktails?",
-      "answer": "Yes — cold-brewed concentrated hibiscus is an excellent cocktail ingredient. It provides natural red-purple color without artificial dyes, a tart and fruity flavor, and pairs well with gin, rum, tequila, and vodka. Hibiscus margaritas (using hibiscus syrup or hibiscus salt rim) are popular for a reason. You can make hibiscus syrup by simmering equal parts strong hibiscus tea and sugar until thickened."
-    },
-    {
-      "question": "Is hibiscus tea safe during pregnancy?",
-      "answer": "Hibiscus tea is generally not recommended during pregnancy. Some animal studies suggest high doses of hibiscus may affect estrogen levels or have emmenagogue (uterine stimulating) effects. While normal consumption is likely low-risk, most healthcare providers recommend avoiding hibiscus tea as a precaution during pregnancy and breastfeeding. Consult your healthcare provider."
+      "heading": "Bottom line",
+      "paragraphs": [
+        "For the purest, most intense hibiscus experience and culinary uses, Frontier Co-op whole dried flowers are unmatched at their price. Harney & Sons' blend is the pick for a more nuanced daily tea. For cold brew and wellness-focused drinking, Republic of Tea's Superflower sachets in their airtight tin are excellent. The quality mistake to avoid is buying hibiscus tea with pale pink liquor — if it doesn't brew deep ruby red, the hibiscus content is too low."
+      ]
     }
   ],
-  "conclusion": "For the purest, most intense hibiscus experience and culinary uses, Frontier Co-op whole dried flowers are unmatched at their price. Harney & Sons' blend is the pick for a more nuanced daily tea. For cold brew and wellness-focused drinking, Republic of Tea's Superflower sachets in their airtight tin are excellent. The quality mistake to avoid is buying hibiscus tea with pale pink liquor — if it doesn't brew deep ruby red, the hibiscus content is too low."
+  "faqs": [
+    {
+      "q": "What does hibiscus tea taste like?",
+      "a": "Hibiscus tea tastes like a tart, fruity herbal tea — the closest comparison is unsweetened cranberry juice or a very tart berry. The flavor is bright, acidic, and slightly astringent. Most people add a small amount of honey or sugar because pure hibiscus is quite tart. The color is an intense ruby red that's visually striking. Cold or iced hibiscus tea is particularly refreshing because the tartness works well at cold temperatures."
+    },
+    {
+      "q": "Does hibiscus tea lower blood pressure?",
+      "a": "Multiple controlled studies show that regular hibiscus tea consumption (2-3 cups daily) produces modest but statistically significant blood pressure reductions, particularly in people with stage 1 hypertension. The effect is not dramatic enough to replace medication, but it's meaningful as a dietary complement. The mechanism involves hibiscus anthocyanins acting on ACE activity. People on antihypertensive medications should monitor blood pressure if adding hibiscus regularly."
+    },
+    {
+      "q": "Can you use hibiscus tea for cocktails?",
+      "a": "Yes — cold-brewed concentrated hibiscus is an excellent cocktail ingredient. It provides natural red-purple color without artificial dyes, a tart and fruity flavor, and pairs well with gin, rum, tequila, and vodka. Hibiscus margaritas (using hibiscus syrup or hibiscus salt rim) are popular for a reason. You can make hibiscus syrup by simmering equal parts strong hibiscus tea and sugar until thickened."
+    },
+    {
+      "q": "Is hibiscus tea safe during pregnancy?",
+      "a": "Hibiscus tea is generally not recommended during pregnancy. Some animal studies suggest high doses of hibiscus may affect estrogen levels or have emmenagogue (uterine stimulating) effects. While normal consumption is likely low-risk, most healthcare providers recommend avoiding hibiscus tea as a precaution during pregnancy and breastfeeding. Consult your healthcare provider."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "frontier-co-op-hibiscus-flowers",
+      "badge": "Best Loose Hibiscus",
+      "review": "Frontier Co-op's dried hibiscus flowers are the benchmark for loose hibiscus — the whole and cut dried calyxes brew a deep ruby red with intense tartness and a fruity, cranberry-like depth that teabag hibiscus rarely achieves. The organic certification means you're getting hibiscus without pesticide residue, which matters more than with processed teas since hibiscus is the entirety of what you're drinking. Use 1 tablespoon per 8 oz water, steep 5-7 minutes in near-boiling water. The result is the closest to agua de jamaica (Mexican hibiscus water) that you can make at home without a specialty store. Also works cold-steeped overnight for a stunning deep red iced tea.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "harney-sons-hibiscus-blend",
+      "badge": "Best Premium Hibiscus Blend",
+      "review": "Harney & Sons hibiscus blend combines hibiscus with complementary herbs (rose hips, chamomile) that round out the tartness without diluting the hibiscus character. The quality sourcing is evident in the color — this brews a proper deep red-purple, not the pale pink of lesser hibiscus products. The blend adds a slight floral note from chamomile and a mild sweetness from rosehips that makes it more balanced than pure hibiscus for those who find straight hibiscus too sharp. The tin packaging maintains freshness. For a hibiscus tea that's more nuanced than pure flowers but still hibiscus-forward, this is the pick.",
+      "grade": "A"
+    },
+    {
+      "offerId": "bigelow-benefits-hibiscus",
+      "badge": "Best Everyday Hibiscus Tea",
+      "review": "Bigelow's hibiscus benefits tea is the accessible standard for everyday hibiscus — it brews a good color, delivers adequate tartness, and is available everywhere at a price that makes daily drinking sustainable. The benefits line version adds mint, which lifts the tartness with a cool note that many drinkers prefer to straight hibiscus. The foil-wrapped bags maintain freshness adequately. If you want hibiscus tea as a regular habit without the effort of loose flower preparation, Bigelow delivers a consistent product at a reasonable price. Not the most intense hibiscus experience, but reliable for what it is.",
+      "grade": "A"
+    },
+    {
+      "offerId": "celestial-seasonings-wild-berry-zinger",
+      "badge": "Best Budget Hibiscus Option",
+      "review": "Wild Berry Zinger has hibiscus as its base with sweet berry notes added — it's less pure hibiscus and more of a fruity herbal blend, but it represents the accessible, widely available entry point to the hibiscus tea category. The tartness is more muted than pure hibiscus due to the blending, which makes it easier for those new to hibiscus. Brews a bright red-pink color. The price per bag is genuinely low. For someone who wants to try hibiscus tea without commitment, or a household tea that most people find approachable regardless of hibiscus preference, this is the pragmatic choice.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "republic-of-tea-hibiscus-superflower",
+      "badge": "Best Hibiscus for Cold Brew",
+      "review": "Republic of Tea's Hibiscus Superflower positions hibiscus tea in the wellness space — it's a single-ingredient hibiscus that emphasizes the cardiovascular and blood pressure research behind regular hibiscus consumption. The whole flower sachets in the Republic of Tea tin preserve the dried calyxes better than cut hibiscus in flat bags, which means more surface area is preserved until brewing. Cold brewing this overnight produces an excellent concentrated hibiscus base that you can dilute for iced tea, use as a mixer, or serve over ice directly. The tin keeps the floral notes from dissipating between uses.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Best Loose Hibiscus",
+      "offerId": "frontier-co-op-hibiscus-flowers",
+      "reason": "Frontier Co-op's dried hibiscus flowers are the benchmark for loose hibiscus — the whole and cut dried calyxes brew a deep ruby..."
+    },
+    {
+      "label": "Best Premium Hibiscus Blend",
+      "offerId": "harney-sons-hibiscus-blend",
+      "reason": "Harney & Sons hibiscus blend combines hibiscus with complementary herbs (rose hips, chamomile) that round out the tartness with..."
+    },
+    {
+      "label": "Best Everyday Hibiscus Tea",
+      "offerId": "bigelow-benefits-hibiscus",
+      "reason": "Bigelow's hibiscus benefits tea is the accessible standard for everyday hibiscus — it brews a good color, delivers adequate tar..."
+    },
+    {
+      "label": "Best Budget Hibiscus Option",
+      "offerId": "celestial-seasonings-wild-berry-zinger",
+      "reason": "Wild Berry Zinger has hibiscus as its base with sweet berry notes added — it's less pure hibiscus and more of a fruity herbal b..."
+    },
+    {
+      "label": "Best Hibiscus for Cold Brew",
+      "offerId": "republic-of-tea-hibiscus-superflower",
+      "reason": "Republic of Tea's Hibiscus Superflower positions hibiscus tea in the wellness space — it's a single-ingredient hibiscus that em..."
+    }
+  ]
 }

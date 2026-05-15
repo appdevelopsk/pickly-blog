@@ -1,73 +1,123 @@
 {
   "title": "Best Lacrosse Stick 2026: Attack, Midfield, and Defense Picks Tested",
   "description": "We tested 5 lacrosse sticks across skill levels and positions. Complete sticks to high-performance heads and shafts — here's what actually improves your game.",
-  "intro": "Choosing a lacrosse stick requires matching the position, skill level, and whether you want a complete stick or a separate head-and-shaft combination. We tested five options from beginner-complete to high-performance attack setups to identify where equipment genuinely matters and where upgrading is marginal.",
-  "products": {
-    "stx-stallion-u-complete-stick": {
-      "name": "STX Stallion U Complete Lacrosse Stick",
-      "badge": "Best Overall Complete Stick",
-      "review": "The STX Stallion U is the standard recommendation for players moving into serious play from beginner equipment — it bridges the gap between toy complete sticks and performance separate purchases. The Stallion U head has adequate offset, reasonable sidewall stiffness for a mid-range head, and comes strung with a mesh that's playable out of the box. The aluminum handle is serviceable for most players at this level, though serious players will eventually swap to a composite shaft. This is the right complete stick for a high school player or adult beginner who wants to improve without immediately needing to buy components separately. The price is honest for what you get."
-    },
-    "epoch-hawk-iq9": {
-      "name": "Epoch Hawk iQ9 Complete Stick",
-      "badge": "Best Performance Attack Stick",
-      "review": "Epoch's Hawk iQ9 is a high-performance attack setup — the iQ9 head has a narrow throat, aggressive offset, and stiff sidewalls that give precise ball control at attack-level speeds and contact. The Dragonfly shaft is lighter than most competitors at its performance tier and has excellent grip. This is the stick for a serious attack player who wants to feel the difference quality equipment makes for quick stick work, feeds, and finishing. The stringing that comes with it is above average. Expect to pay the premium price and understand that it's targeting serious and collegiate-level attack players, not beginners."
-    },
-    "warrior-evo-complete-stick": {
-      "name": "Warrior Evo Complete Lacrosse Stick",
-      "badge": "Best Value Mid-Range",
-      "review": "The Warrior Evo complete stick occupies the sweet spot for recreational and high school players who want reliable equipment without paying for college-level performance. The Evo head has good pocket depth control, adequate sidewall for throwing and catching at normal game speeds, and the stringing is reliable. The aluminum shaft handles normal play without issues. The price-to-performance ratio is better than most complete sticks in this range. For players who participate in recreational leagues or high school ball who don't need elite performance but want to avoid toy-quality gear, the Warrior Evo is a sensible choice."
-    },
-    "maverik-lacrosse-complete-stick": {
-      "name": "Maverik Lacrosse Complete Stick",
-      "badge": "Best for Midfielders",
-      "review": "Maverik's complete stick is engineered with midfielders in mind — the head design balances throwing accuracy with face-off and ground ball pickup, which attackers and defenders don't need to balance the same way. The head's wider throat compared to attack-optimized designs gives more forgiveness on pickups and catches while retaining adequate throwing accuracy. Maverik's build quality is consistently good and the shaft provides enough stiffness for normal mid-field use. For a midfielder looking for their first non-beginner stick, Maverik's complete option covers the positions where they'll spend their time on the field."
-    },
-    "stx-crux-200-womens-stick": {
-      "name": "STX Crux 200 Women's Complete Stick",
-      "badge": "Best Women's Lacrosse Stick",
-      "review": "Women's lacrosse uses shallower pocket depth regulations and different head shapes than men's, which makes women's-specific equipment necessary — not interchangeable. The STX Crux 200 is designed for the women's game with an appropriate pocket, lighter shaft, and head geometry that suits women's style of play. The mesh is legal for women's play regulations. For women or girls new to lacrosse or upgrading from beginner equipment, the Crux 200 provides quality components specifically designed for the women's version of the game rather than adapted men's gear."
-    }
-  },
-  "buyingGuide": {
-    "title": "How to Choose a Lacrosse Stick",
-    "intro": "Position, skill level, and complete vs. component decisions are the three main variables when choosing a lacrosse stick.",
-    "factors": [
-      {
-        "name": "Position-Specific Head Design",
-        "detail": "Attack heads are narrow with aggressive offset for quick releases and tight cradles. Midfield heads are more universal — less extreme offset, wider throat for ground balls. Defense heads have wider throat and different sidewall geometry for defensive clears and checks. Using the wrong head design for your position is a common mistake. Beginners can start with a universal head, but as you develop you'll notice the difference."
-      },
-      {
-        "name": "Complete Stick vs. Separate Head and Shaft",
-        "detail": "Complete sticks are convenient but compromise — the head, shaft, and stringing are all mid-tier to keep the price accessible. Buying separately lets you choose best-in-class for each component, though it costs more. Most serious high school and college players buy head and shaft separately. Beginners and recreational players usually do well with a complete stick. The performance gap between a good complete stick and a separately-built setup becomes noticeable at intermediate and above."
-      },
-      {
-        "name": "Shaft Material",
-        "detail": "Aluminum shafts are affordable and serviceable. Titanium alloy is stronger and lighter. Carbon fiber and composite shafts are lightest and stiffest — preferred by serious players for their feel and durability. The shaft matters more than many players expect: a heavy shaft causes fatigue and affects stick skill. Once you've played with a good composite shaft, going back to aluminum feels punishing."
-      },
-      {
-        "name": "Traditional vs. Mesh Stringing",
-        "detail": "Modern lacrosse almost universally uses mesh stringing (East Coast Mesh and variants). Traditional leathers are used by some players for feel but require more maintenance. Mesh is more consistent, weather-resistant, and forgiving for most players. The pocket depth and tension are more important than mesh type — a poorly strung stick with premium mesh is worse than a well-strung stick with mid-tier mesh. Learning to restring your own stick is worth the time investment."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "Choosing a lacrosse stick requires matching the position, skill level, and whether you want a complete stick or a separate head-and-shaft combination. We tested five options from beginner-complete to high-performance attack setups to identify where equipment genuinely matters and where upgrading is marginal.",
+  "sections": [
     {
-      "question": "What size lacrosse stick should a beginner buy?",
-      "answer": "For men's field lacrosse: complete sticks typically come with a 30-inch shaft for adults. Youth players (under 12) need shorter shafts. Women's lacrosse uses a different length standard. Goalie sticks use wider heads and longer shafts. Defense players sometimes use long poles (60 inch). When starting, buy a standard 30-inch adult shaft or age-appropriate complete stick — worry about optimizing length once you understand what you're playing."
+      "heading": "How to Choose a Lacrosse Stick",
+      "paragraphs": [
+        "Position, skill level, and complete vs. component decisions are the three main variables when choosing a lacrosse stick."
+      ],
+      "subsections": [
+        {
+          "heading": "Position-Specific Head Design",
+          "paragraphs": [
+            "Attack heads are narrow with aggressive offset for quick releases and tight cradles. Midfield heads are more universal — less extreme offset, wider throat for ground balls. Defense heads have wider throat and different sidewall geometry for defensive clears and checks. Using the wrong head design for your position is a common mistake. Beginners can start with a universal head, but as you develop you'll notice the difference."
+          ]
+        },
+        {
+          "heading": "Complete Stick vs. Separate Head and Shaft",
+          "paragraphs": [
+            "Complete sticks are convenient but compromise — the head, shaft, and stringing are all mid-tier to keep the price accessible. Buying separately lets you choose best-in-class for each component, though it costs more. Most serious high school and college players buy head and shaft separately. Beginners and recreational players usually do well with a complete stick. The performance gap between a good complete stick and a separately-built setup becomes noticeable at intermediate and above."
+          ]
+        },
+        {
+          "heading": "Shaft Material",
+          "paragraphs": [
+            "Aluminum shafts are affordable and serviceable. Titanium alloy is stronger and lighter. Carbon fiber and composite shafts are lightest and stiffest — preferred by serious players for their feel and durability. The shaft matters more than many players expect: a heavy shaft causes fatigue and affects stick skill. Once you've played with a good composite shaft, going back to aluminum feels punishing."
+          ]
+        },
+        {
+          "heading": "Traditional vs. Mesh Stringing",
+          "paragraphs": [
+            "Modern lacrosse almost universally uses mesh stringing (East Coast Mesh and variants). Traditional leathers are used by some players for feel but require more maintenance. Mesh is more consistent, weather-resistant, and forgiving for most players. The pocket depth and tension are more important than mesh type — a poorly strung stick with premium mesh is worse than a well-strung stick with mid-tier mesh. Learning to restring your own stick is worth the time investment."
+          ]
+        }
+      ]
     },
     {
-      "question": "Can I use a men's lacrosse stick for women's lacrosse?",
-      "answer": "No. Women's lacrosse has specific equipment regulations including maximum pocket depth, which is stricter than men's. Men's sticks fail women's legal equipment checks. Women's heads are designed for shallower pockets and different play styles. Using men's equipment in women's games is both illegal and functionally worse for the women's game style."
-    },
-    {
-      "question": "How often should I restring my lacrosse stick?",
-      "answer": "Most serious players restring every 3-6 months with regular play, or when the mesh stretches noticeably or starts holding water. High-humidity environments degrade mesh faster. Learning to restring yourself takes an afternoon and saves money over paying someone to do it. Keep a spare pre-strung head if you play competitively so equipment issues don't interrupt games."
-    },
-    {
-      "question": "Does a better lacrosse stick actually make a difference?",
-      "answer": "Yes, but with diminishing returns. A beginner can't use an elite-level attack head better than a mid-range stick. The performance difference is felt at intermediate and above — better pocket consistency, lighter shaft weight improving endurance, and head stiffness affecting shooting power. The most impactful upgrade is usually the shaft (composite vs. aluminum), not the head. Beginner skill limits performance far more than equipment does."
+      "heading": "Bottom line",
+      "paragraphs": [
+        "The STX Stallion U is the right first upgrade from beginner gear for most players. Epoch Hawk iQ9 is for serious attack players who want elite equipment and will feel the difference. Midfielders should look at Maverik's universal head design, and women's players need STX Crux or equivalent women's-specific equipment. The single biggest equipment improvement most intermediate players can make is swapping an aluminum shaft for composite — the weight reduction is immediately noticeable in your stick work."
+      ]
     }
   ],
-  "conclusion": "The STX Stallion U is the right first upgrade from beginner gear for most players. Epoch Hawk iQ9 is for serious attack players who want elite equipment and will feel the difference. Midfielders should look at Maverik's universal head design, and women's players need STX Crux or equivalent women's-specific equipment. The single biggest equipment improvement most intermediate players can make is swapping an aluminum shaft for composite — the weight reduction is immediately noticeable in your stick work."
+  "faqs": [
+    {
+      "q": "What size lacrosse stick should a beginner buy?",
+      "a": "For men's field lacrosse: complete sticks typically come with a 30-inch shaft for adults. Youth players (under 12) need shorter shafts. Women's lacrosse uses a different length standard. Goalie sticks use wider heads and longer shafts. Defense players sometimes use long poles (60 inch). When starting, buy a standard 30-inch adult shaft or age-appropriate complete stick — worry about optimizing length once you understand what you're playing."
+    },
+    {
+      "q": "Can I use a men's lacrosse stick for women's lacrosse?",
+      "a": "No. Women's lacrosse has specific equipment regulations including maximum pocket depth, which is stricter than men's. Men's sticks fail women's legal equipment checks. Women's heads are designed for shallower pockets and different play styles. Using men's equipment in women's games is both illegal and functionally worse for the women's game style."
+    },
+    {
+      "q": "How often should I restring my lacrosse stick?",
+      "a": "Most serious players restring every 3-6 months with regular play, or when the mesh stretches noticeably or starts holding water. High-humidity environments degrade mesh faster. Learning to restring yourself takes an afternoon and saves money over paying someone to do it. Keep a spare pre-strung head if you play competitively so equipment issues don't interrupt games."
+    },
+    {
+      "q": "Does a better lacrosse stick actually make a difference?",
+      "a": "Yes, but with diminishing returns. A beginner can't use an elite-level attack head better than a mid-range stick. The performance difference is felt at intermediate and above — better pocket consistency, lighter shaft weight improving endurance, and head stiffness affecting shooting power. The most impactful upgrade is usually the shaft (composite vs. aluminum), not the head. Beginner skill limits performance far more than equipment does."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "stx-stallion-u-complete-stick",
+      "badge": "Best Overall Complete Stick",
+      "review": "The STX Stallion U is the standard recommendation for players moving into serious play from beginner equipment — it bridges the gap between toy complete sticks and performance separate purchases. The Stallion U head has adequate offset, reasonable sidewall stiffness for a mid-range head, and comes strung with a mesh that's playable out of the box. The aluminum handle is serviceable for most players at this level, though serious players will eventually swap to a composite shaft. This is the right complete stick for a high school player or adult beginner who wants to improve without immediately needing to buy components separately. The price is honest for what you get.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "epoch-hawk-iq9",
+      "badge": "Best Performance Attack Stick",
+      "review": "Epoch's Hawk iQ9 is a high-performance attack setup — the iQ9 head has a narrow throat, aggressive offset, and stiff sidewalls that give precise ball control at attack-level speeds and contact. The Dragonfly shaft is lighter than most competitors at its performance tier and has excellent grip. This is the stick for a serious attack player who wants to feel the difference quality equipment makes for quick stick work, feeds, and finishing. The stringing that comes with it is above average. Expect to pay the premium price and understand that it's targeting serious and collegiate-level attack players, not beginners.",
+      "grade": "A"
+    },
+    {
+      "offerId": "warrior-evo-complete-stick",
+      "badge": "Best Value Mid-Range",
+      "review": "The Warrior Evo complete stick occupies the sweet spot for recreational and high school players who want reliable equipment without paying for college-level performance. The Evo head has good pocket depth control, adequate sidewall for throwing and catching at normal game speeds, and the stringing is reliable. The aluminum shaft handles normal play without issues. The price-to-performance ratio is better than most complete sticks in this range. For players who participate in recreational leagues or high school ball who don't need elite performance but want to avoid toy-quality gear, the Warrior Evo is a sensible choice.",
+      "grade": "A"
+    },
+    {
+      "offerId": "maverik-lacrosse-complete-stick",
+      "badge": "Best for Midfielders",
+      "review": "Maverik's complete stick is engineered with midfielders in mind — the head design balances throwing accuracy with face-off and ground ball pickup, which attackers and defenders don't need to balance the same way. The head's wider throat compared to attack-optimized designs gives more forgiveness on pickups and catches while retaining adequate throwing accuracy. Maverik's build quality is consistently good and the shaft provides enough stiffness for normal mid-field use. For a midfielder looking for their first non-beginner stick, Maverik's complete option covers the positions where they'll spend their time on the field.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "stx-crux-200-womens-stick",
+      "badge": "Best Women's Lacrosse Stick",
+      "review": "Women's lacrosse uses shallower pocket depth regulations and different head shapes than men's, which makes women's-specific equipment necessary — not interchangeable. The STX Crux 200 is designed for the women's game with an appropriate pocket, lighter shaft, and head geometry that suits women's style of play. The mesh is legal for women's play regulations. For women or girls new to lacrosse or upgrading from beginner equipment, the Crux 200 provides quality components specifically designed for the women's version of the game rather than adapted men's gear.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "recommendedFor": [
+    {
+      "label": "Best Overall Complete Stick",
+      "offerId": "stx-stallion-u-complete-stick",
+      "reason": "The STX Stallion U is the standard recommendation for players moving into serious play from beginner equipment — it bridges the..."
+    },
+    {
+      "label": "Best Performance Attack Stick",
+      "offerId": "epoch-hawk-iq9",
+      "reason": "Epoch's Hawk iQ9 is a high-performance attack setup — the iQ9 head has a narrow throat, aggressive offset, and stiff sidewalls ..."
+    },
+    {
+      "label": "Best Value Mid-Range",
+      "offerId": "warrior-evo-complete-stick",
+      "reason": "The Warrior Evo complete stick occupies the sweet spot for recreational and high school players who want reliable equipment wit..."
+    },
+    {
+      "label": "Best for Midfielders",
+      "offerId": "maverik-lacrosse-complete-stick",
+      "reason": "Maverik's complete stick is engineered with midfielders in mind — the head design balances throwing accuracy with face-off and ..."
+    },
+    {
+      "label": "Best Women's Lacrosse Stick",
+      "offerId": "stx-crux-200-womens-stick",
+      "reason": "Women's lacrosse uses shallower pocket depth regulations and different head shapes than men's, which makes women's-specific equ..."
+    }
+  ]
 }

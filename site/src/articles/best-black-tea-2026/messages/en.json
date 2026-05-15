@@ -1,73 +1,123 @@
 {
   "title": "Best Black Tea 2026: English Breakfast to Single-Origin Darjeeling Tested",
   "description": "We tested 5 black teas across origins, grades, and styles. From bold breakfast blends to delicate first-flush Darjeeling — here's what's actually worth buying.",
-  "intro": "Black tea is the most consumed tea in the world, yet the quality gap between grocery-store teabags and quality loose leaf is enormous. We brewed and evaluated five widely available options spanning bold everyday teas to refined single-origin choices, comparing flavor, body, and value.",
-  "products": {
-    "harney-sons-hot-cinnamon-spice": {
-      "name": "Harney & Sons Hot Cinnamon Spice",
-      "badge": "Best Flavored Black Tea",
-      "review": "Harney & Sons Hot Cinnamon Spice has a cult following for a reason — three types of cinnamon plus orange peel and sweet cloves on a bold black tea base. It's intensely aromatic and surprisingly balanced: the spice is forward but the tea underneath is real. Brews deep amber, works with or without milk, holds up to honey. If you want a flavored black tea that doesn't taste artificial, this is the benchmark. The tin is a nice bonus for gift-giving."
-    },
-    "twinings-english-breakfast": {
-      "name": "Twinings English Breakfast",
-      "badge": "Best Classic Breakfast Tea",
-      "review": "Twinings has been blending English Breakfast since 1837 and the formula still works. Assam-forward blend with enough malt and strength to cut through milk, which is the entire point of a breakfast tea. The teabag version is more accessible than it is exciting, but it's consistently good — same cup every time, in any water hardness. Loose leaf version is a step up in flavor complexity. For a reliable daily driver that won't disappoint, Twinings is the safe choice."
-    },
-    "vahdam-darjeeling-first-flush": {
-      "name": "Vahdam Darjeeling First Flush",
-      "badge": "Best Single-Origin",
-      "review": "Vahdam sources directly from estates in Darjeeling and their first flush (spring harvest) is genuine muscatel — the distinctive musky, floral, slightly astringent character that defines real Darjeeling. Lighter amber than Assam blends, lower caffeine, best without milk. This is a completely different experience from breakfast tea: sip slowly, use water around 90°C, don't overbrew. The direct-estate sourcing means better traceability and freshness than legacy supermarket brands. For tea enthusiasts, this is worth knowing about."
-    },
-    "republic-of-tea-black-tea": {
-      "name": "Republic of Tea Daily Black Tea",
-      "badge": "Best Everyday Value",
-      "review": "Republic of Tea's Daily Black uses full-leaf round teabags that give better extraction than standard flat bags. Medium body, clean finish, mild maltiness. Not as complex as loose leaf but significantly better than most grocery teabags. The recyclable tin keeps tea fresh between uses. At the price point it occupies, this is the most honest value in the category — better quality than you'd expect, no flavoring gimmicks, no dusty floor sweepings in the bag. Good choice for office kitchens or anyone who makes 2-3 cups a day."
-    },
-    "ahmad-tea-english-no-1": {
-      "name": "Ahmad Tea English No. 1",
-      "badge": "Best Budget Black Tea",
-      "review": "Ahmad Tea is a hidden gem — a proper London tea company that sells at grocery store prices. English No. 1 is a brisk, malty blend that holds up well with milk and sugar, brews dark quickly, and doesn't go bitter if you leave the bag in too long. The flavor is clean and genuine, not perfumed. For the price, it beats almost everything on supermarket shelves. Widely available in Asian grocery stores and some major retailers. If you drink tea daily and don't want to spend on premium, this is the smart pick."
-    }
-  },
-  "buyingGuide": {
-    "title": "How to Choose Black Tea",
-    "intro": "Origin, grade, and form (teabag vs loose leaf) determine most of the quality gap. Here's what to look for.",
-    "factors": [
-      {
-        "name": "Origin and Style",
-        "detail": "Assam (India) produces bold, malty teas ideal for milk — the base of most English Breakfast blends. Darjeeling (India) is lighter, floral, muscatel-flavored — best without milk, like wine. Ceylon (Sri Lanka) is medium-bodied, slightly citrusy. Keemun (China) is complex, slightly smoky, traditional for English Breakfast in the UK. Each style suits different use cases."
-      },
-      {
-        "name": "Grade: Whole Leaf vs CTC vs Dust",
-        "detail": "Whole leaf (FTGFOP, OP grades) brews slower but with more complexity and fewer tannins. CTC (crush-tear-curl) is machine-processed into small pellets for fast extraction and strong infusion — the basis of most teabags. Dust is the lowest grade, in cheap teabags, brews fast and harsh. Loose leaf whole grades generally give better flavor; round sachets with loose pieces are a middle ground."
-      },
-      {
-        "name": "Freshness",
-        "detail": "Black tea oxidizes more slowly than green tea but still loses aroma over time. First flush teas (spring harvest) have a freshness window. Check harvest years on premium teas. Generic supermarket teabags rarely show this information, which is a quality signal. Store in airtight tins away from light and strong odors."
-      },
-      {
-        "name": "Milk or No Milk",
-        "detail": "High-tannin, malty teas (Assam, robust breakfast blends) are designed for milk and sugar — milk softens tannins and makes them drinkable at stronger brews. Delicate teas (Darjeeling, Keemun, white-tip varieties) are best appreciated without milk to preserve their natural aromatics. Using milk with first flush Darjeeling would mask the entire point."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "Black tea is the most consumed tea in the world, yet the quality gap between grocery-store teabags and quality loose leaf is enormous. We brewed and evaluated five widely available options spanning bold everyday teas to refined single-origin choices, comparing flavor, body, and value.",
+  "sections": [
     {
-      "question": "What's the difference between loose leaf and teabag black tea?",
-      "answer": "Teabags typically contain lower-grade CTC or dust for fast extraction. Loose leaf uses whole or broken leaves that brew more slowly but with greater complexity, lower bitterness, and more nuanced flavor. Round sachets (like Republic of Tea) bridge the gap. For daily convenience, a good teabag is fine; for a proper cup of single-origin tea, loose leaf makes a real difference."
+      "heading": "How to Choose Black Tea",
+      "paragraphs": [
+        "Origin, grade, and form (teabag vs loose leaf) determine most of the quality gap. Here's what to look for."
+      ],
+      "subsections": [
+        {
+          "heading": "Origin and Style",
+          "paragraphs": [
+            "Assam (India) produces bold, malty teas ideal for milk — the base of most English Breakfast blends. Darjeeling (India) is lighter, floral, muscatel-flavored — best without milk, like wine. Ceylon (Sri Lanka) is medium-bodied, slightly citrusy. Keemun (China) is complex, slightly smoky, traditional for English Breakfast in the UK. Each style suits different use cases."
+          ]
+        },
+        {
+          "heading": "Grade: Whole Leaf vs CTC vs Dust",
+          "paragraphs": [
+            "Whole leaf (FTGFOP, OP grades) brews slower but with more complexity and fewer tannins. CTC (crush-tear-curl) is machine-processed into small pellets for fast extraction and strong infusion — the basis of most teabags. Dust is the lowest grade, in cheap teabags, brews fast and harsh. Loose leaf whole grades generally give better flavor; round sachets with loose pieces are a middle ground."
+          ]
+        },
+        {
+          "heading": "Freshness",
+          "paragraphs": [
+            "Black tea oxidizes more slowly than green tea but still loses aroma over time. First flush teas (spring harvest) have a freshness window. Check harvest years on premium teas. Generic supermarket teabags rarely show this information, which is a quality signal. Store in airtight tins away from light and strong odors."
+          ]
+        },
+        {
+          "heading": "Milk or No Milk",
+          "paragraphs": [
+            "High-tannin, malty teas (Assam, robust breakfast blends) are designed for milk and sugar — milk softens tannins and makes them drinkable at stronger brews. Delicate teas (Darjeeling, Keemun, white-tip varieties) are best appreciated without milk to preserve their natural aromatics. Using milk with first flush Darjeeling would mask the entire point."
+          ]
+        }
+      ]
     },
     {
-      "question": "How much caffeine is in black tea compared to coffee?",
-      "answer": "A standard 8oz cup of black tea contains 40-70mg of caffeine, compared to 80-100mg in a typical drip coffee. Brewing time significantly affects caffeine content — a 5-minute steep has 40% more caffeine than a 1-minute steep. Stronger blends like Assam and breakfast teas are higher in caffeine than lighter varieties like Darjeeling."
-    },
-    {
-      "question": "How should I brew black tea?",
-      "answer": "Use freshly boiled water (95-100°C) for most black teas — unlike green tea, black tea needs full-temperature water to properly extract. Steep 3-5 minutes depending on desired strength. Remove the teabag or strain leaves promptly to avoid bitterness. For whole leaf Darjeeling, 90°C and 3 minutes gives the best results. For Assam or breakfast blends meant for milk, 4-5 minutes gives the body you want."
-    },
-    {
-      "question": "What's a first flush Darjeeling?",
-      "answer": "First flush refers to the first spring harvest of Darjeeling tea, usually March-April after the winter dormancy. These teas are lighter, more aromatic, and have the distinctive muscatel (grape-like, floral) character that makes Darjeeling unique. They're considered the premium harvest. Second flush (May-June) is fuller and bolder. First flush teas are best drunk fresh and without milk."
+      "heading": "Bottom line",
+      "paragraphs": [
+        "For a morning cup with milk, Twinings English Breakfast or Ahmad Tea No. 1 are reliable and honest. For a flavored tea that's actually worth drinking, Harney & Sons Hot Cinnamon Spice stands out. If you want to understand what real Darjeeling tastes like, Vahdam's first flush is the place to start. The biggest upgrade most daily tea drinkers can make is switching from generic grocery teabags to almost anything on this list."
+      ]
     }
   ],
-  "conclusion": "For a morning cup with milk, Twinings English Breakfast or Ahmad Tea No. 1 are reliable and honest. For a flavored tea that's actually worth drinking, Harney & Sons Hot Cinnamon Spice stands out. If you want to understand what real Darjeeling tastes like, Vahdam's first flush is the place to start. The biggest upgrade most daily tea drinkers can make is switching from generic grocery teabags to almost anything on this list."
+  "faqs": [
+    {
+      "q": "What's the difference between loose leaf and teabag black tea?",
+      "a": "Teabags typically contain lower-grade CTC or dust for fast extraction. Loose leaf uses whole or broken leaves that brew more slowly but with greater complexity, lower bitterness, and more nuanced flavor. Round sachets (like Republic of Tea) bridge the gap. For daily convenience, a good teabag is fine; for a proper cup of single-origin tea, loose leaf makes a real difference."
+    },
+    {
+      "q": "How much caffeine is in black tea compared to coffee?",
+      "a": "A standard 8oz cup of black tea contains 40-70mg of caffeine, compared to 80-100mg in a typical drip coffee. Brewing time significantly affects caffeine content — a 5-minute steep has 40% more caffeine than a 1-minute steep. Stronger blends like Assam and breakfast teas are higher in caffeine than lighter varieties like Darjeeling."
+    },
+    {
+      "q": "How should I brew black tea?",
+      "a": "Use freshly boiled water (95-100°C) for most black teas — unlike green tea, black tea needs full-temperature water to properly extract. Steep 3-5 minutes depending on desired strength. Remove the teabag or strain leaves promptly to avoid bitterness. For whole leaf Darjeeling, 90°C and 3 minutes gives the best results. For Assam or breakfast blends meant for milk, 4-5 minutes gives the body you want."
+    },
+    {
+      "q": "What's a first flush Darjeeling?",
+      "a": "First flush refers to the first spring harvest of Darjeeling tea, usually March-April after the winter dormancy. These teas are lighter, more aromatic, and have the distinctive muscatel (grape-like, floral) character that makes Darjeeling unique. They're considered the premium harvest. Second flush (May-June) is fuller and bolder. First flush teas are best drunk fresh and without milk."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "badge": "Best Flavored Black Tea",
+      "review": "Harney & Sons Hot Cinnamon Spice has a cult following for a reason — three types of cinnamon plus orange peel and sweet cloves on a bold black tea base. It's intensely aromatic and surprisingly balanced: the spice is forward but the tea underneath is real. Brews deep amber, works with or without milk, holds up to honey. If you want a flavored black tea that doesn't taste artificial, this is the benchmark. The tin is a nice bonus for gift-giving.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "twinings-english-breakfast",
+      "badge": "Best Classic Breakfast Tea",
+      "review": "Twinings has been blending English Breakfast since 1837 and the formula still works. Assam-forward blend with enough malt and strength to cut through milk, which is the entire point of a breakfast tea. The teabag version is more accessible than it is exciting, but it's consistently good — same cup every time, in any water hardness. Loose leaf version is a step up in flavor complexity. For a reliable daily driver that won't disappoint, Twinings is the safe choice.",
+      "grade": "A"
+    },
+    {
+      "offerId": "vahdam-darjeeling-first-flush",
+      "badge": "Best Single-Origin",
+      "review": "Vahdam sources directly from estates in Darjeeling and their first flush (spring harvest) is genuine muscatel — the distinctive musky, floral, slightly astringent character that defines real Darjeeling. Lighter amber than Assam blends, lower caffeine, best without milk. This is a completely different experience from breakfast tea: sip slowly, use water around 90°C, don't overbrew. The direct-estate sourcing means better traceability and freshness than legacy supermarket brands. For tea enthusiasts, this is worth knowing about.",
+      "grade": "A"
+    },
+    {
+      "offerId": "republic-of-tea-black-tea",
+      "badge": "Best Everyday Value",
+      "review": "Republic of Tea's Daily Black uses full-leaf round teabags that give better extraction than standard flat bags. Medium body, clean finish, mild maltiness. Not as complex as loose leaf but significantly better than most grocery teabags. The recyclable tin keeps tea fresh between uses. At the price point it occupies, this is the most honest value in the category — better quality than you'd expect, no flavoring gimmicks, no dusty floor sweepings in the bag. Good choice for office kitchens or anyone who makes 2-3 cups a day.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "ahmad-tea-english-no-1",
+      "badge": "Best Budget Black Tea",
+      "review": "Ahmad Tea is a hidden gem — a proper London tea company that sells at grocery store prices. English No. 1 is a brisk, malty blend that holds up well with milk and sugar, brews dark quickly, and doesn't go bitter if you leave the bag in too long. The flavor is clean and genuine, not perfumed. For the price, it beats almost everything on supermarket shelves. Widely available in Asian grocery stores and some major retailers. If you drink tea daily and don't want to spend on premium, this is the smart pick.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Best Flavored Black Tea",
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "reason": "Harney & Sons Hot Cinnamon Spice has a cult following for a reason — three types of cinnamon plus orange peel and sweet cloves ..."
+    },
+    {
+      "label": "Best Classic Breakfast Tea",
+      "offerId": "twinings-english-breakfast",
+      "reason": "Twinings has been blending English Breakfast since 1837 and the formula still works."
+    },
+    {
+      "label": "Best Single-Origin",
+      "offerId": "vahdam-darjeeling-first-flush",
+      "reason": "Vahdam sources directly from estates in Darjeeling and their first flush (spring harvest) is genuine muscatel — the distinctive..."
+    },
+    {
+      "label": "Best Everyday Value",
+      "offerId": "republic-of-tea-black-tea",
+      "reason": "Republic of Tea's Daily Black uses full-leaf round teabags that give better extraction than standard flat bags."
+    },
+    {
+      "label": "Best Budget Black Tea",
+      "offerId": "ahmad-tea-english-no-1",
+      "reason": "Ahmad Tea is a hidden gem — a proper London tea company that sells at grocery store prices."
+    }
+  ]
 }

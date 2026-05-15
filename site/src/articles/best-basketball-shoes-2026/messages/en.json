@@ -1,73 +1,123 @@
 {
   "title": "Best Basketball Shoes 2026: Court Performance, Ankle Support, and Value",
   "description": "We tested 5 basketball shoes for traction, cushioning, and ankle support. Signature models to budget options — here's what actually performs on court.",
-  "intro": "Basketball shoes fail players in two ways: they either sacrifice cushioning for court feel, or they add so much cushion they lose the ground connection needed for quick cuts. The best shoes for your game depend on your position, playing style, and whether you prioritize ankle support or mobility. We tested five options from premium signature models to accessible budget picks to find where the value actually is.",
-  "products": {
-    "nike-lebron-xxii": {
-      "name": "Nike LeBron XXII",
-      "badge": "Best Premium Basketball Shoe",
-      "review": "The LeBron XXII is built for power players and bigs who want maximum cushioning and support — the Air Max unit in the heel combined with the Zoom Air unit in the forefoot provides plush impact absorption through the full gait cycle without sacrificing the court feel that quick-change-of-direction players need. The multidirectional traction pattern performs well on clean hardwood; it's less effective on dusty or outdoor surfaces. The wide stable base provides excellent lateral support for big men and power forwards. The weight is significant — these are not a quick guard's shoe. If your game is post-ups, power moves, and physicality rather than perimeter speed, the LeBron XXII is designed for you."
-    },
-    "adidas-harden-vol-8": {
-      "name": "Adidas Harden Vol. 8",
-      "badge": "Best Guard Basketball Shoe",
-      "review": "The Harden Vol. 8 is designed for the guard game — specifically for the low, lateral movement and explosive acceleration that perimeter players need. The Lightstrike cushioning is responsive rather than plush, providing court feel while absorbing enough impact for game duration. The herringbone traction is one of the best guard shoe patterns on the market for clean hardwood. The ankle collar is medium-height, which suits guards who want some ankle support without the high-top restriction. For point guards, shooting guards, and small forwards who play a perimeter game, the Harden Vol. 8 delivers the right combination of responsiveness and support."
-    },
-    "new-balance-bb550": {
-      "name": "New Balance BB550",
-      "badge": "Best Retro Court Shoe",
-      "review": "The BB550 is a retro-influenced basketball shoe that has become a lifestyle-and-casual favorite, but it performs genuinely well on court for recreational and lower-intensity play. The flat herringbone outsole provides good grip on clean courts. The low-top design prioritizes freedom of movement over ankle support — fine for recreational players with strong ankles, less appropriate for players with ankle history. The cushioning is adequate for recreational basketball but not performance-grade. For players who want a shoe that transitions between court and casual use and don't need elite performance features, the BB550 is handsome and functional."
-    },
-    "under-armour-curry-12": {
-      "name": "Under Armour Curry 12",
-      "badge": "Best Mid-Range Performance",
-      "review": "The Curry 12 represents the performance sweet spot for serious recreational and competitive basketball — not the $200+ top tier, but a legitimate performance shoe that outperforms similarly-priced competition. The UA Flow cushioning provides excellent impact absorption and traction in a single unit (no outsole rubber = the foam is the outsole). The result is surprisingly lightweight while maintaining the court feel that outdoor-tested UA Flow foams provide. The court traction from the UA Flow outsole is exceptional on clean surfaces. Stephen Curry is a 3-point specialist who needs quick releases — the shoe reflects that with responsive forefoot cushioning and low-profile fit."
-    },
-    "nike-giannis-immortality-4": {
-      "name": "Nike Giannis Immortality 4",
-      "badge": "Best Budget Performance Shoe",
-      "review": "The Immortality line is Nike's value performance basketball shoe — designed for serious players who can't justify signature model pricing. The Immortality 4 uses Air Strobel cushioning, a Zoom Air unit in the forefoot, and the herringbone traction pattern adapted from higher-end models. The result is a shoe that performs better than its price suggests — the cushioning and traction are genuinely performance-grade. For high school players, adult recreational players, and serious club players who want real performance without paying $180+, the Giannis Immortality 4 is the smart buy. The only trade-off versus the signature Giannis line is materials quality, not performance."
-    }
-  },
-  "buyingGuide": {
-    "title": "How to Choose Basketball Shoes",
-    "intro": "Position, ankle support level, and court type are the three decisions that determine whether basketball shoes help or hurt your game.",
-    "factors": [
-      {
-        "name": "High-Top vs. Mid vs. Low-Top",
-        "detail": "High-top basketball shoes provide more ankle support but restrict ankle range of motion, which can affect certain movements. Mid-top is the most common design — balances support and mobility for most players. Low-top shoes prioritize freedom of movement and are preferred by speed-focused guards who feel restricted by high collars. If you have a history of ankle sprains, high-top or mid-top with good ankle padding is the practical choice. If your ankles are strong and you play primarily perimeter, low-top or low-mid is fine."
-      },
-      {
-        "name": "Cushioning for Your Position",
-        "detail": "Bigs (centers and power forwards) benefit from maximum cushioning in both heel and forefoot — they deal with landing impact from high jumps and post-up physicality. Guards and wings need responsive, lower-profile cushioning that keeps them close to the court for lateral quickness. Over-cushioned shoes make quick cut movements mushy and imprecise. Match cushioning density to how much impact you absorb and how much court feel you need."
-      },
-      {
-        "name": "Traction Pattern and Court Type",
-        "detail": "Herringbone patterns are the gold standard for clean hardwood — they provide multidirectional grip without catching. Multidirectional blade patterns are better for quick pivots. Outdoor court traction requires harder rubber compounds that last on rougher surfaces. Don't use indoor shoes outdoors — you'll destroy the traction pattern quickly. Most indoor basketball shoes are for hardwood only. If you play on multiple surfaces, get dedicated shoes for each or buy an outdoor-optimized shoe."
-      },
-      {
-        "name": "Fit Considerations",
-        "detail": "Basketball shoes run differently by brand — Nike tends to run narrow in signature models, Adidas signature lines also run narrow, New Balance and Under Armour tend to be more accommodating for wider feet. Basketball shoes should fit with about a thumb's width between the longest toe and the end of the shoe. Too tight causes blisters and toenail problems from repeated stops. Too loose causes friction blisters and loss of lateral support. Lacing systems matter — if the heel slips despite snug toe box, try a heel-lock lacing pattern."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "Basketball shoes fail players in two ways: they either sacrifice cushioning for court feel, or they add so much cushion they lose the ground connection needed for quick cuts. The best shoes for your game depend on your position, playing style, and whether you prioritize ankle support or mobility. We tested five options from premium signature models to accessible budget picks to find where the value actually is.",
+  "sections": [
     {
-      "question": "Do I need to break in basketball shoes?",
-      "answer": "Modern basketball shoes with synthetic or mesh uppers require minimal break-in — they're functional from the first session. Leather uppers (less common now) benefit from a few sessions to soften. The main 'break-in' is the outsole traction — new rubber can be slightly slippery on clean courts for the first session as manufacturing residue wears off. Wipe outsoles with a damp cloth before first use to remove any release agents. Some players wipe the outsole on their sock between plays to maintain traction during dusty court conditions."
+      "heading": "How to Choose Basketball Shoes",
+      "paragraphs": [
+        "Position, ankle support level, and court type are the three decisions that determine whether basketball shoes help or hurt your game."
+      ],
+      "subsections": [
+        {
+          "heading": "High-Top vs. Mid vs. Low-Top",
+          "paragraphs": [
+            "High-top basketball shoes provide more ankle support but restrict ankle range of motion, which can affect certain movements. Mid-top is the most common design — balances support and mobility for most players. Low-top shoes prioritize freedom of movement and are preferred by speed-focused guards who feel restricted by high collars. If you have a history of ankle sprains, high-top or mid-top with good ankle padding is the practical choice. If your ankles are strong and you play primarily perimeter, low-top or low-mid is fine."
+          ]
+        },
+        {
+          "heading": "Cushioning for Your Position",
+          "paragraphs": [
+            "Bigs (centers and power forwards) benefit from maximum cushioning in both heel and forefoot — they deal with landing impact from high jumps and post-up physicality. Guards and wings need responsive, lower-profile cushioning that keeps them close to the court for lateral quickness. Over-cushioned shoes make quick cut movements mushy and imprecise. Match cushioning density to how much impact you absorb and how much court feel you need."
+          ]
+        },
+        {
+          "heading": "Traction Pattern and Court Type",
+          "paragraphs": [
+            "Herringbone patterns are the gold standard for clean hardwood — they provide multidirectional grip without catching. Multidirectional blade patterns are better for quick pivots. Outdoor court traction requires harder rubber compounds that last on rougher surfaces. Don't use indoor shoes outdoors — you'll destroy the traction pattern quickly. Most indoor basketball shoes are for hardwood only. If you play on multiple surfaces, get dedicated shoes for each or buy an outdoor-optimized shoe."
+          ]
+        },
+        {
+          "heading": "Fit Considerations",
+          "paragraphs": [
+            "Basketball shoes run differently by brand — Nike tends to run narrow in signature models, Adidas signature lines also run narrow, New Balance and Under Armour tend to be more accommodating for wider feet. Basketball shoes should fit with about a thumb's width between the longest toe and the end of the shoe. Too tight causes blisters and toenail problems from repeated stops. Too loose causes friction blisters and loss of lateral support. Lacing systems matter — if the heel slips despite snug toe box, try a heel-lock lacing pattern."
+          ]
+        }
+      ]
     },
     {
-      "question": "Can I play basketball in running shoes?",
-      "answer": "You can, but running shoes don't provide lateral support for the side-to-side movements in basketball. Running shoes are designed for forward motion — the outsole and upper provide excellent forward cushioning but poor lateral stability, which creates ankle sprain risk during cuts and defensive slides. Basketball shoes have reinforced lateral walls and outsole patterns specifically for the multidirectional movement basketball requires. For occasional casual play, running shoes work. For regular competitive play, basketball shoes are the appropriate footwear."
-    },
-    {
-      "question": "How often should I replace basketball shoes?",
-      "answer": "Every 1-2 seasons of regular play, or when traction visibly degrades. Traction is the critical factor — once the herringbone pattern wears down, the shoe loses its court grip and becomes a slip hazard. Cushioning compresses over time as well — if shoes feel noticeably flatter than when new, the impact protection is compromised. Players who practice daily need replacement more frequently than those who play 2-3 times per week."
-    },
-    {
-      "question": "Are expensive basketball shoes worth it?",
-      "answer": "At a certain performance threshold, yes. The $150-200 range (signature models) offers genuine performance advantages over the $80-100 budget range in traction quality, cushioning responsiveness, and materials durability. Above $200, you're increasingly paying for aesthetics and signature premiums rather than functional advantages — most players can't perceive the performance difference between a $180 shoe and a $240 shoe. The value sweet spot is the $120-160 range: performance models that deliver the critical features without the full signature premium."
+      "heading": "Bottom line",
+      "paragraphs": [
+        "For premium cushioning and power player support, LeBron XXII is the top performance pick. Guards and perimeter players should look at the Harden Vol. 8 for its responsive cushioning and excellent herringbone traction. The Curry 12 is the value performance pick that outperforms its price. For budget-conscious players who still need real performance, the Giannis Immortality 4 is the smart buy. The one thing to always check: traction pattern condition before every session — worn traction on a basketball court is the most common footwear-related injury cause."
+      ]
     }
   ],
-  "conclusion": "For premium cushioning and power player support, LeBron XXII is the top performance pick. Guards and perimeter players should look at the Harden Vol. 8 for its responsive cushioning and excellent herringbone traction. The Curry 12 is the value performance pick that outperforms its price. For budget-conscious players who still need real performance, the Giannis Immortality 4 is the smart buy. The one thing to always check: traction pattern condition before every session — worn traction on a basketball court is the most common footwear-related injury cause."
+  "faqs": [
+    {
+      "q": "Do I need to break in basketball shoes?",
+      "a": "Modern basketball shoes with synthetic or mesh uppers require minimal break-in — they're functional from the first session. Leather uppers (less common now) benefit from a few sessions to soften. The main 'break-in' is the outsole traction — new rubber can be slightly slippery on clean courts for the first session as manufacturing residue wears off. Wipe outsoles with a damp cloth before first use to remove any release agents. Some players wipe the outsole on their sock between plays to maintain traction during dusty court conditions."
+    },
+    {
+      "q": "Can I play basketball in running shoes?",
+      "a": "You can, but running shoes don't provide lateral support for the side-to-side movements in basketball. Running shoes are designed for forward motion — the outsole and upper provide excellent forward cushioning but poor lateral stability, which creates ankle sprain risk during cuts and defensive slides. Basketball shoes have reinforced lateral walls and outsole patterns specifically for the multidirectional movement basketball requires. For occasional casual play, running shoes work. For regular competitive play, basketball shoes are the appropriate footwear."
+    },
+    {
+      "q": "How often should I replace basketball shoes?",
+      "a": "Every 1-2 seasons of regular play, or when traction visibly degrades. Traction is the critical factor — once the herringbone pattern wears down, the shoe loses its court grip and becomes a slip hazard. Cushioning compresses over time as well — if shoes feel noticeably flatter than when new, the impact protection is compromised. Players who practice daily need replacement more frequently than those who play 2-3 times per week."
+    },
+    {
+      "q": "Are expensive basketball shoes worth it?",
+      "a": "At a certain performance threshold, yes. The $150-200 range (signature models) offers genuine performance advantages over the $80-100 budget range in traction quality, cushioning responsiveness, and materials durability. Above $200, you're increasingly paying for aesthetics and signature premiums rather than functional advantages — most players can't perceive the performance difference between a $180 shoe and a $240 shoe. The value sweet spot is the $120-160 range: performance models that deliver the critical features without the full signature premium."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "nike-lebron-xxii",
+      "badge": "Best Premium Basketball Shoe",
+      "review": "The LeBron XXII is built for power players and bigs who want maximum cushioning and support — the Air Max unit in the heel combined with the Zoom Air unit in the forefoot provides plush impact absorption through the full gait cycle without sacrificing the court feel that quick-change-of-direction players need. The multidirectional traction pattern performs well on clean hardwood; it's less effective on dusty or outdoor surfaces. The wide stable base provides excellent lateral support for big men and power forwards. The weight is significant — these are not a quick guard's shoe. If your game is post-ups, power moves, and physicality rather than perimeter speed, the LeBron XXII is designed for you.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "adidas-harden-vol-8",
+      "badge": "Best Guard Basketball Shoe",
+      "review": "The Harden Vol. 8 is designed for the guard game — specifically for the low, lateral movement and explosive acceleration that perimeter players need. The Lightstrike cushioning is responsive rather than plush, providing court feel while absorbing enough impact for game duration. The herringbone traction is one of the best guard shoe patterns on the market for clean hardwood. The ankle collar is medium-height, which suits guards who want some ankle support without the high-top restriction. For point guards, shooting guards, and small forwards who play a perimeter game, the Harden Vol. 8 delivers the right combination of responsiveness and support.",
+      "grade": "A"
+    },
+    {
+      "offerId": "new-balance-bb550",
+      "badge": "Best Retro Court Shoe",
+      "review": "The BB550 is a retro-influenced basketball shoe that has become a lifestyle-and-casual favorite, but it performs genuinely well on court for recreational and lower-intensity play. The flat herringbone outsole provides good grip on clean courts. The low-top design prioritizes freedom of movement over ankle support — fine for recreational players with strong ankles, less appropriate for players with ankle history. The cushioning is adequate for recreational basketball but not performance-grade. For players who want a shoe that transitions between court and casual use and don't need elite performance features, the BB550 is handsome and functional.",
+      "grade": "A"
+    },
+    {
+      "offerId": "under-armour-curry-12",
+      "badge": "Best Mid-Range Performance",
+      "review": "The Curry 12 represents the performance sweet spot for serious recreational and competitive basketball — not the $200+ top tier, but a legitimate performance shoe that outperforms similarly-priced competition. The UA Flow cushioning provides excellent impact absorption and traction in a single unit (no outsole rubber = the foam is the outsole). The result is surprisingly lightweight while maintaining the court feel that outdoor-tested UA Flow foams provide. The court traction from the UA Flow outsole is exceptional on clean surfaces. Stephen Curry is a 3-point specialist who needs quick releases — the shoe reflects that with responsive forefoot cushioning and low-profile fit.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "nike-giannis-immortality-4",
+      "badge": "Best Budget Performance Shoe",
+      "review": "The Immortality line is Nike's value performance basketball shoe — designed for serious players who can't justify signature model pricing. The Immortality 4 uses Air Strobel cushioning, a Zoom Air unit in the forefoot, and the herringbone traction pattern adapted from higher-end models. The result is a shoe that performs better than its price suggests — the cushioning and traction are genuinely performance-grade. For high school players, adult recreational players, and serious club players who want real performance without paying $180+, the Giannis Immortality 4 is the smart buy. The only trade-off versus the signature Giannis line is materials quality, not performance.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "recommendedFor": [
+    {
+      "label": "Best Premium Basketball Shoe",
+      "offerId": "nike-lebron-xxii",
+      "reason": "The LeBron XXII is built for power players and bigs who want maximum cushioning and support — the Air Max unit in the heel comb..."
+    },
+    {
+      "label": "Best Guard Basketball Shoe",
+      "offerId": "adidas-harden-vol-8",
+      "reason": "The Harden Vol."
+    },
+    {
+      "label": "Best Retro Court Shoe",
+      "offerId": "new-balance-bb550",
+      "reason": "The BB550 is a retro-influenced basketball shoe that has become a lifestyle-and-casual favorite, but it performs genuinely well..."
+    },
+    {
+      "label": "Best Mid-Range Performance",
+      "offerId": "under-armour-curry-12",
+      "reason": "The Curry 12 represents the performance sweet spot for serious recreational and competitive basketball — not the $200+ top tier..."
+    },
+    {
+      "label": "Best Budget Performance Shoe",
+      "offerId": "nike-giannis-immortality-4",
+      "reason": "The Immortality line is Nike's value performance basketball shoe — designed for serious players who can't justify signature mod..."
+    }
+  ]
 }

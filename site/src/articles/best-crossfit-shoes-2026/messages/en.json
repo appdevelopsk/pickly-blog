@@ -1,73 +1,123 @@
 {
   "title": "Best CrossFit Shoes 2026: Training Shoes for WODs, Lifting, and Running Tested",
   "description": "We tested 5 CrossFit shoes for stability, rope climbing, weightlifting, and short runs. Nike Metcon vs Reebok Nano vs NoBull vs New Balance compared — here's the best for 2026.",
-  "intro": "CrossFit shoes need to do everything reasonably well: stable enough for heavy squats and deadlifts, flexible enough for box jumps and burpees, grippy enough for rope climbs, and comfortable enough for metabolic conditioning runs. No single shoe dominates every task, but the best ones make acceptable compromises. We tested five options that serious CrossFit athletes actually wear.",
-  "products": {
-    "nike-metcon-9": {
-      "name": "Nike Metcon 9",
-      "badge": "Best Overall CrossFit Shoe",
-      "review": "The Nike Metcon has been the market leader for CrossFit training for years, and the 9th generation refines without dramatically changing what works. The flat, rigid heel is the defining feature: it provides a stable base for Olympic lifts and heavy squats without compressing under load (the opposite of what you want in a running shoe). The forefoot is more flexible, and the rope-climbing wrap is one of the most durable on the market. Metcon 9 runs slightly narrow — worth trying on before buying for wider feet. The outsole rubber durability has improved over previous generations."
-    },
-    "reebok-nano-x4": {
-      "name": "Reebok Nano X4",
-      "badge": "Best for Versatility",
-      "review": "The Reebok Nano is the other perennial CrossFit shoe, and the X4 is its most refined version. Compared to Metcon, the Nano X4 is slightly more cushioned and more comfortable for longer running segments (400m+ repeats). The heel stability is slightly less rigid than Metcon, which is a trade-off — better comfort on runs, slightly less ideal for maximum load lifting. The dual-layer outsole provides good durability. For athletes who do a mix of WODs including longer runs, the Nano's better running comfort is the decisive factor."
-    },
-    "nobull-trainer": {
-      "name": "NoBull Trainer",
-      "badge": "Best Minimalist CrossFit Shoe",
-      "review": "NoBull's trainer takes a different approach: no foam overlays, no fancy technology, just durable canvas-like SuperFabric upper, flat outsole, and reliable traction. The simplicity works for many CrossFitters who want durability and no gimmicks. The flat outsole gives a ground-feel that more cushioned trainers lack. Rope climbing performance is solid. The downside: less cushioning makes longer runs uncomfortable, and the upper offers less lateral support than Nike or Reebok. Best for short metcons, lifting-heavy WODs, and box environments where comfort over miles isn't the priority."
-    },
-    "new-balance-minimus-tr": {
-      "name": "New Balance Minimus TR",
-      "badge": "Best for Running-Heavy WODs",
-      "review": "The New Balance Minimus TR is the most running-friendly CrossFit shoe on this list. Minimal drop, more flexible sole, and more cushioning than Metcon or Nano make it the best choice for WODs with significant running volume — 800m+ repeats, running-heavy Hero WODs. The trade-off is reduced stability for heavy barbell work: the softer heel compresses under maximum squat loads. For athletes who prioritize performance across the running portions of workouts rather than absolute lifting stability, Minimus TR makes a genuine case."
-    },
-    "inov8-fastlift-370": {
-      "name": "Inov-8 Fastlift 370",
-      "badge": "Best for Olympic Lifting",
-      "review": "The Inov-8 Fastlift 370 is a hybrid between a CrossFit trainer and a true weightlifting shoe. A slight heel elevation (4mm), wider heel base, and stiffer construction than standard trainers make it notably more stable for snatches, clean-and-jerks, and heavy front squats. The rubber outsole still allows rope climbing and lateral movement that true lifting shoes prohibit. For athletes who program Olympic lifting heavily and want a shoe that leans toward lifting performance without fully sacrificing trainer versatility, this is the best bridge option."
-    }
-  },
-  "buyingGuide": {
-    "title": "How to Choose CrossFit Shoes",
-    "intro": "Heel stability, outsole grip, and flexibility balance determine which CrossFit shoe suits your WOD style.",
-    "factors": [
-      {
-        "name": "Heel Stability and Drop",
-        "detail": "Low drop (4mm or less) with a rigid heel is ideal for Olympic lifting and heavy squats — it provides a stable base and keeps the ankle in a neutral position. High drop (10mm+) compresses under heavy loads and reduces power transfer. Most CrossFit shoes are intentionally low drop. If your programming is lifting-heavy, prioritize heel rigidity. If it's run-heavy, some additional cushioning is acceptable."
-      },
-      {
-        "name": "Rope Climbing Performance",
-        "detail": "Rope climbing requires a specific zone on the medial (inside) heel and midfoot that can grip the rope when wrapped. Look for durable rubber in this zone — softer rubber wraps better but wears out; harder rubber is more durable. The Nike Metcon rope wrap has a strong reputation for durability. Check that the shoe construction allows the proper rope climbing technique."
-      },
-      {
-        "name": "Outsole Durability",
-        "detail": "CrossFit outsoles encounter diverse surfaces: rubberized floors, rope, barbell knurling (if you deadlift in your shoes), and concrete. Softer rubber grips better but wears faster. Harder rubber is more durable but less grippy. Most CrossFit-specific shoes use a compound optimized for durability on gym surfaces. Replacing CrossFit shoes every 6-12 months with regular use is common."
-      },
-      {
-        "name": "Fit Considerations",
-        "detail": "CrossFit shoes generally fit truer to size than running shoes. The toe box should allow some toe spread for stability during squats. Nike Metcon runs narrow; NoBull runs wider. Reebok Nano accommodates a range of foot widths. Try on in person if possible — your normal running shoe size may not apply. A too-tight CrossFit shoe makes rope climbing and box jumps painful; too loose reduces lifting stability."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "CrossFit shoes need to do everything reasonably well: stable enough for heavy squats and deadlifts, flexible enough for box jumps and burpees, grippy enough for rope climbs, and comfortable enough for metabolic conditioning runs. No single shoe dominates every task, but the best ones make acceptable compromises. We tested five options that serious CrossFit athletes actually wear.",
+  "sections": [
     {
-      "question": "Can I use running shoes for CrossFit?",
-      "answer": "Running shoes are specifically designed for forward movement with cushioning that compresses and rebounds. This same cushioning is dangerous for heavy lifting — it creates an unstable base that can cause ankle roll or reduce power transfer during squats and deadlifts. For WODs with significant lifting, running shoes are genuinely unsafe for heavy loads. For run-only workouts or body weight WODs with no lifting, running shoes work. If you're doing any significant barbell work, CrossFit-specific shoes are not optional."
+      "heading": "How to Choose CrossFit Shoes",
+      "paragraphs": [
+        "Heel stability, outsole grip, and flexibility balance determine which CrossFit shoe suits your WOD style."
+      ],
+      "subsections": [
+        {
+          "heading": "Heel Stability and Drop",
+          "paragraphs": [
+            "Low drop (4mm or less) with a rigid heel is ideal for Olympic lifting and heavy squats — it provides a stable base and keeps the ankle in a neutral position. High drop (10mm+) compresses under heavy loads and reduces power transfer. Most CrossFit shoes are intentionally low drop. If your programming is lifting-heavy, prioritize heel rigidity. If it's run-heavy, some additional cushioning is acceptable."
+          ]
+        },
+        {
+          "heading": "Rope Climbing Performance",
+          "paragraphs": [
+            "Rope climbing requires a specific zone on the medial (inside) heel and midfoot that can grip the rope when wrapped. Look for durable rubber in this zone — softer rubber wraps better but wears out; harder rubber is more durable. The Nike Metcon rope wrap has a strong reputation for durability. Check that the shoe construction allows the proper rope climbing technique."
+          ]
+        },
+        {
+          "heading": "Outsole Durability",
+          "paragraphs": [
+            "CrossFit outsoles encounter diverse surfaces: rubberized floors, rope, barbell knurling (if you deadlift in your shoes), and concrete. Softer rubber grips better but wears faster. Harder rubber is more durable but less grippy. Most CrossFit-specific shoes use a compound optimized for durability on gym surfaces. Replacing CrossFit shoes every 6-12 months with regular use is common."
+          ]
+        },
+        {
+          "heading": "Fit Considerations",
+          "paragraphs": [
+            "CrossFit shoes generally fit truer to size than running shoes. The toe box should allow some toe spread for stability during squats. Nike Metcon runs narrow; NoBull runs wider. Reebok Nano accommodates a range of foot widths. Try on in person if possible — your normal running shoe size may not apply. A too-tight CrossFit shoe makes rope climbing and box jumps painful; too loose reduces lifting stability."
+          ]
+        }
+      ]
     },
     {
-      "question": "How long do CrossFit shoes last?",
-      "answer": "With daily CrossFit training, expect 6-12 months. Rope climbing is particularly destructive on the medial heel area. The outsole typically outlasts the structural integrity of the midsole in CrossFit shoes — the shoe may look fine visually while losing its stability and support properties. If you notice your shoes compressing under heavy loads or your foot slipping in the heel, they need replacement regardless of visual condition."
-    },
-    {
-      "question": "Should I own different shoes for lifting and WODs?",
-      "answer": "Serious competitive CrossFit athletes often own dedicated lifting shoes for heavy lifting sessions and CrossFit trainers for WODs. Weightlifting shoes (with elevated heel and rigid construction) optimize for snatch and clean-and-jerk performance. For recreational athletes doing CrossFit 3-5 times per week, one good CrossFit trainer is sufficient for both. The performance benefit of lifting shoes only matters when weights are heavy enough that marginal stability improvements translate to better lifts."
-    },
-    {
-      "question": "What's the difference between CrossFit shoes and normal training shoes?",
-      "answer": "Standard training shoes (like Nike Free or Adidas Ultraboost) prioritize comfort and cushioning for gym-floor cardio and circuit training. CrossFit shoes sacrifice cushioning for stability, add rope-climb specific features, and use more durable rubber compounds for diverse surfaces. The flat, rigid heel in CrossFit shoes is the most critical difference — it's what makes them safe for heavy loading. Training shoes can work for light CrossFit; they're insufficient for programs with heavy Olympic lifting."
+      "heading": "Bottom line",
+      "paragraphs": [
+        "Nike Metcon 9 remains the most complete CrossFit shoe for athletes who do a mix of lifting and metabolic work. For athletes whose WODs include longer running (800m+), Reebok Nano X4 is the better balanced choice. If your programming is heavily Olympic lifting, Inov-8 Fastlift 370 provides the closest to lifting-shoe stability that still functions as a trainer. NoBull is for minimalists who want maximum durability without foam technology they don't trust."
+      ]
     }
   ],
-  "conclusion": "Nike Metcon 9 remains the most complete CrossFit shoe for athletes who do a mix of lifting and metabolic work. For athletes whose WODs include longer running (800m+), Reebok Nano X4 is the better balanced choice. If your programming is heavily Olympic lifting, Inov-8 Fastlift 370 provides the closest to lifting-shoe stability that still functions as a trainer. NoBull is for minimalists who want maximum durability without foam technology they don't trust."
+  "faqs": [
+    {
+      "q": "Can I use running shoes for CrossFit?",
+      "a": "Running shoes are specifically designed for forward movement with cushioning that compresses and rebounds. This same cushioning is dangerous for heavy lifting — it creates an unstable base that can cause ankle roll or reduce power transfer during squats and deadlifts. For WODs with significant lifting, running shoes are genuinely unsafe for heavy loads. For run-only workouts or body weight WODs with no lifting, running shoes work. If you're doing any significant barbell work, CrossFit-specific shoes are not optional."
+    },
+    {
+      "q": "How long do CrossFit shoes last?",
+      "a": "With daily CrossFit training, expect 6-12 months. Rope climbing is particularly destructive on the medial heel area. The outsole typically outlasts the structural integrity of the midsole in CrossFit shoes — the shoe may look fine visually while losing its stability and support properties. If you notice your shoes compressing under heavy loads or your foot slipping in the heel, they need replacement regardless of visual condition."
+    },
+    {
+      "q": "Should I own different shoes for lifting and WODs?",
+      "a": "Serious competitive CrossFit athletes often own dedicated lifting shoes for heavy lifting sessions and CrossFit trainers for WODs. Weightlifting shoes (with elevated heel and rigid construction) optimize for snatch and clean-and-jerk performance. For recreational athletes doing CrossFit 3-5 times per week, one good CrossFit trainer is sufficient for both. The performance benefit of lifting shoes only matters when weights are heavy enough that marginal stability improvements translate to better lifts."
+    },
+    {
+      "q": "What's the difference between CrossFit shoes and normal training shoes?",
+      "a": "Standard training shoes (like Nike Free or Adidas Ultraboost) prioritize comfort and cushioning for gym-floor cardio and circuit training. CrossFit shoes sacrifice cushioning for stability, add rope-climb specific features, and use more durable rubber compounds for diverse surfaces. The flat, rigid heel in CrossFit shoes is the most critical difference — it's what makes them safe for heavy loading. Training shoes can work for light CrossFit; they're insufficient for programs with heavy Olympic lifting."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "nike-metcon-9",
+      "badge": "Best Overall CrossFit Shoe",
+      "review": "The Nike Metcon has been the market leader for CrossFit training for years, and the 9th generation refines without dramatically changing what works. The flat, rigid heel is the defining feature: it provides a stable base for Olympic lifts and heavy squats without compressing under load (the opposite of what you want in a running shoe). The forefoot is more flexible, and the rope-climbing wrap is one of the most durable on the market. Metcon 9 runs slightly narrow — worth trying on before buying for wider feet. The outsole rubber durability has improved over previous generations.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "reebok-nano-x4",
+      "badge": "Best for Versatility",
+      "review": "The Reebok Nano is the other perennial CrossFit shoe, and the X4 is its most refined version. Compared to Metcon, the Nano X4 is slightly more cushioned and more comfortable for longer running segments (400m+ repeats). The heel stability is slightly less rigid than Metcon, which is a trade-off — better comfort on runs, slightly less ideal for maximum load lifting. The dual-layer outsole provides good durability. For athletes who do a mix of WODs including longer runs, the Nano's better running comfort is the decisive factor.",
+      "grade": "A"
+    },
+    {
+      "offerId": "nobull-trainer",
+      "badge": "Best Minimalist CrossFit Shoe",
+      "review": "NoBull's trainer takes a different approach: no foam overlays, no fancy technology, just durable canvas-like SuperFabric upper, flat outsole, and reliable traction. The simplicity works for many CrossFitters who want durability and no gimmicks. The flat outsole gives a ground-feel that more cushioned trainers lack. Rope climbing performance is solid. The downside: less cushioning makes longer runs uncomfortable, and the upper offers less lateral support than Nike or Reebok. Best for short metcons, lifting-heavy WODs, and box environments where comfort over miles isn't the priority.",
+      "grade": "A"
+    },
+    {
+      "offerId": "new-balance-minimus-tr",
+      "badge": "Best for Running-Heavy WODs",
+      "review": "The New Balance Minimus TR is the most running-friendly CrossFit shoe on this list. Minimal drop, more flexible sole, and more cushioning than Metcon or Nano make it the best choice for WODs with significant running volume — 800m+ repeats, running-heavy Hero WODs. The trade-off is reduced stability for heavy barbell work: the softer heel compresses under maximum squat loads. For athletes who prioritize performance across the running portions of workouts rather than absolute lifting stability, Minimus TR makes a genuine case.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "inov8-fastlift-370",
+      "badge": "Best for Olympic Lifting",
+      "review": "The Inov-8 Fastlift 370 is a hybrid between a CrossFit trainer and a true weightlifting shoe. A slight heel elevation (4mm), wider heel base, and stiffer construction than standard trainers make it notably more stable for snatches, clean-and-jerks, and heavy front squats. The rubber outsole still allows rope climbing and lateral movement that true lifting shoes prohibit. For athletes who program Olympic lifting heavily and want a shoe that leans toward lifting performance without fully sacrificing trainer versatility, this is the best bridge option.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "recommendedFor": [
+    {
+      "label": "Best Overall CrossFit Shoe",
+      "offerId": "nike-metcon-9",
+      "reason": "The Nike Metcon has been the market leader for CrossFit training for years, and the 9th generation refines without dramatically..."
+    },
+    {
+      "label": "Best for Versatility",
+      "offerId": "reebok-nano-x4",
+      "reason": "The Reebok Nano is the other perennial CrossFit shoe, and the X4 is its most refined version."
+    },
+    {
+      "label": "Best Minimalist CrossFit Shoe",
+      "offerId": "nobull-trainer",
+      "reason": "NoBull's trainer takes a different approach: no foam overlays, no fancy technology, just durable canvas-like SuperFabric upper,..."
+    },
+    {
+      "label": "Best for Running-Heavy WODs",
+      "offerId": "new-balance-minimus-tr",
+      "reason": "The New Balance Minimus TR is the most running-friendly CrossFit shoe on this list."
+    },
+    {
+      "label": "Best for Olympic Lifting",
+      "offerId": "inov8-fastlift-370",
+      "reason": "The Inov-8 Fastlift 370 is a hybrid between a CrossFit trainer and a true weightlifting shoe."
+    }
+  ]
 }

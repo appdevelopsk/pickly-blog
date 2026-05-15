@@ -1,73 +1,123 @@
 {
   "title": "Melhor Matcha em Pó 2026: Grau Cerimonial vs Culinário Testado",
   "description": "Testamos 5 matchas em pó em diferentes graus, origens e faixas de preço. Estes são os que entregam sabor vibrante, textura suave e benefícios reais de L-teanina.",
-  "intro": "Nem todo matcha é igual. A mesma categoria de pó verde brilhante abrange chás japoneses de origem única de grau cerimonial e misturas culinárias baratas que ficam cinzentas num latte. Preparamos, espumamos e assamos com cinco opções amplamente disponíveis para separar o que vale a pena do que deve ser evitado.",
-  "products": {
-    "ippodo-kan-no-shiro": {
-      "name": "Ippodo Kan-no-Shiro",
-      "badge": "Melhor no Geral",
-      "review": "A Ippodo vende chá em Kyoto desde 1717, e o Kan-no-Shiro é o grau cerimonial carro-chefe deles. A cor é um verde profundo, quase neon — visualmente você percebe antes mesmo de provar. Batido de forma tradicional é cremoso, naturalmente doce e com quase nenhum amargor. O teor de L-teanina é alto nos testes. O preço reflete o terroir e o processo de cultivo à sombra, mas se você leva matcha a sério, este é o ponto de referência."
-    },
-    "encha-latte-matcha": {
-      "name": "Encha Latte Grade Organic Matcha",
-      "badge": "Melhor para Lattes",
-      "review": "A Encha fornece de uma única fazenda em Uji, Kyoto, e seu grau latte é especificamente ajustado para bebidas à base de leite. Aguenta o leite de aveia vaporizado sem perder cor ou sabor — algo que os graus mais baratos não conseguem. O perfil mais terroso, menos ideal para um chá fino puro, brilha em laticínios. Certificado Orgânico USDA. Para quem faz principalmente lattes de matcha, esta é a opção mais econômica e séria."
-    },
-    "jade-leaf-ceremonial-matcha": {
-      "name": "Jade Leaf Ceremonial Matcha",
-      "badge": "Melhor Custo-Benefício Cerimonial",
-      "review": "O Jade Leaf supera muito seu preço. Grau cerimonial com origem em Uji, cor razoavelmente vibrante e sabor suave de umami. Não tão complexo quanto o Ippodo, mas dramaticamente melhor que as opções de mercado de massa a aproximadamente metade do preço. Boa opção diária para quem quer qualidade real de matcha sem o compromisso premium. Nota levemente herbácea que alguns apreciam e outros não — experimente o tamanho de amostra primeiro."
-    },
-    "aiya-cooking-grade-matcha": {
-      "name": "Aiya Cooking Grade Matcha",
-      "badge": "Melhor para Assar",
-      "review": "A Aiya é um dos maiores produtores dedicados de matcha no Japão. O grau culinário é pensado para receitas onde o matcha é misturado com outros sabores fortes — produtos de panificação, smoothies, sorvete. A esse preço faz sentido economicamente (você gastaria uma fortuna usando grau cerimonial em muffins). A cor se mantém razoavelmente bem em aplicações assadas. Não é para beber puro, mas é excelente para receitas onde você quer sabor real de matcha sem gastar com grau cerimonial."
-    },
-    "matcha-love-unsweetened": {
-      "name": "Matcha Love Unsweetened Powder",
-      "badge": "Mais Acessível",
-      "review": "A linha Matcha Love da ITO EN é a mais distribuída nas mercearias ocidentais. O pó sem açúcar é um ponto médio sólido — melhor que as misturas de mercado de massa, abaixo dos graus cerimoniais dedicados. Existem sachês individuais convenientes se você quiser portabilidade. O sabor é agradável, embora sem graça: levemente herbáceo, ligeiramente amargo, não profundamente umami. Para alguém novo no matcha que está decidindo se gosta antes de investir em opções premium, este é um ponto de partida razoável."
-    }
-  },
-  "buyingGuide": {
-    "title": "Como Escolher Matcha em Pó",
-    "intro": "A rotulagem de grau no matcha não tem um padrão legal. Aqui está o que realmente importa.",
-    "factors": [
-      {
-        "name": "Grau e Uso Pretendido",
-        "detail": "Grau cerimonial significa folhas de primeira colheita sombreadas, moídas finamente em mó de pedra — melhor bebido puro batido com água quente. Grau culinário/latte são colheitas posteriores, mais terrosas, projetadas para misturar. Usar grau cerimonial em produtos assados é desperdício. Usar grau culinário para um bowl tradicional é decepcionante. Adeque o grau ao uso."
-      },
-      {
-        "name": "Origem e Processamento",
-        "detail": "Uji (Kyoto) e Nishio (Aichi) são as principais regiões de matcha do Japão. O período de sombreamento antes da colheita (tipicamente 3-4 semanas) impulsiona a clorofila, a L-teanina e a concentração de aminoácidos. A moagem em pedra versus a moagem em esferas afeta o tamanho das partículas e a suavidade. Afirmações de origem sem especificidades geralmente são marketing."
-      },
-      {
-        "name": "Cor como Indicador de Qualidade",
-        "detail": "Matcha de alta qualidade é verde vívido, quase elétrico. Tons oliva, verde-amarelado ou acinzentado indicam grau inferior, estoque velho ou exposição ao calor e à luz. A cor desbota após abrir, então compre quantidades menores se não usar diariamente."
-      },
-      {
-        "name": "Armazenamento e Frescura",
-        "detail": "O matcha oxida rapidamente. Procure embalagens com nitrogênio ou latas reseláveis. Uma vez aberto, guarde na geladeira longe de odores fortes. A maioria dos matchas é melhor dentro de 4-6 semanas após aberto — comprar pacotes grandes de valor geralmente sai pela culatra."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "Nem todo matcha é igual. A mesma categoria de pó verde brilhante abrange chás japoneses de origem única de grau cerimonial e misturas culinárias baratas que ficam cinzentas num latte. Preparamos, espumamos e assamos com cinco opções amplamente disponíveis para separar o que vale a pena do que deve ser evitado.",
+  "sections": [
     {
-      "question": "Qual é a diferença entre matcha de grau cerimonial e culinário?",
-      "answer": "O grau cerimonial usa apenas as folhas mais jovens e tenras de primeira colheita de plantas sombreadas, moídas em pedra até virarem pó fino. O resultado é mais doce, suave e com maior teor de L-teanina. O grau culinário usa colheitas posteriores e geralmente moagem em esferas, produzindo um sabor mais terroso e amargo projetado para misturar em receitas em vez de ser tomado sozinho."
+      "heading": "Como Escolher Matcha em Pó",
+      "paragraphs": [
+        "A rotulagem de grau no matcha não tem um padrão legal. Aqui está o que realmente importa."
+      ],
+      "subsections": [
+        {
+          "heading": "Grau e Uso Pretendido",
+          "paragraphs": [
+            "Grau cerimonial significa folhas de primeira colheita sombreadas, moídas finamente em mó de pedra — melhor bebido puro batido com água quente. Grau culinário/latte são colheitas posteriores, mais terrosas, projetadas para misturar. Usar grau cerimonial em produtos assados é desperdício. Usar grau culinário para um bowl tradicional é decepcionante. Adeque o grau ao uso."
+          ]
+        },
+        {
+          "heading": "Origem e Processamento",
+          "paragraphs": [
+            "Uji (Kyoto) e Nishio (Aichi) são as principais regiões de matcha do Japão. O período de sombreamento antes da colheita (tipicamente 3-4 semanas) impulsiona a clorofila, a L-teanina e a concentração de aminoácidos. A moagem em pedra versus a moagem em esferas afeta o tamanho das partículas e a suavidade. Afirmações de origem sem especificidades geralmente são marketing."
+          ]
+        },
+        {
+          "heading": "Cor como Indicador de Qualidade",
+          "paragraphs": [
+            "Matcha de alta qualidade é verde vívido, quase elétrico. Tons oliva, verde-amarelado ou acinzentado indicam grau inferior, estoque velho ou exposição ao calor e à luz. A cor desbota após abrir, então compre quantidades menores se não usar diariamente."
+          ]
+        },
+        {
+          "heading": "Armazenamento e Frescura",
+          "paragraphs": [
+            "O matcha oxida rapidamente. Procure embalagens com nitrogênio ou latas reseláveis. Uma vez aberto, guarde na geladeira longe de odores fortes. A maioria dos matchas é melhor dentro de 4-6 semanas após aberto — comprar pacotes grandes de valor geralmente sai pela culatra."
+          ]
+        }
+      ]
     },
     {
-      "question": "Vale a pena o preço premium do matcha japonês em relação a alternativas mais baratas?",
-      "answer": "Para beber puro, sim — a diferença de sabor entre o matcha japonês autêntico e as importações baratas é significativa. Para assar em receitas de sabor forte, a diferença importa menos. O premium é justificado para uso cerimonial; para receitas, um grau culinário de qualidade de uma fonte japonesa confiável geralmente é suficiente."
-    },
-    {
-      "question": "Quanto de cafeína tem o matcha comparado ao café?",
-      "answer": "Uma porção padrão de 1g de matcha tem aproximadamente 35-70mg de cafeína, comparado a um shot de espresso típico com 60-90mg. A diferença-chave é a L-teanina, que modifica a absorção de cafeína e está associada a um estado de alerta tranquilo em vez de picos nervosos. Matcha de grau superior geralmente contém mais L-teanina."
-    },
-    {
-      "question": "Como devo armazenar o matcha após abrir?",
-      "answer": "Transfira para um recipiente hermético se a embalagem original não for resselável, e refrigere. Mantenha longe de alimentos de cheiro forte, pois o matcha absorve odores. Use dentro de 4-6 semanas de aberto para o melhor sabor — a cor verde vibrante e as notas frescas de umami desbotam com a oxidação."
+      "heading": "Conclusão",
+      "paragraphs": [
+        "Ippodo Kan-no-Shiro é a escolha clara para o preparo tradicional. Para lattes, o grau latte da Encha aguenta o leite melhor que a maioria. Se você assa regularmente, o grau culinário da Aiya é a opção econômica. A armadilha principal a evitar: pagar preços cerimoniais por algo que você vai misturar num smoothie, ou comprar uma mistura barata e concluir que não gosta de matcha."
+      ]
     }
   ],
-  "conclusion": "Ippodo Kan-no-Shiro é a escolha clara para o preparo tradicional. Para lattes, o grau latte da Encha aguenta o leite melhor que a maioria. Se você assa regularmente, o grau culinário da Aiya é a opção econômica. A armadilha principal a evitar: pagar preços cerimoniais por algo que você vai misturar num smoothie, ou comprar uma mistura barata e concluir que não gosta de matcha."
+  "faqs": [
+    {
+      "q": "Qual é a diferença entre matcha de grau cerimonial e culinário?",
+      "a": "O grau cerimonial usa apenas as folhas mais jovens e tenras de primeira colheita de plantas sombreadas, moídas em pedra até virarem pó fino. O resultado é mais doce, suave e com maior teor de L-teanina. O grau culinário usa colheitas posteriores e geralmente moagem em esferas, produzindo um sabor mais terroso e amargo projetado para misturar em receitas em vez de ser tomado sozinho."
+    },
+    {
+      "q": "Vale a pena o preço premium do matcha japonês em relação a alternativas mais baratas?",
+      "a": "Para beber puro, sim — a diferença de sabor entre o matcha japonês autêntico e as importações baratas é significativa. Para assar em receitas de sabor forte, a diferença importa menos. O premium é justificado para uso cerimonial; para receitas, um grau culinário de qualidade de uma fonte japonesa confiável geralmente é suficiente."
+    },
+    {
+      "q": "Quanto de cafeína tem o matcha comparado ao café?",
+      "a": "Uma porção padrão de 1g de matcha tem aproximadamente 35-70mg de cafeína, comparado a um shot de espresso típico com 60-90mg. A diferença-chave é a L-teanina, que modifica a absorção de cafeína e está associada a um estado de alerta tranquilo em vez de picos nervosos. Matcha de grau superior geralmente contém mais L-teanina."
+    },
+    {
+      "q": "Como devo armazenar o matcha após abrir?",
+      "a": "Transfira para um recipiente hermético se a embalagem original não for resselável, e refrigere. Mantenha longe de alimentos de cheiro forte, pois o matcha absorve odores. Use dentro de 4-6 semanas de aberto para o melhor sabor — a cor verde vibrante e as notas frescas de umami desbotam com a oxidação."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "ippodo-kan-no-shiro",
+      "badge": "Melhor no Geral",
+      "review": "A Ippodo vende chá em Kyoto desde 1717, e o Kan-no-Shiro é o grau cerimonial carro-chefe deles. A cor é um verde profundo, quase neon — visualmente você percebe antes mesmo de provar. Batido de forma tradicional é cremoso, naturalmente doce e com quase nenhum amargor. O teor de L-teanina é alto nos testes. O preço reflete o terroir e o processo de cultivo à sombra, mas se você leva matcha a sério, este é o ponto de referência.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "encha-latte-matcha",
+      "badge": "Melhor para Lattes",
+      "review": "A Encha fornece de uma única fazenda em Uji, Kyoto, e seu grau latte é especificamente ajustado para bebidas à base de leite. Aguenta o leite de aveia vaporizado sem perder cor ou sabor — algo que os graus mais baratos não conseguem. O perfil mais terroso, menos ideal para um chá fino puro, brilha em laticínios. Certificado Orgânico USDA. Para quem faz principalmente lattes de matcha, esta é a opção mais econômica e séria.",
+      "grade": "A"
+    },
+    {
+      "offerId": "jade-leaf-ceremonial-matcha",
+      "badge": "Melhor Custo-Benefício Cerimonial",
+      "review": "O Jade Leaf supera muito seu preço. Grau cerimonial com origem em Uji, cor razoavelmente vibrante e sabor suave de umami. Não tão complexo quanto o Ippodo, mas dramaticamente melhor que as opções de mercado de massa a aproximadamente metade do preço. Boa opção diária para quem quer qualidade real de matcha sem o compromisso premium. Nota levemente herbácea que alguns apreciam e outros não — experimente o tamanho de amostra primeiro.",
+      "grade": "A"
+    },
+    {
+      "offerId": "aiya-cooking-grade-matcha",
+      "badge": "Melhor para Assar",
+      "review": "A Aiya é um dos maiores produtores dedicados de matcha no Japão. O grau culinário é pensado para receitas onde o matcha é misturado com outros sabores fortes — produtos de panificação, smoothies, sorvete. A esse preço faz sentido economicamente (você gastaria uma fortuna usando grau cerimonial em muffins). A cor se mantém razoavelmente bem em aplicações assadas. Não é para beber puro, mas é excelente para receitas onde você quer sabor real de matcha sem gastar com grau cerimonial.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "matcha-love-unsweetened",
+      "badge": "Mais Acessível",
+      "review": "A linha Matcha Love da ITO EN é a mais distribuída nas mercearias ocidentais. O pó sem açúcar é um ponto médio sólido — melhor que as misturas de mercado de massa, abaixo dos graus cerimoniais dedicados. Existem sachês individuais convenientes se você quiser portabilidade. O sabor é agradável, embora sem graça: levemente herbáceo, ligeiramente amargo, não profundamente umami. Para alguém novo no matcha que está decidindo se gosta antes de investir em opções premium, este é um ponto de partida razoável.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Melhor no Geral",
+      "offerId": "ippodo-kan-no-shiro",
+      "reason": "A Ippodo vende chá em Kyoto desde 1717, e o Kan-no-Shiro é o grau cerimonial carro-chefe deles."
+    },
+    {
+      "label": "Melhor para Lattes",
+      "offerId": "encha-latte-matcha",
+      "reason": "A Encha fornece de uma única fazenda em Uji, Kyoto, e seu grau latte é especificamente ajustado para bebidas à base de leite."
+    },
+    {
+      "label": "Melhor Custo-Benefício Cerimonial",
+      "offerId": "jade-leaf-ceremonial-matcha",
+      "reason": "O Jade Leaf supera muito seu preço."
+    },
+    {
+      "label": "Melhor para Assar",
+      "offerId": "aiya-cooking-grade-matcha",
+      "reason": "A Aiya é um dos maiores produtores dedicados de matcha no Japão."
+    },
+    {
+      "label": "Mais Acessível",
+      "offerId": "matcha-love-unsweetened",
+      "reason": "A linha Matcha Love da ITO EN é a mais distribuída nas mercearias ocidentais."
+    }
+  ]
 }

@@ -1,73 +1,123 @@
 {
   "title": "Best Yerba Mate Loose Leaf 2026: High-Energy Brews Worth the Ritual",
   "description": "We tested 5 loose-leaf yerba mates for flavor, energy quality, and brewing experience. Green, smoked, and aged options compared — here's what delivers.",
-  "intro": "Loose-leaf yerba mate is fundamentally different from canned mate beverages — the loose-leaf traditional preparation with a gourd and bombilla extracts the full spectrum of compounds that make mate energizing and flavorful. We tested five loose-leaf options from smooth green mate to traditional smoked varieties to understand what makes quality mate worth the preparation ritual.",
-  "products": {
-    "cruz-de-malta-traditional-yerba-mate": {
-      "name": "Cruz de Malta Traditional Yerba Mate",
-      "badge": "Best Traditional Argentine Mate",
-      "review": "Cruz de Malta is one of the most widely consumed yerba mate brands in Argentina — this is the mate Argentines drink daily, which means it represents the authentic flavor profile that mate drinkers build a baseline from. The blend is medium-bodied with a balanced earthy and slightly grassy flavor and a clean bitter finish. The cut is traditional Argentine style (stems included, fine cut) which means good extraction from the bombilla without clogging. This is the right first loose-leaf mate for someone coming from canned mate beverages who wants to understand what traditional mate actually tastes like. Not the most complex or refined, but genuinely authentic."
-    },
-    "rosamonte-especial-yerba-mate": {
-      "name": "Rosamonte Especial Yerba Mate",
-      "badge": "Best Bold Flavor Mate",
-      "review": "Rosamonte Especial is for mate drinkers who like intensity — it's more aged and stronger than Cruz de Malta, with a deeper, more bitter earth-and-tobacco-adjacent character. This is the mate that converts skeptics who found their first mate too bland, and the one that intimidates newcomers. The aging process concentrates flavor; some people find it too intense without moderation, while enthusiasts find it the most satisfying mate on the market. The extraction is efficient and sustains through multiple refills of the gourd better than lighter mates. If you've been drinking mate for a while and want something with more complexity and body, Rosamonte Especial is the step up."
-    },
-    "anna-park-organic-green-yerba-mate": {
-      "name": "Anna Park Organic Green Yerba Mate",
-      "badge": "Best Green (Unsmoked) Mate",
-      "review": "Green mate (mate verde or sin humo) is processed without the traditional drying smoke, resulting in a lighter, more grassy, and more delicate flavor than smoked mates. Anna Park's organic green mate is cut fine and produces a smooth cup that is less aggressive than traditional smoked mate — easier for newcomers and preferred by those who dislike the smoky undertone. The organic certification matters here since mate accumulates soil compounds readily. Green mate has a different energy profile from traditional smoked mate — slightly more subtle, less of the traditional deep earthiness. For those exploring mate as a coffee replacement and finding traditional mate too harsh, green mate is the right introduction."
-    },
-    "guayaki-traditional-loose-leaf": {
-      "name": "Guayakí Traditional Loose Leaf Yerba Mate",
-      "badge": "Best Ethically Sourced Mate",
-      "review": "Guayakí is the most recognized yerba mate brand in North American natural food markets, and for good reason — their sourcing from Atlantic Forest agroforestry systems is genuinely differentiated (not just marketing), and the mate quality is consistently good. The traditional cut produces a balanced, medium-intensity mate with a smooth earthy character. The fair trade and certified organic credentials are verified. For mate drinkers who care about sourcing provenance as much as flavor, Guayakí is the responsible choice. The price reflects the sourcing premium. Not the most intense mate, but a quality product from a supply chain worth supporting."
-    },
-    "canarias-yerba-mate": {
-      "name": "Canarias Yerba Mate",
-      "badge": "Best Uruguayan Style Mate",
-      "review": "Canarias is a Uruguayan brand (versus most popular mates which are Argentine) and the Uruguayan style is notably different — the cut is finer, the blend is typically without stems, and the preparation tends to produce a stronger and more bitter cup. Uruguayans are known for drinking the strongest mate in South America. If you prefer intensity over balance and want to explore Uruguayan mate culture, Canarias is the authentic representative. The fine cut can clog a bombilla with wider holes — use a bombilla designed for fine cut. For experienced mate drinkers looking to explore regional style differences, this is the distinctive pick."
-    }
-  },
-  "buyingGuide": {
-    "title": "How to Choose Loose-Leaf Yerba Mate",
-    "intro": "Origin country (Argentina vs. Uruguay vs. Brazil), cut style, and smoked vs. green are the three factors that determine your mate experience.",
-    "factors": [
-      {
-        "name": "Argentine vs. Uruguayan vs. Brazilian Style",
-        "detail": "Argentine mate has stems included, medium cut, aged, earthy-smoky flavor — the most widely exported and consumed globally. Uruguayan mate is finer cut, no stems, stronger and more bitter. Brazilian erva-mate tends to be lighter green (less aged), slightly sweet, and uses a different brewing style (often with a bomba rather than a bombilla). Most North American and European mate drinkers start with Argentine style as it's most available and most forgiving."
-      },
-      {
-        "name": "Smoked vs. Green (Unsmoked) Mate",
-        "detail": "Traditional mate is dried over fire or smoke, giving it earthy, slightly smoky characteristics. Green mate (mate verde, sin humo, or simply 'unsmoked') is air-dried or heat-dried without smoke, producing lighter, more vegetal, and more grassy flavors. Green mate is also higher in chlorophyll and certain antioxidants. For coffee drinkers used to a clean energy profile without smokiness, green mate is more approachable. For traditional mate culture, smoked is the baseline."
-      },
-      {
-        "name": "The Bombilla and Gourd Setup",
-        "detail": "Loose-leaf mate is best prepared in a gourd (mate gourd, wood, or glass) with a bombilla (filtered metal straw). The bombilla filter style should match the cut of your mate — fine-cut mates (Uruguayan style) need bombillas with very small holes; coarser Argentine cuts work with standard bombilla filters. Temperature matters: 70-80°C water (not boiling) is traditional to avoid bitter extraction and preserve the beneficial compounds. Do not use boiling water with mate."
-      },
-      {
-        "name": "Aging and Freshness",
-        "detail": "Yerba mate is typically aged 6-24 months after processing, during which flavor mellows and compounds develop. Fresher (shorter aging) mate is more grassy and green. Longer-aged mate is earthier and more complex. Most commercial Argentine brands are medium-aged. Buy from stores with reasonable turnover and check the production date when possible. Mate in sealed bags maintains freshness; once opened, store in an airtight container away from light."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "Loose-leaf yerba mate is fundamentally different from canned mate beverages — the loose-leaf traditional preparation with a gourd and bombilla extracts the full spectrum of compounds that make mate energizing and flavorful. We tested five loose-leaf options from smooth green mate to traditional smoked varieties to understand what makes quality mate worth the preparation ritual.",
+  "sections": [
     {
-      "question": "How much caffeine is in yerba mate compared to coffee?",
-      "answer": "A traditional gourd of yerba mate contains approximately 80-200mg of caffeine depending on preparation, which overlaps significantly with coffee (typically 80-150mg per cup). However, mate also contains theobromine and theophylline (the same stimulants in chocolate and tea), which modify the caffeine effect — many mate drinkers describe the energy as 'smoother' and longer-lasting with less crash than coffee. This isn't just perception: the alkaloid combination genuinely produces a different stimulation profile."
+      "heading": "How to Choose Loose-Leaf Yerba Mate",
+      "paragraphs": [
+        "Origin country (Argentina vs. Uruguay vs. Brazil), cut style, and smoked vs. green are the three factors that determine your mate experience."
+      ],
+      "subsections": [
+        {
+          "heading": "Argentine vs. Uruguayan vs. Brazilian Style",
+          "paragraphs": [
+            "Argentine mate has stems included, medium cut, aged, earthy-smoky flavor — the most widely exported and consumed globally. Uruguayan mate is finer cut, no stems, stronger and more bitter. Brazilian erva-mate tends to be lighter green (less aged), slightly sweet, and uses a different brewing style (often with a bomba rather than a bombilla). Most North American and European mate drinkers start with Argentine style as it's most available and most forgiving."
+          ]
+        },
+        {
+          "heading": "Smoked vs. Green (Unsmoked) Mate",
+          "paragraphs": [
+            "Traditional mate is dried over fire or smoke, giving it earthy, slightly smoky characteristics. Green mate (mate verde, sin humo, or simply 'unsmoked') is air-dried or heat-dried without smoke, producing lighter, more vegetal, and more grassy flavors. Green mate is also higher in chlorophyll and certain antioxidants. For coffee drinkers used to a clean energy profile without smokiness, green mate is more approachable. For traditional mate culture, smoked is the baseline."
+          ]
+        },
+        {
+          "heading": "The Bombilla and Gourd Setup",
+          "paragraphs": [
+            "Loose-leaf mate is best prepared in a gourd (mate gourd, wood, or glass) with a bombilla (filtered metal straw). The bombilla filter style should match the cut of your mate — fine-cut mates (Uruguayan style) need bombillas with very small holes; coarser Argentine cuts work with standard bombilla filters. Temperature matters: 70-80°C water (not boiling) is traditional to avoid bitter extraction and preserve the beneficial compounds. Do not use boiling water with mate."
+          ]
+        },
+        {
+          "heading": "Aging and Freshness",
+          "paragraphs": [
+            "Yerba mate is typically aged 6-24 months after processing, during which flavor mellows and compounds develop. Fresher (shorter aging) mate is more grassy and green. Longer-aged mate is earthier and more complex. Most commercial Argentine brands are medium-aged. Buy from stores with reasonable turnover and check the production date when possible. Mate in sealed bags maintains freshness; once opened, store in an airtight container away from light."
+          ]
+        }
+      ]
     },
     {
-      "question": "Is yerba mate healthy?",
-      "answer": "Mate has documented health benefits: high antioxidant content, evidence for improved physical performance, some evidence for cardiovascular benefit, and substantial prebiotic fiber. The concern: epidemiological studies in South America show association between very high mate consumption (several liters hot per day) and esophageal and oral cancer — likely from the heat of the liquid rather than mate compounds specifically. Reasonable consumption (1-3 cups daily, not scalding hot) appears low-risk for most adults. The carcinogen concern applies to scalding-hot consumption, not moderate use."
-    },
-    {
-      "question": "Do I need a gourd and bombilla to drink loose-leaf mate?",
-      "answer": "No, but it's the traditional method for a reason — the gourd absorbs some bitterness over time (seasoned gourds taste better), and the bombilla allows extended infusion that bags can't replicate. You can brew loose mate in a French press, teapot with a fine strainer, or a mate glass (modern versions use glass with built-in strainer). For first-time mate experience, using a basic gourd and bombilla is the recommended approach — it's how mate is meant to be consumed and demonstrates what the experience is supposed to be."
-    },
-    {
-      "question": "How many times can you refill a mate gourd?",
-      "answer": "A good mate gourd can be refilled 10-20+ times before the yerba is fully spent. You know the mate is spent when the flavor becomes very light and watery — lavado (washed out). Uruguayan-style fine mates typically last fewer refills than coarser Argentine styles. Adding mate to a nearly-spent gourd is generally not done; use the whole charge from start to finish. The mate experience is the sustained session of multiple refills, not a single cup."
+      "heading": "Bottom line",
+      "paragraphs": [
+        "Cruz de Malta is the correct starting point for traditional Argentine mate — authentic, balanced, and widely available. For intensity and complexity, Rosamonte Especial is the next level up. Guayakí is the responsible sourcing choice with quality you can trust. For those who find traditional smoked mate too harsh, Anna Park green mate is the approachable alternative. Whatever you choose, don't use boiling water — 70-80°C preserves the compounds that make mate different from coffee."
+      ]
     }
   ],
-  "conclusion": "Cruz de Malta is the correct starting point for traditional Argentine mate — authentic, balanced, and widely available. For intensity and complexity, Rosamonte Especial is the next level up. Guayakí is the responsible sourcing choice with quality you can trust. For those who find traditional smoked mate too harsh, Anna Park green mate is the approachable alternative. Whatever you choose, don't use boiling water — 70-80°C preserves the compounds that make mate different from coffee."
+  "faqs": [
+    {
+      "q": "How much caffeine is in yerba mate compared to coffee?",
+      "a": "A traditional gourd of yerba mate contains approximately 80-200mg of caffeine depending on preparation, which overlaps significantly with coffee (typically 80-150mg per cup). However, mate also contains theobromine and theophylline (the same stimulants in chocolate and tea), which modify the caffeine effect — many mate drinkers describe the energy as 'smoother' and longer-lasting with less crash than coffee. This isn't just perception: the alkaloid combination genuinely produces a different stimulation profile."
+    },
+    {
+      "q": "Is yerba mate healthy?",
+      "a": "Mate has documented health benefits: high antioxidant content, evidence for improved physical performance, some evidence for cardiovascular benefit, and substantial prebiotic fiber. The concern: epidemiological studies in South America show association between very high mate consumption (several liters hot per day) and esophageal and oral cancer — likely from the heat of the liquid rather than mate compounds specifically. Reasonable consumption (1-3 cups daily, not scalding hot) appears low-risk for most adults. The carcinogen concern applies to scalding-hot consumption, not moderate use."
+    },
+    {
+      "q": "Do I need a gourd and bombilla to drink loose-leaf mate?",
+      "a": "No, but it's the traditional method for a reason — the gourd absorbs some bitterness over time (seasoned gourds taste better), and the bombilla allows extended infusion that bags can't replicate. You can brew loose mate in a French press, teapot with a fine strainer, or a mate glass (modern versions use glass with built-in strainer). For first-time mate experience, using a basic gourd and bombilla is the recommended approach — it's how mate is meant to be consumed and demonstrates what the experience is supposed to be."
+    },
+    {
+      "q": "How many times can you refill a mate gourd?",
+      "a": "A good mate gourd can be refilled 10-20+ times before the yerba is fully spent. You know the mate is spent when the flavor becomes very light and watery — lavado (washed out). Uruguayan-style fine mates typically last fewer refills than coarser Argentine styles. Adding mate to a nearly-spent gourd is generally not done; use the whole charge from start to finish. The mate experience is the sustained session of multiple refills, not a single cup."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "cruz-de-malta-traditional-yerba-mate",
+      "badge": "Best Traditional Argentine Mate",
+      "review": "Cruz de Malta is one of the most widely consumed yerba mate brands in Argentina — this is the mate Argentines drink daily, which means it represents the authentic flavor profile that mate drinkers build a baseline from. The blend is medium-bodied with a balanced earthy and slightly grassy flavor and a clean bitter finish. The cut is traditional Argentine style (stems included, fine cut) which means good extraction from the bombilla without clogging. This is the right first loose-leaf mate for someone coming from canned mate beverages who wants to understand what traditional mate actually tastes like. Not the most complex or refined, but genuinely authentic.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "rosamonte-especial-yerba-mate",
+      "badge": "Best Bold Flavor Mate",
+      "review": "Rosamonte Especial is for mate drinkers who like intensity — it's more aged and stronger than Cruz de Malta, with a deeper, more bitter earth-and-tobacco-adjacent character. This is the mate that converts skeptics who found their first mate too bland, and the one that intimidates newcomers. The aging process concentrates flavor; some people find it too intense without moderation, while enthusiasts find it the most satisfying mate on the market. The extraction is efficient and sustains through multiple refills of the gourd better than lighter mates. If you've been drinking mate for a while and want something with more complexity and body, Rosamonte Especial is the step up.",
+      "grade": "A"
+    },
+    {
+      "offerId": "anna-park-organic-green-yerba-mate",
+      "badge": "Best Green (Unsmoked) Mate",
+      "review": "Green mate (mate verde or sin humo) is processed without the traditional drying smoke, resulting in a lighter, more grassy, and more delicate flavor than smoked mates. Anna Park's organic green mate is cut fine and produces a smooth cup that is less aggressive than traditional smoked mate — easier for newcomers and preferred by those who dislike the smoky undertone. The organic certification matters here since mate accumulates soil compounds readily. Green mate has a different energy profile from traditional smoked mate — slightly more subtle, less of the traditional deep earthiness. For those exploring mate as a coffee replacement and finding traditional mate too harsh, green mate is the right introduction.",
+      "grade": "A"
+    },
+    {
+      "offerId": "guayaki-traditional-loose-leaf",
+      "badge": "Best Ethically Sourced Mate",
+      "review": "Guayakí is the most recognized yerba mate brand in North American natural food markets, and for good reason — their sourcing from Atlantic Forest agroforestry systems is genuinely differentiated (not just marketing), and the mate quality is consistently good. The traditional cut produces a balanced, medium-intensity mate with a smooth earthy character. The fair trade and certified organic credentials are verified. For mate drinkers who care about sourcing provenance as much as flavor, Guayakí is the responsible choice. The price reflects the sourcing premium. Not the most intense mate, but a quality product from a supply chain worth supporting.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "canarias-yerba-mate",
+      "badge": "Best Uruguayan Style Mate",
+      "review": "Canarias is a Uruguayan brand (versus most popular mates which are Argentine) and the Uruguayan style is notably different — the cut is finer, the blend is typically without stems, and the preparation tends to produce a stronger and more bitter cup. Uruguayans are known for drinking the strongest mate in South America. If you prefer intensity over balance and want to explore Uruguayan mate culture, Canarias is the authentic representative. The fine cut can clog a bombilla with wider holes — use a bombilla designed for fine cut. For experienced mate drinkers looking to explore regional style differences, this is the distinctive pick.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Best Traditional Argentine Mate",
+      "offerId": "cruz-de-malta-traditional-yerba-mate",
+      "reason": "Cruz de Malta is one of the most widely consumed yerba mate brands in Argentina — this is the mate Argentines drink daily, whic..."
+    },
+    {
+      "label": "Best Bold Flavor Mate",
+      "offerId": "rosamonte-especial-yerba-mate",
+      "reason": "Rosamonte Especial is for mate drinkers who like intensity — it's more aged and stronger than Cruz de Malta, with a deeper, mor..."
+    },
+    {
+      "label": "Best Green (Unsmoked) Mate",
+      "offerId": "anna-park-organic-green-yerba-mate",
+      "reason": "Green mate (mate verde or sin humo) is processed without the traditional drying smoke, resulting in a lighter, more grassy, and..."
+    },
+    {
+      "label": "Best Ethically Sourced Mate",
+      "offerId": "guayaki-traditional-loose-leaf",
+      "reason": "Guayakí is the most recognized yerba mate brand in North American natural food markets, and for good reason — their sourcing fr..."
+    },
+    {
+      "label": "Best Uruguayan Style Mate",
+      "offerId": "canarias-yerba-mate",
+      "reason": "Canarias is a Uruguayan brand (versus most popular mates which are Argentine) and the Uruguayan style is notably different — th..."
+    }
+  ]
 }

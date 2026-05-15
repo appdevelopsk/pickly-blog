@@ -1,73 +1,123 @@
 {
   "title": "Mejores Raquetas de Bádminton 2026: Velocidad, Potencia y Control para Todos los Niveles",
   "description": "Probamos 5 raquetas de bádminton para velocidad de swing, generación de potencia y control. Desde fibra de carbono élite hasta opciones para principiantes — esto es lo que realmente rinde.",
-  "intro": "Las raquetas de bádminton fallan a los jugadores de dos maneras: son tan rígidas que los principiantes no pueden generar potencia sin técnica profesional, o tan flexibles que los jugadores experimentados pierden la precisión necesaria para el juego de red y los despejes defensivos. La raqueta correcta depende de tu nivel de habilidad, estilo de juego y si priorizas la potencia de smash o el control en la red. Probamos cinco opciones desde nivel profesional hasta recreativo para encontrar dónde está el valor real.",
-  "products": {
-    "yonex-astrox-88d-pro": {
-      "name": "Yonex Astrox 88D Pro",
-      "badge": "Mejor Raqueta para Dobles/Smash",
-      "review": "El Astrox 88D Pro está diseñado específicamente para jugadores de dobles que dependen de smashes potentes y pronunciados — el equilibrio con cabeza pesada pone más masa detrás de cada swing y el eje extra rígido transfiere la potencia del swing directamente a la velocidad del volante. La tecnología de grafito Namd flexiona y recupera más rápido que el carbono estándar, lo que añade pegada al final del arco de swing. La raqueta no perdona los golpes con mala sincronización — el flex rígido penaliza el contacto fuera del centro y el equilibrio con cabeza pesada requiere mecánicas de swing deliberadas. Para jugadores avanzados de dobles que ya tienen una técnica consistente y quieren la máxima potencia de smash, el 88D Pro es la elección. Para jugadores que aún están desarrollando consistencia o que juegan mucho en la red y en defensa, el diseño orientado a la potencia trabaja en tu contra."
-    },
-    "yonex-nanoflare-800": {
-      "name": "Yonex Nanoflare 800",
-      "badge": "Mejor Raqueta para Individuales/Velocidad",
-      "review": "El Nanoflare 800 está diseñado para el juego de individuales y los patrones de movimiento continuo que requiere — el equilibrio con cabeza ligera reduce la fatiga durante los rallies largos y el flex de recuperación rápida ayuda con los intercambios veloces en la red y la recuperación defensiva. El marco aerodinámico reduce la resistencia al aire, lo que importa cuando juegas a ritmo y necesitas recuperar la posición de la raqueta rápidamente. El eje de flex medio proporciona suficiente retroalimentación para colocar los golpes con precisión sin requerir una sincronización de nivel profesional. La contrapartida es la potencia de smash — el equilibrio con cabeza ligera no genera la velocidad del volante de las raquetas con cabeza pesada en smashes aéreos agresivos. Para jugadores de nivel intermedio a avanzado de individuales que valoran la consistencia y la velocidad sobre la potencia máxima, el Nanoflare 800 es la herramienta correcta."
-    },
-    "victor-thruster-k-9900": {
-      "name": "Victor Thruster K 9900",
-      "badge": "Mejor Alternativa Premium a Yonex",
-      "review": "El Thruster K 9900 de Victor se posiciona frente a las raquetas de dobles de primer nivel de Yonex — equilibrio con cabeza pesada, eje rígido, diseñado para el juego de dobles con énfasis en el smash. El marco de carbono Pyrofil es comparable en calidad al grafito Namd de Yonex. Donde Victor se diferencia: el punto de equilibrio es ligeramente menos extremo que el Astrox 88D Pro, lo que lo hace más accesible para jugadores que no son puramente especialistas en dobles. El precio suele ser inferior a los modelos equivalentes de Yonex, lo que lo convierte en la opción de valor en el nivel de competición. Para jugadores serios que quieren rendimiento a nivel de competición pero encuentran los precios de Yonex prohibitivos, la raqueta de dobles insignia de Victor ofrece resultados comparables a menor costo."
-    },
-    "yonex-arcsaber-11": {
-      "name": "Yonex Arcsaber 11",
-      "badge": "Mejor Raqueta de Control Todo Terreno",
-      "review": "El Arcsaber 11 es el referente de Yonex para jugadores orientados al control — punto de equilibrio neutro, flex medio-rígido, diseñado para mantener el volante en las cuerdas una fracción de segundo más para la precisión de colocación. Los jugadores principiantes e intermedios suelen informar que la serie Arcsaber produce golpes más consistentes con menos técnica que las raquetas orientadas a la potencia, porque la combinación de equilibrio y flex es más tolerante con las variaciones de sincronización. La contrapartida es la potencia máxima de smash — el equilibrio neutro no genera la velocidad de raqueta con cabeza pesada. Para jugadores intermedios que juegan tanto individuales como dobles, que valoran los despejes fiables y los drops precisos sobre el smash máximo, y que quieren una raqueta que ayude en lugar de exigir, el Arcsaber 11 es la elección reflexiva."
-    },
-    "yonex-duora-10": {
-      "name": "Yonex Duora 10",
-      "badge": "Mejor Raqueta con Diseño Bidireccional",
-      "review": "El Duora 10 tiene un diseño genuinamente inusual: los lados de drive y revés del marco tienen geometrías diferentes — el lado de drive está optimizado para golpes de potencia y el lado de revés para golpes planos y rápidos. El concepto aborda la realidad de que los swings de drive y revés crean diferentes aerodinámicas y requieren diferentes respuestas del marco. En la práctica, los jugadores que pueden usar ambos lados deliberadamente informan de drives de revés notablemente mejores en comparación con raquetas simétricas. La raqueta requiere aprender a posicionar el lado correcto para cada golpe, lo que añade una curva de aprendizaje técnico. Para jugadores que tienen dificultades con la potencia del revés y quieren una raqueta que aborde específicamente esa debilidad, el Duora 10 es la opción especializada."
-    }
-  },
-  "buyingGuide": {
-    "title": "Cómo Elegir una Raqueta de Bádminton",
-    "intro": "El punto de equilibrio, la flexibilidad del eje y la clase de peso son las tres especificaciones que determinan si una raqueta de bádminton se adapta a tu juego o lucha contra él.",
-    "factors": [
-      {
-        "name": "Punto de Equilibrio: Cabeza Pesada vs Cabeza Ligera vs Neutro",
-        "detail": "Las raquetas con cabeza pesada (como el Astrox 88D) colocan masa hacia la parte superior del marco, lo que genera más potencia en los smashes agresivos. Se prefieren para el juego de dobles donde los smashes pronunciados ganan puntos. Las raquetas con cabeza ligera (serie Nanoflare) son más rápidas de maniobrar, se recuperan rápidamente para el juego defensivo y reducen la fatiga — se prefieren para individuales. Las raquetas con equilibrio neutro (serie Arcsaber) son la elección todo terreno, sacrificando la potencia máxima y la velocidad máxima por versatilidad. Tu estilo de juego principal debería guiar esta elección: si juegas principalmente dobles y haces smash con frecuencia, cabeza pesada; si juegas individuales a ritmo, cabeza ligera; si mezclas ambos o aún estás en desarrollo, equilibrio neutro."
-      },
-      {
-        "name": "Flexibilidad del Eje: Rígido vs Medio vs Flexible",
-        "detail": "La flexibilidad del eje determina cuánto se dobla la raqueta durante un swing y cuándo recupera su forma. Los ejes rígidos requieren velocidades de swing rápidas y agresivas para cargarse y liberarse correctamente — penalizan los swings lentos o mal sincronizados pero recompensan la técnica agresiva rápida con potencia y precisión. Los ejes flexibles generan potencia incluso con swings más lentos — son tolerantes y se usan en raquetas para principiantes. El flex medio es la elección práctica para la mayoría de los jugadores intermedios: suficiente asistencia de potencia sin las exigencias de precisión de los ejes rígidos. Como regla general: si no juegas al menos dos veces por semana, un eje rígido se sentirá sin respuesta e impreciso."
-      },
-      {
-        "name": "Clase de Peso",
-        "detail": "Las raquetas de bádminton se clasifican por peso usando el sistema 'U' de Yonex: 3U (85-89g), 4U (80-84g), 5U (75-79g). Las raquetas más ligeras son más fáciles de girar rápidamente y reducen la fatiga en sesiones largas. Las raquetas más pesadas generan más impulso. La mayoría de los jugadores de club usan 4U como punto medio práctico. 3U es común en raquetas de dobles con cabeza pesada donde el peso añade masa al smash. Las raquetas ultraligeras 5U y 6U son populares entre los especialistas en defensa que priorizan el tiempo de reacción. Al comprar una raqueta, verifica la clase de peso que obtienes — el mismo modelo puede estar disponible en múltiples pesos."
-      },
-      {
-        "name": "Tensión de las Cuerdas",
-        "detail": "Las raquetas se venden sin cuerdas o con tensión predeterminada. Los profesionales tensan a 27-30 libras para una respuesta de recuperación en los swings fuertes. Los jugadores recreativos suelen rendir mejor a 22-26 libras — una tensión más alta exige más técnica y puede causar tensión en el brazo con las raquetas modernas de grafito. Si compras una raqueta precordada a 20-22 libras (común en ventas de nivel principiante), está bien para principiantes; mejora la cuerda y la tensión cuando progreses. Recuerda cuando las cuerdas se rompan o cuando el volante deje de sentirse ágil — las cuerdas pierden tensión y respuesta con el tiempo aunque no se rompan."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "Las raquetas de bádminton fallan a los jugadores de dos maneras: son tan rígidas que los principiantes no pueden generar potencia sin técnica profesional, o tan flexibles que los jugadores experimentados pierden la precisión necesaria para el juego de red y los despejes defensivos. La raqueta correcta depende de tu nivel de habilidad, estilo de juego y si priorizas la potencia de smash o el control en la red. Probamos cinco opciones desde nivel profesional hasta recreativo para encontrar dónde está el valor real.",
+  "sections": [
     {
-      "question": "¿Cuál es la diferencia entre los modelos Yonex y las alternativas más baratas?",
-      "answer": "En el nivel insignia (Astrox, Nanoflare, niveles superiores del Arcsaber), Yonex usa compuestos de grafito propietarios (Namd, HM Graphite) y procesos de fabricación que afectan genuinamente al rendimiento — la consistencia del marco, el comportamiento del flex y la durabilidad son mediblemente diferentes. En el nivel recreativo de $30-60, la diferencia tiene que ver menos con el rendimiento y más con la durabilidad del marco y la calidad de las cuerdas. Victor y Li-Ning producen alternativas genuinas en el nivel de competición. Para jugadores recreativos que juegan menos de dos veces por semana, una raqueta recreativa bien fabricada de $40-60 de cualquier marca rinde adecuadamente. Invierte en Yonex o Victor de nivel competitivo cuando juegas regularmente y puedes percibir la diferencia en la calidad de los golpes."
+      "heading": "Cómo Elegir una Raqueta de Bádminton",
+      "paragraphs": [
+        "El punto de equilibrio, la flexibilidad del eje y la clase de peso son las tres especificaciones que determinan si una raqueta de bádminton se adapta a tu juego o lucha contra él."
+      ],
+      "subsections": [
+        {
+          "heading": "Punto de Equilibrio: Cabeza Pesada vs Cabeza Ligera vs Neutro",
+          "paragraphs": [
+            "Las raquetas con cabeza pesada (como el Astrox 88D) colocan masa hacia la parte superior del marco, lo que genera más potencia en los smashes agresivos. Se prefieren para el juego de dobles donde los smashes pronunciados ganan puntos. Las raquetas con cabeza ligera (serie Nanoflare) son más rápidas de maniobrar, se recuperan rápidamente para el juego defensivo y reducen la fatiga — se prefieren para individuales. Las raquetas con equilibrio neutro (serie Arcsaber) son la elección todo terreno, sacrificando la potencia máxima y la velocidad máxima por versatilidad. Tu estilo de juego principal debería guiar esta elección: si juegas principalmente dobles y haces smash con frecuencia, cabeza pesada; si juegas individuales a ritmo, cabeza ligera; si mezclas ambos o aún estás en desarrollo, equilibrio neutro."
+          ]
+        },
+        {
+          "heading": "Flexibilidad del Eje: Rígido vs Medio vs Flexible",
+          "paragraphs": [
+            "La flexibilidad del eje determina cuánto se dobla la raqueta durante un swing y cuándo recupera su forma. Los ejes rígidos requieren velocidades de swing rápidas y agresivas para cargarse y liberarse correctamente — penalizan los swings lentos o mal sincronizados pero recompensan la técnica agresiva rápida con potencia y precisión. Los ejes flexibles generan potencia incluso con swings más lentos — son tolerantes y se usan en raquetas para principiantes. El flex medio es la elección práctica para la mayoría de los jugadores intermedios: suficiente asistencia de potencia sin las exigencias de precisión de los ejes rígidos. Como regla general: si no juegas al menos dos veces por semana, un eje rígido se sentirá sin respuesta e impreciso."
+          ]
+        },
+        {
+          "heading": "Clase de Peso",
+          "paragraphs": [
+            "Las raquetas de bádminton se clasifican por peso usando el sistema 'U' de Yonex: 3U (85-89g), 4U (80-84g), 5U (75-79g). Las raquetas más ligeras son más fáciles de girar rápidamente y reducen la fatiga en sesiones largas. Las raquetas más pesadas generan más impulso. La mayoría de los jugadores de club usan 4U como punto medio práctico. 3U es común en raquetas de dobles con cabeza pesada donde el peso añade masa al smash. Las raquetas ultraligeras 5U y 6U son populares entre los especialistas en defensa que priorizan el tiempo de reacción. Al comprar una raqueta, verifica la clase de peso que obtienes — el mismo modelo puede estar disponible en múltiples pesos."
+          ]
+        },
+        {
+          "heading": "Tensión de las Cuerdas",
+          "paragraphs": [
+            "Las raquetas se venden sin cuerdas o con tensión predeterminada. Los profesionales tensan a 27-30 libras para una respuesta de recuperación en los swings fuertes. Los jugadores recreativos suelen rendir mejor a 22-26 libras — una tensión más alta exige más técnica y puede causar tensión en el brazo con las raquetas modernas de grafito. Si compras una raqueta precordada a 20-22 libras (común en ventas de nivel principiante), está bien para principiantes; mejora la cuerda y la tensión cuando progreses. Recuerda cuando las cuerdas se rompan o cuando el volante deje de sentirse ágil — las cuerdas pierden tensión y respuesta con el tiempo aunque no se rompan."
+          ]
+        }
+      ]
     },
     {
-      "question": "¿Debería comprar un set de bádminton o raquetas individuales?",
-      "answer": "Los sets (raqueta + volantes + bolsa) comercializados para principiantes son casi siempre compromisos — las raquetas son pesadas, la flexibilidad del marco es apropiada para principiantes, pero superarás la raqueta antes de desgastarla. Para juego recreativo ocasional, un set está bien. Para cualquier persona que juegue regularmente, compra una sola raqueta adecuada con las especificaciones correctas para tu nivel y los volantes por separado. La diferencia de costo entre una raqueta de set y una raqueta de entrada adecuada (como un modelo de entrada-competición de Victor o Yonex) es pequeña, y la diferencia de rendimiento es significativa."
-    },
-    {
-      "question": "¿Cuánto dura una raqueta de bádminton?",
-      "answer": "Marco: 2-5 años con uso normal, dependiendo de la calidad del material y con qué frecuencia el marco contacta el suelo. Los marcos de grafito de carbono son más frágiles que los marcos de aluminio recreativos — un contacto con el suelo que simplemente abolla un marco de aluminio puede agrietar un marco de carbono. Cuerdas: 3-6 meses de juego regular antes de que la pérdida de tensión sea notable; reemplazo inmediato si se rompe una cuerda. Grip: reemplaza cuando se vuelva resbaladizo o incómodo — la mayoría de los jugadores reemplaza el grip cada 3-6 meses. El marco de la raqueta suele durar más que varios juegos de cuerdas y grips."
-    },
-    {
-      "question": "¿Puedo usar una raqueta de bádminton para otros deportes de raqueta?",
-      "answer": "No — las raquetas de bádminton son demasiado ligeras y las cuerdas demasiado finas para las pelotas de squash o tenis. Usar una raqueta de bádminton para cualquier deporte con pelota dañará inmediatamente el marco o las cuerdas. El bádminton es un deporte con equipamiento dedicado: el volante, las dimensiones de la cancha, la altura de la red y las especificaciones de la raqueta están todos integrados alrededor de la dinámica única de vuelo del volante. Una raqueta de bádminton adecuada usada solo para bádminton es la herramienta correcta para el juego correcto."
+      "heading": "Conclusión",
+      "paragraphs": [
+        "Para los jugadores de dobles que priorizan la potencia de smash pronunciado, el Yonex Astrox 88D Pro es la elección diseñada para ese propósito. Los jugadores de individuales y los especialistas en defensa deberían mirar el Nanoflare 800 por su perfil de velocidad y recuperación. El Arcsaber 11 es la recomendación de control todo terreno para jugadores intermedios que desarrollan técnica. El Victor Thruster K 9900 es la alternativa de valor premium para jugadores que quieren rendimiento de dobles a nivel de competición a menor costo que los precios insignia de Yonex. Lo innegociable para cualquier nivel: ajusta la flexibilidad del eje a tu velocidad de swing — una raqueta rígida con un swing lento siempre rendirá por debajo de una raqueta de flex medio usada correctamente."
+      ]
     }
   ],
-  "conclusion": "Para los jugadores de dobles que priorizan la potencia de smash pronunciado, el Yonex Astrox 88D Pro es la elección diseñada para ese propósito. Los jugadores de individuales y los especialistas en defensa deberían mirar el Nanoflare 800 por su perfil de velocidad y recuperación. El Arcsaber 11 es la recomendación de control todo terreno para jugadores intermedios que desarrollan técnica. El Victor Thruster K 9900 es la alternativa de valor premium para jugadores que quieren rendimiento de dobles a nivel de competición a menor costo que los precios insignia de Yonex. Lo innegociable para cualquier nivel: ajusta la flexibilidad del eje a tu velocidad de swing — una raqueta rígida con un swing lento siempre rendirá por debajo de una raqueta de flex medio usada correctamente."
+  "faqs": [
+    {
+      "q": "¿Cuál es la diferencia entre los modelos Yonex y las alternativas más baratas?",
+      "a": "En el nivel insignia (Astrox, Nanoflare, niveles superiores del Arcsaber), Yonex usa compuestos de grafito propietarios (Namd, HM Graphite) y procesos de fabricación que afectan genuinamente al rendimiento — la consistencia del marco, el comportamiento del flex y la durabilidad son mediblemente diferentes. En el nivel recreativo de $30-60, la diferencia tiene que ver menos con el rendimiento y más con la durabilidad del marco y la calidad de las cuerdas. Victor y Li-Ning producen alternativas genuinas en el nivel de competición. Para jugadores recreativos que juegan menos de dos veces por semana, una raqueta recreativa bien fabricada de $40-60 de cualquier marca rinde adecuadamente. Invierte en Yonex o Victor de nivel competitivo cuando juegas regularmente y puedes percibir la diferencia en la calidad de los golpes."
+    },
+    {
+      "q": "¿Debería comprar un set de bádminton o raquetas individuales?",
+      "a": "Los sets (raqueta + volantes + bolsa) comercializados para principiantes son casi siempre compromisos — las raquetas son pesadas, la flexibilidad del marco es apropiada para principiantes, pero superarás la raqueta antes de desgastarla. Para juego recreativo ocasional, un set está bien. Para cualquier persona que juegue regularmente, compra una sola raqueta adecuada con las especificaciones correctas para tu nivel y los volantes por separado. La diferencia de costo entre una raqueta de set y una raqueta de entrada adecuada (como un modelo de entrada-competición de Victor o Yonex) es pequeña, y la diferencia de rendimiento es significativa."
+    },
+    {
+      "q": "¿Cuánto dura una raqueta de bádminton?",
+      "a": "Marco: 2-5 años con uso normal, dependiendo de la calidad del material y con qué frecuencia el marco contacta el suelo. Los marcos de grafito de carbono son más frágiles que los marcos de aluminio recreativos — un contacto con el suelo que simplemente abolla un marco de aluminio puede agrietar un marco de carbono. Cuerdas: 3-6 meses de juego regular antes de que la pérdida de tensión sea notable; reemplazo inmediato si se rompe una cuerda. Grip: reemplaza cuando se vuelva resbaladizo o incómodo — la mayoría de los jugadores reemplaza el grip cada 3-6 meses. El marco de la raqueta suele durar más que varios juegos de cuerdas y grips."
+    },
+    {
+      "q": "¿Puedo usar una raqueta de bádminton para otros deportes de raqueta?",
+      "a": "No — las raquetas de bádminton son demasiado ligeras y las cuerdas demasiado finas para las pelotas de squash o tenis. Usar una raqueta de bádminton para cualquier deporte con pelota dañará inmediatamente el marco o las cuerdas. El bádminton es un deporte con equipamiento dedicado: el volante, las dimensiones de la cancha, la altura de la red y las especificaciones de la raqueta están todos integrados alrededor de la dinámica única de vuelo del volante. Una raqueta de bádminton adecuada usada solo para bádminton es la herramienta correcta para el juego correcto."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "yonex-astrox-88d-pro",
+      "badge": "Mejor Raqueta para Dobles/Smash",
+      "review": "El Astrox 88D Pro está diseñado específicamente para jugadores de dobles que dependen de smashes potentes y pronunciados — el equilibrio con cabeza pesada pone más masa detrás de cada swing y el eje extra rígido transfiere la potencia del swing directamente a la velocidad del volante. La tecnología de grafito Namd flexiona y recupera más rápido que el carbono estándar, lo que añade pegada al final del arco de swing. La raqueta no perdona los golpes con mala sincronización — el flex rígido penaliza el contacto fuera del centro y el equilibrio con cabeza pesada requiere mecánicas de swing deliberadas. Para jugadores avanzados de dobles que ya tienen una técnica consistente y quieren la máxima potencia de smash, el 88D Pro es la elección. Para jugadores que aún están desarrollando consistencia o que juegan mucho en la red y en defensa, el diseño orientado a la potencia trabaja en tu contra.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "yonex-nanoflare-800",
+      "badge": "Mejor Raqueta para Individuales/Velocidad",
+      "review": "El Nanoflare 800 está diseñado para el juego de individuales y los patrones de movimiento continuo que requiere — el equilibrio con cabeza ligera reduce la fatiga durante los rallies largos y el flex de recuperación rápida ayuda con los intercambios veloces en la red y la recuperación defensiva. El marco aerodinámico reduce la resistencia al aire, lo que importa cuando juegas a ritmo y necesitas recuperar la posición de la raqueta rápidamente. El eje de flex medio proporciona suficiente retroalimentación para colocar los golpes con precisión sin requerir una sincronización de nivel profesional. La contrapartida es la potencia de smash — el equilibrio con cabeza ligera no genera la velocidad del volante de las raquetas con cabeza pesada en smashes aéreos agresivos. Para jugadores de nivel intermedio a avanzado de individuales que valoran la consistencia y la velocidad sobre la potencia máxima, el Nanoflare 800 es la herramienta correcta.",
+      "grade": "A"
+    },
+    {
+      "offerId": "victor-thruster-k-9900",
+      "badge": "Mejor Alternativa Premium a Yonex",
+      "review": "El Thruster K 9900 de Victor se posiciona frente a las raquetas de dobles de primer nivel de Yonex — equilibrio con cabeza pesada, eje rígido, diseñado para el juego de dobles con énfasis en el smash. El marco de carbono Pyrofil es comparable en calidad al grafito Namd de Yonex. Donde Victor se diferencia: el punto de equilibrio es ligeramente menos extremo que el Astrox 88D Pro, lo que lo hace más accesible para jugadores que no son puramente especialistas en dobles. El precio suele ser inferior a los modelos equivalentes de Yonex, lo que lo convierte en la opción de valor en el nivel de competición. Para jugadores serios que quieren rendimiento a nivel de competición pero encuentran los precios de Yonex prohibitivos, la raqueta de dobles insignia de Victor ofrece resultados comparables a menor costo.",
+      "grade": "A"
+    },
+    {
+      "offerId": "yonex-arcsaber-11",
+      "badge": "Mejor Raqueta de Control Todo Terreno",
+      "review": "El Arcsaber 11 es el referente de Yonex para jugadores orientados al control — punto de equilibrio neutro, flex medio-rígido, diseñado para mantener el volante en las cuerdas una fracción de segundo más para la precisión de colocación. Los jugadores principiantes e intermedios suelen informar que la serie Arcsaber produce golpes más consistentes con menos técnica que las raquetas orientadas a la potencia, porque la combinación de equilibrio y flex es más tolerante con las variaciones de sincronización. La contrapartida es la potencia máxima de smash — el equilibrio neutro no genera la velocidad de raqueta con cabeza pesada. Para jugadores intermedios que juegan tanto individuales como dobles, que valoran los despejes fiables y los drops precisos sobre el smash máximo, y que quieren una raqueta que ayude en lugar de exigir, el Arcsaber 11 es la elección reflexiva.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "yonex-duora-10",
+      "badge": "Mejor Raqueta con Diseño Bidireccional",
+      "review": "El Duora 10 tiene un diseño genuinamente inusual: los lados de drive y revés del marco tienen geometrías diferentes — el lado de drive está optimizado para golpes de potencia y el lado de revés para golpes planos y rápidos. El concepto aborda la realidad de que los swings de drive y revés crean diferentes aerodinámicas y requieren diferentes respuestas del marco. En la práctica, los jugadores que pueden usar ambos lados deliberadamente informan de drives de revés notablemente mejores en comparación con raquetas simétricas. La raqueta requiere aprender a posicionar el lado correcto para cada golpe, lo que añade una curva de aprendizaje técnico. Para jugadores que tienen dificultades con la potencia del revés y quieren una raqueta que aborde específicamente esa debilidad, el Duora 10 es la opción especializada.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "recommendedFor": [
+    {
+      "label": "Mejor Raqueta para Dobles/Smash",
+      "offerId": "yonex-astrox-88d-pro",
+      "reason": "El Astrox 88D Pro está diseñado específicamente para jugadores de dobles que dependen de smashes potentes y pronunciados — el e..."
+    },
+    {
+      "label": "Mejor Raqueta para Individuales/Velocidad",
+      "offerId": "yonex-nanoflare-800",
+      "reason": "El Nanoflare 800 está diseñado para el juego de individuales y los patrones de movimiento continuo que requiere — el equilibrio..."
+    },
+    {
+      "label": "Mejor Alternativa Premium a Yonex",
+      "offerId": "victor-thruster-k-9900",
+      "reason": "El Thruster K 9900 de Victor se posiciona frente a las raquetas de dobles de primer nivel de Yonex — equilibrio con cabeza pesa..."
+    },
+    {
+      "label": "Mejor Raqueta de Control Todo Terreno",
+      "offerId": "yonex-arcsaber-11",
+      "reason": "El Arcsaber 11 es el referente de Yonex para jugadores orientados al control — punto de equilibrio neutro, flex medio-rígido, d..."
+    },
+    {
+      "label": "Mejor Raqueta con Diseño Bidireccional",
+      "offerId": "yonex-duora-10",
+      "reason": "El Duora 10 tiene un diseño genuinamente inusual: los lados de drive y revés del marco tienen geometrías diferentes — el lado d..."
+    }
+  ]
 }

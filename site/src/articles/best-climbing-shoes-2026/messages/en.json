@@ -1,73 +1,123 @@
 {
   "title": "Best Climbing Shoes 2026: Beginner to Advanced Rock Climbing Footwear Tested",
   "description": "We tested 5 climbing shoes for precision, comfort, and durability across crack, slab, and overhang terrain. Neutral to aggressive downturn compared — here's what to wear.",
-  "intro": "Climbing shoes are the most important piece of gear after safety equipment — a mismatch between shoe profile and your climbing style costs performance on every pitch. The difference between a neutral beginner shoe and an aggressively downturned performance shoe is not better/worse; it's different tools for different terrain. We tested five options across skill levels and climbing types.",
-  "products": {
-    "la-sportiva-tarantula": {
-      "name": "La Sportiva Tarantula",
-      "badge": "Best for Beginners",
-      "review": "The La Sportiva Tarantula is the standard recommendation for beginner climbers worldwide, and it earns that status. The symmetric, flat last fits a wide range of foot shapes, the closure system (two straps + lace) allows precise fit adjustment, and the 3.5mm rubber provides reliable friction on moderate-angle rock. It's comfortable enough for multi-pitch days and multi-hour gym sessions. The Mythos rubber's stickiness on limestone and granite is consistent. For a climber just starting out, comfortable shoes that you can actually climb in for extended sessions beat technical shoes you can only tolerate for 30 minutes."
-    },
-    "scarpa-instinct-vs": {
-      "name": "Scarpa Instinct VS",
-      "badge": "Best Intermediate Shoe",
-      "review": "The Scarpa Instinct VS (Velcro Strap) is the shoe where intermediate climbers break into performance territory. The slight downturn, pointed toe box, and 3.5mm VS rubber deliver noticeably more precision on small holds without the extreme discomfort of aggressively asymmetric competition shoes. The Velcro closure allows quick adjustment between routes. Works on both indoor and outdoor terrain. Good for lead climbing and bouldering at V4-V8 / 5.10-5.12. The rubber life is reasonable with moderate use. A meaningful step up from neutral shoes for climbers who've been climbing 6-18 months."
-    },
-    "la-sportiva-solution": {
-      "name": "La Sportiva Solution",
-      "badge": "Best Performance Shoe",
-      "review": "The La Sportiva Solution is the reference performance boulder shoe used at the World Cup level. The aggressive downturn, asymmetric toe box, and P3 System that maintains shape under pressure combine to produce maximum power transfer to footholds. Used with a curled toe position on steep overhangs. Not comfortable — this shoe is for focused hard climbing sessions, not multi-pitch days or 3-hour gym sessions. The Solution's heel cup is among the best for heel hooking, which is where it earns its competition pedigree. For boulderers pushing into V8+ territory, this is the tool."
-    },
-    "black-diamond-momentum": {
-      "name": "Black Diamond Momentum",
-      "badge": "Best Gym Shoe",
-      "review": "The Black Diamond Momentum was designed specifically for indoor climbing gyms, and it shows. The synthetic upper breathes and keeps odor down better than leather in a gym environment. The flat profile and neutral last make it suitable for beginners but the rubber (NeoFriction) and construction are notably better than entry-level competition. Comfortable for extended gym sessions. Available in half sizes. The price point places it in beginner territory, but the performance is above average for the category. Strong value for gym-primary climbers who want to step above budget shoes."
-    },
-    "five-ten-hiangle": {
-      "name": "Five Ten Hiangle",
-      "badge": "Best Slab Shoe",
-      "review": "Five Ten Stealth rubber is widely considered the highest-friction outdoor climbing rubber available. The Hiangle's slight downturn and precise toe box combine the slab-crushing properties of Stealth C4 rubber with moderate performance shape. On friction slab (featureless granite where only rubber adherence keeps you on the wall), Five Ten rubber outperforms almost everything else. The trade-off is that Stealth rubber wears faster than stiffer compound. For slab-focused climbers or anyone climbing granite smears regularly, the Hiangle's rubber advantage is the deciding factor."
-    }
-  },
-  "buyingGuide": {
-    "title": "How to Choose Climbing Shoes",
-    "intro": "Last profile, rubber type, and closure system determine fit for different climbing styles and experience levels.",
-    "factors": [
-      {
-        "name": "Neutral vs Moderate vs Aggressive",
-        "detail": "Neutral (flat) lasts: comfortable, versatile, for beginners and all-day multi-pitch. Stand in a relaxed position. Moderate downturned: slight edge, for intermediate climbers on steeper routes. Aggressive downturned: pointed, curled toe, maximum precision on overhangs and small holds. For pure beginners, aggressive shoes are counterproductive — performance benefit only matters once your footwork technique is developed."
-      },
-      {
-        "name": "Fit",
-        "detail": "Climbing shoes should fit tightly without causing significant pain (sharp throbbing, nail digging into flesh). Beginners can size slightly larger for comfort; performance climbers often size down aggressively. Toes should be slightly curled but not bent back on themselves. Width varies significantly by brand and last — European brands (La Sportiva, Scarpa) tend to run narrow; American (Five Ten, Black Diamond) tend to run wider. Try before buying when possible."
-      },
-      {
-        "name": "Rubber Type and Stiffness",
-        "detail": "Softer rubber provides more friction but wears faster (Five Ten Stealth for friction slabs). Stiffer rubber is more durable and gives edge support (La Sportiva Mythos for granite cracks and edges). Softer shoes feel technical on slabs; stiffer shoes feel more supportive on crack climbing and standing on small edges. Beginners benefit from stiffer rubber as it teaches precise placement without relying on rubber adherence."
-      },
-      {
-        "name": "Closure: Velcro vs Lace vs Slipper",
-        "detail": "Velcro (1-3 straps) is fastest to put on/off, good for bouldering where shoes come off between attempts. Lace closure allows most precise fit adjustment, best for varied foot shapes and longer climbs. Slipper/no closure is the most sensitive and lightest, but hardest to fit precisely — used by experts for specific routes. Most beginners and intermediates benefit from lace or velcro closure."
-      }
-    ]
-  },
-  "faq": [
+  "lede": "Climbing shoes are the most important piece of gear after safety equipment — a mismatch between shoe profile and your climbing style costs performance on every pitch. The difference between a neutral beginner shoe and an aggressively downturned performance shoe is not better/worse; it's different tools for different terrain. We tested five options across skill levels and climbing types.",
+  "sections": [
     {
-      "question": "Should climbing shoes hurt?",
-      "answer": "Performance climbing shoes are often uncomfortable, not because discomfort equals performance, but because the precise fit and downturned shape place the foot in an unusual position. Beginner shoes should not hurt. Performance shoes can cause discomfort during hard moves but should not cause sharp nail pain or numbness during normal rest. If shoes cause numbness, they're too small. Breaking in leather shoes can reduce discomfort by 1-2 sizes over several sessions."
+      "heading": "How to Choose Climbing Shoes",
+      "paragraphs": [
+        "Last profile, rubber type, and closure system determine fit for different climbing styles and experience levels."
+      ],
+      "subsections": [
+        {
+          "heading": "Neutral vs Moderate vs Aggressive",
+          "paragraphs": [
+            "Neutral (flat) lasts: comfortable, versatile, for beginners and all-day multi-pitch. Stand in a relaxed position. Moderate downturned: slight edge, for intermediate climbers on steeper routes. Aggressive downturned: pointed, curled toe, maximum precision on overhangs and small holds. For pure beginners, aggressive shoes are counterproductive — performance benefit only matters once your footwork technique is developed."
+          ]
+        },
+        {
+          "heading": "Fit",
+          "paragraphs": [
+            "Climbing shoes should fit tightly without causing significant pain (sharp throbbing, nail digging into flesh). Beginners can size slightly larger for comfort; performance climbers often size down aggressively. Toes should be slightly curled but not bent back on themselves. Width varies significantly by brand and last — European brands (La Sportiva, Scarpa) tend to run narrow; American (Five Ten, Black Diamond) tend to run wider. Try before buying when possible."
+          ]
+        },
+        {
+          "heading": "Rubber Type and Stiffness",
+          "paragraphs": [
+            "Softer rubber provides more friction but wears faster (Five Ten Stealth for friction slabs). Stiffer rubber is more durable and gives edge support (La Sportiva Mythos for granite cracks and edges). Softer shoes feel technical on slabs; stiffer shoes feel more supportive on crack climbing and standing on small edges. Beginners benefit from stiffer rubber as it teaches precise placement without relying on rubber adherence."
+          ]
+        },
+        {
+          "heading": "Closure: Velcro vs Lace vs Slipper",
+          "paragraphs": [
+            "Velcro (1-3 straps) is fastest to put on/off, good for bouldering where shoes come off between attempts. Lace closure allows most precise fit adjustment, best for varied foot shapes and longer climbs. Slipper/no closure is the most sensitive and lightest, but hardest to fit precisely — used by experts for specific routes. Most beginners and intermediates benefit from lace or velcro closure."
+          ]
+        }
+      ]
     },
     {
-      "question": "How much should I size down in climbing shoes?",
-      "answer": "Beginners: 0-0.5 size down from street shoe size for comfort. Intermediate: 0.5-1 size down for moderate fit. Performance/competition: 1-2+ sizes down for maximum precision. Sizing down too aggressively causes injury over time (tendon inflammation, nail damage) and actually hurts footwork by making precise placement painful. Start conservative and size down as your footwork improves and you understand your foot shape better."
-    },
-    {
-      "question": "When should I resole my climbing shoes?",
-      "answer": "Resole when you can see the rand (the side rubber) or the midsole through the sole rubber. Continuing past this point damages the shoe upper and makes resoling impossible. Most climbing shoe soles last 6-18 months depending on frequency of use and rock type (granite wears rubber faster than limestone). Resoling is worth it for quality shoes — a $50-80 resole extends shoe life by the same amount as a new mid-range shoe."
-    },
-    {
-      "question": "What's the difference between bouldering and lead climbing shoes?",
-      "answer": "Bouldering shoes are typically more aggressive (more downturn), shorter on comfort, and optimized for powerful moves on steep terrain. Lead shoes tend to be more moderate — you're wearing them for potentially 30-60 minutes per route, so comfort matters more. Many climbers use moderate shoes for lead and more aggressive shoes for hard bouldering problems. The distinction matters most at intermediate and advanced levels; beginners should use the same comfortable shoe for both."
+      "heading": "Bottom line",
+      "paragraphs": [
+        "For beginners, the La Sportiva Tarantula remains the most universally recommended shoe — comfortable, versatile, and honest. For gym-primary climbers, the Black Diamond Momentum offers better performance than its price suggests. When you're ready to step into performance territory, Scarpa Instinct VS is the bridge between comfort and precision. The La Sportiva Solution is for committed boulderers who've accepted that performance footwear is uncomfortable by design."
+      ]
     }
   ],
-  "conclusion": "For beginners, the La Sportiva Tarantula remains the most universally recommended shoe — comfortable, versatile, and honest. For gym-primary climbers, the Black Diamond Momentum offers better performance than its price suggests. When you're ready to step into performance territory, Scarpa Instinct VS is the bridge between comfort and precision. The La Sportiva Solution is for committed boulderers who've accepted that performance footwear is uncomfortable by design."
+  "faqs": [
+    {
+      "q": "Should climbing shoes hurt?",
+      "a": "Performance climbing shoes are often uncomfortable, not because discomfort equals performance, but because the precise fit and downturned shape place the foot in an unusual position. Beginner shoes should not hurt. Performance shoes can cause discomfort during hard moves but should not cause sharp nail pain or numbness during normal rest. If shoes cause numbness, they're too small. Breaking in leather shoes can reduce discomfort by 1-2 sizes over several sessions."
+    },
+    {
+      "q": "How much should I size down in climbing shoes?",
+      "a": "Beginners: 0-0.5 size down from street shoe size for comfort. Intermediate: 0.5-1 size down for moderate fit. Performance/competition: 1-2+ sizes down for maximum precision. Sizing down too aggressively causes injury over time (tendon inflammation, nail damage) and actually hurts footwork by making precise placement painful. Start conservative and size down as your footwork improves and you understand your foot shape better."
+    },
+    {
+      "q": "When should I resole my climbing shoes?",
+      "a": "Resole when you can see the rand (the side rubber) or the midsole through the sole rubber. Continuing past this point damages the shoe upper and makes resoling impossible. Most climbing shoe soles last 6-18 months depending on frequency of use and rock type (granite wears rubber faster than limestone). Resoling is worth it for quality shoes — a $50-80 resole extends shoe life by the same amount as a new mid-range shoe."
+    },
+    {
+      "q": "What's the difference between bouldering and lead climbing shoes?",
+      "a": "Bouldering shoes are typically more aggressive (more downturn), shorter on comfort, and optimized for powerful moves on steep terrain. Lead shoes tend to be more moderate — you're wearing them for potentially 30-60 minutes per route, so comfort matters more. Many climbers use moderate shoes for lead and more aggressive shoes for hard bouldering problems. The distinction matters most at intermediate and advanced levels; beginners should use the same comfortable shoe for both."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "la-sportiva-tarantula",
+      "badge": "Best for Beginners",
+      "review": "The La Sportiva Tarantula is the standard recommendation for beginner climbers worldwide, and it earns that status. The symmetric, flat last fits a wide range of foot shapes, the closure system (two straps + lace) allows precise fit adjustment, and the 3.5mm rubber provides reliable friction on moderate-angle rock. It's comfortable enough for multi-pitch days and multi-hour gym sessions. The Mythos rubber's stickiness on limestone and granite is consistent. For a climber just starting out, comfortable shoes that you can actually climb in for extended sessions beat technical shoes you can only tolerate for 30 minutes.",
+      "grade": "A+"
+    },
+    {
+      "offerId": "scarpa-instinct-vs",
+      "badge": "Best Intermediate Shoe",
+      "review": "The Scarpa Instinct VS (Velcro Strap) is the shoe where intermediate climbers break into performance territory. The slight downturn, pointed toe box, and 3.5mm VS rubber deliver noticeably more precision on small holds without the extreme discomfort of aggressively asymmetric competition shoes. The Velcro closure allows quick adjustment between routes. Works on both indoor and outdoor terrain. Good for lead climbing and bouldering at V4-V8 / 5.10-5.12. The rubber life is reasonable with moderate use. A meaningful step up from neutral shoes for climbers who've been climbing 6-18 months.",
+      "grade": "A"
+    },
+    {
+      "offerId": "la-sportiva-solution",
+      "badge": "Best Performance Shoe",
+      "review": "The La Sportiva Solution is the reference performance boulder shoe used at the World Cup level. The aggressive downturn, asymmetric toe box, and P3 System that maintains shape under pressure combine to produce maximum power transfer to footholds. Used with a curled toe position on steep overhangs. Not comfortable — this shoe is for focused hard climbing sessions, not multi-pitch days or 3-hour gym sessions. The Solution's heel cup is among the best for heel hooking, which is where it earns its competition pedigree. For boulderers pushing into V8+ territory, this is the tool.",
+      "grade": "A"
+    },
+    {
+      "offerId": "black-diamond-momentum",
+      "badge": "Best Gym Shoe",
+      "review": "The Black Diamond Momentum was designed specifically for indoor climbing gyms, and it shows. The synthetic upper breathes and keeps odor down better than leather in a gym environment. The flat profile and neutral last make it suitable for beginners but the rubber (NeoFriction) and construction are notably better than entry-level competition. Comfortable for extended gym sessions. Available in half sizes. The price point places it in beginner territory, but the performance is above average for the category. Strong value for gym-primary climbers who want to step above budget shoes.",
+      "grade": "B+"
+    },
+    {
+      "offerId": "five-ten-hiangle",
+      "badge": "Best Slab Shoe",
+      "review": "Five Ten Stealth rubber is widely considered the highest-friction outdoor climbing rubber available. The Hiangle's slight downturn and precise toe box combine the slab-crushing properties of Stealth C4 rubber with moderate performance shape. On friction slab (featureless granite where only rubber adherence keeps you on the wall), Five Ten rubber outperforms almost everything else. The trade-off is that Stealth rubber wears faster than stiffer compound. For slab-focused climbers or anyone climbing granite smears regularly, the Hiangle's rubber advantage is the deciding factor.",
+      "grade": "B+"
+    }
+  ],
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "recommendedFor": [
+    {
+      "label": "Best for Beginners",
+      "offerId": "la-sportiva-tarantula",
+      "reason": "The La Sportiva Tarantula is the standard recommendation for beginner climbers worldwide, and it earns that status."
+    },
+    {
+      "label": "Best Intermediate Shoe",
+      "offerId": "scarpa-instinct-vs",
+      "reason": "The Scarpa Instinct VS (Velcro Strap) is the shoe where intermediate climbers break into performance territory."
+    },
+    {
+      "label": "Best Performance Shoe",
+      "offerId": "la-sportiva-solution",
+      "reason": "The La Sportiva Solution is the reference performance boulder shoe used at the World Cup level."
+    },
+    {
+      "label": "Best Gym Shoe",
+      "offerId": "black-diamond-momentum",
+      "reason": "The Black Diamond Momentum was designed specifically for indoor climbing gyms, and it shows."
+    },
+    {
+      "label": "Best Slab Shoe",
+      "offerId": "five-ten-hiangle",
+      "reason": "Five Ten Stealth rubber is widely considered the highest-friction outdoor climbing rubber available."
+    }
+  ]
 }
