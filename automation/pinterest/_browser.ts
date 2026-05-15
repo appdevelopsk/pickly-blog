@@ -1,6 +1,7 @@
 /**
  * Pinterest Playwright 共通ブラウザ context.
  * セッション永続化 + 必要時に自動ログイン。
+ * account オプションでジャンル別アカウントに切り替え可能。
  */
 import { chromium, type BrowserContext, type Page } from "playwright";
 import * as path from "node:path";
@@ -8,17 +9,20 @@ import * as os from "node:os";
 import * as fs from "node:fs/promises";
 import * as fsSync from "node:fs";
 
-const USER_DATA_DIR = path.join(os.homedir(), ".cache/pickly-playwright/pinterest");
-const CREDS_FILE = path.join(os.homedir(), ".config/pickly/pinterest.env");
+const DEFAULT_SESSION_DIR = path.join(os.homedir(), ".cache/pickly-playwright/pinterest");
+const DEFAULT_CREDS_FILE  = path.join(os.homedir(), ".config/pickly/pinterest.env");
 
 export interface LaunchOptions {
   headless?: boolean;
+  /** ジャンル別アカウント名（例: "fitness", "food"）。省略時はデフォルトアカウント */
+  account?: { sessionDir: string; envFile: string };
 }
 
 export async function launch(opts: LaunchOptions = {}): Promise<{ context: BrowserContext; page: Page }> {
-  await fs.mkdir(USER_DATA_DIR, { recursive: true });
+  const sessionDir = opts.account?.sessionDir ?? DEFAULT_SESSION_DIR;
+  await fs.mkdir(sessionDir, { recursive: true });
 
-  const context = await chromium.launchPersistentContext(USER_DATA_DIR, {
+  const context = await chromium.launchPersistentContext(sessionDir, {
     headless: opts.headless ?? false,
     viewport: { width: 1280, height: 850 },
     locale: "ja-JP",
@@ -44,12 +48,13 @@ export async function isLoggedIn(page: Page): Promise<boolean> {
   return !url.includes("/login") && !url.includes("/business/create");
 }
 
-function loadCredentials(): { email?: string; pw?: string } {
+function loadCredentials(credsFile?: string): { email?: string; pw?: string } {
   let email = process.env.PINTEREST_LOGIN_EMAIL;
   let pw = process.env.PINTEREST_LOGIN_PW;
 
-  if ((!email || !pw) && fsSync.existsSync(CREDS_FILE)) {
-    const content = fsSync.readFileSync(CREDS_FILE, "utf8");
+  const envFile = credsFile ?? DEFAULT_CREDS_FILE;
+  if ((!email || !pw) && fsSync.existsSync(envFile)) {
+    const content = fsSync.readFileSync(envFile, "utf8");
     const e = content.match(/PINTEREST_LOGIN_EMAIL=["']?([^"'\n]+)["']?/);
     const p = content.match(/PINTEREST_LOGIN_PW=["']?([^"'\n]+)["']?/);
     if (!email && e) email = e[1];
@@ -59,13 +64,13 @@ function loadCredentials(): { email?: string; pw?: string } {
   return { email, pw };
 }
 
-export async function ensureLoggedIn(page: Page): Promise<void> {
+export async function ensureLoggedIn(page: Page, opts: LaunchOptions = {}): Promise<void> {
   if (await isLoggedIn(page)) {
     console.log("✓ Pinterest ログイン済");
     return;
   }
 
-  const { email, pw } = loadCredentials();
+  const { email, pw } = loadCredentials(opts.account?.envFile);
   if (!email || !pw) {
     throw new Error(`認証情報が見つかりません。${CREDS_FILE} に PINTEREST_LOGIN_EMAIL と PINTEREST_LOGIN_PW を設定してください`);
   }

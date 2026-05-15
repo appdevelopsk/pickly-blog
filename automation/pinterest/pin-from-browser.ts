@@ -1,15 +1,15 @@
 /**
  * Playwright-based Pinterest pin poster — organic pins via pin-builder UI.
  *
- * CSVバルクアップロードUIが廃止、APIがTrial制限の代替手段。
- * pin-builder に ?url= ?media= パラメータを渡して自動入力し、
- * ボード選択・公開まで自動化する。
+ * pins.yaml の board フィールドでジャンル別アカウントに自動振り分け。
+ * 各アカウントのセッションは独立して管理される。
  *
  * Usage:
- *   npx tsx pin-from-browser.ts                  # 未投稿を 5 件ずつ処理
+ *   npx tsx pin-from-browser.ts                  # 全ジャンル、未投稿を 5 件ずつ
  *   npx tsx pin-from-browser.ts --limit 10
+ *   npx tsx pin-from-browser.ts --genre fitness  # fitnesアカウントのみ
  *   npx tsx pin-from-browser.ts --locale ja
- *   npx tsx pin-from-browser.ts --dry-run        # ブラウザ開くだけ（確認用）
+ *   npx tsx pin-from-browser.ts --dry-run
  *
  * State: ~/.config/pickly/pinterest-browser-posted.json
  */
@@ -19,13 +19,13 @@ import * as os from "node:os";
 import { fileURLToPath } from "node:url";
 import * as yaml from "js-yaml";
 import { launch, ensureLoggedIn } from "./_browser.js";
+import { resolveAccount, loadAccountCreds, ACCOUNTS } from "./accounts.js";
 import type { Page } from "playwright";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const PINS_PATH = path.resolve(__dirname, "pins.yaml");
 const STATE_PATH = path.join(os.homedir(), ".config/pickly/pinterest-browser-posted.json");
 const SITE_URL = "https://pickly.blog";
-const BOARD_NAME = "Pickly Picks";
 const SLEEP_BETWEEN_PINS_MS = 15_000;
 
 interface Pin {
@@ -38,6 +38,7 @@ interface Pin {
   link: string;
   image_alt?: string;
   hashtags?: string[];
+  board?: string;
 }
 
 interface PinsYaml { pins: Pin[] }
@@ -135,7 +136,7 @@ async function selectBoard(page: Page, boardName: string): Promise<boolean> {
 
 // ── Single pin creation ───────────────────────────────────────────────────────
 
-async function postPin(page: Page, pin: Pin): Promise<boolean> {
+async function postPin(page: Page, pin: Pin, boardName: string): Promise<boolean> {
   const slug = pin.article_slug ?? ((pin.link ?? "").match(/\/([^/]+)\/?$/) ?? [])[1] ?? pin.pin_id;
   const imageUrl = `${SITE_URL}/og/${slug}-${pin.locale}.png`;
   const articleUrl = pin.link.startsWith("http") ? pin.link : `${SITE_URL}${pin.link}`;
@@ -182,7 +183,7 @@ async function postPin(page: Page, pin: Pin): Promise<boolean> {
   }
 
   // ボード選択
-  await selectBoard(page, BOARD_NAME);
+  await selectBoard(page, boardName);
   await page.waitForTimeout(800);
 
   // 公開ボタン
@@ -218,6 +219,7 @@ async function main() {
   const get = (f: string) => { const i = args.indexOf(f); return i >= 0 ? args[i + 1] : undefined; };
   const limit = parseInt(get("--limit") ?? "5", 10);
   const localeFilter = get("--locale");
+  const genreFilter = get("--genre");
   const dryRun = args.includes("--dry-run");
 
   const raw = fs.readFileSync(PINS_PATH, "utf8");
@@ -228,59 +230,98 @@ async function main() {
 
   const posted = loadPosted();
   pins = pins.filter((p) => !posted.has(p.pin_id));
-  const targets = pins.slice(0, limit);
 
-  console.log(`→ 対象: ${targets.length} 件 (残り ${pins.length} 件)`);
+  // ジャンル別にピンをグループ化
+  const accountPins = new Map<string, Pin[]>();
+  for (const pin of pins) {
+    const account = resolveAccount(pin.board);
+    if (genreFilter && account.genre !== genreFilter) continue;
+    const key = account.genre;
+    if (!accountPins.has(key)) accountPins.set(key, []);
+    accountPins.get(key)!.push(pin);
+  }
 
   if (dryRun) {
-    for (const p of targets) {
-      const slug = p.article_slug ?? ((p.link ?? "").match(/\/([^/]+)\/?$/) ?? [])[1] ?? p.pin_id;
-      console.log(`  [${p.pin_id}] ${p.title.slice(0, 60)}`);
-      console.log(`    image: ${SITE_URL}/og/${slug}-${p.locale}.png`);
+    let total = 0;
+    for (const [genre, gPins] of accountPins) {
+      const account = ACCOUNTS.find((a) => a.genre === genre)!;
+      const creds = loadAccountCreds(account);
+      console.log(`\n[${genre}] → ボード: ${creds.boardName} (${gPins.length} 件)`);
+      for (const p of gPins.slice(0, limit)) {
+        const slug = p.article_slug ?? ((p.link ?? "").match(/\/([^/]+)\/?$/) ?? [])[1] ?? p.pin_id;
+        console.log(`  [${p.pin_id}] ${p.title.slice(0, 60)}`);
+        console.log(`    image: ${SITE_URL}/og/${slug}-${p.locale}.png`);
+        total++;
+      }
     }
+    console.log(`\n合計 dry-run: ${total} 件`);
     return;
   }
 
-  const { context, page } = await launch({ headless: false });
+  let totalOk = 0, totalFail = 0;
 
-  try {
-    await ensureLoggedIn(page);
+  for (const [genre, gPins] of accountPins) {
+    const account = ACCOUNTS.find((a) => a.genre === genre)!;
+    const creds = loadAccountCreds(account);
+
+    if (!creds.email || !creds.pw) {
+      console.log(`\n⚠ [${genre}] 認証情報未設定、スキップ (${account.envFile})`);
+      continue;
+    }
+
+    const targets = gPins.slice(0, limit);
+    console.log(`\n${"═".repeat(55)}`);
+    console.log(`▶ [${genre}] ${creds.email} → ボード: ${creds.boardName}`);
+    console.log(`  対象: ${targets.length} 件 (残り ${gPins.length} 件)`);
+
+    const { context, page } = await launch({
+      headless: false,
+      account: { sessionDir: account.sessionDir, envFile: account.envFile },
+    });
 
     let ok = 0, fail = 0;
 
-    for (const pin of targets) {
-      console.log(`\n▶ [${pin.pin_id}] ${pin.title.slice(0, 50)}`);
-      try {
-        const success = await postPin(page, pin);
-        if (success) {
-          markPosted(pin.pin_id);
-          console.log(`  ✓ 完了`);
-          ok++;
-        } else {
-          console.log(`  ✗ 失敗`);
+    try {
+      await ensureLoggedIn(page, { account: { sessionDir: account.sessionDir, envFile: account.envFile } });
+
+      for (const pin of targets) {
+        console.log(`\n  ▷ [${pin.pin_id}] ${pin.title.slice(0, 50)}`);
+        try {
+          const success = await postPin(page, pin, creds.boardName);
+          if (success) {
+            markPosted(pin.pin_id);
+            console.log(`    ✓ 完了`);
+            ok++;
+          } else {
+            console.log(`    ✗ 失敗`);
+            fail++;
+          }
+        } catch (err) {
+          console.error(`    ✗ エラー:`, (err as Error).message?.slice(0, 100));
+          await page.screenshot({ path: path.join(__dirname, `pin-error-${Date.now()}.png`) }).catch(() => {});
           fail++;
         }
-      } catch (err) {
-        console.error(`  ✗ エラー:`, (err as Error).message?.slice(0, 100));
-        await page.screenshot({ path: path.join(__dirname, `pin-error-${Date.now()}.png`) }).catch(() => {});
-        fail++;
+
+        if (targets.indexOf(pin) < targets.length - 1) {
+          console.log(`    ⏱ ${SLEEP_BETWEEN_PINS_MS / 1000}s 待機...`);
+          await page.waitForTimeout(SLEEP_BETWEEN_PINS_MS);
+        }
       }
 
-      if (targets.indexOf(pin) < targets.length - 1) {
-        console.log(`  ⏱ ${SLEEP_BETWEEN_PINS_MS / 1000}s 待機...`);
-        await page.waitForTimeout(SLEEP_BETWEEN_PINS_MS);
-      }
+      console.log(`  [${genre}] 完了: ✓${ok} ✗${fail}`);
+      totalOk += ok;
+      totalFail += fail;
+
+    } finally {
+      await context.close();
+      fs.readdirSync(__dirname)
+        .filter((f) => f.startsWith("pin-debug-"))
+        .forEach((f) => fs.unlinkSync(path.join(__dirname, f)));
     }
-
-    console.log(`\n完了: ✓${ok} ✗${fail} | 累計: ${loadPosted().size} 件投稿済`);
-
-  } finally {
-    await context.close();
-    // デバッグスクリーンショット削除（成功時）
-    fs.readdirSync(__dirname)
-      .filter((f) => f.startsWith("pin-debug-"))
-      .forEach((f) => fs.unlinkSync(path.join(__dirname, f)));
   }
+
+  console.log(`\n${"═".repeat(55)}`);
+  console.log(`全体完了: ✓${totalOk} ✗${totalFail} | 累計: ${loadPosted().size} 件投稿済`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
