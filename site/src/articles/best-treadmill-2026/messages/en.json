@@ -92,5 +92,114 @@
     "lifefitness-t3": "Best commercial-grade belt durability — 3.0 CHP motor, 56×152 cm belt, 15% incline, Flex Deck cushioning built to commercial gym standards. Lifetime motor and frame warranty. The T3 is built for 10+ years of daily use — the correct choice for users who want a treadmill they will never need to replace, without the added cost and complexity of connected subscriptions. No decline capability; designed for rehabilitation walking and long-term home use at commercial durability."
   },
   "pinDescription": "Best treadmills 2026 compared: continuous duty motor HP vs peak HP, belt size for running vs walking, deck cushioning for joint protection — NordicTrack 1750 vs Peloton Tread vs Bowflex 22 vs Horizon T101 vs LifeFitness T3.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "nordictrack-commercial-1750",
+      "badge": "Best Overall",
+      "review": "The Commercial 1750 sits at the top because the underlying engineering balances motor, belt, and cushioning better than any other connected treadmill at this price. A 3.75 CHP continuous-duty motor runs cool under sustained running at any realistic home-user intensity, the 56 cm × 152 cm belt fits runners of all heights without forcing a shortened stride, and the FlexSelect dial lets you switch between cushioned and firm deck feels — a genuinely useful adjustment that no other treadmill in this group offers. Incline runs -3% to 15%, which covers everything from VO2max protocol decline running to vigorous incline walking that produces 7–8 MET intensity. iFit at $39/month family delivers terrain-matched outdoor running content with automatic speed and incline control, the most effective motivation tool here for users who find indoor running monotonous. Lifetime motor warranty reflects NordicTrack's actuarial confidence in the drivetrain.",
+      "pros": [
+        "3.75 CHP motor with lifetime warranty",
+        "FlexSelect dial switches cushioned to firm deck feel",
+        "iFit terrain-matched outdoor running with auto incline",
+        "-3% to 15% incline covers full training spectrum"
+      ],
+      "cons": [
+        "iFit family plan at $39/month adds ongoing cost",
+        "Decline limited to -3% vs Bowflex's -6%"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "peloton-tread",
+      "badge": "Best Coached Running",
+      "review": "The Peloton Tread is the only treadmill in this comparison with a rubber slat belt rather than a conventional flat belt — individual slats flex independently at each footstrike, creating a cushioning effect that genuinely feels more like running on a natural surface than any cushioned flat-belt treadmill here. The 3.0 CHP motor and 56 cm × 152 cm belt cover any home-user running pace, and the 12% incline/-3% decline range matches the NordicTrack 1750 on decline. The differentiator is content: Peloton's running library is the most curated in the connected treadmill category, with structured 5K-to-marathon plans, bootcamp classes that combine treadmill running with floor strength work, and a live leaderboard against other Tread users. The $44/month All-Access Membership is the value driver; the hardware premium over the 1750 is justified only if you'll use the ecosystem consistently.",
+      "pros": [
+        "Rubber slat belt is the most natural-feeling cushioning here",
+        "Peloton's running content is the most curated in the category",
+        "Live leaderboard and structured 5K-to-marathon plans",
+        "Bootcamp classes combine treadmill and floor work"
+      ],
+      "cons": [
+        "$44/month All-Access subscription required for full value",
+        "Hardware premium over NordicTrack 1750 is substantial"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "bowflex-treadmill-22",
+      "badge": "Best Incline Range",
+      "review": "The Bowflex Treadmill 22 carries the widest incline and decline range in this group at 20% incline / -6% decline — a meaningful advantage for runners targeting incline-specific training or replicating downhill loads that work the anterior tibialis and eccentric quad. The 4.0 CHP motor is the most powerful here, the 56 cm × 152 cm belt matches the premium options, and BurnRate cushioning is a zoned system with softer heel-strike and firmer toe-off zones. JRNY at $20/month is the most affordable connected subscription in this comparison and uses adaptive coaching that adjusts speed in real time based on heart rate — the closest approximation to a personal trainer dynamically tuning your session. The 15-year motor warranty is an honest signal of build confidence at this price tier.",
+      "pros": [
+        "Widest range here at 20% incline / -6% decline",
+        "4.0 CHP motor with 15-year warranty",
+        "JRNY adaptive coaching adjusts speed by real-time HR",
+        "$20/month is the cheapest connected subscription"
+      ],
+      "cons": [
+        "JRNY content library smaller than iFit or Peloton",
+        "Heavier and bulkier footprint than the Horizon T101"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "horizon-fitness-t101",
+      "badge": "Best Budget Folding",
+      "review": "The Horizon T101 is the right pick when budget is the primary constraint and the use case is walking or light jogging. The 2.5 CHP motor is adequate for sustained walking at any incline and jogging at moderate speeds — not enough headroom for runners regularly exceeding 10 kph or users over 90 kg running at high intensity, but a fair match for the price tier. The 51 cm × 137 cm belt is narrower and shorter than the premium options; the dimensions work for walking and light jogging but become uncomfortable for sustained running at pace. Folding deck with transport wheels reclaims floor space when not in use, which matters in small apartments. No connected content ecosystem and no decline capability, but lifetime motor and frame warranty from Horizon provides strong long-term confidence at this price. Compatible with Bluetooth heart rate monitors and mirrors data to third-party fitness apps.",
+      "pros": [
+        "Lowest entry price for a name-brand treadmill",
+        "Folding deck reclaims floor space when stored",
+        "Lifetime motor and frame warranty",
+        "Adequate for walkers and light joggers"
+      ],
+      "cons": [
+        "2.5 CHP undersized for sustained high-intensity running",
+        "51 cm × 137 cm belt too small for full-pace running"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "lifefitness-t3",
+      "badge": "Best Built-to-Last",
+      "review": "The LifeFitness T3 is built to commercial-gym standards — the same drivetrain construction found in equipment designed for 10–14 hours of daily use in public facilities. For a home user running 5–7 days per week over a 10+ year ownership horizon, that durability means the belt and motor are unlikely to require replacement within the ownership period. 3.0 CHP motor, 56 cm × 152 cm belt, Flex Deck cushioning that delivers consistent even cushioning across the entire belt surface — the preferred characteristic for rehabilitation walking where uniform impact reduction matters more than zoned variation. Lifetime motor and frame warranty backs the build claim. No decline capability and no connected content ecosystem — this is a deliberate trade-off: the T3 is a running machine that will outlast its owner, not an entertainment platform with a treadmill attached.",
+      "pros": [
+        "Commercial-gym drivetrain built for 10+ year ownership",
+        "Lifetime motor and frame warranty",
+        "Flex Deck cushioning consistent across full belt surface",
+        "Premium-grade 56 cm × 152 cm belt"
+      ],
+      "cons": [
+        "No decline capability",
+        "No native connected content ecosystem"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For connected treadmill buyers wanting balanced value",
+      "offerId": "nordictrack-commercial-1750",
+      "reason": "The 3.75 CHP motor, FlexSelect adjustable cushioning, -3% to 15% incline, and iFit's terrain-matched outdoor runs deliver the best overall balance at this price."
+    },
+    {
+      "label": "For runners who want the most natural belt feel",
+      "offerId": "peloton-tread",
+      "reason": "The rubber slat belt's independent-slat cushioning genuinely feels more natural than any flat belt here, and Peloton's coaching quality is the best in the category."
+    },
+    {
+      "label": "For incline and decline-focused training",
+      "offerId": "bowflex-treadmill-22",
+      "reason": "20% incline and -6% decline is the widest range in this group, and JRNY's adaptive coaching adjusts speed in real time based on heart rate at only $20/month."
+    },
+    {
+      "label": "For walkers in small apartments",
+      "offerId": "horizon-fitness-t101",
+      "reason": "Folding deck reclaims floor space when stored, lifetime warranty backs the entry price, and the 2.5 CHP motor handles walking and light jogging cleanly."
+    },
+    {
+      "label": "For rehabilitation walking and long-term home use",
+      "offerId": "lifefitness-t3",
+      "reason": "Commercial-grade drivetrain and Flex Deck's consistent cushioning across the full belt surface are built for 10+ year ownership without subscription dependency."
+    }
+  ]
 }

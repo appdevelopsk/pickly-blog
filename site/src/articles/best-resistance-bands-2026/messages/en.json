@@ -92,5 +92,114 @@
     "wodskai-pullup-bands": "Large 41-inch latex loops for pull-up assist and heavy compound banding. Multiple widths sold separately."
   },
   "pinDescription": "5 resistance bands compared honestly — loop vs tube vs flat, actual resistance in lbs/kg, latex snap risk, and which type replaces gym weights at home. No fluff, just what works.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "fit-simplify-loop-bands",
+      "badge": "Best for Glutes",
+      "grade": "A+",
+      "review": "The Fit Simplify Loop Bands cover the use case mini loops were built for: glute and hip activation. The five-band set runs from 2–4 lb (yellow) to 25–30 lb (blue) in 12-inch loops that stay around the thighs or ankles and create constant lateral tension during clamshells, glute bridges, lateral walks, and hip thrust banding. The loop geometry means the band cannot slip off mid-movement and the resistance applies in the exact plane of the exercise. The progression between bands is not uniform — there is a 4 to 8 lb jump from red to black — so most users settle on the purple band for primary glute work rather than rotating through all five. The right starting point for anyone building a glute-focused training base.",
+      "pros": [
+        "Loop geometry keeps resistance in the exact movement plane",
+        "Five resistance levels cover most glute and hip activation needs",
+        "Cannot slip off mid-exercise like flat or tube bands can",
+        "Compact enough to travel with — under 200 grams for the full set"
+      ],
+      "cons": [
+        "Resistance jumps between bands are not uniform",
+        "Cannot anchor for upper-body pulls and presses like tube bands"
+      ]
+    },
+    {
+      "offerId": "bodylastics-tube-bands",
+      "badge": "Best Safety Design",
+      "grade": "A",
+      "review": "The Bodylastics Tube Bands set includes seven stackable tubes (3, 5, 8, 13, 19, 23, 25 lb) combinable up to roughly 96 lb of resistance, plus a door anchor, foam handles, and ankle straps. The defining safety feature is the internal safety cord threaded through each tube — if the latex snaps under load, the cord catches the force and prevents the band from whipping back. This is specific to Bodylastics and absent in most competitor tube sets. The door anchor pad is larger and stitched to distribute load across more of the pad face, which matters when stacking multiple tubes to high resistance. The clip-and-handle system maps cleanly to dumbbell substitutes for full push-pull-legs programming.",
+      "pros": [
+        "Internal safety cord prevents whip-back if latex snaps under load",
+        "Seven stackable tubes combine to roughly 96 lb of resistance",
+        "Larger stitched door anchor pad distributes load reliably at high stacks",
+        "Maps cleanly to dumbbell-substitute push-pull-legs programming"
+      ],
+      "cons": [
+        "Carabiner clips can wear out before the tubes themselves",
+        "Higher price than tube sets without internal safety cords"
+      ]
+    },
+    {
+      "offerId": "whatafit-resistance-bands",
+      "badge": "Best Value",
+      "grade": "A",
+      "review": "The Whatafit Resistance Bands kit covers a 5-tube stackable set rated to a combined 150 lb with handles, door anchor, ankle straps, and carry bag — the most complete home-gym-replacement kit per dollar in this comparison. The 150 lb combined ceiling is higher than the Bodylastics 96 lb and brings band-only training into territory that previously required dumbbells. The honest trade-off is the absence of an internal safety cord — a snap under heavy stack will recoil at full velocity, so position yourself accordingly during heavy work. The door anchor is a simpler foam-and-strap design than Bodylastics, which concentrates load at the strap attachment rather than distributing across the pad. Adequate for the resistance ranges most home users actually run, just not as forgiving at the upper end.",
+      "pros": [
+        "5-tube stackable set rated to 150 lb combined — highest in this comparison",
+        "Complete kit with handles, door anchor, ankle straps, and carry bag",
+        "Best value per dollar for full home-gym-replacement use",
+        "Tube format maps cleanly to dumbbell-substitute exercises"
+      ],
+      "cons": [
+        "No internal safety cord — snap under load recoils at full velocity",
+        "Simpler door anchor concentrates load at the strap attachment point"
+      ]
+    },
+    {
+      "offerId": "theraband-flat-bands",
+      "badge": "Best for Rehab",
+      "grade": "B+",
+      "review": "TheraBand Flat Bands are the clinical standard for resistance in physical therapy, with a force-elongation curve standardized across production batches and a color progression (yellow, red, green, blue, black, silver) documented in peer-reviewed exercise therapy literature. Approximate force ranges from 0.5 to 7.5 kg at 100% elongation across the six colors. For shoulder rehab specifically the flat format has practical advantages: you adjust grip distance along the band to fine-tune resistance more precisely than swapping tubes, and the band wraps around the forearm for stabilized wrist exercises that tube handles preclude. The ceiling is low by design — TheraBand exists for rehabilitation and muscle re-education, not progressive strength loading.",
+      "pros": [
+        "Clinical standard for physical therapy and rehabilitation protocols",
+        "Force-elongation curve standardized across production batches",
+        "Flat format wraps around the forearm for stabilized wrist exercises",
+        "Color progression documented in peer-reviewed exercise therapy literature"
+      ],
+      "cons": [
+        "Ceiling is low by design — outgrown quickly for strength training",
+        "No handles or clips — cuts into bare hands during longer sets"
+      ]
+    },
+    {
+      "offerId": "wodskai-pullup-bands",
+      "badge": "Best for Pull-Up Assist",
+      "grade": "B+",
+      "review": "WODSKAI Pull-Up Bands are 41-inch latex loops sold in multiple widths for pull-up assistance, accommodating resistance, and heavy compound banding. The width progression — from 1/2 inch (5–35 lb) up through 1-3/4 inch (65–175 lb) — gives a structured ladder for moving from maximum-assist pull-ups to unassisted reps. A 70 kg beginner using the 1-3/4 inch band gets roughly 65–80 lb of assistance, effectively pulling 30–35 kg of bodyweight — enough to complete reps with good form. The same loops also work for accommodating resistance over a barbell, banded deadlifts, and Romanian deadlift banding. Heavier widths carry more stress per square millimeter, so inspect for surface whitening before each session.",
+      "pros": [
+        "41-inch loops cover pull-up assist, accommodating resistance, and compound banding",
+        "Width progression provides a structured ladder to unassisted pull-ups",
+        "Assist most where you need it most — at the bottom of the pull",
+        "Heaviest widths suit accommodating resistance on barbell deadlifts and squats"
+      ],
+      "cons": [
+        "Heavier widths carry more stress per area — inspect for whitening before each session",
+        "Sold separately by width — full progression requires multiple purchases"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For glute and hip activation",
+      "offerId": "fit-simplify-loop-bands",
+      "reason": "Loop geometry keeps resistance in the exact movement plane for clamshells, bridges, and lateral walks."
+    },
+    {
+      "label": "For safety-focused stackable training",
+      "offerId": "bodylastics-tube-bands",
+      "reason": "Internal safety cord through each tube catches a latex snap and prevents whip-back under heavy stacks."
+    },
+    {
+      "label": "For full home-gym replacement on a budget",
+      "offerId": "whatafit-resistance-bands",
+      "reason": "Most complete kit per dollar with the highest 150 lb combined resistance ceiling in this comparison."
+    },
+    {
+      "label": "For shoulder and rotator-cuff rehab",
+      "offerId": "theraband-flat-bands",
+      "reason": "Clinical standard with standardized force-elongation curve and a flat format that wraps around the forearm."
+    },
+    {
+      "label": "For pull-up progression and barbell banding",
+      "offerId": "wodskai-pullup-bands",
+      "reason": "41-inch loops give the most assist at the bottom of the pull where you need it, with a structured width ladder."
+    }
+  ]
 }

@@ -94,5 +94,114 @@
     "rpg-jump-rope": "Smart jump rope with built-in rep counter and calorie display. Useful for rep tracking without a fitness watch. Slightly heavier handles than pure speed ropes."
   },
   "pinDescription": "5 jump ropes compared for real training — speed rope vs weighted cable, double under tips, bearing quality explained, and how to size a rope by height. No fluff, just what works for home cardio and skill training.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "crossrope-get-lean-set",
+      "badge": "Best Weighted System",
+      "grade": "A+",
+      "review": "The Crossrope Get Lean Set is the clearest pick when the training goal is weighted-cable cardio, not double-under skill work. The set includes interchangeable 1/4 lb and 1/2 lb steel cables that swap into one handle system via quick-connect ends, which converts what would be two separate ropes into a single piece of equipment. Ten minutes with the 1/2 lb cable elevates heart rate through aerobic demand and muscular loading combined — categorically different from a speed rope's pure cardio stimulus. The Crossrope app adds structured workout programming and session tracking. The cables are explicitly not built for double-under development; the weight creates centripetal force at high speeds that disrupts timing.",
+      "pros": [
+        "Interchangeable 1/4 lb and 1/2 lb cables cover two distinct training modes",
+        "Steel cable construction holds shape and predictable arc at all speeds",
+        "App-guided programming structures weighted-cable training",
+        "Quick-connect ends make cable swaps fast between intervals"
+      ],
+      "cons": [
+        "Weighted cables are explicitly not suitable for double-under training",
+        "App ecosystem premium adds cost over a bare cable purchase"
+      ]
+    },
+    {
+      "offerId": "rx-smart-gear-freestyle-rope",
+      "badge": "Best for Double Unders",
+      "grade": "A",
+      "review": "The RX Smart Gear Freestyle Rope is the standard for competitive double-under training and CrossFit programming. The combination of a precision swivel bearing, cut-to-length wire cable, and a textured urethane grip lets the cable reach the 5 to 7 rotations per second window that double unders require without forcing excess wrist work. The bearing's spin test runs 25 to 40 seconds from a single flick — meaningfully better than the 8 to 15 seconds of decent ball bearings. The cable is sold in multiple lengths and can be sized exactly to your body at purchase, which removes the screw-clamp failure point that adjustable-length ropes have. The right tool when double-under development or fast-singles work is the training goal.",
+      "pros": [
+        "Precision swivel bearing reaches 25–40 second spin test times",
+        "Cut-to-length cable removes the screw-clamp failure point",
+        "Textured urethane grip stays secure on extended sweaty sets",
+        "Standard equipment in competitive CrossFit and double-under circuits"
+      ],
+      "cons": [
+        "Cable length is fixed at purchase — no adjustability after the fact",
+        "Premium price relative to budget speed ropes"
+      ]
+    },
+    {
+      "offerId": "harbor-freight-speed-rope",
+      "badge": "Best Budget Entry",
+      "grade": "A",
+      "review": "The Harbor Freight Speed Rope is the lowest-friction entry into jump rope training: a thick PVC cord, lightweight plastic handles, and a basic swivel joint. PVC rope is slow to turn because of its mass and air resistance, but it is nearly indestructible — the thick cord absorbs concrete and asphalt impact better than wire, gives clear tactile feedback when it hits your feet, and does not kink with rough handling. For beginners learning basic rhythm and timing, the slower, more forgiving arc makes the first few sessions easier than wire cable. The basic swivel limits progression past simple singles; the rope cannot reach the rotation speed double unders require without excess wrist effort.",
+      "pros": [
+        "Cheapest entry point into jump rope training",
+        "PVC cord is nearly indestructible on rough surfaces",
+        "Slower arc makes basic rhythm and timing easier for beginners",
+        "Clear tactile feedback when the rope contacts feet"
+      ],
+      "cons": [
+        "Basic swivel limits progression past simple single-unders",
+        "Cannot reach the rotation speed required for double-unders"
+      ]
+    },
+    {
+      "offerId": "survival-and-cross-jump-rope",
+      "badge": "Best Value Upgrade",
+      "grade": "B+",
+      "review": "The Survival and Cross Jump Rope is the value upgrade from a basic PVC rope: sealed ball bearings, 3 mm coated wire cable, and adjustable length at a price closer to budget than premium. The ball bearings convert wrist movement to cable rotation across a wide speed range without the friction feedback that destroys timing on basic swivels — the spin test runs 8 to 15 seconds, well above the 1 to 2 seconds of a basic swivel. The wire cable maintains a clean arc at any speed and has negligible air resistance compared to PVC. The lighter knurling on the handles is workable for sweaty sets but less reliable than the textured urethane on premium ropes.",
+      "pros": [
+        "Sealed ball bearings convert wrist input cleanly across a wide speed range",
+        "3 mm coated wire cable maintains clean arc geometry",
+        "Adjustable length accommodates most adult heights",
+        "Best value upgrade from a basic PVC speed rope"
+      ],
+      "cons": [
+        "Handle knurling is less reliable than premium textured urethane on long sets",
+        "Bearings spin well but do not match competition-grade precision"
+      ]
+    },
+    {
+      "offerId": "rpg-jump-rope",
+      "badge": "Best for Rep Tracking",
+      "grade": "B+",
+      "review": "The RPG Jump Rope is the niche pick for users who want session metrics without a fitness watch or phone. An accelerometer inside one handle detects each rotation and feeds a small display that shows rep count and calories at a glance during the session — useful for timed AMRAP sets where you want to track progress without counting mentally. The bearing is functional but not competition-grade; the design prioritizes sensor integration over bearing precision. The smart handle is slightly heavier than a pure speed rope handle, which mildly affects rotation at very high speeds. For recreational users running 5 to 15 minute cardio sessions with basic goals, the counting feature is a real quality-of-life improvement.",
+      "pros": [
+        "Built-in rep counter and calorie display visible at a glance",
+        "No phone or fitness watch required for session tracking",
+        "Useful for timed AMRAP sets and structured intervals",
+        "Adjustable length accommodates a range of heights"
+      ],
+      "cons": [
+        "Bearings prioritize sensor integration over competition-grade precision",
+        "Heavier handles mildly affect rotation at very high speeds"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For weighted-cable cardio and strength endurance",
+      "offerId": "crossrope-get-lean-set",
+      "reason": "Interchangeable 1/4 lb and 1/2 lb cables load shoulders and forearms in ways speed ropes cannot."
+    },
+    {
+      "label": "For learning double unders",
+      "offerId": "rx-smart-gear-freestyle-rope",
+      "reason": "Competition-grade swivel bearing and cut-to-length wire cable are the standard for fast singles and double-under development."
+    },
+    {
+      "label": "For beginners on a tight budget",
+      "offerId": "harbor-freight-speed-rope",
+      "reason": "PVC rope's slower arc makes basic rhythm easier to learn at the lowest price in this comparison."
+    },
+    {
+      "label": "For upgrading past a basic PVC rope",
+      "offerId": "survival-and-cross-jump-rope",
+      "reason": "Sealed ball bearings and 3 mm wire cable at a price closer to budget than premium speed ropes."
+    },
+    {
+      "label": "For tracking reps without a fitness watch",
+      "offerId": "rpg-jump-rope",
+      "reason": "Built-in counter and calorie display make timed AMRAP sets and structured intervals easier to run solo."
+    }
+  ]
 }

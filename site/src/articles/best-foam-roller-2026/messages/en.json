@@ -119,5 +119,114 @@
     "lux-fit-foam-roller": "Solid high-density EPE in 12-inch travel size, smooth surface, gentle pressure distribution — the most beginner-friendly option in this comparison. Smooth surface makes full-body rolling gentler than grid textures, appropriate for building tolerance in the first 4–8 weeks. 12-inch length is convenient for calves, upper back, and targeted quad work; slightly short for IT band full-length rolling in a single pass."
   },
   "pinDescription": "Five foam rollers compared in 2026 — TriggerPoint GRID, RumbleRoller deep-tissue knobs, Amazon Basics EPE, Hyperice Vyper 3 vibrating, and LuxFit beginner smooth. Which texture actually penetrates deeper, whether a $200 vibrating roller is worth it, and what density each body type needs.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "triggerpoint-grid-foam-roller",
+      "badge": "Best Overall",
+      "review": "The GRID is the professional-standard recommendation and the right pick for most regular exercisers. Its hollow polypropylene core eliminates the flat-spot deformation that turns solid EPE rollers into 6–12 month consumables, while the multi-density EVA grid exterior delivers three different pressure intensities in a single roller — flat zones for broad compression, raised ridges for moderate focused pressure, and pronounced knob sections for targeted work. At 13 inches and just 400 g it stays travel-friendly without giving up coverage, and TriggerPoint's structural integrity through 500+ sessions matches anecdotal owner reports of 3–5 year service life. The grid texture is appropriate for intermediate to experienced rollers, which is the honest caveat: complete beginners may find it more intense than a smooth EPE roller in the first 2–4 weeks of tolerance building.",
+      "pros": [
+        "Hollow polypropylene core avoids flat-spot deformation",
+        "Multi-density grid offers three intensities in one roller",
+        "Lasts 3–5 years under regular use",
+        "Light at 400 g and travel-friendly at 13 inches"
+      ],
+      "cons": [
+        "Grid intensity can overwhelm complete beginners",
+        "13-inch length too short for bilateral thoracic extension"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "rumble-roller-original",
+      "badge": "Best Deep Tissue",
+      "review": "The RumbleRoller is a deep-tissue specialist, not a general-use roller — firm thermoplastic rubber knobs spaced at 3–4 cm intervals apply roughly 3–5 times the localized pressure per contact point compared to a smooth roller under the same body weight. That intensity reaches chronic dense adhesions in the lateral quad, IT band, piriformis, and thoracic paraspinals in a way grid texture cannot match, which is why it earns recommendations from experienced rollers who have outgrown standard pressure. The trade-off is that aggressive knob pressure on a beginner's untrained tissue causes muscle guarding rather than relaxation, defeating the purpose. Available in Compact (12-inch) and Original (22-inch) lengths. Not appropriate for sensitive areas, bony prominences, or recently inflamed tissue — this is a tool for people who already understand pressure modulation.",
+      "pros": [
+        "Knob texture reaches chronic dense adhesions",
+        "3–5x localized pressure compared to smooth rollers",
+        "Available in 12-inch Compact and 22-inch Original",
+        "Excellent for experienced rollers with stubborn problem areas"
+      ],
+      "cons": [
+        "Too intense for beginners and sensitive areas",
+        "Can bruise tissue if pressure is misjudged"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "amazon-basics-foam-roller",
+      "badge": "Best Budget",
+      "review": "The Amazon Basics High-Density Round Foam Roller is the budget entry point and appropriate for exactly that role — solid high-density EPE foam, 12 or 18 inch options, available in black (firmer) and blue (medium density). It delivers adequate rolling pressure for beginners and 1–3 sessions per week, and at this price the expected 6–12 month useful life before visible deformation is not a regret-worthy concern. Solid EPE develops flat spots over time as the foam compresses unevenly under repeated body-weight loading, which the TriggerPoint's hollow core avoids — but for someone testing whether foam rolling fits their routine before committing to a more durable product, the trade-off is reasonable. Daily users running 4–7 sessions per week will see the math flip in 18 months as replacements stack up.",
+      "pros": [
+        "Lowest cost of entry to foam rolling",
+        "Two density options (black firmer, blue medium)",
+        "Available in 12 and 18 inch lengths",
+        "Adequate for 1–3 sessions per week"
+      ],
+      "cons": [
+        "Flat-spot deformation within 6–12 months of regular use",
+        "Cost per year matches premium options for daily rollers"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "hyperice-vyper-3",
+      "badge": "Best Vibrating",
+      "review": "The Vyper 3 is the premium vibrating roller and the only one in this group with three frequency settings (33Hz, 40Hz, 53Hz) tuned to the vibration band that research associates with acute range-of-motion improvements and pain modulation. Studies comparing vibrating versus non-vibrating rollers show a real but modest incremental effect — roughly 15–25% additional soreness reduction at 48 hours post-exercise. That makes it defensible for competitive athletes rolling daily where marginal gains compound across a dense training week, for high-sensitivity users who tolerate vibrating pressure better than static compression, and for rehabilitation contexts where vibration-facilitated muscle relaxation is specifically prescribed. The hard EVA surface lacks the grid variation of the TriggerPoint, the 1.4 kg weight and 2-hour battery limit travel convenience, and the price is difficult to justify for recreational users over a high-quality non-vibrating grid roller.",
+      "pros": [
+        "Three vibration frequencies tuned to research-supported bands",
+        "15–25% additional soreness reduction in studies",
+        "Useful for high-sensitivity users intolerant of static pressure",
+        "Defensible for daily-rolling competitive athletes"
+      ],
+      "cons": [
+        "Difficult to justify over a TriggerPoint GRID for casual users",
+        "1.4 kg weight and battery dependency hurt portability"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "lux-fit-foam-roller",
+      "badge": "Best for Beginners",
+      "review": "The LuxFit Premium is the most beginner-friendly option in this comparison — solid high-density EPE in a 12-inch travel size with a simple smooth surface that distributes pressure broadly across the contact area. Smooth surface contact spreads body weight over the full width of the rolled body part rather than concentrating it at grid ridges or knobs, which keeps the sensation manageable for people new to rolling who haven't built tissue tolerance yet. It's the right choice for the first 4–8 weeks of a rolling practice and for older adults or sensitive populations where moderate broad compression is the goal rather than targeted trigger-point work. The 12-inch length suits calves, upper back, forearms, and targeted quad work cleanly, but it's slightly short for a full IT band pass in a single roll — an honest limitation for the travel-size form factor.",
+      "pros": [
+        "Smoothest broad pressure distribution in this group",
+        "Travel-friendly 12-inch length",
+        "Right entry point for tolerance building",
+        "Higher density than soft beginner foams"
+      ],
+      "cons": [
+        "Solid EPE deforms within 6–12 months of regular use",
+        "Smooth texture lacks targeted pressure for dense adhesions"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For regular exercisers wanting one roller for life",
+      "offerId": "triggerpoint-grid-foam-roller",
+      "reason": "The hollow core lasts 3–5 years and the multi-density grid covers broad compression through targeted ridge work in a single tool."
+    },
+    {
+      "label": "For experienced rollers with chronic dense areas",
+      "offerId": "rumble-roller-original",
+      "reason": "The thermoplastic knobs apply 3–5x more localized pressure, reaching IT band and piriformis adhesions that grid texture no longer touches."
+    },
+    {
+      "label": "For first-timers building tolerance",
+      "offerId": "amazon-basics-foam-roller",
+      "reason": "Low cost and two density options make it easy to test whether foam rolling fits your routine before committing to a premium roller."
+    },
+    {
+      "label": "For competitive athletes seeking marginal gains",
+      "offerId": "hyperice-vyper-3",
+      "reason": "The research-supported 33–53 Hz vibration band adds 15–25% incremental soreness reduction that compounds across dense daily training weeks."
+    },
+    {
+      "label": "For sensitive users and older adults",
+      "offerId": "lux-fit-foam-roller",
+      "reason": "The smooth surface spreads pressure broadly, making rolling tolerable when grid ridges or knobs cause guarding rather than relaxation."
+    }
+  ]
 }

@@ -113,5 +113,114 @@
     "coway-airmega-200m": "Coway's two-stage True HEPA plus activated carbon purifier with a 360° air quality LED ring indicator. At approximately ¥20,000 it is the only unit in this comparison under ¥30,000, and the True HEPA filtration provides verified submicron particle capture for PM2.5 and allergens. No app required — the LED ring shows air quality in real time. 18 m² coverage rating is the smallest in this comparison — appropriate for a bedroom or studio but will underperform in a living room or open-plan space during peak pollen season; no ion technology and no humidity sensing means less auto-mode responsiveness than the Japanese mid-tier brands; Coway's brand recognition in Japan is lower than domestic brands and Dyson, which reduces resale value and means filter replacements are available primarily through online channels rather than domestic electronics chains; the activated carbon filter's 6-month replacement interval adds cost and maintenance frequency."
   },
   "pinDescription": "5 air purifiers ranked for Japan 2026 — Dyson HEPA H13 vs Sharp Plasmacluster vs Panasonic nanoe X vs Blueair HEPASilent vs Coway budget True HEPA. Cedar pollen and PM2.5 guide. Filter costs over 3 years. Ion vs HEPA — honest science breakdown",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews.",
+  "products": [
+    {
+      "offerId": "dyson-purifier-cool-gen1",
+      "badge": "Best Premium All-in-One",
+      "review": "The Dyson Purifier Cool Gen1 is the only unit here that combines HEPA H13 filtration with a genuine room fan, and the 290° airflow projection actually cleans a room evenly rather than only the air near the unit. The LCD display reads PM2.5, VOC, NO2, and humidity in real time without needing the MyDyson app open, and the H13 grade is the strongest physical particle-capture standard in this comparison. With a stated CADR around 290 m³/h it covers roughly 18 m² at the five-air-changes-per-hour rate appropriate for allergy management. The honest weaknesses are the 80,000 yen body price (highest here by a significant margin), no humidifying function, and a maximum fan speed that is loud enough to be disruptive in a bedroom — which is also where peak purification rate lives.",
+      "pros": [
+        "HEPA H13 plus activated carbon — strongest particle filtration here",
+        "290° projection cleans the whole room, not just nearby air",
+        "LCD shows PM2.5, VOC, NO2, humidity in real time without app",
+        "Doubles as a fan, replacing two appliances in summer"
+      ],
+      "cons": [
+        "Maximum fan speed is loud enough to disrupt sleep",
+        "80,000 yen body price is highest in this comparison by a wide margin"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "sharp-plasmacluster-fp-j80",
+      "badge": "Best for Pollen Allergy",
+      "review": "The Sharp Plasmacluster FP-J80 is the practical Japanese-brand pick for pollen-allergy households who want a mature app ecosystem and a long-rated HEPA filter. The pollen sensor's auto-mode response is fast in user reports, the COCORO AIR app overlays local PM2.5 station data with in-room sensor readings, and the 10-year HEPA filter life is a genuine running-cost advantage if the unit does not run 24/7 through heavy pollen season. The HEPA physical filtration is real and effective; the Plasmacluster ion claims for virus inactivation and allergen deactivation are supported primarily by Sharp's own research facilities rather than the volume of independent third-party replication that HEPA filtration has — treat the physical filter as the reliable mechanism. The deodorizing filter needs replacement every 2-3 years, adding running cost on top of the long-interval HEPA.",
+      "pros": [
+        "10-year rated HEPA filter is the longest interval in this comparison",
+        "Fast pollen sensor and responsive auto mode",
+        "COCORO AIR app overlays local PM2.5 station data with room sensor",
+        "Established Sharp service network across Japan"
+      ],
+      "cons": [
+        "Plasmacluster ion claims lack independent third-party replication",
+        "Larger footprint than the Panasonic and Coway alternatives"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "panasonic-f-vxu90",
+      "badge": "Best Slim Design",
+      "review": "The Panasonic F-VXU90 is the slim-form-factor pick when bedroom or tatami-room space is tight and you want triple-sensor auto-mode input including humidity — which matters for monitoring Japanese summer in rooms without air conditioning. The pollen, humidity, and PM2.5 sensor combination is the most comprehensive auto-mode input here, the slim chassis fits between furniture in ways the wider Sharp FP-J80 cannot, and Panasonic's domestic appliance build quality holds up over multi-year ownership. The nanoe X ion research base, like Plasmacluster, is predominantly from Panasonic's own research centers — rely on the HEPA filter as the actual particle-filtration mechanism rather than the nanoe X marketing claims. The 2-year filter replacement interval is more frequent than Sharp's 10-year HEPA rating, which compounds over a 3-5 year ownership.",
+      "pros": [
+        "Triple sensor (pollen, humidity, PM2.5) is most complete in this comparison",
+        "Slim form factor fits tighter spaces than other purifiers in this class",
+        "Humidity reading matters for tatami rooms in Japanese summer",
+        "Panasonic domestic build quality and service network"
+      ],
+      "cons": [
+        "nanoe X ion claims lack independent research replication",
+        "2-year HEPA replacement is more frequent than Sharp's 10-year rating"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "blueair-blue-max-3250i",
+      "badge": "Best Large-Room Coverage",
+      "review": "The Blueair Blue Max 3250i is the strongest large-room and quiet-sleep unit in this comparison, with a 40 m² coverage rating and a sub-17 dB sleep mode. HEPASilent dual-filtration combines electrostatic pre-charging with mechanical HEPA-grade capture to deliver high efficiency at lower fan speeds and lower noise — Swedish engineering that meaningfully outperforms typical HEPA-only units on the noise-versus-coverage axis. AHAM certification history gives the CADR numbers more independent credibility than uncertified manufacturer specs. The honest weakness is the 6-month filter replacement at around 5,000 yen — roughly 10,000 yen per year, the highest filter running cost in this comparison by a wide margin. There is no built-in humidity display so summer monitoring needs the Friend app or a separate hygrometer, and the Friend app setup has received mixed Android reviews from Japanese users.",
+      "pros": [
+        "40 m² coverage claim is the largest in this comparison",
+        "Sub-17 dB sleep mode is the quietest here",
+        "AHAM certification gives CADR numbers independent credibility",
+        "HEPASilent dual-filtration runs efficiently at lower fan speeds"
+      ],
+      "cons": [
+        "6-month filter replacement creates highest running cost here",
+        "No built-in humidity display for Japanese summer monitoring"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "coway-airmega-200m",
+      "badge": "Best Budget True HEPA",
+      "review": "The Coway Airmega 200M is the only unit under 30,000 yen in this comparison and the True HEPA plus activated carbon two-stage filtration is real physical particle capture at the specification level that matters for PM2.5 and allergen removal. The 360° LED air quality ring indicator gives real-time feedback without requiring an app — a deliberate simplicity-over-features choice that fits buyers who want effective filtration without smart-home complexity. At 20,000 yen body price the three-year total cost of ownership is the lowest in this comparison despite a 6-month carbon filter interval. The honest constraint is the 18 m² coverage rating — smallest here, appropriate for a single bedroom or studio but underperforming in a living room or open-plan space during peak pollen. Coway brand recognition in Japan is lower than domestic brands and Dyson, so replacement filters are primarily online-only.",
+      "pros": [
+        "Only unit under 30,000 yen with verified True HEPA filtration",
+        "Lowest 3-year total cost of ownership in this comparison",
+        "LED air quality ring works without an app",
+        "Activated carbon plus True HEPA addresses both odor and particles"
+      ],
+      "cons": [
+        "18 m² coverage is smallest here — bedroom-only, not living room",
+        "Filter replacements primarily online-only in Japan"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For living rooms wanting fan plus purifier in one",
+      "offerId": "dyson-purifier-cool-gen1",
+      "reason": "290° projection and HEPA H13 plus the LCD air-quality readout make it the most capable single unit when budget allows and bedroom noise isn't the constraint."
+    },
+    {
+      "label": "For Japanese pollen-allergy bedrooms",
+      "offerId": "sharp-plasmacluster-fp-j80",
+      "reason": "10-year HEPA rating, fast pollen sensor, and Sharp's domestic service network suit cedar-and-cypress season households who want a proven Japanese-brand purifier."
+    },
+    {
+      "label": "For tatami rooms and small bedrooms",
+      "offerId": "panasonic-f-vxu90",
+      "reason": "Slim form factor fits between furniture and the triple sensor's humidity reading matters for monitoring Japanese summer indoors."
+    },
+    {
+      "label": "For large rooms and silent sleep",
+      "offerId": "blueair-blue-max-3250i",
+      "reason": "40 m² coverage and sub-17 dB sleep mode are the strongest specs in this comparison, with AHAM certification backing the CADR numbers."
+    },
+    {
+      "label": "For single bedrooms on a tight budget",
+      "offerId": "coway-airmega-200m",
+      "reason": "Only unit under 30,000 yen with verified True HEPA — lowest three-year total cost of ownership in this comparison."
+    }
+  ]
 }

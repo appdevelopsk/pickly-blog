@@ -97,5 +97,114 @@
     "garden-of-life-sport": "Multi-legume plant blend, 30g protein, NSF Certified for Sport, organic. $45-55 for 1.85 lbs (~19 servings). Best for tested athletes or maximum quality assurance — NSF Sport is the strictest certification, justifies premium for competitors. Overkill for casual beginners."
   },
   "pinDescription": "Best protein powder for beginners 2026: ON Gold Standard vs MyProtein vs BSN Syntha-6 vs Orgain vs Garden of Life — whey concentrate vs isolate explained, how much protein you actually need, digestive issues to expect, and why taste matters most.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "optimum-nutrition-gold-standard-whey",
+      "badge": "Best Overall",
+      "review": "Gold Standard Whey has been the top-selling protein powder in the US for over two decades and earns the default position here on substance rather than just inertia. The formula lists whey isolate first, supplemented with whey concentrate and whey peptides — 24 g protein per 120-calorie serving with 5.5 g naturally occurring BCAAs and around 4 g of glutamine precursors. The protein-to-calorie ratio fits most beginners' macros cleanly. Informed Sport certification means each lot is tested for banned substances, heavy metals, and contaminants — a quality signal that's useful for non-athletes too. Mixability with 6–8 oz of water or milk is excellent: no clumping, no gritty texture. The flavor range covers 30+ options and tastes consistently acceptable rather than transcendent — it tastes like a protein powder, not a milkshake.",
+      "pros": [
+        "Whey isolate primary with strong protein-to-calorie ratio",
+        "Informed Sport certified for contaminants and banned substances",
+        "Mixes cleanly in a shaker without clumping",
+        "30+ flavors with consistent quality"
+      ],
+      "cons": [
+        "Taste is acceptable rather than crave-worthy",
+        "Per-gram cost higher than concentrate-only competitors"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "myprotein-impact-whey",
+      "badge": "Best Value",
+      "review": "MyProtein Impact Whey uses whey concentrate as its primary protein source, delivering 21 g protein per 25 g serving at 84% protein by weight — high for a concentrate product. At $35–45 for 5.5 lbs, the cost per gram of protein is meaningfully lower than Gold Standard, which reduces the sunk-cost risk for beginners not yet sure they'll stick with supplementation. The flavor catalog is one of the more creative in the market (Chocolate Peanut Butter, Salted Caramel, Natural Chocolate) but quality varies by flavor — the unusual options divide opinion. Texture with water is thinner than Gold Standard because concentrate produces a lighter mouthfeel than isolate; with milk it thickens to a more satisfying consistency. Informed Sport certification is patchy across SKUs rather than blanket, so confirm the specific flavor and size before buying if tested-sport status matters.",
+      "pros": [
+        "Lowest cost per gram of protein in this comparison",
+        "84% protein by weight is high for concentrate",
+        "Extensive and creative flavor catalog",
+        "Bulk 5.5 lb sizing reduces per-serving cost further"
+      ],
+      "cons": [
+        "Informed Sport certification varies by SKU",
+        "Thinner texture in water than isolate-based options"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "bsn-syntha-6",
+      "badge": "Best Taste",
+      "review": "BSN Syntha-6 is the option for beginners who tried protein powder before and found it unpalatable. The multi-protein blend combines whey concentrate, whey isolate, casein, micellar casein, and egg albumin — the casein component produces a noticeably thicker, creamier texture that approaches a real milkshake rather than a typical protein shake. Flavors like Chocolate Milkshake and Vanilla Ice Cream genuinely deliver dessert-level palatability that drives adherence in users who would otherwise skip shakes. The trade-off is the macro profile: 22 g protein per 200-calorie serving means the calorie density per gram of protein is higher than Gold Standard (24 g per 120 calories), driven by the casein and milk solids that make the shake taste like a shake. If you're tracking calories tightly, that ratio matters; if your barrier to consistent protein intake is unpalatable shakes, Syntha-6 solves the problem.",
+      "pros": [
+        "Best-tasting product in this comparison",
+        "Thick milkshake-like texture from casein blend",
+        "Mixed amino acid release profile from blend",
+        "Drives adherence for taste-averse beginners"
+      ],
+      "cons": [
+        "Higher calorie-per-gram-of-protein ratio than pure whey",
+        "More expensive per gram of protein than Gold Standard"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "orgain-organic-protein",
+      "badge": "Best Plant-Based Value",
+      "review": "Orgain Organic Protein is the best entry-level plant protein for beginners who want organic sourcing without paying the Garden of Life premium. The blend combines pea, chia, and brown rice protein to round out the amino acid profile — pea alone runs slightly low on methionine, rice runs low on lysine, and the combination delivers a complete profile that supports muscle protein synthesis at roughly the same magnitude as whey when matched for total protein and leucine. 21 g protein per serving, USDA certified organic, non-GMO verified, and free of artificial sweeteners. The texture is slightly gritty compared with whey — a persistent characteristic of plant proteins even after formulation advances — and mixing in a blender with frozen fruit significantly improves the experience over plain water in a shaker. The right choice for budget-conscious vegans and people with dairy intolerance.",
+      "pros": [
+        "USDA organic and non-GMO verified",
+        "Complete amino profile from pea, chia, and brown rice",
+        "No artificial sweeteners",
+        "Lower cost than Garden of Life Sport"
+      ],
+      "cons": [
+        "Texture is grittier than whey",
+        "Best in smoothies rather than plain shaker cup"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "garden-of-life-sport",
+      "badge": "Best Tested Plant",
+      "review": "Garden of Life Sport Organic Protein is the premium plant protein option and the right choice when third-party testing rigor matters more than per-serving cost. NSF Certified for Sport is the strictest certification for prohibited substances — used by MLB, NFL, NBA, and WADA-governed sports — and goes beyond Informed Sport in its testing protocol depth. The protein source is a multi-legume and seed blend (pea, navy bean, lentil, garbanzo bean, cranberry) delivering 30 g protein per serving in an organic, complete amino acid profile. For competing athletes who can't risk a contaminated supplement, NSF Sport certification is the deciding feature. For non-competing beginners, that certification is quality-assurance overkill and the price premium is harder to justify. Flavor is acceptable but not as refined as a well-formulated whey product — Chocolate and Vanilla are workable, not crave-worthy.",
+      "pros": [
+        "NSF Certified for Sport — strictest tested-substance certification",
+        "30 g protein per serving from comprehensive legume blend",
+        "USDA organic and complete amino profile",
+        "Right choice for drug-tested competing athletes"
+      ],
+      "cons": [
+        "Premium price hard to justify for non-tested users",
+        "Flavor profile less refined than top whey options"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For beginners who want one reliable pick",
+      "offerId": "optimum-nutrition-gold-standard-whey",
+      "reason": "Whey isolate primary, Informed Sport certified, and 24 g protein per 120 calories make it the safest default that won't disappoint on quality or macros."
+    },
+    {
+      "label": "For budget-conscious first-timers",
+      "offerId": "myprotein-impact-whey",
+      "reason": "Lowest cost per gram of protein in this comparison reduces the sunk-cost risk while you confirm protein supplementation fits your routine."
+    },
+    {
+      "label": "For people who hate protein shakes",
+      "offerId": "bsn-syntha-6",
+      "reason": "The casein-based blend produces a milkshake-like texture that genuinely tastes like dessert, driving the consistent daily use that matters more than ideal macros."
+    },
+    {
+      "label": "For vegans on a budget",
+      "offerId": "orgain-organic-protein",
+      "reason": "Pea-chia-rice blend covers a complete amino profile at organic-certified pricing well below Garden of Life Sport, especially when blended into smoothies."
+    },
+    {
+      "label": "For drug-tested competing athletes",
+      "offerId": "garden-of-life-sport",
+      "reason": "NSF Certified for Sport is the strictest available banned-substance certification, eliminating contamination risk for athletes in tested federations."
+    }
+  ]
 }

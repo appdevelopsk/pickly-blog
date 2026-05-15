@@ -77,5 +77,114 @@
     "yamazen-yaf-c120": "Budget single-person pick — 1.2L basket, 22 × 24 × 26 cm, fits the smallest Tokyo kitchens. 1.2L is single-portion only; basket non-stick wears at 12-18 months on daily use; 200°C max."
   },
   "pinDescription": "Five air fryers compared in 2026 for Japanese kitchens: 7,980 yen Yamazen YAF-C120 to 34,800 yen Ninja AF400 dual-zone. Basket capacity, max temperature, footprint, and the foods you should never put in an air fryer.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews.",
+  "products": [
+    {
+      "offerId": "cosori-pro-ii-6-4l",
+      "badge": "Best Overall",
+      "review": "The COSORI Pro II 6.4L is the default pick for 2-4 person Japanese households because it lands the right combination of capacity, temperature range, and price. The 6.4L square basket holds about 800 g of fries or a small 1.4 kg whole chicken, and the 75-230°C temperature ceiling reaches the high end that genuinely crisps frozen french fries the way the marketing photos imply — a feature the lower-temperature Philips and Yamazen units cannot replicate. Thirteen preset programs cover the obvious foods, though most owners settle into the manual dial after the first week. Square-basket geometry uses counter space more efficiently than the round-basket designs from earlier years. The basket non-stick holds up well for the first 18-24 months and shows visible wear by year three on daily use.",
+      "pros": [
+        "230°C maximum temperature crisps frozen items the way photos imply",
+        "6.4L square basket fits family-size portions with efficient footprint",
+        "Japan-market version ships with 100V plug and Japanese manual",
+        "Mid-tier price at a third of the dual-zone Ninja"
+      ],
+      "cons": [
+        "5.4 kg unit at 32×30×35 cm needs stable counter space, not cabinet storage",
+        "Non-stick basket coating shows visible wear by year three on daily use"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "ninja-foodi-af400",
+      "badge": "Best for Families",
+      "review": "The Ninja Foodi MAX Dual Zone AF400 solves the genuine problem of cooking two foods at different temperatures simultaneously, with two independent 4.75L baskets (9.5L total) and the Sync function that times both zones to finish together. For families regularly cooking chicken wings plus fries together — different temperatures, different times — this removes the sequential-batch friction that single-basket units force. The trade-off is real: at 41×28×32 cm and 8.2 kg the unit dominates a typical Japanese 1LDK kitchen counter, and each zone alone is smaller than a single 6L basket so cooking one food for the whole family actually gives you less working capacity than a Cosori Pro II at half the price. Worth it specifically when dual-temperature simultaneous cooking is the weekly use case.",
+      "pros": [
+        "Two independent baskets cook foods at different temperatures simultaneously",
+        "Sync function times both zones to finish together",
+        "9.5L combined capacity handles 3+ person family meals",
+        "Most robust build quality in the comparison"
+      ],
+      "cons": [
+        "41 cm wide and 8.2 kg dominates a Japanese kitchen counter",
+        "Per-zone capacity is smaller than a single 6L unit at half the price"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "philips-essential-xl-hd9270",
+      "badge": "Best Build Quality",
+      "review": "Philips originated the air fryer category in 2010 and the Essential XL HD9270 shows that engineering maturity throughout. The chassis is the most solid in this comparison, the basket release is the cleanest, and the heating element geometry minimizes the ceiling grease that other units bake on over time. The 6.2L basket and 1700 W heating element handle two-portion meals comfortably. The honest weakness is the 200°C maximum — on the low end for this category. Frozen french fries that crisp aggressively at 230°C in the Cosori reach only a softer browning in the Philips, and matching the final texture takes 3-4 minutes longer. For chicken wings, salmon, and roasted vegetables the difference is invisible; for the specific frozen-pre-fried-items use case that drives most Japanese air fryer purchases, the Cosori has the measurable edge.",
+      "pros": [
+        "Most mature build quality and parts availability in this comparison",
+        "Easiest post-cook cleanup thanks to heating element geometry",
+        "Cleanest basket release mechanism in the comparison",
+        "Long-term Philips brand support and parts ecosystem"
+      ],
+      "cons": [
+        "200°C maximum is the lowest in this comparison",
+        "Frozen items take 3-4 minutes longer to reach equivalent crispness"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "cuisinart-toa-29j",
+      "badge": "Best Hybrid Oven",
+      "review": "The Cuisinart TOA-29J is not a basket-style air fryer but a small countertop convection oven (similar to Aladdin or Balmuda toasters) with a high-speed air-fry mode bolted on. Inside fits a small pizza, four slices of toast, or a small whole chicken, with a removable rack and tray. The hybrid form is genuinely useful in cramped Japanese kitchens because it consolidates a toaster oven and an air fryer into one footprint, and it handles flat-bottom baking dishes that no basket-style unit can use. The honest weakness: with no perforated basket, surface fat from food cannot drip away, so crisping is measurably weaker. Frozen fries come out browned but less crisp; chicken wings sit in their own rendered fat puddle on the underside rather than crisping against airflow.",
+      "pros": [
+        "Consolidates toaster oven and air fryer into one counter footprint",
+        "Handles flat-bottomed baking dishes that basket models cannot",
+        "Best for small-batch baking and reheating leftovers in real dishes",
+        "Solid Cuisinart build quality and parts support"
+      ],
+      "cons": [
+        "No perforated basket means surface fat cannot drip away from food",
+        "Crisping is measurably weaker than dedicated basket air fryers"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "yamazen-yaf-c120",
+      "badge": "Best Budget Compact",
+      "review": "The Yamazen YAF-C120 is the budget pick for one-to-two person households in tight kitchens, and it earns the slot through honest single-portion ergonomics rather than spec heroics. The 1.2L basket fits about 200-300 g of food (one portion of fries, two small chicken thighs, half a bag of frozen gyoza), the 80-200°C range with analog dial control covers the standard use cases, and the 22×24×26 cm body and 2.4 kg weight make it the only unit in this comparison that genuinely fits a tight Tokyo 1K kitchen. The structural limits are real: 1.2L is single-portion territory, the basket non-stick wears visibly by 12-18 months of daily use, and 200°C maximum keeps crisping competent rather than class-leading. Yamazen sells replacement baskets at around 1,800 yen which makes the long-term economics reasonable.",
+      "pros": [
+        "22×24×26 cm body fits tight Tokyo 1K kitchen counters",
+        "Cheapest unit in the comparison at 7,980 yen",
+        "Simple analog dial with no preset programs to learn",
+        "Replacement baskets available at around 1,800 yen"
+      ],
+      "cons": [
+        "1.2L capacity is strictly single-portion — three batches for guests",
+        "Non-stick basket coating wears at 12-18 months on daily use"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For 2-4 person households",
+      "offerId": "cosori-pro-ii-6-4l",
+      "reason": "6.4L square basket and 230°C maximum crisp family-size frozen-fry portions the way photos imply at a third of the dual-zone Ninja price."
+    },
+    {
+      "label": "For families cooking two foods at once",
+      "offerId": "ninja-foodi-af400",
+      "reason": "Two 4.75L baskets with Sync timing remove the sequential-batch friction that single-basket units force on simultaneous wings-and-fries cooking."
+    },
+    {
+      "label": "For brand-longevity buyers",
+      "offerId": "philips-essential-xl-hd9270",
+      "reason": "Philips originated the category in 2010 and the build quality and parts availability are the most mature in this comparison."
+    },
+    {
+      "label": "For counter-space-constrained kitchens that also need a toaster oven",
+      "offerId": "cuisinart-toa-29j",
+      "reason": "Hybrid convection oven consolidates two appliances into one footprint and handles flat-bottom dishes a basket air fryer cannot."
+    },
+    {
+      "label": "For solo cooks in tight Tokyo kitchens",
+      "offerId": "yamazen-yaf-c120",
+      "reason": "22×24×26 cm body and 1.2L basket fit a 1K counter at 7,980 yen — the only unit that physically belongs in the smallest apartments."
+    }
+  ]
 }

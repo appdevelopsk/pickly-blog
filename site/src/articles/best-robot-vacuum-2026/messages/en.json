@@ -70,5 +70,114 @@
     "dyson-360-vis-nav": "Buy only if you specifically want a Dyson — premium price without the self-empty dock or mop function the others have at lower prices."
   },
   "pinDescription": "Five robot vacuums compared in 2026: 59,800 yen SwitchBot K10+ to 189,200 yen Dyson 360 Vis Nav. Suction, mop function, mapping accuracy, and which one a Tokyo apartment actually needs.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews.",
+  "products": [
+    {
+      "offerId": "roborock-s8-pro-ultra",
+      "badge": "Best Flagship",
+      "review": "The Roborock S8 Pro Ultra is the default flagship for buyers who want one robot vacuum that handles essentially everything without further research. 6,000 Pa suction works on hardwood and short-to-medium-pile rugs, the dual-spinning mop pads with auto-lift over rugs handle both vacuuming and mopping in a single pass, and LiDAR mapping produces a usable floor plan on the first run rather than the 2-3 learning runs that camera-based units need. The all-in-one dock empties the bin into a sealed bag, washes the mop with hot water, and refills the clean-water tank automatically — the trio of dock features that separates daily use from weekly use. At 179,800 yen the unit is more than triple the SwitchBot price, and the premium goes into the dock and mapping rather than the vacuum suction itself. Threshold climbing rates the highest in this comparison at 2 cm.",
+      "pros": [
+        "LiDAR mapping is accurate from the first run",
+        "Dual-spinning mop pads with auto-lift over rugs",
+        "Self-empty plus self-wash plus self-refill dock automation",
+        "2 cm threshold climbing — highest in this comparison"
+      ],
+      "cons": [
+        "179,800 yen is more than triple the SwitchBot price",
+        "Premium goes into dock features more than suction itself"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "irobot-roomba-j7-plus",
+      "badge": "Best for Pet Households",
+      "review": "The iRobot Roomba j7+ earns its slot through PrecisionVision pet-poop avoidance, which is the best in the category and trained specifically on the failure mode that ruins a household with dogs or cats. Roborock and Eufy will detect 'an obstacle' but the j7+ has been trained on the exact silhouettes that other robots smear across the floor. LiDAR-quality mapping (technically vSLAM with the front-facing camera), self-empty dock, and the mature iRobot Home app round out the package. The honest weaknesses: this model has no mop function at all — the Combo j7+ is a separate SKU at higher price — and the self-empty dock cycle is loud, closer to a vacuum cleaner than a printer when it cycles. For households without pets, the Roborock or Eufy are more capable for the price; for households with pets, the j7+ is the only safe bet.",
+      "pros": [
+        "PrecisionVision pet-waste avoidance is best-in-class",
+        "Mature iRobot Home app and 20-year category track record",
+        "Self-empty dock with 60-day-capacity bag",
+        "vSLAM camera mapping handles low-light rooms competently"
+      ],
+      "cons": [
+        "No mop function — Combo j7+ is a separate higher-price SKU",
+        "Self-empty dock cycle is loud, 80-85 dB for 8-12 seconds"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "eufy-x10-pro-omni",
+      "badge": "Best Value",
+      "review": "The Anker Eufy X10 Pro Omni is the value pick of this comparison because it delivers the full self-empty plus self-wash plus self-refill dock at roughly half the Roborock S8 Pro Ultra price. 8,000 Pa suction is the highest single spec number in this list (suction beyond 4,000 Pa has diminishing returns on Japanese flooring, but the headroom matters for thick rugs), dual rotating mops, and a 99,990 yen price that brings the full dock-automation experience under 100,000 yen for the first time. The honest weakness: the mapping is camera-and-gyro rather than LiDAR, so the first 2-3 runs visibly re-trace cleaned areas and occasionally treat a dark rug as a cliff. Once the map stabilizes after about a week, cleaning quality matches the Roborock — the friction is concentrated in setup.",
+      "pros": [
+        "Full self-empty plus self-wash dock at half the Roborock price",
+        "8,000 Pa suction spec is the highest in this comparison",
+        "Dual rotating mops, not the dragged-cloth approach",
+        "After the first week of mapping, quality matches the Roborock"
+      ],
+      "cons": [
+        "Camera-and-gyro mapping needs 2-3 runs to stabilize",
+        "Occasionally treats dark rugs as cliffs in low light"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "switchbot-k10-plus",
+      "badge": "Best Slim Profile",
+      "review": "The SwitchBot K10+ is the only robot vacuum here that physically fits under low Japanese sofas and TV stands without scraping — 9.2 cm tall is roughly 30% shorter than a Roborock chassis, which is the difference between cleaning under the furniture and asking you to move it every time. 2,500 Pa suction is the lowest in this comparison and won't deep-clean a thick rug, but for hardwood and short-pile in a small apartment it is more than enough. The 150 ml dust bin needs the self-empty dock to cycle after roughly 70 m², and the mop is a dragged microfiber cloth rather than a rotating pad. Threshold climbing struggles above 1.5 cm so multi-room apartments with raised tatami doorways need to plan around that. At 59,800 yen it integrates tightly with the rest of the SwitchBot ecosystem (curtains, locks, hub).",
+      "pros": [
+        "9.2 cm body fits under furniture other robots cannot reach",
+        "Cheapest unit in this comparison at 59,800 yen",
+        "Integrates with SwitchBot ecosystem (curtains, locks, hub)",
+        "Self-empty dock surprising at this price point"
+      ],
+      "cons": [
+        "2,500 Pa suction won't deep-clean thick carpets",
+        "Threshold climbing struggles above 1.5 cm"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "dyson-360-vis-nav",
+      "badge": "Best Suction Engineering",
+      "review": "The Dyson 360 Vis Nav is the British flagship and the most expensive unit in this comparison at 189,200 yen, with 360-degree fisheye camera mapping, twin-channel suction powered by Dyson's digital motor, and app-controlled spot cleaning. The suction itself is genuinely strong — the Dyson digital motor heritage shows in raw pickup performance. The honest weaknesses are why most reviewers don't recommend it as the default: at this price point there is no self-empty dock (you empty the 0.33 L bin manually after every run), no mop function at all, and runtime is rated at roughly 50 minutes per charge so a typical 2LDK needs a mid-cycle recharge. The package is a generation behind Roborock and Roomba on dock automation despite costing more — buy only if you specifically want a Dyson and accept the trade.",
+      "pros": [
+        "Twin-channel digital-motor suction is class-leading raw pickup",
+        "360-degree fisheye camera maps low-light rooms well",
+        "Dyson app integrates with MyDyson ecosystem",
+        "Build quality and engineering pedigree are visible"
+      ],
+      "cons": [
+        "No self-empty dock at 189,200 yen flagship price",
+        "No mop function and 50-minute runtime requires mid-cycle recharge"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For one-and-done flagship buyers",
+      "offerId": "roborock-s8-pro-ultra",
+      "reason": "LiDAR mapping, dual-spinning mops, and the full self-empty plus self-wash plus self-refill dock cover essentially every robot vacuum scenario."
+    },
+    {
+      "label": "For households with pets",
+      "offerId": "irobot-roomba-j7-plus",
+      "reason": "PrecisionVision pet-waste avoidance is trained specifically on the failure mode that ruins your morning, and Roborock/Eufy only detect 'an obstacle'."
+    },
+    {
+      "label": "For value-conscious mid-tier buyers",
+      "offerId": "eufy-x10-pro-omni",
+      "reason": "Full self-empty plus self-wash dock at half the Roborock price, with 8,000 Pa suction and dual rotating mops, accepting the first-week mapping roughness."
+    },
+    {
+      "label": "For 1K apartments with low-clearance furniture",
+      "offerId": "switchbot-k10-plus",
+      "reason": "9.2 cm body is the only one in this comparison that fits under low Japanese sofas and TV stands without scraping."
+    },
+    {
+      "label": "For Dyson loyalists prioritizing suction engineering",
+      "offerId": "dyson-360-vis-nav",
+      "reason": "Twin-channel digital-motor suction is genuinely class-leading on raw pickup if you accept no self-empty dock and no mop function at flagship price."
+    }
+  ]
 }

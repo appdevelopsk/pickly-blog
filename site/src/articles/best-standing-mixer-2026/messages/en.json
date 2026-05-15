@@ -87,5 +87,114 @@
     "cuisinart-sm-50": "12-speed tilt-head, 5.5L bowl, priced below KitchenAid. Proprietary attachment hub with thin third-party market; tilt-head lock reports loosening after 18-24 months.",
     "panasonic-mk-h4": "Japanese-market stand mixer for shokupan and pizza dough. Domestic Panasonic support. Narrow attachment set; not sold outside Japan."
   },
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "kitchenaid-ksm150ps",
+      "badge": "Best Attachment Ecosystem",
+      "review": "The KitchenAid Artisan KSM150PS earns the top slot for buyers who want a stand mixer as a platform for multiple kitchen tasks rather than just mixing. Over 80 attachments connect to the same front power hub — pasta rollers, meat grinder, food processor bowl, grain mill, vegetable spiralizer, citrus juicer, ice cream bowl, sausage stuffer — and no other stand mixer comes close to this ecosystem in breadth. The 325 W motor is well-matched to cake batters, whipped cream, and light doughs, and the tilt-head design lets you access the 4.7 L bowl in seconds for mid-mix additions. The honest weakness is bread: the motor strains on stiff dough, the housing warms up during 8-10 minute kneading sessions, and the motor governor reduces speed on high-gluten batches. For shokupan or bagel dough at high hydration, 325 W is marginal — but for cakes, cookies, and the occasional single loaf it is the right machine.",
+      "pros": [
+        "Over 80 attachments through the universal power hub",
+        "Tilt-head design accesses the bowl in three seconds for mid-mix additions",
+        "10-speed control well-matched to cakes, cookies, and light doughs",
+        "Iconic build quality with multi-decade parts availability"
+      ],
+      "cons": [
+        "325 W motor strains on stiff bread dough and multi-loaf batches",
+        "4.7 L bowl gets tight on double cookie batches"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "kenwood-chef-xl-kvl4100s",
+      "badge": "Best for Bread Baking",
+      "review": "The Kenwood Chef XL KVL4100S runs a 1000 W motor paired with a 6.7 L bowl — both figures are the highest in this comparison. The practical result: bread dough that causes the KitchenAid to labor runs through the Kenwood without the motor housing warming up. A double-loaf batch of dough or 5+ dozen cookies in a single pass fits in the bowl without overflow. The AT attachment series covers food processor, pasta maker, spiralizer, and mincer — fewer options than KitchenAid's 80+ but a functional list for most households. Bowl-lift design holds the head fixed while the bowl raises on a lever to engage the beater, which means accessing the bowl mid-mix requires lowering it away from the beater first — an extra step compared to the tilt-head, negligible for bread but mild friction for staged cake recipes. The machine is heavier and occupies more counter space than the KitchenAid.",
+      "pros": [
+        "1000 W motor handles stiff bread dough without straining",
+        "6.7 L bowl fits double-loaf batches without overflow",
+        "Bowl-lift design holds heavier loads more stably than tilt-head",
+        "AT attachment series covers food processor, pasta, spiralizer, mincer"
+      ],
+      "cons": [
+        "Bowl-lift mid-mix access is slower than tilt-head",
+        "Heavier and larger counter footprint than the KitchenAid"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "bosch-mum5",
+      "badge": "Best Compact Efficiency",
+      "review": "The Bosch MUM5 uses a planetary mixing system with 7-point bowl contact, meaning the beater reaches more of the bowl surface than simple orbital designs — fewer unbeaten patches at the dough edges on stiff batters. The motor design extracts more effective torque per watt than budget motors, delivering dough performance beyond what the wattage number implies, and the machine handles bread and cookie dough without the heat accumulation that appears in lower-quality motors under sustained load. The 3.9 L bowl is adequate for single-batch baking for 2-4 people; it requires multiple passes for the large batches the Kenwood handles in one. The attachment ecosystem is limited to the Bosch MUM5 line — functional accessories exist but the third-party market is much smaller than KitchenAid or Kenwood. Counter footprint is compact relative to bowl capacity, which matters in small Japanese kitchens.",
+      "pros": [
+        "7-point planetary bowl contact catches stiff-dough edges other designs miss",
+        "Motor extracts more torque per watt than budget alternatives",
+        "Compact counter footprint relative to bowl capacity",
+        "German engineering durability above its price point"
+      ],
+      "cons": [
+        "3.9 L bowl requires multiple passes for large batches",
+        "Attachment ecosystem is limited compared to KitchenAid or Kenwood"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "cuisinart-sm-50",
+      "badge": "Best Tilt-Head Value",
+      "review": "The Cuisinart SM-50 delivers tilt-head convenience and a slightly larger 5.2 L bowl than the KitchenAid Artisan at a consistently lower street price. The 12-speed range is broader than KitchenAid's 10-speed, giving finer control for delicate tasks like whipping egg whites to stiff peaks, and the 10% capacity increase over the KitchenAid is marginal but useful on cookie batches that sit at the edge of the KitchenAid's capacity. The attachment hub is Cuisinart-proprietary — KitchenAid attachments do not transfer, and the third-party attachment market is much thinner than KitchenAid's. Long-term owner reviews show a consistent pattern of the tilt-head locking mechanism developing looseness after 18-24 months of regular use. This is not a failure, but it is a step down in mechanical tightness from the KitchenAid over the same period. The right pick for tilt-head buyers who skip the KitchenAid attachment ecosystem investment.",
+      "pros": [
+        "5.2 L bowl is 10% larger than the KitchenAid Artisan",
+        "12-speed range gives finer control than KitchenAid's 10-speed",
+        "Tilt-head convenience at a lower price than KitchenAid",
+        "Solid all-around performance for cakes and cookies"
+      ],
+      "cons": [
+        "Tilt-head lock reports loosening after 18-24 months of regular use",
+        "Proprietary attachment hub with a thin third-party market"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "panasonic-mk-h4",
+      "badge": "Best for Shokupan",
+      "review": "The Panasonic MK-H4 is designed around the specific stiffness of Japanese bread dough. Shokupan (Japanese milk bread) and pizza dough at Japanese recipe conventions (60-65% hydration, high-protein domestic flour) are the primary use cases, and the motor calibration handles these without the strain that appears in machines designed primarily for Western-style lighter doughs. Compact dimensions fit a standard Japanese kitchen counter alongside a rice cooker without dominating the workspace. Panasonic's domestic distribution and service network is a practical advantage — parts are available at standard electronics retailers and warranty service does not involve import intermediaries. The attachment set is narrow (bowl, dough hook, flat beater, wire whisk), and the hardware attachment market that KitchenAid or Kenwood offer does not exist for this model. The machine is not sold outside Japan.",
+      "pros": [
+        "Motor calibrated specifically for Japanese 60-65% hydration shokupan dough",
+        "Compact dimensions fit Japanese kitchens alongside a rice cooker",
+        "Panasonic domestic service network and parts availability",
+        "No import intermediaries for warranty or repair"
+      ],
+      "cons": [
+        "Narrow attachment set — no pasta, grinder, or spiralizer options",
+        "Not sold outside Japan"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For multi-task kitchens that want pasta, grinding, and spiralizing",
+      "offerId": "kitchenaid-ksm150ps",
+      "reason": "Over 80 attachments through the universal power hub turn the mixer into a kitchen platform no other stand mixer matches."
+    },
+    {
+      "label": "For regular bread bakers",
+      "offerId": "kenwood-chef-xl-kvl4100s",
+      "reason": "1000 W motor and 6.7 L bowl handle stiff dough and double-loaf batches that the KitchenAid 325 W motor strains against."
+    },
+    {
+      "label": "For compact kitchens needing planetary mixing",
+      "offerId": "bosch-mum5",
+      "reason": "7-point planetary contact and torque-efficient motor deliver bread-dough performance above the wattage number in a compact footprint."
+    },
+    {
+      "label": "For tilt-head value buyers",
+      "offerId": "cuisinart-sm-50",
+      "reason": "5.2 L bowl and 12-speed tilt-head convenience at a lower price than the KitchenAid Artisan for buyers who skip the attachment ecosystem."
+    },
+    {
+      "label": "For Japanese households baking shokupan",
+      "offerId": "panasonic-mk-h4",
+      "reason": "Motor calibrated for 60-65% hydration Japanese bread dough with compact dimensions and Panasonic's domestic service network."
+    }
+  ]
 }

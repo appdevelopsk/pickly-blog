@@ -105,5 +105,114 @@
     "samsung-galaxy-fit-3": "Largest display in this comparison at 1.6 inches — readability advantage for notifications and workout data over the narrower Fitbit and Xiaomi bands. Works with any Android phone, not just Samsung. 13-day claimed battery (8–11 days realistic). No built-in GPS. The Galaxy Wearable app's full analytics depth requires a Samsung phone; on non-Samsung Android the feature set is reduced. At ~¥8,000, the pragmatic budget Android tracker."
   },
   "pinDescription": "Five fitness trackers compared in 2026: Fitbit Charge 6 with built-in GPS at ¥20,000, Xiaomi Smart Band 9 at ¥5,000 and 33 grams, Garmin Vivosmart 5 with Body Battery energy tracking, Apple Watch SE for iPhone users, and Samsung Galaxy Fit 3 with a large 1.6-inch screen. GPS built-in vs connected, ecosystem lock-in, battery life under real use, and which health sensor numbers you can actually trust.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "fitbit-charge-6",
+      "badge": "Best GPS Tracker",
+      "review": "The Charge 6 is the only tracker in this comparison with built-in GPS, which is the single feature that justifies its position at the top for anyone who runs or cycles without a phone. The optical heart rate sensor has been updated from previous Charge generations and resting heart rate readings align with chest-strap references within 2–4 bpm during steady-state activity. Google integration brings Maps turn-by-turn notifications and YouTube Music control on the wrist. Real-world battery life is 4–5 days with continuous HR and sleep tracking enabled, which is more than acceptable for the feature set. The honest caveats: ECG hardware is present but the feature is geographically disabled for JP-region accounts as of mid-2026, and Fitbit Premium at ¥1,080/month is required for the deeper readiness and stress analytics.",
+      "pros": [
+        "Only tracker here with built-in GPS antenna",
+        "Google Maps and YouTube Music integration on wrist",
+        "4–5 day real-world battery with continuous HR",
+        "Informed Sport-tier optical HR for steady-state work"
+      ],
+      "cons": [
+        "ECG feature disabled for Japan-region accounts",
+        "Fitbit Premium required for full analytics depth"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "xiaomi-smart-band-9",
+      "badge": "Best Budget",
+      "review": "At roughly one-quarter the price of the next cheapest option in this group, the Smart Band 9 covers the core daily-activity-tracker job competently. The 1.62-inch AMOLED is bright and readable, the band weighs just 33 g so it disappears on the wrist during sleep tracking, and the claimed 14-day battery delivers 8–10 days under realistic continuous-HR use. Heart rate accuracy at rest and during steady-state walking is reasonable; during weight training and HIIT the smaller optical sensor array shows motion artifacts more often than premium trackers. Connected GPS only — it piggybacks on the paired phone for route logging. The Mi Fitness app is thinner on workout analytics than Fitbit, Garmin, or Samsung Health, and Xiaomi's Japan service network is light if a warranty issue ever comes up.",
+      "pros": [
+        "Excellent value at ~¥5,000 for daily tracking basics",
+        "33 g body disappears during sleep tracking",
+        "1.62-inch AMOLED is the brightest in budget tier",
+        "8–10 days realistic battery with HR enabled"
+      ],
+      "cons": [
+        "Mi Fitness app weaker for training analytics",
+        "Sensor accuracy drops during gym workouts"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "garmin-vivosmart-5",
+      "badge": "Best Health Analytics",
+      "review": "The Vivosmart 5 delivers the strongest health and recovery analytics in this price range, anchored by Garmin's Body Battery score — a 0–100 readiness metric derived from HRV during sleep, sleep quality, daytime stress patterns, and activity load. Long-term Garmin users consistently report Body Battery becomes a meaningfully actionable daily signal after 2–4 weeks of calibration. The slim band wears discreetly, works equally well with iOS and Android via Garmin Connect, and supports SpO2, all-day stress score, and Garmin's mature sleep analysis platform. The unusual trade-off at ~¥22,000: no built-in GPS in a product priced above the Fitbit Charge 6. Garmin positions it as a health-and-activity monitor rather than a running watch, but the missing GPS is a real limitation for runners who train without a phone.",
+      "pros": [
+        "Body Battery becomes useful after 2–4 weeks of calibration",
+        "Mature HRV-based sleep and stress analytics",
+        "Slim, discreet form factor for all-day wear",
+        "Full feature parity on Android and iOS"
+      ],
+      "cons": [
+        "No built-in GPS despite premium pricing",
+        "Smartwatch features limited compared to Apple Watch"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "apple-watch-se-2nd",
+      "badge": "Best for iPhone",
+      "review": "Apple Watch SE 2nd generation is the only device in this comparison that functions as a full smartwatch rather than a fitness tracker with watch features. Crash detection, Emergency SOS, full watchOS app store access, message replies on the wrist, and Suica integration that works at every conbini in Japan separate it from everything else here. As a fitness tracker it does the job — heart rate, GPS via phone, swim tracking with stroke detection, sleep tracking — but the 18-hour real-world battery means daily charging without exception, which breaks the consistent wear that drives most of a tracker's behavioral benefit. The hard requirement for an iPhone is non-negotiable — there is no Android pairing mode. At ~¥35,000 it's nearly twice the price of the Vivosmart 5, justified only by the smartwatch features rather than fitness capability.",
+      "pros": [
+        "Full smartwatch with watchOS app store",
+        "Suica + Apple Pay at every Japanese conbini",
+        "Crash detection and Emergency SOS",
+        "MagSafe/Qi charging compatibility"
+      ],
+      "cons": [
+        "iPhone required — no Android workaround",
+        "18-hour battery demands daily charging"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "samsung-galaxy-fit-3",
+      "badge": "Best Display",
+      "review": "The Galaxy Fit 3 carries the largest display in this comparison at 1.6 inches, which makes a real difference if you read notifications or workout data from the wrist during exercise. Built for Android users — works with any Android phone, not just Samsung, via Google Play's Galaxy Wearable app — it offers a 13-day claimed battery (8–11 days realistic), 50 m water rating for swim tracking, and a SpO2 sensor for overnight blood-oxygen trending. No built-in GPS, only connected GPS, so route logging requires carrying a paired phone. The Galaxy Wearable app's deeper analytics work fully only on Samsung phones; on non-Samsung Android the feature set is reduced to step counting, sleep, and notifications. At ~¥8,000 it slots between the Xiaomi budget tier and Fitbit's mid-range price.",
+      "pros": [
+        "Largest 1.6-inch display in this comparison",
+        "Works with any Android phone, not just Samsung",
+        "8–11 day realistic battery",
+        "50 m water resistance for swim tracking"
+      ],
+      "cons": [
+        "Full analytics require a Samsung phone",
+        "No built-in GPS at this price tier"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For runners who train without a phone",
+      "offerId": "fitbit-charge-6",
+      "reason": "Built-in GPS is the differentiator here — only the Charge 6 logs an accurate route and pace when you leave the phone at home."
+    },
+    {
+      "label": "For first-time tracker buyers on a budget",
+      "offerId": "xiaomi-smart-band-9",
+      "reason": "At ~¥5,000 and 33 g it covers steps, sleep, and notifications without overcommitting before you know whether you'll wear a tracker daily."
+    },
+    {
+      "label": "For data-driven recovery and stress tracking",
+      "offerId": "garmin-vivosmart-5",
+      "reason": "Body Battery and Garmin's HRV-based stress analytics provide the most actionable recovery signal in this price range, regardless of phone platform."
+    },
+    {
+      "label": "For iPhone users who want a true smartwatch",
+      "offerId": "apple-watch-se-2nd",
+      "reason": "The watchOS app store, Suica at every conbini, and crash detection make sense only if you already live in the Apple ecosystem and accept nightly charging."
+    },
+    {
+      "label": "For Android users who read data from the wrist",
+      "offerId": "samsung-galaxy-fit-3",
+      "reason": "The 1.6-inch display is the most readable mid-budget option and pairs cleanly with any Android phone, not just Samsung."
+    }
+  ]
 }

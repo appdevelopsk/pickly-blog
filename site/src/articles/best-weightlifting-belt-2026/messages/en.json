@@ -68,5 +68,114 @@
     "harbinger-foam-core-belt": "Foam core, best for beginners and Olympic lifting"
   },
   "pinDescription": "Lever or prong, 10mm or 13mm — the right weightlifting belt depends on what you lift and why. These 5 picks cover powerlifting competition, Olympic lifting, and general strength training without overlap.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "inzer-forever-lever-belt-10mm",
+      "badge": "Best Overall",
+      "review": "The Forever Lever is the benchmark against which every other powerlifting belt is measured. Single-ply vegetable-tanned leather at 10 mm thick and 4 inches wide, with a lever buckle that snaps shut with a satisfying click and releases with a single thumb press. Once you set the lever to your waist size at home, every session starts with the same tight, consistent fit — no fumbling with prongs between heavy sets. The belt is IPF approved for competition use, made in the USA, and backed by a lifetime guarantee. The 10 mm thickness suits most raw powerlifters: thick enough for serious bracing, not so rigid that it interferes with squat depth or hip flexion. Expect a real 4–6 week break-in period before the leather softens and molds to your torso — uncomfortable at first, perfectly contoured after.",
+      "pros": [
+        "Lever closure delivers identical fit every set",
+        "IPF approved for competition",
+        "Lifetime guarantee and US manufacturing",
+        "10 mm thickness suits most raw lifters"
+      ],
+      "cons": [
+        "Long 4–6 week break-in period",
+        "Lever adjustment requires unscrewing the buckle"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "rogue-ohio-lifting-belt",
+      "badge": "Best Prong Belt",
+      "review": "The Rogue Ohio Lifting Belt is 10 mm thick leather with a single or double prong buckle, 4 inches wide, and the most commonly used non-lever belt in serious strength gyms. The prong closure gives more fit flexibility than a lever — you can run a looser hole during warm-ups and tighten progressively toward a max attempt, which matters during long sessions where waist circumference changes with food and hydration. Rogue stitches the belt in Columbus, Ohio using reinforced thread at all load-bearing edges, and the steel roller buckle stays put under load rather than rotating loose. Break-in is moderate at about 2–4 weeks before the leather stops feeling like cardboard. Single-prong is faster between sets and is the daily-training default for most lifters; double-prong adds redundancy at the cost of setup time.",
+      "pros": [
+        "Single or double prong fit flexibility",
+        "Reinforced stitching at load-bearing edges",
+        "Faster break-in than competition lever belts",
+        "Steel roller buckle stays seated under load"
+      ],
+      "cons": [
+        "Not IPF approved in all configurations",
+        "Prong setup slower than lever between heavy sets"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "sbd-lever-belt-13mm",
+      "badge": "Best for Competition",
+      "review": "The SBD Lever Belt is 13 mm thick — the maximum allowed in IPF competition — made from stiff single-ply leather with the lever mechanism integrated directly into the belt body rather than mounted on top. It's the most widely worn belt at IPF World Championships and international raw powerlifting meets for good reason: at 13 mm, the bracing surface against the core under maximal loads is noticeably more substantial than 10 mm options, and elite lifters consistently report measurable performance gains on max attempts. Day-to-day training is less comfortable than the Inzer — this belt doesn't break in so much as it breaks you in. Many serious lifters keep a softer belt for accessory work and reserve the SBD for competition prep and max attempts. Available in 7 sizes for proper fit rather than a one-size-fits-most approach.",
+      "pros": [
+        "13 mm provides maximum legal bracing surface",
+        "Integrated lever sits flatter than mounted designs",
+        "Standard at IPF World Championships",
+        "Seven sizes for proper fit"
+      ],
+      "cons": [
+        "Premium pricing over $200",
+        "Less comfortable for daily training than 10 mm"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "dark-iron-fitness-leather-belt",
+      "badge": "Best Budget Leather",
+      "review": "Dark Iron Fitness Genuine Leather Belt uses cowhide leather at 10 mm thickness, 4 inches wide, with a double-prong roller buckle. It's not IPF approved and the leather is noticeably softer than the Inzer or SBD from day one — which means it's more comfortable immediately but provides slightly less bracing surface under maximum loads. For general strength training at 70–90% intensity (squats, deadlifts, overhead pressing in normal training ranges), the bracing support is more than adequate, and the softer leather skips most of the multi-week break-in pain that competition belts demand. The double-prong takes longer to fasten than a lever, but the steel prongs are thick enough that they don't bend over time, which is a common failure point on truly budget belts. Right pick for lifters who aren't competing and want genuine leather without the premium price.",
+      "pros": [
+        "Genuine leather at $50–70 price point",
+        "Minimal break-in required",
+        "Steel prongs thick enough to resist bending",
+        "Adequate for sub-competition intensity training"
+      ],
+      "cons": [
+        "Not IPF approved for competition",
+        "Softer leather provides less max-effort bracing surface"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "harbinger-foam-core-belt",
+      "badge": "Best for Beginners",
+      "review": "The Harbinger Foam Core Belt is built differently from leather belts entirely — a nylon exterior with closed-cell foam core padding and a steel buckle, 4 inches wide, soft from the moment you put it on with zero break-in required. It's not a powerlifting belt — there's no rigid leather core to brace against at maximum loads — but it provides genuine lumbar support for general gym training and is appropriate for Olympic lifting, where the front of the belt needs to be thin enough not to block the front rack catch in cleans. Leather belts at their full 4-inch width can interfere with the clean catch position; the Harbinger's foam compresses slightly and stays out of the way. At under $30, it's the entry point for belt training and lets beginners develop bracing technique before committing to a rigid competition belt.",
+      "pros": [
+        "Soft foam construction needs zero break-in",
+        "Doesn't block front rack catch in Olympic lifts",
+        "Under $30 entry price",
+        "Lumbar support for general gym work"
+      ],
+      "cons": [
+        "Insufficient rigidity for max-effort powerlifting",
+        "Needs replacement once you lift heavier loads"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For powerlifters who want one belt forever",
+      "offerId": "inzer-forever-lever-belt-10mm",
+      "reason": "Lever-locked consistent fit, IPF approval, and a lifetime guarantee make this the safest pick for someone committing to serious lifting long-term."
+    },
+    {
+      "label": "For lifters who change tightness session to session",
+      "offerId": "rogue-ohio-lifting-belt",
+      "reason": "The prong closure lets you run looser warm-up holes and tighten progressively toward maxes, useful when waist circumference fluctuates during long sessions."
+    },
+    {
+      "label": "For elite powerlifting competition",
+      "offerId": "sbd-lever-belt-13mm",
+      "reason": "13 mm at the IPF legal maximum delivers more bracing surface against the core for measurable gains on max-effort attempts in tested federation meets."
+    },
+    {
+      "label": "For non-competing strength athletes on a budget",
+      "offerId": "dark-iron-fitness-leather-belt",
+      "reason": "Genuine 10 mm leather at $50–70 with minimal break-in covers 70–90% intensity training without paying the competition-grade premium."
+    },
+    {
+      "label": "For beginners and Olympic lifters",
+      "offerId": "harbinger-foam-core-belt",
+      "reason": "Zero break-in foam construction supports the lumbar without blocking the front rack catch position required in cleans and jerks."
+    }
+  ]
 }

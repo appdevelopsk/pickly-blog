@@ -53,5 +53,114 @@
     "ativafit-adjustable-dumbbell": "Highest value per pound, 71.5 lb ceiling, 5-second twist-lock adjustment, compact cradle profile good for floor exercises. 4.4 lb increments are coarser than 2.5 lb systems — limits progressive-overload precision on lighter isolation work; plastic collars less robust than Ironmaster's metal screw-lock."
   },
   "pinDescription": "Five adjustable dumbbell sets compared for home gym use in 2026. Bowflex SelectTech changes weight in 2 seconds. Ironmaster Quick-Lock goes to 75 lb with no plastic parts. ATIVAFIT delivers the best weight-per-dollar ratio. Find the right system for your space and training goals.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "bowflex-selecttech-552",
+      "badge": "Best Overall",
+      "grade": "A+",
+      "review": "The SelectTech 552 wins this comparison because of pure mechanical fluency: 5 to 52.5 lb per dumbbell in 2.5 lb increments, with verified dial changes around two seconds. That increment granularity is the finest of any system here and genuinely changes how you train isolation work like lateral raises and curls, where a 5 lb jump is too coarse. The cradle compresses fifteen pairs into roughly 51 cm by 20 cm of floor footprint, so the kit replaces a dumbbell rack without taking one. The honest limitation is the plastic dial mechanism — owner reports past two years cluster around dial stiffness and occasional selector-plate misalignment, and the rectangular profile creates a wrist-angle issue on floor press and rows that round bells avoid.",
+      "pros": [
+        "Fastest weight changes in the comparison at roughly two seconds per swap",
+        "Finest 2.5 lb increments across the full 5 to 52.5 lb range",
+        "Replaces fifteen fixed pairs in a single compact cradle",
+        "Widely supported by reputable third-party benches and accessories"
+      ],
+      "cons": [
+        "Plastic dial mechanism is the documented long-term failure point",
+        "Rectangular cradle creates wrist clearance issues on floor exercises"
+      ]
+    },
+    {
+      "offerId": "powerblock-elite-exp-50",
+      "badge": "Most Upgradeable",
+      "grade": "A",
+      "review": "The PowerBlock Elite EXP is the only system here that grows with you: a 5 to 50 lb base that expands to 70 lb with the Stage 2 kit and 90 lb with the Stage 3 kit. The pin-and-sleeve adjustment runs about five seconds per change — slightly slower than a dial, but mechanically simpler. A misinsert is obvious before you lift, where a Bowflex selector-plate mismatch can hide until the weight rolls. The stacked-column profile shares the same rectangular footprint issues as the Bowflex on floor work, and the base unit ceiling is lower than the Ironmaster or ATIVAFIT before you buy expansion kits. Worth choosing if you expect your working weights to climb past 50 lb within a year or two.",
+      "pros": [
+        "Only system here that expands from 50 lb to 70 lb and 90 lb with kits",
+        "Pin-and-sleeve mechanism has a more obvious failure mode than dial systems",
+        "Sleeves and pins use simple metal contact rather than plastic selector plates",
+        "Stage 2 and Stage 3 kits keep the kit relevant as you progress"
+      ],
+      "cons": [
+        "Stacked-column profile creates the same wrist clearance issues as the Bowflex",
+        "Base unit at 50 lb is a lower ceiling than the Ironmaster before expansion"
+      ]
+    },
+    {
+      "offerId": "nordictrack-select-a-weight-55",
+      "badge": "Best for Fast Supersets",
+      "grade": "A",
+      "review": "The NordicTrack Select-A-Weight covers 10 to 55 lb per dumbbell in 2.5 lb steps using a single-end dial that owner reports clock at three to four seconds per change when the mechanism is clean. The 55 lb ceiling is slightly higher than the Bowflex 552, and the cradle is smaller and lighter, which is the main practical advantage if storage is tight. The starting weight at 10 lb instead of 5 lb makes it a worse choice for very light isolation work, and the mechanism has more reported stiffness complaints in humid conditions than the Bowflex dial. iFIT integration is genuinely useful only if you are already invested in the NordicTrack ecosystem; otherwise it is overhead you do not use.",
+      "pros": [
+        "Slightly higher 55 lb ceiling than the Bowflex 552",
+        "Smaller and lighter cradle for tight storage spaces",
+        "Same 2.5 lb increments for precise progressive overload",
+        "Single-end dial is intuitive for supersets and drop sets"
+      ],
+      "cons": [
+        "Minimum weight starts at 10 lb with no 5 lb option for light isolation work",
+        "Dial stiffness reports increase in humid conditions over time"
+      ]
+    },
+    {
+      "offerId": "ironmaster-quick-lock-75",
+      "badge": "Best Premium",
+      "grade": "B+",
+      "review": "The Ironmaster Quick-Lock takes a different design path: a knurled steel collar that physically threads onto the handle and locks the selected plates with no plastic selector mechanism anywhere in the load path. That makes it the most drop-tolerant system in this comparison and the only one that feels like a true fixed commercial dumbbell in the hand. Adjustment takes 10 to 15 seconds because you unscrew, add or remove plates, and re-tighten — slowest in the field, but the trade is durability. The 75 lb ceiling is the highest here and Ironmaster sells expansion kits that take it to 120 lb. The premium price reflects commercial construction and the slow adjustment makes it impractical for supersets.",
+      "pros": [
+        "Highest 75 lb ceiling with expansion to 120 lb available",
+        "Screw-lock mechanism has no plastic selector parts to fail",
+        "Standard barbell-style knurled handle feels like a fixed commercial dumbbell",
+        "Most drop-tolerant adjustable system in this comparison"
+      ],
+      "cons": [
+        "10 to 15 second adjustment time is impractical for supersets",
+        "Heavier and bulkier than dial or pin-based systems"
+      ]
+    },
+    {
+      "offerId": "ativafit-adjustable-dumbbell",
+      "badge": "Best Value",
+      "grade": "B+",
+      "review": "The ATIVAFIT covers 11 to 71.5 lb per dumbbell in 4.4 lb (2 kg) increments using a twist-lock collar at each end, with changes landing around five seconds. The 71.5 lb ceiling is second only to the Ironmaster in this comparison, and the price per pound is the lowest of any system tested — which is exactly the right way to read this product. You give up some precision (4.4 lb steps versus 2.5 lb on Bowflex and NordicTrack) and the plastic collars are less robust than the Ironmaster's metal screw-lock, but the cradle sits lower than the Bowflex and the round-ish profile works noticeably better on the floor for rows and press variations.",
+      "pros": [
+        "Best value per pound of any system in this comparison",
+        "71.5 lb ceiling is second-highest in the comparison",
+        "Lower-profile cradle works better for floor rows and presses",
+        "Five-second twist-lock is fast enough for most training contexts"
+      ],
+      "cons": [
+        "4.4 lb increments limit precision on light isolation work",
+        "Plastic twist-lock collars are less robust than metal screw-lock systems"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For supersets and fast weight changes",
+      "offerId": "bowflex-selecttech-552",
+      "reason": "Two-second dial changes and 2.5 lb increments let you stay inside the rest interval without losing training stimulus."
+    },
+    {
+      "label": "For lifters whose weights are still climbing",
+      "offerId": "powerblock-elite-exp-50",
+      "reason": "The only expandable system here, growing from 50 lb to 90 lb so the kit keeps up as your working weights move up."
+    },
+    {
+      "label": "For tight storage spaces",
+      "offerId": "nordictrack-select-a-weight-55",
+      "reason": "Smaller and lighter cradle than the Bowflex with a slightly higher 55 lb ceiling for the same precision."
+    },
+    {
+      "label": "For heavy compound work",
+      "offerId": "ironmaster-quick-lock-75",
+      "reason": "Screw-lock construction and a 75 lb ceiling (120 lb with kits) make it the closest thing to a fixed commercial dumbbell."
+    },
+    {
+      "label": "For the best weight-per-dollar ratio",
+      "offerId": "ativafit-adjustable-dumbbell",
+      "reason": "71.5 lb ceiling at the lowest price per pound here, with a floor-friendly cradle profile for rows and presses."
+    }
+  ]
 }
