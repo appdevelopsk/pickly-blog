@@ -47,6 +47,7 @@
     "wise:explore": "tsx wise/explore.ts",
     "pinterest:post-yaml": "tsx pinterest/post-from-yaml.ts",
     "pinterest:export-csv": "tsx pinterest/export-csv.ts",
+    "pinterest:upload-csv": "tsx pinterest/upload-csv.ts",
     "check:images": "tsx check-image-urls.ts"
   },
   "devDependencies": {
