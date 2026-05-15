@@ -7,8 +7,10 @@ import { listArticlesForLocale } from "@/lib/articles/registry";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
-import type { ArticleMeta } from "@/lib/articles/types";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
+import { ArticleCardImage } from "@/components/ArticleCardImage";
+import type { ArticleMeta } from "@/lib/articles/types";
+import type { AffiliateOffer } from "@/lib/affiliates/types";
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -28,8 +30,26 @@ const CATEGORY_COLORS: Record<string, string> = {
 
 const CATEGORY_ORDER = ["fitness", "food", "tech", "beauty", "home"];
 
+const TYPE_LABELS: Record<string, string> = {
+  comparison: "Comparison",
+  review: "Review",
+  guide: "Guide",
+};
+
 function getCategoryColor(cat: string) {
   return CATEGORY_COLORS[cat] ?? "bg-slate-50 text-slate-700 border-slate-200";
+}
+
+function getFirstOffer(article: ArticleMeta): AffiliateOffer | null {
+  for (const offerId of article.offerIds) {
+    const offer = CATALOG.find((o) => o.id === offerId);
+    if (offer) return offer;
+  }
+  return null;
+}
+
+function isNew(article: ArticleMeta): boolean {
+  return new Date(article.publishedAt) >= new Date("2026-05-08");
 }
 
 const OG_DIR = path.join(process.cwd(), "public/og");
@@ -70,37 +90,59 @@ function ArticleCard({
   const color = getCategoryColor(article.category);
   const imgSrc = getThumbnail(article, locale);
   const isProductImg = imgSrc && !imgSrc.includes("/og/");
+  const offer = getFirstOffer(article);
+  const badge = offer?.badge;
+  const price = offer?.price;
+  const newArticle = isNew(article);
+  const typeLabel = TYPE_LABELS[article.type] ?? article.type;
+  const picksCount = article.offerIds.length;
 
   return (
     <Link
       href={`/articles/${article.slug}`}
-      className="group flex flex-col rounded-2xl border border-slate-200 overflow-hidden bg-white hover:border-brand-300 hover:shadow-lg transition-all duration-200"
+      className="group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-brand-200 hover:shadow-lg"
     >
       {/* Thumbnail */}
-      <div className="relative overflow-hidden bg-slate-50" style={{ aspectRatio: isProductImg ? "1/1" : "16/9" }}>
-        {imgSrc ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
-            src={imgSrc}
-            alt={title}
-            className={`w-full h-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}
-            loading="lazy"
-          />
-        ) : (
+      <div className="relative shrink-0 overflow-hidden bg-slate-100" style={{ aspectRatio: "4/3" }}>
+        <ArticleCardImage
+          src={imgSrc}
+          alt={title}
+          className={`h-full w-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}
+        >
           <CategoryPlaceholder category={article.category} title={title} />
-        )}
+        </ArticleCardImage>
+        {/* Category */}
         <span className={`absolute left-2.5 top-2.5 rounded-full border px-2.5 py-0.5 text-xs font-semibold bg-white/95 shadow-sm ${color}`}>
           {catLabel}
         </span>
+        {/* NEW badge */}
+        {newArticle && (
+          <span className="absolute right-2.5 top-2.5 rounded-full bg-green-500 px-2 py-0.5 text-[10px] font-bold text-white shadow-sm">
+            NEW
+          </span>
+        )}
+        {/* Price chip */}
+        {price && (
+          <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-bold text-slate-800 shadow-sm">
+            {price}
+          </span>
+        )}
       </div>
       {/* Text */}
-      <div className="flex flex-col flex-1 p-4">
-        <h3 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-600 transition-colors line-clamp-3">
+      <div className="flex flex-1 flex-col p-4">
+        {badge && (
+          <p className="mb-1 truncate text-[11px] font-semibold text-amber-600">🏆 {badge}</p>
+        )}
+        <h3 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-2">
           {title}
         </h3>
         {description && (
-          <p className="mt-2 text-xs leading-relaxed text-slate-500 line-clamp-2 flex-1">{description}</p>
+          <p className="mt-1.5 flex-1 text-xs leading-relaxed text-slate-400 line-clamp-2">{description}</p>
         )}
+        <div className="mt-3 flex items-center justify-between">
+          <span className="text-[11px] text-slate-400">{typeLabel} · {picksCount} picks</span>
+          <span className="text-[11px] font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">Read →</span>
+        </div>
       </div>
     </Link>
   );
@@ -166,7 +208,7 @@ export default async function ArticlesPage({ params }: Props) {
               <h2 className="text-xl font-black text-slate-900">{catLabel}</h2>
               <span className="text-sm text-slate-400">{items.length}件</span>
             </div>
-            <ul className="grid gap-4 grid-cols-2 sm:grid-cols-3 lg:grid-cols-4">
+            <ul className="grid gap-4 grid-cols-2 sm:grid-cols-3">
               {items.map((a) => {
                 let title = a.slug;
                 try { title = t(`articles.${a.slug}.title`); } catch { /* missing */ }

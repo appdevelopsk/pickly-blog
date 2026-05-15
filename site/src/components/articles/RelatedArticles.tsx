@@ -6,6 +6,7 @@ import { getRelatedArticles } from "@/lib/articles/registry";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
+import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
 
 function getThumbnail(article: ArticleMeta, locale: string): string | null {
@@ -66,17 +67,13 @@ export async function RelatedArticles({ slug, category, locale }: Props) {
                   className="relative overflow-hidden bg-slate-50"
                   style={{ aspectRatio: isProductImg ? "1/1" : "4/3" }}
                 >
-                  {imgSrc ? (
-                    // eslint-disable-next-line @next/next/no-img-element
-                    <img
-                      src={imgSrc}
-                      alt={title}
-                      className={`w-full h-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-3" : "object-cover"}`}
-                      loading="lazy"
-                    />
-                  ) : (
+                  <ArticleCardImage
+                    src={imgSrc}
+                    alt={title}
+                    className={`w-full h-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-3" : "object-cover"}`}
+                  >
                     <CategoryPlaceholder category={a.category} title={title} />
-                  )}
+                  </ArticleCardImage>
                 </div>
                 <div className="p-3">
                   <p className="text-xs font-bold leading-snug text-slate-900 group-hover:text-brand-600 transition-colors line-clamp-3">
