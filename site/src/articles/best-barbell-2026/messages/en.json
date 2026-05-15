@@ -48,5 +48,113 @@
     "titan-fitness-olympic-bar": "Titan's best-value competition to the Rogue Ohio Bar. 190,000 PSI shaft, good sleeve construction, and available in black zinc or stainless — a genuine performance bar at a price point $80-100 below the Rogue equivalent."
   },
   "pinDescription": "Rogue Ohio Bar vs Texas Power Bar vs REP Fitness — 5 best barbells for home gyms in 2026. Tensile strength, knurl patterns, and coating options compared for powerlifting and general training.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "rogue-ohio-bar-cerakote",
+      "badge": "Best All-Around",
+      "review": "The Rogue Ohio Bar Cerakote is the default recommendation when one bar has to cover powerlifting, Olympic lifting, and general training. The 190,000 PSI tensile shaft sits between rigid powerlifting bars and whippy Olympic bars, giving usable technique feedback on snatches and cleans while staying predictable under a heavy squat. The medium-depth dual knurl is aggressive enough to grip under load but tolerable on high-rep sets, and the IPF/IWF marks let you switch disciplines without rethinking grip. The Cerakote coating is the differentiator: 0.001-inch ceramic polymer that outperforms zinc and chrome in humid garage environments without changing the feel.",
+      "pros": [
+        "190,000 PSI shaft handles both Olympic whip and powerlifting stiffness",
+        "Cerakote outperforms zinc and chrome in humid garage gyms",
+        "Dual IPF/IWF knurl marks for both disciplines",
+        "28.5 mm shaft balances grip comfort and squat stability"
+      ],
+      "cons": [
+        "Bronze bushings spin slower than needle-bearing Olympic bars",
+        "Higher price than budget Olympic bars"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "texas-power-bar-bare-steel",
+      "badge": "Best for Powerlifting",
+      "review": "The Texas Power Bar has been the benchmark for raw powerlifting since the 1980s and nothing at its price point has displaced it. The 210,000 PSI tensile strength is among the highest you'll find outside boutique builds — that's the spec that decides whether a bar bends permanently under extreme deadlift loads, and the Texas stays straight. The 29 mm shaft adds rigidity powerlifters prefer for stability in the hands, and the aggressive dual knurl with center knurl is the defining feature: the center knurl bites into your back on high-bar squats with enough friction to keep the bar from rolling, which a knurl-free Olympic bar will not give you.",
+      "pros": [
+        "210,000 PSI tensile strength among the highest in the category",
+        "29 mm shaft and aggressive knurl built for raw competition lifting",
+        "Center knurl keeps the bar locked on heavy back squats",
+        "Industry benchmark since the 1980s"
+      ],
+      "cons": [
+        "Bare steel needs regular oil maintenance in humid storage",
+        "Aggressive knurl is uncomfortable on high-rep sets and for beginners"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "cap-ob-86pb-olympic-bar",
+      "badge": "Best Budget",
+      "review": "The CAP OB-86PB is the honest entry point for someone setting up their first home gym who needs a functional Olympic bar without a $300+ spend. The 130,000 PSI tensile shaft is adequate for most recreational lifters training under 140 kg, but it is not the bar to push toward the limits of your deadlift training for years on end. The zinc coating resists surface rust better than bare steel and tolerates humid storage. The 50 mm sleeves accept standard Olympic plates and the sleeve spin is functional if not smooth. The mild knurl makes chalk necessary earlier than premium bars, but for 2-3x weekly moderate-weight training, none of those limitations matter in practice.",
+      "pros": [
+        "Lowest cost of any bar in this lineup",
+        "Zinc coating tolerates humid garage storage",
+        "50 mm sleeves accept standard Olympic plates",
+        "Adequate for recreational lifters training under 140 kg"
+      ],
+      "cons": [
+        "130,000 PSI is below premium tensile ratings",
+        "Mild knurl requires chalk sooner under heavy loads"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "rep-fitness-equalizer-bar",
+      "badge": "Best Value Premium",
+      "review": "The REP Fitness Equalizer Bar sits between budget Olympic bars and Rogue's entry tier, matching the 190,000 PSI tensile strength of the Rogue Ohio Bar at a price typically $100 below it. The finish quality, knurl, and sleeve construction are noticeably above the CAP and Titan tiers, and the bar feels closer to Rogue under load than its price would suggest. For lifters who plan to train seriously for years but cannot stretch to the Rogue Ohio Cerakote, this is the bar that delivers the most premium experience per dollar without giving up tensile strength.",
+      "pros": [
+        "190,000 PSI matching the Rogue Ohio Bar at ~$100 less",
+        "Finish and knurl noticeably better than budget bars",
+        "Strong value for serious home gym lifters",
+        "REP's customer support backs the build quality"
+      ],
+      "cons": [
+        "Less brand recognition than Rogue in resale markets"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "titan-fitness-olympic-bar",
+      "badge": "Best Performance for the Money",
+      "review": "Titan's 20 kg Olympic Barbell matches the Rogue Ohio's 190,000 PSI tensile strength and aggressive knurl in a package roughly $80-100 below Rogue's entry point. Coating options include black zinc and stainless, which cover the humidity-storage gap versus bare steel without the Cerakote premium. Sleeve construction has improved meaningfully in recent Titan generations and the bar feels noticeably above the CAP tier under load. For lifters who plan to train seriously for more than a year and want the Rogue-level steel quality without the Rogue price tag, the Titan is the right call.",
+      "pros": [
+        "190,000 PSI shaft matching premium bars",
+        "Black zinc or stainless coatings — no bare-steel maintenance",
+        "$80-100 below Rogue Ohio at similar tensile spec",
+        "Sleeve construction is well above budget-tier bars"
+      ],
+      "cons": [
+        "Sleeve spin not quite as smooth as Rogue's bronze bushings",
+        "Less established brand than Rogue in competition circles"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For one-bar home gyms covering all disciplines",
+      "offerId": "rogue-ohio-bar-cerakote",
+      "reason": "The Cerakote finish, 190,000 PSI shaft, and dual IPF/IWF marks handle powerlifting and Olympic lifting from a single bar."
+    },
+    {
+      "label": "For dedicated raw powerlifters",
+      "offerId": "texas-power-bar-bare-steel",
+      "reason": "210,000 PSI tensile strength and an aggressive center knurl deliver the most secure raw lifting experience available outside boutique builds."
+    },
+    {
+      "label": "For first-time home gym buyers under budget",
+      "offerId": "cap-ob-86pb-olympic-bar",
+      "reason": "Zinc-coated functionality at the lowest price covers recreational lifters under 140 kg without spending premium money."
+    },
+    {
+      "label": "For serious lifters on a Rogue-light budget",
+      "offerId": "rep-fitness-equalizer-bar",
+      "reason": "It matches the Rogue Ohio's 190,000 PSI shaft and offers a near-premium feel at roughly $100 below Rogue's price."
+    },
+    {
+      "label": "For maximum performance per dollar",
+      "offerId": "titan-fitness-olympic-bar",
+      "reason": "Premium tensile strength and aggressive knurl in black zinc or stainless at $80-100 below Rogue's equivalent."
+    }
+  ]
 }

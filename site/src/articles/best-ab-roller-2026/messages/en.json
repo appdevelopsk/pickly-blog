@@ -53,5 +53,110 @@
     "power-systems-versadisc": "Designed for advanced users comfortable with full rollouts. The rocker base significantly raises difficulty. Check Power Systems' site for current availability."
   },
   "pinDescription": "5 best ab rollers of 2026 — from beginner-friendly SKLZ dual wheels to the advanced Power Systems VersaDisc. Real core training that works. 💪",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "perfect-fitness-ab-carver-pro",
+      "badge": "Best Overall",
+      "review": "The Ab Carver Pro stands out because its internal carbon steel spring genuinely changes the exercise rather than just dressing up a basic wheel. The 7.5-inch tread is wide enough to carve diagonally for oblique work, and the 45-degree angled handles reduce wrist torque during long sets. The spring smooths the eccentric phase so beginners can extend further than raw strength allows and advanced lifters can fight a controlled return. At roughly double the price of a basic roller, it earns the premium by being two products in one: a beginner-assist tool and an oblique trainer.",
+      "pros": [
+        "Carbon steel spring assists extension and resists return",
+        "Wide 7.5-inch tread enables diagonal carving for obliques",
+        "45-degree angled handles reduce wrist strain",
+        "Includes knee pad out of the box"
+      ],
+      "cons": [
+        "Around double the cost of a basic single-wheel roller"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "elite-sportz-ab-roller",
+      "badge": "Best No-Assembly Pick",
+      "review": "Elite Sportz delivers the simplest path from box to first rep: there is no axle threading, no end cap to tighten, and no post-assembly wobble to chase. The 3.25-inch foam-grip tread holds line on hardwood and rubber gym flooring without skidding sideways, and the padded handles dampen the high-rep hand fatigue that develops on cheaper rollers. A knee pad and a printed training guide are included, which most rollers under $25 skip. For a buyer who wants a dependable tool without thinking about specs, it is the cleanest choice in the entry tier.",
+      "pros": [
+        "Ships fully assembled — no axle or cap to tighten",
+        "Padded foam handles reduce hand fatigue on long sets",
+        "Knee pad and printed drill guide included",
+        "Grips both hardwood and rubber gym flooring"
+      ],
+      "cons": [
+        "Single-width tread tracks straight only — no oblique carving"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "sklz-core-wheels",
+      "badge": "Best for Beginners",
+      "review": "Two independent wheels instead of one wide tread changes the stability profile in a way that matters most in the first weeks of training: the split design resists the lateral tipping that causes beginners to bail mid-rollout. Handles sit slightly elevated above the axles for a more neutral wrist angle and fold flat so the unit slides into a gym bag without bulk. Knee rollouts feel measurably more controlled than on a single-wheel design, which is the entire point for anyone still building the core strength to attempt full rollouts from the toes.",
+      "pros": [
+        "Twin-wheel design resists lateral tipping for beginners",
+        "Elevated handles keep wrists closer to neutral",
+        "Handles fold flat for gym bag storage",
+        "Doubles as wrist-neutral push-up handles"
+      ],
+      "cons": [
+        "Two narrow wheels offer less oblique-carving range than a wide tread"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "vinsguir-ab-roller",
+      "badge": "Best Budget",
+      "review": "Vinsguir nails the basics that cheap rollers usually miss. The textured non-slip surface grips hardwood without the sideways skid that ruins reps on smooth-surface budget wheels, the foam handles are comfortable for moderate volume, and the axle is rated to 440 lbs which is unusually honest for the price tier. There is no spring assist, no foot strap, and no dual-wheel trick — it rolls straight and stays straight. For someone who has never used an ab roller and is not sure they will stick with it, this is the rational first purchase before committing to a premium model.",
+      "pros": [
+        "Textured surface grips hardwood without sideways skid",
+        "Axle rated to 440 lbs despite the budget price",
+        "Knee pad included",
+        "Cheapest sensible entry point in the category"
+      ],
+      "cons": [
+        "Foam handles compress slightly under prolonged heavy use",
+        "No spring, foot strap, or oblique features"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "power-systems-versadisc",
+      "badge": "Best for Advanced Users",
+      "review": "The VersaDisc replaces the flat axle of a conventional roller with a rocker base, layering a balance challenge on top of the standard rollout. The instability forces deep stabilizing muscles to fire continuously rather than settling at the end range, which is exactly what experienced rollout users want when they plateau on conventional wheels. The disc-style form factor takes a session or two to adapt to and it is firmly not a beginner tool — but for athletes who can already grind out 15+ clean full rollouts, it opens a new difficulty tier without buying a different piece of equipment.",
+      "pros": [
+        "Rocker base adds multi-plane instability to every rep",
+        "Breaks plateaus that conventional wheels cannot",
+        "Compact disc shape stores in a drawer"
+      ],
+      "cons": [
+        "Not appropriate for beginners or rehab use",
+        "Limited availability through Power Systems channels"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For beginners building core strength",
+      "offerId": "sklz-core-wheels",
+      "reason": "The twin-wheel design prevents the lateral tipping that ends most first sessions early and lets new users complete clean knee rollouts."
+    },
+    {
+      "label": "For oblique-focused core training",
+      "offerId": "perfect-fitness-ab-carver-pro",
+      "reason": "The wide 7.5-inch tread is the only one in this lineup that carves diagonally to load the obliques rather than just the rectus abdominis."
+    },
+    {
+      "label": "For first-time buyers on a tight budget",
+      "offerId": "vinsguir-ab-roller",
+      "reason": "Under $20 and rated to 440 lbs, it covers the basics without committing to a premium model before you know you will stick with rollouts."
+    },
+    {
+      "label": "For buyers who want a plug-and-play tool",
+      "offerId": "elite-sportz-ab-roller",
+      "reason": "It ships fully assembled with a knee pad and drill guide, so the time from unboxing to first rep is under a minute."
+    },
+    {
+      "label": "For advanced lifters chasing a harder progression",
+      "offerId": "power-systems-versadisc",
+      "reason": "The rocker base raises difficulty for athletes who already grind out 15+ clean full rollouts on a conventional wheel."
+    }
+  ]
 }

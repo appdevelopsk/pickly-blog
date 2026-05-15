@@ -94,5 +94,114 @@
     "nutcase-street-mips": "Best helmet for urban commuters and city cyclists. Deep coverage, rounded profile designed for style and side-impact protection, MIPS liner, available in multiple colors. Not the right helmet for road training rides or long aerobic efforts — designed for the cyclist who wears it every day and wants to actually like how it looks."
   },
   "pinDescription": "Best cycling helmets 2026 compared: Giro vs Smith vs Bell vs Specialized vs Nutcase for MIPS protection, ventilation, and fit. Which helmet fits your riding — road, gravel, commute, or MTB?",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "giro-syntax-mips",
+      "badge": "Best Overall",
+      "grade": "A+",
+      "review": "The Giro Syntax MIPS is the most balanced road cycling helmet in this comparison and the easiest recommendation for cyclists training in warm weather. Twenty-five vents arranged in Giro's Wind Tunnel ventilation system pull air through the helmet from front to back, and the Roc Loc 5 Air fit dial allows independent vertical and circumference adjustment without removing the helmet mid-ride. It carries a 5-star Virginia Tech rating and meets both CPSC and CE EN 1078 standards. At around $150 it sits in the price band where you get a premium fit system and genuine ventilation engineering without paying for aerodynamic features that only matter above 35 km/h. For sportive and training use, the Syntax is the reference pick.",
+      "pros": [
+        "25 vents with Wind Tunnel airflow channels handle hot-weather riding",
+        "Roc Loc 5 Air dial allows independent vertical and circumference tuning",
+        "5-star Virginia Tech rating with CPSC and CE EN 1078 certification",
+        "Mid-range price avoids paying for unused aero features"
+      ],
+      "cons": [
+        "Shallow road profile gives less side coverage than gravel helmets",
+        "Two-size sizing offers less initial precision than three-size lineups"
+      ]
+    },
+    {
+      "offerId": "smith-trace-mips",
+      "badge": "Best for Speed",
+      "grade": "A",
+      "review": "The Smith Trace MIPS is the aero helmet pick in this comparison. The teardrop-inspired profile and Koroyd material — an array of co-polymer tubes bonded together that allows air to pass through the structure itself — produce both genuine aerodynamic advantage above 35 km/h and reasonable ventilation despite the closed-shell appearance. Twenty-one vents balance drag with airflow. Smith's wind tunnel testing shows 30-60 seconds saved per hour at race pace versus a standard road helmet. The VaporFit retention dial is precise and the three-size sizing (S, M, L) gives slightly better initial fit coverage than two-size lineups. 5-star Virginia Tech rating. Accept the reduced ventilation versus the Syntax at slower speeds as the trade.",
+      "pros": [
+        "Aerodynamic profile saves 30-60 seconds per hour above 35 km/h",
+        "Koroyd structure delivers airflow through the material itself",
+        "5-star Virginia Tech rating with proven rotational protection",
+        "Three-size sizing improves initial fit coverage"
+      ],
+      "cons": [
+        "21 vents lag the Syntax for slow climbing in still air",
+        "Aero advantage shrinks substantially below 30 km/h"
+      ]
+    },
+    {
+      "offerId": "bell-super-air-r-mips",
+      "badge": "Best Convertible",
+      "grade": "A",
+      "review": "The Bell Super Air R MIPS occupies a unique position: with the chin bar removed, it functions as a capable gravel and road helmet; with the chin bar installed, it becomes a full-face helmet for technical MTB descents. The Float Fit system with Boa retention dial is the best fit mechanism in this comparison — single-handed micro-adjustment with consistent tension distribution. Coverage extends further down over the temples and ears than the Syntax or Trace, providing better side impact protection for off-road conditions. Weight runs roughly 350g without the chin bar and 450g with it — meaningfully heavier than pure road helmets, justified only if you genuinely use the convertible function. 5-star Virginia Tech rating.",
+      "pros": [
+        "Removable chin bar covers road, gravel, and technical descent use",
+        "Boa retention dial is the best fit mechanism here",
+        "Deeper coverage protects temples and ears for off-road crashes",
+        "5-star Virginia Tech rating across the convertible design"
+      ],
+      "cons": [
+        "350-450g weight runs heavier than pure road helmets",
+        "Chin bar mass and complexity only pays off if you actually use it"
+      ]
+    },
+    {
+      "offerId": "specialized-align-ii-mips",
+      "badge": "Best Value",
+      "grade": "B+",
+      "review": "The Specialized Align II MIPS is the value pick in this comparison. At around $75 you get a genuine MIPS liner, CPSC and CE certification, and a 4-star Virginia Tech rating — meaningfully ahead of most non-MIPS helmets at higher prices. The Headset MX fit system is a simple dial cradle without the independent vertical adjustment of the Syntax's Roc Loc 5 Air, and the 18-vent design uses a simpler channel layout than the Wind Tunnel system. For recreational cyclists who ride several times a week for fitness and commute occasionally, the Align II delivers the right protection at a price that makes it accessible as a first serious helmet upgrade.",
+      "pros": [
+        "Genuine MIPS liner at the lowest price in this comparison",
+        "4-star Virginia Tech rating with CPSC and CE EN 1078 certification",
+        "18 vents provide adequate ventilation for recreational road use",
+        "Simple Headset MX dial holds position well for set-and-forget riders"
+      ],
+      "cons": [
+        "Headset MX lacks independent vertical adjustment",
+        "Channel ventilation is shallower than Wind Tunnel designs"
+      ]
+    },
+    {
+      "offerId": "nutcase-street-mips",
+      "badge": "Best for Commuting",
+      "grade": "B+",
+      "review": "The Nutcase Street MIPS is the urban commuter pick. The rounded in-mold polycarbonate shell extends deeper over the ears and temples than road helmets, which is meaningful for urban riders where car-door and side impacts are common crash vectors. Twelve vents — adequate for the 5-15 km urban riding context, not built for sustained aerobic effort. The twist-dial retention system works one-handed and the rounded shell fits a wider range of head shapes than aerodynamic road helmets. MIPS liner inside, with a 4-star Virginia Tech rating range. For the cyclist who needs a helmet they actually wear every day rather than leaving at home because it looks out of place with street clothes, the Nutcase hits a sweet spot.",
+      "pros": [
+        "Deeper coverage protects temples and ears for urban side impacts",
+        "Rounded profile fits a wider range of head shapes",
+        "Available styles and patterns suit commuting with street clothes",
+        "MIPS liner with 4-star Virginia Tech rating range"
+      ],
+      "cons": [
+        "12 vents produce noticeable heat buildup on hot summer rides",
+        "Lifestyle-tuned profile is not aerodynamic for road training"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For most road cyclists",
+      "offerId": "giro-syntax-mips",
+      "reason": "Wind Tunnel ventilation, Roc Loc 5 Air fit, and a 5-star rating cover hot-weather training without paying for aero features."
+    },
+    {
+      "label": "For racers and fast group rides",
+      "offerId": "smith-trace-mips",
+      "reason": "Aero profile saves 30-60 seconds per hour above 35 km/h, with Koroyd airflow keeping ventilation reasonable."
+    },
+    {
+      "label": "For gravel and mixed-terrain riders",
+      "offerId": "bell-super-air-r-mips",
+      "reason": "Removable chin bar and deeper coverage handle road, gravel, and technical descents on the same bike."
+    },
+    {
+      "label": "For first serious helmet upgrade",
+      "offerId": "specialized-align-ii-mips",
+      "reason": "Genuine MIPS and a 4-star Virginia Tech rating at $75 deliver real protection at an accessible price."
+    },
+    {
+      "label": "For urban commuters",
+      "offerId": "nutcase-street-mips",
+      "reason": "Deeper ear and temple coverage plus street-clothes-friendly styling means the helmet actually gets worn daily."
+    }
+  ]
 }

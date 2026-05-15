@@ -58,5 +58,114 @@
     "cleto-reyes-hook-loop-training": "Premium Mexican-made training glove, genuine leather, lace-up or hook-loop, 14/16oz. $150-250. Best premium sparring and competition training glove — competition pedigree, tight hand compartment. Correct for competitive boxers who want pro-grade construction for daily training."
   },
   "pinDescription": "Boxing gloves 2026: Hayabusa T3 vs Everlast ProStyle vs Title Boxing vs Cleto Reyes — what oz to choose, bag gloves vs sparring gloves explained, why hand wraps are required, and best boxing gloves for home gym 2026.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "hayabusa-t3-boxing-gloves",
+      "badge": "Best Overall",
+      "grade": "A+",
+      "review": "The Hayabusa T3 sits at the top of the comparison on the strength of its dual-X wrist strap design — two velcro closures that distribute compression across a wider surface area than single-strap gloves and produce noticeably better wrist support under impact. The Vylar synthetic leather shell holds up to sweat and impact for three to five years of regular bag and pad work, several times the lifespan of vinyl entry gloves. Multi-layer foam keeps its shape under repeated impact instead of compressing flat within a year. The hand compartment locks the fist into a natural alignment under the foam, which translates into safer knuckle contact on hard shots. For three-plus sessions a week, the premium over budget gloves pays for itself.",
+      "pros": [
+        "Dual-X wrist strap distributes compression for superior wrist support",
+        "Multi-layer foam maintains shape after years of regular use",
+        "Vylar shell resists sweat damage far longer than vinyl",
+        "Hand compartment locks the fist in natural striking alignment"
+      ],
+      "cons": [
+        "Price sits above casual hobbyist budgets at $100-130",
+        "Tighter hand compartment runs narrower than Everlast or Title"
+      ]
+    },
+    {
+      "offerId": "everlast-prostyle-training-gloves",
+      "badge": "Best Budget",
+      "grade": "A",
+      "review": "The Everlast ProStyle is the most widely available entry point into boxing gloves, and at $20-35 with a vinyl shell and single-layer foam, it does exactly what it should: cover the cost of trying boxing for the first time. The velcro closure is functional, the size availability across 12/14/16oz is solid, and the gloves work fine for one or two sessions a week of light bag work. The honest tradeoffs sit in the shell and the foam. Vinyl cracks with sweat exposure inside six to eighteen months of regular use, and the single-density foam loses compression resistance faster than multi-layer foam in any of the premium picks. For beginners, this is a sensible bridge to a better glove later.",
+      "pros": [
+        "Lowest entry price in the comparison at $20-35",
+        "12/14/16oz size range matches most beginner and intermediate needs",
+        "Velcro closure allows solo putting on and taking off",
+        "Widely stocked at general sporting goods retailers"
+      ],
+      "cons": [
+        "Vinyl shell cracks with sweat exposure within 6-18 months",
+        "Single-layer foam compresses faster than multi-layer alternatives"
+      ]
+    },
+    {
+      "offerId": "title-boxing-classic-gloves",
+      "badge": "Best Mid-Tier",
+      "grade": "A",
+      "review": "Title Boxing Classic at $40-60 is the cleanest mid-range pick because Title is a dedicated boxing brand — the gloves are designed specifically for boxing rather than rebadged from general fitness equipment. Multi-layer foam puts the distribution closer to Hayabusa than to Everlast's single-density approach, which matters as soon as you push past three sessions a week. The synthetic leather shell holds up better than the ProStyle's vinyl but will not match the longevity of genuine leather. Sizing across 12/14/16oz follows industry norms. For trainees who want better foam quality than budget gloves without the Hayabusa price tag, Title Classic sits in the right place.",
+      "pros": [
+        "Multi-layer foam outperforms single-density Everlast ProStyle",
+        "Boxing-specific brand with construction tuned for the sport",
+        "Synthetic leather lasts longer than vinyl under regular training",
+        "12/14/16oz range fits both heavy bag and light sparring use"
+      ],
+      "cons": [
+        "Synthetic leather still falls short of genuine leather longevity",
+        "Wider hand compartment fits less precisely than Hayabusa or Cleto Reyes"
+      ]
+    },
+    {
+      "offerId": "everlast-1910-boxing-gloves",
+      "badge": "Best Leather Value",
+      "grade": "B+",
+      "review": "The Everlast 1910 brings genuine leather into the $60-90 band, which is meaningfully cheaper than the Hayabusa T3 leather equivalents. The wider wrist strap improves on the ProStyle's narrower closure, and the improved foam distribution sits between the ProStyle and Title Classic in compression resistance. The headline value is the shell: leather, conditioned periodically with standard leather treatment, lasts three to five years of regular training where vinyl manages a quarter of that. For home gym users who want leather construction but cannot justify $100-plus, the 1910 is the practical pick.",
+      "pros": [
+        "Genuine leather shell lasts 3-5 years with regular conditioning",
+        "Wider wrist strap improves on the basic ProStyle closure",
+        "Available in standard 12/14/16oz training sizes",
+        "Sits well below premium leather pricing at $60-90"
+      ],
+      "cons": [
+        "Foam distribution is a step below Hayabusa T3 multi-layer",
+        "Requires periodic leather conditioning that synthetic shells do not"
+      ]
+    },
+    {
+      "offerId": "cleto-reyes-hook-loop-training",
+      "badge": "Best for Competition",
+      "grade": "B+",
+      "review": "Cleto Reyes carries genuine Mexican competition pedigree — these are gloves designed around the working preferences of professional fighters in 14/16oz training weights. Genuine leather shell, tight hand compartment that pulls the fist into a punching shape, and foam profile that runs firmer than Hayabusa or Everlast. The firmer foam transfers more impact through to the knuckles, which is intentional for sparring partners who want to feel the punch as the fighter would land it. At $150-250 the price sits in premium territory, and the lace-up option requires a training partner to tie. For competitive boxers who train daily, the construction justifies the cost.",
+      "pros": [
+        "Genuine Mexican competition pedigree and construction",
+        "Tight hand compartment locks the fist for precise striking",
+        "Firm foam matches what competitive sparring partners expect",
+        "Genuine leather shell built for 5-10 year lifespan with care"
+      ],
+      "cons": [
+        "Firmer foam transfers more impact through to the knuckles",
+        "Lace-up models require a partner to tie before training"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For serious home trainers (3+ sessions per week)",
+      "offerId": "hayabusa-t3-boxing-gloves",
+      "reason": "Dual-X wrist strap and multi-layer foam justify the premium for anyone training hard enough to outgrow budget gloves quickly."
+    },
+    {
+      "label": "For first-time boxing buyers",
+      "offerId": "everlast-prostyle-training-gloves",
+      "reason": "Lowest-cost entry point that covers casual heavy bag work for a year before you commit to a better glove."
+    },
+    {
+      "label": "For regular training under $60",
+      "offerId": "title-boxing-classic-gloves",
+      "reason": "Multi-layer foam from a boxing-specific brand outperforms Everlast ProStyle without the Hayabusa price tag."
+    },
+    {
+      "label": "For leather construction on a budget",
+      "offerId": "everlast-1910-boxing-gloves",
+      "reason": "Genuine leather shell at $60-90 lasts years longer than synthetic gloves with regular conditioning."
+    },
+    {
+      "label": "For competitive boxers and sparring",
+      "offerId": "cleto-reyes-hook-loop-training",
+      "reason": "Mexican competition pedigree, tight fist alignment, and firm foam built for daily training at competition intensity."
+    }
+  ]
 }

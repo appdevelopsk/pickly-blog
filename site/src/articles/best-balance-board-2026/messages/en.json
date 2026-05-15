@@ -66,5 +66,111 @@
     "fitterst-balance-board": "18-inch diameter, higher dome than Yes4All. $40-60. Better for adults with larger feet or users who plateau on standard wobble boards. Mid-range entry option with more instability range than budget alternatives."
   },
   "pinDescription": "Balance board comparison 2026: Indo Board Original vs BOSU Pro vs RevBalance 101 vs Yes4All wobble board vs FitterFirst — which balance board is best for ankle rehab, athletic training, or office standing desk use? Proprioception, difficulty progression, and durability compared.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "indo-board-original-balance-trainer",
+      "badge": "Best for Athletes",
+      "review": "The Indo Board Original pairs a 30x11-inch fiberglass deck with a 6.5-inch foam roller, and the resulting front-to-back instability is the closest dryland analog to the feel of a surfboard or skateboard. The skill ceiling is high — most users need wall support for the first several sessions and the board continues to challenge for years rather than weeks. The deck is essentially indestructible, and the system accepts swap-in accessories: a wider Gigante roller for more stability or a disc cushion that converts the unit to multi-directional wobble mode. At $100-130 it costs more than wobble boards, but for board sport athletes it is a long-term investment with no near-term ceiling.",
+      "pros": [
+        "Roller-deck system mimics surfboard / skateboard balance",
+        "High skill ceiling stays challenging for years",
+        "Accepts Gigante roller and disc cushion accessories",
+        "Fiberglass deck is essentially indestructible"
+      ],
+      "cons": [
+        "Steep learning curve requires wall support early on",
+        "Most expensive option in the lineup"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "bosu-balance-trainer-pro",
+      "badge": "Best Versatility",
+      "review": "The BOSU Pro pairs a 65 cm inflatable dome with a rigid platform and is rated to 350 lbs for commercial gym and physical therapy use. Dome up, it provides a softer, more forgiving unstable surface for standing exercises, squats, lunges, and overhead presses — accessible enough for rehab and group fitness contexts where excessive challenge is contraindicated. Platform up, it functions as a dynamic surface for planks, push-ups, and pike-ups. Because the platform stays stable on a hard floor, it integrates into existing workout programming better than any single-purpose balance board. The Pro version's commercial rating is worth it where multiple people use it daily.",
+      "pros": [
+        "Dome up: standing exercises, squats, lunges, overhead presses",
+        "Platform up: planks, push-ups, pike-ups, mountain climbers",
+        "350 lb rating built for commercial and PT use",
+        "Integrates into existing programming without dedicated sessions"
+      ],
+      "cons": [
+        "65 cm footprint is too large for most desk setups",
+        "Pro pricing is overkill for individual home users"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "revbalance-101-balance-board",
+      "badge": "Best Adjustable Difficulty",
+      "review": "RevBalance 101 addresses the one limitation most wobble boards share: fixed difficulty. The interchangeable fulcrum system ships with three base attachments that change the effective dome radius, giving you beginner, intermediate, and advanced settings on the same maple deck. That progression makes it the right pick for rehab settings where a patient works through stages, or households where multiple users at different skill levels share one board. Build quality is solid — machined base components rather than molded plastic, 350 lb rating — though swapping fulcrums takes about 30 seconds, which is fine for deliberate sessions but not for quick transitions mid-workout.",
+      "pros": [
+        "Three interchangeable fulcrums for beginner-to-advanced progression",
+        "Maple deck with machined base components",
+        "350 lb load rating",
+        "Best fit for multi-user households and rehab settings"
+      ],
+      "cons": [
+        "Fulcrum swap takes ~30 seconds — not for mid-workout transitions"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "yes4all-wobble-balance-board",
+      "badge": "Best Budget Starter",
+      "review": "Yes4All's 15.7-inch hemispherical wobble board is the most accessible entry point to balance training. The wood deck with textured rubber grip and durable plastic dome base is adequately built, and the moderate tipping range lets most users find some control inside the first session. The honest limitation is the same as all single-difficulty budget boards: once you can hold balance for 2-3 minutes without the board touching the floor, you have largely exhausted the challenge. For anyone testing whether balance training fits their routine before investing in premium equipment, or for supervised ankle rehab, it is the correct starting point.",
+      "pros": [
+        "Most accessible price point in the category",
+        "Textured rubber deck grips bare feet and shoes",
+        "Moderate tipping range works for first-time users",
+        "Appropriate for supervised ankle rehab"
+      ],
+      "cons": [
+        "Fixed difficulty — advanced users outgrow it within weeks"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "fitterst-balance-board",
+      "badge": "Best Mid-Range Wobble",
+      "review": "The FitterFirst Professional Balance Board sits one tier above the Yes4All with an 18-inch diameter and a taller dome that widens the tipping angle range. The extra dome height gives adults with larger feet a more proportional platform and pushes back the plateau point that beginners hit on smaller wobble boards. At $40-60 it is more expensive than the Yes4All but still significantly cheaper than the Indo Board or BOSU Pro, which makes it the natural step up for users who outgrew their first wobble board and are not ready to commit to a high-ceiling tool.",
+      "pros": [
+        "18-inch diameter fits adult feet better than 15.7-inch boards",
+        "Taller dome widens the tipping angle range",
+        "More challenge than budget boards at a moderate price",
+        "Comfortable progression from Yes4All to here"
+      ],
+      "cons": [
+        "Still a fixed-difficulty board — no adjustable fulcrum"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For surfers, skaters, and snowboarders",
+      "offerId": "indo-board-original-balance-trainer",
+      "reason": "The roller-deck system is the closest dryland analog to the front-to-back instability of riding a moving board."
+    },
+    {
+      "label": "For physical therapy and group fitness",
+      "offerId": "bosu-balance-trainer-pro",
+      "reason": "The soft dome forgives missed reps and the platform side adds dynamic surface options for planks and push-ups."
+    },
+    {
+      "label": "For multi-user households and progressive rehab",
+      "offerId": "revbalance-101-balance-board",
+      "reason": "The interchangeable fulcrum delivers beginner, intermediate, and advanced settings on the same board."
+    },
+    {
+      "label": "For first-time buyers and ankle rehab",
+      "offerId": "yes4all-wobble-balance-board",
+      "reason": "The lowest entry price in the category lets you test whether balance training fits your routine before committing to premium gear."
+    },
+    {
+      "label": "For adults outgrowing a basic wobble board",
+      "offerId": "fitterst-balance-board",
+      "reason": "The 18-inch diameter and taller dome push back the plateau point that beginners hit on smaller budget boards."
+    }
+  ]
 }

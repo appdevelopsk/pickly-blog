@@ -1,131 +1,151 @@
 {
-  "articles": {
-    "best-weightlifting-shoes-2026": {
-      "title": "Die besten Gewichtheberschuhe 2026: 5 Paare fuer Kniebeugen, Umsetzen und Reissen",
-      "description": "Nike Romaleos vs Adidas Adipower vs Reebok Legacy — Fersenhoehe, Stabilitaet und welcher Schuh zu deinem Trainingstil passt.",
-      "intro": "Gewichtheberschuhe existieren, um ein Problem zu loesen: Die Sprunggelenksbeweglichkeit, die fuer eine tiefe Kniebeuge erforderlich ist, stimmt nicht mit dem ueberein, was die Achillessehnen der meisten Menschen erlauben. Eine erhoehte Ferse kompensiert und laesst dich die Tiefe mit einem aufrechteren Koerper erreichen. Der sekundaere Vorteil ist eine starre Sohle, die Kraft direkt auf den Boden uebertraegt — Laufschuhe komprimieren und absorbieren Energie, die in die Stange gehen sollte. Sobald du schwere Kniebeugen in richtigen Hebeschuhen gemacht hast, fuehlen sich flache Schuhe an wie Kniebeugen im Sand.",
-      "products": {
-        "nike-romaleos-4-weightlifting": {
-          "name": "Nike Romaleos 4",
-          "badge": "Bester insgesamt",
-          "review": "Der Romaleos 4 ist der Schuh, auf den die meisten Wettkampflifter standardmaessig zurueckgreifen, wenn sie keine starke Markenpraeferenz haben. Die 22mm Ferse entspricht dem Standard fuer olympisches Gewichtheben, die Zehenbox ist breit genug fuer die meisten Fuesse ohne sich locker anzufuehlen, und die doppelten Klettverschlussbaender sichern den Mittelfuss fest. Nikes Verarbeitungsqualitaet ist groessenkonsistent. Die Sohle ist hartes TPU — keinerlei Nachgeben, was du moechtest. In breiten Weiten erhaeltlich, was fuer Lifter mit breiteren Fuessen wichtig ist.",
-          "pros": [
-            "Doppelte Klettverschlussbaender halten den Fuss ohne Bewegung",
-            "22mm Fersenerhohung fuer die meisten Kniebeugetiefen geeignet",
-            "Atmungsaktives Mesh-Obermaterial reduziert Hitzestau"
-          ],
-          "cons": [
-            "Weite Passform — kann sich auf schmalem Fuss locker anfuehlen",
-            "Premium-Preis fuer Freizeitlifter"
-          ]
-        },
-        "adidas-adipower-3-weightlifting": {
-          "name": "Adidas Adipower 3",
-          "badge": "Beste Wahl fuer olympisches Gewichtheben",
-          "review": "Der Adipower ist schmaeler als der Romaleos und hat einen hoeheren Fersenabfall von 24mm — beides Eigenschaften, die olympisch orientierte Lifter ansprechen, die eine aggressivere Vorwaertslehnung fuer Reissen und Umsetzen-Stossen wuenschen. Das TPU-Fersengegenst ist ausserordentlich starr. Wenn dein Hauptfokus auf Reissen und Umsetzen-Stossen und nicht auf Powerlifting-Kniebeugen liegt, macht die zusaetzlichen 2mm Fersenerhohung einen merklichen Unterschied bei der Sprunggelenksbeweglichkeit. Einzelgurt statt Doppelgurt, aber der Sitz ist sicher.",
-          "pros": [
-            "24mm Ferse — hoeher fuer tiefen Kniebeugen-Zugang",
-            "Schmaale Leiste sperrt den Mittelfuss praezise ein",
-            "TPU-Fersenblock uebertraegt Kraft direkt"
-          ],
-          "cons": [
-            "Schmaale Passform funktioniert nicht fuer breitere Fuesse",
-            "Hoehe Ferse erfordert Eingewoehungszeit"
-          ]
-        },
-        "reebok-legacy-lifter-3": {
-          "name": "Reebok Legacy Lifter 3",
-          "badge": "Beste Wahl fuer CrossFit",
-          "review": "Der Legacy Lifter liegt zwischen einem reinen Gewichtheberschuh und einem Trainingsschuh. Die 22mm Ferse entspricht dem Standard, aber die Konstruktion erlaubt etwas mehr seitliche Flexibilitaet als Romaleos oder Adipower — was im CrossFit nuetzlich ist, wenn man direkt von Langhantelarbeit in Box-Spruenge wechselt, ohne Schuhe zu wechseln. Daher in der wettkampfmaessigen CrossFit-Community beliebt. Breite Zehenbox, Doppelgurt und ein robusts Obermaterial, das den vielfaeltigen Trainingsanforderungen standhalt.",
-          "pros": [
-            "22mm Ferse funktioniert sowohl fuer olympische Hebeuebungen als auch fuer Gym-Training",
-            "Breite Zehenbox passt fuer CrossFit-Athletenfuesse",
-            "Doppelnutzungsschuh zu einem vernuenftigen Preis"
-          ],
-          "cons": [
-            "Schwerer als reine olympische Gewichtheberschuhe",
-            "Weniger spezialisiert als Adipower fuer Wettkampf"
-          ]
-        },
-        "inov8-fastlift-power-g380": {
-          "name": "Inov-8 Fastlift Power G 380",
-          "badge": "Leichteste Wahl",
-          "review": "Inov-8 verwendet Graphen in der Aussensohlenverbindung, um eine haertere als Standardoberflaeche ohne Gewichtsstrafe zu erreichen. Bei 380g pro Schuh ist es der leichteste wettbewerbstaugliche Hebeschuh. Die 20mm Ferse ist 2mm niedriger als der Nike/Adidas-Standard — das eignet sich fuer Lifter mit natuerlich guter Sprunggelenksbeweglichkeit, die feststellen, dass hoehere Fersen sie zu weit nach vorne druecken. Gute Wahl fuer Lifter, die zu Wettkampfen reisen und das Packgewicht minimieren wollen.",
-          "pros": [
-            "Graphen-Aussensohle haerter und leichter als Standard-Gummi",
-            "Schnellere Ubergaenge zwischen Hebeuebungen",
-            "Schmaleres Profil reduziert das Gewicht erheblich"
-          ],
-          "cons": [
-            "Teuerste Option in der Kategorie",
-            "Weniger Fersenunterstuetzung bei sehr schweren Lasten"
-          ]
-        },
-        "do-win-weightlifting-shoes": {
-          "name": "Do-Win Weightlifting Shoes",
-          "badge": "Beste Budget-Wahl",
-          "review": "Do-Win ist das offene Geheimnis im Gewichtheben — ein in China gefertigter Schuh, der von Mitgliedern des US-Nationalteams unter verschiedenen Markennamen verwendet wird (American Barbell, Rogue usw. haben alle Do-Win-gefertigte Schuhe verkauft). Die Konstruktion verwendet einen massiven Holzfersenblock bei 20mm, Mittelfussgurt und ein flat-soled Design, das fuer Wettkampfe zugelassen ist. Halb so teuer wie Nike oder Adidas mit vergleichbarer funktionaler Leistung. Das Obermaterial ist weniger raffiniert und haelt nicht so lange, aber als erster Hebeschuh ist es ein hervorragendes Preis-Leistungs-Verhaeltnis.",
-          "pros": [
-            "Von US-Nationalteam-Mitgliedern verwendet",
-            "Unter $80 — ein Bruchteil des Nike/Adidas-Preises",
-            "Traditionelles Fersenblock- und Gurt-Design"
-          ],
-          "cons": [
-            "Begrenzte Verfuegbarkeit ausserhalb von Spezialhaendlern",
-            "Abschlussqualitaet niedriger als Premium-Optionen"
-          ]
-        }
-      },
-      "buyingGuide": {
-        "title": "Kaufratgeber Gewichtheberschuhe: Fersenhoehe, Sohle und Passform",
-        "intro": "Fersenhoehe und Sohlenstarre sind die zwei Spezifikationen, die bestimmen, ob ein Hebeschuh fuer dich funktioniert. Alles andere ist sekundaer.",
-        "factors": [
-          {
-            "name": "Fersenhoehe",
-            "detail": "Die Standard-Wettkampf-Fersenhoehe betraegt 20-22mm (0,75 Zoll). Lifter mit begrenzter Sprunggelenksbeweglichkeit oder jene, die sich auf olympische Hebeuebungen (Reissen, Umsetzen-Stossen) konzentrieren, bevorzugen oft 22-24mm fuer mehr Vorwaertsneigung. Lifter mit guter Beweglichkeit, die hauptsaechlich Tiefkniebeugen mit tiefem Stangengriff machen, bevorzugen manchmal 20mm. Gehe nicht unter 20mm — flache Schuhe heben den Hauptvorteil auf."
-          },
-          {
-            "name": "Sohlenmaterial",
-            "detail": "Fersenboecke werden aus TPU, EVA oder Holz (traditionell) hergestellt. Holz ist das starrste — null Kompression, maximale Kraftuebertragung. TPU ist fast genauso starr und dauerhafter fuer den taeglichen Gym-Gebrauch. EVA ist weicher und bei guenstigeren Schuhen zu finden, die nicht als echte Gewichtheberschuhe qualifizieren."
-          },
-          {
-            "name": "Zehenbox-Breite",
-            "detail": "Gewichtheberschuhe laufen bei den meisten Modellen schmal. Wenn du breite Fuesse hast, hat der Romaleos 4 die grosszuegigste Zehenbox der grossen Marken. Probiere mindestens zwei Groessen, bevor du kaufst — Hebeschuhe sollten eng anliegen, ohne zu kneisen. Es gibt keine Eintraglzeit; sie sollten sofort richtig passen."
-          },
-          {
-            "name": "Gurtkonfiguration",
-            "detail": "Doppelgurte (Romaleos, Legacy Lifter) bieten mehr Mittelfuss-Arretierung als Einzelgurte. Einzelgurte sind bei olympischen Gewichthebeschuhen haeufiger (Adipower). Beide funktionieren gut — die Praeferenz tendiert dazu, zu verfolgen, wie viel seitliche Bewegung dein Training beinhaltet."
-          },
-          {
-            "name": "Wettkampfzulassung",
-            "detail": "Wenn du planst, bei olympischem Gewichtheben oder Powerlifting anzutreten, pruefe den IWF/IPF-Zulassungsstatus. Grosse Marken (Nike, Adidas, Reebok, Do-Win) sind zugelassen. Einige Budget-Optionen sind es nicht, was nur fuer Wettkampfe wichtig ist — fuer das Training ist der Zulassungsstatus irrelevant."
-          }
-        ]
-      },
-      "faqs": [
-        {
-          "q": "Brauche ich Gewichtheberschuhe fuer Kniebeugen?",
-          "a": "Nicht obligatorisch, aber vorteilhaft fuer die meisten Menschen. Wenn du gute Sprunggelenksbeweglichkeit hast und in flachen Schuhen mit geradem Ruecken parallel kommen kannst, werden Hebeschuhe deine Kniebeuge nicht dramatisch veraendern. Wenn du Schwierigkeiten hast, die Tiefe zu erreichen, zu stark nach vorne lehnst oder spuerst, dass deine Fersen hochgehen, werden Gewichtheberschuhe deine Kniebeuge wahrscheinlich sofort verbessern. Nahezu universelle Empfehlung fuer olympische Kniebeugen (Hochstangengriff, Frontkniebeugen)."
-        },
-        {
-          "q": "Kann ich Gewichtheberschuhe fuer das Kreuzheben verwenden?",
-          "a": "Nein. Fuer das Kreuzheben sind flache Schuhe oder Barfuss korrekt — du moechtest den kuerzestmoeglichen Abstand zwischen Boden und Stange. Die erhoehte Ferse bei Gewichtheberschuhen fuegt einige Zentimeter zum Bewegungsbereich hinzu und bringt dich in eine biomechanisch benachteiligte Position fuer den Zug. Viele Lifter wechseln die Schuhe zwischen Kniebeuge- und Kreuzhebe-Saetzen."
-        },
-        {
-          "q": "Wie lange halten Gewichtheberschuhe?",
-          "a": "Ein Qualitaetspaar wie Romaleos oder Adipower haelt bei intensiver Nutzung (4+ Einheiten pro Woche) 3-5 Jahre. Der Fersenblock ueberdauert in den meisten Faellen das Obermaterial. Achte auf Klettverschluss-Gurte, die ihren Halt verlieren, und auf Obermaterial, das sich von der Sohle trennt — beides sind Zeichen, dass der Schuh ersetzt werden muss. Budget-Optionen wie Do-Win halten 1-3 Jahre."
-        },
-        {
-          "q": "Mit welcher Fersenhoehe soll ich anfangen?",
-          "a": "Beginne mit 20-22mm, dem Wettkampfstandard. Wenn du nach 3-6 Monaten die Ferse zu hoch (Vorwaerts-Gleichgewichtsprobleme) oder zu niedrig (immer noch Schwierigkeiten mit der Tiefe) findest, passe an. Die meisten Menschen muessen nie vom 20-22mm-Standard abweichen."
-        },
-        {
-          "q": "Koennen Frauen maennliche Gewichtheberschuhe verwenden?",
-          "a": "Ja, viele Frauen bevorzugen die breitere Zehenbox bei Herrenschuhen. Gehe beim Konvertieren von Damen- zu Herrengroessen in den US-Groessen etwa 1,5 Groessen kleiner. Damenspezifische Modelle von Nike und Adidas sind erhaeltlich und haben schmaale Leistenartkonstruktion. Probiere beide, wenn du Zugang hast — die Fussbreite ist wichtiger als die Geschlechtsbezeichnung."
-        }
+  "title": "Die besten Gewichtheberschuhe 2026: 5 Paare fuer Kniebeugen, Umsetzen und Reissen",
+  "description": "Nike Romaleos vs Adidas Adipower vs Reebok Legacy — Fersenhoehe, Stabilitaet und welcher Schuh zu deinem Trainingstil passt.",
+  "lede": "Gewichtheberschuhe existieren, um ein Problem zu loesen: Die Sprunggelenksbeweglichkeit, die fuer eine tiefe Kniebeuge erforderlich ist, stimmt nicht mit dem ueberein, was die Achillessehnen der meisten Menschen erlauben. Eine erhoehte Ferse kompensiert und laesst dich die Tiefe mit einem aufrechteren Koerper erreichen. Der sekundaere Vorteil ist eine starre Sohle, die Kraft direkt auf den Boden uebertraegt — Laufschuhe komprimieren und absorbieren Energie, die in die Stange gehen sollte. Sobald du schwere Kniebeugen in richtigen Hebeschuhen gemacht hast, fuehlen sich flache Schuhe an wie Kniebeugen im Sand.",
+  "sections": [
+    {
+      "heading": "Kaufratgeber Gewichtheberschuhe: Fersenhoehe, Sohle und Passform",
+      "paragraphs": [
+        "Fersenhoehe und Sohlenstarre sind die zwei Spezifikationen, die bestimmen, ob ein Hebeschuh fuer dich funktioniert. Alles andere ist sekundaer."
       ],
-      "conclusion": "Fuer die meisten Lifter ist der Romaleos 4 der richtige Ausgangspunkt — er passt fuer das breiteste Spektrum an Fussformen, die Fersenhoehe ist Wettkampfstandard, und Nikes Groessenkonsistenz macht Online-Bestellungen zuverlassig. Der Adipower 3 lohnt sich, wenn olympisches Gewichtheben dein Hauptfokus ist. Do-Win ist die Antwort, wenn du Hebeschuhe ohne grosse finanzielle Verpflichtung ausprobieren moechtest."
+      "subsections": [
+        {
+          "heading": "Fersenhoehe",
+          "paragraphs": [
+            "Die Standard-Wettkampf-Fersenhoehe betraegt 20-22mm (0,75 Zoll). Lifter mit begrenzter Sprunggelenksbeweglichkeit oder jene, die sich auf olympische Hebeuebungen (Reissen, Umsetzen-Stossen) konzentrieren, bevorzugen oft 22-24mm fuer mehr Vorwaertsneigung. Lifter mit guter Beweglichkeit, die hauptsaechlich Tiefkniebeugen mit tiefem Stangengriff machen, bevorzugen manchmal 20mm. Gehe nicht unter 20mm — flache Schuhe heben den Hauptvorteil auf."
+          ]
+        },
+        {
+          "heading": "Sohlenmaterial",
+          "paragraphs": [
+            "Fersenboecke werden aus TPU, EVA oder Holz (traditionell) hergestellt. Holz ist das starrste — null Kompression, maximale Kraftuebertragung. TPU ist fast genauso starr und dauerhafter fuer den taeglichen Gym-Gebrauch. EVA ist weicher und bei guenstigeren Schuhen zu finden, die nicht als echte Gewichtheberschuhe qualifizieren."
+          ]
+        },
+        {
+          "heading": "Zehenbox-Breite",
+          "paragraphs": [
+            "Gewichtheberschuhe laufen bei den meisten Modellen schmal. Wenn du breite Fuesse hast, hat der Romaleos 4 die grosszuegigste Zehenbox der grossen Marken. Probiere mindestens zwei Groessen, bevor du kaufst — Hebeschuhe sollten eng anliegen, ohne zu kneisen. Es gibt keine Eintraglzeit; sie sollten sofort richtig passen."
+          ]
+        },
+        {
+          "heading": "Gurtkonfiguration",
+          "paragraphs": [
+            "Doppelgurte (Romaleos, Legacy Lifter) bieten mehr Mittelfuss-Arretierung als Einzelgurte. Einzelgurte sind bei olympischen Gewichthebeschuhen haeufiger (Adipower). Beide funktionieren gut — die Praeferenz tendiert dazu, zu verfolgen, wie viel seitliche Bewegung dein Training beinhaltet."
+          ]
+        },
+        {
+          "heading": "Wettkampfzulassung",
+          "paragraphs": [
+            "Wenn du planst, bei olympischem Gewichtheben oder Powerlifting anzutreten, pruefe den IWF/IPF-Zulassungsstatus. Grosse Marken (Nike, Adidas, Reebok, Do-Win) sind zugelassen. Einige Budget-Optionen sind es nicht, was nur fuer Wettkampfe wichtig ist — fuer das Training ist der Zulassungsstatus irrelevant."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Fazit",
+      "paragraphs": [
+        "Fuer die meisten Lifter ist der Romaleos 4 der richtige Ausgangspunkt — er passt fuer das breiteste Spektrum an Fussformen, die Fersenhoehe ist Wettkampfstandard, und Nikes Groessenkonsistenz macht Online-Bestellungen zuverlassig. Der Adipower 3 lohnt sich, wenn olympisches Gewichtheben dein Hauptfokus ist. Do-Win ist die Antwort, wenn du Hebeschuhe ohne grosse finanzielle Verpflichtung ausprobieren moechtest."
+      ]
     }
-  },
+  ],
+  "faqs": [
+    {
+      "q": "Brauche ich Gewichtheberschuhe fuer Kniebeugen?",
+      "a": "Nicht obligatorisch, aber vorteilhaft fuer die meisten Menschen. Wenn du gute Sprunggelenksbeweglichkeit hast und in flachen Schuhen mit geradem Ruecken parallel kommen kannst, werden Hebeschuhe deine Kniebeuge nicht dramatisch veraendern. Wenn du Schwierigkeiten hast, die Tiefe zu erreichen, zu stark nach vorne lehnst oder spuerst, dass deine Fersen hochgehen, werden Gewichtheberschuhe deine Kniebeuge wahrscheinlich sofort verbessern. Nahezu universelle Empfehlung fuer olympische Kniebeugen (Hochstangengriff, Frontkniebeugen)."
+    },
+    {
+      "q": "Kann ich Gewichtheberschuhe fuer das Kreuzheben verwenden?",
+      "a": "Nein. Fuer das Kreuzheben sind flache Schuhe oder Barfuss korrekt — du moechtest den kuerzestmoeglichen Abstand zwischen Boden und Stange. Die erhoehte Ferse bei Gewichtheberschuhen fuegt einige Zentimeter zum Bewegungsbereich hinzu und bringt dich in eine biomechanisch benachteiligte Position fuer den Zug. Viele Lifter wechseln die Schuhe zwischen Kniebeuge- und Kreuzhebe-Saetzen."
+    },
+    {
+      "q": "Wie lange halten Gewichtheberschuhe?",
+      "a": "Ein Qualitaetspaar wie Romaleos oder Adipower haelt bei intensiver Nutzung (4+ Einheiten pro Woche) 3-5 Jahre. Der Fersenblock ueberdauert in den meisten Faellen das Obermaterial. Achte auf Klettverschluss-Gurte, die ihren Halt verlieren, und auf Obermaterial, das sich von der Sohle trennt — beides sind Zeichen, dass der Schuh ersetzt werden muss. Budget-Optionen wie Do-Win halten 1-3 Jahre."
+    },
+    {
+      "q": "Mit welcher Fersenhoehe soll ich anfangen?",
+      "a": "Beginne mit 20-22mm, dem Wettkampfstandard. Wenn du nach 3-6 Monaten die Ferse zu hoch (Vorwaerts-Gleichgewichtsprobleme) oder zu niedrig (immer noch Schwierigkeiten mit der Tiefe) findest, passe an. Die meisten Menschen muessen nie vom 20-22mm-Standard abweichen."
+    },
+    {
+      "q": "Koennen Frauen maennliche Gewichtheberschuhe verwenden?",
+      "a": "Ja, viele Frauen bevorzugen die breitere Zehenbox bei Herrenschuhen. Gehe beim Konvertieren von Damen- zu Herrengroessen in den US-Groessen etwa 1,5 Groessen kleiner. Damenspezifische Modelle von Nike und Adidas sind erhaeltlich und haben schmaale Leistenartkonstruktion. Probiere beide, wenn du Zugang hast — die Fussbreite ist wichtiger als die Geschlechtsbezeichnung."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "nike-romaleos-4-weightlifting",
+      "badge": "Bester insgesamt",
+      "review": "Der Romaleos 4 ist der Schuh, auf den die meisten Wettkampflifter standardmaessig zurueckgreifen, wenn sie keine starke Markenpraeferenz haben. Die 22mm Ferse entspricht dem Standard fuer olympisches Gewichtheben, die Zehenbox ist breit genug fuer die meisten Fuesse ohne sich locker anzufuehlen, und die doppelten Klettverschlussbaender sichern den Mittelfuss fest. Nikes Verarbeitungsqualitaet ist groessenkonsistent. Die Sohle ist hartes TPU — keinerlei Nachgeben, was du moechtest. In breiten Weiten erhaeltlich, was fuer Lifter mit breiteren Fuessen wichtig ist.",
+      "pros": [
+        "Doppelte Klettverschlussbaender halten den Fuss ohne Bewegung",
+        "22mm Fersenerhohung fuer die meisten Kniebeugetiefen geeignet",
+        "Atmungsaktives Mesh-Obermaterial reduziert Hitzestau"
+      ],
+      "cons": [
+        "Weite Passform — kann sich auf schmalem Fuss locker anfuehlen",
+        "Premium-Preis fuer Freizeitlifter"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "adidas-adipower-3-weightlifting",
+      "badge": "Beste Wahl fuer olympisches Gewichtheben",
+      "review": "Der Adipower ist schmaeler als der Romaleos und hat einen hoeheren Fersenabfall von 24mm — beides Eigenschaften, die olympisch orientierte Lifter ansprechen, die eine aggressivere Vorwaertslehnung fuer Reissen und Umsetzen-Stossen wuenschen. Das TPU-Fersengegenst ist ausserordentlich starr. Wenn dein Hauptfokus auf Reissen und Umsetzen-Stossen und nicht auf Powerlifting-Kniebeugen liegt, macht die zusaetzlichen 2mm Fersenerhohung einen merklichen Unterschied bei der Sprunggelenksbeweglichkeit. Einzelgurt statt Doppelgurt, aber der Sitz ist sicher.",
+      "pros": [
+        "24mm Ferse — hoeher fuer tiefen Kniebeugen-Zugang",
+        "Schmaale Leiste sperrt den Mittelfuss praezise ein",
+        "TPU-Fersenblock uebertraegt Kraft direkt"
+      ],
+      "cons": [
+        "Schmaale Passform funktioniert nicht fuer breitere Fuesse",
+        "Hoehe Ferse erfordert Eingewoehungszeit"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "reebok-legacy-lifter-3",
+      "badge": "Beste Wahl fuer CrossFit",
+      "review": "Der Legacy Lifter liegt zwischen einem reinen Gewichtheberschuh und einem Trainingsschuh. Die 22mm Ferse entspricht dem Standard, aber die Konstruktion erlaubt etwas mehr seitliche Flexibilitaet als Romaleos oder Adipower — was im CrossFit nuetzlich ist, wenn man direkt von Langhantelarbeit in Box-Spruenge wechselt, ohne Schuhe zu wechseln. Daher in der wettkampfmaessigen CrossFit-Community beliebt. Breite Zehenbox, Doppelgurt und ein robusts Obermaterial, das den vielfaeltigen Trainingsanforderungen standhalt.",
+      "pros": [
+        "22mm Ferse funktioniert sowohl fuer olympische Hebeuebungen als auch fuer Gym-Training",
+        "Breite Zehenbox passt fuer CrossFit-Athletenfuesse",
+        "Doppelnutzungsschuh zu einem vernuenftigen Preis"
+      ],
+      "cons": [
+        "Schwerer als reine olympische Gewichtheberschuhe",
+        "Weniger spezialisiert als Adipower fuer Wettkampf"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "inov8-fastlift-power-g380",
+      "badge": "Leichteste Wahl",
+      "review": "Inov-8 verwendet Graphen in der Aussensohlenverbindung, um eine haertere als Standardoberflaeche ohne Gewichtsstrafe zu erreichen. Bei 380g pro Schuh ist es der leichteste wettbewerbstaugliche Hebeschuh. Die 20mm Ferse ist 2mm niedriger als der Nike/Adidas-Standard — das eignet sich fuer Lifter mit natuerlich guter Sprunggelenksbeweglichkeit, die feststellen, dass hoehere Fersen sie zu weit nach vorne druecken. Gute Wahl fuer Lifter, die zu Wettkampfen reisen und das Packgewicht minimieren wollen.",
+      "pros": [
+        "Graphen-Aussensohle haerter und leichter als Standard-Gummi",
+        "Schnellere Ubergaenge zwischen Hebeuebungen",
+        "Schmaleres Profil reduziert das Gewicht erheblich"
+      ],
+      "cons": [
+        "Teuerste Option in der Kategorie",
+        "Weniger Fersenunterstuetzung bei sehr schweren Lasten"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "do-win-weightlifting-shoes",
+      "badge": "Beste Budget-Wahl",
+      "review": "Do-Win ist das offene Geheimnis im Gewichtheben — ein in China gefertigter Schuh, der von Mitgliedern des US-Nationalteams unter verschiedenen Markennamen verwendet wird (American Barbell, Rogue usw. haben alle Do-Win-gefertigte Schuhe verkauft). Die Konstruktion verwendet einen massiven Holzfersenblock bei 20mm, Mittelfussgurt und ein flat-soled Design, das fuer Wettkampfe zugelassen ist. Halb so teuer wie Nike oder Adidas mit vergleichbarer funktionaler Leistung. Das Obermaterial ist weniger raffiniert und haelt nicht so lange, aber als erster Hebeschuh ist es ein hervorragendes Preis-Leistungs-Verhaeltnis.",
+      "pros": [
+        "Von US-Nationalteam-Mitgliedern verwendet",
+        "Unter $80 — ein Bruchteil des Nike/Adidas-Preises",
+        "Traditionelles Fersenblock- und Gurt-Design"
+      ],
+      "cons": [
+        "Begrenzte Verfuegbarkeit ausserhalb von Spezialhaendlern",
+        "Abschlussqualitaet niedriger als Premium-Optionen"
+      ],
+      "grade": "B+"
+    }
+  ],
   "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
 }

@@ -66,5 +66,114 @@
     "john-boos-walnut-butcher-block": "Black walnut end-grain, Janka ~1010, gentlest on knife edges of all options, maximum visual appeal. $150-400. Best for kitchen display and users who want the most attractive board. Same oil maintenance requirement as end-grain maple."
   },
   "pinDescription": "Cutting board comparison 2026: Boos Block maple vs Teakhaus teak vs OXO plastic vs Epicurean composite vs John Boos walnut — which cutting board material is safest for bacteria, best for knife edges, and worth the price?",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "boos-block-maple-cutting-board",
+      "badge": "Best Overall",
+      "review": "The Boos Block edge-grain maple board is the working-kitchen standard for a reason: hard maple at roughly 1450 on the Janka scale lands in the narrow band where the wood is firm enough to resist gouging but soft enough to be kind to a knife edge. The dense closed grain reseals after each cut, which is the mechanism behind the bacterial-resistance behavior documented in UC Davis food-safety research. Typical sizes run 18x12 or 20x15 inches at around 1.5-inch thickness, which gives meaningful thermal and acoustic mass during heavy chopping. Mineral-oil conditioning every two to four weeks keeps the panel from drying or warping. The trade is real maintenance, but a properly oiled board outlasts a decade of plastic replacements.",
+      "pros": [
+        "Hard maple hits the sweet spot for edge preservation",
+        "Closed grain reseals and resists bacterial retention",
+        "Substantial 1.5-inch thickness keeps the board stable during heavy prep",
+        "Lifetime build quality, repairable by sanding and re-oiling"
+      ],
+      "cons": [
+        "Requires mineral-oil maintenance every two to four weeks",
+        "Premium price compared to plastic or composite alternatives"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "teakhaus-edge-grain-cutting-board",
+      "badge": "Best for Low Maintenance",
+      "review": "Teakhaus uses plantation teak with natural oil content in the 2-8% range, which makes the board inherently water-resistant without the regular mineral-oil cycle that maple needs. Janka hardness around 1000 is slightly softer than maple, which is marginally easier on knife edges; the coarser grain provides usable grip during wet cuts. Edge-grain construction in the standard 20x14-inch panel is dense enough to absorb cleaver pressure without flexing. The trade is teak's silica content (1-2%), which can dull very hard Japanese knives faster than maple over time, though most home cooks will never notice. For a kitchen near a sink or for cooks who forget to oil, teak forgives neglect that maple punishes.",
+      "pros": [
+        "Natural teak oils mean minimal mineral-oil maintenance",
+        "Slightly softer than maple, marginally gentler on edges",
+        "Holds up better than maple in damp environments",
+        "Typically priced below comparable Boos boards"
+      ],
+      "cons": [
+        "Silica content can accelerate wear on very hard knives (HRC 62+)",
+        "Coarser grain pattern is less refined visually than maple"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "oxo-good-grips-plastic-cutting-board",
+      "badge": "Best for Raw Protein",
+      "review": "The OXO Good Grips board is HDPE plastic with rubber non-slip edges and a juice groove around the perimeter, sized at roughly 10.5x14.5 inches in the standard model. HDPE is the right plastic for cutting work: BPA-free, dishwasher-safe at sanitizing temperatures, and softer on edges than rigid polypropylene. The Shore D hardness around 62-65 is firmer than wood, so it will dull a knife faster than maple, but the dishwasher-safety is the load-bearing feature here. For raw chicken, fish, and other proteins where cross-contamination risk is the priority, this is the correct material because the sanitizing cycle actually works. Once the surface is heavily scored, replace it rather than try to scrub deep grooves clean.",
+      "pros": [
+        "Dishwasher-safe at sanitizing temperatures",
+        "Juice groove contains liquid during meat carving",
+        "Rubber edges keep the board stable on slick counters",
+        "Affordable enough to replace when surface scoring builds up"
+      ],
+      "cons": [
+        "Harder on knife edges than wood",
+        "Scored surface becomes a bacterial reservoir over time"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "epicurean-kitchen-series-cutting-board",
+      "badge": "Best Lightweight Pick",
+      "review": "Epicurean's Kitchen Series boards are paper composite — kraft fiber compressed with food-safe resin — producing a panel roughly 1/4 inch thick that is dishwasher-safe and weighs a fraction of a comparable hardwood board. The surface is harder than maple but somewhat softer than HDPE, so edge wear sits between the two. Standard sizes around 14.5x11.25 inches store vertically in narrow gaps where a 1.5-inch wood board cannot fit. No grain means no oil maintenance and no warping concerns, which is the core appeal. The board will not develop the self-healing surface that wood does, and it lacks the visual warmth of teak or walnut, but the day-to-day friction of using and storing it is the lowest in this comparison.",
+      "pros": [
+        "Dishwasher-safe with no warping risk",
+        "Thin 1/4-inch profile fits narrow storage gaps",
+        "Lightweight enough to handle one-handed",
+        "Zero oil maintenance required"
+      ],
+      "cons": [
+        "Harder on knife edges than wood boards",
+        "Composite surface lacks the self-healing behavior of end-grain wood"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "john-boos-walnut-butcher-block",
+      "badge": "Best Premium Aesthetic",
+      "review": "The John Boos walnut butcher block is end-grain construction in black walnut, with Janka hardness around 1010 — softer than maple, slightly softer than teak, and the gentlest wood option here on knife edges. End-grain orientation means the knife edge slides between vertical wood fibers rather than across them, which produces the characteristic self-healing surface where cut marks close visually after oiling. Typical sizes start at 18x12x1.5 inches and scale up to large butcher-block formats above 24 inches. Oil maintenance matches end-grain maple: mineral oil every two to three weeks at first, less often once fully seasoned. The premium over maple is paid almost entirely for the dark chocolate grain, which is dramatically more visually striking on an island or countertop than the lighter maple.",
+      "pros": [
+        "Softest wood option here, gentlest on knife edges",
+        "End-grain construction maximizes self-healing behavior",
+        "Visually striking dark walnut grain",
+        "Same proven Boos build quality as the maple line"
+      ],
+      "cons": [
+        "Significantly more expensive than equivalent maple",
+        "End-grain requires consistent oiling to prevent cracking"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "The serious home cook with Japanese knives",
+      "offerId": "boos-block-maple-cutting-board",
+      "reason": "Hard maple at Janka 1450 protects a thin Japanese edge better than any plastic or composite while still being firm enough for daily heavy prep."
+    },
+    {
+      "label": "The low-maintenance cook near a sink",
+      "offerId": "teakhaus-edge-grain-cutting-board",
+      "reason": "Teak's natural oil content keeps the board stable through occasional damp neglect that would warp untreated maple."
+    },
+    {
+      "label": "The cook prepping a lot of raw chicken",
+      "offerId": "oxo-good-grips-plastic-cutting-board",
+      "reason": "HDPE is the only material here that survives the dishwasher sanitizing cycle, which is what actually kills protein-borne pathogens."
+    },
+    {
+      "label": "The small-kitchen renter with no storage",
+      "offerId": "epicurean-kitchen-series-cutting-board",
+      "reason": "The 1/4-inch composite profile slides into narrow gaps where a 1.5-inch wood block will not fit."
+    },
+    {
+      "label": "The cook with an open-island kitchen",
+      "offerId": "john-boos-walnut-butcher-block",
+      "reason": "End-grain walnut is the most visually striking surface in this comparison and the gentlest wood here on knife edges."
+    }
+  ]
 }

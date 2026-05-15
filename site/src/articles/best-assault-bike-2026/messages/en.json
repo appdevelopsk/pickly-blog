@@ -58,5 +58,111 @@
     "sunny-health-air-bike": "Fan + magnetic resistance, lighter construction, quieter. $200-350. Budget air bike option — adequate for occasional intervals. Not a substitute for commercial assault bikes. Quieter than pure fan bikes. Correct for home use at moderate intensity."
   },
   "pinDescription": "Assault bike / air bike 2026: Assault Classic vs Rogue Echo vs Concept2 BikeErg vs Schwinn Airdyne Pro, how fan resistance self-scales with effort, why assault bike intervals are uniquely hard, and which air bike is worth buying for home gym HIIT.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "assault-fitness-assault-air-bike",
+      "badge": "Best Overall",
+      "review": "The Assault AirBike Classic is the reference assault bike for CrossFit and commercial gyms — most published interval programming was developed and timed on this exact machine. The 25-inch steel fan, sealed cartridge bearings, and foam-covered moving handles are commercial-grade and built for daily heavy use. The display covers the essentials (calories, time, RPM, distance) without the over-engineered software that bloats home cardio equipment. For home gym athletes it is arguably over-built, but that same over-engineering is why it stays standing after a decade of abuse. Loud at high RPM, which is the honest tradeoff.",
+      "pros": [
+        "25-inch steel fan with sealed cartridge bearings",
+        "Reference machine for most published CrossFit interval programming",
+        "Commercial-grade frame rated for daily heavy use",
+        "Foam-covered moving handles for full-body engagement"
+      ],
+      "cons": [
+        "Loud fan noise at high RPM",
+        "Over-built for casual home gym training"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "concept2-bike-erg",
+      "badge": "Best Display & Pacing",
+      "review": "The BikeErg is technically not an assault bike — Concept2 grafted their RowErg flywheel and damper system onto a bike frame and used a chain drive instead of a fan. The result is a much quieter, smoother machine and the PM5 performance monitor, which is the best conditioning display on any cardio equipment. The trade is real: no moving handles, so it is lower-body only and does not produce the total-body fatigue that defines an assault bike workout. For cycling-focused athletes or anyone who wants precision pacing and data-driven training, this is the correct machine. For pure assault-bike-style intervals, it is a different tool.",
+      "pros": [
+        "PM5 performance monitor — best display on any cardio machine",
+        "Chain drive runs quieter than fan-driven bikes",
+        "Excellent for precision pacing and data-driven training",
+        "Smooth ride feel closer to road cycling"
+      ],
+      "cons": [
+        "No moving handles — lower-body only",
+        "Highest price in the lineup"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "rogue-echo-bike",
+      "badge": "Best for Home Gyms",
+      "review": "The Rogue Echo is the home gym pick for athletes who want the Assault Classic's training quality with Rogue's frame construction. At 127 lbs vs the Assault's 99 lbs, it is heavier and noticeably more stable at all-out sprint efforts. The larger fan produces slightly smoother resistance per stroke and runs marginally quieter than the Assault at the same effort. Belt drive instead of chain reduces maintenance to checking belt tension every few months rather than chain lubrication. Same price tier as the Assault Classic, so the decision between them comes down to maintenance preference and weight tolerance.",
+      "pros": [
+        "127 lb frame stays stable at all-out sprint efforts",
+        "Belt drive reduces maintenance vs chain",
+        "Slightly quieter and smoother than Assault Classic",
+        "Rogue frame construction holds up under heavy use"
+      ],
+      "cons": [
+        "Heaviest bike in the lineup — relocation is a two-person job"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "schwinn-airdyne-pro",
+      "badge": "Best Value Commercial-Grade",
+      "review": "The Airdyne Pro is Schwinn's commercial fan bike and the budget bridge between toy-grade air bikes and the Assault/Rogue premium tier. At roughly 90 lbs it is lighter than the Rogue Echo but uses commercial-quality bearings and a robust frame. The fan feel is slightly different from the Assault or Echo — Schwinn's traditional fan geometry — but the resistance still self-scales the same way. The display tracks calories and RPM. The price advantage over Rogue Echo and Assault Classic is real, and for home gym athletes who do not need the absolute top tier, it is the most rational purchase in the category.",
+      "pros": [
+        "Commercial bearings and frame at a sub-premium price",
+        "More accessible price than Rogue Echo or Assault Classic",
+        "Schwinn's traditional fan geometry is proven over decades"
+      ],
+      "cons": [
+        "Slightly lighter construction than Echo or Assault Classic",
+        "Display less feature-rich than Concept2's PM5"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "sunny-health-air-bike",
+      "badge": "Best Budget Option",
+      "review": "The Sunny Health combines fan resistance with magnetic resistance, which makes it functionally different from a true assault bike: there is baseline resistance even at zero pedaling speed, and the magnetic component is quieter than a pure fan. The construction is lighter and not built for commercial use, but at a third the price of the premium options it puts a usable air bike in reach of home users who cannot justify $700+. For occasional intervals and moderate-intensity cardio it is adequate. It is not a substitute for a commercial assault bike for daily hard training.",
+      "pros": [
+        "Roughly a third the price of premium options",
+        "Magnetic resistance component runs quieter than pure fan",
+        "Adequate for occasional intervals and moderate cardio"
+      ],
+      "cons": [
+        "Lighter frame not built for daily commercial-intensity use",
+        "Fan + magnetic mechanism feels different from true assault bikes"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For CrossFit-style WOD programming",
+      "offerId": "assault-fitness-assault-air-bike",
+      "reason": "Most published CrossFit interval times and benchmarks were developed on this exact bike, so the equipment matches the programming."
+    },
+    {
+      "label": "For cycling and precision pacing training",
+      "offerId": "concept2-bike-erg",
+      "reason": "The PM5 monitor and chain-drive smoothness make it the best machine for data-driven intervals and zone training."
+    },
+    {
+      "label": "For home gym athletes who train hard daily",
+      "offerId": "rogue-echo-bike",
+      "reason": "The 127 lb frame and belt drive deliver commercial durability at the same price as the Assault Classic with less maintenance."
+    },
+    {
+      "label": "For budget-conscious commercial-grade buyers",
+      "offerId": "schwinn-airdyne-pro",
+      "reason": "It delivers commercial bearings and a robust frame at a price well below the Rogue and Assault premium tier."
+    },
+    {
+      "label": "For occasional cardio and apartment use",
+      "offerId": "sunny-health-air-bike",
+      "reason": "At a third the price of premium options and with a quieter magnetic component, it suits moderate use in noise-sensitive homes."
+    }
+  ]
 }

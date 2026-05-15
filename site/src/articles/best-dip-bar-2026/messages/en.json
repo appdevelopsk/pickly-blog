@@ -58,5 +58,114 @@
     "valor-fitness-bd-62-dip-bar": "Adjustable height (4 positions), welded steel, rubber end caps. $80-110. Best for versatile bodyweight training — height adjustment enables L-sits, push-up variations, and other movements beyond standard dips."
   },
   "pinDescription": "Dip bar comparison 2026: Ultimate Body Press vs REP Fitness vs Rogue Matador vs CAP vs Valor — freestanding vs rack attachment, stability under load, and which dip bar is right for your home gym setup.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "ultimate-body-press-dip-bar",
+      "badge": "Best Selling",
+      "grade": "A+",
+      "review": "Ultimate Body Press is the best-selling freestanding dip bar for one specific reason: the four-leg base with non-slip rubber feet creates a stable platform that does not slide on hard floors, which is the failure mode that disqualifies most budget freestanding bars. Adjustable handle width across multiple positions between 18 and 24 inches accommodates different shoulder widths — the only bar in this comparison with that flexibility. Bar height is fixed at roughly 28 inches and the 300-lb dynamic load rating covers bodyweight dips and moderate loaded work for most users. At $80-120 it sits in the right place for home gyms without a power rack.",
+      "pros": [
+        "Four-leg base with non-slip rubber feet stays put on hard floors",
+        "Adjustable handle width between 18 and 24 inches fits varied shoulder widths",
+        "300-lb capacity handles bodyweight and moderate loaded dips",
+        "Most stable freestanding base in the comparison"
+      ],
+      "cons": [
+        "Smooth handles do not grip as securely as REP's knurled bars",
+        "Fixed bar height limits push-up and L-sit variations"
+      ]
+    },
+    {
+      "offerId": "rep-fitness-dip-bar",
+      "badge": "Best Premium",
+      "grade": "A",
+      "review": "REP Fitness uses heavy-gauge 11-gauge steel in 2x2 inch square tubing with knurled handles for grip. Construction quality runs higher than Ultimate Body Press — the knurled handles prevent hand sliding under pressing load, and the heavier gauge steel produces noticeably less flex when you load up. Handle width is fixed at roughly 22 inches, which fits most adult shoulder widths but is worth checking against your build before ordering. At $120-160 it is more expensive than Ultimate Body Press but delivers both better grip and better stability under loaded work. The recommended choice for serious freestanding home gym training.",
+      "pros": [
+        "11-gauge steel in 2x2 inch tubing produces minimal flex under load",
+        "Knurled handles prevent hand slipping during weighted dips",
+        "Higher build quality than budget freestanding alternatives",
+        "Stable enough for advanced weighted dip work"
+      ],
+      "cons": [
+        "Fixed 22-inch handle width does not adjust to user shoulder width",
+        "Higher price than Ultimate Body Press for the same freestanding format"
+      ]
+    },
+    {
+      "offerId": "rogue-matador-dip-attachment",
+      "badge": "Best for Rack Owners",
+      "grade": "A",
+      "review": "The Rogue Matador is a pair of vertical bracket attachments that bolt onto compatible Rogue power rack uprights — Monster series, S-series, and a few other Rogue models. Multiple height positions adjust the bar relative to the rack. The bars themselves are 1.25-inch diameter tube steel with Rogue's standard knurling. Stability is the headline: load transfers directly into the rack structure, so a properly mounted Matador does not flex under 300-plus lb of bodyweight plus dip belt plates. That is physically impossible to match with any freestanding bar. At $80-100 it is less expensive than the REP freestanding bar while providing better stability — the catch is the compatibility requirement.",
+      "pros": [
+        "Zero flex under heavy loaded dips when mounted to a compatible rack",
+        "1.25-inch knurled bars match Rogue's standard quality",
+        "Multiple height positions adjust bar to your stance",
+        "Cheaper than REP freestanding for better stability"
+      ],
+      "cons": [
+        "Only mounts to compatible Rogue power racks",
+        "Useless without a rack already in the gym"
+      ]
+    },
+    {
+      "offerId": "cap-barbell-dip-bar",
+      "badge": "Best Budget",
+      "grade": "B+",
+      "review": "CAP Barbell makes the most common budget freestanding dip bar in the $40-70 range. Construction uses thinner steel than REP or Ultimate Body Press, and the base design is simpler — two V-legs rather than four-point contact. On carpet, the CAP bar is adequate for bodyweight dips and handles its rated 300-lb static load, but flex is noticeable under dynamic pressing. On smooth floors without rubber feet, it slides under load. For beginners starting with bodyweight dips at the lowest entry cost, the CAP is functional with these limitations clearly understood — it is a starter bar, not a long-term training tool.",
+      "pros": [
+        "Lowest price entry into dip training in this comparison",
+        "300-lb static load rating covers bodyweight dips",
+        "Compact enough to disassemble and store between sessions",
+        "Functional on carpet for beginners learning the movement"
+      ],
+      "cons": [
+        "V-leg base slides on smooth floors without added mats",
+        "Noticeable flex under loaded dips compared to REP construction"
+      ]
+    },
+    {
+      "offerId": "valor-fitness-bd-62-dip-bar",
+      "badge": "Best for Bodyweight Versatility",
+      "grade": "B+",
+      "review": "Valor Fitness BD-62 is a mid-range freestanding dip bar with welded steel construction, four-position adjustable height, and rubber end caps. The adjustable height is the differentiator in this comparison — the bar can be set low for push-up variations, mid for L-sits and reverse rows, or high for standard dips. For athletes using the bar across multiple bodyweight exercises rather than just dips, the height adjustment is genuinely useful. At $80-110 it sits between the CAP entry and the REP premium tiers. For pure dip training the REP is the stronger pick, but for versatile bodyweight training the BD-62 is the right tool.",
+      "pros": [
+        "Four height positions enable push-ups, L-sits, rows, and dips",
+        "Welded steel construction is sturdier than CAP V-leg design",
+        "Rubber end caps reduce floor sliding",
+        "Versatile across the full bodyweight exercise menu"
+      ],
+      "cons": [
+        "Pure dip stability is below REP Fitness fixed-height bar",
+        "Adjustable mechanism adds more failure points than fixed designs"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For most home gyms without a rack",
+      "offerId": "ultimate-body-press-dip-bar",
+      "reason": "Four-leg base and adjustable handle width fit varied users while staying stable on hard floors."
+    },
+    {
+      "label": "For serious freestanding training",
+      "offerId": "rep-fitness-dip-bar",
+      "reason": "11-gauge steel and knurled handles deliver less flex and a more secure grip for heavy loaded dips."
+    },
+    {
+      "label": "For Rogue power rack owners",
+      "offerId": "rogue-matador-dip-attachment",
+      "reason": "Bolting to the rack eliminates flex entirely at a lower price than a quality freestanding bar."
+    },
+    {
+      "label": "For beginners on a budget",
+      "offerId": "cap-barbell-dip-bar",
+      "reason": "Lowest entry price for bodyweight dip training, functional on carpet with the limitations understood."
+    },
+    {
+      "label": "For full bodyweight training",
+      "offerId": "valor-fitness-bd-62-dip-bar",
+      "reason": "Four height positions cover push-ups, L-sits, rows, and dips in a single piece of equipment."
+    }
+  ]
 }

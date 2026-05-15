@@ -66,5 +66,109 @@
     "speed-and-agility-pro-ladder": "Aluminum rungs, 15-foot, adjustable spacing. $40-60. Best for outdoor grass use and commercial facilities. Aluminum stays flat without ground stakes. Higher cost justified only for daily high-frequency use environments."
   },
   "pinDescription": "Agility ladder comparison 2026: SKLZ vs Perfect Fitness vs Yes4All vs Toezone vs Speed & Agility Pro — flat vs raised rungs, drill cards, aluminum vs plastic, and which ladder actually improves speed and coordination compared.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "sklz-quick-ladders",
+      "badge": "Best Overall",
+      "review": "SKLZ is the agility ladder most coaches actually use, from youth soccer fields to college sports facilities, and the yellow-and-black color scheme is the visual default for organized programs. The 15-foot, 11-square layout with adjustable rung spacing covers every standard drill, and the flat plastic rungs stay flush to the ground without creating the ankle-roll risk that raised-rung designs do. A carrying bag is included. The brand advantage is twofold: it is sold in physical sporting goods stores rather than online-only, and its ubiquity in coaching means almost every drill video you find on YouTube was filmed on this ladder.",
+      "pros": [
+        "15 ft, 11 squares with adjustable rung spacing",
+        "Flat plastic rungs eliminate ankle-roll risk at speed",
+        "Standard equipment in most organized coaching programs",
+        "Carrying bag included"
+      ],
+      "cons": [
+        "No drill card or instructional material included"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "perfect-fitness-agility-ladder",
+      "badge": "Best for Self-Coached Athletes",
+      "review": "Perfect Fitness builds essentially the same flat-plastic-rung 11-square ladder as the SKLZ and packages it with a 42-drill instructional card. For users who do not have a coach feeding them drill sequences, that card is the meaningful differentiator — it covers progressions from beginner two-feet-in-each-box patterns through intermediate ickey shuffles, scissors, and T-drill variants. The build quality is comparable to SKLZ and the price typically lands at or below it, so the right way to choose between the two is whether you already have drill programming in hand.",
+      "pros": [
+        "Includes a 42-drill instructional card for self-coached training",
+        "Same flat-rung, adjustable-spacing construction as coach-favorite ladders",
+        "Often priced at or below SKLZ",
+        "Carrying bag included"
+      ],
+      "cons": [
+        "Drill card adds no value if you already follow a coach's program"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "yes4all-agility-ladder",
+      "badge": "Best for Long-Run Drills",
+      "review": "Yes4All is the only ladder in this lineup with a true 20-foot option, in addition to the standard 10-foot and 15-foot lengths. The extra length matters specifically for acceleration drills and longer pattern sequences that do not develop correctly when you run out of rungs mid-drill. Construction is comparable to other flat-plastic options, rung spacing is adjustable, and the multi-length availability lets buyers match the tool to their training space and drill needs rather than working around a single fixed length.",
+      "pros": [
+        "Available in 10, 15, and 20 ft lengths to match training space",
+        "20 ft option supports acceleration and longer pattern drills",
+        "Adjustable rung spacing on all lengths",
+        "Priced in the same tier as standard 15 ft ladders"
+      ],
+      "cons": [
+        "Lighter plastic rungs can shift on slick gym floors without weights"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "toezone-agility-ladder",
+      "badge": "Best for Team Coaches",
+      "review": "Toezone uses slightly heavier plastic rungs than budget ladders and is built around the needs of team contexts where 15-plus athletes might cycle through the same ladder weekly. The added rung weight keeps it flatter to the ground without stakes, which matters when training shifts outdoors onto uneven grass. For individual home use the heavier construction is overkill, but for youth coaches and small-group training facilities, the durability over hundreds of sessions translates directly into reduced replacement costs.",
+      "pros": [
+        "Heavier rungs stay flat outdoors without ground stakes",
+        "Built for high-frequency team use across hundreds of sessions",
+        "Reduces replacement costs in group coaching contexts"
+      ],
+      "cons": [
+        "Heavier construction is unnecessary for individual home training",
+        "Costs more than budget plastic ladders"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "speed-and-agility-pro-ladder",
+      "badge": "Best Outdoor / Commercial",
+      "review": "Speed & Agility Pro swaps plastic rungs for aluminum, which is the same construction used in professional sports programs. Aluminum rungs stay flatter on grass without stakes, resist being blown around by wind, and have slightly more give underfoot than rigid plastic. The 15-foot length with adjustable spacing covers standard drill patterns. For outdoor grass training or commercial facilities running daily group sessions, the weight and durability earn the price premium. For most individual athletes drilling on a gym floor or driveway, the performance gains over plastic rungs are minimal.",
+      "pros": [
+        "Aluminum rungs stay flat on grass without stakes",
+        "Wind- and weather-resistant for outdoor use",
+        "More durable than plastic for daily commercial sessions"
+      ],
+      "cons": [
+        "2-3x the price of plastic-rung alternatives",
+        "Performance gain over plastic is minimal for indoor individual use"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For coached athletes following a structured program",
+      "offerId": "sklz-quick-ladders",
+      "reason": "It is the ladder most coaches and drill videos actually use, so the equipment matches whatever programming you're given."
+    },
+    {
+      "label": "For self-coached athletes without a drill program",
+      "offerId": "perfect-fitness-agility-ladder",
+      "reason": "The included 42-drill instructional card replaces the missing coach with a structured beginner-to-intermediate curriculum."
+    },
+    {
+      "label": "For acceleration and long-pattern drills",
+      "offerId": "yes4all-agility-ladder",
+      "reason": "The 20-foot length option supports drills that don't develop correctly if you hit the end of a 15-foot ladder mid-rep."
+    },
+    {
+      "label": "For youth team coaches and group training",
+      "offerId": "toezone-agility-ladder",
+      "reason": "Heavier rungs survive hundreds of sessions with 15-plus athletes cycling through and stay flat on outdoor grass."
+    },
+    {
+      "label": "For daily outdoor grass training",
+      "offerId": "speed-and-agility-pro-ladder",
+      "reason": "Aluminum rungs resist wind displacement and stay flatter on grass than plastic, which matters at high training speeds outdoors."
+    }
+  ]
 }

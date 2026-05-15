@@ -59,5 +59,114 @@
     "greenpan-paris-ceramic-pan": "Thermolon ceramic coating in a hard-anodized aluminum body. Mid-tier ceramic that outperforms cheap stone pans in heat evenness and durability. Oven-safe to 175°C. Dishwasher-safe per specs but hand-washing significantly extends coating life."
   },
   "pinDescription": "Nonstick pan showdown 2026: T-fal vs HexClad vs Caraway vs GreenPan. PTFE or ceramic? Which coating actually lasts — and is the premium pan worth 5x the price of a T-fal?",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "t-fal-e76597-nonstick-pan-12in",
+      "badge": "Best Value",
+      "review": "The T-fal E76597 is a 12-inch aluminum pan with PTFE nonstick coating and T-fal's Thermo-Spot heat indicator — a red dot in the pan center that turns solid when the surface reaches optimal cooking temperature. The indicator is the standout: overheating empty PTFE pans is the fastest way to shorten coating life, and the visual cue genuinely protects the surface. The aluminum body heats evenly, the riveted handle stays cool on stovetop, and it is oven-safe up to 175°C. Eggs slide with almost no oil when new. Treat it as a three-to-five year consumable: at this price point, replacing it on schedule costs less per year than maintaining one premium pan obsessively. Not induction-compatible.",
+      "pros": [
+        "Thermo-Spot indicator protects the coating from overheating",
+        "Excellent fresh-pan release with minimal oil",
+        "Light enough to handle one-handed",
+        "Lowest price per year if replaced every 3-5 years"
+      ],
+      "cons": [
+        "Oven-safe only to 175°C",
+        "Not compatible with induction cooktops"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "hexclad-7pc-hybrid-pan-set",
+      "badge": "Best for High-Heat Searing",
+      "review": "HexClad's laser-etched hexagonal pattern is a structural hybrid: stainless steel peaks rise above PTFE-filled valleys. The peaks handle high-heat searing while the PTFE in the valleys provides nonstick release. This is the only pan here you can safely take to high heat for a steak sear — the stainless takes the direct thermal load while the PTFE sits lower and protected. Oven-safe to 260°C, dishwasher-safe, and induction-compatible across the whole 7-piece set. The honest catch: the hybrid surface is less slippery than fresh PTFE. Eggs in HexClad need a small amount of butter or oil; eggs in a new T-fal slide with almost none. If you want one pan for both searing and nonstick tasks, the construction earns the price.",
+      "pros": [
+        "Stainless peaks handle searing temperatures that destroy pure PTFE",
+        "Oven-safe to 260°C and dishwasher-safe",
+        "Induction-compatible across the whole set",
+        "Tri-ply construction provides even heat distribution"
+      ],
+      "cons": [
+        "Less slippery than fresh PTFE, eggs need a small amount of fat",
+        "Significantly higher upfront cost than single-pan alternatives"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "ozeri-stone-earth-frying-pan",
+      "badge": "Best Budget Pick",
+      "review": "The Ozeri Stone Earth 10-inch is a stone-derived ceramic coating on aluminum at the lowest entry price in this comparison. The APEO- and PFOA-free labeling matters for buyers reducing fluoropolymer exposure without paying Caraway-tier prices. The 10-inch size is right for one or two-person households — preheats faster than a 12-inch, uses less oil to coat the surface, and fits a two-egg omelet without spreading too thin. For a 3-4 person home, batch cooking forces multiple rounds. Stone-derived coatings behave like ceramic: good release when new, faster wear than PTFE, and sensitivity to metal utensils and high heat. Expect roughly 18 months of quality release before performance noticeably declines, which is acceptable given the price.",
+      "pros": [
+        "APEO- and PFOA-free labeling",
+        "10-inch size optimal for 1-2 person households",
+        "Lowest entry price in this comparison",
+        "Light enough for daily one-handed use"
+      ],
+      "cons": [
+        "Coating life around 18 months under regular use",
+        "10-inch limits batch cooking for larger households"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "caraway-nonstick-ceramic-pan",
+      "badge": "Best Ceramic Pick",
+      "review": "Caraway's 10.5-inch ceramic fry pan uses a sol-gel coating derived from silicon dioxide — genuinely zero PTFE, PFOA, or PFAS chemistry of any kind. The aluminum core provides even heat distribution, and the stainless steel base makes it induction-compatible. The standout spec is the oven-safe rating: 288°C (550°F) is unusually high for ceramic, where most cap at 175-200°C. That headroom genuinely matters for finishing dishes in the oven and high-heat stovetop work. The matte finish and color options make this the rare nonstick pan that looks like deliberate cookware rather than a utilitarian disposable. The honest trade: like all ceramic coatings, it degrades faster than PTFE under the same conditions. Silicone or wooden utensils and consistent hand-washing maximize the 2-3 year coating life.",
+      "pros": [
+        "Zero PTFE, PFOA, or PFAS chemistry",
+        "Oven-safe to 288°C, unusually high for ceramic",
+        "Stainless base makes it induction-compatible",
+        "Matte finish and color options look intentional in the kitchen"
+      ],
+      "cons": [
+        "Ceramic coating degrades faster than PTFE under the same use",
+        "Hand-washing strongly recommended despite spec-sheet allowance"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "greenpan-paris-ceramic-pan",
+      "badge": "Best Mid-Tier Ceramic",
+      "review": "GreenPan Paris uses GreenPan's proprietary Thermolon ceramic coating on a hard-anodized aluminum body. Hard-anodizing produces a body harder than standard aluminum, which resists scratching better and helps the pan hold up to daily use. The Thermolon coating contains no fluoropolymers and matches Caraway on PFAS-avoidance. Oven-safe to 175°C is more conservative than Caraway's 288°C ceiling but still covers most home-cooking scenarios. GreenPan sits in a useful middle tier: it outperforms cheap ceramic stone pans in durability and heat evenness without the Caraway price premium. Use silicone or wooden utensils and keep heat at medium or below to push toward the upper end of the 2-3 year coating-life window.",
+      "pros": [
+        "Thermolon ceramic with zero PTFE or PFAS",
+        "Hard-anodized aluminum body resists scratching",
+        "Mid-tier pricing below Caraway",
+        "Even heat distribution from quality base construction"
+      ],
+      "cons": [
+        "Oven-safe only to 175°C, lower than Caraway",
+        "Same general ceramic coating life as cheaper stone pans"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "The everyday egg-and-pancake cook on a budget",
+      "offerId": "t-fal-e76597-nonstick-pan-12in",
+      "reason": "Fresh PTFE release with the Thermo-Spot indicator is the cheapest path to reliable nonstick eggs without overheating risk."
+    },
+    {
+      "label": "The cook who wants one pan for eggs and steak",
+      "offerId": "hexclad-7pc-hybrid-pan-set",
+      "reason": "The stainless peaks handle searing temperatures that destroy pure PTFE while the recessed PTFE valleys still release eggs."
+    },
+    {
+      "label": "The single-person household on a tight budget",
+      "offerId": "ozeri-stone-earth-frying-pan",
+      "reason": "The 10-inch size matches one-person portions and the PFOA-free coating costs less than the oil you'll use over its life."
+    },
+    {
+      "label": "The PFAS-conscious cook with induction",
+      "offerId": "caraway-nonstick-ceramic-pan",
+      "reason": "Zero-fluoropolymer ceramic with a stainless base and 288°C oven rating handles induction and oven finishing that other ceramics cannot."
+    },
+    {
+      "label": "The mid-budget ceramic buyer",
+      "offerId": "greenpan-paris-ceramic-pan",
+      "reason": "Thermolon ceramic on a hard-anodized body outperforms cheap stone pans on heat evenness without paying Caraway prices."
+    }
+  ]
 }

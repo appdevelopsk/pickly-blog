@@ -1,131 +1,151 @@
 {
-  "articles": {
-    "best-oat-milk-2026": {
-      "title": "Mejor Leche de Avena 2026: 5 Opciones para Café, Cereales y Repostería",
-      "description": "Desde la Oatly original hasta las versiones barista para espumar — selecciones probadas por sabor, cremado y calidad de ingredientes.",
-      "intro": "La leche de avena conquistó el mercado de los lácteos vegetales porque se comporta más como la leche que la de almendras o soja — hace espuma, se puede vaporizar y cocinar con mínimos ajustes. El problema es que la categoría ha explotado con opciones que van desde genuinamente buenas hasta aguadas, dulces y llenas de aditivos. Las verdaderas diferencias son: grado barista versus uso cotidiano, ingredientes limpios versus fórmulas cargadas de estabilizantes, y reconocimiento de marca versus valor.",
-      "products": {
-        "oatly-oat-milk-original": {
-          "name": "Oatly Oat-Drink Original",
-          "badge": "Mejor General",
-          "review": "Oatly construyó la categoría de leche de avena tal como la conocemos. La fórmula original entrega lo que la categoría promete: textura cremosa, sabor suave a avena que no domina el café ni los cereales, y un final neutro. Está enriquecida con calcio, vitamina D y riboflavina. El sabor es el punto de referencia — cuando otras marcas quieren describir su leche de avena, la comparan con Oatly. Disponible casi en todas partes a un precio razonable.",
-          "pros": [
-            "Sabor limpio a avena que funciona en cereales, smoothies y cocina",
-            "Amplia disponibilidad global",
-            "Textura consistente de lote a lote"
-          ],
-          "cons": [
-            "Contiene aceite de colza",
-            "Precio premium frente a Planet Oat"
-          ]
-        },
-        "oatly-oat-milk-barista": {
-          "name": "Oatly Barista Edition",
-          "badge": "Mejor para Café",
-          "review": "La Barista Edition usa una fórmula de grasa diferente diseñada específicamente para resistir las temperaturas de la varita de vapor — hace espuma formando microespuma sin separarse ni volverse granulosa. La mayoría de las cafeterías especializadas que ofrecen 'leche de avena' en su menú usan la Barista Edition o un competidor directo. Si preparas lattes en casa, la diferencia entre esta y la original en la jarra es inmediatamente visible. Contenido de grasa ligeramente superior a la original.",
-          "pros": [
-            "Se vaporiza sin cortarse — probada para espresso",
-            "Produce microespuma estable para latte art",
-            "Estándar profesional de barista"
-          ],
-          "cons": [
-            "Mayor contenido de azúcar que la fórmula original",
-            "Excesiva para aplicaciones que no sean café"
-          ]
-        },
-        "planet-oat-extra-creamy": {
-          "name": "Planet Oat Extra Creamy",
-          "badge": "Mejor Económica",
-          "review": "Planet Oat es la alternativa estadounidense de consumo masivo a Oatly — ampliamente disponible en supermercados, a menor precio y con un cuerpo notablemente más cremoso que las leches de avena habituales. La variante Extra Creamy añade una pequeña cantidad de aceite para lograr esa consistencia. Certificada sin OGM y sin gluten. El sabor es limpio y suave. Para uso diario en cereales y cocina donde no necesitas rendimiento de grado barista, es el mejor valor disponible.",
-          "pros": [
-            "Mejor valor por litro en leche de avena de consumo masivo",
-            "Disponible en la mayoría de los supermercados de EE. UU.",
-            "Textura cremosa comparable a las marcas premium"
-          ],
-          "cons": [
-            "Sabor menos complejo que Oatly",
-            "La versión extra cremosa tiene más calorías"
-          ]
-        },
-        "califia-oat-milk-barista": {
-          "name": "Califia Farms Better Half Oat Creamer",
-          "badge": "Mejor para Café Frío",
-          "review": "Esta mezcla combina avena con crema de coco — el resultado es más rico y ligeramente más dulce que las leches de avena puras, lo que la hace excelente en cold brew y lattes con hielo donde quieres cremosidad sin lácteos. Técnicamente es una crema más que una alternativa a la leche, por lo que no funciona como sustituto 1:1 en repostería, pero para el caso de uso específico del café frío es difícil de superar. La adición de coco es suave y no domina.",
-          "pros": [
-            "La mezcla con crema de coco añade riqueza natural",
-            "La textura más espesa funciona bien con hielo",
-            "Se vaporiza adecuadamente a pesar del posicionamiento para café frío"
-          ],
-          "cons": [
-            "El sabor a coco es detectable — no es neutro",
-            "Más calorías que la leche de avena estándar"
-          ]
-        },
-        "elmhurst-oat-milk": {
-          "name": "Elmhurst 1925 Oat Milk",
-          "badge": "Mejor Ingredientes Limpios",
-          "review": "Elmhurst es la opción minimalista: avena, agua, sal marina. Sin aceites añadidos, sin gomas (gelana, xantana o garrofín), sin emulsionantes. La mayoría de las leches de avena usan estos aditivos para lograr una consistencia estable y cremosa — Elmhurst lo consigue mediante un proceso de molienda diferente. La textura es más ligera que la de Oatly y no hace espuma bien, pero para quienes evitan la carragenina, las gomas o los aceites añadidos, es la opción más limpia ampliamente disponible.",
-          "pros": [
-            "Avena, agua, sal — solo tres ingredientes",
-            "Sin aceites añadidos ni gomas",
-            "Mayor contenido de avena por porción"
-          ],
-          "cons": [
-            "Textura ligera — no hará espuma para bebidas calientes",
-            "El sabor difiere de las leches de avena estabilizadas con gomas"
-          ]
-        }
-      },
-      "buyingGuide": {
-        "title": "Cómo Elegir Leche de Avena: El Uso Define la Respuesta",
-        "intro": "No existe una única leche de avena que sea la mejor para todo. La elección correcta depende de qué vas a hacer con ella — espumar para café, verter sobre cereales, cocinar o simplemente beber.",
-        "factors": [
-          {
-            "name": "Barista vs. Estándar",
-            "detail": "Las leches de avena de edición barista tienen mayor contenido de grasa y una emulsificación especial que les permite vaporizarse sin separarse. Si preparas lattes o capuchinos en casa, la edición barista vale la pequeña prima de precio. Para cereales, repostería y smoothies, la fórmula estándar funciona perfectamente."
-          },
-          {
-            "name": "Lista de Ingredientes",
-            "detail": "La mayoría de las leches de avena contienen aceites añadidos (girasol, colza) para lograr textura cremosa, y gomas (gelana, xantana) para estabilidad. Son seguros para el consumo pero algunas personas prefieren evitarlos. Elmhurst es la principal marca sin aceites ni gomas añadidos. Si tu leche de avena no se separa ni necesita agitación, tiene estabilizantes."
-          },
-          {
-            "name": "Contenido de Azúcar",
-            "detail": "La avena se convierte naturalmente en glucosa durante el procesamiento — por eso la leche de avena sabe más dulce que la de almendras o soja sin azúcar, incluso cuando se etiqueta como 'sin azúcar' o 'sin azúcares añadidos'. Si controlas el azúcar en sangre, la respuesta glucémica de la leche de avena es ligeramente mayor que la de otras leches vegetales."
-          },
-          {
-            "name": "Enriquecimiento Nutricional",
-            "detail": "La leche de avena no contiene naturalmente calcio ni vitamina D. La mayoría de las marcas los añaden. Si usas leche de avena como sustituto de los lácteos por razones nutricionales, revisa la etiqueta para verificar calcio (al menos 120 mg por 100 ml) y vitamina D."
-          },
-          {
-            "name": "Estado Sin Gluten",
-            "detail": "La avena en sí no contiene gluten, pero la mayoría se procesa en instalaciones que también manejan trigo. Para la enfermedad celíaca o sensibilidad grave al gluten, busca específicamente leche de avena certificada sin gluten (Planet Oat y Oatly ofrecen versiones certificadas)."
-          }
-        ]
-      },
-      "faqs": [
-        {
-          "q": "¿La leche de avena es más saludable que la leche de vaca?",
-          "a": "Depende del criterio. La leche de avena tiene más carbohidratos y menos proteínas que la leche de vaca. La leche de vaca tiene más calcio natural y proteínas de mayor calidad. La leche de avena es mejor para la intolerancia a la lactosa y tiene una menor huella ambiental. Ninguna es universalmente 'más saludable' — depende de tus necesidades dietéticas."
-        },
-        {
-          "q": "¿Por qué la leche de avena hace que el café parezca cortado?",
-          "a": "El ácido del café puede desestabilizar las proteínas de la leche de avena, causando grumos. Las leches de avena de edición barista están formuladas específicamente para resistir esto. Si usas leche de avena estándar en café caliente, añade el café a la leche (no la leche al café), o calienta la leche de avena antes de añadirla."
-        },
-        {
-          "q": "¿Se puede espumar leche de avena normal?",
-          "a": "Se puede, pero los resultados son inconsistentes. La leche de avena estándar hará espuma hasta cierto punto pero no mantendrá la microespuma como las ediciones barista. Si usas una varita de vapor a altas temperaturas, la leche de avena estándar a menudo se separa o se vuelve granulosa. Para cualquier tipo de latte art serio o espuma consistente, usa la edición barista."
-        },
-        {
-          "q": "¿La leche de avena necesita refrigeración antes de abrirse?",
-          "a": "Los envases de leche de avena de larga duración (asépticos) no requieren refrigeración hasta que se abren. Una vez abiertos, guárdalos en el refrigerador y consúmelos en 7–10 días. La leche de avena refrigerada (que se encuentra en el pasillo de lácteos fríos) debe mantenerse fría en todo momento."
-        },
-        {
-          "q": "¿La leche de avena es buena para hornear?",
-          "a": "Sí, la leche de avena es uno de los mejores sustitutos de los lácteos para hornear porque su sabor neutro no compite con otros ingredientes. Úsala en proporción 1:1 en lugar de leche de vaca en la mayoría de las recetas. Para recetas que necesitan el contenido de grasa de la leche entera, añade una pequeña cantidad de aceite neutro."
-        }
+  "title": "Mejor Leche de Avena 2026: 5 Opciones para Café, Cereales y Repostería",
+  "description": "Desde la Oatly original hasta las versiones barista para espumar — selecciones probadas por sabor, cremado y calidad de ingredientes.",
+  "lede": "La leche de avena conquistó el mercado de los lácteos vegetales porque se comporta más como la leche que la de almendras o soja — hace espuma, se puede vaporizar y cocinar con mínimos ajustes. El problema es que la categoría ha explotado con opciones que van desde genuinamente buenas hasta aguadas, dulces y llenas de aditivos. Las verdaderas diferencias son: grado barista versus uso cotidiano, ingredientes limpios versus fórmulas cargadas de estabilizantes, y reconocimiento de marca versus valor.",
+  "sections": [
+    {
+      "heading": "Cómo Elegir Leche de Avena: El Uso Define la Respuesta",
+      "paragraphs": [
+        "No existe una única leche de avena que sea la mejor para todo. La elección correcta depende de qué vas a hacer con ella — espumar para café, verter sobre cereales, cocinar o simplemente beber."
       ],
-      "conclusion": "Oatly Original sigue siendo el punto de referencia de la categoría — sabor consistente, buena disponibilidad, sólido enriquecimiento nutricional. Oatly Barista Edition es un producto diferente para un propósito específico: si preparas lattes, cómpra esta. Planet Oat es la opción práctica para el uso diario si no preparas bebidas de café y quieres ahorrar. Elmhurst es la respuesta para el pequeño grupo que realmente lee las etiquetas de ingredientes y prefiere evitar los aditivos."
+      "subsections": [
+        {
+          "heading": "Barista vs. Estándar",
+          "paragraphs": [
+            "Las leches de avena de edición barista tienen mayor contenido de grasa y una emulsificación especial que les permite vaporizarse sin separarse. Si preparas lattes o capuchinos en casa, la edición barista vale la pequeña prima de precio. Para cereales, repostería y smoothies, la fórmula estándar funciona perfectamente."
+          ]
+        },
+        {
+          "heading": "Lista de Ingredientes",
+          "paragraphs": [
+            "La mayoría de las leches de avena contienen aceites añadidos (girasol, colza) para lograr textura cremosa, y gomas (gelana, xantana) para estabilidad. Son seguros para el consumo pero algunas personas prefieren evitarlos. Elmhurst es la principal marca sin aceites ni gomas añadidos. Si tu leche de avena no se separa ni necesita agitación, tiene estabilizantes."
+          ]
+        },
+        {
+          "heading": "Contenido de Azúcar",
+          "paragraphs": [
+            "La avena se convierte naturalmente en glucosa durante el procesamiento — por eso la leche de avena sabe más dulce que la de almendras o soja sin azúcar, incluso cuando se etiqueta como 'sin azúcar' o 'sin azúcares añadidos'. Si controlas el azúcar en sangre, la respuesta glucémica de la leche de avena es ligeramente mayor que la de otras leches vegetales."
+          ]
+        },
+        {
+          "heading": "Enriquecimiento Nutricional",
+          "paragraphs": [
+            "La leche de avena no contiene naturalmente calcio ni vitamina D. La mayoría de las marcas los añaden. Si usas leche de avena como sustituto de los lácteos por razones nutricionales, revisa la etiqueta para verificar calcio (al menos 120 mg por 100 ml) y vitamina D."
+          ]
+        },
+        {
+          "heading": "Estado Sin Gluten",
+          "paragraphs": [
+            "La avena en sí no contiene gluten, pero la mayoría se procesa en instalaciones que también manejan trigo. Para la enfermedad celíaca o sensibilidad grave al gluten, busca específicamente leche de avena certificada sin gluten (Planet Oat y Oatly ofrecen versiones certificadas)."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Conclusión",
+      "paragraphs": [
+        "Oatly Original sigue siendo el punto de referencia de la categoría — sabor consistente, buena disponibilidad, sólido enriquecimiento nutricional. Oatly Barista Edition es un producto diferente para un propósito específico: si preparas lattes, cómpra esta. Planet Oat es la opción práctica para el uso diario si no preparas bebidas de café y quieres ahorrar. Elmhurst es la respuesta para el pequeño grupo que realmente lee las etiquetas de ingredientes y prefiere evitar los aditivos."
+      ]
     }
-  },
+  ],
+  "faqs": [
+    {
+      "q": "¿La leche de avena es más saludable que la leche de vaca?",
+      "a": "Depende del criterio. La leche de avena tiene más carbohidratos y menos proteínas que la leche de vaca. La leche de vaca tiene más calcio natural y proteínas de mayor calidad. La leche de avena es mejor para la intolerancia a la lactosa y tiene una menor huella ambiental. Ninguna es universalmente 'más saludable' — depende de tus necesidades dietéticas."
+    },
+    {
+      "q": "¿Por qué la leche de avena hace que el café parezca cortado?",
+      "a": "El ácido del café puede desestabilizar las proteínas de la leche de avena, causando grumos. Las leches de avena de edición barista están formuladas específicamente para resistir esto. Si usas leche de avena estándar en café caliente, añade el café a la leche (no la leche al café), o calienta la leche de avena antes de añadirla."
+    },
+    {
+      "q": "¿Se puede espumar leche de avena normal?",
+      "a": "Se puede, pero los resultados son inconsistentes. La leche de avena estándar hará espuma hasta cierto punto pero no mantendrá la microespuma como las ediciones barista. Si usas una varita de vapor a altas temperaturas, la leche de avena estándar a menudo se separa o se vuelve granulosa. Para cualquier tipo de latte art serio o espuma consistente, usa la edición barista."
+    },
+    {
+      "q": "¿La leche de avena necesita refrigeración antes de abrirse?",
+      "a": "Los envases de leche de avena de larga duración (asépticos) no requieren refrigeración hasta que se abren. Una vez abiertos, guárdalos en el refrigerador y consúmelos en 7–10 días. La leche de avena refrigerada (que se encuentra en el pasillo de lácteos fríos) debe mantenerse fría en todo momento."
+    },
+    {
+      "q": "¿La leche de avena es buena para hornear?",
+      "a": "Sí, la leche de avena es uno de los mejores sustitutos de los lácteos para hornear porque su sabor neutro no compite con otros ingredientes. Úsala en proporción 1:1 en lugar de leche de vaca en la mayoría de las recetas. Para recetas que necesitan el contenido de grasa de la leche entera, añade una pequeña cantidad de aceite neutro."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "oatly-oat-milk-original",
+      "badge": "Mejor General",
+      "review": "Oatly construyó la categoría de leche de avena tal como la conocemos. La fórmula original entrega lo que la categoría promete: textura cremosa, sabor suave a avena que no domina el café ni los cereales, y un final neutro. Está enriquecida con calcio, vitamina D y riboflavina. El sabor es el punto de referencia — cuando otras marcas quieren describir su leche de avena, la comparan con Oatly. Disponible casi en todas partes a un precio razonable.",
+      "pros": [
+        "Sabor limpio a avena que funciona en cereales, smoothies y cocina",
+        "Amplia disponibilidad global",
+        "Textura consistente de lote a lote"
+      ],
+      "cons": [
+        "Contiene aceite de colza",
+        "Precio premium frente a Planet Oat"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "oatly-oat-milk-barista",
+      "badge": "Mejor para Café",
+      "review": "La Barista Edition usa una fórmula de grasa diferente diseñada específicamente para resistir las temperaturas de la varita de vapor — hace espuma formando microespuma sin separarse ni volverse granulosa. La mayoría de las cafeterías especializadas que ofrecen 'leche de avena' en su menú usan la Barista Edition o un competidor directo. Si preparas lattes en casa, la diferencia entre esta y la original en la jarra es inmediatamente visible. Contenido de grasa ligeramente superior a la original.",
+      "pros": [
+        "Se vaporiza sin cortarse — probada para espresso",
+        "Produce microespuma estable para latte art",
+        "Estándar profesional de barista"
+      ],
+      "cons": [
+        "Mayor contenido de azúcar que la fórmula original",
+        "Excesiva para aplicaciones que no sean café"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "planet-oat-extra-creamy",
+      "badge": "Mejor Económica",
+      "review": "Planet Oat es la alternativa estadounidense de consumo masivo a Oatly — ampliamente disponible en supermercados, a menor precio y con un cuerpo notablemente más cremoso que las leches de avena habituales. La variante Extra Creamy añade una pequeña cantidad de aceite para lograr esa consistencia. Certificada sin OGM y sin gluten. El sabor es limpio y suave. Para uso diario en cereales y cocina donde no necesitas rendimiento de grado barista, es el mejor valor disponible.",
+      "pros": [
+        "Mejor valor por litro en leche de avena de consumo masivo",
+        "Disponible en la mayoría de los supermercados de EE. UU.",
+        "Textura cremosa comparable a las marcas premium"
+      ],
+      "cons": [
+        "Sabor menos complejo que Oatly",
+        "La versión extra cremosa tiene más calorías"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "califia-oat-milk-barista",
+      "badge": "Mejor para Café Frío",
+      "review": "Esta mezcla combina avena con crema de coco — el resultado es más rico y ligeramente más dulce que las leches de avena puras, lo que la hace excelente en cold brew y lattes con hielo donde quieres cremosidad sin lácteos. Técnicamente es una crema más que una alternativa a la leche, por lo que no funciona como sustituto 1:1 en repostería, pero para el caso de uso específico del café frío es difícil de superar. La adición de coco es suave y no domina.",
+      "pros": [
+        "La mezcla con crema de coco añade riqueza natural",
+        "La textura más espesa funciona bien con hielo",
+        "Se vaporiza adecuadamente a pesar del posicionamiento para café frío"
+      ],
+      "cons": [
+        "El sabor a coco es detectable — no es neutro",
+        "Más calorías que la leche de avena estándar"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "elmhurst-oat-milk",
+      "badge": "Mejor Ingredientes Limpios",
+      "review": "Elmhurst es la opción minimalista: avena, agua, sal marina. Sin aceites añadidos, sin gomas (gelana, xantana o garrofín), sin emulsionantes. La mayoría de las leches de avena usan estos aditivos para lograr una consistencia estable y cremosa — Elmhurst lo consigue mediante un proceso de molienda diferente. La textura es más ligera que la de Oatly y no hace espuma bien, pero para quienes evitan la carragenina, las gomas o los aceites añadidos, es la opción más limpia ampliamente disponible.",
+      "pros": [
+        "Avena, agua, sal — solo tres ingredientes",
+        "Sin aceites añadidos ni gomas",
+        "Mayor contenido de avena por porción"
+      ],
+      "cons": [
+        "Textura ligera — no hará espuma para bebidas calientes",
+        "El sabor difiere de las leches de avena estabilizadas con gomas"
+      ],
+      "grade": "B+"
+    }
+  ],
   "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
 }

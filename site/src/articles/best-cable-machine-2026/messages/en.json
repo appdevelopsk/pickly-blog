@@ -47,5 +47,114 @@
     "force-usa-g6-functional-trainer": "Integrates power rack, functional trainer, lat pulldown, and low row in one frame — useful when you're starting from zero and floor space limits buying separate pieces. Redundant if you already own a standalone power rack."
   },
   "pinDescription": "5 best cable machines for home gyms in 2026 — Inspire FT2 vs Rogue vs Force USA G6 vs Bowflex PR3000 vs Valor BD-62. Weight stacks, pulley ratios, and real footprints compared.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "rogue-monster-cable-crossover",
+      "badge": "Best Commercial-Grade",
+      "grade": "A+",
+      "review": "The Rogue Monster Cable Crossover is the long-horizon investment in this comparison. 11-gauge steel uprights, 19 cable height positions per side, and the build tolerances Rogue applies across the Monster series translate into a machine that performs identically on day one and year ten. Cable smoothness through the full pulley travel is the cleanest in this group — there is no perceptible hesitation at the top or bottom of the stroke even under heavy loads. The footprint is the largest here, and the price is well above the Inspire FT2, but for users who want a true commercial crossover that does not need replacement, it is the reference point. Setup is multi-hour and best done with two people and a torque wrench.",
+      "pros": [
+        "11-gauge steel construction matches commercial gym standards",
+        "19 cable positions per side cover every common cable exercise",
+        "Smoothest pulley travel of any machine in this comparison",
+        "Built to outlast every other option here under heavy daily use"
+      ],
+      "cons": [
+        "Largest footprint and highest price in this comparison",
+        "Setup is multi-hour and effectively requires two people"
+      ]
+    },
+    {
+      "offerId": "inspire-fitness-ft2-functional-trainer",
+      "badge": "Best Overall",
+      "grade": "A",
+      "review": "The Inspire FT2 earns top placement on pulley ratio alone: 1:1 means the 165-lb stack per side feels like 165 lb at the handle, not a softened load through 2:1 mechanical advantage. Nineteen cable heights per column cover ankle-level cable curls through overhead face pulls without repositioning. The included pull-up bar and functional arm add enough variety that a separate lat tower becomes unnecessary. The assembled footprint is roughly 48 x 52 inches — narrower than a true crossover and the difference between fitting cleanly in a two-car garage and rearranging everything else. Setup runs two to three hours with two people, and the only ceiling is the 165-lb stack on heavy seated rows for advanced lifters.",
+      "pros": [
+        "1:1 pulley ratio for honest load tracking at the handle",
+        "165-lb stack per side handles most home gym needs",
+        "19 cable positions per side cover every common exercise",
+        "Narrower footprint than true cable crossovers"
+      ],
+      "cons": [
+        "165-lb ceiling can limit advanced lifters on heavy rows",
+        "Two-to-three-hour setup with two people"
+      ]
+    },
+    {
+      "offerId": "bowflex-pr3000-home-gym",
+      "badge": "Best Budget",
+      "grade": "A",
+      "review": "The Bowflex PR3000 uses Power Rod resistance — a fundamentally different feel from steel weight stacks. Resistance starts lighter and gets progressively harder through the range of motion, which changes how reps feel at the bottom and top. That characteristic suits high-rep conditioning, rehab work, and exercises where less load at the most vulnerable joint position is the goal. The PR3000 handles up to 210 lb of resistance, covers about 50 of the most common cable movements through its lat tower and chest cable, and ships in a box that fits through standard doorways without disassembly. It does not replicate a full cable crossover — no low-to-high or high-to-low fly path — but at the price it eliminates the need for several single-purpose machines.",
+      "pros": [
+        "210 lb of resistance covers most users without expansion",
+        "Power Rod profile suits rehab and high-rep conditioning",
+        "Ships in a box that fits through standard doorways",
+        "Replaces multiple single-purpose machines at one price point"
+      ],
+      "cons": [
+        "Power Rod resistance feel differs significantly from cable stacks",
+        "No true low-to-high or high-to-low fly cable path"
+      ]
+    },
+    {
+      "offerId": "valor-fitness-bd-62-cable-crossover",
+      "badge": "Best for Tight Ceilings",
+      "grade": "B+",
+      "review": "The Valor Fitness BD-62 solves the space problem that disqualifies the FT2 or Rogue in many homes. 82-inch uprights clear standard 8-foot ceilings with just enough margin for overhead movements like high-to-low cable flies. Dual 160-lb stacks with 18 adjustment positions per side cover the full crossover exercise menu. The unit ships closer to assembled than most competitors — typically 30-45 minutes to operational — and uses standard plate-loaded weights rather than proprietary stacks, so expansion costs are just iron plates. Cable smoothness at the top of the stroke is slightly behind the Inspire FT2 — noticeable on light isolation work, less relevant on heavy compound movements.",
+      "pros": [
+        "82-inch uprights fit under 8-foot ceilings",
+        "30-45 minute assembly versus multi-hour competitors",
+        "Standard plate-loaded weights for low-cost expansion",
+        "18 positions per side handle the full crossover menu"
+      ],
+      "cons": [
+        "Cable smoothness slightly behind Inspire FT2 on isolation work",
+        "160-lb stacks limit advanced compound row capacity"
+      ]
+    },
+    {
+      "offerId": "force-usa-g6-functional-trainer",
+      "badge": "Best All-in-One",
+      "grade": "B+",
+      "review": "The Force USA G6 integrates a power rack, functional trainer, lat pulldown, and low row in a single frame. For someone starting from zero whose floor space cannot accommodate separate pieces, it is the most exercise variety per square foot in this comparison. The functional trainer cables run dual stacks, the rack uprights accept standard J-cups and safety arms, and the lat tower has its own pulley system. The catch is redundancy: if you already own a standalone power rack, the G6's rack feature becomes wasted floor space. The build quality sits below Rogue's Monster series but above Inspire — appropriate for the price. Setup is a serious weekend project.",
+      "pros": [
+        "Power rack, functional trainer, lat pulldown, and row in one frame",
+        "Most exercise variety per square foot of any option here",
+        "Standard J-cup compatibility on the rack uprights",
+        "Build quality sits above Inspire FT2 for the integrated price"
+      ],
+      "cons": [
+        "Redundant rack feature for anyone who owns a power rack",
+        "Assembly is a weekend project requiring two people"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For a forever cable machine",
+      "offerId": "rogue-monster-cable-crossover",
+      "reason": "11-gauge steel and Rogue's Monster-series tolerances mean it performs the same a decade in."
+    },
+    {
+      "label": "For most home gyms",
+      "offerId": "inspire-fitness-ft2-functional-trainer",
+      "reason": "1:1 pulley ratio, 165-lb stacks, 19 positions, and a narrower footprint cover the broadest range of users."
+    },
+    {
+      "label": "For tight budgets and small spaces",
+      "offerId": "bowflex-pr3000-home-gym",
+      "reason": "210 lb of Power Rod resistance and 50-plus exercises replace multiple machines at the lowest price."
+    },
+    {
+      "label": "For 8-foot ceilings and quick setup",
+      "offerId": "valor-fitness-bd-62-cable-crossover",
+      "reason": "82-inch uprights and 30-45 minute assembly make it the realistic crossover for low-ceiling spaces."
+    },
+    {
+      "label": "For starting a home gym from zero",
+      "offerId": "force-usa-g6-functional-trainer",
+      "reason": "Power rack, functional trainer, lat tower, and row in one frame eliminate the need to buy separate pieces."
+    }
+  ]
 }

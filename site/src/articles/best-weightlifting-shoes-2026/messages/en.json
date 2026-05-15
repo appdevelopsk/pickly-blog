@@ -1,131 +1,151 @@
 {
-  "articles": {
-    "best-weightlifting-shoes-2026": {
-      "title": "Best Weightlifting Shoes 2026: 5 Pairs for Squats, Cleans, and Snatches",
-      "description": "Nike Romaleos vs Adidas Adipower vs Reebok Legacy — heel height, stability, and which shoe fits your training style.",
-      "intro": "Weightlifting shoes exist to solve one problem: the ankle mobility required for a deep squat doesn't match what most people's Achilles tendons allow. A raised heel compensates, letting you hit depth with a more upright torso. The secondary benefit is a rigid sole that transfers force directly to the floor — running shoes compress and absorb energy that should be going into the bar. Once you've squatted heavy in proper lifting shoes, flat shoes feel like squatting in sand.",
-      "products": {
-        "nike-romaleos-4-weightlifting": {
-          "name": "Nike Romaleos 4",
-          "badge": "Best Overall",
-          "review": "The Romaleos 4 is the shoe most competitive lifters default to when they don't have a strong brand preference. The 22mm heel is the standard for Olympic weightlifting, the toe box is wide enough for most feet without feeling loose, and the dual velcro straps lock the midfoot securely. Nike's construction quality is consistent across sizes. The sole is hard TPU — no give at all, which is what you want. Available in wide widths, which matters for lifters with broader feet.",
-          "pros": [
-            "Dual velcro straps lock foot with zero movement",
-            "22mm heel raise suits most squat depths",
-            "Breathable mesh upper reduces heat buildup"
-          ],
-          "cons": [
-            "Wide fit — may feel loose on narrow feet",
-            "Premium price for recreational lifters"
-          ]
-        },
-        "adidas-adipower-3-weightlifting": {
-          "name": "Adidas Adipower 3",
-          "badge": "Best for Olympic Lifting",
-          "review": "The Adipower runs narrower than the Romaleos and has a higher 24mm heel drop — both characteristics that appeal to Olympic-style lifters who want a more aggressive forward lean position for snatches and clean & jerks. The TPU heel counter is exceptionally rigid. If your primary focus is the snatch and clean & jerk rather than powerlifting squats, the extra 2mm of heel elevation makes a noticeable difference in ankle flexibility. Single strap rather than dual, but the fit is secure.",
-          "pros": [
-            "24mm heel — highest for deep squat access",
-            "Narrow last locks the midfoot precisely",
-            "TPU heel block transfers force directly"
-          ],
-          "cons": [
-            "Narrow fit won't work for wider feet",
-            "Higher heel requires adaptation period"
-          ]
-        },
-        "reebok-legacy-lifter-3": {
-          "name": "Reebok Legacy Lifter 3",
-          "badge": "Best for CrossFit",
-          "review": "The Legacy Lifter sits between a pure weightlifting shoe and a training shoe. The 22mm heel matches the standard, but the construction allows slightly more lateral flex than the Romaleos or Adipower — which is useful in CrossFit where you might go directly from barbell work into box jumps without changing shoes. Popular in the competitive CrossFit community as a result. Wide toe box, dual strap, and a robust upper that holds up to varied training demands.",
-          "pros": [
-            "22mm heel works for both Olympic lifts and gym training",
-            "Wide toe box fits CrossFit athletes' feet",
-            "Dual-use shoe at a reasonable price"
-          ],
-          "cons": [
-            "Heavier than pure Olympic lifting shoes",
-            "Less specialized than Adipower for competition"
-          ]
-        },
-        "inov8-fastlift-power-g380": {
-          "name": "Inov-8 Fastlift Power G 380",
-          "badge": "Best Lightweight",
-          "review": "Inov-8 uses graphene in the outsole compound to achieve a harder-than-standard surface without the weight penalty. At 380g per shoe, it's the lightest competition-viable lifting shoe. The 20mm heel is 2mm lower than the Nike/Adidas standard — this suits lifters with naturally good ankle mobility who find higher heels push them too far forward. Strong choice for lifters who travel to competitions and want to minimize pack weight.",
-          "pros": [
-            "Graphene outsole harder and lighter than standard rubber",
-            "Faster transitions between lifts",
-            "Narrower profile reduces weight significantly"
-          ],
-          "cons": [
-            "Priciest option in the category",
-            "Less heel support at very heavy loads"
-          ]
-        },
-        "do-win-weightlifting-shoes": {
-          "name": "Do-Win Weightlifting Shoes",
-          "badge": "Best Budget",
-          "review": "Do-Win is the open secret in weightlifting — a Chinese-manufactured shoe used by US national team members who compete in them under different brand names (American Barbell, Rogue, etc. have all sold Do-Win-manufactured shoes). The construction uses a solid wood heel block at 20mm, metatarsal strap, and a flat-soled design approved for competition. Half the price of Nike or Adidas with comparable functional performance. The upper is less refined and won't last as long, but as a first lifting shoe it's outstanding value.",
-          "pros": [
-            "Used by US national team members",
-            "Under $80 — fraction of Nike/Adidas price",
-            "Traditional heel block and strap design"
-          ],
-          "cons": [
-            "Limited availability outside specialty retailers",
-            "Finish quality lower than premium options"
-          ]
-        }
-      },
-      "buyingGuide": {
-        "title": "Weightlifting Shoes Buying Guide: Heel Height, Sole, and Fit",
-        "intro": "Heel height and sole rigidity are the two specs that determine whether a lifting shoe works for you. Everything else is secondary.",
-        "factors": [
-          {
-            "name": "Heel Height",
-            "detail": "Standard competitive heel height is 20–22mm (0.75 inches). Lifters with limited ankle mobility or those focusing on Olympic-style lifts (snatch, clean & jerk) often prefer 22–24mm for more forward lean. Lifters with good mobility who primarily low-bar squat sometimes prefer 20mm. Don't go lower than 20mm — flat shoes negate the primary benefit."
-          },
-          {
-            "name": "Sole Material",
-            "detail": "Heel blocks are made from TPU, EVA, or wood (traditional). Wood is the most rigid — zero compression, maximum force transfer. TPU is nearly as rigid and more durable for everyday gym use. EVA is softer and found on cheaper shoes that don't qualify as true weightlifting shoes."
-          },
-          {
-            "name": "Toe Box Width",
-            "detail": "Weightlifting shoes run narrow in most models. If you have wide feet, Romaleos 4 has the most accommodating toe box of the major brands. Try on at least two sizes before buying — lifting shoes should fit snugly without pinching. There's no break-in period; they should fit right immediately."
-          },
-          {
-            "name": "Strap Configuration",
-            "detail": "Dual straps (Romaleos, Legacy Lifter) provide more midfoot lockdown than single straps. Single straps are more common in Olympic weightlifting shoes (Adipower). Both work fine — preference tends to track how much lateral movement your training involves."
-          },
-          {
-            "name": "Competition Approval",
-            "detail": "If you plan to compete in Olympic weightlifting or powerlifting, check IWF/IPF approval status. Major brands (Nike, Adidas, Reebok, Do-Win) are approved. Some budget options are not, which only matters for competition — for training, approval status is irrelevant."
-          }
-        ]
-      },
-      "faqs": [
-        {
-          "q": "Do I need weightlifting shoes for squats?",
-          "a": "Not required, but beneficial for most people. If you have good ankle mobility and can reach parallel with a flat back in flat shoes, lifting shoes won't dramatically change your squat. If you struggle to hit depth, lean forward excessively, or feel your heels rising, weightlifting shoes will likely improve your squat immediately. Almost universal recommendation for Olympic-style squats (high bar, front squat)."
-        },
-        {
-          "q": "Can I use weightlifting shoes for deadlifts?",
-          "a": "No. For deadlifts, flat shoes or barefoot is correct — you want the shortest possible distance between the ground and the bar. The raised heel in weightlifting shoes adds a few centimeters to the range of motion and puts you in a biomechanically disadvantaged position for the pull. Many lifters change shoes between squat and deadlift sets."
-        },
-        {
-          "q": "How long do weightlifting shoes last?",
-          "a": "A quality pair like Romaleos or Adipower lasts 3–5 years with heavy use (4+ sessions per week). The heel block outlasts the upper in most cases. Watch for the strap velcro losing grip and the upper separating from the sole — both are signs the shoe needs replacing. Budget options like Do-Win last 1–3 years."
-        },
-        {
-          "q": "What heel height should I start with?",
-          "a": "Start with 20–22mm, which is the competition standard. If after 3–6 months you find the heel too high (forward balance issues) or too low (still struggling with depth), adjust. Most people never need to move away from the 20–22mm standard."
-        },
-        {
-          "q": "Can women use men's weightlifting shoes?",
-          "a": "Yes, many women prefer the wider toe box in men's shoes. Size down approximately 1.5 sizes when converting from women's to men's US sizing. Women-specific models from Nike and Adidas are available and have slimmer last construction. Try both if you have access — foot width matters more than gender designation."
-        }
+  "title": "Best Weightlifting Shoes 2026: 5 Pairs for Squats, Cleans, and Snatches",
+  "description": "Nike Romaleos vs Adidas Adipower vs Reebok Legacy — heel height, stability, and which shoe fits your training style.",
+  "lede": "Weightlifting shoes exist to solve one problem: the ankle mobility required for a deep squat doesn't match what most people's Achilles tendons allow. A raised heel compensates, letting you hit depth with a more upright torso. The secondary benefit is a rigid sole that transfers force directly to the floor — running shoes compress and absorb energy that should be going into the bar. Once you've squatted heavy in proper lifting shoes, flat shoes feel like squatting in sand.",
+  "sections": [
+    {
+      "heading": "Weightlifting Shoes Buying Guide: Heel Height, Sole, and Fit",
+      "paragraphs": [
+        "Heel height and sole rigidity are the two specs that determine whether a lifting shoe works for you. Everything else is secondary."
       ],
-      "conclusion": "For most lifters, the Romaleos 4 is the right starting point — it fits the widest range of foot shapes, the heel height is competition standard, and Nike's sizing consistency makes online ordering reliable. The Adipower 3 is worth it if Olympic lifting is your primary focus. Do-Win is the answer if you want to try lifting shoes without a major financial commitment."
+      "subsections": [
+        {
+          "heading": "Heel Height",
+          "paragraphs": [
+            "Standard competitive heel height is 20–22mm (0.75 inches). Lifters with limited ankle mobility or those focusing on Olympic-style lifts (snatch, clean & jerk) often prefer 22–24mm for more forward lean. Lifters with good mobility who primarily low-bar squat sometimes prefer 20mm. Don't go lower than 20mm — flat shoes negate the primary benefit."
+          ]
+        },
+        {
+          "heading": "Sole Material",
+          "paragraphs": [
+            "Heel blocks are made from TPU, EVA, or wood (traditional). Wood is the most rigid — zero compression, maximum force transfer. TPU is nearly as rigid and more durable for everyday gym use. EVA is softer and found on cheaper shoes that don't qualify as true weightlifting shoes."
+          ]
+        },
+        {
+          "heading": "Toe Box Width",
+          "paragraphs": [
+            "Weightlifting shoes run narrow in most models. If you have wide feet, Romaleos 4 has the most accommodating toe box of the major brands. Try on at least two sizes before buying — lifting shoes should fit snugly without pinching. There's no break-in period; they should fit right immediately."
+          ]
+        },
+        {
+          "heading": "Strap Configuration",
+          "paragraphs": [
+            "Dual straps (Romaleos, Legacy Lifter) provide more midfoot lockdown than single straps. Single straps are more common in Olympic weightlifting shoes (Adipower). Both work fine — preference tends to track how much lateral movement your training involves."
+          ]
+        },
+        {
+          "heading": "Competition Approval",
+          "paragraphs": [
+            "If you plan to compete in Olympic weightlifting or powerlifting, check IWF/IPF approval status. Major brands (Nike, Adidas, Reebok, Do-Win) are approved. Some budget options are not, which only matters for competition — for training, approval status is irrelevant."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Bottom line",
+      "paragraphs": [
+        "For most lifters, the Romaleos 4 is the right starting point — it fits the widest range of foot shapes, the heel height is competition standard, and Nike's sizing consistency makes online ordering reliable. The Adipower 3 is worth it if Olympic lifting is your primary focus. Do-Win is the answer if you want to try lifting shoes without a major financial commitment."
+      ]
     }
-  },
+  ],
+  "faqs": [
+    {
+      "q": "Do I need weightlifting shoes for squats?",
+      "a": "Not required, but beneficial for most people. If you have good ankle mobility and can reach parallel with a flat back in flat shoes, lifting shoes won't dramatically change your squat. If you struggle to hit depth, lean forward excessively, or feel your heels rising, weightlifting shoes will likely improve your squat immediately. Almost universal recommendation for Olympic-style squats (high bar, front squat)."
+    },
+    {
+      "q": "Can I use weightlifting shoes for deadlifts?",
+      "a": "No. For deadlifts, flat shoes or barefoot is correct — you want the shortest possible distance between the ground and the bar. The raised heel in weightlifting shoes adds a few centimeters to the range of motion and puts you in a biomechanically disadvantaged position for the pull. Many lifters change shoes between squat and deadlift sets."
+    },
+    {
+      "q": "How long do weightlifting shoes last?",
+      "a": "A quality pair like Romaleos or Adipower lasts 3–5 years with heavy use (4+ sessions per week). The heel block outlasts the upper in most cases. Watch for the strap velcro losing grip and the upper separating from the sole — both are signs the shoe needs replacing. Budget options like Do-Win last 1–3 years."
+    },
+    {
+      "q": "What heel height should I start with?",
+      "a": "Start with 20–22mm, which is the competition standard. If after 3–6 months you find the heel too high (forward balance issues) or too low (still struggling with depth), adjust. Most people never need to move away from the 20–22mm standard."
+    },
+    {
+      "q": "Can women use men's weightlifting shoes?",
+      "a": "Yes, many women prefer the wider toe box in men's shoes. Size down approximately 1.5 sizes when converting from women's to men's US sizing. Women-specific models from Nike and Adidas are available and have slimmer last construction. Try both if you have access — foot width matters more than gender designation."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "nike-romaleos-4-weightlifting",
+      "badge": "Best Overall",
+      "review": "The Romaleos 4 is the shoe most competitive lifters default to when they don't have a strong brand preference. The 22mm heel is the standard for Olympic weightlifting, the toe box is wide enough for most feet without feeling loose, and the dual velcro straps lock the midfoot securely. Nike's construction quality is consistent across sizes. The sole is hard TPU — no give at all, which is what you want. Available in wide widths, which matters for lifters with broader feet.",
+      "pros": [
+        "Dual velcro straps lock foot with zero movement",
+        "22mm heel raise suits most squat depths",
+        "Breathable mesh upper reduces heat buildup"
+      ],
+      "cons": [
+        "Wide fit — may feel loose on narrow feet",
+        "Premium price for recreational lifters"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "adidas-adipower-3-weightlifting",
+      "badge": "Best for Olympic Lifting",
+      "review": "The Adipower runs narrower than the Romaleos and has a higher 24mm heel drop — both characteristics that appeal to Olympic-style lifters who want a more aggressive forward lean position for snatches and clean & jerks. The TPU heel counter is exceptionally rigid. If your primary focus is the snatch and clean & jerk rather than powerlifting squats, the extra 2mm of heel elevation makes a noticeable difference in ankle flexibility. Single strap rather than dual, but the fit is secure.",
+      "pros": [
+        "24mm heel — highest for deep squat access",
+        "Narrow last locks the midfoot precisely",
+        "TPU heel block transfers force directly"
+      ],
+      "cons": [
+        "Narrow fit won't work for wider feet",
+        "Higher heel requires adaptation period"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "reebok-legacy-lifter-3",
+      "badge": "Best for CrossFit",
+      "review": "The Legacy Lifter sits between a pure weightlifting shoe and a training shoe. The 22mm heel matches the standard, but the construction allows slightly more lateral flex than the Romaleos or Adipower — which is useful in CrossFit where you might go directly from barbell work into box jumps without changing shoes. Popular in the competitive CrossFit community as a result. Wide toe box, dual strap, and a robust upper that holds up to varied training demands.",
+      "pros": [
+        "22mm heel works for both Olympic lifts and gym training",
+        "Wide toe box fits CrossFit athletes' feet",
+        "Dual-use shoe at a reasonable price"
+      ],
+      "cons": [
+        "Heavier than pure Olympic lifting shoes",
+        "Less specialized than Adipower for competition"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "inov8-fastlift-power-g380",
+      "badge": "Best Lightweight",
+      "review": "Inov-8 uses graphene in the outsole compound to achieve a harder-than-standard surface without the weight penalty. At 380g per shoe, it's the lightest competition-viable lifting shoe. The 20mm heel is 2mm lower than the Nike/Adidas standard — this suits lifters with naturally good ankle mobility who find higher heels push them too far forward. Strong choice for lifters who travel to competitions and want to minimize pack weight.",
+      "pros": [
+        "Graphene outsole harder and lighter than standard rubber",
+        "Faster transitions between lifts",
+        "Narrower profile reduces weight significantly"
+      ],
+      "cons": [
+        "Priciest option in the category",
+        "Less heel support at very heavy loads"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "do-win-weightlifting-shoes",
+      "badge": "Best Budget",
+      "review": "Do-Win is the open secret in weightlifting — a Chinese-manufactured shoe used by US national team members who compete in them under different brand names (American Barbell, Rogue, etc. have all sold Do-Win-manufactured shoes). The construction uses a solid wood heel block at 20mm, metatarsal strap, and a flat-soled design approved for competition. Half the price of Nike or Adidas with comparable functional performance. The upper is less refined and won't last as long, but as a first lifting shoe it's outstanding value.",
+      "pros": [
+        "Used by US national team members",
+        "Under $80 — fraction of Nike/Adidas price",
+        "Traditional heel block and strap design"
+      ],
+      "cons": [
+        "Limited availability outside specialty retailers",
+        "Finish quality lower than premium options"
+      ],
+      "grade": "B+"
+    }
+  ],
   "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
 }
