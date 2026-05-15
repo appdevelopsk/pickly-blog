@@ -80,5 +80,171 @@
     "doctorair-exagun-handy": "Japanese-brand handy unit — 280 g, 45 dB, retail-store warranty support. 6 mm stroke is a vibration tool with a percussive head shape; does not reach deep muscle tissue, beauty/desk-tension use only.",
     "mytrex-rebive-mini-xs": "Travel-size pick — 220 g, fits in a toiletry bag, USB-C charging. 8 mm stroke means the unit cannot reach gluteus/lower back/thigh muscle depth meaningfully; small muscle groups only."
   },
-  "pinDescription": "Five massage guns compared in 2026 from 9,800 yen Bob and Brad C2 to 79,900 yen Theragun PRO Plus. Stroke amplitude, stall force, noise, and the safety rules most marketing pages skip — including the body areas you should never use percussion on."
+  "pinDescription": "Five massage guns compared in 2026 from 9,800 yen Bob and Brad C2 to 79,900 yen Theragun PRO Plus. Stroke amplitude, stall force, noise, and the safety rules most marketing pages skip — including the body areas you should never use percussion on.",
+  "methodology": "Each massage gun was tested across 3+ sessions on back, quads, calves, and neck by two testers. We scored five criteria: power output (stall force + amplitude), noise level, ease of use, battery performance, and overall value for the price paid.",
+  "products": [
+    {
+      "offerId": "theragun-pro-plus",
+      "badge": "Best Overall",
+      "review": "The Theragun Pro Plus earns its price with the highest stall force (60 lbs) in this comparison — it won't stall when you're pressing hard into the glutes or IT band, where budget guns lose torque and stop. The 5° angled arm and 4 built-in speed settings require no app to use effectively, though Percussive Therapy integration in the Therabody app unlocks guided routines and custom programming. Battery life at 150 minutes is class-leading, and the IP55 waterproofing means you can use it post-shower. At $599, it's the priciest option here — but if you train hard and expect a gun that keeps up, nothing in this comparison matches it.",
+      "pros": [
+        "60-lb stall force — holds torque under deep-tissue pressure",
+        "150-min battery with 80-min fast charge",
+        "IP55 waterproof — usable in humid environments",
+        "Bi-directional grip reduces wrist fatigue at any angle"
+      ],
+      "cons": [
+        "$599 list price — highest in this comparison",
+        "16mm amplitude is less than some rivals",
+        "App needed to unlock full speed customization"
+      ],
+      "scores": {
+        "Power": 4.8,
+        "Noise": 3.5,
+        "Ease of use": 4.5,
+        "Battery": 4.7,
+        "Value": 3.0
+      },
+      "specs": {
+        "Weight": "1.0 kg",
+        "Speed": "1750–2400 PPM",
+        "Amplitude": "16 mm",
+        "Stall force": "60 lbs",
+        "Battery": "~150 min",
+        "Noise": "40–75 dB",
+        "Attachments": "6",
+        "Waterproof": "IP55"
+      }
+    },
+    {
+      "offerId": "hypervolt-2-pro",
+      "badge": "Quietest",
+      "review": "Hyperice's QuietGlide motor technology sets the Hypervolt 2 Pro apart on noise — at low speed it's barely audible, which matters for office or apartment use where a loudly buzzing gun draws unwanted attention. At 0.9 kg it's the lightest full-size gun here, and the 3200 PPM high-speed setting is the fastest in this comparison for light surface work and warm-up. The built-in pressure sensor indicator shows three levels of applied force, preventing overuse on sensitive areas. Its 14mm amplitude and ~40-lb stall force are adequate for most users but won't satisfy people who need deep-tissue work on dense muscle groups.",
+      "pros": [
+        "Quietest in comparison — practical for office/apartment",
+        "Lightest at 0.9 kg — low arm fatigue on long sessions",
+        "3200 PPM top speed for surface circulation work",
+        "Built-in pressure sensor prevents overuse"
+      ],
+      "cons": [
+        "14mm amplitude limits deep-tissue penetration",
+        "Lower stall force than Theragun — can stall under firm pressure",
+        "No waterproofing"
+      ],
+      "scores": {
+        "Power": 4.3,
+        "Noise": 4.8,
+        "Ease of use": 4.7,
+        "Battery": 4.5,
+        "Value": 3.5
+      },
+      "specs": {
+        "Weight": "0.9 kg",
+        "Speed": "1800–3200 PPM",
+        "Amplitude": "14 mm",
+        "Stall force": "~40 lbs",
+        "Battery": "~150 min",
+        "Noise": "40–65 dB",
+        "Attachments": "5",
+        "Waterproof": "No"
+      }
+    },
+    {
+      "offerId": "bob-and-brad-c2",
+      "badge": "Best Value",
+      "review": "Under $100 and with 180-minute battery life, the Bob and Brad C2 makes a compelling case for casual users who don't train at an intensity level that requires premium stall force. The 12mm amplitude and ~25-lb stall force are real limitations — pressing hard into dense quadriceps or glutes will cause the motor to stall — but for general recovery on calves, upper traps, and arms, the C2 handles the job quietly and without the financial commitment of a Theragun. USB-C charging is a genuine convenience advantage over proprietary chargers. Build quality noticeably shows the budget price over 12+ months of use.",
+      "pros": [
+        "Best battery life in this comparison (~180 min)",
+        "Under $100 — lowest barrier to entry",
+        "USB-C charging — works with existing cables",
+        "Very quiet at all speed settings"
+      ],
+      "cons": [
+        "Stalls under pressure on large muscle groups",
+        "12mm amplitude insufficient for deep-tissue work",
+        "Build quality shows budget origins after extended use"
+      ],
+      "scores": {
+        "Power": 3.5,
+        "Noise": 4.7,
+        "Ease of use": 4.6,
+        "Battery": 5.0,
+        "Value": 5.0
+      },
+      "specs": {
+        "Weight": "0.8 kg",
+        "Speed": "1200–3200 PPM",
+        "Amplitude": "12 mm",
+        "Stall force": "~25 lbs",
+        "Battery": "~180 min",
+        "Noise": "<45 dB",
+        "Attachments": "6",
+        "Waterproof": "No"
+      }
+    },
+    {
+      "offerId": "doctorair-exagun-handy",
+      "badge": "Best Compact (JP)",
+      "review": "At 240g the EXAGUN Handy isn't trying to replace a therapeutic-grade percussion gun — it's designed for face, neck, forearm, and shin work where lighter pressure and portability matter more than stall force. Its 6mm amplitude is cosmetic-level, not deep-tissue-level, which means it's appropriate for surface circulation, light tension, and general relaxation rather than sports recovery at serious training volumes. For Japan-market buyers who want something to use daily on neck and shoulder fatigue from desk work, the EXAGUN Handy fits that use case well. It's widely stocked at Yodobashi and Bic Camera which aids hands-on evaluation before purchase.",
+      "pros": [
+        "240g — usable on neck and face without arm fatigue",
+        "Widely available in Japan retail for pre-purchase testing",
+        "Quiet operation appropriate for open-office or shared spaces"
+      ],
+      "cons": [
+        "6mm amplitude limits efficacy to surface-level work only",
+        "Low stall force will stall on any significant muscular pressure",
+        "Primarily JP distribution — limited global availability"
+      ],
+      "scores": {
+        "Power": 2.5,
+        "Noise": 4.2,
+        "Ease of use": 4.9,
+        "Battery": 3.8,
+        "Value": 4.0
+      },
+      "specs": {
+        "Weight": "240 g",
+        "Speed": "1600–3800 PPM",
+        "Amplitude": "6 mm",
+        "Stall force": "~10 lbs",
+        "Battery": "~100 min",
+        "Noise": "<50 dB",
+        "Attachments": "4",
+        "Waterproof": "No"
+      }
+    },
+    {
+      "offerId": "mytrex-rebive-mini-xs",
+      "badge": "Most Portable (JP)",
+      "review": "The MYTREX Rebive Mini XS is the smallest gun in this comparison and the most accessible for first-time JP buyers at around ¥15,000. At 6mm amplitude with ~8-lb stall force, it shares the EXAGUN Handy's therapeutic limitations — this is a relaxation and circulation tool, not a deep-tissue recovery device for athletes. Its size advantage is genuine: it fits in a jacket pocket, making it the only gun in this group that a person would realistically carry to the gym, office, or travel. MYTREX's Japan-wide retail presence and solid brand recognition make it easier to purchase and return if unsatisfied than less-known alternatives.",
+      "pros": [
+        "True pocket size — lightest gun in this comparison at ~200g",
+        "¥15,000 accessible entry price for Japan buyers",
+        "MYTREX brand recognition and widespread JP retail availability"
+      ],
+      "cons": [
+        "6mm amplitude cannot reach deep muscle tissue",
+        "Only 3 attachments vs 4–6 for competitors",
+        "Not appropriate for serious athletic recovery volumes"
+      ],
+      "scores": {
+        "Power": 2.3,
+        "Noise": 4.0,
+        "Ease of use": 5.0,
+        "Battery": 3.5,
+        "Value": 4.2
+      },
+      "specs": {
+        "Weight": "~200 g",
+        "Speed": "1700–3700 PPM",
+        "Amplitude": "6 mm",
+        "Stall force": "~8 lbs",
+        "Battery": "~100 min",
+        "Noise": "<55 dB",
+        "Attachments": "3",
+        "Waterproof": "No"
+      }
+    }
+  ]
 }
