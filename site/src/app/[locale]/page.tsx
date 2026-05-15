@@ -10,13 +10,15 @@ import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
 
 function getThumbnail(article: ArticleMeta, locale: string): string | null {
-  if (article.ogImage && article.ogImage !== "auto") return `${article.ogImage}-${locale}.png`;
+  // Product photos from catalog (best for card display)
   for (const offerId of article.offerIds) {
     const offer = CATALOG.find((o) => o.id === offerId);
     if (!offer) continue;
     const img = getOfferImageUrl(offer);
     if (img) return img;
   }
+  // Fall back to OG image (dark gradient Pinterest cards — only if no product photo)
+  if (article.ogImage && article.ogImage !== "auto") return `${article.ogImage}-${locale}.png`;
   return null;
 }
 
