@@ -21,7 +21,7 @@ const PINS_PATH = path.resolve(__dirname, "pins.yaml");
 const ARTICLES_DIR = path.resolve(__dirname, "../../site/src/articles");
 const SITE_URL = "https://pickly.blog";
 
-const NEW_LOCALES = ["es", "pt-BR", "de", "fr", "it"] as const;
+const NEW_LOCALES = ["es", "pt-BR", "de", "fr", "it", "ko"] as const;
 type NewLocale = (typeof NEW_LOCALES)[number];
 
 // Locale → language labels for hashtags
@@ -31,6 +31,7 @@ const LOCALE_LANG: Record<NewLocale, string> = {
   de: "de",
   fr: "fr",
   it: "it",
+  ko: "ko",
 };
 
 // Variant angle suffixes per locale (so each pin has a distinct title)
@@ -74,6 +75,14 @@ const VARIANT_SUFFIX: Record<NewLocale, Record<string, string>> = {
     budget: "miglior rapporto qualita-prezzo",
     avoid: "errori da evitare",
     scene: "guida all'acquisto 2026",
+  },
+  ko: {
+    comparison: "완전 비교",
+    top1: "2026년 최고",
+    problem: "가장 흔한 문제 해결",
+    budget: "가격 대비 최고",
+    avoid: "피해야 할 실수",
+    scene: "2026년 구매 가이드",
   },
 };
 
