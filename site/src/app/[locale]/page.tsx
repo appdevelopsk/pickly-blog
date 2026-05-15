@@ -8,19 +8,42 @@ import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
+import type { AffiliateOffer } from "@/lib/affiliates/types";
+
+// ── Helpers ──────────────────────────────────────────────────────────────────
 
 function getThumbnail(article: ArticleMeta, locale: string): string | null {
-  // Product photos from catalog (best for card display)
   for (const offerId of article.offerIds) {
     const offer = CATALOG.find((o) => o.id === offerId);
     if (!offer) continue;
     const img = getOfferImageUrl(offer);
     if (img) return img;
   }
-  // Fall back to OG image (dark gradient Pinterest cards — only if no product photo)
   if (article.ogImage && article.ogImage !== "auto") return `${article.ogImage}-${locale}.png`;
   return null;
 }
+
+function getFirstOffer(article: ArticleMeta): AffiliateOffer | null {
+  for (const offerId of article.offerIds) {
+    const offer = CATALOG.find((o) => o.id === offerId);
+    if (offer) return offer;
+  }
+  return null;
+}
+
+function isNew(article: ArticleMeta): boolean {
+  const pub = new Date(article.publishedAt);
+  const cutoff = new Date("2026-05-08");
+  return pub >= cutoff;
+}
+
+const TYPE_LABELS: Record<string, string> = {
+  comparison: "Comparison",
+  review: "Review",
+  guide: "Guide",
+};
+
+// ── Constants ─────────────────────────────────────────────────────────────────
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -45,6 +68,8 @@ interface Props {
   params: Promise<{ locale: string }>;
 }
 
+// ── Page ──────────────────────────────────────────────────────────────────────
+
 export default async function HomePage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
@@ -55,7 +80,6 @@ export default async function HomePage({ params }: Props) {
   const recent = articles.slice(-16).reverse();
   const [featured, ...gridArticles] = recent;
 
-  // Category counts across all articles
   const categoryCounts: Record<string, number> = {};
   for (const a of allArticles) {
     categoryCounts[a.category] = (categoryCounts[a.category] ?? 0) + 1;
@@ -85,7 +109,6 @@ export default async function HomePage({ params }: Props) {
   try { subheading = t("home.subheading"); } catch { /* missing */ }
   try { navArticles = t("nav.articles"); } catch { /* missing */ }
 
-  // Get title/description for an article
   function getArticleText(a: ArticleMeta) {
     let title = a.slug.replace(/-/g, " ");
     let description = "";
@@ -102,21 +125,18 @@ export default async function HomePage({ params }: Props) {
 
       <div className="mx-auto max-w-5xl px-4 pb-20">
 
-        {/* ── Hero ─────────────────────────────────────── */}
+        {/* ── Hero ──────────────────────────────────────── */}
         <section className="py-14 text-center md:py-20">
-          {/* Live indicator + count */}
           <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-slate-200 bg-slate-50 px-4 py-1.5 text-xs font-semibold text-slate-500 tracking-wide">
             <span className="inline-block h-1.5 w-1.5 animate-pulse rounded-full bg-green-500" />
             {articles.length} reviews &nbsp;·&nbsp; 17 languages
           </div>
-
           <h1 className="mx-auto mb-4 max-w-2xl text-4xl font-black tracking-tight text-slate-900 md:text-5xl lg:text-6xl">
             {heading}
           </h1>
           <p className="mx-auto max-w-lg text-lg leading-relaxed text-slate-500">
             {subheading}
           </p>
-
           <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
             <Link
               href="/articles"
@@ -127,7 +147,7 @@ export default async function HomePage({ params }: Props) {
           </div>
         </section>
 
-        {/* ── Category pills ───────────────────────────── */}
+        {/* ── Category pills ────────────────────────────── */}
         {topCategories.length > 0 && (
           <nav className="mb-12 flex flex-wrap justify-center gap-2">
             {topCategories.map((cat) => {
@@ -148,18 +168,21 @@ export default async function HomePage({ params }: Props) {
           </nav>
         )}
 
-        {/* ── Content ──────────────────────────────────── */}
+        {/* ── Content ───────────────────────────────────── */}
         {recent.length === 0 ? (
-          <p className="rounded-xl bg-amber-50 p-6 text-amber-800">
-            {t("home.empty")}
-          </p>
+          <p className="rounded-xl bg-amber-50 p-6 text-amber-800">{t("home.empty")}</p>
         ) : (
           <>
-            {/* Featured article – large card */}
+            {/* ── Featured card ── */}
             {featured && (() => {
               const { title, description, catLabel } = getArticleText(featured);
               const imgSrc = getThumbnail(featured, locale);
               const isProductImg = imgSrc && !imgSrc.includes("/og/");
+              const offer = getFirstOffer(featured);
+              const badge = offer?.badge;
+              const price = offer?.price;
+              const typeLabel = TYPE_LABELS[featured.type] ?? featured.type;
+              const picksCount = featured.offerIds.length;
               return (
                 <Link
                   href={`/articles/${featured.slug}`}
@@ -177,15 +200,32 @@ export default async function HomePage({ params }: Props) {
                     >
                       <CategoryPlaceholder category={featured.category} title={title} />
                     </ArticleCardImage>
+                    {/* Category badge */}
                     <span className="absolute left-3 top-3 rounded-full bg-white/95 border border-slate-200 px-3 py-1 text-xs font-semibold text-slate-700 shadow-sm">
                       {CATEGORY_ICONS[featured.category] ?? ""} {catLabel}
                     </span>
+                    {/* Price chip */}
+                    {price && (
+                      <span className="absolute bottom-3 right-3 rounded-full bg-white/95 border border-slate-200 px-3 py-1 text-xs font-bold text-slate-800 shadow-sm">
+                        from {price}
+                      </span>
+                    )}
                   </div>
                   {/* Text */}
                   <div className="flex flex-1 flex-col justify-center p-6 sm:p-8">
-                    <p className="mb-2 text-xs font-semibold uppercase tracking-widest text-brand-600">
-                      Featured
-                    </p>
+                    {/* Type + picks meta */}
+                    <div className="mb-3 flex items-center gap-2">
+                      <span className="rounded-full bg-brand-50 border border-brand-200 px-2.5 py-0.5 text-[11px] font-bold text-brand-700 uppercase tracking-wide">
+                        Featured
+                      </span>
+                      <span className="text-xs text-slate-400">{typeLabel} · {picksCount} picks</span>
+                    </div>
+                    {/* Editor badge */}
+                    {badge && (
+                      <p className="mb-1.5 text-xs font-semibold text-amber-600">
+                        🏆 {badge}
+                      </p>
+                    )}
                     <h2 className="mb-3 text-xl font-black leading-snug text-slate-900 transition-colors group-hover:text-brand-700 sm:text-2xl">
                       {title}
                     </h2>
@@ -202,12 +242,18 @@ export default async function HomePage({ params }: Props) {
               );
             })()}
 
-            {/* Article grid */}
+            {/* ── Article grid ── */}
             <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {gridArticles.slice(0, 12).map((a) => {
                 const { title, description, catLabel } = getArticleText(a);
                 const imgSrc = getThumbnail(a, locale);
                 const isProductImg = imgSrc && !imgSrc.includes("/og/");
+                const offer = getFirstOffer(a);
+                const badge = offer?.badge;
+                const price = offer?.price;
+                const picksCount = a.offerIds.length;
+                const typeLabel = TYPE_LABELS[a.type] ?? a.type;
+                const newArticle = isNew(a);
                 return (
                   <li key={a.slug}>
                     <Link
@@ -215,10 +261,7 @@ export default async function HomePage({ params }: Props) {
                       className="group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-brand-200 hover:shadow-lg"
                     >
                       {/* Thumbnail */}
-                      <div
-                        className="relative shrink-0 overflow-hidden bg-slate-100"
-                        style={{ aspectRatio: isProductImg ? "4/3" : "4/3" }}
-                      >
+                      <div className="relative shrink-0 overflow-hidden bg-slate-100" style={{ aspectRatio: "4/3" }}>
                         <ArticleCardImage
                           src={imgSrc}
                           alt={title}
@@ -226,24 +269,49 @@ export default async function HomePage({ params }: Props) {
                         >
                           <CategoryPlaceholder category={a.category} title={title} />
                         </ArticleCardImage>
+                        {/* Category */}
                         <span className="absolute left-2.5 top-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-semibold text-slate-700 shadow-sm">
                           {catLabel}
                         </span>
+                        {/* NEW badge */}
+                        {newArticle && (
+                          <span className="absolute right-2.5 top-2.5 rounded-full bg-green-500 px-2 py-0.5 text-[10px] font-bold text-white shadow-sm">
+                            NEW
+                          </span>
+                        )}
+                        {/* Price chip */}
+                        {price && (
+                          <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-bold text-slate-800 shadow-sm">
+                            {price}
+                          </span>
+                        )}
                       </div>
 
                       {/* Text */}
                       <div className="flex flex-1 flex-col p-4">
+                        {/* Editor badge */}
+                        {badge && (
+                          <p className="mb-1 truncate text-[11px] font-semibold text-amber-600">
+                            🏆 {badge}
+                          </p>
+                        )}
                         <h2 className="text-sm font-bold leading-snug text-slate-900 transition-colors group-hover:text-brand-700 line-clamp-2">
                           {title}
                         </h2>
                         {description && (
-                          <p className="mt-2 flex-1 text-xs leading-relaxed text-slate-500 line-clamp-2">
+                          <p className="mt-1.5 flex-1 text-xs leading-relaxed text-slate-400 line-clamp-2">
                             {description}
                           </p>
                         )}
-                        <p className="mt-3 text-xs font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">
-                          Read →
-                        </p>
+                        {/* Footer meta */}
+                        <div className="mt-3 flex items-center justify-between">
+                          <span className="text-[11px] text-slate-400">
+                            {typeLabel} · {picksCount} picks
+                          </span>
+                          <span className="text-[11px] font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">
+                            Read →
+                          </span>
+                        </div>
                       </div>
                     </Link>
                   </li>
@@ -253,7 +321,7 @@ export default async function HomePage({ params }: Props) {
           </>
         )}
 
-        {/* ── View all CTA ─────────────────────────────── */}
+        {/* ── View all CTA ──────────────────────────────── */}
         {articles.length > 13 && (
           <div className="mt-14 text-center">
             <Link
@@ -265,7 +333,7 @@ export default async function HomePage({ params }: Props) {
           </div>
         )}
 
-        {/* ── Trust strip ──────────────────────────────── */}
+        {/* ── Trust strip ───────────────────────────────── */}
         <div className="mt-20 flex flex-wrap justify-center gap-8 border-t border-slate-100 pt-10 text-center">
           {[
             { num: articles.length.toString(), label: "Curated reviews" },
@@ -301,9 +369,7 @@ export async function generateMetadata({ params }: Props) {
     description,
     alternates: {
       canonical: canonicalUrl,
-      languages: Object.fromEntries(
-        LOCALES.map((l) => [l, `${SITE_URL}/${l}/`]),
-      ),
+      languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/`])),
     },
     openGraph: {
       type: "website",
@@ -313,13 +379,7 @@ export async function generateMetadata({ params }: Props) {
       siteName: "Pickly",
       locale,
     },
-    twitter: {
-      card: "summary",
-      title,
-      description,
-    },
-    other: {
-      "article:count": String(articles.length),
-    },
+    twitter: { card: "summary", title, description },
+    other: { "article:count": String(articles.length) },
   };
 }
