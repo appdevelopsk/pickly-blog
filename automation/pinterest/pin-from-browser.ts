@@ -220,6 +220,7 @@ async function main() {
   const limit = parseInt(get("--limit") ?? "5", 10);
   const localeFilter = get("--locale");
   const genreFilter = get("--genre");
+  const useDefault = args.includes("--use-default"); // 全ピンをデフォルトアカウントで投稿
   const dryRun = args.includes("--dry-run");
 
   const raw = fs.readFileSync(PINS_PATH, "utf8");
@@ -231,10 +232,11 @@ async function main() {
   const posted = loadPosted();
   pins = pins.filter((p) => !posted.has(p.pin_id));
 
-  // ジャンル別にピンをグループ化
+  // ジャンル別にピンをグループ化（--use-default 時は全ピンをデフォルトアカウントに集約）
+  const defaultAccount = ACCOUNTS.find((a) => a.genre === "default")!;
   const accountPins = new Map<string, Pin[]>();
   for (const pin of pins) {
-    const account = resolveAccount(pin.board);
+    const account = useDefault ? defaultAccount : resolveAccount(pin.board);
     if (genreFilter && account.genre !== genreFilter) continue;
     const key = account.genre;
     if (!accountPins.has(key)) accountPins.set(key, []);
