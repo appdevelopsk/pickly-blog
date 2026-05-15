@@ -48,6 +48,7 @@
     "pinterest:post-yaml": "tsx pinterest/post-from-yaml.ts",
     "pinterest:export-csv": "tsx pinterest/export-csv.ts",
     "pinterest:upload-csv": "tsx pinterest/upload-csv.ts",
+    "pinterest:pin": "tsx pinterest/pin-from-browser.ts",
     "check:images": "tsx check-image-urls.ts"
   },
   "devDependencies": {
