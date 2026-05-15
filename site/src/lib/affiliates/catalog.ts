@@ -21993,11 +21993,10 @@ export function getOffersFor(
 
 /**
  * Offer から、指定marketで使える最良のASPリンクを1つ選ぶ。
- * 優先順: 完全market一致 > "global"フォールバック。
+ * 優先順: 完全market一致 > EU フォールバック(FR/ES/IT) > global > US(globalのみ)
  *
- * 重要: 異なる market のリンク (例: 米国ユーザーに楽天JPリンク)
- * は返さない。間違ったリージョンの店舗に飛ばすと UX 悪化 + 報酬発生せず。
- * その場合は呼び出し側で「あなたの地域では未対応」表示する。
+ * global market (ko/ar/hi/id/th/vi/tr/ru) は US リンクを最終フォールバックとして使う。
+ * Amazon.com は国際配送・転送サービス経由で全世界から購入可能なため許容範囲。
  */
 export function pickLink(
   offer: AffiliateOffer,
@@ -22012,6 +22011,7 @@ export function pickLink(
     candidates.find((l) => l.markets.includes(market)) ??
     (euFallback ? candidates.find((l) => l.markets.includes(euFallback)) : null) ??
     candidates.find((l) => l.markets.includes("global")) ??
+    (market === "global" ? candidates.find((l) => l.markets.includes("US")) : null) ??
     null
   );
 }
