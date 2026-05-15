@@ -94,8 +94,26 @@ export function ArticleBody({ meta, content, offers }: Props) {
             {content.lede}
           </p>
         )}
+        {/* Expert reviewer block */}
+        {content.expert && (
+          <div className="mt-4 flex items-start gap-3 rounded-xl bg-slate-50 border border-slate-200 px-4 py-3">
+            {content.expert.imageUrl ? (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img src={content.expert.imageUrl} alt={content.expert.name} className="w-10 h-10 rounded-full object-cover shrink-0 border border-slate-200" />
+            ) : (
+              <div className="w-10 h-10 rounded-full bg-brand-100 shrink-0 flex items-center justify-center text-brand-600 font-black text-sm border border-brand-200">
+                {content.expert.name.charAt(0)}
+              </div>
+            )}
+            <div className="min-w-0">
+              <p className="text-xs font-bold text-slate-800">{content.expert.name}</p>
+              <p className="text-xs text-brand-600 mb-1">{content.expert.title}</p>
+              <p className="text-xs leading-relaxed text-slate-600">{content.expert.bio}</p>
+            </div>
+          </div>
+        )}
         {content.methodology && (
-          <div className="mt-4 flex items-start gap-3 rounded-xl bg-blue-50 border border-blue-200 px-4 py-3">
+          <div className="mt-3 flex items-start gap-3 rounded-xl bg-blue-50 border border-blue-200 px-4 py-3">
             <span className="mt-0.5 shrink-0 text-blue-500 text-lg leading-none">📋</span>
             <p className="text-sm leading-relaxed text-blue-900">{content.methodology}</p>
           </div>
@@ -136,6 +154,15 @@ export function ArticleBody({ meta, content, offers }: Props) {
                             <a href={`#offer-${o.id}`} className="font-semibold text-slate-800 hover:text-brand-600 transition-colors line-clamp-1">
                               {name}
                             </a>
+                            {product?.grade && (
+                              <span className={`shrink-0 rounded px-1.5 py-0.5 text-[10px] font-black ${
+                                product.grade === "A+" ? "bg-amber-500 text-white" :
+                                product.grade === "A"  ? "bg-brand-600 text-white" :
+                                "bg-slate-500 text-white"
+                              }`}>
+                                {product.grade}
+                              </span>
+                            )}
                             {product?.badge && (
                               <span className="shrink-0 rounded-full bg-amber-100 px-1.5 py-0.5 text-[10px] font-bold text-amber-800">
                                 {product.badge}
@@ -203,12 +230,23 @@ export function ArticleBody({ meta, content, offers }: Props) {
                     : "border-slate-200 bg-white shadow-sm"
                 }`}
               >
-                {/* Winner crown */}
-                {isWinner && (
+                {/* Winner crown + grade badge */}
+                {(isWinner || product?.grade) && (
                   <div className="mb-3 flex items-center gap-2">
-                    <span className="inline-flex items-center gap-1.5 rounded-full bg-amber-400 px-3 py-0.5 text-xs font-black text-amber-900 shadow-sm">
-                      ★ Best Pick
-                    </span>
+                    {isWinner && (
+                      <span className="inline-flex items-center gap-1.5 rounded-full bg-amber-400 px-3 py-0.5 text-xs font-black text-amber-900 shadow-sm">
+                        ★ Best Pick
+                      </span>
+                    )}
+                    {product?.grade && (
+                      <span className={`inline-flex items-center rounded-md px-2.5 py-0.5 text-sm font-black shadow-sm ${
+                        product.grade === "A+" ? "bg-amber-500 text-white" :
+                        product.grade === "A"  ? "bg-brand-600 text-white" :
+                        "bg-slate-500 text-white"
+                      }`}>
+                        {product.grade}
+                      </span>
+                    )}
                   </div>
                 )}
 
@@ -330,6 +368,35 @@ export function ArticleBody({ meta, content, offers }: Props) {
               </section>
             );
           })}
+
+          {/* "Recommended For Whom" matrix */}
+          {isComparison && content.recommendedFor && content.recommendedFor.length > 0 && (
+            <section className="mb-10 scroll-mt-24">
+              <h2 className="mb-4 text-xl font-black text-slate-900 flex items-center gap-3 before:block before:h-6 before:w-1 before:rounded-full before:bg-brand-500 before:shrink-0">
+                {t("article.recommendedFor")}
+              </h2>
+              <div className="grid gap-3 sm:grid-cols-2">
+                {content.recommendedFor.map((item, i) => {
+                  const offer = offers.find((o) => o.id === item.offerId);
+                  const offerName = offer ? (offer.name[locale as keyof typeof offer.name] ?? offer.name.en ?? item.offerId) : item.offerId;
+                  return (
+                    <a
+                      key={i}
+                      href={`#offer-${item.offerId}`}
+                      className="group flex items-start gap-3 rounded-xl border border-slate-200 bg-white p-4 hover:border-brand-400 hover:shadow-sm transition-all"
+                    >
+                      <span className="mt-0.5 shrink-0 text-brand-500 text-xl leading-none">✓</span>
+                      <div className="min-w-0">
+                        <p className="text-xs font-bold text-slate-500 mb-0.5">{item.label}</p>
+                        <p className="text-sm font-bold text-slate-900 group-hover:text-brand-600 transition-colors line-clamp-1">{offerName}</p>
+                        <p className="mt-0.5 text-xs text-slate-500 leading-relaxed">{item.reason}</p>
+                      </div>
+                    </a>
+                  );
+                })}
+              </div>
+            </section>
+          )}
 
           {/* Sections (buying guide etc.) */}
           {content.sections.map((s, i) => (

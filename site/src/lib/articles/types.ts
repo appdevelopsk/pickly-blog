@@ -62,6 +62,8 @@ export interface ArticleProduct {
   specs?: Record<string, string>;
   /** Optional per-criteria scores out of 5 (e.g. { "Ease of use": 4.5, "Effectiveness": 4.8 }) */
   scores?: Record<string, number>;
+  /** Optional letter grade (e.g. "A+", "A", "B+") shown as badge on product card */
+  grade?: string;
 }
 
 /**
@@ -83,4 +85,8 @@ export interface ArticleContent {
   pinDescription?: string;
   /** Optional methodology/testing criteria statement shown before the ranking */
   methodology?: string;
+  /** Optional expert reviewer for credibility */
+  expert?: { name: string; title: string; bio: string; imageUrl?: string };
+  /** Optional "recommended for" matrix — maps buyer personas to specific offers */
+  recommendedFor?: { label: string; offerId: string; reason: string }[];
 }
