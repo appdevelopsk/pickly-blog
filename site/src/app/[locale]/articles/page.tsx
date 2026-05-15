@@ -49,7 +49,9 @@ function getFirstOffer(article: ArticleMeta): AffiliateOffer | null {
 }
 
 function isNew(article: ArticleMeta): boolean {
-  return new Date(article.publishedAt) >= new Date("2026-05-08");
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 7);
+  return new Date(article.publishedAt) >= cutoff;
 }
 
 const OG_DIR = path.join(process.cwd(), "public/og");

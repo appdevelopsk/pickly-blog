@@ -32,9 +32,9 @@ function getFirstOffer(article: ArticleMeta): AffiliateOffer | null {
 }
 
 function isNew(article: ArticleMeta): boolean {
-  const pub = new Date(article.publishedAt);
-  const cutoff = new Date("2026-05-08");
-  return pub >= cutoff;
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 7);
+  return new Date(article.publishedAt) >= cutoff;
 }
 
 const TYPE_LABELS: Record<string, string> = {
