@@ -105,5 +105,6 @@
     "govee-air-quality-monitor": "Govee Air Quality Monitor H5106は約4,000円でCO2・PM2.5・温度・湿度をカバーし、この比較でセンサー数/円の最高コスパです。Goveeスマートホーム製品（Goveeライト・温湿度計）をすでに使用している場合、Govee Homeアプリで綺麗に統合されます。Amazon JapanでPrime配送可能。明示的な弱点：Goveeエコシステム外のスマートホーム連携なし——HomeKit・Google Home・Alexa・APIなし。PM2.5精度はAwairやKaiterraセンサーよりユーザー報告でばらつきが大きく、特定センサーコンポーネントのデータシートはGoveeの文書に公開されていません。ディスプレイが小さくInkbirdやKaiterraより離れた場所からの読み取りが難しい。CO2とPM2.5の精度仕様は公称範囲を超えてはGoveeが公開文書化していません。",
     "kaiterra-laser-egg-co2": "Kaiterra Laser Egg+ CO2はこの比較で最も読みやすいスタンドアロンモニターです：アプリ・クラウド接続・スマートフォンなしに卵型ユニットにCO2・PM2.5・温度・湿度を明瞭に表示します。日本語表示とメニュー。コンパクトなフォームファクター。Amazon JapanとRakutenで購入可能。明示的な弱点：HomeKit連携はクラウド依存（KaiterraブリッジサーバーでローカルHAPではない）でKaiterraのステータスページに定期的な停止が文書化されています。主にスマートフォンで読み取りを確認するためなら約1万5,000円は約4,000円のGoveeより選択が難しくなります。VOCセンサーなし。Awair Elementと同じPlantowerセンサー種類を使用しているにもかかわらずPM2.5校正アルゴリズムは公開文書化されていません。"
   },
-  "pinDescription": "空気質モニター5台を2026年日本向けに比較——Awair Element 5センサー対IQAir AirVisual Nodeプロ仕様対Kaiterra Laser Eggスタンドアロン表示対Inkbirdコスパ重視CO2対Goveeオールインワン。CO2精度の限界を解説。PM2.5と黄砂シーズン対策ガイド。スマートホーム連携の実態。全製品の弱点を明記。"
+  "pinDescription": "空気質モニター5台を2026年日本向けに比較——Awair Element 5センサー対IQAir AirVisual Nodeプロ仕様対Kaiterra Laser Eggスタンドアロン表示対Inkbirdコスパ重視CO2対Goveeオールインワン。CO2精度の限界を解説。PM2.5と黄砂シーズン対策ガイド。スマートホーム連携の実態。全製品の弱点を明記。",
+  "methodology": "各製品を実生活での耐久性・日常的な使いやすさ・宣伝通りの性能か・作りの良さ・長期的な価値で評価。メーカー仕様を実所有者レビューと照合しています。"
 }
