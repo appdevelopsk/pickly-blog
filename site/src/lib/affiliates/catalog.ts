@@ -22015,3 +22015,29 @@ export function pickLink(
     null
   );
 }
+
+/** Returns all approved links relevant to the given market, deduped by network, in priority order. */
+export function pickAllLinks(
+  offer: AffiliateOffer,
+  market: Market,
+  opts: { onlyApproved?: boolean } = {},
+): AspLink[] {
+  const approved = opts.onlyApproved ?? true;
+  const candidates = offer.links.filter((l) => (approved ? l.approved : true));
+  const euFallback = (["FR", "ES", "IT"] as Market[]).includes(market) ? ("EU" as Market) : null;
+
+  const result: AspLink[] = [];
+  const seen = new Set<string>();
+  const add = (links: AspLink[]) => {
+    for (const l of links) {
+      if (!seen.has(l.network)) { seen.add(l.network); result.push(l); }
+    }
+  };
+
+  add(candidates.filter((l) => l.markets.includes(market)));
+  if (euFallback) add(candidates.filter((l) => l.markets.includes(euFallback)));
+  add(candidates.filter((l) => l.markets.includes("global")));
+  if (market === "global") add(candidates.filter((l) => l.markets.includes("US")));
+
+  return result;
+}

@@ -58,6 +58,10 @@ export interface ArticleProduct {
   review: string;
   pros?: string[];
   cons?: string[];
+  /** Optional spec comparison table rows (e.g. { "Weight": "2.4 kg", "Battery": "~3 hrs" }) */
+  specs?: Record<string, string>;
+  /** Optional per-criteria scores out of 5 (e.g. { "Ease of use": 4.5, "Effectiveness": 4.8 }) */
+  scores?: Record<string, number>;
 }
 
 /**
@@ -77,4 +81,6 @@ export interface ArticleContent {
   offerNotes?: Record<string, string>;
   /** Pinterest pin description — emotional, 120-200 chars, no "click here" */
   pinDescription?: string;
+  /** Optional methodology/testing criteria statement shown before the ranking */
+  methodology?: string;
 }

@@ -94,6 +94,12 @@ export function ArticleBody({ meta, content, offers }: Props) {
             {content.lede}
           </p>
         )}
+        {content.methodology && (
+          <div className="mt-4 flex items-start gap-3 rounded-xl bg-blue-50 border border-blue-200 px-4 py-3">
+            <span className="mt-0.5 shrink-0 text-blue-500 text-lg leading-none">📋</span>
+            <p className="text-sm leading-relaxed text-blue-900">{content.methodology}</p>
+          </div>
+        )}
       </header>
 
       <div className="lg:flex lg:gap-10">
@@ -281,7 +287,46 @@ export function ArticleBody({ meta, content, offers }: Props) {
                   </div>
                 )}
 
-                <AffiliateLink offer={o} variant="button" />
+                {/* Score breakdown bars */}
+                {product?.scores && Object.keys(product.scores).length > 0 && (
+                  <div className="mb-5 rounded-xl border border-slate-200 bg-slate-50 p-4">
+                    <p className="mb-3 text-xs font-black uppercase tracking-widest text-slate-500">
+                      {t("article.scoreBreakdown")}
+                    </p>
+                    <div className="space-y-2.5">
+                      {Object.entries(product.scores).map(([label, score]) => (
+                        <div key={label} className="flex items-center gap-3">
+                          <span className="w-28 shrink-0 text-xs font-medium text-slate-600 leading-tight">{label}</span>
+                          <div className="flex-1 h-2 rounded-full bg-slate-200 overflow-hidden">
+                            <div
+                              className="h-full rounded-full bg-brand-500"
+                              style={{ width: `${(score / 5) * 100}%` }}
+                            />
+                          </div>
+                          <span className="w-6 shrink-0 text-xs font-bold text-slate-700 text-right">{score.toFixed(1)}</span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* Spec comparison table */}
+                {product?.specs && Object.keys(product.specs).length > 0 && (
+                  <div className="mb-5 overflow-hidden rounded-xl border border-slate-200">
+                    <table className="min-w-full text-sm">
+                      <tbody className="divide-y divide-slate-100">
+                        {Object.entries(product.specs).map(([key, val]) => (
+                          <tr key={key} className="even:bg-slate-50/60">
+                            <td className="px-4 py-2 font-medium text-slate-600 w-36 shrink-0">{key}</td>
+                            <td className="px-4 py-2 text-slate-800">{val}</td>
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                )}
+
+                <AffiliateLink offer={o} variant="stores" />
               </section>
             );
           })}

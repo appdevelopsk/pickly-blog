@@ -2,10 +2,10 @@
 
 import { useEffect, useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
-import { pickLink } from "@/lib/affiliates/catalog";
+import { pickLink, pickAllLinks } from "@/lib/affiliates/catalog";
 import { buildAffiliateUrl } from "@/lib/affiliates/asp";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
-import type { AffiliateOffer } from "@/lib/affiliates/types";
+import type { AffiliateOffer, AspNetwork } from "@/lib/affiliates/types";
 import type { Market } from "@/lib/affiliates/types";
 
 const GEO_MARKETS = new Set<Market>(["UK", "CA"]);
@@ -20,10 +20,24 @@ function useMarket(localeMarket: Market): Market {
   return market;
 }
 
+const AMAZON_NETWORKS = new Set<AspNetwork>([
+  "amazon-jp", "amazon-us", "amazon-uk", "amazon-de",
+  "amazon-fr", "amazon-es", "amazon-it", "amazon-ca", "moshimo",
+]);
+
+function storeLabel(network: AspNetwork): string {
+  if (AMAZON_NETWORKS.has(network)) return "Amazon";
+  if (network === "rakuten-affiliate") return "楽天";
+  if (network === "valuecommerce") return "Yahoo!";
+  if (network === "direct") return "公式";
+  if (network === "a8") return "A8";
+  return "Buy";
+}
+
 interface Props {
   offer: AffiliateOffer;
   note?: string;
-  variant?: "card" | "inline" | "button";
+  variant?: "card" | "inline" | "button" | "stores";
   hideBadge?: boolean;
 }
 
@@ -87,6 +101,49 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
   const ctaLabel = offer.cta?.[locale as keyof typeof offer.cta] ?? offer.cta?.en ?? t("offer.defaultCta");
   const isApproved = link.approved;
   const href = isApproved ? buildAffiliateUrl({ link, productName: offer.name.en ?? name, market }) : "#";
+
+  if (variant === "stores") {
+    const allLinks = pickAllLinks(offer, market, { onlyApproved: true });
+    // Deduplicate by store label so we don't show two "Amazon" buttons
+    const byLabel = new Map<string, typeof allLinks[0]>();
+    for (const l of allLinks) {
+      const label = storeLabel(l.network);
+      if (!byLabel.has(label)) byLabel.set(label, l);
+    }
+    const storeLinks = [...byLabel.entries()];
+    if (storeLinks.length === 0) {
+      const amazonHost = amazonHostForMarket(market);
+      return (
+        <a href={`${amazonHost}/s?k=${encodeURIComponent(name)}`} target="_blank" rel="noopener noreferrer"
+          className="inline-flex items-center gap-1 rounded-md border border-slate-300 px-4 py-2 text-sm font-medium text-slate-600 hover:border-slate-400 transition-colors">
+          {t("offer.searchOnAmazon")} →
+        </a>
+      );
+    }
+    return (
+      <div className="flex flex-wrap gap-2">
+        {storeLinks.map(([label, l], i) => {
+          const storeHref = buildAffiliateUrl({ link: l, productName: offer.name.en ?? name, market });
+          return (
+            <a
+              key={label}
+              href={storeHref}
+              target="_blank"
+              rel="sponsored noopener noreferrer"
+              data-offer-id={offer.id}
+              className={
+                i === 0
+                  ? "inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-4 py-2 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
+                  : "inline-flex items-center gap-1.5 rounded-lg border border-slate-300 bg-white px-4 py-2 text-sm font-semibold text-slate-700 hover:border-brand-400 hover:text-brand-600 transition-all"
+              }
+            >
+              {label} →
+            </a>
+          );
+        })}
+      </div>
+    );
+  }
 
   if (variant === "button") {
     return isApproved ? (
