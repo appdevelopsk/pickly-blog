@@ -1,7 +1,6 @@
 /**
- * Add es/pt-BR/de/fr pin entries to pins.yaml for articles that now have
- * those translation files. Translates pin titles/descriptions from en pins
- * using the article's messages JSON for context.
+ * Add locale pin entries to pins.yaml for articles that now have translation files.
+ * Supports: es, pt-BR, de, fr, it
  *
  * Usage:
  *   npx tsx add-locale-pins.ts                  # dry-run (shows what would be added)
@@ -22,7 +21,7 @@ const PINS_PATH = path.resolve(__dirname, "pins.yaml");
 const ARTICLES_DIR = path.resolve(__dirname, "../../site/src/articles");
 const SITE_URL = "https://pickly.blog";
 
-const NEW_LOCALES = ["es", "pt-BR", "de", "fr"] as const;
+const NEW_LOCALES = ["es", "pt-BR", "de", "fr", "it"] as const;
 type NewLocale = (typeof NEW_LOCALES)[number];
 
 // Locale → language labels for hashtags
@@ -31,6 +30,7 @@ const LOCALE_LANG: Record<NewLocale, string> = {
   "pt-BR": "pt",
   de: "de",
   fr: "fr",
+  it: "it",
 };
 
 // Variant angle suffixes per locale (so each pin has a distinct title)
@@ -66,6 +66,14 @@ const VARIANT_SUFFIX: Record<NewLocale, Record<string, string>> = {
     budget: "meilleur rapport qualité-prix",
     avoid: "erreurs à éviter",
     scene: "guide d'achat 2026",
+  },
+  it: {
+    comparison: "confronto completo",
+    top1: "il migliore del 2026",
+    problem: "soluzione al problema piu comune",
+    budget: "miglior rapporto qualita-prezzo",
+    avoid: "errori da evitare",
+    scene: "guida all'acquisto 2026",
   },
 };
 
