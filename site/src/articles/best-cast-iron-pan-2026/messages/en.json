@@ -82,5 +82,114 @@
     "lodge-l10sk3": "Lodge's 12-inch format for 3+ person households. 3.2 kg empty — check that you can comfortably manage the weight before committing. Same pre-seasoned foundry quality as L8SK3 in a larger format."
   },
   "pinDescription": "Cast iron showdown 2026: Lodge vs Le Creuset vs Staub vs Japanese Iwachu nambu ironware. Which pan actually earns its place on your stove — and is the enamel coating worth the price premium?",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "lodge-l8sk3",
+      "badge": "Best Overall Value",
+      "review": "The Lodge L8SK3 is the cast iron pan most cooks should start with. It ships pre-seasoned so you can cook on it the day it arrives, the 26 cm cooking surface fits two steaks or a stack of pancakes, and at this price the entry cost is low enough that you can decide whether cast iron suits your cooking before spending real money. The foundry-finished surface is noticeably rough at first compared with a polished Iwachu, but after 50 or so cooks it smooths out and approaches non-stick. Weight at around 2.1 kg is manageable one-handed for most adults. Induction and oven safe across the full home range.",
+      "pros": [
+        "Pre-seasoned and cookable out of the box",
+        "Genuinely low price for a lifetime pan",
+        "Manageable 2.1 kg weight for daily one-handed use",
+        "Works on induction, gas, electric and in the oven"
+      ],
+      "cons": [
+        "Foundry surface is rough until broken in",
+        "Bare iron will stain from acidic foods"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "le-creuset-skillet-26cm",
+      "badge": "Best Enameled",
+      "review": "The Le Creuset 26 cm enameled skillet is the pan to buy if you regularly cook tomato sauces, wine braises or anything acidic, and you do not want to think about seasoning. The enamel surface needs no maintenance beyond washing, accepts acidic foods without picking up metallic flavor, and looks presentable enough to bring straight to the table. Heating is even and the lid-less skillet format is noticeably lighter than the brand's Dutch ovens. Drop it on a tile floor and the enamel will chip, which is the one real downside. Resale value in Japan is unusually strong, which softens the high initial price.",
+      "pros": [
+        "No seasoning ever required",
+        "Handles tomato, wine and citrus without flavor or surface damage",
+        "Even heating across the cooking surface",
+        "Lifetime warranty and strong resale value"
+      ],
+      "cons": [
+        "Enamel chips permanently if dropped on hard surfaces",
+        "Highest price in this comparison"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "staub-frying-pan-26cm",
+      "badge": "Best for Searing",
+      "review": "The Staub 26 cm frying pan is the enameled cast iron you choose when you want darker, more aggressive browning. The matte black interior enamel is rougher and darker than Le Creuset's light surface, which absorbs more heat into the food contact zone and pushes proteins toward a more intense crust. The same enamel develops a subtle patina over time the way bare iron does, but without any seasoning maintenance. French professional kitchens reach for Staub more than Le Creuset for stovetop work and this is why. Pricing sits just above Le Creuset, and the cooking difference is real but small in everyday home use.",
+      "pros": [
+        "Matte black interior delivers more aggressive sear than light enamel",
+        "No seasoning needed and acid-safe",
+        "Develops a subtle patina with use",
+        "Used heavily by professional kitchens"
+      ],
+      "cons": [
+        "Slightly more expensive than Le Creuset",
+        "Same enamel chipping risk as any enameled pan"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "iwachu-iron-skillet",
+      "badge": "Best Lightweight",
+      "review": "Iwachu's 26 cm nambu ironware skillet is cast thinner than American foundry pans, landing at around 1.4 kg — roughly 700 to 900 grams lighter than a comparable Lodge. That difference does not sound dramatic on paper but is immediately obvious when you lift the pan one-handed to plate food. The Morioka craft tradition is genuine rather than marketing dressing, the surface is smoother than Lodge from the foundry, and iron does measurably leach into food for those who care about iron intake. It still rusts like any bare iron pan, so it needs the same dry-and-oil routine after washing.",
+      "pros": [
+        "Significantly lighter than American cast iron at the same diameter",
+        "Smoother foundry surface than Lodge",
+        "Authentic Morioka nambu ironware heritage",
+        "Iron leaches into food in measurable amounts"
+      ],
+      "cons": [
+        "Needs the same rust-prevention care as any bare cast iron",
+        "Price premium hard to justify on cooking performance alone"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "lodge-l10sk3",
+      "badge": "Best for Families",
+      "review": "The Lodge L10SK3 is the 12-inch (30 cm) version of the L8SK3, sized for households of three or more. The bigger surface fits a spatchcocked chicken, a 6-egg frittata, or five to six pork chops in one batch, which is the right capacity once you stop cooking for one or two. Same pre-seasoned foundry construction as the smaller Lodge, same oven and induction compatibility, same finish. The catch is weight — 3.2 kg empty makes one-handed work a real workout, and full of food it becomes a two-handed lift. Honest about this up front: if that weight will mean the pan lives in the cupboard, the L8SK3 will get used more often.",
+      "pros": [
+        "Fits whole chickens or large batches in one pan",
+        "Same proven Lodge construction and pricing as L8SK3",
+        "Works on induction, gas, electric, and in the oven",
+        "Foundry pre-seasoning means it cooks day one"
+      ],
+      "cons": [
+        "3.2 kg empty is genuinely heavy in daily use",
+        "Too large for most single-person cooking"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "The cast iron beginner",
+      "offerId": "lodge-l8sk3",
+      "reason": "Pre-seasoned, cheap enough to risk, and the 2.1 kg weight is the lightest American-foundry option to live with daily."
+    },
+    {
+      "label": "The acid-heavy cook",
+      "offerId": "le-creuset-skillet-26cm",
+      "reason": "Enameled surface handles tomato, wine and citrus without picking up metallic flavor or stripping seasoning."
+    },
+    {
+      "label": "The serious sear hunter",
+      "offerId": "staub-frying-pan-26cm",
+      "reason": "Matte black enamel pushes a deeper crust on steaks and chops than any other pan here, with no seasoning maintenance."
+    },
+    {
+      "label": "The cook with wrist or weight concerns",
+      "offerId": "iwachu-iron-skillet",
+      "reason": "Thinner nambu casting makes it the lightest 26 cm option, so the pan actually gets used instead of staying in the cupboard."
+    },
+    {
+      "label": "The 3+ person household",
+      "offerId": "lodge-l10sk3",
+      "reason": "The 30 cm cooking surface fits a whole chicken or family-size batch in one go without sacrificing Lodge's price-to-quality ratio."
+    }
+  ]
 }

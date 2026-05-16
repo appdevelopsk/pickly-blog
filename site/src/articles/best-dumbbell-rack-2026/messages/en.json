@@ -48,5 +48,110 @@
     "go-time-gear-dumbbell-rack-3-tier": "A compact three-tier rack suited for smaller spaces and lighter dumbbell sets. Lower price point with adequate capacity for a starter home gym storing up to 8 pairs in the 5-35 lb range."
   },
   "pinDescription": "CAP A-Frame vs Bowflex Stand vs Rogue HD Monster — 5 best dumbbell racks for home gyms in 2026. Weight capacity, footprint, and A-frame vs flat-shelf design compared for every budget.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "cap-barbell-a-frame-dumbbell-rack",
+      "badge": "Best Overall",
+      "review": "The CAP A-Frame earns the overall pick because it solves the dumbbell storage problem most home gyms actually have: 8 to 10 pairs of hex dumbbells in the 5 to 50 lb range, in a footprint that doesn't dominate the room. The welded three-tier design avoids the joint loosening that bolt-together budget racks accumulate after a few months of loading and unloading. A 33-inch base width fits along most garage or basement walls, and the 550 lb rated capacity covers a standard hex set with margin. The angled tiers keep handles facing you, so the 40 lb pair on the back tier doesn't require reaching past the 30s.",
+      "pros": [
+        "Welded steel frame avoids the wobble of bolt-together racks",
+        "Inclined tiers keep every pair accessible from the front",
+        "Compact 33-inch base width fits against a garage wall",
+        "550 lb capacity handles a full 5-50 lb hex set with headroom"
+      ],
+      "cons": [
+        "Round rubber dumbbells can roll on the angled tiers if the floor isn't level"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "bowflex-selecttech-stand",
+      "badge": "Best for Adjustable Dumbbells",
+      "review": "The SelectTech Stand is a single-purpose tool that does its job better than any general-purpose rack can. The cradle is shaped to the exact tray geometry of the SelectTech 552 and 1090, so the dumbbells drop into place without wobble or improvisation. The deck height puts the handles roughly at knuckle level, which removes the floor-bend that wears out the SelectTech tray latches over time. A media shelf on the back holds a phone or tablet at viewing height, which is useful if you follow a video routine and don't want a screen lying on the mat. The tradeoff is rigidity of purpose: it doesn't work as a hex stand.",
+      "pros": [
+        "Cradle geometry matches SelectTech 552 and 1090 trays exactly",
+        "Handles sit at knuckle height for quick mid-workout swaps",
+        "Built-in media shelf keeps a phone or tablet at eye level",
+        "Reduces wear on the SelectTech tray latches versus floor storage"
+      ],
+      "cons": [
+        "Only fits SelectTech dumbbells — not usable with hex or other adjustables"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "rogue-hd-monster-dumbbell-rack",
+      "badge": "Best Heavy-Duty",
+      "review": "The HD Monster is built to the same 3x3-inch 11-gauge welded steel spec as Rogue's commercial rigs, which is the relevant distinction once you start loading 70 to 100 lb pairs on a rack. The flat-shelf tiers accept round rubber, hex, and urethane heads — important if your set is mixed or expanding toward commercial-style dumbbells that don't sit stable on angled racks. Rubber lining on the shelves stops sliding and protects the head coatings from steel-on-rubber chatter. The rated capacity covers a full commercial-grade set, and the construction is the type that stays tight after years of daily loading.",
+      "pros": [
+        "11-gauge 3x3-inch welded steel matches Rogue's commercial-rig spec",
+        "Flat tiers fit round rubber, hex, and urethane dumbbell heads",
+        "Rubber-lined shelves prevent sliding and protect coatings",
+        "Built for daily commercial-style loading without joint creep"
+      ],
+      "cons": [
+        "Significantly more expensive than any other rack in this comparison",
+        "Overbuilt for home gyms storing only a single hex set"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "fitness-reality-universal-dumbbell-rack",
+      "badge": "Best Mid-Range",
+      "review": "The Fitness Reality Universal sits in the gap between the budget CAP A-Frame and the commercial Rogue. Its three-tier flat-shelf design accepts both hex and round rubber dumbbells, which makes it a better fit for lifters who own a mixed set or plan to add round rubber pairs later. Shelf depth is wider than the CAP, so larger hex heads in the 60 to 80 lb range sit flat rather than overhanging. The construction is heavier-gauge than a typical budget rack but isn't built to commercial spec — it covers most home gym scenarios where you want flat shelves without paying Rogue prices.",
+      "pros": [
+        "Flat shelves accept both hex and round rubber dumbbells",
+        "Wider shelf depth than the CAP A-Frame for larger heads",
+        "Three-tier layout holds a broader range than budget A-frames",
+        "Priced well below commercial-grade flat-shelf options"
+      ],
+      "cons": [
+        "Not built to commercial-rig steel spec for daily heavy use"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "go-time-gear-dumbbell-rack-3-tier",
+      "badge": "Best Compact",
+      "review": "The Go Time Gear three-tier rack is the right call when floor space matters more than capacity. The footprint is narrower than the CAP A-Frame, and the rack is sized for lighter dumbbell pairs in the 5 to 35 lb range — the working range of most apartment-based home gyms. Three tiers hold up to 8 pairs, which covers a starter set without overbuying. Construction is lighter-gauge than the CAP, which is appropriate for the load class it's rated for; trying to use it for 50 lb pairs would be a mismatch. As an entry-tier rack for small rooms, it does what it's designed to do.",
+      "pros": [
+        "Narrower footprint than the CAP A-Frame for tight spaces",
+        "Sized for 5-35 lb hex pairs — typical starter dumbbell range",
+        "Three tiers hold up to 8 pairs in a compact form factor",
+        "Lowest price point in this comparison"
+      ],
+      "cons": [
+        "Lighter-gauge construction not suited for 50+ lb pairs"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For most home gyms storing a standard hex set",
+      "offerId": "cap-barbell-a-frame-dumbbell-rack",
+      "reason": "550 lb capacity covers a full 5-50 lb hex set, welded steel avoids long-term wobble, and the 33-inch footprint fits along a garage wall."
+    },
+    {
+      "label": "For SelectTech adjustable dumbbell owners",
+      "offerId": "bowflex-selecttech-stand",
+      "reason": "The cradle is shaped specifically to SelectTech 552 and 1090 trays — no other rack here holds the adjustables securely at usable height."
+    },
+    {
+      "label": "For commercial-grade heavy dumbbell sets",
+      "offerId": "rogue-hd-monster-dumbbell-rack",
+      "reason": "11-gauge 3x3-inch welded steel and flat rubber-lined shelves handle 100 lb rubber pairs and stay tight under daily loading."
+    },
+    {
+      "label": "For mixed hex and round rubber dumbbells",
+      "offerId": "fitness-reality-universal-dumbbell-rack",
+      "reason": "Flat shelves with wider depth than the CAP accommodate both round rubber heads and larger hex pairs without overhang."
+    },
+    {
+      "label": "For small spaces and starter dumbbell sets",
+      "offerId": "go-time-gear-dumbbell-rack-3-tier",
+      "reason": "Narrower footprint than the CAP A-Frame and sized for 5-35 lb pairs — the working range of most apartment home gyms."
+    }
+  ]
 }

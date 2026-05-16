@@ -107,6 +107,115 @@
     "stadler-form-oskar": "Stadler Form Oskar (around 30,000 yen) — Swiss-designed evaporative drum unit. Covers up to 45 m² and suits large living rooms. Weekly drum washing is mandatory. No smart-home integration or app — a simple dial-controlled appliance.",
     "levoit-classic-300s": "Levoit Classic 300S (9,000–12,000 yen via Rakuten imports) — smart ultrasonic with app, Alexa, and Google Assistant. Best value here, but Tokyo tap water leaves white dust on nearby furniture within weeks. Distilled water or the demineralization filter is mandatory."
   },
-  "pinDescription": "Five humidifiers compared for 2026 — dry-winter skin care and Japan's summer mold problem. The ultrasonic white-dust problem explained. Evaporative vs steam vs UV-C sterilization. The maintenance you actually have to do. From 9,000 yen to over 100,000 yen Which humidification method fits your room?",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "pinDescription": "Five humidifiers compared for 2026 — dry-winter skin care and Japan's summer mold problem. The ultrasonic white-dust problem explained. Evaporative vs steam vs UV-C sterilization. The maintenance you actually have to do. From 9,000 yen to over 100,000 yen Which humidifier fits your room?",
+  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews.",
+  "products": [
+    {
+      "offerId": "dyson-purifier-humidify-cool",
+      "badge": "Best All-in-One Year-Round",
+      "review": "The Dyson Purifier Humidify+Cool Formaldehyde is the only year-round pick here, stacking HEPA H13 air cleaning, UV-C water sterilization, ultrasonic humidification, a formaldehyde sensor, and a bladeless cool fan into one unit. The UV-C sterilization solves the bacterial-spray problem that dooms standard ultrasonic units without requiring distilled water, and the cool fan function means it stays useful through summer rather than going into storage in June like the other four. The cost is real: over 100,000 yen at retail plus a monthly demineralization cartridge and a 6,000-8,000 yen HEPA and activated carbon filter set per year. Plan for 20,000-30,000 yen in consumables over three years on top of the buy-in. Too big for rooms under 10m², and the cool fan moves less air than a dedicated Dyson Pure Cool.",
+      "pros": [
+        "HEPA H13 air cleaning rivals a dedicated air purifier",
+        "UV-C water sterilization solves the bacterial-spray problem without distilled water",
+        "Cool fan function keeps it useful through Japan's humid summer",
+        "Formaldehyde sensor relevant to new builds and recently renovated apartments"
+      ],
+      "cons": [
+        "Over 100,000 yen buy-in plus 20,000-30,000 yen in consumables over three years",
+        "Too large for rooms under 10m² and the cool fan is weaker than a dedicated Dyson Pure Cool"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "panasonic-fe-kxu07",
+      "badge": "Best Japanese-Brand Combo",
+      "review": "The Panasonic FE-KXU07 is the Japanese-brand combo pick at a 20,000-30,000 yen street price — ultrasonic-evaporative hybrid with nanoe X ions, and a JEMA-standard humidity label that makes the rated humidification output and applicable floor area directly comparable to other JEMA-certified units. The hybrid approach reduces the white-dust risk below pure-ultrasonic units, though it does not eliminate it entirely. Manufacturer's recommended monthly filter cleaning realistically becomes weekly in hard-water cities — Osaka, Nagoya, and parts of Tokyo. The nanoe X antibacterial and deodorization claims do not have the peer-reviewed evidence base of HEPA filtration; treat them as a bonus rather than a primary justification.",
+      "pros": [
+        "JEMA-standard humidity label allows direct comparison with other Japanese-certified units",
+        "Ultrasonic-evaporative hybrid lowers white-dust risk versus pure ultrasonic",
+        "Japanese-brand domestic warranty and parts availability",
+        "Air-cleaning function included alongside humidification"
+      ],
+      "cons": [
+        "Monthly filter cleaning becomes weekly in hard-water cities like Osaka or Nagoya",
+        "Nanoe X antibacterial claims lack the peer-reviewed evidence base of HEPA filtration"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "balmuda-rain",
+      "badge": "Best for Bedroom Design",
+      "review": "Balmuda Rain at around 35,000 yen is the bedroom-and-study pick — top-fill evaporative design where you pour water directly into the bowl on top of the unit, eliminating the awkward tank-removal step that defines most humidifier daily use. Evaporative means zero white dust, and the auto humidity sensing prevents over-humidification in well-sealed Japanese rooms. The form factor genuinely doesn't clash with bedroom or study furniture the way Stadler Form Oskar or the Dyson does. Coverage tops out around 14m², which is the catch — at the same 35,000 yen the Stadler Form Oskar covers up to 45m². Wick filters add about 3,000 yen per season in replacement cost.",
+      "pros": [
+        "Top-fill water bowl eliminates tank removal for daily refilling",
+        "Evaporative output means zero white dust regardless of tap water hardness",
+        "Auto humidity sensing prevents over-humidification in sealed Japanese rooms",
+        "Form factor fits bedroom and study furniture cleanly"
+      ],
+      "cons": [
+        "Coverage tops out at ~14m² — under-powered for a large LDK at this price",
+        "Wick filter replacement at ~3,000 yen per season is recurring"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "stadler-form-oskar",
+      "badge": "Best for Large LDK No-Dust",
+      "review": "Stadler Form Oskar at around 30,000 yen is the large-room evaporative pick — Swiss-designed drum unit that covers up to 45m², the only option besides the Dyson that can lift a full LDK on its own without producing white dust. The drum design is the practical center: a removable drum filter that spins through the water and exposes wetted surface to airflow. The weekly drum removal and washing is mandatory because the drum's biofilm rides into the air if you skip it. No app, no smart-home integration — single dial controls output strength, which is either a feature or a limitation depending on whether you want connected appliances. The 3.5L tank shape doesn't fit easily under most Japanese kitchen faucets, so many households end up filling at the bathroom sink.",
+      "pros": [
+        "Covers up to 45m² — the only sub-100,000 yen option for a large LDK without white dust",
+        "Evaporative drum design produces no white dust regardless of water hardness",
+        "Simple dial control with no app or cloud dependency",
+        "Swiss design and build quality justify the 30,000 yen price"
+      ],
+      "cons": [
+        "Weekly drum removal and washing is mandatory to prevent biofilm spray",
+        "Tank shape doesn't fit easily under most Japanese kitchen faucets"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "levoit-classic-300s",
+      "badge": "Best Smart Budget Pick",
+      "review": "The Levoit Classic 300S at 9,000-12,000 yen via Rakuten imports is the smart-budget pick — VeSync app, Alexa and Google Assistant support, 6L tank, auto mode, and 28dB sleep mode quiet enough not to wake you. Two non-negotiable conditions: don't use straight tap water (distilled water or the demineralization filter slot is required), and don't skip the weekly tank clean. Anyone who can't commit to both will see white dust settling on nearby electronics and dark furniture within weeks on Tokyo or Osaka tap water. The on-board humidity sensor accuracy is heavily affected by placement, so keep it off walls and out of corners. At a third the price of mid-tier evaporative options, it earns the smart-home budget slot.",
+      "pros": [
+        "Lowest price in this comparison (9,000-12,000 yen) with smart-home integration",
+        "VeSync app plus Alexa and Google Assistant support",
+        "6L tank and 28dB sleep mode for overnight bedroom use",
+        "Demineralization filter slot accepts third-party filters"
+      ],
+      "cons": [
+        "Distilled water or the demineralization filter is mandatory — straight tap water deposits white dust within weeks",
+        "On-board humidity sensor accuracy depends heavily on placement away from walls and corners"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For large LDK households that want one machine year-round",
+      "offerId": "dyson-purifier-humidify-cool",
+      "reason": "HEPA H13 cleaning, UV-C water sterilization, and the summer cool fan are the only combination here that justifies living on the floor through tsuyu."
+    },
+    {
+      "label": "For Japanese-brand familiarity with JEMA-standard specifications",
+      "offerId": "panasonic-fe-kxu07",
+      "reason": "JEMA-standard humidity labels make output and coverage directly comparable to other certified Japanese units, with domestic warranty support."
+    },
+    {
+      "label": "For bedrooms and studies where top-fill convenience matters",
+      "offerId": "balmuda-rain",
+      "reason": "Top-fill water bowl eliminates tank removal for daily refills and the evaporative output produces zero white dust regardless of tap water."
+    },
+    {
+      "label": "For large open LDKs where no-white-dust is non-negotiable",
+      "offerId": "stadler-form-oskar",
+      "reason": "Evaporative drum design covers up to 45m² with zero white dust — the only sub-100,000 yen option for that combination."
+    },
+    {
+      "label": "For smart-home integration on a tight budget",
+      "offerId": "levoit-classic-300s",
+      "reason": "VeSync, Alexa, and Google support at 9,000-12,000 yen if you can commit to distilled water and weekly tank cleaning."
+    }
+  ]
 }

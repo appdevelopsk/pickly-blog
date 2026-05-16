@@ -63,5 +63,114 @@
     "zwilling-enfinigy-scale": "Premium glass-platform design with integrated timer, flush touch buttons, and German brand credentials. 5 kg / 11 lb capacity, 1g resolution, 3-minute auto-off. Best for espresso and pour-over timing plus precision baking where countertop aesthetics matter."
   },
   "pinDescription": "5 kitchen scales compared for 2026: OXO pull-out display for large-bowl baking, Escali Primo lifetime warranty workhorse, My Weigh KD-8000 high-capacity craft scale, Etekcity EK6015 budget pick, Zwilling Enfinigy premium design with timer. Which one fits bread baking, espresso, and everyday cooking.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "oxo-11lb-food-scale",
+      "badge": "Best Overall",
+      "review": "The OXO Good Grips 11 lb scale earns its place mainly through the pull-out display, which slides forward from under the platform so a large mixing bowl never hides the readout. It is the single most useful design change in this category in years. Capacity is 5 kg with 1 g resolution, the 19 by 22 cm platform comfortably handles a 4 L mixing bowl, and the front-face tare button can be hit with a knuckle without lifting the bowl. The display zeros instantly rather than the one-to-two-second lag you see on cheaper scales. Two-minute auto-off is acceptable for most baking workflows, though long, complex recipes can occasionally trip it.",
+      "pros": [
+        "Pull-out display solves the bowl-blocks-the-readout problem",
+        "Front-face tare button is reachable with a knuckle",
+        "Instant zero — no lag that causes over-adding",
+        "Platform handles a 4 L mixing bowl"
+      ],
+      "cons": [
+        "Two-minute auto-off can interrupt long baking sessions",
+        "Larger footprint than minimal flat scales"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "escali-primo-p115c",
+      "badge": "Best Long-Term Value",
+      "review": "The Escali Primo P115C has been the default recommendation from bread bakers and pastry teachers for over fifteen years, and the reason is mundane but important — the load cell calibration holds up year after year at a price where most scales drift noticeably within twelve to eighteen months. Capacity is 5 kg with 1 g resolution, units cover grams, ounces and pounds, and the lifetime warranty is one Escali actually honors when you write in. The 17.4 by 21.5 cm platform is a touch smaller than the OXO and the readout sits flush, so a wide bowl can block it. For everyday baking where you trust the number more than you need a fancy display, this is the safe bet.",
+      "pros": [
+        "Calibration holds for years of daily use",
+        "Lifetime warranty Escali genuinely honors",
+        "Clean grams/ounces/pounds switching",
+        "Reasonable price for the longevity"
+      ],
+      "cons": [
+        "Flush display can be blocked by a wide bowl",
+        "5 kg is the lowest max capacity in this lineup"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "my-weigh-kd8000-scale",
+      "badge": "Best for High-Volume Baking",
+      "review": "The My Weigh KD-8000 is the scale for people who have hit the limits of a standard 5 kg kitchen scale. Maximum capacity is 8 kg with 1 g resolution, the 24.5 by 19 cm stainless platform handles a Dutch oven or stand-mixer bowl without the rim hanging off the edge, and the backlit display is readable from across the counter. The auto-off is configurable from 1 to 9 minutes or can be disabled entirely, which is unusual at any price and a real benefit for long recipes. A built-in baker's percentage mode calculates ingredient ratios in real time, which becomes useful the moment you start scaling recipes by hydration. Build feels utility-grade rather than designer-grade.",
+      "pros": [
+        "8 kg capacity handles Dutch ovens and large batches",
+        "Auto-off configurable from 1 to 9 minutes or disabled",
+        "Built-in baker's percentage mode",
+        "Backlit display readable at a distance"
+      ],
+      "cons": [
+        "Utilitarian look — not a counter showpiece",
+        "Larger footprint than 5 kg kitchen scales"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "etekcity-ek6015-scale",
+      "badge": "Best Budget",
+      "review": "The Etekcity EK6015 is the budget pick that gets the platform size right. The 26 by 20 cm stainless surface is actually the largest in this comparison, which makes it surprisingly capable when you weigh into a wide bowl or stockpot. Capacity is 5 kg with 1 g resolution and four unit modes, and the display is angled just enough that you can read the number without tilting your head over a tall bowl. The catches are real: build feels lighter than the Escali, and the 60-second auto-off is the shortest in this group and triggers the most complaints in long-term reviews. As a primary scale for occasional cooks, or as a dedicated second scale for coffee dosing, it does the job at this price.",
+      "pros": [
+        "Largest platform in this comparison for the price",
+        "Slight display tilt aids large-bowl readability",
+        "Four unit modes for everyday cooking",
+        "Cheapest scale that still meets 1 g resolution"
+      ],
+      "cons": [
+        "60-second auto-off is the shortest here and trips during baking",
+        "Build feels lighter than mid-tier scales"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "zwilling-enfinigy-scale",
+      "badge": "Best Design",
+      "review": "The Zwilling Enfinigy is the precision scale you leave on the counter because it actually looks like it belongs there. The flat glass platform with flush touch buttons is easy to wipe down and visually matches modern kitchens in a way utility scales do not. Capacity is 5 kg with 1 g resolution, and the integrated timer runs independently of the weighing function — useful for pour-over coffee or French press brews where you are timing while you weigh. Touch sensitivity is tuned to ignore flour dust and small splashes but still respond to a deliberate press. Three-minute auto-off is comfortable. You are paying a premium for design and the Zwilling brand more than for measurement performance.",
+      "pros": [
+        "Looks like a kitchen object you want on the counter",
+        "Integrated timer independent of the scale function",
+        "Glass surface wipes clean easily",
+        "Three-minute auto-off comfortable for most recipes"
+      ],
+      "cons": [
+        "Significant price premium over equally accurate scales",
+        "Glass surface can crack if dropped"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "The large-bowl baker",
+      "offerId": "oxo-11lb-food-scale",
+      "reason": "The pull-out display keeps the readout visible no matter how wide the mixing bowl is, which is exactly the use case other scales fumble."
+    },
+    {
+      "label": "The everyday home baker",
+      "offerId": "escali-primo-p115c",
+      "reason": "Calibration that survives years of daily use and a lifetime warranty Escali actually honors makes this the safest long-term buy."
+    },
+    {
+      "label": "The high-volume baker",
+      "offerId": "my-weigh-kd8000-scale",
+      "reason": "8 kg capacity, configurable auto-off, and a built-in baker's percentage mode handle Dutch ovens and complex recipes without compromise."
+    },
+    {
+      "label": "The budget cook",
+      "offerId": "etekcity-ek6015-scale",
+      "reason": "Largest platform in this lineup at a price that lets you treat it as a starter scale or a dedicated second scale."
+    },
+    {
+      "label": "The home espresso enthusiast",
+      "offerId": "zwilling-enfinigy-scale",
+      "reason": "The integrated timer and glass platform make this a permanent counter scale that looks good and times brews independently."
+    }
+  ]
 }

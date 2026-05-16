@@ -58,5 +58,110 @@
     "hip-circle-band-by-sling-shot": "Resistance band loop worn above knees. $25-35. Best low-cost glute supplement — increases glute medius activation during squats, hip thrusts, and lateral walks. Effective warm-up tool and glute engagement enhancer at negligible cost."
   },
   "pinDescription": "Best glute machines 2026: hip thrust machine vs GHD vs hip abductor vs cable pull-through — glute activation science, what each piece of equipment actually trains, and which is worth buying for your home gym.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "hip-thrust-machine-by-prime-fitness",
+      "badge": "Best Dedicated Hip Thrust",
+      "review": "The Prime Fitness Hip Thrust Machine is a single-exercise specialist that does its one job better than any improvised barbell-and-bench setup. A padded upper-back platform replaces the bench-edge dig that bar-thrust users learn to tolerate, and the weighted lever arm crosses the hips through a padded sleeve that removes the bar-on-pelvis bruising entirely. Setup time drops to zero — no bench repositioning, no plate-rolling, no padding to fold around a bar. The back-pad height adjustment accommodates different torso lengths, which matters because hip thrust mechanics are sensitive to shoulder placement. For glute-focused training programs, the comfort and setup-time savings compound across sessions.",
+      "pros": [
+        "Padded lever arm eliminates barbell-on-hip discomfort",
+        "Zero setup time between sets — no bench or bar to reposition",
+        "Back-pad height adjustment fits different torso lengths",
+        "Purpose-built geometry locks the movement plane"
+      ],
+      "cons": [
+        "Single-exercise specialist — does only the hip thrust",
+        "Significant cost versus a barbell, bench, and hip thrust pad"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "glute-ham-developer-by-rep-fitness",
+      "badge": "Best Multi-Exercise Pick",
+      "review": "The REP Fitness GHD covers more posterior chain ground than any other piece in this lineup: glute-ham raises, back extensions, hyperextensions, and reverse hypers all run on the same frame. The footplate and ankle-anchor geometry holds the lower body solid through the GHR range of motion, and the hip pad accommodates both standard hyperextension and full GHR positioning. For lifters who want comprehensive hamstring and glute work without buying a separate leg curl machine, the GHD is the single-purchase answer. Construction is heavier than a basic hyperextension bench, which is necessary because the GHR generates significant torque at the foot anchors.",
+      "pros": [
+        "Trains GHR, back extension, hyperextension, and reverse hyper",
+        "GHR is one of the most effective hamstring exercises available",
+        "Solid foot-anchor geometry holds form through full ROM",
+        "Single purchase replaces a separate leg curl machine"
+      ],
+      "cons": [
+        "Takes meaningful floor space versus a pad-only solution"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "hip-abductor-machine-by-body-solid",
+      "badge": "Best Hip Abductor",
+      "review": "The Body-Solid Hip Abductor Machine isolates the gluteus medius and minimus through a seated abduction pattern — the same pattern as a commercial gym's abductor machine, scaled to home gym proportions. Hip abductor strength matters for knee tracking during squats and running, and dedicated loading is hard to replicate with barbells. The seated position locks the hip angle, which keeps the load on the abductors rather than letting the larger glute max compensate. For home gyms specifically training around knee-tracking issues or building runner-specific hip stability, the machine fills a gap that bands and clamshells can't fully match at the same load.",
+      "pros": [
+        "Isolates gluteus medius and minimus with consistent loading",
+        "Seated position locks the hip angle for clean abductor work",
+        "Commercial-gym function in a home gym footprint",
+        "Targets a weak link many lifters can't load effectively otherwise"
+      ],
+      "cons": [
+        "Resistance bands and clamshells cover much of the same function at far lower cost"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "cable-pull-through-setup",
+      "badge": "Best Cable Setup",
+      "review": "The cable pull-through is the most cost-effective glute isolation in this lineup because it adds zero machine cost if you already own a cable rig — only a rope attachment is required. Set the cable at ankle height, hinge at the hips, and the rope provides constant tension through the full hip extension range. The movement pattern keeps the load on the glutes and hamstrings without quad compensation, which is hard to achieve with free weight movements. For lifters with a cable machine in their gym, the pull-through is the highest-leverage glute exercise you can add without buying anything substantial.",
+      "pros": [
+        "Zero added cost if a cable machine is already in the gym",
+        "Constant tension through the full hip extension range",
+        "Pattern keeps load on glutes and hamstrings without quad compensation",
+        "Pairs well with hip thrusts as a higher-rep accessory"
+      ],
+      "cons": [
+        "Requires an existing cable machine — not standalone equipment"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "hip-circle-band-by-sling-shot",
+      "badge": "Best Low-Cost Add-On",
+      "review": "The Sling Shot Hip Circle is a fabric resistance loop worn just above the knees during compound lower-body work, and it punches well above its price tag for what it actually delivers. The band creates continuous hip abductor tension during squats, hip thrusts, and lateral band walks, which increases gluteus medius activation throughout the lifts you're already doing. Many strength athletes use it as a warm-up tool to wake up the glutes before heavy compound work, and the cost is negligible compared to any dedicated machine. For home gyms that already own the basics, the hip circle is the single best low-cost add-on for improving glute engagement.",
+      "pros": [
+        "Increases glute medius activation during squats and hip thrusts",
+        "Effective warm-up tool before heavy compound work",
+        "Fabric construction doesn't roll up like rubber bands",
+        "Negligible cost relative to any dedicated machine"
+      ],
+      "cons": [
+        "Supplemental tool — not a replacement for loaded glute work"
+      ],
+      "grade": "A"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For glute-focused training programs",
+      "offerId": "hip-thrust-machine-by-prime-fitness",
+      "reason": "Padded lever arm and zero setup time make high-volume hip thrust work practical in a way that barbell-and-bench setups don't."
+    },
+    {
+      "label": "For comprehensive posterior chain training",
+      "offerId": "glute-ham-developer-by-rep-fitness",
+      "reason": "Covers GHR, back extension, hyperextension, and reverse hyper on one frame — single purchase replaces multiple pieces."
+    },
+    {
+      "label": "For knee tracking and runner-specific hip work",
+      "offerId": "hip-abductor-machine-by-body-solid",
+      "reason": "Seated isolation loads the gluteus medius and minimus consistently in a way bands and clamshells can't fully match at higher loads."
+    },
+    {
+      "label": "For home gyms with an existing cable machine",
+      "offerId": "cable-pull-through-setup",
+      "reason": "Zero added cost beyond a rope attachment, and constant tension through the full hip extension range produces clean glute and hamstring loading."
+    },
+    {
+      "label": "For improving glute engagement during compounds",
+      "offerId": "hip-circle-band-by-sling-shot",
+      "reason": "Continuous abductor tension during squats and hip thrusts increases gluteus medius activation at negligible cost — the best add-on per dollar."
+    }
+  ]
 }

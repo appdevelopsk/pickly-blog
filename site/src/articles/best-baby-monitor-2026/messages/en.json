@@ -104,5 +104,114 @@
     "babysense-v65": "Budget WiFi-free pick — 18,900 yen WiFi-free dedicated-radio baby monitor with 5-inch parent screen, 720p video, 110-degree fixed-position camera (no pan-and-tilt), infrared night vision rated 3-4 meters, two-way audio with VOX, 8 lullaby presets, temperature sensor, expandable to 4 cameras, no WiFi, no app, no cloud, no subscription. No AI features whatsoever — streaming video monitor with motion alerts and audio activation only; 720p resolution and fixed-position camera mean you set the camera angle once at installation and accept the baby may move out of frame as they grow into crawling; parent screen battery rated 8 hours degrades to 4-5 hours after 12-18 months of use with replacement screens at 7,000-9,000 yen and frequent stockouts; brand recognition in Japan is weaker than Anker Eufy or Cubo Ai with mixed after-sales support reviews (1-3 week support-ticket response times)."
   },
   "pinDescription": "Five baby monitors compared in 2026 from a 17,800 yen Anker Eufy SpaceView Pro to a 45,000 yen Nanit Pro. AI face-down detection vs streaming video vs WiFi-free architecture, the WiFi camera security tradeoff (hacking incidents, password rules, 30 cm cord-strangulation distance), monthly subscription costs that box prices hide, and the safety rules every marketing page skips — including why a baby monitor is not a medical device and does not prevent SIDS.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews.",
+  "products": [
+    {
+      "offerId": "cubo-ai-plus",
+      "badge": "Best AI Face-Down Detection",
+      "review": "Cubo Ai Plus is the only camera here whose AI face-covered, rollover, and danger-zone detection meaningfully changes the monitoring experience for 4-12 month olds in the rolling phase. The 1080p camera at 130-degree field of view streams over WiFi to the smartphone app, the AI model is trained on tens of thousands of nursery video samples, and the 18-piece lullaby library plus two-way audio cover the conventional parent-unit feature set. The 5-year cost is the part the box price hides: 39,800 yen plus a 1,400-1,800 yen/month Cubo Ai Plus Care subscription after the 6-12 month free trial works out to roughly 129,800 yen — without the subscription, the AI features that justify the premium disappear. Cloud-service dependency is structural, and the 1-3 false alerts per night for typical 6-12 month olds produce real alert fatigue.",
+      "pros": [
+        "Only camera here with AI face-covered, rollover, and danger-zone detection trained on validated nursery video samples",
+        "1080p video at 130-degree field of view with two-way audio and manual privacy shutter",
+        "AI cry classification distinguishes hunger, discomfort, and sleep cries",
+        "Pinterest-aesthetic cream-and-pastel design fits a photographable nursery"
+      ],
+      "cons": [
+        "Cubo Ai Plus Care subscription at 1,400-1,800 yen/month is mandatory for AI features after the free trial",
+        "WiFi-cloud architecture means complete dependency on Cubo Ai's cloud (multi-day outage in 2024 locked thousands of parents out)"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "eufy-spaceview-pro",
+      "badge": "Best WiFi-Free Mid-Tier",
+      "review": "The Anker Eufy SpaceView Pro is the WiFi-free pick for parents who primarily monitor from within the home and do not want the WiFi-camera security model or monthly subscription. The 720p camera on a closed 2.4 GHz radio link feeds a dedicated 5-inch parent screen with 4x digital zoom, 110-degree pan-and-tilt, and infrared night vision rated 4-5 meters in honest nursery conditions. VOX two-way audio, 8 lullaby presets, expandable to 4 cameras on one screen, and the parent-screen battery is rated 12 hours on standard use. Zero remote viewing — you cannot check on the baby from outside the radio range — and no AI face-down detection. Anker's hardware-quality reputation justifies the mid-tier price, and the absence of WiFi configuration, app, and cloud account is the entire value proposition.",
+      "pros": [
+        "Zero WiFi, cloud, app, or subscription — closed 2.4 GHz radio link with dedicated parent screen",
+        "110-degree pan-and-tilt with 4x digital zoom on a 5-inch screen",
+        "Expandable to 4 cameras on a single parent screen for multi-room or twins",
+        "Anker hardware-engineering quality reputation justifies the mid-tier price"
+      ],
+      "cons": [
+        "Zero remote viewing — cannot check on the baby from outside the radio range",
+        "720p resolution is visibly below the 1080p WiFi-camera tier on the 5-inch parent screen"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "nanit-pro-smart-camera",
+      "badge": "Best for Sleep Analytics",
+      "review": "Nanit Pro Smart Camera is the data-analytics pick — 1080p HDR video at 130-degree field of view, AI breathing-motion detection via computer vision on the chest area (no worn sensor), sleep-quality scoring, and growth-tracking via the Nanit Smart Sheet. Apple HomeKit and Google Home integration both work. The 45,000 yen box price plus the 1,500-2,500 yen/month Nanit Insights subscription is the headline cost, but the hidden cost is the Nanit Breathing Wear that the AI breathing-motion detection requires — 4,500-6,500 yen per garment, outgrown every 3-4 months. Without the Breathing Wear, the camera degrades to a streaming video monitor with motion alerts. The wall-mount over the crib requires drilling that most Japanese rental apartments prohibit.",
+      "pros": [
+        "AI breathing-motion detection via computer vision (no worn sensor required)",
+        "1080p HDR video with detailed sleep-quality scoring and growth-tracking",
+        "Apple HomeKit and Google Home integration both work",
+        "Nanit Sound + White Noise library plus two-way audio"
+      ],
+      "cons": [
+        "Nanit Breathing Wear required for AI breathing detection costs 4,500-6,500 yen per garment outgrown every 3-4 months",
+        "Wall-mount over the crib requires drilling that most Japanese rental apartments prohibit"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "owlet-cam-2",
+      "badge": "Best for Owlet Ecosystem",
+      "review": "Owlet Cam 2 is the streaming-video WiFi camera for parents who specifically want the Owlet brand and ecosystem — often because they are also evaluating the Owlet Dream Sock for pulse-oximetry tracking (sold separately). The 1080p HDR camera at 130-degree field of view streams to the Owlet Dream app, with two-way audio, motion and sound alerts at configurable sensitivity, infrared night vision rated 3-4 meters, and Apple HomeKit integration. Owlet's company history includes the 2021 FDA warning letter for marketing the original Smart Sock as a SIDS-prevention device without medical clearance — current Cam 2 is FDA-cleared as wellness consumer electronics, not as a medical or SIDS-prevention device. No AI face-covered or rollover detection. The cloud video history feature requires the 800-1,500 yen/month Owlet Premium subscription.",
+      "pros": [
+        "1080p HDR video at 130-degree field of view with Apple HomeKit integration",
+        "Integrates with Owlet Dream Sock for households that want pulse-oximetry tracking",
+        "Optional Owlet Premium subscription is cheaper than Cubo Ai Plus Care (800-1,500 yen/month)",
+        "Lower entry price than Cubo Ai Plus or Nanit Pro at 28,800 yen"
+      ],
+      "cons": [
+        "No AI face-covered or rollover detection — motion alerts only",
+        "WiFi required for the camera-to-app connection with no local-only fallback mode"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "babysense-v65",
+      "badge": "Best WiFi-Free Budget",
+      "review": "Babysense V65 5-inch is the lowest-priced WiFi-free dedicated-radio baby monitor with a 5-inch parent screen in this comparison. 720p video, 110-degree fixed-position camera (no pan-and-tilt), infrared night vision rated 3-4 meters, VOX two-way audio, 8 lullaby presets, temperature sensor, expandable to 4 cameras. Babysense Japan distributes via Rakuten and Amazon Japan with a 1-year domestic warranty. No AI features whatsoever — motion alerts and audio activation only. The fixed-position camera means you set the angle once at installation and accept that the baby may move out of frame as they reach the crawling stage. The parent-screen battery rated 8 hours degrades to 4-5 hours after 12-18 months and replacement screens at 7,000-9,000 yen face frequent stockouts.",
+      "pros": [
+        "Lowest price in the WiFi-free 5-inch parent screen category",
+        "Zero WiFi, cloud, app, or subscription with 1-year Japan domestic warranty",
+        "Expandable to 4 cameras on a single parent screen",
+        "Babysense's 20-year history in the audio and video baby monitor category"
+      ],
+      "cons": [
+        "Fixed-position camera with no pan-and-tilt — baby grows out of frame as they reach crawling",
+        "Brand recognition in Japan weaker than Anker Eufy with 1-3 week support-ticket response times"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For parents of 4-12 month olds in the rolling phase who want AI safety alerts",
+      "offerId": "cubo-ai-plus",
+      "reason": "The AI face-covered and rollover detection is the only feature in this comparison that meaningfully changes monitoring during the highest-risk months."
+    },
+    {
+      "label": "For parents who want to avoid WiFi cameras and monthly subscriptions",
+      "offerId": "eufy-spaceview-pro",
+      "reason": "Closed 2.4 GHz radio link with a dedicated 5-inch parent screen eliminates the entire WiFi-camera security threat surface and subscription cost."
+    },
+    {
+      "label": "For parents who specifically value sleep-quality analytics",
+      "offerId": "nanit-pro-smart-camera",
+      "reason": "Sleep-quality scoring and growth-tracking with the Smart Sheet are unique here, if you can install the wall-mount and budget for Breathing Wear."
+    },
+    {
+      "label": "For households also evaluating the Owlet Dream Sock for pulse-oximetry",
+      "offerId": "owlet-cam-2",
+      "reason": "The Cam 2 integrates with the Dream Sock and shares the Owlet Dream app, which is the structural reason to choose it over Cubo Ai or Nanit."
+    },
+    {
+      "label": "For the lowest-priced WiFi-free monitor with a 5-inch screen",
+      "offerId": "babysense-v65",
+      "reason": "Cheapest WiFi-free dedicated-radio option here with a 5-inch parent screen — for parents who do not need pan-and-tilt or AI features."
+    }
+  ]
 }

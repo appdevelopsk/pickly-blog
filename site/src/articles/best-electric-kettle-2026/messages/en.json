@@ -88,5 +88,114 @@
     "zojirushi-cv-dcc40-kettle": "Best for all-day hot water use — 4L vacuum insulation holds temperature for hours with minimal electricity, 3 keep-warm settings (70°C/80°C/98°C), built-in descaling mode. Heavy at 3.3 kg; 3 fixed temperatures only; higher upfront cost; needs permanent counter space."
   },
   "pinDescription": "5 electric kettles compared in 2026: from a $28 budget pick to the Fellow Stagg EKG pour-over specialist. Temperature accuracy, gooseneck vs standard spout, keep-warm duration — what actually matters for green tea and pour-over coffee.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "breville-bke820xl-kettle",
+      "badge": "Best Overall",
+      "review": "The Breville BKE820XL is the kettle to buy when you want one machine to handle tea and coffee without compromise. The 60-100 °C variable dial pairs with dedicated presets for green tea, oolong, and black tea so you stop guessing temperatures by tea type, and the 1.8 L capacity covers a household of two to four without refills. The 20-minute keep-warm holds within ±3 °C, which is the part most kettles get wrong. Build quality feels deliberate — the dial has a firm detent, the lid seals cleanly, and the stainless interior produces no off-flavors after the initial break-in. Gooseneck spout slows large-vessel fills slightly but is otherwise an asset.",
+      "pros": [
+        "Continuous 60-100 °C variable control with tea-specific presets",
+        "Keep-warm holds within ±3 °C for the full 20 minutes",
+        "1.8 L covers households of two to four",
+        "Premium build with stainless interior"
+      ],
+      "cons": [
+        "Gooseneck slows down filling large vessels",
+        "Premium price compared with preset-only kettles"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "fellow-stagg-ekg-kettle",
+      "badge": "Best for Pour-Over",
+      "review": "The Fellow Stagg EKG is a single-purpose tool that does its job better than anything else here. The counterbalanced handle shifts the center of gravity toward your wrist, so a four-minute V60 pour does not turn into a wrist workout, and the narrow gooseneck gives you direct flow-rate control at the grip rather than via tilt angle. The 40-100 °C range with the Brew Stopwatch on the LCD makes dialing in light roasts straightforward, and the 60-minute keep-warm holds tight enough for back-to-back brews. The 0.9 L capacity is the deliberate trade-off — this is a one-or-two-cup tool, not a family kettle. Build is the most refined in this lineup.",
+      "pros": [
+        "Counterbalanced handle noticeably reduces wrist fatigue",
+        "Direct flow-rate control via narrow gooseneck",
+        "Brew Stopwatch on LCD for timed pours",
+        "Most refined construction in this comparison"
+      ],
+      "cons": [
+        "0.9 L caps you at one or two cups per fill",
+        "Highest price in the group"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "cuisinart-cpk17-kettle",
+      "badge": "Best Mid-Range",
+      "review": "The Cuisinart CPK-17 is the right kettle when you want variable temperature without paying premium prices. Six presets (71, 79, 85, 88, 100 °C plus a hold) cover the meaningful brewing range for most households, the 1.7 L body handles family-size brewing, and the wide spout fills a 1 L French press in under 30 seconds. Keep-warm is honest for the first 20 minutes and starts drifting at minute 25, so as long as you brew within the first half of the cycle you get accurate temperature. Build quality is solidly mid-tier — not as tactile as the Breville, but nothing feels cheap. The right choice if you want 90% of the Breville for less money.",
+      "pros": [
+        "Six presets cover most everyday brewing temperatures",
+        "1.7 L capacity and wide spout for fast fills",
+        "Solid stainless interior with no off-flavors",
+        "Significantly cheaper than the Breville"
+      ],
+      "cons": [
+        "Presets only — no continuous variable control",
+        "Keep-warm starts drifting after 20 minutes"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "hamilton-beach-40880-kettle",
+      "badge": "Best Budget",
+      "review": "The Hamilton Beach 40880 is the cheapest variable-temperature kettle worth buying. Five presets cover the basics, the 1.7 L body fills a French press or drip reservoir without refilling, and the wide spout pours fast. The trade-offs are honest: the plastic lid components add a faint taste to the first few uses, the keep-warm drifts 5-8 °C below the set temperature by the 20-minute mark, and there is no gooseneck for pour-over precision. Build feels lighter than the Cuisinart, and long-term reviews put the lifespan around three to five years rather than the six to eight you can expect from mid-tier kettles. At this price the math still works for occasional brewers.",
+      "pros": [
+        "Cheapest variable-temperature kettle worth recommending",
+        "1.7 L practical family capacity",
+        "Wide spout pours fast",
+        "Simple preset interface"
+      ],
+      "cons": [
+        "Plastic lid affects taste for the first few uses",
+        "Highest keep-warm drift in this comparison"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "zojirushi-cv-dcc40-kettle",
+      "badge": "Best for All-Day Use",
+      "review": "The Zojirushi CV-DCC40 is not a kettle in the same sense as the others — it is a 4 L vacuum-insulated hot water dispenser that boils once and then holds water at 70, 80, or 98 °C for hours with almost no power draw. For households where multiple people drink tea or instant drinks throughout the day, that math beats any active-element kettle on running cost and convenience. The MICOM controls include a built-in citric acid descaling cycle, which removes a real maintenance chore. Trade-offs are real: three fixed temperatures rather than continuous variable, 3.3 kg empty, and a permanent counter footprint. Lifespan typically reaches 8 to 12 years in Japanese households.",
+      "pros": [
+        "Vacuum insulation holds temperature for hours on minimal power",
+        "Three keep-warm temperatures preserve flavor over a full day",
+        "Built-in citric acid descaling mode",
+        "Long lifespan — 8 to 12 years is typical"
+      ],
+      "cons": [
+        "Only three fixed temperature settings",
+        "Heavy and requires permanent counter space"
+      ],
+      "grade": "A"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "The tea-and-coffee household",
+      "offerId": "breville-bke820xl-kettle",
+      "reason": "Continuous 60-100 °C control with tea-specific presets covers both rituals, and 1.8 L scales to multiple cups without refills."
+    },
+    {
+      "label": "The daily pour-over brewer",
+      "offerId": "fellow-stagg-ekg-kettle",
+      "reason": "The counterbalanced gooseneck and Brew Stopwatch make precision pours easier than any other kettle here."
+    },
+    {
+      "label": "The variable-temperature buyer on a budget",
+      "offerId": "cuisinart-cpk17-kettle",
+      "reason": "Six presets and a 1.7 L body deliver most of the Breville's capability for significantly less."
+    },
+    {
+      "label": "The first-time buyer",
+      "offerId": "hamilton-beach-40880-kettle",
+      "reason": "Lowest variable-temperature price point with the basics covered, so trying a temperature-controlled kettle is low risk."
+    },
+    {
+      "label": "The all-day hot water family",
+      "offerId": "zojirushi-cv-dcc40-kettle",
+      "reason": "Vacuum insulation holds 4 L at temperature for hours, which beats repeated boils on running cost and convenience."
+    }
+  ]
 }

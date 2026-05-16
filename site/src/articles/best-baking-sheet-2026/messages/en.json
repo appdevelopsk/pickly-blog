@@ -58,5 +58,114 @@
     "chicago-metallic-baking-sheet": "Heavy-gauge aluminized steel, uncoated, commercial grade. $20-35. Professional bakery standard — same construction as commercial baking operations. Uncoated surface for maximum browning, structural rigidity of aluminized steel."
   },
   "pinDescription": "Baking sheet comparison 2026: Nordic Ware vs USA Pan vs Wilton vs OXO vs Chicago Metallic — why gauge matters, nonstick vs uncoated aluminum, and which baking sheet actually produces better cookies and roasted vegetables.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "nordic-ware-baking-sheet",
+      "badge": "Best Overall",
+      "review": "The Nordic Ware Natural Aluminum Half Sheet is the baseline most professional kitchens compare other sheets to. Heavy-gauge pure aluminum (around 1.3 mm) means the pan does not flex, ping, or buckle when you load it into a hot oven, and the uncoated surface absorbs heat directly so cookies brown evenly across the whole sheet. It develops a darker patina over time, which is cosmetic rather than a performance issue. There is no nonstick treatment, so parchment or a silicone mat is a normal part of using it. For the price, the longevity is hard to beat — these sheets routinely outlast cheaper pans by a decade.",
+      "pros": [
+        "Heavy-gauge aluminum that resists warping at high oven temperatures",
+        "Even, edge-to-edge browning thanks to the uncoated surface",
+        "Inexpensive given how long it lasts",
+        "Safe with metal spatulas and any oven temperature"
+      ],
+      "cons": [
+        "Not nonstick — you need parchment paper or a silicone mat for most recipes",
+        "Visible discoloration develops with regular use"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "usa-pan-half-sheet",
+      "badge": "Best Warp Resistance",
+      "review": "USA Pan builds its half-sheet from aluminized steel with a corrugated base and a silicone-based nonstick coating that is rated to a higher temperature than typical PTFE pans. The corrugation is the differentiator: it acts like ribbing on a structural panel and makes the sheet noticeably stiffer than a flat pan of similar weight. That stiffness pays off when you go straight from freezer to oven, where cheaper sheets tend to bow. The silicone surface releases sticky doughs and caramelized vegetables without parchment, although the ribs do leave a faint pattern on the bottom of thin cookies. Build quality is consistent batch to batch.",
+      "pros": [
+        "Corrugated base makes it the stiffest sheet in this lineup",
+        "Silicone coating releases well and tolerates higher heat than PTFE",
+        "Aluminized steel resists rust and dents",
+        "Made in USA with reliable seam quality"
+      ],
+      "cons": [
+        "Corrugation leaves a subtle texture on flat cookies",
+        "Coating is durable but not as indestructible as bare aluminum"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "wilton-baking-sheet",
+      "badge": "Best Budget",
+      "review": "The Wilton Nonstick half sheet is the pan most people start with: cheap, available in any grocery store, and genuinely nonstick out of the box. The steel gauge is on the thinner side, so the pan flexes when you lift it loaded and tends to develop a slight curve after a year of regular use. The PTFE coating works well for cookies and biscuits but degrades above 500°F and scratches if you use metal utensils on it. Treat it as a two-to-three-year consumable rather than a lifetime tool and it makes sense at this price. It is fine for occasional bakers and people who do not want to deal with parchment paper.",
+      "pros": [
+        "Lowest price in this comparison",
+        "Reliable nonstick release straight out of the box",
+        "Light enough to handle one-handed",
+        "Widely available in stores and online"
+      ],
+      "cons": [
+        "Thin gauge warps over time and audibly pops in a hot oven",
+        "PTFE coating wears out within two to three years of regular use"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "oxo-good-grips-baking-sheet",
+      "badge": "Best Nonstick",
+      "review": "If you want nonstick without dealing with parchment, the OXO Good Grips sheet is the more grown-up version of the Wilton. The gauge is noticeably heavier, the rolled edges are wider for a more confident grip with oven mitts, and the coating holds up better through dishwasher cycles. It still has the temperature ceiling that comes with any PTFE-based nonstick, so very high-heat roasting will shorten its life. For everyday cookies, sheet-pan dinners with marinades that would weld onto bare aluminum, and bakers who hate scrubbing, this is the easiest sheet to live with. Expect it to last several years, not a decade.",
+      "pros": [
+        "Heavier gauge than budget nonstick sheets — much less warping",
+        "Wider rolled rim is genuinely easier to grip with mitts",
+        "Coating holds up well through regular dishwasher use",
+        "Releases sticky glazes and marinades without parchment"
+      ],
+      "cons": [
+        "PTFE coating limits maximum oven temperature",
+        "Won't outlast an uncoated heavy aluminum pan"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "chicago-metallic-baking-sheet",
+      "badge": "Best for Pros",
+      "review": "Chicago Metallic is what you find stacked under the bench in commercial bakeries, and the home-line half-sheet uses the same heavy-gauge aluminized-steel construction. Surface is uncoated, so it browns like Nordic Ware does, but the aluminized steel adds rigidity that pure aluminum sheets do not have. The trade-off is weight — these are noticeably heavier in the hand. Fit and finish are utilitarian: the seams are clean, the rolled edges are tight, and the pan sits flat on a rack without rocking. For someone who bakes in volume and wants a pan that will absorb decades of abuse, this is the no-drama option.",
+      "pros": [
+        "Commercial-grade aluminized steel — extremely rigid",
+        "Uncoated surface gives maximum browning",
+        "Flat-sitting, no rocking on the oven rack",
+        "Built for high-volume use"
+      ],
+      "cons": [
+        "Heavier than pure aluminum equivalents",
+        "Plain finish — no nonstick, requires parchment for sticky doughs"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "The serious home baker",
+      "offerId": "nordic-ware-baking-sheet",
+      "reason": "Nordic Ware's heavy uncoated aluminum gives the most even browning and will outlast anything else in this lineup."
+    },
+    {
+      "label": "The freezer-to-oven cook",
+      "offerId": "usa-pan-half-sheet",
+      "reason": "The corrugated aluminized steel resists warping even with extreme temperature swings, which is exactly when cheaper sheets buckle."
+    },
+    {
+      "label": "The occasional baker on a budget",
+      "offerId": "wilton-baking-sheet",
+      "reason": "Cheap enough to treat as a consumable, and the PTFE coating handles cookies and biscuits without any technique."
+    },
+    {
+      "label": "The parchment-hater",
+      "offerId": "oxo-good-grips-baking-sheet",
+      "reason": "The durable coating and rolled rim mean you can roast sticky glazes and clean up in the dishwasher without ruining the pan."
+    },
+    {
+      "label": "The high-volume baker",
+      "offerId": "chicago-metallic-baking-sheet",
+      "reason": "Commercial-grade aluminized steel handles back-to-back batches and stays flat after years of heavy use."
+    }
+  ]
 }

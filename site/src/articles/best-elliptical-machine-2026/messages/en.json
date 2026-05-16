@@ -64,5 +64,111 @@
     "nautilus-e616-elliptical": "Best for quiet operation in shared living spaces — the Nautilus E616's drive system runs noticeably quieter than the Schwinn 470 or Sole E35 at equivalent resistance levels, which matters in apartments or homes where noise transfers to other rooms. 25 resistance levels, power incline to 10%, Bluetooth connectivity to the Nautilus app. The 51 cm stride fits the 163–175 cm range."
   },
   "pinDescription": "Best elliptical machines 2026: NordicTrack SE7i adjustable stride vs Sole E35 flywheel smoothness vs Schwinn 470 budget pick vs Bowflex Max Trainer for short sessions — low-impact cardio guide.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "nordictrack-se7i-elliptical",
+      "badge": "Best for Multi-User Households",
+      "review": "The SE7i's signature feature is its power-adjustable stride that shifts automatically between 46 and 61 cm during a workout — no other elliptical in this comparison fits a 160 cm and a 190 cm user from the same machine without compromise. Combined with the powered 0-10% incline that adjusts in 1% increments, the SE7i lets an iFit trainer change both stride and incline mid-session without the rider touching any control. The connected experience is the strongest of any elliptical here: iFit's library includes terrain-matched outdoor routes that adjust resistance to the actual elevation profile. The flywheel is lighter than the Sole's, but electronic resistance control compensates well enough at moderate levels.",
+      "pros": [
+        "Power-adjustable 46-61 cm stride fits users from 160 cm to 195 cm",
+        "Powered 0-10% incline adjusts automatically during iFit sessions",
+        "iFit terrain-matching for outdoor route simulation",
+        "Front-drive geometry produces a natural inclined walking arc"
+      ],
+      "cons": [
+        "iFit subscription required to unlock most automated features",
+        "Lighter flywheel feels less smooth than the Sole at low resistance"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "sole-e35-elliptical",
+      "badge": "Best Motion Feel",
+      "review": "The E35 earns its reputation as the smoothest mid-range elliptical because the 13.6 kg flywheel is the heaviest in this comparison — heavy enough to carry rotational momentum through the dead spots in the stroke cycle where lighter flywheels feel jerky. The 58 cm stride is the longest fixed stride here, which fits users 175 cm and taller in a way the 51 cm machines don't. Rear-drive geometry produces a flat, running-like motion that many users prefer over front-drive arcs. There's no app subscription requirement — the 20-position manual incline ramp handles training variety, which keeps long-term cost predictable.",
+      "pros": [
+        "13.6 kg flywheel — heaviest here for the smoothest motion",
+        "58 cm fixed stride accommodates full leg extension on taller users",
+        "Rear-drive geometry creates a flat running-like motion",
+        "No subscription required for full functionality"
+      ],
+      "cons": [
+        "Manual 20-position incline ramp — no electronic incline control"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "schwinn-470-elliptical",
+      "badge": "Best Budget Pick",
+      "review": "The Schwinn 470 hits the value sweet spot for entry-level elliptical buyers who still want real features. 25 resistance levels and powered incline to 10% cover the training adjustability most users need, and Bluetooth pairing with Zwift and other third-party apps means you're not locked into a proprietary ecosystem. The 9 kg flywheel is lighter than the Sole's but adequate for the moderate resistance range where most home users actually train. The 51 cm fixed stride fits the 163-175 cm height range well, which covers a large portion of buyers. Dual LCD displays and Bluetooth heart rate monitoring handle the data side without premium pricing.",
+      "pros": [
+        "25 resistance levels and powered 0-10% incline at a budget price",
+        "Bluetooth pairing with Zwift and third-party apps",
+        "Dual LCD/backlit display with heart rate monitoring",
+        "51 cm stride fits the 163-175 cm height range well"
+      ],
+      "cons": [
+        "9 kg flywheel less smooth than the Sole at equivalent resistance"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "bowflex-max-trainer-m9",
+      "badge": "Best for Short HIIT Sessions",
+      "review": "The Max Trainer M9 is a genuinely different machine — a hybrid of elliptical arm swing and stair-climber step arc that produces significantly higher caloric burn per minute than any conventional elliptical here. The motion arc is short (around 35 cm), the pedals travel a tight up-down path rather than a wide oval, and the entire machine is built to maximize intensity in 20-30 minute windows. JRNY adaptive coaching adjusts resistance in real time based on heart rate, which matches the machine's HIIT purpose. The compact footprint is meaningfully smaller than any standard elliptical, which makes it the right pick for apartment setups where floor space is the binding constraint.",
+      "pros": [
+        "Hybrid elliptical/stair-climber motion maximizes calorie burn rate",
+        "JRNY adaptive coaching adjusts resistance to heart rate",
+        "Compact footprint fits apartments where conventional ellipticals don't",
+        "20 resistance levels with focus on HIIT-style intensity"
+      ],
+      "cons": [
+        "Short stride feels uncomfortable for users with hip flexor issues",
+        "Not designed for long steady-state cardio sessions"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "nautilus-e616-elliptical",
+      "badge": "Best for Quiet Operation",
+      "review": "The Nautilus E616 differentiates on noise: its drive system runs noticeably quieter than the Schwinn 470 or even the Sole E35 at equivalent resistance, which is the deciding factor in apartments or houses where the elliptical sits near a sleeping family member. 25 resistance levels and powered incline to 10% match the Schwinn's feature set, and Bluetooth connects the machine to the Nautilus app for workout tracking. The 8 kg flywheel is the lightest here, which is the trade-off for the quieter operation — at high resistance the motion feel is less smooth than the Sole, but at moderate levels the difference is harder to detect.",
+      "pros": [
+        "Quietest drive system in this comparison at equivalent resistance",
+        "25 resistance levels with powered 0-10% incline",
+        "Bluetooth connectivity to the Nautilus app",
+        "51 cm stride matches the typical home-user height range"
+      ],
+      "cons": [
+        "8 kg flywheel — lightest here, less smooth at high resistance"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For multi-user households with varied heights",
+      "offerId": "nordictrack-se7i-elliptical",
+      "reason": "The power-adjustable 46-61 cm stride is the only solution here that fits a 160 cm and a 190 cm user from the same machine without compromise."
+    },
+    {
+      "label": "For the smoothest possible motion feel",
+      "offerId": "sole-e35-elliptical",
+      "reason": "The 13.6 kg flywheel — heaviest in this comparison — carries rotational momentum through the stroke dead spots that lighter flywheels can't smooth out."
+    },
+    {
+      "label": "For budget buyers who still want real features",
+      "offerId": "schwinn-470-elliptical",
+      "reason": "25 resistance levels, powered incline to 10%, and Bluetooth pairing with Zwift at the lowest price in this comparison."
+    },
+    {
+      "label": "For short, high-intensity training sessions",
+      "offerId": "bowflex-max-trainer-m9",
+      "reason": "The hybrid elliptical/stair-climber motion produces higher caloric output per minute than any conventional elliptical here — built for 20-30 minute HIIT windows."
+    },
+    {
+      "label": "For apartments where noise matters",
+      "offerId": "nautilus-e616-elliptical",
+      "reason": "The drive system runs noticeably quieter than the Schwinn or Sole at equivalent resistance — the right pick when the machine sits near sleeping family."
+    }
+  ]
 }

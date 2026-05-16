@@ -102,5 +102,113 @@
     "alps-mountaineering-lightweight": "Under 2 kg, no electricity required, packs to sleeping-bag size. Camping use only — not suitable as a primary guest bed for adults expecting comfort."
   },
   "pinDescription": "5 air mattresses compared honestly — 40-coil indoor giants vs lightweight camping pads. Which one actually works for guests at 11pm? Full breakdown inside.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews.",
+  "products": [
+    {
+      "offerId": "soundasleep-dream-series",
+      "badge": "Best Overall",
+      "review": "The SoundAsleep Dream Series wins this comparison on sleep surface alone. Forty internal ComfortCoil beams hold the queen surface flat enough that you can sit on the edge without the center lifting — a small thing until you have a guest making the bed at 7 AM. Inflation finishes in under four minutes, the pump has a memory valve so it does not lose air when you switch modes, and the 0.6 mm puncture-resistant PVC on the bottom takes a stray hair pin or pet claw without complaint. At 48 cm high it sits at the same height as a hotel bed, and two adults under a combined 180 kg sleep without significant center sag. The most consistent guest-bed performer here.",
+      "pros": [
+        "40 ComfortCoil beams keep the sleeping surface flat under side sleepers",
+        "Under-4-minute inflation with a memory valve to switch modes cleanly",
+        "0.6 mm puncture-resistant PVC bottom surface",
+        "48 cm height matches a conventional bed for older guests"
+      ],
+      "cons": [
+        "At roughly $100-120 it is double the price of basic single-chamber air mattresses"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "intex-dura-beam-deluxe",
+      "badge": "Best Value",
+      "review": "Intex's fiber-tech construction bonds the top sheet to the base with thousands of polyester filaments rather than discrete coils — different mechanism, similar anti-bulge behavior at roughly half the SoundAsleep's price. The built-in pump runs at about 55 dB, meaningfully quieter than competitors, which matters when you are setting up a guest room without waking the household. The 42 cm double-high queen takes standard fitted sheets in the 28-35 cm depth range, and the fabric carry bag included in the box is the most complete storage solution in this lineup — handles, room to fight the mattress in, no separate purchase required. Inflation and deflation each take 4-5 minutes.",
+      "pros": [
+        "Fiber-tech construction prevents the barrel-bulge of single-chamber units",
+        "Quietest built-in pump in this comparison at roughly 55 dB",
+        "Fabric carry bag included — no separate storage solution needed",
+        "Cheapest double-high queen with an electric pump"
+      ],
+      "cons": [
+        "No memory valve — must close manually before switching pump modes",
+        "Intex's standard warranty is 90 days, shortest in this comparison"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "coleman-supportrest-plus",
+      "badge": "Best for Guests",
+      "review": "Coleman's double-high 46 cm design and auto-shutoff pump aim squarely at the guest-bed use case. The pump stops automatically when target pressure is reached rather than requiring manual shutoff — over-inflation is the most common cause of seam stress, and removing that risk meaningfully extends the lifespan. The comfort-mapped foam-feel top layer sits over the air chamber and softens the contact pressure compared to a bare PVC surface. The fabric is stiffer than the Intex out of the box, which means the first few re-packs take 10-15 minutes until the fabric learns the fold pattern, but the trade is durability — the same stiffness that resists folding also resists daily wear from sitting on the edge.",
+      "pros": [
+        "Auto-shutoff pump prevents over-inflation and extends seam life",
+        "46 cm double-high height matches a conventional bed",
+        "Coleman brand sold through Japanese outdoor retailers with domestic support",
+        "Foam-feel comfort surface over the air chamber"
+      ],
+      "cons": [
+        "Stiff fabric makes the first 4-5 re-packings noticeably slow",
+        "Coil structure not published — comfort comes from the foam top rather than internal support"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "king-koil-luxury-air-mattress",
+      "badge": "Best Pillow Top",
+      "review": "The King Koil is the only mattress in this comparison with a stitched pillow top — 5 cm of independent cushioning that sits above the air chamber and maintains its shape even if the air pressure drops 5-10% overnight (which happens on every air mattress, regardless of marketing). At 50 cm total height with the pillow top, it is the closest to a hotel-bed feel here. The pump inflates the full queen in under 3.5 minutes — fastest relative to its larger volume — and the 227 kg weight capacity covers two adults comfortably. The structural cost is storage: the pillow top retains shape after deflation and leaves the unit about 20% larger than a pillow-top-free queen, which is real if your closet is already full.",
+      "pros": [
+        "Stitched 5 cm pillow top adds independent cushioning above the air chamber",
+        "50 cm total height and 227 kg weight capacity",
+        "Fastest pump-relative-to-volume in this comparison (under 3.5 minutes)",
+        "Most consistent overnight feel even as air pressure drops slightly"
+      ],
+      "cons": [
+        "Pillow top retains bulk after deflation — hardest to store of the electric-pump models",
+        "Pillow top not field-repairable with the standard patch kit"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "alps-mountaineering-lightweight",
+      "badge": "Best for Camping",
+      "review": "The ALPS Mountaineering lightweight is the only honest camping mattress in this lineup — under 2 kg, packs to sleeping-bag size (roughly 40 × 18 cm), no electric pump dependency, and a standard valve compatible with backpacking foot pumps and 12V car adaptors. It is intentionally single-low at 12 cm: not enough cushion for a side-sleeping adult on a hardwood floor, but appropriate for tent camping where pack size and weight dominate the requirement. Treating this as a budget guest mattress is the category mistake most common in negative buyer reviews — it is genuinely good at what it is for, and genuinely wrong for what it is not.",
+      "pros": [
+        "Under 2 kg with sleeping-bag-sized pack volume",
+        "No electricity required — foot pump or 12V car adaptor inflation",
+        "Roughly 40% less storage space than indoor double-high units",
+        "One-year manufacturer warranty"
+      ],
+      "cons": [
+        "Single-low 12 cm height is uncomfortable for indoor adult guest use",
+        "Minimal internal structure — sleeps more like a thin air pad than a mattress"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For regular guest hosting where comfort matters most",
+      "offerId": "king-koil-luxury-air-mattress",
+      "reason": "The stitched 5 cm pillow top is the only feature here that maintains cushioning even as the air chamber loses pressure overnight."
+    },
+    {
+      "label": "For first-time buyers who want one mattress that just works",
+      "offerId": "soundasleep-dream-series",
+      "reason": "Forty ComfortCoil beams plus 0.6 mm puncture-resistant PVC and a 48 cm height covers the broadest range of guest needs without trade-offs."
+    },
+    {
+      "label": "For budget-conscious households who still want a double-high",
+      "offerId": "intex-dura-beam-deluxe",
+      "reason": "Fiber-tech construction at roughly half the SoundAsleep price, plus the included fabric carry bag, makes it the cleanest entry-tier choice."
+    },
+    {
+      "label": "For households worried about over-inflation and seam life",
+      "offerId": "coleman-supportrest-plus",
+      "reason": "The auto-shutoff pump removes the most common cause of seam stress and Coleman's domestic Japanese retailer support is real."
+    },
+    {
+      "label": "For tent camping and ultralight travel use",
+      "offerId": "alps-mountaineering-lightweight",
+      "reason": "Under 2 kg with sleeping-bag pack size and no electric pump dependency — the only product here built for the outdoor use case."
+    }
+  ]
 }

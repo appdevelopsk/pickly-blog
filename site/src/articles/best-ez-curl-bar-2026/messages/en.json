@@ -58,5 +58,110 @@
     "standard-ez-curl-bar-25mm": "Standard (1-inch sleeves), ~10-12 lb bar, shorter length. $25-45. Correct for athletes with standard 1-inch plates. Not compatible with Olympic plates. Adequate for bicep curls and tricep extensions at home gym loads."
   },
   "pinDescription": "EZ curl bar comparison 2026: Olympic vs standard, CAP vs Rogue vs Titan, why the angled grip reduces wrist and elbow stress, and which EZ curl bar is worth buying for arm training at home.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "cap-barbell-ez-curl-bar",
+      "badge": "Best Budget Olympic",
+      "review": "The CAP Olympic EZ Curl Bar is the most common entry-level Olympic EZ curl bar for a reason: at around 18 lb bar weight with a 47-inch length, it fits standard Olympic plates and handles the loads most home gym lifters actually put on a curl bar. The chrome finish is consistent rather than premium, and the medium knurl provides adequate grip without tearing skin during high-rep sets. Bushing sleeves are appropriate for arm training — the rotation speed and load profile of curls and skull crushers don't demand the bearings found on premium bars. For anyone with Olympic plates who wants a functional EZ curl bar without paying for build quality they won't load heavily, this is the correct entry point.",
+      "pros": [
+        "Olympic 2-inch sleeves fit standard Olympic plates",
+        "47-inch length and ~18 lb bar weight match standard expectations",
+        "Bushing sleeves adequate for typical curl and skull-crusher loads",
+        "Chrome finish and medium knurl deliver functional grip at low cost"
+      ],
+      "cons": [
+        "Knurl consistency and finish tolerances below premium bars"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "rogue-curl-bar",
+      "badge": "Best Premium Build",
+      "review": "The Rogue Curl Bar is built to the same construction standard as Rogue's main barbell line — 28 mm shaft diameter, bronze bushings, bright zinc chrome finish, and a roughly 22 lb bar weight. Knurl depth is consistent across the grip sections, dual knurl marks index hand placement, and sleeve tolerances are tight enough that plates seat without play. For lifters who regularly load curls or skull crushers beyond 80-100 lb total plate weight, the construction holds up over years of heavy use where the lighter budget bars eventually show flex or sleeve wear. The premium is genuinely hard to justify for light arm training, but for buyers who want a curl bar that matches the build quality of their main barbell, it's the right pick.",
+      "pros": [
+        "28 mm shaft with bronze bushings — premium barbell-grade construction",
+        "Consistent knurl depth and dual knurl marks for hand placement",
+        "Tight sleeve tolerances — plates seat without play",
+        "Bright zinc chrome finish resists corrosion long-term"
+      ],
+      "cons": [
+        "Roughly 4-5x the price of a CAP bar for similar arm training function",
+        "Overkill for lifters who never load curls beyond 60 lb plate weight"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "body-solid-ez-curl-bar",
+      "badge": "Best Knurl Consistency",
+      "review": "The Body-Solid EZ Curl Bar slots in between the CAP budget tier and Rogue's premium build. The knurl is more consistent across the bar than the CAP — fewer flat spots, more uniform depth — and the chrome finish has tighter tolerances on the sleeves. Construction is still bushing rather than bearing, which is appropriate for the curl/extension load profile. For lifters who've used a CAP and felt the knurl inconsistencies bother them during high-rep sets, or who want a slightly better-finished bar without paying Rogue prices, Body-Solid is the right mid-step. The functional difference from the CAP is modest, but for buyers who notice finish details, it's worth the small upgrade.",
+      "pros": [
+        "More consistent knurl than the CAP across the grip sections",
+        "Tighter sleeve finish tolerances than budget bars",
+        "Olympic 2-inch sleeves fit standard plates",
+        "Bushing sleeves adequate for curl and extension loads"
+      ],
+      "cons": [
+        "Functional difference from CAP is modest for casual use"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "olympic-ez-curl-bar-by-titan",
+      "badge": "Best Value Upgrade",
+      "review": "Titan Fitness consistently prices its gear below market for comparable build quality, and the Olympic EZ Curl Bar follows that pattern. The knurl is medium-aggressive — more grip than the CAP's medium knurl, which matters for sweaty palms during high-volume arm work — and the overall finish is more consistent than the budget tier. Olympic 2-inch sleeves accept standard plates, and bar weight is in the typical 18-20 lb Olympic range. For home gym lifters who want better quality than CAP but can't justify Rogue's premium, Titan occupies the useful middle tier where most buyers actually land. It's the right answer to 'better than budget without paying premium.'",
+      "pros": [
+        "Medium-aggressive knurl grips better than CAP for sweaty palms",
+        "More consistent finish than budget tier at a modest price step",
+        "Olympic sleeves fit standard plates",
+        "Significantly cheaper than Rogue with comparable function"
+      ],
+      "cons": [
+        "Build quality not at Rogue's level for the heaviest loaded curl work"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "standard-ez-curl-bar-25mm",
+      "badge": "Best for Standard Plate Owners",
+      "review": "The standard 25 mm EZ curl bar exists for a specific user: someone whose plate collection uses 1-inch holes rather than the 2-inch Olympic standard. Bar weight is lighter (around 10-12 lb) and the bar is shorter than Olympic versions, which keeps it manageable on a curl-focused workout. Sleeve diameter is 1 inch — this is a hard incompatibility with Olympic plates, so the buying decision comes down to which plates you actually own. For arm training loads, which rarely exceed 80-100 lb total, the standard bar is structurally adequate. If your home gym was assembled around dumbbell-style 1-inch plates and you don't plan to upgrade to Olympic, this is the correct purchase.",
+      "pros": [
+        "Fits standard 1-inch plates — the correct choice for that ecosystem",
+        "Lighter ~10-12 lb bar weight suits curl-focused training",
+        "Shorter length easier to handle in tight spaces",
+        "Lowest price tier in this comparison"
+      ],
+      "cons": [
+        "Not compatible with Olympic 2-inch plates"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For Olympic plate owners on a budget",
+      "offerId": "cap-barbell-ez-curl-bar",
+      "reason": "Olympic sleeves, ~18 lb bar weight, and bushing construction handle typical arm training loads at the lowest Olympic-compatible price."
+    },
+    {
+      "label": "For lifters loading curls beyond 100 lb regularly",
+      "offerId": "rogue-curl-bar",
+      "reason": "28 mm shaft, bronze bushings, and tight sleeve tolerances hold up over years of heavy use where budget bars eventually show flex."
+    },
+    {
+      "label": "For buyers who notice knurl and finish details",
+      "offerId": "body-solid-ez-curl-bar",
+      "reason": "More consistent knurl across the grip sections and tighter sleeve finish than CAP, without paying Rogue's premium."
+    },
+    {
+      "label": "For best quality without Rogue pricing",
+      "offerId": "olympic-ez-curl-bar-by-titan",
+      "reason": "Medium-aggressive knurl and more consistent finish than the CAP at a modest price step — the useful middle tier most buyers land in."
+    },
+    {
+      "label": "For home gyms with 1-inch standard plates",
+      "offerId": "standard-ez-curl-bar-25mm",
+      "reason": "The only bar here that fits standard 1-inch plates — Olympic bars are a hard incompatibility with that ecosystem."
+    }
+  ]
 }

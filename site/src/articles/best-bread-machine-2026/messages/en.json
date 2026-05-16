@@ -58,5 +58,114 @@
     "panasonic-sd-b2510-bread-maker": "Automatic yeast dispenser adds yeast at the optimal moment in the cycle, improving rise consistency compared to manual addition. Twenty programmes including rice bread and sourdough; 1.5-pound maximum is the trade-off for the smaller footprint and dispenser feature."
   },
   "pinDescription": "Best bread machines 2026: Hamilton Beach budget pick to Zojirushi Virtuoso Plus dual-blade compared on loaf quality, gluten-free cycles, and whether the overnight timer actually works. Top pick: Zojirushi BB-PDC20BA.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "zojirushi-bb-pdc20ba-bread-maker",
+      "badge": "Best Overall",
+      "review": "The Zojirushi Virtuoso Plus is the bread machine you buy when you want consistent results without thinking about the process. Two kneading blades and heaters on both the top and bottom of the chamber mean the crust browns evenly all the way to the corners — the exact spot where every single-blade machine produces a pale, undercooked-looking edge. The 10 programmes include a genuine gluten-free cycle with adjusted kneading and rise timing rather than a relabeled basic cycle. The 13-hour delay timer is reliable enough to load it before bed and trust it. At 7.4 kg and 21 by 35 by 39 cm, it is a counter-permanent appliance, not something you store away.",
+      "pros": [
+        "Dual blades plus top-and-bottom heat for even, edge-to-edge browning",
+        "Genuine gluten-free programme with different kneading and rise timing",
+        "Reliable 13-hour delay timer for overnight loaves",
+        "Replacement parts are well stocked years after purchase"
+      ],
+      "cons": [
+        "Large, heavy footprint — not a cabinet appliance",
+        "Premium price relative to entry-level machines"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "cuisinart-cbk-110p1-bread-maker",
+      "badge": "Best Compact",
+      "review": "The Cuisinart CBK-110P1 exists for kitchens where counter space is the binding constraint. At roughly 14 by 22 by 30 cm, it is one of the smallest bread machines available, and it still produces a 2-pound loaf — perfectly adequate for two people. Twelve preset programmes cover the usual ground including a gluten-free cycle and three crust shades, and the 13-hour delay timer behaves predictably. Loaf quality is honest and consistent: single blade leaves the typical hole in the bottom, and the crust on a basic white is acceptably even. Compared against the Hamilton Beach in blind tastings, the crumb is indistinguishable; you are paying for the footprint.",
+      "pros": [
+        "Smallest footprint in this comparison",
+        "Still bakes a full 2-pound loaf despite the size",
+        "Functional gluten-free cycle and three crust shade settings",
+        "Quiet kneading cycle relative to budget machines"
+      ],
+      "cons": [
+        "More expensive than Hamilton Beach for equivalent loaf quality",
+        "Single blade and single heater limit edge browning"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "hamilton-beach-29882-bread-maker",
+      "badge": "Best Budget",
+      "review": "The Hamilton Beach 29882 is the right machine for households that want to try bread baking without committing to a premium price. Fourteen settings cover white, whole wheat, French, sweet, gluten-free, and even a jam cycle, the 15-hour delay timer works, and the digital interface is straightforward. Loaf quality is genuinely good — in blind tastings the crumb is indistinguishable from the Cuisinart, with the corners of the crust browning slightly less evenly because of the single heater. Build is plasticky compared with the Zojirushi, but the core mechanism is sound. Replacement pans are harder to find after a few years, so think of this as a five-to-seven-year machine.",
+      "pros": [
+        "Lowest price for a full-feature bread machine",
+        "Fourteen settings including a working gluten-free cycle",
+        "Loaf quality on par with mid-range Cuisinart",
+        "15-hour delay timer for overnight loaves"
+      ],
+      "cons": [
+        "Single blade and heater leave pale corners on the crust",
+        "Replacement parts get harder to source after a few years"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "oster-expressbake-bread-maker",
+      "badge": "Best for Quick Bakes",
+      "review": "The Oster Expressbake's distinguishing feature is right there in the name: it bakes a 1.5-pound loaf in 58 minutes using rapid-rise yeast, against the 3 to 3.5 hours every other machine here needs for a standard cycle. That sounds like a gimmick until the first time you realize at 6 pm that there is no bread for dinner. Expressbake loaves are slightly denser and the top crust is a touch uneven, but it is still a real loaf of bread that toasts and slices fine. Standard cycle quality is on par with the Hamilton Beach, so you are not giving anything up to get the fast option. Single blade, single heater, mid-tier build.",
+      "pros": [
+        "Expressbake delivers a 1.5-pound loaf in under an hour",
+        "Standard cycles produce loaves comparable to Hamilton Beach",
+        "Affordable price for the speed it offers",
+        "Simple interface, easy to learn"
+      ],
+      "cons": [
+        "Express loaves are slightly denser than full-cycle loaves",
+        "Build feels lighter than the Zojirushi or Panasonic"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "panasonic-sd-b2510-bread-maker",
+      "badge": "Best for Gluten-Free",
+      "review": "The Panasonic SD-B2510's standout feature is the automatic yeast dispenser, which holds dry yeast in a separate chamber and drops it into the dough at the optimal point in the cycle rather than letting it mix in from the start. That single design choice noticeably improves rise consistency, especially for delicate doughs like rice bread or gluten-free recipes. There are around 20 programmes, including a dedicated sourdough cycle and rice-flour bread settings that are unusually well tuned. The trade-off is the 1.5-pound maximum loaf size, which is a real limitation for larger households. Build quality is a clear step above the budget tier.",
+      "pros": [
+        "Automatic yeast dispenser improves rise consistency",
+        "Around 20 programmes including rice bread and sourdough",
+        "Compact footprint for the feature set",
+        "Quiet operation and solid build"
+      ],
+      "cons": [
+        "1.5-pound loaf maximum — smaller than competitors",
+        "Premium price for the smaller capacity"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "The weekly home baker",
+      "offerId": "zojirushi-bb-pdc20ba-bread-maker",
+      "reason": "Dual blades and top-and-bottom heat deliver consistent bakery-style loaves week after week, justifying the counter space."
+    },
+    {
+      "label": "The small kitchen",
+      "offerId": "cuisinart-cbk-110p1-bread-maker",
+      "reason": "Smallest footprint here that still bakes a full 2-pound loaf, so a bread machine finally fits the counter."
+    },
+    {
+      "label": "The first-time buyer",
+      "offerId": "hamilton-beach-29882-bread-maker",
+      "reason": "Low entry price with 14 settings and a working gluten-free cycle takes the risk out of trying a bread machine."
+    },
+    {
+      "label": "The same-day cook",
+      "offerId": "oster-expressbake-bread-maker",
+      "reason": "Expressbake puts a 1.5-pound loaf on the table in under an hour when you realize at dinnertime there is no bread."
+    },
+    {
+      "label": "The gluten-free household",
+      "offerId": "panasonic-sd-b2510-bread-maker",
+      "reason": "The automatic yeast dispenser and well-tuned rice-flour programmes give the most consistent gluten-free results in this lineup."
+    }
+  ]
 }

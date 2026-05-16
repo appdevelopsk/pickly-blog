@@ -53,5 +53,109 @@
     "rep-fitness-wooden-rings": "1.25\" maple construction, heavy-duty double-cam buckle, 600 lb rated. Best choice for outdoor and high-humidity environments."
   },
   "pinDescription": "5 best wooden gymnastic rings of 2026 — Rogue Baltic birch to budget-friendly Titan. Build muscle-ups and ring dips at home with the right rings for your level.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "rogue-wood-gymnastics-rings",
+      "badge": "Best for Competition Skills",
+      "review": "Rogue mills its rings from Baltic birch plywood — a material chosen for tight, uniform grain that resists splintering under the sustained stress of skin-the-cats and kipping muscle-ups. The 1.25-inch diameter matches competition spec and the rings are used in CrossFit-sanctioned events. Straps are 1.5-inch nylon webbing with stainless-steel roller buckles that hold position even when strap tension shifts rapidly between reps — the buckle behavior is what separates competition-grade rings from cheaper alternatives where the strap creeps mid-set. The 400 lb capacity covers any human bodyweight with margin, and the finish is smooth enough for long chalk-free holds without becoming slippery.",
+      "pros": [
+        "Baltic birch plywood resists splintering under kipping loads",
+        "Stainless steel roller buckles don't creep mid-set",
+        "1.25-inch competition diameter for skill transfer",
+        "Used in CrossFit-sanctioned events"
+      ],
+      "cons": [
+        "Highest price in this comparison"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "gorilla-rings-wooden-gym",
+      "badge": "Best for Outdoor Use",
+      "review": "GORILLA RINGS uses solid beech wood — denser than birch with a slightly grippier surface texture that works well without chalk for lighter athletes. The 1.25-inch diameter meets competition standard, and the ring finish is lightly sanded to avoid splinters without becoming slippery. Straps run 4.9 meters (about 16 feet) of 38mm nylon webbing with clear numbering every 5 cm — enough precision to match left and right heights in seconds. The cam-buckle closure holds under 250 kg rated load. The set ships with a carry bag and is a strong choice for outdoor training where strap length matters for varying anchor heights.",
+      "pros": [
+        "Solid beech wood denser than birch with grippy surface",
+        "4.9-meter straps numbered every 5 cm for precise height matching",
+        "250 kg rated cam-buckle closure",
+        "Includes carry bag for outdoor transport"
+      ],
+      "cons": [
+        "Beech is heavier than birch — more travel weight"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "nayoya-wooden-exercise-rings",
+      "badge": "Best for Beginners",
+      "review": "Nayoya uses a 1.1-inch diameter ring — 0.15 inches narrower than the competition standard — which reduces grip load for athletes who haven't yet built the hand endurance for thicker wood. The birch construction is smooth-sanded with no sharp edges, making it comfortable for ring rows, ring push-ups, and extended holds. Straps are 15 feet of nylon webbing with numbered markings every 2 inches, so height-matching takes seconds. The buckle is a single-cam design that adjusts quickly between sets. For beginners focused on building the foundational shoulder stability needed before moving to harder ring work, Nayoya delivers solid construction at the lowest price in this comparison.",
+      "pros": [
+        "1.1-inch diameter reduces grip load for beginners",
+        "Smooth-sanded birch with no sharp edges",
+        "15-foot numbered straps for quick height matching",
+        "Lowest price in this comparison"
+      ],
+      "cons": [
+        "1.1-inch diameter doesn't match competition spec for skill transfer"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "titan-fitness-wooden-rings",
+      "badge": "Best Value",
+      "review": "Titan Fitness prices its gym equipment below market for comparable build quality, and the wooden rings follow that pattern. The rings are 1.25-inch diameter birch — meeting the competition standard — with 15 feet of adjustable nylon strapping and cam-buckle closures. Strap numbering is present at every inch but printed less sharply than GORILLA RINGS or Rogue — functional but not polished. Under body-weight loads the ring shows no visible flex, and the rated 600 lb capacity is double Rogue's spec. For lifters who want competition-diameter rings without paying for Rogue's competition pedigree or GORILLA RINGS' precision strap markings, Titan delivers the best value.",
+      "pros": [
+        "1.25-inch competition-diameter birch at the lowest premium price",
+        "600 lb rated capacity — highest in this comparison",
+        "15-foot numbered straps with cam-buckle closure",
+        "Significantly cheaper than Rogue with similar function"
+      ],
+      "cons": [
+        "Strap numbering printed less sharply than Rogue or GORILLA RINGS"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "rep-fitness-wooden-rings",
+      "badge": "Best for Humid Climates",
+      "review": "Rep Fitness uses maple for its rings — harder than birch and beech, with tighter grain that holds up well under chalk and moisture from outdoor use. The 1.25-inch rings are finished to a smooth but not slippery surface, and the wood resists surface wear longer than softer species. Straps are 15 feet of heavy-duty 38mm nylon with clearly stamped inch markings and a double-cam buckle closure rated to 600 lbs. The extra buckle engagement point prevents micro-slippage during dynamic movements. Rep Fitness rings are particularly well-suited for outdoor use on squat rack pull-up attachments or tree branches where UV and humidity exposure would degrade softer wood faster.",
+      "pros": [
+        "Maple harder than birch and beech for better moisture resistance",
+        "Double-cam buckle prevents micro-slippage during dynamic work",
+        "600 lb rated straps",
+        "Suited for outdoor and high-humidity environments"
+      ],
+      "cons": [
+        "Maple is heavier than birch — more travel weight"
+      ],
+      "grade": "A"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For muscle-up and CrossFit skill work",
+      "offerId": "rogue-wood-gymnastics-rings",
+      "reason": "Baltic birch resists splintering under kipping loads and stainless steel roller buckles hold position mid-set — competition-grade reliability."
+    },
+    {
+      "label": "For outdoor training with varying anchor heights",
+      "offerId": "gorilla-rings-wooden-gym",
+      "reason": "4.9-meter straps numbered every 5 cm provide precise height matching for tree branches, beams, and varying outdoor anchors."
+    },
+    {
+      "label": "For beginners building grip endurance",
+      "offerId": "nayoya-wooden-exercise-rings",
+      "reason": "1.1-inch diameter reduces grip load while you build hand endurance for thicker wood — the only narrower-diameter option here."
+    },
+    {
+      "label": "For competition diameter on a budget",
+      "offerId": "titan-fitness-wooden-rings",
+      "reason": "1.25-inch competition diameter with 600 lb rated capacity at the lowest price for that spec in this comparison."
+    },
+    {
+      "label": "For outdoor and humid-climate use",
+      "offerId": "rep-fitness-wooden-rings",
+      "reason": "Maple's tighter grain and double-cam buckle hold up under UV and humidity exposure better than softer woods or single-cam closures."
+    }
+  ]
 }

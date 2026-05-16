@@ -58,5 +58,109 @@
     "grip4force-grip-trainer": "Thick rubber pull-up bar attachment, 2.25-inch grip diameter. $30-40. Best for pull-up-centric grip training. Similar function to Fat Gripz but specific to pull-up bars. For athletes whose primary compound is pull-ups, not barbells."
   },
   "pinDescription": "Grip strength trainer comparison 2026: IronMind Captains of Crush vs Fat Gripz vs Harbinger wrist roller vs Metolius vs Grip4Force — crush grip vs wrist strength, climbing vs lifting applications, and which tool actually builds grip.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "ironmind-captains-of-crush-gripper",
+      "badge": "Best for Crush Grip",
+      "review": "The IronMind Captains of Crush gripper is the documented standard in competitive grip sports for a reason: the spring-and-machined-aluminum construction holds its rated resistance across decades of use, and the numbered tiers (#T trainer through #4) give a clear progression path. The #1 at around 140 lb is a reasonable starting point for an adult with no grip training, the #2 at 195 lb is a legitimate strength benchmark, and the #3 at 280 lb is competition-level. There are no moving parts to wear out and no battery to fail — the gripper you buy today is the same gripper in ten years. For lifters specifically training crush grip strength, nothing else in this lineup matches the precision of the progression.",
+      "pros": [
+        "Numbered tiers from #T to #4 provide a clear progression path",
+        "Rated resistance holds consistent across decades of use",
+        "Machined aluminum and spring — no parts to wear out",
+        "Documented standard in competitive grip sports"
+      ],
+      "cons": [
+        "Trains crush grip specifically — not pinch or wrist strength"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "fat-gripz-barbell-attachment",
+      "badge": "Best Integrated Training",
+      "review": "Fat Gripz are rubber sleeves that slip over a barbell, dumbbell, or pull-up bar to expand the grip diameter from the standard 1-inch to 2 inches (or 2.25 inches on the Extreme version). The principle is straightforward: a larger handle activates more of the hand, increases thumb engagement, and forces the forearms to work harder during every lift you already do. A deadlift session with Fat Gripz trains grip and legs simultaneously, which makes them efficient for lifters who don't want to add dedicated grip work to their program. The limitation is positional — Fat Gripz train grip in the patterns you're already lifting, so they don't fully replace crush gripper work or wrist roller training.",
+      "pros": [
+        "Trains grip simultaneously with compound lifts",
+        "Fits barbells, dumbbells, and pull-up bars universally",
+        "2-inch diameter forces full hand activation and thumb engagement",
+        "Adds no time to existing training sessions"
+      ],
+      "cons": [
+        "Doesn't fully replace dedicated crush or wrist work"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "harbinger-wrist-roller",
+      "badge": "Best Forearm Tool",
+      "review": "The Harbinger wrist roller is the most effective forearm-specific tool per dollar in this lineup. A wooden dowel about 12 inches long with a central rope and a weight plate hung from it — you hold it at arm's length and alternate wrist rotations to roll the plate up, then reverse to lower it. The motion trains forearm flexors and extensors simultaneously through a movement that no other exercise replicates well. Even strong athletes often fail their first plate roll with only 10 lb of load — the burn is immediate and obvious. The tool itself is essentially indestructible: wood, rope, and a bolt. At the price point, there's no better single addition for forearm development.",
+      "pros": [
+        "Trains forearm flexors and extensors in a single movement",
+        "Immediate burn — load is harder than it looks on paper",
+        "Essentially indestructible construction",
+        "Lowest-cost tool with the highest forearm-specific impact"
+      ],
+      "cons": [
+        "Single-purpose tool — only trains the wrist roll pattern"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "metolius-grip-saver-plus",
+      "badge": "Best for Climbers",
+      "review": "The Metolius Grip Saver Plus is a rubber ring specifically designed for climbers rather than general grip athletes. It trains the closing muscles of the hand against repeated squeeze cycles, but its real purpose is rehabilitation and injury prevention — it specifically targets the antagonist muscles that prevent climber's elbow (medial epicondylitis), which is one of the most common chronic injuries in climbing. Used as a warm-up before climbing sessions or as part of an antagonist-training routine, the Grip Saver Plus addresses a problem that pure strength tools like CoC grippers don't. For non-climbers seeking raw grip strength, a CoC is the better pick; for climbers managing forearm injury risk, the Grip Saver fills a specific gap.",
+      "pros": [
+        "Strengthens antagonist muscles to prevent climber's elbow",
+        "Useful as a warm-up before climbing sessions",
+        "Compact and portable — fits in a chalk bag pocket",
+        "Addresses a specific climbing injury pattern"
+      ],
+      "cons": [
+        "Less effective for raw strength development than a CoC gripper"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "grip4force-grip-trainer",
+      "badge": "Best for Pull-Up Bars",
+      "review": "Grip4Force is a thick rubber attachment built specifically for pull-up bars, expanding the bar diameter to roughly 2.25 inches and forcing the open-hand grip patterns that climbers and pull-up athletes actually use. It functions similarly to Fat Gripz but is shaped for pull-up bars rather than universal application — the attachment seats cleanly on a standard horizontal bar and stays put through dynamic movements. For lifters whose primary grip-training vehicle is the pull-up bar rather than barbells, Grip4Force is more focused than Fat Gripz; for lifters who train across barbells and dumbbells, Fat Gripz is more versatile. The choice between them is application-specific.",
+      "pros": [
+        "Built specifically for pull-up bars with secure seating",
+        "2.25-inch diameter trains open-hand grip patterns",
+        "Stays put during dynamic kipping or muscle-up work",
+        "Good fit for climbing-style grip development"
+      ],
+      "cons": [
+        "Less versatile than Fat Gripz for barbell and dumbbell training"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For dedicated crush grip strength progression",
+      "offerId": "ironmind-captains-of-crush-gripper",
+      "reason": "Numbered tiers from #T to #4 provide a precise progression path that no other gripper in this lineup matches."
+    },
+    {
+      "label": "For lifters who won't add dedicated grip sessions",
+      "offerId": "fat-gripz-barbell-attachment",
+      "reason": "Trains grip simultaneously with deadlifts, rows, and pull-ups — adds no time to existing training while forcing thumb engagement."
+    },
+    {
+      "label": "For forearm-specific flexor and extensor work",
+      "offerId": "harbinger-wrist-roller",
+      "reason": "Trains both forearm flexors and extensors in a single movement that no other exercise replicates effectively."
+    },
+    {
+      "label": "For climbers managing forearm injury risk",
+      "offerId": "metolius-grip-saver-plus",
+      "reason": "Targets antagonist muscles to prevent climber's elbow — a specific gap that pure strength tools like the CoC don't fill."
+    },
+    {
+      "label": "For pull-up-centric grip development",
+      "offerId": "grip4force-grip-trainer",
+      "reason": "Built specifically for pull-up bars with secure seating that holds through dynamic kipping or muscle-up movements."
+    }
+  ]
 }
