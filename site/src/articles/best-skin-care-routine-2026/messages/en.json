@@ -110,5 +110,114 @@
     "anessa-sunscreen-spf50": "Anessa Perfect UV Sunscreen Milk SPF50+PA++++ — silicone-hybrid UV filter system with Aqua Booster EX technology, strengthens on contact with sweat and water. Non-comedogenic for facial use, cosmetically elegant milk texture. Available on Rakuten Ichiba. contains alcohol (ethanol) at a concentration that makes this sunscreen unsuitable for reactive, rosacea-prone, or alcohol-sensitive skin — users with genuine alcohol sensitivity will experience stinging; chemical UV filters are not appropriate for broken or post-procedure skin where mineral SPF is the safer choice; the 60ml bottle is small for anything beyond face-only application, limiting value for users who want full-neck-and-decolletage coverage; approximately ¥2,000–3,000 for 60ml is significantly more expensive per-ml than Korean or European equivalents with comparable SPF ratings; the quick-drying formulation has a narrow application window before it sets unevenly if you are also applying SPF to the neck.",
     "the-ordinary-niacinamide": "The Ordinary Niacinamide 10% + Zinc 1% — water-based serum, 10% niacinamide for oil control, pore appearance, and tone evenness, 1% zinc PCA for sebum regulation. One of the highest cost-to-evidence-base ratios in over-the-counter skincare. Available on Rakuten Ichiba. at 10% concentration, niacinamide can cause temporary flushing in users with niacin sensitivity — start with one application daily and monitor for redness; the long-standing reputation for conflicting with vitamin C serums is largely theoretical at normal use concentrations and temperatures, but conservative users should layer them at different times of day to be safe; contains silicone (dimethicone) in the base that silicone-averse users should note; the dropper format makes dosage control slightly imprecise compared to a pump."
   },
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use.",
+  "products": [
+    {
+      "offerId": "cetaphil-gentle-skin-cleanser",
+      "badge": "Best Dermatologist-Default Cleanser",
+      "review": "Cetaphil Gentle Skin Cleanser is the cleanser that anchors the routine. The mild surfactant blend — cetyl alcohol, stearyl alcohol, propylene glycol, and sodium lauryl sulfate at low concentrations — removes surface sebum and yesterday's SPF without disrupting the acid mantle that the rest of the routine depends on. Fragrance-free, non-comedogenic, and on the dermatologist recommendation shortlist since the 1980s. The 591 mL bottle delivers value per use that the cosmetic-foaming category cannot approach. The trade-off is sensory: the low-foam texture takes 2-4 weeks for users coming from dense-foam Japanese cleansers to accept, and on heavy SPF50+ days a pre-cleanse with micellar water or an oil cleanser is the realistic addition.",
+      "pros": [
+        "Mild surfactant blend supports the acid mantle through twice-daily use",
+        "Fragrance-free and non-comedogenic — appropriate for sensitive and post-procedure skin",
+        "On the AAD recommendation shortlist since the 1980s with a published track record",
+        "591 mL bottle delivers exceptional value per use"
+      ],
+      "cons": [
+        "Low-foam texture takes weeks of psychological adaptation for users accustomed to dense lather",
+        "Does not remove heavy SPF50+ or waterproof makeup alone — needs a pre-cleanse step"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "hada-labo-gokujyun-lotion",
+      "badge": "Best Hydrating Toner",
+      "review": "Hada Labo Gokujyun Premium Lotion is the hydrating toner that explains why Japanese skincare routines include this step at all. The formula layers multiple molecular weights of hyaluronic acid (super-hyaluronic, hyaluronic, hydrolyzed hyaluronic, and acetyl hyaluronate) to bind water at different depths in the stratum corneum, producing the plump mochi-mochi finish that defines the category. Fragrance-free, alcohol-free, mineral-oil-free. It supports the routine specifically by adding a hydration buffer between cleanser and moisturizer that the niacinamide serum then absorbs into rather than sitting on top of. The honest trade-off: in low-humidity environments the surface HA can pull water from deeper layers if no occlusive moisturizer follows, so the CeraVe step after it is non-negotiable.",
+      "pros": [
+        "Multiple-molecular-weight hyaluronic acid for layered hydration at different stratum corneum depths",
+        "Fragrance-free, alcohol-free, mineral-oil-free formulation suits sensitive skin",
+        "Long-term Japanese drugstore bestseller with a consistent reformulation track record",
+        "Sets up better absorption for the niacinamide serum and moisturizer that follow"
+      ],
+      "cons": [
+        "Surface hyaluronic acid can pull from deeper layers in low-humidity environments without an occlusive follow-up",
+        "Slightly viscous texture takes longer to absorb than a water-thin toner"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "cerave-moisturizing-cream",
+      "badge": "Best Ceramide Moisturizer",
+      "review": "CeraVe Moisturizing Cream is the moisturizer that appears in AAD patient education materials, dermatology clinic post-procedure handouts, and the medicine cabinets of dermatologists who share their personal routines. The MultiVesicular Emulsion (MVE) technology releases ceramide NP, ceramide AP, ceramide EOP, cholesterol, and hyaluronic acid in a sustained manner over several hours rather than depositing everything in the first minutes after application. The ceramide complex matches the skin's physiological lipid ratios, which is the most evidence-backed approach to barrier repair in current dermatological practice. Non-comedogenic. The heavy jar formula is the right pick for dry, eczema-prone, and barrier-compromised skin; oily and combination types in humid Japanese summers may prefer the CeraVe Lotion variant for daytime use.",
+      "pros": [
+        "MultiVesicular Emulsion delivers ceramide NP, AP, EOP, cholesterol, and hyaluronic acid over hours",
+        "Ceramide ratios match the skin's own lipid profile for barrier-correct support",
+        "Non-comedogenic and tested in published studies on eczema-prone and sensitive skin",
+        "Heavy cream texture suits dry and barrier-compromised skin through humid Japanese winters"
+      ],
+      "cons": [
+        "Heavy cream texture can pill under SPF on oily skin in humid Japanese summers",
+        "Jar packaging requires clean spatula or invites finger contamination over time"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "anessa-sunscreen-spf50",
+      "badge": "Best Daily SPF",
+      "review": "Anessa Perfect UV Sunscreen Milk SPF50+ PA++++ is the Shiseido subsidiary's flagship and the sunscreen most often used as a Japanese-market reference point. The Aqua Booster EX technology uses a silicone network plus hybrid chemical UV filters that strengthen on contact with sweat and water rather than degrading — a real engineering distinction from sunscreens that wash off in the first humid hour. SPF50+ PA++++ is the top protection tier in the Japanese rating system. The milk texture absorbs without the heavy white cast of mineral sunscreens and sits cleanly over the CeraVe moisturizer without pilling. The trade-offs are honest: the ethanol content makes this the wrong sunscreen for reactive, rosacea-prone, or alcohol-sensitive skin, and at 60 mL for 2,000-3,000 yen the per-mL price is meaningfully higher than Korean or European SPF50+ alternatives.",
+      "pros": [
+        "Aqua Booster EX strengthens on contact with sweat and water rather than degrading",
+        "SPF50+ PA++++ is the top protection tier in Japan's rating system",
+        "Milk texture absorbs cleanly without the heavy white cast of mineral sunscreens",
+        "Sits over ceramide moisturizers without pilling — a real practical advantage"
+      ],
+      "cons": [
+        "Ethanol content makes it unsuitable for reactive, rosacea-prone, or alcohol-sensitive skin",
+        "60 mL bottle at 2,000-3,000 yen is significantly higher per-mL than Korean or European alternatives"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "the-ordinary-niacinamide",
+      "badge": "Best Cost-Effective Active",
+      "review": "The Ordinary Niacinamide 10% + Zinc 1% is the active that earns its place in this minimal routine because niacinamide at 4-10% has the widest published evidence base of any over-the-counter serum ingredient for combination and oily skin. Published clinical studies show topical niacinamide supports sebum regulation, reduces the appearance of enlarged pores, supports skin tone evenness, and supports the barrier by stimulating ceramide synthesis. Zinc PCA at 1% adds sebum-regulating activity targeted at the T-zone. Water-based, lightweight, and compatible with the other four products without sequencing gymnastics. At roughly 1,500-2,000 yen per 30 mL on Rakuten, the cost-to-evidence-base ratio is the strongest in this routine. The dropper format is slightly imprecise compared to a pump, and at 10% concentration niacin-sensitive users should start with one application per day.",
+      "pros": [
+        "10% niacinamide has a wide published evidence base for sebum and pore-appearance support",
+        "Zinc PCA at 1% adds T-zone sebum regulation on top of the niacinamide",
+        "Water-based formula compatible with the other four products without sequencing gymnastics",
+        "Strongest cost-to-evidence-base ratio of any active in this routine at 1,500-2,000 yen per 30 mL"
+      ],
+      "cons": [
+        "Dropper format makes dosage control slightly imprecise compared to a pump",
+        "10% concentration can cause flushing in users with genuine niacin sensitivity — start once daily"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For the foundational cleanse in any minimal routine",
+      "offerId": "cetaphil-gentle-skin-cleanser",
+      "reason": "The AAD-recommended mild surfactant blend supports the acid mantle that the rest of the routine depends on, and the 591 mL bottle delivers value per use the cosmetic-foaming category cannot approach."
+    },
+    {
+      "label": "For skin that runs tight or dehydrated between cleanser and moisturizer",
+      "offerId": "hada-labo-gokujyun-lotion",
+      "reason": "Multiple-molecular-weight hyaluronic acid layers a hydration buffer that the niacinamide serum then absorbs into rather than sitting on top of."
+    },
+    {
+      "label": "For dry, eczema-prone, or barrier-compromised skin",
+      "offerId": "cerave-moisturizing-cream",
+      "reason": "Ceramide NP, AP, EOP plus cholesterol delivered via MultiVesicular Emulsion match the skin's own lipid ratios — the most evidence-backed approach to barrier repair."
+    },
+    {
+      "label": "For non-negotiable daily UV protection in Japan",
+      "offerId": "anessa-sunscreen-spf50",
+      "reason": "SPF50+ PA++++ is the top Japanese tier and the Aqua Booster EX film strengthens on contact with sweat and water through the day rather than degrading."
+    },
+    {
+      "label": "For oily, combination, or visible-pore concerns",
+      "offerId": "the-ordinary-niacinamide",
+      "reason": "10% niacinamide plus 1% zinc PCA supports sebum regulation, pore appearance, and tone evenness with the strongest cost-to-evidence-base ratio in this routine."
+    }
+  ]
 }

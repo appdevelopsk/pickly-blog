@@ -107,5 +107,109 @@
     "anker-soundcore-3": "Anker Soundcore 3 — IPX7 submersion protection, 24-hour battery at moderate volume, stereo pairing with a second unit, titanium composite drivers, approximately ¥5,000. Available on Rakuten Ichiba. the audio quality gap between ¥5,000 and ¥15,000–¥20,000 is audible — drivers compress noticeably at high outdoor volumes compared to JBL or Bose; maximum output is lower than other speakers in this comparison, limiting outdoor use in noisy environments; IPX7 only, no certified dust protection (IP67); no multi-speaker chain beyond stereo pairing."
   },
   "pinDescription": "5 Bluetooth speakers tested for 2026 — JBL Flip 6 PartyBoost vs Sony SRS-XB33 EXTRA BASS vs UE BOOM 3 360-degree vs Bose SoundLink Flex PositionIQ vs Anker Soundcore 3 budget pick. IP67 vs IPX7 truth, battery life reality at real volumes, outdoor audibility, Japan camping and beach context Outdoor audio starts here.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "jbl-flip-6",
+      "badge": "All-rounder",
+      "grade": "A+",
+      "review": "The JBL Flip 6 is the most balanced compact Bluetooth speaker in the comparison and the easiest one to recommend without conditions. IP67 dust and water protection plus a 12-hour rated battery cover the standard outdoor use cases, the dual passive radiators add audible low-end weight without resorting to heavy DSP boost, and the PartyBoost protocol lets you link it later with a JBL Charge 5 or Pulse 5 if you want to expand the system. Tuning is bass-forward but stops short of overwhelming the vocal range, which keeps it listenable across genres rather than locked into EDM. The forward-facing primary driver is not true omnidirectional, so listeners directly behind the speaker lose some level, and 12 hours is the shorter end at outdoor volumes. At roughly ¥15,000 it has no significant weakness.",
+      "pros": [
+        "IP67 dust and water protection with consistent build quality",
+        "PartyBoost lets you scale up to other JBL speakers later",
+        "Balanced tuning works across genres rather than only bass-heavy music"
+      ],
+      "cons": [
+        "12-hour battery is shorter than the Sony and Anker claims",
+        "Not true 360-degree — listeners directly behind lose some level"
+      ]
+    },
+    {
+      "offerId": "sony-srs-xb33",
+      "badge": "Battery and bass",
+      "grade": "A",
+      "review": "The Sony SRS-XB33 is the choice when you want a single speaker to last the day, want EXTRA BASS for dance and hip-hop, and like the multi-color LED lighting for evening gatherings. The rated 24-hour battery is generous for the segment, though the real number drops well below that once LED lighting and high outdoor volumes enter the picture. EXTRA BASS DSP genuinely thickens the low end at moderate volumes but pushes the driver toward its excursion limit at high volume, where it can congest the midrange on vocals. IP67 dustproofing handles beach sand, the built-in mic supports speakerphone use, and Wireless Party Chain pairs with other Sony units. The XB33 is physically bigger and heavier than the Flip 6 and BOOM 3, which costs it some hiking-friendly portability.",
+      "pros": [
+        "Rated 24-hour battery for long sessions at moderate volume",
+        "EXTRA BASS DSP delivers genuinely fuller low end for dance music",
+        "Multi-color LED lighting and built-in mic for calls"
+      ],
+      "cons": [
+        "EXTRA BASS at high volume can congest the midrange",
+        "Larger and heavier than the Flip 6 or BOOM 3, less hike-friendly"
+      ]
+    },
+    {
+      "offerId": "ultimate-ears-boom-3",
+      "badge": "True 360 sound",
+      "grade": "A",
+      "review": "The Ultimate Ears BOOM 3 is the only speaker in this comparison with genuine 360-degree omnidirectional drivers, which makes it the strongest choice when the speaker sits in the middle of a group at a campsite, picnic, or living room rather than facing one listener. IP67 protection and a 15-hour battery cover most outdoor sessions, and MagicButton lets you set a one-tap shortcut to a favorite playlist or streaming station without unlocking your phone. The cylindrical shape rolls on uneven surfaces and is less pocketable than the flat Flip 6 or SoundLink Flex. Bass is adequate rather than punchy, and while it floats, it floats on its side rather than right-side-up, which makes pool listening awkward. PartyUp links it to other UE speakers but stays within the UE family.",
+      "pros": [
+        "Genuine 360-degree omnidirectional drivers for table-center placement",
+        "MagicButton one-tap shortcut to a favorite playlist or station",
+        "IP67 protection plus a 15-hour battery"
+      ],
+      "cons": [
+        "Cylindrical body rolls on uneven surfaces",
+        "Floats on its side rather than right-side-up"
+      ]
+    },
+    {
+      "offerId": "bose-soundlink-flex",
+      "badge": "Outdoor premium",
+      "grade": "A",
+      "review": "The Bose SoundLink Flex is the most performance-tuned outdoor option in this group, with PositionIQ adaptive EQ that detects whether the speaker is lying flat, standing upright, or hanging, and reshapes the soundstage accordingly. Outdoor-specific tuning makes it sound bigger than its size in open air, and the buoyant design floats right-side-up if it ends up in shallow water at the beach or pool. IP67 protection covers sand and grit. At about ¥20,000 it is the most expensive option here, the 12-hour battery ties for shortest, and stereo pairing is limited to two SoundLink Flex units rather than a large chain like PartyBoost. Some app features depend on Bose Music. If outdoor use is the primary context, the premium is justified; if not, the Flip 6 captures most of the value for less.",
+      "pros": [
+        "PositionIQ adaptive EQ reshapes the soundstage to placement",
+        "Buoyant design floats right-side-up in water",
+        "Outdoor-tuned acoustics punch above the speaker's size"
+      ],
+      "cons": [
+        "Around ¥20,000 — the most expensive option in this comparison",
+        "Pairs only with a second SoundLink Flex, no large chain protocol"
+      ]
+    },
+    {
+      "offerId": "anker-soundcore-3",
+      "badge": "Best value",
+      "grade": "B+",
+      "review": "The Anker Soundcore 3 is the budget reference at roughly ¥5,000, delivering IPX7 submersion protection, a rated 24-hour battery at moderate volume, and stereo pairing with a second unit for a true L/R setup that still costs less than a single Flip 6. The titanium composite drivers handle podcasts, background music, and bath-time playlists well, but they compress audibly at high outdoor volumes compared to the JBL or Bose, and the maximum output sits below the others, which shows in noisy or windy outdoor settings. IPX7 has no certified dust rating, so a Flip 6 or BOOM 3 is the better choice for dusty trails or fine beach sand. Multi-speaker capability tops out at stereo pairing. For casual indoor and pool-side use, it is a difficult speaker to argue against on price.",
+      "pros": [
+        "Roughly ¥5,000 with rated 24-hour battery and IPX7 submersion",
+        "Stereo pairing with a second unit for true L/R audio",
+        "Titanium composite drivers cover podcasts and background music well"
+      ],
+      "cons": [
+        "Audible driver compression at high outdoor volumes",
+        "IPX7 only — no certified dust rating for sand or grit environments"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "First speaker buyers who want one good all-rounder",
+      "offerId": "jbl-flip-6",
+      "reason": "IP67 protection, balanced tuning across genres, and PartyBoost future-proofing make it the easiest single-speaker recommendation without significant weakness at its price."
+    },
+    {
+      "label": "Solo campers and outdoor users who prioritize battery",
+      "offerId": "sony-srs-xb33",
+      "reason": "Rated 24-hour battery plus EXTRA BASS for music and LED lighting for ambience covers full-day solo outdoor sessions where charging is not convenient."
+    },
+    {
+      "label": "Groups who place the speaker in the middle of a gathering",
+      "offerId": "ultimate-ears-boom-3",
+      "reason": "Genuine 360-degree omnidirectional drivers deliver consistent volume to listeners in every direction rather than concentrating it forward."
+    },
+    {
+      "label": "Beach, pool, and serious outdoor users",
+      "offerId": "bose-soundlink-flex",
+      "reason": "PositionIQ adaptive EQ and a right-side-up buoyant design make it the most performance-tuned outdoor option here, justifying the premium for outdoor-primary use."
+    },
+    {
+      "label": "Budget-first buyers and bathroom speaker users",
+      "offerId": "anker-soundcore-3",
+      "reason": "Roughly ¥5,000 with rated 24-hour battery and IPX7 submersion is hard to argue against for casual indoor, bath, and pool-side listening."
+    }
+  ]
 }

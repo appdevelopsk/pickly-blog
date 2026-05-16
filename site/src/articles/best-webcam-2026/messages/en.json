@@ -107,5 +107,109 @@
     "microsoft-lifecam-studio": "Microsoft LifeCam Studio — 1080p, True Color Technology for Microsoft's own color processing, autofocus, USB-A, designed for Teams and Office 365 integration, Microsoft video processing pipeline for Teams calls, approximately ¥6,000–¥8,000. Available on Rakuten Ichiba. the LifeCam Studio product line has not received a significant hardware update as of 2026, making it an aging product at a price point where 2K alternatives with newer sensors are available; no 60fps option and no AI auto-framing; Microsoft ecosystem integration benefits are Windows and Teams specific — on Mac or non-Teams platforms, the camera functions as a standard UVC device without the Microsoft-specific pipeline advantages; ¥6,000–¥8,000 is a moderately elevated price for 1080p 30fps in 2026, representing a brand premium for the Microsoft integration rather than specification leadership."
   },
   "pinDescription": "5 webcams compared for 2026 — Logitech Brio 505 AI framing vs Anker PowerConf C200 budget 2K vs Elgato Facecam Pro 4K stream vs Elecom entry-level vs Microsoft LifeCam Studio Teams pick. 1080p vs 4K truth, built-in mic reality, and lighting > camera quality explained",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "logitech-brio-505",
+      "badge": "AI hybrid office",
+      "grade": "A+",
+      "review": "The Logitech Brio 505 is the most feature-complete webcam for hybrid home office use in this comparison, with AI auto-framing that pans and zooms the crop to keep your face centered, Show Mode that tilts the camera onto your desk to display documents and products mid-call, USB-C, 1080p at 60 fps, and dual omnidirectional microphones. AI framing handles deliberate desk movements smoothly and degrades gracefully on quick turns, where it produces visible judder rather than failing outright. Show Mode is a genuine differentiator for teachers, consultants, and demo-heavy roles that nothing else here matches. At about ¥18,000 it costs more than 2K rivals, full AI access requires Logi Capture or G HUB software, and the mounting angle for Show Mode is fussy on some monitor stands. For mixed talking-head and document-display workflows, it earns the price.",
+      "pros": [
+        "AI auto-framing keeps your face centered during deliberate movement",
+        "Show Mode tilts the camera onto your desk for document display",
+        "USB-C and 1080p 60 fps for smoother motion than the 30 fps baseline"
+      ],
+      "cons": [
+        "1080p at ¥18,000 looks premium next to 2K options at ¥7,000",
+        "Show Mode requires a specific mount angle that not all setups support"
+      ]
+    },
+    {
+      "offerId": "anker-powerconf-c200",
+      "badge": "Value 2K pick",
+      "grade": "A",
+      "review": "The Anker PowerConf C200 is the practical value pick for 2026 video calls, at roughly ¥7,000 with a 2K sensor that gives the autofocus and software-side framing more pixels to work with than 1080p, dual noise-cancelling microphones that benefit from Anker's conference speaker acoustic background, autofocus, and a compact USB-A body. The mic performs well above the entry-level webcam tier in residential environments where HVAC hum and thin-wall ambient noise dominate, though the monitor-height geometry still favors a dedicated desktop mic for serious audio. There is no 60 fps option, no AI auto-framing, and the USB-A cable is non-detachable and fixed at about 1.5 m. Software features are minimal. If you do not need 60 fps or AI framing, nothing here beats the price-to-output ratio.",
+      "pros": [
+        "2K sensor at roughly ¥7,000 for strong price-to-resolution ratio",
+        "Dual noise-cancelling mics outperform typical built-in implementations",
+        "Reliable autofocus and compact form factor"
+      ],
+      "cons": [
+        "30 fps only — no 60 fps option for smooth motion",
+        "Non-detachable USB-A cable fixed at about 1.5 m"
+      ]
+    },
+    {
+      "offerId": "elgato-facecam-pro",
+      "badge": "Streaming flagship",
+      "grade": "A+",
+      "review": "The Elgato Facecam Pro is the consumer USB streaming flagship, with a Sony STARVIS 2 sensor, an f/2.0 large aperture for genuinely low-light-capable output, 4K at 60 fps over USB-C, a manual focus ring for precise control, and Camera Hub software for stream parameter tuning. The deliberate omission of a built-in microphone reflects the design assumption that serious streamers will pair it with a dedicated mic, which is the right call for production-grade audio. At about ¥42,000 it is roughly six times the cost of the PowerConf C200 for functionally equivalent output inside a Zoom or Teams call that caps at 1080p encoding, the no-mic policy adds ¥5,000–¥30,000 for a dedicated microphone, and 4K 60 fps streaming wants 20+ Mbps sustained upload that Japanese residential connections do not always provide at peak hours. For YouTube and Twitch production, it is the only realistic pick here.",
+      "pros": [
+        "Sony STARVIS 2 sensor with f/2.0 aperture for genuine low-light capability",
+        "4K at 60 fps over USB-C with a manual focus ring",
+        "Camera Hub software for full stream parameter control"
+      ],
+      "cons": [
+        "Around ¥42,000 — overkill for standard Zoom/Teams use",
+        "No built-in microphone — requires a separate mic purchase"
+      ]
+    },
+    {
+      "offerId": "elecom-ucam-cz30fbk",
+      "badge": "Domestic entry",
+      "grade": "B+",
+      "review": "The Elecom UCAM-CZ30FBKF is the friction-free entry pick for Japanese corporate environments where IT restrictions limit third-party software and domestic warranty support matters. 1080p at 30 fps, USB-A plug-and-play, a built-in microphone, and roughly ¥5,000 covers the baseline functional webcam tier without any setup ritual. Spec-wise it is the floor of the 2026 webcam market — no AI auto-framing, no software enhancement, no 60 fps option, and the small sensor and entry-tier optics show their limits in mixed or backlit lighting. The English-language troubleshooting community for the specific model is thin, so users relying on global forums for help will find less coverage. As a reliable, IT-friendly, domestically supported video call tool at the lowest price here, it covers the brief.",
+      "pros": [
+        "USB-A plug-and-play with domestic Japanese warranty support",
+        "Built-in mic and lowest price in the comparison at roughly ¥5,000",
+        "No third-party software requirements for IT-restricted environments"
+      ],
+      "cons": [
+        "Baseline 1080p 30 fps with no AI or enhancement features",
+        "Image quality drops noticeably in low or mixed lighting"
+      ]
+    },
+    {
+      "offerId": "microsoft-lifecam-studio",
+      "badge": "Teams default",
+      "grade": "B+",
+      "review": "The Microsoft LifeCam Studio is the natural pick for Windows and Teams-centric corporate workflows, with True Color Technology for Microsoft's own color processing, autofocus, USB-A, and tight integration with the Teams video pipeline. For Microsoft 365 households where the rest of the stack is already aligned, it delivers a reliable default without the setup friction of third-party software. At ¥6,000–¥8,000 it is moderately elevated for a 1080p 30 fps camera in a 2026 market where 2K alternatives exist at similar prices, the product line has not seen a significant hardware refresh, there is no 60 fps option, and on Mac or non-Teams platforms it behaves as a standard UVC webcam without the Microsoft-specific advantages. As a Teams call default, it remains trustworthy; as a 2026 hardware upgrade, it is showing its age.",
+      "pros": [
+        "Tight integration with the Teams video processing pipeline",
+        "True Color Technology and reliable autofocus for talking-head calls",
+        "Plug-and-play USB-A with broad Windows compatibility"
+      ],
+      "cons": [
+        "Aging product line with no recent significant hardware refresh",
+        "Higher price than 2K alternatives with newer sensors"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Hybrid workers who show documents in calls",
+      "offerId": "logitech-brio-505",
+      "reason": "Show Mode plus AI auto-framing covers both talking-head video calls and physical document or product demos in a single camera, which nothing else here matches."
+    },
+    {
+      "label": "Value-first buyers upgrading from a laptop webcam",
+      "offerId": "anker-powerconf-c200",
+      "reason": "A 2K sensor with dual noise-cancelling mics at roughly ¥7,000 delivers the strongest price-to-output ratio for typical residential Zoom and Teams calls."
+    },
+    {
+      "label": "Streamers and content creators",
+      "offerId": "elgato-facecam-pro",
+      "reason": "Sony STARVIS 2 sensor with f/2.0 aperture and 4K 60 fps over USB-C is the only camera here that delivers true broadcast-grade output when paired with a dedicated microphone."
+    },
+    {
+      "label": "Japanese corporate users with IT software restrictions",
+      "offerId": "elecom-ucam-cz30fbk",
+      "reason": "USB-A plug-and-play, no third-party software requirement, and domestic warranty support make it the friction-free pick at the lowest price in the comparison."
+    },
+    {
+      "label": "Microsoft 365 households who live in Teams",
+      "offerId": "microsoft-lifecam-studio",
+      "reason": "True Color Technology and tight integration with the Teams video pipeline deliver a reliable default for Windows and Teams-centric workflows."
+    }
+  ]
 }

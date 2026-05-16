@@ -112,5 +112,114 @@
     "philips-series-2200-ep2220": "¥45,000 compact fully automatic with AquaClean filter that eliminates descaling when maintained. 12-setting ceramic grinder (quieter and cooler than steel burrs). No LatteGo automatic milk system — manual steam wand only. AquaClean cartridge replacement (¥1,500-2,000 every 2-3 months) replaces descaling as the primary maintenance task. 24 cm wide footprint fits most Japanese kitchen counters."
   },
   "pinDescription": "Five espresso machines compared at ¥12,000 to ¥90,000: capsule convenience vs built-in grinder vs fully automatic. Real running costs, maintenance time, and which type suits a Japanese apartment kitchen. What the 15-bar pump pressure rating actually means and why it is not what you think.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews.",
+  "products": [
+    {
+      "offerId": "delonghi-dedica-ec685",
+      "badge": "Best Compact Semi-Auto",
+      "review": "At 15 cm wide — narrower than a hardback book — the Dedica is the only machine in this lineup that fits comfortably on a Japanese apartment counter without forcing a rearrangement. The thermoblock heater reaches brew temperature in roughly 35 seconds, the 15-bar pump pairs with a manual steam wand for milk frothing, and the standard 51 mm portafilter accepts both pre-ground coffee and ESE pods, which gives genuine flexibility without committing to a separate grinder. The included pressurised dual-wall basket forgives grind inconsistency and produces visually convincing crema, making this the most accessible real-espresso entry in this comparison. The honest weaknesses are exactly what the price predicts: the pressurised basket is a quality ceiling, the thermoblock cannot hold temperature across multi-shot sessions the way a heat exchanger can, and enthusiasts routinely shim the OPV to drop the stock 11–12 bar brew pressure closer to the 9 bar espresso target.",
+      "pros": [
+        "15 cm width — narrowest machine in this comparison",
+        "Accepts ground coffee and ESE pods for flexibility",
+        "Thermoblock reaches brew temperature in ~35 seconds",
+        "Lowest entry price among real semi-automatics here"
+      ],
+      "cons": [
+        "Stock pressurised basket caps shot quality ceiling",
+        "Brews at 11–12 bar without an OPV shim modification"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "breville-barista-express-bes870",
+      "badge": "Best Overall Shot Quality",
+      "review": "The Barista Express is the highest-ceiling machine in this comparison under ¥100,000. PID temperature control holds the boiler within ±1–2°C of target rather than drifting ±5–10°C the way thermoblock systems do, the integrated 250 g conical burr grinder with 16 grind settings eliminates a separate ¥20,000–50,000 grinder purchase, and the 54 mm portafilter ships with both pressurised and non-pressurised baskets so you can start forgiving and step up as your technique develops. When dialed in with the non-pressurised basket, an accurate grind, and an even tamp, the shots genuinely approach cafe quality. Branca distributes 100V Japanese-domestic units with Japanese-language support. The honest weaknesses are a 2–4 week dialing-in period before consistent shots, a single-boiler design that forces a 30–45 second wait when switching between espresso and steam work, and the largest counter footprint here at roughly 38 × 30 cm.",
+      "pros": [
+        "PID temperature control holds within ±1–2°C of target",
+        "16-setting conical burr grinder is integrated",
+        "Pressurised and non-pressurised baskets both included",
+        "Branca distribution provides Japanese after-sales support"
+      ],
+      "cons": [
+        "Single boiler forces 30–45s wait switching to steam",
+        "Roughly 38 × 30 cm footprint demands real counter space"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "delonghi-magnifica-s-ecam22110",
+      "badge": "Best Bean-to-Cup",
+      "review": "The Magnifica S is the right machine for a household that wants whole-bean espresso and milk drinks daily without managing variables. One button press takes you from beans to shot — grind, dose, tamp, and extraction are all automatic — and the manual Pannarello steam wand handles lattes and cappuccinos once you learn to position the wand. The 1.8 L water tank, 250 g bean hopper, and 7-setting grinder cover mainstream supermarket and specialty beans adequately, and De'Longhi Japan's nationwide service network is the strongest in this comparison. Shot quality is consistent rather than expressive — not as adjustable as the Barista Express, but more than enough for daily use. The honest weaknesses are a 7-setting grinder that struggles with very light Nordic roasts or unusually oily dark roasts, a Pannarello wand that produces acceptable but not latte-art-grade microfoam, and a 75–78 dB grinder that is loud for an apartment.",
+      "pros": [
+        "One-button bean-to-cup with manual steam for lattes",
+        "1.8 L tank and 250 g hopper for multi-day use",
+        "De'Longhi Japan service network is the strongest here",
+        "Consistent results across daily use"
+      ],
+      "cons": [
+        "7-setting grinder struggles with very light or very dark roasts",
+        "Pannarello steam wand is not latte-art capable"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "nespresso-vertuo-next",
+      "badge": "Best for Pure Convenience",
+      "review": "Vertuo Next is the lowest-friction coffee machine in this comparison and the most expensive one to operate. Centrifugal extraction spins each capsule at up to 7,000 rpm while injecting water, producing a visually impressive, exceptionally stable crema layer across espresso (40 ml), double (80 ml), gran lungo (150 ml), coffee (230 ml), and alto (414 ml) sizes. The barcode on each capsule tells the machine which extraction parameters to apply automatically. Warm-up is around 30 seconds and the folded footprint is roughly 33 × 15 cm — small enough for any kitchen. The honest weaknesses are not subtle: Vertuo capsules at ¥110–140 each make this the most expensive machine to run by a wide margin (a 2-cup-per-day household spends ¥237,600–302,400 over 36 months on capsules alone), the capsule format is proprietary so Nespresso controls pricing absolutely, the centrifugal extraction differs in mouthfeel from pump espresso, and the aluminium-capsule recycling program requires active participation most owners admit they skip.",
+      "pros": [
+        "Lowest machine price in this comparison — ¥12,000",
+        "Smallest counter footprint — roughly 33 × 15 cm folded",
+        "Five cup sizes (40–414 ml) on one machine",
+        "Thick, stable crema from centrifugal extraction"
+      ],
+      "cons": [
+        "Capsule cost at 2 cups/day exceeds Magnifica S 3-year total cost",
+        "Proprietary capsule format — no third-party alternative"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "philips-series-2200-ep2220",
+      "badge": "Best Low-Maintenance Automatic",
+      "review": "The EP2220 is the descaling-free fully automatic in this lineup, thanks to its AquaClean water filter system that intercepts limescale before it reaches the boiler — Philips claims up to 5,000 cups without descaling as long as the cartridge is replaced on schedule. The 12-setting ceramic burr grinder is quieter than steel burrs and does not transfer heat to the beans during grinding, the 1.8 L tank and 275 g bean hopper match the Magnifica S, and the 24 cm wide footprint sits between the slim Dedica and the broader Magnifica S. The honest weaknesses are AquaClean cartridge replacement at ¥1,500–2,000 every 2–3 months (skip one and you lose the no-descaling benefit), no LatteGo automatic milk system at this tier (the manual steam wand requires skill and cleanup), and slightly weaker Japanese retail distribution than De'Longhi outside Tokyo/Osaka/Nagoya.",
+      "pros": [
+        "AquaClean filter eliminates descaling when maintained",
+        "Ceramic burr grinder is quieter and cooler than steel",
+        "1.8 L tank and 275 g hopper for multi-day use",
+        "24 cm width fits most Japanese kitchen counters"
+      ],
+      "cons": [
+        "AquaClean cartridge cost replaces descaling — ¥1,500–2,000 / 2–3 months",
+        "Manual steam wand only — no LatteGo automatic milk"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For enthusiasts willing to learn espresso as a skill",
+      "offerId": "breville-barista-express-bes870",
+      "reason": "PID temperature stability and the integrated 16-setting conical burr grinder push the shot ceiling higher than any other sub-¥100,000 machine here — provided you accept the 2–4 week dialing-in period."
+    },
+    {
+      "label": "For Japanese apartment kitchens with narrow counters",
+      "offerId": "delonghi-dedica-ec685",
+      "reason": "15 cm width fits where no other real semi-automatic does, and dual ground-coffee plus ESE pod compatibility lowers the skill bar without locking you into capsules."
+    },
+    {
+      "label": "For daily espresso and milk drinks without managing variables",
+      "offerId": "delonghi-magnifica-s-ecam22110",
+      "reason": "One-button bean-to-cup with a manual Pannarello wand covers the most common home use case, and De'Longhi Japan's service network is the strongest in this lineup."
+    },
+    {
+      "label": "For 1-cup-per-day households where convenience trumps cost",
+      "offerId": "nespresso-vertuo-next",
+      "reason": "Sub-45-second cup-from-cold and the lowest machine price in this comparison make sense at 1 cup/day — the capsule premium stays manageable in absolute terms."
+    },
+    {
+      "label": "For automatic-machine buyers who want to skip descaling",
+      "offerId": "philips-series-2200-ep2220",
+      "reason": "AquaClean filter replacement substitutes for the descaling ritual, and the ceramic burr grinder is a real quality advantage over steel-burr automatics at the price."
+    }
+  ]
 }

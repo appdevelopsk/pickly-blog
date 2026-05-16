@@ -103,5 +103,109 @@
     "baseus-monitor-light-bar": "Baseus i-wok Series monitor light bar — budget BenQ ScreenBar alternative under ¥5,000. USB-C powered, touch control strip on the bar, asymmetric optic design for desk illumination without screen glare, clip mount for monitor bezels. Available on Rakuten Ichiba. build quality is visibly lighter than the BenQ ScreenBar Halo — the clip mechanism has less clamping force and more arm flex, and is less secure on heavier or thicker monitor bezels; no bias lighting (no back-glow) — single-sided illumination only; no ambient sensor — manual brightness adjustment required when room lighting changes; CRI not prominently specified, and budget monitor bars in this category routinely measure below CRI 80 at cool color temperatures, which matters for color-accurate creative tasks; touch controls on the bar require deliberate precise touch and are reported as less intuitive than a dedicated wireless controller."
   },
   "pinDescription": "5 desk lamps compared for 2026 — monitor bar vs traditional lamp explained. BenQ ScreenBar Halo bias lighting, Dyson Solarcycle at ¥90K, Elgato Key Light for video calls, budget Baseus at ¥5K. Eye strain truth, CRI for creatives, color temperature and sleep — explicit weakness on every pick. Home office lighting starts here.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "benq-screenbar-halo",
+      "badge": "Eye-strain pick",
+      "grade": "A+",
+      "review": "The BenQ ScreenBar Halo is the most complete monitor light bar in the comparison, combining asymmetric optics that direct light onto the desk without glaring back off the screen, a back-glow LED strip that delivers bias lighting behind the monitor, and an ambient sensor that auto-dims to maintain a consistent surface lux. The wireless puck controller is the practical detail that elevates daily use — you adjust brightness and 2,700–6,500K color temperature without reaching behind the monitor. BenQ claims CRI 95+, which is the kind of rendering quality where document review and casual color-checking remain reliable. It is monitor-mount only with no desk stand option, draws USB power from your monitor's hub, and at over ¥30,000 it is roughly six times the price of the Baseus. For screen-forward work where eye strain is the priority, it remains the reference.",
+      "pros": [
+        "Asymmetric optics deliver desk illumination without screen glare",
+        "Back-glow bias lighting reduces screen-to-room contrast",
+        "Wireless puck controller and auto-dimming ambient sensor"
+      ],
+      "cons": [
+        "Monitor-mount only — no desk stand option from BenQ",
+        "Roughly 6x the price of comparable budget monitor bars"
+      ]
+    },
+    {
+      "offerId": "elgato-key-light",
+      "badge": "Camera light",
+      "grade": "A",
+      "review": "The Elgato Key Light is built for face illumination on camera rather than desk work, and within that role it is the most capable option here. The 2,500 lux soft panel covers 2,900–7,000K, and the Elgato Control Center app plus Stream Deck integration let you preset color temperature and brightness for streams, client calls, and recording. The diffused output is even enough to avoid the harsh shadow lines that single-point lamps create. The desk clamp wants a sturdy edge of at least 6 cm and does not work on glass or thin tops, the app dependency means the physical lamp itself offers minimal control, and pointing 2,500 lux at your face while typing is uncomfortable and useless for desk illumination. For creators on camera multiple hours a day, the Key Light earns its desk footprint; for everyone else, it is the wrong tool.",
+      "pros": [
+        "2,500 lux soft panel with 2,900–7,000K range tuned for camera",
+        "Stream Deck and app integration for one-tap presets",
+        "Diffused output avoids harsh single-point shadows"
+      ],
+      "cons": [
+        "Not a task lamp — face-forward illumination only",
+        "Requires a sturdy desk edge over 6 cm and the Elgato app for full control"
+      ]
+    },
+    {
+      "offerId": "dyson-solarcycle-morph",
+      "badge": "Premium all-in-one",
+      "grade": "A",
+      "review": "The Dyson Solarcycle Morph is the most versatile physical lamp here, with task, ambient, indirect, and feature lighting modes accessible by rotating the arm through its designed range. Dyson claims a 150,000-hour LED life enabled by a heat-pipe cooling system and CRI 98 with 2,700–6,500K coverage, plus a personalized day-cycle algorithm that takes age and time inputs through the Dyson Link app. The articulation makes it a credible single-lamp solution for a workspace that needs both focused task light over the desk and softer indirect light off the wall. At ¥90,000+ it is roughly three times the price of the next-most-expensive option, the algorithm and age input are more complexity than most desk lamp users ever need, and the heavy stability base resists casual repositioning. Genuinely engineered, genuinely expensive.",
+      "pros": [
+        "Task, ambient, indirect, and feature modes in one arm",
+        "Dyson-claimed CRI 98 and 2,700–6,500K coverage",
+        "Heat-pipe cooling with 150,000-hour LED life claim"
+      ],
+      "cons": [
+        "About 3x the price of the next-most-expensive option here",
+        "Heavy stability base discourages frequent repositioning"
+      ]
+    },
+    {
+      "offerId": "panasonic-led-desk-lamp-wireless",
+      "badge": "Charging base",
+      "grade": "B+",
+      "review": "The Panasonic LED desk lamp keeps a compact Japanese desk tidy, with five color temperature presets, stepless dimming, a USB-C output port, and a 5W Qi wireless charging pad integrated into the base. The integrated charger means one less puck on the desk and one less cable to the wall, which on a small home-office surface is a real practical win. CRI sits around 85–90 — adequate for office tasks but below the 90+ threshold for color-accurate creative work. The 5W Qi rate is noticeably slow next to MagSafe, useful for passive top-ups rather than primary charging, and there is no app or smart-home integration, so all control is physical buttons on the body. Aesthetics are utilitarian rather than design-led, but it is honest about what it is.",
+      "pros": [
+        "Integrated 5W Qi charging pad cuts a cable from the desk",
+        "USB-C output port and five color temperature presets",
+        "Compact footprint suited to Japanese-standard desks"
+      ],
+      "cons": [
+        "5W Qi is slow — passive top-up only, not a primary charger",
+        "CRI 85–90 falls short of color-critical creative work"
+      ]
+    },
+    {
+      "offerId": "baseus-monitor-light-bar",
+      "badge": "Budget monitor bar",
+      "grade": "B+",
+      "review": "The Baseus i-wok delivers the core monitor light bar function — desk illumination without screen glare via an asymmetric optic — at well under ¥5,000, which is the primary reason to consider it. USB-C power keeps cable count low, and a touch control strip on the bar handles brightness and color temperature. Build quality is visibly lighter than the ScreenBar Halo, the clip mechanism has noticeably less clamping force on heavy bezels, and arm flex is present. There is no back-glow bias lighting, no ambient sensor for auto-dimming, and CRI is not prominently specified, which usually means it sits at 80 or lower at cool temperatures. For users who want to try monitor bar illumination before committing, or who only need desk-glare elimination, the i-wok is the right entry point.",
+      "pros": [
+        "Asymmetric optic delivers the core monitor bar function at low cost",
+        "USB-C powered with a single cable to the monitor hub",
+        "Touch control strip handles brightness and color temperature"
+      ],
+      "cons": [
+        "No back-glow bias lighting and no ambient sensor",
+        "Build and clip force are visibly lighter than the BenQ Halo"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Screen-forward workers prioritizing eye-strain reduction",
+      "offerId": "benq-screenbar-halo",
+      "reason": "Asymmetric optics plus back-glow bias lighting and auto-dimming address the contrast-related drivers of digital eye strain better than any other lamp here."
+    },
+    {
+      "label": "Streamers and on-camera professionals",
+      "offerId": "elgato-key-light",
+      "reason": "2,500 lux soft-panel output with Stream Deck and app control delivers face-forward illumination at a level no task lamp in this comparison matches."
+    },
+    {
+      "label": "Home offices that want one lamp to cover task and ambient",
+      "offerId": "dyson-solarcycle-morph",
+      "reason": "Task, ambient, indirect, and feature modes in a single arm plus CRI 98 coverage make it the most versatile physical lamp here for a workspace that does not want a second fixture."
+    },
+    {
+      "label": "Compact Japanese desks that need integrated charging",
+      "offerId": "panasonic-led-desk-lamp-wireless",
+      "reason": "Built-in Qi pad and USB-C port in the base eliminate a separate phone charger and reduce cable clutter on small home-office surfaces."
+    },
+    {
+      "label": "First-time monitor bar buyers on a tight budget",
+      "offerId": "baseus-monitor-light-bar",
+      "reason": "Delivers the core glare-free desk illumination at a fraction of the BenQ price, ideal for testing whether a monitor bar fits your workflow before committing."
+    }
+  ]
 }

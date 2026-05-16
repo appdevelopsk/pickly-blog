@@ -86,5 +86,112 @@
     "tatcha-rice-wash": "Luxury milky texture with rice bran brightening — the pick if cleanser enjoyment drives your routine compliance. Performs well, but the price reflects the brand."
   },
   "pinDescription": "5 facial cleansers ranked for 2026: CeraVe, La Roche-Posay, Cetaphil, Paula's Choice, and Tatcha. Foaming vs cream, pH balance explained, and which ones dermatologists actually recommend for dry, oily, and sensitive skin.",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use.",
+  "products": [
+    {
+      "offerId": "cerave-hydrating-cleanser",
+      "badge": "Best for Dry and Compromised Skin",
+      "review": "CeraVe Hydrating Cleanser is the dermatology-default cream cleanser for dry, normal, or barrier-compromised skin. The formula uses a mild surfactant base at near-neutral pH and delivers three essential ceramides (NP, AP, EOP) plus hyaluronic acid through a MultiVesicular Emulsion system that deposits the lipids onto skin rather than rinsing them down the drain. Low-concentration niacinamide supports barrier recovery. No fragrance, no sulfates, no essential oils — the ingredient list reads like a calming exercise for anyone who reacts to common cosmetic irritants. The 236 mL pump bottle lasts most users 3-4 months at twice-daily use. Texture is a milky lotion that does not foam, which is exactly right for the format.",
+      "pros": [
+        "Three ceramides (NP, AP, EOP) deposited via MultiVesicular Emulsion system",
+        "Fragrance-free, sulfate-free, non-comedogenic formula",
+        "Near-skin pH preserves the acid mantle through twice-daily use",
+        "Dermatologist-default pick across dry, normal, and post-procedure skin"
+      ],
+      "cons": [
+        "Does not foam — feels insufficient for heavy sunscreen or makeup without a first oil cleanse"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "laroche-posay-toleriane-cleanser",
+      "badge": "Best for Sensitive and Rosacea-Prone Skin",
+      "review": "La Roche-Posay Toleriane Hydrating Gentle Cleanser is the right pick for sensitive, reactive, or rosacea-prone skin where ingredient minimalism is part of the prescription. The formula is built on La Roche-Posay's selenium-rich thermal spring water and a short ingredient list calibrated to preserve the resident skin microbiome rather than blast it clean. Fragrance-free, paraben-free, soap-free, and tested on hyper-reactive skin in the brand's clinical protocol. The cream-gel texture rinses without the squeaky-tight aftermath that triggers rosacea flares, and the pH sits comfortably in the skin's natural range. The 400 mL bottle is among the larger sizes in this comparison and the price-per-mL ends up competitive even though the per-bottle price reads premium.",
+      "pros": [
+        "Selenium-rich thermal spring water base supports microbiome preservation",
+        "Fragrance-free, paraben-free, soap-free — calibrated for reactive skin",
+        "Short ingredient list reduces the surface area for allergic contact dermatitis",
+        "Generous 400 mL bottle extends value over the price-per-mL math"
+      ],
+      "cons": [
+        "Minimal cleansing power on heavy sunscreen — better as a second cleanse after an oil cleanser"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "cetaphil-gentle-cleanser",
+      "badge": "Best Classic Minimalist",
+      "review": "Cetaphil Gentle Skin Cleanser has been on hospital shelves for roughly 70 years because the formula is exactly mild enough to use on post-procedure skin, infants, and patients with severe contact dermatitis. The ingredient list is short, the surfactants are low-concentration and non-ionic, and the formula works whether you rinse with water or wipe off with a cotton pad — the latter is how it earned its hospital reputation. The trade-off is honest: no actives, no ceramides delivered via emulsion, no hero ingredients. This is a cleanser that does one thing well (mild cleansing without barrier disruption) and asks for nothing else from your routine. The 591 mL bottle is the largest among the comparison and the per-mL value is hard to beat.",
+      "pros": [
+        "70-year track record on post-procedure skin, infants, and severely reactive patients",
+        "Works with water rinse or cotton pad wipe-off — flexible for travel and post-procedure",
+        "Largest bottle size in this comparison at 591 mL",
+        "No fragrance, no actives, nothing to react to"
+      ],
+      "cons": [
+        "No hero ingredients — pure cleansing with no skincare benefits beyond barrier preservation",
+        "Less effective on heavy SPF50 sunscreens than a dedicated oil-cleanse first step"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "paulas-choice-foaming-cleanser",
+      "badge": "Best for Oily and Combination Skin",
+      "review": "Paula's Choice RESIST Perfectly Balanced Foaming Cleanser is the right pick for oily or combination skin that needs surfactant power without the SLS-driven barrier disruption that defines most foaming cleansers. The formula uses milder amphoteric and non-ionic surfactants that lift sebum effectively without raising skin pH into the 8-9 range where the acid mantle suffers, and the formulation pairs cleanly with the brand's BHA exfoliants which is part of the design intent. No fragrance, no SLS, no SLES. The foam is moderate rather than aggressive — it cuts sebum without leaving the tight, stripped feeling that signals over-cleansing. The honest trade-off is that this is the wrong cleanser for dry or sensitized skin where even mild foaming agents are unnecessary friction.",
+      "pros": [
+        "SLS-free and SLES-free foaming formula that removes sebum without barrier disruption",
+        "Pairs cleanly with Paula's Choice BHA exfoliants in the same routine",
+        "Moderate foam removes sebum and SPF without the squeaky-tight aftermath",
+        "Fragrance-free formulation suits oily-but-reactive skin where most foaming cleansers fail"
+      ],
+      "cons": [
+        "Wrong format for dry or sensitized skin where any foaming agent is unnecessary",
+        "Premium price for a foaming cleanser when CeraVe or Cetaphil cost less per use"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "tatcha-rice-wash",
+      "badge": "Best Luxury Format",
+      "review": "Tatcha The Rice Wash is the pick for buyers whose routine compliance is driven by sensory experience as much as by spec sheet. The formula uses Japanese rice bran (a traditional Japanese cleansing ingredient with a naturally slightly acidic profile), hyaluronic acid, and a gentle non-ionic surfactant base in a texture that starts gel-like and rinses to a milky finish without the squeaky-tight feeling. The fragrance profile is light and pulled from natural extracts rather than synthetic compounds, which matters for buyers who normally avoid scent but want something more pleasant than a clinical Cetaphil. The honest trade-off is the price: at roughly five times the per-mL cost of CeraVe or Cetaphil, the formula performance is comparable to the dermatology-default picks and you are paying for brand, packaging, and the experiential element.",
+      "pros": [
+        "Japanese rice bran base supports a naturally slightly acidic cleanse",
+        "Gel-to-milk texture rinses without the squeaky-tight aftermath",
+        "Light natural-extract fragrance for buyers who want pleasant scent without synthetics",
+        "Strong sensory experience supports routine compliance for users who need it"
+      ],
+      "cons": [
+        "Roughly 5x the per-mL price of CeraVe or Cetaphil for comparable cleansing performance",
+        "Premium pricing reflects brand and packaging more than active ingredient differentiation"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For dry, compromised, or post-retinoid skin",
+      "offerId": "cerave-hydrating-cleanser",
+      "reason": "Three ceramides delivered through the MultiVesicular Emulsion system support a stripped barrier in a way no other cleanser in this comparison matches."
+    },
+    {
+      "label": "For sensitive, reactive, or rosacea-prone skin",
+      "offerId": "laroche-posay-toleriane-cleanser",
+      "reason": "Selenium-rich thermal spring water and a short ingredient list calibrated to preserve the microbiome address the root mechanism of reactive skin rather than just symptoms."
+    },
+    {
+      "label": "For post-procedure or extreme-sensitivity use",
+      "offerId": "cetaphil-gentle-cleanser",
+      "reason": "A 70-year hospital-shelf track record on the most reactive skin types makes this the safest possible cleanser to default to when in doubt."
+    },
+    {
+      "label": "For oily or combination skin that needs real surfactant power",
+      "offerId": "paulas-choice-foaming-cleanser",
+      "reason": "SLS-free foaming chemistry removes sebum and heavy sunscreen without raising skin pH out of the acid mantle range, and it pairs cleanly with BHA exfoliants."
+    },
+    {
+      "label": "For routine-compliance buyers who want sensory pleasure",
+      "offerId": "tatcha-rice-wash",
+      "reason": "Japanese rice bran texture and light natural fragrance turn cleansing into a routine you actually look forward to — which matters more than spec sheets when adherence is the limiting factor."
+    }
+  ]
 }

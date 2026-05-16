@@ -94,5 +94,114 @@
     "nell-mattress": "Hybrid pocket-coil + foam pick — 13-layer construction, pocket-coil core with three-zone gradation, 120-day trial, strong motion isolation for couples. Heaviest in this comparison at roughly 30 kg making setup and disposal harder; brand has only 6 years of field data as of 2026, so the 10-year claim is not yet fully validated empirically; hybrid construction has more potential failure points than pure foam."
   },
   "pinDescription": "Five single-size mattresses compared in 2026 from a 66,000 yen Nishikawa AiR SI to a 154,000 yen Tempur Original Supreme. Pressure relief, heat retention, edge support, weight, motion isolation, and the trial-period fine print every D2C brand glosses over.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews.",
+  "products": [
+    {
+      "offerId": "tempur-original-supreme",
+      "badge": "Best Pressure Relief",
+      "review": "Tempur is the original NASA-derived viscoelastic foam, and the deep-conforming pressure distribution it delivers is what every memory-foam imitator is reaching for. Side sleepers with shoulder or hip pressure issues feel the difference immediately — the foam unloads bony prominences in a way coil-only and firm point-pressure beds cannot. The 10-year warranty is matched by the longest empirical durability record in this comparison: aggregated owner reports show meaningfully lower foam degradation at year 5–7 than competing memory foams. The honest weaknesses are structural and immediate: the single-size unit weighs roughly 30 kg, which makes delivery, rotation, and eventual sodai-gomi disposal a real ergonomic problem; the viscoelastic foam reaches body temperature within 30–60 minutes and stays there, so summer use without air conditioning sleeps hot; and at 154,000 yen this is the highest single-size price in the comparison, justified only when you actually use the deep conformance.",
+      "pros": [
+        "Deepest pressure conformance in this comparison",
+        "10-year warranty plus longest real-world durability record",
+        "Best unload for shoulder and hip pressure points",
+        "Buy-once-for-a-decade economics if you use it for 8+ years"
+      ],
+      "cons": [
+        "30 kg weight makes rotation and disposal a two-person job",
+        "Sleeps hot in Japanese summer without air conditioning"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "nishikawa-air-si",
+      "badge": "Best Japanese Point-Pressure",
+      "review": "Nishikawa AiR SI is the refined domestic answer to memory foam — a special urethane base with thousands of small protrusions that distribute body weight at point contacts rather than continuous surface conformance, closer in philosophy to a shiatsu mat than to Tempur. The 24 cm thickness suits both bedframe and direct-on-floor placement, the three-zone firmness gradation supports the lumbar without letting the hip sink, and the antimicrobial removable cover handles the humid-summer hygiene case. Nishikawa's 460+ year brand heritage backs the most extensive after-sales network in Japan, with flagship stores in major cities and dealer presence in regional ones. The honest weaknesses are the firmer-than-Western profile (side sleepers over 75 kg sometimes report hip-sinking discomfort over time despite the point-pressure design), Japan-only warranty and service that strands you if you relocate overseas, and an aesthetic firmness that disappoints buyers expecting plush memory-foam conformance.",
+      "pros": [
+        "Point-pressure ten-de-sasaeru construction is refined for Japanese sleep",
+        "Three-zone firmness gradation supports the lumbar curve",
+        "Antimicrobial removable cover suits humid summers",
+        "Most extensive after-sales network in this comparison"
+      ],
+      "cons": [
+        "Firmer than Western memory foam — disappoints plush-seekers",
+        "Warranty and service are essentially Japan-only"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "coala-new-mattress",
+      "badge": "Best 120-Day Trial",
+      "review": "Coala's New Coala mattress is the cleanest fit for an average-weight first-time D2C buyer. The 120-day in-home trial with free pickup return removes the 'I'm stuck with it' risk that defines the category, the three-layer foam construction (open-cell top, transition layer, base support) targets the medium-firm zone most adults find acceptable, and the box ships compressed and expands within 2–4 hours. The 10-year warranty is competitive at the price. The honest weaknesses sit at the edges of the user base: foam density is calibrated for average bodies, so heavier sleepers (above 85 kg) report a 'felt good for six months, started sagging around month eight' pattern that lighter sleepers do not see; stomach sleepers and athletic-recovery use cases find it too soft as default; and 'free returns' requires keeping the original packaging plus a stain-free mattress for the full trial — a precaution most buyers underestimate without a mattress protector.",
+      "pros": [
+        "120-day in-home trial with free pickup return",
+        "Medium-firm zone fits the largest single user group",
+        "10-year warranty competitive at the price",
+        "Compressed-in-box delivery expands in 2–4 hours"
+      ],
+      "cons": [
+        "Foam density underperforms for sleepers above 85 kg long-term",
+        "Free returns require keeping original packaging and stain-free mattress"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "casper-original",
+      "badge": "Best D2C Design",
+      "review": "Casper Original is the Pinterest-iconic four-layer foam mattress that defined the international D2C category in 2017–2019, and the design recognition is genuine. A perforated top layer assists airflow, a memory-foam comfort layer handles initial conformance, a three-zone transition layer is softer at the shoulders and firmer at the hips and lumbar, and a base support layer carries the load. 25 cm thickness gives presence on the frame. The honest weaknesses surface for specific user groups: foam-dominant 25 cm construction reads as 'almost like a board' for back sleepers under 70 kg who do not sink into the comfort layer enough to engage it, summer heat retention without air conditioning matches Tempur (the perforated top reduces but does not eliminate the warmth), and Japan-side after-sales is concentrated in Tokyo and Osaka — direct-import units may have warranty complications.",
+      "pros": [
+        "Three-zone transition layer is softer at shoulders, firmer at hips",
+        "Perforated top layer improves airflow vs solid memory foam",
+        "Recognised D2C aesthetic in Pinterest-driven bedroom decor",
+        "25 cm thickness gives substantial presence on a frame"
+      ],
+      "cons": [
+        "Back sleepers under 70 kg report it feels 'almost like a board'",
+        "Japan after-sales concentrated in Tokyo and Osaka"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "nell-mattress",
+      "badge": "Best Hybrid for Couples",
+      "review": "NELL's 13-layer hybrid is the most-construction Japanese D2C mattress in this comparison, combining a pocket-coil core (with three-zone firmness gradation) and multi-layer foam comfort plus reinforced edge support. The pocket-coil construction isolates partner motion meaningfully better than continuous-coil or pure-foam designs — a measurable benefit for couples and co-sleepers. The 120-day in-home trial with free pickup return, 10-year warranty, and compressed-in-box delivery match the trial-friendly D2C standard. The honest weaknesses are structural: roughly 30 kg in single size makes setup, quarterly rotation, and eventual sodai-gomi disposal harder than pure-foam alternatives; the brand was founded in 2020, so the 10-year warranty is real but the empirical 10-year wear data does not yet exist; and 13 layers introduces more potential failure points (pocket-coil rust over humid summers, foam delamination at layer interfaces, edge-foam compression) than simpler constructions.",
+      "pros": [
+        "Pocket-coil core isolates partner motion better than pure foam",
+        "Three-zone firmness gradation supports the lumbar curve",
+        "120-day trial with free pickup return",
+        "Reinforced edge support holds up to sitting on the edge"
+      ],
+      "cons": [
+        "30 kg weight makes setup, rotation, and disposal a two-person job",
+        "Founded 2020 — 10-year warranty exceeds available field data"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For side sleepers with shoulder or hip pressure issues",
+      "offerId": "tempur-original-supreme",
+      "reason": "The original NASA-derived viscoelastic foam unloads bony prominences in a way no other construction in this lineup can — and the durability record justifies the 8–10 year ownership economics."
+    },
+    {
+      "label": "For first-time D2C buyers who want a real in-home trial",
+      "offerId": "coala-new-mattress",
+      "reason": "120-day free-pickup return plus medium-firm three-layer foam covers the largest single user group, and the trial removes the 'stuck with it' risk that defines this category."
+    },
+    {
+      "label": "For couples who notice partner movement at night",
+      "offerId": "nell-mattress",
+      "reason": "Pocket-coil core isolates motion meaningfully better than continuous-coil or pure-foam designs, and the 120-day trial keeps the decision reversible."
+    },
+    {
+      "label": "For back and stomach sleepers who want firm Japanese support",
+      "offerId": "nishikawa-air-si",
+      "reason": "Refined point-pressure construction with three-zone firmness gradation suits firm-preference sleepers, and Nishikawa's after-sales network is the most extensive in Japan."
+    },
+    {
+      "label": "For design-led bedroom renovations with air conditioning",
+      "offerId": "casper-original",
+      "reason": "The recognised D2C four-layer construction reads as substantial on the frame, three-zone gradation handles shoulders and lumbar differently, and air conditioning neutralises the summer heat issue."
+    }
+  ]
 }

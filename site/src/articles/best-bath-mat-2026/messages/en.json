@@ -92,5 +92,114 @@
     "teak-bath-mat": "Solid teak slats with natural oil content — resistant to moisture damage, naturally inhibits mold, drainage gaps keep the standing surface dry during use. The spa-aesthetic visual is distinctive and intentional. no cushioning; water drains through slats to floor below (floor needs wiping); requires oil maintenance twice yearly; premium price is justified by aesthetics rather than functional superiority over fabric alternatives."
   },
   "pinDescription": "Stepping out of the shower onto a soaking-wet mat every morning? We compared diatomite stone, memory foam, cotton terry, premium plush, and teak wood on drying time, non-slip grip, and mold resistance — with real weaknesses on all five so you know exactly what you're buying.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews.",
+  "products": [
+    {
+      "offerId": "townselect-diatomite-bath-mat",
+      "badge": "Best Overall",
+      "review": "Townselect's diatomite slab is the only mat in this lineup where wet feet feel measurably drier within two to three seconds of stepping on. The porous fossilized-algae stone pulls water in by capillary action and releases it as vapor through the back face within thirty to sixty minutes, which is fast enough that mold and bacteria cannot colonize under normal use. Daily care is a wipe with a damp cloth — there is no laundry cycle, no rotation schedule, no foam interior to worry about. The cost is comfort: the stone has zero cushioning, and in hard-water areas the pores eventually clog with mineral scale and need a three-minute sanding pass with 180–240 grit paper to reset absorption. For households where mold and damp-mat smell were the original problem, nothing else in this comparison solves it as completely.",
+      "pros": [
+        "Surface dries in 30–60 minutes — fastest in the comparison",
+        "Antimicrobial pore structure prevents mold under normal use",
+        "Wipe-clean maintenance, no washing machine required",
+        "Matte stone aesthetic suits minimalist bathrooms"
+      ],
+      "cons": [
+        "Zero cushioning underfoot — uncomfortable for plantar fasciitis",
+        "Fragile — a drop on hard tile can chip or crack the stone"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "gorilla-grip-bath-mat",
+      "badge": "Best Non-Slip Grip",
+      "review": "The Gorilla Grip is the strongest-gripping mat in this lineup on smooth bathroom tile, and that single trait is why it keeps selling. The suction-cup TPR base pulls a clean vacuum against flat tile and resists the lateral push that ends most bath-mat slips. The thick memory foam core gives a cushioned, slightly springy feel underfoot that stone and wood mats simply cannot reproduce — meaningful for users who stand on the mat to apply lotion or dry their hair. The trade-off is moisture management: the foam cannot be machine washed, holds water inside for 12–24 hours, and in a humid bathroom develops mildew smell over several months that surface cleaning will not fix. Suction-cup elasticity also fades after twelve to eighteen months of daily use, so plan on replacement on that cycle.",
+      "pros": [
+        "Strongest suction-cup grip on smooth tile in this comparison",
+        "Cushioned memory foam is comfortable for prolonged standing",
+        "Wide range of sizes and colors available",
+        "Suction backing works for elderly users and balance concerns"
+      ],
+      "cons": [
+        "Foam cannot be machine washed — surface cleaning only",
+        "Dry time of 12–24 hours leaves the mat damp for the next user"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "utopia-towels-bath-mat",
+      "badge": "Best for Rotation",
+      "review": "Utopia Towels' 400–450 GSM cotton terry mats are sold in value multi-packs that make a rotation strategy actually viable: buy three, swap every two to three days, and each mat gets washed before mildew can start. The terry surface is the most familiar feel for users who grew up with bath towels in front of the shower, the machine-wash cycle takes no special care, and the per-mat price is low enough that replacement is not a difficult decision. The honest weaknesses are inherent to cotton: it dries slowly (8–12 hours in an unventilated bathroom), develops odor within three to five days of summer humidity without washing, and the thinner rubber backing on budget mats curls at the corners after repeated wash cycles. The right buyer treats these as consumables rather than long-term fixtures.",
+      "pros": [
+        "Multi-pack pricing makes rotation strategy affordable",
+        "Machine washable with standard household detergent",
+        "Familiar terry feel — no adaptation period",
+        "Easy to replace when worn rather than coddle"
+      ],
+      "cons": [
+        "Develops mildew odor within 3–5 days in humid summers without washing",
+        "Rubber backing thins and curls after many wash cycles"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "hotel-collection-bath-rug",
+      "badge": "Best Premium Plush",
+      "review": "Hotel Collection's 600+ GSM micro-cotton tufted pile genuinely reads as spa-quality underfoot — the difference from a standard 400 GSM mat is immediately obvious the first time you step onto it post-shower. Larger runner formats (up to roughly 24×60 inches) cover the full shower-to-vanity transition zone, which standard 17×24 mats cannot. The plush surface is machine washable, and for a design-led bathroom renovation it is the only mat in this comparison that actively contributes to the room's visual identity rather than just functioning quietly. The premium price asks for care discipline in return: high-heat tumble drying crushes the pile over time, and the deeper pile takes 12–18 hours to dry in an unventilated bathroom and traps pet hair and lint more visibly than low-pile alternatives.",
+      "pros": [
+        "Genuinely plush 600+ GSM pile — top-tier underfoot feel",
+        "Available in long runner formats for open-plan bathrooms",
+        "Machine washable with appropriate care",
+        "Visual upgrade for design-conscious renovations"
+      ],
+      "cons": [
+        "Slow 12–18 hour dry time in unventilated bathrooms",
+        "High-heat drying crushes the pile permanently"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "teak-bath-mat",
+      "badge": "Best Spa Aesthetic",
+      "review": "A teak slat platform changes the bathroom visual in a way no fabric mat can, and the natural oil content in the wood gives it inherent moisture and mold resistance without chemical treatment. The slatted design drains water through the gaps so the standing surface stays surface-dry during use, and the platform itself dries fully within one to two hours. With occasional teak-oil or food-safe mineral-oil application — roughly twice a year — the wood holds its color and grain rather than going gray. The honest limitations are functional rather than aesthetic: the rigid wood is hard underfoot with zero cushioning, water passes through to the floor below which then needs wiping, and the 1.5–2.5 kg weight plus rigid form makes the mat awkward to store or move. The premium price is paid for the look, not for measurable performance gains over diatomite.",
+      "pros": [
+        "Drainage gaps keep the standing surface dry during use",
+        "Natural teak oil resists moisture damage and mold",
+        "Distinctive spa-natural aesthetic for design renovations",
+        "Surface dries within 1–2 hours of use"
+      ],
+      "cons": [
+        "Rigid wood is hard underfoot — zero cushioning",
+        "Requires teak-oil maintenance approximately twice a year"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For Japanese bathrooms where mold is the main concern",
+      "offerId": "townselect-diatomite-bath-mat",
+      "reason": "30–60 minute vapor-release dry time eliminates the moisture window mold needs to colonize, and there is no foam interior or terry pile to harbor bacteria."
+    },
+    {
+      "label": "For households with elderly users or balance concerns",
+      "offerId": "gorilla-grip-bath-mat",
+      "reason": "The suction-cup TPR base creates the strongest grip on smooth tile in this lineup, and the cushioned foam reduces impact for users who already step cautiously."
+    },
+    {
+      "label": "For budget-conscious households happy to rotate mats",
+      "offerId": "utopia-towels-bath-mat",
+      "reason": "The multi-pack pricing makes a three-mat rotation cheaper than a single premium mat and lets each one get washed every 2–3 days."
+    },
+    {
+      "label": "For a design-led bathroom renovation",
+      "offerId": "hotel-collection-bath-rug",
+      "reason": "The 600+ GSM plush pile and large runner formats turn the mat into part of the room's visual identity rather than a utilitarian splash guard."
+    },
+    {
+      "label": "For a spa-natural aesthetic with low-maintenance moisture handling",
+      "offerId": "teak-bath-mat",
+      "reason": "Slatted drainage keeps the standing surface dry during use and natural teak oil resists mold — the look is the headline, but the function holds up too."
+    }
+  ]
 }

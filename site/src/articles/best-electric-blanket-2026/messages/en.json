@@ -119,5 +119,114 @@
     "perfect-sleep-pad-electric-blanket": "Perfect Sleep Pad — a heated pad that goes under you between the mattress and the sleeper, not over you. Heats from below through direct body contact for thermally efficient warmth at lower wattage than over-blankets. Compatible with any blanket, comforter, or duvet you already own. No heated fabric weight on top, no blanket sliding off during the night, no hot air at face level. designed for western mattress use, not floor futon setups; restless sleepers who move significantly may find body parts off the pad during the night; requires a fitted sheet or mattress protector over the pad to hold it in position; the under-body heating may feel unfamiliar if you are accustomed to blanket-style warmth from above."
   },
   "pinDescription": "5 electric blankets compared for 2026 — Beautyrest 20-heat-setting dual control vs Sunbeam ThermoFine self-regulation vs Biddeford budget vs Serta fleece vs Perfect Sleep Pad (heats from below). Auto-shutoff, wattage cost per month, machine-wash guide. Honest weakness on every pick.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews.",
+  "products": [
+    {
+      "offerId": "beautyrest-electric-blanket",
+      "badge": "Best for Couples",
+      "review": "The Secure Comfort is the only over-blanket in this comparison whose controller can stay attached through a wash cycle, and that single design choice is why it is the cleanest pick for households that wash bedding frequently. Twenty heat settings give finer granularity than the 10-step controllers on competitors, dual-control king and queen versions split the bed into independent left and right zones for couples with mismatched temperature preferences, and the 10-hour auto-shutoff covers a full night of sleep plus 30 minutes of pre-warming. The fabric is on the heavier woven side rather than ultra-soft, which is what you want under a comforter where pile is irrelevant. The honest weaknesses are price — the dual-control king routinely sits north of $100 — and that even the machine-washable controller needs air-drying rather than tumble-drying to avoid heat damage to the electronics.",
+      "pros": [
+        "Machine-washable controller stays attached through wash cycles",
+        "20 heat settings give the finest granularity in this comparison",
+        "Dual-control king and queen for couples with different preferences",
+        "10-hour auto-shutoff covers a full night plus pre-warming"
+      ],
+      "cons": [
+        "Most expensive of the four over-blankets — dual-control king above $100",
+        "Controller must be air-dried, not tumble-dried, after washing"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "sunbeam-microplush-heated-blanket",
+      "badge": "Best Self-Regulating Comfort",
+      "review": "Sunbeam's ThermoFine technology is the genuine differentiator here: rather than running the wire at fixed output, the controller measures actual surface temperature and cycles wattage down once the setpoint is reached. The practical result is that you can set the blanket warmer at bedtime without waking up overheated three hours later, and energy use over a full heating season is meaningfully lower than fixed-output designs at equivalent perceived warmth. The microplush fabric is softer than the Beautyrest's woven construction and significantly softer than budget electric blankets. Ten heat settings cover a practical range and a 10-hour auto-shutoff handles the full night. The honest weaknesses are quality-control variation between units (some run cooler than expected on high settings as ThermoFine cycles down aggressively), microplush pilling faster than woven fabric over repeated wash cycles, and dual-control SKUs being harder to find in stock than the single-control version.",
+      "pros": [
+        "ThermoFine self-regulation reduces mid-night overheating",
+        "Microplush fabric is softer than woven electric blankets",
+        "Lower seasonal energy use than fixed-output designs",
+        "10 settings and 10-hour auto-shutoff cover a full night"
+      ],
+      "cons": [
+        "Some units run cooler than expected on high — ThermoFine cycles aggressively",
+        "Microplush pills faster than woven fabric over many wash cycles"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "biddeford-electric-blanket",
+      "badge": "Best Budget",
+      "review": "Biddeford delivers the essential electric-blanket function — wire matrix, 10 heat settings, 10-hour auto-shutoff, UL/ETL certification, machine-washable body — at a price tier well below the Beautyrest and Sunbeam. Available through every major US retailer, replacement parts and warranty service are easier to access than for premium imported brands. For a guest bedroom, a college dorm, or a household that has not previously owned an electric blanket and wants to see whether the category fits before committing to a premium model, this is the rational entry point. The honest weaknesses are exactly what the price tier predicts: the fabric is thinner and less soft than Sunbeam's microplush, surface-temperature consistency across the blanket is less uniform than the premium-tier picks based on aggregated owner reviews, the controller feels less substantial in the hand, and there is no ThermoFine-equivalent self-regulation so the wire runs at fixed output across all heat settings.",
+      "pros": [
+        "Lowest price in this comparison with all core functions intact",
+        "UL/ETL certification and 10-hour auto-shutoff are present",
+        "Widely available through US retailers — easy warranty access",
+        "Machine-washable body once controller is detached"
+      ],
+      "cons": [
+        "Fabric is thinner and less soft than Sunbeam MicroPlush",
+        "Fixed-output design has no self-regulation against overheating"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "serta-fleece-electric-blanket",
+      "badge": "Best Plush Feel",
+      "review": "The Serta Plush is the most tactile blanket in this comparison — sherpa-style fleece on one face creates a physical softness and visual warmth cue that microplush and woven fabrics cannot match, and it works equally well as a couch throw and as a bed warmer. Ten heat settings, a 10-hour auto-shutoff, and dual-control variants in larger sizes round out the spec. If you intend to use the heated blanket on a sofa during evening reading or movie nights as well as in bed, no other product in this comparison provides comparable couch-throw appeal. The honest weaknesses are inherent to the fleece construction: fleece traps body heat more aggressively than woven fabric, which means the higher settings can feel uncomfortably hot, fleece requires a gentle cold-water wash to prevent matting (more care than woven blankets), and the high pile shows lint and pet hair more prominently than microplush or woven alternatives.",
+      "pros": [
+        "Softest tactile feel in this comparison — sherpa-style fleece",
+        "Doubles as couch throw for evening sofa use",
+        "Dual-control variants available in king and queen",
+        "Visual warmth cue beyond functional heating"
+      ],
+      "cons": [
+        "Fleece traps body heat — high settings can feel uncomfortably hot",
+        "Requires gentle cold wash to prevent matting of the pile"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "perfect-sleep-pad-electric-blanket",
+      "badge": "Best Under-Body Heating",
+      "review": "The Perfect Sleep Pad is the only product in this comparison that heats from below — functionally a 敷き毛布 designed for Western mattresses. The pad sits between you and the mattress, your body weight holds the heating surface in direct contact, and any blanket or comforter you already own goes on top unchanged. Direct body contact is thermally more efficient than warming a layer of air between an over-blanket and the body, so the pad draws roughly 50–100W (less than equivalent-size over-blankets) for comparable perceived warmth — meaningful for Japanese households on time-of-use electricity contracts. The face stays at ambient room temperature, which many users find more comfortable than hot air trapped against the face under a heated blanket. The honest weaknesses are placement-specific: it is engineered for Western mattress use rather than floor-futon setups, restless sleepers can move off the pad during the night, and a fitted sheet or mattress protector is required over the top to hold it in position.",
+      "pros": [
+        "Lower wattage (50–100W) than over-blankets for similar warmth",
+        "Works under any blanket or comforter you already own",
+        "No blanket weight on top, no hot air at face level",
+        "Direct body contact is thermally more efficient"
+      ],
+      "cons": [
+        "Restless sleepers may move off the pad during the night",
+        "Designed for Western mattresses — not for floor-futon setups"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For couples with mismatched temperature preferences",
+      "offerId": "beautyrest-electric-blanket",
+      "reason": "Dual-control king and queen versions plus 20-step granularity let each side run independently, and the machine-washable controller is the lowest-friction maintenance design in this comparison."
+    },
+    {
+      "label": "For solo sleepers who tend to overheat mid-night",
+      "offerId": "sunbeam-microplush-heated-blanket",
+      "reason": "ThermoFine self-regulation cycles wattage down once surface temperature reaches setpoint, so you can pre-warm the bed without waking up overheated three hours in."
+    },
+    {
+      "label": "For first-time buyers or guest-room use on a tight budget",
+      "offerId": "biddeford-electric-blanket",
+      "reason": "All core functions — 10 settings, 10-hour auto-shutoff, UL/ETL certification, machine-washable body — at the lowest price tier in this comparison."
+    },
+    {
+      "label": "For households that also use the blanket as a couch throw",
+      "offerId": "serta-fleece-electric-blanket",
+      "reason": "Sherpa-style fleece is the softest tactile experience here and gives the blanket genuine sofa-throw appeal beyond its bed-warmer role."
+    },
+    {
+      "label": "For under-body warmth and lower electricity cost",
+      "offerId": "perfect-sleep-pad-electric-blanket",
+      "reason": "50–100W direct-contact heating beats over-blankets on perceived warmth per watt and lets you keep any blanket or comforter you already own."
+    }
+  ]
 }

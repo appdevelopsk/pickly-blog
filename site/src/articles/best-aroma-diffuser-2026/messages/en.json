@@ -113,5 +113,114 @@
     "innogear-500ml-diffuser": "Budget large-tank pick — 500 mL ultrasonic with 10-12 hour continuous runtime (longest in this comparison), 7-color LED with disable option, mist intensity adjustment, automatic shutoff, remote control included. Build quality is variable with plastic-and-wood-veneer body that several long-term buyers describe as visibly cheap-looking; tank seal water leakage is most common long-term failure mode at 6-12 month mark; warranty support in Japan is weaker than domestic specialist brands; ceramic plate accumulates mineral scale faster than premium units, requiring weekly cleaning rather than monthly."
   },
   "pinDescription": "Five aroma diffusers compared in 2026 from a 3,980 yen InnoGear 500 mL to an 18,800 yen Vitruvi Stone. Diffuser type (ultrasonic vs nebulizing vs heat vs reed), tank size and runtime, scent throw across the room, build durability, the office-vs-bedroom-vs-living-room fit, and the safety rules — pet toxicity for cats and birds, oil shelf life, skin contact dilution — most product pages skip.",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use.",
+  "products": [
+    {
+      "offerId": "muji-aroma-diffuser-mj-adl2",
+      "badge": "Best Everyday Pick",
+      "review": "The MJ-ADL2 is the Muji answer to ultrasonic diffusion: a 100 mL water tank, ultrasonic operation around 30 dB, two LED brightness levels (warm ambient or dim for sleep), and a two-button control that strips out the color cycling and RGB clutter that crowds this category. The continuous 2-3 hour or intermittent 4-6 hour runtime lines up with a falling-asleep window and the neutral matte finish fits absolutely any interior — minimalist, Scandinavian, traditional Japanese, modern. Same-day pickup at any Muji store in Japan and a real warranty service network are unusual at this price tier and matter more than the spec sheet for most buyers.",
+      "pros": [
+        "Neutral aesthetic that suits any room and any interior style",
+        "Same-day availability at every Muji store nationwide with warranty service",
+        "Two-button operation with no distracting color cycling or RGB",
+        "Quiet ~30 dB operation suitable for bedrooms"
+      ],
+      "cons": [
+        "100 mL tank empties in 2-3 hours of continuous use — shortest in this comparison",
+        "Moderate scent throw covers 6-10 jou but underperforms in 16+ jou LDK rooms"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "vitruvi-stone-diffuser",
+      "badge": "Best Aesthetic Showpiece",
+      "review": "The Vitruvi Stone is the diffuser that built a Pinterest aesthetic category. Hand-glazed porcelain ceramic shell across nine colorways (white, black, terracotta, charcoal, sand, blush, sage, ocean, sunset), a 90 mL tank with 4 hours continuous or 8 hours intermittent runtime, and one of the quietest ultrasonic operations in the category at around 25 dB. Two buttons handle power and the optional warm LED light. The Canadian design sensibility and 1-year limited warranty are real but you are paying primarily for the ceramic shell and the showpiece role, not for stronger scent throw or longer runtime than cheaper alternatives.",
+      "pros": [
+        "Hand-glazed porcelain ceramic shell in nine Pinterest-friendly colorways",
+        "Among the quietest in the category at ~25 dB",
+        "Genuine showpiece aesthetic that styled bedrooms and living rooms build around",
+        "1-year limited warranty from Vitruvi direct"
+      ],
+      "cons": [
+        "Ceramic shell is fragile — drops crack it and long-term buyers report hairline cracks at 12-18 months",
+        "Roughly 2.5x the Muji and 5x the InnoGear on the same ultrasonic spec class"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "treeoflife-mood-air-mini",
+      "badge": "Best for Pure-Oil Aromatherapy",
+      "review": "The mood air mini is the one nebulizer in this comparison and the right choice if you specifically want pure essential oil delivery rather than water-diluted mist. A Venturi air pump atomizes the oil without heat or water, the intermittent timer modes (2 minutes on / 5 off or 2 on / 10 off) prevent over-saturation, and the glass nebulizer head disassembles for cleaning. USB-C power and Tree of Life's domestic retail presence at Tokyu Hands and Loft mean replacement parts and the brand's own oil ecosystem are easy to source. Scent throw is the strongest in this lineup and saturates 15-25 jou rooms at moderate intensity, which is the entire reason to choose nebulizing over ultrasonic.",
+      "pros": [
+        "Strongest scent throw in the comparison, saturates 15-25 jou rooms",
+        "Pure essential oil delivery with no water dilution or heat alteration",
+        "Tree of Life domestic retail presence with established oil ecosystem",
+        "USB-C input and glass nebulizer head that disassembles for cleaning"
+      ],
+      "cons": [
+        "Consumes 3-5 mL of pure oil per hour — running cost is 5-10x ultrasonic",
+        "Air pump runs at 40-50 dB, loud enough to interrupt sleep in a quiet bedroom"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "at-aroma-pebble",
+      "badge": "Best Portable Pick",
+      "review": "The Aroma Pebble is the @aroma answer to the office desk and travel use case that AC-powered diffusers cannot serve. A rechargeable battery runs 4-8 hours per USB-C charge depending on intensity, the 30-50 mL tank suits 30-60 minute personal-bubble sessions rather than all-day room saturation, and the ultrasonic operation around 28 dB stays quiet enough for shared workspaces. The river-pebble silhouette in stone, mocha, sand, and graphite colorways works on both an office desk and a nightstand, and the @aroma proprietary oil ecosystem is oriented toward the women's wellness Pinterest aesthetic market that this product was built for.",
+      "pros": [
+        "Rechargeable battery means no outlet required — works on desks, in cars, at hotels",
+        "Quiet ~28 dB ultrasonic operation suits shared offices",
+        "River-pebble silhouette in four colorways suits desk or nightstand placement",
+        "@aroma proprietary oil ecosystem pairs cleanly with the hardware"
+      ],
+      "cons": [
+        "30-50 mL tank cannot saturate a room — strictly personal-bubble scale",
+        "Rechargeable battery degrades after 300-400 cycles, roughly 2-3 years of daily use"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "innogear-500ml-diffuser",
+      "badge": "Best Budget Large-Tank",
+      "review": "The InnoGear 500 mL is the budget large-tank pick and the longest-running diffuser in this comparison by a wide margin: 10-12 hours continuous or 16-20 hours intermittent off the 500 mL tank. Ultrasonic operation runs around 32 dB, the 7-color LED cycles can be disabled entirely (the right setting for most adult use), mist intensity adjusts between high and low, and the unit ships with a remote and automatic shutoff when the tank empties. At 3,980 yen the spec-per-yen is unmatched in this comparison — what you give up is build quality, brand warranty depth in Japan, and the visible finish that the premium picks invest in.",
+      "pros": [
+        "500 mL tank delivers 10-12 hours continuous — longest runtime in the comparison",
+        "7-color LED can be disabled, mist intensity adjustable, remote control included",
+        "Automatic shutoff when tank empties protects the unit",
+        "Lowest practical price for adequate 16+ jou room diffusion"
+      ],
+      "cons": [
+        "Tank seal water leakage is the most common long-term failure mode at 6-12 months",
+        "Plastic and wood-grain decal body reads visibly cheap under close inspection"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For bedrooms and small Japanese apartments",
+      "offerId": "muji-aroma-diffuser-mj-adl2",
+      "reason": "The 100 mL tank and ~30 dB ultrasonic operation match the falling-asleep window and the 6-10 jou scent throw is right for one-room and bedroom volumes without over-saturating."
+    },
+    {
+      "label": "For Pinterest-styled bedrooms and living rooms",
+      "offerId": "vitruvi-stone-diffuser",
+      "reason": "The hand-glazed porcelain shell in nine colorways is the canonical Pinterest aesthetic ceramic diffuser and earns its premium as a showpiece rather than a workhorse."
+    },
+    {
+      "label": "For 15+ jou rooms that need strong scent throw",
+      "offerId": "treeoflife-mood-air-mini",
+      "reason": "The Venturi nebulizer saturates 15-25 jou rooms with pure-oil scent throw that no ultrasonic in this comparison can match."
+    },
+    {
+      "label": "For office desks, hotels, and outlet-free spaces",
+      "offerId": "at-aroma-pebble",
+      "reason": "The rechargeable battery and 30-50 mL tank are designed for 30-60 minute personal-bubble sessions and the quiet ~28 dB operation works in shared offices."
+    },
+    {
+      "label": "For larger LDK rooms on the lowest practical budget",
+      "offerId": "innogear-500ml-diffuser",
+      "reason": "The 500 mL tank and 10-12 hour continuous runtime cover a 16+ jou LDK for under 4,000 yen, with the remote and adjustable mist that the premium picks skip."
+    }
+  ]
 }

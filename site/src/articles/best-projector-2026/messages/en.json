@@ -96,5 +96,109 @@
     "xiaomi-mi-laser-projector-150": "Xiaomi Mi Laser Projector 150\" — 5000 ANSI lumens, ALPD 3.0 laser light source, 1080p native (4K upscaling, not native 4K), 150-inch rated screen size, 25,000-hour laser lifespan. Available on Rakuten Ichiba. 1080p native resolution — marketed as 4K-capable but upscaling is not native 4K; long throw ratio (4:1) requires significant throw distance for large screens, limiting room layouts; fan noise is loud at full brightness; Xiaomi Android TV ecosystem assumes ecosystem adoption; larger and heavier footprint than compact DLP models."
   },
   "pinDescription": "5 projectors compared for 2026 — Anker Nebula Capsule 3 portable vs Epson EH-TW5825 home cinema vs BenQ TH685P gaming vs XGIMI Horizon Ultra 4K laser vs Xiaomi Mi Laser 5000 lumens. Lamp vs laser cost, throw ratio guide, lumens reality for ambient light",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "anker-nebula-capsule-3",
+      "badge": "Travel portable",
+      "grade": "A+",
+      "review": "The Anker Nebula Capsule 3 is the only projector in this comparison that fits in a bag and runs off its own battery, which is the entire point. 300 ANSI lumens limits it strictly to dark rooms — bedrooms with curtains drawn, tent interiors, hotel rooms with the lights off — but within those conditions, native 1080p projection at 60 to 80 inches looks surprisingly competent for a 640 g cylinder. Built-in Android TV gives you Netflix, YouTube, and Prime Video natively without dragging along a Fire TV Stick, and the 10-hour battery actually delivers around 2 to 2.5 hours at full brightness for sustained projection. The built-in speaker is the weakest audio in the comparison, and the lumen ceiling means a single ceiling lamp washes out the image. As a travel and camping projector it is the easy recommendation; as a primary home projector it is not the right tool.",
+      "pros": [
+        "640 g cylinder with 10-hour battery for genuinely portable use",
+        "Android TV built in — no external streaming stick needed on the road",
+        "Native 1080p resolution scales to a watchable 60–80 inches in dark rooms"
+      ],
+      "cons": [
+        "300 ANSI lumens means strictly dark-room use only",
+        "Built-in speaker is the weakest audio in this comparison"
+      ]
+    },
+    {
+      "offerId": "epson-eh-tw5825",
+      "badge": "Home cinema color",
+      "grade": "A",
+      "review": "The Epson EH-TW5825 is the color-accurate home cinema choice in the comparison, with a 3LCD panel that projects red, green, and blue simultaneously through three separate liquid crystal panels, eliminating the rainbow artifacts that some DLP viewers notice in peripheral vision. 2700 lumens handles a dimmed room with blackout curtains effectively, the rated 50,000:1 contrast and natural skin tones make it the strongest 1080p Blu-ray and streaming pick here, and the rated 4,500-hour lamp life in economy mode gives several years of evening movie use before replacement. It is lamp-based, so a ¥10,000–¥15,000 lamp swap belongs in your long-term budget, and there is no built-in smart TV platform — you bring your own Fire TV or Apple TV. Native 1080p only, no 4K. Within its intended dim-room context, the picture is genuinely excellent.",
+      "pros": [
+        "3LCD panel eliminates rainbow artifacts seen on DLP",
+        "Out-of-the-box color accuracy is best in class at the price",
+        "Rated 4,500-hour economy mode lamp life"
+      ],
+      "cons": [
+        "Lamp-based with ¥10,000–¥15,000 replacements every few years",
+        "No built-in smart TV platform and no 4K support"
+      ]
+    },
+    {
+      "offerId": "benq-th685p",
+      "badge": "Gaming low-latency",
+      "grade": "A",
+      "review": "The BenQ TH685P is the gaming pick by a wide margin, with a rated 8.3 ms input lag in gaming mode at 1080p/120 Hz that puts it well ahead of the Epson and XGIMI for fighting games, shooters, and rhythm titles where latency is felt instantly. 3500 ANSI lumens handles a room with some indirect light, and the single-chip DLP architecture is more compact than the Epson's 3LCD body. As a DLP single-chip projector, some viewers see rainbow fringing on high-contrast scenes — particularly white text on dark backgrounds — and that is hardware-level, not a setting you can tune away. It is lamp-based, with a rated 4,000-hour SmartEco lamp life, has no built-in smart TV platform, and the pixel-shifting near-4K mode is not native 4K. For console and PC gaming on a projector, it is the clear pick.",
+      "pros": [
+        "Rated 8.3 ms input lag at 1080p/120 Hz for competitive gaming",
+        "3500 ANSI lumens handles rooms with some indirect light",
+        "Compact DLP body easier to mount than 3LCD alternatives"
+      ],
+      "cons": [
+        "DLP single-chip can show rainbow fringing on high-contrast scenes",
+        "Lamp-based and lacks a built-in smart TV platform"
+      ]
+    },
+    {
+      "offerId": "xgimi-horizon-ultra",
+      "badge": "4K laser flagship",
+      "grade": "A",
+      "review": "The XGIMI Horizon Ultra is the most technically ambitious projector here, pairing a native 4K DLP chip with a laser-LED hybrid light source rated at 25,000 hours, Dolby Vision support, and built-in Android TV with Chromecast. Auto-focus and auto-keystone correct the image when you reposition it, which makes life genuinely easier for renters who cannot ceiling-mount. The 2300 ISO lumens figure is measured at center only, so in real ambient light it performs closer to a 2000 ANSI lumen projector despite the impressive number. At over ¥200,000 it is the most expensive option in the comparison by a wide margin, fan noise sits above average for a living-room projector at rated brightness, and the auto-keystone processing adds a small delay that low-latency gamers will notice. As a flagship 4K all-in-one, it earns the price for the right buyer.",
+      "pros": [
+        "Native 4K DLP chip with Dolby Vision support",
+        "Laser-LED hybrid light source rated at 25,000 hours",
+        "Auto-focus and auto-keystone make repositioning painless"
+      ],
+      "cons": [
+        "Over ¥200,000 — the most expensive option here by a wide margin",
+        "Fan noise above average at rated brightness"
+      ]
+    },
+    {
+      "offerId": "xiaomi-mi-laser-projector-150",
+      "badge": "Living-room brightness",
+      "grade": "B+",
+      "review": "The Xiaomi Mi Laser Projector 150\" is the brightness specialist, with an ALPD 3.0 laser light source rated at 5000 ANSI lumens — by far the highest in this comparison and the only projector here that produces a usable image in a normally-lit living room. The 25,000-hour laser lifespan eliminates lamp replacement entirely, and the 150-inch rated screen size covers a genuinely large wall. Native resolution is 1080p with 4K upscaling, which is not the same as native 4K despite some marketing framing — the chip resolves 1080p, the processor scales 4K sources to fit. The 4:1 throw ratio demands serious throw distance (around 4 meters for 100 inches), which constrains room layouts, and fan noise at 5000 lumens is audible in quiet scenes. The Xiaomi-branded Android TV interface assumes you are comfortable inside the Xiaomi ecosystem.",
+      "pros": [
+        "5000 ANSI lumens — the only projector here usable in a lit room",
+        "ALPD 3.0 laser rated at 25,000 hours with no lamp replacement",
+        "150-inch rated screen size for genuinely large wall projection"
+      ],
+      "cons": [
+        "1080p native with 4K upscaling — not true 4K resolution",
+        "4:1 throw ratio demands long throw distances for large images"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Travelers, campers, and dorm-room users",
+      "offerId": "anker-nebula-capsule-3",
+      "reason": "640 g body with 10-hour battery and built-in Android TV makes it the only projector here that actually goes in a bag and runs without a power outlet."
+    },
+    {
+      "label": "Dedicated home cinema rooms prioritizing color accuracy",
+      "offerId": "epson-eh-tw5825",
+      "reason": "3LCD simultaneous color produces best-in-class accuracy at the price and eliminates the rainbow artifacts some DLP viewers see in peripheral vision."
+    },
+    {
+      "label": "Console and PC gamers on a projector",
+      "offerId": "benq-th685p",
+      "reason": "Rated 8.3 ms input lag at 1080p/120 Hz is the only competitive-gaming-capable latency in this comparison, with 3500 ANSI lumens for rooms with some light."
+    },
+    {
+      "label": "4K enthusiasts who want a flagship all-in-one",
+      "offerId": "xgimi-horizon-ultra",
+      "reason": "Native 4K DLP, laser-LED hybrid light source rated at 25,000 hours, Dolby Vision, and built-in Android TV deliver a complete 4K cinema package in one box."
+    },
+    {
+      "label": "Living rooms that cannot be fully darkened",
+      "offerId": "xiaomi-mi-laser-projector-150",
+      "reason": "5000 ANSI lumens from an ALPD 3.0 laser source is the only output level here that survives normal ambient lighting on a large screen."
+    }
+  ]
 }

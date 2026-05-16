@@ -99,5 +99,109 @@
     "sonos-era-100": "Best platform-agnostic premium speaker — wide stereo from splayed tweeters, Trueplay room calibration, AirPlay 2 + Alexa + Google forwarding. No native assistant; Alexa/Google commands have slight latency. Build multi-room Sonos systems without ecosystem lock-in."
   },
   "pinDescription": "Five smart speakers compared in 2026: Amazon Echo, Google Nest Audio, Apple HomePod, Echo Studio, and Sonos Era 100. Voice assistant accuracy, audio quality differences, ecosystem lock-in reality, and which to buy for music vs smart home control.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "amazon-echo-4th-gen",
+      "badge": "Smart home hub",
+      "grade": "A+",
+      "review": "The Amazon Echo 4th Gen is the easy smart home recommendation in this comparison, combining a 3.0-inch woofer with dual tweeters, a built-in Zigbee radio, and Thread plus Matter support inside a spherical body that handles 360-degree audio coverage. The Zigbee hub alone replaces a separate 4,000–8,000 yen bridge for older Hue, IKEA TRADFRI, and many third-party devices, which is the practical reason to pick this Echo over a Nest Audio. Alexa's third-party device catalog tops 140,000 entries — significantly broader than Google Home or HomeKit. Audio is competent for kitchen background music but rolls off below 80 Hz, and the soundstage is narrow compared to the Nest Audio. At roughly 6,980 yen it is the lowest-cost entry into multi-room voice control, and that is exactly the role it plays best.",
+      "pros": [
+        "Built-in Zigbee hub plus Thread and Matter support",
+        "Widest third-party smart home device catalog at 140,000+ entries",
+        "Lowest price point in the comparison for multi-room expansion"
+      ],
+      "cons": [
+        "Bass response rolls off below 80 Hz",
+        "Audio is built for voice and casual music, not critical listening"
+      ]
+    },
+    {
+      "offerId": "google-nest-audio",
+      "badge": "Assistant smarts",
+      "grade": "A",
+      "review": "The Google Nest Audio sits one step above the Echo 4th Gen for music, with a 75 mm woofer and 19 mm tweeter that produce noticeably warmer bass and cleaner midrange where vocals and acoustic instruments live. Google Assistant remains the leader in this comparison for follow-up queries and conceptual music requests — asking it to find something slower or in a similar mood actually works, and YouTube Music plus Spotify integration is deep. It does not include a Zigbee hub, relying on Wi-Fi and Bluetooth for smart home control, which is fine for newer SwitchBot, Tapo, and Meross gear but limiting if you already own Zigbee devices. There is no equivalent to the Echo's Zigbee fallback, and Google has discontinued speakers and services without notice before, which is a fair concern at this price.",
+      "pros": [
+        "Warmer bass and cleaner midrange than the Echo 4th Gen",
+        "Best assistant for follow-up queries and conceptual music requests",
+        "Strong stereo pairing with another Nest Audio for separation"
+      ],
+      "cons": [
+        "No Zigbee hub for older smart home devices",
+        "Google's track record of discontinuing services is a fair concern"
+      ]
+    },
+    {
+      "offerId": "apple-homepod-2nd-gen",
+      "badge": "Apple ecosystem",
+      "grade": "A",
+      "review": "The Apple HomePod 2nd Gen is the room-correcting audio pick, with a 4-inch high-excursion woofer, five tweeters, and real-time spatial audio processing that adapts EQ to wherever the speaker sits — corner, open shelf, or bookcase. Bass reaches into the 40–50 Hz range audibly, treble detail on cymbals and string overtones is the cleanest here, and Apple Music lossless playback at 24-bit/192 kHz is the configuration where it shines. It also acts as a Thread border router and HomeKit hub. Setup requires an iPhone or iPad, Apple Music is effectively the streaming service of choice (Spotify drops to a thinner AirPlay path), and the hardware mic-off button is the strongest privacy default in the comparison — Siri requests use a random identifier rather than your Apple ID. For Android households the HomePod is not a practical choice.",
+      "pros": [
+        "Real-time spatial audio adapts EQ to the room",
+        "Thread border router and HomeKit hub built in",
+        "Hardware mic-off and decoupled Siri identifier for privacy"
+      ],
+      "cons": [
+        "Apple Music required for full lossless quality",
+        "Setup and control require an iPhone or iPad"
+      ]
+    },
+    {
+      "offerId": "amazon-echo-studio",
+      "badge": "Atmos music",
+      "grade": "A",
+      "review": "The Amazon Echo Studio is Amazon's audio flagship, with a 5.25-inch woofer, two 2-inch midrange drivers, a front-facing tweeter, and an upward-firing tweeter that bounces height information off a flat ceiling for Dolby Atmos. Peak output reaches around 330 W, and the bass is physically present in the room in a way the Echo 4th Gen and Nest Audio cannot match — electronic music, hip-hop, and film scores benefit clearly. Atmos height effects are subtle rather than dramatic at typical 240–260 cm Japanese ceiling heights, but the room-filling low end is the more meaningful upgrade. It runs the full Alexa ecosystem but does not include a Zigbee hub, so as a smart home device it is paradoxically less capable than the cheaper Echo 4th Gen. For Alexa users who care about music, this is the right step up.",
+      "pros": [
+        "Five-driver array with 330 W peak and Dolby Atmos processing",
+        "Genuine sub-bass presence in the room",
+        "Full Alexa ecosystem and ARC support for TV audio"
+      ],
+      "cons": [
+        "No built-in Zigbee hub despite the higher price",
+        "Atmos height effects are subtle in typical Japanese rooms"
+      ]
+    },
+    {
+      "offerId": "sonos-era-100",
+      "badge": "Platform-agnostic",
+      "grade": "A",
+      "review": "The Sonos Era 100 is the audio-first pick that does not lock you into a single ecosystem. Dual tweeters splayed at 70 degrees produce the widest stereo image in this comparison from a single unit, the single woofer delivers tight and controlled bass, and Trueplay room calibration through the Sonos app measures the space and corrects EQ accordingly. AirPlay 2 covers Apple devices, Alexa and Google Assistant integrate through forwarding (with a small latency penalty versus native Echo or Nest hardware), and the Sonos app keeps streaming services interchangeable rather than tied to one platform. There is no native voice assistant and no smart home hub function, so this is a music speaker first that adds voice as a secondary capability. Build quality and long-term software support are the segment reference.",
+      "pros": [
+        "Widest stereo image from a single unit thanks to splayed tweeters",
+        "Trueplay room calibration corrects EQ to your space",
+        "AirPlay 2, Alexa, and Google forwarding without ecosystem lock-in"
+      ],
+      "cons": [
+        "No native voice assistant — Alexa and Google routed via forwarding",
+        "Highest single-speaker price in the comparison"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Smart home builders who want a hub plus voice control",
+      "offerId": "amazon-echo-4th-gen",
+      "reason": "The built-in Zigbee radio plus Thread and Matter support and the 140,000+ Alexa device catalog make it the lowest-cost path to broad smart home compatibility."
+    },
+    {
+      "label": "Android users prioritizing assistant smarts",
+      "offerId": "google-nest-audio",
+      "reason": "Google Assistant's lead in follow-up queries and conceptual music requests plus warmer audio than the Echo 4th Gen suits Android households that lean on Google services."
+    },
+    {
+      "label": "iPhone households inside the Apple Music subscription",
+      "offerId": "apple-homepod-2nd-gen",
+      "reason": "Real-time room correction, Thread/HomeKit hub duty, hardware mic-off privacy, and tight Handoff integration with iPhones make it the natural pick for Apple-first homes."
+    },
+    {
+      "label": "Alexa users who care about music quality",
+      "offerId": "amazon-echo-studio",
+      "reason": "Five-driver Dolby Atmos audio with genuine sub-bass presence keeps the Alexa ecosystem intact while delivering noticeably better music than the Echo 4th Gen."
+    },
+    {
+      "label": "Audio-first buyers who want to stay platform-agnostic",
+      "offerId": "sonos-era-100",
+      "reason": "Splayed tweeters, Trueplay room calibration, and AirPlay 2 plus Alexa and Google forwarding deliver the broadest audio quality without committing to one cloud ecosystem."
+    }
+  ]
 }

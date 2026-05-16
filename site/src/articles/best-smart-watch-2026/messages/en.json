@@ -82,5 +82,109 @@
     "amazfit-gtr-4": "Design-led value pick — 1.43-inch AMOLED round face, dual-band 5-system GNSS at this price, 10-12 day realistic battery, 150+ sport modes via Zepp app. Notification reply functionality is the weakest in this comparison (canned responses on Android, essentially absent on iOS); Zepp OS third-party app ecosystem is small; warranty in Japan via Rakuten retail rather than flagship brand-store network."
   },
   "pinDescription": "Five smart watches compared in 2026 from a 23,800 yen Fitbit Charge 6 to a 149,800 yen Garmin Fenix 8. Battery life, GPS accuracy, ecosystem lock-in, and the medical-device limits every marketing page glosses over.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "apple-watch-series-10",
+      "badge": "iPhone daily-driver",
+      "grade": "A+",
+      "review": "The Apple Watch Series 10 is the obvious daily-driver pick for iPhone owners and the most polished smart watch in this comparison. The 1.96-inch always-on OLED is the widest in the lineup, the case is roughly 10% thinner than Series 9, and FDA-cleared ECG plus atrial fibrillation notification, sleep apnea screening, and blood oxygen tracking (re-enabled in Japanese-region units) cover the meaningful health features. Suica integration plus Apple Pay means it works at every conbini and station gate in Japan, and the third-party watch app library is the largest here. Battery life with always-on display and continuous heart-rate sits at 18–22 hours, so daily charging is the price of admission. It does not pair with Android at all — switching phone platforms effectively retires the watch. For iPhone households committed to the Apple ecosystem, it is the right answer.",
+      "pros": [
+        "FDA-cleared ECG plus atrial fibrillation notification and sleep apnea screening",
+        "Suica plus Apple Pay coverage at conbini and station gates in Japan",
+        "Widest third-party watch app library in the comparison"
+      ],
+      "cons": [
+        "18–22 hour real-world battery requires daily charging",
+        "No Android pairing — switching phones retires the watch"
+      ]
+    },
+    {
+      "offerId": "garmin-fenix-8-47mm",
+      "badge": "Endurance flagship",
+      "grade": "A",
+      "review": "The Garmin Fenix 8 47mm is the endurance-athlete flagship and the most capable outdoor watch in this comparison, with a sapphire crystal AMOLED display, dual-frequency multi-band GPS that holds 3–8 m on dense city walks, topo-map trail navigation, 40 m water rating, scuba dive computer mode, and the deepest training-load and recovery analytics of any watch here. Battery life lands at a claimed 16–18 days in smartwatch mode and a realistic 10–12 days with daily GPS workouts. At 149,800 yen it is genuine overkill for casual training — the cheaper Forerunner 265 covers three-runs-a-week use at half the price. The menu system has a real 2–4 week learning curve, and the 47 mm/73 g case is large on wrists under 16 cm circumference. For trail running, triathlon, mountaineering, and dive use, nothing else here competes.",
+      "pros": [
+        "Dual-frequency multi-band GPS plus topo-map trail navigation",
+        "10–12 day realistic battery with daily GPS workouts",
+        "Deepest training-load and recovery analytics in the comparison"
+      ],
+      "cons": [
+        "Overkill at 149,800 yen for non-competitive training",
+        "47 mm/73 g case is large on smaller wrists"
+      ]
+    },
+    {
+      "offerId": "fitbit-charge-6",
+      "badge": "Tracker value",
+      "grade": "A",
+      "review": "The Fitbit Charge 6 is the tracker-form-factor value pick, with a 1.04-inch AMOLED, a realistic 6–7 day battery with continuous heart-rate, built-in GPS for runs, and Google integration that brings Google Maps notifications and YouTube Music control to the wrist. The Fitbit Premium ecosystem covers sleep and stress analysis better than most rivals at this price. ECG hardware is present but the feature is geographically restricted and not currently available in Japan as of May 2026, so Japanese buyers should verify status before counting on it. Google Pay coverage in Japan trails Apple Pay and Suica, the tracker shell limits watch face customization, and the display is small for app-style interactions. For fitness-and-sleep tracking with smart notifications at the lowest price here, it is hard to beat.",
+      "pros": [
+        "Realistic 6–7 day battery with continuous heart-rate monitoring",
+        "Google Maps notifications and YouTube Music control on the wrist",
+        "Fitbit Premium ecosystem covers sleep and stress analysis well"
+      ],
+      "cons": [
+        "ECG geographically restricted and not available in Japan as of May 2026",
+        "Google Pay coverage in Japan trails Apple Pay/Suica"
+      ]
+    },
+    {
+      "offerId": "huawei-watch-gt-5",
+      "badge": "Long-battery Android",
+      "grade": "B+",
+      "review": "The HUAWEI Watch GT 5 46mm is the long-battery Android-friendly pick, with a 1.43-inch AMOLED, dual-band GNSS on the 46 mm Pro variant (the standard 46 mm is single-frequency — verify before buying), and the longest realistic battery in this comparison at 12–14 days under normal use with continuous heart-rate. 5 ATM water resistance covers swimming, the HUAWEI Health app delivers comprehensive sleep and stress tracking, and the stainless steel options give it the most premium feel at this price. The structural cost is real: no Google Play Store, no Google Pay, no third-party Strava or Spotify apps — workouts sync to Strava through HUAWEI Health with extra friction. iOS reply functionality is essentially absent, and HUAWEI's after-sales network in Japan is thinner than Apple, Garmin, or Fitbit. If battery beats apps for you, the value is real.",
+      "pros": [
+        "12–14 day realistic battery with continuous heart-rate monitoring",
+        "Dual-band GNSS on the 46 mm Pro variant",
+        "5 ATM water resistance with stainless steel build options"
+      ],
+      "cons": [
+        "No Google Play Store, Google Pay, or direct Strava/Spotify apps",
+        "After-sales network in Japan thinner than Apple/Garmin/Fitbit"
+      ]
+    },
+    {
+      "offerId": "amazfit-gtr-4",
+      "badge": "Round-face GPS value",
+      "grade": "B+",
+      "review": "The Amazfit GTR 4 is the design-led value pick, with a 1.43-inch AMOLED round face, dual-band 5-system GNSS at a price where most rivals offer single-frequency, a realistic 10–12 day battery with continuous heart-rate and 30 minutes of daily GPS, 150+ sport modes through the Zepp app, and a finish that looks credible outside the gym. The GPS accuracy is the standout — getting dual-band at 29,800 yen is rare. Notification handling is the weakest in the comparison: replies on Android are limited to canned responses and essentially absent on iOS. The Zepp OS third-party app catalog is small, Strava sync works but bespoke watch apps are scarce, and Japan warranty runs through Rakuten retail rather than a flagship brand-store network. For a round-faced GPS watch at half the Apple-Garmin price, it earns the badge.",
+      "pros": [
+        "Dual-band 5-system GNSS at upper-mid pricing",
+        "Realistic 10–12 day battery with continuous heart-rate and daily GPS",
+        "Polished round-faced design with 150+ sport modes"
+      ],
+      "cons": [
+        "Weakest notification reply handling in the comparison",
+        "Zepp OS third-party app catalog is small"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "iPhone owners who want the deepest iOS integration",
+      "offerId": "apple-watch-series-10",
+      "reason": "FDA-cleared ECG, Suica plus Apple Pay coverage, sleep apnea screening, and the largest app library make it the most complete daily driver for iOS households."
+    },
+    {
+      "label": "Endurance athletes who train competitively",
+      "offerId": "garmin-fenix-8-47mm",
+      "reason": "Dual-frequency multi-band GPS, topo-map navigation, dive computer mode, and 10–12 day realistic battery with daily GPS support trail running, triathlon, and expedition use."
+    },
+    {
+      "label": "Fitness-and-sleep trackers on a tight budget",
+      "offerId": "fitbit-charge-6",
+      "reason": "Roughly 23,800 yen with realistic 6–7 day battery, built-in GPS, and Fitbit Premium's sleep and stress analysis covers the fitness-tracker brief at the lowest price here."
+    },
+    {
+      "label": "Android users prioritizing battery over Google apps",
+      "offerId": "huawei-watch-gt-5",
+      "reason": "12–14 day realistic battery, 5 ATM water resistance, and a polished build at 36,800 yen suit Android users who can live without Google Play and Google Pay."
+    },
+    {
+      "label": "Buyers who want a stylish round-face watch with serious GPS",
+      "offerId": "amazfit-gtr-4",
+      "reason": "Dual-band 5-system GNSS and 10–12 day realistic battery at 29,800 yen deliver flagship-tier GPS accuracy in a round-face design at half the Apple-Garmin price."
+    }
+  ]
 }

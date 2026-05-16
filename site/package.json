@@ -15,7 +15,10 @@
     "sitemap": "tsx scripts/generate-sitemap.ts",
     "og:generate": "tsx scripts/generate-og.ts",
     "moshimo:link": "tsx scripts/moshimo-link.ts",
-    "catalog:update": "tsx scripts/catalog-update.ts"
+    "catalog:update": "tsx scripts/catalog-update.ts",
+    "gsc:performance": "tsx scripts/gsc-performance.ts",
+    "gsc:submit": "tsx scripts/gsc-submit.ts",
+    "gsc:ping": "tsx scripts/gsc-ping-indexing.ts"
   },
   "dependencies": {
     "next": "15.5.15",
