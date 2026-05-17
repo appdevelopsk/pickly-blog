@@ -1,0 +1,122 @@
+[
+  {
+    "id": "security-cam-arlo-pro-5s",
+    "imageUrl": "",
+    "priceMin": 28000,
+    "priceMax": 36000,
+    "category": "tech",
+    "badge": "📷",
+    "name": {
+      "en": "Arlo Pro 5S 2K/4K Outdoor Security Camera",
+      "ja": "Arlo Pro 5S 屋外防犯カメラ（4K HDR）"
+    },
+    "description": {
+      "en": "4K HDR, 160° diagonal FOV, color night vision to ~6–7 m ambient, IP67, USB local CVR, AI person/vehicle/animal/package detection with Arlo Secure subscription.",
+      "ja": "4K HDR・160°対角視野角・環境光で約6〜7mまでカラーナイトビジョン・IP67・USBローカル連続録画・Arlo Secureサブスクで人物/車両/動物/荷物AI検出。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.arlo.com/en-us/cameras/arlo-pro/arlo-pro-5s.html",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "security-cam-ring-stick-up",
+    "imageUrl": "",
+    "priceMin": 11000,
+    "priceMax": 16000,
+    "category": "tech",
+    "badge": "📷",
+    "name": {
+      "en": "Ring Stick Up Cam Battery (3rd gen)",
+      "ja": "Ring Stick Up Cam バッテリー（第3世代）"
+    },
+    "description": {
+      "en": "1080p HDR, 130° diagonal FOV, IP66, Ring Protect $4/month for 180-day cloud storage, Alexa Echo Show live view, flexible flush/stand/wall mount.",
+      "ja": "1080p HDR・130°対角視野角・IP66・Ring Protect月額580円で180日クラウド・Amazon Echo Showでライブビュー・フラッシュ/スタンド/壁面マウント対応。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://ring.com/products/stick-up-security-camera-battery",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "security-cam-google-nest-cam-battery",
+    "imageUrl": "",
+    "priceMin": 22000,
+    "priceMax": 28000,
+    "category": "tech",
+    "badge": "📷",
+    "name": {
+      "en": "Google Nest Cam (Battery)",
+      "ja": "Google Nest Cam（バッテリー）"
+    },
+    "description": {
+      "en": "1080p HDR, 130° horizontal FOV, IPX4, on-device Neural Network AI detection, Familiar Face detection with Nest Aware Plus, Google Home native integration.",
+      "ja": "1080p HDR・130°水平視野角・IPX4・デバイス内蔵ニューラルネットワークAI検出・Nest Aware Plusでおなじみの顔検出・Google Homeネイティブ統合。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://store.google.com/jp/product/nest_cam_battery",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "security-cam-wyze-cam-v4",
+    "imageUrl": "",
+    "priceMin": 4500,
+    "priceMax": 6500,
+    "category": "tech",
+    "badge": "📷",
+    "name": {
+      "en": "Wyze Cam v4",
+      "ja": "ワイズカム v4"
+    },
+    "description": {
+      "en": "2.5K (2560×1440), 130° horizontal FOV, IP65, Starlight color night vision sensor, free 14-day event clips and person detection, microSD up to 256 GB.",
+      "ja": "2.5K（2560×1440）・130°水平視野角・IP65・Starlightカラーナイトビジョンセンサー・無料で14日間イベントクリップと人物検出・microSD最大256 GB。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.wyze.com/products/wyze-cam",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "security-cam-reolink-argus-4",
+    "imageUrl": "",
+    "priceMin": 11000,
+    "priceMax": 16000,
+    "category": "tech",
+    "badge": "📷",
+    "name": {
+      "en": "Reolink Argus 4 Pro",
+      "ja": "Reolink Argus 4 Pro"
+    },
+    "description": {
+      "en": "4K (3840×2160), 122° horizontal FOV, IP66, dual LED spotlight for active color night vision to 15 m, microSD up to 256 GB + NAS via Home Hub, solar panel supported.",
+      "ja": "4K（3840×2160）・122°水平視野角・IP66・デュアルLEDスポットライトで15mまでアクティブカラーナイトビジョン・microSD最大256 GB＋Home Hub経由NAS・ソーラーパネル対応。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://reolink.com/product/reolink-argus-4-pro/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

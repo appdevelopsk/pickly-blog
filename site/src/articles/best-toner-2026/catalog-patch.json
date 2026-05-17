@@ -1,0 +1,122 @@
+[
+  {
+    "id": "toner-hada-labo-shirojyun",
+    "imageUrl": "",
+    "priceMin": "¥780",
+    "priceMax": "¥980",
+    "category": "beauty",
+    "badge": "💧",
+    "name": {
+      "en": "Hada Labo Shirojyun Medicated Whitening Lotion",
+      "ja": "肌ラボ 白潤 薬用美白化粧水"
+    },
+    "description": {
+      "en": "Five types of hyaluronic acid plus arbutin in an alcohol-free, fragrance-free formula at under ¥800 for 170ml. The ingredient density benchmark for all hydrating toners.",
+      "ja": "5種のヒアルロン酸とアルブチンをアルコール・香料ゼロで配合。170mlで800円以下という圧倒的な成分コスパを誇る保湿化粧水の基準製品。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hadarabo.jp/products/shirojyun/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "toner-kikumasamune-sake",
+    "imageUrl": "",
+    "priceMin": "¥900",
+    "priceMax": "¥1,200",
+    "category": "beauty",
+    "badge": "🍶",
+    "name": {
+      "en": "Kikumasamune Sake Skin Care Lotion High Moisture",
+      "ja": "菊正宗 酒蔵仕込みローション 高保湿"
+    },
+    "description": {
+      "en": "Japanese sake fermentation filtrate as the base — not just an extract — delivering amino acids, kojic acid, and sake enzymes in a lightweight mist format. 500ml under ¥1,200.",
+      "ja": "日本酒の発酵液そのものをベースに使用。アミノ酸・麹酸・酵素を高濃度で配合したミストタイプの化粧水。500mlで1,200円以下。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kikumasamune.co.jp/skincare/",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "toner-cosrx-aha-bha",
+    "imageUrl": "",
+    "priceMin": "¥1,200",
+    "priceMax": "¥1,800",
+    "category": "beauty",
+    "badge": "🔬",
+    "name": {
+      "en": "COSRX AHA/BHA Clarifying Treatment Toner",
+      "ja": "COSRX AHA/BHA クラリファイング トリートメント トナー"
+    },
+    "description": {
+      "en": "0.1% BHA and 0.1% AHA at pH 3.8-4.5 in a mineral thermal water base. Gentle enough for daily use, effective for oily and congestion-prone skin.",
+      "ja": "0.1%BHA＋0.1%AHAをpH3.8〜4.5の低pH処方。温泉水ベースで毎日使える穏やかな角質ケアトナー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.cosrx.com/products/aha-bha-clarifying-treatment-toner",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "toner-klairs-supple-preparation",
+    "imageUrl": "",
+    "priceMin": "¥2,500",
+    "priceMax": "¥3,200",
+    "category": "beauty",
+    "badge": "🌿",
+    "name": {
+      "en": "Klairs Supple Preparation Unscented Toner",
+      "ja": "Klairs フルリ ナチュラル スキン リファイナー（無香料）"
+    },
+    "description": {
+      "en": "Centella asiatica, beta-glucan, and amino acids with zero alcohol, fragrance, and essential oils. The safest formulation on this list for sensitized or post-procedure skin.",
+      "ja": "ツボクサエキス・β-グルカン・アミノ酸配合で、アルコール・香料・精油すべてゼロ。敏感化した肌・施術後の肌に最も安全な処方。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://dear-klairs.com/products/supple-preparation-unscented-toner",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "toner-pixi-glow",
+    "imageUrl": "",
+    "priceMin": "¥3,500",
+    "priceMax": "¥4,200",
+    "category": "beauty",
+    "badge": "✨",
+    "name": {
+      "en": "Pixi Glow Tonic",
+      "ja": "Pixi グロウトニック"
+    },
+    "description": {
+      "en": "5% glycolic acid at pH 3.5-4.0 with aloe vera and ginseng. The Western AHA toner benchmark — visible brightening results in 1-2 weeks with proper SPF discipline.",
+      "ja": "pH3.5〜4.0で5%グリコール酸にアロエベラとジンセンを配合。SPF管理を守れば1〜2週間で透明感の変化が実感できる、西洋AHAトナーの基準製品。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.pixibeauty.com/products/glow-tonic",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

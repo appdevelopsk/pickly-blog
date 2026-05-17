@@ -1,0 +1,122 @@
+[
+  {
+    "id": "vitamin-d-now-foods-5000iu",
+    "imageUrl": "",
+    "priceMin": 10,
+    "priceMax": 20,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "NOW Foods Vitamin D-3 5000 IU",
+      "ja": "ナウフーズ ビタミン D-3 5000 IU"
+    },
+    "description": {
+      "en": "5000 IU vitamin D3 (cholecalciferol) per softgel. Non-GMO, soy-free, third-party tested. High-potency option for those with confirmed deficiency.",
+      "ja": "1粒あたりビタミンD3（コレカルシフェロール）5000 IU。非GMO、大豆フリー、第三者機関検査済み。欠乏確認者向けの高用量。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=NOW+Foods+Vitamin+D3+5000+IU",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vitamin-d-thorne-d3-k2",
+    "imageUrl": "",
+    "priceMin": 25,
+    "priceMax": 45,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Thorne Vitamin D/K2 Liquid",
+      "ja": "ソーン ビタミン D/K2 リキッド"
+    },
+    "description": {
+      "en": "Vitamin D3 (1000 IU) combined with K2 (200mcg MK-4) per drop. NSF Certified for Sport, liquid form for flexible dosing. Supports calcium absorption and arterial health.",
+      "ja": "1滴あたりD3（1000 IU）＋K2（MK-4 200mcg）配合。NSF Certified for Sport取得、液体で用量調節しやすい。カルシウム吸収・動脈健康をサポート。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Thorne+Vitamin+D+K2+Liquid+NSF",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vitamin-d-nordic-naturals-d3",
+    "imageUrl": "",
+    "priceMin": 18,
+    "priceMax": 35,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Nordic Naturals Vitamin D3",
+      "ja": "ノルディックナチュラルズ ビタミン D3"
+    },
+    "description": {
+      "en": "Vitamin D3 1000 IU in extra-virgin olive oil for enhanced absorption. Third-party tested, non-GMO verified, mini softgels. Easy daily-maintenance dose.",
+      "ja": "エクストラバージンオリーブオイル入りでD3 1000 IUの吸収率を向上。第三者機関検査済み、非GMO認証、小粒ソフトジェル。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Nordic+Naturals+Vitamin+D3",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vitamin-d-dhc-jp-2000iu",
+    "imageUrl": "",
+    "priceMin": 800,
+    "priceMax": 1800,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "DHC Vitamin D (Japan) 2000 IU",
+      "ja": "DHC ビタミンD 2000 IU"
+    },
+    "description": {
+      "en": "DHC's vitamin D supplement popular in Japan. 2000 IU per tablet, 60-day supply. Lanolin-derived D3, affordable and widely available.",
+      "ja": "日本で人気のDHCビタミンDサプリ。1粒2000 IU、60日分。ラノリン由来D3で手頃な価格で購入しやすい。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=DHC+ビタミンD",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vitamin-d-garden-of-life-d3",
+    "imageUrl": "",
+    "priceMin": 20,
+    "priceMax": 40,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Garden of Life Vitamin D3 Organic",
+      "ja": "ガーデン オブ ライフ オーガニック ビタミン D3"
+    },
+    "description": {
+      "en": "2000 IU vitamin D3 from lichen (vegan), certified organic, Non-GMO Project Verified. Whole-food based, Certified B Corp brand.",
+      "ja": "地衣類由来のビタミンD3 2000 IU（ヴィーガン対応）。オーガニック認証、非GMO認証。ホールフード系ブランド。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Garden+of+Life+Vitamin+D3+Organic",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

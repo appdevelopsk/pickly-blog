@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ext-ssd-samsung-t9",
+    "imageUrl": "",
+    "priceMin": 89,
+    "priceMax": 199,
+    "category": "tech",
+    "badge": "🎮",
+    "name": {
+      "en": "Samsung T9 Portable SSD",
+      "ja": "Samsung T9 ポータブルSSD"
+    },
+    "description": {
+      "en": "Read 2,000 MB/s / Write 1,950 MB/s (USB 3.2 Gen 2x2), TBW 600 TB (2 TB model), USB-C form factor, up to 4 TB, Dynamic Thermal Guard, rubber casing, ~$90 (1 TB).",
+      "ja": "読取2,000MB/s・書込1,950MB/s（USB 3.2 Gen 2x2）、TBW 600TB（2TBモデル）、USB-C接続、最大4TB、動的サーマルガード、ラバーケーシング、約9,000円（1TB）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ext-ssd-sandisk-extreme-v2",
+    "imageUrl": "",
+    "priceMin": 69,
+    "priceMax": 149,
+    "category": "tech",
+    "badge": "🎮",
+    "name": {
+      "en": "SanDisk Extreme Portable SSD V2",
+      "ja": "SanDisk エクストリーム ポータブルSSD V2"
+    },
+    "description": {
+      "en": "Read 1,050 MB/s / Write 1,000 MB/s (USB 3.2 Gen 2), TBW 200 TB (1 TB model), USB-C, IP65 water/dust resistance, forged aluminum heat sink, up to 4 TB, ~$70 (1 TB).",
+      "ja": "読取1,050MB/s・書込1,000MB/s（USB 3.2 Gen 2）、TBW 200TB（1TBモデル）、USB-C、IP65防水防塵、鍛造アルミヒートシンク、最大4TB、約7,000円（1TB）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.westerndigital.com/products/portable-drives/sandisk-extreme-usb-3-2-ssd",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ext-ssd-wd-my-passport",
+    "imageUrl": "",
+    "priceMin": 59,
+    "priceMax": 119,
+    "category": "tech",
+    "badge": "🎮",
+    "name": {
+      "en": "WD My Passport SSD",
+      "ja": "WD My Passport SSD"
+    },
+    "description": {
+      "en": "Read 1,050 MB/s / Write 1,000 MB/s (USB 3.2 Gen 2), TBW 200 TB (1 TB model), USB-C, AES 256-bit hardware encryption, up to 4 TB, compact pocket-size design, ~$60 (1 TB).",
+      "ja": "読取1,050MB/s・書込1,000MB/s（USB 3.2 Gen 2）、TBW 200TB（1TBモデル）、USB-C、AES 256ビットハードウェア暗号化、最大4TB、コンパクトポケットサイズ設計、約6,000円（1TB）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.westerndigital.com/products/portable-drives/wd-my-passport-ssd",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ext-ssd-crucial-x9-pro",
+    "imageUrl": "",
+    "priceMin": 69,
+    "priceMax": 139,
+    "category": "tech",
+    "badge": "🎮",
+    "name": {
+      "en": "Crucial X9 Pro Portable SSD",
+      "ja": "Crucial X9 Pro ポータブルSSD"
+    },
+    "description": {
+      "en": "Read 1,050 MB/s / Write 1,000 MB/s (USB 3.2 Gen 2), TBW 600 TB (2 TB model), USB-C, IP55 water/dust resistance, aluminum casing, up to 4 TB, ~$70 (1 TB).",
+      "ja": "読取1,050MB/s・書込1,000MB/s（USB 3.2 Gen 2）、TBW 600TB（2TBモデル）、USB-C、IP55防水防塵、アルミ筐体、最大4TB、約7,000円（1TB）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.crucial.com/ssd/x9-pro/CT1000X9PROSSD902",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ext-ssd-seagate-one-touch",
+    "imageUrl": "",
+    "priceMin": 49,
+    "priceMax": 99,
+    "category": "tech",
+    "badge": "🎮",
+    "name": {
+      "en": "Seagate One Touch SSD",
+      "ja": "Seagate One Touch SSD"
+    },
+    "description": {
+      "en": "Read 1,030 MB/s / Write 1,000 MB/s (USB 3.2 Gen 2), TBW 150 TB (1 TB model), USB-C, Seagate Toolkit backup software included, up to 2 TB, compact metal chassis, ~$50 (500 GB).",
+      "ja": "読取1,030MB/s・書込1,000MB/s（USB 3.2 Gen 2）、TBW 150TB（1TBモデル）、USB-C、Seagate Toolkitバックアップソフト付属、最大2TB、コンパクトメタル筐体、約5,000円（500GB）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.seagate.com/consumer/backup/one-touch/one-touch-ssd/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

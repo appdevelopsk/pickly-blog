@@ -1,0 +1,122 @@
+[
+  {
+    "id": "spirulina-nutrex-pure-hawaiian",
+    "imageUrl": "",
+    "priceMin": 30,
+    "priceMax": 45,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Nutrex Pure Hawaiian Spirulina",
+      "ja": "ニュートレックス ピュアハワイアン スピルリナ"
+    },
+    "description": {
+      "en": "Grown in deep Pacific ocean water (2,000 ft depth) in Kona, Hawaii. 40+ years continuous production. Phycocyanin content disclosed per batch. Heavy metal testing CoA available.",
+      "ja": "ハワイ・コナの深太平洋海水（深さ約600m）で栽培。40年以上の継続生産。フィコシアニン含量をバッチごとに開示。重金属試験CoA入手可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Nutrex-Hawaii-Hawaiian-Spirulina-Pacifica/dp/B001OYMFWY",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "spirulina-earthrise-naturals",
+    "imageUrl": "",
+    "priceMin": 20,
+    "priceMax": 35,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Earthrise Spirulina Naturals",
+      "ja": "アースライズ スピルリナ ナチュラルズ"
+    },
+    "description": {
+      "en": "Pioneer US spirulina producer, Calipatria California facility operating since late 1970s. CGMP certified. Heavy metal tested. Phycocyanin documented. Available in powder and tablet forms.",
+      "ja": "1970年代後半から稼働するカリフォルニア・カリパトリア施設の米国スピルリナ先駆者生産者。CGMP認証。重金属試験済み。フィコシアニン文書化済み。パウダー・タブレット両形態。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Earthrise-Spirulina-Natural-Powder/dp/B001GAOHTS",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "spirulina-now-foods-organic",
+    "imageUrl": "",
+    "priceMin": 15,
+    "priceMax": 25,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "NOW Foods Organic Spirulina",
+      "ja": "ナウフーズ オーガニック スピルリナ"
+    },
+    "description": {
+      "en": "USDA Certified Organic + Informed Sport certified. Available at Whole Foods, iHerb, Amazon, Vitacost. Heavy metal testing documented. Best value among certified spirulina options.",
+      "ja": "USDA認定有機 + Informed Sport認証。Whole Foods・iHerb・Amazon・Vitacostで入手可能。重金属試験文書化済み。認証スピルリナで最高のコスパ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/NOW-Supplements-Spirulina-Organic/dp/B0019GW3G8",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "spirulina-yamamoto-jp",
+    "imageUrl": "",
+    "priceMin": 1500,
+    "priceMax": 4000,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Yamamoto Kanpo Spirulina (Japan)",
+      "ja": "山本漢方 スピルリナ"
+    },
+    "description": {
+      "en": "Japan's leading specialty supplement producer. Spirulina tested to Japanese regulatory standards with heavy metal limits often stricter than US food supplement limits. Tablet and powder forms.",
+      "ja": "日本最大手の専門サプリ生産者。日本の規制基準で試験されたスピルリナ（重金属制限は食品サプリの米国基準より厳格なことが多い）。タブレット・パウダー両形態。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/山本漢方-スピルリナ/dp/B001EFKN7K",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "spirulina-pure-synergy-super",
+    "imageUrl": "",
+    "priceMin": 40,
+    "priceMax": 60,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Pure Synergy Super Spirulina Plus",
+      "ja": "ピュアシナジー スーパースピルリナ プラス"
+    },
+    "description": {
+      "en": "USDA organic spirulina with added astaxanthin (marine antioxidant with exercise recovery evidence) + organic spinach + green tea. Phycocyanin content explicitly disclosed. Third-party tested.",
+      "ja": "アスタキサンチン（運動回復エビデンスを持つ海洋抗酸化物質）+ 有機ほうれん草 + 緑茶を追加したUSDA有機スピルリナ。フィコシアニン含量を明示的に開示。第三者試験済み。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Pure-Synergy-Super-Spirulina-Plus/dp/B0016BH5GW",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

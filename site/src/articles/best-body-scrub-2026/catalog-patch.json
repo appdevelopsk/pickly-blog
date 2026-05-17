@@ -1,0 +1,122 @@
+[
+  {
+    "id": "body-scrub-frank-body-original",
+    "imageUrl": "",
+    "priceMin": "¥3,080",
+    "priceMax": "¥3,960",
+    "category": "beauty",
+    "badge": "Best Coffee Scrub",
+    "name": {
+      "en": "Frank Body Original Coffee Scrub",
+      "ja": "フランクボディ オリジナルコーヒースクラブ"
+    },
+    "description": {
+      "en": "Frank Body's cult coffee ground body scrub with coconut oil and sweet almond oil. 200g. Ships internationally to Japan via frankbody.com.",
+      "ja": "フランクボディのカルト的なコーヒー粉ボディスクラブ。コcoナッツオイルとスウィートアーモンドオイル配合。200g。frankbody.comから日本への国際配送対応。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.frankbody.com/products/original-coffee-scrub",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "body-scrub-tree-hut-shea",
+    "imageUrl": "",
+    "priceMin": "¥1,980",
+    "priceMax": "¥2,750",
+    "category": "beauty",
+    "badge": "Best Value",
+    "name": {
+      "en": "Tree Hut Shea Sugar Scrub",
+      "ja": "ツリーハット シアシュガースクラブ"
+    },
+    "description": {
+      "en": "Tree Hut's bestselling sugar scrub with shea butter base. 510g. Available in 40+ fragrances. Now stocked at Loft Japan and Amazon Japan.",
+      "ja": "ツリーハットのベストセラーシュガースクラブ。シアバターベース。510g。40種以上のフレグランスバリアント。ロフト各店とAmazon Japanで購入可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=tree+hut+shea+sugar+scrub",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "body-scrub-tatcha-polished-rice",
+    "imageUrl": "",
+    "priceMin": "¥7,920",
+    "priceMax": "¥8,580",
+    "category": "beauty",
+    "badge": "Best for Sensitive Skin",
+    "name": {
+      "en": "Tatcha Polished Classic Rice Enzyme Powder",
+      "ja": "タッチャ ポリッシュド クラシック ライスエンザイムパウダー"
+    },
+    "description": {
+      "en": "Tatcha's dual-action Japanese rice bran and enzyme exfoliator. 60g. Powder activates to paste on contact with water. Safe for sensitive skin. Available at Sephora Japan.",
+      "ja": "タッチャの日本産米ぬかとエンザイムのデュアルアクション角質ケア。60g。水と接触するとペーストに。敏感肌対応。Sephora Japanで購入可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.tatcha.com/product/the-rice-polish/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "body-scrub-bliss-lemon-sage",
+    "imageUrl": "",
+    "priceMin": "¥3,300",
+    "priceMax": "¥4,400",
+    "category": "beauty",
+    "badge": "Best for Rough Patches",
+    "name": {
+      "en": "Bliss Lemon + Sage Salty Scrub",
+      "ja": "ブリス レモン＋セージ ソルティスクラブ"
+    },
+    "description": {
+      "en": "Bliss salt-based body scrub with lemon oil and sage extract. 350ml. Best for targeted use on rough elbows, knees, and heels. Available via Amazon Japan.",
+      "ja": "ブリスのソルトベースボディスクラブ。レモンオイルとセージエキス配合。350ml。肘・膝・かかとのピンポイント使用に最適。Amazon Japan経由で入手可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=bliss+lemon+sage+salty+scrub",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "body-scrub-sugar-fresh",
+    "imageUrl": "",
+    "priceMin": "¥4,730",
+    "priceMax": "¥5,830",
+    "category": "beauty",
+    "badge": "Best Face-to-Body Crossover",
+    "name": {
+      "en": "Fresh Sugar Face Polish",
+      "ja": "フレッシュ シュガーフェイスポリッシュ"
+    },
+    "description": {
+      "en": "Fresh's fine sugar and glycerin exfoliator safe for face, neck, and body. 200g. Available at Fresh counters in Isetan and Sephora Japan.",
+      "ja": "フレッシュの細かいシュガーとグリセリン配合の角質ケア。顔・首・体に安全。200g。伊勢丹のフレッシュカウンターとSephora Japanで購入可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fresh.com/jp/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

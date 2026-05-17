@@ -1,0 +1,122 @@
+[
+  {
+    "id": "hot-choc-ghirardelli-premium",
+    "imageUrl": "",
+    "priceMin": 6.99,
+    "priceMax": 12.99,
+    "category": "food",
+    "badge": "🍫",
+    "name": {
+      "en": "Ghirardelli Premium Hot Cocoa Mix",
+      "ja": "ギラデリ プレミアムホットコーヒーミックス"
+    },
+    "description": {
+      "en": "Dutch process (alkalized) cocoa mix with ~30% cocoa by weight. Dissolves completely without clumping. Available in Double Chocolate and Classic flavors. Widely available at US grocery stores.",
+      "ja": "重量比約30%のダッチプロセス（アルカリ処理）カカオミックス。塊なしで完全溶解。ダブルチョコレートとクラシックフレーバー展開。米国スーパーで広く入手可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Ghirardelli+Premium+Hot+Cocoa",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hot-choc-valrhona-drinking",
+    "imageUrl": "",
+    "priceMin": 14.99,
+    "priceMax": 22.99,
+    "category": "food",
+    "badge": "🍫",
+    "name": {
+      "en": "Valrhona Chocolat en Poudre Drinking Chocolate",
+      "ja": "ヴァローナ ショコラ・アン・プードル ドリンキングチョコレート"
+    },
+    "description": {
+      "en": "70% cacao drinking chocolate made from Valrhona's single-origin blended cacao. Natural (non-alkalized) process. Long, complex finish. Best prepared at 70°C with whisking. Less sweet than mainstream mixes.",
+      "ja": "ヴァローナのシングルオリジンブレンドカカオから作った70%ドリンキングチョコレート。天然（非アルカリ）プロセス。長くて複雑な後味。70°Cで泡立てながら調製が最良。主流ミックスより甘さが少ない。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Valrhona+Drinking+Chocolate+Powder",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hot-choc-cacao-barry-plein-arome",
+    "imageUrl": "",
+    "priceMin": 12.99,
+    "priceMax": 19.99,
+    "category": "food",
+    "badge": "🍫",
+    "name": {
+      "en": "Cacao Barry Plein Arome Cocoa Powder",
+      "ja": "カカオバリー プレーンアロム カカオパウダー"
+    },
+    "description": {
+      "en": "Professional pâtisserie-grade Dutch process cocoa with 22–24% cocoa butter retained. West African cacao. Virtually unsweetened — add sugar to taste. Used in French cafés for drinking chocolate. Intense and bitter.",
+      "ja": "22〜24%カカオバターを保持したプロのパティスリーグレードのダッチプロセスカカオ。西アフリカカカオ。実質的に無糖——お好みで砂糖を加える。フランスのカフェでドリンキングチョコレートに使用。強烈な苦み。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Cacao+Barry+Plein+Arome",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hot-choc-meiji-cacao-jp",
+    "imageUrl": "",
+    "priceMin": 600,
+    "priceMax": 900,
+    "category": "food",
+    "badge": "🍫",
+    "name": {
+      "en": "Meiji High Cacao Pure Cocoa Powder (Japan)",
+      "ja": "明治 高カカオ ピュアカカオパウダー"
+    },
+    "description": {
+      "en": "Ghanaian and Ecuadorian cacao blend processed using Meiji's low-temperature extraction to preserve polyphenols. Less sweet than typical Japanese cocoa. ~¥600–700 / 80g. Available at Japanese supermarkets and international Japanese online retailers.",
+      "ja": "ポリフェノール保持のため明治の低温抽出法で処理したガーナ産・エクアドル産カカオブレンド。通常の日本のカカオより甘さが少ない。約600〜700円 / 80g。日本のスーパーおよび海外の日本オンライン小売で入手可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=明治+高カカオ+ピュアカカオパウダー",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hot-choc-equal-exchange-organic",
+    "imageUrl": "",
+    "priceMin": 8.99,
+    "priceMax": 13.99,
+    "category": "food",
+    "badge": "🍫",
+    "name": {
+      "en": "Equal Exchange Organic Hot Chocolate Mix",
+      "ja": "イコールエクスチェンジ オーガニックホットチョコレートミックス"
+    },
+    "description": {
+      "en": "65% cacao solids hot chocolate from small farmer cooperatives in Peru, Ecuador, and the Dominican Republic. Fair Trade USA and USDA Organic certified. Worker-owned cooperative. Fruity, balanced flavor.",
+      "ja": "ペルー・エクアドル・ドミニカ共和国の小農家協同組合から65%カカオ固形分のホットチョコレート。Fair Trade USA＋USDA有機認証。労働者所有の協同組合。フルーティでバランスの良い風味。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Equal+Exchange+Organic+Hot+Chocolate",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

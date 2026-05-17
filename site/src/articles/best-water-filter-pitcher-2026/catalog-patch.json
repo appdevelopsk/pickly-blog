@@ -1,0 +1,122 @@
+[
+  {
+    "id": "water-filter-brita-standard",
+    "imageUrl": "",
+    "priceMin": 23,
+    "priceMax": 30,
+    "category": "home",
+    "badge": "💧",
+    "name": {
+      "en": "Brita Standard 10-Cup Water Filter Pitcher",
+      "ja": "Brita スタンダード 10カップ浄水ポット"
+    },
+    "description": {
+      "en": "NSF 42 certified (chlorine, taste, odor). Longlast+ filter upgrade adds NSF 53 lead certification. Electronic filter status indicator. Fits most refrigerator door shelves.",
+      "ja": "NSF 42認証（塩素・味・臭い）。Longlast+フィルターでNSF 53鉛認証追加。電子フィルターステータス表示。多くの冷蔵庫ドアラック対応サイズ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.brita.com/water-pitchers/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "water-filter-pur-plus",
+    "imageUrl": "",
+    "priceMin": 28,
+    "priceMax": 35,
+    "category": "home",
+    "badge": "💧",
+    "name": {
+      "en": "PUR Plus 11-Cup Lead-Reducing Water Filter Pitcher",
+      "ja": "PUR Plus 11カップ鉛除去浄水ポット"
+    },
+    "description": {
+      "en": "NSF 42 and 53 certified. MAXION filter combines activated carbon and ion exchange resin for broader contaminant reduction including lead. 11-cup capacity.",
+      "ja": "NSF 42・53認証。MAXIONフィルターが活性炭とイオン交換樹脂を組み合わせて鉛を含む広い汚染物質を除去。11カップ容量。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.pur.com/water-pitchers-dispensers/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "water-filter-zerowater-10cup",
+    "imageUrl": "",
+    "priceMin": 40,
+    "priceMax": 50,
+    "category": "home",
+    "badge": "💧",
+    "name": {
+      "en": "ZeroWater 10-Cup 5-Stage Water Filter Pitcher with TDS Meter",
+      "ja": "ZeroWater 10カップ 5段階浄水ポット（TDSメーター付属）"
+    },
+    "description": {
+      "en": "5-stage ion exchange filtration reduces TDS to near-zero. NSF 42 and 53 certified. Includes TDS meter to verify filtration performance. 10-cup capacity.",
+      "ja": "5段階イオン交換ろ過でTDSをほぼゼロに低減。NSF 42・53認証。除去性能確認用TDSメーター付属。10カップ容量。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://zerowater.com/collections/pitchers-dispensers/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "water-filter-torayvino-jp",
+    "imageUrl": "",
+    "priceMin": 45,
+    "priceMax": 75,
+    "category": "home",
+    "badge": "💧",
+    "name": {
+      "en": "Torayvino Pitcher Water Purifier",
+      "ja": "東レ トレビーノ ポット型浄水器"
+    },
+    "description": {
+      "en": "Hollow-fiber membrane filtration technology from Toray Industries. JIS-certified (NSF-equivalent). 2026 filter updated for expanded emerging contaminant coverage. Lowest annual filter cost for Japan-market households.",
+      "ja": "東レの中空糸膜ろ過技術。JIS規格認証（NSF相当）。2026年フィルターは新興汚染物質カバー拡張版。日本市場家庭向け最安の年間フィルターコスト。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.toray.co.jp/torayvino/products/pitcher/",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "water-filter-clearly-filtered",
+    "imageUrl": "",
+    "priceMin": 90,
+    "priceMax": 110,
+    "category": "home",
+    "badge": "💧",
+    "name": {
+      "en": "Clearly Filtered Water Filter Pitcher",
+      "ja": "Clearly Filtered 浄水ポット"
+    },
+    "description": {
+      "en": "Certified NSF 42, 53, 244, 401, and P473 (PFAS). Affinity Filtration Technology with 100-gallon filter life. The only pitcher in this comparison certified for PFAS reduction.",
+      "ja": "NSF 42・53・244・401・P473（PFAS）認証。Affinity Filtration Technology・100ガロンフィルター寿命。この比較でPFAS除去認証を持つ唯一の浄水ポット。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.clearlyfiltered.com/products/filtered-water-pitcher",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

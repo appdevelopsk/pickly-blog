@@ -1,0 +1,122 @@
+[
+  {
+    "id": "space-heater-dyson-hot-cool",
+    "imageUrl": "",
+    "priceMin": 400,
+    "priceMax": 550,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Dyson Hot+Cool HP07",
+      "ja": "ダイソン ホット＆クール HP07"
+    },
+    "description": {
+      "en": "Bladeless fan heater with HEPA H13 air purification, 2000W heat, and auto climate control.",
+      "ja": "HEPA H13空気清浄機能付き羽根なしファンヒーター。2000W暖房、自動気候制御。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Dyson+Hot+Cool+HP07",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "space-heater-vornado-vh10",
+    "imageUrl": "",
+    "priceMin": 80,
+    "priceMax": 120,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Vornado VH10 Whole Room Vortex Heater",
+      "ja": "ボルナド VH10 ホールルーム ボルテックスヒーター"
+    },
+    "description": {
+      "en": "1500W vortex circulation heater covering rooms up to 300 sq ft with automatic climate control and 12-hour timer.",
+      "ja": "1500Wボルテックス循環ヒーター。最大28m²対応、オート気候制御、12時間タイマー付き。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Vornado+VH10+heater",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "space-heater-lasko-cyclonic",
+    "imageUrl": "",
+    "priceMin": 50,
+    "priceMax": 80,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Lasko 5309 Cyclonic Space Heater",
+      "ja": "ラスコ 5309 サイクロニック スペースヒーター"
+    },
+    "description": {
+      "en": "1500W tower heater with oscillation, remote control, and digital thermostat.",
+      "ja": "1500Wタワーヒーター。首振り、リモコン、デジタルサーモスタット搭載。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Lasko+5309+cyclonic+heater",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "space-heater-daikin-ceramic-jp",
+    "imageUrl": "",
+    "priceMin": 20000,
+    "priceMax": 50000,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Daikin Ceramic Fan Heater ERFT11WS",
+      "ja": "ダイキン セラミックファンヒーター ERFT11WS"
+    },
+    "description": {
+      "en": "Daikin's flagship ceramic heater with 3-stage output (1200W/600W/300W), humidification function, and quiet 37dB operation.",
+      "ja": "ダイキンのフラッグシップセラミックヒーター。3段階出力（1200W/600W/300W）、加湿機能、静音37dB運転。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=ダイキン+セラミックファンヒーター+ERFT11WS",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "space-heater-delonghi-oil-filled",
+    "imageUrl": "",
+    "priceMin": 100,
+    "priceMax": 180,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "De'Longhi TRD40615E Oil-Filled Radiator",
+      "ja": "デロンギ TRD40615E オイルフィルドラジエーター"
+    },
+    "description": {
+      "en": "1500W oil-filled radiator with 24-hour timer, adjustable thermostat, and silent radiant heat for bedrooms.",
+      "ja": "1500Wオイルフィルドラジエーター。24時間タイマー、調節可能なサーモスタット、静音輻射熱で寝室向き。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=DeLonghi+TRD40615E+oil+radiator",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

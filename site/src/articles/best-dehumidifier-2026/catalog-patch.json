@@ -1,0 +1,122 @@
+[
+  {
+    "id": "dehumidifier-frigidaire-50pt",
+    "imageUrl": "",
+    "priceMin": 220,
+    "priceMax": 300,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Frigidaire FGAC5044W1 50-Pint Dehumidifier",
+      "ja": "フリジデール FGAC5044W1 50パイント除湿機"
+    },
+    "description": {
+      "en": "ENERGY STAR 50-pint dehumidifier for large rooms up to 1,500 sq ft with continuous drain, auto-restart, and digital humidity readout.",
+      "ja": "ENERGY STAR認証50パイント除湿機。最大140m²対応、連続排水、自動再起動、デジタル湿度表示。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Frigidaire+FGAC5044W1+dehumidifier",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dehumidifier-hisense-50pt",
+    "imageUrl": "",
+    "priceMin": 190,
+    "priceMax": 260,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Hisense DH7019KP1WG 50-Pint Dehumidifier",
+      "ja": "ハイセンス DH7019KP1WG 50パイント除湿機"
+    },
+    "description": {
+      "en": "50-pint ENERGY STAR dehumidifier with built-in pump, 1.18-gallon tank, and auto-defrost for basement use.",
+      "ja": "ビルトインポンプ搭載50パイントENERGY STAR除湿機。4.5Lタンク、自動霜取り機能でジメジメした地下室向き。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Hisense+DH7019KP1WG+dehumidifier",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dehumidifier-midea-30pt",
+    "imageUrl": "",
+    "priceMin": 140,
+    "priceMax": 200,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Midea MAD30C1AWS 30-Pint Dehumidifier",
+      "ja": "ミデア MAD30C1AWS 30パイント除湿機"
+    },
+    "description": {
+      "en": "30-pint ENERGY STAR dehumidifier for rooms up to 1,500 sq ft with dual fan speeds and auto-restart.",
+      "ja": "最大140m²対応のENERGY STAR 30パイント除湿機。2段階ファン風速、自動再起動機能付き。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Midea+MAD30C1AWS+dehumidifier",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dehumidifier-panasonic-jp",
+    "imageUrl": "",
+    "priceMin": 25000,
+    "priceMax": 60000,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Panasonic F-YHRX120 Dehumidifier",
+      "ja": "パナソニック F-YHRX120 衣類乾燥除湿機"
+    },
+    "description": {
+      "en": "Panasonic's hybrid dehumidifier with nanoe ion, 6L/day at 23°C/60%RH, laundry drying mode and quiet 39dB fan.",
+      "ja": "ナノイーイオン搭載パナソニックハイブリッド除湿機。23℃/60%RH条件で6L/日除湿、衣類乾燥モード、静音39dB。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=パナソニック+F-YHRX120+除湿機",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dehumidifier-sharp-jp",
+    "imageUrl": "",
+    "priceMin": 20000,
+    "priceMax": 45000,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Sharp CV-J120-W Dehumidifier with Plasmacluster",
+      "ja": "シャープ CV-J120-W プラズマクラスター搭載衣類乾燥除湿機"
+    },
+    "description": {
+      "en": "Sharp's compressor-type dehumidifier with Plasmacluster ion technology, 12L/day, large laundry drying airflow.",
+      "ja": "プラズマクラスターイオン技術搭載のシャープ製コンプレッサー式除湿機。12L/日除湿、衣類乾燥風量大。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=シャープ+CV-J120-W+除湿機",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  }
+]

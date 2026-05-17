@@ -1,0 +1,122 @@
+[
+  {
+    "id": "coffee-mug-yeti-rambler-14oz",
+    "imageUrl": "",
+    "priceMin": 30,
+    "priceMax": 38,
+    "category": "home",
+    "badge": "☕",
+    "name": {
+      "en": "YETI Rambler 14 oz Mug with MagSlider Lid",
+      "ja": "YETI Rambler 14oz マグ（MagSliderふた付き）"
+    },
+    "description": {
+      "en": "18/8 stainless steel double-wall vacuum insulation. MagSlider magnetic lid seals under bag pressure. Dishwasher-safe. Keeps drinks hot 4+ hours in room temperature conditions.",
+      "ja": "18/8ステンレス真空断熱二重構造。MagSlider磁気ふたがバッグ圧力下でシール。食洗機対応。室温環境で4時間超の保温。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.yeti.com/en_US/mugs/rambler-14-oz-mug/M14MG.html",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "coffee-mug-hydro-flask-12oz",
+    "imageUrl": "",
+    "priceMin": 27,
+    "priceMax": 33,
+    "category": "home",
+    "badge": "☕",
+    "name": {
+      "en": "Hydro Flask 12 oz Coffee Mug with Flex Sip Lid",
+      "ja": "Hydro Flask 12oz コーヒーマグ（Flex Sipふた付き）"
+    },
+    "description": {
+      "en": "TempShield double-wall vacuum insulation with powder coat finish. Flex Sip 360° drinking edge. Best cold-retention in this comparison. Dishwasher-safe, 18/8 stainless.",
+      "ja": "TempShield真空断熱二重構造・パウダーコート仕上げ。Flex Sip 360°ドリンキングエッジ。本比較最高の保冷性能。食洗機対応・18/8ステンレス。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hydroflask.com/12-oz-coffee-mug",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "coffee-mug-stanley-classic",
+    "imageUrl": "",
+    "priceMin": 35,
+    "priceMax": 42,
+    "category": "home",
+    "badge": "☕",
+    "name": {
+      "en": "Stanley Classic Trigger-Action Travel Mug 20 oz",
+      "ja": "Stanley Classic トリガーアクション トラベルマグ 20oz"
+    },
+    "description": {
+      "en": "20 oz / 591 ml capacity. Trigger-action lid opens one-handed without removing from lips. 18/8 stainless double-wall vacuum insulation. 2026 production uses lead-free base plug.",
+      "ja": "591ml容量。トリガーアクションふたが口から離さず指1本で開閉。18/8ステンレス真空断熱二重構造。2026年生産は鉛フリー底部プラグ採用。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.stanley1913.com/products/classic-trigger-action-travel-mug-20-oz",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "coffee-mug-kinto-travel-tumbler",
+    "imageUrl": "",
+    "priceMin": 37,
+    "priceMax": 45,
+    "category": "home",
+    "badge": "☕",
+    "name": {
+      "en": "KINTO Travel Tumbler 350ml",
+      "ja": "KINTO トラベルタンブラー 350ml"
+    },
+    "description": {
+      "en": "18/8 stainless with ceramic-coated interior for taste-neutral coffee. 70mm slim diameter fits Japanese train cup holders. One-touch flip lid with push-button lock. Double-wall vacuum insulation.",
+      "ja": "18/8ステンレス・セラミックコート内面で金属臭なし。70mmスリム径で日本の電車カップホルダー対応。ワンタッチフリップふた・プッシュボタンロック。真空断熱二重構造。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kinto.co.jp/products/travel-tumbler/",
+        "markets": ["global", "JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "coffee-mug-muji-stainless-jp",
+    "imageUrl": "",
+    "priceMin": 10,
+    "priceMax": 15,
+    "category": "home",
+    "badge": "☕",
+    "name": {
+      "en": "MUJI Stainless Steel Tumbler 350ml",
+      "ja": "無印良品 ステンレスタンブラー 350ml"
+    },
+    "description": {
+      "en": "18/8 stainless double-wall insulation. Slim profile for bag side pockets and Japanese train cup holders. Screw-top lid. Dishwasher-safe. Available in all MUJI stores in Japan.",
+      "ja": "18/8ステンレス二重断熱構造。バッグポケット・日本の電車カップホルダー対応のスリムプロファイル。スクリュートップふた・食洗機対応。全国の無印良品で入手可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.muji.com/jp/ja/store/cmdty/section/S10017",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  }
+]

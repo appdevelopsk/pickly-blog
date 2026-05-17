@@ -1,0 +1,122 @@
+[
+  {
+    "id": "oats-quaker-overnight",
+    "imageUrl": "",
+    "priceMin": 8,
+    "priceMax": 14,
+    "category": "food",
+    "badge": "🥤",
+    "name": {
+      "en": "Quaker Overnight Oats (8-pack variety)",
+      "ja": "クエーカー オーバーナイトオーツ（8種アソート）"
+    },
+    "description": {
+      "en": "Pre-portioned overnight oat cups. Add milk or yogurt, refrigerate overnight. 7g protein, 8g added sugar, 44g carb per serving. Widely available convenience pick.",
+      "ja": "計量済みオーバーナイトオーツカップ。牛乳またはヨーグルトを加えて一晩冷蔵するだけ。1食あたりタンパク7g、添加糖8g、糖質44g。入手しやすいコンビニエンス系。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Quaker+Overnight+Oats+variety+pack",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "oats-bob-red-mill-organic",
+    "imageUrl": "",
+    "priceMin": 10,
+    "priceMax": 18,
+    "category": "food",
+    "badge": "🥤",
+    "name": {
+      "en": "Bob's Red Mill Organic Old Fashioned Rolled Oats",
+      "ja": "ボブズレッドミル オーガニック オールドファッション ロールドオーツ"
+    },
+    "description": {
+      "en": "USDA Certified Organic, non-GMO, glyphosate-free. 5g protein, 0g added sugar, 27g carb per half-cup dry serving. Whole grain bulk format — build your own overnight oats.",
+      "ja": "USDA認定オーガニック・非GMO・グリホサートフリー。乾燥1/2カップあたりタンパク5g、添加糖0g、糖質27g。ホールグレーン バルク形式でオリジナルオーバーナイトオーツ向け。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Bob%27s+Red+Mill+Organic+Old+Fashioned+Rolled+Oats",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "oats-purely-elizabeth-pumpkin",
+    "imageUrl": "",
+    "priceMin": 12,
+    "priceMax": 18,
+    "category": "food",
+    "badge": "🥤",
+    "name": {
+      "en": "Purely Elizabeth Pumpkin Cinnamon Overnight Oats",
+      "ja": "ピュアリーエリザベス パンプキンシナモン オーバーナイトオーツ"
+    },
+    "description": {
+      "en": "Single-serve overnight oat pouches. Gluten-free oats + quinoa flakes + chia seeds. 10g protein, 6g added sugar, 40g carb per serving. Seasonal pumpkin spice flavor.",
+      "ja": "個包装オーバーナイトオーツ。グルテンフリーオーツ＋キノアフレーク＋チアシード。タンパク10g / 添加糖6g / 糖質40g。秋冬向けパンプキンスパイスフレーバー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Purely+Elizabeth+Pumpkin+Cinnamon+Overnight+Oats",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "oats-kodiak-protein-packed",
+    "imageUrl": "",
+    "priceMin": 11,
+    "priceMax": 17,
+    "category": "food",
+    "badge": "🥤",
+    "name": {
+      "en": "Kodiak Protein-Packed Oatmeal Cups",
+      "ja": "コディアック プロテインパックド オートミール カップ"
+    },
+    "description": {
+      "en": "High-protein single-serve cups. Whole grain oats + whey protein. 12g protein, 7g added sugar, 36g carb per serving. Just add hot water — done in 2 minutes.",
+      "ja": "高タンパク個包装カップ。ホールグレーンオーツ＋ホエイプロテイン配合。タンパク12g / 添加糖7g / 糖質36g。熱湯を注ぐだけ2分で完成。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Kodiak+Protein+Packed+Oatmeal+Cups",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "oats-trader-joes-organic",
+    "imageUrl": "",
+    "priceMin": 4,
+    "priceMax": 7,
+    "category": "food",
+    "badge": "🥤",
+    "name": {
+      "en": "Trader Joe's Organic Old Fashioned Rolled Oats",
+      "ja": "トレーダージョーズ オーガニック オールドファッション ロールドオーツ"
+    },
+    "description": {
+      "en": "USDA Organic, non-GMO bulk rolled oats. 5g protein, 0g added sugar, 27g carb per serving. Best value organic oats on the US market. Store brand, Trader Joe's exclusive.",
+      "ja": "USDAオーガニック・非GMOのバルクロールドオーツ。タンパク5g / 添加糖0g / 糖質27g。米国市場最高コスパのオーガニックオーツ。トレーダージョーズ独占販売。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.traderjoes.com/home/products/pdp/organic-old-fashioned-rolled-oats-059218",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

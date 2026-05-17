@@ -1,0 +1,122 @@
+[
+  {
+    "id": "keto-snacks-quest-protein-chips",
+    "imageUrl": "",
+    "priceMin": 2.49,
+    "priceMax": 3.99,
+    "category": "food",
+    "badge": "🥨",
+    "name": {
+      "en": "Quest Protein Chips",
+      "ja": "クエスト プロテインチップス"
+    },
+    "description": {
+      "en": "Whey and milk protein isolate chips with 21g protein and 4g net carbs per bag. Available in Ranch, Nacho Cheese, Sour Cream & Chive, and Chili Lime.",
+      "ja": "ホエイ・ミルクプロテインアイソレートのチップス。1袋でタンパク質21g・ネット糖質4g。ランチ・ナチョチーズ・サワークリーム＆チャイブ・チリライムなどのフレーバー展開。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Quest+Protein+Chips",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "keto-snacks-perfect-keto-bars",
+    "imageUrl": "",
+    "priceMin": 2.99,
+    "priceMax": 3.99,
+    "category": "food",
+    "badge": "🍫",
+    "name": {
+      "en": "Perfect Keto Bar",
+      "ja": "パーフェクトケトバー"
+    },
+    "description": {
+      "en": "Grass-fed collagen protein bar with MCT oil. 12g protein, 13g fat, 3g net carbs. Sweetened with allulose and stevia. Flavors include Chocolate Chip Cookie Dough and Peanut Butter.",
+      "ja": "MCTオイル配合のグラスフェッドコラーゲンプロテインバー。タンパク質12g・脂質13g・ネット糖質3g。アルロース・ステビア甘味。チョコチップクッキー生地・ピーナッツバターなどのフレーバー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Perfect+Keto+Bar",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "keto-snacks-chomps-beef-sticks",
+    "imageUrl": "",
+    "priceMin": 1.99,
+    "priceMax": 2.99,
+    "category": "food",
+    "badge": "🥩",
+    "name": {
+      "en": "Chomps Grass-Fed Beef Sticks",
+      "ja": "チョンプス グラスフェッドビーフスティック"
+    },
+    "description": {
+      "en": "Grass-fed and grass-finished beef sticks with 9g protein and 0g net carbs per stick. No sugar, gluten, or soy. Paleo, Whole30, and keto certified. Available in Original and Jalapeño.",
+      "ja": "グラスフェッド＆グラスフィニッシュドビーフスティック。1本でタンパク質9g・ネット糖質0g。砂糖・グルテン・大豆不使用。パレオ・Whole30・ケト認証。オリジナル・ハラペーニョなどのフレーバー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Chomps+Beef+Sticks",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "keto-snacks-fat-snax-cookies",
+    "imageUrl": "",
+    "priceMin": 8.99,
+    "priceMax": 12.99,
+    "category": "food",
+    "badge": "🍪",
+    "name": {
+      "en": "Fat Snax Keto Cookies",
+      "ja": "ファットスナックス ケトクッキー"
+    },
+    "description": {
+      "en": "Almond flour keto cookies with 0g net carbs per cookie. Sweetened with allulose, erythritol, and monk fruit. Reformulated in 2025 to reduce erythritol. Chocolate Chip and Snickerdoodle flavors.",
+      "ja": "アーモンド粉のケトクッキー。1枚あたりネット糖質0g。アルロース・エリスリトール・モンクフルーツ甘味。2025年にエリスリトールを削減してリフォーミュレーション。チョコチップ・スニッカードゥードルフレーバー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Fat+Snax+Cookies",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "keto-snacks-keto-farms-fat-bomb",
+    "imageUrl": "",
+    "priceMin": 12.99,
+    "priceMax": 18.99,
+    "category": "food",
+    "badge": "💣",
+    "name": {
+      "en": "Keto Farms Fat Bomb",
+      "ja": "ケトファームズ ファットボム"
+    },
+    "description": {
+      "en": "Coconut oil and MCT powder fat bombs with 9g fat and 1g net carbs per piece. Requires refrigeration. Dark Chocolate Almond and White Chocolate variants. Designed for fat adaptation.",
+      "ja": "ヤシ油・MCTパウダーのファットボム。1粒あたり脂質9g・ネット糖質1g。冷蔵保存が必要。ダークチョコレートアーモンド・ホワイトチョコレートバリアント。脂質適応向けに設計。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Keto+Farms+Fat+Bomb",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

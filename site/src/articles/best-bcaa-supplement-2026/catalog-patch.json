@@ -1,0 +1,122 @@
+[
+  {
+    "id": "bcaa-xtend-original",
+    "imageUrl": "",
+    "priceMin": 28,
+    "priceMax": 50,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Scivation XTEND Original BCAA",
+      "ja": "サイベーション エクステンド オリジナル BCAA"
+    },
+    "description": {
+      "en": "7g BCAAs per serving in 2:1:1 ratio (leucine/isoleucine/valine), plus electrolytes and glutamine. Zero calories, multiple flavors.",
+      "ja": "2:1:1比率のBCAA 7g/食（ロイシン/イソロイシン/バリン）＋電解質＋グルタミン配合。カロリーゼロ、複数フレーバー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Scivation+XTEND+Original+BCAA",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bcaa-optimum-nutrition-instantized",
+    "imageUrl": "",
+    "priceMin": 25,
+    "priceMax": 45,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Optimum Nutrition Instantized BCAA",
+      "ja": "オプティマムニュートリション インスタンタイズド BCAA"
+    },
+    "description": {
+      "en": "5g BCAAs per serving in 2:1:1 ratio, instantized powder for easy mixing. Unflavored option available. Third-party tested.",
+      "ja": "2:1:1比率のBCAA 5g/食、インスタント溶解パウダー。無味タイプあり。第三者機関検査済み。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Optimum+Nutrition+Instantized+BCAA",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bcaa-scivation-xtend",
+    "imageUrl": "",
+    "priceMin": 30,
+    "priceMax": 55,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "XTEND Pro BCAA Powder",
+      "ja": "エクステンド プロ BCAA パウダー"
+    },
+    "description": {
+      "en": "7g BCAAs plus 25g whey protein isolate. NSF Certified for Sport, designed for intra-workout and recovery.",
+      "ja": "BCAA 7g＋ホエイプロテインアイソレート25g配合。NSF Certified for Sport取得。ワークアウト中・回復向け設計。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=XTEND+Pro+BCAA+Powder+NSF",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bcaa-dhc-amino-jp",
+    "imageUrl": "",
+    "priceMin": 1500,
+    "priceMax": 3000,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "DHC BCAA Amino (Japan)",
+      "ja": "DHC BCAAアミノ"
+    },
+    "description": {
+      "en": "DHC's BCAA supplement formulated for the Japanese market. Tablet form with leucine, isoleucine, and valine in 2:1:1 ratio, 30-day supply.",
+      "ja": "日本市場向けDHCのBCAAサプリ。ロイシン・イソロイシン・バリン2:1:1比率のタブレット。30日分。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=DHC+BCAA",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bcaa-evlution-nutrition-evlucein",
+    "imageUrl": "",
+    "priceMin": 22,
+    "priceMax": 42,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "EVLution Nutrition BCAA Energy",
+      "ja": "エボリューション ニュートリション BCAA エナジー"
+    },
+    "description": {
+      "en": "5g BCAAs with natural caffeine (110mg) per serving. 2:1:1 ratio, zero sugar, multiple flavors. Budget-friendly option with energy boost.",
+      "ja": "BCAA 5g＋天然カフェイン110mg/食。2:1:1比率、砂糖ゼロ、複数フレーバー。エネルギー補給も兼ねるコスパ商品。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=EVLution+Nutrition+BCAA+Energy",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

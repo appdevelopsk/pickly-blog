@@ -1,0 +1,122 @@
+[
+  {
+    "id": "shower-head-kohler-forte",
+    "imageUrl": "",
+    "priceMin": 35,
+    "priceMax": 60,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Kohler Forte Single-Function Showerhead",
+      "ja": "コーラー フォルテ シングルファンクション シャワーヘッド"
+    },
+    "description": {
+      "en": "Classic Kohler fixed showerhead with 2.0 GPM flow rate and Katalyst air-induction technology for a full, powerful spray.",
+      "ja": "コーラーのカタリスト空気誘導技術により、2.0 GPMの力強い水流を実現する定番シャワーヘッド。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Kohler+Forte+Showerhead",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "shower-head-delta-in2ition",
+    "imageUrl": "",
+    "priceMin": 80,
+    "priceMax": 130,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Delta In2ition Two-in-One Shower",
+      "ja": "デルタ イントゥイション 2-in-1 シャワー"
+    },
+    "description": {
+      "en": "Combination fixed and hand shower with magnetic docking, 1.75 GPM, and five spray settings.",
+      "ja": "マグネットドッキング対応の固定＋ハンドシャワー一体型。1.75 GPM、5スプレー設定。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Delta+In2ition+shower",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "shower-head-hansgrohe-raindance",
+    "imageUrl": "",
+    "priceMin": 150,
+    "priceMax": 250,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Hansgrohe Raindance Select S 150",
+      "ja": "ハンスグローエ レインダンス セレクト S 150"
+    },
+    "description": {
+      "en": "Premium German-engineered fixed showerhead with 6-inch face, 3 spray modes, and 1.75 GPM EcoRight flow.",
+      "ja": "ドイツ製プレミアムシャワーヘッド。直径15cm、3スプレーモード、1.75 GPM節水設計。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Hansgrohe+Raindance+Select+S150",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "shower-head-toto-showers-jp",
+    "imageUrl": "",
+    "priceMin": 8000,
+    "priceMax": 25000,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "TOTO Shower Head TBW01006J",
+      "ja": "TOTO シャワーヘッド TBW01006J"
+    },
+    "description": {
+      "en": "TOTO's popular handheld shower head with micro-bubble technology (Fine Bubble) for deep skin cleansing, widely sold in Japan.",
+      "ja": "TOTOのマイクロバブル（ファインバブル）技術搭載ハンドシャワー。毛穴の汚れを落とす深層洗浄が人気。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=TOTO+シャワーヘッド+TBW01006J",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "shower-head-moen-engage",
+    "imageUrl": "",
+    "priceMin": 60,
+    "priceMax": 100,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Moen Engage Magnetix 26100",
+      "ja": "モエン エンゲージ マグネティクス 26100"
+    },
+    "description": {
+      "en": "Six-function handheld with Magnetix magnetic docking, 2.5 GPM, and Spot Resist brushed nickel finish.",
+      "ja": "マグネットドッキング搭載の6機能ハンドシャワー。2.5 GPM、スポットレジストブラッシュドニッケル仕上げ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Moen+Engage+Magnetix+26100",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

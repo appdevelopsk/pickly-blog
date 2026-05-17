@@ -1,6 +1,7 @@
 import type { AffiliateOffer, AffiliatePolicy, AspLink, Market } from "./types";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
 import overridesJson from "./catalog-overrides.json";
+import { CATALOG_ADDITIONS } from "./catalog-additions";
 
 type OverridesShape = Record<string, { links?: AspLink[] } | undefined> & {
   _comment?: string;
@@ -38,8 +39,7 @@ export const POLICY: AffiliatePolicy = {
  * RAW_CATALOG の links は default(全部 approved:false の placeholder)、
  * CATALOG (export) は overrides.json を merge した最終形。
  */
-// Cast needed to avoid TS2590 ("union type too complex") on large array literals
-const RAW_CATALOG = [
+const RAW_CATALOG: AffiliateOffer[] = [
   {
     id: "nordvpn",
     imageUrl: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nordvpn-icon.png",
@@ -21948,7 +21948,8 @@ const RAW_CATALOG = [
   { id: "cap-barbell-standard-set", category: "fitness", badge: "Best Budget Barbell Kit", name: { en: "CAP Barbell 110 lb Standard Set", ja: "CAPバーベル 110lbスタンダードセット" }, description: { en: "1-inch standard barbell with 110 lb of cast iron plates — budget entry point for barbell training.", ja: "110lbの鋳鉄プレート付き1インチスタンダードバーベル。バーベルトレーニングへのバジェット入門キット。" }, price: "$99", imageUrl: "https://www.capbarbell.com/cdn/shop/products/ob-86b-set.jpg", links: [{ network: "amazon-us", productId: "B001ARYU58", rawUrl: "https://www.amazon.com/dp/B001ARYU58", markets: ["US", "EU", "global"], approved: true }] },
   { id: "rogue-monster-bands", category: "fitness", badge: "Best Resistance Bands", name: { en: "Rogue Monster Resistance Bands", ja: "ローグ モンスターバンド" }, description: { en: "41-inch loop bands in multiple resistance levels — used for pull-up assistance, barbell banded work, and mobility.", ja: "複数の抵抗レベルの41インチループバンド。懸垂補助・バーベルバンドワーク・モビリティに使用。" }, price: "$28", imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Fitness%20and%20Recovery/Resistance%20Bands/Monster%20Bands/MB1/MB1-H_ldijhx.png", links: [{ network: "amazon-us", productId: "B00HGLSXF6", rawUrl: "https://www.amazon.com/dp/B00HGLSXF6", markets: ["US", "EU", "global"], approved: true }] },
   { id: "prosourcefit-flooring-tiles", category: "fitness", badge: "Best Gym Flooring", name: { en: "ProsourceFit Puzzle Exercise Mat Tiles", ja: "プロソースフィット パズルエクササイズマットタイル" }, description: { en: "3/4-inch interlocking EVA foam tiles — protects floors and reduces noise from dropped weights.", ja: "3/4インチのインターロッキングEVAフォームタイル。床を保護し重量落下時の騒音を軽減。" }, price: "$49", imageUrl: "https://www.prosourcefit.com/cdn/shop/products/puzzle-exercise-mat.jpg", links: [{ network: "amazon-us", productId: "B00GHE34V2", rawUrl: "https://www.amazon.com/dp/B00GHE34V2", markets: ["US", "EU", "global"], approved: true }] },
-] as unknown as AffiliateOffer[];
+  ...CATALOG_ADDITIONS,
+] as AffiliateOffer[];
 
 /**
  * RAW_CATALOG に catalog-overrides.json を mergeした最終 CATALOG。

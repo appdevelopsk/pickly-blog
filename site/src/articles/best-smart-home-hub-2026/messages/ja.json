@@ -1,0 +1,246 @@
+{
+  "title": "スマートホームハブおすすめ2026年版：Zigbee・Z-Wave・Thread・Matter対応5機種を徹底比較",
+  "description": "Amazon Echo Hub・Google Nest Hub Max・Samsung SmartThings・Aeotec Smart Home Hub・Apple HomePod miniをZigbee・Z-Wave・Thread・Matter対応とローカル処理能力で比較。2026年のスマートホーム構築に役立つ正直な情報を提供。",
+  "lede": "2026年のスマートホームで本当に重要なプロトコル — Zigbee・Z-Wave・Thread・Matter — と、インターネットが切れたときにも自動化がローカルで動くかどうかで5機種のハブを比較します。",
+  "methodology": "各ハブをワイヤレスプロトコル対応（Zigbee・Z-Wave・Thread・Matter・Wi-Fi・Bluetooth）、自動化のローカル処理対クラウド処理、対応デバイスエコシステムの規模、ルーティン/自動化ビルダーの柔軟性、音声アシスタント統合、プライバシーポリシーで評価。価格はAmazon US・各ブランド公式ストア、2026年5月時点。",
+  "recommendedFor": [
+    {
+      "label": "Alexaユーザーで壁面パネルが欲しい場合",
+      "offerId": "smart-hub-amazon-echo-hub",
+      "reason": "Zigbee・Thread・Matter搭載の8インチ壁掛け専用パネル — 物理タッチインターフェース付きの初めてのAlexaハブ。"
+    },
+    {
+      "label": "Googleホームでキッチンディスプレイが欲しい場合",
+      "offerId": "smart-hub-google-nest-hub-max",
+      "reason": "10インチディスプレイにNestカメラストリーミング・Nest Aware統合・Threadサポート・Google Assistantを内蔵。"
+    },
+    {
+      "label": "Z-Wave・Zigbeの既存デバイスを使うプロトコル非依存ユーザーに",
+      "offerId": "smart-hub-samsung-smartthings",
+      "reason": "SmartThings StationはZigbee・Thread・Matterをネイティブ搭載、Z-Waveは連携ハブ経由 — 本リストで最広のプロトコルカバレッジ。"
+    },
+    {
+      "label": "Z-WaveとZigbeeをローカル処理で本格的に構築したい場合",
+      "offerId": "smart-hub-aeotec-smart-home-hub",
+      "reason": "AeotecはSmartThingsファームウェアで認定Z-WaveとZigbeeラジオ・Matter/Threadブリッジ・このグループで最も深いローカル処理を提供。"
+    },
+    {
+      "label": "Apple HomeKitユーザーでSiriとThreadボーダールーティングが欲しい場合",
+      "offerId": "smart-hub-apple-homepod-mini",
+      "reason": "HomePod miniはHomeKitハブとThreadボーダールーターを兼ね、Siri自動化をデバイス上でローカル処理。"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Zigbee・Z-Wave・Threadが互換性なしに異なるプロトコルである理由",
+      "paragraphs": [
+        "スマートホームハブ購入時の最も一般的な誤解は、Zigbee・Z-Wave・Thread・Wi-Fiをデバイス接続の同等なオプションとして扱うことです。それらは別物です。Zigbeeは2.4 GHz帯で動作し、各Zigbeeデバイスが近くのデバイスまでネットワークを延伸するメッシュネットワークを使用します — 1ネットワーク最大65,000台対応、バッテリー効率が高く、Philips Hue・IKEA TRÅDFRI・Sonoffのスマート電球・センサー・コンセントで最も一般的なプロトコルです。弱点は2.4 GHz帯のWi-Fi密集環境での混信と、異なるZigbee実装間の相互運用性の問題（すべてのZigbeeデバイスがすべてのZigbeeハブと手間なしでペアリングできるわけではない）。",
+        "Z-Waveはサブギガヘルツの868 MHz（欧州）または908 MHz（米国）専用バンドで動作し、Wi-FiやZigbeeとの干渉がゼロで壁貫通性に優れます。Z-WaveはYale・Schlage・Honeywell・Fibaroのロック・センサー・サーモスタット・セキュリティデバイスのプロトコルとして定番 — 信頼性から防犯・HVACスペースがZ-Waveに標準化しました。デメリット：Z-WaveデバイスはZigbee同等品より高価な傾向、プロトコルはZ-Waveアライアンスがライセンス要件付きで管理、本リストの全ハブがZ-Waveを直接サポートするわけではありません。ThreadはZigbeeと同じ802.15.4ラジオを使う最新プロトコルですが、最初からIPベースで各ThreadデバイスにリアルIPv6アドレスがあります。ThreadはスレッドボーダールーターをWi-Fi/イーサネットネットワークへのブリッジとして必要とします。Apple HomePod mini・Amazon Echo Hub・Google Nest Hub Max・Aeotecハブはすべてスレッドボーダールーターとして機能します。Apple・Google・Amazon・Samsungが支持するアプリケーション層標準Matter（Thread・Wi-Fi上で動作）は、エコシステム横断でデバイスを相互運用可能にする設計で、Matter認定デバイスはAlexa・Google Home・Apple HomeKit・SmartThingsで同時に機能します。"
+      ]
+    },
+    {
+      "heading": "ローカル処理：インターネットが切れたとき何が起きるか",
+      "paragraphs": [
+        "ハブベースの自動化処理が最も重要なのは2つのシナリオです：インターネット接続が切断したとき、と人感センサーで照明を即座に点灯させるようなレイテンシ感応型自動化。クラウド依存のハブはすべての自動化コマンドをリモートサーバーに送信して戻す往復処理を行い — 通常200〜800 msのレイテンシが発生し、インターネット障害中は完全に機能停止します。ローカル処理された自動化はハブのプロセッサ上で動作し、通常50 ms以内に応答し、インターネット障害中も動作し続け、自宅の行動データをクラウドサーバーに送信しません。",
+        "本比較の5機種のうち、Aeotec Smart Home Hub（SmartThingsファームウェア動作）が最も包括的なローカル処理を持ちます — 公式サポートデバイスハンドラーで構築した自動化はデフォルトでローカル実行。Amazon Echo Hubは照明と単純トリガーの基本的なAlexaルーティンをローカル実行しますが、複雑な複数ステップ自動化はAmazonクラウドを経由。Apple HomePod miniはHomeKit自動化をすべてデバイス上でローカル処理 — HomeKitユーザーにとって本物のプライバシー・信頼性優位。Google Nest Hub MaxはすべてのAssistantベース自動化をGoogleクラウドで処理 — Googleトリガーイベントのローカル処理オプションは存在しません。Samsung SmartThings Stationはほとんどの自動化でクラウド処理に依存、ローカル処理は特定のデバイスハンドラーのみ利用可能。"
+      ]
+    },
+    {
+      "heading": "2026年のスマートホームハブで変わったこと",
+      "paragraphs": [
+        "Matter 1.3がクロスエコシステム互換性の実質標準になりました。2026年時点でMatter 1.3は元のMatter 1.0仕様をエネルギー管理デバイス（EVチャージャー・スマートパネル）・アプライアンスカテゴリ（冷蔵庫・食洗機・洗濯機）・カメラストリーミングに拡張。本リスト全5機種は異なる認定レベルでMatterをサポート — Amazon Echo HubはMatter 1.0認定、Google Nest Hub MaxはMatter 1.1、Samsung SmartThingsはMatter 1.2、AeotecとApple HomePod miniはMatter 1.3。実際的な意味：Matter 1.3ハブはハブ-as-ブリッジ機能で古いZigbeeとZ-WaveデバイスをMatterエコシステムにブリッジ可能 — Yale Z-WaveロックがApple HomeKitやGoogle HomeにMatter互換デバイスとして表示されます。",
+        "Threadが愛好者機能ではなく新規デバイスのデフォルトメッシュプロトコルになりました。2026年半ばまでに、主要スマート照明・センサー・アクセサリーブランドのほとんど（Eve・Nanoleaf・Aqara・IKEA）がZigbeeバージョンと並行して、またはそれを置き換えてThread-native版を販売。Threadボーダールーターハードウェアが含まれていないハブもあり、ハブ選択に影響します — Threadボーダールーターの品質（同時接続デバイス数・ネットワーク安定性・到達範囲）も実装間で異なります。",
+        "エネルギー監視統合が理論から実践に移行しました。SmartThings・Google Nest・Amazon Alexaは2026年にリアルタイム電力料金認識APIを追加し、電力会社の価格シグナルに基づいてオフピーク時間帯に家電負荷を移動させる自動化が可能に — 時間帯別電力料金の市場（日本・カリフォルニア・ドイツ・英国）で関連性があります。Apple HomeKitのエネルギー機能は5エコシステムの中で電力会社統合において最も限定的なままです。"
+      ]
+    },
+    {
+      "heading": "実際の選択：どの家庭にどのハブが合うか",
+      "paragraphs": [
+        "Amazon Echo Hubは約25,000円で、すでにAlexaを使っていてスマートスピーカーではなく専用の物理コントロールパネルが欲しい家庭への正解です。8インチタッチスクリーンが壁面フラッシュマウントで、スマホを開かずに照明・ロック・サーモスタット・カメラをダッシュボード式に操作できます。Zigbee・Thread・MatterラジオをすべてにAlexaアプリのルーティンビルダーで初心者向けのトリガーアクションルールが作成可能。正直な弱点：Z-Waveをネイティブサポートしない（セキュリティデバイスがZ-Waveを使う場合は重大な欠落）、ローカル処理は部分的で包括的ではない、壁面設置にはマウントポイント近くのコンセントが必要。",
+        "Google Nest Hub Maxは約33,000円で、大型ディスプレイでスマートホーム操作・Googleフォト・カレンダー・Nestカメラストリーミングをキッチンやリビングに統合したいGoogle Assistantユーザーへの正解。10インチディスプレイとFace Match個人化が複数居住者のいる家庭で実用的です。Threadボーダールーターを内蔵。正直な弱点：すべての自動化がGoogleクラウド処理でローカル処理オプションなし — 照明自動化のレイテンシが200〜400 msに、インターネット障害時は機能停止。Z-Waveは非対応、Nest Aware カメラ履歴が有料プランに移行。",
+        "Samsung SmartThings Stationは約19,000円でこの価格帯の本比較で最も広いプロトコルカバレッジを提供。ZigbeeとThreadをネイティブ搭載、Matter 1.2コントローラー認定、Z-WaveはSmartThingsハブ連携で対応（既存ハブがない場合は別途SmartThingsハブが必要）。SmartThings対応デバイスカタログ（5,000台以上の認定デバイス）は本リストで最大。正直な弱点：SmartThingsアプリは新規ユーザーにとって5機種で最も複雑なナビゲーション、ローカル処理は特定デバイスハンドラーのみ、SamsungのSmartThingsハブ世代（v1・v2・v3）廃止の歴史が長期投資の正当なリスク。",
+        "Aeotec Smart Home Hubは約14,500円で、真のZ-Wave 700とZigbee 3.0を1台に、本比較で最も深いローカル処理が必要で、技術的なセットアッププロセスを受け入れられる購入者への正解。AeotecはSamsungが独自ハードウェア版を廃止した後の公式ライセンスSmartThingsハードウェア後継として、同じSmartThingsファームウェアとデバイスカタログ互換性を持ちます。Z-Wave 700シリーズとZigbee 3.0ラジオが認定済み、Matter 1.3ブリッジ機能をサポート。ローカル処理優位は本物 — Aeotecのハブはサポートデバイスハンドラーのデフォルトでローカルに自動化を実行し、人感センサーの照明トリガーが50 ms以内に応答してインターネット障害中も継続機能。正直な弱点：セットアップがAmazon・Google・Appleの消費者向けフローより技術的、ディスプレイなし、SmartThings IDEの複雑さに忍耐が必要。",
+        "Apple HomePod miniは約16,800円で、SiriスピーカーとHomeKitハブとThreadボーダールーターを兼ねるデバイスが欲しいApple HomeKit家庭への正解です。HomePod miniはすべてのHomeKit自動化をデバイス上でローカル処理 — 50 ms未満のレイテンシ、インターネット障害中も継続動作、自宅行動データはデバイスから出ない。Threadボーダールーター実装は本リストで最も安定した部類。正直な弱点：HomeKit対応デバイスカタログ（約3,000台）はSmartThingsやAlexaより大幅に少ない、Siriは本比較で自然言語の複雑なクエリへの対応が最も弱い音声アシスタント、Z-WaveもZigbeeラジオも非搭載、Appleエコシステム外ではハブとしての価値はほぼゼロ。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Echo DotやGoogle Nest Miniのようなスマートスピーカーを持っていればハブは不要ですか?",
+      "a": "スマートスピーカー（Echo Dot・Nest Mini・HomePod）はWi-Fi・Bluetooth・時にはThreadラジオ搭載の音声アシスタントであり、指定されていない限りプロトコルの意味ではハブではありません。Echo Dot（4/5世代）にはZigbeeもZ-Waveラジオもありません。Nest MiniにはZigbee・Z-Wave・Threadがありません。HomePod miniはThreadを搭載しApple機器のHomeKitハブとして機能します。既存のスマートデバイスがWi-FiかBluetoothのみで接続されているなら、専用ハブは任意 — クラウド統合で既に制御しています。Zigbeeセンサー・Z-Waveロック・Threadデバイスを追加したい場合は、対応ラジオを持つハブが必要。Amazon Echo Hub（約25,000円）はAlexaユーザーへの正しいアップグレード経路、Aeotec Smart Home Hub（約14,500円）は音声エコシステムに依らずZ-WaveとZigbeeを専用ハブに求めるユーザーへの正解。"
+    },
+    {
+      "q": "Matterデバイスはこれら5つのハブ全てで同時に使えますか?",
+      "a": "Matter認定デバイスはマルチアドミンをサポートします — 複数のMatterコントローラーに同時登録できます。Matter電球がApple Homeアプリ・Google Homeアプリ・Alexaアプリに同時表示され、どれからも制御可能です。実際の注意点：一部デバイスメーカーがリソース上の理由でMatterコントローラー同時接続数を3〜5に制限しています。Thread-based Matterデバイスには同じホームネットワーク内のThreadボーダールーターが必要 — Thread-native Matterデバイスを使うには少なくとも1台のハブがThreadボーダールーターを持つ必要があります。本リストの全5機種はThreadボーダールーターとして機能します。マルチアドミン機能は照明・コンセント・センサーでは実際に機能しますが、エコシステム間の認可モデルが異なるサーモスタットやロックのような複雑なデバイスでは信頼性が低下します。"
+    },
+    {
+      "q": "ローカル処理は本当に重要ですか、それとも主に理論的な話ですか?",
+      "a": "ローカル処理は2つの実際のシナリオで重要です。第1に、インターネット障害時：ルーターやISP接続が失われると、クラウド処理の自動化は完全に停止します。これは人感センサーのエントリー照明・サーモスタットスケジュール・ロック自動化がインターネット復旧まで機能しなくなることを意味します。ローカル処理のハブ（Aeotec・HomeKit用Apple HomePod mini・部分的なAmazon Echo Hub）は障害中も自動化を継続実行します。第2に、レイテンシ：クラウド往復処理の自動化はトリガーとアクションの間に200〜800 msを追加 — 必要になる前に動作するか、信頼性が低く感じる体感可能な遅延があるかの差。障害中の自動化信頼性が重要な家庭（遠隔物件、ISPが不安定な地域）や人感センサー照明が主用途の場合、ローカル処理は理論的ではなく本物の機能差です。"
+    }
+  ],
+  "products": [
+    {
+      "offerId": "smart-hub-amazon-echo-hub",
+      "badge": "Alexaホーム最強",
+      "grade": "A",
+      "review": "Amazon Echo HubはZigbee・Thread・Matter統合ハブを内蔵した専用壁掛けコントロールパネルが欲しいAlexaユーザーへの正解。8インチタッチスクリーンがスマホ不要でダッシュボード式のスマートホーム操作を提供し、壁掛けブラケットが同梱。Alexaルーティンが一般的な自動化パターン（時間帯・人感センサー・音声起動・センサー条件）の大部分をカバー。正直な弱点：Z-Waveが不在 — セキュリティデバイス（ロック・センサー）がZ-Waveを使う場合は重大な制限、複雑な複数ステップ自動化はローカルではなくAmazonクラウドを経由、設置には壁面マウントポイント近くのコンセントが必要。",
+      "pros": [
+        "8インチ壁掛けタッチスクリーン — 統合ハブとディスプレイを持つ唯一のAlexaデバイス",
+        "Zigbee・Thread・Matterラジオ内蔵",
+        "Alexaルーティンビルダーは本リストで最も初心者向けの自動化インターフェース",
+        "Thread-native Matterデバイス用ThreadボーダールーターとしてF機能"
+      ],
+      "cons": [
+        "Z-Waveサポートなし — Z-Waveロック・セキュリティデバイスユーザーには実際のギャップ",
+        "複雑な自動化はローカルではなくAmazonクラウドを経由"
+      ],
+      "specs": {
+        "対応プロトコル": "Zigbee・Thread・Matter・Wi-Fi・Bluetooth",
+        "Z-Wave": "非対応",
+        "ローカル処理": "部分的（基本ルーティンのみ）",
+        "ディスプレイ": "8インチタッチスクリーン",
+        "Threadボーダールーター": "対応",
+        "Matter認定バージョン": "1.0"
+      },
+      "scores": {
+        "プロトコルカバレッジ": 3.8,
+        "ローカル処理": 3.5,
+        "セットアップ容易性": 5.0,
+        "デバイスエコシステム": 4.5,
+        "コスパ": 3.8
+      }
+    },
+    {
+      "offerId": "smart-hub-google-nest-hub-max",
+      "badge": "Googleホーム最強ディスプレイ",
+      "grade": "A",
+      "review": "Google Nest Hub Maxはキッチンやリビングでスマートホーム操作・Googleフォト・カレンダー・Nestカメラストリーミングを統合した大型ディスプレイが欲しいGoogle Assistantユーザーへの正解。10インチディスプレイとFace Match個人化が複数居住者のいる家庭で実際に使えます。Threadボーダールーターを内蔵。正直な弱点：すべての自動化がGoogleクラウド処理でローカルフォールバックオプションなし — 照明自動化が200〜400 msレイテンシ、インターネット障害時は機能停止。Z-Waveは非対応、Nest Aware カメラ履歴は有料プランが必要に。",
+      "pros": [
+        "10インチディスプレイと各居住者向けFace Match個人化コンテンツ",
+        "スマホ不要でNestカメラのストリーミング表示",
+        "Thread-native Matterデバイス用Threadボーダールーター内蔵",
+        "Google Assistantは本比較で最強の自然言語音声アシスタント"
+      ],
+      "cons": [
+        "すべての自動化がクラウド処理 — インターネット障害時のローカルフォールバックなし",
+        "Z-Wave非対応、Nest Awareカメラ履歴は有料サブスクリプション必要"
+      ],
+      "specs": {
+        "対応プロトコル": "Thread・Matter・Wi-Fi・Bluetooth",
+        "Z-Wave": "非対応",
+        "ローカル処理": "なし",
+        "ディスプレイ": "10インチタッチスクリーン",
+        "Threadボーダールーター": "対応",
+        "Matter認定バージョン": "1.1"
+      },
+      "scores": {
+        "プロトコルカバレッジ": 3.5,
+        "ローカル処理": 2.0,
+        "セットアップ容易性": 4.8,
+        "デバイスエコシステム": 4.2,
+        "コスパ": 3.5
+      }
+    },
+    {
+      "offerId": "smart-hub-samsung-smartthings",
+      "badge": "プロトコル最広",
+      "grade": "B+",
+      "review": "Samsung SmartThings Stationは約19,000円で本比較の最広プロトコルハブ — Zigbee・Thread内蔵、Matter 1.2コントローラー認定、Z-WaveはSmartThingsハブ連携で対応。SmartThings対応デバイスカタログ（5,000台以上の認定デバイス）は本比較で最大。正直な弱点：SmartThingsアプリは新規ユーザーに対して5機種で最も複雑、ローカル処理は特定デバイスハンドラーのみ、SamsungのSmartThingsハブ世代廃止の歴史が長期投資のリスク。",
+      "pros": [
+        "1台19,000円でZigbee・Thread・Matter 1.2",
+        "5,000台以上の認定対応デバイス — 本比較最大エコシステム",
+        "既存セキュリティデバイス向けZ-WaveがSmartThingsハブ連携で対応",
+        "SmartThings自動化ビルダーが複数条件の複雑なルールをサポート"
+      ],
+      "cons": [
+        "SmartThingsアプリの複雑さは本グループで新規ユーザーに最も高い",
+        "Samsungのハブハードウェア廃止の歴史が長期投資リスク"
+      ],
+      "specs": {
+        "対応プロトコル": "Zigbee・Thread・Matter・Wi-Fi・Bluetooth（Z-Waveは連携ハブ経由）",
+        "Z-Wave": "連携ハブ経由",
+        "ローカル処理": "部分的（サポートデバイスハンドラーのみ）",
+        "ディスプレイ": "なし",
+        "Threadボーダールーター": "対応",
+        "Matter認定バージョン": "1.2"
+      },
+      "scores": {
+        "プロトコルカバレッジ": 4.5,
+        "ローカル処理": 3.2,
+        "セットアップ容易性": 3.0,
+        "デバイスエコシステム": 5.0,
+        "コスパ": 4.5
+      }
+    },
+    {
+      "offerId": "smart-hub-aeotec-smart-home-hub",
+      "badge": "ローカル処理・Z-Wave最強",
+      "grade": "A",
+      "review": "Aeotec Smart Home Hubは真のZ-Wave 700とZigbee 3.0を1台に、本比較で最も深いローカル処理を必要とする購入者への正解。公式ライセンスSmartThingsハードウェア後継として同じファームウェアとデバイスカタログ互換性を持ちます。サポートデバイスハンドラーのローカル処理は本物 — 人感センサー照明が50 ms以内に応答しインターネット障害中も継続動作。Matter 1.3ブリッジ機能でZ-Wave/Zigbeeデバイスが任意のMatterコントローラーにMatter互換として表示。正直な弱点：セットアップがAmazon・Google・Appleの消費者向けフローより技術的、ディスプレイなし、SmartThings IDEに忍耐が必要。",
+      "pros": [
+        "Z-Wave 700とZigbee 3.0を1台に認定",
+        "本比較で最も深いローカル処理 — インターネット障害中も自動化継続",
+        "Matter 1.3ブリッジでZ-Wave/Zigbeeデバイスを任意のMatterエコシステムに",
+        "デュアルプロトコルユーザーに対して約14,500円のコスパ最強"
+      ],
+      "cons": [
+        "セットアップはAmazon・Google・Appleの消費者向けフローより技術的",
+        "ディスプレイなし、SmartThingsアプリの習熟に忍耐が必要"
+      ],
+      "specs": {
+        "対応プロトコル": "Z-Wave 700・Zigbee 3.0・Thread・Matter・Wi-Fi・イーサネット",
+        "Z-Wave": "対応（Z-Wave 700認定）",
+        "ローカル処理": "包括的（サポートハンドラーはデフォルトローカル）",
+        "ディスプレイ": "なし",
+        "Threadボーダールーター": "対応",
+        "Matter認定バージョン": "1.3"
+      },
+      "scores": {
+        "プロトコルカバレッジ": 5.0,
+        "ローカル処理": 5.0,
+        "セットアップ容易性": 2.5,
+        "デバイスエコシステム": 4.8,
+        "コスパ": 5.0
+      }
+    },
+    {
+      "offerId": "smart-hub-apple-homepod-mini",
+      "badge": "Apple HomeKit最強",
+      "grade": "A",
+      "review": "Apple HomePod miniは約16,800円でSiriスピーカー・HomeKitハブ・Threadボーダールーターを兼ねるApple HomeKit家庭への正解。すべてのHomeKit自動化がデバイス上でローカル処理 — 50 ms未満のレイテンシ、インターネット障害中も継続動作、自宅行動データはデバイス外に出ない。Threadボーダールーター実装は本リストで最も安定した部類。正直な弱点：HomeKit対応デバイスカタログ（約3,000台）はSmartThingsやAlexaより大幅に少ない、Siriは複雑な自然言語クエリで本比較最弱の音声アシスタント、Z-WaveもZigbeeも非搭載、Appleエコシステム外ではハブとしての価値はほぼゼロ。",
+      "pros": [
+        "すべてのHomeKit自動化をローカル処理 — 50 ms未満、障害中も動作",
+        "Thread-native Matterデバイス向け安定したThreadボーダールーター",
+        "プライバシー重視：自宅行動データはデバイス上のみで処理",
+        "HomePod miniはSiriスピーカーとApple Musicプレーヤーを兼ねる"
+      ],
+      "cons": [
+        "HomeKitデバイスカタログ（約3,000台）はSmartThingsやAlexaより大幅に少ない",
+        "Z-WaveもZigbeeラジオも非搭載 — これらのプロトコルには別途ブリッジが必要"
+      ],
+      "specs": {
+        "対応プロトコル": "Thread・Matter・Wi-Fi・Bluetooth",
+        "Z-Wave": "非対応",
+        "ローカル処理": "完全（すべてのHomeKit自動化）",
+        "ディスプレイ": "なし",
+        "Threadボーダールーター": "対応",
+        "Matter認定バージョン": "1.3"
+      },
+      "scores": {
+        "プロトコルカバレッジ": 3.2,
+        "ローカル処理": 5.0,
+        "セットアップ容易性": 4.5,
+        "デバイスエコシステム": 3.0,
+        "コスパ": 4.5
+      }
+    }
+  ],
+  "offerNotes": {
+    "smart-hub-amazon-echo-hub": "Alexaホーム最強 — 8インチ壁面パネルにZigbee/Thread/Matter。Z-Wave非対応、ローカル処理は部分的、マウント近くのコンセント必要。",
+    "smart-hub-google-nest-hub-max": "Googleホーム最強ディスプレイ — 10インチFace Match＋Nestカメラストリーミング。ローカル処理なし、Z-Wave非対応。",
+    "smart-hub-samsung-smartthings": "最広プロトコル約19,000円 — Zigbee/Thread/Matter/Z-Wave（ハブ連携）。アプリ複雑さ最高、廃止リスクあり。",
+    "smart-hub-aeotec-smart-home-hub": "Z-Wave＋ローカル処理最強 — Z-Wave 700・Zigbee 3.0・Matter 1.3を約14,500円。最も技術的なセットアップ、ディスプレイなし。",
+    "smart-hub-apple-homepod-mini": "HomeKit最強 — 完全ローカル処理・安定Threadボーダールーターを約16,800円。デバイスカタログ最小、Z-Wave/Zigbee非搭載。"
+  },
+  "pinDescription": "スマートホームハブ5機種を2026年に徹底比較：Amazon Echo Hub壁面パネル・Google Nest Hub Maxディスプレイ・SmartThingsプロトコル網羅・AeotecローカルZ-Wave処理・Apple HomePod mini HomeKitハブ。あなたのスマートデバイスを全部つなぐのはどれか？"
+}

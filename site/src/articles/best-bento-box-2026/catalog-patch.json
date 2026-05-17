@@ -1,0 +1,122 @@
+[
+  {
+    "id": "bento-box-monbento-original",
+    "imageUrl": "",
+    "priceMin": 42,
+    "priceMax": 52,
+    "category": "home",
+    "badge": "🍱",
+    "name": {
+      "en": "Monbento Original Bento Box",
+      "ja": "Monbento Original 弁当箱"
+    },
+    "description": {
+      "en": "French-designed stacking bento box with two independent click-lock 500ml modules. BPA-free copolyester, microwave-safe, dishwasher-safe. 1L total capacity for Western lunch portions.",
+      "ja": "フランスデザインの2モジュール積み重ね弁当箱。各500mlが独立クリックロックシール。BPAフリーコポリエステル・電子レンジ対応・食洗機対応。1L合計容量。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.monbento.com/en/products/boxes/original/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bento-box-lock-lock-3tier",
+    "imageUrl": "",
+    "priceMin": 20,
+    "priceMax": 30,
+    "category": "home",
+    "badge": "🍱",
+    "name": {
+      "en": "Lock&Lock 3-Tier Airtight Bento Box",
+      "ja": "ロック&ロック 3段 気密弁当箱"
+    },
+    "description": {
+      "en": "Three independent tiers with Lock&Lock's 4-hinge airtight sealing system. BPA-free polypropylene. Microwave-safe (lids removed), dishwasher-safe. Each compartment stays isolated during transport.",
+      "ja": "ロック&ロックの4面ヒンジ気密シールを持つ独立した3段構造。BPAフリーポリプロピレン。電子レンジ対応（ふた外し）・食洗機対応。輸送中に各段が完全に隔離。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.locknlock.com/en/product/lunch-box",
+        "markets": ["global", "JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bento-box-skater-2tier-jp",
+    "imageUrl": "",
+    "priceMin": 7,
+    "priceMax": 13,
+    "category": "home",
+    "badge": "🍱",
+    "name": {
+      "en": "Skater 2-Tier Japanese Bento Box",
+      "ja": "スケーター 2段弁当箱"
+    },
+    "description": {
+      "en": "Standard Japanese 2-tier bento box in polypropylene. Microwave-safe, dishwasher-safe, lightweight. Elastic band closure. Available in character-print and adult minimal solid color versions. Nationwide Japan availability.",
+      "ja": "ポリプロピレン製の標準的な日本式2段弁当箱。電子レンジ対応・食洗機対応・軽量。ゴムバンド閉め。キャラクタープリント版とオトナミニマル無地版。全国で入手可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.skater.co.jp/products/lunch/",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bento-box-hakoya-japan",
+    "imageUrl": "",
+    "priceMin": 18,
+    "priceMax": 35,
+    "category": "home",
+    "badge": "🍱",
+    "name": {
+      "en": "Hakoya Lacquerware-Style Resin Bento Box",
+      "ja": "はこや 漆塗り調樹脂弁当箱"
+    },
+    "description": {
+      "en": "ABS resin with lacquerware finish replicating traditional Japanese urushi aesthetics. Oval form sized for Japanese lunch portions. Dishwasher-safe (top rack). Not microwave-safe. Traditional and contemporary colorways.",
+      "ja": "伝統的な漆器の美観を再現したABS樹脂製漆塗り仕上げ。日本のランチ量に合わせた楕円形。食洗機対応（上段）。電子レンジ非対応。伝統的な和柄と現代的なカラーで展開。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hakoya-net.jp/",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bento-box-bentgo-fresh",
+    "imageUrl": "",
+    "priceMin": 27,
+    "priceMax": 35,
+    "category": "home",
+    "badge": "🍱",
+    "name": {
+      "en": "Bentgo Fresh Leak-Proof Lunch Box",
+      "ja": "Bentgo Fresh 漏れ防止ランチボックス"
+    },
+    "description": {
+      "en": "Built-in adjustable divider and large salad compartment for Western lunch portions. Leakproof outer lid, BPA-free polypropylene. Microwave-safe (no lid), dishwasher-safe. Includes small sauce container.",
+      "ja": "欧米式ランチ量向けの可動ビルトイン仕切りと大きなサラダコンパートメント。漏れ防止外ふた・BPAフリーポリプロピレン。電子レンジ対応（ふたなし）・食洗機対応。タレ容器付属。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://bentgo.com/products/bentgo-fresh",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

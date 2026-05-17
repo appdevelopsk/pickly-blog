@@ -1,0 +1,122 @@
+[
+  {
+    "id": "plant-protein-orgain-organic",
+    "imageUrl": "",
+    "priceMin": 25,
+    "priceMax": 40,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Orgain Organic Plant-Based Protein Powder",
+      "ja": "オルゲイン オーガニック プラントベース プロテイン"
+    },
+    "description": {
+      "en": "USDA Certified Organic, 21g protein per serving from pea, brown rice, and chia seed blend. Non-GMO Project Verified. Available at Costco and major retailers. Chocolate and vanilla flavors.",
+      "ja": "USDA認定有機。エンドウ豆・玄米・チアシードブレンドから1食21gのタンパク質。非GMOプロジェクト認証。コストコや主要小売で入手可能。チョコレート・バニラフレーバー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Orgain-Organic-Plant-Based-Protein/dp/B00J075LKC",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "plant-protein-vega-sport-premium",
+    "imageUrl": "",
+    "priceMin": 55,
+    "priceMax": 75,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Vega Sport Premium Plant-Based Protein",
+      "ja": "ヴェガ スポーツ プレミアム プラントベース プロテイン"
+    },
+    "description": {
+      "en": "30g protein from pea, pumpkin seed, sunflower seed, alfalfa blend. Informed Sport certified. Added beta-alanine, tart cherry extract, bromelain, turmeric for sports recovery.",
+      "ja": "エンドウ豆・カボチャの種・ひまわりの種・アルファルファブレンドから30gのタンパク質。Informed Sport認証。ベータアラニン・タートチェリー・ブロメライン・ターメリック追加。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Vega-Sport-Premium-Protein/dp/B078BTC4GY",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "plant-protein-garden-of-life-sport",
+    "imageUrl": "",
+    "priceMin": 40,
+    "priceMax": 55,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Garden of Life Sport Organic Plant-Based Protein",
+      "ja": "Garden of Life スポーツ 有機植物性プロテイン"
+    },
+    "description": {
+      "en": "NSF Certified for Sport + USDA Certified Organic — unique dual certification in plant protein. 30g from sprouted pea, navy bean, lentil, chickpea, cranberry seed. Adds 2B CFU probiotics + B12.",
+      "ja": "NSFスポーツ認証 + USDA有機認証の二重認証——植物性プロテインで唯一。発芽エンドウ豆・ネービービーン・レンズ豆・ひよこ豆・クランベリーシードから30g。20億CFU + B12追加。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Garden-Life-Sport-Organic-Protein/dp/B07L5GJJ3C",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "plant-protein-savas-soy-jp",
+    "imageUrl": "",
+    "priceMin": 2000,
+    "priceMax": 5000,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Meiji SAVAS Soy Protein (Japan)",
+      "ja": "明治 ザバス ソイプロテイン"
+    },
+    "description": {
+      "en": "Japan's leading sports soy protein by Meiji. Soy protein isolate with PDCAAS 1.0 — complete amino acid profile. 15g protein per serving. Available across Japan's sports retailers and e-commerce.",
+      "ja": "明治の日本最大手スポーツ大豆プロテイン。PDCAAS 1.0の大豆プロテイン分離物——完全アミノ酸プロファイル。1食15gのタンパク質。日本のスポーツ小売・eコマースで広く入手可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/明治-ザバス-ソイプロテイン100/dp/B001E5F5ME",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "plant-protein-naked-pea",
+    "imageUrl": "",
+    "priceMin": 50,
+    "priceMax": 70,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Naked Pea Protein Powder",
+      "ja": "ネイキッド ピープロテイン パウダー"
+    },
+    "description": {
+      "en": "Single ingredient: yellow split pea protein isolate only. No sweeteners, flavors, or additives. 27g protein per serving. Third-party tested for heavy metals, label accuracy, and microbial safety.",
+      "ja": "単一成分：黄色スプリットエンドウ豆プロテイン分離物のみ。甘味料・フレーバー・添加物なし。1食27gのタンパク質。重金属・ラベル正確性・微生物安全性の第三者試験済み。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Naked-Pea-Protein-Powder/dp/B00N8JDKKA",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

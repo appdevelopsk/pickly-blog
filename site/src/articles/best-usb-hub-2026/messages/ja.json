@@ -1,0 +1,234 @@
+{
+  "title": "USBハブ・ドック 2026年版おすすめ5選",
+  "description": "CalDigit TS4（Thunderbolt 4ドック・2.5GbE含む18ポート・98Wホスト充電・DisplayPort・USB-C 10Gbps・3×USB-A 10Gbps）からAnker 564 USB-Cハブ（7-in-1・USB-C 10Gbps・4K HDMI・85W PD・USB-A 3.0・SDカードリーダー）、Satechi V3 Multi-Port Adapter（USB-C 10Gbps・4K 60Hz HDMI・100W PDパススルー・SD/microSD・USB-A 3.0・イーサネット）、エレコム U3HC-A430BBK（日本市場向け・4×USB-A 3.1 Gen1・USB-C 60W PD・アルミ・広く流通）、Plugable UD-6950Z（USB-C/USB-A DisplayLinkドック・デュアル4Kディスプレイ・100W PD・ギガビットイーサネット・6×USB-A）まで5製品を比較。ポート数・USB-Cデータ速度・Power Delivery W数・ディスプレイ出力能力・日本国内小売入手性を徹底検証。",
+  "lede": "5つのUSBハブとドックを比較します。プロのThunderbolt 4基準であるCalDigit TS4から、ヨドバシで今すぐ買えるエレコムハブから、価格のごく一部でニーズの9割をカバーするAnker 564まで。ハブとドックの違いは、ポート数よりも重要です。",
+  "methodology": "各製品を公開スペック・第三者ベンチマーク・実ユーザーレビューに基づき評価。ポート数と種類・USB-Cデータスループット（USB 3.2 Gen2 vs Thunderbolt 4）・Power Deliveryパススルー電力・ディスプレイ出力能力・日本市場入手性でスコア付けしました。",
+  "recommendedFor": [
+    {
+      "label": "Thunderbolt 4性能が必要なMacBook Proユーザーに",
+      "offerId": "usb-hub-caldigit-ts4",
+      "reason": "CalDigit TS4のThunderbolt 4接続はNVMeストレージ・デュアル6Kディスプレイ・98Wホスト充電を同時に40Gbpsで処理します。"
+    },
+    {
+      "label": "コンパクトなオールインワンハブが必要な出張者に",
+      "offerId": "usb-hub-anker-564-usb-c",
+      "reason": "Anker 564はHDMI・USB-A・USB-Cデータ・SDカードリーダー・85W PDをバスパワーのポータブル形状でカバーします。"
+    },
+    {
+      "label": "ハブを今日購入したい日本在住の方に",
+      "offerId": "usb-hub-elecom-jp",
+      "reason": "エレコム U3HC-A430BBKはヨドバシカメラとビックカメラで取り扱いがあり、60W PDで信頼性の高いUSB-CからUSB-A拡張を提供します。"
+    },
+    {
+      "label": "Thunderbolt非搭載のWindowsPCでデュアルディスプレイを実現したい方に",
+      "offerId": "usb-hub-plugable-ud-6950z",
+      "reason": "Plugable UD-6950ZはDisplayLink技術でThunderboltなしにどのUSB-CまたはUSB-Aポートからもデュアル4Kを駆動します。"
+    },
+    {
+      "label": "100W PDとイーサネット付きのクリーンなデスク美学に",
+      "offerId": "usb-hub-satechi-v3-multiport",
+      "reason": "Satechi V3はスリムなアルミのマルチポートアダプターで100W PDパススルー・4K 60Hz HDMI・イーサネット・SDカードリーダーを提供します。"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "比較方法について",
+      "paragraphs": [
+        "5製品すべてで標準化されたファイルによるUSBデータ転送速度の独立ベンチマーク、または負荷下でのPower Delivery電力の精度測定は実施していません。厳密なUSBハブテストには、実際のデータスループット対定格スペックを測定するUSBプロトコルアナライザー、持続的充電負荷下での主張されたPD電力を検証する精密電力計が必要ですが、いずれも独立テストには利用できませんでした。",
+        "代わりに行ったのは以下です：ポート数・USB世代・Power Delivery電力・ディスプレイ出力能力についてのメーカー仕様レビュー。Ars Technica・The Verge・日本語技術メディア（ギガジン・PC Watch）の独立転送速度測定が存在する公開ベンチマークとの照合。Amazon JP・楽天市場・国際ソースの長期ユーザーレビューを集計しました — USBバンド幅共有問題・PD充電失敗・ハブの持続負荷下での過熱・特定ホストノートパソコンとのThunderbolt互換性問題に特に着目しました。",
+        "ハブ対ドックの区別はこの比較で重要です。USBハブはホスト接続からの電力で動作する電力供給なしのポート拡張です。マルチポートアダプターはディスプレイ出力とカードリーダーを追加し、通常ホストを充電するPower Deliveryパススルーを持ちます。ドックは独自の電源を持ち、ホストを充電し、独立して複数のディスプレイを駆動できます。CalDigit TS4はドックです。Anker 564とSatechi V3はマルチポートアダプターです。必要なカテゴリーを購入前に理解することで返品を防げます。"
+      ]
+    },
+    {
+      "heading": "2026年の変化",
+      "paragraphs": [
+        "USB4 Version 2（80Gbps）製品が登場しましたが、合理的な価格帯ではまだ主流ではありません。コンシューマードックでは40GbpsのThunderbolt 4が実用的な上限で、USB4 80Gbpsは¥50,000以上のハイエンドワークステーション製品に限定されています。現在のMacBook ProまたはThunderbolt 4ポート付きWindowsノートパソコンを持つほとんどのユーザーにとって、Thunderbolt 4の40Gbpsの上限は現行の外部NVMeドライブやディスプレイセットアップのボトルネックにはなりません。",
+        "¥10,000以上では100W Power Deliveryパススルーが標準になりました。2024年には65Wと85W PDパススルーが中間ティアで一般的でした。2026年には¥10,000以上のアダプターまたはドックでは100Wが期待値です。関連性：フルCPU負荷時のMacBook Pro 16インチには約96Wが必要です — 65W PDのドックはノートパソコンに電力供給できますが、重い負荷下ではバッテリーがゆっくり消耗します。100WはMacBook Pro 16インチを持続した負荷下でバッテリー消耗なしにカバーします。",
+        "DisplayLinkがThunderbolt非対応のMacとWindowsマシンの実用的なデュアルディスプレイソリューションになりました。この技術 — ディスプレイ出力をビデオ信号ではなくUSBデータとしてエンコード — は以前、遅延とビデオのスムーズさに問題がありました。2026年にはDisplayLink 6950Zチップのサポートが改善され、DisplayLink経由の4K 60Hzデュアルディスプレイはオフィス・クリエイティブ作業には十分にスムーズです。Plugable UD-6950Zがこのチップセットを使用し、ThunderboltなしのMacBook AirやWindowsマシンのアクセスしやすいデュアルディスプレイソリューションです。"
+      ]
+    },
+    {
+      "heading": "それぞれの適した用途",
+      "paragraphs": [
+        "Thunderbolt 4ドック、18ポート、98Wホスト充電、2.5GbE、3×USB-A 10Gbps、2×USB-C 10Gbps、DisplayPort、SDカード：CalDigit TS4。TS4はプロのThunderbolt 4ドックベンチマークです。18ポートには2.5ギガビットイーサネット（対応ネットワークで標準ギガビットを超える）、3つのUSB-A 3.2 Gen 2ポート（各10Gbps）、2つのUSB-C 3.2 Gen 2ポート、DisplayPort 1.4、SDカードリーダーが含まれます。MacBook Pro 16インチを負荷下で充電する98Wを供給します。¥55,000〜70,000で本比較で最も高価。価格は18ポートのほとんどを使う場合にのみ正当化されます。Thunderbolt 4またはUSB4ポートのあるホストが必要で、USB 3.2ノートパソコンは低帯域幅でのUSB-C接続になります。約175mmの高さで恒久的なデスクセットアップに最適です。",
+        "7-in-1バスパワーマルチポートアダプター、USB-C 10Gbpsデータ、4K HDMI、85W PD、USB-A 3.0、SDカードリーダー、コンパクト：Anker 564 USB-Cハブ。Anker 564は独自の電源供給なしのポータブル形状でHDMI・USB-A拡張・SDカードアクセス・PDパススルーが必要なユーザー向けの答えです。バスパワーはノートパソコンから電力を引き出します。85W PDパススルーはMacBook Airと通常負荷下のほとんどの13インチノートパソコンに十分です。¥6,000〜9,000は本比較で出張向けのベストな価格帯。USB-Cデータは10Gbpsですが全ポートで共有され、同時使用で個別スループットが低下します。イーサネットなし。一部のホスト設定でHDMIが4K 60Hzではなく4K 30Hzに制限される場合があります。",
+        "USB-C 10Gbps、4K 60Hz HDMI、100W PDパススルー、ギガビットイーサネット、SD/microSD、USB-A 3.0、スリムアルミ：Satechi V3 Multi-Port Adapter。Satechi V3はクリーンデスクマルチポートアダプターです — MacBookに合うスリムなアルミ、MacBook Pro 16インチを負荷下でカバーする100W PD、4K 60Hz HDMI、ギガビットイーサネット、カードリーダーがバスパワー形状で。¥14,000〜18,000でミドル価格帯。SatechiはUS ブランドで日本への輸入が必要です。バスパワーは同時の全ポート激しい使用でホストのUSB-Cコントローラーから帯域幅を引き出します。HDMI出力は1つのみです。",
+        "日本市場、4×USB-A 3.1 Gen1（各5Gbps）、USB-C 60W PDパススルー、アルミ、ヨドバシ/ビックカメラ取り扱い：エレコム U3HC-A430BBK。エレコムハブは日本市場でディスプレイ出力なしにUSB-A拡張とパススルー充電が必要なユーザー向けの実用的な答えです。4つのUSB-Aポートが各5Gbpsで外部ドライブ・キーボード・カードリーダーを含むほとんどの周辺機器を処理します。60W PDパススルーはMacBook Airとほとんどの13インチノートパソコンを最高速度で充電します。¥4,000〜6,000は本比較で2番目に低い価格。ヨドバシカメラとビックカメラで当日購入可能。HDMI・イーサネット・SDカードリーダーなし、60W PDはフルCPU負荷時のMacBook Pro 16インチには不十分。",
+        "DisplayLinkデュアル4K、USB-CとUSB-A互換、100W PD、ギガビットイーサネット、6×USB-A、Windows＋macOS：Plugable UD-6950Z。Plugable UD-6950ZはDisplayLink 6950Zチップを使用して、ThunderboltなしにどのUSB-CまたはUSB-A 3.0ポートからも4K 60Hzのデュアルディスプレイを駆動します。これにより、MacBook Air（旧世代でThunderbolt 4なし）、USB 3.2のみのWindowsマシン、追加のThunderboltベースドックが利用できないMacBook Proでも使えるこの比較で唯一のデュアルディスプレイソリューションになります。DisplayLinkドライバーのインストールが必要（macOSとWindowsで利用可能）。¥25,000〜35,000でThunderboltなしドックとしては高価。DisplayLinkはドライバーインストールとCPUオーバーヘッド（4K 60Hzデュアルディスプレイで約5〜10%のCPU使用）を必要とし、ドライバー更新が時々表示問題を起こします。"
+      ]
+    },
+    {
+      "heading": "まとめ",
+      "paragraphs": [
+        "Thunderbolt 4ポートを持つMacBook Pro 16インチのパワーユーザーで1本のケーブルですべてをつないでいたいなら：CalDigit TS4。外部NVMeドライブ・複数のUSB周辺機器・ディスプレイを同時に定期的に使うなら¥55,000〜70,000が正当化されます。8ポート未満を定期的に使うなら安価な答えがあります。",
+        "1つのディスプレイ＋USB-AとSDカードリーダーが必要な出張や軽いデスクセットアップに：Anker 564 USB-Cハブ。バスパワー、¥6,000〜9,000、ジャケットのポケットに収まる。MacBook Airユーザーの85W PDの上限と同時激しい使用での共有帯域幅を受け入れてください。",
+        "イーサネットが必要でケーブル美学にこだわるデスクMacセットアップには：Satechi V3。100W PDと4K 60Hz HDMIは、スリムなアルミがMacBookの色に合うことが重要なら輸入コストに値します。購入してUS輸入を受け入れてください。",
+        "ディスプレイ出力不要の今日の日本小売購入のために：エレコム U3HC-A430BBK。ヨドバシカメラへ行ってください。¥4,000〜6,000。4つのUSB-Aポートと60W PD。MacBook AirユーザーやUSB-A拡張のみが必要な方には完全な答えです。",
+        "MacBook AirまたはThunderbolt非搭載WindowsノートパソコンからのデュアルディスプレイのためのDisplayLink：Plugable UD-6950Z。DisplayLinkドライバーをインストールし、5〜10%のCPUオーバーヘッドを受け入れれば、Thunderboltのない状態でUSB-Cポートから2枚の4Kモニターを得られます。これが2026年にThunderboltなしで確実に行う唯一の方法です。"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "offerId": "usb-hub-caldigit-ts4",
+      "badge": "総合最強",
+      "grade": "A+",
+      "review": "CalDigit TS4はプロのThunderbolt 4ドックベンチマークです — 18ポート、98Wホスト充電、2.5ギガビットイーサネット、3×USB-A 10Gbps、2×USB-C 10Gbps、Thunderbolt 4ダウンストリーム、DisplayPort 1.4、SDカードリーダー、フロントのUSB-AとUSB-Cペアで簡単なアクセス。ノートパソコンへの1本のThunderbolt 4ケーブルがデータ・充電・ディスプレイ出力を同時に処理します。¥55,000〜70,000は本比較で最も高価。価格が正当化されるのは18ポートのほとんどを使用する場合のみで、Thunderbolt 4ホストポートが必要で、恒久的なデスクセットアップ専用の約175mmの大きな形状です。",
+      "pros": [
+        "2.5GbE・3×USB-A 10Gbps・Thunderbolt 4ダウンストリーム・SDカードを含む18ポート",
+        "98Wホスト充電 — MacBook Pro 16インチを持続したCPU負荷下でカバー",
+        "1本のThunderbolt 4ケーブルでデータ・ディスプレイ・充電を同時処理",
+        "対応ネットワークで標準ギガビットを超える2.5ギガビットイーサネット"
+      ],
+      "cons": [
+        "¥55,000〜70,000はほとんどのポートを使用する場合のみコスト正当化",
+        "大きな175mmタワー形状 — 恒久的なデスクセットアップ専用"
+      ],
+      "specs": {
+        "接続": "Thunderbolt 4（40Gbps）",
+        "ホスト充電": "98W Power Delivery",
+        "イーサネット": "2.5ギガビット",
+        "USB-Aポート": "3×USB-A 10Gbps＋1×フロントUSB-A 10Gbps",
+        "ディスプレイ出力": "DisplayPort 1.4＋Thunderboltディスプレイデイジーチェーン"
+      },
+      "scores": {
+        "ポート数": 5,
+        "USB-C速度": 5,
+        "Power Delivery": 5,
+        "日本入手性": 3
+      }
+    },
+    {
+      "offerId": "usb-hub-anker-564-usb-c",
+      "badge": "出張向け最強",
+      "grade": "A",
+      "review": "Anker 564 USB-Cハブはポータブル形状で1つのディスプレイとUSB-A拡張が必要なユーザー向けの7-in-1バスパワーハブです。USB-C 10Gbpsデータポート・4K HDMI出力・85W PDパススルー・2つのUSB-A 3.0ポート・SDとmicroSDカードリーダー。バスパワーのためハブ自体の追加アダプターやケーブルは不要です。¥6,000〜9,000は本比較で出張向けのベストな価格です。85W PDはMacBook Airに十分ですが持続した負荷下のMacBook Pro 14インチには不十分です。HDMI出力はホスト設定によって4K 30Hzに制限される場合があります。",
+      "pros": [
+        "バスパワー — 追加の電源アダプター不要",
+        "7ポート：USB-C 10Gbps・HDMI・85W PD・2×USB-A 3.0・SD・microSD",
+        "¥6,000〜9,000 — ポータブルオールインワンハブの強いバリュー",
+        "ノートパソコンバッグのサイドポケットに収まるコンパクト形状"
+      ],
+      "cons": [
+        "85W PDは持続した負荷下のMacBook Pro 14インチには不十分",
+        "一部のホストUSB-Cコントローラー設定でHDMIが4K 30Hzに制限される場合も"
+      ],
+      "specs": {
+        "接続": "USB-C（USB 3.2 Gen 2、10Gbps）",
+        "ホスト充電": "85W Power Deliveryパススルー",
+        "ディスプレイ出力": "4K HDMI",
+        "USB-Aポート": "2×USB-A 3.0",
+        "カードリーダー": "SD＋microSD"
+      },
+      "scores": {
+        "ポート数": 3,
+        "USB-C速度": 4,
+        "Power Delivery": 3,
+        "日本入手性": 4
+      }
+    },
+    {
+      "offerId": "usb-hub-satechi-v3-multiport",
+      "badge": "クリーンデスク美学最強",
+      "grade": "A",
+      "review": "Satechi V3 Multi-Port AdapterはMacBook ProとMacBook Airの色に合うスリムなアルミ形状で100W PDパススルー・4K 60Hz HDMI・ギガビットイーサネット・SD/microSDカードリーダー・USB-A 3.0を提供します。100W PDで本比較でMacBook Pro 16インチを負荷下でカバーできる唯一のバスパワーマルチポートアダプターです。有線ネットワークユーザーにとってAnker 564へのギガビットイーサネットの追加は重要な差分です。¥14,000〜18,000でミドル価格帯。SatechiはUS ブランドで日本への輸入が必要です。",
+      "pros": [
+        "100W PDパススルー — 持続した負荷下のMacBook Pro 16インチをカバー",
+        "バスパワーアダプターに4K 60Hz HDMI＋ギガビットイーサネット",
+        "MacBook Pro・Airの色に合うスリムなアルミ",
+        "SD/microSD＋USB-A 3.0ポートを1つのアダプターに"
+      ],
+      "cons": [
+        "US輸入必要 — 日本国内電器チェーンで販売なし",
+        "全ポート同時激しい使用でのバスパワー帯域幅共有"
+      ],
+      "specs": {
+        "接続": "USB-C（USB 3.2 Gen 2、10Gbps）",
+        "ホスト充電": "100W Power Deliveryパススルー",
+        "ディスプレイ出力": "4K 60Hz HDMI",
+        "イーサネット": "ギガビット",
+        "カードリーダー": "SD＋microSD"
+      },
+      "scores": {
+        "ポート数": 4,
+        "USB-C速度": 4,
+        "Power Delivery": 5,
+        "日本入手性": 2
+      }
+    },
+    {
+      "offerId": "usb-hub-elecom-jp",
+      "badge": "日本市場向け最強",
+      "grade": "B",
+      "review": "エレコム U3HC-A430BBKは日本市場の実用的なUSBハブです：4×USB-A 3.1 Gen1ポート（各5Gbps）・USB-C 60W PDパススルー・アルミ構造・ヨドバシカメラとビックカメラで取り扱い。ディスプレイ出力やイーサネットなしにUSB-A拡張とノートパソコン充電が必要なユーザーに¥4,000〜6,000で当日実店舗対応します。HDMI・イーサネット・SDカードリーダーなし。60W PDはフルCPU負荷時のMacBook Pro 16インチには不十分。USB-AポートはプレミアムオルタナティブのGen2（10Gbps）ではなくGen1（5Gbps）。",
+      "pros": [
+        "ヨドバシカメラとビックカメラで当日購入可能 — 輸入不要",
+        "4×USB-A 3.1 Gen1（各5Gbps）＋USB-C 60W PDを1つのハブに",
+        "コンパクト形状のアルミ構造",
+        "¥4,000〜6,000 — 比較で輸入不要の最安値"
+      ],
+      "cons": [
+        "HDMI・イーサネット・SDカードリーダーなし — USB-A拡張のみ",
+        "60W PDはフルCPU負荷時のMacBook Pro 16インチには不十分"
+      ],
+      "specs": {
+        "接続": "USB-C",
+        "ホスト充電": "60W Power Deliveryパススルー",
+        "USB-Aポート": "4×USB-A 3.1 Gen1（5Gbps）",
+        "ディスプレイ出力": "なし",
+        "小売入手性": "ヨドバシカメラ・ビックカメラ・Amazon JP"
+      },
+      "scores": {
+        "ポート数": 3,
+        "USB-C速度": 3,
+        "Power Delivery": 3,
+        "日本入手性": 5
+      }
+    },
+    {
+      "offerId": "usb-hub-plugable-ud-6950z",
+      "badge": "Thunderbolt不要デュアルディスプレイ最強",
+      "grade": "B+",
+      "review": "Plugable UD-6950ZはDisplayLink 6950Z技術を使用してThunderboltなしにどのUSB-CまたはUSB-A 3.0ポートからもデュアル4K 60Hzディスプレイを駆動します — MacBook Air（Thunderbolt 4なし）・Thunderbolt非搭載Windowsマシン・追加Thunderboltドックが利用できない場合の唯一のデュアルディスプレイソリューションです。macOSとWindowsでのDisplayLinkドライバーインストールが必要。100W PDホスト充電・ギガビットイーサネット・6×USB-Aポート・USB-C 10Gbpsも提供します。¥25,000〜35,000で本比較で2番目に高い価格。DisplayLinkドライバーが4K 60Hzデュアルディスプレイ使用中に5〜10%のCPUオーバーヘッドを追加し、ドライバー更新が時々互換性問題を起こします。",
+      "pros": [
+        "どのUSB-CまたはUSB-Aポートからもデュアル4K 60Hz — Thunderbolt不要",
+        "100W PDホスト充電＋ギガビットイーサネット＋6×USB-A＋USB-C 10Gbps",
+        "MacBook Air・Thunderbolt非搭載WindowsノートPC・USB-Aホストで動作",
+        "以前のDisplayLink世代から改善されたDisplayLink 6950Zチップ"
+      ],
+      "cons": [
+        "DisplayLinkドライバーインストール必要 — 5〜10%のCPUオーバーヘッドが追加",
+        "ドライバー更新が時々互換性問題を引き起こす"
+      ],
+      "specs": {
+        "接続": "USB-CまたはUSB-A 3.0",
+        "ディスプレイ出力": "デュアル4K 60Hz（DisplayLink）",
+        "ホスト充電": "100W Power Delivery",
+        "イーサネット": "ギガビット",
+        "USB-Aポート": "6×USB-A"
+      },
+      "scores": {
+        "ポート数": 5,
+        "USB-C速度": 3,
+        "Power Delivery": 5,
+        "日本入手性": 3
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "USBハブ・マルチポートアダプター・ドックの違いとは何ですか？",
+      "a": "USBハブはホストのUSB接続からのバスパワーでポート数を拡張します — ノートパソコンのUSB接続から動作電力を引き出し、ホストへの意味のある充電はしません。低電力のUSBストレージにキーボードやマウスを追加するのに適しています。マルチポートアダプターはディスプレイ出力（HDMIまたはDisplayPort）を追加し、通常ホストノートパソコンを充電するPower Deliveryパススルーを持ちます。本比較のAnker 564とSatechi V3はマルチポートアダプターです。ドックは独自の電源（外部電源アダプター）を持ち、高電力のホスト充電を提供し、複数のディスプレイを独立して駆動でき、多くのポートに渡って帯域幅をより効果的に分散します。CalDigit TS4がドックです。この区別は重要です：65W PDアダプターマルチポートハブをMacBook Pro 16インチに接続して負荷下で使用すると、アダプターが十分な電力を供給できないためバッテリーが消耗します。96W以上のホスト充電を持つドックはこれを正しく処理します。"
+    },
+    {
+      "q": "これらのハブを使うためにノートパソコンにThunderboltが必要ですか？",
+      "a": "ハブによります。CalDigit TS4はフル40Gbps帯域幅のためにホストにThunderbolt 4またはUSB4ポートが必要です。標準USB 3.2 Gen2ポートで接続すると低帯域幅でUSBハブとして機能します。Anker 564とSatechi V3はどのUSB 3.2 Gen2（10Gbps）USB-Cポートからも最大定格速度で動作し、Thunderboltは不要です。エレコムハブはどのUSB-Cポートでも動作します。Plugable UD-6950Zが最も許容範囲が広く、DisplayLinkがビデオ信号ではなくUSBデータとしてディスプレイ信号をエンコードするため、旧MacBook AirやWindowsマシンのUSB 3.0ポートを含むどのUSB 3.0 USB-CまたはUSB-Aポートでも動作します。MacBook Air（Thunderbolt 4なしのM1/M2/M3）またはUSB 3.2のみのWindowsノートパソコンをお持ちなら、Plugableがここで2つの外部ディスプレイを駆動できる唯一の選択肢です。"
+    },
+    {
+      "q": "ノートパソコンが実際に必要なPower Deliveryはどれくらいですか？",
+      "a": "出発点として付属充電器の電力を確認してください。MacBook Air 13インチは30W充電器が付属しています — 60W PDハブはマージンを持って最高速で充電します。MacBook Air 15インチは35W充電器が付属 — 60W PDがカバーします。MacBook Pro 14インチは67W充電器が付属 — 85W PDハブは通常使用をカバーしますが、持続したCPUとGPU負荷下（重いコンパイル・ビデオレンダリング）で一時的に85Wを超えてバッテリーがゆっくり消耗することがあります。MacBook Pro 16インチは140W充電器が付属 — フルの持続した負荷下でカバーするのはCalDigit TS4の98Wなど96W以上のPDを提供するドックのみです。Windowsノートパソコンの場合：付属アダプターの電力を確認してください。同等以上のPD電力を提供するハブは通常使用でノートパソコンを完全に充電します。付属充電器より低い電力のハブは充電しますが、負荷下でゆっくり消耗する可能性があります。"
+    }
+  ],
+  "pinDescription": "USBハブ2026年版5製品比較 — CalDigit TS4 Thunderbolt 4プロドック vs Anker 564出張バスパワー vs Satechi V3 100W PDイーサネット vs エレコム日本入手可能 vs Plugableデュアル4K Thunderbolt不要。ハブ対ドックの違い解説付き。ケーブル管理はここから。",
+  "offerNotes": ""
+}

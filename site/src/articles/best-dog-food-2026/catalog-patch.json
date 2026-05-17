@@ -1,0 +1,122 @@
+[
+  {
+    "id": "dog-food-royal-canin-medium",
+    "imageUrl": "",
+    "priceMin": 3200,
+    "priceMax": 9800,
+    "category": "home",
+    "badge": "🐾",
+    "name": {
+      "en": "Royal Canin Medium Adult Dry Dog Food",
+      "ja": "ロイヤルカナン ミディアム アダルト ドッグフード"
+    },
+    "description": {
+      "en": "Breed-size-specific kibble for medium dogs 11–25 kg. Tapered kibble shape encourages chewing, AAFCO adult maintenance certified, 26% protein, 13% fat. Decades of veterinary recommendation behind it.",
+      "ja": "体重11〜25kgの中型犬専用。先端の細いキブル形状で咀嚼を促進。AAFCO成犬維持認証、タンパク質26%、脂肪13%。数十年の獣医推奨実績。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.royalcanin.com/us/dogs/products/retail-products/medium-adult-dry-dog-food",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dog-food-hills-science-diet",
+    "imageUrl": "",
+    "priceMin": 3500,
+    "priceMax": 11000,
+    "category": "home",
+    "badge": "🐾",
+    "name": {
+      "en": "Hill's Science Diet Adult Dry Dog Food",
+      "ja": "ヒルズ サイエンス・ダイエット アダルト ドッグフード"
+    },
+    "description": {
+      "en": "AAFCO feeding-trial certified (not just formulation). Chicken meal as first ingredient, prebiotic fiber blend for digestive health, 18.5% protein dry matter. Most-recommended dry food by veterinary clinics in the US and Japan.",
+      "ja": "AAFCO動物給与試験認証（計算式のみでなく）。チキンミールが第一原料、プレバイオティクス食物繊維配合、乾物換算タンパク質18.5%。米国・日本の獣医クリニックで最も推奨されるドッグフード。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hillspet.com/dog-food/sd-canine-adult-original-dry",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dog-food-taste-of-the-wild",
+    "imageUrl": "",
+    "priceMin": 4500,
+    "priceMax": 14000,
+    "category": "home",
+    "badge": "🐾",
+    "name": {
+      "en": "Taste of the Wild High Prairie Grain-Free Dry Dog Food",
+      "ja": "テイスト・オブ・ザ・ワイルド ハイプレーリー グレインフリー ドッグフード"
+    },
+    "description": {
+      "en": "Roasted bison and roasted venison as top two ingredients. 32% crude protein, AAFCO adult maintenance certified, grain-free formula with legume-based carbohydrates. Novel proteins with lower allergen profile than chicken or beef.",
+      "ja": "ローストしたバイソンとビーンソンが上位2原料。粗タンパク質32%、AAFCO成犬維持認証、豆類ベース炭水化物のグレインフリー。鶏肉・牛肉より低アレルゲン性の新奇タンパク質。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.tasteofthewildpetfood.com/products/high-prairie-canine-recipe/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dog-food-doggy-man-jp",
+    "imageUrl": "",
+    "priceMin": 1800,
+    "priceMax": 5500,
+    "category": "home",
+    "badge": "🐾",
+    "name": {
+      "en": "Doggy Man d.b.f. Adult Dry Dog Food (Japan)",
+      "ja": "ドギーマン d.b.f. 成犬用ドッグフード"
+    },
+    "description": {
+      "en": "Made in Japan by Doggy Man Co., Ltd. (Osaka, 60+ year history). Domestically sourced chicken as primary protein, meets Japanese Ministry of Agriculture feed standards. Available in size-specific variants from toy to large breed at major Japanese pet shops and Rakuten.",
+      "ja": "ドギーマン株式会社（大阪、60年以上の歴史）が日本国内製造。国産鶏肉を主要タンパク源として使用、農林水産省飼料基準準拠。トイ〜大型犬まで国内のペットショップ・楽天で入手可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.doggyman.com/dogfood/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dog-food-orijen-original",
+    "imageUrl": "",
+    "priceMin": 8500,
+    "priceMax": 18000,
+    "category": "home",
+    "badge": "🐾",
+    "name": {
+      "en": "Orijen Original Grain-Free Dry Dog Food",
+      "ja": "オリジン オリジナル グレインフリー ドッグフード"
+    },
+    "description": {
+      "en": "85% meat, poultry, and fish ingredients — 38% fresh or raw (chicken, turkey, flounder, mackerel), 47% dehydrated. 38% crude protein, 18% crude fat. WholePrey ratios include meat, organs, and cartilage. No grains, legumes, or plant protein concentrates.",
+      "ja": "原料の85%が肉・家禽・魚——38%はフレッシュまたは生（鶏肉・七面鳥・ヒラメ・サバ）、47%は乾燥。粗タンパク質38%、粗脂肪18%。WholePrey比率で肉・内臓・軟骨を含む。穀物・豆類・植物性タンパク質濃縮物なし。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.orijen.ca/products/original-dog-food/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

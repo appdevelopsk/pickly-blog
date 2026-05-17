@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cat-food-royal-canin-indoor",
+    "imageUrl": "",
+    "priceMin": 2800,
+    "priceMax": 8500,
+    "category": "home",
+    "badge": "🐾",
+    "name": {
+      "en": "Royal Canin Indoor Adult Dry Cat Food",
+      "ja": "ロイヤルカナン インドアキャット アダルト ドッグフード"
+    },
+    "description": {
+      "en": "Indoor-specific formula: 319 kcal/cup caloric density to prevent indoor weight gain, psyllium fiber blend for hairball reduction, urinary pH support for struvite crystal prevention. AAFCO adult maintenance certified, 8% moisture (dry).",
+      "ja": "室内猫特化フォーミュラ：体重増加防止のカップあたり319kcalカロリー密度、ヘアボール減少のサイリウム繊維配合、ストルバイト結晶予防の尿pHサポート。AAFCO成猫維持認証、水分8%（ドライ）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.royalcanin.com/us/cats/products/retail-products/indoor-adult-dry-cat-food",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "cat-food-hills-science-diet-adult",
+    "imageUrl": "",
+    "priceMin": 2500,
+    "priceMax": 7800,
+    "category": "home",
+    "badge": "🐾",
+    "name": {
+      "en": "Hill's Science Diet Adult Indoor Dry Cat Food",
+      "ja": "ヒルズ サイエンス・ダイエット アダルト インドア ドライキャットフード"
+    },
+    "description": {
+      "en": "AAFCO feeding-trial certified. Chicken meal as first ingredient with high taurine content, L-carnitine for lean muscle maintenance, validated for indoor adult cat weight management. Most-recommended dry cat food by veterinary clinics in US and Japan.",
+      "ja": "AAFCO動物給与試験認証。第一原料チキンミールで高タウリン含有量、除脂肪体重維持のL-カルニチン配合、室内成猫の体重管理で実証済み。米国・日本の獣医クリニックで最も推奨されるドライキャットフード。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hillspet.com/cat-food/sd-feline-adult-indoor-cat-dry",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "cat-food-ciao-tuna-jp",
+    "imageUrl": "",
+    "priceMin": 80,
+    "priceMax": 500,
+    "category": "home",
+    "badge": "🐾",
+    "name": {
+      "en": "Inaba Ciao Tuna in Broth Cat Complement Food (Japan)",
+      "ja": "いなばCIAO ちゅ〜る まぐろ"
+    },
+    "description": {
+      "en": "Japan's most beloved cat food brand. 91% moisture tuna-based complement food (not complete nutrition). Extremely high palatability — effective as meal topper, treat, or medication vehicle. Meets Japanese Ministry of Agriculture feed standards.",
+      "ja": "日本で最も愛されているキャットフードブランド。水分91%のまぐろ系補助食品（総合栄養食ではない）。極めて高い嗜好性——トッピング・おやつ・投薬補助として効果的。農林水産省飼料基準準拠。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.inaba-petfood.co.jp/ciao/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "cat-food-wellness-core-indoor",
+    "imageUrl": "",
+    "priceMin": 3200,
+    "priceMax": 9800,
+    "category": "home",
+    "badge": "🐾",
+    "name": {
+      "en": "Wellness CORE Indoor Grain-Free Dry Cat Food",
+      "ja": "ウェルネス コア インドア グレインフリー ドライキャットフード"
+    },
+    "description": {
+      "en": "Turkey and chicken as first two ingredients. 36% crude protein, grain-free, indoor-specific caloric density at 340 kcal/cup, added omega-3 for coat health. AAFCO adult maintenance certified. Taurine content 0.18% (above AAFCO minimum).",
+      "ja": "ターキーとチキンが第1・第2原料。粗タンパク質36%、グレインフリー、室内特化カロリー密度340kcal/カップ、コート健康のためのオメガ3配合。AAFCO成猫維持認証。タウリン含有量0.18%（AAFCO最低基準以上）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.wellnesspetfood.com/products/core-indoor-deboned-turkey-chicken-meal-dry-cat-food",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "cat-food-ziwi-peak-wet",
+    "imageUrl": "",
+    "priceMin": 350,
+    "priceMax": 900,
+    "category": "home",
+    "badge": "🐾",
+    "name": {
+      "en": "Ziwi Peak Wet Cat Food",
+      "ja": "ジウィピーク ウェットキャットフード"
+    },
+    "description": {
+      "en": "78% moisture, 92% meat and organs (beef, venison, chicken, or mackerel variants). No grains, legumes, or plant protein concentrates. Taurine from whole animal protein (not synthetic supplementation). Approximately 50% crude protein on dry matter basis.",
+      "ja": "水分78%、肉と内臓92%（牛・鹿・鶏・サバのバリアント）。穀物・豆類・植物性タンパク質濃縮物なし。タウリンは合成補充でなく動物全体タンパク質から由来。乾物換算粗タンパク質約50%。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ziwipets.com/collections/cat-wet-food",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

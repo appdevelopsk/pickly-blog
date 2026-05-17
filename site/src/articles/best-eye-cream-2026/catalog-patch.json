@@ -1,0 +1,122 @@
+[
+  {
+    "id": "eye-cream-shiseido-ultimune",
+    "imageUrl": "",
+    "priceMin": "¥25,000",
+    "priceMax": "¥30,000",
+    "category": "beauty",
+    "badge": "👁",
+    "name": {
+      "en": "Shiseido Ultimune Power Infusing Eye Concentrate",
+      "ja": "資生堂 アルティミューン パワライジング コンセントレート アイ"
+    },
+    "description": {
+      "en": "Shiseido's Iris Biotech Complex in a 15ml concentrate — visible skin texture refinement at 6-8 weeks per long-term reviews. Japan's luxury eye care benchmark.",
+      "ja": "資生堂独自のIRISバイオテックコンプレックスを配合した15mlのアイコンセントレート。長期レビューで6〜8週間での肌のきめ改善を確認。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.shiseido.com/ultimune-eye",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "eye-cream-olay-eyes-ultimate",
+    "imageUrl": "",
+    "priceMin": "¥4,500",
+    "priceMax": "¥5,800",
+    "category": "beauty",
+    "badge": "🔬",
+    "name": {
+      "en": "Olay Eyes Ultimate Eye Cream",
+      "ja": "Olay アイズ アルティメット アイ クリーム"
+    },
+    "description": {
+      "en": "Retinol, Vitamin B3, and collagen peptides in one eye cream at mid-range pricing. Three evidence-backed actives that produce measurable improvements in fine lines and dark circles.",
+      "ja": "レチノール・ビタミンB3・コラーゲンペプチド配合。3つの根拠ある有効成分で小じわとクマに実測可能な改善をもたらす。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.olay.com/eyes-ultimate-eye-cream",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "eye-cream-kiehl-creamy-eye",
+    "imageUrl": "",
+    "priceMin": "¥5,000",
+    "priceMax": "¥6,500",
+    "category": "beauty",
+    "badge": "🥑",
+    "name": {
+      "en": "Kiehl's Creamy Eye Treatment with Avocado",
+      "ja": "Kiehl's クリーミー アイ トリートメント ウィズ アボカド"
+    },
+    "description": {
+      "en": "Avocado oil and shea butter at higher concentrations than most face moisturizers, formulated to stay on vertical skin without migrating into the eye.",
+      "ja": "アボカドオイルとシアバターを高濃度配合。目元の縦の皮膚面でよれずに留まる特別処方。乾燥した目元への純粋なエモリエント保湿。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kiehls.com/skin-care/eye-cream/creamy-eye-treatment-with-avocado",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "eye-cream-origins-ginzing",
+    "imageUrl": "",
+    "priceMin": "¥3,500",
+    "priceMax": "¥4,800",
+    "category": "beauty",
+    "badge": "☕",
+    "name": {
+      "en": "Origins GinZing Refreshing Eye Cream to Brighten and Depuff",
+      "ja": "Origins ジンジング リフレッシング アイ クリーム"
+    },
+    "description": {
+      "en": "Caffeine, ginseng, and optical brighteners that visibly reduce puffiness and dark appearance in 15-20 minutes. The fastest-acting eye product on this list for morning use.",
+      "ja": "カフェイン・ジンセン・光学ブライトナー配合。15〜20分で目に見えるむくみ軽減。このリストで朝の目元改善に最速の製品。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.origins.com/product/ginzing-refreshing-eye-cream",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "eye-cream-neutrogena-rapid-dark-circle",
+    "imageUrl": "",
+    "priceMin": "¥1,500",
+    "priceMax": "¥2,200",
+    "category": "beauty",
+    "badge": "💊",
+    "name": {
+      "en": "Neutrogena Rapid Dark Circle Repair Eye Cream",
+      "ja": "ニュートロジーナ ラピッド ダーク サークル リペア アイ クリーム"
+    },
+    "description": {
+      "en": "Retinol and stabilized vitamin C at the most accessible price point on this list. Real actives for dark circle reduction at under ¥2,200 for 14ml.",
+      "ja": "レチノールと安定型ビタミンCをこのリスト最安価格で。クマ対策の2大有効成分を14mlで2,200円以下で実現。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.neutrogena.com/eye/rapid-dark-circle-repair-eye-cream",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "energy-bar-rxbar-chocolate-sea-salt",
+    "imageUrl": "",
+    "priceMin": 26,
+    "priceMax": 36,
+    "category": "food",
+    "badge": "🥤",
+    "name": {
+      "en": "RXBAR Chocolate Sea Salt (12-pack)",
+      "ja": "RXBAR チョコレートシーソルト（12本入り）"
+    },
+    "description": {
+      "en": "12g protein per bar from egg whites. Zero added sugar — dates, nuts, egg whites, cocoa. No gluten, no soy, no dairy. Macro: 210 kcal / 12g protein / 23g carb / 9g fat.",
+      "ja": "卵白由来プロテイン12g配合。砂糖無添加。デーツ・ナッツ・卵白・カカオのみ。グルテン・大豆・乳製品フリー。210kcal / タンパク12g / 糖質23g / 脂質9g。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=RXBAR+Chocolate+Sea+Salt+12+pack",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "energy-bar-larabar-apple-pie",
+    "imageUrl": "",
+    "priceMin": 16,
+    "priceMax": 24,
+    "category": "food",
+    "badge": "🥤",
+    "name": {
+      "en": "Larabar Apple Pie (16-pack)",
+      "ja": "ラーラバー アップルパイ（16本入り）"
+    },
+    "description": {
+      "en": "2-4 ingredient bars: dates, almonds, unsweetened apple. No added sugar, gluten-free, vegan. 200 kcal / 4g protein / 30g carb / 8g fat per bar.",
+      "ja": "2〜4原材料のみ：デーツ・アーモンド・無糖リンゴ。砂糖無添加、グルテンフリー、ヴィーガン対応。1本200kcal / タンパク4g / 糖質30g / 脂質8g。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Larabar+Apple+Pie+16+pack",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "energy-bar-cliff-bar-chocolate",
+    "imageUrl": "",
+    "priceMin": 18,
+    "priceMax": 28,
+    "category": "food",
+    "badge": "🥤",
+    "name": {
+      "en": "Clif Bar Chocolate Chip (12-pack)",
+      "ja": "クリフバー チョコレートチップ（12本入り）"
+    },
+    "description": {
+      "en": "Sustained energy endurance bar for athletic activity. Organic rolled oats base, 10g protein, 44g carb, 5g fat. 250 kcal per bar. Not a protein bar — an endurance fuel.",
+      "ja": "運動中の持続エネルギー補給バー。有機ロールドオーツベース、10gタンパク・44g糖質・5g脂質。1本250kcal。プロテインバーではなく持久系エネルギー補給食。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Clif+Bar+Chocolate+Chip+12+pack",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "energy-bar-kind-dark-chocolate",
+    "imageUrl": "",
+    "priceMin": 21,
+    "priceMax": 30,
+    "category": "food",
+    "badge": "🥤",
+    "name": {
+      "en": "KIND Dark Chocolate Nuts & Sea Salt (12-pack)",
+      "ja": "カインド ダークチョコレート ナッツ＆シーソルト（12本入り）"
+    },
+    "description": {
+      "en": "Whole nut bar: almonds, peanuts, dark chocolate, sea salt. 5g sugar, 6g protein, 15g fat (mostly from nuts). Gluten-free. 200 kcal per bar. Not a high-protein bar.",
+      "ja": "ホールナッツバー：アーモンド・ピーナッツ・ダークチョコレート・シーソルト。砂糖5g、タンパク6g、脂質15g（主にナッツ由来）。グルテンフリー。1本200kcal。高タンパクバーではない。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=KIND+Dark+Chocolate+Nuts+Sea+Salt+12+pack",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "energy-bar-pure-organic-dark-cherry",
+    "imageUrl": "",
+    "priceMin": 18,
+    "priceMax": 26,
+    "category": "food",
+    "badge": "🥤",
+    "name": {
+      "en": "Pure Organic Dark Cherry & Cashew (12-pack)",
+      "ja": "ピュアオーガニック ダークチェリー＆カシュー（12本入り）"
+    },
+    "description": {
+      "en": "USDA Certified Organic bar. Dates, cashews, dark cherry, pea protein. 10g protein, 25g carb, 6g fat. No gluten, no GMO, vegan. 200 kcal per bar.",
+      "ja": "USDA認定オーガニックバー。デーツ・カシュー・ダークチェリー・えんどう豆タンパク。タンパク10g / 糖質25g / 脂質6g。グルテンフリー・非GMO・ヴィーガン。1本200kcal。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Pure+Organic+Dark+Cherry+Cashew+bar+12+pack",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

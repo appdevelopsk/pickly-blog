@@ -50,6 +50,7 @@
     "pinterest:upload-csv": "tsx pinterest/upload-csv.ts",
     "pinterest:pin": "tsx pinterest/pin-from-browser.ts",
     "pinterest:setup-accounts": "tsx pinterest/setup-accounts.ts",
+    "note:post": "tsx note/post.ts",
     "twitter:post": "tsx twitter/post.ts",
     "facebook:post": "tsx facebook/post.ts",
     "instagram:post": "tsx instagram/post.ts",

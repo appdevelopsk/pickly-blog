@@ -1,0 +1,122 @@
+[
+  {
+    "id": "detergent-tide-pods-original",
+    "imageUrl": "",
+    "priceMin": 18,
+    "priceMax": 32,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Tide PODS Original Laundry Detergent",
+      "ja": "タイド PODSオリジナル洗濯洗剤"
+    },
+    "description": {
+      "en": "Tide PODS 3-in-1 laundry detergent pods, HE compatible, 72-count container, approximately 72 loads, Original scent, concentrated pacs with built-in stain remover and brightener.",
+      "ja": "タイド PODS 3in1洗濯洗剤パック、HE対応、72個入り（約72回分）、オリジナル香、シミ取り・蛍光増白剤内蔵の濃縮タイプ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=tide+pods+original+72+count",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "detergent-seventh-generation-free-clear",
+    "imageUrl": "",
+    "priceMin": 14,
+    "priceMax": 22,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Seventh Generation Free & Clear Laundry Detergent",
+      "ja": "セブンスジェネレーション フリー&クリア 洗濯洗剤"
+    },
+    "description": {
+      "en": "Seventh Generation Free & Clear liquid laundry detergent, fragrance-free, USDA Certified Biobased 97%, HE compatible, 50 fl oz / 66 loads, EPA Safer Choice certified, no optical brighteners or dyes.",
+      "ja": "セブンスジェネレーション フリー&クリア液体洗濯洗剤、無香料、USDA認定バイオベース97%、HE対応、50oz（約66回分）、EPAセーファーチョイス認証、蛍光増白剤・染料不使用。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.seventhgeneration.com/laundry-detergent",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "detergent-attitude-fragrance-free",
+    "imageUrl": "",
+    "priceMin": 12,
+    "priceMax": 20,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Attitude Fragrance-Free Laundry Detergent",
+      "ja": "アティチュード 無香料 洗濯洗剤"
+    },
+    "description": {
+      "en": "Attitude plant-based concentrated laundry detergent, fragrance-free, EWG Verified, HE compatible, 35 fl oz / 35 loads, Ecocert certified, biodegradable formula, hypoallergenic for sensitive skin.",
+      "ja": "アティチュード植物由来濃縮洗濯洗剤、無香料、EWG認証、HE対応、35oz（35回分）、Ecocert認証、生分解性処方、敏感肌向けアレルギーテスト済。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.attitudeliving.com/collections/laundry",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "detergent-ariel-regular-jp",
+    "imageUrl": "",
+    "priceMin": 480,
+    "priceMax": 1280,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Ariel Regular Laundry Detergent (Japan)",
+      "ja": "アリエール 洗濯洗剤（日本市場）"
+    },
+    "description": {
+      "en": "P&G Ariel Japan liquid laundry detergent, Regular scent, HE and standard drum compatible, 900 g / approximately 60 loads, enzyme-enhanced stain removal, low-temperature effective down to 10°C.",
+      "ja": "P&G アリエール ジャパン液体洗濯洗剤、レギュラー香、縦型・ドラム式両対応、900g（約60回分）、酵素配合シミ取り、10°Cの低温でも効果発揮。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=アリエール+液体+洗濯洗剤",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "detergent-method-8x-concentrated",
+    "imageUrl": "",
+    "priceMin": 10,
+    "priceMax": 18,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Method 8x Concentrated Laundry Detergent",
+      "ja": "メソッド 8x濃縮 洗濯洗剤"
+    },
+    "description": {
+      "en": "Method 8x concentrated plant-based laundry detergent, HE compatible, 20 fl oz / 66 loads, scented with essential oils, Leaping Bunny certified cruelty-free, 100% recycled plastic bottle, free of dyes and parabens.",
+      "ja": "メソッド8x濃縮植物由来洗濯洗剤、HE対応、20oz（66回分）、精油で香り付け、リーピングバニー認証（動物実験なし）、100%再生プラボトル、染料・パラベン不使用。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://methodproducts.com/collections/laundry",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

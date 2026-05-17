@@ -1,0 +1,122 @@
+[
+  {
+    "id": "moisturizer-hada-labo-super-hyaluronic",
+    "imageUrl": "",
+    "priceMin": "¥1,200",
+    "priceMax": "¥1,200",
+    "category": "beauty",
+    "badge": "🌿",
+    "name": {
+      "en": "Hada Labo Super Hyaluronic Acid Moisturizing Cream",
+      "ja": "肌ラボ 超ヒアルロン酸 保湿クリーム"
+    },
+    "description": {
+      "en": "Japan's practical daily moisturizer — 5-HA multi-weight stack in a gel-cream base. Fragrance-free, ¥1,200.",
+      "ja": "5種分子量HAスタック配合のジェルクリーム。日本の日常乾燥肌ケアの定番が¥1,200で。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://jp.rohto.com/hadalabo/",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "moisturizer-cerave-moisturizing-cream",
+    "imageUrl": "",
+    "priceMin": "$18",
+    "priceMax": "$18",
+    "category": "beauty",
+    "badge": "🌿",
+    "name": {
+      "en": "CeraVe Moisturizing Cream",
+      "ja": "セラヴィ モイスチャライジング クリーム"
+    },
+    "description": {
+      "en": "Three ceramides + cholesterol + petrolatum + HA. National Eczema Association recognized dermatologist standard for dry, compromised skin.",
+      "ja": "3種セラミド＋コレステロール＋ワセリン＋HA。全米湿疹協会認定の皮膚科標準モイスチャライザー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.cerave.com/moisturizers/moisturizing-cream",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "moisturizer-dr-jart-cicapair",
+    "imageUrl": "",
+    "priceMin": "$52",
+    "priceMax": "$52",
+    "category": "beauty",
+    "badge": "🌿",
+    "name": {
+      "en": "Dr. Jart+ Cicapair Tiger Grass Cream",
+      "ja": "ドクタージャルト シカペア タイガーグラス クリーム"
+    },
+    "description": {
+      "en": "Centella Asiatica complex for redness-prone dry skin. Addresses inflammation and dryness simultaneously.",
+      "ja": "ツボクサ複合体で赤み＋乾燥を同時ケア。乾燥と反応性が重なった肌のプレミアム選択肢。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.drjart.com/products/cicapair-tiger-grass-cream",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "moisturizer-etude-soon-jung",
+    "imageUrl": "",
+    "priceMin": "$20",
+    "priceMax": "$25",
+    "category": "beauty",
+    "badge": "🌿",
+    "name": {
+      "en": "Etude Soon Jung Barrier Intensive Cream",
+      "ja": "エチュード スンジュン バリア インテンシブ クリーム"
+    },
+    "description": {
+      "en": "10-free certified formula (no fragrance, silicone, mineral oil, EO, or 6 other irritants). Cleanest ingredient list for reactive dry skin.",
+      "ja": "10フリー認証処方（香料・シリコーン・鉱物油・精油ほか除外）。成分反応性乾燥肌に最もクリーンな選択肢。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.etude.com/global/product/soon-jung-barrier-intensive-cream.html",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "moisturizer-belif-true-cream",
+    "imageUrl": "",
+    "priceMin": "$52",
+    "priceMax": "$52",
+    "category": "beauty",
+    "badge": "🌿",
+    "name": {
+      "en": "Belif True Cream Aqua Bomb",
+      "ja": "ベリーフ トゥルークリーム アクアボム"
+    },
+    "description": {
+      "en": "Napiers herbal complex gel-cream with 4–6 hour moisture retention and premium sensory skin feel.",
+      "ja": "ネイパーズハーブ複合体のジェルクリームが4〜6時間の保湿持続感とプレミアムな肌感触を両立。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.belif.com/products/true-cream-aqua-bomb",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

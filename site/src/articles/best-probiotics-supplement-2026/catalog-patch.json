@@ -1,0 +1,122 @@
+[
+  {
+    "id": "probiotics-garden-of-life-dr-formulated",
+    "imageUrl": "",
+    "priceMin": 35,
+    "priceMax": 50,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Garden of Life Dr. Formulated Probiotics Once Daily",
+      "ja": "Garden of Life Dr. フォーミュラ プロバイオティクス ワンスデイリー"
+    },
+    "description": {
+      "en": "50 billion CFU, 16 Lactobacillus and Bifidobacterium strains, NSF Certified for Sport. Physician-formulated with Dr. David Perlmutter. Requires refrigeration.",
+      "ja": "500億CFU・16種のラクトバチルス＆ビフィドバクテリウム菌株・NSFスポーツ認証。デビッド・パールマッター博士監修。冷蔵保管必須。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Garden-Life-Dr-Formulated-Probiotics/dp/B00TH6MMBO",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "probiotics-culturelle-digestive-daily",
+    "imageUrl": "",
+    "priceMin": 18,
+    "priceMax": 28,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Culturelle Digestive Daily Probiotic",
+      "ja": "Culturelle ダイジェスティブ デイリー プロバイオティクス"
+    },
+    "description": {
+      "en": "10 billion CFU of Lactobacillus rhamnosus GG (LGG) — the world's most clinically studied probiotic strain with 1,000+ published studies. No refrigeration required.",
+      "ja": "10億CFUのラクトバチルス・ラムノサスGG（LGG）——世界で最も臨床研究された菌株（1,000件以上の発表研究）。冷蔵不要。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Culturelle-Digestive-Probiotic-Capsules-Lactobacillus/dp/B00GWWUHO0",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "probiotics-seed-ds-01",
+    "imageUrl": "",
+    "priceMin": 40,
+    "priceMax": 50,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Seed DS-01 Daily Synbiotic",
+      "ja": "Seed DS-01 デイリーシンバイオティクス"
+    },
+    "description": {
+      "en": "24 strains, 53.6B AFU, 2-in-1 nested capsule technology protecting bacteria from gastric acid. CGMP-tested at point of consumption. Subscription only.",
+      "ja": "24菌株・536億AFU・2in1ネスト型カプセル技術で胃酸から細菌を保護。摂取時点でCGMP試験済み。サブスクリプション限定。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://seed.com/daily-synbiotic",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "probiotics-fancl-jp",
+    "imageUrl": "",
+    "priceMin": 1500,
+    "priceMax": 3000,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "FANCL Probiotic Supplement (Japan)",
+      "ja": "ファンケル 乳酸菌・ビフィズス菌サプリ"
+    },
+    "description": {
+      "en": "FANCL Japan's additive-free probiotic with Bifidobacterium longum strains validated in Japanese population research. No preservatives, artificial colors, or additives.",
+      "ja": "FANCLの無添加プロバイオティクス。日本人集団研究で検証されたビフィドバクテリウム・ロンガム菌株配合。保存料・人工色素・添加物なし。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fancl.jp/products/supplement/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "probiotics-align-bifantis",
+    "imageUrl": "",
+    "priceMin": 28,
+    "priceMax": 42,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Align Probiotic Supplement",
+      "ja": "Align プロバイオティクスサプリ"
+    },
+    "description": {
+      "en": "1 billion CFU of Bifidobacterium longum 35624 (B. infantis 35624) — the only probiotic strain with RCT evidence specifically for IBS bloating, abdominal pain, and bowel irregularity.",
+      "ja": "10億CFUのビフィドバクテリウム・ロンガム35624——IBS腹部膨満感・腹痛・排便不規則性への特異的なRCTエビデンスを持つ唯一の菌株。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Align-Probiotic-Supplement-Capsules/dp/B004FZLDXI",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

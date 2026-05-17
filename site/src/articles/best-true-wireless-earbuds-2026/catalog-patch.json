@@ -1,0 +1,122 @@
+[
+  {
+    "id": "tws-sony-wf-1000xm5",
+    "imageUrl": "",
+    "priceMin": 34000,
+    "priceMax": 38000,
+    "category": "tech",
+    "badge": "🎧",
+    "name": {
+      "en": "Sony WF-1000XM5 True Wireless Earbuds",
+      "ja": "ソニー WF-1000XM5 ワイヤレスノイズキャンセリングイヤホン"
+    },
+    "description": {
+      "en": "Sony's flagship true wireless earbuds with QN2e chip, LDAC 990 kbps, ~24–26 dB ANC attenuation, 8h ANC battery, IPX4, 5.9 g per bud.",
+      "ja": "ソニーのフラッグシップ完全ワイヤレスイヤホン。QN2eチップ搭載、LDAC 990 kbps対応、ANC減衰量約24〜26 dB、ANC有効時8時間バッテリー、IPX4、片耳5.9 g。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/dp/B0C29MXJ4T",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "tws-apple-airpods-pro-2",
+    "imageUrl": "",
+    "priceMin": 32900,
+    "priceMax": 39800,
+    "category": "tech",
+    "badge": "🎧",
+    "name": {
+      "en": "Apple AirPods Pro (2nd generation)",
+      "ja": "Apple AirPods Pro（第2世代）"
+    },
+    "description": {
+      "en": "Apple H2 chip, Adaptive Transparency, ~28–30 dB ANC with proper seal, 6h ANC battery (30h with case), IPX4, 5.3 g per bud, AAC codec only.",
+      "ja": "Apple H2チップ搭載、Adaptive Transparency、正しいシール時ANC約28〜30 dB、ANC有効時6時間バッテリー（ケース込み30時間）、IPX4、片耳5.3 g、コーデックはAAC。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/dp/B0BDHB9Y8H",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "tws-jabra-evolve2-buds",
+    "imageUrl": "",
+    "priceMin": 39800,
+    "priceMax": 46000,
+    "category": "tech",
+    "badge": "🎧",
+    "name": {
+      "en": "Jabra Evolve2 Buds",
+      "ja": "ジャブラ Evolve2 Buds"
+    },
+    "description": {
+      "en": "Three-mic beamforming, IP57, ~22–25 dB ANC, 7h ANC battery, optional UC dongle for USB-A/C zero-latency wireless, Microsoft Teams and Zoom certified, AAC/SBC only.",
+      "ja": "3マイクビームフォーミング、IP57、ANC約22〜25 dB、ANC有効時7時間バッテリー、オプションUCドングルでUSB-A/Cゼロレイテンシ無線、Microsoft Teams・Zoom認定、コーデックはAAC/SBC。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.jabra.com/business/office-headsets/jabra-evolve/jabra-evolve2-buds",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "tws-nothing-ear-2",
+    "imageUrl": "",
+    "priceMin": 18700,
+    "priceMax": 22000,
+    "category": "tech",
+    "badge": "🎧",
+    "name": {
+      "en": "Nothing Ear (2)",
+      "ja": "ナッシング Ear (2)"
+    },
+    "description": {
+      "en": "Dual-driver (11 mm dynamic + balanced armature), LDAC 990 kbps, IP54, ~20–22 dB ANC, 6.3h ANC battery (36h with case), 4.5 g per bud.",
+      "ja": "デュアルドライバー（11 mmダイナミック＋バランスドアーマチュア）、LDAC 990 kbps対応、IP54、ANC約20〜22 dB、ANC有効時6.3時間バッテリー（ケース込み36時間）、片耳4.5 g。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://jp.nothing.tech/products/ear-2",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "tws-anker-soundcore-liberty-4",
+    "imageUrl": "",
+    "priceMin": 8990,
+    "priceMax": 11000,
+    "category": "tech",
+    "badge": "🎧",
+    "name": {
+      "en": "Anker Soundcore Liberty 4",
+      "ja": "アンカー Soundcore Liberty 4"
+    },
+    "description": {
+      "en": "LDAC 990 kbps, IPX4, ~18–20 dB ANC, 9h ANC battery (32h with case), ACAA 2.0 spatial audio, 10.4 mm dynamic driver, 5.5 g per bud.",
+      "ja": "LDAC 990 kbps対応、IPX4、ANC約18〜20 dB、ANC有効時9時間バッテリー（ケース込み32時間）、ACAA 2.0空間音響、10.4 mmダイナミックドライバー、片耳5.5 g。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/dp/B0BM1SNVK7",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

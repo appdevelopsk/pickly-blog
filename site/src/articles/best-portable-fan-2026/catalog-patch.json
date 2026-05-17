@@ -1,0 +1,122 @@
+[
+  {
+    "id": "portable-fan-dyson-pure-cool-me",
+    "imageUrl": "",
+    "priceMin": 300,
+    "priceMax": 400,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Dyson Pure Cool Me Personal Purifying Fan",
+      "ja": "ダイソン ピュア クール ミー パーソナル空気清浄ファン"
+    },
+    "description": {
+      "en": "Personal-sized HEPA H13 air purifying fan with 10-speed airflow and 360-degree oscillation.",
+      "ja": "HEPA H13搭載のパーソナルサイズ空気清浄ファン。10段階風量、360度首振り。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Dyson+Pure+Cool+Me",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "portable-fan-vornado-pivot5",
+    "imageUrl": "",
+    "priceMin": 50,
+    "priceMax": 80,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Vornado Pivot5 Compact Air Circulator Fan",
+      "ja": "ボルナド ピボット5 コンパクトエアサーキュレーターファン"
+    },
+    "description": {
+      "en": "Compact vortex circulator with 4 speeds, pivoting base for floor or desk use, and cord wrap storage.",
+      "ja": "4段階風速のコンパクトボルテックスサーキュレーター。床・机両対応のピボットベース、コード収納付き。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Vornado+Pivot5+fan",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "portable-fan-honeywell-htf090",
+    "imageUrl": "",
+    "priceMin": 30,
+    "priceMax": 55,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Honeywell HT-900 TurboForce Fan",
+      "ja": "ハネウェル HT-900 ターボフォースファン"
+    },
+    "description": {
+      "en": "Compact 7-inch turbo fan with 3 speeds, 90-degree pivoting head, and powerful airflow for desk or floor.",
+      "ja": "コンパクト7インチターボファン。3段階風速、90度首振りヘッド、机・床両用の強力気流。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Honeywell+HT-900+TurboForce",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "portable-fan-panasonic-dc-jp",
+    "imageUrl": "",
+    "priceMin": 15000,
+    "priceMax": 35000,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Panasonic DC Fan F-CL2025",
+      "ja": "パナソニック DCモーターファン F-CL2025"
+    },
+    "description": {
+      "en": "Panasonic's DC motor energy-saving fan with 8-speed control, 40dB quiet operation, and nanoe ion technology.",
+      "ja": "パナソニックのDCモーター省エネファン。8段階風量、40dB静音運転、ナノイーイオン技術搭載。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=パナソニック+DCファン+F-CL2025",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "portable-fan-satechi-dual",
+    "imageUrl": "",
+    "priceMin": 40,
+    "priceMax": 70,
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Satechi Dual USB-C Fan",
+      "ja": "サテチ デュアル USB-C ファン"
+    },
+    "description": {
+      "en": "USB-C powered dual-head desk fan with 3 speeds, flexible neck, and whisper-quiet 35dB motor.",
+      "ja": "USB-C給電デュアルヘッドデスクファン。3段階風速、フレキシブルネック、静音35dBモーター。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Satechi+Dual+USB-C+Fan",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

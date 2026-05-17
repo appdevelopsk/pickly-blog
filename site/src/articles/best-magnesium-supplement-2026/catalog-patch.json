@@ -1,0 +1,122 @@
+[
+  {
+    "id": "magnesium-pure-encapsulations",
+    "imageUrl": "",
+    "priceMin": 28,
+    "priceMax": 50,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Pure Encapsulations Magnesium Glycinate",
+      "ja": "ピュアエンカプスレーションズ マグネシウム グリシネート"
+    },
+    "description": {
+      "en": "120mg elemental magnesium as magnesium glycinate per capsule. Hypoallergenic, no unnecessary excipients. Well-tolerated form for sensitive stomachs.",
+      "ja": "1カプセルあたり元素マグネシウム120mgをグリシネート形で配合。低アレルゲン、添加物最小限。胃に優しい形態。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Pure+Encapsulations+Magnesium+Glycinate",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "magnesium-thorne-bisglycinate",
+    "imageUrl": "",
+    "priceMin": 30,
+    "priceMax": 52,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Thorne Magnesium Bisglycinate",
+      "ja": "ソーン マグネシウム ビスグリシネート"
+    },
+    "description": {
+      "en": "200mg elemental magnesium as bisglycinate per serving. NSF Certified for Sport, excellent bioavailability, minimal GI side effects.",
+      "ja": "1食あたり元素マグネシウム200mgをビスグリシネート形で配合。NSF Certified for Sport取得、優れた生体利用率で腹部不快感が少ない。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Thorne+Magnesium+Bisglycinate+NSF",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "magnesium-klean-athlete-glycinate",
+    "imageUrl": "",
+    "priceMin": 32,
+    "priceMax": 55,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Klean Athlete Klean Magnesium",
+      "ja": "クリーンアスリート クリーン マグネシウム"
+    },
+    "description": {
+      "en": "150mg elemental magnesium as magnesium glycinate per capsule. NSF Certified for Sport. Formulated for athletic performance and sleep quality.",
+      "ja": "1カプセルあたり元素マグネシウム150mgをグリシネート形で配合。NSF Certified for Sport取得。運動パフォーマンスと睡眠の質向上向け設計。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Klean+Athlete+Magnesium+NSF",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "magnesium-dhc-jp",
+    "imageUrl": "",
+    "priceMin": 800,
+    "priceMax": 2000,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "DHC Magnesium (Japan)",
+      "ja": "DHC マグネシウム"
+    },
+    "description": {
+      "en": "DHC's magnesium supplement for the Japanese market. 100mg magnesium oxide per tablet with B vitamins, 60-day supply. Affordable daily option.",
+      "ja": "DHCのマグネシウムサプリ（日本向け）。1錠あたり酸化マグネシウム100mg＋ビタミンB群配合、60日分。手頃な毎日使いサプリ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=DHC+マグネシウム",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "magnesium-doctors-best-high-absorption",
+    "imageUrl": "",
+    "priceMin": 16,
+    "priceMax": 32,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Doctor's Best High Absorption Magnesium",
+      "ja": "ドクターズベスト 高吸収マグネシウム"
+    },
+    "description": {
+      "en": "200mg elemental magnesium as magnesium glycinate-lysinate chelate (TRAACS) per serving. Third-party tested, Non-GMO, gluten-free. Best value chelated magnesium.",
+      "ja": "1食あたり元素マグネシウム200mgをグリシネート-リジネートキレート（TRAACS）形で配合。第三者機関検査済み、非GMO、グルテンフリー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Doctor%27s+Best+High+Absorption+Magnesium",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

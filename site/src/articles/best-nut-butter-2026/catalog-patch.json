@@ -1,0 +1,122 @@
+[
+  {
+    "id": "nut-butter-justin-classic-almond",
+    "imageUrl": "",
+    "priceMin": 1.49,
+    "priceMax": 12.99,
+    "category": "food",
+    "badge": "🥜",
+    "name": {
+      "en": "Justin's Classic Almond Butter",
+      "ja": "ジャスティンズ クラシックアーモンドバター"
+    },
+    "description": {
+      "en": "Dry-roasted almond butter with a small amount of palm fruit oil for stability. Non-GMO Project certified. Available as 1.15oz squeeze packets and 16oz glass jar. 7g protein per 2 tbsp.",
+      "ja": "安定性のために少量のパームフルーツオイルを使用した乾燥ローストアーモンドバター。Non-GMOプロジェクト認証。1.15オンスのスクイーズパックと16オンスのガラス瓶で展開。大さじ2でタンパク質7g。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Justin%27s+Classic+Almond+Butter",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "nut-butter-rx-bar-almond",
+    "imageUrl": "",
+    "priceMin": 8.99,
+    "priceMax": 14.99,
+    "category": "food",
+    "badge": "🥜",
+    "name": {
+      "en": "RXBAR Almond Butter",
+      "ja": "RXバー アーモンドバター"
+    },
+    "description": {
+      "en": "Single-ingredient almond butter made from whole roasted almonds — no added oil, sugar, or emulsifiers. Non-GMO Project certified. Deep roasted flavor. Significant oil separation (stir required). 9oz jar.",
+      "ja": "丸ごとローストアーモンドのみのシングル原材料アーモンドバター——添加オイル・砂糖・乳化剤なし。Non-GMOプロジェクト認証。深みのあるロースト風味。著しい油分分離あり（攪拌必要）。9オンスジャー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=RXBAR+Almond+Butter",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "nut-butter-artisana-organics",
+    "imageUrl": "",
+    "priceMin": 13.99,
+    "priceMax": 19.99,
+    "category": "food",
+    "badge": "🥜",
+    "name": {
+      "en": "Artisana Organics Raw Almond Butter",
+      "ja": "アルティサナオーガニクス 生アーモンドバター"
+    },
+    "description": {
+      "en": "The only certified raw almond butter in the category. USDA Organic certified. Almonds never heated above 105°F. Single ingredient: organic raw almonds. Delicate flavor distinct from roasted versions. 8oz.",
+      "ja": "カテゴリー唯一のロー認証アーモンドバター。USDA有機認証。アーモンドを105°F以上に加熱しない。単一原材料：有機生アーモンド。ロースト版とは全く異なる繊細な風味。8オンス。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Artisana+Organics+Raw+Almond+Butter",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "nut-butter-barney-bare-almond",
+    "imageUrl": "",
+    "priceMin": 9.99,
+    "priceMax": 14.99,
+    "category": "food",
+    "badge": "🥜",
+    "name": {
+      "en": "Barney Butter Bare Almond Butter",
+      "ja": "バーニーバター ベアアーモンドバター"
+    },
+    "description": {
+      "en": "Made from blanched dry-roasted almonds (skin removed). Smoothest texture of any almond butter in this category. Ideal for baking. Two ingredients: blanched almonds and sea salt. Non-GMO Project certified. 10oz.",
+      "ja": "ブランチド乾燥ローストアーモンド（皮除去）から作られた。このカテゴリーで最も滑らかな食感。ベーキングに最適。原材料は2つ：ブランチドアーモンドと海塩。Non-GMOプロジェクト認証。10オンス。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Barney+Butter+Bare+Almond+Butter",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "nut-butter-once-again-organic",
+    "imageUrl": "",
+    "priceMin": 11.99,
+    "priceMax": 17.99,
+    "category": "food",
+    "badge": "🥜",
+    "name": {
+      "en": "Once Again Organic Almond Butter",
+      "ja": "ワンスアゲイン オーガニックアーモンドバター"
+    },
+    "description": {
+      "en": "Worker-owned cooperative almond butter since 1976. USDA Organic and Fair Trade USA certified. Single ingredient: organic dry-roasted almonds. Best value per ounce in the certified organic clean-label segment. 16oz.",
+      "ja": "1976年より続く労働者所有の協同組合のアーモンドバター。USDA有機＋Fair Trade USA認証。単一原材料：有機乾燥ローストアーモンド。有機認証クリーンラベルセグメントで最良のオンスあたりコスパ。16オンス。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Once+Again+Organic+Almond+Butter",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

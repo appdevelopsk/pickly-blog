@@ -1,0 +1,122 @@
+[
+  {
+    "id": "smart-hub-amazon-echo-hub",
+    "imageUrl": "",
+    "priceMin": 22980,
+    "priceMax": 27000,
+    "category": "tech",
+    "badge": "🏠",
+    "name": {
+      "en": "Amazon Echo Hub",
+      "ja": "アマゾン Echo Hub"
+    },
+    "description": {
+      "en": "8-inch wall-mounted touchscreen Alexa smart home hub with Zigbee, Thread, and Matter radios. First Alexa device with integrated hub and display panel.",
+      "ja": "8インチ壁掛けタッチスクリーン型AlexaスマートホームハブにZigbee・Thread・Matterラジオ内蔵。統合ハブとディスプレイパネルを持つ初のAlexaデバイス。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/dp/B0BW3HKGS8",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "smart-hub-google-nest-hub-max",
+    "imageUrl": "",
+    "priceMin": 27800,
+    "priceMax": 35000,
+    "category": "tech",
+    "badge": "🏠",
+    "name": {
+      "en": "Google Nest Hub Max",
+      "ja": "グーグル Nest Hub Max"
+    },
+    "description": {
+      "en": "10-inch smart display with Google Assistant, Face Match personalization, Nest camera streaming, Thread Border Router. Matter 1.1 certified.",
+      "ja": "10インチスマートディスプレイにGoogle Assistant・Face Match個人化・Nestカメラストリーミング・Threadボーダールーターを内蔵。Matter 1.1認定。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://store.google.com/jp/product/google_nest_hub_max",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "smart-hub-samsung-smartthings",
+    "imageUrl": "",
+    "priceMin": 16800,
+    "priceMax": 22000,
+    "category": "tech",
+    "badge": "🏠",
+    "name": {
+      "en": "Samsung SmartThings Station",
+      "ja": "サムスン SmartThings Station"
+    },
+    "description": {
+      "en": "Zigbee and Thread native, Matter 1.2 certified controller, Z-Wave via paired hub, 5,000+ compatible certified devices, 15W wireless charger top surface.",
+      "ja": "Zigbee・Threadネイティブ搭載、Matter 1.2認定コントローラー、Z-Waveは連携ハブ経由、5,000台以上の認定対応デバイス、天面に15Wワイヤレス充電機能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/dp/B0BYBJ2GZY",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "smart-hub-aeotec-smart-home-hub",
+    "imageUrl": "",
+    "priceMin": 13500,
+    "priceMax": 17000,
+    "category": "tech",
+    "badge": "🏠",
+    "name": {
+      "en": "Aeotec Smart Home Hub",
+      "ja": "アエオテック Smart Home Hub"
+    },
+    "description": {
+      "en": "Official licensed SmartThings hardware successor. Z-Wave 700 and Zigbee 3.0 certified radios, Thread, Matter 1.3 bridge, comprehensive local automation processing.",
+      "ja": "公式ライセンスSmartThingsハードウェア後継。Z-Wave 700・Zigbee 3.0認定ラジオ搭載、Thread・Matter 1.3ブリッジ対応、包括的なローカル自動化処理。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://aeotec.com/products/aeotec-smart-home-hub/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "smart-hub-apple-homepod-mini",
+    "imageUrl": "",
+    "priceMin": 12800,
+    "priceMax": 16800,
+    "category": "tech",
+    "badge": "🏠",
+    "name": {
+      "en": "Apple HomePod mini",
+      "ja": "アップル HomePod mini"
+    },
+    "description": {
+      "en": "Siri speaker, HomeKit hub, and Thread Border Router in one device. Full local HomeKit automation processing, Matter 1.3 certified, no Z-Wave or Zigbee.",
+      "ja": "Siriスピーカー・HomeKitハブ・Threadボーダールーターを1台に。HomeKit自動化の完全ローカル処理、Matter 1.3認定、Z-Wave・Zigbeeは非搭載。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.apple.com/jp/shop/buy-homepod/homepod-mini",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

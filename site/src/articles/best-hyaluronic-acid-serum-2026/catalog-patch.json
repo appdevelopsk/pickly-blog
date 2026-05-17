@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ha-serum-hada-labo-gokujun",
+    "imageUrl": "",
+    "priceMin": "¥660",
+    "priceMax": "¥660",
+    "category": "beauty",
+    "badge": "💧",
+    "name": {
+      "en": "Hada Labo Gokujyn Hyaluronic Acid Lotion",
+      "ja": "肌ラボ 極潤 ヒアルロン液"
+    },
+    "description": {
+      "en": "Five molecular weights of hyaluronic acid in one fragrance-free toner. Japan's top-selling hydration product at ¥660.",
+      "ja": "5種分子量ヒアルロン酸を1本に。日本の保湿定番製品が¥660で手に入る。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://jp.rohto.com/hadalabo/gokujyun/",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ha-serum-neutrogena-hydro-boost",
+    "imageUrl": "",
+    "priceMin": "$20",
+    "priceMax": "$25",
+    "category": "beauty",
+    "badge": "💧",
+    "name": {
+      "en": "Neutrogena Hydro Boost Water Gel",
+      "ja": "ニュートロジーナ ハイドロ ブースト ウォータージェル"
+    },
+    "description": {
+      "en": "Lightweight hyaluronic acid gel-cream sold in pharmacies worldwide. Best for humid climates and daytime hydration.",
+      "ja": "世界中の薬局で入手できるHAジェルクリーム。高湿度環境・昼間の軽い保湿ステップに最適。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.neutrogena.com/skin/skin-moisturizers/hydro-boost-water-gel",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ha-serum-the-ordinary-ha",
+    "imageUrl": "",
+    "priceMin": "$9",
+    "priceMax": "$9",
+    "category": "beauty",
+    "badge": "💧",
+    "name": {
+      "en": "The Ordinary Hyaluronic Acid 2% + B5",
+      "ja": "ジ オーディナリー ヒアルロン酸 2% + B5"
+    },
+    "description": {
+      "en": "High and low molecular weight HA at 2% combined with pro-vitamin B5. The global budget standard for a dedicated HA serum step.",
+      "ja": "高分子・低分子HA合計2%＋プロビタミンB5。グローバルで最安値クラスの専用HAセラムステップ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://theordinary.com/en-gb/hyaluronic-acid-2-b5-100642.html",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ha-serum-laneige-water-bank",
+    "imageUrl": "",
+    "priceMin": "$45",
+    "priceMax": "$45",
+    "category": "beauty",
+    "badge": "💧",
+    "name": {
+      "en": "Laneige Water Bank Blue Hyaluronic Serum",
+      "ja": "ラネージュ ウォーターバンク ブルー ヒアルロン酸 セラム"
+    },
+    "description": {
+      "en": "Fermented blue algae HA complex for immediate visible surface plumping. Premium K-beauty hydration serum.",
+      "ja": "ブルー藻類発酵HAコンプレックスで即効の表面プランピング。プレミアムK-ビューティー保湿セラム。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.laneige.com/global/en/skin/water-bank-blue-hyaluronic-serum.html",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ha-serum-cosrx-advanced-snail",
+    "imageUrl": "",
+    "priceMin": "$20",
+    "priceMax": "$20",
+    "category": "beauty",
+    "badge": "💧",
+    "name": {
+      "en": "COSRX Advanced Snail 96 Mucin Power Essence",
+      "ja": "コスRX アドバンスドスネイル 96 ムチン パワー エッセンス"
+    },
+    "description": {
+      "en": "96% snail secretion filtrate with HA analogs for combined hydration and barrier repair. Dermatologist-recommended for post-active recovery.",
+      "ja": "96%スネイルムチン＋HAアナログで保湿とバリア修復を同時に。酸・レチノール後の回復期に皮膚科医推奨。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.cosrx.com/products/advanced-snail-96-mucin-power-essence",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

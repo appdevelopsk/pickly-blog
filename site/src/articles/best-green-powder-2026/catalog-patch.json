@@ -1,0 +1,122 @@
+[
+  {
+    "id": "green-powder-athletic-greens-ag1",
+    "imageUrl": "",
+    "priceMin": 79,
+    "priceMax": 99,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Athletic Greens AG1",
+      "ja": "アスレティックグリーンズ AG1"
+    },
+    "description": {
+      "en": "75+ ingredient all-in-one greens formula with probiotics (7.2B CFU), digestive enzymes, adaptogens. NSF Certified for Sport. Best taste in category. Subscription available.",
+      "ja": "75種以上の成分を含むオールインワングリーン処方。プロバイオティクス（72億CFU）・消化酵素・アダプトゲン配合。NSFスポーツ認証取得。カテゴリー最高の味。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://athleticgreens.com/en",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "green-powder-amazing-grass-greens",
+    "imageUrl": "",
+    "priceMin": 18,
+    "priceMax": 30,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Amazing Grass Greens Blend",
+      "ja": "アメイジンググラス グリーンズブレンド"
+    },
+    "description": {
+      "en": "NSF certified whole-food greens with disclosed ingredient amounts: wheat grass 3g, spirulina 1g, barley grass 1g, chlorella 300mg per serving. 60-75% lower cost than AG1.",
+      "ja": "NSF認証の全食品グリーン。成分量開示済み：1食あたり小麦草3g・スピルリナ1g・大麦草1g・クロレラ300mg。AG1より60〜75%低コスト。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Amazing-Grass-Greens-Blend/dp/B001E5E0Y2",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "green-powder-bloom-greens",
+    "imageUrl": "",
+    "priceMin": 25,
+    "priceMax": 40,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Bloom Nutrition Greens and Superfoods",
+      "ja": "ブルーム ニュートリション グリーンズ & スーパーフーズ"
+    },
+    "description": {
+      "en": "Greens blend with 5-enzyme digestive complex (amylase, protease, lipase, bromelain, papain) and 2B CFU probiotics. Best flavors (watermelon, mango coconut) in the greens category.",
+      "ja": "5種の消化酵素コンプレックス（アミラーゼ・プロテアーゼ・リパーゼ・ブロメライン・パパイン）と20億CFUプロバイオティクス配合のグリーンブレンド。カテゴリー最高フレーバー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Bloom-Nutrition-Superfoods-Smoothie/dp/B09B4SJQKM",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "green-powder-fancl-aojiru-jp",
+    "imageUrl": "",
+    "priceMin": 2000,
+    "priceMax": 5000,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "FANCL Aojiru (Young Barley Grass) - Japan",
+      "ja": "ファンケル 無添加 大麦若葉青汁"
+    },
+    "description": {
+      "en": "FANCL's additive-free young barley grass (aojiru) — peak-harvest, low-temperature dried, chlorophyll-standardized. Individual stick sachets. No preservatives, artificial colors, or additives.",
+      "ja": "FANCLの無添加大麦若葉青汁——ピーク収穫・低温乾燥・クロロフィル量規格化。個包装スティック。保存料・人工色素・添加物一切なし。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fancl.jp/products/supplement/aojiru/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "green-powder-organifi-green-juice",
+    "imageUrl": "",
+    "priceMin": 60,
+    "priceMax": 80,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Organifi Green Juice",
+      "ja": "オーガニファイ グリーンジュース"
+    },
+    "description": {
+      "en": "USDA Certified Organic greens with adaptogens: ashwagandha, moringa (standardized 4% isothiocyanates), turmeric, spirulina, chlorella, wheatgrass, matcha, coconut water.",
+      "ja": "USDA認定有機グリーンとアダプトゲン配合：アシュワガンダ・モリンガ（イソチオシアネート4%規格化）・ターメリック・スピルリナ・クロレラ・小麦草・抹茶・ココナッツウォーター。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Organifi-Green-Juice-Supplement/dp/B00WT4EB5O",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

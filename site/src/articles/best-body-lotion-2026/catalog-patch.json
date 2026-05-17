@@ -1,0 +1,122 @@
+[
+  {
+    "id": "body-lotion-nivea-intensive",
+    "imageUrl": "",
+    "priceMin": "¥600",
+    "priceMax": "¥900",
+    "category": "beauty",
+    "badge": "🔵",
+    "name": {
+      "en": "Nivea Intensive Moisturizing Body Lotion",
+      "ja": "ニベア インテンシブ モイスチャライジング ボディローション"
+    },
+    "description": {
+      "en": "Eudermine and panthenol in a rich cream-weight formula for dry skin in cold weather. The Japanese market body lotion benchmark at under ¥900 for 200ml.",
+      "ja": "オイデルミンとパンテノール配合の濃密クリームタイプ。寒冷期の乾燥肌向け日本市場の保湿基準製品。200mlで900円以下。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.nivea.co.jp/products/body",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "body-lotion-kiehl-creme-de-corps",
+    "imageUrl": "",
+    "priceMin": "¥4,000",
+    "priceMax": "¥5,200",
+    "category": "beauty",
+    "badge": "🌿",
+    "name": {
+      "en": "Kiehl's Creme de Corps",
+      "ja": "Kiehl's クレム ドゥ コール"
+    },
+    "description": {
+      "en": "Squalane, lanolin, cocoa butter, and avocado oil at concentrations that produce visible skin quality improvement in 4-6 weeks of daily use. 24-hour moisturization without greasiness.",
+      "ja": "スクワラン・ラノリン・カカオバター・アボカドオイルを高濃度配合。毎日4〜6週間の使用で肌質の可視的な改善をもたらす24時間保湿。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kiehls.com/skin-care/body/body-lotion/creme-de-corps",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "body-lotion-jergens-ultra-healing",
+    "imageUrl": "",
+    "priceMin": "¥1,200",
+    "priceMax": "¥1,800",
+    "category": "beauty",
+    "badge": "🧴",
+    "name": {
+      "en": "Jergens Ultra Healing Extra Dry Skin Moisturizer",
+      "ja": "Jergens ウルトラヒーリング エクストラドライスキン モイスチャライザー"
+    },
+    "description": {
+      "en": "Vitamins C, E, and B5 in a genuinely lightweight formula that absorbs in 45-60 seconds. The most practical body lotion for morning use before dressing.",
+      "ja": "ビタミンC・E・B5配合の軽いテクスチャーが45〜60秒で吸収。朝の着衣前に最も実用的なボディローション。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.jergens.com/en-us/moisturizers/ultra-healing",
+        "markets": ["US", "global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "body-lotion-dove-deep-moisture",
+    "imageUrl": "",
+    "priceMin": "¥500",
+    "priceMax": "¥750",
+    "category": "beauty",
+    "badge": "🕊",
+    "name": {
+      "en": "Dove Deep Moisture Body Lotion",
+      "ja": "ダヴ ディープモイスチャー ボディローション"
+    },
+    "description": {
+      "en": "NutriumMoisture formula with stearic acid, palmitic acid, and glycerin that absorbs in 60-75 seconds. The most accessible all-rounder body lotion at Japanese drugstores.",
+      "ja": "ステアリン酸・パルミチン酸・グリセリンのNutriumMoisture処方が60〜75秒で吸収。日本のドラッグストアで最も手に入りやすい万能ボディローション。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.dove.com/jp/body-lotion/deep-moisture.html",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "body-lotion-vaseline-intensive-care",
+    "imageUrl": "",
+    "priceMin": "¥500",
+    "priceMax": "¥800",
+    "category": "beauty",
+    "badge": "💊",
+    "name": {
+      "en": "Vaseline Intensive Care Advanced Repair Unscented Lotion",
+      "ja": "ワセリン インテンシブケア アドバンスドリペア 無香料ローション"
+    },
+    "description": {
+      "en": "Petrolatum microdroplets plus glycerin — the dermatologist-recommended barrier repair formula for very dry and eczema-prone skin. 400ml under ¥800, genuinely fragrance-free.",
+      "ja": "ワセリンのマイクロドロップレット＋グリセリンで皮膚科医推奨のバリア修復処方。重度乾燥肌・湿疹肌向け。400mlで800円以下、本当の無香料。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.vaseline.com/us/en/body-lotions/advanced-repair-fragrance-free-body-lotion.html",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

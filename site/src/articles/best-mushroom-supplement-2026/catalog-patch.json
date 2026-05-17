@@ -1,0 +1,122 @@
+[
+  {
+    "id": "mushroom-supp-four-sigmatic-lions-mane",
+    "imageUrl": "",
+    "priceMin": 30,
+    "priceMax": 45,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Four Sigmatic Lion's Mane Elixir",
+      "ja": "フォーシグマティック ライオンズメイン エリクサー"
+    },
+    "description": {
+      "en": "Dual-extracted lion's mane (Hericium erinaceus) fruiting body with rhodiola rosea. Most accessible single-species cognitive support supplement with documented extraction process.",
+      "ja": "ロジオラロゼア配合の二重抽出ライオンズメイン（Hericium erinaceus）子実体。文書化された抽出プロセスを持つ最もアクセスしやすい単一種の認知サポートサプリ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Four-Sigmatic-Lions-Mane-Mushroom/dp/B01LYNZA6C",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mushroom-supp-real-mushrooms-5-defenders",
+    "imageUrl": "",
+    "priceMin": 35,
+    "priceMax": 50,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Real Mushrooms 5 Defenders Blend",
+      "ja": "リアルマッシュルームズ 5 ディフェンダーズ ブレンド"
+    },
+    "description": {
+      "en": "Certified organic fruiting body only (no mycelium on grain). Beta-glucan content disclosed and third-party verified per batch. Chaga, turkey tail, reishi, shiitake, maitake. CoA available.",
+      "ja": "認定有機子実体のみ（穀物菌糸体なし）。β-グルカン含量をバッチごとに開示・第三者検証済み。チャーガ・ターキーテイル・霊芝・シイタケ・マイタケ。CoA入手可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Real-Mushrooms-5-Defenders-Capsules/dp/B07CLWTHDS",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mushroom-supp-om-master-blend",
+    "imageUrl": "",
+    "priceMin": 35,
+    "priceMax": 50,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Om Mushroom Master Blend",
+      "ja": "オム マッシュルーム マスターブレンド"
+    },
+    "description": {
+      "en": "10 functional mushroom species (lion's mane, chaga, reishi, turkey tail, cordyceps + 5 more). USDA organic, grown in California. Full-spectrum mycelium + fruiting body. 2,000mg per serving.",
+      "ja": "10種の機能性キノコ（ライオンズメイン・チャーガ・霊芝・ターキーテイル・コルジセプス + 5種）。USDA有機・カリフォルニア栽培。フルスペクトル菌糸体+子実体。1食2,000mg。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Om-Organic-Mushroom-Nutrition-Powder/dp/B07YYKVMQ3",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mushroom-supp-fancl-reishi-jp",
+    "imageUrl": "",
+    "priceMin": 2000,
+    "priceMax": 5000,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "FANCL Reishi (Lingzhi) Supplement - Japan",
+      "ja": "ファンケル 霊芝サプリ"
+    },
+    "description": {
+      "en": "FANCL Japan's additive-free reishi (Ganoderma lucidum) supplement using dried fruiting body. FFC-approved health claims. No preservatives or artificial additives. Wide Japan retail availability.",
+      "ja": "FANCLの無添加霊芝（Ganoderma lucidum）サプリ。乾燥子実体使用。機能性表示食品（FFC）承認。保存料・人工添加物なし。日本国内で幅広く入手可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fancl.jp/products/supplement/reishi/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mushroom-supp-host-defense-mychillogy",
+    "imageUrl": "",
+    "priceMin": 35,
+    "priceMax": 55,
+    "category": "food",
+    "badge": "🌿",
+    "name": {
+      "en": "Host Defense MyCommunity / Mychillogy",
+      "ja": "ホストディフェンス マイコミュニティ / マイチロジー"
+    },
+    "description": {
+      "en": "Paul Stamets' brand. 17 mushroom species in certified organic full-spectrum mycelium from Stamets' personal strain collection, Washington state grown. cGMP facility. Widest species coverage.",
+      "ja": "ポール・スタメッツのブランド。スタメッツの個人菌株コレクションからワシントン州栽培の有機フルスペクトル菌糸体での17種。cGMP施設。最広の種カバレッジ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/Host-Defense-MyCommunity-Capsules/dp/B003J3OI4I",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

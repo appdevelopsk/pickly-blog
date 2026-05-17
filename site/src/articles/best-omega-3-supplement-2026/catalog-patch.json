@@ -1,0 +1,122 @@
+[
+  {
+    "id": "omega3-nordic-naturals-ultimate",
+    "imageUrl": "",
+    "priceMin": 38,
+    "priceMax": 65,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Nordic Naturals Ultimate Omega",
+      "ja": "ノルディックナチュラルズ アルティメット オメガ"
+    },
+    "description": {
+      "en": "1280mg omega-3 per serving (EPA 650mg + DHA 450mg), third-party tested for purity and freshness. IFOS 5-star certified, triglyceride form.",
+      "ja": "1食あたりオメガ3 1280mg（EPA 650mg＋DHA 450mg）。IFOS 5つ星認証、トリグリセリド型で吸収率高。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Nordic+Naturals+Ultimate+Omega",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "omega3-thorne-super-epa",
+    "imageUrl": "",
+    "priceMin": 48,
+    "priceMax": 75,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Thorne Super EPA",
+      "ja": "ソーン スーパー EPA"
+    },
+    "description": {
+      "en": "High-EPA formula: 900mg EPA and 200mg DHA per serving. NSF Certified for Sport, pharmaceutical-grade fish oil in triglyceride form.",
+      "ja": "高EPA配合：1食あたりEPA 900mg・DHA 200mg。NSF Certified for Sport取得、医薬品グレードのトリグリセリド型魚油。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Thorne+Super+EPA+NSF",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "omega3-carlson-elite",
+    "imageUrl": "",
+    "priceMin": 30,
+    "priceMax": 55,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Carlson Elite Omega-3 Gems",
+      "ja": "カールソン エリート オメガ3 ジェムズ"
+    },
+    "description": {
+      "en": "1600mg omega-3 per serving (EPA 800mg + DHA 600mg) in triglyceride form. Norwegian Arctic cod liver oil, third-party tested, no fishy aftertaste.",
+      "ja": "1食あたりオメガ3 1600mg（EPA 800mg＋DHA 600mg）のトリグリセリド型。ノルウェー産アークティックコッドリバーオイル使用、魚臭なし。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Carlson+Elite+Omega-3+Gems",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "omega3-fancl-epa-dha-jp",
+    "imageUrl": "",
+    "priceMin": 2000,
+    "priceMax": 4000,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Fancl EPA & DHA (Japan)",
+      "ja": "ファンケル EPA＆DHA"
+    },
+    "description": {
+      "en": "Fancl's popular EPA and DHA supplement for the Japanese market. Sourced from sardines and mackerel, 30-day supply, small easy-to-swallow capsules.",
+      "ja": "ファンケルのEPA＆DHAサプリ（日本向け）。イワシ・サバ由来、30日分、飲みやすい小粒カプセル。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.co.jp/s?k=ファンケル+EPA+DHA",
+        "markets": ["JP"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "omega3-sports-research-triple-strength",
+    "imageUrl": "",
+    "priceMin": 28,
+    "pricemax": 50,
+    "category": "food",
+    "badge": "💊",
+    "name": {
+      "en": "Sports Research Triple Strength Omega-3",
+      "ja": "スポーツリサーチ トリプルストレングス オメガ3"
+    },
+    "description": {
+      "en": "1250mg omega-3 per softgel (EPA 690mg + DHA 500mg). IFOS 5-star certified, triglyceride form, burpless enteric coating. Best value per mg omega-3.",
+      "ja": "ソフトジェル1粒あたりオメガ3 1250mg（EPA 690mg＋DHA 500mg）。IFOS 5つ星認証、腸溶コーティングでゲップなし。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Sports+Research+Triple+Strength+Omega-3",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "usb-hub-caldigit-ts4",
+    "imageUrl": "",
+    "priceMin": 55000,
+    "priceMax": 70000,
+    "category": "tech",
+    "badge": "💻",
+    "name": {
+      "en": "CalDigit TS4 Thunderbolt 4 Dock",
+      "ja": "CalDigit TS4 Thunderbolt 4 ドック"
+    },
+    "description": {
+      "en": "Thunderbolt 4 dock with 18 ports including 2.5 Gigabit Ethernet, 3× USB-A 10Gbps, 2× USB-C 10Gbps, Thunderbolt 4 downstream, DisplayPort 1.4, SD card reader, 98W host charging via single Thunderbolt cable.",
+      "ja": "18ポートThunderbolt 4ドック。2.5ギガビットイーサネット・3×USB-A 10Gbps・2×USB-C 10Gbps・Thunderbolt 4ダウンストリーム・DisplayPort 1.4・SDカードリーダー・1本のThunderbolt 4ケーブルで98Wホスト充電。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.caldigit.com/ts4/",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "usb-hub-anker-564-usb-c",
+    "imageUrl": "",
+    "priceMin": 6000,
+    "priceMax": 9000,
+    "category": "tech",
+    "badge": "💻",
+    "name": {
+      "en": "Anker 564 USB-C Hub (7-in-1)",
+      "ja": "Anker 564 USB-Cハブ（7-in-1）"
+    },
+    "description": {
+      "en": "7-in-1 bus-powered USB-C hub with USB-C 10Gbps data, 4K HDMI, 85W Power Delivery pass-through, 2× USB-A 3.0, SD and microSD card readers, compact portable form factor.",
+      "ja": "7-in-1バスパワーUSB-Cハブ。USB-C 10Gbpsデータ・4K HDMI・85W Power Deliveryパススルー・2×USB-A 3.0・SDとmicroSDカードリーダー。コンパクトなポータブル形状。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.anker.com/products/anker-564-usb-c-hub",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "usb-hub-satechi-v3-multiport",
+    "imageUrl": "",
+    "priceMin": 14000,
+    "priceMax": 18000,
+    "category": "tech",
+    "badge": "💻",
+    "name": {
+      "en": "Satechi V3 Multi-Port Adapter",
+      "ja": "Satechi V3 マルチポートアダプター"
+    },
+    "description": {
+      "en": "Slim aluminum USB-C multiport adapter with USB-C 10Gbps, 4K 60Hz HDMI, 100W Power Delivery pass-through, Gigabit Ethernet, SD/microSD card readers, USB-A 3.0, matches MacBook Pro and Air colors.",
+      "ja": "スリムアルミニウムUSB-Cマルチポートアダプター。USB-C 10Gbps・4K 60Hz HDMI・100W PDパススルー・ギガビットイーサネット・SD/microSDカードリーダー・USB-A 3.0。MacBook Pro・Airの色に合わせたデザイン。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://satechi.net/products/usb-c-multiport-adapter-v3",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "usb-hub-elecom-jp",
+    "imageUrl": "",
+    "priceMin": 4000,
+    "priceMax": 6000,
+    "category": "tech",
+    "badge": "💻",
+    "name": {
+      "en": "Elecom USB-C Hub U3HC-A430BBK (Japan)",
+      "ja": "エレコム USB-Cハブ U3HC-A430BBK（日本市場）"
+    },
+    "description": {
+      "en": "Japan-market USB-C hub with 4× USB-A 3.1 Gen1 (5Gbps each), USB-C 60W Power Delivery pass-through, aluminum construction, compact form factor, available at Yodobashi Camera and Bic Camera.",
+      "ja": "日本市場向けUSB-Cハブ。4×USB-A 3.1 Gen1（各5Gbps）・USB-C 60W PDパススルー・アルミ構造・コンパクト形状。ヨドバシカメラ・ビックカメラで購入可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.elecom.co.jp/products/U3HC-A430BBK.html",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "usb-hub-plugable-ud-6950z",
+    "imageUrl": "",
+    "priceMin": 25000,
+    "priceMax": 35000,
+    "category": "tech",
+    "badge": "💻",
+    "name": {
+      "en": "Plugable UD-6950Z USB-C DisplayLink Dock",
+      "ja": "Plugable UD-6950Z USB-C DisplayLinkドック"
+    },
+    "description": {
+      "en": "DisplayLink dock using UD-6950Z chip for dual 4K 60Hz displays from any USB-C or USB-A 3.0 port without Thunderbolt, 100W Power Delivery, Gigabit Ethernet, 6× USB-A, USB-C 10Gbps, requires DisplayLink driver installation.",
+      "ja": "UD-6950Zチップを使用してThunderboltなしにどのUSB-CまたはUSB-A 3.0ポートからもデュアル4K 60Hzを実現するDisplayLinkドック。100W PD・ギガビットイーサネット・6×USB-A・USB-C 10Gbps。DisplayLinkドライバーインストール必要。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://plugable.com/products/ud-6950z",
+        "markets": ["global"],
+        "approved": false
+      }
+    ]
+  }
+]
