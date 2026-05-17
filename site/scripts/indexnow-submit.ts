@@ -24,9 +24,9 @@ const SITE_URL = "https://pickly.blog";
 const KEY = "505118c2333ec1cbddc87177c90a0dce";
 const ARTICLES_DIR = path.resolve(__dirname, "../src/articles");
 const STATE_PATH = path.join(os.homedir(), ".config/pickly/indexnow-submitted.json");
-// Submit to api.indexnow.org — fans out to Bing, Yandex, Seznam, Naver, etc.
-const ENDPOINT = "https://api.indexnow.org/indexnow";
-const BATCH_SIZE = 10_000; // IndexNow accepts up to 10,000 URLs per request
+// Yandex endpoint (Bing has per-IP rate limits; use Bing separately via Webmaster Tools)
+const ENDPOINT = "https://yandex.com/indexnow";
+const BATCH_SIZE = 100; // smaller batches to avoid 403 errors
 
 const args = process.argv.slice(2);
 const DRY_RUN = args.includes("--dry-run");
@@ -105,18 +105,23 @@ async function main() {
     return;
   }
 
-  // Submit in batches of 10,000
   let ok = 0;
   for (let i = 0; i < newUrls.length; i += BATCH_SIZE) {
     const batch = newUrls.slice(i, i + BATCH_SIZE);
+    const batchNum = Math.floor(i / BATCH_SIZE) + 1;
     const success = await submitBatch(batch);
     if (success) {
       const now = new Date().toISOString();
       for (const u of batch) state.submitted[u] = now;
       ok += batch.length;
-      console.log(`✓ Submitted batch ${Math.floor(i / BATCH_SIZE) + 1}: ${batch.length} URLs`);
+      console.log(`✓ Batch ${batchNum}: ${batch.length} URLs`);
+      saveState(state);
     } else {
-      console.error(`✗ Batch ${Math.floor(i / BATCH_SIZE) + 1} failed`);
+      console.error(`✗ Batch ${batchNum} failed`);
+    }
+    // Rate limit: Bing enforces per-minute quotas; wait between batches
+    if (i + BATCH_SIZE < newUrls.length) {
+      await new Promise((r) => setTimeout(r, 3_000));
     }
   }
 

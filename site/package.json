@@ -19,7 +19,8 @@
     "gsc:performance": "tsx scripts/gsc-performance.ts",
     "gsc:submit": "tsx scripts/gsc-submit.ts",
     "gsc:ping": "tsx scripts/gsc-ping-indexing.ts",
-    "indexnow": "tsx scripts/indexnow-submit.ts"
+    "indexnow": "tsx scripts/indexnow-submit.ts",
+    "bing:submit": "tsx scripts/bing-submit.ts"
   },
   "dependencies": {
     "next": "15.5.15",
