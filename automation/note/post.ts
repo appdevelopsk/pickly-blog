@@ -71,16 +71,24 @@ async function waitForEnter(message: string): Promise<void> {
 
 async function ensureLoggedIn(page: import("playwright").Page): Promise<boolean> {
   await page.goto("https://note.com", { waitUntil: "domcontentloaded", timeout: 30_000 });
-  // Check if already logged in by looking for the user icon / 投稿する button
-  const isLoggedIn = await page.locator('a[href*="/notes/new"], a[href*="login"]').first().isVisible({ timeout: 5_000 }).catch(() => false);
   const hasLoginLink = await page.locator('a[href*="login"]').isVisible({ timeout: 3_000 }).catch(() => false);
   if (hasLoginLink) {
-    console.log("⚠ note.com にログインしていません。ブラウザでログインしてください。");
+    const email = process.env.NOTE_EMAIL;
+    const password = process.env.NOTE_PASSWORD;
     await page.goto("https://note.com/login", { waitUntil: "domcontentloaded" });
-    await waitForEnter("  ログイン完了後、Enter キーを押してください: ");
-    // Save session after login
+    if (email && password) {
+      console.log(`  自動ログイン: ${email}`);
+      await page.locator('input[name="email"], input[type="email"]').first().fill(email);
+      await page.waitForTimeout(500);
+      await page.locator('input[name="password"], input[type="password"]').first().fill(password);
+      await page.waitForTimeout(500);
+      await page.locator('button[type="submit"], button:has-text("ログイン")').first().click();
+      await page.waitForURL((url) => !url.href.includes("/login"), { timeout: 30_000 });
+    } else {
+      console.log("⚠ note.com にログインしていません。ブラウザでログインしてください。");
+      await waitForEnter("  ログイン完了後、Enter キーを押してください: ");
+    }
     const ctx = page.context();
-    const cookies = await ctx.cookies();
     const storage = await ctx.storageState();
     fs.mkdirSync(path.dirname(SESSION_PATH), { recursive: true });
     fs.writeFileSync(SESSION_PATH, JSON.stringify(storage, null, 2));
