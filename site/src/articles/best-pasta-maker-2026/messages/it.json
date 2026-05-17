@@ -66,5 +66,174 @@
     "ronco-pasta-maker": "Macchina automatica per pasta economica — piu semplice del Philips, meno opzioni di trafila, prezzo inferiore. Adeguata per chi vuole provare la produzione automatica di pasta senza il pieno investimento del Philips. La qualita della pasta e la durata sono inferiori alle opzioni premium."
   },
   "pinDescription": "Confronto macchine per la pasta 2026: Marcato Atlas 150 vs Imperia vs accessorio KitchenAid vs Philips automatico — quale macchina fa la migliore pasta fresca in casa? Rullo vs estrusore, manovella italiana vs automazione elettrica spiegati. #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni macchina per la pasta è stata valutata in base alla consistenza della sfoglia, alla precisione del meccanismo del rullo, agli accessori inclusi, al carico di pulizia e allo scenario reale per cui è più adatta — che si tratti di sfoglie tirate a mano, coerenza motorizzata o estrusione completamente automatica.",
+  "products": [
+    {
+      "offerId": "marcato-atlas-150-pasta-maker",
+      "badge": "La Migliore in Assoluto",
+      "review": "La Marcato Atlas 150 è il punto di riferimento per i mattarelli da pasta domestici dagli anni '30 — rulli in acciaio cromato, larghezza di 150 mm, nove impostazioni di spessore da 3 mm a 0,6 mm, e più supporto per accessori di terze parti di qualsiasi concorrente. Il meccanismo a manovella è fluido e durevole; il morsetto è stabile su qualsiasi bordo del piano di lavoro. La pulizia consiste nell'asciugare — senza sapone, senza acqua, mai. La più ampia gamma di pezzi di ricambio e coltelli di qualsiasi macchina per la pasta domestica.",
+      "pros": [
+        "Costruzione in acciaio cromato con oltre 90 anni di durabilità comprovata",
+        "Nove impostazioni di spessore fino a 0,6 mm — abbastanza sottile per i ravioli",
+        "La più ampia disponibilità di accessori e pezzi di ricambio di terze parti"
+      ],
+      "cons": [
+        "Richiede un morsetto sul bordo del piano — nessuna opzione autoportante; nessuna pulizia con sapone"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Tipo": "Rullo manuale",
+        "Larghezza del rullo": "150 mm",
+        "Impostazioni spessore": "0 (3 mm) a 9 (0,6 mm)",
+        "Materiale": "Acciaio cromato",
+        "Coltelli inclusi": "Fettuccine + tagliolini",
+        "Origine": "Italia"
+      },
+      "scores": {
+        "Consistenza sfoglia": 5.0,
+        "Qualità costruttiva": 5.0,
+        "Facilità d'uso": 4.5,
+        "Valore": 4.8,
+        "Gamma di spessori": 5.0
+      }
+    },
+    {
+      "offerId": "imperia-pasta-maker-machine",
+      "badge": "Miglior Valore con Due Coltelli",
+      "review": "L'Imperia include sia un coltello per fettuccine (5 mm) che uno per spaghetti (2 mm) come standard — l'Atlas richiede un acquisto separato per la seconda larghezza. Fabbricazione italiana, qualità costruttiva equivalente all'Atlas, leggermente più pesante. Ai settaggi più sottili la manovella richiede marginalmente più pressione dell'Atlas; non è un problema per la maggior parte degli utenti. L'offerta migliore se si vogliono due larghezze di pasta fin dal primo giorno.",
+      "pros": [
+        "Include i coltelli per fettuccine (5 mm) e spaghetti (2 mm) come standard",
+        "Acciaio cromato di fabbricazione italiana — durabilità equivalente all'Atlas",
+        "Nessun acquisto aggiuntivo necessario per le due larghezze di pasta più comuni"
+      ],
+      "cons": [
+        "Leggermente più pesante dell'Atlas; resistenza marginalmente maggiore alla manovella ai settaggi più sottili"
+      ],
+      "grade": "A",
+      "specs": {
+        "Tipo": "Rullo manuale",
+        "Larghezza del rullo": "150 mm",
+        "Materiale": "Acciaio cromato",
+        "Coltelli inclusi": "Fettuccine (5 mm) + spaghetti (2 mm)",
+        "Peso": "Leggermente più pesante dell'Atlas",
+        "Origine": "Italia"
+      },
+      "scores": {
+        "Consistenza sfoglia": 4.8,
+        "Qualità costruttiva": 4.9,
+        "Facilità d'uso": 4.4,
+        "Valore": 5.0,
+        "Gamma di spessori": 4.8
+      }
+    },
+    {
+      "offerId": "kitchenaid-pasta-roller-attachment",
+      "badge": "La Migliore per i Proprietari di KitchenAid",
+      "review": "Se possiedi già una planetaria KitchenAid, questo accessorio la trasforma in un laminatoio per pasta motorizzato — la velocità costante del motore elimina la variabile del tempo manuale, producendo uno spessore di sfoglia più uniforme. Larghezza del rullo di 152 mm, include rullo, coltello per fettuccine e coltello per spaghetti. Vale la pena solo se si ha già il robot; acquistare un KitchenAid solo per la pasta non è conveniente a 350–500 $ per il robot.",
+      "pros": [
+        "Il rullo motorizzato produce uno spessore di sfoglia più consistente rispetto alla manovella manuale",
+        "Efficiente in termini di spazio — usa il tuo investimento KitchenAid esistente",
+        "Qualità del rullo in acciaio equivalente a Marcato/Imperia"
+      ],
+      "cons": [
+        "Vale la pena solo se possiedi già un KitchenAid — 350–500 $ di planetaria + 150–200 $ di accessorio solo per la pasta non è conveniente"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Tipo": "Accessorio per planetaria (KitchenAid)",
+        "Larghezza del rullo": "152 mm",
+        "Azionamento": "Motorizzato tramite planetaria",
+        "Include": "Rullo + fettuccine + coltello per spaghetti",
+        "Compatibilità": "Tutte le planetarie KitchenAid a testa inclinabile e a ciotola sollevabile",
+        "Prezzo": "~150–200 $ (solo accessorio)"
+      },
+      "scores": {
+        "Consistenza sfoglia": 5.0,
+        "Qualità costruttiva": 4.8,
+        "Facilità d'uso": 4.8,
+        "Valore": 3.5,
+        "Gamma di spessori": 4.6
+      }
+    },
+    {
+      "offerId": "philips-pasta-maker-7000",
+      "badge": "La Migliore Automatica",
+      "review": "Il Philips è l'unica vera macchina per pasta set-and-forget qui — aggiunta farina e liquido, premi start, pasta fresca in 15 minuti, nessuna preparazione dell'impasto né tecnica di laminazione richiesta. Produce forme tubolari e sagomate (penne, rigatoni, spaghetti tramite trafile) che i rulli non possono produrre. La consistenza estrusa è più ruvida della pasta al rullo, il che in realtà trattiene meglio il sugo. La pulizia richiede smontaggio entro 30 minuti prima che l'impasto si asciughi; più rumoroso dei rulli manuali.",
+      "pros": [
+        "Completamente automatico — pasta in 15 minuti senza tecnica",
+        "Produce forme tubolari (penne, rigatoni) impossibili su un rullo",
+        "La consistenza estrusa più ruvida trattiene meglio i sughi densi"
+      ],
+      "cons": [
+        "La pulizia richiede smontaggio entro 30 minuti; più rumoroso dei rulli manuali"
+      ],
+      "grade": "B",
+      "specs": {
+        "Tipo": "Estrusore automatico",
+        "Tempo di produzione": "~15 minuti",
+        "Trafile incluse": "Spaghetti, fettuccine, penne, lasagne",
+        "Trafile aggiuntive": "Disponibili separatamente",
+        "Pulizia": "Smontare entro 30 min.",
+        "Fascia di prezzo": "200–300 $"
+      },
+      "scores": {
+        "Consistenza sfoglia": 4.0,
+        "Qualità costruttiva": 4.3,
+        "Facilità d'uso": 5.0,
+        "Valore": 3.8,
+        "Gamma di spessori": 3.5
+      }
+    },
+    {
+      "offerId": "ronco-pasta-maker",
+      "badge": "La Migliore Automatica Economica",
+      "review": "Il Ronco è un estrusore automatico economico a 80–120 $ — meno opzioni di trafile e qualità costruttiva inferiore al Philips, ma il meccanismo di mescolatura ed estrusione automatica è funzionalmente simile. Adeguato per uso occasionale e un modo ragionevole per provare la produzione automatica di pasta prima di impegnarsi con il Philips. La qualità della pasta e la longevità della macchina sono inferiori alle opzioni premium.",
+      "pros": [
+        "Ingresso economico nella pasta automatica — 80–120 $ vs. 200–300 $ del Philips",
+        "Mescolatura ed estrusione automatiche — nessuna tecnica manuale richiesta",
+        "Risultati accettabili per uso occasionale"
+      ],
+      "cons": [
+        "Meno opzioni di trafile e durabilità costruttiva inferiore al Philips; la qualità della pasta è notevolmente inferiore"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Tipo": "Estrusore automatico economico",
+        "Tempo di produzione": "~15–20 minuti",
+        "Fascia di prezzo": "80–120 $",
+        "Costruzione": "Prevalentemente plastica, più semplice del Philips",
+        "Disponibilità trafile": "Limitata vs. Philips",
+        "Migliore uso": "Uso occasionale / di prova"
+      },
+      "scores": {
+        "Consistenza sfoglia": 3.5,
+        "Qualità costruttiva": 3.2,
+        "Facilità d'uso": 4.8,
+        "Valore": 4.5,
+        "Gamma di spessori": 3.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per gli appassionati di pasta che fanno sfoglie e pasta ripiena",
+      "offerId": "marcato-atlas-150-pasta-maker",
+      "reason": "L'Atlas 150 è il punto di riferimento per una buona ragione — nove impostazioni di precisione, acciaio cromato durevole e il più ampio ecosistema di coltelli di terze parti di qualsiasi laminatoio domestico."
+    },
+    {
+      "label": "Per chi vuole due larghezze fin dal primo giorno",
+      "offerId": "imperia-pasta-maker-machine",
+      "reason": "Include i coltelli per fettuccine e spaghetti come standard — nessun acquisto separato necessario per le due larghezze di pasta più comuni."
+    },
+    {
+      "label": "Per i proprietari di planetaria KitchenAid",
+      "offerId": "kitchenaid-pasta-roller-attachment",
+      "reason": "Coerenza motorizzata senza ingombro aggiuntivo — il miglior aggiornamento per chi usa già un KitchenAid per altri compiti."
+    },
+    {
+      "label": "Per i cuochi infrasettimanali che vogliono pasta senza il processo",
+      "offerId": "philips-pasta-maker-7000",
+      "reason": "Aggiungi farina e liquido, premi start, ottieni pasta in 15 minuti — e produce forme tubolari che i rulli non possono produrre."
+    }
+  ]
 }

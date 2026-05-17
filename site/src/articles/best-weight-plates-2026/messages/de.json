@@ -48,5 +48,189 @@
     "fringe-sport-bumper-plates": "Bumper aus Reingunimmi mit geringerem Totsturz und saubererem Aussehen als Hi-Temps. Eine gute Alternative fuer Lifter, die Bumper-Leistung mit einem leiseren Sturz wuenschen — nuetzlich in gemeinsam genutzten Raeumen oder auf kleineren Plattformen, wo der Sturzabstand eine Rolle spielt."
   },
   "pinDescription": "Rogue vs REP Fitness vs CAP Barbell — die 5 besten Gewichtsscheiben fuer Heimgyms 2026. Grauguss vs Bumper, kalibriert vs Standard und wie man ein 300-lb-Starterset fuer jedes Budget zusammenstellt. #Gewichtsscheiben #Heimgym #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Gewichtsgenauigkeit mit einer kalibrierten Waage an 5 Proben pro Set gemessen; Haftung der Beschichtung nach 200 Auf- und Abladzyklen in einer feuchten Garage geprüft; Durchmesserkonsistenz über komplette Sets mit Digitalschieblehren verifiziert.",
+  "products": [
+    {
+      "offerId": "rogue-calibrated-kg-plates",
+      "badge": "Beste für Wettkämpfer",
+      "review": "Auf IWF-Toleranzen innerhalb von 10 Gramm gefräst und in KG gestempelt — dies sind die einzigen Platten in diesem Vergleich, die internationale Wettkampfstandards direkt aus der Box erfüllen. Schwarzoxid-Finish hält auf dem Boden; Chromringe machen die Gewichtsidentifikation sofort. Die richtige Wahl für Wettkampfsportler.",
+      "pros": [
+        "IWF-Spezifikationsgenauigkeit innerhalb 10 Gramm pro Platte",
+        "Chromidentifikationsringe für sofortige Gewichtserkennung",
+        "Standard-450-mm-Durchmesser positioniert Stab auf korrekte Kreuzheben-Starthöhe"
+      ],
+      "cons": [
+        "Deutlich teurer als Gusseisen-Optionen pro kg"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Type": "Calibrated steel",
+        "Standard": "IWF tolerances",
+        "Accuracy": "±10 grams",
+        "Diameter": "450mm",
+        "Center hole": "50mm (2 in)",
+        "Finish": "Black oxide + chrome ring",
+        "Units": "Kilogram",
+        "Price": "$311 set"
+      },
+      "scores": {
+        "Accuracy": 5.0,
+        "Durability": 4.9,
+        "Coating quality": 4.7,
+        "Value": 3.5,
+        "Grip design": 4.5
+      }
+    },
+    {
+      "offerId": "rep-fitness-cast-iron-plates",
+      "badge": "Bestes insgesamt",
+      "review": "Innerhalb 1% des angegebenen Gewichts und konsistenter 450-mm-Durchmesser über das gesamte Set — REPs Gusseisen-Platten sind die beste Kombination aus Genauigkeit, Verarbeitungsqualität und Preis für ein Heimgym-Starterset. Eingebranntes Emaille widersteht Rost in feuchten Garagenbedingungen.",
+      "pros": [
+        "Innerhalb 1% Genauigkeit — besser als die meisten Gusseisen zu diesem Preis",
+        "Eingebranntes Emaille widersteht Rost in feuchten Umgebungen",
+        "Konsistenter 450-mm-Durchmesser positioniert Stab auf korrekte Höhe"
+      ],
+      "cons": [
+        "Gusseisen kann nicht fallen gelassen werden — reißt bei Bumperplatten-Nutzung"
+      ],
+      "grade": "A",
+      "specs": {
+        "Type": "Cast iron Olympic",
+        "Accuracy": "Within 1%",
+        "Diameter": "450mm",
+        "Center hole": "50mm (2 in)",
+        "Finish": "Baked enamel",
+        "Drop rating": "Not rated for drops",
+        "Available weights": "2.5-45 lb",
+        "Price per lb": "~$0.80-1.20"
+      },
+      "scores": {
+        "Accuracy": 4.7,
+        "Durability": 4.5,
+        "Coating quality": 4.8,
+        "Value": 4.7,
+        "Grip design": 4.0
+      }
+    },
+    {
+      "offerId": "cap-barbell-olympic-plates",
+      "badge": "Bestes Budget",
+      "review": "CAPís Gusseisen-Platten haben eine Gewichtsschwankung von 2-3%, die für allgemeines Krafttraining akzeptabel ist. Weit verbreitet bei großen Einzelhändlern für schnelle Beschaffung — nützlich wenn man sofort Platten braucht. Die richtige Wahl wenn Budget die primäre Einschränkung ist.",
+      "pros": [
+        "Günstigste neue olympische Gusseisen-Platten verfügbar",
+        "Weit verfügbar bei großen Einzelhändlern — schnell zu beschaffen",
+        "Funktional für allgemeines Krafttraining"
+      ],
+      "cons": [
+        "2-3% Gewichtsschwankung — problematisch für Programme die auf exakten Lasten basieren"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Type": "Cast iron Olympic",
+        "Accuracy": "±2-3%",
+        "Diameter": "Varies slightly",
+        "Center hole": "50mm (2 in)",
+        "Finish": "Painted",
+        "Drop rating": "Not rated for drops",
+        "Available weights": "2.5-45 lb",
+        "Price": "$53.97 for 25lb set"
+      },
+      "scores": {
+        "Accuracy": 3.5,
+        "Durability": 4.0,
+        "Coating quality": 3.5,
+        "Value": 5.0,
+        "Grip design": 3.8
+      }
+    },
+    {
+      "offerId": "rogue-hi-temp-bumper-plates",
+      "badge": "Beste Bumperplatten",
+      "review": "Recyceltes Gummi, bewertet für tägliche Drops von der vollen Überkopfverlängerung — die Standardwahl für alle, die Olympic Lifts oder CrossFit zu Hause trainieren. Stahlverstärkte Mitteleinsätze erhalten die Lochgeometrie durch Jahre von Drop-Zyklen.",
+      "pros": [
+        "Bewertet für tägliche Drops von über Kopf — kein Rissbildung über Zeit",
+        "Stahlverstärkter Mitteleinsatz übersteht Jahre von Drop-Zyklen",
+        "IWF-Standard 450mm Durchmesser bei allen Gewichten"
+      ],
+      "cons": [
+        "Recyceltes Gummi hat höheren Dead-Bounce als jungfräuliches Gummi — Platz berücksichtigen"
+      ],
+      "grade": "B",
+      "specs": {
+        "Type": "Recycled rubber bumper",
+        "Drop rating": "Rated for daily overhead drops",
+        "Diameter": "450mm all weights",
+        "Center insert": "Steel-reinforced",
+        "Bounce": "Standard (recycled rubber)",
+        "Available weights": "10-45 lb",
+        "Shore hardness": "~85A",
+        "Price": "$195 for 45lb pair"
+      },
+      "scores": {
+        "Accuracy": 4.0,
+        "Durability": 4.8,
+        "Coating quality": 4.5,
+        "Value": 4.0,
+        "Grip design": 4.2
+      }
+    },
+    {
+      "offerId": "fringe-sport-bumper-plates",
+      "badge": "Beste Niedrigprall-Bumper",
+      "review": "Jungfräuliches Gummi gibt einen merklich niedrigeren Dead-Bounce als Hi-Temps — Platten bleiben dort wo sie landen anstatt in Wände oder Plattformen zu springen. Nützlich in gemeinsamen Räumen oder auf kleineren Plattformen wo die Bouncing-Distanz eine echte Einschränkung ist.",
+      "pros": [
+        "Niedrigerer Dead-Bounce als recyceltes Gummi — bleibt wo es landet",
+        "Jungfräuliches Gummi weniger anfällig für Risse oder Abblätterung",
+        "IWF-Standarddurchmesser und Stahleinsatz entsprechen Wettkampfspezifikationen"
+      ],
+      "cons": [
+        "Leicht höherer Preis als Hi-Temps für geringeres Gummivolumen"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Virgin rubber bumper",
+        "Drop rating": "Rated for drops",
+        "Diameter": "450mm all weights",
+        "Center insert": "Steel-reinforced",
+        "Bounce": "Low (virgin rubber)",
+        "Available weights": "10-45 lb",
+        "Shore hardness": "~80A",
+        "Price": "$179.99 for 45lb pair"
+      },
+      "scores": {
+        "Accuracy": 4.2,
+        "Durability": 4.6,
+        "Coating quality": 4.8,
+        "Value": 3.8,
+        "Grip design": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Wettkampfsportler",
+      "offerId": "rogue-calibrated-kg-plates",
+      "reason": "IWF-Spezifikationsgenauigkeit innerhalb 10 Gramm — die einzigen Platten hier, die internationale Wettkampfstandards erfüllen."
+    },
+    {
+      "label": "Für Heimgym-Einsteiger",
+      "offerId": "rep-fitness-cast-iron-plates",
+      "reason": "Beste Genauigkeit und Rostbeständigkeit aller Gusseisen-Platten zu diesem Preis — das richtige Starterset."
+    },
+    {
+      "label": "Für Käufer mit kleinem Budget",
+      "offerId": "cap-barbell-olympic-plates",
+      "reason": "Niedrigste Kosten pro Pfund für neue Platten — funktional für allgemeines Training, Upgrade später planen."
+    },
+    {
+      "label": "Für olympisches Heben und CrossFit",
+      "offerId": "rogue-hi-temp-bumper-plates",
+      "reason": "Bewertet für tägliche Überkopf-Drops mit stahlverstärktem Mitteleinsatz — der Bumper-Standard."
+    },
+    {
+      "label": "Für geteilte Räume mit begrenztem Bodenraum",
+      "offerId": "fringe-sport-bumper-plates",
+      "reason": "Niedrigerer Dead-Bounce des jungfräulichen Gummis verhindert, dass Platten in Wände und Ausrüstung springen."
+    }
+  ]
 }

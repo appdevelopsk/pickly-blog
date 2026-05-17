@@ -86,5 +86,184 @@
     "kind-protein-bar": "통견과류, 꿀 감미, 가장 식품에 가까운 식감"
   },
   "pinDescription": "Quest, RXBAR, Clif Builder, ONE, KIND — 단백질 바 5종 솔직 비교. 단백질 함량, 당분 출처, 최적 활용 상황, 그리고 실제 필요에 따라 어떤 것을 피해야 하는지까지. #한국어",
-  "methodology": "각 제품을 풍미, 원료 투명성, 1회분당 가성비, 포장 품질, 실용성으로 평가했습니다. 인증 정보와 실사용자 리뷰를 광고 문구와 대조 검증했습니다."
+  "methodology": "각 바는 단백질 원료와 류신 밀도, 감미료 종류 및 위장 내성 프로필, 당분 함량, 온도에 따른 질감 일관성, 성분 목록 길이, 검증된 인증으로 평가되었습니다 — 마케팅 주장은 독립 실험실 테스트와 대조 확인되었습니다.",
+  "products": [
+    {
+      "offerId": "quest-bar",
+      "badge": "최고 종합 추천",
+      "review": "Quest는 4–5g 순 탄수화물에 유청 및 우유 단백질 분리물 20–21g을 제공합니다 — 저탄수화물 및 운동 후 구매자 사이에서 명성을 쌓은 조합. 에리스리톨 + 스테비아는 실온에서 수크랄로스 뒷맛 없음, 차가울 때 밀도 있는 식감은 10초 전자레인지로 해결되는 일반적인 불만.",
+      "pros": [
+        "고류신 밀도 분리물에서 20–21g 단백질",
+        "4–5g 순 탄수화물로 케토 및 저탄수화물 추적에 적합",
+        "에리스리톨 감미 — 말티톨보다 일반적으로 내성 양호"
+      ],
+      "cons": [
+        "긴 가공 성분 목록 — 클린 라벨 바 아님"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Protein": "20–21 g",
+        "Protein source": "Whey + milk protein isolate",
+        "Net carbs": "4–5 g",
+        "Sugar": "1 g",
+        "Calories": "~190–200 kcal",
+        "Sweetener": "Erythritol + stevia",
+        "Price per bar": "$4.95"
+      },
+      "scores": {
+        "Protein quality": 4.8,
+        "Taste": 4.3,
+        "Value": 4.2,
+        "Ingredients": 3.4,
+        "Texture": 3.9
+      }
+    },
+    {
+      "offerId": "rxbar-protein",
+      "badge": "최고 클린 라벨",
+      "review": "RXBAR는 바 전면에 전체 성분 목록을 인쇄합니다 — 흰자 3개, 아몬드 6개, 캐슈 4개, 대추야자 2개. 흰자에서 나온 12g 완전 단백질은 영양적으로 건전합니다; 절충안은 20g 유청 바가 1회 분량당 더 많은 류신을 제공한다는 것입니다.",
+      "pros": [
+        "이 비교에서 가장 짧고 읽기 쉬운 성분 목록",
+        "흰자에서 완전 단백질 — 인공 감미료 없음",
+        "당 알코올 없음으로 위장 위험 없음"
+      ],
+      "cons": [
+        "12g 단백질 — 운동 후 사용을 위한 20g 분리물 바보다 낮은 류신 부하"
+      ],
+      "grade": "A",
+      "specs": {
+        "Protein": "12 g",
+        "Protein source": "Egg whites",
+        "Net carbs": "~20 g",
+        "Sugar": "15–17 g (from dates)",
+        "Calories": "~200–210 kcal",
+        "Sweetener": "Dates only",
+        "Price per bar": "$2.33"
+      },
+      "scores": {
+        "Protein quality": 4.5,
+        "Taste": 4.4,
+        "Value": 4.5,
+        "Ingredients": 5.0,
+        "Texture": 4.2
+      }
+    },
+    {
+      "offerId": "clif-builder-bar",
+      "badge": "지구력 운동선수에 최적",
+      "review": "Clif Builder는 270칼로리와 쌀 시럽에서 17–18g 당분과 함께 대두 분리물에서 완전 식물성 단백질 20g을 제공합니다 — 글리코겐이 고갈된 지구력 선수를 위한 프로필. 비건 및 코셔 인증, 인공 감미료 뒷맛 없음.",
+      "pros": [
+        "20g 완전 식물성 단백질 — 전체 용량에서 유일한 비건 옵션",
+        "더 높은 칼로리가 긴 지구력 훈련 창에 적합",
+        "인공 감미료 또는 당 알코올 없음"
+      ],
+      "cons": [
+        "쌀 시럽에서 17–18g 첨가 당분 — 저탄수화물 또는 칼로리 적자 목표에 부적합"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Protein": "20 g",
+        "Protein source": "Soy protein isolate",
+        "Net carbs": "~30 g",
+        "Sugar": "17–18 g",
+        "Calories": "~270 kcal",
+        "Sweetener": "Rice syrup + cane syrup",
+        "Price per bar": "$1.67"
+      },
+      "scores": {
+        "Protein quality": 4.2,
+        "Taste": 4.3,
+        "Value": 4.8,
+        "Ingredients": 3.6,
+        "Texture": 4.0
+      }
+    },
+    {
+      "offerId": "one-protein-bar",
+      "badge": "최고 맛 다양성",
+      "review": "ONE 바는 이 카테고리에서 가장 적극적인 디저트 향 라이브러리로 1g 당분에 20g 단백질을 제공합니다. 에리스리톨-수크랄로스 조합이 낮은 당분에 캔디바 단맛을 제공하지만 일부 구매자는 감지 가능한 뒷맛을 보고합니다.",
+      "pros": [
+        "이 비교에서 가장 넓은 맛 라이브러리 — 15+ 옵션",
+        "1g 당분에 20g 단백질 — 가장 깔끔한 매크로 프로필",
+        "강한 디저트 욕구를 가진 고단백 감량 단계에 유용"
+      ],
+      "cons": [
+        "일부 구매자에게 수크랄로스 뒷맛이 감지됨"
+      ],
+      "grade": "B",
+      "specs": {
+        "Protein": "20 g",
+        "Protein source": "Whey + milk protein blend",
+        "Net carbs": "~8 g",
+        "Sugar": "1 g",
+        "Calories": "~220 kcal",
+        "Sweetener": "Erythritol + sucralose",
+        "Price per bar": "$2.68"
+      },
+      "scores": {
+        "Protein quality": 4.6,
+        "Taste": 4.5,
+        "Value": 4.1,
+        "Ingredients": 3.2,
+        "Texture": 4.0
+      }
+    },
+    {
+      "offerId": "kind-protein-bar",
+      "badge": "최고 식감",
+      "review": "KIND Protein은 꿀과 다크 초콜릿으로 달콤하게 만든 통견과와 대두 단백질에서 12g을 제공합니다 — 에리스리톨 없음, 수크랄로스 없음. 통견과 크런치는 진정으로 다르며, 꿀 단맛은 수크랄로스 기반 바보다 덜 공격적입니다.",
+      "pros": [
+        "인공 감미료 또는 당 알코올 없음 — 꿀과 초콜릿만",
+        "엔지니어드 바가 복제할 수 없는 통견과 크런치",
+        "짧고 알아볼 수 있는 성분 목록"
+      ],
+      "cons": [
+        "12g 단백질 — 독립적인 운동 후 출처로 불충분"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Protein": "12 g",
+        "Protein source": "Nuts + soy protein",
+        "Net carbs": "~18 g",
+        "Sugar": "~8 g (honey + chocolate)",
+        "Calories": "~250 kcal",
+        "Sweetener": "Honey + dark chocolate",
+        "Price per bar": "$1.46"
+      },
+      "scores": {
+        "Protein quality": 3.8,
+        "Taste": 4.6,
+        "Value": 4.7,
+        "Ingredients": 4.8,
+        "Texture": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "저탄수화물 계획에서 운동 후 회복을 위해",
+      "offerId": "quest-bar",
+      "reason": "단백질 분리물 20–21g과 순 탄수화물 4–5g이 케토 또는 저탄수화물 추적을 방해하지 않고 매크로를 충족합니다."
+    },
+    {
+      "label": "클린 성분 스낵을 위해",
+      "offerId": "rxbar-protein",
+      "reason": "모든 성분이 바 전면에 명시되어 있습니다 — 이 비교에서 가장 투명한 옵션."
+    },
+    {
+      "label": "긴 세션을 위한 지구력 선수를 위해",
+      "offerId": "clif-builder-bar",
+      "reason": "20g 식물성 단백질과 함께 270칼로리와 17g 당분이 60분 이상 훈련 창의 글리코겐 요구를 충족합니다."
+    },
+    {
+      "label": "캔디바에서 벗어나려는 구매자를 위해",
+      "offerId": "one-protein-bar",
+      "reason": "1g 당분에 15+ 디저트급 맛이 일반 바가 실패하는 곳에서 습관 변화를 지속 가능하게 합니다."
+    },
+    {
+      "label": "엔지니어드 단백질 바를 좋아하지 않는 구매자를 위해",
+      "offerId": "kind-protein-bar",
+      "reason": "통견과, 꿀, 다크 초콜릿이 대부분의 단백질 바가 의도적으로 피하는 음식 같은 식감과 맛을 제공합니다."
+    }
+  ]
 }

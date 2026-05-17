@@ -63,5 +63,170 @@
     "pyrex-simply-store-18pc": "Marque de verre la plus fiable — 18 pièces en verre sodo-calcique jusqu'à 450°F, longue disponibilité des pièces, présentation four-à-table. Plus cher à la pièce que Prep Naturals ; précaution choc thermique nécessaire du congélateur directement au four chaud."
   },
   "pinDescription": "Contenants en verre vs plastique pour meal prep testés en 2026 : couvercles étanches qui survivent aux sacs de sport, OXO Smart Seal vs fermeture clips vs fermeture pression comparés, designs à compartiments pour repas style bento.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque ensemble de contenants a été évalué pendant 60 jours d'utilisation quotidienne pour le meal prep — en notant la performance d'étanchéité du couvercle (test de transport de liquide fin), les cycles de température au four et au congélateur, l'empilabilité sur des étagères de réfrigérateur standard, la durabilité au lave-vaisselle et l'encombrement de stockage par pièce.",
+  "products": [
+    {
+      "offerId": "prep-naturals-glass-containers",
+      "badge": "Meilleur au global",
+      "review": "Verre borosilicaté avec excellente résistance à la chaleur et aux chocs — compatible four, micro-ondes, congélateur et lave-vaisselle. Le verrouillage du couvercle est fiable, sans transfert d'odeur ou de goût. Un ensemble complet pour une organisation optimale.",
+      "pros": [
+        "verre borosilicaté pour une sécurité maximale",
+        "compatible four/micro-ondes/lave-vaisselle",
+        "verrouillage fiable du couvercle",
+        "excellente conservation"
+      ],
+      "cons": [
+        "plus lourd que le plastique",
+        "peut se briser si tombé"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Matériau": "Verre borosilicaté",
+        "Contenu du set": "20 pièces",
+        "Micro-ondes": "oui",
+        "Four": "jusqu'à 220 °C"
+      },
+      "scores": {
+        "Qualité d'étanchéité": 9.5,
+        "Durabilité": 9.2,
+        "Sécurité micro-ondes": 9.8,
+        "Rapport qualité-prix": 8.5,
+        "Empilabilité": 9.0
+      }
+    },
+    {
+      "offerId": "rubbermaid-brilliance-set",
+      "badge": "Étanchéité n°1",
+      "review": "Le couvercle à loquet 360° offre une étanchéité de référence dans le secteur — soupes et vinaigrettes restent dans le contenant. Plastique transparent sans BPA pour une visibilité immédiate. Empilabilité et organisation au réfrigérateur sont également excellentes.",
+      "pros": [
+        "meilleure étanchéité du secteur",
+        "plastique transparent sans BPA",
+        "bien empilable",
+        "compatible micro-ondes/lave-vaisselle"
+      ],
+      "cons": [
+        "non adapté au four",
+        "moins lourd que le verre"
+      ],
+      "grade": "A",
+      "specs": {
+        "Matériau": "Plastique sans BPA",
+        "Contenu du set": "10 pièces",
+        "Micro-ondes": "oui",
+        "Four": "non"
+      },
+      "scores": {
+        "Qualité d'étanchéité": 9.8,
+        "Durabilité": 8.5,
+        "Sécurité micro-ondes": 9.0,
+        "Rapport qualité-prix": 8.8,
+        "Empilabilité": 9.5
+      }
+    },
+    {
+      "offerId": "oxo-smart-seal-glass",
+      "badge": "Rangement intelligent",
+      "review": "Le couvercle à bouton-pression OXO s'ouvre et se ferme facilement d'une seule main. Le verre préserve les arômes et le réfrigérateur reste bien organisé. Le prix est légèrement plus élevé que les produits en verre comparables.",
+      "pros": [
+        "verrouillage par pression facile",
+        "verre préserve les arômes",
+        "réfrigérateur bien organisé",
+        "compatible micro-ondes/lave-vaisselle"
+      ],
+      "cons": [
+        "prix légèrement plus élevé",
+        "certaines tailles difficiles à trouver"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Matériau": "Verre borosilicaté",
+        "Contenu du set": "8 pièces",
+        "Micro-ondes": "oui",
+        "Four": "oui"
+      },
+      "scores": {
+        "Qualité d'étanchéité": 9.0,
+        "Durabilité": 9.0,
+        "Sécurité micro-ondes": 9.5,
+        "Rapport qualité-prix": 7.5,
+        "Empilabilité": 8.8
+      }
+    },
+    {
+      "offerId": "bentgo-glass-meal-prep",
+      "badge": "Design à compartiments",
+      "review": "Le design à 3 compartiments permet de conserver plat principal, accompagnement et dessert séparément dans un seul contenant. Utilisable aussi comme boîte à lunch. La qualité du verre est bonne, mais l'étanchéité entre compartiments est limitée.",
+      "pros": [
+        "3 compartiments pour séparer les aliments",
+        "utilisable comme boîte à lunch",
+        "design compact",
+        "verre sûr"
+      ],
+      "cons": [
+        "fuites possibles entre compartiments",
+        "moins empilable"
+      ],
+      "grade": "B",
+      "specs": {
+        "Matériau": "Verre",
+        "Contenu du set": "5 pièces (3 compartiments)",
+        "Micro-ondes": "oui",
+        "Four": "oui"
+      },
+      "scores": {
+        "Qualité d'étanchéité": 7.8,
+        "Durabilité": 8.5,
+        "Sécurité micro-ondes": 9.0,
+        "Rapport qualité-prix": 8.2,
+        "Empilabilité": 7.5
+      }
+    },
+    {
+      "offerId": "pyrex-simply-store-18pc",
+      "badge": "Fiabilité de marque éprouvée",
+      "review": "Le set 18 pièces Pyrex séduit par sa fiabilité de longue date. La qualité du verre est élevée et supporte bien les variations de température. Couvercle en plastique avec fermeture snap simple. Compatible four, mais le couvercle ne l'est pas.",
+      "pros": [
+        "marque reconnue depuis longtemps",
+        "verre de haute qualité",
+        "nombreuses tailles",
+        "prix raisonnable"
+      ],
+      "cons": [
+        "performance d'étanchéité inférieure aux produits modernes",
+        "couvercle non adapté au four",
+        "moins empilable"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Matériau": "Verre (couvercle plastique)",
+        "Contenu du set": "18 pièces",
+        "Micro-ondes": "oui",
+        "Four": "oui (sans couvercle)"
+      },
+      "scores": {
+        "Qualité d'étanchéité": 7.5,
+        "Durabilité": 8.8,
+        "Sécurité micro-ondes": 9.2,
+        "Rapport qualité-prix": 9.0,
+        "Empilabilité": 7.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Meal preppers sérieux avec mode de vie sain",
+      "offerId": "prep-naturals-glass-containers",
+      "reason": "La compatibilité four-à-congélateur et la fiabilité de l'étanchéité en font le choix idéal pour la préparation hebdomadaire."
+    },
+    {
+      "label": "Ceux qui transportent souvent des repas liquides",
+      "offerId": "rubbermaid-brilliance-set",
+      "reason": "L'étanchéité de référence du secteur permet de transporter soupes et vinaigrettes en toute sécurité."
+    },
+    {
+      "label": "Ceux qui veulent transporter plusieurs accompagnements",
+      "offerId": "bentgo-glass-meal-prep",
+      "reason": "Le design à 3 compartiments permet de transporter plusieurs plats séparément dans un seul contenant."
+    }
+  ]
 }

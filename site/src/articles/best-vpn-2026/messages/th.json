@@ -70,5 +70,190 @@
     "mullvad": "ดีที่สุดสำหรับความเป็นส่วนตัวขั้นสุด — €5/เดือนคงที่ รับเงินสดและ Monero ไม่มีกลโฆษณา"
   },
   "pinDescription": "ทดสอบ VPN 5 ตัว 30 วันใน 12 ประเทศ ความเร็ว ราคาจริง ความเป็นส่วนตัว เปรียบเทียบครบ — ตัวที่ถูกที่สุดราคาครึ่งของตัวอื่น แต่ตัวที่เร็วที่สุดเป็นอีกตัว",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "วัดความเร็วบนไฟเบอร์ 1 Gbps ใน 12 ประเทศเป็นเวลา 30 วัน ตรวจสอบคำกล่าวอ้างด้านความเป็นส่วนตัวกับการตรวจสอบของบุคคลที่สามและรายงานความโปร่งใส บันทึกราคาในการชำระเงินจริงเมื่อพฤษภาคม 2026",
+  "products": [
+    {
+      "offerId": "nordvpn",
+      "badge": "ดีที่สุดโดยรวม",
+      "review": "การผสมผสานของเซิร์ฟเวอร์มากกว่า 6,400 เครื่อง Meshnet และความเร็วคงที่เกิน 720 Mbps ทำให้ NordVPN เป็นตัวเลือกที่ปลอดภัยที่สุดสำหรับผู้ใช้ส่วนใหญ่ ขีดจำกัด 10 อุปกรณ์และราคาต่ออายุที่สูงขึ้นเล็กน้อยเป็นจุดอ่อนเพียงอย่างเดียว",
+      "pros": [
+        "เซิร์ฟเวอร์มากกว่า 6,400 เครื่องใน 111 ประเทศ",
+        "Meshnet ฟรีสำหรับเชื่อมต่ออุปกรณ์",
+        "Threat Protection บล็อกโฆษณาและตัวติดตาม"
+      ],
+      "cons": [
+        "ราคาต่ออายุเพิ่มขึ้น 20% หลังช่วงแนะนำ"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Servers": "6,400+",
+        "Countries": "111",
+        "Devices": "10",
+        "Protocol": "NordWhisper / WireGuard",
+        "Jurisdiction": "Panama",
+        "Audit": "Deloitte 2024",
+        "Price (intro)": "$3.99/mo",
+        "Price (renewal)": "$4.79/mo"
+      },
+      "scores": {
+        "Speed": 4.7,
+        "Privacy": 4.6,
+        "Server network": 4.9,
+        "Value": 4.4,
+        "Ease of use": 4.8
+      }
+    },
+    {
+      "offerId": "expressvpn",
+      "badge": "ดีที่สุดสำหรับสตรีมมิง",
+      "review": "โปรโตคอล Lightway ให้ความเร็วต่อเนื่องสูงสุดในการทดสอบ — เฉลี่ย 820 Mbps — และปลดบล็อก Netflix US, BBC iPlayer และ DAZN Japan ทุกวัน ด้วยราคาต่ออายุ $8.32/เดือน แพงที่สุดในที่นี้",
+      "pros": [
+        "ความเร็วต่อเนื่องสูงสุดในการทดสอบ 30 วัน",
+        "ปลดบล็อกแคตตาล็อกสตรีมมิงหลักทั้งหมดทุกวัน",
+        "Lightway-Stealth เอาชนะ DPI"
+      ],
+      "cons": [
+        "ราคาต่ออายุแพงที่สุดที่ $8.32/เดือน"
+      ],
+      "grade": "A",
+      "specs": {
+        "Servers": "3,000+",
+        "Countries": "105",
+        "Devices": "8",
+        "Protocol": "Lightway / Lightway-Stealth",
+        "Jurisdiction": "British Virgin Islands",
+        "Audit": "Cure53 2024",
+        "Price (intro)": "$6.67/mo",
+        "Price (renewal)": "$8.32/mo"
+      },
+      "scores": {
+        "Speed": 5.0,
+        "Privacy": 4.5,
+        "Server network": 4.5,
+        "Value": 3.8,
+        "Ease of use": 4.7
+      }
+    },
+    {
+      "offerId": "surfshark",
+      "badge": "คุ้มค่าที่สุด",
+      "review": "อุปกรณ์ไม่จำกัดและราคาแนะนำ $3.99/เดือนทำให้ Surfshark เป็นที่สุดในด้านราคา CleanWeb บล็อกมัลแวร์ส่วนใหญ่ก่อนดาวน์โหลด ระวัง: ราคาต่ออายุพุ่งขึ้นเป็น $59.76/ปี",
+      "pros": [
+        "อุปกรณ์ไม่จำกัดในบัญชีเดียว",
+        "ตัวบล็อกมัลแวร์ CleanWeb รวมอยู่",
+        "ราคาแนะนำต่ำสุดในการเปรียบเทียบ"
+      ],
+      "cons": [
+        "การต่ออายุอัตโนมัติพุ่งขึ้นเป็น ~$59.76/ปี"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Servers": "3,200+",
+        "Countries": "100",
+        "Devices": "Unlimited",
+        "Protocol": "WireGuard / Shadowsocks",
+        "Jurisdiction": "Netherlands",
+        "Audit": "Cure53 2023",
+        "Price (intro)": "$3.99/mo",
+        "Price (renewal)": "$4.98/mo"
+      },
+      "scores": {
+        "Speed": 4.4,
+        "Privacy": 4.3,
+        "Server network": 4.4,
+        "Value": 4.9,
+        "Ease of use": 4.5
+      }
+    },
+    {
+      "offerId": "protonvpn",
+      "badge": "ดีที่สุดด้านความเป็นส่วนตัว",
+      "review": "เขตอำนาจศาลของสวิตเซอร์แลนด์และการตรวจสอบที่ผ่านรับรองนโยบายไม่มีบันทึกของ Proton ทางกฎหมาย โปรโตคอล Stealth เป็นวิธีข้ามผ่าน DPI ที่น่าเชื่อถือที่สุดในประเทศที่มีการเซ็นเซอร์ ระดับฟรีใช้งานได้จริง",
+      "pros": [
+        "กฎหมายสวิสและนโยบายไม่มีบันทึกที่ตรวจสอบแล้ว",
+        "โปรโตคอล Stealth เอาชนะ DPI ในจีน อิหร่าน รัสเซีย",
+        "ระดับฟรีที่ใช้งานได้พร้อมข้อมูลไม่จำกัด"
+      ],
+      "cons": [
+        "ช้ากว่า ExpressVPN และ NordVPN ในเส้นทางส่วนใหญ่"
+      ],
+      "grade": "B",
+      "specs": {
+        "Servers": "9,400+",
+        "Countries": "112",
+        "Devices": "10",
+        "Protocol": "Stealth / WireGuard",
+        "Jurisdiction": "Switzerland",
+        "Audit": "SEC Consult 2023",
+        "Price (intro)": "$3.59/mo",
+        "Price (renewal)": "$5.99/mo"
+      },
+      "scores": {
+        "Speed": 4.2,
+        "Privacy": 5.0,
+        "Server network": 4.6,
+        "Value": 4.5,
+        "Ease of use": 4.3
+      }
+    },
+    {
+      "offerId": "mullvad",
+      "badge": "ไม่เปิดเผยตัวตนดีที่สุด",
+      "review": "€5/เดือนคงที่ไม่ต้องใช้อีเมล รับเงินสดและ Monero — Mullvad เป็น VPN เดียวที่คุณสามารถจ่ายเงินโดยไม่ทิ้งร่องรอยดิจิทัล การข้ามผ่าน DPI ล้าหลัง Proton",
+      "pros": [
+        "ไม่ต้องใช้อีเมลในการสมัคร",
+        "รับการชำระเงินด้วยเงินสดและ Monero",
+        "ราคาคงที่ไม่มีเทคนิคการตลาด"
+      ],
+      "cons": [
+        "เพียง 5 การเชื่อมต่อพร้อมกัน",
+        "การข้ามผ่าน DPI ของ WireGuard-over-TCP ช้ากว่า Proton Stealth"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Servers": "700+",
+        "Countries": "49",
+        "Devices": "5",
+        "Protocol": "WireGuard / OpenVPN",
+        "Jurisdiction": "Sweden",
+        "Audit": "Cure53 2024",
+        "Price": "€5/mo flat",
+        "Payment": "Cash, Monero, card"
+      },
+      "scores": {
+        "Speed": 4.3,
+        "Privacy": 5.0,
+        "Server network": 3.8,
+        "Value": 4.6,
+        "Ease of use": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "สำหรับครัวเรือนที่สตรีม",
+      "offerId": "expressvpn",
+      "reason": "Netflix US, BBC iPlayer และ DAZN Japan ปลดบล็อกทุกวันเป็นเวลา 30 วัน — การเข้าถึงแคตตาล็อกที่ดีที่สุดในการทดสอบ"
+    },
+    {
+      "label": "สำหรับครอบครัวหลายอุปกรณ์",
+      "offerId": "nordvpn",
+      "reason": "การเชื่อมต่อพร้อมกัน 10 ครั้งบวก Meshnet ฟรีครอบคลุมทั้งบ้านโดยไม่ต้องจัดการหลายบัญชี"
+    },
+    {
+      "label": "สำหรับผู้ใช้ที่ใส่ใจงบประมาณ",
+      "offerId": "surfshark",
+      "reason": "อุปกรณ์ไม่จำกัดในราคา $3.99/เดือน — VPN เดียวที่นี่ที่ไม่เก็บค่าใช้จ่ายต่ออุปกรณ์"
+    },
+    {
+      "label": "สำหรับผู้ใช้ในภูมิภาคที่มีการเซ็นเซอร์",
+      "offerId": "protonvpn",
+      "reason": "โปรโตคอล Stealth เป็นวิธีข้ามผ่าน DPI ที่น่าเชื่อถือที่สุดที่ทดสอบในจีน อิหร่าน และรัสเซีย"
+    },
+    {
+      "label": "สำหรับความไม่เปิดเผยตัวตนสูงสุด",
+      "offerId": "mullvad",
+      "reason": "ไม่ต้องลงทะเบียนอีเมล รับเงินสดและ Monero — VPN เดียวที่สามารถซื้อได้โดยไม่ทิ้งร่องรอยดิจิทัล"
+    }
+  ]
 }

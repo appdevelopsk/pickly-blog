@@ -58,5 +58,144 @@
     "zico-natural-coconut-water": "Pasteurisiert, kein zugesetzter Zucker, 500 ml. $2,50-3,50. Bestes trockenes Kokoswasser-Profil -- etwas weniger suess als Vita Coco, von Sportlern bevorzugt. Richtig fuer Post-Workout-Einsatz, wo etwas weniger suess bevorzugt wird."
   },
   "pinDescription": "Kokoswasser 2026: Vita Coco vs Harmless Harvest vs ZICO vs Taste Nirvana -- roh vs pasteurisiert vs aus Konzentrat erklaert, warum Harmless Harvest rosa ist, Elektrolyt-Vergleich Kokoswasser vs Sportgetraenke, und bestes Kokoswasser fuer alltaegliche Hydratation. #Kokoswasser #Hydratation #Elektrolyte #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Wir haben jedes Produkt nach Geschmacksprofil, Herkunftstransparenz, Preis-Leistung pro Portion, Verpackungsqualität und Alltagsnutzen bewertet. Zertifizierungen und Nutzerbewertungen wurden mit den Marketingaussagen abgeglichen.",
+  "products": [
+    {
+      "offerId": "vita-coco-original",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Vita Coco Original ist der praktische Standard für alltägliches Kokoswasser — pasteurisiert, ohne Zuckerzusatz, 670 mg Kalium pro Portion in einem haltbaren Tetra Pak, das überall erhältlich ist. Die Pasteurisierung macht den Geschmack süßer und weniger komplex als Rohoptionen, aber er ist konstant, weit verbreitet und für den Kauf in Kisten preislich attraktiv.",
+      "pros": ["In fast jedem Supermarkt und Online-Shop erhältlich", "Ohne Zuckerzusatz — nur natürliche Elektrolyte", "Haltbares Tetra Pak — kein Kühlschrankplatz nötig"],
+      "cons": ["Pasteurisierung ergibt süßeren, weniger komplexen Geschmack als rohes Kokoswasser"],
+      "grade": "A+",
+      "specs": {
+        "Größe": "500 ml Tetra Pak",
+        "Verarbeitung": "Pasteurisiert",
+        "Zuckerzusatz": "Keiner",
+        "Kalium": "ca. 670 mg pro Portion",
+        "Aus Konzentrat": "Nein"
+      },
+      "scores": {
+        "Geschmack": 3.9,
+        "Preis-Leistung": 4.7,
+        "Nährwert": 4.3,
+        "Komfort": 5.0,
+        "Qualität": 4.0
+      }
+    },
+    {
+      "offerId": "harmless-harvest-raw",
+      "badge": "Bestes Roh- / Premium-Kokoswasser",
+      "review": "Harmless Harvest ist das Referenzprodukt für rohes Kokoswasser in den USA — nie erhitzt, kühlkettenverarbeitet aus Thailand, mit der zartrosa Farbe aus Antioxidantien, die nur bei wirklich rohem Kokoswasser auftritt. Der Geschmack ist deutlich komplexer und frischer als bei pasteurisierten Optionen. Der höhere Preis und das Kühlpflichtformat sind echte Kompromisse für echte Qualität.",
+      "pros": ["Nie erhitzt — geschmacklich am nächsten an frischem Kokoswasser im Handel", "Natürlich rosa durch Antioxidantien — Qualitätsmerkmal, kein Defekt", "Kühlkettenverarbeitung mit kürzerer, transparenterer Lieferkette"],
+      "cons": ["Nur gekühlt — erfordert Kühlschrankplatz und hat kürzere Haltbarkeit"],
+      "grade": "A",
+      "specs": {
+        "Größe": "300–500 ml (gekühlt)",
+        "Verarbeitung": "Roh (nie erhitzt)",
+        "Farbe": "Klar bis zartrosa (Antioxidans-Oxidation)",
+        "Kalium": "ca. 470–600 mg pro Portion",
+        "Aus Konzentrat": "Nein"
+      },
+      "scores": {
+        "Geschmack": 4.9,
+        "Preis-Leistung": 3.2,
+        "Nährwert": 4.7,
+        "Komfort": 3.5,
+        "Qualität": 4.9
+      }
+    },
+    {
+      "offerId": "taste-nirvana-coconut-water",
+      "badge": "Bestes Preis-Leistung-Mittelfeld",
+      "review": "Taste Nirvana schließt die Lücke zwischen Vita Cocos Alltagsnutzen und Harmless Harvests Rohqualität — pasteurisiert, aber nicht aus Konzentrat, direkt aus Thailand bezogen, in Glasflaschen, die den Geschmack besser bewahren als Tetra Pak. Geschmacklich näher an frischem Kokoswasser als Vita Coco, ohne den Rohaufpreis.",
+      "pros": ["Nicht aus Konzentrat — geschmacklich frischer als Vita Coco", "Glasflaschenoption bewahrt Geschmack besser als Karton", "Ähnlicher Preis wie Vita Coco — überdurchschnittliche Qualität"],
+      "cons": ["Weniger verbreitet als Vita Coco — hauptsächlich online und in Asienläden"],
+      "grade": "B+",
+      "specs": {
+        "Größe": "280 ml Dose oder Glasflasche",
+        "Verarbeitung": "Pasteurisiert",
+        "Herkunft": "Thailand (direkt)",
+        "Aus Konzentrat": "Nein",
+        "Kalium": "ca. 430 mg pro Portion"
+      },
+      "scores": {
+        "Geschmack": 4.3,
+        "Preis-Leistung": 4.4,
+        "Nährwert": 4.2,
+        "Komfort": 4.2,
+        "Qualität": 4.3
+      }
+    },
+    {
+      "offerId": "c2o-pure-coconut-water",
+      "badge": "Bestes Dosenformat",
+      "review": "Das Dosenformat von C2O bietet eine wichtige Lichtbarriere, die Tetra-Pak-Kartons fehlt — Lichteinwirkung degradiert Aromastoffe im Kokoswasser über die Haltbarkeit, und die Aluminiumdose verhindert das. Aus Thailand, nicht aus Konzentrat, 500 ml pro Dose. Die Kältespeicherung einer gekühlten Dose ist ein zusätzlicher praktischer Vorteil.",
+      "pros": ["Dose blockiert Licht — bessere Geschmackserhaltung über die Haltbarkeit als Tetra Pak", "Große 500-ml-Dose", "Nicht aus Konzentrat, aus Thailand"],
+      "cons": ["Weniger verbreitet als Vita Coco — hauptsächlich in Asienläden und online"],
+      "grade": "B",
+      "specs": {
+        "Größe": "500 ml Dose",
+        "Verarbeitung": "Pasteurisiert",
+        "Behälter": "Aluminiumdose (Lichtbarriere)",
+        "Herkunft": "Thailand",
+        "Aus Konzentrat": "Nein"
+      },
+      "scores": {
+        "Geschmack": 4.2,
+        "Preis-Leistung": 4.3,
+        "Nährwert": 4.1,
+        "Komfort": 4.3,
+        "Qualität": 4.2
+      }
+    },
+    {
+      "offerId": "zico-natural-coconut-water",
+      "badge": "Bestes für Sportler",
+      "review": "ZICO hat ein etwas trockeneres, weniger süßes Geschmacksprofil als Vita Coco — was es zur bevorzugten Option für Sportler macht, denen Vita Cocos Süße beim Sport zu dominant ist. Das Elektrolytprofil ist vergleichbar. Die Distribution war nach Coca-Colas Einstellung und Neustart eingeschränkt — vor dem Kauf Verfügbarkeit prüfen.",
+      "pros": ["Trockenes Geschmacksprofil — weniger süß als Vita Coco, von vielen Sportlern bevorzugt", "Vergleichbarer Elektrolytgehalt wie Vita Coco", "Ohne Zuckerzusatz, haltbar"],
+      "cons": ["Begrenzte Distribution seit Coca-Colas Einstellung 2020 und Neustart — Verfügbarkeit prüfen"],
+      "grade": "B-",
+      "specs": {
+        "Größe": "500 ml",
+        "Verarbeitung": "Pasteurisiert",
+        "Zuckerzusatz": "Keiner",
+        "Kalium": "ca. 600 mg pro Portion",
+        "Geschmacksprofil": "Trocken / weniger süß"
+      },
+      "scores": {
+        "Geschmack": 4.0,
+        "Preis-Leistung": 4.2,
+        "Nährwert": 4.3,
+        "Komfort": 4.1,
+        "Qualität": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für alltägliche Hydration mit gutem Preis",
+      "offerId": "vita-coco-original",
+      "reason": "Überall erhältlich, haltbar und für Kistenpreise geeignet — der zuverlässige Standard ohne Überraschungen."
+    },
+    {
+      "label": "Für das frischeste Erlebnis",
+      "offerId": "harmless-harvest-raw",
+      "reason": "Roh, nie erhitzt, natürlich rosa — deutlich komplexerer Geschmack als jede pasteurisierte Option. Den Aufpreis wert, wenn Geschmack im Vordergrund steht."
+    },
+    {
+      "label": "Für überdurchschnittliche Qualität ohne Rohaufpreis",
+      "offerId": "taste-nirvana-coconut-water",
+      "reason": "Nicht aus Konzentrat, direkt aus Thailand, Glasflasche verfügbar — besser als Vita Coco ohne den Harmless-Harvest-Preis."
+    },
+    {
+      "label": "Für Sportler nach dem Training",
+      "offerId": "zico-natural-coconut-water",
+      "reason": "Etwas trockeneres, weniger süßes Profil wird von Sportlern bevorzugt, denen Vita Coco beim Sport zu süß ist."
+    },
+    {
+      "label": "Für geschmacksorientierte Langzeitlagerung",
+      "offerId": "c2o-pure-coconut-water",
+      "reason": "Die Lichtbarriere der Aluminiumdose bewahrt Aromastoffe besser als Kartonverpackung über längere Haltbarkeit."
+    }
+  ]
 }

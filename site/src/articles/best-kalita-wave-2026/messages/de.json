@@ -58,5 +58,64 @@
     "fellow-stagg-ekg-kettle": "Schwanenhals-Ausguss, variable Temperatur 57-100 Grad C, Haltefunktion, 0,9 L. $150-170. Bester Pour-Over-Wasserkocher -- prazise Flusskontrolle, genaue Temperatureinstellung, 60-Min-Haltefunktion. Richtige Paarung fur Kalita Wave, V60 und Chemex."
   },
   "pinDescription": "Kalita Wave Pour-Over 2026: 185 vs 155, Edelstahl vs Keramik vs Glas, wie das Flachbodendesign den Pour-Over nachsichtiger als den V60 macht, und welchen Schwanenhals-Wasserkocher man dazu kombiniert. #KalitaWave #PourOver #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jeder Dripper wurde auf Extraktionskonsistenz bei unterschiedlichen Brühtechniken, Materialeinfluss auf die Wärmespeicherung, Haltbarkeit, Reinigungsfreundlichkeit und Eignung für Anfänger wie erfahrene Brüher bewertet.",
+  "products": [
+    {
+      "offerId": "kalita-wave-185-stainless",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Der Wave 185 aus Edelstahl ist der richtige Kalita für die meisten Haushalte — Edelstahl bricht nicht beim Herunterfallen, hält die Wärme besser als Glas und ist spülmaschinenfest. Die Kapazität von 2–4 Tassen deckt Einzelportionen bis zu kleinen Veranstaltungen ab. Einige Nutzer bemerken bei neuen Einheiten einen leichten Metallgeschmack, der nach einigen Anwendungen verschwindet; ein paar Spülgänge mit heißem Wasser lösen das. Für den täglichen Pour-Over-Aufguss, bei dem Haltbarkeit und Komfort wichtiger sind als optische Präsentation, ist dies die eindeutige Empfehlung.",
+      "pros": ["Unzerbrechliche Edelstahlkonstruktion — keine Bruchgefahr", "Spülmaschinenfest für einfache Reinigung", "Gute Wärmespeicherung im Vergleich zu Glas"],
+      "cons": ["Neue Einheiten können einen leichten Metallgeschmack hinterlassen, der ein paar Benutzungen benötigt, um sich aufzulösen"],
+      "grade": "A+",
+      "specs": {"Material": "Edelstahl", "Kapazität": "2–4 Tassen (400–700 ml)", "Filtergröße": "Wave 185", "Spülmaschinenfest": "Ja", "Gewicht": "~110 g", "Herkunft": "Japan"},
+      "scores": {"Aufgussklarheit": 4.5, "Verarbeitungsqualität": 5.0, "Bedienkomfort": 4.9, "Preis-Leistung": 4.7, "Vielseitigkeit": 4.8}
+    },
+    {
+      "offerId": "kalita-wave-155-ceramic",
+      "badge": "Bestes Einzelportionsgerät",
+      "review": "Der Wave 155 aus Keramik ist zweckgerichtet für eine Tasse — das kleinere Flachbett und die feinere Drei-Loch-Drainage sind auf Volumina von 150–300 ml abgestimmt, bei denen der 185 ein dünnes, unteres extrahiertes Bett erzeugen würde. Keramik bietet sauberen Geschmack ohne metallischen Transfer, und die Wärmespeicherung ist für eine Einzelportion solide. Der Nachteil ist Zerbrechlichkeit — Keramik bricht auf einem harten Boden, und sie ist schwerer als man für ein Einzeltassen-Brühgerät erwarten würde. Für ein gewidmetes Einzeltassen-Morgenritual erzeugt die 155er Keramik die sauberste Tasse in diesem Vergleich.",
+      "pros": ["Optimierte Betttiefe für 1-Tassen-Volumina — bessere Extraktion als 185 bei kleinen Mengen", "Keramik liefert sauberen Geschmack ohne metallische Noten", "Dichtes Gefühl fügt dem Pour-Over-Ritual eine befriedigende taktile Qualität hinzu"],
+      "cons": ["Zerbrechlich — zersplittert, wenn es auf einem harten Untergrund herunterfällt"],
+      "grade": "A",
+      "specs": {"Material": "Keramik", "Kapazität": "1–2 Tassen (150–300 ml)", "Filtergröße": "Wave 155", "Spülmaschinenfest": "Ja (Handwäsche empfohlen)", "Gewicht": "~200 g", "Herkunft": "Japan"},
+      "scores": {"Aufgussklarheit": 4.8, "Verarbeitungsqualität": 3.8, "Bedienkomfort": 4.7, "Preis-Leistung": 4.5, "Vielseitigkeit": 3.5}
+    },
+    {
+      "offerId": "kalita-wave-185-glass",
+      "badge": "Bestes für Technikerlernen",
+      "review": "Das transparente Borosilikatglas lässt Sie jede Phase des Aufgusses beobachten — die Blühexpansion, die Wasserverteilung über das Kaffeebett und ob Kanalbildung auftritt. Für Brüher, die die Pour-Over-Technik erlernen oder Extraktionsprobleme diagnostizieren, ist das visuelle Feedback wirklich nützlich. Die Wärmespeicherung ist geringer als bei Keramik oder Edelstahl, daher ist das Vorwärmen des Drippers mit heißem Wasser hier wichtiger als bei anderen Materialien. Zerbrechlichste Option im Vergleich.",
+      "pros": ["Transparent — beobachte Blüte, Wasserverteilung und Kanalbildung in Echtzeit", "Borosilikatglas ist hitzebeständig und geschmacksneutral", "Einzigartiges visuelles Erlebnis, das das Pour-Over-Ritual ansprechender macht"],
+      "cons": ["Geringere Wärmespeicherung als Edelstahl oder Keramik — Vorwärmen ist unerlässlich", "Zerbrechlichste Option — ein Sturz auf hartem Untergrund beendet es"],
+      "grade": "B+",
+      "specs": {"Material": "Borosilikatglas", "Kapazität": "2–4 Tassen (400–700 ml)", "Filtergröße": "Wave 185", "Spülmaschinenfest": "Nein", "Gewicht": "~150 g", "Herkunft": "Japan"},
+      "scores": {"Aufgussklarheit": 4.6, "Verarbeitungsqualität": 3.2, "Bedienkomfort": 4.5, "Preis-Leistung": 4.3, "Vielseitigkeit": 4.0}
+    },
+    {
+      "offerId": "kalita-wave-filters-185",
+      "badge": "Essenzielles Verbrauchsmaterial",
+      "review": "Kalita Wave Filter sind nicht optional — das wellenförmige Faltdesign schafft den Luftspalt zwischen Filter und Dripper, der eine gleichmäßige Extraktion ermöglicht. Standard-Flachfilter passen nicht und können diese Funktion nicht replizieren. Bei ca. 10–15 € pro 100 Stück sind die Kosten moderat, aber Wave 185 und Wave 155 Filter sind nicht austauschbar, daher ist der Kauf der richtigen Größe wichtig. Ausreichend vorrätig halten, um unter der Woche nicht auszugehen; Spezialitätskaffeegeschäfte führen sie, aber die Abdeckung ist dünner als bei V60- oder Chemex-Filtern.",
+      "pros": ["Wellenförmige Falten erzeugen den für gleichmäßige Extraktion wesentlichen Luftspalt", "100er-Packungen repräsentieren moderate Kosten pro Filter", "Gleichbleibende Papierqualität und Verfügbarkeit bei Amazon"],
+      "cons": ["Nicht austauschbar mit Wave 155 Filtern oder anderen Drippern — muss die richtige Größe kaufen"],
+      "grade": "B",
+      "specs": {"Größe": "185 (für Wave 185 Dripper)", "Inhalt": "100 pro Packung", "Material": "Papier", "Spülen empfohlen": "Ja (empfohlen)", "Kompatibel": "Nur Wave 185", "Preis pro Filter": "~0,10–0,15 €"},
+      "scores": {"Aufgussklarheit": 4.5, "Verarbeitungsqualität": 4.0, "Bedienkomfort": 4.8, "Preis-Leistung": 4.7, "Vielseitigkeit": 3.0}
+    },
+    {
+      "offerId": "fellow-stagg-ekg-kettle",
+      "badge": "Beste Wasserkocher-Paarung",
+      "review": "Der Fellow Stagg EKG ist die Standardempfehlung für Pour-Over-Wasserkocher, weil der Schwanenhalsausguss eine feine Kontrolle über die Flussrate ermöglicht — von einem haarfeinen Rinnsal bis zu einem breiteren Strahl durch Anpassung der Neigung — was die Extraktion direkt beeinflusst. Variable Temperatur von 57°C bis 100°C mit 60-minütiger Haltefunktion bedeutet, dass Sie 93°C für einen hellen Röstgrad einstellen können und er bleibt für Ihre gesamte Aufgusssitzung dabei. Der Preis von 150–170 € ist real, und ein einfacherer Schwanenhalskocher mit Temperaturregelung ist für weniger erhältlich; aber die Gusssteuerung und Temperaturpräzision des Stagg EKG sind die besten auf dem Verbrauchermarkt.",
+      "pros": ["Schwanenhalsausguss ermöglicht Gussratenkontrolle, die Standard-Wasserkocher nicht replizieren können", "Variable Temperatur mit 60-minütiger Haltefunktion eliminiert Timing-Rätselraten", "Speziell für Pour-Over gebaut — die vollständige Workflow-Lösung"],
+      "cons": ["150–170 € ist ein Premiumpreis; angemessene Alternativen für weniger erhältlich"],
+      "grade": "B-",
+      "specs": {"Kapazität": "0,9 L", "Temperaturbereich": "57–100°C", "Haltedauer": "60 Min.", "Ausguss": "Schwanenhals", "Display": "LCD-Temperatur", "Kabel": "360°-Drehsockel"},
+      "scores": {"Aufgussklarheit": 4.9, "Verarbeitungsqualität": 4.8, "Bedienkomfort": 4.5, "Preis-Leistung": 3.8, "Vielseitigkeit": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für die meisten Haushalte", "offerId": "kalita-wave-185-stainless", "reason": "Haltbar, spülmaschinenfest und gute Wärmespeicherung — der praktische Standard für tägliches Pour-Over-Brühen."},
+    {"label": "Für Einzeltassen-Morgenbrüher", "offerId": "kalita-wave-155-ceramic", "reason": "Die 155er Größe erzeugt die richtige Betttiefe für Ein-Tassen-Volumina — bessere Extraktion als der 185er für kleine Mengen."},
+    {"label": "Für Technik-Lernende", "offerId": "kalita-wave-185-glass", "reason": "Transparentes Glas zeigt Blüte, Wasserverteilung und Kanalbildung in Echtzeit — das beste Werkzeug zum Diagnostizieren und Verbessern Ihres Pour-Overs."},
+    {"label": "Für präzise Temperaturkontrolle", "offerId": "fellow-stagg-ekg-kettle", "reason": "Variable Temperatur mit 60-minütiger Haltefunktion und Schwanenhals-Gusssteuerung — die richtige Wasserkocher-Paarung für jeden Kalita Wave."},
+    {"label": "Für Wave 185 Filterversorgung", "offerId": "kalita-wave-filters-185", "reason": "Der proprietäre wellenförmige Filter ist unverzichtbar — genug vorrätig halten, damit das richtige Verbrauchsmaterial immer vorhanden ist."}
+  ]
 }

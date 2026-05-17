@@ -89,5 +89,62 @@
     "panasonic-eh-na0j": "Bestes fur tagliche Frizz- und Schadensko ntrolle — Nanoe-Technologie hat echte veroffentlichte Forschung, 60°C-Kopfhautmodus, Inlands-Japan-Garantie. Hinweis: Dies ist ein Haartrocker, kein Locken-Styler; falsche Wahl wenn Locken-Kreation das Ziel ist."
   },
   "pinDescription": "Dyson Airwrap vs Shark FlexStyle vs GHD Max vs Budget-Optionen — ehrlicher Vergleich 2026 zu Haartyp-Kompatibilitat, realem Hitzeschadensrisiko und ob der Preisunterschied wirklich im Ergebnis sichtbar ist. #Haarpflege #deutsch",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "Jedes Gerät wurde nach dem Wärmemechanismus (Coanda-Luftstrom vs. direktes Heizelement), Haartyp-Kompatibilität, Einarbeitungszeit aus Nutzerberichten, realer Sitzungsdauer bei dickem vs. feinem Haar und 3-Jahres-Kosten pro Anwendung bei typischer Nutzungsfrequenz bewertet.",
+  "products": [
+    {
+      "offerId": "dyson-airwrap-multi-styler",
+      "badge": "Bestes Gerät insgesamt",
+      "review": "Der Coanda-Luftstrom des Airwrap wickelt Haare bei ~150°C ohne direkten Plattenkontakt — deutlich geringere Wärmeeinwirkung als ein Glätteisen bei 200°C+. Bei feinem bis mitteldickem Haar erzeugt er natürliche Wellen und Volumen, die kein Glätteisen replizieren kann. Der echte Kompromiss ist die 2–4-wöchige Einarbeitungszeit und Versagen bei dickem oder grobem Haar, wo der Luftstrom dichte Abschnitte nicht effizient durchdringen kann.",
+      "pros": ["Coanda-Barrel bei ~150°C — geringere Wärmebelastung als Glätteisen bei 185–220°C", "Natürliche Wellen und Volumen bei feinem/mitteldickem Haar — für Glätteisen unerreichbar", "Mehrere Aufsätze für Trocknen, Wellen und Glätten in einem Gerät"],
+      "cons": ["2–4 Wochen Einarbeitungszeit für konsistente Ergebnisse; schlecht bei dickem oder grobem Haar"],
+      "grade": "A+",
+      "specs": {"Technologie": "Coanda-Luftstrom", "Barrel-Temperatur": "~150°C", "Preis (JP)": "¥66.000–¥80.000", "Haartyp": "Fein bis mitteldick", "Einarbeitungszeit": "2–4 Wochen", "Styling-Methode": "Luftwicklung (kein Plattenkontakt)", "Lieferumfang": "Mehrere Aufsätze"},
+      "scores": {"Heat performance": 4.5, "Hair protection": 4.8, "Build quality": 4.9, "Value": 3.0, "Ease of use": 3.5}
+    },
+    {
+      "offerId": "shark-flexstyle",
+      "badge": "Bestes Coanda-Preis-Leistungs-Verhältnis",
+      "review": "Der FlexStyle liefert denselben Coanda-Effekt-Mechanismus wie der Airwrap zu etwa 60% des Preises und fügt einen Haartrockner-Modus hinzu, den der Airwrap nicht hat. Die ehrlichste Wahl für Haar mittlerer Stärke oder welliges Haar. Wichtig für Japan-Käufer: nur als Parallelimport erhältlich (120V USA), der mit verringertem Luftstrom auf Japans 100V läuft.",
+      "pros": ["Gleicher Coanda-Effekt wie Dyson Airwrap zu ~60% des Preises", "Beinhaltet Haartrockner-Modus — Airwrap hat keine Trocknerfunktion", "Bestes Ergebnis-Preis-Verhältnis in diesem Vergleich für welliges Haar"],
+      "cons": ["Nur Parallelimport in Japan — nordamerikanisches 120V-Modell läuft mit verringertem Luftstrom auf 100V; keine Inlandsgarantie"],
+      "grade": "A",
+      "specs": {"Technologie": "Coanda-Luftstrom + Trockner", "Preis (JP)": "¥35.000–¥45.000 (Parallelimport)", "Haartyp": "Mitteldick bis wellig", "Spannung": "120V (vor Japan-Kauf prüfen)", "Lieferumfang": "Styler-Aufsätze + Trockner-Kopf", "Einarbeitungszeit": "1–3 Wochen", "Garantie": "Keine in Japan"},
+      "scores": {"Heat performance": 4.3, "Hair protection": 4.5, "Build quality": 4.3, "Value": 4.7, "Ease of use": 3.8}
+    },
+    {
+      "offerId": "revlon-one-step-volumizer",
+      "badge": "Bestes Budget-Gerät",
+      "review": "Der Revlon One-Step kombiniert eine Rundbürste und einen Haartrockner in einem Gerät — trocknen und Volumen hinzufügen gleichzeitig bei normalen Trocknertemperaturen (~80–100°C). Keine Einarbeitungszeit, für ¥4.000–6.000 erhältlich. Er kann keine definierten Locken oder Wellen wie Coanda-Tools erzeugen. Diese Einschränkung ist seine gesamte Identität: der schnellste Weg zu Blowout-Volumen bei glatten Haaren.",
+      "pros": ["Keine Einarbeitungszeit — intuitiv vom ersten Gebrauch an", "Preis ¥4.000–¥6.000 — zugänglichstes Gerät in diesem Vergleich", "Trockner-Temperaturwärme (~80–100°C) — kein zusätzlicher Hitzeschaden über normales Föhnen hinaus"],
+      "cons": ["Kann keine Locken oder Wellen erzeugen — nur Blowout-Volumen; kein Ersatz für Coanda-Tools"],
+      "grade": "B+",
+      "specs": {"Technologie": "Rundbürste + Haartrockner", "Preis (JP)": "¥4.000–¥6.000", "Haartyp": "Glatt, volumen-suchend", "Wärmebereich": "~80–100°C (Trocknertemperatur)", "Einarbeitungszeit": "Keine", "Lockenfähigkeit": "Keine — nur Blowout", "Gewicht": "~1,2 kg"},
+      "scores": {"Heat performance": 3.5, "Hair protection": 4.2, "Build quality": 3.2, "Value": 5.0, "Ease of use": 5.0}
+    },
+    {
+      "offerId": "ghd-max-styler",
+      "badge": "Bestes für dickes Haar",
+      "review": "Die breiten Keramikplatten des GHD Max bei 185–220°C mit prädiktiver Heizung machen es zum Tool der Wahl für dickes, langes oder resistentes Haar, wo Coanda-Luftstrom zu langsam ist. Eine Styling-Sitzung bei taillenlangem grobem Haar dauert 20 Minuten mit dem Max vs. 45–60 Minuten mit einem Airwrap. Direkter Plattenkontakt bedeutet: Hitzeschutzspray ist keine Option; Parallelimporte haben keine Japan-Garantie.",
+      "pros": ["Schnellste Ergebnisse bei dickem, langem oder resistentem Haar — Platten bedecken mehr pro Durchgang", "185–220°C prädiktive Heizung hält konsistente Temperatur durch dichte Abschnitte", "Professionelles Gerät, das Salon-Stylisten für schwieriges Haar verwenden"],
+      "cons": ["Direkter Plattenkontakt bei 185–220°C — Hitzeschutzspray jede Sitzung erforderlich; Parallelimport, keine Japan-Garantie"],
+      "grade": "B",
+      "specs": {"Technologie": "Breites Keramik-Glätteisen", "Plattentemperatur": "185–220°C (prädiktiv)", "Preis (JP)": "¥35.000–¥45.000 (Parallelimport)", "Haartyp": "Dick, lang, resistent", "Plattenbreite": "Breit (mehr Haar pro Durchgang)", "Garantie": "Keine in Japan", "Sitzungsdauer (dickes Haar)": "~20 min"},
+      "scores": {"Heat performance": 5.0, "Hair protection": 3.0, "Build quality": 4.5, "Value": 3.8, "Ease of use": 4.5}
+    },
+    {
+      "offerId": "panasonic-eh-na0j",
+      "badge": "Bestes Japan-Inlands-Gerät",
+      "review": "Der Panasonic EH-NA0J ist ein Haartrockner, kein Styler — sein Ziel ist Frizz-Kontrolle und Feuchtigkeitserhalt durch nanoe X Ionen-Technologie, die durch veröffentlichte Panasonic-Forschung unterstützt wird. Japan-Inlandsgarantie, 60°C-Kopfhaut-Schutzmodus und vollständiges Service-Netzwerk machen es zum risikoärmsten täglichen Gerät auf dieser Liste. Falsche Wahl wenn Locken oder Wellen das Hauptziel sind.",
+      "pros": ["Volle Japan-Inlandsgarantie und Reparaturnetzwerk — risikoärmstes Gerät in diesem Vergleich", "nanoe X Technologie hat veröffentlichte Forschung zu Frizz- und Feuchtigkeitsansprüchen", "60°C-Kopfhautmodus verhindert Überhitzung beim täglichen Gebrauch"],
+      "cons": ["Dies ist ein Haartrockner — nicht geeignet wenn Locken, Wellen oder Glätten das Hauptziel sind"],
+      "grade": "B-",
+      "specs": {"Technologie": "nanoe X Haartrockner", "Preis (JP)": "¥22.000–¥30.000", "Kopfhautmodus": "60°C", "Haartyp": "Alle Haartypen (Trocknen/Frizz-Kontrolle)", "Garantie": "Volle Japan-Inlandsgarantie", "Ziel": "Frizz-Kontrolle + Feuchtigkeitserhalt", "Lockenfähigkeit": "Keine"},
+      "scores": {"Heat performance": 3.8, "Hair protection": 5.0, "Build quality": 4.5, "Value": 4.2, "Ease of use": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für feines oder mitteldichtes Haar mit Wunsch nach natürlichen Wellen", "offerId": "dyson-airwrap-multi-styler", "reason": "Coanda-Luftstrom bei ~150°C erzeugt Wellen und Volumen bei feinem/mitteldickem Haar, das kein Glätteisen replizieren kann."},
+    {"label": "Für dickes oder grobes Haar mit Bedarf an schnellen Ergebnissen", "offerId": "ghd-max-styler", "reason": "Breite Platten bei 185–220°C reduzieren die Sitzungsdauer bei resistentem Haar von 45–60 auf 20 Minuten."},
+    {"label": "Für tägliche Frizz-Kontrolle mit Japan-Garantie", "offerId": "panasonic-eh-na0j", "reason": "Volle Inlandsgarantie, 60°C-Kopfhautmodus und nanoe X Technologie mit veröffentlichter Forschung — geringstes Risiko für tägliche Anwendung."}
+  ]
 }

@@ -111,5 +111,64 @@
     "anker-eufy-smart-scale-p2-pro": "실용적인 중간 선택: Wi-Fi 동기화(휴대폰 근처 불필요), Apple Health 및 Google Fit 통합, 16가지 지표, Withings 및 Tanita 옵션 가격의 4분의 1에 깔끔한 앱. Anker는 Xiaomi가 없는 강한 일본 서비스 존재감을 가집니다(소매점, 직접 고객 서비스). 약점: 16가지 지표는 포괄적으로 들리지만 체중, 체지방, BMI 이외의 추가 지표 대부분은 독립적인 측정이 아닌 같은 2전극 발-발 BIA 신호에서 다른 회귀 방정식을 통해 도출됩니다. Eufy Life 앱은 Withings Health Mate보다 덜 성숙했습니다. 브랜드가 일본에서 Tanita의 임상적 신뢰를 갖지 못합니다."
   },
   "pinDescription": "2026년 스마트 체중계 5종 비교: 30,000엔에 혈관 나이 기능의 Withings Body Comp, Garmin Connect 사용자를 위한 22,000엔의 Garmin Index S2, 부위별 체성분과 InBody 기술의 Tanita RD-906, 3,000엔의 Xiaomi Mi Body Composition Scale 2, Wi-Fi와 Apple Health 동기화의 8,000엔 Anker Eufy P2 Pro. BIA 정확도 한계 설명, 생태계 잠금 비교, 일일 측정값이 소음인 이유. #한국어",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 체중계를 BIA 전극 구성(2전극 대 4전극), 앱 데이터 내보내기 정책, 생태계 종속 위험, 일본 내 사후 서비스 품질, 동일한 아침 측정 조건에서의 장기 소유자 측정 일관성 보고를 기준으로 평가했습니다.",
+  "products": [
+    {
+      "offerId": "withings-body-comp",
+      "badge": "종합 최고",
+      "review": "Withings Body Comp는 이 비교에서 맥파 속도로 혈관 나이를 측정하는 유일한 소비자용 체중계입니다 — BIA만으로는 제공할 수 없는 심혈관 건강 지표입니다. 데이터 내보내기 정책(CSV 내보내기, API 접근)은 이 그룹에서 가장 개방적이며 Apple Health/Google Fit 동기화는 안정적입니다. 체지방을 위한 발-발 BIA는 저렴한 체중계와 동일한 ±3–8% 정확도 등급을 공유합니다.",
+      "pros": ["혈관 나이(맥파 속도)를 측정하는 유일한 체중계", "최고의 데이터 내보내기 정책 — CSV 내보내기 및 API 접근", "Apple Health 및 Google Fit과의 안정적인 동기화"],
+      "cons": ["발-발 BIA의 체지방 정확도는 저렴한 체중계와 동일한 ±3–8%"],
+      "grade": "A+",
+      "specs": {"가격": "약 ¥30,000", "BIA 유형": "발-발 + PWV 센서", "사용자 수": "8명", "연결": "Wi-Fi + Bluetooth", "앱": "Withings Health Mate", "무게 분해능": "0.05kg"},
+      "scores": {"Accuracy": 4.3, "App quality": 4.7, "Ease of use": 4.5, "Value": 3.5, "Metrics range": 5.0}
+    },
+    {
+      "offerId": "garmin-index-s2",
+      "badge": "Garmin 사용자에게 최적",
+      "review": "Garmin Index S2의 생태계 이점은 실제적이고 구체적입니다: 체성분 데이터가 활동, 수면, HRV 지표와 함께 Garmin Connect에 직접 나타납니다 — 서드파티 브리지 필요 없음. 여러 운동선수가 있는 가정에서 16명 사용자 지원은 진정한 차별화 요소입니다. Garmin 비사용자에게는 ¥8,000 Eufy와 동일한 정확도의 ¥22,000 발-발 BIA 체중계입니다.",
+      "pros": ["체성분이 Garmin Connect에 직접 동기화됨", "16명 동시 사용자 — 다중 운동선수 가정에 최적", "Garmin 생태계에 서드파티 브리지 앱 불필요"],
+      "cons": ["Garmin 기기를 사용하지 않으면 생태계 프리미엄이 완전히 사라짐"],
+      "grade": "A",
+      "specs": {"가격": "약 ¥22,000", "BIA 유형": "발-발", "사용자 수": "16명", "연결": "Wi-Fi + Bluetooth", "앱": "Garmin Connect", "무게 분해능": "0.1kg"},
+      "scores": {"Accuracy": 4.1, "App quality": 4.5, "Ease of use": 4.5, "Value": 3.8, "Metrics range": 4.2}
+    },
+    {
+      "offerId": "tanita-rd-906",
+      "badge": "최고의 BIA 기술",
+      "review": "Tanita RD-906은 이 비교에서 가장 엄밀한 소비자용 BIA입니다: InBody 라이선스 다주파수 4전극 기술이 발-발 임피던스로 상체를 추정하는 대신 팔, 다리, 체간을 개별 측정합니다. 일본에서 Tanita의 임상적 신뢰성 — 병원과 스포츠 시설이 Tanita 전문 장비를 사용 — 은 의료 전문가와 함께 건강을 모니터링하는 사용자에게 실질적인 고려 사항입니다.",
+      "pros": ["다주파수 4전극 BIA가 각 신체 부위를 직접 측정", "InBody 라이선스 기술 — 가능한 가장 높은 소비자용 BIA 기준", "어떤 외국 브랜드도 따라올 수 없는 일본에서의 임상적 신뢰성"],
+      "cons": ["각 측정 시 손잡이 전극을 잡아야 함 — 발 전용 체중계보다 단계가 하나 더 있음"],
+      "grade": "B+",
+      "specs": {"가격": "약 ¥30,000", "BIA 유형": "다주파수 4전극(부위별)", "사용자 수": "5명", "연결": "Bluetooth", "앱": "Health Planet(일본 중심)", "무게 분해능": "0.05kg"},
+      "scores": {"Accuracy": 4.8, "App quality": 3.5, "Ease of use": 3.8, "Value": 3.6, "Metrics range": 4.8}
+    },
+    {
+      "offerId": "xiaomi-body-composition-scale-2",
+      "badge": "최고의 저가 선택",
+      "review": "¥3,000에 Xiaomi Mi 체성분계 2는 넓은 정확도 마진에도 불구하고 진정으로 유용한 체지방 추세 데이터를 제공합니다 — 절대값이 아닐 때도 몇 주에 걸친 변화 방향은 신뢰할 수 있습니다. Bluetooth 전용이라 측정 중에는 스마트폰이 가까이 있어야 하며, 긴 전환 기간 없이 앱을 중단하는 Xiaomi의 기록은 수년간의 합법적인 데이터 위험입니다.",
+      "pros": ["약 ¥3,000에 체지방, BMI, 근육량, 골량 측정", "Mi Fitness로의 깔끔한 Bluetooth 동기화", "체지방 추세 추적은 넓은 오차 범위에도 작동함"],
+      "cons": ["Bluetooth 전용 — 체중 측정 시 스마트폰이 가까이 있어야 함"],
+      "grade": "B",
+      "specs": {"가격": "약 ¥3,000", "BIA 유형": "발-발 2전극", "사용자 수": "다수(앱 프로필)", "연결": "Bluetooth", "앱": "Mi Fitness", "무게 분해능": "0.05kg"},
+      "scores": {"Accuracy": 3.2, "App quality": 3.8, "Ease of use": 4.8, "Value": 5.0, "Metrics range": 3.5}
+    },
+    {
+      "offerId": "anker-eufy-smart-scale-p2-pro",
+      "badge": "최고의 중간 가격대 가성비",
+      "review": "Anker Eufy Smart Scale P2 Pro는 실용적인 최적점을 달성합니다: Wi-Fi 동기화(스마트폰 근처 불필요), Apple Health 및 Google Fit 통합, Withings 및 Tanita 옵션 비용의 4분의 1에 16가지 신체 지표. 그 16가지 지표의 대부분은 동일한 2전극 발-발 BIA 신호에서 파생되었습니다 — 독립적인 측정이 아닙니다 — 하지만 전형적인 피트니스 트래커에게는 체중과 체지방 추세 데이터가 중요합니다.",
+      "pros": ["Wi-Fi 동기화 — 측정 중 스마트폰이 가까이 필요 없음", "¥8,000에 Apple Health 및 Google Fit 통합", "Anker의 일본 서비스 네트워크가 탄탄함(실체 매장, 직접 지원)"],
+      "cons": ["16가지 지표 대부분이 동일한 BIA 신호에서 파생됨 — 독립적인 측정 아님"],
+      "grade": "B-",
+      "specs": {"가격": "약 ¥8,000", "BIA 유형": "발-발 4전극", "사용자 수": "16명", "연결": "Wi-Fi + Bluetooth", "앱": "Eufy Life", "무게 분해능": "0.05kg"},
+      "scores": {"Accuracy": 4.0, "App quality": 4.1, "Ease of use": 4.7, "Value": 4.6, "Metrics range": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "심혈관 건강 모니터링을 위해", "offerId": "withings-body-comp", "reason": "맥파 속도(혈관 나이)는 소비자 수준에서 다른 곳에서는 구할 수 없습니다 — 순수한 BIA 체중계가 제공할 수 없는 심혈관 차원을 추가합니다."},
+    {"label": "Garmin 시계 사용자를 위해", "offerId": "garmin-index-s2", "reason": "체성분 데이터가 해결책이나 브리지 앱 없이 활동 및 HRV와 함께 Garmin Connect에 나타납니다."},
+    {"label": "퍼스널 트레이너와 함께 운동하는 사용자를 위해", "offerId": "tanita-rd-906", "reason": "일본 퍼스널 트레이너와 스포츠 의학 전문가들은 Tanita 참조 데이터를 사용합니다 — RD-906의 부위별 측정값은 트레이너가 전문적으로 측정하는 것과 일치합니다."},
+    {"label": "저렴한 체지방 추적을 위해", "offerId": "xiaomi-body-composition-scale-2", "reason": "¥3,000에 주간 추세 데이터가 유용합니다. 특정 날의 절대 수치가 아닌 수개월에 걸친 방향성 파악에 활용하세요."},
+    {"label": "Garmin 없는 대부분의 가정을 위해", "offerId": "anker-eufy-smart-scale-p2-pro", "reason": "Garmin이나 임상 BIA가 필요하지 않을 때 Wi-Fi 동기화, Apple Health 통합, Anker의 일본 서비스 존재감이 최고의 기능 대비 가격 비율을 제공합니다."}
+  ]
 }

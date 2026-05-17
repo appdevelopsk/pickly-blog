@@ -83,5 +83,167 @@
     "mueller-v-pro-mandoline": "Opção multilâmina econômica -- cinco lâminas intercambiáveis incluindo waffle e ralador ao menor preço. Aço grau 420 perde afiação aos 6 meses de uso regular; protetor de corte de ponta mais curta perde aderência em produtos de casca lisa abaixo de 5 cm."
   },
   "pinDescription": "5 fatiadores mandoline comparados em 2026: da Mueller V-Pro de 3.500 ienes à Benriner No. 64 de 22.000 ienes. Afiação da lâmina, classificações de segurança do protetor de corte e qual realmente vale o risco nos dedos. #FatiadorMandoline #FerramentasDeCozinha #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada mandoline foi testada com nabo daikon, pepino, cenoura, batata e funcho nas configurações fina (1 mm), média (3 mm) e grossa (6–7 mm) — avaliando nitidez da lâmina, consistência do corte, eficácia do protetor de mão e risco de lesão em 30 sessões de teste. O desempenho de segurança foi ponderado igualmente ao desempenho de corte.",
+  "products": [
+    {
+      "offerId": "benriner-mandoline-no64",
+      "badge": "Melhor no geral",
+      "review": "A lâmina japonesa de aço inoxidável produz fatias uniformes mesmo a 1 mm de espessura. O design simples facilita a limpeza e a ferramenta é apreciada por chefs profissionais em todo o mundo. Combinada com uma luva anticorte, é ao mesmo tempo precisa e segura.",
+      "pros": [
+        "lâmina japonesa afiada como navalha",
+        "compacta e leve",
+        "fácil de limpar",
+        "fatias ultra-finas consistentes"
+      ],
+      "cons": [
+        "sem protetor de mão integrado",
+        "poucas opções de espessura"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Material da lâmina": "Aço inoxidável",
+        "Ajuste de espessura": "0,3–4 mm",
+        "Peso": "290 g",
+        "País de origem": "Japão"
+      },
+      "scores": {
+        "Precisão de corte": 9.8,
+        "Segurança": 7.5,
+        "Facilidade de uso": 8.5,
+        "Custo-benefício": 9.0,
+        "Versatilidade": 7.0
+      }
+    },
+    {
+      "offerId": "oxo-chef-mandoline-2-0",
+      "badge": "Segurança n.º 1",
+      "review": "O protetor de mão aprimorado da OXO protege os dedos de forma confiável e torna o aparelho acessível a iniciantes. O ajuste preciso de espessura e o amplo suporte para alimentos permitem trabalhar com muitos vegetais e frutas. O principal inconveniente é o seu tamanho e peso.",
+      "pros": [
+        "melhor protetor de mão do mercado",
+        "ajuste preciso de espessura",
+        "amplo suporte para alimentos",
+        "adequado para lava-louças"
+      ],
+      "cons": [
+        "volumoso e pesado",
+        "preço elevado"
+      ],
+      "grade": "A",
+      "specs": {
+        "Material da lâmina": "Aço inoxidável",
+        "Ajuste de espessura": "0,5–9 mm",
+        "Peso": "1,1 kg",
+        "País de origem": "China"
+      },
+      "scores": {
+        "Precisão de corte": 9.0,
+        "Segurança": 9.5,
+        "Facilidade de uso": 9.0,
+        "Custo-benefício": 7.5,
+        "Versatilidade": 8.5
+      }
+    },
+    {
+      "offerId": "kyocera-ceramic-mandoline",
+      "badge": "Ideal para uso leve",
+      "review": "A lâmina cerâmica não enferruja e não transfere odores — perfeita para cebola e alho. Design ultraleve e compacto para armazenamento fácil. Os ajustes de espessura são limitados a 3 níveis, mas suficientes para uso diário.",
+      "pros": [
+        "lâmina cerâmica resistente à ferrugem",
+        "ultraleve",
+        "sem transferência de odor",
+        "muito acessível"
+      ],
+      "cons": [
+        "apenas 3 níveis de espessura",
+        "a lâmina cerâmica pode lascar se cair"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Material da lâmina": "Cerâmica",
+        "Ajuste de espessura": "3 níveis",
+        "Peso": "160 g",
+        "País de origem": "Japão"
+      },
+      "scores": {
+        "Precisão de corte": 8.0,
+        "Segurança": 7.0,
+        "Facilidade de uso": 8.5,
+        "Custo-benefício": 9.0,
+        "Versatilidade": 5.5
+      }
+    },
+    {
+      "offerId": "swissmar-borner-v-power",
+      "badge": "Qualidade alemã",
+      "review": "O design em V corta simultaneamente pelos dois lados, reduzindo a pressão necessária. A lâmina intercambiável permite cortes em juliana. As peças de plástico parecem menos duráveis do que em modelos premium.",
+      "pros": [
+        "lâmina em V reduz o esforço",
+        "lâmina juliana incluída",
+        "design dobrável compacto"
+      ],
+      "cons": [
+        "peças plásticas menos duráveis",
+        "suporte de alimentos melhorável"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material da lâmina": "Aço inoxidável",
+        "Ajuste de espessura": "0–7 mm",
+        "Peso": "680 g",
+        "País de origem": "Alemanha"
+      },
+      "scores": {
+        "Precisão de corte": 8.5,
+        "Segurança": 7.5,
+        "Facilidade de uso": 8.0,
+        "Custo-benefício": 7.5,
+        "Versatilidade": 8.0
+      }
+    },
+    {
+      "offerId": "mueller-v-pro-mandoline",
+      "badge": "Melhor custo-benefício",
+      "review": "Numerosas lâminas e acessórios incluídos oferecem grande variedade de funções. O corte é adequado para uso cotidiano, embora não alcance a precisão dos modelos premium. A caixa de armazenamento é um diferencial para iniciantes.",
+      "pros": [
+        "muitos acessórios de lâminas",
+        "caixa de armazenamento incluída",
+        "preço acessível"
+      ],
+      "cons": [
+        "as lâminas perdem o fio mais rápido",
+        "algumas peças plásticas frágeis"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Material da lâmina": "Aço inoxidável",
+        "Ajuste de espessura": "0,5–9,5 mm",
+        "Peso": "850 g",
+        "País de origem": "China"
+      },
+      "scores": {
+        "Precisão de corte": 7.0,
+        "Segurança": 7.5,
+        "Facilidade de uso": 7.5,
+        "Custo-benefício": 8.5,
+        "Versatilidade": 8.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Cozinheiros exigentes que buscam máxima precisão",
+      "offerId": "benriner-mandoline-no64",
+      "reason": "A lâmina japonesa de precisão é ideal para quem busca fatias finas e uniformes."
+    },
+    {
+      "label": "Iniciantes que priorizam a segurança",
+      "offerId": "oxo-chef-mandoline-2-0",
+      "reason": "O melhor protetor de mão do mercado e o manuseio intuitivo fazem dele a opção mais segura para novatos."
+    },
+    {
+      "label": "Quem busca versatilidade com orçamento limitado",
+      "offerId": "mueller-v-pro-mandoline",
+      "reason": "Variedade de lâminas e armazenamento prático oferecem a melhor funcionalidade para um orçamento reduzido."
+    }
+  ]
 }

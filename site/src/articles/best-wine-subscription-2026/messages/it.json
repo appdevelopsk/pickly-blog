@@ -93,5 +93,64 @@
     "bright-cellars-subscription": "Migliore per i principianti del vino — sviluppo strutturato del palato con sistema di archetipi della ruota dei sapori, $22/bottiglia (4 bottiglie a $88/mese). Impostazione educativa esplicita su ogni bottiglia su come espande il tuo palato. Migliore per i nuovi bevitori di vino che vogliono un percorso di apprendimento guidato. Limite: i bevitori esperti trovano l'impalcatura non necessaria; la cancellazione richiede di contattare il supporto piuttosto che un portale self-service."
   },
   "pinDescription": "5 abbonamenti vino a confronto per il 2026: Winc vs Firstleaf vs Naked Wines vs Wine Access vs BRIGHT Cellars. Personalizzazione, valore per bottiglia, opzioni di vino naturale — trova l'abbonamento che si adatta davvero al tuo modo di bere vino. #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni abbonamento è stato valutato su prezzo per bottiglia consegnata, precisione della personalizzazione dell'algoritmo dopo tre consegne, comodità di salto/pausa, disponibilità di vini naturali e profondità educativa delle note di degustazione.",
+  "products": [
+    {
+      "offerId": "winc-subscription",
+      "badge": "Miglior in assoluto",
+      "review": "Le selezioni basate su algoritmo di Winc a $13–20 per bottiglia con spedizione gratuita per quattro o più bottiglie ne fanno l'abbonamento al vino quotidiano più senza attriti. Il ciclo di feedback delle valutazioni migliora notevolmente la personalizzazione dopo tre o quattro consegne. Il compromesso: le etichette proprie di Winc dominano i segmenti di prezzo inferiori, limitando la qualità massima rispetto ai servizi di curatela indipendente.",
+      "pros": ["L'algoritmo migliora in modo misurabile dopo valutazioni costanti", "Spedizione gratuita per 4+ bottiglie", "Salta/pausa in self-service in due clic"],
+      "cons": ["Le etichette proprie limitano il soffitto di qualità rispetto ai servizi di curatela"],
+      "grade": "A+",
+      "specs": {"Prezzo per bottiglia": "$13–20", "Dimensione consegna": "4 bottiglie/mese", "Spedizione": "Gratuita da 4", "Politica di salto": "Self-service, 24h di preavviso", "Base": "USA"},
+      "scores": {"Qualità del vino": 4.2, "Rapporto qualità-prezzo": 4.5, "Varietà": 4.0, "Personalizzazione": 4.3, "Affidabilità consegna": 4.6}
+    },
+    {
+      "offerId": "firstleaf-subscription",
+      "badge": "Miglior valore iniziale",
+      "review": "Sei bottiglie per $39,95 alla prima consegna è il miglior sconto d'ingresso di questa categoria. L'algoritmo si calibra bene dopo tre o quattro consegne valutate in modo costante. La cancellazione richiede di passare attraverso un flusso di retention invece di un singolo clic.",
+      "pros": ["Miglior sconto primo invio ($39,95 per 6 bottiglie)", "Ampia rete di cantine per la varietà", "L'algoritmo migliora dopo 3–4 consegne"],
+      "cons": ["La cancellazione richiede un flusso di retention, non un clic singolo"],
+      "grade": "A",
+      "specs": {"Prezzo d'ingresso": "$39,95/6 bottiglie", "Prezzo continuativo": "~$15–25/bottiglia", "Dimensione consegna": "6 bottiglie", "Politica salto": "Self-service, fino a 2 mesi di pausa", "Rete cantine": "Internazionale"},
+      "scores": {"Qualità del vino": 4.0, "Rapporto qualità-prezzo": 4.6, "Varietà": 4.2, "Personalizzazione": 3.9, "Affidabilità consegna": 4.3}
+    },
+    {
+      "offerId": "naked-wines-subscription",
+      "badge": "Miglior per risparmiatori",
+      "review": "L'iscrizione Angel di Naked Wines deposita $40/mese come credito, sbloccando il 30–50% sotto il prezzo al dettaglio sui vini di produttori indipendenti. I risparmi sono verificabili in modo indipendente. Il modello a domanda senza spedizioni automatiche è il più flessibile dei cinque, ma l'impegno di $40 continua nei mesi senza acquisti.",
+      "pros": ["Risparmio verificabile del 30–50% rispetto al prezzo al dettaglio", "Nessuna spedizione automatica forzata", "Ampio accesso a produttori di vino indipendenti"],
+      "cons": ["Impegno di $40/mese indipendentemente dall'attività di acquisto"],
+      "grade": "B+",
+      "specs": {"Credito mensile": "$40", "Sconto Angel": "30–50% sul dettaglio", "Tipo consegna": "A domanda", "Cancellazione": "Self-service", "Produttori": "Indipendenti"},
+      "scores": {"Qualità del vino": 4.3, "Rapporto qualità-prezzo": 4.4, "Varietà": 3.8, "Personalizzazione": 3.5, "Affidabilità consegna": 4.1}
+    },
+    {
+      "offerId": "wine-access-subscription",
+      "badge": "Miglior per appassionati",
+      "review": "Wine Access offre le migliori note di degustazione e la curatela editoriale più profonda di questa categoria — contesto di produzione, tipicità regionale e aspettative di sapore scritte da professionisti del vino. A $30–100+ per bottiglia non è un abbonamento per l'uso quotidiano, ma la qualità e la profondità educativa giustificano il premio per i collezionisti seri.",
+      "pros": ["Le migliori note di degustazione e formazione vinicola di gran lunga", "Copre vino naturale e convenzionale con uguale rigore", "Curatela e qualità di selezione a livello sommelier"],
+      "cons": ["Il prezzo ($30–100+/bottiglia) lo esclude come abbonamento quotidiano"],
+      "grade": "B",
+      "specs": {"Prezzo per bottiglia": "$30–100+", "Stile curatela": "Editoriale/sommelier", "Vino naturale": "Sì", "Note degustazione": "Contesto produzione + tipicità regionale", "Cancellazione": "Self-service"},
+      "scores": {"Qualità del vino": 4.9, "Rapporto qualità-prezzo": 3.2, "Varietà": 4.5, "Personalizzazione": 3.6, "Affidabilità consegna": 4.4}
+    },
+    {
+      "offerId": "bright-cellars-subscription",
+      "badge": "Miglior per principianti",
+      "review": "Il sistema di archetipo della ruota dei sapori di BRIGHT Cellars assegna un profilo del palato e include deliberatamente una bottiglia fuori dalla zona di comfort ad ogni consegna. L'inquadramento educativo su ogni bottiglia è genuinamente utile per i nuovi bevitori di vino. A $22/bottiglia ($88/mese per quattro) il prezzo è giusto per la struttura di apprendimento.",
+      "pros": ["Sistema di sviluppo del palato con ruota dei sapori unico nella categoria", "Nota educativa su ogni bottiglia che spiega cosa insegna", "Progressione strutturata verso una conoscenza vinicola più ampia"],
+      "cons": ["La cancellazione richiede il contatto con il supporto (nessun portale self-service)"],
+      "grade": "B-",
+      "specs": {"Prezzo per bottiglia": "$22", "Dimensione consegna": "4 bottiglie/mese", "Costo mensile": "$88", "Cancellazione": "Contatto supporto richiesto", "Sistema": "Archetipo ruota dei sapori"},
+      "scores": {"Qualità del vino": 3.8, "Rapporto qualità-prezzo": 3.7, "Varietà": 3.6, "Personalizzazione": 4.0, "Affidabilità consegna": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per i bevitori quotidiani senza complicazioni", "offerId": "winc-subscription", "reason": "Selezioni per algoritmo consegnate secondo un calendario — salto e pausa in due clic."},
+    {"label": "Per i nuovi abbonati", "offerId": "firstleaf-subscription", "reason": "Miglior sconto d'ingresso della categoria; l'algoritmo si calibra dopo alcune consegne valutate."},
+    {"label": "Per chi supporta produttori indipendenti", "offerId": "naked-wines-subscription", "reason": "Il credito Angel finanzia i produttori indipendenti e sblocca un risparmio verificabile del 30–50%."},
+    {"label": "Per collezionisti seri", "offerId": "wine-access-subscription", "reason": "Selezioni da sommelier nei segmenti premium con le migliori note di degustazione disponibili in formato abbonamento."},
+    {"label": "Per principianti assoluti nel vino", "offerId": "bright-cellars-subscription", "reason": "Il sistema di archetipo crea un percorso guidato di sviluppo del palato che nessun altro servizio in questo confronto offre."}
+  ]
 }

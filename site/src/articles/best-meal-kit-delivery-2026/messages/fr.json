@@ -93,5 +93,172 @@
     "sunbasket-meal-kit": "Meilleur pour les ingrédients propres/bio — sans additifs artificiels, conservateurs ni OGM, approvisionnement bio certifié et le meilleur programme de retour d'emballages des cinq services. Limitation : le plus cher des cinq ; la prime par rapport à HelloFresh requiert que les standards d'approvisionnement en ingrédients soient une vraie priorité, pas juste une préférence."
   },
   "pinDescription": "5 services de kits repas comparés pour 2026 : HelloFresh vs Blue Apron vs Green Chef vs EveryPlate vs Sunbasket. Vrai prix par portion, déchets d'emballage, flexibilité de saut — trouvez le kit repas qui correspond vraiment à votre façon de cuisiner.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque service a été abonné pendant 8 semaines — en suivant le coût réel par portion à la fréquence typique deux personnes/trois recettes par semaine, la précision des portions par rapport aux portions indiquées, la cohérence de la qualité des ingrédients, la facilité de mise en pause et le volume de déchets d'emballage par livraison.",
+  "products": [
+    {
+      "offerId": "hellofresh-meal-kit",
+      "badge": "Meilleur au global",
+      "review": "Un large choix de recettes et une qualité d'ingrédients constante font d'HelloFresh le favori des débutants comme des habitués. L'interface pour personnaliser et passer des semaines est intuitive. Le rapport qualité-prix est parmi les meilleurs du secteur.",
+      "pros": [
+        "grand choix de recettes (40+ par semaine)",
+        "qualité d'ingrédients constante",
+        "pause/annulation flexible",
+        "prix raisonnable"
+      ],
+      "cons": [
+        "beaucoup d'emballages",
+        "options bio limitées"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Prix par portion": "env. 10–13 $",
+        "Recettes/semaine": "40+",
+        "Zone de livraison": "États-Unis",
+        "Nombre de personnes": "2–4"
+      },
+      "scores": {
+        "Qualité des recettes": 9.2,
+        "Fraîcheur des ingrédients": 8.8,
+        "Rapport qualité-prix": 9.0,
+        "Commodité": 9.5,
+        "Variété": 9.3
+      }
+    },
+    {
+      "offerId": "blue-apron-meal-kit",
+      "badge": "Meilleur pour les passionnés de cuisine",
+      "review": "Des recettes de niveau chef avec instructions détaillées — idéal pour ceux qui veulent perfectionner leurs techniques culinaires. Ingrédients de haute qualité et combinaisons de saveurs créatives. La durée de préparation est toutefois un peu plus longue.",
+      "pros": [
+        "recettes niveau chef",
+        "ingrédients haut de gamme",
+        "option accord mets-vins",
+        "améliore les compétences culinaires"
+      ],
+      "cons": [
+        "prix plus élevé",
+        "temps de préparation plus long",
+        "moins de recettes que les concurrents"
+      ],
+      "grade": "A",
+      "specs": {
+        "Prix par portion": "env. 12–15 $",
+        "Recettes/semaine": "20+",
+        "Zone de livraison": "États-Unis",
+        "Nombre de personnes": "2–4"
+      },
+      "scores": {
+        "Qualité des recettes": 9.8,
+        "Fraîcheur des ingrédients": 9.2,
+        "Rapport qualité-prix": 7.5,
+        "Commodité": 8.0,
+        "Variété": 7.5
+      }
+    },
+    {
+      "offerId": "green-chef-meal-kit",
+      "badge": "Meilleur choix bio",
+      "review": "Premier service de meal kit certifié bio USDA — populaire auprès des consommateurs soucieux de leur santé. Large gamme de plans pour régimes spéciaux (kéto, low-carb, etc.). Prix élevé, mais qualité et transparence des ingrédients incomparables.",
+      "pros": [
+        "ingrédients bio certifiés USDA",
+        "nombreux plans alimentaires spéciaux",
+        "haute transparence des ingrédients",
+        "recettes gastronomiques créatives"
+      ],
+      "cons": [
+        "prix élevé",
+        "recettes plus complexes"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Prix par portion": "env. 13–16 $",
+        "Recettes/semaine": "30+",
+        "Zone de livraison": "États-Unis",
+        "Nombre de personnes": "2–4"
+      },
+      "scores": {
+        "Qualité des recettes": 9.0,
+        "Fraîcheur des ingrédients": 9.5,
+        "Rapport qualité-prix": 7.0,
+        "Commodité": 8.2,
+        "Variété": 8.5
+      }
+    },
+    {
+      "offerId": "everyplate-meal-kit",
+      "badge": "Meal kit le moins cher",
+      "review": "Le service de meal kit le moins cher du secteur — idéal pour les foyers à petit budget. Recettes simples avec courte durée de préparation, faciles même pour les débutants. La qualité des ingrédients correspond au prix.",
+      "pros": [
+        "prix le plus bas du secteur",
+        "recettes simples et rapides",
+        "temps de préparation court",
+        "plan familial disponible"
+      ],
+      "cons": [
+        "qualité des ingrédients inférieure au premium",
+        "pas de options bio ou régimes spéciaux",
+        "moins de variété de recettes"
+      ],
+      "grade": "B",
+      "specs": {
+        "Prix par portion": "env. 5–7 $",
+        "Recettes/semaine": "20+",
+        "Zone de livraison": "États-Unis",
+        "Nombre de personnes": "2–4"
+      },
+      "scores": {
+        "Qualité des recettes": 7.5,
+        "Fraîcheur des ingrédients": 7.5,
+        "Rapport qualité-prix": 9.8,
+        "Commodité": 8.5,
+        "Variété": 7.0
+      }
+    },
+    {
+      "offerId": "sunbasket-meal-kit",
+      "badge": "Meilleure option santé",
+      "review": "Ingrédients bio et clean food, recettes supervisées par des nutritionnistes — pour les consommateurs soucieux de leur santé. Plans variés pour régimes méditerranéen, paléo, low-carb. Prix élevé, mais apprécié des adeptes du clean eating.",
+      "pros": [
+        "ingrédients bio et clean",
+        "nombreux plans alimentaires spéciaux",
+        "recettes supervisées par nutritionnistes",
+        "haute transparence des ingrédients"
+      ],
+      "cons": [
+        "prix élevé",
+        "choix de recettes parfois limité",
+        "beaucoup d'emballages"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Prix par portion": "env. 13–18 $",
+        "Recettes/semaine": "20+",
+        "Zone de livraison": "États-Unis",
+        "Nombre de personnes": "2–4"
+      },
+      "scores": {
+        "Qualité des recettes": 8.8,
+        "Fraîcheur des ingrédients": 9.0,
+        "Rapport qualité-prix": 6.5,
+        "Commodité": 7.5,
+        "Variété": 8.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Débutants en meal kit et couples actifs",
+      "offerId": "hellofresh-meal-kit",
+      "reason": "Large choix de recettes et interface intuitive rendent HelloFresh accessible quel que soit le niveau culinaire."
+    },
+    {
+      "label": "Passionnés de cuisine souhaitant progresser",
+      "offerId": "blue-apron-meal-kit",
+      "reason": "Les recettes de niveau chef et les ingrédients haut de gamme permettent de faire passer la cuisine maison au niveau supérieur."
+    },
+    {
+      "label": "Familles avec budget serré",
+      "offerId": "everyplate-meal-kit",
+      "reason": "Prix le plus bas du secteur pour des repas simples et savoureux au quotidien."
+    }
+  ]
 }

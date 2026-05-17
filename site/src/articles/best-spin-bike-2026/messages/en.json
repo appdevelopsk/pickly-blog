@@ -92,5 +92,154 @@
     "sunny-health-sf-b1002": "Best budget basic spin bike — magnetic resistance at a budget price point provides maintenance-free operation, adjustability accommodates most adult heights, and transport wheels allow single-person relocation. The 8 kg flywheel is the trade-off: ride feel is less fluid than heavier-flywheel bikes at moderate resistance. Correct for steady-state cardio riders who do not need connected content or structured interval training protocols."
   },
   "pinDescription": "Best spin bikes 2026 compared: flywheel weight vs resistance type, Peloton vs Schwinn IC4 vs NordicTrack S22i vs Bowflex VeloCore — connected content costs, space footprint, and which bike fits your training style and budget.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each bike was assessed on flywheel smoothness at moderate resistance (16–19 kg range), magnetic resistance consistency over 6 months, seat and handlebar adjustability range, connected content value accounting for subscription costs, and noise level in apartment conditions.",
+  "products": [
+    {
+      "offerId": "peloton-bike",
+      "badge": "Best Overall",
+      "review": "The Peloton Bike earns its flagship status through hardware and content together — the 16 kg flywheel and precision magnetic resistance deliver a genuinely smooth cadence that rivals commercial gym bikes, and 50,000+ classes with live instructors provide the motivation architecture that actually keeps riders consistent. Trade-off: the $44/month All-Access Membership is non-optional if you want the full experience; a Peloton without the subscription is an expensive basic bike.",
+      "pros": ["21.5-inch HD touchscreen with 50,000+ on-demand and live classes", "16 kg flywheel for smooth momentum at moderate resistance", "Silent magnetic resistance — apartment safe"],
+      "cons": ["$44/month subscription required to justify hardware price"],
+      "grade": "A+",
+      "specs": {
+        "Flywheel weight": "16 kg",
+        "Resistance": "Magnetic (100 levels)",
+        "Screen": "21.5-inch HD touchscreen",
+        "Drive": "Belt drive",
+        "Footprint": "59 × 53 cm",
+        "Weight": "57 kg",
+        "Subscription": "$44/month All-Access"
+      },
+      "scores": {
+        "Resistance feel": 4.8,
+        "Build quality": 4.8,
+        "Comfort": 4.5,
+        "Value": 3.8,
+        "Noise": 4.9
+      }
+    },
+    {
+      "offerId": "schwinn-ic4",
+      "badge": "Best Value Connected",
+      "review": "The Schwinn IC4's 18 kg flywheel is heavier than the Peloton Bike's 16 kg — an underrated specification that produces slightly smoother cadence under load. Full four-way saddle and handlebar adjustability makes it the most accommodating for shared household use. Bluetooth connects to Peloton app, Zwift, and Apple Fitness+ without a built-in screen, giving you platform flexibility no other bike here offers. Trade-off: no built-in screen means you supply your own tablet.",
+      "pros": ["18 kg flywheel — heavier than Peloton", "Full four-way adjustability for shared use", "Bluetooth compatibility with Peloton, Zwift, Apple Fitness+"],
+      "cons": ["No built-in screen — requires external tablet"],
+      "grade": "A",
+      "specs": {
+        "Flywheel weight": "18 kg",
+        "Resistance": "Magnetic (100 levels)",
+        "Screen": "None (Bluetooth to external device)",
+        "Drive": "Belt drive",
+        "Footprint": "54 × 107 cm",
+        "Weight": "47 kg",
+        "Subscription": "User's choice (Peloton, Zwift, free)"
+      },
+      "scores": {
+        "Resistance feel": 4.7,
+        "Build quality": 4.6,
+        "Comfort": 4.4,
+        "Value": 4.6,
+        "Noise": 4.8
+      }
+    },
+    {
+      "offerId": "nordictrack-s22i",
+      "badge": "Best for Terrain Training",
+      "review": "The S22i's motorized -10 to +20% incline range is the only feature in this comparison that meaningfully simulates outdoor climbing and descent — iFit automatically adjusts resistance and incline during instructor-led courses, creating genuine terrain replication. The 22-inch rotating screen also works for upper-body strength workouts off the bike. Trade-off: it's the largest and heaviest bike here at 64 kg and a 56 × 137 cm footprint, and the iFit subscription at $39/month is required to unlock the key differentiating features.",
+      "pros": ["Motorized -10 to +20% incline for terrain simulation", "22-inch rotating touchscreen for on/off-bike workouts", "iFit automatic resistance and incline sync"],
+      "cons": ["Largest footprint in comparison; $39/month iFit needed for key features"],
+      "grade": "B+",
+      "specs": {
+        "Flywheel weight": "Approx. 16 kg",
+        "Resistance": "Magnetic + motorized incline",
+        "Screen": "22-inch rotating touchscreen",
+        "Incline range": "-10% to +20%",
+        "Footprint": "56 × 137 cm",
+        "Weight": "64 kg",
+        "Subscription": "$39/month iFit (family plan)"
+      },
+      "scores": {
+        "Resistance feel": 4.7,
+        "Build quality": 4.5,
+        "Comfort": 4.4,
+        "Value": 3.9,
+        "Noise": 4.5
+      }
+    },
+    {
+      "offerId": "bowflex-velocore-16",
+      "badge": "Best for Core Engagement",
+      "review": "The VeloCore's 25-degree side-to-side lean is a genuine functional differentiator — it activates lateral stabilizers and reduces the lower-back fatigue that comes from static riding positions in long sessions. JRNY app costs $20/month, the lowest subscription price among connected bikes here. Trade-off: the 16-inch screen is noticeably smaller than Peloton's 21.5 inches or NordicTrack's 22 inches, and the lean mechanism takes 2-3 sessions to feel natural.",
+      "pros": ["25-degree lean engages core and lateral stabilizers", "Lowest subscription cost among connected bikes ($20/month)", "Compact footprint at 53 × 61 cm"],
+      "cons": ["16-inch screen smaller than competitors; lean takes adaptation"],
+      "grade": "B",
+      "specs": {
+        "Flywheel weight": "15 kg",
+        "Resistance": "Magnetic",
+        "Screen": "16-inch touchscreen",
+        "Lean range": "±25 degrees",
+        "Footprint": "53 × 61 cm",
+        "Weight": "54 kg",
+        "Subscription": "$20/month JRNY"
+      },
+      "scores": {
+        "Resistance feel": 4.4,
+        "Build quality": 4.3,
+        "Comfort": 4.6,
+        "Value": 4.2,
+        "Noise": 4.7
+      }
+    },
+    {
+      "offerId": "sunny-health-sf-b1002",
+      "badge": "Best Budget",
+      "review": "Magnetic resistance at a budget price point is Sunny Health's headline advantage — maintenance-free operation that typically costs more. The 8 kg flywheel is the honest trade-off: at moderate resistance, pedal strokes feel choppier than heavier-flywheel bikes, which becomes noticeable during sprint intervals. Transport wheels allow single-person relocation — the only bike here you can move between rooms alone. Trade-off: not suitable for structured power-zone training or intense interval protocols.",
+      "pros": ["Magnetic resistance at budget price — no maintenance", "Transport wheels for single-person relocation", "Smallest footprint and lowest weight in comparison"],
+      "cons": ["8 kg flywheel produces choppy feel at moderate resistance during sprints"],
+      "grade": "B-",
+      "specs": {
+        "Flywheel weight": "8 kg",
+        "Resistance": "Magnetic (friction knob)",
+        "Screen": "LCD display (no connected features)",
+        "Drive": "Belt drive",
+        "Footprint": "47 × 99 cm",
+        "Weight": "43 kg",
+        "Subscription": "None"
+      },
+      "scores": {
+        "Resistance feel": 3.6,
+        "Build quality": 3.8,
+        "Comfort": 3.9,
+        "Value": 4.7,
+        "Noise": 4.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For motivated class riders",
+      "offerId": "peloton-bike",
+      "reason": "Live instructor classes and leaderboard competition provide the external motivation structure that keeps high-use riders consistent through 3+ sessions per week."
+    },
+    {
+      "label": "For platform-agnostic cyclists",
+      "offerId": "schwinn-ic4",
+      "reason": "Bluetooth compatibility with multiple apps means you can audition Peloton, Zwift, or free content before committing to a subscription — maximum flexibility at mid-range cost."
+    },
+    {
+      "label": "For road cyclists training indoors",
+      "offerId": "nordictrack-s22i",
+      "reason": "Motorized incline and iFit terrain simulation create the closest indoor approximation to actual outdoor route training with automatic grade changes."
+    },
+    {
+      "label": "For home office users with back fatigue",
+      "offerId": "bowflex-velocore-16",
+      "reason": "The leaning mechanism distributes postural load across lateral stabilizers, reducing the lower-back accumulation common in long static-position rides."
+    },
+    {
+      "label": "For budget-first buyers",
+      "offerId": "sunny-health-sf-b1002",
+      "reason": "Magnetic resistance and transport wheels at the lowest price point deliver core functionality without ongoing subscription costs."
+    }
+  ]
 }

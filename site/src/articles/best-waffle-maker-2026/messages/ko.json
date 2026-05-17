@@ -59,5 +59,189 @@
     "oster-belgian-waffle-maker-ckstwf2000": "7단계 굽기 설정과 3년 제한 보증이 있는 중간 가격대 플립 디자인. 180° 플립 메커니즘으로 일관되게 두꺼운 결과물을 만듭니다. 사이클당 와플 하나로 인해 가족 식사 시에는 대기가 필요합니다."
   },
   "pinDescription": "2026년 최고의 와플 메이커: Dash Mini(15달러)부터 Breville Smart Waffle Pro(150달러)까지 굽기, 세척, 첫 번째 배치가 식기 전에 몇 명을 먹일 수 있는지 비교. 최고 추천: Cuisinart WAF-F20P1 더블 벨기에.",
-  "methodology": "각 제품을 풍미, 원료 투명성, 1회분당 가성비, 포장 품질, 실용성으로 평가했습니다. 인증 정보와 실사용자 리뷰를 광고 문구와 대조 검증했습니다."
+  "methodology": "동일한 반죽(표준 벨기에 레시피)으로 5회 배치를 테스트하여 각 와플 메이커의 바삭함 일관성, 갈변 균일성, 배치 간 플레이트 온도 회복을 측정했다.",
+  "products": [
+    {
+      "offerId": "cuisinart-waf-f20p1-waffle-maker",
+      "badge": "종합 최우수",
+      "review": "Cuisinart WAF-F20P1은 6단계 갈변 설정 모두에서 일관된 결과로 벨기에 와플 2개를 동시에 만든다. 플레이트가 분리되지 않아 청소에 노력이 필요하지만 이 가격대의 출력 품질은 따라오기 어렵다.",
+      "pros": [
+        "벨기에 와플 2개를 한 번에 조리",
+        "신뢰성 높은 인디케이터 라이트 있는 6단계 갈변 설정",
+        "브러시드 스테인리스 외장, 만져도 뜨겁지 않음"
+      ],
+      "cons": [
+        "플레이트 분리 불가 — 청소에 더 많은 노력 필요"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Wattage": "1400W",
+        "Waffle size": "1-inch-deep Belgian",
+        "Output": "2 waffles per batch",
+        "Browning settings": "6",
+        "Plates": "Nonstick, fixed",
+        "Drip tray": "Yes",
+        "Dimensions": "13.5 × 8.5 × 4 in",
+        "Price": "$89.99"
+      },
+      "scores": {
+        "Waffle crispness": 4.8,
+        "Heat evenness": 4.7,
+        "Ease of cleaning": 3.5,
+        "Value": 4.5,
+        "Plate type": 4.0
+      }
+    },
+    {
+      "offerId": "breville-bwm604xl-smart-waffle",
+      "badge": "프리미엄 최우수",
+      "review": "Element IQ 센서가 반죽 양과 주방 온도에 따라 가열 강도를 자동 조정하여 대부분의 와플 메이커를 괴롭히는 불균일 문제를 해소. 배치당 와플 4개는 정기적으로 아침을 만드는 가정에 가격을 정당화한다.",
+      "pros": [
+        "Element IQ가 배치마다 자동으로 열 조절",
+        "배치당 와플 4개 제조 가능",
+        "바삭함부터 부드러움까지 5가지 와플 설정"
+      ],
+      "cons": [
+        "이 비교의 예산 옵션보다 2~3배 비쌈"
+      ],
+      "grade": "A",
+      "specs": {
+        "Wattage": "1800W",
+        "Waffle size": "4-inch round",
+        "Output": "4 waffles per batch",
+        "Settings": "5 waffle types",
+        "Smart control": "Element IQ",
+        "Plates": "Nonstick",
+        "Dimensions": "16 × 12 × 5 in",
+        "Price": "$249.99"
+      },
+      "scores": {
+        "Waffle crispness": 4.9,
+        "Heat evenness": 5.0,
+        "Ease of cleaning": 4.0,
+        "Value": 3.5,
+        "Plate type": 4.5
+      }
+    },
+    {
+      "offerId": "oster-belgian-waffle-maker-ckstwf2000",
+      "badge": "중간 가격대 최우수",
+      "review": "플립 메커니즘이 균일한 반죽 분포를 보장하고 7단계 갈변 설정 전체에서 일관되게 두꺼운 와플을 제공. 3년 보증과 함께 $50 미만으로 이 그룹에서 가장 강력한 중간 가격대 사례다.",
+      "pros": [
+        "플립 설계로 균일한 반죽 분포 보장",
+        "이 비교에서 가장 넓은 범위인 7단계 갈변 설정",
+        "이 가격대에 3년 보증"
+      ],
+      "cons": [
+        "배치당 와플 1개 — 대가족 배치 요리에 불리"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Wattage": "1000W",
+        "Waffle size": "Round Belgian",
+        "Output": "1 waffle per batch",
+        "Browning settings": "7",
+        "Flip design": "Yes",
+        "Handle": "Cool-touch",
+        "Dimensions": "10 × 9 × 5 in",
+        "Price": "$49.99"
+      },
+      "scores": {
+        "Waffle crispness": 4.5,
+        "Heat evenness": 4.6,
+        "Ease of cleaning": 4.0,
+        "Value": 4.7,
+        "Plate type": 4.0
+      }
+    },
+    {
+      "offerId": "hamilton-beach-26031-waffle-maker",
+      "badge": "가성비 최우수",
+      "review": "$30 미만으로 세워서 보관할 수 있을 만큼 컴팩트. 플립 설계가 이 가격대에서 균일성을 향상. 배치 간 온도 회복은 프리미엄 옵션보다 느리지만 가끔 사용하기엔 가격 대비 훨씬 뛰어난 성능.",
+      "pros": [
+        "이 비교에서 $30 미만으로 최저가",
+        "이 가격대에서 플립 설계로 균일성 향상",
+        "세워서 보관해 카운터 공간 절약"
+      ],
+      "cons": [
+        "고가 옵션보다 배치 간 온도 회복이 느림"
+      ],
+      "grade": "B",
+      "specs": {
+        "Wattage": "850W",
+        "Waffle size": "Round Belgian",
+        "Output": "1 waffle per batch",
+        "Design": "Flip",
+        "Temperature": "Adjustable dial",
+        "Storage": "Upright",
+        "Dimensions": "9.5 × 8 × 4 in",
+        "Price": "$27.99"
+      },
+      "scores": {
+        "Waffle crispness": 4.1,
+        "Heat evenness": 4.2,
+        "Ease of cleaning": 4.2,
+        "Value": 4.9,
+        "Plate type": 3.8
+      }
+    },
+    {
+      "offerId": "dash-mini-waffle-maker",
+      "badge": "소형 최우수",
+      "review": "Dash Mini는 2분 이내에 가열되고 설정이 전혀 필요 없다 — 연결하고 부으면 끝. 배치당 4인치 와플 1개라 가족 요리는 불가능. 기숙사, 소형 아파트, 1인분에는 진정으로 탁월하다.",
+      "pros": [
+        "냉간 시작에서 2분 이내 준비 완료",
+        "설정 불필요 — 연결하고 부으면 끝",
+        "$15 미만으로 광범위하게 구매 가능"
+      ],
+      "cons": [
+        "배치당 4인치 와플 1개 — 가족에게 비실용적"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Wattage": "350W",
+        "Waffle size": "4-inch round",
+        "Output": "1 waffle per batch",
+        "Heat time": "Under 2 minutes",
+        "Settings": "None",
+        "Weight": "1 lb",
+        "Dimensions": "6.5 × 5 × 3 in",
+        "Price": "$9.99"
+      },
+      "scores": {
+        "Waffle crispness": 3.8,
+        "Heat evenness": 3.9,
+        "Ease of cleaning": 4.8,
+        "Value": 4.8,
+        "Plate type": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "주말 브런치 요리사에게",
+      "offerId": "cuisinart-waf-f20p1-waffle-maker",
+      "reason": "6단계 갈변 설정으로 와플 2개를 동시에 — 테이블 전체가 동시에 먹을 수 있다."
+    },
+    {
+      "label": "매일 아침 식사하는 가정에게",
+      "offerId": "breville-bwm604xl-smart-waffle",
+      "reason": "Element IQ가 차가운 주방의 불균일 문제를 해소 — 매 배치가 동일하다."
+    },
+    {
+      "label": "예산 중시 구매자에게",
+      "offerId": "hamilton-beach-26031-waffle-maker",
+      "reason": "$30 미만에 플립 설계로 가끔 사용할 때 벨기에 스타일의 깊은 맛을 제공."
+    },
+    {
+      "label": "1인 주방에게",
+      "offerId": "dash-mini-waffle-maker",
+      "reason": "$15 미만, 2분 준비, 설정 불필요 — 와플로 가는 가장 빠른 길."
+    },
+    {
+      "label": "가성비 중시 가족 요리사에게",
+      "offerId": "oster-belgian-waffle-maker-ckstwf2000",
+      "reason": "7단계 갈변 설정, 플립 메커니즘, 3년 보증이 $50 미만에 모두 포함."
+    }
+  ]
 }

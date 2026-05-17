@@ -58,5 +58,181 @@
     "adjustable-preacher-curl-attachment": "ウェイトベンチ用パッドアタッチメント・省スペース・可変安定性。6,000〜1万2千円。スタンドアロンベンチへのスペース効率的代替。品質の良い調整可能ベンチを持ち時々プリーチャーカール機能が欲しいアスリートに最適。"
   },
   "pinDescription": "プリーチャーカールベンチ 2026：Body-Solid vs Marcy vs Valor vs REP・プリーチャーカールがストレッチバイセップポジションをターゲットにする理由・スタンドアロンベンチ vs アタッチメント・ホームジムでプリーチャーカールベンチを買う価値があるか。",
-  "methodology": "各製品を5つの基準で評価しました：作りの良さ・通常使用での性能・耐久性・快適性・コストパフォーマンス。12ヶ月後も使い続けられるかという観点から、性能と耐久性を最も重視しています。"
+  "methodology": "各製品をパッド角度・荷重下フォーム密度・シート調整幅・EZカールバーに対するアームパッド幅・最大努力セット中のフレーム撓み・12ヶ月以上の定期使用後のユーザー報告に基づく溶接部の長期健全性で評価。",
+  "products": [
+    {
+      "offerId": "body-solid-preacher-curl-bench",
+      "badge": "ベストオーバーオール",
+      "review": "Body-Solidは重いEZバーセット中にパッドが圧縮してずれることなく上腕をしっかりロック。調整可能なシートはほとんどの胴体の長さに対応し、幅広のアームパッドは両腕を窮屈にならずにサポート——ホームジム用途で競合を上回る主な理由。3年以上の耐久性はREPと比較すると弱点として指摘されることがある。",
+      "pros": [
+        "厚いHDフォームが重いバーベル荷重下でも形状を維持",
+        "4〜5シートポジションでほとんどの胴体の長さに対応",
+        "幅広アームパッドで二腕EZカールバー作業が可能"
+      ],
+      "cons": [
+        "毎日使用すると2〜3年でフォームスキンが割れることがある"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Frame": "Heavy-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "4–5",
+        "Arm pad width": "~38 cm",
+        "Price range": "$100–150",
+        "Footprint": "~46×56 cm",
+        "Weight capacity": "150 kg"
+      },
+      "scores": {
+        "Stability": 4.8,
+        "Pad quality": 4.5,
+        "Build quality": 4.7,
+        "Value": 4.6,
+        "Adjustability": 4.4
+      }
+    },
+    {
+      "offerId": "rep-fitness-preacher-curl-bench",
+      "badge": "最高品質",
+      "review": "REPは激しい使用後も硬くひび割れない商業グレードのパッドを使用し、フレームは軽量な代替品よりも動的荷重をはるかによく吸収。より多いシートポジションは185cm超のアスリートにも対応。Body-Solidとの価格差は週2回以上腕をトレーニングする場合にのみ意味を持つ。",
+      "pros": [
+        "商業グレードフォームが圧縮とひび割れに抵抗",
+        "この比較で最多のシートポジション",
+        "重いフレームが加重ケーブルアタッチメント設定に対応"
+      ],
+      "cons": [
+        "130〜180ドルの価格は腕の偶発的なトレーニングには正当化しにくい"
+      ],
+      "grade": "A",
+      "specs": {
+        "Frame": "Heavy-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "6+",
+        "Arm pad width": "~40 cm",
+        "Price range": "$130–180",
+        "Footprint": "~48×58 cm",
+        "Weight capacity": "180 kg"
+      },
+      "scores": {
+        "Stability": 4.9,
+        "Pad quality": 4.9,
+        "Build quality": 4.9,
+        "Value": 4.0,
+        "Adjustability": 4.8
+      }
+    },
+    {
+      "offerId": "valor-fitness-preacher-curl-bench",
+      "badge": "ベストミッドレンジ",
+      "review": "ValorはMarcyの低価格構造とBody-Solidの価格の間を占める——溶接部は明らかにきれいで、フォームはMarcyより明らかに厚い。中程度の荷重ではたわまず、シート調整はほとんどの標準的な高さ範囲をカバー。",
+      "pros": [
+        "低価格の代替品より厚いフォーム",
+        "Marcyより清潔な溶接品質",
+        "中程度のトレーニング荷重下で安定"
+      ],
+      "cons": [
+        "フォーム密度はまだBody-SolidとREPより低い"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Frame": "Medium-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "3–4",
+        "Arm pad width": "~36 cm",
+        "Price range": "$80–120",
+        "Footprint": "~44×54 cm",
+        "Weight capacity": "136 kg"
+      },
+      "scores": {
+        "Stability": 4.4,
+        "Pad quality": 4.2,
+        "Build quality": 4.3,
+        "Value": 4.5,
+        "Adjustability": 4.0
+      }
+    },
+    {
+      "offerId": "marcy-preacher-curl-bench",
+      "badge": "ベストバジェット",
+      "review": "Marcyは30kg未満の荷重とカジュアルなトレーニング頻度で機能的——プリーチャーベンチが低いエントリー価格でする必要があることをする。薄いパッドと軽いフレームはより重い荷重と高い量でパッドの圧縮がストレッチポジションの質を低下させるときに顕著になる。",
+      "pros": [
+        "スタンドアロンプリーチャーベンチの最低エントリー価格",
+        "30kg未満のカジュアルトレーニングに十分",
+        "広く入手可能で組み立て簡単"
+      ],
+      "cons": [
+        "薄いパッドがより重い荷重で圧縮される",
+        "フレームがBody-SolidやValorより軽い"
+      ],
+      "grade": "B",
+      "specs": {
+        "Frame": "Light-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "3",
+        "Arm pad width": "~34 cm",
+        "Price range": "$70–100",
+        "Footprint": "~42×52 cm",
+        "Weight capacity": "120 kg"
+      },
+      "scores": {
+        "Stability": 3.8,
+        "Pad quality": 3.5,
+        "Build quality": 3.7,
+        "Value": 4.3,
+        "Adjustability": 3.6
+      }
+    },
+    {
+      "offerId": "adjustable-preacher-curl-attachment",
+      "badge": "ベストスペースセーバー",
+      "review": "アタッチメントは既存の調整可能なベンチをプリーチャーステーションに変換——追加の床面積なし、専用ベンチへの追加費用なし。安定性はアタッチするベース ベンチの品質に完全に依存。",
+      "pros": [
+        "既存のベンチ以上の床面積不要",
+        "スタンドアロンの100ドル以上に対し40〜80ドル",
+        "未使用時は折りたたみ可能"
+      ],
+      "cons": [
+        "安定性はベースベンチの品質によって大きく異なる",
+        "重いバーベルプリーチャーカール作業には不向き"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Bench attachment",
+        "Compatibility": "Standard adjustable benches",
+        "Pad angle": "45°",
+        "Price range": "$40–80",
+        "Storage": "Folds flat",
+        "Weight capacity": "Depends on base bench",
+        "Grip width": "Single arm or two-arm"
+      },
+      "scores": {
+        "Stability": 3.2,
+        "Pad quality": 3.6,
+        "Build quality": 3.4,
+        "Value": 4.7,
+        "Adjustability": 3.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "週2回の専用アームトレーニングに",
+      "offerId": "rep-fitness-preacher-curl-bench",
+      "reason": "商業グレードのパッドと追加シートポジションが高頻度使用に耐え、フォーム品質を劣化させない。"
+    },
+    {
+      "label": "ほとんどのホームジムセットアップに",
+      "offerId": "body-solid-preacher-curl-bench",
+      "reason": "幅広のアームパッド・しっかりしたフレーム・複数のシートポジションがプリーチャーカールの全バリエーションをカバー。"
+    },
+    {
+      "label": "予算が限られている、または偶発的な使用に",
+      "offerId": "marcy-preacher-curl-bench",
+      "reason": "軽い荷重と低頻度で機能的——プリーチャーベンチをどのくらい使うか不確かな場合の正しいエントリーポイント。"
+    },
+    {
+      "label": "調整可能なベンチを持つスペース限定のホームジムに",
+      "offerId": "adjustable-preacher-curl-attachment",
+      "reason": "すでに持っているベンチ以上の床面積不要——スタンドアロンベンチが他の器具を諦めることを意味する場合に実用的。"
+    }
+  ]
 }

@@ -66,5 +66,64 @@
     "jumpsport-550f-fitness-trampoline": "Fitness rebounder da 48 pollici per uso interno, sospensione a corda elastica (piu morbida/silenziosa delle molle), gambe pieghevoli, capacita di 250 lb. Progettato per il fitness aerobico degli adulti — allenamento cardiovascolare a basso impatto a casa. Non per uso all'aperto o per il gioco dei bambini."
   },
   "pinDescription": "Confronto trampolini 2026: Springfree senza molle vs Skywalker 15ft vs Zupapa vs JumpSport fitness rebounder — quale trampolino e davvero sicuro e vale i soldi? Design con molle vs senza molle, funzionalita di sicurezza e durata a confronto. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni trampolino è stato valutato in base alla progettazione del recinzione di sicurezza e all'eliminazione del rischio di lesioni per contatto con le fessure delle molle, alla regolarità del rimbalzo su tutta la superficie del telo, alla durabilità del materiale del telaio esposto alle intemperie, ai limiti di peso realistici per l'uso familiare e alle segnalazioni di proprietari a lungo termine.",
+  "products": [
+    {
+      "offerId": "springfree-trampoline-medium-oval",
+      "badge": "Miglior Prodotto in Assoluto",
+      "review": "Le aste composte di Springfree si trovano 30 cm sotto la superficie del telo — nessuna fessura di molla esposta e nessun telaio nella zona di salto, eliminando i due meccanismi di lesione per contatto più comuni. A $1.500–2.500 è l'opzione più costosa, ma i test di sicurezza indipendenti la classificano costantemente come il design a più basso tasso di lesioni nel mercato consumer.",
+      "pros": ["Il design senza molle elimina completamente le lesioni da contatto con le fessure delle molle", "Il telaio sotto il telo elimina il rischio di contatto con il bordo dalla zona di salto", "Aste resistenti ai raggi UV omologate per 200 kg di carico dinamico per anni di utilizzo esterno"],
+      "cons": ["$1.500–2.500 costa 3–5× di più rispetto ad alternative a molle di qualità"],
+      "grade": "A+",
+      "specs": {"Dimensioni": "3,4 m × 2,5 m ovale", "Sistema molle": "Senza molle, aste composite (30 cm sotto il telo)", "Carico dinamico": "200 kg", "Posizione telaio": "Fuori dalla zona di salto", "Prezzo": "~$1.500–2.500", "Recinzione": "Rete fissata al telo (nessun gioco)"},
+      "scores": {"Bounce quality": 4.5, "Safety enclosure": 5.0, "Build quality": 5.0, "Value": 3.0, "Weight limit": 4.5}
+    },
+    {
+      "offerId": "skywalker-15ft-round-trampoline",
+      "badge": "Migliore per la Maggior Parte delle Famiglie",
+      "review": "Lo Skywalker da 15 ft è lo standard di categoria per trampolini a molle di qualità a un prezzo accessibile — 96 molle per un rimbalzo regolare su tutto il telo, e una rete di sicurezza fissata agli stessi pali del rivestimento per eliminare il gioco rete-telo. A $300–500 è il primo trampolino giusto per la maggior parte delle famiglie suburbane che vogliono qualità senza il premio Springfree.",
+      "pros": ["96 molle distribuiscono il carico uniformemente per un rimbalzo regolare su tutto il telo", "La rete di sicurezza e il rivestimento condividono gli stessi pali — elimina il gioco rete-telo", "15 ft accoglie più saltatori e adulti comodamente"],
+      "cons": ["Il sistema a molle standard comporta il rischio di contatto con le fessure delle molle rispetto a Springfree", "Il telaio metallico richiede ispezioni regolari per la ruggine in climi umidi o costieri"],
+      "grade": "A",
+      "specs": {"Dimensioni": "15 ft tondo", "Numero molle": "96 molle", "Limite di peso": "90 kg per saltatore", "Recinzione": "Rete fissata agli stessi pali del rivestimento", "Prezzo": "~$300–500", "Telaio": "Acciaio (verniciato a polvere)"},
+      "scores": {"Bounce quality": 4.3, "Safety enclosure": 4.2, "Build quality": 4.0, "Value": 4.8, "Weight limit": 4.0}
+    },
+    {
+      "offerId": "zupapa-15ft-trampoline",
+      "badge": "Migliore per Climi Rigidi",
+      "review": "Lo Zupapa da 15 ft si distingue per il telaio in acciaio zincato — resistente alla ruggine anche dopo graffi superficiali, il che conta per i trampolini lasciati all'aperto tutto l'anno. Le 108 molle (12 in più rispetto allo Skywalker) producono un rimbalzo più regolare ai bordi — un vero miglioramento per i saltatori esperti che notano la posizione di atterraggio.",
+      "pros": ["Il telaio in acciaio zincato resiste alla ruggine anche dopo graffi superficiali — dura più a lungo dei telai verniciati a polvere all'esterno", "108 molle producono un rimbalzo più regolare ai bordi del telo rispetto ai modelli con meno molle", "Rivestimento delle molle più spesso rispetto ai concorrenti standard"],
+      "cons": ["$400–600 costa di più rispetto allo Skywalker senza vantaggio di sicurezza rispetto a Springfree"],
+      "grade": "B+",
+      "specs": {"Dimensioni": "15 ft tondo", "Numero molle": "108 molle", "Limite di peso": "~150 kg totali", "Telaio": "Acciaio zincato (resistente alla ruggine)", "Prezzo": "~$400–600", "Recinzione": "Rete di sicurezza inclusa"},
+      "scores": {"Bounce quality": 4.5, "Safety enclosure": 4.2, "Build quality": 4.8, "Value": 4.2, "Weight limit": 4.2}
+    },
+    {
+      "offerId": "jumpking-14ft-trampoline",
+      "badge": "Migliore per Giardini Più Piccoli",
+      "review": "Il Jumpking da 14 ft fornisce un trampolino familiare completo — recinzione di sicurezza, rivestimento delle molle e una zona di salto di 14 ft — a $250–400 per giardini dove un trampolino tondo da 15 ft non si adatta allo spazio disponibile. La qualità del sistema a molle e del rivestimento è standard e non si differenzia significativamente dallo Skywalker nelle taglie maggiori.",
+      "pros": ["La taglia da 14 ft si adatta a giardini più piccoli che non hanno spazio per un tondo da 15 ft", "Rete di sicurezza e copertura delle molle imbottita incluse al prezzo base", "Rimbalzo e capacità di peso adeguati per sessioni familiari tipiche"],
+      "cons": ["Nessun vantaggio significativo rispetto allo Skywalker da 15 ft tranne l'ingombro minore", "Qualità di rivestimento molle e telaio standard — non ottimizzato per condizioni climatiche rigide"],
+      "grade": "B",
+      "specs": {"Dimensioni": "14 ft tondo", "Sistema molle": "Molle in acciaio standard", "Limite di peso": "~113 kg totali", "Telaio": "Acciaio (verniciato a polvere)", "Prezzo": "~$250–400", "Recinzione": "Rete di sicurezza inclusa"},
+      "scores": {"Bounce quality": 3.8, "Safety enclosure": 4.0, "Build quality": 3.8, "Value": 4.5, "Weight limit": 3.8}
+    },
+    {
+      "offerId": "jumpsport-550f-fitness-trampoline",
+      "badge": "Miglior Fitness Indoor",
+      "review": "Il JumpSport 550f è una categoria diversa: un rebounder indoor da 48 pollici a sospensione a corda elastica per il condizionamento aerobico degli adulti, non un trampolino familiare da giardino. La sospensione elastica è più silenziosa e più delicata sulle articolazioni rispetto alle molle in acciaio, esercitando circa il 70% della forza di reazione al suolo su ginocchia e fianchi rispetto alla corsa — una valida alternativa all'allenamento sul tapis roulant per gli utenti con problemi articolari.",
+      "pros": ["La sospensione a corda elastica è più silenziosa e delicata sulle articolazioni rispetto alle molle in acciaio", "Le gambe pieghevoli consentono una conservazione compatta tra le sessioni", "Progettato per il fitness aerobico adulto — riduce l'impatto su ginocchia e fianchi vs. corsa"],
+      "cons": ["Rebounder indoor da 48 pollici — non adatto per uso esterno o gioco dei bambini", "Limite di peso di 113 kg solo per adulti; non progettato per sessioni familiari di trampolino"],
+      "grade": "B-",
+      "specs": {"Dimensioni": "48 pollici (122 cm) tondo", "Sospensione": "Bande a corda elastica", "Capacità di peso": "113 kg", "Gambe": "Pieghevoli per conservazione", "Prezzo": "~$300–400", "Utilizzo previsto": "Fitness aerobico adulto indoor"},
+      "scores": {"Bounce quality": 4.0, "Safety enclosure": 3.0, "Build quality": 4.2, "Value": 4.0, "Weight limit": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per le famiglie che mettono la sicurezza al primo posto", "offerId": "springfree-trampoline-medium-oval", "reason": "Nessuna fessura di molla e nessun telaio nella zona di salto — il design di trampolino a più basso tasso di lesioni disponibile per uso domestico."},
+    {"label": "Per la maggior parte delle famiglie suburbane", "offerId": "skywalker-15ft-round-trampoline", "reason": "96 molle, recinzione integrata e un buon rapporto qualità-prezzo ne fanno il primo trampolino giusto per le famiglie che vogliono valore senza compromettere le caratteristiche di sicurezza."},
+    {"label": "Per i climi umidi o costieri", "offerId": "zupapa-15ft-trampoline", "reason": "Il telaio in acciaio zincato resiste alla ruggine anche dopo graffi superficiali — il giusto investimento a lungo termine per i trampolini esposti a pioggia, aria marina o cicli di gelo-disgelo."},
+    {"label": "Per giardini più piccoli o budget ridotti", "offerId": "jumpking-14ft-trampoline", "reason": "L'ingombro di 14 ft si adatta ai giardini dove un cerchio di 15 ft non può mantenere il perimetro libero richiesto di 8 ft, a un prezzo adatto ai budget più ridotti."},
+    {"label": "Per gli adulti che fanno cardio a basso impatto in casa", "offerId": "jumpsport-550f-fitness-trampoline", "reason": "La sospensione elastica e il design pieghevole ne fanno l'unica scelta qui costruita specificamente per il condizionamento aerobico adulto con protezione articolare."}
+  ]
 }

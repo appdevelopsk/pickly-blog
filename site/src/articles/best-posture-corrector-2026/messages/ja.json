@@ -88,5 +88,170 @@
     "truweo-posture-corrector": "デュアルベルクロで張り具合を微調整できる最も調整範囲が広いパッシブサポーター。ベルクロが衣類・髪に引っかかりやすい；締めすぎで腕の痺れが起きる可能性——最もゆるい設定から開始；他のパッシブサポーター同様の筋力依存リスクあり。",
     "back-brace-posture-corrector": "立ち仕事・荷重作業向けの腰部サポートブレース——デスク姿勢の胸椎後弯とは別の問題に対処。座位でのオフィス使用には嵩張りすぎ；肩・首の姿勢には対応しない；長時間使用での脊柱起立筋への筋力依存が適用される。"
   },
-  "methodology": "各製品を5つの基準で評価しました：作りの良さ・通常使用での性能・耐久性・快適性・コストパフォーマンス。12ヶ月後も使い続けられるかという観点から、性能と耐久性を最も重視しています。"
+  "methodology": "各製品を矯正メカニズム（アクティブバイオフィードバック対パッシブブレース）、筋力依存リスク、ワーキングデイ中の実際の着用感、衣服下での目立たなさ、各アプローチを支持するエビデンスベースで評価した。",
+  "products": [
+    {
+      "offerId": "upright-go-2",
+      "badge": "アクティブトレーナーベスト",
+      "review": "Upright GO 2はこの比較で唯一のアクティブバイオフィードバックデバイス——猫背を検知して振動し、パッシブブレースが生み出す筋力依存問題を回避してアプリでの改善追跡を行う。制限はカバー範囲：上背部と首のみで、腰部や股関節の位置設定には対応しない。",
+      "pros": [
+        "アクティブバイオフィードバックが筋力依存を作らずに姿勢を訓練",
+        "アプリが数週間にわたって改善を追跡するデータ主導アプローチ",
+        "衣服の下にフィットするデイスクリートな接着センサー"
+      ],
+      "cons": [
+        "上背部のみカバー——腰部・股関節・首への矯正なし"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Type": "Active biofeedback (vibration)",
+        "Placement": "Upper back adhesive",
+        "App": "Yes — tracks posture over time",
+        "Battery": "Rechargeable",
+        "Price (US)": "~$100"
+      },
+      "scores": {
+        "Correction effectiveness": 4.5,
+        "Comfort": 4.2,
+        "Discreetness": 4.8,
+        "Value": 3.8,
+        "Ease of use": 4.5
+      }
+    },
+    {
+      "offerId": "comfymed-posture-brace",
+      "badge": "クラシックブレースベスト",
+      "review": "ComfyMedのフィギュア8肩ブレースは短時間の固有感覚セッション中に肩を後方・下方に物理的に引き戻す。衣服の下に着用でき、明確な触覚フィードバックを提供。重要な制限：1日20〜30分以上使用すると筋肉の代わりに仕事をするため、矯正ではなく依存を生み出す。",
+      "pros": [
+        "強力な固有感覚フィードバック——姿勢の変化をすぐに感じる",
+        "目立たない着用のために衣服の下にフィット",
+        "基本的な短時間使用への低価格"
+      ],
+      "cons": [
+        "カテゴリー最高の筋力依存リスク——一日中着用すると依存を生み出すパッシブホールディング"
+      ],
+      "grade": "A",
+      "specs": {
+        "Type": "Passive figure-8 shoulder brace",
+        "Material": "Elastic fabric",
+        "Wear time": "20–30 min sessions recommended",
+        "Price (US)": "~$28"
+      },
+      "scores": {
+        "Correction effectiveness": 4.0,
+        "Comfort": 3.5,
+        "Discreetness": 4.2,
+        "Value": 4.8,
+        "Ease of use": 4.6
+      }
+    },
+    {
+      "offerId": "fitletic-posture-corrector",
+      "badge": "アクティブウェアベスト",
+      "review": "Fileticの軽量弾性構造はアクティブな使用に最も快適なパッシブオプション——動作を制限せず歩行・外出・軽い活動中に着用可能。軽量構造はまた引き戻し力が少なく、重篤な胸椎後弯には不十分。繰り返し洗濯で弾性が3〜6か月で劣化。",
+      "pros": [
+        "アクティブな動作に最も軽く快適なパッシブブレース",
+        "あらゆる衣服の下にフィットする低プロファイル",
+        "日常活動中の軽い姿勢意識に適切"
+      ],
+      "cons": [
+        "軽量構造が重篤な胸椎後弯に対する引き戻し力が不十分"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Type": "Passive elastic shoulder brace",
+        "Construction": "Lightweight elastic",
+        "Lifespan": "~3–6 months with regular washing",
+        "Price (US)": "~$30"
+      },
+      "scores": {
+        "Correction effectiveness": 3.5,
+        "Comfort": 4.6,
+        "Discreetness": 4.7,
+        "Value": 4.4,
+        "Ease of use": 4.8
+      }
+    },
+    {
+      "offerId": "truweo-posture-corrector",
+      "badge": "最も調整可能なブレース",
+      "review": "Truweoのデュアルベルクロシステムはここで最も精密な張り具合調整を提供——必要な肩引き戻し力を正確に調整可能。トレードオフはベルクロが衣類・髪に引っかかること、締め過ぎで神経圧迫から腕の痺れが起きる可能性。必ず最も緩い設定から開始。",
+      "pros": [
+        "正確な張り具合調整のためのデュアルベルクロ——最も設定可能なパッシブブレース",
+        "幅広い体型にフィットするユニセックスデザイン",
+        "正しいフィットのための明確なサイズガイド"
+      ],
+      "cons": [
+        "ベルクロが衣類・髪に引っかかる。締め過ぎで神経圧迫から腕の痺れリスク"
+      ],
+      "grade": "B",
+      "specs": {
+        "Type": "Passive clavicle brace",
+        "Adjustment": "Dual velcro tension system",
+        "Design": "Unisex",
+        "Price (US)": "~$27"
+      },
+      "scores": {
+        "Correction effectiveness": 3.8,
+        "Comfort": 3.4,
+        "Discreetness": 3.8,
+        "Value": 4.6,
+        "Ease of use": 3.8
+      }
+    },
+    {
+      "offerId": "back-brace-posture-corrector",
+      "badge": "腰部サポートベスト",
+      "review": "Muellerバックブレースは腰部への荷重を特定に対応——可調整サイドコンプレッション付き硬質パネルは立ち仕事と身体的荷重作業に適切。胸椎後弯や肩の丸まりには効果がなく、座位での使用には嵩張りすぎ。使用ケースは狭いが本来の目的に対して本物。",
+      "pros": [
+        "立ち仕事と身体的荷重への硬質パネルによる実際のサポート",
+        "個人化された腰部サポートのための可調整サイドコンプレッション",
+        "このゾーンに特化する唯一の製品——腰部のみをターゲット"
+      ],
+      "cons": [
+        "座位での使用には嵩張りすぎ。上背部・肩・首には対応しない"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Passive lumbar support brace",
+        "Panel": "Rigid with adjustable side compression",
+        "Coverage": "Lower back only",
+        "Price (US)": "~$25"
+      },
+      "scores": {
+        "Correction effectiveness": 3.8,
+        "Comfort": 3.0,
+        "Discreetness": 2.5,
+        "Value": 4.5,
+        "Ease of use": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "姿勢を固定するのではなく訓練したいデスクワーカー向け",
+      "offerId": "upright-go-2",
+      "reason": "アクティブバイオフィードバックが一日中の着用でパッシブブレースが生み出す筋力依存なしに姿勢習慣を構築。"
+    },
+    {
+      "label": "20〜30分の短い固有感覚リマインダーセッション向け",
+      "offerId": "comfymed-posture-brace",
+      "reason": "最低価格での強い触覚フィードバック——構造的サポートとしてではなく手短なキューとして使用する場合に効果的。"
+    },
+    {
+      "label": "動きや外出中のアクティブな日常使用向け",
+      "offerId": "fitletic-posture-corrector",
+      "reason": "最も軽いパッシブオプション——動作を制限せず歩行や軽い活動での快適な着用。"
+    },
+    {
+      "label": "精密に調整可能なブレースを求めるユーザー向け",
+      "offerId": "truweo-posture-corrector",
+      "reason": "デュアルベルクロ張り具合システムがパッシブブレースカテゴリーで肩引き戻し力の最も精密な制御を提供。"
+    },
+    {
+      "label": "腰痛を抱えた立ち仕事者向け",
+      "offerId": "back-brace-posture-corrector",
+      "reason": "可調整コンプレッション付き硬質腰椎パネルが特に立ち仕事と身体的荷重シナリオ向けに設計。"
+    }
+  ]
 }

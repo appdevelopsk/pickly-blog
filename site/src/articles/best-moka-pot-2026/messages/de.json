@@ -58,5 +58,174 @@
     "pezzetti-italexpress-moka": "Guenstige Edelstahl-Moka-Pot, in Italien hergestellt. $20-30. Beste Einsteiger-Moka-Pot -- funktional aequivalenter Bruhmechanismus zu niedrigerem Preis. Geeignet fuer Erstnutzer, bevor in eine Premium-Version investiert wird."
   },
   "pinDescription": "Moka Pot Vergleich 2026: Bialetti Moka Express vs Brikka vs Cuisinox vs Ilsa vs Pezzetti -- Herdespresso-Druck, Crema-Produktion, Aluminium vs Edelstahl und was Moka-Pot-Kaffee wirklich ist im Vergleich zu echtem Espresso. #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jeder Moka-Pot wurde nach Brühdruck und Extraktionscharakter, Materialqualität, Induktionskompatibilität, verfügbaren Größen und der Fähigkeit bewertet, das konzentrierte Geschmacksprofil von Herdespresso zu reproduzieren.",
+  "products": [
+    {
+      "offerId": "bialetti-moka-express",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Der originale achteckige Aluminium-Moka-Express definiert seit 1933 den Herdespresso. Die Aluminiumlegierung leitet Wärme gleichmäßig, und ein gut eingearbeiteter Topf erzeugt eine Süße, die Edelstahlalternativen selten erreichen. Erhältlich in 1–12 Tassen; nur Handwäsche, kein Induktionsherd ohne Adapter.",
+      "pros": [
+        "Charakteristisches Geschmacksprofil des Herdespressos",
+        "Größtes Sortiment: 1 bis 12 Tassen",
+        "Erschwinglich bei 25–45€ und weit verfügbar"
+      ],
+      "cons": [
+        "Nur Handwäsche; ohne Adapter nicht induktionsgeeignet"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Material": "Lebensmittelechtes Aluminium",
+        "Verfügbare Größen": "1, 2, 3, 6, 9, 12 Tassen",
+        "Induktion": "Nein (Adapter benötigt)",
+        "Spülmaschinenfest": "Nein",
+        "Druck": "~1–2 bar",
+        "Preisbereich": "25–45€"
+      },
+      "scores": {
+        "Brühintensität": 4.7,
+        "Verarbeitungsqualität": 4.3,
+        "Bedienkomfort": 4.8,
+        "Preis-Leistung": 5.0,
+        "Kapazitätsoptionen": 5.0
+      }
+    },
+    {
+      "offerId": "bialetti-brikka",
+      "badge": "Bestes für Milchgetränke",
+      "review": "Der Brikka hat ein gewichtetes Druckventil, das mehr Gegendruck aufbaut und cremähnlichen Schaum erzeugt — kein echter Espresso-Crema, aber die Texturverbesserung macht Moka-Lattes und Cappuccinos spürbar besser. Nur in 2- und 4-Tassen verfügbar; das Druckventil erfordert präziseres Temperaturmanagement.",
+      "pros": [
+        "Druckventil erzeugt cremähnlichen Schaum für Milchgetränke",
+        "Edelstahl — induktionsgeeignet",
+        "Dichterer, vollmundigerer Kaffee als Standard-Moka"
+      ],
+      "cons": [
+        "Nur 2 und 4 Tassen — keine Großmengenoption"
+      ],
+      "grade": "A",
+      "specs": {
+        "Material": "Edelstahl",
+        "Verfügbare Größen": "2, 4 Tassen",
+        "Induktion": "Ja",
+        "Spülmaschinenfest": "Nein",
+        "Druck": "~2–3 bar (Druckventil)",
+        "Preisbereich": "40–60€"
+      },
+      "scores": {
+        "Brühintensität": 5.0,
+        "Verarbeitungsqualität": 4.6,
+        "Bedienkomfort": 4.2,
+        "Preis-Leistung": 4.1,
+        "Kapazitätsoptionen": 3.0
+      }
+    },
+    {
+      "offerId": "cuisinox-roma-moka-pot",
+      "badge": "Bester Edelstahl",
+      "review": "Der Cuisinox Roma ist die praktischste Edelstahloption als Alternative zum Aluminium-Moka-Express — induktionsgeeignet, spülmaschinenfest und ohne Geschmackswechselwirkung zwischen Kaffeesäuren und Aluminium. Heizt etwas langsamer als Aluminium, aber die Extraktionskonsistenz ist zuverlässig.",
+      "pros": [
+        "Edelstahl — induktionsgeeignet und spülmaschinenfest",
+        "Keine Wechselwirkung zwischen Metall und Kaffeesäuren",
+        "Konsistente Extraktion mit minimalem Wartungsaufwand"
+      ],
+      "cons": [
+        "Heizt langsamer als Aluminium; etwas teurer als Moka Express"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Material": "Edelstahl",
+        "Verfügbare Größen": "1, 2, 3, 6 Tassen",
+        "Induktion": "Ja",
+        "Spülmaschinenfest": "Ja",
+        "Druck": "~1–2 bar",
+        "Preisbereich": "40–60€"
+      },
+      "scores": {
+        "Brühintensität": 4.3,
+        "Verarbeitungsqualität": 4.8,
+        "Bedienkomfort": 4.7,
+        "Preis-Leistung": 4.0,
+        "Kapazitätsoptionen": 4.0
+      }
+    },
+    {
+      "offerId": "ilsa-stovetop-espresso-maker",
+      "badge": "Beste italienische Alternative",
+      "review": "Italienischer Edelstahl mit etwas anderer Ventilgeometrie als Bialetti — einige Nutzer beschreiben den Kaffee als etwas weicher. In 1–12 Tassen erhältlich, zum Preis zwischen Pezzetti und Cuisinox. Solide für Edelstahlbefürworter, die maximale Größenauswahl wollen.",
+      "pros": [
+        "Italienischer Edelstahl in 1–12 Tassen",
+        "Leicht andere Ventilgeometrie — etwas weicherer Kaffee",
+        "Gute Größenflexibilität"
+      ],
+      "cons": [
+        "Kein merklicher Vorteil gegenüber Cuisinox Roma bei ähnlichem Preis"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "Edelstahl",
+        "Verfügbare Größen": "1, 2, 3, 6, 9, 12 Tassen",
+        "Induktion": "Modellabhängig",
+        "Spülmaschinenfest": "Nicht empfohlen",
+        "Druck": "~1–2 bar",
+        "Preisbereich": "35–55€"
+      },
+      "scores": {
+        "Brühintensität": 4.2,
+        "Verarbeitungsqualität": 4.5,
+        "Bedienkomfort": 4.6,
+        "Preis-Leistung": 4.2,
+        "Kapazitätsoptionen": 4.8
+      }
+    },
+    {
+      "offerId": "pezzetti-italexpress-moka",
+      "badge": "Bester Einstieg",
+      "review": "Der Pezzetti Italexpress ist ein italienischer Edelstahl-Moka-Pot für 20–30€ — günstigster in diesem Vergleich mit echtem Brühmechanismus. Einfacherer Aufbau als Brikka oder Cuisinox, aber funktional gleichwertig. Die richtige erste Moka-Kanne vor dem Upgrade.",
+      "pros": [
+        "Günstigster im Vergleich — 20–30€",
+        "Italienischer Edelstahl mit gleichwertigem Brühmechanismus",
+        "Guter Einstieg vor dem Kauf eines Premium-Modells"
+      ],
+      "cons": [
+        "Einfacherer Aufbau und weniger Größenoptionen als Premium-Alternativen"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Material": "Edelstahl",
+        "Verfügbare Größen": "2, 4, 6 Tassen",
+        "Induktion": "Modellabhängig",
+        "Spülmaschinenfest": "Nicht empfohlen",
+        "Druck": "~1–2 bar",
+        "Preisbereich": "20–30€"
+      },
+      "scores": {
+        "Brühintensität": 4.0,
+        "Verarbeitungsqualität": 3.6,
+        "Bedienkomfort": 4.5,
+        "Preis-Leistung": 5.0,
+        "Kapazitätsoptionen": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Schwarzkaffeetrinker mit klassischem Moka-Geschmack",
+      "offerId": "bialetti-moka-express",
+      "reason": "Das eingearbeitete Aluminium und die originale Ventilgeometrie erzeugen den Herdespresso-Geschmack, den kein anderer Topf genau reproduziert."
+    },
+    {
+      "label": "Für Milchgetränke-Enthusiasten",
+      "offerId": "bialetti-brikka",
+      "reason": "Das Druckventil erzeugt cremähnlichen Schaum, der Moka-Lattes und Cappuccinos echte Textur verleiht — sinnvolles Upgrade für tägliche Milchkaffee-Trinker."
+    },
+    {
+      "label": "Für Induktionsherd-Nutzer",
+      "offerId": "cuisinox-roma-moka-pot",
+      "reason": "Induktionsgeeignet und spülmaschinenfest — die praktischste Option für moderne Küchen ohne Gaskocher."
+    },
+    {
+      "label": "Für Erstkäufer eines Moka-Pots",
+      "offerId": "pezzetti-italexpress-moka",
+      "reason": "Probiere die Brühmethode für 20–30€, bevor du dich für ein Bialetti oder teureres Modell entscheidest."
+    }
+  ]
 }

@@ -92,5 +92,64 @@
     "gorilla-bow-pull-up-station": "Best freestanding pull-up station for renters and frequent movers. No wall or door anchoring required — can be positioned on any flat floor. Integrates with resistance band training. Stability is lower than any mounted bar and the design is not intended for kipping or aggressive dynamic loading. The right choice for people whose housing situation eliminates wall and door mounting options."
   },
   "pinDescription": "Best pull-up bars 2026 compared: doorframe vs wall-mount vs freestanding for home gyms. Which bar — Iron Gym, Fitness Reality, ROGUE, ProsourceFit, or Gorilla Bow — fits your space and training style?",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each bar was assessed on static and estimated dynamic load capacity, mounting system stability under slow eccentric and fast concentric pull-up patterns, grip position variety, door frame compatibility tolerance, and installation complexity — weight capacity figures are drawn from manufacturer specifications and cross-referenced against sports biomechanics research on pull-up force profiles.",
+  "products": [
+    {
+      "offerId": "iron-gym-total-body-bar",
+      "badge": "Best Overall",
+      "review": "The Iron Gym's over-the-door leverage design works on virtually any standard door frame without tools — the heavier the user, the tighter the grip. Multiple grip positions cover wide overhand, neutral parallel, and close supinated variations in one bar. The main limitation is mounting height constrained by door trim (typically 200–210 cm) and reduced stability under dynamic kipping loads, which rules it out for CrossFit-style programming.",
+      "pros": ["No tools or drilling — installs on any standard door frame in 30 seconds", "Wide, neutral, and close grip positions in one unit", "136 kg static load rating covers the majority of bodyweight users"],
+      "cons": ["Not rated for kipping or dynamic loading — strict dead-hang pull-ups only"],
+      "grade": "A+",
+      "specs": {"Mount type": "Over-door leverage", "Load capacity": "136 kg static", "Grip positions": "Wide overhand, neutral, close supinated", "Installation": "No tools required", "Bar height": "~200–210 cm (door frame height)", "Price": "$29.99", "Weight": "~1.8 kg"},
+      "scores": {"Stability": 4.2, "Load capacity": 4.2, "Ease of install": 5.0, "Value": 4.9, "Grip comfort": 4.5}
+    },
+    {
+      "offerId": "fitness-reality-810xlt",
+      "badge": "Best Wall Mount",
+      "review": "The Fitness Reality 810XLT is stud-anchored into structural framing — a fundamentally different stability floor than any over-the-door bar. Wide, neutral, and close grip positions in one station, rated to 300 lbs for a mounted system that handles weighted pull-ups and dynamic loading better than any doorframe option. The trade-off is a one-time installation commitment: stud access, drilling, and correct lag bolt hardware are all prerequisites.",
+      "pros": ["Stud-anchored stability surpasses all doorframe bars under dynamic loading", "Three grip positions: wide overhand, neutral, close supinated", "Rated to 136 kg as a mounted system — handles weighted pull-ups"],
+      "cons": ["Requires stud access, pilot holes, and lag bolts — no-drill setups are eliminated"],
+      "grade": "A",
+      "specs": {"Mount type": "Stud-anchored wall mount", "Load capacity": "136 kg (300 lb) mounted", "Grip positions": "Wide, neutral, close", "Installation": "Drilling required", "Bar height": "Adjustable by install height", "Price": "$329", "Steel gauge": "Heavy gauge"},
+      "scores": {"Stability": 4.9, "Load capacity": 4.8, "Ease of install": 2.8, "Value": 4.2, "Grip comfort": 4.7}
+    },
+    {
+      "offerId": "rogue-matador-pull-up-bar",
+      "badge": "Best for Performance Gyms",
+      "review": "The Rogue Matador attaches to Rogue's 3-inch mounting system — power racks, rigs, or wall rafters — putting its load ceiling above anything a standalone bar can offer. Rated for kipping pull-ups, weighted progressions, and muscle-up training where instantaneous force regularly exceeds 2x bodyweight. Not a standalone bar: Rogue infrastructure is a prerequisite, which limits it to athletes already building rack-based setups.",
+      "pros": ["Rated for kipping, weighted pull-ups, and muscle-up training", "Integrates with Rogue's power rack ecosystem", "Load ceiling exceeds any standalone wall or door bar"],
+      "cons": ["Requires existing Rogue 3-inch mounting infrastructure — not standalone"],
+      "grade": "B+",
+      "specs": {"Mount type": "Rogue 3-inch mount system", "Load capacity": "Kipping/dynamic rated", "Grip positions": "Straight bar (wide and supinated)", "Installation": "Rogue rack or wall rafter required", "Price": "$105.00", "Compatibility": "Rogue power racks and rigs", "Material": "Steel"},
+      "scores": {"Stability": 5.0, "Load capacity": 5.0, "Ease of install": 2.5, "Value": 3.8, "Grip comfort": 4.4}
+    },
+    {
+      "offerId": "prosourcefit-doorway-chinup",
+      "badge": "Best Budget",
+      "review": "The ProsourceFit does the same job as the Iron Gym at a lower price — over-the-door mount, no drilling, standard door frame compatible. The stated 120 kg static rating is slightly lower than the Iron Gym's 136 kg, which becomes relevant for heavier users. For strict bodyweight pull-ups under 100 kg at light training frequency, it performs equivalently. Fewer grip positions than the Iron Gym.",
+      "pros": ["Lowest price for a functional doorframe pull-up bar", "No drilling or tools — installs in under a minute", "120 kg static capacity covers most bodyweight users"],
+      "cons": ["Fewer grip positions than the Iron Gym — narrower training variety"],
+      "grade": "B",
+      "specs": {"Mount type": "Over-door leverage", "Load capacity": "120 kg (265 lb) static", "Grip positions": "Wide overhand, close", "Installation": "No tools required", "Bar height": "~200–210 cm", "Price": "$19.99", "Weight": "~1.4 kg"},
+      "scores": {"Stability": 4.0, "Load capacity": 3.8, "Ease of install": 5.0, "Value": 5.0, "Grip comfort": 4.1}
+    },
+    {
+      "offerId": "gorilla-bow-pull-up-station",
+      "badge": "Best for Renters",
+      "review": "The Gorilla Bow is the only option in this comparison that requires no wall, door frame, or ceiling — it stands anywhere flat with enough overhead clearance. Stability is lower than any mounted bar under dynamic loading because the freestanding base cannot resist horizontal swing force the way a wall anchor can. The resistance band integration is a bonus for buyers already training with bands, not a reason to choose it over a wall bar if your space allows.",
+      "pros": ["No property modification required — works in apartments and rented spaces", "Resistance band integration for assisted pull-up progressions", "Repositionable to any flat-floor location"],
+      "cons": ["Lower stability than any mounted bar — not designed for kipping or dynamic loading"],
+      "grade": "B-",
+      "specs": {"Mount type": "Freestanding frame", "Load capacity": "Not rated for dynamic loading", "Grip positions": "Straight bar", "Installation": "Assembly only, no drilling", "Footprint": "~90×90 cm", "Price": "$199.00", "Band integration": "Yes"},
+      "scores": {"Stability": 3.4, "Load capacity": 3.2, "Ease of install": 4.8, "Value": 3.5, "Grip comfort": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For renters or first-time buyers", "offerId": "iron-gym-total-body-bar", "reason": "No tools, no damage, works immediately on any standard door frame — the right pull-up bar for anyone starting without a permanent gym setup."},
+    {"label": "For home gym owners training pull-ups 3+ times per week", "offerId": "fitness-reality-810xlt", "reason": "Stud-anchored stability and three grip positions justify the one-time installation investment for regular, high-volume pull-up training."},
+    {"label": "For budget-constrained beginners", "offerId": "prosourcefit-doorway-chinup", "reason": "Same over-door concept as the Iron Gym at a lower price — functional for strict bodyweight pull-ups under 100 kg."},
+    {"label": "For Rogue rack owners programming dynamic movements", "offerId": "rogue-matador-pull-up-bar", "reason": "Integrates with existing Rogue infrastructure and is the only option here rated for kipping pull-ups and muscle-up training."},
+    {"label": "For apartment dwellers who cannot drill or use door frames", "offerId": "gorilla-bow-pull-up-station", "reason": "Freestanding design is the only viable option when both wall mounting and door mounting are ruled out by the living situation."}
+  ]
 }

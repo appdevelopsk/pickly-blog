@@ -58,5 +58,63 @@
     "yerba-mate-electric-gourd": "Elektrischer Thermos bei 75-80 Grad Celsius, integrierte oder separate Bombilla. $25-60. Bestes fuer Buero-/Reiseeinsatz -- eliminiert wiederholte Wasserkocherfahrten. Temperaturgenauigkeit ist die Schluesselspezifikation, die vor dem Kauf verifiziert werden sollte."
   },
   "pinDescription": "Yerba Mate 2026: Cruz de Malta vs Guayaki vs Taragui, wie man traditionellen Mate mit Kalebasse und Bombilla zubereitet, Wassertemperatur (nicht kochend), Con Palo vs Sin Palo erklaert und das beste Yerba-Mate-Setup fuer Heim- oder Buerogebrauch. #YerbaMate #Mate #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jedes Produkt wurde nach Geschmacksprofil, Bezugsquellentransparenz, Preis-Leistung pro Portion, Verpackungsqualitaet und praktischer Nutzbarkeit bewertet. Zertifizierungen und Nutzerbewertungen wurden mit Marketingaussagen abgeglichen.",
+  "products": [
+    {
+      "offerId": "cruz-de-malta-yerba-mate",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Cruz de Malta ist die argentinische Standardmarke mit ausgewogenem Geschmack und guenstigem Preis -- ideal fuer Einsteiger und erfahrene Trinker gleichermaassen. Wer Sin-Palo-Staerke bevorzugt, muss anderswo schauen.",
+      "pros": ["Ausgewogenes traditionelles Geschmacksprofil", "Guenstigste Preisoption", "Breites Sortiment Con Palo und Sin Palo"],
+      "cons": ["Weniger Koffeinstaerke als reine Sin-Palo-Marken"],
+      "grade": "A+",
+      "specs": {"Stil": "Con Palo (mit Staengel)", "Herkunft": "Argentinien", "Inhalt": "500g-1kg", "Zertifizierung": "keine"},
+      "scores": {"Geschmack": 4.7, "Koffeinqualitaet": 4.3, "Preis-Leistung": 4.9, "Herkunftsqualitaet": 4.6, "Zubereitungskomfort": 4.5}
+    },
+    {
+      "offerId": "guayaki-yerba-mate-traditional",
+      "badge": "Beste Bio-Option",
+      "review": "Guayaki Traditional ist Fair-Trade- und Bio-zertifiziert -- die Qualitaetsversprechen sind nachweisbar. Teurer als Cruz de Malta, aber fuer ethisch orientierte Kaeufer gerechtfertigt.",
+      "pros": ["Fair-Trade- und Bio-zertifiziert", "Rauchiges, komplexes Geschmacksprofil", "Breit in westlichen Maerkten verfuegbar"],
+      "cons": ["Hoehere Kosten pro gleichem Gewicht"],
+      "grade": "A",
+      "specs": {"Stil": "Con Palo", "Herkunft": "Brasilien/Argentinien", "Zertifizierung": "Fair Trade, Bio", "Inhalt": "75g-1kg"},
+      "scores": {"Geschmack": 4.5, "Koffeinqualitaet": 4.6, "Preis-Leistung": 3.9, "Herkunftsqualitaet": 4.9, "Zubereitungskomfort": 4.4}
+    },
+    {
+      "offerId": "taragui-yerba-mate",
+      "badge": "Beste internationale Verfuegbarkeit",
+      "review": "Taragui ist eine der groessten argentinischen Marken und besonders beliebt fuer Sin-Palo-Mischungen mit hoher Koffeinintensitaet. Weltweit leicht zu finden und gleichbleibend in der Qualitaet.",
+      "pros": ["Weltweit verfuegbar", "Hohe Koffeinstaerke (Sin Palo)", "Gleichbleibende Qualitaet"],
+      "cons": ["Etwas teurer als Cruz de Malta"],
+      "grade": "B+",
+      "specs": {"Stil": "Sin Palo (ohne Staengel)", "Herkunft": "Argentinien", "Inhalt": "250g-1kg", "Zertifizierung": "keine"},
+      "scores": {"Geschmack": 4.4, "Koffeinqualitaet": 4.8, "Preis-Leistung": 4.2, "Herkunftsqualitaet": 4.5, "Zubereitungskomfort": 4.6}
+    },
+    {
+      "offerId": "gourd-and-bombilla-set",
+      "badge": "Bestes Einsteiger-Set",
+      "review": "Kuerbisflasche und Federbombilla bieten den guenstigsten Einstieg in die traditionelle Mate-Zubereitung. Mit etwas Uebung beim Bepacken und der Wassertemperatur kann man sofort echtes Mate geniessen.",
+      "pros": ["Ermoeglicht sofort traditionelle Zubereitung", "Einfache und leicht zu reinigende Konstruktion", "Guenstiges Einsteiger-Set"],
+      "cons": ["Erfordert Einarbeitungszeit fuer korrekte Technik"],
+      "grade": "B",
+      "specs": {"Material": "Kuerbis/Edelstahl", "Bombilla-Typ": "Federfilter", "Groesse": "Standard ca. 300ml", "Spuelmaschinenfest": "Nein"},
+      "scores": {"Geschmack": 4.2, "Koffeinqualitaet": 4.0, "Preis-Leistung": 4.5, "Herkunftsqualitaet": 4.1, "Zubereitungskomfort": 3.8}
+    },
+    {
+      "offerId": "yerba-mate-electric-gourd",
+      "badge": "Bestes fuer Buero/Reise",
+      "review": "Der elektrische Mate-Thermos haelt automatisch 75-80 Grad Celsius -- kein staendiger Weg zum Wasserkocher mehr. Ideal fuer Buerozwecke oder auf Reisen, wo Temperaturkonstanz entscheidend ist.",
+      "pros": ["Automatische Temperaturhaltung bei 75-80 Grad", "Kein Nachfuellen des Wasserkessels noetig", "Ideal fuer Buero und Reisen"],
+      "cons": ["Benoetigt Stromanschluss, ungeeignet im Freien"],
+      "grade": "B-",
+      "specs": {"Temperatureinstellung": "75-80 Grad C", "Kapazitaet": "ca. 500ml", "Stromversorgung": "AC/USB", "Bombilla": "integriert oder separat"},
+      "scores": {"Geschmack": 4.0, "Koffeinqualitaet": 4.1, "Preis-Leistung": 3.8, "Herkunftsqualitaet": 3.9, "Zubereitungskomfort": 4.9}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Fuer Einsteiger, die Mate zum ersten Mal ausprobieren", "offerId": "cruz-de-malta-yerba-mate", "reason": "Guenstig und ausgewogen im Geschmack -- optimaler Einstieg fuer den ersten Mate-Versuch."},
+    {"label": "Fuer Bio- und Fair-Trade-bewusste Kaeufer", "offerId": "guayaki-yerba-mate-traditional", "reason": "Nachweisbare Zertifizierungen geben Sicherheit ueber ethische Herkunft und Qualitaet."},
+    {"label": "Fuer erfahrene Trinker, die mehr Koffeinstaerke wollen", "offerId": "taragui-yerba-mate", "reason": "Taragui Sin Palo liefert hoehere Intensitaet und ist weltweit leicht erhaeltlich."},
+    {"label": "Fuer Buero oder haeufige Reisen mit Mate", "offerId": "yerba-mate-electric-gourd", "reason": "Automatische Temperaturhaltung macht den Wasserkocher unnoetig bei jeder Nachfuellung."}
+  ]
 }

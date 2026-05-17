@@ -93,5 +93,64 @@
     "twinbird-ep-4694": "Slow cooker giapponese compatto per piatti brasati e oden: pentola in ceramica, consumo di 450W, piena assistenza domestica. Nessun timer programmabile; la capacita ridotta limita la cottura a 1-3 persone."
   },
   "pinDescription": "Cinque slow cooker a confronto nel 2026: Crock-Pot 6-Quart, Instant Pot Duo 7-in-1, Cuisinart CSC-800, Panasonic SR-MP300 e Twinbird EP-4694. Quale gestisce stufati notturni, oden e yogurt fermentato senza sorveglianza costante? #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni slow cooker è stato valutato sulla coerenza effettiva della distribuzione del calore nel recipiente, affidabilità del timer, precisione della capacità indicata, facilità di pulizia del recipiente e rapporti di proprietari a lungo termine su tenuta del coperchio e longevità dell'elemento riscaldante.",
+  "products": [
+    {
+      "offerId": "crock-pot-sccpvl610-s",
+      "badge": "Migliore scelta complessiva",
+      "review": "Il Crock-Pot SCCPVL610-S non è cambiato molto in quarant'anni perché il design centrale funziona: recipiente in ceramica da 6 quarti, distribuzione uniforme del calore e una manopola a tre impostazioni che è impossibile usare in modo errato. L'assenza di un timer significa che il cibo cuoce fino a quando non si passa manualmente su Warm — un vero limite se l'orario è imprevedibile.",
+      "pros": ["Recipiente in ceramica da 6 quarti per polli interi e arrosti grandi", "Manopola a tre posizioni a prova di errore", "Recipiente e coperchio adatti alla lavastoviglie"],
+      "cons": ["Nessun timer programmabile — nessun passaggio automatico su Warm al termine della cottura"],
+      "grade": "A+",
+      "specs": {"Capacità": "6 quarti (5,7L)", "Potenza": "200W (Basso) / 300W (Alto)", "Timer": "Nessuno", "Recipiente": "Ceramica", "Coperchio": "Vetro, senza blocco", "Dimensioni": "~35×25×28cm"},
+      "scores": {"Distribuzione calore": 4.7, "Capacità": 4.9, "Facilità d'uso": 5.0, "Valore": 4.9, "Programmabilità": 1.0}
+    },
+    {
+      "offerId": "instant-pot-duo-7in1",
+      "badge": "Migliore versatilità",
+      "review": "L'Instant Pot Duo 7-in-1 guadagna il suo posto combinando una pentola a pressione che riduce una brasatura di 6 ore a 35 minuti con uno slow cooker programmabile per cotture tutto il giorno. L'avvertenza nota: la sua impostazione Bassa in modalità slow cooker funziona più calda di un Crock-Pot tradizionale in Bassa — le ricette esistenti necessitano di aggiustamenti.",
+      "pros": ["Modalità pentola a pressione riduce le lunghe cotture a meno di 45 minuti", "Slow cooker con timer programmabile e mantenimento caldo automatico", "Coperchio con chiusura evita fuoriuscite durante il trasporto"],
+      "cons": ["La modalità Bassa funziona più calda delle unità tradizionali — adattamento delle ricette necessario"],
+      "grade": "A",
+      "specs": {"Capacità": "6 quarti (5,7L)", "Potenza": "1000W", "Timer": "Sì (fino a 24h + avvio ritardato)", "Recipiente": "Acciaio inossidabile", "Coperchio": "Coperchio a pressione con blocco", "Modalità": "7 (pressione, cottura lenta, soffriggere, vapore, riso, caldo, yogurt)"},
+      "scores": {"Distribuzione calore": 4.2, "Capacità": 4.8, "Facilità d'uso": 3.5, "Valore": 4.5, "Programmabilità": 4.8}
+    },
+    {
+      "offerId": "cuisinart-csc-800",
+      "badge": "Migliore per nuclei piccoli",
+      "review": "La capacità di 3,5 litri del Cuisinart CSC-800 è calibrata per appartamenti di Tokyo e nuclei di 1-2 persone — si adatta a un piano di lavoro compatto accanto a una cuociriso e produce porzioni senza giorni di avanzi. Il timer di 24 ore con mantenimento caldo automatico giustifica il prezzo rispetto ai piccoli slow cooker manuali.",
+      "pros": ["Dimensione compatta da 3,5L ideale per nuclei di 1-2 persone", "Timer di 24 ore con mantenimento caldo automatico", "Design attraente in acciaio inossidabile e vetro"],
+      "cons": ["Disponibile solo come importazione in Giappone — assistenza garanzia tramite importatore"],
+      "grade": "B+",
+      "specs": {"Capacità": "3,5 litri", "Potenza": "200W", "Timer": "Sì (fino a 24h)", "Recipiente": "Ciotola in ceramica", "Coperchio": "Vetro", "Mercato": "Importazione (nessun servizio nazionale giapponese)"},
+      "scores": {"Distribuzione calore": 4.3, "Capacità": 3.5, "Facilità d'uso": 4.5, "Valore": 3.9, "Programmabilità": 4.5}
+    },
+    {
+      "offerId": "panasonic-sr-mp300",
+      "badge": "Migliore per cucina giapponese",
+      "review": "Il Panasonic SR-MP300 è progettato specificamente per il modo in cui le famiglie giapponesi cucinano a fuoco lento: nimono, oden, kakuni e alimenti fermentati. La modalità fermentazione a precisi 40-60°C per yogurt e amazake è ciò che nessuno slow cooker occidentale offre.",
+      "pros": ["Modalità fermentazione (40-60°C) per yogurt e amazake", "Temperatura calibrata per nimono, oden e kakuni", "Rete di assistenza Panasonic nazionale in Giappone"],
+      "cons": ["Solo slow cooker — nessuna funzione a pressione"],
+      "grade": "B",
+      "specs": {"Capacità": "2,2 litri", "Potenza": "200W", "Timer": "Sì", "Recipiente": "Pentola interna", "Modalità fermentazione": "Sì (40-60°C)", "Mercato": "Nazionale giapponese"},
+      "scores": {"Distribuzione calore": 4.8, "Capacità": 3.2, "Facilità d'uso": 4.3, "Valore": 3.8, "Programmabilità": 4.0}
+    },
+    {
+      "offerId": "twinbird-ep-4694",
+      "badge": "Migliore compatta economica",
+      "review": "Il Twinbird EP-4694 occupa una nicchia stretta: uno slow cooker giapponese compatto per oden e piatti brasati a un prezzo significativamente inferiore al Panasonic. La pentola in ceramica gestisce l'ambiente ad alta umidità dell'oden senza il rischio di sapore metallico. L'assenza di un timer è il motivo per cui la maggior parte degli acquirenti finisce per scegliere il Panasonic.",
+      "pros": ["Ingombro compatto per le piccole cucine giapponesi", "Pentola in ceramica senza rischio di sapore metallico per l'oden", "Assistenza e ricambi nazionali giapponesi completi"],
+      "cons": ["Nessun timer programmabile — solo accensione/spegnimento manuale"],
+      "grade": "B-",
+      "specs": {"Capacità": "1,5 litri", "Potenza": "450W", "Timer": "Nessuno", "Recipiente": "Ceramica", "Coperchio": "Vetro", "Mercato": "Nazionale giapponese"},
+      "scores": {"Distribuzione calore": 4.0, "Capacità": 2.5, "Facilità d'uso": 4.8, "Valore": 4.5, "Programmabilità": 1.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per famiglie di 4+ o chi cucina in grandi quantità", "offerId": "crock-pot-sccpvl610-s", "reason": "Il recipiente in ceramica da 6 quarti gestisce polli interi e arrosti grandi, e la semplice manopola non lascia spazio all'errore."},
+    {"label": "Per chi cucina di fretta durante la settimana", "offerId": "instant-pot-duo-7in1", "reason": "La modalità pressione riduce una brasatura di 6 ore a 35 minuti — l'unica opzione quando si vuole cenare stasera."},
+    {"label": "Per cucine di appartamento a Tokyo", "offerId": "cuisinart-csc-800", "reason": "3,5L si inserisce accanto al cuociriso e il timer mantiene il cibo caldo fino al rientro a casa."},
+    {"label": "Per alimenti fermentati e nimono", "offerId": "panasonic-sr-mp300", "reason": "La modalità fermentazione a 40-60°C per yogurt e amazake non è disponibile in nessun altro slow cooker a questo prezzo."},
+    {"label": "Per oden semplice con budget limitato", "offerId": "twinbird-ep-4694", "reason": "La pentola in ceramica e l'assistenza nazionale offrono l'ingresso più semplice alla cottura lenta per piatti giapponesi semplici."}
+  ]
 }

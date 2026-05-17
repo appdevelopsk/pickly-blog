@@ -58,5 +58,148 @@
     "fellow-stagg-ekg-kettle": "Bico de pescoço de ganso, temperatura variável 57-100°C, função de manutenção, 0,9 L. $150-170. A melhor chaleira para pour-over — controle preciso de fluxo, configuração de temperatura exata, manutenção de 60 min. A combinação certa para Kalita Wave, V60 e Chemex."
   },
   "pinDescription": "Kalita Wave pour-over 2026: 185 vs 155, inox vs cerâmica vs vidro, como o design de fundo plano torna o pour-over mais indulgente do que a V60, e com qual chaleira de bico longo combinar. #KalitaWave #CafePourOver #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada dripper foi avaliado na consistência de extração com diferentes técnicas de derramamento, impacto do material na retenção de calor, durabilidade, facilidade de limpeza e adequação tanto para baristas iniciantes quanto experientes.",
+  "products": [
+    {
+      "offerId": "kalita-wave-185-stainless",
+      "badge": "Melhor no geral",
+      "review": "O Wave 185 de inox é a versão mais robusta do dripper: indestrutível, compatível com lava-louças e com melhor retenção de calor do que o vidro. O único inconveniente real é um leve gosto metálico em unidades novas que desaparece após os primeiros 5 a 10 usos.",
+      "pros": ["Indestrutível e compatível com lava-louças", "Melhor retenção de calor do que o vidro", "Dura anos com uso diário intenso"],
+      "cons": ["Leve gosto metálico em unidades novas até os primeiros usos"],
+      "grade": "A+",
+      "specs": {
+        "Material": "Aço inox",
+        "Tamanho": "185 (2-4 xícaras)",
+        "Furos de drenagem": "3 furos planos",
+        "Compatibilidade de filtro": "Filtros Wave 185",
+        "Compatível com lava-louças": "Sim",
+        "Preço": "$30-40"
+      },
+      "scores": {
+        "Clareza de extração": 4.5,
+        "Qualidade de construção": 5.0,
+        "Facilidade de uso": 4.9,
+        "Custo-benefício": 4.7,
+        "Versatilidade": 4.8
+      }
+    },
+    {
+      "offerId": "kalita-wave-155-ceramic",
+      "badge": "Melhor para porção individual",
+      "review": "O Wave 155 de cerâmica é otimizado para a profundidade do leito de uma única xícara: o diâmetro menor concentra o café moído de forma que a saturação seja mais uniforme do que um 185 com a mesma dose. A cerâmica adiciona um sabor limpo sem rastro metálico, embora seja necessário cuidado com impactos.",
+      "pros": ["Profundidade de leito otimizada para 1 xícara", "A cerâmica não transmite sabores", "Toque e peso premium"],
+      "cons": ["Frágil — um impacto forte pode quebrá-lo"],
+      "grade": "A",
+      "specs": {
+        "Material": "Cerâmica",
+        "Tamanho": "155 (1-2 xícaras)",
+        "Furos de drenagem": "3 furos planos",
+        "Compatibilidade de filtro": "Filtros Wave 155",
+        "Retenção de calor": "Boa",
+        "Preço": "$35-50"
+      },
+      "scores": {
+        "Clareza de extração": 4.8,
+        "Qualidade de construção": 3.8,
+        "Facilidade de uso": 4.7,
+        "Custo-benefício": 4.5,
+        "Versatilidade": 3.5
+      }
+    },
+    {
+      "offerId": "kalita-wave-185-glass",
+      "badge": "Melhor para aprender técnica",
+      "review": "O Wave 185 de vidro é o melhor professor: ver o bloom se expandir, observar a taxa de drenagem e detectar o channeling visualmente acelera o aprendizado mais do que qualquer guia. A menor retenção de calor em comparação à cerâmica ou ao inox é real — pré-aqueça o dripper.",
+      "pros": ["Corpo transparente para feedback visual completo", "Vidro resistente ao calor", "A experiência visual melhora a técnica"],
+      "cons": ["Menor retenção de calor e é a opção mais frágil"],
+      "grade": "B+",
+      "specs": {
+        "Material": "Vidro borossilicato",
+        "Tamanho": "185 (2-4 xícaras)",
+        "Furos de drenagem": "3 furos planos",
+        "Compatibilidade de filtro": "Filtros Wave 185",
+        "Transparente": "Sim",
+        "Preço": "$45-60"
+      },
+      "scores": {
+        "Clareza de extração": 4.6,
+        "Qualidade de construção": 3.2,
+        "Facilidade de uso": 4.5,
+        "Custo-benefício": 4.3,
+        "Versatilidade": 4.0
+      }
+    },
+    {
+      "offerId": "kalita-wave-filters-185",
+      "badge": "Consumível essencial",
+      "review": "Os filtros Wave são o componente que faz o sistema funcionar: as dobras em forma de onda criam um espaço de ar entre o papel e as paredes do dripper, eliminando o contato direto e permitindo um fluxo uniforme. Não são intercambiáveis com V60, Chemex ou qualquer outro filtro.",
+      "pros": ["O espaço de ar garante extração uniforme", "100 unidades por ~$10-15 (baixo custo por xícara)", "Disponíveis na Amazon com entrega rápida"],
+      "cons": ["Funcionam apenas com drippers Kalita Wave — não intercambiáveis"],
+      "grade": "B",
+      "specs": {
+        "Compatibilidade": "Kalita Wave 185",
+        "Quantidade por pacote": "100 unidades",
+        "Tipo": "Papel, dobras em onda",
+        "Preço por unidade": "~$0,10-0,15",
+        "Preço do pacote": "~$10-15"
+      },
+      "scores": {
+        "Clareza de extração": 4.5,
+        "Qualidade de construção": 4.0,
+        "Facilidade de uso": 4.8,
+        "Custo-benefício": 4.7,
+        "Versatilidade": 3.0
+      }
+    },
+    {
+      "offerId": "fellow-stagg-ekg-kettle",
+      "badge": "Melhor chaleira complementar",
+      "review": "O Stagg EKG tem o bico pescoço de ganso mais controlável do mercado pour-over: a vazão é previsível, a temperatura variável vai de 57 a 100°C com precisão de um grau, e a função de manutenção de 60 minutos evita que a água esfrie entre os derramamentos. O preço de $150-170 é a única objeção real.",
+      "pros": ["Controle da vazão de derramamento com máxima precisão", "Função de manutenção de temperatura por 60 minutos", "Projetado especificamente para pour-over"],
+      "cons": ["Preço premium de $150-170 difícil de justificar se já tiver uma boa chaleira"],
+      "grade": "B-",
+      "specs": {
+        "Tipo de bico": "Pescoço de ganso",
+        "Faixa de temperatura": "57-100°C",
+        "Capacidade": "0,9 L",
+        "Função de manutenção": "Sim, 60 min",
+        "Display": "LCD",
+        "Preço": "$150-170"
+      },
+      "scores": {
+        "Clareza de extração": 4.9,
+        "Qualidade de construção": 4.8,
+        "Facilidade de uso": 4.5,
+        "Custo-benefício": 3.8,
+        "Versatilidade": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Uso diário intenso",
+      "offerId": "kalita-wave-185-stainless",
+      "reason": "Indestrutível e compatível com lava-louças — ideal se você prepara 2+ xícaras toda manhã e não quer se preocupar em quebrá-lo."
+    },
+    {
+      "label": "Ritual de xícara única",
+      "offerId": "kalita-wave-155-ceramic",
+      "reason": "O 155 de cerâmica é otimizado para 1 xícara: a relação entre profundidade do leito e diâmetro oferece extração mais uniforme do que o 185 com doses pequenas."
+    },
+    {
+      "label": "Barista em aprendizado",
+      "offerId": "kalita-wave-185-glass",
+      "reason": "A transparência do vidro permite ver o bloom, o ritmo de drenagem e o channeling — feedback visual que nenhum outro dripper opaco pode oferecer."
+    },
+    {
+      "label": "Reposição de consumíveis",
+      "offerId": "kalita-wave-filters-185",
+      "reason": "Os filtros Wave são obrigatórios e não intercambiáveis — estoque em pacotes de 100 unidades para nunca ficar sem."
+    },
+    {
+      "label": "Controle total do derramamento",
+      "offerId": "fellow-stagg-ekg-kettle",
+      "reason": "O Stagg EKG transforma um bom dripper em um sistema de extração de precisão — para quem quer controlar cada variável do processo."
+    }
+  ]
 }

@@ -88,5 +88,170 @@
     "truweo-posture-corrector": "Suporte passivo mais ajustável — sistema de duplo velcro permite ajustar a tensão com precisão. Velcro prende em roupas e cabelos; apertar demais pode causar formigamento nos braços por compressão nervosa; comece no ajuste mais frouxo; mesmo risco de dependência muscular que outros suportes passivos.",
     "back-brace-posture-corrector": "Suporte lombar completo para ficar de pé e carregar — problema diferente do arredondamento torácico por postura de mesa. Volumoso demais para uso sentado em escritório; aborda apenas a lombar, não postura dos ombros ou pescoço; dependência muscular se aplica aos músculos eretores da coluna com uso prolongado."
   },
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada produto foi avaliado por mecanismo de correção (biofeedback ativo vs suporte passivo), risco de dependência muscular, conforto real durante uma jornada de trabalho, discrição sob as roupas e a base de evidências que apoia cada abordagem.",
+  "products": [
+    {
+      "offerId": "upright-go-2",
+      "badge": "Melhor treinador ativo",
+      "review": "O Upright GO 2 é o único dispositivo de biofeedback ativo nesta comparação — vibra quando você curva e rastreia a melhora através de um aplicativo em vez de manter fisicamente o corpo em posição. Isso evita o problema de dependência muscular que os suportes passivos criam. A limitação é a cobertura: apenas a parte superior das costas e o pescoço.",
+      "pros": [
+        "O biofeedback ativo treina a postura sem criar dependência muscular",
+        "O aplicativo rastreia melhorias ao longo de semanas para uma abordagem baseada em dados",
+        "Sensor adesivo discreto que cabe sob as roupas"
+      ],
+      "cons": [
+        "Cobre apenas a parte superior das costas — sem correções para a região lombar, quadris ou pescoço"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Type": "Active biofeedback (vibration)",
+        "Placement": "Upper back adhesive",
+        "App": "Yes — tracks posture over time",
+        "Battery": "Rechargeable",
+        "Price (US)": "~$100"
+      },
+      "scores": {
+        "Correction effectiveness": 4.5,
+        "Comfort": 4.2,
+        "Discreetness": 4.8,
+        "Value": 3.8,
+        "Ease of use": 4.5
+      }
+    },
+    {
+      "offerId": "comfymed-posture-brace",
+      "badge": "Melhor suporte clássico",
+      "review": "O suporte de ombro em oito da ComfyMed puxa fisicamente os ombros para trás e para baixo durante sessões proprioceptivas curtas. Cabe sob as roupas e fornece feedback tátil claro. A limitação crítica: usado por mais de 20–30 minutos por sessão, ele faz o trabalho dos músculos — criando dependência em vez de correção.",
+      "pros": [
+        "Forte feedback proprioceptivo — você sente a mudança de postura imediatamente",
+        "Cabe sob as roupas para uso discreto",
+        "Preço baixo para uso básico em sessões curtas"
+      ],
+      "cons": [
+        "Maior risco de dependência muscular na categoria — a manutenção passiva cria dependência se usada o dia todo"
+      ],
+      "grade": "A",
+      "specs": {
+        "Type": "Passive figure-8 shoulder brace",
+        "Material": "Elastic fabric",
+        "Wear time": "20–30 min sessions recommended",
+        "Price (US)": "~$28"
+      },
+      "scores": {
+        "Correction effectiveness": 4.0,
+        "Comfort": 3.5,
+        "Discreetness": 4.2,
+        "Value": 4.8,
+        "Ease of use": 4.6
+      }
+    },
+    {
+      "offerId": "fitletic-posture-corrector",
+      "badge": "Melhor para uso ativo",
+      "review": "A construção elástica leve da Fitletic é a opção passiva mais confortável para uso ativo — utilizável durante caminhadas, recados ou atividades leves sem restringir o movimento. A construção mais leve também significa menos força de tração, insuficiente para cifose torácica significativa. A elasticidade se degrada com lavagens repetidas em 3–6 meses.",
+      "pros": [
+        "Suporte passivo mais leve e confortável para movimento ativo",
+        "Perfil baixo que cabe sob qualquer roupa",
+        "Adequado para consciência postural leve durante atividades diárias"
+      ],
+      "cons": [
+        "Construção leve fornece força de tração insuficiente para cifose torácica significativa"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Type": "Passive elastic shoulder brace",
+        "Construction": "Lightweight elastic",
+        "Lifespan": "~3–6 months with regular washing",
+        "Price (US)": "~$30"
+      },
+      "scores": {
+        "Correction effectiveness": 3.5,
+        "Comfort": 4.6,
+        "Discreetness": 4.7,
+        "Value": 4.4,
+        "Ease of use": 4.8
+      }
+    },
+    {
+      "offerId": "truweo-posture-corrector",
+      "badge": "Melhor suporte ajustável",
+      "review": "O sistema de velcro duplo da Truweo oferece o ajuste de tensão mais preciso de todos os suportes passivos aqui — você pode ajustar exatamente quanta força de retração dos ombros deseja. O compromisso é que o velcro se prende em roupas e cabelos, e apertar demais pode causar formigamento nos braços por compressão nervosa. Sempre comece na configuração mais frouxa.",
+      "pros": [
+        "Velcro duplo para ajuste preciso de tensão — suporte passivo mais configurável",
+        "Design unissex que se adapta a uma ampla gama de tipos de corpo",
+        "Guia de tamanho claro para um ajuste correto"
+      ],
+      "cons": [
+        "O velcro se prende em roupas e cabelos; apertar demais arrisca formigamento nos braços por compressão nervosa"
+      ],
+      "grade": "B",
+      "specs": {
+        "Type": "Passive clavicle brace",
+        "Adjustment": "Dual velcro tension system",
+        "Design": "Unisex",
+        "Price (US)": "~$27"
+      },
+      "scores": {
+        "Correction effectiveness": 3.8,
+        "Comfort": 3.4,
+        "Discreetness": 3.8,
+        "Value": 4.6,
+        "Ease of use": 3.8
+      }
+    },
+    {
+      "offerId": "back-brace-posture-corrector",
+      "badge": "Melhor para a região lombar",
+      "review": "O Mueller Back Brace aborda especificamente a carga lombar — o painel rígido com compressão lateral ajustável é adequado para trabalho em pé e tarefas de carga física. Não ajuda com cifose torácica ou ombros arredondados e é volumoso demais para uso em escritório sentado.",
+      "pros": [
+        "Painel rígido fornecendo suporte real para trabalho em pé e cargas físicas",
+        "Compressão lateral ajustável para suporte lombar personalizado",
+        "Único produto aqui que mira nesta zona — especificamente para a parte inferior das costas"
+      ],
+      "cons": [
+        "Volumoso demais para uso em escritório sentado; não aborda parte superior das costas, ombros ou pescoço"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Passive lumbar support brace",
+        "Panel": "Rigid with adjustable side compression",
+        "Coverage": "Lower back only",
+        "Price (US)": "~$25"
+      },
+      "scores": {
+        "Correction effectiveness": 3.8,
+        "Comfort": 3.0,
+        "Discreetness": 2.5,
+        "Value": 4.5,
+        "Ease of use": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para trabalhadores de escritório que querem treinar a postura, não apoiá-la",
+      "offerId": "upright-go-2",
+      "reason": "O biofeedback ativo constrói o hábito postural sem a dependência muscular que os suportes passivos criam com o uso o dia todo."
+    },
+    {
+      "label": "Para sessões curtas de lembrete proprioceptivo (20–30 min)",
+      "offerId": "comfymed-posture-brace",
+      "reason": "Forte feedback tátil ao menor preço — eficaz quando usado brevemente como sinal, não como suporte estrutural."
+    },
+    {
+      "label": "Para uso ativo diário durante movimento e recados",
+      "offerId": "fitletic-posture-corrector",
+      "reason": "A opção passiva mais leve — confortável para caminhadas e atividades leves sem restringir o movimento."
+    },
+    {
+      "label": "Para usuários que querem um suporte precisamente ajustável",
+      "offerId": "truweo-posture-corrector",
+      "reason": "O sistema de tensão de velcro duplo oferece o controle mais preciso sobre a força de retração dos ombros na categoria de suporte passivo."
+    },
+    {
+      "label": "Para trabalhadores em pé com tensão na região lombar",
+      "offerId": "back-brace-posture-corrector",
+      "reason": "O painel lombar rígido com compressão ajustável é projetado especificamente para cenários de trabalho em pé e carga física."
+    }
+  ]
 }

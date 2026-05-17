@@ -63,5 +63,64 @@
     "franks-redhot-original": "The 23 oz bottle is the best value. Frank's also makes a pre-mixed Buffalo Wing Sauce with butter already added."
   },
   "pinDescription": "5 best hot sauces of 2026 — from mild Louisiana-style Crystal to complex Cholula and classic Tabasco. Find your perfect heat level! 🌶️",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each sauce was evaluated on Scoville heat level, ingredient quality, flavor complexity beyond heat, versatility across food pairings, and price-to-volume value.",
+  "products": [
+    {
+      "offerId": "tabasco-original-red",
+      "badge": "Best Overall",
+      "review": "Three-year barrel fermentation on Avery Island gives Tabasco a sharpness and consistency that factory-produced sauces can't replicate. The thin, vinegary texture splashes evenly onto any food surface — oysters, eggs, pizza — without pooling. At 2,500–5,000 Scoville, the heat is assertive but not a challenge. The one real trade-off: the small 2 oz bottle runs out fast if you use it daily, and the per-ounce cost adds up compared to bulk options.",
+      "pros": ["Three-year fermentation creates layered flavor that plain vinegar sauces lack", "Thin texture distributes evenly over any food", "Unmatched global availability"],
+      "cons": ["Small bottles are expensive per ounce compared to larger-format competitors"],
+      "grade": "A+",
+      "specs": {"Scoville": "2,500–5,000", "Base": "Tabasco peppers", "Style": "Fermented", "Vinegar": "Distilled", "Sizes available": "2 oz – 1 gal", "Origin": "Avery Island, Louisiana"},
+      "scores": {"Heat level": 3.8, "Flavor": 4.8, "Value": 4.0, "Versatility": 4.9, "Ingredient quality": 4.7}
+    },
+    {
+      "offerId": "cholula-original",
+      "badge": "Best Flavor Complexity",
+      "review": "Cholula's pequin-and-arbol blend delivers more flavor dimensionality than pure cayenne sauces — there's fruit and earthiness behind the heat, not just acid and pepper. At 1,000–2,000 Scoville, it stays approachable enough for heat-shy guests while contributing real character. The wooden cap is charming but the flip-top format is more practical for everyday use. Slightly pricier per ounce than Crystal or Valentina, but the flavor difference is real.",
+      "pros": ["Pequin and arbol blend creates genuine flavor depth", "Heat level accessible for mixed-spice-tolerance groups", "Iconic wooden cap design"],
+      "cons": ["Wooden cap version less practical than flip-top for daily kitchen use"],
+      "grade": "A",
+      "specs": {"Scoville": "1,000–2,000", "Base": "Pequin and arbol chiles", "Style": "Fresh-ground blend", "Origin": "Chapala, Mexico", "Sizes available": "5 oz – 64 oz", "Vinegar": "Apple cider"},
+      "scores": {"Heat level": 2.8, "Flavor": 4.9, "Value": 4.3, "Versatility": 4.7, "Ingredient quality": 4.5}
+    },
+    {
+      "offerId": "valentina-extra-hot",
+      "badge": "Best Value",
+      "review": "Under $3 for a large bottle — Valentina Extra Hot is the workhorse pantry sauce. The thick consistency clings to food rather than running off, which matters when you're coating tacos or wings. The flavor is earthy and slightly sweet before the heat (around 2,100 Scoville) builds. It lacks the fermented complexity of Tabasco, but for the price, that's not a reasonable expectation. Keep one in the pantry and one on the table.",
+      "pros": ["Exceptional price per ounce — best value in this comparison", "Thick texture clings to food rather than dripping off", "Earthy, slightly sweet flavor profile before heat"],
+      "cons": ["Less complex than fermented sauces — simpler flavor profile"],
+      "grade": "B+",
+      "specs": {"Scoville": "~2,100", "Base": "Dried chiles", "Style": "Thick paste-style", "Origin": "Guadalajara, Mexico", "Sizes available": "12.5 oz – 34 oz", "Vinegar": "Distilled"},
+      "scores": {"Heat level": 3.5, "Flavor": 4.0, "Value": 5.0, "Versatility": 4.4, "Ingredient quality": 3.8}
+    },
+    {
+      "offerId": "crystal-hot-sauce",
+      "badge": "Best Louisiana-Style",
+      "review": "Aged cayenne and distilled vinegar — Crystal is the cleanest expression of Louisiana-style hot sauce. At 800–1,000 Scoville, the heat sits low enough for big-batch cooking (gumbo, red beans, wings) where you want flavor lift without overpowering guests. The brightness is notable — Crystal adds acidity and pepper character without Tabasco's sharpness. A Southern kitchen staple that holds its own against better-marketed competitors.",
+      "pros": ["Clean aged cayenne flavor without harshness", "Low heat makes it safe for crowd-cooking", "Strong value in 12 oz standard size"],
+      "cons": ["Low Scoville won't satisfy heat seekers"],
+      "grade": "B",
+      "specs": {"Scoville": "800–1,000", "Base": "Aged cayenne", "Style": "Louisiana-style", "Origin": "New Orleans, Louisiana", "Sizes available": "6 oz – 1 gal", "Vinegar": "Distilled"},
+      "scores": {"Heat level": 2.0, "Flavor": 4.3, "Value": 4.6, "Versatility": 4.5, "Ingredient quality": 4.2}
+    },
+    {
+      "offerId": "franks-redhot-original",
+      "badge": "Best for Cooking",
+      "review": "Frank's RedHot is the original buffalo wing sauce base and the mildest option in this comparison at around 450 Scoville. The cayenne-vinegar-butter combination coats proteins perfectly and holds up to oven heat without breaking down. It reads more as 'tangy' than 'hot', which makes it the right choice for wing batches, dips, and any recipe where heat should complement rather than dominate. The 23 oz jug format reflects how fast it disappears in a wing-cooking household.",
+      "pros": ["Purpose-built for buffalo-style cooking — coats and binds perfectly", "Low heat suitable for heat-averse guests", "Large format available for batch cooking"],
+      "cons": ["Too mild to function as a standalone hot sauce for spice lovers"],
+      "grade": "B-",
+      "specs": {"Scoville": "~450", "Base": "Aged cayenne", "Style": "Buffalo-style", "Origin": "Springfield, Missouri", "Sizes available": "5 oz – 1 gal", "Vinegar": "Distilled"},
+      "scores": {"Heat level": 1.5, "Flavor": 4.0, "Value": 4.5, "Versatility": 4.2, "Ingredient quality": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For everyday table use", "offerId": "tabasco-original-red", "reason": "The fermented complexity and thin texture work on virtually every food — the all-purpose hot sauce."},
+    {"label": "For flavor-first heat lovers", "offerId": "cholula-original", "reason": "Pequin-arbol blend gives depth and character beyond just heat — best when the sauce flavor matters as much as the Scoville count."},
+    {"label": "For budget pantry stocking", "offerId": "valentina-extra-hot", "reason": "Best price per ounce of any sauce on this list, with a thick cling-to-food consistency that works well on tacos and street food."},
+    {"label": "For wing night and batch cooking", "offerId": "franks-redhot-original", "reason": "Designed specifically for buffalo-style wing saucing — coats evenly and holds up to oven heat without breaking."},
+    {"label": "For Southern-style cooking", "offerId": "crystal-hot-sauce", "reason": "Clean aged cayenne flavor that lifts gumbo, red beans, and fried chicken without dominating the dish."}
+  ]
 }

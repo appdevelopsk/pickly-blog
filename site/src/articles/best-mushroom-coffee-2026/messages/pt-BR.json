@@ -58,5 +58,174 @@
     "lion-mane-mushroom-powder": "Pó de extrato puro de juba de leão, tipicamente 500 mg-1 g por porção, 50-100 porções. $20-35. Melhor abordagem faça você mesmo — adicionar a qualquer café para dosagem precisa em quantidades clinicamente relevantes. Mais econômico para suplementação diária."
   },
   "pinDescription": "Café de cogumelos 2026: Four Sigmatic vs Ryze vs Om vs Earth & Star — o que a pesquisa realmente diz sobre juba de leão e cordyceps, se as doses do café de cogumelos são significativas, como ler rótulos para conteúdo de beta-glucano e se o pó DIY de juba de leão supera as misturas pré-prontas.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada café de cogumelos foi avaliado quanto às espécies de cogumelos utilizadas, transparência da dosagem por porção, método de extração (extrato duplo vs. pó integral), nível de cafeína, integração de sabor e custo por porção em relação à compra separada de café e suplementos.",
+  "products": [
+    {
+      "offerId": "four-sigmatic-think-coffee",
+      "badge": "Melhor no Geral",
+      "review": "A Four Sigmatic popularizou o café de cogumelos e continua sendo o padrão de qualidade. O blend Think usa extração dupla (água quente + álcool) em arábica orgânico, entregando 250 mg de juba de leão e 200 mg de chaga por porção com melhor biodisponibilidade do que produtos de pó bruto. O sabor é genuinamente voltado para o café com um leve tom terroso — não medicinal. A embalagem de 12 porções o torna a opção mais cara por porção, mas a qualidade de extração justifica para uso regular.",
+      "pros": [
+        "Extração dupla aumenta a biodisponibilidade dos compostos ativos",
+        "250 mg de juba de leão + 200 mg de chaga por porção indicada",
+        "Melhor integração de sabor — nota terrosa presente mas não intrusiva"
+      ],
+      "cons": [
+        "US$ 28,50 para 12 porções — a opção mais cara por porção aqui"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Cogumelos": "Juba de leão + chaga",
+        "Juba de leão por porção": "250 mg",
+        "Chaga por porção": "200 mg",
+        "Extração": "Extração dupla",
+        "Porções": "12",
+        "Base de café": "Arábica orgânico"
+      },
+      "scores": {
+        "Sabor": 4.8,
+        "Qualidade do cogumelo": 4.9,
+        "Custo-benefício": 3.5,
+        "Conveniência": 5.0,
+        "Benefícios funcionais": 4.6
+      }
+    },
+    {
+      "offerId": "ryze-mushroom-coffee",
+      "badge": "Melhor Custo-Benefício",
+      "review": "O Ryze é o café de cogumelos mais vendido por volume, e o custo de US$ 1,50/porção para 30 porções é o mais competitivo desta comparação. O blend de 6 cogumelos totaliza 2.000 mg por porção, embora as doses individuais de cogumelos não sejam divulgadas. Com 48 mg de cafeína por porção — aproximadamente metade do café filtrado — é a escolha certa para quem reduz cafeína mantendo o ritual matutino.",
+      "pros": [
+        "US$ 1,50/porção — melhor custo por porção dos blends completos de café de cogumelos",
+        "Blend de 6 cogumelos totaliza 2.000 mg por porção",
+        "Baixa cafeína de 48 mg — bom para usuários sensíveis à cafeína"
+      ],
+      "cons": [
+        "Doses individuais de cogumelos não divulgadas — impossível avaliar eficácia por espécie"
+      ],
+      "grade": "A",
+      "specs": {
+        "Cogumelos": "Blend 6: juba de leão, cordyceps, reishi, shiitake, cauda de peru, trompete-rei",
+        "Total de cogumelos por porção": "2.000 mg",
+        "Cafeína por porção": "48 mg",
+        "Porções": "30",
+        "Base de café": "Arábica orgânico",
+        "Divulgação do blend": "Blend proprietário"
+      },
+      "scores": {
+        "Sabor": 4.3,
+        "Qualidade do cogumelo": 4.1,
+        "Custo-benefício": 5.0,
+        "Conveniência": 5.0,
+        "Benefícios funcionais": 4.0
+      }
+    },
+    {
+      "offerId": "om-mushroom-master-blend",
+      "badge": "Melhor Orgânico",
+      "review": "O Master Blend da Om é a opção mais transparentemente certificada — USDA orgânico, pó de cogumelo inteiro de espectro completo (não apenas extrato), testado por terceiros e 10 espécies de cogumelos. A US$ 19,99 para 30 porções, a Om também oferece bom custo-benefício. O contraponto é que é um pó de cogumelo puro adicionado ao seu próprio café, não um produto pré-misturado.",
+      "pros": [
+        "Certificação USDA orgânico e testes de terceiros",
+        "Pó de cogumelo inteiro de espectro completo — 10 espécies",
+        "Melhor custo-benefício para qualidade de cogumelo orgânico certificado"
+      ],
+      "cons": [
+        "Não pré-misturado com café — requer compra separada de café"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Cogumelos": "Blend 10 espécies",
+        "Certificação": "USDA Orgânico",
+        "Tipo de pó": "Cogumelo inteiro",
+        "Testes": "Verificado por terceiros",
+        "Porções": "30",
+        "Formato": "Pó para adicionar ao café"
+      },
+      "scores": {
+        "Sabor": 4.0,
+        "Qualidade do cogumelo": 5.0,
+        "Custo-benefício": 4.7,
+        "Conveniência": 3.8,
+        "Benefícios funcionais": 4.8
+      }
+    },
+    {
+      "offerId": "earth-and-star-mushroom-coffee",
+      "badge": "Melhor Transparência",
+      "review": "A Earth & Star indica o teor de cogumelos por porção para cada espécie — juba de leão, chaga e reishi — o que é mais honesto do que a abordagem de blend proprietário. Base de café orgânico, sabor suave e agradável, e embalagem atraente que o torna uma opção de presente razoável. As doses estão indicadas, mas não em níveis clínicos, portanto é um produto honesto e bem elaborado em vez de um suplemento de grau terapêutico.",
+      "pros": [
+        "Dose de cogumelos por porção indicada para cada espécie",
+        "Base de café orgânico com sabor suave e agradável",
+        "Oferece variantes de matcha de cogumelos e chocolate quente"
+      ],
+      "cons": [
+        "Doses de cogumelos abaixo dos níveis de pesquisa clínica — mais produto de bem-estar do que suplemento"
+      ],
+      "grade": "B",
+      "specs": {
+        "Cogumelos": "Juba de leão + chaga + reishi",
+        "Transparência de dosagem": "Indicado por espécie",
+        "Base de café": "Orgânico",
+        "Porções": "30",
+        "Produtos adicionais": "Matcha de cogumelos, chocolate quente",
+        "Preço por porção": "~US$ 0,83"
+      },
+      "scores": {
+        "Sabor": 4.4,
+        "Qualidade do cogumelo": 4.3,
+        "Custo-benefício": 4.4,
+        "Conveniência": 4.8,
+        "Benefícios funcionais": 4.0
+      }
+    },
+    {
+      "offerId": "lion-mane-mushroom-powder",
+      "badge": "Melhor DIY",
+      "review": "Adicionar pó de extrato puro de juba de leão ao seu café existente é a abordagem mais econômica e com melhor controle de dosagem nesta comparação. Com 500 mg–1 g por porção e 50–100 porções por embalagem, você pode atingir o limite inferior das doses estudadas em pesquisas humanas enquanto escolhe o café que realmente prefere. Impacto mínimo no sabor em doses de até 1.000 mg.",
+      "pros": [
+        "Dosagem precisa de 500 mg–1 g — mais próxima das quantidades estudadas clinicamente",
+        "50–100 porções por embalagem — mais porções por real",
+        "Sem compromisso de sabor — adicionar a qualquer café que já goste"
+      ],
+      "cons": [
+        "Requer gerenciar dois produtos separados; não é uma solução de compra única"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Cogumelo": "Extrato puro de juba de leão",
+        "Dose por porção": "500 mg–1 g",
+        "Porções": "50–100",
+        "Extração": "Pó de extrato",
+        "Impacto no sabor": "Mínimo",
+        "Faixa de preço": "US$ 20–35"
+      },
+      "scores": {
+        "Sabor": 4.0,
+        "Qualidade do cogumelo": 4.8,
+        "Custo-benefício": 5.0,
+        "Conveniência": 3.0,
+        "Benefícios funcionais": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para iniciantes em café de cogumelos",
+      "offerId": "four-sigmatic-think-coffee",
+      "reason": "A extração dupla e boa integração de sabor da Four Sigmatic tornam-na a introdução mais confiável à categoria — qualidade estabelecida com período mínimo de adaptação."
+    },
+    {
+      "label": "Para bebedores diários reduzindo cafeína",
+      "offerId": "ryze-mushroom-coffee",
+      "reason": "Com 48 mg de cafeína e US$ 1,50/porção para 30 porções, o Ryze é a opção de hábito diário mais sustentável para quem reduz cafeína sem abandonar o ritual matutino."
+    },
+    {
+      "label": "Para compradores exclusivamente orgânicos",
+      "offerId": "om-mushroom-master-blend",
+      "reason": "USDA orgânico, testado por terceiros, pó de cogumelo inteiro de 10 espécies — a opção mais credenciada para compradores que exigem certificação e transparência."
+    },
+    {
+      "label": "Para suplementadores de precisão",
+      "offerId": "lion-mane-mushroom-powder",
+      "reason": "O pó de extrato puro permite adicionar uma dose controlada de 500–1.000 mg a qualquer café — o caminho mais econômico para ingestão de juba de leão clinicamente relevante."
+    }
+  ]
 }

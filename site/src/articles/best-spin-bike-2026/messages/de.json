@@ -92,5 +92,184 @@
     "sunny-health-sf-b1002": "Bestes Budget-Spinning-Bike — Magnetwiderstand zu einem Budget-Preis sorgt für wartungsfreien Betrieb, der Verstellbereich deckt die meisten Erwachsenengrößen ab, und Transportrollen ermöglichen Einzelperson-Umzug. Das 8-kg-Schwungrad ist der Kompromiss: Das Fahrgefühl ist bei moderatem Widerstand weniger fließend als bei schwereren Schwungradbikes. Richtig für Steady-State-Cardio-Fahrer, die keinen vernetzten Content oder strukturierte Intervalltrainings-Protokolle brauchen."
   },
   "pinDescription": "Beste Spinning-Bikes 2026 verglichen: Schwungradgewicht vs Widerstandstyp, Peloton vs Schwinn IC4 vs NordicTrack S22i vs Bowflex VeloCore — vernetzte Content-Kosten, Stellfläche und welches Bike zu deinem Trainingsstil und Budget passt.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jedes Bike wurde auf Schwungradgleichlauf bei mittlerem Widerstand (16–19-kg-Bereich), Konsistenz des magnetischen Widerstands nach 6 Monaten, Verstellbereich von Sattel und Lenker, Mehrwert der vernetzten Inhalte unter Berücksichtigung der Abokosten und Geräuschentwicklung in Wohnverhältnissen bewertet.",
+  "products": [
+    {
+      "offerId": "peloton-bike",
+      "badge": "Bestes Gesamt",
+      "review": "Das Peloton Bike verdient seinen Status durch Hardware und Content — das 16-kg-Schwungrad und präziser Magnetwiderstand liefern reibungslosen Kadenz, 50.000+ Klassen halten die Motivation hoch. Kompromiss: Das $44/Monat All-Access-Abo ist faktisch Pflicht.",
+      "pros": [
+        "21,5-Zoll-HD-Touchscreen mit 50.000+ Live-/On-Demand-Klassen",
+        "16-kg-Schwungrad für flüssige Trägheit",
+        "Stiller Magnetwiderstand — wohnungsgeeignet"
+      ],
+      "cons": [
+        "$44/Monat Abo praktisch notwendig zur Rechtfertigung des Hardwarepreises"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Flywheel": "16 kg",
+        "Resistance": "Magnetic (100 levels)",
+        "Screen": "21.5\" HD touchscreen",
+        "Drive": "Belt drive",
+        "Footprint": "59×53 cm",
+        "Weight": "57 kg",
+        "Subscription": "$44/mo All-Access"
+      },
+      "scores": {
+        "Resistance feel": 4.8,
+        "Build quality": 4.8,
+        "Comfort": 4.5,
+        "Value": 3.8,
+        "Noise": 4.9
+      }
+    },
+    {
+      "offerId": "schwinn-ic4",
+      "badge": "Bestes Preis-Leistungs-Verhältnis Vernetzt",
+      "review": "Das 18-kg-Schwungrad des Schwinn IC4 ist schwerer als beim Peloton — ein unterschätztes Merkmal. Volle 4-Wege-Verstellbarkeit für Mehrbenutzerhaushalte. Bluetooth zu Peloton, Zwift und Apple Fitness+ ohne eingebauten Bildschirm. Kompromiss: Kein eingebauter Bildschirm.",
+      "pros": [
+        "18-kg-Schwungrad — schwerer als Peloton",
+        "Volle 4-Wege-Verstellung für Mehrbenutzerhaushalte",
+        "Bluetooth zu Peloton, Zwift, Apple Fitness+"
+      ],
+      "cons": [
+        "Kein eingebauter Bildschirm — externes Tablet erforderlich"
+      ],
+      "grade": "A",
+      "specs": {
+        "Flywheel": "18 kg",
+        "Resistance": "Magnetic (100 levels)",
+        "Screen": "None (Bluetooth)",
+        "Drive": "Belt drive",
+        "Footprint": "54×107 cm",
+        "Weight": "47 kg",
+        "Subscription": "User choice"
+      },
+      "scores": {
+        "Resistance feel": 4.7,
+        "Build quality": 4.6,
+        "Comfort": 4.4,
+        "Value": 4.6,
+        "Noise": 4.8
+      }
+    },
+    {
+      "offerId": "nordictrack-s22i",
+      "badge": "Bestes Geländetraining",
+      "review": "Die motorisierte -10 bis +20% Neigung des S22i ist die einzige Funktion hier, die echtes Bergauf- und Bergabfahren simuliert. Der rotierende 22-Zoll-Bildschirm funktioniert auch für Oberkörpertraining. Kompromiss: Größtes Gerät, $39/Monat iFit erforderlich.",
+      "pros": [
+        "Motorisierte -10 bis +20% Neigung",
+        "22-Zoll-Drehbildschirm für On- und Off-Bike-Training",
+        "iFit automatische Widerstands- und Neigungsanpassung"
+      ],
+      "cons": [
+        "Größte Stellfläche; $39/Monat iFit für Schlüsselfunktionen erforderlich"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Flywheel": "~16 kg",
+        "Resistance": "Magnetic + motorized incline",
+        "Screen": "22\" rotating",
+        "Incline": "-10% to +20%",
+        "Footprint": "56×137 cm",
+        "Weight": "64 kg",
+        "Subscription": "$39/mo iFit"
+      },
+      "scores": {
+        "Resistance feel": 4.7,
+        "Build quality": 4.5,
+        "Comfort": 4.4,
+        "Value": 3.9,
+        "Noise": 4.5
+      }
+    },
+    {
+      "offerId": "bowflex-velocore-16",
+      "badge": "Bestes Core-Training",
+      "review": "Der 25-Grad-Seitenneigung des VeloCore aktiviert die seitlichen Stabilisatoren und reduziert Lendenwirbelmüdigkeit. JRNY kostet $20/Monat. Kompromiss: 16-Zoll-Bildschirm kleiner als Konkurrenz.",
+      "pros": [
+        "25-Grad-Neigung aktiviert Core und seitliche Stabilisatoren",
+        "Niedrigstes Abo unter vernetzten Bikes ($20/Monat)",
+        "Kompakte 53×61 cm Stellfläche"
+      ],
+      "cons": [
+        "16-Zoll-Bildschirm kleiner als Mitbewerber; Neigung erfordert Gewöhnung"
+      ],
+      "grade": "B",
+      "specs": {
+        "Flywheel": "15 kg",
+        "Resistance": "Magnetic",
+        "Screen": "16\" touchscreen",
+        "Lean": "±25°",
+        "Footprint": "53×61 cm",
+        "Weight": "54 kg",
+        "Subscription": "$20/mo JRNY"
+      },
+      "scores": {
+        "Resistance feel": 4.4,
+        "Build quality": 4.3,
+        "Comfort": 4.6,
+        "Value": 4.2,
+        "Noise": 4.7
+      }
+    },
+    {
+      "offerId": "sunny-health-sf-b1002",
+      "badge": "Bestes Budget",
+      "review": "Magnetwiderstand zum Budgetpreis ist der Hauptvorteil — wartungsfreier Betrieb. Das 8-kg-Schwungrad ist der Kompromiss: Pedalstöße fühlen sich rauer an. Transportrollen ermöglichen Einzel-Umzug.",
+      "pros": [
+        "Magnetwiderstand zum Budgetpreis — kein Wartungsaufwand",
+        "Transportrollen für Einzelpersonentransport",
+        "Kleinste Stellfläche und geringstes Gewicht im Vergleich"
+      ],
+      "cons": [
+        "8-kg-Schwungrad erzeugt rauere Pedalstöße bei mittlerem Widerstand"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Flywheel": "8 kg",
+        "Resistance": "Magnetic (knob)",
+        "Screen": "LCD",
+        "Drive": "Belt drive",
+        "Footprint": "47×99 cm",
+        "Weight": "43 kg",
+        "Subscription": "None"
+      },
+      "scores": {
+        "Resistance feel": 3.6,
+        "Build quality": 3.8,
+        "Comfort": 3.9,
+        "Value": 4.7,
+        "Noise": 4.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für motivierte Kursteilnehmer",
+      "offerId": "peloton-bike",
+      "reason": "Live-Instruktor-Klassen und Bestenlisten-Wettbewerbe bieten die externe Motivationsstruktur."
+    },
+    {
+      "label": "Für plattformunabhängige Radfahrer",
+      "offerId": "schwinn-ic4",
+      "reason": "Bluetooth-Kompatibilität mit mehreren Apps ermöglicht das Ausprobieren von Plattformen — maximale Flexibilität."
+    },
+    {
+      "label": "Für Radsportler beim Innentraining",
+      "offerId": "nordictrack-s22i",
+      "reason": "Motorisierte Neigung und iFit-Geländesimulation schaffen die nächste Annäherung an echtes Outdoor-Training."
+    },
+    {
+      "label": "Für Büroheimatnutzer mit Rückenschmerzen",
+      "offerId": "bowflex-velocore-16",
+      "reason": "Der Neigungsmechanismus verteilt die Haltungsbelastung auf seitliche Stabilisatoren und reduziert Lendenwirbelmüdigkeit."
+    },
+    {
+      "label": "Für budgetorientierte Erstkäufer",
+      "offerId": "sunny-health-sf-b1002",
+      "reason": "Magnetwiderstand und Transportrollen bieten Kernfunktionalität zum niedrigsten Preis ohne Abokosten."
+    }
+  ]
 }

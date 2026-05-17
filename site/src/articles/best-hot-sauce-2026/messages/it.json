@@ -63,5 +63,64 @@
     "franks-redhot-original": "La bottiglia da 23 oz e il miglior valore. Frank's produce anche una salsa Buffalo premiscelata con burro gia aggiunto."
   },
   "pinDescription": "Le 5 migliori salse piccanti del 2026 — dalla Crystal in stile Louisiana delicata alla complessa Cholula e alla classica Tabasco. Trova il tuo livello di piccantezza perfetto! #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni salsa è stata valutata sul livello di piccantezza in Scoville, la qualità degli ingredienti, la complessità aromatica oltre al picante, la versatilità e il rapporto qualità-prezzo per volume.",
+  "products": [
+    {
+      "offerId": "tabasco-original-red",
+      "badge": "Migliore in assoluto",
+      "review": "Tre anni di fermentazione in botte ad Avery Island conferiscono al Tabasco un'intensità e una costanza che le produzioni industriali non possono replicare. La texture sottile e acetica si distribuisce uniformemente su qualsiasi alimento. A 2.500–5.000 Scoville, il piccante è presente senza essere opprimente. L'unico vero svantaggio: la piccola bottiglia da 2 oz costa cara all'oncia per un uso quotidiano.",
+      "pros": ["La fermentazione di tre anni crea aromi complessi assenti nelle semplici salse all'aceto", "Texture sottile che si distribuisce uniformemente su qualsiasi alimento", "Disponibilità globale incomparabile"],
+      "cons": ["Le bottiglie piccole costano care all'oncia rispetto ai concorrenti in grande formato"],
+      "grade": "A+",
+      "specs": {"Scoville": "2.500–5.000", "Base": "Peperoncini Tabasco", "Stile": "Fermentata", "Aceto": "Distillato", "Formati disponibili": "2 oz – 1 gallone", "Origine": "Avery Island, Louisiana"},
+      "scores": {"Livello piccante": 3.8, "Sapore": 4.8, "Valore": 4.0, "Versatilità": 4.9, "Qualità ingredienti": 4.7}
+    },
+    {
+      "offerId": "cholula-original",
+      "badge": "Migliore complessità aromatica",
+      "review": "Il mix di peperoncini pequin e arbol di Cholula offre più dimensioni gustative rispetto alle salse di puro peperoncino di Cayenna. A 1.000–2.000 Scoville, rimane accessibile anche agli intolleranti al piccante. Il tappo di legno è affascinante, ma il formato flip-top è più pratico per l'uso quotidiano.",
+      "pros": ["Il mix pequin-arbol crea vera profondità aromatica", "Livello di piccante accessibile per gruppi con tolleranza mista", "Iconico tappo di legno"],
+      "cons": ["La versione con tappo di legno è meno pratica del flip-top per l'uso quotidiano"],
+      "grade": "A",
+      "specs": {"Scoville": "1.000–2.000", "Base": "Peperoncini pequin e arbol", "Stile": "Miscela macinata fresca", "Origine": "Chapala, Messico", "Formati disponibili": "5 oz – 64 oz", "Aceto": "Sidro di mele"},
+      "scores": {"Livello piccante": 2.8, "Sapore": 4.9, "Valore": 4.3, "Versatilità": 4.7, "Qualità ingredienti": 4.5}
+    },
+    {
+      "offerId": "valentina-extra-hot",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "review": "Meno di $3 per una bottiglia grande — Valentina Extra Hot è la salsa da lavoro della dispensa. La consistenza spessa aderisce al cibo invece di colare. Il sapore è terroso e leggermente dolce prima che arrivi il piccante (~2.100 Scoville). Le manca la complessità fermentata del Tabasco, ma è un'aspettativa non ragionevole a questo prezzo.",
+      "pros": ["Miglior prezzo all'oncia di questo confronto", "Texture spessa che aderisce al cibo invece di colare", "Profilo aromatico terroso e leggermente dolce prima del piccante"],
+      "cons": ["Meno complessa delle salse fermentate — profil gustativo più semplice"],
+      "grade": "B+",
+      "specs": {"Scoville": "~2.100", "Base": "Peperoncini secchi", "Stile": "Pasta densa", "Origine": "Guadalajara, Messico", "Formati disponibili": "12,5 oz – 34 oz", "Aceto": "Distillato"},
+      "scores": {"Livello piccante": 3.5, "Sapore": 4.0, "Valore": 5.0, "Versatilità": 4.4, "Qualità ingredienti": 3.8}
+    },
+    {
+      "offerId": "crystal-hot-sauce",
+      "badge": "Migliore stile Louisiana",
+      "review": "Peperoncino di Cayenna invecchiato e aceto distillato — Crystal è l'espressione più pulita di una salsa Louisiana. A 800–1.000 Scoville, il piccante è sufficientemente basso per cucinare in grandi quantità. L'acidità è notevole: Crystal aggiunge brillantezza e carattere pepato senza l'aggressività del Tabasco.",
+      "pros": ["Sapore pulito di Cayenna invecchiata senza aggressività", "Piccante basso, sicuro per la cucina in grandi quantità", "Buon valore nel formato standard da 12 oz"],
+      "cons": ["Il basso Scoville non soddisferà gli amanti del piccante intenso"],
+      "grade": "B",
+      "specs": {"Scoville": "800–1.000", "Base": "Cayenna invecchiata", "Stile": "Stile Louisiana", "Origine": "New Orleans, Louisiana", "Formati disponibili": "6 oz – 1 gallone", "Aceto": "Distillato"},
+      "scores": {"Livello piccante": 2.0, "Sapore": 4.3, "Valore": 4.6, "Versatilità": 4.5, "Qualità ingredienti": 4.2}
+    },
+    {
+      "offerId": "franks-redhot-original",
+      "badge": "Migliore per cucinare",
+      "review": "Frank's RedHot è la base originale della salsa buffalo ed è l'opzione più delicata del confronto (~450 Scoville). La combinazione Cayenna-aceto riveste perfettamente le proteine e regge il calore del forno. Si percepisce più come 'acidulata' che 'piccante', rendendola ideale per ali di pollo, salse e ricette dove il piccante deve completare, non dominare.",
+      "pros": ["Progettata per condire le ali stile buffalo — riveste e lega perfettamente", "Piccante basso adatto ai commensali poco tolleranti", "Formato grande disponibile per la cucina in grandi quantità"],
+      "cons": ["Troppo delicata per funzionare come salsa piccante autonoma per gli amanti del piccante"],
+      "grade": "B-",
+      "specs": {"Scoville": "~450", "Base": "Cayenna invecchiata", "Stile": "Stile buffalo", "Origine": "Springfield, Missouri", "Formati disponibili": "5 oz – 1 gallone", "Aceto": "Distillato"},
+      "scores": {"Livello piccante": 1.5, "Sapore": 4.0, "Valore": 4.5, "Versatilità": 4.2, "Qualità ingredienti": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per l'uso quotidiano a tavola", "offerId": "tabasco-original-red", "reason": "La complessità fermentata e la texture sottile si abbinano a praticamente qualsiasi alimento."},
+    {"label": "Per gli amanti del sapore prima del piccante", "offerId": "cholula-original", "reason": "Il mix pequin-arbol porta profondità e carattere oltre al semplice conteggio Scoville."},
+    {"label": "Per fare scorta con budget limitato", "offerId": "valentina-extra-hot", "reason": "Miglior prezzo all'oncia del confronto, con texture spessa che aderisce perfettamente."},
+    {"label": "Per le serate ali e la cucina in grandi quantità", "offerId": "franks-redhot-original", "reason": "Progettata per condire le ali stile buffalo — riveste uniformemente e regge il calore del forno."},
+    {"label": "Per la cucina in stile sudista", "offerId": "crystal-hot-sauce", "reason": "Sapore pulito di Cayenna invecchiata che esalta gumbo, fagioli rossi e pollo fritto senza dominare il piatto."}
+  ]
 }

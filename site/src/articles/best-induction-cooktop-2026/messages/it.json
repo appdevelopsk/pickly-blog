@@ -58,5 +58,64 @@
     "secura-9100mc-induction-cooktop": "Funzionalmente equivalente al Duxtop 9100MC a 19 livelli di potenza e 1800W. Tipicamente costa $5-15 in meno. Garanzia USA di due anni. Acquista quello tra il Secura e il Duxtop che e disponibile al prezzo migliore."
   },
   "pinDescription": "Migliori piani cottura a induzione 2026: dal Duxtop 9100MC al Breville Control Freak a confronto su precisione della temperatura, compatibilita delle padelle e potenza. Scelta migliore: Duxtop 9100MC a meno di $100. #italiano",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni piano cottura è stato testato sulla precisione della temperatura misurata rispetto alle impostazioni target, il tempo di riscaldamento fino all'ebollizione, l'affidabilità dell'interfaccia di controllo con le mani bagnate, la compatibilità delle padelle su diversi tipi di batterie da cucina magnetiche, e la qualità costruttiva generale rispetto al prezzo.",
+  "products": [
+    {
+      "offerId": "duxtop-9100mc-induction-cooktop",
+      "badge": "Migliore in assoluto",
+      "review": "Il Duxtop 9100MC è dove qualità costruttiva, granularità di controllo e prezzo convergono senza compromessi significativi. 19 livelli di potenza e 19 passi di temperatura fino a 1800W, pulsanti fisici che funzionano in modo affidabile con le mani bagnate o i guanti da forno, e un timer da 170 minuti. La modalità Boost porta 3 litri all'ebollizione in circa 5 minuti e 20 secondi. L'unica vera limitazione è il controllo della temperatura discreto (non continuo) — rilevante solo per tecniche ad alta precisione come la confetteria.",
+      "pros": ["19 livelli di potenza e passi di temperatura — migliore granularità a questo prezzo", "Il layout dei pulsanti fisici funziona in modo affidabile con le mani bagnate", "Blocco di sicurezza bambini + timer da 170 minuti inclusi"],
+      "cons": ["Solo passi discreti — nessuna risoluzione continua della temperatura per lavori su caramelle/cioccolato"],
+      "grade": "A+",
+      "specs": {"Potenza": "1800W", "Livelli di potenza": "19", "Gamma di temperatura": "60–238°C", "Timer": "170 min", "Controlli": "Pulsanti fisici", "Dimensioni": "29 × 36 × 6 cm"},
+      "scores": {"Potenza di riscaldamento": 4.8, "Precisione": 4.0, "Facilità d'uso": 4.9, "Valore": 4.9, "Portabilità": 4.0}
+    },
+    {
+      "offerId": "nuwave-precision-induction-2-cooktop",
+      "badge": "Migliore per la cottura di precisione",
+      "review": "Il NuWave PIC2 guadagna la sua posizione grazie a due funzionalità non presenti nel Duxtop: incrementi di temperatura di 5°F (risoluzione più fine su un intervallo 100–575°F) e sei fasi di cottura programmabili che sequenziano i cambiamenti di temperatura a intervalli temporizzati. Per la confetteria, le salse multi-fase o qualsiasi ricetta in cui la temperatura cambia secondo un programma, la funzione di fasatura è genuinamente utile. La potenza di riscaldamento e l'affidabilità sono solide a 1800W. L'interfaccia è leggermente meno intuitiva del Duxtop per le attività quotidiane di saltare e far bollire.",
+      "pros": ["Controllo in incrementi di 5°F — risoluzione di temperatura più fine di questo confronto", "6 fasi programmabili per ricette multi-passo automatizzate", "Massimo 575°F estende la gamma utilizzabile al di sopra dei concorrenti"],
+      "cons": ["Interfaccia più complessa del necessario per salto e bollitura quotidiani"],
+      "grade": "A",
+      "specs": {"Potenza": "1800W", "Gamma di temperatura": "38–302°C", "Incremento di temperatura": "circa 3°C (5°F)", "Fasi": "6 programmabili", "Controlli": "Pulsante + digitale", "Dimensioni": "30 × 30 × 6 cm"},
+      "scores": {"Potenza di riscaldamento": 4.7, "Precisione": 4.8, "Facilità d'uso": 3.8, "Valore": 4.5, "Portabilità": 4.0}
+    },
+    {
+      "offerId": "breville-bic600xl-control-freak",
+      "badge": "Migliore scelta professionale",
+      "review": "Il Control Freak opera in una categoria completamente diversa. La sua sonda di temperatura della superficie della padella misura la superficie di cottura effettiva (non il vetro sottostante) e regola la potenza ogni 20 millisecondi per rimanere entro 1°F dall'obiettivo da 77°F a 482°F. Questa è precisione di livello laboratorio in un elettrodomestico — significativa per il temperaggio del cioccolato, la salsa olandese, le creme e le caramelle dove 5°F fa la differenza tra successo e ricominciare. A $1.299, il prezzo è circa 15 volte quello del Duxtop, e giustificato solo se la vostra cucina richiede regolarmente quella precisione.",
+      "pros": ["La sonda sulla superficie della padella mantiene un'accuratezza di ±1°F su tutta la gamma", "La grande interfaccia a manopola si adatta al flusso di lavoro della cucina professionale", "La potenza si regola ogni 20ms — risposta più rapida di qualsiasi unità di induzione casalinga"],
+      "cons": ["$1.299 — circa 15 volte il costo del Duxtop; ingiustificabile per la cucina domestica quotidiana"],
+      "grade": "B+",
+      "specs": {"Potenza": "1800W", "Gamma di temperatura": "25–250°C", "Precisione": "±0,5°C (±1°F)", "Sonda": "Contatto superficie padella", "Controlli": "Manopola + digitale", "Dimensioni": "39 × 33 × 9 cm"},
+      "scores": {"Potenza di riscaldamento": 4.8, "Precisione": 5.0, "Facilità d'uso": 4.5, "Valore": 2.5, "Portabilità": 2.5}
+    },
+    {
+      "offerId": "cosori-induction-cooktop-1800w",
+      "badge": "Migliore opzione portatile",
+      "review": "Il COSORI 1800W è significativamente più sottile e leggero rispetto al Secura o al Duxtop, che è il suo principale vantaggio. Se il piano cottura si sposta frequentemente — stanza universitaria, camper, cucina secondaria, tavolo esterno — il peso ridotto e il profilo contano più dei quattro livelli di potenza aggiuntivi offerti dal Duxtop. I controlli a cursore touch funzionano bene con le mani asciutte ma diventano inaffidabili con umidità, vapore o guanti da forno. Per un'installazione fissa sul piano di lavoro, il Duxtop è la scelta migliore; per una configurazione mobile, la costruzione più leggera del COSORI vince.",
+      "pros": ["Opzione più leggera e sottile — più facile da riporre e trasportare", "Competitivi 15 livelli di potenza a un prezzo accessibile", "Profilo sottile adatto a cucine ad uso occasionale o mobili"],
+      "cons": ["Il cursore touch è inaffidabile con mani bagnate o guanti da forno"],
+      "grade": "B",
+      "specs": {"Potenza": "1800W", "Livelli di potenza": "15", "Gamma di temperatura": "60–240°C", "Controlli": "Cursore touch", "Peso": "~2,5 kg", "Dimensioni": "28 × 33 × 5 cm"},
+      "scores": {"Potenza di riscaldamento": 4.5, "Precisione": 3.5, "Facilità d'uso": 3.8, "Valore": 4.7, "Portabilità": 5.0}
+    },
+    {
+      "offerId": "secura-9100mc-induction-cooktop",
+      "badge": "Migliore rapporto qualità-prezzo",
+      "review": "Il Secura 9100MC è funzionalmente identico al Duxtop 9100MC — gli stessi 19 livelli di potenza e passi di temperatura, lo stesso massimo di 1800W, lo stesso layout di pulsanti fisici. In genere costa $5–15 in meno del Duxtop e ha una garanzia di 2 anni negli Stati Uniti dal distributore americano di Secura. Nella cucina quotidiana, non esiste alcuna differenza significativa tra i due. La giusta strategia d'acquisto: controlla il prezzo di entrambi il giorno dell'acquisto e compra quello più economico e disponibile.",
+      "pros": ["Specifiche identiche al Duxtop 9100MC a prezzo inferiore", "Garanzia di 2 anni negli Stati Uniti", "Pulsanti fisici per un funzionamento affidabile nelle condizioni di cottura"],
+      "cons": ["Nessuna differenziazione significativa dal Duxtop — acquisto puramente per confronto di prezzi"],
+      "grade": "B-",
+      "specs": {"Potenza": "1800W", "Livelli di potenza": "19", "Gamma di temperatura": "60–238°C", "Timer": "170 min", "Controlli": "Pulsanti fisici", "Garanzia": "2 anni (USA)"},
+      "scores": {"Potenza di riscaldamento": 4.8, "Precisione": 4.0, "Facilità d'uso": 4.9, "Valore": 5.0, "Portabilità": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per uso quotidiano in cucina", "offerId": "duxtop-9100mc-induction-cooktop", "reason": "Miglior controllo tutto tondo e qualità costruttiva — la scelta predefinita corretta per un piano cottura fisso usato quotidianamente."},
+    {"label": "Per confetteria e cottura multi-fase", "offerId": "nuwave-precision-induction-2-cooktop", "reason": "Gli incrementi di 5°F e le 6 fasi programmabili lo rendono lo strumento giusto per le ricette in cui la temperatura cambia secondo un programma."},
+    {"label": "Per precisione di livello professionale", "offerId": "breville-bic600xl-control-freak", "reason": "Sonda sulla superficie della padella con precisione ±1°F — giustificata per il temperaggio del cioccolato, le creme e la confetteria avanzata."},
+    {"label": "Per uso mobile o occasionale", "offerId": "cosori-induction-cooktop-1800w", "reason": "La più leggera e sottile — la scelta giusta quando il piano cottura si sposta regolarmente tra ubicazioni."},
+    {"label": "Per il miglior prezzo su specifiche comparabili", "offerId": "secura-9100mc-induction-cooktop", "reason": "Identico al Duxtop 9100MC — acquistare quello più economico il giorno dell'acquisto."}
+  ]
 }

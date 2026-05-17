@@ -61,5 +61,64 @@
     "bare-bones-broth": "Formule pure à 4 ingrédients, bœuf nourri à l'herbe, marque fondée par une femme"
   },
   "pinDescription": "5 meilleurs bouillons d'os classés par protéines, collagène et provenance — des longue conservation du quotidien aux premium en bouteille de verre. Trouvez le bon pour la santé intestinale, les articulations ou la cuisine.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque produit a été évalué sur le profil gustatif, la transparence de l'approvisionnement, le rapport qualité-prix, l'intégrité de l'emballage et la praticité. Les certifications et avis vérifiés ont été comparés aux allégations marketing.",
+  "products": [
+    {
+      "offerId": "kettle-fire-beef-broth",
+      "badge": "Meilleur au global",
+      "review": "Kettle & Fire est la référence du bouillon d'os longue conservation : os de bœuf nourri à l'herbe, 10 g de protéines par portion, tetra pak sans besoin de réfrigération. Le goût est propre et savoureux — assez doux à boire tel quel, assez corsé pour les braisés. Le traitement UHT réduit légèrement certains acides aminés mais le compromis de praticité est justifié.",
+      "pros": ["Longue conservation — pas besoin d'espace réfrigérateur", "10 g de protéines par portion d'os nourris à l'herbe", "Courte liste d'ingrédients avec légumes bio"],
+      "cons": ["Le traitement UHT peut légèrement réduire certains acides aminés par rapport aux produits réfrigérés"],
+      "grade": "A+",
+      "specs": {"Protéines": "10 g/portion", "Format": "Tetra Pak (longue conservation)", "Os": "Bœuf nourri à l'herbe", "Taille portion": "240 ml", "Légumes bio": "Oui"},
+      "scores": {"Qualité": 4.5, "Goût": 4.3, "Rapport qualité-prix": 4.4, "Nutrition": 4.4, "Praticité": 4.9}
+    },
+    {
+      "offerId": "fond-bone-broth",
+      "badge": "Meilleur premium",
+      "review": "FOND est le bouillon d'os pour ceux qui lisent chaque étiquette : élevage en plein air, certifié bio, bouteilles en verre, livré réfrigéré. Il se prend en gelée ferme au réfrigérateur — indicateur visuel d'une teneur élevée en gélatine. La saveur riche aux herbes est excellente à boire directement mais peut être trop prononcée pour une utilisation culinaire neutre.",
+      "pros": ["Se prend en gelée ferme au réfrigérateur — teneur élevée en collagène et gélatine confirmée", "Bouteilles en verre — pas de migration plastique", "Élevage en plein air, certifié bio"],
+      "cons": ["Environ deux fois le prix de Kettle & Fire — livraison réfrigérée uniquement"],
+      "grade": "A",
+      "specs": {"Protéines": "env. 9–10 g/portion", "Format": "Bouteille en verre (réfrigéré)", "Os": "Élevage en plein air, certifié bio", "Gélatine": "Se prend en gelée ferme au réfrigérateur", "Cuisson": "Mijotage lent avec herbes"},
+      "scores": {"Qualité": 4.9, "Goût": 4.7, "Rapport qualité-prix": 3.2, "Nutrition": 4.8, "Praticité": 3.5}
+    },
+    {
+      "offerId": "pacific-foods-bone-broth",
+      "badge": "Meilleur rapport qualité-prix du quotidien",
+      "review": "Pacific Foods est le bouillon d'os que l'on trouve chez Costco ou en grande surface sans planification — certifié USDA Bio, environ 5–7 $ pour 32 oz. Protéines à 9–10 g/portion, goût propre et neutre, idéal quand le bouillon est un ingrédient et non le plat principal. Ne gélifie pas au réfrigérateur — concentration en gélatine plus faible.",
+      "pros": ["USDA Bio à prix grande distribution", "Largement disponible chez Costco, Target et supermarchés", "Goût neutre idéal pour les applications culinaires"],
+      "cons": ["Ne gélifie pas au réfrigérateur — concentration en gélatine plus faible que les alternatives premium"],
+      "grade": "B+",
+      "specs": {"Protéines": "9–10 g/portion", "Format": "Tetra Pak (longue conservation)", "Certification": "USDA Bio", "Disponibilité": "Large distribution", "Faible sodium": "Option disponible"},
+      "scores": {"Qualité": 3.9, "Goût": 3.8, "Rapport qualité-prix": 4.7, "Nutrition": 3.9, "Praticité": 4.8}
+    },
+    {
+      "offerId": "ancient-nutrition-bone-broth",
+      "badge": "Meilleure dose de collagène",
+      "review": "Ancient Nutrition propose 20 g de protéines de collagène par portion (bovin, poulet, poisson, blanc d'œuf) — bien plus que les 7–12 g des bouillons liquides. Se dissout sans grumeaux dans les boissons chaudes ou froides. Honnêtement : c'est un complément de collagène sous l'étiquette bouillon d'os, pas un bouillon avec profondeur gustative ou utilité culinaire.",
+      "pros": ["20 g de protéines de collagène/portion — le plus élevé de tous les produits présentés", "Collagène multi-sources (bovin, poulet, poisson, blanc d'œuf)", "Se dissout sans grumeaux dans les boissons chaudes et froides"],
+      "cons": ["Pas de saveur de bouillon, pas d'arômes, pas d'utilité culinaire — c'est un complément"],
+      "grade": "B",
+      "specs": {"Protéines": "20 g collagène/portion", "Format": "Poudre", "Sources collagène": "Bovin, poulet, poisson, blanc d'œuf", "Saveurs": "Nature, chocolat, vanille", "Disponibilité": "Costco, Walmart, revendeurs compléments"},
+      "scores": {"Qualité": 4.2, "Goût": 3.5, "Rapport qualité-prix": 4.0, "Nutrition": 4.9, "Praticité": 4.5}
+    },
+    {
+      "offerId": "bare-bones-broth",
+      "badge": "Étiquette la plus épurée",
+      "review": "Bare Bones utilise une formule à 4 ingrédients — os, eau, vinaigre de cidre, sel marin — sans arômes naturels, extrait de levure ni stabilisants. 100 % os de bœuf nourri à l'herbe, gélifie légèrement au réfrigérateur (confirme la teneur réelle en gélatine), 10 g de protéines/portion. Goût de bœuf direct et savoureux pour boire ou cuisiner. Positionnement prix entre les produits grande distribution et FOND.",
+      "pros": ["Formule à 4 ingrédients — sans additifs", "Gélifie légèrement au réfrigérateur — teneur en gélatine réelle", "Marque fondée par une femme, traçabilité de l'origine"],
+      "cons": ["Moins largement disponible que Pacific Foods ou Kettle & Fire"],
+      "grade": "B-",
+      "specs": {"Protéines": "10 g/portion", "Format": "Tetra Pak (longue conservation) + poches surgelées", "Os": "100% bœuf nourri à l'herbe", "Ingrédients": "4 (os, eau, vinaigre de cidre, sel marin)", "Gélatine": "Gélifie légèrement au réfrigérateur"},
+      "scores": {"Qualité": 4.6, "Goût": 4.4, "Rapport qualité-prix": 3.8, "Nutrition": 4.6, "Praticité": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour la praticité du garde-manger", "offerId": "kettle-fire-beef-broth", "reason": "Longue conservation, commandable en carton en ligne — le choix pratique par défaut pour la consommation quotidienne ou la cuisine du soir."},
+    {"label": "Pour les protocoles de santé intestinale", "offerId": "fond-bone-broth", "reason": "Gélifie fermement, livraison réfrigérée, teneur en gélatine la plus élevée — si le collagène et la glycine sont le vrai objectif, le supplément de prix est justifié."},
+    {"label": "Pour cuisiner en grandes quantités", "offerId": "pacific-foods-bone-broth", "reason": "USDA Bio à prix Costco — le bon choix quand le bouillon est un ingrédient, pas le plat principal."},
+    {"label": "Pour maximiser l'apport en collagène", "offerId": "ancient-nutrition-bone-broth", "reason": "Une cuillère apporte 20 g de collagène multi-sources — la façon la plus efficace d'enrichir un smoothie ou un café du matin."},
+    {"label": "Pour les lecteurs d'étiquettes", "offerId": "bare-bones-broth", "reason": "Quatre ingrédients, sans additifs, nourri à l'herbe — le bouillon d'os standard le plus épuré de cette catégorie."}
+  ]
 }

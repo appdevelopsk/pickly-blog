@@ -59,5 +59,184 @@
     "hario-v60-filters-02": "Filter kertas V60, ukuran 02, putih atau natural. ~$5-10 per 100 lembar. Konsumabel wajib — tersedia luas di supermarket dan retailer kopi spesialti. Lebih mudah didapat dibanding filter Kalita Wave."
   },
   "pinDescription": "Hario V60 pour-over 2026: keramik vs plastik vs kaca vs metal, mengapa desain satu lubang memberikan kontrol ekstraksi maksimum, cara memilih antara V60 dan Kalita Wave, serta resep seduh V60 standar.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Setiap varian V60 dievaluasi berdasarkan kejernihan seduhan pada gilingan dan teknik yang sesuai, retensi panas selama penuangan standar 3 menit, ketahanan untuk perjalanan dan penggunaan sehari-hari, kualitas konstruksi, dan nilai praktis relatif terhadap kinerja ekstraksi.",
+  "products": [
+    {
+      "offerId": "hario-v60-02-ceramic",
+      "badge": "Terbaik Secara Keseluruhan",
+      "review": "Hario V60 02 Keramik adalah rekomendasi standar untuk sebagian besar pembuat kopi di rumah — rasa netral, retensi panas yang baik setelah dipanaskan terlebih dahulu, dan estetika klasik yang menjadikannya pusat budaya pour-over. Bilas dengan air panas sebelum menyeduh untuk menghilangkan perbedaan penyerapan panas dibandingkan plastik. Kompromisnya adalah risiko pecah dan harga $25–35 versus versi plastik.",
+      "pros": [
+        "Retensi panas terbaik setelah pemanasan awal di antara pilihan V60 non-logam",
+        "Rasa keramik netral — tidak ada gangguan rasa",
+        "V60 standar komunitas dengan panduan seduh terbanyak yang ditulis untuknya"
+      ],
+      "cons": [
+        "Mudah pecah — memerlukan penanganan hati-hati atau tas pelindung perjalanan"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Material": "Keramik",
+        "Ukuran": "02 (1–4 cangkir)",
+        "Harga": "~$25–35",
+        "Retensi panas": "Baik (pemanasan awal diperlukan)",
+        "Kerapuhan": "Sedang",
+        "Filter": "V60 02",
+        "Aman cuci mesin": "Ya"
+      },
+      "scores": {
+        "Brew clarity": 4.7,
+        "Build quality": 4.5,
+        "Ease of use": 4.5,
+        "Value": 4.4,
+        "Versatility": 4.5
+      }
+    },
+    {
+      "offerId": "hario-v60-02-plastic",
+      "badge": "Terbaik untuk Pemula dan Perjalanan",
+      "review": "V60 02 Plastik adalah titik awal terbaik untuk mempelajari teknik V60. Secara fungsional identik dengan keramik — geometri yang sama, rusuk spiral yang sama, lubang tunggal yang sama — tetapi plastik tidak menyerap panas dari air seduhan, sehingga kehilangan panas ke dripper itu sendiri minimal. Tidak ada risiko pecah menjadikannya ideal untuk perjalanan dan penggunaan luar ruangan. Seharga $8–15, risiko finansialnya bisa diabaikan.",
+      "pros": [
+        "Geometri ekstraksi yang sama dengan keramik seharga $8–15",
+        "Tidak ada risiko pecah — ideal untuk perjalanan dan penggunaan di luar ruangan",
+        "Kehilangan panas ke dripper lebih sedikit dibanding keramik (plastik tidak menyerap panas)"
+      ],
+      "cons": [
+        "Estetika kurang premium dibanding keramik atau logam"
+      ],
+      "grade": "A",
+      "specs": {
+        "Material": "Plastik (bebas BPA)",
+        "Ukuran": "02 (1–4 cangkir)",
+        "Harga": "~$8–15",
+        "Retensi panas": "Kehilangan panas minimal",
+        "Kerapuhan": "Tidak ada",
+        "Filter": "V60 02",
+        "Aman cuci mesin": "Ya"
+      },
+      "scores": {
+        "Brew clarity": 4.6,
+        "Build quality": 3.8,
+        "Ease of use": 4.8,
+        "Value": 4.9,
+        "Versatility": 4.7
+      }
+    },
+    {
+      "offerId": "hario-v60-02-glass",
+      "badge": "Terbaik untuk Pembelajaran Visual",
+      "review": "V60 02 Kaca menggunakan kaca borosilikat — sepenuhnya transparan sehingga Anda dapat melihat bloom berkembang dan mengamati distribusi air melalui lapisan kopi secara real time. Umpan balik visual ini sangat berguna untuk mendiagnosis masalah ekstraksi dan mempelajari teknik penuangan. Kaca mempertahankan panas lebih sedikit dibanding keramik, sehingga pemanasan awal sangat penting. Paling rapuh di antara keempat material.",
+      "pros": [
+        "Transparan — lihat bloom dan distribusi air secara real time",
+        "Berguna untuk mendiagnosis masalah ekstraksi secara visual",
+        "Konstruksi borosilikat tahan panas"
+      ],
+      "cons": [
+        "Paling rapuh — risiko pecah tertinggi",
+        "Retensi panas terburuk dalam perbandingan ini"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Material": "Kaca borosilikat",
+        "Ukuran": "02 (1–4 cangkir)",
+        "Harga": "~$25–40",
+        "Retensi panas": "Rendah (pemanasan awal penting)",
+        "Kerapuhan": "Tinggi",
+        "Filter": "V60 02",
+        "Transparansi": "Penuh"
+      },
+      "scores": {
+        "Brew clarity": 4.7,
+        "Build quality": 3.5,
+        "Ease of use": 4.0,
+        "Value": 4.0,
+        "Versatility": 3.8
+      }
+    },
+    {
+      "offerId": "hario-v60-02-metal",
+      "badge": "Terbaik untuk Ketahanan dan Hadiah",
+      "review": "V60 02 Logam (baja tahan karat atau tembaga) adalah pilihan paling tahan lama — tidak akan pernah pecah, memanas dengan cepat dan merata, dan versi tembaga adalah karya pajangan sekaligus alat kopi. Seharga $60–90 ini adalah dripper V60 paling mahal, paling tepat sebagai hadiah atau estetika dapur premium. Untuk penyeduhan praktis sehari-hari, keramik menawarkan hasil yang sebanding dengan sepertiga harganya.",
+      "pros": [
+        "Tidak bisa rusak — ideal untuk penggunaan sehari-hari yang intens atau lingkungan yang rentan terhadap kecelakaan",
+        "Versi tembaga adalah hadiah berkualitas pajangan premium",
+        "Memanas dengan cepat dan merata — tidak ada titik dingin"
+      ],
+      "cons": [
+        "$60–90 mahal untuk sebuah dripper ketika keramik memberikan performa yang setara"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "Baja tahan karat atau tembaga",
+        "Ukuran": "02",
+        "Harga": "~$60–90",
+        "Retensi panas": "Sangat baik",
+        "Kerapuhan": "Tidak ada",
+        "Filter": "V60 02",
+        "Estetika": "Premium"
+      },
+      "scores": {
+        "Brew clarity": 4.7,
+        "Build quality": 4.9,
+        "Ease of use": 4.3,
+        "Value": 3.5,
+        "Versatility": 4.2
+      }
+    },
+    {
+      "offerId": "hario-v60-filters-02",
+      "badge": "Konsumabel Penting",
+      "review": "Filter kertas Hario V60 02 adalah konsumabel berkelanjutan yang diperlukan untuk setiap setup V60. Versi putih dan alami (tidak diputihkan) keduanya berfungsi dengan baik; perbedaannya minimal bagi kebanyakan pembuat kopi. Keunggulan praktis utama dibanding filter Kalita Wave: filter V60 02 dijual di Starbucks, kebanyakan jaringan supermarket, dan toko kopi spesialis mana pun — Anda tidak akan kehabisan di tengah minggu.",
+      "pros": [
+        "Tersedia di supermarket, Starbucks, dan toko kopi spesialis",
+        "100 lembar bertahan sekitar 3 bulan untuk pembuat kopi harian",
+        "Versi putih dan alami tersedia luas"
+      ],
+      "cons": [
+        "Harus dibeli ulang secara rutin — pertimbangkan sebagai biaya V60 berkelanjutan"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Ukuran": "02",
+        "Jumlah": "100 per paket",
+        "Harga": "~$5–10 per 100",
+        "Jenis": "Putih (diputihkan) atau alami (tidak diputihkan)",
+        "Ketersediaan": "Supermarket di seluruh Indonesia",
+        "Cocok untuk": "V60 01, 02, 03"
+      },
+      "scores": {
+        "Brew clarity": 4.6,
+        "Build quality": 4.0,
+        "Ease of use": 4.9,
+        "Value": 4.8,
+        "Versatility": 4.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Untuk sebagian besar pembuat kopi di rumah",
+      "offerId": "hario-v60-02-ceramic",
+      "reason": "V60 standar komunitas dengan retensi panas yang baik dan panduan seduh terbanyak yang ditulis untuknya"
+    },
+    {
+      "label": "Untuk pemula dan pelancong",
+      "offerId": "hario-v60-02-plastic",
+      "reason": "Geometri ekstraksi yang sama seharga $8–15 tanpa risiko pecah"
+    },
+    {
+      "label": "Untuk mendiagnosis teknik seduh",
+      "offerId": "hario-v60-02-glass",
+      "reason": "Transparansi penuh memungkinkan Anda melihat bloom dan distribusi air secara real time"
+    },
+    {
+      "label": "Untuk hadiah atau estetika premium",
+      "offerId": "hario-v60-02-metal",
+      "reason": "Tidak bisa rusak dan versi tembaga adalah hadiah berkualitas pajangan"
+    },
+    {
+      "label": "Untuk menambah stok konsumabel",
+      "offerId": "hario-v60-filters-02",
+      "reason": "Diperlukan untuk setiap penyeduhan V60 dan tersedia di supermarket saat kehabisan"
+    }
+  ]
 }

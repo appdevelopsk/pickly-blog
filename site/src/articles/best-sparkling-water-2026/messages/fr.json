@@ -68,5 +68,64 @@
     "spindrift-sparkling-water": "Contient du vrai jus de fruit -- 9-17 calories par canette selon la saveur."
   },
   "pinDescription": "Eaux petillantes classees par carbonatation -- de l'intense effervescence de Liquid Death aux douces bulles de La Croix. 5 marques testees, un gagnant clair pour les cocktails. #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque eau petillante a ete evaluee sur l'intensite de la carbonatation et la persistence des bulles jusqu'au dernier tiers d'un contenant ouvert, la teneur en mineraux et son effet sur la neutralite du palais, l'integrite de la liste des ingredients (pas d'acide citrique, pas d'edulcorants, pas de concentres), la valeur par once selon les tailles standard des emballages de vente au detail et la convenance comme base de cocktail sur la retention de la carbonatation apres versement sur glace.",
+  "products": [
+    {
+      "offerId": "liquid-death-mountain-water",
+      "badge": "Meilleur au global",
+      "review": "La carbonatation agressive de Liquid Death est nettement plus vive et soutenue que la plupart des concurrents — elle conserve son pique jusqu'a la derniere gorgee d'une maniere que les eaux petillantes plus legeres ne peuvent pas. Provenant des Alpes autrichiennes et mise en canette d'aluminium, elle se positionne comme l'option axee sur la carbonatation pour les personnes qui trouvent Topo Chico et Perrier trop doux. Le prix par once est superieur aux marques de supermarche, mais les achats en gros l'approchent d'une valeur raisonnable.",
+      "pros": ["Carbonatation la plus aggressive et la plus soutenue de cette comparaison", "La canette en aluminium se recycle a des taux plus eleves que le plastique", "Fonctionne comme melangeur premium de cocktails ou la persistence des bulles est importante"],
+      "cons": ["Prix le plus eleve par once — necessite des achats en gros pour atteindre une valeur raisonnable"],
+      "grade": "A+",
+      "specs": {"Source": "Alpes autrichiennes", "Carbonatation": "Tres elevee (forcee)", "Format": "Canette aluminium 50cl", "Calories": "0", "Sodium": "~10mg par canette", "Parfums disponibles": "Nature + lignes petillantes aromatisees"},
+      "scores": {"Carbonation level": 5.0, "Flavor": 4.3, "Value": 3.5, "Ingredient quality": 4.5, "Convenience": 4.7}
+    },
+    {
+      "offerId": "topo-chico-mineral-water",
+      "badge": "Meilleur pour les cocktails",
+      "review": "Topo Chico est le melangeur de predilection des barman depuis bien avant sa large diffusion, et la carbonatation elevee et serree — petites bulles persistantes plutot que grandes et molles — est ce qui le rend si efficace avec les highballs de mezcal et de tequila. La teneur minerale naturelle lui donne une legere profondeur salee qui apporte du corps aux boissons alcoolisees a l'eau. La version en bouteille de verre est celle qui vaut la peine d'etre achetee ; la bouteille lourde est impratique pour la portabilite.",
+      "pros": ["Carbonatation elevee et serree tient pendant toute une boisson melangee", "La teneur minerale naturelle ajoute de la profondeur salee aux cocktails", "Mise en bouteille a la meme source de Monterrey depuis 1895 — formule inchangee apres l'acquisition par Coca-Cola"],
+      "cons": ["La bouteille en verre lourde est impratique pour la portabilite ou l'usage en exterieur"],
+      "grade": "A",
+      "specs": {"Source": "Monterrey, Mexique (source)", "Carbonatation": "Elevee (naturellement carbonatee + infusee)", "Format": "Bouteille en verre / format canette limite", "Calories": "0", "Mineraux": "Calcium, magnesium, sodium", "Parfums disponibles": "Nature + Twist de Citron Vert"},
+      "scores": {"Carbonation level": 4.8, "Flavor": 4.5, "Value": 3.8, "Ingredient quality": 4.8, "Convenience": 3.0}
+    },
+    {
+      "offerId": "perrier-sparkling-water",
+      "badge": "Meilleur pour l'accord mets",
+      "review": "Le profil de carbonatation moyen de Perrier — plus que La Croix, moins que Topo Chico ou Liquid Death — en fait l'option la plus versatile pour l'accord avec les plats : suffisamment fort pour nettoyer le palais entre les plats, suffisamment doux pour ne pas dominer. L'iconique bouteille en verre vert reste le format standard, et les lignes aromatisees (citron vert, citron, pamplemousse) utilisent de la vraie saveur de fruit sans edulcorants ni acide citrique ajoutes.",
+      "pros": ["La carbonatation moyenne fonctionne comme agent nettoyant du palais entre les plats", "Les lignes aromatisees utilisent de la vraie saveur sans edulcorants ni acide citrique", "Bouteille mondialement reconnue appropriee pour le service a table"],
+      "cons": ["La carbonatation se dissipe plus vite que Topo Chico ou Liquid Death dans un contenant ouvert"],
+      "grade": "B+",
+      "specs": {"Source": "Vergeze, France (source naturelle)", "Carbonatation": "Moyenne (CO2 recapture et reinfuse)", "Format": "Bouteille en verre / canette aluminium / plastique", "Calories": "0", "Mineraux": "Calcium, magnesium, sodium", "Parfums disponibles": "Nature + citron vert, citron, pamplemousse, fraise"},
+      "scores": {"Carbonation level": 3.8, "Flavor": 4.5, "Value": 4.0, "Ingredient quality": 4.7, "Convenience": 4.2}
+    },
+    {
+      "offerId": "la-croix-sparkling-water",
+      "badge": "Meilleur pour la consommation quotidienne en grand volume",
+      "review": "La legere carbonatation de La Croix est une caracteristique, pas un defaut, pour les utilisateurs qui essaient d'atteindre leurs objectifs d'hydratation quotidiens — la douceur signifie que vous pouvez boire de grands volumes sans vous sentir gonfle. Plus de 20 aromes d'essences naturelles couvrent les menages aux preferences diversifiees, et le prix par caisse est constamment parmi les plus competitifs dans la categorie des eaux petillantes. C'est l'eau la moins passionnante de cette liste, mais la plus pratique comme boisson quotidienne.",
+      "pros": ["La legere carbonatation permet une consommation en grand volume sans ballonnements", "20+ varietes d'aromes dont des packs assortis pour les menages aux preferences diversifiees", "Prix par caisse constamment competitif"],
+      "cons": ["La carbonatation s'aplatit rapidement dans une boisson melangee — pas adaptee comme melangeur de cocktail"],
+      "grade": "B",
+      "specs": {"Source": "Eau du robinet (carbonatee)", "Carbonatation": "Legere", "Format": "Canette aluminium slim", "Calories": "0", "Edulcorants": "Aucun", "Parfums disponibles": "20+ varietes d'essence naturelle"},
+      "scores": {"Carbonation level": 2.5, "Flavor": 3.8, "Value": 4.8, "Ingredient quality": 4.3, "Convenience": 5.0}
+    },
+    {
+      "offerId": "spindrift-sparkling-water",
+      "badge": "Meilleure vraie saveur fruitee",
+      "review": "Spindrift est le cas particulier de cette comparaison : le vrai jus de fruit presse dans chaque canette produit une saveur qui ressemble indubitablement a du vrai fruit plutot qu'a une approximation. La variante citron est particulierement honnete — elle a le gout de quelqu'un qui a presse un citron dans de l'eau petillante, parce que c'est essentiellement ce qui s'est passe. Le leger nombre de calories (9-17 par canette) l'ecarte comme option zero calorie, ce qui est le seul compromis significatif.",
+      "pros": ["Vrai jus de fruit presse — la saveur la plus honnete de cette comparaison", "Liste d'ingredients courte : eau carbonatee, jus de fruit, parfois puree", "Meilleure option au petit-dejeuner ou l'acide fruité s'accorde avec la nourriture"],
+      "cons": ["9-17 calories par canette — pas zero calorie malgre une teneur minimale en sucre"],
+      "grade": "B-",
+      "specs": {"Source": "Eau du robinet (carbonatee)", "Carbonatation": "Moyen-legere", "Format": "Canette aluminium standard", "Calories": "9–17 par canette (selon le parfum)", "Teneur en jus": "Vrai jus de fruit presse", "Parfums disponibles": "Citron, Pamplemousse, Citron vert-Framboise, Fraise, autres"},
+      "scores": {"Carbonation level": 3.5, "Flavor": 5.0, "Value": 3.8, "Ingredient quality": 5.0, "Convenience": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour la satisfaction carbonatee maximale", "offerId": "liquid-death-mountain-water", "reason": "Si vous trouvez les autres eaux petillantes trop douces, la carbonatation agressive de Liquid Death offre le pique le plus vif et le maintient jusqu'a la derniere gorgee."},
+    {"label": "Pour la preparation de cocktails", "offerId": "topo-chico-mineral-water", "reason": "Les petites bulles persistantes et la profondeur minerale naturelle tiennent pendant toute une boisson melangee — la raison pour laquelle les barman l'ont choisi avant qu'il devienne grand public."},
+    {"label": "Pour l'accord mets a table", "offerId": "perrier-sparkling-water", "reason": "La carbonatation moyenne nettoie le palais entre les plats sans dominer, et la bouteille se presente bien a une table de diner."},
+    {"label": "Pour l'hydratation quotidienne en grand volume", "offerId": "la-croix-sparkling-water", "reason": "Les bulles legeres, 20+ aromes et le prix competitif par caisse en font le choix le plus pratique quand vous buvez plusieurs canettes par jour."},
+    {"label": "Pour la vraie saveur fruitee sans additifs artificiels", "offerId": "spindrift-sparkling-water", "reason": "Le vrai jus presse produit une saveur fruitee genuinement honnete — la seule option dans cette comparaison qui resout entierement la plainte 'aromes artificiels'."}
+  ]
 }

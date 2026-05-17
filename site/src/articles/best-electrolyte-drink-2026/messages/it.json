@@ -68,5 +68,154 @@
     "pedialyte-sport": "Disponibile in farmacia in qualsiasi momento, 490mg di sodio, affidabile per malattia e recupero"
   },
   "pinDescription": "5 bevande elettrolitiche confrontate onestamente — LMNT, Liquid I.V., Nuun, DripDrop e Pedialyte Sport. Contenuto di sodio, zuccheri, prezzo per porzione e qual e quella giusta per la tua situazione. #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni bevanda elettrolitica e stata valutata su: contenuto di sodio rispetto alle perdite reali di sudore, carico di zucchero rispetto alla funzione di trasporto, gradevolezza del sapore in acqua fredda e calda, prezzo per porzione a frequenza di utilizzo settimanale realistica e adeguatezza per casi d'uso specifici — allenamento intenso, recupero da malattia e viaggi.",
+  "products": [
+    {
+      "offerId": "lmnt-recharge-electrolyte",
+      "badge": "La migliore per allenamento intenso e keto",
+      "review": "I 1.000mg di sodio per stick di LMNT sono il fattore differenziante della categoria — sostituisce le perdite reali di sudore piuttosto che una frazione di esse, il che conta per l'allenamento nel caldo, gli adepti del keto che espellono piu sodio, e chiunque sudi abbondantemente per 60+ minuti. La formula zero zuccheri con dolcificante stevia evita il carico di glucosio non necessario quando i carboidrati vengono dal cibo. La variante Raw senza sapore e genuinamente utile: aggiunge elettroliti al caffe, al brodo o all'acqua senza alterare il profilo di sapore. Il compromesso e il prezzo ($1,50-1,80 per stick) — e 1.000mg di sodio e troppo per un'idratazione occasionale senza le corrispondenti perdite di sudore.",
+      "pros": ["1.000mg di sodio corrisponde alle perdite reali di sudore durante l'allenamento intenso", "Zero zuccheri — compatibile con keto, low-carb e finestre di digiuno", "La variante Raw senza sapore aggiunge elettroliti al caffe o al cibo senza cambiare il sapore"],
+      "cons": ["A $1,50-1,80 per porzione, il prezzo per bustina piu alto in questo confronto"],
+      "grade": "A+",
+      "specs": {
+        "Sodio": "1.000 mg",
+        "Potassio": "200 mg",
+        "Magnesio": "60 mg",
+        "Zucchero": "0 g",
+        "Dolcificante": "Stevia",
+        "Formato": "Bustina stick in polvere",
+        "Prezzo per porzione": "circa $1,50-1,80"
+      },
+      "scores": {
+        "Efficacia": 5.0,
+        "Rapporto qualita-prezzo": 3.5,
+        "Gusto": 4.2,
+        "Purezza": 4.8,
+        "Facilita d'uso": 4.7
+      }
+    },
+    {
+      "offerId": "liquid-iv-hydration-multiplier",
+      "badge": "La migliore idratazione mainstream",
+      "review": "La formula CTT di Liquid I.V. — un rapporto glucosio-sodio basato sulla scienza ORS dell'OMS — attiva i trasportatori SGLT-1 nell'intestino tenue per un assorbimento d'acqua piu rapido dell'acqua semplice. I 500mg di sodio sono adeguati per l'allenamento moderato e i viaggi, gli 11g di zucchero servono come funzione di trasporto. La qualita del sapore e costantemente al di sopra della media: Lemon Lime e Passion Fruit reggono bene in acqua fredda e a temperatura ambiente. Il problema sono gli 11g di zucchero per porzione — incompatibile con il keto rigoroso o il low-carb, e ridondante se si consumano gia carboidrati nel giorno di allenamento.",
+      "pros": ["La tecnologia di assorbimento CTT basata sulla scienza ORS dell'OMS fornisce un'idratazione misurabilmente piu rapida", "La migliore qualita del sapore in questo confronto — molteplici opzioni che hanno davvero un buon sapore", "500mg di sodio copre l'allenamento moderato e i viaggi senza eccessi per uso occasionale"],
+      "cons": ["11g di zucchero per porzione e un fattore escludente per il keto o gli approcci rigorosamente low-carb"],
+      "grade": "A",
+      "specs": {
+        "Sodio": "500 mg",
+        "Potassio": "370 mg",
+        "Magnesio": "Non indicato",
+        "Zucchero": "11 g",
+        "Dolcificante": "Zucchero di canna + stevia",
+        "Formato": "Bustina stick in polvere",
+        "Prezzo per porzione": "circa $1,00-1,25"
+      },
+      "scores": {
+        "Efficacia": 4.5,
+        "Rapporto qualita-prezzo": 4.2,
+        "Gusto": 4.9,
+        "Purezza": 4.0,
+        "Facilita d'uso": 4.8
+      }
+    },
+    {
+      "offerId": "nuun-sport-electrolyte-tablets",
+      "badge": "Il miglior rapporto qualita-prezzo e portabilita",
+      "review": "Il formato a compressa effervescente di Nuun e eccezionalmente portatile — un tubo di 10 compresse sta in tasca e pesa quasi niente. A $0,70-0,80 per compressa e il piu economico per uso quotidiano. I 300mg di sodio sono adeguati per un esercizio leggero-moderato e l'idratazione generale. Il formato compressa consente anche di regolare la concentrazione: meno acqua prima di una sessione calda per maggiore densita di sodio, piu acqua per un'idratazione piu leggera durante la giornata. Il compromesso: 300mg non copre la sudorazione intensa — per allenamento nel caldo di 60+ minuti serve LMNT o DripDrop.",
+      "pros": ["Il formato compressa e il piu portatile in questo confronto — formato tascabile, leggerissimo", "Il miglior prezzo a $0,70-0,80 — adeguato per un uso quotidiano costante", "Concentrazione regolabile variando il rapporto acqua-compressa"],
+      "cons": ["300mg di sodio non copre le perdite di sudore intense — inadeguato per allenamento nel caldo superiore a 60 minuti"],
+      "grade": "B+",
+      "specs": {
+        "Sodio": "300 mg",
+        "Potassio": "150 mg",
+        "Magnesio": "25 mg",
+        "Zucchero": "1 g",
+        "Dolcificante": "Stevia + destrosio",
+        "Formato": "Compressa effervescente",
+        "Prezzo per porzione": "circa $0,70-0,80"
+      },
+      "scores": {
+        "Efficacia": 3.8,
+        "Rapporto qualita-prezzo": 5.0,
+        "Gusto": 4.3,
+        "Purezza": 4.5,
+        "Facilita d'uso": 5.0
+      }
+    },
+    {
+      "offerId": "dripdrop-ors-powder",
+      "badge": "La migliore per il recupero da malattia",
+      "review": "DripDrop e formulato come una Soluzione di Reidratazione Orale secondo gli standard OMS — il rapporto di cotrasporto glucosio-sodio attiva l'assorbimento intestinale a livello fisiologico. Anguria e Limone hanno un sapore notevolmente migliore delle alternative cliniche ORS come il Pedialyte originale. Il posizionamento medico rende DripDrop piu rilevante per il recupero da malattia, il rischio di colpo di calore e la disidratazione acuta reale. Per l'idratazione quotidiana da allenamento dove il costo di Nuun o la densita di sodio di LMNT e piu appropriata al contesto, non e lo strumento giusto.",
+      "pros": ["La formulazione ORS secondo gli standard OMS attiva l'assorbimento intestinale per cotrasporto", "Sapore significativamente migliore delle alternative cliniche ORS a livelli simili di sodio", "Vale la pena tenerlo in un kit di emergenza da viaggio — le bustine si conservano a lungo"],
+      "cons": ["Non e lo strumento giusto per l'idratazione quotidiana da allenamento — costo e posizionamento sono entrambi orientati alle malattie"],
+      "grade": "B",
+      "specs": {
+        "Sodio": "330 mg",
+        "Potassio": "185 mg",
+        "Magnesio": "70 mg",
+        "Zucchero": "8 g",
+        "Dolcificante": "Zucchero di canna",
+        "Formato": "Bustina di polvere",
+        "Prezzo per porzione": "circa $1,20-1,50"
+      },
+      "scores": {
+        "Efficacia": 4.6,
+        "Rapporto qualita-prezzo": 3.9,
+        "Gusto": 4.4,
+        "Purezza": 4.7,
+        "Facilita d'uso": 4.5
+      }
+    },
+    {
+      "offerId": "pedialyte-sport",
+      "badge": "La migliore disponibilita in farmacia",
+      "review": "La linea Adult Sport di Pedialyte Sport con 490mg di sodio e 380mg di potassio e ben posizionata per il recupero post-allenamento negli adulti. Il vero vantaggio e l'onnipresenza in farmacia: alle 2 di notte con intossicazione alimentare o gastroenterite, Pedialyte e cio che si trova sullo scaffale della farmacia. Per l'idratazione da allenamento pianificata, le bustine in polvere sono piu pratiche del liquido premiscelato. Il formato liquido non richiede preparazione quando si e troppo malati per pesare la polvere.",
+      "pros": ["Disponibile in farmacie e supermercati in qualsiasi momento — senza pianificazione anticipata necessaria", "490mg di sodio + 380mg di potassio copre il recupero da esercizio da moderato a intenso", "I gusti Uva e Punch alla Frutta sono bevibili per gli adulti senza combattere il sapore"],
+      "cons": ["Il liquido premiscelato e pesante e poco pratico per lo sport attivo — le bustine in polvere esistono ma sono meno ampiamente disponibili"],
+      "grade": "B-",
+      "specs": {
+        "Sodio": "490 mg",
+        "Potassio": "380 mg",
+        "Magnesio": "Non indicato",
+        "Zucchero": "6 g",
+        "Dolcificante": "Saccarosio",
+        "Formato": "Liquido premiscelato (bustine in polvere disponibili anch'esse)",
+        "Prezzo per porzione": "circa $0,80-1,00"
+      },
+      "scores": {
+        "Efficacia": 4.0,
+        "Rapporto qualita-prezzo": 4.3,
+        "Gusto": 3.8,
+        "Purezza": 4.1,
+        "Facilita d'uso": 4.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Atleti che si allenano intensamente nel caldo per 60+ minuti",
+      "offerId": "lmnt-recharge-electrolyte",
+      "reason": "1.000mg di sodio corrisponde alle perdite reali di sudore durante l'allenamento intenso — l'unica opzione qui che sostituisce gli elettroliti a livelli fisiologicamente significativi per l'esercizio prolungato nel caldo."
+    },
+    {
+      "label": "Idratazione quotidiana per viaggi e fitness generale",
+      "offerId": "liquid-iv-hydration-multiplier",
+      "reason": "La tecnologia di assorbimento CTT e la migliore qualita del sapore in questo confronto ne fanno il prodotto che si bevera con maggior piacere in modo costante."
+    },
+    {
+      "label": "Idratazione quotidiana economica con massima portabilita",
+      "offerId": "nuun-sport-electrolyte-tablets",
+      "reason": "Il miglior prezzo a $0,70-0,80 e il formato compressa tascabile non richiede misurazioni — lo strumento giusto per abitudini di idratazione quotidiana senza attrito."
+    },
+    {
+      "label": "Recupero da malattia o disidratazione acuta grave",
+      "offerId": "dripdrop-ors-powder",
+      "reason": "Formulazione ORS secondo gli standard OMS con un sapore significativamente migliore delle alternative cliniche — la scelta piu appropriata per il recupero da vomito, diarrea, febbre o colpo di calore."
+    },
+    {
+      "label": "Malattia improvvisa senza tempo di preparazione",
+      "offerId": "pedialyte-sport",
+      "reason": "Disponibilita in farmacia a qualsiasi ora senza pianificazione anticipata — il formato liquido non richiede nulla quando si e troppo malati per pesare la polvere, ed e affidabile per l'idratazione clinica da decenni."
+    }
+  ]
 }

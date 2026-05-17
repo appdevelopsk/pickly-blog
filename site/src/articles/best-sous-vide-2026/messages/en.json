@@ -86,5 +86,64 @@
     "polyscience-creative-sous-vide": "Best temperature precision of the group. Designed for professional kitchens; appropriate for home cooks who need repeatable precision for eggs and temperature-sensitive fish."
   },
   "pinDescription": "Sous vide cooker comparison 2026: Anova Precision Cooker Pro vs Breville Joule Turbo vs Inkbird ISV-100W vs Wancle vs PolyScience Creative. Perfect medium-rare steak every time — which circulator is right for your kitchen?",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each circulator was evaluated on stated temperature accuracy under loaded-container conditions, wattage performance with large containers, app dependency risk (manual vs app-only operation), motor noise level during long overnight cooks, and owner reports of hardware longevity past the 18-month mark.",
+  "products": [
+    {
+      "offerId": "anova-precision-cooker-pro",
+      "badge": "Best Overall",
+      "review": "The Anova Precision Cooker Pro sets the benchmark for serious home sous vide: 1200W handles large containers without struggling, ±0.1°C precision matters for eggs and fish, and the unit operates fully manually without requiring the app. WiFi adds optional remote monitoring for overnight cooks — a practical advantage when you're asleep and a 24-hour pork shoulder is still running.",
+      "pros": ["1200W motor handles containers up to 100L without stalling", "Full manual controls — works without the app or WiFi", "±0.1°C precision reliable for eggs and temperature-sensitive proteins"],
+      "cons": ["$199 is the joint-highest price in this comparison"],
+      "grade": "A+",
+      "specs": {"Power": "1200W", "Temp accuracy": "±0.1°C", "Temp range": "0–92°C", "Container max": "100L", "Connectivity": "WiFi + Bluetooth", "Dimensions": "38cm tall, 490g"},
+      "scores": {"Temperature accuracy": 4.9, "Power": 5.0, "Ease of use": 4.5, "Value": 3.8, "Noise": 4.0}
+    },
+    {
+      "offerId": "breville-joule-turbo",
+      "badge": "Best Compact Design",
+      "review": "The Breville Joule Turbo is the smallest full-power unit in this comparison at 28cm and 281g, and its Turbo mode genuinely reduces heat-up time by up to 30% — meaningful for weeknight cooking when you want to start the bath before cutting your vegetables. The app-only operation is a real dependency: if the app loses support for your phone's OS, the unit becomes inoperable.",
+      "pros": ["Smallest and lightest full-power unit — 28cm, 281g", "Turbo mode reduces heat-up time by up to 30%", "Well-designed app with guided cook times for common proteins"],
+      "cons": ["App-only operation — no manual controls on the unit itself"],
+      "grade": "A",
+      "specs": {"Power": "1100W", "Temp accuracy": "±0.1°C", "Temp range": "25–99°C", "Container max": "30L", "Connectivity": "WiFi (required)", "Dimensions": "28cm tall, 281g"},
+      "scores": {"Temperature accuracy": 4.8, "Power": 4.7, "Ease of use": 4.0, "Value": 3.9, "Noise": 4.5}
+    },
+    {
+      "offerId": "inkbird-isv100w",
+      "badge": "Best Budget WiFi Pick",
+      "review": "The Inkbird ISV-100W delivers WiFi connectivity and manual physical controls at a price significantly below the Anova and Breville. The ±0.5°C accuracy is adequate for steak, chicken, and pork — it becomes a limitation only for eggs and fish where narrow temperature windows matter. Set it to the midpoint of your target temperature range and it performs reliably for everyday cooking.",
+      "pros": ["Manual dial and display — works without phone or WiFi", "WiFi enables optional scheduling and remote monitoring", "Budget price with adequate accuracy for most proteins"],
+      "cons": ["±0.5°C accuracy misses the narrow window for eggs and delicate fish"],
+      "grade": "B+",
+      "specs": {"Power": "1000W", "Temp accuracy": "±0.5°C", "Temp range": "25–99.9°C", "Container max": "12L", "Connectivity": "WiFi + manual controls", "Dimensions": "33cm tall, ~900g"},
+      "scores": {"Temperature accuracy": 4.0, "Power": 4.3, "Ease of use": 4.7, "Value": 4.9, "Noise": 4.2}
+    },
+    {
+      "offerId": "wancle-sous-vide",
+      "badge": "Best No-App Option",
+      "review": "The Wancle Sous Vide Cooker is the simplest unit in this comparison: turn the dial to set temperature and time, clip to any pot, walk away. No WiFi, no cloud account, no app updates that can break functionality. The 850W output is adequate for single-meal cooking in pots up to 15L. If you distrust app-dependent appliances, this is the straightforward alternative.",
+      "pros": ["No app, no WiFi, no cloud dependency — completely standalone", "Simple dial operation with LED display", "Reliable for all basic sous vide cooking without complexity"],
+      "cons": ["850W struggles with large containers — preheat time longer than 1000W+ units"],
+      "grade": "B",
+      "specs": {"Power": "850W", "Temp accuracy": "±0.5°C", "Temp range": "25–99.5°C", "Container max": "15L", "Connectivity": "None", "Dimensions": "30cm tall, ~800g"},
+      "scores": {"Temperature accuracy": 3.8, "Power": 3.5, "Ease of use": 5.0, "Value": 4.7, "Noise": 4.0}
+    },
+    {
+      "offerId": "polyscience-creative-sous-vide",
+      "badge": "Best Temperature Precision",
+      "review": "The PolyScience Creative Series is the only unit in this comparison with a professional kitchen lineage and ±0.07°C temperature stability — the precision that restaurant kitchens require for recipe reproducibility across hundreds of batches. For the home cook who regularly prepares 63°C eggs or 45°C salmon, this precision eliminates the texture variance that ±0.5°C units introduce. The price reflects professional-grade build quality.",
+      "pros": ["±0.07°C temperature stability — tightest precision in this comparison", "Professional kitchen lineage with IP-rated splash protection", "Manual controls with no app dependency"],
+      "cons": ["$329 price is hard to justify unless precision for eggs or fish is a primary requirement"],
+      "grade": "B-",
+      "specs": {"Power": "1100W", "Temp accuracy": "±0.07°C", "Temp range": "25–99°C", "Flow rate": "11.5L/min", "Connectivity": "None (manual only)", "Build": "Professional, IP-rated"},
+      "scores": {"Temperature accuracy": 5.0, "Power": 4.7, "Ease of use": 4.3, "Value": 3.0, "Noise": 3.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For overnight and large-batch cooks", "offerId": "anova-precision-cooker-pro", "reason": "1200W handles 30L containers and WiFi monitoring lets you check temperature from bed during a 24-hour pork shoulder cook."},
+    {"label": "For small kitchen cooks wanting fast heat-up", "offerId": "breville-joule-turbo", "reason": "The smallest full-power unit with Turbo mode — heat-up time reduction matters when you're starting the bath during weeknight dinner prep."},
+    {"label": "For first-time sous vide buyers on a budget", "offerId": "inkbird-isv100w", "reason": "WiFi monitoring plus manual backup controls at a budget price — ±0.5°C is accurate enough for steak, chicken, and pork shoulder."},
+    {"label": "For buyers who distrust app-dependent appliances", "offerId": "wancle-sous-vide", "reason": "Dial and LED only — nothing to update, nothing to lose connectivity, nothing to stop working when a company pushes a new OS."},
+    {"label": "For eggs, fish, and reproducible precision cooking", "offerId": "polyscience-creative-sous-vide", "reason": "±0.07°C stability means 63°C eggs come out identically every morning — the precision that ±0.5°C units cannot reliably deliver."}
+  ]
 }

@@ -86,5 +86,154 @@
     "ostrichpillow-go": "Best full-wrap option for forward-and-lateral tilted sleepers — the closed-loop design cradles head from multiple angles. Accommodates position switching without re-setup. Runs warm in the cabin, and the full wrap can feel claustrophobic for some users.",
     "tempur-travel-pillow": "Best support quality due to TEMPUR's slow-rebound conforming — adapts to your neck geometry and holds the contour. Does not compress at all, so it occupies fixed bag volume; no headrest anchor; premium price. Only makes sense if you check luggage and prioritize sleep quality above all else."
   },
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Each pillow was evaluated on neck support geometry for both lateral and forward-head sleep positions, compressed pack volume, washability, and verified long-haul performance from owner reports on 8+ hour flights.",
+  "products": [
+    {
+      "offerId": "cabeau-evolution-s3",
+      "badge": "Best Overall",
+      "review": "Memory foam with headrest anchor clips that stay put through a 13-hour flight — the most practical all-rounder for aisle and middle seats. Velour cover unzips and machine-washes at 30°C. The U-shape pushes back against a hard window-seat lean, and the 13×13×8 cm compressed size is not small.",
+      "pros": ["Headrest anchor clips prevent shifting", "Velour cover machine-washable", "Works for both upright and forward-head positions"],
+      "cons": ["Fights lateral lean for window-seat sleepers"],
+      "grade": "A+",
+      "specs": {
+        "Fill": "Memory foam",
+        "Shape": "U-shape with anchor clips",
+        "Compressed size": "13 × 13 × 8 cm",
+        "Cover": "Velour, removable, machine-washable",
+        "Headrest anchor": "Yes — magnetic clip straps",
+        "Best position": "Upright-center, aisle/middle seats",
+        "Price": "$39.99"
+      },
+      "scores": {
+        "Neck support": 4.5,
+        "Packability": 3.5,
+        "Comfort": 4.5,
+        "Value": 4.5,
+        "Material quality": 4.5
+      }
+    },
+    {
+      "offerId": "trtl-travel-pillow",
+      "badge": "Best for Window-Seat Sleepers",
+      "review": "A fleece scarf with a rigid plastic scaffold — not a U-shape — that props the neck on the lean side for committed window-seat sleepers. Rolls flat to jacket-pocket size, solving the packability problem. Only works well leaning one direction; switching sides requires re-wrapping the scarf mid-flight, which wakes you up.",
+      "pros": ["True lateral support for window-seat sleeping", "Jacket-pocket packability", "Machine-washable fleece"],
+      "cons": ["Only works leaning one direction — switching sides requires re-wrapping"],
+      "grade": "A",
+      "specs": {
+        "Fill": "Rigid plastic scaffold + fleece",
+        "Shape": "Scarf wrap (not U-shape)",
+        "Packed size": "Jacket-pocket flat roll",
+        "Cover": "Fleece, hand-wash only",
+        "Headrest anchor": "No",
+        "Best position": "Window-seat lateral lean",
+        "Price": "$54.99"
+      },
+      "scores": {
+        "Neck support": 4.8,
+        "Packability": 5.0,
+        "Comfort": 4.0,
+        "Value": 4.0,
+        "Material quality": 4.0
+      }
+    },
+    {
+      "offerId": "bcozzy-travel-pillow",
+      "badge": "Best for Middle & Aisle Seats",
+      "review": "The chin-support channel at the front of the U-shape stops the chin from dropping toward the chest — directly solving the deep-neck-flexor fatigue that builds up on middle and aisle seats. Lighter and more compressible than memory foam. The chin rest becomes awkward if you shift to a lateral lean rather than staying upright.",
+      "pros": ["Chin-support channel prevents forward chin drop", "Lighter and more packable than memory foam", "Removable machine-washable cover"],
+      "cons": ["Chin support becomes awkward in lateral lean positions"],
+      "grade": "B+",
+      "specs": {
+        "Fill": "Soft fiber (lighter than memory foam)",
+        "Shape": "U-shape with chin support channel",
+        "Cover": "Removable, machine-washable",
+        "Headrest anchor": "No",
+        "Best position": "Upright center, forward-head",
+        "Weight": "Lighter than memory foam options",
+        "Price": "$49.95"
+      },
+      "scores": {
+        "Neck support": 4.2,
+        "Packability": 4.5,
+        "Comfort": 4.3,
+        "Value": 4.3,
+        "Material quality": 3.8
+      }
+    },
+    {
+      "offerId": "ostrichpillow-go",
+      "badge": "Best Full-Wrap Option",
+      "review": "A closed-loop neck and chin wrap that cradles the head from multiple angles — ideal for forward-and-lateral tilt sleepers who shift position mid-flight. The full wrap accommodates position switching without re-setup. It retains heat noticeably in warm cabin conditions, and the full wrap can feel claustrophobic for some users.",
+      "pros": ["Closed-loop design supports multiple sleep angles", "No re-setup needed when switching positions", "Removable machine-washable cover"],
+      "cons": ["Retains heat in warm cabins; full wrap can feel claustrophobic"],
+      "grade": "B",
+      "specs": {
+        "Fill": "Micro-bead and fiber composite",
+        "Shape": "Closed-loop neck and chin wrap",
+        "Cover": "Removable, machine-washable",
+        "Headrest anchor": "No",
+        "Best position": "Forward-and-lateral tilt",
+        "Heat retention": "Higher than open designs",
+        "Price": "$69.00"
+      },
+      "scores": {
+        "Neck support": 4.0,
+        "Packability": 3.8,
+        "Comfort": 3.8,
+        "Value": 3.5,
+        "Material quality": 4.0
+      }
+    },
+    {
+      "offerId": "tempur-travel-pillow",
+      "badge": "Best Support Quality",
+      "review": "TEMPUR slow-rebound foam conforms fully to neck geometry and holds position across long sleep stretches — the best pure support quality here. Removable, machine-washable cover. Does not compress at all, which is a real constraint for carry-on-only travellers; no headrest anchor mechanism; premium price.",
+      "pros": ["TEMPUR slow-rebound perfectly conforms to neck geometry", "Machine-washable cover", "Holds position during 3–4 hour sleep stretches"],
+      "cons": ["Does not compress — occupies fixed bag volume"],
+      "grade": "B-",
+      "specs": {
+        "Fill": "TEMPUR slow-rebound foam",
+        "Shape": "U-shape (wider than average)",
+        "Packed size": "Fixed — does not compress",
+        "Cover": "Removable, machine-washable",
+        "Headrest anchor": "No",
+        "Best position": "Any — conforms to geometry",
+        "Price": "Premium tier"
+      },
+      "scores": {
+        "Neck support": 5.0,
+        "Packability": 1.5,
+        "Comfort": 5.0,
+        "Value": 3.0,
+        "Material quality": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For window-seat sleepers on overnight long-haul",
+      "offerId": "trtl-travel-pillow",
+      "reason": "The rigid scaffold provides true one-sided lateral support that no U-shape can replicate."
+    },
+    {
+      "label": "For middle and aisle seat sleepers",
+      "offerId": "bcozzy-travel-pillow",
+      "reason": "The chin support channel is the only design here that directly prevents the forward chin drop."
+    },
+    {
+      "label": "For travellers who check luggage and prioritise sleep quality",
+      "offerId": "tempur-travel-pillow",
+      "reason": "TEMPUR foam delivers the best support quality in this comparison — packability is not a constraint when you check bags."
+    },
+    {
+      "label": "For carry-on-only travellers who need an all-rounder",
+      "offerId": "cabeau-evolution-s3",
+      "reason": "Headrest anchor clips solve the shifting problem and the compressed size fits inside a 30L backpack."
+    },
+    {
+      "label": "For position-switchers who run warm",
+      "offerId": "ostrichpillow-go",
+      "reason": "The closed-loop wrap accommodates multiple angles without re-setup — best for restless sleepers who move frequently."
+    }
+  ]
 }

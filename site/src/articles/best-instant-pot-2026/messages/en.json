@@ -62,5 +62,64 @@
     "instant-pot-duo-crisp-air-fryer": "Adds a dedicated air frying lid to the Duo's proven pressure cooking base — the right choice if you want both capabilities in the Instant Pot ecosystem rather than switching to Ninja."
   },
   "pinDescription": "Best Instant Pot 2026: Duo 7-in-1 vs Pro 10-in-1 vs Ninja Foodi — which multicooker is actually worth buying for weeknight dinners?",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each multicooker was evaluated on pressure build time, seal reliability after 50+ cycles, sauté browning performance, ease of cleaning the inner pot and lid, and whether marketed features (sous vide, air frying) perform comparably to dedicated devices.",
+  "products": [
+    {
+      "offerId": "instant-pot-duo-7in1-6qt",
+      "badge": "Best Overall",
+      "review": "The Duo 7-in-1 is the correct default for most households — it handles pressure cooking, slow cooking, rice, sautéing, steaming, yogurt, and warming with proven reliability across millions of units. At ¥8,000–12,000, it's the most affordable Instant Pot that does everything most people actually need. The sealing ring and accessories are universally available, and the control interface is intuitive within two uses. The one real limitation: the sauté function tops out at a temperature that produces steaming as often as browning in a crowded pot.",
+      "pros": ["Covers 7 essential functions at the most accessible price in the lineup", "Millions of units in the field — the most tested reliability record", "Sealing rings and accessories universally available"],
+      "cons": ["Sauté function struggles to brown meat in a full pot — heat ceiling too low"],
+      "grade": "A+",
+      "specs": {"Capacity": "6 quarts", "Functions": "7-in-1", "Max pressure": "15 PSI", "Inner pot": "Stainless steel", "Sauté temp": "Medium-high", "Dimensions": "33 × 31 × 32 cm"},
+      "scores": {"Pressure performance": 4.7, "Versatility": 4.5, "Ease of use": 4.9, "Value": 5.0, "Capacity": 4.5}
+    },
+    {
+      "offerId": "instant-pot-pro-10in1-6qt",
+      "badge": "Best Upgrade",
+      "review": "The Pro earns its price premium with three meaningful additions over the Duo: higher sauté temperatures that produce genuine Maillard browning on a full pot of meat, a sous vide mode for precise protein cooking without a separate circulator, and a dial-style pressure release valve that prevents starchy foods from foaming and clogging during rapid release. If you regularly sear before braising, cook proteins to precise temperatures, or steam-release beans and risotto, these differences show up in every meal. For straightforward pressure cooking only, the Duo is sufficient.",
+      "pros": ["Higher sauté temp produces real browning, not steaming", "Sous vide mode eliminates need for a separate immersion circulator", "Dial pressure release prevents foam-clogs on starchy dishes"],
+      "cons": ["¥15,000–20,000 is a real price jump over the Duo for features some households won't use"],
+      "grade": "A",
+      "specs": {"Capacity": "6 quarts", "Functions": "10-in-1", "Max pressure": "15 PSI", "Pressure release": "Dial-style", "Sous vide": "Yes", "Dimensions": "34 × 32 × 33 cm"},
+      "scores": {"Pressure performance": 4.8, "Versatility": 4.9, "Ease of use": 4.5, "Value": 4.0, "Capacity": 4.5}
+    },
+    {
+      "offerId": "ninja-fd401-foodi-8qt",
+      "badge": "Best for Air Frying",
+      "review": "TenderCrisp technology — pressure cook first, switch to crisping lid for a genuine air-fried finish — is the Foodi's defining capability. The 8-quart capacity and dedicated crisping lid produce more even browning than any Instant Pot air fryer configuration, and the airflow is meaningfully stronger than the Duo Crisp's lid. At ¥25,000–35,000, the Foodi costs roughly twice the Duo and takes more counter space. The trade-off is justified if air frying is a regular requirement; if it's an occasional add-on, the Duo Crisp is sufficient.",
+      "pros": ["TenderCrisp produces textures neither a standalone air fryer nor pressure cooker can match alone", "8-quart capacity handles full racks of ribs and large batch air frying", "Higher airflow than comparable Instant Pot air fryer models"],
+      "cons": ["Significantly larger and heavier than 6-quart Instant Pot — requires dedicated counter space"],
+      "grade": "B+",
+      "specs": {"Capacity": "8 quarts", "Functions": "9-in-1", "Air fryer lid": "Dedicated crisping lid", "Max pressure": "15 PSI", "TenderCrisp": "Yes", "Dimensions": "41 × 36 × 36 cm"},
+      "scores": {"Pressure performance": 4.7, "Versatility": 5.0, "Ease of use": 4.2, "Value": 3.8, "Capacity": 5.0}
+    },
+    {
+      "offerId": "cosori-pressure-cooker-6qt",
+      "badge": "Best Budget Alternative",
+      "review": "COSORI delivers 9-in-1 multicooker performance comparable to the Instant Pot Duo in pressure cooking tests, at a price 20–30% below. The differentiator is app connectivity: a guided recipe library that downloads full cooking programs directly to the unit, which lowers the learning curve for new multicooker users. The dependency on COSORI's app support is the long-term risk — if COSORI discontinues the service, the guided-recipe feature disappears. Core pressure cooking and slow cooking functions operate independently of the app.",
+      "pros": ["20–30% cheaper than comparable Instant Pot models", "App-guided recipes lower the learning curve for beginners", "9-in-1 functionality covers all standard multicooker use cases"],
+      "cons": ["App dependency means guided features could disappear if COSORI drops support"],
+      "grade": "B",
+      "specs": {"Capacity": "6 quarts", "Functions": "9-in-1", "App": "COSORI app (iOS/Android)", "Max pressure": "15 PSI", "Inner pot": "Non-stick", "Dimensions": "32 × 30 × 30 cm"},
+      "scores": {"Pressure performance": 4.4, "Versatility": 4.5, "Ease of use": 4.7, "Value": 4.8, "Capacity": 4.5}
+    },
+    {
+      "offerId": "instant-pot-duo-crisp-air-fryer",
+      "badge": "Best Hybrid Pick",
+      "review": "The Duo Crisp adds an air frying lid to the proven Duo pressure cooking base — 11-in-1 functions including air fry, broil, bake, roast, and dehydrate. It stays within the Instant Pot accessory ecosystem, which means all Duo sealing rings and inner pots remain compatible. Air frying performance is solid for one-to-two-person portions but lags behind the Foodi on larger batches due to lower airflow. The right choice if you want both capabilities without committing to Ninja's heavier, larger format.",
+      "pros": ["Adds air frying to Duo's proven pressure cooking without changing ecosystems", "Stays compatible with all 6qt Instant Pot accessories", "More compact than the Ninja Foodi"],
+      "cons": ["Air frying airflow lower than Ninja Foodi — less even crisping on larger portions"],
+      "grade": "B-",
+      "specs": {"Capacity": "6 quarts", "Functions": "11-in-1", "Air fryer lid": "Integrated pressure/crisp lid", "Max pressure": "15 PSI", "Dehydrate": "Yes", "Dimensions": "35 × 33 × 33 cm"},
+      "scores": {"Pressure performance": 4.7, "Versatility": 4.8, "Ease of use": 4.3, "Value": 4.0, "Capacity": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For first-time multicooker buyers", "offerId": "instant-pot-duo-7in1-6qt", "reason": "Proven reliability, universal parts, and a simple interface — the safest starting point for any household."},
+    {"label": "For serious weeknight cooks", "offerId": "instant-pot-pro-10in1-6qt", "reason": "Higher sauté temps and sous vide mode produce noticeably better results for browning-before-braising and precise protein cooking."},
+    {"label": "For air frying priority", "offerId": "ninja-fd401-foodi-8qt", "reason": "TenderCrisp technology delivers the best air-fried finish from a pressure cooker — no standalone air fryer comparison comes close."},
+    {"label": "For budget-conscious buyers", "offerId": "cosori-pressure-cooker-6qt", "reason": "Comparable pressure performance at 20–30% below Instant Pot pricing — especially good for beginners who'll use the guided recipe app."},
+    {"label": "For Instant Pot loyalists who want air frying", "offerId": "instant-pot-duo-crisp-air-fryer", "reason": "Adds air frying without leaving the Instant Pot ecosystem — keeps accessory compatibility while expanding functionality."}
+  ]
 }

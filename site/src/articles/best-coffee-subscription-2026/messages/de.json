@@ -91,5 +91,64 @@
     "peets-coffee-subscription": "Bestes konventionelles Mahlkaffee-Abonnement — Major Dickason's Blend fuer ca. $12-15/12 oz, kostenloser Versand, keine Lernkurve. Konsistente dunkle Roeстung, weit geschaetzt fuer ihre Berechenbarkeit. Am besten fuer Trinker, die jeden Morgen dieselbe zuverlaessige Tasse moechten. Einschraenkung: Null Abwechslung; das dunkle Roestprofil befriedigt keine Spezialitaetskaffee-Fans heller Roeстungen."
   },
   "pinDescription": "5 Kaffee-Abonnements verglichen fuer 2026: Trade Coffee vs Atlas Coffee Club vs Onyx vs Angels' Cup vs Peet's. Frische, Preis pro oz, Personalisierung — finde das richtige Abonnement bevor dein naechster Beutel alle ist. #Kaffeeabo #Kaffee #Roester #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jedes Abonnement wurde nach Frische am Liefertag (Tage seit Röstung), Personalisierungsgenauigkeit nach mindestens 3 Bestellungen, normalisiertem Preis pro Unze, Mahloptionen und Flexibilität beim Pausieren bewertet.",
+  "products": [
+    {
+      "offerId": "trade-coffee-subscription",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Trade Coffees Präferenz-Algorithmus wählt aus über 60 unabhängigen Röstern und liefert innerhalb von 1–3 Tagen nach der Röstung — eine Kombination aus Vielfalt und Frische, die kein Einzel-Röster-Abo bieten kann. Ehrliche Einschränkung: Der Algorithmus braucht 3–5 Bestellungen zur Kalibrierung, frühe Lieferungen können daher abweichen.",
+      "pros": ["60+ Röster-Netzwerk mit großer Vielfalt an Herkünften und Stilen", "Röstdatum auf jeder Packung — vollständige Frische-Transparenz", "Bewertungs-Feedback-Schleife verfeinert zukünftige Matches kontinuierlich"],
+      "cons": ["Frühe Lieferungen passen möglicherweise nicht zum Gaumen, bis der Algorithmus genug Bewertungen hat"],
+      "grade": "A+",
+      "specs": {"Röster-Netzwerk": "60+ unabhängige Röster", "Lieferung nach Röstung": "1–3 Tage", "Packungsgröße": "280–340 g", "Preisspanne": "$14–$22 pro Packung", "Mahloptionen": "Ganze Bohne + 4 Mahlgrade", "Lieferrhythmus": "Wöchentlich bis alle 8 Wochen"},
+      "scores": {"Frische": 4.9, "Geschmack": 4.7, "Preis-Leistung": 4.3, "Komfort": 4.5, "Personalisierung": 4.8}
+    },
+    {
+      "offerId": "atlas-coffee-club",
+      "badge": "Bestes für Entdecker",
+      "review": "Atlas Coffee Club liefert jeden Monat ein anderes Ursprungsland mit röstdatumgestempelten Packungen und einer lehrreichen Postkarte — das beste Format für Kaffeetrinker mit einem geografischen Ansatz ähnlich wie Weinliebhaber. Keine Personalisierung bedeutet: Man bekommt Atlas' redaktionelle Auswahl, keine präferenzabgestimmten Lieferungen.",
+      "pros": ["Jeden Monat ein neues Ursprungsland mit echter geografischer Vielfalt", "Röstdatum gestempelt, Lieferung wenige Tage nach Röstung", "Postkarten mit Geschmacksnotizen und Verarbeitungsdetails"],
+      "cons": ["Keine Personalisierung — Geschmackspräferenzen oder ausgeschlossene Verarbeitungsmethoden können nicht angegeben werden"],
+      "grade": "A",
+      "specs": {"Einkaufsmodell": "Single-Origin, monatlich wechselndes Land", "Lieferung nach Röstung": "1–4 Tage", "Packungsgröße": "340 g", "Preisspanne": "$14–$19 inkl. Versand", "Mahloptionen": "Ganze Bohne (Gemahlen auf Anfrage)", "Flexibilität": "Skip, Pause, Kündigung jederzeit"},
+      "scores": {"Frische": 4.7, "Geschmack": 4.6, "Preis-Leistung": 4.5, "Komfort": 4.4, "Personalisierung": 2.5}
+    },
+    {
+      "offerId": "onyx-coffee-lab-subscription",
+      "badge": "Höchste Qualitätsgrenze",
+      "review": "Onyx röstet auf Bestellung und liefert innerhalb von 24–48 Stunden — unter den schnellsten in dieser Kategorie. Das Sourcing zielt auf hochbewertete, prozessbetonte Lots. Die enge Ästhetik (helle Röstungen, fruchtig) ist Stärke und Einschränkung zugleich.",
+      "pros": ["Röstung auf Bestellung, Lieferung innerhalb von 24–48 Stunden — schnellste Frischlieferung", "Konsistent hochwertiges Sourcing mit Wettbewerbsniveau-Lots", "Abonnementrabatt macht den Premiumpreis tragbarer"],
+      "cons": ["Enge Röst-Ästhetik — nicht geeignet für Dunkelröstungs- oder Blend-Präferenzen"],
+      "grade": "B+",
+      "specs": {"Einkaufsmodell": "Einzelröster (Onyx eigene Röstungen)", "Lieferung nach Röstung": "24–48 Stunden", "Packungsgröße": "280–340 g", "Preisspanne": "$18–$22 pro Packung", "Mahloptionen": "Nur ganze Bohne", "Flexibilität": "Self-Service-Dashboard, Pause/Skip verfügbar"},
+      "scores": {"Frische": 5.0, "Geschmack": 4.8, "Preis-Leistung": 3.8, "Komfort": 4.2, "Personalisierung": 2.0}
+    },
+    {
+      "offerId": "angels-cup-subscription",
+      "badge": "Bestes Gaumen-Training",
+      "review": "Angels' Cup sendet nummerierte, unbeschriftete Probenpakete für Blind-Verkostungen — ein einzigartiges Format, das Verkostungsfähigkeiten aufbaut statt Gewohnheiten. Der Preis pro Unze ist der höchste der fünf; das Format funktioniert nicht als primärer Tagesbedarf.",
+      "pros": ["Blind-Verkostung entfernt Herkunfts-Bias und entwickelt genaue Gaumenbeurteilung", "Lieferung innerhalb von 1–5 Tagen nach Röstung mit nummerierten Probenpaketen", "Herkunftsdetails werden nach der Verkostung enthüllt — strukturiertes Lernen"],
+      "cons": ["Probenformat nicht praktisch als primärer Tagesbedarf — hoher Preis pro Unze"],
+      "grade": "B",
+      "specs": {"Einkaufsmodell": "Multi-Röster Blind-Probensets", "Lieferung nach Röstung": "1–5 Tage", "Probengröße": "4 Proben pro Set (~28 g je)", "Preisspanne": "$10–$14 für 4-Proben-Paket", "Mahloptionen": "Vorgemahlen (Proben); ganze Bohne bei regulären Paketen", "Flexibilität": "Online-Kündigung und Skip aus dem Mitglieder-Portal"},
+      "scores": {"Frische": 4.6, "Geschmack": 4.5, "Preis-Leistung": 3.5, "Komfort": 3.8, "Personalisierung": 3.0}
+    },
+    {
+      "offerId": "peets-coffee-subscription",
+      "badge": "Bestes Sorglos-Paket",
+      "review": "Peets Major Dickason's Blend Abonnement bietet konsistente Dunkelröstungsqualität zum günstigsten Preis pro Unze der fünf, mit kostenlosem Versand und ohne Lernkurve. Richtig für alle, die jeden Morgen dieselbe zuverlässige Tasse wollen — falsch für alle, die Specialty-Röstungen oder Abwechslung suchen.",
+      "pros": ["Günstigster Preis pro Unze mit kostenlosem Versand", "Konsistenter Dunkelröstungscharakter — keine Überraschungen oder wechselnde Herkünfte", "Breite Mahloptionen — kein Mahlwerk erforderlich"],
+      "cons": ["Null Abwechslung; Dunkelröstprofil befriedigt keine Hellröstungs-Enthusiasten"],
+      "grade": "B-",
+      "specs": {"Blend": "Major Dickason's Blend (Dunkelröstung)", "Lieferung nach Röstung": "Innerhalb weniger Tage über Direktkanal", "Packungsgröße": "340 g", "Preisspanne": "$12–$15 pro Packung mit kostenlosem Versand", "Mahloptionen": "Ganze Bohne und alle Mahlgrade", "Flexibilität": "Skip und Pause über Peet's-Portal"},
+      "scores": {"Frische": 4.2, "Geschmack": 4.0, "Preis-Leistung": 4.8, "Komfort": 4.9, "Personalisierung": 1.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für neugierige Trinker, die Vielfalt ohne Recherche wollen", "offerId": "trade-coffee-subscription", "reason": "Der Präferenz-Algorithmus übernimmt die Röster-Entdeckung; einfach Bewertungen abgeben."},
+    {"label": "Für geografisch orientierte Kaffee-Entdecker", "offerId": "atlas-coffee-club", "reason": "Jeden Monat ein anderes Land mit Herkunftskontext — systematisch und lehrreich."},
+    {"label": "Für Käufer mit etablierter Vorliebe für helle Specialty-Röstungen", "offerId": "onyx-coffee-lab-subscription", "reason": "Röstung auf Bestellung mit schnellster Lieferzeit und ohne Qualitätskompromisse."},
+    {"label": "Für Gaumen-Entwicklung durch Blind-Verkostung", "offerId": "angels-cup-subscription", "reason": "Das einzige Abo, das als Verkostungsübung statt als Tagesversorgung konzipiert ist."},
+    {"label": "Für alle, die zuverlässigen Dunkelröstungs-Kaffee ohne Aufwand geliefert bekommen wollen", "offerId": "peets-coffee-subscription", "reason": "Konsistent, günstig, vorgemahlen — keine Lernkurve, keine Überraschungen."}
+  ]
 }

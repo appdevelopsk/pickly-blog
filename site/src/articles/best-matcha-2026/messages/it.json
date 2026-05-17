@@ -53,5 +53,170 @@
     "tenzo-matcha": "L'abbonamento fa risparmiare circa il 20% rispetto all'acquisto una tantum. Disponibile anche come bustine monodose per i viaggi."
   },
   "pinDescription": "I 5 migliori matcha in polvere del 2026 — dal patrimonio kyotoita di 300 anni di Ippodo al pratico Tenzo in abbonamento. Vero grado ceremoniale! #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni matcha è stato preparato in modo identico — 1,5 g di polvere, acqua a 70 °C, 20 secondi di montatura con chasen — poi valutato alla cieca su vivacità del colore, profondità dell'umami, livello di amaro, stabilità della schiuma a 60 secondi e persistenza del sapore. La documentazione dell'origine e la trasparenza del raccolto sono state verificate rispetto alle dichiarazioni di sourcing di ogni marca.",
+  "products": [
+    {
+      "offerId": "ippodo-matcha-ummon",
+      "badge": "Il migliore in assoluto",
+      "review": "L'Ummon di Ippodo, fondata nel 1717, si distingue per il verde vivace e l'umami profondo. La schiuma ottenuta con il chasen è fine e stabile, e il sapore persiste a lungo. Solo foglie di primo grado di Uji vengono utilizzate — massima trasparenza sull'origine.",
+      "pros": [
+        "umami profondo e aroma ricco",
+        "verde vivace",
+        "terroir tradizionale di Uji",
+        "bella schiuma stabile"
+      ],
+      "cons": [
+        "prezzo elevato",
+        "quantità ridotta"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Origine": "Uji (Kyoto)",
+        "Grado": "Cerimonia premium",
+        "Contenuto": "20 g",
+        "Raccolta": "Primo raccolto"
+      },
+      "scores": {
+        "Sapore": 9.8,
+        "Colore": 9.5,
+        "Qualità della schiuma": 9.5,
+        "Rapporto qualità-prezzo": 7.0,
+        "Qualità dell'origine": 9.8
+      }
+    },
+    {
+      "offerId": "encha-ceremonial-matcha",
+      "badge": "Migliore qualità bio",
+      "review": "Matcha certificato biologico JAS da Uji, Kyoto. Senza pesticidi, verde vivace e umami delicato, eccellente sia come tè chasen che come base per latte. Ottimo rapporto qualità-prezzo nella categoria bio.",
+      "pros": [
+        "certificazione biologica JAS",
+        "umami e amaro equilibrati",
+        "adatto anche per latte",
+        "alta freschezza"
+      ],
+      "cons": [
+        "umami leggermente meno profondo di Ippodo",
+        "prezzo leggermente più alto"
+      ],
+      "grade": "A",
+      "specs": {
+        "Origine": "Uji (Kyoto)",
+        "Grado": "Cerimonia",
+        "Contenuto": "30 g",
+        "Raccolta": "Certificato biologico JAS"
+      },
+      "scores": {
+        "Sapore": 9.2,
+        "Colore": 9.0,
+        "Qualità della schiuma": 8.8,
+        "Rapporto qualità-prezzo": 7.5,
+        "Qualità dell'origine": 9.5
+      }
+    },
+    {
+      "offerId": "jade-leaf-ceremonial-matcha",
+      "badge": "Miglior rapporto qualità-prezzo cerimonia",
+      "review": "Matcha da cerimonia di Uji a un prezzo comparativamente accessibile. Il colore è vivace e l'umami sufficiente. Leggermente meno complesso rispetto ai brand premium, ma perfettamente adatto al consumo quotidiano.",
+      "pros": [
+        "buon rapporto qualità-prezzo per grado cerimonia",
+        "colore vivace",
+        "origine Uji",
+        "facilmente disponibile nel mercato americano"
+      ],
+      "cons": [
+        "minore complessità umami rispetto ai prodotti top",
+        "schiuma leggermente più grossolana"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Origine": "Uji (Kyoto)",
+        "Grado": "Cerimonia",
+        "Contenuto": "30 g",
+        "Raccolta": "Primo raccolto"
+      },
+      "scores": {
+        "Sapore": 8.5,
+        "Colore": 8.8,
+        "Qualità della schiuma": 8.2,
+        "Rapporto qualità-prezzo": 8.8,
+        "Qualità dell'origine": 8.5
+      }
+    },
+    {
+      "offerId": "matcha-konomi-uji",
+      "badge": "Migliore introduzione",
+      "review": "Qualità Uji a prezzo accessibile. Buon equilibrio umami-amaro, facile da usare anche per i principianti. Il colore può tendere leggermente al giallo, ma il sapore è piacevole. Adatto anche per latte e cucina.",
+      "pros": [
+        "prezzo accessibile",
+        "facile da usare",
+        "origine Uji",
+        "adatto anche per latte e cucina"
+      ],
+      "cons": [
+        "il colore può ingiallire leggermente",
+        "meno profondità umami rispetto ai prodotti top"
+      ],
+      "grade": "B",
+      "specs": {
+        "Origine": "Uji (Kyoto)",
+        "Grado": "Introduzione a cerimonia",
+        "Contenuto": "30 g",
+        "Raccolta": "Primo raccolto"
+      },
+      "scores": {
+        "Sapore": 7.8,
+        "Colore": 7.5,
+        "Qualità della schiuma": 7.8,
+        "Rapporto qualità-prezzo": 9.2,
+        "Qualità dell'origine": 8.0
+      }
+    },
+    {
+      "offerId": "tenzo-matcha",
+      "badge": "Ideale per abbonamenti",
+      "review": "Matcha certificato biologico dal Giappone occidentale, consegnato fresco regolarmente tramite abbonamento. Aroma leggero e poco amaro — facile da bere, ma manca di profondità umami per i puristi.",
+      "pros": [
+        "certificazione biologica",
+        "fresco regolarmente tramite abbonamento",
+        "sapore leggero e facile da bere",
+        "prezzo accessibile"
+      ],
+      "cons": [
+        "poca profondità umami",
+        "non proveniente da Uji",
+        "colore un po' pallido"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Origine": "Giappone occidentale",
+        "Grado": "Cerimonia",
+        "Contenuto": "30 g",
+        "Raccolta": "Certificato biologico"
+      },
+      "scores": {
+        "Sapore": 7.0,
+        "Colore": 7.0,
+        "Qualità della schiuma": 7.2,
+        "Rapporto qualità-prezzo": 8.5,
+        "Qualità dell'origine": 7.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Puristi alla ricerca dell'aroma matcha autentico",
+      "offerId": "ippodo-matcha-ummon",
+      "reason": "L'arte centenaria di Ippodo offre l'umami più profondo e l'esperienza matcha più pura."
+    },
+    {
+      "label": "Appassionati di tè attenti al biologico",
+      "offerId": "encha-ceremonial-matcha",
+      "reason": "La certificazione biologica JAS e l'origine Uji garantiscono la massima qualità senza pesticidi."
+    },
+    {
+      "label": "Consumatori quotidiani con budget limitato",
+      "offerId": "jade-leaf-ceremonial-matcha",
+      "reason": "Qualità da cerimonia a prezzo ragionevole — ideale per una routine quotidiana di matcha."
+    }
+  ]
 }

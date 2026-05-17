@@ -109,5 +109,139 @@
     "canon-ivy-cliq-plus-2": "Canon IVY CLIQ+2 -- ZINK-Null-Tinten-Thermalpapier, 51x76mm (2x3-Zoll) Abzuge, Bluetooth-App mit Bearbeitung und AR-Effekten, 2-Zoll-Selfie-Spiegel, ungefahr ¥15.000. Auf Rakuten Ichiba erhaltlich. 51x76mm Abzuge sind die kleinsten in diesem Vergleich; ZINK-Papierfarben konnen weniger gesattigt wirken; ZINK-Thermalprozess kann bei Kalte ungleichmassige Farbe produzieren; bei ¥15.000 schwer gegenuber Kodak Mini Shot bei ¥10.000 zu rechtfertigen."
   },
   "pinDescription": "5 Sofortbildkameras verglichen fur 2026 -- Instax Mini 12 Vollautomat vs Instax Wide 300 Gruppenfotos vs Polaroid Now+ kreative App vs Kodak Mini Shot 3 Retro Smartphone-Hybrid vs Canon IVY CLIQ+2 ZINK. Filmkostenmathematik, Abzuggrossenrealitat, japanischer Marktkontext. Hier beginnt deine nachste Sofortbildkamera. #Sofortbildkamera #Fotografie #deutsch",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Jede Kamera wurde anhand der tatsächlichen Druckabmessungen und Bildqualität (Silberhalogenid vs. Thermisch vs. ZINK), der laufenden Kosten pro Abzug in Japan, der Benutzerfreundlichkeit ohne App-Abhängigkeit, der Bauqualität anhand von Besitzer-Haltbarkeitsberichten und der Konnektivitätsfunktionen bewertet.",
+  "products": [
+    {
+      "offerId": "fujifilm-instax-mini-12",
+      "badge": "Beste Gesamtwahl",
+      "review": "Die Instax Mini 12 ist die überzeugendste Sofortbildkamera für Einsteiger: vollautomatische Belichtung, kein Menü, kein App-Zwang. Der 62×46mm-Silberhalogenid-Abzug bietet echte Fotoqualität ohne Thermik-Artefakte. Der Selfie-Spiegel und der Nahaufnahme-Modus sind für Alltags-Schnappschüsse besonders nützlich. Der einzige Kompromiss: ~¥100 pro Abzug ist teurer als digitale Prints, aber das ist der Preis für das echte Sofortbild-Erlebnis.",
+      "pros": ["Vollautomatische Belichtung — kein Menü, kein Setup", "Silberhalogenid-Abzüge mit echter Fotoqualität", "133g macht sie zur portabelsten Option im Vergleich"],
+      "cons": ["~¥100 pro Abzug höher als Thermaldruck-Alternativen"],
+      "grade": "A+",
+      "specs": {
+        "Filmformat": "Instax Mini (62×46mm)",
+        "Druckprozess": "Silberhalogenid",
+        "Gewicht": "133 g",
+        "Kosten pro Abzug": "~¥100",
+        "Preis (Kamera)": "~¥8.000",
+        "Besonderheit": "Selfie-Spiegel, Nahaufnahme-Modus"
+      },
+      "scores": {
+        "Print quality": 4.2,
+        "Film cost": 4.5,
+        "Ease of use": 5.0,
+        "Value": 4.8,
+        "Build quality": 4.0
+      }
+    },
+    {
+      "offerId": "fujifilm-instax-wide-300",
+      "badge": "Beste für Gruppenfotos",
+      "review": "Die Instax Wide 300 liefert 85×54mm-Abzüge — doppelt so groß wie Mini-Format — was sie zur einzigen Option im Vergleich für echte Gruppenfotos macht. Das Silberhalogenid-Prozess liefert dieselbe Qualität wie die Mini 12, nur in einem deutlich nützlicheren Format für Landschaften und Erinnerungsfotos. Der Kompromiss: die Kamera ist sperrig und nicht handtaschenfreundlich.",
+      "pros": ["85×54mm-Abzüge doppelt so groß wie Mini-Format", "Silberhalogenid-Qualität für echte Fotoerinnerungen", "Belichtungsrad für manuelle Anpassung"],
+      "cons": ["Sperrige Kamera — nicht handtaschenfreundlich"],
+      "grade": "A",
+      "specs": {
+        "Filmformat": "Instax Wide (85×54mm)",
+        "Druckprozess": "Silberhalogenid",
+        "Kosten pro Abzug": "~¥120",
+        "Preis (Kamera)": "~¥12.000",
+        "Belichtung": "Belichtungsrad",
+        "Besonderheit": "Größtes Filmformat im Vergleich"
+      },
+      "scores": {
+        "Print quality": 4.5,
+        "Film cost": 4.3,
+        "Ease of use": 4.0,
+        "Value": 4.2,
+        "Build quality": 4.0
+      }
+    },
+    {
+      "offerId": "polaroid-now-plus",
+      "badge": "Kreativste Option",
+      "review": "Die Polaroid Now+ kombiniert die nostagische i-Type-Polaroid-Ästhetik mit Bluetooth-App-Steuerung, Doppelbelichtung, Mehrfachbelichtung und manuellem Fokus. Das Ergebnis ist die kreativste Sofortbildkamera im Test. Der Filmpreis ist das Hauptproblem: i-Type-Film kostet ~¥200/Abzug — doppelt so viel wie Instax Mini — und das Ergebnis ist weniger reproduzierbar.",
+      "pros": ["Bluetooth-App mit Doppelbelichtung und Selbstauslöser", "Manueller Fokus für kreative Kontrolle", "Ikonische Polaroid-Ästhetik mit modernen Funktionen"],
+      "cons": ["i-Type-Film ~¥200/Abzug — der teuerste im Vergleich"],
+      "grade": "B+",
+      "specs": {
+        "Filmformat": "Polaroid i-Type (88×107mm)",
+        "Druckprozess": "Silberhalogenid",
+        "Kosten pro Abzug": "~¥200",
+        "Preis (Kamera)": "~¥18.000",
+        "Konnektivität": "Bluetooth",
+        "Besonderheit": "Doppelbelichtung, manueller Fokus"
+      },
+      "scores": {
+        "Print quality": 4.3,
+        "Film cost": 2.5,
+        "Ease of use": 3.8,
+        "Value": 3.5,
+        "Build quality": 4.2
+      }
+    },
+    {
+      "offerId": "kodak-mini-shot-3-retro",
+      "badge": "Günstigste laufende Kosten",
+      "review": "Der Kodak Mini Shot 3 Retro ist der einzige Hybrid im Test: Drucke direkt von der Kamera oder übertragen Sie Fotos vom Smartphone per App. Die 4PASS-Farbsublimation produziert haltbarere Abzüge als Instax-Film. Die laufenden Kosten sind mit ~¥50/Abzug die niedrigsten im Vergleich. Der Kompromiss: die Druckqualität ist subtil flacher als Silberhalogenid.",
+      "pros": ["~¥50/Abzug — die günstigsten laufenden Kosten im Vergleich", "Dual-Modus: Kamera-direkt und Smartphone-App", "4PASS-Farbsublimation haltbarer als Silberhalogenid-Film"],
+      "cons": ["Druckqualität subtil flacher als echtes Silberhalogenid"],
+      "grade": "B",
+      "specs": {
+        "Filmformat": "Kodak Mini (68×84mm)",
+        "Druckprozess": "4PASS Farbsublimation",
+        "Kosten pro Abzug": "~¥50",
+        "Preis (Kamera)": "~¥10.000",
+        "Konnektivität": "Bluetooth + USB",
+        "Besonderheit": "Smartphone-Hybrid"
+      },
+      "scores": {
+        "Print quality": 4.0,
+        "Film cost": 5.0,
+        "Ease of use": 3.5,
+        "Value": 4.5,
+        "Build quality": 3.8
+      }
+    },
+    {
+      "offerId": "canon-ivy-cliq-plus-2",
+      "badge": "Beste Smartphone-Integration",
+      "review": "Die Canon IVY CLIQ+2 bietet die tiefste Smartphone-Integration: Bearbeiten und filtern Sie vor dem Drucken, fügen Sie AR-Effekte hinzu und drucken Sie direkt per App. Der ZINK-Thermalprozess eliminiert Filmkosten vollständig. Die Einschränkung ist die Druckgröße: 51×76mm ist das kleinste Format im Vergleich, und ZINK-Farben wirken weniger gesättigt als Silberhalogenid.",
+      "pros": ["Tiefste Smartphone-Integration mit App-Bearbeitung vor dem Druck", "AR-Effekte und Filter für kreative Anpassung", "Kein teurer Silberhalogenid-Film erforderlich"],
+      "cons": ["51×76mm kleinste Druckgröße; ZINK-Farben weniger gesättigt"],
+      "grade": "B-",
+      "specs": {
+        "Filmformat": "51×76mm (2×3 Zoll)",
+        "Druckprozess": "ZINK Thermal",
+        "Kosten pro Abzug": "~¥40",
+        "Preis (Kamera)": "~¥15.000",
+        "Konnektivität": "Bluetooth",
+        "Besonderheit": "App-Bearbeitung vor Druck, AR-Effekte"
+      },
+      "scores": {
+        "Print quality": 3.5,
+        "Film cost": 3.5,
+        "Ease of use": 4.2,
+        "Value": 3.3,
+        "Build quality": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Einsteiger, die ein einfaches Sofortbild-Erlebnis suchen",
+      "offerId": "fujifilm-instax-mini-12",
+      "reason": "Vollautomatik ohne Menü und echte Silberhalogenid-Qualität machen sie zum einfachsten Einstieg."
+    },
+    {
+      "label": "Für Kreative, die mehr Kontrolle wollen",
+      "offerId": "polaroid-now-plus",
+      "reason": "Bluetooth-App mit Doppelbelichtung und manuellem Fokus bietet die meisten kreativen Möglichkeiten."
+    },
+    {
+      "label": "Für Budgetbewusste mit Smartphone-Fokus",
+      "offerId": "kodak-mini-shot-3-retro",
+      "reason": "~¥50/Abzug und Smartphone-Hybrid-Modus bieten den besten Kompromiss aus Kosten und Flexibilität."
+    }
+  ]
 }

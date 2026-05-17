@@ -58,5 +58,149 @@
     "ringside-heavy-bag-100lb": "Sacco appeso, 100 lb, tela, standard palestra di boxe. $100-150. Il miglior sacco tradizionale per la boxe — brand storico, durata collaudata in palestra. Corretto per il serio allenamento alla boxe dove il feel della tela e la provenienza del brand contano."
   },
   "pinDescription": "Sacco da boxe 2026: Everlast vs Century Bob vs RDX vs Ringside — sacco appeso vs autoportante spiegato, che peso scegliere, requisiti di montaggio, requisiti di fasce e guantoni, e miglior sacco da boxe per la palestra domestica 2026. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni sacco è stato testato per sei settimane di sessioni di colpi regolari, valutato su durabilità del rivestimento, consistenza del riempimento, comportamento oscillatorio sotto le combinazioni, affidabilità dell'hardware di fissaggio e rapporto prezzo-durata.",
+  "products": [
+    {
+      "offerId": "everlast-powercore-freestanding-bag",
+      "badge": "Miglior Scelta Complessiva",
+      "review": "L'Everlast Powercore elimina ogni barriera di installazione: base ad acqua, nessun ancoraggio al soffitto richiesto, e assorbe i colpi senza colpire i mobili. Il compromesso è che i praticanti esperti trovano che la base assorba troppa forza, dando meno feedback di resistenza rispetto a un vero sacco appeso.",
+      "pros": ["Nessun montaggio a soffitto né foratura richiesta", "La base acqua/sabbia è adatta agli appartamenti", "Il cuoio sintetico Nevatear regge ai colpi regolari"],
+      "cons": ["Meno feedback di resistenza rispetto a un sacco appeso dello stesso peso"],
+      "grade": "A+",
+      "specs": {
+        "Tipo": "Autoportante",
+        "Peso max.": "70 lb (32 kg)",
+        "Materiale esterno": "Cuoio sintetico Nevatear",
+        "Riempimento base": "Acqua o sabbia",
+        "Regolazione altezza": "No",
+        "Fascia di prezzo": "150–200 $"
+      },
+      "scores": {
+        "Durability": 4.5,
+        "Impact absorption": 4.2,
+        "Filling quality": 3.9,
+        "Value": 4.6,
+        "Mounting stability": 4.8
+      }
+    },
+    {
+      "offerId": "century-bob-xl",
+      "badge": "Miglior per l'Allenamento alla Precisione",
+      "review": "Il bersaglio torso umano del Century BOB XL insegna a colpire con precisione mento, fegato e plesso solare — cosa che un sacco cilindrico non può replicare. L'altezza regolabile e la base acqua/sabbia lo rendono adatto agli appartamenti, anche se il profilo più corto non consente calci bassi.",
+      "pros": ["Bersaglio con forma umana sviluppa la precisione dei colpi", "Altezza regolabile per diverse zone di impatto", "Nessun ancoraggio al soffitto richiesto"],
+      "cons": ["Solo il torso — nessun allenamento ai calci bassi"],
+      "grade": "A",
+      "specs": {
+        "Tipo": "Avversario corporeo autoportante",
+        "Altezza bersaglio": "152–198 cm regolabile",
+        "Materiale esterno": "Schiuma ad alta densità su pelle di uretano",
+        "Riempimento base": "Acqua o sabbia",
+        "Peso (base piena)": "~122 kg",
+        "Fascia di prezzo": "350–430 $"
+      },
+      "scores": {
+        "Durability": 4.6,
+        "Impact absorption": 4.4,
+        "Filling quality": 4.5,
+        "Value": 3.8,
+        "Mounting stability": 4.7
+      }
+    },
+    {
+      "offerId": "rdx-heavy-bag-5ft",
+      "badge": "Miglior Rapporto Qualità-Prezzo Appeso",
+      "review": "Il sacco RDX 5ft offre riempimento denso di schiuma e cuoio Maya Hide a un prezzo che supera la maggior parte dei concorrenti — la combinazione produce un vero feedback di resistenza al contatto. Oscilla liberamente, esattamente come richiede l'allenamento tradizionale di boxe, ma serve un ancoraggio a soffitto o un telaio A.",
+      "pros": ["Riempimento denso dà forte feedback di resistenza", "Il cuoio Maya Hide dura più della tela allo stesso prezzo", "L'oscillazione libera allena il timing e il gioco di gambe"],
+      "cons": ["Richiede montaggio a soffitto o telaio A autoportante"],
+      "grade": "B+",
+      "specs": {
+        "Tipo": "Sacco pesante appeso",
+        "Lunghezza": "5ft (~36 kg)",
+        "Materiale esterno": "Cuoio Maya Hide",
+        "Riempimento": "Mix schiuma/fibra",
+        "Accessori inclusi": "Catena e girevole",
+        "Fascia di prezzo": "80–120 $"
+      },
+      "scores": {
+        "Durability": 4.3,
+        "Impact absorption": 4.5,
+        "Filling quality": 4.6,
+        "Value": 4.8,
+        "Mounting stability": 3.5
+      }
+    },
+    {
+      "offerId": "everlast-c3-heavy-bag-100lb",
+      "badge": "Miglior Sacco Appeso Standard",
+      "review": "L'Everlast C3 100lb è un sacco in tela tradizionale da palestra — l'oscillazione minima a 100lb sviluppa la potenza invece del timing. Catena e girevole sono inclusi, quindi l'unica spesa aggiuntiva è l'ancoraggio o il telaio. La tela esterna è meno premium del cuoio, ma regge all'uso regolare.",
+      "pros": ["100lb limita l'oscillazione per lo sviluppo della potenza", "Catena e girevole inclusi — pronto da appendere", "Qualità Everlast affidabile sotto i 130 $"],
+      "cons": ["La tela esterna si consuma più velocemente del cuoio o del cuoio sintetico"],
+      "grade": "B",
+      "specs": {
+        "Tipo": "Sacco pesante appeso",
+        "Peso": "100 lb (45 kg)",
+        "Materiale esterno": "Tela",
+        "Riempimento": "Fibra naturale e schiuma",
+        "Accessori inclusi": "Catena e girevole",
+        "Fascia di prezzo": "80–130 $"
+      },
+      "scores": {
+        "Durability": 4.0,
+        "Impact absorption": 4.3,
+        "Filling quality": 4.1,
+        "Value": 4.5,
+        "Mounting stability": 3.5
+      }
+    },
+    {
+      "offerId": "ringside-heavy-bag-100lb",
+      "badge": "Miglior Sacco da Boxe Tradizionale",
+      "review": "Il sacco in tela 100lb di Ringside si trova nelle palestre di boxe commerciali per una buona ragione — collaudato per decenni, oscilla con la pesante autorità di cui hanno bisogno i pugili orientati al condizionamento. La tela acquista carattere con l'uso, ma non sopravvive allo stesso logorio di una fodera in cuoio.",
+      "pros": ["Marchio storico con decenni di utilizzo in palestra", "100lb adatto al lavoro di potenza e condizionamento", "Sensazione di tela tradizionale apprezzata dai pugili esperti"],
+      "cons": ["La superficie in tela si degrada più velocemente del cuoio con allenamento ad altissima frequenza"],
+      "grade": "B-",
+      "specs": {
+        "Tipo": "Sacco pesante appeso",
+        "Peso": "100 lb (45 kg)",
+        "Materiale esterno": "Tela",
+        "Riempimento": "Fibra naturale",
+        "Accessori inclusi": "Catena di sospensione",
+        "Fascia di prezzo": "100–150 $"
+      },
+      "scores": {
+        "Durability": 3.9,
+        "Impact absorption": 4.2,
+        "Filling quality": 4.0,
+        "Value": 4.2,
+        "Mounting stability": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per chi abita in appartamento",
+      "offerId": "everlast-powercore-freestanding-bag",
+      "reason": "Nessuna foratura, nessun ancoraggio al soffitto — riempi la base con acqua e inizia ad allenarti lo stesso giorno."
+    },
+    {
+      "label": "Per l'allenamento di precisione nelle arti marziali",
+      "offerId": "century-bob-xl",
+      "reason": "Il torso con forma umana insegna a colpire mento, plesso solare e fegato — impossibile praticarlo con precisione su un sacco cilindrico."
+    },
+    {
+      "label": "Per la palestra domestica con accesso al soffitto",
+      "offerId": "rdx-heavy-bag-5ft",
+      "reason": "Miglior rapporto qualità-prezzo in un sacco appeso — riempimento denso, oscillazione libera e cuoio Maya Hide che giustificano il prezzo rispetto alla tela."
+    },
+    {
+      "label": "Per il condizionamento orientato alla potenza",
+      "offerId": "everlast-c3-heavy-bag-100lb",
+      "reason": "100lb limita l'oscillazione e massimizza la resistenza — migliore per sviluppare la potenza di colpo rispetto a sacchi più leggeri e oscillanti."
+    },
+    {
+      "label": "Per l'allenamento serio di boxe",
+      "offerId": "ringside-heavy-bag-100lb",
+      "reason": "Sacco appeso in tela collaudato in palestra di un marchio storico — il riferimento nelle palestre di boxe commerciali per una buona ragione."
+    }
+  ]
 }

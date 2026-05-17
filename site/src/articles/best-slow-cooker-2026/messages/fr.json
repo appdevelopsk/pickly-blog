@@ -93,5 +93,64 @@
     "twinbird-ep-4694": "Mijoteuse japonaise compacte pour plats braises et oden -- casserole en ceramique, consommation 450W, support domestique complet. Pas de minuterie programmable ; capacite plus petite limitee a la cuisson pour 1-3 personnes."
   },
   "pinDescription": "Cinq mijoteuses comparees en 2026 -- Crock-Pot 6-Quart, Instant Pot Duo 7-in-1, Cuisinart CSC-800, Panasonic SR-MP300 et Twinbird EP-4694. Laquelle gere ragouts de nuit, oden et yaourt fermente sans surveillance ? #Mijoteuse #CuissonLente #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque mijoteuse a été évaluée sur la consistance réelle de la distribution de chaleur dans la cuve, la fiabilité du minuteur, la précision de la capacité indiquée, la facilité de nettoyage de la cuve et les rapports de propriétaires à long terme sur l'étanchéité du couvercle et la longévité de l'élément chauffant.",
+  "products": [
+    {
+      "offerId": "crock-pot-sccpvl610-s",
+      "badge": "Meilleur choix global",
+      "review": "Le Crock-Pot SCCPVL610-S n'a pas vraiment changé depuis quarante ans parce que la conception centrale fonctionne : cuve en céramique de 6 pintes, distribution uniforme de la chaleur et cadran trois positions impossible à utiliser incorrectement. L'absence de minuteur signifie que les aliments cuisent jusqu'à ce que l'on passe manuellement sur Warm — une contrainte réelle si votre emploi du temps est imprévisible.",
+      "pros": ["Cuve en céramique de 6 pintes pour poulets entiers et grands rôtis", "Cadran trois positions infaillible", "Cuve et couvercle compatibles lave-vaisselle"],
+      "cons": ["Pas de minuteur programmable — pas de passage automatique sur Warm en fin de cuisson"],
+      "grade": "A+",
+      "specs": {"Capacité": "6 pintes (5,7L)", "Puissance": "200W (Bas) / 300W (Haut)", "Minuteur": "Aucun", "Cuve": "Céramique", "Couvercle": "Verre, sans verrouillage", "Dimensions": "~35×25×28cm"},
+      "scores": {"Distribution de chaleur": 4.7, "Capacité": 4.9, "Facilité d'utilisation": 5.0, "Rapport qualité-prix": 4.9, "Programmabilité": 1.0}
+    },
+    {
+      "offerId": "instant-pot-duo-7in1",
+      "badge": "Meilleure polyvalence",
+      "review": "L'Instant Pot Duo 7-in-1 mérite sa place en combinant un autocuiseur qui réduit un braisage de 6 heures à 35 minutes avec une mijoteuse programmable pour les cuissons toute la journée. Le point important connu : son réglage Bas en mode mijoteuse fonctionne plus chaud qu'un Crock-Pot traditionnel en Bas — les recettes existantes nécessitent un ajustement.",
+      "pros": ["Mode autocuiseur réduit les longues cuissons à moins de 45 minutes", "Mijoteuse avec minuteur programmable et maintien au chaud automatique", "Couvercle verrouillant évite les déversements lors du transport"],
+      "cons": ["La mijoteuse en Bas fonctionne plus chaud que les appareils traditionnels — ajustement de recettes requis"],
+      "grade": "A",
+      "specs": {"Capacité": "6 pintes (5,7L)", "Puissance": "1000W", "Minuteur": "Oui (jusqu'à 24h + démarrage différé)", "Cuve": "Acier inoxydable", "Couvercle": "Couvercle à pression verrouillant", "Modes": "7 (pression, mijoteuse, sauté, vapeur, riz, chaud, yaourt)"},
+      "scores": {"Distribution de chaleur": 4.2, "Capacité": 4.8, "Facilité d'utilisation": 3.5, "Rapport qualité-prix": 4.5, "Programmabilité": 4.8}
+    },
+    {
+      "offerId": "cuisinart-csc-800",
+      "badge": "Meilleure pour petits ménages",
+      "review": "La capacité de 3,5 litres du Cuisinart CSC-800 est calibrée pour les appartements de Tokyo et les ménages de 1-2 personnes — s'inscrit sur un plan de travail compact à côté d'un cuiseur à riz et produit des portions sans restes pendant des jours. Le minuteur de 24 heures avec maintien au chaud automatique justifie le prix par rapport aux petites mijoteuses manuelles.",
+      "pros": ["Taille compacte de 3,5L idéale pour les ménages de 1-2 personnes", "Minuteur de 24 heures avec maintien au chaud automatique", "Design attrayant en inox et verre"],
+      "cons": ["Disponible uniquement en import au Japon — service garantie via importateur, délai pièces 2-4 semaines"],
+      "grade": "B+",
+      "specs": {"Capacité": "3,5 litres", "Puissance": "200W", "Minuteur": "Oui (jusqu'à 24h)", "Cuve": "Bol en céramique", "Couvercle": "Verre", "Marché": "Import (pas de service national japonais)"},
+      "scores": {"Distribution de chaleur": 4.3, "Capacité": 3.5, "Facilité d'utilisation": 4.5, "Rapport qualité-prix": 3.9, "Programmabilité": 4.5}
+    },
+    {
+      "offerId": "panasonic-sr-mp300",
+      "badge": "Meilleure pour la cuisine japonaise",
+      "review": "Le Panasonic SR-MP300 est conçu pour la façon dont les ménages japonais cuisinent à feu doux : nimono, oden, kakuni et aliments fermentés. Le mode fermentation à précis 40-60°C pour yaourt et amazake est ce qu'aucune mijoteuse occidentale n'offre.",
+      "pros": ["Mode fermentation (40-60°C) pour yaourt et amazake", "Température calibrée pour nimono, oden et kakuni", "Réseau de service Panasonic national au Japon"],
+      "cons": ["Mijoteuse uniquement — pas de fonction pression"],
+      "grade": "B",
+      "specs": {"Capacité": "2,2 litres", "Puissance": "200W", "Minuteur": "Oui", "Cuve": "Pot intérieur", "Mode fermentation": "Oui (40-60°C)", "Marché": "National japonais"},
+      "scores": {"Distribution de chaleur": 4.8, "Capacité": 3.2, "Facilité d'utilisation": 4.3, "Rapport qualité-prix": 3.8, "Programmabilité": 4.0}
+    },
+    {
+      "offerId": "twinbird-ep-4694",
+      "badge": "Meilleure compacte économique",
+      "review": "Le Twinbird EP-4694 occupe un créneau étroit : une mijoteuse japonaise compacte pour oden et plats braisés à un prix nettement inférieur au Panasonic. Le pot en céramique gère l'environnement humide de l'oden sans risque de goût métallique. L'absence de minuteur est la raison pour laquelle la plupart des acheteurs finissent par choisir le Panasonic.",
+      "pros": ["Empreinte compacte pour les petites cuisines japonaises", "Pot en céramique sans risque de goût métallique pour l'oden", "Service et pièces domestiques japonais complets"],
+      "cons": ["Pas de minuteur programmable — marche/arrêt manuel uniquement"],
+      "grade": "B-",
+      "specs": {"Capacité": "1,5 litre", "Puissance": "450W", "Minuteur": "Aucun", "Cuve": "Céramique", "Couvercle": "Verre", "Marché": "National japonais"},
+      "scores": {"Distribution de chaleur": 4.0, "Capacité": 2.5, "Facilité d'utilisation": 4.8, "Rapport qualité-prix": 4.5, "Programmabilité": 1.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les familles de 4+ ou les cuisiniers en grande quantité", "offerId": "crock-pot-sccpvl610-s", "reason": "La cuve en céramique de 6 pintes gère les poulets entiers et les grands rôtis, et le simple cadran ne laisse aucune place à l'erreur."},
+    {"label": "Pour les cuisiniers pressés en semaine", "offerId": "instant-pot-duo-7in1", "reason": "Le mode pression réduit un braisage de 6 heures à 35 minutes — la seule option quand on veut dîner ce soir."},
+    {"label": "Pour les cuisines d'appartement à Tokyo", "offerId": "cuisinart-csc-800", "reason": "3,5L s'inscrit à côté du cuiseur à riz et le minuteur maintient les plats chauds jusqu'au retour à la maison."},
+    {"label": "Pour les aliments fermentés et le nimono", "offerId": "panasonic-sr-mp300", "reason": "Le mode fermentation à 40-60°C pour yaourt et amazake n'est disponible dans aucune autre mijoteuse à ce prix."},
+    {"label": "Pour un oden simple avec un petit budget", "offerId": "twinbird-ep-4694", "reason": "Le pot en céramique et le service national offrent l'entrée la plus simple dans la cuisson lente pour les plats japonais simples."}
+  ]
 }

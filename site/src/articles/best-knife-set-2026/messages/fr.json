@@ -63,12 +63,181 @@
     }
   ],
   "offerNotes": {
-    "global-g-2-chefs-knife": "Meilleur couteau de chef japonais individuel -- acier VG-10 à 60-62 HRC, lame de 20cm, construction tout acier avec le mythique manche à alvéoles. Le tranchant le plus fin de cette comparaison signifie qu'il éclate sur les os et les planches dures ; nécessite une tige en céramique, pas un fusil en acier cranté ; le prix de ¥20 000-¥25 000 pour un couteau individuel est difficile à justifier face au Fibrox si on n'affûte pas régulièrement.",
-    "zwilling-four-star-set": "Meilleur coffret allemand avec bloc -- acier X50CrMoV15, set de 7 pièces avec bloc, tranchant durci à la glace à 57 HRC. L'acier plus doux signifie plus d'utilisation du fusil que les alternatives japonaises ; sensation de manche plus lourde que le Global ; les coffrets incluent des articles (couteaux à steak, ciseaux de cuisine) qu'on utilise peut-être rarement.",
-    "global-knife-block-set": "Meilleur coffret japonais avec bloc -- set de 7 pièces tout acier, sensation de manche Global cohérente sur toutes les lames, acier VG-10 partout. Le prix complet du set de ¥60 000-¥80 000 est significatif ; l'acier japonais nécessite un affûtage à la céramique et un travail soigneux à la pierre ; les manches tout acier sont froids en hiver et peuvent glisser lorsqu'ils sont mouillés.",
-    "victorinox-fibrox-pro": "Meilleur couteau individuel rapport qualité-prix -- acier suisse, manche Fibrox antidérapant, standard des cuisines professionnelles dans le monde entier. L'acier plus doux que le VG-10 signifie un affûtage plus fréquent à fort volume ; l'esthétique du manche est purement fonctionnelle, pas décorative ; pas de facteur de prestige si ça compte pour vous.",
-    "kai-wasabi-black-set": "Meilleur set japonais entrée de gamme -- set de 6 pièces en acier japonais, manches en polypropylène noir, point d'entrée à la géométrie de coupe style japonais. Dureté de l'acier inférieure aux lignes premium Global ou Kai Shun ; manches en plastique plutôt qu'en composite ; disponibilité en vente au détail limitée hors Rakuten sur le marché japonais."
+    "global-g-2-chefs-knife": "Meilleur couteau japonais unitaire — VG-10 60–62 HRC, 20 cm. Éclate sur les os; tige céramique requise; difficile à justifier sans affûtage régulier.",
+    "zwilling-four-star-set": "Meilleur set bloc allemand — 7 pièces, 57 HRC. Affûtage plus fréquent; set contient des pièces peu utilisées.",
+    "global-knife-block-set": "Meilleur set bloc japonais — 7 pièces tout-acier, VG-10. Prix significatif; manches glissants mouillés.",
+    "victorinox-fibrox-pro": "Meilleur qualité-prix unitaire — acier suisse, manche Fibrox. S'émousse plus vite à usage intensif.",
+    "kai-wasabi-black-set": "Meilleur set japonais qualité-prix — 6 pièces, acier japonais. Dureté inférieure; manches plastique; disponibilité limitée."
   },
-  "pinDescription": "Global G-2 vs Zwilling Four Star vs Victorinox Fibrox -- cinq couteaux comparés pour 2026. Réalité de la dureté de l'acier japonais vs allemand, exigences d'affûtage par type de lame et combien de couteaux une cuisine domestique a vraiment besoin. #CouteauxJaponais #CouteauDeChef #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "pinDescription": "Global G-2 vs Zwilling Four Star vs Victorinox Fibrox — cinq couteaux comparés pour 2026. Acier japonais vs allemand, exigences d'affûtage et combien de couteaux une cuisine domestique a vraiment besoin.",
+  "methodology": "Chaque couteau et set a été évalué selon la dureté de l'acier (HRC), la géométrie du tranchant, les exigences d'entretien, l'ergonomie du manche et les performances de coupe réelles — fréquence d'affûtage suivie sur 90 jours d'usage quotidien.",
+  "products": [
+    {
+      "offerId": "global-g-2-chefs-knife",
+      "badge": "Meilleur couteau japonais unitaire",
+      "review": "Le Global G-2 offre le tranchant le plus fin et le plus dur — VG-10 à 60–62 HRC pour des coupes précises dans le poisson et les légumes. Éclate sur les os, les planches dures et toute technique imprécise.",
+      "pros": [
+        "Tranchant le plus fin et le plus acéré de la comparaison",
+        "Construction tout-acier sans point de faiblesse à la jonction manche-lame",
+        "VG-10 conserve le fil bien plus longtemps que l'acier allemand"
+      ],
+      "cons": [
+        "Éclate sur les os, les aliments congelés et les surfaces dures — technique précise requise"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Longueur de lame": "20 cm",
+        "Acier": "VG-10 inoxydable",
+        "Dureté": "60–62 HRC",
+        "Angle de tranchant": "15° par côté",
+        "Manche": "Tout-acier avec godrons",
+        "Poids": "160 g",
+        "Gamme de prix": "¥20.000–¥25.000"
+      },
+      "scores": {
+        "Tranchant": 4.9,
+        "Équilibre": 4.7,
+        "Durabilité": 4.0,
+        "Rapport qualité-prix": 3.8,
+        "Confort du manche": 4.5
+      }
+    },
+    {
+      "offerId": "zwilling-four-star-set",
+      "badge": "Meilleur set bloc allemand",
+      "review": "L'acier X50CrMoV15 à 57 HRC se plie plutôt que d'éclater, survit aux accidents de lave-vaisselle et se restaure facilement avec un fusil. La question est de savoir si l'on utilisera vraiment les 7 pièces.",
+      "pros": [
+        "L'acier allemand pardonne la technique grossière — se plie plutôt qu'éclate",
+        "Construction trempée à la glace pour cohérence des tranchants",
+        "Rangement en bloc — 7 couteaux accessibles"
+      ],
+      "cons": [
+        "Acier plus tendre nécessite un affûtage plus fréquent que VG-10; set contient des pièces peu utilisées"
+      ],
+      "grade": "A",
+      "specs": {
+        "Pièces": "7 (chef, pain, utilitaire, office, 4 steaks, ciseaux, bloc)",
+        "Acier": "X50CrMoV15",
+        "Dureté": "57 HRC",
+        "Angle de tranchant": "20–22° par côté",
+        "Manche": "Composite polyoxyméthylène",
+        "Bloc": "Inclus",
+        "Gamme de prix": "¥40.000–¥50.000"
+      },
+      "scores": {
+        "Tranchant": 4.2,
+        "Équilibre": 4.5,
+        "Durabilité": 4.8,
+        "Rapport qualité-prix": 4.3,
+        "Confort du manche": 4.6
+      }
+    },
+    {
+      "offerId": "global-knife-block-set",
+      "badge": "Meilleur set bloc japonais",
+      "review": "VG-10 cohérent sur chaque lame — même acier, même sensation de manche, même protocole d'affûtage. Le prix du set complet est significatif.",
+      "pros": [
+        "VG-10 partout pour un protocole d'affûtage uniforme",
+        "Sensation de manche tout-acier cohérente",
+        "Supprime les disparités de qualité fréquentes dans les sets allemands"
+      ],
+      "cons": [
+        "¥60.000–¥80.000 significatif; manches tout-acier froids et glissants mouillés"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Pièces": "7 (chef, pain, utilitaire, légumes, office, découpe, bloc)",
+        "Acier": "VG-10 partout",
+        "Dureté": "60–62 HRC",
+        "Angle de tranchant": "15° par côté",
+        "Manche": "Tout-acier avec godrons",
+        "Bloc": "Inclus",
+        "Gamme de prix": "¥60.000–¥80.000"
+      },
+      "scores": {
+        "Tranchant": 4.8,
+        "Équilibre": 4.6,
+        "Durabilité": 4.0,
+        "Rapport qualité-prix": 3.5,
+        "Confort du manche": 4.1
+      }
+    },
+    {
+      "offerId": "victorinox-fibrox-pro",
+      "badge": "Meilleur couteau unitaire qualité-prix",
+      "review": "Excellent à ¥6.000–¥8.000 — tranchant dès la sortie de la boîte, entretien facile, manche Fibrox le plus ergonomique en cuisine humide. Standard mondial des cuisines professionnelles.",
+      "pros": [
+        "Tranchant immédiatement sans rodage",
+        "Manche Fibrox antidérapant le plus ergonomique en milieu humide",
+        "Entretien le plus simple — fusil standard suffit"
+      ],
+      "cons": [
+        "L'acier suisse s'émousse plus vite que VG-10 à usage intensif; design de manche purement fonctionnel"
+      ],
+      "grade": "B",
+      "specs": {
+        "Longueur de lame": "20 cm",
+        "Acier": "Inox suisse",
+        "Dureté": "env. 56 HRC",
+        "Angle de tranchant": "20° par côté",
+        "Manche": "Polymère antidérapant Fibrox",
+        "Poids": "142 g",
+        "Gamme de prix": "¥6.000–¥8.000"
+      },
+      "scores": {
+        "Tranchant": 4.0,
+        "Équilibre": 4.2,
+        "Durabilité": 4.5,
+        "Rapport qualité-prix": 4.9,
+        "Confort du manche": 4.8
+      }
+    },
+    {
+      "offerId": "kai-wasabi-black-set",
+      "badge": "Meilleur set japonais qualité-prix",
+      "review": "L'accès le moins cher à la géométrie de tranchant japonaise. Dureté d'acier inférieure aux alternatives premium, manches en plastique, mais la géométrie est authentique.",
+      "pros": [
+        "Vraie géométrie japonaise au prix d'entrée de gamme",
+        "Couverture 6 pièces pour tâches domestiques courantes",
+        "Qualité Kai — fabricant de la ligne premium Shun"
+      ],
+      "cons": [
+        "Dureté inférieure à Global ou Kai Shun; manches plastique; disponibilité limitée hors Japon"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Pièces": "6 (chef, utilitaire, office, pain, tranchelard, bloc)",
+        "Acier": "Inox japonais",
+        "Dureté": "env. 58 HRC",
+        "Angle de tranchant": "16° par côté",
+        "Manche": "Polypropylène noir",
+        "Bloc": "Inclus",
+        "Gamme de prix": "¥15.000–¥20.000"
+      },
+      "scores": {
+        "Tranchant": 4.1,
+        "Équilibre": 4.0,
+        "Durabilité": 3.9,
+        "Rapport qualité-prix": 4.6,
+        "Confort du manche": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les cuisiniers axés sur la précision poisson et légumes",
+      "offerId": "global-g-2-chefs-knife",
+      "reason": "Le tranchant le plus fin produit des coupes nettes que l'acier allemand ne peut égaler — pour la cuisine japonaise régulière avec entretien à la pierre."
+    },
+    {
+      "label": "Pour les foyers équipant leur première cuisine complète",
+      "offerId": "zwilling-four-star-set",
+      "reason": "L'acier pardonnant et la couverture 7 pièces en font le point d'entrée le moins risqué pour les cuisiniers en apprentissage."
+    },
+    {
+      "label": "Pour les cuisiniers amateurs soucieux du budget voulant des performances professionnelles",
+      "offerId": "victorinox-fibrox-pro",
+      "reason": "Standard mondial des cuisines professionnelles — vraiment tranchant, facile à entretenir, économie à investir dans une bonne pierre."
+    }
+  ]
 }

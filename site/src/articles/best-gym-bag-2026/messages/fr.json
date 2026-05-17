@@ -114,5 +114,64 @@
     "gold-gym-gym-bag-backpack": "Meilleur choix entrée de gamme pour un usage simple en salle. Marque Gold's Gym, polyester durable, compartiment chaussures séparé, grand compartiment principal avec poche organisatrice intérieure à prix d'entrée. Construction basique sans séparation sec/humide spécialisée — pour les acheteurs qui aèrent leur sac immédiatement après chaque séance."
   },
   "pinDescription": "Cinq sacs de sport comparés pour 2026 — Nike Brasilia 9.5, Under Armour Undeniable 5.0, Adidas Defender 4, Anello et The North Face Base Camp — sur la qualité du compartiment sec/humide, l'ergonomie sac à dos vs duffel, la compatibilité avec les casiers et lequel garde vraiment vos vêtements mouillés loin de vos affaires de travail. #sacDeSport #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque sac de sport a été évalué sur l'efficacité de la séparation sec/humide, la durabilité des matériaux, la compatibilité avec les casiers, le confort de port et le rapport qualité-prix — en privilégiant les scénarios réels de sport et de navette sur les spécifications catalogue.",
+  "products": [
+    {
+      "offerId": "nike-brasilia-9-5-training-duffel",
+      "badge": "Meilleur au général",
+      "review": "Le 36L Medium couvre gym et navette avec vêtements de rechange et rentre dans la plupart des casiers. Le compartiment chaussures ventilé sépare effectivement les chaussures des vêtements propres. Le polyester 600D résiste aux fonds de casiers. La lacune : pas de housse laptop rembourrée, et la ventilation du compartiment chaussures laisse passer quelques odeurs.",
+      "pros": ["Compartiment chaussures ventilé qui isole vraiment les chaussures", "36L Medium s'adapte à la plupart des casiers de salles commerciales", "Large choix de couleurs et plusieurs tailles (18–60L)"],
+      "cons": ["Pas de housse laptop rembourrée au prix standard"],
+      "grade": "A+",
+      "specs": {"Capacité": "36L (Medium)", "Matériau": "Polyester 600D", "Compartiments": "Chaussures + sec/humide + principal", "Dimensions": "51×28×28cm", "Prix": "¥6.000–9.000"},
+      "scores": {"Durabilité": 4.5, "Séparation sec/humide": 4.3, "Compatibilité casier": 4.5, "Confort": 4.0, "Rapport qualité-prix": 4.5}
+    },
+    {
+      "offerId": "under-armour-undeniable-5-duffel",
+      "badge": "Meilleure résistance à l'eau",
+      "review": "Le finish UA Storm repousse la pluie légère mieux que le polyester non traité. Les cloisons modulables donnent une organisation flexible. Limite : poche humide trop petite pour un changement complet de tenue mouillée. Le lavage en machine dégrade le revêtement UA Storm.",
+      "pros": ["Finish UA Storm dépasse le polyester standard sous la pluie", "Cloisons intérieures modulables pour organisation flexible", "58L de volume avec de la place à revendre"],
+      "cons": ["Poche humide trop petite pour un changement complet de tenue mouillée"],
+      "grade": "A",
+      "specs": {"Capacité": "58L (MD)", "Matériau": "Polyester UA Storm", "Compartiments": "Poche humide + principal modulable", "Dimensions": "61×30×30cm", "Prix": "¥7.000–12.000"},
+      "scores": {"Durabilité": 4.3, "Séparation sec/humide": 4.0, "Compatibilité casier": 4.0, "Confort": 4.2, "Rapport qualité-prix": 4.0}
+    },
+    {
+      "offerId": "gym-shark-everyday-gym-bag",
+      "badge": "Meilleur style",
+      "review": "Design minimaliste qui ne ressemble pas à un sac de sport. Compartiment principal rembourré compatible laptop, bretelles ergonomiques réduisent la fatigue. Limite : pas de compartiment humide scellé — vêtements très mouillés nécessitent un sac étanche séparé.",
+      "pros": ["Design minimaliste gym-to-street sans accroc", "Compartiment principal rembourré compatible laptop", "Bretelles ergonomiques réduisant la fatigue épaules en navette"],
+      "cons": ["Pas de compartiment humide scellé — vêtements très mouillés nécessitent sac étanche supplémentaire"],
+      "grade": "B+",
+      "specs": {"Capacité": "~30L", "Matériau": "Polyester", "Compartiments": "Pochette chaussures + principal compatible laptop", "Prix": "¥8.000–12.000"},
+      "scores": {"Durabilité": 4.0, "Séparation sec/humide": 3.3, "Compatibilité casier": 4.3, "Confort": 4.5, "Rapport qualité-prix": 4.0}
+    },
+    {
+      "offerId": "adidas-defender-4-duffel",
+      "badge": "Meilleur pour navetteurs",
+      "review": "Housse laptop rembourrée dans un duffel compact taille S — le plus pratique gym-bureau de cette comparaison. Polyester 100% recyclé équivalent au vierge. Compromis : poche humide trop petite pour chaussures et vêtements mouillés ensemble.",
+      "pros": ["Housse laptop rembourrée dans duffel compact — unique dans cette comparaison", "Polyester 100% recyclé sans compromis de performance", "Poche avant zippée pour accès rapide"],
+      "cons": ["Poche humide trop petite pour chaussures et vêtements mouillés simultanément"],
+      "grade": "B",
+      "specs": {"Capacité": "Taille S (~30L)", "Matériau": "Polyester 100% recyclé", "Compartiments": "Chaussures/humide + housse laptop + principal", "Prix": "¥5.000–7.000"},
+      "scores": {"Durabilité": 4.0, "Séparation sec/humide": 3.5, "Compatibilité casier": 4.5, "Confort": 3.8, "Rapport qualité-prix": 4.5}
+    },
+    {
+      "offerId": "gold-gym-gym-bag-backpack",
+      "badge": "Meilleur budget",
+      "review": "Gold's Gym à ¥3.000–5.000 : polyester durable, compartiment chaussures séparé, grand compartiment principal avec organisateur. Pas de spécialisation sec/humide — ventilation immédiate après chaque séance supposée. Pour ceux qui rentrent directement chez eux et privilégient le prix.",
+      "pros": ["Marque iconique de gym à prix d'entrée", "Compartiment chaussures séparé plus organisateur intérieur", "Grand compartiment principal pour chargement sans complication"],
+      "cons": ["Pas de séparation sec/humide spécialisée — ventilation immédiate après les séances nécessaire"],
+      "grade": "B-",
+      "specs": {"Matériau": "Polyester", "Compartiments": "Chaussures + organisateur + principal", "Prix": "¥3.000–5.000"},
+      "scores": {"Durabilité": 3.8, "Séparation sec/humide": 2.8, "Compatibilité casier": 4.5, "Confort": 3.5, "Rapport qualité-prix": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour gym + navette avec vêtements de rechange", "offerId": "nike-brasilia-9-5-training-duffel", "reason": "36L est le juste milieu entre compatibilité casier et espace pour kit navette complet"},
+    {"label": "Pour navetteurs sous la pluie à pied ou vélo", "offerId": "under-armour-undeniable-5-duffel", "reason": "Le finish UA Storm est le plus résistant à l'eau de cette comparaison"},
+    {"label": "Pour les sportifs qui veulent du style", "offerId": "gym-shark-everyday-gym-bag", "reason": "Design minimaliste et compatibilité laptop sans allure de sac de sport"},
+    {"label": "Pour gym-bureau avec laptop", "offerId": "adidas-defender-4-duffel", "reason": "Seul sac ici avec housse laptop rembourrée dans un format compact adapté aux casiers"},
+    {"label": "Pour usage gym uniquement avec petit budget", "offerId": "gold-gym-gym-bag-backpack", "reason": "¥3.000–5.000 pour compartiment chaussures et assez de place pour kit gym standard"}
+  ]
 }

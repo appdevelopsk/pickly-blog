@@ -94,5 +94,174 @@
     "pompeian-smooth-evoo": "Beste budgetfreundliche Supermarktoption -- weit verbreitet, niedrigste Preisspanne bei ~0,25 Dollar/oz im Grossformat, milder Geschmack fuer Verbraucher konzipiert, die Bitterkeit nicht moegen. Ideal, wenn das Budget die harte Einschraenkung ist und das Kochvolumen hoch ist. Einschraenkung: kein Erntedatum, niedriger Polyphenolgehalt per Design, begrenzte Finishing-Oel-Eignung -- nicht die Wahl, wenn Frische oder gesundheitlicher Wert eine Prioritaet sind."
   },
   "pinDescription": "5 Olivenoeleverglichen fuer 2026: California Olive Ranch vs. Kirkland vs. Brightland vs. Cobram vs. Pompeian. Erntedatumstransparenz, Rauchpunkt, Polyphenolgehalt -- finden Sie das EVOO, das wirklich zu Ihrem Kochstil passt. #Olivenoel #Kueche #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jedes Öl wurde anhand der Erntedatum-Transparenz, der Kosten pro Unze, des Geschmacksprofils und des Polyphenolcharakters, der Eignung für Koch- vs. Veredelungsanwendungen und der Frage bewertet, ob die Frischeversprechen angesichts typischer Lieferkettenzeiträume im Einzelhandel standhalten.",
+  "products": [
+    {
+      "offerId": "california-olive-ranch-evoo",
+      "badge": "Bestes Alltagsöl",
+      "review": "California Olive Ranch ist das praktischste Standard-Alltagsöl für US-Haushalte — Erntedatum auf dem Vorderetikett gedruckt, inländische Produktion in Kalifornien mit effizienter Einzelhandelsverteilung und ein mittleres Polyphenolprofil, das sowohl Kochen als auch leichte Veredelung bei ~0,45 $/oz abdeckt. Das Blend bezieht manchmal internationale Quellen ein; prüfen Sie das Etikett auf rein inländische SKUs, wenn die Herkunft wichtig ist.",
+      "pros": [
+        "Erntedatum ausgewiesen — Frische beim Kauf überprüfbar",
+        "~0,45 $/oz — zugänglicher Preis für ein hochwertiges inländisches EVOO",
+        "Deckt sowohl Koch- als auch leichte Veredelungsanwendungen ab"
+      ],
+      "cons": [
+        "Einige SKUs mit internationalen Quellen gemischt — Etikett für rein inländische prüfen"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Herkunft": "Kalifornien (+ internationale Mischung in einigen SKUs)",
+        "Preis pro oz": "~0,45 $",
+        "Erntedatum": "Ja — auf Etikett gedruckt",
+        "Polyphenolgehalt": "Mittel",
+        "Beste Verwendung": "Alltägliches Kochen + leichte Veredelung",
+        "Bio": "Nein (konventionell)"
+      },
+      "scores": {
+        "Geschmack": 4.5,
+        "Qualität": 4.6,
+        "Preis-Leistung": 4.7,
+        "Frische": 4.8,
+        "Vielseitigkeit": 5.0
+      }
+    },
+    {
+      "offerId": "kirkland-organic-evoo",
+      "badge": "Bester Massenwertkauf",
+      "review": "Kirklands 2-Liter-Bio-Olivenöl von Costco ist das günstigste pro Unze in diesem Vergleich bei ~0,31 $/oz — bedeutende Einsparungen für Haushalte, die täglich Olivenöl kochen. USDA-Bio-zertifiziert und aus dem Mittelmeerraum bezogen. Die ehrliche Einschränkung ist kein Erntedatum, was die Frischeverifikation erschwert; schneller Verbrauch mildert dies für Küchen mit hohem Volumen.",
+      "pros": [
+        "~0,31 $/oz — niedrigste Kosten pro Unze in diesem Vergleich",
+        "USDA-Bio-zertifiziert",
+        "2-Liter-Format effizient für tägliche Kochhaushalte"
+      ],
+      "cons": [
+        "Kein Erntedatum — Frische hängt vom Lagerbestandsumschlag ab"
+      ],
+      "grade": "A",
+      "specs": {
+        "Herkunft": "Mittelmeerraum (Costco-bezogen)",
+        "Preis pro oz": "~0,31 $ (2-Liter Costco-Größe)",
+        "Erntedatum": "Nein",
+        "Polyphenolgehalt": "Mäßig",
+        "Zertifizierung": "USDA Bio",
+        "Beste Verwendung": "Tägliches Massenkochen"
+      },
+      "scores": {
+        "Geschmack": 4.1,
+        "Qualität": 4.2,
+        "Preis-Leistung": 5.0,
+        "Frische": 3.8,
+        "Vielseitigkeit": 4.3
+      }
+    },
+    {
+      "offerId": "brightland-alive-evoo",
+      "badge": "Bestes Premium-Veredelungsöl",
+      "review": "Brightland ist das frischetransparenteste Öl in diesem Vergleich — sowohl Erntedatum als auch Pressdatum sind ausgewiesen, und die Direktverbraucher-Lieferkette eliminiert die Alterungszeit im Einzelhandel. Der ausgeprägte, grasige Hochpolyphenol-Geschmack der kalifornischen Arbequina/Arbosana wird am besten ohne Erhitzung erlebt. Es für 3,25 $/oz zum Sautieren von Zwiebeln zu verwenden ist wirtschaftlich falsch; zum Verfeinern von Salaten, Pasta und gegrilltem Gemüse rechtfertigt der Geschmack den Preis.",
+      "pros": [
+        "Ernte- und Pressdatum beide ausgewiesen — maximale Frischetransparenz",
+        "Hochpolyphenol-Kalifornien-Blend mit ausgeprägtem grasigen Geschmack",
+        "Direktverbraucher-Lieferkette minimiert Alterungsverzögerung"
+      ],
+      "cons": [
+        "3,25 $/oz — wirtschaftlich nur für Veredelungsanwendungen geeignet, nicht zum Kochen"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Herkunft": "Kalifornien (Arbequina + Arbosana)",
+        "Preis pro oz": "~3,25 $ (375-ml-Flasche)",
+        "Erntedatum": "Ja — Ernte- und Pressdaten ausgewiesen",
+        "Polyphenolgehalt": "Hoch",
+        "Lieferkette": "Direktverbraucher",
+        "Beste Verwendung": "Nicht erhitzte Veredelung"
+      },
+      "scores": {
+        "Geschmack": 5.0,
+        "Qualität": 5.0,
+        "Preis-Leistung": 2.8,
+        "Frische": 5.0,
+        "Vielseitigkeit": 3.5
+      }
+    },
+    {
+      "offerId": "cobram-estate-robust-evoo",
+      "badge": "Bestes für Hochtemperaturkochen",
+      "review": "Cobram Estate Robust verwendet Coratina- und Koroneiki-Sorten speziell für höheren Polyphenolgehalt und oxidative Stabilität bei Kochtemperaturen. Erntedatum auf US-Flaschen ausgewiesen. Das pfeffrige, ausgeprägte Geschmacksprofil ist nicht universell beliebt, hält aber unter Hitze besser stand als milde EVOOs — die richtige Wahl, wenn Sautieren oder Rösten die Hauptanwendung ist.",
+      "pros": [
+        "Hochpolyphenol-Coratina/Koroneiki-Blend für oxidative Stabilität unter Hitze",
+        "Erntedatum auf US-Marktflaschen ausgewiesen",
+        "Pfeffriger Geschmack hält unter Kochtemperaturen besser stand als milde Öle"
+      ],
+      "cons": [
+        "Ausgeprägter pfeffriger Geschmack nicht für milde Geschmacksanwendungen geeignet"
+      ],
+      "grade": "B",
+      "specs": {
+        "Herkunft": "Australien / Kalifornien",
+        "Preis pro oz": "~0,50 $",
+        "Erntedatum": "Ja",
+        "Polyphenolgehalt": "Hoch",
+        "Sorten": "Coratina + Koroneiki",
+        "Beste Verwendung": "Hochtemperaturkochen"
+      },
+      "scores": {
+        "Geschmack": 4.6,
+        "Qualität": 4.8,
+        "Preis-Leistung": 4.3,
+        "Frische": 4.6,
+        "Vielseitigkeit": 4.0
+      }
+    },
+    {
+      "offerId": "pompeian-smooth-evoo",
+      "badge": "Bestes Budget-Supermarktöl",
+      "review": "Pompeian Smooth wird gefiltert, um die Bitterkeit zu entfernen, die Polyphenole erzeugen — eine bewusste Verbraucherentscheidung, die auch den Polyphenolgehalt und die Veredelungseignung reduziert. Bei ~0,25 $/oz ist es die günstigste Option hier, weit verbreitet in Supermärkten erhältlich und für Massenkochen geeignet, wo der Ölgeschmack nicht der Punkt ist.",
+      "pros": [
+        "~0,25 $/oz — niedrigster Preis in diesem Vergleich",
+        "Weit verbreitet in normalen Supermärkten erhältlich",
+        "Milder gefilterter Geschmack für Verbraucher, die Bitterkeit nicht mögen"
+      ],
+      "cons": [
+        "Kein Erntedatum; niedrigster Polyphenolgehalt by Design; begrenzte Veredelungseignung"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Herkunft": "Mittelmeer-Blend",
+        "Preis pro oz": "~0,25 $ (Großformat)",
+        "Erntedatum": "Nein",
+        "Polyphenolgehalt": "Niedrig (gefiltert für Mildheit)",
+        "Geschmacksprofil": "Mild, neutral",
+        "Beste Verwendung": "Massenbudgetkochen"
+      },
+      "scores": {
+        "Geschmack": 3.5,
+        "Qualität": 3.6,
+        "Preis-Leistung": 5.0,
+        "Frische": 3.2,
+        "Vielseitigkeit": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für den alltäglichen Haushaltskochbedarf",
+      "offerId": "california-olive-ranch-evoo",
+      "reason": "Erntedatum-Transparenz, inländische Produktion und ein Preis, der kein Rationieren erfordert — die eine Flasche, die die meisten Küchenanwendungen ohne Kompromisse abdeckt."
+    },
+    {
+      "label": "Für tägliche Vielkocher",
+      "offerId": "kirkland-organic-evoo",
+      "reason": "Das 2-Liter-Costco-Format bei ~0,31 $/oz macht tägliches Olivenölkochen wirklich wirtschaftlich; schneller Verbrauch handhabt den Frische-Kompromiss."
+    },
+    {
+      "label": "Für Veredelungsöl-Enthusiasten",
+      "offerId": "brightland-alive-evoo",
+      "reason": "Ernte- und Pressdatum ausgewiesen, Direktlieferanten-Frische und ein Hochpolyphenol-Geschmack, der am besten nicht erhitzt über Salat oder Pasta geträufelt erlebt wird."
+    },
+    {
+      "label": "Für Hochtemperatur-Sautieren und Rösten",
+      "offerId": "cobram-estate-robust-evoo",
+      "reason": "Die Robust-Bezeichnung signalisiert höherpolyphenol-Coratina/Koroneiki-Sorten, die speziell für oxidative Stabilität bei Kochtemperaturen ausgewählt wurden."
+    }
+  ]
 }

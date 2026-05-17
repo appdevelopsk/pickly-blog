@@ -1,44 +1,47 @@
 /**
  * Google Indexing API — bulk URL notify.
  *
- * Reference: https://developers.google.com/search/apis/indexing-api/v3/quickstart
+ * Uses the same OAuth2 credentials as gsc-submit.ts (gsc-credentials.json + gsc-token.json).
+ * No service account needed — authenticates as the verified Search Console owner.
  *
- * Setup (service account, separate from GSC OAuth):
- *   1. https://console.cloud.google.com → APIs → enable "Indexing API"
- *   2. Create service account → download JSON key
- *   3. Save key as site/indexing-sa.json (gitignored)
- *   4. In Search Console: Settings → Users → Add service account email as "Owner"
- *
- * Quota: 200 URLs/day per project (default), can request quota increase.
+ * Quota: 200 URLs/day per project (default).
  *
  * Usage:
- *   npx tsx scripts/gsc-ping-indexing.ts                # ping ja+en top 100 articles
- *   npx tsx scripts/gsc-ping-indexing.ts --limit 50
+ *   npx tsx scripts/gsc-ping-indexing.ts                # ping en+ja, up to 100 URLs
+ *   npx tsx scripts/gsc-ping-indexing.ts --limit 200
  *   npx tsx scripts/gsc-ping-indexing.ts --locale ja    # only Japanese URLs
  *   npx tsx scripts/gsc-ping-indexing.ts --dry-run
+ *   npx tsx scripts/gsc-ping-indexing.ts --reset        # clear pinged state
  *
  * State: ~/.config/pickly/indexing-pinged.json (tracks pinged URLs to avoid re-pinging)
  */
 import fs from "node:fs";
 import path from "node:path";
 import os from "node:os";
+import http from "node:http";
 import { google } from "googleapis";
 
 const SITE_URL = "https://pickly.blog";
-const SA_PATH = path.resolve(__dirname, "../indexing-sa.json");
+const CREDENTIALS_PATH = path.resolve(__dirname, "../gsc-credentials.json");
+const TOKEN_PATH = path.resolve(__dirname, "../gsc-token.json");
 const STATE_PATH = path.join(os.homedir(), ".config/pickly/indexing-pinged.json");
 const ARTICLES_DIR = path.resolve(__dirname, "../src/articles");
-const SCOPES = ["https://www.googleapis.com/auth/indexing"];
+const SCOPES = [
+  "https://www.googleapis.com/auth/indexing",
+  "https://www.googleapis.com/auth/webmasters",
+];
 
 const args = process.argv.slice(2);
 const get = (k: string) => { const i = args.indexOf(`--${k}`); return i >= 0 ? args[i + 1] : undefined; };
 const LIMIT = parseInt(get("limit") ?? "100", 10);
 const LOCALE_FILTER = get("locale");
 const DRY_RUN = args.includes("--dry-run");
+const RESET = args.includes("--reset");
 
-interface State { pinged: Record<string, string> } // url → ISO timestamp
+interface State { pinged: Record<string, string> }
 
 function loadState(): State {
+  if (RESET) return { pinged: {} };
   try { return JSON.parse(fs.readFileSync(STATE_PATH, "utf8")); }
   catch { return { pinged: {} }; }
 }
@@ -46,6 +49,41 @@ function loadState(): State {
 function saveState(s: State) {
   fs.mkdirSync(path.dirname(STATE_PATH), { recursive: true });
   fs.writeFileSync(STATE_PATH, JSON.stringify(s, null, 2));
+}
+
+async function getAuthClient() {
+  const creds = JSON.parse(fs.readFileSync(CREDENTIALS_PATH, "utf8"));
+  const { client_id, client_secret } = creds.installed || creds.web;
+  const oAuth2Client = new google.auth.OAuth2(client_id, client_secret, "http://localhost:3456");
+
+  if (fs.existsSync(TOKEN_PATH)) {
+    const token = JSON.parse(fs.readFileSync(TOKEN_PATH, "utf8"));
+    oAuth2Client.setCredentials(token);
+    // Refresh if needed — googleapis handles this automatically on API calls
+    return oAuth2Client;
+  }
+
+  const authUrl = oAuth2Client.generateAuthUrl({ access_type: "offline", scope: SCOPES, prompt: "consent" });
+  console.log("\nブラウザで認証してください:\n");
+  console.log(authUrl);
+
+  const code = await new Promise<string>((resolve) => {
+    const server = http.createServer((req, res) => {
+      const url = new URL(req.url ?? "/", "http://localhost:3456");
+      const c = url.searchParams.get("code");
+      if (c) {
+        res.end("認証成功。ターミナルに戻ってください。");
+        server.close();
+        resolve(c);
+      }
+    });
+    server.listen(3456);
+  });
+
+  const { tokens } = await oAuth2Client.getToken(code);
+  oAuth2Client.setCredentials(tokens);
+  fs.writeFileSync(TOKEN_PATH, JSON.stringify(tokens, null, 2));
+  return oAuth2Client;
 }
 
 function listArticleSlugs(): string[] {
@@ -66,19 +104,18 @@ function buildUrls(slugs: string[]): string[] {
 }
 
 async function main() {
-  if (!fs.existsSync(SA_PATH)) {
-    console.error(`✗ Service account JSON not found at: ${SA_PATH}`);
-    console.error(`  See setup instructions in this script's header comment.`);
+  if (!fs.existsSync(CREDENTIALS_PATH)) {
+    console.error(`✗ OAuth credentials not found at: ${CREDENTIALS_PATH}`);
+    console.error(`  Run gsc-submit.ts first to set up OAuth credentials.`);
     process.exit(1);
   }
 
-  const auth = new google.auth.GoogleAuth({ keyFile: SA_PATH, scopes: SCOPES });
+  const auth = await getAuthClient();
   const indexing = google.indexing({ version: "v3", auth });
 
   const state = loadState();
   const allSlugs = listArticleSlugs();
   const allUrls = buildUrls(allSlugs);
-  // Skip URLs already pinged
   const candidates = allUrls.filter((u) => !state.pinged[u]).slice(0, LIMIT);
 
   console.log(`Total articles: ${allSlugs.length}`);
@@ -107,9 +144,9 @@ async function main() {
       }
     } catch (e: any) {
       const msg = e?.errors?.[0]?.message ?? e?.message ?? String(e);
-      console.error(`  ✗ ${url}: ${msg.slice(0, 100)}`);
+      console.error(`  ✗ ${url}: ${msg.slice(0, 120)}`);
       fail++;
-      if (msg.includes("Quota exceeded") || msg.includes("quota")) {
+      if (msg.toLowerCase().includes("quota")) {
         console.error("  ⚠ Quota exceeded — stopping. Resume tomorrow.");
         break;
       }

@@ -92,5 +92,139 @@
     "columbia-newton-ridge-plus-ii": "진정한 방수와 넓은 발 모양을 수용하는 핏을 갖춘 가장 접근하기 쉬운 입문 가격. Omni-Grip 밑창과 더 부드러운 미드솔은 기술적 지형에서의 성능을 제한하고 내구성을 600-800km로 제한합니다. 기술적 성능이 필요 없는 예산 내 보통 트레일 하이킹에 적합한 선택."
   },
   "pinDescription": "2026년 하이킹 부츠 비교 — 110달러 입문 제품부터 200달러 기술적 어프로치 부츠까지 방수 미드컷 옵션. Salomon vs Merrell vs Hoka vs La Sportiva vs Columbia: 귀하의 트레일에 맞는 밑창, 방수, 핏 선택. #한국어",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 부츠는 트레일 특화 5가지 기준으로 평가되었습니다: 칼라 강성 대비 발목 및 비틀림 지지력, 방수 멤브레인 유형과 통기성 트레이드오프, 젖은 암석과 진흙에서의 아웃솔 러그 패턴 및 트랙션, 수명 km당 가격, 소유자 보고서 기반 길들임 거리.",
+  "products": [
+    {
+      "offerId": "salomon-x-ultra-4-gtx",
+      "badge": "전체 최고",
+      "review": "X Ultra 4 GTX는 정밀한 Contragrip 라스트와 Quicklace 시스템으로 올라운드 하이킹 부츠의 기준을 세웁니다. Contagrip MA 밑창은 암석과 진흙에서 신뢰할 수 있는 그립력을 제공하면서 도심 사용에도 지나치게 공격적이지 않습니다. 진짜 단점은 가격뿐입니다: $200으로 Columbia보다 $90 비싸며, 정기적으로 기술적 루트를 걷는 경우에만 정당화됩니다.",
+      "pros": ["10km+ 구간에서 피로를 줄이는 정밀 라스트", "Quicklace로 한 번에 세밀한 조정 가능", "방수성과 통기성이 탁월한 GTX 멤브레인"],
+      "cons": ["가끔 쉬운 하이킹에는 정당화되지 않는 프리미엄 가격"],
+      "grade": "A+",
+      "specs": {
+        "멤브레인": "Gore-Tex",
+        "밑창": "Contagrip MA",
+        "칼라 높이": "미드컷",
+        "무게(한 쌍)": "880 g",
+        "끈 유형": "Quicklace",
+        "길들임 거리": "~8 km"
+      },
+      "scores": {
+        "Support": 4.7,
+        "Waterproofing": 4.8,
+        "Traction": 4.7,
+        "Value": 4.3,
+        "Durability": 4.8
+      }
+    },
+    {
+      "offerId": "merrell-moab-3-mid-wp",
+      "badge": "최고 가성비",
+      "review": "Moab 3 Mid WP는 그룹에서 가장 좋은 가격 대비 성능을 제공합니다: 검증된 Vibram TC5+ 보호, M Select DRY 멤브레인, 중간 및 넓은 발 형태에 잘 맞는 라스트. Salomon만큼 비틀림 강성은 없지만 90%의 하이커에게 $45 절약으로 충분합니다.",
+      "pros": ["젖은 암석에서 뛰어난 그립의 Vibram TC5+ 밑창", "다양한 발 유형에 적합한 넓은 라스트", "$155에 뛰어난 가격 대비 내구성"],
+      "cons": ["매우 기술적인 지형에서 비틀림 강성 부족"],
+      "grade": "A",
+      "specs": {
+        "멤브레인": "M Select DRY",
+        "밑창": "Vibram TC5+",
+        "칼라 높이": "미드컷",
+        "무게(한 쌍)": "960 g",
+        "끈 유형": "일반 끈",
+        "길들임 거리": "~5 km"
+      },
+      "scores": {
+        "Support": 4.3,
+        "Waterproofing": 4.5,
+        "Traction": 4.6,
+        "Value": 4.9,
+        "Durability": 4.4
+      }
+    },
+    {
+      "offerId": "hoka-anacapa-mid-gtx",
+      "badge": "최고 쿠셔닝",
+      "review": "Anacapa Mid GTX는 Hoka의 쿠셔닝 플랫폼을 하이킹에 가져오지만 결과는 엇갈립니다. 두꺼운 쿠셔닝은 장거리에서 관절을 보호하고 Vibram Megagrip 밑창은 놀랍도록 잘 잡힙니다. 하지만 높은 플랫폼은 기술적 트레일에서 고유감각을 줄이며 $175 가격은 Merrell 대비 과금입니다.",
+      "pros": ["20km+ 일정에 이상적인 두꺼운 쿠셔닝", "강한 비에도 잘 버티는 Gore-Tex 멤브레인", "전지형 탁월한 트랙션의 Vibram Megagrip"],
+      "cons": ["높은 플랫폼이 기술적 트레일에서 지면 감각을 줄임"],
+      "grade": "B+",
+      "specs": {
+        "멤브레인": "Gore-Tex",
+        "밑창": "Vibram Megagrip",
+        "칼라 높이": "미드컷",
+        "무게(한 쌍)": "960 g",
+        "드롭": "6 mm",
+        "길들임 거리": "~10 km"
+      },
+      "scores": {
+        "Support": 4.0,
+        "Waterproofing": 4.7,
+        "Traction": 4.8,
+        "Value": 3.8,
+        "Durability": 4.3
+      }
+    },
+    {
+      "offerId": "la-sportiva-tx4-gtx",
+      "badge": "기술적 지형 최고",
+      "review": "TX4 GTX는 그룹에서 가장 특화된 어프로치 슈즈로, 가장 공격적인 Vibram Megagrip 밑창과 최고 비틀림 강성을 자랑합니다. 다른 부츠가 미끄러지는 건조하고 젖은 암석에서 우세합니다. $189 가격은 Salomon과 거의 같으며 20km+ 길들임 기간은 일반 하이커에게 적합하지 않습니다.",
+      "pros": ["암석에서 완벽한 트랙션의 Vibram Megagrip 밑창", "어프로치 클라이밍을 위한 최대 비틀림 강성", "극한 조건에서 신뢰할 수 있는 Gore-Tex 방수"],
+      "cons": ["긴 길들임 기간(~20 km)과 초기 좁은 핏"],
+      "grade": "B",
+      "specs": {
+        "멤브레인": "Gore-Tex",
+        "밑창": "Vibram Megagrip",
+        "유형": "어프로치 슈즈",
+        "무게(한 쌍)": "860 g",
+        "비틀림 강성": "높음",
+        "길들임 거리": "~20 km"
+      },
+      "scores": {
+        "Support": 4.8,
+        "Waterproofing": 4.6,
+        "Traction": 5.0,
+        "Value": 3.5,
+        "Durability": 4.9
+      }
+    },
+    {
+      "offerId": "columbia-newton-ridge-plus-ii",
+      "badge": "최저가 입문",
+      "review": "Newton Ridge Plus II는 $110에 진정한 방수 보호와 넓은 핏을 제공하여 미드컷 하이킹 부츠 입문에 최적입니다. Omni-Grip 밑창과 부드러운 미드솔은 기술적 지형에서의 성능과 내구성을 600-800km로 제한합니다. 전문 트랙션이 필요 없는 예산 내 보통 트레일 하이킹에 적합한 선택입니다.",
+      "pros": ["그룹에서 가장 저렴한 $110", "넓은 발도 편안하게 수용하는 넓은 핏", "중간 비에 실제로 효과적인 Omni-Tech 방수"],
+      "cons": ["요구가 많은 기술적 지형에서 밑창과 미드솔 한계"],
+      "grade": "B-",
+      "specs": {
+        "멤브레인": "Columbia Omni-Tech",
+        "밑창": "Omni-Grip",
+        "칼라 높이": "하이컷",
+        "무게(한 쌍)": "1040 g",
+        "예상 수명": "600-800 km",
+        "길들임 거리": "~3 km"
+      },
+      "scores": {
+        "Support": 3.8,
+        "Waterproofing": 4.2,
+        "Traction": 3.8,
+        "Value": 5.0,
+        "Durability": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "최고의 올라운드 부츠를 찾는 하이커",
+      "offerId": "salomon-x-ultra-4-gtx",
+      "reason": "정밀 라스트와 Quicklace 시스템이 힘든 외출에서 그룹 중 가장 다재다능하게 만듭니다."
+    },
+    {
+      "label": "최고 가성비를 찾는 하이커",
+      "offerId": "merrell-moab-3-mid-wp",
+      "reason": "Salomon보다 $45 저렴한 Vibram 밑창과 검증된 내구성 — 대부분에게 최적의 선택입니다."
+    },
+    {
+      "label": "어프로치 클라이머와 기술적 지형 하이커",
+      "offerId": "la-sportiva-tx4-gtx",
+      "reason": "Vibram Megagrip 트랙션과 최대 강성은 건조하고 젖은 암석에서 무적입니다."
+    }
+  ]
 }

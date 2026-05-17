@@ -18,7 +18,8 @@
     "catalog:update": "tsx scripts/catalog-update.ts",
     "gsc:performance": "tsx scripts/gsc-performance.ts",
     "gsc:submit": "tsx scripts/gsc-submit.ts",
-    "gsc:ping": "tsx scripts/gsc-ping-indexing.ts"
+    "gsc:ping": "tsx scripts/gsc-ping-indexing.ts",
+    "indexnow": "tsx scripts/indexnow-submit.ts"
   },
   "dependencies": {
     "next": "15.5.15",

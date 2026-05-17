@@ -92,5 +92,63 @@
     "prosource-firm-foam-block": "Miglior blocco da yoga in schiuma ad alta densità e firmezza — la schiuma EVA più dura in questo confronto, con bordi a taglio squadrato che massimizzano la stabilità della superficie e la resistenza al carico avvicinandosi ai livelli del sughero. Più leggero del sughero alla stessa rigidità. La scelta corretta per i praticanti che vogliono una stabilità simile al sughero senza il peso, o che preferiscono un supporto fermo non compressibile ma trovano la texture superficiale del sughero scomoda sulla pelle."
   },
   "pinDescription": "Migliori blocchi da yoga 2026 a confronto: densità sughero vs schiuma, dimensioni standard 9×6×4, bordo vs faccia piatta per le pose di equilibrio — Manduka, Hugger Mugger sughero, Gaiam Essentials, JadeYoga o ProSource schiuma ferma per il tuo stile di pratica? #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni prodotto è stato valutato su cinque criteri: qualità costruttiva, prestazioni nell'uso tipico, durabilità nel tempo, comfort e rapporto qualità-prezzo. Abbiamo dato il maggior peso a prestazioni e durabilità perché determinano se il prodotto è ancora utile 12 mesi dopo.",
+  "products": [
+    {
+      "offerId": "manduka-recycled-foam-block",
+      "badge": "Miglior scelta generale",
+      "review": "Il blocco in schiuma riciclata di Manduka offre il miglior equilibrio tra densità, aderenza e durabilità. Il materiale ecologico non sacrifica le prestazioni e regge anche nelle lezioni intense con sudorazione. Il prezzo è leggermente più alto, ma giustificato come investimento a lungo termine.",
+      "pros": ["Materiale riciclato, rispettoso dell'ambiente", "Eccellente equilibrio densità-aderenza", "Adatto alle lezioni con intensa sudorazione"],
+      "cons": ["Leggermente più costoso dei blocchi in sughero"],
+      "grade": "A+",
+      "specs": {"Materiale": "Schiuma EVA riciclata", "Dimensioni": "9×6×4 pollici", "Peso": "ca. 340g", "Colori": "diversi"},
+      "scores": {"Densità": 4.8, "Texture aderenza": 4.7, "Durabilità": 4.8, "Valore": 4.3, "Opzioni dimensione": 4.2}
+    },
+    {
+      "offerId": "hugger-mugger-cork-block",
+      "badge": "Miglior blocco in sughero",
+      "review": "Il blocco in sughero di Hugger Mugger è più duro della schiuma EVA e naturalmente resistente alla sudorazione. Si deforma poco con l'uso prolungato e offre più stabilità della schiuma per le posizioni di equilibrio. Il peso aggiuntivo è all'altezza della qualità.",
+      "pros": ["Sughero naturale, resistente alla sudorazione", "Durezza e stabilità superiori alla schiuma", "Si deforma poco con uso prolungato"],
+      "cons": ["Più pesante dei blocchi in schiuma"],
+      "grade": "A",
+      "specs": {"Materiale": "Sughero naturale", "Dimensioni": "9×6×4 pollici", "Peso": "ca. 510g", "Finitura": "naturale"},
+      "scores": {"Densità": 5.0, "Texture aderenza": 4.8, "Durabilità": 4.9, "Valore": 4.1, "Opzioni dimensione": 3.8}
+    },
+    {
+      "offerId": "gaiam-essentials-yoga-block",
+      "badge": "Miglior rapporto qualità-prezzo per principianti",
+      "review": "Gaiam Essentials è una delle opzioni più economiche per i blocchi da yoga e offre prestazioni sufficienti per una pratica regolare 2-3 volte a settimana. La schiuma è leggera e buona per supportare le posizioni, ma per un uso intensivo prolungato sono preferibili opzioni superiori.",
+      "pros": ["Prezzo molto accessibile", "Leggero e facile da trasportare", "Sufficiente per una pratica yoga regolare"],
+      "cons": ["Durabilità a lungo termine nell'uso intensivo inferiore ai prodotti premium"],
+      "grade": "B+",
+      "specs": {"Materiale": "Schiuma EVA", "Dimensioni": "9×6×4 pollici", "Peso": "ca. 200g", "Colori": "multipli"},
+      "scores": {"Densità": 3.9, "Texture aderenza": 4.0, "Durabilità": 3.8, "Valore": 5.0, "Opzioni dimensione": 4.5}
+    },
+    {
+      "offerId": "jade-yoga-foam-block",
+      "badge": "Migliore per chi è attento all'ambiente",
+      "review": "JadeYoga è nota per i suoi tappetini ecologici, e questo blocco in schiuma mantiene la filosofia di produzione rispettosa dell'ambiente. La densità è vicina a Manduka e l'aderenza è buona. Il prezzo è superiore a Gaiam, ma adatto per chi sostiene la trasparenza e l'impegno ambientale del marchio.",
+      "pros": ["Marchio eco-responsabile", "Densità e qualità vicine a Manduka", "Buona aderenza"],
+      "cons": ["Rapporto qualità-prezzo leggermente inferiore a Manduka"],
+      "grade": "B",
+      "specs": {"Materiale": "Schiuma EVA", "Dimensioni": "9×6×4 pollici", "Peso": "ca. 230g", "Produzione": "eco-responsabile"},
+      "scores": {"Densità": 4.4, "Texture aderenza": 4.5, "Durabilità": 4.4, "Valore": 3.9, "Opzioni dimensione": 3.7}
+    },
+    {
+      "offerId": "prosource-firm-foam-block",
+      "badge": "Migliore schiuma ad alta densità",
+      "review": "Il blocco ad alta densità di ProSource offre una durezza vicina al sughero ma più leggero. Ideale per le posizioni di equilibrio e la pratica orientata alla stabilità, sebbene meno comodo nelle posizioni restaurative per la fermezza.",
+      "pros": ["Durezza vicina al sughero con meno peso", "Più leggero del sughero", "Adatto a chi trova scomoda la texture del sughero"],
+      "cons": ["Minore ammortizzazione per le posizioni restaurative"],
+      "grade": "B-",
+      "specs": {"Materiale": "Schiuma EVA alta densità", "Dimensioni": "9×6×4 pollici", "Peso": "ca. 280g", "Fermezza": "alta"},
+      "scores": {"Densità": 4.7, "Texture aderenza": 4.3, "Durabilità": 4.5, "Valore": 4.2, "Opzioni dimensione": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per chi cerca il miglior blocco da yoga in assoluto", "offerId": "manduka-recycled-foam-block", "reason": "Miglior equilibrio tra densità, aderenza e materiale eco-responsabile per tutti gli stili di yoga."},
+    {"label": "Per la massima stabilità nelle posizioni di equilibrio", "offerId": "hugger-mugger-cork-block", "reason": "La durezza del sughero naturale e la tolleranza alla sudorazione massimizzano la stabilità nelle posizioni di equilibrio."},
+    {"label": "Per i principianti che provano i blocchi da yoga per la prima volta", "offerId": "gaiam-essentials-yoga-block", "reason": "Prezzo accessibile con prestazioni sufficienti per la pratica regolare — minimizza l'investimento iniziale."},
+    {"label": "Per chi ha bisogno di stabilità vicina al sughero senza il peso", "offerId": "prosource-firm-foam-block", "reason": "Offre stabilità simile al sughero con meno peso — ideale per i praticanti che si spostano frequentemente."}
+  ]
 }

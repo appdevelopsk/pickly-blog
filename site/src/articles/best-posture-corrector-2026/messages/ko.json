@@ -88,5 +88,170 @@
     "truweo-posture-corrector": "가장 조정 가능한 수동형 보조기 — 이중 벨크로 시스템으로 긴장감을 세밀하게 조정합니다. 벨크로가 옷과 머리카락에 걸립니다. 과도한 조임은 신경 압박으로 팔 저림을 유발할 수 있습니다. 가장 느슨한 설정에서 시작하세요. 다른 수동형 보조기와 동일한 근육 의존성 위험.",
     "back-brace-posture-corrector": "서 있기 및 부하용 전체 요추 지지 보조기 — 데스크 자세 흉추 둥글어짐과 다른 문제. 앉은 사무직 사용에는 너무 부피가 큽니다. 어깨나 목 자세가 아닌 하부 등만 다룹니다. 장시간 사용 시 척추 기립근에 근육 의존성이 적용됩니다."
   },
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 제품을 교정 메커니즘(능동 바이오피드백 대 수동 보조기), 근육 의존성 위험, 업무 일과 중 실제 착용감, 의복 하의 은밀함, 각 접근 방식을 지지하는 증거 기반으로 평가했습니다.",
+  "products": [
+    {
+      "offerId": "upright-go-2",
+      "badge": "최고 능동 트레이너",
+      "review": "Upright GO 2는 이 비교에서 유일한 능동 바이오피드백 장치 — 구부정해지면 진동하고 앱을 통해 개선을 추적하며 수동 보조기가 만드는 근육 의존성 문제를 피합니다. 한계는 커버리지: 상부 등과 목만 해당하며, 허리나 고관절 위치는 지원하지 않습니다.",
+      "pros": [
+        "능동 바이오피드백이 근육 의존성 없이 자세를 훈련",
+        "앱이 데이터 기반 접근법으로 주간 개선을 추적",
+        "의복 하에 맞는 은밀한 접착 센서"
+      ],
+      "cons": [
+        "상부 등만 커버 — 허리, 고관절, 목 교정 없음"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Type": "Active biofeedback (vibration)",
+        "Placement": "Upper back adhesive",
+        "App": "Yes — tracks posture over time",
+        "Battery": "Rechargeable",
+        "Price (US)": "~$100"
+      },
+      "scores": {
+        "Correction effectiveness": 4.5,
+        "Comfort": 4.2,
+        "Discreetness": 4.8,
+        "Value": 3.8,
+        "Ease of use": 4.5
+      }
+    },
+    {
+      "offerId": "comfymed-posture-brace",
+      "badge": "최고 클래식 보조기",
+      "review": "ComfyMed 8자형 어깨 보조기는 짧은 고유감각 세션 중에 어깨를 뒤쪽과 아래로 물리적으로 당깁니다. 의복 하에 착용 가능하고 명확한 촉각 피드백을 제공합니다. 중요한 한계: 세션당 20~30분 이상 사용하면 근육을 대신 작업하여 교정이 아닌 의존성을 만듭니다.",
+      "pros": [
+        "강한 고유감각 피드백 — 자세 변화를 즉시 느낌",
+        "은밀한 착용을 위해 의복 하에 맞음",
+        "기본 단기 세션 사용에 낮은 가격"
+      ],
+      "cons": [
+        "카테고리에서 가장 높은 근육 의존성 위험 — 종일 착용 시 수동 유지가 의존성 생성"
+      ],
+      "grade": "A",
+      "specs": {
+        "Type": "Passive figure-8 shoulder brace",
+        "Material": "Elastic fabric",
+        "Wear time": "20–30 min sessions recommended",
+        "Price (US)": "~$28"
+      },
+      "scores": {
+        "Correction effectiveness": 4.0,
+        "Comfort": 3.5,
+        "Discreetness": 4.2,
+        "Value": 4.8,
+        "Ease of use": 4.6
+      }
+    },
+    {
+      "offerId": "fitletic-posture-corrector",
+      "badge": "활동 착용에 최고",
+      "review": "Fitletic의 경량 탄성 구조는 활동적인 사용에 가장 편안한 수동 옵션 — 동작을 제한하지 않고 걷기, 외출, 가벼운 활동 중 착용 가능. 더 가벼운 구조는 또한 당기는 힘이 적어 심각한 흉추 후만증에는 불충분합니다. 반복 세탁으로 탄성이 3~6개월 내 저하됩니다.",
+      "pros": [
+        "능동적인 움직임을 위한 가장 가볍고 편안한 수동 보조기",
+        "어떤 의복 하에도 맞는 낮은 프로파일",
+        "일상 활동 중 가벼운 자세 의식에 적합"
+      ],
+      "cons": [
+        "경량 구조가 심각한 흉추 후만증에 불충분한 당기는 힘 제공"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Type": "Passive elastic shoulder brace",
+        "Construction": "Lightweight elastic",
+        "Lifespan": "~3–6 months with regular washing",
+        "Price (US)": "~$30"
+      },
+      "scores": {
+        "Correction effectiveness": 3.5,
+        "Comfort": 4.6,
+        "Discreetness": 4.7,
+        "Value": 4.4,
+        "Ease of use": 4.8
+      }
+    },
+    {
+      "offerId": "truweo-posture-corrector",
+      "badge": "최고 조절 가능한 보조기",
+      "review": "Truweo의 이중 벨크로 시스템은 여기서 모든 수동 보조기 중 가장 정밀한 장력 조절을 제공합니다 — 원하는 어깨 후인 힘을 정확히 조정 가능. 트레이드오프는 벨크로가 의복과 머리카락에 걸리고, 과도한 조임이 신경 압박으로 팔 저림을 유발할 수 있다는 것입니다. 항상 가장 느슨한 설정에서 시작하세요.",
+      "pros": [
+        "정밀한 장력 조절을 위한 이중 벨크로 — 가장 구성 가능한 수동 보조기",
+        "넓은 체형에 맞는 유니섹스 디자인",
+        "올바른 핏을 위한 명확한 사이즈 가이드"
+      ],
+      "cons": [
+        "벨크로가 의복과 머리카락에 걸림; 과도한 조임이 신경 압박으로 팔 저림 위험"
+      ],
+      "grade": "B",
+      "specs": {
+        "Type": "Passive clavicle brace",
+        "Adjustment": "Dual velcro tension system",
+        "Design": "Unisex",
+        "Price (US)": "~$27"
+      },
+      "scores": {
+        "Correction effectiveness": 3.8,
+        "Comfort": 3.4,
+        "Discreetness": 3.8,
+        "Value": 4.6,
+        "Ease of use": 3.8
+      }
+    },
+    {
+      "offerId": "back-brace-posture-corrector",
+      "badge": "허리 지원에 최고",
+      "review": "Mueller 등 보조기는 요추 부하를 특정하게 다룹니다 — 조절 가능한 측면 압박이 있는 단단한 패널이 서 있는 작업과 신체적 하중 작업에 적합합니다. 흉추 후만증이나 둥근 어깨에는 도움이 안 되며, 앉은 사무실 사용에는 너무 부피가 큽니다.",
+      "pros": [
+        "서 있는 작업과 신체적 하중을 위한 단단한 패널 실제 지원",
+        "개인화된 요추 지원을 위한 조절 가능한 측면 압박",
+        "이 구역을 타겟으로 하는 유일한 제품 — 허리에만 특화"
+      ],
+      "cons": [
+        "앉은 사무실 사용에 너무 부피가 큼; 상부 등, 어깨, 목은 다루지 않음"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Passive lumbar support brace",
+        "Panel": "Rigid with adjustable side compression",
+        "Coverage": "Lower back only",
+        "Price (US)": "~$25"
+      },
+      "scores": {
+        "Correction effectiveness": 3.8,
+        "Comfort": 3.0,
+        "Discreetness": 2.5,
+        "Value": 4.5,
+        "Ease of use": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "자세를 교정하는 것이 아닌 훈련하고 싶은 사무직 종사자를 위해",
+      "offerId": "upright-go-2",
+      "reason": "능동 바이오피드백이 종일 착용 시 수동 보조기가 만드는 근육 의존성 없이 자세 습관을 구축."
+    },
+    {
+      "label": "짧은 고유감각 리마인더 세션(20~30분)을 위해",
+      "offerId": "comfymed-posture-brace",
+      "reason": "가장 낮은 가격의 강한 촉각 피드백 — 구조적 지원이 아닌 단기 큐로 사용할 때 효과적."
+    },
+    {
+      "label": "움직임과 외출 중 활동적인 일상 사용을 위해",
+      "offerId": "fitletic-posture-corrector",
+      "reason": "가장 가벼운 수동 옵션 — 동작을 제한하지 않고 걷기와 가벼운 활동에 편안함."
+    },
+    {
+      "label": "정밀하게 조절 가능한 보조기를 원하는 사용자를 위해",
+      "offerId": "truweo-posture-corrector",
+      "reason": "이중 벨크로 장력 시스템이 수동 보조기 카테고리에서 어깨 후인 힘에 대한 가장 정밀한 제어 제공."
+    },
+    {
+      "label": "허리 긴장을 가진 서 있는 작업 근로자를 위해",
+      "offerId": "back-brace-posture-corrector",
+      "reason": "조절 가능한 압박이 있는 단단한 요추 패널이 서 있는 작업과 신체적 하중 시나리오에 특별히 설계."
+    }
+  ]
 }

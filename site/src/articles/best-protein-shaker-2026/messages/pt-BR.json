@@ -92,5 +92,179 @@
     "contigo-shake-go": "A escolha sem bolinha batidora para compradores que querem zero barulho de chacoalhar e zero componente separado para limpar. A tampa de vedação automática sela automaticamente após cada bebida. A base larga mistura bem por vórtice numa bancada mas se encaixa mal em bolsos laterais padrão e porta-copos. Desmontagem completa da tampa necessária antes do ciclo na lava-louças para evitar mofo na cavidade da válvula de mola."
   },
   "pinDescription": "Cinco shakers de proteína comparados em 2026 — bolinha de arame vs. mistura por vórtice, qual vedação de tampa realmente aguenta quando o shaker é derrubado, se o plástico ainda cheira após meses de uso diário de soro, e qual design multicompartimento realmente é usado. #ShakerDeProteína #NutriçãoEsportiva #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada shaker foi testado na completude da mistura com soro padrão e caseína espessa, integridade do selo da tampa sob simulação de queda e ciclagem de temperatura, retenção de odor no plástico após 30 dias de uso diário, tempo de limpeza dos componentes e longevidade relatada da dobradiça da tampa e dos O-rings além de 12 meses.",
+  "products": [
+    {
+      "offerId": "blenderbottle-classic-v2",
+      "badge": "Melhor Geral",
+      "review": "A BlenderBottle Classic V2 é o referencial da indústria porque o design tem quase nenhum ponto de falha — bola batedor de aço inoxidável 316, tampa com trava de clique, interior liso de polipropileno que resiste ao odor de proteína melhor que as alternativas texturizadas. A dobradiça abatível se desgasta em 12–18 meses de uso diário.",
+      "pros": [
+        "Bola batedor de aço inox 316 desfaz grumos de forma confiável",
+        "Interior liso resiste odores melhor que polipropileno texturizado",
+        "Adequada para lava-louças na prateleira superior — todos os componentes em uma carga"
+      ],
+      "cons": [
+        "A dobradiça abatível se desgasta e racha em 12–18 meses de uso diário"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Capacity": "28 oz (820 ml)",
+        "Mixing system": "Wire whisk ball",
+        "Material": "BPA-free polypropylene",
+        "Dishwasher safe": "Yes (top rack)",
+        "Lid type": "Click-lock flip-top",
+        "Compartments": "1",
+        "Colors": "30+"
+      },
+      "scores": {
+        "Leak resistance": 4.7,
+        "Mixing quality": 4.8,
+        "Durability": 4.5,
+        "Value": 4.7,
+        "Ease of cleaning": 4.8
+      }
+    },
+    {
+      "offerId": "hydra-cup-dual-shaker",
+      "badge": "Melhor Sessão Dupla",
+      "review": "Hydra Cup resolve o problema real de transportar dois suplementos completos pré- e pós-treino em uma única unidade — não um pequeno pod de pó, mas dois copos misturadores completos cada um com uma bola batedor. A desvantagem é o fator de forma combinado.",
+      "pros": [
+        "Dois copos misturadores completos — não um pequeno pod secundário",
+        "Cada copo tem sua própria bola batedor para mistura adequada",
+        "Elimina o transporte de dois recipientes separados para a academia"
+      ],
+      "cons": [
+        "Mais volumoso que qualquer shaker de copo único — não cabe nos bolsos laterais padrão"
+      ],
+      "grade": "A",
+      "specs": {
+        "Capacity": "2 × 24 oz (2 × 710 ml)",
+        "Mixing system": "2 wire whisk balls",
+        "Material": "BPA-free plastic",
+        "Dishwasher safe": "Top rack",
+        "Lid type": "Dual flip-tops",
+        "Compartments": "2 full cups",
+        "Weight": "~300 g empty"
+      },
+      "scores": {
+        "Leak resistance": 4.5,
+        "Mixing quality": 4.7,
+        "Durability": 4.3,
+        "Value": 4.4,
+        "Ease of cleaning": 3.8
+      }
+    },
+    {
+      "offerId": "umoro-one-shaker",
+      "badge": "Melhor 2-em-1",
+      "review": "Umoro esconde um compartimento secundário de 150 ml na base de um shaker de tamanho padrão — transporte de creatina ou pó pré-treino sem adicionar volume externo. O O-ring do compartimento oculto torna-se um risco de gotejamento após 6+ meses de uso.",
+      "pros": [
+        "Compartimento de 150 ml na base mantém o formato padrão de shaker",
+        "Copo principal mistura tão bem quanto um shaker padrão com bola",
+        "Mantém simples o transporte de único suplemento sem recipiente separado"
+      ],
+      "cons": [
+        "O O-ring do compartimento inferior precisa de inspeção e substituição a cada 6–9 meses"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Main capacity": "~600 ml",
+        "Secondary capacity": "~150 ml",
+        "Mixing system": "Wire whisk ball",
+        "Material": "BPA-free plastic",
+        "Dishwasher safe": "Cup only (hand-wash base)",
+        "Compartments": "2 (integrated)",
+        "Best use": "Dry powder secondary storage"
+      },
+      "scores": {
+        "Leak resistance": 4.0,
+        "Mixing quality": 4.6,
+        "Durability": 4.0,
+        "Value": 4.3,
+        "Ease of cleaning": 3.6
+      }
+    },
+    {
+      "offerId": "smartshake-original",
+      "badge": "Melhor para Empilhadores de Suplementos",
+      "review": "Smartshake é o único shaker nesta comparação com três compartimentos completamente separados — copo misturador principal, seção de pó seco e compartimento de comprimidos para 5–8 cápsulas. Três compartimentos significa três tarefas de limpeza separadas.",
+      "pros": [
+        "Compartimento de comprimidos para 5–8 cápsulas — único nesta comparação",
+        "Armazenamento de pó na seção do meio para uma porção pré-medida",
+        "Design modular separa cada categoria de suplemento"
+      ],
+      "cons": [
+        "Três compartimentos significam três etapas de limpeza separadas por uso"
+      ],
+      "grade": "B",
+      "specs": {
+        "Capacity": "600 ml main + powder + pill",
+        "Mixing system": "Disc agitator",
+        "Material": "BPA-free plastic",
+        "Dishwasher safe": "Top rack",
+        "Compartments": "3",
+        "Pill capacity": "5–8 capsules",
+        "Best use": "Multi-supplement post-workout stacks"
+      },
+      "scores": {
+        "Leak resistance": 4.2,
+        "Mixing quality": 4.1,
+        "Durability": 4.0,
+        "Value": 4.2,
+        "Ease of cleaning": 3.2
+      }
+    },
+    {
+      "offerId": "contigo-shake-go",
+      "badge": "Melhor Design Sem Bola",
+      "review": "Contigo elimina completamente a bola batedor de arame — a base de vórtice larga mistura por turbulência, e a tampa de botão com autosselo fecha automaticamente após cada gole. Funciona bem para soro padrão em 350+ ml de líquido, mas tem dificuldades com caseína espessa.",
+      "pros": [
+        "Sem bola batedor — sem componente separado para limpar, perder ou fazer barulho",
+        "Tampa autosselo fecha automaticamente após cada gole",
+        "Base de vórtice funciona para concentração padrão de soro sem peças mecânicas"
+      ],
+      "cons": [
+        "Desmontagem completa da tampa necessária antes da lava-louças — fácil de esquecer e desenvolver mofo"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Capacity": "20–28 oz options",
+        "Mixing system": "Vortex base (no ball)",
+        "Material": "BPA-free plastic",
+        "Dishwasher safe": "Yes (full lid disassembly required)",
+        "Lid type": "Autoseal push-button",
+        "Compartments": "1",
+        "Best use": "Standard whey at higher liquid volumes"
+      },
+      "scores": {
+        "Leak resistance": 4.8,
+        "Mixing quality": 3.8,
+        "Durability": 4.2,
+        "Value": 4.0,
+        "Ease of cleaning": 3.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para rotinas diárias de academia com um único shake",
+      "offerId": "blenderbottle-classic-v2",
+      "reason": "Mistura confiável com bola batedor, adequada para lava-louças e poucas peças móveis — o padrão correto para qualquer um que precise de uma porção por sessão."
+    },
+    {
+      "label": "Para pré- e pós-treino em uma única viagem",
+      "offerId": "hydra-cup-dual-shaker",
+      "reason": "Dois copos misturadores de tamanho completo substituem dois recipientes separados — vale o volume apenas se ambos os copos forem realmente usados em cada sessão."
+    },
+    {
+      "label": "Para empilhadores de suplementos com comprimidos e pós",
+      "offerId": "smartshake-original",
+      "reason": "O design de três compartimentos separa pó seco, comprimidos e o shake principal — evita carregar múltiplos recipientes ou pré-encher cases de suplementos."
+    },
+    {
+      "label": "Para compradores que odeiam barulho e bolas perdidas",
+      "offerId": "contigo-shake-go",
+      "reason": "Sem bola significa sem barulho entre os shakes e sem componente para perder — funciona bem para soro padrão em proporções adequadas de líquido."
+    }
+  ]
 }

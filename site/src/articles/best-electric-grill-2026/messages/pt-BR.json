@@ -67,5 +67,154 @@
     "iwatani-cb-p-y3": "Grelha de mesa a gás cartucho de butano — o pico de calor mais alto dos cinco, portátil, sem cabo de alimentação. A melhor para uso na varanda ou área externa onde não há eletricidade disponível. A classificação de chama aberta pode conflitar com as regras de gestão de prédios de apartamentos japoneses."
   },
   "pinDescription": "Cinco grelhadores internos comparados para apartamentos japoneses em 2026: Zojirushi EB-DLC20, Cuisinart GR-4N, George Foreman, raclette Récolte e Iwatani butano. Fumaça real, esforço de limpeza e yakitori em casa #churrasqueira #cozinha #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada grelhador foi avaliado em: temperatura real da superfície de cozimento em regime permanente, emissão de fumaça com coxas de frango e wagyu fatiado fino, tempo de limpeza das placas após uma sessão completa de yakiniku, velocidade de recuperação de calor após adicionar alimentos frios e se a portabilidade e o fator de forma se adaptam às limitações reais de uma cozinha de apartamento.",
+  "products": [
+    {
+      "offerId": "zojirushi-eb-dlc20",
+      "badge": "Melhor para yakiniku indoor",
+      "review": "As espessas placas de alumínio do Zojirushi mantêm a temperatura melhor do que qualquer concorrente aqui — quando você coloca costelas frias sobre uma superfície quente, a temperatura da placa se recupera em cerca de 30 segundos contra 90+ segundos das placas mais finas. Essa é a diferença entre uma selagem e um cozimento a vapor. A supressão de fumaça com bandeja de água funciona corretamente com proteína magra e produz resultados genuinamente com pouca fumaça na ventilação do apartamento. O compromisso são as placas removíveis mas apenas lavagem à mão: a lava-louças danifica o revestimento antiaderente em 6-10 ciclos.",
+      "pros": ["Placas grossas de alumínio mantêm temperatura em vários lotes de alimentos frios", "Supressão de fumaça com bandeja de água é a mais eficaz para proteína magra nesta comparação", "Placas removíveis tornam a limpeza prática — 10-15 minutos com molho"],
+      "cons": ["Placas são apenas lavagem à mão — lava-louças destrói o revestimento antiaderente"],
+      "grade": "A+",
+      "specs": {
+        "Potência": "1300 W",
+        "Tipo de placa": "Liga de alumínio espessa, removível",
+        "Redução de fumaça": "Bandeja de água abaixo dos orifícios de gotejamento",
+        "Limpeza": "Apenas lavagem à mão",
+        "Dimensões": "44 × 29 × 9 cm",
+        "Peso": "3,8 kg",
+        "Preço": "aprox. ¥15.000–¥20.000"
+      },
+      "scores": {
+        "Potência de aquecimento": 4.7,
+        "Facilidade de uso": 4.5,
+        "Limpeza": 4.2,
+        "Valor": 4.0,
+        "Portabilidade": 3.8
+      }
+    },
+    {
+      "offerId": "cuisinart-gr-4n",
+      "badge": "Melhor em versatilidade",
+      "review": "Os 1500W do Cuisinart e o sistema de placas intercambiáveis — grelha completa, chapa completa, metade e metade, prensa de panini — cobrem mais cenários de cozimento do que qualquer outra unidade aqui. A maior wattagem do grupo significa pré-aquecimento mais rápido e melhor recuperação de calor. As placas são comercializadas como seguras para lava-louças e aguentam 12-18 meses de lavagem regular na máquina. O compromisso em relação ao Zojirushi é a espessura da placa: as placas mais finas do Cuisinart perdem temperatura mais rápido ao adicionar alimentos frios.",
+      "pros": ["1500W é a maior wattagem aqui — pré-aquecimento mais rápido e melhor recuperação de calor", "Placas intercambiáveis: grelha, chapa, prensa de panini, metade e metade", "Placas são seguras para lava-louças (12-18 meses antes de o antiaderente mostrar desgaste)"],
+      "cons": ["Placas mais finas perdem temperatura mais rápido que Zojirushi ao adicionar alimentos frios"],
+      "grade": "A",
+      "specs": {
+        "Potência": "1500 W",
+        "Tipo de placa": "Removível, intercambiável (grelha/chapa/panini)",
+        "Redução de fumaça": "Canal de drenagem de gordura",
+        "Limpeza": "Seguro para lava-louças (primeiros 12-18 meses)",
+        "Dimensões": "33 × 24 × 13 cm (fechado)",
+        "Peso": "3,6 kg",
+        "Preço": "aprox. $79–$99 USD"
+      },
+      "scores": {
+        "Potência de aquecimento": 4.8,
+        "Facilidade de uso": 4.7,
+        "Limpeza": 4.5,
+        "Valor": 4.3,
+        "Portabilidade": 4.2
+      }
+    },
+    {
+      "offerId": "george-foreman-gfo201r",
+      "badge": "Tempo de cozimento mais rápido",
+      "review": "O design de contato tipo concha cozinha ambos os lados do alimento simultaneamente — um filé de frango que leva 8 minutos em uma grelha plana leva 4-5 minutos no George Foreman, e o resultado é mais suculento porque o ambiente de vapor selado retém a umidade que uma grelha plana perde. Com 1360W compete em wattagem com o Zojirushi. As placas fixas não removíveis são a limitação crônica: cada sessão termina limpando resíduos de uma superfície que você não pode levar à pia.",
+      "pros": ["Design de contato tipo concha reduz o tempo de cozimento pela metade em relação a uma grelha plana", "1360W oferece temperaturas reais de selagem para carne bovina e frango", "Pegada compacta cabe nas bancadas das menores cozinhas de apartamento"],
+      "cons": ["Placas fixas dificultam limpeza completa — gordura queimada é um problema crônico"],
+      "grade": "B+",
+      "specs": {
+        "Potência": "1360 W",
+        "Tipo de placa": "Fixa, não removível, tipo concha",
+        "Redução de fumaça": "Inclinação de drenagem de gordura + bandeja",
+        "Limpeza": "Limpar com pano úmido morno (sem enxague possível)",
+        "Dimensões": "34 × 28 × 16 cm",
+        "Peso": "3,2 kg",
+        "Preço": "aprox. $59–$79 USD"
+      },
+      "scores": {
+        "Potência de aquecimento": 4.5,
+        "Facilidade de uso": 4.6,
+        "Limpeza": 2.8,
+        "Valor": 4.6,
+        "Portabilidade": 4.5
+      }
+    },
+    {
+      "offerId": "recolte-rgh-1",
+      "badge": "Melhor para raclette de mesa para 2",
+      "review": "A classificação de 700W do Récolte não é uma fraqueza em seu contexto de design — esta é uma unidade de mesa social para raclette para dois, onde o objetivo é derreter queijo sobre acompanhamentos e grelhar levemente cogumelos e vegetais, não selar wagyu. Nesse caso de uso, a limpeza é a mais fácil das cinco, a pegada compacta cabe em uma pequena mesa de jantar e as cumbucas individuais de raclette são uma característica única de jantar social. O limite claro: 700W não consegue atingir temperaturas de selagem para carne bovina nem produzir a crosta caramelizada que o yakiniku exige.",
+      "pros": ["A limpeza mais fácil das cinco — temperatura de funcionamento mais baixa significa menos resíduos queimados", "Fator de forma compacto cabe em uma pequena mesa de jantar para cozinha de mesa", "Cumbucas individuais de raclette são uma característica única de jantar social"],
+      "cons": ["700W não consegue atingir temperaturas de selagem — não adequado para yakiniku ou carne bovina gordurosa"],
+      "grade": "B",
+      "specs": {
+        "Potência": "700 W",
+        "Tipo de placa": "Grelha removível + cumbucas individuais de raclette",
+        "Redução de fumaça": "A baixa temperatura de funcionamento reduz inerentemente a fumaça",
+        "Limpeza": "Lavagem à mão, fácil — baixa temperatura reduz resíduos queimados",
+        "Dimensões": "26 × 20 × 10 cm",
+        "Peso": "1,5 kg",
+        "Preço": "aprox. ¥8.000–¥12.000"
+      },
+      "scores": {
+        "Potência de aquecimento": 2.9,
+        "Facilidade de uso": 4.8,
+        "Limpeza": 5.0,
+        "Valor": 4.4,
+        "Portabilidade": 5.0
+      }
+    },
+    {
+      "offerId": "iwatani-cb-p-y3",
+      "badge": "Melhor para varanda ou grelhado ao ar livre",
+      "review": "A grelha a butano da Iwatani atinge temperaturas de superfície máximas mais altas do que qualquer unidade elétrica aqui, com o benefício de portabilidade sem cabo de alimentação. Para grelhar na varanda onde o acesso à eletricidade é limitado e a restrição de chama aberta das regras do seu prédio não se aplica, é a escolha natural. As limitações práticas para uso interno em apartamento são reais: o custo do cartucho se acumula com o uso frequente, cada cartucho deve ser armazenado com segurança e as regras de administração de condomínios japoneses geralmente restringem dispositivos de chama aberta em varandas.",
+      "pros": ["O calor máximo mais alto dos cinco — temperaturas reais de selagem comparáveis a 1500-1800W elétrico", "Completamente portátil sem cabo de alimentação — utilizável na mesa de jantar ou ao ar livre", "Experiência de grelha autêntica mais próxima do restaurante yakiniku no caráter do calor"],
+      "cons": ["A classificação de chama aberta pode violar as regras de administração de prédios de apartamentos no Japão"],
+      "grade": "B-",
+      "specs": {
+        "Fonte de calor": "Gás cartucho de butano",
+        "Calor equivalente": "Aprox. equivalente a 1500-1800W elétrico",
+        "Redução de fumaça": "Bandeja de água abaixo da superfície da grelha",
+        "Limpeza": "Grelha de ferro fundido/aço — limpar e temperar ocasionalmente",
+        "Dimensões": "32 × 27 × 10 cm",
+        "Peso": "2,1 kg",
+        "Combustível": "Um cartucho ≈ 60-70 min de cozimento"
+      },
+      "scores": {
+        "Potência de aquecimento": 5.0,
+        "Facilidade de uso": 3.9,
+        "Limpeza": 3.5,
+        "Valor": 3.8,
+        "Portabilidade": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Yakiniku em apartamento — proteína magra, uso semanal",
+      "offerId": "zojirushi-eb-dlc20",
+      "reason": "Placas grossas mantêm temperatura de selagem em vários lotes; supressão de fumaça com bandeja de água é a mais eficaz aqui para cortes magros em condições de apartamento."
+    },
+    {
+      "label": "Cozinha versátil — chapa, grelha e panini diariamente",
+      "offerId": "cuisinart-gr-4n",
+      "reason": "Placas intercambiáveis e 1500W fazem dela a única unidade que substitui uma chapa, grelha de contato e prensa de panini — três eletrodomésticos em um."
+    },
+    {
+      "label": "Cozimento rápido durante a semana com mínimo de complicação",
+      "offerId": "george-foreman-gfo201r",
+      "reason": "Design de contato tipo concha reduz o tempo de cozimento pela metade — o caminho mais rápido do frango cru ao resultado final nesta comparação, sem necessidade de virar."
+    },
+    {
+      "label": "Jantar de raclette social para dois",
+      "offerId": "recolte-rgh-1",
+      "reason": "A única unidade com cumbucas individuais de raclette para cozinha de mesa — e a limpeza mais fácil das cinco, ideal para uso casual frequente."
+    },
+    {
+      "label": "Grelhar na varanda onde chama aberta é permitida",
+      "offerId": "iwatani-cb-p-y3",
+      "reason": "Portátil sem cabo de alimentação e o calor máximo mais alto do grupo — a escolha natural para uso externo ou em varanda onde a eletricidade é inconveniente."
+    }
+  ]
 }

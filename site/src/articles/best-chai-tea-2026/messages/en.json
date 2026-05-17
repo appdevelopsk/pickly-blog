@@ -58,5 +58,64 @@
     "david-rio-elephant-vanilla-chai": "Powdered chai mix, vanilla-forward, 16 oz / 16-20 servings. $15-20. Most convenient format — dissolve in hot milk, no brewing or concentrate refrigeration. Correct for travel or minimal-effort chai with softer spice profile."
   },
   "pinDescription": "Chai tea 2026: Rishi Masala Chai vs Harney & Sons Hot Cinnamon Spice vs Oregon Chai concentrate — loose leaf vs tea bags vs concentrate explained, how to brew chai at home (stovetop method vs Western), caffeine content, and which chai is worth buying.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "rishi-masala-chai",
+      "badge": "Best Overall",
+      "review": "Rishi Masala Chai is the benchmark loose leaf masala chai — Assam base with cardamom pods, whole cinnamon chips, ginger, black pepper, and cloves brewed to a layered spice profile that tea bags can't replicate. Farm-direct sourcing shows in the malty, non-tannic tea base. The 30-second straining step is the only barrier, and it's worth it for serious chai drinkers.",
+      "pros": ["Whole spices produce layered aromatics unavailable in pre-ground tea bags", "Farm-direct Assam base — malty, complex, not bitter", "18–22 servings per bag — comparable cost to quality tea bags"],
+      "cons": ["Requires a strainer — one extra step vs. bags or concentrate"],
+      "grade": "A+",
+      "specs": {"Format": "Loose leaf", "Tea base": "Assam black tea", "Servings": "18–22 per 2.82 oz bag", "Dominant spice": "Cardamom", "Price per serving": "$0.60–0.80"},
+      "scores": {"Taste": 4.9, "Quality": 4.8, "Value": 4.2, "Convenience": 3.2, "Versatility": 4.5}
+    },
+    {
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "badge": "Best Spiced Black Tea",
+      "review": "Hot Cinnamon Spice is not a traditional masala chai — it's black tea with three types of cinnamon, orange peel, and sweet cloves. Understanding that distinction is important: if you want South Asian masala chai, this is the wrong product. If you want a warming, intensely cinnamon-forward spiced tea that cold-brews beautifully overnight in milk, it's one of the best in its category.",
+      "pros": ["Intensely cinnamon-forward — crowd-pleasing without spice complexity", "Excellent cold-brewed overnight in milk for next-morning iced chai", "50 bags per tin — strong value at $10–14"],
+      "cons": ["Not a traditional masala chai — no ginger, minimal cardamom"],
+      "grade": "A",
+      "specs": {"Format": "Tea bags (50 count)", "Tea base": "Black tea", "Dominant spice": "Triple cinnamon + orange peel + clove", "Price per bag": "$0.20–0.28", "Cold brew": "Yes — excellent"},
+      "scores": {"Taste": 4.7, "Quality": 4.5, "Value": 4.6, "Convenience": 4.8, "Versatility": 4.0}
+    },
+    {
+      "offerId": "tazo-chai-concentrate",
+      "badge": "Best Budget Concentrate",
+      "review": "Tazo Chai Concentrate is the budget-accessible way to make a chai latte at home — mix 1:1 with hot milk, done. The sweet-spiced result is consistent and approximates a coffee shop chai at a much lower cost. It's noticeably sweeter and less complex than loose leaf, but for a fast weekday morning drink, it delivers reliably.",
+      "pros": ["Widely available at mainstream grocery stores", "Consistent, predictable sweet-spiced flavor every time", "Low cost per serving at $5–8 per 32 oz"],
+      "cons": ["Less nuanced than loose leaf — spice depth is limited", "Higher sugar content than brewing from leaf or bags"],
+      "grade": "B+",
+      "specs": {"Format": "Liquid concentrate (32 oz)", "Mix ratio": "1:1 with milk", "Servings": "~16 per carton", "Price per serving": "$0.31–0.50", "Sugar": "Moderate (added cane sugar)"},
+      "scores": {"Taste": 3.9, "Quality": 3.6, "Value": 4.5, "Convenience": 4.9, "Versatility": 3.5}
+    },
+    {
+      "offerId": "oregon-chai-original-concentrate",
+      "badge": "Best Café Latte Replica",
+      "review": "Oregon Chai Original is the market-standard for chai latte concentrates — sweet, cardamom-forward, designed to taste like a Starbucks chai at home. At full 1:1 ratio the sweetness is prominent (15g sugar per serving); many users prefer 1:2 concentrate-to-milk for better balance. The Unsweetened version allows independent sweetener control for a more customizable cup.",
+      "pros": ["Most accurate coffee shop chai latte replication at home", "Widely available, including an unsweetened version", "Cardamom-forward spice profile preferred by latte drinkers"],
+      "cons": ["15g sugar per serving at standard ratio — adjust with the unsweetened version"],
+      "grade": "B",
+      "specs": {"Format": "Liquid concentrate (32 oz)", "Mix ratio": "1:1 with milk (or 1:2 for less sweet)", "Servings": "~16 per carton", "Sugar": "15g per serving (standard)", "Unsweetened": "Available"},
+      "scores": {"Taste": 4.1, "Quality": 3.7, "Value": 4.3, "Convenience": 4.9, "Versatility": 3.8}
+    },
+    {
+      "offerId": "david-rio-elephant-vanilla-chai",
+      "badge": "Most Convenient Format",
+      "review": "David Rio Elephant Vanilla Chai powder is the least fussy chai format: scoop into hot milk, stir, done — no brewing, no refrigerated concentrate, no steaming. The vanilla-forward profile is softer and sweeter than traditional masala chai, which makes it accessible but not authentic. Ideal for travel, office use, or anyone who wants a chai-adjacent drink with zero setup.",
+      "pros": ["Zero prep — dissolves directly in hot milk", "No refrigeration needed — travel and office friendly", "Softer, vanilla-forward spice profile suits beginners"],
+      "cons": ["Least authentic masala chai flavor — vanilla dominates traditional spice balance"],
+      "grade": "B-",
+      "specs": {"Format": "Powder (16 oz)", "Servings": "16–20 per bag", "Dominant flavor": "Vanilla", "Prep method": "Dissolve in hot milk/water", "Price per serving": "$0.75–1.25"},
+      "scores": {"Taste": 4.0, "Quality": 3.5, "Value": 3.8, "Convenience": 5.0, "Versatility": 3.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For traditional masala chai drinkers", "offerId": "rishi-masala-chai", "reason": "Whole-spice loose leaf with genuine Assam base — the only option here that produces a cup close to South Asian chai tradition."},
+    {"label": "For cold-brew iced chai fans", "offerId": "harney-sons-hot-cinnamon-spice", "reason": "Intensely cinnamon-forward and beautiful when cold-brewed overnight in milk — produces a naturally sweet, smooth iced chai."},
+    {"label": "For quick weekday chai lattes", "offerId": "tazo-chai-concentrate", "reason": "Cheapest, most available concentrate — mix with hot milk in 60 seconds."},
+    {"label": "For replicating coffee shop chai", "offerId": "oregon-chai-original-concentrate", "reason": "The cardamom-sweet profile is closest to what café chai lattes taste like — use 1:2 if the standard ratio is too sweet."},
+    {"label": "For travel and zero-prep situations", "offerId": "david-rio-elephant-vanilla-chai", "reason": "Powder dissolves in any hot milk — no refrigeration, no brewing, works anywhere."}
+  ]
 }

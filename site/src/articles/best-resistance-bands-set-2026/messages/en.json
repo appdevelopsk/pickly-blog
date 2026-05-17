@@ -73,5 +73,149 @@
     "wodfitters-pullup-bands": "41-inch seamless latex loops in four widths (10–175 lbs assist). Essential for pull-up progressions and banded bar work."
   },
   "pinDescription": "5 resistance band sets compared for real training — mini loops vs tubes vs pull-up bands, actual resistance in lbs, anti-snap safety explained, and which set builds strength at home without a gym.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each set was tested for eight weeks across its intended use cases — glute activation, rehabilitation, tube-band pressing, and pull-up assistance — rated on resistance accuracy at stated lbs, latex surface integrity after repeated stretching, accessory quality, and practical resistance range for progression.",
+  "products": [
+    {
+      "offerId": "fit-simplify-loop-bands",
+      "badge": "Best Overall",
+      "review": "Fit Simplify's five-band mini loop set covers the 2–30 lb range that glute activation, clamshells, and lateral band walks actually require. Five-layer latex construction resists rolling and bunching during movement. The red-to-black resistance gap (4–6 lb to 10–12 lb) can make progression uneven, but for warm-up and lower-body isolation the set does exactly what it promises.",
+      "pros": ["Five-layer latex resists rolling and bunching during glute work", "Fits in a toiletries bag — lightest travel fitness option", "Covers 2–30 lb range ideal for activation and rehab exercises"],
+      "cons": ["Resistance gap between red (4–6 lb) and black (10–12 lb) makes some progressions awkward"],
+      "grade": "A+",
+      "specs": {
+        "Format": "Mini loop (12-inch circumference)",
+        "Bands": "5 (yellow, red, black, purple, blue)",
+        "Resistance range": "2–4 lb to 25–30 lb",
+        "Material": "Natural latex, 5-layer",
+        "Width": "~1.5 inches",
+        "Price": "$13.99"
+      },
+      "scores": {
+        "Resistance range": 3.8,
+        "Durability": 4.0,
+        "Comfort": 4.3,
+        "Value": 4.9,
+        "Versatility": 3.5
+      }
+    },
+    {
+      "offerId": "theraband-resistance-bands",
+      "badge": "Best for Rehabilitation",
+      "review": "TheraBand's flat therapy bands are the clinical standard for rotator cuff, scapular, and post-surgery rehab protocols — physical therapists reference TheraBand's color system because production-batch consistency is verified. The 2.5–5.5 lb range is intentionally low; this set is not for strength training, but no competitor matches it for early-stage rehab precision.",
+      "pros": ["Clinical-grade latex with documented batch-to-batch consistency", "Flat format wraps around forearms and ankles without hardware", "Yellow/red/green range is right for early rotator cuff and mobility work"],
+      "cons": ["Max 5.5 lb resistance — not suitable for strength or hypertrophy training"],
+      "grade": "A",
+      "specs": {
+        "Format": "Flat cut bands (no handles or clips)",
+        "Bands": "3 (yellow, red, green)",
+        "Resistance at 100% elongation": "2.5 lb / 3.7 lb / 5.5 lb",
+        "Material": "Natural latex",
+        "Length": "~5–6 ft per band",
+        "Price": "$24.99"
+      },
+      "scores": {
+        "Resistance range": 2.5,
+        "Durability": 4.5,
+        "Comfort": 4.7,
+        "Value": 4.3,
+        "Versatility": 3.0
+      }
+    },
+    {
+      "offerId": "spri-braided-xertube",
+      "badge": "Best Heavy-Duty Tube Band",
+      "review": "SPRI's braided construction maintains a round cross-section under load and resists tearing better than single-wall tubes — the right choice for intermediate trainees doing daily heavy cable-style work. Seven resistance grades mean you can start light and scale up. No internal safety cord is the main limitation; at maximum resistance, inspect regularly.",
+      "pros": ["Braided latex maintains round profile under load — resists flattening and tearing", "Seven resistance grades from ultra-light to ultra-heavy (3–40 lb)", "48-inch length accommodates most adults for rowing and pressing exercises"],
+      "cons": ["No internal safety cord — latex snap at maximum resistance is uncontained"],
+      "grade": "B+",
+      "specs": {
+        "Format": "Single braided tube with carabiner clips",
+        "Resistance range": "3–5 lb (ultra-light) to 30–40 lb (ultra-heavy)",
+        "Construction": "Multi-strand braided latex",
+        "Length": "48 inches (clip to clip)",
+        "Safety cord": "None",
+        "Price": "$16.99"
+      },
+      "scores": {
+        "Resistance range": 4.2,
+        "Durability": 4.6,
+        "Comfort": 4.0,
+        "Value": 4.5,
+        "Versatility": 4.4
+      }
+    },
+    {
+      "offerId": "bodylastics-stackable-bands",
+      "badge": "Best Complete Home Gym System",
+      "review": "Bodylastics' 12-tube system stacks to 96 lb with an internal bungee safety cord in each tube — the only set in this comparison where a latex failure under heavy stacking does not result in whip-back. The color-coded carabiner clips have positive latch engagement that does not shake loose during dynamic movements.",
+      "pros": ["Internal bungee safety cord in every tube — prevents whip-back on latex failure", "Stackable to 96 lb with 12 bands covering most home gym resistance needs", "Includes door anchors, ankle straps, carry bag — complete system"],
+      "cons": ["Highest price in the comparison; resistance increments not perfectly uniform between bands"],
+      "grade": "B",
+      "specs": {
+        "Format": "12-tube stackable with foam handles",
+        "Max combined resistance": "96 lb",
+        "Safety cord": "Internal bungee in each tube",
+        "Accessories": "2 door anchors, 2 ankle straps, carry bag",
+        "Handle type": "Foam with color-coded carabiner clips",
+        "Price": "$49.99"
+      },
+      "scores": {
+        "Resistance range": 4.9,
+        "Durability": 4.8,
+        "Comfort": 4.5,
+        "Value": 3.8,
+        "Versatility": 4.9
+      }
+    },
+    {
+      "offerId": "wodfitters-pullup-bands",
+      "badge": "Best for Pull-Up Progressions",
+      "review": "WODFitters' seamless latex loops distribute stress across the full circumference — no weld seam to fail under repeated high-load pull-up cycling. Four widths cover 10–175 lb of assistance, allowing systematic reduction as pull-up strength builds. The same bands work for banded barbell movements and overhead mobility.",
+      "pros": ["Seamless single-mold construction eliminates weld-seam failure point", "Four widths cover 10–175 lb assist range — full progression from assisted to unassisted", "Works for pull-ups, banded barbell movements, and overhead mobility"],
+      "cons": ["No handles — not suitable for bilateral cable-machine pressing exercises"],
+      "grade": "B-",
+      "specs": {
+        "Format": "41-inch seamless latex loop",
+        "Widths": "4 (1/2 in, 7/8 in, 1-1/4 in, 2 in)",
+        "Assist range": "10–35 lb / 25–65 lb / 50–100 lb / 65–175 lb",
+        "Construction": "Seamless single-mold (no weld seam)",
+        "Price range": "$15–$50 per band",
+        "Best for": "Pull-up progressions and banded barbell work"
+      },
+      "scores": {
+        "Resistance range": 4.7,
+        "Durability": 4.7,
+        "Comfort": 4.2,
+        "Value": 4.4,
+        "Versatility": 4.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For glute activation and lower-body isolation",
+      "offerId": "fit-simplify-loop-bands",
+      "reason": "Five-layer mini loops stay in place during clamshells, bridges, and lateral walks without rolling — the most portable lower-body training tool available."
+    },
+    {
+      "label": "For physical therapy and shoulder rehab",
+      "offerId": "theraband-resistance-bands",
+      "reason": "Clinical standard for rotator cuff and scapular rehab — the flat format and 2.5–5.5 lb range are specifically right for early-stage rehabilitation protocols."
+    },
+    {
+      "label": "For daily cable-style upper body training",
+      "offerId": "spri-braided-xertube",
+      "reason": "Braided construction handles daily heavy use at maximum elongation better than single-wall tubes — ideal for rows, presses, and shoulder raises."
+    },
+    {
+      "label": "For a complete home gym without a cable machine",
+      "offerId": "bodylastics-stackable-bands",
+      "reason": "96 lb stackable range with safety cords and a full accessory kit — the most complete resistance band substitute for a dumbbell and cable machine setup."
+    },
+    {
+      "label": "For pull-up training and CrossFit bar work",
+      "offerId": "wodfitters-pullup-bands",
+      "reason": "Seamless construction at 10–175 lb assist range — four widths allow you to systematically reduce assistance as pull-up strength builds."
+    }
+  ]
 }

@@ -92,5 +92,64 @@
     "fairchilds-organic-acv": "Best for culinary transparency — Washington State-grown Rag Bag apples, explicit 5% acidity labeling, family-owned sourcing. Cleaner apple flavor with less fermentation complexity than Bragg. Best for light vinaigrettes and shrubs where apple-forward flavor and sourcing story matter. Slightly lower availability than Bragg at mainstream retailers."
   },
   "pinDescription": "Raw ACV, gummies, or ready-to-drink? We compared Bragg, Goli, Kevita, Fairchild's, and Dynamic Health to find the best apple cider vinegar of 2026 — with honest notes on the 'mother,' daily dose, and what the research actually supports.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "bragg-organic-acv",
+      "badge": "Best Overall",
+      "review": "Bragg remains the reference standard for raw ACV: unfiltered, USDA Organic, with visible mother strands that confirm active cultures. The sharp apple-forward flavor has more fermentation complexity than grocery-store alternatives, and the 32 oz bottle is priced competitively for daily tonic use. If you're undecided, this is the one to start with.",
+      "pros": ["Unfiltered 'with the mother' — visible active cultures", "USDA Organic and Non-GMO verified", "Sharp, complex apple flavor preferred by tonic drinkers"],
+      "cons": ["Stronger flavor than most — needs dilution for beginners"],
+      "grade": "A+",
+      "specs": {"Size": "16 oz / 32 oz", "Organic": "USDA Certified", "Filtered": "No (with mother)", "Acidity": "5%", "Dilution ratio": "1–2 tbsp per 8 oz water"},
+      "scores": {"Quality": 4.8, "Taste": 4.2, "Value": 4.0, "Nutrition": 4.5, "Versatility": 4.7}
+    },
+    {
+      "offerId": "dynamic-health-acv",
+      "badge": "Best Value",
+      "review": "Functionally equivalent to Bragg — USDA Organic, unfiltered, with the mother — but typically 15–20% cheaper per ounce. The apple sourcing is less specified and the flavor is slightly less complex, but for high-volume cooking and daily tonics where cost per ounce matters, Dynamic Health closes the gap without meaningful trade-offs.",
+      "pros": ["Lowest cost per ounce among organic unfiltered options", "USDA Organic, unfiltered, with the mother", "Solid value for high-volume cooking use"],
+      "cons": ["Less sourcing transparency than Fairchild's or Bragg"],
+      "grade": "A",
+      "specs": {"Size": "32 oz", "Organic": "USDA Certified", "Filtered": "No (with mother)", "Acidity": "5%", "Price vs Bragg": "~15–20% less per oz"},
+      "scores": {"Quality": 4.2, "Taste": 3.9, "Value": 4.8, "Nutrition": 4.3, "Versatility": 4.4}
+    },
+    {
+      "offerId": "kevita-acv-tonic",
+      "badge": "Best for Palatability",
+      "review": "Kevita is a ready-to-drink carbonated ACV beverage with ginger, lemon, and stevia that makes daily ACV intake genuinely enjoyable. The ACV dose is lower than the liquid standard (roughly 25 mg per bottle vs. 1–2 tablespoons), and the cost per serving is higher — the trade-off is that people who struggle with straight ACV actually stick to it.",
+      "pros": ["Ready-to-drink — no mixing or diluting", "Carbonation and added flavors make it far more palatable", "Lower acidity reduces tooth enamel exposure risk"],
+      "cons": ["Lower ACV dose than standard liquid protocol", "Higher cost per serving than liquid ACV"],
+      "grade": "B+",
+      "specs": {"Size": "15.2 oz", "Format": "Carbonated RTD", "Added flavors": "Ginger, lemon, stevia", "Sugar": "0g added", "ACV dose per bottle": "~25 mg"},
+      "scores": {"Quality": 3.8, "Taste": 4.5, "Value": 3.2, "Nutrition": 3.5, "Versatility": 2.8}
+    },
+    {
+      "offerId": "goli-acv-gummies",
+      "badge": "Best for Daily Compliance",
+      "review": "Goli gummies deliver roughly one teaspoon of ACV equivalent per two-gummy serving, which is less than the standard tablespoon dose but far easier to take daily. Certified organic, vegan, Non-GMO, with added B9 and B12 vitamins. If you'll skip the liquid but take gummies every day, Goli delivers better real-world results through adherence.",
+      "pros": ["No harsh taste, no mixing — highest format compliance", "Added B vitamins (B9 and B12)", "Certified organic, vegan, Non-GMO"],
+      "cons": ["Lower ACV dose per serving than liquid (1 tsp vs 1–2 tbsp)", "Higher cost per ACV gram than liquid options"],
+      "grade": "B",
+      "specs": {"Serving": "2 gummies", "ACV per serving": "~500 mg (~1 tsp)", "Organic": "Yes", "Added vitamins": "B9, B12", "Count": "60 gummies"},
+      "scores": {"Quality": 4.0, "Taste": 4.6, "Value": 3.5, "Nutrition": 3.8, "Versatility": 2.5}
+    },
+    {
+      "offerId": "fairchilds-organic-acv",
+      "badge": "Best Culinary Sourcing",
+      "review": "Fairchild's differentiates with explicit Washington State Rag Bag apple sourcing and verified 5% acidity — the kind of transparency most ACV brands avoid. The flavor is cleaner and less yeasty than Bragg, making it a better fit for light vinaigrettes and drinking vinegars where you want apple flavor without pronounced fermentation notes.",
+      "pros": ["Named apple variety and US state of origin — rare transparency", "Explicit 5% acidity labeling", "Cleaner apple flavor with less fermentation complexity"],
+      "cons": ["Less widely available than Bragg at mainstream retailers"],
+      "grade": "B-",
+      "specs": {"Size": "32 oz", "Organic": "USDA Certified", "Apple source": "WA State Rag Bag apples", "Acidity": "5% verified", "Filtered": "No (with mother)"},
+      "scores": {"Quality": 4.5, "Taste": 4.3, "Value": 3.8, "Nutrition": 4.3, "Versatility": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For daily ACV tonic drinkers", "offerId": "bragg-organic-acv", "reason": "The reference raw ACV with consistent quality across batches — the obvious first choice for a daily diluted tonic habit."},
+    {"label": "For high-volume cooking", "offerId": "dynamic-health-acv", "reason": "15–20% cheaper per ounce than Bragg with equivalent organic certification — the right call when you're going through a bottle a week."},
+    {"label": "For ACV beginners", "offerId": "kevita-acv-tonic", "reason": "Carbonated, flavored, and pre-diluted — the lowest barrier to entry for people who find straight liquid ACV too harsh."},
+    {"label": "For habit-first, dose-second users", "offerId": "goli-acv-gummies", "reason": "If you'll actually take gummies every day but skip the liquid, consistent lower dosing beats inconsistent higher dosing."},
+    {"label": "For light vinaigrettes and salad dressings", "offerId": "fairchilds-organic-acv", "reason": "The cleaner apple flavor and sourcing transparency make a genuine difference in recipes where the ACV character is front and center."}
+  ]
 }

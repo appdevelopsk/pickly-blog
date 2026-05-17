@@ -58,5 +58,184 @@
     "harney-sons-dragon-well": "Dragon Well chino (Longjing) hoja suelta, 4oz. $12-18. El mejor té verde chino — tostado en wok, dulce-tostado, menos vegetal que los tés verdes japoneses. Correcto para bebedores que encuentran el té verde japonés demasiado intensamente salado."
   },
   "pinDescription": "Té verde 2026: sencha japonés vs gyokuro vs genmaicha vs Dragon Well chino — por qué la temperatura importa (nunca agua hirviendo), el cultivo a la sombra explicado, cómo preparar té verde frío, y el mejor té verde para beber a diario 2026. #téverde #Japón #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada té fue evaluado por complejidad de sabor, transparencia y trazabilidad de origen, valor por gramo, indicadores de frescura, integridad del empaque y adecuación a distintos métodos de preparación incluyendo infusión caliente, infusión en frío y reinfusión.",
+  "products": [
+    {
+      "offerId": "ippodo-sencha-ummon",
+      "badge": "Mejor opción general",
+      "review": "El Sencha Ummon de Ippodo es el sencha de calidad de referencia en esta comparación — verde brillante, herbáceo y limpio con abastecimiento directo de Uji desde la tienda de té más antigua de Japón. A $18–25 por 80g cuesta más que el sencha de supermercado, pero la consistencia de calidad es excepcional. Requiere agua a 70–75°C; el agua hirviendo saca amargor.",
+      "pros": [
+        "Abastecimiento directo de Uji desde la tienda de té más antigua de Japón, fundada en 1717",
+        "Verde brillante y limpio con calidad consistente lote a lote",
+        "Se puede re-infusionar 2–3 veces con las mismas hojas"
+      ],
+      "cons": [
+        "Requiere control de temperatura — el agua hirviendo arruina la taza"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Origen": "Uji, Japón",
+        "Peso": "80g",
+        "Precio": "~$18–25",
+        "Temp. infusión": "70–75°C",
+        "Tiempo": "1 min",
+        "Estilo": "Sencha hojas sueltas",
+        "Re-infusiones": "2–3x"
+      },
+      "scores": {
+        "Flavor": 4.8,
+        "Quality": 4.9,
+        "Value": 4.1,
+        "Versatility": 4.3,
+        "Freshness": 4.9
+      }
+    },
+    {
+      "offerId": "harney-sons-japanese-sencha",
+      "badge": "Mejor accesible",
+      "review": "El Sencha Japonés Harney & Sons es la opción cotidiana práctica — vendido en Whole Foods, a $8–12, y consistentemente bueno para uso diario. La versión de hoja suelta supera notablemente a la versión en bolsas por mejor corte de hoja. Claramente un paso por debajo de Ippodo en complejidad, pero una sólida introducción al sencha japonés sin precios de tienda especializada.",
+      "pros": [
+        "Disponible en Whole Foods y ampliamente en línea",
+        "La versión de hoja suelta entrega buena calidad cotidiana a $8–12",
+        "Punto de entrada accesible al sencha japonés sin pedidos especializados"
+      ],
+      "cons": [
+        "Menos complejo que Ippodo — perfil de sabor notablemente más simple"
+      ],
+      "grade": "A",
+      "specs": {
+        "Origen": "Japón",
+        "Peso": "115g / 20 bolsas",
+        "Precio": "~$8–12",
+        "Temp. infusión": "75–80°C",
+        "Tiempo": "1–2 min",
+        "Estilo": "Sencha suelto o bolsas",
+        "Disponibilidad": "Whole Foods"
+      },
+      "scores": {
+        "Flavor": 4.2,
+        "Quality": 4.1,
+        "Value": 4.7,
+        "Versatility": 4.4,
+        "Freshness": 4.2
+      }
+    },
+    {
+      "offerId": "two-leaves-genmaicha",
+      "badge": "Mejor para principiantes",
+      "review": "El Genmaicha de Two Leaves mezcla sencha con arroz tostado, y esa capa tostada-avellanada es exactamente lo que lo hace accesible para los recién llegados al té verde — el arroz tostado compensa la herbosidad y hace la taza menos intensamente vegetal. Más tolerante a 80°C que el sencha puro. Mejor té de entrada para bebedores que pasan del té negro.",
+      "pros": [
+        "El arroz tostado compensa la herbosidad del té verde puro",
+        "Temperatura de infusión más tolerante (80°C) que el sencha puro",
+        "Opción de bajo contenido de cafeína — el arroz diluye el té"
+      ],
+      "cons": [
+        "Perfil de sabor menos refinado que el sencha puro de alta calidad"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Origen": "Japón",
+        "Peso": "85g",
+        "Precio": "~$8–14",
+        "Temp. infusión": "80°C",
+        "Tiempo": "1–2 min",
+        "Estilo": "Genmaicha hojas sueltas",
+        "Cafeína": "Menor que sencha puro"
+      },
+      "scores": {
+        "Flavor": 4.0,
+        "Quality": 4.0,
+        "Value": 4.5,
+        "Versatility": 4.6,
+        "Freshness": 4.0
+      }
+    },
+    {
+      "offerId": "ippodo-gyokuro",
+      "badge": "Mejor premium",
+      "review": "El Gyokuro de Ippodo está en la cima del té verde japonés — cultivado a la sombra en Uji, infusionado a 50–60°C, y la taza resultante es intensamente dulce-umami, casi como un caldo. No es un té casual para todos los días: requiere hervidor de temperatura controlada y paciencia. Para quien quiera entender por qué la cultura del té japonés eleva el gyokuro sobre todo lo demás, una infusión es instructiva.",
+      "pros": [
+        "El cultivo a la sombra concentra la L-teanina para intensa dulzura umami",
+        "Re-infusiona 3+ veces — económico a pesar del alto precio por gramo",
+        "Sabor incomparable — nada más sabe como un gyokuro de calidad"
+      ],
+      "cons": [
+        "Requiere control de temperatura a 50–60°C y técnica de infusión precisa"
+      ],
+      "grade": "B",
+      "specs": {
+        "Origen": "Uji, Japón",
+        "Peso": "40g",
+        "Precio": "~$28–50",
+        "Temp. infusión": "50–60°C",
+        "Tiempo": "90 seg",
+        "Estilo": "Gyokuro cultivado a la sombra",
+        "Re-infusiones": "3+"
+      },
+      "scores": {
+        "Flavor": 4.9,
+        "Quality": 4.9,
+        "Value": 3.5,
+        "Versatility": 3.0,
+        "Freshness": 4.8
+      }
+    },
+    {
+      "offerId": "harney-sons-dragon-well",
+      "badge": "Mejor té verde chino",
+      "review": "El Dragon Well (Longjing) de Harney & Sons es el mejor té verde chino en esta comparación — tostado en sartén, dulce-avellanado y notablemente menos vegetal que el sencha japonés. Ideal para quienes encuentran los tés verdes japoneses demasiado intensamente sabrosos o herbáceos. Se prepara bien a 80–85°C y es más tolerante que el gyokuro.",
+      "pros": [
+        "El tostado en sartén crea carácter dulce-avellanado distinto de los tés verdes japoneses",
+        "Menos vegetal y más accesible para quienes están empezando con té verde",
+        "Se infusiona a 80–85°C, más tolerante"
+      ],
+      "cons": [
+        "Mayor precio por gramo que el sencha Harney para un nivel de calidad similar"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Origen": "Hangzhou, China",
+        "Peso": "115g",
+        "Precio": "~$12–38",
+        "Temp. infusión": "80–85°C",
+        "Tiempo": "2 min",
+        "Estilo": "Dragon Well hojas sueltas",
+        "Procesado": "Tostado en sartén"
+      },
+      "scores": {
+        "Flavor": 4.3,
+        "Quality": 4.2,
+        "Value": 3.8,
+        "Versatility": 4.5,
+        "Freshness": 4.1
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para aficionados serios al té verde",
+      "offerId": "ippodo-sencha-ummon",
+      "reason": "Abastecimiento directo de Uji con excepcional consistencia de lote desde la tienda de té más antigua de Japón"
+    },
+    {
+      "label": "Para sencha accesible del día a día",
+      "offerId": "harney-sons-japanese-sencha",
+      "reason": "Buena calidad a $8–12, disponible en Whole Foods sin pedido especializado"
+    },
+    {
+      "label": "Para principiantes en té verde",
+      "offerId": "two-leaves-genmaicha",
+      "reason": "El arroz tostado reduce la herbosidad y hace la taza accesible para bebedores de té negro"
+    },
+    {
+      "label": "Para la experiencia premium de té japonés",
+      "offerId": "ippodo-gyokuro",
+      "reason": "Gyokuro de Uji cultivado a la sombra con intensa dulzura umami incomparable"
+    },
+    {
+      "label": "Para quienes encuentran el té japonés demasiado vegetal",
+      "offerId": "harney-sons-dragon-well",
+      "reason": "Longjing chino tostado en sartén con carácter dulce-avellanado y menos herbáceo"
+    }
+  ]
 }

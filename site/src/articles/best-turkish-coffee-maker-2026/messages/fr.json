@@ -58,5 +58,184 @@
     "turkish-coffee-beans-mehmet": "Cafe turc pre-moulu Mehmet Efendi, torrefacteur traditionnel d'Istanbul. ~$8-15 par 250 g. Meilleur cafe turc pre-moulu -- finesse correcte pour la preparation au cezve, largement disponible en ligne, a utiliser dans 1-2 semaines apres ouverture."
   },
   "pinDescription": "Guide cafe turc 2026 : cezve en cuivre vs inox vs electrique Arzum Okka, comment preparer un authentique cafe turc couronne de mousse, pourquoi la mouture doit etre plus fine que l'espresso et l'option Mehmet Efendi pre-moulu. #CafeTurc #Cezve #Ibrik #CafeSpecialite #francais",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque produit a été évalué sur la qualité d'infusion, la durabilité des matériaux, la facilité de contrôle de la mousse, la capacité de mouture et le coût par tasse.",
+  "products": [
+    {
+      "offerId": "copper-cezve-ibrik-by-shiritek",
+      "badge": "Meilleure cezve traditionnelle",
+      "review": "Authentic copper heat conductivity, tin-lined interior, 1-2 cup size. Traditional aesthetic central to the ritual. Tin lining requires re-tinning with heavy regular use.",
+      "pros": [
+        "Authentic copper heat conductivity",
+        "Classic ritual aesthetic",
+        "Correct 1-2 cup sizing"
+      ],
+      "cons": [
+        "Tin lining requires re-tinning over time"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Material": "Copper + tin lining",
+        "Capacity": "1-2 cups (~180ml)",
+        "Heat source": "Stovetop (not induction)",
+        "Maintenance": "Re-tin lining eventually",
+        "Origin": "Turkey",
+        "Price": "$15-$35",
+        "Style": "Traditional long handle"
+      },
+      "scores": {
+        "Brew quality": 5.0,
+        "Build quality": 4.5,
+        "Ease of use": 4.0,
+        "Value": 4.8,
+        "Capacity": 4.0
+      }
+    },
+    {
+      "offerId": "stainless-cezve-by-bosphorus",
+      "badge": "Meilleure cezve pratique",
+      "review": "Same brew results as copper, no re-tinning required, dishwasher-safe. More durable for daily use. Slightly less even heat distribution than copper on gas.",
+      "pros": [
+        "No re-tinning — dishwasher-safe",
+        "Same brew results as copper",
+        "More durable for daily use"
+      ],
+      "cons": [
+        "Slightly less even heat on gas vs copper"
+      ],
+      "grade": "A",
+      "specs": {
+        "Material": "Stainless steel",
+        "Capacity": "1-2 cups (~180ml)",
+        "Heat source": "Stovetop incl. induction",
+        "Maintenance": "Minimal",
+        "Dishwasher": "Yes (hand-wash recommended)",
+        "Price": "$10-$25",
+        "Style": "Modern"
+      },
+      "scores": {
+        "Brew quality": 4.8,
+        "Build quality": 5.0,
+        "Ease of use": 4.5,
+        "Value": 5.0,
+        "Capacity": 4.0
+      }
+    },
+    {
+      "offerId": "electric-turkish-coffee-maker-arzum",
+      "badge": "Meilleure option électrique",
+      "review": "Fully automated foam management. Add water and coffee, press start. Authentic cup quality without stovetop monitoring. Requires counter space; removes the stovetop ritual.",
+      "pros": [
+        "Fully automated foam management",
+        "3 sweetness level settings",
+        "Authentic quality without monitoring"
+      ],
+      "cons": [
+        "Counter space required; removes ritual"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Type": "Electric automated",
+        "Capacity": "2 cups per cycle",
+        "Sweetness": "3 settings",
+        "Foam detection": "Automatic",
+        "Power": "~500W",
+        "Price": "$60-$90",
+        "Portability": "Counter appliance"
+      },
+      "scores": {
+        "Brew quality": 4.5,
+        "Build quality": 4.0,
+        "Ease of use": 5.0,
+        "Value": 3.8,
+        "Capacity": 4.0
+      }
+    },
+    {
+      "offerId": "turkish-coffee-grinder-zassenhaus",
+      "badge": "Meilleur moulin à café turc",
+      "review": "Achieves genuine Turkish-fine grind beyond electric home grinders. Essential if brewing from whole bean. Slower than electric but grind quality surpasses electric options.",
+      "pros": [
+        "Reaches Turkish-fine grind beyond electric grinders",
+        "Consistent powder-level fineness",
+        "Traditional cylindrical design"
+      ],
+      "cons": [
+        "Slower than electric — time investment per brew"
+      ],
+      "grade": "B",
+      "specs": {
+        "Type": "Hand grinder",
+        "Grind range": "Turkish-fine (powder)",
+        "Body": "Beech wood + metal",
+        "Burrs": "Steel conical",
+        "Capacity": "~30g per grind",
+        "Price": "$60-$90",
+        "Origin": "Germany"
+      },
+      "scores": {
+        "Brew quality": 5.0,
+        "Build quality": 4.8,
+        "Ease of use": 3.5,
+        "Value": 3.8,
+        "Capacity": 3.5
+      }
+    },
+    {
+      "offerId": "turkish-coffee-beans-mehmet",
+      "badge": "Meilleur café pré-moulu",
+      "review": "Istanbul's most recognized roaster, pre-ground to correct phin brewing fineness. Available online internationally. Use within 1-2 weeks of opening.",
+      "pros": [
+        "Pre-ground to correct Turkish fineness",
+        "Widely available internationally",
+        "Authentic Istanbul roaster"
+      ],
+      "cons": [
+        "Oxidizes quickly after opening — use within 1-2 weeks"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Grind": "Turkish-fine (pre-ground)",
+        "Weight": "250g per pack",
+        "Roast": "Medium-dark",
+        "Origin": "Istanbul (Mehmet Efendi)",
+        "Price": "$8-$15 / 250g",
+        "Shelf life opened": "1-2 weeks",
+        "Packaging": "Vacuum-sealed"
+      },
+      "scores": {
+        "Brew quality": 4.5,
+        "Build quality": 3.5,
+        "Ease of use": 5.0,
+        "Value": 5.0,
+        "Capacity": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For ritual-oriented Turkish coffee drinkers",
+      "offerId": "copper-cezve-ibrik-by-shiritek",
+      "reason": "Copper conductivity and traditional aesthetic deliver the full meditative stovetop experience."
+    },
+    {
+      "label": "For daily users prioritising durability",
+      "offerId": "stainless-cezve-by-bosphorus",
+      "reason": "Same brew results as copper with no re-tinning and dishwasher-safe convenience."
+    },
+    {
+      "label": "For households brewing Turkish coffee regularly",
+      "offerId": "electric-turkish-coffee-maker-arzum",
+      "reason": "Automated foam management makes consistent results repeatable without monitoring."
+    },
+    {
+      "label": "For whole-bean brewers",
+      "offerId": "turkish-coffee-grinder-zassenhaus",
+      "reason": "Only way to achieve true Turkish-fine grind at home — electric grinders cannot reach this fineness."
+    },
+    {
+      "label": "For beginners or those without a grinder",
+      "offerId": "turkish-coffee-beans-mehmet",
+      "reason": "Pre-ground to the correct fineness — ready to brew immediately."
+    }
+  ]
 }

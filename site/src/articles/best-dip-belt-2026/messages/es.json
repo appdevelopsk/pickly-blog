@@ -77,5 +77,64 @@
     "mummyfit-dip-belt": "Opción económica de neopreno, cadena de 36\""
   },
   "pinDescription": "Estos 5 cinturones de fondos cubren cada nivel de entrenamiento — desde tus primeros 10 kg hasta trabajo serio de dominadas y fondos con carga. Cuero, neopreno o nailon económico — esto es lo que realmente aguanta #fondos #dominadas #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada cinturón fue evaluado por longitud de cadena, calibre del hardware, comodidad del material de acolchado bajo carga, capacidad de peso y durabilidad a largo plazo según la construcción del material — no según las afirmaciones del fabricante.",
+  "products": [
+    {
+      "offerId": "rogue-dip-belt",
+      "badge": "El mejor en general",
+      "review": "Fabricado en EE.UU. con correa de nailon de 10mm, almohadilla de cuero de 3 pulgadas y mosquetón certificado. Bajo cargas pesadas — 40 kg y más — el cuero distribuye la carga sobre los huesos de la cadera en lugar de presionar, y el hardware mantiene su forma. La durabilidad es real: costuras y cadena superan a los cinturones baratos por años.",
+      "pros": ["Fabricado en EE.UU., doble costura en todos los puntos de tensión", "La almohadilla de cuero se moldea al cuerpo con el tiempo", "Mosquetón certificado resiste cargas pesadas sin deformarse"],
+      "cons": ["El cuero es rígido en las primeras sesiones hasta ablandarse"],
+      "grade": "A+",
+      "specs": {"Material": "Correa nailon 10mm + almohadilla cuero", "Longitud cadena": "61 cm acero", "Ancho almohadilla": "7,5 cm", "Hardware": "Mosquetón acero certificado", "Origen": "EE.UU."},
+      "scores": {"Calidad construcción": 5.0, "Durabilidad": 5.0, "Comodidad": 4.5, "Capacidad carga": 5.0, "Valor": 4.0}
+    },
+    {
+      "offerId": "dark-iron-fitness-dip-belt",
+      "badge": "Mejor cuero económico",
+      "review": "Cuero genuino con almohadilla de 15 cm — más ancha que la Rogue — hace los fondos con peso especialmente más cómodos. La cadena de 76 cm encaja en discos olímpicos estándar, capacidad 136 kg. Desventaja: necesita 2–3 semanas de uso regular para ablandarse completamente.",
+      "pros": ["Almohadilla de cuero 15 cm más ancha que la mayoría de competidores", "Capacidad de 136 kg (300 lb)", "Se moldea mejor que el nailon tras el período de adaptación"],
+      "cons": ["Rígido e incómodo en las primeras sesiones"],
+      "grade": "A",
+      "specs": {"Material": "Cuero genuino", "Longitud cadena": "76 cm acero", "Ancho almohadilla": "15 cm", "Capacidad peso": "136 kg", "Precio": "~$30"},
+      "scores": {"Calidad construcción": 4.2, "Durabilidad": 4.5, "Comodidad": 4.3, "Capacidad carga": 4.8, "Valor": 4.8}
+    },
+    {
+      "offerId": "harbinger-dip-belt",
+      "badge": "Mejor económico",
+      "review": "Correa de polipropileno resistente con cadena de acero de 76 cm — el estándar de facto en gimnasios. Funciona sin problemas para 10–35 kg de peso añadido. El anillo de acero es notablemente más fuerte que los anillos estampados de cinturones baratos.",
+      "pros": ["Usado en la mayoría de gimnasios comerciales — trayectoria probada", "Anillo de acero notablemente más fuerte que los estampados de bajo coste", "Punto de entrada racional a ~$25"],
+      "cons": ["El polipropileno es menos cómodo que el cuero bajo carga pesada"],
+      "grade": "B+",
+      "specs": {"Material": "Correa polipropileno", "Longitud cadena": "76 cm acero", "Precio": "~$40", "Mejor para": "10–35 kg de peso añadido"},
+      "scores": {"Calidad construcción": 3.8, "Durabilidad": 4.0, "Comodidad": 3.5, "Capacidad carga": 4.0, "Valor": 5.0}
+    },
+    {
+      "offerId": "fire-team-fit-dip-belt",
+      "badge": "Más cómodo",
+      "review": "El neopreno es suave desde el primer día — sin período de adaptación. El cierre de liberación rápida acelera los cambios entre series. La cadena de 91 cm es la más larga, con espacio para placas bumper gruesas. El neopreno absorbe sudor, requiere enjuague ocasional.",
+      "pros": ["Neopreno suave desde el primer uso — sin adaptación", "Cierre de liberación rápida acelera los cambios de series", "Cadena de 91 cm para discos bumper gruesos"],
+      "cons": ["El neopreno absorbe sudor; requiere enjuague ocasional"],
+      "grade": "B",
+      "specs": {"Material": "Neopreno", "Longitud cadena": "91 cm acero", "Ancho almohadilla": "10 cm", "Capacidad peso": "136 kg", "Precio": "~$56"},
+      "scores": {"Calidad construcción": 4.0, "Durabilidad": 3.8, "Comodidad": 4.8, "Capacidad carga": 4.5, "Valor": 4.3}
+    },
+    {
+      "offerId": "mummyfit-dip-belt",
+      "badge": "Mejor relación calidad-precio",
+      "review": "Neopreno económico con cadena de 91 cm — misma longitud que el Fire Team Fit a mitad de precio. El hardware es más ligero, no ideal para más de 60 kg de carga. Para principiantes o para probar las paralelas con peso, es una entrada sin riesgo.",
+      "pros": ["Cadena de 91 cm a menos de $30", "Neopreno suave desde el primer día", "Entrada sin riesgo financiero para fondos con peso"],
+      "cons": ["Hardware más ligero — no ideal para más de 60 kg de peso añadido"],
+      "grade": "B-",
+      "specs": {"Material": "Neopreno", "Longitud cadena": "91 cm acero", "Precio": "~$25", "Mejor para": "Principiantes, menos de 45 kg añadidos"},
+      "scores": {"Calidad construcción": 3.3, "Durabilidad": 3.5, "Comodidad": 4.2, "Capacidad carga": 3.5, "Valor": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para levantadores con 40+ kg de carga adicional", "offerId": "rogue-dip-belt", "reason": "Hardware americano y cuero que no se deforma ni presiona bajo cargas elevadas"},
+    {"label": "Para comodidad de cuero con presupuesto ajustado", "offerId": "dark-iron-fitness-dip-belt", "reason": "Almohadilla de 15 cm más ancha que Rogue y a mitad de precio"},
+    {"label": "Para principiantes probando fondos con peso", "offerId": "harbinger-dip-belt", "reason": "El estándar de los gimnasios comerciales a ~$25 — prueba antes de invertir"},
+    {"label": "Para transiciones rápidas entre series", "offerId": "fire-team-fit-dip-belt", "reason": "Cierre de liberación rápida y neopreno suave desde el primer día"},
+    {"label": "Para el precio de entrada más bajo", "offerId": "mummyfit-dip-belt", "reason": "Cadena de 91 cm a menos de $30 — pérdida mínima si los fondos con peso no son lo tuyo"}
+  ]
 }

@@ -112,5 +112,177 @@
     "eufy-indoor-cam-2k-pan-tilt": "Escolha interna de armazenamento local sem assinatura — aproximadamente 9.800 ienes Anker Eufy Indoor Cam 2K Pan & Tilt com vídeo 2K, panorâmica de 360 graus e inclinação de 96 graus, detecção de movimento de pessoas e pets, áudio bidirecional, armazenamento local microSD sem assinatura necessária, integração Apple HomeKit Secure Video. Sem IA específica para pets — não fornece detecção de latidos nem pontuação de atividade de cães; sem hardware de lançador de petiscos ou ponteiro laser; alto-falante embutido fino e qualidade de áudio pior do que Furbo ou Petcube."
   },
   "pinDescription": "Cinco câmeras para pets comparadas em 2026 — da Wyze Cam v3 de 4.800 ienes à Furbo 360 de 28.000 ienes. Câmera específica para pets vs genérica de segurança, o cálculo da assinatura (Furbo Nanny leva o custo de 5 anos a aproximadamente 88.000 ienes), honestidade sobre lançador de petiscos e laser (a maioria dos cães ignora após duas semanas), riscos de privacidade de câmeras na nuvem. #câmerapet #cachorros #português",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Cada câmera foi avaliada por IA específica para animais, qualidade de vídeo no mundo real, usabilidade do áudio bidirecional, custo de assinatura em 5 anos e histórico de segurança na nuvem.",
+  "products": [
+    {
+      "offerId": "furbo-360-dog-camera",
+      "badge": "Melhor escolha geral",
+      "review": "A IA treinada em cães, a rotação de 360° e o dispensador de petiscos da Furbo 360 formam o conjunto de recursos específicos para animais mais completo da categoria. O verdadeiro compromisso é a dependência de assinatura: sem o plano Furbo Nanny (~R$40–80/mês), a câmera se degrada a um visualizador 1080p básico com arremesso manual de petiscos.",
+      "pros": [
+        "Rotação motorizada a 360° cobre toda a sala",
+        "IA treinada em cães com alertas de latidos e pontuação de atividade 24/7",
+        "Dispensador de petiscos acionado remotamente pelo aplicativo"
+      ],
+      "cons": [
+        "Custo total em 5 anos chega a ~¥88.000 com assinatura Furbo Nanny incluída"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Field of view": "360° pan",
+        "Treat dispense": "Yes",
+        "AI alerts": "Bark + activity (subscription)",
+        "Two-way audio": "Yes",
+        "Storage": "Cloud (subscription)",
+        "Price (JP)": "~¥28,000"
+      },
+      "scores": {
+        "Video quality": 4.8,
+        "Range": 5.0,
+        "Ease of use": 4.5,
+        "Value": 3.2,
+        "Two-way audio": 4.7
+      }
+    },
+    {
+      "offerId": "petcube-cam",
+      "badge": "Melhor câmera acessível para animais",
+      "review": "A Petcube Cam oferece vídeo 1080p e áudio bidirecional por cerca de metade do preço da Furbo, sem hardware dispensador de petiscos. Os alertas de movimento têm alta taxa de falsos positivos.",
+      "pros": [
+        "Metade do preço da Furbo com design específico para animais",
+        "Vídeo 1080p com áudio bidirecional",
+        "Configuração simples — sem necessidade de hub"
+      ],
+      "cons": [
+        "Sem dispensador de petiscos ou apontador laser; campo de visão de 110° é insuficiente para salas grandes"
+      ],
+      "grade": "A",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Field of view": "110°",
+        "Treat dispense": "No",
+        "Two-way audio": "Yes",
+        "Storage": "Cloud (Petcube Care subscription)",
+        "Price (US)": "~$30"
+      },
+      "scores": {
+        "Video quality": 4.4,
+        "Range": 3.2,
+        "Ease of use": 4.6,
+        "Value": 4.3,
+        "Two-way audio": 4.2
+      }
+    },
+    {
+      "offerId": "eufy-indoor-cam-2k-pan-tilt",
+      "badge": "Melhor escolha sem assinatura",
+      "review": "A Eufy Indoor Cam 2K Pan & Tilt é a opção de armazenamento local mais forte abaixo de ¥15.000 — resolução 2K, pan de 360° e inclinação de 96°, armazenamento microSD sem assinatura. Sem IA específica para animais e alto-falante fino são os compromissos.",
+      "pros": [
+        "Resolução 2K sem assinatura necessária",
+        "Pan de 360° e inclinação de 96° para rastrear animais em movimento",
+        "Suporte ao Apple HomeKit Secure Video"
+      ],
+      "cons": [
+        "Sem detecção de latidos, dispensador de petiscos ou recursos de IA específicos para animais"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Resolution": "2K (2304×1296)",
+        "Pan / Tilt": "360° / 96°",
+        "Treat dispense": "No",
+        "Storage": "microSD (no subscription)",
+        "HomeKit": "Yes",
+        "Price (US)": "~$55"
+      },
+      "scores": {
+        "Video quality": 4.6,
+        "Range": 4.8,
+        "Ease of use": 4.4,
+        "Value": 4.7,
+        "Two-way audio": 3.5
+      }
+    },
+    {
+      "offerId": "pawbo-pet-camera",
+      "badge": "Melhor câmera com dispensador de nível médio",
+      "review": "A Pawbo se posiciona entre as câmeras de segurança baratas e a Furbo premium — dispensador de petiscos e áudio bidirecional a preço menor, mas vídeo 720p e relatos de confiabilidade do aplicativo reduzem a pontuação geral.",
+      "pros": [
+        "Dispensador de petiscos e agendamento sem o preço da Furbo",
+        "Áudio bidirecional para verificações remotas",
+        "Entrega programada de petiscos para treino rotineiro"
+      ],
+      "cons": [
+        "Vídeo 720p notavelmente inferior aos concorrentes; falhas de aplicativo relatadas em avaliações de longo prazo"
+      ],
+      "grade": "B",
+      "specs": {
+        "Resolution": "720p",
+        "Treat dispense": "Yes (scheduled + manual)",
+        "Two-way audio": "Yes",
+        "Price (US)": "~$54"
+      },
+      "scores": {
+        "Video quality": 3.4,
+        "Range": 3.0,
+        "Ease of use": 3.6,
+        "Value": 3.8,
+        "Two-way audio": 4.0
+      }
+    },
+    {
+      "offerId": "wyze-cam-v3",
+      "badge": "Melhor câmera de segurança econômica",
+      "review": "Por ~¥4.800, a Wyze Cam v3 é a câmera interna mais barata com visão noturna colorida e armazenamento local microSD. Não é específica para animais — sem detecção de latidos, sem dispensador — e os incidentes de privacidade da Wyze 2022–2024 são uma preocupação real.",
+      "pros": [
+        "Menor preço por câmera na categoria",
+        "Visão noturna colorida e resistente às intempéries para uso externo",
+        "Armazenamento local microSD sem assinatura obrigatória"
+      ],
+      "cons": [
+        "Sem IA específica para animais; incidentes de privacidade e confusão de contas Wyze 2022–2024 não resolvidos para muitos compradores"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Night vision": "Color Starlight",
+        "Weatherproof": "IP65",
+        "Storage": "microSD + cloud (Cam Plus ~¥250/mo)",
+        "Price (JP)": "~¥4,800"
+      },
+      "scores": {
+        "Video quality": 4.0,
+        "Range": 3.5,
+        "Ease of use": 4.2,
+        "Value": 4.9,
+        "Two-way audio": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para donos de cães preocupados com ansiedade de separação",
+      "offerId": "furbo-360-dog-camera",
+      "reason": "A IA de alerta de latido treinada em cães e o dispensador de petiscos são as ferramentas mais completas para monitorar e engajar um cão ansioso remotamente."
+    },
+    {
+      "label": "Para donos de animais que querem monitoramento simples focado em animais",
+      "offerId": "petcube-cam",
+      "reason": "Design específico para animais e vídeo 1080p pela metade do preço da Furbo, sem carga de assinatura."
+    },
+    {
+      "label": "Para residências com múltiplos cômodos ou compradores preocupados com privacidade",
+      "offerId": "eufy-indoor-cam-2k-pan-tilt",
+      "reason": "Armazenamento local 2K sem assinatura — menor exposição à privacidade na nuvem na linha de produtos."
+    },
+    {
+      "label": "Para compradores com orçamento limitado",
+      "offerId": "wyze-cam-v3",
+      "reason": "Menor custo por câmera para visualização remota básica; ideal para residências que precisam cobrir múltiplos cômodos com economia."
+    },
+    {
+      "label": "Para quem deseja dispensação de petiscos sem preço premium",
+      "offerId": "pawbo-pet-camera",
+      "reason": "Dispensador de petiscos e agendamento sem o requisito de assinatura Furbo Nanny."
+    }
+  ]
 }

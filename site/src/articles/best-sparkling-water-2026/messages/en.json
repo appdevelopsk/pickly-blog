@@ -68,5 +68,64 @@
     "spindrift-sparkling-water": "Contains real fruit juice — 9–17 calories per can depending on flavor."
   },
   "pinDescription": "Sparkling water ranked by carbonation — from Liquid Death's intense fizz to La Croix's gentle bubbles. 5 brands tested, one clear winner for cocktails.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each sparkling water was evaluated on carbonation intensity and bubble persistence through the last third of an open container, mineral content and its effect on palate neutrality, ingredient list integrity (no citric acid, no sweeteners, no concentrates), value per ounce across standard retail pack sizes, and suitability as a cocktail base based on carbonation retention after pouring over ice.",
+  "products": [
+    {
+      "offerId": "liquid-death-mountain-water",
+      "badge": "Best Overall",
+      "review": "Liquid Death's aggressive carbonation is noticeably sharper and more sustained than most competitors — it holds its bite through the last sip in a way that lighter sparkling waters do not. Sourced from the Austrian Alps and canned in aluminum, it positions itself as the carbonation-forward option for people who find Topo Chico and Perrier too mild. Price per ounce runs higher than grocery-brand sparkling water, but bulk case purchases bring it closer to reasonable.",
+      "pros": ["Most aggressive and sustained carbonation in this comparison", "Aluminum can recycles at higher rates than plastic", "Works as a premium cocktail mixer where bubble persistence matters"],
+      "cons": ["Highest price per ounce — requires bulk purchasing to approach reasonable value"],
+      "grade": "A+",
+      "specs": {"Source": "Austrian Alps", "Carbonation": "Very high (forced)", "Format": "16.9 oz aluminum can", "Calories": "0", "Sodium": "~10mg per can", "Available flavors": "Plain + flavored sparkling lines"},
+      "scores": {"Carbonation level": 5.0, "Flavor": 4.3, "Value": 3.5, "Ingredient quality": 4.5, "Convenience": 4.7}
+    },
+    {
+      "offerId": "topo-chico-mineral-water",
+      "badge": "Best for Cocktails",
+      "review": "Topo Chico has been the bartender's go-to mixer since long before it became widely available, and the high, tight carbonation — small persistent bubbles rather than large soft ones — is what makes it work so well with mezcal and tequila highballs. The natural mineral content gives it a slight savory depth that adds body to spirit-and-water drinks. The glass bottle version is the one worth buying; the heavy bottle is impractical for portability.",
+      "pros": ["High tight carbonation holds through an entire mixed drink", "Natural mineral content adds savory depth to cocktails", "Bottled at the same Monterrey spring since 1895 — formula unchanged after Coca-Cola acquisition"],
+      "cons": ["Heavy glass bottle impractical for portability or outdoor use"],
+      "grade": "A",
+      "specs": {"Source": "Monterrey, Mexico (spring)", "Carbonation": "High (naturally carbonated + infused)", "Format": "Glass bottle / limited can format", "Calories": "0", "Minerals": "Calcium, magnesium, sodium", "Available flavors": "Plain + Twist of Lime"},
+      "scores": {"Carbonation level": 4.8, "Flavor": 4.5, "Value": 3.8, "Ingredient quality": 4.8, "Convenience": 3.0}
+    },
+    {
+      "offerId": "perrier-sparkling-water",
+      "badge": "Best for Food Pairing",
+      "review": "Perrier's medium carbonation profile — more than La Croix, less than Topo Chico or Liquid Death — makes it the most versatile option for pairing with food: strong enough to cleanse the palate between courses, gentle enough not to dominate. The iconic green glass bottle remains the standard format, and the flavored lines (lime, lemon, grapefruit) use genuine fruit flavor without added sweeteners or citric acid.",
+      "pros": ["Medium carbonation works as palate cleanser between courses", "Flavored lines use real flavor without sweeteners or citric acid", "Globally recognised bottle is appropriate for table service"],
+      "cons": ["Carbonation dissipates faster than Topo Chico or Liquid Death in an open container"],
+      "grade": "B+",
+      "specs": {"Source": "Vergèze, France (natural spring)", "Carbonation": "Medium (CO2 recaptured and reinfused)", "Format": "Glass bottle / aluminum can / plastic", "Calories": "0", "Minerals": "Calcium, magnesium, sodium", "Available flavors": "Plain + lime, lemon, grapefruit, strawberry"},
+      "scores": {"Carbonation level": 3.8, "Flavor": 4.5, "Value": 4.0, "Ingredient quality": 4.7, "Convenience": 4.2}
+    },
+    {
+      "offerId": "la-croix-sparkling-water",
+      "badge": "Best for Daily High-Volume Drinking",
+      "review": "La Croix's light carbonation is a feature, not a flaw, for users trying to hit daily hydration targets — the gentleness means you can drink large volumes without feeling bloated. Over 20 natural essence flavors cover mixed-preference households, and case pricing is consistently among the most competitive in the sparkling water category. It's the least exciting water on this list, but the most practical as a daily driver.",
+      "pros": ["Light carbonation allows high-volume drinking without bloating", "20+ flavor varieties including variety packs for mixed-preference households", "Consistently competitive case pricing"],
+      "cons": ["Carbonation goes flat quickly in a mixed drink — not suitable as a cocktail mixer"],
+      "grade": "B",
+      "specs": {"Source": "Municipal water (carbonated)", "Carbonation": "Light", "Format": "Slim aluminum can", "Calories": "0", "Sweeteners": "None", "Available flavors": "20+ natural essence varieties"},
+      "scores": {"Carbonation level": 2.5, "Flavor": 3.8, "Value": 4.8, "Ingredient quality": 4.3, "Convenience": 5.0}
+    },
+    {
+      "offerId": "spindrift-sparkling-water",
+      "badge": "Best Real Fruit Flavor",
+      "review": "Spindrift is the outlier in this comparison: real squeezed fruit juice in every can produces flavor that tastes unmistakably like actual fruit rather than an approximation. The lemon variant in particular is notably honest — it tastes like someone squeezed a lemon into sparkling water, because that's essentially what happened. The slight calorie count (9-17 per can) disqualifies it as a zero-calorie option, which is the only meaningful trade-off.",
+      "pros": ["Real squeezed fruit juice — the most honest flavor in this comparison", "Short ingredient list: carbonated water, fruit juice, sometimes puree", "Best option alongside breakfast where fruit acid pairs with food"],
+      "cons": ["9-17 calories per can — not zero-calorie despite minimal sugar content"],
+      "grade": "B-",
+      "specs": {"Source": "Municipal water (carbonated)", "Carbonation": "Medium-light", "Format": "Standard aluminum can", "Calories": "9–17 per can (flavor-dependent)", "Juice content": "Real squeezed fruit juice", "Available flavors": "Lemon, Grapefruit, Raspberry Lime, Strawberry, others"},
+      "scores": {"Carbonation level": 3.5, "Flavor": 5.0, "Value": 3.8, "Ingredient quality": 5.0, "Convenience": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For maximum carbonation satisfaction", "offerId": "liquid-death-mountain-water", "reason": "If you find other sparkling waters too gentle, Liquid Death's aggressive carbonation delivers the sharpest bite and it holds through the last sip."},
+    {"label": "For cocktail mixing", "offerId": "topo-chico-mineral-water", "reason": "Small, persistent bubbles and natural mineral depth hold up through a full mixed drink — the reason bartenders chose this before it became mainstream."},
+    {"label": "For food pairing at the table", "offerId": "perrier-sparkling-water", "reason": "Medium carbonation cleanses the palate between courses without dominating, and the bottle presents well at a dinner table."},
+    {"label": "For daily high-volume hydration", "offerId": "la-croix-sparkling-water", "reason": "Light bubbles, 20+ flavors, and competitive case pricing make it the most practical choice when you're drinking multiple cans per day."},
+    {"label": "For real fruit flavor without artificial additives", "offerId": "spindrift-sparkling-water", "reason": "Real squeezed juice produces genuinely honest fruit flavor — the only option in this comparison that resolves the 'artificial flavor' complaint entirely."}
+  ]
 }

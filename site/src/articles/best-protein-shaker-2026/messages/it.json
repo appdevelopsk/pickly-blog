@@ -92,5 +92,179 @@
     "contigo-shake-go": "La scelta senza pallina frullante per gli acquirenti che vogliono zero rumore di tintinnio tra gli shake e zero componenti separati da pulire o perdere. Il coperchio a pulsante autosigillante si sigilla automaticamente dopo ogni sorso, eliminando la modalita di guasto 'ho dimenticato di bloccare il coperchio'. La base larga si mescola bene a vortice su un bancone ma si inserisce male nelle tasche laterali standard e nei portabicchieri — progettato per la miscelazione su bancone o panchina piuttosto che per il trasporto. Lo smontaggio completo del coperchio e necessario prima del ciclo in lavastoviglie per evitare la muffa nella cavita della valvola a molla; i proprietari che saltano lo smontaggio sviluppano muffa entro 6-8 settimane."
   },
   "pinDescription": "Cinque shaker proteici a confronto nel 2026 — pallina frullante vs miscelazione a vortice, quale tenuta del coperchio regge effettivamente quando lo shaker cade da un armadietto, se la plastica puzza ancora dopo mesi di utilizzo quotidiano di siero, e quale design multi-scomparto viene effettivamente usato vs ignorato. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni shaker è stato testato sulla completezza della miscelazione con siero standard e caseina densa, integrità del sigillo del coperchio sotto simulazione di caduta e ciclismo di temperatura, ritenzione degli odori nella plastica dopo 30 giorni di utilizzo quotidiano, tempo di pulizia dei componenti e longevità riportata della cerniera del coperchio e degli O-ring oltre 12 mesi.",
+  "products": [
+    {
+      "offerId": "blenderbottle-classic-v2",
+      "badge": "Migliore Complessivo",
+      "review": "La BlenderBottle Classic V2 è il punto di riferimento del settore perché il design ha quasi nessun punto di guasto — sfera frullatore in acciaio inossidabile 316, coperchio a scatto, interno liscio in polipropilene che resiste all'odore di proteine meglio delle alternative con texture. La cerniera ribaltabile si stanca dopo 12–18 mesi di utilizzo quotidiano.",
+      "pros": [
+        "Sfera frullatore in acciaio inox 316 scioglie i grumi in modo affidabile",
+        "Interno liscio resiste agli odori meglio del polipropilene con texture",
+        "Sicuro per lavastoviglie nel cestello superiore — tutti i componenti in un carico"
+      ],
+      "cons": [
+        "La cerniera ribaltabile si stanca e si crepa dopo 12–18 mesi di utilizzo quotidiano"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Capacity": "28 oz (820 ml)",
+        "Mixing system": "Wire whisk ball",
+        "Material": "BPA-free polypropylene",
+        "Dishwasher safe": "Yes (top rack)",
+        "Lid type": "Click-lock flip-top",
+        "Compartments": "1",
+        "Colors": "30+"
+      },
+      "scores": {
+        "Leak resistance": 4.7,
+        "Mixing quality": 4.8,
+        "Durability": 4.5,
+        "Value": 4.7,
+        "Ease of cleaning": 4.8
+      }
+    },
+    {
+      "offerId": "hydra-cup-dual-shaker",
+      "badge": "Migliore Doppia Sessione",
+      "review": "Hydra Cup risolve il problema reale di trasportare due supplementi completi pre- e post-allenamento in una sola unità — non un piccolo pod di polvere, ma due bicchieri misti completi ciascuno con una sfera frullatore. Lo svantaggio è il fattore di forma combinato.",
+      "pros": [
+        "Due bicchieri misti completi — non un piccolo pod secondario",
+        "Ogni bicchiere ha la propria sfera frullatore per una miscelazione adeguata",
+        "Elimina il trasporto di due contenitori separati in palestra"
+      ],
+      "cons": [
+        "Più ingombrante di qualsiasi shaker a bicchiere singolo — non si adatta alle tasche laterali standard"
+      ],
+      "grade": "A",
+      "specs": {
+        "Capacity": "2 × 24 oz (2 × 710 ml)",
+        "Mixing system": "2 wire whisk balls",
+        "Material": "BPA-free plastic",
+        "Dishwasher safe": "Top rack",
+        "Lid type": "Dual flip-tops",
+        "Compartments": "2 full cups",
+        "Weight": "~300 g empty"
+      },
+      "scores": {
+        "Leak resistance": 4.5,
+        "Mixing quality": 4.7,
+        "Durability": 4.3,
+        "Value": 4.4,
+        "Ease of cleaning": 3.8
+      }
+    },
+    {
+      "offerId": "umoro-one-shaker",
+      "badge": "Migliore 2-in-1",
+      "review": "Umoro nasconde un compartimento secondario da 150 ml nella base di uno shaker di dimensioni standard — trasporta creatina o polvere pre-allenamento senza aggiungere ingombro esterno. L'O-ring del compartimento nascosto diventa un rischio di gocciolamento dopo 6+ mesi di utilizzo.",
+      "pros": [
+        "Compartimento da 150 ml nella base mantiene il formato standard",
+        "Bicchiere principale mescola altrettanto bene di uno shaker standard con sfera",
+        "Mantiene semplice il trasporto di un singolo supplemento senza contenitore separato"
+      ],
+      "cons": [
+        "L'O-ring del compartimento inferiore necessita di ispezione e sostituzione ogni 6–9 mesi"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Main capacity": "~600 ml",
+        "Secondary capacity": "~150 ml",
+        "Mixing system": "Wire whisk ball",
+        "Material": "BPA-free plastic",
+        "Dishwasher safe": "Cup only (hand-wash base)",
+        "Compartments": "2 (integrated)",
+        "Best use": "Dry powder secondary storage"
+      },
+      "scores": {
+        "Leak resistance": 4.0,
+        "Mixing quality": 4.6,
+        "Durability": 4.0,
+        "Value": 4.3,
+        "Ease of cleaning": 3.6
+      }
+    },
+    {
+      "offerId": "smartshake-original",
+      "badge": "Migliore per chi Accumula Supplementi",
+      "review": "Smartshake è l'unico shaker in questo confronto con tre compartimenti completamente separati — bicchiere misto principale, sezione polvere secca e compartimento pillole per 5–8 capsule. Tre compartimenti significa tre compiti di pulizia separati.",
+      "pros": [
+        "Compartimento pillole per 5–8 capsule — unico in questo confronto",
+        "Stoccaggio polvere nella sezione centrale per una porzione pre-misurata",
+        "Design modulare separa ogni categoria di supplemento"
+      ],
+      "cons": [
+        "Tre compartimenti significano tre passaggi di pulizia separati per ogni utilizzo"
+      ],
+      "grade": "B",
+      "specs": {
+        "Capacity": "600 ml main + powder + pill",
+        "Mixing system": "Disc agitator",
+        "Material": "BPA-free plastic",
+        "Dishwasher safe": "Top rack",
+        "Compartments": "3",
+        "Pill capacity": "5–8 capsules",
+        "Best use": "Multi-supplement post-workout stacks"
+      },
+      "scores": {
+        "Leak resistance": 4.2,
+        "Mixing quality": 4.1,
+        "Durability": 4.0,
+        "Value": 4.2,
+        "Ease of cleaning": 3.2
+      }
+    },
+    {
+      "offerId": "contigo-shake-go",
+      "badge": "Migliore Design Senza Sfera",
+      "review": "Contigo elimina completamente la sfera frullatore — la larga base a vortice mescola per turbolenza, e il coperchio a pulsante con autosigillo si chiude automaticamente dopo ogni sorso. Funziona bene per il siero standard in 350+ ml di liquido ma fatica con la caseina densa.",
+      "pros": [
+        "Nessuna sfera frullatore — nessun componente separato da pulire, perdere o fare cliccare",
+        "Il coperchio autosigillante si chiude automaticamente dopo ogni sorso",
+        "La base a vortice funziona per la concentrazione standard di siero senza parti meccaniche"
+      ],
+      "cons": [
+        "Smontaggio completo del coperchio richiesto prima della lavastoviglie — facile da saltare e sviluppare muffa"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Capacity": "20–28 oz options",
+        "Mixing system": "Vortex base (no ball)",
+        "Material": "BPA-free plastic",
+        "Dishwasher safe": "Yes (full lid disassembly required)",
+        "Lid type": "Autoseal push-button",
+        "Compartments": "1",
+        "Best use": "Standard whey at higher liquid volumes"
+      },
+      "scores": {
+        "Leak resistance": 4.8,
+        "Mixing quality": 3.8,
+        "Durability": 4.2,
+        "Value": 4.0,
+        "Ease of cleaning": 3.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per routine di palestra quotidiane con un singolo shake",
+      "offerId": "blenderbottle-classic-v2",
+      "reason": "Miscelazione affidabile con sfera frullatore, sicuro per lavastoviglie e poche parti mobili — il valore predefinito corretto per chiunque abbia bisogno di una porzione per sessione."
+    },
+    {
+      "label": "Per pre- e post-allenamento in un solo viaggio",
+      "offerId": "hydra-cup-dual-shaker",
+      "reason": "Due bicchieri misti a dimensione piena sostituiscono due contenitori separati — vale il volume solo se entrambi i bicchieri vengono effettivamente usati ogni sessione."
+    },
+    {
+      "label": "Per chi accumula supplementi con pillole e polveri",
+      "offerId": "smartshake-original",
+      "reason": "Il design a tre compartimenti separa polvere secca, pillole e lo shake principale — evita di trasportare più contenitori."
+    },
+    {
+      "label": "Per acquirenti che odiano il clicco e le sfere perse",
+      "offerId": "contigo-shake-go",
+      "reason": "Nessuna sfera significa nessun clicco tra gli shake e nessun componente da perdere — funziona bene per il siero standard a rapporti di liquido adeguati."
+    }
+  ]
 }

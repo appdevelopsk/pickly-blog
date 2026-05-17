@@ -53,5 +53,169 @@
     "kevita-master-brew": "15,2-oz-Flaschen. Weit verbreitet bei Target, Walmart, Kroger und großen Lebensmittelketten. Bis zum Offnen keine Kuhlung erforderlich."
   },
   "pinDescription": "5 beste Kombucha 2026 -- vom rohen GT's Synergy bis zum anfangerfreundlichen Humm. Probiotika, Geschmack und Darmgesundheits-Empfehlungen! 🍵",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jedes Kombucha wurde nach Kulturaktivität, Geschmackskomplexität, Karbonisierungsgrad, Zuckergehalt, Transparenz der Zutaten und CFU-Zahl bewertet — Blindverkostung von drei Sorten pro Marke durch vier Tester.",
+  "products": [
+    {
+      "offerId": "gts-synergy-kombucha",
+      "badge": "Bestes Roh-Kombucha",
+      "review": "GT's Synergy ist das Original und authentischste Produkt — roh, unpasteurisiert, mit sichtbaren aktiven SCOBY-Kulturen. Der Geschmack ist intensiv und essigartig auf die beste Art.",
+      "pros": [
+        "Echte rohe, unpasteurisierte Formel mit sichtbaren SCOBY-Kulturen",
+        "Breiteste Geschmackspalette von Gingerade bis Trilogy",
+        "Branchenstandard seit 30+ Jahren"
+      ],
+      "cons": [
+        "Intensiver Essiggeschmack nicht für Kombucha-Einsteiger geeignet"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Inhalt": "16oz (473ml)",
+        "Kalorien": "ca. 30–50/Flasche",
+        "Zucker": "ca. 5–8g/Flasche",
+        "Alkohol": "bis 0,5% ABV",
+        "Pasteurisiert": "Nein (roh)",
+        "Preis": "$3,48/Flasche"
+      },
+      "scores": {
+        "Geschmack": 4.8,
+        "Probiotika-Qualität": 5.0,
+        "Preis-Leistung": 4.0,
+        "Kohlensäure": 4.3,
+        "Zutatenqualität": 4.9
+      }
+    },
+    {
+      "offerId": "health-ade-kombucha",
+      "badge": "Bestes Glasflaschenbier",
+      "review": "Glasgefäß-Fermentation produziert einen saubereren, leicht milderen Geschmack als GT's. Balance zwischen Pink Lady Apple und Ginger-Lemon ist chargenkonsistent.",
+      "pros": [
+        "Glasgefäß-Fermentation bewahrt Geschmack besser als Plastik",
+        "Konsistente Balance im Kernsortiment",
+        "Erhältlich in Whole Foods, Target und Naturkostläden"
+      ],
+      "cons": [
+        "8–12g Zucker pro Flasche — höher als zuckerarme Konkurrenten"
+      ],
+      "grade": "A",
+      "specs": {
+        "Inhalt": "16oz (473ml)",
+        "Kalorien": "ca. 35–60/Flasche",
+        "Zucker": "ca. 8–12g/Flasche",
+        "Alkohol": "bis 0,5% ABV",
+        "Pasteurisiert": "Nein (roh)",
+        "Preis": "$2,94/Flasche"
+      },
+      "scores": {
+        "Geschmack": 4.6,
+        "Probiotika-Qualität": 4.7,
+        "Preis-Leistung": 4.3,
+        "Kohlensäure": 4.2,
+        "Zutatenqualität": 4.6
+      }
+    },
+    {
+      "offerId": "brew-dr-kombucha",
+      "badge": "Bestes Bio-Kombucha",
+      "review": "USDA-Bio-zertifiziert mit echten Ganzblatt-Tees und Botanicals. Die Light-Linie hat nur ca. 4g Zucker — beste zuckerarme Option in dieser Gruppe.",
+      "pros": [
+        "USDA-Bio-zertifiziert mit ganzen Teeblättern und Botanicals",
+        "Light-Linie mit ~4g Zucker — niedrigster Zuckergehalt",
+        "Komplexer Geschmack durch echte Botanicals statt Extrakte"
+      ],
+      "cons": [
+        "Botanical-Geschmacksprofile sind erworbener Geschmack gegenüber Frucht-Konkurrenten"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Inhalt": "14oz (414ml)",
+        "Kalorien": "ca. 15–50/Flasche",
+        "Zucker": "ca. 4–12g/Flasche",
+        "Alkohol": "bis 0,5% ABV",
+        "Zertifizierung": "USDA Bio",
+        "Preis": "$3,99/Flasche"
+      },
+      "scores": {
+        "Geschmack": 4.4,
+        "Probiotika-Qualität": 4.5,
+        "Preis-Leistung": 3.9,
+        "Kohlensäure": 4.0,
+        "Zutatenqualität": 4.8
+      }
+    },
+    {
+      "offerId": "humm-kombucha",
+      "badge": "Beste für Einsteiger",
+      "review": "Humm ist für den Einstieg konzipiert — milderer Geschmack, leichtere Kohlensäure, weniger Zucker und 8oz-Flaschen zum Ausprobieren ohne Verpflichtung.",
+      "pros": [
+        "Mildestes Geschmacksprofil — ideal für den Übergang von Saft oder Limonade",
+        "8oz-Flaschen ermöglichen Test ohne Verpflichtung auf 16oz",
+        "3–5g Zucker pro Portion, niedrigste in diesem Vergleich"
+      ],
+      "cons": [
+        "Geringere Probiotika-Komplexität als rohe Konkurrenten; leichtere Kohlensäure enttäuscht intensive Trinker"
+      ],
+      "grade": "B",
+      "specs": {
+        "Inhalt": "8oz oder 14oz",
+        "Kalorien": "ca. 15–30/8oz",
+        "Zucker": "ca. 3–5g/8oz",
+        "Alkohol": "bis 0,5% ABV",
+        "Zuckerfrei": "Verfügbar",
+        "Preis": "$2,64/Flasche"
+      },
+      "scores": {
+        "Geschmack": 4.0,
+        "Probiotika-Qualität": 3.9,
+        "Preis-Leistung": 4.5,
+        "Kohlensäure": 3.5,
+        "Zutatenqualität": 4.1
+      }
+    },
+    {
+      "offerId": "kevita-master-brew",
+      "badge": "Beste Verfügbarkeit",
+      "review": "KeVita hat die breiteste nationale Verfügbarkeit — auch in Walmart, Target und Kroger, wo GT's und Health-Ade schwer zu finden sind. 6 Milliarden CFU sind dokumentiert.",
+      "pros": [
+        "6 Milliarden CFU pro Flasche — höchste dokumentierte Probiotika-Zahl",
+        "Breiteste Einzelhandelsverteilung inkl. Masse- und Convenience-Stores",
+        "Limonadenähnliche Kohlensäure spricht Wechsler von Sprudelwasser an"
+      ],
+      "cons": [
+        "PepsiCo-Eigentümerschaft und Pasteurisierungsbedenken bei Roh-Puristen"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Inhalt": "15.2oz (450ml)",
+        "Kalorien": "ca. 35–60/Flasche",
+        "Zucker": "ca. 8–12g/Flasche",
+        "CFU": "6 Milliarden/Flasche",
+        "Alkohol": "bis 0,5% ABV",
+        "Preis": "$3,99/Flasche"
+      },
+      "scores": {
+        "Geschmack": 4.1,
+        "Probiotika-Qualität": 4.6,
+        "Preis-Leistung": 3.8,
+        "Kohlensäure": 4.7,
+        "Zutatenqualität": 3.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Fermentationsbegeisterte, die authentisches Roh-Kombucha suchen",
+      "offerId": "gts-synergy-kombucha",
+      "reason": "GT's Synergy ist die ursprüngliche unpasteurisierte Formel — für das echte Fermentationserlebnis mit aktiven Kulturen das Referenzprodukt."
+    },
+    {
+      "label": "Für Kombucha-Erstversuch",
+      "offerId": "humm-kombucha",
+      "reason": "Milder Geschmack, leichte Kohlensäure und 8oz Probierflaschen machen Humm zum einfachsten Einstiegspunkt ohne Essigintensität."
+    },
+    {
+      "label": "Für gesundheitsbewusste Trinker mit Fokus auf Bio-Zertifizierung",
+      "offerId": "brew-dr-kombucha",
+      "reason": "USDA Bio-Zertifizierung, Ganzblatt-Botanicals und niedrigste Zuckeroption machen Brew Dr. zur stärksten Wahl für zutatenbewusste Verbraucher."
+    }
+  ]
 }

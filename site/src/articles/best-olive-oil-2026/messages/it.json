@@ -94,5 +94,174 @@
     "pompeian-smooth-evoo": "La migliore opzione economica al supermercato — ampiamente disponibile, prezzo piu basso a circa $0,25/oz nel formato grande, sapore delicato progettato per i consumatori che non gradiscono l'amarezza. Migliore quando il budget e il vincolo vincolante e il volume di cottura e alto. Limite: nessuna data del raccolto, contenuto di polifenoli piu basso per design, utilita limitata come olio da condimento — non la scelta se la freschezza o il valore per la salute sono una priorita."
   },
   "pinDescription": "5 oli d'oliva a confronto per il 2026: California Olive Ranch vs Kirkland vs Brightland vs Cobram vs Pompeian. Trasparenza della data del raccolto, punto di fumo, contenuto di polifenoli — trova l'EVOO che si adatta davvero a come cucini. #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni olio è stato valutato in base alla trasparenza della data del raccolto, al costo per oncia, al profilo aromatico e al carattere polifenolico, all'idoneità per la cottura rispetto all'uso come condimento, e alla solidità delle affermazioni di freschezza dati i tipici tempi della catena di approvvigionamento al dettaglio.",
+  "products": [
+    {
+      "offerId": "california-olive-ranch-evoo",
+      "badge": "Migliore per l'Uso Quotidiano",
+      "review": "California Olive Ranch è l'olio extravergine di oliva più pratico per l'uso quotidiano nelle famiglie statunitensi — data del raccolto stampata sull'etichetta anteriore, produzione nazionale in California con distribuzione al dettaglio efficiente, e un profilo di polifenoli medio che copre sia la cottura che la finitura leggera a ~0,45 $/oz. Il blend incorpora a volte fonti internazionali; controllare l'etichetta per gli SKU solo nazionali se l'origine è importante.",
+      "pros": [
+        "Data del raccolto indicata — freschezza verificabile all'acquisto",
+        "~0,45 $/oz — prezzo accessibile per un EVOO nazionale di qualità",
+        "Copre sia i casi d'uso di cottura che di finitura leggera"
+      ],
+      "cons": [
+        "Alcuni SKU mescolati con fonti internazionali — controllare l'etichetta per quelli solo nazionali"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Origine": "California (+ miscela internazionale in alcuni SKU)",
+        "Prezzo per oz": "~0,45 $",
+        "Data del raccolto": "Sì — stampata sull'etichetta",
+        "Livello di polifenoli": "Medio",
+        "Migliore uso": "Cottura quotidiana + finitura leggera",
+        "Bio": "No (convenzionale)"
+      },
+      "scores": {
+        "Sapore": 4.5,
+        "Qualità": 4.6,
+        "Valore": 4.7,
+        "Freschezza": 4.8,
+        "Versatilità": 5.0
+      }
+    },
+    {
+      "offerId": "kirkland-organic-evoo",
+      "badge": "Migliore Acquisto in Volume",
+      "review": "L'EVOO biologico da 2 litri di Kirkland da Costco è il meno costoso per oncia in questo confronto a ~0,31 $/oz — risparmi significativi per le famiglie che cucinano con olio d'oliva ogni giorno. Certificato USDA Bio e di origine mediterranea. La limitazione onesta è l'assenza di data del raccolto, rendendo la freschezza più difficile da verificare; il consumo rapido mitiga questo per le cucine ad alto volume.",
+      "pros": [
+        "~0,31 $/oz — costo per oncia più basso in questo confronto",
+        "Certificato USDA Bio",
+        "Formato da 2 litri efficiente per le famiglie che cucinano quotidianamente"
+      ],
+      "cons": [
+        "Nessuna data del raccolto — la freschezza dipende dal turnover delle scorte in magazzino"
+      ],
+      "grade": "A",
+      "specs": {
+        "Origine": "Mediterraneo (approvvigionamento Costco)",
+        "Prezzo per oz": "~0,31 $ (taglia 2 litri Costco)",
+        "Data del raccolto": "No",
+        "Livello di polifenoli": "Moderato",
+        "Certificazione": "USDA Bio",
+        "Migliore uso": "Cottura quotidiana ad alto volume"
+      },
+      "scores": {
+        "Sapore": 4.1,
+        "Qualità": 4.2,
+        "Valore": 5.0,
+        "Freschezza": 3.8,
+        "Versatilità": 4.3
+      }
+    },
+    {
+      "offerId": "brightland-alive-evoo",
+      "badge": "Migliore Olio da Condimento Premium",
+      "review": "Brightland è l'olio con la maggiore trasparenza in termini di freschezza in questo confronto — sia la data del raccolto che quella della spremitura sono indicate, e la catena di approvvigionamento diretto al consumatore elimina il ritardo di invecchiamento nella distribuzione al dettaglio. Il sapore deciso, erbaceo e ricco di polifenoli della miscela californiana Arbequina/Arbosana si assapora meglio senza riscaldamento. Usarlo per soffriggere cipolle a 3,25 $/oz è economicamente sbagliato; per condire insalate, pasta e verdure grigliate, il sapore giustifica il prezzo.",
+      "pros": [
+        "Data del raccolto e della spremitura entrambe indicate — massima trasparenza sulla freschezza",
+        "Miscela californiana ricca di polifenoli con sapore erbaceo deciso",
+        "Catena di approvvigionamento diretto al consumatore minimizza il ritardo di invecchiamento"
+      ],
+      "cons": [
+        "3,25 $/oz — economicamente adatto solo all'uso come condimento, non alla cottura"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Origine": "California (Arbequina + Arbosana)",
+        "Prezzo per oz": "~3,25 $ (bottiglia 375 ml)",
+        "Data del raccolto": "Sì — date del raccolto e della spremitura indicate",
+        "Livello di polifenoli": "Alto",
+        "Catena di approvvigionamento": "Diretto al consumatore",
+        "Migliore uso": "Condimento senza riscaldamento"
+      },
+      "scores": {
+        "Sapore": 5.0,
+        "Qualità": 5.0,
+        "Valore": 2.8,
+        "Freschezza": 5.0,
+        "Versatilità": 3.5
+      }
+    },
+    {
+      "offerId": "cobram-estate-robust-evoo",
+      "badge": "Migliore per la Cottura ad Alta Temperatura",
+      "review": "Cobram Estate Robust utilizza varietà Coratina e Koroneiki specificamente per un maggiore contenuto di polifenoli e stabilità ossidativa alle temperature di cottura. Data del raccolto indicata sulle bottiglie del mercato statunitense. Il profilo aromatico pepato e deciso non è universalmente apprezzato, ma resiste meglio al calore rispetto agli EVOO delicati — la scelta giusta quando soffriggere o arrostire è l'applicazione principale.",
+      "pros": [
+        "Miscela Coratina/Koroneiki ricca di polifenoli per stabilità ossidativa al calore",
+        "Data del raccolto indicata sulle bottiglie del mercato statunitense",
+        "Il sapore pepato resiste meglio degli oli delicati alle temperature di cottura"
+      ],
+      "cons": [
+        "Il sapore pepato deciso non è adatto alle applicazioni con sapore delicato"
+      ],
+      "grade": "B",
+      "specs": {
+        "Origine": "Australia / California",
+        "Prezzo per oz": "~0,50 $",
+        "Data del raccolto": "Sì",
+        "Livello di polifenoli": "Alto",
+        "Varietà": "Coratina + Koroneiki",
+        "Migliore uso": "Cottura ad alta temperatura"
+      },
+      "scores": {
+        "Sapore": 4.6,
+        "Qualità": 4.8,
+        "Valore": 4.3,
+        "Freschezza": 4.6,
+        "Versatilità": 4.0
+      }
+    },
+    {
+      "offerId": "pompeian-smooth-evoo",
+      "badge": "Migliore Opzione Economica al Supermercato",
+      "review": "Pompeian Smooth è filtrato per rimuovere l'amarezza che creano i polifenoli — una scelta deliberata del consumatore che riduce anche il contenuto di polifenoli e l'utilità come olio da condimento. A ~0,25 $/oz è l'opzione più economica qui, ampiamente disponibile nei supermercati, e adeguata per la cottura ad alto volume dove il sapore dell'olio non è il punto.",
+      "pros": [
+        "~0,25 $/oz — prezzo più basso in questo confronto",
+        "Ampiamente disponibile nei supermercati convenzionali",
+        "Sapore delicato filtrato per i consumatori che non amano l'amarezza"
+      ],
+      "cons": [
+        "Nessuna data del raccolto; contenuto di polifenoli più basso per design; utilità limitata come olio da condimento"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Origine": "Miscela mediterranea",
+        "Prezzo per oz": "~0,25 $ (formato grande)",
+        "Data del raccolto": "No",
+        "Livello di polifenoli": "Basso (filtrato per la delicatezza)",
+        "Profilo aromatico": "Delicato, neutro",
+        "Migliore uso": "Cottura economica ad alto volume"
+      },
+      "scores": {
+        "Sapore": 3.5,
+        "Qualità": 3.6,
+        "Valore": 5.0,
+        "Freschezza": 3.2,
+        "Versatilità": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per la cucina domestica quotidiana",
+      "offerId": "california-olive-ranch-evoo",
+      "reason": "Trasparenza della data del raccolto, produzione nazionale e un prezzo che non richiede razionamento — la bottiglia che copre la maggior parte degli usi in cucina senza compromessi."
+    },
+    {
+      "label": "Per i cuochi quotidiani ad alto volume",
+      "offerId": "kirkland-organic-evoo",
+      "reason": "Il formato da 2 litri di Costco a ~0,31 $/oz rende la cottura quotidiana con olio d'oliva genuinamente economica; il consumo rapido gestisce il compromesso sulla freschezza."
+    },
+    {
+      "label": "Per gli appassionati di olio da condimento",
+      "offerId": "brightland-alive-evoo",
+      "reason": "Data del raccolto e della spremitura stampate, freschezza diretta dal produttore, e un sapore ricco di polifenoli che si apprezza meglio versato senza riscaldamento su insalata o pasta."
+    },
+    {
+      "label": "Per soffriggere e arrostire ad alta temperatura",
+      "offerId": "cobram-estate-robust-evoo",
+      "reason": "La designazione Robust segnala varietà Coratina/Koroneiki con maggiore contenuto di polifenoli, specificamente selezionate per la stabilità ossidativa alle temperature di cottura."
+    }
+  ]
 }

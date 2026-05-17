@@ -57,5 +57,64 @@
     "cap-barbell-medicine-ball": "Caucho de una sola capa, agarre de guijarro, rebote moderado. Rango 4–30 lb. Mejor opción económica para acondicionamiento general."
   },
   "pinDescription": "Slam ball vs balón medicinal vs carcasa suave — 5 selecciones para cada objetivo de entrenamiento, desde golpes elevados hasta ejercicios de pase de pareja. Conoce qué tipo se adapta a tu entrenamiento antes de comprar.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada producto fue evaluado en cinco criterios: calidad de construcción, rendimiento en uso típico, durabilidad a lo largo del tiempo, comodidad y valor por dólar. Ponderamos el rendimiento y la durabilidad más alto porque determinan si un producto sigue siendo útil 12 meses después.",
+  "products": [
+    {
+      "offerId": "rogue-medicine-ball",
+      "badge": "Mejor slam ball",
+      "review": "El slam ball de Rogue usa una carcasa gruesa de caucho natural con relleno de arena y caucho que elimina el rebote casi por completo — el balón golpea el suelo y se queda ahí. La carcasa es notablemente más gruesa que la mayoría de los slam balls comerciales, lo que importa con alto volumen de repeticiones ya que las carcasas más delgadas desarrollan puntos blandos y se dividen. Las marcas de peso están moldeadas en el caucho, no pintadas. No apto para pases entre compañeros — el relleno denso es duro para las muñecas al atrapar.",
+      "pros": ["Rebote casi nulo — se queda en el sitio tras los golpes al suelo", "Carcasa gruesa resiste fisuras incluso a alto volumen de repeticiones", "Marcas de peso moldeadas que no se borran"],
+      "cons": ["No apto para pases en pareja — relleno denso duro para las muñecas al atrapar"],
+      "grade": "A+",
+      "specs": {"Carcasa": "Caucho natural grueso", "Relleno": "Arena y gránulos de caucho", "Rebote": "Casi nulo", "Rango de peso": "10–150 lb", "Precio (ejemplo)": "$125"},
+      "scores": {"Calidad de construcción": 5.0, "Durabilidad": 5.0, "Facilidad de uso": 4.5, "Valor": 3.8, "Versatilidad": 3.5}
+    },
+    {
+      "offerId": "champion-sports-medicine-ball",
+      "badge": "Mejor para wall-ball",
+      "review": "El balón de caucho vulcanizado 4mm de Champion Sports produce un rebote moderado y predecible — vuelve a un ángulo consistente tras un lanzamiento a la pared. Ideal para ejercicios de wall-ball, acondicionamiento en pareja y sentadilla-a-press en alto. La gama desde 2 lb es adecuada para principiantes que aprenden mecánica overhead. No se puede golpear a máxima potencia contra el suelo estándar — la trayectoria de retorno se vuelve impredecible y peligrosa.",
+      "pros": ["Rebote moderado y predecible para wall-ball y trabajo en pareja", "Gama desde 2 lb para principiantes que aprenden mecánica overhead", "Textura de guijarro se mantiene en manos sudorosas"],
+      "cons": ["No apto para golpes a máxima fuerza contra el suelo"],
+      "grade": "A",
+      "specs": {"Carcasa": "Caucho vulcanizado 4mm", "Agarre": "Textura de guijarro", "Rebote": "Moderado y predecible", "Rango de peso": "2–30 lb", "Precio (ejemplo)": "$29.99"},
+      "scores": {"Calidad de construcción": 4.0, "Durabilidad": 4.2, "Facilidad de uso": 4.8, "Valor": 4.8, "Versatilidad": 4.0}
+    },
+    {
+      "offerId": "yes4all-slam-ball",
+      "badge": "Mejor slam ball calidad-precio",
+      "review": "El slam ball Yes4All cubre el mismo territorio funcional que Rogue — relleno de arena, rebote mínimo — a un costo significativamente menor. La carcasa es ligeramente más delgada que la de Rogue, visible en la textura más que en fallo estructural bajo cargas normales. Opciones de 10 a 50 lb en incrementos de 5 lb permiten construir una progresión asequible: tres Yes4All cuestan lo mismo que un Rogue al mismo peso.",
+      "pros": ["Mucho más barato que Rogue al mismo peso", "Progresión en incrementos de 5 lb asequible", "Rebote mínimo para golpes seguros en interiores"],
+      "cons": ["Carcasa ligeramente más delgada que Rogue — menos duradera a muy alto volumen"],
+      "grade": "B+",
+      "specs": {"Carcasa": "Caucho resistente", "Relleno": "Arena", "Rebote": "Mínimo", "Rango de peso": "10–50 lb (incrementos de 5 lb)", "Precio (ejemplo)": "$24.99"},
+      "scores": {"Calidad de construcción": 3.8, "Durabilidad": 3.8, "Facilidad de uso": 4.5, "Valor": 5.0, "Versatilidad": 3.5}
+    },
+    {
+      "offerId": "dynamax-medicine-ball",
+      "badge": "Mejor para entrenamiento en pareja",
+      "review": "Dynamax es el único balón de esta comparación diseñado específicamente para ser atrapado por un compañero. La carcasa de vinilo acolchado con espuma comprime ligeramente al impacto, absorbiendo suficiente fuerza para hacer cómodos los pases de pecho repetidos sin magullar los antebrazos. El diámetro estandarizado en todos los pesos (10 lb y 20 lb son del mismo tamaño) facilita la transferencia de técnica al aumentar la carga. No apta para golpes al suelo — la costura cede bajo impactos repetidos a máxima fuerza.",
+      "pros": ["Carcasa acolchada segura para pases y recepciones en pareja", "Mismo diámetro en toda la gama de pesos para técnica consistente", "Funciona para variaciones de flexiones y planchas con rodamiento"],
+      "cons": ["No apta para golpes al suelo — costura cede bajo impacto a máxima fuerza"],
+      "grade": "B",
+      "specs": {"Carcasa": "Vinilo acolchado con espuma", "Diámetro": "Estandarizado en todos los pesos", "Rebote": "Suave, absorbente", "Rango de peso": "4–30 lb", "Precio (ejemplo)": "$165"},
+      "scores": {"Calidad de construcción": 4.2, "Durabilidad": 3.8, "Facilidad de uso": 5.0, "Valor": 3.0, "Versatilidad": 4.5}
+    },
+    {
+      "offerId": "cap-barbell-medicine-ball",
+      "badge": "Mejor opción económica clásica",
+      "review": "El balón de caucho monocapa de CAP Barbell cubre el acondicionamiento general, ejercicios de rehabilitación y programas para principiantes al precio más bajo de esta comparación. La superficie de guijarro mantiene el agarre con sudor, y el balón mantiene su forma sin puntos blandos notables a volumen moderado. No apto para golpes duros al suelo — el caucho monocapa muestra daños bajo impactos repetidos. Para giros rusos, trabajo rotacional sentado, patrones de press overhead y pases ligeros en pareja, funciona sin problemas.",
+      "pros": ["Precio más bajo de esta comparación", "Suficiente para acondicionamiento general, rehabilitación y principiantes", "Agarre de guijarro se mantiene en circuitos sudorosos"],
+      "cons": ["Construcción monocapa — no apta para golpes duros al suelo"],
+      "grade": "B-",
+      "specs": {"Carcasa": "Caucho monocapa", "Agarre": "Superficie de guijarro", "Rebote": "Moderado", "Rango de peso": "4–30 lb", "Rango de precio": "$15–45"},
+      "scores": {"Calidad de construcción": 3.2, "Durabilidad": 3.2, "Facilidad de uso": 4.5, "Valor": 5.0, "Versatilidad": 3.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para entrenamiento de slam overhead", "offerId": "rogue-medicine-ball", "reason": "Rebote casi nulo y carcasa gruesa aguantan golpes a plena potencia en alto volumen"},
+    {"label": "Para wall-ball y WODs de CrossFit", "offerId": "champion-sports-medicine-ball", "reason": "El rebote moderado y predecible hace las recepciones de wall-ball consistentes y los ejercicios en pareja seguros"},
+    {"label": "Para progresión en gimnasio en casa", "offerId": "yes4all-slam-ball", "reason": "Incrementos de 5 lb de 10 a 50 lb permiten una progresión asequible en casa"},
+    {"label": "Para acondicionamiento en pareja", "offerId": "dynamax-medicine-ball", "reason": "La carcasa acolchada es el único diseño seguro para pases repetidos en pareja a alta intensidad"},
+    {"label": "Para acondicionamiento económico", "offerId": "cap-barbell-medicine-ball", "reason": "Cubre el acondicionamiento general y ejercicios de rehabilitación al menor costo de esta comparación"}
+  ]
 }

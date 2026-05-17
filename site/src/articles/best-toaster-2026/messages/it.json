@@ -104,5 +104,64 @@
     "zojirushi-kongari-et-wma22": "Scelta pratica commodity — riscaldatore da 1300 W con cinque modalita preset (toast, pane tostato surgelato, kashi-pan, riscaldamento cornetto, temperatura manuale), larghezza interna di 22 cm, durata di vita realistica di 7-10 anni e disponibilita di ricambi di 8-10 anni dopo la fine della produzione, ingombro compatto di 32 cm di larghezza. Nessuna iniezione di vapore — il pane tostato normale risulta notevolmente piu secco rispetto alle macchine a iniezione di vapore, e i consumatori abituali di shokupan notano la differenza entro una settimana; le modalita preset sono basilari e il quadrante della temperatura non si estende sopra i 250 gradi Celsius limitando l'uso per pizza surgelata e gratin ad alta temperatura; il design e un elettrodomestico giapponese funzionale e non merita il suo posto sul bancone per l'estetica."
   },
   "pinDescription": "Cinque tostapane a confronto nel 2026 da uno Zojirushi pratico da 9.900 yen a un Panasonic Bistro NT-D700 multifunction da 42.000 yen. Iniezione di vapore vs tubo di grafite vs convezione vs cavita chiusa monofetta, costo elettrico per fetta, ingombro sul bancone in una cucina di appartamento giapponese e i dettagli di manutenzione che ogni marca minimizza. #italia",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Ogni tostapane è stato valutato in base alla tecnologia dell'elemento riscaldante (tubo di grafite vs iniezione di vapore vs convezione vs riscaldatore a guaina), alle valutazioni sull'uniformità della crosta su Rakuten e kakaku.com, all'ingombro sul bancone e alla facilità di pulizia, e alla durata di vita realistica nelle famiglie con utilizzo due volte al giorno.",
+  "products": [
+    {
+      "offerId": "balmuda-the-toaster-k11a",
+      "badge": "Miglior Design e Vapore",
+      "review": "L'iniezione di vapore da 5 ml di Balmuda migliora notevolmente lo shokupan di un giorno — la crosta diventa croccante all'esterno preservando l'umidità interiore. Il design industriale iconico merita il suo posto sul bancone. Il punto debole onesto: 4-6 anni di durata realistica, l'interno è difficile da pulire, e il bicchierino dell'acqua deve essere riempito prima di ogni utilizzo.",
+      "pros": ["L'iniezione di vapore migliora significativamente lo shokupan di un giorno", "Ingombro compatto di 35,7 cm si adatta a più cucine del NT-D700", "Design Balmuda iconico come elettrodomestico di design"],
+      "cons": ["4-6 anni di durata realistica con il guasto del meccanismo del vapore come modalità di fine vita dominante"],
+      "grade": "A+",
+      "specs": {"Riscaldamento": "Iniezione di vapore (bicchierino 5 ml) + riscaldatore a guaina", "Potenza": "1.300 W", "Larghezza": "35,7 cm", "Modalità": "5 preset (toast, sandwich, pasticcini, francese, forno)", "Volume vapore": "5 ml per ciclo", "Durata di vita": "4-6 anni (tipico)", "Prezzo": "~30.800 yen"},
+      "scores": {"Toast evenness": 4.8, "Speed": 4.0, "Build quality": 4.2, "Value": 3.5, "Slot size": 3.8}
+    },
+    {
+      "offerId": "aladdin-aet-gs13c",
+      "badge": "Miglior Tubo di Grafite",
+      "review": "I tubi di grafite anteriori e posteriori di Aladdin raggiungono 250 °C in 0,2 secondi — ideale per baguette e pani a crosta dura che richiedono un riscaldamento intenso della superficie. L'estetica retro-britannica è d'impatto. Nessun elemento riscaldante inferiore significa girare manualmente per la doratura su entrambi i lati.",
+      "pros": ["I tubi di grafite raggiungono 250 °C in 0,2 secondi per una crosta intensa", "Accoglie una pizza da 25 cm o una baguette in diagonale", "Estetica retro-britannica che si distingue dalle alternative giapponesi"],
+      "cons": ["Nessun elemento riscaldante inferiore — si richiede girare manualmente per la doratura su entrambi i lati"],
+      "grade": "A",
+      "specs": {"Riscaldamento": "Tubo di grafite (anteriore + posteriore superiore)", "Potenza": "1.300 W", "Temperatura max": "280 °C", "Timer": "13 minuti", "Larghezza interna": "~25 cm", "Durata di vita": "5-7 anni", "Prezzo": "~17.600 yen"},
+      "scores": {"Toast evenness": 3.8, "Speed": 5.0, "Build quality": 4.0, "Value": 4.2, "Slot size": 4.5}
+    },
+    {
+      "offerId": "mitsubishi-bread-oven-to-st1",
+      "badge": "Migliore per Famiglie Monolocatarie",
+      "review": "Il design a cavità chiusa di Mitsubishi intrappola il vapore rilasciato dal pane — il risultato su una singola fetta di shokupan è qualità quasi fresca-di-panetteria. Mitsubishi lo commercializza esplicitamente come 'non per le famiglie', ed è da prendere sul serio: 16+ minuti in serie per quattro fette.",
+      "pros": ["La cavità chiusa preserva l'umidità interna meglio di qualsiasi macchina a cavità aperta", "Ciclo di 4 minuti per una fetta di shokupan perfetta", "Design compatto per i nuclei monolocatari"],
+      "cons": ["Fa solo una fetta alla volta — sbagliato per le famiglie (16+ minuti in serie per quattro persone)"],
+      "grade": "B+",
+      "specs": {"Design": "Cavità chiusa (una fetta)", "Spessore fetta": "Ottimizzato per shokupan da 1,4 cm", "Potenza": "1.270 W", "Ciclo": "~4 minuti per fetta", "Pubblico target": "Nuclei monolocatari e coppie", "Durata di vita": "4-6 anni", "Prezzo": "~34.000 yen"},
+      "scores": {"Toast evenness": 5.0, "Speed": 3.0, "Build quality": 4.5, "Value": 3.0, "Slot size": 2.0}
+    },
+    {
+      "offerId": "panasonic-bistro-nt-d700",
+      "badge": "Miglior Multifunzione",
+      "review": "Il ventilatore a convezione e la gamma 100-260 °C del Panasonic Bistro coprono genuinamente toast, pizza surgelata, gratin e cosce di pollo — l'unica macchina qui che padroneggia tutti e quattro i casi d'uso senza compromessi. L'ingombro di 39,8 cm è genuinamente grande per una cucina di appartamento giapponese.",
+      "pros": ["Convezione più 100-260 °C copre toast e funzioni di piccolo forno", "Supporto post-vendita più forte tramite la rete nazionale Panasonic", "Cavità interna di 30 cm accoglie pizza da 25 cm o piccole cosce di pollo"],
+      "cons": ["39,8 cm di larghezza e 32,5 cm di profondità — genuinamente grande per cucine di appartamento giapponesi"],
+      "grade": "B",
+      "specs": {"Riscaldamento": "Convezione + doppi elementi riscaldanti", "Potenza": "1.300 W", "Temperatura": "100-260 °C", "Larghezza": "39,8 cm", "Profondità": "32,5 cm", "Cavità interna": "30 cm", "Prezzo": "~42.000 yen"},
+      "scores": {"Toast evenness": 4.3, "Speed": 4.0, "Build quality": 4.7, "Value": 3.8, "Slot size": 5.0}
+    },
+    {
+      "offerId": "zojirushi-kongari-et-wma22",
+      "badge": "Miglior Rapporto Qualità-Prezzo",
+      "review": "L'ET-WMA22 di Zojirushi è l'affidabile forno tostapane a due fette sotto i 10.000 yen con 7-10 anni di durata realistica e 8-10 anni di disponibilità dei ricambi. Senza vapore — il toast normale risulta notevolmente più secco — ma per le famiglie senza focus sullo shokupan fa il lavoro senza il sovrapprezzo di design.",
+      "pros": ["7-10 anni di durata realistica — la più lunga tra le cinque", "Sotto i 10.000 yen con supporto post-vendita completo di marca giapponese", "Ingombro compatto di 32 cm si adatta a qualsiasi cucina di appartamento"],
+      "cons": ["Senza vapore — il toast risulta notevolmente più secco rispetto alle macchine a iniezione di vapore"],
+      "grade": "B-",
+      "specs": {"Riscaldamento": "Riscaldatore a guaina", "Potenza": "1.300 W", "Modalità": "5 preset (toast, surgelato, kashi-pan, croissant, manuale)", "Larghezza interna": "22 cm", "Larghezza": "32 cm", "Durata di vita": "7-10 anni", "Prezzo": "~9.900 yen"},
+      "scores": {"Toast evenness": 3.8, "Speed": 3.8, "Build quality": 4.5, "Value": 5.0, "Slot size": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per gli amanti dello shokupan", "offerId": "balmuda-the-toaster-k11a", "reason": "Iniezione di vapore e design iconico per le famiglie che valorizzano lo shokupan come pane principale della colazione e vogliono un elettrodomestico di design."},
+    {"label": "Per i mangiatori di baguette e pane a crosta dura", "offerId": "aladdin-aet-gs13c", "reason": "I tubi di grafite che raggiungono 250 °C in 0,2 secondi offrono la crosta intensa che i pani a crosta dura richiedono."},
+    {"label": "Per i nuclei monolocatari", "offerId": "mitsubishi-bread-oven-to-st1", "reason": "Design a cavità chiusa monofetta per i fan di shokupan che vivono da soli o in coppia con colazione sfalsata."},
+    {"label": "Per i cuochi tuttofare", "offerId": "panasonic-bistro-nt-d700", "reason": "L'unica macchina qui che copre genuinamente toast, pizza, gratin e pollo senza compromessi — per le famiglie che vogliono sostituire un piccolo forno."},
+    {"label": "Per gli acquirenti con budget limitato", "offerId": "zojirushi-kongari-et-wma22", "reason": "Sotto i 10.000 yen con 7-10 anni di affidabilità e servizio completo di marca giapponese — la scelta onesta per le famiglie senza ossessione per lo shokupan."}
+  ]
 }

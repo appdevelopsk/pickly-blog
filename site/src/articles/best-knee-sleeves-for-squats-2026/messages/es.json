@@ -53,5 +53,124 @@
     "rogue-knee-sleeves-5mm": "5mm, no aprobadas por IPF, se venden en pares, mejor para entrenamiento general"
   },
   "pinDescription": "7mm o 5mm, aprobadas por IPF o no — la rodillera correcta depende de cómo haces sentadillas. Estas 5 opciones cubren la competencia de powerlifting, CrossFit y el entrenamiento de fuerza cotidiano sin superposición innecesaria. #Rodilleras #Powerlifting #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada producto fue evaluado según cinco criterios: calidad de construcción, rendimiento en uso típico, durabilidad, comodidad y relación calidad-precio. El rendimiento y la durabilidad tuvieron mayor peso porque determinan si un producto sigue siendo útil 12 meses después.",
+  "products": [
+    {
+      "offerId": "sbd-knee-sleeves-7mm",
+      "badge": "Mejor opción general",
+      "review": "El neopreno de doble capa de 7mm de SBD está aprobado por IPF y se usa en más campeonatos mundiales que cualquier otra marca. Las costuras dobles en bordes superior e inferior evitan que la rodillera se deslice. El dimensionado por circunferencia del muslo es crítico: una rodillera ligeramente grande no proporciona la compresión ni el rebote que justifica elegir 7mm sobre 5mm.",
+      "pros": ["Aprobada IPF para competición", "Costuras dobles anti-deslizamiento", "Mejor rebote al salir del punto más bajo en 7mm"],
+      "cons": ["Demasiado caliente para calentamientos — reservada para series de trabajo al 80%+"],
+      "grade": "A+",
+      "specs": {
+        "Grosor": "7mm neopreno doble capa",
+        "Aprobada IPF": "Sí",
+        "Venta": "Por pares",
+        "Talla": "Por circunferencia del muslo",
+        "Precio": "$110.00/par"
+      },
+      "scores": {
+        "Calidad de construcción": 5.0,
+        "Durabilidad": 5.0,
+        "Compresión": 5.0,
+        "Comodidad": 3.5,
+        "Relación calidad-precio": 3.8
+      }
+    },
+    {
+      "offerId": "rehband-rx-knee-sleeve-7mm",
+      "badge": "Mejor para comodidad",
+      "review": "El corte cónico anatómico de Rehband — más ancho arriba, más estrecho en la base de la rótula — mantiene la rodillera centrada mejor durante sentadillas profundas. No aprobada IPF pero compresión y rebote comparables a SBD para el entrenamiento. Venta individual para probar una rodilla antes de comprar el par.",
+      "pros": ["Corte cónico anatómico permanece centrado en sentadillas profundas", "Venta individual para probar una rodilla primero", "Más caliente para gimnasios fríos"],
+      "cons": ["No aprobada IPF — no válida para competición"],
+      "grade": "A",
+      "specs": {
+        "Grosor": "7mm neopreno",
+        "Aprobada IPF": "No",
+        "Venta": "Individual o por pares",
+        "Corte": "Cónico anatómico",
+        "Precio": "$49.99/unidad"
+      },
+      "scores": {
+        "Calidad de construcción": 4.8,
+        "Durabilidad": 4.8,
+        "Compresión": 4.5,
+        "Comodidad": 4.8,
+        "Relación calidad-precio": 4.5
+      }
+    },
+    {
+      "offerId": "stoic-strength-knee-sleeves",
+      "badge": "Mejor relación calidad-precio",
+      "review": "Las rodilleras 7mm IPF de Stoic ofrecen compresión de nivel competitivo al precio de la mitad de SBD. La costura trasera reforzada aborda el punto de fallo más común de rodilleras baratas. Talla ligeramente pequeña comparada con Rehband — subir una talla si se está entre tallas.",
+      "pros": ["Aprobada IPF a la mitad del precio de SBD", "Costura trasera reforzada para durabilidad", "Rebote funcional sin período de adaptación"],
+      "cons": ["Talla ligeramente pequeña — subir una talla"],
+      "grade": "B+",
+      "specs": {
+        "Grosor": "7mm neopreno",
+        "Aprobada IPF": "Sí",
+        "Venta": "Por pares",
+        "Talla": "Ligeramente pequeña",
+        "Precio": "$67.00/par"
+      },
+      "scores": {
+        "Calidad de construcción": 4.2,
+        "Durabilidad": 4.3,
+        "Compresión": 4.5,
+        "Comodidad": 4.0,
+        "Relación calidad-precio": 5.0
+      }
+    },
+    {
+      "offerId": "a7-bar-grip-knee-sleeves",
+      "badge": "Mejor para CrossFit",
+      "review": "Las rodilleras 5mm de A7 tienen un patrón de agarre de barra impreso en silicona en el exterior que evita la migración durante sentadillas, box jumps y thrusters. A 5mm el neopreno permite amplitud completa en wall balls y pistol squats donde el 7mm modifica la mecánica. Diseñadas para CrossFit, no aprobadas IPF.",
+      "pros": ["Exterior de silicona evita migración en movimientos dinámicos", "5mm permite amplitud completa para CrossFit", "Vendidas por pares"],
+      "cons": ["No aprobada IPF", "Suplemento del 15–20% sobre opciones 5mm estándar"],
+      "grade": "B",
+      "specs": {
+        "Grosor": "5mm neopreno",
+        "Aprobada IPF": "No",
+        "Venta": "Por pares",
+        "Exterior": "Impresión silicona agarre barra",
+        "Precio": "$60–70/par"
+      },
+      "scores": {
+        "Calidad de construcción": 4.3,
+        "Durabilidad": 4.2,
+        "Compresión": 3.8,
+        "Comodidad": 4.5,
+        "Relación calidad-precio": 4.0
+      }
+    },
+    {
+      "offerId": "rogue-knee-sleeves-5mm",
+      "badge": "Mejor para entrenamiento general",
+      "review": "Las rodilleras 5mm de Rogue son para atletas que hacen sentadillas, press y jalones en la misma sesión sin quitarlas entre movimientos. Menos rebote que 7mm — diseño intencional. Calor constante sin incomodidad en sesiones de 60–90 minutos.",
+      "pros": ["Usables toda la sesión sin quitarlas", "Calor constante sin sobrecalentamiento", "Sistema de talla simple Rogue"],
+      "cons": ["Menos rebote que 7mm — no para sentadillas máximas en powerlifting"],
+      "grade": "B-",
+      "specs": {
+        "Grosor": "5mm neopreno capa única",
+        "Aprobada IPF": "No",
+        "Venta": "Por pares",
+        "Ideal para": "Entrenamiento de fuerza general",
+        "Precio": "$60.00/par"
+      },
+      "scores": {
+        "Calidad de construcción": 4.2,
+        "Durabilidad": 4.3,
+        "Compresión": 3.5,
+        "Comodidad": 4.8,
+        "Relación calidad-precio": 4.3
+      }
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para competición IPF", "offerId": "sbd-knee-sleeves-7mm", "reason": "Aprobada IPF, usada por campeones mundiales, fiable en intensidad de competición"},
+    {"label": "Para quienes priorizan comodidad", "offerId": "rehband-rx-knee-sleeve-7mm", "reason": "Corte anatómico permanece centrado, venta individual permite probar una rodilla primero"},
+    {"label": "Para powerlifters con presupuesto ajustado", "offerId": "stoic-strength-knee-sleeves", "reason": "Aprobada IPF al precio de SBD/2 con compresión de nivel competitivo"},
+    {"label": "Para atletas de CrossFit", "offerId": "a7-bar-grip-knee-sleeves", "reason": "Grip silicona evita migración en box jumps, thrusters y movimientos WOD repetitivos"},
+    {"label": "Para entrenamiento de gimnasio general", "offerId": "rogue-knee-sleeves-5mm", "reason": "Usables toda la sesión a través de todos los movimientos sin quitarlas entre series"}
+  ]
 }

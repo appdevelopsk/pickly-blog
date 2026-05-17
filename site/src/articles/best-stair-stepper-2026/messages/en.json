@@ -58,5 +58,154 @@
     "stairmaster-8-series-stepmill": "Commercial stepmill (previous generation), 7-8 inch steps, available refurbished. $1,500-2,500 refurbished. Best home stepmill value — genuine stepmill mechanics at lower cost than Gauntlet when purchased refurbished. Check motor hours before purchase."
   },
   "pinDescription": "Stair stepper 2026: StairMaster Gauntlet vs Bowflex Max Trainer vs mini stair stepper — stepmill vs step climber mechanics explained, calorie burn comparison, how to use a StairMaster for HIIT, and which stair stepper is worth buying for your home gym.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each machine was evaluated on step mechanics (rotating stair vs pedal vs mini-pedal), resistance range and consistency, caloric output per hour at moderate pace, noise level in apartment settings, floor footprint relative to conditioning output, and joint impact level for users with knee or hip limitations.",
+  "products": [
+    {
+      "offerId": "stairmaster-gauntlet-stepmill",
+      "badge": "Best Overall",
+      "review": "The Gauntlet Stepmill is the only machine in this comparison with genuine rotating stair mechanics — 8-inch steps that require true step-on / step-off movement producing the fullest hip extension arc and highest glute activation in the category. At level 8-10 of 26, most adults burn 400-500 cal/hour. Trade-off: 440 lbs and $4,500-6,000 price makes this a commercial or serious dedicated home gym purchase; floor reinforcement often required.",
+      "pros": ["Genuine rotating stair mechanics — full hip extension per step", "26 resistance levels with touchscreen and Bluetooth", "Highest glute engagement in the category"],
+      "cons": ["440 lbs, $4,500–6,000 — commercial price and installation logistics"],
+      "grade": "A+",
+      "specs": {
+        "Type": "Rotating stepmill",
+        "Step height": "8 inches",
+        "Resistance levels": "26",
+        "Console": "Touchscreen + Bluetooth",
+        "Weight": "~440 lbs (200 kg)",
+        "Footprint": "Approx. 42 × 34 inches",
+        "Price": "$4,500–6,000"
+      },
+      "scores": {
+        "Step resistance": 5.0,
+        "Build quality": 5.0,
+        "Noise": 4.2,
+        "Value": 3.0,
+        "Footprint": 2.5
+      }
+    },
+    {
+      "offerId": "bowflex-max-trainer-m9",
+      "badge": "Best Connected Home",
+      "review": "The Max Trainer M9 adds moving handles to the step-climbing motion, engaging the upper body pull muscles and increasing caloric burn per session compared to lower-body-only steppers. JRNY app provides streaming content and auto-resistance adjustments. At 20 resistance levels and a compact footprint, it's the most feature-complete home stepper. Trade-off: the pedal motion doesn't replicate true stair climbing — hip extension arc is smaller than a rotating stepmill, meaning lower glute activation per step.",
+      "pros": ["Moving handles increase caloric burn vs lower-body-only steppers", "JRNY app with streaming classes and auto-resistance", "Compact footprint for a full-featured connected machine"],
+      "cons": ["Pedal motion has smaller hip extension arc than true stepmill — less glute activation"],
+      "grade": "A",
+      "specs": {
+        "Type": "Step climber + moving arms",
+        "Resistance levels": "20",
+        "Console": "Touchscreen",
+        "App": "JRNY (streaming + auto-resistance)",
+        "Weight": "Approx. 160 lbs",
+        "Price": "$1,999",
+        "Subscription": "JRNY included"
+      },
+      "scores": {
+        "Step resistance": 4.3,
+        "Build quality": 4.5,
+        "Noise": 4.4,
+        "Value": 4.0,
+        "Footprint": 4.2
+      }
+    },
+    {
+      "offerId": "sunny-health-stair-stepper-mini",
+      "badge": "Best Budget / Desk",
+      "review": "The Sunny Health mini stepper's 4-6 inch step range and hydraulic resistance make it appropriate for light daily movement, desk use, or early rehabilitation — not serious cardiovascular conditioning. At $30-60 it's a commitment-free entry point for anyone who wants to add stepping movement to a desk job without disrupting work. Trade-off: the limited resistance range and short step height produce insufficient caloric output for cardiovascular fitness goals; expect 150-200 cal/hour maximum.",
+      "pros": ["Smallest footprint — fits under a desk for light stepping during work", "Hydraulic resistance requires no power or setup", "Under $60 for commitment-free movement addition"],
+      "cons": ["4-6 inch step height too small for meaningful glute engagement or cardio output"],
+      "grade": "B+",
+      "specs": {
+        "Type": "Mini pedal stepper",
+        "Step height": "4–6 inches",
+        "Resistance": "Hydraulic (adjustable)",
+        "Console": "Basic LCD",
+        "Weight": "Approx. 18 lbs",
+        "Footprint": "Very compact",
+        "Price": "$30–60"
+      },
+      "scores": {
+        "Step resistance": 3.2,
+        "Build quality": 3.5,
+        "Noise": 4.8,
+        "Value": 4.9,
+        "Footprint": 5.0
+      }
+    },
+    {
+      "offerId": "nustep-t4r-recumbent-stepper",
+      "badge": "Best for Joint Protection",
+      "review": "The NuStep T4r's recumbent seated position eliminates the standing impact load that makes step climbing difficult for users with knee or hip limitations — you get full upper and lower body cardiovascular conditioning while seated. Resistance scales from near-zero upward, making it suitable for post-surgical rehabilitation and seniors. Trade-off: the seated design limits peak cardiovascular intensity compared to standing stepmills; healthy athletes seeking high-intensity conditioning will find the NuStep's ceiling too low.",
+      "pros": ["Seated position eliminates standing impact for joint-limited users", "Full upper and lower body engagement while seated", "Near-zero resistance start for rehabilitation contexts"],
+      "cons": ["Seated design limits peak cardiovascular intensity for healthy athletes"],
+      "grade": "B",
+      "specs": {
+        "Type": "Recumbent cross trainer",
+        "Position": "Seated",
+        "Resistance range": "Near-zero to high",
+        "Engagement": "Full upper + lower body",
+        "Common use": "Rehabilitation, seniors",
+        "Price": "$2,995",
+        "Weight capacity": "300+ lbs"
+      },
+      "scores": {
+        "Step resistance": 4.0,
+        "Build quality": 4.7,
+        "Noise": 4.6,
+        "Value": 3.6,
+        "Footprint": 3.2
+      }
+    },
+    {
+      "offerId": "stairmaster-8-series-stepmill",
+      "badge": "Best Refurbished Value",
+      "review": "The 8-Series shares the same rotating stepmill mechanics as the Gauntlet at 7-8 inch step height, but as a previous-generation commercial unit it's available refurbished for $1,500-2,500 — half to one-third the Gauntlet's price. Commercial-grade machines in home gym environments last 10-15 years. Trade-off: purchasing requires dealing with fitness equipment dealers, verifying motor hours before buying (under 5,000 hours preferred), and managing delivery of a 300+ lb machine.",
+      "pros": ["Genuine rotating stepmill mechanics at refurbished price ($1,500–2,500)", "Commercial-grade longevity — 10–15 years in home use", "7-8 inch steps identical in mechanics to current Gauntlet"],
+      "cons": ["Requires dealer sourcing, motor hour verification, and heavy delivery logistics"],
+      "grade": "B-",
+      "specs": {
+        "Type": "Rotating stepmill (commercial, previous gen)",
+        "Step height": "7–8 inches",
+        "Resistance levels": "Multiple",
+        "Availability": "Refurbished via dealers",
+        "Price": "$1,500–2,500 (refurbished)",
+        "Motor hours": "Under 5,000 preferred",
+        "Longevity": "10–15 years home use"
+      },
+      "scores": {
+        "Step resistance": 4.8,
+        "Build quality": 4.9,
+        "Noise": 4.0,
+        "Value": 4.4,
+        "Footprint": 2.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For commercial gym users replicating at home",
+      "offerId": "stairmaster-gauntlet-stepmill",
+      "reason": "If you've trained on StairMasters in commercial gyms and want the identical experience at home, the Gauntlet is the only option — no other machine here replicates rotating-stair glute mechanics."
+    },
+    {
+      "label": "For connected home gym athletes",
+      "offerId": "bowflex-max-trainer-m9",
+      "reason": "JRNY streaming classes, moving handles for upper body calorie burn, and a compact footprint deliver the best all-around connected stepping experience in a residential space."
+    },
+    {
+      "label": "For desk workers adding daily movement",
+      "offerId": "sunny-health-stair-stepper-mini",
+      "reason": "The mini stepper slides under a standing desk, requires no power, and adds meaningful light movement to a sedentary workday at negligible cost."
+    },
+    {
+      "label": "For users with knee or hip limitations",
+      "offerId": "nustep-t4r-recumbent-stepper",
+      "reason": "The recumbent seated design provides full cardiovascular conditioning with near-zero impact load — the only option in this comparison for post-surgical rehabilitation or severe joint limitations."
+    },
+    {
+      "label": "For home gym builders on a budget",
+      "offerId": "stairmaster-8-series-stepmill",
+      "reason": "Genuine rotating stepmill mechanics at $1,500-2,500 refurbished is the most cost-efficient path to commercial-grade stair climbing in a dedicated home gym space."
+    }
+  ]
 }

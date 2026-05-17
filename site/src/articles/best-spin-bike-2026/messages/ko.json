@@ -92,5 +92,184 @@
     "sunny-health-sf-b1002": "최고의 예산형 기본 스핀바이크 — 예산 가격대의 자석 저항이 유지 보수 없는 작동을 제공하고, 조절성이 대부분의 성인 키를 수용하며, 운반용 바퀴가 1인 이동을 가능하게 합니다. 8kg 플라이휠이 트레이드오프입니다: 중간 저항에서 라이딩 느낌이 더 무거운 플라이휠 바이크보다 덜 유동적입니다. 커넥티드 콘텐츠나 구조화된 인터벌 훈련 프로토콜이 필요하지 않은 정상 상태 유산소 라이더에게 적합합니다."
   },
   "pinDescription": "2026년 최고의 스핀바이크 비교: 플라이휠 무게 vs 저항 방식, Peloton vs Schwinn IC4 vs NordicTrack S22i vs Bowflex VeloCore — 커넥티드 콘텐츠 비용, 공간 풋프린트, 훈련 스타일과 예산에 맞는 바이크.",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 자전거를 중간 저항에서 플라이휠 부드러움(16–19kg 범위), 6개월에 걸친 자기 저항 일관성, 안장과 핸들바 조절 범위, 구독 비용을 고려한 커넥티드 콘텐츠 가치, 아파트 환경에서의 소음 수준으로 평가했습니다.",
+  "products": [
+    {
+      "offerId": "peloton-bike",
+      "badge": "종합 최고",
+      "review": "Peloton Bike는 하드웨어와 콘텐츠 모두를 통해 플래그십 지위를 얻습니다 — 16kg 플라이휠과 정밀 자기 저항은 부드러운 케이던스를 제공하고 50,000개 이상의 클래스가 동기부여를 제공합니다. 단점: 월 $44 All-Access 구독이 사실상 필수입니다.",
+      "pros": [
+        "50,000개 이상 라이브/온디맨드 클래스가 있는 21.5인치 HD 터치스크린",
+        "부드러운 관성을 위한 16kg 플라이휠",
+        "조용한 자기 저항 — 아파트 적합"
+      ],
+      "cons": [
+        "하드웨어 가격 정당화를 위해 월 $44 구독이 사실상 필수"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Flywheel": "16 kg",
+        "Resistance": "Magnetic (100 levels)",
+        "Screen": "21.5\" HD touchscreen",
+        "Drive": "Belt drive",
+        "Footprint": "59×53 cm",
+        "Weight": "57 kg",
+        "Subscription": "$44/mo All-Access"
+      },
+      "scores": {
+        "Resistance feel": 4.8,
+        "Build quality": 4.8,
+        "Comfort": 4.5,
+        "Value": 3.8,
+        "Noise": 4.9
+      }
+    },
+    {
+      "offerId": "schwinn-ic4",
+      "badge": "가성비 커넥티드 최고",
+      "review": "Schwinn IC4의 18kg 플라이휠은 Peloton보다 무겁습니다 — 과소평가된 사양. 가정 내 공유 사용을 위한 완전한 4방향 조절. Peloton, Zwift, Apple Fitness+에 내장 스크린 없이 블루투스 연결. 단점: 내장 스크린 없음.",
+      "pros": [
+        "18kg 플라이휠 — Peloton보다 무거움",
+        "공유 사용을 위한 완전한 4방향 조절",
+        "Peloton, Zwift, Apple Fitness+에 블루투스 호환"
+      ],
+      "cons": [
+        "내장 스크린 없음 — 외부 태블릿 필요"
+      ],
+      "grade": "A",
+      "specs": {
+        "Flywheel": "18 kg",
+        "Resistance": "Magnetic (100 levels)",
+        "Screen": "None (Bluetooth)",
+        "Drive": "Belt drive",
+        "Footprint": "54×107 cm",
+        "Weight": "47 kg",
+        "Subscription": "User choice"
+      },
+      "scores": {
+        "Resistance feel": 4.7,
+        "Build quality": 4.6,
+        "Comfort": 4.4,
+        "Value": 4.6,
+        "Noise": 4.8
+      }
+    },
+    {
+      "offerId": "nordictrack-s22i",
+      "badge": "지형 훈련 최고",
+      "review": "S22i의 전동 -10~+20% 경사는 여기서 진정한 오르막과 내리막을 시뮬레이션하는 유일한 기능입니다. 회전하는 22인치 스크린은 상체 운동에도 사용 가능합니다. 단점: 가장 큰 자전거, 월 $39 iFit 필요.",
+      "pros": [
+        "지형 시뮬레이션을 위한 전동 -10~+20% 경사",
+        "자전거 안팎 운동을 위한 22인치 회전 터치스크린",
+        "iFit 자동 저항 및 경사 동기화"
+      ],
+      "cons": [
+        "가장 큰 설치 면적; 핵심 기능에 월 $39 iFit 필요"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Flywheel": "~16 kg",
+        "Resistance": "Magnetic + motorized incline",
+        "Screen": "22\" rotating",
+        "Incline": "-10% to +20%",
+        "Footprint": "56×137 cm",
+        "Weight": "64 kg",
+        "Subscription": "$39/mo iFit"
+      },
+      "scores": {
+        "Resistance feel": 4.7,
+        "Build quality": 4.5,
+        "Comfort": 4.4,
+        "Value": 3.9,
+        "Noise": 4.5
+      }
+    },
+    {
+      "offerId": "bowflex-velocore-16",
+      "badge": "코어 훈련 최고",
+      "review": "VeloCore의 25도 측면 기울기는 측면 안정근을 활성화하고 긴 라이드에서의 허리 피로를 줄입니다. JRNY는 월 $20. 단점: 16인치 스크린이 경쟁사보다 작음.",
+      "pros": [
+        "25도 기울기로 코어와 측면 안정근 활성화",
+        "커넥티드 자전거 중 가장 낮은 구독료($20/월)",
+        "53×61cm 소형 설치 면적"
+      ],
+      "cons": [
+        "16인치 스크린이 경쟁사보다 작음; 기울기에 적응 필요"
+      ],
+      "grade": "B",
+      "specs": {
+        "Flywheel": "15 kg",
+        "Resistance": "Magnetic",
+        "Screen": "16\" touchscreen",
+        "Lean": "±25°",
+        "Footprint": "53×61 cm",
+        "Weight": "54 kg",
+        "Subscription": "$20/mo JRNY"
+      },
+      "scores": {
+        "Resistance feel": 4.4,
+        "Build quality": 4.3,
+        "Comfort": 4.6,
+        "Value": 4.2,
+        "Noise": 4.7
+      }
+    },
+    {
+      "offerId": "sunny-health-sf-b1002",
+      "badge": "예산 최고",
+      "review": "예산 가격에서의 자기 저항이 Sunny Health의 주요 장점 — 유지보수 없는 운영. 8kg 플라이휠이 단점: 중간 저항에서 페달이 더 거칠게 느껴집니다. 이동 바퀴로 혼자 이동 가능합니다.",
+      "pros": [
+        "예산 가격의 자기 저항 — 유지보수 불필요",
+        "1인 이동을 위한 이동 바퀴",
+        "비교에서 가장 작은 설치 면적과 가장 가벼운 무게"
+      ],
+      "cons": [
+        "8kg 플라이휠이 중간 저항에서 더 거친 페달감 유발"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Flywheel": "8 kg",
+        "Resistance": "Magnetic (knob)",
+        "Screen": "LCD",
+        "Drive": "Belt drive",
+        "Footprint": "47×99 cm",
+        "Weight": "43 kg",
+        "Subscription": "None"
+      },
+      "scores": {
+        "Resistance feel": 3.6,
+        "Build quality": 3.8,
+        "Comfort": 3.9,
+        "Value": 4.7,
+        "Noise": 4.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "동기부여 클래스 라이더를 위한",
+      "offerId": "peloton-bike",
+      "reason": "라이브 강사 클래스와 리더보드 경쟁이 주 3회 이상 일관성을 유지하는 외부 동기부여 구조를 제공합니다."
+    },
+    {
+      "label": "플랫폼에 구애받지 않는 사이클리스트를 위한",
+      "offerId": "schwinn-ic4",
+      "reason": "여러 앱과의 블루투스 호환성으로 구독 전 플랫폼을 시험할 수 있습니다 — 최대 유연성."
+    },
+    {
+      "label": "실내에서 훈련하는 로드 사이클리스트를 위한",
+      "offerId": "nordictrack-s22i",
+      "reason": "전동 경사와 iFit 지형 시뮬레이션이 자동 경사 변화가 있는 실제 야외 루트 훈련에 가장 가까운 실내 재현을 만듭니다."
+    },
+    {
+      "label": "허리 피로가 있는 홈 오피스 사용자를 위한",
+      "offerId": "bowflex-velocore-16",
+      "reason": "기울기 메커니즘이 측면 안정근에 자세 부하를 분산시켜 긴 고정 자세 라이드에서의 허리 누적을 줄입니다."
+    },
+    {
+      "label": "예산을 우선시하는 구매자를 위한",
+      "offerId": "sunny-health-sf-b1002",
+      "reason": "자기 저항과 이동 바퀴가 구독 비용 없이 최저 가격에 핵심 기능을 제공합니다."
+    }
+  ]
 }

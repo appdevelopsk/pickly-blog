@@ -93,5 +93,64 @@
     "twinbird-ep-4694": "Olla de cocción lenta japonesa compacta para platos estofados y oden -- olla de cerámica, consumo de 450W, soporte doméstico completo. Sin temporizador programable; capacidad más pequeña limita a cocción para 1-3 personas."
   },
   "pinDescription": "Cinco ollas de cocción lenta comparadas en 2026 -- Crock-Pot 6-Quart, Instant Pot Duo 7-in-1, Cuisinart CSC-800, Panasonic SR-MP300 y Twinbird EP-4694. ¿Cuál maneja guisos nocturnos, oden y yogur fermentado sin vigilancia? #OllaCoccionLenta #CocinaLenta #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada olla de cocción lenta fue evaluada por la consistencia real de distribución de calor en el recipiente, fiabilidad del temporizador, precisión de la capacidad indicada, facilidad de limpieza del recipiente y reportes de propietarios a largo plazo sobre el sellado de la tapa y la longevidad del elemento calefactor.",
+  "products": [
+    {
+      "offerId": "crock-pot-sccpvl610-s",
+      "badge": "Mejor en general",
+      "review": "El Crock-Pot SCCPVL610-S no ha cambiado mucho en cuarenta años porque el diseño central funciona: recipiente de cerámica de 6 cuartos, distribución uniforme del calor y un dial de tres ajustes que es imposible de usar incorrectamente. La ausencia de temporizador significa que la comida cocina hasta que se cambia manualmente a Warm — una restricción real si tu horario es impredecible.",
+      "pros": ["Recipiente de cerámica de 6 cuartos para pollos enteros y asados grandes", "Dial de tres posiciones a prueba de fallos", "Recipiente y tapa aptos para lavavajillas"],
+      "cons": ["Sin temporizador — no cambia automáticamente a Warm al terminar la cocción"],
+      "grade": "A+",
+      "specs": {"Capacidad": "6 cuartos (5,7L)", "Potencia": "200W (Bajo) / 300W (Alto)", "Temporizador": "Ninguno", "Recipiente": "Cerámica", "Tapa": "Cristal, sin cierre", "Dimensiones": "~35×25×28cm"},
+      "scores": {"Distribución de calor": 4.7, "Capacidad": 4.9, "Facilidad de uso": 5.0, "Valor": 4.9, "Programabilidad": 1.0}
+    },
+    {
+      "offerId": "instant-pot-duo-7in1",
+      "badge": "Mejor olla versátil",
+      "review": "El Instant Pot Duo 7-in-1 gana su lugar combinando una olla a presión que reduce un estofado de 6 horas a 35 minutos con una olla de cocción lenta programable para cocciones de todo el día. La advertencia conocida: su ajuste Bajo de cocción lenta funciona más caliente que un Crock-Pot tradicional en Bajo — las recetas existentes necesitan ajuste.",
+      "pros": ["Modo a presión reduce largas cocciones a menos de 45 minutos", "Olla lenta con temporizador programable y auto Mantener Caliente", "Tapa con cierre evita derrames durante el transporte"],
+      "cons": ["La cocción lenta en Bajo funciona más caliente que las ollas tradicionales — requiere ajuste de recetas"],
+      "grade": "A",
+      "specs": {"Capacidad": "6 cuartos (5,7L)", "Potencia": "1000W", "Temporizador": "Sí (hasta 24h + inicio diferido)", "Recipiente": "Acero inoxidable", "Tapa": "Tapa de cierre a presión", "Modos": "7 (presión, cocción lenta, sofreír, vapor, arroz, mantener caliente, yogur)"},
+      "scores": {"Distribución de calor": 4.2, "Capacidad": 4.8, "Facilidad de uso": 3.5, "Valor": 4.5, "Programabilidad": 4.8}
+    },
+    {
+      "offerId": "cuisinart-csc-800",
+      "badge": "Mejor para hogares pequeños",
+      "review": "La capacidad de 3,5 litros del Cuisinart CSC-800 está calibrada para hogares de 1-2 personas — cabe en una encimera compacta junto a una arrocera y produce porciones sin días de sobras. El temporizador de 24 horas con auto Mantener Caliente justifica el precio sobre ollas pequeñas manuales.",
+      "pros": ["Tamaño compacto de 3,5L ideal para hogares de 1-2 personas", "Temporizador de 24 horas con Mantener Caliente automático", "Diseño atractivo de acero inoxidable y cristal"],
+      "cons": ["Solo disponible como importación en Japón — servicio de garantía a través del importador"],
+      "grade": "B+",
+      "specs": {"Capacidad": "3,5 litros", "Potencia": "200W", "Temporizador": "Sí (hasta 24h)", "Recipiente": "Bol de cerámica", "Tapa": "Cristal", "Mercado": "Importación (sin servicio nacional japonés)"},
+      "scores": {"Distribución de calor": 4.3, "Capacidad": 3.5, "Facilidad de uso": 4.5, "Valor": 3.9, "Programabilidad": 4.5}
+    },
+    {
+      "offerId": "panasonic-sr-mp300",
+      "badge": "Mejor para cocina japonesa",
+      "review": "El Panasonic SR-MP300 está diseñado para la forma en que los hogares japoneses cocinan a fuego lento: nimono, oden, kakuni y alimentos fermentados. El modo de fermentación a 40-60°C precisos para yogur y amazake es el diferenciador que ninguna olla occidental ofrece.",
+      "pros": ["Modo fermentación (40-60°C) para yogur y amazake", "Temperatura calibrada para nimono, oden y kakuni", "Red de servicio doméstico completa de Panasonic en Japón"],
+      "cons": ["Solo olla lenta — sin función a presión"],
+      "grade": "B",
+      "specs": {"Capacidad": "2,2 litros", "Potencia": "200W", "Temporizador": "Sí", "Recipiente": "Olla interior", "Modo fermentación": "Sí (40-60°C)", "Mercado": "Japón nacional"},
+      "scores": {"Distribución de calor": 4.8, "Capacidad": 3.2, "Facilidad de uso": 4.3, "Valor": 3.8, "Programabilidad": 4.0}
+    },
+    {
+      "offerId": "twinbird-ep-4694",
+      "badge": "Mejor compacta económica",
+      "review": "El Twinbird EP-4694 ocupa un nicho estrecho: una olla compacta japonesa para oden y guisos a un precio significativamente inferior al Panasonic. La olla de cerámica maneja el oden de alto contenido de humedad sin riesgo de sabor metálico. La ausencia de temporizador es la razón por la que la mayoría termina eligiendo el Panasonic.",
+      "pros": ["Huella compacta para cocinas japonesas pequeñas", "Olla de cerámica sin riesgo de sabor metálico para oden", "Servicio y piezas domésticas japonesas completas"],
+      "cons": ["Sin temporizador — solo encendido/apagado manual"],
+      "grade": "B-",
+      "specs": {"Capacidad": "1,5 litros", "Potencia": "450W", "Temporizador": "Ninguno", "Recipiente": "Cerámica", "Tapa": "Cristal", "Mercado": "Japón nacional"},
+      "scores": {"Distribución de calor": 4.0, "Capacidad": 2.5, "Facilidad de uso": 4.8, "Valor": 4.5, "Programabilidad": 1.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para familias de 4+ o quienes cocinan en lotes", "offerId": "crock-pot-sccpvl610-s", "reason": "El recipiente de cerámica de 6 cuartos maneja pollos enteros y asados grandes, y el sencillo dial no deja margen para el error."},
+    {"label": "Para cocineros entre semana con poco tiempo", "offerId": "instant-pot-duo-7in1", "reason": "El modo presión reduce un estofado de 6 horas a 35 minutos — la única opción cuando se necesita cenar hoy."},
+    {"label": "Para cocinas de apartamento en Tokio", "offerId": "cuisinart-csc-800", "reason": "3,5L cabe junto a la arrocera y el temporizador mantiene la comida caliente hasta que llegas a casa."},
+    {"label": "Para alimentos fermentados y nimono", "offerId": "panasonic-sr-mp300", "reason": "El modo de fermentación a 40-60°C para yogur y amazake no está disponible en ninguna otra olla de cocción lenta a este precio."},
+    {"label": "Para oden sencillo con presupuesto ajustado", "offerId": "twinbird-ep-4694", "reason": "La olla de cerámica y el servicio doméstico ofrecen la entrada más sencilla a la cocción lenta para platos japoneses sencillos."}
+  ]
 }

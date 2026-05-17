@@ -58,5 +58,124 @@
     "marcy-diamond-leg-press": "Entry-level 45-degree sled, 14-gauge steel, 600 lb rated. $300-450. Budget entry-level option — adequate for light home use and rehabilitation. Not recommended for high-volume or heavy leg press training long-term."
   },
   "pinDescription": "Leg press machine 2026: Body-Solid GLPH1100 vs Valor BD-62 vs REP LP-5000 vs Titan V2 — 45-degree sled mechanics explained, foot placement for quad vs glute emphasis, leg press vs hack squat combination machines, and which plate-loaded leg press is worth buying for your home gym.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each machine was assessed on sled travel smoothness, weight capacity headroom, platform size, build longevity, and value — with extra weight on capacity and durability, since a leg press that wobbles under load or bottoms out your progression is unusable regardless of price.",
+  "products": [
+    {
+      "offerId": "body-solid-leg-press-hack-squat",
+      "badge": "Best Overall",
+      "review": "The Body-Solid GLPH1100 is the best home gym value in this comparison: one machine delivers both a 45-degree leg press and a hack squat by repositioning the sled. Linear bearings keep sled travel smooth under the 1,000 lb rated capacity. Commercial-grade frame construction means this machine outlasts most home gym setups. The dual function under $1,000 is the defining argument for most buyers.",
+      "pros": ["Dual leg press + hack squat from one machine", "Linear bearings for smooth sled travel", "1,000 lb capacity handles most home gym loads"],
+      "cons": ["Larger footprint than single-function budget options"],
+      "grade": "A+",
+      "specs": {
+        "Functions": "Leg press + hack squat",
+        "Weight capacity": "1,000 lb",
+        "Sled system": "Linear bearings",
+        "Frame": "Commercial-grade steel",
+        "Price range": "~$700–900"
+      },
+      "scores": {
+        "Build quality": 4.8,
+        "Durability": 4.8,
+        "Load capacity": 5.0,
+        "Versatility": 5.0,
+        "Value": 4.5
+      }
+    },
+    {
+      "offerId": "valor-fitness-bd-62-leg-press",
+      "badge": "Best Budget Option",
+      "review": "The Valor BD-62 uses a nylon guide rod system (not linear bearings) and a 400 lb plate capacity — lighter construction than REP or Body-Solid, but the smaller footprint and lower price make it the right answer for athletes training at moderate loads. Not recommended for anyone regularly loading over 300 lbs of plates or doing serious volume programs with heavy intensities.",
+      "pros": ["Compact footprint smaller than REP or Body-Solid", "Lower price point for moderate-load training", "45-degree sled angle suitable for quad and glute emphasis"],
+      "cons": ["400 lb plate capacity limits heavy users", "Nylon guide rods less smooth than linear bearings"],
+      "grade": "A",
+      "specs": {
+        "Sled angle": "45 degrees",
+        "Weight capacity": "400 lb plates",
+        "Guide system": "Nylon guide rods",
+        "Footprint": "Compact vs REP/Body-Solid",
+        "Price range": "~$500–650"
+      },
+      "scores": {
+        "Build quality": 3.5,
+        "Durability": 3.5,
+        "Load capacity": 3.0,
+        "Ease of use": 4.0,
+        "Value": 4.8
+      }
+    },
+    {
+      "offerId": "rep-fitness-lp-5000-leg-press",
+      "badge": "Best Dedicated Leg Press",
+      "review": "The REP LP-5000 is the best purpose-built 45-degree leg press in this comparison. The 4-roller carriage produces smoother sled travel than Body-Solid's leg press mode, the platform is larger for wide-stance variations, and the adjustable back angle changes hip position for targeted glute or quad emphasis. The trade-off: no hack squat mode, and it costs more than the dual-function Body-Solid.",
+      "pros": ["4-roller carriage for smoothest sled travel in category", "Large platform fits both narrow and wide stance", "Adjustable back angle for glute vs quad emphasis"],
+      "cons": ["No hack squat mode unlike Body-Solid GLPH1100"],
+      "grade": "B+",
+      "specs": {
+        "Sled angle": "45 degrees",
+        "Carriage": "4-roller system",
+        "Platform": "Large, wide-stance capable",
+        "Back angle": "Adjustable",
+        "Price range": "~$700–1,200"
+      },
+      "scores": {
+        "Build quality": 4.7,
+        "Durability": 4.7,
+        "Load capacity": 4.8,
+        "Ease of use": 4.5,
+        "Value": 4.0
+      }
+    },
+    {
+      "offerId": "titan-fitness-leg-press-v2",
+      "badge": "Budget Alternative to REP",
+      "review": "Titan's Leg Press V2 matches the REP's 1,000 lb capacity and linear bearing system at a lower cost, but the sled travel is noticeably rougher — the bearing quality is a step below REP's 4-roller carriage. For home gym athletes who need basic 45-degree leg press function without hack squat or the REP's platform size, the V2 provides adequate performance at a savings over REP.",
+      "pros": ["1,000 lb capacity at lower price than REP", "Linear bearings included (smoother than Valor's guide rods)", "Dedicated leg press without the dual-function complexity"],
+      "cons": ["Sled travel slightly rougher than REP LP-5000"],
+      "grade": "B",
+      "specs": {
+        "Sled angle": "45 degrees",
+        "Weight capacity": "1,000 lb",
+        "Sled system": "Linear bearings",
+        "Functions": "Leg press only",
+        "Price range": "~$600–800"
+      },
+      "scores": {
+        "Build quality": 4.0,
+        "Durability": 4.0,
+        "Load capacity": 4.8,
+        "Ease of use": 4.0,
+        "Value": 4.3
+      }
+    },
+    {
+      "offerId": "marcy-diamond-leg-press",
+      "badge": "Entry-Level Option",
+      "review": "The Marcy Diamond is the lowest-cost option in this comparison, but the 14-gauge steel frame and guide rod system produce sled wobble under heavier loads. The 600 lb rating is adequate for light home use or rehabilitation-focused low-load work, but it is not a long-term solution for athletes doing serious volume at high intensities.",
+      "pros": ["Lowest price in the category", "Adequate for light home use and rehab", "45-degree sled covers basic quad training needs"],
+      "cons": ["Sled wobble under heavy loads", "Not recommended for high-volume or heavy leg press training"],
+      "grade": "B-",
+      "specs": {
+        "Frame gauge": "14-gauge steel",
+        "Weight capacity": "600 lb rated",
+        "Sled angle": "45 degrees",
+        "Guide system": "Guide rod",
+        "Price range": "~$300–450"
+      },
+      "scores": {
+        "Build quality": 2.8,
+        "Durability": 2.8,
+        "Load capacity": 3.0,
+        "Ease of use": 3.8,
+        "Value": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For dual functionality", "offerId": "body-solid-leg-press-hack-squat", "reason": "Gets you both leg press and hack squat exercises under $1,000 with commercial build quality"},
+    {"label": "For tight budgets", "offerId": "valor-fitness-bd-62-leg-press", "reason": "Compact footprint and lower price for athletes training at moderate loads under 300 lbs"},
+    {"label": "For serious quad training", "offerId": "rep-fitness-lp-5000-leg-press", "reason": "Smoothest sled travel and largest platform for high-volume quad hypertrophy work"},
+    {"label": "For cost-conscious buyers", "offerId": "titan-fitness-leg-press-v2", "reason": "1,000 lb capacity with linear bearings at a savings over the REP for basic leg press needs"},
+    {"label": "For rehab or light use", "offerId": "marcy-diamond-leg-press", "reason": "Lowest-cost option that covers rehabilitation-level loads and beginner quad conditioning"}
+  ]
 }

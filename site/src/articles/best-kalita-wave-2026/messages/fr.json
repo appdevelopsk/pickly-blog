@@ -58,5 +58,148 @@
     "fellow-stagg-ekg-kettle": "Bec en col de cygne, température variable 57-100°C, fonction de maintien, 0,9 L. $150-170. Meilleure bouilloire pour le pour-over — contrôle précis du débit, réglage exact de la température, maintien 60 min. L'association correcte pour Kalita Wave, V60 et Chemex."
   },
   "pinDescription": "Kalita Wave pour-over 2026 : 185 vs 155, inox vs céramique vs verre, comment le design à fond plat rend le pour-over plus indulgent que le V60, et avec quelle bouilloire à col de cygne l'associer. #KalitaWave #PourOver #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque dripper a été évalué sur la régularité d'extraction selon différentes techniques de versement, l'impact du matériau sur la rétention de chaleur, la durabilité, la facilité de nettoyage et l'adéquation pour les baristas débutants comme expérimentés.",
+  "products": [
+    {
+      "offerId": "kalita-wave-185-stainless",
+      "badge": "Meilleur au général",
+      "review": "Le Wave 185 inox est la version la plus robuste du dripper : incassable, compatible lave-vaisselle et avec une meilleure rétention de chaleur que le verre. Le seul vrai inconvénient est un léger goût métallique sur les nouvelles unités qui disparaît après les 5 à 10 premiers usages.",
+      "pros": ["Incassable et compatible lave-vaisselle", "Meilleure rétention de chaleur que le verre", "Dure des années avec une utilisation quotidienne intensive"],
+      "cons": ["Léger goût métallique sur les nouvelles unités qui disparaît après quelques utilisations"],
+      "grade": "A+",
+      "specs": {
+        "Matériau": "Inox",
+        "Taille": "185 (2-4 tasses)",
+        "Trous d'écoulement": "3 trous plats",
+        "Compatibilité filtre": "Filtres Wave 185",
+        "Compatible lave-vaisselle": "Oui",
+        "Prix": "$30-40"
+      },
+      "scores": {
+        "Clarté d'extraction": 4.5,
+        "Qualité de fabrication": 5.0,
+        "Facilité d'utilisation": 4.9,
+        "Rapport qualité-prix": 4.7,
+        "Polyvalence": 4.8
+      }
+    },
+    {
+      "offerId": "kalita-wave-155-ceramic",
+      "badge": "Meilleur pour une portion individuelle",
+      "review": "Le Wave 155 en céramique est optimisé pour la profondeur du lit d'une seule tasse : le diamètre plus petit concentre le café moulu de façon à ce que la saturation soit plus uniforme qu'un 185 avec la même dose. La céramique ajoute une saveur propre sans trace métallique, mais attention aux chocs.",
+      "pros": ["Profondeur de lit optimisée pour 1 tasse", "La céramique ne transmet aucun goût", "Toucher et poids premium"],
+      "cons": ["Fragile — un choc fort peut le briser"],
+      "grade": "A",
+      "specs": {
+        "Matériau": "Céramique",
+        "Taille": "155 (1-2 tasses)",
+        "Trous d'écoulement": "3 trous plats",
+        "Compatibilité filtre": "Filtres Wave 155",
+        "Rétention de chaleur": "Bonne",
+        "Prix": "$35-50"
+      },
+      "scores": {
+        "Clarté d'extraction": 4.8,
+        "Qualité de fabrication": 3.8,
+        "Facilité d'utilisation": 4.7,
+        "Rapport qualité-prix": 4.5,
+        "Polyvalence": 3.5
+      }
+    },
+    {
+      "offerId": "kalita-wave-185-glass",
+      "badge": "Meilleur pour apprendre la technique",
+      "review": "Le Wave 185 en verre est le meilleur professeur : voir le bloom se déployer, observer la vitesse d'écoulement et détecter le channeling visuellement accélère l'apprentissage plus que n'importe quel guide. La rétention de chaleur inférieure à la céramique ou à l'inox est réelle — préchauffez le dripper.",
+      "pros": ["Corps transparent pour un retour visuel complet", "Verre résistant à la chaleur", "L'expérience visuelle améliore la technique"],
+      "cons": ["Moins bonne rétention de chaleur et option la plus fragile"],
+      "grade": "B+",
+      "specs": {
+        "Matériau": "Verre borosilicaté",
+        "Taille": "185 (2-4 tasses)",
+        "Trous d'écoulement": "3 trous plats",
+        "Compatibilité filtre": "Filtres Wave 185",
+        "Transparent": "Oui",
+        "Prix": "$45-60"
+      },
+      "scores": {
+        "Clarté d'extraction": 4.6,
+        "Qualité de fabrication": 3.2,
+        "Facilité d'utilisation": 4.5,
+        "Rapport qualité-prix": 4.3,
+        "Polyvalence": 4.0
+      }
+    },
+    {
+      "offerId": "kalita-wave-filters-185",
+      "badge": "Consommable essentiel",
+      "review": "Les filtres Wave sont le composant qui fait fonctionner le système : les plis en forme de vague créent un espace d'air entre le papier et les parois du dripper, éliminant le contact direct et permettant un flux uniforme. Ils ne sont pas interchangeables avec V60, Chemex ou tout autre filtre.",
+      "pros": ["L'espace d'air garantit une extraction uniforme", "100 unités pour ~$10-15 (faible coût par tasse)", "Disponibles sur Amazon avec livraison rapide"],
+      "cons": ["Fonctionnent uniquement avec les drippers Kalita Wave — non interchangeables"],
+      "grade": "B",
+      "specs": {
+        "Compatibilité": "Kalita Wave 185",
+        "Quantité par paquet": "100 unités",
+        "Type": "Papier, plis en forme de vague",
+        "Prix à l'unité": "~$0.10-0.15",
+        "Prix du paquet": "~$10-15"
+      },
+      "scores": {
+        "Clarté d'extraction": 4.5,
+        "Qualité de fabrication": 4.0,
+        "Facilité d'utilisation": 4.8,
+        "Rapport qualité-prix": 4.7,
+        "Polyvalence": 3.0
+      }
+    },
+    {
+      "offerId": "fellow-stagg-ekg-kettle",
+      "badge": "Meilleure bouilloire complémentaire",
+      "review": "Le Stagg EKG possède le bec col de cygne le plus contrôlable du marché pour le pour-over : le débit est prévisible, la température variable va de 57 à 100°C avec une précision au degré, et la fonction de maintien de 60 minutes évite que l'eau refroidisse entre les versements. Le prix de $150-170 est la seule vraie objection.",
+      "pros": ["Contrôle du débit de versement avec une précision maximale", "Fonction de maintien de température 60 minutes", "Conçu spécifiquement pour le pour-over"],
+      "cons": ["Prix premium de $150-170 difficile à justifier si vous avez déjà une bonne bouilloire"],
+      "grade": "B-",
+      "specs": {
+        "Type de bec": "Col de cygne",
+        "Plage de température": "57-100°C",
+        "Capacité": "0,9 L",
+        "Fonction de maintien": "Oui, 60 min",
+        "Affichage": "LCD",
+        "Prix": "$150-170"
+      },
+      "scores": {
+        "Clarté d'extraction": 4.9,
+        "Qualité de fabrication": 4.8,
+        "Facilité d'utilisation": 4.5,
+        "Rapport qualité-prix": 3.8,
+        "Polyvalence": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Usage quotidien intensif",
+      "offerId": "kalita-wave-185-stainless",
+      "reason": "Incassable et compatible lave-vaisselle — idéal si vous préparez 2+ tasses chaque matin et ne voulez pas vous soucier de le casser."
+    },
+    {
+      "label": "Rituel d'une seule tasse",
+      "offerId": "kalita-wave-155-ceramic",
+      "reason": "Le 155 en céramique est optimisé pour 1 tasse : le rapport entre la profondeur du lit et le diamètre offre une extraction plus uniforme que le 185 avec de petites doses."
+    },
+    {
+      "label": "Barista en apprentissage",
+      "offerId": "kalita-wave-185-glass",
+      "reason": "La transparence du verre vous permet de voir le bloom, le rythme d'écoulement et le channeling — un retour visuel qu'aucun autre dripper opaque ne peut vous offrir."
+    },
+    {
+      "label": "Réapprovisionnement en consommables",
+      "offerId": "kalita-wave-filters-185",
+      "reason": "Les filtres Wave sont obligatoires et non interchangeables — faites des stocks en paquets de 100 unités pour ne jamais en manquer."
+    },
+    {
+      "label": "Contrôle total du versement",
+      "offerId": "fellow-stagg-ekg-kettle",
+      "reason": "Le Stagg EKG transforme un bon dripper en système d'extraction de précision — pour ceux qui veulent contrôler chaque variable du processus."
+    }
+  ]
 }

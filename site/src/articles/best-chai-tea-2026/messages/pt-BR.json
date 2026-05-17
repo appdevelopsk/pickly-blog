@@ -58,5 +58,64 @@
     "david-rio-elephant-vanilla-chai": "Mistura de chai em po, baunilha dominante, 450 g / 16-20 porcoes. $15-20. Formato mais conveniente — dissolva em leite quente, sem infusao ou concentrado refrigerado. Correto para viagens ou chai com minimo esforco e perfil de especiarias suave."
   },
   "pinDescription": "Cha chai 2026: Rishi Masala Chai vs Harney & Sons Hot Cinnamon Spice vs concentrado Oregon Chai — folha solta vs saquinhos vs concentrado explicado, como preparar chai em casa (metodo tradicional vs ocidental), conteudo de cafeina e qual chai vale a pena comprar. #chachai #chailatte #especiarias #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada produto foi avaliado pelo perfil de sabor, transparência de origem, custo-benefício por porção, integridade da embalagem e desempenho em usos comuns. Certificações e avaliações verificadas foram confrontadas com as alegações de marketing.",
+  "products": [
+    {
+      "offerId": "rishi-masala-chai",
+      "badge": "Melhor no geral",
+      "review": "Rishi Masala Chai é o referencial do chai masala em folha solta — base Assam com vagens de cardamomo inteiras, canela, gengibre, pimenta-do-reino e cravo para um perfil de especiarias em camadas que nenhum sachê consegue replicar. O aprovisionamento direto das fazendas transparece na qualidade. A filtragem (30 segundos) é o único obstáculo — e vale o esforço para quem busca um chai autêntico.",
+      "pros": ["Especiarias inteiras criam camadas aromáticas — impossível com sachês pré-moídos", "Base Assam com aprovisionamento direto — complexidade maltada", "18–22 xícaras por saquinho — custo similar ao de sachês de qualidade"],
+      "cons": ["Requer coador — um passo a mais que sachês ou concentrado"],
+      "grade": "A+",
+      "specs": {"Formato": "Folha solta", "Base": "Chá preto Assam", "Porções": "18–22 por saquinho de 80 g", "Especiaria principal": "Cardamomo", "Preço/xícara": "$0.60–0.80"},
+      "scores": {"Sabor": 4.9, "Qualidade": 4.8, "Custo-benefício": 4.2, "Praticidade": 3.2, "Versatilidade": 4.5}
+    },
+    {
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "badge": "Melhor chá especiado",
+      "review": "Hot Cinnamon Spice não é um chai masala tradicional — é chá preto com três tipos de canela, casca de laranja e cravo doce. Essa distinção importa: quem busca chai masala sul-asiático deve procurar em outro lugar. Mas como chá especiado intensamente centrado em canela que é excelente preparado a frio em leite durante a noite, é um dos melhores em sua categoria.",
+      "pros": ["Intensamente centrado em canela — apelo amplo sem complexidade de especiarias", "Excelente no cold brew noturno em leite para chai gelado pela manhã", "50 sachês por $10–14 — excelente custo-benefício"],
+      "cons": ["Não é chai masala tradicional — sem gengibre, cardamomo mínimo"],
+      "grade": "A",
+      "specs": {"Formato": "Sachês (50)", "Base": "Chá preto", "Especiaria principal": "3x canela + casca de laranja + cravo", "Preço/sachê": "$0.20–0.28", "Cold brew": "Sim — excelente"},
+      "scores": {"Sabor": 4.7, "Qualidade": 4.5, "Custo-benefício": 4.6, "Praticidade": 4.8, "Versatilidade": 4.0}
+    },
+    {
+      "offerId": "tazo-chai-concentrate",
+      "badge": "Melhor concentrado econômico",
+      "review": "Tazo Chai Concentrado é a forma mais econômica de fazer um chai latte em casa — misturar 1:1 com leite quente, pronto. O resultado doce e especiado é consistente e se aproxima de um chai de cafeteria. Menos matizado que a folha solta, mas perfeito para uma bebida rápida durante a semana.",
+      "pros": ["Disponível nos principais supermercados", "Sabor doce-especiado consistente a cada preparação", "Baixo custo por porção a $5–8 por 950 ml"],
+      "cons": ["Menos matizado que a folha solta — profundidade de especiarias limitada", "Teor de açúcar mais alto que infusões de folha ou sachê"],
+      "grade": "B+",
+      "specs": {"Formato": "Concentrado líquido (950 ml)", "Proporção": "1:1 com leite", "Porções": "aprox. 16 por garrafa", "Preço/porção": "$0.31–0.50", "Açúcar": "Contém açúcar de cana"},
+      "scores": {"Sabor": 3.9, "Qualidade": 3.6, "Custo-benefício": 4.5, "Praticidade": 4.9, "Versatilidade": 3.5}
+    },
+    {
+      "offerId": "oregon-chai-original-concentrate",
+      "badge": "Melhor réplica de cafeteria",
+      "review": "Oregon Chai Original é o padrão do mercado em concentrados de chai latte — doce, centrado no cardamomo, projetado para replicar o chai do Starbucks em casa. Na proporção padrão 1:1 a doçura é marcada (15 g de açúcar por porção); muitos preferem 1:2 (leite:concentrado). A versão sem açúcar permite controle independente da doçura.",
+      "pros": ["Melhor réplica do chai latte de cafeteria em casa", "Amplamente disponível, inclusive sem açúcar", "Perfil de especiarias centrado no cardamomo preferido pelos amantes de latte"],
+      "cons": ["15 g de açúcar por porção na proporção padrão — versão sem açúcar recomendada"],
+      "grade": "B",
+      "specs": {"Formato": "Concentrado líquido (950 ml)", "Proporção": "1:1 com leite (ou 1:2 para menos doce)", "Porções": "aprox. 16 por garrafa", "Açúcar": "15 g/porção (padrão)", "Sem açúcar": "Disponível"},
+      "scores": {"Sabor": 4.1, "Qualidade": 3.7, "Custo-benefício": 4.3, "Praticidade": 4.9, "Versatilidade": 3.8}
+    },
+    {
+      "offerId": "david-rio-elephant-vanilla-chai",
+      "badge": "Formato mais conveniente",
+      "review": "David Rio Elephant Vanilla Chai em pó é o formato chai mais simples: uma colherada no leite quente, misturar, pronto — sem infusão, sem concentrado refrigerado. O perfil centrado na baunilha é mais suave e doce que o chai masala tradicional — acessível, mas não autêntico. Ideal para viagens, escritório ou quem quer um chai sem nenhum esforço.",
+      "pros": ["Zero preparação — dissolve diretamente no leite quente", "Sem refrigeração — prático para viagens e escritório", "Perfil de especiarias suave e baunilhado, acessível para iniciantes"],
+      "cons": ["O mais distante do chai masala autêntico — a baunilha domina o equilíbrio tradicional de especiarias"],
+      "grade": "B-",
+      "specs": {"Formato": "Pó (450 g)", "Porções": "16–20 por saquinho", "Sabor principal": "Baunilha", "Preparo": "Dissolver em leite/água quente", "Preço/porção": "$0.75–1.25"},
+      "scores": {"Sabor": 4.0, "Qualidade": 3.5, "Custo-benefício": 3.8, "Praticidade": 5.0, "Versatilidade": 3.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para amantes do chai masala tradicional", "offerId": "rishi-masala-chai", "reason": "Especiarias inteiras em folha solta, base Assam autêntica — a única opção aqui que produz uma xícara próxima da tradição chai sul-asiática."},
+    {"label": "Para fãs de chai gelado cold brew", "offerId": "harney-sons-hot-cinnamon-spice", "reason": "Intensamente centrado em canela e excelente preparado a frio durante a noite em leite — produz um chai gelado naturalmente doce e suave."},
+    {"label": "Para chai lattes rápidos durante a semana", "offerId": "tazo-chai-concentrate", "reason": "Concentrado mais econômico e disponível — misturar com leite quente em 60 segundos."},
+    {"label": "Para replicar o chai de cafeteria", "offerId": "oregon-chai-original-concentrate", "reason": "O perfil cardamomo-doce é o mais próximo do chai latte de cafeteria — mudar para 1:2 se estiver muito doce."},
+    {"label": "Para viagens e situações de zero esforço", "offerId": "david-rio-elephant-vanilla-chai", "reason": "O pó dissolve em qualquer leite quente — sem refrigeração, sem infusão, pode ser usado em qualquer lugar."}
+  ]
 }

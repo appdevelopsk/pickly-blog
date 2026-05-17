@@ -86,5 +86,184 @@
     "kind-protein-bar": "ホールナッツ・ハチミツ甘み・最も食べ物らしい食感"
   },
   "pinDescription": "Quest・RXBAR・Clif Builder・ONE・KIND、5本のプロテインバーを正直に比較。タンパク質量・糖質の由来・用途別おすすめ・避けるべきケースを解説。",
-  "methodology": "各商品を風味・原料の透明性・1食あたりのコスパ・パッケージ品質・実用面での使い勝手で評価。認証情報やユーザーレビューを宣伝文句と照らし合わせて確認しています。"
+  "methodology": "各バーをタンパク質源とロイシン密度・甘味料の種類と消化器耐容性プロファイル・糖質含量・温度による食感の一貫性・原材料リストの長さ・認証の確認で評価——マーケティング主張は入手可能な独立ラボテストと照合。",
+  "products": [
+    {
+      "offerId": "quest-bar",
+      "badge": "ベストオーバーオール",
+      "review": "Questはホエイと牛乳タンパクアイソレートから20〜21gのタンパク質を4〜5gのネット炭水化物で提供——ローカーブとポストワークアウト購買者にその評判を築いた組み合わせ。エリスリトール＋ステビアで室温でのスクラロース後味なし、ただし低温時の密な食感は一般的な不満で10秒レンジで解消。原材料リストを短くしたい場合は選択肢でない。",
+      "pros": [
+        "高いロイシン密度のアイソレートから20〜21gのタンパク質",
+        "4〜5gネット炭水化物でケト・ローカーブ追跡に適合",
+        "エリスリトール甘味——マルチトールより一般的に消化に優しい"
+      ],
+      "cons": [
+        "長い加工原材料リスト——クリーンラベルバーでない"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Protein": "20–21 g",
+        "Protein source": "Whey + milk protein isolate",
+        "Net carbs": "4–5 g",
+        "Sugar": "1 g",
+        "Calories": "~190–200 kcal",
+        "Sweetener": "Erythritol + stevia",
+        "Price per bar": "$4.95"
+      },
+      "scores": {
+        "Protein quality": 4.8,
+        "Taste": 4.3,
+        "Value": 4.2,
+        "Ingredients": 3.4,
+        "Texture": 3.9
+      }
+    },
+    {
+      "offerId": "rxbar-protein",
+      "badge": "ベストクリーンラベル",
+      "review": "RXBARはバーの表面に全原材料リストを印刷——卵白3個・アーモンド6粒・カシューナッツ4粒・デーツ2粒——マーケティングではなく設計上の決断。卵白からの12gの完全タンパク質は栄養的に堅実。トレードオフは20gホエイバーが1食あたりより多くのロイシンを届けること。",
+      "pros": [
+        "この比較で最短・最読みやすい原材料リスト",
+        "卵白からの完全タンパク質——人工甘味料なし",
+        "糖アルコールなしで消化器リスクなし"
+      ],
+      "cons": [
+        "12gタンパク質——ポストワークアウト用の20gアイソレートバーより低いロイシン量"
+      ],
+      "grade": "A",
+      "specs": {
+        "Protein": "12 g",
+        "Protein source": "Egg whites",
+        "Net carbs": "~20 g",
+        "Sugar": "15–17 g (from dates)",
+        "Calories": "~200–210 kcal",
+        "Sweetener": "Dates only",
+        "Price per bar": "$2.33"
+      },
+      "scores": {
+        "Protein quality": 4.5,
+        "Taste": 4.4,
+        "Value": 4.5,
+        "Ingredients": 5.0,
+        "Texture": 4.2
+      }
+    },
+    {
+      "offerId": "clif-builder-bar",
+      "badge": "持久力アスリートに最適",
+      "review": "Clif BuilderはソイアイソレートからHolesale植物性タンパク質20gをコメシロップ由来の270kcalと17〜18gの糖質とともに提供——グリコーゲンが枯渇した持久力アスリート向けに設計されたカロリーと炭水化物プロファイル。ビーガン・コーシャー認証、人工甘味料後味なし。",
+      "pros": [
+        "20g完全植物性タンパク質——フル用量の唯一のビーガンオプション",
+        "より高いカロリーが長い持久系トレーニング窓に適合",
+        "人工甘味料・糖アルコールなし"
+      ],
+      "cons": [
+        "コメシロップ由来の17〜18g添加糖——ローカーブ・カロリー制限目標には不適"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Protein": "20 g",
+        "Protein source": "Soy protein isolate",
+        "Net carbs": "~30 g",
+        "Sugar": "17–18 g",
+        "Calories": "~270 kcal",
+        "Sweetener": "Rice syrup + cane syrup",
+        "Price per bar": "$1.67"
+      },
+      "scores": {
+        "Protein quality": 4.2,
+        "Taste": 4.3,
+        "Value": 4.8,
+        "Ingredients": 3.6,
+        "Texture": 4.0
+      }
+    },
+    {
+      "offerId": "one-protein-bar",
+      "badge": "最多フレーバー",
+      "review": "ONEバーはデザート系フレーバーライブラリーで20gのタンパク質を1gの糖質で提供。エリスリトール＋スクラロースの組み合わせが低糖質でキャンディーバーの甘さを実現するが、一部のバイヤーは後味を感じると報告。",
+      "pros": [
+        "この比較で最も広いフレーバーライブラリー——15種類以上",
+        "1gの糖質で20gのタンパク質——最もクリーンなマクロプロファイル",
+        "強いデザート欲求を持つ高タンパク減量フェーズに有用"
+      ],
+      "cons": [
+        "一部のバイヤーにスクラロースの後味が感じられる"
+      ],
+      "grade": "B",
+      "specs": {
+        "Protein": "20 g",
+        "Protein source": "Whey + milk protein blend",
+        "Net carbs": "~8 g",
+        "Sugar": "1 g",
+        "Calories": "~220 kcal",
+        "Sweetener": "Erythritol + sucralose",
+        "Price per bar": "$2.68"
+      },
+      "scores": {
+        "Protein quality": 4.6,
+        "Taste": 4.5,
+        "Value": 4.1,
+        "Ingredients": 3.2,
+        "Texture": 4.0
+      }
+    },
+    {
+      "offerId": "kind-protein-bar",
+      "badge": "ベストテクスチャー",
+      "review": "KIND ProteinはナッツとソイプロテインBlend由来の12gを、ハチミツとダークチョコレートで甘味付け——エリスリトールなし・スクラロースなし・糖アルコールなし。ホールナッツのクランチは圧縮タンパクバーと真に異なり、ハチミツの甘さはスクラロース系バーより控えめ。12gタンパク質ではポストワークアウト回復ツールでなくスマートスナック。",
+      "pros": [
+        "人工甘味料・糖アルコールなし——ハチミツとチョコレートのみ",
+        "加工バーでは再現できないホールナッツの独特なクランチ",
+        "短く認識しやすい原材料リスト"
+      ],
+      "cons": [
+        "12gタンパク質——単独のポストワークアウト源としては不十分"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Protein": "12 g",
+        "Protein source": "Nuts + soy protein",
+        "Net carbs": "~18 g",
+        "Sugar": "~8 g (honey + chocolate)",
+        "Calories": "~250 kcal",
+        "Sweetener": "Honey + dark chocolate",
+        "Price per bar": "$1.46"
+      },
+      "scores": {
+        "Protein quality": 3.8,
+        "Taste": 4.6,
+        "Value": 4.7,
+        "Ingredients": 4.8,
+        "Texture": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "ローカーブプランでのポストワークアウト回復に",
+      "offerId": "quest-bar",
+      "reason": "20〜21gのタンパクアイソレートと4〜5gのネット炭水化物がケトや低糖質追跡を崩さずマクロを満たす。"
+    },
+    {
+      "label": "クリーン原材料のスナックに",
+      "offerId": "rxbar-protein",
+      "reason": "すべての原材料がバーの表面に記載——この比較で最も透明性の高い選択肢。"
+    },
+    {
+      "label": "長時間セッションを補給する持久力アスリートに",
+      "offerId": "clif-builder-bar",
+      "reason": "20g植物性タンパク質とともに270kcalと17gの糖質が60分超のトレーニング窓のグリコーゲン要求に合致。"
+    },
+    {
+      "label": "キャンディーバーから移行する購買者に",
+      "offerId": "one-protein-bar",
+      "reason": "1gの糖質で15種類以上のデザート系フレーバーが普通のバーでは失敗する習慣変容を持続可能にする。"
+    },
+    {
+      "label": "加工されたプロテインバーが好きでない購買者に",
+      "offerId": "kind-protein-bar",
+      "reason": "ホールナッツ・ハチミツ・ダークチョコレートがほとんどのプロテインバーが意図的に避ける食べ物のような食感と味を提供。"
+    }
+  ]
 }

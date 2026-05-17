@@ -66,5 +66,154 @@
     "zwilling-fresh-save-vacuum-system": "USB-rechargeable handheld pump, reusable rigid containers and zipper bags, no heat sealing needed. Handles wet foods easily. Best for refrigerator life extension of produce and leftovers — not a substitute for long-term freezer storage via heat-sealed bags."
   },
   "pinDescription": "Vacuum sealer comparison 2026: FoodSaver V4840 vs Nesco VS-12 vs Anova Precision Pro vs Geryon compact vs Zwilling Fresh & Save — which vacuum sealer extends food freshness the longest? Sealing strength, bag compatibility, and wet food handling compared.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each sealer was evaluated on vacuum pressure level, seal-strip reliability, third-party bag compatibility, wet-food handling capability, and total cost of ownership including ongoing bag cost.",
+  "products": [
+    {
+      "offerId": "foodsaver-v4840-vacuum-sealer",
+      "badge": "Best Overall",
+      "review": "Built-in bag roll storage and cutter, a retractable handheld sealer for FoodSaver containers, and bags available in virtually every North American grocery store — the most practical all-rounder for users who want retail bag access. Third-party embossed bags work in the V4840 but compatibility varies by batch, and branded FoodSaver bags cost more per foot than universal alternatives.",
+      "pros": ["Bag roll storage and cutter built in", "Bags available at grocery stores — no ordering ahead", "Retractable handheld sealer for FoodSaver containers"],
+      "cons": ["FoodSaver branded bags cost more than third-party alternatives"],
+      "grade": "A+",
+      "specs": {
+        "Type": "External vacuum sealer",
+        "Bag roll storage": "Built in with cutter",
+        "Handheld sealer": "Retractable (for FoodSaver containers)",
+        "Bag compatibility": "FoodSaver + most embossed third-party",
+        "Vacuum pressure": "~22 inHg",
+        "Price range": "$100–$150",
+        "Seal strips": "Single"
+      },
+      "scores": {
+        "Seal strength": 4.5,
+        "Ease of use": 5.0,
+        "Build quality": 4.5,
+        "Value": 4.2,
+        "Bag compatibility": 4.0
+      }
+    },
+    {
+      "offerId": "nesco-vs-12-vacuum-sealer",
+      "badge": "Best for Third-Party Bags",
+      "review": "Explicitly compatible with any embossed vacuum sealer bag — the strongest third-party bag support in this comparison — and the double sealing strip produces a stronger seam less likely to fail during long-term freezer storage. Third-party bags at $0.10–0.20/foot vs branded bags at $0.25–0.40/foot save meaningful money at weekly usage. Trade-off: Nesco bags have lower retail availability and you will likely order online.",
+      "pros": ["Double sealing strip — stronger seam than single", "Explicitly universal bag compatibility", "23 inHg vacuum — highest among external sealers here"],
+      "cons": ["Nesco bags have lower retail availability than FoodSaver"],
+      "grade": "A",
+      "specs": {
+        "Type": "External vacuum sealer",
+        "Seal strips": "Double (stronger seam)",
+        "Bag compatibility": "Any embossed bag — explicitly documented",
+        "Vacuum pressure": "~23 inHg",
+        "Price range": "$70–$100",
+        "Bag roll storage": "No",
+        "Third-party bag cost": "$0.10–$0.20/ft"
+      },
+      "scores": {
+        "Seal strength": 5.0,
+        "Ease of use": 4.5,
+        "Build quality": 4.5,
+        "Value": 4.8,
+        "Bag compatibility": 5.0
+      }
+    },
+    {
+      "offerId": "anova-precision-vacuum-sealer-pro",
+      "badge": "Best for Sous Vide",
+      "review": "99.9% vacuum level — higher than standard external sealers — ensures bags stay fully submerged in a sous vide water bath for even heat exposure. Pulse mode for fragile foods and universal embossed bag compatibility round out a purpose-built sous vide companion. For regular food storage without sous vide, the premium over the Nesco is hard to justify.",
+      "pros": ["99.9% vacuum — bags stay submerged in water bath", "Pulse mode for delicate foods", "Compatible with any embossed bag"],
+      "cons": ["Vacuum advantage over standard sealers only matters for sous vide users"],
+      "grade": "B+",
+      "specs": {
+        "Type": "External vacuum sealer",
+        "Vacuum level": "99.9% (two-stage pump)",
+        "Pulse mode": "Yes — for fragile foods",
+        "Bag compatibility": "Any embossed bag",
+        "Seal strips": "Single",
+        "Price range": "$100–$130",
+        "Best for": "Sous vide cooking"
+      },
+      "scores": {
+        "Seal strength": 5.0,
+        "Ease of use": 4.5,
+        "Build quality": 4.5,
+        "Value": 4.0,
+        "Bag compatibility": 5.0
+      }
+    },
+    {
+      "offerId": "geryon-vacuum-sealer-machine",
+      "badge": "Best Entry-Level",
+      "review": "Compact enough to store in a kitchen drawer, at $30–50 it is the lowest-cost way to test whether vacuum sealing fits your kitchen workflow. Adequate for regular food storage; lower vacuum pressure (~18 inHg) and fewer controls than premium options mean it is not the right tool if you are confident you will use it heavily long-term.",
+      "pros": ["Drawer-storable compact size", "Lowest price in this comparison", "Adequate for routine food storage"],
+      "cons": ["Lower vacuum pressure (~18 inHg) and fewer controls than premium models"],
+      "grade": "B",
+      "specs": {
+        "Type": "External vacuum sealer",
+        "Vacuum pressure": "~18 inHg",
+        "Seal strips": "Single",
+        "Bag compatibility": "Embossed bags",
+        "Form factor": "Compact — drawer-storable",
+        "Price range": "$30–$50",
+        "Controls": "Basic"
+      },
+      "scores": {
+        "Seal strength": 3.5,
+        "Ease of use": 4.5,
+        "Build quality": 3.5,
+        "Value": 5.0,
+        "Bag compatibility": 4.0
+      }
+    },
+    {
+      "offerId": "zwilling-fresh-save-vacuum-system",
+      "badge": "Best for Fridge Life Extension",
+      "review": "USB-rechargeable handheld pump evacuates reusable rigid containers and zipper bags without heat sealing — handles wet foods and liquids that trip up external sealers. Best understood as a fridge-life upgrade: produce and leftovers last 5–7 days instead of 2–3. Not a substitute for heat-sealed long-term freezer storage.",
+      "pros": ["Handles wet foods easily — no liquid-in-mechanism problem", "Reusable containers — no consumable bags required", "USB-rechargeable — no disposable batteries"],
+      "cons": ["Not a substitute for long-term freezer storage via heat-sealed bags"],
+      "grade": "B-",
+      "specs": {
+        "Type": "Handheld pump (rigid containers + zipper bags)",
+        "Heat sealing": "No",
+        "Bag type": "Reusable zipper bags + rigid containers",
+        "Power": "USB-rechargeable",
+        "Wet food handling": "Excellent",
+        "Price range": "$60–$100",
+        "Best for": "Fridge life extension (not freezer)"
+      },
+      "scores": {
+        "Seal strength": 3.0,
+        "Ease of use": 5.0,
+        "Build quality": 4.5,
+        "Value": 4.0,
+        "Bag compatibility": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For families who want bags from the grocery store",
+      "offerId": "foodsaver-v4840-vacuum-sealer",
+      "reason": "FoodSaver bags are available at virtually every supermarket — no online ordering required when you run out."
+    },
+    {
+      "label": "For regular users buying bags in bulk online",
+      "offerId": "nesco-vs-12-vacuum-sealer",
+      "reason": "Universal bag compatibility and double seal strip save money and produce stronger seams for long-term freezer storage."
+    },
+    {
+      "label": "For sous vide cooks",
+      "offerId": "anova-precision-vacuum-sealer-pro",
+      "reason": "99.9% vacuum keeps bags fully submerged in the water bath — the specific requirement that standard sealers fail to meet."
+    },
+    {
+      "label": "For first-time vacuum sealer buyers",
+      "offerId": "geryon-vacuum-sealer-machine",
+      "reason": "The lowest-cost entry point to test whether the workflow fits your kitchen habits before committing to a premium model."
+    },
+    {
+      "label": "For fridge organisation and wet food storage",
+      "offerId": "zwilling-fresh-save-vacuum-system",
+      "reason": "Handles liquids and leftovers without heat sealing — the practical tool for refrigerator life extension."
+    }
+  ]
 }

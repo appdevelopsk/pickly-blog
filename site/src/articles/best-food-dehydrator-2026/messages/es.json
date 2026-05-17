@@ -66,5 +66,185 @@
     "tribest-sedona-express": "11 bandejas, zonas de calefacción dual (frontal/trasera pueden configurarse a diferentes temperaturas), por debajo de 55 dB. Ideal para cargas de temperatura mixta — deshidratar hierbas a baja temperatura y carne seca a alta temperatura simultáneamente en la misma máquina."
   },
   "pinDescription": "Comparación de deshidratadores de alimentos 2026: Excalibur 9 bandejas vs Cosori vs Nesco Snackmaster vs Presto Dehydro vs Tribest Sedona — ¿qué deshidratador hace la mejor carne seca, fruta deshidratada y hierbas? Flujo de aire horizontal vs vertical explicado. #deshidratador #conservaciónAlimentos #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada deshidratador fue evaluado por diseño de flujo de aire y uniformidad de secado, rango y precisión de temperatura, capacidad de bandejas, nivel de ruido en operación, facilidad de limpieza y confiabilidad a largo plazo basada en comentarios documentados de usuarios.",
+  "products": [
+    {
+      "offerId": "excalibur-9-tray-dehydrator",
+      "badge": "Mejor opción general",
+      "review": "El Excalibur 9-Tray es el estándar contra el que se mide cualquier otro deshidratador. El flujo de aire horizontal trasero seca las 9 bandejas uniformemente sin rotación, y 15 pies cuadrados de superficie de secado manejan una tanda completa de jerky en una sesión. El compromiso es el precio ($200–$300) y el espacio en encimera.",
+      "pros": [
+        "Ventilador trasero con flujo horizontal — sin rotación de bandejas necesaria",
+        "15 pies cuadrados de capacidad en 9 bandejas",
+        "Menos de 60 dB y garantía de 10 años"
+      ],
+      "cons": [
+        "Precio de $200–$300 y gran huella en encimera"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Precio": "~$200–$300",
+        "Bandejas": "9 (15 pies²)",
+        "Flujo de aire": "Horizontal trasero",
+        "Rango temp.": "95–165°F",
+        "Ruido": "<60 dB",
+        "Garantía": "10 años",
+        "Material bandeja": "Policarbonato apto lavavajillas"
+      },
+      "scores": {
+        "Drying performance": 4.9,
+        "Capacity": 4.8,
+        "Noise": 4.5,
+        "Value": 4.0,
+        "Ease of use": 4.7
+      }
+    },
+    {
+      "offerId": "cosori-premium-food-dehydrator",
+      "badge": "Mejor relación calidad-precio",
+      "review": "El Cosori Premium 6 bandejas trae flujo de aire horizontal a $100–$150 — la mitad del precio del Excalibur con capacidad proporcionalmente menor. La pantalla digital de doble lectura (temp. configurada y real simultáneamente) es una función genuinamente útil para monitorear ciclos. Ideal para hogares que deshidratan ocasionalmente en lugar de en grandes cantidades.",
+      "pros": [
+        "Flujo de aire horizontal — sin rotación de bandejas",
+        "Pantalla de doble lectura muestra temp. configurada y real",
+        "Temporizador de 48 horas con puerta transparente"
+      ],
+      "cons": [
+        "6 bandejas vs 9 del Excalibur — menor capacidad de tanda"
+      ],
+      "grade": "A",
+      "specs": {
+        "Precio": "~$100–$150",
+        "Bandejas": "6 (~5,5 pies²)",
+        "Flujo de aire": "Horizontal",
+        "Rango temp.": "95–165°F",
+        "Temporizador": "48 horas",
+        "Pantalla": "Digital doble lectura",
+        "Puerta": "Transparente"
+      },
+      "scores": {
+        "Drying performance": 4.5,
+        "Capacity": 3.8,
+        "Noise": 4.4,
+        "Value": 4.6,
+        "Ease of use": 4.6
+      }
+    },
+    {
+      "offerId": "nesco-snackmaster-pro",
+      "badge": "Mejor expandible",
+      "review": "El Nesco Snackmaster Pro es el deshidratador más valorado en Amazon y lleva décadas en producción. Su ventaja única es la expansibilidad — comienza con 5 bandejas redondas y agrega hasta 12 sin comprar una nueva máquina. El flujo de aire vertical significa que se requiere rotación de bandejas para secado uniforme.",
+      "pros": [
+        "Expandible de 5 a 12 bandejas sin comprar una nueva máquina",
+        "Deshidratador más valorado en Amazon",
+        "Las bandejas redondas compactas se guardan fácilmente"
+      ],
+      "cons": [
+        "El flujo de aire vertical requiere rotación de bandejas para secado uniforme"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Precio": "~$60–$90",
+        "Bandejas": "5 (expandible a 12)",
+        "Flujo de aire": "Vertical superior",
+        "Rango temp.": "95–160°F",
+        "Controles": "Dial analógico",
+        "Rotación requerida": "Sí",
+        "Forma": "Bandejas redondas"
+      },
+      "scores": {
+        "Drying performance": 3.8,
+        "Capacity": 4.2,
+        "Noise": 4.0,
+        "Value": 4.5,
+        "Ease of use": 3.8
+      }
+    },
+    {
+      "offerId": "presto-dehydro-digital",
+      "badge": "Mejor de nivel de entrada",
+      "review": "El Presto Dehydro Digital es el punto de entrada para deshidratadores primerizos a $60–$80. El termostato y temporizador digitales mejoran los controles analógicos del Nesco. Seis bandejas redondas con flujo vertical entregan resultados adecuados pero desiguales — planifica la rotación. Ideal como compra de prueba antes de comprometerse con una máquina de flujo horizontal.",
+      "pros": [
+        "Termostato y temporizador digitales a precio de entrada",
+        "Buen primer deshidratador para probar el hobby",
+        "Huella compacta"
+      ],
+      "cons": [
+        "El flujo de aire vertical produce secado desigual sin rotación",
+        "Las bandejas redondas son más estrechas que las rectangulares"
+      ],
+      "grade": "B",
+      "specs": {
+        "Precio": "~$60–$80",
+        "Bandejas": "6 redondas",
+        "Flujo de aire": "Vertical",
+        "Control temp.": "Digital",
+        "Temporizador": "Digital",
+        "Rotación requerida": "Sí",
+        "Forma": "Bandejas redondas"
+      },
+      "scores": {
+        "Drying performance": 3.5,
+        "Capacity": 3.4,
+        "Noise": 3.8,
+        "Value": 4.4,
+        "Ease of use": 4.0
+      }
+    },
+    {
+      "offerId": "tribest-sedona-express",
+      "badge": "Mejor para cargas mixtas",
+      "review": "El Tribest Sedona Express resuelve el único problema que el Excalibur no puede: secar simultáneamente alimentos que requieren diferentes temperaturas. Sus dos zonas de calefacción independientes permiten hierbas a 95–115°F y jerky a 155–165°F en la misma máquina al mismo tiempo. Menos de 55 dB — el más silencioso de su clase. Cuesta más que el Excalibur con menos capacidad total.",
+      "pros": [
+        "Dos zonas de calefacción independientes para cargas mixtas simultáneas",
+        "Menos de 55 dB — deshidratador más silencioso de esta comparación",
+        "11 bandejas con opción de acero inoxidable"
+      ],
+      "cons": [
+        "Más caro que el Excalibur con menos superficie de bandeja"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Precio": "~$250–$350",
+        "Bandejas": "11",
+        "Flujo de aire": "Horizontal doble zona",
+        "Zonas temp.": "2 independientes",
+        "Ruido": "<55 dB",
+        "Rango temp.": "95–167°F",
+        "Controles": "Digital"
+      },
+      "scores": {
+        "Drying performance": 4.7,
+        "Capacity": 4.0,
+        "Noise": 4.8,
+        "Value": 3.5,
+        "Ease of use": 4.2
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para deshidratadores caseros serios",
+      "offerId": "excalibur-9-tray-dehydrator",
+      "reason": "Gran capacidad de flujo horizontal sin rotación de bandejas y garantía de 10 años"
+    },
+    {
+      "label": "Para uso doméstico ocasional",
+      "offerId": "cosori-premium-food-dehydrator",
+      "reason": "Flujo horizontal a la mitad del precio del Excalibur con pantalla de doble lectura útil"
+    },
+    {
+      "label": "Para compradores que quieren escalar capacidad",
+      "offerId": "nesco-snackmaster-pro",
+      "reason": "Expandir de 5 a 12 bandejas sin reemplazar la máquina"
+    },
+    {
+      "label": "Para deshidratadores primerizos",
+      "offerId": "presto-dehydro-digital",
+      "reason": "Controles digitales a precio de entrada para probar el hobby antes de comprometerse con una máquina más grande"
+    },
+    {
+      "label": "Para secado a múltiples temperaturas",
+      "offerId": "tribest-sedona-express",
+      "reason": "Dos zonas de calefacción independientes permiten secar hierbas y jerky simultáneamente"
+    }
+  ]
 }

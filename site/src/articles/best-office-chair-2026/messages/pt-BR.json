@@ -104,5 +104,182 @@
     "ikea-markus": "IKEA Markus a ~¥25.000 com ajuste de altura, suporte lombar fixo incorporado, apoios de braço ajustáveis em altura e garantia IKEA de 10 anos. O contorno lombar fixo funciona bem quando coincide com a geometria da sua coluna; se não coincidir, não há caminho de ajuste."
   },
   "pinDescription": "5 cadeiras de escritório comparadas em 2026 — Herman Miller Aeron à IKEA Markus. Malha vs espuma em 8 horas. PostureFit vs LiveBack vs suporte lombar fixo — o que a diferença de mecanismo realmente significa. Diferença de preço de ¥25.000 a ¥200.000 detalhada honestamente.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Cada cadeira foi avaliada no design do mecanismo lombar, durabilidade a longo prazo, faixa de ajuste para proporções corporais japonesas, profundidade da garantia e disponibilidade no mercado japonês.",
+  "products": [
+    {
+      "offerId": "herman-miller-aeron",
+      "badge": "Melhor escolha geral",
+      "review": "A malha Pellicle 8Z e o sistema PostureFit SL de duplo ponto oferecem a combinação de suporte ergonômico mais documentada no segmento premium. A restrição principal: o tamanho correto (A/B/C) deve ser testado antes da compra, e o preço de ~¥200.000 só se justifica com uso intensivo de home office a longo prazo.",
+      "pros": [
+        "Malha Pellicle de 8 zonas dissipa calor nos verões úmidos",
+        "PostureFit SL ajusta sacro e lombar independentemente",
+        "Garantia de 12 anos pela Herman Miller Japão"
+      ],
+      "cons": [
+        "Tamanho errado anula todos os benefícios ergonômicos"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Tamanhos": "A / B / C",
+        "Encosto": "Malha Pellicle 8Z",
+        "Suporte lombar": "PostureFit SL duplo ponto",
+        "Apoios de braço": "4D",
+        "Garantia": "12 anos",
+        "Carga máx.": "~136 kg (tamanho C)",
+        "Preço (JP)": "~¥200.000"
+      },
+      "scores": {
+        "Suporte lombar": 5.0,
+        "Conforto": 4.8,
+        "Qualidade de construção": 5.0,
+        "Custo-benefício": 3.5,
+        "Ajustabilidade": 4.9
+      }
+    },
+    {
+      "offerId": "steelcase-leap-v2",
+      "badge": "Melhor para usuários ativos",
+      "review": "O mecanismo LiveBack segue o movimento da coluna em tempo real e o assento de deslizamento natural mantém a geometria quadril-lombar durante a inclinação — vantagem real para quem muda de postura constantemente. Usuários estáticos que travam o encosto aproveitam menos a engenharia.",
+      "pros": [
+        "LiveBack segue o movimento vertebral natural",
+        "Deslizamento natural mantém geometria do quadril na inclinação",
+        "Garantia 12 anos Steelcase Japão"
+      ],
+      "cons": [
+        "Vantagem LiveBack perdida para usuários estáticos que travam o encosto"
+      ],
+      "grade": "A",
+      "specs": {
+        "Mecanismo encosto": "LiveBack coluna flexível",
+        "Assento": "Sistema deslizamento natural",
+        "Apoios de braço": "4D",
+        "Garantia": "12 anos",
+        "Revestimento": "Tecido / Couro",
+        "Preço (US)": "$1.376",
+        "Disponibilidade Japão": "Revendedores premium / empresas"
+      },
+      "scores": {
+        "Suporte lombar": 4.8,
+        "Conforto": 4.9,
+        "Qualidade de construção": 4.9,
+        "Custo-benefício": 3.6,
+        "Ajustabilidade": 5.0
+      }
+    },
+    {
+      "offerId": "okamura-contessa-seconda",
+      "badge": "Melhor escolha mercado japonês",
+      "review": "Projetada em torno das proporções corporais japonesas com a rede de serviço nacional da Okamura. O mecanismo do encosto é ajustável mas menos dinâmico que o LiveBack da Steelcase — a força está na adequação ao mercado japonês.",
+      "pros": [
+        "Projetada para proporções corporais japonesas",
+        "Maior rede de serviço nacional nesta comparação",
+        "Tamanhos padrão e grande disponíveis"
+      ],
+      "cons": [
+        "Mecanismo de encosto menos dinâmico que o Steelcase LiveBack"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Tamanhos": "Padrão / Grande",
+        "Encosto": "Malha",
+        "Fabricante": "Okamura (Japão)",
+        "Garantia": "5 anos estrutura / 2 anos estofamento",
+        "Preço (JP)": "~¥100.000",
+        "Rede serviço": "Nacional Japão",
+        "Público-alvo": "Proporções japonesas"
+      },
+      "scores": {
+        "Suporte lombar": 4.5,
+        "Conforto": 4.6,
+        "Qualidade de construção": 4.7,
+        "Custo-benefício": 4.2,
+        "Ajustabilidade": 4.3
+      }
+    },
+    {
+      "offerId": "flexispot-ej2-ergonomic",
+      "badge": "Melhor ergonômico econômico",
+      "review": "A ~¥30.000 com suporte lombar ajustável em altura, inclinação e entrega Prime, é a recomendação honesta no segmento econômico. O lombar é um almofada, não um mecanismo estrutural, e a compressão da espuma aparece após 12–24 meses de uso intensivo.",
+      "pros": [
+        "Almofada lombar ajustável em altura a preço acessível",
+        "Disponível via Amazon Japão Prime",
+        "Inclinação para variação postural"
+      ],
+      "cons": [
+        "Compressão da espuma após 12–24 meses de uso intensivo"
+      ],
+      "grade": "B",
+      "specs": {
+        "Assento": "Espuma",
+        "Lombar": "Almofada ajustável em altura",
+        "Garantia": "3 anos",
+        "Preço (JP)": "~¥30.000",
+        "Disponibilidade": "Amazon Japão Prime",
+        "Suporte": "Apenas e-mail"
+      },
+      "scores": {
+        "Suporte lombar": 3.5,
+        "Conforto": 3.8,
+        "Qualidade de construção": 3.4,
+        "Custo-benefício": 4.5,
+        "Ajustabilidade": 3.6
+      }
+    },
+    {
+      "offerId": "ikea-markus",
+      "badge": "Melhor nível de entrada",
+      "review": "O suporte lombar fixo do Markus se adapta ou não à sua coluna — sem possibilidade de ajuste. A ~¥25.000 com garantia IKEA de 10 anos e disponibilidade nas lojas japonesas, é razoável para 2–4 h por dia mas inadequado para 7+ horas ou problemas lombares existentes.",
+      "pros": [
+        "Disponível nas lojas IKEA Japão com devoluções fáceis",
+        "Garantia IKEA 10 anos contra defeitos de fabricação",
+        "Ponto de entrada mais acessível"
+      ],
+      "cons": [
+        "Suporte lombar fixo — sem ajuste se não se adaptar à sua coluna"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Assento": "Espuma (poliuretano)",
+        "Lombar": "Contorno fixo integrado",
+        "Garantia": "10 anos (defeitos fabricação)",
+        "Preço (JP)": "~¥25.000",
+        "Cores": "Preto / Bege-cinza",
+        "Apoios de braço": "Apenas ajuste de altura"
+      },
+      "scores": {
+        "Suporte lombar": 3.0,
+        "Conforto": 3.5,
+        "Qualidade de construção": 3.2,
+        "Custo-benefício": 4.6,
+        "Ajustabilidade": 2.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para quem trabalha em casa em período integral (7h+)",
+      "offerId": "herman-miller-aeron",
+      "reason": "PostureFit SL e Pellicle 8Z oferecem o suporte mais documentado para trabalho sentado prolongado."
+    },
+    {
+      "label": "Para quem muda de postura frequentemente",
+      "offerId": "steelcase-leap-v2",
+      "reason": "LiveBack segue os movimentos da coluna em tempo real."
+    },
+    {
+      "label": "Para compradores que priorizam marcas japonesas",
+      "offerId": "okamura-contessa-seconda",
+      "reason": "Rede de serviço Okamura nacional e design adaptado às proporções japonesas."
+    },
+    {
+      "label": "Para trabalhadores remotos com orçamento limitado",
+      "offerId": "flexispot-ej2-ergonomic",
+      "reason": "Lombar ajustável e inclinação a ~¥30.000 via Amazon Prime."
+    },
+    {
+      "label": "Para usuários ocasionais que buscam simplicidade",
+      "offerId": "ikea-markus",
+      "reason": "Disponível nas lojas IKEA Japão com garantia 10 anos e devoluções fáceis."
+    }
+  ]
 }

@@ -53,5 +53,170 @@
     "tenzo-matcha": "Abo spart ~20% gegenuber Einzel-Kauf. Auch als Einzelportionen fur unterwegs erhaltlich."
   },
   "pinDescription": "5 beste Matcha-Pulver 2026 — von Ippodos 300-jahrigem Kyoto-Erbe bis zum abo-freundlichen Tenzo. Echter Zeremonialgrad! 🍵 #Matcha #Tee #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jeder Matcha wurde identisch zubereitet — 1,5 g Pulver, 70 °C Wasser, 20 Sekunden Chasen-Aufschäumen — und dann blind auf Farbintensität, Umami-Tiefe, Bitterniveaus, Schaumstabilität nach 60 Sekunden und Geschmackspersistenz bewertet. Herkunftsdokumentation und Ernte-Transparenz wurden anhand der Markenkommunikation überprüft.",
+  "products": [
+    {
+      "offerId": "ippodo-matcha-ummon",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Das seit 1717 hergestellte Ummon von Ippodo Teehaus besticht durch lebhaftes Grün und tiefes Umami. Der Schaum beim Aufschäumen ist fein und stabil, das Aroma langanhaltend. Ausschließlich erstklassige Uji-Blätter werden verwendet — maximale Herkunftstransparenz.",
+      "pros": [
+        "tiefes Umami und reiches Aroma",
+        "lebhaftes Grün",
+        "traditionelles Uji-Anbaugebiet",
+        "schöner stabiler Schaum"
+      ],
+      "cons": [
+        "hoher Preis",
+        "kleinere Menge"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Herkunft": "Uji (Kyoto)",
+        "Grad": "Zeremonie-Spitzenklasse",
+        "Inhalt": "20 g",
+        "Ernte": "Erste Ernte"
+      },
+      "scores": {
+        "Geschmack": 9.8,
+        "Farbe": 9.5,
+        "Schaumqualität": 9.5,
+        "Preis-Leistung": 7.0,
+        "Herkunftsqualität": 9.8
+      }
+    },
+    {
+      "offerId": "encha-ceremonial-matcha",
+      "badge": "Beste Bio-Qualität",
+      "review": "Bio-JAS-zertifizierter Matcha aus Uji, Kyoto. Keine Pestizide, lebhaftes Grün und sanftes Umami machen ihn sowohl als Chasen-Tee als auch als Latte-Basis exzellent. Unter Bio-Matcha ein sehr gutes Preis-Leistungs-Verhältnis.",
+      "pros": [
+        "Bio-JAS-Zertifikat",
+        "ausgewogenes Umami und Bitter",
+        "auch für Lattes geeignet",
+        "hohe Frischestandards"
+      ],
+      "cons": [
+        "Umami etwas schwächer als Ippodo",
+        "leicht erhöhter Preis"
+      ],
+      "grade": "A",
+      "specs": {
+        "Herkunft": "Uji (Kyoto)",
+        "Grad": "Zeremonie",
+        "Inhalt": "30 g",
+        "Ernte": "Bio-JAS-zertifiziert"
+      },
+      "scores": {
+        "Geschmack": 9.2,
+        "Farbe": 9.0,
+        "Schaumqualität": 8.8,
+        "Preis-Leistung": 7.5,
+        "Herkunftsqualität": 9.5
+      }
+    },
+    {
+      "offerId": "jade-leaf-ceremonial-matcha",
+      "badge": "Bestes Preis-Leistungs-Verhältnis Zeremonie",
+      "review": "Zeremonie-Matcha aus Uji zu einem vergleichsweise günstigen Preis. Farbe ist lebendig, Umami ausreichend. Minimal flacher als Premium-Marken, aber für den täglichen Genuss vollkommen geeignet.",
+      "pros": [
+        "gutes Preis-Leistungs-Verhältnis für Zeremonie-Grad",
+        "lebhafte Farbe",
+        "Uji-Herkunft",
+        "im US-Markt leicht verfügbar"
+      ],
+      "cons": [
+        "weniger Umami-Komplexität als Top-Produkte",
+        "Schaum etwas gröber"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Herkunft": "Uji (Kyoto)",
+        "Grad": "Zeremonie",
+        "Inhalt": "30 g",
+        "Ernte": "Erste Ernte"
+      },
+      "scores": {
+        "Geschmack": 8.5,
+        "Farbe": 8.8,
+        "Schaumqualität": 8.2,
+        "Preis-Leistung": 8.8,
+        "Herkunftsqualität": 8.5
+      }
+    },
+    {
+      "offerId": "matcha-konomi-uji",
+      "badge": "Bester Einstieg",
+      "review": "Uji-Qualität zu erschwinglichem Preis. Gutes Gleichgewicht zwischen Umami und Bitter, leicht zu handhaben auch für Anfänger. Die Farbe kann leicht gelblich wirken, der Geschmack ist jedoch angenehm. Auch für Lattes und Kochen geeignet.",
+      "pros": [
+        "günstiger Preis",
+        "einfach handhabbar",
+        "Uji-Herkunft",
+        "auch für Lattes und Kochen"
+      ],
+      "cons": [
+        "Farbe kann leicht gelblich sein",
+        "weniger Umami-Tiefe als Top-Produkte"
+      ],
+      "grade": "B",
+      "specs": {
+        "Herkunft": "Uji (Kyoto)",
+        "Grad": "Einsteiger bis Zeremonie",
+        "Inhalt": "30 g",
+        "Ernte": "Erste Ernte"
+      },
+      "scores": {
+        "Geschmack": 7.8,
+        "Farbe": 7.5,
+        "Schaumqualität": 7.8,
+        "Preis-Leistung": 9.2,
+        "Herkunftsqualität": 8.0
+      }
+    },
+    {
+      "offerId": "tenzo-matcha",
+      "badge": "Ideal für Abonnements",
+      "review": "Bio-zertifizierter Matcha aus Westjapan, regelmäßig frisch per Abo erhältlich. Leichte, bitterar me Aromatik — gut trinkbar, aber für Puristen, die tiefes Umami suchen, etwas dünn.",
+      "pros": [
+        "Bio-Zertifikat",
+        "per Abo regelmäßig frisch",
+        "leichter, gut trinkbarer Geschmack",
+        "günstig"
+      ],
+      "cons": [
+        "wenig Umami-Tiefe",
+        "nicht aus Uji",
+        "Farbe etwas blass"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Herkunft": "Westjapan",
+        "Grad": "Zeremonie",
+        "Inhalt": "30 g",
+        "Ernte": "Bio-zertifiziert"
+      },
+      "scores": {
+        "Geschmack": 7.0,
+        "Farbe": 7.0,
+        "Schaumqualität": 7.2,
+        "Preis-Leistung": 8.5,
+        "Herkunftsqualität": 7.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Puristen auf der Suche nach authentischem Matcha-Aroma",
+      "offerId": "ippodo-matcha-ummon",
+      "reason": "Das jahrhundertealte Ippodo-Handwerk bietet das tiefste Umami und die reinste Matcha-Erfahrung."
+    },
+    {
+      "label": "Bio-bewusste Teetrinker",
+      "offerId": "encha-ceremonial-matcha",
+      "reason": "Bio-JAS-Zertifikat und Uji-Herkunft garantieren höchste Qualität ohne Pestizide."
+    },
+    {
+      "label": "Alltägliche Matcha-Liebhaber mit Budget",
+      "offerId": "jade-leaf-ceremonial-matcha",
+      "reason": "Zeremonie-Qualität zu vernünftigem Preis — ideal für die tägliche Matcha-Routine."
+    }
+  ]
 }

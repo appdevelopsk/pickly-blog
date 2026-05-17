@@ -96,5 +96,154 @@
     "muji-acrylic-organizer": "Muji Acrylic Desk Organizer Set. Transparent stackable acrylic units in modular configurations — pen stands, tray inserts, small-item compartments, and document slots that can be arranged vertically or horizontally. The transparency is functional: you see what is in each compartment without opening it, which reduces retrieval time and makes it visually obvious when a compartment is cluttered rather than organized. Popular in Japanese home-office photography and desk setup communities for its clean, low-visual-noise appearance. Available in Muji stores and online worldwide. acrylic scratches with normal use, and scratches are highly visible on transparent surfaces — a scratched acrylic organizer looks worse than a scratched matte one; fingerprints and dust show on clear acrylic more readily than on opaque alternatives and require more frequent cleaning; the modular configuration creates decision fatigue — there is no 'set it and forget it' default configuration, and optimizing the arrangement can consume disproportionate time; base units flex slightly under concentrated weight, which is a problem if you rest heavy items on a stacked configuration."
   },
   "pinDescription": "5 desk organizers compared for 2026 — Yamazaki Tower steel wire, Belkin 3-in-1 MagSafe, Anker 622 foldable stand, IKEA Kallax insert, and Muji acrylic set. Cable management, charging integration, and small-desk strategies",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews.",
+  "products": [
+    {
+      "offerId": "yamazaki-tower-desk-organizer",
+      "badge": "Best Overall",
+      "review": "The Yamazaki Tower solves paper and small-item drift better than anything else at this price by standing documents vertically and keeping the visual footprint light even at full capacity. The wire construction is deliberately open — contents visible at a glance, no drawer to open — but small accessories like USB drives and paperclips fall through the gaps and need a separate tray insert.",
+      "pros": ["Open wire keeps desk feeling uncluttered even when full", "Cable routing notch at back passes charging cable cleanly", "Slimmest surface footprint in this comparison at ~15×20 cm"],
+      "cons": ["Small items fall through wire gaps — not suited for USB drives or paperclips"],
+      "grade": "A+",
+      "specs": {
+        "Material": "Powder-coated steel wire",
+        "Footprint": "~15 × 20 cm",
+        "Height": "~20 cm",
+        "Compartments": "2 (document slot + pen/accessory cup)",
+        "Cable notch": "Yes, rear panel",
+        "Finish options": "White, Black, Gray",
+        "Compatible desks": "All surface-based (including standing desks)"
+      },
+      "scores": {
+        "Organization capacity": 4.5,
+        "Build quality": 4.6,
+        "Aesthetics": 4.8,
+        "Value": 4.9,
+        "Desk footprint": 4.7
+      }
+    },
+    {
+      "offerId": "belkin-boost-charge-stand",
+      "badge": "Best Charging Integration",
+      "review": "For an iPhone + Apple Watch + AirPods household, the Belkin 3-in-1 eliminates three separate charging cables and reclaims a full A5-sheet of desk surface — the structural benefit holds because the cable count actually drops. The integrated Apple Watch charging module is the genuine trade-off: it is not field-replaceable, so Watch puck degradation means replacing the entire stand.",
+      "pros": ["Charges iPhone at full 15W MagSafe, Watch at fast-charge speed, AirPods simultaneously", "Single USB-C cable to the wall replaces three separate charging setups", "iPhone held at a practical viewing angle during charging"],
+      "cons": ["Apple Watch charging module is integrated and non-replaceable if it fails"],
+      "grade": "A",
+      "specs": {
+        "iPhone charging": "MagSafe 15W",
+        "Apple Watch charging": "Fast-charge (integrated module)",
+        "AirPods charging": "Qi 2W (base pad)",
+        "Wall connection": "1× USB-C cable",
+        "Stand height": "~15 cm",
+        "Ecosystem requirement": "iPhone 12 or later",
+        "Apple Watch module": "Integrated, non-replaceable"
+      },
+      "scores": {
+        "Organization capacity": 3.8,
+        "Build quality": 4.5,
+        "Aesthetics": 4.6,
+        "Value": 3.9,
+        "Desk footprint": 4.2
+      }
+    },
+    {
+      "offerId": "anker-622-magnetic-stand",
+      "badge": "Best for Small Desks",
+      "review": "The foldable hinge is the only genuinely practical differentiator here — on a small desk, the stand flattens to 1 cm thickness and pushes against the monitor base when the surface is needed, then snaps back upright for charging. The trade-off is real: Anker markets this as a charging station, but it charges iPhone only; Apple Watch and AirPods still need separate solutions.",
+      "pros": ["Folds to ~1 cm for bag travel or instant desk-depth reclamation", "Detachable MagSafe puck is replaceable unlike Belkin's integrated module", "15W MagSafe speed for compatible iPhones"],
+      "cons": ["Charges iPhone only — no Apple Watch or AirPods position despite 'station' framing"],
+      "grade": "B+",
+      "specs": {
+        "Folded thickness": "~1 cm",
+        "iPhone charging": "MagSafe 15W",
+        "Non-MagSafe Qi speed": "5W",
+        "MagSafe puck": "Detachable, replaceable",
+        "Apple Watch support": "None",
+        "AirPods support": "None",
+        "Hinge durability": "Well-reviewed to 12–18 months"
+      },
+      "scores": {
+        "Organization capacity": 2.5,
+        "Build quality": 4.2,
+        "Aesthetics": 4.3,
+        "Value": 4.4,
+        "Desk footprint": 4.8
+      }
+    },
+    {
+      "offerId": "ikea-kallax-desk-insert",
+      "badge": "Best for Kallax Owners",
+      "review": "If you already have a Kallax unit beside your desk, this insert is the most cost-efficient storage upgrade in the comparison — it converts dead display space into a functional drawer without touching the desk surface at all. The constraint is absolute: it requires a Kallax or Eket unit, and the single undivided compartment needs a separate internal tray for organized small-item storage.",
+      "pros": ["Adds usable drawer storage without consuming any desk surface area", "Lowest price in this comparison", "Available in white, black-brown, and white-stained oak finishes"],
+      "cons": ["Requires an existing Kallax or Eket unit — not a standalone organizer"],
+      "grade": "B",
+      "specs": {
+        "Cube size": "33 × 33 cm (Kallax standard)",
+        "Drawer type": "Single undivided pull-out",
+        "Finish options": "White, Black-brown, White-stained oak veneer",
+        "Internal dividers": "None (separate insert required)",
+        "Slide mechanism": "Basic runner",
+        "Sunlight resistance": "White finish yellows over time",
+        "Standalone use": "No — Kallax/Eket required"
+      },
+      "scores": {
+        "Organization capacity": 3.5,
+        "Build quality": 3.8,
+        "Aesthetics": 3.9,
+        "Value": 4.8,
+        "Desk footprint": 5.0
+      }
+    },
+    {
+      "offerId": "muji-acrylic-organizer",
+      "badge": "Best for Modular Customization",
+      "review": "The transparency is functional, not decorative — you see exactly what is in each compartment without opening it, which makes disorganization immediately visible and retrieval faster. The real trade-off is maintenance: clear acrylic shows fingerprints and scratches far more than any matte surface, and the modular system creates configuration decision fatigue if you try to optimize it all at once rather than starting small.",
+      "pros": ["Transparent — contents visible at a glance, disorganization impossible to hide", "Stackable modular units reconfigure without tools as needs change", "Photogenic in Japanese home-office setups; globally available at Muji stores"],
+      "cons": ["Scratches visibly on clear surfaces and shows fingerprints readily — requires frequent cleaning"],
+      "grade": "B-",
+      "specs": {
+        "Material": "Clear acrylic",
+        "Configuration": "Modular — stackable pen stands, trays, compartments",
+        "Footprint (standard config)": "~20 × 15 cm",
+        "Scratch resistance": "Low (shows on clear surfaces)",
+        "Weight capacity": "Light — base units flex under concentrated loads",
+        "Availability": "Muji stores worldwide and online",
+        "Cleaning frequency": "High — fingerprints and dust show readily"
+      },
+      "scores": {
+        "Organization capacity": 4.3,
+        "Build quality": 3.5,
+        "Aesthetics": 4.7,
+        "Value": 4.2,
+        "Desk footprint": 4.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For paper and pen clutter on a small desk",
+      "offerId": "yamazaki-tower-desk-organizer",
+      "reason": "Stands documents vertically and keeps wire structure visually light — the slim 15×20 cm footprint fits where other organizers cannot."
+    },
+    {
+      "label": "For iPhone + Apple Watch + AirPods households",
+      "offerId": "belkin-boost-charge-stand",
+      "reason": "Consolidates three separate charging setups into one stand with one cable, freeing an A5-sheet of desk surface."
+    },
+    {
+      "label": "For frequent travelers or very small desks",
+      "offerId": "anker-622-magnetic-stand",
+      "reason": "Folds flat to 1 cm for bag packing or instant desk-depth reclamation when the surface is needed."
+    },
+    {
+      "label": "For existing Kallax shelf owners",
+      "offerId": "ikea-kallax-desk-insert",
+      "reason": "Converts a dead Kallax cube into a functional drawer without adding anything to the desk surface."
+    },
+    {
+      "label": "For those who want configurable, see-through organization",
+      "offerId": "muji-acrylic-organizer",
+      "reason": "Transparent stackable modules let you see exactly what is in each compartment and reconfigure without tools."
+    }
+  ]
 }

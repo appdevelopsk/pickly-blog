@@ -53,5 +53,124 @@
     "rogue-knee-sleeves-5mm": "5mm, not IPF approved, sold in pairs, best for general training"
   },
   "pinDescription": "7mm or 5mm, IPF-approved or not — the right knee sleeve depends on how you squat. These 5 picks cover powerlifting competition, CrossFit, and everyday strength training without wasted overlap.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "sbd-knee-sleeves-7mm",
+      "badge": "Best Overall",
+      "review": "SBD's 7mm double-layer neoprene is IPF-approved and used at more world-level meets than any other brand. The top and bottom double-stitching prevents roll-down, the most common failure mode of cheaper sleeves. Sized by thigh circumference, not generic S/M/L — the fit chart matters, because a slightly loose 7mm sleeve delivers neither the compression nor the rebound that justifies the price over 5mm.",
+      "pros": ["IPF-approved for competition", "Double-stitched edges prevent roll-down", "Best rebound out of the hole at 7mm"],
+      "cons": ["Too warm for warm-up sets, best reserved for 80%+ working sets"],
+      "grade": "A+",
+      "specs": {
+        "Thickness": "7mm double-layer neoprene",
+        "IPF approved": "Yes",
+        "Sold": "Pairs",
+        "Sizing": "By thigh circumference",
+        "Price": "$110.00/pair"
+      },
+      "scores": {
+        "Build quality": 5.0,
+        "Durability": 5.0,
+        "Compression": 5.0,
+        "Comfort": 3.5,
+        "Value": 3.8
+      }
+    },
+    {
+      "offerId": "rehband-rx-knee-sleeve-7mm",
+      "badge": "Best for Comfort",
+      "review": "Rehband has made neoprene sleeves longer than most powerlifting brands have existed. The tapered anatomical cut — wider at top, narrower at the patella base — keeps the sleeve centered through deep squats better than straight-tube designs. Not IPF-approved, but compression and rebound are comparable to SBD for raw gym training. Sold individually, so you can trial one sleeve before buying a pair.",
+      "pros": ["Anatomical tapered cut stays centered in deep squats", "Sold individually for injured-knee testing", "Warmer than average for cold gyms"],
+      "cons": ["Not IPF-approved for competition use"],
+      "grade": "A",
+      "specs": {
+        "Thickness": "7mm neoprene",
+        "IPF approved": "No",
+        "Sold": "Individually or pairs",
+        "Cut": "Tapered anatomical",
+        "Price": "$49.99 each"
+      },
+      "scores": {
+        "Build quality": 4.8,
+        "Durability": 4.8,
+        "Compression": 4.5,
+        "Comfort": 4.8,
+        "Value": 4.5
+      }
+    },
+    {
+      "offerId": "stoic-strength-knee-sleeves",
+      "badge": "Best Value",
+      "review": "Stoic's 7mm IPF-approved sleeves deliver legitimate competition-grade compression at roughly half the price of SBD. The reinforced rear seam addresses where cheaper sleeves split after 6–12 months of heavy use. Sizing runs slightly small vs Rehband — size up if between sizes. Not as polished as SBD for fit retention over multiple cycles, but the performance gap doesn't justify the price gap for most lifters.",
+      "pros": ["IPF-approved at roughly half SBD's price", "Reinforced rear seam for long-term durability", "Functional rebound with no multi-week break-in"],
+      "cons": ["Runs small — size up if between sizes"],
+      "grade": "B+",
+      "specs": {
+        "Thickness": "7mm neoprene",
+        "IPF approved": "Yes",
+        "Sold": "Pairs",
+        "Sizing": "Runs small, size up",
+        "Price": "$67.00/pair"
+      },
+      "scores": {
+        "Build quality": 4.2,
+        "Durability": 4.3,
+        "Compression": 4.5,
+        "Comfort": 4.0,
+        "Value": 5.0
+      }
+    },
+    {
+      "offerId": "a7-bar-grip-knee-sleeves",
+      "badge": "Best for CrossFit",
+      "review": "A7's 5mm sleeves print a silicone bar-grip pattern on the outer surface — the same grip technology from their squat shirts — preventing migration during repeated knee flexion in WODs, box jumps, and thrusters. At 5mm the neoprene is thin enough to allow unrestricted mechanics in wall balls and pistol squats where 7mm creates noticeable resistance. Designed for CrossFit, not IPF competition.",
+      "pros": ["Silicone exterior prevents migration during dynamic movements", "5mm allows full ROM for CrossFit movements", "Sold in pairs"],
+      "cons": ["Not IPF-approved", "15–20% price premium over plain 5mm sleeves"],
+      "grade": "B",
+      "specs": {
+        "Thickness": "5mm neoprene",
+        "IPF approved": "No",
+        "Sold": "Pairs",
+        "Exterior": "Silicone bar-grip print",
+        "Price": "$60–70/pair"
+      },
+      "scores": {
+        "Build quality": 4.3,
+        "Durability": 4.2,
+        "Compression": 3.8,
+        "Comfort": 4.5,
+        "Value": 4.0
+      }
+    },
+    {
+      "offerId": "rogue-knee-sleeves-5mm",
+      "badge": "Best for General Training",
+      "review": "Rogue's 5mm single-layer sleeves are the practical choice for athletes who squat, press, and pull in the same session without removing sleeves between movements. Less rebound than 7mm — intentionally so. Warmth is consistent across 60–90 minute sessions without becoming uncomfortable. For general strength training at sub-maximal intensity, these cover joint support without over-engineering the solution.",
+      "pros": ["Practical for full-session wear without removal", "Consistent warmth without overheating", "Straightforward sizing matching Rogue apparel"],
+      "cons": ["Less rebound than 7mm — not suitable for max-effort powerlifting"],
+      "grade": "B-",
+      "specs": {
+        "Thickness": "5mm single-layer neoprene",
+        "IPF approved": "No",
+        "Sold": "Pairs",
+        "Best for": "General strength training",
+        "Price": "$60.00/pair"
+      },
+      "scores": {
+        "Build quality": 4.2,
+        "Durability": 4.3,
+        "Compression": 3.5,
+        "Comfort": 4.8,
+        "Value": 4.3
+      }
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For IPF competition", "offerId": "sbd-knee-sleeves-7mm", "reason": "IPF-approved, used by world champions, reliable at meet-day intensity"},
+    {"label": "For comfort-first lifters", "offerId": "rehband-rx-knee-sleeve-7mm", "reason": "Anatomical cut stays centered and sells individually so you can test one knee first"},
+    {"label": "For budget powerlifters", "offerId": "stoic-strength-knee-sleeves", "reason": "IPF-approved at half the price of SBD with adequate competition-grade compression"},
+    {"label": "For CrossFit athletes", "offerId": "a7-bar-grip-knee-sleeves", "reason": "Silicone grip prevents migration during box jumps, thrusters, and WOD-style knee cycling"},
+    {"label": "For general gym training", "offerId": "rogue-knee-sleeves-5mm", "reason": "Wearable for full sessions across all movements without needing to remove between sets"}
+  ]
 }

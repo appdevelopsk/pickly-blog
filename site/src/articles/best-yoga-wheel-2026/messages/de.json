@@ -66,5 +66,63 @@
     "chirp-wheel-plus": "Das charakteristische Wirbelrillen-Design leitet Druck von Dornfortsaetzen auf paravertebrale Muskulatur um — reduziert knoechernes Kontaktunbehagen. Drei Groessen (6/10/12 Zoll), $30-70. Bestes fuer Anwender, die Standard-Yoga-Rollen an den Wirbelsaeulen-Kontaktpunkten unangenehm finden."
   },
   "pinDescription": "Yoga-Rollen Vergleich 2026: Dharma Yoga Wheel vs Tumaz vs Chirp Wheel Plus vs Plexus — welche Yoga-Rolle verbessert wirklich Ihre Rueckbeugen und Wirbelflexibilitaet? Groessenleitfaden, Polsterungsvergleich und wie man eine Yoga-Rolle sicher verwendet. #YogaRolle #Yoga #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jedes Produkt wurde nach fuenf Kriterien bewertet: Verarbeitungsqualitaet, Leistung bei typischer Nutzung, Langzeitbestaendigkeit, Komfort und Preis-Leistung. Leistung und Bestaendigkeit wurden am hoechsten gewichtet, da sie bestimmen, ob das Produkt 12 Monate spaeter noch nuetzlich ist.",
+  "products": [
+    {
+      "offerId": "dharma-yoga-wheel",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Das Dharma Yoga Wheel mit 33 cm Durchmesser deckt die groesste Bandbreite an Posen ab. Die ABS-Schale mit EVA-Polster kombiniert Komfort mit Langlebigkeit fuer Rueckbeugen, Kernstuetzung und Dehnungen. Der etwas hoehere Preis ist durch die Qualitaet gut gerechtfertigt.",
+      "pros": ["Groesster Durchmesser (33 cm) fuer viele Posen", "ABS+EVA -- langlebige und komfortable Konstruktion", "Vielseitig fuer Rueckbeugen, Dehnungen und Core-Training"],
+      "cons": ["Etwas teurer als andere Optionen"],
+      "grade": "A+",
+      "specs": {"Durchmesser": "33 cm", "Belastungsgrenze": "ca. 136 kg", "Material": "ABS+EVA-Polster", "Polsterdicke": "dick"},
+      "scores": {"Durchmesser": 5.0, "Belastungsgrenze": 4.8, "Grifftextur": 4.7, "Preis-Leistung": 4.0, "Polsterqualitaet": 4.8}
+    },
+    {
+      "offerId": "tumaz-yoga-wheel",
+      "badge": "Bestes Preis-Leistung",
+      "review": "Das Tumaz Yoga Wheel bietet aehnliche Funktion wie Dharma zu einem guenstigeren Preis. Das Polster ist etwas duenner, aber fuer den taeglichen Einsatz ausreichend -- das am haeufigsten empfohlene Einsteigermodell.",
+      "pros": ["Dharma-nahe Funktion zu guenstigerem Preis", "Fuer den Alltag ausreichendes Polster", "Hohe Bewertungsanzahl"],
+      "cons": ["Polster etwas duenner als Dharma"],
+      "grade": "A",
+      "specs": {"Durchmesser": "33 cm", "Belastungsgrenze": "ca. 136 kg", "Material": "TPE+EVA-Polster", "Polsterdicke": "standard"},
+      "scores": {"Durchmesser": 5.0, "Belastungsgrenze": 4.6, "Grifftextur": 4.5, "Preis-Leistung": 4.9, "Polsterqualitaet": 4.3}
+    },
+    {
+      "offerId": "bly-yoga-wheel",
+      "badge": "Beste Wahl fuer empfindliche Wirbelsaeule",
+      "review": "Das BLY Yoga Wheel mit dickem Polster und etwas kleinerem Durchmesser eignet sich gut fuer Einsteiger in Rueckbeugen und sensible Wirbelsaeulen. Mit 30 cm Durchmesser gibt es bei manchen Posen Einschraenkungen, aber der Komfort ist hoch.",
+      "pros": ["Dickes Polster verringert Wirbelsaeulenkontaktdruck", "Geeignet fuer empfindliche Wirbelsaeulen und Rehabilitation", "Kompakte Groesse, gut zu verstauen"],
+      "cons": ["30 cm Durchmesser schraenkt manche Posen ein"],
+      "grade": "B+",
+      "specs": {"Durchmesser": "30 cm", "Belastungsgrenze": "ca. 113 kg", "Material": "ABS+extra dickes EVA-Polster", "Polsterdicke": "extra dick"},
+      "scores": {"Durchmesser": 4.3, "Belastungsgrenze": 4.3, "Grifftextur": 4.6, "Preis-Leistung": 4.5, "Polsterqualitaet": 5.0}
+    },
+    {
+      "offerId": "plexus-yoga-wheel",
+      "badge": "Beste Sicherheitszertifizierung",
+      "review": "Das Plexus Yoga Wheel ist sicherheitszertifiziert und fuer hohe Belastung ausgelegt. Material und Langlebigkeit sind verlaeSSlich, der Preis liegt etwas hoeher als Tumaz, aber fuer Kaeufer, die Zertifizierungen priorisieren, ist es die richtige Wahl.",
+      "pros": ["Sicherheitszertifiziert", "Hochbelastungsauslegung", "Hochwertige Materialien und Langlebigkeit"],
+      "cons": ["Preis hoeher als Tumaz"],
+      "grade": "B",
+      "specs": {"Durchmesser": "33 cm", "Belastungsgrenze": "ca. 145 kg", "Material": "ABS+EVA-Polster", "Zertifizierung": "sicherheitszertifiziert"},
+      "scores": {"Durchmesser": 5.0, "Belastungsgrenze": 5.0, "Grifftextur": 4.4, "Preis-Leistung": 3.8, "Polsterqualitaet": 4.4}
+    },
+    {
+      "offerId": "chirp-wheel-plus",
+      "badge": "Bestes fuer Wirbelentlastung",
+      "review": "Das Chirp Wheel Plus leitet mit seiner speziellen Wirbelrille Druck von den Dornfortsaetzen auf die paravertebrale Muskulatur um -- ideal fuer Nutzer, die Standard-Yoga-Rollen unangenehm finden. Drei Groessen fuer verschiedene Tiefen verfuegbar, aber fuer allgemeine Rueckbeugen bieten runde Rollen mehr Vielseitigkeit.",
+      "pros": ["Einzigartige Wirbelrille reduziert knoechernen Kontakt", "Drei Groessen fuer unterschiedliche Tiefen", "Auf die Wirbelsaeule spezialisiertes Design"],
+      "cons": ["Fuer allgemeine Rueckbeugen ist eine runde Rolle vielseitiger"],
+      "grade": "B-",
+      "specs": {"Durchmesser": "15/25/30 cm", "Belastungsgrenze": "ca. 113 kg", "Material": "ABS+gerilltes Polster", "Besonderheit": "Wirbelrille"},
+      "scores": {"Durchmesser": 4.0, "Belastungsgrenze": 4.1, "Grifftextur": 4.3, "Preis-Leistung": 4.2, "Polsterqualitaet": 4.6}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Fuer Praktizierende, die die beste Gesamtrolle suchen", "offerId": "dharma-yoga-wheel", "reason": "Groesster Durchmesser, hohe Langlebigkeit und Vielseitigkeit fuer alle Yoga-Stile."},
+    {"label": "Fuer Einsteiger mit Preisbewusstsein", "offerId": "tumaz-yoga-wheel", "reason": "Dharma-nahe Funktion zu guenstigerem Preis -- ideal als erste Yoga-Rolle."},
+    {"label": "Fuer empfindliche Wirbelsaeulen oder Rehabilitation", "offerId": "bly-yoga-wheel", "reason": "Extradickes Polster reduziert den Kontaktdruck auf die Wirbelsaeule fuer komfortablere Rueckbeugen."},
+    {"label": "Fuer Nutzer, die Standard-Rollen an der Wirbelsaeule unangenehm finden", "offerId": "chirp-wheel-plus", "reason": "Die Wirbelrille leitet Druck von den Dornfortsaetzen weg und beseitigt das knoecherne Kontaktgefuehl."}
+  ]
 }

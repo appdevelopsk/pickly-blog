@@ -58,5 +58,63 @@
     "yerba-mate-electric-gourd": "Térmica elétrica mantendo 75-80°C, bomba integrada ou separada. $25-60. Melhor para uso no escritório/viagens — elimina as idas repetidas à chaleira. A precisão de temperatura é a especificação-chave a verificar antes de comprar."
   },
   "pinDescription": "Erva-mate 2026: Cruz de Malta vs Guayaki vs Taragui, como preparar mate tradicional com cuia e bomba, temperatura da água (sem ferver), explicação de com palito vs sem palito e a melhor configuração de erva-mate para uso em casa ou escritório. #ervaMate #chimarrão #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Avaliamos cada produto quanto ao perfil de sabor, transparência da origem, custo-benefício por porção, integridade da embalagem e desempenho nos casos de uso mais comuns. Certificações documentadas e avaliações verificadas de usuários foram confrontadas com as afirmações de marketing.",
+  "products": [
+    {
+      "offerId": "cruz-de-malta-yerba-mate",
+      "badge": "Melhor opção geral",
+      "review": "Cruz de Malta é a marca argentina de referência com sabor equilibrado e preço acessível — adequada tanto para iniciantes quanto para bebedores experientes. Quem preferir a intensidade sin palo precisará buscar outra opção.",
+      "pros": ["Sabor tradicional argentino equilibrado", "A opção mais acessível em preço", "Ampla linha con palo e sin palo"],
+      "cons": ["Menor intensidade de cafeína do que marcas puramente sin palo"],
+      "grade": "A+",
+      "specs": {"Estilo": "Con palo", "Origem": "Argentina", "Conteúdo": "500g-1kg", "Certificação": "nenhuma"},
+      "scores": {"Sabor": 4.7, "Qualidade de cafeína": 4.3, "Custo-benefício": 4.9, "Qualidade de origem": 4.6, "Facilidade de preparo": 4.5}
+    },
+    {
+      "offerId": "guayaki-yerba-mate-traditional",
+      "badge": "Melhor opção orgânica",
+      "review": "Guayaki Traditional tem certificação Fair Trade e orgânica — suas promessas de qualidade são verificáveis. Mais caro que Cruz de Malta, mas o investimento se justifica para compradores conscientes da origem ética.",
+      "pros": ["Certificação Fair Trade e orgânica", "Perfil de sabor defumado e complexo", "Ampla disponibilidade nos mercados ocidentais"],
+      "cons": ["Custo mais elevado para o mesmo peso"],
+      "grade": "A",
+      "specs": {"Estilo": "Con palo", "Origem": "Brasil/Argentina", "Certificação": "Fair Trade, Orgânico", "Conteúdo": "75g-1kg"},
+      "scores": {"Sabor": 4.5, "Qualidade de cafeína": 4.6, "Custo-benefício": 3.9, "Qualidade de origem": 4.9, "Facilidade de preparo": 4.4}
+    },
+    {
+      "offerId": "taragui-yerba-mate",
+      "badge": "Melhor disponibilidade internacional",
+      "review": "Taragui é uma das maiores marcas argentinas, especialmente popular nas versões sin palo com alta intensidade de cafeína. Encontrada facilmente em todo o mundo com qualidade consistente.",
+      "pros": ["Disponível em todo o mundo", "Alta intensidade de cafeína (sin palo)", "Qualidade consistente"],
+      "cons": ["Levemente mais cara que Cruz de Malta"],
+      "grade": "B+",
+      "specs": {"Estilo": "Sin palo", "Origem": "Argentina", "Conteúdo": "250g-1kg", "Certificação": "nenhuma"},
+      "scores": {"Sabor": 4.4, "Qualidade de cafeína": 4.8, "Custo-benefício": 4.2, "Qualidade de origem": 4.5, "Facilidade de preparo": 4.6}
+    },
+    {
+      "offerId": "gourd-and-bombilla-set",
+      "badge": "Melhor kit inicial",
+      "review": "A cuia e a bomba de mola oferecem o ponto de entrada mais econômico para o preparo tradicional do chimarrão. Com um pouco de prática no preenchimento e na temperatura da água, você desfruta de um mate autêntico desde o primeiro dia.",
+      "pros": ["Permite o preparo tradicional imediatamente", "Construção simples e fácil de limpar", "Kit inicial acessível"],
+      "cons": ["Requer tempo de aprendizado para a técnica correta"],
+      "grade": "B",
+      "specs": {"Material": "Cuia/Aço inoxidável", "Tipo de bomba": "Filtro de mola", "Tamanho": "Padrão aprox. 300ml", "Lava-louças": "Não"},
+      "scores": {"Sabor": 4.2, "Qualidade de cafeína": 4.0, "Custo-benefício": 4.5, "Qualidade de origem": 4.1, "Facilidade de preparo": 3.8}
+    },
+    {
+      "offerId": "yerba-mate-electric-gourd",
+      "badge": "Melhor para escritório/viagens",
+      "review": "A térmica elétrica mantém automaticamente 75-80°C — sem necessidade de ir à chaleira repetidamente. Ideal para o consumo no escritório ou durante viagens frequentes onde a constância de temperatura é essencial.",
+      "pros": ["Mantém automaticamente 75-80°C", "Sem necessidade de recarregar a chaleira", "Ideal para escritório e viagens"],
+      "cons": ["Requer tomada elétrica, inadequado ao ar livre"],
+      "grade": "B-",
+      "specs": {"Configuração de temperatura": "75-80°C", "Capacidade": "aprox. 500ml", "Alimentação": "CA/USB", "Bomba": "integrada ou separada"},
+      "scores": {"Sabor": 4.0, "Qualidade de cafeína": 4.1, "Custo-benefício": 3.8, "Qualidade de origem": 3.9, "Facilidade de preparo": 4.9}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para quem experimenta o mate pela primeira vez", "offerId": "cruz-de-malta-yerba-mate", "reason": "Acessível e equilibrada no sabor — a entrada ideal para a primeira experiência com o mate."},
+    {"label": "Para compradores conscientes da origem orgânica e ética", "offerId": "guayaki-yerba-mate-traditional", "reason": "Certificações verificáveis garantem origem ética e qualidade sem especulação."},
+    {"label": "Para bebedores experientes que querem mais cafeína", "offerId": "taragui-yerba-mate", "reason": "Taragui Sin Palo oferece maior intensidade e é encontrada facilmente em todo o mundo."},
+    {"label": "Para uso no escritório ou viagens frequentes com mate", "offerId": "yerba-mate-electric-gourd", "reason": "A regulação automática de temperatura elimina as idas repetidas à chaleira a cada recarga."}
+  ]
 }

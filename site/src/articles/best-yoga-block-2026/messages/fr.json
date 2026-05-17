@@ -92,5 +92,63 @@
     "prosource-firm-foam-block": "Meilleur bloc de yoga en mousse ferme haute densité — le bloc en mousse EVA le plus dur de cette comparaison, avec des bords coupés carrément qui maximisent la stabilité de surface et la résistance à la charge approchant les niveaux du liège. Plus léger que le liège à la même rigidité. Le bon choix pour les praticiens qui veulent une stabilité semblable au liège sans le poids, ou qui préfèrent un support ferme non compressible mais trouvent la texture de surface du liège inconfortable sur la peau."
   },
   "pinDescription": "Meilleurs blocs de yoga 2026 comparés : liège vs densité de mousse, dimensions standard 9×6×4, bord vs face plate pour les poses d'équilibre — Manduka, liège Hugger Mugger, Gaiam Essentials, JadeYoga ou mousse ferme ProSource pour votre style de pratique ? #blocDeYoga #yoga #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque produit a été évalué selon cinq critères : qualité de fabrication, performance lors d'une utilisation typique, durabilité dans le temps, confort et rapport qualité-prix. Nous avons accordé le plus grand poids à la performance et à la durabilité car elles déterminent si le produit est encore utile 12 mois plus tard.",
+  "products": [
+    {
+      "offerId": "manduka-recycled-foam-block",
+      "badge": "Meilleur choix général",
+      "review": "Le bloc en mousse recyclée de Manduka offre le meilleur équilibre entre densité, adhérence et durabilité. Le matériau éco-responsable ne sacrifie pas la performance et résiste aux cours intenses avec transpiration. Le prix est un peu plus élevé, mais justifié comme investissement à long terme.",
+      "pros": ["Matériau recyclé, respectueux de l'environnement", "Excellent équilibre densité-adhérence", "Convient aux cours avec forte transpiration"],
+      "cons": ["Un peu plus cher que les blocs en liège"],
+      "grade": "A+",
+      "specs": {"Matériau": "Mousse EVA recyclée", "Taille": "9×6×4 pouces", "Poids": "env. 340g", "Couleurs": "plusieurs"},
+      "scores": {"Densité": 4.8, "Texture d'adhérence": 4.7, "Durabilité": 4.8, "Valeur": 4.3, "Options de taille": 4.2}
+    },
+    {
+      "offerId": "hugger-mugger-cork-block",
+      "badge": "Meilleur bloc en liège",
+      "review": "Le bloc en liège de Hugger Mugger est plus dur que la mousse EVA et naturellement résistant à la transpiration. Il se déforme peu avec un usage prolongé et offre plus de stabilité que la mousse pour les postures d'équilibre. Le poids supplémentaire est à la hauteur de la qualité.",
+      "pros": ["Liège naturel, résistant à la transpiration", "Dureté et stabilité supérieures à la mousse", "Se déforme peu avec un usage prolongé"],
+      "cons": ["Plus lourd que les blocs en mousse"],
+      "grade": "A",
+      "specs": {"Matériau": "Liège naturel", "Taille": "9×6×4 pouces", "Poids": "env. 510g", "Finition": "naturelle"},
+      "scores": {"Densité": 5.0, "Texture d'adhérence": 4.8, "Durabilité": 4.9, "Valeur": 4.1, "Options de taille": 3.8}
+    },
+    {
+      "offerId": "gaiam-essentials-yoga-block",
+      "badge": "Meilleur rapport qualité-prix pour débutants",
+      "review": "Gaiam Essentials est l'une des options les plus économiques pour les blocs de yoga et offre des performances suffisantes pour une pratique régulière 2-3 fois par semaine. La mousse est légère et bien adaptée pour soutenir les postures, mais les options supérieures sont préférables pour un usage intensif prolongé.",
+      "pros": ["Prix très abordable", "Léger et facile à transporter", "Suffisant pour une pratique de yoga régulière"],
+      "cons": ["Durabilité à long terme en usage intensif inférieure aux produits premium"],
+      "grade": "B+",
+      "specs": {"Matériau": "Mousse EVA", "Taille": "9×6×4 pouces", "Poids": "env. 200g", "Couleurs": "multiples"},
+      "scores": {"Densité": 3.9, "Texture d'adhérence": 4.0, "Durabilité": 3.8, "Valeur": 5.0, "Options de taille": 4.5}
+    },
+    {
+      "offerId": "jade-yoga-foam-block",
+      "badge": "Meilleur choix éco-responsable",
+      "review": "JadeYoga est connue pour ses tapis écologiques, et ce bloc en mousse maintient la philosophie de fabrication respectueuse de l'environnement. La densité est proche de Manduka et l'adhérence est bonne. Le prix est supérieur à Gaiam, mais adapté pour ceux qui soutiennent la transparence et l'engagement environnemental de la marque.",
+      "pros": ["Marque éco-responsable", "Densité et qualité proches de Manduka", "Bonne adhérence"],
+      "cons": ["Rapport qualité-prix légèrement inférieur à Manduka"],
+      "grade": "B",
+      "specs": {"Matériau": "Mousse EVA", "Taille": "9×6×4 pouces", "Poids": "env. 230g", "Fabrication": "éco-responsable"},
+      "scores": {"Densité": 4.4, "Texture d'adhérence": 4.5, "Durabilité": 4.4, "Valeur": 3.9, "Options de taille": 3.7}
+    },
+    {
+      "offerId": "prosource-firm-foam-block",
+      "badge": "Meilleure mousse haute densité",
+      "review": "Le bloc haute densité de ProSource offre une dureté proche du liège mais plus léger. Idéal pour les postures d'équilibre et la pratique axée sur la stabilité, bien qu'il soit moins confortable dans les postures restauratives en raison de sa fermeté.",
+      "pros": ["Dureté proche du liège avec moins de poids", "Plus léger que le liège", "Adapté pour ceux qui trouvent la texture du liège inconfortable"],
+      "cons": ["Moins d'amorti pour les postures restauratives"],
+      "grade": "B-",
+      "specs": {"Matériau": "Mousse EVA haute densité", "Taille": "9×6×4 pouces", "Poids": "env. 280g", "Fermeté": "haute"},
+      "scores": {"Densité": 4.7, "Texture d'adhérence": 4.3, "Durabilité": 4.5, "Valeur": 4.2, "Options de taille": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour ceux qui cherchent le meilleur bloc de yoga général", "offerId": "manduka-recycled-foam-block", "reason": "Meilleur équilibre entre densité, adhérence et matériau éco-responsable pour tous les styles de yoga."},
+    {"label": "Pour une stabilité maximale dans les postures d'équilibre", "offerId": "hugger-mugger-cork-block", "reason": "La dureté du liège naturel et la tolérance à la transpiration maximisent la stabilité dans les postures d'équilibre."},
+    {"label": "Pour les débutants qui essaient des blocs de yoga pour la première fois", "offerId": "gaiam-essentials-yoga-block", "reason": "Prix abordable avec des performances suffisantes pour une pratique régulière — minimise l'investissement initial."},
+    {"label": "Pour ceux qui ont besoin d'une stabilité proche du liège sans le poids", "offerId": "prosource-firm-foam-block", "reason": "Offre une stabilité similaire au liège avec moins de poids — idéal pour les pratiquants mobiles."}
+  ]
 }

@@ -92,5 +92,184 @@
     "garden-of-life-turmeric": "USDA 유기농. 전통 식품 발효. 비건 인증."
   },
   "pinDescription": "일반 강황 캡슐은 흡수율이 낮습니다. 하지만 이 5가지 커큐민 보충제는 다릅니다. 실제 염증과 관절 지원을 위한 파이토좀, BCM-95, 전체 허브 추천.",
-  "methodology": "각 제품을 풍미, 원료 투명성, 1회분당 가성비, 포장 품질, 실용성으로 평가했습니다. 인증 정보와 실사용자 리뷰를 광고 문구와 대조 검증했습니다."
+  "methodology": "각 보충제를 생체이용률 기술, 제3자 인증, 피페린 함량 및 상호작용 위험, 치료 용량 당 비용, 공급망 투명성으로 평가했습니다.",
+  "products": [
+    {
+      "offerId": "thorne-meriva-curcumin",
+      "badge": "전체 최고",
+      "review": "Phospholipid-bound phytosome with ~29x greater absorption, soy-free (sunflower lecithin), NSF Certified for Sport. Most research-backed high-bioavailability form available. Premium price only justified for a clear therapeutic goal.",
+      "pros": [
+        "~29x absorption vs plain curcumin (phytosome)",
+        "NSF Certified for Sport — batch-tested",
+        "Soy-free sunflower lecithin"
+      ],
+      "cons": [
+        "Highest price per serving — only justified with clear therapeutic goal"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Form": "Curcumin phytosome (Meriva)",
+        "Dose": "500mg Meriva complex",
+        "Absorption": "~29x vs plain curcumin",
+        "Cert": "NSF Certified for Sport",
+        "Piperine": "No",
+        "Soy-free": "Yes",
+        "Price": "$52.00"
+      },
+      "scores": {
+        "Bioavailability": 5.0,
+        "Purity": 5.0,
+        "Value": 3.5,
+        "Dosage": 4.5,
+        "Ingredient quality": 5.0
+      }
+    },
+    {
+      "offerId": "life-extension-bio-curcumin",
+      "badge": "피페린 없는 최고",
+      "review": "BCM-95 combines curcuminoids with turmeric essential oils for ~6.93x absorption, without piperine — safer for people on blood thinners and antidepressants. Rigorous third-party testing. Piperine-free means lower drug interaction risk.",
+      "pros": [
+        "Piperine-free — safer with most medications",
+        "~6.93x absorption via BCM-95 mechanism",
+        "Rigorous third-party testing"
+      ],
+      "cons": [
+        "Lower absorption multiplier than Thorne Meriva (6.93x vs 29x)"
+      ],
+      "grade": "A",
+      "specs": {
+        "Form": "BCM-95 (curcuminoids + essential oils)",
+        "Dose": "400mg BCM-95",
+        "Absorption": "~6.93x vs plain",
+        "Cert": "Third-party tested",
+        "Piperine": "No",
+        "Soy-free": "Yes",
+        "Price": "$22.50"
+      },
+      "scores": {
+        "Bioavailability": 4.5,
+        "Purity": 5.0,
+        "Value": 4.8,
+        "Dosage": 4.5,
+        "Ingredient quality": 4.8
+      }
+    },
+    {
+      "offerId": "qunol-turmeric-1000mg",
+      "badge": "가장 광범위하게 구할 수 있음",
+      "review": "Liquid gel capsule with lipid carrier, 1000mg standardised to 95% curcuminoids. Sold at Costco and Walmart. Reliable everyday option. Absorption advantage less dramatic than phytosome or BCM-95 formats.",
+      "pros": [
+        "Available at Costco and Walmart",
+        "Liquid gel for better bioavailability vs powder",
+        "1000mg per serving at 95% curcuminoids"
+      ],
+      "cons": [
+        "Absorption advantage lower than phytosome or BCM-95"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Form": "Liquid gel (lipid carrier)",
+        "Dose": "1000mg turmeric extract (95%)",
+        "Absorption": "Moderate (lipid)",
+        "Cert": "GMP",
+        "Piperine": "No",
+        "Retail": "Costco, Walmart, Amazon",
+        "Price": "Accessible"
+      },
+      "scores": {
+        "Bioavailability": 3.8,
+        "Purity": 4.0,
+        "Value": 5.0,
+        "Dosage": 4.8,
+        "Ingredient quality": 3.8
+      }
+    },
+    {
+      "offerId": "gaia-herbs-turmeric",
+      "badge": "유기농 우선 최고",
+      "review": "Whole-herb extract plus piperine for ~20x absorption boost. Certified organic, B Corp, grown on own NC farm with seed-to-shelf traceability. Piperine unsuitable for people on certain medications.",
+      "pros": [
+        "Certified organic with seed-to-shelf traceability",
+        "~20x absorption via piperine",
+        "B Corp certified — strongest supply-chain ethics"
+      ],
+      "cons": [
+        "Piperine unsuitable for blood thinners or certain medications"
+      ],
+      "grade": "B",
+      "specs": {
+        "Form": "Whole-herb + piperine",
+        "Dose": "200mg 5:1 extract + 5mg piperine",
+        "Absorption": "~20x via piperine",
+        "Cert": "USDA Organic, B Corp",
+        "Piperine": "Yes — 5mg",
+        "Farm": "Own NC farm",
+        "Price": "$49.49"
+      },
+      "scores": {
+        "Bioavailability": 4.3,
+        "Purity": 4.8,
+        "Value": 3.8,
+        "Dosage": 3.8,
+        "Ingredient quality": 5.0
+      }
+    },
+    {
+      "offerId": "garden-of-life-turmeric",
+      "badge": "클린 라벨+장 건강 최고",
+      "review": "USDA Organic whole turmeric root fermented with probiotics — Non-GMO, Certified Vegan, added digestive enzymes. Lower curcumin concentration than specialized extracts is the honest trade-off for a whole-food approach.",
+      "pros": [
+        "USDA Organic, Non-GMO, Certified Vegan",
+        "Added probiotics and digestive enzymes",
+        "Whole-food philosophy"
+      ],
+      "cons": [
+        "Lower curcumin concentration than high-bioavailability extracts"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Form": "Fermented whole turmeric + ginger",
+        "Cert": "USDA Organic, Non-GMO, Vegan",
+        "Added": "Probiotics, digestive enzymes",
+        "Piperine": "No",
+        "Curcumin": "Lower (whole-food)",
+        "Philosophy": "Whole-food",
+        "Price": "$23.09"
+      },
+      "scores": {
+        "Bioavailability": 3.2,
+        "Purity": 5.0,
+        "Value": 4.5,
+        "Dosage": 3.5,
+        "Ingredient quality": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For chronic joint inflammation or post-surgery recovery",
+      "offerId": "thorne-meriva-curcumin",
+      "reason": "Highest documented absorption rate justifies the premium with a clear therapeutic target."
+    },
+    {
+      "label": "For people on prescription medications",
+      "offerId": "life-extension-bio-curcumin",
+      "reason": "Piperine-free BCM-95 avoids enzyme inhibition that makes piperine-containing supplements unsafe with many drugs."
+    },
+    {
+      "label": "For everyday wellness without online ordering",
+      "offerId": "qunol-turmeric-1000mg",
+      "reason": "Sold at Costco and Walmart — only option here to pick up in person without a subscription."
+    },
+    {
+      "label": "For organic-sourcing priorities",
+      "offerId": "gaia-herbs-turmeric",
+      "reason": "Seed-to-shelf traceability and B Corp certification — most transparent supply chain here."
+    },
+    {
+      "label": "For gut health and clean-label priority together",
+      "offerId": "garden-of-life-turmeric",
+      "reason": "Added probiotics and digestive enzymes in a USDA Organic whole-food form."
+    }
+  ]
 }

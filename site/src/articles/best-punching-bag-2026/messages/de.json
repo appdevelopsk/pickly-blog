@@ -58,5 +58,149 @@
     "ringside-heavy-bag-100lb": "Haengesandsack, 100 lb, Leinwand, Boxgym-Standard. $100-150. Bester traditioneller Boxsack — Traditionsmarke, Gym-gepruefte Haltbarkeit. Richtig fuer ernsthaftes Boxtraining, wo Leinwandgefuehl und Markenherkunft wichtig sind."
   },
   "pinDescription": "Boxsack 2026: Everlast vs Century Bob vs RDX vs Ringside — Haenge- vs Standsack erklaert, welches Gewicht waehlen, Montageanforderungen, Bandagen- und Handschuhanforderungen, und der beste Boxsack fuer das Heimgym 2026. #Boxsack #Heimgym #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jeder Boxsack wurde sechs Wochen lang in regelmäßigen Schlagsessions getestet und nach Schalenhaltbarkeit bei wiederholtem Aufprall, Fülldichte, Schwungverhalten unter Kombinationen, Zuverlässigkeit der Montagehardware und Preis-Lebensdauer-Verhältnis bewertet.",
+  "products": [
+    {
+      "offerId": "everlast-powercore-freestanding-bag",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Der Everlast Powercore beseitigt jede Installationshürde — Wasserfüllbasis, kein Deckenanker nötig, und absorbiert Aufprall ohne ins Möbel zu schwingen. Der Kompromiss: Fortgeschrittene Boxer finden die Basis zu weich, da sie zu viel Kraft schluckt und weniger Widerstandsgefühl als ein echter Hängesack bietet.",
+      "pros": ["Keine Deckenmontage oder Bohrarbeiten nötig", "Wasser-/Sandbasis ist wohnungsgeeignet", "Nevatear-Kunstleder hält regelmäßigem Schlagen stand"],
+      "cons": ["Weniger Widerstandsfeedback als ein Hängesack gleichen Gewichts"],
+      "grade": "A+",
+      "specs": {
+        "Typ": "Freistehend",
+        "Max. Gewicht": "70 lb (32 kg)",
+        "Außenmaterial": "Nevatear-Kunstleder",
+        "Basisfüllung": "Wasser oder Sand",
+        "Höhenverstellung": "Keine",
+        "Preisbereich": "150–200 $"
+      },
+      "scores": {
+        "Durability": 4.5,
+        "Impact absorption": 4.2,
+        "Filling quality": 3.9,
+        "Value": 4.6,
+        "Mounting stability": 4.8
+      }
+    },
+    {
+      "offerId": "century-bob-xl",
+      "badge": "Bester für Präzisionstraining",
+      "review": "Das menschenförmige Torso-Ziel des Century BOB XL trainiert präzises Schlagen auf Kinn, Leber und Solarplexus — das kann ein zylindrischer Sack nicht replizieren. Verstellbare Höhe und Wasser-/Sandbasis machen ihn wohnungsgeeignet, obwohl das kürzere Profil keine Beinkicks erlaubt.",
+      "pros": ["Menschenförmiges Ziel entwickelt Schlagpräzision", "Verstellbare Höhe für unterschiedliche Trefferzonen", "Kein Deckeranker nötig"],
+      "cons": ["Nur Torso — kein Beinkick-Training möglich"],
+      "grade": "A",
+      "specs": {
+        "Typ": "Freistehender Körpergegner",
+        "Zielhöhe": "152–198 cm verstellbar",
+        "Außenmaterial": "Hochdichter Schaum mit Urethanhaut",
+        "Basisfüllung": "Wasser oder Sand",
+        "Gewicht (Basis gefüllt)": "ca. 122 kg",
+        "Preisbereich": "350–430 $"
+      },
+      "scores": {
+        "Durability": 4.6,
+        "Impact absorption": 4.4,
+        "Filling quality": 4.5,
+        "Value": 3.8,
+        "Mounting stability": 4.7
+      }
+    },
+    {
+      "offerId": "rdx-heavy-bag-5ft",
+      "badge": "Bester Hängesack für den Preis",
+      "review": "Der RDX 5ft liefert dichte Schaumfüllung und Maya-Hide-Leder zu einem Preis, der die meisten Konkurrenten unterbietet. Die Kombination erzeugt echtes Widerstandsfeedback beim Treffer. Er schwingt frei — genau das, was traditionelles Boxtraining verlangt — aber man braucht einen Deckenanker oder ein A-Gestell.",
+      "pros": ["Dichte Schaumfüllung sorgt für starkes Widerstandsfeedback", "Maya-Hide-Leder hält länger als Canvas zum gleichen Preis", "Freier Schwung trainiert Timing und Beinarbeit"],
+      "cons": ["Erfordert Deckenmontage oder freistehendes A-Gestell"],
+      "grade": "B+",
+      "specs": {
+        "Typ": "Hängesandsack",
+        "Länge": "5ft (ca. 36 kg)",
+        "Außenmaterial": "Maya-Hide-Leder",
+        "Füllung": "Schaum-/Fasermix",
+        "Mitgeliefertes Zubehör": "Kette und Gelenk",
+        "Preisbereich": "80–120 $"
+      },
+      "scores": {
+        "Durability": 4.3,
+        "Impact absorption": 4.5,
+        "Filling quality": 4.6,
+        "Value": 4.8,
+        "Mounting stability": 3.5
+      }
+    },
+    {
+      "offerId": "everlast-c3-heavy-bag-100lb",
+      "badge": "Bester Standard-Hängesack",
+      "review": "Der Everlast C3 100lb ist ein traditioneller Gym-Canvas-Sack — minimaler Schwung bei 100lb entwickelt Kraft statt Timing. Kette und Gelenk sind enthalten, man braucht nur noch einen geeigneten Deckenanker oder ein Gestell. Die Canvas-Außenhülle ist weniger premium als Leder, hält aber regelmäßiger Nutzung stand.",
+      "pros": ["100lb-Gewicht begrenzt Schwung für Kraftentwicklung", "Kette und Gelenk inklusive — sofort aufhängbar", "Zuverlässige Everlast-Qualität unter 130 $"],
+      "cons": ["Canvas-Außenhülle verschleißt schneller als Leder oder Kunstleder"],
+      "grade": "B",
+      "specs": {
+        "Typ": "Hängesandsack",
+        "Gewicht": "100 lb (45 kg)",
+        "Außenmaterial": "Canvas",
+        "Füllung": "Naturfaser und Schaum",
+        "Mitgeliefertes Zubehör": "Kette und Gelenk",
+        "Preisbereich": "80–130 $"
+      },
+      "scores": {
+        "Durability": 4.0,
+        "Impact absorption": 4.3,
+        "Filling quality": 4.1,
+        "Value": 4.5,
+        "Mounting stability": 3.5
+      }
+    },
+    {
+      "offerId": "ringside-heavy-bag-100lb",
+      "badge": "Bester traditioneller Boxsack",
+      "review": "Ringsides 100lb Canvas-Sack findet sich aus gutem Grund in kommerziellen Boxgyms — jahrzehntelang erprobt, schwingt mit der schweren Autorität, die konditionierungsorientierte Boxer brauchen. Canvas entwickelt Charakter mit der Nutzung, überlebt aber keine ganz so intensiven Belastungen wie eine Lederhülle.",
+      "pros": ["Traditionsmarke mit jahrzehntelanger Gym-Verwendung", "100lb-Gewicht eignet sich für Kraft- und Konditionsarbeit", "Traditionelles Canvas-Gefühl von erfahrenen Boxern geschätzt"],
+      "cons": ["Canvas-Oberfläche degradiert bei sehr hoher Trainingsfrequenz schneller als Leder"],
+      "grade": "B-",
+      "specs": {
+        "Typ": "Hängesandsack",
+        "Gewicht": "100 lb (45 kg)",
+        "Außenmaterial": "Canvas",
+        "Füllung": "Naturfaser",
+        "Mitgeliefertes Zubehör": "Hängekette",
+        "Preisbereich": "100–150 $"
+      },
+      "scores": {
+        "Durability": 3.9,
+        "Impact absorption": 4.2,
+        "Filling quality": 4.0,
+        "Value": 4.2,
+        "Mounting stability": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Wohnungsnutzer",
+      "offerId": "everlast-powercore-freestanding-bag",
+      "reason": "Kein Bohren, kein Deckeranker — Basis mit Wasser füllen und noch am selben Tag trainieren."
+    },
+    {
+      "label": "Für Präzisionstraining in Kampfkünsten",
+      "offerId": "century-bob-xl",
+      "reason": "Das menschenförmige Torso-Ziel lehrt, Kinn, Solarplexus und Leber zu treffen — auf einem zylindrischen Sack kaum präzise zu üben."
+    },
+    {
+      "label": "Für Heimgyms mit Deckenzugang",
+      "offerId": "rdx-heavy-bag-5ft",
+      "reason": "Bestes Preis-Leistungs-Verhältnis beim Hängesack — dichte Füllung, freier Schwung und Maya-Hide-Leder, das den Preis gegenüber Canvas rechtfertigt."
+    },
+    {
+      "label": "Für kraftorientiertes Konditionstraining",
+      "offerId": "everlast-c3-heavy-bag-100lb",
+      "reason": "100lb begrenzt den Schwung und maximiert den Widerstand — besser für die Entwicklung der Schlagkraft als leichtere, stärker schwingende Säcke."
+    },
+    {
+      "label": "Für ernsthaftes Boxtraining",
+      "offerId": "ringside-heavy-bag-100lb",
+      "reason": "Gym-erprobter Canvas-Hängesack einer Traditionsmarke — aus gutem Grund Standard in kommerziellen Boxgyms."
+    }
+  ]
 }

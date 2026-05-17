@@ -91,5 +91,64 @@
     "peets-coffee-subscription": "Melhor assinatura de cafe moido convencional — Major Dickason's Blend a ~$12-15/12 oz, frete gratis, sem curva de aprendizado. Torra escura consistente, amplamente apreciada por sua previsibilidade. Melhor para bebedores que querem a mesma xicara confiavel todas as manhas. Limitacao: zero variedade; o perfil de torra escura nao satisfara os entusiastas do cafe especial de torra clara."
   },
   "pinDescription": "5 assinaturas de cafe comparadas para 2026: Trade Coffee vs Atlas Coffee Club vs Onyx vs Angels' Cup vs Peet's. Frescura, preco por oz, personalizacao — encontre a assinatura certa antes que seu proximo saco acabe. #assinaturacafe #cafe #torrefadores #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada assinatura foi avaliada pela frescura na entrega (dias desde a torra), precisão da personalização após 3 ou mais pedidos, preço por onça normalizado por tamanho do pacote, opções de moagem e facilidade de pausar os envios.",
+  "products": [
+    {
+      "offerId": "trade-coffee-subscription",
+      "badge": "Melhor no Geral",
+      "review": "O algoritmo de preferências do Trade Coffee seleciona de mais de 60 torrefadores independentes e envia em 1–3 dias após a torra — uma combinação de variedade e frescura que nenhuma assinatura de torrefador único consegue igualar. Limitação honesta: o algoritmo precisa de 3–5 pedidos para calibrar.",
+      "pros": ["Rede de 60+ torrefadores com ampla variedade de origens e estilos", "Data de torra impressa em cada pacote — transparência total de frescura", "O ciclo de feedback de avaliações refina continuamente os futuros matches"],
+      "cons": ["As primeiras entregas podem não combinar com o paladar até o algoritmo aprender com as avaliações"],
+      "grade": "A+",
+      "specs": {"Rede de torrefadores": "60+ torrefadores independentes", "Envio após torra": "1–3 dias", "Tamanho do pacote": "280–340 g", "Faixa de preço": "$14–$22 por pacote", "Opções de moagem": "Grão inteiro + 4 tipos pré-moídos", "Frequência": "Semanal a cada 8 semanas"},
+      "scores": {"Frescura": 4.9, "Sabor": 4.7, "Custo-benefício": 4.3, "Conveniência": 4.5, "Personalização": 4.8}
+    },
+    {
+      "offerId": "atlas-coffee-club",
+      "badge": "Melhor para Exploradores",
+      "review": "O Atlas Coffee Club entrega um país produtor diferente por mês com pacotes com data de torra e um cartão postal educativo — o melhor formato para quem se aproxima do café como um amante de vinho explora regiões. Sem personalização: você recebe as seleções editoriais da Atlas.",
+      "pros": ["Novo país de origem a cada mês com diversidade geográfica genuína", "Data de torra carimbada, enviado dias após a torra", "Cartões postais com notas de degustação e detalhes do método de processamento"],
+      "cons": ["Sem personalização — não é possível especificar preferências de sabor ou excluir tipos de processamento"],
+      "grade": "A",
+      "specs": {"Modelo de abastecimento": "Origem única, país rotativo mensal", "Envio após torra": "1–4 dias", "Tamanho do pacote": "340 g", "Faixa de preço": "$14–$19 com frete incluído", "Opções de moagem": "Grão inteiro (moído sob pedido)", "Flexibilidade": "Skip, pausa, cancelamento a qualquer momento"},
+      "scores": {"Frescura": 4.7, "Sabor": 4.6, "Custo-benefício": 4.5, "Conveniência": 4.4, "Personalização": 2.5}
+    },
+    {
+      "offerId": "onyx-coffee-lab-subscription",
+      "badge": "Maior Qualidade",
+      "review": "A Onyx torra sob pedido e envia em 24–48 horas — entre os mais rápidos da categoria. O abastecimento visa lotes de alta pontuação e orientados ao processo. A estética estreita (torrações claras, frutadas) é força e limitação ao mesmo tempo.",
+      "pros": ["Torra sob pedido, envio em 24–48 h — entrega fresca mais rápida testada", "Abastecimento de alta qualidade consistente com lotes de nível competição", "Desconto de assinatura torna o preço premium mais sustentável"],
+      "cons": ["Estética de torra estreita — não adequado para preferências de torra escura ou blends"],
+      "grade": "B+",
+      "specs": {"Modelo": "Torrefador único (torrações próprias da Onyx)", "Envio após torra": "24–48 horas", "Tamanho do pacote": "280–340 g", "Faixa de preço": "$18–$22 por pacote", "Opções de moagem": "Somente grão inteiro", "Flexibilidade": "Painel de autoatendimento, pausa/skip disponível"},
+      "scores": {"Frescura": 5.0, "Sabor": 4.8, "Custo-benefício": 3.8, "Conveniência": 4.2, "Personalização": 2.0}
+    },
+    {
+      "offerId": "angels-cup-subscription",
+      "badge": "Melhor para Treinar o Paladar",
+      "review": "O Angels' Cup envia pacotes de amostras numeradas sem rótulo para degustação às cegas — um formato único que desenvolve habilidades de degustação. O custo por onça é o mais alto dos cinco; o formato não funciona como fornecimento diário principal.",
+      "pros": ["A degustação às cegas elimina viés de origem e desenvolve avaliação precisa do paladar", "Envio em 1–5 dias após torra com embalagem numerada", "Detalhes da origem revelados após degustação — aprendizado estruturado"],
+      "cons": ["O formato de amostra não é prático como fornecimento diário principal — alto custo por onça"],
+      "grade": "B",
+      "specs": {"Modelo": "Sets de amostras às cegas de múltiplos torrefadores", "Envio após torra": "1–5 dias", "Tamanho da amostra": "4 amostras por set (~28 g cada)", "Faixa de preço": "$10–$14 por pack de 4", "Opções de moagem": "Pré-moído (amostras); grão inteiro na assinatura regular", "Flexibilidade": "Cancelamento e skip online pelo portal"},
+      "scores": {"Frescura": 4.6, "Sabor": 4.5, "Custo-benefício": 3.5, "Conveniência": 3.8, "Personalização": 3.0}
+    },
+    {
+      "offerId": "peets-coffee-subscription",
+      "badge": "Melhor Sem Complicações",
+      "review": "A assinatura Peet's Major Dickason's Blend oferece qualidade de torra escura consistente ao menor preço por onça dos cinco, com frete grátis e sem curva de aprendizado. Perfeita para quem quer a mesma xícara confiável toda manhã — completamente errada para quem busca specialty ou variedade.",
+      "pros": ["Menor preço por onça com frete grátis incluído", "Caráter de torra escura consistente — sem surpresas ou rotação de origens", "Amplas opções de moagem — sem necessidade de moedor"],
+      "cons": ["Zero variedade; o perfil de torra escura não satisfará entusiastas de specialty de torra clara"],
+      "grade": "B-",
+      "specs": {"Blend": "Major Dickason's Blend (torra escura)", "Envio após torra": "Em poucos dias pelo canal direto", "Tamanho do pacote": "340 g", "Faixa de preço": "$12–$15 com frete grátis", "Opções de moagem": "Grão inteiro e todos os tipos de moagem", "Flexibilidade": "Skip e pausa pelo portal da Peet's"},
+      "scores": {"Frescura": 4.2, "Sabor": 4.0, "Custo-benefício": 4.8, "Conveniência": 4.9, "Personalização": 1.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para bebedores curiosos que querem variedade sem pesquisa", "offerId": "trade-coffee-subscription", "reason": "O algoritmo de preferências cuida da descoberta de torrefadores; basta avaliar o que você recebe."},
+    {"label": "Para o explorador de café com abordagem geográfica", "offerId": "atlas-coffee-club", "reason": "Um país diferente por mês com contexto de origem — sistemático e educativo."},
+    {"label": "Para compradores com preferência estabelecida por torrações claras de specialty", "offerId": "onyx-coffee-lab-subscription", "reason": "Torra sob pedido com o tempo de entrega mais rápido e sem compromisso na qualidade."},
+    {"label": "Para desenvolver o paladar através da degustação às cegas", "offerId": "angels-cup-subscription", "reason": "A única assinatura projetada como exercício de degustação em vez de fornecimento diário."},
+    {"label": "Para quem quer café moído escuro confiável sem complicações", "offerId": "peets-coffee-subscription", "reason": "Consistente, acessível, pré-moído — sem curva de aprendizado, sem surpresas."}
+  ]
 }

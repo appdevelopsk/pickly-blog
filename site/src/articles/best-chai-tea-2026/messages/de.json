@@ -58,5 +58,64 @@
     "david-rio-elephant-vanilla-chai": "Chai-Pulvermischung, Vanille-betont, 450 g / 16-20 Portionen. $15-20. Bequemstes Format -- in heisser Milch aufloesen, kein Aufbruehen oder kuehlpflichtiges Konzentrat. Richtig fuer Reisen oder Chai mit minimalem Aufwand und sanftem Gewuerzprofil."
   },
   "pinDescription": "Chai-Tee 2026: Rishi Masala Chai vs Harney & Sons Hot Cinnamon Spice vs Oregon Chai Konzentrat -- Losblaettertee vs Teebeutel vs Konzentrat erklaert, Chai zu Hause zubereiten (Herdmethode vs westliche Methode), Koffeingehalt und welcher Chai kaufenswert ist. #Chaitee #Gewuerztee #Tee #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jedes Produkt wurde nach Geschmacksprofil, Herkunftstransparenz, Preis-Leistungs-Verhältnis, Verpackungsqualität und Alltagsnutzen bewertet. Zertifizierungen und Nutzerbewertungen wurden mit Marketingaussagen abgeglichen.",
+  "products": [
+    {
+      "offerId": "rishi-masala-chai",
+      "badge": "Bester Gesamteindruck",
+      "review": "Rishi Masala Chai ist der Maßstab für losen Masala Chai — Assam-Basis mit ganzen Kardamomkapseln, Zimtsplittern, Ingwer, schwarzem Pfeffer und Nelken ergibt ein geschichtetes Gewürzprofil, das Teebeutel nicht replizieren können. Direktbezug vom Bauernhof zeigt sich in der Qualität. Das Absieben (30 Sekunden) ist die einzige Hürde — und für ernsthaften Chai-Genuss lohnt sich das.",
+      "pros": ["Ganze Gewürze erzeugen Aromenschichten — unmöglich mit vorgemahlenem Teebeutel", "Direkt vom Bauernhof bezogene Assam-Basis — malzige Komplexität", "18–22 Portionen pro Beutel — ähnlicher Preis pro Tasse wie gute Teebeutel"],
+      "cons": ["Sieb erforderlich — ein Schritt mehr als Beutel oder Konzentrat"],
+      "grade": "A+",
+      "specs": {"Format": "Loser Tee", "Teebasis": "Assam Schwarztee", "Portionen": "18–22 pro 80-g-Beutel", "Hauptgewürz": "Kardamom", "Preis pro Tasse": "€0,55–0,75"},
+      "scores": {"Geschmack": 4.9, "Qualität": 4.8, "Preis-Leistung": 4.2, "Praktikabilität": 3.2, "Vielseitigkeit": 4.5}
+    },
+    {
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "badge": "Bester Gewürztee",
+      "review": "Hot Cinnamon Spice ist kein traditioneller Masala Chai — es ist Schwarztee mit drei Zimtsorten, Orangenschale und süßen Nelken. Dieser Unterschied ist wichtig: Wer südasisatischen Masala Chai möchte, greift woanders. Wer einen wärmenden, intensiv zimtbetonten Gewürztee sucht, der über Nacht wunderschön in Milch kalt aufgezogen werden kann, findet hier eines der besten Produkte in dieser Kategorie.",
+      "pros": ["Intensiv zimtbetont — massentauglich ohne Gewürzkomplexität", "Ausgezeichnet kalt in Milch aufgezogen für Iced Chai am nächsten Morgen", "50 Beutel für €10–14 — sehr gutes Preis-Leistungs-Verhältnis"],
+      "cons": ["Kein traditioneller Masala Chai — kein Ingwer, kaum Kardamom"],
+      "grade": "A",
+      "specs": {"Format": "Teebeutel (50 Stück)", "Teebasis": "Schwarztee", "Hauptgewürz": "3x Zimt + Orangenschale + Nelken", "Preis/Beutel": "€0,20–0,28", "Kaltaufguss": "Ja — hervorragend"},
+      "scores": {"Geschmack": 4.7, "Qualität": 4.5, "Preis-Leistung": 4.6, "Praktikabilität": 4.8, "Vielseitigkeit": 4.0}
+    },
+    {
+      "offerId": "tazo-chai-concentrate",
+      "badge": "Bestes Budget-Konzentrat",
+      "review": "Tazo Chai Konzentrat ist die günstigste Möglichkeit, zu Hause Chai Latte zu machen — im Verhältnis 1:1 mit warmer Milch mischen, fertig. Das süß-würzige Ergebnis ist konstant und nähert sich einem Café-Chai an. Weniger nuanciert als loser Tee, aber für einen schnellen Morgendrink unter der Woche absolut ausreichend.",
+      "pros": ["In allen großen Supermärkten erhältlich", "Konstant süß-würziger Geschmack bei jedem Aufguss", "Niedriger Preis pro Portion bei €5–8 für 950 ml"],
+      "cons": ["Weniger nuanciert als loser Tee — begrenzte Gewürztiefe", "Höherer Zuckergehalt als Aufguss aus Blättern oder Beuteln"],
+      "grade": "B+",
+      "specs": {"Format": "Flüssigkonzentrat (950 ml)", "Mischverhältnis": "1:1 mit Milch", "Portionen": "ca. 16 pro Flasche", "Preis/Portion": "€0,31–0,50", "Zucker": "Enthält Rohrzucker"},
+      "scores": {"Geschmack": 3.9, "Qualität": 3.6, "Preis-Leistung": 4.5, "Praktikabilität": 4.9, "Vielseitigkeit": 3.5}
+    },
+    {
+      "offerId": "oregon-chai-original-concentrate",
+      "badge": "Bester Café-Latte-Ersatz",
+      "review": "Oregon Chai Original ist der Marktstandard für Chai Latte-Konzentrate — süß, kardamombetont, entwickelt um Starbucks-Chai zu Hause zu replizieren. Im vollen 1:1-Verhältnis sehr süß (15 g Zucker pro Portion); viele bevorzugen 1:2 (Milch:Konzentrat). Die ungesüßte Version erlaubt unabhängige Süßekontrolle.",
+      "pros": ["Beste Replikation eines Café Chai Latte zu Hause", "Breit verfügbar, auch als ungesüßte Variante", "Kardamom-betontes Gewürzprofil bevorzugt von Latte-Trinkern"],
+      "cons": ["15 g Zucker pro Portion bei Standardverhältnis — ungesüßte Version empfohlen"],
+      "grade": "B",
+      "specs": {"Format": "Flüssigkonzentrat (950 ml)", "Mischverhältnis": "1:1 mit Milch (oder 1:2 für weniger süß)", "Portionen": "ca. 16 pro Flasche", "Zucker": "15 g/Portion (Standard)", "Ungesüßt": "Erhältlich"},
+      "scores": {"Geschmack": 4.1, "Qualität": 3.7, "Preis-Leistung": 4.3, "Praktikabilität": 4.9, "Vielseitigkeit": 3.8}
+    },
+    {
+      "offerId": "david-rio-elephant-vanilla-chai",
+      "badge": "Bequemstes Format",
+      "review": "David Rio Elephant Vanilla Chai Pulver ist das unkomplizierteste Chai-Format: in heiße Milch einlöffeln, umrühren, fertig — kein Aufbrühen, kein Kühlpflichtiges Konzentrat. Das vanillebetonte Profil ist weicher und süßer als traditioneller Masala Chai — zugänglich, aber nicht authentisch. Ideal für Reisen, Büro oder wer Chai ohne jeden Aufwand möchte.",
+      "pros": ["Null Vorbereitung — direkt in heiße Milch auflösen", "Keine Kühlung nötig — Reise- und Bürotauglich", "Weiches, vanillebetontes Gewürzprofil für Einsteiger"],
+      "cons": ["Weitestes von echtem Masala Chai entfernt — Vanille dominiert das traditionelle Gewürzgleichgewicht"],
+      "grade": "B-",
+      "specs": {"Format": "Pulver (450 g)", "Portionen": "16–20 pro Beutel", "Hauptaroma": "Vanille", "Zubereitung": "In heiße Milch/Wasser auflösen", "Preis/Portion": "€0,75–1,25"},
+      "scores": {"Geschmack": 4.0, "Qualität": 3.5, "Preis-Leistung": 3.8, "Praktikabilität": 5.0, "Vielseitigkeit": 3.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für traditionelle Masala Chai-Trinker", "offerId": "rishi-masala-chai", "reason": "Ganze Gewürze als loser Tee, echte Assam-Basis — die einzige Option hier, die eine einem südasisatischen Chai nahekommende Tasse ergibt."},
+    {"label": "Für Cold Brew Iced Chai Fans", "offerId": "harney-sons-hot-cinnamon-spice", "reason": "Intensiv zimtbetont und wunderbar über Nacht kalt in Milch aufgezogen — ergibt natürlich süßen, cremigen Iced Chai."},
+    {"label": "Für schnelle Chai Lattes unter der Woche", "offerId": "tazo-chai-concentrate", "reason": "Günstigstes, besterhältliches Konzentrat — in 60 Sekunden mit warmer Milch fertig."},
+    {"label": "Um Café Chai zu Hause zu replizieren", "offerId": "oregon-chai-original-concentrate", "reason": "Das kardamom-süße Profil kommt Café Chai Latte am nächsten — bei zu viel Süße auf 1:2 wechseln."},
+    {"label": "Für Reise und Null-Aufwand-Situationen", "offerId": "david-rio-elephant-vanilla-chai", "reason": "Pulver löst sich in jeder heißen Milch auf — keine Kühlung, kein Aufbrühen, überall einsetzbar."}
+  ]
 }

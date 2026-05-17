@@ -92,5 +92,184 @@
     "gorilla-bow-pull-up-station": "賃貸居住者と頻繁な引越しに最適な自立式プルアップステーション。壁やドアへのアンカーが不要——フラットな床ならどこにでも設置可能。レジスタンスバンドトレーニングと統合。安定性は取付けバーより低く、キッピングや積極的な動的荷重はデザインの意図外。住環境が壁とドアへの取り付けオプションを不可能にする人の適切な選択肢。"
   },
   "pinDescription": "懸垂バーおすすめ2026年版を徹底比較：ドア枠 vs 壁取付け vs 自立式でホームジムに最適な1本はどれ？Iron Gym・Fitness Reality・ROGUE・ProsourceFit・Gorilla Bowを実力で比べた。",
-  "methodology": "各製品を5つの基準で評価しました：作りの良さ・通常使用での性能・耐久性・快適性・コストパフォーマンス。12ヶ月後も使い続けられるかという観点から、性能と耐久性を最も重視しています。"
+  "methodology": "各バーを静荷重・推定動的荷重容量・ゆっくりとした離心性と速い求心性プルアップパターンでの取り付けシステム安定性・グリップポジションの多様性・ドア枠の互換性許容差・設置複雑性で評価——耐荷重値はメーカー仕様から引用し、プルアップ力プロファイルに関するスポーツバイオメカニクス研究と相互参照。",
+  "products": [
+    {
+      "offerId": "iron-gym-total-body-bar",
+      "badge": "ベストオーバーオール",
+      "review": "Iron Gymのオーバードアレバーデザインはほぼすべてのドアフレームに工具なしで機能——ユーザーが重いほどグリップが強くなる。複数グリップポジションが1本のバーでワイドオーバーハンド・ニュートラルパラレル・クローズ回外を網羅。主な制限はドアフレームトリムによる取り付け高さの制約と、キッピング動的荷重下での安定性低下。",
+      "pros": [
+        "工具・穴あけ不要——30秒で標準ドアフレームに取り付け",
+        "1ユニットでワイド・ニュートラル・クローズグリップポジション",
+        "136kg静荷重定格が大多数の自重ユーザーをカバー"
+      ],
+      "cons": [
+        "キッピング・動的荷重には非対応——厳格なデッドハング懸垂のみ"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Mount type": "Over-door leverage",
+        "Load capacity": "136 kg static",
+        "Grip positions": "Wide overhand, neutral, close supinated",
+        "Installation": "No tools required",
+        "Bar height": "~200–210 cm (door frame height)",
+        "Price": "$29.99",
+        "Weight": "~1.8 kg"
+      },
+      "scores": {
+        "Stability": 4.2,
+        "Load capacity": 4.2,
+        "Ease of install": 5.0,
+        "Value": 4.9,
+        "Grip comfort": 4.5
+      }
+    },
+    {
+      "offerId": "fitness-reality-810xlt",
+      "badge": "ベスト壁掛け",
+      "review": "Fitness Reality 810XLTは構造フレームへのスタッドアンカリング——どのオーバードアバーとも根本的に異なる安定性の土台。1ステーションにワイド・ニュートラル・クローズグリップポジション、取り付けシステムとして300ポンド定格で動的荷重下でのハンドリングもどのドア枠オプションより優れる。トレードオフは一回限りの設置コミットメント。",
+      "pros": [
+        "スタッドアンカー安定性が動的荷重下ですべてのドア枠バーを上回る",
+        "3グリップポジション：ワイドオーバーハンド・ニュートラル・クローズ回外",
+        "取り付けシステムとして136kg定格——加重懸垂に対応"
+      ],
+      "cons": [
+        "スタッドアクセス・パイロット穴・ラグボルトが必要——穴あけなし設定は対象外"
+      ],
+      "grade": "A",
+      "specs": {
+        "Mount type": "Stud-anchored wall mount",
+        "Load capacity": "136 kg (300 lb) mounted",
+        "Grip positions": "Wide, neutral, close",
+        "Installation": "Drilling required",
+        "Bar height": "Adjustable by install height",
+        "Price": "$329",
+        "Steel gauge": "Heavy gauge"
+      },
+      "scores": {
+        "Stability": 4.9,
+        "Load capacity": 4.8,
+        "Ease of install": 2.8,
+        "Value": 4.2,
+        "Grip comfort": 4.7
+      }
+    },
+    {
+      "offerId": "rogue-matador-pull-up-bar",
+      "badge": "パフォーマンスジムに最適",
+      "review": "Rogue MatadorはRogueの3インチマウントシステム——パワーラック・リグ・壁垂木——に取り付け、単体バーが提供できる荷重上限を超える。キッピング・加重プログレッション・瞬間力が体重の2倍を超えるマッスルアップトレーニングに対応。スタンドアロンバーではなく、Rogueインフラが前提条件。",
+      "pros": [
+        "キッピング・加重懸垂・マッスルアップトレーニングに対応",
+        "RogueのパワーラックエコシステムとIntegration",
+        "荷重上限がいかなる単体壁・ドアバーも超える"
+      ],
+      "cons": [
+        "既存のRogue 3インチマウントインフラが必要——スタンドアロンでない"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Mount type": "Rogue 3-inch mount system",
+        "Load capacity": "Kipping/dynamic rated",
+        "Grip positions": "Straight bar (wide and supinated)",
+        "Installation": "Rogue rack or wall rafter required",
+        "Price": "$105.00",
+        "Compatibility": "Rogue power racks and rigs",
+        "Material": "Steel"
+      },
+      "scores": {
+        "Stability": 5.0,
+        "Load capacity": 5.0,
+        "Ease of install": 2.5,
+        "Value": 3.8,
+        "Grip comfort": 4.4
+      }
+    },
+    {
+      "offerId": "prosourcefit-doorway-chinup",
+      "badge": "ベストバジェット",
+      "review": "ProsourceFitはIron Gymと同じ作業をより低価格で行う——オーバードアマウント・穴あけなし・標準ドア枠対応。120kg静荷重定格はIron Gymの136kgよりやや低く、重いユーザーには関係してくる。100kg未満の厳格な自重懸垂での軽いトレーニング頻度では同等のパフォーマンス。Iron Gymよりグリップポジションが少ない。",
+      "pros": [
+        "機能的なドア枠懸垂バーで最低価格",
+        "穴あけ・工具不要——1分以内に取り付け",
+        "120kg静荷重容量でほとんどの自重ユーザーをカバー"
+      ],
+      "cons": [
+        "Iron Gymより少ないグリップポジション——狭いトレーニングバリエーション"
+      ],
+      "grade": "B",
+      "specs": {
+        "Mount type": "Over-door leverage",
+        "Load capacity": "120 kg (265 lb) static",
+        "Grip positions": "Wide overhand, close",
+        "Installation": "No tools required",
+        "Bar height": "~200–210 cm",
+        "Price": "$19.99",
+        "Weight": "~1.4 kg"
+      },
+      "scores": {
+        "Stability": 4.0,
+        "Load capacity": 3.8,
+        "Ease of install": 5.0,
+        "Value": 5.0,
+        "Grip comfort": 4.1
+      }
+    },
+    {
+      "offerId": "gorilla-bow-pull-up-station",
+      "badge": "賃貸住宅に最適",
+      "review": "Gorilla Bowはこの比較で壁・ドア枠・天井を必要としない唯一のオプション——十分な頭上クリアランスがある平らな床ならどこでも立てる。動的荷重下での安定性はどの取り付けバーよりも低い——自立ベースが壁アンカーのように水平スイング力に抵抗できないため。",
+      "pros": [
+        "物件改造不要——アパートや賃貸スペースで機能",
+        "補助懸垂プログレッションのためのレジスタンスバンド統合",
+        "平らな床のどこにでも再配置可能"
+      ],
+      "cons": [
+        "どの取り付けバーよりも安定性が低い——キッピングや動的荷重には設計されていない"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Mount type": "Freestanding frame",
+        "Load capacity": "Not rated for dynamic loading",
+        "Grip positions": "Straight bar",
+        "Installation": "Assembly only, no drilling",
+        "Footprint": "~90×90 cm",
+        "Price": "$199.00",
+        "Band integration": "Yes"
+      },
+      "scores": {
+        "Stability": 3.4,
+        "Load capacity": 3.2,
+        "Ease of install": 4.8,
+        "Value": 3.5,
+        "Grip comfort": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "賃貸住宅や初回購入者に",
+      "offerId": "iron-gym-total-body-bar",
+      "reason": "工具なし・損傷なし・標準ドア枠ですぐに機能——永久的なジム設置なしで始める人に正しい懸垂バー。"
+    },
+    {
+      "label": "週3回以上懸垂をトレーニングするホームジムオーナーに",
+      "offerId": "fitness-reality-810xlt",
+      "reason": "スタッドアンカー安定性と3グリップポジションが定期的・高量懸垂トレーニングのための一回限りの設置投資を正当化する。"
+    },
+    {
+      "label": "予算制約のある初心者に",
+      "offerId": "prosourcefit-doorway-chinup",
+      "reason": "Iron Gymと同じオーバードアコンセプトをより低価格で——100kg未満の厳格な自重懸垂に機能的。"
+    },
+    {
+      "label": "動的動作をプログラムするRogueラックオーナーに",
+      "offerId": "rogue-matador-pull-up-bar",
+      "reason": "既存のRogueインフラと統合し、ここでキッピング懸垂とマッスルアップトレーニングに対応する唯一のオプション。"
+    },
+    {
+      "label": "穴あけもドア枠も使えないアパート居住者に",
+      "offerId": "gorilla-bow-pull-up-station",
+      "reason": "壁掛けもドア掛けも住環境で除外されている場合、自立型デザインが唯一実行可能なオプション。"
+    }
+  ]
 }

@@ -77,5 +77,64 @@
     "mummyfit-dip-belt": "Scelta in neoprene economica, catena da 90cm"
   },
   "pinDescription": "Queste 5 cinghie per dip coprono ogni livello di allenamento — dai primi 10 kg a un serio lavoro di trazioni e dip con peso. Pelle, neoprene o nylon economico — ecco cosa regge davvero. #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni cinghia è stata valutata su lunghezza della catena, calibro dell'hardware, comfort del materiale di imbottitura sotto carico, capacità di peso e durabilità a lungo termine basata sulla costruzione del materiale — non sulle affermazioni del marchio.",
+  "products": [
+    {
+      "offerId": "rogue-dip-belt",
+      "badge": "Migliore in Assoluto",
+      "review": "Prodotta negli USA con nastro in nylon da 10mm, imbottitura in pelle da 7,5 cm e moschettone certificato. Sotto carichi pesanti — 40 kg e oltre — la pelle distribuisce il carico sulle ossa del bacino invece di affossarsi, e l'hardware mantiene la forma. Durabilità reale: cuciture e catena superano le cinghie economiche di anni.",
+      "pros": ["Prodotta negli USA, doppia cucitura in tutti i punti di stress", "L'imbottitura in pelle si adatta al corpo nel tempo", "Moschettone certificato resiste ai carichi pesanti senza deformarsi"],
+      "cons": ["La pelle è rigida nelle prime sessioni prima di rodarsi"],
+      "grade": "A+",
+      "specs": {"Materiale": "Nastro nylon 10mm + imbottitura pelle", "Lunghezza catena": "61 cm acciaio", "Larghezza imbottitura": "7,5 cm", "Hardware": "Moschettone acciaio certificato", "Origine": "USA"},
+      "scores": {"Qualità costruttiva": 5.0, "Durabilità": 5.0, "Comfort": 4.5, "Capacità di carico": 5.0, "Rapporto qualità-prezzo": 4.0}
+    },
+    {
+      "offerId": "dark-iron-fitness-dip-belt",
+      "badge": "Migliore Pelle Economica",
+      "review": "Vera pelle con imbottitura da 15 cm — più larga della Rogue — rende i dip con peso particolarmente più confortevoli. La catena da 76 cm si adatta ai dischi olimpici standard, capacità 136 kg. Svantaggio: 2–3 settimane di uso regolare per rodarsi completamente.",
+      "pros": ["Imbottitura in pelle 15 cm più larga della maggior parte dei concorrenti", "Capacità di 136 kg (300 lb)", "Si adatta meglio del nylon dopo il rodaggio"],
+      "cons": ["Rigida e leggermente scomoda nelle prime sessioni"],
+      "grade": "A",
+      "specs": {"Materiale": "Vera pelle", "Lunghezza catena": "76 cm acciaio", "Larghezza imbottitura": "15 cm", "Capacità": "136 kg", "Prezzo": "~30 €"},
+      "scores": {"Qualità costruttiva": 4.2, "Durabilità": 4.5, "Comfort": 4.3, "Capacità di carico": 4.8, "Rapporto qualità-prezzo": 4.8}
+    },
+    {
+      "offerId": "harbinger-dip-belt",
+      "badge": "Migliore Economica",
+      "review": "Nastro in polipropilene resistente con catena in acciaio da 76 cm — lo standard de facto nelle palestre. Funziona senza problemi per 10–35 kg di peso aggiuntivo. L'anello in acciaio è notevolmente più solido degli anelli stampati delle cinghie economiche.",
+      "pros": ["Usata nella maggior parte delle palestre commerciali — track record provato", "Anello in acciaio molto più solido delle versioni stampate economiche", "Punto di ingresso ragionevole a ~25 €"],
+      "cons": ["Il polipropilene è meno confortevole della pelle sotto carichi pesanti"],
+      "grade": "B+",
+      "specs": {"Materiale": "Nastro polipropilene", "Lunghezza catena": "76 cm acciaio", "Prezzo": "~36 €", "Ideale per": "10–35 kg di peso aggiuntivo"},
+      "scores": {"Qualità costruttiva": 3.8, "Durabilità": 4.0, "Comfort": 3.5, "Capacità di carico": 4.0, "Rapporto qualità-prezzo": 5.0}
+    },
+    {
+      "offerId": "fire-team-fit-dip-belt",
+      "badge": "Più Confortevole",
+      "review": "Il neoprene è morbido dal primo giorno — nessun rodaggio. La fibbia a sgancio rapido accelera i cambi tra serie. La catena da 91 cm è la più lunga qui, con spazio per i bumper plate spessi. Il neoprene assorbe il sudore, necessita di risciacquo occasionale.",
+      "pros": ["Neoprene morbido dal primo utilizzo — nessun rodaggio", "Fibbia a sgancio rapido per transizioni veloci tra serie", "Catena 91 cm per bumper plate spessi"],
+      "cons": ["Il neoprene assorbe il sudore; risciacquo occasionale necessario"],
+      "grade": "B",
+      "specs": {"Materiale": "Neoprene", "Lunghezza catena": "91 cm acciaio", "Larghezza imbottitura": "10 cm", "Capacità": "136 kg", "Prezzo": "~50 €"},
+      "scores": {"Qualità costruttiva": 4.0, "Durabilità": 3.8, "Comfort": 4.8, "Capacità di carico": 4.5, "Rapporto qualità-prezzo": 4.3}
+    },
+    {
+      "offerId": "mummyfit-dip-belt",
+      "badge": "Miglior Rapporto Qualità-Prezzo",
+      "review": "Neoprene economico con catena da 91 cm — stessa lunghezza della Fire Team Fit a metà prezzo. L'hardware è più leggero, non ideale per oltre 60 kg. Per principianti o per testare i dip con peso, è un ingresso senza rischi.",
+      "pros": ["Catena 91 cm a meno di 30 €", "Neoprene morbido dal primo giorno", "Ingresso senza rischio finanziario per i dip con peso"],
+      "cons": ["Hardware più leggero — non ideale per oltre 60 kg di peso aggiuntivo"],
+      "grade": "B-",
+      "specs": {"Materiale": "Neoprene", "Lunghezza catena": "91 cm acciaio", "Prezzo": "~23 €", "Ideale per": "Principianti, meno di 45 kg aggiuntivi"},
+      "scores": {"Qualità costruttiva": 3.3, "Durabilità": 3.5, "Comfort": 4.2, "Capacità di carico": 3.5, "Rapporto qualità-prezzo": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per chi aggiunge 40+ kg di carico", "offerId": "rogue-dip-belt", "reason": "Hardware americano e pelle che non cedono sotto carichi elevati"},
+    {"label": "Per il comfort in pelle con budget ridotto", "offerId": "dark-iron-fitness-dip-belt", "reason": "Imbottitura 15 cm più larga della Rogue e a metà prezzo"},
+    {"label": "Per principianti che testano i dip con peso", "offerId": "harbinger-dip-belt", "reason": "Lo standard delle palestre commerciali a ~25 € — prova prima di investire"},
+    {"label": "Per transizioni rapide tra serie", "offerId": "fire-team-fit-dip-belt", "reason": "Fibbia a sgancio rapido e neoprene morbido fin dal primo giorno"},
+    {"label": "Per il prezzo di ingresso più basso", "offerId": "mummyfit-dip-belt", "reason": "Catena 91 cm per meno di 30 € — perdita minima se i dip con peso non fanno per te"}
+  ]
 }

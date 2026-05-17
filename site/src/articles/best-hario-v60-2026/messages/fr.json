@@ -59,5 +59,184 @@
     "hario-v60-filters-02": "Filtres papier V60, taille 02, blanc ou naturel. ~$5-10 pour 100 unités. Consommable indispensable — largement disponible en supermarchés et chez les revendeurs de café de spécialité. Plus disponible que les filtres Kalita Wave."
   },
   "pinDescription": "Hario V60 pour-over 2026 : céramique vs plastique vs verre vs métal, pourquoi le design monofluide offre un contrôle d'extraction maximal, comment choisir entre V60 et Kalita Wave, et la recette V60 standard. #caféDeSpécialité #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque variante V60 a été évaluée sur la clarté de l'infusion à mouture et technique identiques, la rétention de chaleur pendant un versage standard de 3 minutes, la durabilité pour les voyages et l'usage quotidien, la qualité de construction et la valeur pratique relative à la performance d'extraction.",
+  "products": [
+    {
+      "offerId": "hario-v60-02-ceramic",
+      "badge": "Meilleur choix global",
+      "review": "Le Hario V60 02 Céramique est la recommandation standard pour la plupart des caféiculteurs maison — saveur neutre, bonne rétention de chaleur une fois préchauffé et l'esthétique classique qui en a fait le centre de la culture du café en versage. Rincer à l'eau chaude avant de préparer pour éliminer la différence d'absorption de chaleur avec le plastique. Le compromis est le risque de casse et le prix de $25–35 par rapport à la version plastique.",
+      "pros": [
+        "Meilleure rétention de chaleur une fois préchauffé parmi les options V60 non-métalliques",
+        "Saveur céramique neutre — aucune interférence de goût",
+        "Le V60 standard communautaire avec le plus de guides de préparation écrits pour lui"
+      ],
+      "cons": [
+        "Cassable — nécessite une manipulation soigneuse ou un étui de voyage"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Matériau": "Céramique",
+        "Taille": "02 (1–4 tasses)",
+        "Prix": "~$25–35",
+        "Rétention chaleur": "Bonne (préchauffage requis)",
+        "Fragilité": "Moyenne",
+        "Filtre": "V60 02",
+        "Lave-vaisselle": "Oui"
+      },
+      "scores": {
+        "Brew clarity": 4.7,
+        "Build quality": 4.5,
+        "Ease of use": 4.5,
+        "Value": 4.4,
+        "Versatility": 4.5
+      }
+    },
+    {
+      "offerId": "hario-v60-02-plastic",
+      "badge": "Meilleur pour débutants et voyages",
+      "review": "Le V60 02 Plastique est le meilleur point de départ pour apprendre la technique V60. Fonctionnellement identique à la céramique — même géométrie, mêmes nervures spirales, même trou unique — mais le plastique n'absorbe pas la chaleur de l'eau de brassage, donc la perte de chaleur vers le dripper lui-même est minimale. Aucun risque de casse le rend idéal pour les voyages et l'utilisation en extérieur. À $8–15, le risque financier est négligeable.",
+      "pros": [
+        "Même géométrie d'extraction que la céramique à $8–15",
+        "Aucun risque de casse — idéal pour les voyages et l'extérieur",
+        "Moins de perte de chaleur vers le dripper que la céramique (le plastique n'absorbe pas la chaleur)"
+      ],
+      "cons": [
+        "Esthétique moins premium que la céramique ou le métal"
+      ],
+      "grade": "A",
+      "specs": {
+        "Matériau": "Plastique (sans BPA)",
+        "Taille": "02 (1–4 tasses)",
+        "Prix": "~$8–15",
+        "Rétention chaleur": "Perte de chaleur minimale",
+        "Fragilité": "Aucune",
+        "Filtre": "V60 02",
+        "Lave-vaisselle": "Oui"
+      },
+      "scores": {
+        "Brew clarity": 4.6,
+        "Build quality": 3.8,
+        "Ease of use": 4.8,
+        "Value": 4.9,
+        "Versatility": 4.7
+      }
+    },
+    {
+      "offerId": "hario-v60-02-glass",
+      "badge": "Meilleur pour l'apprentissage visuel",
+      "review": "Le V60 02 Verre en borosilicate est entièrement transparent, vous permettant de regarder la floraison s'étendre et d'observer la distribution de l'eau à travers le lit de café en temps réel. Ce retour visuel est particulièrement utile pour diagnostiquer les problèmes d'extraction et apprendre la technique de versage. Le verre retient moins la chaleur que la céramique, donc le préchauffage est essentiel. La plus fragile des quatre matières.",
+      "pros": [
+        "Transparent — regardez la floraison et la distribution de l'eau en temps réel",
+        "Utile pour diagnostiquer visuellement les problèmes d'extraction",
+        "Construction en borosilicate résistant à la chaleur"
+      ],
+      "cons": [
+        "La plus fragile — risque de casse le plus élevé",
+        "La plus mauvaise rétention de chaleur de cette comparaison"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Matériau": "Verre borosilicate",
+        "Taille": "02 (1–4 tasses)",
+        "Prix": "~$25–40",
+        "Rétention chaleur": "Faible (préchauffage essentiel)",
+        "Fragilité": "Élevée",
+        "Filtre": "V60 02",
+        "Transparence": "Totale"
+      },
+      "scores": {
+        "Brew clarity": 4.7,
+        "Build quality": 3.5,
+        "Ease of use": 4.0,
+        "Value": 4.0,
+        "Versatility": 3.8
+      }
+    },
+    {
+      "offerId": "hario-v60-02-metal",
+      "badge": "Meilleur pour la durabilité et les cadeaux",
+      "review": "Le V60 02 Métal (inox ou cuivre) est l'option la plus durable — il ne se cassera jamais, chauffe rapidement et uniformément, et la version cuivre est une pièce d'exposition autant qu'un outil à café. À $60–90, c'est le dripper V60 le plus cher, justifié en tant que cadeau ou élément esthétique premium de cuisine. Pour le brassage quotidien pratique, la céramique offre des résultats comparables au tiers du prix.",
+      "pros": [
+        "Indestructible — idéal pour un usage quotidien intensif ou les environnements accidentogènes",
+        "La version cuivre est un cadeau de qualité exposition premium",
+        "Chauffe rapidement et uniformément — pas de points froids"
+      ],
+      "cons": [
+        "$60–90 est cher pour un dripper quand la céramique performe comparablement"
+      ],
+      "grade": "B",
+      "specs": {
+        "Matériau": "Acier inox ou cuivre",
+        "Taille": "02",
+        "Prix": "~$60–90",
+        "Rétention chaleur": "Excellente",
+        "Fragilité": "Aucune",
+        "Filtre": "V60 02",
+        "Esthétique": "Premium"
+      },
+      "scores": {
+        "Brew clarity": 4.7,
+        "Build quality": 4.9,
+        "Ease of use": 4.3,
+        "Value": 3.5,
+        "Versatility": 4.2
+      }
+    },
+    {
+      "offerId": "hario-v60-filters-02",
+      "badge": "Consommable essentiel",
+      "review": "Les filtres papier Hario V60 02 sont le consommable récurrent requis pour tout système V60. Les versions blanches et naturelles (non blanchies) fonctionnent toutes les deux bien ; la différence est minimale pour la plupart des préparateurs. Principal avantage pratique par rapport aux filtres Kalita Wave : les filtres V60 02 sont vendus chez Starbucks, dans la plupart des chaînes de supermarchés et dans tout coffee shop spécialisé — vous ne serez jamais à court en milieu de semaine.",
+      "pros": [
+        "Disponibles en supermarché, chez Starbucks et dans les coffee shops spécialisés",
+        "100 filtres durent environ 3 mois pour les préparateurs quotidiens",
+        "Versions blanches et naturelles largement disponibles"
+      ],
+      "cons": [
+        "Doit être racheté régulièrement — à intégrer dans le coût continu du V60"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Taille": "02",
+        "Nombre": "100 par paquet",
+        "Prix": "~$5–10 par 100",
+        "Types": "Blanc (blanchi) ou naturel (non blanchi)",
+        "Disponibilité": "Supermarchés partout en France",
+        "Compatible": "V60 01, 02, 03"
+      },
+      "scores": {
+        "Brew clarity": 4.6,
+        "Build quality": 4.0,
+        "Ease of use": 4.9,
+        "Value": 4.8,
+        "Versatility": 4.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour la plupart des caféiculteurs maison",
+      "offerId": "hario-v60-02-ceramic",
+      "reason": "Le V60 standard communautaire avec bonne rétention de chaleur et le plus de guides de préparation écrits pour lui"
+    },
+    {
+      "label": "Pour les débutants et les voyageurs",
+      "offerId": "hario-v60-02-plastic",
+      "reason": "Même géométrie d'extraction à $8–15 sans risque de casse"
+    },
+    {
+      "label": "Pour diagnostiquer la technique de préparation",
+      "offerId": "hario-v60-02-glass",
+      "reason": "La transparence totale permet de regarder la floraison et la distribution de l'eau en temps réel"
+    },
+    {
+      "label": "Pour les cadeaux ou l'esthétique premium",
+      "offerId": "hario-v60-02-metal",
+      "reason": "Indestructible et la version cuivre est un cadeau de qualité exposition"
+    },
+    {
+      "label": "Pour faire le plein de consommables",
+      "offerId": "hario-v60-filters-02",
+      "reason": "Nécessaire pour chaque préparation V60 et disponible en supermarché quand vous en manquez"
+    }
+  ]
 }

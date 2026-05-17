@@ -92,5 +92,63 @@
     "prosource-firm-foam-block": "Bester fester Hochdichte-Schaumstoff-Yoga-Block — der haerteste EVA-Schaumblock in diesem Vergleich, mit quadratisch geschnittenen Kanten, die Oberflaechenstabilitaet und Belastungswiderstand maximieren, der sich Korkniveaus naehert. Leichter als Kork bei gleicher Starrheit. Die richtige Wahl fuer Praktizierende, die Kork-aehnliche Stabilitaet ohne das Gewicht wollen oder festen nicht-komprimierbaren Halt bevorzugen, aber Korks Oberflaechentextur auf der Haut unangenehm finden."
   },
   "pinDescription": "Beste Yoga-Bloecke 2026 verglichen: Kork vs. Schaumdichte, Standard 9×6×4-Abmessungen, Kante vs. Flachflaeche fuer Gleichgewichtsposen — Manduka, Hugger Mugger Kork, Gaiam Essentials, JadeYoga oder ProSource fester Schaum fuer Ihren Praxi-Stil? #YogaBlock #Yoga #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jedes Produkt wurde nach fuenf Kriterien bewertet: Verarbeitungsqualitaet, Leistung bei typischer Nutzung, Langzeitbestaendigkeit, Komfort und Preis-Leistung. Leistung und Bestaendigkeit wurden am hoechsten gewichtet, da diese bestimmen, ob ein Produkt 12 Monate spaeter noch nuetzlich ist.",
+  "products": [
+    {
+      "offerId": "manduka-recycled-foam-block",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Der Manduka Recycled Foam Block bietet die beste Balance aus Dichte, Griffigkeit und Bestaendigkeit. Das Oeko-Material verzichtet nicht auf Leistung und haelt auch in schweissintensiven Klassen stand. Der Preis ist etwas hoeher, aber als Langzeitinvestition gut gerechtfertigt.",
+      "pros": ["Recyceltes Material, umweltfreundlich", "Hervorragende Balance aus Dichte und Griffigkeit", "Geeignet fuer schweissintensive Kurse"],
+      "cons": ["Etwas teurer als Korkbloecke"],
+      "grade": "A+",
+      "specs": {"Material": "Recycelter EVA-Schaumstoff", "Groesse": "9×6×4 Zoll", "Gewicht": "ca. 340g", "Farben": "mehrere"},
+      "scores": {"Dichte": 4.8, "Grifftextur": 4.7, "Bestaendigkeit": 4.8, "Preis-Leistung": 4.3, "Groessenoptionen": 4.2}
+    },
+    {
+      "offerId": "hugger-mugger-cork-block",
+      "badge": "Bester Korkblock",
+      "review": "Der Hugger Mugger Korkblock ist haerter als EVA-Schaumstoff und von Natur aus schweisstolerant. Er verformt sich bei laengerer Nutzung kaum und bietet bei Gleichgewichtsposen mehr Stabilitaet als Schaum. Das Mehrgewicht ist der Qualitaet angemessen.",
+      "pros": ["Naturkork, schweisstolerant", "Hoehere Haerte und Stabilitaet als Schaum", "Verformt sich auch bei Langzeitnutzung kaum"],
+      "cons": ["Schwerer als Schaumstoffbloecke"],
+      "grade": "A",
+      "specs": {"Material": "Naturkork", "Groesse": "9×6×4 Zoll", "Gewicht": "ca. 510g", "Oberflaeche": "Natur"},
+      "scores": {"Dichte": 5.0, "Grifftextur": 4.8, "Bestaendigkeit": 4.9, "Preis-Leistung": 4.1, "Groessenoptionen": 3.8}
+    },
+    {
+      "offerId": "gaiam-essentials-yoga-block",
+      "badge": "Bestes Preis-Leistung fuer Einsteiger",
+      "review": "Gaiam Essentials ist eine der guenstigsten Optionen fuer Yoga-Bloecke und bietet fuer normales 2-3x-woechentliches Training ausreichend Leistung. Der Schaumstoff ist leicht und gut fuer das Stuetzen von Posen, eignet sich aber weniger fuer intensiven Langzeitgebrauch.",
+      "pros": ["Sehr guenstiger Preis", "Leicht und tragbar", "Ausreichend fuer normales Yoga-Training"],
+      "cons": ["Langzeitbestaendigkeit bei Intensivnutzung geringer als bei Premiumprodukten"],
+      "grade": "B+",
+      "specs": {"Material": "EVA-Schaumstoff", "Groesse": "9×6×4 Zoll", "Gewicht": "ca. 200g", "Farben": "viele"},
+      "scores": {"Dichte": 3.9, "Grifftextur": 4.0, "Bestaendigkeit": 3.8, "Preis-Leistung": 5.0, "Groessenoptionen": 4.5}
+    },
+    {
+      "offerId": "jade-yoga-foam-block",
+      "badge": "Beste Wahl fuer Umweltbewusste",
+      "review": "JadeYoga ist fuer seine Oeko-Yogamatten bekannt, und dieser Schaumstoffblock setzt auf umweltbewusste Fertigung. Die Dichte kommt nah an Manduka heran, die Griffigkeit ist gut. Preislich liegt er ueber Gaiam, aber passend fuer Kaeufer, die das Markenengagement fuer Transparenz und Umwelt unterstuetzen wollen.",
+      "pros": ["Umweltbewusste Marke", "Dichte und Qualitaet nah an Manduka", "Gute Griffigkeit"],
+      "cons": ["Preis-Leistung etwas schwaecher als Manduka"],
+      "grade": "B",
+      "specs": {"Material": "EVA-Schaumstoff", "Groesse": "9×6×4 Zoll", "Gewicht": "ca. 230g", "Fertigung": "Oeko"},
+      "scores": {"Dichte": 4.4, "Grifftextur": 4.5, "Bestaendigkeit": 4.4, "Preis-Leistung": 3.9, "Groessenoptionen": 3.7}
+    },
+    {
+      "offerId": "prosource-firm-foam-block",
+      "badge": "Bester fester Schaumstoff",
+      "review": "Der ProSource High-Density Block bietet Kork-nahe Haerte, ist aber leichter. Gut fuer Gleichgewichtsposen und stabilitaetsorientiertes Training, aber in Restorative-Posen wegen der Haerte weniger komfortabel.",
+      "pros": ["Kork-nahe Haerte bei geringerem Gewicht", "Leichter als Kork", "Geeignet fuer Praktizierende, die Korkoberflaeche unangenehm finden"],
+      "cons": ["Weniger Kissen-Komfort fuer Restorative-Posen"],
+      "grade": "B-",
+      "specs": {"Material": "Hochdichter EVA-Schaum", "Groesse": "9×6×4 Zoll", "Gewicht": "ca. 280g", "Haerte": "hoch"},
+      "scores": {"Dichte": 4.7, "Grifftextur": 4.3, "Bestaendigkeit": 4.5, "Preis-Leistung": 4.2, "Groessenoptionen": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Fuer Praktizierende, die den besten Gesamtblock suchen", "offerId": "manduka-recycled-foam-block", "reason": "Beste Balance aus Dichte, Griffigkeit und Oeko-Material fuer alle Yoga-Stile."},
+    {"label": "Fuer maximale Stabilitaet bei Gleichgewichtsposen", "offerId": "hugger-mugger-cork-block", "reason": "Naturkorkharte und Schweisstransparenz maximieren die Stabilitaet bei Balanceposen."},
+    {"label": "Fuer Einsteiger, die Yoga-Bloecke zum ersten Mal ausprobieren", "offerId": "gaiam-essentials-yoga-block", "reason": "Guenstiger Preis mit ausreichender Leistung fuer normales Training minimiert die Anfangsinvestition."},
+    {"label": "Fuer Praktizierende, die Kork-nahe Stabilitaet ohne das Gewicht benoetigen", "offerId": "prosource-firm-foam-block", "reason": "Bietet aehnliche Stabilitaet wie Kork bei geringerem Gewicht -- ideal fuer mobile Praktizierende."}
+  ]
 }

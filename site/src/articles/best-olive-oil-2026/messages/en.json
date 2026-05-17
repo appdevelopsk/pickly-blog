@@ -94,5 +94,144 @@
     "pompeian-smooth-evoo": "Best budget grocery-store option — widely available, lowest price point at ~$0.25/oz in large format, mild flavor designed for consumers who dislike bitterness. Best when budget is the binding constraint and cooking volume is high. Limitation: no harvest date, lower polyphenol content by design, limited finishing-oil utility — not the choice if freshness or health value is a priority."
   },
   "pinDescription": "5 olive oils compared for 2026: California Olive Ranch vs Kirkland vs Brightland vs Cobram vs Pompeian. Harvest date transparency, smoke point, polyphenol content — find the EVOO that actually fits how you cook.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each oil was assessed on harvest-date transparency, cost per ounce, flavor profile and polyphenol character, suitability for cooking vs finishing use, and how well the freshness claims hold up given typical retail supply chain timelines.",
+  "products": [
+    {
+      "offerId": "california-olive-ranch-evoo",
+      "badge": "Best Everyday",
+      "review": "California Olive Ranch is the most practical default everyday EVOO for US households — harvest-date printed on the front label, domestic California production with efficient retail distribution, and a mid-range polyphenol profile that handles both cooking and light finishing at ~$0.45/oz. The blend sometimes incorporates international sources; check the label for domestic-only SKUs if origin matters.",
+      "pros": ["Harvest-date labeled — freshness verifiable at purchase", "~$0.45/oz — accessible price for a quality domestic EVOO", "Covers both cooking and light finishing use cases"],
+      "cons": ["Some SKUs blended with international sources — check label for domestic-only"],
+      "grade": "A+",
+      "specs": {
+        "Origin": "California (+ international blend in some SKUs)",
+        "Price per oz": "~$0.45",
+        "Harvest date": "Yes — printed on label",
+        "Polyphenol level": "Mid-range",
+        "Best use": "Everyday cooking + light finishing",
+        "Organic": "No (conventional)"
+      },
+      "scores": {
+        "Flavor": 4.5,
+        "Quality": 4.6,
+        "Value": 4.7,
+        "Freshness": 4.8,
+        "Versatility": 5.0
+      }
+    },
+    {
+      "offerId": "kirkland-organic-evoo",
+      "badge": "Best Bulk Value",
+      "review": "Kirkland's 2-liter organic EVOO from Costco is the lowest cost per ounce in this comparison at ~$0.31/oz — meaningful savings for households cooking with olive oil daily. USDA Organic certified and Mediterranean-sourced. The honest limitation is no harvest date, making freshness harder to verify; rapid consumption mitigates this for high-volume kitchens.",
+      "pros": ["~$0.31/oz — lowest cost per ounce in this comparison", "USDA Organic certified", "2-liter format efficient for daily cooking households"],
+      "cons": ["No harvest date — freshness depends on warehouse stock turnover"],
+      "grade": "A",
+      "specs": {
+        "Origin": "Mediterranean (Costco-sourced)",
+        "Price per oz": "~$0.31 (2-liter Costco size)",
+        "Harvest date": "No",
+        "Polyphenol level": "Moderate",
+        "Certification": "USDA Organic",
+        "Best use": "Daily high-volume cooking"
+      },
+      "scores": {
+        "Flavor": 4.1,
+        "Quality": 4.2,
+        "Value": 5.0,
+        "Freshness": 3.8,
+        "Versatility": 4.3
+      }
+    },
+    {
+      "offerId": "brightland-alive-evoo",
+      "badge": "Best Premium Finishing Oil",
+      "review": "Brightland is the most freshness-transparent oil in this comparison — both harvest date and pressing date are printed, and the direct-to-consumer supply chain eliminates the retail aging lag. The assertive, grassy high-polyphenol California Arbequina/Arbosana flavor is best experienced unheated. Using it to sauté onions at $3.25/oz is economically wrong; for finishing salads, pasta, and grilled vegetables, the flavor justifies the price.",
+      "pros": ["Harvest date and pressing date both labeled — maximum freshness transparency", "High-polyphenol California blend with assertive grassy flavor", "Direct-to-consumer supply chain minimizes aging lag"],
+      "cons": ["$3.25/oz — economically suited for finishing use only, not cooking"],
+      "grade": "B+",
+      "specs": {
+        "Origin": "California (Arbequina + Arbosana)",
+        "Price per oz": "~$3.25 (375ml bottle)",
+        "Harvest date": "Yes — harvest and pressing dates labeled",
+        "Polyphenol level": "High",
+        "Supply chain": "Direct-to-consumer",
+        "Best use": "Unheated finishing"
+      },
+      "scores": {
+        "Flavor": 5.0,
+        "Quality": 5.0,
+        "Value": 2.8,
+        "Freshness": 5.0,
+        "Versatility": 3.5
+      }
+    },
+    {
+      "offerId": "cobram-estate-robust-evoo",
+      "badge": "Best for High-Heat Cooking",
+      "review": "Cobram Estate Robust uses Coratina and Koroneiki varieties specifically for higher polyphenol content and oxidative stability at cooking temperatures. Harvest-date labeled on US bottles. The peppery, assertive flavor profile is not universally liked, but it holds up better under heat than mild EVOOs — the right choice when sautéing or roasting is the primary application.",
+      "pros": ["High-polyphenol Coratina/Koroneiki blend for oxidative stability at heat", "Harvest-date labeled on US-market bottles", "Peppery flavor holds character better than mild oils at cooking temperatures"],
+      "cons": ["Assertive peppery flavor not suited for mild-flavor applications"],
+      "grade": "B",
+      "specs": {
+        "Origin": "Australia / California",
+        "Price per oz": "~$0.50",
+        "Harvest date": "Yes",
+        "Polyphenol level": "High",
+        "Varieties": "Coratina + Koroneiki",
+        "Best use": "High-heat cooking"
+      },
+      "scores": {
+        "Flavor": 4.6,
+        "Quality": 4.8,
+        "Value": 4.3,
+        "Freshness": 4.6,
+        "Versatility": 4.0
+      }
+    },
+    {
+      "offerId": "pompeian-smooth-evoo",
+      "badge": "Best Budget Grocery",
+      "review": "Pompeian Smooth is filtered to remove the bitterness that polyphenols create — a deliberate consumer choice that also reduces polyphenol content and finishing-oil utility. At ~$0.25/oz it is the cheapest option here, widely available at grocery stores, and adequate for high-volume cooking where oil flavor is not the point. Not the choice if freshness, polyphenol health value, or finishing character matter.",
+      "pros": ["~$0.25/oz — lowest price in this comparison", "Widely available at mainstream grocery stores", "Mild filtered flavor for consumers who dislike bitterness"],
+      "cons": ["No harvest date; lowest polyphenol content by design; limited finishing utility"],
+      "grade": "B-",
+      "specs": {
+        "Origin": "Mediterranean blend",
+        "Price per oz": "~$0.25 (large format)",
+        "Harvest date": "No",
+        "Polyphenol level": "Low (filtered for mildness)",
+        "Flavor profile": "Mild, neutral",
+        "Best use": "High-volume budget cooking"
+      },
+      "scores": {
+        "Flavor": 3.5,
+        "Quality": 3.6,
+        "Value": 5.0,
+        "Freshness": 3.2,
+        "Versatility": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For everyday household cooking",
+      "offerId": "california-olive-ranch-evoo",
+      "reason": "Harvest-date transparency, domestic production, and a price that doesn't require rationing — the one bottle that covers most kitchen uses without compromise."
+    },
+    {
+      "label": "For daily high-volume cooks",
+      "offerId": "kirkland-organic-evoo",
+      "reason": "The 2-liter Costco format at ~$0.31/oz makes daily olive-oil cooking genuinely economical; rapid consumption manages the freshness trade-off."
+    },
+    {
+      "label": "For finishing-oil enthusiasts",
+      "offerId": "brightland-alive-evoo",
+      "reason": "Harvest and pressing date printed, direct-from-producer freshness, and a high-polyphenol flavor that's best experienced drizzled unheated over salad or pasta."
+    },
+    {
+      "label": "For high-heat sautéing and roasting",
+      "offerId": "cobram-estate-robust-evoo",
+      "reason": "The Robust designation signals higher-polyphenol Coratina/Koroneiki varieties specifically selected for oxidative stability at cooking temperatures."
+    }
+  ]
 }

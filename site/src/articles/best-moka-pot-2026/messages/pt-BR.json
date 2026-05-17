@@ -58,5 +58,173 @@
     "pezzetti-italexpress-moka": "Moka pot econômica de aço inoxidável fabricada na Itália. $20-30. Melhor moka pot de nível inicial — mecanismo de preparo funcionalmente equivalente a custo menor. Indicada para quem usa moka pot pela primeira vez."
   },
   "pinDescription": "Comparação de moka pots 2026: Bialetti Moka Express vs Brikka vs Cuisinox vs Ilsa vs Pezzetti — pressão do espresso de fogão, produção de crema, alumínio vs inox e o que o café de moka pot realmente é frente ao espresso real.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada moka pot foi avaliada com base na pressão de infusão e no caráter da extração, qualidade do material, compatibilidade com indução, gama de tamanhos disponíveis e fidelidade ao perfil de sabor do espresso de fogão.",
+  "products": [
+    {
+      "offerId": "bialetti-moka-express",
+      "badge": "Melhor no geral",
+      "review": "A Moka Express octogonal de alumínio original define o espresso de fogão desde 1933. A liga de alumínio conduz o calor uniformemente, e uma cafeteira bem temperada produz uma doçura que as alternativas de inox raramente igualam. Disponível em 1–12 xícaras; lavagem à mão apenas, sem indução sem adaptador.",
+      "pros": [
+        "Perfil de sabor que define o espresso de fogão",
+        "Maior gama de tamanhos: 1 a 12 xícaras",
+        "Econômica a 25–45€ e amplamente disponível"
+      ],
+      "cons": [
+        "Lavagem à mão apenas; não é compatível com indução sem adaptador"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Material": "Alumínio grau alimentício",
+        "Tamanhos disponíveis": "1, 2, 3, 6, 9, 12 xícaras",
+        "Indução": "Não (adaptador necessário)",
+        "Lava-louças": "Não",
+        "Pressão": "~1–2 bar",
+        "Faixa de preço": "R$150–250"
+      },
+      "scores": {
+        "Intensidade de extração": 4.7,
+        "Qualidade de construção": 4.3,
+        "Facilidade de uso": 4.8,
+        "Custo-benefício": 5.0,
+        "Opções de capacidade": 5.0
+      }
+    },
+    {
+      "offerId": "bialetti-brikka",
+      "badge": "Melhor para bebidas com leite",
+      "review": "A Brikka adiciona uma válvula de pressão que gera maior contrapressão antes de abrir, produzindo uma espuma semelhante à crema. Não é crema de espresso por composição, mas a melhoria na textura torna os lattes e cappuccinos de moka notavelmente melhores. Apenas em 2 e 4 xícaras; a válvula exige manejo mais preciso do calor.",
+      "pros": [
+        "A válvula de pressão cria espuma similar à crema para bebidas com leite",
+        "Aço inoxidável — compatível com indução",
+        "Xícara mais densa e encorpada que a moka padrão"
+      ],
+      "cons": [
+        "Apenas 2 e 4 xícaras — sem opção de grande capacidade"
+      ],
+      "grade": "A",
+      "specs": {
+        "Material": "Aço inoxidável",
+        "Tamanhos disponíveis": "2, 4 xícaras",
+        "Indução": "Sim",
+        "Lava-louças": "Não",
+        "Pressão": "~2–3 bar (válvula pressurizada)",
+        "Faixa de preço": "R$250–400"
+      },
+      "scores": {
+        "Intensidade de extração": 5.0,
+        "Qualidade de construção": 4.6,
+        "Facilidade de uso": 4.2,
+        "Custo-benefício": 4.1,
+        "Opções de capacidade": 3.0
+      }
+    },
+    {
+      "offerId": "cuisinox-roma-moka-pot",
+      "badge": "Melhor inox",
+      "review": "A Cuisinox Roma é a alternativa de inox mais prática à Moka Express de alumínio — compatível com indução, lava-louças e sem interação de sabor entre os ácidos do café e o alumínio. Demora um pouco mais para esquentar que o alumínio, mas a consistência de extração é confiável.",
+      "pros": [
+        "Inox — compatível com indução e lava-louças",
+        "Sem interação entre metal e ácidos do café",
+        "Extração consistente com manutenção mínima"
+      ],
+      "cons": [
+        "Aquece mais lentamente que o alumínio; ligeiramente mais caro que a Moka Express"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Material": "Aço inoxidável",
+        "Tamanhos disponíveis": "1, 2, 3, 6 xícaras",
+        "Indução": "Sim",
+        "Lava-louças": "Sim",
+        "Pressão": "~1–2 bar",
+        "Faixa de preço": "R$250–400"
+      },
+      "scores": {
+        "Intensidade de extração": 4.3,
+        "Qualidade de construção": 4.8,
+        "Facilidade de uso": 4.7,
+        "Custo-benefício": 4.0,
+        "Opções de capacidade": 4.0
+      }
+    },
+    {
+      "offerId": "ilsa-stovetop-espresso-maker",
+      "badge": "Melhor alternativa italiana",
+      "review": "Inox de fabricação italiana com geometria de válvula ligeiramente diferente da Bialetti — alguns usuários descrevem o café como marginalmente mais suave. Disponível em 1–12 xícaras, ao preço entre Pezzetti e Cuisinox.",
+      "pros": [
+        "Inox italiano em 1–12 xícaras",
+        "Geometria de válvula ligeiramente diferente — café marginalmente mais suave"
+      ],
+      "cons": [
+        "Sem vantagem notável sobre a Cuisinox Roma a preço similar"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "Aço inoxidável",
+        "Tamanhos disponíveis": "1, 2, 3, 6, 9, 12 xícaras",
+        "Indução": "Verificar modelo",
+        "Lava-louças": "Não recomendado",
+        "Pressão": "~1–2 bar",
+        "Faixa de preço": "R$200–350"
+      },
+      "scores": {
+        "Intensidade de extração": 4.2,
+        "Qualidade de construção": 4.5,
+        "Facilidade de uso": 4.6,
+        "Custo-benefício": 4.2,
+        "Opções de capacidade": 4.8
+      }
+    },
+    {
+      "offerId": "pezzetti-italexpress-moka",
+      "badge": "Melhor entrada de orçamento",
+      "review": "A Pezzetti Italexpress é uma moka pot italiana de inox por R$100–200 — a mais barata desta comparação com um mecanismo de extração real. Construção mais simples que a Brikka ou Cuisinox, mas funcionalmente equivalente.",
+      "pros": [
+        "A mais barata nesta comparação — R$100–200",
+        "Inox italiano com mecanismo de extração equivalente",
+        "Boa primeira compra antes de atualizar"
+      ],
+      "cons": [
+        "Construção mais simples e menos opções de tamanho que as alternativas premium"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Material": "Aço inoxidável",
+        "Tamanhos disponíveis": "2, 4, 6 xícaras",
+        "Indução": "Verificar modelo",
+        "Lava-louças": "Não recomendado",
+        "Pressão": "~1–2 bar",
+        "Faixa de preço": "R$100–200"
+      },
+      "scores": {
+        "Intensidade de extração": 4.0,
+        "Qualidade de construção": 3.6,
+        "Facilidade de uso": 4.5,
+        "Custo-benefício": 5.0,
+        "Opções de capacidade": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para amantes de café preto com sabor clássico de moka",
+      "offerId": "bialetti-moka-express",
+      "reason": "O alumínio temperado e a geometria de válvula original produzem o sabor do espresso de fogão que nenhuma outra cafeteira replica exatamente."
+    },
+    {
+      "label": "Para entusiastas de bebidas com leite",
+      "offerId": "bialetti-brikka",
+      "reason": "A válvula de pressão cria espuma similar à crema que adiciona textura real aos lattes e cappuccinos de moka."
+    },
+    {
+      "label": "Para usuários de fogão de indução",
+      "offerId": "cuisinox-roma-moka-pot",
+      "reason": "Compatível com indução e lava-louças — a opção mais prática para cozinhas modernas sem gás."
+    },
+    {
+      "label": "Para compradores da primeira moka pot",
+      "offerId": "pezzetti-italexpress-moka",
+      "reason": "Experimente o método de extração por R$100–200 antes de se decidir por uma Bialetti ou modelo mais caro."
+    }
+  ]
 }

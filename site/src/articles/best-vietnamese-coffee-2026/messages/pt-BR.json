@@ -58,5 +58,184 @@
     "phin-coffee-filter-stainless": "Conjunto de filtro phin em aço inoxidável (vários tamanhos). $5-12. Phin básico para uso doméstico — procure encaixe firme da placa de pressão. Prepara idêntico às versões caras. Tamanho de 120 ml para uma xícara, de 240 ml para uma xícara grande ou duas xícaras ao mesmo tempo."
   },
   "pinDescription": "Café vietnamita 2026: como funciona o filtro phin, receita de ca phe sua da com leite condensado, Trung Nguyen Legend vs chicória Cafe Du Monde, escolher o tamanho certo de phin e por que as misturas com predominância de robusta fazem o autêntico café vietnamita gelado. #cafévietnami #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada produto foi avaliado em consistência de moagem para preparo no phin, autenticidade do sabor em relação à tradição ca phe sua da, transparência de fornecimento, valor por porção e integridade da embalagem após abertura.",
+  "products": [
+    {
+      "offerId": "nguyen-coffee-phin-filter",
+      "badge": "Melhor kit iniciante",
+      "review": "Stainless phin filter, ceramic cup, and Vietnamese single-origin coffee sample in one kit. Nguyen's arabica-forward beans offer a cleaner profile than traditional robusta-dominant blends. Coffee sample is small — follow-up order needed quickly.",
+      "pros": [
+        "Complete kit — phin, cup, and coffee in one order",
+        "Direct-sourced Vietnamese single-origin coffee",
+        "Ceramic cup for brew-direct convenience"
+      ],
+      "cons": [
+        "Coffee sample small — needs follow-up order quickly"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Kit": "Phin + ceramic cup + coffee sample",
+        "Phin material": "Stainless steel",
+        "Coffee": "Arabica-forward, single-origin",
+        "Sourcing": "Direct from Vietnamese farmers",
+        "Best for": "First-time phin brewers",
+        "Price": "$15.30",
+        "Gift": "Yes"
+      },
+      "scores": {
+        "Flavor strength": 4.0,
+        "Build quality": 4.5,
+        "Ease of use": 5.0,
+        "Value": 4.5,
+        "Authenticity": 4.5
+      }
+    },
+    {
+      "offerId": "trung-nguyen-legend-ground",
+      "badge": "Melhor café vietnamita tradicional",
+      "review": "Vietnam's most recognized brand — robusta-arabica blend pre-ground to correct phin grind. High caffeine, chocolatey body, robusta intensity that balances condensed milk. Most representative traditional cup for ca phe sua da.",
+      "pros": [
+        "Pre-ground to correct phin grind",
+        "Robusta-dominant body balances condensed milk",
+        "Most representative traditional flavour"
+      ],
+      "cons": [
+        "Pre-ground oxidizes faster — buy 500g rather than bulk"
+      ],
+      "grade": "A",
+      "specs": {
+        "Blend": "Robusta-arabica",
+        "Grind": "Pre-ground for phin (medium-fine)",
+        "Weight": "500g",
+        "Caffeine": "High (robusta-dominant)",
+        "Flavour": "Chocolatey, earthy, low-acid",
+        "Origin": "Vietnam (Buon Ma Thuot)",
+        "Price": "$12.85"
+      },
+      "scores": {
+        "Flavor strength": 5.0,
+        "Build quality": 4.0,
+        "Ease of use": 5.0,
+        "Value": 5.0,
+        "Authenticity": 5.0
+      }
+    },
+    {
+      "offerId": "cafe-du-monde-coffee-chicory",
+      "badge": "Melhor mistura de chicória",
+      "review": "Classic New Orleans coffee-and-chicory in a 15 oz can — chicory's woody bitterness pairs well with condensed milk. Slightly coarser than ideal phin grind; brew time extends 7-10 min. Distinct from Vietnamese coffee from Vietnam — authentic Vietnamese-American preparation.",
+      "pros": [
+        "Chicory adds woody bitterness pairing well with condensed milk",
+        "Large 15 oz can — good value per serving",
+        "Widely available in US grocery stores"
+      ],
+      "cons": [
+        "Slightly coarser than ideal phin grind — extends brew time to 7-10 min"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Blend": "Coffee + chicory",
+        "Format": "15 oz (425g) can",
+        "Grind": "Drip-grade (slightly coarser than phin)",
+        "Flavour": "Woody, bitter, earthy",
+        "Tradition": "Vietnamese-American",
+        "Retail": "US grocery stores",
+        "Price": "$9.95"
+      },
+      "scores": {
+        "Flavor strength": 4.5,
+        "Build quality": 3.5,
+        "Ease of use": 4.5,
+        "Value": 5.0,
+        "Authenticity": 4.0
+      }
+    },
+    {
+      "offerId": "longevity-brand-condensed-milk",
+      "badge": "Ingrediente essencial",
+      "review": "Traditional Vietnamese sweetened condensed milk (Ong Tho brand) — the essential ingredient for ca phe sua da. Add 2-3 tablespoons before brewing, let coffee drip onto it, stir and pour over ice. Non-negotiable for an authentic cup.",
+      "pros": [
+        "Traditional Ong Tho brand used in Vietnam",
+        "Correct sweetness-to-fat ratio for ca phe sua da",
+        "Works as both sweetener and creamer"
+      ],
+      "cons": [
+        "Oxidizes within a week of opening — transfer to airtight container"
+      ],
+      "grade": "B",
+      "specs": {
+        "Type": "Sweetened condensed milk",
+        "Brand": "Longevity (Ong Tho)",
+        "Serving": "2-3 tbsp per 4 oz coffee",
+        "Function": "Sweetener + creamer",
+        "Can size": "14 oz (397g)",
+        "Storage": "Airtight, refrigerate after open",
+        "Price": "$5.99"
+      },
+      "scores": {
+        "Flavor strength": 5.0,
+        "Build quality": 3.5,
+        "Ease of use": 5.0,
+        "Value": 5.0,
+        "Authenticity": 5.0
+      }
+    },
+    {
+      "offerId": "phin-coffee-filter-stainless",
+      "badge": "Melhor phin avulso",
+      "review": "Standard stainless phin filter brews identically to expensive versions when press plate fits snugly. 4 oz for one cup, 8 oz for two. Press plate fit precision is the main quality differentiator at this price.",
+      "pros": [
+        "Brews identically to expensive phins with snug press plate",
+        "4 oz and 8 oz sizes available",
+        "Dishwasher-safe stainless steel"
+      ],
+      "cons": [
+        "Press plate fit varies by unit — inspect before committing"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Material": "Stainless steel",
+        "Sizes": "4 oz (1 cup), 8 oz (2 cups)",
+        "Parts": "Base, chamber, press plate, lid",
+        "Brew time": "4-6 min (correct grind)",
+        "Dishwasher": "Yes",
+        "Key check": "Snug press plate fit",
+        "Price": "$12.99"
+      },
+      "scores": {
+        "Flavor strength": 4.5,
+        "Build quality": 3.8,
+        "Ease of use": 4.5,
+        "Value": 4.8,
+        "Authenticity": 4.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For first-time Vietnamese coffee brewers",
+      "offerId": "nguyen-coffee-phin-filter",
+      "reason": "One order covers phin, cup, and coffee — nothing to source separately before your first brew."
+    },
+    {
+      "label": "For authentic traditional ca phe sua da",
+      "offerId": "trung-nguyen-legend-ground",
+      "reason": "Robusta-dominant blend and correct pre-ground fineness make this the most representative cup of Vietnamese coffee."
+    },
+    {
+      "label": "For Vietnamese-American diaspora flavour",
+      "offerId": "cafe-du-monde-coffee-chicory",
+      "reason": "Chicory bitterness pairs distinctively with condensed milk and reflects the authentic Vietnamese-American preparation."
+    },
+    {
+      "label": "For brewers who already have a phin",
+      "offerId": "phin-coffee-filter-stainless",
+      "reason": "A quality $10-13 stainless phin brews identically to expensive versions — focus spend on the coffee instead."
+    },
+    {
+      "label": "For completing a ca phe sua da setup",
+      "offerId": "longevity-brand-condensed-milk",
+      "reason": "Ong Tho condensed milk is the non-negotiable ingredient — no substitution produces the same balance."
+    }
+  ]
 }

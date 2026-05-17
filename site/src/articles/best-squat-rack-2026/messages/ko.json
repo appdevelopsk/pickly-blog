@@ -48,5 +48,179 @@
     "fitness-reality-810xlt-power-cage": "풀업과 케이블 작업이 포함된 경우 더 나은 예산 선택. 12게이지 구조, 800lbs 용량, 내장 풀리 시스템이 입문 가격대에서 가장 기능이 완비된 랙을 만듭니다."
   },
   "pinDescription": "Rogue RM-3 vs REP PR-4000 vs Titan T-3 — 2026년 홈짐을 위한 5대 최고 스쿼트 랙. 모든 예산에 맞는 최대 하중, 천장 높이 요건, 안전 기능 비교.",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 랙을 홈짐 대표 부하(100–180kg)에서의 철재 게이지와 업라이트 파이프 크기, 스쿼트 및 벤치프레스 존의 홀 간격 정밀도, 세이프티 바 캐치 신뢰성, 차고 및 지하실에서의 설치 면적 실용성, 액세서리 생태계 깊이로 평가했습니다.",
+  "products": [
+    {
+      "offerId": "rogue-rm-3-power-rack",
+      "badge": "종합 최고",
+      "review": "RM-3의 11게이지 3x3인치 몬스터 스틸은 대부분의 홈짐 운동자가 시도할 부하에서 굽힘이 전혀 느껴지지 않습니다 — 150kg 이상에서 즉시 느껴지는 강성. 웨스트사이드 홀 간격(벤치/스쿼트 존에서 25mm)으로 세이프티 바를 정밀하게 조절 가능. 단점: $1,000 이상과 57×46인치 바닥 면적이 예산과 공간 모두를 요구합니다.",
+      "pros": [
+        "11게이지 3x3인치 몬스터 스틸 — 홈짐 부하에서 굽힘 없음",
+        "벤치 및 스쿼트 존에서 25mm 웨스트사이드 홀 간격",
+        "카테고리 최대 액세서리 생태계"
+      ],
+      "cons": [
+        "프리미엄 가격과 큰 면적 — 진지한 공간 확보 필요"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Upright": "3×3 in",
+        "Capacity": "1,000 lb (453 kg)",
+        "Height": "90 in",
+        "Holes": "1-in Westside",
+        "Footprint": "57×46 in",
+        "Made in": "USA"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 5.0,
+        "Versatility": 4.9,
+        "Value": 3.5,
+        "Safety features": 4.9
+      }
+    },
+    {
+      "offerId": "rep-fitness-pr-4000-power-rack",
+      "badge": "프리미엄 가성비 최고",
+      "review": "REP는 Rogue의 핵심 사양 — 11게이지 3x3인치 스틸, 업라이트 전체 길이의 25mm 웨스트사이드 간격, 1,000lb — 을 약 절반 가격에 실현했습니다. 단점: 여러 상자로 배송되어 신중한 조립이 필요하고 액세서리 생태계가 Rogue보다 좁습니다.",
+      "pros": [
+        "Rogue 동등의 11게이지 3x3인치 스틸을 절반 가격에",
+        "업라이트 전체 길이의 25mm 웨스트사이드 간격",
+        "Rogue와 동일한 1,000lb 용량"
+      ],
+      "cons": [
+        "다중 박스 조립이 더 복잡; 액세서리 생태계가 Rogue보다 좁음"
+      ],
+      "grade": "A",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Upright": "3×3 in",
+        "Capacity": "1,000 lb (453 kg)",
+        "Height": "93 in option",
+        "Holes": "1-in Westside full",
+        "Price": "~Half of Rogue",
+        "Accessories": "Yes"
+      },
+      "scores": {
+        "Load capacity": 4.9,
+        "Stability": 4.8,
+        "Versatility": 4.5,
+        "Value": 4.7,
+        "Safety features": 4.8
+      }
+    },
+    {
+      "offerId": "titan-fitness-t-3-short-rack",
+      "badge": "낮은 천장 최고",
+      "review": "11게이지 3x3인치 스틸의 72인치 업라이트가 가장 흔한 홈짐 천장 문제를 해결합니다 — 2.4m 천장 차고. 벤치 존에 웨스트사이드 간격, 볼트 조립으로 분해 및 이동 가능. 단점: 단축된 업라이트로 턱걸이 바 높이가 180cm 이상 사용자에게 낮습니다.",
+      "pros": [
+        "2.4m 차고 천장을 위해 설계된 72인치 업라이트",
+        "프리미엄 랙과 동일한 11게이지 3x3인치 스틸",
+        "분해 및 재배치를 위한 볼트 조립"
+      ],
+      "cons": [
+        "풀업 바가 180cm 이상 사용자에게 낮음; 바벨 오버헤드 프레스 불가"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Upright": "3×3 in",
+        "Capacity": "700 lb (318 kg)",
+        "Height": "72 in",
+        "Holes": "Westside bench zone",
+        "Assembly": "Bolt-together",
+        "Ceiling": "8 ft min"
+      },
+      "scores": {
+        "Load capacity": 4.5,
+        "Stability": 4.6,
+        "Versatility": 3.8,
+        "Value": 4.4,
+        "Safety features": 4.5
+      }
+    },
+    {
+      "offerId": "cap-barbell-power-rack-fm-cs8000f",
+      "badge": "예산 입문 최고",
+      "review": "CAP FM-CS8000F는 기본적인 역할을 합니다: 80–120kg에서 혼자 운동할 때 안전. 14게이지 2x2인치 스틸은 150kg 이상에서 체감 가능한 굽힘을 보입니다. J훅과 세이프티 바 기본 포함, 50mm 간격. 단점: 액세서리 제한, 웨스트사이드 패턴 없음.",
+      "pros": [
+        "최저 가격의 기본 솔로 안전 제공",
+        "J훅과 세이프티 바 기본 포함",
+        "80–120kg 리프터에게 기능적"
+      ],
+      "cons": [
+        "14게이지 2x2인치가 150kg 이상에서 굽힘; 웨스트사이드 간격 없음"
+      ],
+      "grade": "B",
+      "specs": {
+        "Steel gauge": "14-gauge",
+        "Upright": "2×2 in",
+        "Capacity": "500 lb (227 kg)",
+        "Holes": "2-in throughout",
+        "Included": "J-hooks, spotters",
+        "Price": "~$200–300",
+        "Target": "Up to 130 kg"
+      },
+      "scores": {
+        "Load capacity": 3.8,
+        "Stability": 3.6,
+        "Versatility": 3.2,
+        "Value": 4.6,
+        "Safety features": 4.0
+      }
+    },
+    {
+      "offerId": "fitness-reality-810xlt-power-cage",
+      "badge": "케이블 포함 예산 최고",
+      "review": "Fitness Reality 810XLT는 12게이지 업라이트, 800lb 용량, 내장 풀업 바, 표준 케이블 도르래 시스템으로 CAP를 능가합니다 — 별도 구매 없이 랫 풀다운과 케이블 로우 가능. 단점: 강한 사용 후 도르래에 삐걱거림 발생, 50mm 간격만 제공.",
+      "pros": [
+        "CAP의 14게이지보다 두꺼운 12게이지 스틸",
+        "랫 풀다운 및 로우를 위한 케이블 도르래 시스템 포함",
+        "내장 풀업 바 포함 800lb 용량"
+      ],
+      "cons": [
+        "강한 사용으로 도르래 삐걱거림; 50mm 간격만 제공"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Steel gauge": "12-gauge",
+        "Upright": "2×2 in",
+        "Capacity": "800 lb (363 kg)",
+        "Holes": "2-in throughout",
+        "Included": "Pullup bar, cable pulley",
+        "Price": "~$250–350",
+        "Cable": "Lat pulldown, row"
+      },
+      "scores": {
+        "Load capacity": 4.0,
+        "Stability": 3.8,
+        "Versatility": 4.2,
+        "Value": 4.5,
+        "Safety features": 4.1
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "진지한 홈짐 구축을 위한",
+      "offerId": "rogue-rm-3-power-rack",
+      "reason": "몬스터 액세서리 생태계와 경기 사양 구조가 초보자부터 엘리트까지 교체 없이 함께 성장하는 유일한 랙."
+    },
+    {
+      "label": "예산 내 프리미엄 품질을 원하는",
+      "offerId": "rep-fitness-pr-4000-power-rack",
+      "reason": "Rogue 동등 스틸과 간격을 절반 가격에 — 프리미엄 브랜드 마진 없이 경기 사양 구조를 원하는 사람에게 최적."
+    },
+    {
+      "label": "2.4m 차고 천장 홈짐을 위한",
+      "offerId": "titan-fitness-t-3-short-rack",
+      "reason": "72인치 업라이트가 가장 일반적인 주거용 차고 천장 높이에서 표준 랙을 설치할 수 없는 문제를 해결합니다."
+    },
+    {
+      "label": "첫 홈짐 예산을 절약하는",
+      "offerId": "fitness-reality-810xlt-power-cage",
+      "reason": "케이블 도르래, 풀업 바, 12게이지 구조가 엔트리 가격대에서 달러당 가장 많은 훈련 옵션을 제공합니다."
+    }
+  ]
 }

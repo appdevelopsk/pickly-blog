@@ -89,5 +89,62 @@
     "panasonic-eh-na0j": "Best for daily frizz and damage control — nanoe technology has real published research, 60°C scalp mode, domestic Japan warranty. Note: this is a hair dryer, not a curling styler; wrong choice if curl creation is the goal."
   },
   "pinDescription": "Dyson Airwrap vs Shark FlexStyle vs GHD Max vs budget picks — 2026 honest comparison on hair type fit, real heat damage risk, and whether the price gap actually shows in the result.",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "Each tool was rated on underlying heat mechanism (Coanda air vs direct plate), measured heat output and hair-type compatibility, learning curve length from owner reports, real session time on thick vs fine hair, and 3-year cost-per-use at typical usage frequency.",
+  "products": [
+    {
+      "offerId": "dyson-airwrap-multi-styler",
+      "badge": "Best Overall",
+      "review": "The Airwrap's Coanda airflow mechanism wraps hair at ~150°C without direct plate contact — meaningfully lower heat delivery than a flat iron at 200°C+. On fine-to-medium hair it produces natural waves and volume that no flat iron replicates. The real trade-off is the 2–4 week learning curve and its failure on thick, coarse hair where airflow can't penetrate dense sections efficiently.",
+      "pros": ["Lower peak heat than flat irons — Coanda barrel stays ~150°C vs plate irons at 185–220°C", "Natural wave and volume result on fine/medium hair that flat irons can't replicate", "Multiple attachments handle dry, wave, and smooth in one device"],
+      "cons": ["2–4 week learning curve before results become consistent; poor on thick or coarse hair"],
+      "grade": "A+",
+      "specs": {"Technology": "Coanda airflow", "Barrel temp": "~150°C", "Price (JP)": "¥66,000–¥80,000", "Hair type fit": "Fine to medium", "Learning curve": "2–4 weeks", "Curling method": "Air-wrap (no plate contact)", "Includes": "Multiple attachments"},
+      "scores": {"Heat performance": 4.5, "Hair protection": 4.8, "Build quality": 4.9, "Value": 3.0, "Ease of use": 3.5}
+    },
+    {
+      "offerId": "shark-flexstyle",
+      "badge": "Best Value Coanda",
+      "review": "The FlexStyle delivers the same Coanda-effect mechanism as the Airwrap at roughly 60% of the price, and adds a hair dryer mode the Airwrap lacks. It's the most honest value choice for medium-thickness or wavy hair. The catch for Japan buyers: it's parallel import only (120V North American), running at slightly reduced airflow on Japan's 100V — voltage check required.",
+      "pros": ["Same Coanda-effect mechanism as Dyson Airwrap at ~60% of the price", "Includes hair dryer mode — Airwrap has no dryer function", "Best result-to-price ratio in this comparison for wavy hair"],
+      "cons": ["Japan parallel import only — North American 120V model runs at reduced airflow on 100V; no domestic warranty"],
+      "grade": "A",
+      "specs": {"Technology": "Coanda airflow + dryer", "Price (JP)": "¥35,000–¥45,000 (parallel import)", "Hair type fit": "Medium to wavy", "Voltage": "120V (check before Japan purchase)", "Includes": "Styler attachments + dryer head", "Learning curve": "1–3 weeks", "Warranty": "None in Japan"},
+      "scores": {"Heat performance": 4.3, "Hair protection": 4.5, "Build quality": 4.3, "Value": 4.7, "Ease of use": 3.8}
+    },
+    {
+      "offerId": "revlon-one-step-volumizer",
+      "badge": "Best Budget",
+      "review": "The Revlon One-Step is a round brush and hair dryer combined into one tool — dry and volumize simultaneously at normal dryer temperatures (~80–100°C). Zero learning curve, available for ¥4,000–6,000. It cannot produce defined curls or waves like Coanda tools. That limitation is its entire identity: it's the fastest path to blowout-style volume on straight hair.",
+      "pros": ["Zero learning curve — intuitive from first use", "¥4,000–6,000 price point — most accessible tool in this comparison", "Dryer-temperature heat (~80–100°C) — no additional heat damage beyond normal blow-dry"],
+      "cons": ["Cannot produce curls or waves — blowout volume only; not a Coanda-tool replacement"],
+      "grade": "B+",
+      "specs": {"Technology": "Round brush + hair dryer", "Price (JP)": "¥4,000–¥6,000", "Hair type fit": "Straight, volume-seeking", "Heat range": "~80–100°C (dryer temp)", "Learning curve": "None", "Curl capability": "None — blowout only", "Weight": "~1.2kg"},
+      "scores": {"Heat performance": 3.5, "Hair protection": 4.2, "Build quality": 3.2, "Value": 5.0, "Ease of use": 5.0}
+    },
+    {
+      "offerId": "ghd-max-styler",
+      "badge": "Best for Thick Hair",
+      "review": "The GHD Max's wide ceramic plates at 185–220°C with predictive heating make it the tool of choice for thick, long, or resistant hair where Coanda airflow is too slow. A professional session on waist-length coarse hair takes 20 minutes with the Max vs 45–60 minutes with an Airwrap. Direct plate contact means heat protectant is non-optional; parallel imports carry no domestic Japan warranty.",
+      "pros": ["Fastest results on thick, long, or resistant hair — plates cover more per pass", "185–220°C predictive heating maintains consistent temperature through dense sections", "Professional-grade tool used by salon stylists on challenging hair types"],
+      "cons": ["Direct plate contact at 185–220°C — heat protectant required every session; parallel import, no Japan warranty"],
+      "grade": "B",
+      "specs": {"Technology": "Wide ceramic flat iron", "Plate temp": "185–220°C (predictive)", "Price (JP)": "¥35,000–¥45,000 (parallel import)", "Hair type fit": "Thick, long, resistant", "Plate width": "Wide (more hair per pass)", "Warranty": "None in Japan", "Session time (thick hair)": "~20 min"},
+      "scores": {"Heat performance": 5.0, "Hair protection": 3.0, "Build quality": 4.5, "Value": 3.8, "Ease of use": 4.5}
+    },
+    {
+      "offerId": "panasonic-eh-na0j",
+      "badge": "Best Japan-Domestic",
+      "review": "The Panasonic EH-NA0J is a hair dryer, not a styler — its goal is frizz control and moisture retention via nanoe X ion technology, which has published Panasonic research backing it. Domestic Japan warranty, 60°C scalp-protect mode, and full service network make it the lowest-risk daily-use tool in this list. Wrong choice if curling or waving is the primary goal.",
+      "pros": ["Full domestic Japan warranty and repair network — lowest-risk purchase in this comparison", "nanoe X technology has published research supporting frizz and moisture claims", "60°C scalp mode prevents overheating during daily use"],
+      "cons": ["This is a hair dryer — not suitable if curling, waving, or straightening is the primary goal"],
+      "grade": "B-",
+      "specs": {"Technology": "nanoe X hair dryer", "Price (JP)": "¥22,000–¥30,000", "Scalp mode": "60°C", "Hair type fit": "All hair types (drying/frizz control)", "Warranty": "Full domestic Japan", "Goal": "Frizz control + moisture retention", "Curl capability": "None"},
+      "scores": {"Heat performance": 3.8, "Hair protection": 5.0, "Build quality": 4.5, "Value": 4.2, "Ease of use": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For fine or medium hair wanting natural waves", "offerId": "dyson-airwrap-multi-styler", "reason": "Coanda airflow at ~150°C produces wave and volume results on fine/medium hair that no flat iron can replicate."},
+    {"label": "For thick or coarse hair needing fast results", "offerId": "ghd-max-styler", "reason": "Wide plates at 185–220°C cut session time on resistant hair to 20 minutes vs 45–60 minutes with Coanda tools."},
+    {"label": "For daily frizz control with Japan warranty", "offerId": "panasonic-eh-na0j", "reason": "Full domestic warranty, 60°C scalp mode, and nanoe X technology backed by published research — lowest risk for daily use."}
+  ]
 }

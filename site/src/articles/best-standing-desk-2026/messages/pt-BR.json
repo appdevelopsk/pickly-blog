@@ -110,5 +110,183 @@
     "bamboo-standing-desk": "Uma superfície de bambu combinada com uma estrutura elétrica de pé compatível, oferecendo estética de material natural, uma superfície antibacteriana (o bamboo-kun, o composto antimicrobiano natural do bambu, tem eficácia documentada contra várias bactérias comuns) e o visual aconchegante de home office que superfícies de melamina e núcleo MDF não conseguem replicar. O bambu é mais duro do que a maioria das madeiras macias e resiste a arranhões na superfície melhor do que superfícies padrão de melamina. Superfícies de bambu são suscetíveis a empenamento em ambientes de alta umidade sustentada — os meses de verão do Japão (junho a setembro) com umidade relativa consistentemente acima de 70% em apartamentos sem ar-condicionado o ano todo ou uso de desumidificador podem fazer superfícies de bambu se expandirem, encurvarem e desenvolverem levantamento de bordas dentro de 1 a 2 temporadas; superfícies de bambu são mais pesadas do que as de núcleo MDF de tamanho equivalente, reduzindo a capacidade efetiva de carga do motor disponível para equipamentos; o prêmio por bambu sobre núcleo MDF é tipicamente ¥10.000 a 20.000 sem um benefício funcional proporcional."
   },
   "pinDescription": "5 mesas de pé comparadas em 2026 — do Flexispot E7 Pro com motor duplo e 125 kg ao IKEA Bekant sem frescuras. Matemática de oscilação. Motor simples vs duplo. Realidade do espaço de piso no Japão. Aviso de umidade do bambu. Sensores anticolisão agora padrão abaixo de ¥50.000. E a pesquisa mostrando que a maioria das pessoas fica de pé menos de 30 min/dia.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "flexispot-e7-pro",
+      "badge": "Melhor no geral",
+      "review": "O sistema de motor duplo do E7 Pro (um por pé, sincronizados eletronicamente) lida com cargas de 125 kg a velocidade de elevação constante sem o acúmulo de calor que os acionamentos de motor único mostram sob configurações pesadas. A detecção de obstáculos anti-colisão é padrão — não um acessório. O quadro em C proporciona superior folga para os joelhos e roteamento de cabos sob a mesa em comparação com quadros de quatro pés. Desvantagem: a geometria do quadro em C produz mais oscilação lateral do que designs de quatro pés na altura máxima com monitores pesados.",
+      "pros": [
+        "Capacidade de motor duplo de 125 kg — lida com estações de trabalho de monitor duplo",
+        "Sensor anti-colisão padrão (não acessório)",
+        "Quadro em C fornece melhor folga para joelhos e roteamento de cabos"
+      ],
+      "cons": [
+        "Quadro em C oscila mais do que quadros de quatro pés na altura máxima com monitores pesados"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Motor": "Duplo (um por pé)",
+        "Capacidade de carga": "125 kg",
+        "Faixa de altura": "~60–125 cm",
+        "Presets de memória": "4 posições",
+        "Anti-colisão": "Padrão",
+        "Tipo de quadro": "Quadro em C",
+        "Peso da mesa": "~50 kg"
+      },
+      "scores": {
+        "Height range": 4.8,
+        "Stability": 4.3,
+        "Motor quality": 4.9,
+        "Value": 4.2,
+        "Desktop size": 4.7
+      }
+    },
+    {
+      "offerId": "ikea-bekant-sit-stand",
+      "badge": "Melhor econômico",
+      "review": "O Bekant é a mesa elétrica de pé mais acessível no Japão — disponível nas lojas IKEA com acesso a peças e uma garantia de motor e estrutura de 5 anos que a maioria dos concorrentes abaixo de ¥50.000 não iguala. A simples operação de dois botões não tem curva de aprendizado. Desvantagem: sem presets de memória, reposicionamento manual toda vez; o motor único é mais lento e barulhento que as alternativas de motor duplo, e a altura máxima de 125 cm pode ser insuficiente para usuários acima de 180 cm.",
+      "pros": [
+        "Garantia de motor e estrutura de 5 anos — rara neste preço",
+        "Disponível nas lojas IKEA Japão com acesso a peças",
+        "Controle simples de dois botões sem necessidade de configuração"
+      ],
+      "cons": [
+        "Sem presets de memória; motor mais lento e barulhento; 125 cm de altura máxima limita usuários altos"
+      ],
+      "grade": "A",
+      "specs": {
+        "Motor": "Único",
+        "Capacidade de carga": "Não avaliado (típ. ~70 kg)",
+        "Faixa de altura": "65–125 cm",
+        "Presets de memória": "Nenhum",
+        "Anti-colisão": "Não",
+        "Tamanho do tampo": "70 × 120 cm",
+        "Garantia": "5 anos motor e estrutura"
+      },
+      "scores": {
+        "Height range": 3.8,
+        "Stability": 3.6,
+        "Motor quality": 3.5,
+        "Value": 4.8,
+        "Desktop size": 3.8
+      }
+    },
+    {
+      "offerId": "autonomous-smartdesk-pro",
+      "badge": "Melhor custo-médio",
+      "review": "Quatro presets programáveis, um motor mais silencioso que os acionamentos de nível IKEA e um ecossistema de aplicativos com lembretes de postura e registro de mudanças de altura colocam o SmartDesk Pro no ponto ideal entre econômico e premium. O tampo é vendido separadamente oferecendo flexibilidade de material e tamanho. Desvantagem: a Autonomous é uma marca americana com prazos de importação de 2–4 semanas para o Japão.",
+      "pros": [
+        "4 presets de memória programáveis para mudança instantânea de altura",
+        "Lembretes de postura do aplicativo aumentam o tempo real em pé",
+        "Ampla opções de tamanho e material do tampo incluindo bambu"
+      ],
+      "cons": [
+        "Marca americana — 2–4 semanas de entrega ao Japão; reclamações de garantia internacionais relatadas como difíceis"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Motor": "Único (silencioso)",
+        "Capacidade de carga": "136 kg",
+        "Faixa de altura": "~65–132 cm",
+        "Presets de memória": "4 posições",
+        "Anti-colisão": "Sim",
+        "Tampo": "Vendido separadamente",
+        "Entrega ao Brasil": "Importação necessária"
+      },
+      "scores": {
+        "Height range": 4.7,
+        "Stability": 4.1,
+        "Motor quality": 4.3,
+        "Value": 4.0,
+        "Desktop size": 4.5
+      }
+    },
+    {
+      "offerId": "okamura-swift-desk",
+      "badge": "Melhor para empresas japonesas",
+      "review": "A Okamura é o fabricante dominante de mobiliário de escritório japonês e a série Swift é sua mesa de pé principal — perfil fino, padrões de fabricação japoneses e uma rede de serviços nacional que cobre as reclamações de garantia sem envio internacional. Em ambientes corporativos japoneses o Swift é o padrão. Desvantagem: o preço de entrada de ¥80.000+ é o mais alto nesta comparação, e a disponibilidade no varejo é principalmente através de canais de compras corporativas.",
+      "pros": [
+        "Fabricação japonesa com rede de serviços nacional",
+        "Perfil fino otimizado para as dimensões dos escritórios japoneses",
+        "Confiabilidade comprovada a longo prazo em implantações corporativas"
+      ],
+      "cons": [
+        "Preço mais alto na comparação; vendido principalmente por canais corporativos, não no varejo"
+      ],
+      "grade": "B",
+      "specs": {
+        "Motor": "Elétrico (duplo em configurações premium)",
+        "Capacidade de carga": "80–100 kg",
+        "Faixa de altura": "~62–127 cm",
+        "Presets de memória": "Sim",
+        "Anti-colisão": "Sim (modelos selecionados)",
+        "Origem": "Japão",
+        "Distribuição": "Compras corporativas / showrooms"
+      },
+      "scores": {
+        "Height range": 4.4,
+        "Stability": 4.7,
+        "Motor quality": 4.5,
+        "Value": 3.2,
+        "Desktop size": 4.3
+      }
+    },
+    {
+      "offerId": "bamboo-standing-desk",
+      "badge": "Melhor para estética",
+      "review": "Um tampo de bambu combinado com uma estrutura elétrica de pé oferece calor natural do material e genuínas propriedades antibacterianas (composto bambu-kun) que tampos de melamina e núcleo MDF não podem replicar. Desvantagem: o bambu se deforma sob alta umidade sustentada; os meses de verão do Japão (junho–setembro, 70–90% UR) em apartamentos sem climatização podem causar empenamento e elevação das bordas em 1–2 estações.",
+      "pros": [
+        "Estética natural do bambu — calor que a melamina não pode replicar",
+        "Propriedades antibacterianas naturais da superfície bambu-kun",
+        "Material ecológico com menor pegada de carbono que o MDF"
+      ],
+      "cons": [
+        "Empena com a umidade do verão japonês (70–90% UR) sem climatização o ano todo"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Material do tampo": "Bambu laminado",
+        "Superfície": "Antibacteriana (bambu-kun)",
+        "Prêmio de preço sobre MDF": "¥10.000–20.000",
+        "Sensibilidade à umidade": "Alta — empena acima de 70% UR sustentado",
+        "Peso vs MDF": "Mais pesado (reduz a carga útil do motor)",
+        "Compatibilidade de estrutura": "A maioria das estruturas de pé"
+      },
+      "scores": {
+        "Height range": 4.5,
+        "Stability": 4.0,
+        "Motor quality": 4.5,
+        "Value": 3.8,
+        "Desktop size": 4.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para estações de trabalho de monitor duplo pesado",
+      "offerId": "flexispot-e7-pro",
+      "reason": "Motores duplos lidam com cargas pesadas a velocidade constante sem acúmulo de calor, e a detecção anti-colisão é padrão — o único quadro aqui completamente equipado para configurações de alta demanda fora da caixa."
+    },
+    {
+      "label": "Para compradores de mesa de pé pela primeira vez no Japão",
+      "offerId": "ikea-bekant-sit-stand",
+      "reason": "Disponibilidade em lojas IKEA Japão, garantia de 5 anos e operação simples fazem deste o ponto de entrada com menos atrito para quem experimenta uma mesa de pé pela primeira vez."
+    },
+    {
+      "label": "Para profissionais de home office que querem recursos inteligentes",
+      "offerId": "autonomous-smartdesk-pro",
+      "reason": "Quatro presets e integração do aplicativo de lembretes de postura impulsionam o comportamento real em pé — o lembrete orientado pelo aplicativo é mais eficaz para mudar os hábitos sentado-em pé do que o hardware da mesa sozinho."
+    },
+    {
+      "label": "Para uso corporativo japonês ou home office de longo prazo",
+      "offerId": "okamura-swift-desk",
+      "reason": "A rede de serviços nacional e os padrões de fabricação japoneses eliminam as complicações logísticas de importação e garantia que afetam todas as alternativas de marcas americanas para compradores baseados no Japão."
+    },
+    {
+      "label": "Para estética de home office com climatização",
+      "offerId": "bamboo-standing-desk",
+      "reason": "O calor do bambu e as propriedades antibacterianas são vantagens reais em espaços climatizados — o aviso sobre umidade desaparece com um desumidificador ou ar condicionado o ano todo."
+    }
+  ]
 }

@@ -113,5 +113,64 @@
     "drowsy-silk-sleep-mask": "Drowsys Maulbeerseide-Schlafmaske mit 22 Momme und breitem seidenbezogenen Riemen. Das Premium-Momme-Gewicht produziert eine dichtere, kuehlere, haltbarere Seide als Einstiegs-Optionen. Der breite Riemen verteilt die Spannung ueber eine groessere Flaeche am Hinterkopf und reduziert morgendliche Haarwickelungen und Druckabdrucke. Die aesthetische Verpackung und das Seidenpflegeset der Marke positionieren es als die geschenkbarste Option der Kategorie. Der geformte Nasenstegsbereich ist eine Mittelloesung, die Lichtleckage reduziert, aber nicht eliminiert -- vollstaendige Lichtblockierung ist nicht fuer alle Gesichtsformen garantiert; Premium-Preis ist allein aufgrund der Lichtblockierungsleistung schwer zu rechtfertigen, da die Nidra einen Bruchteil fuer bessere Dunkelheit durch Hartschalenkonturierung kostet; Seidenpflege erfordert mehr Aufmerksamkeit als synthetische Alternativen."
   },
   "pinDescription": "5 Schlafmasken fuer 2026 bewertet -- Alaska Bear Seide vs Tempur-Pedic Memory-Foam vs Manta modular null Druck vs Nidra Kontur Budget vs Drowsy Premium-22-Momme-Seide. Lichtblockierungs-Wissenschaft, Nasenluecken-Design, REM-Augendruck, Riemenabdrucke fuer Seitenschlafer. Ehrliche Schwaehen bei jeder Wahl. #Schlafmaske #Schlafen #deutsch",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Jede Maske wurde anhand gemessener Lichtleckage an der Nasenlücke, Kontaktdruck auf dem Augenlid beim Seitenschlafen, Atmungsaktivität des Schalenmaterials, Riemenabdruckschwere nach acht Stunden und Waschbeständigkeit über mehrere Zyklen bewertet.",
+  "products": [
+    {
+      "offerId": "alaska-bear-sleep-mask",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Die Alaska Bear Natural Silk Sleep Mask liefert echte Maulbeerseide-Qualität zu einem Einstiegspreis, der das Upgrade von synthetischen Masken zur einfachen Entscheidung macht. Das flache Design bedeutet echte Lichtleckage an der Nasenlücke für ausgeprägte Nasenrücken — das ist der Kompromiss für Atmungsaktivität und hautschonenden Kontakt.",
+      "pros": ["100% Maulbeerseidenkontaktfläche", "Leicht und kühl für Warmschläfer", "Maschinenwäsche im Schonwaschgang möglich"],
+      "cons": ["Flaches Design lässt Licht an der Nasenlücke für ausgeprägte Nasenrücken durch"],
+      "grade": "A+",
+      "specs": {"Material": "100% Maulbeerseide", "Design": "Flach", "Riemen": "Verstellbares Elastik", "Augenkammer": "Keine", "Waschbar": "Ja (Schonwaschgang)", "Gewicht": "~20g"},
+      "scores": {"Lichtblockierung": 3.8, "Komfort": 4.5, "Atmungsaktivität": 4.8, "Preis-Leistung": 4.9, "Passform": 3.9}
+    },
+    {
+      "offerId": "tempur-pedic-sleep-mask",
+      "badge": "Beste Druckverteilung",
+      "review": "Die Tempur-Pedic Sleep Mask verteilt den Kontakt mit dem langsam reagierenden Memory-Foam über den Orbital- und Wangenbereich statt direkt auf die Augenlider zu drücken. Die Wärmeentwicklung ist real — in der zweiten Nachthälfte ohne Klimaanlage speichert der Schaum mehr Körperwärme als Seide oder Polycarbonat.",
+      "pros": ["Memory-Foam verteilt Kontaktdruck gleichmäßig", "Konturiertes Design ohne Augenlid-Kontakt", "Anerkannte Marke mit konsistenter Materialqualität"],
+      "cons": ["Speichert Körperwärme — unangenehm in warmen Räumen ohne Klimaanlage"],
+      "grade": "A",
+      "specs": {"Material": "Memory-Foam", "Design": "Konturiert", "Riemen": "Gepolstertes Elastik", "Augenkammer": "Geformter Schaum", "Waschbar": "Nur abwischen", "Gewicht": "~60g"},
+      "scores": {"Lichtblockierung": 4.5, "Komfort": 4.2, "Atmungsaktivität": 3.0, "Preis-Leistung": 3.8, "Passform": 4.0}
+    },
+    {
+      "offerId": "manta-sleep-mask",
+      "badge": "Beste für Wimpernverlängerungen",
+      "review": "Mantas unabhängig verstellbare Magnetaugenkapseln lösen das Problem, das feste konturierte Schalen nicht können — Anpassung an asymmetrische Gesichtsgeometrien und garantierter Null-Augenlid-Kontakt. Das Gewicht der Kapselanordnung fällt auf, wenn man auf der Seite schläft und das Gesicht ins Kissen drückt.",
+      "pros": ["Unabhängig verstellbare Magnetkapseln passen jede Gesichtsform an", "Null Augenlid-Kontakt — sicher für Wimpernverlängerungen", "Breiter Klettverschlussriemen hinterlässt minimale Morgenabdrücke"],
+      "cons": ["Kapselanordnung ist schwerer als flache oder Polycarbonat-Masken"],
+      "grade": "B+",
+      "specs": {"Material": "Schaum + Polycarbonat-Kapseln", "Design": "Modular verstellbar", "Riemen": "Breiter Klettverschluss", "Augenkammer": "Frei, null Kontakt", "Waschbar": "Handwäsche", "Gewicht": "~90g"},
+      "scores": {"Lichtblockierung": 4.9, "Komfort": 4.0, "Atmungsaktivität": 3.8, "Preis-Leistung": 3.5, "Passform": 4.8}
+    },
+    {
+      "offerId": "nidra-deep-rest-mask",
+      "badge": "Bestes Budget-Konturmodell",
+      "review": "Die Nidra Deep Rest Mask bietet den Kernnutzen des konturierten Designs — eine freie Augenkammer ohne Lidkontakt — zu einem Bruchteil des Manta-Preises. Der schmale Gummiriemen ist der schwächste Punkt: Seitenschläfer, die ihn gegen das Kissen drücken, sehen bis zu einer Stunde nach dem Aufwachen sichtbare Abdrücke.",
+      "pros": ["Polycarbonat-Schale bietet günstige freie Augenkammer", "Geeignet für Wimpernverlängerungsträgerinnen", "Leichte Hartschale bleibt die ganze Nacht stabil"],
+      "cons": ["Schmaler Gummiriemen hinterlässt Druckabdrücke bei Seitenschläfern"],
+      "grade": "B",
+      "specs": {"Material": "Polycarbonat-Schale + Polyester-Futter", "Design": "Konturierter Dom", "Riemen": "Schmal Elastik", "Augenkammer": "Frei, null Kontakt", "Waschbar": "Handwäsche", "Gewicht": "~35g"},
+      "scores": {"Lichtblockierung": 4.6, "Komfort": 3.7, "Atmungsaktivität": 3.5, "Preis-Leistung": 4.7, "Passform": 3.8}
+    },
+    {
+      "offerId": "drowsy-silk-sleep-mask",
+      "badge": "Beste Premium-Seide",
+      "review": "Die 22-Momme-Maulbeerseide der Drowsy Silk Sleep Mask ist deutlich dichter als Einstiegsseide, und der breite seidenbezogene Riemen ist am haarschonendsten in diesem Vergleich. Die geformte Nasenbrücke reduziert Lichtleckage ohne sie zu eliminieren — vollständige Dunkelheit ist nicht für alle Gesichtsformen garantiert.",
+      "pros": ["22-Momme-Seide haltbarer und kühler als niedrigere Momme-Optionen", "Breiter seidenbezogener Riemen schont das Haar", "Premium-Verpackung macht es zum geschenkfreundlichsten Modell"],
+      "cons": ["Geformte Nasenbrücke reduziert, eliminiert aber keine Lichtleckage"],
+      "grade": "B-",
+      "specs": {"Material": "22-Momme-Maulbeerseide", "Design": "Halbkonturiert flach", "Riemen": "Breiter Seidenbezug", "Augenkammer": "Keine", "Waschbar": "Handwäsche empfohlen", "Gewicht": "~30g"},
+      "scores": {"Lichtblockierung": 3.6, "Komfort": 4.7, "Atmungsaktivität": 4.6, "Preis-Leistung": 3.2, "Passform": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für Erstkäufer einer Seidenmaske", "offerId": "alaska-bear-sleep-mask", "reason": "Echte Maulbeerseide zu erschwinglichem Preis — der Unterschied zu synthetisch ist sofort spürbar."},
+    {"label": "Für Wimpernverlängerungsträgerinnen", "offerId": "manta-sleep-mask", "reason": "Die unabhängig verstellbaren Kapseln garantieren null Augenlid-Kontakt und schützen die Klebeverbindungen acht Stunden lang."},
+    {"label": "Für Warmschläfer mit kleinem Budget", "offerId": "nidra-deep-rest-mask", "reason": "Die Polycarbonat-Schale konturiert ohne Wärmestau, und der Preisunterschied bleibt für einen Ventilator oder andere Schlafumgebungsinvestitionen."},
+    {"label": "Als Geschenk", "offerId": "drowsy-silk-sleep-mask", "reason": "22-Momme-Seide, breiter schonender Riemen und elegante Verpackung machen es zum durchdachtesten Geschenk der Kategorie."},
+    {"label": "Für Memory-Foam-Fans", "offerId": "tempur-pedic-sleep-mask", "reason": "Wer Tempur bereits für Kissen oder Matratzenauflagen nutzt, findet die Materialkonsistenz genau wie erwartet."}
+  ]
 }

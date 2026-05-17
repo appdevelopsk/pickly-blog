@@ -58,5 +58,144 @@
     "taylor-precision-9842-thermometer": "Straightforward digital instant-read with four-to-five second response and ±2°F accuracy. Covers the essential use cases — checking chicken, roasts, and frying oil — at a price under $20. The entry point for anyone who wants a thermometer but doesn't cook protein often enough to justify spending more."
   },
   "pinDescription": "Best meat thermometers 2026: Thermapen ONE vs MEATER Plus vs Lavatools Javelin PRO compared on read speed, accuracy, and wireless range. Top pick + budget alternatives inside.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each thermometer was assessed on probe response speed, stated accuracy tolerance, waterproofing and durability claims, and practical workflow — how quickly a reading can be taken and acted upon during active grilling, roasting, or frying.",
+  "products": [
+    {
+      "offerId": "thermoworks-thermapen-one",
+      "badge": "Best Overall",
+      "review": "The Thermapen ONE is the fastest and most accurate instant-read thermometer available for home use — one-second readings accurate to ±0.5°F, IP67 waterproof, auto-rotating display that orients for any grip angle. The only real trade-off is the $109 price, which is two to five times more than any other option here.",
+      "pros": ["1-second read time — fastest in class", "±0.5°F accuracy, IP67 washable under tap", "Auto-rotating display works at any angle"],
+      "cons": ["$109 — significantly more expensive than alternatives"],
+      "grade": "A+",
+      "specs": {
+        "Read time": "1 second",
+        "Accuracy": "±0.5°F",
+        "Range": "-58°F to 572°F",
+        "Waterproofing": "IP67",
+        "Battery life": "2,000 hours",
+        "Display": "Auto-rotating"
+      },
+      "scores": {
+        "Speed": 5.0,
+        "Accuracy": 5.0,
+        "Durability": 4.9,
+        "Value": 3.5,
+        "Ease of use": 5.0
+      }
+    },
+    {
+      "offerId": "lavatools-javelin-pro-duo",
+      "badge": "Best Value",
+      "review": "The Javelin PRO Duo delivers ±0.9°F accuracy and a 3–4 second read time at roughly 40% of the Thermapen ONE's price. A magnetic back for fridge or grill attachment and an ambidextrous folding probe make it the most practical budget upgrade. The slower speed is noticeable at a hot grill but not a dealbreaker for most cooks.",
+      "pros": ["±0.9°F accuracy at ~40% of Thermapen's price", "Magnetic back for grill or fridge mounting", "Large auto-rotating display"],
+      "cons": ["3–4 second read is slower than Thermapen at an open grill"],
+      "grade": "A",
+      "specs": {
+        "Read time": "3–4 seconds",
+        "Accuracy": "±0.9°F",
+        "Range": "-40°F to 482°F",
+        "Waterproofing": "Splash resistant",
+        "Mounting": "Magnetic back",
+        "Display": "Auto-rotating"
+      },
+      "scores": {
+        "Speed": 4.2,
+        "Accuracy": 4.6,
+        "Durability": 4.4,
+        "Value": 5.0,
+        "Ease of use": 4.8
+      }
+    },
+    {
+      "offerId": "meater-plus-wireless-thermometer",
+      "badge": "Best Wireless",
+      "review": "The MEATER Plus solves a completely different problem: it stays in the meat throughout the entire cook, sending real-time temperatures and time-to-target estimates to a smartphone app over Bluetooth. Essential for long smokes or oven roasts where opening the door matters. It measures only one location, so a spot-check with an instant-read at the finish is still worthwhile for large cuts.",
+      "pros": ["Completely wireless — no cord to manage or burn on grill grates", "Dual sensors track both internal and ambient temperature", "App estimates remaining cook time in real time"],
+      "cons": ["Measures only one point — need a second probe check for very large cuts"],
+      "grade": "B+",
+      "specs": {
+        "Read type": "Wireless continuous",
+        "Internal range": "Up to 212°F",
+        "Ambient range": "Up to 527°F",
+        "Bluetooth range": "165 ft",
+        "Connectivity": "Bluetooth + Wi-Fi via dock",
+        "App": "iOS and Android"
+      },
+      "scores": {
+        "Speed": 3.0,
+        "Accuracy": 4.3,
+        "Durability": 4.2,
+        "Value": 3.8,
+        "Ease of use": 4.5
+      }
+    },
+    {
+      "offerId": "oxo-chef-precision-thermometer",
+      "badge": "Best Mid-Range",
+      "review": "The OXO gives 3–4 second reads at ±1°F with a non-slip grip and a 2-year warranty that is unusual at this price. It sits clearly above the Taylor in speed and accuracy and below the Lavatools. The 2-year warranty is genuine value if you're hard on kitchen tools.",
+      "pros": ["±1°F accuracy with 2-year warranty", "Non-slip grip handles wet hands and heat", "Large easy-read display"],
+      "cons": ["Range tops out at 392°F — may not cover deep-frying temperatures"],
+      "grade": "B",
+      "specs": {
+        "Read time": "3–4 seconds",
+        "Accuracy": "±1°F",
+        "Range": "32°F to 392°F",
+        "Waterproofing": "None stated",
+        "Warranty": "2 years",
+        "Storage": "Foldable probe"
+      },
+      "scores": {
+        "Speed": 4.1,
+        "Accuracy": 4.3,
+        "Durability": 4.5,
+        "Value": 4.4,
+        "Ease of use": 4.7
+      }
+    },
+    {
+      "offerId": "taylor-precision-9842-thermometer",
+      "badge": "Best Budget",
+      "review": "The Taylor 9842 covers the essential use cases — chicken, roasts, frying oil — at under $20. The 4–5 second response and ±2°F tolerance are slower and less precise than anything else here, but adequate for cooks who check temperatures a few times a week and want a functional thermometer without spending more.",
+      "pros": ["Under $20 — lowest price in this comparison", "Covers all essential food-safety temperature checks", "Simple, no-learning-curve operation"],
+      "cons": ["4–5 second read is twice as slow as OXO; ±2°F is the widest tolerance here"],
+      "grade": "B-",
+      "specs": {
+        "Read time": "4–5 seconds",
+        "Accuracy": "±2°F",
+        "Range": "32°F to 392°F",
+        "Waterproofing": "None",
+        "Display": "Digital LCD",
+        "Storage": "Foldable probe"
+      },
+      "scores": {
+        "Speed": 3.2,
+        "Accuracy": 3.5,
+        "Durability": 3.8,
+        "Value": 4.8,
+        "Ease of use": 4.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For serious grill cooks",
+      "offerId": "thermoworks-thermapen-one",
+      "reason": "The 1-second read means you can check a steak and close the grill lid in the same motion — no heat loss, no hovering."
+    },
+    {
+      "label": "For budget-conscious home cooks",
+      "offerId": "lavatools-javelin-pro-duo",
+      "reason": "Near-Thermapen accuracy at 40% of the price; the magnetic back keeps it on the fridge door and ready to grab."
+    },
+    {
+      "label": "For low-and-slow smokers and roasters",
+      "offerId": "meater-plus-wireless-thermometer",
+      "reason": "Set it and check the app — no lifting the lid, no cord tangling, and an estimated finish time so you can plan sides."
+    },
+    {
+      "label": "For occasional home cooks on a budget",
+      "offerId": "taylor-precision-9842-thermometer",
+      "reason": "Handles the food-safety checks that matter most (poultry, ground meat) at a price that makes owning one a no-brainer."
+    }
+  ]
 }

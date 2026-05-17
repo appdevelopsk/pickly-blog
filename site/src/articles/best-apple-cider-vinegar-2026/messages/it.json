@@ -92,5 +92,64 @@
     "fairchilds-organic-acv": "Migliore per la trasparenza culinaria — mele Rag Bag coltivate nello Stato di Washington, etichettatura esplicita del 5% di acidita, sourcing a gestione familiare. Sapore di mela piu pulito con minore complessita di fermentazione rispetto a Bragg. Migliore per le vinaigrette leggere e gli shrub dove il sapore orientato alla mela e la storia del sourcing contano."
   },
   "pinDescription": "ACV grezzo, gommoso o pronto da bere? Abbiamo confrontato Bragg, Goli, Kevita, Fairchild's e Dynamic Health per trovare il migliore aceto di sidro di mele del 2026 — con note oneste sulla 'madre', il dosaggio quotidiano e cosa supportano davvero le ricerche. #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni prodotto è stato valutato per profilo aromatico, trasparenza dell'approvvigionamento, rapporto qualità-prezzo, integrità della confezione e utilità pratica. Le certificazioni e le recensioni verificate sono state confrontate con le dichiarazioni di marketing.",
+  "products": [
+    {
+      "offerId": "bragg-organic-acv",
+      "badge": "Migliore in assoluto",
+      "review": "Bragg rimane il punto di riferimento per l'ACV grezzo: non filtrato, certificato USDA Bio, con fili di madre visibili che confermano le colture attive. Il sapore deciso e incentrato sulla mela ha più complessità fermentativa rispetto alle alternative da supermercato. La bottiglia da 32 oz è competitiva per l'uso quotidiano come tonico.",
+      "pros": ["Non filtrato 'con la madre' — colture attive visibili", "Certificato USDA Bio e Non-OGM", "Sapore di mela deciso e complesso, preferito dai bevitori di tonico"],
+      "cons": ["Sapore più forte della maggior parte — richiede diluizione per i principianti"],
+      "grade": "A+",
+      "specs": {"Dimensione": "16 oz / 32 oz", "Biologico": "Certificato USDA", "Filtrato": "No (con madre)", "Acidità": "5%", "Rapporto di diluizione": "1–2 cucchiai per 240 ml d'acqua"},
+      "scores": {"Qualità": 4.8, "Gusto": 4.2, "Rapporto qualità-prezzo": 4.0, "Nutrizione": 4.5, "Versatilità": 4.7}
+    },
+    {
+      "offerId": "dynamic-health-acv",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "review": "Funzionalmente equivalente a Bragg — certificato USDA Bio, non filtrato, con madre — ma tipicamente il 15–20 % più economico per oncia. La tracciabilità delle mele è meno specificata, ma per cucina ad alto volume e tonici quotidiani dove il costo è prioritario, è un'ottima scelta.",
+      "pros": ["Costo per oncia più basso tra le opzioni bio non filtrate", "Certificato USDA Bio, non filtrato, con madre", "Ottimo rapporto qualità-prezzo per uso culinario intensivo"],
+      "cons": ["Meno trasparenza sull'origine rispetto a Fairchild's o Bragg"],
+      "grade": "A",
+      "specs": {"Dimensione": "32 oz", "Biologico": "Certificato USDA", "Filtrato": "No (con madre)", "Acidità": "5%", "Prezzo vs. Bragg": "ca. 15–20 % in meno/oz"},
+      "scores": {"Qualità": 4.2, "Gusto": 3.9, "Rapporto qualità-prezzo": 4.8, "Nutrizione": 4.3, "Versatilità": 4.4}
+    },
+    {
+      "offerId": "kevita-acv-tonic",
+      "badge": "Migliore palatabilità",
+      "review": "Kevita è una bevanda gassata pronta da bere con ACV, zenzero, limone e stevia. La dose di ACV è inferiore allo standard liquido e il costo per porzione è più elevato — ma il punto chiave è che le persone che non riescono con il liquido lo assumono davvero ogni giorno.",
+      "pros": ["Pronto da bere — nessuna miscelazione o diluizione", "La carbonatazione e gli aromi lo rendono molto più piacevole", "Acidità ridotta, minor rischio di erosione dello smalto dentale"],
+      "cons": ["Dose di ACV inferiore al protocollo liquido standard", "Costo per porzione più elevato dell'ACV liquido"],
+      "grade": "B+",
+      "specs": {"Dimensione": "15,2 oz", "Formato": "RTD gassato", "Aromi aggiunti": "Zenzero, limone, stevia", "Zucchero": "0 g aggiunto", "Dose ACV/bottiglia": "ca. 25 mg"},
+      "scores": {"Qualità": 3.8, "Gusto": 4.5, "Rapporto qualità-prezzo": 3.2, "Nutrizione": 3.5, "Versatilità": 2.8}
+    },
+    {
+      "offerId": "goli-acv-gummies",
+      "badge": "Migliore regolarità quotidiana",
+      "review": "Le caramelle gommose Goli forniscono circa un cucchiaino di ACV equivalente per porzione (2 gommose) — meno della dose standard liquida, ma molto più facile da assumere ogni giorno. Certificato biologico, vegano, Non-OGM, con vitamine B9 e B12.",
+      "pros": ["Nessun sapore sgradevole, nessuna miscelazione — massima regolarità quotidiana", "Vitamine B aggiunte (B9 e B12)", "Certificato biologico, vegano, Non-OGM"],
+      "cons": ["Dose di ACV per porzione inferiore al liquido (1 cucchiaino vs 1–2 cucchiai)", "Costo per grammo di ACV più elevato rispetto alle opzioni liquide"],
+      "grade": "B",
+      "specs": {"Porzione": "2 gommose", "ACV per porzione": "ca. 500 mg (~1 cucchiaino)", "Biologico": "Sì", "Vitamine aggiunte": "B9, B12", "Quantità": "60 gommose"},
+      "scores": {"Qualità": 4.0, "Gusto": 4.6, "Rapporto qualità-prezzo": 3.5, "Nutrizione": 3.8, "Versatilità": 2.5}
+    },
+    {
+      "offerId": "fairchilds-organic-acv",
+      "badge": "Migliore trasparenza culinaria",
+      "review": "Fairchild's si differenzia con l'indicazione esplicita delle mele Rag Bag dello stato di Washington e l'acidità verificata al 5 %. Il sapore è più pulito e meno lievitoso di Bragg — più adatto per vinaigrette leggere dove si desidera il sapore di mela senza note di fermentazione pronunciate.",
+      "pros": ["Varietà di mela e stato di origine indicati — trasparenza rara", "Indicazione esplicita dell'acidità al 5 %", "Sapore di mela più pulito con meno complessità fermentativa"],
+      "cons": ["Disponibilità leggermente inferiore a Bragg nei negozi mainstream"],
+      "grade": "B-",
+      "specs": {"Dimensione": "32 oz", "Biologico": "Certificato USDA", "Origine mele": "Washington State Rag Bag", "Acidità": "5 % verificato", "Filtrato": "No (con madre)"},
+      "scores": {"Qualità": 4.5, "Gusto": 4.3, "Rapporto qualità-prezzo": 3.8, "Nutrizione": 4.3, "Versatilità": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per i bevitori quotidiani di tonico ACV", "offerId": "bragg-organic-acv", "reason": "L'ACV grezzo di riferimento con qualità costante — la scelta più ovvia per un'abitudine quotidiana di tonico diluito."},
+    {"label": "Per uso culinario ad alto volume", "offerId": "dynamic-health-acv", "reason": "Il 15–20 % più economico per oncia rispetto a Bragg con certificazione bio equivalente — giusto se si consuma una bottiglia a settimana."},
+    {"label": "Per i principianti con l'ACV", "offerId": "kevita-acv-tonic", "reason": "Gassato, aromatizzato e prediluito — la barriera d'ingresso più bassa per chi trova l'ACV liquido troppo intenso."},
+    {"label": "Per chi privilegia l'abitudine alla dose", "offerId": "goli-acv-gummies", "reason": "Se si salta il liquido ma si assumono le gommose ogni giorno, la dose bassa costante supera la dose alta irregolare."},
+    {"label": "Per vinaigrette e condimenti leggeri", "offerId": "fairchilds-organic-acv", "reason": "Nelle ricette dove il carattere ACV è protagonista, il sapore di mela pulito fa una differenza reale."}
+  ]
 }

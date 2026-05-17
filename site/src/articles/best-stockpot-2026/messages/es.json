@@ -58,5 +58,184 @@
     "demeyere-industry-stockpot": "Acero inoxidable de 5 capas (fabricación belga), calibre más grueso de la categoría, mejor distribución de calor de cualquier olla de acero inoxidable. $250-400. Las mejores especificaciones técnicas disponibles — demostrablemente mejor que All-Clad. Para cocineros domésticos serios que quieren la prima de ingeniería."
   },
   "pinDescription": "Comparación de ollas grandes 2026: All-Clad D3 vs Cuisinart Multiclad Pro vs Tramontina tri-ply vs Lodge hierro fundido vs Demeyere — revestimiento completo vs fondo de disco, qué tamaño necesitas realmente y qué olla vale el precio.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada olla se evaluó por la uniformidad de distribución del calor en toda la superficie de cocción, la capacidad utilizable para tamaños de lote comunes, la durabilidad a largo plazo según el calibre y calidad del material, el valor frente a alternativas en el mismo nivel de precio y la facilidad de limpieza tras tareas de cocción con proteínas o almidones.",
+  "products": [
+    {
+      "offerId": "all-clad-d3-stainless-stockpot",
+      "badge": "Mejor en General",
+      "review": "All-Clad D3 es el referente profesional — tri-ply completo de borde a borde, acero inoxidable 18/10, fabricado en EE.UU. con garantía de por vida. La distribución uniforme del calor desde la base hasta los lados es genuinamente superior a los diseños de disco para caldos de larga cocción. A 200–400$ por una olla de 8–12 qt, el precio se amortiza bien con uso diario.",
+      "pros": [
+        "Construcción tri-ply completa hasta el borde — los lados calientan uniformemente junto a la base para mejor convección",
+        "Garantía de por vida y fabricación en EE.UU. con historial de 10–20 años en cocinas profesionales",
+        "Interior de acero inoxidable 18/10 es no reactivo con caldos ácidos y compatible con utensilios de metal"
+      ],
+      "cons": [
+        "Opción más cara aquí a 200–400$ — la Tramontina ofrece un rendimiento similar por menos de la mitad del precio"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Construction": "Tri-ply (18/10 stainless / aluminum / stainless)",
+        "Available sizes": "8, 10, 12 qt",
+        "Induction compatible": "Yes",
+        "Origin": "USA",
+        "Warranty": "Lifetime",
+        "Oven safe": "Up to 260°C",
+        "Price range": "$200–400"
+      },
+      "scores": {
+        "Heat distribution": 5.0,
+        "Capacity": 4.8,
+        "Durability": 5.0,
+        "Value": 3.2,
+        "Ease of cleaning": 4.5
+      }
+    },
+    {
+      "offerId": "cuisinart-multiclad-pro-stockpot",
+      "badge": "Mejor Opción Económica Fully-Clad",
+      "review": "Cuisinart Multiclad Pro es un tri-ply completamente chapado a aproximadamente un tercio del precio del All-Clad — la distribución del calor y el rendimiento de cocción son prácticamente indistinguibles para tareas domésticas estándar. El calibre ligeramente más delgado requiere cuidado a fuego muy alto.",
+      "pros": [
+        "Tri-ply completo a un tercio del precio de All-Clad — la mejor entrada a la categoría clad",
+        "Interior de acero inoxidable 18/10 funciona de forma idéntica al All-Clad para hervir, estofar y platos ácidos",
+        "Ampliamente disponible y fácil de reemplazar piezas individuales si es necesario"
+      ],
+      "cons": [
+        "Calibre ligeramente más delgado que All-Clad y Tramontina — requiere cuidado en quemadores por encima de medio-alto"
+      ],
+      "grade": "A",
+      "specs": {
+        "Construction": "Tri-ply (18/10 stainless / aluminum / stainless)",
+        "Available sizes": "8, 10, 12 qt",
+        "Induction compatible": "Yes",
+        "Origin": "China",
+        "Warranty": "Lifetime",
+        "Oven safe": "Up to 260°C",
+        "Price range": "$60–100"
+      },
+      "scores": {
+        "Heat distribution": 4.6,
+        "Capacity": 4.8,
+        "Durability": 4.3,
+        "Value": 4.8,
+        "Ease of cleaning": 4.5
+      }
+    },
+    {
+      "offerId": "tramontina-stainless-stockpot",
+      "badge": "Mejor Valor General",
+      "review": "El tri-ply completamente chapado de Tramontina se sitúa entre Cuisinart y All-Clad en precio y calidad — más cercano a All-Clad en calibre y peso de las asas. La mejor relación calidad-precio para cocineros caseros serios a 100–150$ por una olla de 8 qt.",
+      "pros": [
+        "Calibre más grueso que Cuisinart — maneja el fuego alto y el uso diario con más confianza",
+        "Cercano al rendimiento All-Clad por menos de la mitad del precio de All-Clad — la compra recomendada para la mayoría de cocineros caseros",
+        "Asas más pesadas y tolerancias de construcción más ajustadas que las opciones económicas"
+      ],
+      "cons": [
+        "Algo más difícil de encontrar en tiendas físicas que All-Clad o Cuisinart en algunos mercados"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Construction": "Tri-ply (18/10 stainless / aluminum / stainless)",
+        "Available sizes": "8 qt primary",
+        "Induction compatible": "Yes",
+        "Origin": "Brazil",
+        "Warranty": "Lifetime",
+        "Oven safe": "Up to 260°C",
+        "Price range": "$100–150"
+      },
+      "scores": {
+        "Heat distribution": 4.8,
+        "Capacity": 4.5,
+        "Durability": 4.7,
+        "Value": 4.6,
+        "Ease of cleaning": 4.4
+      }
+    },
+    {
+      "offerId": "lodge-cast-iron-dutch-oven-5qt",
+      "badge": "Mejor para Estofados y Cocción Lenta",
+      "review": "El Lodge Enameled Dutch Oven no es una olla tradicional — a 5 qt es demasiado pequeña para caldo en grandes cantidades — pero para estofados, taginas y sopas de larga cocción supera al acero inoxidable gracias a una retención de calor excepcional. Sin necesidad de curación, apto para ingredientes ácidos.",
+      "pros": [
+        "Retención de calor excepcional y temperaturas estables y uniformes — ideal para estofados y sopas lentas",
+        "Interior esmaltado no requiere curado y maneja con seguridad ingredientes ácidos como tomate y vino",
+        "Versátil del fuego al horno a 80–100$"
+      ],
+      "cons": [
+        "La capacidad de 5 qt limita el uso en grandes cantidades — no puede hacer caldo a partir de una carcasa de pollo entera con verduras"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "Enameled cast iron",
+        "Capacity": "5 qt",
+        "Induction compatible": "Yes",
+        "Seasoning required": "No",
+        "Oven safe": "Up to 260°C",
+        "Weight (loaded)": "Approx. 7 kg",
+        "Price": "$80–100"
+      },
+      "scores": {
+        "Heat distribution": 4.7,
+        "Capacity": 3.0,
+        "Durability": 4.9,
+        "Value": 4.3,
+        "Ease of cleaning": 4.2
+      }
+    },
+    {
+      "offerId": "demeyere-industry-stockpot",
+      "badge": "Mejor Rendimiento Técnico",
+      "review": "La construcción belga de 5 capas de Demeyere Industry y el calibre más grueso de esta comparativa ofrecen la mejor distribución del calor de cualquier olla de acero inoxidable disponible — notablemente mejor que All-Clad a 250–400$. Para cocineros caseros serios que cocinan diariamente y quieren el premium de ingeniería.",
+      "pros": [
+        "Construcción belga de 5 capas con el calibre más grueso — distribución de calor superior al All-Clad",
+        "Asas soldadas en lugar de remachadas eliminan puntos de atrapamiento de alimentos en la base del asa",
+        "Tratamiento de superficie Silvinox reduce huellas dactilares y mantiene la apariencia durante décadas"
+      ],
+      "cons": [
+        "A 250–400$ con prima sobre All-Clad — justificada por rendimiento pero significativa"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Construction": "5-ply (18/10 stainless / 2× aluminum / aluminum alloy / stainless)",
+        "Available sizes": "Multiple including 8–12 qt",
+        "Induction compatible": "Yes",
+        "Origin": "Belgium",
+        "Warranty": "Lifetime",
+        "Oven safe": "Up to 260°C",
+        "Price range": "$250–400"
+      },
+      "scores": {
+        "Heat distribution": 5.0,
+        "Capacity": 4.8,
+        "Durability": 5.0,
+        "Value": 2.8,
+        "Ease of cleaning": 4.7
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para cocineros caseros serios que quieren longevidad profesional",
+      "offerId": "all-clad-d3-stainless-stockpot",
+      "reason": "Tri-ply completo hasta el borde, garantía de por vida, fabricado en EE.UU. — la olla que compras una vez y usas diariamente durante 15 años."
+    },
+    {
+      "label": "Para cocineros conscientes del presupuesto que aún quieren construcción fully-clad",
+      "offerId": "cuisinart-multiclad-pro-stockpot",
+      "reason": "Rendimiento tri-ply completo a un tercio del precio de All-Clad — mejor entrada a la categoría clad sin comprometer la calidad de cocción."
+    },
+    {
+      "label": "Para la mayoría de cocineros caseros que buscan el mejor valor",
+      "offerId": "tramontina-stainless-stockpot",
+      "reason": "Calibre más grueso que Cuisinart, rendimiento cercano al All-Clad, por menos de la mitad del precio All-Clad — la compra recomendada para la mayoría de los cocineros caseros."
+    },
+    {
+      "label": "Para cocineros especializados en estofados, taginas y sopas lentas",
+      "offerId": "lodge-cast-iron-dutch-oven-5qt",
+      "reason": "La superior retención de calor del hierro fundido y las temperaturas bajas y estables lo convierten en la mejor herramienta para platos de larga cocción donde el acero inoxidable no puede competir."
+    },
+    {
+      "label": "Para perfeccionistas que quieren el techo de la ingeniería",
+      "offerId": "demeyere-industry-stockpot",
+      "reason": "La construcción belga de 5 capas ofrece la mejor distribución de calor medible de cualquier olla de acero inoxidable — justificada solo si la cocina diaria exige lo absoluto mejor."
+    }
+  ]
 }

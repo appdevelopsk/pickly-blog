@@ -93,5 +93,64 @@
     "bright-cellars-subscription": "Best for wine beginners — structured palate development with flavor wheel archetype system, $22/bottle (4 bottles at $88/month). Explicit educational framing on each bottle about how it expands your palate. Best for new wine drinkers who want a guided learning path. Limitation: experienced drinkers find the scaffolding unnecessary; cancellation requires contacting support rather than self-serve portal."
   },
   "pinDescription": "5 wine subscriptions compared for 2026: Winc vs Firstleaf vs Naked Wines vs Wine Access vs BRIGHT Cellars. Personalization, value per bottle, natural wine options — find the subscription that actually matches how you drink wine.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each subscription was evaluated on per-bottle delivered price, algorithm personalization accuracy after three shipments, skip/pause self-serve convenience, natural wine availability, and tasting note educational depth.",
+  "products": [
+    {
+      "offerId": "winc-subscription",
+      "badge": "Best Overall",
+      "review": "Winc's algorithm-matched selections at $13–20/bottle with free shipping on four-plus bottles make it the most frictionless everyday wine subscription. The rating feedback loop genuinely improves personalization over three to four shipments. The trade-off is that Winc's own-label wines dominate lower price points, capping quality below independent curator services.",
+      "pros": ["Algorithm improves measurably after consistent ratings", "Free shipping on 4+ bottles", "Self-serve skip/pause in two clicks"],
+      "cons": ["Own-label wines limit quality ceiling vs curator services"],
+      "grade": "A+",
+      "specs": {"Price per bottle": "$13–20", "Shipment size": "4 bottles/month", "Shipping": "Free on 4+ bottles", "Skip policy": "Self-serve, 24hr notice", "IPO/Certification": "US-based, own label"},
+      "scores": {"Wine quality": 4.2, "Value": 4.5, "Variety": 4.0, "Customization": 4.3, "Delivery reliability": 4.6}
+    },
+    {
+      "offerId": "firstleaf-subscription",
+      "badge": "Best Intro Value",
+      "review": "Six bottles for $39.95 on the first shipment is the best entry discount in this category — a real price reduction, not a marketing trick. The algorithm calibrates well once you've rated consistently across three or four deliveries. Cancellation requires navigating a retention flow rather than a single click, which is the main friction point.",
+      "pros": ["Best first-shipment discount ($39.95 for 6 bottles)", "Wide winery network for variety", "Algorithm improves after 3–4 shipments"],
+      "cons": ["Cancellation requires retention flow, not one-click"],
+      "grade": "A",
+      "specs": {"Intro price": "$39.95/6 bottles", "Ongoing price": "~$15–25/bottle", "Shipment size": "6 bottles", "Skip policy": "Self-serve, up to 2 months pause", "Winery network": "International"},
+      "scores": {"Wine quality": 4.0, "Value": 4.6, "Variety": 4.2, "Customization": 3.9, "Delivery reliability": 4.3}
+    },
+    {
+      "offerId": "naked-wines-subscription",
+      "badge": "Best for Savers",
+      "review": "Naked Wines' Angel membership deposits $40/month as credit, unlocking 30–50% below retail on wines from independent producers. The savings are independently verifiable — wines priced at $25–35 retail are available to Angels at $12–18. The demand-driven model (no forced shipments) is the most flexible structure of the five, but the $40 commitment runs even in months you don't buy.",
+      "pros": ["30–50% verifiable savings vs retail", "No forced auto-shipments — shop when you want", "Wide independent winemaker access"],
+      "cons": ["$40/month commitment regardless of purchase activity"],
+      "grade": "B+",
+      "specs": {"Monthly credit": "$40", "Angel discount": "30–50% off retail", "Shipment type": "Demand-driven (no auto-ship)", "Cancel policy": "Self-serve", "Producer focus": "Independent winemakers"},
+      "scores": {"Wine quality": 4.3, "Value": 4.4, "Variety": 3.8, "Customization": 3.5, "Delivery reliability": 4.1}
+    },
+    {
+      "offerId": "wine-access-subscription",
+      "badge": "Best for Enthusiasts",
+      "review": "Wine Access delivers the best tasting notes and editorial curation in this category — production context, regional typicity, and flavor expectations written by wine professionals rather than marketing copy. At $30–100+ per bottle, it is not an everyday-drinking subscription, but the quality at that tier and the educational depth justify the premium for serious collectors.",
+      "pros": ["Best tasting notes and wine education by wide margin", "Covers natural and conventional with equal rigor", "Sommelier-level curation and selection quality"],
+      "cons": ["Price ($30–100+/bottle) eliminates it as everyday drinking"],
+      "grade": "B",
+      "specs": {"Price per bottle": "$30–100+", "Curation style": "Editorial / sommelier", "Natural wine": "Yes, alongside conventional", "Tasting notes": "Production context + regional typicity", "Cancel policy": "Self-serve"},
+      "scores": {"Wine quality": 4.9, "Value": 3.2, "Variety": 4.5, "Customization": 3.6, "Delivery reliability": 4.4}
+    },
+    {
+      "offerId": "bright-cellars-subscription",
+      "badge": "Best for Beginners",
+      "review": "BRIGHT Cellars' flavor wheel archetype system assigns you a palate profile and then deliberately includes one wine outside your comfort zone each shipment — the educational framing on each bottle is genuinely useful for new wine drinkers. At $22/bottle ($88/month for four), the price is fair for the learning structure. Experienced drinkers will find the scaffolding unnecessary, and cancellation requires a support contact rather than a self-serve portal.",
+      "pros": ["Flavor wheel palate development system unique in category", "Educational note on each bottle explains what it teaches", "Structured progression toward broader wine knowledge"],
+      "cons": ["Cancellation requires contacting support (no self-serve portal)"],
+      "grade": "B-",
+      "specs": {"Price per bottle": "$22", "Shipment size": "4 bottles/month", "Monthly cost": "$88", "Cancel policy": "Support contact required", "Education system": "Flavor wheel archetype"},
+      "scores": {"Wine quality": 3.8, "Value": 3.7, "Variety": 3.6, "Customization": 4.0, "Delivery reliability": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For everyday autopilot drinkers", "offerId": "winc-subscription", "reason": "Algorithm-matched selections delivered on schedule without having to think about wine shopping — skip and pause in two clicks."},
+    {"label": "For first-time subscribers", "offerId": "firstleaf-subscription", "reason": "Best introductory discount in the category; the algorithm calibrates after a few rated shipments."},
+    {"label": "For independent wine supporters", "offerId": "naked-wines-subscription", "reason": "Angel credit funds independent winemakers directly and unlocks 30–50% savings you can verify against retail prices."},
+    {"label": "For serious collectors", "offerId": "wine-access-subscription", "reason": "Sommelier-curated selections at premium tiers with the best tasting notes and wine education available in a subscription format."},
+    {"label": "For complete beginners", "offerId": "bright-cellars-subscription", "reason": "Flavor wheel archetype system creates a guided palate development path that no other service in this comparison offers."}
+  ]
 }

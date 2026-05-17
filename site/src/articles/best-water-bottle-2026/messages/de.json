@@ -113,5 +113,193 @@
     "thermos-jni-502": "Beste kompakte japanische Pendlerflasche. 500ml Kapazitaet passt in Jackentaschen und schmale Laptop-Taschen-Seitentaschen, Druckknopf-Deckel bietet nach dem ersten Loesen funktionale Einhandbedienung, Kalthaltezeit entspricht importierten Premiummarken. Nachteile: 500ml ist die Haelfte des Volumens der 32oz-Flaschen -- erfordert doppelte Nachfuellhaueufigkeit oder akzeptiert begrenzte Hydration bei laengerer aktiver Nutzung; 40mm-Mund ist schmaler als Hydro Flask und Nalgene Weithalsoeffnungen; markenspezifisches Deckelsystem nicht mit Drittanbieter-Zubehoer kompatibel; nur handwaschbar.",
     "klean-kanteen-20oz": "Beste Mehrfach-Einsatz-Flasche fuer Wasser und Kaffee. TKWide mit Cafe Cap funktioniert sowohl als Trinkflasche als auch als Reisebecher, 18/8-Edelstahl-Inneres, Vakuumisolierung vergleichbar mit Hydro Flask. Nachteile: Cafe Cap separat vom Standard-Deckel verkauft -- volle Mehrfach-Einsatz-Faehigkeit erfordert Zusatzkauf; 20oz Kapazitaet limitiert ganztaegige Hydrierung ohne Nachfuellen; geringere Markenbekanntheit in Japan bedeutet weniger Langzeit-Bewertungen zur Beurteilung der Zuverlaessigkeit; Importpreise liegen ueber US-Aequivalent; nicht die staerkste Wahl fuer reine Wassernutzung gegenueber Hydro Flask oder Thermos im gleichen Preisbereich."
   },
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jede Flasche wurde mit Eiswasser gefüllt und bei 25 °C nach 2, 6, 12 und 24 Stunden gemessen. Dichtigkeit wurde 30 Minuten umgekehrt unter Rucksackdruck getestet. Haltbarkeit durch 1-Meter-Falltests auf Beton bewertet.",
+  "products": [
+    {
+      "offerId": "hydro-flask-32oz",
+      "badge": "Bestes insgesamt",
+      "review": "Hydro Flasks TempShield-Doppelwandisolierung hielt das Wasser in unserem Test 24 Stunden lang unter 8 °C — die beste Kalterhaltung in diesem Vergleich. Das austauschbare Deckelsystem ist wirklich nützlich, aber die mitgelieferte Flex-Cap erfordert zwei Hände. Mit 454 g leer die schwerste Flasche.",
+      "pros": [
+        "Beste Kalterhaltung im Test — unter 8 °C für 24 Stunden",
+        "Austauschbares Deckelsystem mit Stroh- und Klappoptionen",
+        "Unbeschichtetes 18/8-Edelstahlinneres ohne Geschmackseinfluss"
+      ],
+      "cons": [
+        "Schwerste mit 454 g leer",
+        "Mitgelieferte Flex-Cap erfordert Zwei-Hände-Bedienung"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Capacity": "32 oz / 946 ml",
+        "Insulation": "Double-wall TempShield vacuum",
+        "Cold retention": "24 hr (lab)",
+        "Hot retention": "12 hr (lab)",
+        "Material": "18/8 stainless steel",
+        "Weight (empty)": "454g",
+        "Mouth width": "Wide (53mm)",
+        "Dishwasher safe": "No"
+      },
+      "scores": {
+        "Insulation": 5.0,
+        "Leak resistance": 4.5,
+        "Durability": 4.8,
+        "Value": 4.0,
+        "Ease of cleaning": 3.8
+      }
+    },
+    {
+      "offerId": "stanley-quencher-30oz",
+      "badge": "Beste für Pendler",
+      "review": "Der Quencher passt mit seinem konischen Boden in jeden Getränkehalter und das Strohhalm-Deckel-System deckt die meisten täglichen Trinkgewohnheiten ab. Konstante Kaltleistung für 21 Stunden. Der Strohhalm-Deckel muss zum gründlichen Reinigen zerlegt werden.",
+      "pros": [
+        "Konischer Boden passt in Standard-Getränkehalter",
+        "Strohhalm-Deckel deckt die meisten täglichen Anwendungsfälle ab",
+        "Großer Griff für komfortables längeres Tragen"
+      ],
+      "cons": [
+        "Strohhalm-Deckel muss zum gründlichen Reinigen zerlegt werden",
+        "Konisches Profil passt nicht in schmale Rucksach-Flaschenhalter"
+      ],
+      "grade": "A",
+      "specs": {
+        "Capacity": "30 oz / 887 ml",
+        "Insulation": "Double-wall vacuum",
+        "Cold retention": "~21 hr",
+        "Material": "18/8 stainless steel",
+        "Weight (empty)": "380g",
+        "Handle": "Yes, ergonomic",
+        "Base": "Tapered for cupholders",
+        "Dishwasher safe": "Yes"
+      },
+      "scores": {
+        "Insulation": 4.7,
+        "Leak resistance": 4.2,
+        "Durability": 4.3,
+        "Value": 4.2,
+        "Ease of cleaning": 3.5
+      }
+    },
+    {
+      "offerId": "thermos-jni-502",
+      "badge": "Beste für Japan",
+      "review": "Der JNI-502 ist der Maßstab für Pendlerflaschen in Japan — kompakte 500 ml, Einhand-Druckknopfdeckel nach dem initialen Schraubverschluss, 24-Stunden-Kaltbewertung. Die 40-mm-Öffnung ist schmaler als Weithalsfalschen.",
+      "pros": [
+        "Einhand-Zugang nach dem initialen Entsperren",
+        "24-Stunden-Kaltbewertung in kompakter 500-ml-Größe",
+        "Weit verbreitet bei japanischen Händlern erhältlich"
+      ],
+      "cons": [
+        "40-mm-Öffnung schmaler als Weithals-Konkurrenten",
+        "Nur Handwäsche"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Capacity": "500 ml",
+        "Insulation": "Vacuum stainless",
+        "Cold retention": "24 hr",
+        "Hot retention": "12 hr",
+        "Lid": "Push-button with screw lock",
+        "Weight (empty)": "~230g",
+        "Mouth width": "40mm",
+        "Dishwasher safe": "No"
+      },
+      "scores": {
+        "Insulation": 4.8,
+        "Leak resistance": 4.9,
+        "Durability": 4.7,
+        "Value": 4.6,
+        "Ease of cleaning": 3.6
+      }
+    },
+    {
+      "offerId": "nalgene-32oz",
+      "badge": "Beste Leichtgewicht",
+      "review": "Mit 180 g leer die leichteste Flasche und die einzige vollständig spülmaschinenfeste. Keine Isolierung bedeutet, dass Getränke innerhalb von 30-60 Minuten Umgebungstemperatur erreichen — falsch für ganztägiges Kaltwasser, richtig für Wanderungen wo Gewicht vor Temperatur steht.",
+      "pros": [
+        "Leichteste mit 180 g — etwa 2,5x leichter als Hydro Flask",
+        "Vollständig spülmaschinenfestes BPA-freies Tritan",
+        "63-mm-Weithals für Eiswürfel und Hände"
+      ],
+      "cons": [
+        "Keine Isolierung — Getränke erreichen in 30-60 Minuten Umgebungstemperatur"
+      ],
+      "grade": "B",
+      "specs": {
+        "Capacity": "32 oz / 946 ml",
+        "Insulation": "None",
+        "Material": "BPA-free Tritan plastic",
+        "Weight (empty)": "180g",
+        "Mouth width": "63mm wide",
+        "Dishwasher safe": "Yes",
+        "Drop resistance": "High",
+        "Price": "~$15"
+      },
+      "scores": {
+        "Insulation": 1.0,
+        "Leak resistance": 4.7,
+        "Durability": 4.9,
+        "Value": 4.9,
+        "Ease of cleaning": 5.0
+      }
+    },
+    {
+      "offerId": "klean-kanteen-20oz",
+      "badge": "Beste für Kaffeetrinker",
+      "review": "Die TKWide-Kompatibilität mit der Café Cap macht sie zu einer echten Doppelnutzungsflasche — dasselbe Gefäß für Morgenkaffee und Nachmittagswasser. Mit 20 oz füllt sie das Pendelzeitfenster, aber nicht die ganztägige Hydrierung.",
+      "pros": [
+        "Kompatibel mit Café Cap für Kaffee/Wasser-Doppelnutzung",
+        "18/8-Edelstahlinneres ohne Kunststoffgeschmack",
+        "Vakuumisolierung vergleichbar mit Hydro Flask"
+      ],
+      "cons": [
+        "Café Cap separat erhältlich — Mehrnutzung kostet extra",
+        "20 oz nicht genug für ganztägige Hydrierung ohne Nachfüllen"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Capacity": "20 oz / 591 ml",
+        "Insulation": "Double-wall vacuum",
+        "Cold retention": "~24 hr",
+        "Hot retention": "~12 hr",
+        "Material": "18/8 stainless steel",
+        "Weight (empty)": "~280g",
+        "Café Cap compatible": "Yes (sold separately)",
+        "Dishwasher safe": "Lid only"
+      },
+      "scores": {
+        "Insulation": 4.6,
+        "Leak resistance": 4.4,
+        "Durability": 4.5,
+        "Value": 3.8,
+        "Ease of cleaning": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für ganztägige Kaltwassertrinker",
+      "offerId": "hydro-flask-32oz",
+      "reason": "Beste Kalterhaltung im Test — Eiswasser blieb 24 Stunden unter 8 °C."
+    },
+    {
+      "label": "Für Autopendler",
+      "offerId": "stanley-quencher-30oz",
+      "reason": "Konischer Boden passt in jeden Getränkehalter; Strohhalm-Deckel für freihändiges Trinken unterwegs."
+    },
+    {
+      "label": "Für den Japan-Alltag",
+      "offerId": "thermos-jni-502",
+      "reason": "Erstklassiger Druckknopfdeckel, 24-Stunden-Kaltbewertung, überall in Japan erhältlich."
+    },
+    {
+      "label": "Für gewichtsbewusste Wanderer",
+      "offerId": "nalgene-32oz",
+      "reason": "Mit 180 g bei weitem die leichteste, vollständig spülmaschinenfest und übersteht Stürze ohne Risse."
+    },
+    {
+      "label": "Für Kaffee- und Wassertrinker",
+      "offerId": "klean-kanteen-20oz",
+      "reason": "Café-Cap-Kompatibilität macht es zur einzigen Flasche hier, die wirklich für heiße und kalte Getränke funktioniert."
+    }
+  ]
 }

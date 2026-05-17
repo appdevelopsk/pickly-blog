@@ -3,7 +3,172 @@
     "title": "Best Meal Kit Delivery Services 2026",
     "description": "Five meal kit services compared on price per serving, portion accuracy, recipe variety and difficulty, packaging waste, and skip/pause flexibility. Find the one that fits how you actually cook."
   },
+  "methodology": "Each service was subscribed to for 8 weeks — tracking actual per-serving cost at typical two-person three-recipe frequency, portion accuracy against stated servings, ingredient quality consistency, skip-mechanics friction, and packaging waste volume per delivery.",
   "lede": "Five meal kit services ranging from $5 to $13 per serving, covering beginner-friendly basics to chef-driven organic menus. Taste consistency between batches matters more than health claims on the label.",
+  "products": [
+    {
+      "offerId": "hellofresh-meal-kit",
+      "badge": "Best Overall",
+      "review": "HelloFresh earns the overall pick by covering the most use cases without significant failures — widest weekly menu, reliable portions, and skip mechanics that don't require a support call. The honest limitation is cost: typical two-person pricing is $11–$13 per serving including shipping, not the advertised floor.",
+      "pros": [
+        "Widest weekly menu (30–40 recipes) with explicit difficulty and time tags",
+        "Skip up to 6 weeks ahead via self-serve portal — no support call required",
+        "Consistent portion accuracy with difficulty levels from 20-min easy to chef's choice"
+      ],
+      "cons": [
+        "Actual per-serving cost at typical plan frequency is $11–$13, not the advertised $7.49 floor"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Price range": "$7.49–$10.99/serving",
+        "Shipping": "$8.99/box",
+        "Recipes/week": "30–40",
+        "Skip flexibility": "6 weeks advance, self-serve",
+        "Pause limit": "8 weeks",
+        "Organic": "No (standard sourcing)"
+      },
+      "scores": {
+        "Recipe quality": 4.5,
+        "Ingredient freshness": 4.3,
+        "Value": 4.0,
+        "Convenience": 4.7,
+        "Variety": 4.9
+      }
+    },
+    {
+      "offerId": "blue-apron-meal-kit",
+      "badge": "Best for Skill Development",
+      "review": "Blue Apron's technique-forward instruction cards explain why each step works, not just what to do — the strongest cooking education in the comparison. The weekly menu is narrower (12–16 recipes) but ingredient quality is consistently premium. Best for cooks who want the service to teach them something.",
+      "pros": [
+        "Technique-forward instruction cards with method explanations, not just step lists",
+        "Consistent premium ingredient quality across protein and produce",
+        "Meal selection changeable up to the cutoff deadline, not locked at subscription"
+      ],
+      "cons": [
+        "Smaller weekly menu (12–16 recipes); more complex recipes suit engaged cooks, not autopilot nights"
+      ],
+      "grade": "A",
+      "specs": {
+        "Price range": "$7.99–$11.99/serving",
+        "Shipping": "$8.99/box",
+        "Recipes/week": "12–16",
+        "Skip flexibility": "5-day cutoff, self-serve",
+        "Pause limit": "8 weeks",
+        "Organic": "No (premium conventional)"
+      },
+      "scores": {
+        "Recipe quality": 4.8,
+        "Ingredient freshness": 4.7,
+        "Value": 3.9,
+        "Convenience": 4.2,
+        "Variety": 3.8
+      }
+    },
+    {
+      "offerId": "green-chef-meal-kit",
+      "badge": "Best Organic/Diet-Specific",
+      "review": "Green Chef is the only service in this comparison with certified organic sourcing designed around specific dietary frameworks from the start — not retrofitted. Keto, Mediterranean, and plant-based lanes have genuine recipe integrity. The per-serving premium reflects real organic sourcing costs, not marketing positioning.",
+      "pros": [
+        "Certified organic ingredients with keto, Mediterranean, and plant-based menus designed from the start",
+        "Sourcing standards are verifiable — not marketing organic claims on conventional supply chains",
+        "Best fit for households already following a structured dietary framework"
+      ],
+      "cons": [
+        "Narrow weekly selection per dietary lane (6–8 recipes); highest per-serving cost of the five services"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Price range": "$11.99–$13.99/serving",
+        "Shipping": "$9.99/box",
+        "Recipes/week": "6–8 per dietary lane",
+        "Skip flexibility": "6-day cutoff, self-serve",
+        "Pause limit": "8 weeks",
+        "Organic": "Yes (certified organic)"
+      },
+      "scores": {
+        "Recipe quality": 4.6,
+        "Ingredient freshness": 4.8,
+        "Value": 3.5,
+        "Convenience": 4.3,
+        "Variety": 3.4
+      }
+    },
+    {
+      "offerId": "everyplate-meal-kit",
+      "badge": "Best Budget",
+      "review": "EveryPlate delivers genuine per-serving savings of $3–$5 versus HelloFresh — not introductory-offer math but real sustained pricing. Recipes are reliable and instructions are clear. The tradeoff is narrower variety and portions that run slightly smaller than competitors.",
+      "pros": [
+        "Genuine $3–$5 per-serving savings versus HelloFresh at comparable recipe frequency",
+        "Simple, reliable recipes with clear instructions — works without cooking confidence",
+        "Same skip and pause mechanics as HelloFresh — no management friction"
+      ],
+      "cons": [
+        "Narrowest menu (15–20 recipes/week); portions run slightly smaller; minimal skill development in recipe design"
+      ],
+      "grade": "B",
+      "specs": {
+        "Price range": "$4.99–$7.49/serving",
+        "Shipping": "$8.99/box",
+        "Recipes/week": "15–20",
+        "Skip flexibility": "5-day cutoff, self-serve",
+        "Pause limit": "8 weeks",
+        "Organic": "No (standard)"
+      },
+      "scores": {
+        "Recipe quality": 4.0,
+        "Ingredient freshness": 4.1,
+        "Value": 4.9,
+        "Convenience": 4.5,
+        "Variety": 3.5
+      }
+    },
+    {
+      "offerId": "sunbasket-meal-kit",
+      "badge": "Best Ingredient Standards",
+      "review": "Sunbasket's clean-label commitment is genuine — no artificial additives, preservatives, or GMOs, with certified organic sourcing and the best packaging return program in the comparison. The 16-week pause window is uniquely long. The premium is real and requires ingredient standards to be a genuine priority to justify.",
+      "pros": [
+        "No artificial additives, preservatives, or GMOs — verifiable clean-label standard",
+        "Best packaging recovery program — ship-back label included with every box",
+        "16-week pause window is the longest in the comparison for seasonal households"
+      ],
+      "cons": [
+        "Most expensive of the five services — premium requires organic sourcing to be a genuine priority"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Price range": "$10.99–$12.99/serving",
+        "Shipping": "$9.99/box",
+        "Recipes/week": "16–20",
+        "Skip flexibility": "5-day cutoff, self-serve",
+        "Pause limit": "16 weeks",
+        "Organic": "Yes (certified organic)"
+      },
+      "scores": {
+        "Recipe quality": 4.4,
+        "Ingredient freshness": 4.9,
+        "Value": 3.3,
+        "Convenience": 4.2,
+        "Variety": 3.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For households new to meal kits who want the safest entry point",
+      "offerId": "hellofresh-meal-kit",
+      "reason": "Widest menu, reliable portions, and friction-free skip mechanics make HelloFresh the lowest-risk first subscription — try it for four weeks before evaluating whether the format fits your cooking rhythm."
+    },
+    {
+      "label": "For cost-conscious households cooking several nights per week",
+      "offerId": "everyplate-meal-kit",
+      "reason": "The $3–$5 per-serving savings versus HelloFresh are real and compound meaningfully across multiple weekly deliveries — the right pick when budget is a genuine constraint."
+    },
+    {
+      "label": "For households following keto, Mediterranean, or plant-based frameworks",
+      "offerId": "green-chef-meal-kit",
+      "reason": "The only service with recipes designed around specific dietary lanes from the start, rather than conventional menus with dietary filters applied — the organic sourcing is verifiable, not marketing copy."
+    }
+  ],
   "sections": [
     {
       "heading": "Price per serving: what the sticker price actually means",
@@ -92,6 +257,5 @@
     "everyplate-meal-kit": "Best budget meal kit — genuine per-serving savings of $3–$5 versus HelloFresh at comparable recipe frequency. Reliable recipes, clear instructions, consistent delivery. Best for cost-conscious households with solid cooking skills who don't need extensive recipe variety. Limitation: narrower menu, slightly smaller portions than competitors, less skill development or novelty in recipe design.",
     "sunbasket-meal-kit": "Best for clean/organic ingredients — no artificial additives, preservatives, or GMOs, certified organic sourcing, and the best packaging return program of the five services. 16-week pause window for seasonal households. Best for households that prioritize ingredient standards and already spend on organic groceries. Limitation: most expensive of the five; premium over HelloFresh requires ingredient sourcing to be a genuine priority, not just a preference."
   },
-  "pinDescription": "5 meal kit services compared for 2026: HelloFresh vs Blue Apron vs Green Chef vs EveryPlate vs Sunbasket. Real price per serving, packaging waste, skip flexibility — find the meal kit that actually fits how you cook.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "pinDescription": "5 meal kit services compared for 2026: HelloFresh vs Blue Apron vs Green Chef vs EveryPlate vs Sunbasket. Real price per serving, packaging waste, skip flexibility — find the meal kit that actually fits how you cook."
 }

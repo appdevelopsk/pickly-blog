@@ -53,5 +53,186 @@
     "hamilton-beach-40792-espresso": "Um die $50. Die gunstigste Pumpen-Espressomaschine in diesem Vergleich. 15-bar-Pumpe, 60-Sekunden-Aufwarzeit, akzeptiert gemahlenen Kaffee und ESE-Pods, einfacher Rohr-Dampfer. Geringste Bauqualitat; langste Aufwarzeit; Dampfer erfordert die meiste Technik zur guten Bedienung."
   },
   "pinDescription": "Funf Espressomaschinen unter $200 verglichen in 2026: De'Longhi EC155M, Breville Bambino, Nespresso Essenza Mini, Mr. Coffee ECMP50 und Hamilton Beach 40792. Pumpendruck erklart, Milchaufschaumung verglichen und welche Maschine wirklich fur eine Heimkuche kaufenswert ist. #Espresso #Kaffeemaschine #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jede Maschine wurde nach Espresso-Shot-Qualität (Druckkonsistenz, Crema, Extraktionsgleichmäßigkeit), Aufwärmzeit, Milchaufschäumfähigkeit, Verarbeitungsqualität und Gesamtbetriebskosten einschließlich Verbrauchsmaterialien bewertet.",
+  "products": [
+    {
+      "offerId": "breville-bambino-bes450",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Das ThermoJet-Heizsystem der Bambino erreicht 93°C in 3 Sekunden — keine andere Maschine unter $200 kommt beim Aufwärmen auch nur annähernd heran. Der 54-mm-Portafilter und der mitgelieferte nicht-druckbeaufschlagte Korb eröffnen echten Spielraum für Qualitätsespresso, wenn die Technik wächst. Der Kompromiss ist der Preis: bei $170 ist sie die teuerste in diesem Vergleich.",
+      "pros": [
+        "3-Sekunden-ThermoJet-Aufwärmung, schnellste in der Klasse",
+        "54-mm-Portafilter mit kommerziellem Durchmesser",
+        "Druckbeaufschlagter und nicht-druckbeaufschlagter Korb inklusive"
+      ],
+      "cons": [
+        "$170 liegt nahe an der Obergrenze des Unter-$200-Bereichs"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Preis": "~$170",
+        "Pumpe": "15 bar",
+        "Aufwärmzeit": "3 Sek.",
+        "Portafilter": "54 mm",
+        "Kessel": "ThermoJet",
+        "Dampfer": "Manuell",
+        "Gewicht": "4,5 kg"
+      },
+      "scores": {
+        "Espresso quality": 4.7,
+        "Ease of use": 4.2,
+        "Build quality": 4.6,
+        "Value": 4.0,
+        "Steam power": 4.3
+      }
+    },
+    {
+      "offerId": "delonghi-ec155m-espresso",
+      "badge": "Bestes Preis-Leistungs-Verhältnis",
+      "review": "Die EC155M für ~$80 bietet echten Espresso mit Flexibilität für ESE-Pods und gemahlenen Kaffee. Der Pannarello-Dampfer injiziert Luft automatisch, was Schaum für Anfänger viel einfacher macht. Die Qualitätsgrenze wird durch den druckbeaufschlagten Korb und den Thermoblock-Temperaturdrift bei Mehrfach-Shots begrenzt.",
+      "pros": [
+        "Akzeptiert ESE-Pods und gemahlenen Kaffee",
+        "Pannarello-Dampfer macht Schaum für Anfänger zugänglich",
+        "Starkes Preis-Leistungs-Verhältnis bei ~$80"
+      ],
+      "cons": [
+        "Druckbeaufschlagter Korb begrenzt die Qualitätsgrenze für Fortgeschrittene"
+      ],
+      "grade": "A",
+      "specs": {
+        "Preis": "~$80",
+        "Pumpe": "15 bar",
+        "Aufwärmzeit": "45 Sek.",
+        "Portafilter": "51 mm",
+        "Kessel": "Thermoblock",
+        "Dampfer": "Pannarello",
+        "Gewicht": "2,5 kg"
+      },
+      "scores": {
+        "Espresso quality": 3.9,
+        "Ease of use": 4.4,
+        "Build quality": 3.8,
+        "Value": 4.7,
+        "Steam power": 3.6
+      }
+    },
+    {
+      "offerId": "nespresso-essenza-mini-d30",
+      "badge": "Beste für Komfort",
+      "review": "Die Essenza Mini eliminiert jede Variable: 8 cm breit, 25-Sekunden-Aufwärmung und jedes Mal konsistente Crema mit OriginalLine-Kapseln. Der Kompromiss ist die Kapsel-Bindung bei $0,70–1,00 pro Stück und kein Dampfer — der Aeroccino-Aufschäumer ist ein $50-Zusatzkauf.",
+      "pros": [
+        "8-cm-Stellfläche — passt überall hin",
+        "19-bar-Pumpe mit konsistenter Crema pro Shot",
+        "Keinerlei Fachwissen erforderlich"
+      ],
+      "cons": [
+        "Kein eingebauter Dampfer",
+        "Proprietäre Kapseln zu $0,70–1,00 pro Stück"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Preis": "~$100",
+        "Pumpe": "19 bar",
+        "Aufwärmzeit": "25 Sek.",
+        "Format": "OriginalLine-Kapsel",
+        "Breite": "8 cm",
+        "Dampfer": "Keiner",
+        "Gewicht": "2,2 kg"
+      },
+      "scores": {
+        "Espresso quality": 3.8,
+        "Ease of use": 4.9,
+        "Build quality": 3.7,
+        "Value": 3.5,
+        "Steam power": 1.0
+      }
+    },
+    {
+      "offerId": "mr-coffee-ecmp50-espresso",
+      "badge": "Beste für Milchgetränke",
+      "review": "Die ECMP50 ist die einzige Maschine hier mit einem integrierten Ein-Knopf-Milchaufschäumer — Lattes und Cappuccinos ohne Dampftechnik. Aufwärmzeit 40–45 Sekunden, der druckbeaufschlagte Korb verarbeitet vorgemahlen gut. Kein Weg zu Profi-Espresso, aber unschlagbar für mühelose Milchgetränke bei ~$85.",
+      "pros": [
+        "Eingebauter automatischer Milchaufschäumer — keine Dampftechnik nötig",
+        "Doppelter Ausgang: dedizierter Dampfer plus Autoaufschäumer",
+        "~$85 Preispunkt"
+      ],
+      "cons": [
+        "Druckbeaufschlagter Korb begrenzt die Espressoqualitätsgrenze"
+      ],
+      "grade": "B",
+      "specs": {
+        "Preis": "~$85",
+        "Pumpe": "15 bar",
+        "Aufwärmzeit": "40–45 Sek.",
+        "Aufschäumer": "Eingebaut automatisch",
+        "Dampfer": "Ja",
+        "Portafilter": "Druckbeaufschlagt",
+        "Gewicht": "2,8 kg"
+      },
+      "scores": {
+        "Espresso quality": 3.5,
+        "Ease of use": 4.6,
+        "Build quality": 3.6,
+        "Value": 4.3,
+        "Steam power": 4.0
+      }
+    },
+    {
+      "offerId": "hamilton-beach-40792-espresso",
+      "badge": "Beste Budget-Option",
+      "review": "Bei ~$50 ist die 40792 die günstigste echte Pumpen-Espressomaschine in diesem Vergleich — kein Dampfdruck, eine echte 15-bar-Pumpe. Das Aufwärmen dauert 60 Sekunden und der einfache Rohr-Dampfer erfordert die meiste Technik, aber sie macht erkennbaren Espresso und das finanzielle Risiko beim Erstkauf ist minimal.",
+      "pros": [
+        "~$50 günstigste Pumpen-Espressomaschine",
+        "Akzeptiert gemahlenen Kaffee und ESE-Pods",
+        "Geringes finanzielles Risiko für den ersten Espresso-Kauf"
+      ],
+      "cons": [
+        "60-Sekunden-Aufwärmung — die längste in diesem Vergleich",
+        "Einfacher Rohr-Dampfer erfordert am meisten Technik"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Preis": "~$50",
+        "Pumpe": "15 bar",
+        "Aufwärmzeit": "60 Sek.",
+        "Portafilter": "Druckbeaufschlagt",
+        "Dampfer": "Einfaches Rohr",
+        "Gewicht": "2,0 kg",
+        "Pod-kompatibel": "ESE-Pods"
+      },
+      "scores": {
+        "Espresso quality": 3.2,
+        "Ease of use": 3.8,
+        "Build quality": 3.0,
+        "Value": 4.8,
+        "Steam power": 2.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für angehende Heimbaristas",
+      "offerId": "breville-bambino-bes450",
+      "reason": "ThermoJet-Aufwärmung und kommerzieller Portafilterdurchmesser bieten echten Spielraum für Technikentwicklung"
+    },
+    {
+      "label": "Für bestes Preis-Leistungs-Verhältnis bei ~$80",
+      "offerId": "delonghi-ec155m-espresso",
+      "reason": "ESE-Pod + gemahlener Kaffee Flexibilität mit anfängerfreundlichem Dampfer"
+    },
+    {
+      "label": "Für Kapsel-Komfort",
+      "offerId": "nespresso-essenza-mini-d30",
+      "reason": "Keine Variablen, kleine Stellfläche, konsistente Crema — keine Technik erforderlich"
+    },
+    {
+      "label": "Für einfache Milchgetränke",
+      "offerId": "mr-coffee-ecmp50-espresso",
+      "reason": "Eingebauter automatischer Aufschäumer liefert Lattes ohne Dampfertechnik"
+    },
+    {
+      "label": "Für absolute Einsteiger mit kleinem Budget",
+      "offerId": "hamilton-beach-40792-espresso",
+      "reason": "Günstigste Pumpen-Espressomaschine mit minimalem finanziellem Risiko"
+    }
+  ]
 }

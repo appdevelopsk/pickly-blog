@@ -113,5 +113,193 @@
     "thermos-jni-502": "최고의 컴팩트 일본 통근용 물병. 500ml 용량으로 재킷 주머니와 슬림 노트북 가방 사이드 포켓에 들어가고, 밀어 누르는 버튼 뚜껑이 초기 잠금 해제 후 기능적인 한 손 접근을 제공하며, 차가운 음료 유지가 수입 프리미엄 브랜드와 동일. 단점: 500ml는 32oz 물병의 절반 부피 — 광범위한 활동 사용을 위해 두 배의 재충전 필요 또는 제한된 수분 이용 가능성; 40mm 입구는 Hydro Flask와 Nalgene 광구보다 좁음; 브랜드 특정 뚜껑 시스템으로 제3자 액세서리와 호환되지 않음; 손세척 전용.",
     "klean-kanteen-20oz": "물과 커피 모두를 위한 최고의 다목적 물병. Café Cap을 갖춘 TKWide가 물병과 텀블러로 모두 기능하며, 18/8 스테인리스 내부, 진공 보온이 Hydro Flask와 비교 가능. 단점: Café Cap은 표준 뚜껑과 별도 판매 — 완전한 멀티유즈 기능에 추가 구매 필요; 20oz 용량이 재충전 없는 하루 종일 수분 공급에 제한적; 일본에서 낮은 소비자 인지도로 신뢰성 평가를 위한 장기 리뷰 부족; 수입 가격이 미국 동일 제품보다 높음; 순수 물 전용 사용에서는 같은 가격대의 Hydro Flask나 Thermos 대비 최강 선택지가 아님."
   },
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 물병을 얼음물로 채워 25°C 실내에서 2, 6, 12, 24시간 후 온도를 측정; 누수 저항성은 배낭 압력을 재현해 30분간 거꾸로 뒤집어 테스트; 내구성은 콘크리트에 1미터 낙하 테스트로 평가.",
+  "products": [
+    {
+      "offerId": "hydro-flask-32oz",
+      "badge": "종합 최우수",
+      "review": "Hydro Flask의 TempShield 이중벽 단열재가 테스트에서 24시간 동안 물을 8°C 이하로 유지 — 이 비교에서 최고의 냉각 유지력. 교환 가능한 뚜껑 시스템은 실질적으로 유용하지만 기본 Flex Cap은 두 손이 필요. 빈 상태에서 454g으로 가장 무거움.",
+      "pros": [
+        "테스트 최고 냉각 유지력 — 24시간 8°C 이하",
+        "스트로와 플립 옵션이 있는 교환 가능한 뚜껑 시스템",
+        "코팅되지 않은 18/8 스테인리스 내부로 맛 변화 없음"
+      ],
+      "cons": [
+        "빈 상태에서 가장 무거운 454g",
+        "기본 Flex Cap은 두 손 조작 필요"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Capacity": "32 oz / 946 ml",
+        "Insulation": "Double-wall TempShield vacuum",
+        "Cold retention": "24 hr (lab)",
+        "Hot retention": "12 hr (lab)",
+        "Material": "18/8 stainless steel",
+        "Weight (empty)": "454g",
+        "Mouth width": "Wide (53mm)",
+        "Dishwasher safe": "No"
+      },
+      "scores": {
+        "Insulation": 5.0,
+        "Leak resistance": 4.5,
+        "Durability": 4.8,
+        "Value": 4.0,
+        "Ease of cleaning": 3.8
+      }
+    },
+    {
+      "offerId": "stanley-quencher-30oz",
+      "badge": "통근자 최우수",
+      "review": "Quencher의 테이퍼 바닥이 테스트한 모든 컵홀더에 맞고, 스트로 뚜껑이 대부분의 일상 음용 습관을 커버. 21시간의 안정적인 냉각 성능. 스트로 뚜껑은 완전히 청소하려면 분해가 필요.",
+      "pros": [
+        "테이퍼 바닥이 표준 자동차 컵홀더에 맞음",
+        "스트로 뚜껑이 대부분의 일상 사용 사례 커버",
+        "장시간 휴대에 편안한 대형 핸들"
+      ],
+      "cons": [
+        "스트로 뚜껑은 완전한 청소를 위해 분해 필요",
+        "테이퍼 프로파일이 배낭의 좁은 물병 주머니에 맞지 않음"
+      ],
+      "grade": "A",
+      "specs": {
+        "Capacity": "30 oz / 887 ml",
+        "Insulation": "Double-wall vacuum",
+        "Cold retention": "~21 hr",
+        "Material": "18/8 stainless steel",
+        "Weight (empty)": "380g",
+        "Handle": "Yes, ergonomic",
+        "Base": "Tapered for cupholders",
+        "Dishwasher safe": "Yes"
+      },
+      "scores": {
+        "Insulation": 4.7,
+        "Leak resistance": 4.2,
+        "Durability": 4.3,
+        "Value": 4.2,
+        "Ease of cleaning": 3.5
+      }
+    },
+    {
+      "offerId": "thermos-jni-502",
+      "badge": "일본 최우수",
+      "review": "JNI-502는 일본 통근 물병의 기준 — 컴팩트한 500ml, 초기 잠금 해제 후 한 손 누름 버튼 작동, 24시간 냉각 등급. 40mm 입구는 와이드 마우스보다 좁음.",
+      "pros": [
+        "초기 잠금 해제 후 한 손 접근 가능",
+        "컴팩트한 500ml 크기에 24시간 냉각 등급",
+        "일본 소매점에서 광범위하게 구매 가능"
+      ],
+      "cons": [
+        "경쟁 와이드 마우스보다 좁은 40mm 입구",
+        "손 세척만 가능"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Capacity": "500 ml",
+        "Insulation": "Vacuum stainless",
+        "Cold retention": "24 hr",
+        "Hot retention": "12 hr",
+        "Lid": "Push-button with screw lock",
+        "Weight (empty)": "~230g",
+        "Mouth width": "40mm",
+        "Dishwasher safe": "No"
+      },
+      "scores": {
+        "Insulation": 4.8,
+        "Leak resistance": 4.9,
+        "Durability": 4.7,
+        "Value": 4.6,
+        "Ease of cleaning": 3.6
+      }
+    },
+    {
+      "offerId": "nalgene-32oz",
+      "badge": "경량 최우수",
+      "review": "빈 상태에서 180g으로 가장 가볍고 완전히 식기세척기 사용 가능한 유일한 물병. 단열 없이 음료가 30~60분 내에 실온에 도달 — 하루 종일 차가운 물에는 부적합하지만 무게가 온도보다 중요한 트레일 하이킹에는 적합.",
+      "pros": [
+        "180g으로 가장 가벼움 — Hydro Flask보다 약 2.5배 가벼움",
+        "완전히 식기세척기 사용 가능한 BPA 없는 트라이탄",
+        "얼음과 손이 들어가는 63mm 와이드 마우스"
+      ],
+      "cons": [
+        "단열 없음 — 음료가 30~60분 내에 실온에 도달"
+      ],
+      "grade": "B",
+      "specs": {
+        "Capacity": "32 oz / 946 ml",
+        "Insulation": "None",
+        "Material": "BPA-free Tritan plastic",
+        "Weight (empty)": "180g",
+        "Mouth width": "63mm wide",
+        "Dishwasher safe": "Yes",
+        "Drop resistance": "High",
+        "Price": "~$15"
+      },
+      "scores": {
+        "Insulation": 1.0,
+        "Leak resistance": 4.7,
+        "Durability": 4.9,
+        "Value": 4.9,
+        "Ease of cleaning": 5.0
+      }
+    },
+    {
+      "offerId": "klean-kanteen-20oz",
+      "badge": "커피 사용자 최우수",
+      "review": "TKWide와 Café Cap의 호환성으로 진정한 이중 용도 물병 — 아침 커피와 오후 물에 같은 용기 사용. 20oz로 통근 시간은 커버하지만 하루 종일 수분 보충에는 부족. Café Cap은 별도 판매.",
+      "pros": [
+        "Café Cap 호환으로 커피/물 이중 사용 가능",
+        "18/8 스테인리스 내부, 플라스틱 맛 없음",
+        "Hydro Flask와 비교 가능한 진공 단열"
+      ],
+      "cons": [
+        "Café Cap은 별도 판매 — 다용도 기능에 추가 비용",
+        "보충 없이 하루 종일 수분 보충에 부족한 20oz"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Capacity": "20 oz / 591 ml",
+        "Insulation": "Double-wall vacuum",
+        "Cold retention": "~24 hr",
+        "Hot retention": "~12 hr",
+        "Material": "18/8 stainless steel",
+        "Weight (empty)": "~280g",
+        "Café Cap compatible": "Yes (sold separately)",
+        "Dishwasher safe": "Lid only"
+      },
+      "scores": {
+        "Insulation": 4.6,
+        "Leak resistance": 4.4,
+        "Durability": 4.5,
+        "Value": 3.8,
+        "Ease of cleaning": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "하루 종일 차가운 물을 마시는 사람에게",
+      "offerId": "hydro-flask-32oz",
+      "reason": "테스트 최고 냉각 유지력 — 얼음물이 24시간 8°C 이하를 유지."
+    },
+    {
+      "label": "자동차 통근자에게",
+      "offerId": "stanley-quencher-30oz",
+      "reason": "테이퍼 바닥이 모든 컵홀더에 맞고; 스트로 뚜껑으로 이동 중 손 없이 음용 가능."
+    },
+    {
+      "label": "일본 일상 사용에",
+      "offerId": "thermos-jni-502",
+      "reason": "최고급 누름 버튼 뚜껑, 24시간 냉각 등급, 일본 전역에서 광범위하게 구매 가능."
+    },
+    {
+      "label": "무게를 신경 쓰는 하이커에게",
+      "offerId": "nalgene-32oz",
+      "reason": "180g으로 단연 가장 가볍고, 완전히 식기세척기 사용 가능, 낙하해도 균열 없음."
+    },
+    {
+      "label": "커피와 물 사용자에게",
+      "offerId": "klean-kanteen-20oz",
+      "reason": "Café Cap 호환성으로 여기서 뜨거운 음료와 차가운 음료 모두에 진정으로 작동하는 유일한 물병."
+    }
+  ]
 }

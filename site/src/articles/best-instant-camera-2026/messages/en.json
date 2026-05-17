@@ -109,5 +109,62 @@
     "canon-ivy-cliq-plus-2": "Canon IVY CLIQ+2 — ZINK zero-ink thermal paper, 51×76mm (2×3 inch) prints, Bluetooth app with editing and AR effects, 2-inch selfie mirror, approximately ¥15,000. Available on Rakuten Ichiba. 51×76mm prints are the smallest in this comparison — even smaller than Instax Mini at 62×46mm image area; ZINK paper colors can appear less saturated and less 'photographic' than silver halide film; the in-camera shoot quality is lower than using the smartphone camera; ZINK thermal process produces uneven color in cold environments; at ¥15,000 the price is premium relative to the Kodak Mini Shot at ¥10,000 which produces larger prints with lower per-print running costs."
   },
   "pinDescription": "5 instant cameras compared for 2026 — Instax Mini 12 auto-everything vs Instax Wide 300 group shots vs Polaroid Now+ creative app vs Kodak Mini Shot 3 Retro smartphone hybrid vs Canon IVY CLIQ+2 ZINK. Film cost math, print size reality, Japan market context Your next instant camera starts here.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each camera was scored on actual print dimensions and image quality from silver halide vs thermal vs ZINK processes, running cost per print in Japan, ease of use without app dependency, build quality from owner durability reports, and connectivity features assessed against real use cases.",
+  "products": [
+    {
+      "offerId": "fujifilm-instax-mini-12",
+      "badge": "Best Overall",
+      "review": "The Instax Mini 12 is the best-selling instant camera for a reason — fully automatic exposure, close-up mode, selfie mirror, and 133g body at ~¥8,000. Mini film prints (62×46mm image area) are pocket-sized and the ecosystem is the most widely available in Japan. The concrete limitation is print size: 62×46mm is genuinely small and unsuitable for group photos or landscape subjects.",
+      "pros": ["Fully automatic exposure — point and shoot, no settings to manage", "Mini film is the most widely available instant film in Japan", "133g body — lightest camera in this comparison; pocket-friendly"],
+      "cons": ["62×46mm image area is very small — unsuitable for group photos or landscapes; no manual exposure control"],
+      "grade": "A+",
+      "specs": {"Print format": "Instax Mini (62×46mm image)", "Exposure": "Fully automatic", "Close-up mode": "Yes (0.3m)", "Selfie mirror": "Yes", "Battery": "AA x2", "Weight": "133g", "Price (JP)": "~¥8,000"},
+      "scores": {"Print quality": 4.2, "Film cost": 4.5, "Ease of use": 5.0, "Value": 4.8, "Build quality": 4.0}
+    },
+    {
+      "offerId": "fujifilm-instax-wide-300",
+      "badge": "Best for Groups",
+      "review": "Instax Wide 300 prints are 99×62mm — approximately 60% larger image area than Instax Mini — making it the right choice for group photos, landscapes, and situations where print size matters. The 5-position exposure dial adds manual compensation the Mini 12 lacks. The concrete limitations: large non-pocketable body and no smartphone connectivity.",
+      "pros": ["99×62mm Wide prints — 60% more image area than Instax Mini, right for groups and landscapes", "5-position exposure compensation dial — manual control the Mini 12 lacks", "Wide film at ~¥90–¥110/print competitive with Mini film cost"],
+      "cons": ["Large non-pocketable body; dated exterior design; no smartphone connectivity; no close-up mode"],
+      "grade": "A",
+      "specs": {"Print format": "Instax Wide (99×62mm image)", "Exposure": "5-position dial + auto", "Battery": "AAA x4", "Selfie mirror": "No", "Weight": "~610g", "Price (JP)": "~¥12,000", "Film cost": "~¥90–¥110/print"},
+      "scores": {"Print quality": 4.5, "Film cost": 4.3, "Ease of use": 4.0, "Value": 4.2, "Build quality": 4.0}
+    },
+    {
+      "offerId": "polaroid-now-plus",
+      "badge": "Best for Creative Shooting",
+      "review": "Polaroid Now+ adds Bluetooth app connectivity for double exposure, multiple exposure, light painting, self-timer, and manual focus zones — creative capabilities unavailable on any Fujifilm Instax. i-Type film produces square prints (~79×79mm) with the classic white border. The concrete limitation is cost: i-Type film runs ¥190–¥225/print in Japan, 2.5–3x the cost of Instax Mini film.",
+      "pros": ["Bluetooth app enables double/multiple exposure, light painting — no other camera in this comparison offers these", "Classic square i-Type format with white border — distinctive aesthetic", "Manual focus zones (portrait + landscape) — control unavailable on auto-only cameras"],
+      "cons": ["i-Type film costs ¥190–¥225/print in Japan — 2.5–3x Instax Mini cost; limited Japan convenience store availability"],
+      "grade": "B+",
+      "specs": {"Print format": "i-Type (~79×79mm square + white border)", "Connectivity": "Bluetooth app", "Creative modes": "Double/multiple exposure, light painting, timer", "Focus zones": "2 manual zones", "Battery": "Internal rechargeable", "Price (JP)": "~¥18,000", "Film cost (JP)": "~¥190–¥225/print"},
+      "scores": {"Print quality": 4.3, "Film cost": 2.5, "Ease of use": 3.8, "Value": 3.5, "Build quality": 4.2}
+    },
+    {
+      "offerId": "kodak-mini-shot-3-retro",
+      "badge": "Best Hybrid",
+      "review": "The Kodak Mini Shot 3 Retro is a hybrid: it shoots as an instant camera and also prints photos from your smartphone via Bluetooth app. 4PASS dye-sublimation printing produces laminated 68×84mm prints at ~¥30–¥36 each — the lowest running cost in this comparison. The concrete limitation is print speed: 30–45 seconds per print is the slowest in this comparison.",
+      "pros": ["Lowest running cost — ~¥30–¥36/print with 50-pack cartridges vs ¥75–¥90 for Instax Mini", "Hybrid camera + smartphone printer — print from phone camera and built-in camera", "Laminated dye-sublimation prints with longer archival life than silver halide"],
+      "cons": ["30–45 seconds per print — slowest in comparison; Bluetooth reliability issues reported; non-standard 68×84mm frame"],
+      "grade": "B",
+      "specs": {"Print format": "68×84mm laminate (4PASS dye-sub)", "Connectivity": "Bluetooth (smartphone printing)", "Print speed": "30–45 seconds", "Film cost": "~¥30–¥36/print (50-pack)", "Battery": "Internal USB-C", "Weight": "~220g", "Price (JP)": "~¥10,000"},
+      "scores": {"Print quality": 4.0, "Film cost": 5.0, "Ease of use": 3.5, "Value": 4.5, "Build quality": 3.8}
+    },
+    {
+      "offerId": "canon-ivy-cliq-plus-2",
+      "badge": "Best Smartphone Integration",
+      "review": "Canon IVY CLIQ+2 uses ZINK zero-ink thermal paper for 51×76mm prints and integrates tightly with its Bluetooth app for editing and AR effects before printing. The 2-inch selfie mirror is the largest in this comparison. The concrete limitation is print size: 51×76mm is the smallest in this comparison — smaller than even Instax Mini's 62×46mm image area — and ZINK colors are less saturated than silver halide film.",
+      "pros": ["Largest selfie mirror in this comparison — 2 inches", "Bluetooth app enables editing and AR effects before printing", "ZINK zero-ink — no cartridges or film packs needed"],
+      "cons": ["51×76mm prints smallest in comparison (smaller than Instax Mini); ZINK colors less saturated; ¥15,000 premium over Kodak for smaller output"],
+      "grade": "B-",
+      "specs": {"Print format": "ZINK 51×76mm (2×3 inch)", "Connectivity": "Bluetooth app", "Selfie mirror": "2 inches", "Ink type": "Zero-ink ZINK thermal", "Film cost": "~¥35–¥45/print", "Battery": "Internal rechargeable", "Price (JP)": "~¥15,000"},
+      "scores": {"Print quality": 3.5, "Film cost": 3.5, "Ease of use": 4.2, "Value": 3.3, "Build quality": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For parties, gifts, and first-time instant camera buyers", "offerId": "fujifilm-instax-mini-12", "reason": "Fully automatic, widest film availability in Japan, lightest body — lowest barrier to entry for instant photography."},
+    {"label": "For group photos and travel where print size matters", "offerId": "fujifilm-instax-wide-300", "reason": "Wide format prints at 99×62mm are 60% more image area than Mini — the only option that does justice to group shots."},
+    {"label": "For smartphone users wanting lowest running costs", "offerId": "kodak-mini-shot-3-retro", "reason": "Hybrid camera + printer at ~¥30–¥36/print is the lowest cost per print with no meaningful trade-off in print quality vs Instax."}
+  ]
 }

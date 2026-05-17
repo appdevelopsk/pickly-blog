@@ -58,5 +58,144 @@
     "pezzetti-italexpress-moka": "Budget stainless steel Italian-made moka pot. $20-30. Best entry-level moka pot — functionally equivalent brewing mechanism at lower cost. Correct for first-time moka pot users before committing to a premium version."
   },
   "pinDescription": "Moka pot comparison 2026: Bialetti Moka Express vs Brikka vs Cuisinox vs Ilsa vs Pezzetti — stovetop espresso pressure, crema production, aluminum vs stainless, and what moka pot coffee actually is vs real espresso.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each moka pot was evaluated on brew pressure and extraction character, material build quality, induction compatibility, size range available, and how closely it reproduces the concentrated flavor profile that defines stovetop espresso.",
+  "products": [
+    {
+      "offerId": "bialetti-moka-express",
+      "badge": "Best Overall",
+      "review": "The original 8-sided aluminum Moka Express has defined stovetop espresso since 1933. Its food-grade aluminum alloy conducts heat evenly across the base, and a well-seasoned pot produces a characteristic sweetness that stainless alternatives rarely match. Available in 1–12 cup sizes; hand-wash only and not induction-compatible without an adapter.",
+      "pros": ["Category-defining flavor profile with a seasoned aluminum body", "Widest size range: 1 to 12 cups", "Affordable at $25–45 and widely available"],
+      "cons": ["Hand-wash only; not induction-compatible without adapter"],
+      "grade": "A+",
+      "specs": {
+        "Material": "Food-grade aluminum",
+        "Sizes available": "1, 2, 3, 6, 9, 12 cup",
+        "Induction": "No (adapter required)",
+        "Dishwasher safe": "No",
+        "Pressure": "~1–2 bar",
+        "Price range": "$25–45"
+      },
+      "scores": {
+        "Brew intensity": 4.7,
+        "Build quality": 4.3,
+        "Ease of use": 4.8,
+        "Value": 5.0,
+        "Capacity options": 5.0
+      }
+    },
+    {
+      "offerId": "bialetti-brikka",
+      "badge": "Best for Milk Drinks",
+      "review": "The Brikka adds a weighted pressure valve that builds higher back-pressure before releasing, producing a crema-like foam on the brew. Not espresso crema by chemistry, but the textural improvement makes lattes and cappuccinos noticeably better. Available only in 2-cup and 4-cup; the pressurized valve demands more precise heat timing than the standard Moka Express.",
+      "pros": ["Pressurized valve creates crema-like foam for milk drinks", "Stainless steel — induction compatible", "Denser, fuller-bodied cup than standard moka"],
+      "cons": ["Only 2-cup and 4-cup — no large-batch option"],
+      "grade": "A",
+      "specs": {
+        "Material": "Stainless steel",
+        "Sizes available": "2, 4 cup",
+        "Induction": "Yes",
+        "Dishwasher safe": "No",
+        "Pressure": "~2–3 bar (pressurized valve)",
+        "Price range": "$40–60"
+      },
+      "scores": {
+        "Brew intensity": 5.0,
+        "Build quality": 4.6,
+        "Ease of use": 4.2,
+        "Value": 4.1,
+        "Capacity options": 3.0
+      }
+    },
+    {
+      "offerId": "cuisinox-roma-moka-pot",
+      "badge": "Best Stainless",
+      "review": "The Cuisinox Roma is the most practical stainless alternative to the aluminum Moka Express — induction-compatible, dishwasher-safe, and free of any flavor interaction between coffee acids and aluminum. Slightly slower to heat than aluminum, but extraction consistency is reliable and maintenance is minimal.",
+      "pros": ["Stainless steel — induction compatible and dishwasher safe", "No flavor interaction between metal and coffee acids", "Consistent extraction with low maintenance"],
+      "cons": ["Slower to heat than aluminum; slightly higher price than Moka Express"],
+      "grade": "B+",
+      "specs": {
+        "Material": "Stainless steel",
+        "Sizes available": "1, 2, 3, 6 cup",
+        "Induction": "Yes",
+        "Dishwasher safe": "Yes",
+        "Pressure": "~1–2 bar",
+        "Price range": "$40–60"
+      },
+      "scores": {
+        "Brew intensity": 4.3,
+        "Build quality": 4.8,
+        "Ease of use": 4.7,
+        "Value": 4.0,
+        "Capacity options": 4.0
+      }
+    },
+    {
+      "offerId": "ilsa-stovetop-espresso-maker",
+      "badge": "Best Italian Alternative",
+      "review": "Italian-made stainless steel with a slightly different valve geometry than Bialetti — some drinkers describe the brew as marginally smoother. Available in 1–12 cup sizes like the Moka Express, at a price between Pezzetti and Cuisinox. A solid option for stainless-preferring users who want the widest size range.",
+      "pros": ["Italian-made stainless in 1–12 cup sizes", "Slightly different valve geometry — marginally smoother brew than aluminum", "Good size flexibility"],
+      "cons": ["No notable advantage over Cuisinox Roma at similar price"],
+      "grade": "B",
+      "specs": {
+        "Material": "Stainless steel",
+        "Sizes available": "1, 2, 3, 6, 9, 12 cup",
+        "Induction": "Check model",
+        "Dishwasher safe": "Not recommended",
+        "Pressure": "~1–2 bar",
+        "Price range": "$35–55"
+      },
+      "scores": {
+        "Brew intensity": 4.2,
+        "Build quality": 4.5,
+        "Ease of use": 4.6,
+        "Value": 4.2,
+        "Capacity options": 4.8
+      }
+    },
+    {
+      "offerId": "pezzetti-italexpress-moka",
+      "badge": "Best Budget Entry",
+      "review": "The Pezzetti Italexpress is an Italian-made stainless moka pot at $20–30 — the lowest price in this comparison for a proper brewing mechanism. Construction is simpler than Bialetti Brikka or Cuisinox, but the brewing physics are equivalent. The right first moka pot before committing to a premium option.",
+      "pros": ["Lowest price in this comparison — $20–30", "Italian-made stainless steel with functional brewing mechanism", "Good first-time purchase before upgrading"],
+      "cons": ["Simpler construction and fewer size options than premium alternatives"],
+      "grade": "B-",
+      "specs": {
+        "Material": "Stainless steel",
+        "Sizes available": "2, 4, 6 cup",
+        "Induction": "Check model",
+        "Dishwasher safe": "Not recommended",
+        "Pressure": "~1–2 bar",
+        "Price range": "$20–30"
+      },
+      "scores": {
+        "Brew intensity": 4.0,
+        "Build quality": 3.6,
+        "Ease of use": 4.5,
+        "Value": 5.0,
+        "Capacity options": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For black coffee drinkers wanting the classic moka flavor",
+      "offerId": "bialetti-moka-express",
+      "reason": "The seasoned aluminum body and original valve geometry produce the flavor that defines stovetop espresso — no other pot replicates it exactly."
+    },
+    {
+      "label": "For milk-drink enthusiasts",
+      "offerId": "bialetti-brikka",
+      "reason": "The pressurized valve creates crema-like foam that adds real texture to moka lattes and cappuccinos — a meaningful upgrade if you blend moka with milk daily."
+    },
+    {
+      "label": "For induction cooktop users",
+      "offerId": "cuisinox-roma-moka-pot",
+      "reason": "Induction-compatible and dishwasher-safe — the most practical option for modern kitchens without a gas burner."
+    },
+    {
+      "label": "For first-time moka pot buyers",
+      "offerId": "pezzetti-italexpress-moka",
+      "reason": "Try the brewing method at $20–30 before deciding whether to invest in a Bialetti or Cuisinox — the mechanism is functionally equivalent."
+    }
+  ]
 }

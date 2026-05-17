@@ -61,5 +61,64 @@
     "bare-bones-broth": "Clean 4-ingredient formula, grass-fed beef, woman-owned brand"
   },
   "pinDescription": "5 best bone broths ranked by protein, collagen, and sourcing — from everyday shelf-stable to premium glass-bottled. Find the right pick for gut health, joints, or cooking.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "kettle-fire-beef-broth",
+      "badge": "Best Overall",
+      "review": "Kettle & Fire is the best shelf-stable bone broth for everyday use: grass-fed beef bones, 10g protein per serving, a short ingredient list, and a Tetra Pak carton that lives in your pantry without refrigerator space. The flavor is savory and clean — mild enough to sip, substantial enough as a braising base. The UHT processing slightly reduces some amino acids versus fresh options, but the convenience trade-off is real and meaningful.",
+      "pros": ["Shelf-stable — no refrigerator space needed", "10g protein per serving from grass-fed bones", "Short, recognizable ingredient list with organic vegetables"],
+      "cons": ["UHT processing may reduce some amino acid concentration vs. refrigerated options"],
+      "grade": "A+",
+      "specs": {"Protein": "10g per serving", "Format": "Tetra Pak (shelf-stable)", "Bones": "Grass-fed beef", "Serving size": "1 cup (240 ml)", "Organic veg": "Yes"},
+      "scores": {"Quality": 4.5, "Taste": 4.3, "Value": 4.4, "Nutrition": 4.4, "Convenience": 4.9}
+    },
+    {
+      "offerId": "fond-bone-broth",
+      "badge": "Best Premium",
+      "review": "FOND is the bone broth for people who've read every label: pasture-raised, organic-certified, glass bottles, ships refrigerated. It sets to a firm jelly when chilled — the reliable indicator of genuinely high gelatin content. The herb-forward flavor from slow-simmered thyme, rosemary, and bay is rich enough to use as a finished consommé, which can overpower neutral cooking applications. Worth the premium if collagen content is the point.",
+      "pros": ["Sets firm when cold — confirmed high gelatin and collagen content", "Glass bottles — no plastic leaching when heated", "Pasture-raised, organic-certified sourcing"],
+      "cons": ["Roughly twice the price of Kettle & Fire — ships refrigerated only"],
+      "grade": "A",
+      "specs": {"Protein": "~9–10g per serving", "Format": "Glass bottle (refrigerated)", "Bones": "Pasture-raised, organic-certified", "Gelatin": "Sets firm when chilled", "Simmer": "Slow-simmered with herbs"},
+      "scores": {"Quality": 4.9, "Taste": 4.7, "Value": 3.2, "Nutrition": 4.8, "Convenience": 3.5}
+    },
+    {
+      "offerId": "pacific-foods-bone-broth",
+      "badge": "Best Everyday Value",
+      "review": "Pacific Foods is the bone broth you can grab at Costco or Target without planning — USDA organic certified, around $5–7 per 32 oz carton. Protein runs 9–10g per serving and flavor is clean and neutral, which makes it better than FOND for cooking applications where herb complexity would compete. The gelatin content is lower (doesn't set firm when cold), so it's less suited to dedicated gut-healing protocols.",
+      "pros": ["USDA Organic at mainstream retail prices", "Widely available at Costco, Target, and most grocery chains", "Neutral flavor ideal for cooking applications"],
+      "cons": ["Doesn't gel when cold — lower gelatin concentration than premium alternatives"],
+      "grade": "B+",
+      "specs": {"Protein": "9–10g per serving", "Format": "Tetra Pak (shelf-stable)", "Certification": "USDA Organic", "Retail": "Widely available", "Low sodium": "Option available"},
+      "scores": {"Quality": 3.9, "Taste": 3.8, "Value": 4.7, "Nutrition": 3.9, "Convenience": 4.8}
+    },
+    {
+      "offerId": "ancient-nutrition-bone-broth",
+      "badge": "Best for Collagen Dose",
+      "review": "Ancient Nutrition takes a different approach — powder format delivering 20g collagen protein per serving from bovine, chicken, fish, and egg white sources, versus the 7–12g you'd get from most liquid broths. Mixes cleanly in hot or cold liquids. The honest limitation: this is a collagen supplement packaged under the bone broth brand umbrella, not a broth with depth of flavor or aromatics.",
+      "pros": ["20g collagen protein per serving — highest of any option here", "Multi-source collagen (bovine, chicken, fish, egg white)", "Mixes without clumping in hot or cold liquids"],
+      "cons": ["No broth flavor, aromatics, or cooking utility — it's a supplement, not a broth"],
+      "grade": "B",
+      "specs": {"Protein": "20g collagen per serving", "Format": "Powder", "Collagen sources": "Bovine, chicken, fish, egg white", "Flavor options": "Unflavored, chocolate, vanilla", "Availability": "Costco, Walmart, supplement retailers"},
+      "scores": {"Quality": 4.2, "Taste": 3.5, "Value": 4.0, "Nutrition": 4.9, "Convenience": 4.5}
+    },
+    {
+      "offerId": "bare-bones-broth",
+      "badge": "Best Clean Label",
+      "review": "Bare Bones uses a four-ingredient formula — bones, water, apple cider vinegar, sea salt — with no natural flavors, yeast extract, or stabilizers. 100% grass-fed beef, soft jelly when chilled (confirming real gelatin content), 10g protein per serving. The broth is direct and beefy without being heavy, suited equally to sipping and cooking. Price sits between mass-market and FOND, hitting a reasonable middle ground.",
+      "pros": ["4-ingredient formula — no natural flavors or stabilizers", "Soft jelly when chilled — meaningful gelatin content", "Woman-owned, mission-driven brand with traceable sourcing"],
+      "cons": ["Less widely distributed than Pacific Foods or Kettle & Fire"],
+      "grade": "B-",
+      "specs": {"Protein": "10g per serving", "Format": "Tetra Pak (shelf-stable) + frozen pouches", "Bones": "100% grass-fed beef", "Ingredients": "4 (bones, water, ACV, sea salt)", "Gelatin": "Sets to soft jelly when chilled"},
+      "scores": {"Quality": 4.6, "Taste": 4.4, "Value": 3.8, "Nutrition": 4.6, "Convenience": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For pantry-first convenience", "offerId": "kettle-fire-beef-broth", "reason": "Shelf-stable, consistent, and available online by the case — the practical default for daily sipping or weeknight cooking."},
+    {"label": "For gut-healing protocols", "offerId": "fond-bone-broth", "reason": "Sets firm when cold, ships refrigerated, highest gelatin content — if collagen and glycine content is the actual point, this is worth the premium."},
+    {"label": "For cooking in bulk", "offerId": "pacific-foods-bone-broth", "reason": "USDA Organic at Costco prices — the right choice when bone broth is a cooking ingredient, not the main event."},
+    {"label": "For maximum collagen intake", "offerId": "ancient-nutrition-bone-broth", "reason": "20g multi-source collagen per scoop — the most efficient way to add collagen to a morning smoothie or coffee."},
+    {"label": "For label-readers and clean-ingredient seekers", "offerId": "bare-bones-broth", "reason": "Four ingredients, no additives, grass-fed — the cleanest standard-format bone broth in the category."}
+  ]
 }

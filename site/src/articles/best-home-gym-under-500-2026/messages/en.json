@@ -96,5 +96,65 @@
     "rogue-monster-bands": "41-inch natural latex loop bands, multiple resistance levels, commercial-grade durability. $15-30 per band, sets $60-120. Best value-per-dollar in any home gym — pull-up assistance, mobility, accommodating resistance, banded exercises. Correct for every setup regardless of other equipment.",
     "prosourcefit-flooring-tiles": "3/4-inch interlocking EVA foam tiles, 24 sq ft set. $40-60. Best floor protection for hard surfaces — prevents equipment and floor damage, reduces joint impact. Correct for anyone using heavy dumbbells or a barbell on tile or concrete floors."
   },
-  "pinDescription": "Best home gym under $500 in 2026: PowerBlock adjustable dumbbells vs TRX vs barbell set — what to buy first, space-saving strategies, what NOT to waste money on, and three complete $500 builds for different goals and room sizes."
+  "pinDescription": "Best home gym under $500 in 2026: PowerBlock adjustable dumbbells vs TRX vs barbell set — what to buy first, space-saving strategies, what NOT to waste money on, and three complete $500 builds for different goals and room sizes.",
+  "methodology": "Each piece of equipment was evaluated on exercise-per-dollar coverage, space efficiency, build quality relative to price, and how long it remains useful as strength increases — budget home gym gear that becomes useless within a year scores poorly regardless of initial cost.",
+  "products": [
+    {
+      "offerId": "powerblock-sport-exp",
+      "badge": "Best Overall",
+      "review": "The PowerBlock Sport EXP 50 lb set replaces a full dumbbell rack in a footprint the size of two standard dumbbells. The pin-selector changes weight in 5-second increments — no sliding plates, no fumbling. Build quality is solid for home use (not commercial abuse), backed by a 10-year warranty. At $350-400 it's the highest-coverage-per-dollar purchase in a $500 home gym: chest press, rows, shoulder press, curls, squats, deadlifts all from one piece of equipment.",
+      "pros": ["Replaces 5–50 lb dumbbell rack in compact footprint", "Weight change takes 5 seconds with pin-selector mechanism", "10-year warranty — built to last actual home gym use"],
+      "cons": ["50 lb ceiling limits lower body compound loading for intermediate+ lifters"],
+      "grade": "A+",
+      "specs": {"Price": "$350–400", "Weight range": "5–50 lb (expandable to 70 lb)", "Increment": "2.5–5 lb steps", "Warranty": "10 years", "Footprint": "Size of 2 standard dumbbells"},
+      "scores": {"Build quality": 4.5, "Versatility": 5.0, "Ease of use": 4.8, "Value": 4.8, "Durability": 4.5}
+    },
+    {
+      "offerId": "trx-home2",
+      "badge": "Best for Small Spaces",
+      "review": "The TRX HOME2 rolls into a bag smaller than a gym bag and mounts to any door frame in seconds. It covers pulling movements (rows), push variations, single-leg work, and extensive core exercises — all the movements that dumbbells handle poorly without a bench. The door anchor introduces a slight rearward pull vs ceiling mount but works adequately. Best used alongside dumbbells; as a standalone it caps lower body loading at bodyweight.",
+      "pros": ["Zero storage footprint — fits in a bag, mounts in seconds", "Covers rows and pulling work that dumbbells alone can't replicate well", "30-day trial included"],
+      "cons": ["Can't add external load for lower body — limited to bodyweight for leg exercises"],
+      "grade": "A",
+      "specs": {"Price": "$150–200", "Anchor options": "Door, ceiling, wall", "Weight limit": "350 lb", "Included": "Door anchor + travel bag", "Trial": "30 days"},
+      "scores": {"Build quality": 4.5, "Versatility": 4.3, "Ease of use": 4.8, "Value": 4.3, "Durability": 4.8}
+    },
+    {
+      "offerId": "cap-barbell-standard-set",
+      "badge": "Best Budget Barbell Kit",
+      "review": "The CAP standard set ($80–150 with 110 lb of plates) is the lowest-cost entry into barbell training — squats, deadlifts, bench press, overhead press. The 1-inch sleeve is a real limitation: plates wobble at heavy loads (200+ lb) and won't accept Olympic-spec plates. Adequate for beginners and early-intermediate training. Most serious lifters upgrade to Olympic equipment within 1–2 years. Best for garage or basement with 8x8 feet of space, not apartments.",
+      "pros": ["Lowest-cost barbell entry — heavy compound lifts for $80–150", "Squat, deadlift, bench press, overhead press all accessible", "Sufficient for 12–18 months of beginner progress"],
+      "cons": ["1-inch sleeve wobbles at heavy loads — plan to upgrade to Olympic eventually"],
+      "grade": "B+",
+      "specs": {"Price": "$80–150", "Bar type": "1-inch standard", "Plates included": "110 lb", "Bar rating": "200–300 lb", "Best for": "Garage/basement with 8x8 ft min"},
+      "scores": {"Build quality": 3.5, "Versatility": 4.5, "Ease of use": 3.8, "Value": 5.0, "Durability": 3.5}
+    },
+    {
+      "offerId": "rogue-monster-bands",
+      "badge": "Best Value Per Dollar",
+      "review": "Rogue Monster Bands are 41-inch flat latex loops — not the cheap tube-with-handles that snap in months. A set of 3–4 bands ($75–120) adds pull-up assistance, accommodating resistance for deadlifts and squats, face pulls, mobility work, and banded exercises to any home gym. They take up zero space and last years under heavy use. The highest value-per-dollar item in any $500 home gym regardless of what other equipment you own.",
+      "pros": ["Commercial-grade latex lasts years — not tube bands that snap in months", "Covers pull-up assistance, mobility, and cable-substitute exercises", "Zero storage space required"],
+      "cons": ["Resistance varies with stretch — not precise like fixed weights"],
+      "grade": "B",
+      "specs": {"Price": "$15–30 per band, $60–120 for set", "Type": "41-inch flat latex loop", "Resistance range": "13–200 lb", "Durability": "Commercial grade", "Use cases": "Pull-up assist, mobility, resistance"},
+      "scores": {"Build quality": 5.0, "Versatility": 4.8, "Ease of use": 4.5, "Value": 5.0, "Durability": 5.0}
+    },
+    {
+      "offerId": "prosourcefit-flooring-tiles",
+      "badge": "Best Floor Protection",
+      "review": "ProsourceFit 3/4-inch interlocking foam tiles aren't exciting but they prevent equipment damage, floor damage, and joint stress from hard surfaces. At $40–60 for 24 sq ft, cover just the workout zone — the 6x8 area where you actually move. The foam compresses more than rubber and gaps form in temperature-variable garages; for garage use, rubber tiles are better. For climate-controlled spaces (bedroom, basement), these foam tiles work well and cost significantly less than rubber.",
+      "pros": ["Prevents damage to floors and equipment from dropped weights", "Interlocking tiles fit irregular room shapes", "Reduces joint pressure for floor exercises"],
+      "cons": ["EVA foam compresses more than rubber — gaps can form in temperature-variable garages"],
+      "grade": "B-",
+      "specs": {"Price": "$40–60 (24 sq ft set)", "Thickness": "3/4 inch (19 mm)", "Material": "EVA foam", "Coverage": "24 sq ft per set", "Best for": "Climate-controlled spaces"},
+      "scores": {"Build quality": 3.5, "Versatility": 3.0, "Ease of use": 5.0, "Value": 4.5, "Durability": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For small apartments with limited space", "offerId": "powerblock-sport-exp", "reason": "Replaces a full dumbbell rack in the footprint of two dumbbells — most exercise coverage per square foot"},
+    {"label": "For travel or no dedicated workout space", "offerId": "trx-home2", "reason": "Fits in a bag, mounts anywhere — pulls and core movements without any floor space commitment"},
+    {"label": "For garage gyms prioritizing heavy barbell work", "offerId": "cap-barbell-standard-set", "reason": "Lowest-cost barbell entry with squat, deadlift, bench press, overhead press for $80–150"},
+    {"label": "For every home gym regardless of other equipment", "offerId": "rogue-monster-bands", "reason": "Pull-up assistance, mobility, and cable substitutes at $75–120 — the highest value-per-dollar item"},
+    {"label": "For anyone using dumbbells or a barbell on hard floors", "offerId": "prosourcefit-flooring-tiles", "reason": "Prevents equipment damage and reduces joint stress — the purchase you'll regret skipping"}
+  ]
 }

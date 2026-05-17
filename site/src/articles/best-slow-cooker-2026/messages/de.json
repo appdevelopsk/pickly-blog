@@ -93,5 +93,64 @@
     "twinbird-ep-4694": "Kompakter japanischer Schongarer fuer Schmorgerichte und Oden -- Keramiktopf, 450W-Verbrauch, vollstaendiger inlaendischer Support. Kein programmierbarer Timer; kleinere Kapazitaet begrenzt auf 1-3-Personen-Kochen."
   },
   "pinDescription": "Fuenf Schongarer verglichen in 2026 -- Crock-Pot 6-Quart, Instant Pot Duo 7-in-1, Cuisinart CSC-800, Panasonic SR-MP300 und Twinbird EP-4694. Welcher handhabt Ubernacht-Eintopfe, Oden und fermentierten Joghurt ohne Aufsicht? #Schongarer #SchonesDeutsch #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jeder Schongarer wurde nach tatsächlicher Wärmeverteilungskonsistenz im Einsatz, Timer-Zuverlässigkeit, Kapazitätsgenauigkeit, Reinigungsfreundlichkeit und Langzeit-Eigentümerberichten über Deckeldichtung und Heizelementlebensdauer bewertet.",
+  "products": [
+    {
+      "offerId": "crock-pot-sccpvl610-s",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Der Crock-Pot SCCPVL610-S hat sich seit vierzig Jahren kaum verändert, weil das Kerndesign funktioniert: 6-Quart-Keramikeinsatz, gleichmäßige Wärmeverteilung und ein Drei-Stufen-Drehknopf, der sich nicht falsch bedienen lässt. Das Fehlen eines Timers bedeutet, dass das Essen kocht, bis man manuell auf Warm umschaltet — eine echte Einschränkung für unvorhersehbare Zeitpläne.",
+      "pros": ["6-Quart-Keramikeinsatz für ganze Hühner und große Braten", "Drei-Stufen-Drehknopf ist narrensicher", "Topf und Deckel spülmaschinenfest"],
+      "cons": ["Kein programmierbarer Timer — kein automatisches Umschalten auf Warm"],
+      "grade": "A+",
+      "specs": {"Kapazität": "6 Quart (5,7L)", "Leistung": "200W (Low) / 300W (High)", "Timer": "Keiner", "Einsatz": "Keramik", "Deckel": "Glas, kein Verschluss", "Maße": "ca. 35×25×28cm"},
+      "scores": {"Wärmeverteilung": 4.7, "Kapazität": 4.9, "Bedienungsfreundlichkeit": 5.0, "Preis-Leistung": 4.9, "Programmierbarkeit": 1.0}
+    },
+    {
+      "offerId": "instant-pot-duo-7in1",
+      "badge": "Vielseitigster Kocher",
+      "review": "Der Instant Pot Duo 7-in-1 verdient seinen Platz durch die Kombination eines Druckkochers, der ein 6-stündiges Schmoren auf 35 Minuten reduziert, mit einem programmierbaren Schongarer für ganztägiges Kochen. Der bekannte Vorbehalt: Sein Schongarer-Low-Modus läuft heißer als ein herkömmlicher Crock-Pot Low — bestehende Rezepte brauchen Anpassungen.",
+      "pros": ["Druckkocher-Modus reduziert lange Schmorgerichte auf unter 45 Minuten", "Schongarer mit programmierbarem Timer und Auto-Warmhalten", "Verriegelungsdeckel verhindert Verschütten beim Transport"],
+      "cons": ["Schongarer-Low läuft heißer als herkömmliche Geräte — Rezeptanpassung erforderlich"],
+      "grade": "A",
+      "specs": {"Kapazität": "6 Quart (5,7L)", "Leistung": "1000W", "Timer": "Ja (bis 24h + Verzögerungsstart)", "Einsatz": "Edelstahl", "Deckel": "Druckverriegelungsdeckel", "Modi": "7 (Druck, Schongaren, Anbraten, Dampf, Reis, Warm, Joghurt)"},
+      "scores": {"Wärmeverteilung": 4.2, "Kapazität": 4.8, "Bedienungsfreundlichkeit": 3.5, "Preis-Leistung": 4.5, "Programmierbarkeit": 4.8}
+    },
+    {
+      "offerId": "cuisinart-csc-800",
+      "badge": "Bester für kleine Haushalte",
+      "review": "Die 3,5-Liter-Kapazität des Cuisinart CSC-800 ist für 1-2-Personen-Haushalte ausgelegt — passt auf eine kompakte Küchenarbeitsplatte neben dem Reiskocher und produziert Portionen ohne tagelange Reste. Der 24-Stunden-Timer mit Auto-Warmhalten rechtfertigt den höheren Preis gegenüber manuellen Kleinschongarern.",
+      "pros": ["3,5L kompakte Größe ideal für 1-2-Personen-Haushalte", "24-Stunden-Timer mit automatischem Warmhalten", "Attraktives Edelstahl- und Glasdesign"],
+      "cons": ["Nur als Import in Japan erhältlich — Garantieservice über Importeur, Ersatzteile 2-4 Wochen"],
+      "grade": "B+",
+      "specs": {"Kapazität": "3,5 Liter", "Leistung": "200W", "Timer": "Ja (bis 24h)", "Einsatz": "Keramikschüssel", "Deckel": "Glas", "Markt": "Import (kein Japan-Inlandsservice)"},
+      "scores": {"Wärmeverteilung": 4.3, "Kapazität": 3.5, "Bedienungsfreundlichkeit": 4.5, "Preis-Leistung": 3.9, "Programmierbarkeit": 4.5}
+    },
+    {
+      "offerId": "panasonic-sr-mp300",
+      "badge": "Bester für japanisches Kochen",
+      "review": "Der Panasonic SR-MP300 ist speziell für die japanische Haushaltskochweise ausgelegt: Nimono, Oden, Kakuni und fermentierte Lebensmittel. Der Fermentierungsmodus für Joghurt und Amazake bei präzisen 40-60°C ist der Unterschied, den kein westlicher Schongarer bietet.",
+      "pros": ["Fermentierungsmodus (40-60°C) für Joghurt und Amazake", "Temperatur auf Nimono, Oden und Kakuni abgestimmt", "Panasonics landesweites Japan-Servicenetzwerk"],
+      "cons": ["Nur Schongarer — keine Druckfunktion"],
+      "grade": "B",
+      "specs": {"Kapazität": "2,2 Liter", "Leistung": "200W", "Timer": "Ja", "Einsatz": "Innentopf", "Fermentierungsmodus": "Ja (40-60°C)", "Markt": "Japan Inland"},
+      "scores": {"Wärmeverteilung": 4.8, "Kapazität": 3.2, "Bedienungsfreundlichkeit": 4.3, "Preis-Leistung": 3.8, "Programmierbarkeit": 4.0}
+    },
+    {
+      "offerId": "twinbird-ep-4694",
+      "badge": "Bestes kompaktes Budget-Modell",
+      "review": "Der Twinbird EP-4694 besetzt eine enge Nische: ein kompakter japanischer Schongarer für Oden und Schmorgerichte zu einem deutlich niedrigeren Preis als der Panasonic. Der fehlende Timer ist der Grund, warum die meisten Käufer letztlich den Panasonic wählen.",
+      "pros": ["Kompakter Fußabdruck für kleine japanische Küchen", "Keramiktopf ohne Metallgeschmack-Risiko für Oden", "Vollständiger japanischer Inlandsservice und Ersatzteile"],
+      "cons": ["Kein programmierbarer Timer — nur manuelles Ein/Aus"],
+      "grade": "B-",
+      "specs": {"Kapazität": "1,5 Liter", "Leistung": "450W", "Timer": "Keiner", "Einsatz": "Keramik", "Deckel": "Glas", "Markt": "Japan Inland"},
+      "scores": {"Wärmeverteilung": 4.0, "Kapazität": 2.5, "Bedienungsfreundlichkeit": 4.8, "Preis-Leistung": 4.5, "Programmierbarkeit": 1.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für Familien mit 4+ Personen oder Batch-Köche", "offerId": "crock-pot-sccpvl610-s", "reason": "Der 6-Quart-Keramikeinsatz bewältigt ganze Hühner und große Braten, und der einfache Drehknopf lässt nichts schiefgehen."},
+    {"label": "Für Köche unter der Woche mit wenig Zeit", "offerId": "instant-pot-duo-7in1", "reason": "Der Druckmodus reduziert ein 6-Stunden-Schmorgericht auf 35 Minuten — die einzige Option, wenn heute Abend gegessen werden muss."},
+    {"label": "Für Tokioter Apartmentküchen", "offerId": "cuisinart-csc-800", "reason": "3,5L passt neben den Reiskocher und der Timer hält das Essen warm, bis man nach Hause kommt."},
+    {"label": "Für fermentierte Lebensmittel und Nimono", "offerId": "panasonic-sr-mp300", "reason": "Der Fermentierungsmodus für Joghurt und Amazake ist in keinem anderen Schongarer zu diesem Preis verfügbar."},
+    {"label": "Für einfaches Oden mit kleinem Budget", "offerId": "twinbird-ep-4694", "reason": "Der Keramiktopf und der Inlandsservice bieten den einfachsten Einstieg ins Schongaren für unkomplizierte japanische Schmorgerichte."}
+  ]
 }

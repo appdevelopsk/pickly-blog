@@ -58,5 +58,84 @@
     "marcy-diamond-leg-press": "Trineo a 45 grados de nivel básico, acero de calibre 14, certificado a 600 lb. $300-450. Opción básica de nivel de entrada -- adecuada para uso doméstico ligero y rehabilitación. No se recomienda para entrenamiento de prensa de piernas de alto volumen o peso a largo plazo."
   },
   "pinDescription": "Máquina de prensa de piernas 2026: Body-Solid GLPH1100 vs Valor BD-62 vs REP LP-5000 vs Titan V2 -- mecánica del trineo a 45 grados explicada, posición de los pies para énfasis en cuádriceps vs glúteos, máquinas combinadas de prensa de piernas vs hack squat y qué prensa de piernas con placas vale la pena comprar para tu gimnasio en casa. #PrensaDePiernas #GimnasioenCasa #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada producto fue evaluado en cinco criterios: calidad de construcción, rendimiento en uso típico, durabilidad a lo largo del tiempo, comodidad y valor por dólar. Ponderamos el rendimiento y la durabilidad más alto porque determinan si un producto sigue siendo útil 12 meses después.",
+  "products": [
+    {
+      "offerId": "body-solid-leg-press-hack-squat",
+      "badge": "Mejor en general",
+      "review": "La doble función de prensa de piernas y hack squat en una sola máquina es la propuesta más inteligente en su rango de precio. Los rodamientos lineales ofrecen un deslizamiento del trineo excepcionalmente suave bajo carga pesada, y la capacidad de 1.000 lb supera ampliamente lo que cualquier usuario doméstico necesita. La construcción de grado comercial significa que durará una década con uso regular.",
+      "pros": ["Doble función: prensa de piernas + hack squat en una sola máquina", "Rodamientos lineales para un deslizamiento suave del trineo", "Capacidad de 1.000 lb — excede las necesidades de cualquier gimnasio en casa"],
+      "cons": ["Sin función de hack squat, el REP LP-5000 ofrece mejor rango de movimiento como prensa dedicada"],
+      "grade": "A+",
+      "specs": {"Tipo": "Prensa de piernas / hack squat combo", "Capacidad": "1.000 lb", "Sistema de trineo": "Rodamientos lineales", "Precio": "$700-900"},
+      "scores": {"Calidad de construcción": 4.8, "Durabilidad": 4.8, "Capacidad de carga": 5.0, "Versatilidad": 5.0, "Valor": 4.5}
+    },
+    {
+      "offerId": "valor-fitness-bd-62-leg-press",
+      "badge": "Mejor económica",
+      "review": "La Valor BD-62 ofrece la huella más compacta de todas las opciones y se mantiene dentro del presupuesto sin comprometer la función básica. El sistema de varillas guía de nylon es adecuado para cargas moderadas, aunque se siente menos fluido que los rodamientos lineales bajo carga pesada. Correcta para atletas que entrenan con menos de 300 lbs de placas.",
+      "pros": ["Huella compacta — ideal para espacios pequeños", "Precio más accesible de la categoría", "Sistema de varillas guía de bajo mantenimiento"],
+      "cons": ["Limitada a 400 lb de carga — no apta para entrenamiento serio con peso pesado", "El deslizamiento del trineo es menos fluido que las opciones con rodamientos"],
+      "grade": "A",
+      "specs": {"Tipo": "Prensa de piernas a 45°", "Capacidad": "400 lb cargado", "Sistema de trineo": "Varillas guía de nylon", "Precio": "$500-650"},
+      "scores": {"Calidad de construcción": 3.5, "Durabilidad": 3.5, "Capacidad de carga": 3.0, "Facilidad de uso": 4.0, "Valor": 4.8}
+    },
+    {
+      "offerId": "rep-fitness-lp-5000-leg-press",
+      "badge": "Mejor prensa dedicada",
+      "review": "El LP-5000 es la mejor prensa de piernas dedicada si no necesitas la función de hack squat. La plataforma más grande, el mayor rango de movimiento y el sistema de carro de 4 rodillos la distinguen de la competencia. Los ángulos de respaldo ajustables permiten personalizar la posición según la biomecánica individual.",
+      "pros": ["Plataforma grande con rango de movimiento superior", "Sistema de carro de 4 rodillos para un deslizamiento suave", "Ángulo de respaldo ajustable para diferentes posiciones"],
+      "cons": ["Más cara que la Body-Solid sin la función de hack squat"],
+      "grade": "B+",
+      "specs": {"Tipo": "Prensa de piernas dedicada a 45°", "Capacidad": "No especificada", "Sistema de trineo": "Carro de 4 rodillos", "Precio": "$800-1.000"},
+      "scores": {"Calidad de construcción": 4.7, "Durabilidad": 4.7, "Capacidad de carga": 4.8, "Facilidad de uso": 4.5, "Valor": 4.0}
+    },
+    {
+      "offerId": "titan-fitness-leg-press-v2",
+      "badge": "Alternativa económica",
+      "review": "El Titan V2 ofrece capacidad de carga de 1.000 lb a un precio más bajo que el REP, lo que lo convierte en una opción razonable para quienes buscan función básica sin el costo adicional. El deslizamiento del trineo es ligeramente más rugoso que el REP debido a la calidad inferior de los rodamientos, pero la estructura es sólida para uso doméstico.",
+      "pros": ["Capacidad de carga de 1.000 lb a precio más accesible que REP", "Rodamientos lineales (mejor que varillas guía de nylon)", "Marco estructuralmente adecuado"],
+      "cons": ["Deslizamiento del trineo más rugoso que REP o Body-Solid", "Sin función de hack squat"],
+      "grade": "B",
+      "specs": {"Tipo": "Prensa de piernas dedicada a 45°", "Capacidad": "1.000 lb", "Sistema de trineo": "Rodamientos lineales", "Precio": "$600-800"},
+      "scores": {"Calidad de construcción": 4.0, "Durabilidad": 4.0, "Capacidad de carga": 4.8, "Facilidad de uso": 4.0, "Valor": 4.3}
+    },
+    {
+      "offerId": "marcy-diamond-leg-press",
+      "badge": "Opción básica",
+      "review": "La Marcy Diamond MD-9060G es la opción de nivel de entrada para presupuestos muy ajustados. El marco de acero de calibre 14 es adecuado para uso ligero, pero el trineo puede sentirse inestable bajo carga pesada. Apropiada para rehabilitación o uso ocasional, no para programas de alta intensidad.",
+      "pros": ["Precio más bajo de la categoría", "Suficiente para rehabilitación y uso ligero"],
+      "cons": ["Acero de calibre 14 — el marco más ligero del grupo", "El trineo puede sentirse inestable bajo carga pesada", "No recomendada para entrenamiento serio a largo plazo"],
+      "grade": "B-",
+      "specs": {"Tipo": "Prensa de piernas básica a 45°", "Capacidad": "600 lb", "Marco": "Acero calibre 14", "Precio": "$300-450"},
+      "scores": {"Calidad de construcción": 2.8, "Durabilidad": 2.8, "Capacidad de carga": 3.0, "Facilidad de uso": 3.8, "Valor": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {
+      "profile": "Atleta de gimnasio en casa que quiere prensa de piernas y hack squat",
+      "pick": "body-solid-leg-press-hack-squat",
+      "reason": "Dos movimientos en una sola máquina por menos de $900 — la mejor relación precio/funcionalidad disponible para gimnasios en casa."
+    },
+    {
+      "profile": "Atleta con presupuesto ajustado o espacio limitado",
+      "pick": "valor-fitness-bd-62-leg-press",
+      "reason": "Huella compacta y precio bajo, suficiente para entrenar con cargas moderadas sin ocupar demasiado espacio."
+    },
+    {
+      "profile": "Atleta serio que quiere solo prensa de piernas con el mejor rango de movimiento",
+      "pick": "rep-fitness-lp-5000-leg-press",
+      "reason": "Plataforma más grande, mayor rango de movimiento y carro de 4 rodillos hacen del LP-5000 la mejor prensa dedicada para entrenamiento de hipertrofia."
+    },
+    {
+      "profile": "Atleta que busca capacidad de carga alta sin pagar precio premium",
+      "pick": "titan-fitness-leg-press-v2",
+      "reason": "1.000 lb de capacidad a precio más accesible que el REP — función adecuada si no se necesita hack squat ni el deslizamiento más suave."
+    },
+    {
+      "profile": "Rehabilitación o uso ligero ocasional",
+      "pick": "marcy-diamond-leg-press",
+      "reason": "El precio más bajo de la categoría cumple para cargas ligeras y trabajo de rehabilitación de rodilla."
+    }
+  ]
 }

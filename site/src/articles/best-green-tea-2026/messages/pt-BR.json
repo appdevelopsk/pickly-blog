@@ -58,5 +58,184 @@
     "harney-sons-dragon-well": "Dragon Well chinês (Longjing) folhas soltas, 4oz. $12-18. O melhor chá verde chinês — torrado na wok, doce-tostado, menos vegetal do que os chás verdes japoneses. Correto para quem acha o chá verde japonês intensamente salgado demais."
   },
   "pinDescription": "Chá verde 2026: sencha japonês vs gyokuro vs genmaicha vs Dragon Well chinês — por que a temperatura importa (nunca água fervendo), cultivo à sombra explicado, como preparar chá verde frio, e o melhor chá verde para beber diariamente em 2026. #cháVerde #Japão #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada chá foi avaliado pela complexidade de sabor, transparência e rastreabilidade de origem, valor por grama, indicadores de frescor, integridade da embalagem e adequação a diferentes métodos de preparo incluindo infusão quente, cold brew e re-infusão.",
+  "products": [
+    {
+      "offerId": "ippodo-sencha-ummon",
+      "badge": "Melhor geral",
+      "review": "O Sencha Ummon da Ippodo é o sencha de qualidade de referência nesta comparação — verde vivo, herbáceo e limpo com abastecimento direto de Uji pela mais antiga casa de chá do Japão. A $18–25 por 80g custa mais que o sencha de supermercado, mas a consistência de qualidade é excepcional. Requer água a 70–75°C; água fervente traz amargor.",
+      "pros": [
+        "Abastecimento direto de Uji pela mais antiga casa de chá do Japão, fundada em 1717",
+        "Verde vivo e limpo com qualidade consistente lote a lote",
+        "Re-infunde 2–3 vezes com as mesmas folhas"
+      ],
+      "cons": [
+        "Requer controle de temperatura — água fervente arruína a xícara"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Origem": "Uji, Japão",
+        "Peso": "80g",
+        "Preço": "~$18–25",
+        "Temp. infusão": "70–75°C",
+        "Tempo": "1 min",
+        "Estilo": "Sencha folhas soltas",
+        "Re-infusões": "2–3x"
+      },
+      "scores": {
+        "Flavor": 4.8,
+        "Quality": 4.9,
+        "Value": 4.1,
+        "Versatility": 4.3,
+        "Freshness": 4.9
+      }
+    },
+    {
+      "offerId": "harney-sons-japanese-sencha",
+      "badge": "Melhor acessível",
+      "review": "O Sencha Japonês Harney & Sons é a opção cotidiana prática — vendido no Whole Foods, a $8–12, e consistentemente bom para uso diário. A versão de folhas soltas supera nitidamente a versão em saquinhos pelo melhor corte de folha. Claramente um degrau abaixo de Ippodo em complexidade, mas uma sólida introdução ao sencha japonês sem preços de loja especializada.",
+      "pros": [
+        "Disponível no Whole Foods e amplamente online",
+        "A versão de folhas soltas entrega boa qualidade cotidiana a $8–12",
+        "Ponto de entrada acessível ao sencha japonês sem pedidos especializados"
+      ],
+      "cons": [
+        "Menos complexo que Ippodo — perfil de sabor notavelmente mais simples"
+      ],
+      "grade": "A",
+      "specs": {
+        "Origem": "Japão",
+        "Peso": "115g / 20 saquinhos",
+        "Preço": "~$8–12",
+        "Temp. infusão": "75–80°C",
+        "Tempo": "1–2 min",
+        "Estilo": "Sencha solto ou saquinhos",
+        "Disponibilidade": "Whole Foods"
+      },
+      "scores": {
+        "Flavor": 4.2,
+        "Quality": 4.1,
+        "Value": 4.7,
+        "Versatility": 4.4,
+        "Freshness": 4.2
+      }
+    },
+    {
+      "offerId": "two-leaves-genmaicha",
+      "badge": "Melhor para iniciantes",
+      "review": "O Genmaicha da Two Leaves mistura sencha com arroz torrado, e essa camada tostada-avelã é exatamente o que o torna acessível para novatos no chá verde — o arroz torrado compensa a herbosidade e torna a xícara menos intensamente vegetal. Mais tolerante a 80°C do que o sencha puro. Melhor chá de entrada para bebedores que estão transitando do chá preto.",
+      "pros": [
+        "O arroz torrado compensa a herbosidade do chá verde puro",
+        "Temperatura de infusão mais tolerante (80°C) que o sencha puro",
+        "Opção de baixa cafeína — o arroz dilui o conteúdo de chá"
+      ],
+      "cons": [
+        "Perfil de sabor menos refinado que o sencha puro de alta qualidade"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Origem": "Japão",
+        "Peso": "85g",
+        "Preço": "~$8–14",
+        "Temp. infusão": "80°C",
+        "Tempo": "1–2 min",
+        "Estilo": "Genmaicha folhas soltas",
+        "Cafeína": "Menor que sencha puro"
+      },
+      "scores": {
+        "Flavor": 4.0,
+        "Quality": 4.0,
+        "Value": 4.5,
+        "Versatility": 4.6,
+        "Freshness": 4.0
+      }
+    },
+    {
+      "offerId": "ippodo-gyokuro",
+      "badge": "Melhor premium",
+      "review": "O Gyokuro da Ippodo está no ápice do chá verde japonês — cultivado à sombra em Uji, infundido a 50–60°C, e a xícara resultante é intensamente doce-umami, quase como um caldo. Não é um chá casual para o dia a dia: requer chaleira de temperatura controlada e paciência. Para quem quiser entender por que a cultura do chá japonês eleva o gyokuro acima de tudo, uma infusão é instrutiva.",
+      "pros": [
+        "O cultivo à sombra concentra a L-teanina para intensa doçura umami",
+        "Re-infunde 3+ vezes — econômico apesar do alto preço por grama",
+        "Sabor incomparável — nada mais sabe como um gyokuro de qualidade"
+      ],
+      "cons": [
+        "Requer controle de temperatura a 50–60°C e técnica de infusão precisa"
+      ],
+      "grade": "B",
+      "specs": {
+        "Origem": "Uji, Japão",
+        "Peso": "40g",
+        "Preço": "~$28–50",
+        "Temp. infusão": "50–60°C",
+        "Tempo": "90 seg",
+        "Estilo": "Gyokuro cultivado à sombra",
+        "Re-infusões": "3+"
+      },
+      "scores": {
+        "Flavor": 4.9,
+        "Quality": 4.9,
+        "Value": 3.5,
+        "Versatility": 3.0,
+        "Freshness": 4.8
+      }
+    },
+    {
+      "offerId": "harney-sons-dragon-well",
+      "badge": "Melhor chá verde chinês",
+      "review": "O Dragon Well (Longjing) da Harney & Sons é o melhor chá verde chinês nesta comparação — torrado em frigideira, doce-avelã e notavelmente menos vegetal que o sencha japonês. Ideal para quem acha os chás verdes japoneses intensamente saborosos ou herbáceos demais. Prepara bem a 80–85°C e é mais tolerante que o gyokuro.",
+      "pros": [
+        "A torrefação em frigideira cria caráter doce-avelã distinto dos chás verdes japoneses",
+        "Menos vegetal e mais acessível para quem está começando com chá verde",
+        "Infunde a 80–85°C, mais tolerante"
+      ],
+      "cons": [
+        "Preço por grama mais alto que o sencha Harney para nível de qualidade similar"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Origem": "Hangzhou, China",
+        "Peso": "115g",
+        "Preço": "~$12–38",
+        "Temp. infusão": "80–85°C",
+        "Tempo": "2 min",
+        "Estilo": "Dragon Well folhas soltas",
+        "Processamento": "Torrado em frigideira"
+      },
+      "scores": {
+        "Flavor": 4.3,
+        "Quality": 4.2,
+        "Value": 3.8,
+        "Versatility": 4.5,
+        "Freshness": 4.1
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para apreciadores sérios de chá verde",
+      "offerId": "ippodo-sencha-ummon",
+      "reason": "Abastecimento direto de Uji com consistência excepcional de lote pela mais antiga casa de chá do Japão"
+    },
+    {
+      "label": "Para sencha acessível do dia a dia",
+      "offerId": "harney-sons-japanese-sencha",
+      "reason": "Boa qualidade a $8–12, disponível no Whole Foods sem pedidos especializados"
+    },
+    {
+      "label": "Para iniciantes no chá verde",
+      "offerId": "two-leaves-genmaicha",
+      "reason": "O arroz torrado reduz a herbosidade e torna a xícara acessível para bebedores de chá preto"
+    },
+    {
+      "label": "Para a experiência premium de chá japonês",
+      "offerId": "ippodo-gyokuro",
+      "reason": "Gyokuro de Uji cultivado à sombra com intensa doçura umami incomparável"
+    },
+    {
+      "label": "Para quem acha o chá japonês muito vegetal",
+      "offerId": "harney-sons-dragon-well",
+      "reason": "Longjing chinês torrado em frigideira com caráter doce-avelã e menos herbáceo"
+    }
+  ]
 }

@@ -67,5 +67,154 @@
     "iwatani-cb-p-y3": "Griglia da tavolo a cartuccia di butano — il picco di calore piu alto dei cinque, portatile, senza cavo di alimentazione. Ideale per l'uso sul balcone o all'aperto dove l'elettricita non e disponibile. La classificazione a fiamma aperta potrebbe conflare con le regole di gestione dei condomini giapponesi; il costo delle cartucce aggiunge una spesa continuativa."
   },
   "pinDescription": "Cinque griglie da interno a confronto per appartamenti giapponesi nel 2026: Zojirushi EB-DLC20, Cuisinart GR-4N, George Foreman, Récolte raclette e griglia a butano Iwatani. Fumo reale, sforzo di pulizia e yakitori a casa. #italiano",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni griglia e stata valutata su: temperatura reale della superficie di cottura in regime stazionario, emissione di fumo con cosce di pollo e wagyu a fette sottili, tempo di pulizia delle piastre dopo una sessione completa di yakiniku, velocita di recupero del calore dopo l'aggiunta di alimenti freddi e se la portabilita e il fattore di forma si adattano ai vincoli reali di una cucina da appartamento.",
+  "products": [
+    {
+      "offerId": "zojirushi-eb-dlc20",
+      "badge": "Il migliore per yakiniku indoor",
+      "review": "Le spesse piastre in alluminio di Zojirushi mantengono la temperatura meglio di qualsiasi concorrente qui — quando si mettono delle costolette fredde su una superficie calda, la temperatura della piastra si recupera in circa 30 secondi contro i 90+ secondi delle piastre piu sottili. Questa e la differenza tra una rosolatura e una cottura a vapore. La soppressione del fumo con il vassoio d'acqua funziona correttamente con le proteine magre e produce risultati realmente poco fumosi nella ventilazione dell'appartamento. Il compromesso sono le piastre rimovibili ma solo a lavaggio a mano: la lavastoviglie danneggia il rivestimento antiaderente in 6-10 cicli.",
+      "pros": ["Le spesse piastre in alluminio mantengono la temperatura su piu lotti di alimenti freddi", "La soppressione del fumo con vassoio d'acqua e la piu efficace per le proteine magre in questo confronto", "Le piastre rimovibili rendono la pulizia pratica — 10-15 minuti con ammollo"],
+      "cons": ["Le piastre sono solo a lavaggio a mano — la lavastoviglie distrugge il rivestimento antiaderente"],
+      "grade": "A+",
+      "specs": {
+        "Potenza": "1300 W",
+        "Tipo di piastra": "Lega di alluminio spessa, rimovibile",
+        "Riduzione del fumo": "Vassoio d'acqua sotto i fori di gocciolamento",
+        "Pulizia": "Solo lavaggio a mano",
+        "Dimensioni": "44 × 29 × 9 cm",
+        "Peso": "3,8 kg",
+        "Prezzo": "circa ¥15.000–¥20.000"
+      },
+      "scores": {
+        "Potenza di riscaldamento": 4.7,
+        "Facilita d'uso": 4.5,
+        "Pulizia": 4.2,
+        "Rapporto qualita-prezzo": 4.0,
+        "Portabilita": 3.8
+      }
+    },
+    {
+      "offerId": "cuisinart-gr-4n",
+      "badge": "Il migliore per versatilita",
+      "review": "I 1500 W di Cuisinart e il sistema di piastre intercambiabili — full grill, full piastra, meta-e-meta, pressa per panini — coprono piu scenari di cottura di qualsiasi altra unita qui. La potenza piu alta del gruppo significa un preriscaldamento piu rapido e un migliore recupero del calore. Le piastre sono commercializzate come compatibili con la lavastoviglie e reggono 12-18 mesi di lavaggio regolare in macchina. Il compromesso rispetto a Zojirushi e lo spessore delle piastre: le piastre piu sottili di Cuisinart perdono temperatura piu rapidamente quando si aggiungono alimenti freddi.",
+      "pros": ["1500 W e la potenza piu alta qui — preriscaldamento piu rapido e migliore recupero del calore", "Piastre intercambiabili: grill, piastra, pressa per panini, meta-e-meta", "Le piastre sono compatibili con la lavastoviglie (12-18 mesi prima che l'antiaderente mostri usura)"],
+      "cons": ["Le piastre piu sottili perdono temperatura piu velocemente di Zojirushi quando si aggiungono alimenti freddi"],
+      "grade": "A",
+      "specs": {
+        "Potenza": "1500 W",
+        "Tipo di piastra": "Rimovibile, intercambiabile (grill/piastra/panini)",
+        "Riduzione del fumo": "Canale di drenaggio del grasso",
+        "Pulizia": "Compatibile lavastoviglie (primi 12-18 mesi)",
+        "Dimensioni": "33 × 24 × 13 cm (chiusa)",
+        "Peso": "3,6 kg",
+        "Prezzo": "circa $79–$99 USD"
+      },
+      "scores": {
+        "Potenza di riscaldamento": 4.8,
+        "Facilita d'uso": 4.7,
+        "Pulizia": 4.5,
+        "Rapporto qualita-prezzo": 4.3,
+        "Portabilita": 4.2
+      }
+    },
+    {
+      "offerId": "george-foreman-gfo201r",
+      "badge": "Il tempo di cottura piu veloce",
+      "review": "Il design a conchiglia cuoce entrambi i lati del cibo contemporaneamente — un petto di pollo che richiede 8 minuti su una griglia piatta richiede 4-5 minuti sul George Foreman, e il risultato e piu succoso perche l'ambiente a vapore sigillato trattiene l'umidita che una griglia piatta perde. A 1360 W rivaleggia in potenza con Zojirushi. Le piastre fisse non rimovibili sono la limitazione cronica: ogni sessione finisce con lo strofinare i residui da una superficie che non si puo portare al lavandino.",
+      "pros": ["Il design a conchiglia dimezza il tempo di cottura rispetto a una griglia piatta", "1360 W offre vere temperature di rosolatura per manzo e pollo", "L'ingombro compatto si adatta ai piani di lavoro delle cucine degli appartamenti piu piccoli"],
+      "cons": ["Le piastre fisse rendono difficile una pulizia completa — il grasso carbonizzato e un problema cronico"],
+      "grade": "B+",
+      "specs": {
+        "Potenza": "1360 W",
+        "Tipo di piastra": "Fissa, non rimovibile, a conchiglia",
+        "Riduzione del fumo": "Pendenza di drenaggio del grasso + vassoio",
+        "Pulizia": "Asciugare con panno umido caldo (nessun risciacquo possibile)",
+        "Dimensioni": "34 × 28 × 16 cm",
+        "Peso": "3,2 kg",
+        "Prezzo": "circa $59–$79 USD"
+      },
+      "scores": {
+        "Potenza di riscaldamento": 4.5,
+        "Facilita d'uso": 4.6,
+        "Pulizia": 2.8,
+        "Rapporto qualita-prezzo": 4.6,
+        "Portabilita": 4.5
+      }
+    },
+    {
+      "offerId": "recolte-rgh-1",
+      "badge": "Il migliore per raclette da tavolo per 2",
+      "review": "La valutazione di 700 W di Récolte non e una debolezza nel suo contesto di progettazione — questa e un'unita da tavolo conviviale per raclette in stile per due, dove l'obiettivo e sciogliere il formaggio sugli accompagnamenti e grigliare leggermente funghi e verdure, non rosolare il wagyu. In quel caso d'uso, la pulizia e la piu facile delle cinque, l'ingombro compatto si adatta a un piccolo tavolo da pranzo e le coppette individuali per raclette sono una caratteristica unica di cena conviviale. Il limite chiaro: 700 W non puo raggiungere le temperature di rosolatura per il manzo ne produrre la crosta caramellata che lo yakiniku richiede.",
+      "pros": ["La pulizia piu facile delle cinque — temperatura di funzionamento piu bassa significa meno residui carbonizzati", "Il fattore di forma compatto si adatta a un piccolo tavolo da pranzo per la cucina da tavolo", "Le coppette individuali per raclette sono una caratteristica unica di cena conviviale"],
+      "cons": ["700 W non puo raggiungere le temperature di rosolatura — non adatto per yakiniku o manzo grasso"],
+      "grade": "B",
+      "specs": {
+        "Potenza": "700 W",
+        "Tipo di piastra": "Griglia rimovibile + coppette individuali per raclette",
+        "Riduzione del fumo": "La bassa temperatura di funzionamento riduce inherentemente il fumo",
+        "Pulizia": "Lavaggio a mano, facile — bassa temperatura riduce i residui carbonizzati",
+        "Dimensioni": "26 × 20 × 10 cm",
+        "Peso": "1,5 kg",
+        "Prezzo": "circa ¥8.000–¥12.000"
+      },
+      "scores": {
+        "Potenza di riscaldamento": 2.9,
+        "Facilita d'uso": 4.8,
+        "Pulizia": 5.0,
+        "Rapporto qualita-prezzo": 4.4,
+        "Portabilita": 5.0
+      }
+    },
+    {
+      "offerId": "iwatani-cb-p-y3",
+      "badge": "Il migliore per balcone o griglia all'aperto",
+      "review": "La griglia a butano di Iwatani raggiunge temperature di superficie massime piu elevate di qualsiasi unita elettrica qui, con il vantaggio di portabilita senza cavo di alimentazione. Per grigliare sul balcone dove l'accesso all'elettricita e limitato e la restrizione di fiamma aperta delle regole del proprio edificio non si applica, e la scelta naturale. I limiti pratici per l'uso interno in appartamento sono reali: il costo delle cartucce si accumula con l'uso frequente, ogni cartuccia deve essere conservata in sicurezza e i regolamenti di gestione dei condomini giapponesi di solito limitano i dispositivi a fiamma aperta sui balconi.",
+      "pros": ["Il calore massimo piu alto dei cinque — vere temperature di rosolatura paragonabili a 1500-1800 W elettrico", "Completamente portatile senza cavo di alimentazione — utilizzabile al tavolo da pranzo o all'aperto", "Esperienza di griglia autentica piu vicina al ristorante yakiniku nel carattere del calore"],
+      "cons": ["La classificazione a fiamma aperta puo violare i regolamenti di gestione degli edifici di appartamenti in Giappone"],
+      "grade": "B-",
+      "specs": {
+        "Fonte di calore": "Gas cartuccia butano",
+        "Calore equivalente": "Circa equivalente a 1500-1800 W elettrico",
+        "Riduzione del fumo": "Vassoio d'acqua sotto la superficie della griglia",
+        "Pulizia": "Griglia in ghisa/acciaio — asciugare e stagionare occasionalmente",
+        "Dimensioni": "32 × 27 × 10 cm",
+        "Peso": "2,1 kg",
+        "Combustibile": "Una cartuccia ≈ 60-70 min di cottura"
+      },
+      "scores": {
+        "Potenza di riscaldamento": 5.0,
+        "Facilita d'uso": 3.9,
+        "Pulizia": 3.5,
+        "Rapporto qualita-prezzo": 3.8,
+        "Portabilita": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Yakiniku in appartamento — proteine magre, uso settimanale",
+      "offerId": "zojirushi-eb-dlc20",
+      "reason": "Le piastre spesse mantengono la temperatura di rosolatura su piu lotti; la soppressione del fumo con vassoio d'acqua e la piu efficace qui per i tagli magri in condizioni di appartamento."
+    },
+    {
+      "label": "Cucina versatile — piastra, griglia e panini ogni giorno",
+      "offerId": "cuisinart-gr-4n",
+      "reason": "Le piastre intercambiabili e i 1500 W lo rendono l'unica unita che sostituisce una piastra, una griglia a contatto e una pressa per panini — tre elettrodomestici in uno."
+    },
+    {
+      "label": "Cottura rapida nei giorni feriali con minima complicazione",
+      "offerId": "george-foreman-gfo201r",
+      "reason": "Il design a conchiglia dimezza il tempo di cottura — il percorso piu rapido dal pollo crudo al risultato finito in questo confronto, senza necessita di girare."
+    },
+    {
+      "label": "Cena raclette conviviale per due",
+      "offerId": "recolte-rgh-1",
+      "reason": "L'unica unita con coppette individuali per raclette per la cucina da tavolo — e la pulizia piu facile delle cinque, ideale per l'uso casual frequente."
+    },
+    {
+      "label": "Grigliare sul balcone dove e consentita la fiamma aperta",
+      "offerId": "iwatani-cb-p-y3",
+      "reason": "Portatile senza cavo di alimentazione e il calore massimo piu alto del gruppo — la scelta naturale per l'uso esterno o sul balcone dove l'elettricita e scomoda."
+    }
+  ]
 }

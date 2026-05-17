@@ -96,5 +96,65 @@
     "rogue-monster-bands": "41-Zoll Naturlatex-Loop-Bander, mehrere Widerstandsstufen, gewerbliche Langlebigkeit. $15-30 pro Band, Sets $60-120. Bestes Preis-Leistungs-Verhaltnis in jedem Home-Gym -- Klimmzugunterstuzzung, Mobilitat, akkommodierender Widerstand, Bandubungen. Richtig fur jedes Setup unabhangig von anderem Equipment.",
     "prosourcefit-flooring-tiles": "2-cm-Puzzle-EVA-Schaumstoffmatten, 2,2-m2-Set. $40-60. Bester Bodenschutz fur harte Boden -- verhindert Equipment- und Bodenschaden, reduziert Gelenkbelastung. Richtig fur jeden, der schwere Hanteln oder eine Langhantel auf Fliesen- oder Betonboden verwendet."
   },
-  "pinDescription": "Bestes Home-Gym unter $500 im Jahr 2026: PowerBlock verstellbare Hanteln vs. TRX vs. Langhantelset -- was zuerst kaufen, platzsparende Strategien, wofur du KEIN Geld verschwenden solltest, und drei komplette $500-Setups fur verschiedene Ziele und Raumgrossen."
+  "pinDescription": "Bestes Home-Gym unter $500 im Jahr 2026: PowerBlock verstellbare Hanteln vs. TRX vs. Langhantelset -- was zuerst kaufen, platzsparende Strategien, wofur du KEIN Geld verschwenden solltest, und drei komplette $500-Setups fur verschiedene Ziele und Raumgrossen.",
+  "methodology": "Jedes Gerät wurde nach Übungen-pro-Dollar-Abdeckung, Platzeffizienz, Bauqualität im Verhältnis zum Preis und Langzeitnutzen bei wachsender Kraft bewertet — Budgetgeräte, die innerhalb eines Jahres nutzlos werden, schneiden unabhängig vom Anfangspreis schlecht ab.",
+  "products": [
+    {
+      "offerId": "powerblock-sport-exp",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Das PowerBlock Sport EXP 50-lb-Set ersetzt einen vollen Hantelständer auf dem Stellplatz von zwei Standardhanteln. Der Stiftselektor wechselt in 5 Sekunden das Gewicht — kein Umstecken von Scheiben. Bauqualität ist solide für den Heimgebrauch (nicht für Fitnessstudio-Dauerbelastung), mit 10 Jahren Garantie. Für 350–400 $ der Kauf mit dem höchsten Kosten-Nutzen-Verhältnis im $500-Home-Gym: Bankdrücken, Rudern, Schulterdrücken, Curls, Kniebeugen, Kreuzheben — alles mit einem Gerät.",
+      "pros": ["Ersetzt Hantelständer von 5–50 lb im kompakten Stellplatz", "Gewichtswechsel in 5 Sekunden per Stiftselektor", "10 Jahre Garantie — für echten Heimgebrauch gebaut"],
+      "cons": ["50-lb-Grenze begrenzt Unterkörper-Verbundübungen für mittlere und fortgeschrittene Trainierende"],
+      "grade": "A+",
+      "specs": {"Preis": "350–400 $", "Gewichtsbereich": "5–50 lb (erweiterbar auf 70 lb)", "Schrittweite": "2,5–5 lb", "Garantie": "10 Jahre", "Stellplatz": "Größe von 2 Standardhanteln"},
+      "scores": {"Verarbeitungsqualität": 4.5, "Vielseitigkeit": 5.0, "Bedienkomfort": 4.8, "Preis-Leistung": 4.8, "Haltbarkeit": 4.5}
+    },
+    {
+      "offerId": "trx-home2",
+      "badge": "Bestes für Kleine Räume",
+      "review": "Das TRX HOME2 passt in eine Tasche kleiner als eine Sporttasche und hängt in Sekunden an jedem Türrahmen. Es deckt Zugbewegungen (Rudern), Drückvariationen, einbeinige Übungen und viele Rumpfübungen ab — alles, was Hanteln allein nicht gut ersetzen können. Der Türanker erzeugt eine leichte Rückwärtsziehung vs. Deckenmontage, funktioniert aber ausreichend. Am besten in Kombination mit Hanteln; allein begrenzt es die Unterkörperbelastung auf das Körpergewicht.",
+      "pros": ["Kein Stauraum — passt in Tasche, hängt in Sekunden", "Deckt Rudern und Zugbewegungen ab, die Hanteln allein schlecht ersetzen können", "30 Tage Testphase inklusive"],
+      "cons": ["Keine externe Zusatzlast für Unterkörper — Beinübungen auf Körpergewicht beschränkt"],
+      "grade": "A",
+      "specs": {"Preis": "150–200 $", "Ankerpunkte": "Tür, Decke, Wand", "Gewichtslimit": "159 kg", "Inklusive": "Türanker + Reisetasche", "Testphase": "30 Tage"},
+      "scores": {"Verarbeitungsqualität": 4.5, "Vielseitigkeit": 4.3, "Bedienkomfort": 4.8, "Preis-Leistung": 4.3, "Haltbarkeit": 4.8}
+    },
+    {
+      "offerId": "cap-barbell-standard-set",
+      "badge": "Bestes Budget-Langhantelsset",
+      "review": "Das CAP Standard-Set (80–150 $ mit 50 kg Scheiben) ist der günstigste Einstieg ins Langhanteltraining — Kniebeugen, Kreuzheben, Bankdrücken, Schulterdrücken. Das 25-mm-Stecker ist eine echte Einschränkung: Scheiben wackeln bei schweren Lasten (90+ kg) und olympische Scheiben passen nicht. Ausreichend für Anfänger und frühes Mittelstufentraining. Die meisten ernsthaften Sportler steigen nach 1–2 Jahren auf Olympia-Equipment um. Mindestens 2,4x2,4 m Platz erforderlich.",
+      "pros": ["Günstigster Einstieg ins Langhanteltraining — schwere Verbundübungen für 80–150 $", "Kniebeugen, Kreuzheben, Bankdrücken, Schulterdrücken alle zugänglich", "Ausreichend für 12–18 Monate Anfängerfortschritt"],
+      "cons": ["25-mm-Stecker wackelt bei schweren Lasten — Upgrade auf Olympia-Ausrüstung einplanen"],
+      "grade": "B+",
+      "specs": {"Preis": "80–150 $", "Stangentyp": "25 mm Standard", "Enthaltene Scheiben": "50 kg", "Stangenbewertung": "90–136 kg", "Empfohlen für": "Garage/Keller mit mind. 2,4x2,4 m"},
+      "scores": {"Verarbeitungsqualität": 3.5, "Vielseitigkeit": 4.5, "Bedienkomfort": 3.8, "Preis-Leistung": 5.0, "Haltbarkeit": 3.5}
+    },
+    {
+      "offerId": "rogue-monster-bands",
+      "badge": "Bestes Preis-Leistungs-Verhältnis",
+      "review": "Rogue Monster Bands sind 104-cm-flache Latexschlaufen — nicht die billigen Schlauchbänder, die nach Monaten reißen. Ein 3-4-teiliges Set (60–120 $) fügt jedem Home-Gym Klimmzugunterstützung, akkommodierenden Widerstand für Kreuzheben und Kniebeugen, Facepulls, Mobilitätsarbeit und Bandübungen hinzu. Kein Stauraum nötig, halten Jahre. Das beste Preis-Leistungs-Verhältnis in jedem $500-Home-Gym unabhängig von anderen Geräten.",
+      "pros": ["Kommerzielles Latex hält Jahre — keine Schlauchbänder, die nach Monaten reißen", "Deckt Klimmzugunterstützung, Mobilität und Kabelersatzübungen ab", "Kein Stauraum erforderlich"],
+      "cons": ["Widerstand variiert mit Dehnung — nicht so präzise wie feste Gewichte"],
+      "grade": "B",
+      "specs": {"Preis": "15–30 $ pro Band, 60–120 $ Set", "Typ": "104 cm Flachlautexschlaufe", "Widerstandsbereich": "ca. 6–90 kg", "Haltbarkeit": "Kommerziell", "Einsatzbereiche": "Klimmzugassistenz, Mobilität, Widerstand"},
+      "scores": {"Verarbeitungsqualität": 5.0, "Vielseitigkeit": 4.8, "Bedienkomfort": 4.5, "Preis-Leistung": 5.0, "Haltbarkeit": 5.0}
+    },
+    {
+      "offerId": "prosourcefit-flooring-tiles",
+      "badge": "Bester Bodenschutz",
+      "review": "ProsourceFit 2-cm-Puzzleschaumstoffmatten sind unspektakulär, aber sie verhindern Geräte-, Boden- und Gelenkschäden durch harte Oberflächen. Für 40–60 $ (24 Quadratfuß) nur die Trainingsfläche abdecken — den 6x8-Fuß-Bereich, in dem du dich wirklich bewegst. Schaumstoff verdichtet sich stärker als Gummi und Lücken entstehen in temperaturschwankenden Garagen; für Garagen sind Gummimatten besser. In klimatisierten Räumen (Schlafzimmer, Keller) funktionieren diese Schaumstoffmatten gut und sind erheblich günstiger als Gummi.",
+      "pros": ["Verhindert Boden- und Geräteschäden durch fallen gelassene Gewichte", "Verbundplatten passen sich unregelmäßigen Raumformen an", "Reduziert Gelenkdruck bei Bodenübungen"],
+      "cons": ["EVA-Schaum verdichtet sich mehr als Gummi — in temperaturschwankenden Garagen können Lücken entstehen"],
+      "grade": "B-",
+      "specs": {"Preis": "40–60 $ (24 Quadratfuß-Set)", "Dicke": "2 cm (3/4 Zoll)", "Material": "EVA-Schaum", "Abdeckung": "24 Quadratfuß pro Set", "Empfohlen für": "Klimatisierte Räume"},
+      "scores": {"Verarbeitungsqualität": 3.5, "Vielseitigkeit": 3.0, "Bedienkomfort": 5.0, "Preis-Leistung": 4.5, "Haltbarkeit": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für kleine Wohnungen mit begrenztem Platz", "offerId": "powerblock-sport-exp", "reason": "Ersetzt einen vollen Hantelständer auf dem Platz von zwei Hanteln — beste Übungsabdeckung pro Quadratmeter"},
+    {"label": "Für Reisen oder keinen festen Trainingsraum", "offerId": "trx-home2", "reason": "Passt in Tasche, hängt überall — Zugbewegungen und Rumpf ohne festen Platz"},
+    {"label": "Für Garagengyms mit Schwerpunkt schwere Langhantelübungen", "offerId": "cap-barbell-standard-set", "reason": "Günstigster Langhanteleinstieg mit Kniebeugen, Kreuzheben, Bankdrücken für 80–150 $"},
+    {"label": "Für jedes Home-Gym unabhängig von anderen Geräten", "offerId": "rogue-monster-bands", "reason": "Klimmzugunterstützung, Mobilität und Kabelersatz für 60–120 $ — das beste Preis-Leistungs-Verhältnis"},
+    {"label": "Für alle, die Hanteln oder Langhantel auf harten Böden nutzen", "offerId": "prosourcefit-flooring-tiles", "reason": "Verhindert Geräteschäden und reduziert Gelenkbelastung — der Kauf, den du bereust übersprungen zu haben"}
+  ]
 }

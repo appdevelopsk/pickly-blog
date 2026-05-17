@@ -146,5 +146,43 @@
     "xserver": "À privilégier si historique de disponibilité et support téléphonique 24/7 priment sur le TTFB plus rapide de ConoHa.",
     "lolipop-server": "Même maison-mère que ConoHa, matériel plus lent, prix plus bas. Pour blogs hobby et budgets serrés uniquement."
   },
-  "pinDescription": "ConoHa WING testé 30 jours : WordPress en ligne en 11 minutes, TTFB 198ms, domaine offert. Où il bat Xserver, où Lolipop gagne. Chiffres à l'appui."
+  "pinDescription": "ConoHa WING testé 30 jours : WordPress en ligne en 11 minutes, TTFB 198ms, domaine offert. Où il bat Xserver, où Lolipop gagne. Chiffres à l'appui.",
+  "methodology": "Chaque hébergeur a été évalué sur le TTFB mesuré (moyenne 30 jours, origine Tokyo), la durée réelle de configuration, les horaires de support, les outils de sauvegarde et migration, et le coût total sur 3 ans incluant les prix de renouvellement.",
+  "products": [
+    {
+      "offerId": "conoha-wing",
+      "badge": "Meilleur overall",
+      "review": "ConoHa WING offre l'intégration WordPress la plus rapide au Japon — 11 minutes de l'inscription au site HTTPS actif. Le TTFB a été de 198ms en moyenne sur 30 jours depuis Tokyo, devançant Xserver et Lolipop. Le bémol : support uniquement par chat en jours ouvrables, et le prix promotionnel double au renouvellement.",
+      "pros": ["WordPress en ligne en 11 minutes via かんたんセットアップ", "198ms TTFB — le plus rapide de cette comparaison", "Sauvegardes automatiques quotidiennes sur 14 jours incluses sans frais"],
+      "cons": ["Support chat uniquement du lundi au vendredi 10:00–18:00 — pas de téléphone ni de nuit"],
+      "grade": "A+",
+      "specs": {"TTFB (moy. 30 jours)": "198ms", "Temps de configuration": "11 min 04 sec", "Rétention des sauvegardes": "14 jours", "Durées de contrat": "1 / 12 / 36 mois", "Domaine gratuit": "Oui (WINGパック)", "SSL": "Let's Encrypt gratuit", "Centre de données": "Japon"},
+      "scores": {"Performance": 4.8, "Value": 4.2, "Support quality": 3.2, "Ease of use": 4.9, "Uptime": 4.7}
+    },
+    {
+      "offerId": "xserver",
+      "badge": "Meilleur support",
+      "review": "Le support téléphonique 24/7 de Xserver est la plus grande différence par rapport à ConoHa WING — si le site tombe à 2h du matin, on peut appeler. Le TTFB a été de 268ms en test, environ 35% plus lent que ConoHa. Les prix sont comparables, le choix dépend presque uniquement du style de support préféré.",
+      "pros": ["Support téléphonique 24/7 — aucun autre hébergeur de cette comparaison ne l'offre", "Solide historique de disponibilité sur une longue durée", "WordPress optimisé KUSANAGI pour les utilisateurs exigeants"],
+      "cons": ["268ms TTFB — nettement plus lent que ConoHa WING sur des plans équivalents"],
+      "grade": "A",
+      "specs": {"TTFB (moy. 30 jours)": "268ms", "Support téléphonique": "24/7", "Optimisation WordPress": "KUSANAGI", "Durées de contrat": "1 / 6 / 12 / 24 / 36 mois", "Domaine gratuit": "Oui (plans sélectionnés)", "SSL": "Let's Encrypt gratuit", "Centre de données": "Japon"},
+      "scores": {"Performance": 4.1, "Value": 4.0, "Support quality": 5.0, "Ease of use": 4.3, "Uptime": 4.9}
+    },
+    {
+      "offerId": "lolipop-server",
+      "badge": "Meilleur prix",
+      "review": "Le plan Hi-Speed de Lolipop à ¥550/mois est l'hébergement partagé complet le moins cher du Japon, mais avec 312ms TTFB, c'est le plus lent de la comparaison. Même infrastructure GMO que ConoHa WING, mais génération matérielle plus ancienne. Idéal pour les blogs loisirs, portfolios et quiconque priorise le coût mensuel sur la vitesse.",
+      "pros": ["Prix mensuel le plus bas — Hi-Speed à partir de ¥550/mois", "Même maison-mère GMO que ConoHa WING — infrastructure fiable", "Bon point de départ pour les sites loisirs et blogs à faible trafic"],
+      "cons": ["312ms TTFB — le plus lent de la comparaison par une marge significative"],
+      "grade": "B+",
+      "specs": {"TTFB (moy. 30 jours)": "312ms", "Prix de départ": "¥330/mois", "Plan Hi-Speed": "¥550/mois", "Domaine gratuit": "Oui (Hi-Speed)", "SSL": "Let's Encrypt gratuit", "Support": "Chat et email", "Centre de données": "Japon"},
+      "scores": {"Performance": 3.5, "Value": 4.9, "Support quality": 3.5, "Ease of use": 4.4, "Uptime": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les blogueurs débutants au Japon", "offerId": "conoha-wing", "reason": "Chemin le plus rapide de zéro à WordPress en ligne — un formulaire, une facture, 11 minutes de configuration."},
+    {"label": "Pour les entreprises nécessitant un support 24/7", "offerId": "xserver", "reason": "Le seul hébergeur de cette comparaison avec une ligne téléphonique permanente pour les incidents d'urgence."},
+    {"label": "Pour les sites loisirs avec un budget serré", "offerId": "lolipop-server", "reason": "Le plan Hi-Speed à ¥550/mois couvre l'essentiel sans payer pour une vitesse dont vous n'avez peut-être pas besoin."}
+  ]
 }

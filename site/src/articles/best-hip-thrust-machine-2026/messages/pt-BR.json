@@ -58,5 +58,64 @@
     "hip-thrust-pad-barbell": "Pad de espuma para barra de hip thrust com tira de velcro. $15-30. Acessório essencial para qualquer configuração de hip thrust — torna o contato da barra confortável sobre os ossos do quadril. Necessário independentemente da escolha de banco ou máquina."
   },
   "pinDescription": "Máquina de hip thrust 2026: Bells of Steel Hip Thruster vs REP AB-5200 vs Valor vs Titan — por que a altura do pad importa, como configurar o hip thrust com barra em qualquer banco, dica da contração dos glúteos no topo e qual máquina dedicada vale a pena comprar para treino sério de glúteos. #hipThrust #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada máquina de hip thrust foi avaliada em altura do pad, ajustabilidade da plataforma de pés, integração do berço de barra, capacidade de carga, estabilidade do quadro sob carga e custo-benefício — com cenários de carga real até 180 kg como critério principal.",
+  "products": [
+    {
+      "offerId": "bells-of-steel-hip-thruster",
+      "badge": "Melhor no Geral",
+      "review": "A estação de hip thrust mais completa e específica: o berço de barra integrado mantém a barra na altura do quadril antes de sentar (sem precisar rolar), plataforma de pés ajustável, pad amplo e acolchoado, rodas. A $1.199 é um investimento premium — justificado se você faz hip thrust 3+ vezes por semana e valoriza setup sem fricção. Todo o resto é um compromisso.",
+      "pros": ["Berço de barra integrado elimina o rolamento da barra do chão", "Plataforma de pés ajustável para setup consistente entre sessões", "Rodas para reposicionamento fácil na academia"],
+      "cons": ["Preço de $1.199 é significativo — excessivo para hip thrust ocasional"],
+      "grade": "A+",
+      "specs": {"Preço": "$1.199", "Capacidade de carga": "Projetada para cargas pesadas", "Altura do pad traseiro": "~43–46 cm", "Plataforma de pés": "Ajustável", "Pegada": "Requer espaço dedicado"},
+      "scores": {"Qualidade de construção": 5.0, "Facilidade de uso": 5.0, "Conforto": 4.8, "Capacidade de carga": 5.0, "Custo-benefício": 3.8}
+    },
+    {
+      "offerId": "rep-fitness-ab-5200-fid-bench",
+      "badge": "Melhor Opção Dual",
+      "review": "Um banco ajustável FID de alta qualidade que também funciona bem para hip thrust: 43 cm de altura do pad em plano, quadro de grau comercial, pesado o suficiente para não mover. Sem berço de barra — ainda é preciso rolar a barra. Em contrapartida, também é uma estação completa de supino — o duplo uso o torna eficiente em espaço para academias mistas.",
+      "pros": ["43 cm de altura do pad correto para a maioria dos setups de hip thrust", "Função FID completa — serve também como estação de supino", "Estabilidade do quadro comercial sob cargas pesadas"],
+      "cons": ["Sem berço de barra integrado — a barra deve ser rolada a cada série"],
+      "grade": "A",
+      "specs": {"Preço": "$500", "Capacidade de carga": "454 kg", "Altura do pad (plano)": "43 cm", "Posições de inclinação": "6 posições", "Quadro": "Aço 11-gauge 76mm²"},
+      "scores": {"Qualidade de construção": 4.8, "Facilidade de uso": 3.8, "Conforto": 4.5, "Capacidade de carga": 4.8, "Custo-benefício": 4.3}
+    },
+    {
+      "offerId": "valor-fitness-hip-thrust-bench",
+      "badge": "Melhor Dedicada Médio Alcance",
+      "review": "Estação de hip thrust específica com plataforma de pés integrada e pad traseiro inclinado a custo menor que Bells of Steel. Adequada até 180 kg — cobre a maioria das progressões de academias em casa. A construção mais leve vs. as opções premium é notável mas não compromete a função em cargas moderadas. Melhor opção para atletas que querem um banco dedicado sem o preço do Bells of Steel.",
+      "pros": ["Projetada especificamente para hip thrust com plataforma integrada", "Capacidade de 180 kg para a maioria dos usuários de academia em casa", "Custo menor que Bells of Steel para a função principal"],
+      "cons": ["Quadro mais leve que as opções premium — mais flexão nas cargas máximas"],
+      "grade": "B+",
+      "specs": {"Preço": "$89,99", "Capacidade de carga": "181 kg", "Pad traseiro": "Inclinado, acolchoado", "Plataforma de pés": "Integrada, fixa"},
+      "scores": {"Qualidade de construção": 3.8, "Facilidade de uso": 4.5, "Conforto": 4.0, "Capacidade de carga": 4.0, "Custo-benefício": 4.8}
+    },
+    {
+      "offerId": "titan-fitness-hip-thrust-machine",
+      "badge": "Melhor Dedicada Econômica",
+      "review": "A máquina de hip thrust da Titan fornece a função principal — plataforma de pés ajustável, berço de barra — a custo menor que REP ou Bells of Steel. A qualidade de construção é inferior: quadro menos rígido, hardware mais leve. Para atletas de academia em casa que querem uma máquina dedicada ao custo mínimo e treinam até 135 kg, entrega a função essencial.",
+      "pros": ["Função de hip thrust dedicada com berço de barra", "Plataforma ajustável para setup consistente", "O menor custo entre as máquinas dedicadas nesta comparação"],
+      "cons": ["Abaixo de REP e Bells of Steel em rigidez do quadro e qualidade do hardware"],
+      "grade": "B",
+      "specs": {"Preço": "$499", "Pad traseiro": "Acolchoado, altura fixa", "Plataforma de pés": "Ajustável", "Berço de barra": "Sim"},
+      "scores": {"Qualidade de construção": 3.5, "Facilidade de uso": 4.3, "Conforto": 3.8, "Capacidade de carga": 3.8, "Custo-benefício": 4.3}
+    },
+    {
+      "offerId": "hip-thrust-pad-barbell",
+      "badge": "Acessório Indispensável",
+      "review": "O pad para barra de hip thrust não é opcional — torna a barra de 45mm confortável sobre os ossos do quadril, que caso contrário se tornam o fator limitante antes dos glúteos se fatigarem. Espuma com tira de velcro, funciona com qualquer banco ou máquina. A ~$25, é a primeira compra obrigatória para qualquer setup de hip thrust. Não tente hip thrust pesado sem ele.",
+      "pros": ["Indispensável para hip thrust pesado sem dor — não opcional", "Funciona com qualquer banco ou máquina dedicada de hip thrust", "$15–30 — o item mais barato de qualquer setup de hip thrust"],
+      "cons": ["A espuma comprime levemente com uso pesado frequente — substituir a cada 6–12 meses com uso intenso"],
+      "grade": "B-",
+      "specs": {"Preço": "$24,99", "Material": "Espuma de alta densidade", "Fechamento": "Tira de velcro", "Compatibilidade": "Qualquer barra padrão"},
+      "scores": {"Qualidade de construção": 3.5, "Facilidade de uso": 4.8, "Conforto": 4.5, "Capacidade de carga": 4.0, "Custo-benefício": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para treino sério de glúteos 3+ vezes por semana", "offerId": "bells-of-steel-hip-thruster", "reason": "Zero fricção de setup — berço de barra, plataforma consistente, sem improvisação"},
+    {"label": "Para academias em casa que precisam de banco e hip thrust", "offerId": "rep-fitness-ab-5200-fid-bench", "reason": "Melhor opção dual — banco ajustável completo mais altura de pad correta para hip thrust"},
+    {"label": "Para hip thrust dedicado com orçamento médio", "offerId": "valor-fitness-hip-thrust-bench", "reason": "Projetado especificamente com plataforma integrada por menos de $200"},
+    {"label": "Para a máquina de hip thrust dedicada mais econômica", "offerId": "titan-fitness-hip-thrust-machine", "reason": "Função principal de hip thrust — berço de barra e plataforma ajustável — ao custo mínimo"},
+    {"label": "Para quem está começando com barbell hip thrust", "offerId": "hip-thrust-pad-barbell", "reason": "A primeira compra obrigatória — sem pad não há hip thrust confortável, independentemente do banco"}
+  ]
 }

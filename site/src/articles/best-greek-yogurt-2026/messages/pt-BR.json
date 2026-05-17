@@ -61,5 +61,184 @@
     "siggis-icelandic-yogurt": "Estilo skyr — mais denso e com menos açúcar do que a maioria dos iogurtes gregos"
   },
   "pinDescription": "5 melhores iogurtes gregos classificados por proteína, açúcar e textura — do denso Fage ao baixo em açúcar Siggi's. Encontre o seu para o café da manhã, cozinhar ou recuperação pós-treino. #iogurtegrego #proteína #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada iogurte foi avaliado pelo teor de proteína por porção, níveis de açúcar (natural e adicionado), comprimento e qualidade da lista de ingredientes, consistência de textura, perfil de sabor, transparência de fornecimento e preço por grama de proteína.",
+  "products": [
+    {
+      "offerId": "fage-total-0",
+      "badge": "Melhor geral",
+      "review": "Fage Total 0% estabelece o padrão para iogurte grego autêntico com 18–19g de proteína por 200g e apenas 2 ingredientes — sem espessantes, sem pectina, textura inteiramente do coamento. O sabor é mais acentuado e ácido do que as marcas americanas — isso é uma característica, não um defeito. O compromisso é uma acidez mais forte que requer adaptação.",
+      "pros": [
+        "18–19g de proteína por 200g — maior proteína sem gordura no mercado convencional",
+        "Apenas 2 ingredientes, sem espessantes ou aditivos",
+        "Textura densa que mantém a forma ao servir com colher"
+      ],
+      "cons": [
+        "O sabor ácido mais acentuado pode requerer adaptação para quem está acostumado a marcas mais suaves"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Porção": "200g",
+        "Proteína": "18–19g",
+        "Gordura": "0%",
+        "Açúcar": "~8g natural",
+        "Ingredientes": "2",
+        "Certificações": "Kosher",
+        "Preço": "~$7,49"
+      },
+      "scores": {
+        "Protein": 4.9,
+        "Taste": 4.5,
+        "Value": 4.3,
+        "Texture": 4.8,
+        "Ingredient quality": 4.9
+      }
+    },
+    {
+      "offerId": "chobani-plain-nonfat",
+      "badge": "Melhor valor do dia a dia",
+      "review": "Chobani Plain Non-Fat é o cavalo de batalha da categoria — espesso mas não denso, acidez limpa e 15g de proteína por pote de 150g com apenas 3 ingredientes. O pote de 900g oferece o melhor valor por grama de proteína nos supermercados. A versão sem gordura tem ligeiramente mais carboidratos do que a versão 2%.",
+      "pros": [
+        "Fórmula de 3 ingredientes sem açúcar adicionado",
+        "Pote de 900g oferece o melhor custo por grama de proteína",
+        "Genuinamente versátil em culinária e smoothies"
+      ],
+      "cons": [
+        "A versão sem gordura tem ligeiramente mais carboidratos que a versão 2% pela concentração dos açúcares do leite"
+      ],
+      "grade": "A",
+      "specs": {
+        "Porção": "150g",
+        "Proteína": "15g",
+        "Gordura": "0%",
+        "Açúcar": "~6g natural",
+        "Ingredientes": "3",
+        "Tamanho pote": "900g disponível",
+        "Preço": "~$6,98"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Taste": 4.4,
+        "Value": 4.8,
+        "Texture": 4.3,
+        "Ingredient quality": 4.6
+      }
+    },
+    {
+      "offerId": "siggis-icelandic-yogurt",
+      "badge": "Melhor baixo teor de açúcar",
+      "review": "O skyr islandês de Siggi's fornece 17g de proteína por 150g com apenas 6g de carboidratos — a menor proporção açúcar-proteína nesta comparação. A textura é mais densa que o iogurte grego, quase para passar, e o sabor é intensamente ácido. A linha de sabores mantém o açúcar adicionado abaixo de 9g no total.",
+      "pros": [
+        "Apenas 6g de carboidratos totais por pote de 150g",
+        "17g de proteína com muito baixo açúcar adicionado na linha de sabores",
+        "A densidade única do skyr funciona como substituto do cream cheese em torradas"
+      ],
+      "cons": [
+        "O sabor intensamente ácido é um gosto adquirido"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Porção": "150g",
+        "Proteína": "17g",
+        "Gordura": "0%",
+        "Carboidratos totais": "6g",
+        "Estilo": "Skyr islandês",
+        "Adoçante": "Nenhum (natural)",
+        "Preço": "~$6,49"
+      },
+      "scores": {
+        "Protein": 4.7,
+        "Taste": 4.0,
+        "Value": 4.0,
+        "Texture": 4.6,
+        "Ingredient quality": 4.7
+      }
+    },
+    {
+      "offerId": "oikos-triple-zero",
+      "badge": "Melhor opção com sabor",
+      "review": "Oikos Triple Zero atinge 15g de proteína a 90 calorias com zero açúcar adicionado, zero adoçantes artificiais e zero gordura — usando extrato de fruta do monge nas variedades com sabor. Para rastreadores de macros que querem iogurte com sabor sem stevia ou sucralose, esta é a única opção convencional. Algumas variedades com sabor adicionam fibra de chicória.",
+      "pros": [
+        "Zero açúcar adicionado, zero adoçantes artificiais, zero gordura na linha de sabores",
+        "Adoçado com fruta do monge — sem stevia ou sucralose",
+        "15g de proteína a 90 calorias"
+      ],
+      "cons": [
+        "Algumas variedades com sabor contêm fibra de chicória (verificar rótulo se sensível)"
+      ],
+      "grade": "B",
+      "specs": {
+        "Porção": "150g",
+        "Proteína": "15g",
+        "Gordura": "0%",
+        "Carboidratos": "7g",
+        "Açúcar adicionado": "0g",
+        "Adoçante": "Fruta do monge",
+        "Preço": "~$1,49"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Taste": 4.2,
+        "Value": 4.9,
+        "Texture": 4.1,
+        "Ingredient quality": 4.2
+      }
+    },
+    {
+      "offerId": "stonyfield-organic-greek",
+      "badge": "Melhor por origem",
+      "review": "Stonyfield Organic é a escolha quando certificação e origem importam: certificado orgânico USDA, leite de vacas criadas a pasto e cinco cepas probióticas vivas nomeadas no rótulo. A proteína a 14–15g por porção é ligeiramente menor que Fage, e o sabor é mais suave — acidez gentil para quem acha Fage muito forte. Ligeiramente mais caro por onça.",
+      "pros": [
+        "Certificado orgânico USDA com leite de vacas criadas a pasto",
+        "5 culturas probióticas vivas nomeadas no rótulo",
+        "Sabor suave atrativo para quem acha Fage muito ácido"
+      ],
+      "cons": [
+        "Ligeiramente menos proteína (14–15g) e maior custo por onça que Chobani ou Fage"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Porção": "150g",
+        "Proteína": "14–15g",
+        "Certificação": "USDA Orgânico",
+        "Fonte do leite": "Vacas criadas a pasto",
+        "Probióticos": "5 cepas nomeadas",
+        "Gordura": "0%",
+        "Preço": "~$7,99"
+      },
+      "scores": {
+        "Protein": 4.2,
+        "Taste": 4.3,
+        "Value": 3.8,
+        "Texture": 4.2,
+        "Ingredient quality": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para máxima proteína por porção",
+      "offerId": "fage-total-0",
+      "reason": "18–19g de proteína por 200g com apenas 2 ingredientes e sem espessantes"
+    },
+    {
+      "label": "Para culinária e valor do dia a dia",
+      "offerId": "chobani-plain-nonfat",
+      "reason": "Melhor custo por grama de proteína no pote de 900g com fórmula limpa de 3 ingredientes"
+    },
+    {
+      "label": "Para ingestão muito baixa de açúcar",
+      "offerId": "siggis-icelandic-yogurt",
+      "reason": "Apenas 6g de carboidratos por porção com 17g de proteína — menor proporção açúcar-proteína"
+    },
+    {
+      "label": "Para iogurte com sabor sem adoçantes artificiais",
+      "offerId": "oikos-triple-zero",
+      "reason": "Adoçado com fruta do monge com zero açúcar adicionado e sem stevia ou sucralose"
+    },
+    {
+      "label": "Para origem orgânica e de pasto",
+      "offerId": "stonyfield-organic-greek",
+      "reason": "Orgânico USDA, leite de vacas criadas a pasto e 5 cepas probióticas nomeadas no rótulo"
+    }
+  ]
 }

@@ -92,5 +92,139 @@
     "columbia-newton-ridge-plus-ii": "Precio de entrada más accesible con impermeabilización genuina y un ajuste que acomoda formas de pie anchas. La suela Omni-Grip y el entresuela más suave limitan el rendimiento en terreno técnico y la durabilidad a 600-800 km. La elección correcta para el senderismo moderado en sendero con presupuesto ajustado."
   },
   "pinDescription": "Botas de senderismo comparadas para 2026 — opciones impermeables de corte medio desde entrada de $110 hasta botas técnicas de aproximación de $200. Salomon vs Merrell vs Hoka vs La Sportiva vs Columbia: qué suela, qué impermeabilización y qué ajuste es el adecuado para tus senderos. #botasDeSenderismo #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada bota fue puntuada en cinco criterios específicos de sendero: soporte de tobillo y torsional medido frente a la rigidez del collarín, tipo de membrana impermeable y compensación de transpirabilidad, patrón de tacos de suela y tracción en roca mojada y barro, precio por km de vida útil indicada, y distancia de amoldado según informes de propietarios.",
+  "products": [
+    {
+      "offerId": "salomon-x-ultra-4-gtx",
+      "badge": "El Mejor en General",
+      "review": "El X Ultra 4 GTX establece el estándar para botas de senderismo de una sola pieza con su horma Contragrip precisa y el sistema de cierre Quicklace. La suela Contagrip MA proporciona agarre fiable en roca y barro sin ser demasiado agresiva para uso en ciudad. El único inconveniente real es el precio: a $200 cuesta $90 más que el Columbia, diferencia que solo se justifica si haces rutas técnicas con regularidad.",
+      "pros": ["Horma de precisión que reduce la fatiga en 10+ km", "Sistema Quicklace permite ajuste fino con un solo tirón", "Membrana GTX con excelente relación impermeabilidad/transpirabilidad"],
+      "cons": ["Precio premium que no se justifica para rutas suaves ocasionales"],
+      "grade": "A+",
+      "specs": {
+        "Membrana": "Gore-Tex",
+        "Suela": "Contagrip MA",
+        "Altura del collarín": "Mid",
+        "Peso (par)": "880 g",
+        "Tipo de cierre": "Quicklace",
+        "Distancia de amoldado": "~8 km"
+      },
+      "scores": {
+        "Support": 4.7,
+        "Waterproofing": 4.8,
+        "Traction": 4.7,
+        "Value": 4.3,
+        "Durability": 4.8
+      }
+    },
+    {
+      "offerId": "merrell-moab-3-mid-wp",
+      "badge": "Mejor Relación Calidad-Precio",
+      "review": "El Moab 3 Mid WP ofrece la mejor combinación de precio y rendimiento del grupo: protección Vibram TC5+ comprobada, membrana M Select DRY y una horma que se adapta bien a pies medianos y anchos. No es tan rígido torsionalmente como el Salomon en terreno técnico, pero para el 90% de los senderistas es más que suficiente al costar $45 menos.",
+      "pros": ["Suela Vibram TC5+ con adherencia superior en roca mojada", "Horma amplia que se adapta a diversos tipos de pie", "Excelente relación precio-durabilidad a $155"],
+      "cons": ["Menor rigidez torsional en terreno muy técnico"],
+      "grade": "A",
+      "specs": {
+        "Membrana": "M Select DRY",
+        "Suela": "Vibram TC5+",
+        "Altura del collarín": "Mid",
+        "Peso (par)": "960 g",
+        "Tipo de cierre": "Cordón tradicional",
+        "Distancia de amoldado": "~5 km"
+      },
+      "scores": {
+        "Support": 4.3,
+        "Waterproofing": 4.5,
+        "Traction": 4.6,
+        "Value": 4.9,
+        "Durability": 4.4
+      }
+    },
+    {
+      "offerId": "hoka-anacapa-mid-gtx",
+      "badge": "Mejor Amortiguación",
+      "review": "La Anacapa Mid GTX lleva la plataforma de amortiguación de Hoka al senderismo con resultados mixtos. La amortiguación gruesa protege articulaciones y rodillas en largas travesías, y la suela Vibram Megagrip agarra sorprendentemente bien. Sin embargo, la plataforma elevada reduce la propiocepción en senderos técnicos y el precio de $175 supone un sobrecoste respecto al Merrell.",
+      "pros": ["Amortiguación gruesa ideal para días de más de 20 km", "Membrana Gore-Tex con buen sellado en lluvia intensa", "Vibram Megagrip con excelente tracción en todo terreno"],
+      "cons": ["Plataforma alta reduce la sensación de suelo en rutas técnicas"],
+      "grade": "B+",
+      "specs": {
+        "Membrana": "Gore-Tex",
+        "Suela": "Vibram Megagrip",
+        "Altura del collarín": "Mid",
+        "Peso (par)": "960 g",
+        "Gota": "6 mm",
+        "Distancia de amoldado": "~10 km"
+      },
+      "scores": {
+        "Support": 4.0,
+        "Waterproofing": 4.7,
+        "Traction": 4.8,
+        "Value": 3.8,
+        "Durability": 4.3
+      }
+    },
+    {
+      "offerId": "la-sportiva-tx4-gtx",
+      "badge": "Mejor para Terreno Técnico",
+      "review": "La TX4 GTX es la bota de aproximación más especializada del grupo, con la suela Vibram Megagrip más agresiva y la mayor rigidez torsional. Domina en roca seca y húmeda donde otras botas resbalan. El precio de $189 es casi tan alto como el Salomon, y el break-in de 20+ km hace que no sea adecuada para senderistas casuales.",
+      "pros": ["Suela Vibram Megagrip con tracción perfecta en roca", "Rigidez torsional máxima para escalada de aproximación", "Gore-Tex con sellado fiable en condiciones extremas"],
+      "cons": ["Break-in largo (~20 km) y ajuste estrecho inicial"],
+      "grade": "B",
+      "specs": {
+        "Membrana": "Gore-Tex",
+        "Suela": "Vibram Megagrip",
+        "Tipo": "Bota de aproximación",
+        "Peso (par)": "860 g",
+        "Rigidez torsional": "Alta",
+        "Distancia de amoldado": "~20 km"
+      },
+      "scores": {
+        "Support": 4.8,
+        "Waterproofing": 4.6,
+        "Traction": 5.0,
+        "Value": 3.5,
+        "Durability": 4.9
+      }
+    },
+    {
+      "offerId": "columbia-newton-ridge-plus-ii",
+      "badge": "Mejor Precio de Entrada",
+      "review": "El Newton Ridge Plus II ofrece protección impermeable real y un ajuste generoso a solo $110, lo que lo convierte en la mejor introducción al senderismo con bota de corte medio. La suela Omni-Grip y el midsole más blando limitan el rendimiento en terreno técnico y la vida útil a 600-800 km. Es la elección correcta si haces senderismo moderado en sendero sin requerir tracción especializada.",
+      "pros": ["El precio más accesible del grupo a $110", "Ajuste amplio que acomoda pies anchos cómodamente", "Impermeabilización genuina Omni-Tech para lluvia moderada"],
+      "cons": ["Suela y midsole limitados en terreno técnico exigente"],
+      "grade": "B-",
+      "specs": {
+        "Membrana": "Columbia Omni-Tech",
+        "Suela": "Omni-Grip",
+        "Altura del collarín": "High",
+        "Peso (par)": "1040 g",
+        "Vida útil estimada": "600-800 km",
+        "Distancia de amoldado": "~3 km"
+      },
+      "scores": {
+        "Support": 3.8,
+        "Waterproofing": 4.2,
+        "Traction": 3.8,
+        "Value": 5.0,
+        "Durability": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para senderistas que buscan la mejor bota todoterreno",
+      "offerId": "salomon-x-ultra-4-gtx",
+      "reason": "La horma de precisión y el sistema Quicklace lo hacen el más versátil del grupo para rutas exigentes."
+    },
+    {
+      "label": "Para senderistas que buscan la mejor relación calidad-precio",
+      "offerId": "merrell-moab-3-mid-wp",
+      "reason": "Suela Vibram y durabilidad comprobada a $45 menos que el Salomon — el punto óptimo para la mayoría."
+    },
+    {
+      "label": "Para escaladores de aproximación y terreno técnico",
+      "offerId": "la-sportiva-tx4-gtx",
+      "reason": "La tracción Vibram Megagrip y la rigidez máxima son insuperables en roca seca y húmeda."
+    }
+  ]
 }

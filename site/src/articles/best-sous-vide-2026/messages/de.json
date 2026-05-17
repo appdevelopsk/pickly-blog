@@ -86,5 +86,64 @@
     "polyscience-creative-sous-vide": "Beste Temperaturpraezision der Gruppe. Fuer professionelle Kuechen entwickelt; geeignet fuer Heimkoechinnen und -koeche, die reproduzierbare Praezision fuer Eier und temperatursensiblen Fisch benoetigen."
   },
   "pinDescription": "Sous-vide-Garer-Vergleich 2026: Anova Precision Cooker Pro vs Breville Joule Turbo vs Inkbird ISV-100W vs Wancle vs PolyScience Creative. Perfektes Medium-Rare-Steak jedes Mal -- welcher Zirkulator passt in Ihre Kueche? #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jeder Zirkulator wurde auf die angegebene Temperaturgenauigkeit unter Lastbedingungen, Leistung bei grossen Behaeltern, App-Abhaengigkeitsrisiko (manuelle vs. nur App-Bedienung), Motorlaerm bei langen Nachtgarungen und Besitzerberichte zur Hardware-Langlebigkeit nach 18 Monaten bewertet.",
+  "products": [
+    {
+      "offerId": "anova-precision-cooker-pro",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Der Anova Precision Cooker Pro setzt den Massstab fuer ernsthaftes Heimsous-vide: 1200W bewältigen grosse Behaelter problemlos, ±0,1°C Genauigkeit ist wichtig fuer Eier und Fisch, und das Geraet funktioniert vollstaendig manuell ohne App. WiFi ermoeglicht optional die Fernueberwachung bei Nachtgarungen — ein praktischer Vorteil, wenn Sie schlafen und ein 24-Stunden-Schweineschulter-Koch noch laeuft.",
+      "pros": ["1200W Motor bewältigt Behaelter bis 100L ohne Stocken", "Vollstaendige manuelle Steuerung — funktioniert ohne App oder WiFi", "±0,1°C Genauigkeit zuverlaessig fuer Eier und temperaturempfindliche Proteine"],
+      "cons": ["199 $ ist der gemeinsam hoechste Preis in diesem Vergleich"],
+      "grade": "A+",
+      "specs": {"Leistung": "1200W", "Temperaturgenauigkeit": "±0,1°C", "Temperaturbereich": "0–92°C", "Max. Behaelter": "100L", "Konnektivitaet": "WiFi + Bluetooth", "Abmessungen": "38cm hoch, 490g"},
+      "scores": {"Temperature accuracy": 4.9, "Power": 5.0, "Ease of use": 4.5, "Value": 3.8, "Noise": 4.0}
+    },
+    {
+      "offerId": "breville-joule-turbo",
+      "badge": "Bestes kompaktes Design",
+      "review": "Der Breville Joule Turbo ist das kleinste Vollleistungsgeraet in diesem Vergleich mit 28cm und 281g, und sein Turbo-Modus verkuerzt die Aufheizzeit wirklich um bis zu 30% — bedeutsam fuer das Kochen an Wochentagen, wenn Sie das Bad starten moechten, bevor Sie Ihr Gemuese schneiden. Die App-only-Bedienung ist eine echte Abhaengigkeit: Wenn die App die Unterstuetzung fuer das OS Ihres Telefons einstellt, wird das Geraet unbrauchbar.",
+      "pros": ["Kleinstes und leichtestes Vollleistungsgeraet — 28cm, 281g", "Turbo-Modus verkuerzt Aufheizzeit um bis zu 30%", "Gut gestaltete App mit gefuehrten Garzeiten fuer gaengige Proteine"],
+      "cons": ["Nur App-Bedienung — keine manuellen Steuerelemente am Geraet selbst"],
+      "grade": "A",
+      "specs": {"Leistung": "1100W", "Temperaturgenauigkeit": "±0,1°C", "Temperaturbereich": "25–99°C", "Max. Behaelter": "30L", "Konnektivitaet": "WiFi (erforderlich)", "Abmessungen": "28cm hoch, 281g"},
+      "scores": {"Temperature accuracy": 4.8, "Power": 4.7, "Ease of use": 4.0, "Value": 3.9, "Noise": 4.5}
+    },
+    {
+      "offerId": "inkbird-isv100w",
+      "badge": "Bestes Budget-WiFi-Geraet",
+      "review": "Der Inkbird ISV-100W liefert WiFi-Konnektivitaet und manuelle physische Steuerelemente zu einem deutlich guenstigeren Preis als Anova und Breville. Die ±0,5°C Genauigkeit ist ausreichend fuer Steak, Huhn und Schweinefleisch — sie wird nur fuer Eier und Fisch zur Einschraenkung, wo schmale Temperaturfenster wichtig sind. Stellen Sie es auf die Mitte Ihres Zieltemperaturbereichs ein, und es funktioniert zuverlaessig fuer den Alltag.",
+      "pros": ["Manueller Drehregler und Display — funktioniert ohne Telefon oder WiFi", "WiFi ermoeglicht optionale Terminplanung und Fernueberwachung", "Guenstiger Preis mit ausreichender Genauigkeit fuer die meisten Proteine"],
+      "cons": ["±0,5°C Genauigkeit verfehlt das schmale Fenster fuer Eier und empfindlichen Fisch"],
+      "grade": "B+",
+      "specs": {"Leistung": "1000W", "Temperaturgenauigkeit": "±0,5°C", "Temperaturbereich": "25–99,9°C", "Max. Behaelter": "12L", "Konnektivitaet": "WiFi + manuelle Steuerung", "Abmessungen": "33cm hoch, ~900g"},
+      "scores": {"Temperature accuracy": 4.0, "Power": 4.3, "Ease of use": 4.7, "Value": 4.9, "Noise": 4.2}
+    },
+    {
+      "offerId": "wancle-sous-vide",
+      "badge": "Bestes Geraet ohne App",
+      "review": "Der Wancle Sous Vide Cooker ist das einfachste Geraet in diesem Vergleich: Drehregler auf Temperatur und Zeit einstellen, am Topf befestigen, weggehen. Kein WiFi, kein Cloud-Konto, keine App-Updates, die die Funktionalitaet beeintraechtigen koennen. Die 850W Ausgangsleistung reicht fuer die Einzelmahlzeiten-Zubereitung in Toepfen bis 15L. Wenn Sie App-abhaengigen Geraeten misstrauen, ist das die unkomplizierte Alternative.",
+      "pros": ["Keine App, kein WiFi, keine Cloud-Abhaengigkeit — voellig eigenstaendig", "Einfache Drehandsteuerung mit LED-Display", "Zuverlaessig fuer alle grundlegenden Sous-vide-Garungen ohne Komplexitaet"],
+      "cons": ["850W kaempft mit grossen Behaeltern — Vorheizzeit laenger als bei 1000W+ Geraeten"],
+      "grade": "B",
+      "specs": {"Leistung": "850W", "Temperaturgenauigkeit": "±0,5°C", "Temperaturbereich": "25–99,5°C", "Max. Behaelter": "15L", "Konnektivitaet": "Keine", "Abmessungen": "30cm hoch, ~800g"},
+      "scores": {"Temperature accuracy": 3.8, "Power": 3.5, "Ease of use": 5.0, "Value": 4.7, "Noise": 4.0}
+    },
+    {
+      "offerId": "polyscience-creative-sous-vide",
+      "badge": "Beste Temperaturgenauigkeit",
+      "review": "Die PolyScience Creative Series ist das einzige Geraet in diesem Vergleich mit professioneller Kuechen-Abstammung und ±0,07°C Temperaturstabilitaet — die Praezision, die Restaurantkuechen fuer die Rezeptreproduierbarkeit ueber Hunderte von Ansaetzen benoetigen. Fuer den Heimkoch, der regelmaessig 63°C-Eier oder 45°C-Lachs zubereitet, eliminiert diese Praezision die Texturvarianz, die ±0,5°C-Geraete einfuehren. Der Preis spiegelt professionelle Aufbauqualitaet wider.",
+      "pros": ["±0,07°C Temperaturstabilitaet — engste Praezision in diesem Vergleich", "Professionelle Kuechen-Abstammung mit IP-bewertetem Spritzschutz", "Manuelle Steuerung ohne App-Abhaengigkeit"],
+      "cons": ["329 $ Preis schwer zu rechtfertigen, es sei denn, Praezision fuer Eier oder Fisch ist Hauptanforderung"],
+      "grade": "B-",
+      "specs": {"Leistung": "1100W", "Temperaturgenauigkeit": "±0,07°C", "Temperaturbereich": "25–99°C", "Durchfluss": "11,5L/min", "Konnektivitaet": "Keine (nur manuell)", "Qualitaet": "Professionell, IP-bewertet"},
+      "scores": {"Temperature accuracy": 5.0, "Power": 4.7, "Ease of use": 4.3, "Value": 3.0, "Noise": 3.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Fuer Nacht- und Grossmengen-Garungen", "offerId": "anova-precision-cooker-pro", "reason": "1200W bewältigt 30L Behaelter und WiFi-Ueberwachung ermoeglicht die Temperaturkontrolle vom Bett aus waehrend einer 24-stuendigen Schweineschulter-Garung."},
+    {"label": "Fuer Kleinkuechen-Kocher, die schnelles Aufheizen wuenschen", "offerId": "breville-joule-turbo", "reason": "Das kleinste Vollleistungsgeraet mit Turbo-Modus — Aufheizzeitverkuerzung ist wichtig, wenn Sie das Bad waehrend der Wochentagsdinervorbereitung starten."},
+    {"label": "Fuer erstmalige Sous-vide-Kaeufer mit Budget", "offerId": "inkbird-isv100w", "reason": "WiFi-Ueberwachung plus manuelle Backup-Steuerung zu guenstigem Preis — ±0,5°C ist genau genug fuer Steak, Huhn und Schweineschulter."},
+    {"label": "Fuer Kaeufer, die App-abhaengigen Geraeten misstrauen", "offerId": "wancle-sous-vide", "reason": "Nur Drehregler und LED — nichts zu aktualisieren, keine Konnektivitaet zu verlieren, nichts hoert auf zu funktionieren, wenn ein Unternehmen ein neues OS pusht."},
+    {"label": "Fuer Eier, Fisch und reproduzierbares Praezisionskochen", "offerId": "polyscience-creative-sous-vide", "reason": "±0,07°C Stabilitaet bedeutet, dass 63°C-Eier jeden Morgen identisch herauskommen — die Praezision, die ±0,5°C-Geraete nicht zuverlaessig liefern koennen."}
+  ]
 }

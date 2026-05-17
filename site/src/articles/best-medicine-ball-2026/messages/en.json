@@ -57,5 +57,124 @@
     "cap-barbell-medicine-ball": "Single-layer rubber, pebble grip, moderate rebound. 4–30 lb range. Best budget pick for general conditioning."
   },
   "pinDescription": "Slam ball vs medicine ball vs soft-shell — 5 picks for every training goal, from overhead slams to partner pass drills. Know which type fits your workout before you buy.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each medicine ball was assessed on shell durability under repeated impact, rebound consistency, weight range availability, grip texture, and value — with the rebound behavior and shell integrity weighted highest, since the wrong type for your training style is functionally unusable.",
+  "products": [
+    {
+      "offerId": "rogue-medicine-ball",
+      "badge": "Best Slam Ball",
+      "review": "Rogue's slam ball uses a thick natural rubber shell with sand-and-rubber fill that kills rebound almost completely — the ball hits the floor and stays there. The shell is noticeably thicker than most commercial slam balls, which matters at high rep counts where thinner shells develop soft spots and split. Molded weight markings survive gym abuse that fades printed labels. The 10–150 lb range covers serious progression. Not designed for partner passes — the dense fill makes catching at force hard on wrists.",
+      "pros": ["Near-zero rebound — stays put after floor slams", "Thick rubber shell resists splitting under high rep volume", "Molded weight markings don't fade over time"],
+      "cons": ["Not suitable for partner passes — dense fill is hard on wrists when caught"],
+      "grade": "A+",
+      "specs": {
+        "Shell": "Thick natural rubber",
+        "Fill": "Sand and rubber crumb",
+        "Rebound": "Near-zero",
+        "Weight range": "10–150 lb",
+        "Price (example)": "$125.00"
+      },
+      "scores": {
+        "Build quality": 5.0,
+        "Durability": 5.0,
+        "Ease of use": 4.5,
+        "Value": 3.8,
+        "Versatility": 3.5
+      }
+    },
+    {
+      "offerId": "champion-sports-medicine-ball",
+      "badge": "Best for Wall Ball Drills",
+      "review": "Champion Sports' 4mm vulcanized rubber ball produces a moderate, predictable rebound — the kind that comes back to you at a consistent angle after a wall throw. This makes it the right tool for wall-ball catch drills, partner conditioning, and overhead squat-to-press mechanics. The 2–30 lb range covers beginners learning overhead mechanics without wrist stress. Cannot be slammed at full force — the return path becomes unpredictable and dangerous.",
+      "pros": ["Predictable moderate rebound for wall-ball and partner work", "2 lb starting weight for beginners learning overhead mechanics", "Pebbled grip holds in sweaty hands"],
+      "cons": ["Cannot be full-force slammed into the floor safely"],
+      "grade": "A",
+      "specs": {
+        "Shell": "4mm vulcanized rubber",
+        "Grip": "Pebbled texture",
+        "Rebound": "Moderate and predictable",
+        "Weight range": "2–30 lb",
+        "Price (example)": "$29.99"
+      },
+      "scores": {
+        "Build quality": 4.0,
+        "Durability": 4.2,
+        "Ease of use": 4.8,
+        "Value": 4.8,
+        "Versatility": 4.0
+      }
+    },
+    {
+      "offerId": "yes4all-slam-ball",
+      "badge": "Best Value Slam Ball",
+      "review": "Yes4All's slam ball covers the same functional territory as Rogue — sand fill, minimal rebound — at significantly lower cost. The shell is slightly thinner than Rogue's, visible in texture rather than structural failure under normal training loads. Weight options in 5 lb increments from 10–50 lb make building a progression ladder affordable: three Yes4All balls cost about the same as one Rogue at equivalent weights. Best for home gym users who want progression without premium hardware investment.",
+      "pros": ["Much lower cost than Rogue at same weights", "5 lb increment progression ladder is affordable", "Minimal rebound for safe indoor slams"],
+      "cons": ["Shell slightly thinner than Rogue — less durable under very high rep volume"],
+      "grade": "B+",
+      "specs": {
+        "Shell": "Heavy-duty rubber",
+        "Fill": "Sand",
+        "Rebound": "Minimal",
+        "Weight range": "10–50 lb (5 lb increments)",
+        "Price (example)": "$24.99"
+      },
+      "scores": {
+        "Build quality": 3.8,
+        "Durability": 3.8,
+        "Ease of use": 4.5,
+        "Value": 5.0,
+        "Versatility": 3.5
+      }
+    },
+    {
+      "offerId": "dynamax-medicine-ball",
+      "badge": "Best for Partner Training",
+      "review": "Dynamax is the only ball in this comparison designed specifically to be caught by another person. The foam-padded vinyl shell compresses on impact, absorbing enough force to make repeated chest passes and overhead throws comfortable without bruising forearms. Standardized diameter across all weights (a 10 lb and 20 lb are the same size) makes technique transfer clean as you add load. Cannot be used for floor slams — the seam will fail under repeated full-force impact.",
+      "pros": ["Foam-padded shell safe for partner passes and catches", "Same diameter across all weight ranges for consistent technique", "Works for push-up variations and plank roll-outs"],
+      "cons": ["Not for floor slams — seam will fail under full-force impact"],
+      "grade": "B",
+      "specs": {
+        "Shell": "Foam-padded vinyl",
+        "Diameter": "Standardized across all weights",
+        "Rebound": "Soft, absorbing",
+        "Weight range": "4–30 lb",
+        "Price (example)": "$165.00"
+      },
+      "scores": {
+        "Build quality": 4.2,
+        "Durability": 3.8,
+        "Ease of use": 5.0,
+        "Value": 3.0,
+        "Versatility": 4.5
+      }
+    },
+    {
+      "offerId": "cap-barbell-medicine-ball",
+      "badge": "Best Budget Classic",
+      "review": "CAP Barbell's single-layer rubber ball covers general conditioning, rehab drills, and beginner programs at the lowest price in this comparison. The pebble grip surface holds in sweat, and the ball maintains shape without notable soft spots at moderate use volumes. Not a slam ball — single-layer rubber will show damage from repeated hard floor impact. For Russian twists, seated rotational work, overhead press patterns, and light partner passes, it handles everything without issue.",
+      "pros": ["Lowest price in this comparison", "Adequate for general conditioning, rehab, and beginner programs", "Pebble grip holds through sweaty conditioning circuits"],
+      "cons": ["Single-layer construction — not suitable for hard floor slams"],
+      "grade": "B-",
+      "specs": {
+        "Shell": "Single-layer rubber",
+        "Grip": "Pebbled surface",
+        "Rebound": "Moderate",
+        "Weight range": "4–30 lb",
+        "Price range": "$15–45"
+      },
+      "scores": {
+        "Build quality": 3.2,
+        "Durability": 3.2,
+        "Ease of use": 4.5,
+        "Value": 5.0,
+        "Versatility": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For overhead slam training", "offerId": "rogue-medicine-ball", "reason": "Near-zero rebound and thick shell handles high-rep full-force slams without splitting"},
+    {"label": "For wall-ball and CrossFit WODs", "offerId": "champion-sports-medicine-ball", "reason": "Predictable moderate rebound makes wall-ball catches consistent and partner drills safe"},
+    {"label": "For home gym progression", "offerId": "yes4all-slam-ball", "reason": "5 lb increments from 10–50 lb let you build an affordable progression ladder at home"},
+    {"label": "For partner conditioning", "offerId": "dynamax-medicine-ball", "reason": "Foam-padded shell is the only design safe for repeated high-force partner passes"},
+    {"label": "For budget conditioning", "offerId": "cap-barbell-medicine-ball", "reason": "Covers general conditioning and rehab exercises at the lowest cost in this comparison"}
+  ]
 }

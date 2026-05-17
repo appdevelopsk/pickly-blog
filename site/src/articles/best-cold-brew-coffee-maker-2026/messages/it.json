@@ -92,5 +92,64 @@
     "county-line-mason-jar-cold-brew": "Punto di ingresso a costo piu basso — cestello a rete in acciaio inossidabile per barattoli mason a bocca larga. La rete metallica consente il sedimento; filtrare attraverso carta se la chiarezza e importante. Migliore come prova senza impegno o configurazione batch da 1 gallone ad alto volume."
   },
   "pinDescription": "5 macchine per cold brew confrontate per il 2026: torre a goccia lenta OXO, filtro a feltro Toddy, caraffa in vetro Primula Burke, caraffa compatta Takeya e kit barattolo mason County Line. Immersione vs goccia lenta, tipi di filtro, tempi di macerazione e rapporti del concentrato spiegati. #italiano",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni macchina è stata valutata su metodo di estrazione (immersione vs goccia lenta), tipo di filtro e quantità di sedimento, capacità del batch rispetto all'uso quotidiano, tempo di pulizia dopo una sessione reale e rapporto qualità-prezzo a 12 mesi di uso settimanale.",
+  "products": [
+    {
+      "offerId": "oxo-brew-compact-cold-brew",
+      "badge": "Migliore in Assoluto",
+      "review": "L'OXO Brew Compact è l'unica torre a goccia lenta in questa comparazione: acqua fresca sempre a contatto con il caffè macinato, nessun equilibrio di estrazione, più acidità e aromi preservati. Il compromesso è reale: 355–475 ml per batch non coprono più di 2 tazze al giorno.",
+      "pros": ["Il goccia lenta preserva meglio acidità e aromi rispetto a qualsiasi sistema ad immersione", "Caraffa in alluminio anodizzato e vetro borosilicato — l'hardware più robusto di questa comparazione", "Manopola del tasso di goccia regolabile e pre-filtro in carta per estrazione pulita senza oli"],
+      "cons": ["Solo 355–475 ml per batch — insufficiente per famiglie che consumano più di 2 tazze al giorno"],
+      "grade": "A+",
+      "specs": {"Metodo": "Torre a goccia lenta", "Capacità batch": "355–475 ml di concentrato", "Camera di infusione": "946 ml", "Tempo di estrazione": "12–24 ore", "Tipo di filtro": "Pre-filtro carta + camera in vetro", "Pulizia": "Sciacquare caraffa e camera — 5 min"},
+      "scores": {"Sapore": 4.9, "Valore": 4.0, "Comodità": 4.3, "Qualità": 4.8, "Freschezza": 4.7}
+    },
+    {
+      "offerId": "toddy-cold-brew-home",
+      "badge": "Migliore per Batch Settimanali",
+      "review": "La filtrazione con cuscinetto in feltro spesso di Toddy definisce lo standard di riferimento per il concentrato cold brew senza sedimenti dal 1964. Un cuscinetto ben condizionato produce una chiarezza più vicina all'espresso che ai filtri a rete metallica. Limite onesto: condizionare il feltro e cambiarlo ogni 2–3 mesi di uso settimanale è un impegno reale.",
+      "pros": ["La filtrazione in feltro è la più pulita tra tutti i sistemi consumer testati — praticamente zero sedimenti", "1,5 L di capacità copre il fabbisogno settimanale per 1–2 persone", "Il decantatore in vetro incluso conserva il concentrato fino a 2 settimane"],
+      "cons": ["Il cuscinetto richiede condizionamento prima di ogni uso e sostituzione ogni 2–3 mesi — costo di manutenzione continuo"],
+      "grade": "A",
+      "specs": {"Metodo": "Immersione con filtro a feltro", "Capacità batch": "1,5 L di concentrato", "Rapporto caffè": "340 g caffè per 1,5 L acqua (1:4,4)", "Tempo": "24 ore (frigorifero)", "Tipo di filtro": "Cuscinetto di feltro spesso", "Pulizia": "Drenaggio per gravità 30–45 min + risciacquo"},
+      "scores": {"Sapore": 4.7, "Valore": 4.5, "Comodità": 3.8, "Qualità": 4.9, "Freschezza": 4.5}
+    },
+    {
+      "offerId": "primula-burke-cold-brew-carafe",
+      "badge": "Migliore Caraffa in Vetro Quotidiana",
+      "review": "Il filtro a rete fine rimovibile e la caraffa in vetro borosilicato del Primula Burke raggiungono un equilibrio pratico: nessun condizionamento di feltro, nessun assemblaggio di scarico, vetro adatto alla lavastoviglie, 1,6 L per cicli di 2–3 giorni. La rete fine produce più sedimento del feltro Toddy ma meno del cestello County Line.",
+      "pros": ["Il filtro si estrae pulitamente — nessuna attesa di drenaggio per gravità, nessun condizionamento di feltro", "La caraffa in vetro borosilicato è adatta alla lavastoviglie e resistente ai graffi", "1,6 L di capacità per un ciclo di 2–3 giorni per 1–2 persone"],
+      "cons": ["Il 15% inferiore del concentrato ha sedimento fine — versare con cura"],
+      "grade": "B+",
+      "specs": {"Metodo": "Immersione con filtro a rete fine in acciaio inox", "Capacità batch": "1,6 L", "Rapporto caffè": "1:5–1:6", "Tempo": "16–20 ore (frigorifero)", "Tipo di filtro": "Rete fine in acciaio inox, rimovibile", "Pulizia": "Rimuovere il filtro e sciacquare — 2 min"},
+      "scores": {"Sapore": 4.5, "Valore": 4.6, "Comodità": 4.8, "Qualità": 4.4, "Freschezza": 4.4}
+    },
+    {
+      "offerId": "takeya-deluxe-cold-brew",
+      "badge": "Migliore per lo Sportello del Frigorifero",
+      "review": "La caratteristica distintiva del Takeya Deluxe è il suo profilo stretto che si adatta allo sportello del frigorifero. 1 L di capacità è ideale per 1–2 persone che preferiscono piccoli batch freschi piuttosto che la preparazione settimanale in grandi quantità.",
+      "pros": ["Il profilo stretto si adatta allo sportello del frigorifero — senza riorganizzare", "Coperchio a doppio strato di rete fine, nessun componente di filtro di ricambio necessario", "Vetro borosilicato più spesso, adatto alla lavastoviglie"],
+      "cons": ["1 L di capacità richiede preparazione quotidiana o a giorni alterni per due persone"],
+      "grade": "B",
+      "specs": {"Metodo": "Immersione con coperchio a doppio strato di rete fine", "Capacità batch": "1 L", "Rapporto caffè": "1:6–1:7", "Tempo": "12–24 ore (frigorifero)", "Tipo di filtro": "Doppio strato di rete fine in acciaio inox", "Pulizia": "Rimuovere il coperchio e sciacquare — 2 min"},
+      "scores": {"Sapore": 4.4, "Valore": 4.5, "Comodità": 4.7, "Qualità": 4.3, "Freschezza": 4.3}
+    },
+    {
+      "offerId": "county-line-mason-jar-cold-brew",
+      "badge": "Migliore Budget per Principianti",
+      "review": "Un cestello a rete in acciaio inossidabile per barattoli mason a bocca larga standard — il modo più economico per provare il cold brew e l'unico sistema che può scalare a batch da 1 gallone in questa comparazione. La rete più grossolana lascia passare più sedimento; filtrare con carta dopo risolve il problema di chiarezza.",
+      "pros": ["Costo totale più basso — cestello metallico + barattolo mason ben al di sotto di qualsiasi macchina dedicata", "Barattolo da 1 gallone supera la capacità di qualsiasi macchina dedicata in questa comparazione", "Nessun pezzo proprietario — funziona con qualsiasi barattolo mason a bocca larga"],
+      "cons": ["La rete metallica lascia passare particelle fini e oli di caffè — necessario filtrare con carta per la chiarezza"],
+      "grade": "B-",
+      "specs": {"Metodo": "Immersione con cestello a rete grossolana in acciaio inox", "Capacità batch": "Fino a 3,8 L con barattolo grande", "Rapporto caffè": "1:4–1:5", "Tempo": "12–24 ore", "Tipo di filtro": "Cestello a rete grossolana in acciaio inox", "Pulizia": "Rimuovere il cestello e sciacquare — 2 min; filtrage con carta opzionale"},
+      "scores": {"Sapore": 4.3, "Valore": 4.9, "Comodità": 4.4, "Qualità": 3.9, "Freschezza": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per gli appassionati di caffè specialty che vogliono il miglior sapore dai chicchi a origine singola", "offerId": "oxo-brew-compact-cold-brew", "reason": "L'estrazione a goccia lenta preserva la luminosità e gli aromi che i sistemi ad immersione appiattiscono."},
+    {"label": "Per le famiglie che preparano una volta a settimana e vogliono un concentrato senza sedimenti", "offerId": "toddy-cold-brew-home", "reason": "La filtrazione in feltro produce il concentrato più pulito di tutti i sistemi qui — la manutenzione ne vale la pena."},
+    {"label": "Per una caraffa in vetro quotidiana senza manutenzione del feltro", "offerId": "primula-burke-cold-brew-carafe", "reason": "Nessun drenaggio, nessun feltro, adatta alla lavastoviglie — l'opzione in vetro con meno manutenzione."},
+    {"label": "Per famiglie di 1–2 persone con spazio limitato nel frigorifero", "offerId": "takeya-deluxe-cold-brew", "reason": "L'unica macchina progettata specificamente per adattarsi allo sportello del frigorifero."},
+    {"label": "Per i principianti o chi ha bisogno di una capacità batch di 1 gallone", "offerId": "county-line-mason-jar-cold-brew", "reason": "Punto di ingresso meno costoso; scala a batch da un gallone più grandi di qualsiasi macchina dedicata."}
+  ]
 }

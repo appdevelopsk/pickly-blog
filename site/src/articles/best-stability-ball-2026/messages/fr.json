@@ -66,5 +66,174 @@
     "bosu-nexgen-stability-ball": "Dôme gonflable BOSU sur plateforme rigide — pas un ballon rond traditionnel. $100-150. Idéal pour l'entraînement à l'équilibre debout (dôme vers le haut : squats, fentes, exercices d'équilibre). Pas le bon choix si vous souhaitez un entraînement du gainage assis/couché — achetez plutôt un ballon rond."
   },
   "pinDescription": "Comparaison de ballons de stabilité 2026 : Trideer vs Gaiam vs Live Pro vs URBNFit vs BOSU NexGen — résistances anti-éclatement, guide des tailles, utilisation comme chaise de bureau, et quel ballon d'exercice améliore vraiment la force du gainage comparés.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "trideer-stability-ball",
+      "badge": "Meilleur au global",
+      "review": "La paroi en PVC de 2000 µm et la capacité anti-éclatement de 2200 lb de Trideer surpassent la plupart des concurrents dans cette tranche de prix — le PVC épais est nettement plus doux et chaud au toucher que le plastique dur des alternatives moins chères, ce qui compte lors d'une utilisation assise. La rétention d'air sur 30 jours est constante sans regonflage hebdomadaire. Inconvénient : la surface PVC lisse glisse sur les sols de salle de sport polis lors d'exercices dynamiques comme les rollouts.",
+      "pros": [
+        "Paroi PVC de 2000 µm — nettement plus épaisse que les concurrentes économiques",
+        "Capacité anti-éclatement de 2200 lb pour une utilisation sécurisée à domicile et au bureau",
+        "Pompe double action incluse ; gamme de tailles 45–85 cm"
+      ],
+      "cons": [
+        "La surface lisse glisse sur les sols polis lors des exercices dynamiques"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Épaisseur de paroi PVC": "2000 µm",
+        "Capacité anti-éclatement": "2200 lb",
+        "Gamme de tailles": "45, 55, 65, 75, 85 cm",
+        "Pompe incluse": "Double action",
+        "Surface": "PVC lisse",
+        "Meilleure surface": "Moquette / sol en caoutchouc"
+      },
+      "scores": {
+        "Burst resistance": 4.8,
+        "Grip texture": 3.8,
+        "Size options": 4.9,
+        "Value": 4.8,
+        "Durability": 4.7
+      }
+    },
+    {
+      "offerId": "gaiam-total-body-balance-ball",
+      "badge": "Meilleur kit débutant",
+      "review": "Le kit Gaiam associe un ballon anti-éclatement avec une pompe et un guide de 42 exercices — un ajout précieux pour les primo-acheteurs qui ont besoin d'une programmation structurée. Le ballon lui-même est anti-éclatement et comparable en qualité au Trideer. Inconvénient : les utilisateurs expérimentés n'obtiennent aucune valeur fonctionnelle supplémentaire par rapport au Trideer.",
+      "pros": [
+        "Guide de 42 exercices pour un programme de démarrage structuré",
+        "Ballon anti-éclatement avec pompe en un seul kit",
+        "Efficace pour les débutants ayant besoin d'une programmation initiale"
+      ],
+      "cons": [
+        "Les utilisateurs expérimentés n'obtiennent pas d'avantage par rapport au Trideer"
+      ],
+      "grade": "A",
+      "specs": {
+        "Inclus": "Ballon, pompe, guide de 42 exercices",
+        "Anti-éclatement": "Oui",
+        "Options de taille": "55, 65 cm",
+        "Gamme de prix": "30–50 €",
+        "Idéal pour": "Grands débutants",
+        "Surface": "PVC lisse"
+      },
+      "scores": {
+        "Burst resistance": 4.5,
+        "Grip texture": 3.7,
+        "Size options": 3.5,
+        "Value": 4.5,
+        "Durability": 4.4
+      }
+    },
+    {
+      "offerId": "live-pro-stability-ball",
+      "badge": "Meilleur pour sols de salle de sport",
+      "review": "La surface texturée du Live Pro est le différenciateur fonctionnel — sur les sols synthétiques polis des salles de sport, les ballons en PVC lisse glissent lors des rollouts et des curls ischio-jambiers, tandis que la texture ajoute de la friction. La capacité anti-éclatement de 2200 lb correspond à la Trideer. Inconvénient : pour une utilisation à domicile sur sol en caoutchouc ou moquette, l'avantage de la texture disparaît.",
+      "pros": [
+        "Surface texturée empêche le glissement sur les sols polis",
+        "2200 lb anti-éclatement correspond aux concurrents premium",
+        "Approprié commercialement pour les studios et salles de sport"
+      ],
+      "cons": [
+        "L'avantage de la texture disparaît sur caoutchouc ou moquette — surpayé vs Trideer pour usage à domicile"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Capacité anti-éclatement": "2200 lb",
+        "Surface": "Texturée (antidérapante)",
+        "Gamme de tailles": "55, 65, 75 cm",
+        "Gamme de prix": "40–60 €",
+        "Idéal pour": "Salle de sport commerciale / sols polis",
+        "Pompe incluse": "Oui"
+      },
+      "scores": {
+        "Burst resistance": 4.8,
+        "Grip texture": 4.7,
+        "Size options": 3.8,
+        "Value": 4.0,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "urbnfit-exercise-ball",
+      "badge": "Meilleur pour bureau à domicile",
+      "review": "La gamme de couleurs et finitions plus large d'URBNFit — au-delà des couleurs fonctionnelles de la plupart des marques — est le vrai différenciateur. La capacité anti-éclatement de 2000 lb et les options de taille sont fonctionnellement comparables à Trideer. Inconvénient : on paie pareil ou légèrement plus pour l'esthétique plutôt que les performances.",
+      "pros": [
+        "Plus large gamme de couleurs pour l'esthétique du bureau à domicile",
+        "Capacité anti-éclatement de 2000 lb pour usage à domicile",
+        "Mêmes performances fonctionnelles que Trideer"
+      ],
+      "cons": [
+        "Aucun avantage fonctionnel sur Trideer ; prime esthétique uniquement"
+      ],
+      "grade": "B",
+      "specs": {
+        "Capacité anti-éclatement": "2000 lb",
+        "Gamme de couleurs": "La plus large de la comparaison",
+        "Options de taille": "45–75 cm",
+        "Gamme de prix": "30–45 €",
+        "Idéal pour": "Bureau à domicile / visibilité studio",
+        "Surface": "PVC lisse"
+      },
+      "scores": {
+        "Burst resistance": 4.5,
+        "Grip texture": 3.6,
+        "Size options": 4.0,
+        "Value": 4.2,
+        "Durability": 4.3
+      }
+    },
+    {
+      "offerId": "bosu-nexgen-stability-ball",
+      "badge": "Meilleur pour équilibre debout",
+      "review": "Le BOSU NexGen est une catégorie de produit différente : un dôme gonflable sur une base rigide créant une instabilité délimitée (ne roule pas) plutôt que la liberté de 360 degrés d'un ballon rond. Cela le rend uniquement adapté aux exercices debout — squats, fentes, équilibre monopodal — où un ballon rond ne peut pas être utilisé en sécurité. Inconvénient : à 100–150 € c'est 2 à 4 fois le prix des ballons ronds.",
+      "pros": [
+        "Dôme gonflable sur base rigide — sûr pour les exercices debout",
+        "Instabilité délimitée unique pour l'équilibre debout et la stabilité monopodal",
+        "Compatible avec la programmation d'exercices BOSU"
+      ],
+      "cons": [
+        "Mauvais outil pour les exercices de gainage assis ou en décubitus ventral — acheter un ballon rond à la place"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Dôme gonflable sur plateforme rigide",
+        "Diamètre du dôme": "65 cm",
+        "Hauteur": "34 cm",
+        "Gamme de prix": "100–150 €",
+        "Idéal pour": "Équilibre debout, squats, fentes",
+        "Pas pour": "Exercices de gainage assis ou en décubitus ventral"
+      },
+      "scores": {
+        "Burst resistance": 4.6,
+        "Grip texture": 4.3,
+        "Size options": 2.0,
+        "Value": 3.5,
+        "Durability": 4.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour la plupart des utilisateurs à domicile",
+      "offerId": "trideer-stability-ball",
+      "reason": "PVC épais, 2200 lb anti-éclatement, pompe incluse et la plus large gamme de tailles couvrent chaque utilisation à domicile et chaise de bureau au prix le plus bas de la gamme intermédiaire."
+    },
+    {
+      "label": "Pour les grands débutants",
+      "offerId": "gaiam-total-body-balance-ball",
+      "reason": "Le guide de 42 exercices comble le fossé entre posséder un ballon et l'utiliser systématiquement — essentiel si vous n'avez jamais entraîné avec un ballon de stabilité."
+    },
+    {
+      "label": "Pour les salles de sport commerciales ou sols polis",
+      "offerId": "live-pro-stability-ball",
+      "reason": "La surface texturée empêche le glissement lors des exercices dynamiques de rollout et curl ischio-jambiers sur les sols synthétiques brillants courants dans les salles de sport commerciales."
+    },
+    {
+      "label": "Pour l'entraînement à l'équilibre debout",
+      "offerId": "bosu-nexgen-stability-ball",
+      "reason": "Les squats sur dôme BOSU et le travail d'équilibre monopodal ne peuvent pas être reproduits avec un ballon rond — la base rigide en fait la seule option pour un entraînement debout sur surface instable sécurisé."
+    }
+  ]
 }

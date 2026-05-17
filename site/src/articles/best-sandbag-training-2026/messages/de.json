@@ -58,5 +58,177 @@
     "cerberus-strength-sandbag": "Wettkampfstandard-Konstruktion, Kapazitat 68-200 kg, eingesetzt bei Strongman-Corporation-Events. $150-300. Bestes fur echtes Strongman-Wettkampftraining -- wettkampfaquivalente Ausrustung. Lastkapazitaten ubersteigen die meisten Heimgym-Bedurfnisse."
   },
   "pinDescription": "Trainings-Sandsack-Vergleich 2026: Rogue vs REP Fitness vs GORUCK vs Viking Strength vs Cerberus -- verschiebendes Gewicht vs Hanteln, was Sandsacktraining entwickelt und welcher Sandsack die Investition wert ist. #Sandsacktraining #Krafttraining #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "rogue-sandbag",
+      "badge": "Bester Gesamtwert",
+      "review": "Rogues 1000D-Cordura-Hülle, verstärkte Nahtnähte und mehrere integrierte Griffe (oben, seitlich, unten) machen ihn zum Sandbag, den man werfen, ziehen und auf rauen Oberflächen fallen lassen kann, ohne dass die äußere Hülle versagt. Das modulare Füllsack-System ermöglicht Sand, Reis oder Kies. Der Preis (175–250 $ für Hülle plus Füllsäcke) ist der höchste im Vergleich und durch die Konstruktionsqualität gerechtfertigt.",
+      "pros": [
+        "1000D-Cordura-Hülle für kommerzielle Gym-Nutzung gebaut",
+        "Mehrere Griffpositionen decken alle Sandbag-Übungen ab",
+        "Modulare Füllsäcke für Sand, Reis oder Kies"
+      ],
+      "cons": [
+        "Teuerste Option — 175–250 $ für Hülle + Füllsäcke"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Hüllenmaterial": "1000D Cordura",
+        "Max. Last": "68–136 kg (je nach Größe)",
+        "Griffe": "Oben, seitlich, unten integriert",
+        "Füllsystem": "Modulare Säcke",
+        "Größen": "S / L / XL",
+        "Preis": "~175–250 $"
+      },
+      "scores": {
+        "Durability": 5.0,
+        "Filler capacity": 5.0,
+        "Handle quality": 5.0,
+        "Value": 3.5,
+        "Versatility": 5.0
+      }
+    },
+    {
+      "offerId": "rep-fitness-sandbag",
+      "badge": "Bestes Preis-Leistungs-Verhältnis",
+      "review": "REPs 900D-Cordura-Hülle und verstärktes Griffsystem liefern ausreichende Haltbarkeit für konsequente Heimgymnutzung zu deutlich weniger als Rogue — 80–130 $ gegenüber 175–250 $. Die Griffplatzierung (oben und seitlich) deckt die volle Bandbreite der Sandbag-Übungen ab. Für Heimgym-Athleten, die hart trainieren, aber nicht täglich Säcke auf kommerziellem Gym-Beton werfen.",
+      "pros": [
+        "900D Cordura ausreichend für regelmäßige Heimgym-Nutzung",
+        "Größen 22–68 kg decken die meisten Trainingsbereiche ab",
+        "Deutlich günstiger als Rogue bei vergleichbarer Kapazität"
+      ],
+      "cons": [
+        "900D Cordura weniger robust als Rogues 1000D für tägliche Nutzung"
+      ],
+      "grade": "A",
+      "specs": {
+        "Hüllenmaterial": "900D Cordura",
+        "Max. Last": "22–68 kg",
+        "Griffe": "Oben, seitliche Griffe",
+        "Füllsystem": "Modular",
+        "Größen": "22 / 45 / 68 kg",
+        "Preis": "~80–130 $"
+      },
+      "scores": {
+        "Durability": 4.2,
+        "Filler capacity": 4.0,
+        "Handle quality": 4.3,
+        "Value": 5.0,
+        "Versatility": 4.5
+      }
+    },
+    {
+      "offerId": "goruck-training-sandbag",
+      "badge": "Bester zum Rucken",
+      "review": "GORUCKs militärisches Konstruktionserbe zeigt sich in den geschweißten Gurten und versiegelten Nähten — dieser Bag ist für anhaltende Lastentransporte unter Feldbedingungen gebaut, nicht für wiederholte Würfe im Gym. Der obere Griff ist der stärkste einzelne Befestigungspunkt im Vergleich. Am besten für Athleten, die sich auf GORUCK-Events oder Militärfitness-Tests vorbereiten.",
+      "pros": [
+        "Militärstandard-geschweißte Gurtschlaufen",
+        "1000D Cordura mit versiegelten Nähten für Feldeinsatz",
+        "Speziell für anhaltende Lastentransporte gebaut"
+      ],
+      "cons": [
+        "Griffsystem für Tragen optimiert, nicht für Hantelstil-Heben"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Hüllenmaterial": "1000D Cordura",
+        "Max. Last": "je nach Größe",
+        "Griffe": "Geschweißte Gurte",
+        "Nähte": "Versiegelt",
+        "Herkunft": "Militärrucksack-Erbe",
+        "Preis": "~100–175 $"
+      },
+      "scores": {
+        "Durability": 5.0,
+        "Filler capacity": 4.0,
+        "Handle quality": 4.5,
+        "Value": 4.0,
+        "Versatility": 3.5
+      }
+    },
+    {
+      "offerId": "vikingstrength-sandbag",
+      "badge": "Bester für Strongman",
+      "review": "Die Hüllengeometrie von Viking Strength ist für das Schultern optimiert — das Griffpanel oben erzeugt einen sicheren Zwei-Hand-Zug während der Reinigungsphase, was generische Einzelgriff-Designs erheblich schwieriger machen. Die Griffplatzierung passt besser zum Schultern-Bewegungsmuster als jeder andere Bag im Vergleich. Für Athleten, die speziell Sandbag-Schultern programmieren.",
+      "pros": [
+        "Hüllengeometrie für Schultern optimiert",
+        "Griffpanel ermöglicht sicheren Zwei-Hand-Zug in Reinigungsphase",
+        "Griffplatzierung passt zu Strongman-Wettkampfbewegungen"
+      ],
+      "cons": [
+        "Weniger vielseitig für Konditionskurse vs. Mehr-Griff-Designs"
+      ],
+      "grade": "B",
+      "specs": {
+        "Hüllenmaterial": "Strapazierfähiger Stoff",
+        "Optimiert für": "Schultern",
+        "Griffpanel": "Ja — Zwei-Hand-Reinigungszug",
+        "Max. Last": "~45–90 kg",
+        "Preis": "~100–150 $"
+      },
+      "scores": {
+        "Durability": 4.5,
+        "Filler capacity": 4.0,
+        "Handle quality": 4.8,
+        "Value": 4.0,
+        "Versatility": 3.2
+      }
+    },
+    {
+      "offerId": "cerberus-strength-sandbag",
+      "badge": "Bester für Wettkampf",
+      "review": "Cerberus versorgt Strongman Corporation-Events — wenn man für echte sanktionierte Strongman-Wettkämpfe trainiert, ist dies wettkampfäquivalente Ausrüstung. Lastkapazitäten (68–200 kg) übertreffen, was die meisten Heimgym-Nutzer benötigen, und bei 150–300 $ ist es für Wettkampf-Athleten konzipiert, die exakte Event-Bedingungen im Training replizieren müssen.",
+      "pros": [
+        "Wettkampfstandard — bei Strongman Corporation-Events verwendet",
+        "68–200 kg Kapazität für fortgeschrittene Kraftsportler",
+        "Mehrere Griffpunkte für verschiedene Belastungspositionen"
+      ],
+      "cons": [
+        "Lastkapazitäten und Preis übertreffen die meisten Heimgym-Anforderungen"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Hüllenmaterial": "Wettkampfqualität",
+        "Max. Last": "68–200 kg",
+        "Verwendet bei": "Strongman Corporation-Events",
+        "Griffpunkte": "Mehrere",
+        "Preisspanne": "~150–300 $"
+      },
+      "scores": {
+        "Durability": 5.0,
+        "Filler capacity": 5.0,
+        "Handle quality": 4.5,
+        "Value": 3.0,
+        "Versatility": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für kommerzielle Gym- oder CrossFit-Box-Nutzung",
+      "offerId": "rogue-sandbag",
+      "reason": "1000D Cordura und geschweißte Griffe überstehen wiederholte Würfe, Schleifen und Stürze auf Beton — die Konstruktionsqualität, die kommerzielle Nutzung erfordert."
+    },
+    {
+      "label": "Für Heimgym-Athleten mit begrenztem Budget",
+      "offerId": "rep-fitness-sandbag",
+      "reason": "900D Cordura und ein vollständiges Griffsystem für ungefähr die Hälfte des Rogue-Preises — das richtige Gleichgewicht aus Haltbarkeit und Kosten für nicht-kommerzielles Training."
+    },
+    {
+      "label": "Für GORUCK- oder Militärfitness-Vorbereitung",
+      "offerId": "goruck-training-sandbag",
+      "reason": "Militärische Konstruktionsstandards und der stärkste obere Tragegriff machen dies zum zweckgebundenen Werkzeug für Rucking-Events und Lastentransport-Konditionierung."
+    },
+    {
+      "label": "Für Athleten, die Sandbag-Schultern programmieren",
+      "offerId": "vikingstrength-sandbag",
+      "reason": "Hüllengeometrie und Griffpanel-Platzierung passen zum Schultern-Bewegungsmuster besser als jedes generische Sandbag-Design in diesem Vergleich."
+    },
+    {
+      "label": "Für sanktioniertes Strongman-Wettkampf-Training",
+      "offerId": "cerberus-strength-sandbag",
+      "reason": "Wettkampfäquivalente Ausrüstung mit 68–200 kg Kapazitäten — der einzige Bag hier, der exakte Strongman Corporation-Event-Bedingungen exakt repliziert."
+    }
+  ]
 }

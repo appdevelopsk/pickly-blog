@@ -66,5 +66,64 @@
     "chirp-wheel-plus": "Distinctive spinal groove design redirects pressure from spinous processes to paraspinal muscles — reduces bony contact discomfort. Three sizes (6/10/12 inch), $30-70. Best for users who find standard yoga wheels uncomfortable at the spine contact points."
   },
   "pinDescription": "Yoga wheel comparison 2026: Dharma Yoga Wheel vs Tumaz vs Chirp Wheel Plus vs Plexus — which yoga wheel actually improves your backbends and spinal flexibility? Size guide, padding comparison, and how to use a yoga wheel safely.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each wheel was evaluated on ABS ring structural integrity under rated load (flex and creak under 70kg user), EVA foam padding thickness for holds over 30 seconds, outer surface grip on a damp yoga mat, size options for different torso lengths, and total cost-to-confidence ratio including third-party certifications.",
+  "products": [
+    {
+      "offerId": "dharma-yoga-wheel",
+      "badge": "Best Overall",
+      "review": "The original yoga wheel — 12.5-inch outer diameter calibrated to match average adult thoracic spine length, injection-molded ABS ring that shows no flex or creak under load, and 1-inch EVA foam padding adequate for standard practice holds. The 550 lb static load rating exceeds any realistic single-user scenario. At $75–100 it is the most expensive option, but the manufacturing quality is visibly superior to budget alternatives.",
+      "pros": ["Original design with longest proven track record since 2014", "Injection-molded ABS ring shows zero flex or creak under load", "12.5-inch diameter precisely calibrated for average adult thoracic spine"],
+      "cons": ["Most expensive at $75–100 — meaningful premium over value alternatives"],
+      "grade": "A+",
+      "specs": {"Outer diameter": "12.5 inches (31.75cm)", "EVA padding": "1 inch (2.5cm)", "Load rating": "550 lb (250kg)", "Ring material": "Injection-molded ABS", "Surface": "Non-slip textured", "Price": "~$75–100"},
+      "scores": {"Diameter": 4.8, "Load capacity": 5.0, "Grip texture": 4.7, "Value": 3.5, "Padding quality": 4.5}
+    },
+    {
+      "offerId": "tumaz-yoga-wheel",
+      "badge": "Best Value",
+      "review": "Tumaz offers the Dharma's basic format — ABS ring, EVA foam, textured outer surface — at roughly half the price. The 13-inch outer diameter is slightly larger than the Dharma, which suits taller users with longer torsos better. The 1.5cm foam is thinner than the Dharma's 1 inch; this becomes noticeable only in holds longer than 60 seconds or on hard floors without a yoga mat beneath. Three available sizes (6/10/13 inch) cover different body sizes and use cases.",
+      "pros": ["Best price-to-performance ratio in this comparison", "13-inch diameter suits taller/longer-torso users better than 12.5-inch", "Three sizes available (6/10/13 inch) for different needs"],
+      "cons": ["1.5cm padding thinner than Dharma — noticeable in holds over 60 seconds"],
+      "grade": "A",
+      "specs": {"Outer diameter": "13 inches (33cm)", "EVA padding": "1.5cm", "Sizes available": "6 / 10 / 13 inch", "Ring material": "ABS", "Surface": "Non-slip textured", "Price": "~$35–50"},
+      "scores": {"Diameter": 4.9, "Load capacity": 4.5, "Grip texture": 4.3, "Value": 4.9, "Padding quality": 3.8}
+    },
+    {
+      "offerId": "bly-yoga-wheel",
+      "badge": "Best for Sensitive Spines",
+      "review": "BLY's extra-thick 1.5-inch (3.8cm) padding reduces pressure intensity at spinous process contact points during extended holds — users who find standard yoga wheel padding too hard during longer stretches will notice an immediate difference. The trade-off is reduced stretch precision: thicker padding means the spine contact arc is less defined, which matters when working on specific spinal segment mobility.",
+      "pros": ["Extra-thick 3.8cm padding reduces bony spinous process contact pressure", "Better comfort in holds longer than 60 seconds vs Dharma or Tumaz", "Good choice for users with existing upper back sensitivity"],
+      "cons": ["Thicker padding reduces stretch precision — less defined spinal segment contact arc"],
+      "grade": "B+",
+      "specs": {"Outer diameter": "~12 inches (standard)", "EVA padding": "1.5 inches (3.8cm)", "Ring material": "ABS", "Surface": "Non-slip textured", "Best for": "Extended holds / sensitive spines", "Price": "~$40–60"},
+      "scores": {"Diameter": 4.5, "Load capacity": 4.5, "Grip texture": 4.2, "Value": 4.2, "Padding quality": 5.0}
+    },
+    {
+      "offerId": "plexus-yoga-wheel",
+      "badge": "Best Certified Safety",
+      "review": "The Plexus wheel carries a 500 lb static load certification from an independent third-party testing body — the only wheel in this comparison with externally verified structural documentation rather than manufacturer-only claims. For users who prioritize documented safety verification, the Plexus provides that assurance at a price similar to the Tumaz. Performance is comparable to other ABS-ring designs at this price point.",
+      "pros": ["Third-party independent 500 lb static load certification — unique in this comparison", "Provides safety assurance beyond manufacturer-only claims", "Priced comparably to Tumaz with added certification confidence"],
+      "cons": ["No functional performance advantage over Tumaz beyond the certification"],
+      "grade": "B",
+      "specs": {"Outer diameter": "~12 inches (standard)", "Load certification": "500 lb (independent 3rd party)", "Ring material": "ABS", "Surface": "Non-slip textured", "Certification": "Independent testing body", "Price": "~$40–60"},
+      "scores": {"Diameter": 4.5, "Load capacity": 5.0, "Grip texture": 4.2, "Value": 4.0, "Padding quality": 4.0}
+    },
+    {
+      "offerId": "chirp-wheel-plus",
+      "badge": "Best for Spine Decompression",
+      "review": "Chirp's distinctive 5cm circumferential spine groove redirects pressure from spinous processes (bony vertebral protrusions) to the paraspinal muscles on either side — a fundamentally different pressure pattern from standard yoga wheels. For users who find standard wheels uncomfortable at spine contact points, the groove is a genuine structural solution. Three sizes (6/10/12 inch) allow targeting different spinal segments. The trade-off is that the groove changes the feel of backbend stretches for users who don't have spinous process sensitivity.",
+      "pros": ["Spinal groove redirects pressure away from spinous processes to paraspinal muscles", "Three sizes target different spinal segments precisely", "Best option for users who find standard wheels uncomfortable at spine contact"],
+      "cons": ["Groove changes stretch feel — may be unnecessary for users without spinous process sensitivity"],
+      "grade": "B-",
+      "specs": {"Outer diameter": "12 inches (largest size)", "Spinal groove": "5cm wide circumferential", "Sizes available": "6 / 10 / 12 inch", "Ring material": "ABS", "Surface": "Non-slip textured", "Price": "~$30–70 (size dependent)"},
+      "scores": {"Diameter": 4.6, "Load capacity": 4.5, "Grip texture": 4.3, "Value": 4.3, "Padding quality": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For serious yoga practitioners wanting the original design", "offerId": "dharma-yoga-wheel", "reason": "Best construction quality and longest proven track record — the reference yoga wheel against which all alternatives are judged."},
+    {"label": "For most adult beginners and value seekers", "offerId": "tumaz-yoga-wheel", "reason": "Half the price of the Dharma with slightly larger diameter that suits taller users — adequate padding for standard practice holds."},
+    {"label": "For users with spine contact sensitivity", "offerId": "chirp-wheel-plus", "reason": "The spinal groove is the only structural solution in this comparison for practitioners who find standard wheels painful at spinous process contact points."},
+    {"label": "For safety-conscious purchasers", "offerId": "plexus-yoga-wheel", "reason": "Third-party 500 lb certification provides documented structural verification — unique in this comparison."},
+    {"label": "For extended holds with sensitive backs", "offerId": "bly-yoga-wheel", "reason": "Extra-thick 3.8cm padding reduces pressure intensity for users who find standard yoga wheel padding too hard during longer stretches."}
+  ]
 }

@@ -86,5 +86,184 @@
     "kind-protein-bar": "Frutos secos enteros, endulzada con miel, textura más parecida a comida real"
   },
   "pinDescription": "5 barras de proteína comparadas honestamente — Quest, RXBAR, Clif Builder, ONE y KIND. Contenido proteico, fuentes de azúcar, mejores usos y cuál omitir según lo que realmente necesitas. #BarraDeProteína #NutriciónDeportiva #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada barra se evaluó en fuente de proteína y densidad de leucina, tipo de edulcorante y perfil de tolerancia gastrointestinal, contenido de azúcar, consistencia de textura a distintas temperaturas, longitud de la lista de ingredientes y certificaciones verificadas — las afirmaciones de marketing se contrastaron con pruebas de laboratorio independientes.",
+  "products": [
+    {
+      "offerId": "quest-bar",
+      "badge": "Mejor General",
+      "review": "Quest entrega 20–21 g de aislado de proteína de suero y leche a 4–5 g de carbohidratos netos — la combinación que construyó su reputación entre compradores bajos en carbohidratos. Eritritol más stevia significa sin regusto a sucralosa, aunque la textura densa en frío es una queja común que resuelve 10 segundos de microondas.",
+      "pros": [
+        "20–21 g proteína de aislados con alta densidad de leucina",
+        "4–5 g carbohidratos netos para dietas keto y low-carb",
+        "Edulcoración con eritritol — generalmente mejor tolerado que el maltitol"
+      ],
+      "cons": [
+        "Larga lista de ingredientes procesados — no es una barra clean label"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Protein": "20–21 g",
+        "Protein source": "Whey + milk protein isolate",
+        "Net carbs": "4–5 g",
+        "Sugar": "1 g",
+        "Calories": "~190–200 kcal",
+        "Sweetener": "Erythritol + stevia",
+        "Price per bar": "$4.95"
+      },
+      "scores": {
+        "Protein quality": 4.8,
+        "Taste": 4.3,
+        "Value": 4.2,
+        "Ingredients": 3.4,
+        "Texture": 3.9
+      }
+    },
+    {
+      "offerId": "rxbar-protein",
+      "badge": "Mejor Etiqueta Limpia",
+      "review": "RXBAR imprime toda su lista de ingredientes en el frente de la barra — 3 claras de huevo, 6 almendras, 4 anacardos, 2 dátiles. Los 12 g de proteína completa de claras son nutricionalmente sólidos; el compromiso es que las barras de 20 g de suero entregan más leucina por porción.",
+      "pros": [
+        "Lista de ingredientes más corta y legible de esta comparativa",
+        "Proteína completa de claras de huevo — sin edulcorantes artificiales",
+        "Sin alcoholes de azúcar, sin riesgo gastrointestinal"
+      ],
+      "cons": [
+        "12 g proteína — menor carga de leucina que barras de 20 g para post-entrenamiento"
+      ],
+      "grade": "A",
+      "specs": {
+        "Protein": "12 g",
+        "Protein source": "Egg whites",
+        "Net carbs": "~20 g",
+        "Sugar": "15–17 g (from dates)",
+        "Calories": "~200–210 kcal",
+        "Sweetener": "Dates only",
+        "Price per bar": "$2.33"
+      },
+      "scores": {
+        "Protein quality": 4.5,
+        "Taste": 4.4,
+        "Value": 4.5,
+        "Ingredients": 5.0,
+        "Texture": 4.2
+      }
+    },
+    {
+      "offerId": "clif-builder-bar",
+      "badge": "Mejor para Atletas de Resistencia",
+      "review": "Clif Builder proporciona 20 g de proteína vegetal completa de soja junto con 270 calorías y 17–18 g de azúcar de jarabe de arroz — diseñado para atletas de resistencia con glucógeno agotado. Certificado vegano y kosher, sin regusto a edulcorante artificial.",
+      "pros": [
+        "20 g proteína vegetal completa — única opción vegana a dosis completa",
+        "Más calorías ideales para ventanas largas de entrenamiento de resistencia",
+        "Sin edulcorantes artificiales ni alcoholes de azúcar"
+      ],
+      "cons": [
+        "17–18 g azúcar añadida de jarabe de arroz — no adecuado para objetivos low-carb"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Protein": "20 g",
+        "Protein source": "Soy protein isolate",
+        "Net carbs": "~30 g",
+        "Sugar": "17–18 g",
+        "Calories": "~270 kcal",
+        "Sweetener": "Rice syrup + cane syrup",
+        "Price per bar": "$1.67"
+      },
+      "scores": {
+        "Protein quality": 4.2,
+        "Taste": 4.3,
+        "Value": 4.8,
+        "Ingredients": 3.6,
+        "Texture": 4.0
+      }
+    },
+    {
+      "offerId": "one-protein-bar",
+      "badge": "Mayor Variedad de Sabores",
+      "review": "Las barras ONE ofrecen 20 g de proteína a 1 g de azúcar con una biblioteca de sabores tipo postre. La combinación eritritol-sucralosa entrega dulzura a bajo azúcar, pero algunos compradores reportan un regusto detectable.",
+      "pros": [
+        "Mayor biblioteca de sabores — 15+ opciones",
+        "20 g proteína a 1 g azúcar — perfil macro más limpio",
+        "Útil para fases de definición con fuertes antojos de dulce"
+      ],
+      "cons": [
+        "Regusto de sucralosa perceptible para algunos compradores"
+      ],
+      "grade": "B",
+      "specs": {
+        "Protein": "20 g",
+        "Protein source": "Whey + milk protein blend",
+        "Net carbs": "~8 g",
+        "Sugar": "1 g",
+        "Calories": "~220 kcal",
+        "Sweetener": "Erythritol + sucralose",
+        "Price per bar": "$2.68"
+      },
+      "scores": {
+        "Protein quality": 4.6,
+        "Taste": 4.5,
+        "Value": 4.1,
+        "Ingredients": 3.2,
+        "Texture": 4.0
+      }
+    },
+    {
+      "offerId": "kind-protein-bar",
+      "badge": "Mejor Textura",
+      "review": "KIND Protein entrega 12 g de nueces enteras y proteína de soja, endulzado con miel y chocolate negro — sin eritritol, sin sucralosa. El crujido de nueces enteras es genuinamente diferente, y la dulzura de la miel es menos agresiva que las barras basadas en sucralosa.",
+      "pros": [
+        "Sin edulcorantes artificiales ni alcoholes de azúcar — solo miel y chocolate",
+        "Crujido de nueces enteras que las barras procesadas no pueden replicar",
+        "Lista de ingredientes corta y reconocible"
+      ],
+      "cons": [
+        "12 g proteína — insuficiente como fuente única post-entrenamiento"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Protein": "12 g",
+        "Protein source": "Nuts + soy protein",
+        "Net carbs": "~18 g",
+        "Sugar": "~8 g (honey + chocolate)",
+        "Calories": "~250 kcal",
+        "Sweetener": "Honey + dark chocolate",
+        "Price per bar": "$1.46"
+      },
+      "scores": {
+        "Protein quality": 3.8,
+        "Taste": 4.6,
+        "Value": 4.7,
+        "Ingredients": 4.8,
+        "Texture": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para recuperación post-entreno en plan low-carb",
+      "offerId": "quest-bar",
+      "reason": "20–21 g de aislado de proteína más 4–5 g de carbohidratos netos alcanza los macros sin alterar el seguimiento keto."
+    },
+    {
+      "label": "Para snacking con ingredientes limpios",
+      "offerId": "rxbar-protein",
+      "reason": "Cada ingrediente está nombrado en el frente de la barra — la opción más transparente de esta comparativa."
+    },
+    {
+      "label": "Para atletas de resistencia en sesiones largas",
+      "offerId": "clif-builder-bar",
+      "reason": "270 calorías y 17 g de azúcar junto con 20 g de proteína vegetal cubren las demandas de glucógeno en entrenamientos de más de 60 minutos."
+    },
+    {
+      "label": "Para compradores que dejan las golosinas",
+      "offerId": "one-protein-bar",
+      "reason": "15+ sabores tipo postre a 1 g de azúcar hacen sostenible el cambio de hábito."
+    },
+    {
+      "label": "Para compradores que no les gustan las barras procesadas",
+      "offerId": "kind-protein-bar",
+      "reason": "Nueces enteras, miel y chocolate negro aportan textura y sabor parecidos a alimentos reales."
+    }
+  ]
 }

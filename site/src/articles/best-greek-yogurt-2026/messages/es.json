@@ -61,5 +61,184 @@
     "siggis-icelandic-yogurt": "Estilo skyr — más denso y con menos azúcar que la mayoría de los yogures griegos"
   },
   "pinDescription": "5 mejores yogures griegos clasificados por proteína, azúcar y textura — desde el espeso Fage hasta el bajo en azúcar Siggi's. Encuentra el tuyo para el desayuno, cocinar o la recuperación post-entrenamiento. #yogurgriego #proteína #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada yogur fue evaluado por contenido de proteínas por porción, niveles de azúcar (natural y añadido), longitud y calidad de la lista de ingredientes, consistencia de textura, perfil de sabor, transparencia de abastecimiento y precio por gramo de proteína.",
+  "products": [
+    {
+      "offerId": "fage-total-0",
+      "badge": "Mejor opción general",
+      "review": "Fage Total 0% establece el estándar para el yogur griego auténtico con 18–19g de proteína por 200g y solo 2 ingredientes — sin espesantes, sin pectina, textura completamente del colado. El sabor es más agudo y ácido que las marcas estadounidenses — eso es una característica, no un defecto. El compromiso es una acidez más fuerte que requiere adaptación.",
+      "pros": [
+        "18–19g de proteína por 200g — mayor proteína sin grasa en el mercado convencional",
+        "Solo 2 ingredientes, sin espesantes ni aditivos",
+        "Textura densa que mantiene la forma al cucharear"
+      ],
+      "cons": [
+        "El sabor ácido más agudo puede requerir adaptación para quienes están acostumbrados a marcas más suaves"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Porción": "200g",
+        "Proteína": "18–19g",
+        "Grasa": "0%",
+        "Azúcar": "~8g natural",
+        "Ingredientes": "2",
+        "Certificaciones": "Kosher",
+        "Precio": "~$7,49"
+      },
+      "scores": {
+        "Protein": 4.9,
+        "Taste": 4.5,
+        "Value": 4.3,
+        "Texture": 4.8,
+        "Ingredient quality": 4.9
+      }
+    },
+    {
+      "offerId": "chobani-plain-nonfat",
+      "badge": "Mejor valor diario",
+      "review": "Chobani Plain Non-Fat es el caballo de batalla de la categoría — espeso pero no denso, acidez limpia y 15g de proteína por tarro de 150g con solo 3 ingredientes. El tarro de 900g ofrece el mejor valor por gramo de proteína en el supermercado. La versión sin grasa tiene ligeramente más carbohidratos que la versión de 2%.",
+      "pros": [
+        "Fórmula de 3 ingredientes sin azúcar añadido",
+        "El tarro de 900g ofrece el mejor costo por gramo de proteína",
+        "Genuinamente versátil en cocina y batidos"
+      ],
+      "cons": [
+        "La versión sin grasa tiene ligeramente más carbos que la versión 2% por concentración de azúcares lácteos"
+      ],
+      "grade": "A",
+      "specs": {
+        "Porción": "150g",
+        "Proteína": "15g",
+        "Grasa": "0%",
+        "Azúcar": "~6g natural",
+        "Ingredientes": "3",
+        "Tamaño tarro": "900g disponible",
+        "Precio": "~$6,98"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Taste": 4.4,
+        "Value": 4.8,
+        "Texture": 4.3,
+        "Ingredient quality": 4.6
+      }
+    },
+    {
+      "offerId": "siggis-icelandic-yogurt",
+      "badge": "Mejor bajo en azúcar",
+      "review": "El skyr islandés de Siggi's ofrece 17g de proteína por 150g con solo 6g de carbohidratos — la ratio azúcar-proteína más baja de esta comparación. La textura es más densa que el yogur griego, casi untable, y el sabor es intensamente ácido. La línea de sabores mantiene el azúcar añadido por debajo de 9g en total.",
+      "pros": [
+        "Solo 6g de carbohidratos totales por tarro de 150g",
+        "17g de proteína con muy bajo azúcar añadido en la línea de sabores",
+        "La densidad única del skyr funciona como sustituto del queso crema en tostadas"
+      ],
+      "cons": [
+        "El sabor intensamente ácido es un gusto adquirido"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Porción": "150g",
+        "Proteína": "17g",
+        "Grasa": "0%",
+        "Carbos totales": "6g",
+        "Estilo": "Skyr islandés",
+        "Edulcorante": "Ninguno (natural)",
+        "Precio": "~$6,49"
+      },
+      "scores": {
+        "Protein": 4.7,
+        "Taste": 4.0,
+        "Value": 4.0,
+        "Texture": 4.6,
+        "Ingredient quality": 4.7
+      }
+    },
+    {
+      "offerId": "oikos-triple-zero",
+      "badge": "Mejor opción con sabor",
+      "review": "Oikos Triple Zero logra 15g de proteína a 90 calorías con cero azúcar añadido, cero edulcorantes artificiales y cero grasa — usando extracto de fruta del monje en variedades con sabor. Para quienes rastrean macros y quieren yogur con sabor sin stevia ni sucralosa, esta es la única opción convencional. Algunas variedades con sabor añaden fibra de achicoria.",
+      "pros": [
+        "Cero azúcar añadido, cero edulcorantes artificiales, cero grasa en la línea de sabores",
+        "Endulzado con fruta del monje — sin stevia ni sucralosa",
+        "15g de proteína a 90 calorías"
+      ],
+      "cons": [
+        "Algunas variedades con sabor contienen fibra de achicoria (revisar etiqueta si sensible)"
+      ],
+      "grade": "B",
+      "specs": {
+        "Porción": "150g",
+        "Proteína": "15g",
+        "Grasa": "0%",
+        "Carbos": "7g",
+        "Azúcar añadido": "0g",
+        "Edulcorante": "Fruta del monje",
+        "Precio": "~$1,49"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Taste": 4.2,
+        "Value": 4.9,
+        "Texture": 4.1,
+        "Ingredient quality": 4.2
+      }
+    },
+    {
+      "offerId": "stonyfield-organic-greek",
+      "badge": "Mejor por origen",
+      "review": "Stonyfield Organic es la elección cuando la certificación y el origen importan: certificado orgánico USDA, leche de vacas alimentadas con pasto y cinco cepas probióticas vivas nombradas en la etiqueta. La proteína a 14–15g por porción es ligeramente menor que Fage, y el sabor es más suave — acidez gentil para quienes encuentran Fage demasiado fuerte. Ligeramente más caro por onza.",
+      "pros": [
+        "Certificado orgánico USDA con leche de vacas alimentadas con pasto",
+        "5 cultivos probióticos vivos nombrados en la etiqueta",
+        "Sabor suave atractivo para quienes encuentran Fage demasiado ácido"
+      ],
+      "cons": [
+        "Ligeramente menos proteína (14–15g) y mayor costo por onza que Chobani o Fage"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Porción": "150g",
+        "Proteína": "14–15g",
+        "Certificación": "USDA Orgánico",
+        "Fuente leche": "Vacas alimentadas con pasto",
+        "Probióticos": "5 cepas nombradas",
+        "Grasa": "0%",
+        "Precio": "~$7,99"
+      },
+      "scores": {
+        "Protein": 4.2,
+        "Taste": 4.3,
+        "Value": 3.8,
+        "Texture": 4.2,
+        "Ingredient quality": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para máxima proteína por porción",
+      "offerId": "fage-total-0",
+      "reason": "18–19g de proteína por 200g con solo 2 ingredientes y sin espesantes"
+    },
+    {
+      "label": "Para cocina y valor diarios",
+      "offerId": "chobani-plain-nonfat",
+      "reason": "Mejor costo por gramo de proteína en tarro de 900g con fórmula limpia de 3 ingredientes"
+    },
+    {
+      "label": "Para ingesta muy baja de azúcar",
+      "offerId": "siggis-icelandic-yogurt",
+      "reason": "Solo 6g de carbohidratos por porción con 17g de proteína — menor proporción azúcar-proteína"
+    },
+    {
+      "label": "Para yogur con sabor sin edulcorantes artificiales",
+      "offerId": "oikos-triple-zero",
+      "reason": "Endulzado con fruta del monje con cero azúcar añadido y sin stevia ni sucralosa"
+    },
+    {
+      "label": "Para origen orgánico y de pasto",
+      "offerId": "stonyfield-organic-greek",
+      "reason": "Orgánico USDA, leche de vacas alimentadas con pasto y 5 cepas probióticas nombradas en la etiqueta"
+    }
+  ]
 }

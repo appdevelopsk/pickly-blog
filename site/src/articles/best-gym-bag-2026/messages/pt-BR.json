@@ -114,5 +114,64 @@
     "gold-gym-gym-bag-backpack": "Melhor escolha econômica para uso direto na academia. Marca Gold's Gym, poliéster durável, compartimento separado para sapatos, grande compartimento principal com bolso organizador interno a preço de entrada. Construção básica sem separação especializada seco/molhado — para quem areja a bolsa imediatamente após cada sessão."
   },
   "pinDescription": "Cinco bolsas de academia comparadas para 2026 — Nike Brasilia 9.5, Under Armour Undeniable 5.0, Adidas Defender 4, Anello e The North Face Base Camp — na qualidade do compartimento seco/molhado, ergonomia de mochila vs duffel, compatibilidade com armário e qual realmente mantém suas roupas suadas longe da sua bolsa de trabalho. #bolsaDeAcademia #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada bolsa foi avaliada por eficácia da separação seco/molhado, durabilidade do material, compatibilidade com armário, ergonomia de transporte e valor — priorizando cenários reais de uso na academia e deslocamento sobre especificações de catálogo.",
+  "products": [
+    {
+      "offerId": "nike-brasilia-9-5-training-duffel",
+      "badge": "Melhor no geral",
+      "review": "O 36L Medium cobre academia mais deslocamento com roupas de troca e cabe na maioria dos armários. O compartimento ventilado para calçados separa efetivamente os tênis das roupas limpas. O poliéster 600D resiste aos fundos de armário. A lacuna: sem bolso acolchoado para notebook e a ventilação do compartimento de calçados permite alguma transferência de odor.",
+      "pros": ["Compartimento ventilado para calçados que isola tênis de verdade", "36L Medium cabe na maioria dos armários de academias comerciais", "Ampla seleção de cores e múltiplos tamanhos (18–60L)"],
+      "cons": ["Sem bolso acolchoado para notebook no preço padrão"],
+      "grade": "A+",
+      "specs": {"Capacidade": "36L (Medium)", "Material": "Poliéster 600D", "Compartimentos": "Calçados + seco/molhado + principal", "Dimensões": "51×28×28cm", "Preço": "¥6.000–9.000"},
+      "scores": {"Durabilidade": 4.5, "Separação seco/molhado": 4.3, "Compatibilidade armário": 4.5, "Conforto": 4.0, "Custo-benefício": 4.5}
+    },
+    {
+      "offerId": "under-armour-undeniable-5-duffel",
+      "badge": "Melhor resistência à água",
+      "review": "O acabamento UA Storm repele chuva leve melhor que poliéster sem tratamento. Os divisores internos moldáveis permitem organização flexível. Limitação: o bolso molhado é pequeno demais para uma troca completa de roupas pós-treino. A lavagem na máquina degrada o revestimento UA Storm.",
+      "pros": ["Acabamento UA Storm supera poliéster padrão sob chuva", "Divisores internos moldáveis para organização flexível", "58L de capacidade com espaço sobrando"],
+      "cons": ["Bolso molhado pequeno demais para troca completa de roupa pós-treino"],
+      "grade": "A",
+      "specs": {"Capacidade": "58L (MD)", "Material": "Poliéster UA Storm", "Compartimentos": "Bolso molhado + principal moldável", "Dimensões": "61×30×30cm", "Preço": "¥7.000–12.000"},
+      "scores": {"Durabilidade": 4.3, "Separação seco/molhado": 4.0, "Compatibilidade armário": 4.0, "Conforto": 4.2, "Custo-benefício": 4.0}
+    },
+    {
+      "offerId": "gym-shark-everyday-gym-bag",
+      "badge": "Melhor estilo",
+      "review": "Design minimalista que não parece bolsa esportiva. Compartimento principal acolchoado compatível com notebook, alças ergonômicas reduzem fadiga nos ombros no deslocamento. Limitação: sem compartimento molhado selado — roupas muito molhadas exigem saco impermeável separado.",
+      "pros": ["Design minimalista que vai da academia à rua sem esforço", "Compartimento principal acolchoado compatível com notebook", "Alças ergonômicas que reduzem fadiga nos ombros no deslocamento"],
+      "cons": ["Sem compartimento molhado selado — roupas muito molhadas exigem saco impermeável adicional"],
+      "grade": "B+",
+      "specs": {"Capacidade": "~30L", "Material": "Poliéster", "Compartimentos": "Bolsa tênis + principal compatível notebook", "Preço": "¥8.000–12.000"},
+      "scores": {"Durabilidade": 4.0, "Separação seco/molhado": 3.3, "Compatibilidade armário": 4.3, "Conforto": 4.5, "Custo-benefício": 4.0}
+    },
+    {
+      "offerId": "adidas-defender-4-duffel",
+      "badge": "Melhor para quem vai trabalhar",
+      "review": "O bolso acolchoado para notebook em um duffel compacto tamanho S é a característica principal — a bolsa academia-escritório mais prática desta comparação. O poliéster 100% reciclado tem desempenho equivalente ao virgem. O compromisso: o compartimento molhado menor comporta tênis ou roupas molhadas, não os dois ao mesmo tempo.",
+      "pros": ["Bolso acolchoado para notebook em duffel compacto — único nesta comparação", "Poliéster 100% reciclado sem compromissos de desempenho", "Bolso frontal com zíper para acesso rápido sem abrir o principal"],
+      "cons": ["Compartimento molhado pequeno demais para tênis e roupas molhadas ao mesmo tempo"],
+      "grade": "B",
+      "specs": {"Capacidade": "Tamanho S (~30L)", "Material": "Poliéster 100% reciclado", "Compartimentos": "Tênis/molhado + bolso notebook + principal", "Preço": "¥5.000–7.000"},
+      "scores": {"Durabilidade": 4.0, "Separação seco/molhado": 3.5, "Compatibilidade armário": 4.5, "Conforto": 3.8, "Custo-benefício": 4.5}
+    },
+    {
+      "offerId": "gold-gym-gym-bag-backpack",
+      "badge": "Melhor custo-benefício",
+      "review": "A marca Gold's Gym a ¥3.000–5.000 oferece poliéster durável, compartimento separado para calçados e grande compartimento principal com organizador interno. Sem especialização seco/molhado — assume-se ventilação imediata após cada sessão.",
+      "pros": ["Marca icônica de academia a preços de entrada", "Compartimento separado para calçados mais organizador interno", "Grande compartimento principal para organização simples"],
+      "cons": ["Sem separação seco/molhado especializada — ventilação imediata após as sessões é necessária"],
+      "grade": "B-",
+      "specs": {"Material": "Poliéster", "Compartimentos": "Tênis + organizador + principal", "Preço": "¥3.000–5.000"},
+      "scores": {"Durabilidade": 3.8, "Separação seco/molhado": 2.8, "Compatibilidade armário": 4.5, "Conforto": 3.5, "Custo-benefício": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para academia mais deslocamento com roupa de troca", "offerId": "nike-brasilia-9-5-training-duffel", "reason": "36L é o ponto ideal entre compatibilidade com armário e espaço para kit completo de deslocamento"},
+    {"label": "Para deslocamentos chuvosos a pé ou de bicicleta", "offerId": "under-armour-undeniable-5-duffel", "reason": "O acabamento UA Storm é o mais resistente à água nesta comparação"},
+    {"label": "Para frequentadores de academia que querem estilo", "offerId": "gym-shark-everyday-gym-bag", "reason": "Design minimalista e compatibilidade com notebook sem aparência de bolsa esportiva"},
+    {"label": "Para ir da academia ao escritório com notebook", "offerId": "adidas-defender-4-duffel", "reason": "Única bolsa aqui com bolso acolchoado para notebook em formato compacto compatível com armário"},
+    {"label": "Para uso exclusivo em academia com orçamento limitado", "offerId": "gold-gym-gym-bag-backpack", "reason": "¥3.000–5.000 para compartimento de calçados e espaço suficiente para o kit básico da academia"}
+  ]
 }

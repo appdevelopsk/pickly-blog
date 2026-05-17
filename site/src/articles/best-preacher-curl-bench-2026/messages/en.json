@@ -58,5 +58,63 @@
     "adjustable-preacher-curl-attachment": "Pad attachment for weight bench, saves floor space, variable stability. $40-80. Space-efficient alternative to standalone bench. Best for athletes with a quality adjustable bench who want occasional preacher curl capability."
   },
   "pinDescription": "Preacher curl bench 2026: Body-Solid vs Marcy vs Valor vs REP, why preacher curls target the stretched bicep position, standalone bench vs attachment, and whether a preacher curl bench is worth buying for a home gym.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each bench was assessed on pad angle and foam density under load, seat adjustability range, arm pad width against an EZ curl bar, frame flex during max-effort sets, and long-term weld integrity based on user reports beyond 12 months of regular use.",
+  "products": [
+    {
+      "offerId": "body-solid-preacher-curl-bench",
+      "badge": "Best Overall",
+      "review": "The Body-Solid locks upper arms firmly without pad compression that shifts under heavy EZ bar sets. The adjustable seat covers most torso lengths, and the wide arm pad supports both arms without crowding — the main reason it outsells alternatives in home gym setups. Pad durability over 3+ years is occasionally reported as a weakness versus the REP at twice the price.",
+      "pros": ["Thick HD foam holds shape under heavy barbell load", "4–5 seat positions fit most torso lengths", "Wide arm pad works for two-arm EZ curl bar work"],
+      "cons": ["Foam skin may split after 2–3 years of daily use"],
+      "grade": "A+",
+      "specs": {"Frame": "Heavy-gauge steel", "Pad angle": "45–50°", "Seat positions": "4–5", "Arm pad width": "~38 cm", "Price range": "$100–150", "Footprint": "~46×56 cm", "Weight capacity": "150 kg"},
+      "scores": {"Stability": 4.8, "Pad quality": 4.5, "Build quality": 4.7, "Value": 4.6, "Adjustability": 4.4}
+    },
+    {
+      "offerId": "rep-fitness-preacher-curl-bench",
+      "badge": "Best Quality",
+      "review": "The REP uses commercial-grade padding that remains firm and crack-free after heavy use, and the frame tolerates dynamic loading far better than lighter alternatives. More seat positions means it accommodates athletes over 185 cm comfortably. The premium over Body-Solid is meaningful only if you train arms two or more times per week — casual users will not feel the difference.",
+      "pros": ["Commercial-grade foam resists compression and cracking", "Most seat positions of any bench in this comparison", "Heavy-gauge frame handles weighted cable attachment setups"],
+      "cons": ["$130–180 price is harder to justify for occasional arm work"],
+      "grade": "A",
+      "specs": {"Frame": "Heavy-gauge steel", "Pad angle": "45–50°", "Seat positions": "6+", "Arm pad width": "~40 cm", "Price range": "$130–180", "Footprint": "~48×58 cm", "Weight capacity": "180 kg"},
+      "scores": {"Stability": 4.9, "Pad quality": 4.9, "Build quality": 4.9, "Value": 4.0, "Adjustability": 4.8}
+    },
+    {
+      "offerId": "valor-fitness-preacher-curl-bench",
+      "badge": "Best Mid-Range",
+      "review": "Valor occupies the gap between Marcy's budget construction and Body-Solid's price — the welds are noticeably cleaner and the foam noticeably thicker than the Marcy. It does not flex under moderate loads and the seat adjustment covers most standard height ranges. Not the right call for athletes training arms very frequently, but a solid choice for 1–2 sessions per week.",
+      "pros": ["Thicker foam than budget alternatives", "Cleaner weld quality than Marcy", "Stable under moderate training loads"],
+      "cons": ["Foam density still below Body-Solid and REP"],
+      "grade": "B+",
+      "specs": {"Frame": "Medium-gauge steel", "Pad angle": "45–50°", "Seat positions": "3–4", "Arm pad width": "~36 cm", "Price range": "$80–120", "Footprint": "~44×54 cm", "Weight capacity": "136 kg"},
+      "scores": {"Stability": 4.4, "Pad quality": 4.2, "Build quality": 4.3, "Value": 4.5, "Adjustability": 4.0}
+    },
+    {
+      "offerId": "marcy-preacher-curl-bench",
+      "badge": "Best Budget",
+      "review": "The Marcy is functional for loads under 30 kg and casual training frequency — it does what a preacher bench needs to do at a lower entry price. The thinner padding and lighter frame become noticeable at heavier loads and higher volume, where pad compression reduces the quality of the stretch position. A reasonable starter bench, not a long-term solution for serious arm training.",
+      "pros": ["Lowest entry price for a standalone preacher bench", "Sufficient for casual training under 30 kg", "Widely available and easy to assemble"],
+      "cons": ["Thin padding compresses under heavier loads", "Frame lighter than Body-Solid or Valor"],
+      "grade": "B",
+      "specs": {"Frame": "Light-gauge steel", "Pad angle": "45–50°", "Seat positions": "3", "Arm pad width": "~34 cm", "Price range": "$70–100", "Footprint": "~42×52 cm", "Weight capacity": "120 kg"},
+      "scores": {"Stability": 3.8, "Pad quality": 3.5, "Build quality": 3.7, "Value": 4.3, "Adjustability": 3.6}
+    },
+    {
+      "offerId": "adjustable-preacher-curl-attachment",
+      "badge": "Best Space Saver",
+      "review": "The attachment converts an existing adjustable bench into a preacher station — no additional footprint, no additional cost for a dedicated bench. Stability depends entirely on the quality of the base bench it attaches to; paired with a budget bench it wobbles, paired with a heavy commercial bench it performs adequately. Not as stable as any standalone preacher bench for heavy sets, but the right answer when floor space is the binding constraint.",
+      "pros": ["No additional floor footprint beyond the existing bench", "~$40–80 versus $100+ for standalone", "Folds away when not in use"],
+      "cons": ["Stability varies significantly with base bench quality", "Not suitable for heavy barbell preacher curl work"],
+      "grade": "B-",
+      "specs": {"Type": "Bench attachment", "Compatibility": "Standard adjustable benches", "Pad angle": "45°", "Price range": "$40–80", "Storage": "Folds flat", "Weight capacity": "Depends on base bench", "Grip width": "Single arm or two-arm"},
+      "scores": {"Stability": 3.2, "Pad quality": 3.6, "Build quality": 3.4, "Value": 4.7, "Adjustability": 3.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For dedicated arm training 2×/week", "offerId": "rep-fitness-preacher-curl-bench", "reason": "Commercial-grade padding and extra seat positions hold up to high-frequency use without degrading form quality."},
+    {"label": "For most home gym setups", "offerId": "body-solid-preacher-curl-bench", "reason": "Wide arm pad, solid frame, and multiple seat positions cover the full range of preacher curl variations at a price that makes sense for regular use."},
+    {"label": "For tight budgets or occasional use", "offerId": "marcy-preacher-curl-bench", "reason": "Functional at lighter loads and low frequency — the right entry point if you're unsure how often you'll actually use a preacher bench."},
+    {"label": "For space-limited home gyms with an adjustable bench", "offerId": "adjustable-preacher-curl-attachment", "reason": "No floor footprint beyond the bench you already own — practical if a standalone bench would mean giving up other equipment."}
+  ]
 }

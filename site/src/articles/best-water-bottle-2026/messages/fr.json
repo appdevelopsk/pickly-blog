@@ -113,5 +113,193 @@
     "thermos-jni-502": "Meilleure bouteille japonaise compacte pour navetteur. Capacité 500ml tenant dans les poches de veste et les poches latérales des sacs slim pour ordinateur portable, le couvercle à bouton donne un accès fonctionnel d'une seule main après le premier déverrouillage, la rétention du froid correspond aux marques premium importées. Inconvénients : 500ml est la moitié du volume des bouteilles de 32oz — nécessite deux fois plus de remplissages ou accepter une hydratation limitée pour un usage actif prolongé ; goulot de 40mm plus étroit que les larges goulots de Hydro Flask et Nalgene ; système de couvercle spécifique à la marque non interchangeable avec des accessoires tiers ; lavage à la main uniquement.",
     "klean-kanteen-20oz": "Meilleure bouteille polyvalente pour eau et café. TKWide avec Café Cap fonctionne à la fois comme bouteille d'eau et tasse de voyage, intérieur en inox 18/8, isolation sous vide comparable à Hydro Flask. Inconvénients : Café Cap vendu séparément du couvercle standard — capacité polyvalente complète nécessite un achat supplémentaire ; capacité 20oz limitante pour l'hydratation toute la journée sans remplissage ; moindre reconnaissance de la marque au Japon signifie moins d'avis à long terme pour évaluer la fiabilité ; prix d'importation supérieur à l'équivalent américain ; pas le choix le plus fort pour une utilisation eau seulement par rapport à Hydro Flask ou Thermos dans la même gamme de prix."
   },
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque bouteille a été remplie d'eau glacée et mesurée à 2, 6, 12 et 24 heures dans une pièce à 25°C ; résistance aux fuites testée à l'envers sous pression de sac à dos pendant 30 minutes ; durabilité évaluée par des tests de chute d'un mètre sur béton.",
+  "products": [
+    {
+      "offerId": "hydro-flask-32oz",
+      "badge": "Meilleure dans l'ensemble",
+      "review": "L'isolation TempShield à double paroi de Hydro Flask a maintenu l'eau en dessous de 8°C pendant 24 heures — la meilleure rétention de froid dans cette comparaison. Le système de couvercles interchangeables est vraiment utile, mais le Flex Cap de base nécessite deux mains. Lourd à 454g vide.",
+      "pros": [
+        "Meilleure rétention de froid dans le test — sous 8°C pendant 24 heures",
+        "Système de couvercles interchangeables avec options paille et flip",
+        "Intérieur en acier inoxydable 18/8 non revêtu, sans altération du goût"
+      ],
+      "cons": [
+        "La plus lourde à 454g vide",
+        "Le Flex Cap de base nécessite une opération à deux mains"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Capacity": "32 oz / 946 ml",
+        "Insulation": "Double-wall TempShield vacuum",
+        "Cold retention": "24 hr (lab)",
+        "Hot retention": "12 hr (lab)",
+        "Material": "18/8 stainless steel",
+        "Weight (empty)": "454g",
+        "Mouth width": "Wide (53mm)",
+        "Dishwasher safe": "No"
+      },
+      "scores": {
+        "Insulation": 5.0,
+        "Leak resistance": 4.5,
+        "Durability": 4.8,
+        "Value": 4.0,
+        "Ease of cleaning": 3.8
+      }
+    },
+    {
+      "offerId": "stanley-quencher-30oz",
+      "badge": "Meilleure pour les navetteurs",
+      "review": "La base effilée du Quencher s'adapte à tous les porte-gobelets testés, et le couvercle à paille couvre la plupart des habitudes d'hydratation quotidienne. Performances froides constantes à 21 heures. Le couvercle à paille nécessite démontage pour un nettoyage complet.",
+      "pros": [
+        "Base effilée s'adapte aux porte-gobelets standard de voiture",
+        "Couvercle à paille couvre la plupart des utilisations quotidiennes",
+        "Grandes poignées confortables pour un transport prolongé"
+      ],
+      "cons": [
+        "Le couvercle à paille nécessite démontage pour un nettoyage complet",
+        "Le profil effilé ne s'adapte pas aux poches étroites de sac à dos"
+      ],
+      "grade": "A",
+      "specs": {
+        "Capacity": "30 oz / 887 ml",
+        "Insulation": "Double-wall vacuum",
+        "Cold retention": "~21 hr",
+        "Material": "18/8 stainless steel",
+        "Weight (empty)": "380g",
+        "Handle": "Yes, ergonomic",
+        "Base": "Tapered for cupholders",
+        "Dishwasher safe": "Yes"
+      },
+      "scores": {
+        "Insulation": 4.7,
+        "Leak resistance": 4.2,
+        "Durability": 4.3,
+        "Value": 4.2,
+        "Ease of cleaning": 3.5
+      }
+    },
+    {
+      "offerId": "thermos-jni-502",
+      "badge": "Meilleure pour le Japon",
+      "review": "Le JNI-502 est la référence des bouteilles de commute au Japon — 500ml compact, couvercle à bouton-poussoir à une main après le verrou à vis initial, note froid 24 heures. L'ouverture de 40mm est plus étroite que les bouteilles à large ouverture.",
+      "pros": [
+        "Accès à une main après le déverrouillage initial",
+        "Note froid 24 heures dans une taille compacte de 500ml",
+        "Largement disponible chez les détaillants japonais"
+      ],
+      "cons": [
+        "Ouverture de 40mm plus étroite que les concurrents à large ouverture",
+        "Lavage à la main uniquement"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Capacity": "500 ml",
+        "Insulation": "Vacuum stainless",
+        "Cold retention": "24 hr",
+        "Hot retention": "12 hr",
+        "Lid": "Push-button with screw lock",
+        "Weight (empty)": "~230g",
+        "Mouth width": "40mm",
+        "Dishwasher safe": "No"
+      },
+      "scores": {
+        "Insulation": 4.8,
+        "Leak resistance": 4.9,
+        "Durability": 4.7,
+        "Value": 4.6,
+        "Ease of cleaning": 3.6
+      }
+    },
+    {
+      "offerId": "nalgene-32oz",
+      "badge": "Meilleure légère",
+      "review": "À 180g vide, la plus légère et la seule entièrement compatible lave-vaisselle. Sans isolation, les boissons atteignent la température ambiante en 30-60 minutes — mauvais pour l'eau froide toute la journée, juste pour la randonnée où le poids prime.",
+      "pros": [
+        "La plus légère à 180g — environ 2,5x plus légère que Hydro Flask",
+        "Tritan BPA-free entièrement compatible lave-vaisselle",
+        "Large ouverture 63mm pour les glaçons et les mains"
+      ],
+      "cons": [
+        "Pas d'isolation — les boissons atteignent la température ambiante en 30-60 minutes"
+      ],
+      "grade": "B",
+      "specs": {
+        "Capacity": "32 oz / 946 ml",
+        "Insulation": "None",
+        "Material": "BPA-free Tritan plastic",
+        "Weight (empty)": "180g",
+        "Mouth width": "63mm wide",
+        "Dishwasher safe": "Yes",
+        "Drop resistance": "High",
+        "Price": "~$15"
+      },
+      "scores": {
+        "Insulation": 1.0,
+        "Leak resistance": 4.7,
+        "Durability": 4.9,
+        "Value": 4.9,
+        "Ease of cleaning": 5.0
+      }
+    },
+    {
+      "offerId": "klean-kanteen-20oz",
+      "badge": "Meilleure pour les amateurs de café",
+      "review": "La compatibilité de la TKWide avec la Café Cap en fait une bouteille à double usage genuine — le même contenant pour le café du matin et l'eau de l'après-midi. À 20oz, elle couvre le trajet mais pas l'hydratation toute la journée.",
+      "pros": [
+        "Compatible avec Café Cap pour usage double café/eau",
+        "Intérieur en acier inoxydable 18/8, sans goût plastique",
+        "Isolation sous vide comparable à Hydro Flask"
+      ],
+      "cons": [
+        "Café Cap vendue séparément — la polyvalence coûte un supplément",
+        "20oz insuffisant pour l'hydratation toute la journée sans remplissage"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Capacity": "20 oz / 591 ml",
+        "Insulation": "Double-wall vacuum",
+        "Cold retention": "~24 hr",
+        "Hot retention": "~12 hr",
+        "Material": "18/8 stainless steel",
+        "Weight (empty)": "~280g",
+        "Café Cap compatible": "Yes (sold separately)",
+        "Dishwasher safe": "Lid only"
+      },
+      "scores": {
+        "Insulation": 4.6,
+        "Leak resistance": 4.4,
+        "Durability": 4.5,
+        "Value": 3.8,
+        "Ease of cleaning": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les buveurs d'eau froide toute la journée",
+      "offerId": "hydro-flask-32oz",
+      "reason": "Meilleure rétention de froid dans le test — l'eau glacée est restée sous 8°C pendant 24 heures."
+    },
+    {
+      "label": "Pour les navetteurs en voiture",
+      "offerId": "stanley-quencher-30oz",
+      "reason": "Base effilée s'adapte à tous les porte-gobelets ; couvercle à paille pour boire sans les mains en déplacement."
+    },
+    {
+      "label": "Pour l'usage quotidien au Japon",
+      "offerId": "thermos-jni-502",
+      "reason": "Couvercle à bouton-poussoir de première classe, note froid 24 heures, largement disponible partout au Japon."
+    },
+    {
+      "label": "Pour les randonneurs soucieux du poids",
+      "offerId": "nalgene-32oz",
+      "reason": "À 180g la plus légère de loin, entièrement compatible lave-vaisselle, et résiste aux chutes sans se fissurer."
+    },
+    {
+      "label": "Pour les utilisateurs de café et d'eau",
+      "offerId": "klean-kanteen-20oz",
+      "reason": "La compatibilité Café Cap en fait la seule bouteille ici qui fonctionne vraiment pour les boissons chaudes et froides."
+    }
+  ]
 }

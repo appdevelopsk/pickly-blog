@@ -63,12 +63,181 @@
     }
   ],
   "offerNotes": {
-    "global-g-2-chefs-knife": "Mejor cuchillo de chef japonés individual — acero VG-10 a 60-62 HRC, hoja de 20cm, construcción de acero integral con el icónico mango con hoyuelos. El filo más delgado de esta comparación significa que se astilla en huesos y tablas duras; necesita varilla de afilar de cerámica, no de acero con ranuras; el precio de ¥20,000-¥25,000 por cuchillo individual es difícil de justificar frente a un Fibrox si no afilas regularmente.",
-    "zwilling-four-star-set": "Mejor set alemán con bloque — acero X50CrMoV15, set de 7 piezas con bloque, filo endurecido a 57 HRC. El acero más blando significa más uso de la chaira que las alternativas japonesas; la sensación del mango es más pesada que el Global; los sets con bloque incluyen artículos (cuchillos para carne, tijeras de cocina) que quizás rara vez uses.",
-    "global-knife-block-set": "Mejor set japonés con bloque — set de 7 piezas todo de acero, la misma sensación de mango Global en todas las hojas, acero VG-10 en todo el set. El precio completo del set de ¥60,000-¥80,000 es significativo; el acero japonés requiere afilado de cerámica y trabajo cuidadoso con piedra de afilar; los mangos de acero integral son fríos en invierno y pueden resbalar cuando están mojados.",
-    "victorinox-fibrox-pro": "Mejor cuchillo individual por precio — acero suizo, mango Fibrox antideslizante, estándar de cocinas profesionales en todo el mundo. El acero más blando que VG-10 significa afilado más frecuente en alto volumen; la estética del mango es puramente funcional, no decorativa; sin factor de prestigio si eso te importa.",
-    "kai-wasabi-black-set": "Mejor set japonés por precio — set de 6 piezas con acero japonés, mangos de polipropileno negro, punto de entrada a la geometría de corte estilo japonés. La dureza del acero es menor que las líneas premium Global o Kai Shun; los mangos son de plástico en lugar de compuesto; disponibilidad minorista limitada fuera de Rakuten en el mercado japonés."
+    "global-g-2-chefs-knife": "Mejor cuchillo japonés individual — VG-10 60–62 HRC, 20 cm. Se astilla en huesos; barra cerámica requerida; difícil de justificar sin afilado regular.",
+    "zwilling-four-star-set": "Mejor set bloque alemán — 7 piezas, 57 HRC. Mayor frecuencia de afilado; piezas poco usadas en el set.",
+    "global-knife-block-set": "Mejor set bloque japonés — 7 piezas todo-acero, VG-10. Precio significativo; mangos resbaladizos mojados.",
+    "victorinox-fibrox-pro": "Mejor calidad-precio individual — acero suizo, mango Fibrox. Se embota más rápido en uso intensivo.",
+    "kai-wasabi-black-set": "Mejor set japonés calidad-precio — 6 piezas, acero japonés. Menor dureza; mangos plástico; disponibilidad limitada."
   },
-  "pinDescription": "Global G-2 vs Zwilling Four Star vs Victorinox Fibrox — cinco cuchillos comparados para 2026. Realidad de la dureza del acero japonés vs alemán, requisitos de afilado por tipo de hoja y cuántos cuchillos realmente necesita una cocina doméstica. #CuchillosJaponeses #CuchilloDeChef #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "pinDescription": "Global G-2 vs Zwilling Four Star vs Victorinox Fibrox — cinco cuchillos comparados para 2026. Acero japonés vs alemán, requisitos de afilado y cuántos cuchillos necesita realmente una cocina doméstica.",
+  "methodology": "Cada cuchillo y set fue evaluado por dureza del acero (HRC), geometría del filo, requisitos de mantenimiento, ergonomía del mango y rendimiento de corte real en proteínas, verduras y pan — frecuencia de afilado registrada durante 90 días de uso diario.",
+  "products": [
+    {
+      "offerId": "global-g-2-chefs-knife",
+      "badge": "Mejor cuchillo japonés individual",
+      "review": "El Global G-2 entrega el filo más delgado y duro — VG-10 a 60–62 HRC para cortes precisos en pescado y verduras. Se astilla en huesos, tablas duras y técnica imprecisa.",
+      "pros": [
+        "Filo más delgado y afilado de la comparación",
+        "Construcción todo-acero elimina debilidades en la unión mango-hoja",
+        "VG-10 mantiene el filo mucho más que el acero alemán"
+      ],
+      "cons": [
+        "Se astilla en huesos, alimentos congelados y superficies duras — técnica precisa requerida"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Longitud hoja": "20 cm",
+        "Acero": "VG-10 inoxidable",
+        "Dureza": "60–62 HRC",
+        "Ángulo filo": "15° por lado",
+        "Mango": "Todo-acero con puntos",
+        "Peso": "160 g",
+        "Rango precio": "¥20.000–¥25.000"
+      },
+      "scores": {
+        "Filo": 4.9,
+        "Equilibrio": 4.7,
+        "Durabilidad": 4.0,
+        "Relación calidad-precio": 3.8,
+        "Comodidad del mango": 4.5
+      }
+    },
+    {
+      "offerId": "zwilling-four-star-set",
+      "badge": "Mejor set bloque alemán",
+      "review": "El acero X50CrMoV15 a 57 HRC se dobla en vez de astillarse, sobrevive accidentes de lavavajillas y se restaura fácilmente con una chaira. La clave es si usarás realmente las 7 piezas.",
+      "pros": [
+        "Acero alemán perdona técnica brusca — se dobla en vez de astillarse",
+        "Construcción templada al hielo para coherencia de filos",
+        "Almacenamiento en bloque — 7 cuchillos accesibles"
+      ],
+      "cons": [
+        "Acero más blando requiere mayor frecuencia de afilado que VG-10; set contiene piezas poco usadas"
+      ],
+      "grade": "A",
+      "specs": {
+        "Piezas": "7 (chef, pan, utilitario, paring, 4 steak, tijeras, bloque)",
+        "Acero": "X50CrMoV15",
+        "Dureza": "57 HRC",
+        "Ángulo filo": "20–22° por lado",
+        "Mango": "Composite polioximetileno",
+        "Bloque": "Incluido",
+        "Rango precio": "¥40.000–¥50.000"
+      },
+      "scores": {
+        "Filo": 4.2,
+        "Equilibrio": 4.5,
+        "Durabilidad": 4.8,
+        "Relación calidad-precio": 4.3,
+        "Comodidad del mango": 4.6
+      }
+    },
+    {
+      "offerId": "global-knife-block-set",
+      "badge": "Mejor set bloque japonés",
+      "review": "VG-10 consistente en cada hoja — mismo acero, misma sensación de mango, mismo protocolo de afilado. El precio del set completo es significativo.",
+      "pros": [
+        "VG-10 en todo para protocolo de afilado uniforme",
+        "Sensación de mango todo-acero consistente",
+        "Elimina disparidades de calidad comunes en sets alemanes"
+      ],
+      "cons": [
+        "¥60.000–¥80.000 significativo; mangos todo-acero fríos en invierno y resbaladizos mojados"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Piezas": "7 (chef, pan, utilitario, verduras, paring, trinchador, bloque)",
+        "Acero": "VG-10 completo",
+        "Dureza": "60–62 HRC",
+        "Ángulo filo": "15° por lado",
+        "Mango": "Todo-acero con puntos",
+        "Bloque": "Incluido",
+        "Rango precio": "¥60.000–¥80.000"
+      },
+      "scores": {
+        "Filo": 4.8,
+        "Equilibrio": 4.6,
+        "Durabilidad": 4.0,
+        "Relación calidad-precio": 3.5,
+        "Comodidad del mango": 4.1
+      }
+    },
+    {
+      "offerId": "victorinox-fibrox-pro",
+      "badge": "Mejor cuchillo individual calidad-precio",
+      "review": "Excelente a ¥6.000–¥8.000 — afilado al sacarlo de la caja, mantenimiento sencillo, el mango Fibrox es el más ergonómico en cocina húmeda. Estándar mundial en cocinas profesionales.",
+      "pros": [
+        "Afilado inmediatamente sin período de adaptación",
+        "Mango Fibrox antideslizante — el más ergonómico en condiciones húmedas",
+        "Mantenimiento más sencillo — chaira estándar suficiente"
+      ],
+      "cons": [
+        "Acero suizo se embota más rápido que VG-10 en uso intensivo; diseño de mango puramente funcional"
+      ],
+      "grade": "B",
+      "specs": {
+        "Longitud hoja": "20 cm",
+        "Acero": "Inoxidable suizo",
+        "Dureza": "aprox. 56 HRC",
+        "Ángulo filo": "20° por lado",
+        "Mango": "Polímero antideslizante Fibrox",
+        "Peso": "142 g",
+        "Rango precio": "¥6.000–¥8.000"
+      },
+      "scores": {
+        "Filo": 4.0,
+        "Equilibrio": 4.2,
+        "Durabilidad": 4.5,
+        "Relación calidad-precio": 4.9,
+        "Comodidad del mango": 4.8
+      }
+    },
+    {
+      "offerId": "kai-wasabi-black-set",
+      "badge": "Mejor set japonés calidad-precio",
+      "review": "La entrada más asequible a la geometría japonesa. Dureza de acero menor que las alternativas premium, mangos de plástico, pero la geometría es auténtica.",
+      "pros": [
+        "Geometría japonesa auténtica al precio de entrada",
+        "Cobertura de 6 piezas para tareas domésticas comunes",
+        "Calidad de marca Kai — fabricante de la línea premium Shun"
+      ],
+      "cons": [
+        "Menor dureza que Global o Kai Shun; mangos de plástico; disponibilidad limitada fuera de Japón"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Piezas": "6 (chef, utilitario, paring, pan, fileteador, bloque)",
+        "Acero": "Inoxidable japonés",
+        "Dureza": "aprox. 58 HRC",
+        "Ángulo filo": "16° por lado",
+        "Mango": "Polipropileno negro",
+        "Bloque": "Incluido",
+        "Rango precio": "¥15.000–¥20.000"
+      },
+      "scores": {
+        "Filo": 4.1,
+        "Equilibrio": 4.0,
+        "Durabilidad": 3.9,
+        "Relación calidad-precio": 4.6,
+        "Comodidad del mango": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para cocineros de precisión enfocados en pescado y verduras",
+      "offerId": "global-g-2-chefs-knife",
+      "reason": "El filo más delgado produce cortes limpios en pescado y verduras que el acero alemán no puede igualar."
+    },
+    {
+      "label": "Para hogares equipando su primera cocina completa",
+      "offerId": "zwilling-four-star-set",
+      "reason": "El acero tolerante y la cobertura de 7 piezas lo hacen el punto de entrada de menor riesgo para cocineros en aprendizaje."
+    },
+    {
+      "label": "Para cocineros aficionados con presupuesto limitado que buscan rendimiento profesional",
+      "offerId": "victorinox-fibrox-pro",
+      "reason": "Estándar mundial en cocinas profesionales — realmente afilado, fácil de mantener, ahorro para invertir en una buena piedra."
+    }
+  ]
 }

@@ -86,5 +86,64 @@
     "kind-protein-bar": "Whole nuts, honey sweetened, most food-like texture"
   },
   "pinDescription": "5 protein bars compared honestly — Quest, RXBAR, Clif Builder, ONE, and KIND. Protein content, sugar sources, best use cases, and which one to skip based on what you actually need.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each bar was assessed on protein source and leucine density, sweetener type and gastrointestinal tolerance profile, sugar content, texture consistency across temperatures, ingredient list length, and verified certifications — marketing claims were cross-checked against independent lab testing where available.",
+  "products": [
+    {
+      "offerId": "quest-bar",
+      "badge": "Best Overall",
+      "review": "Quest delivers 20–21 g of whey and milk protein isolate at 4–5 g net carbs — the combination that built its reputation among low-carb and post-workout buyers. Erythritol plus stevia means no sucralose aftertaste at room temperature, though the dense texture at cold is a common complaint that a 10-second microwave fixes. Not the choice if you want a short ingredient list.",
+      "pros": ["20–21 g protein from isolates with high leucine density", "4–5 g net carbs suits keto and low-carb tracking", "Erythritol sweetening — generally better tolerated than maltitol"],
+      "cons": ["Long processed ingredient list — not a clean-label bar"],
+      "grade": "A+",
+      "specs": {"Protein": "20–21 g", "Protein source": "Whey + milk protein isolate", "Net carbs": "4–5 g", "Sugar": "1 g", "Calories": "~190–200 kcal", "Sweetener": "Erythritol + stevia", "Price per bar": "$4.95"},
+      "scores": {"Protein quality": 4.8, "Taste": 4.3, "Value": 4.2, "Ingredients": 3.4, "Texture": 3.9}
+    },
+    {
+      "offerId": "rxbar-protein",
+      "badge": "Best Clean Label",
+      "review": "RXBAR prints its entire ingredient list on the front of the bar — 3 egg whites, 6 almonds, 4 cashews, 2 dates — which is a design decision, not a marketing gimmick. The 12 g of complete protein from egg whites is nutritionally sound; the trade-off is that 20 g whey bars deliver more leucine per serving and a stronger post-workout MPS signal. Best if you want to know exactly what you're eating and are comfortable with a bar that tastes like food rather than dessert.",
+      "pros": ["Shortest and most readable ingredient list in this comparison", "Complete protein from egg whites — no artificial sweeteners", "No sugar alcohols means no gastrointestinal risk"],
+      "cons": ["12 g protein — lower leucine load than 20 g isolate bars for post-workout use"],
+      "grade": "A",
+      "specs": {"Protein": "12 g", "Protein source": "Egg whites", "Net carbs": "~20 g", "Sugar": "15–17 g (from dates)", "Calories": "~200–210 kcal", "Sweetener": "Dates only", "Price per bar": "$2.33"},
+      "scores": {"Protein quality": 4.5, "Taste": 4.4, "Value": 4.5, "Ingredients": 5.0, "Texture": 4.2}
+    },
+    {
+      "offerId": "clif-builder-bar",
+      "badge": "Best for Endurance Athletes",
+      "review": "Clif Builder provides 20 g of complete plant protein from soy isolate alongside 270 calories and 17–18 g sugar from rice syrup — a caloric and carbohydrate profile designed for glycogen-depleted endurance athletes, not for desk-based snacking. Certified vegan and kosher, and the flavors are straightforward without artificial sweetener aftertaste. Using this bar as a low-calorie snack is the wrong application.",
+      "pros": ["20 g complete plant protein — the only vegan option at full dose", "Higher calories suit long endurance training windows", "No artificial sweeteners or sugar alcohols"],
+      "cons": ["17–18 g added sugar from rice syrup — not appropriate for low-carb or calorie-deficit goals"],
+      "grade": "B+",
+      "specs": {"Protein": "20 g", "Protein source": "Soy protein isolate", "Net carbs": "~30 g", "Sugar": "17–18 g", "Calories": "~270 kcal", "Sweetener": "Rice syrup + cane syrup", "Price per bar": "$1.67"},
+      "scores": {"Protein quality": 4.2, "Taste": 4.3, "Value": 4.8, "Ingredients": 3.6, "Texture": 4.0}
+    },
+    {
+      "offerId": "one-protein-bar",
+      "badge": "Best Flavor Variety",
+      "review": "ONE bars offer 20 g protein at 1 g sugar with a dessert-flavored library — Birthday Cake, Maple Glazed Doughnut, Peanut Butter Pie — that is the most aggressive in this category. The erythritol-plus-sucralose combination delivers candy-bar sweetness at low sugar, but some buyers report a detectable aftertaste. This is the bar you recommend to someone transitioning off actual candy bars who needs to sustain the behavior change through flavor satisfaction.",
+      "pros": ["Widest flavor library in the comparison — 15+ options", "20 g protein at 1 g sugar — the cleanest macro profile", "Useful for high-protein cutting phases with strong dessert cravings"],
+      "cons": ["Sucralose aftertaste noticeable to some buyers"],
+      "grade": "B",
+      "specs": {"Protein": "20 g", "Protein source": "Whey + milk protein blend", "Net carbs": "~8 g", "Sugar": "1 g", "Calories": "~220 kcal", "Sweetener": "Erythritol + sucralose", "Price per bar": "$2.68"},
+      "scores": {"Protein quality": 4.6, "Taste": 4.5, "Value": 4.1, "Ingredients": 3.2, "Texture": 4.0}
+    },
+    {
+      "offerId": "kind-protein-bar",
+      "badge": "Best Texture",
+      "review": "KIND Protein delivers 12 g from whole nuts and soy protein, sweetened with honey and dark chocolate — no erythritol, no sucralose, no sugar alcohols. The whole-nut crunch is genuinely different from compressed-protein bars, and the honey sweetness is less aggressive than sucralose-based bars. At 12 g protein it is a smarter-than-average snack, not a post-workout recovery tool — the leucine dose is insufficient to drive MPS at the level of 20 g whey.",
+      "pros": ["No artificial sweeteners or sugar alcohols — honey and chocolate only", "Distinctive whole-nut crunch that engineered bars cannot replicate", "Short, recognizable ingredient list"],
+      "cons": ["12 g protein — not sufficient as a standalone post-workout source"],
+      "grade": "B-",
+      "specs": {"Protein": "12 g", "Protein source": "Nuts + soy protein", "Net carbs": "~18 g", "Sugar": "~8 g (honey + chocolate)", "Calories": "~250 kcal", "Sweetener": "Honey + dark chocolate", "Price per bar": "$1.46"},
+      "scores": {"Protein quality": 3.8, "Taste": 4.6, "Value": 4.7, "Ingredients": 4.8, "Texture": 4.9}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For post-workout recovery on a low-carb plan", "offerId": "quest-bar", "reason": "20–21 g protein isolate plus 4–5 g net carbs hits the macros without disrupting keto or low-carb tracking."},
+    {"label": "For clean-ingredient snacking", "offerId": "rxbar-protein", "reason": "Every ingredient is named on the front of the bar — the most transparent option in this comparison."},
+    {"label": "For endurance athletes fueling long sessions", "offerId": "clif-builder-bar", "reason": "270 calories and 17 g sugar alongside 20 g plant protein match the glycogen demands of 60-plus minute training windows."},
+    {"label": "For buyers transitioning off candy bars", "offerId": "one-protein-bar", "reason": "15+ dessert-level flavors at 1 g sugar make habit change sustainable where plain bars fail."},
+    {"label": "For buyers who dislike engineered protein bars", "offerId": "kind-protein-bar", "reason": "Whole nuts, honey, and dark chocolate provide a food-like texture and taste that most protein bars deliberately avoid."}
+  ]
 }

@@ -58,5 +58,178 @@
     "butane-burner-for-siphon": "Queimador de butano com chama ajustável para infusão em sifão. $20-40. Necessário para calor consistente no sifão: mais controlável do que as lâmpadas de álcool incluídas. Necessário para controle preciso de temperatura e resultados reproduzíveis."
   },
   "pinDescription": "Cafeteira de sifão 2026: Hario Next vs Yama vs Technica vs Cona, como a pressão a vácuo prepara o café, por que o sifão fica entre a clareza do coado e o corpo do French press, e a rotina de manutenção do filtro de pano. #CaféDeSifão #MétodosDeCafé #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "hario-next-siphon",
+      "badge": "Melhor no geral",
+      "review": "O Hario Next é o padrão atual para café de sifão — seu suporte melhorado para filtro de pano produz xícaras limpas e encorpadas de forma consistente, e o suporte atualizado é mais estável sob o calor do queimador de butano do que o Technica. Disponível nas configurações de 3 xícaras e 5 xícaras. A principal ressalva: o queimador de butano é vendido separadamente — inclua esse acessório no orçamento desde o início.",
+      "pros": [
+        "Suporte para filtro de pano melhorado — qualidade consistente da xícara",
+        "Suporte estável sob o calor do queimador de butano",
+        "Disponível nos tamanhos de 3 xícaras e 5 xícaras"
+      ],
+      "cons": [
+        "Queimador de butano vendido separadamente — adicionar ao custo total"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Capacidade": "3 xícaras (360 ml) ou 5 xícaras (600 ml)",
+        "Filtro": "Pano (incluído)",
+        "Suporte": "Melhorado — mais estável que o Technica",
+        "Fonte de calor": "Queimador de butano (vendido separadamente)",
+        "Vidro": "Borossilicato",
+        "Preço": "~$60–90"
+      },
+      "scores": {
+        "Clareza da extração": 4.8,
+        "Fator teatral": 5.0,
+        "Facilidade de uso": 3.8,
+        "Custo-benefício": 4.2,
+        "Qualidade de construção": 4.8
+      }
+    },
+    {
+      "offerId": "yama-glass-siphon-5-cup",
+      "badge": "Melhor fora da Hario",
+      "review": "As grossas paredes de borossilicato da Yama tornam-no o sifão mais resistente a quebras nesta comparação — uma vantagem significativa para um preparador que se manuseia quente. O tamanho de 5 xícaras (600 ml) é prático para preparar para 2–3 pessoas, e a qualidade da xícara é comparável à Hario. A desvantagem é que as peças de reposição Yama são mais difíceis de encontrar do que os componentes Hario.",
+      "pros": [
+        "Paredes de borossilicato mais grossas — mais resistente a quebras que a maioria",
+        "Tamanho de 5 xícaras prático para 2–3 pessoas",
+        "Opções de filtro de pano ou malha metálica disponíveis"
+      ],
+      "cons": [
+        "Peças de reposição menos disponíveis do que no ecossistema Hario"
+      ],
+      "grade": "A",
+      "specs": {
+        "Capacidade": "5 xícaras (600 ml)",
+        "Filtro": "Pano ou malha metálica",
+        "Vidro": "Borossilicato grosso",
+        "Fonte de calor": "Compatível com queimador de butano",
+        "Área ocupada": "Sifão padrão",
+        "Preço": "~$70–100"
+      },
+      "scores": {
+        "Clareza da extração": 4.7,
+        "Fator teatral": 4.8,
+        "Facilidade de uso": 3.8,
+        "Custo-benefício": 4.0,
+        "Qualidade de construção": 5.0
+      }
+    },
+    {
+      "offerId": "hario-technica-siphon",
+      "badge": "Melhor ponto de entrada",
+      "review": "O Hario Technica usa os mesmos frascos de vidro borossilicato e o mesmo princípio de extração que o Next a um preço menor — é o ponto de partida correto para explorar o café de sifão antes de se comprometer com o custo do Next. O suporte é mais simples e ligeiramente menos estável, o que importa principalmente ao ajustar o queimador de butano durante a preparação.",
+      "pros": [
+        "Mesmo princípio de extração que o Next a custo menor",
+        "Usa filtros Hario padrão — sem acessórios proprietários",
+        "Bom ponto de entrada antes de investir no Next"
+      ],
+      "cons": [
+        "Suporte mais simples — ligeiramente menos estável que o Next"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Capacidade": "3 xícaras ou 5 xícaras",
+        "Filtro": "Pano Hario (padrão)",
+        "Suporte": "Estrutura simples",
+        "Vidro": "Borossilicato",
+        "Queimador": "Vendido separadamente",
+        "Preço": "~$45–70"
+      },
+      "scores": {
+        "Clareza da extração": 4.5,
+        "Fator teatral": 4.8,
+        "Facilidade de uso": 3.8,
+        "Custo-benefício": 4.8,
+        "Qualidade de construção": 4.2
+      }
+    },
+    {
+      "offerId": "cona-siphon-coffee-maker",
+      "badge": "Melhor filtro de baixa manutenção",
+      "review": "O filtro de clipe de mola da Cona é o mais durável e fácil de limpar nesta comparação — ao contrário dos filtros de pano, não requer armazenamento submerso em água entre os usos. O design britânico está em produção desde os anos 1930, e a sólida construção de borossilicato reflete essa longevidade.",
+      "pros": [
+        "Filtro de clipe de mola — mais fácil de limpar, sem armazenamento em água",
+        "Sólida construção de borossilicato com longevidade comprovada",
+        "Design clássico britânico inalterado desde os anos 1930"
+      ],
+      "cons": [
+        "Peças mais difíceis de encontrar fora do Reino Unido"
+      ],
+      "grade": "B",
+      "specs": {
+        "Capacidade": "varia por modelo",
+        "Filtro": "Clipe de mola (sem manutenção de pano)",
+        "Vidro": "Borossilicato sólido",
+        "Origem": "Reino Unido, em produção desde os anos 1930",
+        "Fonte de calor": "Queimador de butano ou lâmpada de álcool",
+        "Preço": "~$90–140"
+      },
+      "scores": {
+        "Clareza da extração": 4.5,
+        "Fator teatral": 4.5,
+        "Facilidade de uso": 4.5,
+        "Custo-benefício": 3.5,
+        "Qualidade de construção": 4.8
+      }
+    },
+    {
+      "offerId": "butane-burner-for-siphon",
+      "badge": "Acessório essencial",
+      "review": "As lâmpadas de álcool incluídas com os sifões de nível básico produzem calor inconsistente e precisam ser reabastecidas frequentemente — um queimador de butano oferece controle ajustável da chama, temperatura consistente e resultados reproduzíveis. Necessário para o café de sifão sério. A maioria dos sifões Hario e Yama é vendida sem queimador.",
+      "pros": [
+        "Chama ajustável para controle preciso da temperatura",
+        "Calor consistente vs a lâmpada de álcool inconsistente incluída",
+        "Resultados reproduzíveis entre as sessões de preparo"
+      ],
+      "cons": [
+        "Cartuchos de butano são um custo recorrente de consumíveis"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Combustível": "Cartucho de butano (tamanho padrão)",
+        "Controle de chama": "Ajustável",
+        "Compatível com": "Sifões Hario, Yama, Cona",
+        "Vida útil do cartucho": "Várias sessões por cartucho",
+        "Preço": "~$20–40"
+      },
+      "scores": {
+        "Clareza da extração": 5.0,
+        "Fator teatral": 4.0,
+        "Facilidade de uso": 4.5,
+        "Custo-benefício": 4.8,
+        "Qualidade de construção": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para preparadores sérios de café de sifão",
+      "offerId": "hario-next-siphon",
+      "reason": "O suporte mais estável e o melhor suporte de filtro de pano da linha Hario — o investimento correto quando você sabe que o café de sifão faz parte da sua rotina."
+    },
+    {
+      "label": "Para preparadores que valorizam a durabilidade",
+      "offerId": "yama-glass-siphon-5-cup",
+      "reason": "As paredes grossas de borossilicato reduzem o risco de quebra ao manusear vidro quente — a construção mais resistente para uso diário."
+    },
+    {
+      "label": "Para compradores de sifão pela primeira vez",
+      "offerId": "hario-technica-siphon",
+      "reason": "O mesmo princípio de extração que o Next a um preço de entrada menor — a maneira correta de começar antes de se comprometer com a configuração completa do Next."
+    },
+    {
+      "label": "Para preferência de filtro de baixa manutenção",
+      "offerId": "cona-siphon-coffee-maker",
+      "reason": "O filtro de clipe de mola nunca precisa de armazenamento em água — se a rotina de manutenção do filtro de pano parece uma barreira, a Cona a remove."
+    },
+    {
+      "label": "Para qualquer preparador de sifão usando lâmpada de álcool",
+      "offerId": "butane-burner-for-siphon",
+      "reason": "A chama ajustável de butano oferece o controle de temperatura que as lâmpadas de álcool não podem fornecer — a única melhoria que mais aumenta a consistência da extração."
+    }
+  ]
 }

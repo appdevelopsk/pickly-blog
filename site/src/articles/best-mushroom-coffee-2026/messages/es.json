@@ -58,5 +58,174 @@
     "lion-mane-mushroom-powder": "Polvo de extracto puro de melena de León, típicamente 500 mg-1 g por porción, 50-100 porciones. $20-35. Mejor enfoque DIY — añadir a cualquier café para dosificación precisa en cantidades relevantes clínicamente. Más rentable para la suplementación diaria."
   },
   "pinDescription": "Café de hongos 2026: Four Sigmatic vs Ryze vs Om vs Earth & Star — lo que la investigación realmente dice sobre la melena de León y el cordyceps, si las dosis del café de hongos son significativas, cómo leer etiquetas para el contenido de beta-glucano y si el polvo DIY de melena de León supera las mezclas premezcladas.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada café de hongos fue evaluado según las especies de hongos utilizadas, la transparencia de la dosis por porción, el método de extracción (doble extracto vs. polvo entero), el nivel de cafeína, la integración del sabor y el costo por porción en relación con la compra separada de café y suplementos.",
+  "products": [
+    {
+      "offerId": "four-sigmatic-think-coffee",
+      "badge": "El Mejor en General",
+      "review": "Four Sigmatic fue pionero en el café de hongos y sigue siendo el referente de calidad. La mezcla Think utiliza doble extracción (agua caliente + alcohol) en arábica orgánica, entregando 250 mg de melena de león y 200 mg de chaga por porción con mejor biodisponibilidad que los productos de polvo crudo. El sabor es genuinamente orientado al café con un leve tono terroso, no medicinal. La bolsa de 12 porciones la convierte en la opción más cara por porción, pero la calidad de extracción lo justifica para uso regular.",
+      "pros": [
+        "La doble extracción aumenta la biodisponibilidad de los compuestos activos",
+        "250 mg de melena de león + 200 mg de chaga por porción etiquetada",
+        "Mejor integración de sabor — tono terroso presente pero no intrusivo"
+      ],
+      "cons": [
+        "28,50 $ por 12 porciones — la opción más cara por porción aquí"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Hongos": "Melena de león + chaga",
+        "Melena de león por porción": "250 mg",
+        "Chaga por porción": "200 mg",
+        "Extracción": "Doble extracción",
+        "Porciones": "12",
+        "Base de café": "Arábica orgánica"
+      },
+      "scores": {
+        "Sabor": 4.8,
+        "Calidad del hongo": 4.9,
+        "Valor": 3.5,
+        "Conveniencia": 5.0,
+        "Beneficios funcionales": 4.6
+      }
+    },
+    {
+      "offerId": "ryze-mushroom-coffee",
+      "badge": "Mejor Relación Calidad-Precio",
+      "review": "Ryze es el café de hongos más vendido por volumen, y el costo de 1,50 $/porción para 30 porciones es el más competitivo de esta comparación. La mezcla de 6 hongos totaliza 2.000 mg por porción, aunque las dosis individuales de cada hongo no se revelan. Con 48 mg de cafeína por porción — aproximadamente la mitad del café filtrado — es la elección correcta para quienes reducen cafeína sin dejar el ritual matutino.",
+      "pros": [
+        "1,50 $/porción — mejor costo por porción de las mezclas completas de café de hongos",
+        "La mezcla de 6 hongos totaliza 2.000 mg por porción",
+        "Baja cafeína de 48 mg — bueno para usuarios sensibles a la cafeína"
+      ],
+      "cons": [
+        "Las dosis individuales de hongos no se revelan — no se puede evaluar la eficacia por especie"
+      ],
+      "grade": "A",
+      "specs": {
+        "Hongos": "Mezcla de 6: melena de león, cordyceps, reishi, shiitake, cola de pavo, trompeta rey",
+        "Total de hongos por porción": "2.000 mg",
+        "Cafeína por porción": "48 mg",
+        "Porciones": "30",
+        "Base de café": "Arábica orgánica",
+        "Divulgación de mezcla": "Mezcla propietaria"
+      },
+      "scores": {
+        "Sabor": 4.3,
+        "Calidad del hongo": 4.1,
+        "Valor": 5.0,
+        "Conveniencia": 5.0,
+        "Beneficios funcionales": 4.0
+      }
+    },
+    {
+      "offerId": "om-mushroom-master-blend",
+      "badge": "Mejor Orgánico",
+      "review": "El Master Blend de Om es la opción con mejor certificación y transparencia — USDA orgánico, polvo de hongo entero de espectro completo (no solo extracto), probado por terceros y 10 especies de hongos. A 19,99 $ por 30 porciones, Om también ofrece una buena relación calidad-precio. La desventaja es que es un polvo de hongo puro que se agrega al café propio, no un producto premezclado.",
+      "pros": [
+        "Certificación USDA orgánica y pruebas de terceros",
+        "Polvo de hongo entero de espectro completo — 10 especies",
+        "Mejor valor para calidad de hongo orgánico certificado"
+      ],
+      "cons": [
+        "No premezclado con café — requiere compra separada de café"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Hongos": "Mezcla de 10 especies",
+        "Certificación": "USDA Orgánico",
+        "Tipo de polvo": "Hongo entero",
+        "Pruebas": "Verificado por terceros",
+        "Porciones": "30",
+        "Formato": "Polvo para agregar al café"
+      },
+      "scores": {
+        "Sabor": 4.0,
+        "Calidad del hongo": 5.0,
+        "Valor": 4.7,
+        "Conveniencia": 3.8,
+        "Beneficios funcionales": 4.8
+      }
+    },
+    {
+      "offerId": "earth-and-star-mushroom-coffee",
+      "badge": "Mejor Transparencia",
+      "review": "Earth & Star etiqueta el contenido de hongos por porción para cada especie — melena de león, chaga y reishi — lo que es más honesto que el enfoque de mezcla propietaria. Base de café orgánico, sabor suave y agradable, y embalaje atractivo que lo convierte en una opción de regalo razonable. Las dosis están etiquetadas pero no a niveles clínicos, por lo que es un producto honesto y bien elaborado más que un suplemento de grado terapéutico.",
+      "pros": [
+        "Dosis de hongos por porción etiquetada para cada especie",
+        "Base de café orgánico con sabor suave y agradable",
+        "Ofrece variantes de matcha de hongos y chocolate caliente"
+      ],
+      "cons": [
+        "Las dosis de hongos están por debajo de los niveles de investigación clínica — más producto de bienestar que suplemento"
+      ],
+      "grade": "B",
+      "specs": {
+        "Hongos": "Melena de león + chaga + reishi",
+        "Transparencia de dosificación": "Etiquetado por especie",
+        "Base de café": "Orgánico",
+        "Porciones": "30",
+        "Productos adicionales": "Matcha de hongos, chocolate caliente",
+        "Precio por porción": "~0,83 $"
+      },
+      "scores": {
+        "Sabor": 4.4,
+        "Calidad del hongo": 4.3,
+        "Valor": 4.4,
+        "Conveniencia": 4.8,
+        "Beneficios funcionales": 4.0
+      }
+    },
+    {
+      "offerId": "lion-mane-mushroom-powder",
+      "badge": "Mejor Opción DIY",
+      "review": "Agregar polvo de extracto puro de melena de león a su café existente es el enfoque más rentable y con mayor control de dosificación en esta comparación. Con 500 mg–1 g por porción y 50–100 porciones por bolsa, puede alcanzar el límite inferior de las dosis estudiadas en investigación humana mientras elige el café que realmente prefiere. Impacto mínimo en el sabor a dosis de hasta 1.000 mg.",
+      "pros": [
+        "Dosificación precisa a 500 mg–1 g — más cercano a los montos estudiados clínicamente",
+        "50–100 porciones por bolsa — las más porciones por dólar",
+        "Sin compromiso de sabor — agregar a cualquier café que ya disfrute"
+      ],
+      "cons": [
+        "Requiere gestionar dos productos por separado; no es una solución de compra única"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Hongo": "Extracto puro de melena de león",
+        "Dosis por porción": "500 mg–1 g",
+        "Porciones": "50–100",
+        "Extracción": "Polvo de extracto",
+        "Impacto en sabor": "Mínimo",
+        "Rango de precio": "20–35 $"
+      },
+      "scores": {
+        "Sabor": 4.0,
+        "Calidad del hongo": 4.8,
+        "Valor": 5.0,
+        "Conveniencia": 3.0,
+        "Beneficios funcionales": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para principiantes en café de hongos",
+      "offerId": "four-sigmatic-think-coffee",
+      "reason": "La doble extracción e integración de sabor de Four Sigmatic lo convierten en la introducción más confiable a la categoría — calidad establecida con un período de ajuste mínimo."
+    },
+    {
+      "label": "Para bebedores diarios que reducen cafeína",
+      "offerId": "ryze-mushroom-coffee",
+      "reason": "Con 48 mg de cafeína y 1,50 $/porción para 30 porciones, Ryze es la opción de hábito diario más sostenible para quienes reducen cafeína sin abandonar el ritual matutino."
+    },
+    {
+      "label": "Para compradores que solo eligen orgánico",
+      "offerId": "om-mushroom-master-blend",
+      "reason": "USDA orgánico, probado por terceros, polvo de hongo entero de 10 especies — la opción más acreditada para compradores que requieren certificación y transparencia."
+    },
+    {
+      "label": "Para suplementadores de precisión",
+      "offerId": "lion-mane-mushroom-powder",
+      "reason": "El polvo de extracto puro permite agregar una dosis controlada de 500–1.000 mg a cualquier café — la ruta más rentable hacia la ingesta de melena de león clínicamente relevante."
+    }
+  ]
 }

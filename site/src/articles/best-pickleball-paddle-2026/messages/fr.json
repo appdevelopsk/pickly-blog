@@ -58,5 +58,172 @@
     "paddletek-tempest-wave-pro": "Face en fibre de verre texturée, noyau polymère, 14mm, 7.6-8.0 oz. $120-150. Meilleur milieu de gamme polyvalent — entre débutant et premium, plus de texture de spin que le composite basique. Adapté aux joueurs avec 6+ mois d'expérience qui veulent un meilleur retour sans dépenser $200."
   },
   "pinDescription": "Raquette de pickleball 2026 : Selkirk Vanguard vs Joola Ben Johns Hyperion vs Franklin X-40 vs Head Extreme Tour — fibre de carbone vs face composite expliquées, ce que le poids de la raquette signifie, raquettes puissance vs contrôle, et meilleure raquette de pickleball pour débutants et joueurs intermédiaires 2026. #pickleball #raquette #sport #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque raquette a été évaluée selon les matériaux du noyau et de la surface, l'équilibre puissance-contrôle, la taille de la zone de frappe, la durabilité lors d'un jeu régulier et le rapport qualité-prix pour les niveaux débutant à avancé.",
+  "products": [
+    {
+      "offerId": "selkirk-vanguard-power-air",
+      "badge": "Meilleur choix premium global",
+      "review": "La surface Aero-Tec en fibre de carbone et le noyau en polymère 16 mm du Vanguard Power Air offrent la meilleure combinaison de spin et de contrôle dans la gamme premium. Le bord perforé aérodynamique réduit la résistance de l'air lors du swing — un avantage réel pour les mains rapides à la cuisine. Le prix de $200+ est trop élevé pour les joueurs occasionnels.",
+      "pros": [
+        "La surface Aero-Tec en carbone génère un spin d'élite sur les dinks et les drives",
+        "La profondeur du noyau 16 mm maximise le temps de contact pour les tirs de contrôle",
+        "Le bord aérodynamique réduit la résistance au swing pour les échanges rapides"
+      ],
+      "cons": [
+        "À $200–230, la différence de performance par rapport aux raquettes intermédiaires n'est perceptible qu'au niveau intermédiaire+"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Face material": "Aero-Tec carbon fiber",
+        "Core": "Polymer honeycomb 16mm",
+        "Weight": "7.4–7.6 oz",
+        "Grip length": "5.25 in",
+        "Price (US)": "~$220"
+      },
+      "scores": {
+        "Power": 4.6,
+        "Control": 5.0,
+        "Sweet spot": 4.8,
+        "Value": 3.5,
+        "Durability": 4.7
+      }
+    },
+    {
+      "offerId": "joola-ben-johns-hyperion-cfs16",
+      "badge": "Meilleure raquette pour les joueurs de spin",
+      "review": "Co-conçue avec Ben Johns, numéro 1 mondial, la Hyperion CFS16 a la meilleure génération de spin dans cette comparaison. Le noyau 16 mm maintient une orientation contrôle même à des vitesses de swing rapides. Le compromis : la petite zone de frappe est moins indulgente sur les impacts hors centre.",
+      "pros": [
+        "Surface CFS en carbone pour le maximum de topspin sur les troisièmes coups",
+        "Conçue avec les apports de Ben Johns, numéro 1 mondial",
+        "Épaisseur 16 mm pour un toucher doux à la ligne de cuisine"
+      ],
+      "cons": [
+        "Petite zone de frappe, moins indulgente sur les impacts hors centre que le Selkirk"
+      ],
+      "grade": "A",
+      "specs": {
+        "Face material": "Carbon Friction Surface (CFS)",
+        "Core": "Polymer honeycomb 16mm",
+        "Weight": "7.5–8.0 oz",
+        "Grip circumference": "4 1/4 in",
+        "Price (US)": "~$220"
+      },
+      "scores": {
+        "Power": 4.5,
+        "Control": 4.9,
+        "Sweet spot": 4.4,
+        "Value": 3.6,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "paddletek-tempest-wave-pro",
+      "badge": "Meilleur polyvalent intermédiaire",
+      "review": "La surface en fibre de verre texturée et le noyau en polymère 14 mm du Tempest Wave Pro se trouvent dans la zone idéale entre débutant et premium. Il récompense le développement de la technique de spin sans la courbe d'apprentissage abrupte des surfaces en carbone. Idéal pour les joueurs entre 6 mois et 2 ans de pratique.",
+      "pros": [
+        "La fibre de verre texturée fournit un retour de spin sans la courbe d'apprentissage abrupte du carbone",
+        "Noyau 14 mm équilibrant puissance et contrôle pour les joueurs intermédiaires",
+        "Solide réputation dans le jeu récréatif et en club"
+      ],
+      "cons": [
+        "Texture de surface insuffisante pour satisfaire les joueurs de spin avancés qui passent du carbone"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Face material": "Textured fiberglass",
+        "Core": "Polymer honeycomb 14mm",
+        "Weight": "7.6–8.0 oz",
+        "Price (US)": "~$150"
+      },
+      "scores": {
+        "Power": 4.2,
+        "Control": 4.4,
+        "Sweet spot": 4.5,
+        "Value": 4.2,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "head-extreme-tour-paddle",
+      "badge": "Meilleure raquette pour les joueurs de tennis",
+      "review": "La surface en graphite et le toucher traditionnel de l'Extreme Tour en font le point d'entrée naturel pour les joueurs de tennis qui passent au pickleball. La zone de frappe indulgente et le poids familier (7,6 oz) réduisent la courbe d'apprentissage. Le compromis est une génération de spin inférieure aux concurrents en carbone dans la même gamme de prix.",
+      "pros": [
+        "Toucher traditionnel familier aux joueurs de tennis",
+        "Zone de frappe indulgente réduisant les pénalités pour les impacts hors centre",
+        "Prix intermédiaire d'une marque de raquettes reconnue"
+      ],
+      "cons": [
+        "La surface en graphite génère moins de spin que les surfaces en carbone dans la gamme $80–100"
+      ],
+      "grade": "B",
+      "specs": {
+        "Face material": "Graphite",
+        "Core": "Polymer honeycomb",
+        "Weight": "7.6 oz",
+        "Price (US)": "~$100"
+      },
+      "scores": {
+        "Power": 4.0,
+        "Control": 4.2,
+        "Sweet spot": 4.6,
+        "Value": 4.0,
+        "Durability": 4.3
+      }
+    },
+    {
+      "offerId": "franklin-x40-paddle-set",
+      "badge": "Meilleur set débutant",
+      "review": "Le set Franklin X-40 fournit deux raquettes composites plus quatre balles X-40 de niveau tournoi en un seul achat — le bon point de départ avant de s'engager sur une raquette personnelle. Les balles incluses sont de vraies balles approuvées USA Pickleball. Les raquettes sont appropriées pour les débutants mais seront limitantes une fois que vous jouez régulièrement.",
+      "pros": [
+        "Deux raquettes plus quatre balles X-40 approuvées par les tournois en un kit",
+        "Coût d'entrée le plus bas pour apprendre le jeu avec du matériel légitime",
+        "Franklin est fournisseur officiel de balles USA Pickleball"
+      ],
+      "cons": [
+        "Les performances de raquette débutant seront limitantes une fois la technique développée au-delà de 3 mois"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Face material": "Fiberglass composite",
+        "Core": "Polymer honeycomb",
+        "Weight": "7.8 oz",
+        "Includes": "2 paddles + 4 X-40 balls",
+        "Price (US)": "~$40–50"
+      },
+      "scores": {
+        "Power": 3.5,
+        "Control": 3.8,
+        "Sweet spot": 4.0,
+        "Value": 5.0,
+        "Durability": 3.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les joueurs avancés priorisant le contrôle et le spin",
+      "offerId": "selkirk-vanguard-power-air",
+      "reason": "La surface Aero-Tec en carbone et le noyau 16 mm offrent le meilleur temps de contact et la meilleure génération de spin de la gamme."
+    },
+    {
+      "label": "Pour les joueurs intermédiaires développant leur jeu de spin",
+      "offerId": "joola-ben-johns-hyperion-cfs16",
+      "reason": "La surface CFS en carbone génère le plus de spin dans la comparaison, co-conçue avec le meilleur joueur mondial."
+    },
+    {
+      "label": "Pour les joueurs de tennis passant au pickleball",
+      "offerId": "head-extreme-tour-paddle",
+      "reason": "Surface en graphite et poids familier — comme une extension naturelle d'une raquette de tennis."
+    },
+    {
+      "label": "Pour les joueurs entre 6 mois et 2 ans cherchant à monter en gamme",
+      "offerId": "paddletek-tempest-wave-pro",
+      "reason": "La fibre de verre texturée récompense l'amélioration de la technique sans la courbe d'apprentissage abrupte du carbone."
+    },
+    {
+      "label": "Pour les débutants complets ayant besoin de tout pour commencer",
+      "offerId": "franklin-x40-paddle-set",
+      "reason": "Deux raquettes plus des balles approuvées pour les tournois en un kit — la façon la plus simple d'essayer le pickleball."
+    }
+  ]
 }

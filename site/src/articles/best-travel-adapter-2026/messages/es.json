@@ -110,5 +110,64 @@
     "aulola-travel-adapter": "Factor de forma ultracompacto -- más ligero y pequeño que cualquier otro adaptador en esta comparación. Cubre los Tipos A, C, G e I. Una toma de CA, sin carga USB integrada. Menos de $15. Un dispositivo a la vez a través de la toma de CA sin puertos USB; sin protección contra sobretensiones; las tolerancias de calidad de construcción pueden ser flojas en algunos tipos de enchufe."
   },
   "pinDescription": "Mejores adaptadores de viaje 2026 -- ¿necesitas un convertidor o solo un adaptador de enchufe? Vataje USB-C PD para cargar MacBook, protección contra sobretensiones para el Sudeste de Asia, mapa de enchufes mundiales Tipo A/C/G/I. EPICKA vs Ceptics vs BESTEK vs Satechi vs Aulola. Debilidades honestas de cada elección. #adaptadorViaje #viaje #enchufeViaje #español",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Cada adaptador fue evaluado por cobertura de tipos de enchufe, vataje de salida USB-C PD, clasificación de protección contra sobretensiones, durabilidad y costo total de propiedad incluyendo accesorios.",
+  "products": [
+    {
+      "offerId": "epicka-universal-adapter",
+      "badge": "Mejor en general",
+      "review": "Cubre 150+ países con diez tipos de enchufe, cuatro puertos USB-A y USB-C — la cobertura más completa. La protección MOV de 2000 julios ofrece un seguro real para viajes al Sudeste y Sur de Asia. El mecanismo retráctil puede aflojarse tras un año de uso intensivo, y USB-C a 18W no es suficiente para carga rápida de MacBook.",
+      "pros": ["10 tipos de enchufe para 150+ países", "Protección contra sobretensiones MOV 2000 julios", "5 puertos de carga simultáneos"],
+      "cons": ["USB-C solo 18W — demasiado lento para carga rápida de laptop"],
+      "grade": "A+",
+      "specs": {"Tipos de enchufe": "A, B, C, D, E/F, G, H, I, L, N", "Países": "150+", "Puertos USB-A": "4", "Salida USB-C": "18W", "Protección sobretensión": "2000 julios (MOV)", "Toma CA": "1", "Carga máx": "6A / 1380W"},
+      "scores": {"Compatibility": 5.0, "Build quality": 4.2, "USB ports": 4.5, "Value": 4.8, "Safety features": 5.0}
+    },
+    {
+      "offerId": "ceptics-world-travel-adapter",
+      "badge": "Mejor adaptador modular",
+      "review": "Los cabezales de enchufe intercambiables permiten llevar solo las regiones necesarias — la opción más ligera y delgada para viajes de una sola región. La carga USB-A está integrada en el cuerpo común. Los tipos de enchufe deben planificarse antes de salir.",
+      "pros": ["Más ligero y delgado por región", "Comprar solo los cabezales necesarios", "Puertos USB-A integrados"],
+      "cons": ["Sin protección contra sobretensiones", "Tipos de enchufe a planificar antes del viaje"],
+      "grade": "A",
+      "specs": {"Tipos de enchufe": "A, C/E/F, G, I (modular)", "Diseño": "Cabezales regionales intercambiables", "Puertos USB-A": "2", "Salida USB-C": "Ninguna", "Protección sobretensión": "Ninguna", "Toma CA": "1", "Peso": "El más ligero"},
+      "scores": {"Compatibility": 4.0, "Build quality": 4.5, "USB ports": 3.5, "Value": 4.5, "Safety features": 3.0}
+    },
+    {
+      "offerId": "bestek-travel-adapter",
+      "badge": "Mejor con convertidor de voltaje",
+      "review": "El único adaptador aquí que resuelve el problema del convertidor sin una unidad separada — el transformador reductor integrado de 220W. Más pesado y voluminoso; la clasificación de uso intermitente significa que no es adecuado para aparatos continuamente encendidos.",
+      "pros": ["Transformador reductor 220W integrado", "Cubre A, C, G, I y B", "Puertos de carga USB incluidos"],
+      "cons": ["El más pesado y voluminoso", "Uso intermitente — no para carga continua"],
+      "grade": "B+",
+      "specs": {"Tipos de enchufe": "A, B, C, G, I", "Convertidor": "220W reductor (intermitente)", "Puertos USB-A": "3", "Salida USB-C": "Ninguna", "Protección sobretensión": "Sí", "Toma CA": "1", "Carga máx convertidor": "220W"},
+      "scores": {"Compatibility": 4.0, "Build quality": 4.0, "USB ports": 3.8, "Value": 4.0, "Safety features": 4.5}
+    },
+    {
+      "offerId": "satechi-travel-adapter",
+      "badge": "Mejor para carga de laptop",
+      "review": "El puerto USB-C PD de 30W es el más alto aquí y el único adecuado para cargar un MacBook Air de noche. El perfil plano y delgado encaja perfectamente en el bolsillo de un maletín. Sin Tipo D/M, no es adecuado para India ni Sudáfrica.",
+      "pros": ["USB-C PD 30W — carga el MacBook Air de noche", "Diseño plano y delgado", "Calidad de construcción premium"],
+      "cons": ["Sin Tipo D/M — no apto para India o Sudáfrica"],
+      "grade": "B",
+      "specs": {"Tipos de enchufe": "A, C, G, I", "Salida USB-C PD": "30W", "Puerto USB-A": "1", "Protección sobretensión": "Ninguna", "Toma CA": "1", "Factor forma": "Perfil plano", "Rango precio": "Premium"},
+      "scores": {"Compatibility": 3.8, "Build quality": 5.0, "USB ports": 4.0, "Value": 3.5, "Safety features": 3.0}
+    },
+    {
+      "offerId": "aulola-travel-adapter",
+      "badge": "Mejor presupuesto / adaptador de repuesto",
+      "review": "Ultra-compacto y menos de 16 € — útil como repuesto o para viajeros de un solo dispositivo con su propio cargador USB. Cubre los cuatro tipos principales en el formato más pequeño posible. Sin puertos USB, sin protección contra sobretensiones.",
+      "pros": ["Ultra-compacto — cabe en cualquier bolsillo", "4 tipos de enchufe principales cubiertos", "Menos de 16 €"],
+      "cons": ["Sin puertos USB — un solo dispositivo vía toma CA", "Sin protección contra sobretensiones"],
+      "grade": "B-",
+      "specs": {"Tipos de enchufe": "A, C, G, I", "Puertos USB": "Ninguno", "Protección sobretensión": "Ninguna", "Toma CA": "1", "Carga máx": "6A / 1500W", "Factor forma": "Ultra-compacto", "Rango precio": "Presupuesto"},
+      "scores": {"Compatibility": 3.5, "Build quality": 3.0, "USB ports": 1.0, "Value": 5.0, "Safety features": 2.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para viajeros frecuentes multi-país", "offerId": "epicka-universal-adapter", "reason": "Un adaptador cubre cualquier destino con protección contra sobretensiones — sin planificación requerida."},
+    {"label": "Para trabajadores remotos con MacBook", "offerId": "satechi-travel-adapter", "reason": "El único puerto USB-C PD 30W aquí que carga un MacBook Air a una velocidad útil."},
+    {"label": "Para viajeros con aparatos 110V", "offerId": "bestek-travel-adapter", "reason": "Transformador integrado — única solución aquí para aparatos 110V en el extranjero."},
+    {"label": "Para viajeros minimalistas de región única", "offerId": "ceptics-world-travel-adapter", "reason": "Llevar solo el cabezal necesario — combinación más ligera para itinerario planificado."},
+    {"label": "Como repuesto o para un solo dispositivo", "offerId": "aulola-travel-adapter", "reason": "El más pequeño y barato — ideal como repuesto o para viajes con un solo dispositivo."}
+  ]
 }

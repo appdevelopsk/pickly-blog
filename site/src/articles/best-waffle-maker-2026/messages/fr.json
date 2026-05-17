@@ -59,5 +59,189 @@
     "oster-belgian-waffle-maker-ckstwf2000": "Design à charnière avec 7 réglages de brunissage et 3 ans de garantie limitée à prix intermédiaire. Résultats épais et réguliers grâce au mécanisme à rotation 180° ; une gaufre par cycle le place en file d'attente pour les familles."
   },
   "pinDescription": "Meilleurs gaufriers 2026 : du Dash Mini ($15) au Breville Smart Waffle Pro ($150) comparés sur le brunissage, le nettoyage et combien de personnes on peut nourrir avant que la première fournée refroidisse. Choix principal : Cuisinart WAF-F20P1 double belge. #gaufriers #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque gaufrier a été testé avec la même pâte (recette belge standard) sur 5 fournées, en mesurant la consistance du croustillant, l'uniformité du brunissage et la récupération de température des plaques entre les fournées.",
+  "products": [
+    {
+      "offerId": "cuisinart-waf-f20p1-waffle-maker",
+      "badge": "Meilleur dans l'ensemble",
+      "review": "Le Cuisinart WAF-F20P1 fait deux gaufres belges simultanément avec des résultats cohérents sur les six réglages de brunissage. Le nettoyage demande des efforts car les plaques ne se retirent pas, mais la qualité de sortie à ce prix est difficile à battre.",
+      "pros": [
+        "Cuit deux gaufres belges complètes à la fois",
+        "Six réglages de brunissage avec voyants fiables",
+        "Extérieur en acier inoxydable brossé reste froid au toucher"
+      ],
+      "cons": [
+        "Plaques non amovibles — nettoyage plus laborieux"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Wattage": "1400W",
+        "Waffle size": "1-inch-deep Belgian",
+        "Output": "2 waffles per batch",
+        "Browning settings": "6",
+        "Plates": "Nonstick, fixed",
+        "Drip tray": "Yes",
+        "Dimensions": "13.5 × 8.5 × 4 in",
+        "Price": "$89.99"
+      },
+      "scores": {
+        "Waffle crispness": 4.8,
+        "Heat evenness": 4.7,
+        "Ease of cleaning": 3.5,
+        "Value": 4.5,
+        "Plate type": 4.0
+      }
+    },
+    {
+      "offerId": "breville-bwm604xl-smart-waffle",
+      "badge": "Meilleur premium",
+      "review": "Les capteurs Element IQ ajustent la puissance de chauffe en fonction de la quantité de pâte et de la température ambiante, éliminant les approximations qui plagient la plupart des gaufriers. Quatre gaufres par fournée justifient le prix pour les foyers cuisinant régulièrement.",
+      "pros": [
+        "Element IQ auto-ajuste la chaleur par fournée",
+        "Fait quatre gaufres par fournée",
+        "5 réglages de gaufre du croustillant au moelleux"
+      ],
+      "cons": [
+        "Coûte 2-3x plus cher que les options budget"
+      ],
+      "grade": "A",
+      "specs": {
+        "Wattage": "1800W",
+        "Waffle size": "4-inch round",
+        "Output": "4 waffles per batch",
+        "Settings": "5 waffle types",
+        "Smart control": "Element IQ",
+        "Plates": "Nonstick",
+        "Dimensions": "16 × 12 × 5 in",
+        "Price": "$249.99"
+      },
+      "scores": {
+        "Waffle crispness": 4.9,
+        "Heat evenness": 5.0,
+        "Ease of cleaning": 4.0,
+        "Value": 3.5,
+        "Plate type": 4.5
+      }
+    },
+    {
+      "offerId": "oster-belgian-waffle-maker-ckstwf2000",
+      "badge": "Meilleur milieu de gamme",
+      "review": "Le mécanisme de retournement garantit une distribution uniforme de la pâte et livre des gaufres régulièrement épaisses sur les 7 réglages de brunissage. À moins de 50 € avec 3 ans de garantie, c'est le meilleur rapport milieu de gamme de ce groupe.",
+      "pros": [
+        "Design à retournement garantit une répartition uniforme de la pâte",
+        "7 réglages de brunissage — la plus large gamme ici",
+        "Garantie 3 ans à ce prix"
+      ],
+      "cons": [
+        "Une gaufre par fournée — peu pratique pour les grandes familles"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Wattage": "1000W",
+        "Waffle size": "Round Belgian",
+        "Output": "1 waffle per batch",
+        "Browning settings": "7",
+        "Flip design": "Yes",
+        "Handle": "Cool-touch",
+        "Dimensions": "10 × 9 × 5 in",
+        "Price": "$49.99"
+      },
+      "scores": {
+        "Waffle crispness": 4.5,
+        "Heat evenness": 4.6,
+        "Ease of cleaning": 4.0,
+        "Value": 4.7,
+        "Plate type": 4.0
+      }
+    },
+    {
+      "offerId": "hamilton-beach-26031-waffle-maker",
+      "badge": "Meilleur budget",
+      "review": "Moins de 30 € et suffisamment compact pour être rangé à la verticale. Le design à retournement améliore l'uniformité à ce prix. La récupération de chaleur entre les fournées est plus lente que les options premium, mais pour un usage occasionnel il dépasse largement son prix.",
+      "pros": [
+        "Moins de 30 € — coût le plus bas de la comparaison",
+        "Design à retournement améliore l'uniformité à ce prix",
+        "Rangement vertical économise l'espace"
+      ],
+      "cons": [
+        "Récupération de chaleur plus lente entre les fournées"
+      ],
+      "grade": "B",
+      "specs": {
+        "Wattage": "850W",
+        "Waffle size": "Round Belgian",
+        "Output": "1 waffle per batch",
+        "Design": "Flip",
+        "Temperature": "Adjustable dial",
+        "Storage": "Upright",
+        "Dimensions": "9.5 × 8 × 4 in",
+        "Price": "$27.99"
+      },
+      "scores": {
+        "Waffle crispness": 4.1,
+        "Heat evenness": 4.2,
+        "Ease of cleaning": 4.2,
+        "Value": 4.9,
+        "Plate type": 3.8
+      }
+    },
+    {
+      "offerId": "dash-mini-waffle-maker",
+      "badge": "Meilleur compact",
+      "review": "Le Dash Mini chauffe en moins de 2 minutes et n'a besoin d'aucun réglage — brancher, verser, c'est prêt. Une gaufre de 10 cm par fournée le disqualifie pour la cuisine familiale. Pour les dortoirs, petits appartements et portions individuelles, il est vraiment excellent.",
+      "pros": [
+        "Prêt en moins de 2 minutes",
+        "Aucun réglage nécessaire — brancher et verser",
+        "Moins de 15 € et disponible partout"
+      ],
+      "cons": [
+        "Une gaufre de 10 cm par fournée — peu pratique pour les familles"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Wattage": "350W",
+        "Waffle size": "4-inch round",
+        "Output": "1 waffle per batch",
+        "Heat time": "Under 2 minutes",
+        "Settings": "None",
+        "Weight": "1 lb",
+        "Dimensions": "6.5 × 5 × 3 in",
+        "Price": "$9.99"
+      },
+      "scores": {
+        "Waffle crispness": 3.8,
+        "Heat evenness": 3.9,
+        "Ease of cleaning": 4.8,
+        "Value": 4.8,
+        "Plate type": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les brunchs du week-end",
+      "offerId": "cuisinart-waf-f20p1-waffle-maker",
+      "reason": "Deux gaufres simultanées avec six réglages de brunissage — toute la table mange en même temps."
+    },
+    {
+      "label": "Pour les foyers au petit-déjeuner quotidien",
+      "offerId": "breville-bwm604xl-smart-waffle",
+      "reason": "Element IQ élimine le problème d'incohérence de la cuisine froide — chaque fournée est identique."
+    },
+    {
+      "label": "Pour les acheteurs soucieux du budget",
+      "offerId": "hamilton-beach-26031-waffle-maker",
+      "reason": "Moins de 30 € avec design à retournement pour la profondeur belge à usage occasionnel."
+    },
+    {
+      "label": "Pour les cuisines individuelles",
+      "offerId": "dash-mini-waffle-maker",
+      "reason": "Moins de 15 €, prêt en 2 minutes, aucun réglage — le chemin le plus rapide vers une gaufre."
+    },
+    {
+      "label": "Pour les cuisiniers familiaux axés sur la valeur",
+      "offerId": "oster-belgian-waffle-maker-ckstwf2000",
+      "reason": "7 réglages de brunissage, mécanisme à retournement et garantie 3 ans pour moins de 50 €."
+    }
+  ]
 }

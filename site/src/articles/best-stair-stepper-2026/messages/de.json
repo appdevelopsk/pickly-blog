@@ -58,5 +58,184 @@
     "stairmaster-8-series-stepmill": "Kommerzieller Stepmill (Vorgaengergeneration), 7-8 Zoll Stufen, aufgearbeitet erhaeltlich. $1.500-2.500 aufgearbeitet. Bestes Heimstudio-Stepmill-Preis-Leistungs-Verhaeltnis — echte Stepmill-Mechanik guenstiger als Gauntlet bei Kauf aufgearbeitet. Motorstunden vor dem Kauf pruefen."
   },
   "pinDescription": "Treppensteiger 2026: StairMaster Gauntlet vs Bowflex Max Trainer vs Mini-Treppensteiger — Stepmill vs Stepclimber-Mechanik erklaert, Kalorienverbrennung verglichen, StairMaster fuer HIIT nutzen und welcher Treppensteiger sich fuer das Heimstudio lohnt.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "stairmaster-gauntlet-stepmill",
+      "badge": "Bester Allrounder",
+      "review": "Der Gauntlet Stepmill ist die einzige Maschine in diesem Vergleich mit echten rotierenden Treppenmechanismen — 20 cm hohe Stufen, die echte Auf- und Abstiegsbewegungen erfordern und den vollständigsten Hüftstreckungsbogen sowie die höchste Gesäßmuskelaktivierung in der Kategorie erzeugen. Auf Stufe 8–10 von 26 verbrennen die meisten Erwachsenen 400–500 kcal/Stunde. Nachteil: 200 kg und 4.500–6.000 € Preis machen dies zu einem kommerziellen oder Kauf für ein ernsthaftes dediziertes Heimgymnasium; oft ist eine Bodenversteifung erforderlich.",
+      "pros": [
+        "Echte rotierende Treppenmechanismen — volle Hüftstreckung pro Stufe",
+        "26 Widerstandsstufen mit Touchscreen und Bluetooth",
+        "Höchste Gesäßmuskelaktivierung in der Kategorie"
+      ],
+      "cons": [
+        "200 kg, 4.500–6.000 € — kommerzieller Preis und Installationslogistik"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Typ": "Rotierender Stepmill",
+        "Stufenhöhe": "20 cm",
+        "Widerstandsstufen": "26",
+        "Konsole": "Touchscreen + Bluetooth",
+        "Gewicht": "~200 kg",
+        "Standfläche": "Ca. 107 × 86 cm",
+        "Preis": "4.500–6.000 €"
+      },
+      "scores": {
+        "Step resistance": 5.0,
+        "Build quality": 5.0,
+        "Noise": 4.2,
+        "Value": 3.0,
+        "Footprint": 2.5
+      }
+    },
+    {
+      "offerId": "bowflex-max-trainer-m9",
+      "badge": "Bestes vernetztes Heimgerät",
+      "review": "Der Max Trainer M9 ergänzt die Stufenkletterbewegung um bewegliche Griffe und bindet die Zugmuskulatur der Arme ein, was den Kalorienverbrauch pro Einheit im Vergleich zu rein beinbetonten Steppern erhöht. Die JRNY-App bietet Streaming-Inhalte und automatische Widerstandsanpassungen. Mit 20 Widerstandsstufen und einer kompakten Stellfläche ist er der funktionsreichste Heimstepper. Nachteil: Die Pedalbewegung repliziert kein echtes Treppensteigen — der Hüftstreckungsbogen ist kleiner als bei einem rotierenden Stepmill.",
+      "pros": [
+        "Bewegliche Griffe erhöhen den Kalorienverbrauch gegenüber rein beinbetonten Steppern",
+        "JRNY-App mit Streaming-Kursen und automatischer Widerstandsanpassung",
+        "Kompakte Stellfläche für ein vollwertiges vernetztes Gerät"
+      ],
+      "cons": [
+        "Pedalbewegung hat kleineren Hüftstreckungsbogen als echter Stepmill — weniger Gesäßmuskelaktivierung"
+      ],
+      "grade": "A",
+      "specs": {
+        "Typ": "Stufensteiger + bewegliche Arme",
+        "Widerstandsstufen": "20",
+        "Konsole": "Touchscreen",
+        "App": "JRNY (Streaming + auto-Widerstand)",
+        "Gewicht": "Ca. 73 kg",
+        "Preis": "1.999 €",
+        "Abo": "JRNY inklusive"
+      },
+      "scores": {
+        "Step resistance": 4.3,
+        "Build quality": 4.5,
+        "Noise": 4.4,
+        "Value": 4.0,
+        "Footprint": 4.2
+      }
+    },
+    {
+      "offerId": "sunny-health-stair-stepper-mini",
+      "badge": "Bester Budget / Schreibtisch",
+      "review": "Der Mini-Stepper von Sunny Health mit 10–15 cm Stufenhöhe und hydraulischem Widerstand ist geeignet für leichte tägliche Bewegung, Schreibtischnutzung oder frühe Rehabilitation — nicht für ernsthaftes kardiovaskuläres Training. Für 30–60 € ist er ein unverbindlicher Einstiegspunkt für alle, die ihrem Bürojob Bewegung hinzufügen möchten. Nachteil: Begrenzter Widerstandsbereich und kurze Stufenhöhe erzeugen unzureichende Kalorienverbrennung für Kardio-Fitnessziele.",
+      "pros": [
+        "Kleinste Stellfläche — passt unter einen Schreibtisch für leichtes Treten bei der Arbeit",
+        "Hydraulischer Widerstand — kein Strom oder Einrichtung erforderlich",
+        "Unter 60 € für unverbindliche Bewegungsergänzung"
+      ],
+      "cons": [
+        "10–15 cm Stufenhöhe zu klein für bedeutende Gesäßmuskelaktivierung oder Kardio-Output"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Typ": "Mini-Pedalstepper",
+        "Stufenhöhe": "10–15 cm",
+        "Widerstand": "Hydraulisch (einstellbar)",
+        "Konsole": "Einfaches LCD",
+        "Gewicht": "Ca. 8 kg",
+        "Stellfläche": "Sehr kompakt",
+        "Preis": "30–60 €"
+      },
+      "scores": {
+        "Step resistance": 3.2,
+        "Build quality": 3.5,
+        "Noise": 4.8,
+        "Value": 4.9,
+        "Footprint": 5.0
+      }
+    },
+    {
+      "offerId": "nustep-t4r-recumbent-stepper",
+      "badge": "Bester für Gelenkschonung",
+      "review": "Die liegende Sitzposition des NuStep T4r eliminiert die stehende Stoßbelastung, die das Treppensteigen für Nutzer mit Knie- oder Hüftproblemen schwierig macht — Sie erhalten volles Ober- und Unterkörper-Kardiotraining im Sitzen. Der Widerstand skaliert von nahezu null nach oben, was ihn für postoperative Rehabilitation und Senioren geeignet macht. Nachteil: Das Sitzdesign begrenzt die maximale Kardiovaskuläre Intensität im Vergleich zu stehenden Stepmills.",
+      "pros": [
+        "Sitzposition eliminiert stehende Belastung für gelenkbegrenzte Nutzer",
+        "Volles Ober- und Unterkörpertraining im Sitzen",
+        "Nahezu null Widerstand als Start für Rehabilitationskontexte"
+      ],
+      "cons": [
+        "Sitzdesign begrenzt maximale kardiovaskuläre Intensität für gesunde Sportler"
+      ],
+      "grade": "B",
+      "specs": {
+        "Typ": "Liegender Crosstrainer",
+        "Position": "Sitzend",
+        "Widerstandsbereich": "Nahezu null bis hoch",
+        "Einsatz": "Ganzkörper Ober- + Unterkörper",
+        "Häufiger Einsatz": "Rehabilitation, Senioren",
+        "Preis": "2.995 €",
+        "Gewichtskapazität": "136+ kg"
+      },
+      "scores": {
+        "Step resistance": 4.0,
+        "Build quality": 4.7,
+        "Noise": 4.6,
+        "Value": 3.6,
+        "Footprint": 3.2
+      }
+    },
+    {
+      "offerId": "stairmaster-8-series-stepmill",
+      "badge": "Bester Gebrauchtmarktwert",
+      "review": "Die 8-Series teilt dieselben rotierenden Stepmill-Mechanismen wie der Gauntlet mit 18–20 cm Stufenhöhe, ist aber als Vorgängergeneration für 1.500–2.500 € generalüberholt erhältlich — die Hälfte bis ein Drittel des Gauntlet-Preises. Gewerbliche Maschinen in Heimgymumgebungen halten 10–15 Jahre. Nachteil: Kauf erfordert den Umgang mit Fitnessgerätehändlern, Überprüfung der Motorstunden vor dem Kauf (unter 5.000 Stunden bevorzugt) und die Verwaltung der Lieferung eines 150+ kg schweren Geräts.",
+      "pros": [
+        "Echte rotierende Stepmill-Mechanismen zum Gebrauchtmarktpreis (1.500–2.500 €)",
+        "Gewerbliche Langlebigkeit — 10–15 Jahre im Heimbereich",
+        "18–20 cm Stufen identisch in der Mechanik mit dem aktuellen Gauntlet"
+      ],
+      "cons": [
+        "Erfordert Händlerbeschaffung, Motorstundenprüfung und schwere Lieferlogistik"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Typ": "Rotierender Stepmill (gewerblich, Vorgeneration)",
+        "Stufenhöhe": "18–20 cm",
+        "Widerstandsstufen": "Mehrere",
+        "Verfügbarkeit": "Generalüberholt über Händler",
+        "Preis": "1.500–2.500 € (generalüberholt)",
+        "Motorstunden": "Unter 5.000 bevorzugt",
+        "Langlebigkeit": "10–15 Jahre Heimnutzung"
+      },
+      "scores": {
+        "Step resistance": 4.8,
+        "Build quality": 4.9,
+        "Noise": 4.0,
+        "Value": 4.4,
+        "Footprint": 2.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Gewerbenutzer, die zu Hause replizieren möchten",
+      "offerId": "stairmaster-gauntlet-stepmill",
+      "reason": "Wenn Sie in kommerziellen Gyms auf StairMastern trainiert haben und dieselbe Erfahrung zu Hause wünschen, ist der Gauntlet die einzige Option — keine andere Maschine repliziert die Gesäßmuskelmechanik rotierender Treppen."
+    },
+    {
+      "label": "Für vernetzte Heimgym-Sportler",
+      "offerId": "bowflex-max-trainer-m9",
+      "reason": "JRNY-Streaming-Kurse, bewegliche Griffe für Oberkörper-Kalorienverbrennung und eine kompakte Stellfläche bieten das beste vernetzte Steperlebnis in einem Wohnraum."
+    },
+    {
+      "label": "Für Büroangestellte, die tägliche Bewegung hinzufügen möchten",
+      "offerId": "sunny-health-stair-stepper-mini",
+      "reason": "Der Mini-Stepper schiebt sich unter einen Schreibtisch, benötigt keinen Strom und fügt an einem sitzenden Arbeitstag bedeutende leichte Bewegung zu vernachlässigbaren Kosten hinzu."
+    },
+    {
+      "label": "Für Nutzer mit Knie- oder Hüftproblemen",
+      "offerId": "nustep-t4r-recumbent-stepper",
+      "reason": "Das liegende Sitzdesign bietet volles kardiovaskuläres Training mit nahezu null Stoßbelastung — die einzige Option in diesem Vergleich für postoperative Rehabilitation oder schwere Gelenkbeschränkungen."
+    },
+    {
+      "label": "Für Heimgym-Aufbauer mit Budget",
+      "offerId": "stairmaster-8-series-stepmill",
+      "reason": "Echte rotierende Stepmill-Mechanismen für 1.500–2.500 € generalüberholt ist der kostengünstigste Weg zu gewerblichem Treppensteigen in einem dedizierten Heimgymraum."
+    }
+  ]
 }

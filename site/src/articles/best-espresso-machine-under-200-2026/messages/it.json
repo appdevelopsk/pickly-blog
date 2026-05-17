@@ -53,5 +53,186 @@
     "hamilton-beach-40792-espresso": "Circa $50. La macchina per espresso a pompa meno costosa in questo confronto. Pompa a 15 bar, riscaldamento in 60 secondi, accetta caffe macinato e cialde ESE, cappuccinatore a tubo semplice. Qualita costruttiva piu leggera; riscaldamento piu lungo; il cappuccinatore richiede la maggior tecnica per essere usato bene."
   },
   "pinDescription": "Cinque macchine da espresso sotto i $200 confrontate nel 2026: De'Longhi EC155M, Breville Bambino, Nespresso Essenza Mini, Mr. Coffee ECMP50 e Hamilton Beach 40792. Pressione della pompa spiegata, schiumatura del latte confrontata e quale macchina vale davvero la pena acquistare per una cucina domestica. #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni macchina è stata valutata per la qualità dello shot di espresso (consistenza della pressione, crema, uniformità di estrazione), il tempo di riscaldamento, la capacità di schiumatura del latte, la qualità costruttiva e il costo totale di proprietà inclusi i materiali di consumo.",
+  "products": [
+    {
+      "offerId": "breville-bambino-bes450",
+      "badge": "Migliore in assoluto",
+      "review": "Il sistema di riscaldamento ThermoJet della Bambino raggiunge 93°C in 3 secondi — nessun'altra macchina sotto i $200 si avvicina in velocità di riscaldamento. Il portafiltro da 54 mm e il cestello non pressurizzato incluso offrono un percorso reale verso l'espresso di qualità man mano che la tecnica migliora. Il compromesso è il prezzo: a $170 è la più costosa di questo confronto.",
+      "pros": [
+        "Riscaldamento ThermoJet in 3 secondi, il più veloce della categoria",
+        "Portafiltro da 54 mm diametro commerciale",
+        "Cestelli pressurizzato e non pressurizzato inclusi"
+      ],
+      "cons": [
+        "$170 è vicino al limite superiore del segmento sotto i $200"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Prezzo": "~$170",
+        "Pompa": "15 bar",
+        "Riscaldamento": "3 sec",
+        "Portafiltro": "54 mm",
+        "Caldaia": "ThermoJet",
+        "Vapore": "Manuale",
+        "Peso": "4,5 kg"
+      },
+      "scores": {
+        "Espresso quality": 4.7,
+        "Ease of use": 4.2,
+        "Build quality": 4.6,
+        "Value": 4.0,
+        "Steam power": 4.3
+      }
+    },
+    {
+      "offerId": "delonghi-ec155m-espresso",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "review": "A ~$80 l'EC155M produce vero espresso con flessibilità per cialde ESE e caffè macinato. Il beccuccio Pannarello inietta aria automaticamente, rendendo la schiuma molto più accessibile per i principianti. Il limite di qualità è limitato dal cestello pressurizzato e dalla deriva della temperatura del thermoblock nelle sessioni multi-shot.",
+      "pros": [
+        "Accetta cialde ESE e caffè macinato",
+        "Il beccuccio Pannarello rende la schiuma accessibile ai principianti",
+        "Ottimo rapporto qualità-prezzo a ~$80"
+      ],
+      "cons": [
+        "Il cestello pressurizzato limita il tetto di qualità per gli utenti avanzati"
+      ],
+      "grade": "A",
+      "specs": {
+        "Prezzo": "~$80",
+        "Pompa": "15 bar",
+        "Riscaldamento": "45 sec",
+        "Portafiltro": "51 mm",
+        "Caldaia": "Thermoblock",
+        "Vapore": "Pannarello",
+        "Peso": "2,5 kg"
+      },
+      "scores": {
+        "Espresso quality": 3.9,
+        "Ease of use": 4.4,
+        "Build quality": 3.8,
+        "Value": 4.7,
+        "Steam power": 3.6
+      }
+    },
+    {
+      "offerId": "nespresso-essenza-mini-d30",
+      "badge": "Migliore per la comodità",
+      "review": "L'Essenza Mini elimina ogni variabile: 8 cm di larghezza, riscaldamento in 25 secondi e crema costante ad ogni capsula OriginalLine. Il compromesso è il lock-in sulle capsule a $0,70–1,00 l'una e nessun beccuccio vapore — il montalatte Aeroccino è un acquisto separato da $50.",
+      "pros": [
+        "Larghezza 8 cm — si adatta ovunque",
+        "Pompa 19 bar con crema costante ad ogni estrazione",
+        "Nessuna competenza richiesta"
+      ],
+      "cons": [
+        "Nessun beccuccio vapore integrato",
+        "Capsule proprietarie a $0,70–1,00 l'una"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Prezzo": "~$100",
+        "Pompa": "19 bar",
+        "Riscaldamento": "25 sec",
+        "Formato": "Capsula OriginalLine",
+        "Larghezza": "8 cm",
+        "Vapore": "Nessuno",
+        "Peso": "2,2 kg"
+      },
+      "scores": {
+        "Espresso quality": 3.8,
+        "Ease of use": 4.9,
+        "Build quality": 3.7,
+        "Value": 3.5,
+        "Steam power": 1.0
+      }
+    },
+    {
+      "offerId": "mr-coffee-ecmp50-espresso",
+      "badge": "Migliore per le bevande al latte",
+      "review": "L'ECMP50 è l'unica macchina qui con un montalatte automatico integrato a un pulsante — latte e cappuccino senza tecnica del vapore. Riscaldamento in 40–45 secondi, il cestello pressurizzato gestisce bene il caffè pre-macinato. Non è la via verso l'espresso avanzato, ma imbattibile per le bevande al latte senza sforzo a ~$85.",
+      "pros": [
+        "Montalatte automatico integrato — nessuna tecnica del vapore necessaria",
+        "Doppia uscita: beccuccio vapore dedicato più montalatte automatico",
+        "Prezzo di ~$85"
+      ],
+      "cons": [
+        "Il cestello pressurizzato limita il tetto di qualità dell'espresso"
+      ],
+      "grade": "B",
+      "specs": {
+        "Prezzo": "~$85",
+        "Pompa": "15 bar",
+        "Riscaldamento": "40–45 sec",
+        "Montalatte": "Automatico integrato",
+        "Vapore": "Sì",
+        "Portafiltro": "Pressurizzato",
+        "Peso": "2,8 kg"
+      },
+      "scores": {
+        "Espresso quality": 3.5,
+        "Ease of use": 4.6,
+        "Build quality": 3.6,
+        "Value": 4.3,
+        "Steam power": 4.0
+      }
+    },
+    {
+      "offerId": "hamilton-beach-40792-espresso",
+      "badge": "Migliore economica",
+      "review": "A ~$50 la 40792 è la macchina espresso a pompa meno costosa di questo confronto — non a vapore, una vera pompa da 15 bar. Il riscaldamento richiede 60 secondi e il beccuccio a tubo semplice richiede più tecnica, ma produce espresso riconoscibile e il rischio finanziario per un primo acquisto è minimo.",
+      "pros": [
+        "~$50 macchina espresso a pompa meno costosa",
+        "Accetta caffè macinato e cialde ESE",
+        "Rischio finanziario minimo per il primo acquisto"
+      ],
+      "cons": [
+        "60 secondi di riscaldamento — il più lungo di questo confronto",
+        "Il beccuccio a tubo semplice richiede più tecnica"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Prezzo": "~$50",
+        "Pompa": "15 bar",
+        "Riscaldamento": "60 sec",
+        "Portafiltro": "Pressurizzato",
+        "Vapore": "Tubo semplice",
+        "Peso": "2,0 kg",
+        "Compatibile cialde": "Cialde ESE"
+      },
+      "scores": {
+        "Espresso quality": 3.2,
+        "Ease of use": 3.8,
+        "Build quality": 3.0,
+        "Value": 4.8,
+        "Steam power": 2.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per barista casalinghi in erba",
+      "offerId": "breville-bambino-bes450",
+      "reason": "Riscaldamento ThermoJet e diametro commerciale del portafiltro offrono vero spazio di crescita"
+    },
+    {
+      "label": "Per il miglior rapporto qualità-prezzo a ~$80",
+      "offerId": "delonghi-ec155m-espresso",
+      "reason": "Flessibilità cialde ESE + caffè macinato con beccuccio accessibile ai principianti"
+    },
+    {
+      "label": "Per la comodità delle capsule",
+      "offerId": "nespresso-essenza-mini-d30",
+      "reason": "Zero variabili, ingombro ridotto, crema costante — nessuna tecnica richiesta"
+    },
+    {
+      "label": "Per le bevande al latte facili",
+      "offerId": "mr-coffee-ecmp50-espresso",
+      "reason": "Il montalatte automatico integrato produce latte senza tecnica del vapore"
+    },
+    {
+      "label": "Per i principianti assoluti con budget limitato",
+      "offerId": "hamilton-beach-40792-espresso",
+      "reason": "Macchina espresso a pompa meno costosa con rischio finanziario minimo"
+    }
+  ]
 }

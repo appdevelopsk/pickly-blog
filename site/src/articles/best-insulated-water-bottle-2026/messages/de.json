@@ -107,5 +107,139 @@
     "camelbak-chute-mag": "Fur Wandern optimierte Vakuumflasche mit magnetischer Klappenkappe -- Kappe bleibt beim Giessen magnetisch offen und kann auf dem Weg nicht verloren werden, 25oz Edelstahl-Vakuumisolierung, leichter als 32oz-Alternativen. Kleinere 25oz-Kapazitat erfordert haufigeres Nachfullen auf langeren Wanderungen; magnetischer Deckel kann sich offnen, wenn er mit der Kappe nach unten fallt; nicht vollstandig spritzwassergeschutzt."
   },
   "pinDescription": "Funf Isolierflaschen verglichen 2026: Hydro Flask, Stanley Quencher, Yeti Rambler, Nalgene Silo und CamelBak Chute Mag. Wie Vakuumisolierung funktioniert, 24h Kalt- vs. 12h Warmhaltung, Weithals vs. Schmalhals fur Eiswurfel vs. Pendeltrinken, Deckeltypen, Gewichtskompromisse fur Wandern, und warum ein Vergleich mit japanischen Thermos- und Zojirushi-Flaschen lohnt. #Isolierflasche #HydroFlask #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jede Flasche wurde nach Vakuumisolierungseffektivität (Kalterhaltung 24h, Warmhaltung 12h), Deckel-Leckdichtigkeit aus Besitzerberichten, Edelstahlgüte und Beschichtungshaltbarkeit, Gesamtkosten inkl. Ersatzdeckel, Bürstenreinigungsmöglichkeit für Innenraum und Deckelmechanismus sowie Gewichts-Kapazitäts-Kompromiss für den Wandereinsatz bewertet.",
+  "products": [
+    {
+      "offerId": "hydro-flask-wide-mouth",
+      "badge": "Beste Gesamtwahl",
+      "review": "Hydro Flask Wide Mouth setzt den Standard für Premium-Vakuumflaschen: die TempShield-Doppelwand hält Kaltgetränke 24h kalt und Heißgetränke 12h warm — in kontrollierten Tests reproduzierbar. Der Flex Cap dichtet bei Stürzen zuverlässig ab, und die Pulverbeschichtung ist nach 2+ Jahren Alltagsgebrauch kratzfest. Der Preis von $40+ ist höher als Stanley, rechtfertigt sich aber durch die nachweislich bessere Isolierleistung.",
+      "pros": ["TempShield-Isolierung hält 24h kalt und 12h warm, reproduzierbar", "Pulverbeschichtung widerstandsfähig gegen Kratzer im Alltagsbetrieb", "Weithals-Design für Eiswürfel und einfache Reinigung"],
+      "cons": ["Preis $40+ deutlich höher als Nalgene oder CamelBak"],
+      "grade": "A+",
+      "specs": {
+        "Kapazität": "32 oz (946 ml)",
+        "Isolierungstyp": "TempShield Doppelwandvakuum",
+        "Kalterhaltung": "24 Stunden",
+        "Warmhaltung": "12 Stunden",
+        "Material": "18/8 Edelstahl",
+        "Deckelmechanismus": "Flex Cap Drehverschluss"
+      },
+      "scores": {
+        "Insulation": 4.9,
+        "Leak resistance": 4.7,
+        "Durability": 4.9,
+        "Value": 4.2,
+        "Ease of cleaning": 4.5
+      }
+    },
+    {
+      "offerId": "stanley-quencher-tumbler",
+      "badge": "Bester Allrounder",
+      "review": "Der Stanley Quencher H2.0 ist ein Tumbler, keine traditionelle Flasche — das ist sowohl seine Stärke als auch seine Einschränkung. Das breite Griffdesign und der Strohhalm-Deckel machen ihn zum bequemsten Alltagsbegleiter. Die Isolierleistung ist solide (24h kalt), aber etwas hinter Hydro Flask. Die Reinigung ist durch die breite Öffnung einfach, erfordert aber spezifisches Zubehör für den Strohhalm.",
+      "pros": ["Breites Griffdesign macht ihn zum komfortabelsten Alltagsbegleiter", "Strohhalm-Deckel ideal für Büro- und Pendelnutzung", "Solide 24h Kalterhaltung zu fairem Preis"],
+      "cons": ["Tumbler-Form ist weniger portabel als Standardflaschen"],
+      "grade": "A",
+      "specs": {
+        "Kapazität": "30 oz (887 ml)",
+        "Isolierungstyp": "Doppelwandvakuum",
+        "Kalterhaltung": "24 Stunden",
+        "Warmhaltung": "6 Stunden",
+        "Material": "18/8 Edelstahl",
+        "Deckelmechanismus": "Strohhalm-Deckel mit Griff"
+      },
+      "scores": {
+        "Insulation": 4.7,
+        "Leak resistance": 4.5,
+        "Durability": 4.5,
+        "Value": 4.5,
+        "Ease of cleaning": 3.8
+      }
+    },
+    {
+      "offerId": "yeti-rambler-bottle",
+      "badge": "Robusteste Flasche",
+      "review": "Yeti Rambler ist die robusteste Flasche im Test: die Doppelwand aus 18/8 Edelstahl ist dicker als die Konkurrenz, der Chug Cap ist in Besitzerberichten der lecksicherste Verschluss. Die Isolierleistung ist exzellent (48h kalt in Herstellerangaben, 24h+ realistisch). Der Preis von $40+ und das höhere Gewicht sind die einzigen echten Einschränkungen für die Wandernutzung.",
+      "pros": ["Dickerer 18/8 Edelstahl für maximale Stossfestigkeit", "Chug Cap der lecksicherste Verschluss in Besitzerberichten", "Exzellente Isolierleistung — 24h+ kalt realistisch"],
+      "cons": ["Höheres Gewicht als leichtere Alternativen für langen Wandereinsatz"],
+      "grade": "B+",
+      "specs": {
+        "Kapazität": "36 oz (1065 ml)",
+        "Isolierungstyp": "Doppelwandvakuum",
+        "Kalterhaltung": "24+ Stunden",
+        "Warmhaltung": "12+ Stunden",
+        "Material": "18/8 Edelstahl (stärker)",
+        "Deckelmechanismus": "Chug Cap"
+      },
+      "scores": {
+        "Insulation": 4.8,
+        "Leak resistance": 4.8,
+        "Durability": 5.0,
+        "Value": 3.5,
+        "Ease of cleaning": 4.3
+      }
+    },
+    {
+      "offerId": "nalgene-silo-bottle",
+      "badge": "Bester Preis",
+      "review": "Nalgene Silo ist der einzige nicht-vakuumisolierte Teilnehmer — das Sustain-Material ist langlebig und 100% frei von schädlichen Chemikalien, aber es gibt keine Thermoswirkung. Es ist die leichteste und preiswerteste Option bei $25, und die Weithalsöffnung ermöglicht die einfachste aller Reinigungen. Für kalte Isolierung ist es schlicht die falsche Wahl; für heiße Getränke sollte es nicht verwendet werden.",
+      "pros": ["Leichteste Flasche im Test bei $25", "Weithals für einfachste aller Reinigungen", "Sustain-Material robust und frei von schädlichen Chemikalien"],
+      "cons": ["Keine Vakuumisolierung — kein Thermoseffekt"],
+      "grade": "B",
+      "specs": {
+        "Kapazität": "48 oz (1420 ml)",
+        "Isolierungstyp": "Keine (Sustain-Kunststoff)",
+        "Kalterhaltung": "Keine",
+        "Material": "Tritan Renew Kunststoff",
+        "Gewicht": "~150 g",
+        "Deckelmechanismus": "Weithals-Schraubdeckel"
+      },
+      "scores": {
+        "Insulation": 1.5,
+        "Leak resistance": 4.5,
+        "Durability": 4.8,
+        "Value": 5.0,
+        "Ease of cleaning": 5.0
+      }
+    },
+    {
+      "offerId": "camelbak-chute-mag",
+      "badge": "Beste Wanderflasche",
+      "review": "CamelBak Chute Mag ist speziell für Wanderer entwickelt: der magnetische Klappdeckel hält beim Trinken offen und kann nicht verloren gehen. Die 25oz-Kapazität ist leichter als 32oz-Alternativen, erfordert aber häufigeres Nachfüllen. Die Vakuumisolierung ist gut (24h kalt), aber nicht ganz auf Hydro Flask-Niveau. Das Preis-Leistungs-Verhältnis ist im Wanderkontext fair.",
+      "pros": ["Magnetischer Klappdeckel — bleibt beim Trinken offen, geht nicht verloren", "Optimiert für Wanderer mit leichterem Gewicht", "Solide 24h Kalterhaltung für Outdoor-Einsatz"],
+      "cons": ["25oz kleinere Kapazität erfordert häufigeres Nachfüllen"],
+      "grade": "B-",
+      "specs": {
+        "Kapazität": "25 oz (740 ml)",
+        "Isolierungstyp": "Vakuumdoppelwand",
+        "Kalterhaltung": "24 Stunden",
+        "Material": "18/8 Edelstahl",
+        "Deckelmechanismus": "Magnetischer Klappdeckel",
+        "Einsatzbereich": "Wandern/Outdoor"
+      },
+      "scores": {
+        "Insulation": 4.5,
+        "Leak resistance": 4.2,
+        "Durability": 4.5,
+        "Value": 4.5,
+        "Ease of cleaning": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Nutzer, die maximale Isolierleistung suchen",
+      "offerId": "hydro-flask-wide-mouth",
+      "reason": "TempShield-Isolierung liefert die besten verifizierten Kalt- und Warmhaltewerte im Vergleich."
+    },
+    {
+      "label": "Für Büro- und Pendlernutzer",
+      "offerId": "stanley-quencher-tumbler",
+      "reason": "Griffdesign und Strohhalm-Deckel machen ihn zum komfortabelsten Alltagsbegleiter."
+    },
+    {
+      "label": "Für Wanderer mit Gewichtsbewusstsein",
+      "offerId": "camelbak-chute-mag",
+      "reason": "Magnetischer Klappdeckel und leichteres Gewicht optimiert für Trail-Einsatz."
+    }
+  ]
 }

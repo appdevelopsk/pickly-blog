@@ -66,5 +66,64 @@
     "jumpsport-550f-fitness-trampoline": "48-inch indoor fitness rebounder, bungee-cord suspension (softer/quieter than springs), fold-flat legs, 250 lb capacity. Designed for adult aerobic fitness — low-impact cardiovascular training at home. Not for outdoor or children's play use."
   },
   "pinDescription": "Trampoline comparison 2026: Springfree springless vs Skywalker 15ft vs Zupapa vs JumpSport fitness rebounder — which trampoline is actually safe and worth the money? Spring vs springless design, safety features, and durability compared.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each trampoline was evaluated on safety enclosure design and spring-gap injury risk elimination, bounce consistency across the full mat surface, frame material durability against outdoor weather exposure, realistic weight limits for family use, and long-term owner reports on assembly difficulty and component replacement.",
+  "products": [
+    {
+      "offerId": "springfree-trampoline-medium-oval",
+      "badge": "Best Overall",
+      "review": "Springfree's flexible composite rods sit 30 cm below the mat surface — there are no exposed spring gaps and no frame within the jump zone, eliminating the two most common contact injury mechanisms. At $1,500–2,500 it is the most expensive option here, but independent safety testing consistently ranks it as the lowest-injury-incidence design in the consumer market.",
+      "pros": ["Springless rod design eliminates spring-gap contact injuries entirely", "Below-mat frame removes edge contact risk from the jump zone", "UV-resistant rods rated for 200 kg dynamic load over years of outdoor use"],
+      "cons": ["$1,500–2,500 is 3–5× more expensive than quality spring alternatives"],
+      "grade": "A+",
+      "specs": {"Size": "3.4 m × 2.5 m oval", "Spring system": "Springless composite rods (30 cm below mat)", "Dynamic load": "200 kg", "Frame position": "Outside jump zone", "Price": "~$1,500–2,500", "Enclosure": "Net attaches to mat (no gap)"},
+      "scores": {"Bounce quality": 4.5, "Safety enclosure": 5.0, "Build quality": 5.0, "Value": 3.0, "Weight limit": 4.5}
+    },
+    {
+      "offerId": "skywalker-15ft-round-trampoline",
+      "badge": "Best for Most Families",
+      "review": "The Skywalker 15ft is the category standard for quality spring trampolines at an accessible price — 96 springs for consistent bounce across the mat, and an enclosure net attached to the same poles as the padding to eliminate the net-mat gap. At $300–500 it is the right first trampoline for most suburban families who want quality without the Springfree premium.",
+      "pros": ["96 springs distribute load evenly for consistent bounce across the full mat", "Enclosure net and padding share the same poles — eliminates net-mat gap", "15 ft accommodates multiple jumpers and adult use comfortably"],
+      "cons": ["Standard spring system carries spring-gap contact risk compared to Springfree", "Metal frame requires regular inspection for rust in wet or coastal climates"],
+      "grade": "A",
+      "specs": {"Size": "15 ft round", "Spring count": "96 springs", "Weight limit": "200 lb per jumper", "Enclosure": "Net attached to same poles as padding", "Price": "~$300–500", "Frame": "Steel (powder-coated)"},
+      "scores": {"Bounce quality": 4.3, "Safety enclosure": 4.2, "Build quality": 4.0, "Value": 4.8, "Weight limit": 4.0}
+    },
+    {
+      "offerId": "zupapa-15ft-trampoline",
+      "badge": "Best for Harsh Climates",
+      "review": "The Zupapa 15ft distinguishes itself with a galvanized steel frame — rust-resistant even after surface scratching, which matters for trampolines left outdoors through rain, coastal humidity, or freeze-thaw cycles. The 108-spring count (12 more than the Skywalker) produces more consistent bounce across the edges, a real improvement for experienced jumpers who notice landing position.",
+      "pros": ["Galvanized steel frame resists rust even after surface scratches — outlasts powder-coated frames outdoors", "108 springs produce more consistent bounce at the mat edges than lower-count models", "Thicker spring padding than standard competitors"],
+      "cons": ["$400–600 costs more than the Skywalker without a safety-design advantage over Springfree"],
+      "grade": "B+",
+      "specs": {"Size": "15 ft round", "Spring count": "108 springs", "Weight limit": "~330 lb total", "Frame": "Galvanized steel (rust-resistant)", "Price": "~$400–600", "Enclosure": "Safety enclosure net included"},
+      "scores": {"Bounce quality": 4.5, "Safety enclosure": 4.2, "Build quality": 4.8, "Value": 4.2, "Weight limit": 4.2}
+    },
+    {
+      "offerId": "jumpking-14ft-trampoline",
+      "badge": "Best for Smaller Yards",
+      "review": "The Jumpking 14ft delivers a complete family trampoline — safety enclosure, spring padding, and a 14 ft jumping area — at $250–400 for yards where a 15 ft round trampoline doesn't fit the available clearance. The spring system and padding quality are standard rather than exceptional, and it does not meaningfully differentiate from the Skywalker at larger sizes.",
+      "pros": ["14 ft size fits smaller yards that lack clearance for a 15 ft round", "Safety enclosure net and padded spring cover included at entry price", "Adequate bounce and weight capacity for typical family sessions"],
+      "cons": ["No meaningful advantage over the 15 ft Skywalker except smaller footprint", "Standard spring padding and frame quality — not optimized for harsh weather"],
+      "grade": "B",
+      "specs": {"Size": "14 ft round", "Spring system": "Standard steel springs", "Weight limit": "~250 lb total", "Frame": "Steel (powder-coated)", "Price": "~$250–400", "Enclosure": "Safety enclosure net included"},
+      "scores": {"Bounce quality": 3.8, "Safety enclosure": 4.0, "Build quality": 3.8, "Value": 4.5, "Weight limit": 3.8}
+    },
+    {
+      "offerId": "jumpsport-550f-fitness-trampoline",
+      "badge": "Best Indoor Fitness",
+      "review": "The JumpSport 550f is a different category: a 48-inch bungee-cord indoor rebounder for adult cardiovascular conditioning, not a backyard family trampoline. The bungee suspension is quieter and more joint-friendly than steel springs, exerting roughly 70% of running's knee and hip ground-reaction force — a legitimate alternative to treadmill training for users with joint issues.",
+      "pros": ["Bungee-cord suspension is quieter and more joint-friendly than steel springs", "Fold-flat legs allow compact storage between sessions", "Designed for adult aerobic fitness — reduces knee and hip impact vs running"],
+      "cons": ["48-inch indoor rebounder — not suitable for outdoor use or children's play", "250 lb adult-only weight limit; not designed for family trampoline sessions"],
+      "grade": "B-",
+      "specs": {"Size": "48 inches (122 cm) round", "Suspension": "Bungee-cord bands", "Weight capacity": "250 lb (113 kg)", "Legs": "Fold-flat for storage", "Price": "~$300–400", "Target use": "Adult indoor aerobic fitness"},
+      "scores": {"Bounce quality": 4.0, "Safety enclosure": 3.0, "Build quality": 4.2, "Value": 4.0, "Weight limit": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For families prioritizing safety above all", "offerId": "springfree-trampoline-medium-oval", "reason": "No spring gaps and no frame within the jump zone — the lowest-injury-incidence trampoline design available for home use."},
+    {"label": "For most suburban families", "offerId": "skywalker-15ft-round-trampoline", "reason": "96 springs, integrated enclosure, and a quality price point make it the right first trampoline for families who want value without compromising on safety features."},
+    {"label": "For wet or coastal climates", "offerId": "zupapa-15ft-trampoline", "reason": "Galvanized steel frame resists rust even after surface scratching — the right long-term investment for trampolines exposed to rain, sea air, or freeze-thaw cycles."},
+    {"label": "For smaller yards or tight budgets", "offerId": "jumpking-14ft-trampoline", "reason": "14 ft footprint fits yards where a 15 ft circle can't clear the required 8 ft perimeter buffer, at a price that suits tighter budgets."},
+    {"label": "For adults doing low-impact cardio indoors", "offerId": "jumpsport-550f-fitness-trampoline", "reason": "Bungee suspension and fold-flat design make it the only pick here built specifically for adult aerobic conditioning with joint protection."}
+  ]
 }

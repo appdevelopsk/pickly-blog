@@ -58,5 +58,154 @@
     "wilson-blade-98-v8": "98 pol², 304g, aro 21.5mm, 16x19. $220-250. Melhor raquete de controle acessível -- menos exigente que a Pro Staff, associação com Swiatek. Correta para jogadores de clube que querem precisão estilo Pro Staff com mais tolerância."
   },
   "pinDescription": "Raquete de tênis 2026: Wilson Pro Staff vs Babolat Pure Aero vs Head Speed vs Yonex EZONE -- tamanho de cabeça, peso, padrão de cordas explicados, o que as especificações realmente significam, por que raquetes pro são erradas para iniciantes, e melhor raquete de tênis para jogadores recreativos 2026. #raqueteTenis #tenis #esportes #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada raquete foi avaliada com base nas especificações publicadas do aro (tamanho de cabeça, peso encordado, largura do aro, padrão de cordas) cruzadas com características de jogo documentadas, associação a jogadores profissionais e adequação realista para jogadores recreativos até avançados de clube — com notas explícitas sobre exigências de nível e erros de compra comuns.",
+  "products": [
+    {
+      "offerId": "wilson-pro-staff-97-v14",
+      "badge": "Melhor controle",
+      "review": "A Pro Staff 97 v14 oferece precisão de colocação excepcional para jogadores intermediários-avançados com técnica consistente. O ponto doce pequeno e o baixo nível de potência exigem um swing completo — golpes fora do centro raramente chegam a um lugar útil.",
+      "pros": ["Feedback de controle incomparável", "Aro icônico com associação a Federer", "Otimizada para jogo de controle preciso"],
+      "cons": ["Exigente demais para iniciantes e intermediários"],
+      "grade": "A+",
+      "specs": {
+        "Tamanho de cabeça": "97 pol²",
+        "Peso (encordada)": "315g",
+        "Largura do aro": "21/21.5/21mm",
+        "Padrão de cordas": "16×19",
+        "Equilíbrio": "Cabeça leve",
+        "Jogadores recomendados": "Intermediários-avançados",
+        "Faixa de preço": "$230–260 (sem encordamento)"
+      },
+      "scores": {
+        "Power": 62,
+        "Control": 98,
+        "Swing weight": 88,
+        "Value": 72,
+        "Vibration dampening": 60
+      }
+    },
+    {
+      "offerId": "babolat-pure-aero-2023",
+      "badge": "Melhor topspin",
+      "review": "A Pure Aero 2023 é a raquete carro-chefe de efeito de Nadal com aro aerodinâmico e padrão 16×19 para potencial de spin extremo. Otimizada para jogadores de fundo que querem balançar rápido e gerar muito topspin.",
+      "pros": ["Potencial de topspin extremo", "Aro comprovado com associação a Nadal", "Otimizada para estilo de jogo orientado ao efeito"],
+      "cons": ["Inadequada para jogadores flat ou orientados à precisão"],
+      "grade": "A",
+      "specs": {
+        "Tamanho de cabeça": "100 pol²",
+        "Peso (sem encordamento)": "300g",
+        "Largura do aro": "23–26mm (aerodinâmico)",
+        "Padrão de cordas": "16×19",
+        "Equilíbrio": "Cabeça leve",
+        "Jogadores recomendados": "Jogadores de fundo (empunhadura semi-ocidental ou ocidental)",
+        "Faixa de preço": "$240–270 (sem encordamento)"
+      },
+      "scores": {
+        "Power": 82,
+        "Control": 75,
+        "Swing weight": 72,
+        "Value": 74,
+        "Vibration dampening": 68
+      }
+    },
+    {
+      "offerId": "head-speed-mp",
+      "badge": "Melhor polivalência",
+      "review": "A Speed MP é a raquete polivalente de Djokovic com equilíbrio entre potência e controle. A cabeça de 100 pol² e o aro de 23mm permitem um jogo versátil sem especialização clara em nenhuma direção.",
+      "pros": ["Excelente equilíbrio entre potência e controle", "Versatilidade com associação a Djokovic", "Adequada para muitos estilos de jogo"],
+      "cons": ["Menos caráter distinto do que raquetes especializadas"],
+      "grade": "B+",
+      "specs": {
+        "Tamanho de cabeça": "100 pol²",
+        "Peso (sem encordamento)": "300g",
+        "Largura do aro": "23mm",
+        "Padrão de cordas": "16×19",
+        "Tecnologia": "Graphene 360+",
+        "Jogadores recomendados": "Avançados polivalentes",
+        "Faixa de preço": "$220–250"
+      },
+      "scores": {
+        "Power": 80,
+        "Control": 80,
+        "Swing weight": 75,
+        "Value": 78,
+        "Vibration dampening": 72
+      }
+    },
+    {
+      "offerId": "yonex-ezone-98",
+      "badge": "Melhor para o braço",
+      "review": "A EZONE 98 é a melhor opção para jogadores com cotovelo de tenista ou sensibilidade no braço graças ao Vibration Dampening Mesh. Menos feedback do que a Pro Staff, mas a faixa de uso mais ampla e a leveza para o braço a diferenciam claramente.",
+      "pros": ["Excelente absorção de vibração para jogadores com cotovelo de tenista", "Aro de controle de 98 pol²", "Menos fadiga do braço em sessões longas"],
+      "cons": ["Menos feedback de controle comparado à Pro Staff"],
+      "grade": "B",
+      "specs": {
+        "Tamanho de cabeça": "98 pol²",
+        "Peso (sem encordamento)": "305g",
+        "Largura do aro": "23.5mm",
+        "Tecnologia": "Vibration Dampening Mesh",
+        "Padrão de cordas": "16×19",
+        "Jogadores recomendados": "Jogadores com cotovelo de tenista ou sensibilidade no braço",
+        "Faixa de preço": "$230–260"
+      },
+      "scores": {
+        "Power": 76,
+        "Control": 82,
+        "Swing weight": 78,
+        "Value": 74,
+        "Vibration dampening": 95
+      }
+    },
+    {
+      "offerId": "wilson-blade-98-v8",
+      "badge": "Melhor controle acessível",
+      "review": "A Blade 98 v8 é menos exigente do que a Pro Staff mantendo o caráter orientado ao controle. O aro favorito de Swiatek é ideal para jogadores de clube que buscam precisão estilo Pro Staff com mais tolerância.",
+      "pros": ["Mais tolerante do que a Pro Staff", "Aro de controle com associação a Swiatek", "Bom equilíbrio entre controle e maneabilidade"],
+      "cons": ["Menos feedback de controle puro do que a Pro Staff"],
+      "grade": "B-",
+      "specs": {
+        "Tamanho de cabeça": "98 pol²",
+        "Peso (encordada)": "304g",
+        "Largura do aro": "21.5mm",
+        "Padrão de cordas": "16×19",
+        "Equilíbrio": "Cabeça leve",
+        "Jogadores recomendados": "Intermediários-avançados orientados ao controle",
+        "Faixa de preço": "$220–250"
+      },
+      "scores": {
+        "Power": 68,
+        "Control": 88,
+        "Swing weight": 82,
+        "Value": 76,
+        "Vibration dampening": 70
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para jogadores de controle preciso",
+      "offerId": "wilson-pro-staff-97-v14",
+      "reason": "Ideal para intermediários-avançados com mecânica de swing consistente que buscam máxima precisão de colocação."
+    },
+    {
+      "label": "Para jogadores de topspin intenso",
+      "offerId": "babolat-pure-aero-2023",
+      "reason": "Ótima para jogadores de fundo com empunhadura semi-ocidental a ocidental que querem gerar muito topspin."
+    },
+    {
+      "label": "Para jogadores polivalentes",
+      "offerId": "head-speed-mp",
+      "reason": "A melhor escolha para avançados que querem potência e controle sem preferir um estilo específico."
+    },
+    {
+      "label": "Para jogadores com problemas no braço",
+      "offerId": "yonex-ezone-98",
+      "reason": "Recomendada para jogadores com histórico de cotovelo de tenista ou sensibilidade no braço que buscam um aro de controle de 98 pol²."
+    },
+    {
+      "label": "Para jogadores de clube estilo Pro Staff",
+      "offerId": "wilson-blade-98-v8",
+      "reason": "Perfeita para jogadores de clube que aspiram à precisão estilo Pro Staff mas preferem um aro mais tolerante."
+    }
+  ]
 }

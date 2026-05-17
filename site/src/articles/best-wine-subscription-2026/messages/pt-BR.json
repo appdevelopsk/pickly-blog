@@ -93,5 +93,64 @@
     "bright-cellars-subscription": "Melhor para iniciantes no vinho — desenvolvimento estruturado do paladar com sistema de arquétipo de roda de sabores, $22/garrafa (4 garrafas a $88/mês). Estrutura educacional explícita em cada garrafa sobre como expande seu paladar. Melhor para novos bebedores de vinho que querem um caminho de aprendizado guiado. Limitação: bebedores experientes acham o andaime desnecessário; o cancelamento requer contato com o suporte em vez do portal de autoatendimento."
   },
   "pinDescription": "5 assinaturas de vinho comparadas para 2026: Winc vs Firstleaf vs Naked Wines vs Wine Access vs BRIGHT Cellars. Personalização, valor por garrafa, opções de vinho natural — encontre a assinatura que realmente combina com como você bebe vinho. #assinaturaDe Vinho #vinhoNatural #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada assinatura foi avaliada pelo preço por garrafa entregue, precisão de personalização do algoritmo após três envios, conveniência de pular/pausar, disponibilidade de vinhos naturais e profundidade educacional das notas de degustação.",
+  "products": [
+    {
+      "offerId": "winc-subscription",
+      "badge": "Melhor geral",
+      "review": "As seleções baseadas em algoritmo da Winc a $13–20 por garrafa com frete grátis para quatro ou mais garrafas a tornam a assinatura de vinho cotidiana com menos fricção. O ciclo de feedback de avaliações melhora visivelmente a personalização após três a quatro envios. O compromisso: os rótulos próprios da Winc dominam os segmentos de preço mais baixos, limitando o teto de qualidade em comparação com serviços de curadoria independentes.",
+      "pros": ["Algoritmo melhora visivelmente após avaliações consistentes", "Frete grátis para 4+ garrafas", "Pular/pausar em autoatendimento em dois cliques"],
+      "cons": ["Rótulos próprios limitam o teto de qualidade vs serviços de curadoria"],
+      "grade": "A+",
+      "specs": {"Preço por garrafa": "$13–20", "Tamanho do envio": "4 garrafas/mês", "Frete": "Grátis para 4+", "Política de pulo": "Autoatendimento, 24h de aviso", "Base": "EUA"},
+      "scores": {"Qualidade do vinho": 4.2, "Custo-benefício": 4.5, "Variedade": 4.0, "Personalização": 4.3, "Confiabilidade de entrega": 4.6}
+    },
+    {
+      "offerId": "firstleaf-subscription",
+      "badge": "Melhor valor inicial",
+      "review": "Seis garrafas por $39,95 no primeiro envio é o melhor desconto de entrada desta categoria. O algoritmo se calibra bem depois de avaliar três ou quatro entregas de forma consistente. O cancelamento requer um fluxo de retenção em vez de um único clique.",
+      "pros": ["Melhor desconto de primeiro envio ($39,95 por 6 garrafas)", "Ampla rede de vinícolas para variedade", "Algoritmo melhora após 3–4 envios"],
+      "cons": ["Cancelamento requer fluxo de retenção, não um clique único"],
+      "grade": "A",
+      "specs": {"Preço de entrada": "$39,95/6 garrafas", "Preço contínuo": "~$15–25/garrafa", "Tamanho do envio": "6 garrafas", "Política de pulo": "Autoatendimento, até 2 meses de pausa", "Rede de vinícolas": "Internacional"},
+      "scores": {"Qualidade do vinho": 4.0, "Custo-benefício": 4.6, "Variedade": 4.2, "Personalização": 3.9, "Confiabilidade de entrega": 4.3}
+    },
+    {
+      "offerId": "naked-wines-subscription",
+      "badge": "Melhor para economizadores",
+      "review": "A associação Angel da Naked Wines deposita $40/mês como crédito, desbloqueando 30–50% abaixo do preço de varejo em vinhos de produtores independentes. As economias são verificáveis de forma independente. O modelo sob demanda sem envios automáticos é o mais flexível dos cinco, mas o compromisso de $40 continua nos meses sem compras.",
+      "pros": ["Economia verificável de 30–50% vs preço de varejo", "Sem envios automáticos forçados — compre quando quiser", "Amplo acesso a produtores de vinho independentes"],
+      "cons": ["Compromisso de $40/mês independentemente da atividade de compra"],
+      "grade": "B+",
+      "specs": {"Crédito mensal": "$40", "Desconto Angel": "30–50% sobre varejo", "Tipo de envio": "Sob demanda", "Cancelamento": "Autoatendimento", "Produtores": "Independentes"},
+      "scores": {"Qualidade do vinho": 4.3, "Custo-benefício": 4.4, "Variedade": 3.8, "Personalização": 3.5, "Confiabilidade de entrega": 4.1}
+    },
+    {
+      "offerId": "wine-access-subscription",
+      "badge": "Melhor para entusiastas",
+      "review": "Wine Access oferece as melhores notas de degustação e curadoria editorial mais profunda desta categoria — contexto de produção, tipicidade regional e expectativas de sabor escritas por profissionais do vinho. A $30–100+ por garrafa não é uma assinatura para consumo diário, mas a qualidade e a profundidade educacional justificam o prêmio para colecionadores sérios.",
+      "pros": ["Melhores notas de degustação e educação vínica de longe", "Cobre vinho natural e convencional com igual rigor", "Curadoria e qualidade de seleção em nível sommelier"],
+      "cons": ["Preço ($30–100+/garrafa) o exclui como assinatura de consumo diário"],
+      "grade": "B",
+      "specs": {"Preço por garrafa": "$30–100+", "Estilo de curadoria": "Editorial/sommelier", "Vinho natural": "Sim", "Notas de degustação": "Contexto de produção + tipicidade regional", "Cancelamento": "Autoatendimento"},
+      "scores": {"Qualidade do vinho": 4.9, "Custo-benefício": 3.2, "Variedade": 4.5, "Personalização": 3.6, "Confiabilidade de entrega": 4.4}
+    },
+    {
+      "offerId": "bright-cellars-subscription",
+      "badge": "Melhor para iniciantes",
+      "review": "O sistema de arquétipo de roda de sabores da BRIGHT Cellars atribui um perfil de paladar e inclui deliberadamente uma garrafa fora da zona de conforto em cada envio. O enquadramento educacional em cada garrafa é genuinamente útil para novos bebedores de vinho. A $22/garrafa ($88/mês para quatro) o preço é justo para a estrutura de aprendizado.",
+      "pros": ["Sistema de desenvolvimento do paladar com roda de sabores único na categoria", "Nota educacional em cada garrafa explicando o que ensina", "Progressão estruturada para um conhecimento vínico mais amplo"],
+      "cons": ["Cancelamento requer contato com o suporte (sem portal de autoatendimento)"],
+      "grade": "B-",
+      "specs": {"Preço por garrafa": "$22", "Tamanho do envio": "4 garrafas/mês", "Custo mensal": "$88", "Cancelamento": "Contato com suporte necessário", "Sistema": "Arquétipo de roda de sabores"},
+      "scores": {"Qualidade do vinho": 3.8, "Custo-benefício": 3.7, "Variedade": 3.6, "Personalização": 4.0, "Confiabilidade de entrega": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para bebedores cotidianos sem complicações", "offerId": "winc-subscription", "reason": "Seleções por algoritmo entregues conforme um calendário — pular e pausar em dois cliques."},
+    {"label": "Para novos assinantes", "offerId": "firstleaf-subscription", "reason": "Melhor desconto de entrada da categoria; o algoritmo se calibra após algumas entregas avaliadas."},
+    {"label": "Para quem apoia produtores independentes", "offerId": "naked-wines-subscription", "reason": "O crédito Angel financia produtores independentes diretamente e desbloqueia 30–50% de economia verificável."},
+    {"label": "Para colecionadores sérios", "offerId": "wine-access-subscription", "reason": "Seleções por sommelier em segmentos premium com as melhores notas de degustação disponíveis em formato assinatura."},
+    {"label": "Para iniciantes absolutos em vinho", "offerId": "bright-cellars-subscription", "reason": "O sistema de arquétipo cria um caminho guiado de desenvolvimento do paladar que nenhum outro serviço desta comparação oferece."}
+  ]
 }

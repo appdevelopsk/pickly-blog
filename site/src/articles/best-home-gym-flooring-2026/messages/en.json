@@ -64,5 +64,64 @@
     "gorilla-mats-premium-large-mat": "The Gorilla Mats 6x4 single-piece mat eliminates seams entirely for smaller lifting areas — one mat covers the footprint of a power rack and immediate landing zone without any butted edges. The premium rubber compound is odor-reduced compared to standard stall mats and arrives ready to use with shorter off-gassing time. Correct pick if you want one mat that covers a complete lifting zone without coordinating multiple pieces."
   },
   "pinDescription": "Best home gym flooring 2026: horse stall mats vs EVA foam tiles vs Rogue rubber rolls — thickness guide for deadlifts, coverage math, and odor tips for a real lifting space.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each flooring option was evaluated on impact absorption for barbell drops, surface stability under heavy lifts, odor and off-gassing, coverage cost per square foot, and installation ease — not for looks or marketing claims.",
+  "products": [
+    {
+      "offerId": "rubber-flooring-inc-horse-stall-mat",
+      "badge": "Best Overall",
+      "review": "The 4x6-foot, 3/4-inch vulcanized rubber mat remains the home gym flooring standard for good reason: it handles barbell drops that destroy EVA foam, costs $40–50 per mat, and lasts 10+ years. Dense rubber absorbs and dissipates impact without bouncing the bar back or transmitting shock to the subfloor. Consistent 3/4-inch thickness provides stable feedback during squats and deadlifts. Plan for 2–6 weeks of off-gassing in enclosed spaces — air outdoors before installation.",
+      "pros": ["Handles barbell drops that permanently damage EVA foam tiles", "Consistent 3/4-inch thickness for stable lifting surface", "$40–50 per 4x6 mat — best cost-per-sqft for heavy barbell use"],
+      "cons": ["Strong rubber odor for 2–6 weeks in enclosed spaces — must air outdoors first"],
+      "grade": "A+",
+      "specs": {"Dimensions": "4x6 ft per mat", "Thickness": "3/4 in (19mm)", "Weight": "~100 lb per mat", "Material": "Vulcanized rubber", "Coverage cost": "~$2/sqft"},
+      "scores": {"Build quality": 4.8, "Durability": 5.0, "Ease of use": 3.5, "Value": 5.0, "Load capacity": 5.0}
+    },
+    {
+      "offerId": "balancefrom-puzzle-exercise-mat",
+      "badge": "Best for Cardio Zones",
+      "review": "EVA foam tiles serve a different purpose than rubber mats — they're the right choice for ab work, push-ups, stretching, and any exercise where hands, knees, and back contact the floor directly. Interlocking design configures around irregular room shapes. Light, easy to store if you use a temporary workout area. Critical limitation: any barbell dropped on EVA foam creates permanent compression damage.",
+      "pros": ["Cushioning for floor-based movements rubber mats can't match", "Configures to irregular room shapes with interlocking tabs", "Lightweight and easy to store for temporary workout spaces"],
+      "cons": ["Permanent compression damage from barbell drops — not suitable for lifting zones"],
+      "grade": "A",
+      "specs": {"Thickness": "3/4 in EVA foam", "Coverage": "24 sq ft set", "Weight per tile": "Light", "Price": "$35", "Surface": "Non-slip texture"},
+      "scores": {"Build quality": 3.8, "Durability": 3.5, "Ease of use": 5.0, "Value": 5.0, "Load capacity": 2.0}
+    },
+    {
+      "offerId": "rogue-fitness-flooring-rolls",
+      "badge": "Best Permanent Installation",
+      "review": "Rogue's Monster Matting is sold by the linear foot in 4-foot-wide rolls — eliminating the seam problem of multiple butted mats across large spaces. Denser and more consistent than horse stall mat rubber, purpose-engineered surface texture for athletic use. At $3–5 per linear foot it costs more than stall mats, but the quality difference is real. Correct for a serious permanent home gym where long-term aesthetics and zero-seam continuity matter.",
+      "pros": ["Roll format eliminates seams across large spaces", "Denser and more consistent than horse stall mat rubber", "Purpose-engineered surface for athletic foot contact"],
+      "cons": ["Higher cost per sqft than horse stall mats — premium justified only for permanent builds"],
+      "grade": "B+",
+      "specs": {"Format": "4 ft wide rolls, per linear ft", "Thickness": "3/4 in", "Material": "High-density rubber", "Price": "~$225 (sample 10 linear ft)", "Installation": "Adhesive or equipment weight"},
+      "scores": {"Build quality": 5.0, "Durability": 5.0, "Ease of use": 3.0, "Value": 3.5, "Load capacity": 5.0}
+    },
+    {
+      "offerId": "superjock-rubber-floor-tiles",
+      "badge": "Best Reconfigurable",
+      "review": "SuperMats heavy-duty rubber tiles bridge the gap between horse stall mats and Rogue rolls: denser than EVA foam, interlocking tabs for easy reconfiguration, gym-oriented surface finish. Useful when the gym layout may change or tiles need to be pulled up periodically. Not quite the density or consistency of horse stall mats under repeated heavy drops, but better than EVA for any weight zone.",
+      "pros": ["Interlocking tabs allow easy reconfiguration when layout changes", "Denser than EVA foam — handles moderate weight drops", "Gym-oriented surface finish vs agricultural texture of stall mats"],
+      "cons": ["Below horse stall mat density under repeated heavy barbell drops"],
+      "grade": "B",
+      "specs": {"Dimensions": "4x6 ft", "Material": "Heavy-duty rubber", "Price": "$45", "Tabs": "Interlocking for reconfiguration"},
+      "scores": {"Build quality": 4.0, "Durability": 4.2, "Ease of use": 4.5, "Value": 4.3, "Load capacity": 4.0}
+    },
+    {
+      "offerId": "gorilla-mats-premium-large-mat",
+      "badge": "Best Single-Piece",
+      "review": "The Gorilla Mats 6x4 single-piece mat eliminates seams for smaller lifting areas — one mat covers a power rack footprint and landing zone without any butted edges. The rubber compound off-gasses faster than standard stall mats, arriving closer to ready-to-use. At $220 it costs more than a comparable stall mat coverage area, but the single-piece advantage and faster off-gassing justify the premium for smaller setups.",
+      "pros": ["Single piece eliminates seams entirely in smaller lifting areas", "Faster off-gassing than standard horse stall mats", "Covers a complete power rack footprint in one mat"],
+      "cons": ["$220 for 6x4 coverage — more expensive per sqft than stall mats"],
+      "grade": "B-",
+      "specs": {"Dimensions": "6x4 ft", "Thickness": "3/4 in", "Material": "Premium rubber compound", "Price": "$219.95", "Weight": "~90 lb"},
+      "scores": {"Build quality": 4.5, "Durability": 4.5, "Ease of use": 4.0, "Value": 3.8, "Load capacity": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For barbell deadlifts and Olympic lifting", "offerId": "rubber-flooring-inc-horse-stall-mat", "reason": "3/4-inch vulcanized rubber is the only material that handles repeated barbell drops without permanent damage"},
+    {"label": "For cardio, stretching, and floor exercises", "offerId": "balancefrom-puzzle-exercise-mat", "reason": "EVA foam cushioning that rubber mats can't match — the right tool for floor-based movements"},
+    {"label": "For a serious permanent home gym installation", "offerId": "rogue-fitness-flooring-rolls", "reason": "Roll format eliminates seams across large spaces, denser and more consistent than stall mats"},
+    {"label": "For a gym that may need to be reconfigured", "offerId": "superjock-rubber-floor-tiles", "reason": "Interlocking tabs let you pull up and re-lay tiles when layout changes"},
+    {"label": "For a small lifting zone with no seams", "offerId": "gorilla-mats-premium-large-mat", "reason": "Single piece covers a complete power rack footprint with zero butted edges"}
+  ]
 }

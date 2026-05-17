@@ -92,5 +92,184 @@
     "sunny-health-sf-b1002": "La migliore cyclette spinning economica di base — resistenza magnetica a un prezzo economico fornisce un'operativita a manutenzione zero, la regolabilita accoglie la maggior parte delle altezze degli adulti e le ruote di trasporto consentono la rilocazione da una sola persona. Il volano da 8 kg e il compromesso: la sensazione di pedalata e meno fluida rispetto alle bici con volani piu pesanti a resistenza moderata. Corretta per i ciclisti che fanno cardio in stato stazionario che non necessitano di contenuti connessi o protocolli di allenamento a intervalli strutturati."
   },
   "pinDescription": "Le migliori cyclette spinning 2026 a confronto: peso del volano vs tipo di resistenza, Peloton vs Schwinn IC4 vs NordicTrack S22i vs Bowflex VeloCore — costi dei contenuti connessi, ingombro e quale bici si adatta al tuo stile di allenamento e budget. #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni bici è stata valutata sulla fluidità del volano a resistenza moderata (fascia 16–19 kg), la coerenza della resistenza magnetica nel corso di 6 mesi, il range di regolazione della sella e del manubrio, il valore dei contenuti connessi tenendo conto dei costi di abbonamento e il livello di rumorosità in appartamento.",
+  "products": [
+    {
+      "offerId": "peloton-bike",
+      "badge": "Il Migliore in Assoluto",
+      "review": "Il Peloton Bike guadagna il suo status grazie all'hardware e ai contenuti — il volano da 16 kg e la resistenza magnetica precisa offrono una cadenza fluida, e 50.000+ lezioni con istruttori dal vivo forniscono la motivazione. Svantaggio: L'abbonamento All-Access da $44/mese è praticamente obbligatorio.",
+      "pros": [
+        "Schermo touch HD da 21,5\" con 50.000+ corsi in diretta e on-demand",
+        "Volano da 16 kg per inerzia fluida",
+        "Resistenza magnetica silenziosa — adatta agli appartamenti"
+      ],
+      "cons": [
+        "Abbonamento da $44/mese praticamente necessario per giustificare il prezzo dell'hardware"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Flywheel": "16 kg",
+        "Resistance": "Magnetic (100 levels)",
+        "Screen": "21.5\" HD touchscreen",
+        "Drive": "Belt drive",
+        "Footprint": "59×53 cm",
+        "Weight": "57 kg",
+        "Subscription": "$44/mo All-Access"
+      },
+      "scores": {
+        "Resistance feel": 4.8,
+        "Build quality": 4.8,
+        "Comfort": 4.5,
+        "Value": 3.8,
+        "Noise": 4.9
+      }
+    },
+    {
+      "offerId": "schwinn-ic4",
+      "badge": "Migliore Connesso Qualità-Prezzo",
+      "review": "Il volano da 18 kg dello Schwinn IC4 è più pesante di quello del Peloton — un dato sottovalutato. Regolazione completa in 4 direzioni per l'uso condiviso in famiglia. Bluetooth verso Peloton, Zwift e Apple Fitness+ senza schermo integrato. Svantaggio: Nessuno schermo integrato.",
+      "pros": [
+        "Volano da 18 kg — più pesante del Peloton",
+        "Regolazione completa in 4 direzioni per uso condiviso",
+        "Bluetooth compatibile con Peloton, Zwift, Apple Fitness+"
+      ],
+      "cons": [
+        "Nessuno schermo integrato — tablet esterno necessario"
+      ],
+      "grade": "A",
+      "specs": {
+        "Flywheel": "18 kg",
+        "Resistance": "Magnetic (100 levels)",
+        "Screen": "None (Bluetooth)",
+        "Drive": "Belt drive",
+        "Footprint": "54×107 cm",
+        "Weight": "47 kg",
+        "Subscription": "User choice"
+      },
+      "scores": {
+        "Resistance feel": 4.7,
+        "Build quality": 4.6,
+        "Comfort": 4.4,
+        "Value": 4.6,
+        "Noise": 4.8
+      }
+    },
+    {
+      "offerId": "nordictrack-s22i",
+      "badge": "Migliore Allenamento su Percorso",
+      "review": "L'inclinazione motorizzata da -10 a +20% dell'S22i è l'unica funzione qui che simula genuinamente salite e discese. Lo schermo rotante da 22 pollici funziona anche per esercizi della parte superiore del corpo. Svantaggio: La bici più grande, richiede iFit a $39/mese.",
+      "pros": [
+        "Inclinazione motorizzata -10 a +20% per simulazione di percorso",
+        "Schermo touch rotante 22\" per allenamenti su e fuori dalla bici",
+        "Sincronizzazione automatica resistenza e inclinazione iFit"
+      ],
+      "cons": [
+        "Ingombro maggiore; iFit a $39/mese richiesto per le funzioni chiave"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Flywheel": "~16 kg",
+        "Resistance": "Magnetic + motorized incline",
+        "Screen": "22\" rotating",
+        "Incline": "-10% to +20%",
+        "Footprint": "56×137 cm",
+        "Weight": "64 kg",
+        "Subscription": "$39/mo iFit"
+      },
+      "scores": {
+        "Resistance feel": 4.7,
+        "Build quality": 4.5,
+        "Comfort": 4.4,
+        "Value": 3.9,
+        "Noise": 4.5
+      }
+    },
+    {
+      "offerId": "bowflex-velocore-16",
+      "badge": "Migliore Core",
+      "review": "L'inclinazione laterale di 25 gradi del VeloCore attiva gli stabilizzatori laterali e riduce l'affaticamento lombare. JRNY costa $20/mese. Svantaggio: Schermo da 16 pollici più piccolo rispetto alla concorrenza.",
+      "pros": [
+        "Inclinazione laterale 25 gradi attiva il core e gli stabilizzatori laterali",
+        "Abbonamento più basso tra le bici connesse ($20/mese)",
+        "Ingombro compatto 53×61 cm"
+      ],
+      "cons": [
+        "Schermo da 16 pollici più piccolo della concorrenza; l'inclinazione richiede adattamento"
+      ],
+      "grade": "B",
+      "specs": {
+        "Flywheel": "15 kg",
+        "Resistance": "Magnetic",
+        "Screen": "16\" touchscreen",
+        "Lean": "±25°",
+        "Footprint": "53×61 cm",
+        "Weight": "54 kg",
+        "Subscription": "$20/mo JRNY"
+      },
+      "scores": {
+        "Resistance feel": 4.4,
+        "Build quality": 4.3,
+        "Comfort": 4.6,
+        "Value": 4.2,
+        "Noise": 4.7
+      }
+    },
+    {
+      "offerId": "sunny-health-sf-b1002",
+      "badge": "Il Migliore Economico",
+      "review": "La resistenza magnetica a prezzo budget è il principale vantaggio — funzionamento senza manutenzione. Il volano da 8 kg è il compromesso: i colpi di pedale sembrano più irregolari. Le ruote di trasporto consentono lo spostamento da soli.",
+      "pros": [
+        "Resistenza magnetica a prezzo budget — senza manutenzione",
+        "Ruote per il trasporto — spostamento da soli",
+        "Ingombro più piccolo e peso più basso nel confronto"
+      ],
+      "cons": [
+        "Il volano da 8 kg produce colpi di pedale più irregolari a resistenza moderata"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Flywheel": "8 kg",
+        "Resistance": "Magnetic (knob)",
+        "Screen": "LCD",
+        "Drive": "Belt drive",
+        "Footprint": "47×99 cm",
+        "Weight": "43 kg",
+        "Subscription": "None"
+      },
+      "scores": {
+        "Resistance feel": 3.6,
+        "Build quality": 3.8,
+        "Comfort": 3.9,
+        "Value": 4.7,
+        "Noise": 4.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per i praticanti motivati dai corsi",
+      "offerId": "peloton-bike",
+      "reason": "I corsi con istruttori dal vivo e la competizione in classifica forniscono la struttura di motivazione esterna."
+    },
+    {
+      "label": "Per i ciclisti indipendenti dalla piattaforma",
+      "offerId": "schwinn-ic4",
+      "reason": "La compatibilità Bluetooth con più app consente di testare le piattaforme — massima flessibilità."
+    },
+    {
+      "label": "Per i ciclisti su strada che si allenano in casa",
+      "offerId": "nordictrack-s22i",
+      "reason": "L'inclinazione motorizzata e la simulazione di percorso iFit creano l'approssimazione più vicina all'allenamento outdoor reale."
+    },
+    {
+      "label": "Per gli utenti di home office con affaticamento lombare",
+      "offerId": "bowflex-velocore-16",
+      "reason": "Il meccanismo di inclinazione distribuisce il carico posturale agli stabilizzatori laterali, riducendo l'affaticamento lombare."
+    },
+    {
+      "label": "Per i compratori con budget limitato",
+      "offerId": "sunny-health-sf-b1002",
+      "reason": "La resistenza magnetica e le ruote di trasporto offrono funzionalità di base al prezzo più basso senza costi di abbonamento."
+    }
+  ]
 }

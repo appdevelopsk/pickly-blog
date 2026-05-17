@@ -48,5 +48,64 @@
     "harbinger-padded-leather-belt": "Cuero acolchado con espuma para comodidad en entrenamiento general. No es de especificación de competición, pero ideal para trabajo mixto en el gimnasio y series de repeticiones altas donde un cinturón rígido sería poco práctico."
   },
   "pinDescription": "Inzer vs SBD vs Rogue -- los 5 mejores cinturones de levantamiento de 2026 clasificados por rendimiento real en sentadilla y peso muerto. Palanca vs hebilla, 10mm vs 13mm, competición vs entrenamiento diario cubiertos. #CinturonLevantamiento #Powerlifting #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada producto fue evaluado en cinco criterios: calidad de construcción, rendimiento en uso típico, durabilidad a lo largo del tiempo, comodidad y valor por dólar. Ponderamos el rendimiento y la durabilidad más alto porque determinan si un producto sigue siendo útil 12 meses después.",
+  "products": [
+    {
+      "offerId": "inzer-forever-lever-belt-10mm",
+      "badge": "Mejor en general",
+      "review": "El Inzer Forever Lever Belt es el referente con el que se comparan todos los demás cinturones de powerlifting. El cuero de piel única de 10mm es lo suficientemente rígido para soporte real de presión intraabdominal sin la tendencia del 13mm a golpear las costillas en series de altas repeticiones. Aprobado por la IPF — entrenas y compites con el mismo cinturón. El cierre de palanca entrega tensión idéntica en cada serie — ajústalo una vez, hazlo clic y levanta.",
+      "pros": ["Cierre de palanca: tensión idéntica cada serie sin ajuste", "Aprobado por la IPF para competición", "Garantía Forever: cubre defectos durante toda la vida del cinturón"],
+      "cons": ["4-6 semanas de período de adaptación hasta que el cuero se moldea al cuerpo"],
+      "grade": "A+",
+      "specs": {"Grosor": "Cuero de piel única 10mm", "Ancho": "10cm (uniforme, IPF)", "Cierre": "Hebilla de palanca", "Aprobado IPF": "Sí", "Precio": "$129.95"},
+      "scores": {"Calidad de construcción": 5.0, "Durabilidad": 5.0, "Comodidad": 3.8, "Facilidad de uso": 4.5, "Valor": 4.5}
+    },
+    {
+      "offerId": "sbd-belt-powerlifting",
+      "badge": "Mejor para competición",
+      "review": "El cinturón SBD de 13mm lo usan varios récordmanes mundiales de la IPF — no es marketing, es un dato verificable sobre la resistencia de la construcción bajo cargas máximas reales. Máxima rigidez legal para el mayor potencial de soporte. El mecanismo de un solo dedo se suelta más rápido que el Inzer entre intentos. Compromisos: 6-8 semanas de adaptación e incomodidad en series de altas repeticiones.",
+      "pros": ["Usado por récordmanes mundiales de la IPF", "Apertura con un dedo — la más rápida de la categoría", "Grosor 13mm legal máximo para el soporte más alto"],
+      "cons": ["6-8 semanas de período de adaptación", "Incómodo para series de 8+ repeticiones"],
+      "grade": "A",
+      "specs": {"Grosor": "Cuero de piel única 13mm", "Ancho": "10cm (IPF)", "Cierre": "Palanca SBD propietaria", "Fabricado en": "Reino Unido", "Precio": "$320-380"},
+      "scores": {"Calidad de construcción": 5.0, "Durabilidad": 5.0, "Comodidad": 3.0, "Facilidad de uso": 4.8, "Valor": 3.0}
+    },
+    {
+      "offerId": "rogue-ohio-lifting-belt",
+      "badge": "Mejor cinturón fabricado en EE.UU.",
+      "review": "El Rogue Ohio Belt está fabricado en Columbus, Ohio con cuero Herman Oak — la misma tenería que utilizan los mejores fabricantes de cinturones a medida. El estrechamiento de 4 a 3 pulgadas en el frente mejora la movilidad de cadera durante los pesos muertos. Disponible en prong simple o doble. La calidad de construcción es consistente y la trazabilidad del suministro es un diferenciador real.",
+      "pros": ["Cuero Herman Oak — misma tenería que los cinturones a medida premium", "Estrechamiento 4→3 pulgadas mejora la movilidad de cadera en peso muerto", "Fabricado en Columbus, Ohio con cadena de suministro trazable"],
+      "cons": ["El cierre de prong requiere más tiempo de ajuste que la palanca"],
+      "grade": "B+",
+      "specs": {"Grosor": "Cuero de piel única 10mm", "Ancho": "4 pulg. trasero / 3 pulg. frontal", "Cierre": "Prong simple o doble", "Fabricado en": "Columbus, Ohio, EE.UU.", "Precio": "$180-230"},
+      "scores": {"Calidad de construcción": 4.8, "Durabilidad": 4.8, "Comodidad": 4.0, "Facilidad de uso": 3.8, "Valor": 4.3}
+    },
+    {
+      "offerId": "pioneer-cut-powerlifting-belt",
+      "badge": "Mejor geometría para sentadilla",
+      "review": "El corte contorneado de Pioneer — más ancho en la espalda, estrechándose hacia los lados — es una geometría que muchos levantadores encuentran menos molesta para los flexores de cadera en el punto más bajo de la sentadilla comparado con cinturones de ancho uniforme. Popular en el powerlifting japonés por su compatibilidad específica con la sentadilla. Disponible en múltiples anchos y estilos de hebilla.",
+      "pros": ["Geometría contorneada reduce la interferencia de flexores de cadera en sentadilla profunda", "Popular en powerlifting japonés por adaptación específica a la sentadilla", "Disponible en múltiples anchos y configuraciones de hebilla"],
+      "cons": ["La geometría específica puede no adaptarse a todas las proporciones corporales"],
+      "grade": "B",
+      "specs": {"Grosor": "Cuero de piel única 10mm", "Corte": "Contorno Pioneer — espalda ancha, lados estrechos", "Aprobado IPF": "Sí", "Opciones": "Múltiples anchos y estilos de hebilla", "Precio": "$150-200"},
+      "scores": {"Calidad de construcción": 4.5, "Durabilidad": 4.5, "Comodidad": 4.5, "Facilidad de uso": 3.8, "Valor": 4.5}
+    },
+    {
+      "offerId": "harbinger-padded-leather-belt",
+      "badge": "Mejor para entrenamiento general",
+      "review": "El cinturón de cuero acolchado de Harbinger está diseñado para la musculación general y el culturismo, no para competiciones de powerlifting. El panel trasero acolchado de espuma lo hace cómodo desde la primera sesión — ideal para pesos muertos rumanos y remos donde te lo pones y quitas continuamente. El soporte máximo es inferior al cuero rígido de piel única; para series al 70-80%, es perfectamente adecuado.",
+      "pros": ["Cómodo desde el primer día — sin período de adaptación", "Espuma práctica para series de alta repetición variadas", "Precio más bajo de esta comparación"],
+      "cons": ["No es de especificación de competición — la espuma limita el soporte máximo", "No aprobado por la IPF"],
+      "grade": "B-",
+      "specs": {"Material": "Cuero con panel trasero de espuma", "Ancho": "6 pulgadas", "Aprobado IPF": "No", "Ideal para": "Entrenamiento general, rutinas de culturismo", "Precio": "$40-65"},
+      "scores": {"Calidad de construcción": 3.5, "Durabilidad": 3.8, "Comodidad": 5.0, "Facilidad de uso": 4.5, "Valor": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para powerlifters competitivos", "offerId": "inzer-forever-lever-belt-10mm", "reason": "Palanca aprobada por IPF con tensión consistente cada serie y garantía de por vida"},
+    {"label": "Para competición élite IPF", "offerId": "sbd-belt-powerlifting", "reason": "Soporte legal máximo a 13mm, usado por récordmanes mundiales de la IPF en la plataforma"},
+    {"label": "Para atletas centrados en peso muerto", "offerId": "rogue-ohio-lifting-belt", "reason": "El estrechamiento frontal mejora la movilidad de cadera en la pliegue durante tirones pesados"},
+    {"label": "Para sentadillas profundas", "offerId": "pioneer-cut-powerlifting-belt", "reason": "La geometría contorneada reduce la interferencia de los flexores de cadera en el punto más bajo"},
+    {"label": "Para entrenamiento general en gimnasio", "offerId": "harbinger-padded-leather-belt", "reason": "Cómodo para series de alta repetición sin adaptación, al precio más bajo"}
+  ]
 }

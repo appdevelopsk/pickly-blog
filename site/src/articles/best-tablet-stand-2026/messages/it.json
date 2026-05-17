@@ -102,5 +102,64 @@
     "twelve-south-hoverbar-duo": "Scelta del braccio premium a morsetto/scrivania — braccio articolato a tensione a molla da 11.800-13.800 yen con puck magnetico (accessorio separato o integrato a seconda dell'anno), morsetto a vite che si monta sui bordi della scrivania di spessore 0-50 mm, portata di oscillazione di 35 cm, opzione con base da scrivania pesata inclusa per le superfici non morsettabili. L'ingombro del morsetto limita dove si puo montare — molte scrivanie giapponesi hanno un gonnellino che blocca la gola del morsetto o un piano superiore piu spesso di 50 mm; le dimensioni della piastra magnetica focalizzate su iPad significano che i tablet Android e iPad Mini piu vecchi non magnetici richiedono un anello adattatore di terze parti."
   },
   "pinDescription": "Cinque supporti per tablet a confronto nel 2026 da un supporto a cerniera Lamicall da 1.680 yen a un Twelve South HoverBar Duo da 13.800 yen. Aggancio iPad magnetico vs portatilita in stile MOFT vs portata piantana a collo d'oca vs braccio a morsetto da scrivania — con il test di stress iPad Pro 12.9 con Magic Keyboard e le debolezze esplicite su ogni scelta. #italia",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Ogni supporto è stato valutato sulla rigidità della cerniera sotto un carico di 1,4 kg (iPad Pro 12.9 + Magic Keyboard), i pattern di deriva dell'angolo dalle recensioni dei proprietari a lungo termine, il compromesso portabilità-stabilità, la compatibilità con i mobili da scrivania negli appartamenti giapponesi e la durata di vita realistica basata sui modi di guasto dominanti segnalati dopo 12–18 mesi di utilizzo quotidiano.",
+  "products": [
+    {
+      "offerId": "lululook-ipad-stand",
+      "badge": "Migliore in Assoluto",
+      "review": "Il disco magnetico del Lululook aggancia un iPad Pro o Air in meno di un secondo e consente la rotazione ritratto-paesaggio senza sforzo — senza sbloccare fissaggi, senza segni sulla cornice. Il compromesso è il vincolo dell'ecosistema: la piastra magnetica è dimensionata solo per iPad Pro e iPad Air, e l'iPad Pro 12.9 con Magic Keyboard può staccarsi se la scrivania viene urtata.",
+      "pros": ["Aggancio magnetico in meno di un secondo", "Rotazione 360° ritratto-paesaggio", "Base in alluminio spazzolato zavorrata regge 1,4 kg senza deriva"],
+      "cons": ["Solo iPad Pro e iPad Air — i tablet Android e i vecchi iPad Mini necessitano di un adattatore venduto separatamente"],
+      "grade": "A+",
+      "specs": {"Compatibilità": "iPad Pro 11/12.9, iPad Air", "Tipo di fissaggio": "Disco magnetico", "Materiale della base": "Alluminio spazzolato", "Rotazione": "360°", "Fascia di prezzo": "9.800–12.800 yen", "Portabilità": "Supporto da scrivania"},
+      "scores": {"Stabilità": 4.8, "Range angolare": 4.7, "Qualità costruttiva": 4.8, "Valore": 3.9, "Portabilità": 2.5}
+    },
+    {
+      "offerId": "moft-float-stand",
+      "badge": "Migliore per i Viaggi",
+      "review": "A 280 g e 8 mm piegato, il MOFT Float si inserisce in qualsiasi tasca per laptop e si dispiega in secondi — imbattibile per chi porta un supporto ogni giorno. La cerniera in tessuto si flette visibilmente sotto la pressione della matita Apple, quindi gli utenti di Procreate dovrebbero cercare altro.",
+      "pros": ["280 g e 8 mm di spessore piegato", "7 fermate di angolo da 25° a 60°", "Funziona anche come rialzo per laptop per gli utenti a doppio dispositivo"],
+      "cons": ["La cerniera in tessuto si flette visibilmente sotto la forte pressione della matita Apple", "Il tessuto si deteriora alla piega della cerniera dopo 12–18 mesi di trasporto quotidiano"],
+      "grade": "A",
+      "specs": {"Peso": "280 g", "Spessore piegato": "8 mm", "Fermate di angolo": "7 (25°–60°)", "Materiale": "Tessuto origami + cerniera", "Prezzo": "8.980 yen", "Uso previsto": "Portatile, laptop + tablet"},
+      "scores": {"Stabilità": 3.2, "Range angolare": 4.0, "Qualità costruttiva": 3.8, "Valore": 4.0, "Portabilità": 5.0}
+    },
+    {
+      "offerId": "lamicall-tablet-stand",
+      "badge": "Miglior Rapporto Qualità-Prezzo",
+      "review": "Il Lamicall è la scelta economica senza complicazioni: alluminio solido, compatibile con qualsiasi tablet da 4 a 13 pollici e mantiene l'iPad Pro 12.9 a un angolo fisso. Passare dal ritratto al paesaggio richiede di sollevare e riposizionare invece di ruotare, e la cerniera di attrito può derivare durante le videochiamate lunghe dopo 12–18 mesi di usura.",
+      "pros": ["Compatibile con tablet e telefoni da 4 a 13 pollici", "Cuscinetti in silicone sul supporto evitano i graffi", "Range di inclinazione di 270° copre qualsiasi angolo pratico da scrivania"],
+      "cons": ["Solo inclinazione su un asse — senza rotazione né regolazione dell'altezza", "La cerniera di attrito deriva gradualmente dopo 12–18 mesi di utilizzo"],
+      "grade": "B+",
+      "specs": {"Compatibilità": "Tablet e telefoni da 4–13 pollici", "Cerniera": "Attrito a asse singolo", "Range di inclinazione": "270°", "Materiale": "Alluminio + cuscinetti silicone", "Fascia di prezzo": "1.680–2.480 yen", "Portabilità": "Supporto da scrivania"},
+      "scores": {"Stabilità": 4.2, "Range angolare": 3.8, "Qualità costruttiva": 4.0, "Valore": 4.9, "Portabilità": 2.8}
+    },
+    {
+      "offerId": "uperfect-tablet-floor-stand",
+      "badge": "Migliore per la Visione a Letto",
+      "review": "L'UPERFECT è l'unica opzione di questo gruppo che posiziona un tablet sopra un letto o divano. La sua colonna da 90–150 cm con braccio a collo d'oca risolve il problema della visione a mani libere. A piena estensione di 150 cm con iPad Pro 12.9, qualsiasi movimento del letto genera una vibrazione di 5–10 secondi.",
+      "pros": ["Colonna da 90–150 cm raggiunge l'altezza del letto e del divano", "Il braccio a collo d'oca posiziona il tablet sopra il viso o la superficie per ricette", "Base zavorrata supporta tablet fino a 12,9 pollici tramite morsetto a molla"],
+      "cons": ["Il collo d'oca vibra per 5–10 secondi dopo qualsiasi urto a piena estensione di 150 cm", "L'ingombro di 35–40 cm a terra è scomodo nelle piccole camere da letto giapponesi"],
+      "grade": "B",
+      "specs": {"Range di colonna": "90–150 cm", "Tipo di braccio": "Collo d'oca", "Tablet compatibili": "4,7–12,9 pollici tramite morsetto a molla", "Ingombro base": "~35–40 cm", "Fascia di prezzo": "5.980–8.980 yen", "Uso previsto": "Visione a mani libere su letto/divano"},
+      "scores": {"Stabilità": 3.0, "Range angolare": 4.5, "Qualità costruttiva": 3.5, "Valore": 4.1, "Portabilità": 1.5}
+    },
+    {
+      "offerId": "twelve-south-hoverbar-duo",
+      "badge": "Miglior Braccio da Scrivania",
+      "review": "Il braccio articolato a tensione di molla del HoverBar Duo sposta l'iPad ovunque in una sfera di 35 cm dal bordo della scrivania e mantiene la posizione senza deriva della cerniera di attrito. Molte scrivanie giapponesi hanno un grembiule che blocca la gola del morsetto; misurate la vostra prima di ordinare.",
+      "pros": ["L'articolazione a tensione di molla mantiene l'angolo senza deriva", "35 cm di portata di oscillazione copre le posizioni di digitazione e lettura", "Base da scrivania zavorrata inclusa per le superfici non morsettabili"],
+      "cons": ["Il morsetto richiede un bordo della scrivania da 0–50 mm — le scrivanie giapponesi con grembiule spesso non soddisfano questo requisito", "La piastra magnetica centrata su iPad richiede un adattatore di terze parti per Android e vecchi iPad Mini"],
+      "grade": "B-",
+      "specs": {"Tipo di montaggio": "Morsetto a vite (0–50 mm) o base da scrivania zavorrata", "Portata del braccio": "35 cm", "Tensione": "Molla", "Compatibilità": "iPad Pro/Air (magnetico); altri necessitano di adattatore", "Fascia di prezzo": "11.800–13.800 yen", "Uso previsto": "Braccio articolato da scrivania"},
+      "scores": {"Stabilità": 4.6, "Range angolare": 4.9, "Qualità costruttiva": 4.7, "Valore": 3.5, "Portabilità": 1.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per gli utenti avanzati di iPad Pro", "offerId": "lululook-ipad-stand", "reason": "L'aggancio magnetico, la rotazione istantanea e la base in alluminio zavorrata gestiscono il carico completo di 1,4 kg dell'iPad Pro 12.9 + Magic Keyboard per tutto il giorno alla scrivania."},
+    {"label": "Per i pendolari quotidiani", "offerId": "moft-float-stand", "reason": "8 mm di spessore piegato si inserisce in qualsiasi tasca per laptop e i 280 g di peso scompaiono in una borsa."},
+    {"label": "Per le configurazioni economiche da scrivania", "offerId": "lamicall-tablet-stand", "reason": "Compatibile con qualsiasi tablet da 4 a 13 pollici per meno di 2.500 yen — il punto di partenza pratico per un supporto per tablet da scrivania."},
+    {"label": "Per la visione su letto e divano", "offerId": "uperfect-tablet-floor-stand", "reason": "L'unica opzione di questo gruppo che raggiunge l'altezza del letto e tiene il tablet sopra il viso in modalità mani libere."},
+    {"label": "Per il lavoro in più posizioni", "offerId": "twelve-south-hoverbar-duo", "reason": "Il braccio a tensione di molla ruota istantaneamente dalla posizione di digitazione a quella di lettura senza deriva della cerniera nel tempo."}
+  ]
 }

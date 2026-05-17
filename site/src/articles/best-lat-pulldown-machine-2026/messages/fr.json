@@ -58,5 +58,124 @@
     "cable-crossover-by-titan-fitness": "Tractionneur fonctionnel complet, hauteurs de câble réglables, doubles colonnes indépendantes. $700-1 000. Alternative Titan à Force USA -- plus d'options d'accessoires, qualité de construction comparable. Nécessite un plafond de 8 pieds. Correct si vous voulez tous les exercices aux câbles d'une seule machine."
   },
   "pinDescription": "Comparaison des machines de tirage vertical 2026 : Marcy vs Body-Solid vs Valor CB-12 vs Force USA vs Titan Fitness -- tirage dédié vs tractionneur fonctionnel, rapports de poulie et quelle machine à câble convient à votre salle à domicile. #TirageVertical #SalleÀDomicile #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque machine a été évaluée sur la qualité du câble, la plage de résistance effective, la durabilité du cadre, la polyvalence des exercices et le rapport qualité-prix — avec un accent sur la performance et la longévité, car une machine à câble qui plafonne votre progression ou tombe en panne est pire que pas de machine du tout.",
+  "products": [
+    {
+      "offerId": "lat-pulldown-machine-by-marcy",
+      "badge": "Meilleur rapport budget",
+      "review": "La Marcy double-station (tirage vertical + row bas) est la solution d'entrée de gamme pour les salles à domicile avec contraintes d'espace et de budget. La colonne 150 lb en 2:1 offre 75 lb de résistance effective — suffisant pour les débutants, limitant pour les intermédiaires sous 12–18 mois.",
+      "pros": ["Double station tirage vertical + low row", "Empreinte compacte pour petits espaces", "Point d'entrée abordable sous $450"],
+      "cons": ["75 lb de résistance effective limite la progression long terme"],
+      "grade": "A+",
+      "specs": {
+        "Colonne de poids": "150 lb",
+        "Rapport poulie": "2:1 (~75 lb effectif)",
+        "Stations": "Tirage vertical + low cable row",
+        "Empreinte": "~1,2x1,2 m",
+        "Prix": "~350–450 $"
+      },
+      "scores": {
+        "Qualité de fabrication": 3.5,
+        "Durabilité": 3.5,
+        "Polyvalence": 3.0,
+        "Facilité d'utilisation": 4.2,
+        "Rapport qualité-prix": 4.8
+      }
+    },
+    {
+      "offerId": "body-solid-lat-pulldown",
+      "badge": "Meilleure machine dédiée",
+      "review": "La structure en acier lourd de Body-Solid et les colonnes 200+ lb donnent un sentiment commercial dans un cadre domestique. Le système double poulie permet tirage et rowing sans repositionnement. À $500–700, le supplément est justifié pour les athlètes qui utilisent le tirage comme outil principal.",
+      "pros": ["Acier lourd avec sensation commerciale", "Colonnes 200+ lb disponibles", "Meilleure qualité de câble que les alternatives budget"],
+      "cons": ["Prix premium injustifié pour utilisateurs occasionnels"],
+      "grade": "A",
+      "specs": {
+        "Colonne de poids": "200+ lb",
+        "Système poulie": "Double poulie",
+        "Cadre": "Acier lourd",
+        "Idéal pour": "Outil d'entraînement principal",
+        "Prix": "~500–700 $"
+      },
+      "scores": {
+        "Qualité de fabrication": 4.8,
+        "Durabilité": 4.8,
+        "Polyvalence": 3.5,
+        "Facilité d'utilisation": 4.5,
+        "Rapport qualité-prix": 3.8
+      }
+    },
+    {
+      "offerId": "valor-fitness-cb-12",
+      "badge": "Option la plus compacte",
+      "review": "Le Valor CB-12 tient dans une empreinte de 0,9x0,9 m — la plus petite machine dédiée au tirage vertical dans cette gamme de prix. La colonne 150 lb en 2:1 correspond à la résistance effective Marcy, mais la CB-12 est plus légèrement construite.",
+      "pros": ["Empreinte 0,9x0,9 m — la plus petite de la catégorie", "Option dédiée la moins chère", "Positions câble haute et basse incluses"],
+      "cons": ["Construction plus légère que Body-Solid", "Vibration de câble à charge maximale"],
+      "grade": "B+",
+      "specs": {
+        "Colonne de poids": "150 lb",
+        "Rapport poulie": "2:1 (~75 lb effectif)",
+        "Empreinte": "~0,9x0,9 m",
+        "Positions câble": "Haute et basse",
+        "Prix": "~300–400 $"
+      },
+      "scores": {
+        "Qualité de fabrication": 3.2,
+        "Durabilité": 3.0,
+        "Polyvalence": 3.2,
+        "Facilité d'utilisation": 4.0,
+        "Rapport qualité-prix": 4.5
+      }
+    },
+    {
+      "offerId": "functional-trainer-by-force-usa",
+      "badge": "Meilleur tractionneur fonctionnel",
+      "review": "Les doubles colonnes indépendantes de Force USA avec câbles réglables en hauteur remplacent tirage vertical, câble croisé et rowing en un seul équipement. 2:1 sur 150–200 lb donne 75–100 lb par bras. Meilleure garantie que Titan à prix comparables. Hauteur sous plafond de 2,4 m requise.",
+      "pros": ["Bibliothèque complète d'exercices câble d'une seule machine", "Doubles colonnes indépendantes pour travail unilatéral", "Meilleure garantie que les concurrents comparables"],
+      "cons": ["Hauteur sous plafond de 2,4 m requise pour câble en hauteur"],
+      "grade": "B",
+      "specs": {
+        "Colonnes de poids": "150–200 lb double indépendant",
+        "Rapport poulie": "2:1 (~75–100 lb/bras)",
+        "Positions câble": "Réglable, sol à tête",
+        "Empreinte": "~1,2x1,8 m",
+        "Prix": "~800–1.200 $"
+      },
+      "scores": {
+        "Qualité de fabrication": 4.5,
+        "Durabilité": 4.5,
+        "Polyvalence": 5.0,
+        "Facilité d'utilisation": 4.0,
+        "Rapport qualité-prix": 3.8
+      }
+    },
+    {
+      "offerId": "cable-crossover-by-titan-fitness",
+      "badge": "Plus d'options d'accessoires",
+      "review": "Le tractionneur Titan offre plus d'options d'accessoires que Force USA avec câbles réglables en hauteur et doubles colonnes indépendantes. Qualité de finition légèrement inférieure à Force USA mais le cadre est structurellement adéquat.",
+      "pros": ["Plus d'accessoires que Force USA", "Doubles colonnes câble indépendantes réglables", "Bibliothèque complète d'exercices câble croisé"],
+      "cons": ["Hauteur sous plafond de 2,4 m requise", "Finition légèrement inférieure à Force USA"],
+      "grade": "B-",
+      "specs": {
+        "Colonnes de poids": "Double indépendant",
+        "Positions câble": "Réglable en hauteur",
+        "Plafond requis": "2,4 m minimum",
+        "Accessoires": "Plus que Force USA",
+        "Prix": "~700–1.000 $"
+      },
+      "scores": {
+        "Qualité de fabrication": 4.2,
+        "Durabilité": 4.2,
+        "Polyvalence": 5.0,
+        "Facilité d'utilisation": 3.8,
+        "Rapport qualité-prix": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour salle débutante", "offerId": "lat-pulldown-machine-by-marcy", "reason": "Double station sous $450 avec empreinte compacte couvre tirage et rowing pour débutants"},
+    {"label": "Pour entraînement sérieux des dorsaux", "offerId": "body-solid-lat-pulldown", "reason": "Colonne 200+ lb avec construction commerciale supporte des années de surcharge progressive"},
+    {"label": "Pour espaces réduits", "offerId": "valor-fitness-cb-12", "reason": "Empreinte 0,9x0,9 m est la plus petite machine tirage dédiée dans cette gamme"},
+    {"label": "Pour polyvalence câble complète", "offerId": "functional-trainer-by-force-usa", "reason": "Remplace plusieurs machines câble en une seule avec meilleur support garantie"},
+    {"label": "Pour variété d'accessoires", "offerId": "cable-crossover-by-titan-fitness", "reason": "Plus d'options d'attaches que tout concurrent pour une variation d'exercice facile"}
+  ]
 }

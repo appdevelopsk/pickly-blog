@@ -58,5 +58,181 @@
     "adjustable-preacher-curl-attachment": "웨이트 벤치용 패드 어태치먼트, 바닥 공간 절약, 가변적 안정성. $40~80. 독립형 벤치에 대한 공간 효율적 대안. 양질의 조정 가능한 벤치를 가진 운동선수가 가끔 프리처 컬 기능을 원하는 경우에 최적."
   },
   "pinDescription": "2026년 프리처 컬 벤치: Body-Solid vs Marcy vs Valor vs REP, 프리처 컬이 스트레칭된 이두근 위치를 타겟으로 하는 이유, 독립형 벤치 vs 어태치먼트, 홈짐에 프리처 컬 벤치를 구매할 가치가 있는지. #한국어",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 벤치는 패드 각도 및 하중 하 폼 밀도, 시트 조절 범위, EZ 컬 바 대비 암 패드 너비, 최대 노력 세트 중 프레임 굴곡, 12개월 이상 정기 사용 후 사용자 보고서 기반 용접 장기 무결성으로 평가되었습니다.",
+  "products": [
+    {
+      "offerId": "body-solid-preacher-curl-bench",
+      "badge": "최고 종합 추천",
+      "review": "Body-Solid는 무거운 EZ 바 세트에서도 패드가 압축되어 이동하지 않고 상완을 단단히 고정합니다. 조절 가능한 시트는 대부분의 몸통 길이에 맞으며, 넓은 암 패드는 두 팔을 비좁지 않게 지지합니다. 3년 이상의 패드 내구성은 REP에 비해 약점으로 가끔 언급됩니다.",
+      "pros": [
+        "두꺼운 HD 폼이 무거운 바벨 하중 하에서도 형태 유지",
+        "4–5개 시트 위치가 대부분의 몸통 길이에 적합",
+        "넓은 암 패드로 양팔 EZ 컬 바 운동 가능"
+      ],
+      "cons": [
+        "매일 사용 시 2–3년 후 폼 외피가 갈라질 수 있음"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Frame": "Heavy-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "4–5",
+        "Arm pad width": "~38 cm",
+        "Price range": "$100–150",
+        "Footprint": "~46×56 cm",
+        "Weight capacity": "150 kg"
+      },
+      "scores": {
+        "Stability": 4.8,
+        "Pad quality": 4.5,
+        "Build quality": 4.7,
+        "Value": 4.6,
+        "Adjustability": 4.4
+      }
+    },
+    {
+      "offerId": "rep-fitness-preacher-curl-bench",
+      "badge": "최고 품질",
+      "review": "REP는 격렬한 사용 후에도 단단하고 균열 없이 유지되는 상업용 등급 패딩을 사용합니다. 더 많은 시트 위치는 185cm 이상의 선수들을 편안하게 수용합니다. Body-Solid 대비 프리미엄은 주 2회 이상 팔 운동을 할 때만 의미가 있습니다.",
+      "pros": [
+        "상업용 폼이 압축 및 균열에 저항",
+        "이 비교에서 시트 위치 가장 많음",
+        "무거운 프레임이 가중 케이블 설정 처리"
+      ],
+      "cons": [
+        "$130–180 가격은 가끔 팔 운동에는 정당화하기 어려움"
+      ],
+      "grade": "A",
+      "specs": {
+        "Frame": "Heavy-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "6+",
+        "Arm pad width": "~40 cm",
+        "Price range": "$130–180",
+        "Footprint": "~48×58 cm",
+        "Weight capacity": "180 kg"
+      },
+      "scores": {
+        "Stability": 4.9,
+        "Pad quality": 4.9,
+        "Build quality": 4.9,
+        "Value": 4.0,
+        "Adjustability": 4.8
+      }
+    },
+    {
+      "offerId": "valor-fitness-preacher-curl-bench",
+      "badge": "최고 중간 가격대",
+      "review": "Valor는 Marcy의 저가 구조와 Body-Solid의 가격 사이를 점합니다 — 용접부가 훨씬 깔끔하고 폼이 Marcy보다 훨씬 두껍습니다.",
+      "pros": [
+        "저가 대안보다 두꺼운 폼",
+        "Marcy보다 깔끔한 용접 품질",
+        "중간 훈련 하중에서 안정적"
+      ],
+      "cons": [
+        "폼 밀도는 여전히 Body-Solid 및 REP 이하"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Frame": "Medium-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "3–4",
+        "Arm pad width": "~36 cm",
+        "Price range": "$80–120",
+        "Footprint": "~44×54 cm",
+        "Weight capacity": "136 kg"
+      },
+      "scores": {
+        "Stability": 4.4,
+        "Pad quality": 4.2,
+        "Build quality": 4.3,
+        "Value": 4.5,
+        "Adjustability": 4.0
+      }
+    },
+    {
+      "offerId": "marcy-preacher-curl-bench",
+      "badge": "최고 예산 모델",
+      "review": "Marcy는 30kg 미만의 하중과 가끔 훈련 빈도에서 기능적입니다. 더 얇은 패딩과 더 가벼운 프레임은 더 무거운 하중에서 눈에 띄게 됩니다.",
+      "pros": [
+        "독립형 프리처 벤치 중 최저 입문 가격",
+        "30kg 미만의 가끔 훈련에 충분",
+        "널리 구입 가능하고 조립 간편"
+      ],
+      "cons": [
+        "얇은 패딩이 더 무거운 하중에서 압축됨",
+        "Body-Solid 또는 Valor보다 가벼운 프레임"
+      ],
+      "grade": "B",
+      "specs": {
+        "Frame": "Light-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "3",
+        "Arm pad width": "~34 cm",
+        "Price range": "$70–100",
+        "Footprint": "~42×52 cm",
+        "Weight capacity": "120 kg"
+      },
+      "scores": {
+        "Stability": 3.8,
+        "Pad quality": 3.5,
+        "Build quality": 3.7,
+        "Value": 4.3,
+        "Adjustability": 3.6
+      }
+    },
+    {
+      "offerId": "adjustable-preacher-curl-attachment",
+      "badge": "최고 공간 절약",
+      "review": "어태치먼트는 기존 조절 가능 벤치를 프리처 스테이션으로 변환합니다 — 추가 바닥 공간 없음. 안정성은 부착되는 베이스 벤치의 품질에 전적으로 달려 있습니다.",
+      "pros": [
+        "기존 벤치 이상의 바닥 공간 불필요",
+        "독립형 $100+ 대비 ~$40–80",
+        "미사용 시 접을 수 있음"
+      ],
+      "cons": [
+        "안정성이 베이스 벤치 품질에 따라 크게 다름",
+        "무거운 바벨 프리처 컬 작업에 부적합"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Bench attachment",
+        "Compatibility": "Standard adjustable benches",
+        "Pad angle": "45°",
+        "Price range": "$40–80",
+        "Storage": "Folds flat",
+        "Weight capacity": "Depends on base bench",
+        "Grip width": "Single arm or two-arm"
+      },
+      "scores": {
+        "Stability": 3.2,
+        "Pad quality": 3.6,
+        "Build quality": 3.4,
+        "Value": 4.7,
+        "Adjustability": 3.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "주 2회 전용 팔 훈련을 위해",
+      "offerId": "rep-fitness-preacher-curl-bench",
+      "reason": "상업용 등급 패딩과 추가 시트 위치가 고빈도 사용에서도 폼 품질을 저하시키지 않습니다."
+    },
+    {
+      "label": "대부분의 홈짐 설정을 위해",
+      "offerId": "body-solid-preacher-curl-bench",
+      "reason": "넓은 암 패드, 견고한 프레임, 여러 시트 위치가 합리적인 가격에 모든 프리처 컬 변형을 커버합니다."
+    },
+    {
+      "label": "예산이 빠듯하거나 가끔 사용을 위해",
+      "offerId": "marcy-preacher-curl-bench",
+      "reason": "가벼운 하중과 낮은 빈도에서 기능적 — 프리처 벤치를 얼마나 자주 사용할지 불확실한 경우의 올바른 진입점."
+    },
+    {
+      "label": "조절 가능한 벤치가 있는 공간 제한 홈짐을 위해",
+      "offerId": "adjustable-preacher-curl-attachment",
+      "reason": "이미 소유한 벤치 이상의 바닥 공간 불필요 — 독립형 벤치가 다른 장비를 포기하는 것을 의미할 경우 실용적."
+    }
+  ]
 }

@@ -109,5 +109,139 @@
     "canon-ivy-cliq-plus-2": "Canon IVY CLIQ+2 — papier thermique ZINK zéro encre, tirages de 51×76mm (2×3 pouces), app Bluetooth avec édition et effets AR, miroir selfie de 2 pouces, environ ¥15 000. Disponible sur Rakuten Ichiba. Les tirages de 51×76mm sont les plus petits de cette comparaison ; les couleurs du papier ZINK peuvent sembler moins saturées ; le processus thermique ZINK peut produire des couleurs inégales en environnement froid ; à ¥15 000 le prix est difficile à justifier face au Kodak Mini Shot à ¥10 000."
   },
   "pinDescription": "5 appareils photo instantanés comparés pour 2026 — Instax Mini 12 tout automatique vs Instax Wide 300 photos de groupe vs Polaroid Now+ app créative vs Kodak Mini Shot 3 Retro hybride smartphone vs Canon IVY CLIQ+2 ZINK. Calcul du coût du film, réalité de la taille des tirages, contexte du marché japonais. Votre prochain appareil instantané commence ici. #photosinstantanees #photographie #français",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Chaque appareil a été noté sur les dimensions réelles de tirage et la qualité d'image des processus halogénure d'argent, thermique et ZINK, le coût courant par tirage au Japon, la facilité d'utilisation sans dépendance à une app, la qualité de fabrication selon les rapports de durabilité des propriétaires, et les fonctions de connectivité évaluées par rapport à des cas d'usage réels.",
+  "products": [
+    {
+      "offerId": "fujifilm-instax-mini-12",
+      "badge": "Meilleur Choix Global",
+      "review": "L'Instax Mini 12 est l'appareil photo instantané le plus convaincant pour les débutants : exposition entièrement automatique, pas de menu, pas de dépendance à une app. Le tirage halogénure d'argent 62×46mm offre une vraie qualité photographique sans artefacts thermiques. Le miroir selfie et le mode gros plan sont particulièrement utiles pour les instantanés du quotidien. Le seul compromis : ~¥100 par tirage est plus cher que les impressions numériques, mais c'est le prix de l'expérience photo instantanée authentique.",
+      "pros": ["Exposition entièrement automatique — pas de menu, pas de configuration", "Tirages halogénure d'argent avec vraie qualité photo", "133g en fait l'option la plus portable de la comparaison"],
+      "cons": ["~¥100 par tirage plus cher que les alternatives d'impression thermique"],
+      "grade": "A+",
+      "specs": {
+        "Format de film": "Instax Mini (62×46mm)",
+        "Procédé d'impression": "Halogénure d'argent",
+        "Poids": "133 g",
+        "Coût par tirage": "~¥100",
+        "Prix (appareil)": "~¥8 000",
+        "Caractéristiques": "Miroir selfie, mode gros plan"
+      },
+      "scores": {
+        "Print quality": 4.2,
+        "Film cost": 4.5,
+        "Ease of use": 5.0,
+        "Value": 4.8,
+        "Build quality": 4.0
+      }
+    },
+    {
+      "offerId": "fujifilm-instax-wide-300",
+      "badge": "Meilleur pour les Photos de Groupe",
+      "review": "L'Instax Wide 300 produit des tirages de 85×54mm — deux fois plus grands que le format Mini — ce qui en fait la seule option de la comparaison pour de vraies photos de groupe. Le procédé halogénure d'argent offre la même qualité que le Mini 12, dans un format bien plus utile pour les paysages et les photos souvenir. Le compromis : l'appareil est encombrant et ne rentre pas dans les petits sacs.",
+      "pros": ["Tirages 85×54mm, deux fois plus grands que le format Mini", "Qualité halogénure d'argent pour de vrais souvenirs photo", "Roue d'exposition pour réglage manuel"],
+      "cons": ["Appareil encombrant — ne rentre pas dans les petits sacs"],
+      "grade": "A",
+      "specs": {
+        "Format de film": "Instax Wide (85×54mm)",
+        "Procédé d'impression": "Halogénure d'argent",
+        "Coût par tirage": "~¥120",
+        "Prix (appareil)": "~¥12 000",
+        "Exposition": "Roue d'exposition",
+        "Caractéristiques": "Plus grand format de film de la comparaison"
+      },
+      "scores": {
+        "Print quality": 4.5,
+        "Film cost": 4.3,
+        "Ease of use": 4.0,
+        "Value": 4.2,
+        "Build quality": 4.0
+      }
+    },
+    {
+      "offerId": "polaroid-now-plus",
+      "badge": "Option la Plus Créative",
+      "review": "Le Polaroid Now+ combine l'esthétique nostalgique i-Type de Polaroid avec le contrôle par app Bluetooth, la double exposition, la multi-exposition et la mise au point manuelle. Le résultat est l'appareil instantané le plus créatif du test. Le prix du film est le principal problème : le film i-Type coûte ~¥200/tirage — deux fois plus que l'Instax Mini — et le résultat est moins reproductible.",
+      "pros": ["App Bluetooth avec double exposition et retardateur", "Mise au point manuelle pour un contrôle créatif", "Esthétique Polaroid iconique avec des fonctions modernes"],
+      "cons": ["Film i-Type ~¥200/tirage — le plus cher de la comparaison"],
+      "grade": "B+",
+      "specs": {
+        "Format de film": "Polaroid i-Type (88×107mm)",
+        "Procédé d'impression": "Halogénure d'argent",
+        "Coût par tirage": "~¥200",
+        "Prix (appareil)": "~¥18 000",
+        "Connectivité": "Bluetooth",
+        "Caractéristiques": "Double exposition, mise au point manuelle"
+      },
+      "scores": {
+        "Print quality": 4.3,
+        "Film cost": 2.5,
+        "Ease of use": 3.8,
+        "Value": 3.5,
+        "Build quality": 4.2
+      }
+    },
+    {
+      "offerId": "kodak-mini-shot-3-retro",
+      "badge": "Coût de Fonctionnement le Plus Bas",
+      "review": "Le Kodak Mini Shot 3 Retro est le seul hybride du test : imprimez directement depuis l'appareil ou transférez des photos depuis le smartphone via l'app. La sublimation de colorant 4PASS produit des tirages plus durables que le film Instax. Le coût de fonctionnement est de ~¥50/tirage, le plus bas de la comparaison. Le compromis : la qualité d'impression est subtilement moins vive que l'halogénure d'argent.",
+      "pros": ["~¥50/tirage — le coût de fonctionnement le plus bas de la comparaison", "Mode dual : appareil direct et app smartphone", "Sublimation de colorant 4PASS plus durable que le film halogénure d'argent"],
+      "cons": ["Qualité d'impression subtilement moins vive que le vrai halogénure d'argent"],
+      "grade": "B",
+      "specs": {
+        "Format de film": "Kodak Mini (68×84mm)",
+        "Procédé d'impression": "Sublimation de colorant 4PASS",
+        "Coût par tirage": "~¥50",
+        "Prix (appareil)": "~¥10 000",
+        "Connectivité": "Bluetooth + USB",
+        "Caractéristiques": "Hybride smartphone"
+      },
+      "scores": {
+        "Print quality": 4.0,
+        "Film cost": 5.0,
+        "Ease of use": 3.5,
+        "Value": 4.5,
+        "Build quality": 3.8
+      }
+    },
+    {
+      "offerId": "canon-ivy-cliq-plus-2",
+      "badge": "Meilleure Intégration Smartphone",
+      "review": "Le Canon IVY CLIQ+2 offre l'intégration smartphone la plus profonde : éditez et filtrez avant d'imprimer, ajoutez des effets AR et imprimez directement depuis l'app. Le procédé thermique ZINK élimine complètement le coût du film. La limitation est la taille d'impression : 51×76mm est le plus petit format de la comparaison, et les couleurs ZINK sont moins saturées que l'halogénure d'argent.",
+      "pros": ["L'intégration smartphone la plus profonde avec édition avant impression", "Effets AR et filtres pour personnalisation créative", "Pas besoin de film halogénure d'argent coûteux"],
+      "cons": ["51×76mm le plus petit format d'impression ; couleurs ZINK moins saturées"],
+      "grade": "B-",
+      "specs": {
+        "Format de film": "51×76mm (2×3 pouces)",
+        "Procédé d'impression": "Thermique ZINK",
+        "Coût par tirage": "~¥40",
+        "Prix (appareil)": "~¥15 000",
+        "Connectivité": "Bluetooth",
+        "Caractéristiques": "Édition avant impression, effets AR"
+      },
+      "scores": {
+        "Print quality": 3.5,
+        "Film cost": 3.5,
+        "Ease of use": 4.2,
+        "Value": 3.3,
+        "Build quality": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les débutants qui cherchent une expérience instantanée simple",
+      "offerId": "fujifilm-instax-mini-12",
+      "reason": "Entièrement automatique sans menu et vraie qualité halogénure d'argent en font le départ le plus simple."
+    },
+    {
+      "label": "Pour les créatifs qui veulent plus de contrôle",
+      "offerId": "polaroid-now-plus",
+      "reason": "L'app Bluetooth avec double exposition et mise au point manuelle offre les plus larges possibilités créatives."
+    },
+    {
+      "label": "Pour les budgets serrés axés sur le smartphone",
+      "offerId": "kodak-mini-shot-3-retro",
+      "reason": "~¥50/tirage et mode hybride smartphone offrent le meilleur compromis entre coût et flexibilité."
+    }
+  ]
 }

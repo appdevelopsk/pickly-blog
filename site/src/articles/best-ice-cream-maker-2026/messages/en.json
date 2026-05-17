@@ -66,5 +66,64 @@
     "kitchenaid-ice-cream-maker-attachment": "Pre-freeze canister attachment for KitchenAid stand mixer. No separate motor needed. $50-70. Best for existing KitchenAid owners who want ice cream capability without another appliance on the counter."
   },
   "pinDescription": "Ice cream maker comparison 2026: Cuisinart ICE-21 vs Whynter compressor vs Breville Smart Scoop vs Ninja Creami vs KitchenAid attachment — churning method, freeze time, and which machine makes the smoothest ice cream compared.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each machine was evaluated on freeze/churn quality across three base types (standard custard, sorbet, high-protein), capacity relative to household size, time to first scoop, ease of cleaning, and realistic price-to-performance ratio.",
+  "products": [
+    {
+      "offerId": "cuisinart-ice-21-ice-cream-maker",
+      "badge": "Best Overall",
+      "review": "The Cuisinart ICE-21 has been the best-selling home ice cream maker in North America for over two decades because the mechanism is genuinely good and the price has stayed honest. Pre-freeze the double-insulated bowl, churn for 20–25 minutes, and you get consistent creamy ice cream for about $50–60. The real limitation is the planning requirement — the bowl needs 24 hours in the freezer before you can use it, which eliminates spontaneous batches. For most households that make ice cream occasionally, this is a non-issue.",
+      "pros": ["Under $60 for proven, reliable churning performance", "Replacement canisters available if bowl fails", "Compact footprint compared to compressor machines"],
+      "cons": ["24-hour pre-freeze planning required for every batch"],
+      "grade": "A+",
+      "specs": {"Capacity": "1.5 quarts", "Type": "Pre-freeze canister", "Churn time": "20–25 min", "Motor": "~100W", "Dishwasher safe": "Bowl: No, Paddle: Yes", "Dimensions": "20 × 18 × 23 cm"},
+      "scores": {"Freeze quality": 4.2, "Capacity": 3.5, "Speed": 3.0, "Ease of use": 4.8, "Value": 5.0}
+    },
+    {
+      "offerId": "whynter-icm-200ls-ice-cream-maker",
+      "badge": "Best Compressor",
+      "review": "The Whynter ICM-200LS removes the planning barrier entirely — built-in compressor, 2.1 quarts, no pre-freezing needed. Mix a base, pour it in, have ice cream in 30–40 minutes. The pre-cool function chills the bowl before adding ingredients, which measurably improves texture by starting the churn colder. Multiple batches the same day are possible with a 10-minute rest between them. At $250–300, you're paying for the compressor and the on-demand convenience; the ice cream quality itself is comparable to the Cuisinart.",
+      "pros": ["No pre-freezing — ice cream on demand in under an hour", "2.1 qt largest capacity in this comparison", "Pre-cool + hardening functions for better texture control"],
+      "cons": ["Large footprint — requires dedicated counter or deep cabinet space"],
+      "grade": "A",
+      "specs": {"Capacity": "2.1 quarts", "Type": "Built-in compressor", "Churn time": "30–45 min", "Compressor": "Self-contained", "Noise level": "~55 dB", "Dimensions": "40 × 28 × 38 cm"},
+      "scores": {"Freeze quality": 4.5, "Capacity": 5.0, "Speed": 4.5, "Ease of use": 4.5, "Value": 3.8}
+    },
+    {
+      "offerId": "breville-bci600xl-smart-scoop",
+      "badge": "Best Precision",
+      "review": "The Breville Smart Scoop's automated hardness sensor is the feature that separates it from other compressor machines — it reads motor resistance as the mix thickens and stops churning at your selected firmness level (11 settings from soft-serve to extra-firm) without you having to watch or judge. The 3-hour keep-soft function holds the finished ice cream at serving temperature without re-hardening. For households making gelato, sorbet, and ice cream regularly across different base types, the automated precision is worth the $350–400 premium. If you only make one type, a Whynter does the job for less.",
+      "pros": ["Automated hardness sensor removes guesswork across different base types", "3-hour keep-soft function maintains serving consistency", "30-min pre-cool mode for optimal starting temperature"],
+      "cons": ["$350–400 is hard to justify for single-base-type households"],
+      "grade": "B+",
+      "specs": {"Capacity": "1 quart", "Type": "Built-in compressor", "Hardness settings": "11", "Pre-cool time": "30 min", "Keep-soft": "Up to 3 hours", "Dimensions": "39 × 22 × 28 cm"},
+      "scores": {"Freeze quality": 4.9, "Capacity": 3.2, "Speed": 4.2, "Ease of use": 4.0, "Value": 3.2}
+    },
+    {
+      "offerId": "ninja-creami-ice-cream-maker",
+      "badge": "Best for Non-Standard Bases",
+      "review": "Ninja Creami doesn't churn — it blade-processes a fully frozen pint container at high speed, creating smooth texture from a solid frozen block. This unlocks bases that would fail to churn properly in any traditional machine: high-protein, high-fiber, fruit-only, or low-fat compositions. The resulting texture is notably smooth regardless of base composition. The constraint is batch size (one pint at a time) and the 12–24 hour pre-freeze requirement before processing. For diet-conscious or protein-focused households, this machine opens options that don't exist elsewhere.",
+      "pros": ["Processes high-protein and non-standard bases that traditional churning can't handle", "Very smooth texture from blade processing", "Pint-size portions suit one or two people perfectly"],
+      "cons": ["One pint per batch — large households need multiple pre-frozen containers"],
+      "grade": "B",
+      "specs": {"Capacity": "1 pint per batch", "Type": "Blade processor", "Pre-freeze time": "12–24 hours", "Processing time": "~2 min", "Container": "Dedicated pint containers", "Dimensions": "33 × 15 × 38 cm"},
+      "scores": {"Freeze quality": 4.6, "Capacity": 2.5, "Speed": 2.5, "Ease of use": 4.2, "Value": 4.0}
+    },
+    {
+      "offerId": "kitchenaid-ice-cream-maker-attachment",
+      "badge": "Best for KitchenAid Owners",
+      "review": "If you already own a KitchenAid stand mixer, this attachment adds ice cream capability for $50–70 without another motor base occupying counter space. Pre-freeze the canister (same 24-hour requirement as the Cuisinart), attach it to your mixer, and churn for about 25–30 minutes. Performance is comparable to the Cuisinart ICE-21. The real advantage is equipment consolidation — one less appliance if you're already invested in the KitchenAid ecosystem. For anyone without a KitchenAid, just buy the Cuisinart instead.",
+      "pros": ["No separate motor base — leverages existing KitchenAid investment", "Compact storage — only the bowl needs space", "Comparable churn quality to standalone Cuisinart"],
+      "cons": ["Only makes sense if you already own a KitchenAid stand mixer"],
+      "grade": "B-",
+      "specs": {"Capacity": "1.9 quarts", "Type": "Pre-freeze canister attachment", "Compatible with": "All KitchenAid tilt-head & bowl-lift", "Churn time": "25–30 min", "Dishwasher safe": "Bowl: No", "Storage": "Bowl only"},
+      "scores": {"Freeze quality": 4.0, "Capacity": 4.2, "Speed": 2.8, "Ease of use": 4.5, "Value": 4.3}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For occasional home use", "offerId": "cuisinart-ice-21-ice-cream-maker", "reason": "Best price-to-performance for households that make ice cream a few times a month and don't mind planning 24 hours ahead."},
+    {"label": "For on-demand production", "offerId": "whynter-icm-200ls-ice-cream-maker", "reason": "Built-in compressor means no pre-freeze wait — make multiple batches the same day without planning."},
+    {"label": "For precision across multiple base types", "offerId": "breville-bci600xl-smart-scoop", "reason": "Automated hardness sensor adapts to gelato, sorbet, and ice cream without manual monitoring."},
+    {"label": "For protein-focused or diet-conscious households", "offerId": "ninja-creami-ice-cream-maker", "reason": "Blade processing handles high-protein, fruit-only, and low-fat bases that churning machines can't execute well."},
+    {"label": "For existing KitchenAid owners", "offerId": "kitchenaid-ice-cream-maker-attachment", "reason": "Adds ice cream capability without another appliance — the logical choice if you already own a KitchenAid."}
+  ]
 }

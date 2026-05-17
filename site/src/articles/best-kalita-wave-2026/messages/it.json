@@ -58,5 +58,148 @@
     "fellow-stagg-ekg-kettle": "Beccuccio a collo d'oca, temperatura variabile 57-100°C, funzione di mantenimento, 0.9 L. $150-170. Miglior bollitore pour-over — controllo preciso del flusso, impostazione esatta della temperatura, mantenimento 60 min. Abbinamento corretto per Kalita Wave, V60 e Chemex."
   },
   "pinDescription": "Kalita Wave pour-over 2026: 185 vs 155, inox vs ceramica vs vetro, come il design a fondo piatto rende il pour-over piu indulgente del V60 e quale bollitore a collo d'oca abbinare. #italiano",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni dripper è stato valutato sulla costanza di estrazione con diverse tecniche di versamento, l'impatto del materiale sulla ritenzione del calore, la durabilità, la facilità di pulizia e l'adeguatezza sia per barista principianti che esperti.",
+  "products": [
+    {
+      "offerId": "kalita-wave-185-stainless",
+      "badge": "Migliore in assoluto",
+      "review": "Il Wave 185 inox è la versione più robusta del dripper: infrangibile, lavabile in lavastoviglie e con una migliore ritenzione del calore rispetto al vetro. L'unico vero inconveniente è un leggero sapore metallico sulle unità nuove che scompare dopo i primi 5-10 utilizzi.",
+      "pros": ["Infrangibile e lavabile in lavastoviglie", "Migliore ritenzione del calore rispetto al vetro", "Dura anni con un uso quotidiano intenso"],
+      "cons": ["Leggero sapore metallico sulle unità nuove che scompare dopo alcuni utilizzi"],
+      "grade": "A+",
+      "specs": {
+        "Materiale": "Acciaio inox",
+        "Dimensione": "185 (2-4 tazze)",
+        "Fori di scarico": "3 fori piatti",
+        "Compatibilità filtro": "Filtri Wave 185",
+        "Lavabile in lavastoviglie": "Sì",
+        "Prezzo": "$30-40"
+      },
+      "scores": {
+        "Chiarezza dell'estrazione": 4.5,
+        "Qualità costruttiva": 5.0,
+        "Facilità d'uso": 4.9,
+        "Valore": 4.7,
+        "Versatilità": 4.8
+      }
+    },
+    {
+      "offerId": "kalita-wave-155-ceramic",
+      "badge": "Migliore per porzione singola",
+      "review": "Il Wave 155 in ceramica è ottimizzato per la profondità del letto di una singola tazza: il diametro più piccolo concentra il caffè macinato in modo che la saturazione sia più uniforme rispetto a un 185 con la stessa dose. La ceramica aggiunge un sapore pulito senza tracce metalliche, ma attenzione agli urti.",
+      "pros": ["Profondità del letto ottimizzata per 1 tazza", "La ceramica non trasmette sapori", "Tocco e peso premium"],
+      "cons": ["Fragile — un urto forte può romperlo"],
+      "grade": "A",
+      "specs": {
+        "Materiale": "Ceramica",
+        "Dimensione": "155 (1-2 tazze)",
+        "Fori di scarico": "3 fori piatti",
+        "Compatibilità filtro": "Filtri Wave 155",
+        "Ritenzione del calore": "Buona",
+        "Prezzo": "$35-50"
+      },
+      "scores": {
+        "Chiarezza dell'estrazione": 4.8,
+        "Qualità costruttiva": 3.8,
+        "Facilità d'uso": 4.7,
+        "Valore": 4.5,
+        "Versatilità": 3.5
+      }
+    },
+    {
+      "offerId": "kalita-wave-185-glass",
+      "badge": "Migliore per imparare la tecnica",
+      "review": "Il Wave 185 in vetro è il miglior insegnante: vedere il bloom espandersi, osservare la velocità di scarico e rilevare visivamente il channeling accelera l'apprendimento più di qualsiasi guida. La minore ritenzione del calore rispetto alla ceramica o all'inox è reale — preriscalda il dripper.",
+      "pros": ["Corpo trasparente per un feedback visivo completo", "Vetro resistente al calore", "L'esperienza visiva migliora la tecnica"],
+      "cons": ["Minore ritenzione del calore ed è l'opzione più fragile"],
+      "grade": "B+",
+      "specs": {
+        "Materiale": "Vetro borosilicato",
+        "Dimensione": "185 (2-4 tazze)",
+        "Fori di scarico": "3 fori piatti",
+        "Compatibilità filtro": "Filtri Wave 185",
+        "Trasparente": "Sì",
+        "Prezzo": "$45-60"
+      },
+      "scores": {
+        "Chiarezza dell'estrazione": 4.6,
+        "Qualità costruttiva": 3.2,
+        "Facilità d'uso": 4.5,
+        "Valore": 4.3,
+        "Versatilità": 4.0
+      }
+    },
+    {
+      "offerId": "kalita-wave-filters-185",
+      "badge": "Consumabile essenziale",
+      "review": "I filtri Wave sono il componente che fa funzionare il sistema: le pieghe a forma d'onda creano uno spazio d'aria tra la carta e le pareti del dripper, eliminando il contatto diretto e consentendo un flusso uniforme. Non sono intercambiabili con V60, Chemex o qualsiasi altro filtro.",
+      "pros": ["Lo spazio d'aria garantisce un'estrazione uniforme", "100 pezzi per ~$10-15 (basso costo per tazza)", "Disponibili su Amazon con consegna rapida"],
+      "cons": ["Funzionano solo con i dripper Kalita Wave — non intercambiabili"],
+      "grade": "B",
+      "specs": {
+        "Compatibilità": "Kalita Wave 185",
+        "Quantità per confezione": "100 pezzi",
+        "Tipo": "Carta, pieghe a forma d'onda",
+        "Prezzo per pezzo": "~$0.10-0.15",
+        "Prezzo confezione": "~$10-15"
+      },
+      "scores": {
+        "Chiarezza dell'estrazione": 4.5,
+        "Qualità costruttiva": 4.0,
+        "Facilità d'uso": 4.8,
+        "Valore": 4.7,
+        "Versatilità": 3.0
+      }
+    },
+    {
+      "offerId": "fellow-stagg-ekg-kettle",
+      "badge": "Miglior bollitore abbinato",
+      "review": "Lo Stagg EKG ha il beccuccio a collo d'oca più controllabile sul mercato pour-over: il flusso è prevedibile, la temperatura variabile va da 57 a 100°C con precisione al grado, e la funzione di mantenimento di 60 minuti impedisce all'acqua di raffreddarsi tra un versamento e l'altro. Il prezzo di $150-170 è l'unica vera obiezione.",
+      "pros": ["Controllo del flusso di versamento con massima precisione", "Funzione di mantenimento della temperatura 60 minuti", "Progettato specificamente per il pour-over"],
+      "cons": ["Prezzo premium di $150-170 difficile da giustificare se si ha già un buon bollitore"],
+      "grade": "B-",
+      "specs": {
+        "Tipo di beccuccio": "Collo d'oca",
+        "Intervallo di temperatura": "57-100°C",
+        "Capacità": "0,9 L",
+        "Funzione di mantenimento": "Sì, 60 min",
+        "Display": "LCD",
+        "Prezzo": "$150-170"
+      },
+      "scores": {
+        "Chiarezza dell'estrazione": 4.9,
+        "Qualità costruttiva": 4.8,
+        "Facilità d'uso": 4.5,
+        "Valore": 3.8,
+        "Versatilità": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Uso quotidiano intenso",
+      "offerId": "kalita-wave-185-stainless",
+      "reason": "Infrangibile e lavabile in lavastoviglie — ideale se prepari 2+ tazze ogni mattina e non vuoi preoccuparti di romperlo."
+    },
+    {
+      "label": "Rituale della tazza singola",
+      "offerId": "kalita-wave-155-ceramic",
+      "reason": "Il 155 in ceramica è ottimizzato per 1 tazza: il rapporto tra profondità del letto e diametro offre un'estrazione più uniforme rispetto al 185 con dosi piccole."
+    },
+    {
+      "label": "Barista in apprendimento",
+      "offerId": "kalita-wave-185-glass",
+      "reason": "La trasparenza del vetro ti permette di vedere il bloom, il ritmo di scarico e il channeling — un feedback visivo che nessun altro dripper opaco può darti."
+    },
+    {
+      "label": "Rifornimento di consumabili",
+      "offerId": "kalita-wave-filters-185",
+      "reason": "I filtri Wave sono obbligatori e non intercambiabili — fai scorta in confezioni da 100 pezzi per non rimanere mai senza."
+    },
+    {
+      "label": "Controllo totale del versamento",
+      "offerId": "fellow-stagg-ekg-kettle",
+      "reason": "Lo Stagg EKG trasforma un buon dripper in un sistema di estrazione di precisione — per chi vuole controllare ogni variabile del processo."
+    }
+  ]
 }

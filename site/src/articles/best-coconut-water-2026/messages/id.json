@@ -58,5 +58,144 @@
     "zico-natural-coconut-water": "Dipasteurisasi, tanpa gula tambahan, 16,9 oz. $2,50–3,50. Air kelapa profil kering terbaik — sedikit kurang manis dari Vita Coco, disukai atlet. Tepat untuk penggunaan pasca olahraga di mana rasa yang kurang manis lebih disukai."
   },
   "pinDescription": "Air kelapa 2026: Vita Coco vs Harmless Harvest vs ZICO vs Taste Nirvana — raw vs pasteurisasi vs dari konsentrat dijelaskan, mengapa Harmless Harvest berwarna merah muda, perbandingan elektrolit air kelapa vs minuman olahraga, dan air kelapa terbaik untuk hidrasi sehari-hari.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Kami mengevaluasi setiap produk berdasarkan profil rasa, transparansi asal bahan, nilai per porsi, kualitas kemasan, dan performa dalam penggunaan sehari-hari. Sertifikasi yang terdokumentasi dan ulasan pengguna yang terverifikasi dikroscek dengan klaim pemasaran.",
+  "products": [
+    {
+      "offerId": "vita-coco-original",
+      "badge": "Pilihan Terbaik Keseluruhan",
+      "review": "Vita Coco Original adalah standar praktis untuk air kelapa sehari-hari — dipasteurisasi, tanpa gula tambahan, 670 mg kalium per sajian dalam Tetra Pak tahan lama yang tersedia di mana-mana. Pasteurisasi menghasilkan rasa lebih manis dan kurang kompleks dibanding pilihan mentah, tetapi konsisten, terpercaya, dan harganya cocok untuk pembelian per kasus.",
+      "pros": ["Tersedia di hampir semua supermarket dan toko online", "Tanpa gula tambahan — hanya elektrolit alami", "Tetra Pak tahan lama — tidak perlu kulkas"],
+      "cons": ["Pasteurisasi menghasilkan rasa lebih manis dan kurang kompleks dibanding air kelapa mentah"],
+      "grade": "A+",
+      "specs": {
+        "Ukuran": "500 ml Tetra Pak",
+        "Pengolahan": "Dipasteurisasi",
+        "Gula tambahan": "Tidak ada",
+        "Kalium": "~670 mg per sajian",
+        "Dari konsentrat": "Tidak"
+      },
+      "scores": {
+        "Rasa": 3.9,
+        "Nilai": 4.7,
+        "Nutrisi": 4.3,
+        "Kemudahan": 5.0,
+        "Kualitas": 4.0
+      }
+    },
+    {
+      "offerId": "harmless-harvest-raw",
+      "badge": "Terbaik Mentah / Premium",
+      "review": "Harmless Harvest adalah produk referensi untuk kualitas air kelapa mentah di AS — tidak pernah dipanaskan, diproses melalui rantai dingin dari Thailand, dengan warna merah muda samar dari antioksidan yang hanya muncul pada air kelapa yang benar-benar mentah. Rasanya jauh lebih kompleks dan lebih mendekati kelapa segar dibanding opsi pasteurisasi mana pun. Harga lebih tinggi dan format hanya berpendingin adalah kompromi nyata untuk kualitas nyata.",
+      "pros": ["Tidak pernah dipanaskan — rasa paling mendekati air kelapa segar yang tersedia di ritel", "Merah muda alami dari antioksidan — indikator kualitas, bukan cacat", "Diproses dengan rantai dingin dengan rantai pasokan lebih pendek dan transparan"],
+      "cons": ["Hanya berpendingin — membutuhkan ruang kulkas dan masa simpan lebih pendek"],
+      "grade": "A",
+      "specs": {
+        "Ukuran": "300–500 ml (berpendingin)",
+        "Pengolahan": "Mentah (tidak pernah dipanaskan)",
+        "Warna": "Jernih hingga merah muda samar (oksidasi antioksidan)",
+        "Kalium": "~470–600 mg per sajian",
+        "Dari konsentrat": "Tidak"
+      },
+      "scores": {
+        "Rasa": 4.9,
+        "Nilai": 3.2,
+        "Nutrisi": 4.7,
+        "Kemudahan": 3.5,
+        "Kualitas": 4.9
+      }
+    },
+    {
+      "offerId": "taste-nirvana-coconut-water",
+      "badge": "Nilai Menengah Terbaik",
+      "review": "Taste Nirvana mengisi celah antara aksesibilitas Vita Coco dan kualitas mentah Harmless Harvest — dipasteurisasi tetapi tidak dari konsentrat, bersumber langsung dari Thailand, tersedia dalam botol kaca yang lebih baik menjaga rasa dibanding Tetra Pak. Rasanya lebih mendekati kelapa segar dibanding Vita Coco tanpa harga premium mentah.",
+      "pros": ["Tidak dari konsentrat — rasa lebih segar dari Vita Coco", "Pilihan botol kaca untuk penjagaan rasa lebih baik", "Harga serupa Vita Coco — kualitas di atas rata-rata"],
+      "cons": ["Distribusi lebih terbatas dibanding Vita Coco — terutama online dan toko Asia"],
+      "grade": "B+",
+      "specs": {
+        "Ukuran": "280 ml kaleng atau botol kaca",
+        "Pengolahan": "Dipasteurisasi",
+        "Sumber": "Thailand (langsung)",
+        "Dari konsentrat": "Tidak",
+        "Kalium": "~430 mg per sajian"
+      },
+      "scores": {
+        "Rasa": 4.3,
+        "Nilai": 4.4,
+        "Nutrisi": 4.2,
+        "Kemudahan": 4.2,
+        "Kualitas": 4.3
+      }
+    },
+    {
+      "offerId": "c2o-pure-coconut-water",
+      "badge": "Format Kaleng Terbaik",
+      "review": "Format kaleng C2O memberikan penghalang cahaya penting yang tidak dimiliki Tetra Pak — paparan cahaya menurunkan senyawa rasa pada air kelapa selama masa simpan, dan kaleng aluminium mengurangi hal ini. Berasal dari Thailand, tidak dari konsentrat, 500 ml per kaleng. Kemampuan kaleng dingin menjaga suhu adalah keuntungan praktis tambahan.",
+      "pros": ["Kaleng memblokir cahaya — penjagaan rasa lebih baik selama masa simpan dibanding Tetra Pak", "Ukuran besar 500 ml per kaleng", "Tidak dari konsentrat, bersumber dari Thailand"],
+      "cons": ["Kurang tersedia dibanding Vita Coco — terutama di toko Asia dan online"],
+      "grade": "B",
+      "specs": {
+        "Ukuran": "500 ml kaleng",
+        "Pengolahan": "Dipasteurisasi",
+        "Kemasan": "Kaleng aluminium (penghalang cahaya)",
+        "Sumber": "Thailand",
+        "Dari konsentrat": "Tidak"
+      },
+      "scores": {
+        "Rasa": 4.2,
+        "Nilai": 4.3,
+        "Nutrisi": 4.1,
+        "Kemudahan": 4.3,
+        "Kualitas": 4.2
+      }
+    },
+    {
+      "offerId": "zico-natural-coconut-water",
+      "badge": "Terbaik untuk Atlet",
+      "review": "ZICO memiliki profil rasa yang sedikit lebih kering dan kurang manis dibanding Vita Coco — yang menjadikannya pilihan favorit atlet yang merasa manisnya Vita Coco terlalu dominan saat dan setelah berolahraga. Profil elektrolitnya sebanding. Distribusi sempat terbatas setelah Coca-Cola menghentikan dan meluncurkan kembali ZICO — cek stok sebelum mengandalkannya.",
+      "pros": ["Profil lebih kering — kurang manis dari Vita Coco, disukai banyak atlet", "Kandungan elektrolit sebanding dengan Vita Coco", "Tanpa gula tambahan, tahan lama"],
+      "cons": ["Distribusi terbatas sejak penghentian Coca-Cola tahun 2020 dan peluncuran ulang — cek ketersediaan"],
+      "grade": "B-",
+      "specs": {
+        "Ukuran": "500 ml",
+        "Pengolahan": "Dipasteurisasi",
+        "Gula tambahan": "Tidak ada",
+        "Kalium": "~600 mg per sajian",
+        "Profil rasa": "Kering / kurang manis"
+      },
+      "scores": {
+        "Rasa": 4.0,
+        "Nilai": 4.2,
+        "Nutrisi": 4.3,
+        "Kemudahan": 4.1,
+        "Kualitas": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Untuk hidrasi harian dengan harga terjangkau",
+      "offerId": "vita-coco-original",
+      "reason": "Tersedia di mana-mana, tahan lama, dan harga cocok untuk pembelian per kasus — standar andalan tanpa kejutan."
+    },
+    {
+      "label": "Untuk pengalaman paling mendekati segar",
+      "offerId": "harmless-harvest-raw",
+      "reason": "Mentah, tidak pernah dipanaskan, merah muda alami — rasa jauh lebih kompleks dari opsi pasteurisasi mana pun. Layak dengan harganya jika rasa adalah tujuan utama."
+    },
+    {
+      "label": "Untuk kualitas di atas rata-rata tanpa harga premium mentah",
+      "offerId": "taste-nirvana-coconut-water",
+      "reason": "Tidak dari konsentrat, bersumber langsung dari Thailand, ada pilihan botol kaca — lebih baik dari Vita Coco tanpa harga Harmless Harvest."
+    },
+    {
+      "label": "Untuk atlet setelah olahraga",
+      "offerId": "zico-natural-coconut-water",
+      "reason": "Profil sedikit lebih kering dan kurang manis disukai atlet yang merasa Vita Coco terlalu manis saat dan setelah berolahraga."
+    },
+    {
+      "label": "Untuk penyimpanan jangka panjang dengan fokus rasa",
+      "offerId": "c2o-pure-coconut-water",
+      "reason": "Penghalang cahaya kaleng aluminium menjaga senyawa rasa lebih baik dibanding kemasan karton selama masa simpan."
+    }
+  ]
 }

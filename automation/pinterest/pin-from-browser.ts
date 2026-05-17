@@ -5,8 +5,8 @@
  * 各アカウントのセッションは独立して管理される。
  *
  * Usage:
- *   npx tsx pin-from-browser.ts                  # 全ジャンル、未投稿を 5 件ずつ
- *   npx tsx pin-from-browser.ts --limit 10
+ *   npx tsx pin-from-browser.ts                  # 全ジャンル、未投稿を 25 件ずつ
+ *   npx tsx pin-from-browser.ts --limit 50
  *   npx tsx pin-from-browser.ts --genre fitness  # fitnesアカウントのみ
  *   npx tsx pin-from-browser.ts --locale ja
  *   npx tsx pin-from-browser.ts --dry-run
@@ -26,7 +26,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const PINS_PATH = path.resolve(__dirname, "pins.yaml");
 const STATE_PATH = path.join(os.homedir(), ".config/pickly/pinterest-browser-posted.json");
 const SITE_URL = "https://pickly.blog";
-const SLEEP_BETWEEN_PINS_MS = 15_000;
+const SLEEP_BETWEEN_PINS_MS = 10_000;
 
 interface Pin {
   pin_id: string;
@@ -155,9 +155,9 @@ async function postPin(page: Page, pin: Pin, boardName: string): Promise<boolean
   await dismissOnboarding(page);
   await page.waitForTimeout(1000);
 
-  // スクリーンショット (デバッグ用)
+  // スクリーンショット (デバッグ用、失敗しても続行)
   const ss = path.join(__dirname, `pin-debug-${Date.now()}.png`);
-  await page.screenshot({ path: ss });
+  await page.screenshot({ path: ss, timeout: 5_000 }).catch(() => {});
 
   // タイトル入力
   const titleInput = page.locator("input[placeholder*='Title' i], input[placeholder*='タイトル' i], textarea[placeholder*='Title' i]").first();
@@ -192,7 +192,7 @@ async function postPin(page: Page, pin: Pin, boardName: string): Promise<boolean
     "button:has-text('保存'), [data-test-id='pin-draft-save-button']"
   ).first();
   if (await publishBtn.count() === 0) {
-    console.log(`  ⚠ 公開ボタンが見つからない。スクリーンショット: ${ss}`);
+    console.log(`  ⚠ 公開ボタンが見つからない`);
     return false;
   }
   await publishBtn.click();
@@ -217,7 +217,7 @@ async function postPin(page: Page, pin: Pin, boardName: string): Promise<boolean
 async function main() {
   const args = process.argv.slice(2);
   const get = (f: string) => { const i = args.indexOf(f); return i >= 0 ? args[i + 1] : undefined; };
-  const limit = parseInt(get("--limit") ?? "5", 10);
+  const limit = parseInt(get("--limit") ?? "25", 10);
   const localeFilter = get("--locale");
   const genreFilter = get("--genre");
   const useDefault = args.includes("--use-default"); // 全ピンをデフォルトアカウントで投稿

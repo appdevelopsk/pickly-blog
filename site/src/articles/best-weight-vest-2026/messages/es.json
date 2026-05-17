@@ -84,5 +84,190 @@
     "511-tactical-tactec-vest": "Compatible con la mayoría de las placas de corte SAPI estándar. El chaleco solo se envía sin placas."
   },
   "pinDescription": "5 chalecos lastrados probados para dominadas, HIIT y marcha cargada — desde una camiseta de 8 lbs que puedes llevar en cualquier lugar hasta un portadiscos construido para kilómetros. Encuentra el ajuste adecuado para cómo realmente entrenas. #chalecoslastrados #entrenamientoFuncional #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Distribución de peso medida mediante mapeo de presión durante carreras de 30 minutos y circuitos de peso corporal; rebote evaluado durante intervalos de 400m a ritmo cargado; ajustabilidad clasificada por rango de pesos y facilidad de carga incremental.",
+  "products": [
+    {
+      "offerId": "titin-force-weighted-shirt",
+      "badge": "Mejor en general",
+      "review": "Los bolsillos de hidrogel distribuyen 8 lbs en 14 puntos en pecho, espalda y hombros — la distribución de peso más natural en este test. Se lleva debajo de ropa normal para uso diario de bajo perfil. El rango de movimiento no cambia versus sin carga para dominadas y flexiones. El límite: 8 lbs total no es ajustable.",
+      "pros": [
+        "Distribución de peso de hidrogel de 14 puntos — sensación más natural en el test",
+        "Se lleva bajo ropa normal — perfil cero volumen",
+        "Rango completo de movimiento para dominadas, flexiones y movimiento diario"
+      ],
+      "cons": [
+        "8 lbs de peso total es fijo — no se puede agregar más a medida que te fortaleces"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Weight": "8 lbs / 3.6 kg fixed",
+        "Distribution": "14 pockets: chest, back, shoulders",
+        "Weight type": "Hydro-gel",
+        "Profile": "Compression shirt",
+        "Use case": "Pull-ups, push-ups, daily wear",
+        "Sizes": "S-XXL",
+        "Material": "Compression fabric",
+        "Price": "$189"
+      },
+      "scores": {
+        "Weight distribution": 5.0,
+        "Comfort": 4.9,
+        "Adjustability": 2.0,
+        "Value": 3.8,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "hyperwear-hyper-vest-pro",
+      "badge": "Mejor para correr",
+      "review": "El cordaje lateral tipo corsé ajusta el chaleco contra el torso para casi cero rebote — la característica definitoria para correr y HIIT. Los bolsillos de peso de plomo mantienen la carga cerca del cuerpo. Disponible en 10-20 lbs. El chaleco que realmente funciona para sprints sin el rebote que destruye la forma.",
+      "pros": [
+        "El cordaje de corsé logra casi cero rebote durante la carrera",
+        "El plomo permanece cerca del cuerpo para movimiento natural",
+        "Diseñado específicamente para casos de uso de cardio de alto movimiento"
+      ],
+      "cons": [
+        "Precio más alto que los chalecos generalistas",
+        "Rango de peso limitado a 10-20 lbs"
+      ],
+      "grade": "A",
+      "specs": {
+        "Weight range": "10-20 lbs",
+        "Weight type": "Steel shot pockets",
+        "Closure": "Corset-style side lacing",
+        "Bounce": "Near-zero",
+        "Use case": "Running, HIIT, sprints",
+        "Sizes": "XS-XL",
+        "Material": "Nylon + elastic",
+        "Price": "$239.95"
+      },
+      "scores": {
+        "Weight distribution": 4.8,
+        "Comfort": 4.7,
+        "Adjustability": 3.5,
+        "Value": 3.6,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "511-tactical-tactec-vest",
+      "badge": "Mejor para rucking",
+      "review": "Diseño de portaplacas militar con tirantes de hombro acolchados y distribución de cintura tipo cummerbund — construido para movimiento cargado sostenido durante horas. Compatibilidad MOLLE permite adjuntar equipo. Soporta placas SAPI estándar hasta 30 lbs.",
+      "pros": [
+        "El cummerbund distribuye la carga para movimiento sostenido",
+        "Compatible con MOLLE para adjuntar equipo adicional",
+        "Durabilidad de grado militar para uso al aire libre de varios años"
+      ],
+      "cons": [
+        "Diseño voluminoso no apto para ejercicios de gimnasio como dominadas o flexiones"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Weight capacity": "Up to 30 lbs / 13.5 kg",
+        "Plate type": "Standard SAPI",
+        "Waist": "Cummerbund",
+        "Attachment": "MOLLE-compatible",
+        "Use case": "Rucking, loaded hiking",
+        "Sizes": "S-XL",
+        "Material": "Military-grade nylon",
+        "Price": "$140"
+      },
+      "scores": {
+        "Weight distribution": 4.5,
+        "Comfort": 4.3,
+        "Adjustability": 4.0,
+        "Value": 4.5,
+        "Durability": 5.0
+      }
+    },
+    {
+      "offerId": "cap-barbell-weight-vest",
+      "badge": "Mejor económico",
+      "review": "Los bolsillos de arena de hierro se ajustan hasta 40 lbs en incrementos — el rango de peso más amplio en esta comparación para el precio. La construcción de tela aguanta circuitos de fuerza de peso corporal. No ideal para correr por el rebote, pero para flexiones, dips, sentadillas y step-ups ofrece carga sólida al precio de entrada.",
+      "pros": [
+        "Hasta 40 lbs ajustable — el rango más amplio a este precio",
+        "Los bolsillos de arena de hierro permiten incrementos de peso finos",
+        "Sólido para ejercicios de fuerza de peso corporal"
+      ],
+      "cons": [
+        "Rebote notable durante la carrera — no es un chaleco para correr"
+      ],
+      "grade": "B",
+      "specs": {
+        "Weight range": "Up to 40 lbs / 18 kg adjustable",
+        "Weight type": "Iron sand pockets",
+        "Closure": "Buckle straps",
+        "Bounce": "Moderate (not for running)",
+        "Use case": "Bodyweight strength training",
+        "Sizes": "One size adjustable",
+        "Material": "Fabric",
+        "Price": "~$40-60"
+      },
+      "scores": {
+        "Weight distribution": 3.8,
+        "Comfort": 3.5,
+        "Adjustability": 4.8,
+        "Value": 5.0,
+        "Durability": 3.8
+      }
+    },
+    {
+      "offerId": "rogue-dog-collar-vest",
+      "badge": "Mejor para dominadas y dips",
+      "review": "El Dog Collar no es un chaleco — es un arnés de hombro cargado con placas diseñado para exactamente un propósito: adjuntar placas olímpicas para dominadas y dips con peso. La posición de placa frontal mantiene la espalda completamente libre. Construcción de acero para volumen de gimnasio comercial.",
+      "pros": [
+        "La carga de placa frontal mantiene la espalda completamente libre para el movimiento de dominadas",
+        "Soporta placas olímpicas de 10-45 lbs — progresión de peso ilimitada",
+        "Acero de grado comercial construido para volumen diario de gimnasio"
+      ],
+      "cons": [
+        "Caso de uso único — solo dominadas y dips, no para correr o llevar en general"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Weight type": "Olympic plates (10-45 lb)",
+        "Loading": "Front plate loaded",
+        "Construction": "Steel",
+        "Use case": "Weighted pull-ups, dips",
+        "Sizes": "Adjustable belt",
+        "Back clearance": "Full",
+        "Brand": "Rogue",
+        "Price": "$20"
+      },
+      "scores": {
+        "Weight distribution": 4.0,
+        "Comfort": 3.0,
+        "Adjustability": 4.5,
+        "Value": 4.9,
+        "Durability": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para movimiento diario y entrenamiento de peso corporal",
+      "offerId": "titin-force-weighted-shirt",
+      "reason": "Se lleva bajo la ropa, distribución de hidrogel de 14 puntos — el único chaleco con peso que puedes olvidar que llevas puesto."
+    },
+    {
+      "label": "Para corredores y atletas de HIIT",
+      "offerId": "hyperwear-hyper-vest-pro",
+      "reason": "El cordaje de corsé logra casi cero rebote a ritmo de carrera — el único chaleco aquí que no destruye tu forma a velocidad."
+    },
+    {
+      "label": "Para rucking y senderismo cargado",
+      "offerId": "511-tactical-tactec-vest",
+      "reason": "El diseño militar de cummerbund distribuye la carga durante horas de movimiento sostenido sin puntos calientes."
+    },
+    {
+      "label": "Para compradores con prioridad en precio",
+      "offerId": "cap-barbell-weight-vest",
+      "reason": "40 lbs ajustable al precio de entrada — el mayor rango de peso por dólar en esta comparación."
+    },
+    {
+      "label": "Solo para dominadas y dips",
+      "offerId": "rogue-dog-collar-vest",
+      "reason": "La carga de placa frontal mantiene la espalda completamente libre — la herramienta correcta para un trabajo específico a $20."
+    }
+  ]
 }

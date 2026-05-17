@@ -92,5 +92,64 @@
     "fairchilds-organic-acv": "Meilleur pour la transparence culinaire — pommes Rag Bag cultivées dans l'État de Washington, étiquetage explicite de l'acidité à 5%, approvisionnement familial. Saveur de pomme plus propre avec moins de complexité fermentée que Bragg. Idéal pour les vinaigrettes légères et les shrubs où la saveur fruitée et l'histoire de l'approvisionnement comptent. Disponibilité légèrement moindre que Bragg en grande distribution."
   },
   "pinDescription": "ACV brut, gummies ou prêt à boire ? Nous avons comparé Bragg, Goli, Kevita, Fairchild's et Dynamic Health pour trouver le meilleur vinaigre de cidre de pomme 2026 — avec des notes honnêtes sur la 'mère', la dose quotidienne et ce que la recherche soutient vraiment. #VinaigreDeCidre #ACV #Santé #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque produit a été évalué sur le profil gustatif, la transparence de l'approvisionnement, le rapport qualité-prix, l'intégrité de l'emballage et la praticité. Les certifications et avis vérifiés ont été comparés aux allégations marketing.",
+  "products": [
+    {
+      "offerId": "bragg-organic-acv",
+      "badge": "Meilleur au global",
+      "review": "Bragg reste la référence du vinaigre de cidre brut : non filtré, certifié USDA Bio, avec des filaments de mère visibles confirmant les cultures actives. Le goût vif et centré sur la pomme offre plus de complexité fermentative que les alternatives du supermarché. La bouteille de 32 oz est à un prix compétitif pour une utilisation quotidienne en tonique.",
+      "pros": ["Non filtré 'avec la mère' — cultures actives visibles", "Certifié USDA Bio et Non-OGM", "Goût de pomme vif et complexe, préféré des buveurs de tonique"],
+      "cons": ["Goût plus fort que la plupart — nécessite une dilution pour les débutants"],
+      "grade": "A+",
+      "specs": {"Taille": "16 oz / 32 oz", "Bio": "Certifié USDA", "Filtré": "Non (avec mère)", "Acidité": "5%", "Ratio de dilution": "1–2 c. à s. pour 240 ml d'eau"},
+      "scores": {"Qualité": 4.8, "Goût": 4.2, "Rapport qualité-prix": 4.0, "Nutrition": 4.5, "Polyvalence": 4.7}
+    },
+    {
+      "offerId": "dynamic-health-acv",
+      "badge": "Meilleur rapport qualité-prix",
+      "review": "Fonctionnellement équivalent à Bragg — certifié USDA Bio, non filtré, avec la mère — mais généralement 15–20 % moins cher par once. La traçabilité des pommes est moins précisée, le goût légèrement moins complexe, mais pour une utilisation intensive en cuisine ou en tonique quotidien où le coût prime, c'est un excellent choix.",
+      "pros": ["Coût par once le plus bas parmi les options bio non filtrées", "Certifié USDA Bio, non filtré, avec la mère", "Excellent rapport qualité-prix pour une utilisation culinaire intensive"],
+      "cons": ["Moins de transparence sur l'origine que Fairchild's ou Bragg"],
+      "grade": "A",
+      "specs": {"Taille": "32 oz", "Bio": "Certifié USDA", "Filtré": "Non (avec mère)", "Acidité": "5%", "Prix vs Bragg": "env. 15–20 % moins cher/oz"},
+      "scores": {"Qualité": 4.2, "Goût": 3.9, "Rapport qualité-prix": 4.8, "Nutrition": 4.3, "Polyvalence": 4.4}
+    },
+    {
+      "offerId": "kevita-acv-tonic",
+      "badge": "Meilleure palatabilité",
+      "review": "Kevita est une boisson gazeuse prête à boire avec du vinaigre de cidre, du gingembre, du citron et de la stévia. La dose de VCP est inférieure au standard liquide, et le coût par portion est plus élevé — mais le point clé est que les personnes qui ne supportent pas le liquide le boivent réellement chaque jour.",
+      "pros": ["Prêt à boire — aucun mélange ni dilution", "La carbonatation et les arômes le rendent beaucoup plus agréable", "Acidité réduite, moins de risque d'érosion de l'émail dentaire"],
+      "cons": ["Dose de VCP inférieure au protocole liquide standard", "Coût par portion plus élevé que le VCP liquide"],
+      "grade": "B+",
+      "specs": {"Taille": "15,2 oz", "Format": "RTD pétillant", "Arômes ajoutés": "Gingembre, citron, stévia", "Sucre": "0 g ajouté", "Dose VCP/bouteille": "env. 25 mg"},
+      "scores": {"Qualité": 3.8, "Goût": 4.5, "Rapport qualité-prix": 3.2, "Nutrition": 3.5, "Polyvalence": 2.8}
+    },
+    {
+      "offerId": "goli-acv-gummies",
+      "badge": "Meilleure régularité quotidienne",
+      "review": "Les gummies Goli fournissent environ une cuillère à café d'équivalent VCP par portion (2 gummies) — moins que la dose standard liquide, mais beaucoup plus facile à prendre chaque jour. Bio certifié, vegan, non-OGM, avec vitamines B9 et B12. Si vous sautez le liquide mais prenez des gummies chaque jour, la régularité l'emporte sur la dose.",
+      "pros": ["Pas de goût désagréable, pas de mélange — meilleure régularité quotidienne", "Vitamines B ajoutées (B9 et B12)", "Certifié Bio, vegan, non-OGM"],
+      "cons": ["Dose VCP par portion inférieure au liquide (1 c. à c. vs 1–2 c. à s.)", "Coût par gramme de VCP plus élevé que les options liquides"],
+      "grade": "B",
+      "specs": {"Portion": "2 gummies", "VCP par portion": "env. 500 mg (~1 c. à c.)", "Bio": "Oui", "Vitamines ajoutées": "B9, B12", "Nombre": "60 gummies"},
+      "scores": {"Qualité": 4.0, "Goût": 4.6, "Rapport qualité-prix": 3.5, "Nutrition": 3.8, "Polyvalence": 2.5}
+    },
+    {
+      "offerId": "fairchilds-organic-acv",
+      "badge": "Meilleure transparence culinaire",
+      "review": "Fairchild's se différencie par l'indication explicite des pommes Rag Bag de l'État de Washington et une acidité vérifiée à 5 %. Le goût est plus propre et moins levuré que Bragg — mieux adapté aux vinaigrettes légères où l'on veut la saveur pomme sans les notes de fermentation prononcées.",
+      "pros": ["Variété de pomme et État d'origine nommés — transparence rare", "Indication explicite d'acidité à 5 %", "Goût de pomme plus propre avec moins de complexité fermentative"],
+      "cons": ["Disponibilité légèrement moindre que Bragg en grande distribution"],
+      "grade": "B-",
+      "specs": {"Taille": "32 oz", "Bio": "Certifié USDA", "Origine des pommes": "Washington State Rag Bag", "Acidité": "5 % vérifié", "Filtré": "Non (avec mère)"},
+      "scores": {"Qualité": 4.5, "Goût": 4.3, "Rapport qualité-prix": 3.8, "Nutrition": 4.3, "Polyvalence": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les buveurs de tonique VCP quotidien", "offerId": "bragg-organic-acv", "reason": "Le VCP brut de référence avec une qualité constante — le choix évident pour une habitude quotidienne de tonique dilué."},
+    {"label": "Pour une utilisation culinaire intensive", "offerId": "dynamic-health-acv", "reason": "15–20 % moins cher par once que Bragg avec une certification bio équivalente — idéal quand on consomme une bouteille par semaine."},
+    {"label": "Pour les débutants en VCP", "offerId": "kevita-acv-tonic", "reason": "Gazeux, aromatisé et prédilué — la barrière la plus basse pour ceux qui trouvent le VCP liquide trop intense."},
+    {"label": "Pour les adeptes de la régularité avant tout", "offerId": "goli-acv-gummies", "reason": "Si vous sautez le liquide mais prenez des gummies chaque jour, la faible dose régulière surpasse la dose élevée irrégulière."},
+    {"label": "Pour les vinaigrettes légères", "offerId": "fairchilds-organic-acv", "reason": "Dans les recettes où le caractère VCP est au premier plan, le goût pomme pur et la transparence font une vraie différence."}
+  ]
 }

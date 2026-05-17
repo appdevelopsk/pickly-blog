@@ -58,5 +58,174 @@
     "pezzetti-italexpress-moka": "Moka pot económica de acero inoxidable fabricada en Italia. $20-30. Mejor moka pot de nivel de entrada — mecanismo de preparación funcionalmente equivalente a menor costo. Indicada para usuarios de moka pot por primera vez."
   },
   "pinDescription": "Comparación de moka pots 2026: Bialetti Moka Express vs Brikka vs Cuisinox vs Ilsa vs Pezzetti — presión del espresso de fogón, producción de crema, aluminio vs inox y qué es realmente el café de moka pot frente al espresso real.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada moka pot se evaluó según la presión de extracción y el carácter del café, la calidad del material, la compatibilidad con inducción, la gama de tamaños disponibles y en qué medida reproduce el perfil de sabor del espresso de fogón.",
+  "products": [
+    {
+      "offerId": "bialetti-moka-express",
+      "badge": "Mejor en general",
+      "review": "La Moka Express octogonal de aluminio original lleva definiendo el espresso de fogón desde 1933. La aleación de aluminio conduce el calor uniformemente, y una cafetera bien usada produce una dulzura que las alternativas de acero inoxidable raramente igualan. Disponible en 1–12 tazas; solo lavado a mano, sin inducción sin adaptador.",
+      "pros": [
+        "Perfil de sabor definitorio del espresso de fogón",
+        "Gama más amplia: 1 a 12 tazas",
+        "Económica a 25–45€ y ampliamente disponible"
+      ],
+      "cons": [
+        "Solo lavado a mano; no es compatible con inducción sin adaptador"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Material": "Aluminio de grado alimentario",
+        "Tamaños disponibles": "1, 2, 3, 6, 9, 12 tazas",
+        "Inducción": "No (adaptador requerido)",
+        "Apta para lavavajillas": "No",
+        "Presión": "~1–2 bar",
+        "Rango de precios": "25–45€"
+      },
+      "scores": {
+        "Intensidad de extracción": 4.7,
+        "Calidad de construcción": 4.3,
+        "Facilidad de uso": 4.8,
+        "Valor": 5.0,
+        "Opciones de capacidad": 5.0
+      }
+    },
+    {
+      "offerId": "bialetti-brikka",
+      "badge": "Mejor para bebidas con leche",
+      "review": "La Brikka añade una válvula de presión que genera más contrapresión antes de soltar, produciendo una espuma similar a la crema. No es crema de espresso por composición, pero la mejora de textura hace que los lattes y cappuccinos de moka sean notablemente mejores. Solo en 2 y 4 tazas; la válvula requiere un manejo más preciso del calor.",
+      "pros": [
+        "La válvula de presión crea espuma similar a la crema para bebidas con leche",
+        "Acero inoxidable — compatible con inducción",
+        "Taza más densa y con más cuerpo que la moka estándar"
+      ],
+      "cons": [
+        "Solo 2 y 4 tazas — sin opción de gran capacidad"
+      ],
+      "grade": "A",
+      "specs": {
+        "Material": "Acero inoxidable",
+        "Tamaños disponibles": "2, 4 tazas",
+        "Inducción": "Sí",
+        "Apta para lavavajillas": "No",
+        "Presión": "~2–3 bar (válvula presurizada)",
+        "Rango de precios": "40–60€"
+      },
+      "scores": {
+        "Intensidad de extracción": 5.0,
+        "Calidad de construcción": 4.6,
+        "Facilidad de uso": 4.2,
+        "Valor": 4.1,
+        "Opciones de capacidad": 3.0
+      }
+    },
+    {
+      "offerId": "cuisinox-roma-moka-pot",
+      "badge": "Mejor acero inoxidable",
+      "review": "La Cuisinox Roma es la alternativa de acero inoxidable más práctica a la Moka Express de aluminio — compatible con inducción, apta para lavavajillas y sin interacción de sabor entre los ácidos del café y el aluminio. Tarda un poco más en calentar que el aluminio, pero la consistencia de extracción es fiable.",
+      "pros": [
+        "Acero inoxidable — compatible con inducción y apta para lavavajillas",
+        "Sin interacción entre el metal y los ácidos del café",
+        "Extracción consistente con mantenimiento mínimo"
+      ],
+      "cons": [
+        "Se calienta más lentamente que el aluminio; precio ligeramente más alto que la Moka Express"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Material": "Acero inoxidable",
+        "Tamaños disponibles": "1, 2, 3, 6 tazas",
+        "Inducción": "Sí",
+        "Apta para lavavajillas": "Sí",
+        "Presión": "~1–2 bar",
+        "Rango de precios": "40–60€"
+      },
+      "scores": {
+        "Intensidad de extracción": 4.3,
+        "Calidad de construcción": 4.8,
+        "Facilidad de uso": 4.7,
+        "Valor": 4.0,
+        "Opciones de capacidad": 4.0
+      }
+    },
+    {
+      "offerId": "ilsa-stovetop-espresso-maker",
+      "badge": "Mejor alternativa italiana",
+      "review": "Acero inoxidable de fabricación italiana con una geometría de válvula ligeramente diferente a Bialetti — algunos usuarios describen el café como marginalmente más suave. Disponible en 1–12 tazas al precio entre Pezzetti y Cuisinox.",
+      "pros": [
+        "Acero inoxidable italiano en 1–12 tazas",
+        "Geometría de válvula ligeramente diferente — café marginalmente más suave",
+        "Buena flexibilidad de tamaño"
+      ],
+      "cons": [
+        "Sin ventaja notable sobre la Cuisinox Roma a precio similar"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "Acero inoxidable",
+        "Tamaños disponibles": "1, 2, 3, 6, 9, 12 tazas",
+        "Inducción": "Consultar modelo",
+        "Apta para lavavajillas": "No recomendado",
+        "Presión": "~1–2 bar",
+        "Rango de precios": "35–55€"
+      },
+      "scores": {
+        "Intensidad de extracción": 4.2,
+        "Calidad de construcción": 4.5,
+        "Facilidad de uso": 4.6,
+        "Valor": 4.2,
+        "Opciones de capacidad": 4.8
+      }
+    },
+    {
+      "offerId": "pezzetti-italexpress-moka",
+      "badge": "Mejor entrada de presupuesto",
+      "review": "La Pezzetti Italexpress es una moka pot de acero inoxidable italiana por 20–30€ — la más barata de esta comparación con un mecanismo de extracción real. Construcción más sencilla que la Brikka o Cuisinox, pero funcionalmente equivalente. La primera moka pot correcta antes de comprometerse con una opción premium.",
+      "pros": [
+        "La más barata en esta comparación — 20–30€",
+        "Acero inoxidable italiano con mecanismo de extracción equivalente",
+        "Buena primera compra antes de actualizar"
+      ],
+      "cons": [
+        "Construcción más sencilla y menos opciones de tamaño que las alternativas premium"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Material": "Acero inoxidable",
+        "Tamaños disponibles": "2, 4, 6 tazas",
+        "Inducción": "Consultar modelo",
+        "Apta para lavavajillas": "No recomendado",
+        "Presión": "~1–2 bar",
+        "Rango de precios": "20–30€"
+      },
+      "scores": {
+        "Intensidad de extracción": 4.0,
+        "Calidad de construcción": 3.6,
+        "Facilidad de uso": 4.5,
+        "Valor": 5.0,
+        "Opciones de capacidad": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para amantes del café negro con sabor clásico a moka",
+      "offerId": "bialetti-moka-express",
+      "reason": "El aluminio curtido y la geometría de válvula original producen el sabor del espresso de fogón que ninguna otra cafetera puede replicar exactamente."
+    },
+    {
+      "label": "Para entusiastas de las bebidas con leche",
+      "offerId": "bialetti-brikka",
+      "reason": "La válvula de presión crea espuma similar a la crema que añade textura real a los lattes y cappuccinos de moka — una mejora significativa si mezclas con leche a diario."
+    },
+    {
+      "label": "Para usuarios de cocina de inducción",
+      "offerId": "cuisinox-roma-moka-pot",
+      "reason": "Compatible con inducción y apta para lavavajillas — la opción más práctica para cocinas modernas sin gas."
+    },
+    {
+      "label": "Para compradores de su primera moka pot",
+      "offerId": "pezzetti-italexpress-moka",
+      "reason": "Prueba el método de extracción por 20–30€ antes de decidirte por una Bialetti u otra más cara."
+    }
+  ]
 }

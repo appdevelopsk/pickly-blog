@@ -111,5 +111,64 @@
     "anker-eufy-smart-scale-p2-pro": "A opção intermediária pragmática: sincronização Wi-Fi (sem necessidade de celular por perto), integração com Apple Health e Google Fit, 16 métricas e um app limpo a um quarto do preço das opções Withings e Tanita. A Anker tem forte presença de serviço no Japão (lojas varejistas, atendimento ao cliente direto) que a Xiaomi não tem. Fraqueza: 16 métricas soa abrangente, mas a maioria das métricas adicionais além de peso, gordura corporal e IMC são derivadas do mesmo sinal BIA pé a pé de dois eletrodos por meio de diferentes equações de regressão, não são medições independentes; o app Eufy Life é menos maduro do que o Withings Health Mate; a marca não tem a confiança clínica da Tanita no Japão."
   },
   "pinDescription": "Cinco balanças inteligentes comparadas em 2026: Withings Body Comp com idade vascular a ¥30,000, Garmin Index S2 para usuários de Garmin Connect a ¥22,000, Tanita RD-906 com composição corporal segmental e tecnologia InBody, Xiaomi Mi Body Composition Scale 2 a ¥3,000, e Anker Eufy P2 Pro com Wi-Fi e sincronização com Apple Health a ¥8,000. Limites de precisão BIA explicados, integração no ecossistema comparada e por que as leituras diárias são ruído.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada balança foi avaliada com base na configuração dos eletrodos BIA (2 vs. 4 eletrodos), política de exportação de dados do app, risco de dependência do ecossistema, qualidade do serviço pós-venda no Japão e relatórios de longo prazo de proprietários sobre a consistência das leituras em condições matinais idênticas.",
+  "products": [
+    {
+      "offerId": "withings-body-comp",
+      "badge": "Melhor no geral",
+      "review": "A Withings Body Comp é a única balança de consumo nesta comparação que mede a idade vascular via velocidade da onda de pulso — uma métrica de saúde cardiovascular que o BIA sozinho não pode fornecer. Sua política de exportação de dados (exportação CSV, acesso API) é a mais aberta deste grupo e a sincronização com Apple Health/Google Fit é confiável. O BIA pé a pé para gordura corporal compartilha a mesma classe de precisão de ±3–8% das balanças mais baratas.",
+      "pros": ["Única balança que mede a idade vascular (velocidade da onda de pulso)", "Melhor política de exportação de dados — exportação CSV e acesso API", "Sincronização confiável com Apple Health e Google Fit"],
+      "cons": ["O BIA pé a pé tem a mesma precisão de gordura corporal ±3–8% das balanças mais baratas"],
+      "grade": "A+",
+      "specs": {"Preço": "~¥30.000", "Tipo BIA": "Pé a pé + sensores PWV", "Usuários": "8", "Conectividade": "Wi-Fi + Bluetooth", "App": "Withings Health Mate", "Resolução de peso": "0,05 kg"},
+      "scores": {"Accuracy": 4.3, "App quality": 4.7, "Ease of use": 4.5, "Value": 3.5, "Metrics range": 5.0}
+    },
+    {
+      "offerId": "garmin-index-s2",
+      "badge": "Melhor para usuários Garmin",
+      "review": "A vantagem do ecossistema do Garmin Index S2 é real e específica: os dados de composição corporal aparecem diretamente no Garmin Connect junto com atividade, sono e métricas de VFC — sem necessidade de aplicativo intermediário de terceiros. Para famílias com vários atletas, o suporte a 16 usuários é um diferencial genuíno. Para não usuários de Garmin, é uma balança BIA pé a pé de ¥22.000 com a mesma precisão da Eufy de ¥8.000.",
+      "pros": ["A composição corporal sincroniza diretamente no Garmin Connect", "16 usuários simultâneos — ideal para famílias com vários atletas", "Sem necessidade de app intermediário de terceiros para o ecossistema Garmin"],
+      "cons": ["A vantagem do ecossistema desaparece completamente sem dispositivos Garmin"],
+      "grade": "A",
+      "specs": {"Preço": "~¥22.000", "Tipo BIA": "Pé a pé", "Usuários": "16", "Conectividade": "Wi-Fi + Bluetooth", "App": "Garmin Connect", "Resolução de peso": "0,1 kg"},
+      "scores": {"Accuracy": 4.1, "App quality": 4.5, "Ease of use": 4.5, "Value": 3.8, "Metrics range": 4.2}
+    },
+    {
+      "offerId": "tanita-rd-906",
+      "badge": "Melhor tecnologia BIA",
+      "review": "A Tanita RD-906 é o BIA de consumo mais rigoroso desta comparação: a tecnologia de 4 eletrodos multifrequência licenciada pela InBody mede braços, pernas e tronco separadamente em vez de estimar a composição da parte superior do corpo a partir da impedância pé a pé. No Japão, a credibilidade clínica da Tanita — hospitais e instalações esportivas usam equipamentos profissionais Tanita — é uma consideração real para usuários que monitoram a saúde junto a profissionais de saúde.",
+      "pros": ["O BIA de 4 eletrodos multifrequência mede cada segmento corporal diretamente", "Tecnologia licenciada pela InBody — o mais alto padrão BIA de consumo disponível", "A Tanita tem credibilidade clínica no Japão que nenhuma marca estrangeira iguala"],
+      "cons": ["Requer segurar os eletrodos de alça durante cada medição — uma etapa extra em relação às balanças só de pé"],
+      "grade": "B+",
+      "specs": {"Preço": "~¥30.000", "Tipo BIA": "Multifrequência 4 eletrodos (segmental)", "Usuários": "5", "Conectividade": "Bluetooth", "App": "Health Planet (focado no Japão)", "Resolução de peso": "0,05 kg"},
+      "scores": {"Accuracy": 4.8, "App quality": 3.5, "Ease of use": 3.8, "Value": 3.6, "Metrics range": 4.8}
+    },
+    {
+      "offerId": "xiaomi-body-composition-scale-2",
+      "badge": "Melhor escolha econômica",
+      "review": "A ¥3.000, a Xiaomi Mi Body Composition Scale 2 fornece dados de tendência de gordura corporal genuinamente úteis apesar da ampla margem de precisão — a direção da mudança ao longo das semanas é confiável mesmo quando o número absoluto não é. Apenas Bluetooth significa que o telefone deve estar próximo durante a medição, e o histórico da Xiaomi de descontinuar apps sem longos períodos de transição é um risco legítimo de dados ao longo de vários anos.",
+      "pros": ["Gordura corporal, IMC, massa muscular, massa óssea a ~¥3.000", "Sincronização Bluetooth limpa com Mi Fitness", "O rastreamento de tendência de gordura corporal funciona apesar da ampla margem de erro"],
+      "cons": ["Apenas Bluetooth — o telefone deve estar próximo durante a pesagem"],
+      "grade": "B",
+      "specs": {"Preço": "~¥3.000", "Tipo BIA": "Pé a pé 2 eletrodos", "Usuários": "Múltiplos (perfis no app)", "Conectividade": "Bluetooth", "App": "Mi Fitness", "Resolução de peso": "0,05 kg"},
+      "scores": {"Accuracy": 3.2, "App quality": 3.8, "Ease of use": 4.8, "Value": 5.0, "Metrics range": 3.5}
+    },
+    {
+      "offerId": "anker-eufy-smart-scale-p2-pro",
+      "badge": "Melhor custo-benefício na faixa intermediária",
+      "review": "A Anker Eufy Smart Scale P2 Pro atinge o ponto pragmático ideal: sincronização Wi-Fi (sem requisito de telefone próximo), integração com Apple Health e Google Fit, e 16 métricas corporais a um quarto do custo das opções Withings e Tanita. A maioria dessas 16 métricas são derivadas do mesmo sinal BIA de 2 eletrodos pé a pé — não são medições independentes — mas para o rastreador fitness típico, os dados de tendência de peso e gordura corporal são o que importa.",
+      "pros": ["Sincronização Wi-Fi — sem necessidade de telefone próximo durante a medição", "Integração com Apple Health e Google Fit a ¥8.000", "A rede de serviços da Anker no Japão é sólida (lojas físicas, suporte direto)"],
+      "cons": ["16 métricas principalmente derivadas do mesmo sinal BIA — não são medições independentes"],
+      "grade": "B-",
+      "specs": {"Preço": "~¥8.000", "Tipo BIA": "Pé a pé 4 eletrodos", "Usuários": "16", "Conectividade": "Wi-Fi + Bluetooth", "App": "Eufy Life", "Resolução de peso": "0,05 kg"},
+      "scores": {"Accuracy": 4.0, "App quality": 4.1, "Ease of use": 4.7, "Value": 4.6, "Metrics range": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para monitoramento de saúde cardiovascular", "offerId": "withings-body-comp", "reason": "A velocidade da onda de pulso (idade vascular) não está disponível em nenhum outro lugar no nível de consumo — ela adiciona uma dimensão cardiovascular que as balanças BIA puras não podem fornecer."},
+    {"label": "Para usuários de relógios Garmin", "offerId": "garmin-index-s2", "reason": "Os dados de composição corporal aparecem no Garmin Connect junto com suas atividades e VFC sem nenhuma solução alternativa ou app intermediário."},
+    {"label": "Para usuários que trabalham com personal trainer", "offerId": "tanita-rd-906", "reason": "Personal trainers japoneses e profissionais de medicina esportiva usam dados de referência Tanita — as leituras segmentais do RD-906 se alinham com o que seu trainer mede profissionalmente."},
+    {"label": "Para rastreamento econômico de gordura corporal", "offerId": "xiaomi-body-composition-scale-2", "reason": "A ¥3.000, os dados de tendência semanal são úteis. Use-a para a direção ao longo de meses, não para leituras absolutas em um dia específico."},
+    {"label": "Para a maioria dos lares sem Garmin", "offerId": "anker-eufy-smart-scale-p2-pro", "reason": "A sincronização Wi-Fi, a integração com Apple Health e a presença de serviço da Anker no Japão oferecem a melhor relação funcionalidades-preço quando você não precisa de Garmin nem de BIA clínico."}
+  ]
 }

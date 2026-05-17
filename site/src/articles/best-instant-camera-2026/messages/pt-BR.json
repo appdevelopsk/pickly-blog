@@ -109,5 +109,139 @@
     "canon-ivy-cliq-plus-2": "Canon IVY CLIQ+2 — papel térmico ZINK zero-ink, impressões de 51×76mm (2×3 polegadas), app Bluetooth com edição e efeitos AR, espelho selfie de 2 polegadas, aproximadamente ¥15.000. Disponível no Rakuten Ichiba. Impressões de 51×76mm são as menores desta comparação — ainda menores que a Instax Mini; papel ZINK pode aparecer menos saturado; qualidade de disparo na câmera é inferior à do smartphone; processo ZINK pode produzir cores desiguais em ambientes frios; a ¥15.000 o preço é difícil de justificar frente à Kodak Mini Shot a ¥10.000."
   },
   "pinDescription": "5 câmeras instantâneas comparadas para 2026 — Instax Mini 12 automática vs Instax Wide 300 fotos em grupo vs Polaroid Now+ app criativo vs Kodak Mini Shot 3 Retro híbrida com smartphone vs Canon IVY CLIQ+2 ZINK. Matemática do custo do filme, realidade do tamanho de impressão, contexto do mercado japonês. Sua próxima câmera instantânea começa aqui. #cameraimediata #fotografia #português",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Cada câmera foi avaliada nas dimensões reais de impressão e qualidade de imagem dos processos haleto de prata, térmico e ZINK, o custo operacional por impressão no Japão, a facilidade de uso sem dependência de app, a qualidade de construção segundo relatórios de durabilidade de proprietários, e as funções de conectividade avaliadas frente a casos de uso reais.",
+  "products": [
+    {
+      "offerId": "fujifilm-instax-mini-12",
+      "badge": "Melhor Escolha Geral",
+      "review": "A Instax Mini 12 é a câmera instantânea mais convincente para iniciantes: exposição totalmente automática, sem menu, sem dependência de app. A impressão em haleto de prata 62×46mm oferece qualidade fotográfica real sem artefatos térmicos. O espelho selfie e o modo close-up são particularmente úteis para fotos do dia a dia. O único compromisso: ~¥100 por impressão é mais caro que impressões digitais, mas esse é o preço da experiência instantânea autêntica.",
+      "pros": ["Exposição totalmente automática — sem menu, sem configuração", "Impressões em haleto de prata com qualidade fotográfica real", "133g a torna a opção mais portátil da comparação"],
+      "cons": ["~¥100 por impressão mais caro que as alternativas de impressão térmica"],
+      "grade": "A+",
+      "specs": {
+        "Formato de filme": "Instax Mini (62×46mm)",
+        "Processo de impressão": "Haleto de prata",
+        "Peso": "133 g",
+        "Custo por impressão": "~¥100",
+        "Preço (câmera)": "~¥8.000",
+        "Características": "Espelho selfie, modo close-up"
+      },
+      "scores": {
+        "Print quality": 4.2,
+        "Film cost": 4.5,
+        "Ease of use": 5.0,
+        "Value": 4.8,
+        "Build quality": 4.0
+      }
+    },
+    {
+      "offerId": "fujifilm-instax-wide-300",
+      "badge": "Melhor para Fotos em Grupo",
+      "review": "A Instax Wide 300 produz impressões de 85×54mm — o dobro do tamanho do formato Mini — tornando-a a única opção da comparação para fotos de grupo reais. O processo de haleto de prata oferece a mesma qualidade que o Mini 12, em um formato muito mais útil para paisagens e fotos recordação. O compromisso: a câmera é volumosa e não cabe em bolsas pequenas.",
+      "pros": ["Impressões 85×54mm, o dobro do tamanho do formato Mini", "Qualidade haleto de prata para verdadeiras lembranças fotográficas", "Dial de exposição para ajuste manual"],
+      "cons": ["Câmera volumosa — não cabe em bolsas pequenas"],
+      "grade": "A",
+      "specs": {
+        "Formato de filme": "Instax Wide (85×54mm)",
+        "Processo de impressão": "Haleto de prata",
+        "Custo por impressão": "~¥120",
+        "Preço (câmera)": "~¥12.000",
+        "Exposição": "Dial de exposição",
+        "Características": "Maior formato de filme da comparação"
+      },
+      "scores": {
+        "Print quality": 4.5,
+        "Film cost": 4.3,
+        "Ease of use": 4.0,
+        "Value": 4.2,
+        "Build quality": 4.0
+      }
+    },
+    {
+      "offerId": "polaroid-now-plus",
+      "badge": "Opção Mais Criativa",
+      "review": "A Polaroid Now+ combina a estética nostálgica i-Type da Polaroid com controle por app Bluetooth, dupla exposição, exposição múltipla e foco manual. O resultado é a câmera instantânea mais criativa do teste. O preço do filme é o principal problema: o filme i-Type custa ~¥200/impressão — o dobro que o Instax Mini — e o resultado é menos reproduzível.",
+      "pros": ["App Bluetooth com dupla exposição e temporizador", "Foco manual para controle criativo", "Estética Polaroid icônica com funções modernas"],
+      "cons": ["Filme i-Type ~¥200/impressão — o mais caro da comparação"],
+      "grade": "B+",
+      "specs": {
+        "Formato de filme": "Polaroid i-Type (88×107mm)",
+        "Processo de impressão": "Haleto de prata",
+        "Custo por impressão": "~¥200",
+        "Preço (câmera)": "~¥18.000",
+        "Conectividade": "Bluetooth",
+        "Características": "Dupla exposição, foco manual"
+      },
+      "scores": {
+        "Print quality": 4.3,
+        "Film cost": 2.5,
+        "Ease of use": 3.8,
+        "Value": 3.5,
+        "Build quality": 4.2
+      }
+    },
+    {
+      "offerId": "kodak-mini-shot-3-retro",
+      "badge": "Custo Operacional Mais Baixo",
+      "review": "O Kodak Mini Shot 3 Retro é o único híbrido do teste: imprime diretamente da câmera ou transfere fotos do smartphone via app. A sublimação de tinta 4PASS produz impressões mais duráveis que o filme Instax. O custo operacional é de ~¥50/impressão, o mais baixo da comparação. O compromisso: a qualidade de impressão é sutilmente mais plana que o haleto de prata.",
+      "pros": ["~¥50/impressão — o custo operacional mais baixo da comparação", "Modo dual: câmera direta e app de smartphone", "Sublimação de tinta 4PASS mais durável que filme de haleto de prata"],
+      "cons": ["Qualidade de impressão sutilmente mais plana que o verdadeiro haleto de prata"],
+      "grade": "B",
+      "specs": {
+        "Formato de filme": "Kodak Mini (68×84mm)",
+        "Processo de impressão": "Sublimação de tinta 4PASS",
+        "Custo por impressão": "~¥50",
+        "Preço (câmera)": "~¥10.000",
+        "Conectividade": "Bluetooth + USB",
+        "Características": "Híbrido smartphone"
+      },
+      "scores": {
+        "Print quality": 4.0,
+        "Film cost": 5.0,
+        "Ease of use": 3.5,
+        "Value": 4.5,
+        "Build quality": 3.8
+      }
+    },
+    {
+      "offerId": "canon-ivy-cliq-plus-2",
+      "badge": "Melhor Integração com Smartphone",
+      "review": "A Canon IVY CLIQ+2 oferece a integração mais profunda com smartphone: edite e filtre antes de imprimir, adicione efeitos AR e imprima diretamente pelo app. O processo térmico ZINK elimina completamente o custo do filme. A limitação é o tamanho de impressão: 51×76mm é o menor formato da comparação, e as cores ZINK aparecem menos saturadas que o haleto de prata.",
+      "pros": ["A integração mais profunda com smartphone com edição antes da impressão", "Efeitos AR e filtros para personalização criativa", "Sem necessidade de caro filme de haleto de prata"],
+      "cons": ["51×76mm o menor tamanho de impressão; cores ZINK menos saturadas"],
+      "grade": "B-",
+      "specs": {
+        "Formato de filme": "51×76mm (2×3 polegadas)",
+        "Processo de impressão": "Térmico ZINK",
+        "Custo por impressão": "~¥40",
+        "Preço (câmera)": "~¥15.000",
+        "Conectividade": "Bluetooth",
+        "Características": "Edição antes da impressão, efeitos AR"
+      },
+      "scores": {
+        "Print quality": 3.5,
+        "Film cost": 3.5,
+        "Ease of use": 4.2,
+        "Value": 3.3,
+        "Build quality": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para iniciantes que buscam uma experiência instantânea simples",
+      "offerId": "fujifilm-instax-mini-12",
+      "reason": "Totalmente automática sem menu e qualidade real de haleto de prata fazem dela o começo mais simples."
+    },
+    {
+      "label": "Para criativos que querem mais controle",
+      "offerId": "polaroid-now-plus",
+      "reason": "App Bluetooth com dupla exposição e foco manual oferece as mais amplas possibilidades criativas."
+    },
+    {
+      "label": "Para orçamentos reduzidos com foco em smartphone",
+      "offerId": "kodak-mini-shot-3-retro",
+      "reason": "~¥50/impressão e modo híbrido smartphone oferecem o melhor equilíbrio entre custo e flexibilidade."
+    }
+  ]
 }

@@ -93,5 +93,64 @@
     "peets-coffee-subscription": "Miglior abbonamento di caffe macinato mainstream — Major Dickason's Blend a circa $12-15/12 oz, spedizione gratuita, nessuna curva di apprendimento. Tostatura scura costante, ampiamente amata per la sua prevedibilita. Migliore per i bevitori che vogliono la stessa tazza affidabile ogni mattina. Limite: zero varieta; il profilo a tostatura scura non soddisfara gli appassionati di caffe specialty a tostatura chiara."
   },
   "pinDescription": "5 abbonamenti al caffe confrontati per il 2026: Trade Coffee vs Atlas Coffee Club vs Onyx vs Angels' Cup vs Peet's. Freschezza, prezzo per oz, personalizzazione — trova l'abbonamento giusto prima che il tuo prossimo sacchetto si esaurisca. #italiano",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni abbonamento è stato valutato su freschezza alla consegna (giorni dalla tostatura), precisione della personalizzazione dopo 3 o più ordini, prezzo per oncia normalizzato per dimensione del sacchetto, opzioni di macinatura e facilità di mettere in pausa le spedizioni.",
+  "products": [
+    {
+      "offerId": "trade-coffee-subscription",
+      "badge": "Migliore in Assoluto",
+      "review": "L'algoritmo di preferenze di Trade Coffee seleziona da oltre 60 torrefattori indipendenti e spedisce entro 1–3 giorni dalla tostatura — una combinazione di varietà e freschezza che nessun abbonamento a singolo torrefattore può eguagliare. Limite onesto: l'algoritmo necessita 3–5 ordini per calibrarsi.",
+      "pros": ["Rete di 60+ torrefattori con ampia varietà di origini e stili", "Data di tostatura stampata su ogni sacchetto — trasparenza totale della freschezza", "Il ciclo di feedback delle valutazioni affina continuamente i futuri abbinamenti"],
+      "cons": ["Le prime consegne potrebbero non corrispondere al palato finché l'algoritmo non impara dalle valutazioni"],
+      "grade": "A+",
+      "specs": {"Rete torrefattori": "60+ torrefattori indipendenti", "Spedizione dopo tostatura": "1–3 giorni", "Dimensione sacchetto": "280–340 g", "Fascia di prezzo": "$14–$22 per sacchetto", "Opzioni macinatura": "Chicchi interi + 4 tipi pre-macinati", "Frequenza consegna": "Settimanale fino a ogni 8 settimane"},
+      "scores": {"Freschezza": 4.9, "Sapore": 4.7, "Valore": 4.3, "Comodità": 4.5, "Personalizzazione": 4.8}
+    },
+    {
+      "offerId": "atlas-coffee-club",
+      "badge": "Migliore per Esploratori",
+      "review": "Atlas Coffee Club consegna un paese produttore diverso ogni mese con sacchetti datati di tostatura e una cartolina educativa — il formato migliore per chi si avvicina al caffè con un approccio geografico. Senza personalizzazione: ricevi le selezioni editoriali di Atlas.",
+      "pros": ["Nuovo paese d'origine ogni mese con vera varietà geografica", "Data tostatura timbrata, spedito giorni dopo la tostatura", "Cartoline con note di degustazione e dettagli del metodo di lavorazione"],
+      "cons": ["Nessuna personalizzazione — impossibile specificare preferenze di gusto o escludere metodi di lavorazione"],
+      "grade": "A",
+      "specs": {"Modello approvvigionamento": "Singola origine, paese rotante mensile", "Spedizione dopo tostatura": "1–4 giorni", "Dimensione sacchetto": "340 g", "Fascia di prezzo": "$14–$19 spedizione inclusa", "Opzioni macinatura": "Chicchi interi (macinato su richiesta)", "Flessibilità": "Skip, pausa, annullamento in qualsiasi momento"},
+      "scores": {"Freschezza": 4.7, "Sapore": 4.6, "Valore": 4.5, "Comodità": 4.4, "Personalizzazione": 2.5}
+    },
+    {
+      "offerId": "onyx-coffee-lab-subscription",
+      "badge": "Massima Qualità",
+      "review": "Onyx tosta su ordinazione e spedisce entro 24–48 ore — tra i più veloci della categoria. L'approvvigionamento punta a lotti ad alto punteggio orientati al processo. L'estetica ristretta (tostature chiare, fruttate) è sia forza che limite.",
+      "pros": ["Tostatura su ordinazione, spedizione entro 24–48 ore — consegna fresca più rapida testata", "Approvvigionamento di alta qualità costante con lotti di livello competizione", "Lo sconto abbonamento rende il prezzo premium più sostenibile"],
+      "cons": ["Estetica tostatura ristretta — non adatto a preferenze di tostatura scura o miscele"],
+      "grade": "B+",
+      "specs": {"Modello": "Torrefattore singolo (tostature Onyx)", "Spedizione dopo tostatura": "24–48 ore", "Dimensione sacchetto": "280–340 g", "Fascia di prezzo": "$18–$22 per sacchetto", "Opzioni macinatura": "Solo chicchi interi", "Flessibilità": "Dashboard self-service, pausa/skip disponibile"},
+      "scores": {"Freschezza": 5.0, "Sapore": 4.8, "Valore": 3.8, "Comodità": 4.2, "Personalizzazione": 2.0}
+    },
+    {
+      "offerId": "angels-cup-subscription",
+      "badge": "Migliore per Allenare il Palato",
+      "review": "Angels' Cup invia pacchetti di campioni numerati senza etichetta per degustazione alla cieca — un formato unico che sviluppa capacità di degustazione anziché abitudini. Il costo per oncia è il più alto dei cinque; il formato non funziona come fornitura quotidiana principale.",
+      "pros": ["La degustazione alla cieca elimina i pregiudizi sull'origine e sviluppa valutazione accurata del palato", "Spedizione 1–5 giorni dopo tostatura con packaging numerato", "I dettagli dell'origine vengono rivelati dopo la degustazione — apprendimento strutturato"],
+      "cons": ["Il formato campione non è pratico come fornitura quotidiana principale — alto costo per oncia"],
+      "grade": "B",
+      "specs": {"Modello": "Set di campioni alla cieca multi-torrefattore", "Spedizione dopo tostatura": "1–5 giorni", "Dimensione campione": "4 campioni per set (~28 g ciascuno)", "Fascia di prezzo": "$10–$14 per pack da 4", "Opzioni macinatura": "Pre-macinato (campioni); chicchi interi per abbonamento regolare", "Flessibilità": "Annullamento e skip online dal portale"},
+      "scores": {"Freschezza": 4.6, "Sapore": 4.5, "Valore": 3.5, "Comodità": 3.8, "Personalizzazione": 3.0}
+    },
+    {
+      "offerId": "peets-coffee-subscription",
+      "badge": "Scelta Senza Pensieri",
+      "review": "L'abbonamento Peet's Major Dickason's Blend offre qualità di tostatura scura costante al prezzo per oncia più basso dei cinque, con spedizione gratuita e senza curva di apprendimento. Perfetto per chi vuole la stessa tazza affidabile ogni mattina — completamente sbagliato per chi cerca specialty o varietà.",
+      "pros": ["Prezzo per oncia più basso con spedizione gratuita inclusa", "Carattere tostatura scura costante — nessuna sorpresa o rotazione di origini", "Ampie opzioni di macinatura — nessun macinacaffè necessario"],
+      "cons": ["Zero varietà; il profilo di tostatura scura non soddisferà gli appassionati di specialty a tostatura chiara"],
+      "grade": "B-",
+      "specs": {"Miscela": "Major Dickason's Blend (tostatura scura)", "Spedizione dopo tostatura": "In pochi giorni tramite canale diretto", "Dimensione sacchetto": "340 g", "Fascia di prezzo": "$12–$15 con spedizione gratuita", "Opzioni macinatura": "Chicchi interi e tutti i tipi di macinatura", "Flessibilità": "Skip e pausa dal portale Peet's"},
+      "scores": {"Freschezza": 4.2, "Sapore": 4.0, "Valore": 4.8, "Comodità": 4.9, "Personalizzazione": 1.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per gli amanti curiosi che vogliono varietà senza ricerche", "offerId": "trade-coffee-subscription", "reason": "L'algoritmo di preferenze gestisce la scoperta dei torrefattori; basta valutare ciò che si riceve."},
+    {"label": "Per l'esploratore di caffè con approccio geografico", "offerId": "atlas-coffee-club", "reason": "Un paese diverso ogni mese con contesto sull'origine — sistematico ed educativo."},
+    {"label": "Per acquirenti con preferenza stabilita per tostature chiare di specialty", "offerId": "onyx-coffee-lab-subscription", "reason": "Tostatura su ordinazione con la consegna più rapida e senza compromessi sulla qualità."},
+    {"label": "Per sviluppare il palato attraverso la degustazione alla cieca", "offerId": "angels-cup-subscription", "reason": "L'unico abbonamento progettato come esercizio di degustazione anziché come fornitura quotidiana."},
+    {"label": "Per chi vuole un caffè macinato scuro affidabile senza complicazioni", "offerId": "peets-coffee-subscription", "reason": "Costante, conveniente, pre-macinato — nessuna curva di apprendimento, nessuna sorpresa."}
+  ]
 }

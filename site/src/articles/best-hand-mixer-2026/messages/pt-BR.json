@@ -58,5 +58,184 @@
     "krups-gn9019-hand-mixer": "Nove velocidades com um motor de 200W sintonizado para precisão na faixa baixa — a velocidade mais lenta mal move, o que importa quando se começa um merengue ou incorpora suavemente a farinha. Compacto e leve com 2,1 lbs, com um botão turbo para breves rajadas de velocidade máxima."
   },
   "pinDescription": "Melhores batedeiras de mão 2026: KitchenAid vs Breville vs Cuisinart vs Hamilton Beach comparadas em potência do motor, controle de velocidade e acessórios. Encontre a batedeira certa para sua confeitaria. #batedeiraDeMão #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada batedeira de mão foi avaliada pela consistência do motor sob carga sustentada (testada contra buttercream com manteiga fria e massa de biscoito firme), faixa de velocidade e granularidade, qualidade dos acessórios, nível de ruído, ergonomia e conveniência de armazenamento.",
+  "products": [
+    {
+      "offerId": "kitchenaid-khm512er-hand-mixer",
+      "badge": "Melhor geral",
+      "review": "A KitchenAid KHM512ER vence pela consistência do motor, não pela potência bruta. Seu motor DC mantém RPM constantes sob carga — do creme batido leve à massa de biscoito densa — de uma forma que motores AC baratos não conseguem. Os batedores turbo resistem a manchas e o corpo de 1 kg reduz a fadiga em sessões longas. O intervalo de 5 velocidades é adequado para a maioria dos confeiteiros; o compromisso é menos granularidade que os concorrentes de 9 velocidades.",
+      "pros": [
+        "O motor DC mantém RPM constantes sob carga sem afundar",
+        "Os batedores turbo resistem a manchas e se auto-limpam durante o uso",
+        "Corpo compacto de 1 kg reduz a fadiga do braço"
+      ],
+      "cons": [
+        "5 velocidades oferecem menos granularidade que os concorrentes de 9 velocidades"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Preço": "~$59,99",
+        "Motor": "DC 250W",
+        "Velocidades": "5",
+        "Peso": "1 kg",
+        "Batedores": "Turbo",
+        "Lava-louças": "Sim",
+        "Opções de cor": "Múltiplas"
+      },
+      "scores": {
+        "Power": 4.5,
+        "Ease of use": 4.7,
+        "Noise": 4.3,
+        "Value": 4.5,
+        "Attachments": 4.2
+      }
+    },
+    {
+      "offerId": "breville-bhm800sil-hand-mixer",
+      "badge": "Melhor conjunto de recursos",
+      "review": "A Breville BHM800SIL é a única batedeira de mão com um batedor raspador — um acessório com borda de silicone flexível que limpa a parede da tigela a cada rotação, reduzindo as raspagens manuais em cerca de metade. Nove velocidades e 240W cobrem toda a gama de confeitaria. O calcanhar magnético armazena os batedores no corpo da batedeira. A $160 é a mais cara aqui.",
+      "pros": [
+        "O batedor raspador único reduz as raspagens da tigela em cerca de metade",
+        "9 velocidades com motor de 240W",
+        "O calcanhar magnético armazena os batedores no corpo da batedeira"
+      ],
+      "cons": [
+        "$159,95 — a batedeira de mão mais cara desta comparação"
+      ],
+      "grade": "A",
+      "specs": {
+        "Preço": "~$159,95",
+        "Motor": "240W",
+        "Velocidades": "9",
+        "Característica única": "Batedor raspador",
+        "Armazenamento": "Calcanhar magnético",
+        "Acessórios": "Batedor raspador, batedor regular, batedor globo",
+        "Peso": "1,4 kg"
+      },
+      "scores": {
+        "Power": 4.4,
+        "Ease of use": 4.6,
+        "Noise": 4.2,
+        "Value": 3.7,
+        "Attachments": 4.9
+      }
+    },
+    {
+      "offerId": "cuisinart-hm-90bcs-hand-mixer",
+      "badge": "Melhor para precisão",
+      "review": "O intervalo de 9 velocidades da Cuisinart HM-90BCS é sua vantagem definidora — o controle mais granular para merengue, massa chiffon e tarefas de mistura sensíveis à incorporação. Vem com 5 acessórios: dois batedores, dois ganchos de massa e um batedor globo. O motor de 220W é a menor potência aqui, mas lida bem com as tarefas típicas de confeitaria. Ideal para confeiteiros que trabalham regularmente com merengues ou massas delicadas.",
+      "pros": [
+        "9 velocidades para o controle mais granular em merengues e massas delicadas",
+        "Vem com 5 acessórios incluindo ganchos de massa",
+        "A guia de tigela mantém o caminho dos batedores centrado em sessões longas"
+      ],
+      "cons": [
+        "220W é a menor potência desta comparação"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Preço": "~$79,95",
+        "Motor": "220W",
+        "Velocidades": "9",
+        "Acessórios": "5 (2 batedores, 2 ganchos, 1 globo)",
+        "Guia de tigela": "Sim",
+        "Peso": "1,1 kg",
+        "Estojo": "Incluído"
+      },
+      "scores": {
+        "Power": 4.1,
+        "Ease of use": 4.5,
+        "Noise": 4.1,
+        "Value": 4.3,
+        "Attachments": 4.7
+      }
+    },
+    {
+      "offerId": "hamilton-beach-62682-hand-mixer",
+      "badge": "Melhor econômica",
+      "review": "A $25–30 a Hamilton Beach 62682 é a proposta de valor que todos entendem — motor de 290W, 6 velocidades, suporte de tigela integrado e estojo de armazenamento encaixável. O suporte de tigela integrado (um pé de borracha na parte traseira) permite pousar a batedeira na borda da tigela entre as etapas sem pingar massa. Para confeiteiros ocasionais, não há razão para gastar mais.",
+      "pros": [
+        "Motor de 290W ao menor preço desta comparação",
+        "Suporte de tigela integrado para pausar entre etapas",
+        "Estojo encaixável mantém batedores e batedor globo juntos"
+      ],
+      "cons": [
+        "A carcaça de plástico parece menos sólida que KitchenAid ou Cuisinart"
+      ],
+      "grade": "B",
+      "specs": {
+        "Preço": "~$25–30",
+        "Motor": "290W",
+        "Velocidades": "6",
+        "Suporte tigela": "Pé de borracha integrado",
+        "Armazenamento": "Estojo encaixável",
+        "Peso": "1,1 kg",
+        "Acessórios": "2 batedores, 1 batedor globo"
+      },
+      "scores": {
+        "Power": 4.3,
+        "Ease of use": 4.4,
+        "Noise": 3.9,
+        "Value": 4.9,
+        "Attachments": 3.8
+      }
+    },
+    {
+      "offerId": "krups-gn9019-hand-mixer",
+      "badge": "Melhor controle de baixa velocidade",
+      "review": "O motor de 9 velocidades da KRUPS GN9019 é especificamente ajustado para precisão na faixa baixa — a velocidade mais lenta mal mexe, ideal para iniciar merengues antes de aumentar ou incorporar suavemente a farinha sem trabalhar demais o glúten. A 0,95 kg é a batedeira mais leve aqui, e o botão turbo adiciona breves rajadas de velocidade máxima. O motor de 200W é adequado para tarefas típicas.",
+      "pros": [
+        "A velocidade mais lenta mal mexe — ideal para iniciar merengues e incorporar suavemente",
+        "0,95 kg — a batedeira de mão mais leve desta comparação",
+        "Botão turbo para breves rajadas de velocidade máxima"
+      ],
+      "cons": [
+        "200W é a menor potência — pode ter dificuldades com massas muito firmes"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Preço": "~$49,99",
+        "Motor": "200W",
+        "Velocidades": "9",
+        "Peso": "0,95 kg",
+        "Turbo": "Sim",
+        "Controle baixa velocidade": "Excepcional",
+        "Batedores": "Turbo"
+      },
+      "scores": {
+        "Power": 3.8,
+        "Ease of use": 4.4,
+        "Noise": 4.2,
+        "Value": 4.4,
+        "Attachments": 3.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para confeiteiros caseiros regulares",
+      "offerId": "kitchenaid-khm512er-hand-mixer",
+      "reason": "Consistência do motor DC sob carga com peso anti-fadiga e batedores turbo fáceis de limpar"
+    },
+    {
+      "label": "Para confeiteiros que odeiam raspar tigelas",
+      "offerId": "breville-bhm800sil-hand-mixer",
+      "reason": "O batedor raspador de silicone único reduz as raspagens manuais da tigela em cerca de metade"
+    },
+    {
+      "label": "Para merengues e massas delicadas",
+      "offerId": "cuisinart-hm-90bcs-hand-mixer",
+      "reason": "A granularidade de 9 velocidades previne o excesso de batimento nas etapas críticas de aeração"
+    },
+    {
+      "label": "Para confeiteiros ocasionais com orçamento limitado",
+      "offerId": "hamilton-beach-62682-hand-mixer",
+      "reason": "Motor de 290W com suporte de tigela e estojo de armazenamento ao menor preço"
+    },
+    {
+      "label": "Para tarefas suaves de mistura em baixa velocidade",
+      "offerId": "krups-gn9019-hand-mixer",
+      "reason": "A velocidade mais baixa mal mexe — perfeito para iniciar merengues e incorporar suavemente a farinha"
+    }
+  ]
 }

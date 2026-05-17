@@ -118,5 +118,139 @@
     "peace-lily": "Lírio-da-Paz (Spathiphyllum) — uma das poucas plantas de interior que floresce de forma confiável em ambientes internos sob iluminação normal de cômodo. As flores de espata branca são elegantes, e o indicador de rega por murchar e recuperar é uma das características mais úteis de qualquer planta para iniciantes que perdem o controle dos cronogramas de rega. Fraquezas explícitas: tóxica para gatos, cães e crianças; o dramático murchamento quando com sede é um sinal útil, mas parece alarmante; as pontas das folhas marrons são comuns com água de torneira com flúor; suscetível a ácaros em ar interno seco durante a estação de aquecimento invernal; floresce apenas uma ou duas vezes por ano sob condições típicas de cômodo."
   },
   "pinDescription": "5 melhores plantas de interior para 2026 — Pothos Dourado vs Monstera vs Espada-de-São-Jorge vs ZZ Plant vs Lírio-da-Paz. Verdade sobre pouca luz, mitos sobre rega, guia de toxicidade para pets e o que o estudo de purificação do ar da NASA realmente encontrou. Fraquezas explícitas em cada opção. #plantasdeinterior #cuidadocomplantas #português",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Cada planta foi pontuada em tolerância real à sombra (testada contra limites em pés-vela, não afirmações de marketing), frequência de rega em condições domésticas típicas, pesquisa verificada sobre purificação do ar, dados de toxicidade para animais/crianças da ASPCA e literatura publicada, e facilidade de aquisição no Japão e nos mercados globais.",
+  "products": [
+    {
+      "offerId": "pothos-golden",
+      "badge": "Melhor Escolha Geral",
+      "review": "O Pothos Dourado é a planta de interior mais resistente do grupo: sobrevive com luz artificial de 50 pés-vela onde outras plantas apenas sobreviveriam. O crescimento rápido e visível dá aos iniciantes um retorno positivo imediato, e as trepadeiras pendentes se propagam facilmente por estacas. O único inconveniente real: tóxico para gatos e cães — sem problema para lares sem animais, mas um critério de exclusão para os outros.",
+      "pros": ["Sobrevive tanto à luz artificial quanto ao esquecimento da rega", "O crescimento rápido dá retorno imediato aos iniciantes", "Fácil de propagar por estacas"],
+      "cons": ["Tóxico para gatos e cães — inadequado para lares com animais"],
+      "grade": "A+",
+      "specs": {
+        "Necessidade de luz": "50–250 pés-vela",
+        "Rega": "A cada 7–14 dias",
+        "Toxicidade": "Tóxico para gatos/cães (ASPCA)",
+        "Taxa de crescimento": "30–60 cm/ano",
+        "Humidade": "Tolerante (40–70%)",
+        "Disponibilidade Japão": "Amplamente disponível"
+      },
+      "scores": {
+        "Low maintenance": 5.0,
+        "Air purification": 3.5,
+        "Aesthetics": 4.2,
+        "Value": 5.0,
+        "Growth rate": 4.8
+      }
+    },
+    {
+      "offerId": "monstera-deliciosa",
+      "badge": "Melhor Estética",
+      "review": "A Monstera deliciosa é a planta de design que dá caráter à maioria das salas de estar — as folhas perfuradas são inconfundíveis e ficam espetaculares com a idade. O problema: ela precisa de luz indireta brilhante real (150–250 pés-vela), não a luz fraca que a maioria dos apartamentos oferece, e cresce frustrantemente devagar com pouca luz. Ideal para quartos grandes com boas janelas.",
+      "pros": ["Aparência inconfundível com folhas perfuradas icônicas", "Torna-se uma verdadeira peça central com o tempo", "Não tóxica para humanos, moderadamente para animais"],
+      "cons": ["Requer luz indireta brilhante real — mal cresce sem ela"],
+      "grade": "A",
+      "specs": {
+        "Necessidade de luz": "150–250 pés-vela",
+        "Rega": "A cada 7–10 dias",
+        "Toxicidade": "Levemente tóxica para animais",
+        "Taxa de crescimento": "15–30 cm/ano",
+        "Tamanho máximo": "2+ m em interior",
+        "Disponibilidade Japão": "Floriculturas, centros de jardinagem"
+      },
+      "scores": {
+        "Low maintenance": 3.5,
+        "Air purification": 3.8,
+        "Aesthetics": 5.0,
+        "Value": 3.5,
+        "Growth rate": 3.0
+      }
+    },
+    {
+      "offerId": "snake-plant-laurentii",
+      "badge": "Melhor Purificação do Ar",
+      "review": "A Sansevieria trifasciata 'Laurentii' é a única planta do grupo com dados de purificação do ar verificados em estudos revisados por pares. A fixação noturna de CO₂ por fotossíntese CAM a torna ideal para quartos de dormir. Extremamente tolerante à seca — duas semanas sem água não é problema. O compromisso: crescimento muito lento que alguns percebem como estático.",
+      "pros": ["Desempenho de purificação verificado em estudos científicos", "A fotossíntese CAM a torna ideal para quartos de dormir", "Quase indestrutível contra rega excessiva e seca"],
+      "cons": ["Crescimento muito lento — mudança quase imperceptível em meses"],
+      "grade": "B+",
+      "specs": {
+        "Necessidade de luz": "25–200 pés-vela",
+        "Rega": "A cada 14–21 dias",
+        "Toxicidade": "Moderadamente tóxica para animais",
+        "Taxa de crescimento": "5–10 cm/ano",
+        "Fotossíntese": "CAM (noturna)",
+        "Disponibilidade Japão": "Amplamente disponível"
+      },
+      "scores": {
+        "Low maintenance": 5.0,
+        "Air purification": 4.5,
+        "Aesthetics": 4.0,
+        "Value": 4.5,
+        "Growth rate": 2.0
+      }
+    },
+    {
+      "offerId": "zz-plant",
+      "badge": "A Mais Fácil de Manter",
+      "review": "A ZZ Plant (Zamioculcas zamiifolia) é a planta definitiva para os esquecidos: os rizomas armazenam água para meses de abandono. Prospera com muito pouca luz e é quase indestrutível. O crescimento lento e a estética moderada são seus únicos limites — e o efeito tóxico para humanos e animais deve ser levado em conta.",
+      "pros": ["Os rizomas armazenam água para tolerância extrema à seca", "Prospera com muito pouca luz onde outras morreriam", "Praticamente sem manutenção para lares ocupados"],
+      "cons": ["Crescimento lento — mudança mínima visível em meses"],
+      "grade": "B",
+      "specs": {
+        "Necessidade de luz": "25–150 pés-vela",
+        "Rega": "A cada 21–30 dias",
+        "Toxicidade": "Tóxica para animais e humanos",
+        "Taxa de crescimento": "2–5 cm/ano",
+        "Reserva de água": "Rizomas",
+        "Disponibilidade Japão": "Floriculturas, online"
+      },
+      "scores": {
+        "Low maintenance": 5.0,
+        "Air purification": 3.0,
+        "Aesthetics": 4.3,
+        "Value": 4.0,
+        "Growth rate": 1.5
+      }
+    },
+    {
+      "offerId": "peace-lily",
+      "badge": "As Flores Mais Belas",
+      "review": "O Lírio-da-Paz (Spathiphyllum) é uma das poucas plantas de interior que floresce de forma confiável sob iluminação normal de cômodo — uma vantagem real para lares sem janelas iluminadas. O indicador de rega integrado (murchar e recuperar) é muito prático para iniciantes. Aviso rigoroso: tóxico para gatos, cães e crianças — critério de exclusão absoluto para lares com animais.",
+      "pros": ["Floresce de forma confiável sem luz forte — raro para plantas de interior", "O ciclo de murchar-e-recuperar sinaliza claramente a necessidade de água", "As elegantes flores brancas acrescentam charme ao ambiente"],
+      "cons": ["Tóxico para gatos, cães e crianças — inadequado para lares com animais"],
+      "grade": "B-",
+      "specs": {
+        "Necessidade de luz": "25–150 pés-vela",
+        "Rega": "A cada 7–10 dias",
+        "Toxicidade": "Tóxico para animais e crianças",
+        "Época de floração": "1–2× ao ano",
+        "Indicador de rega": "Murchamento dramático",
+        "Disponibilidade Japão": "Amplamente disponível"
+      },
+      "scores": {
+        "Low maintenance": 3.8,
+        "Air purification": 4.5,
+        "Aesthetics": 4.5,
+        "Value": 4.3,
+        "Growth rate": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para iniciantes e lares ocupados",
+      "offerId": "pothos-golden",
+      "reason": "Nenhuma outra planta perdoa tantos erros de iniciante a um custo tão baixo e com um crescimento tão rápido."
+    },
+    {
+      "label": "Para amantes do design com boas janelas",
+      "offerId": "monstera-deliciosa",
+      "reason": "As icônicas folhas perfuradas tornam qualquer cômodo um ponto focal — se houver luz suficiente."
+    },
+    {
+      "label": "Para quem esquece completamente do cuidado com plantas",
+      "offerId": "zz-plant",
+      "reason": "Os rizomas sobrevivem a meses de abandono — a mais fácil de manter do grupo."
+    }
+  ]
 }

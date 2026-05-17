@@ -93,5 +93,64 @@
     "bokksu-subscription": "Bestes japanisches Snack-Abo -- 20-25 Artikel im Classic-Niveau ($49/Monat) von japanischen Familienproduzenten, viele mit begrenzter Distribution ausserhalb Japans. Produzentenzentrierter Kulturfuehrer. Ideal fuer Personen mit spezifischem Interesse an japanischer Esskultur. Einschraenkung: Traditionelle Geschmaecker (Matcha, Azuki-Bohnen, schwarzer Sesam) erfordern erworbenen Geschmack; kuerzeres Kuendigungsfenster (24 Stunden vor Versanddatum)."
   },
   "pinDescription": "5 Snack-Abo-Boxen im Vergleich fuer 2026: SnackCrate vs Universal Yums vs Graze vs Mouth vs Bokksu. Internationale Vielfalt, Wert pro Snack, Ernaehrungsoptionen -- finden Sie die Box, die es jeden Monat wert ist, geoeffnet zu werden. #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jedes Abonnement wurde auf die tatsaechliche Authentizitaet der Snack-Beschaffung (Einzelhandelsprodukte vs. auf den Exportmarkt abgestimmte Neuformulierungen), die Kosten pro Snack ueber alle Preisstufen, die Tiefe der Beruecksichtigung von Ernaehrungsrestriktionen, die Transparenz der Stornierungsrichtlinie und Muster bei der Vertragsverliaengerungsrate von Abonnenten aus oeffentlichen Bewertungsaggregatioren bewertet.",
+  "products": [
+    {
+      "offerId": "snackcrate-subscription",
+      "badge": "Bestes Gesamtpaket",
+      "review": "SnackCrate liefert echte Einzelhandelsprodukte, die im jeweiligen Land an Einheimische verkauft werden — dieselben Tueten, die man in einem Lawson oder Konbini dort finden wuerde, keine exportmarktorientierten Naeherungen. Mit ~30 $ pro Monat fuer 10 Snacks in voller Groesse bietet es den besten Wert pro Snack unter den auf Authentizitaet fokussierten internationalen Boxen. Die Kulturkarte ist duenn im Vergleich zum Heft von Universal Yums.",
+      "pros": ["Echte Einzelhandelsprodukte in Originalverpackung aus jedem Land", "10 Snacks in voller Groesse fuer ~30 $/Monat inkl. Versand", "Diverse Laenderrotation mit breiter regionaler Abdeckung"],
+      "cons": ["Kulturkarte ist kurz — weniger Bildungskontext als bei Universal Yums"],
+      "grade": "A+",
+      "specs": {"Preis": "~30 $/Monat (Standard)", "Snacks pro Box": "10 in voller Groesse", "Laenderfokus": "Global rotierend", "Ernaehrungsoptionen": "Begrenzte Filterung", "Kuendigungsfrist": "5 Tage vor Abrechnung", "Geschenkoption": "Ja"},
+      "scores": {"Variety": 4.8, "Snack quality": 4.5, "Value": 4.7, "Customization": 3.0, "Packaging": 4.2}
+    },
+    {
+      "offerId": "universal-yums-subscription",
+      "badge": "Bestes Bildungserlebnis",
+      "review": "Universal Yums kombiniert authentische internationale Snacks mit einem 12-seitigen Trivia-Heft, das jede Box zu einer echten Erdkundestunde macht — der Grund, warum Familien mit Kindern es so hoch bewerten. Die abgestufte Preisgestaltung (14–40 $) skaliert gut pro Artikel bei den Yummier- und Yummiest-Stufen. Die ehrliche Einschraenkung: Sie koennen nicht auswaehlen, welches Land als naechstes liefert, und die Rotation ist durch den Redaktionskalender von Universal Yums festgelegt.",
+      "pros": ["12-seitiges Trivia-Heft deckt Esskultur, Geschichte und Geografie ab", "Abgestufte Preise von 14–40 $ passen zu verschiedenen Haushaltsmencgen", "Vegetarierfilter bei der Anmeldung verfuegbar"],
+      "cons": ["Keine Laenderauswahl — Rotation wird durch den Redaktionskalender festgelegt"],
+      "grade": "A",
+      "specs": {"Preis": "14–40 $/Monat (3 Stufen)", "Snacks pro Box": "6–20+ je nach Stufe", "Laenderfokus": "Global rotierend", "Ernaehrungsoptionen": "Vegetarierfilter", "Kuendigungsfrist": "5 Tage vor Abrechnung", "Geschenkoption": "Ja (3/6/12 Monate vorausbezahlt)"},
+      "scores": {"Variety": 4.9, "Snack quality": 4.3, "Value": 4.5, "Customization": 3.2, "Packaging": 4.7}
+    },
+    {
+      "offerId": "graze-snack-subscription",
+      "badge": "Beste Wahl fuer gesundheitsbewusste Snacker",
+      "review": "Graze ist das einzige Abonnement in diesem Vergleich, das um Ernaehrungsziele statt um Entdeckung herum konzipiert ist — 9 Snacks pro Box fuer ~13 $/Monat, jeweils ernaehrungswissenschaftlich entwickelt mit expliziter Allergenkenntlichmachung und einer dedizierten veganen Boxoption. Die Portionskontrolle pro Mahlzeit entfernt die Willensanstrengung, aus einer offenen Familienpackung zu essen. Kein internationales Flair und keine Handwerksgeschichte — das Wertversprechen ist rein funktional.",
+      "pros": ["Ernaehrungswissenschaftlich entwickelte Snacks mit expliziter Allergenkenntlichmachung", "Dedizierte vegane Box verfuegbar", "Praeferenzverwaltungssystem — Artikel als mochte ich/moechte ich probieren/mag ich nicht markieren"],
+      "cons": ["Keine internationale Beschaffung — alle Graze-entwickelten Produkte in Markenverpackung"],
+      "grade": "B+",
+      "specs": {"Preis": "~13 $/Monat", "Snacks pro Box": "9 (kontrollierte Portionen)", "Laenderfokus": "N/A — Graze-entwickelt", "Ernaehrungsoptionen": "Vegane Box, Allergenhinweise", "Kuendigungsfrist": "Jederzeit", "Geschenkoption": "Begrenzt"},
+      "scores": {"Variety": 3.5, "Snack quality": 4.0, "Value": 4.8, "Customization": 4.5, "Packaging": 3.8}
+    },
+    {
+      "offerId": "mouth-snack-subscription",
+      "badge": "Beste Handwerksbeschaffung",
+      "review": "Mouth kuratiert von Kleinserienherstellern in den USA — das Kettelkorn von einem Iowa-Betrieb mit sechsmonatiger Warteliste, die Single-Origin-Schokolade von einem kalifornischen Bean-to-Bar-Hersteller — mit Herstellerstory-Beilagen fuer jeden Artikel. Mit 40–45 $/Monat fuer 6–8 Snacks in voller oder grosser Groesse ist der Preis pro Snack in diesem Vergleich am hoechsten. Die Auswahl tendiert zu haltbaren Raumtemperaturfomaten statt Chips oder Suessigkeiten.",
+      "pros": ["Jeder Snack stammt von verifizierten amerikanischen Kleinserienherstellern", "Herstellerstory-Beilagen machen jeden Artikel zu einer Beziehung mit einem Produzenten", "Vegetarier- und Veganerfilter auf Kontoebene verfuegbar"],
+      "cons": ["Hoechster Preis pro Box in diesem Vergleich — schwer zu rechtfertigen ohne Interesse an handwerklicher Beschaffung"],
+      "grade": "B",
+      "specs": {"Preis": "40–45 $/Monat", "Snacks pro Box": "6–8 in voller Groesse", "Laenderfokus": "Nur USA-Handwerk", "Ernaehrungsoptionen": "Vegetarier-, Veganer-, Glutenfrei-Filter", "Kuendigungsfrist": "Jeden Monat ueberspringen", "Geschenkoption": "Ja"},
+      "scores": {"Variety": 3.8, "Snack quality": 4.8, "Value": 3.2, "Customization": 4.0, "Packaging": 4.5}
+    },
+    {
+      "offerId": "bokksu-subscription",
+      "badge": "Bester japanischer Snack-Spezialist",
+      "review": "Bokksu bezieht direkt von japanischen Familienbetrieben, von denen viele ausserhalb Japans kaum oder gar nicht erhaeltlich sind, und fuegt erzeugerorientierte Kulturnotizen statt allgemeinem Landestrivial hinzu. Die Classic-Stufe (49 $/Monat) liefert 20–25 Artikel einschliesslich saisonaler Suessigkeiten und Teepaarung. Traditionelle japanische Suessigkeiten — Matcha, Rote Bohne, Schwarzer Sesam — erfordern einen ererworbenen Geschmack, und das 24-Stunden-Kuendigungsfenster vor dem Versand erfordert Kalenderverwaltung.",
+      "pros": ["Bezogen von japanischen Familienbetrieben mit begrenzter Aussenverbreitung", "20–25 Artikel pro Classic-Box inkl. saisonal. Suessigkeiten und Teepaarung", "Erzeugerfokussierter Kulturfuehrer geht tiefer als Landestrivial"],
+      "cons": ["24-Stunden-Kuendigungsfenster vor dem Versanddatum — kuerzes unter Wettbewerbern"],
+      "grade": "B-",
+      "specs": {"Preis": "29–49 $/Monat (2 Stufen)", "Snacks pro Box": "12–14 (Tasting) oder 20–25 (Classic)", "Laenderfokus": "Nur Japan", "Ernaehrungsoptionen": "Vegan im Fuehrer gekennzeichnet", "Kuendigungsfrist": "24 Stunden vor Versand", "Geschenkoption": "Ja (Jahresplaene)"},
+      "scores": {"Variety": 4.0, "Snack quality": 4.6, "Value": 3.5, "Customization": 2.8, "Packaging": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Fuer Familien, die die Welt durch Essen entdecken moechten", "offerId": "universal-yums-subscription", "reason": "Das 12-seitige Trivia-Heft verwandelt die Snackzeit in eine Erdkundestunde beim Abendessen — Kinder engagieren sich mit dem kulturellen Kontext, nicht nur mit den Snacks."},
+    {"label": "Fuer reine Snack-Entdeckung ohne Lesen", "offerId": "snackcrate-subscription", "reason": "Dieselbe Authentizitaet wie Universal Yums — echte Einzelhandelsprodukte aus jedem Land — mit mehr Budget fuer Snacks und weniger fuer redaktionelle Verpackung."},
+    {"label": "Fuer gesundheitsbewusste Snacker", "offerId": "graze-snack-subscription", "reason": "Ernaehrungswissenschaftlich entwickelte Portionen mit voller Allergentransparenz und einer dedizierten veganen Option — das einzige Abonnement, das auf Ernaehrungsziele statt Entdeckung ausgerichtet ist."},
+    {"label": "Fuer Lebensmittelkultur-Enthusiasten", "offerId": "mouth-snack-subscription", "reason": "Jede Box stellt amerikanische Kleinserienproduzenten vor, die man im Bioladen nicht finden wuerde, und die Herstellerstory-Beilagen machen sie genuinen Lehrinhalt ueber Lebensmittelhandwerk."},
+    {"label": "Fuer Japan-Lebensmittelkultur-Entdecker", "offerId": "bokksu-subscription", "reason": "Die direkte Beschaffung von japanischen Familienbetrieben gibt Ihnen Zugang zu Wagashi und regionalen Spezialitaeten, die ausserhalb Japans kaum verbreitet sind."}
+  ]
 }

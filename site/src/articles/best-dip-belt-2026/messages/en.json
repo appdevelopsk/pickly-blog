@@ -77,5 +77,64 @@
     "mummyfit-dip-belt": "Value neoprene pick, 36\" chain"
   },
   "pinDescription": "These 5 dip belts cover every training level — from your first 25 lbs to serious loaded pull-up and dip work. Leather, neoprene, or budget nylon — here's what actually holds up.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each dip belt was evaluated on chain length, hardware gauge, padding material comfort under load, weight capacity rating, and long-term durability based on material construction — not brand claims.",
+  "products": [
+    {
+      "offerId": "rogue-dip-belt",
+      "badge": "Best Overall",
+      "review": "Made in the USA from 10mm nylon webbing with a 3-inch leather pad and a rated carabiner. Under heavy plates — 90 lbs and beyond — the leather distributes load across your hip bones rather than digging in, and the hardware stays round. The single-purchase nature is real: the stitching and chain outlast cheaper belts by years.",
+      "pros": ["Made in USA, double-stitched at all stress points", "Leather pad molds to body over time", "Rated carabiner handles serious load without deforming"],
+      "cons": ["Leather is stiff for the first few sessions before break-in"],
+      "grade": "A+",
+      "specs": {"Material": "10mm nylon webbing + leather pad", "Chain length": "24 in steel", "Pad width": "3 in", "Hardware": "Rated steel carabiner", "Origin": "USA"},
+      "scores": {"Build quality": 5.0, "Durability": 5.0, "Comfort": 4.5, "Load capacity": 5.0, "Value": 4.0}
+    },
+    {
+      "offerId": "dark-iron-fitness-dip-belt",
+      "badge": "Best Leather Budget",
+      "review": "Genuine leather with a 6-inch pad — wider than the Rogue — which makes dips specifically more comfortable since the weight sits on upper thighs. The 30-inch chain handles standard Olympic plates and the 300-lb capacity is more than realistic. Trade-off: takes 2–3 weeks of regular use to fully break in.",
+      "pros": ["6-inch leather pad is wider than most competitors", "300 lb weight capacity rating", "Molds to body better than nylon after break-in"],
+      "cons": ["Stiff and uncomfortable for the first few sessions"],
+      "grade": "A",
+      "specs": {"Material": "Genuine leather", "Chain length": "30 in steel", "Pad width": "6 in", "Weight capacity": "300 lb", "Price": "$29.99"},
+      "scores": {"Build quality": 4.2, "Durability": 4.5, "Comfort": 4.3, "Load capacity": 4.8, "Value": 4.8}
+    },
+    {
+      "offerId": "harbinger-dip-belt",
+      "badge": "Best Budget",
+      "review": "Heavy-duty polypropylene webbing with a 30-inch steel chain — the de facto gym-floor standard. Works without complaint for 25–75 lbs added. The steel ring is meaningfully stronger than the stamped rings on sub-$20 belts. Not as comfortable as leather under 100-lb loads, but at $25 it's the sensible starting point before committing to premium.",
+      "pros": ["Used in most commercial gyms — proven track record", "Steel ring noticeably stronger than cheap stamped rings", "Practical starting point at $25"],
+      "cons": ["Polypropylene webbing less comfortable than leather under heavy load"],
+      "grade": "B+",
+      "specs": {"Material": "Polypropylene webbing", "Chain length": "30 in steel", "Price": "$39.99", "Best for": "25–75 lb added weight"},
+      "scores": {"Build quality": 3.8, "Durability": 4.0, "Comfort": 3.5, "Load capacity": 4.0, "Value": 5.0}
+    },
+    {
+      "offerId": "fire-team-fit-dip-belt",
+      "badge": "Best Comfort",
+      "review": "Neoprene padding is soft from day one — no break-in period. The quick-release buckle speeds up transitions between sets, and the 36-inch chain is the longest here, giving room for multiple plates or thick bumper plates. Rated 300 lbs. Neoprene absorbs sweat so you'll need to rinse it occasionally in warm gyms.",
+      "pros": ["Neoprene soft from first use — no break-in", "Quick-release buckle speeds up transitions", "36-inch chain accommodates thick bumper plates"],
+      "cons": ["Neoprene absorbs sweat; needs occasional rinsing"],
+      "grade": "B",
+      "specs": {"Material": "Neoprene", "Chain length": "36 in steel", "Pad width": "4 in", "Weight capacity": "300 lb", "Price": "$55.99"},
+      "scores": {"Build quality": 4.0, "Durability": 3.8, "Comfort": 4.8, "Load capacity": 4.5, "Value": 4.3}
+    },
+    {
+      "offerId": "mummyfit-dip-belt",
+      "badge": "Best Value",
+      "review": "Budget neoprene with a 36-inch chain — the same chain length as the Fire Team Fit at roughly half the price. Hardware is lighter gauge than Rogue or Dark Iron, which is fine under 100 lbs but something to watch if you plan to eventually load 135+ lbs. For beginners or anyone testing loaded calisthenics, it does the job without waste.",
+      "pros": ["36-inch chain at sub-$30 price", "Neoprene padding soft from day one", "Zero-commitment entry point for weighted dips"],
+      "cons": ["Lighter hardware gauge — not ideal for 135+ lb loads"],
+      "grade": "B-",
+      "specs": {"Material": "Neoprene", "Chain length": "36 in steel", "Price": "$25", "Best for": "Beginners, <100 lb added weight"},
+      "scores": {"Build quality": 3.3, "Durability": 3.5, "Comfort": 4.2, "Load capacity": 3.5, "Value": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For serious lifters adding 90+ lbs", "offerId": "rogue-dip-belt", "reason": "USA-made hardware and leather that won't deform or dig in at high loads"},
+    {"label": "For leather comfort on a budget", "offerId": "dark-iron-fitness-dip-belt", "reason": "6-inch leather pad is wider than Rogue's and costs less than half"},
+    {"label": "For beginners testing weighted dips", "offerId": "harbinger-dip-belt", "reason": "The commercial gym standard — proven at $25 before committing to premium"},
+    {"label": "For fast set-to-set transitions", "offerId": "fire-team-fit-dip-belt", "reason": "Quick-release buckle and soft neoprene from day one"},
+    {"label": "For lowest-cost entry", "offerId": "mummyfit-dip-belt", "reason": "36-inch chain at sub-$30 — zero waste if you decide weighted dips aren't for you"}
+  ]
 }

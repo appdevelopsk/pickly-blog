@@ -104,5 +104,182 @@
     "ikea-markus": "IKEA Markus bei ca. ¥25.000 mit Hoeheneinstellung, fester eingebauter Lendenstuetze, hoehenverstellbaren Armlehnen und IKEA 10-Jahres-Garantie. Die feste Lendenkontur funktioniert gut, wenn sie zu deiner Wirbelsaeulengeometrie passt; wenn nicht, gibt es keinen Einstellungsweg."
   },
   "pinDescription": "5 Buerostuehle verglichen 2026 -- Herman Miller Aeron bis IKEA Markus. Netz vs. Schaum ueber 8 Stunden. PostureFit vs. LiveBack vs. feste Lendenstuetze -- was der Mechanismusunterschied tatsaechlich bedeutet. Preisluecke von ¥25.000 bis ¥200.000 ehrlich aufgeschluesselt. #deutsch",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Jeder Stuhl wurde nach Lendenwirbelsaeulenmechanismus, Langzeitdauerhaftigkeit, Einstellbereich fuer japanische Koerpermasse, Garantieumfang und Verfuegbarkeit auf dem Japanmarkt bewertet.",
+  "products": [
+    {
+      "offerId": "herman-miller-aeron",
+      "badge": "Gesamtbester",
+      "review": "Das 8Z-Pellicle-Netz und PostureFit SL bieten das am besten dokumentierte Ergonomiestuetzsystem im Premiumsegment. Die groesste Einschraenkung: Die richtige Groesse (A/B/C) muss vorab getestet werden, und der Preis von ca. 200.000 Yen rechtfertigt sich nur bei langfristiger Heimarbeitsnutzung.",
+      "pros": [
+        "8-Zonen-Pellicle-Netz leitet Hitze in schwuelen Sommern ab",
+        "PostureFit SL stuetzt Kreuzbein und Lendenwirbelsaeule unabhaengig",
+        "12-Jahres-Garantie durch Herman Miller Japan"
+      ],
+      "cons": [
+        "Falsche Groesse macht alle ergonomischen Vorteile zunichte"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Groessen": "A / B / C",
+        "Rueckenmaterial": "8Z-Pellicle-Netz",
+        "Lendenwirbel": "PostureFit SL Dualpunkt",
+        "Armstuetzen": "4D",
+        "Garantie": "12 Jahre",
+        "Tragfaehigkeit": "~136 kg (Groesse C)",
+        "Preis (JP)": "~¥200.000"
+      },
+      "scores": {
+        "Lendenwirbelstuetze": 5.0,
+        "Komfort": 4.8,
+        "Verarbeitungsqualitaet": 5.0,
+        "Preis-Leistung": 3.5,
+        "Einstellbarkeit": 4.9
+      }
+    },
+    {
+      "offerId": "steelcase-leap-v2",
+      "badge": "Bester fuer aktive Sitzer",
+      "review": "Der LiveBack-Mechanismus folgt der Wirbelsaeulenbewegung in Echtzeit, und die Natural-Glide-Sitzflaeche haelt die Hueft-Lenden-Geometrie beim Zuruecklehnen konstant. Ein echter Vorteil fuer Personen, die sich staendig drehen oder lehnen, aber statische Sitzer profitieren weniger.",
+      "pros": [
+        "LiveBack-Ruecken folgt der natuerlichen Bewegung",
+        "Natural Glide haelt Hueftgeometrie beim Zuruecklehnen",
+        "12-Jahres-Steelcase-Japan-Garantie"
+      ],
+      "cons": [
+        "LiveBack-Vorteil geht bei statischen Sitzern verloren"
+      ],
+      "grade": "A",
+      "specs": {
+        "Rueckenmechanismus": "LiveBack flexible Wirbelsaeule",
+        "Sitzflaeche": "Natural-Glide-System",
+        "Armstuetzen": "4D",
+        "Garantie": "12 Jahre",
+        "Polsterung": "Stoff / Leder",
+        "Preis (US)": "$1.376",
+        "Japan-Verfuegbarkeit": "Premium-Haendler / Unternehmen"
+      },
+      "scores": {
+        "Lendenwirbelstuetze": 4.8,
+        "Komfort": 4.9,
+        "Verarbeitungsqualitaet": 4.9,
+        "Preis-Leistung": 3.6,
+        "Einstellbarkeit": 5.0
+      }
+    },
+    {
+      "offerId": "okamura-contessa-seconda",
+      "badge": "Bester Japan-Marktstuhl",
+      "review": "Fuer japanische Koerpermasse entwickelt, mit dem groessten inlaendischen Servicenetz. Der Rueckenmechanismus ist anpassbar, aber weniger dynamisch als der Steelcase LiveBack — Staerke liegt in inlaendischer Servicequalitaet.",
+      "pros": [
+        "Fuer japanische Koerpermasse konzipiert",
+        "Groesstes inlaendisches Servicenetz",
+        "Standard- und Grossgroesse verfuegbar"
+      ],
+      "cons": [
+        "Rueckenmechanismus weniger dynamisch als Steelcase LiveBack"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Groessen": "Standard / Gross",
+        "Rueckenmaterial": "Netz",
+        "Hersteller": "Okamura (Japan)",
+        "Garantie": "5 J. Rahmen / 2 J. Polster",
+        "Preis (JP)": "~¥100.000",
+        "Servicenetz": "Japan weit",
+        "Zielgruppe": "Japanische Koerpermasse"
+      },
+      "scores": {
+        "Lendenwirbelstuetze": 4.5,
+        "Komfort": 4.6,
+        "Verarbeitungsqualitaet": 4.7,
+        "Preis-Leistung": 4.2,
+        "Einstellbarkeit": 4.3
+      }
+    },
+    {
+      "offerId": "flexispot-ej2-ergonomic",
+      "badge": "Bestes Budget-Ergo",
+      "review": "Fuer ca. 30.000 Yen mit hoehenverstellbarer Lendenstuetze, Neigefunktion und Amazon-Prime-Lieferung. Das Lendenpolster ist kein struktureller Mechanismus, und Schaumstoffkompression ist nach 12–24 Monaten intensiver Nutzung zu erwarten.",
+      "pros": [
+        "Hoehenverstellbares Lendenpolster im Budgetbereich",
+        "Amazon Japan Prime verfuegbar",
+        "Neigefunktion fuer Haltungsvariation"
+      ],
+      "cons": [
+        "Schaumstoffkompression nach 12–24 Monaten intensiver Nutzung"
+      ],
+      "grade": "B",
+      "specs": {
+        "Sitzmaterial": "Schaumstoff",
+        "Lendenwirbel": "Hoehenverstellbares Polster",
+        "Garantie": "3 Jahre",
+        "Preis (JP)": "~¥30.000",
+        "Verfuegbarkeit": "Amazon Japan Prime",
+        "Support": "Nur per E-Mail"
+      },
+      "scores": {
+        "Lendenwirbelstuetze": 3.5,
+        "Komfort": 3.8,
+        "Verarbeitungsqualitaet": 3.4,
+        "Preis-Leistung": 4.5,
+        "Einstellbarkeit": 3.6
+      }
+    },
+    {
+      "offerId": "ikea-markus",
+      "badge": "Bester Einstiegsstuhl",
+      "review": "Die feste Lendenstuetze passt entweder zur Wirbelsaeule oder nicht — keine Anpassungsmoeglichkeit. Fuer ca. 25.000 Yen mit 10-Jahres-IKEA-Garantie und Verfuegbarkeit in Japan-Filialen ist er fuer 2–4-stuendige Sessionen angemessen.",
+      "pros": [
+        "In IKEA-Japan-Filialen kaufbar mit einfacher Rueckgabe",
+        "10-Jahres-IKEA-Garantie auf Herstellungsfehler",
+        "Einfachster Einstieg in eine Stuhl mit Lendenstuetze"
+      ],
+      "cons": [
+        "Feste Lendenstuetze — keine Anpassung moeglich wenn sie nicht passt"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Sitzmaterial": "Schaumstoff (Polyurethan)",
+        "Lendenwirbel": "Feste eingebaute Kontur",
+        "Garantie": "10 Jahre (Herstellungsfehler)",
+        "Preis (JP)": "~¥25.000",
+        "Farben": "Schwarz / Beige-Grau",
+        "Armstuetzen": "Nur hoehenverstellbar"
+      },
+      "scores": {
+        "Lendenwirbelstuetze": 3.0,
+        "Komfort": 3.5,
+        "Verarbeitungsqualitaet": 3.2,
+        "Preis-Leistung": 4.6,
+        "Einstellbarkeit": 2.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Fuer Vollzeit-Heimarbeiter (7+ Std.)",
+      "offerId": "herman-miller-aeron",
+      "reason": "PostureFit SL und 8Z Pellicle bieten die dokumentierteste Unterstuetzung fuer langes Sitzen."
+    },
+    {
+      "label": "Fuer Personen mit haeufigen Haltungswechseln",
+      "offerId": "steelcase-leap-v2",
+      "reason": "LiveBack folgt Wirbelsaeulenbewegungen in Echtzeit."
+    },
+    {
+      "label": "Fuer Kaeufer mit Praeferenz japanischer Marken",
+      "offerId": "okamura-contessa-seconda",
+      "reason": "Nationales Okamura-Servicenetz und japanisches Koerperproportions-Design."
+    },
+    {
+      "label": "Fuer budgetbewusste Heimarbeiter",
+      "offerId": "flexispot-ej2-ergonomic",
+      "reason": "Hoehenverstellbare Lendenstuetze und Neigung fuer ca. 30.000 Yen ueber Amazon Prime."
+    },
+    {
+      "label": "Fuer Gelegenheitssitzer mit einfachem Kaufwunsch",
+      "offerId": "ikea-markus",
+      "reason": "In IKEA-Japan-Filialen mit 10-Jahres-Garantie und einfacher Rueckgabe."
+    }
+  ]
 }

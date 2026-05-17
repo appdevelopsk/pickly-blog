@@ -58,5 +58,148 @@
     "fellow-stagg-ekg-kettle": "Pitorro de cuello de ganso, temperatura variable 57-100°C, función de mantenimiento, 0,9 L. $150-170. El mejor hervidor para pour-over — control preciso del flujo, configuración de temperatura exacta, mantenimiento de 60 min. La combinación correcta para Kalita Wave, V60 y Chemex."
   },
   "pinDescription": "Kalita Wave pour-over 2026: 185 vs 155, acero inoxidable vs cerámica vs vidrio, cómo el diseño de fondo plano hace el pour-over más indulgente que la V60, y con qué hervidor de cuello de ganso combinarlo. #KalitaWave #CaféPourOver #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada dripper fue evaluado en la consistencia de extracción con distintas técnicas de vertido, el impacto del material en la retención de calor, durabilidad, facilidad de limpieza y adecuación tanto para baristas principiantes como experimentados.",
+  "products": [
+    {
+      "offerId": "kalita-wave-185-stainless",
+      "badge": "Mejor en general",
+      "review": "El Wave 185 de acero inoxidable es la versión más robusta del dripper: irrompible, apta para lavavajillas y con mejor retención de calor que el vidrio. El único inconveniente real es un ligero sabor metálico en unidades nuevas que desaparece tras los primeros 5-10 usos.",
+      "pros": ["Irrompible y apto para lavavajillas", "Mejor retención de calor que el vidrio", "Dura años con uso diario intenso"],
+      "cons": ["Ligero sabor metálico en unidades nuevas hasta los primeros usos"],
+      "grade": "A+",
+      "specs": {
+        "Material": "Acero inoxidable",
+        "Tamaño": "185 (2-4 tazas)",
+        "Orificios de drenaje": "3 orificios planos",
+        "Compatibilidad de filtro": "Filtros Wave 185",
+        "Apto para lavavajillas": "Sí",
+        "Precio": "$30-40"
+      },
+      "scores": {
+        "Claridad de extracción": 4.5,
+        "Calidad de construcción": 5.0,
+        "Facilidad de uso": 4.9,
+        "Valor": 4.7,
+        "Versatilidad": 4.8
+      }
+    },
+    {
+      "offerId": "kalita-wave-155-ceramic",
+      "badge": "Mejor para una sola porción",
+      "review": "El Wave 155 de cerámica está optimizado para la profundidad del lecho de una sola taza: el diámetro más pequeño concentra el café molido de forma que la saturación es más uniforme que en un 185 con la misma dosis. La cerámica añade un sabor limpio sin ningún rastro metálico, aunque hay que tener cuidado con los golpes.",
+      "pros": ["Profundidad del lecho optimizada para 1 taza", "La cerámica no transmite sabores", "Tacto y peso premium"],
+      "cons": ["Frágil — un golpe fuerte puede romperla"],
+      "grade": "A",
+      "specs": {
+        "Material": "Cerámica",
+        "Tamaño": "155 (1-2 tazas)",
+        "Orificios de drenaje": "3 orificios planos",
+        "Compatibilidad de filtro": "Filtros Wave 155",
+        "Retención de calor": "Buena",
+        "Precio": "$35-50"
+      },
+      "scores": {
+        "Claridad de extracción": 4.8,
+        "Calidad de construcción": 3.8,
+        "Facilidad de uso": 4.7,
+        "Valor": 4.5,
+        "Versatilidad": 3.5
+      }
+    },
+    {
+      "offerId": "kalita-wave-185-glass",
+      "badge": "Mejor para aprender técnica",
+      "review": "El Wave 185 de vidrio es el mejor profesor: ver el bloom expandirse, observar la tasa de drenaje y detectar el canalizado visualmente acelera el aprendizaje más que cualquier guía. La menor retención de calor respecto a cerámica o acero inoxidable es real, así que precalienta el dripper.",
+      "pros": ["Cuerpo transparente para retroalimentación visual completa", "Vidrio resistente al calor", "La experiencia visual mejora la técnica"],
+      "cons": ["Menor retención de calor y es la opción más frágil"],
+      "grade": "B+",
+      "specs": {
+        "Material": "Vidrio borosilicato",
+        "Tamaño": "185 (2-4 tazas)",
+        "Orificios de drenaje": "3 orificios planos",
+        "Compatibilidad de filtro": "Filtros Wave 185",
+        "Transparente": "Sí",
+        "Precio": "$45-60"
+      },
+      "scores": {
+        "Claridad de extracción": 4.6,
+        "Calidad de construcción": 3.2,
+        "Facilidad de uso": 4.5,
+        "Valor": 4.3,
+        "Versatilidad": 4.0
+      }
+    },
+    {
+      "offerId": "kalita-wave-filters-185",
+      "badge": "Consumible esencial",
+      "review": "Los filtros Wave son el componente que hace que el sistema funcione: las pliegues en forma de onda crean un espacio de aire entre el papel y las paredes del dripper, lo que elimina el contacto directo y permite un flujo uniforme. No son intercambiables con V60, Chemex ni ningún otro filtro.",
+      "pros": ["El espacio de aire garantiza una extracción uniforme", "100 unidades por ~$10-15 (coste por taza bajo)", "Disponibles en Amazon con entrega rápida"],
+      "cons": ["Solo funcionan con drippers Kalita Wave — no intercambiables"],
+      "grade": "B",
+      "specs": {
+        "Compatibilidad": "Kalita Wave 185",
+        "Cantidad por paquete": "100 unidades",
+        "Tipo": "Papel, pliegues en forma de onda",
+        "Precio por unidad": "~$0.10-0.15",
+        "Precio del paquete": "~$10-15"
+      },
+      "scores": {
+        "Claridad de extracción": 4.5,
+        "Calidad de construcción": 4.0,
+        "Facilidad de uso": 4.8,
+        "Valor": 4.7,
+        "Versatilidad": 3.0
+      }
+    },
+    {
+      "offerId": "fellow-stagg-ekg-kettle",
+      "badge": "Mejor hervidor complementario",
+      "review": "El Stagg EKG tiene el cuello de ganso más controlable del mercado pour-over: el caudal es predecible, la temperatura variable va de 57 a 100°C con un grado de precisión, y la función de mantenimiento de 60 minutos evita que el agua se enfríe entre vertidos. El precio de $150-170 es la única objeción real.",
+      "pros": ["Control del caudal de vertido con precisión máxima", "Función de mantenimiento de temperatura 60 minutos", "Diseñado específicamente para pour-over"],
+      "cons": ["Precio premium de $150-170 que no se justifica si ya tienes un hervidor decente"],
+      "grade": "B-",
+      "specs": {
+        "Tipo de boquilla": "Cuello de ganso",
+        "Rango de temperatura": "57-100°C",
+        "Capacidad": "0,9 L",
+        "Función de mantenimiento": "Sí, 60 min",
+        "Pantalla": "LCD",
+        "Precio": "$150-170"
+      },
+      "scores": {
+        "Claridad de extracción": 4.9,
+        "Calidad de construcción": 4.8,
+        "Facilidad de uso": 4.5,
+        "Valor": 3.8,
+        "Versatilidad": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Uso diario intenso",
+      "offerId": "kalita-wave-185-stainless",
+      "reason": "Irrompible y apto para lavavajillas — ideal si preparas 2+ tazas cada mañana y no quieres preocuparte por romperlo."
+    },
+    {
+      "label": "Ritual de una sola taza",
+      "offerId": "kalita-wave-155-ceramic",
+      "reason": "El 155 de cerámica está optimizado para 1 taza: la relación entre la profundidad del lecho y el diámetro ofrece una extracción más uniforme que el 185 con dosis pequeñas."
+    },
+    {
+      "label": "Barista en aprendizaje",
+      "offerId": "kalita-wave-185-glass",
+      "reason": "La transparencia del vidrio te permite ver el bloom, el ritmo de drenaje y el canalizado — retroalimentación visual que ningún otro dripper opaco puede darte."
+    },
+    {
+      "label": "Reposición de consumibles",
+      "offerId": "kalita-wave-filters-185",
+      "reason": "Los filtros Wave son obligatorios y no intercambiables — abastécete con paquetes de 100 unidades para no quedarte sin stock."
+    },
+    {
+      "label": "Control total del vertido",
+      "offerId": "fellow-stagg-ekg-kettle",
+      "reason": "El Stagg EKG convierte un buen dripper en un sistema de extracción de precisión — para quien quiere controlar cada variable del proceso."
+    }
+  ]
 }

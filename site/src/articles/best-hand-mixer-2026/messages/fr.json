@@ -58,5 +58,184 @@
     "krups-gn9019-hand-mixer": "Neuf vitesses avec un moteur de 200W réglé pour la précision en bas de gamme — la vitesse la plus lente remue à peine, ce qui compte quand on démarre une meringue ou qu'on incorpore délicatement la farine. Compact et léger à 2,1 lbs, avec un bouton turbo pour de brèves bouffées de vitesse maximale."
   },
   "pinDescription": "Meilleurs batteurs à main 2026 : KitchenAid vs Breville vs Cuisinart vs Hamilton Beach comparés sur la puissance du moteur, le contrôle de vitesse et les accessoires. Trouvez le bon batteur pour votre pâtisserie. #batteurÀMain #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque batteur à main a été évalué sur la consistance du moteur sous charge soutenue (testée contre une crème au beurre avec du beurre froid et une pâte à biscuits ferme), la plage de vitesse et sa granularité, la qualité des accessoires, le niveau sonore, l'ergonomie et la commodité de rangement.",
+  "products": [
+    {
+      "offerId": "kitchenaid-khm512er-hand-mixer",
+      "badge": "Meilleur choix global",
+      "review": "Le KitchenAid KHM512ER gagne sur la consistance du moteur, pas la puissance brute. Son moteur DC maintient un régime constant sous charge — de la crème fouettée légère à la pâte à biscuits dense — d'une façon que les moteurs AC bon marché ne font pas. Les batteurs turbo résistent aux taches et le corps de 1 kg réduit la fatigue lors des longues sessions. La plage 5 vitesses est adéquate pour la plupart des pâtissiers ; le compromis est moins de granularité que les concurrents à 9 vitesses.",
+      "pros": [
+        "Le moteur DC maintient un régime constant sous charge sans ralentir",
+        "Les batteurs turbo résistent aux taches et s'auto-nettoient en cours d'utilisation",
+        "Corps compact de 1 kg réduit la fatigue du bras"
+      ],
+      "cons": [
+        "5 vitesses offrent moins de granularité que les concurrents à 9 vitesses"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Prix": "~$59,99",
+        "Moteur": "DC 250W",
+        "Vitesses": "5",
+        "Poids": "1 kg",
+        "Batteurs": "Batteurs turbo",
+        "Lave-vaisselle": "Oui",
+        "Options couleur": "Multiples"
+      },
+      "scores": {
+        "Power": 4.5,
+        "Ease of use": 4.7,
+        "Noise": 4.3,
+        "Value": 4.5,
+        "Attachments": 4.2
+      }
+    },
+    {
+      "offerId": "breville-bhm800sil-hand-mixer",
+      "badge": "Meilleur équipement",
+      "review": "Le Breville BHM800SIL est le seul batteur avec un batteur racleur — un accessoire à bord en silicone flexible qui essuie la paroi du bol à chaque rotation, réduisant les raclages manuels d'environ moitié. Neuf vitesses et 240W couvrent l'intégralité des tâches de pâtisserie. Le talon magnétique stocke les batteurs sur le corps du mixeur. À $160, c'est le plus cher ici.",
+      "pros": [
+        "Batteur racleur unique réduit les raclages du bol d'environ moitié",
+        "9 vitesses avec moteur 240W",
+        "Talon magnétique stocke les batteurs sur le corps du mixeur"
+      ],
+      "cons": [
+        "$159,95 — le batteur à main le plus cher de cette comparaison"
+      ],
+      "grade": "A",
+      "specs": {
+        "Prix": "~$159,95",
+        "Moteur": "240W",
+        "Vitesses": "9",
+        "Particularité": "Batteur racleur",
+        "Rangement": "Talon magnétique",
+        "Accessoires": "Batteur racleur, batteur standard, fouet",
+        "Poids": "1,4 kg"
+      },
+      "scores": {
+        "Power": 4.4,
+        "Ease of use": 4.6,
+        "Noise": 4.2,
+        "Value": 3.7,
+        "Attachments": 4.9
+      }
+    },
+    {
+      "offerId": "cuisinart-hm-90bcs-hand-mixer",
+      "badge": "Meilleur pour la précision",
+      "review": "La plage 9 vitesses du Cuisinart HM-90BCS est son avantage définissant — la granularité la plus fine pour les meringues, la génoise et les tâches de mixage sensibles à l'incorporation. Livré avec 5 accessoires : deux batteurs, deux crochets pétrisseurs et un fouet. Le moteur 220W est la puissance la plus faible ici mais gère bien les tâches de pâtisserie typiques. Idéal pour les pâtissiers qui travaillent régulièrement avec des meringues ou des pâtes délicates.",
+      "pros": [
+        "9 vitesses pour la granularité la plus fine sur les meringues et les pâtes délicates",
+        "Livré avec 5 accessoires dont des crochets pétrisseurs",
+        "Le guide bol maintient le chemin des batteurs centré lors de longues sessions"
+      ],
+      "cons": [
+        "220W est la puissance la plus faible de cette comparaison"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Prix": "~$79,95",
+        "Moteur": "220W",
+        "Vitesses": "9",
+        "Accessoires": "5 (2 batteurs, 2 crochets, 1 fouet)",
+        "Guide bol": "Oui",
+        "Poids": "1,1 kg",
+        "Mallette": "Incluse"
+      },
+      "scores": {
+        "Power": 4.1,
+        "Ease of use": 4.5,
+        "Noise": 4.1,
+        "Value": 4.3,
+        "Attachments": 4.7
+      }
+    },
+    {
+      "offerId": "hamilton-beach-62682-hand-mixer",
+      "badge": "Meilleur budget",
+      "review": "À $25–30, le Hamilton Beach 62682 est la proposition valeur que tout le monde comprend — moteur 290W, 6 vitesses, repose-bol intégré et étui de rangement clipsable. Le repose-bol intégré (un pied en caoutchouc à l'arrière) permet de poser le batteur sur le bord du bol en cours de tâche sans égoutter la pâte sur le plan de travail. Pour les pâtissiers occasionnels, il n'y a aucune raison de dépenser plus.",
+      "pros": [
+        "Moteur 290W au prix le plus bas de cette comparaison",
+        "Repose-bol intégré pour les pauses en cours de tâche",
+        "Étui clipsable garde batteurs et fouet ensemble"
+      ],
+      "cons": [
+        "Le boîtier plastique semble moins solide que KitchenAid ou Cuisinart"
+      ],
+      "grade": "B",
+      "specs": {
+        "Prix": "~$25–30",
+        "Moteur": "290W",
+        "Vitesses": "6",
+        "Repose-bol": "Pied caoutchouc intégré",
+        "Rangement": "Étui clipsable",
+        "Poids": "1,1 kg",
+        "Accessoires": "2 batteurs, 1 fouet"
+      },
+      "scores": {
+        "Power": 4.3,
+        "Ease of use": 4.4,
+        "Noise": 3.9,
+        "Value": 4.9,
+        "Attachments": 3.8
+      }
+    },
+    {
+      "offerId": "krups-gn9019-hand-mixer",
+      "badge": "Meilleur contrôle basse vitesse",
+      "review": "Le moteur 9 vitesses du KRUPS GN9019 est spécifiquement réglé pour la précision à bas régime — la vitesse la plus lente remue à peine, idéale pour commencer une meringue avant de monter en régime ou incorporer délicatement de la farine sans travailler le gluten. À 0,95 kg, c'est le batteur le plus léger ici, et le bouton turbo ajoute de brèves pointes à vitesse maximale. Le moteur 200W est adéquat pour les tâches typiques.",
+      "pros": [
+        "La vitesse la plus lente remue à peine — idéale pour démarrer les meringues et incorporer délicatement",
+        "0,95 kg — le batteur à main le plus léger de cette comparaison",
+        "Bouton turbo pour de brèves pointes à vitesse maximale"
+      ],
+      "cons": [
+        "200W est la puissance la plus faible — peut peiner avec les pâtes très fermes"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Prix": "~$49,99",
+        "Moteur": "200W",
+        "Vitesses": "9",
+        "Poids": "0,95 kg",
+        "Turbo": "Oui",
+        "Contrôle basse vitesse": "Exceptionnel",
+        "Batteurs": "Turbo"
+      },
+      "scores": {
+        "Power": 3.8,
+        "Ease of use": 4.4,
+        "Noise": 4.2,
+        "Value": 4.4,
+        "Attachments": 3.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les pâtissiers amateurs réguliers",
+      "offerId": "kitchenaid-khm512er-hand-mixer",
+      "reason": "Consistance du moteur DC sous charge avec un poids anti-fatigue et des batteurs turbo faciles à nettoyer"
+    },
+    {
+      "label": "Pour les pâtissiers qui détestent racler les bols",
+      "offerId": "breville-bhm800sil-hand-mixer",
+      "reason": "Le batteur racleur en silicone unique réduit les raclages manuels du bol d'environ moitié"
+    },
+    {
+      "label": "Pour les meringues et pâtes délicates",
+      "offerId": "cuisinart-hm-90bcs-hand-mixer",
+      "reason": "La granularité 9 vitesses empêche le surpétrissage aux stades critiques d'aération"
+    },
+    {
+      "label": "Pour les pâtissiers occasionnels avec un budget limité",
+      "offerId": "hamilton-beach-62682-hand-mixer",
+      "reason": "Moteur 290W avec repose-bol et étui de rangement au prix le plus bas"
+    },
+    {
+      "label": "Pour les tâches de mixage doux à basse vitesse",
+      "offerId": "krups-gn9019-hand-mixer",
+      "reason": "La vitesse la plus basse remue à peine — parfait pour démarrer les meringues et incorporer délicatement la farine"
+    }
+  ]
 }

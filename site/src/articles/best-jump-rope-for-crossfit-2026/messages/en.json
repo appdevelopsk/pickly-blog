@@ -53,5 +53,64 @@
     "elite-srs-muay-thai-cable": "Also sold as a standalone cable for athletes who already own Elite SRS handles. Outdoor-rated PVC jacket holds up better to rough surfaces than coated wire."
   },
   "pinDescription": "5 best jump ropes for CrossFit tested across 90-day WODs — competition wire, weighted cables, and budget options ranked. Double-unders start here.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each rope was evaluated on cable diameter and spin speed for double-unders, bearing type and longevity, handle ergonomics at 200+ reps, durability across WODs including outdoor use, and value — not on marketing or brand claims.",
+  "products": [
+    {
+      "offerId": "rx-smart-gear-elite-evo",
+      "badge": "Best Overall",
+      "review": "The Rx Smart Gear Elite EVO's 1.5mm wire and precision needle bearings produce the fastest, most consistent spin available at this price. The 57g aluminum handles are long enough for a stable grip during kipping but light enough to not fatigue the forearms in long sets. It's the competition standard for good reason — double-unders at 150+ reps per minute are achievable without the rope slapping. Cable replacement is straightforward and inexpensive. The $175 price is high but justified by bearing quality and long-term cable replacements.",
+      "pros": ["1.5mm wire with precision needle bearings — fastest spin available at this price", "57g handles are stable without fatiguing forearms in long sets", "Easy cable replacement — inexpensive long-term maintenance"],
+      "cons": ["$175 price is significantly higher than budget options — steep for beginners"],
+      "grade": "A+",
+      "specs": {"Price": "$175", "Cable": "1.5mm wire", "Bearings": "Precision needle bearings", "Handle weight": "57g each", "Handle length": "6.5 inches (165mm)"},
+      "scores": {"Build quality": 5.0, "Speed": 5.0, "Durability": 4.8, "Comfort": 4.8, "Value": 3.8}
+    },
+    {
+      "offerId": "wod-nation-speed-jump-rope",
+      "badge": "Best Budget",
+      "review": "At $15, the WOD Nation Speed Rope is the lowest-cost path to learning double-unders. The 1.8mm PVC-coated cable is slightly slower than 1.5mm wire but provides clearer auditory feedback per revolution — useful for beginners developing timing. Sealed ball bearings work adequately up to moderate WOD volumes. The rope ships as a 3-pack, making cable loss or stepping less costly. Build quality is basic — handles loosen slightly with extended use. For an athlete who doesn't yet have 50 unbroken double-unders, this is the correct starting point.",
+      "pros": ["$15 — lowest cost entry into speed rope training", "1.8mm cable gives clear feedback for timing when learning double-unders", "3-pack ships together — inexpensive backup cables"],
+      "cons": ["Handles loosen slightly with extended use — not built for years of daily WODs"],
+      "grade": "A",
+      "specs": {"Price": "$15", "Cable": "1.8mm PVC-coated steel", "Bearings": "Sealed ball bearings", "Pack size": "3-pack", "Best for": "Beginners learning double-unders"},
+      "scores": {"Build quality": 3.0, "Speed": 4.0, "Durability": 3.5, "Comfort": 3.8, "Value": 5.0}
+    },
+    {
+      "offerId": "crossrope-get-lean-bundle",
+      "badge": "Best Weighted System",
+      "review": "The CrossRope Get Lean Bundle's quick-connect system swaps between 113g and 227g cables in seconds — one pair of handles, two training stimuli. The weighted cables load the grip, forearms, and shoulders through the rotation, which produces a muscular conditioning effect distinct from speed rope work. The CrossRope app structures WODs around the weighted progression, which adds value if you use it. At $179, the handles and both cables are included; additional cables are sold separately. The limitation is maximum cadence — the 227g cable can't reach the speeds needed for competition double-unders.",
+      "pros": ["Quick-connect swap between 113g and 227g cables in seconds", "Weighted cables load forearms and shoulders for a muscular conditioning effect", "CrossRope app provides structured WODs around weighted rope progression"],
+      "cons": ["227g cable can't reach competition double-under cadence — not for speed records"],
+      "grade": "B+",
+      "specs": {"Price": "$179", "Cables included": "1/4 lb (113g) + 1/2 lb (227g)", "Handle type": "Quick-connect aluminum", "App": "CrossRope app (free basic)", "Best for": "Conditioning variety + grip/shoulder endurance"},
+      "scores": {"Build quality": 4.8, "Speed": 3.5, "Durability": 4.8, "Comfort": 4.5, "Value": 4.0}
+    },
+    {
+      "offerId": "rpm-session-3-jump-rope",
+      "badge": "Best Mid-Range",
+      "review": "The RPM Session 3's 1.6mm aircraft-grade steel cable and chrome aluminum handles sit between WOD Nation budget and Rx Smart Gear premium. The bearings are sealed ball type — adequate for most athletes short of elite competition volume. At $89.95, you get a meaningfully better build than budget options without paying the Rx premium. The handle length options (145mm or 165mm) let you match handle proportion to hand size, which matters for grip stability at high cadence. Best for intermediate athletes doing consistent WOD volume who need more than a budget rope but can't justify the Rx price.",
+      "pros": ["1.6mm aircraft-grade steel cable — upgrade from 1.8mm budget cables", "Handle length options (145mm / 165mm) for grip proportion matching", "Solid mid-range build without the Rx Smart Gear premium"],
+      "cons": ["$89.95 is a notable step up from budget options — premium may not be felt until high WOD volume"],
+      "grade": "B",
+      "specs": {"Price": "$89.95", "Cable": "1.6mm aircraft-grade steel", "Bearings": "Sealed ball bearings", "Handle options": "145mm or 165mm", "Material": "Chrome aluminum handles"},
+      "scores": {"Build quality": 4.3, "Speed": 4.5, "Durability": 4.5, "Comfort": 4.3, "Value": 4.3}
+    },
+    {
+      "offerId": "elite-srs-muay-thai-cable",
+      "badge": "Best Heavy Cable",
+      "review": "The Elite SRS Muay Thai Cable's 3mm PVC-jacketed steel generates air resistance and auditory feedback per revolution that 1.5mm wire can't match — the point is not speed but conditioning load. Shoulders and forearms fatigue faster at moderate rep counts, making tempo WODs harder. The rope survives outdoor and rough-surface training better than fine wire. At $29.99, it's the lowest-cost way to add weighted rope conditioning to any program. It's a complement to a speed rope, not a replacement — double-under cadence is slower and competition use is inappropriate.",
+      "pros": ["3mm PVC-jacketed steel survives outdoor and rough-surface training", "Extra air resistance loads shoulders and forearms for conditioning effect", "$29.99 — lowest-cost path to weighted rope conditioning"],
+      "cons": ["Lower maximum cadence than 1.5mm wire — not suitable for speed competition double-unders"],
+      "grade": "B-",
+      "specs": {"Price": "$29.99", "Cable": "3mm PVC-jacketed steel", "Bearings": "Sealed ball in 5.5-inch handles", "Handle length": "5.5 inches", "Best for": "Conditioning load, outdoor training"},
+      "scores": {"Build quality": 4.0, "Speed": 2.8, "Durability": 5.0, "Comfort": 3.8, "Value": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For competition and elite CrossFit athletes", "offerId": "rx-smart-gear-elite-evo", "reason": "Needle bearings and 1.5mm wire — the combination that enables 200+ unbroken double-unders at competition cadence"},
+    {"label": "For beginners learning double-unders", "offerId": "wod-nation-speed-jump-rope", "reason": "1.8mm cable gives clear timing feedback and $15 eliminates the cost barrier to starting"},
+    {"label": "For conditioning variety and grip/shoulder endurance", "offerId": "crossrope-get-lean-bundle", "reason": "Quick-swap weighted cables add a muscular conditioning stimulus distinct from speed rope work"},
+    {"label": "For consistent WOD athletes who want mid-range quality", "offerId": "rpm-session-3-jump-rope", "reason": "1.6mm aircraft-grade cable and length options in a solid build without the competition price tag"},
+    {"label": "For outdoor training and tempo conditioning", "offerId": "elite-srs-muay-thai-cable", "reason": "3mm PVC survives rough surfaces and loads the shoulders at $29.99 — best heavy cable value"}
+  ]
 }

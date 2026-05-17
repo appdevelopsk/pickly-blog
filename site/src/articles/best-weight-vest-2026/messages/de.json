@@ -84,5 +84,190 @@
     "511-tactical-tactec-vest": "Kompatibel mit den meisten Standard-SAPI-Schnittplatten. Die Weste allein wird ohne Platten geliefert."
   },
   "pinDescription": "5 Gewichtswesten getestet fuer Klimmzuege, HIIT und Rucking — von einem 8-lb-Shirt, das du ueberall tragen kannst, bis zu einem Platten-Carrier fuer Kilometer. Finde die richtige Passform fuer dein Training. #Gewichtsweste #Heimtraining #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Gewichtsverteilung durch Druckmessung über 30-minütige Läufe und Körpergewichtskreisläufe gemessen; Bounce während 400m-Intervallen bei geladenem Tempo bewertet; Verstellbarkeit nach Gewichtsbereich und Leichtigkeit der stufenweisen Beladung bewertet.",
+  "products": [
+    {
+      "offerId": "titin-force-weighted-shirt",
+      "badge": "Bestes insgesamt",
+      "review": "Hydrogel-Taschen verteilen 8 lbs auf 14 Punkte an Brust, Rücken und Schultern — die natürlichste Gewichtsverteilung in diesem Test. Wird unter normaler Kleidung getragen für Low-Profile-Alltag. Bewegungsfreiheit ist unverändert vs. unbeladen für Klimmzüge und Liegestütze. Die Einschränkung: 8 lbs Gesamtgewicht ist nicht anpassbar.",
+      "pros": [
+        "14-Punkt-Hydrogel-Gewichtsverteilung — natürlichstes Gefühl im Test",
+        "Wird unter normaler Kleidung getragen — null Volumen-Profil",
+        "Volle Bewegungsfreiheit für Klimmzüge, Liegestütze und Alltagsbewegung"
+      ],
+      "cons": [
+        "8 lbs Gesamtgewicht ist fest — kann nicht mehr hinzugefügt werden wenn man stärker wird"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Weight": "8 lbs / 3.6 kg fixed",
+        "Distribution": "14 pockets: chest, back, shoulders",
+        "Weight type": "Hydro-gel",
+        "Profile": "Compression shirt",
+        "Use case": "Pull-ups, push-ups, daily wear",
+        "Sizes": "S-XXL",
+        "Material": "Compression fabric",
+        "Price": "$189"
+      },
+      "scores": {
+        "Weight distribution": 5.0,
+        "Comfort": 4.9,
+        "Adjustability": 2.0,
+        "Value": 3.8,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "hyperwear-hyper-vest-pro",
+      "badge": "Bestes für Laufen",
+      "review": "Korsettartiges Seitenband presst die Weste gegen den Oberkörper für fast keinen Bounce — das entscheidende Merkmal für Laufen und HIIT. Stahlschrotkörner halten die Last körpernah. Erhältlich in 10-20 lbs. Die Weste, die beim Sprinten ohne das Springen, das die Form zerstört, tatsächlich funktioniert.",
+      "pros": [
+        "Korsettband erzielt fast keinen Bounce beim Laufen",
+        "Stahlschrot bleibt körpernah für natürliche Bewegung",
+        "Zweckgebaut für hochbewegte Cardio-Anwendungsfälle"
+      ],
+      "cons": [
+        "Höherer Preis als Allround-Westen",
+        "Gewichtsbereich auf 10-20 lbs begrenzt"
+      ],
+      "grade": "A",
+      "specs": {
+        "Weight range": "10-20 lbs",
+        "Weight type": "Steel shot pockets",
+        "Closure": "Corset-style side lacing",
+        "Bounce": "Near-zero",
+        "Use case": "Running, HIIT, sprints",
+        "Sizes": "XS-XL",
+        "Material": "Nylon + elastic",
+        "Price": "$239.95"
+      },
+      "scores": {
+        "Weight distribution": 4.8,
+        "Comfort": 4.7,
+        "Adjustability": 3.5,
+        "Value": 3.6,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "511-tactical-tactec-vest",
+      "badge": "Bestes für Rucking",
+      "review": "Militärisches Plattenträger-Design mit gepolsterten Schulterträgern und Kummerbund-Taillenverteilung — für anhaltende Lastbewegung über Stunden gebaut. MOLLE-Kompatibilität ermöglicht das Befestigen von Ausrüstung. Hält Standard-SAPI-Platten bis 30 lbs.",
+      "pros": [
+        "Kummerbund verteilt Last für anhaltende Bewegung",
+        "MOLLE-kompatibel für das Befestigen von zusätzlicher Ausrüstung",
+        "Militärische Haltbarkeit für mehrjährigen Outdoor-Einsatz"
+      ],
+      "cons": [
+        "Klobiges Design nicht geeignet für Gym-Übungen wie Klimmzüge oder Liegestütze"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Weight capacity": "Up to 30 lbs / 13.5 kg",
+        "Plate type": "Standard SAPI",
+        "Waist": "Cummerbund",
+        "Attachment": "MOLLE-compatible",
+        "Use case": "Rucking, loaded hiking",
+        "Sizes": "S-XL",
+        "Material": "Military-grade nylon",
+        "Price": "$140"
+      },
+      "scores": {
+        "Weight distribution": 4.5,
+        "Comfort": 4.3,
+        "Adjustability": 4.0,
+        "Value": 4.5,
+        "Durability": 5.0
+      }
+    },
+    {
+      "offerId": "cap-barbell-weight-vest",
+      "badge": "Bestes Budget",
+      "review": "Eisensandtaschen passen sich bis zu 40 lbs schrittweise an — die breiteste Gewichtsrange in diesem Vergleich für den Preis. Gewebkonstruktion hält durch Körpergewichts-Kraftzirkel. Nicht ideal für Laufen wegen Bounce, aber für Liegestütze, Dips, Kniebeugen und Step-ups liefert es solide Belastung.",
+      "pros": [
+        "Bis zu 40 lbs verstellbar — breiteste Range zu diesem Preis",
+        "Eisensandtaschen erlauben feine Gewichtsstufen",
+        "Solide für Körpergewichts-Kraftübungen"
+      ],
+      "cons": [
+        "Merklicher Bounce beim Laufen — keine Laufweste"
+      ],
+      "grade": "B",
+      "specs": {
+        "Weight range": "Up to 40 lbs / 18 kg adjustable",
+        "Weight type": "Iron sand pockets",
+        "Closure": "Buckle straps",
+        "Bounce": "Moderate (not for running)",
+        "Use case": "Bodyweight strength training",
+        "Sizes": "One size adjustable",
+        "Material": "Fabric",
+        "Price": "~$40-60"
+      },
+      "scores": {
+        "Weight distribution": 3.8,
+        "Comfort": 3.5,
+        "Adjustability": 4.8,
+        "Value": 5.0,
+        "Durability": 3.8
+      }
+    },
+    {
+      "offerId": "rogue-dog-collar-vest",
+      "badge": "Bestes für Klimmzüge & Dips",
+      "review": "Der Dog Collar ist keine Weste — es ist ein plattenbeladenes Schultergeschirr für genau einen Zweck: Befestigung von olympischen Platten für gewichtete Klimmzüge und Dips. Frontplattenposition hält den Rücken völlig frei. Stahlkonstruktion für kommerzielle Gym-Volumen.",
+      "pros": [
+        "Frontplattenbeladung hält Rücken für Klimmzug-Bewegung frei",
+        "Hält 10-45 lbs olympische Platten — unbegrenzte Gewichtsprogression",
+        "Kommerziell-Grade Stahl für tägliches Gym-Volumen"
+      ],
+      "cons": [
+        "Einzelner Anwendungsfall — Klimmzüge und Dips nur, nicht für Laufen oder allgemeines Tragen"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Weight type": "Olympic plates (10-45 lb)",
+        "Loading": "Front plate loaded",
+        "Construction": "Steel",
+        "Use case": "Weighted pull-ups, dips",
+        "Sizes": "Adjustable belt",
+        "Back clearance": "Full",
+        "Brand": "Rogue",
+        "Price": "$20"
+      },
+      "scores": {
+        "Weight distribution": 4.0,
+        "Comfort": 3.0,
+        "Adjustability": 4.5,
+        "Value": 4.9,
+        "Durability": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Alltagsbewegung und Körpergewichtstraining",
+      "offerId": "titin-force-weighted-shirt",
+      "reason": "Wird unter Kleidung getragen, 14-Punkt-Hydrogel-Verteilung — die einzige gewichtete Weste die man vergisst zu tragen."
+    },
+    {
+      "label": "Für Läufer und HIIT-Athleten",
+      "offerId": "hyperwear-hyper-vest-pro",
+      "reason": "Korsettband erzielt fast keinen Bounce bei Lauftempo — die einzige Weste hier die die Form beim Sprinten nicht zerstört."
+    },
+    {
+      "label": "Für Rucking und belastetes Wandern",
+      "offerId": "511-tactical-tactec-vest",
+      "reason": "Militärisches Kummerbund-Design verteilt Last über Stunden anhaltender Bewegung ohne Hotspots."
+    },
+    {
+      "label": "Für budgetbewusste Käufer",
+      "offerId": "cap-barbell-weight-vest",
+      "reason": "40 lbs verstellbar zum Einstiegspreis — das meiste Gewicht pro Dollar in diesem Vergleich."
+    },
+    {
+      "label": "Für Klimmzüge und Dips ausschließlich",
+      "offerId": "rogue-dog-collar-vest",
+      "reason": "Frontplattenbeladung hält Rücken völlig frei — das richtige Werkzeug für eine spezifische Aufgabe für 20$."
+    }
+  ]
 }

@@ -93,5 +93,64 @@
     "bokksu-subscription": "A melhor assinatura de snacks japoneses -- 20-25 itens no nível Classic ($49/mês) de produtores familiares japoneses, muitos com distribuição limitada fora do Japão. Guia cultural centrado no produtor. Ideal para pessoas com interesse específico na cultura alimentar japonesa. Limitação: sabores tradicionais (matcha, feijão vermelho, gergelim preto) exigem gosto adquirido; janela de cancelamento mais curta (24 horas antes da data de envio)."
   },
   "pinDescription": "5 caixas de assinatura de snacks comparadas para 2026: SnackCrate vs Universal Yums vs Graze vs Mouth vs Bokksu. Variedade internacional, valor por snack, opções alimentares -- encontre a caixa que vale a pena abrir todo mês.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada assinatura foi avaliada quanto à autenticidade real do fornecimento de snacks (produtos de varejo vs. reformulações para o mercado de exportação), custo por snack em todos os planos, profundidade de acomodação de restrições alimentares, transparência da política de cancelamento e padrões de taxa de renovação de assinantes de agregadores de avaliações públicas.",
+  "products": [
+    {
+      "offerId": "snackcrate-subscription",
+      "badge": "Melhor no geral",
+      "review": "A SnackCrate entrega produtos de varejo reais vendidos aos moradores locais no país em destaque — as mesmas embalagens que você encontraria em um Lawson ou loja de conveniência lá, não aproximações para o mercado de exportação. A ~$30 por mês por 10 snacks em tamanho normal, oferece o melhor valor por snack entre as caixas internacionais focadas em autenticidade. O cartão cultural é escasso em comparação com o livreto da Universal Yums.",
+      "pros": ["Produtos de varejo autênticos na embalagem original de cada país", "10 snacks em tamanho normal a ~$30/mês com frete incluído", "Rotação diversificada de países com ampla cobertura regional"],
+      "cons": ["O cartão cultural é breve — menos contexto educativo que a Universal Yums"],
+      "grade": "A+",
+      "specs": {"Preço": "~$30/mês (Padrão)", "Snacks por caixa": "10 em tamanho normal", "Foco do país": "Rotação global", "Opções dietéticas": "Filtragem limitada", "Janela de cancelamento": "5 dias antes da cobrança", "Opção de presente": "Sim"},
+      "scores": {"Variety": 4.8, "Snack quality": 4.5, "Value": 4.7, "Customization": 3.0, "Packaging": 4.2}
+    },
+    {
+      "offerId": "universal-yums-subscription",
+      "badge": "Melhor experiência educativa",
+      "review": "A Universal Yums combina snacks internacionais autênticos com um livreto de curiosidades de 12 páginas que transforma cada caixa em uma verdadeira aula de geografia — a razão pela qual as famílias com filhos a avaliam tão bem. A precificação por níveis ($14-$40) escala bem por item nos níveis Yummier e Yummiest. A limitação honesta: não é possível escolher qual país chegará a seguir, e a rotação é fixada pelo calendário editorial da Universal Yums.",
+      "pros": ["Livreto de curiosidades de 12 páginas sobre cultura culinária, história e geografia", "Preços por níveis de $14-$40 para diferentes volumes de snacks domésticos", "Filtro vegetariano disponível na inscrição"],
+      "cons": ["Sem seleção de país — a rotação é fixada pelo calendário editorial"],
+      "grade": "A",
+      "specs": {"Preço": "$14–$40/mês (3 níveis)", "Snacks por caixa": "6–20+ dependendo do nível", "Foco do país": "Rotação global", "Opções dietéticas": "Filtro vegetariano", "Janela de cancelamento": "5 dias antes da cobrança", "Opção de presente": "Sim (pré-pago 3/6/12 meses)"},
+      "scores": {"Variety": 4.9, "Snack quality": 4.3, "Value": 4.5, "Customization": 3.2, "Packaging": 4.7}
+    },
+    {
+      "offerId": "graze-snack-subscription",
+      "badge": "Melhor para os que se preocupam com saúde",
+      "review": "A Graze é a única assinatura desta comparação projetada em torno de objetivos nutricionais em vez de descoberta — 9 snacks por caixa a ~$13/mês, cada um criado por nutricionistas com rotulagem explícita de alérgenos e uma opção de caixa vegana dedicada. O controle de calorias por porção elimina o esforço de força de vontade de comer de um saco familiar aberto. Sem charme internacional e sem história artesanal — a proposta de valor é puramente funcional.",
+      "pros": ["Snacks criados por nutricionistas com rotulagem explícita de alérgenos", "Caixa vegana dedicada disponível", "Sistema de gerenciamento de preferências — marcar itens como gosto/quero experimentar/não quero"],
+      "cons": ["Sem fornecimento internacional — todos os produtos criados pela Graze em embalagem de marca"],
+      "grade": "B+",
+      "specs": {"Preço": "~$13/mês", "Snacks por caixa": "9 (porções controladas)", "Foco do país": "N/A — criação Graze", "Opções dietéticas": "Caixa vegana, rótulos de alérgenos", "Janela de cancelamento": "A qualquer momento", "Opção de presente": "Limitada"},
+      "scores": {"Variety": 3.5, "Snack quality": 4.0, "Value": 4.8, "Customization": 4.5, "Packaging": 3.8}
+    },
+    {
+      "offerId": "mouth-snack-subscription",
+      "badge": "Melhor fornecimento artesanal",
+      "review": "A Mouth seleciona de produtores americanos de pequenos lotes — a pipoca caramelizada de uma operação em Iowa com lista de espera de seis meses, o chocolate de origem única de um produtor bean-to-bar da Califórnia — com inserções da história do produtor para cada item. A $40-45/mês por 6-8 itens em tamanho normal ou grande, o custo por snack é o mais alto desta comparação. A seleção tende para formatos ambientais de prateleira estável em vez de salgadinhos ou doces.",
+      "pros": ["Cada snack provém de produtores americanos verificados de pequenos lotes", "As inserções da história do produtor transformam cada item em uma relação com um artesão", "Filtros vegetariano e vegano disponíveis no nível da conta"],
+      "cons": ["Maior custo por caixa desta comparação — difícil de justificar sem interesse em fornecimento artesanal"],
+      "grade": "B",
+      "specs": {"Preço": "$40–$45/mês", "Snacks por caixa": "6–8 em tamanho normal", "Foco do país": "Apenas artesãos dos EUA", "Opções dietéticas": "Filtro vegetariano, vegano, sem glúten", "Janela de cancelamento": "Pular qualquer mês", "Opção de presente": "Sim"},
+      "scores": {"Variety": 3.8, "Snack quality": 4.8, "Value": 3.2, "Customization": 4.0, "Packaging": 4.5}
+    },
+    {
+      "offerId": "bokksu-subscription",
+      "badge": "Melhor especialista em snacks japoneses",
+      "review": "A Bokksu fornece diretamente de produtores familiares japoneses, muitos com distribuição limitada ou nula fora do Japão, e adiciona notas culturais centradas no produtor em vez de trivia geral do país. O nível Classic ($49/mês) entrega 20-25 itens incluindo doces sazonais e uma harmonização com chá. Os doces tradicionais japoneses — matcha, feijão vermelho, gergelim preto — requerem um gosto adquirido, e a janela de cancelamento de 24 horas antes do envio exige gestão de calendário.",
+      "pros": ["Fornecido de produtores familiares japoneses com distribuição limitada fora do Japão", "20-25 itens por caixa Classic incluindo doces sazonais e harmonização com chá", "O guia cultural centrado no produtor vai mais fundo que a trivia do país"],
+      "cons": ["Janela de cancelamento de 24 horas antes da data de envio — a mais curta entre os concorrentes"],
+      "grade": "B-",
+      "specs": {"Preço": "$29–$49/mês (2 níveis)", "Snacks por caixa": "12–14 (Degustação) ou 20–25 (Classic)", "Foco do país": "Apenas Japão", "Opções dietéticas": "Vegano indicado no guia", "Janela de cancelamento": "24 horas antes do envio", "Opção de presente": "Sim (planos anuais)"},
+      "scores": {"Variety": 4.0, "Snack quality": 4.6, "Value": 3.5, "Customization": 2.8, "Packaging": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para famílias que querem comer pelo mundo", "offerId": "universal-yums-subscription", "reason": "O livreto de curiosidades de 12 páginas transforma o momento do snack em uma aula de geografia à mesa do jantar — as crianças se envolvem com o contexto cultural, não apenas com os snacks."},
+    {"label": "Para descoberta pura de snacks sem leitura", "offerId": "snackcrate-subscription", "reason": "A mesma autenticidade da Universal Yums — produtos de varejo reais de cada país — com mais do orçamento indo para snacks e menos para a embalagem editorial."},
+    {"label": "Para os que se preocupam com saúde", "offerId": "graze-snack-subscription", "reason": "Porções criadas por nutricionistas com total transparência de alérgenos e uma opção vegana dedicada — a única assinatura construída em torno de objetivos nutricionais em vez de descoberta."},
+    {"label": "Para entusiastas da cultura gastronômica", "offerId": "mouth-snack-subscription", "reason": "Cada caixa apresenta produtores americanos de pequenos lotes que você nunca encontraria no Whole Foods, e as inserções da história do produtor são genuinamente educativas sobre o artesanato alimentar."},
+    {"label": "Para exploradores da cultura gastronômica japonesa", "offerId": "bokksu-subscription", "reason": "O fornecimento direto de produtores familiares japoneses dá acesso a wagashi e especialidades regionais que não têm distribuição significativa em nenhum lugar fora do Japão."}
+  ]
 }

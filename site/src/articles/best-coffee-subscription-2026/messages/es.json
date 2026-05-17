@@ -91,5 +91,64 @@
     "peets-coffee-subscription": "Mejor suscripcion de cafe molido convencional — Major Dickason's Blend a ~$12-15/12 oz, envio gratis, sin curva de aprendizaje. Tostado oscuro consistente, ampliamente apreciado por su previsibilidad. Mejor para bebedores que quieren la misma taza confiable cada manana. Limitacion: cero variedad; el perfil de tostado oscuro no satisfara a los entusiastas del cafe de especialidad de tostado claro."
   },
   "pinDescription": "5 suscripciones de cafe comparadas para 2026: Trade Coffee vs Atlas Coffee Club vs Onyx vs Angels' Cup vs Peet's. Frescura, precio por oz, personalizacion — encuentra la suscripcion correcta antes de que se acabe tu proxima bolsa. #cafedesuscripcion #cafe #tostadores #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada suscripción fue evaluada por frescura en la entrega (días desde el tostado), precisión de personalización tras 3 o más pedidos, precio por onza normalizado por tamaño de bolsa, opciones de molido y facilidad para pausar envíos.",
+  "products": [
+    {
+      "offerId": "trade-coffee-subscription",
+      "badge": "Mejor en General",
+      "review": "El algoritmo de preferencias de Trade Coffee selecciona de más de 60 tostadores independientes y envía en 1–3 días tras el tostado — una combinación de variedad y frescura que ninguna suscripción de un solo tostador puede igualar. La limitación honesta: el algoritmo necesita 3–5 pedidos para calibrarse.",
+      "pros": ["Red de 60+ tostadores con amplia variedad de orígenes y estilos", "Fecha de tostado impresa en cada bolsa — transparencia total de frescura", "El bucle de retroalimentación de valoraciones refina continuamente los emparejamientos futuros"],
+      "cons": ["Las primeras entregas pueden no ajustarse al paladar hasta que el algoritmo aprenda con las valoraciones"],
+      "grade": "A+",
+      "specs": {"Red de tostadores": "60+ tostadores independientes", "Envío tras tostado": "1–3 días", "Tamaño de bolsa": "280–340 g", "Rango de precio": "$14–$22 por bolsa", "Opciones de molido": "Grano entero + 4 tipos pre-molido", "Frecuencia": "Semanal a cada 8 semanas"},
+      "scores": {"Frescura": 4.9, "Sabor": 4.7, "Valor": 4.3, "Conveniencia": 4.5, "Personalización": 4.8}
+    },
+    {
+      "offerId": "atlas-coffee-club",
+      "badge": "Mejor para Exploradores",
+      "review": "Atlas Coffee Club entrega un país productor diferente cada mes con bolsas con sello de fecha de tostado y una postal educativa — el mejor formato para quienes se acercan al café con un enfoque geográfico. Sin personalización: recibirás las selecciones editoriales de Atlas.",
+      "pros": ["Nuevo país de origen cada mes con variedad geográfica genuina", "Sello de fecha de tostado, envío días después del tostado", "Postales con notas de cata y detalles del método de procesado"],
+      "cons": ["Sin personalización — no se pueden especificar preferencias de sabor ni excluir tipos de procesado"],
+      "grade": "A",
+      "specs": {"Modelo de abastecimiento": "Origen único, país rotativo mensual", "Envío tras tostado": "1–4 días", "Tamaño de bolsa": "340 g", "Rango de precio": "$14–$19 con envío incluido", "Opciones de molido": "Grano entero (molido bajo pedido)", "Flexibilidad": "Skip, pausa, cancelación en cualquier momento"},
+      "scores": {"Frescura": 4.7, "Sabor": 4.6, "Valor": 4.5, "Conveniencia": 4.4, "Personalización": 2.5}
+    },
+    {
+      "offerId": "onyx-coffee-lab-subscription",
+      "badge": "Mayor Calidad",
+      "review": "Onyx tuesta bajo pedido y envía en 24–48 horas — de los más rápidos en la categoría. Sus lotes son de alto puntaje y orientados al proceso. La estética estrecha (tostados claros, frutados) es fortaleza y limitación al mismo tiempo.",
+      "pros": ["Tostado bajo pedido, envío en 24–48 h — la entrega fresca más rápida evaluada", "Abastecimiento consistentemente de alta calidad con lotes de nivel competición", "Descuento de suscripción hace el precio premium más sostenible"],
+      "cons": ["Estética de tostado estrecha — no apto para preferencias de tostado oscuro o mezclas"],
+      "grade": "B+",
+      "specs": {"Modelo": "Tostador único (tostados propios de Onyx)", "Envío tras tostado": "24–48 horas", "Tamaño de bolsa": "280–340 g", "Rango de precio": "$18–$22 por bolsa", "Opciones de molido": "Solo grano entero", "Flexibilidad": "Panel de autoservicio, pausa/skip disponible"},
+      "scores": {"Frescura": 5.0, "Sabor": 4.8, "Valor": 3.8, "Conveniencia": 4.2, "Personalización": 2.0}
+    },
+    {
+      "offerId": "angels-cup-subscription",
+      "badge": "Mejor para Entrenar el Paladar",
+      "review": "Angels' Cup envía paquetes de muestras numeradas sin etiqueta diseñados para cata a ciegas — un formato único que desarrolla habilidades de cata. El coste por onza es el más alto de los cinco y el formato no funciona como suministro diario principal.",
+      "pros": ["La cata a ciegas elimina el sesgo de origen y desarrolla evaluación precisa del paladar", "Envío en 1–5 días tras el tostado con empaque numerado", "Los detalles del origen se revelan tras la cata — aprendizaje estructurado"],
+      "cons": ["El formato de muestra no es práctico como suministro diario principal — alto coste por onza"],
+      "grade": "B",
+      "specs": {"Modelo": "Sets de muestras a ciegas de múltiples tostadores", "Envío tras tostado": "1–5 días", "Tamaño de muestra": "4 muestras por set (~28 g c/u)", "Rango de precio": "$10–$14 por pack de 4", "Opciones de molido": "Pre-molido (muestras); grano entero en suscripción regular", "Flexibilidad": "Cancelación y skip online desde el portal"},
+      "scores": {"Frescura": 4.6, "Sabor": 4.5, "Valor": 3.5, "Conveniencia": 3.8, "Personalización": 3.0}
+    },
+    {
+      "offerId": "peets-coffee-subscription",
+      "badge": "La Opción Sin Complicaciones",
+      "review": "La suscripción de Peet's Major Dickason's Blend ofrece calidad de tostado oscuro consistente al precio por onza más bajo de los cinco, con envío gratuito y sin curva de aprendizaje. Perfecta para quien quiere la misma taza confiable cada mañana — completamente equivocada para quien busca especialidad o variedad.",
+      "pros": ["Precio por onza más bajo con envío gratuito incluido", "Carácter de tostado oscuro consistente — sin sorpresas ni orígenes rotativos", "Amplias opciones de molido — no se necesita molinillo"],
+      "cons": ["Cero variedad; el perfil de tostado oscuro no satisfará a los entusiastas del café de especialidad claro"],
+      "grade": "B-",
+      "specs": {"Mezcla": "Major Dickason's Blend (tostado oscuro)", "Envío tras tostado": "En pocos días por canal directo", "Tamaño de bolsa": "340 g", "Rango de precio": "$12–$15 con envío gratuito", "Opciones de molido": "Grano entero y todos los tipos de molido", "Flexibilidad": "Skip y pausa desde el portal de Peet's"},
+      "scores": {"Frescura": 4.2, "Sabor": 4.0, "Valor": 4.8, "Conveniencia": 4.9, "Personalización": 1.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para bebedores curiosos que quieren variedad sin investigar", "offerId": "trade-coffee-subscription", "reason": "El algoritmo de preferencias se encarga del descubrimiento de tostadores; solo valora lo que recibes."},
+    {"label": "Para el explorador de café con enfoque geográfico", "offerId": "atlas-coffee-club", "reason": "Un país diferente cada mes con contexto de origen — sistemático y educativo."},
+    {"label": "Para compradores con preferencia establecida por tostados claros de especialidad", "offerId": "onyx-coffee-lab-subscription", "reason": "Tostado bajo pedido con el tiempo de entrega más rápido y sin compromiso en calidad."},
+    {"label": "Para quienes quieren desarrollar su paladar mediante cata a ciegas", "offerId": "angels-cup-subscription", "reason": "La única suscripción diseñada como ejercicio de cata en lugar de suministro diario."},
+    {"label": "Para quien solo quiere café molido oscuro confiable sin complicaciones", "offerId": "peets-coffee-subscription", "reason": "Consistente, asequible, pre-molido — sin curva de aprendizaje, sin sorpresas."}
+  ]
 }

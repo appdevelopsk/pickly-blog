@@ -61,5 +61,64 @@
     "siggis-icelandic-yogurt": "Skyr-style — denser and lower in sugar than most Greek yogurts"
   },
   "pinDescription": "5 best Greek yogurts ranked by protein, sugar, and texture — from thick Fage to low-sugar Siggi's. Find your match for breakfast, cooking, or post-workout.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each yogurt was evaluated on protein content per serving, sugar levels (natural and added), ingredient list length and quality, texture consistency, taste profile, sourcing transparency, and price per gram of protein.",
+  "products": [
+    {
+      "offerId": "fage-total-0",
+      "badge": "Best Overall",
+      "review": "Fage Total 0% sets the standard for authentic Greek yogurt with 18–19g protein per 7 oz serving and only 2 ingredients — no thickeners, no pectin, texture entirely from straining. The flavor is sharper and more sour than American brands, which is a feature, not a bug, for those who want the real thing. The trade-off is a stronger tang that takes adjustment.",
+      "pros": ["18–19g protein per 7 oz — highest non-fat protein in mainstream market", "Only 2 ingredients, no thickeners or additives", "Dense texture that holds shape when spooned"],
+      "cons": ["Sharper sour flavor may need adjustment for those used to milder brands"],
+      "grade": "A+",
+      "specs": {"Serving": "7 oz", "Protein": "18–19g", "Fat": "0%", "Sugar": "~8g natural", "Ingredients": "2", "Certifications": "Kosher", "Price": "~$7.49"},
+      "scores": {"Protein": 4.9, "Taste": 4.5, "Value": 4.3, "Texture": 4.8, "Ingredient quality": 4.9}
+    },
+    {
+      "offerId": "chobani-plain-nonfat",
+      "badge": "Best Everyday Value",
+      "review": "Chobani Plain Non-Fat is the workhorse of the category — thick but not dense, clean tartness, and 15g protein per 5.3 oz cup with only 3 ingredients. The 32 oz tub is the best value per gram of protein in mainstream grocery. The non-fat version has slightly more carbs than 2% due to fat removal concentrating milk sugars.",
+      "pros": ["3-ingredient formula with no added sugar", "32 oz tub delivers excellent protein cost-per-gram value", "Genuinely versatile in cooking and smoothies"],
+      "cons": ["Non-fat version slightly higher carbs than 2% due to fat removal concentrating milk sugars"],
+      "grade": "A",
+      "specs": {"Serving": "5.3 oz", "Protein": "15g", "Fat": "0%", "Sugar": "~6g natural", "Ingredients": "3", "Tub size": "32 oz available", "Price": "~$6.98"},
+      "scores": {"Protein": 4.5, "Taste": 4.4, "Value": 4.8, "Texture": 4.3, "Ingredient quality": 4.6}
+    },
+    {
+      "offerId": "siggis-icelandic-yogurt",
+      "badge": "Best Low-Sugar",
+      "review": "Siggi's skyr-style yogurt delivers 17g protein per 5.3 oz with only 6g carbs — the lowest sugar-to-protein ratio in this comparison. The texture is denser than Greek yogurt, almost spreadable, and the flavor is assertively sour. The flavored line keeps added sugar under 9g total, which is genuinely rare in the category.",
+      "pros": ["Only 6g total carbs per 5.3 oz cup", "17g protein with very low added sugar across the flavored line", "Unique skyr density works as cream cheese substitute on toast"],
+      "cons": ["Assertively sour flavor is an acquired taste"],
+      "grade": "B+",
+      "specs": {"Serving": "5.3 oz", "Protein": "17g", "Fat": "0%", "Total carbs": "6g", "Style": "Icelandic skyr", "Sweetener": "None (plain)", "Price": "~$6.49"},
+      "scores": {"Protein": 4.7, "Taste": 4.0, "Value": 4.0, "Texture": 4.6, "Ingredient quality": 4.7}
+    },
+    {
+      "offerId": "oikos-triple-zero",
+      "badge": "Best Flavored Pick",
+      "review": "Oikos Triple Zero hits 15g protein at 90 calories with zero added sugar, zero artificial sweeteners, and zero fat — using monk fruit extract in flavored varieties. For macro-trackers who want flavored yogurt without stevia or sucralose, this is the only mainstream option. Some flavored varieties add chicory root fiber, which affects digestion for some people.",
+      "pros": ["Zero added sugar, zero artificial sweeteners, zero fat in flavored line", "Monk fruit sweetened — no stevia or sucralose", "15g protein at 90 calories"],
+      "cons": ["Some flavored varieties include chicory root fiber (check label if sensitive)"],
+      "grade": "B",
+      "specs": {"Serving": "5.3 oz", "Protein": "15g", "Fat": "0%", "Carbs": "7g", "Added sugar": "0g", "Sweetener": "Monk fruit", "Price": "~$1.49"},
+      "scores": {"Protein": 4.5, "Taste": 4.2, "Value": 4.9, "Texture": 4.1, "Ingredient quality": 4.2}
+    },
+    {
+      "offerId": "stonyfield-organic-greek",
+      "badge": "Best for Sourcing",
+      "review": "Stonyfield Organic is the pick when certification and sourcing matter: USDA organic, grass-fed milk, and five named live probiotic strains on the label. Protein at 14–15g per serving is slightly lower than Fage, and the flavor is milder — gentler tang that suits people who find Fage too sharp. Costs slightly more per ounce.",
+      "pros": ["USDA certified organic with grass-fed milk sourcing", "5 named live probiotic cultures listed on label", "Mild flavor appeals to those who find Fage too tart"],
+      "cons": ["Slightly lower protein (14–15g) and higher cost per ounce than Chobani or Fage"],
+      "grade": "B-",
+      "specs": {"Serving": "5.3 oz", "Protein": "14–15g", "Certification": "USDA Organic", "Milk source": "Grass-fed", "Probiotics": "5 named strains", "Fat": "0%", "Price": "~$7.99"},
+      "scores": {"Protein": 4.2, "Taste": 4.3, "Value": 3.8, "Texture": 4.2, "Ingredient quality": 4.9}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For maximum protein per serving", "offerId": "fage-total-0", "reason": "18–19g protein per 7 oz with only 2 ingredients and no thickeners"},
+    {"label": "For everyday cooking and value", "offerId": "chobani-plain-nonfat", "reason": "Best cost-per-gram of protein in a 32 oz tub with clean 3-ingredient formula"},
+    {"label": "For very low sugar intake", "offerId": "siggis-icelandic-yogurt", "reason": "Only 6g total carbs per serving with 17g protein — lowest sugar-to-protein ratio here"},
+    {"label": "For flavored yogurt without artificial sweeteners", "offerId": "oikos-triple-zero", "reason": "Monk fruit sweetened with zero added sugar and no stevia or sucralose"},
+    {"label": "For organic and grass-fed sourcing", "offerId": "stonyfield-organic-greek", "reason": "USDA organic, grass-fed milk, and 5 named probiotic strains on the label"}
+  ]
 }

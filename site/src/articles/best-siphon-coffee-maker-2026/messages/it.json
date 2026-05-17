@@ -58,5 +58,178 @@
     "butane-burner-for-siphon": "Bruciatore a butano a fiamma regolabile per l'estrazione a sifone. $20-40. Necessario per un calore consistente del sifone — piu controllabile rispetto alle lampade ad alcol incluse. Necessario per un controllo preciso della temperatura e risultati ripetibili."
   },
   "pinDescription": "Caffettiera a sifone 2026: Hario Next vs Yama vs Technica vs Cona, come la pressione del vuoto estrae il caffe, perche il sifone si colloca tra la chiarezza del pour-over e il corpo della French press, e la routine di manutenzione del filtro in tessuto. #italiano",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "hario-next-siphon",
+      "badge": "Migliore in assoluto",
+      "review": "Il Hario Next è il punto di riferimento attuale per il caffè a sifone — il supporto per filtro in tessuto migliorato produce tazze pulite e corpate in modo costante, e il supporto aggiornato è più stabile sotto il calore del bruciatore a butano rispetto al Technica. Disponibile in configurazioni da 3 tazze e 5 tazze. La principale avvertenza: il bruciatore a butano viene venduto separatamente — includilo nel budget fin dall'inizio.",
+      "pros": [
+        "Supporto per filtro in tessuto migliorato — qualità costante della tazza",
+        "Supporto stabile sotto il calore del bruciatore a butano",
+        "Disponibile nelle dimensioni da 3 tazze e 5 tazze"
+      ],
+      "cons": [
+        "Bruciatore a butano venduto separatamente — da aggiungere al costo totale"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Capacità": "3 tazze (360 ml) o 5 tazze (600 ml)",
+        "Filtro": "Tessuto (incluso)",
+        "Supporto": "Migliorato — più stabile del Technica",
+        "Fonte di calore": "Bruciatore a butano (venduto separatamente)",
+        "Vetro": "Borosilicato",
+        "Prezzo": "~$60–90"
+      },
+      "scores": {
+        "Chiarezza infusione": 4.8,
+        "Fattore teatrale": 5.0,
+        "Facilità d'uso": 3.8,
+        "Valore": 4.2,
+        "Qualità costruttiva": 4.8
+      }
+    },
+    {
+      "offerId": "yama-glass-siphon-5-cup",
+      "badge": "Migliore non Hario",
+      "review": "Le spesse pareti in borosilicato di Yama lo rendono il sifone più resistente alle rotture in questo confronto — un vantaggio significativo per un dispositivo che si maneggia caldo. La dimensione da 5 tazze (600 ml) è pratica per preparare per 2–3 persone, e la qualità della tazza è paragonabile a Hario. Lo svantaggio è che i pezzi di ricambio Yama sono più difficili da trovare rispetto ai componenti Hario.",
+      "pros": [
+        "Pareti in borosilicato più spesse — più resistente alle rotture della maggior parte",
+        "Dimensione da 5 tazze pratica per 2–3 persone",
+        "Opzioni di filtro in tessuto o rete metallica disponibili"
+      ],
+      "cons": [
+        "Pezzi di ricambio meno disponibili rispetto all'ecosistema Hario"
+      ],
+      "grade": "A",
+      "specs": {
+        "Capacità": "5 tazze (600 ml)",
+        "Filtro": "Tessuto o rete metallica",
+        "Vetro": "Borosilicato spesso",
+        "Fonte di calore": "Compatibile con bruciatore a butano",
+        "Ingombro": "Sifone standard",
+        "Prezzo": "~$70–100"
+      },
+      "scores": {
+        "Chiarezza infusione": 4.7,
+        "Fattore teatrale": 4.8,
+        "Facilità d'uso": 3.8,
+        "Valore": 4.0,
+        "Qualità costruttiva": 5.0
+      }
+    },
+    {
+      "offerId": "hario-technica-siphon",
+      "badge": "Miglior punto d'ingresso",
+      "review": "Il Hario Technica utilizza gli stessi globi in vetro borosilicato e lo stesso principio di infusione del Next a un prezzo inferiore — è il giusto punto di partenza per esplorare il caffè a sifone prima di impegnarsi nel costo del Next. Il supporto è più semplice e leggermente meno stabile, il che conta principalmente quando si regola il bruciatore a butano durante la preparazione.",
+      "pros": [
+        "Stesso principio di infusione del Next a costo inferiore",
+        "Usa filtri Hario standard — nessun accessorio proprietario",
+        "Buon punto d'ingresso prima di investire nel Next"
+      ],
+      "cons": [
+        "Supporto più semplice — leggermente meno stabile del Next"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Capacità": "3 tazze o 5 tazze",
+        "Filtro": "Tessuto Hario (standard)",
+        "Supporto": "Telaio semplice",
+        "Vetro": "Borosilicato",
+        "Bruciatore": "Venduto separatamente",
+        "Prezzo": "~$45–70"
+      },
+      "scores": {
+        "Chiarezza infusione": 4.5,
+        "Fattore teatrale": 4.8,
+        "Facilità d'uso": 3.8,
+        "Valore": 4.8,
+        "Qualità costruttiva": 4.2
+      }
+    },
+    {
+      "offerId": "cona-siphon-coffee-maker",
+      "badge": "Miglior filtro a bassa manutenzione",
+      "review": "Il filtro a clip a molla di Cona è il più durevole e facile da pulire in questo confronto — a differenza dei filtri in tessuto, non richiede conservazione immersa nell'acqua tra un uso e l'altro. Il design britannico è in produzione dagli anni '30, e la solida costruzione in borosilicato riflette quella longevità.",
+      "pros": [
+        "Filtro a clip a molla — più facile da pulire, nessuna conservazione in acqua",
+        "Solida costruzione in borosilicato con longevità comprovata",
+        "Design britannico classico invariato dagli anni '30"
+      ],
+      "cons": [
+        "Pezzi più difficili da reperire al di fuori del Regno Unito"
+      ],
+      "grade": "B",
+      "specs": {
+        "Capacità": "varia per modello",
+        "Filtro": "Clip a molla (nessuna manutenzione tessuto)",
+        "Vetro": "Borosilicato solido",
+        "Origine": "UK, in produzione dagli anni '30",
+        "Fonte di calore": "Bruciatore a butano o lampada a spirito",
+        "Prezzo": "~$90–140"
+      },
+      "scores": {
+        "Chiarezza infusione": 4.5,
+        "Fattore teatrale": 4.5,
+        "Facilità d'uso": 4.5,
+        "Valore": 3.5,
+        "Qualità costruttiva": 4.8
+      }
+    },
+    {
+      "offerId": "butane-burner-for-siphon",
+      "badge": "Accessorio essenziale",
+      "review": "Le lampade ad alcol incluse con i sifoni entry-level producono calore inconsistente e devono essere ricaricate frequentemente — un bruciatore a butano ti dà controllo regolabile della fiamma, temperatura costante e risultati riproducibili. Necessario per il caffè a sifone serio. La maggior parte dei sifoni Hario e Yama viene venduta senza bruciatore.",
+      "pros": [
+        "Fiamma regolabile per un controllo preciso della temperatura",
+        "Calore costante rispetto alla lampada ad alcol inclusa inconsistente",
+        "Risultati riproducibili tra le sessioni di preparazione"
+      ],
+      "cons": [
+        "Le cartucce di butano sono un costo ricorrente di consumabili"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Carburante": "Cartuccia butano (dimensione standard)",
+        "Controllo fiamma": "Regolabile",
+        "Compatibile con": "Sifoni Hario, Yama, Cona",
+        "Durata cartuccia": "Più sessioni per cartuccia",
+        "Prezzo": "~$20–40"
+      },
+      "scores": {
+        "Chiarezza infusione": 5.0,
+        "Fattore teatrale": 4.0,
+        "Facilità d'uso": 4.5,
+        "Valore": 4.8,
+        "Qualità costruttiva": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per i preparatori seri di caffè a sifone",
+      "offerId": "hario-next-siphon",
+      "reason": "Il supporto più stabile e il miglior supporto per filtro in tessuto della gamma Hario — l'investimento corretto una volta che sai che il caffè a sifone fa parte della tua routine."
+    },
+    {
+      "label": "Per i preparatori che valorizzano la durabilità",
+      "offerId": "yama-glass-siphon-5-cup",
+      "reason": "Le pareti spesse in borosilicato riducono il rischio di rottura quando si maneggia il vetro caldo — la costruzione più robusta per l'uso quotidiano."
+    },
+    {
+      "label": "Per i primi acquirenti di sifone",
+      "offerId": "hario-technica-siphon",
+      "reason": "Lo stesso principio di infusione del Next a un prezzo d'ingresso inferiore — il modo giusto per iniziare prima di impegnarsi nella configurazione completa del Next."
+    },
+    {
+      "label": "Per preferenza di filtro a bassa manutenzione",
+      "offerId": "cona-siphon-coffee-maker",
+      "reason": "Il filtro a clip a molla non necessita mai di conservazione in acqua — se la routine di manutenzione del filtro in tessuto suona come un ostacolo, Cona lo elimina."
+    },
+    {
+      "label": "Per qualsiasi preparatore di sifone che usa una lampada ad alcol",
+      "offerId": "butane-burner-for-siphon",
+      "reason": "La fiamma regolabile al butano ti dà il controllo della temperatura che le lampade ad alcol non possono fornire — il singolo aggiornamento che miggiora maggiormente la costanza della preparazione."
+    }
+  ]
 }

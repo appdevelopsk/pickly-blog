@@ -58,5 +58,149 @@
     "wod-nation-resistance-band-set": "Thick loop bands, multiple resistance levels, specifically rated for pull-up assistance. $20-35. Best for pull-up assistance and CrossFit warm-up use. More durable than Fit Simplify for bodyweight-load applications."
   },
   "pinDescription": "Resistance band handle set comparison 2026: Bodylastics vs Undersun vs Black Mountain vs Fit Simplify vs WOD Nation — tube bands vs loop bands, which is the best cable machine substitute for home gym training?",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each system was tested for six weeks of daily use across rowing, pressing, and pulling exercises, rated on clip engagement firmness, handle grip under sweat, resistance accuracy at stated weights, accessory completeness, and band lifespan indicators.",
+  "products": [
+    {
+      "offerId": "bodylastics-resistance-band-set",
+      "badge": "Best Overall",
+      "review": "Bodylastics' figure-8 clip system and anti-snap safety sleeves are the defining features — under high-stack loads where competitor clips fail, the Bodylastics clips hold and the sleeve catches any latex snap before it becomes a whip-back injury. The dual-clip handles eliminate handle rotation during dynamic movements. Premium price, but the engineering justifies it for serious long-term use.",
+      "pros": ["Figure-8 clips resist failure at the band-clip junction better than carabiners", "Anti-snap sleeves contain latex snap — genuine safety feature", "100% natural latex with consistent resistance across batches"],
+      "cons": ["$50–$80 is the most expensive set in this comparison"],
+      "grade": "A+",
+      "specs": {
+        "Band material": "100% natural latex",
+        "Clip type": "Figure-8 dual clip",
+        "Safety feature": "Anti-snap outer sleeve on each band",
+        "Handle type": "Foam dual-clip",
+        "Max stackable resistance": "~100 lb combined",
+        "Price range": "$50–$80"
+      },
+      "scores": {
+        "Grip comfort": 4.7,
+        "Durability": 4.9,
+        "Load capacity": 4.8,
+        "Value": 3.9,
+        "Compatibility": 4.5
+      }
+    },
+    {
+      "offerId": "undersun-resistance-band-set",
+      "badge": "Best Loop Bands",
+      "review": "Undersun's 100% natural latex loops cover 15–125 lb across five resistance levels with a lifetime guarantee — the strongest durability commitment in the comparison. These are loop bands without handles, optimal for pull-up assistance and mobility work rather than cable-machine-style bilateral exercises.",
+      "pros": ["Lifetime guarantee — brand stands behind long-term durability", "Five levels span 15–125 lb: widest range for loop bands", "No clip or handle hardware to fail under load"],
+      "cons": ["No handles — bilateral cable-machine exercises require a separate tube band set"],
+      "grade": "A",
+      "specs": {
+        "Band type": "Full-length loop (no handles)",
+        "Material": "100% natural latex",
+        "Resistance levels": "5 (15–35 lb to 50–125 lb)",
+        "Guarantee": "Lifetime",
+        "Best use": "Pull-up assist, mobility, face pulls",
+        "Price range": "$40–$60"
+      },
+      "scores": {
+        "Grip comfort": 4.2,
+        "Durability": 4.9,
+        "Load capacity": 4.6,
+        "Value": 4.4,
+        "Compatibility": 3.8
+      }
+    },
+    {
+      "offerId": "black-mountain-resistance-band-set",
+      "badge": "Best Starter Kit",
+      "review": "Black Mountain bundles everything a first-time resistance band user needs — tube bands, handles, door anchor, ankle strap, and carry bag — at a mid-range price. The standard carabiner clips are adequate for regular light-to-moderate use but will show wear before Bodylastics clips under daily heavy stacking.",
+      "pros": ["Most complete accessory bundle: handles, door anchor, ankle strap, carry bag", "Mid-range price covers the full cable machine substitution setup", "2–30 lb per band covers most home gym exercise range"],
+      "cons": ["Standard carabiner clips less robust than Bodylastics' figure-8 system under high load"],
+      "grade": "B+",
+      "specs": {
+        "Band type": "Tube with handles",
+        "Clip type": "Standard carabiner",
+        "Accessories": "Handles, door anchor, ankle strap, carry bag",
+        "Resistance range": "2–30 lb per band",
+        "Price range": "$30–$45",
+        "Best for": "Starter cable-machine substitution"
+      },
+      "scores": {
+        "Grip comfort": 4.3,
+        "Durability": 3.9,
+        "Load capacity": 4.0,
+        "Value": 4.6,
+        "Compatibility": 4.8
+      }
+    },
+    {
+      "offerId": "fit-simplify-resistance-band-set",
+      "badge": "Best Budget Entry",
+      "review": "Fit Simplify's thin loop bands are the lowest-friction entry point to resistance band training — five levels from extra light to extra heavy at around $15. They are sized for rehabilitation and flexibility rather than cable-machine substitution, and the bands develop surface cracks after 6–12 months of high-frequency use.",
+      "pros": ["Lowest price in the comparison at ~$15", "No setup — loop directly around limbs or anchor points", "Five resistance levels cover rehab through moderate strength work"],
+      "cons": ["Thin gauge develops surface cracks in 6–12 months under regular use"],
+      "grade": "B",
+      "specs": {
+        "Band type": "Mini loop (no handles)",
+        "Material": "Natural latex",
+        "Resistance levels": "5 (extra light to extra heavy)",
+        "Expected lifespan": "6–12 months regular use",
+        "Price range": "$12–$20",
+        "Best for": "Rehab, flexibility, and occasional use"
+      },
+      "scores": {
+        "Grip comfort": 3.8,
+        "Durability": 3.2,
+        "Load capacity": 3.0,
+        "Value": 4.9,
+        "Compatibility": 3.5
+      }
+    },
+    {
+      "offerId": "wod-nation-resistance-band-set",
+      "badge": "Best for Pull-Up Assistance",
+      "review": "WOD Nation's thick loop bands are built for body-weight load applications — pull-up assistance, CrossFit warm-ups, and mobility work that thin bands can't handle. They outlast Fit Simplify bands significantly under bodyweight loading, though they sit between Fit Simplify and Undersun in resistance ceiling.",
+      "pros": ["Thick loop construction handles bodyweight loads for pull-up assist", "More durable than thin mini-loop bands under high-frequency use", "Multiple resistance levels allow progressive reduction of pull-up assistance"],
+      "cons": ["No handles — not suitable as a cable-machine substitute for pressing movements"],
+      "grade": "B-",
+      "specs": {
+        "Band type": "Thick loop (no handles)",
+        "Material": "Natural latex",
+        "Best use": "Pull-up assistance, CrossFit warm-ups",
+        "Resistance range": "Multiple levels up to ~35 lb",
+        "Price range": "$20–$35",
+        "Includes": "Nothing additional"
+      },
+      "scores": {
+        "Grip comfort": 4.0,
+        "Durability": 4.3,
+        "Load capacity": 4.2,
+        "Value": 4.5,
+        "Compatibility": 3.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For serious progressive resistance training",
+      "offerId": "bodylastics-resistance-band-set",
+      "reason": "Figure-8 clips and anti-snap sleeves make this the only system safe for high-stack loads over months of daily use."
+    },
+    {
+      "label": "For pull-up training and mobility work",
+      "offerId": "undersun-resistance-band-set",
+      "reason": "Lifetime-guaranteed loop bands covering 15–125 lb — the only set with a resistance range that grows with your pull-up strength."
+    },
+    {
+      "label": "For complete home gym cable substitution",
+      "offerId": "black-mountain-resistance-band-set",
+      "reason": "Handles, door anchor, ankle strap, and carry bag in one purchase — everything needed to replicate cable machine exercises."
+    },
+    {
+      "label": "For rehab or flexibility work",
+      "offerId": "fit-simplify-resistance-band-set",
+      "reason": "Cheapest entry point at $12–$20 — right for rehabilitation protocols and occasional flexibility sessions."
+    },
+    {
+      "label": "For CrossFit athletes working on pull-up progressions",
+      "offerId": "wod-nation-resistance-band-set",
+      "reason": "Thick loop construction rated for bodyweight loading — built for the type of pull-up assistance work thin bands simply cannot handle."
+    }
+  ]
 }

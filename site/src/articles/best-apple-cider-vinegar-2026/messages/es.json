@@ -92,5 +92,64 @@
     "fairchilds-organic-acv": "Mejor para transparencia culinaria — manzanas Rag Bag cultivadas en el estado de Washington, etiquetado explícito de acidez al 5%, abastecimiento familiar. Sabor de manzana más limpio con menos complejidad fermentada que Bragg. Ideal para vinagretas ligeras y shrubs donde el sabor afrutado y la historia del abastecimiento importan. Disponibilidad ligeramente menor que Bragg en tiendas principales."
   },
   "pinDescription": "¿ACV crudo, gummies o listo para beber? Comparamos Bragg, Goli, Kevita, Fairchild's y Dynamic Health para encontrar el mejor vinagre de manzana de 2026 — con notas honestas sobre la 'madre', la dosis diaria y lo que la investigación realmente respalda. #VinagredeManzana #ACV #Salud #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada producto fue evaluado por perfil de sabor, transparencia del origen, relación calidad-precio, integridad del envase y rendimiento en usos cotidianos. Las certificaciones y reseñas verificadas se contrastaron con las declaraciones de marketing.",
+  "products": [
+    {
+      "offerId": "bragg-organic-acv",
+      "badge": "Mejor en general",
+      "review": "Bragg sigue siendo el estándar de referencia para el ACV crudo: sin filtrar, certificado USDA Orgánico, con filamentos de madre visibles que confirman cultivos activos. El sabor vivo y centrado en la manzana tiene más complejidad fermentativa que las alternativas del supermercado. La botella de 32 oz tiene un precio competitivo para uso diario en tónico.",
+      "pros": ["Sin filtrar 'con la madre' — cultivos activos visibles", "Certificado USDA Orgánico y Non-GMO", "Sabor de manzana vivo y complejo preferido por los bebedores de tónico"],
+      "cons": ["Sabor más fuerte que la mayoría — necesita dilución para principiantes"],
+      "grade": "A+",
+      "specs": {"Tamaño": "16 oz / 32 oz", "Orgánico": "Certificado USDA", "Filtrado": "No (con madre)", "Acidez": "5%", "Ratio de dilución": "1–2 cdas. por 240 ml de agua"},
+      "scores": {"Calidad": 4.8, "Sabor": 4.2, "Relación calidad-precio": 4.0, "Nutrición": 4.5, "Versatilidad": 4.7}
+    },
+    {
+      "offerId": "dynamic-health-acv",
+      "badge": "Mejor relación calidad-precio",
+      "review": "Funcionalmente equivalente a Bragg — certificado USDA Orgánico, sin filtrar, con madre — pero típicamente 15–20 % más barato por onza. La trazabilidad de las manzanas está menos especificada, pero para cocina de alto volumen y tónicos diarios donde el coste prima, es una opción sólida.",
+      "pros": ["El menor coste por onza entre las opciones bio sin filtrar", "Certificado USDA Orgánico, sin filtrar, con madre", "Excelente relación calidad-precio para uso culinario intensivo"],
+      "cons": ["Menos transparencia de origen que Fairchild's o Bragg"],
+      "grade": "A",
+      "specs": {"Tamaño": "32 oz", "Orgánico": "Certificado USDA", "Filtrado": "No (con madre)", "Acidez": "5%", "Precio vs. Bragg": "aprox. 15–20 % menos/oz"},
+      "scores": {"Calidad": 4.2, "Sabor": 3.9, "Relación calidad-precio": 4.8, "Nutrición": 4.3, "Versatilidad": 4.4}
+    },
+    {
+      "offerId": "kevita-acv-tonic",
+      "badge": "Mejor palatabilidad",
+      "review": "Kevita es una bebida carbonatada lista para beber con ACV, jengibre, limón y stevia. La dosis de ACV es menor que el estándar líquido y el coste por porción es más alto — pero la clave es que las personas que no pueden con el líquido realmente lo toman cada día.",
+      "pros": ["Listo para beber — sin mezclar ni diluir", "La carbonatación y los aromas lo hacen mucho más agradable", "Menor acidez, menor riesgo de erosión del esmalte dental"],
+      "cons": ["Dosis de ACV inferior al protocolo líquido estándar", "Mayor coste por porción que el ACV líquido"],
+      "grade": "B+",
+      "specs": {"Tamaño": "15,2 oz", "Formato": "RTD carbonatado", "Aromas añadidos": "Jengibre, limón, stevia", "Azúcar": "0 g añadido", "Dosis ACV/botella": "aprox. 25 mg"},
+      "scores": {"Calidad": 3.8, "Sabor": 4.5, "Relación calidad-precio": 3.2, "Nutrición": 3.5, "Versatilidad": 2.8}
+    },
+    {
+      "offerId": "goli-acv-gummies",
+      "badge": "Mejor consistencia diaria",
+      "review": "Las gummies Goli aportan aproximadamente una cucharadita de ACV equivalente por porción (2 gummies) — menos que la dosis líquida estándar, pero mucho más fácil de tomar a diario. Certificado orgánico, vegano, Non-GMO, con vitaminas B9 y B12. Si omites el líquido pero tomas gummies cada día, la constancia supera a la dosis.",
+      "pros": ["Sin sabor desagradable, sin mezclar — mayor constancia diaria", "Vitaminas B añadidas (B9 y B12)", "Certificado orgánico, vegano, Non-GMO"],
+      "cons": ["Dosis de ACV por porción inferior al líquido (1 cdta. vs 1–2 cdas.)", "Mayor coste por gramo de ACV que las opciones líquidas"],
+      "grade": "B",
+      "specs": {"Porción": "2 gummies", "ACV por porción": "aprox. 500 mg (~1 cdta.)", "Orgánico": "Sí", "Vitaminas añadidas": "B9, B12", "Cantidad": "60 gummies"},
+      "scores": {"Calidad": 4.0, "Sabor": 4.6, "Relación calidad-precio": 3.5, "Nutrición": 3.8, "Versatilidad": 2.5}
+    },
+    {
+      "offerId": "fairchilds-organic-acv",
+      "badge": "Mejor transparencia culinaria",
+      "review": "Fairchild's se diferencia por indicar explícitamente las manzanas Rag Bag del estado de Washington y la acidez verificada al 5 %. El sabor es más limpio y menos a levadura que Bragg — más adecuado para vinagretas ligeras donde se busca el sabor a manzana sin notas de fermentación pronunciadas.",
+      "pros": ["Variedad de manzana y estado de origen indicados — transparencia poco común", "Indicación explícita de acidez al 5 %", "Sabor de manzana más limpio con menos complejidad fermentativa"],
+      "cons": ["Disponibilidad ligeramente menor que Bragg en comercios principales"],
+      "grade": "B-",
+      "specs": {"Tamaño": "32 oz", "Orgánico": "Certificado USDA", "Origen manzanas": "Washington State Rag Bag", "Acidez": "5 % verificado", "Filtrado": "No (con madre)"},
+      "scores": {"Calidad": 4.5, "Sabor": 4.3, "Relación calidad-precio": 3.8, "Nutrición": 4.3, "Versatilidad": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para bebedores diarios de tónico ACV", "offerId": "bragg-organic-acv", "reason": "El ACV crudo de referencia con calidad constante — la elección más obvia para un hábito diario de tónico diluido."},
+    {"label": "Para uso culinario de alto volumen", "offerId": "dynamic-health-acv", "reason": "15–20 % más barato por onza que Bragg con certificación orgánica equivalente — ideal si consumes una botella a la semana."},
+    {"label": "Para principiantes en ACV", "offerId": "kevita-acv-tonic", "reason": "Carbonatado, aromatizado y prediluido — la barrera de entrada más baja para quienes el ACV líquido les resulta demasiado intenso."},
+    {"label": "Para quienes priorizan el hábito sobre la dosis", "offerId": "goli-acv-gummies", "reason": "Si omites el líquido pero tomas gummies a diario, la dosis baja constante supera a la dosis alta irregular."},
+    {"label": "Para vinagretas y aliños ligeros", "offerId": "fairchilds-organic-acv", "reason": "En recetas donde el carácter ACV es protagonista, el sabor limpio a manzana y la transparencia marcan una diferencia real."}
+  ]
 }

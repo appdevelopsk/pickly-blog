@@ -95,6 +95,155 @@
     "ikea-kallax-desk-insert": "IKEA Kallax Desk Insert Drawer. Se desliza en una unidad de cubo Kallax estándar de 33 × 33 cm y convierte una estantería de exhibición abierta en un cajón funcional extraíble. Relevante para configuraciones de oficina en casa que ya tienen una unidad Kallax adyacente o detrás del escritorio — el inserto reutiliza el espacio de estantería muerto para almacenamiento activo (suministros de escritorio, cables, documentos, accesorios tecnológicos) sin añadir nada a la huella de la superficie del escritorio. No es un organizador de escritorio independiente — requiere tener una unidad Kallax o Eket del tamaño de cubo correcto; el cajón es un compartimento único sin divisores, por lo que el almacenamiento organizado de objetos pequeños requiere una bandeja interna separada; el mecanismo de deslizamiento del cajón es básico; el acabado blanco de IKEA se amarilla con el tiempo bajo la luz solar directa.",
     "muji-acrylic-organizer": "Muji Acrylic Desk Organizer Set. Unidades acrílicas transparentes apilables en configuraciones modulares — soportes de bolígrafos, insertos de bandeja, compartimentos para objetos pequeños y ranuras de documentos que se pueden organizar vertical u horizontalmente. La transparencia es funcional: ves lo que hay en cada compartimento sin abrirlo, lo que reduce el tiempo de recuperación y hace visualmente obvio cuando un compartimento está desordenado en lugar de organizado. Popular en la fotografía de oficinas domésticas japonesas y comunidades de configuración de escritorios por su apariencia limpia y baja carga visual. El acrílico se raya con el uso normal y los arañazos son muy visibles en superficies transparentes — un organizador acrílico rayado se ve peor que uno mate rayado; las huellas dactilares y el polvo se notan en el acrílico claro más fácilmente que en las alternativas opacas; el sistema modular crea fatiga de decisión; las unidades base se doblan ligeramente bajo peso concentrado."
   },
-  "pinDescription": "5 organizadores de escritorio comparados para 2026 — Yamazaki Tower alambre de acero, Belkin 3-en-1 MagSafe, soporte plegable Anker 622, inserto IKEA Kallax y conjunto acrílico Muji. Gestión de cables, integración de carga y estrategias para escritorios pequeños #organización #escritorio #español",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Evaluamos cada producto en durabilidad en uso real, facilidad de uso diario, rendimiento frente a lo prometido por el fabricante, calidad de construccion y valor a largo plazo. Las especificaciones del fabricante fueron validadas con resenas de propietarios verificados.",
+  "products": [
+    {
+      "offerId": "yamazaki-tower-desk-organizer",
+      "badge": "Mejor en general",
+      "review": "El Yamazaki Tower soluciona el caos de papeles y objetos pequenos mejor que cualquier otro producto en este rango de precio al colocar los documentos de forma vertical y mantener el espacio visual reducido incluso a plena capacidad. La construccion de alambre es deliberadamente abierta — el contenido visible de un vistazo, sin cajones que abrir — aunque accesorios pequenos como USB y clips caen por los huecos y necesitan una bandeja adicional.",
+      "pros": ["El alambre abierto mantiene el escritorio visualmente despejado incluso cuando esta lleno", "La muesca de enrutado de cables en la parte trasera guia el cable de carga limpiamente", "Menor huella en este estudio — aprox. 15×20 cm"],
+      "cons": ["Los objetos pequenos caen por los huecos del alambre — no apto para USB ni clips"],
+      "grade": "A+",
+      "specs": {
+        "Material": "Alambre de acero con recubrimiento en polvo",
+        "Huella": "aprox. 15 × 20 cm",
+        "Altura": "aprox. 20 cm",
+        "Compartimentos": "2 (ranura de documentos + taza de boligrafos/accesorios)",
+        "Muesca de cable": "Si, panel trasero",
+        "Opciones de color": "Blanco, Negro, Gris",
+        "Escritorios compatibles": "Todos en superficie (incluidos escritorios de pie)"
+      },
+      "scores": {
+        "Capacidad de organizacion": 4.5,
+        "Calidad de construccion": 4.6,
+        "Estetica": 4.8,
+        "Relacion calidad-precio": 4.9,
+        "Huella en el escritorio": 4.7
+      }
+    },
+    {
+      "offerId": "belkin-boost-charge-stand",
+      "badge": "Mejor integracion de carga",
+      "review": "Para un hogar con iPhone + Apple Watch + AirPods, el Belkin 3-in-1 elimina tres cables de carga individuales y libera el equivalente a un folio A5 del escritorio — el beneficio estructural persiste porque el numero de cables realmente disminuye. El modulo de carga del Apple Watch integrado es el verdadero compromiso: no es reemplazable en campo, por lo que su deterioro implica cambiar toda la base.",
+      "pros": ["Carga iPhone a 15W MagSafe, Apple Watch a velocidad rapida y AirPods de forma simultanea", "Un solo cable USB-C a la pared reemplaza tres configuraciones de carga separadas", "El iPhone se mantiene en un angulo de visualizacion practico durante la carga"],
+      "cons": ["El modulo de carga del Apple Watch es integrado y no reemplazable si falla"],
+      "grade": "A",
+      "specs": {
+        "Carga iPhone": "MagSafe 15W",
+        "Carga Apple Watch": "Carga rapida (modulo integrado)",
+        "Carga AirPods": "Qi 2W (pad inferior)",
+        "Conexion a la pared": "1× cable USB-C",
+        "Altura de la base": "aprox. 15 cm",
+        "Requisito de ecosistema": "iPhone 12 o posterior",
+        "Modulo Apple Watch": "Integrado, no reemplazable"
+      },
+      "scores": {
+        "Capacidad de organizacion": 3.8,
+        "Calidad de construccion": 4.5,
+        "Estetica": 4.6,
+        "Relacion calidad-precio": 3.9,
+        "Huella en el escritorio": 4.2
+      }
+    },
+    {
+      "offerId": "anker-622-magnetic-stand",
+      "badge": "Mejor para escritorios pequenos",
+      "review": "La bisagra plegable es el unico diferenciador realmente practico — en un escritorio pequeno, la base se aplana hasta 1 cm de grosor y se empuja contra la base del monitor cuando se necesita espacio, y vuelve a su posicion en un instante. El compromiso es real: Anker lo comercializa como estacion de carga, pero solo carga el iPhone; Apple Watch y AirPods siguen necesitando soluciones separadas.",
+      "pros": ["Se pliega hasta aprox. 1 cm para viaje o recuperacion instantanea de profundidad en el escritorio", "El puck MagSafe desmontable es reemplazable, a diferencia del modulo integrado de Belkin", "Velocidad MagSafe 15W para iPhones compatibles"],
+      "cons": ["Solo carga iPhone — sin posicion para Apple Watch ni AirPods pese al termino 'estacion'"],
+      "grade": "B+",
+      "specs": {
+        "Grosor plegado": "aprox. 1 cm",
+        "Carga iPhone": "MagSafe 15W",
+        "Velocidad Qi no-MagSafe": "5W",
+        "Puck MagSafe": "Desmontable, reemplazable",
+        "Soporte Apple Watch": "Ninguno",
+        "Soporte AirPods": "Ninguno",
+        "Durabilidad bisagra": "Bien valorada hasta 12–18 meses"
+      },
+      "scores": {
+        "Capacidad de organizacion": 2.5,
+        "Calidad de construccion": 4.2,
+        "Estetica": 4.3,
+        "Relacion calidad-precio": 4.4,
+        "Huella en el escritorio": 4.8
+      }
+    },
+    {
+      "offerId": "ikea-kallax-desk-insert",
+      "badge": "Mejor para propietarios de Kallax",
+      "review": "Si ya tienes una unidad Kallax junto al escritorio, este inserto es la actualizacion de almacenamiento mas rentable de la comparacion — convierte espacio muerto en un cajon funcional sin tocar la superficie del escritorio. La restriccion es absoluta: requiere una unidad Kallax o Eket, y el compartimento unico necesita una bandeja interior adicional para objetos pequenos organizados.",
+      "pros": ["Anade almacenamiento en cajon sin consumir superficie del escritorio", "Precio mas bajo de esta comparacion", "Disponible en blanco, marron-negro y chapa de roble tintada en blanco"],
+      "cons": ["Requiere una unidad Kallax o Eket existente — no es un organizador independiente"],
+      "grade": "B",
+      "specs": {
+        "Tamano del cubo": "33 × 33 cm (estandar Kallax)",
+        "Tipo de cajon": "Cajon extraible unico sin divisiones",
+        "Opciones de color": "Blanco, Marron-negro, Chapa de roble tintada en blanco",
+        "Divisores internos": "Ninguno (se necesita inserto adicional)",
+        "Mecanismo de deslizamiento": "Guia basica",
+        "Resistencia a la luz solar": "El acabado blanco amarillea con el tiempo",
+        "Uso independiente": "No — requiere Kallax/Eket"
+      },
+      "scores": {
+        "Capacidad de organizacion": 3.5,
+        "Calidad de construccion": 3.8,
+        "Estetica": 3.9,
+        "Relacion calidad-precio": 4.8,
+        "Huella en el escritorio": 5.0
+      }
+    },
+    {
+      "offerId": "muji-acrylic-organizer",
+      "badge": "Mejor para personalizacion modular",
+      "review": "La transparencia es funcional, no decorativa — ves exactamente lo que hay en cada compartimento sin abrirlo, lo que hace que el desorden sea inmediatamente visible y la recuperacion mas rapida. El compromiso real es el mantenimiento: el acrilico transparente muestra huellas y aranos mucho mas que cualquier superficie mate, y el sistema modular genera fatiga de decision si intentas optimizarlo todo a la vez.",
+      "pros": ["Transparente — contenido visible de un vistazo, el desorden es imposible de ocultar", "Modulos apilables reconfigurables sin herramientas segun cambien las necesidades", "Fotograficamente popular en oficinas japonesas en casa; disponible globalmente en tiendas Muji"],
+      "cons": ["Se raya visiblemente en superficies transparentes y muestra huellas con facilidad — requiere limpieza frecuente"],
+      "grade": "B-",
+      "specs": {
+        "Material": "Acrilico transparente",
+        "Configuracion": "Modular — porta-boligrafos, bandejas y compartimentos apilables",
+        "Huella (config. estandar)": "aprox. 20 × 15 cm",
+        "Resistencia a aranos": "Baja (visible en superficies transparentes)",
+        "Capacidad de peso": "Ligera — las unidades base se doblan bajo cargas concentradas",
+        "Disponibilidad": "Tiendas Muji en todo el mundo y online",
+        "Frecuencia de limpieza": "Alta — huellas y polvo se notan facilmente"
+      },
+      "scores": {
+        "Capacidad de organizacion": 4.3,
+        "Calidad de construccion": 3.5,
+        "Estetica": 4.7,
+        "Relacion calidad-precio": 4.2,
+        "Huella en el escritorio": 4.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para caos de papeles y boligrafos en escritorios pequenos",
+      "offerId": "yamazaki-tower-desk-organizer",
+      "reason": "Coloca documentos de forma vertical y mantiene la estructura de alambre visualmente ligera — la huella de 15×20 cm cabe donde otros organizadores no pueden."
+    },
+    {
+      "label": "Para hogares con iPhone + Apple Watch + AirPods",
+      "offerId": "belkin-boost-charge-stand",
+      "reason": "Consolida tres configuraciones de carga en una base con un cable, liberando el espacio equivalente a un A5 en el escritorio."
+    },
+    {
+      "label": "Para viajeros frecuentes o escritorios muy pequenos",
+      "offerId": "anker-622-magnetic-stand",
+      "reason": "Se pliega hasta 1 cm para el bolso o la recuperacion instantanea de profundidad en el escritorio cuando se necesita el espacio."
+    },
+    {
+      "label": "Para propietarios de estanteria Kallax",
+      "offerId": "ikea-kallax-desk-insert",
+      "reason": "Convierte un cubo Kallax muerto en un cajon funcional sin anadir nada a la superficie del escritorio."
+    },
+    {
+      "label": "Para quienes buscan organizacion configurable y transparente",
+      "offerId": "muji-acrylic-organizer",
+      "reason": "Los modulos apilables transparentes permiten ver exactamente el contenido de cada compartimento y reorganizarlos sin herramientas."
+    }
+  ],
+  "pinDescription": "5 organizadores de escritorio comparados para 2026 — Yamazaki Tower alambre de acero, Belkin 3-en-1 MagSafe, soporte plegable Anker 622, inserto IKEA Kallax y conjunto acrílico Muji. Gestión de cables, integración de carga y estrategias para escritorios pequeños #organización #escritorio #español"
 }

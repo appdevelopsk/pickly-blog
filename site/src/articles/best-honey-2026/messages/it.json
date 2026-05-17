@@ -58,5 +58,64 @@
     "wholesome-organic-raw-honey": "Miele grezzo biologico, certificato commercio equo, 16 oz. $12-18. Il miglior miele grezzo certificato biologico — provenienza commercio equo, sapore delicato, certificazione biologica. Corretto per gli acquirenti che privilegiano il biologico e il commercio equo insieme alla lavorazione grezza."
   },
   "pinDescription": "Miele 2026: spiegazione del Manuka honey UMF vs MGO, confronto Comvita vs Wedderspoon KFactor, differenze tra miele grezzo e miele lavorato, quando il Manuka vale davvero il prezzo e miglior miele per uso quotidiano 2026. #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni prodotto è stato valutato sulla severità della certificazione, la costanza del sapore tra i lotti, il prezzo a porzione, la trasparenza dell'origine e l'idoneità pratica all'uso previsto.",
+  "products": [
+    {
+      "offerId": "comvita-manuka-honey-umf10",
+      "badge": "Migliore in assoluto",
+      "review": "Comvita UMF 10+ è il miele di Manuka certificato più affidabile sul mercato: il sistema UMF verifica in modo indipendente la concentrazione di MGO e i marcatori di autenticità, eliminando il rischio di frode comune nelle etichette Manuka economiche. A $26–40 per 250 g il prezzo a porzione è elevato, ma giustificato da MGO 263+ documentato e tracciabilità globale dei lotti. Limite onesto: 250 g finiscono presto se usato come dolcificante quotidiano.",
+      "pros": ["La certificazione UMF verifica MGO e autenticità in modo indipendente", "Disponibilità globale con qualità dei lotti costante", "MGO 263+ medio adatto all'uso benessere generale"],
+      "cons": ["$26–40 per 250 g rende oneroso l'uso quotidiano"],
+      "grade": "A+",
+      "specs": {"Tipo": "Manuka", "Certificazione": "UMF 10+", "MGO": "263+", "Peso": "250 g", "Origine": "Nuova Zelanda", "Lavorazione": "Grezzo"},
+      "scores": {"Sapore": 4.7, "Purezza": 5.0, "Valore": 3.5, "Texture": 4.5, "Versatilità": 4.0}
+    },
+    {
+      "offerId": "wedderspoon-manuka-kfactor16",
+      "badge": "Miglior Manuka accessibile",
+      "review": "Wedderspoon KFactor 16 certifica che il 75% o più del polline proviene da fiori di Manuka, confermando l'origine floral senza indicare direttamente il contenuto di MGO. Prodotto legittimo a un prezzo inferiore rispetto alla maggior parte dei Manuka UMF, ideale per chi vuole origine Manuka verificata senza pagare il premio UMF. Nota: KFactor 16 non è convertibile direttamente in un punteggio UMF.",
+      "pros": ["Origine Manuka certificata dal polline a prezzo inferiore all'UMF", "11,4 oz offre più volume rispetto alla maggior parte delle opzioni Manuka", "Ampiamente disponibile nella grande distribuzione"],
+      "cons": ["KFactor non indica il livello di MGO — meno preciso dell'UMF"],
+      "grade": "A",
+      "specs": {"Tipo": "Manuka", "Certificazione": "KFactor 16", "Polline": "75%+ Manuka", "Peso": "11,4 oz (323 g)", "Origine": "Nuova Zelanda", "Lavorazione": "Grezzo"},
+      "scores": {"Sapore": 4.5, "Purezza": 4.3, "Valore": 4.2, "Texture": 4.4, "Versatilità": 4.0}
+    },
+    {
+      "offerId": "nature-nates-raw-honey",
+      "badge": "Miglior miele grezzo quotidiano",
+      "review": "Nature Nate's è la risposta giusta per l'uso quotidiano: origine USA, non filtrato, non riscaldato, verificato in modo indipendente e meno di $10 per 16 oz. Il sapore è delicato, di trifoglio — perfetto quando il miele fa da dolcificante discreto in tè, yogurt o condimenti. Niente di esotico — è questo il punto.",
+      "pros": ["Origine USA tracciabile con audit indipendente grezzo", "Sapore delicato di trifoglio adatto a molti usi culinari", "Prezzo accessibile per il consumo quotidiano"],
+      "cons": ["Meno complessità aromatica rispetto alle varietà monofloreali"],
+      "grade": "B+",
+      "specs": {"Tipo": "Trifoglio", "Certificazione": "Grezzo/Non filtrato", "Peso": "16 oz (454 g)", "Origine": "USA", "Lavorazione": "Non riscaldato, non filtrato", "Contenitore": "Flacone squeeze"},
+      "scores": {"Sapore": 4.0, "Purezza": 4.5, "Valore": 4.8, "Texture": 4.0, "Versatilità": 4.7}
+    },
+    {
+      "offerId": "ys-eco-bee-raw-honey",
+      "badge": "Miglior grezzo non filtrato",
+      "review": "Y.S. Eco Bee Farms offre un'esperienza di miele grezzo notevolmente diversa: denso, opaco, con particelle di propoli e polline visibili che attestano una lavorazione minima. Il sapore è più deciso di Nature Nate's, con note terrose e complesse. 22 oz biologico USDA a circa $12–18 rappresenta un buon rapporto qualità-prezzo. Se la texture si indurisce al freddo, riscaldare leggermente il barattolo a bagnomaria.",
+      "pros": ["Propoli e polline visibili confermano la lavorazione non filtrata", "Certificazione biologica USDA", "Formato 22 oz offre un miglior prezzo all'oncia"],
+      "cons": ["La texture densa può essere difficile da versare a basse temperature"],
+      "grade": "B",
+      "specs": {"Tipo": "Mix fiori selvatici", "Certificazione": "USDA Biologico, Grezzo", "Peso": "22 oz (624 g)", "Origine": "USA", "Lavorazione": "Non filtrato, non riscaldato", "Texture": "Denso/pastoso"},
+      "scores": {"Sapore": 4.4, "Purezza": 4.6, "Valore": 4.5, "Texture": 3.8, "Versatilità": 3.9}
+    },
+    {
+      "offerId": "wholesome-organic-raw-honey",
+      "badge": "Miglior biologico equosolidale",
+      "review": "Wholesome Organic soddisfa una nicchia specifica: acquirenti che vogliono sia la certificazione biologica che l'approvvigionamento equosolidale in un miele grezzo senza pagare prezzi da Manuka. Sapore delicato e pulito, paragonabile a Nature Nate's ma con credenziali aggiuntive. A $12–18 per 16 oz costa leggermente di più del miele grezzo convenzionale, ma le certificazioni extra lo giustificano.",
+      "pros": ["USDA Biologico + certificazione equosolidale contemporaneamente", "Sapore delicato adatto alla maggior parte degli usi", "Credenziali di origine trasparenti"],
+      "cons": ["Prezzo all'oncia più alto senza premio di sapore rispetto al miele grezzo convenzionale"],
+      "grade": "B-",
+      "specs": {"Tipo": "Mix trifoglio", "Certificazione": "USDA Biologico, Equosolidale", "Peso": "16 oz (454 g)", "Origine": "Sud America", "Lavorazione": "Grezzo, non filtrato", "Contenitore": "Barattolo"},
+      "scores": {"Sapore": 4.0, "Purezza": 4.7, "Valore": 3.8, "Texture": 4.1, "Versatilità": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per l'uso quotidiano come dolcificante", "offerId": "nature-nates-raw-honey", "reason": "Sapore delicato, certificazione grezzo e prezzo adatto al consumo giornaliero senza pensieri."},
+    {"label": "Per i benefici Manuka verificati", "offerId": "comvita-manuka-honey-umf10", "reason": "UMF 10+ certifica in modo indipendente MGO 263+ — la certificazione più affidabile quando la potenza del Manuka conta."},
+    {"label": "Per prioritizzare l'approvvigionamento etico", "offerId": "wholesome-organic-raw-honey", "reason": "USDA Biologico e certificazione equosolidale — la scelta quando l'etica dell'origine conta quanto il sapore."},
+    {"label": "Per gli acquirenti di Manuka a budget ridotto", "offerId": "wedderspoon-manuka-kfactor16", "reason": "Origine Manuka certificata dal polline a prezzo inferiore ai prodotti UMF — buon punto di partenza senza il premio completo."},
+    {"label": "Per il miele più grezzo possibile", "offerId": "ys-eco-bee-raw-honey", "reason": "Propoli e polline visibili in un miele denso certificato USDA biologico — l'opzione più 'grezza' di questa lista."}
+  ]
 }

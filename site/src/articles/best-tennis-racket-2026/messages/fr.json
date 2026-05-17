@@ -58,5 +58,154 @@
     "wilson-blade-98-v8": "98 po², 304g, cadre 21,5mm, 16x19. $220-250. Meilleure raquette de contrôle accessible -- moins exigeante que la Pro Staff, association avec Swiatek. Correcte pour les joueurs de club qui veulent une précision de style Pro Staff avec plus d'indulgence."
   },
   "pinDescription": "Raquette de tennis 2026 : Wilson Pro Staff vs Babolat Pure Aero vs Head Speed vs Yonex EZONE -- taille de tête, poids, motif de cordage expliqués, ce que les spécifications signifient vraiment, pourquoi les raquettes pro sont mauvaises pour les débutants, et meilleure raquette de tennis pour les joueurs récréatifs 2026. #raquetteTennis #tennis #sport #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque raquette a été évaluée selon les spécifications publiées du cadre (taille de tête, poids cordé, largeur du cadre, motif de cordage) croisées avec les caractéristiques de jeu documentées, l'association aux joueurs professionnels et la pertinence réaliste pour les joueurs récréatifs jusqu'aux joueurs de club avancés — avec des notes explicites sur les exigences de niveau et les erreurs d'achat courantes.",
+  "products": [
+    {
+      "offerId": "wilson-pro-staff-97-v14",
+      "badge": "Meilleur contrôle",
+      "review": "La Pro Staff 97 v14 offre une précision de placement exceptionnelle pour les joueurs intermédiaires-avancés avec une technique consistante. La petite zone de frappe et le faible niveau de puissance exigent un swing complet — les frappes décentrées atterrissent rarement à un endroit utile.",
+      "pros": ["Retour d'informations de contrôle incomparable", "Cadre iconique avec association à Federer", "Optimisé pour le jeu de contrôle précis"],
+      "cons": ["Trop exigeant pour les débutants et les intermédiaires"],
+      "grade": "A+",
+      "specs": {
+        "Taille de tête": "97 po²",
+        "Poids (cordée)": "315g",
+        "Largeur du cadre": "21/21,5/21mm",
+        "Motif de cordage": "16×19",
+        "Équilibre": "Tête légère",
+        "Joueurs recommandés": "Intermédiaires-avancés",
+        "Gamme de prix": "230–260 $ (non cordée)"
+      },
+      "scores": {
+        "Power": 62,
+        "Control": 98,
+        "Swing weight": 88,
+        "Value": 72,
+        "Vibration dampening": 60
+      }
+    },
+    {
+      "offerId": "babolat-pure-aero-2023",
+      "badge": "Meilleur topspin",
+      "review": "La Pure Aero 2023 est le fleuron effect de Nadal avec cadre aérodynamique et motif 16×19 pour un potentiel de spin extrême. Optimisée pour les joueurs de fond qui veulent swinguer rapidement et générer beaucoup de topspin.",
+      "pros": ["Potentiel de topspin extrême", "Cadre éprouvé avec association à Nadal", "Optimisé pour le style de jeu orienté effet"],
+      "cons": ["Inadaptée aux frappeurs plats ou aux joueurs orientés précision"],
+      "grade": "A",
+      "specs": {
+        "Taille de tête": "100 po²",
+        "Poids (non cordée)": "300g",
+        "Largeur du cadre": "23–26mm (aérodynamique)",
+        "Motif de cordage": "16×19",
+        "Équilibre": "Tête légère",
+        "Joueurs recommandés": "Joueurs de fond (prise semi-occidentale ou occidentale)",
+        "Gamme de prix": "240–270 $ (non cordée)"
+      },
+      "scores": {
+        "Power": 82,
+        "Control": 75,
+        "Swing weight": 72,
+        "Value": 74,
+        "Vibration dampening": 68
+      }
+    },
+    {
+      "offerId": "head-speed-mp",
+      "badge": "Meilleure polyvalence",
+      "review": "La Speed MP est la raquette polyvalente de Djokovic avec un équilibre entre puissance et contrôle. La tête de 100 po² et le cadre de 23mm permettent un jeu varié sans spécialisation prononcée dans une direction.",
+      "pros": ["Excellent équilibre entre puissance et contrôle", "Polyvalence avec association à Djokovic", "Convient à de nombreux styles de jeu"],
+      "cons": ["Moins de caractère distinctif que les raquettes spécialisées"],
+      "grade": "B+",
+      "specs": {
+        "Taille de tête": "100 po²",
+        "Poids (non cordée)": "300g",
+        "Largeur du cadre": "23mm",
+        "Motif de cordage": "16×19",
+        "Technologie": "Graphene 360+",
+        "Joueurs recommandés": "Avancés polyvalents",
+        "Gamme de prix": "220–250 $"
+      },
+      "scores": {
+        "Power": 80,
+        "Control": 80,
+        "Swing weight": 75,
+        "Value": 78,
+        "Vibration dampening": 72
+      }
+    },
+    {
+      "offerId": "yonex-ezone-98",
+      "badge": "Meilleure pour le bras",
+      "review": "L'EZONE 98 est le meilleur choix pour les joueurs souffrant d'épicondylite ou de sensibilité du bras grâce au Vibration Dampening Mesh. Moins de feedback que la Pro Staff, mais la plage d'utilisation plus large et la douceur pour le bras la différencient clairement.",
+      "pros": ["Excellente absorption des vibrations pour les joueurs avec épicondylite", "Cadre de contrôle de 100 po²", "Moins de fatigue du bras sur les longues sessions"],
+      "cons": ["Moins de retour d'informations de contrôle par rapport à la Pro Staff"],
+      "grade": "B",
+      "specs": {
+        "Taille de tête": "98 po²",
+        "Poids (non cordée)": "305g",
+        "Largeur du cadre": "23,5mm",
+        "Technologie": "Vibration Dampening Mesh",
+        "Motif de cordage": "16×19",
+        "Joueurs recommandés": "Joueurs avec épicondylite ou sensibilité du bras",
+        "Gamme de prix": "230–260 $"
+      },
+      "scores": {
+        "Power": 76,
+        "Control": 82,
+        "Swing weight": 78,
+        "Value": 74,
+        "Vibration dampening": 95
+      }
+    },
+    {
+      "offerId": "wilson-blade-98-v8",
+      "badge": "Meilleur contrôle accessible",
+      "review": "La Blade 98 v8 est moins exigeante que la Pro Staff tout en conservant le caractère orienté contrôle. Le cadre préféré de Swiatek convient aux joueurs de club qui recherchent la précision style Pro Staff avec plus d'indulgence.",
+      "pros": ["Plus indulgente que la Pro Staff", "Cadre de contrôle avec association à Swiatek", "Bon équilibre entre contrôle et maniabilité"],
+      "cons": ["Moins de retour de contrôle pur que la Pro Staff"],
+      "grade": "B-",
+      "specs": {
+        "Taille de tête": "98 po²",
+        "Poids (cordée)": "304g",
+        "Largeur du cadre": "21,5mm",
+        "Motif de cordage": "16×19",
+        "Équilibre": "Tête légère",
+        "Joueurs recommandés": "Intermédiaires-avancés orientés contrôle",
+        "Gamme de prix": "220–250 $"
+      },
+      "scores": {
+        "Power": 68,
+        "Control": 88,
+        "Swing weight": 82,
+        "Value": 76,
+        "Vibration dampening": 70
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les joueurs de contrôle précis",
+      "offerId": "wilson-pro-staff-97-v14",
+      "reason": "Idéal pour les intermédiaires-avancés avec une mécanique de swing consistante qui recherchent une précision maximale de placement."
+    },
+    {
+      "label": "Pour les joueurs de topspin intensif",
+      "offerId": "babolat-pure-aero-2023",
+      "reason": "Optimal pour les joueurs de fond avec prise semi-occidentale à occidentale qui veulent générer beaucoup de topspin."
+    },
+    {
+      "label": "Pour les joueurs polyvalents",
+      "offerId": "head-speed-mp",
+      "reason": "Meilleur choix pour les avancés qui veulent à la fois de la puissance et du contrôle sans préférence de style spécifique."
+    },
+    {
+      "label": "Pour les joueurs avec des problèmes de bras",
+      "offerId": "yonex-ezone-98",
+      "reason": "Recommandé pour les joueurs avec des antécédents d'épicondylite ou une sensibilité du bras qui recherchent un cadre de contrôle de 98 po²."
+    },
+    {
+      "label": "Pour les joueurs de club style Pro Staff",
+      "offerId": "wilson-blade-98-v8",
+      "reason": "Parfait pour les joueurs de club qui aspirent à la précision style Pro Staff mais préfèrent un cadre plus indulgent."
+    }
+  ]
 }

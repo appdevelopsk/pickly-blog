@@ -96,5 +96,154 @@
     "muji-acrylic-organizer": "Muji Acrylic Desk Organizer Set. Unidades acrílicas transparentes empilháveis em configurações modulares — porta-canetas, insertos de bandeja, compartimentos para objetos pequenos e ranhuras de documentos que podem ser organizados vertical ou horizontalmente. A transparência é funcional: você vê o que está em cada compartimento sem abri-lo, o que reduz o tempo de recuperação e torna visualmente óbvio quando um compartimento está bagunçado em vez de organizado. Popular na fotografia de home office japonesa e comunidades de configuração de mesa por sua aparência limpa e de baixo ruído visual. O acrílico risca com o uso normal e os arranhões são muito visíveis em superfícies transparentes — um organizador acrílico riscado fica pior do que um fosco riscado; impressões digitais e poeira aparecem no acrílico transparente mais facilmente do que em alternativas opacas; o sistema modular cria fadiga de decisão; as unidades base flexionam levemente sob peso concentrado."
   },
   "pinDescription": "5 organizadores de mesa comparados para 2026 — Yamazaki Tower arame de aço, Belkin 3-em-1 MagSafe, suporte dobrável Anker 622, inserto IKEA Kallax e conjunto acrílico Muji. Gerenciamento de cabos, integração de carregamento e estratégias para mesas pequenas #organização #mesadetrabalho #português",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Avaliamos cada produto em durabilidade no uso real, facilidade de uso diario, desempenho em relacao as promessas do fabricante, qualidade de construcao e valor a longo prazo. As especificacoes do fabricante foram validadas com avaliacoes de proprietarios verificados.",
+  "products": [
+    {
+      "offerId": "yamazaki-tower-desk-organizer",
+      "badge": "Melhor no geral",
+      "review": "O Yamazaki Tower resolve o caos de papeis e objetos pequenos melhor do que qualquer outro produto nessa faixa de preco, posicionando documentos na vertical e mantendo o espaco visual reduzido mesmo na capacidade maxima. A construcao em arame e deliberadamente aberta — o conteudo visivel de relance, sem gavetas para abrir — mas acessorios pequenos como pendrives e clipes caem pelas frestas e requerem uma bandeja adicional.",
+      "pros": ["O arame aberto mantem a mesa visualmente organizada mesmo quando cheia", "A ranhura de roteamento de cabos na traseira guia o cabo de carregamento de forma limpa", "Menor espaco ocupado nesta comparacao — aprox. 15×20 cm"],
+      "cons": ["Objetos pequenos caem pelas frestas do arame — inadequado para pendrives ou clipes"],
+      "grade": "A+",
+      "specs": {
+        "Material": "Arame de aco com revestimento em po",
+        "Area ocupada": "aprox. 15 × 20 cm",
+        "Altura": "aprox. 20 cm",
+        "Compartimentos": "2 (slot de documentos + copo para canetas/acessorios)",
+        "Ranhura de cabo": "Sim, painel traseiro",
+        "Opcoes de cor": "Branco, Preto, Cinza",
+        "Mesas compativeis": "Todas em superficie (incluindo mesas de pe)"
+      },
+      "scores": {
+        "Capacidade de organizacao": 4.5,
+        "Qualidade de construcao": 4.6,
+        "Estetica": 4.8,
+        "Custo-beneficio": 4.9,
+        "Espaco ocupado na mesa": 4.7
+      }
+    },
+    {
+      "offerId": "belkin-boost-charge-stand",
+      "badge": "Melhor integracao de carregamento",
+      "review": "Para uma casa com iPhone + Apple Watch + AirPods, o Belkin 3-in-1 elimina tres cabos de carregamento separados e libera o equivalente a uma folha A5 na mesa — o beneficio estrutural persiste porque o numero de cabos realmente diminui. O modulo de carregamento do Apple Watch integrado e o verdadeiro compromisso: nao e substituivel em campo, entao sua degradacao obriga a troca de todo o suporte.",
+      "pros": ["Carrega iPhone a 15W MagSafe, Apple Watch na velocidade rapida e AirPods simultaneamente", "Um unico cabo USB-C para a tomada substitui tres configuracoes de carregamento separadas", "O iPhone e mantido em angulo de visualizacao pratico durante o carregamento"],
+      "cons": ["O modulo de carregamento do Apple Watch e integrado e nao substituivel se falhar"],
+      "grade": "A",
+      "specs": {
+        "Carregamento iPhone": "MagSafe 15W",
+        "Carregamento Apple Watch": "Carregamento rapido (modulo integrado)",
+        "Carregamento AirPods": "Qi 2W (pad inferior)",
+        "Conexao com a tomada": "1× cabo USB-C",
+        "Altura do suporte": "aprox. 15 cm",
+        "Requisito de ecossistema": "iPhone 12 ou posterior",
+        "Modulo Apple Watch": "Integrado, nao substituivel"
+      },
+      "scores": {
+        "Capacidade de organizacao": 3.8,
+        "Qualidade de construcao": 4.5,
+        "Estetica": 4.6,
+        "Custo-beneficio": 3.9,
+        "Espaco ocupado na mesa": 4.2
+      }
+    },
+    {
+      "offerId": "anker-622-magnetic-stand",
+      "badge": "Melhor para mesas pequenas",
+      "review": "A dobradica dobravel e o unico diferenciador verdadeiramente pratico — em uma mesa pequena, o suporte achata ate 1 cm de espessura e empurra contra a base do monitor quando o espaco e necessario, e se levanta instantaneamente. O compromisso e real: a Anker comercializa como estacao de carregamento, mas so carrega o iPhone; Apple Watch e AirPods ainda precisam de solucoes separadas.",
+      "pros": ["Dobra ate aprox. 1 cm para viagem ou recuperacao instantanea de profundidade na mesa", "O puck MagSafe desmontavel e substituivel ao contrario do modulo integrado da Belkin", "Velocidade MagSafe 15W para iPhones compativeis"],
+      "cons": ["Carrega apenas iPhone — sem posicao para Apple Watch ou AirPods apesar do termo 'estacao'"],
+      "grade": "B+",
+      "specs": {
+        "Espessura dobrado": "aprox. 1 cm",
+        "Carregamento iPhone": "MagSafe 15W",
+        "Velocidade Qi nao-MagSafe": "5W",
+        "Puck MagSafe": "Desmontavel, substituivel",
+        "Suporte Apple Watch": "Nenhum",
+        "Suporte AirPods": "Nenhum",
+        "Durabilidade da dobradica": "Bem avaliada ate 12–18 meses"
+      },
+      "scores": {
+        "Capacidade de organizacao": 2.5,
+        "Qualidade de construcao": 4.2,
+        "Estetica": 4.3,
+        "Custo-beneficio": 4.4,
+        "Espaco ocupado na mesa": 4.8
+      }
+    },
+    {
+      "offerId": "ikea-kallax-desk-insert",
+      "badge": "Melhor para quem tem um Kallax",
+      "review": "Se voce ja tem uma unidade Kallax ao lado da mesa, este inserto e a atualizacao de armazenamento mais rentavel da comparacao — converte espaco morto em uma gaveta funcional sem tocar na superficie da mesa. A restricao e absoluta: requer uma unidade Kallax ou Eket, e o compartimento unico sem divisorias precisa de uma bandeja interna adicional para objetos pequenos organizados.",
+      "pros": ["Adiciona armazenamento em gaveta sem consumir superficie da mesa", "Preco mais baixo desta comparacao", "Disponivel em branco, marrom-preto e folheado de carvalho tinto branco"],
+      "cons": ["Requer uma unidade Kallax ou Eket existente — nao e um organizador independente"],
+      "grade": "B",
+      "specs": {
+        "Tamanho do cubo": "33 × 33 cm (padrao Kallax)",
+        "Tipo de gaveta": "Gaveta deslizante unica sem divisorias",
+        "Opcoes de cor": "Branco, Marrom-preto, Folheado de carvalho tinto branco",
+        "Divisorias internas": "Nenhuma (bandeja separada necessaria)",
+        "Mecanismo de deslizamento": "Corredia basica",
+        "Resistencia a luz solar": "O branco amarela com o tempo sob luz direta",
+        "Uso independente": "Nao — requer Kallax/Eket"
+      },
+      "scores": {
+        "Capacidade de organizacao": 3.5,
+        "Qualidade de construcao": 3.8,
+        "Estetica": 3.9,
+        "Custo-beneficio": 4.8,
+        "Espaco ocupado na mesa": 5.0
+      }
+    },
+    {
+      "offerId": "muji-acrylic-organizer",
+      "badge": "Melhor para personalizacao modular",
+      "review": "A transparencia e funcional, nao decorativa — voce ve exatamente o que esta em cada compartimento sem abri-lo, o que torna a desordem imediatamente visivel e a recuperacao mais rapida. O verdadeiro compromisso e a manutencao: o acrilico transparente mostra impressoes digitais e arranhoes muito mais do que qualquer superficie fosca, e o sistema modular cria fadiga decisional se voce tentar otimizar tudo de uma vez.",
+      "pros": ["Transparente — conteudo visivel de relance, a desordem e impossivel de esconder", "Modulos empilhaveis reconfiguravelmente sem ferramentas conforme as necessidades mudam", "Popular em home-offices japoneses; disponivel globalmente nas lojas Muji"],
+      "cons": ["Arranha visivelmente em superficies transparentes e mostra impressoes digitais com facilidade — requer limpeza frequente"],
+      "grade": "B-",
+      "specs": {
+        "Material": "Acrilico transparente",
+        "Configuracao": "Modular — porta-canetas, bandejas e compartimentos empilhaveis",
+        "Area ocupada (config. padrao)": "aprox. 20 × 15 cm",
+        "Resistencia a arranhoes": "Baixa (visivel em superficies transparentes)",
+        "Capacidade de carga": "Leve — as unidades base dobram sob cargas concentradas",
+        "Disponibilidade": "Lojas Muji no mundo todo e online",
+        "Frequencia de limpeza": "Alta — impressoes digitais e po muito visiveis"
+      },
+      "scores": {
+        "Capacidade de organizacao": 4.3,
+        "Qualidade de construcao": 3.5,
+        "Estetica": 4.7,
+        "Custo-beneficio": 4.2,
+        "Espaco ocupado na mesa": 4.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para caos de papeis e canetas em mesa pequena",
+      "offerId": "yamazaki-tower-desk-organizer",
+      "reason": "Posiciona documentos na vertical e mantem a estrutura de arame visualmente leve — a area de 15×20 cm cabe onde outros organizadores nao conseguem."
+    },
+    {
+      "label": "Para casas com iPhone + Apple Watch + AirPods",
+      "offerId": "belkin-boost-charge-stand",
+      "reason": "Consolida tres configuracoes de carregamento em um unico suporte com um cabo, liberando o equivalente a um A5 na mesa."
+    },
+    {
+      "label": "Para quem viaja frequentemente ou tem mesa muito pequena",
+      "offerId": "anker-622-magnetic-stand",
+      "reason": "Dobra ate 1 cm para a mochila ou recuperacao instantanea de profundidade na mesa quando o espaco e necessario."
+    },
+    {
+      "label": "Para quem ja tem uma estante Kallax",
+      "offerId": "ikea-kallax-desk-insert",
+      "reason": "Converte um cubo Kallax morto em uma gaveta funcional sem adicionar nada a superficie da mesa."
+    },
+    {
+      "label": "Para organizacao configuravel e transparente",
+      "offerId": "muji-acrylic-organizer",
+      "reason": "Modulos empilhaveis transparentes permitem ver exatamente o conteudo de cada compartimento e reorganiza-los sem ferramentas."
+    }
+  ]
 }

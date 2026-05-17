@@ -58,5 +58,172 @@
     "paddletek-tempest-wave-pro": "Texturierte Fiberglas-Flaeche, Polymerkern, 14mm, 7.6-8.0 oz. $120-150. Beste Mittelklasse fuer alle -- zwischen Anfaenger und Premium, mehr Spin-Textur als einfaches Composite. Geeignet fuer Spieler mit 6+ Monaten Erfahrung, die besseres Feedback ohne $200 Ausgaben wollen."
   },
   "pinDescription": "Pickleball-Schlaeger 2026: Selkirk Vanguard vs Joola Ben Johns Hyperion vs Franklin X-40 vs Head Extreme Tour -- Carbon vs Composite-Flaeche erklaert, was das Schlaegergewicht bedeutet, Power- vs Kontroll-Schlaeger, und bester Pickleball-Schlaeger fuer Anfaenger und Fortgeschrittene 2026. #Pickleball #Schlaeger #Sport #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jeder Schläger wurde nach Kern- und Flächen-Material, Power-Control-Balance, Sweet-Spot-Größe, Haltbarkeit bei regelmäßigem Spiel und Preis-Leistungs-Verhältnis für Anfänger bis Fortgeschrittene bewertet.",
+  "products": [
+    {
+      "offerId": "selkirk-vanguard-power-air",
+      "badge": "Bestes Premium-Gesamtpaket",
+      "review": "Die Aero-Tec-Kohlefaser-Oberfläche und der 16-mm-Polymerkern des Vanguard Power Air liefern die beste Kombination aus Spin und Kontrolle im Premium-Bereich. Der aerodynamische Kantenperforierung reduziert den Luftwiderstand beim Schwingen — ein echter Vorteil für schnelle Hände am Netz. Der Preis von $200+ ist für Gelegenheitsspieler zu hoch.",
+      "pros": [
+        "Aero-Tec-Karbonoberfläche erzeugt Elite-Spin bei Dinks und Schlägen",
+        "16-mm-Kerntiefe maximiert die Verweilzeit für Kontrollschläge",
+        "Aerodynamische Kante reduziert Schwingwiderstand für schnelle Ballwechsel"
+      ],
+      "cons": [
+        "Bei $200–230 ist der Leistungsunterschied zu mittleren Schlägern nur auf mittlerem+ Niveau spürbar"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Face material": "Aero-Tec carbon fiber",
+        "Core": "Polymer honeycomb 16mm",
+        "Weight": "7.4–7.6 oz",
+        "Grip length": "5.25 in",
+        "Price (US)": "~$220"
+      },
+      "scores": {
+        "Power": 4.6,
+        "Control": 5.0,
+        "Sweet spot": 4.8,
+        "Value": 3.5,
+        "Durability": 4.7
+      }
+    },
+    {
+      "offerId": "joola-ben-johns-hyperion-cfs16",
+      "badge": "Bestes für Spin-Spieler",
+      "review": "Die Hyperion CFS16, co-entwickelt mit Weltranglistenersten Ben Johns, hat die beste Spin-Erzeugung im Vergleich. Der 16-mm-Kern hält den Schläger kontrolliert, auch bei schnellen Schwinggeschwindigkeiten. Der Kompromiss: Der kleine Sweet Spot verzeiht Fehlkontakt weniger als der Selkirk.",
+      "pros": [
+        "CFS-Karbonoberfläche für maximalen Topspin bei Third-Shot-Drops",
+        "Mit Beiträgen von Weltranglisten-Erstem Ben Johns entwickelt",
+        "16-mm-Dicke für weiches Berühren an der Küchenlinie"
+      ],
+      "cons": [
+        "Kleinerer Sweet Spot bestraft Off-Center-Kontakt mehr als der Selkirk"
+      ],
+      "grade": "A",
+      "specs": {
+        "Face material": "Carbon Friction Surface (CFS)",
+        "Core": "Polymer honeycomb 16mm",
+        "Weight": "7.5–8.0 oz",
+        "Grip circumference": "4 1/4 in",
+        "Price (US)": "~$220"
+      },
+      "scores": {
+        "Power": 4.5,
+        "Control": 4.9,
+        "Sweet spot": 4.4,
+        "Value": 3.6,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "paddletek-tempest-wave-pro",
+      "badge": "Bestes mittleres Allround-Modell",
+      "review": "Die strukturierte Glasfaseroberfläche und der 14-mm-Polymerkern des Tempest Wave Pro treffen den Sweet Spot zwischen Anfänger und Premium. Er fördert die Entwicklung von Spin-Technik ohne die steile Lernkurve von Karbonoberflächen. Am besten für Spieler zwischen 6 Monaten und 2 Jahren.",
+      "pros": [
+        "Strukturierte Glasfaser bietet Spin-Feedback ohne Karbons steile Lernkurve",
+        "14-mm-Kern balanciert Kraft und Kontrolle für mittlere Spieler",
+        "Starker Ruf im Freizeit- und Clubbereich"
+      ],
+      "cons": [
+        "Für fortgeschrittene Spin-Spieler, die von Kohlefaser wechseln, zu wenig Oberflächentextur"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Face material": "Textured fiberglass",
+        "Core": "Polymer honeycomb 14mm",
+        "Weight": "7.6–8.0 oz",
+        "Price (US)": "~$150"
+      },
+      "scores": {
+        "Power": 4.2,
+        "Control": 4.4,
+        "Sweet spot": 4.5,
+        "Value": 4.2,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "head-extreme-tour-paddle",
+      "badge": "Bestes für Tennisspieler",
+      "review": "Die Graphitoberfl fläche und das traditionelle Gefühl des Extreme Tour macht ihn zum natürlichen Einstiegspunkt für Tennisspieler, die zu Pickleball wechseln. Der großzügige Sweet Spot und das vertraute Gewicht (7,6 oz) verkürzen die Lernkurve. Der Kompromiss ist weniger Spin-Erzeugung als Karbonkonkurrenten im gleichen Preisbereich.",
+      "pros": [
+        "Traditionelles Gefühl für Tennisspieler vertraut",
+        "Großzügiger Sweet Spot reduziert Strafe für Off-Center-Kontakt",
+        "Mid-Tier-Preis bei einer renommierten Schlägert-Marke"
+      ],
+      "cons": [
+        "Graphitoberfl fläche erzeugt weniger Spin als Karbonoberflächen im Preisbereich $80–100"
+      ],
+      "grade": "B",
+      "specs": {
+        "Face material": "Graphite",
+        "Core": "Polymer honeycomb",
+        "Weight": "7.6 oz",
+        "Price (US)": "~$100"
+      },
+      "scores": {
+        "Power": 4.0,
+        "Control": 4.2,
+        "Sweet spot": 4.6,
+        "Value": 4.0,
+        "Durability": 4.3
+      }
+    },
+    {
+      "offerId": "franklin-x40-paddle-set",
+      "badge": "Bestes Einsteiger-Set",
+      "review": "Das Franklin X-40 Set liefert zwei Verbundschläger plus vier X-40-Turnierbälle in einem Kauf — der richtige Ausgangspunkt vor dem Kauf eines persönlichen Schlägers. Die enthaltenen Bälle sind echte USA-Pickleball-zugelassene Bälle. Die Schläger sind anfängergerecht, wirken aber nach regelmäßigem Spiel einschränkend.",
+      "pros": [
+        "Zwei Schläger plus vier USA-zugelassene X-40-Bälle im Set",
+        "Niedrigste Einstiegskosten zum Erlernen des Spiels mit echten Geräten",
+        "Franklin ist offizieller USA-Pickleball-Ball-Lieferant"
+      ],
+      "cons": [
+        "Anfänger-Schlägerleistung wird einschränkend wirken, sobald die Technik über 3 Monate hinausgeht"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Face material": "Fiberglass composite",
+        "Core": "Polymer honeycomb",
+        "Weight": "7.8 oz",
+        "Includes": "2 paddles + 4 X-40 balls",
+        "Price (US)": "~$40–50"
+      },
+      "scores": {
+        "Power": 3.5,
+        "Control": 3.8,
+        "Sweet spot": 4.0,
+        "Value": 5.0,
+        "Durability": 3.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für fortgeschrittene Spieler, die Kontrolle und Spin priorisieren",
+      "offerId": "selkirk-vanguard-power-air",
+      "reason": "Aero-Tec-Karbonoberfläche und 16-mm-Kern liefern die beste Verweilzeit und Spin-Erzeugung im Sortiment."
+    },
+    {
+      "label": "Für mittlere Spieler, die ihr Spin-Spiel entwickeln",
+      "offerId": "joola-ben-johns-hyperion-cfs16",
+      "reason": "CFS-Karbonoberfläche erzeugt den meisten Spin im Vergleich, co-entwickelt mit dem Weltranglisten-Ersten."
+    },
+    {
+      "label": "Für Tennisspieler, die zu Pickleball wechseln",
+      "offerId": "head-extreme-tour-paddle",
+      "reason": "Graphitoberfl fläche und vertrautes Gewicht fühlen sich wie eine natürliche Verlängerung eines Tennisschlägers an."
+    },
+    {
+      "label": "Für Spieler zwischen 6 Monaten und 2 Jahren, die upgraden möchten",
+      "offerId": "paddletek-tempest-wave-pro",
+      "reason": "Strukturierte Glasfaser fördert verbesserte Technik ohne die steile Lernkurve von Kohlefaser."
+    },
+    {
+      "label": "Für komplette Anfänger, die alles zum Start brauchen",
+      "offerId": "franklin-x40-paddle-set",
+      "reason": "Zwei Schläger plus turniertaugliche Bälle im Set — der reibungsloseste Weg, Pickleball auszuprobieren."
+    }
+  ]
 }

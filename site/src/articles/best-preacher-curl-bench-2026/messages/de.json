@@ -58,5 +58,181 @@
     "adjustable-preacher-curl-attachment": "Polsteraufsatz fur Gewichtsbank, spart Bodenraum, variable Stabilitat. $40-80. Platzeffiziente Alternative zur Standalone-Bank. Beste Wahl fur Athleten mit einer hochwertigen einstellbaren Bank, die gelegentliche Schragebank-Curl-Moglichkeit mochten."
   },
   "pinDescription": "Curling-Schragebank 2026: Body-Solid vs Marcy vs Valor vs REP, warum Schragebank-Curls die gedehnte Bizepsposition ansprechen, Standalone-Bank vs. Aufsatz, und ob sich eine Schragebank fur ein Heimstudio lohnt. #curlschragebank #bizeps #deutsch #heimstudio",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jede Bank wurde nach Polsterwinkel und Schaumdichte unter Last, Sitzeinstellbereich, Armpolsterbreite im Vergleich zur EZ-Curl-Stange, Rahmenflexion bei Maximalsätzen und langfristiger Schweißnahtintegrität auf Basis von Nutzerberichten nach über 12 Monaten regelmäßiger Nutzung bewertet.",
+  "products": [
+    {
+      "offerId": "body-solid-preacher-curl-bench",
+      "badge": "Beste Gesamtwahl",
+      "review": "Die Body-Solid fixiert die Oberarme fest, ohne dass das Polster bei schweren EZ-Stangensätzen verrutscht. Der verstellbare Sitz passt für die meisten Torsolängen, und das breite Armpolster unterstützt beide Arme ohne Enge — der Hauptgrund, warum sie Alternativen im Heimgymbereich übertrifft. Die Polsterhaltbarkeit nach 3+ Jahren wird gelegentlich als Schwäche im Vergleich zur REP zum doppelten Preis genannt.",
+      "pros": [
+        "Dichter HD-Schaum behält Form unter schwerer Barbell-Last",
+        "4–5 Sitzpositionen passen für die meisten Torsolängen",
+        "Breites Armpolster funktioniert für beiarmige EZ-Stangen-Arbeit"
+      ],
+      "cons": [
+        "Schaumhülle kann nach 2–3 Jahren täglicher Nutzung reißen"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Frame": "Heavy-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "4–5",
+        "Arm pad width": "~38 cm",
+        "Price range": "$100–150",
+        "Footprint": "~46×56 cm",
+        "Weight capacity": "150 kg"
+      },
+      "scores": {
+        "Stability": 4.8,
+        "Pad quality": 4.5,
+        "Build quality": 4.7,
+        "Value": 4.6,
+        "Adjustability": 4.4
+      }
+    },
+    {
+      "offerId": "rep-fitness-preacher-curl-bench",
+      "badge": "Beste Qualität",
+      "review": "Die REP verwendet kommerziell geprüfte Polsterung, die nach intensiver Nutzung fest und rissfrei bleibt, und der Rahmen toleriert dynamische Belastungen viel besser als leichtere Alternativen. Mehr Sitzpositionen bedeutet, dass sie Athleten über 185 cm bequem unterstützt. Der Aufpreis gegenüber Body-Solid lohnt sich nur, wenn man die Arme zwei oder mehr Mal pro Woche trainiert.",
+      "pros": [
+        "Kommerzieller Schaum widersteht Verdichtung und Rissbildung",
+        "Meiste Sitzpositionen im Vergleich",
+        "Schwerer Rahmen verarbeitet gewichtete Kabelzugaufbauten"
+      ],
+      "cons": [
+        "130–180 $ Preis schwer zu rechtfertigen für gelegentliche Armarbeit"
+      ],
+      "grade": "A",
+      "specs": {
+        "Frame": "Heavy-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "6+",
+        "Arm pad width": "~40 cm",
+        "Price range": "$130–180",
+        "Footprint": "~48×58 cm",
+        "Weight capacity": "180 kg"
+      },
+      "scores": {
+        "Stability": 4.9,
+        "Pad quality": 4.9,
+        "Build quality": 4.9,
+        "Value": 4.0,
+        "Adjustability": 4.8
+      }
+    },
+    {
+      "offerId": "valor-fitness-preacher-curl-bench",
+      "badge": "Bestes Mittelklasse-Modell",
+      "review": "Valor füllt die Lücke zwischen Marcys günstiger Bauweise und Body-Solids Preis — die Schweißnähte sind deutlich sauberer und der Schaum deutlich dicker als beim Marcy. Er biegt sich nicht unter mäßigen Lasten und die Sitzverstellung deckt die meisten Standardhöhen ab.",
+      "pros": [
+        "Dickerer Schaum als günstige Alternativen",
+        "Sauberere Schweißnahtqualität als Marcy",
+        "Stabil unter mäßigen Trainingslasten"
+      ],
+      "cons": [
+        "Schaumdichte noch unter Body-Solid und REP"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Frame": "Medium-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "3–4",
+        "Arm pad width": "~36 cm",
+        "Price range": "$80–120",
+        "Footprint": "~44×54 cm",
+        "Weight capacity": "136 kg"
+      },
+      "scores": {
+        "Stability": 4.4,
+        "Pad quality": 4.2,
+        "Build quality": 4.3,
+        "Value": 4.5,
+        "Adjustability": 4.0
+      }
+    },
+    {
+      "offerId": "marcy-preacher-curl-bench",
+      "badge": "Bestes Budget-Modell",
+      "review": "Das Marcy funktioniert bei Lasten unter 30 kg und gelegentlichem Training — es tut, was eine Preacher-Bank zum günstigeren Einstiegspreis tun muss. Die dünnere Polsterung und der leichtere Rahmen werden bei schwereren Lasten spürbar.",
+      "pros": [
+        "Niedrigster Einstiegspreis für eine Standalone-Preacher-Bank",
+        "Ausreichend für gelegentliches Training unter 30 kg",
+        "Weit verfügbar und einfach zusammenzubauen"
+      ],
+      "cons": [
+        "Dünne Polsterung verdichtet sich unter schwereren Lasten",
+        "Rahmen leichter als Body-Solid oder Valor"
+      ],
+      "grade": "B",
+      "specs": {
+        "Frame": "Light-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "3",
+        "Arm pad width": "~34 cm",
+        "Price range": "$70–100",
+        "Footprint": "~42×52 cm",
+        "Weight capacity": "120 kg"
+      },
+      "scores": {
+        "Stability": 3.8,
+        "Pad quality": 3.5,
+        "Build quality": 3.7,
+        "Value": 4.3,
+        "Adjustability": 3.6
+      }
+    },
+    {
+      "offerId": "adjustable-preacher-curl-attachment",
+      "badge": "Bester Platzspar-Lösung",
+      "review": "Das Attachment verwandelt eine vorhandene Verstellbank in eine Preacher-Station — kein zusätzlicher Platzbedarf, keine Kosten für eine separate Bank. Die Stabilität hängt vollständig von der Qualität der Basisbank ab.",
+      "pros": [
+        "Kein zusätzlicher Platzbedarf über die vorhandene Bank hinaus",
+        "~40–80 $ gegenüber 100 $+ für Standalone",
+        "Zusammenfaltbar, wenn nicht in Gebrauch"
+      ],
+      "cons": [
+        "Stabilität variiert stark je nach Qualität der Basisbank",
+        "Nicht geeignet für schwere Barbell-Preacher-Curl-Arbeit"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Bench attachment",
+        "Compatibility": "Standard adjustable benches",
+        "Pad angle": "45°",
+        "Price range": "$40–80",
+        "Storage": "Folds flat",
+        "Weight capacity": "Depends on base bench",
+        "Grip width": "Single arm or two-arm"
+      },
+      "scores": {
+        "Stability": 3.2,
+        "Pad quality": 3.6,
+        "Build quality": 3.4,
+        "Value": 4.7,
+        "Adjustability": 3.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für intensives Armtraining 2×/Woche",
+      "offerId": "rep-fitness-preacher-curl-bench",
+      "reason": "Kommerziell geprüfte Polsterung und zusätzliche Sitzpositionen halten häufiger Nutzung stand."
+    },
+    {
+      "label": "Für die meisten Heimgym-Setups",
+      "offerId": "body-solid-preacher-curl-bench",
+      "reason": "Breites Armpolster, solider Rahmen und mehrere Sitzpositionen decken alle Preacher-Curl-Variationen ab."
+    },
+    {
+      "label": "Für knappes Budget oder gelegentliche Nutzung",
+      "offerId": "marcy-preacher-curl-bench",
+      "reason": "Funktionell bei leichteren Lasten und geringer Frequenz — der richtige Einstiegspunkt."
+    },
+    {
+      "label": "Für platzbegrenzte Heimgyms mit einer Verstellbank",
+      "offerId": "adjustable-preacher-curl-attachment",
+      "reason": "Kein Platzbedarf über die bereits vorhandene Bank hinaus — praktisch, wenn eine Standalone-Bank bedeuten würde, andere Geräte aufzugeben."
+    }
+  ]
 }

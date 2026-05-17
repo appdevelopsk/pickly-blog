@@ -66,5 +66,174 @@
     "ronco-pasta-maker": "Máquina automática de pasta económica — más sencilla que la Philips, menos opciones de molde, precio más bajo. Adecuada para usuarios que quieren probar la fabricación automática de pasta sin la inversión completa de la Philips. La calidad de la pasta y la durabilidad son inferiores a las opciones premium."
   },
   "pinDescription": "Comparativa de máquinas para pasta 2026: Marcato Atlas 150 vs Imperia vs accesorio KitchenAid vs Philips automática — ¿qué máquina hace la mejor pasta fresca en casa? Rodillo vs extrusora, manivela italiana vs automatización eléctrica explicados. #pasta #cocinacasera #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada máquina de pasta fue evaluada en cuanto a la consistencia de la hoja de masa, la precisión del mecanismo de rodillo, los accesorios incluidos, la carga de limpieza y el escenario real para el que está mejor adaptada — ya sea hojas laminadas a mano, consistencia motorizada o extrusión completamente automática.",
+  "products": [
+    {
+      "offerId": "marcato-atlas-150-pasta-maker",
+      "badge": "La Mejor en General",
+      "review": "La Marcato Atlas 150 ha sido el estándar de referencia para rodillos de pasta caseros desde la década de 1930 — rodillos de acero cromado, 150 mm de ancho, nueve ajustes de grosor desde 3 mm hasta 0,6 mm, y más soporte de accesorios de terceros que cualquier competidor. El mecanismo de manivela es suave y duradero; la abrazadera es estable en cualquier borde de encimera. La limpieza consiste en secar con un paño — sin jabón, sin agua, nunca. La mayor variedad de piezas de repuesto y cortadores de cualquier máquina de pasta doméstica.",
+      "pros": [
+        "Construcción en acero cromado con más de 90 años de durabilidad comprobada",
+        "Nueve ajustes de grosor hasta 0,6 mm — suficientemente delgado para ravioli",
+        "Más amplia disponibilidad de accesorios y repuestos de terceros"
+      ],
+      "cons": [
+        "Requiere abrazadera en el borde de la encimera — sin opción independiente; sin limpieza con jabón"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Tipo": "Rodillo manual",
+        "Ancho del rodillo": "150 mm",
+        "Ajustes de grosor": "0 (3 mm) a 9 (0,6 mm)",
+        "Material": "Acero cromado",
+        "Cortadores incluidos": "Fettuccine + tagliolini",
+        "Origen": "Italia"
+      },
+      "scores": {
+        "Consistencia de masa": 5.0,
+        "Calidad de construcción": 5.0,
+        "Facilidad de uso": 4.5,
+        "Valor": 4.8,
+        "Rango de grosor": 5.0
+      }
+    },
+    {
+      "offerId": "imperia-pasta-maker-machine",
+      "badge": "Mejor Valor con Dos Cortadores",
+      "review": "La Imperia incluye tanto un cortador de fettuccine (5 mm) como uno de spaghetti (2 mm) como estándar — la Atlas requiere una compra adicional para el segundo ancho. Fabricada en Italia, calidad de construcción equivalente a la Atlas, ligeramente más pesada. En los ajustes más delgados, la manivela requiere marginalmente más presión que la Atlas; no es un problema para la mayoría de los usuarios. La mejor oferta si quieres dos anchos de pasta desde el primer día.",
+      "pros": [
+        "Incluye cortadores de fettuccine (5 mm) y spaghetti (2 mm) como estándar",
+        "Acero cromado de fabricación italiana — durabilidad equivalente a la Atlas",
+        "No se necesita compra adicional para los dos anchos de pasta más comunes"
+      ],
+      "cons": [
+        "Ligeramente más pesada que la Atlas; resistencia marginal adicional en los ajustes más delgados"
+      ],
+      "grade": "A",
+      "specs": {
+        "Tipo": "Rodillo manual",
+        "Ancho del rodillo": "150 mm",
+        "Material": "Acero cromado",
+        "Cortadores incluidos": "Fettuccine (5 mm) + spaghetti (2 mm)",
+        "Peso": "Ligeramente más pesada que Atlas",
+        "Origen": "Italia"
+      },
+      "scores": {
+        "Consistencia de masa": 4.8,
+        "Calidad de construcción": 4.9,
+        "Facilidad de uso": 4.4,
+        "Valor": 5.0,
+        "Rango de grosor": 4.8
+      }
+    },
+    {
+      "offerId": "kitchenaid-pasta-roller-attachment",
+      "badge": "La Mejor para Propietarios de KitchenAid",
+      "review": "Si ya tienes una batidora de pie KitchenAid, este accesorio la convierte en una máquina de pasta con motor — la velocidad constante del motor elimina la variable del tempo manual, produciendo un grosor de hoja más uniforme. Ancho de rodillo de 152 mm, incluye rodillo, cortador de fettuccine y cortador de spaghetti. Solo merece la pena si ya tienes la batidora; comprar una KitchenAid solo para la pasta no es rentable a 350–500 $ por la batidora.",
+      "pros": [
+        "El rodillo motorizado produce un grosor de hoja más consistente que el manivela manual",
+        "Eficiente en espacio — usa tu inversión existente en KitchenAid",
+        "Calidad de rodillo de acero equivalente a Marcato/Imperia"
+      ],
+      "cons": [
+        "Solo vale la pena si ya tienes una KitchenAid — 350–500 $ de batidora + 150–200 $ de accesorio solo para pasta no es rentable"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Tipo": "Accesorio de batidora de pie (KitchenAid)",
+        "Ancho del rodillo": "152 mm",
+        "Accionamiento": "Motor a través de la batidora",
+        "Incluye": "Rodillo + fettuccine + cortador de spaghetti",
+        "Compatibilidad": "Todas las batidoras KitchenAid de cabeza inclinable y elevación de tazón",
+        "Precio": "~150–200 $ (solo accesorio)"
+      },
+      "scores": {
+        "Consistencia de masa": 5.0,
+        "Calidad de construcción": 4.8,
+        "Facilidad de uso": 4.8,
+        "Valor": 3.5,
+        "Rango de grosor": 4.6
+      }
+    },
+    {
+      "offerId": "philips-pasta-maker-7000",
+      "badge": "La Mejor Automática",
+      "review": "El Philips es la única máquina de pasta completamente automática aquí — añade harina y líquido, pulsa start, pasta fresca en 15 minutos, sin necesidad de hacer masa ni de técnica de laminado. Hace formas tubulares y moldeadas (penne, rigatoni, spaghetti por troquel) que los rodillos no pueden. La textura extruida es más rugosa que la pasta de rodillo, lo que en realidad retiene mejor la salsa. La limpieza requiere desmontaje en 30 minutos antes de que la masa se seque; más ruidoso que los rodillos manuales.",
+      "pros": [
+        "Completamente automático — pasta en 15 minutos sin técnica",
+        "Hace formas tubulares (penne, rigatoni) imposibles con un rodillo",
+        "La textura extruida más rugosa retiene mejor las salsas espesas"
+      ],
+      "cons": [
+        "La limpieza requiere desmontaje en 30 minutos; más ruidoso que los rodillos manuales"
+      ],
+      "grade": "B",
+      "specs": {
+        "Tipo": "Extrusora automática",
+        "Tiempo de producción": "~15 minutos",
+        "Troqueles incluidos": "Spaghetti, fettuccine, penne, lasaña",
+        "Troqueles adicionales": "Disponibles por separado",
+        "Limpieza": "Desmontar en 30 min.",
+        "Rango de precio": "200–300 $"
+      },
+      "scores": {
+        "Consistencia de masa": 4.0,
+        "Calidad de construcción": 4.3,
+        "Facilidad de uso": 5.0,
+        "Valor": 3.8,
+        "Rango de grosor": 3.5
+      }
+    },
+    {
+      "offerId": "ronco-pasta-maker",
+      "badge": "La Mejor Automática Económica",
+      "review": "El Ronco es una extrusora automática económica a 80–120 $ — menos opciones de troqueles y menor calidad de construcción que el Philips, pero el mecanismo de mezcla y extrusión automática es funcionalmente similar. Adecuado para uso ocasional y una manera razonable de probar la fabricación automática de pasta antes de comprometerse con el Philips. La calidad de la pasta y la longevidad de la máquina están por debajo de las opciones premium.",
+      "pros": [
+        "Entrada económica a la pasta automática — 80–120 $ vs. 200–300 $ del Philips",
+        "Mezcla y extrusión automáticas — no se requiere técnica manual",
+        "Resultados aceptables para uso ocasional"
+      ],
+      "cons": [
+        "Menos opciones de troqueles y menor durabilidad de construcción que el Philips; la calidad de la pasta es notablemente inferior"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Tipo": "Extrusora automática económica",
+        "Tiempo de producción": "~15–20 minutos",
+        "Rango de precio": "80–120 $",
+        "Construcción": "Predominantemente plástico, más simple que Philips",
+        "Disponibilidad de troqueles": "Limitada vs. Philips",
+        "Mejor uso": "Uso ocasional / de prueba"
+      },
+      "scores": {
+        "Consistencia de masa": 3.5,
+        "Calidad de construcción": 3.2,
+        "Facilidad de uso": 4.8,
+        "Valor": 4.5,
+        "Rango de grosor": 3.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para entusiastas de la pasta que hacen hojas y pasta rellena",
+      "offerId": "marcato-atlas-150-pasta-maker",
+      "reason": "La Atlas 150 es el referente por una razón — nueve ajustes de precisión, acero cromado duradero y el ecosistema de cortadores de terceros más amplio de cualquier rodillo de pasta doméstico."
+    },
+    {
+      "label": "Para compradores que quieren dos anchos desde el primer día",
+      "offerId": "imperia-pasta-maker-machine",
+      "reason": "Incluye cortadores de fettuccine y spaghetti como estándar — sin necesidad de compra adicional para los dos anchos de pasta más comunes."
+    },
+    {
+      "label": "Para propietarios de batidoras de pie KitchenAid",
+      "offerId": "kitchenaid-pasta-roller-attachment",
+      "reason": "Consistencia motorizada sin huella adicional de electrodoméstico — la mejor actualización para cualquiera que ya use una KitchenAid para otras tareas."
+    },
+    {
+      "label": "Para cocineros de entre semana que quieren pasta sin el proceso",
+      "offerId": "philips-pasta-maker-7000",
+      "reason": "Añade harina y líquido, pulsa start, obtén pasta en 15 minutos — y hace formas tubulares que los rodillos no pueden producir."
+    }
+  ]
 }

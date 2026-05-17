@@ -58,5 +58,177 @@
     "cerberus-strength-sandbag": "Costruzione a standard di competizione, capacita 150-450 lb, usato negli eventi della Strongman Corporation. $150-300. Ideale per il vero allenamento da competizione strongman — attrezzatura equivalente alla competizione. Le capacita di carico superano le necessita della maggior parte delle palestre domestiche."
   },
   "pinDescription": "Confronto sacchi da allenamento 2026: Rogue vs REP Fitness vs GORUCK vs Viking Strength vs Cerberus — carico variabile vs bilanciere, cosa sviluppa il sacco e quale vale l'investimento per i tuoi obiettivi. #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "rogue-sandbag",
+      "badge": "Migliore scelta complessiva",
+      "review": "L'involucro in Cordura 1000D di Rogue, le cuciture rinforzate e le multiple maniglie integrate (sopra, laterali, sotto) lo rendono il sandbag che puoi lanciare, trascinare e far cadere su superfici ruvide senza che l'involucro esterno ceda. Il sistema modulare di sacchi di riempimento permette di usare sabbia, riso o ghiaia. Il prezzo (175–250 $ per l'involucro più i sacchi) è il più alto del confronto ed è giustificato dalla qualità di costruzione.",
+      "pros": [
+        "Involucro in Cordura 1000D costruito per uso commerciale in palestra",
+        "Molteplici posizioni di presa coprono tutti gli esercizi con il sacco di sabbia",
+        "Sacchi di riempimento modulari per sabbia, riso o ghiaia"
+      ],
+      "cons": [
+        "Opzione più costosa — 175–250 $ per involucro + riempimenti"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Materiale involucro": "Cordura 1000D",
+        "Carico max.": "68–136 kg (per dimensione)",
+        "Maniglie": "Sopra, laterali, sotto integrate",
+        "Sistema di riempimento": "Sacchi modulari",
+        "Taglie": "S / L / XL",
+        "Prezzo": "~175–250 $"
+      },
+      "scores": {
+        "Durability": 5.0,
+        "Filler capacity": 5.0,
+        "Handle quality": 5.0,
+        "Value": 3.5,
+        "Versatility": 5.0
+      }
+    },
+    {
+      "offerId": "rep-fitness-sandbag",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "review": "L'involucro in Cordura 900D di REP e il sistema di maniglie rinforzate offrono durabilità adeguata per l'uso regolare in palestra domestica a significativamente meno di Rogue — 80–130 $ contro 175–250 $. Il posizionamento delle maniglie (sopra e laterali) copre la gamma completa di esercizi con sacco di sabbia. Per atleti di palestra domestica che si allenano duramente ma non lanciano sacchi sul cemento commerciale tutti i giorni.",
+      "pros": [
+        "Cordura 900D adeguata per uso regolare in palestra domestica",
+        "Taglie 22–68 kg coprono la maggior parte delle gamme di allenamento",
+        "Nettamente più economico di Rogue a capacità comparabili"
+      ],
+      "cons": [
+        "Cordura 900D meno robusta della 1000D di Rogue per uso intensivo quotidiano"
+      ],
+      "grade": "A",
+      "specs": {
+        "Materiale involucro": "Cordura 900D",
+        "Carico max.": "22–68 kg",
+        "Maniglie": "Sopra, maniglie laterali",
+        "Sistema di riempimento": "Modulare",
+        "Taglie": "22 / 45 / 68 kg",
+        "Prezzo": "~80–130 $"
+      },
+      "scores": {
+        "Durability": 4.2,
+        "Filler capacity": 4.0,
+        "Handle quality": 4.3,
+        "Value": 5.0,
+        "Versatility": 4.5
+      }
+    },
+    {
+      "offerId": "goruck-training-sandbag",
+      "badge": "Migliore per il rucking",
+      "review": "L'eredità di costruzione militare di GORUCK si manifesta nelle cinghie saldate e nelle cuciture sigillate — questo sacco è costruito per trasporti di carico prolungati in condizioni di campo, non per cadute ripetute in palestra. La maniglia superiore è il singolo punto di attacco più resistente del confronto. Ideale per atleti che si preparano per eventi GORUCK o test di fitness militare.",
+      "pros": [
+        "Cinghie saldate di standard militare",
+        "Cordura 1000D con cuciture sigillate per durabilità sul campo",
+        "Costruito specificamente per trasporti di carico prolungati"
+      ],
+      "cons": [
+        "Sistema di maniglie ottimizzato per il trasporto, non per il sollevamento stile bilanciere"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Materiale involucro": "Cordura 1000D",
+        "Carico max.": "varia per dimensione",
+        "Maniglie": "Cinghie saldate",
+        "Cuciture": "Sigillate",
+        "Origine": "Eredità zaino militare",
+        "Prezzo": "~100–175 $"
+      },
+      "scores": {
+        "Durability": 5.0,
+        "Filler capacity": 4.0,
+        "Handle quality": 4.5,
+        "Value": 4.0,
+        "Versatility": 3.5
+      }
+    },
+    {
+      "offerId": "vikingstrength-sandbag",
+      "badge": "Migliore per il strongman",
+      "review": "La geometria dell'involucro di Viking Strength è ottimizzata per il shouldering — il pannello di presa in cima crea una presa sicura a due mani durante la fase di pulizia, che i design generici a maniglia singola rendono significativamente più difficile. Il posizionamento delle maniglie corrisponde meglio al modello di movimento di shouldering che qualsiasi altro sacco del confronto. Per atleti che programmano specificamente il shouldering con sacco di sabbia.",
+      "pros": [
+        "Geometria dell'involucro ottimizzata per il movimento di shouldering",
+        "Pannello di presa per una presa sicura a due mani nella fase di pulizia",
+        "Posizionamento delle maniglie corrisponde ai movimenti di gara strongman"
+      ],
+      "cons": [
+        "Meno versatile per i circuiti di condizionamento vs. i design multi-maniglie"
+      ],
+      "grade": "B",
+      "specs": {
+        "Materiale involucro": "Tessuto resistente",
+        "Ottimizzato per": "Shouldering",
+        "Pannello di presa": "Sì — tiro pulizia due mani",
+        "Carico max.": "~45–90 kg",
+        "Prezzo": "~100–150 $"
+      },
+      "scores": {
+        "Durability": 4.5,
+        "Filler capacity": 4.0,
+        "Handle quality": 4.8,
+        "Value": 4.0,
+        "Versatility": 3.2
+      }
+    },
+    {
+      "offerId": "cerberus-strength-sandbag",
+      "badge": "Migliore per la competizione",
+      "review": "Cerberus fornisce eventi Strongman Corporation — se ti stai allenando per una vera competizione strongman sanzionata, questo è attrezzatura equivalente alla gara. Le capacità di carico (68–200 kg) superano ciò di cui la maggior parte degli utenti di palestra domestica ha bisogno, e a 150–300 $ è pensato per atleti competitivi che devono replicare esatte condizioni di evento in allenamento.",
+      "pros": [
+        "Standard di competizione — utilizzato negli eventi Strongman Corporation",
+        "Capacità 68–200 kg per atleti di forza avanzati",
+        "Molteplici punti di presa per posizioni di carico varie"
+      ],
+      "cons": [
+        "Capacità di carico e prezzo superano la maggior parte delle esigenze di palestra domestica"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Materiale involucro": "Qualità di competizione",
+        "Carico max.": "68–200 kg",
+        "Utilizzato in": "Eventi Strongman Corporation",
+        "Punti di presa": "Molteplici",
+        "Fascia di prezzo": "~150–300 $"
+      },
+      "scores": {
+        "Durability": 5.0,
+        "Filler capacity": 5.0,
+        "Handle quality": 4.5,
+        "Value": 3.0,
+        "Versatility": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per l'uso in palestra commerciale o CrossFit box",
+      "offerId": "rogue-sandbag",
+      "reason": "Cordura 1000D e maniglie saldate sopravvivono a cadute, trascinamenti e lanci ripetuti sul cemento — la qualità di costruzione che l'uso commerciale richiede."
+    },
+    {
+      "label": "Per gli atleti di palestra domestica con budget limitato",
+      "offerId": "rep-fitness-sandbag",
+      "reason": "Cordura 900D e un sistema di maniglie completo per circa la metà del prezzo di Rogue — il giusto equilibrio tra durabilità e costo per l'allenamento non commerciale."
+    },
+    {
+      "label": "Per la preparazione agli eventi GORUCK o al fitness militare",
+      "offerId": "goruck-training-sandbag",
+      "reason": "Gli standard di costruzione militare e la maniglia di trasporto superiore più robusta lo rendono lo strumento dedicato per gli eventi di rucking e il condizionamento con trasporto di carico."
+    },
+    {
+      "label": "Per gli atleti che programmano il shouldering con sacco di sabbia",
+      "offerId": "vikingstrength-sandbag",
+      "reason": "La geometria dell'involucro e il posizionamento del pannello di presa corrispondono al modello di movimento di shouldering meglio di qualsiasi design generico di sacco di sabbia in questo confronto."
+    },
+    {
+      "label": "Per la preparazione alla competizione strongman sanzionata",
+      "offerId": "cerberus-strength-sandbag",
+      "reason": "Attrezzatura equivalente alla gara con capacità di 68–200 kg — l'unico sacco qui che replica esattamente le condizioni degli eventi Strongman Corporation."
+    }
+  ]
 }

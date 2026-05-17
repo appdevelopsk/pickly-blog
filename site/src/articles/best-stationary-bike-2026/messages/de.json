@@ -64,5 +64,184 @@
     "bowflex-c6-bike": "Bestes Mittelklasse-Preis-Leistungs-Verhältnis mit maximaler App-Flexibilität — 100 mikro-einstellbare Widerstandsstufen bieten Intervallpräzision, die 25-Stufen-Systeme nicht erreichen, Bluetooth verbindet gleichzeitig mit Peloton-App, Zwift und JRNY, SPD-Cleat-Kompatibilität bedeutet, dass Straßenradfahrer sofort einclipsen. Die Peloton-App über Bluetooth auf der C6 zu nutzen kostet dieselbe 44-$/Monat-Mitgliedschaft wie ein Peloton-Bike zu besitzen, zu einem erheblich niedrigeren Hardware-Preis."
   },
   "pinDescription": "Beste Heimtrainer 2026: Peloton vs NordicTrack S22i vs Schwinn 170 vs Bowflex C6 vs Sunny Health Budget-Option — Schwungradgewicht, Widerstandstyp, Abokosten für Heim-Cardio verglichen.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jedes Fahrrad wurde anhand von Widerstandsgefühl unter Intervallbelastung, Sitz- und Lenkerkomfort über 45-Minuten-Einheiten, Verarbeitungsqualität und Rahmensteifigkeit, Konnektivität und App-Ökosystemwert sowie Gesamtkosten inklusive aller Pflichtabonnements bewertet.",
+  "products": [
+    {
+      "offerId": "schwinn-170-upright-bike",
+      "badge": "Gesamtbestes",
+      "review": "Der Schwinn 170 bietet 25 Widerstandsstufen und 29 integrierte Programme auf einem magnetischen System, das keine Wartung benötigt – strukturiertes Training ohne Abo. Das 13,3-kg-Schwungrad liefert ausreichend Schwung für Cardio, repliziert aber nicht das straßenähnliche Gefühl schwererer Spinning-Fahrräder.",
+      "pros": [
+        "29 integrierte Programme – kein externes Abo nötig",
+        "Leiser Magnetwiderstand – geeignet für Frühtraining in Gemeinschaftsunterkünften",
+        "Bluetooth zu Zwift und Peloton App für spätere Konnektivität"
+      ],
+      "cons": [
+        "Das 13,3-kg-Schwungrad fühlt sich bei gleichem Widerstand leichter an als fahrradspezifische Geräte"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Flywheel": "13.3 kg",
+        "Resistance": "25-level magnetic",
+        "Built-in programs": "29",
+        "Connectivity": "Bluetooth (Zwift, Peloton app)",
+        "Display": "Dual LCD",
+        "Max user weight": "113 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.2,
+        "Comfort": 4.5,
+        "Build quality": 4.3,
+        "Value": 4.8,
+        "Noise": 4.9
+      }
+    },
+    {
+      "offerId": "nordictrack-s22i-studio-bike",
+      "badge": "Bestes für Simulation im Freien",
+      "review": "Die physische Neigung von -10% bis +20% des S22i ist ein echter Unterschied — kein anderes Fahrrad hier neigt den Rahmen, um die Muskelrekrutierung zu verändern. Der 22-Zoll-Touchscreen und iFit-Automatikwiderstand rechtfertigen den Preis, aber das iFit-Abo kostet 39$/Monat zusätzlich.",
+      "pros": [
+        "Physische Rahmenneigung simuliert Auf- und Abstiege — Muskelmuster, die flaches Radfahren nicht reproduzieren kann",
+        "24,9-kg-Schwungrad — das schwerste im Vergleich",
+        "22-Zoll-Drehbildschirm für Krafttraining und Yoga abseits des Fahrrads"
+      ],
+      "cons": [
+        "iFit-Abo erforderlich für automatische Anpassung und vollständige Kursbibliothek — laufende Kosten von 39$/Monat"
+      ],
+      "grade": "A",
+      "specs": {
+        "Flywheel": "24.9 kg",
+        "Resistance": "Magnetic (auto-adjust via iFit)",
+        "Incline range": "-10% to +20%",
+        "Screen": "22-inch rotating touchscreen",
+        "Connectivity": "iFit (subscription required)",
+        "Max user weight": "136 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.9,
+        "Comfort": 4.3,
+        "Build quality": 4.6,
+        "Value": 3.5,
+        "Noise": 4.4
+      }
+    },
+    {
+      "offerId": "peloton-original-bike",
+      "badge": "Bestes Live-Kurs-Ökosystem",
+      "review": "Das Echtzeit-Leaderboard und die automatische Widerstandsanpassung nach Instruktor von Peloton schaffen eine Motivationsumgebung, die kein anderes Fahrrad bietet. Das proprietäre Look-Delta-Klickpedalsystem und die Mitgliedschaft von 44$/Monat sind echte Kosten.",
+      "pros": [
+        "Über 10.000 Live- und On-Demand-Kurse mit Community-Leaderboard",
+        "Automatische Widerstandsanpassung nach Instruktor — wie gecoachtes Training",
+        "21,5-Zoll-HD-Touchscreen für Kraft, Yoga und Outdoor-Läufe"
+      ],
+      "cons": [
+        "Proprietäre Look-Delta-Cleats erfordern neue Schuhe für die meisten Radfahrer; 44$/Monat Mitgliedschaft ist für den vollen Funktionsumfang nicht optional"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Flywheel": "Undisclosed (estimated 18 kg)",
+        "Resistance": "100-level magnetic",
+        "Screen": "21.5-inch HD touchscreen",
+        "Connectivity": "Peloton Membership ($44/month)",
+        "Cleat system": "Look Delta (proprietary)",
+        "Max user weight": "136 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.5,
+        "Comfort": 4.4,
+        "Build quality": 4.5,
+        "Value": 3.2,
+        "Noise": 4.7
+      }
+    },
+    {
+      "offerId": "sunny-health-sf-b1002-bike",
+      "badge": "Bestes Budget-Modell",
+      "review": "Das 22-kg-Schwungrad des SF-B1002 erzeugt ein impulsgetriebenes Fahrgefühl, das Magnetfahrräder in diesem Preissegment nicht bieten können. Reibungswiderstand bedeutet keine nummerierten Stufen und irgendwann Filzpolsterverschleiß, aber für reines Fahrgefühl ohne Elektronik ist es der ehrlichste Wert hier.",
+      "pros": [
+        "22-kg-Schwungrad — schwerer als der Schwinn 170, erzeugt mehr authentischen Fahrimpuls",
+        "4-fach einstellbarer Lenker und Sattel für Fahrer von ca. 155–185 cm",
+        "Niedrigster Preis im Vergleich, nie ein Abo erforderlich"
+      ],
+      "cons": [
+        "Kein Display, kein Bluetooth, keine nummerierten Widerstandsstufen — Filzpad erfordert alle 12–18 Monate bei täglichem Gebrauch Austausch"
+      ],
+      "grade": "B",
+      "specs": {
+        "Flywheel": "22 kg",
+        "Resistance": "Friction (felt pad)",
+        "Display": "None",
+        "Connectivity": "None",
+        "Saddle adjustment": "4-way",
+        "Max user weight": "120 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.6,
+        "Comfort": 3.8,
+        "Build quality": 3.9,
+        "Value": 4.9,
+        "Noise": 3.5
+      }
+    },
+    {
+      "offerId": "bowflex-c6-bike",
+      "badge": "Bestes Mittelklasse-Preis-Leistungs-Verhältnis",
+      "review": "Der Bowflex C6 bietet 100 mikro-einstellbare Magnetwiderstandsstufen und gleichzeitiges Bluetooth zu Peloton, Zwift und JRNY — SPD-Klickpedal-Kompatibilität bedeutet, dass Radsportler sofort mit ihren vorhandenen Schuhen fahren können. Für ca. 100$ mehr als der Schwinn 170 ist es die richtige Wahl für Radfahrer mit SPD-Schuhen.",
+      "pros": [
+        "100 mikro-einstellbare Stufen für präzises Intervall-Watt-Matching",
+        "SPD-Klickpedal-kompatibel — Radsportler nutzen vorhandene Schuhe ohne Adapter",
+        "Verbindet gleichzeitig mit Peloton, Zwift und JRNY"
+      ],
+      "cons": [
+        "Kein eingebauter Bildschirm — ist vollständig auf Ihr eigenes Smartphone oder Tablet für App-Inhalte angewiesen"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Flywheel": "Undisclosed (estimated 16 kg)",
+        "Resistance": "100-level magnetic",
+        "Display": "Backlit LCD (metrics only)",
+        "Connectivity": "Bluetooth (Peloton, Zwift, JRNY)",
+        "Cleat system": "SPD + toe cage",
+        "Max user weight": "136 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.4,
+        "Comfort": 4.2,
+        "Build quality": 4.1,
+        "Value": 4.5,
+        "Noise": 4.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Fahrer, die strukturiertes Training ohne Abos wollen",
+      "offerId": "schwinn-170-upright-bike",
+      "reason": "29 integrierte Programme und 25 Widerstandsstufen bieten sechs Monate progressives Training ohne jede Verbindung — nie eine monatliche Gebühr."
+    },
+    {
+      "label": "Für Outdoor-Radfahrer, die die nächste Simulation drinnen wollen",
+      "offerId": "nordictrack-s22i-studio-bike",
+      "reason": "Die physische Rahmenneigung und das 24,9-kg-Schwungrad sind die genaueste Indoor-Annäherung an Straßenstiegen und Abfahrten von allen Rädern hier."
+    },
+    {
+      "label": "Für motivationsgetriebene Fahrer, die von Live-Kursen profitieren",
+      "offerId": "peloton-original-bike",
+      "reason": "Das Echtzeit-Leaderboard und die automatische Widerstandsanpassung durch den Instruktor schaffen ein gecoachtes Erlebnis, das härtere Leistungen als beim Solo-Training antreibt."
+    },
+    {
+      "label": "Für budgetbewusste Fahrer, die ein reines Fahrgefühl wollen",
+      "offerId": "sunny-health-sf-b1002-bike",
+      "reason": "Das 22-kg-Schwungrad liefert im Vergleich den schwersten Schwung zum niedrigsten Preis — ideal zum Aufbau einer Fahrgewohnheit vor der Investition in ein vernetztes Ökosystem."
+    },
+    {
+      "label": "Für SPD-Schuh-Radfahrer, die App-Flexibilität wollen",
+      "offerId": "bowflex-c6-bike",
+      "reason": "Klipt sofort mit vorhandenen Rennschuhen ein und streamt gleichzeitig zu Peloton, Zwift oder JRNY — maximale App-Flexibilität zu Mittelklasse-Hardware-Kosten."
+    }
+  ]
 }

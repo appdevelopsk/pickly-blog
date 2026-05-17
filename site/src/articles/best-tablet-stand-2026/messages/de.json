@@ -102,5 +102,64 @@
     "twelve-south-hoverbar-duo": "Premium-Klemm/Schreibtisch-Arm-Wahl -- 11.800-13.800 Yen federge spannter gelenkiger Arm mit Magnetscheibe, Schraubklemme montiert auf Schreibtischkanten von 0-50 mm Dicke, 35 cm Schwenkreichweite. Die Klemm-Stellflaeche begrenzt, wo Sie montieren koennen -- viele japanische Schreibtische haben eine Schuerze, die den Klammerhals blockiert oder eine Tischplatte dicker als 50 mm."
   },
   "pinDescription": "Fuenf Tablet-Staender 2026 verglichen von einem Lamicall-Scharnierstaender fuer 1.680 Yen bis zu einem Twelve South HoverBar Duo fuer 13.800 Yen. Magnetbefestigung fuer iPad vs MOFT-Stil-Portabilitaet vs Schwanenhals-Bodenreichweite vs Schreibtisch-Klemm-Arm -- mit dem iPad Pro 12.9 plus Magic Keyboard Stresstest und der expliziten Schwaeche bei jeder Wahl. #TabletStaender #iPadPro #Schreibtisch2026 #Organisation #deutsch",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Jeder Staender wurde bewertet anhand der Scharnier-Steifigkeit unter einer 1,4-kg-Last (iPad Pro 12.9 + Magic Keyboard), Winkel-Drift-Mustern aus Langzeit-Nutzerbewertungen, dem Portabilitaets-Stabilitaets-Kompromiss, der Schreibtisch-Moebelkompatibilitaet in japanischen Wohnungen und der realistischen Lebensdauer basierend auf dominanten Fehlerbildern nach 12–18 Monaten taeglicher Nutzung.",
+  "products": [
+    {
+      "offerId": "lululook-ipad-stand",
+      "badge": "Bestes Gesamtprodukt",
+      "review": "Der Magnetpuck des Lululook dockt ein iPad Pro oder Air in unter einer Sekunde an und ermoeogelicht muehelos Hoch-Querformat-Rotation — kein Klemme loesen, keine Abdrucke am Rahmen. Der Kompromiss ist Oekosystem-Bindung: Die Magnetplatte ist nur fuer iPad Pro und iPad Air ausgelegt, und das 12,9-Zoll iPad Pro plus Magic Keyboard kann sich loesen, wenn der Schreibtisch angestossen wird.",
+      "pros": ["Magnetdock in unter einer Sekunde", "360° Hoch-Querformat-Rotation", "Gewichtete Aluminium-Buerstenbasis haelt 1,4 kg Last ohne Drift"],
+      "cons": ["Nur iPad Pro und iPad Air — Android-Tablets und aeltere iPad Mini benoetigen einen separat erhaeltlichen Adapter"],
+      "grade": "A+",
+      "specs": {"Kompatibilitaet": "iPad Pro 11/12.9, iPad Air", "Befestigungsart": "Magnetpuck", "Basismaterial": "Gebuerstetes Aluminium", "Rotation": "360°", "Preisbereich": "9.800–12.800 Yen", "Portabilitaet": "Schreibtischstaender"},
+      "scores": {"Stabilitaet": 4.8, "Winkelbereich": 4.7, "Verarbeitungsqualitaet": 4.8, "Preis-Leistung": 3.9, "Portabilitaet": 2.5}
+    },
+    {
+      "offerId": "moft-float-stand",
+      "badge": "Bester fuer Reisen",
+      "review": "Mit 280 g und 8 mm gefaltet passt der MOFT Float in jede Laptoptasche und ist in Sekunden einsatzbereit — unuebertroffen fuer Pendler, die taeglich einen Staender tragen. Das Gewebe-Scharnier biegt sich sichtbar unter Apple-Pencil-Zeichendruck, daher sollten Procreate-Nutzer anderes waehlen.",
+      "pros": ["280 g und 8 mm duenn gefaltet", "7 Winkelrasten von 25° bis 60°", "Verdoppelt als Laptop-Staender fuer Zwei-Geraete-Nutzer"],
+      "cons": ["Gewebe-Scharnier biegt sich sichtbar unter starkem Apple-Pencil-Zeichendruck", "Gewebe pillert nach 12–18 Monaten taeglichem Transport an der Scharnier-Falte"],
+      "grade": "A",
+      "specs": {"Gewicht": "280 g", "Gefaltete Dicke": "8 mm", "Winkelrasten": "7 (25°–60°)", "Material": "Origami-Gewebe + Scharnier", "Preis": "8.980 Yen", "Zielnutzung": "Portabel, Laptop + Tablet"},
+      "scores": {"Stabilitaet": 3.2, "Winkelbereich": 4.0, "Verarbeitungsqualitaet": 3.8, "Preis-Leistung": 4.0, "Portabilitaet": 5.0}
+    },
+    {
+      "offerId": "lamicall-tablet-stand",
+      "badge": "Bestes Preis-Leistungs-Verhaeltnis",
+      "review": "Der Lamicall ist die unkomplizierte Budgetwahl: solides Aluminium, passt zu jedem Tablet von 4 bis 13 Zoll und haelt das iPad Pro 12.9 in einem festen Winkel. Hoch-Querformat erfordert Anheben und Neuausrichten statt Rotation, und das Reibungsscharnier kann nach 12–18 Monaten Verschleiss bei langen Videoanrufen driften.",
+      "pros": ["Passt zu Tablets und Telefonen von 4 bis 13 Zoll", "Silikon-Wippenpolster verhindern Kratzer", "270° Neigungsbereich deckt jeden praktischen Schreibtischwinkel ab"],
+      "cons": ["Nur einachsige Neigung — kein Schwenken oder Hoehenverstellung", "Reibungsscharnier driftet nach 12–18 Monaten Nutzung allmaehlich"],
+      "grade": "B+",
+      "specs": {"Kompatibilitaet": "4–13-Zoll-Tablets und Telefone", "Scharnier": "Einachsige Reibung", "Neigungsbereich": "270°", "Material": "Aluminium + Silikonpolster", "Preisbereich": "1.680–2.480 Yen", "Portabilitaet": "Schreibtischstaender"},
+      "scores": {"Stabilitaet": 4.2, "Winkelbereich": 3.8, "Verarbeitungsqualitaet": 4.0, "Preis-Leistung": 4.9, "Portabilitaet": 2.8}
+    },
+    {
+      "offerId": "uperfect-tablet-floor-stand",
+      "badge": "Bester fuer Bett-Betrachtung",
+      "review": "Der UPERFECT ist die einzige Wahl in dieser Gruppe, die ein Tablet ueber ein Bett oder Sofa stellt — seine 90–150 cm Saeule mit Schwanenhals-Arm loest das Freihaendig-Betrachtungsproblem, das Schreibtischstaender nicht koennen. Bei voller 150-cm-Erweiterung mit iPad Pro 12.9 loest jede Bettbewegung eine 5–10-Sekunden-Schwingung aus; halten Sie die Saeule unter 120 cm und verwenden Sie ein leichteres Tablet.",
+      "pros": ["90–150 cm Saeule erreicht Bett- und Sofahoehe", "Schwanenhals-Arm positioniert Tablet ueber Gesicht oder Rezeptflaeche", "Gewichtete Basis haelt bis zu 12,9-Zoll-Tablets via Federklemme"],
+      "cons": ["Schwanenhals wackelt 5–10 Sekunden nach jedem Stoss bei voller 150 cm Erweiterung", "35–40 cm Bodenflaeche stoert in kleinen japanischen Schlafzimmern"],
+      "grade": "B",
+      "specs": {"Saeule": "90–150 cm", "Arm": "Schwanenhals", "Tabletpassung": "4,7–12,9 Zoll via Federklemme", "Basisflaeche": "~35–40 cm", "Preisbereich": "5.980–8.980 Yen", "Zielnutzung": "Bett/Sofa freihaendig"},
+      "scores": {"Stabilitaet": 3.0, "Winkelbereich": 4.5, "Verarbeitungsqualitaet": 3.5, "Preis-Leistung": 4.1, "Portabilitaet": 1.5}
+    },
+    {
+      "offerId": "twelve-south-hoverbar-duo",
+      "badge": "Bester Schreibtisch-Arm",
+      "review": "Der federge spannte Gelenkarm des HoverBar Duo schwingt das iPad ueberall innerhalb einer 35-cm-Sphaere der Schreibtischkante und haelt die Position ohne Reibungsscharnier-Drift — ideal fuer Nutzer, die staendig zwischen Tippen und Lesen wechseln. Viele japanische Schreibtische haben eine Schuerze, die den Klemmehal sblockiert; messen Sie Ihren Schreibtisch vor der Bestellung.",
+      "pros": ["Federge spannte Gelenkartikulierung haelt den Winkel ohne Drift", "35 cm Schwenkreichweite deckt Tipp- und Lesepositionen ab", "Gewichtete Schreibtischbasis fuer nicht klemmbare Flaechen enthalten"],
+      "cons": ["Klemme benoetigt 0–50 mm Schreibtischkante — japanische Schreibtische mit Schuerze scheitern oft daran", "iPad-fokussierte Magnetplatte erfordert Drittanbieter-Adapter fuer Android und aeltere iPad Mini"],
+      "grade": "B-",
+      "specs": {"Montage": "Schraubklemme (0–50 mm) oder Gewichtsschreibtischbasis", "Armreichweite": "35 cm", "Spannung": "Feder", "Kompatibilitaet": "iPad Pro/Air (Magnet); andere brauchen Adapter", "Preisbereich": "11.800–13.800 Yen", "Zielnutzung": "Schreibtisch-Gelenkarm"},
+      "scores": {"Stabilitaet": 4.6, "Winkelbereich": 4.9, "Verarbeitungsqualitaet": 4.7, "Preis-Leistung": 3.5, "Portabilitaet": 1.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Fuer iPad-Pro-Power-User", "offerId": "lululook-ipad-stand", "reason": "Magnetdock, sofortige Rotation und gewichtete Aluminiumbasis verwalten die volle 1,4-kg-Last des iPad Pro 12.9 + Magic Keyboard den ganzen Tag am Schreibtisch."},
+    {"label": "Fuer taeglich Pendler", "offerId": "moft-float-stand", "reason": "8 mm Faltdicke passt in jede Laptoptasche und das 280-g-Gewicht verschwindet in einer Tasche."},
+    {"label": "Fuer Budget-Schreibtisch-Setups", "offerId": "lamicall-tablet-stand", "reason": "Passt zu jedem Tablet von 4 bis 13 Zoll fuer unter 2.500 Yen — der praktische Ausgangspunkt fuer einen Schreibtisch-Tabletstaender."},
+    {"label": "Fuer Bett- und Sofa-Betrachtung", "offerId": "uperfect-tablet-floor-stand", "reason": "Die einzige Option in dieser Gruppe, die Betthoehe erreicht und das Tablet freihaendig ueber Ihrem Gesicht haelt."},
+    {"label": "Fuer Mehrpositions-Schreibtischarbeit", "offerId": "twelve-south-hoverbar-duo", "reason": "Federgespannter Arm schwenkt sofort von der Tipp- in die Leseposition ohne Scharnier-Drift im Laufe der Zeit."}
+  ]
 }

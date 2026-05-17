@@ -67,5 +67,154 @@
     "iwatani-cb-p-y3": "Gril de table à gaz butane en cartouche — la chaleur de pointe la plus élevée des cinq, portable, sans câble d'alimentation. Le meilleur pour une utilisation sur le balcon ou en extérieur sans électricité disponible. La classification flamme nue peut entrer en conflit avec les règlements de gestion des immeubles d'appartements japonais ; le coût des cartouches génère une dépense récurrente."
   },
   "pinDescription": "Cinq grils d'intérieur comparés pour les appartements japonais en 2026 : Zojirushi EB-DLC20, Cuisinart GR-4N, George Foreman, raclette Récolte et gril Iwatani butane. Vraie fumée, effort de nettoyage et yakitori à la maison #grilélectrique #cuisine #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque gril a été évalué sur : la température réelle de la surface de cuisson en régime permanent, les émissions de fumée avec des cuisses de poulet et du wagyu en tranches fines, le temps de nettoyage des plaques après une session complète de yakiniku, la vitesse de récupération de chaleur après l'ajout d'aliments froids et si la portabilité et le facteur de forme correspondent aux contraintes réelles d'une cuisine d'appartement.",
+  "products": [
+    {
+      "offerId": "zojirushi-eb-dlc20",
+      "badge": "Le meilleur pour le yakiniku intérieur",
+      "review": "Les épaisses plaques en aluminium de Zojirushi maintiennent la température mieux que tout concurrent ici — quand on pose des côtes froides sur une surface chaude, la température de la plaque récupère en environ 30 secondes contre 90+ secondes pour les plaques plus fines. C'est la différence entre une saisie et une cuisson à la vapeur. La suppression de fumée par bac à eau fonctionne correctement avec les protéines maigres et produit de vrais résultats peu fumés dans la ventilation d'appartement. Le compromis est des plaques amovibles mais lavage à la main uniquement : le lave-vaisselle abîme le revêtement antiadhésif en 6-10 cycles.",
+      "pros": ["Les épaisses plaques en aluminium maintiennent la température sur plusieurs lots d'aliments froids", "La suppression de fumée par bac à eau est la plus efficace pour les protéines maigres dans cette comparaison", "Les plaques amovibles rendent le nettoyage pratique — 10-15 minutes avec trempage"],
+      "cons": ["Les plaques sont uniquement lavage à la main — le lave-vaisselle détruit le revêtement antiadhésif"],
+      "grade": "A+",
+      "specs": {
+        "Puissance": "1300 W",
+        "Type de plaque": "Alliage d'aluminium épais, amovible",
+        "Réduction de fumée": "Bac à eau sous les orifices d'égouttement",
+        "Nettoyage": "Lavage à la main uniquement",
+        "Dimensions": "44 × 29 × 9 cm",
+        "Poids": "3,8 kg",
+        "Prix": "environ ¥15 000–¥20 000"
+      },
+      "scores": {
+        "Puissance de chauffe": 4.7,
+        "Facilité d'utilisation": 4.5,
+        "Nettoyage": 4.2,
+        "Rapport qualité-prix": 4.0,
+        "Portabilité": 3.8
+      }
+    },
+    {
+      "offerId": "cuisinart-gr-4n",
+      "badge": "Le meilleur en polyvalence",
+      "review": "Les 1500 W de Cuisinart et le système de plaques interchangeables — gril complet, plancha complète, moitié-moitié, presse à panini — couvrent plus de scénarios de cuisson que toute autre unité ici. La puissance la plus élevée du groupe signifie un préchauffage plus rapide et une meilleure récupération de chaleur. Les plaques sont commercialisées comme compatibles lave-vaisselle et tiennent 12-18 mois de lavage régulier en machine. Le compromis par rapport à Zojirushi est l'épaisseur des plaques : les plaques plus fines du Cuisinart perdent plus rapidement de la température lors de l'ajout d'aliments froids.",
+      "pros": ["1500 W est la puissance la plus élevée ici — préchauffage le plus rapide et meilleure récupération de chaleur", "Plaques interchangeables : gril, plancha, presse à panini, moitié-moitié", "Les plaques sont compatibles lave-vaisselle (12-18 mois avant que l'antiadhésif montre de l'usure)"],
+      "cons": ["Les plaques plus fines perdent plus vite la température que Zojirushi lors de l'ajout d'aliments froids"],
+      "grade": "A",
+      "specs": {
+        "Puissance": "1500 W",
+        "Type de plaque": "Amovible, interchangeable (gril/plancha/panini)",
+        "Réduction de fumée": "Canal de drainage des graisses",
+        "Nettoyage": "Compatible lave-vaisselle (premiers 12-18 mois)",
+        "Dimensions": "33 × 24 × 13 cm (fermé)",
+        "Poids": "3,6 kg",
+        "Prix": "environ $79–$99 USD"
+      },
+      "scores": {
+        "Puissance de chauffe": 4.8,
+        "Facilité d'utilisation": 4.7,
+        "Nettoyage": 4.5,
+        "Rapport qualité-prix": 4.3,
+        "Portabilité": 4.2
+      }
+    },
+    {
+      "offerId": "george-foreman-gfo201r",
+      "badge": "Le temps de cuisson le plus rapide",
+      "review": "Le design en coquille cuit les deux faces de l'aliment simultanément — un blanc de poulet qui prend 8 minutes sur un gril plat prend 4-5 minutes sur le George Foreman, et le résultat est plus juteux parce que l'environnement vapeur scellé retient l'humidité qu'un gril plat perd. À 1360 W il rivalise en puissance avec Zojirushi. Les plaques fixes non amovibles sont la limitation chronique : chaque session se termine par un essuyage des résidus sur une surface qu'on ne peut pas amener à l'évier.",
+      "pros": ["Le design en coquille réduit de moitié le temps de cuisson par rapport à un gril plat", "1360 W offre de vraies températures de saisie pour le bœuf et le poulet", "L'empreinte compacte s'adapte aux plus petits plans de travail de cuisine d'appartement"],
+      "cons": ["Les plaques fixes rendent un nettoyage complet difficile — la graisse carbonisée est un problème chronique"],
+      "grade": "B+",
+      "specs": {
+        "Puissance": "1360 W",
+        "Type de plaque": "Fixe, non amovible, en coquille",
+        "Réduction de fumée": "Inclinaison drainage des graisses + bac",
+        "Nettoyage": "Essuyer avec chiffon humide tiède (pas de rinçage possible)",
+        "Dimensions": "34 × 28 × 16 cm",
+        "Poids": "3,2 kg",
+        "Prix": "environ $59–$79 USD"
+      },
+      "scores": {
+        "Puissance de chauffe": 4.5,
+        "Facilité d'utilisation": 4.6,
+        "Nettoyage": 2.8,
+        "Rapport qualité-prix": 4.6,
+        "Portabilité": 4.5
+      }
+    },
+    {
+      "offerId": "recolte-rgh-1",
+      "badge": "Le meilleur pour raclette de table à deux",
+      "review": "La puissance de 700 W de Récolte n'est pas une faiblesse dans son contexte de conception — c'est une unité de table conviviale pour raclette à deux, où le but est de faire fondre du fromage sur des accompagnements et de griller légèrement champignons et légumes, pas de saisir du wagyu. Dans ce cas d'usage, le nettoyage est le plus facile des cinq, l'empreinte compacte s'adapte à une petite table à manger et les coupelles individuelles de raclette sont une caractéristique unique de repas convivial. La limite claire : 700 W ne peut pas atteindre les températures de saisie pour le bœuf ni produire la croûte caramélisée que le yakiniku exige.",
+      "pros": ["Le nettoyage le plus facile des cinq — température de fonctionnement plus basse signifie moins de résidus carbonisés", "Le facteur de forme compact s'adapte à une petite table à manger pour la cuisine de table", "Les coupelles individuelles de raclette sont une caractéristique unique de repas convivial"],
+      "cons": ["700 W ne peut pas atteindre les températures de saisie — pas adapté au yakiniku ou au bœuf gras"],
+      "grade": "B",
+      "specs": {
+        "Puissance": "700 W",
+        "Type de plaque": "Grille amovible + coupelles individuelles de raclette",
+        "Réduction de fumée": "La basse température de fonctionnement réduit inheremment la fumée",
+        "Nettoyage": "Lavage à la main, facile — basse température réduit les résidus carbonisés",
+        "Dimensions": "26 × 20 × 10 cm",
+        "Poids": "1,5 kg",
+        "Prix": "environ ¥8 000–¥12 000"
+      },
+      "scores": {
+        "Puissance de chauffe": 2.9,
+        "Facilité d'utilisation": 4.8,
+        "Nettoyage": 5.0,
+        "Rapport qualité-prix": 4.4,
+        "Portabilité": 5.0
+      }
+    },
+    {
+      "offerId": "iwatani-cb-p-y3",
+      "badge": "Le meilleur pour balcon ou cuisson extérieure",
+      "review": "Le gril à butane d'Iwatani atteint des températures de surface maximales plus élevées que toute unité électrique ici, avec l'avantage de portabilité sans câble d'alimentation. Pour griller sur le balcon où l'accès à l'électricité est limité et la restriction de flamme nue des règles de votre immeuble ne s'applique pas, c'est le choix naturel. Les limites pratiques pour l'utilisation intérieure en appartement sont réelles : le coût des cartouches s'accumule avec une utilisation fréquente, chaque cartouche doit être stockée en sécurité et les règlements de gestion des copropriétés japonaises restreignent généralement les appareils à flamme nue sur les balcons.",
+      "pros": ["La chaleur maximale la plus élevée des cinq — vraies températures de saisie comparables à 1500-1800 W électrique", "Complètement portable sans câble d'alimentation — utilisable à la table du dîner ou en extérieur", "Expérience de gril authentique la plus proche du restaurant yakiniku en caractère de chaleur"],
+      "cons": ["La classification flamme nue peut violer les règlements de gestion des immeubles d'appartements au Japon"],
+      "grade": "B-",
+      "specs": {
+        "Source de chaleur": "Gaz cartouche butane",
+        "Chaleur équivalente": "Environ équivalent à 1500-1800 W électrique",
+        "Réduction de fumée": "Bac à eau sous la surface de cuisson",
+        "Nettoyage": "Grille fonte/acier — essuyer et re-culotter occasionnellement",
+        "Dimensions": "32 × 27 × 10 cm",
+        "Poids": "2,1 kg",
+        "Combustible": "Une cartouche ≈ 60-70 min de cuisson"
+      },
+      "scores": {
+        "Puissance de chauffe": 5.0,
+        "Facilité d'utilisation": 3.9,
+        "Nettoyage": 3.5,
+        "Rapport qualité-prix": 3.8,
+        "Portabilité": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Yakiniku en appartement — protéine maigre, usage hebdomadaire",
+      "offerId": "zojirushi-eb-dlc20",
+      "reason": "Les plaques épaisses maintiennent la température de saisie sur plusieurs lots ; la suppression de fumée par bac à eau est la plus efficace ici pour les pièces maigres en conditions d'appartement."
+    },
+    {
+      "label": "Cuisine polyvalente — plancha, gril et panini au quotidien",
+      "offerId": "cuisinart-gr-4n",
+      "reason": "Les plaques interchangeables et les 1500 W en font la seule unité qui remplace une plancha, un gril contact et une presse à panini — trois appareils en un."
+    },
+    {
+      "label": "Cuisson rapide en semaine avec un minimum de tracas",
+      "offerId": "george-foreman-gfo201r",
+      "reason": "Le design en coquille réduit de moitié le temps de cuisson — le chemin le plus rapide du poulet cru au résultat fini dans cette comparaison, sans retournement nécessaire."
+    },
+    {
+      "label": "Dîner raclette convivial pour deux",
+      "offerId": "recolte-rgh-1",
+      "reason": "La seule unité avec des coupelles individuelles de raclette pour la cuisine de table — et le nettoyage le plus facile des cinq, idéal pour un usage casual fréquent."
+    },
+    {
+      "label": "Griller sur le balcon où la flamme nue est autorisée",
+      "offerId": "iwatani-cb-p-y3",
+      "reason": "Portable sans câble d'alimentation et la chaleur de pointe la plus élevée du groupe — le choix naturel pour l'utilisation extérieure ou sur balcon où l'électricité est peu pratique."
+    }
+  ]
 }

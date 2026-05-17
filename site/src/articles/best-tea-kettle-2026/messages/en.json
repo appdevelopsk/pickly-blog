@@ -112,5 +112,64 @@
     "fellow-stagg-ekg": "Precision pour-over electric gooseneck benchmark — Fellow Stagg EKG 0.9 L electric kettle with counterbalanced handle, continuous temperature dial (approximately 60–100°C), 60-minute keep-warm, matte black finish, the reference premium pour-over kettle in the specialty coffee community globally. US$165+ import price — Japan retail pricing for the Stagg EKG at authorized importers runs ¥20,000–28,000 and parallel-import pricing varies; availability at Japanese retailers is inconsistent with occasional multi-week stockouts; 0.9 L is tight for households doing back-to-back pour-over brews or multiple cups in sequence, requiring a refill mid-session more often than the Hario V60 Buono's 1.2 L."
   },
   "pinDescription": "Five kettles compared in 2026 — from the ¥15,000 Balmuda The Pot design icon (600 ml, no temperature control, but stunning on a kitchen shelf) to the Fellow Stagg EKG precision pour-over benchmark. Gooseneck vs wide spout honestly explained, temperature math for green tea and coffee, capacity math for 1–4 people, and the Balmuda design dilemma Kitchen aesthetics meet honest brewing science.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Each kettle was evaluated on spout type and pour-arc control for pour-over and tea-ceremony use, temperature control accuracy for green tea versus coffee extraction, capacity math against 1–4 person household needs, and realistic lifespan based on dominant failure modes from long-term owner reviews.",
+  "products": [
+    {
+      "offerId": "fellow-stagg-ekg",
+      "badge": "Best Overall",
+      "review": "The Fellow Stagg EKG's counterbalanced handle and continuous temperature dial make it the most precise pour-over kettle in this group — set 93 °C and hold it for 60 minutes without managing a stove burner. The 0.9 L capacity is tight for back-to-back brews, and Japan availability fluctuates with multi-week stockouts from authorized importers.",
+      "pros": ["Continuous temperature dial from ~60 to 100 °C", "60-minute keep-warm holds pour temperature hands-free", "Counterbalanced handle enables slow, controlled gooseneck pour"],
+      "cons": ["0.9 L requires a refill mid-session for households brewing multiple cups", "Japan import price adds 20–40% over US MSRP with occasional stockouts"],
+      "grade": "A+",
+      "specs": {"Capacity": "0.9 L", "Spout": "Gooseneck", "Temperature control": "Continuous dial ~60–100 °C", "Keep-warm": "60 min", "Heating": "Electric", "Price": "US$165+ (import)"},
+      "scores": {"Heat-up speed": 4.3, "Temperature control": 5.0, "Build quality": 4.9, "Value": 3.5, "Capacity": 3.2}
+    },
+    {
+      "offerId": "balmuda-the-pot",
+      "badge": "Best Design",
+      "review": "The Balmuda The Pot is the most beautiful kettle in this comparison and the most honest about its limitations — 600 ml, no temperature control, no keep-warm, just a matte stainless gooseneck that looks exactly right on a Tokyo apartment counter. Pay the ¥15,000 for the design, not for brewing specification.",
+      "pros": ["Iconic matte stainless design that earns its counter spot", "Ultra-narrow gooseneck gives reasonable pour-arc control", "IH and gas compatible with no digital components to fail"],
+      "cons": ["600 ml barely covers two cups — households of two or more need frequent refills", "No temperature control and no keep-warm require the boil-and-wait method"],
+      "grade": "A",
+      "specs": {"Capacity": "600 ml", "Spout": "Ultra-narrow gooseneck", "Temperature control": "None", "Keep-warm": "None", "Heating": "IH / gas stove", "Price": "~¥15,000"},
+      "scores": {"Heat-up speed": 3.8, "Temperature control": 1.0, "Build quality": 4.8, "Value": 3.2, "Capacity": 2.5}
+    },
+    {
+      "offerId": "hario-v60-buono-kettle",
+      "badge": "Best Stove-Top",
+      "review": "The Hario V60 Buono is the kettle the Japanese pour-over community standardized on — 1.2 L of stainless steel, a precision gooseneck, and a pour arc the specialty coffee world has trusted for a decade. No electric keep-warm means managing the burner yourself, and the handle heats on gas stoves faster than expected.",
+      "pros": ["1.2 L covers two to three pour-over doses without refilling", "Proven gooseneck pour arc for V60, Chemex, and Kalita Wave", "All-stainless interior is inert and easy to clean"],
+      "cons": ["No keep-warm — requires stove management during a pour session", "Handle heats on gas burners and needs a glove or holder after extended use"],
+      "grade": "B+",
+      "specs": {"Capacity": "1.2 L", "Spout": "Gooseneck", "Temperature control": "None (stove control only)", "Keep-warm": "None", "Heating": "IH / gas stove", "Price": "~$65"},
+      "scores": {"Heat-up speed": 3.5, "Temperature control": 2.0, "Build quality": 4.5, "Value": 4.7, "Capacity": 4.2}
+    },
+    {
+      "offerId": "zojirushi-keep-warm-pot",
+      "badge": "Best for All-Day Hot Water",
+      "review": "The Zojirushi CV-GB22 is not a pour kettle — it is a hot-water station. Fill it once, set one of four temperatures (60/70/80/98 °C), and dispense all day without re-boiling. The pump dispense and child-safety lid lock make it the right pick for households that reach for hot water continuously, though it occupies meaningful counter space.",
+      "pros": ["Four temperature presets (60/70/80/98 °C) for green tea, black tea, and boiling", "All-day keep-warm with auto re-boil — no manual re-heating", "Child-safety lid lock and PSE certified for always-on use"],
+      "cons": ["Stationary countertop appliance — bulkier than any kettle-style pick", "Pump mechanism requires monthly-to-bimonthly descaling in hard-water areas"],
+      "grade": "B",
+      "specs": {"Capacity": "2.2 L", "Spout": "Pump dispense", "Temperature settings": "60 / 70 / 80 / 98 °C", "Keep-warm": "All-day (auto re-boil)", "Heating": "Electric", "Price": "¥6,578"},
+      "scores": {"Heat-up speed": 3.0, "Temperature control": 4.5, "Build quality": 4.6, "Value": 4.8, "Capacity": 5.0}
+    },
+    {
+      "offerId": "delonghi-icona-vintage-kettle",
+      "badge": "Best for Large Households",
+      "review": "The De'Longhi Icona Vintage boils 1.7 L fast, sits on a 360° cordless base, and looks right in a mid-century kitchen. It is the straightforward pick for households of three or four who want rapid boil and a wide spout — just not for pour-over coffee or precision tea, where the wide spout pours too fast.",
+      "pros": ["1.7 L covers four cups in one fill", "360° cordless base and drip-free wide spout", "Rapid boil with automatic shutoff"],
+      "cons": ["Wide spout is too fast for pour-over coffee or precision tea", "Heavy at ~2.5 kg full; plastic interior builds lime-scale faster in hard-water areas"],
+      "grade": "B-",
+      "specs": {"Capacity": "1.7 L", "Spout": "Wide (drip-free)", "Temperature control": "None", "Keep-warm": "None", "Heating": "Electric 360° cordless", "Price": "$89.99"},
+      "scores": {"Heat-up speed": 4.8, "Temperature control": 1.0, "Build quality": 3.8, "Value": 4.0, "Capacity": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For pour-over coffee enthusiasts", "offerId": "fellow-stagg-ekg", "reason": "Continuous temperature dial and 60-minute keep-warm let you dial in 93 °C and maintain it through a full pour-over session without watching a stove."},
+    {"label": "For design-conscious minimalists", "offerId": "balmuda-the-pot", "reason": "The matte stainless gooseneck is the most photogenic kettle in this comparison — worth ¥15,000 if the counter aesthetic matters to you."},
+    {"label": "For stove-top pour-over brewers", "offerId": "hario-v60-buono-kettle", "reason": "The reference gooseneck kettle for Japanese specialty coffee at a fraction of the electric alternatives — leaves budget for a better grinder."},
+    {"label": "For always-on hot water households", "offerId": "zojirushi-keep-warm-pot", "reason": "Fill once, keep four temperature options ready all day — ideal when multiple people reach for hot water at different times throughout the day."},
+    {"label": "For families of three or four", "offerId": "delonghi-icona-vintage-kettle", "reason": "1.7 L rapid boil covers four cups in one fill with no refilling mid-session, at a straightforward price for general hot-water use."}
+  ]
 }

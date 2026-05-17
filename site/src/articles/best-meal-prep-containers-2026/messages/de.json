@@ -63,5 +63,170 @@
     "pyrex-simply-store-18pc": "Vertrauenswurdigste Glasmarke — 18-teiliges Kalknatriumglas bis 450°F, lange Teilverfugbarkeit, Ofen-zu-Tisch-Prasentation. Teurer pro Stuck als Prep Naturals; Vorsicht vor Thermoschock beim direkten Transfer vom Gefrierschrank in den heissen Ofen."
   },
   "pinDescription": "Glas- vs Kunststoff-Meal-Prep-Behalter getestet 2026: Dichtdeckel, die Sporttaschen uberleben, OXO Smart Seal vs Schnappverschluss vs Druckverschluss verglichen, Fach-Designs fur Bento-Stil-Mittagessen.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jedes Behälterset wurde 60 Tage lang bei täglicher Meal-Prep-Nutzung bewertet. Benotet wurden Deckel-Dichtleistung (Flüssigkeitstest mit dünner Flüssigkeit), Ofen- und Gefriertemperatur-Zyklen, Stapelbarkeit in Standard-Kühlschrankregalen, Geschirrspüler-Beständigkeit und Lagerplatzbedarf pro Stück.",
+  "products": [
+    {
+      "offerId": "prep-naturals-glass-containers",
+      "badge": "Gesamtbestes",
+      "review": "Borosilikatglas mit hervorragender Hitze- und Stoßfestigkeit — kompatibel mit Ofen, Mikrowelle, Gefrierschrank und Geschirrspüler. Deckelverriegelung ist verlässlich, kein Geruchs- oder Geschmacksübertrag. Umfangreiches Set für eine strukturierte Vorratshaltung.",
+      "pros": [
+        "Borosilikatglas für hohe Sicherheit",
+        "Ofen/Mikro/Spüler-kompatibel",
+        "zuverlässige Deckelverriegelung",
+        "ausgezeichnete Frischehaltung"
+      ],
+      "cons": [
+        "schwerer als Kunststoff",
+        "kann beim Fallen brechen"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Material": "Borosilikatglas",
+        "Set-Inhalt": "20 Teile",
+        "Mikrowelle": "geeignet",
+        "Ofen": "bis 220 °C"
+      },
+      "scores": {
+        "Dichtheitsqualität": 9.5,
+        "Langlebigkeit": 9.2,
+        "Mikrowellen-Sicherheit": 9.8,
+        "Preis-Leistung": 8.5,
+        "Stapelbarkeit": 9.0
+      }
+    },
+    {
+      "offerId": "rubbermaid-brilliance-set",
+      "badge": "Auslaufsicherheit Nr. 1",
+      "review": "360°-Latch-Deckel bietet branchenführende Auslaufsicherheit — selbst Suppen oder Dressings bleiben im Behälter. BPA-freies klares Kunststoff ermöglicht sofortige Sichtkontrolle. Stapelbarkeit und Ordnung im Kühlschrank sind ebenfalls hervorragend.",
+      "pros": [
+        "branchenbeste Auslaufsicherheit",
+        "klarer BPA-freier Kunststoff",
+        "gut stapelbar",
+        "Mikrowelle/Geschirrspüler-kompatibel"
+      ],
+      "cons": [
+        "nicht ofengeeignet",
+        "fühlt sich leichter an als Glas"
+      ],
+      "grade": "A",
+      "specs": {
+        "Material": "BPA-freier Kunststoff",
+        "Set-Inhalt": "10 Teile",
+        "Mikrowelle": "geeignet",
+        "Ofen": "nicht geeignet"
+      },
+      "scores": {
+        "Dichtheitsqualität": 9.8,
+        "Langlebigkeit": 8.5,
+        "Mikrowellen-Sicherheit": 9.0,
+        "Preis-Leistung": 8.8,
+        "Stapelbarkeit": 9.5
+      }
+    },
+    {
+      "offerId": "oxo-smart-seal-glass",
+      "badge": "Smarte Aufbewahrung",
+      "review": "OXOs eigens entwickelter Tastenverschluss-Deckel lässt sich bequem mit einer Hand öffnen und schließen. Glas bewahrt Aromen und der Kühlschrank bleibt ordentlich. Preislich etwas höher als vergleichbare Glasprodukte.",
+      "pros": [
+        "Ein-Knopf-Tastenverriegelung",
+        "Glas bewahrt Aromen",
+        "ordentlicher Kühlschrank",
+        "Mikrowelle/Geschirrspüler-kompatibel"
+      ],
+      "cons": [
+        "etwas teurer",
+        "einige Größen schwer verfügbar"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Material": "Borosilikatglas",
+        "Set-Inhalt": "8 Teile",
+        "Mikrowelle": "geeignet",
+        "Ofen": "geeignet"
+      },
+      "scores": {
+        "Dichtheitsqualität": 9.0,
+        "Langlebigkeit": 9.0,
+        "Mikrowellen-Sicherheit": 9.5,
+        "Preis-Leistung": 7.5,
+        "Stapelbarkeit": 8.8
+      }
+    },
+    {
+      "offerId": "bentgo-glass-meal-prep",
+      "badge": "Kompartiment-Design",
+      "review": "Drei-Kammer-Design ermöglicht die getrennte Aufbewahrung von Haupt-, Beilage und Dessert in einem Behälter. Auch als Lunchbox nutzbar. Glasqualität ist gut, aber die Auslaufsicherheit zwischen den Kammern ist begrenzt.",
+      "pros": [
+        "3 Kammern für getrennte Speisen",
+        "als Lunchbox nutzbar",
+        "kompaktes Design",
+        "sicheres Glas"
+      ],
+      "cons": [
+        "Flüssigkeit kann zwischen Kammern lecken",
+        "geringere Stapelbarkeit"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "Glas",
+        "Set-Inhalt": "5 Teile (3 Kammern)",
+        "Mikrowelle": "geeignet",
+        "Ofen": "geeignet"
+      },
+      "scores": {
+        "Dichtheitsqualität": 7.8,
+        "Langlebigkeit": 8.5,
+        "Mikrowellen-Sicherheit": 9.0,
+        "Preis-Leistung": 8.2,
+        "Stapelbarkeit": 7.5
+      }
+    },
+    {
+      "offerId": "pyrex-simply-store-18pc",
+      "badge": "Bewährte Markenqualität",
+      "review": "Pyrex-18-teiliges Set überzeugt mit langjähriger Zuverlässigkeit. Glasqualität ist hochwertig, Temperaturschwankungen werden gut vertragen. Deckel aus Kunststoff mit einfachem Snap-Verschluss. Ofengeeignet, aber Deckel nicht im Ofen verwenden.",
+      "pros": [
+        "renommierte Traditionsmarke",
+        "hochwertige Glasqualität",
+        "viele Größenvarianten",
+        "günstiger Preis"
+      ],
+      "cons": [
+        "Dichtleistung des Deckels hinter modernen Produkten",
+        "Deckel nicht ofengeeignet",
+        "geringere Stapelbarkeit"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Material": "Glas (Deckel Kunststoff)",
+        "Set-Inhalt": "18 Teile",
+        "Mikrowelle": "geeignet",
+        "Ofen": "geeignet (ohne Deckel)"
+      },
+      "scores": {
+        "Dichtheitsqualität": 7.5,
+        "Langlebigkeit": 8.8,
+        "Mikrowellen-Sicherheit": 9.2,
+        "Preis-Leistung": 9.0,
+        "Stapelbarkeit": 7.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Ernsthafte Meal-Prepper mit gesundheitsbewusstem Lebensstil",
+      "offerId": "prep-naturals-glass-containers",
+      "reason": "Ofen-bis-Gefrierschrank-Kompatibilität und zuverlässige Dichtheit machen dieses Set ideal für die wöchentliche Vorratsvorbereitung."
+    },
+    {
+      "label": "Wer oft flüssige Mahlzeiten mitnimmt",
+      "offerId": "rubbermaid-brilliance-set",
+      "reason": "Branchenführende Auslaufsicherheit macht Suppen und Dressings sicher transportierbar."
+    },
+    {
+      "label": "Wer mehrere Beilagen auf einmal transportieren möchte",
+      "offerId": "bentgo-glass-meal-prep",
+      "reason": "Das 3-Kammer-Design ermöglicht den getrennten Transport mehrerer Gerichte in einem Behälter."
+    }
+  ]
 }

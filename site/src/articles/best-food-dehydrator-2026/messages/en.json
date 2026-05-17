@@ -66,5 +66,64 @@
     "tribest-sedona-express": "11 trays, dual heating zones (front/rear can be set to different temperatures), below 55 dB. Best for mixed-temperature loads — simultaneously dehydrating herbs at low temperature and jerky at high temperature in the same machine."
   },
   "pinDescription": "Food dehydrator comparison 2026: Excalibur 9-tray vs Cosori vs Nesco Snackmaster vs Presto Dehydro vs Tribest Sedona — which dehydrator makes the best beef jerky, dried fruit, and herbs? Horizontal vs vertical airflow explained.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each dehydrator was evaluated on airflow design and drying evenness, temperature range and accuracy, tray capacity, noise level at operating distance, ease of cleaning, and long-term reliability based on documented user feedback.",
+  "products": [
+    {
+      "offerId": "excalibur-9-tray-dehydrator",
+      "badge": "Best Overall",
+      "review": "The Excalibur 9-Tray is the benchmark against which every other food dehydrator is measured. Rear-mounted horizontal airflow dries all 9 trays evenly without rotation, and 15 sq ft of drying space handles a full batch of jerky in one session. The trade-off is price ($200–$300) and counter footprint.",
+      "pros": ["Rear-mounted fan with horizontal airflow — no tray rotation needed", "15 sq ft capacity across 9 trays", "Below 60 dB and 10-year warranty"],
+      "cons": ["$200–$300 price tag and large counter footprint"],
+      "grade": "A+",
+      "specs": {"Price": "~$200–$300", "Trays": "9 (15 sq ft)", "Airflow": "Horizontal rear-fan", "Temp range": "95–165°F", "Noise": "<60 dB", "Warranty": "10 years", "Tray material": "Dishwasher-safe polycarbonate"},
+      "scores": {"Drying performance": 4.9, "Capacity": 4.8, "Noise": 4.5, "Value": 4.0, "Ease of use": 4.7}
+    },
+    {
+      "offerId": "cosori-premium-food-dehydrator",
+      "badge": "Best Value",
+      "review": "The Cosori Premium 6-Tray brings horizontal airflow at $100–$150 — half the Excalibur's price with proportionally smaller capacity. The dual-readout digital display (set temp and actual temp simultaneously) is a genuinely useful feature for monitoring cycles. Best for households that dehydrate occasionally rather than in bulk.",
+      "pros": ["Horizontal airflow — no tray rotation", "Dual-readout digital display shows set and actual temperature", "48-hour timer with transparent door"],
+      "cons": ["6 trays vs Excalibur's 9 — smaller batch capacity"],
+      "grade": "A",
+      "specs": {"Price": "~$100–$150", "Trays": "6 (~5.5 sq ft)", "Airflow": "Horizontal", "Temp range": "95–165°F", "Timer": "48 hours", "Display": "Dual-readout digital", "Door": "Transparent"},
+      "scores": {"Drying performance": 4.5, "Capacity": 3.8, "Noise": 4.4, "Value": 4.6, "Ease of use": 4.6}
+    },
+    {
+      "offerId": "nesco-snackmaster-pro",
+      "badge": "Best Expandable",
+      "review": "The Nesco Snackmaster Pro is Amazon's most-reviewed dehydrator and has been in production for decades. Its unique advantage is expandability — start with 5 circular trays and add up to 12 without buying a new machine. Vertical airflow means tray rotation is required for even drying, which is the key trade-off versus horizontal-airflow units.",
+      "pros": ["Expandable from 5 to 12 trays without buying a new machine", "Most-reviewed dehydrator on Amazon", "Compact circular trays store easily"],
+      "cons": ["Vertical airflow requires tray rotation for even drying"],
+      "grade": "B+",
+      "specs": {"Price": "~$60–$90", "Trays": "5 (expandable to 12)", "Airflow": "Vertical top-mounted", "Temp range": "95–160°F", "Controls": "Analog dial", "Rotation required": "Yes", "Shape": "Circular trays"},
+      "scores": {"Drying performance": 3.8, "Capacity": 4.2, "Noise": 4.0, "Value": 4.5, "Ease of use": 3.8}
+    },
+    {
+      "offerId": "presto-dehydro-digital",
+      "badge": "Best Entry-Level",
+      "review": "The Presto Dehydro Digital is the entry point for first-time dehydrators at $60–$80. Digital thermostat and timer are an upgrade over the Nesco's analog dial. Six circular trays with vertical airflow deliver adequate but uneven results — plan on tray rotation. Best used as a trial purchase before committing to a horizontal-airflow machine.",
+      "pros": ["Digital thermostat and timer at entry-level price", "Good first dehydrator for testing the hobby", "Compact footprint"],
+      "cons": ["Vertical airflow produces uneven drying without tray rotation", "Circular trays narrower than rectangular"],
+      "grade": "B",
+      "specs": {"Price": "~$60–$80", "Trays": "6 circular", "Airflow": "Vertical", "Temp range": "Digital thermostat", "Timer": "Digital", "Rotation required": "Yes", "Shape": "Circular trays"},
+      "scores": {"Drying performance": 3.5, "Capacity": 3.4, "Noise": 3.8, "Value": 4.4, "Ease of use": 4.0}
+    },
+    {
+      "offerId": "tribest-sedona-express",
+      "badge": "Best for Mixed Loads",
+      "review": "The Tribest Sedona Express solves the one problem the Excalibur can't: simultaneously drying foods that require different temperatures. Its dual heating zones (front and rear independently controllable) let you run herbs at 95–115°F and jerky at 155–165°F in the same machine at the same time. Below 55 dB makes it the quietest in class. Costs more than the Excalibur with less total capacity.",
+      "pros": ["Dual independent heating zones for simultaneous mixed-temperature loads", "Below 55 dB — quietest food dehydrator in this comparison", "11 trays with stainless steel option"],
+      "cons": ["More expensive than Excalibur with less tray space"],
+      "grade": "B-",
+      "specs": {"Price": "~$250–$350", "Trays": "11", "Airflow": "Horizontal dual-zone", "Temp zones": "2 independent", "Noise": "<55 dB", "Temp range": "95–167°F", "Controls": "Digital"},
+      "scores": {"Drying performance": 4.7, "Capacity": 4.0, "Noise": 4.8, "Value": 3.5, "Ease of use": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For serious home dehydrators", "offerId": "excalibur-9-tray-dehydrator", "reason": "Large horizontal-airflow capacity with no tray rotation and a 10-year warranty"},
+    {"label": "For occasional household use", "offerId": "cosori-premium-food-dehydrator", "reason": "Horizontal airflow at half the Excalibur's price with a useful dual-readout display"},
+    {"label": "For buyers who want to scale capacity", "offerId": "nesco-snackmaster-pro", "reason": "Expand from 5 to 12 trays without replacing the machine"},
+    {"label": "For first-time dehydrators", "offerId": "presto-dehydro-digital", "reason": "Digital controls at entry-level price to test dehydrating before committing to a larger machine"},
+    {"label": "For mixed-temperature drying", "offerId": "tribest-sedona-express", "reason": "Dual independent heat zones let you dry herbs and jerky simultaneously in the same machine"}
+  ]
 }

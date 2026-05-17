@@ -58,5 +58,172 @@
     "paddletek-tempest-wave-pro": "テクスチャー付きファイバーグラス面、ポリマーコア、14mm、7.6〜8.0oz。$120〜150。最高の中堅オールラウンダー——初心者とプレミアムの間、基本コンポジットよりスピンテクスチャーが多い。$200の出費なしで6ヶ月以上プレーして良いフィードバックを求めるプレーヤーに最適。"
   },
   "pinDescription": "ピックルボールパドル2026年：セルカーク・バンガード vs ジョーラ・ベン・ジョンズ・ハイペリオン vs フランクリンX-40 vs ヘッド・エクストリームツアー——カーボンファイバーvsコンポジット面の解説、パドル重量の意味、パワーvsコントロールパドル、2026年初心者と中級プレーヤーに最高のピックルボールパドル。",
-  "methodology": "各製品を5つの基準で評価しました：作りの良さ・通常使用での性能・耐久性・快適性・コストパフォーマンス。12ヶ月後も使い続けられるかという観点から、性能と耐久性を最も重視しています。"
+  "methodology": "各パドルをコア・フェイス素材、パワーとコントロールのバランス、スウィートスポットの大きさ、定期使用での耐久性、初級〜上級レベル別のコストパフォーマンスで評価した。",
+  "products": [
+    {
+      "offerId": "selkirk-vanguard-power-air",
+      "badge": "プレミアム総合ベスト",
+      "review": "Aero-Tecカーボンフェイスと16mmポリマーコアのVanguard Power Airはプレミアム層で最高のスピンとコントロールを実現。エアダイナミック有孔エッジがスイングの空気抵抗を減らす——キッチンでの速い手のひとには実際のアドバンテージ。$200以上の価格は中級以下のスキルではミッドティアとの差を感じにくいカジュアルプレーヤーには高すぎる。",
+      "pros": [
+        "Aero-Tecカーボンフェイスがダンクやドライブで卓越したスピンを生成",
+        "16mmコアの厚さがコントロールショットのドウェルタイムを最大化",
+        "エアロダイナミックエッジが素早い交換での振り抵抗を軽減"
+      ],
+      "cons": [
+        "$200〜230は中級以下のスキルではミッドティアとの差を感じにくい"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Face material": "Aero-Tec carbon fiber",
+        "Core": "Polymer honeycomb 16mm",
+        "Weight": "7.4–7.6 oz",
+        "Grip length": "5.25 in",
+        "Price (US)": "~$220"
+      },
+      "scores": {
+        "Power": 4.6,
+        "Control": 5.0,
+        "Sweet spot": 4.8,
+        "Value": 3.5,
+        "Durability": 4.7
+      }
+    },
+    {
+      "offerId": "joola-ben-johns-hyperion-cfs16",
+      "badge": "スピン特化ベスト",
+      "review": "世界ランキング1位のベン・ジョンズとの共同設計によるHyperion CFS16のカーボンフリクションサーフェスはこの比較で最高のスピン生成を実現。16mmコアが速いスイング速度でもコントロール重視を維持。トレードオフ：オフセンターヒットに対するスウィートスポットの許容性が低い。",
+      "pros": [
+        "CFS カーボンフェイスでサードショットドロップに最大スピン",
+        "世界ランキング1位ベン・ジョンズの入力で設計",
+        "ソフトタッチのためのキッチンライン向け16mm厚"
+      ],
+      "cons": [
+        "スウィートスポットが小さくオフセンターヒットへの寛容度がSelkirkより低い"
+      ],
+      "grade": "A",
+      "specs": {
+        "Face material": "Carbon Friction Surface (CFS)",
+        "Core": "Polymer honeycomb 16mm",
+        "Weight": "7.5–8.0 oz",
+        "Grip circumference": "4 1/4 in",
+        "Price (US)": "~$220"
+      },
+      "scores": {
+        "Power": 4.5,
+        "Control": 4.9,
+        "Sweet spot": 4.4,
+        "Value": 3.6,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "paddletek-tempest-wave-pro",
+      "badge": "ミッドティアオールラウンダーベスト",
+      "review": "テクスチャー付きファイバーグラスフェイスと14mmポリマーコアのTempest Wave Proは初心者とプレミアムの間のスウィートスポットを的確にとらえる。カーボンフェイスの難しい学習曲線なしにスピン技術の発展を支援。プレー6か月〜2年の選手に最適。",
+      "pros": [
+        "テクスチャー付きファイバーグラスがカーボンの急な学習曲線なしにスピンフィードバックを提供",
+        "中間プレーヤー向けにパワーとコントロールをバランスする14mmコア",
+        "レクリエーション・クラブレベルで高い評判"
+      ],
+      "cons": [
+        "カーボンからの移行を望む上級スピンプレーヤーには面テクスチャーが不十分"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Face material": "Textured fiberglass",
+        "Core": "Polymer honeycomb 14mm",
+        "Weight": "7.6–8.0 oz",
+        "Price (US)": "~$150"
+      },
+      "scores": {
+        "Power": 4.2,
+        "Control": 4.4,
+        "Sweet spot": 4.5,
+        "Value": 4.2,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "head-extreme-tour-paddle",
+      "badge": "テニスプレーヤーへのベスト",
+      "review": "HeadのExtreme Tourのグラファイトフェイスと従来の感触はテニスからピックルボールへ移行するプレーヤーの自然な入門点。寛容なスウィートスポットと馴染みの重量(7.6oz)が学習曲線を減らす。同価格帯のカーボン競合より少ないスピン生成がトレードオフ。",
+      "pros": [
+        "テニスプレーヤーに馴染みのある従来の感触",
+        "寛容なスウィートスポットがオフセンター接触のペナルティを軽減",
+        "著名ラケットブランドのミッドティア価格"
+      ],
+      "cons": [
+        "グラファイトフェイスは$80〜100の価格帯でカーボンフェイスよりスピン生成が少ない"
+      ],
+      "grade": "B",
+      "specs": {
+        "Face material": "Graphite",
+        "Core": "Polymer honeycomb",
+        "Weight": "7.6 oz",
+        "Price (US)": "~$100"
+      },
+      "scores": {
+        "Power": 4.0,
+        "Control": 4.2,
+        "Sweet spot": 4.6,
+        "Value": 4.0,
+        "Durability": 4.3
+      }
+    },
+    {
+      "offerId": "franklin-x40-paddle-set",
+      "badge": "初心者セットベスト",
+      "review": "Franklin X-40セットはコンポジットパドル2本とX-40トーナメント標準ボール4個を一度に購入できる——個人パドルにコミットする前の正しいスタートポイント。付属ボールはUSAピックルボール公認の本物。パドルは初心者向けだが定期的にプレーしたら制限を感じる。",
+      "pros": [
+        "2本のパドルとUSA公認X-40ボール4個がワンキット",
+        "合法的な用具でゲームを学ぶ最低コスト入門",
+        "FranklinはUSAピックルボール公式ボールサプライヤー"
+      ],
+      "cons": [
+        "技術が3か月を超えて発展すると初心者パドルの性能制限を感じる"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Face material": "Fiberglass composite",
+        "Core": "Polymer honeycomb",
+        "Weight": "7.8 oz",
+        "Includes": "2 paddles + 4 X-40 balls",
+        "Price (US)": "~$40–50"
+      },
+      "scores": {
+        "Power": 3.5,
+        "Control": 3.8,
+        "Sweet spot": 4.0,
+        "Value": 5.0,
+        "Durability": 3.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "コントロールとスピンを優先する上級者向け",
+      "offerId": "selkirk-vanguard-power-air",
+      "reason": "Aero-Tecカーボンフェイスと16mmコアがラインナップ最高のドウェルタイムとスピン生成を実現。"
+    },
+    {
+      "label": "スピンゲームを発展させる中級者向け",
+      "offerId": "joola-ben-johns-hyperion-cfs16",
+      "reason": "CFSカーボンフェイスはこの比較で最高のスピン生成面で、世界トップ選手との共同設計。"
+    },
+    {
+      "label": "ピックルボールに移行するテニスプレーヤー向け",
+      "offerId": "head-extreme-tour-paddle",
+      "reason": "グラファイトフェイスと親しみやすい重量はテニスラケットの自然な延長として感じられる。"
+    },
+    {
+      "label": "6か月〜2年のプレーヤーでアップグレードを目指す方向け",
+      "offerId": "paddletek-tempest-wave-pro",
+      "reason": "テクスチャー付きファイバーグラスがカーボンの急な学習曲線なしに上達する技術に応える。"
+    },
+    {
+      "label": "すべてを揃えて始めたい完全初心者向け",
+      "offerId": "franklin-x40-paddle-set",
+      "reason": "2本のパドルとトーナメント公認ボールがワンキット——ピックルボールを試す最も手軽な方法。"
+    }
+  ]
 }

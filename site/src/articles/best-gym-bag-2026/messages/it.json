@@ -114,5 +114,64 @@
     "gold-gym-gym-bag-backpack": "La migliore scelta budget per un uso semplice in palestra. Marchio Gold's Gym, poliestere durevole, scompartimento separato per le scarpe, grande scompartimento principale con tasca organizer interna a prezzi entry-level. Costruzione di base senza separazione specializzata asciutto/bagnato — per gli acquirenti che aerano la borsa immediatamente dopo ogni sessione."
   },
   "pinDescription": "Cinque borse da palestra a confronto per il 2026 — Nike Brasilia 9.5, Under Armour Undeniable 5.0, Adidas Defender 4, Anello e The North Face Base Camp — sulla qualita dello scompartimento asciutto/bagnato, l'ergonomia zaino vs borsone, la compatibilita con gli armadietti e quale mantiene davvero i tuoi vestiti sudati lontani dalla tua borsa da lavoro. #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni borsa da palestra è stata valutata su efficacia della separazione asciutto/bagnato, durabilità dei materiali, compatibilità con gli armadietti, comfort di trasporto e rapporto qualità-prezzo — privilegiando scenari reali di uso in palestra e in pendolare.",
+  "products": [
+    {
+      "offerId": "nike-brasilia-9-5-training-duffel",
+      "badge": "Migliore in Assoluto",
+      "review": "Il 36L Medium copre palestra e pendolare con cambio d'abiti e si adatta alla maggior parte degli armadietti. Lo scompartimento scarpe ventilato separa efficacemente le scarpe dagli abiti puliti. Il poliestere 600D resiste ai fondi degli armadietti. Lacuna: nessuna tasca laptop imbottita e la ventilazione dello scompartimento scarpe lascia passare qualche odore.",
+      "pros": ["Scompartimento scarpe ventilato che isola davvero le calzature", "36L Medium si adatta alla maggior parte degli armadietti commerciali", "Ampia scelta di colori e più opzioni di taglia (18–60L)"],
+      "cons": ["Nessuna tasca laptop imbottita al prezzo standard"],
+      "grade": "A+",
+      "specs": {"Capacità": "36L (Medium)", "Materiale": "Poliestere 600D", "Scompartimenti": "Scarpe + asciutto/bagnato + principale", "Dimensioni": "51×28×28cm", "Prezzo": "¥6.000–9.000"},
+      "scores": {"Durabilità": 4.5, "Separazione asciutto/bagnato": 4.3, "Compatibilità armadietto": 4.5, "Comfort": 4.0, "Rapporto qualità-prezzo": 4.5}
+    },
+    {
+      "offerId": "under-armour-undeniable-5-duffel",
+      "badge": "Migliore resistenza all'acqua",
+      "review": "Il finish UA Storm respinge la pioggia leggera meglio del poliestere non trattato. Le cloisons interne modulabili consentono un'organizzazione flessibile. Limite: tasca bagnata troppo piccola per un cambio completo post-allenamento. Il lavaggio in lavatrice degrada il rivestimento UA Storm.",
+      "pros": ["Finish UA Storm supera il poliestere standard sotto la pioggia", "Divisori interni modulabili per organizzazione flessibile", "58L di capacità con ampio margine"],
+      "cons": ["Tasca bagnata troppo piccola per un cambio completo di abiti bagnati"],
+      "grade": "A",
+      "specs": {"Capacità": "58L (MD)", "Materiale": "Poliestere UA Storm", "Scompartimenti": "Tasca bagnata + principale modulabile", "Dimensioni": "61×30×30cm", "Prezzo": "¥7.000–12.000"},
+      "scores": {"Durabilità": 4.3, "Separazione asciutto/bagnato": 4.0, "Compatibilità armadietto": 4.0, "Comfort": 4.2, "Rapporto qualità-prezzo": 4.0}
+    },
+    {
+      "offerId": "gym-shark-everyday-gym-bag",
+      "badge": "Miglior design",
+      "review": "Design minimalista che non sembra una borsa sportiva. Scompartimento principale imbottito compatibile laptop, bretelle ergonomiche riducono l'affaticamento delle spalle. Limite: nessuno scompartimento bagnato sigillato — vestiti molto bagnati richiedono una sacca impermeabile separata.",
+      "pros": ["Design minimalista che va dalla palestra alla strada senza problemi", "Scompartimento principale imbottito compatibile laptop", "Bretelle ergonomiche imbottite che riducono l'affaticamento spalle in pendolare"],
+      "cons": ["Nessuno scompartimento bagnato sigillato — vestiti bagnati richiedono sacca impermeabile aggiuntiva"],
+      "grade": "B+",
+      "specs": {"Capacità": "~30L", "Materiale": "Poliestere", "Scompartimenti": "Sacchetto scarpe + principale compatibile laptop", "Prezzo": "¥8.000–12.000"},
+      "scores": {"Durabilità": 4.0, "Separazione asciutto/bagnato": 3.3, "Compatibilità armadietto": 4.3, "Comfort": 4.5, "Rapporto qualità-prezzo": 4.0}
+    },
+    {
+      "offerId": "adidas-defender-4-duffel",
+      "badge": "Migliore per pendolari",
+      "review": "La tasca laptop imbottita in un borsone compatto taglia S è la caratteristica distintiva — la borsa gym-ufficio più pratica di questa comparazione. Il poliestere 100% riciclato è equivalente al vergine. Compromesso: tasca bagnata più piccola regge scarpe o abiti bagnati, non entrambi contemporaneamente.",
+      "pros": ["Tasca laptop imbottita in borsone compatto — unica in questa comparazione", "Poliestere 100% riciclato senza compromessi di performance", "Tasca anteriore con cerniera per accesso rapido"],
+      "cons": ["Tasca bagnata troppo piccola per scarpe e abiti bagnati insieme"],
+      "grade": "B",
+      "specs": {"Capacità": "Taglia S (~30L)", "Materiale": "Poliestere 100% riciclato", "Scompartimenti": "Scarpe/bagnato + tasca laptop + principale", "Prezzo": "¥5.000–7.000"},
+      "scores": {"Durabilità": 4.0, "Separazione asciutto/bagnato": 3.5, "Compatibilità armadietto": 4.5, "Comfort": 3.8, "Rapporto qualità-prezzo": 4.5}
+    },
+    {
+      "offerId": "gold-gym-gym-bag-backpack",
+      "badge": "Miglior budget",
+      "review": "Gold's Gym a ¥3.000–5.000: poliestere durevole, scompartimento scarpe separato, grande scompartimento principale con organizer interno. Nessuna specializzazione asciutto/bagnato — si presume ventilazione immediata dopo ogni sessione. Per chi torna direttamente a casa dalla palestra e il prezzo è la priorità.",
+      "pros": ["Marchio iconico della palestra a prezzi entry-level", "Scompartimento scarpe separato più organizer interno", "Grande scompartimento principale per packing gym senza complicazioni"],
+      "cons": ["Nessuna separazione asciutto/bagnato specializzata — ventilazione immediata dopo le sessioni necessaria"],
+      "grade": "B-",
+      "specs": {"Materiale": "Poliestere", "Scompartimenti": "Scarpe + organizer + principale", "Prezzo": "¥3.000–5.000"},
+      "scores": {"Durabilità": 3.8, "Separazione asciutto/bagnato": 2.8, "Compatibilità armadietto": 4.5, "Comfort": 3.5, "Rapporto qualità-prezzo": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per gym + pendolare con cambio d'abiti", "offerId": "nike-brasilia-9-5-training-duffel", "reason": "36L è il punto d'equilibrio tra compatibilità armadietto e spazio per kit pendolare completo"},
+    {"label": "Per pendolari sotto la pioggia a piedi o in bici", "offerId": "under-armour-undeniable-5-duffel", "reason": "Il finish UA Storm è il più resistente all'acqua in questa comparazione"},
+    {"label": "Per sportivi che vogliono lo stile", "offerId": "gym-shark-everyday-gym-bag", "reason": "Design minimalista e compatibilità laptop senza l'aspetto di una borsa sportiva"},
+    {"label": "Per gym-ufficio con laptop", "offerId": "adidas-defender-4-duffel", "reason": "Unica borsa qui con tasca laptop imbottita in formato compatto adatto agli armadietti"},
+    {"label": "Per uso esclusivo palestra con budget ridotto", "offerId": "gold-gym-gym-bag-backpack", "reason": "¥3.000–5.000 per uno scompartimento scarpe e abbastanza spazio per il kit gym standard"}
+  ]
 }

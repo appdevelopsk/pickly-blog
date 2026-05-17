@@ -58,5 +58,64 @@
     "valor-fitness-ob-hx-trap-bar": "Mid-range construction, dual handles, comparable to Titan. $90-130. Good alternative if Titan unavailable. Budget-to-mid-range tier, functionally comparable at similar price points."
   },
   "pinDescription": "Trap bar / hex bar 2026: Rogue TB-2 vs CAP vs Titan vs REP, how center-of-mass loading reduces lumbar shear stress vs straight bar deadlift, high handle vs low handle, and which trap bar is worth buying for a home gym.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each trap bar was evaluated on steel gauge and rated load capacity relative to realistic home-gym lifting ranges, knurling aggressiveness for grip security under heavy pulls, sleeve length against plate-loading needs for athletes pulling 300–500+ lbs, handle comfort for high versus low handle positions, and long-term value based on construction quality and price tier.",
+  "products": [
+    {
+      "offerId": "rogue-tb-2-trap-bar",
+      "badge": "Best Overall",
+      "review": "The Rogue TB-2 is the benchmark for premium trap bars: 11-gauge steel, sharp knurling on both handles, 16.25-inch sleeves for heavy plate loading, and a 1,000 lb rated capacity that will outlast any realistic home-gym program. At $300–350 the premium over budget alternatives is significant — but for athletes pulling 500+ lbs consistently, it is the correct long-term investment.",
+      "pros": ["11-gauge steel construction with 1,000 lb rated capacity", "Sharp dual-handle knurling provides secure grip under maximum loads", "16.25-inch sleeves accommodate enough plates for 500+ lb total loads"],
+      "cons": ["$300–350 premium is significant over CAP or Titan for athletes lifting at moderate loads"],
+      "grade": "A+",
+      "specs": {"Steel gauge": "11-gauge", "Load capacity": "1,000 lb", "Sleeve length": "16.25 inches", "Bar weight": "~60 lb", "Handle type": "Dual high/low knurled", "Price": "~$300–350"},
+      "scores": {"Load capacity": 5.0, "Handle comfort": 4.8, "Build quality": 5.0, "Value": 3.5, "Knurling quality": 5.0}
+    },
+    {
+      "offerId": "rep-fitness-hd-trap-bar",
+      "badge": "Best Value Premium",
+      "review": "The REP Fitness HD Trap Bar fills the gap between budget hex bars and the Rogue TB-2 — heavier gauge than CAP and Titan, better knurling, and longer sleeves for athletes loading 300–400 lbs, without paying the full Rogue premium. The right pick for athletes who have outgrown budget quality without needing a competition-spec bar.",
+      "pros": ["Heavier gauge than budget alternatives with meaningfully better knurling", "Longer sleeves than CAP/Titan for loading more plates at higher weights", "REP build quality at a mid-range price point"],
+      "cons": ["$150–200 costs more than Titan without reaching Rogue's 11-gauge and 1,000 lb specification"],
+      "grade": "A",
+      "specs": {"Steel gauge": "Heavy (mid-range)", "Load capacity": "~700 lb rated", "Sleeve length": "Longer than budget", "Bar weight": "~55 lb", "Handle type": "Dual high/low knurled", "Price": "~$150–200"},
+      "scores": {"Load capacity": 4.2, "Handle comfort": 4.5, "Build quality": 4.5, "Value": 4.5, "Knurling quality": 4.5}
+    },
+    {
+      "offerId": "titan-fitness-hex-trap-bar",
+      "badge": "Best Mid-Range",
+      "review": "The Titan Fitness Hex Trap Bar is the meaningful step up from CAP — better knurling, a slightly heavier bar at ~52 lbs, and improved sleeve quality for athletes who pull 250+ lbs regularly and find the CAP's mild knurling slipping under heavy sets. At $100–150 it is the right choice when CAP quality isn't enough but Rogue pricing is out of reach.",
+      "pros": ["Better knurling than CAP for secure grip at 250–400 lb loads", "~52 lb bar weight provides good stability in the hex frame", "Improved sleeve quality over budget alternatives"],
+      "cons": ["$100–150 buys improvement over CAP but not the gauge or capacity of REP or Rogue"],
+      "grade": "B+",
+      "specs": {"Steel gauge": "Mid-range", "Load capacity": "~700 lb rated", "Bar weight": "~52 lb", "Sleeve length": "Standard", "Handle type": "Dual high/low knurled", "Price": "~$100–150"},
+      "scores": {"Load capacity": 3.8, "Handle comfort": 4.2, "Build quality": 4.2, "Value": 4.7, "Knurling quality": 4.2}
+    },
+    {
+      "offerId": "cap-barbell-trap-bar",
+      "badge": "Best Budget",
+      "review": "The CAP Barbell Hex Trap Bar is the correct entry-level pick for home gym athletes who already own Olympic plates and want to add trap bar deadlifts without significant investment. At $80–120 it handles loads under 300–400 lbs adequately — the mild knurling is the primary limitation, becoming slippery on heavy sets when hands are sweating.",
+      "pros": ["$80–120 entry price makes trap bar deadlifts accessible for home gyms", "Standard 2-inch Olympic sleeves fit any existing plate collection", "Dual high/low handles cover both beginner and intermediate handle positions"],
+      "cons": ["Mild knurling becomes slippery on heavy sweaty sets above 300 lbs", "500 lb rated capacity limits use for strong athletes progressing toward higher loads"],
+      "grade": "B",
+      "specs": {"Steel gauge": "Standard", "Load capacity": "500 lb rated", "Bar weight": "~45 lb", "Sleeve size": "2-inch Olympic", "Handle type": "Dual high/low", "Price": "~$80–120"},
+      "scores": {"Load capacity": 3.0, "Handle comfort": 3.8, "Build quality": 3.5, "Value": 5.0, "Knurling quality": 3.0}
+    },
+    {
+      "offerId": "valor-fitness-ob-hx-trap-bar",
+      "badge": "Best Alternative Budget",
+      "review": "The Valor Fitness Trap Bar is a functional alternative to the Titan when stock is limited — comparable construction at a similar price point with dual handles and standard Olympic sleeves. It does not meaningfully differentiate from the Titan and selection between the two often comes down to availability and price on the day of purchase.",
+      "pros": ["Comparable to Titan at a similar price — good availability alternative", "Dual high/low handles and standard Olympic sleeves", "Mid-range construction adequate for home gym loads under 300–400 lbs"],
+      "cons": ["No meaningful performance advantage over the Titan — choice is primarily driven by stock and price"],
+      "grade": "B-",
+      "specs": {"Steel gauge": "Mid-range", "Load capacity": "~500–600 lb rated", "Bar weight": "~48 lb", "Sleeve size": "2-inch Olympic", "Handle type": "Dual high/low", "Price": "~$90–130"},
+      "scores": {"Load capacity": 3.2, "Handle comfort": 3.8, "Build quality": 3.8, "Value": 4.5, "Knurling quality": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For serious lifters pulling 500+ lbs", "offerId": "rogue-tb-2-trap-bar", "reason": "11-gauge steel and 1,000 lb rated capacity is the only build specification that stays ahead of a committed long-term lifting program."},
+    {"label": "For intermediate athletes outgrowing budget bars", "offerId": "rep-fitness-hd-trap-bar", "reason": "Better knurling and longer sleeves than CAP or Titan at a price that doesn't require Rogue-level commitment."},
+    {"label": "For athletes lifting 250–400 lbs regularly", "offerId": "titan-fitness-hex-trap-bar", "reason": "The knurling improvement over CAP is meaningful at loads where the CAP's mild grip starts to slip on heavy sets."},
+    {"label": "For home gym beginners with Olympic plates", "offerId": "cap-barbell-trap-bar", "reason": "At $80–120 with standard 2-inch sleeves, it is the lowest-friction entry point for adding trap bar deadlifts to an existing home gym setup."},
+    {"label": "For lifters when Titan is out of stock", "offerId": "valor-fitness-ob-hx-trap-bar", "reason": "Functionally comparable to the Titan at a similar price — the right call when Titan availability is limited."}
+  ]
 }

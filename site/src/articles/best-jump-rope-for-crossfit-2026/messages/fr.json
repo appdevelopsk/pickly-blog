@@ -53,5 +53,64 @@
     "elite-srs-muay-thai-cable": "Vendu aussi comme câble seul pour les athlètes qui possèdent déjà des poignées Elite SRS. La gaine PVC adaptée à l'extérieur résiste mieux aux surfaces rugueuses que le fil revêtu."
   },
   "pinDescription": "Les 5 meilleures cordes à sauter pour CrossFit testées sur des WODs de 90 jours — fil de compétition, câbles lestés et options économiques classés. Les doubles sauts commencent ici. #CrossFit #DoublesSauts #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque corde a été évaluée sur le diamètre du câble et la vitesse de rotation pour les doubles sauts, le type de roulement et sa longévité, l'ergonomie des poignées à 200+ répétitions, la durabilité sur les WODs y compris en extérieur, et le rapport qualité-prix — pas sur le marketing ou les promesses de marque.",
+  "products": [
+    {
+      "offerId": "rx-smart-gear-elite-evo",
+      "badge": "Meilleur ensemble",
+      "review": "Le fil de 1,5mm et les roulements à aiguilles de précision du Rx Smart Gear Elite EVO produisent la rotation la plus rapide et la plus constante disponible à ce prix. Les poignées en aluminium de 57g sont suffisamment stables pour les mouvements de kipping mais assez légères pour ne pas fatiguer les avant-bras lors de longues séries. Les doubles sauts à 150+ répétitions par minute sont réalisables sans que la corde claque. Le prix de 175$ est élevé mais justifié par la qualité des roulements et le remplacement économique des câbles à long terme.",
+      "pros": ["Fil de 1,5mm avec roulements à aiguilles de précision — la rotation la plus rapide à ce prix", "Les poignées de 57g sont stables sans fatiguer les avant-bras lors de longues séries", "Remplacement de câble simple — maintenance économique à long terme"],
+      "cons": ["175$ est nettement plus cher que les options économiques — abrupt pour les débutants"],
+      "grade": "A+",
+      "specs": {"Prix": "$175", "Câble": "Fil de 1,5mm", "Roulements": "Roulements à aiguilles de précision", "Poids des poignées": "57g par poignée", "Longueur des poignées": "165mm"},
+      "scores": {"Qualité de construction": 5.0, "Vitesse": 5.0, "Durabilité": 4.8, "Confort": 4.8, "Rapport qualité-prix": 3.8}
+    },
+    {
+      "offerId": "wod-nation-speed-jump-rope",
+      "badge": "Meilleur budget",
+      "review": "À 15$, la WOD Nation Speed Rope est le chemin le moins cher pour apprendre les doubles sauts. Le câble en acier gainé PVC de 1,8mm est légèrement plus lent que le fil de 1,5mm mais offre un retour auditif plus clair par tour — utile pour les débutants qui développent le timing. La corde est livrée en pack de 3, rendant la perte ou le piétinement du câble moins coûteux. Pour un athlète qui n'a pas encore 50 doubles sauts consécutifs, c'est le bon point de départ.",
+      "pros": ["15$ — entrée la moins chère dans l'entraînement à la corde de vitesse", "Le câble de 1,8mm donne un retour de timing clair lors de l'apprentissage des doubles sauts", "Pack de 3 — câbles de rechange économiques inclus"],
+      "cons": ["Les poignées se desserrent légèrement avec une utilisation prolongée — pas conçu pour des années de WODs quotidiens"],
+      "grade": "A",
+      "specs": {"Prix": "$15", "Câble": "Acier gainé PVC de 1,8mm", "Roulements": "Roulements à billes étanches", "Taille du pack": "Pack de 3", "Idéal pour": "Débutants apprenant les doubles sauts"},
+      "scores": {"Qualité de construction": 3.0, "Vitesse": 4.0, "Durabilité": 3.5, "Confort": 3.8, "Rapport qualité-prix": 5.0}
+    },
+    {
+      "offerId": "crossrope-get-lean-bundle",
+      "badge": "Meilleur système lesté",
+      "review": "Le CrossRope Get Lean Bundle passe entre câbles de 113g et 227g en quelques secondes grâce au système de connexion rapide — une paire de poignées, deux stimuli d'entraînement. Les câbles lestés chargent la prise, les avant-bras et les épaules à travers la rotation, produisant un effet de conditionnement musculaire distinct du travail à la corde de vitesse. À 179$, les poignées et les deux câbles sont inclus. La limite : le câble de 227g ne peut pas atteindre les vitesses nécessaires pour les doubles sauts de compétition.",
+      "pros": ["Échange rapide entre câbles de 113g et 227g en quelques secondes", "Les câbles lestés chargent les avant-bras et les épaules pour un effet de conditionnement musculaire", "L'app CrossRope propose des WODs structurés autour de la progression avec corde lestée"],
+      "cons": ["Le câble de 227g ne peut pas atteindre la cadence des doubles sauts de compétition — pas pour les records de vitesse"],
+      "grade": "B+",
+      "specs": {"Prix": "$179", "Câbles inclus": "1/4 lb (113g) + 1/2 lb (227g)", "Type de poignée": "Aluminium à connexion rapide", "App": "App CrossRope (base gratuite)", "Idéal pour": "Variété de conditionnement + endurance prise/épaules"},
+      "scores": {"Qualité de construction": 4.8, "Vitesse": 3.5, "Durabilité": 4.8, "Confort": 4.5, "Rapport qualité-prix": 4.0}
+    },
+    {
+      "offerId": "rpm-session-3-jump-rope",
+      "badge": "Meilleur milieu de gamme",
+      "review": "Le câble en acier aéronautique de 1,6mm et les poignées en aluminium chromé du RPM Session 3 se situent entre le budget WOD Nation et le premium Rx Smart Gear. Les roulements sont du type à billes étanches — adéquats pour la plupart des athlètes en dessous du volume de compétition élite. À 89,95$, on obtient une construction nettement meilleure que les options budget sans payer le prix Rx. Les options de longueur de poignée (145mm ou 165mm) permettent d'adapter la proportion de la poignée à la taille de la main.",
+      "pros": ["Câble en acier aéronautique de 1,6mm — amélioration par rapport aux câbles budget de 1,8mm", "Options de longueur de poignée (145mm / 165mm) pour adapter les proportions au grip", "Construction solide milieu de gamme sans le prix premium Rx Smart Gear"],
+      "cons": ["89,95$ est une hausse notable par rapport aux options budget — la valeur premium ne se ressent qu'à volume élevé de WODs"],
+      "grade": "B",
+      "specs": {"Prix": "$89,95", "Câble": "Acier aéronautique de 1,6mm", "Roulements": "Roulements à billes étanches", "Options de poignée": "145mm ou 165mm", "Matériau": "Poignées en aluminium chromé"},
+      "scores": {"Qualité de construction": 4.3, "Vitesse": 4.5, "Durabilité": 4.5, "Confort": 4.3, "Rapport qualité-prix": 4.3}
+    },
+    {
+      "offerId": "elite-srs-muay-thai-cable",
+      "badge": "Meilleur câble lourd",
+      "review": "L'acier gainé PVC de 3mm du Elite SRS Muay Thai Cable génère une résistance à l'air et un retour auditif par tour que le fil de 1,5mm ne peut pas égaler. L'objectif n'est pas la vitesse mais la charge de conditionnement : les épaules et les avant-bras fatiguent plus vite à des répétitions modérées. La corde survit mieux à l'entraînement en extérieur et sur surfaces rugueuses que le fil fin. À 29,99$, c'est le moyen le moins cher d'ajouter du conditionnement à la corde lestée. Elle complète une corde de vitesse, ne la remplace pas.",
+      "pros": ["L'acier gainé PVC de 3mm survit à l'entraînement en extérieur et sur surfaces rugueuses", "La résistance à l'air supplémentaire charge les épaules et les avant-bras pour un effet de conditionnement", "29,99$ — chemin le moins cher vers le conditionnement à la corde lestée"],
+      "cons": ["Cadence maximale plus basse que le fil de 1,5mm — pas adapté aux doubles sauts de compétition de vitesse"],
+      "grade": "B-",
+      "specs": {"Prix": "$29,99", "Câble": "Acier gainé PVC de 3mm", "Roulements": "Billes étanches dans poignées de 140mm", "Longueur des poignées": "5,5 pouces (140mm)", "Idéal pour": "Charge de conditionnement, entraînement extérieur"},
+      "scores": {"Qualité de construction": 4.0, "Vitesse": 2.8, "Durabilité": 5.0, "Confort": 3.8, "Rapport qualité-prix": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les athlètes CrossFit de compétition et élite", "offerId": "rx-smart-gear-elite-evo", "reason": "Roulements à aiguilles et fil de 1,5mm — la combinaison qui permet 200+ doubles sauts consécutifs à cadence de compétition"},
+    {"label": "Pour les débutants apprenant les doubles sauts", "offerId": "wod-nation-speed-jump-rope", "reason": "Le câble de 1,8mm donne un retour de timing clair et 15$ éliminent la barrière financière pour commencer"},
+    {"label": "Pour la variété de conditionnement et l'endurance prise/épaules", "offerId": "crossrope-get-lean-bundle", "reason": "Les câbles lestés à échange rapide ajoutent un stimulus de conditionnement musculaire distinct du travail à la corde de vitesse"},
+    {"label": "Pour les athlètes de WOD réguliers cherchant une qualité milieu de gamme", "offerId": "rpm-session-3-jump-rope", "reason": "Câble aéronautique de 1,6mm et options de longueur dans une construction solide sans le prix de compétition"},
+    {"label": "Pour l'entraînement extérieur et le conditionnement tempo", "offerId": "elite-srs-muay-thai-cable", "reason": "Le PVC de 3mm survit aux surfaces rugueuses et charge les épaules à 29,99$ — meilleur rapport qualité-prix pour câble lourd"}
+  ]
 }

@@ -53,5 +53,64 @@
     "elite-srs-muay-thai-cable": "Auch als Einzelkabel fur Athleten erhaltlich, die bereits Elite-SRS-Griffe besitzen. Outdoor-geeignete PVC-Ummantelung widersteht rauen Oberflachen besser als beschichteter Draht."
   },
   "pinDescription": "Die 5 besten Springseile fur CrossFit in 90-Tage-WODs getestet -- Wettkampf-Draht, Gewichtskabel und Budgetoptionen eingestuft. Double Unders fangen hier an. #CrossFit #DoubleUnders #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jedes Seil wurde nach Kabeldurchmesser und Rotationsgeschwindigkeit fur Double Unders, Lagertyp und Lebensdauer, Griffergonomie bei 200+ Wiederholungen, Haltbarkeit uber WODs einschliesslich Outdoor-Einsatz und Preis-Leistungs-Verhaltnis bewertet — nicht nach Marketing oder Markenversprechen.",
+  "products": [
+    {
+      "offerId": "rx-smart-gear-elite-evo",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Das Rx Smart Gear Elite EVO's 1,5mm-Draht und Prazisions-Nadellager erzeugen die schnellste, konstanteste Rotation in dieser Preisklasse. Die 57g-Aluminiumgriffe sind stabil genug fur kippende Bewegungen, aber leicht genug, um die Unterarme in langen Satzen nicht zu ermuden. Double Unders bei 150+ Wiederholungen pro Minute sind erreichbar, ohne dass das Seil peitscht. Der Preis von 175$ ist hoch, aber durch Lagerqualitat und gunstige Kabelersatzteile gerechtfertigt.",
+      "pros": ["1,5mm-Draht mit Prazisions-Nadellagern — schnellste Rotation in dieser Preisklasse", "57g-Griffe sind stabil ohne die Unterarme in langen Satzen zu ermuden", "Einfacher Kabelaustausch — gunstige Langzeitwartung"],
+      "cons": ["175$ sind deutlich teurer als Budgetoptionen — steiler Einstieg fur Anfanger"],
+      "grade": "A+",
+      "specs": {"Preis": "$175", "Kabel": "1,5mm-Draht", "Lager": "Prazisions-Nadellager", "Griffgewicht": "57g je Griff", "Grifflange": "165mm"},
+      "scores": {"Verarbeitungsqualitat": 5.0, "Geschwindigkeit": 5.0, "Haltbarkeit": 4.8, "Komfort": 4.8, "Preis-Leistung": 3.8}
+    },
+    {
+      "offerId": "wod-nation-speed-jump-rope",
+      "badge": "Bestes Budget",
+      "review": "Fur 15$ ist das WOD Nation Speed Rope der gunstigste Weg, um Double Unders zu lernen. Das 1,8mm PVC-ummantelte Kabel ist etwas langsamer als 1,5mm-Draht, liefert aber pro Umdrehung klareres akustisches Feedback — nutzlich fur Anfanger, die das Timing entwickeln. Das Seil wird als 3er-Pack geliefert, was Kabelverlust oder Beschadigung kostengunstiger macht. Fur Athleten, die noch keine 50 ununterbrochenen Double Unders schaffen, ist dies der richtige Startpunkt.",
+      "pros": ["15$ — gunstigster Einstieg ins Speed-Rope-Training", "1,8mm-Kabel gibt klares Timing-Feedback beim Erlernen von Double Unders", "3er-Pack — gunstige Ersatzkabel inklusive"],
+      "cons": ["Griffe lockern sich bei langerem Gebrauch leicht — nicht fur jahrelanges tagliches Training gebaut"],
+      "grade": "A",
+      "specs": {"Preis": "$15", "Kabel": "1,8mm PVC-ummantelter Stahl", "Lager": "Versiegelte Kugellager", "Packgrosse": "3er-Pack", "Ideal fur": "Anfanger beim Erlernen von Double Unders"},
+      "scores": {"Verarbeitungsqualitat": 3.0, "Geschwindigkeit": 4.0, "Haltbarkeit": 3.5, "Komfort": 3.8, "Preis-Leistung": 5.0}
+    },
+    {
+      "offerId": "crossrope-get-lean-bundle",
+      "badge": "Bestes Gewichtssystem",
+      "review": "Das CrossRope Get Lean Bundle wechselt dank Schnellkupplung in Sekunden zwischen 113g und 227g-Kabeln — ein Griffpaar, zwei Trainingsreize. Die Gewichtskabel belasten Griff, Unterarme und Schultern starker als Speed-Rope-Arbeit und erzeugen einen muskularen Konditionseffekt. Bei 179$ sind Griffe und beide Kabel enthalten. Die Einschrankung: Das 227g-Kabel erreicht nicht die Geschwindigkeit fur Wettkampf-Double Unders.",
+      "pros": ["Schnellwechsel zwischen 113g und 227g-Kabeln in Sekunden", "Gewichtskabel belasten Unterarme und Schultern fur muskularen Konditionseffekt", "CrossRope-App bietet strukturierte WODs rund um Gewichtsseil-Progression"],
+      "cons": ["227g-Kabel erreicht nicht die Wettkampf-Double-Under-Kadenz — nicht fur Geschwindigkeitsrekorde"],
+      "grade": "B+",
+      "specs": {"Preis": "$179", "Kabel enthalten": "1/4 lb (113g) + 1/2 lb (227g)", "Grifftyp": "Schnellkupplung Aluminium", "App": "CrossRope App (kostenlose Basis)", "Ideal fur": "Konditionsvielfalt + Griff-/Schulterausdauer"},
+      "scores": {"Verarbeitungsqualitat": 4.8, "Geschwindigkeit": 3.5, "Haltbarkeit": 4.8, "Komfort": 4.5, "Preis-Leistung": 4.0}
+    },
+    {
+      "offerId": "rpm-session-3-jump-rope",
+      "badge": "Bestes Mittelklasse-Seil",
+      "review": "Das RPM Session 3's 1,6mm-Luftfahrtstahl-Kabel und Chromaluminiumgriffe liegen zwischen WOD Nation Budget und Rx Smart Gear Premium. Die Lager sind vom versiegelten Kugeltyp — ausreichend fur die meisten Athleten unterhalb von Elite-Wettkampfvolumen. Fur 89,95$ bekommt man eine deutlich bessere Verarbeitung als bei Budgetoptionen, ohne den Rx-Aufpreis zu zahlen. Die Grifflangenoptionen (145mm oder 165mm) erlauben die Anpassung an die Handgrosse.",
+      "pros": ["1,6mm Luftfahrtstahl-Kabel — Upgrade gegenuber 1,8mm Budgetkabeln", "Grifflangenoptionen (145mm / 165mm) fur passende Griffproportionen", "Solide Mittelklasse-Verarbeitung ohne den Rx Smart Gear Aufpreis"],
+      "cons": ["89,95$ sind ein spurbarer Aufstieg gegenuber Budgetoptionen — Mehrwert erst bei hohem WOD-Volumen spurbar"],
+      "grade": "B",
+      "specs": {"Preis": "$89,95", "Kabel": "1,6mm Luftfahrtstahl", "Lager": "Versiegelte Kugellager", "Griffoptionen": "145mm oder 165mm", "Material": "Chromaluminiumgriffe"},
+      "scores": {"Verarbeitungsqualitat": 4.3, "Geschwindigkeit": 4.5, "Haltbarkeit": 4.5, "Komfort": 4.3, "Preis-Leistung": 4.3}
+    },
+    {
+      "offerId": "elite-srs-muay-thai-cable",
+      "badge": "Bestes Schwerkabel",
+      "review": "Das Elite SRS Muay Thai Cable's 3mm PVC-ummantelter Stahl erzeugt Luftwiderstand und akustisches Feedback pro Umdrehung, das 1,5mm-Draht nicht erreicht. Der Punkt ist nicht Geschwindigkeit, sondern Belastung: Schultern und Unterarme ermuden bei moderaten Wiederholungszahlen schneller. Das Seil ubersteht Outdoor- und Rauboberflachen-Training besser als dunner Draht. Fur 29,99$ ist es der gunstigste Weg, Gewichtsseil-Konditionierung hinzuzufugen. Es erganzt ein Speed-Seil, ersetzt es aber nicht.",
+      "pros": ["3mm PVC-ummantelter Stahl ubersteht Outdoor- und Rauboberflachen-Training", "Zusatzlicher Luftwiderstand belastet Schultern und Unterarme fur Konditionseffekt", "29,99$ — gunstigster Weg zum Gewichtsseil-Konditionierungstraining"],
+      "cons": ["Niedrigere Maximalgeschwindigkeit als 1,5mm-Draht — nicht geeignet fur Wettkampf-Double Unders"],
+      "grade": "B-",
+      "specs": {"Preis": "$29,99", "Kabel": "3mm PVC-ummantelter Stahl", "Lager": "Versiegelte Kugellager in 140mm-Griffen", "Grifflange": "5,5 Zoll (140mm)", "Ideal fur": "Konditionsbelastung, Outdoor-Training"},
+      "scores": {"Verarbeitungsqualitat": 4.0, "Geschwindigkeit": 2.8, "Haltbarkeit": 5.0, "Komfort": 3.8, "Preis-Leistung": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Fur Wettkampf- und Elite-CrossFit-Athleten", "offerId": "rx-smart-gear-elite-evo", "reason": "Nadellager und 1,5mm-Draht — die Kombination, die 200+ ununterbrochene Double Unders bei Wettkampfkadenz ermoglicht"},
+    {"label": "Fur Anfanger beim Erlernen von Double Unders", "offerId": "wod-nation-speed-jump-rope", "reason": "1,8mm-Kabel gibt klares Timing-Feedback und 15$ beseitigen die Kostenbarriere fur den Einstieg"},
+    {"label": "Fur Konditionsvielfalt und Griff-/Schulterausdauer", "offerId": "crossrope-get-lean-bundle", "reason": "Schnellwechsel-Gewichtskabel fugen einen muskularen Konditionsreiz hinzu, der sich von Speed-Rope-Arbeit unterscheidet"},
+    {"label": "Fur regelmasige WOD-Athleten, die Mittelklasse-Qualitat wollen", "offerId": "rpm-session-3-jump-rope", "reason": "1,6mm Luftfahrtstahl-Kabel und Langenwahl in solider Verarbeitung ohne den Wettkampfpreis"},
+    {"label": "Fur Outdoor-Training und Tempo-Konditionierung", "offerId": "elite-srs-muay-thai-cable", "reason": "3mm PVC ubersteht raue Oberflachen und belastet die Schultern fur 29,99$ — bestes Schwerkabel-Preis-Leistungs-Verhaltnis"}
+  ]
 }

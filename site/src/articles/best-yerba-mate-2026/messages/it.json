@@ -58,5 +58,63 @@
     "yerba-mate-electric-gourd": "Thermos elettrico che mantiene 75-80°C, bombilla integrata o separata. $25-60. Migliore per uso in ufficio/viaggio — elimina i ripetuti ritorni al bollitore. La precisione della temperatura è la specifica chiave da verificare prima dell'acquisto."
   },
   "pinDescription": "Yerba mate 2026: Cruz de Malta vs Guayaki vs Taragui, come preparare il mate tradizionale con zucca e bombilla, temperatura dell'acqua (non in ebollizione), con palo vs sin palo spiegato, e la migliore configurazione di yerba mate per uso domestico o in ufficio. #italiano",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Abbiamo valutato ogni prodotto su profilo aromatico, trasparenza dell'approvvigionamento, valore per porzione, integrità della confezione e prestazioni nei casi d'uso comuni. Le certificazioni documentate e le recensioni verificate degli utenti sono state confrontate con le affermazioni di marketing.",
+  "products": [
+    {
+      "offerId": "cruz-de-malta-yerba-mate",
+      "badge": "Miglior scelta generale",
+      "review": "Cruz de Malta è il marchio argentino di riferimento con sapore equilibrato e prezzo accessibile — adatto sia ai principianti che ai bevitori esperti. Chi preferisce l'intensità sin palo dovrà cercare altrove.",
+      "pros": ["Sapore tradizionale argentino equilibrato", "L'opzione più economica", "Ampia gamma con palo e sin palo"],
+      "cons": ["Minore intensità di caffeina rispetto ai marchi puramente sin palo"],
+      "grade": "A+",
+      "specs": {"Stile": "Con palo", "Origine": "Argentina", "Contenuto": "500g-1kg", "Certificazione": "nessuna"},
+      "scores": {"Sapore": 4.7, "Qualità caffeina": 4.3, "Valore": 4.9, "Qualità origine": 4.6, "Facilità preparazione": 4.5}
+    },
+    {
+      "offerId": "guayaki-yerba-mate-traditional",
+      "badge": "Migliore opzione biologica",
+      "review": "Guayaki Traditional è certificato Fair Trade e biologico — i suoi impegni di qualità sono verificabili. Più costoso di Cruz de Malta, ma l'investimento si giustifica per chi è attento all'origine etica.",
+      "pros": ["Certificato Fair Trade e biologico", "Profilo aromatico affumicato e complesso", "Ampia disponibilità nei mercati occidentali"],
+      "cons": ["Costo più elevato per lo stesso peso"],
+      "grade": "A",
+      "specs": {"Stile": "Con palo", "Origine": "Brasile/Argentina", "Certificazione": "Fair Trade, Bio", "Contenuto": "75g-1kg"},
+      "scores": {"Sapore": 4.5, "Qualità caffeina": 4.6, "Valore": 3.9, "Qualità origine": 4.9, "Facilità preparazione": 4.4}
+    },
+    {
+      "offerId": "taragui-yerba-mate",
+      "badge": "Migliore disponibilità internazionale",
+      "review": "Taragui è uno dei marchi argentini più grandi, particolarmente apprezzato per le miscele sin palo ad alta intensità di caffeina. Si trova facilmente in tutto il mondo con qualità costante.",
+      "pros": ["Disponibile in tutto il mondo", "Alta intensità di caffeina (sin palo)", "Qualità costante"],
+      "cons": ["Leggermente più costoso di Cruz de Malta"],
+      "grade": "B+",
+      "specs": {"Stile": "Sin palo", "Origine": "Argentina", "Contenuto": "250g-1kg", "Certificazione": "nessuna"},
+      "scores": {"Sapore": 4.4, "Qualità caffeina": 4.8, "Valore": 4.2, "Qualità origine": 4.5, "Facilità preparazione": 4.6}
+    },
+    {
+      "offerId": "gourd-and-bombilla-set",
+      "badge": "Miglior kit iniziale",
+      "review": "La zucca e la bombilla a molla offrono il punto di ingresso più economico per la preparazione tradizionale del mate. Con un po' di pratica sul riempimento e la temperatura dell'acqua, si gode un mate autentico fin dal primo giorno.",
+      "pros": ["Permette la preparazione tradizionale subito", "Costruzione semplice e facile da pulire", "Kit iniziale economico"],
+      "cons": ["Richiede tempo di apprendimento per la tecnica corretta"],
+      "grade": "B",
+      "specs": {"Materiale": "Zucca/Acciaio inossidabile", "Tipo di bombilla": "Filtro a molla", "Dimensione": "Standard ca. 300ml", "Lavastoviglie": "No"},
+      "scores": {"Sapore": 4.2, "Qualità caffeina": 4.0, "Valore": 4.5, "Qualità origine": 4.1, "Facilità preparazione": 3.8}
+    },
+    {
+      "offerId": "yerba-mate-electric-gourd",
+      "badge": "Migliore per ufficio/viaggi",
+      "review": "Il thermos elettrico mantiene automaticamente 75-80°C — nessun bisogno di tornare continuamente al bollitore. Ideale per il consumo in ufficio o durante i viaggi frequenti dove la costanza della temperatura è essenziale.",
+      "pros": ["Mantiene automaticamente 75-80°C", "Nessun bisogno di riempire il bollitore", "Ideale per ufficio e viaggi"],
+      "cons": ["Necessita di presa elettrica, non adatto all'aperto"],
+      "grade": "B-",
+      "specs": {"Impostazione temperatura": "75-80°C", "Capacità": "ca. 500ml", "Alimentazione": "CA/USB", "Bombilla": "integrata o separata"},
+      "scores": {"Sapore": 4.0, "Qualità caffeina": 4.1, "Valore": 3.8, "Qualità origine": 3.9, "Facilità preparazione": 4.9}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per chi prova il mate per la prima volta", "offerId": "cruz-de-malta-yerba-mate", "reason": "Economica e bilanciata nel sapore — la scelta ideale per la prima esperienza con il mate."},
+    {"label": "Per chi è attento alla certificazione biologica ed etica", "offerId": "guayaki-yerba-mate-traditional", "reason": "Le certificazioni verificabili garantiscono origine etica e qualità senza compromessi."},
+    {"label": "Per i bevitori esperti che vogliono più caffeina", "offerId": "taragui-yerba-mate", "reason": "Taragui Sin Palo offre maggiore intensità e si trova facilmente in tutto il mondo."},
+    {"label": "Per il consumo in ufficio o durante viaggi frequenti", "offerId": "yerba-mate-electric-gourd", "reason": "La regolazione automatica della temperatura elimina le continue corse al bollitore ad ogni ricarica."}
+  ]
 }

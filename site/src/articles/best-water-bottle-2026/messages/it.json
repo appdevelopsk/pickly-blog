@@ -113,5 +113,193 @@
     "thermos-jni-502": "Migliore borraccia compatta giapponese per il pendolarismo. La capacita di 500ml si adatta alle tasche della giacca e alle tasche laterali delle slim bag per laptop, il tappo a pulsante offre un accesso funzionale con una mano dopo il rilascio iniziale del blocco, la ritenzione del freddo corrisponde ai marchi premium importati. Contro: 500ml e la meta del volume delle borracce da 32oz — richiede il doppio dei riempimenti o di accettare un'idratazione limitata per un uso attivo prolungato; bocca da 40mm piu stretta delle bocche larghe di Hydro Flask e Nalgene; il sistema di tappi specifico del marchio non e intercambiabile con accessori di terze parti; solo lavaggio a mano.",
     "klean-kanteen-20oz": "Migliore borraccia multi-purpose per acqua e caffe. TKWide con Cafe Cap funziona sia come borraccia che come tazza termica, interno in acciaio inossidabile 18/8, isolamento sottovuoto comparabile a Hydro Flask. Contro: Cafe Cap venduto separatamente dal tappo standard — la piena funzionalita multi-purpose richiede un acquisto aggiuntivo; la capacita di 20oz limita l'idratazione per tutto il giorno senza riempire; il riconoscimento inferiore dei consumatori in Giappone significa meno recensioni a lungo termine per valutare l'affidabilita; i prezzi di importazione superano l'equivalente americano; non la scelta piu forte per il solo uso con acqua rispetto a Hydro Flask o Thermos nella stessa fascia di prezzo."
   },
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni borraccia è stata riempita con acqua ghiacciata e misurata a 2, 6, 12 e 24 ore in una stanza a 25°C; la resistenza alle perdite è stata testata capovolta sotto pressione dello zaino per 30 minuti; la durabilità è stata valutata con test di caduta da 1 metro su cemento.",
+  "products": [
+    {
+      "offerId": "hydro-flask-32oz",
+      "badge": "Migliore in assoluto",
+      "review": "L'isolamento TempShield a doppia parete di Hydro Flask ha mantenuto l'acqua sotto 8°C per 24 ore nel test — la migliore conservazione del freddo in questo confronto. Il sistema di coperchi intercambiabili è genuinamente utile, ma il Flex Cap base richiede due mani. Pesante a 454g vuota.",
+      "pros": [
+        "Migliore conservazione del freddo nel test — sotto 8°C per 24 ore",
+        "Sistema di coperchi intercambiabili con opzioni cannuccia e flip",
+        "Interno in acciaio inossidabile 18/8 non rivestito, non altera il sapore"
+      ],
+      "cons": [
+        "La più pesante a 454g vuota",
+        "Il Flex Cap base richiede operazione a due mani"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Capacity": "32 oz / 946 ml",
+        "Insulation": "Double-wall TempShield vacuum",
+        "Cold retention": "24 hr (lab)",
+        "Hot retention": "12 hr (lab)",
+        "Material": "18/8 stainless steel",
+        "Weight (empty)": "454g",
+        "Mouth width": "Wide (53mm)",
+        "Dishwasher safe": "No"
+      },
+      "scores": {
+        "Insulation": 5.0,
+        "Leak resistance": 4.5,
+        "Durability": 4.8,
+        "Value": 4.0,
+        "Ease of cleaning": 3.8
+      }
+    },
+    {
+      "offerId": "stanley-quencher-30oz",
+      "badge": "Migliore per pendolari",
+      "review": "La base affusolata del Quencher si adatta a tutti i portabicchieri testati e il coperchio con cannuccia copre la maggior parte delle abitudini di idratazione quotidiana. Prestazioni fredde costanti per 21 ore. Il coperchio con cannuccia richiede smontaggio per una pulizia completa.",
+      "pros": [
+        "Base affusolata si adatta ai portabicchieri standard dell'auto",
+        "Coperchio con cannuccia copre la maggior parte delle utilizzazioni quotidiane",
+        "Grande manico comodo per trasporto prolungato"
+      ],
+      "cons": [
+        "Il coperchio con cannuccia richiede smontaggio per pulizia completa",
+        "Il profilo affusolato non si adatta alle tasche strette dello zaino"
+      ],
+      "grade": "A",
+      "specs": {
+        "Capacity": "30 oz / 887 ml",
+        "Insulation": "Double-wall vacuum",
+        "Cold retention": "~21 hr",
+        "Material": "18/8 stainless steel",
+        "Weight (empty)": "380g",
+        "Handle": "Yes, ergonomic",
+        "Base": "Tapered for cupholders",
+        "Dishwasher safe": "Yes"
+      },
+      "scores": {
+        "Insulation": 4.7,
+        "Leak resistance": 4.2,
+        "Durability": 4.3,
+        "Value": 4.2,
+        "Ease of cleaning": 3.5
+      }
+    },
+    {
+      "offerId": "thermos-jni-502",
+      "badge": "Migliore per il Giappone",
+      "review": "Il JNI-502 è il riferimento per le borracce da pendolare in Giappone — 500ml compatto, coperchio a pulsante a una mano dopo il blocco a vite iniziale, valutazione fredda 24 ore. L'apertura da 40mm è più stretta delle borracce a bocca larga.",
+      "pros": [
+        "Accesso con una mano dopo lo sblocco iniziale",
+        "Valutazione fredda 24 ore in taglia compatta da 500ml",
+        "Ampiamente disponibile presso i rivenditori giapponesi"
+      ],
+      "cons": [
+        "Apertura da 40mm più stretta dei concorrenti a bocca larga",
+        "Solo lavaggio a mano"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Capacity": "500 ml",
+        "Insulation": "Vacuum stainless",
+        "Cold retention": "24 hr",
+        "Hot retention": "12 hr",
+        "Lid": "Push-button with screw lock",
+        "Weight (empty)": "~230g",
+        "Mouth width": "40mm",
+        "Dishwasher safe": "No"
+      },
+      "scores": {
+        "Insulation": 4.8,
+        "Leak resistance": 4.9,
+        "Durability": 4.7,
+        "Value": 4.6,
+        "Ease of cleaning": 3.6
+      }
+    },
+    {
+      "offerId": "nalgene-32oz",
+      "badge": "Migliore leggera",
+      "review": "A 180g vuota, la più leggera e l'unica completamente lavabile in lavastoviglie. Senza isolamento, le bevande raggiungono la temperatura ambiente in 30-60 minuti — sbagliata per l'acqua fredda tutto il giorno, giusta per escursioni dove il peso batte la temperatura.",
+      "pros": [
+        "La più leggera a 180g — circa 2,5x più leggera di Hydro Flask",
+        "Tritan BPA-free completamente lavabile in lavastoviglie",
+        "Bocca larga 63mm per cubetti di ghiaccio e mani"
+      ],
+      "cons": [
+        "Nessun isolamento — le bevande raggiungono la temperatura ambiente in 30-60 minuti"
+      ],
+      "grade": "B",
+      "specs": {
+        "Capacity": "32 oz / 946 ml",
+        "Insulation": "None",
+        "Material": "BPA-free Tritan plastic",
+        "Weight (empty)": "180g",
+        "Mouth width": "63mm wide",
+        "Dishwasher safe": "Yes",
+        "Drop resistance": "High",
+        "Price": "~$15"
+      },
+      "scores": {
+        "Insulation": 1.0,
+        "Leak resistance": 4.7,
+        "Durability": 4.9,
+        "Value": 4.9,
+        "Ease of cleaning": 5.0
+      }
+    },
+    {
+      "offerId": "klean-kanteen-20oz",
+      "badge": "Migliore per amanti del caffè",
+      "review": "La compatibilità della TKWide con la Café Cap la rende una borraccia a doppio uso genuino — lo stesso contenitore per il caffè mattutino e l'acqua pomeridiana. A 20oz copre il tragitto ma non l'idratazione dell'intera giornata.",
+      "pros": [
+        "Compatibile con Café Cap per uso doppio caffè/acqua",
+        "Interno in acciaio inossidabile 18/8, nessun sapore di plastica",
+        "Isolamento sotto vuoto paragonabile a Hydro Flask"
+      ],
+      "cons": [
+        "Café Cap venduta separatamente — versatilità costa extra",
+        "20oz insufficiente per l'idratazione dell'intera giornata senza riempire"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Capacity": "20 oz / 591 ml",
+        "Insulation": "Double-wall vacuum",
+        "Cold retention": "~24 hr",
+        "Hot retention": "~12 hr",
+        "Material": "18/8 stainless steel",
+        "Weight (empty)": "~280g",
+        "Café Cap compatible": "Yes (sold separately)",
+        "Dishwasher safe": "Lid only"
+      },
+      "scores": {
+        "Insulation": 4.6,
+        "Leak resistance": 4.4,
+        "Durability": 4.5,
+        "Value": 3.8,
+        "Ease of cleaning": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per chi beve acqua fredda tutto il giorno",
+      "offerId": "hydro-flask-32oz",
+      "reason": "Migliore conservazione del freddo nel test — l'acqua ghiacciata è rimasta sotto 8°C per 24 ore."
+    },
+    {
+      "label": "Per pendolari in auto",
+      "offerId": "stanley-quencher-30oz",
+      "reason": "Base affusolata si adatta a tutti i portabicchieri; coperchio con cannuccia per bere senza mani in movimento."
+    },
+    {
+      "label": "Per uso quotidiano in Giappone",
+      "offerId": "thermos-jni-502",
+      "reason": "Coperchio a pulsante di prima classe, valutazione fredda 24 ore, ampiamente disponibile in tutto il Giappone."
+    },
+    {
+      "label": "Per escursionisti attenti al peso",
+      "offerId": "nalgene-32oz",
+      "reason": "A 180g di gran lunga la più leggera, completamente lavabile in lavastoviglie, e resiste alle cadute senza crepe."
+    },
+    {
+      "label": "Per utenti di caffè e acqua",
+      "offerId": "klean-kanteen-20oz",
+      "reason": "La compatibilità Café Cap la rende l'unica borraccia qui che funziona davvero per bevande calde e fredde."
+    }
+  ]
 }

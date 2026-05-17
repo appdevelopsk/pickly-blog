@@ -58,5 +58,64 @@
     "coffee-gator-pour-over-scale": "0.1g resolution, 1-2 second response, AA batteries, timer. $25-40. Budget entry-level option — provides timer and measurement at lowest cost. Slower response limits precision. Correct for beginners adding measurement to pour-over routine."
   },
   "pinDescription": "Coffee scale 2026: Acaia Pearl vs Timemore Black Mirror vs Hario V60 vs Felicita Incline — why response time matters more than resolution, built-in timer explained, espresso vs pour-over scale requirements, and the best coffee scale at every price point.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We evaluated each scale on response time, resolution, timer integration, power source practicality, build quality, and fit for both espresso and pour-over workflows — response time was weighted most heavily as it has the largest real-world impact on precision.",
+  "products": [
+    {
+      "offerId": "acaia-pearl-coffee-scale",
+      "badge": "Best Overall",
+      "review": "The Acaia Pearl is the reference coffee scale — 0.1g resolution, 300ms response time, Bluetooth app connectivity for logging brews, and a rechargeable battery in an aluminum build that lasts 5–10 years with normal use. The Pearl justifies its $150–220 price through longevity and precision, not features: it simply does everything correctly, every time. The Bluetooth app is genuinely useful for iterating on recipes.",
+      "pros": ["300ms response time — fastest of any scale reviewed here", "Bluetooth app logs dose, yield, and time across brews", "Aluminum build with rechargeable battery — no battery runs to the store"],
+      "cons": ["$150–220 is a significant investment — overkill for casual home brewers"],
+      "grade": "A+",
+      "specs": {"Resolution": "0.1g", "Response time": "~300ms", "Power": "Rechargeable (USB)", "Connectivity": "Bluetooth (Acaia app)", "Platform size": "18cm × 18cm (Pearl) / 14cm × 14cm (Pearl S)"},
+      "scores": {"Build quality": 5.0, "Brew quality": 4.9, "Ease of use": 4.5, "Value": 3.2, "Versatility": 4.8}
+    },
+    {
+      "offerId": "timemore-black-mirror-scale",
+      "badge": "Best Value",
+      "review": "The Timemore Black Mirror Basic+ is the standard recommendation for home pour-over brewers who want all essential coffee scale features without the Acaia premium: 0.1g resolution, 500ms response time, built-in timer, and AA batteries. The 500ms response is faster than Hario's 1 second and workable for most recipes. AA batteries are a practical advantage over rechargeable for travel. The plastic build is lighter and less premium, but functionally adequate.",
+      "pros": ["All essential coffee scale features at $40–60 — the value benchmark", "AA batteries — convenient for travel, no charging needed", "Single-button timer start — minimal friction during brewing"],
+      "cons": ["500ms response is slower than Acaia's 300ms — minor penalty for precise recipe adherence"],
+      "grade": "A",
+      "specs": {"Resolution": "0.1g", "Response time": "~500ms", "Power": "AA batteries", "Timer": "Built-in, single button", "Build": "Plastic body + metal platform"},
+      "scores": {"Build quality": 3.8, "Brew quality": 4.5, "Ease of use": 4.6, "Value": 4.9, "Versatility": 4.5}
+    },
+    {
+      "offerId": "hario-v60-drip-scale",
+      "badge": "Best for V60 Users",
+      "review": "The Hario V60 Drip Scale is designed for the V60 ecosystem and emphasizes simplicity: one button starts the timer, 80-hour AA battery life, 0.1g resolution with approximately 1 second response. The response time is slower than Timemore and Acaia, but the battery life is the best of any scale here. For V60 users who want a cohesive setup and rarely need to charge, the Hario scale is the natural companion — though the Timemore provides better response at similar price.",
+      "pros": ["80-hour battery life on AA — the longest runtime of any scale here", "Designed for V60 ecosystem — visually cohesive", "Simple single-button operation minimizes distraction during brewing"],
+      "cons": ["1-second response time is the slowest among dedicated coffee scales — affects precision at target weight"],
+      "grade": "B+",
+      "specs": {"Resolution": "0.1g", "Response time": "~1 second", "Power": "AA batteries", "Battery life": "~80 hours", "Timer": "Built-in, one button"},
+      "scores": {"Build quality": 4.2, "Brew quality": 4.2, "Ease of use": 4.7, "Value": 4.3, "Versatility": 4.0}
+    },
+    {
+      "offerId": "felicita-incline-coffee-scale",
+      "badge": "Best for Espresso",
+      "review": "Felicita's Incline has a unique 10-degree tilted display that faces the user over a portafilter or espresso drip tray — making it genuinely readable without leaning forward. USB-C rechargeable with auto-start timer that activates when weight is detected. At 200–300ms response, it matches Acaia's speed at a lower price ($80–120). The tilt design is either useful or gimmicky depending on your setup; for espresso users with recessed drip trays, it's genuinely practical.",
+      "pros": ["10-degree tilted display — readable over portafilter without leaning", "Auto-start timer activates on weight detection — hands-free", "200–300ms response — matches Acaia at lower cost"],
+      "cons": ["Tilted display is only useful for espresso setups — less relevant for pour-over"],
+      "grade": "B",
+      "specs": {"Resolution": "0.1g", "Response time": "~200–300ms", "Power": "USB-C rechargeable", "Display": "10-degree tilt", "Timer": "Auto-start on weight detection"},
+      "scores": {"Build quality": 4.3, "Brew quality": 4.7, "Ease of use": 4.4, "Value": 4.0, "Versatility": 3.8}
+    },
+    {
+      "offerId": "coffee-gator-pour-over-scale",
+      "badge": "Best Entry-Level",
+      "review": "The Coffee Gator Pour-Over Scale is the entry point — it adds a timer and 0.1g measurement to a basic pour-over routine at the lowest cost ($25–40). The 1–2 second response time is the slowest here and will cause consistent overshoot when pouring to exact weight targets, but for beginners learning the ritual, the timer and measurement habit matter more than millisecond precision. It's a meaningful upgrade over any kitchen scale.",
+      "pros": ["Lowest price among dedicated coffee scales — $25–40", "Built-in timer adds essential brew time tracking", "A genuine step up from a kitchen scale for pour-over use"],
+      "cons": ["1–2 second response causes weight overshoot when pouring to precise targets"],
+      "grade": "B-",
+      "specs": {"Resolution": "0.1g", "Response time": "1–2 seconds", "Power": "AA batteries", "Timer": "Built-in", "Target users": "Beginners / casual pour-over"},
+      "scores": {"Build quality": 3.3, "Brew quality": 3.5, "Ease of use": 4.5, "Value": 4.8, "Versatility": 3.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For serious home brewers", "offerId": "acaia-pearl-coffee-scale", "reason": "The reference standard — 300ms response, Bluetooth logging, and a build quality that outlasts any cheaper scale by years."},
+    {"label": "For most home pour-over setups", "offerId": "timemore-black-mirror-scale", "reason": "All essential coffee scale features at $40–60 — the default recommendation that covers 80% of users."},
+    {"label": "For espresso setups", "offerId": "felicita-incline-coffee-scale", "reason": "The tilted display is genuinely readable over a portafilter — the one ergonomic advantage that matters specifically for espresso."},
+    {"label": "For V60 ecosystem users", "offerId": "hario-v60-drip-scale", "reason": "80-hour battery and one-button simplicity complement V60 brewing — and the visual cohesion is a bonus."},
+    {"label": "For pour-over beginners", "offerId": "coffee-gator-pour-over-scale", "reason": "At $25–40 it introduces timer and measurement habits without requiring a committed investment before you know if you'll stick with it."}
+  ]
 }

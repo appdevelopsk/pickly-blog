@@ -102,5 +102,64 @@
     "twelve-south-hoverbar-duo": "Choix de bras de serre-joint/bureau premium — bras articulé à tension de ressort de 11 800-13 800 yens avec disque magnétique, serre-joint à vis se monte sur les bords de bureau de 0-50 mm d'épaisseur, 35 cm de portée de pivotement. L'empreinte du serre-joint limite où vous pouvez monter — de nombreux bureaux japonais ont un tablier qui bloque la gorge du serre-joint ou un plateau plus épais que 50 mm."
   },
   "pinDescription": "Cinq supports pour tablette comparés en 2026 d'un support à charnière Lamicall à 1 680 yens jusqu'à un Twelve South HoverBar Duo à 13 800 yens. Fixation magnétique iPad vs portabilité style MOFT vs portée col de cygne au sol vs bras-serre-joint de bureau — avec le test de stress iPad Pro 12.9 plus Magic Keyboard et la faiblesse explicite sur chaque choix. #supportTablette #iPadPro #bureau2026 #organisation #français",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Chaque support a été évalué sur la rigidité de la charnière sous une charge de 1,4 kg (iPad Pro 12.9 + Magic Keyboard), les schémas de dérive d'angle selon les avis de propriétaires à long terme, le compromis portabilité-stabilité, la compatibilité avec les meubles de bureau dans les appartements japonais et la durée de vie réaliste basée sur les modes de défaillance dominants signalés après 12–18 mois d'utilisation quotidienne.",
+  "products": [
+    {
+      "offerId": "lululook-ipad-stand",
+      "badge": "Meilleur au Global",
+      "review": "Le disque magnétique du Lululook fixe un iPad Pro ou Air en moins d'une seconde et permet une rotation portrait-paysage sans effort — sans desserrer de fixation, sans marques sur le cadre. L'inconvénient est la dépendance à l'écosystème : la plaque magnétique est conçue uniquement pour iPad Pro et iPad Air, et l'iPad Pro 12.9 avec Magic Keyboard peut se détacher si le bureau est heurté.",
+      "pros": ["Fixation magnétique en moins d'une seconde", "Rotation 360° portrait-paysage", "Base en aluminium brossé lestée supporte 1,4 kg sans dérive"],
+      "cons": ["iPad Pro et iPad Air uniquement — les tablettes Android et les anciens iPad Mini ont besoin d'un adaptateur vendu séparément"],
+      "grade": "A+",
+      "specs": {"Compatibilité": "iPad Pro 11/12.9, iPad Air", "Type de fixation": "Disque magnétique", "Matériau de la base": "Aluminium brossé", "Rotation": "360°", "Gamme de prix": "9 800–12 800 yens", "Portabilité": "Support de bureau"},
+      "scores": {"Stabilité": 4.8, "Plage d'angle": 4.7, "Qualité de fabrication": 4.8, "Rapport qualité-prix": 3.9, "Portabilité": 2.5}
+    },
+    {
+      "offerId": "moft-float-stand",
+      "badge": "Meilleur pour le Voyage",
+      "review": "À 280 g et 8 mm plié, le MOFT Float s'insère dans n'importe quelle pochette d'ordinateur et se déploie en quelques secondes — incomparable pour ceux qui transportent un support quotidiennement. La charnière en tissu se fléchit visiblement sous la pression du crayon Apple, donc les utilisateurs de Procreate doivent chercher autre chose.",
+      "pros": ["280 g et 8 mm d'épaisseur plié", "7 crans d'angle de 25° à 60°", "Double comme rehausseur d'ordinateur pour les utilisateurs bi-appareils"],
+      "cons": ["La charnière en tissu se fléchit visiblement sous la pression forte du crayon Apple", "Le tissu peluche au pli de la charnière après 12–18 mois de transport quotidien"],
+      "grade": "A",
+      "specs": {"Poids": "280 g", "Épaisseur pliée": "8 mm", "Crans d'angle": "7 (25°–60°)", "Matériau": "Tissu origami + charnière", "Prix": "8 980 yens", "Usage cible": "Portable, ordinateur + tablette"},
+      "scores": {"Stabilité": 3.2, "Plage d'angle": 4.0, "Qualité de fabrication": 3.8, "Rapport qualité-prix": 4.0, "Portabilité": 5.0}
+    },
+    {
+      "offerId": "lamicall-tablet-stand",
+      "badge": "Meilleur Rapport Qualité-Prix",
+      "review": "Le Lamicall est le choix économique sans complications : aluminium solide, compatible avec toute tablette de 4 à 13 pouces et maintient l'iPad Pro 12.9 à un angle fixe. Passer du portrait au paysage nécessite de soulever et de repositionner plutôt que de pivoter, et la charnière de friction peut dériver lors de longues visioconférences après 12–18 mois d'usure.",
+      "pros": ["Compatible avec les tablettes et téléphones de 4 à 13 pouces", "Coussinets en silicone sur le berceau évitent les rayures", "Plage d'inclinaison de 270° couvre tout angle de bureau pratique"],
+      "cons": ["Inclinaison sur un seul axe uniquement — sans pivotement ni réglage de hauteur", "La charnière de friction dérive progressivement après 12–18 mois d'utilisation"],
+      "grade": "B+",
+      "specs": {"Compatibilité": "Tablettes et téléphones de 4–13 pouces", "Charnière": "Friction à axe unique", "Plage d'inclinaison": "270°", "Matériau": "Aluminium + coussinets silicone", "Gamme de prix": "1 680–2 480 yens", "Portabilité": "Support de bureau"},
+      "scores": {"Stabilité": 4.2, "Plage d'angle": 3.8, "Qualité de fabrication": 4.0, "Rapport qualité-prix": 4.9, "Portabilité": 2.8}
+    },
+    {
+      "offerId": "uperfect-tablet-floor-stand",
+      "badge": "Meilleur pour la Visionnage au Lit",
+      "review": "L'UPERFECT est la seule option de ce groupe qui place une tablette au-dessus d'un lit ou d'un canapé. Sa colonne de 90–150 cm avec bras à col de cygne résout le problème de visionnage mains libres. À pleine extension de 150 cm avec un iPad Pro 12.9, tout mouvement du lit génère une vibration de 5–10 secondes.",
+      "pros": ["Colonne de 90–150 cm atteint la hauteur du lit et du canapé", "Le bras à col de cygne positionne la tablette au-dessus du visage ou de la surface de recettes", "Base lestée supporte les tablettes jusqu'à 12,9 pouces via pince à ressort"],
+      "cons": ["Le col de cygne vibre 5–10 secondes après tout choc à pleine extension de 150 cm", "L'empreinte de 35–40 cm au sol est gênante dans les petites chambres japonaises"],
+      "grade": "B",
+      "specs": {"Plage de colonne": "90–150 cm", "Type de bras": "Col de cygne", "Tablettes compatibles": "4,7–12,9 pouces via pince à ressort", "Empreinte de base": "~35–40 cm", "Gamme de prix": "5 980–8 980 yens", "Usage cible": "Visionnage mains libres au lit/canapé"},
+      "scores": {"Stabilité": 3.0, "Plage d'angle": 4.5, "Qualité de fabrication": 3.5, "Rapport qualité-prix": 4.1, "Portabilité": 1.5}
+    },
+    {
+      "offerId": "twelve-south-hoverbar-duo",
+      "badge": "Meilleur Bras de Bureau",
+      "review": "Le bras articulé à tension de ressort du HoverBar Duo déplace l'iPad n'importe où dans une sphère de 35 cm du bord du bureau et maintient la position sans dérive de charnière de friction. Beaucoup de bureaux japonais ont un tablier qui bloque la gorge de la pince ; mesurez le vôtre avant de commander.",
+      "pros": ["L'articulation à tension de ressort maintient l'angle sans dérive", "35 cm de portée de pivotement couvre les positions de frappe et de lecture", "Base de bureau lestée incluse pour les surfaces non-pincables"],
+      "cons": ["La pince nécessite un bord de bureau de 0–50 mm — les bureaux japonais avec tablier échouent souvent à ce test", "La plaque magnétique centrée sur iPad nécessite un adaptateur tiers pour Android et ancien iPad Mini"],
+      "grade": "B-",
+      "specs": {"Type de montage": "Pince à vis (0–50 mm) ou base de bureau lestée", "Portée du bras": "35 cm", "Tension": "Ressort", "Compatibilité": "iPad Pro/Air (magnétique) ; autres nécessitent un adaptateur", "Gamme de prix": "11 800–13 800 yens", "Usage cible": "Bras articulé de bureau"},
+      "scores": {"Stabilité": 4.6, "Plage d'angle": 4.9, "Qualité de fabrication": 4.7, "Rapport qualité-prix": 3.5, "Portabilité": 1.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les utilisateurs avancés d'iPad Pro", "offerId": "lululook-ipad-stand", "reason": "La fixation magnétique, la rotation instantanée et la base en aluminium lestée gèrent la charge complète de 1,4 kg de l'iPad Pro 12.9 + Magic Keyboard toute la journée sur le bureau."},
+    {"label": "Pour les navetteurs quotidiens", "offerId": "moft-float-stand", "reason": "8 mm d'épaisseur pliée s'insère dans n'importe quelle pochette d'ordinateur et les 280 g de poids disparaissent dans un sac."},
+    {"label": "Pour les configurations de bureau économiques", "offerId": "lamicall-tablet-stand", "reason": "Compatible avec toute tablette de 4 à 13 pouces pour moins de 2 500 yens — le point de départ pratique pour un support de tablette de bureau."},
+    {"label": "Pour le visionnage au lit et sur canapé", "offerId": "uperfect-tablet-floor-stand", "reason": "La seule option de ce groupe qui atteint la hauteur du lit et tient la tablette au-dessus de votre visage en mode mains libres."},
+    {"label": "Pour le travail en plusieurs positions", "offerId": "twelve-south-hoverbar-duo", "reason": "Le bras à tension de ressort pivote instantanément de la position de frappe à la lecture sans dérive de charnière dans le temps."}
+  ]
 }

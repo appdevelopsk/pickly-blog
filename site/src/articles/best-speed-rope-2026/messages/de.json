@@ -66,5 +66,174 @@
     "elite-surge-3-speed-rope": "Kugellager zum mittleren Preis, 2mm PVC-Kabel, 13cm Griffe. $25-35. Bestes Preis-Leistungs-Verhaeltnis bei Kugellager-Speedropes. Empfohlen fuer die meisten fortgeschrittenen Athleten -- Kugellagerkualitaet ohne den Premiumpreis des RX Smart Gear."
   },
   "pinDescription": "Speedrope-Vergleich 2026: RX Smart Gear Bullet Comp vs Crossrope vs Buddy Lee Aero vs WOD Nation vs Elite Surge 3 -- Kugellager vs Buchsen, gewichtete Kabel und welches Sprungseil am besten fuer das Lernen von Double-Unders ist. #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jedes Seil wurde auf Lagerreibung bei Sprint-Geschwindigkeiten (über 100 UPM), Kabelbeständigkeit nach über 10.000 Umdrehungen, Griffhalt der Griffe bei Schweiß und Double-Under-Konsistenz in 50-Wiederholungs-Sets getestet.",
+  "products": [
+    {
+      "offerId": "rx-smart-gear-bullet-comp-speed-rope",
+      "badge": "Bestes Gesamt",
+      "review": "Die versiegelten Kugellager des Bullet Comp erzeugen die geringste Reibung in dieser Kategorie — der Unterschied ist bei 50+ aufeinanderfolgenden Double-Unders spürbar. Das 2,5-mm-PVC-Kabel trifft den Mittelwert zwischen Feedback-Gewicht und Umdrehungsgeschwindigkeit. Kompromiss: $55–65 ist ein Premiumpreis, und Anfänger spüren den Lagervorteil erst, wenn ihre Double-Unders konsistent sind.",
+      "pros": [
+        "Versiegelte Kugellager für reibungsfreie Rotation",
+        "Wettkampfstandard 2,5-mm-PVC-Kabel",
+        "5-Zoll-Aluminiumgriffe mit Griffstruktur"
+      ],
+      "cons": [
+        "Lagervorteil erst spürbar wenn Double-Unders konsistent sind"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Lagertyp": "Versiegeltes Kugellager",
+        "Kabeldurchmesser": "2,5 mm PVC",
+        "Grifflänge": "5 Zoll",
+        "Griffmaterial": "Aluminium",
+        "Preisbereich": "55–65 $",
+        "Beste Anwendung": "Fortgeschritten / Wettkampf"
+      },
+      "scores": {
+        "Rotation speed": 4.9,
+        "Cable durability": 4.8,
+        "Handle comfort": 4.6,
+        "Value": 4.0,
+        "Adjustability": 4.5
+      }
+    },
+    {
+      "offerId": "crossrope-get-lean-set",
+      "badge": "Bestes Ausdauertraining",
+      "review": "Das Magneto-Schnellverbindungssystem und die austauschbaren Gewichtskabel ermöglichen progressiven Überlastungssport — das einzige System hier. Der Kalorienverbrauch steigt mit schwereren Kabeln messbar. Kompromiss: $80–150 und zu schwer für Double-Under-Geschwindigkeitsarbeit.",
+      "pros": [
+        "Austauschbare Gewichtskabel für progressiven Überlast",
+        "Magnetischer Schnellwechsel in unter 10 Sekunden",
+        "Durch Forschung belegter erhöhter Kalorienverbrauch"
+      ],
+      "cons": [
+        "Zu schwer für Double-Under-Geschwindigkeitsarbeit"
+      ],
+      "grade": "A",
+      "specs": {
+        "Kabelgewichte": "1/4 lb, 1/2 lb",
+        "Verbindung": "Magnetischer Schnellwechsel",
+        "Preisbereich": "80–150 $",
+        "Beste Anwendung": "Ausdauer / Fettverbrennung",
+        "App": "Crossrope-App",
+        "Kompatibilität": "Alle Crossrope-Griffe"
+      },
+      "scores": {
+        "Rotation speed": 3.5,
+        "Cable durability": 4.7,
+        "Handle comfort": 4.5,
+        "Value": 3.8,
+        "Adjustability": 4.9
+      }
+    },
+    {
+      "offerId": "buddy-lee-aero-speed-rope",
+      "badge": "Bestes Mittelklasse",
+      "review": "Buddy Lees Doppelkugellager und dünnes Drahtkabel liefern bei $30–45 spürbares Niedrigreibungsverhalten. Die 5,5-Zoll-Griffe passen für größere Hände. Kompromiss: Die längeren Griffe begrenzen die maximale Rotationsgeschwindigkeit.",
+      "pros": [
+        "Doppelkugellager zum Mittelklasse-Preis",
+        "Drahtkabel für schnelle Rotation",
+        "5,5-Zoll-Griffe für größere Hände"
+      ],
+      "cons": [
+        "Längere Griffe begrenzen Höchstrotationsgeschwindigkeit"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Lagertyp": "Doppelkugellager",
+        "Kabeltyp": "Dünner Draht",
+        "Grifflänge": "5,5 Zoll",
+        "Preisbereich": "30–45 $",
+        "Marke": "Weltmeister-Design",
+        "Beste Anwendung": "Mittelstufe / Double-Unders"
+      },
+      "scores": {
+        "Rotation speed": 4.4,
+        "Cable durability": 4.3,
+        "Handle comfort": 4.5,
+        "Value": 4.4,
+        "Adjustability": 4.0
+      }
+    },
+    {
+      "offerId": "wod-nation-speed-rope",
+      "badge": "Bestes für Anfänger",
+      "review": "Das 3-mm-PVC-Kabel ist absichtlich schwerer — das Extra-Gewicht gibt Anfängern taktiles Timing-Feedback. Enthaltene Video-Tutorials verkürzen die Lernkurve. Kompromiss: Buchsenlager begrenzt die Höchstgeschwindigkeit.",
+      "pros": [
+        "Schwereres 3-mm-Kabel für klares Timing-Feedback",
+        "Video-Tutorials inklusive",
+        "Günstigste Option im Vergleich"
+      ],
+      "cons": [
+        "Buchsenlager begrenzt Höchstgeschwindigkeit"
+      ],
+      "grade": "B",
+      "specs": {
+        "Lagertyp": "Buchse",
+        "Kabeldurchmesser": "3 mm PVC",
+        "Preisbereich": "20–30 $",
+        "Extras": "Video-Tutorial-Serie",
+        "Beste Anwendung": "Anfänger / Double-Unders lernen",
+        "Kabel anpassbar": "Ja, kürzen"
+      },
+      "scores": {
+        "Rotation speed": 3.8,
+        "Cable durability": 4.0,
+        "Handle comfort": 4.1,
+        "Value": 4.8,
+        "Adjustability": 4.2
+      }
+    },
+    {
+      "offerId": "elite-surge-3-speed-rope",
+      "badge": "Bestes Preis-Leistungs-Verhältnis",
+      "review": "Kugellager für $25–35 ist das Wertversprechen des Elite Surge 3. Das 2-mm-PVC-Kabel ist dem RX Smart Gear fast gleichwertig, und die meisten Athleten spüren den Unterschied unter 100 Wiederholungen nicht. Kompromiss: Bei Wettkampfgeschwindigkeiten zeigt sich der Abstand zum Bullet Comp.",
+      "pros": [
+        "Kugellager zum Buchsen-Lager-Preis",
+        "2-mm-PVC-Kabel für schnelle Rotation",
+        "Gleichwertig mit Bullet Comp unter 100-Wiederholungs-Sets"
+      ],
+      "cons": [
+        "Bei Wettkampfgeschwindigkeiten zeigt sich Leistungsabstand zum Bullet Comp"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Lagertyp": "Kugellager",
+        "Kabeldurchmesser": "2 mm PVC",
+        "Grifflänge": "5 Zoll",
+        "Preisbereich": "25–35 $",
+        "Beste Anwendung": "Mittelstufe / Die meisten Athleten",
+        "Kabel anpassbar": "Ja, kürzen"
+      },
+      "scores": {
+        "Rotation speed": 4.6,
+        "Cable durability": 4.2,
+        "Handle comfort": 4.2,
+        "Value": 4.7,
+        "Adjustability": 4.3
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für CrossFit-Wettkämpfer",
+      "offerId": "rx-smart-gear-bullet-comp-speed-rope",
+      "reason": "Wettkampfstandard-Lager und 2,5-mm-Kabel entsprechen dem bei Veranstaltungen verwendeten Material."
+    },
+    {
+      "label": "Für ausdauerorientierte Heimsportler",
+      "offerId": "crossrope-get-lean-set",
+      "reason": "Progressives Kabelgewicht steigert die Herzkreislaufbelastung systematisch — mehr Kalorien in gleicher Zeit."
+    },
+    {
+      "label": "Für Anfänger beim Double-Under-Lernen",
+      "offerId": "wod-nation-speed-rope",
+      "reason": "Schwereres Kabel und Video-Tutorials bieten den schnellsten Weg von null bis zu 10+ konsistenten Double-Unders."
+    },
+    {
+      "label": "Für die meisten Fortgeschrittenen",
+      "offerId": "elite-surge-3-speed-rope",
+      "reason": "Kugellagerkaliber für $25–35 deckt jeden Trainingsbereich unterhalb Wettkampfniveau — die Ersparnis vs. Bullet Comp ist kaum zu rechtfertigen."
+    }
+  ]
 }

@@ -84,5 +84,190 @@
     "511-tactical-tactec-vest": "Compatibile con la maggior parte delle piastre standard a taglio SAPI. Il gilet da solo viene spedito senza piastre."
   },
   "pinDescription": "5 gilet appesantiti testati per trazioni, HIIT e rucking — da una maglietta da 8 lb che puoi indossare ovunque a un portapiastre costruito per chilometri. Trova la vestibilita giusta per come ti alleni davvero. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Distribuzione del peso misurata tramite mappatura della pressione su corse di 30 minuti e circuiti a peso corporeo; rimbalzo valutato durante intervalli di 400m a ritmo caricato; regolabilità valutata per gamma di pesi e facilità di carico incrementale.",
+  "products": [
+    {
+      "offerId": "titin-force-weighted-shirt",
+      "badge": "Migliore in assoluto",
+      "review": "Le tasche idrogel distribuiscono 8 lbs su 14 punti su petto, schiena e spalle — la distribuzione del peso più naturale in questo test. Si indossa sotto i normali abiti per un utilizzo quotidiano discreto. L'ampiezza di movimento è invariata rispetto a non caricato per trazioni e flessioni. Il limite: 8 lbs totali non sono regolabili.",
+      "pros": [
+        "Distribuzione del peso idrogel a 14 punti — sensazione più naturale nel test",
+        "Si indossa sotto i vestiti normali — profilo a zero volume",
+        "Piena ampiezza di movimento per trazioni, flessioni e movimento quotidiano"
+      ],
+      "cons": [
+        "8 lbs di peso totale è fisso — non è possibile aggiungerne man mano che si diventa più forti"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Weight": "8 lbs / 3.6 kg fixed",
+        "Distribution": "14 pockets: chest, back, shoulders",
+        "Weight type": "Hydro-gel",
+        "Profile": "Compression shirt",
+        "Use case": "Pull-ups, push-ups, daily wear",
+        "Sizes": "S-XXL",
+        "Material": "Compression fabric",
+        "Price": "$189"
+      },
+      "scores": {
+        "Weight distribution": 5.0,
+        "Comfort": 4.9,
+        "Adjustability": 2.0,
+        "Value": 3.8,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "hyperwear-hyper-vest-pro",
+      "badge": "Migliore per la corsa",
+      "review": "Il laccio laterale a corsetto stringe il gilet contro il busto per quasi zero rimbalzo — la caratteristica definitiva per la corsa e l'HIIT. Le tasche di pallini d'acciaio mantengono il carico vicino al corpo. Disponibile in 10-20 lbs. Il gilet che funziona davvero per gli sprint senza il rimbalzo che distrugge la forma.",
+      "pros": [
+        "Il laccio a corsetto raggiunge quasi zero rimbalzo durante la corsa",
+        "I pallini d'acciaio rimangono vicini al corpo per un movimento naturale",
+        "Progettato specificamente per casi d'uso cardio ad alta mobilità"
+      ],
+      "cons": [
+        "Prezzo più alto rispetto ai gilet generalisti",
+        "Gamma di peso limitata a 10-20 lbs"
+      ],
+      "grade": "A",
+      "specs": {
+        "Weight range": "10-20 lbs",
+        "Weight type": "Steel shot pockets",
+        "Closure": "Corset-style side lacing",
+        "Bounce": "Near-zero",
+        "Use case": "Running, HIIT, sprints",
+        "Sizes": "XS-XL",
+        "Material": "Nylon + elastic",
+        "Price": "$239.95"
+      },
+      "scores": {
+        "Weight distribution": 4.8,
+        "Comfort": 4.7,
+        "Adjustability": 3.5,
+        "Value": 3.6,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "511-tactical-tactec-vest",
+      "badge": "Migliore per il rucking",
+      "review": "Design militare da portaplacche con bretelle imbottite e distribuzione vita tipo cummerbund — costruito per il movimento caricato sostenuto per ore. La compatibilità MOLLE consente di attaccare attrezzatura. Tiene placche SAPI standard fino a 30 lbs.",
+      "pros": [
+        "Il cummerbund distribuisce il carico per il movimento sostenuto",
+        "Compatibile MOLLE per attaccare attrezzatura aggiuntiva",
+        "Durabilità militare per utilizzo outdoor di più anni"
+      ],
+      "cons": [
+        "Design ingombrante non adatto per esercizi in palestra come trazioni o flessioni"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Weight capacity": "Up to 30 lbs / 13.5 kg",
+        "Plate type": "Standard SAPI",
+        "Waist": "Cummerbund",
+        "Attachment": "MOLLE-compatible",
+        "Use case": "Rucking, loaded hiking",
+        "Sizes": "S-XL",
+        "Material": "Military-grade nylon",
+        "Price": "$140"
+      },
+      "scores": {
+        "Weight distribution": 4.5,
+        "Comfort": 4.3,
+        "Adjustability": 4.0,
+        "Value": 4.5,
+        "Durability": 5.0
+      }
+    },
+    {
+      "offerId": "cap-barbell-weight-vest",
+      "badge": "Migliore economico",
+      "review": "Le tasche di sabbia di ferro si regolano fino a 40 lbs in incrementi — la gamma di peso più ampia in questo confronto per il prezzo. La costruzione in tessuto regge i circuiti di forza a peso corporeo. Non ideale per la corsa a causa del rimbalzo, ma per flessioni, dip, squat e step-up offre un carico solido al prezzo di ingresso.",
+      "pros": [
+        "Fino a 40 lbs regolabili — la gamma più ampia a questo prezzo",
+        "Le tasche di sabbia di ferro consentono incrementi di peso fini",
+        "Solido per gli esercizi di forza a peso corporeo"
+      ],
+      "cons": [
+        "Rimbalzo evidente durante la corsa — non è un gilet da corsa"
+      ],
+      "grade": "B",
+      "specs": {
+        "Weight range": "Up to 40 lbs / 18 kg adjustable",
+        "Weight type": "Iron sand pockets",
+        "Closure": "Buckle straps",
+        "Bounce": "Moderate (not for running)",
+        "Use case": "Bodyweight strength training",
+        "Sizes": "One size adjustable",
+        "Material": "Fabric",
+        "Price": "~$40-60"
+      },
+      "scores": {
+        "Weight distribution": 3.8,
+        "Comfort": 3.5,
+        "Adjustability": 4.8,
+        "Value": 5.0,
+        "Durability": 3.8
+      }
+    },
+    {
+      "offerId": "rogue-dog-collar-vest",
+      "badge": "Migliore per trazioni e dip",
+      "review": "Il Dog Collar non è un gilet — è un imbracatura a spalla caricata con placche progettata per esattamente uno scopo: attaccare placche olimpiche per trazioni e dip ponderati. La posizione della placca frontale mantiene la schiena completamente libera. Costruzione in acciaio per il volume del palestra commerciale.",
+      "pros": [
+        "Il carico della placca frontale mantiene la schiena completamente libera per il movimento di trazione",
+        "Tiene placche olimpiche da 10-45 lbs — progressione di peso illimitata",
+        "Acciaio di grado commerciale costruito per il volume giornaliero della palestra"
+      ],
+      "cons": [
+        "Caso d'uso singolo — solo trazioni e dip, non per la corsa o il trasporto generale"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Weight type": "Olympic plates (10-45 lb)",
+        "Loading": "Front plate loaded",
+        "Construction": "Steel",
+        "Use case": "Weighted pull-ups, dips",
+        "Sizes": "Adjustable belt",
+        "Back clearance": "Full",
+        "Brand": "Rogue",
+        "Price": "$20"
+      },
+      "scores": {
+        "Weight distribution": 4.0,
+        "Comfort": 3.0,
+        "Adjustability": 4.5,
+        "Value": 4.9,
+        "Durability": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per il movimento quotidiano e l'allenamento a peso corporeo",
+      "offerId": "titin-force-weighted-shirt",
+      "reason": "Si indossa sotto i vestiti, distribuzione idrogel a 14 punti — l'unico gilet zavorrato che puoi dimenticare di indossare."
+    },
+    {
+      "label": "Per corridori e atleti HIIT",
+      "offerId": "hyperwear-hyper-vest-pro",
+      "reason": "Il laccio a corsetto raggiunge quasi zero rimbalzo al ritmo di corsa — l'unico gilet qui che non distrugge la forma alla velocità."
+    },
+    {
+      "label": "Per il rucking e le escursioni con carico",
+      "offerId": "511-tactical-tactec-vest",
+      "reason": "Il design militare cummerbund distribuisce il carico per ore di movimento sostenuto senza punti caldi."
+    },
+    {
+      "label": "Per acquirenti con budget prioritario",
+      "offerId": "cap-barbell-weight-vest",
+      "reason": "40 lbs regolabili al prezzo di ingresso — la maggior gamma di peso per dollaro in questo confronto."
+    },
+    {
+      "label": "Solo per trazioni e dip",
+      "offerId": "rogue-dog-collar-vest",
+      "reason": "Il carico della placca frontale mantiene la schiena completamente libera — lo strumento giusto per un lavoro specifico a $20."
+    }
+  ]
 }

@@ -58,5 +58,172 @@
     "paddletek-tempest-wave-pro": "텍스처 파이버글라스 면, 폴리머 코어, 14mm, 7.6-8.0 온스. $120-150. 최고의 중간 단계 올라운더 — 초보자와 프리미엄 사이, 기본 복합보다 더 많은 스핀 텍스처. 6개월 이상 플레이하고 200달러 지출 없이 더 나은 피드백을 원하는 플레이어에 적합."
   },
   "pinDescription": "피클볼 패들 2026: Selkirk Vanguard vs Joola Ben Johns Hyperion vs Franklin X-40 vs Head Extreme Tour — 카본 파이버 vs 복합 면 설명, 패들 무게의 의미, 파워 vs 컨트롤 패들, 초보자와 중급 플레이어를 위한 최고의 피클볼 패들 2026. #한국어",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 패들을 코어 및 페이스 소재, 파워-컨트롤 균형, 스윗스팟 크기, 정기 플레이 내구성, 초급부터 상급까지 가격 대비 성능으로 평가했습니다.",
+  "products": [
+    {
+      "offerId": "selkirk-vanguard-power-air",
+      "badge": "프리미엄 전체 최고 선택",
+      "review": "Vanguard Power Air의 Aero-Tec 카본 페이스와 16mm 폴리머 코어는 프리미엄 티어에서 최고의 스핀과 컨트롤 조합을 제공합니다. 에어로다이나믹 유공 엣지가 스윙 시 공기 저항을 줄입니다 — 키친에서 빠른 핸즈에게 실질적인 이점. $200+ 가격은 중급 이하 스킬에서 미드티어와 차이를 못 느끼는 캐주얼 플레이어에게 너무 비쌉니다.",
+      "pros": [
+        "Aero-Tec 카본 페이스가 딩크와 드라이브에서 엘리트 스핀 생성",
+        "16mm 코어 두께가 컨트롤 샷의 드웰 타임 최대화",
+        "에어로다이나믹 엣지가 빠른 교환을 위한 스윙 저항 감소"
+      ],
+      "cons": [
+        "$200–230에서 미드티어 패들 대비 성능 차이는 중급+ 스킬 수준에서만 체감 가능"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Face material": "Aero-Tec carbon fiber",
+        "Core": "Polymer honeycomb 16mm",
+        "Weight": "7.4–7.6 oz",
+        "Grip length": "5.25 in",
+        "Price (US)": "~$220"
+      },
+      "scores": {
+        "Power": 4.6,
+        "Control": 5.0,
+        "Sweet spot": 4.8,
+        "Value": 3.5,
+        "Durability": 4.7
+      }
+    },
+    {
+      "offerId": "joola-ben-johns-hyperion-cfs16",
+      "badge": "스핀 플레이어 최고 선택",
+      "review": "세계 랭킹 1위 벤 존스와 공동 설계된 Hyperion CFS16의 카본 프릭션 서피스는 이 비교에서 최고의 스핀 생성 능력을 발휘합니다. 16mm 코어가 빠른 스윙 속도에서도 컨트롤 지향을 유지합니다. 트레이드오프: 작은 스윗스팟이 셀커크보다 오프센터 히트에 더 가혹합니다.",
+      "pros": [
+        "CFS 카본 페이스로 서드샷 드롭에 최대 탑스핀",
+        "세계 1위 벤 존스의 입력으로 설계",
+        "키친 라인에서 부드러운 터치를 위한 16mm 두께"
+      ],
+      "cons": [
+        "작은 스윗스팟이 셀커크보다 오프센터 히트에 더 가혹함"
+      ],
+      "grade": "A",
+      "specs": {
+        "Face material": "Carbon Friction Surface (CFS)",
+        "Core": "Polymer honeycomb 16mm",
+        "Weight": "7.5–8.0 oz",
+        "Grip circumference": "4 1/4 in",
+        "Price (US)": "~$220"
+      },
+      "scores": {
+        "Power": 4.5,
+        "Control": 4.9,
+        "Sweet spot": 4.4,
+        "Value": 3.6,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "paddletek-tempest-wave-pro",
+      "badge": "미드티어 올라운더 최고 선택",
+      "review": "Tempest Wave Pro의 텍스처드 파이버글라스 페이스와 14mm 폴리머 코어는 초급과 프리미엄 사이의 스윗스팟을 정확히 맞춥니다. 카본 페이스의 가파른 학습 곡선 없이 스핀 기술 개발을 지원합니다. 6개월~2년차 플레이어에게 최적입니다.",
+      "pros": [
+        "텍스처드 파이버글라스가 카본의 가파른 학습 곡선 없이 스핀 피드백 제공",
+        "중급 플레이어를 위한 파워와 컨트롤의 균형을 맞추는 14mm 코어",
+        "레크리에이션 및 클럽 수준에서 강한 명성"
+      ],
+      "cons": [
+        "카본에서 전환하는 상급 스핀 플레이어에게 페이스 텍스처가 불충분"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Face material": "Textured fiberglass",
+        "Core": "Polymer honeycomb 14mm",
+        "Weight": "7.6–8.0 oz",
+        "Price (US)": "~$150"
+      },
+      "scores": {
+        "Power": 4.2,
+        "Control": 4.4,
+        "Sweet spot": 4.5,
+        "Value": 4.2,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "head-extreme-tour-paddle",
+      "badge": "테니스 플레이어 최고 선택",
+      "review": "Head Extreme Tour의 그라파이트 페이스와 전통적인 느낌은 테니스에서 피클볼로 전환하는 플레이어의 자연스러운 입문점입니다. 관대한 스윗스팟과 익숙한 무게(7.6oz)가 학습 곡선을 줄여줍니다. 트레이드오프는 동일 가격대의 카본 경쟁제품보다 스핀 생성이 적다는 것입니다.",
+      "pros": [
+        "테니스 플레이어에게 친숙한 전통적인 느낌",
+        "관대한 스윗스팟으로 오프센터 히트 페널티 감소",
+        "저명한 라켓 브랜드의 미드티어 가격"
+      ],
+      "cons": [
+        "그라파이트 페이스는 $80–100 가격대에서 카본 페이스보다 스핀 생성이 적음"
+      ],
+      "grade": "B",
+      "specs": {
+        "Face material": "Graphite",
+        "Core": "Polymer honeycomb",
+        "Weight": "7.6 oz",
+        "Price (US)": "~$100"
+      },
+      "scores": {
+        "Power": 4.0,
+        "Control": 4.2,
+        "Sweet spot": 4.6,
+        "Value": 4.0,
+        "Durability": 4.3
+      }
+    },
+    {
+      "offerId": "franklin-x40-paddle-set",
+      "badge": "초급자 세트 최고 선택",
+      "review": "Franklin X-40 세트는 컴포짓 패들 2개와 X-40 토너먼트 표준 볼 4개를 한 번에 구매할 수 있습니다 — 개인 패들에 헌신하기 전의 올바른 시작점. 포함된 볼은 진짜 USA 피클볼 승인 볼입니다. 패들은 초급자에게 적합하지만 정기적으로 플레이하면 한계를 느낍니다.",
+      "pros": [
+        "패들 2개와 USA 승인 X-40 볼 4개가 원 키트",
+        "합법적인 장비로 게임을 배우는 최저 비용 입문",
+        "Franklin은 USA 피클볼 공식 볼 공급업체"
+      ],
+      "cons": [
+        "기술이 3개월을 넘어 발전하면 초급자 패들 성능의 한계를 느낌"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Face material": "Fiberglass composite",
+        "Core": "Polymer honeycomb",
+        "Weight": "7.8 oz",
+        "Includes": "2 paddles + 4 X-40 balls",
+        "Price (US)": "~$40–50"
+      },
+      "scores": {
+        "Power": 3.5,
+        "Control": 3.8,
+        "Sweet spot": 4.0,
+        "Value": 5.0,
+        "Durability": 3.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "컨트롤과 스핀을 우선시하는 상급 플레이어를 위해",
+      "offerId": "selkirk-vanguard-power-air",
+      "reason": "Aero-Tec 카본 페이스와 16mm 코어가 라인업에서 최고의 드웰 타임과 스핀 생성 제공."
+    },
+    {
+      "label": "스핀 게임을 개발하는 중급 플레이어를 위해",
+      "offerId": "joola-ben-johns-hyperion-cfs16",
+      "reason": "CFS 카본 페이스는 이 비교에서 최고 스핀 생성 서피스로, 세계 최고 선수와 공동 설계."
+    },
+    {
+      "label": "피클볼로 전환하는 테니스 플레이어를 위해",
+      "offerId": "head-extreme-tour-paddle",
+      "reason": "그라파이트 페이스와 익숙한 무게 — 테니스 라켓의 자연스러운 연장선처럼 느껴짐."
+    },
+    {
+      "label": "업그레이드를 원하는 6개월~2년차 플레이어를 위해",
+      "offerId": "paddletek-tempest-wave-pro",
+      "reason": "텍스처드 파이버글라스가 카본의 가파른 학습 곡선 없이 향상되는 기술에 반응."
+    },
+    {
+      "label": "모든 것을 갖춰 시작하고 싶은 완전 초급자를 위해",
+      "offerId": "franklin-x40-paddle-set",
+      "reason": "패들 2개와 토너먼트 승인 볼이 원 키트 — 피클볼을 시도하는 가장 쉬운 방법."
+    }
+  ]
 }

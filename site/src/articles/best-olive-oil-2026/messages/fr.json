@@ -94,5 +94,174 @@
     "pompeian-smooth-evoo": "Meilleure option supermarché petit budget — largement disponible, gamme de prix la plus basse à ~0,25 $/oz en grand format, saveur douce pour les consommateurs qui n'aiment pas l'amertume. Idéale quand le budget est la contrainte principale et le volume de cuisson est élevé. Limitation : pas de date de récolte, teneur en polyphénols réduite par conception, utilité limitée en huile de finition — pas le bon choix si la fraicheur ou la valeur santé sont prioritaires."
   },
   "pinDescription": "5 huiles d'olive comparées pour 2026 : California Olive Ranch vs Kirkland vs Brightland vs Cobram vs Pompeian. Transparence de la date de récolte, point de fumée, teneur en polyphénols — trouvez l'EVOO qui correspond vraiment à votre façon de cuisiner. #huiledolive #cuisine #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque huile a été évaluée sur la transparence de la date de récolte, le coût par once, le profil de saveur et le caractère polyphénolique, l'adéquation pour la cuisson vs. l'usage en finition, et la solidité des allégations de fraîcheur compte tenu des délais typiques de la chaîne d'approvisionnement au détail.",
+  "products": [
+    {
+      "offerId": "california-olive-ranch-evoo",
+      "badge": "Meilleure Huile du Quotidien",
+      "review": "California Olive Ranch est l'huile d'olive vierge extra la plus pratique pour un usage quotidien dans les foyers américains — date de récolte imprimée sur l'étiquette avant, production nationale en Californie avec une distribution au détail efficace, et un profil de polyphénols moyen qui couvre à la fois la cuisson et la finition légère à ~0,45 $/oz. Le mélange incorpore parfois des sources internationales ; vérifiez l'étiquette pour les SKU exclusivement nationaux si l'origine est importante.",
+      "pros": [
+        "Date de récolte indiquée — fraîcheur vérifiable à l'achat",
+        "~0,45 $/oz — prix accessible pour une HVOE nationale de qualité",
+        "Couvre à la fois les usages de cuisson et de finition légère"
+      ],
+      "cons": [
+        "Certains SKU mélangés avec des sources internationales — vérifier l'étiquette pour les versions uniquement nationales"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Origine": "Californie (+ mélange international dans certains SKU)",
+        "Prix par oz": "~0,45 $",
+        "Date de récolte": "Oui — imprimée sur l'étiquette",
+        "Niveau de polyphénols": "Moyen",
+        "Meilleur usage": "Cuisson quotidienne + finition légère",
+        "Bio": "Non (conventionnel)"
+      },
+      "scores": {
+        "Saveur": 4.5,
+        "Qualité": 4.6,
+        "Rapport qualité-prix": 4.7,
+        "Fraîcheur": 4.8,
+        "Polyvalence": 5.0
+      }
+    },
+    {
+      "offerId": "kirkland-organic-evoo",
+      "badge": "Meilleur Achat en Volume",
+      "review": "L'HVOE biologique de 2 litres de Kirkland chez Costco est le moins cher par once dans cette comparaison à ~0,31 $/oz — des économies significatives pour les foyers qui cuisinent à l'huile d'olive quotidiennement. Certifiée USDA Bio et d'origine méditerranéenne. La limitation honnête est l'absence de date de récolte, ce qui rend la fraîcheur plus difficile à vérifier ; une consommation rapide atténue cela pour les cuisines à volume élevé.",
+      "pros": [
+        "~0,31 $/oz — coût par once le plus bas dans cette comparaison",
+        "Certifiée USDA Bio",
+        "Format de 2 litres efficace pour les foyers cuisinant quotidiennement"
+      ],
+      "cons": [
+        "Pas de date de récolte — la fraîcheur dépend de la rotation des stocks en entrepôt"
+      ],
+      "grade": "A",
+      "specs": {
+        "Origine": "Méditerranée (approvisionnement Costco)",
+        "Prix par oz": "~0,31 $ (taille 2 litres Costco)",
+        "Date de récolte": "Non",
+        "Niveau de polyphénols": "Modéré",
+        "Certification": "USDA Bio",
+        "Meilleur usage": "Cuisson quotidienne à volume élevé"
+      },
+      "scores": {
+        "Saveur": 4.1,
+        "Qualité": 4.2,
+        "Rapport qualité-prix": 5.0,
+        "Fraîcheur": 3.8,
+        "Polyvalence": 4.3
+      }
+    },
+    {
+      "offerId": "brightland-alive-evoo",
+      "badge": "Meilleure Huile de Finition Premium",
+      "review": "Brightland est l'huile la plus transparente en matière de fraîcheur dans cette comparaison — date de récolte et de pressage toutes deux indiquées, et la chaîne d'approvisionnement directe aux consommateurs élimine le délai de vieillissement en distribution. La saveur affirmée, herbeuse et riche en polyphénols du mélange californien Arbequina/Arbosana se goûte mieux sans chauffage. L'utiliser pour faire revenir des oignons à 3,25 $/oz est économiquement absurde ; pour finir des salades, pâtes et légumes grillés, la saveur justifie le prix.",
+      "pros": [
+        "Date de récolte et de pressage toutes deux indiquées — transparence de fraîcheur maximale",
+        "Mélange californien riche en polyphénols avec une saveur herbeuse affirmée",
+        "Chaîne d'approvisionnement directe aux consommateurs minimise le délai de vieillissement"
+      ],
+      "cons": [
+        "3,25 $/oz — économiquement adapté uniquement à l'usage en finition, pas à la cuisson"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Origine": "Californie (Arbequina + Arbosana)",
+        "Prix par oz": "~3,25 $ (bouteille 375 ml)",
+        "Date de récolte": "Oui — dates de récolte et de pressage indiquées",
+        "Niveau de polyphénols": "Élevé",
+        "Chaîne d'approvisionnement": "Directe aux consommateurs",
+        "Meilleur usage": "Finition sans chauffage"
+      },
+      "scores": {
+        "Saveur": 5.0,
+        "Qualité": 5.0,
+        "Rapport qualité-prix": 2.8,
+        "Fraîcheur": 5.0,
+        "Polyvalence": 3.5
+      }
+    },
+    {
+      "offerId": "cobram-estate-robust-evoo",
+      "badge": "Meilleure pour la Cuisson à Haute Température",
+      "review": "Cobram Estate Robust utilise les variétés Coratina et Koroneiki spécifiquement pour une teneur en polyphénols plus élevée et une stabilité oxydative aux températures de cuisson. Date de récolte indiquée sur les bouteilles du marché américain. Le profil de saveur poivré et affirmé n'est pas universellement apprécié, mais il résiste mieux à la chaleur que les HVOE douces — le bon choix lorsque le sauté ou le rôtissage est l'application principale.",
+      "pros": [
+        "Mélange Coratina/Koroneiki riche en polyphénols pour la stabilité oxydative à la chaleur",
+        "Date de récolte indiquée sur les bouteilles du marché américain",
+        "La saveur poivrée résiste mieux que les huiles douces aux températures de cuisson"
+      ],
+      "cons": [
+        "La saveur poivrée affirmée ne convient pas aux applications à saveur douce"
+      ],
+      "grade": "B",
+      "specs": {
+        "Origine": "Australie / Californie",
+        "Prix par oz": "~0,50 $",
+        "Date de récolte": "Oui",
+        "Niveau de polyphénols": "Élevé",
+        "Variétés": "Coratina + Koroneiki",
+        "Meilleur usage": "Cuisson à haute température"
+      },
+      "scores": {
+        "Saveur": 4.6,
+        "Qualité": 4.8,
+        "Rapport qualité-prix": 4.3,
+        "Fraîcheur": 4.6,
+        "Polyvalence": 4.0
+      }
+    },
+    {
+      "offerId": "pompeian-smooth-evoo",
+      "badge": "Meilleure Option Économique en Supermarché",
+      "review": "Pompeian Smooth est filtré pour supprimer l'amertume que les polyphénols créent — un choix délibéré du consommateur qui réduit également la teneur en polyphénols et l'utilité comme huile de finition. À ~0,25 $/oz, c'est l'option la moins chère ici, largement disponible dans les supermarchés, et adéquate pour la cuisson à volume élevé où le goût de l'huile n'est pas le point.",
+      "pros": [
+        "~0,25 $/oz — prix le plus bas dans cette comparaison",
+        "Largement disponible dans les supermarchés conventionnels",
+        "Goût doux filtré pour les consommateurs qui n'aiment pas l'amertume"
+      ],
+      "cons": [
+        "Pas de date de récolte ; teneur en polyphénols la plus faible par conception ; utilité limitée comme huile de finition"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Origine": "Mélange méditerranéen",
+        "Prix par oz": "~0,25 $ (grand format)",
+        "Date de récolte": "Non",
+        "Niveau de polyphénols": "Faible (filtré pour la douceur)",
+        "Profil de saveur": "Doux, neutre",
+        "Meilleur usage": "Cuisson économique à volume élevé"
+      },
+      "scores": {
+        "Saveur": 3.5,
+        "Qualité": 3.6,
+        "Rapport qualité-prix": 5.0,
+        "Fraîcheur": 3.2,
+        "Polyvalence": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour la cuisine quotidienne à domicile",
+      "offerId": "california-olive-ranch-evoo",
+      "reason": "Transparence de la date de récolte, production nationale et un prix qui ne nécessite pas de rationnement — la bouteille qui couvre la plupart des usages en cuisine sans compromis."
+    },
+    {
+      "label": "Pour les cuisiniers quotidiens à volume élevé",
+      "offerId": "kirkland-organic-evoo",
+      "reason": "Le format 2 litres de Costco à ~0,31 $/oz rend la cuisson quotidienne à l'huile d'olive véritablement économique ; la consommation rapide gère le compromis de fraîcheur."
+    },
+    {
+      "label": "Pour les amateurs d'huile de finition",
+      "offerId": "brightland-alive-evoo",
+      "reason": "Date de récolte et de pressage imprimées, fraîcheur directe du producteur, et une saveur riche en polyphénols qui se goûte mieux arrosée sans chauffage sur une salade ou des pâtes."
+    },
+    {
+      "label": "Pour le sauté et le rôtissage à haute température",
+      "offerId": "cobram-estate-robust-evoo",
+      "reason": "La désignation Robust signale des variétés Coratina/Koroneiki à teneur plus élevée en polyphénols, spécifiquement sélectionnées pour la stabilité oxydative aux températures de cuisson."
+    }
+  ]
 }

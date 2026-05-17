@@ -108,5 +108,64 @@
     "fellow-stagg-ekg": "Praezisions-Pour-Over-Elektro-Schwanenhals-Benchmark -- Fellow Stagg EKG 0,9-L-Elektrokocher mit ausgeglichenem Griff, kontinuierlichem Temperaturdial (ungefaehr 60-100°C), 60-minuetigem Warmhalten, mattem schwarzem Finish. ¥165+-Importpreis; Verfuegbarkeit bei japanischen Einzelhaendlern ist uneinheitlich mit gelegentlichen mehrwoechigen Ausverkaufs-Situationen."
   },
   "pinDescription": "Fuenf Wasserkocher verglichen 2026 -- vom Designikone Balmuda The Pot fuer ¥15.000 (600 ml, keine Temperaturregelung, aber atemberaubend im Kuechenregal) bis zum Fellow Stagg EKG Praezisions-Pour-Over-Benchmark. Schwanenhals vs Breitausguss ehrlich erklaert, Temperatur fuer Gruenetee und Kaffee, Kapazitaet fuer 1-4 Personen. #Wasserkocher #PourOverKaffee #japanischerTee #Kueche2026 #deutsch",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Jeder Wasserkocher wurde bewertet auf Ausgusstyp und Giessbogeokontrolle fuer Pour-over und Teezeremonie, Temperaturregelungsgenauigkeit fuer Gruenetee und Kaffeeextraktion, Kapazitaetseignung fuer 1-4 Personen Haushalte und realistische Lebensdauer basierend auf dominanten Fehlerbildern aus Langzeit-Eigentuemerbewertungen.",
+  "products": [
+    {
+      "offerId": "fellow-stagg-ekg",
+      "badge": "Bestes Gesamtprodukt",
+      "review": "Der ausgeglichene Griff und das stufenlose Temperaturrad des Fellow Stagg EKG machen ihn zum praezisesten Pour-over-Kocher in dieser Gruppe — auf 93 °C einstellen und 60 Minuten lang halten, ohne einen Herd zu verwalten. Das 0,9-L-Fassungsvermoegen ist fuer aufeinanderfolgende Bruehvorgaenge eng, und die Verfuegbarkeit in Japan schwankt mit mehrwoechigen Lieferengpaessen.",
+      "pros": ["Stufenloses Temperaturrad von ca. 60 bis 100 °C", "60 Minuten Warmhaltefunktion haelt Pour-over-Temperatur ohne manuelle Eingriffe", "Ausgeglichener Griff ermoeglicht langsames praezises Schwanenhals-Giessen"],
+      "cons": ["0,9 L erfordert nachfuellen fuer Haushalte die mehrere Tassen hintereinander brauen", "Importpreis in Japan 20-40% ueber US-MSRP mit gelegentlichen Lieferengpaessen"],
+      "grade": "A+",
+      "specs": {"Fassungsvermoegen": "0,9 L", "Ausguss": "Schwanenhals", "Temperaturregelung": "Stufenloses Rad ca. 60-100 °C", "Warmhalten": "60 Min", "Heizung": "Elektrisch", "Preis": "US$165+ (Import)"},
+      "scores": {"Aufheizgeschwindigkeit": 4.3, "Temperaturregelung": 5.0, "Verarbeitungsqualitaet": 4.9, "Preis-Leistung": 3.5, "Fassungsvermoegen": 3.2}
+    },
+    {
+      "offerId": "balmuda-the-pot",
+      "badge": "Bestes Design",
+      "review": "Der Balmuda The Pot ist der schoenste Kocher in diesem Vergleich und ehrlich ueber seine Grenzen — 600 ml, keine Temperaturregelung, keine Warmhaltefunktion, nur ein matter Edelstahl-Schwanenhals der genau richtig auf einer Tokyoter Apartment-Arbeitsplatte aussieht. Die ¥15.000 zahlt man fuer das Design, nicht fuer die Bruehspezifikationen.",
+      "pros": ["Ikonisches mattes Edelstahldesign das seinen Platz auf der Arbeitsplatte verdient", "Ultraschmaler Ausguss bietet vernuenftigen Giessbogeokontrolle", "IH- und gaskompatibel ohne digitale Bauteile die versagen koennen"],
+      "cons": ["600 ml reicht fuer Haushalte mit mehr als zwei Personen kaum ohne Nachfuellen", "Keine Temperaturregelung und kein Warmhalten erfordert die Kochen-und-Warten-Methode"],
+      "grade": "A",
+      "specs": {"Fassungsvermoegen": "600 ml", "Ausguss": "Ultraschmaler Schwanenhals", "Temperaturregelung": "Keine", "Warmhalten": "Keine", "Heizung": "IH/Gasherd", "Preis": "ca. ¥15.000"},
+      "scores": {"Aufheizgeschwindigkeit": 3.8, "Temperaturregelung": 1.0, "Verarbeitungsqualitaet": 4.8, "Preis-Leistung": 3.2, "Fassungsvermoegen": 2.5}
+    },
+    {
+      "offerId": "hario-v60-buono-kettle",
+      "badge": "Bester Herdkocher",
+      "review": "Der Hario V60 Drip Kettle Buono ist der Kocher auf den sich die japanische Pour-over-Gemeinde standardisiert hat — 1,2 L Edelstahl, praeziser Schwanenhals und ein Giessbogen dem die Specialty-Coffee-Welt seit ueber einem Jahrzehnt vertraut. Keine elektrische Warmhaltefunktion bedeutet Herdbedienung selbst, und der Griff erhitzt sich an Gasherden schneller als erwartet.",
+      "pros": ["1,2 L deckt zwei bis drei Pour-over-Portionen ohne Nachfuellen ab", "Bewaehrter Schwanenhals-Giessbogen fuer V60, Chemex und Kalita Wave", "Vollstaendig rostfreies Inneres ist inert und leicht zu reinigen"],
+      "cons": ["Keine Warmhaltefunktion — Herdbedienung waehrend einer Pour-over-Sitzung erforderlich", "Griff erhitzt sich an Gasherden und benoetigt nach laengerem Einsatz einen Topflappen"],
+      "grade": "B+",
+      "specs": {"Fassungsvermoegen": "1,2 L", "Ausguss": "Schwanenhals", "Temperaturregelung": "Keine (nur Herdkontrolle)", "Warmhalten": "Keine", "Heizung": "IH/Gasherd", "Preis": "ca. $65"},
+      "scores": {"Aufheizgeschwindigkeit": 3.5, "Temperaturregelung": 2.0, "Verarbeitungsqualitaet": 4.5, "Preis-Leistung": 4.7, "Fassungsvermoegen": 4.2}
+    },
+    {
+      "offerId": "zojirushi-keep-warm-pot",
+      "badge": "Bester ganztaegiger Heisswasserkocher",
+      "review": "Der Zojirushi CV-GB22 ist kein Pour-over-Kocher — er ist eine Heisswasserstation. Einmal befuellen, eine von vier Temperaturen einstellen (60/70/80/98 °C) und den ganzen Tag ohne Nachkochen zapfen. Pumpenentnahme und Kindersicherungsdeckel machen ihn ideal fuer Haushalte die kontinuierlich heisses Wasser benoetigen, er beansprucht jedoch erheblich Arbeitsflaeche.",
+      "pros": ["Vier Temperaturvoreinstellungen (60/70/80/98 °C) fuer Gruenetee, Schwarztee und kochendes Wasser", "Ganztaegiges Warmhalten mit automatischem Nachkochen — kein manuelles Nachheizen", "Kindersicherungsdeckel und PSE-Zertifizierung fuer Dauerbetrieb"],
+      "cons": ["Stationaeres Kuechengeraet — sperriger als jede Kocher-Version", "Pumpenmechanismus erfordert in Hartwassergebieten monatliche bis zweimonatliche Entkalkung"],
+      "grade": "B",
+      "specs": {"Fassungsvermoegen": "2,2 L", "Ausguss": "Pumpenentnahme", "Temperatureinstellungen": "60/70/80/98 °C", "Warmhalten": "Ganztaegig (Auto-Nachkochen)", "Heizung": "Elektrisch", "Preis": "¥6.578"},
+      "scores": {"Aufheizgeschwindigkeit": 3.0, "Temperaturregelung": 4.5, "Verarbeitungsqualitaet": 4.6, "Preis-Leistung": 4.8, "Fassungsvermoegen": 5.0}
+    },
+    {
+      "offerId": "delonghi-icona-vintage-kettle",
+      "badge": "Bester fuer grosse Haushalte",
+      "review": "Der De'Longhi Icona Vintage kocht 1,7 L schnell, sitzt auf einer 360°-kabellosen Basis und sieht in einer Mid-Century-Kueche richtig aus. Er ist die unkomplizierte Wahl fuer Haushalte mit drei oder vier Personen die schnelles Kochen und einen breiten Ausguss wollen — nur nicht fuer Pour-over-Kaffee oder praezisen Tee.",
+      "pros": ["1,7 L deckt vier Tassen in einer Fuellung ab", "360° kabellose Basis und tropffreier Breitausguss", "Schnellkochfunktion mit automatischer Abschaltung"],
+      "cons": ["Breiter Ausguss ist zu schnell fuer Pour-over-Kaffee oder praezise Zubereitung", "Bei voller Fuellung schwer (~2,5 kg); Kunststoffinneres setzt in Hartwassergebieten schneller Kalk an"],
+      "grade": "B-",
+      "specs": {"Fassungsvermoegen": "1,7 L", "Ausguss": "Breit (tropffrei)", "Temperaturregelung": "Keine", "Warmhalten": "Keine", "Heizung": "Elektrisch 360° kabellos", "Preis": "$89,99"},
+      "scores": {"Aufheizgeschwindigkeit": 4.8, "Temperaturregelung": 1.0, "Verarbeitungsqualitaet": 3.8, "Preis-Leistung": 4.0, "Fassungsvermoegen": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Fuer Pour-over-Kaffeeliebhaber", "offerId": "fellow-stagg-ekg", "reason": "Stufenloses Temperaturrad und 60 Minuten Warmhalten lassen Sie 93 °C einstellen und waehrend einer vollstaendigen Pour-over-Sitzung aufrechterhalten ohne den Herd zu beobachten."},
+    {"label": "Fuer designbewusste Minimalisten", "offerId": "balmuda-the-pot", "reason": "Der matte Edelstahl-Schwanenhals ist der fotogenste Kocher in diesem Vergleich — lohnt sich fuer ¥15.000 wenn die Arbeitsplatzenasthetik fuer Sie wichtig ist."},
+    {"label": "Fuer Herd-Pour-over-Brauerliebhaber", "offerId": "hario-v60-buono-kettle", "reason": "Der Referenz-Schwanenhalskocher der japanischen Specialty-Coffee-Gemeinde zu einem Bruchteil der elektrischen Alternativen — laesst Budget fuer einen besseren Mahlkopf uebrig."},
+    {"label": "Fuer Haushalte mit ganztaegigem Heisswasserbedarf", "offerId": "zojirushi-keep-warm-pot", "reason": "Einmal befuellen und vier Temperaturoptionen den ganzen Tag bereit haben — ideal wenn mehrere Personen zu verschiedenen Tageszeiten Heisswasser benoetigen."},
+    {"label": "Fuer Familien mit drei oder vier Personen", "offerId": "delonghi-icona-vintage-kettle", "reason": "1,7 L Schnellkochen deckt vier Tassen in einer Fuellung ab ohne Nachfuellen, zu einem unkomplizierten Preis fuer allgemeinen Heisswasserbedarf."}
+  ]
 }

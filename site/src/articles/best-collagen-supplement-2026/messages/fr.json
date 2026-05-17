@@ -53,5 +53,64 @@
     "bulletproof-collagen": "18g, aucune saveur detectable dans le cafe — optimise pour l'integration quotidienne dans le cafe"
   },
   "pinDescription": "Perdu par les etiquettes de supplements de collagene ? On decompte les 5 meilleures selections 2026 — par type, source et ce que la recherche dit vraiment. Peau, articulations ou cheveux : trouvez le bon pour votre objectif. #collagene #supplements #peau #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque complément a été évalué sur le type et la source de collagène, les certifications de tiers, la neutralité du goût dans le café et les smoothies, la solubilité dans les liquides froids et chauds, et le coût effectif par dose journalière avec un usage régulier.",
+  "products": [
+    {
+      "offerId": "vital-proteins-collagen",
+      "badge": "Meilleur au Global",
+      "review": "Vital Proteins a créé le marché des compléments de collagène grand public et reste la référence absolue. 20g de collagène bovin hydrolysé (Type I et III) par portion se dissout complètement dans l'eau froide, le café chaud ou les smoothies sans altérer le goût. La limite réelle : pas de certification NSF ni Informed Sport pour ceux qui requièrent une vérification de laboratoire indépendante.",
+      "pros": ["20g de collagène par portion se dissout complètement dans n'importe quelle boisson sans impact sur le goût", "80mg de Vitamine C ajoutée par portion soutient la voie de synthèse de collagène de l'organisme", "Largement disponible, qualité constante depuis plus d'une décennie de présence sur le marché"],
+      "cons": ["Pas de certification NSF ni Informed Sport — vérification indépendante de laboratoire non disponible"],
+      "grade": "A+",
+      "specs": {"Type de collagène": "Type I et III (bovin hydrolysé)", "Taille de portion": "20g par 2 cuillères", "Source": "Peau bovine de pâturage nourrie à l'herbe", "Nutriments ajoutés": "80mg de Vitamine C par portion", "Certifications": "Whole30, Paléo, sans produits laitiers, sans gluten", "Goût sans arômes": "Indétectable dans l'eau froide et le café"},
+      "scores": {"Efficacité": 4.7, "Valeur": 4.5, "Goût": 4.9, "Pureté": 4.3, "Facilité d'utilisation": 5.0}
+    },
+    {
+      "offerId": "garden-of-life-collagen",
+      "badge": "Meilleure Qualité Certifiée",
+      "review": "Garden of Life est le seul collagène USDA certifié biologique + NSF certifié pour le sport dans cette comparaison. 20g de peptides de collagène bovin avec 1,5 milliard d'UFC de probiotiques et Vitamine C. Le léger goût minéral herbacé dans la version sans arômes est notable dans l'eau pure mais disparaît dans les smoothies ou les jus. La prime de prix de 20–30% sur Vital Proteins est facile à justifier si les certifications indépendantes comptent.",
+      "pros": ["USDA certifié biologique + NSF Certifié pour le Sport — la combinaison d'accréditations tierces la plus solide dans cette catégorie", "20g de collagène avec probiotiques ajoutés (1,5 mrd UFC) pour un soutien combiné intestinal et articulaire", "Tests indépendants pour plus de 270 substances interdites pertinentes pour les athlètes de compétition"],
+      "cons": ["Léger goût minéral herbacé notable dans l'eau pure — disparaît dans les smoothies ou le jus de fruits"],
+      "grade": "A",
+      "specs": {"Type de collagène": "Type I et III (bovin nourri à l'herbe)", "Taille de portion": "20g", "Source": "USDA certifié biologique, bovin de pâturage", "Nutriments ajoutés": "1,5 mrd UFC probiotiques (L. plantarum) + Vitamine C mélange de fruits", "Certifications": "USDA Bio, NSF Certifié pour le Sport, pâturage certifié", "Goût sans arômes": "Léger minéral herbacé — indétectable dans les smoothies"},
+      "scores": {"Efficacité": 4.7, "Valeur": 4.0, "Goût": 4.4, "Pureté": 5.0, "Facilité d'utilisation": 4.7}
+    },
+    {
+      "offerId": "ancient-nutrition-collagen",
+      "badge": "Meilleure Formule Multi-types",
+      "review": "Ancient Nutrition est le seul produit de cette comparaison construit sur une vraie base de bouillon d'os. Le mélange couvre les cinq principaux types de collagène de quatre sources animales. Le goût plus terreux dans les liquides chauds est réel mais gérable avec les versions aromatisées ; sans arômes fonctionne mieux dans les smoothies.",
+      "pros": ["5 types de collagène (I, II, III, V, X) de 4 sources animales — la formule à couverture la plus large", "La base de bouillon d'os retient la glycine, la glutamine et d'autres acides aminés de la cuisson d'aliments entiers", "Largement disponible chez Costco, Walmart et Target — friction minimale pour recommander"],
+      "cons": ["Goût plus terreux et prononcé que les peptides de collagène purs — sans arômes, mieux dans les smoothies"],
+      "grade": "B+",
+      "specs": {"Type de collagène": "Types I, II, III, V, X (multi-collagène)", "Taille de portion": "~20g", "Source": "Bovin, poulet (cartilage sternal), poisson, membrane de coquille d'œuf", "Nutriments ajoutés": "Base de bouillon d'os avec glycine et glutamine", "Certifications": "Variable selon le SKU — vérifier le CoA actuel", "Goût sans arômes": "Terreux, caractère de bouillon d'os — mieux dans les smoothies"},
+      "scores": {"Efficacité": 4.6, "Valeur": 4.3, "Goût": 3.9, "Pureté": 4.2, "Facilité d'utilisation": 4.5}
+    },
+    {
+      "offerId": "sports-research-collagen",
+      "badge": "Meilleur Rapport Qualité-Prix avec Certification",
+      "review": "Sports Research présente l'argument de valeur le plus clairement : certification BSCG (l'un des programmes de test tiers les plus stricts) à un prix 10–15% inférieur à Vital Proteins. 11g par cuillère est à l'extrémité inférieure de la plage clinique mais dans la dose où des bénéfices articulaires et cutanés ont été observés. La solubilité est excellente — comportement identique à Vital Proteins dans le café et les smoothies.",
+      "pros": ["Certifié BSCG — l'un des programmes de test de compléments tiers les plus rigoureux disponibles", "11g par cuillère offre plus de doses par contenant ; coût journalier effectif inférieur à la plupart des concurrents", "Excellente solubilité dans le froid et le chaud — aucun grumeau dans le café ou les smoothies"],
+      "cons": ["11g par portion est à l'extrémité inférieure de la plage clinique ; les protocoles de haute dose nécessitent une double cuillère"],
+      "grade": "B",
+      "specs": {"Type de collagène": "Type I et III (bovin hydrolysé)", "Taille de portion": "11g par 1 cuillère", "Source": "Peau bovine de pâturage nourrie à l'herbe", "Nutriments ajoutés": "Aucun (étiquette propre)", "Certifications": "BSCG (Groupe de Contrôle des Substances Interdites) certifié", "Goût sans arômes": "Essentiellement insipide dans le café et les smoothies"},
+      "scores": {"Efficacité": 4.4, "Valeur": 4.8, "Goût": 4.9, "Pureté": 4.8, "Facilité d'utilisation": 5.0}
+    },
+    {
+      "offerId": "bulletproof-collagen",
+      "badge": "Meilleur pour l'Intégration dans le Café",
+      "review": "Bulletproof Collagen est optimisé pour un cas d'usage : le mélanger dans le café quotidiennement sans altérer l'expérience. 18g par portion de sources bovines de pâturage, avec le profil de goût le plus propre de tous les produits de cette comparaison lorsqu'ajouté au café noir. Limite honnête : pas de certification NSF ni BSCG, et le collagène n'est pas une protéine complète.",
+      "pros": ["Zéro changement de goût détectable dans le café noir — le collagène sans arômes le plus propre en goût de cette comparaison", "18g par portion de sources bovines de pâturage, sans charges ni additifs artificiels", "Conçu pour s'intégrer dans le café style Bulletproof avec huile MCT et beurre sans cailler"],
+      "cons": ["Pas de certification tiers NSF ni BSCG ; le collagène n'est pas une protéine complète (manque de tryptophane)"],
+      "grade": "B-",
+      "specs": {"Type de collagène": "Type I et III (bovin hydrolysé)", "Taille de portion": "18g", "Source": "Peau bovine de pâturage", "Nutriments ajoutés": "Aucun (étiquette propre)", "Certifications": "Aucune (tests qualité de la marque uniquement)", "Goût sans arômes": "Complètement indétectable dans le café noir — le meilleur de la catégorie"},
+      "scores": {"Efficacité": 4.3, "Valeur": 4.1, "Goût": 5.0, "Pureté": 4.0, "Facilité d'utilisation": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour la plupart des gens qui veulent une simple habitude quotidienne de collagène", "offerId": "vital-proteins-collagen", "reason": "20g par portion se dissout de manière invisible dans n'importe quelle boisson — l'option avec le moins de friction pour un usage quotidien régulier."},
+    {"label": "Pour les athlètes certifiés et les acheteurs qui requièrent une vérification de laboratoire indépendante", "offerId": "garden-of-life-collagen", "reason": "USDA biologique + NSF Certifié pour le Sport est la combinaison d'accréditations la plus solide dans la catégorie collagène."},
+    {"label": "Pour ceux qui veulent une couverture complète des types de collagène en un seul produit", "offerId": "ancient-nutrition-collagen", "reason": "Cinq types de collagène de quatre sources plus base de bouillon d'os — la formule un seul produit la plus complète."},
+    {"label": "Pour les acheteurs soucieux du budget qui ne font pas de compromis sur les tests de tiers", "offerId": "sports-research-collagen", "reason": "Certification BSCG à un coût 10–15% inférieur aux concurrents — la meilleure valeur avec garantie de qualité documentée."},
+    {"label": "Pour les buveurs de café quotidiens qui veulent un impact zéro sur le goût", "offerId": "bulletproof-collagen", "reason": "Spécifiquement optimisé pour se dissoudre dans le café noir sans altérer le goût — sans égal dans ce cas d'usage."}
+  ]
 }

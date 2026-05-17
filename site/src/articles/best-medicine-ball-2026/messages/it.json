@@ -57,5 +57,64 @@
     "cap-barbell-medicine-ball": "Gomma a singolo strato, grip a grana, rimbalzo moderato. Gamma 4-30 lb. Miglior scelta economica per il condizionamento generale."
   },
   "pinDescription": "Slam ball vs medicine ball vs soft-shell — 5 scelte per ogni obiettivo di allenamento, dai lanci overhead ai drill di passaggio tra partner. Scopri quale tipo si adatta al tuo allenamento prima di acquistare. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni prodotto è stato valutato su cinque criteri: qualità costruttiva, prestazioni nell'uso tipico, durata nel tempo, comfort e rapporto qualità-prezzo. Abbiamo ponderato maggiormente prestazioni e durabilità perché determinano se un prodotto è ancora utile 12 mesi dopo.",
+  "products": [
+    {
+      "offerId": "rogue-medicine-ball",
+      "badge": "Migliore slam ball",
+      "review": "La slam ball di Rogue usa un guscio spesso in gomma naturale con riempimento sabbia-gomma che elimina quasi completamente il rimbalzo — la ball colpisce il pavimento e rimane lì. Il guscio è notevolmente più spesso della maggior parte delle slam ball commerciali, il che conta ad alto numero di ripetizioni poiché i gusci più sottili sviluppano punti morbidi e alla fine si spaccano. Le marcature di peso sono stampate nella gomma, non dipinte. Non adatta ai passaggi tra partner — il riempimento denso è duro per i polsi alla ricezione.",
+      "pros": ["Quasi zero rimbalzo — rimane in posto dopo i lanci a terra", "Guscio spesso resiste alle spaccature anche ad alto volume", "Marcature di peso stampate che non svaniscono"],
+      "cons": ["Non adatta ai passaggi tra partner — riempimento denso duro per i polsi alla ricezione"],
+      "grade": "A+",
+      "specs": {"Guscio": "Gomma naturale spessa", "Riempimento": "Sabbia e briciole di gomma", "Rimbalzo": "Quasi nullo", "Gamma di peso": "10–150 lb", "Prezzo (esempio)": "$125"},
+      "scores": {"Qualità costruttiva": 5.0, "Durabilità": 5.0, "Facilità d'uso": 4.5, "Rapporto qualità-prezzo": 3.8, "Versatilità": 3.5}
+    },
+    {
+      "offerId": "champion-sports-medicine-ball",
+      "badge": "Migliore per wall-ball",
+      "review": "La Champion Sports in gomma vulcanizzata 4mm produce un rimbalzo moderato e prevedibile — torna ad angolo costante dopo un lancio contro il muro. Ideale per i drill di wall-ball, il condizionamento in coppia e lo squat-to-press overhead. La gamma da 2 lb è adatta ai principianti che imparano la meccanica overhead. Non può essere lanciata a piena forza contro il pavimento standard — la traiettoria di ritorno diventa imprevedibile e pericolosa.",
+      "pros": ["Rimbalzo moderato e prevedibile per wall-ball e lavoro in coppia", "Gamma da 2 lb per i principianti che imparano la meccanica overhead", "Texture a grana tiene anche con le mani sudate"],
+      "cons": ["Non adatta ai lanci a piena forza contro il pavimento"],
+      "grade": "A",
+      "specs": {"Guscio": "Gomma vulcanizzata 4mm", "Grip": "Texture a grana", "Rimbalzo": "Moderato e prevedibile", "Gamma di peso": "2–30 lb", "Prezzo (esempio)": "$29.99"},
+      "scores": {"Qualità costruttiva": 4.0, "Durabilità": 4.2, "Facilità d'uso": 4.8, "Rapporto qualità-prezzo": 4.8, "Versatilità": 4.0}
+    },
+    {
+      "offerId": "yes4all-slam-ball",
+      "badge": "Migliore slam ball qualità-prezzo",
+      "review": "La slam ball Yes4All copre lo stesso territorio funzionale di Rogue — riempimento sabbia, rimbalzo minimo — a un costo significativamente inferiore. Il guscio è leggermente più sottile di Rogue, visibile nella texture piuttosto che in un cedimento strutturale sotto carichi normali. Le opzioni da 10 a 50 lb con incrementi di 5 lb permettono di costruire una progressione accessibile: tre Yes4All costano quanto una Rogue allo stesso peso.",
+      "pros": ["Molto più economica di Rogue allo stesso peso", "Progressione per incrementi di 5 lb accessibile", "Rimbalzo minimo per lanci sicuri in ambienti chiusi"],
+      "cons": ["Guscio leggermente più sottile di Rogue — meno durabile ad altissimo volume"],
+      "grade": "B+",
+      "specs": {"Guscio": "Gomma ad alta resistenza", "Riempimento": "Sabbia", "Rimbalzo": "Minimo", "Gamma di peso": "10–50 lb (incrementi da 5 lb)", "Prezzo (esempio)": "$24.99"},
+      "scores": {"Qualità costruttiva": 3.8, "Durabilità": 3.8, "Facilità d'uso": 4.5, "Rapporto qualità-prezzo": 5.0, "Versatilità": 3.5}
+    },
+    {
+      "offerId": "dynamax-medicine-ball",
+      "badge": "Migliore per allenamento in coppia",
+      "review": "Dynamax è l'unica ball in questo confronto progettata specificamente per essere ricevuta da un partner. Il guscio in vinile imbottito di schiuma si comprime leggermente all'impatto, assorbendo forza sufficiente a rendere confortevoli i passaggi al petto e i lanci overhead ripetuti senza contusionare gli avambracci. Il diametro standardizzato a tutti i pesi (10 lb e 20 lb hanno la stessa dimensione) facilita il trasferimento di tecnica all'aumentare del carico. Non adatta ai lanci a terra — la cucitura cede sotto impatti ripetuti a piena forza.",
+      "pros": ["Guscio imbottito sicuro per passaggi e ricezioni in coppia", "Stesso diametro su tutta la gamma per tecnica coerente", "Funziona per variazioni di piegamenti sulle braccia e plank roll-out"],
+      "cons": ["Non adatta ai lanci a terra — la cucitura cede sotto impatto a piena forza"],
+      "grade": "B",
+      "specs": {"Guscio": "Vinile imbottito di schiuma", "Diametro": "Standardizzato su tutti i pesi", "Rimbalzo": "Morbido, assorbente", "Gamma di peso": "4–30 lb", "Prezzo (esempio)": "$165"},
+      "scores": {"Qualità costruttiva": 4.2, "Durabilità": 3.8, "Facilità d'uso": 5.0, "Rapporto qualità-prezzo": 3.0, "Versatilità": 4.5}
+    },
+    {
+      "offerId": "cap-barbell-medicine-ball",
+      "badge": "Migliore budget classico",
+      "review": "La ball in gomma a singolo strato di CAP Barbell copre il condizionamento generale, gli esercizi di riabilitazione e i programmi per principianti al prezzo più basso di questo confronto. La superficie a grana mantiene l'aderenza con il sudore, e la ball mantiene la forma senza punti morbidi notevoli a volume moderato. Non adatta ai lanci duri a terra — la gomma a singolo strato mostra danni sotto impatti ripetuti. Per i Russian twist, il lavoro rotazionale seduto, i pattern di press overhead e i passaggi leggeri in coppia, gestisce tutto senza problemi.",
+      "pros": ["Il prezzo più basso di questo confronto", "Adeguata per condizionamento generale, riabilitazione e principianti", "Grip a grana tiene nei circuiti di condizionamento sudati"],
+      "cons": ["Costruzione a singolo strato — non adatta ai lanci duri a terra"],
+      "grade": "B-",
+      "specs": {"Guscio": "Gomma a singolo strato", "Grip": "Superficie a grana", "Rimbalzo": "Moderato", "Gamma di peso": "4–30 lb", "Fascia di prezzo": "$15–45"},
+      "scores": {"Qualità costruttiva": 3.2, "Durabilità": 3.2, "Facilità d'uso": 4.5, "Rapporto qualità-prezzo": 5.0, "Versatilità": 3.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per l'allenamento con slam overhead", "offerId": "rogue-medicine-ball", "reason": "Quasi zero rimbalzo e guscio spesso reggono i lanci a piena forza ad alto volume"},
+    {"label": "Per wall-ball e WOD di CrossFit", "offerId": "champion-sports-medicine-ball", "reason": "Il rimbalzo moderato e prevedibile rende le ricezioni di wall-ball costanti e gli esercizi in coppia sicuri"},
+    {"label": "Per la progressione in palestra domestica", "offerId": "yes4all-slam-ball", "reason": "Incrementi da 5 lb da 10 a 50 lb permettono una progressione accessibile a casa"},
+    {"label": "Per il condizionamento in coppia", "offerId": "dynamax-medicine-ball", "reason": "Il guscio imbottito è l'unico design sicuro per passaggi ripetuti in coppia ad alta intensità"},
+    {"label": "Per il condizionamento economico", "offerId": "cap-barbell-medicine-ball", "reason": "Copre condizionamento generale ed esercizi di riabilitazione al costo più basso di questo confronto"}
+  ]
 }

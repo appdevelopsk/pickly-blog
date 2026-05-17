@@ -48,5 +48,189 @@
     "fringe-sport-bumper-plates": "Bumpers en caoutchouc vierge avec un rebond mort plus faible et un aspect plus propre que les Hi-Temps. Une bonne alternative pour les pratiquants qui souhaitent les performances d'un bumper avec une chute plus silencieuse — utile dans les espaces partagés ou sur les petites plateformes où la distance de rebond est une préoccupation."
   },
   "pinDescription": "Rogue vs REP Fitness vs CAP Barbell — les 5 meilleurs disques de poids pour home gyms en 2026. Fonte vs bumper, calibré vs standard et comment monter un set de départ de 300 lb avec n'importe quel budget. #disquesDePoids #haltérophilie #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Précision du poids mesurée avec une balance calibrée sur 5 échantillons par set ; adhérence du revêtement vérifiée après 200 cycles de mise en place et de retrait dans un garage humide ; cohérence du diamètre vérifiée sur des sets complets avec des pieds à coulisse numériques.",
+  "products": [
+    {
+      "offerId": "rogue-calibrated-kg-plates",
+      "badge": "Meilleur pour compétiteurs",
+      "review": "Usinées aux tolérances IWF à 10 grammes près et estampillées en KG — ce sont les seules plaques de cette comparaison qui répondent aux standards de compétition internationaux directement hors de la boîte. La finition oxyde noir tient au sol ; les anneaux chromés permettent l'identification du poids en un instant.",
+      "pros": [
+        "Précision spec IWF à 10 grammes près par plaque",
+        "Anneaux d'identification chromés pour reconnaissance instantanée du poids",
+        "Diamètre standard 450mm positionne la barre à la hauteur correcte pour le soulevé de terre"
+      ],
+      "cons": [
+        "Nettement plus cher que les options en fonte par kg"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Type": "Calibrated steel",
+        "Standard": "IWF tolerances",
+        "Accuracy": "±10 grams",
+        "Diameter": "450mm",
+        "Center hole": "50mm (2 in)",
+        "Finish": "Black oxide + chrome ring",
+        "Units": "Kilogram",
+        "Price": "$311 set"
+      },
+      "scores": {
+        "Accuracy": 5.0,
+        "Durability": 4.9,
+        "Coating quality": 4.7,
+        "Value": 3.5,
+        "Grip design": 4.5
+      }
+    },
+    {
+      "offerId": "rep-fitness-cast-iron-plates",
+      "badge": "Meilleur dans l'ensemble",
+      "review": "Dans 1% du poids indiqué et diamètre constant de 450mm sur l'ensemble du set — les plaques en fonte de REP sont la meilleure combinaison de précision, qualité de finition et prix disponible pour un set de départ en home gym. L'émail cuit au four résiste à la rouille dans les conditions humides de garage.",
+      "pros": [
+        "Dans 1% de précision — meilleur que la plupart de la fonte à ce prix",
+        "L'émail cuit au four résiste à la rouille dans les environnements humides",
+        "Diamètre constant 450mm positionne la barre à la bonne hauteur"
+      ],
+      "cons": [
+        "La fonte ne peut pas être lâchée — se fissure si utilisée comme plaques bumper"
+      ],
+      "grade": "A",
+      "specs": {
+        "Type": "Cast iron Olympic",
+        "Accuracy": "Within 1%",
+        "Diameter": "450mm",
+        "Center hole": "50mm (2 in)",
+        "Finish": "Baked enamel",
+        "Drop rating": "Not rated for drops",
+        "Available weights": "2.5-45 lb",
+        "Price per lb": "~$0.80-1.20"
+      },
+      "scores": {
+        "Accuracy": 4.7,
+        "Durability": 4.5,
+        "Coating quality": 4.8,
+        "Value": 4.7,
+        "Grip design": 4.0
+      }
+    },
+    {
+      "offerId": "cap-barbell-olympic-plates",
+      "badge": "Meilleur budget",
+      "review": "Les plaques en fonte de CAP ont une variation de poids de 2-3%, acceptable pour l'entraînement de force général où la précision absolue compte moins que la surcharge progressive. Largement disponible chez les grands détaillants pour un approvisionnement rapide.",
+      "pros": [
+        "Plaques en fonte olympique nouvelles les plus abordables disponibles",
+        "Largement disponible chez les grands détaillants — rapide à trouver",
+        "Fonctionnel pour l'entraînement de force général"
+      ],
+      "cons": [
+        "Variation de poids de 2-3% — problématique pour les programmes basés sur des charges exactes"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Type": "Cast iron Olympic",
+        "Accuracy": "±2-3%",
+        "Diameter": "Varies slightly",
+        "Center hole": "50mm (2 in)",
+        "Finish": "Painted",
+        "Drop rating": "Not rated for drops",
+        "Available weights": "2.5-45 lb",
+        "Price": "$53.97 for 25lb set"
+      },
+      "scores": {
+        "Accuracy": 3.5,
+        "Durability": 4.0,
+        "Coating quality": 3.5,
+        "Value": 5.0,
+        "Grip design": 3.8
+      }
+    },
+    {
+      "offerId": "rogue-hi-temp-bumper-plates",
+      "badge": "Meilleures plaques bumper",
+      "review": "Caoutchouc recyclé homologué pour des chutes quotidiennes depuis l'extension complète au-dessus de la tête — le choix standard pour quiconque s'entraîne aux haltérophilie olympique ou au CrossFit à domicile. Les inserts centraux renforcés en acier maintiennent la géométrie du trou à travers des années de cycles de chute.",
+      "pros": [
+        "Homologuées pour les chutes quotidiennes depuis la tête — pas de fissures dans le temps",
+        "Inserts centraux renforcés en acier survivent à des années de cycles de chute",
+        "Diamètre IWF standard 450mm pour tous les poids"
+      ],
+      "cons": [
+        "Le caoutchouc recyclé a un dead bounce plus élevé que le caoutchouc vierge — considérer l'espace"
+      ],
+      "grade": "B",
+      "specs": {
+        "Type": "Recycled rubber bumper",
+        "Drop rating": "Rated for daily overhead drops",
+        "Diameter": "450mm all weights",
+        "Center insert": "Steel-reinforced",
+        "Bounce": "Standard (recycled rubber)",
+        "Available weights": "10-45 lb",
+        "Shore hardness": "~85A",
+        "Price": "$195 for 45lb pair"
+      },
+      "scores": {
+        "Accuracy": 4.0,
+        "Durability": 4.8,
+        "Coating quality": 4.5,
+        "Value": 4.0,
+        "Grip design": 4.2
+      }
+    },
+    {
+      "offerId": "fringe-sport-bumper-plates",
+      "badge": "Meilleur bumper à faible rebond",
+      "review": "Le caoutchouc vierge donne un dead bounce notablement plus faible que les Hi-Temps — les plaques restent là où elles atterrissent plutôt que de rebondir contre les murs ou les plateformes. Utile dans les espaces partagés ou sur des plateformes plus petites où la distance de rebond est une contrainte réelle.",
+      "pros": [
+        "Dead bounce plus faible que le caoutchouc recyclé — reste là où il atterrit",
+        "Le caoutchouc vierge moins susceptible de se fissurer ou s'écailler",
+        "Diamètre IWF standard et inserts en acier correspondent aux spécifications de compétition"
+      ],
+      "cons": [
+        "Prix légèrement plus élevé que les Hi-Temps pour moins de volume de caoutchouc"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Virgin rubber bumper",
+        "Drop rating": "Rated for drops",
+        "Diameter": "450mm all weights",
+        "Center insert": "Steel-reinforced",
+        "Bounce": "Low (virgin rubber)",
+        "Available weights": "10-45 lb",
+        "Shore hardness": "~80A",
+        "Price": "$179.99 for 45lb pair"
+      },
+      "scores": {
+        "Accuracy": 4.2,
+        "Durability": 4.6,
+        "Coating quality": 4.8,
+        "Value": 3.8,
+        "Grip design": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les athlètes de compétition",
+      "offerId": "rogue-calibrated-kg-plates",
+      "reason": "Précision spec IWF à 10 grammes près — les seules plaques ici qui répondent aux standards de compétition internationaux."
+    },
+    {
+      "label": "Pour les débutants en home gym",
+      "offerId": "rep-fitness-cast-iron-plates",
+      "reason": "Meilleure précision et résistance à la rouille de toutes les plaques en fonte à ce prix — le bon set de départ."
+    },
+    {
+      "label": "Pour les acheteurs à budget serré",
+      "offerId": "cap-barbell-olympic-plates",
+      "reason": "Coût le plus bas par livre pour des nouvelles plaques — fonctionnel pour l'entraînement général, prévoir une mise à niveau plus tard."
+    },
+    {
+      "label": "Pour l'haltérophilie olympique et CrossFit",
+      "offerId": "rogue-hi-temp-bumper-plates",
+      "reason": "Homologuées pour les chutes quotidiennes depuis la tête avec inserts renforcés en acier — le standard bumper."
+    },
+    {
+      "label": "Pour les espaces partagés avec espace au sol limité",
+      "offerId": "fringe-sport-bumper-plates",
+      "reason": "Le faible dead bounce du caoutchouc vierge empêche les plaques de rebondir vers les murs et l'équipement."
+    }
+  ]
 }

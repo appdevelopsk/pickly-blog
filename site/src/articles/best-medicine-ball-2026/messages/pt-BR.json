@@ -57,5 +57,64 @@
     "cap-barbell-medicine-ball": "Borracha de camada única, aderência pebbla, rebote moderado. Faixa 4–30 lb. Melhor opção econômica para condicionamento geral."
   },
   "pinDescription": "Slam ball vs medicine ball vs revestimento macio — 5 escolhas para cada objetivo de treino, de arremessos elevados a exercícios de passes em dupla. Saiba qual tipo se encaixa no seu treino antes de comprar.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada produto foi avaliado em cinco critérios: qualidade de construção, desempenho em uso típico, durabilidade ao longo do tempo, conforto e custo-benefício. Ponderamos desempenho e durabilidade com maior peso porque determinam se um produto ainda é útil 12 meses depois.",
+  "products": [
+    {
+      "offerId": "rogue-medicine-ball",
+      "badge": "Melhor slam ball",
+      "review": "A slam ball da Rogue usa um revestimento grosso de borracha natural com enchimento de areia e borracha que elimina o rebote quase completamente — a bola bate no chão e fica lá. O revestimento é visivelmente mais grosso do que a maioria das slam balls comerciais, o que importa com alto volume de repetições pois revestimentos mais finos desenvolvem pontos moles e racham. As marcações de peso são moldadas na borracha, não pintadas. Não adequada para passes entre parceiros — o enchimento denso é difícil para os pulsos ao receber.",
+      "pros": ["Rebote quase nulo — fica no lugar após arremessos ao chão", "Revestimento grosso resiste a rachaduras mesmo em alto volume", "Marcações moldadas que não desbotam"],
+      "cons": ["Não adequada para passes em dupla — enchimento denso prejudica os pulsos ao receber"],
+      "grade": "A+",
+      "specs": {"Revestimento": "Borracha natural grossa", "Enchimento": "Areia e migalhas de borracha", "Rebote": "Quase nulo", "Faixa de peso": "10–150 lb", "Preço (exemplo)": "$125"},
+      "scores": {"Qualidade de construção": 5.0, "Durabilidade": 5.0, "Facilidade de uso": 4.5, "Custo-benefício": 3.8, "Versatilidade": 3.5}
+    },
+    {
+      "offerId": "champion-sports-medicine-ball",
+      "badge": "Melhor para wall-ball",
+      "review": "A bola de borracha vulcanizada 4mm da Champion Sports produz um rebote moderado e previsível — retorna a um ângulo consistente após um arremesso na parede. Ideal para exercícios de wall-ball, condicionamento em dupla e agachamento-a-press em cima. A faixa a partir de 2 lb é adequada para iniciantes aprendendo mecânica overhead. Não pode ser arremessada com força máxima no chão padrão — a trajetória de retorno torna-se imprevisível e perigosa.",
+      "pros": ["Rebote moderado e previsível para wall-ball e trabalho em dupla", "Faixa a partir de 2 lb para iniciantes aprendendo mecânica overhead", "Textura pebbla mantém a aderência em mãos suadas"],
+      "cons": ["Não adequada para arremessos a força máxima no chão"],
+      "grade": "A",
+      "specs": {"Revestimento": "Borracha vulcanizada 4mm", "Grip": "Textura pebbla", "Rebote": "Moderado e previsível", "Faixa de peso": "2–30 lb", "Preço (exemplo)": "$29.99"},
+      "scores": {"Qualidade de construção": 4.0, "Durabilidade": 4.2, "Facilidade de uso": 4.8, "Custo-benefício": 4.8, "Versatilidade": 4.0}
+    },
+    {
+      "offerId": "yes4all-slam-ball",
+      "badge": "Melhor slam ball custo-benefício",
+      "review": "A slam ball Yes4All cobre o mesmo território funcional que a Rogue — enchimento de areia, rebote mínimo — a um custo significativamente menor. O revestimento é ligeiramente mais fino que o da Rogue, visível na textura mais que em falha estrutural sob cargas normais. Opções de 10 a 50 lb em incrementos de 5 lb permitem construir uma progressão acessível: três Yes4All custam o mesmo que uma Rogue do mesmo peso.",
+      "pros": ["Muito mais barata que a Rogue no mesmo peso", "Progressão em incrementos de 5 lb acessível", "Rebote mínimo para arremessos seguros em ambientes fechados"],
+      "cons": ["Revestimento ligeiramente mais fino que Rogue — menos durável em volume muito alto"],
+      "grade": "B+",
+      "specs": {"Revestimento": "Borracha resistente", "Enchimento": "Areia", "Rebote": "Mínimo", "Faixa de peso": "10–50 lb (incrementos de 5 lb)", "Preço (exemplo)": "$24.99"},
+      "scores": {"Qualidade de construção": 3.8, "Durabilidade": 3.8, "Facilidade de uso": 4.5, "Custo-benefício": 5.0, "Versatilidade": 3.5}
+    },
+    {
+      "offerId": "dynamax-medicine-ball",
+      "badge": "Melhor para treino em dupla",
+      "review": "A Dynamax é a única bola nesta comparação projetada especificamente para ser recebida por um parceiro. O revestimento de vinil acolchoado com espuma comprime levemente no impacto, absorvendo força suficiente para tornar passes no peito e lançamentos overhead repetidos confortáveis sem machucar os antebraços. O diâmetro padronizado em todos os pesos (10 lb e 20 lb têm o mesmo tamanho) facilita a transferência de técnica ao aumentar a carga. Não adequada para arremessos no chão — a costura cede sob impactos repetidos a força máxima.",
+      "pros": ["Revestimento acolchoado seguro para passes e recepções em dupla", "Mesmo diâmetro em toda a faixa de pesos para técnica consistente", "Funciona para variações de flexão e plank roll-out"],
+      "cons": ["Não adequada para arremessos no chão — costura cede sob impacto a força máxima"],
+      "grade": "B",
+      "specs": {"Revestimento": "Vinil acolchoado com espuma", "Diâmetro": "Padronizado em todos os pesos", "Rebote": "Suave, absorvente", "Faixa de peso": "4–30 lb", "Preço (exemplo)": "$165"},
+      "scores": {"Qualidade de construção": 4.2, "Durabilidade": 3.8, "Facilidade de uso": 5.0, "Custo-benefício": 3.0, "Versatilidade": 4.5}
+    },
+    {
+      "offerId": "cap-barbell-medicine-ball",
+      "badge": "Melhor opção econômica clássica",
+      "review": "A bola de borracha de camada única da CAP Barbell cobre condicionamento geral, exercícios de reabilitação e programas para iniciantes ao menor preço desta comparação. A superfície pebbla mantém a aderência com suor, e a bola mantém sua forma sem pontos moles notáveis em volume moderado. Não adequada para arremessos duros no chão — borracha de camada única mostra danos sob impactos repetidos. Para rotações russas, trabalho rotacional sentado, padrões de press overhead e passes leves em dupla, funciona sem problemas.",
+      "pros": ["Menor preço desta comparação", "Adequada para condicionamento geral, reabilitação e iniciantes", "Grip pebbla se mantém em circuitos suados"],
+      "cons": ["Construção de camada única — não adequada para arremessos duros no chão"],
+      "grade": "B-",
+      "specs": {"Revestimento": "Borracha de camada única", "Grip": "Superfície pebbla", "Rebote": "Moderado", "Faixa de peso": "4–30 lb", "Faixa de preço": "$15–45"},
+      "scores": {"Qualidade de construção": 3.2, "Durabilidade": 3.2, "Facilidade de uso": 4.5, "Custo-benefício": 5.0, "Versatilidade": 3.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para treino de slam overhead", "offerId": "rogue-medicine-ball", "reason": "Rebote quase nulo e revestimento grosso aguentam arremessos a força máxima em alto volume"},
+    {"label": "Para wall-ball e WODs de CrossFit", "offerId": "champion-sports-medicine-ball", "reason": "O rebote moderado e previsível torna as recepções de wall-ball consistentes e os exercícios em dupla seguros"},
+    {"label": "Para progressão na academia em casa", "offerId": "yes4all-slam-ball", "reason": "Incrementos de 5 lb de 10 a 50 lb permitem progressão acessível em casa"},
+    {"label": "Para condicionamento em dupla", "offerId": "dynamax-medicine-ball", "reason": "O revestimento acolchoado é o único design seguro para passes repetidos em dupla a alta intensidade"},
+    {"label": "Para condicionamento econômico", "offerId": "cap-barbell-medicine-ball", "reason": "Cobre condicionamento geral e exercícios de reabilitação ao menor custo desta comparação"}
+  ]
 }

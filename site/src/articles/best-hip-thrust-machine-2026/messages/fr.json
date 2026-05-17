@@ -58,5 +58,64 @@
     "hip-thrust-pad-barbell": "Pad en mousse pour barre de hip thrust avec sangle velcro. $15-30. Accessoire essentiel pour toute configuration de hip thrust — rend le contact de la barre confortable sur les os des hanches. Nécessaire quelle que soit la banc ou machine choisie."
   },
   "pinDescription": "Machine de hip thrust 2026 : Bells of Steel Hip Thruster vs REP AB-5200 vs Valor vs Titan — pourquoi la hauteur du pad compte, comment configurer le hip thrust avec barre sur n'importe quel banc, clé de la contraction des fessiers en haut et quelle machine dédiée vaut l'investissement pour l'entraînement sérieux des fessiers. #hipThrust #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque machine de hip thrust a été évaluée sur la hauteur du pad, l'ajustabilité de la plateforme pour les pieds, l'intégration du berceau de barre, la capacité de charge, la stabilité du cadre sous charge et le rapport qualité-prix — avec des scénarios de charge réelle jusqu'à 180 kg comme critère principal.",
+  "products": [
+    {
+      "offerId": "bells-of-steel-hip-thruster",
+      "badge": "Meilleure Option Globale",
+      "review": "La station de hip thrust la plus complète et spécifique : le berceau de barre intégré maintient la barre à hauteur de hanche avant de s'asseoir (sans rouler), plateforme pour les pieds réglable, large pad rembourré, roues. À 1 199 $ c'est un investissement premium — justifié si l'on fait du hip thrust 3+ fois par semaine et qu'on apprécie un setup sans friction. Tout le reste est un compromis.",
+      "pros": ["Berceau de barre intégré élimine le roulage depuis le sol", "Plateforme pour les pieds réglable pour un setup constant entre séances", "Roues pour repositionnement facile en salle"],
+      "cons": ["1 199 $ est significatif — excessif pour du hip thrust occasionnel"],
+      "grade": "A+",
+      "specs": {"Prix": "1 199 $", "Capacité de charge": "Conçue pour charges lourdes", "Hauteur pad arrière": "~43–46 cm", "Plateforme pieds": "Réglable", "Emprise au sol": "Nécessite espace dédié"},
+      "scores": {"Qualité de construction": 5.0, "Facilité d'utilisation": 5.0, "Confort": 4.8, "Capacité de charge": 5.0, "Rapport qualité-prix": 3.8}
+    },
+    {
+      "offerId": "rep-fitness-ab-5200-fid-bench",
+      "badge": "Meilleure Polyvalence",
+      "review": "Un banc réglable FID de haute qualité qui fonctionne aussi bien pour le hip thrust : 43 cm de hauteur de pad à plat, cadre commercial, assez lourd pour ne pas bouger. Pas de berceau de barre — il faut encore rouler la barre. En contrepartie, c'est aussi une station de développé couché complète — la double utilisation le rend efficace en espace pour les salles mixtes.",
+      "pros": ["43 cm de hauteur de pad correct pour la plupart des setups de hip thrust", "Fonction FID complète — sert aussi de station de développé", "Stabilité cadre commercial sous charges lourdes"],
+      "cons": ["Pas de berceau de barre intégré — la barre doit être roulée à chaque série"],
+      "grade": "A",
+      "specs": {"Prix": "500 $", "Capacité de charge": "454 kg", "Hauteur pad (à plat)": "43 cm", "Positions inclinaison": "6 positions", "Cadre": "Acier 11-gauge 76mm²"},
+      "scores": {"Qualité de construction": 4.8, "Facilité d'utilisation": 3.8, "Confort": 4.5, "Capacité de charge": 4.8, "Rapport qualité-prix": 4.3}
+    },
+    {
+      "offerId": "valor-fitness-hip-thrust-bench",
+      "badge": "Meilleure Dédiée Milieu de Gamme",
+      "review": "Station de hip thrust spécifique avec plateforme pour les pieds intégrée et pad dorsal incliné à moindre coût que Bells of Steel. Adaptée jusqu'à 180 kg — couvre la plupart des progressions en salle à domicile. La construction plus légère vs. les options premium se remarque mais ne compromet pas la fonction à charges modérées. Meilleure option pour les athlètes qui veulent un banc dédié sans le prix Bells of Steel.",
+      "pros": ["Conçue spécifiquement pour le hip thrust avec plateforme intégrée", "Capacité 180 kg pour la plupart des utilisateurs en salle à domicile", "Coût inférieur à Bells of Steel pour la fonction principale"],
+      "cons": ["Cadre plus léger que les options premium — plus de flexion aux charges maximales"],
+      "grade": "B+",
+      "specs": {"Prix": "89,99 $", "Capacité de charge": "181 kg", "Pad arrière": "Incliné, rembourré", "Plateforme pieds": "Intégrée, fixe"},
+      "scores": {"Qualité de construction": 3.8, "Facilité d'utilisation": 4.5, "Confort": 4.0, "Capacité de charge": 4.0, "Rapport qualité-prix": 4.8}
+    },
+    {
+      "offerId": "titan-fitness-hip-thrust-machine",
+      "badge": "Meilleure Dédiée Budget",
+      "review": "La machine de hip thrust Titan fournit la fonction principale — plateforme pour les pieds réglable, berceau de barre — à moindre coût que REP ou Bells of Steel. La qualité de construction est inférieure : cadre moins rigide, quincaillerie plus légère. Pour les athlètes en salle à domicile qui veulent une machine dédiée au coût minimal et s'entraînent jusqu'à 135 kg, elle assure la fonction essentielle.",
+      "pros": ["Fonction dédiée hip thrust avec berceau de barre", "Plateforme réglable pour setup constant", "Coût le plus bas parmi les machines dédiées de ce comparatif"],
+      "cons": ["En dessous de REP et Bells of Steel en rigidité cadre et qualité quincaillerie"],
+      "grade": "B",
+      "specs": {"Prix": "499 $", "Pad arrière": "Rembourré, hauteur fixe", "Plateforme pieds": "Réglable", "Berceau de barre": "Oui"},
+      "scores": {"Qualité de construction": 3.5, "Facilité d'utilisation": 4.3, "Confort": 3.8, "Capacité de charge": 3.8, "Rapport qualité-prix": 4.3}
+    },
+    {
+      "offerId": "hip-thrust-pad-barbell",
+      "badge": "Accessoire Indispensable",
+      "review": "Le pad de hip thrust pour barre n'est pas optionnel — il rend la barre de 45mm confortable sur les os des hanches, qui deviendraient sinon le facteur limitant avant que les fessiers ne se fatiguent. Mousse avec sangle velcro, fonctionne avec n'importe quel banc ou machine. À 25 $, c'est le premier achat obligatoire pour tout setup de hip thrust. Ne tentez pas de hip thrust lourd sans lui.",
+      "pros": ["Indispensable pour le hip thrust lourd sans douleur — pas optionnel", "Fonctionne avec n'importe quel banc ou machine dédiée de hip thrust", "15–30 $ — l'élément le moins cher de tout setup de hip thrust"],
+      "cons": ["La mousse se comprime légèrement avec un usage lourd fréquent — remplacer tous les 6–12 mois en utilisation intensive"],
+      "grade": "B-",
+      "specs": {"Prix": "24,99 $", "Matière": "Mousse haute densité", "Fermeture": "Sangle velcro", "Compatibilité": "N'importe quelle barre standard"},
+      "scores": {"Qualité de construction": 3.5, "Facilité d'utilisation": 4.8, "Confort": 4.5, "Capacité de charge": 4.0, "Rapport qualité-prix": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour entraînement sérieux des fessiers 3+ fois par semaine", "offerId": "bells-of-steel-hip-thruster", "reason": "Zéro friction de setup — berceau de barre, plateforme constante, pas d'improvisation"},
+    {"label": "Pour les salles à domicile ayant besoin d'un banc et du hip thrust", "offerId": "rep-fitness-ab-5200-fid-bench", "reason": "Meilleure option polyvalente — banc réglable complet plus hauteur de pad correcte pour le hip thrust"},
+    {"label": "Pour le hip thrust dédié avec budget moyen", "offerId": "valor-fitness-hip-thrust-bench", "reason": "Conçu spécifiquement avec plateforme intégrée pour moins de 200 $"},
+    {"label": "Pour la machine de hip thrust dédiée la moins chère", "offerId": "titan-fitness-hip-thrust-machine", "reason": "Fonction principale de hip thrust — berceau de barre et plateforme réglable — au coût minimal"},
+    {"label": "Pour tous ceux qui commencent le barbell hip thrust", "offerId": "hip-thrust-pad-barbell", "reason": "Le premier achat obligatoire — sans pad, pas de hip thrust confortable, quelle que soit la banc"}
+  ]
 }

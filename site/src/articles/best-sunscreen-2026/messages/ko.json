@@ -110,5 +110,184 @@
     "skin-aqua-tone-up-lavender": "Rohto의 컬러 교정 색조 선크림, SPF50+ PA++++. 라벤더 색소는 동아시아 안색의 노란색과 칙칙한 언더톤을 중화시켜 이 제품을 일본과 한국 스킨케어 커뮤니티에서 바이럴 추천으로 만든 밝아지는 피부 톤 교정 효과를 생성합니다. 가벼운 수중유 에멀전, 메이크업 전 베이스 단계 또는 미니멀 메이크업 날에 단독으로 적합합니다. 일본 드럭스토어와 라쿠텐에서 80g당 ¥1,000 미만으로 구할 수 있습니다. 밝은 동아시아 안색(피츠패트릭 I-III)에 밝기를 만드는 라벤더 색조는 중간에서 어두운 피부 톤(피츠패트릭 IV+)에서 가시적인 보라색-회색 막으로 읽혀 이 포뮬러를 의미 있는 잠재 구매자 부분에게 적극적으로 부적합하게 만듭니다 — 브랜드는 마케팅에서 이 제한을 눈에 띄게 다루지 않습니다; 내수성이 약하며 야외 스포츠나 수영에 의존하면 안 됩니다; 색조 포뮬러는 스킨케어 활성 이점을 제공하지 않으며 대체제가 아닌 완전한 보습 및 트리트먼트 루틴 위에 사용해야 하며, 이는 이미 다단계 루틴에 레이어를 추가하는 것을 의미합니다."
   },
   "pinDescription": "2026년 여름을 위한 5가지 선크림 비교 — Anessa의 방수 일본 표준부터 La Roche-Posay의 초장파 UVA 400nm 차단까지. SPF50+ vs SPF46. 피부 톤별 백탁 현상 솔직 분석. PA++++ vs 새로운 PA5+. 일본의 압도적인 드럭스토어 포뮬러 설명 #한국어",
-  "methodology": "각 제품을 성분 투명성, 피부과적 실적, 실사용자 효과 일관성, 포장 품질, 1회분당 가성비로 평가했습니다."
+  "methodology": "각 선크림은 SPF 및 PA 보호 등급, 일상 도포 순응도에 대한 텍스처의 실제 영향, 스포츠 및 야외 사용을 위한 내수성, 권장 도포량에서의 제품 그램당 가치, 그리고 피츠패트릭 IV+ 피부 톤에서의 백탁에 대한 명시적 감점을 포함한 다양한 피부 톤에 걸친 피부 감촉으로 평가했습니다.",
+  "products": [
+    {
+      "offerId": "anessa-perfect-uv-spf50",
+      "badge": "야외 스포츠 최고",
+      "review": "Anessa의 스마트 리스폰스 처방은 땀이나 물에 접촉하면 더 내수성 있는 필름으로 강화됩니다 — 이 비교에서 최고의 야외 스포츠 선크림. 어두운 피부 톤에서의 백탁과 격한 운동 중 눈 따가움은 실제 제한 사항이며, 완전한 제거를 위해 이중 세안이 필요합니다.",
+      "pros": [
+        "스마트 리스폰스 처방이 땀 접촉 시 내수성 향상 — 여기 다른 제품은 이를 하지 않음",
+        "SPF50+ PA++++는 이 비교에서 최고의 복합 보호 수준",
+        "일본 드럭스토어와 온라인에서 광범위하게 구매 가능, 안정적인 재고"
+      ],
+      "cons": [
+        "피츠패트릭 IV+ 피부 톤에서 백탁 현상 가시적; 이중 세안 필요; 격한 스포츠 중 눈 자극 가능"
+      ],
+      "grade": "A+",
+      "specs": {
+        "SPF": "SPF50+",
+        "PA rating": "PA++++",
+        "Water resistance": "Yes (Smart Response)",
+        "Formula type": "Hybrid chemical + physical",
+        "Volume": "60 ml",
+        "White cast": "Mild on light tones, visible on deeper tones",
+        "Price": "¥3,058"
+      },
+      "scores": {
+        "SPF protection": 5.0,
+        "Texture": 4.0,
+        "Water resistance": 4.9,
+        "Value": 3.9,
+        "Skin feel": 3.8
+      }
+    },
+    {
+      "offerId": "la-roche-posay-anthelios-uvmune",
+      "badge": "최고의 UVA 커버리지",
+      "review": "La Roche-Posay의 Mexoryl 400 필터는 이 비교에서 초장파 UVA를 400nm까지 차단하는 유일한 옵션입니다 — 광노화 방지와 유리를 통한 UV 노출에 중요합니다. 50ml당 약 ¥3,500로 가장 비싼 일상 옵션이며, 텍스처는 일본 수성 처방보다 무겁습니다.",
+      "pros": [
+        "Mexoryl 400이 다른 어떤 제품도 커버하지 않는 초장파 UVA(380~400nm)를 차단",
+        "무향료 및 민감성 피부 테스트됨 — 광노화를 우려하는 반응성 피부의 최고 선택",
+        "유럽 피부과 의사 골드 스탠다드가 이제 Rakuten 일본 수입을 통해 구매 가능"
+      ],
+      "cons": [
+        "50ml당 약 ¥3,500로 가장 비쌈; 일본 처방보다 무거움; Rakuten에서 수입 가용성 변동"
+      ],
+      "grade": "A",
+      "specs": {
+        "SPF": "SPF50+",
+        "PA rating": "EU UVA circle (approx. PA++++)",
+        "Water resistance": "Moderate",
+        "Formula type": "Chemical (Mexoryl 400 + Mexoryl SX/XL)",
+        "Volume": "50 ml",
+        "White cast": "None",
+        "Price": "¥2,700–¥3,690"
+      },
+      "scores": {
+        "SPF protection": 5.0,
+        "Texture": 3.5,
+        "Water resistance": 3.8,
+        "Value": 3.2,
+        "Skin feel": 4.0
+      }
+    },
+    {
+      "offerId": "biore-uv-aqua-rich-essence",
+      "badge": "일상 사용 최고",
+      "review": "Biore UV Aqua Rich는 매일 바르기 가장 쉬운 선크림입니다 — 수성 에센스 텍스처는 뭉침 없이 피부에 스며들고, 어떤 메이크업 아래에도 겹칠 수 있으며, 70g에 ¥1,000 미만. PA++++이지만 내수성 없음; 수영이나 격한 발한 후 재도포 필요.",
+      "pros": [
+        "수성 에센스 텍스처가 피부에 아무것도 느껴지지 않게 함 — 매일 SPF 순응도에 대한 도포 장벽 제거",
+        "70g에 ¥1,000 미만 — 비교에서 단연 가장 비용 효율적인 일상 옵션",
+        "뭉침이나 파운데이션 방해 없이 어떤 메이크업 아래에도 겹쳐 바를 수 있음"
+      ],
+      "cons": [
+        "내수성 없음 — 재도포 없이 수영이나 격한 야외 발한에 유일한 선크림으로 부적합"
+      ],
+      "grade": "B+",
+      "specs": {
+        "SPF": "SPF50+",
+        "PA rating": "PA++++",
+        "Water resistance": "None",
+        "Formula type": "Chemical (Japan-only UV filter blend)",
+        "Volume": "70 g",
+        "White cast": "None on most skin tones",
+        "Price": "¥1,000–¥1,280"
+      },
+      "scores": {
+        "SPF protection": 4.8,
+        "Texture": 5.0,
+        "Water resistance": 1.5,
+        "Value": 5.0,
+        "Skin feel": 4.9
+      }
+    },
+    {
+      "offerId": "eltamd-uv-clear-spf46",
+      "badge": "여드름성 피부 최고",
+      "review": "EltaMD UV Clear의 9% 투명 산화아연과 5% 나이아신아마이드 조합은 가장 피부과학적으로 차별화된 제품으로 만듭니다 — 이 농도에서 나이아신아마이드는 여드름 병변과 염증 후 색소침착 감소에 대한 문서화된 증거가 있습니다. SPF46가 유일한 정당한 망설임입니다.",
+      "pros": [
+        "UV 보호를 넘어 여드름과 색소침착 감소에 대한 문서화된 증거를 가진 5% 나이아신아마이드",
+        "무향료 및 오일프리 — 여드름성 및 주사 피부에 가장 안전한 성분 프로파일",
+        "9% 투명 산화아연이 미네랄 처방의 완전한 백탁 없이 물리적 보호에 기여"
+      ],
+      "cons": [
+        "SPF46는 일본과 EU에서 기대하는 SPF50+ 기준 미달; 일본 수성 처방보다 무거움"
+      ],
+      "grade": "B",
+      "specs": {
+        "SPF": "SPF46",
+        "PA rating": "Not PA-rated (FDA methodology)",
+        "Water resistance": "Yes (FDA water-resistant 40 min)",
+        "Formula type": "Hybrid (9% zinc oxide + chemical)",
+        "Volume": "48 g",
+        "White cast": "Minimal to mild on deeper skin tones",
+        "Price": "$45"
+      },
+      "scores": {
+        "SPF protection": 4.2,
+        "Texture": 3.8,
+        "Water resistance": 4.2,
+        "Value": 3.5,
+        "Skin feel": 4.3
+      }
+    },
+    {
+      "offerId": "skin-aqua-tone-up-lavender",
+      "badge": "피부 톤 보정 최고",
+      "review": "Skin Aqua의 라벤더 색소는 동아시아 피부 톤의 노란 기운과 칙칙한 기저색을 중화합니다 — 피츠패트릭 I~III에서 진정으로 밝아집니다. 피츠패트릭 IV+ 피부 톤에서 색조가 보라빛 회색으로 보여 더 깊은 피부 톤에는 적극적으로 부적합합니다. SPF50+ PA++++를 ¥1,000 미만에.",
+      "pros": [
+        "라벤더 색소 보정이 밝은 동아시아 피부 톤에 빛나는 효과를 만듦",
+        "80g에 ¥1,000 미만의 SPF50+ PA++++ — 매우 낮은 가격에 경쟁력 있는 보호",
+        "가벼운 텍스처가 스킨케어 루틴에 무게감을 추가하지 않고 마지막 베이스 스텝으로 기능"
+      ],
+      "cons": [
+        "밝은 동아시아 피부 톤을 밝히는 라벤더 색조가 피츠패트릭 IV+ 피부 톤에서 보라빛 회색으로 보임 — 중간에서 깊은 피부 톤에 적극적으로 부적합"
+      ],
+      "grade": "B-",
+      "specs": {
+        "SPF": "SPF50+",
+        "PA rating": "PA++++",
+        "Water resistance": "Mild",
+        "Formula type": "Chemical with color-correcting pigment",
+        "Volume": "80 g",
+        "White cast": "Purple-grey on Fitzpatrick IV+ tones",
+        "Price": "¥1,210"
+      },
+      "scores": {
+        "SPF protection": 4.8,
+        "Texture": 4.5,
+        "Water resistance": 2.0,
+        "Value": 4.9,
+        "Skin feel": 4.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "야외 스포츠, 해변의 날, 지속적인 UV 노출을 위해",
+      "offerId": "anessa-perfect-uv-spf50",
+      "reason": "스마트 리스폰스 처방의 땀 활성화 내수성은 이 비교에서 완벽한 재도포 타이밍 없이 지속적인 야외 활동 중 보호를 유지하는 유일한 메커니즘입니다."
+    },
+    {
+      "label": "광노화 예방과 긴 UV 노출 이력을 가진 밝은 피부를 위해",
+      "offerId": "la-roche-posay-anthelios-uvmune",
+      "reason": "Mexoryl 400의 400nm까지 초장파 UVA 커버리지는 현재 어떤 일본 드럭스토어 제품도 복제할 수 없는 처방의 이점입니다."
+    },
+    {
+      "label": "SPF를 건너뛰는 통근자와 메이크업 사용자를 위해",
+      "offerId": "biore-uv-aqua-rich-essence",
+      "reason": "수성 에센스 텍스처는 대부분의 사람들이 매일 SPF를 건너뛰게 만드는 도포 마찰을 제거합니다 — 이 비교에서 가장 비용 효율적인 순응도 개선."
+    },
+    {
+      "label": "여드름성 또는 주사 영향을 받는 피부를 위해",
+      "offerId": "eltamd-uv-clear-spf46",
+      "reason": "5% 농도의 나이아신아마이드는 여드름과 색소침착 감소에 RCT 수준의 증거가 있습니다 — UV 보호를 넘어 진정한 피부과 작업을 하는 유일한 제품."
+    },
+    {
+      "label": "밝아지는 베이스를 원하는 밝은 동아시아 피부 톤을 위해",
+      "offerId": "skin-aqua-tone-up-lavender",
+      "reason": "피츠패트릭 I~III 피부 톤에서의 라벤더 색소 보정이 이 비교에서 가장 낮은 가격의 SPF50+ PA++++ 옵션으로 안에서부터 빛나는 효과를 만듭니다."
+    }
+  ]
 }

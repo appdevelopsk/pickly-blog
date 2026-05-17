@@ -58,5 +58,64 @@
     "butane-burner-for-siphon": "Adjustable flame butane burner for siphon brewing. $20-40. Required for consistent siphon heat — more controllable than included alcohol lamps. Necessary for precise temperature control and repeatable results."
   },
   "pinDescription": "Siphon coffee maker 2026: Hario Next vs Yama vs Technica vs Cona, how vacuum pressure brews coffee, why siphon sits between pour-over clarity and French press body, and the cloth filter maintenance routine.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each siphon was evaluated on cup clarity and body at a standard 1:15 ratio, stand stability under butane burner heat, glass wall thickness and thermal shock resistance, filter holder precision and ease of post-brew removal, and total price including required accessories — cup quality and build safety weighted highest.",
+  "products": [
+    {
+      "offerId": "hario-next-siphon",
+      "badge": "Best Overall",
+      "review": "The Hario Next is the current benchmark for siphon brewing — its improved cloth filter holder produces clean, full-bodied cups consistently, and the updated stand is more stable under butane burner heat than the Technica. Available in 3-cup and 5-cup configurations. The main caveat: the butane burner is sold separately, so budget for that accessory upfront.",
+      "pros": ["Improved cloth filter holder — consistent cup quality", "Stable stand under butane burner heat", "Available in 3-cup and 5-cup sizes"],
+      "cons": ["Butane burner sold separately — add to total cost"],
+      "grade": "A+",
+      "specs": {"Capacity": "3-cup (360 ml) or 5-cup (600 ml)", "Filter": "Cloth (included)", "Stand": "Improved — more stable than Technica", "Heat source": "Butane burner (sold separately)", "Glass": "Borosilicate", "Price": "~$60–90"},
+      "scores": {"Brew clarity": 4.8, "Theater factor": 5.0, "Ease of use": 3.8, "Value": 4.2, "Build quality": 4.8}
+    },
+    {
+      "offerId": "yama-glass-siphon-5-cup",
+      "badge": "Best Non-Hario",
+      "review": "Yama's thick borosilicate walls make it the most break-resistant siphon in this comparison — a meaningful advantage for a brewer you handle while hot. The 5-cup (600 ml) size is practical for brewing for 2–3 people, and cup quality is comparable to Hario. The trade-off is that Yama replacement parts are harder to source than Hario components.",
+      "pros": ["Thicker borosilicate glass — more break-resistant than most", "5-cup size practical for 2–3 people", "Cloth or metal filter options available"],
+      "cons": ["Replacement parts less available than Hario ecosystem"],
+      "grade": "A",
+      "specs": {"Capacity": "5-cup (600 ml)", "Filter": "Cloth or metal mesh", "Glass": "Thick borosilicate", "Heat source": "Butane burner compatible", "Footprint": "Standard siphon", "Price": "~$70–100"},
+      "scores": {"Brew clarity": 4.7, "Theater factor": 4.8, "Ease of use": 3.8, "Value": 4.0, "Build quality": 5.0}
+    },
+    {
+      "offerId": "hario-technica-siphon",
+      "badge": "Best Entry Point",
+      "review": "The Hario Technica uses the same borosilicate glass globes and brewing principle as the Next at a lower price — it's the correct starting point for exploring siphon brewing before committing to the Next's cost. The stand is simpler and slightly less stable, which matters primarily when adjusting the butane burner mid-brew. Compatible with standard Hario filters, so you're not locked into proprietary accessories.",
+      "pros": ["Same brewing principle as the Next at lower cost", "Uses standard Hario filters — no proprietary accessories", "Good entry point before investing in Next"],
+      "cons": ["Simpler stand — slightly less stable than the Next"],
+      "grade": "B+",
+      "specs": {"Capacity": "3-cup or 5-cup", "Filter": "Hario cloth (standard)", "Stand": "Simple frame", "Glass": "Borosilicate", "Burner": "Sold separately", "Price": "~$45–70"},
+      "scores": {"Brew clarity": 4.5, "Theater factor": 4.8, "Ease of use": 3.8, "Value": 4.8, "Build quality": 4.2}
+    },
+    {
+      "offerId": "cona-siphon-coffee-maker",
+      "badge": "Best Low-Maintenance Filter",
+      "review": "Cona's spring-clip filter is the most durable and easiest-to-clean filter in this comparison — unlike cloth filters, it doesn't require storage submerged in water between uses. The British design has been in production since the 1930s, and the solid borosilicate construction reflects that longevity. Replacement parts are available but sourcing them outside the UK takes effort.",
+      "pros": ["Spring-clip filter — easiest to clean, no storage in water", "Solid borosilicate construction with proven longevity", "Classic British design unchanged since the 1930s"],
+      "cons": ["Parts harder to source outside the UK"],
+      "grade": "B",
+      "specs": {"Capacity": "varies by model", "Filter": "Spring-clip (no cloth maintenance)", "Glass": "Solid borosilicate", "Origin": "UK, in production since 1930s", "Heat source": "Butane or spirit lamp", "Price": "~$90–140"},
+      "scores": {"Brew clarity": 4.5, "Theater factor": 4.5, "Ease of use": 4.5, "Value": 3.5, "Build quality": 4.8}
+    },
+    {
+      "offerId": "butane-burner-for-siphon",
+      "badge": "Essential Accessory",
+      "review": "The alcohol lamps included with entry-level siphons produce inconsistent heat and require frequent refilling — a butane burner gives you adjustable flame control, consistent temperature, and repeatable results. Required for serious siphon brewing. Most Hario and Yama siphons are sold without a burner; add one to the total cost calculation from the start.",
+      "pros": ["Adjustable flame for precise temperature control", "Consistent heat vs inconsistent alcohol lamp included alternatives", "Repeatable results across brew sessions"],
+      "cons": ["Butane canisters are a recurring consumable cost"],
+      "grade": "B-",
+      "specs": {"Fuel": "Butane canister (standard size)", "Flame control": "Adjustable", "Compatible with": "Hario, Yama, Cona siphons", "Canister life": "Multiple sessions per canister", "Price": "~$20–40"},
+      "scores": {"Brew clarity": 5.0, "Theater factor": 4.0, "Ease of use": 4.5, "Value": 4.8, "Build quality": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For serious siphon brewers", "offerId": "hario-next-siphon", "reason": "The most stable stand and best cloth filter holder in the Hario lineup — the correct investment once you know siphon brewing is part of your routine."},
+    {"label": "For brewers who value durability", "offerId": "yama-glass-siphon-5-cup", "reason": "Thick borosilicate walls reduce breakage risk when handling hot glass — the most forgiving build for daily use."},
+    {"label": "For first-time siphon buyers", "offerId": "hario-technica-siphon", "reason": "The same brewing principle as the Next at a lower entry price — the right way to start before committing to the full Next setup."},
+    {"label": "For low-maintenance filter preference", "offerId": "cona-siphon-coffee-maker", "reason": "Spring-clip filter never needs water storage — if the cloth filter maintenance routine sounds like a barrier, Cona removes it."},
+    {"label": "For any siphon brewer using an alcohol lamp", "offerId": "butane-burner-for-siphon", "reason": "Adjustable butane flame gives you the temperature control that alcohol lamps can't provide — the single upgrade that most improves brew consistency."}
+  ]
 }

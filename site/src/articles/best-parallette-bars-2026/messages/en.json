@@ -84,5 +84,124 @@
     "yes4all-parallettes": "9-inch budget steel option, rubber feet, solid for home use."
   },
   "pinDescription": "Parallette bars ranked for L-sits, handstands, and deep push-ups. Wood vs steel vs PVC compared — find the right height and material for your training level.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each parallette was assessed on frame rigidity under pressing loads, base stability during lateral-load exercises (L-sits, planches), grip surface feel, height appropriateness for stated exercises, and durability — with stability and rigidity weighted highest since flex or tip under load makes skill training unreliable.",
+  "products": [
+    {
+      "offerId": "prosourcefit-parallettes",
+      "badge": "Best Wooden Parallettes",
+      "review": "ProsourceFit's 9-inch birch wood parallettes hit the sweet spot between low push-up handles and full gymnastics bars. The wood surface warms under the palm and provides natural grip texture that reduces wrist fatigue during long L-sit holds and push-up progressions. The wide base keeps the bars planted when hips shift outside the footprint during L-sits — the most common failure mode of narrow-base designs. Not height-adjustable, which keeps construction rigid.",
+      "pros": ["Warm wood grip reduces wrist fatigue on long holds", "Wide base resists lateral torque during L-sits", "9-inch height enables full L-sit hip clearance"],
+      "cons": ["Not adjustable height", "Wood can crack if stored in high moisture conditions"],
+      "grade": "A+",
+      "specs": {
+        "Material": "Birch wood rails",
+        "Height": "9 inches",
+        "Base": "Wide for lateral stability",
+        "Height adjustable": "No",
+        "Price": "$39.99"
+      },
+      "scores": {
+        "Build quality": 4.5,
+        "Stability": 4.8,
+        "Comfort": 5.0,
+        "Versatility": 4.0,
+        "Value": 5.0
+      }
+    },
+    {
+      "offerId": "tumbl-trak-p-bars",
+      "badge": "Best Adjustable Height",
+      "review": "Tumbl Trak's PVC gymnastics p-bars are height-adjustable — the headline feature for athletes progressing through skill levels where bar height directly changes exercise difficulty. Useful for handstand push-up descent work where height determines how deep you drop. PVC gives slight flex under heavy pressing loads; athletes over 180 lbs doing weighted dips or max-effort pressing should consider the Rogue. Best for skill-focused body-weight work at moderate intensities.",
+      "pros": ["Height-adjustable for skill progression requirements", "PVC flex absorbs some wrist vibration during fast-rep push-ups", "Lightweight for shared or travel use"],
+      "cons": ["PVC flex under heavy loads — not for athletes above 180 lbs on max-effort pressing"],
+      "grade": "A",
+      "specs": {
+        "Material": "PVC",
+        "Height": "Adjustable",
+        "Best for": "Gymnastics and skill progressions",
+        "Weight limit": "Moderate loads (~180 lbs)",
+        "Price": "$69.99"
+      },
+      "scores": {
+        "Build quality": 3.5,
+        "Stability": 3.8,
+        "Comfort": 4.2,
+        "Versatility": 4.8,
+        "Value": 4.5
+      }
+    },
+    {
+      "offerId": "rogue-p3-parallettes",
+      "badge": "Best for Heavy Pressing",
+      "review": "Rogue's P-3 is built for gym environments where equipment takes daily abuse. Steel tube construction at 11 inches — two inches taller than the common 9-inch standard — extends dip depth and range of motion for push-up negatives. Zero lateral flex under heavy pressing or advanced statics like straddle planche attempts. The powder coat holds through chalk and sweat. Priced for serious athletes and gym operators, not beginners.",
+      "pros": ["Zero flex under heavy pressing and advanced static holds", "11-inch height extends dip depth and ROM beyond standard bars", "Commercial-grade durability for daily gym use"],
+      "cons": ["Premium price — hard to justify for beginners", "11-inch height may be too tall for beginners starting from floor work"],
+      "grade": "B+",
+      "specs": {
+        "Material": "Steel tube, powder coat",
+        "Height": "11 inches",
+        "Flex": "Zero under load",
+        "Best for": "Advanced calisthenics, gym environments",
+        "Price": "$95"
+      },
+      "scores": {
+        "Build quality": 5.0,
+        "Stability": 5.0,
+        "Comfort": 3.8,
+        "Versatility": 4.5,
+        "Value": 3.2
+      }
+    },
+    {
+      "offerId": "lebert-parallettes",
+      "badge": "Best Low Parallettes",
+      "review": "At 3 inches off the floor, Lebert parallettes are optimized for push-up variations and wrist conditioning — not L-sits or dips, which require hip clearance at this height. The near-floor position maximizes ROM for push-up work (pike push-ups, archer push-ups, decline work) without the balance demands of taller bars. Highly portable and suitable for travel training and apartment workouts where full parallettes aren't practical.",
+      "pros": ["3-inch height maximizes ROM for push-up variations", "Highly portable — fits in a bag for travel training", "Low wrist demand for athletes building foundational strength"],
+      "cons": ["3-inch height insufficient for L-sits or proper dips — hip doesn't clear the floor"],
+      "grade": "B",
+      "specs": {
+        "Material": "Steel",
+        "Height": "3 inches",
+        "Best for": "Push-up variations, wrist conditioning",
+        "Portability": "High — bag-portable",
+        "Price": "$69.95"
+      },
+      "scores": {
+        "Build quality": 4.0,
+        "Stability": 4.2,
+        "Comfort": 4.5,
+        "Versatility": 2.5,
+        "Value": 4.8
+      }
+    },
+    {
+      "offerId": "yes4all-parallettes",
+      "badge": "Best Budget Steel",
+      "review": "Yes4All offers steel parallette construction at a price closer to budget PVC sets. The 9-inch height matches ProsourceFit for the same exercise options — L-sits, push-ups with deeper ROM, pike holds, and basic dip work. Rubber feet prevent sliding on smooth floors, which matters during overhead or inverted work. Minor flex under very heavy pressing is the trade-off for the lower price versus commercial-grade Rogue.",
+      "pros": ["Steel construction stiffer than PVC at near-budget pricing", "9-inch height enables full L-sit hip clearance", "Rubber feet prevent sliding on smooth surfaces"],
+      "cons": ["Minor flex under very heavy pressing loads", "Not as rigid as Rogue under advanced static holds"],
+      "grade": "B-",
+      "specs": {
+        "Material": "Steel tube",
+        "Height": "9 inches",
+        "Feet": "Rubber anti-slip",
+        "Best for": "Intermediate home calisthenics",
+        "Price": "$39.99"
+      },
+      "scores": {
+        "Build quality": 3.8,
+        "Stability": 4.0,
+        "Comfort": 3.8,
+        "Versatility": 4.0,
+        "Value": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For comfort-focused training", "offerId": "prosourcefit-parallettes", "reason": "Birch wood grip reduces wrist fatigue for long L-sit and push-up hold sessions"},
+    {"label": "For skill progressions", "offerId": "tumbl-trak-p-bars", "reason": "Adjustable height lets you change bar clearance as handstand push-up and dip progressions advance"},
+    {"label": "For serious calisthenics athletes", "offerId": "rogue-p3-parallettes", "reason": "Zero flex under straddle planches and heavy dips — the only choice when load and precision matter"},
+    {"label": "For travel training", "offerId": "lebert-parallettes", "reason": "3-inch low bars pack into a bag and work on any surface for push-up variation work anywhere"},
+    {"label": "For budget home use", "offerId": "yes4all-parallettes", "reason": "Steel at near-PVC pricing with rubber feet for the same 9-inch exercise options as ProsourceFit"}
+  ]
 }

@@ -58,5 +58,144 @@
     "lion-mane-mushroom-powder": "Pure lion's mane extract powder, typically 500mg-1g per serving, 50-100 servings. $20-35. Best DIY approach — add to any coffee for precise dosing at clinical-relevant amounts. Most cost-effective for daily lion's mane supplementation."
   },
   "pinDescription": "Mushroom coffee 2026: Four Sigmatic vs Ryze vs Om vs Earth & Star — what the research actually says about lion's mane and cordyceps, whether mushroom coffee doses are meaningful, how to read labels for beta-glucan content, and whether DIY lion's mane powder beats premixed blends.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each mushroom coffee was assessed on mushroom species used, per-serving dosage transparency, extraction method (dual-extract vs whole powder), caffeine level, flavor integration, and cost per serving relative to buying coffee and supplements separately.",
+  "products": [
+    {
+      "offerId": "four-sigmatic-think-coffee",
+      "badge": "Best Overall",
+      "review": "Four Sigmatic pioneered mushroom coffee and remains the quality benchmark. The Think blend uses dual-extraction (hot water + alcohol) on organic Arabica, delivering 250mg lion's mane and 200mg chaga per serving with better bioavailability than raw powder products. Taste is genuinely coffee-forward with a mild earthy note — not medicinal. The 12-serving bag makes it the most expensive per-serving option, but the extraction quality justifies it for regular use.",
+      "pros": ["Dual-extraction increases bioavailability of active compounds", "250mg lion's mane + 200mg chaga per labeled serving", "Best taste integration — earthy note present but not intrusive"],
+      "cons": ["$28.50 for 12 servings — most expensive per-serving option here"],
+      "grade": "A+",
+      "specs": {
+        "Mushrooms": "Lion's mane + chaga",
+        "Lion's mane per serving": "250mg",
+        "Chaga per serving": "200mg",
+        "Extraction": "Dual-extraction",
+        "Servings": "12",
+        "Coffee base": "Organic Arabica"
+      },
+      "scores": {
+        "Flavor": 4.8,
+        "Mushroom quality": 4.9,
+        "Value": 3.5,
+        "Convenience": 5.0,
+        "Functional benefits": 4.6
+      }
+    },
+    {
+      "offerId": "ryze-mushroom-coffee",
+      "badge": "Best Value",
+      "review": "Ryze is the best-selling mushroom coffee by volume, and the $1.50/serving cost for 30 servings is the most competitive in this comparison. The 6-mushroom blend totals 2,000mg per serving, though individual mushroom doses are not disclosed. At 48mg caffeine per serving — roughly half of drip coffee — it is the right pick for anyone reducing caffeine while keeping a morning ritual. Trade-off: no transparency on per-mushroom dosing.",
+      "pros": ["$1.50/serving — best cost-per-serving of full mushroom coffee blends", "6-mushroom blend totals 2,000mg per serving", "Low 48mg caffeine — good for caffeine-sensitive users"],
+      "cons": ["Individual mushroom doses not disclosed — can't assess per-species efficacy"],
+      "grade": "A",
+      "specs": {
+        "Mushrooms": "6-blend: lion's mane, cordyceps, reishi, shiitake, turkey tail, king trumpet",
+        "Total mushroom per serving": "2,000mg",
+        "Caffeine per serving": "48mg",
+        "Servings": "30",
+        "Coffee base": "Organic Arabica",
+        "Blend disclosure": "Proprietary blend"
+      },
+      "scores": {
+        "Flavor": 4.3,
+        "Mushroom quality": 4.1,
+        "Value": 5.0,
+        "Convenience": 5.0,
+        "Functional benefits": 4.0
+      }
+    },
+    {
+      "offerId": "om-mushroom-master-blend",
+      "badge": "Best Organic",
+      "review": "Om's Master Blend is the most transparently certified option — USDA organic, full-spectrum whole mushroom powder (not just extract), third-party tested, and 10 mushroom species. The whole-powder vs dual-extract debate is real: whole powders preserve the full compound matrix including fiber and polysaccharides, while extracts concentrate active compounds more. At $19.99 for 30 servings, Om is also a strong value. The trade-off is that it is a pure mushroom powder added to your own coffee, not a ready-mixed product.",
+      "pros": ["USDA organic certification and third-party testing", "Full-spectrum whole mushroom powder — 10 species", "Best value for certified organic mushroom quality"],
+      "cons": ["Not pre-mixed with coffee — requires your own separate coffee purchase"],
+      "grade": "B+",
+      "specs": {
+        "Mushrooms": "10 species blend",
+        "Certification": "USDA Organic",
+        "Powder type": "Whole mushroom",
+        "Testing": "Third-party verified",
+        "Servings": "30",
+        "Format": "Add-to-coffee powder"
+      },
+      "scores": {
+        "Flavor": 4.0,
+        "Mushroom quality": 5.0,
+        "Value": 4.7,
+        "Convenience": 3.8,
+        "Functional benefits": 4.8
+      }
+    },
+    {
+      "offerId": "earth-and-star-mushroom-coffee",
+      "badge": "Best Transparency",
+      "review": "Earth & Star labels per-serving mushroom content for each species — lion's mane, chaga, and reishi — which is more honest than the proprietary-blend approach. Organic coffee base, pleasant mild flavor, and attractive packaging that makes it a reasonable gift option. Doses are labeled but not at clinical levels, so it is an honest, well-made product rather than a therapeutic-grade supplement.",
+      "pros": ["Per-serving mushroom dose labeled for each species", "Organic coffee base with mild, pleasant flavor", "Offers mushroom matcha and hot chocolate variants"],
+      "cons": ["Mushroom doses below clinical research levels — more wellness product than supplement"],
+      "grade": "B",
+      "specs": {
+        "Mushrooms": "Lion's mane + chaga + reishi",
+        "Dosing transparency": "Per-species labeled",
+        "Coffee base": "Organic",
+        "Servings": "30",
+        "Additional products": "Mushroom matcha, hot chocolate",
+        "Price per serving": "~$0.83"
+      },
+      "scores": {
+        "Flavor": 4.4,
+        "Mushroom quality": 4.3,
+        "Value": 4.4,
+        "Convenience": 4.8,
+        "Functional benefits": 4.0
+      }
+    },
+    {
+      "offerId": "lion-mane-mushroom-powder",
+      "badge": "Best DIY",
+      "review": "Adding pure lion's mane extract powder to your existing coffee is the most cost-effective and dosage-controlled approach in this comparison. At 500mg–1g per serving and 50–100 servings per bag, you can hit the lower bound of doses studied in human research while choosing whatever coffee you actually prefer. Minimal flavor impact at doses up to 1,000mg. The trade-off is managing two separate products.",
+      "pros": ["Precise dosing at 500mg–1g — closest to clinically studied amounts", "50–100 servings per bag — most servings per dollar", "No taste compromise — add to any coffee you already enjoy"],
+      "cons": ["Requires managing two separate products; not a single-purchase solution"],
+      "grade": "B-",
+      "specs": {
+        "Mushroom": "Pure lion's mane extract",
+        "Dose per serving": "500mg–1g",
+        "Servings": "50–100",
+        "Extraction": "Extract powder",
+        "Flavor impact": "Minimal",
+        "Price range": "$20–35"
+      },
+      "scores": {
+        "Flavor": 4.0,
+        "Mushroom quality": 4.8,
+        "Value": 5.0,
+        "Convenience": 3.0,
+        "Functional benefits": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For mushroom coffee first-timers",
+      "offerId": "four-sigmatic-think-coffee",
+      "reason": "Four Sigmatic's dual-extraction and good taste integration make it the most reliable introduction to the category — established quality with minimal adjustment period."
+    },
+    {
+      "label": "For daily drinkers cutting caffeine",
+      "offerId": "ryze-mushroom-coffee",
+      "reason": "At 48mg caffeine and $1.50/serving for 30 servings, Ryze is the most sustainable daily-habit option for those reducing caffeine without abandoning a morning coffee ritual."
+    },
+    {
+      "label": "For organic-only supplement buyers",
+      "offerId": "om-mushroom-master-blend",
+      "reason": "USDA organic, third-party tested, 10 species whole-mushroom powder — the most credentialed option for buyers who require certification and transparency."
+    },
+    {
+      "label": "For precision supplementers",
+      "offerId": "lion-mane-mushroom-powder",
+      "reason": "Pure extract powder lets you add a controlled 500–1,000mg dose to whatever coffee you already enjoy — the most cost-effective path to clinically relevant lion's mane intake."
+    }
+  ]
 }

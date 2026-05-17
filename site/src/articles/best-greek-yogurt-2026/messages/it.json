@@ -61,5 +61,184 @@
     "siggis-icelandic-yogurt": "Stile skyr — piu denso e meno zuccherato della maggior parte degli yogurt greci"
   },
   "pinDescription": "5 migliori yogurt greci classificati per proteine, zucchero e texture — dal denso Fage al Siggi's a basso contenuto di zucchero. Trova la tua scelta per la colazione, la cucina o il post-allenamento. #italiano",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni yogurt è stato valutato per contenuto proteico per porzione, livelli di zucchero (naturale e aggiunto), lunghezza e qualità dell'elenco ingredienti, consistenza della texture, profilo aromatico, trasparenza dell'approvvigionamento e prezzo per grammo di proteine.",
+  "products": [
+    {
+      "offerId": "fage-total-0",
+      "badge": "Migliore in assoluto",
+      "review": "Fage Total 0% stabilisce lo standard per lo yogurt greco autentico con 18–19g di proteine per 200g e solo 2 ingredienti — nessun addensante, nessuna pectina, texture interamente dalla colatura. Il sapore è più pungente e acido rispetto ai marchi americani — questa è una caratteristica, non un difetto. Il compromesso è un'acidità più forte che richiede adattamento.",
+      "pros": [
+        "18–19g di proteine per 200g — proteina senza grassi più alta nel mercato mainstream",
+        "Solo 2 ingredienti, senza addensanti o additivi",
+        "Texture densa che mantiene la forma quando viene servita con cucchiaio"
+      ],
+      "cons": [
+        "Il sapore più acido e pungente potrebbe richiedere adattamento per chi è abituato a marchi più delicati"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Porzione": "200g",
+        "Proteine": "18–19g",
+        "Grassi": "0%",
+        "Zucchero": "~8g naturale",
+        "Ingredienti": "2",
+        "Certificazioni": "Kosher",
+        "Prezzo": "~$7,49"
+      },
+      "scores": {
+        "Protein": 4.9,
+        "Taste": 4.5,
+        "Value": 4.3,
+        "Texture": 4.8,
+        "Ingredient quality": 4.9
+      }
+    },
+    {
+      "offerId": "chobani-plain-nonfat",
+      "badge": "Miglior valore quotidiano",
+      "review": "Chobani Plain Non-Fat è il cavallo di battaglia della categoria — denso ma non pesante, acidità pulita e 15g di proteine per vasetto da 150g con solo 3 ingredienti. Il vasetto da 900g offre il miglior valore per grammo di proteine nei supermercati. La versione senza grassi ha leggermente più carboidrati della versione al 2%.",
+      "pros": [
+        "Formula a 3 ingredienti senza zucchero aggiunto",
+        "Il vasetto da 900g offre il miglior costo per grammo di proteine",
+        "Genuinamente versatile in cucina e nei frullati"
+      ],
+      "cons": [
+        "La versione senza grassi ha leggermente più carboidrati della versione 2% per la concentrazione degli zuccheri del latte"
+      ],
+      "grade": "A",
+      "specs": {
+        "Porzione": "150g",
+        "Proteine": "15g",
+        "Grassi": "0%",
+        "Zucchero": "~6g naturale",
+        "Ingredienti": "3",
+        "Dimensione vasetto": "900g disponibile",
+        "Prezzo": "~$6,98"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Taste": 4.4,
+        "Value": 4.8,
+        "Texture": 4.3,
+        "Ingredient quality": 4.6
+      }
+    },
+    {
+      "offerId": "siggis-icelandic-yogurt",
+      "badge": "Migliore basso contenuto di zucchero",
+      "review": "Lo skyr islandese di Siggi's fornisce 17g di proteine per 150g con solo 6g di carboidrati — il rapporto zucchero-proteine più basso in questo confronto. La texture è più densa dello yogurt greco, quasi spalmabile, e il sapore è intensamente acido. La linea di gusti mantiene lo zucchero aggiunto sotto i 9g in totale.",
+      "pros": [
+        "Solo 6g di carboidrati totali per vasetto da 150g",
+        "17g di proteine con pochissimo zucchero aggiunto nella linea di gusti",
+        "La densità unica dello skyr funziona come sostituto del formaggio spalmabile sul toast"
+      ],
+      "cons": [
+        "Il sapore intensamente acido è un gusto acquisito"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Porzione": "150g",
+        "Proteine": "17g",
+        "Grassi": "0%",
+        "Carboidrati totali": "6g",
+        "Stile": "Skyr islandese",
+        "Dolcificante": "Nessuno (naturale)",
+        "Prezzo": "~$6,49"
+      },
+      "scores": {
+        "Protein": 4.7,
+        "Taste": 4.0,
+        "Value": 4.0,
+        "Texture": 4.6,
+        "Ingredient quality": 4.7
+      }
+    },
+    {
+      "offerId": "oikos-triple-zero",
+      "badge": "Migliore scelta aromatizzata",
+      "review": "Oikos Triple Zero raggiunge 15g di proteine a 90 calorie con zero zuccheri aggiunti, zero dolcificanti artificiali e zero grassi — usando estratto di frutto del monaco nelle varietà aromatizzate. Per chi monitora i macronutrienti e vuole uno yogurt aromatizzato senza stevia o sucralosio, questa è l'unica opzione mainstream. Alcune varietà aggiungono fibra di cicoria.",
+      "pros": [
+        "Zero zucchero aggiunto, zero dolcificanti artificiali, zero grassi nella linea aromatizzata",
+        "Dolcificato con frutto del monaco — senza stevia o sucralosio",
+        "15g di proteine a 90 calorie"
+      ],
+      "cons": [
+        "Alcune varietà aromatizzate contengono fibra di cicoria (controllare l'etichetta se sensibili)"
+      ],
+      "grade": "B",
+      "specs": {
+        "Porzione": "150g",
+        "Proteine": "15g",
+        "Grassi": "0%",
+        "Carboidrati": "7g",
+        "Zucchero aggiunto": "0g",
+        "Dolcificante": "Frutto del monaco",
+        "Prezzo": "~$1,49"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Taste": 4.2,
+        "Value": 4.9,
+        "Texture": 4.1,
+        "Ingredient quality": 4.2
+      }
+    },
+    {
+      "offerId": "stonyfield-organic-greek",
+      "badge": "Migliore per provenienza",
+      "review": "Stonyfield Organic è la scelta quando certificazione e provenienza contano: certificato bio USDA, latte da mucche allevate a erba e cinque ceppi probiotici vivi nominati sull'etichetta. Le proteine a 14–15g per porzione sono leggermente inferiori a Fage, e il sapore è più delicato — acidità gentile per chi trova Fage troppo pungente. Leggermente più costoso per grammo.",
+      "pros": [
+        "Certificato bio USDA con latte da mucche allevate a erba",
+        "5 culture probiotiche vive nominate sull'etichetta",
+        "Sapore delicato adatto a chi trova Fage troppo acido"
+      ],
+      "cons": [
+        "Leggermente meno proteine (14–15g) e costo più alto per grammo rispetto a Chobani o Fage"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Porzione": "150g",
+        "Proteine": "14–15g",
+        "Certificazione": "USDA Bio",
+        "Fonte latte": "Mucche allevate a erba",
+        "Probiotici": "5 ceppi nominati",
+        "Grassi": "0%",
+        "Prezzo": "~$7,99"
+      },
+      "scores": {
+        "Protein": 4.2,
+        "Taste": 4.3,
+        "Value": 3.8,
+        "Texture": 4.2,
+        "Ingredient quality": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per il massimo delle proteine per porzione",
+      "offerId": "fage-total-0",
+      "reason": "18–19g di proteine per 200g con solo 2 ingredienti e senza addensanti"
+    },
+    {
+      "label": "Per cucina e valore quotidiani",
+      "offerId": "chobani-plain-nonfat",
+      "reason": "Miglior costo per grammo di proteine nel vasetto da 900g con formula pulita a 3 ingredienti"
+    },
+    {
+      "label": "Per un'assunzione di zucchero molto bassa",
+      "offerId": "siggis-icelandic-yogurt",
+      "reason": "Solo 6g di carboidrati per porzione con 17g di proteine — il più basso rapporto zucchero-proteine"
+    },
+    {
+      "label": "Per uno yogurt aromatizzato senza dolcificanti artificiali",
+      "offerId": "oikos-triple-zero",
+      "reason": "Dolcificato con frutto del monaco con zero zucchero aggiunto e senza stevia o sucralosio"
+    },
+    {
+      "label": "Per provenienza bio e da pascolo",
+      "offerId": "stonyfield-organic-greek",
+      "reason": "Bio USDA, latte da mucche allevate a erba e 5 ceppi probiotici nominati sull'etichetta"
+    }
+  ]
 }

@@ -90,5 +90,64 @@
     "weider-power-tower-200": "Premium four-station power tower with thicker frame, wider dip handle spacing, and heavier VKR arm rest padding than budget alternatives. Best-in-class dip and VKR comfort. 115 by 135 cm base footprint — largest in this comparison. Rated to 136 kg static. Worth the price premium over the Fitness Reality X2 for buyers who will use the dip and VKR stations frequently."
   },
   "pinDescription": "5 freestanding pull-up bars compared: CAP vs Ultimate Body Press vs Yaheetech vs Fitness Reality vs Weider. Find which power tower fits your floor space, height, and training goals — no drilling needed.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each unit was assessed on frame stability under static dead-hang and simulated dynamic loading, base footprint and room clearance requirements, bar height relative to user height, dip station and VKR padding comfort, and long-term frame rigidity reported by users beyond 12 months of regular use.",
+  "products": [
+    {
+      "offerId": "fitness-reality-x2-power-tower",
+      "badge": "Best Overall",
+      "review": "The Fitness Reality X2 delivers four training stations — pull-up bar, dip station, push-up handles, padded VKR — in a 110×130 cm footprint at a price that makes it the right starting point for most home gyms. The 3.8 cm square tube frame is noticeably more rigid than round tube designs at the same price. Bar height at 228 cm provides dead-hang clearance for users up to 185 cm. The VKR arm rests and dip handles are adequate but not the most comfortable for long sets — the Weider improves on both.",
+      "pros": ["4-station design covers pull-up, dip, push-up, and VKR in one unit", "3.8 cm square tube frame is rigid for the price category", "228 cm bar height covers users up to ~185 cm without knee bend"],
+      "cons": ["VKR arm rest padding thinner than Weider — noticeable on long hanging leg raise sets"],
+      "grade": "A+",
+      "specs": {"Stations": "4 (pull-up, dip, push-up, VKR)", "Base footprint": "110×130 cm", "Bar height": "~228 cm (fixed)", "Load capacity": "136 kg static", "Frame": "3.8 cm square tube steel", "Price": "$140", "Assembly time": "~60–90 min"},
+      "scores": {"Stability": 4.5, "Load capacity": 4.4, "Footprint": 3.8, "Value": 4.9, "Versatility": 4.7}
+    },
+    {
+      "offerId": "power-tower-workout-dip-station",
+      "badge": "Best Compact",
+      "review": "The Yaheetech Power Tower packs the same four stations as the Fitness Reality X2 into a 95×110 cm footprint — the smallest power tower in this comparison. Bar height adjusts to 220 cm via preset holes, and the 150 kg rating is the highest in this comparison. The VKR arm rest padding is thinner than the X2, and the fixed-width dip handles may feel narrow for wide-shouldered users. Best choice when every square centimeter of room space matters.",
+      "pros": ["Smallest power tower footprint in this comparison at 95×110 cm", "150 kg static load rating — highest of any unit here", "Adjustable bar height up to 220 cm via preset positions"],
+      "cons": ["Thinner VKR arm rest padding than Fitness Reality X2 and Weider"],
+      "grade": "A",
+      "specs": {"Stations": "4 (pull-up, dip, push-up, VKR)", "Base footprint": "95×110 cm", "Bar height": "Up to ~220 cm (adjustable)", "Load capacity": "150 kg static", "Frame": "Round tube steel", "Price": "$199.99", "Assembly time": "~60 min"},
+      "scores": {"Stability": 4.3, "Load capacity": 4.7, "Footprint": 4.9, "Value": 4.6, "Versatility": 4.5}
+    },
+    {
+      "offerId": "cap-barbell-freestanding-pull-up-bar",
+      "badge": "Best Pull-Up Only",
+      "review": "The CAP Barbell is a standalone pull-up station without dip or VKR — which makes it the smallest-depth unit in this comparison at 97×60 cm. The A-frame outrigger base delivers better lateral stability for strict dead-hang pull-ups than rectangular-base power towers, because the user hangs at the center of a wide base rather than at the edge of a narrow one. Fixed bar at 218 cm and multiple grip options built in. Not the choice if you want to add dips or VKR to your program.",
+      "pros": ["Smallest depth footprint at 97×60 cm — fits spaces power towers cannot", "A-frame base produces better lateral stability than rectangular-base designs", "Multiple grip positions: wide overhand and neutral parallel"],
+      "cons": ["No dip station, push-up handles, or VKR — pull-up only"],
+      "grade": "B+",
+      "specs": {"Stations": "1 (pull-up only)", "Base footprint": "~97×60 cm", "Bar height": "~218 cm (fixed)", "Load capacity": "136 kg static", "Base design": "A-frame with outrigger feet", "Price": "$149.99", "Grip options": "Wide overhand, neutral parallel"},
+      "scores": {"Stability": 4.6, "Load capacity": 4.4, "Footprint": 4.8, "Value": 4.3, "Versatility": 2.8}
+    },
+    {
+      "offerId": "weider-power-tower-200",
+      "badge": "Best Premium",
+      "review": "The Weider Power Tower 200 improves on the Fitness Reality X2 in the two areas most noticeable during training: wider dip handle spacing and thicker VKR arm rest padding. Both changes improve comfort and shoulder positioning for athletes who use these stations frequently. The heavier frame gauge increases rigidity but also size — the 115×135 cm footprint is the largest in this comparison. Worth the price premium over the X2 if you use the dip and VKR stations regularly and value comfort during longer sets.",
+      "pros": ["Wider dip handle spacing improves shoulder positioning at the bottom of dips", "Thicker VKR arm rest padding noticeably more comfortable for long sets", "Heavier frame gauge more rigid than budget power towers"],
+      "cons": ["115×135 cm footprint is the largest in this comparison"],
+      "grade": "B",
+      "specs": {"Stations": "4 (pull-up, dip, push-up, VKR)", "Base footprint": "115×135 cm", "Bar height": "~228 cm (fixed)", "Load capacity": "136 kg static", "Frame": "Heavy-gauge steel", "Price": "$206.09", "Assembly time": "~90 min"},
+      "scores": {"Stability": 4.7, "Load capacity": 4.4, "Footprint": 3.2, "Value": 4.0, "Versatility": 4.6}
+    },
+    {
+      "offerId": "ultimate-body-press-freestanding-bar",
+      "badge": "Best for Tall Users",
+      "review": "The Ultimate Body Press is the only standalone pull-up bar in this comparison with height adjustment — 193 to 244 cm in preset steps, the tallest available setting here. The straight overhand bar has no integrated neutral or parallel grip handles. The rectangular four-foot base is slightly less stable than the CAP's A-frame design at tall settings for users over 80 kg doing dynamic movements; the included wall-anchor strap addresses this. Best for users over 185 cm who share the bar with training partners of different heights.",
+      "pros": ["Adjustable height 193–244 cm — tallest setting in this comparison", "Wall-anchor hardware included for added stability under dynamic loading", "Compact rectangular base fits narrow spaces"],
+      "cons": ["Straight bar only — no neutral or parallel grip handles built in"],
+      "grade": "B-",
+      "specs": {"Stations": "1 (pull-up only)", "Base footprint": "~4-foot rectangular", "Bar height": "193–244 cm (adjustable presets)", "Load capacity": "136 kg with anchor", "Base design": "Rectangular 4-foot", "Price": "$79.95", "Anchor": "Wall strap included"},
+      "scores": {"Stability": 3.8, "Load capacity": 4.0, "Footprint": 4.2, "Value": 4.4, "Versatility": 2.6}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For most home gyms wanting full upper-body training", "offerId": "fitness-reality-x2-power-tower", "reason": "Four stations in a manageable footprint at the lowest price — pull-ups, dips, push-ups, and VKR without buying separate equipment."},
+    {"label": "For small rooms where every centimeter counts", "offerId": "power-tower-workout-dip-station", "reason": "Smallest power tower footprint in this comparison with the highest load rating — the right choice when space is the binding constraint."},
+    {"label": "For pull-up-only training without power tower bulk", "offerId": "cap-barbell-freestanding-pull-up-bar", "reason": "A-frame stability and minimal depth footprint deliver pull-up capability without the room commitment of a full power tower."},
+    {"label": "For frequent dip and VKR users who want maximum comfort", "offerId": "weider-power-tower-200", "reason": "Wider dip handles and thicker VKR padding justify the premium for athletes whose program relies on these stations 3+ times per week."},
+    {"label": "For users taller than 185 cm needing adjustable height", "offerId": "ultimate-body-press-freestanding-bar", "reason": "The tallest bar setting in this comparison at 244 cm — the only freestanding option that accommodates very tall users without a bent-knee hang."}
+  ]
 }

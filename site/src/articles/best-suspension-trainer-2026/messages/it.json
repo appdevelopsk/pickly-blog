@@ -53,5 +53,184 @@
     "monkii-bars-2": "3,5 oz per barra, si aggancia a rami, ringhiere di recinzione o qualsiasi oggetto inferiore a 1,25\". L'unico trainer per i veri minimalisti da viaggio. Capacita di 300 lb."
   },
   "pinDescription": "I 5 migliori suspension trainer del 2026 — TRX GO vs PRO4 vs Jungle Gym vs Monkii Bars. Allenamento per tutto il corpo da un singolo punto di ancoraggio. Quale si adatta al tuo allenamento? #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni trainer è stato valutato per la qualità dell'ancoraggio e la classificazione del carico dei punti di ancoraggio inclusi, la durabilità dei cinturini sotto carico dinamico, la versatilità degli esercizi nelle categorie di trazione, spinta, cerniera e core, il valore rispetto alle alternative nella stessa fascia di prezzo e la facilità di configurazione dal sacchetto al primo esercizio.",
+  "products": [
+    {
+      "offerId": "trx-pro4-suspension",
+      "badge": "Migliore in Assoluto",
+      "review": "Il TRX PRO4 è lo standard della palestra commerciale — capacità di 1.400 libbre, ancoraggio porta, ancoraggio sospensione e borsa. L'ancoraggio porta più largo di questo confronto distribuisce la forza in modo più uniforme sul telaio. A 249,95$ è l'opzione a cinturino singolo più costosa, ma il divario qualitativo rispetto alle alternative budget è reale.",
+      "pros": [
+        "Capacità di 1.400 libbre gestisce i carichi dinamici di salto e gli utenti all'estremità superiore dell'intervallo di peso",
+        "Include ancoraggio porta, ancoraggio sospensione e borsa — copre quasi ogni scenario di ancoraggio",
+        "Standard di costruzione della palestra commerciale — il riferimento rispetto al quale tutti gli altri trainer di sospensione vengono giudicati"
+      ],
+      "cons": [
+        "Il più costoso a 249,95$; più pesante e ingombrante del TRX GO per l'uso in viaggio"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Weight capacity": "1,400 lb / 635 kg",
+        "System weight": "1.8 lb / 0.8 kg",
+        "Webbing width": "1.5 inch nylon",
+        "Anchors included": "Door anchor + suspension anchor",
+        "Handle grip": "Rubber-coated",
+        "Foot cradle": "Yes",
+        "Price": "$249.95"
+      },
+      "scores": {
+        "Anchor quality": 5.0,
+        "Strap durability": 5.0,
+        "Versatility": 5.0,
+        "Value": 3.5,
+        "Ease of setup": 4.5
+      }
+    },
+    {
+      "offerId": "trx-go-suspension",
+      "badge": "Migliore per i Viaggi",
+      "review": "Il TRX GO pesa 1,4 libbre e si piega in una tasca della giacca — qualità TRX autentica nel pacchetto più piccolo possibile. La capacità di 350 libbre copre l'allenamento con il peso corporeo comodamente senza salti dinamici. Nessun libretto di allenamento o abbonamento al Training Club incluso.",
+      "pros": [
+        "1,4 libbre e taglia da tasca — genuinamente compatibile con il bagaglio a mano per i frequent traveler",
+        "Materiali e qualità costruttiva TRX autentici al prezzo di ingresso",
+        "Ancoraggio porta incluso — funziona in qualsiasi camera d'albergo o casa con una porta che si apre verso l'interno"
+      ],
+      "cons": [
+        "Capacità di 350 libbre — non progettato per movimenti dinamici di salto; nessuna programmazione inclusa"
+      ],
+      "grade": "A",
+      "specs": {
+        "Weight capacity": "350 lb / 159 kg",
+        "System weight": "1.4 lb / 0.6 kg",
+        "Webbing width": "1.5 inch nylon",
+        "Anchors included": "Door anchor",
+        "Handle grip": "Rubber-coated",
+        "Foot cradle": "Yes",
+        "Price": "$129.95"
+      },
+      "scores": {
+        "Anchor quality": 4.0,
+        "Strap durability": 4.2,
+        "Versatility": 4.3,
+        "Value": 4.2,
+        "Ease of setup": 5.0
+      }
+    },
+    {
+      "offerId": "jungle-gym-xt",
+      "badge": "Migliore per la Salute delle Spalle",
+      "review": "Il design a braccia indipendenti del Jungle Gym XT consente a ciascun braccio di muoversi ad altezze e larghezze diverse — tracking naturale della spalla che gli atleti con lesioni alla spalla trovano spesso più comodo per i movimenti di spinta. Clip di moschettone su qualsiasi barra per trazioni; capacità di 400 libbre.",
+      "pros": [
+        "I bracci indipendenti consentono variazioni naturali del percorso della spalla durante i piegamenti e i rematori — migliore per la riabilitazione delle lesioni alla spalla",
+        "Clip di moschettone su qualsiasi barra per trazioni o rack — non serve ancoraggio porta",
+        "I manici in schiuma da 1,75 pollici sono più larghi dei manici in gomma TRX — preferiti da alcuni per le serie più lunghe"
+      ],
+      "cons": [
+        "Nessun tirante per i piedi fisso per le variazioni pike e mountain climber; la configurazione è leggermente più complessa rispetto ai sistemi a cinturino singolo"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Weight capacity": "400 lb / 181 kg",
+        "System weight": "Approx. 1.2 lb",
+        "Webbing width": "1.5 inch nylon (dual)",
+        "Anchors included": "Carabiner clips (no door anchor)",
+        "Handle grip": "1.75-inch foam",
+        "Foot cradle": "Limited",
+        "Price": "$99.95"
+      },
+      "scores": {
+        "Anchor quality": 4.5,
+        "Strap durability": 4.3,
+        "Versatility": 4.2,
+        "Value": 4.5,
+        "Ease of setup": 3.8
+      }
+    },
+    {
+      "offerId": "nossk-twin-strap",
+      "badge": "Migliore Budget a Doppio Braccio",
+      "review": "NOSSK Twin-Strap offre il concetto di braccio indipendente a circa un terzo del prezzo del TRX PRO4 — clip di moschettone duali, capacità di 250 libbre e regolazione fibbia standard. La cinghia in nylon più sottile da 1 pollice e le fibbie in plastica richiedono un serraggio deciso prima degli esercizi dinamici.",
+      "pros": [
+        "Design a doppio cinturino indipendente a circa un terzo del prezzo del TRX PRO4",
+        "Clip di moschettone su qualsiasi barra per trazioni — stessa flessibilità di ancoraggio del Jungle Gym XT",
+        "Copre adeguatamente gli esercizi di base di trazione, spinta e core per l'allenamento domestico"
+      ],
+      "cons": [
+        "La capacità di 250 libbre è la più bassa qui; la cinghia da 1 pollice è più sottile dello standard TRX; le fibbie in plastica richiedono un serraggio attento prima dei movimenti dinamici"
+      ],
+      "grade": "B",
+      "specs": {
+        "Weight capacity": "250 lb / 113 kg",
+        "System weight": "Approx. 0.7 lb",
+        "Webbing width": "1 inch nylon (dual)",
+        "Anchors included": "Carabiner clips",
+        "Handle grip": "Basic loop handle",
+        "Foot cradle": "No",
+        "Price": "$55"
+      },
+      "scores": {
+        "Anchor quality": 3.5,
+        "Strap durability": 3.8,
+        "Versatility": 4.0,
+        "Value": 4.9,
+        "Ease of setup": 4.3
+      }
+    },
+    {
+      "offerId": "monkii-bars-2",
+      "badge": "Migliore per Viaggi Minimalisti",
+      "review": "Monkii Bars 2 pesa 3,5 once per barra e si aggancia a qualsiasi oggetto fino a 1,25 pollici — rami, pali dei cartelli, recinzioni. La configurazione richiede meno di 30 secondi ovunque. I cordoni a lunghezza fissa limitano alcune variazioni del cabestran per i piedi, e la regolazione dell'altezza richiede il riposizionamento del punto di ancoraggio invece di far scorrere una fibbia.",
+      "pros": [
+        "3,5 oz per barra — il trainer di sospensione più compatto disponibile; entra in qualsiasi borsa da viaggio",
+        "Il clip a molla si attacca a rami, pali dei cartelli o qualsiasi oggetto fino a 1,25 pollici — nessun punto di ancoraggio dedicato richiesto",
+        "Configurazione in meno di 30 secondi ovunque — il dispiegamento più veloce di qualsiasi trainer in questo confronto"
+      ],
+      "cons": [
+        "I cordoni a lunghezza fissa limitano i movimenti del cabestran per i piedi; la regolazione dell'altezza richiede il riposizionamento del punto di ancoraggio invece di regolare la fibbia"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Weight capacity": "300 lb / 136 kg",
+        "System weight": "3.5 oz / 99 g per bar",
+        "Attachment": "Spring-loaded clip (up to 1.25 inch diameter)",
+        "Anchors included": "Integrated clip — no accessories needed",
+        "Handle": "Machined aluminum cylinder",
+        "Cord adjustment": "Fixed length",
+        "Price": "$100–150"
+      },
+      "scores": {
+        "Anchor quality": 4.2,
+        "Strap durability": 4.0,
+        "Versatility": 3.5,
+        "Value": 3.8,
+        "Ease of setup": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per un allenamento serio a casa e in palestra con la massima versatilità",
+      "offerId": "trx-pro4-suspension",
+      "reason": "Standard commerciale di 1.400 libbre con ogni scenario di ancoraggio coperto di serie — il trainer di sospensione di riferimento per l'allenamento dedicato."
+    },
+    {
+      "label": "Per i frequent traveler che vogliono un TRX autentico in tasca",
+      "offerId": "trx-go-suspension",
+      "reason": "1,4 libbre e taglia da tasca con ancoraggio porta incluso — qualità TRX che funziona in qualsiasi camera d'albergo senza bagagli in stiva."
+    },
+    {
+      "label": "Per atleti con storia di lesioni alla spalla o esigenze di allenamento asimmetrico",
+      "offerId": "jungle-gym-xt",
+      "reason": "I bracci indipendenti consentono il tracking naturale della spalla nei movimenti di spinta — clinicamente preferito da molti atleti che tornano da lesioni alla spalla."
+    },
+    {
+      "label": "Per l'allenamento domestico con budget limitato",
+      "offerId": "nossk-twin-strap",
+      "reason": "Design a doppio cinturino indipendente che copre tutti i movimenti di base a un terzo del prezzo del TRX PRO4 — il miglior ingresso in valore nell'allenamento di sospensione."
+    },
+    {
+      "label": "Per gli atleti outdoor minimalisti in viaggio che si allenano ovunque",
+      "offerId": "monkii-bars-2",
+      "reason": "3,5 oz per barra si aggangia a panchine del parco, rami di alberi e pali dei cartelli — risolve il problema di ancoraggio che nessun altro trainer qui affronta."
+    }
+  ]
 }

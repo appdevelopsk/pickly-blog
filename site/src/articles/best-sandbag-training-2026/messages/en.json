@@ -58,5 +58,64 @@
     "cerberus-strength-sandbag": "Competition standard construction, 150-450 lb capacity, used in Strongman Corporation events. $150-300. Best for actual strongman competition training — competition-equivalent equipment. Load capacities exceed most home gym needs."
   },
   "pinDescription": "Training sandbag comparison 2026: Rogue vs REP Fitness vs GORUCK vs Viking Strength vs Cerberus — shifting load vs barbell, what sandbag training develops, and which sandbag is worth the investment for your training goals.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Sandbags were evaluated on shell material denier and seam construction, filler bag quality and closure, handle placement and grip surface under load, maximum rated capacity vs real-world usable load, and price per kilogram of capacity — durability and handle quality weighted highest because a failed handle during a heavy shouldering attempt is genuinely dangerous.",
+  "products": [
+    {
+      "offerId": "rogue-sandbag",
+      "badge": "Best Overall",
+      "review": "Rogue's 1000D Cordura shell, reinforced seam stitching, and multiple integrated handles (top, side, bottom) make it the sandbag you can throw, drag, and drop on rough surfaces without the outer shell failing. The modular filler bag system lets you use sand, rice, or gravel. The price ($175–250 for shell plus fillers) is the highest in this comparison and is justified by the construction quality — it won't need replacing.",
+      "pros": ["1000D Cordura shell built for commercial gym abuse", "Multiple handle positions cover all sandbag movements", "Modular filler bags for sand, rice, or gravel"],
+      "cons": ["Most expensive option — $175–250 for shell + fillers"],
+      "grade": "A+",
+      "specs": {"Shell material": "1000D Cordura", "Max load": "150–300 lbs (by size)", "Handles": "Top, side, bottom integrated", "Filler system": "Modular bags", "Sizes": "Small / Large / XL", "Price": "~$175–250"},
+      "scores": {"Durability": 5.0, "Filler capacity": 5.0, "Handle quality": 5.0, "Value": 3.5, "Versatility": 5.0}
+    },
+    {
+      "offerId": "rep-fitness-sandbag",
+      "badge": "Best Value",
+      "review": "REP's 900D Cordura shell and reinforced handle system deliver adequate durability for consistent home gym use at significantly less than Rogue — $80–130 versus $175–250. The handle placement (top and side grips) covers the full range of sandbag exercises. For home gym athletes who train hard but aren't throwing the bag on commercial gym concrete daily, REP provides better value than the Rogue premium.",
+      "pros": ["900D Cordura adequate for regular home gym use", "50–150 lb sizes cover most training ranges", "Significantly cheaper than Rogue at comparable capacity"],
+      "cons": ["900D Cordura less robust than Rogue's 1000D for daily abuse"],
+      "grade": "A",
+      "specs": {"Shell material": "900D Cordura", "Max load": "50–150 lbs", "Handles": "Top, side grips", "Filler system": "Modular", "Sizes": "50 / 100 / 150 lb", "Price": "~$80–130"},
+      "scores": {"Durability": 4.2, "Filler capacity": 4.0, "Handle quality": 4.3, "Value": 5.0, "Versatility": 4.5}
+    },
+    {
+      "offerId": "goruck-training-sandbag",
+      "badge": "Best for Rucking",
+      "review": "GORUCK's military construction heritage shows in the welded webbing handles and sealed seams — this bag is built for sustained loaded carries under field conditions, not for repeated drops in a gym. The top handle is the strongest single attachment point in this comparison. Best for athletes training for GORUCK events or military fitness tests where carrying endurance is the primary demand.",
+      "pros": ["Military-standard welded webbing handles", "1000D Cordura with sealed seams for field durability", "Built specifically for sustained loaded carries"],
+      "cons": ["Handle system optimized for carrying, not barbell-style lifting"],
+      "grade": "B+",
+      "specs": {"Shell material": "1000D Cordura", "Max load": "varies by size", "Handles": "Welded webbing", "Seams": "Sealed", "Origin": "Military rucksack heritage", "Price": "~$100–175"},
+      "scores": {"Durability": 5.0, "Filler capacity": 4.0, "Handle quality": 4.5, "Value": 4.0, "Versatility": 3.5}
+    },
+    {
+      "offerId": "vikingstrength-sandbag",
+      "badge": "Best for Strongman",
+      "review": "Viking Strength's shell geometry is optimized for shouldering — the grip panel on top creates a secure two-hand pull during the clean phase, which generic single-handle designs make significantly harder. Handle placement matches the shouldering movement pattern better than any other bag in this comparison. For athletes specifically programming sandbag shouldering rather than mixed conditioning, this is the purpose-built tool.",
+      "pros": ["Shell geometry optimized for shouldering movement", "Grip panel allows secure two-hand pull in clean phase", "Handle placement matches strongman competition movements"],
+      "cons": ["Less versatile for conditioning circuits vs multi-handle designs"],
+      "grade": "B",
+      "specs": {"Shell material": "Heavy-duty fabric", "Optimized for": "Shouldering", "Grip panel": "Yes — two-hand clean pull", "Max load": "~100–200 lbs", "Price": "~$100–150"},
+      "scores": {"Durability": 4.5, "Filler capacity": 4.0, "Handle quality": 4.8, "Value": 4.0, "Versatility": 3.2}
+    },
+    {
+      "offerId": "cerberus-strength-sandbag",
+      "badge": "Best for Competition",
+      "review": "Cerberus supplies Strongman Corporation events — if you are training for actual sanctioned strongman competition, this is competition-equivalent equipment. Load capacities (150–450 lbs) exceed what most home gym users need, and at $150–300 it is priced for competitive athletes who need to replicate exact event conditions in training. For general fitness, the other options in this list are a better fit.",
+      "pros": ["Competition standard — used in Strongman Corporation events", "150–450 lb capacity for advanced strength athletes", "Multiple grab points for varied loading positions"],
+      "cons": ["Load capacities and price exceed most home gym needs"],
+      "grade": "B-",
+      "specs": {"Shell material": "Competition-grade", "Max load": "150–450 lbs", "Used in": "Strongman Corporation events", "Grab points": "Multiple", "Price range": "~$150–300"},
+      "scores": {"Durability": 5.0, "Filler capacity": 5.0, "Handle quality": 4.5, "Value": 3.0, "Versatility": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For commercial gym or CrossFit box use", "offerId": "rogue-sandbag", "reason": "1000D Cordura and welded handles survive repeated drops, drags, and throws on concrete — the construction quality commercial use demands."},
+    {"label": "For home gym athletes on a budget", "offerId": "rep-fitness-sandbag", "reason": "900D Cordura and a complete handle system at roughly half the Rogue price — the right balance of durability and cost for non-commercial training."},
+    {"label": "For GORUCK or military fitness prep", "offerId": "goruck-training-sandbag", "reason": "Military construction standards and the strongest top carry handle make this the purpose-built tool for rucking events and loaded-carry conditioning."},
+    {"label": "For athletes programming sandbag shouldering", "offerId": "vikingstrength-sandbag", "reason": "Shell geometry and grip panel placement match the shouldering movement pattern better than any generic sandbag design in this comparison."},
+    {"label": "For sanctioned strongman competition prep", "offerId": "cerberus-strength-sandbag", "reason": "Competition-equivalent equipment at 150–450 lb capacities — the only bag here that replicates actual Strongman Corporation event conditions exactly."}
+  ]
 }

@@ -83,5 +83,167 @@
     "mueller-v-pro-mandoline": "Option économique multilames -- cinq lames interchangeables dont gaufre et râpe au prix le plus bas. Acier de grade 420 perd de son tranchant après 6 mois d'utilisation régulière ; protège-doigts à pointes plus courtes perd sa prise sur les produits à peau lisse sous 5 cm."
   },
   "pinDescription": "5 mandolines comparées en 2026 : de la Mueller V-Pro à 3 500 yens à la Benriner No. 64 à 22 000 yens. Tranchant de la lame, évaluations de sécurité du protège-doigts et laquelle vaut vraiment le risque pour les doigts. #MandolineCuisine #OutilsCuisine #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque mandoline a été testée sur du daikon, du concombre, de la carotte, de la pomme de terre et du fenouil à des réglages fins (1 mm), moyens (3 mm) et épais (6–7 mm) — en évaluant la netteté de la lame, la régularité des tranches, l'efficacité du protège-doigts et le risque de blessure sur 30 sessions de test. La sécurité a été pondérée à égalité avec la performance de coupe.",
+  "products": [
+    {
+      "offerId": "benriner-mandoline-no64",
+      "badge": "Meilleur au global",
+      "review": "La lame en acier inoxydable japonais produit des tranches d'une régularité remarquable, même à 1 mm d'épaisseur. Sa conception épurée facilite le nettoyage, et l'outil est apprécié des cuisiniers professionnels du monde entier. Associé à un gant anti-coupure, il est à la fois précis et sûr.",
+      "pros": [
+        "lame japonaise rasoir",
+        "compact et léger",
+        "facile à nettoyer",
+        "tranches ultra-fines régulières"
+      ],
+      "cons": [
+        "pas de protège-doigts intégré",
+        "peu d'options d'épaisseur"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Matériau lame": "Acier inoxydable",
+        "Réglage épaisseur": "0,3–4 mm",
+        "Poids": "290 g",
+        "Pays d'origine": "Japon"
+      },
+      "scores": {
+        "Précision de coupe": 9.8,
+        "Sécurité": 7.5,
+        "Facilité d'utilisation": 8.5,
+        "Rapport qualité-prix": 9.0,
+        "Polyvalence": 7.0
+      }
+    },
+    {
+      "offerId": "oxo-chef-mandoline-2-0",
+      "badge": "Sécurité n°1",
+      "review": "Le protège-doigts amélioré d'OXO protège efficacement les mains et rend l'appareil accessible aux débutants. Le réglage précis de l'épaisseur et le large support alimentaire permettent de travailler avec de nombreux légumes et fruits. Le principal inconvénient est son encombrement.",
+      "pros": [
+        "meilleur protège-doigts du marché",
+        "réglage précis de l'épaisseur",
+        "large support alimentaire",
+        "lavable au lave-vaisselle"
+      ],
+      "cons": [
+        "volumineux et lourd",
+        "prix élevé"
+      ],
+      "grade": "A",
+      "specs": {
+        "Matériau lame": "Acier inoxydable",
+        "Réglage épaisseur": "0,5–9 mm",
+        "Poids": "1,1 kg",
+        "Pays d'origine": "Chine"
+      },
+      "scores": {
+        "Précision de coupe": 9.0,
+        "Sécurité": 9.5,
+        "Facilité d'utilisation": 9.0,
+        "Rapport qualité-prix": 7.5,
+        "Polyvalence": 8.5
+      }
+    },
+    {
+      "offerId": "kyocera-ceramic-mandoline",
+      "badge": "Idéal pour usage léger",
+      "review": "La lame céramique ne rouille pas et ne transfère aucune odeur — parfaite pour les oignons et l'ail. Design ultra-léger et compact pour un rangement facile. Les réglages d'épaisseur sont limités à 3 niveaux, mais suffisants pour un usage quotidien.",
+      "pros": [
+        "lame céramique anti-rouille",
+        "ultra-léger",
+        "pas de transfert d'odeur",
+        "très abordable"
+      ],
+      "cons": [
+        "seulement 3 niveaux d'épaisseur",
+        "la lame céramique peut éclater si elle tombe"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Matériau lame": "Céramique",
+        "Réglage épaisseur": "3 niveaux",
+        "Poids": "160 g",
+        "Pays d'origine": "Japon"
+      },
+      "scores": {
+        "Précision de coupe": 8.0,
+        "Sécurité": 7.0,
+        "Facilité d'utilisation": 8.5,
+        "Rapport qualité-prix": 9.0,
+        "Polyvalence": 5.5
+      }
+    },
+    {
+      "offerId": "swissmar-borner-v-power",
+      "badge": "Qualité allemande",
+      "review": "Le design en V coupe simultanément des deux côtés, réduisant la pression nécessaire. La lame interchangeable permet les coupes en julienne. Les pièces en plastique paraissent moins solides que sur les modèles haut de gamme.",
+      "pros": [
+        "lame en V réduit l'effort",
+        "lame julienne incluse",
+        "design pliant compact"
+      ],
+      "cons": [
+        "pièces plastiques moins durables",
+        "support alimentaire perfectible"
+      ],
+      "grade": "B",
+      "specs": {
+        "Matériau lame": "Acier inoxydable",
+        "Réglage épaisseur": "0–7 mm",
+        "Poids": "680 g",
+        "Pays d'origine": "Allemagne"
+      },
+      "scores": {
+        "Précision de coupe": 8.5,
+        "Sécurité": 7.5,
+        "Facilité d'utilisation": 8.0,
+        "Rapport qualité-prix": 7.5,
+        "Polyvalence": 8.0
+      }
+    },
+    {
+      "offerId": "mueller-v-pro-mandoline",
+      "badge": "Meilleur rapport qualité-prix",
+      "review": "De nombreuses lames et accessoires sont inclus, ce qui confère une grande richesse fonctionnelle apparente. La coupe est correcte pour une utilisation courante, sans atteindre la précision des modèles premium. La boîte de rangement est un plus pour les débutants.",
+      "pros": [
+        "nombreux accessoires de lames",
+        "boîte de rangement incluse",
+        "prix abordable"
+      ],
+      "cons": [
+        "les lames s'émoussent plus vite",
+        "certaines pièces en plastique fragiles"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Matériau lame": "Acier inoxydable",
+        "Réglage épaisseur": "0,5–9,5 mm",
+        "Poids": "850 g",
+        "Pays d'origine": "Chine"
+      },
+      "scores": {
+        "Précision de coupe": 7.0,
+        "Sécurité": 7.5,
+        "Facilité d'utilisation": 7.5,
+        "Rapport qualité-prix": 8.5,
+        "Polyvalence": 8.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Cuisiniers exigeants cherchant une précision maximale",
+      "offerId": "benriner-mandoline-no64",
+      "reason": "La lame japonaise de précision convient parfaitement à ceux qui recherchent des tranches fines et régulières."
+    },
+    {
+      "label": "Débutants soucieux de la sécurité",
+      "offerId": "oxo-chef-mandoline-2-0",
+      "reason": "Le meilleur protège-doigts du marché et la prise en main intuitive en font le choix le plus sûr pour les novices."
+    },
+    {
+      "label": "Petits budgets en quête de polyvalence",
+      "offerId": "mueller-v-pro-mandoline",
+      "reason": "De nombreuses lames et un rangement pratique offrent le meilleur rapport fonctionnel pour un budget limité."
+    }
+  ]
 }

@@ -91,5 +91,184 @@
     "ultimate-body-press-ceiling": "天井永久設置の最安エントリー。14ゲージ・直径1.25インチ・耐荷重136kg・40インチスパン。最低天井高90インチで本比較最低値。100kg未満の厳格デッドハングユーザーで、ジムグレードコストなしに永久設置を望む方に最適。"
   },
   "pinDescription": "天井固定懸垂バー5本比較：Rogue・Titan・REP・Pullup & Dip・Ultimate Body Press。天井高・根太間隔・トレーニング荷重から自分に合う1本を選ぶ完全ガイド——一度設置して何年も使う。",
-  "methodology": "各製品を5つの基準で評価しました：作りの良さ・通常使用での性能・耐久性・快適性・コストパフォーマンス。12ヶ月後も使い続けられるかという観点から、性能と耐久性を最も重視しています。"
+  "methodology": "各バーを鉄鋼ゲージとチューブ径・メーカーの静荷重容量定格・根太間隔互換性・ローレット深さと表面積・最低天井高要件・付属ハードウェア品質・非空調設置環境の耐腐食性で評価。",
+  "products": [
+    {
+      "offerId": "rogue-joist-mount-pullup",
+      "badge": "ベストオーバーオール",
+      "review": "Rogue Joist Mountはガレージジムの天井バーの基準——11ゲージスチール・500ポンド定格・48インチスパン・2本の標準16インチ間隔根太向けラグハードウェア同梱。中深度ローレットは加重懸垂時のグリップ保持に十分攻撃的でありながら高レップセットで肌を傷つけない。一度設置して固定しているものより長持ちすることを期待するバー。唯一の反論は非標準天井角度向けのTitan。",
+      "pros": [
+        "11ゲージスチールと500ポンド定格——この比較で最高耐荷重",
+        "ラックグレードのパウダーコートが非空調ガレージ環境を乗り越える",
+        "ラグハードウェア全同梱——別途ハードウェア購入不要"
+      ],
+      "cons": [
+        "標準16インチ根太間隔が必要——非標準天井はTitanが必要"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "500 lb (227 kg)",
+        "Span": "48 inches",
+        "Ceiling height min": "Standard",
+        "Mounting": "2 ceiling joists at 16-inch centers",
+        "Price": "$95.00"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 4.9,
+        "Installation ease": 4.0,
+        "Value": 4.5,
+        "Grip variety": 3.8
+      }
+    },
+    {
+      "offerId": "titan-wall-ceiling-pullup",
+      "badge": "ベストマルチアングル",
+      "review": "Titanの調整可能ブラケットは壁または天井に45〜90度の任意角度で取り付け可能——この比較で非標準天井勾配または壁対天井コーナー設置に対応できる唯一のオプション。内蔵角度グリップセクションが追加ハードウェアなしにニュートラルグリップを提供。非標準設置向けの最高コスパ。",
+      "pros": [
+        "45〜90度の任意角度で取り付け——傾斜した天井とコーナー設置を解決",
+        "追加アタッチメントなしの内蔵ニュートラルグリップセクション",
+        "この比較で400ポンド定格スチールバーの最低価格"
+      ],
+      "cons": [
+        "11ゲージに対し12ゲージは高荷重下でRogueやREPより剛性が低い"
+      ],
+      "grade": "A",
+      "specs": {
+        "Steel gauge": "12-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "400 lb (181 kg)",
+        "Span": "44 inches",
+        "Mount angle": "45–90° adjustable",
+        "Mounting": "Wall or ceiling",
+        "Price": "$85–120"
+      },
+      "scores": {
+        "Load capacity": 4.5,
+        "Stability": 4.6,
+        "Installation ease": 4.2,
+        "Value": 4.8,
+        "Grip variety": 4.7
+      }
+    },
+    {
+      "offerId": "rep-fitness-ceiling-pullup",
+      "badge": "高レップトレーニングに最適",
+      "review": "REPの1.5インチ径バーはこの比較で最も太い——毎セット受動的にグリップ強度を鍛え、1.25インチ代替品との真の差別化要因。ゴム製天井ガスケットが木材根太の重荷重サイクル中によく見られるきしみ音を解消。ローレットはRogueより軽く、20レップ以上のセットに快適。500ポンド容量はRogueと同等でわずかに低価格。",
+      "pros": [
+        "1.5インチ径バーが毎セット受動的にグリップを鍛える",
+        "ゴム製天井ガスケットが木材根太の荷重サイクルきしみを解消",
+        "軽いローレットが高レップ自重トレーニングにRogueより快適"
+      ],
+      "cons": [
+        "軽いローレットは最大荷重加重セットでRogueに比べフィードバックが少ない"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Bar diameter": "1.5 inches",
+        "Load capacity": "500 lb (227 kg)",
+        "Span": "48 inches",
+        "Ceiling gasket": "Rubber (creak prevention)",
+        "Mounting": "2 ceiling joists",
+        "Price": "$80–140"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 4.8,
+        "Installation ease": 3.8,
+        "Value": 4.6,
+        "Grip variety": 3.6
+      }
+    },
+    {
+      "offerId": "probar-wall-mount-pullup",
+      "badge": "屋外・高湿度スペースに最適",
+      "review": "ProBarはバーとハードウェア双方に304ステンレス鋼を使用——この比較で唯一の耐腐食オプション、炭素鋼が錆びる屋外・非空調ガレージ・高湿度設置の正しい選択。441ポンド容量と39インチスパンは競争力あり、付属のパラレルグリップアタッチメントがニュートラルグリップオプションを追加。",
+      "pros": [
+        "304ステンレス鋼バーとハードウェアが屋外・高湿度スペースで耐腐食",
+        "ニュートラルグリップ懸垂用のナロー平行グリップアタッチメント同梱",
+        "441ポンド容量定格が中位スチールバーと競争力あり"
+      ],
+      "cons": [
+        "39インチスパンはRogueとREPより短い——ワイドグリップバリエーションのスペースが少ない"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "304 stainless steel",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "441 lb (200 kg)",
+        "Span": "39 inches",
+        "Includes": "Parallel grip attachments",
+        "Best for": "Outdoor / unconditioned spaces",
+        "Price": "$60–100"
+      },
+      "scores": {
+        "Load capacity": 4.6,
+        "Stability": 4.7,
+        "Installation ease": 4.0,
+        "Value": 4.0,
+        "Grip variety": 4.5
+      }
+    },
+    {
+      "offerId": "ultimate-body-press-ceiling",
+      "badge": "ベストバジェット永久設置",
+      "review": "Ultimate Body Pressはエントリーレベルの天井バー——14ゲージスチール・300ポンド容量・40インチスパン・この比較で最低のクリアランス要件である90インチ最低天井高。フルジムグレードの費用なしに永久設置を望む100kg未満の厳格なデッドハング懸垂ユーザーに主要機能を適切に提供。",
+      "pros": [
+        "永久天井取り付け懸垂バーで最低価格",
+        "90インチ最低天井高——ここで最低クリアランス要件",
+        "100kg未満の厳格なデッドハング自重使用に機能的"
+      ],
+      "cons": [
+        "14ゲージの軽い構造——荷重下でRogueやREPより明らかに剛性が低い"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Steel gauge": "14-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "300 lb (136 kg)",
+        "Span": "40 inches",
+        "Ceiling height min": "90 inches (229 cm)",
+        "Mounting": "2 ceiling joists",
+        "Price": "$89.95"
+      },
+      "scores": {
+        "Load capacity": 3.8,
+        "Stability": 4.0,
+        "Installation ease": 4.2,
+        "Value": 4.5,
+        "Grip variety": 3.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "ガレージジムの永久設置に",
+      "offerId": "rogue-joist-mount-pullup",
+      "reason": "11ゲージスチールと500ポンド定格の標準根太間隔——加重懸垂・キッピング・毎日の高量使用でも撓みや劣化なしに処理するバー。"
+    },
+    {
+      "label": "非標準天井角度・勾配に",
+      "offerId": "titan-wall-ceiling-pullup",
+      "reason": "この比較で45〜90度の任意角度で取り付けられる唯一のバー——標準バーが対応できない傾斜天井とコーナー設置を解決。"
+    },
+    {
+      "label": "高レップ自重トレーニングに",
+      "offerId": "rep-fitness-ceiling-pullup",
+      "reason": "1.5インチ径が受動的にグリップを鍛え、軽いローレットがRogueより攻撃的なテクスチャーより15レップ以上の自重セットに快適。"
+    },
+    {
+      "label": "屋外または非空調ガレージ設置に",
+      "offerId": "probar-wall-mount-pullup",
+      "reason": "304ステンレスバーとハードウェアが唯一の耐腐食オプション——雨・湿度・結露接触が見込まれる場合に必要。"
+    },
+    {
+      "label": "低予算の永久天井設置に",
+      "offerId": "ultimate-body-press-ceiling",
+      "reason": "天井取り付けバーの最低エントリー価格——ジムグレードの耐荷重定格が不要な100kg未満の厳格な自重懸垂に機能的。"
+    }
+  ]
 }

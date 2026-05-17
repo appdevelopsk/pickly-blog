@@ -48,5 +48,124 @@
     "harbinger-padded-leather-belt": "Foam-padded leather for general training comfort. Not competition-spec, but ideal for mixed gym work and higher-rep sets where a rigid belt would be impractical."
   },
   "pinDescription": "Inzer vs SBD vs Rogue — the 5 best lifting belts of 2026 ranked by actual squat and deadlift performance. Lever vs prong, 10mm vs 13mm, competition vs everyday training covered.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each belt was assessed on leather stiffness, closure consistency, IPF compliance, break-in period, and long-term durability — weighted toward bracing performance and construction quality, since a belt that softens or shifts under a max squat is worse than training without one.",
+  "products": [
+    {
+      "offerId": "inzer-forever-lever-belt-10mm",
+      "badge": "Best Overall",
+      "review": "The Inzer Forever Lever Belt is the benchmark that other powerlifting belts get measured against. The 10mm single-ply leather is stiff enough for genuine intra-abdominal pressure support without the rib-bruising tendency of 13mm under high-rep sets. IPF-approved dimensions mean you train and compete in the same belt. The lever closure delivers identical tightness every rep without adjustment — once set, click in, click out. Break-in takes 4–6 weeks of regular use; early sessions feel stiff by design.",
+      "pros": ["Lever closure gives identical tightness every single set", "IPF-approved for competition", "Forever warranty covers defects for the belt's entire life"],
+      "cons": ["4–6 week break-in period before leather softens to your torso"],
+      "grade": "A+",
+      "specs": {
+        "Thickness": "10mm single-ply leather",
+        "Width": "10cm (uniform, IPF-spec)",
+        "Closure": "Lever buckle",
+        "IPF approved": "Yes",
+        "Price": "$129.95"
+      },
+      "scores": {
+        "Build quality": 5.0,
+        "Durability": 5.0,
+        "Comfort": 3.8,
+        "Ease of use": 4.5,
+        "Value": 4.5
+      }
+    },
+    {
+      "offerId": "sbd-belt-powerlifting",
+      "badge": "Best for Competition",
+      "review": "SBD's 13mm lever belt is used by multiple IPF world record holders — not a marketing claim, a verifiable fact about equipment at the highest level of the sport. Maximum legal stiffness provides the highest bracing potential in this comparison. The single-finger lever release makes it faster to loosen between attempts than Inzer. Trade-offs: 13mm takes 6–8 weeks to break in fully, and becomes uncomfortable for sets of 8+ reps where the top edge digs into the ribcage.",
+      "pros": ["Used by IPF world record holders", "Fastest lever release in category — single finger operation", "Maximum legal bracing at 13mm thickness"],
+      "cons": ["6–8 week break-in period", "Uncomfortable for high-rep sets (8+ reps)"],
+      "grade": "A",
+      "specs": {
+        "Thickness": "13mm single-ply leather",
+        "Width": "10cm (IPF-spec)",
+        "Closure": "SBD proprietary lever",
+        "Made in": "UK",
+        "Price range": "¥40,000–50,000"
+      },
+      "scores": {
+        "Build quality": 5.0,
+        "Durability": 5.0,
+        "Comfort": 3.0,
+        "Ease of use": 4.8,
+        "Value": 3.0
+      }
+    },
+    {
+      "offerId": "rogue-ohio-lifting-belt",
+      "badge": "Best USA-Made Belt",
+      "review": "The Rogue Ohio Belt is made in Columbus, Ohio from Herman Oak leather — the same tannery used by top custom belt makers. The 4-inch width at the back tapers to 3 inches at the front, which gives better hip mobility for deadlifts where a full-width belt interferes with the hip crease. Available in single or double prong. Build quality is consistent and the USA-origin sourcing is a genuine differentiator in this price range.",
+      "pros": ["Herman Oak leather — same tannery as premium custom belts", "4-inch to 3-inch taper improves deadlift hip mobility", "Made in Columbus, Ohio with verifiable supply chain"],
+      "cons": ["Prong closure requires more adjustment time than lever belts"],
+      "grade": "B+",
+      "specs": {
+        "Thickness": "10mm single-ply leather",
+        "Width": "4 in back / 3 in front",
+        "Closure": "Single or double prong",
+        "Made in": "Columbus, Ohio, USA",
+        "Price range": "¥20,000–28,000"
+      },
+      "scores": {
+        "Build quality": 4.8,
+        "Durability": 4.8,
+        "Comfort": 4.0,
+        "Ease of use": 3.8,
+        "Value": 4.3
+      }
+    },
+    {
+      "offerId": "pioneer-cut-powerlifting-belt",
+      "badge": "Best Squat-Specific Geometry",
+      "review": "Pioneer's contoured cut — wider at the back, narrowing toward the sides — is a geometry many lifters find reduces hip flexor interference at the bottom of the squat compared to uniform-width belts. Popular in Japanese powerlifting communities specifically for its squat-friendliness. Available in multiple widths and buckle styles. At ¥18,000–25,000, it's the mid-tier price option for athletes who want IPF-compliant leather at a reasonable cost.",
+      "pros": ["Contoured geometry reduces hip flexor interference in deep squats", "Popular in Japanese powerlifting for squat-specific fit", "Available in multiple width and buckle configurations"],
+      "cons": ["Less universal geometry may not suit all body proportions"],
+      "grade": "B",
+      "specs": {
+        "Thickness": "10mm single-ply leather",
+        "Cut": "Pioneer contoured — wider back, narrower sides",
+        "IPF approved": "Yes",
+        "Options": "Multiple widths and buckle styles",
+        "Price range": "¥18,000–25,000"
+      },
+      "scores": {
+        "Build quality": 4.5,
+        "Durability": 4.5,
+        "Comfort": 4.5,
+        "Ease of use": 3.8,
+        "Value": 4.5
+      }
+    },
+    {
+      "offerId": "harbinger-padded-leather-belt",
+      "badge": "Best for General Training",
+      "review": "Harbinger's padded leather belt is designed for general strength training and bodybuilding, not powerlifting competition. The foam-padded back panel means it's comfortable from session one without any break-in period — useful for athletes doing Romanian deadlifts, rows, and variety work where you're in and out of the belt between exercises. The foam does limit maximum bracing potential during true 1RM attempts; for sub-maximal training at 70–80%, it's perfectly adequate.",
+      "pros": ["Comfortable from day one — no break-in period", "Foam pad practical for high-rep variety training", "Lowest price in this comparison"],
+      "cons": ["Not competition-spec — foam limits maximum bracing", "Not IPF-approved"],
+      "grade": "B-",
+      "specs": {
+        "Material": "Leather with foam-padded back panel",
+        "Width": "6 inches",
+        "IPF approved": "No",
+        "Best for": "General training, bodybuilding splits",
+        "Price range": "¥5,000–8,000"
+      },
+      "scores": {
+        "Build quality": 3.5,
+        "Durability": 3.8,
+        "Comfort": 5.0,
+        "Ease of use": 4.5,
+        "Value": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For competitive powerlifters", "offerId": "inzer-forever-lever-belt-10mm", "reason": "IPF-approved lever with consistent tightness every set and a lifetime warranty"},
+    {"label": "For elite IPF competition", "offerId": "sbd-belt-powerlifting", "reason": "Maximum legal bracing at 13mm, used by world record holders at IPF meets"},
+    {"label": "For deadlift-focused athletes", "offerId": "rogue-ohio-lifting-belt", "reason": "Tapered width at front improves hip mobility at the crease during heavy pulls"},
+    {"label": "For deep squatters", "offerId": "pioneer-cut-powerlifting-belt", "reason": "Contoured geometry reduces hip flexor interference at the bottom of the squat"},
+    {"label": "For general gym training", "offerId": "harbinger-padded-leather-belt", "reason": "Comfortable for high-rep variety work without a break-in period at the lowest price"}
+  ]
 }

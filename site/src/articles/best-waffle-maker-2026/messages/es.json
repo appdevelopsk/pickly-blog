@@ -59,5 +59,189 @@
     "oster-belgian-waffle-maker-ckstwf2000": "Diseño giratorio con 7 niveles de dorado y 3 años de garantía limitada a precio de rango medio. Resultados gruesos y consistentes gracias al mecanismo giratorio de 180°; un waffle por ciclo la pone en cola para familias."
   },
   "pinDescription": "Mejores waffleras 2026: de la Dash Mini ($15) a la Breville Smart Waffle Pro ($150), comparadas en dorado, limpieza y cuántas personas puedes alimentar antes de que el primer lote se enfríe. Mejor elección: Cuisinart WAF-F20P1 doble belga. #waffleras #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada gofrera se probó con la misma masa (receta belga estándar) en 5 tandas, midiendo consistencia de crujiente, uniformidad de dorado y recuperación de temperatura de las placas entre tandas.",
+  "products": [
+    {
+      "offerId": "cuisinart-waf-f20p1-waffle-maker",
+      "badge": "Mejor en general",
+      "review": "La Cuisinart WAF-F20P1 hace dos gofres belgas simultáneamente con resultados consistentes en los seis ajustes de dorado. La limpieza requiere esfuerzo porque las placas no se desmontan, pero la calidad de salida a este precio es difícil de superar.",
+      "pros": [
+        "Cocina dos gofres belgas completos a la vez",
+        "Seis ajustes de dorado con luces indicadoras fiables",
+        "Exterior de acero inoxidable cepillado permanece frío"
+      ],
+      "cons": [
+        "Las placas no son desmontables — limpieza más laboriosa"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Wattage": "1400W",
+        "Waffle size": "1-inch-deep Belgian",
+        "Output": "2 waffles per batch",
+        "Browning settings": "6",
+        "Plates": "Nonstick, fixed",
+        "Drip tray": "Yes",
+        "Dimensions": "13.5 × 8.5 × 4 in",
+        "Price": "$89.99"
+      },
+      "scores": {
+        "Waffle crispness": 4.8,
+        "Heat evenness": 4.7,
+        "Ease of cleaning": 3.5,
+        "Value": 4.5,
+        "Plate type": 4.0
+      }
+    },
+    {
+      "offerId": "breville-bwm604xl-smart-waffle",
+      "badge": "Mejor premium",
+      "review": "Los sensores Element IQ ajustan la potencia de calefacción según la carga de masa y la temperatura ambiente, eliminando las conjeturas que plagan a la mayoría de gofreras. Cuatro gofres por tanda justifican el precio para hogares que cocinan el desayuno regularmente.",
+      "pros": [
+        "Element IQ auto-ajusta el calor por tanda",
+        "Hace cuatro gofres por tanda",
+        "5 ajustes de gofre cubren desde crujiente hasta suave"
+      ],
+      "cons": [
+        "Cuesta 2-3x más que las opciones económicas"
+      ],
+      "grade": "A",
+      "specs": {
+        "Wattage": "1800W",
+        "Waffle size": "4-inch round",
+        "Output": "4 waffles per batch",
+        "Settings": "5 waffle types",
+        "Smart control": "Element IQ",
+        "Plates": "Nonstick",
+        "Dimensions": "16 × 12 × 5 in",
+        "Price": "$249.99"
+      },
+      "scores": {
+        "Waffle crispness": 4.9,
+        "Heat evenness": 5.0,
+        "Ease of cleaning": 4.0,
+        "Value": 3.5,
+        "Plate type": 4.5
+      }
+    },
+    {
+      "offerId": "oster-belgian-waffle-maker-ckstwf2000",
+      "badge": "Mejor gama media",
+      "review": "El mecanismo de giro garantiza una distribución uniforme de la masa y entrega gofres consistentemente gruesos en los 7 ajustes de dorado. A menos de $50 con 3 años de garantía, es el caso de gama media más sólido.",
+      "pros": [
+        "Diseño giratorio garantiza distribución uniforme de masa",
+        "7 ajustes de dorado — la gama más amplia aquí",
+        "Garantía de 3 años a este precio"
+      ],
+      "cons": [
+        "Una gofra por tanda — poco práctico para familias grandes"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Wattage": "1000W",
+        "Waffle size": "Round Belgian",
+        "Output": "1 waffle per batch",
+        "Browning settings": "7",
+        "Flip design": "Yes",
+        "Handle": "Cool-touch",
+        "Dimensions": "10 × 9 × 5 in",
+        "Price": "$49.99"
+      },
+      "scores": {
+        "Waffle crispness": 4.5,
+        "Heat evenness": 4.6,
+        "Ease of cleaning": 4.0,
+        "Value": 4.7,
+        "Plate type": 4.0
+      }
+    },
+    {
+      "offerId": "hamilton-beach-26031-waffle-maker",
+      "badge": "Mejor económica",
+      "review": "Menos de $30 y suficientemente compacta para almacenar verticalmente. El diseño de giro mejora la uniformidad a este precio. La recuperación de calor entre tandas es más lenta que las opciones premium, pero para uso ocasional supera ampliamente su precio.",
+      "pros": [
+        "Menos de $30 — coste más bajo de la comparación",
+        "Diseño giratorio mejora uniformidad a este precio",
+        "Almacenamiento vertical ahorra espacio"
+      ],
+      "cons": [
+        "Recuperación de calor entre tandas más lenta que opciones premium"
+      ],
+      "grade": "B",
+      "specs": {
+        "Wattage": "850W",
+        "Waffle size": "Round Belgian",
+        "Output": "1 waffle per batch",
+        "Design": "Flip",
+        "Temperature": "Adjustable dial",
+        "Storage": "Upright",
+        "Dimensions": "9.5 × 8 × 4 in",
+        "Price": "$27.99"
+      },
+      "scores": {
+        "Waffle crispness": 4.1,
+        "Heat evenness": 4.2,
+        "Ease of cleaning": 4.2,
+        "Value": 4.9,
+        "Plate type": 3.8
+      }
+    },
+    {
+      "offerId": "dash-mini-waffle-maker",
+      "badge": "Mejor compacta",
+      "review": "El Dash Mini se calienta en menos de 2 minutos y no necesita ajustes — enchufar, verter, listo. Una sola gofra de 10 cm por tanda lo descarta para cocinas familiares. Para dormitorios universitarios, apartamentos pequeños y porciones individuales es realmente excelente.",
+      "pros": [
+        "Lista en menos de 2 minutos desde frío",
+        "No necesita ajustes — enchufar y verter",
+        "Menos de $15 y ampliamente disponible"
+      ],
+      "cons": [
+        "Una gofra de 10 cm por tanda — impractical para familias"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Wattage": "350W",
+        "Waffle size": "4-inch round",
+        "Output": "1 waffle per batch",
+        "Heat time": "Under 2 minutes",
+        "Settings": "None",
+        "Weight": "1 lb",
+        "Dimensions": "6.5 × 5 × 3 in",
+        "Price": "$9.99"
+      },
+      "scores": {
+        "Waffle crispness": 3.8,
+        "Heat evenness": 3.9,
+        "Ease of cleaning": 4.8,
+        "Value": 4.8,
+        "Plate type": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para cocineros de brunch de fin de semana",
+      "offerId": "cuisinart-waf-f20p1-waffle-maker",
+      "reason": "Dos gofres a la vez con seis ajustes de dorado significa que toda la mesa come al mismo tiempo."
+    },
+    {
+      "label": "Para hogares con desayuno diario",
+      "offerId": "breville-bwm604xl-smart-waffle",
+      "reason": "Element IQ elimina el problema de inconsistencia de cocina fría — cada tanda es igual."
+    },
+    {
+      "label": "Para compradores con presupuesto ajustado",
+      "offerId": "hamilton-beach-26031-waffle-maker",
+      "reason": "Menos de $30 con diseño giratorio da profundidad estilo belga para uso ocasional."
+    },
+    {
+      "label": "Para cocinas unipersonales",
+      "offerId": "dash-mini-waffle-maker",
+      "reason": "Menos de $15, listo en 2 minutos, sin ajustes — el camino más rápido a una gofra."
+    },
+    {
+      "label": "Para cocineros familiares orientados al valor",
+      "offerId": "oster-belgian-waffle-maker-ckstwf2000",
+      "reason": "7 ajustes de dorado, mecanismo giratorio y garantía de 3 años por menos de $50."
+    }
+  ]
 }

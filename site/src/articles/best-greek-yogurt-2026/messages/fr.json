@@ -61,5 +61,184 @@
     "siggis-icelandic-yogurt": "Style skyr — plus dense et moins sucré que la plupart des yaourts grecs"
   },
   "pinDescription": "5 meilleurs yaourts grecs classés par protéines, sucre et texture — du dense Fage au peu sucré Siggi's. Trouvez le vôtre pour le petit-déjeuner, la cuisine ou la récupération post-entraînement. #yaourtsgrecs #protéines #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque yaourt a été évalué sur la teneur en protéines par portion, les niveaux de sucre (naturel et ajouté), la longueur et la qualité de la liste des ingrédients, la consistance de la texture, le profil gustatif, la transparence de l'approvisionnement et le prix par gramme de protéines.",
+  "products": [
+    {
+      "offerId": "fage-total-0",
+      "badge": "Meilleur choix global",
+      "review": "Fage Total 0% établit la norme du yaourt grec authentique avec 18–19g de protéines pour 200g et seulement 2 ingrédients — pas d'épaississants, pas de pectine, texture entièrement due au filtrage. La saveur est plus vive et plus acide que les marques américaines — c'est une caractéristique, pas un défaut. Le compromis est une acidité plus forte qui demande un ajustement.",
+      "pros": [
+        "18–19g de protéines par 200g — teneur protéique la plus élevée du marché grand public",
+        "Seulement 2 ingrédients, sans épaississants ni additifs",
+        "Texture dense qui conserve sa forme à la cuillère"
+      ],
+      "cons": [
+        "La saveur plus acide peut nécessiter un ajustement pour ceux habitués aux marques plus douces"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Portion": "200g",
+        "Protéines": "18–19g",
+        "Matières grasses": "0%",
+        "Sucre": "~8g naturel",
+        "Ingrédients": "2",
+        "Certifications": "Casher",
+        "Prix": "~$7,49"
+      },
+      "scores": {
+        "Protein": 4.9,
+        "Taste": 4.5,
+        "Value": 4.3,
+        "Texture": 4.8,
+        "Ingredient quality": 4.9
+      }
+    },
+    {
+      "offerId": "chobani-plain-nonfat",
+      "badge": "Meilleur rapport qualité-prix quotidien",
+      "review": "Chobani Plain Non-Fat est le cheval de bataille de la catégorie — épais mais pas dense, acidité nette et 15g de protéines par pot de 150g avec seulement 3 ingrédients. Le pot de 900g offre le meilleur rapport protéines/prix en grande surface. La version sans matières grasses a légèrement plus de glucides que la version 2%.",
+      "pros": [
+        "Formule à 3 ingrédients sans sucre ajouté",
+        "Le pot de 900g offre le meilleur coût par gramme de protéines",
+        "Vraiment polyvalent en cuisine et dans les smoothies"
+      ],
+      "cons": [
+        "La version sans MG a légèrement plus de glucides que la version 2% en raison de la concentration des sucres du lait"
+      ],
+      "grade": "A",
+      "specs": {
+        "Portion": "150g",
+        "Protéines": "15g",
+        "MG": "0%",
+        "Sucre": "~6g naturel",
+        "Ingrédients": "3",
+        "Taille pot": "900g disponible",
+        "Prix": "~$6,98"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Taste": 4.4,
+        "Value": 4.8,
+        "Texture": 4.3,
+        "Ingredient quality": 4.6
+      }
+    },
+    {
+      "offerId": "siggis-icelandic-yogurt",
+      "badge": "Meilleur faible teneur en sucre",
+      "review": "Le skyr islandais Siggi's apporte 17g de protéines par 150g avec seulement 6g de glucides — le ratio sucre/protéines le plus bas de cette comparaison. La texture est plus dense que le yaourt grec, presque tartinable, et la saveur est résolument acide. La gamme aromatisée garde le sucre ajouté sous 9g au total.",
+      "pros": [
+        "Seulement 6g de glucides totaux par pot de 150g",
+        "17g de protéines avec très peu de sucre ajouté dans la gamme aromatisée",
+        "La densité unique du skyr fonctionne comme substitut au fromage frais sur toast"
+      ],
+      "cons": [
+        "La saveur résolument acide est un goût acquis"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Portion": "150g",
+        "Protéines": "17g",
+        "MG": "0%",
+        "Glucides totaux": "6g",
+        "Style": "Skyr islandais",
+        "Édulcorant": "Aucun (nature)",
+        "Prix": "~$6,49"
+      },
+      "scores": {
+        "Protein": 4.7,
+        "Taste": 4.0,
+        "Value": 4.0,
+        "Texture": 4.6,
+        "Ingredient quality": 4.7
+      }
+    },
+    {
+      "offerId": "oikos-triple-zero",
+      "badge": "Meilleur choix aromatisé",
+      "review": "Oikos Triple Zero atteint 15g de protéines à 90 calories avec zéro sucre ajouté, zéro édulcorant artificiel et zéro matières grasses — utilisant l'extrait de fruit du moine dans les variétés aromatisées. Pour les suiveurs de macros qui veulent un yaourt aromatisé sans stévia ni sucralose, c'est la seule option grand public. Certaines variétés aromatisées ajoutent de la fibre de chicorée.",
+      "pros": [
+        "Zéro sucre ajouté, zéro édulcorant artificiel, zéro MG dans la gamme aromatisée",
+        "Sucré au fruit du moine — sans stévia ni sucralose",
+        "15g de protéines à 90 calories"
+      ],
+      "cons": [
+        "Certaines variétés aromatisées contiennent de la fibre de chicorée (vérifiez l'étiquette si sensible)"
+      ],
+      "grade": "B",
+      "specs": {
+        "Portion": "150g",
+        "Protéines": "15g",
+        "MG": "0%",
+        "Glucides": "7g",
+        "Sucre ajouté": "0g",
+        "Édulcorant": "Fruit du moine",
+        "Prix": "~$1,49"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Taste": 4.2,
+        "Value": 4.9,
+        "Texture": 4.1,
+        "Ingredient quality": 4.2
+      }
+    },
+    {
+      "offerId": "stonyfield-organic-greek",
+      "badge": "Meilleur pour la traçabilité",
+      "review": "Stonyfield Organic est le choix quand la certification et l'approvisionnement comptent : certifié bio USDA, lait de vaches nourries à l'herbe et cinq souches probiotiques vivantes nommées sur l'étiquette. Les protéines à 14–15g par portion sont légèrement inférieures à Fage, et la saveur est plus douce — acidité plus légère pour ceux qui trouvent Fage trop piquant. Légèrement plus cher par once.",
+      "pros": [
+        "Certifié bio USDA avec approvisionnement en lait de vaches nourries à l'herbe",
+        "5 cultures probiotiques vivantes nommées sur l'étiquette",
+        "Saveur douce pour ceux qui trouvent Fage trop acide"
+      ],
+      "cons": [
+        "Légèrement moins de protéines (14–15g) et coût plus élevé par once que Chobani ou Fage"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Portion": "150g",
+        "Protéines": "14–15g",
+        "Certification": "USDA Bio",
+        "Source lait": "Vaches nourries à l'herbe",
+        "Probiotiques": "5 souches nommées",
+        "MG": "0%",
+        "Prix": "~$7,99"
+      },
+      "scores": {
+        "Protein": 4.2,
+        "Taste": 4.3,
+        "Value": 3.8,
+        "Texture": 4.2,
+        "Ingredient quality": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour un maximum de protéines par portion",
+      "offerId": "fage-total-0",
+      "reason": "18–19g de protéines par 200g avec seulement 2 ingrédients et sans épaississants"
+    },
+    {
+      "label": "Pour la cuisine et la valeur quotidiennes",
+      "offerId": "chobani-plain-nonfat",
+      "reason": "Meilleur coût par gramme de protéines dans le pot de 900g avec formule propre à 3 ingrédients"
+    },
+    {
+      "label": "Pour une très faible consommation de sucre",
+      "offerId": "siggis-icelandic-yogurt",
+      "reason": "Seulement 6g de glucides par portion avec 17g de protéines — ratio sucre/protéines le plus bas"
+    },
+    {
+      "label": "Pour un yaourt aromatisé sans édulcorants artificiels",
+      "offerId": "oikos-triple-zero",
+      "reason": "Sucré au fruit du moine avec zéro sucre ajouté et sans stévia ni sucralose"
+    },
+    {
+      "label": "Pour l'approvisionnement bio et herbe",
+      "offerId": "stonyfield-organic-greek",
+      "reason": "Bio USDA, lait de vaches nourries à l'herbe et 5 souches probiotiques nommées sur l'étiquette"
+    }
+  ]
 }

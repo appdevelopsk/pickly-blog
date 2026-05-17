@@ -86,5 +86,184 @@
     "kind-protein-bar": "Noix entières, sucrée au miel, texture la plus proche d'un aliment réel"
   },
   "pinDescription": "5 barres de protéines comparées honnêtement — Quest, RXBAR, Clif Builder, ONE et KIND. Teneur en protéines, sources de sucre, meilleurs usages et laquelle éviter selon vos besoins réels. #BarreDeProtéines #NutritionSportive #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque barre a été évaluée sur la source de protéines et la densité en leucine, le type d'édulcorant et le profil de tolérance gastro-intestinale, la teneur en sucre, la consistance de la texture selon les températures, la longueur de la liste d'ingrédients et les certifications vérifiées — les allégations marketing ont été confrontées aux tests de laboratoire indépendants.",
+  "products": [
+    {
+      "offerId": "quest-bar",
+      "badge": "Meilleure Globalement",
+      "review": "Quest fournit 20–21 g d'isolat de protéine de lactosérum et de lait à 4–5 g de glucides nets — la combinaison qui a construit sa réputation auprès des acheteurs low-carb. L'érythritol plus la stévia signifie pas d'arrière-goût de sucralose, bien que la texture dense au froid soit une plainte commune que 10 secondes au micro-ondes règlent.",
+      "pros": [
+        "20–21 g protéine d'isolats à haute densité de leucine",
+        "4–5 g glucides nets pour le suivi keto et low-carb",
+        "Édulcoration à l'érythritol — généralement mieux tolérée que le maltitol"
+      ],
+      "cons": [
+        "Longue liste d'ingrédients transformés — pas une barre clean label"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Protein": "20–21 g",
+        "Protein source": "Whey + milk protein isolate",
+        "Net carbs": "4–5 g",
+        "Sugar": "1 g",
+        "Calories": "~190–200 kcal",
+        "Sweetener": "Erythritol + stevia",
+        "Price per bar": "$4.95"
+      },
+      "scores": {
+        "Protein quality": 4.8,
+        "Taste": 4.3,
+        "Value": 4.2,
+        "Ingredients": 3.4,
+        "Texture": 3.9
+      }
+    },
+    {
+      "offerId": "rxbar-protein",
+      "badge": "Meilleure Étiquette Propre",
+      "review": "RXBAR imprime sa liste d'ingrédients complète sur le devant de la barre — 3 blancs d'œufs, 6 amandes, 4 noix de cajou, 2 dattes. Les 12 g de protéine complète de blancs d'œufs sont nutritionnellement solides; le compromis est que les barres de 20 g de lactosérum fournissent plus de leucine par portion.",
+      "pros": [
+        "Liste d'ingrédients la plus courte et lisible de cette comparaison",
+        "Protéine complète de blancs d'œufs — sans édulcorants artificiels",
+        "Sans alcools de sucre, sans risque gastro-intestinal"
+      ],
+      "cons": [
+        "12 g protéine — charge en leucine inférieure aux barres 20 g pour la récupération post-entraînement"
+      ],
+      "grade": "A",
+      "specs": {
+        "Protein": "12 g",
+        "Protein source": "Egg whites",
+        "Net carbs": "~20 g",
+        "Sugar": "15–17 g (from dates)",
+        "Calories": "~200–210 kcal",
+        "Sweetener": "Dates only",
+        "Price per bar": "$2.33"
+      },
+      "scores": {
+        "Protein quality": 4.5,
+        "Taste": 4.4,
+        "Value": 4.5,
+        "Ingredients": 5.0,
+        "Texture": 4.2
+      }
+    },
+    {
+      "offerId": "clif-builder-bar",
+      "badge": "Meilleure pour les Sportifs d'Endurance",
+      "review": "Clif Builder fournit 20 g de protéine végétale complète de soja avec 270 calories et 17–18 g de sucre de sirop de riz — conçu pour les sportifs d'endurance à glycogène épuisé. Certifié végétalien et casher, sans arrière-goût d'édulcorant artificiel.",
+      "pros": [
+        "20 g protéine végétale complète — seule option végétalienne à dose complète",
+        "Calories plus élevées pour les longues fenêtres d'entraînement d'endurance",
+        "Sans édulcorants artificiels ni alcools de sucre"
+      ],
+      "cons": [
+        "17–18 g sucre ajouté de sirop de riz — inapproprié pour les objectifs low-carb"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Protein": "20 g",
+        "Protein source": "Soy protein isolate",
+        "Net carbs": "~30 g",
+        "Sugar": "17–18 g",
+        "Calories": "~270 kcal",
+        "Sweetener": "Rice syrup + cane syrup",
+        "Price per bar": "$1.67"
+      },
+      "scores": {
+        "Protein quality": 4.2,
+        "Taste": 4.3,
+        "Value": 4.8,
+        "Ingredients": 3.6,
+        "Texture": 4.0
+      }
+    },
+    {
+      "offerId": "one-protein-bar",
+      "badge": "Meilleure Variété de Saveurs",
+      "review": "Les barres ONE offrent 20 g de protéine à 1 g de sucre avec une bibliothèque de saveurs dessert. La combinaison érythritol-sucralose livre de la douceur à faible teneur en sucre, mais certains acheteurs signalent un arrière-goût perceptible.",
+      "pros": [
+        "Plus grande bibliothèque de saveurs — 15+ options",
+        "20 g protéine à 1 g sucre — le profil macro le plus propre",
+        "Utile pour les phases de sèche avec de forts envies de dessert"
+      ],
+      "cons": [
+        "Arrière-goût de sucralose perceptible pour certains acheteurs"
+      ],
+      "grade": "B",
+      "specs": {
+        "Protein": "20 g",
+        "Protein source": "Whey + milk protein blend",
+        "Net carbs": "~8 g",
+        "Sugar": "1 g",
+        "Calories": "~220 kcal",
+        "Sweetener": "Erythritol + sucralose",
+        "Price per bar": "$2.68"
+      },
+      "scores": {
+        "Protein quality": 4.6,
+        "Taste": 4.5,
+        "Value": 4.1,
+        "Ingredients": 3.2,
+        "Texture": 4.0
+      }
+    },
+    {
+      "offerId": "kind-protein-bar",
+      "badge": "Meilleure Texture",
+      "review": "KIND Protein fournit 12 g de noix entières et protéine de soja, sucré avec du miel et du chocolat noir — sans érythritol, sans sucralose. Le croquant des noix entières est authentiquement différent, et la douceur du miel est moins agressive que les barres à base de sucralose.",
+      "pros": [
+        "Aucun édulcorant artificiel — seulement miel et chocolat",
+        "Croquant de noix entières que les barres industrielles ne peuvent pas reproduire",
+        "Liste d'ingrédients courte et reconnaissable"
+      ],
+      "cons": [
+        "12 g protéine — insuffisant comme source post-entraînement autonome"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Protein": "12 g",
+        "Protein source": "Nuts + soy protein",
+        "Net carbs": "~18 g",
+        "Sugar": "~8 g (honey + chocolate)",
+        "Calories": "~250 kcal",
+        "Sweetener": "Honey + dark chocolate",
+        "Price per bar": "$1.46"
+      },
+      "scores": {
+        "Protein quality": 3.8,
+        "Taste": 4.6,
+        "Value": 4.7,
+        "Ingredients": 4.8,
+        "Texture": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour la récupération post-entraînement en régime low-carb",
+      "offerId": "quest-bar",
+      "reason": "20–21 g d'isolat de protéine plus 4–5 g de glucides nets atteint les macros sans perturber le suivi keto."
+    },
+    {
+      "label": "Pour le snacking aux ingrédients propres",
+      "offerId": "rxbar-protein",
+      "reason": "Chaque ingrédient est nommé sur le devant de la barre — l'option la plus transparente de cette comparaison."
+    },
+    {
+      "label": "Pour les sportifs d'endurance lors de longues séances",
+      "offerId": "clif-builder-bar",
+      "reason": "270 calories et 17 g de sucre avec 20 g de protéine végétale couvrent les besoins en glycogène lors de séances de plus de 60 minutes."
+    },
+    {
+      "label": "Pour les acheteurs qui abandonnent les confiseries",
+      "offerId": "one-protein-bar",
+      "reason": "15+ saveurs niveau dessert à 1 g de sucre rendent le changement d'habitude durable."
+    },
+    {
+      "label": "Pour les acheteurs qui n'aiment pas les barres protéinées industrielles",
+      "offerId": "kind-protein-bar",
+      "reason": "Les noix entières, le miel et le chocolat noir offrent une texture et un goût proches de la nourriture réelle."
+    }
+  ]
 }

@@ -61,5 +61,184 @@
     "siggis-icelandic-yogurt": "Skyr-Stil — dichter und zuckerärmer als die meisten griechischen Joghurts"
   },
   "pinDescription": "5 beste griechische Joghurts nach Protein, Zucker und Textur bewertet — vom dichten Fage bis zum zuckerarmen Siggi's. Finde deinen fur Fruhstuck, Kochen oder die Erholung nach dem Training. #griechischerJoghurt #Protein #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jeder Joghurt wurde nach Proteingehalt pro Portion, Zuckergehalt (natürlich und zugesetzt), Zutatenlistenlänge und -qualität, Texturkonsistenz, Geschmacksprofil, Sourcing-Transparenz und Preis pro Gramm Protein bewertet.",
+  "products": [
+    {
+      "offerId": "fage-total-0",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Fage Total 0% setzt den Standard für authentischen griechischen Joghurt mit 18–19g Protein pro 200g-Portion und nur 2 Zutaten — keine Verdickungsmittel, keine Pektin, Textur nur durch Abseihen. Der Geschmack ist schärfer und saurer als bei amerikanischen Marken — das ist ein Merkmal, kein Fehler. Der Kompromiss ist ein stärkeres Säurearoma, das sich Eingewöhnung erfordert.",
+      "pros": [
+        "18–19g Protein pro 200g — höchster fettfreier Proteingehalt im Mainstream-Markt",
+        "Nur 2 Zutaten, keine Verdickungsmittel oder Zusätze",
+        "Dichte Textur, die form hält beim Löffeln"
+      ],
+      "cons": [
+        "Schärferes Saueraroma könnte Eingewöhnung für Gewohnte an milderen Marken erfordern"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Portion": "200g",
+        "Protein": "18–19g",
+        "Fett": "0%",
+        "Zucker": "~8g natürlich",
+        "Zutaten": "2",
+        "Zertifizierungen": "Kosher",
+        "Preis": "~$7,49"
+      },
+      "scores": {
+        "Protein": 4.9,
+        "Taste": 4.5,
+        "Value": 4.3,
+        "Texture": 4.8,
+        "Ingredient quality": 4.9
+      }
+    },
+    {
+      "offerId": "chobani-plain-nonfat",
+      "badge": "Bester Alltagswert",
+      "review": "Chobani Plain Non-Fat ist das Arbeitstier der Kategorie — dick, aber nicht dicht, saubere Säure und 15g Protein pro 150g-Becher mit nur 3 Zutaten. Der 900g-Becher bietet den besten Preis pro Gramm Protein im Mainstream-Einzelhandel. Die fettfreie Version hat etwas mehr Kohlenhydrate als die 2%-Version.",
+      "pros": [
+        "3-Zutaten-Rezeptur ohne Zuckerzusatz",
+        "900g-Becher liefert besten Protein-Preis-pro-Gramm-Wert",
+        "Wirklich vielseitig in Kochen und Smoothies"
+      ],
+      "cons": [
+        "Fettfreie Version etwas höher in Kohlenhydraten als 2% durch Fettentfernung"
+      ],
+      "grade": "A",
+      "specs": {
+        "Portion": "150g",
+        "Protein": "15g",
+        "Fett": "0%",
+        "Zucker": "~6g natürlich",
+        "Zutaten": "3",
+        "Bechergröße": "900g verfügbar",
+        "Preis": "~$6,98"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Taste": 4.4,
+        "Value": 4.8,
+        "Texture": 4.3,
+        "Ingredient quality": 4.6
+      }
+    },
+    {
+      "offerId": "siggis-icelandic-yogurt",
+      "badge": "Bester Niedrig-Zucker",
+      "review": "Siggis Skyr-Joghurt liefert 17g Protein pro 150g mit nur 6g Kohlenhydraten — das niedrigste Zucker-zu-Protein-Verhältnis in diesem Vergleich. Die Textur ist dichter als griechischer Joghurt, fast streichfähig, und der Geschmack ist intensiv sauer. Die Aromalinie hält zugesetzten Zucker unter 9g gesamt.",
+      "pros": [
+        "Nur 6g Kohlenhydrate pro 150g-Becher",
+        "17g Protein mit sehr niedrigem Zuckerzusatz in der Aromalinie",
+        "Einzigartige Skyr-Dichte als Frischkäse-Ersatz auf Toast"
+      ],
+      "cons": [
+        "Intensiv saurer Geschmack ist Gewöhnungssache"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Portion": "150g",
+        "Protein": "17g",
+        "Fett": "0%",
+        "Gesamt-KH": "6g",
+        "Stil": "Isländischer Skyr",
+        "Süßungsmittel": "Keines (natur)",
+        "Preis": "~$6,49"
+      },
+      "scores": {
+        "Protein": 4.7,
+        "Taste": 4.0,
+        "Value": 4.0,
+        "Texture": 4.6,
+        "Ingredient quality": 4.7
+      }
+    },
+    {
+      "offerId": "oikos-triple-zero",
+      "badge": "Beste aromatisierte Option",
+      "review": "Oikos Triple Zero erreicht 15g Protein bei 90 kcal mit null Zuckerzusatz, null künstlichen Süßungsmitteln und null Fett — mit Mönchsfrucht-Extrakt in Aromavarianten. Für Makro-Tracker, die Aromajog ohne Stevia oder Sucralose suchen, ist das die einzige Mainstream-Option. Einige Aromavarianten enthalten Zichorienwurzelfaser.",
+      "pros": [
+        "Null Zuckerzusatz, null künstliche Süßungsmittel, null Fett in der Aromalinie",
+        "Mit Mönchsfrucht gesüßt — kein Stevia oder Sucralose",
+        "15g Protein bei 90 kcal"
+      ],
+      "cons": [
+        "Einige Aromavarianten enthalten Zichorienwurzelfaser (bei Empfindlichkeit Etikett prüfen)"
+      ],
+      "grade": "B",
+      "specs": {
+        "Portion": "150g",
+        "Protein": "15g",
+        "Fett": "0%",
+        "KH": "7g",
+        "Zuckerzusatz": "0g",
+        "Süßungsmittel": "Mönchsfrucht",
+        "Preis": "~$1,49"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Taste": 4.2,
+        "Value": 4.9,
+        "Texture": 4.1,
+        "Ingredient quality": 4.2
+      }
+    },
+    {
+      "offerId": "stonyfield-organic-greek",
+      "badge": "Bester für Herkunft",
+      "review": "Stonyfield Organic ist die Wahl, wenn Zertifizierung und Herkunft wichtig sind: USDA-bio, Weidemilch und fünf benannte lebende Probiotika-Stämme auf dem Etikett. Protein bei 14–15g pro Portion ist etwas weniger als Fage, und der Geschmack ist milder — sanftere Säure für Menschen, die Fage zu scharf finden. Etwas teurer pro Unze.",
+      "pros": [
+        "USDA-zertifiziert bio mit Weidemilch-Herkunft",
+        "5 benannte lebende Probiotika-Kulturen auf dem Etikett",
+        "Milder Geschmack für jene, die Fage zu säuerlich finden"
+      ],
+      "cons": [
+        "Etwas weniger Protein (14–15g) und höhere Kosten pro Unze als Chobani oder Fage"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Portion": "150g",
+        "Protein": "14–15g",
+        "Zertifizierung": "USDA Organic",
+        "Milchquelle": "Weidemilch",
+        "Probiotika": "5 benannte Stämme",
+        "Fett": "0%",
+        "Preis": "~$7,99"
+      },
+      "scores": {
+        "Protein": 4.2,
+        "Taste": 4.3,
+        "Value": 3.8,
+        "Texture": 4.2,
+        "Ingredient quality": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für maximales Protein pro Portion",
+      "offerId": "fage-total-0",
+      "reason": "18–19g Protein pro 200g mit nur 2 Zutaten und ohne Verdickungsmittel"
+    },
+    {
+      "label": "Für tägliches Kochen und Wert",
+      "offerId": "chobani-plain-nonfat",
+      "reason": "Bester Preis pro Gramm Protein im 900g-Becher mit sauberer 3-Zutaten-Formel"
+    },
+    {
+      "label": "Für sehr niedrige Zuckeraufnahme",
+      "offerId": "siggis-icelandic-yogurt",
+      "reason": "Nur 6g Kohlenhydrate pro Portion mit 17g Protein — niedrigstes Zucker-zu-Protein-Verhältnis"
+    },
+    {
+      "label": "Für Aromatjoghurt ohne Kunstsüßungsmittel",
+      "offerId": "oikos-triple-zero",
+      "reason": "Mit Mönchsfrucht gesüßt mit null Zuckerzusatz und ohne Stevia oder Sucralose"
+    },
+    {
+      "label": "Für Bio- und Weideherkunft",
+      "offerId": "stonyfield-organic-greek",
+      "reason": "USDA-bio, Weidemilch und 5 benannte Probiotika-Stämme auf dem Etikett"
+    }
+  ]
 }

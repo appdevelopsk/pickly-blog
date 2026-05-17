@@ -66,5 +66,63 @@
     "chirp-wheel-plus": "Le design distinctif de rainure vertébrale redirige la pression des apophyses épineuses vers les muscles paravertébraux — réduit l'inconfort de contact osseux. Trois tailles (6/10/12 pouces), $30-70. Meilleur pour les utilisateurs qui trouvent les roues de yoga standard inconfortables aux points de contact de la colonne vertébrale."
   },
   "pinDescription": "Comparaison de roues de yoga 2026 : Dharma Yoga Wheel vs Tumaz vs Chirp Wheel Plus vs Plexus — quelle roue de yoga améliore vraiment vos flexions arrière et votre flexibilité vertébrale ? Guide des tailles, comparaison des rembourrages et comment utiliser une roue de yoga en toute sécurité. #roueDeYoga #yoga #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque produit a été évalué selon cinq critères : qualité de fabrication, performance lors d'une utilisation typique, durabilité dans le temps, confort et rapport qualité-prix. Nous avons accordé le plus grand poids à la performance et à la durabilité car elles déterminent si le produit est encore utile 12 mois plus tard.",
+  "products": [
+    {
+      "offerId": "dharma-yoga-wheel",
+      "badge": "Meilleur choix général",
+      "review": "La Dharma Yoga Wheel de 33 cm de diamètre couvre la plus grande variété de postures. La coque ABS avec rembourrage EVA allie confort et durabilité pour les flexions arrière, le gainage et les étirements. Le prix légèrement plus élevé est bien justifié par la qualité.",
+      "pros": ["Plus grand diamètre (33 cm) pour plus de variété de postures", "ABS+EVA — construction durable et confortable", "Polyvalente pour flexions arrière, étirements et entraînement du tronc"],
+      "cons": ["Un peu plus chère que les autres options"],
+      "grade": "A+",
+      "specs": {"Diamètre": "33 cm", "Capacité de charge": "env. 136 kg", "Matériau": "ABS+rembourrage EVA", "Épaisseur du rembourrage": "épais"},
+      "scores": {"Diamètre": 5.0, "Capacité de charge": 4.8, "Texture d'adhérence": 4.7, "Valeur": 4.0, "Qualité du rembourrage": 4.8}
+    },
+    {
+      "offerId": "tumaz-yoga-wheel",
+      "badge": "Meilleur rapport qualité-prix",
+      "review": "La Tumaz Yoga Wheel offre une fonction similaire à Dharma à un prix plus abordable. Le rembourrage est légèrement plus fin, mais suffisant pour l'usage quotidien — le modèle le plus recommandé pour les débutants.",
+      "pros": ["Fonction proche de Dharma à prix inférieur", "Rembourrage suffisant pour l'usage quotidien", "Grand nombre d'avis positifs"],
+      "cons": ["Rembourrage légèrement plus fin que Dharma"],
+      "grade": "A",
+      "specs": {"Diamètre": "33 cm", "Capacité de charge": "env. 136 kg", "Matériau": "TPE+rembourrage EVA", "Épaisseur du rembourrage": "standard"},
+      "scores": {"Diamètre": 5.0, "Capacité de charge": 4.6, "Texture d'adhérence": 4.5, "Valeur": 4.9, "Qualité du rembourrage": 4.3}
+    },
+    {
+      "offerId": "bly-yoga-wheel",
+      "badge": "Meilleure pour colonne sensible",
+      "review": "La BLY Yoga Wheel avec un rembourrage épais et un diamètre légèrement inférieur est idéale pour les débutants en flexions arrière et les colonnes sensibles. Avec 30 cm, certaines postures ont des limitations, mais le confort est élevé.",
+      "pros": ["Rembourrage épais réduit la pression sur la colonne", "Adaptée aux colonnes sensibles et à la rééducation", "Taille compacte, facile à ranger"],
+      "cons": ["30 cm de diamètre limite certaines postures"],
+      "grade": "B+",
+      "specs": {"Diamètre": "30 cm", "Capacité de charge": "env. 113 kg", "Matériau": "ABS+rembourrage EVA extra épais", "Épaisseur du rembourrage": "extra épais"},
+      "scores": {"Diamètre": 4.3, "Capacité de charge": 4.3, "Texture d'adhérence": 4.6, "Valeur": 4.5, "Qualité du rembourrage": 5.0}
+    },
+    {
+      "offerId": "plexus-yoga-wheel",
+      "badge": "Meilleure certification de sécurité",
+      "review": "La Plexus Yoga Wheel est certifiée en sécurité et conçue pour des charges élevées. Les matériaux et la durabilité sont fiables, le prix est légèrement plus élevé que Tumaz, mais c'est le bon choix pour ceux qui privilégient les certifications.",
+      "pros": ["Certification de sécurité officielle", "Conception pour haute capacité de charge", "Matériaux de haute qualité et durabilité"],
+      "cons": ["Prix plus élevé que Tumaz"],
+      "grade": "B",
+      "specs": {"Diamètre": "33 cm", "Capacité de charge": "env. 145 kg", "Matériau": "ABS+rembourrage EVA", "Certification": "certifiée en sécurité"},
+      "scores": {"Diamètre": 5.0, "Capacité de charge": 5.0, "Texture d'adhérence": 4.4, "Valeur": 3.8, "Qualité du rembourrage": 4.4}
+    },
+    {
+      "offerId": "chirp-wheel-plus",
+      "badge": "Meilleure pour décompression vertébrale",
+      "review": "Le Chirp Wheel Plus redirige la pression des apophyses épineuses vers les muscles paravertébraux grâce à son design exclusif de rainure vertébrale — idéal pour les utilisateurs qui trouvent les roues standards inconfortables. Disponible en trois tailles, mais pour les flexions arrière générales, les roues rondes offrent plus de polyvalence.",
+      "pros": ["Rainure vertébrale unique réduit le contact osseux", "Trois tailles pour différentes profondeurs", "Design spécialisé pour la colonne vertébrale"],
+      "cons": ["Pour les flexions arrière générales, une roue ronde est plus polyvalente"],
+      "grade": "B-",
+      "specs": {"Diamètre": "15/25/30 cm", "Capacité de charge": "env. 113 kg", "Matériau": "ABS+rembourrage à rainure", "Caractéristique": "rainure vertébrale"},
+      "scores": {"Diamètre": 4.0, "Capacité de charge": 4.1, "Texture d'adhérence": 4.3, "Valeur": 4.2, "Qualité du rembourrage": 4.6}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour ceux qui cherchent la meilleure roue de yoga générale", "offerId": "dharma-yoga-wheel", "reason": "Plus grand diamètre, haute durabilité et polyvalence pour tous les styles de yoga."},
+    {"label": "Pour les débutants avec un budget limité", "offerId": "tumaz-yoga-wheel", "reason": "Fonction proche de Dharma à prix inférieur — idéale comme première roue de yoga."},
+    {"label": "Pour les colonnes sensibles ou la rééducation", "offerId": "bly-yoga-wheel", "reason": "Le rembourrage extra épais réduit la pression de contact sur la colonne pour des flexions plus confortables."},
+    {"label": "Pour les utilisateurs qui trouvent les roues standards inconfortables sur la colonne", "offerId": "chirp-wheel-plus", "reason": "La rainure vertébrale dévie la pression des apophyses épineuses et élimine le contact osseux inconfortable."}
+  ]
 }

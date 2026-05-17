@@ -100,5 +100,64 @@
     "zojirushi-kongari-et-wma22": "Choix pratique -- élément chauffant 1300 W avec cinq modes prédéfinis (toast, toast congelé, kashi-pan, réchauffage croissant, température manuelle), largeur interne 22 cm, durée de vie réaliste 7-10 ans et disponibilité des pièces 8-10 ans post-discontinuation, encombrement compact 32 cm de large. Pas d'injection de vapeur -- le toast simple sort sensiblement plus sec que les machines à injection de vapeur ; les modes prédéfinis sont basiques et le cadran de température ne dépasse pas 250 degrés Celsius ; le design est fonctionnel japonais et ne mérite pas sa place sur le plan de travail par l'esthétique."
   },
   "pinDescription": "Cinq grille-pains comparés en 2026 d'un Zojirushi pratique à 9 900 yens au Panasonic Bistro NT-D700 multifonction à 42 000 yens. Vapeur vs tube graphite vs convection vs cavité fermée une tranche, coût d'électricité par tranche, encombrement sur le plan de travail d'une cuisine japonaise d'appartement, et les petits caractères de maintenance que chaque marque passe sous silence. #grillePain #cuisine #maison #français",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Chaque grille-pain a été évalué selon la technologie de l'élément chauffant (tube graphite vs injection de vapeur vs convection vs résistance gainée), les avis d'uniformité de la croûte sur Rakuten et kakaku.com, l'encombrement sur le plan de travail et la facilité de nettoyage, et la durée de vie réaliste dans les ménages utilisant l'appareil deux fois par jour.",
+  "products": [
+    {
+      "offerId": "balmuda-the-toaster-k11a",
+      "badge": "Meilleur Design et Vapeur",
+      "review": "L'injection de vapeur 5 ml de Balmuda améliore notablement le shokupan d'un jour — la croûte devient croustillante à l'extérieur tout en préservant l'humidité intérieure. Le design industriel iconique mérite sa place sur le plan de travail. La faiblesse honnête : 4-6 ans de durée de vie réaliste, l'intérieur est difficile à nettoyer, et la tasse d'eau doit être remplie avant chaque utilisation.",
+      "pros": ["L'injection de vapeur améliore significativement le shokupan d'un jour", "Encombrement compact de 35,7 cm s'adapte à plus de cuisines que le NT-D700", "Design Balmuda iconique comme électroménager déclaration de design"],
+      "cons": ["4-6 ans de durée de vie réaliste avec défaillance du mécanisme de vapeur comme mode de fin de vie dominant"],
+      "grade": "A+",
+      "specs": {"Chauffage": "Injection de vapeur (tasse 5 ml) + résistance gainée", "Puissance": "1 300 W", "Largeur": "35,7 cm", "Modes": "5 préréglages (toast, sandwich, viennoiserie, français, four)", "Volume vapeur": "5 ml par cycle", "Durée de vie": "4-6 ans (typique)", "Prix": "~30 800 yens"},
+      "scores": {"Toast evenness": 4.8, "Speed": 4.0, "Build quality": 4.2, "Value": 3.5, "Slot size": 3.8}
+    },
+    {
+      "offerId": "aladdin-aet-gs13c",
+      "badge": "Meilleur Tube Graphite",
+      "review": "Les tubes graphite avant et arrière d'Aladdin atteignent 250 °C en 0,2 secondes — idéal pour les baguettes et les pains à croûte dure qui nécessitent un chauffage intense de la surface. L'esthétique rétro-britannique est un vrai attrait. Pas d'élément chauffant inférieur signifie retourner manuellement pour un dorage des deux côtés.",
+      "pros": ["Tubes graphite atteignent 250 °C en 0,2 secondes pour un croustillant intense de la surface", "Accueille une pizza de 25 cm ou une baguette en diagonale", "Esthétique rétro-britannique qui se distingue des alternatives japonaises"],
+      "cons": ["Pas d'élément chauffant inférieur — retournement manuel nécessaire pour le dorage des deux côtés"],
+      "grade": "A",
+      "specs": {"Chauffage": "Tube graphite (avant + arrière supérieur)", "Puissance": "1 300 W", "Température max": "280 °C", "Minuterie": "13 minutes", "Largeur intérieure": "~25 cm", "Durée de vie": "5-7 ans", "Prix": "~17 600 yens"},
+      "scores": {"Toast evenness": 3.8, "Speed": 5.0, "Build quality": 4.0, "Value": 4.2, "Slot size": 4.5}
+    },
+    {
+      "offerId": "mitsubishi-bread-oven-to-st1",
+      "badge": "Meilleur pour Foyers Individuels",
+      "review": "Le design à cavité fermée de Mitsubishi retient la vapeur libérée par le pain — le résultat sur une seule tranche de shokupan est une qualité quasi fraîchement-sorti-de-la-boulangerie. Mitsubishi le commercialise explicitement comme 'pas pour les familles', et c'est à prendre au sérieux : 16+ minutes en série pour quatre tranches.",
+      "pros": ["La cavité fermée préserve l'humidité intérieure mieux que toute machine à cavité ouverte", "Cycle de 4 minutes pour une tranche de shokupan parfaite", "Design compact pour les foyers monooccupants"],
+      "cons": ["Ne fait qu'une tranche à la fois — incorrect pour les familles (16+ minutes en série pour quatre personnes)"],
+      "grade": "B+",
+      "specs": {"Design": "Cavité fermée (une tranche)", "Épaisseur tranche": "Optimisé pour shokupan 1,4 cm", "Puissance": "1 270 W", "Cycle": "~4 minutes par tranche", "Public cible": "Foyers monooccupants et couples", "Durée de vie": "4-6 ans", "Prix": "~34 000 yens"},
+      "scores": {"Toast evenness": 5.0, "Speed": 3.0, "Build quality": 4.5, "Value": 3.0, "Slot size": 2.0}
+    },
+    {
+      "offerId": "panasonic-bistro-nt-d700",
+      "badge": "Meilleur Multifonction",
+      "review": "Le ventilateur de convection et la plage 100-260 °C du Panasonic Bistro couvrent genuinement les toasts, les pizzas congelées, les gratins et les cuisses de poulet — la seule machine ici qui maîtrise les quatre cas d'usage sans compromis. L'encombrement de 39,8 cm est genuinement grand pour une cuisine japonaise d'appartement.",
+      "pros": ["Convection plus 100-260 °C couvre les toasts et les fonctions de petit four", "Service après-vente le plus solide via le réseau national Panasonic", "Cavité intérieure de 30 cm accueille une pizza de 25 cm ou de petites cuisses de poulet"],
+      "cons": ["39,8 cm de large et 32,5 cm de profondeur — genuinement grand pour les cuisines japonaises d'appartement"],
+      "grade": "B",
+      "specs": {"Chauffage": "Convection + doubles éléments chauffants", "Puissance": "1 300 W", "Température": "100-260 °C", "Largeur": "39,8 cm", "Profondeur": "32,5 cm", "Cavité intérieure": "30 cm", "Prix": "~42 000 yens"},
+      "scores": {"Toast evenness": 4.3, "Speed": 4.0, "Build quality": 4.7, "Value": 3.8, "Slot size": 5.0}
+    },
+    {
+      "offerId": "zojirushi-kongari-et-wma22",
+      "badge": "Meilleur Rapport Qualité-Prix",
+      "review": "L'ET-WMA22 de Zojirushi est le grille-pain deux tranches fiable à moins de 10 000 yens avec 7-10 ans de durée de vie réaliste et 8-10 ans de disponibilité des pièces. Sans vapeur — le toast normal est notablement plus sec — mais pour les ménages sans focus sur le shokupan, il fait le travail sans le surcoût de design.",
+      "pros": ["7-10 ans de durée de vie réaliste — la plus longue parmi les cinq", "Moins de 10 000 yens avec service après-vente complet de marque japonaise", "Encombrement compact de 32 cm s'adapte à n'importe quelle cuisine d'appartement"],
+      "cons": ["Sans vapeur — le toast sort notablement plus sec que les machines à injection de vapeur"],
+      "grade": "B-",
+      "specs": {"Chauffage": "Résistance gainée", "Puissance": "1 300 W", "Modes": "5 préréglages (toast, congelé, kashi-pan, croissant, manuel)", "Largeur intérieure": "22 cm", "Largeur": "32 cm", "Durée de vie": "7-10 ans", "Prix": "~9 900 yens"},
+      "scores": {"Toast evenness": 3.8, "Speed": 3.8, "Build quality": 4.5, "Value": 5.0, "Slot size": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les amateurs de shokupan", "offerId": "balmuda-the-toaster-k11a", "reason": "Injection de vapeur et design iconique pour les ménages qui valorisent le shokupan comme pain principal du petit-déjeuner et veulent un électroménager déclaration de design."},
+    {"label": "Pour les mangeurs de baguette et pain à croûte dure", "offerId": "aladdin-aet-gs13c", "reason": "Les tubes graphite qui atteignent 250 °C en 0,2 secondes offrent le croustillant intense de la surface dont les pains à croûte dure ont besoin."},
+    {"label": "Pour les foyers monooccupants", "offerId": "mitsubishi-bread-oven-to-st1", "reason": "Design à cavité fermée une tranche pour les fans de shokupan qui vivent seuls ou en couple avec des petits-déjeuners décalés."},
+    {"label": "Pour les cuisiniers polyvalents", "offerId": "panasonic-bistro-nt-d700", "reason": "La seule machine ici qui couvre genuinement toasts, pizza, gratin et poulet sans compromis — pour les ménages qui veulent remplacer un petit four."},
+    {"label": "Pour les acheteurs avec un budget serré", "offerId": "zojirushi-kongari-et-wma22", "reason": "Moins de 10 000 yens avec 7-10 ans de fiabilité et service complet de marque japonaise — le choix honnête pour les ménages sans obsession pour le shokupan."}
+  ]
 }

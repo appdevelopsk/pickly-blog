@@ -66,5 +66,64 @@
     "kitchenaid-ice-cream-maker-attachment": "Accessorio ciotola pre-congelata per impastatrice KitchenAid. Nessun motore separato necessario. $50-70. La migliore per i possessori di KitchenAid esistenti che vogliono la capacita di fare il gelato senza un altro elettrodomestico sul bancone."
   },
   "pinDescription": "Confronto gelatiere 2026: Cuisinart ICE-21 vs compressore Whynter vs Breville Smart Scoop vs Ninja Creami vs accessorio KitchenAid — metodo di mantecatura, tempo di congelamento e quale macchina fa il gelato piu liscio a confronto. #italiano",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni macchina è stata valutata sulla qualità di congelamento/mantecatura su tre tipi di base (crema standard, sorbetto, alto contenuto proteico), capacità rispetto alla dimensione del nucleo familiare, tempo al primo cucchiaio, facilità di pulizia e realistico rapporto qualità-prezzo.",
+  "products": [
+    {
+      "offerId": "cuisinart-ice-21-ice-cream-maker",
+      "badge": "Migliore in assoluto",
+      "review": "La Cuisinart ICE-21 è la gelatiera casalinga più venduta in Nord America da oltre due decenni perché il meccanismo è genuinamente valido e il prezzo è rimasto onesto. Si pre-congela la ciotola a doppio isolamento, si manteca per 20–25 minuti e si ottiene un gelato cremoso e costante per circa $50–60. La vera limitazione è l'obbligo di pianificazione — la ciotola necessita 24 ore nel congelatore prima dell'uso. Per la maggior parte dei nuclei familiari che fanno gelato occasionalmente, questo non è un problema.",
+      "pros": ["Meno di $60 per prestazioni di mantecatura collaudate e affidabili", "Ciotole sostitutive disponibili se quella originale si rompe", "Ingombro compatto rispetto alle macchine a compressore"],
+      "cons": ["Necessaria una pianificazione di pre-congelamento di 24 ore per ogni lotto"],
+      "grade": "A+",
+      "specs": {"Capacità": "1,5 quarti (circa 1,4 L)", "Tipo": "Ciotola pre-congelata", "Tempo di mantecatura": "20–25 min", "Motore": "~100W", "Lavabile in lavastoviglie": "Ciotola: No, Pala: Sì", "Dimensioni": "20 × 18 × 23 cm"},
+      "scores": {"Qualità di congelamento": 4.2, "Capacità": 3.5, "Velocità": 3.0, "Facilità d'uso": 4.8, "Valore": 5.0}
+    },
+    {
+      "offerId": "whynter-icm-200ls-ice-cream-maker",
+      "badge": "Miglior compressore",
+      "review": "Il Whynter ICM-200LS elimina completamente la barriera della pianificazione — compressore integrato, 2,1 quarti, senza pre-congelamento. Si mescola la base, la si versa e in 30–40 minuti si ha il gelato. La funzione di pre-raffreddamento raffredda la ciotola prima di aggiungere gli ingredienti, migliorando misurabilmente la consistenza partendo da un congelamento più profondo. Più lotti nello stesso giorno sono possibili. Per $250–300 si paga il compressore e la comodità on-demand; la qualità del gelato stessa è comparabile a quella del Cuisinart.",
+      "pros": ["Nessun pre-congelamento — gelato on-demand in meno di un'ora", "2,1 quarti — la capacità più grande di questo confronto", "Pre-raffreddamento + funzioni di indurimento per un migliore controllo della consistenza"],
+      "cons": ["Grande ingombro — richiede spazio fisso sul piano o armadio sufficientemente profondo"],
+      "grade": "A",
+      "specs": {"Capacità": "2,1 quarti (circa 2 L)", "Tipo": "Compressore integrato", "Tempo di mantecatura": "30–45 min", "Compressore": "Autonomo", "Livello rumore": "~55 dB", "Dimensioni": "40 × 28 × 38 cm"},
+      "scores": {"Qualità di congelamento": 4.5, "Capacità": 5.0, "Velocità": 4.5, "Facilità d'uso": 4.5, "Valore": 3.8}
+    },
+    {
+      "offerId": "breville-bci600xl-smart-scoop",
+      "badge": "Migliore precisione",
+      "review": "Il sensore di durezza automatico del Breville Smart Scoop è la caratteristica che lo distingue dalle altre macchine a compressore — legge la resistenza del motore man mano che il composto si addensa e ferma la mantecatura alla fermezza selezionata (11 impostazioni da soft serve a extra soda) senza bisogno di sorvegliare. La funzione keep-soft di 3 ore mantiene il gelato finito alla temperatura di servizio senza re-indurimento. Per i nuclei familiari che producono regolarmente gelato, sorbetto e cremolato, il prezzo premium di $350–400 è giustificato.",
+      "pros": ["Il sensore di durezza automatico elimina le congetture tra diversi tipi di base", "La funzione keep-soft di 3 ore mantiene la costanza del servizio", "Modalità di pre-raffreddamento di 30 min per la temperatura di partenza ottimale"],
+      "cons": ["$350–400 difficili da giustificare per nuclei familiari con un solo tipo di base"],
+      "grade": "B+",
+      "specs": {"Capacità": "1 quarto (circa 0,95 L)", "Tipo": "Compressore integrato", "Impostazioni durezza": "11", "Tempo pre-raffreddamento": "30 min", "Keep-soft": "Fino a 3 ore", "Dimensioni": "39 × 22 × 28 cm"},
+      "scores": {"Qualità di congelamento": 4.9, "Capacità": 3.2, "Velocità": 4.2, "Facilità d'uso": 4.0, "Valore": 3.2}
+    },
+    {
+      "offerId": "ninja-creami-ice-cream-maker",
+      "badge": "Migliore per basi non convenzionali",
+      "review": "Ninja Creami non manteca — processa un contenitore pint completamente congelato con lame ad alta velocità, creando consistenza liscia da un blocco solido congelato. Questo apre basi che fallirebbero nella mantecatura in qualsiasi macchina tradizionale: ricche di proteine, di fibre, solo frutta o povere di grassi. La consistenza risultante è notevolmente liscia. Il limite è la dimensione del lotto (un pint alla volta) e il requisito di pre-congelamento di 12–24 ore. Per i nuclei familiari attenti alla dieta o alle proteine, questa macchina apre possibilità che altrove non esistono.",
+      "pros": ["Processa basi ricche di proteine e non convenzionali che la mantecatura tradizionale non riesce a gestire", "Consistenza molto liscia grazie al processing a lame", "Le porzioni da un pint sono perfette per una o due persone"],
+      "cons": ["Un pint per lotto — i nuclei familiari grandi necessitano di più contenitori pre-congelati"],
+      "grade": "B",
+      "specs": {"Capacità": "1 pint per lotto", "Tipo": "Processore a lame", "Tempo di pre-congelamento": "12–24 ore", "Tempo di processing": "~2 min", "Contenitore": "Contenitori pint dedicati", "Dimensioni": "33 × 15 × 38 cm"},
+      "scores": {"Qualità di congelamento": 4.6, "Capacità": 2.5, "Velocità": 2.5, "Facilità d'uso": 4.2, "Valore": 4.0}
+    },
+    {
+      "offerId": "kitchenaid-ice-cream-maker-attachment",
+      "badge": "Migliore per possessori di KitchenAid",
+      "review": "Se si possiede già un'impastatrice KitchenAid, questo accessorio aggiunge capacità per il gelato per $50–70 senza un'altra base motore sul piano di lavoro. Si congela la ciotola (stesso requisito di 24 ore del Cuisinart), la si attacca all'impastatrice e si manteca per circa 25–30 minuti. Le prestazioni sono comparabili al Cuisinart ICE-21. Il vero vantaggio è il consolidamento delle apparecchiature — un elettrodomestico in meno per chi è già investito nell'ecosistema KitchenAid. Per chi non ha KitchenAid, è meglio comprare direttamente il Cuisinart.",
+      "pros": ["Nessuna base motore separata — sfrutta l'investimento KitchenAid esistente", "Stoccaggio compatto — solo la ciotola necessita spazio", "Qualità di mantecatura comparabile al Cuisinart standalone"],
+      "cons": ["Ha senso solo se si possiede già un'impastatrice KitchenAid"],
+      "grade": "B-",
+      "specs": {"Capacità": "1,9 quarti (circa 1,8 L)", "Tipo": "Accessorio ciotola pre-congelata", "Compatibile con": "Tutti i KitchenAid tilt-head e bowl-lift", "Tempo di mantecatura": "25–30 min", "Lavabile in lavastoviglie": "Ciotola: No", "Stoccaggio": "Solo ciotola"},
+      "scores": {"Qualità di congelamento": 4.0, "Capacità": 4.2, "Velocità": 2.8, "Facilità d'uso": 4.5, "Valore": 4.3}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per uso domestico occasionale", "offerId": "cuisinart-ice-21-ice-cream-maker", "reason": "Miglior rapporto qualità-prezzo per i nuclei familiari che fanno gelato qualche volta al mese e non si preoccupano di pianificare 24 ore prima."},
+    {"label": "Per la produzione on-demand", "offerId": "whynter-icm-200ls-ice-cream-maker", "reason": "Il compressore integrato significa nessuna attesa di pre-congelamento — più lotti nello stesso giorno senza pianificazione."},
+    {"label": "Per la precisione su più tipi di base", "offerId": "breville-bci600xl-smart-scoop", "reason": "Il sensore di durezza automatico si adatta a gelato, sorbetto e cremolato senza monitoraggio manuale."},
+    {"label": "Per i nuclei familiari attenti alle proteine o alla dieta", "offerId": "ninja-creami-ice-cream-maker", "reason": "Il processing a lame permette basi ricche di proteine, solo frutta e povere di grassi che le macchine di mantecatura non eseguono bene."},
+    {"label": "Per i possessori esistenti di KitchenAid", "offerId": "kitchenaid-ice-cream-maker-attachment", "reason": "Aggiunge capacità per il gelato senza un altro elettrodomestico — la scelta logica se si possiede già un KitchenAid."}
+  ]
 }

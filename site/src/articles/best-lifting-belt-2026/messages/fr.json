@@ -48,5 +48,64 @@
     "harbinger-padded-leather-belt": "Cuir rembourré en mousse pour le confort en entraînement général. Pas de spécification de compétition, mais idéal pour le travail mixte en salle et les séries à répétitions élevées où une ceinture rigide serait peu pratique."
   },
   "pinDescription": "Inzer vs SBD vs Rogue -- les 5 meilleures ceintures de force 2026 classées par performance réelle en squat et soulevé de terre. Levier vs boucle, 10mm vs 13mm, compétition vs entraînement quotidien -- tout est couvert. #CeintureDeFforce #Powerlifting #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque produit a été évalué sur cinq critères : qualité de construction, performance en utilisation typique, durabilité dans le temps, confort et rapport qualité-prix. Nous avons pondéré la performance et la durabilité en priorité car elles déterminent si un produit est encore utile 12 mois après l'achat.",
+  "products": [
+    {
+      "offerId": "inzer-forever-lever-belt-10mm",
+      "badge": "Meilleure au global",
+      "review": "La Inzer Forever Lever Belt est la référence à laquelle toutes les autres ceintures de powerlifting sont comparées. Le cuir simple couche 10mm est suffisamment rigide pour un vrai support de pression intra-abdominale sans les douleurs aux côtes du 13mm en séries à répétitions élevées. Approuvée IPF — même ceinture pour l'entraînement et la compétition. La fermeture à levier délivre une tension identique chaque série — réglée une fois, cliquée, c'est parti.",
+      "pros": ["Fermeture à levier : tension identique chaque série sans ajustement", "Approuvée IPF pour la compétition", "Garantie Forever : couvre les défauts pendant toute la durée de vie"],
+      "cons": ["4-6 semaines de rodage avant que le cuir s'adapte au corps"],
+      "grade": "A+",
+      "specs": {"Épaisseur": "Cuir simple couche 10mm", "Largeur": "10cm (uniforme, IPF)", "Fermeture": "Boucle à levier", "Approuvée IPF": "Oui", "Prix": "130€"},
+      "scores": {"Qualité de construction": 5.0, "Durabilité": 5.0, "Confort": 3.8, "Facilité d'utilisation": 4.5, "Rapport qualité-prix": 4.5}
+    },
+    {
+      "offerId": "sbd-belt-powerlifting",
+      "badge": "Meilleure pour la compétition",
+      "review": "La ceinture SBD 13mm est utilisée par plusieurs détenteurs de records mondiaux IPF — pas du marketing, une donnée vérifiable sur la tenue de la construction sous de vraies charges maximales. Rigidité maximale légale pour le potentiel de gainage le plus élevé. Le mécanisme mono-doigt se libère plus vite que l'Inzer entre les tentatives. Compromis : 6-8 semaines de rodage et inconfort en séries à hautes répétitions.",
+      "pros": ["Utilisée par des détenteurs de records mondiaux IPF", "Ouverture mono-doigt — la plus rapide de la catégorie", "13mm d'épaisseur légale maximale pour le gainage le plus élevé"],
+      "cons": ["6-8 semaines de rodage", "Inconfortable pour les séries de 8+ répétitions"],
+      "grade": "A",
+      "specs": {"Épaisseur": "Cuir simple couche 13mm", "Largeur": "10cm (IPF)", "Fermeture": "Levier SBD propriétaire", "Fabriquée au": "Royaume-Uni", "Prix": "350-400€"},
+      "scores": {"Qualité de construction": 5.0, "Durabilité": 5.0, "Confort": 3.0, "Facilité d'utilisation": 4.8, "Rapport qualité-prix": 3.0}
+    },
+    {
+      "offerId": "rogue-ohio-lifting-belt",
+      "badge": "Meilleure ceinture made in USA",
+      "review": "La Rogue Ohio Belt est fabriquée à Columbus, Ohio en cuir Herman Oak — la même tannerie que les meilleurs fabricants de ceintures sur mesure. La largeur avant effilée de 4 à 3 pouces améliore la mobilité de hanche lors des soulevés de terre. Disponible en simple ou double boucle. La qualité de fabrication est constante et la traçabilité de la chaîne d'approvisionnement est un vrai différenciateur.",
+      "pros": ["Cuir Herman Oak — même tannerie que les ceintures sur mesure premium", "Effilement de 4 à 3 pouces améliore la mobilité de hanche au soulevé de terre", "Fabriquée à Columbus, Ohio avec chaîne d'approvisionnement traçable"],
+      "cons": ["La fermeture à boucle demande plus d'ajustements que le levier"],
+      "grade": "B+",
+      "specs": {"Épaisseur": "Cuir simple couche 10mm", "Largeur": "4po dos / 3po avant", "Fermeture": "Simple ou double boucle", "Fabriquée à": "Columbus, Ohio, USA", "Prix": "180-230€"},
+      "scores": {"Qualité de construction": 4.8, "Durabilité": 4.8, "Confort": 4.0, "Facilité d'utilisation": 3.8, "Rapport qualité-prix": 4.3}
+    },
+    {
+      "offerId": "pioneer-cut-powerlifting-belt",
+      "badge": "Meilleure géométrie pour le squat",
+      "review": "Le coupe contourée de Pioneer — plus large dans le dos, se rétrécissant vers les côtés — est une géométrie que de nombreux pratiquants trouvent moins gênante pour les fléchisseurs de hanche en bas du squat par rapport aux ceintures de largeur uniforme. Populaire dans le powerlifting japonais pour sa compatibilité spécifique au squat. Disponible en plusieurs largeurs et styles de boucle.",
+      "pros": ["Géométrie contourée réduit l'interférence des fléchisseurs de hanche en squat profond", "Populaire dans le powerlifting japonais pour l'adaptation au squat", "Disponible en plusieurs largeurs et configurations de boucle"],
+      "cons": ["La géométrie spécifique peut ne pas convenir à toutes les morphologies"],
+      "grade": "B",
+      "specs": {"Épaisseur": "Cuir simple couche 10mm", "Coupe": "Contour Pioneer — dos large, côtés étroits", "Approuvée IPF": "Oui", "Options": "Plusieurs largeurs et styles de boucle", "Prix": "150-200€"},
+      "scores": {"Qualité de construction": 4.5, "Durabilité": 4.5, "Confort": 4.5, "Facilité d'utilisation": 3.8, "Rapport qualité-prix": 4.5}
+    },
+    {
+      "offerId": "harbinger-padded-leather-belt",
+      "badge": "Meilleure pour l'entraînement général",
+      "review": "La ceinture en cuir rembourré Harbinger est conçue pour la musculation générale et le culturisme, pas pour la compétition de powerlifting. Le panneau arrière rembourré en mousse la rend confortable dès la première séance — idéale pour les soulevés roumains et les rowings où on la met et enlève régulièrement. Le gainage maximal est inférieur au cuir rigide simple couche ; pour des séries à 70-80%, elle est parfaitement adéquate.",
+      "pros": ["Confortable dès le premier jour — pas de rodage", "Mousse pratique pour les séries à hautes répétitions variées", "Prix le plus bas de cette comparaison"],
+      "cons": ["Pas de spécification compétition — la mousse limite le gainage maximal", "Non approuvée IPF"],
+      "grade": "B-",
+      "specs": {"Matière": "Cuir avec panneau arrière en mousse", "Largeur": "6 pouces", "Approuvée IPF": "Non", "Idéale pour": "Entraînement général, splits de culturisme", "Prix": "40-65€"},
+      "scores": {"Qualité de construction": 3.5, "Durabilité": 3.8, "Confort": 5.0, "Facilité d'utilisation": 4.5, "Rapport qualité-prix": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les powerlifters en compétition", "offerId": "inzer-forever-lever-belt-10mm", "reason": "Levier approuvé IPF avec tension constante chaque série et garantie à vie"},
+    {"label": "Pour la compétition IPF élite", "offerId": "sbd-belt-powerlifting", "reason": "Gainage légal maximal à 13mm, utilisée par des recordmans mondiaux IPF sur la plateforme"},
+    {"label": "Pour les athlètes axés sur le soulevé de terre", "offerId": "rogue-ohio-lifting-belt", "reason": "L'effilement avant améliore la mobilité de hanche à la pliure lors des tirages lourds"},
+    {"label": "Pour les squatteurs profonds", "offerId": "pioneer-cut-powerlifting-belt", "reason": "La géométrie contourée réduit l'interférence des fléchisseurs de hanche en bas du squat"},
+    {"label": "Pour l'entraînement général en salle", "offerId": "harbinger-padded-leather-belt", "reason": "Confortable pour les séries à hautes répétitions sans rodage, au prix le plus bas"}
+  ]
 }

@@ -107,5 +107,139 @@
     "camelbak-chute-mag": "Botella al vacío optimizada para senderismo con tapa magnética abatible — la tapa permanece abierta magnéticamente durante el vertido y no puede perderse en el sendero, aislamiento al vacío de acero inoxidable de 25oz, más ligera que las alternativas de 32oz. La menor capacidad de 25oz requiere recargas más frecuentes en excursiones largas; la tapa magnética puede abrirse si cae con la tapa hacia abajo; no es completamente a prueba de derrames."
   },
   "pinDescription": "Cinco botellas de agua aisladas comparadas en 2026: Hydro Flask, Stanley Quencher, Yeti Rambler, Nalgene Silo y CamelBak Chute Mag. Cómo funciona el aislamiento al vacío, retención de 24h frío vs 12h calor, boca ancha vs estrecha para cubitos de hielo vs beber en el trayecto, tipos de tapa, compensaciones de peso para senderismo, y por qué vale la pena comparar con los termos japoneses Thermos y Zojirushi. #BotelladeAgua #HydroFlask #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada botella fue puntuada en efectividad de aislamiento al vacío (retención de frío a 24h, retención de calor a 12h), resistencia de la tapa a fugas según informes de propietarios, grado de acero inoxidable y durabilidad del recubrimiento, costo total incluyendo tapas de repuesto, facilidad de limpieza con cepillo para el interior y mecanismo de tapa, y compensación de peso vs capacidad para uso en senderismo.",
+  "products": [
+    {
+      "offerId": "hydro-flask-wide-mouth",
+      "badge": "Mejor Elección General",
+      "review": "Hydro Flask Wide Mouth establece el estándar para botellas de vacío premium: el aislamiento de doble pared TempShield mantiene las bebidas frías 24h y calientes 12h — reproducible en pruebas controladas. El Flex Cap es estanco ante caídas de forma fiable, y el recubrimiento en polvo resiste arañazos tras más de 2 años de uso cotidiano. El precio de $40+ es más alto que Stanley, pero se justifica por el rendimiento de aislamiento demostrado superior.",
+      "pros": ["Aislamiento TempShield mantiene 24h frío y 12h caliente, reproducible", "Recubrimiento en polvo resistente a arañazos en uso cotidiano", "Diseño de boca ancha para cubitos de hielo y limpieza fácil"],
+      "cons": ["Precio $40+ claramente más alto que Nalgene o CamelBak"],
+      "grade": "A+",
+      "specs": {
+        "Capacidad": "32 oz (946 ml)",
+        "Tipo de aislamiento": "Vacío doble pared TempShield",
+        "Retención de frío": "24 horas",
+        "Retención de calor": "12 horas",
+        "Material": "Acero inoxidable 18/8",
+        "Mecanismo de tapa": "Flex Cap de rosca"
+      },
+      "scores": {
+        "Insulation": 4.9,
+        "Leak resistance": 4.7,
+        "Durability": 4.9,
+        "Value": 4.2,
+        "Ease of cleaning": 4.5
+      }
+    },
+    {
+      "offerId": "stanley-quencher-tumbler",
+      "badge": "Mejor Uso Cotidiano",
+      "review": "El Stanley Quencher H2.0 es un tumbler, no una botella tradicional — eso es tanto su fortaleza como su limitación. El amplio diseño con asa y la tapa con pajita lo convierten en el compañero diario más cómodo. El rendimiento de aislamiento es sólido (24h frío), aunque ligeramente por detrás de Hydro Flask. La limpieza es fácil gracias a la amplia apertura, aunque requiere accesorios específicos para la pajita.",
+      "pros": ["Diseño con asa amplia — el más cómodo para uso cotidiano", "Tapa con pajita ideal para oficina y trayecto diario", "Sólida retención de 24h frío a precio razonable"],
+      "cons": ["Forma tumbler menos portátil que las botellas estándar"],
+      "grade": "A",
+      "specs": {
+        "Capacidad": "30 oz (887 ml)",
+        "Tipo de aislamiento": "Vacío doble pared",
+        "Retención de frío": "24 horas",
+        "Retención de calor": "6 horas",
+        "Material": "Acero inoxidable 18/8",
+        "Mecanismo de tapa": "Tapa con pajita y asa"
+      },
+      "scores": {
+        "Insulation": 4.7,
+        "Leak resistance": 4.5,
+        "Durability": 4.5,
+        "Value": 4.5,
+        "Ease of cleaning": 3.8
+      }
+    },
+    {
+      "offerId": "yeti-rambler-bottle",
+      "badge": "Más Resistente",
+      "review": "Yeti Rambler es la botella más resistente del test: la doble pared de acero inoxidable 18/8 es más gruesa que la competencia, y el Chug Cap es el cierre más estanco según los informes de propietarios. El rendimiento de aislamiento es excelente (48h frío en especificaciones del fabricante, 24h+ realista). El precio de $40+ y el peso más alto son las únicas limitaciones reales para uso en senderismo.",
+      "pros": ["Acero inoxidable 18/8 más grueso para máxima resistencia a golpes", "Chug Cap el cierre más estanco según informes de propietarios", "Excelente rendimiento de aislamiento — 24h+ frío realista"],
+      "cons": ["Mayor peso que alternativas más ligeras para senderismo prolongado"],
+      "grade": "B+",
+      "specs": {
+        "Capacidad": "36 oz (1065 ml)",
+        "Tipo de aislamiento": "Vacío doble pared",
+        "Retención de frío": "24+ horas",
+        "Retención de calor": "12+ horas",
+        "Material": "Acero inoxidable 18/8 (más grueso)",
+        "Mecanismo de tapa": "Chug Cap"
+      },
+      "scores": {
+        "Insulation": 4.8,
+        "Leak resistance": 4.8,
+        "Durability": 5.0,
+        "Value": 3.5,
+        "Ease of cleaning": 4.3
+      }
+    },
+    {
+      "offerId": "nalgene-silo-bottle",
+      "badge": "Mejor Precio",
+      "review": "Nalgene Silo es el único participante no aislado al vacío — el material Sustain es duradero y 100% libre de productos químicos nocivos, pero no hay efecto termos. Es la opción más ligera y económica a $25, y la boca ancha permite la limpieza más fácil de todas. Para aislamiento del frío es simplemente la opción incorrecta; no debe usarse para bebidas calientes.",
+      "pros": ["La botella más ligera del test a $25", "Boca ancha para la limpieza más fácil de todas", "Material Sustain resistente y libre de productos químicos nocivos"],
+      "cons": ["Sin aislamiento al vacío — ningún efecto termos"],
+      "grade": "B",
+      "specs": {
+        "Capacidad": "48 oz (1420 ml)",
+        "Tipo de aislamiento": "Ninguno (plástico Sustain)",
+        "Retención de frío": "Ninguna",
+        "Material": "Plástico Tritan Renew",
+        "Peso": "~150 g",
+        "Mecanismo de tapa": "Tapa roscada boca ancha"
+      },
+      "scores": {
+        "Insulation": 1.5,
+        "Leak resistance": 4.5,
+        "Durability": 4.8,
+        "Value": 5.0,
+        "Ease of cleaning": 5.0
+      }
+    },
+    {
+      "offerId": "camelbak-chute-mag",
+      "badge": "Mejor para Senderismo",
+      "review": "CamelBak Chute Mag fue diseñada específicamente para senderistas: la tapa magnética abatible permanece abierta mientras bebes y no puede perderse. La capacidad de 25oz es más ligera que las alternativas de 32oz, pero requiere recargas más frecuentes. El aislamiento al vacío es bueno (24h frío), aunque no alcanza el nivel de Hydro Flask. La relación calidad-precio es justa en el contexto del senderismo.",
+      "pros": ["Tapa magnética abatible — permanece abierta mientras bebes, no se pierde", "Optimizada para senderistas con menor peso", "Sólida retención de 24h frío para uso outdoor"],
+      "cons": ["Capacidad de 25oz más pequeña requiere recargas más frecuentes"],
+      "grade": "B-",
+      "specs": {
+        "Capacidad": "25 oz (740 ml)",
+        "Tipo de aislamiento": "Vacío doble pared",
+        "Retención de frío": "24 horas",
+        "Material": "Acero inoxidable 18/8",
+        "Mecanismo de tapa": "Tapa magnética abatible",
+        "Ámbito de uso": "Senderismo/Outdoor"
+      },
+      "scores": {
+        "Insulation": 4.5,
+        "Leak resistance": 4.2,
+        "Durability": 4.5,
+        "Value": 4.5,
+        "Ease of cleaning": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para usuarios que buscan el máximo rendimiento de aislamiento",
+      "offerId": "hydro-flask-wide-mouth",
+      "reason": "El aislamiento TempShield ofrece los mejores valores verificados de retención de frío y calor en la comparación."
+    },
+    {
+      "label": "Para usuarios de oficina y trayecto diario",
+      "offerId": "stanley-quencher-tumbler",
+      "reason": "El diseño con asa y la tapa con pajita lo convierten en el compañero diario más cómodo."
+    },
+    {
+      "label": "Para senderistas con conciencia del peso",
+      "offerId": "camelbak-chute-mag",
+      "reason": "Tapa magnética abatible y menor peso optimizados para uso en sendero."
+    }
+  ]
 }

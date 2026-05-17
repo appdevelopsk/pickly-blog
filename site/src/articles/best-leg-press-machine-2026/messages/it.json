@@ -58,5 +58,84 @@
     "marcy-diamond-leg-press": "Slitta a 45 gradi entry-level, acciaio calibro 14, valutato 600 lb. $300-450. Opzione economica entry-level — adeguata per uso domestico leggero e riabilitazione. Non raccomandata per l'allenamento con alto volume o leg press pesante a lungo termine."
   },
   "pinDescription": "Macchina leg press 2026: Body-Solid GLPH1100 vs Valor BD-62 vs REP LP-5000 vs Titan V2 — meccanica della slitta a 45 gradi spiegata, posizionamento dei piedi per enfatizzare quadricipiti vs glutei, macchine combinate leg press vs hack squat, e quale leg press a carico libero vale la pena acquistare per la tua palestra domestica. #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni prodotto è stato valutato su cinque criteri: qualità costruttiva, prestazioni nell'uso tipico, durata nel tempo, comfort e rapporto qualità-prezzo. Abbiamo ponderato maggiormente prestazioni e durabilità perché determinano se un prodotto è ancora utile 12 mesi dopo.",
+  "products": [
+    {
+      "offerId": "body-solid-leg-press-hack-squat",
+      "badge": "Migliore in assoluto",
+      "review": "La doppia funzione leg press e hack squat in un'unica macchina è la proposta più intelligente nella fascia di prezzo. I cuscinetti lineari offrono uno scorrimento della slitta eccezionalmente fluido sotto carico pesante, e la capacità da 1.000 lb supera ampiamente ciò di cui qualsiasi utente domestico avrà bisogno. La costruzione di livello commerciale significa che durerà un decennio con uso regolare.",
+      "pros": ["Doppia funzione: leg press + hack squat in un'unica macchina", "Cuscinetti lineari per uno scorrimento fluido della slitta", "Capacità da 1.000 lb — supera le esigenze di qualsiasi palestra domestica"],
+      "cons": ["Senza funzione hack squat, il REP LP-5000 offre maggiore range di movimento come leg press dedicato"],
+      "grade": "A+",
+      "specs": {"Tipo": "Leg press / hack squat combo", "Capacità": "1.000 lb", "Sistema slitta": "Cuscinetti lineari", "Prezzo": "$700-900"},
+      "scores": {"Qualità costruttiva": 4.8, "Durabilità": 4.8, "Capacità di carico": 5.0, "Versatilità": 5.0, "Rapporto qualità-prezzo": 4.5}
+    },
+    {
+      "offerId": "valor-fitness-bd-62-leg-press",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "review": "La Valor BD-62 offre l'ingombro più compatto di tutte le opzioni e rimane nel budget senza compromettere la funzione di base. Il sistema di barre guida in nylon è adeguato per carichi moderati, anche se meno fluido dei cuscinetti lineari sotto carico pesante. Adatta per atleti che si allenano con meno di 300 lb di piastre.",
+      "pros": ["Ingombro compatto — ideale per spazi piccoli", "Prezzo più accessibile della categoria", "Sistema di barre guida a bassa manutenzione"],
+      "cons": ["Limitata a 400 lb di carico — non adatta per allenamento serio con pesi pesanti", "Scorrimento della slitta meno fluido rispetto alle opzioni con cuscinetti"],
+      "grade": "A",
+      "specs": {"Tipo": "Leg press a 45°", "Capacità": "400 lb caricato", "Sistema slitta": "Barre guida in nylon", "Prezzo": "$500-650"},
+      "scores": {"Qualità costruttiva": 3.5, "Durabilità": 3.5, "Capacità di carico": 3.0, "Facilità d'uso": 4.0, "Rapporto qualità-prezzo": 4.8}
+    },
+    {
+      "offerId": "rep-fitness-lp-5000-leg-press",
+      "badge": "Miglior leg press dedicato",
+      "review": "L'LP-5000 è il miglior leg press dedicato se non si ha bisogno della funzione hack squat. La piattaforma più grande, il maggiore range di movimento e il sistema di carrello a 4 rulli lo distinguono dalla concorrenza. Gli angoli di schienale regolabili permettono di personalizzare la posizione in base alla biomeccanica individuale.",
+      "pros": ["Piattaforma grande con range di movimento superiore", "Sistema di carrello a 4 rulli per scorrimento fluido", "Angolo di schienale regolabile per diverse posizioni"],
+      "cons": ["Più costoso del Body-Solid senza la funzione hack squat"],
+      "grade": "B+",
+      "specs": {"Tipo": "Leg press dedicato a 45°", "Capacità": "Non specificata", "Sistema slitta": "Carrello a 4 rulli", "Prezzo": "$800-1.000"},
+      "scores": {"Qualità costruttiva": 4.7, "Durabilità": 4.7, "Capacità di carico": 4.8, "Facilità d'uso": 4.5, "Rapporto qualità-prezzo": 4.0}
+    },
+    {
+      "offerId": "titan-fitness-leg-press-v2",
+      "badge": "Alternativa economica",
+      "review": "Il Titan V2 offre una capacità di carico da 1.000 lb a un prezzo inferiore al REP, rendendolo una scelta ragionevole per chi cerca la funzione di base senza il costo aggiuntivo. Lo scorrimento della slitta è leggermente più ruvido del REP a causa della qualità inferiore dei cuscinetti, ma la struttura è solida per uso domestico.",
+      "pros": ["Capacità di carico da 1.000 lb a prezzo più accessibile di REP", "Cuscinetti lineari (meglio delle barre guida in nylon)", "Struttura adeguata"],
+      "cons": ["Scorrimento della slitta più ruvido di REP o Body-Solid", "Nessuna funzione hack squat"],
+      "grade": "B",
+      "specs": {"Tipo": "Leg press dedicato a 45°", "Capacità": "1.000 lb", "Sistema slitta": "Cuscinetti lineari", "Prezzo": "$600-800"},
+      "scores": {"Qualità costruttiva": 4.0, "Durabilità": 4.0, "Capacità di carico": 4.8, "Facilità d'uso": 4.0, "Rapporto qualità-prezzo": 4.3}
+    },
+    {
+      "offerId": "marcy-diamond-leg-press",
+      "badge": "Opzione base",
+      "review": "La Marcy Diamond MD-9060G è l'opzione entry-level per budget molto limitati. La struttura in acciaio calibro 14 è adeguata per uso leggero, ma la slitta può sembrare instabile sotto carico pesante. Adatta per la riabilitazione o uso occasionale, non per programmi ad alta intensità.",
+      "pros": ["Prezzo più basso della categoria", "Sufficiente per la riabilitazione e uso leggero"],
+      "cons": ["Acciaio calibro 14 — la struttura più leggera del gruppo", "La slitta può sembrare instabile sotto carico pesante", "Non raccomandata per allenamento serio a lungo termine"],
+      "grade": "B-",
+      "specs": {"Tipo": "Leg press base a 45°", "Capacità": "600 lb", "Struttura": "Acciaio calibro 14", "Prezzo": "$300-450"},
+      "scores": {"Qualità costruttiva": 2.8, "Durabilità": 2.8, "Capacità di carico": 3.0, "Facilità d'uso": 3.8, "Rapporto qualità-prezzo": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {
+      "profile": "Atleta di palestra domestica che vuole leg press e hack squat",
+      "pick": "body-solid-leg-press-hack-squat",
+      "reason": "Due movimenti in un'unica macchina per meno di $900 — il miglior rapporto prezzo/funzionalità disponibile per le palestre domestiche."
+    },
+    {
+      "profile": "Atleta con budget limitato o spazio ridotto",
+      "pick": "valor-fitness-bd-62-leg-press",
+      "reason": "Ingombro compatto e prezzo basso, sufficiente per allenarsi con carichi moderati senza occupare troppo spazio."
+    },
+    {
+      "profile": "Atleta serio che vuole solo leg press con il miglior range di movimento",
+      "pick": "rep-fitness-lp-5000-leg-press",
+      "reason": "Piattaforma più grande, range di movimento superiore e carrello a 4 rulli rendono l'LP-5000 il miglior leg press dedicato per l'allenamento ipertrofico."
+    },
+    {
+      "profile": "Atleta che cerca alta capacità di carico senza pagare un prezzo premium",
+      "pick": "titan-fitness-leg-press-v2",
+      "reason": "1.000 lb di capacità a prezzo più accessibile del REP — funzione adeguata se non si necessita di hack squat né dello scorrimento più fluido."
+    },
+    {
+      "profile": "Riabilitazione o uso leggero occasionale",
+      "pick": "marcy-diamond-leg-press",
+      "reason": "Il prezzo più basso della categoria soddisfa per carichi leggeri e lavoro di riabilitazione del ginocchio."
+    }
+  ]
 }

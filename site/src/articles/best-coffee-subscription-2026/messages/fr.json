@@ -91,5 +91,64 @@
     "peets-coffee-subscription": "Meilleur abonnement cafe moulu conventionnel — Major Dickason's Blend a ~$12-15/12 oz, livraison gratuite, aucune courbe d'apprentissage. Torrefaction foncee constante, largement appreciee pour sa previsibilite. Ideal pour ceux qui veulent la meme tasse fiable chaque matin. Limite : zero variete ; le profil de torrefaction foncee ne satisfera pas les amateurs de cafe de specialite a torrefaction claire."
   },
   "pinDescription": "5 abonnements cafe compares pour 2026 : Trade Coffee vs Atlas Coffee Club vs Onyx vs Angels' Cup vs Peet's. Fraicheur, prix par oz, personnalisation — trouvez le bon abonnement avant que votre prochain sac soit vide. #cafeabonnement #cafe #torrefacteurs #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque abonnement a été évalué sur la fraîcheur à la livraison (jours depuis la torréfaction), la précision de la personnalisation après 3 commandes ou plus, le prix par once normalisé par taille de sachet, les options de mouture et la facilité de mettre en pause les livraisons.",
+  "products": [
+    {
+      "offerId": "trade-coffee-subscription",
+      "badge": "Meilleur au Global",
+      "review": "L'algorithme de préférences de Trade Coffee sélectionne dans plus de 60 torréfacteurs indépendants et expédie en 1–3 jours après la torréfaction — une combinaison de variété et de fraîcheur qu'aucun abonnement à torréfacteur unique ne peut égaler. Limite honnête : l'algorithme nécessite 3–5 commandes pour se calibrer.",
+      "pros": ["Réseau de 60+ torréfacteurs avec une large variété d'origines et de styles", "Date de torréfaction imprimée sur chaque sachet — transparence totale de fraîcheur", "La boucle de retour par évaluation affine continuellement les futurs matchs"],
+      "cons": ["Les premières livraisons peuvent ne pas correspondre au palais tant que l'algorithme n'a pas appris des évaluations"],
+      "grade": "A+",
+      "specs": {"Réseau de torréfacteurs": "60+ torréfacteurs indépendants", "Expédition après torréfaction": "1–3 jours", "Taille du sachet": "280–340 g", "Fourchette de prix": "$14–$22 par sachet", "Options de mouture": "Grains entiers + 4 types pré-moulus", "Fréquence": "Hebdomadaire à toutes les 8 semaines"},
+      "scores": {"Fraîcheur": 4.9, "Saveur": 4.7, "Valeur": 4.3, "Commodité": 4.5, "Personnalisation": 4.8}
+    },
+    {
+      "offerId": "atlas-coffee-club",
+      "badge": "Meilleur pour les Explorateurs",
+      "review": "Atlas Coffee Club livre un pays producteur différent chaque mois avec des sachets datés de torréfaction et une carte postale éducative — le meilleur format pour les amateurs qui abordent le café comme un œnophile explore les régions. Sans personnalisation : vous recevez les sélections éditoriales d'Atlas.",
+      "pros": ["Nouveau pays d'origine chaque mois avec une véritable diversité géographique", "Date de torréfaction tamponnée, expédié quelques jours après la torréfaction", "Cartes postales avec notes de dégustation et détails du mode de traitement"],
+      "cons": ["Pas de personnalisation — impossible de spécifier des préférences de goût ou d'exclure des méthodes de traitement"],
+      "grade": "A",
+      "specs": {"Modèle d'approvisionnement": "Origine unique, pays rotatif mensuel", "Expédition après torréfaction": "1–4 jours", "Taille du sachet": "340 g", "Fourchette de prix": "$14–$19 livraison incluse", "Options de mouture": "Grains entiers (moulu sur demande)", "Flexibilité": "Skip, pause, annulation à tout moment"},
+      "scores": {"Fraîcheur": 4.7, "Saveur": 4.6, "Valeur": 4.5, "Commodité": 4.4, "Personnalisation": 2.5}
+    },
+    {
+      "offerId": "onyx-coffee-lab-subscription",
+      "badge": "Meilleure Qualité",
+      "review": "Onyx torréfie à la commande et expédie en 24–48 heures — parmi les plus rapides de la catégorie. L'approvisionnement cible des lots à haut score orientés vers le processus. L'esthétique étroite (torréfactions claires, fruités) est à la fois une force et une limite.",
+      "pros": ["Torréfaction à la commande, expédition en 24–48 h — la livraison fraîche la plus rapide testée", "Approvisionnement de haute qualité constante avec des lots de niveau compétition", "La remise sur abonnement rend le prix premium plus soutenable"],
+      "cons": ["Esthétique de torréfaction étroite — non adapté aux préférences de torréfaction foncée ou de mélanges"],
+      "grade": "B+",
+      "specs": {"Modèle": "Torréfacteur unique (torréfactions Onyx)", "Expédition après torréfaction": "24–48 heures", "Taille du sachet": "280–340 g", "Fourchette de prix": "$18–$22 par sachet", "Options de mouture": "Grains entiers uniquement", "Flexibilité": "Tableau de bord en libre-service, pause/skip disponible"},
+      "scores": {"Fraîcheur": 5.0, "Saveur": 4.8, "Valeur": 3.8, "Commodité": 4.2, "Personnalisation": 2.0}
+    },
+    {
+      "offerId": "angels-cup-subscription",
+      "badge": "Meilleur pour Entraîner le Palais",
+      "review": "Angels' Cup envoie des packs d'échantillons numérotés sans étiquette pour la dégustation à l'aveugle — un format unique qui développe les compétences de dégustation plutôt que des habitudes. Le coût par once est le plus élevé des cinq ; le format ne fonctionne pas comme approvisionnement quotidien principal.",
+      "pros": ["La dégustation à l'aveugle élimine les biais d'origine et développe une évaluation précise du palais", "Expédition en 1–5 jours après torréfaction avec emballage numéroté", "Les détails de l'origine sont révélés après dégustation — apprentissage structuré"],
+      "cons": ["Le format d'échantillon n'est pas pratique comme approvisionnement quotidien principal — coût par once élevé"],
+      "grade": "B",
+      "specs": {"Modèle": "Sets d'échantillons à l'aveugle multi-torréfacteurs", "Expédition après torréfaction": "1–5 jours", "Taille d'échantillon": "4 échantillons par set (~28 g chacun)", "Fourchette de prix": "$10–$14 pour pack de 4", "Options de mouture": "Pré-moulu (échantillons) ; grains entiers pour abonnement régulier", "Flexibilité": "Annulation et skip en ligne depuis le portail"},
+      "scores": {"Fraîcheur": 4.6, "Saveur": 4.5, "Valeur": 3.5, "Commodité": 3.8, "Personnalisation": 3.0}
+    },
+    {
+      "offerId": "peets-coffee-subscription",
+      "badge": "Le Choix Sans Prise de Tête",
+      "review": "L'abonnement Peet's Major Dickason's Blend offre une qualité de torréfaction foncée constante au prix par once le plus bas des cinq, avec livraison gratuite et sans courbe d'apprentissage. Idéal pour qui veut la même tasse fiable chaque matin — totalement inadapté pour qui cherche une spécialité ou de la variété.",
+      "pros": ["Prix par once le plus bas avec livraison gratuite incluse", "Caractère de torréfaction foncée constant — pas de surprises ni de rotations d'origines", "Larges options de mouture — pas besoin de moulin"],
+      "cons": ["Zéro variété ; le profil de torréfaction foncée ne satisfera pas les amateurs de café de spécialité clair"],
+      "grade": "B-",
+      "specs": {"Mélange": "Major Dickason's Blend (torréfaction foncée)", "Expédition après torréfaction": "En quelques jours par canal direct", "Taille du sachet": "340 g", "Fourchette de prix": "$12–$15 avec livraison gratuite", "Options de mouture": "Grains entiers et tous types de mouture", "Flexibilité": "Skip et pause via le portail Peet's"},
+      "scores": {"Fraîcheur": 4.2, "Saveur": 4.0, "Valeur": 4.8, "Commodité": 4.9, "Personnalisation": 1.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les amateurs curieux qui veulent de la variété sans recherches", "offerId": "trade-coffee-subscription", "reason": "L'algorithme de préférences gère la découverte de torréfacteurs ; il suffit d'évaluer ce que vous recevez."},
+    {"label": "Pour l'explorateur de café avec approche géographique", "offerId": "atlas-coffee-club", "reason": "Un pays différent chaque mois avec contexte d'origine — systématique et éducatif."},
+    {"label": "Pour les acheteurs ayant une préférence établie pour les torréfactions claires de spécialité", "offerId": "onyx-coffee-lab-subscription", "reason": "Torréfaction à la commande avec la livraison la plus rapide et sans compromis sur la qualité."},
+    {"label": "Pour développer son palais grâce à la dégustation à l'aveugle", "offerId": "angels-cup-subscription", "reason": "Le seul abonnement conçu comme exercice de dégustation plutôt que comme approvisionnement quotidien."},
+    {"label": "Pour ceux qui veulent un café moulu foncé fiable sans complications", "offerId": "peets-coffee-subscription", "reason": "Consistant, abordable, pré-moulu — pas de courbe d'apprentissage, pas de surprises."}
+  ]
 }

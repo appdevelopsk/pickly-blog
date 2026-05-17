@@ -113,5 +113,154 @@
     "aulola-travel-adapter": "Ultra-compact form factor — lighter and smaller than any other adapter in this comparison. Covers Types A, C, G, and I. Single AC outlet, no built-in USB charging. Under $15. one device at a time through the AC outlet with no USB ports; no surge protection; build quality tolerances can be loose on some plug types, particularly the Type G (UK) pins; not suitable as the primary solution for travellers with multiple devices."
   },
   "pinDescription": "Best travel adapters 2026 — do you need a converter or just a plug adapter? USB-C PD wattage for MacBook charging, surge protection for Southeast Asia, Type A/C/G/I world plug map. EPICKA vs Ceptics vs BESTEK vs Satechi vs Aulola. Honest weakness on every pick.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each adapter was scored on plug-type breadth, USB-C PD output wattage, surge protection rating, build durability, and total cost of ownership including bag and accessory costs.",
+  "products": [
+    {
+      "offerId": "epicka-universal-adapter",
+      "badge": "Best Overall",
+      "review": "Covers 150+ countries with ten plug types, four USB-A ports, and USB-C — the most comprehensive plug coverage in this comparison. The 2000-joule MOV surge protection adds real insurance for Southeast Asia and South Asia itineraries, which no other adapter here matches. The retractable prong mechanism can develop looseness after a year of heavy travel, and USB-C at 18W is not adequate for fast MacBook charging.",
+      "pros": ["10 plug types covering 150+ countries", "2000-joule MOV surge protection", "5 charging ports simultaneously"],
+      "cons": ["USB-C only 18W — too slow for laptop fast charge"],
+      "grade": "A+",
+      "specs": {
+        "Plug types": "A, B, C, D, E/F, G, H, I, L, N",
+        "Countries": "150+",
+        "USB-A ports": "4",
+        "USB-C output": "18W",
+        "Surge protection": "2000 joules (MOV)",
+        "AC outlet": "1",
+        "Max load": "6A / 1380W"
+      },
+      "scores": {
+        "Compatibility": 5.0,
+        "Build quality": 4.2,
+        "USB ports": 4.5,
+        "Value": 4.8,
+        "Safety features": 5.0
+      }
+    },
+    {
+      "offerId": "ceptics-world-travel-adapter",
+      "badge": "Best Modular",
+      "review": "Interchangeable plug heads let you carry only the regions you need — the lightest and slimmest option for single-region trips. USB-A charging is built into the common body. You must plan plug types before departure; any unplanned detour to a country with a different socket leaves you stuck.",
+      "pros": ["Lightest and slimmest per-region", "Buy only the heads you need", "USB-A ports built in"],
+      "cons": ["No surge protection", "Must plan plug types before travel"],
+      "grade": "A",
+      "specs": {
+        "Plug types": "A, C/E/F, G, I (modular heads)",
+        "Design": "Interchangeable regional heads",
+        "USB-A ports": "2",
+        "USB-C output": "None",
+        "Surge protection": "None",
+        "AC outlet": "1",
+        "Weight": "Lightest in class"
+      },
+      "scores": {
+        "Compatibility": 4.0,
+        "Build quality": 4.5,
+        "USB ports": 3.5,
+        "Value": 4.5,
+        "Safety features": 3.0
+      }
+    },
+    {
+      "offerId": "bestek-travel-adapter",
+      "badge": "Best with Voltage Converter",
+      "review": "The only adapter in this comparison that solves the voltage converter problem without buying a separate unit — the built-in 220W step-down transformer lets you run a US-market 110V hair dryer in European 240V outlets. Heavier and bulkier than adapter-only options, and the intermittent-use rating means it is not designed for continuously powered appliances.",
+      "pros": ["Built-in 220W step-down voltage converter", "Covers A, C, G, I, and B plug types", "USB charging ports included"],
+      "cons": ["Heaviest and bulkiest in the comparison", "Intermittent-use rating — not for continuous draw"],
+      "grade": "B+",
+      "specs": {
+        "Plug types": "A, B, C, G, I",
+        "Voltage converter": "220W step-down (intermittent)",
+        "USB-A ports": "3",
+        "USB-C output": "None",
+        "Surge protection": "Yes (converter circuit)",
+        "AC outlet": "1",
+        "Max converter load": "220W"
+      },
+      "scores": {
+        "Compatibility": 4.0,
+        "Build quality": 4.0,
+        "USB ports": 3.8,
+        "Value": 4.0,
+        "Safety features": 4.5
+      }
+    },
+    {
+      "offerId": "satechi-travel-adapter",
+      "badge": "Best for Laptop Charging",
+      "review": "The 30W USB-C PD port is the highest wattage in this comparison and the only one adequate for overnight MacBook Air charging — a genuine differentiator for remote workers. The slim flat profile fits perfectly in a laptop bag side pocket. No Type D or M coverage rules it out for India and South Africa, and at the highest per-unit price here, you are paying for the USB-C PD port.",
+      "pros": ["30W USB-C PD — charges MacBook Air overnight", "Slim flat-profile design", "Premium build quality"],
+      "cons": ["No Type D/M — not suitable for India or South Africa"],
+      "grade": "B",
+      "specs": {
+        "Plug types": "A, C, G, I",
+        "USB-C PD output": "30W",
+        "USB-A port": "1",
+        "Surge protection": "None",
+        "AC outlet": "1",
+        "Form factor": "Slim flat profile",
+        "Price tier": "Premium"
+      },
+      "scores": {
+        "Compatibility": 3.8,
+        "Build quality": 5.0,
+        "USB ports": 4.0,
+        "Value": 3.5,
+        "Safety features": 3.0
+      }
+    },
+    {
+      "offerId": "aulola-travel-adapter",
+      "badge": "Best Budget / Backup",
+      "review": "Ultra-compact and under $16 — useful as a spare or for travellers who carry one device with its own USB charger. Covers the four main plug types in the smallest possible form factor. No USB ports, no surge protection, and build tolerances on the Type G (UK) pins can be loose on some units.",
+      "pros": ["Ultra-compact — fits any pocket", "Covers 4 main plug types", "Under $16"],
+      "cons": ["No USB ports — one device at a time via AC only", "No surge protection"],
+      "grade": "B-",
+      "specs": {
+        "Plug types": "A, C, G, I",
+        "USB ports": "None",
+        "Surge protection": "None",
+        "AC outlet": "1",
+        "Max load": "6A / 1500W",
+        "Form factor": "Ultra-compact",
+        "Price tier": "Budget"
+      },
+      "scores": {
+        "Compatibility": 3.5,
+        "Build quality": 3.0,
+        "USB ports": 1.0,
+        "Value": 5.0,
+        "Safety features": 2.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For frequent multi-country travellers",
+      "offerId": "epicka-universal-adapter",
+      "reason": "One adapter covers every destination with surge protection built in — no planning required."
+    },
+    {
+      "label": "For remote workers charging a MacBook",
+      "offerId": "satechi-travel-adapter",
+      "reason": "The 30W USB-C PD port is the only port in this comparison that actually charges a MacBook Air at a useful rate."
+    },
+    {
+      "label": "For travellers with 110V hair dryers or appliances",
+      "offerId": "bestek-travel-adapter",
+      "reason": "Built-in step-down converter is the only solution here for US-market 110V appliances abroad."
+    },
+    {
+      "label": "For minimalist single-region trips",
+      "offerId": "ceptics-world-travel-adapter",
+      "reason": "Carry only the plug head you need — lightest combination for a planned itinerary."
+    },
+    {
+      "label": "For a backup or one-device traveller",
+      "offerId": "aulola-travel-adapter",
+      "reason": "Smallest and cheapest adapter in the comparison — good as a spare or for one-device travel."
+    }
+  ]
 }

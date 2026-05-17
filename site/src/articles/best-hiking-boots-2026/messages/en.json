@@ -92,5 +92,62 @@
     "columbia-newton-ridge-plus-ii": "Most accessible entry price with genuine waterproofing and a fit that accommodates wide foot shapes. Omni-Grip sole and softer midsole limit performance on technical terrain and limit longevity to 600–800 km. Right choice for moderate trail hiking on a budget."
   },
   "pinDescription": "Hiking boots compared for 2026 — waterproof mid-cut options from $110 budget entry to $200 technical approach boots. Salomon vs Merrell vs Hoka vs La Sportiva vs Columbia: which sole, which waterproofing, and which fit is right for your trails.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each boot was scored on five trail-specific criteria: ankle and torsional support measured against the collar stiffness, waterproof membrane type and breathability trade-off, outsole lug pattern and traction on wet rock and mud, price per km of rated lifespan, and break-in distance from owner reports.",
+  "products": [
+    {
+      "offerId": "salomon-x-ultra-4-gtx",
+      "badge": "Best Overall",
+      "review": "The X Ultra 4 GTX is the cleanest all-rounder in this comparison — Gore-Tex Extended Comfort membrane, Contagrip MA outsole, and Advanced Chassis TPU underfoot for torsional stability without excess stiffness. Quick break-in (20–30 km) and a wide terrain capability make it the default pick for day hiking. The catch: the forefoot is narrow and wide-foot hikers should try before buying.",
+      "pros": ["Gore-Tex Extended Comfort balances waterproofing and breathability better than standard Gore-Tex", "Advanced Chassis TPU torsional stability without the stiffness of a mountaineering boot", "20–30 km break-in — shortest in this comparison"],
+      "cons": ["Narrow forefoot — wide-foot hikers should verify fit in person before purchasing"],
+      "grade": "A+",
+      "specs": {"Waterproofing": "Gore-Tex Extended Comfort", "Outsole": "Contagrip MA", "Midsole": "Advanced Chassis TPU", "Cut": "Mid", "Break-in": "20–30 km", "Weight (pair)": "~760g (M US9)", "Price": "$160"},
+      "scores": {"Support": 4.7, "Waterproofing": 4.8, "Traction": 4.7, "Value": 4.3, "Durability": 4.8}
+    },
+    {
+      "offerId": "merrell-moab-3-mid-wp",
+      "badge": "Best Value",
+      "review": "The Moab 3 Mid WP delivers Vibram TC5+ outsole performance — one of the better grip compounds for mixed wet rock and trail — at a price well below the Salomon or Hoka. M-Select DRY membrane is slightly less breathable than Gore-Tex EC but adequate for most trail conditions. The wide-width availability covers foot shapes Salomon's narrow last excludes, which is the single biggest practical differentiator.",
+      "pros": ["Vibram TC5+ outsole — superior wet-rock traction for the price tier", "Wide-width sizes available — covers foot shapes excluded by Salomon's narrow last", "Comfortable out-of-box fit — least break-in time of any boot in this comparison"],
+      "cons": ["M-Select DRY membrane slightly less breathable than Gore-Tex EC on long warm-weather hikes"],
+      "grade": "A",
+      "specs": {"Waterproofing": "M-Select DRY", "Outsole": "Vibram TC5+", "Width options": "D, W, XW", "Cut": "Mid", "Break-in": "10–20 km", "Weight (pair)": "~820g (M US9)", "Price": "$150"},
+      "scores": {"Support": 4.3, "Waterproofing": 4.5, "Traction": 4.6, "Value": 4.9, "Durability": 4.4}
+    },
+    {
+      "offerId": "hoka-anacapa-mid-gtx",
+      "badge": "Best for Comfort",
+      "review": "The Anacapa Mid GTX pairs Hoka's maximum cushion midsole with Vibram Megagrip outsole and Gore-Tex waterproofing — a configuration that prioritizes foot-fatigue reduction over responsiveness. Best suited to high-mileage days (15+ km), older hikers, or those with joint sensitivity. The elevated stack height creates initial instability that resolves after 3–5 adaptation hikes. Sizes run long — verify fit before ordering.",
+      "pros": ["Maximum cushion midsole — best foot-fatigue reduction in this comparison for high-mileage days", "Vibram Megagrip outsole — superior traction on wet rock and varied terrain", "Gore-Tex waterproofing with solid seam integrity reputation"],
+      "cons": ["Elevated stack creates initial instability — 3–5 adaptation hikes required; sizes run long"],
+      "grade": "B+",
+      "specs": {"Waterproofing": "Gore-Tex", "Outsole": "Vibram Megagrip", "Midsole": "Hoka max cushion", "Cut": "Mid", "Break-in": "30–50 km (adaptation)", "Weight (pair)": "~880g (M US9)", "Price": "$195"},
+      "scores": {"Support": 4.0, "Waterproofing": 4.7, "Traction": 4.8, "Value": 3.8, "Durability": 4.3}
+    },
+    {
+      "offerId": "la-sportiva-tx4-gtx",
+      "badge": "Best Technical",
+      "review": "The TX4 GTX is the only boot in this comparison designed for rock scrambling and approach climbing — the FriXion AT rubber rand allows rock-smearing contact and the Vibram Megagrip outsole handles vertical terrain that would defeat a conventional hiking sole. It requires the longest break-in (50–80 km) and its stiff, narrow fit is wrong for casual hikers. On technical terrain, it's genuinely superior to everything else in this list.",
+      "pros": ["FriXion AT climbing rubber rand — enables rock smearing and approach climbing capability", "Only boot in this comparison capable of technical terrain and via ferrata use", "Vibram Megagrip outsole handles vertical and friction-dependent terrain"],
+      "cons": ["Stiff, narrow last — longest break-in (50–80 km); wrong choice for casual trail hiking"],
+      "grade": "B",
+      "specs": {"Waterproofing": "Gore-Tex", "Outsole": "Vibram Megagrip", "Rand": "FriXion AT climbing rubber", "Cut": "Mid", "Break-in": "50–80 km", "Terrain": "Technical + approach", "Price": "$179"},
+      "scores": {"Support": 4.8, "Waterproofing": 4.6, "Traction": 5.0, "Value": 3.5, "Durability": 4.9}
+    },
+    {
+      "offerId": "columbia-newton-ridge-plus-ii",
+      "badge": "Best Budget",
+      "review": "The Newton Ridge Plus II is the entry point for waterproof hiking boots with genuine trail capability — Omni-Tech waterproofing, Omni-Grip outsole, and a generous fit that accommodates wide feet. Lifespan is shorter (600–800 km vs 1,000+ for Salomon and La Sportiva) and technical terrain performance is limited. For moderate trail hiking on a budget, nothing in this comparison matches its price-to-function ratio.",
+      "pros": ["Lowest price in this comparison — genuine waterproofing and trail grip at $100", "Generous fit accommodates wide feet without ordering a wide size", "Omni-Tech waterproofing performs adequately on moderate trail conditions"],
+      "cons": ["Lifespan 600–800 km — shorter than Salomon or La Sportiva; limited technical terrain performance"],
+      "grade": "B-",
+      "specs": {"Waterproofing": "Columbia Omni-Tech", "Outsole": "Omni-Grip", "Cut": "Mid", "Break-in": "15–25 km", "Lifespan": "600–800 km", "Fit": "Generous/wide-friendly", "Price": "$100"},
+      "scores": {"Support": 3.8, "Waterproofing": 4.2, "Traction": 3.8, "Value": 5.0, "Durability": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For day hikers wanting the best all-rounder", "offerId": "salomon-x-ultra-4-gtx", "reason": "Gore-Tex EC, Contagrip MA, and Advanced Chassis in one package with the shortest break-in in this comparison."},
+    {"label": "For high-mileage days and foot-fatigue reduction", "offerId": "hoka-anacapa-mid-gtx", "reason": "Maximum cushion midsole plus Vibram Megagrip is the most effective fatigue-reduction combination for 15+ km days."},
+    {"label": "For technical terrain and rock scrambling", "offerId": "la-sportiva-tx4-gtx", "reason": "FriXion AT rand and Megagrip enable approach climbing capability that no other boot in this comparison can match."}
+  ]
 }

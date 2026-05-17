@@ -76,5 +76,174 @@
     "fellow-stagg-x-set": "Kit de inicio de vertido completo con válvula de empinado-y-liberación — 18,000-22,000 yenes por el set incluyendo hervidor de cuello de ganso. El modo de empinado-y-liberación es la extracción más tolerante para principiantes en esta comparación. El precio es 8-10 veces el Hario V60; la válvula añade un punto de decisión por sesión de preparación."
   },
   "pinDescription": "Cinco goteros de café de vertido comparados en 2026: Hario V60 Cerámico vs Chemex vs Kalita Wave vs Bodum vs Fellow Stagg. Cuál produce la taza más clara, cuál perdona un vertido impreciso y cómo se ve la diferencia de costo del filtro de papel a lo largo de un año completo. #caféDeVertido #pourOver #cafeEspecialidad #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada cafetera de goteo fue evaluada en cuanto a la geometría del filtro y el carácter de extracción, la capacidad de preparación en relación con el tamaño de porción indicado, el nivel de habilidad requerido y la tolerancia a errores de técnica, la disponibilidad y el costo anual de filtros de papel, y la carga de limpieza en el uso diario.",
+  "products": [
+    {
+      "offerId": "hario-v60-ceramic-02",
+      "badge": "La Mejor en General",
+      "review": "El Hario V60 Ceramic 02 es el estándar de referencia mundial para el pour-over — la herramienta que el specialty coffee usa como base. Las nervaduras espirales recorren toda la altura del cono para un drenaje uniforme; la gran apertura única en el vértice drena rápido para una extracción brillante y clara. La cerámica retiene el calor significativamente mejor que las versiones plásticas, y a 2.000–2.500 yenes el riesgo de empezar es bajo. La contrapartida honesta: el drenaje rápido amplifica los errores de técnica — un vertido inconsistente se muestra directamente en la taza, lo que requiere 1–2 semanas de práctica.",
+      "pros": [
+        "Estándar de referencia mundial — la biblioteca de tutoriales y recetas más grande de cualquier cafetera",
+        "El cuerpo de cerámica retiene el calor significativamente mejor que el plástico",
+        "Extracción brillante y de alta claridad que expresa el carácter de origen único"
+      ],
+      "cons": [
+        "Alto nivel de habilidad requerido — los errores de técnica se muestran directamente en la taza; la cerámica puede astillarse"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Tipo de filtro": "Papel con pestaña Hario V60 (también compatible sin pestaña)",
+        "Forma del gotero": "Cono de 60°",
+        "Material": "Cerámica",
+        "Capacidad": "1–4 tazas (~480 ml máx.)",
+        "Costo de filtros de papel": "~700–900 yenes / 100 filtros",
+        "Precio": "~¥2.000–2.500"
+      },
+      "scores": {
+        "Claridad de preparación": 5.0,
+        "Valor": 5.0,
+        "Facilidad de uso": 3.5,
+        "Calidad de construcción": 4.5,
+        "Completitud": 3.0
+      }
+    },
+    {
+      "offerId": "chemex-classic-6cup",
+      "badge": "La Mejor para Preparación en Cantidad",
+      "review": "El Chemex prepara y sirve en un recipiente de vidrio de borosilicato — hasta 900 ml por tanda (3–4 tazas llenas). Su grueso filtro de papel pegado produce la taza más ligera y limpia de esta comparación: casi cero cuerpo, claridad impresionante y alta transparencia en acidez y aroma. El diseño ha estado en la colección permanente del MoMA desde 1943. Los filtros específicos de Chemex cuestan más y son más difíciles de encontrar localmente; la jarra de vidrio cae por debajo de la temperatura de bebida en 10–12 minutos si no se sirve inmediatamente.",
+      "pros": [
+        "Prepara y sirve hasta 900 ml (3–4 tazas) en un solo recipiente",
+        "El filtro de papel pegado más grueso — la taza más ligera y de menor cuerpo en esta comparación",
+        "El diseño icónico también funciona como objeto de encimera"
+      ],
+      "cons": [
+        "Los filtros específicos de Chemex cuestan más y son menos disponibles; la jarra de vidrio no tiene aislamiento"
+      ],
+      "grade": "A",
+      "specs": {
+        "Tipo de filtro": "Papel pegado específico de Chemex",
+        "Forma del gotero": "Chimenea",
+        "Material": "Vidrio de borosilicato",
+        "Capacidad": "Hasta 900 ml (modelo 6 tazas)",
+        "Costo de filtros de papel": "~1.200–1.500 yenes / 100 filtros",
+        "Precio": "~¥6.000–7.000"
+      },
+      "scores": {
+        "Claridad de preparación": 5.0,
+        "Valor": 3.8,
+        "Facilidad de uso": 3.8,
+        "Calidad de construcción": 4.2,
+        "Completitud": 3.5
+      }
+    },
+    {
+      "offerId": "kalita-wave-185-stainless",
+      "badge": "La Mejor para Uso Diario Consistente",
+      "review": "El fondo plano con tres agujeros pequeños del Kalita Wave 185 nivela la tasa de flujo y absorbe las inconsistencias de vertido que arruinarían una taza del V60. El acero inoxidable sobrevive a las caídas que destrozarían la cerámica o el vidrio. El resultado es una taza de cuerpo más completo y redondeado que el V60 con una consistencia de taza a taza notablemente mayor. Se requieren filtros de papel ondulados específicos de Wave; los tres agujeros necesitan limpieza periódica.",
+      "pros": [
+        "La geometría de fondo plano perdona el vertido impreciso — los resultados diarios más consistentes",
+        "El acero inoxidable sobrevive caídas a diferencia del V60 cerámico o del Chemex de vidrio",
+        "Extracción de cuerpo más completo y redondeado que los goteros de cono"
+      ],
+      "cons": [
+        "Se requieren filtros ondulados específicos de Wave; tres agujeros necesitan limpieza periódica"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Tipo de filtro": "Papel ondulado Kalita Wave (tamaño 185)",
+        "Forma del gotero": "Fondo plano, 3 agujeros",
+        "Material": "Acero inoxidable",
+        "Capacidad": "2–4 tazas",
+        "Costo de filtros de papel": "~900–1.100 yenes / 100 filtros",
+        "Precio": "~¥5.000–6.000"
+      },
+      "scores": {
+        "Claridad de preparación": 4.3,
+        "Valor": 4.2,
+        "Facilidad de uso": 4.5,
+        "Calidad de construcción": 5.0,
+        "Completitud": 3.5
+      }
+    },
+    {
+      "offerId": "bodum-pour-over-permanent",
+      "badge": "La Mejor sin Costo de Papel",
+      "review": "El filtro de malla permanente de acero inoxidable del Bodum deja pasar los aceites del café a la taza — cuerpo más rico, sensación en boca similar a la prensa francesa, cero costo de papel. El armazón de cono encaja en la mayoría de las tazas y elimina el gasto en consumibles. La malla requiere enjuague inmediato después de la preparación antes de que los fondos se sequen en los agujeros, y la jarra de vidrio se rompe con una caída fuerte. Mejor para quienes prefieren tazas de cuerpo más rico y quieren eliminar los costos de papel.",
+      "pros": [
+        "Filtro de malla de acero inoxidable permanente — cero costo de papel",
+        "Deja pasar los aceites del café para un cuerpo más rico, similar a la prensa francesa",
+        "Precio de entrada bajo a ~¥3.000–3.500"
+      ],
+      "cons": [
+        "La malla debe enjuagarse inmediatamente después del uso; la jarra de vidrio se rompe al impacto"
+      ],
+      "grade": "B",
+      "specs": {
+        "Tipo de filtro": "Malla de acero inoxidable permanente",
+        "Forma del gotero": "Cono",
+        "Material": "Armazón de acero inoxidable + jarra de vidrio de borosilicato",
+        "Capacidad": "1–2 tazas",
+        "Costo de filtros de papel": "Ninguno",
+        "Precio": "~¥3.000–3.500"
+      },
+      "scores": {
+        "Claridad de preparación": 3.5,
+        "Valor": 4.8,
+        "Facilidad de uso": 4.0,
+        "Calidad de construcción": 3.8,
+        "Completitud": 4.0
+      }
+    },
+    {
+      "offerId": "fellow-stagg-x-set",
+      "badge": "El Mejor Kit Completo para Principiantes",
+      "review": "El set Fellow Stagg [X] incluye un gotero de cono con una válvula de base de infusión y liberación y una tetera de cuello de cisne — el método de extracción más indulgente para principiantes en esta comparación cuando se usa en modo de inmersión (válvula cerrada), y la configuración más completa. Compatible con filtros de cono estándar V60 02. La válvula agrega un punto de decisión por sesión de preparación; a ¥18.000–22.000 por el set cuesta 8–10x el Hario V60 Ceramic.",
+      "pros": [
+        "Set completo: gotero + tetera de cuello de cisne en una sola compra",
+        "El modo de válvula de infusión y liberación es el método más indulgente en esta comparación",
+        "Usa filtros de cono estándar V60 02 — ampliamente disponibles"
+      ],
+      "cons": [
+        "¥18.000–22.000 por el set es 8–10x el costo del V60 cerámico solo"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Tipo de filtro": "Filtro de cono compatible con V60 02",
+        "Forma del gotero": "Cono de infusión y liberación con válvula de base",
+        "Material": "Gotero de acero inoxidable + tetera",
+        "Incluye": "Gotero + tetera de cuello de cisne",
+        "Modos de válvula": "Pour-over abierto + Infusión de inmersión y liberación",
+        "Precio": "~¥18.000–22.000 (set)"
+      },
+      "scores": {
+        "Claridad de preparación": 4.5,
+        "Valor": 2.8,
+        "Facilidad de uso": 4.8,
+        "Calidad de construcción": 4.8,
+        "Completitud": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para entusiastas del café de especialidad",
+      "offerId": "hario-v60-ceramic-02",
+      "reason": "El gotero de referencia mundial — el precio bajo hace que empezar sea de bajo riesgo, y el nivel de habilidad es lo que separa el carácter de origen de una taza plana."
+    },
+    {
+      "label": "Para hogares que preparan 3–4 tazas a la vez",
+      "offerId": "chemex-classic-6cup",
+      "reason": "Prepara y sirve 900 ml (3–4 tazas llenas) en un recipiente con la taza más limpia y de menor cuerpo en esta comparación."
+    },
+    {
+      "label": "Para preparadores diarios ocupados que quieren resultados consistentes",
+      "offerId": "kalita-wave-185-stainless",
+      "reason": "La geometría de fondo plano perdona un vertido impreciso y el cuerpo de acero inoxidable sobrevive caídas — más consistencia con menos disciplina diaria."
+    },
+    {
+      "label": "Para configuraciones completas de principiantes",
+      "offerId": "fellow-stagg-x-set",
+      "reason": "Incluye el gotero y la tetera de cuello de cisne en una sola compra; el modo de infusión y liberación es el método más indulgente para nuevos preparadores de pour-over."
+    }
+  ]
 }

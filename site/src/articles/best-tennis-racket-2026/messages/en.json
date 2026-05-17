@@ -58,5 +58,64 @@
     "wilson-blade-98-v8": "98 sq in, 304g, 21.5mm beam, 16x19. $220-250. Best accessible control racket — less demanding than Pro Staff, Swiatek association. Correct for club players who want Pro Staff-style precision with more forgiveness."
   },
   "pinDescription": "Tennis racket 2026: Wilson Pro Staff vs Babolat Pure Aero vs Head Speed vs Yonex EZONE — head size, weight, string pattern explained, what racket specs actually mean, why pro rackets are wrong for beginners, and best tennis racket for recreational players 2026.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each racket was evaluated on published frame specifications (head size, strung weight, beam width, string pattern) cross-referenced against documented playing characteristics, pro-player association, and realistic suitability for recreational to advanced club players — with explicit notes on skill-level demands and common buyer mismatches.",
+  "products": [
+    {
+      "offerId": "wilson-pro-staff-97-v14",
+      "badge": "Best Overall",
+      "review": "The Pro Staff 97 v14 is the gold standard for control — Federer's frame delivers unparalleled placement precision for advanced players who hit consistently in the center of the string bed. The 97 sq in head and 315 g strung weight demand full-swing, compact technique; mishits go nowhere useful, making it the wrong pick for beginners or players still developing consistency.",
+      "pros": ["Exceptional placement precision for advanced players", "21 mm thin beam gives unparalleled control feedback", "Iconic frame trusted at the pro level for decades"],
+      "cons": ["97 sq in small sweet spot demands consistent technique — punishing on mishits"],
+      "grade": "A+",
+      "specs": {"Head size": "97 sq in", "Weight (strung)": "315 g", "Beam width": "21 mm", "String pattern": "16×19", "Balance": "Head-light", "Price": "$279"},
+      "scores": {"Power": 3.5, "Control": 5.0, "Swing weight": 4.5, "Value": 4.0, "Vibration dampening": 3.5}
+    },
+    {
+      "offerId": "babolat-pure-aero-2023",
+      "badge": "Best for Topspin",
+      "review": "The Pure Aero 2023 is built for one style of play: heavy topspin baseline rallies. The aerodynamic 23–26 mm beam and 16×19 open string pattern let you swing fast and generate spin that pulls shots reliably in-court — Nadal's weapon of choice in updated form. The lighter 300 g frame rewards explosive players but offers less control feedback than the Pro Staff for precise flat placement.",
+      "pros": ["Aerodynamic frame optimized for heavy topspin generation", "100 sq in head is forgiving enough for intermediate players", "16×19 open pattern bites the ball for maximum spin"],
+      "cons": ["Less control feedback than narrower-beam alternatives for flat hitters"],
+      "grade": "A",
+      "specs": {"Head size": "100 sq in", "Weight (strung)": "300 g", "Beam width": "23–26 mm (aerodynamic)", "String pattern": "16×19", "Balance": "Head-light", "Price": "$289"},
+      "scores": {"Power": 4.5, "Control": 4.0, "Swing weight": 4.2, "Value": 4.0, "Vibration dampening": 3.8}
+    },
+    {
+      "offerId": "head-speed-mp",
+      "badge": "Best All-Round",
+      "review": "The Head Speed MP is Djokovic's frame in accessible form — the 100 sq in head and Graphene 360+ technology balance power and stability for players who want versatility across serve, groundstrokes, and net play. Neither purely control-focused nor power-focused, it suits the widest range of intermediate and advanced club players.",
+      "pros": ["Versatile power-control balance suits multiple playing styles", "Graphene 360+ provides excellent stability on off-center hits", "100 sq in sweet spot forgives minor mishits at club level"],
+      "cons": ["Not optimized for either pure control or maximum topspin — specialists will prefer the Pro Staff or Pure Aero"],
+      "grade": "B+",
+      "specs": {"Head size": "100 sq in", "Weight (strung)": "300 g", "Beam width": "23 mm", "String pattern": "16×19", "Balance": "Even", "Price": "$299"},
+      "scores": {"Power": 4.2, "Control": 4.2, "Swing weight": 4.0, "Value": 4.1, "Vibration dampening": 4.0}
+    },
+    {
+      "offerId": "yonex-ezone-98",
+      "badge": "Best Arm-Friendly",
+      "review": "The EZONE 98's Vibration Dampening Mesh in the throat reduces impact shock significantly — the top recommendation for players managing tennis elbow or arm sensitivity who still want a 98 sq in control-oriented frame. The feel is more solid and less crisp than the Pro Staff, trading some control feedback for more forgiving, arm-safe contact.",
+      "pros": ["Vibration Dampening Mesh reduces impact shock for arm-sensitive players", "98 sq in head gives control-oriented precision with room for mishits", "23.5 mm beam adds power without sacrificing stability"],
+      "cons": ["Less crisp control feedback than Wilson Pro Staff for players chasing maximum precision"],
+      "grade": "B",
+      "specs": {"Head size": "98 sq in", "Weight (strung)": "305 g", "Beam width": "23.5 mm", "String pattern": "16×19", "Technology": "Vibration Dampening Mesh", "Price": "$305"},
+      "scores": {"Power": 4.0, "Control": 4.3, "Swing weight": 4.0, "Value": 3.9, "Vibration dampening": 5.0}
+    },
+    {
+      "offerId": "wilson-blade-98-v8",
+      "badge": "Best Accessible Control",
+      "review": "The Blade 98 v8 offers Pro Staff-style control character with a slightly more forgiving sweet spot — the right entry point for club players who aspire to precise ball placement without the full demands of the Pro Staff's smaller head and heavier profile. Swiatek's association underscores its relevance at elite level in a more accessible package.",
+      "pros": ["More forgiving than Pro Staff while maintaining a control-oriented character", "21.5 mm beam provides good feedback without being overly stiff", "304 g strung weight manageable for a broad range of club players"],
+      "cons": ["Less control precision than the Pro Staff for advanced players who want the absolute maximum"],
+      "grade": "B-",
+      "specs": {"Head size": "98 sq in", "Weight (strung)": "304 g", "Beam width": "21.5 mm", "String pattern": "16×19", "Balance": "Head-light", "Price": "$249"},
+      "scores": {"Power": 3.8, "Control": 4.6, "Swing weight": 4.1, "Value": 4.4, "Vibration dampening": 3.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For advanced control players", "offerId": "wilson-pro-staff-97-v14", "reason": "If your technique is consistent and you want the maximum placement precision available, the Pro Staff 97 v14 is the frame."},
+    {"label": "For heavy topspin baseliners", "offerId": "babolat-pure-aero-2023", "reason": "The aerodynamic beam and open string pattern are engineered specifically to swing fast and generate heavy topspin on every groundstroke."},
+    {"label": "For all-round club players", "offerId": "head-speed-mp", "reason": "The Speed MP covers serve, groundstrokes, and net play without committing to a spin-heavy or control-heavy extreme."},
+    {"label": "For players with arm sensitivity", "offerId": "yonex-ezone-98", "reason": "The Vibration Dampening Mesh is the most effective shock-reduction technology in this comparison for players managing tennis elbow."},
+    {"label": "For players stepping up from beginner rackets", "offerId": "wilson-blade-98-v8", "reason": "The Blade 98 rewards improving technique with control-oriented feedback without the unforgiving demands of the Pro Staff."}
+  ]
 }

@@ -105,5 +105,182 @@
     "ikea-markus": "IKEA Markus a circa ¥25.000 con regolazione dell'altezza, supporto lombare fisso incorporato, braccioli regolabili in altezza e garanzia IKEA di 10 anni contro i difetti di fabbricazione. Disponibile negli store IKEA Japan con gestione degli accessi immediati e dei resi. Il contorno lombare fisso funziona bene quando corrisponde alla tua geometria spinale. Il lombare fisso significa che il supporto e corretto per la tua colonna o non lo e — non esiste un percorso di regolazione se manca; la compressione della schiuma del sedile con un uso intenso a lungo termine e la limitazione piu frequentemente segnalata nelle recensioni giapponesi; i braccioli sono fissi in posizione (la regolazione del bracciolo e solo in altezza, non in larghezza o perno); questa e una sedia ragionevole per 2-4 ore di uso quotidiano ma non e la scelta corretta per chiunque abbia problemi di schiena esistenti o lavori 7+ ore al giorno."
   },
   "pinDescription": "5 sedie da ufficio a confronto nel 2026 — Herman Miller Aeron a IKEA Markus. Rete vs schiuma per 8 ore. PostureFit vs LiveBack vs lombare fisso — cosa significa davvero la differenza del meccanismo. Divario di prezzo da ¥25.000 a ¥200.000 analizzato onestamente. Realta dell'approvvigionamento sul mercato giapponese. Nessuna prova clinica del dolore lombare condotta. #italia",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Ogni sedia è stata valutata sul design del meccanismo lombare, durabilità a lungo termine, gamma di regolazione per le proporzioni corporee giapponesi, profondità della garanzia e disponibilità nel mercato giapponese.",
+  "products": [
+    {
+      "offerId": "herman-miller-aeron",
+      "badge": "Migliore in assoluto",
+      "review": "La rete Pellicle 8Z e il sistema PostureFit SL a doppio punto offrono la combinazione di supporto ergonomico più documentata nel segmento premium. Il vincolo principale: la taglia corretta (A/B/C) va testata prima dell'acquisto e il prezzo di ~¥200.000 si giustifica solo con uso intensivo WFH a lungo termine.",
+      "pros": [
+        "Rete Pellicle 8 zone dissipa il calore nelle estati umide",
+        "PostureFit SL regola sacro e lombare indipendentemente",
+        "Garanzia 12 anni Herman Miller Giappone"
+      ],
+      "cons": [
+        "La taglia sbagliata vanifica tutti i benefici ergonomici"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Taglie": "A / B / C",
+        "Schienale": "Rete Pellicle 8Z",
+        "Supporto lombare": "PostureFit SL doppio punto",
+        "Braccioli": "4D",
+        "Garanzia": "12 anni",
+        "Carico max.": "~136 kg (taglia C)",
+        "Prezzo (JP)": "~¥200.000"
+      },
+      "scores": {
+        "Supporto lombare": 5.0,
+        "Comodità": 4.8,
+        "Qualità costruttiva": 5.0,
+        "Rapporto qualità-prezzo": 3.5,
+        "Regolabilità": 4.9
+      }
+    },
+    {
+      "offerId": "steelcase-leap-v2",
+      "badge": "Migliore per chi si muove spesso",
+      "review": "Il meccanismo LiveBack segue il movimento della colonna vertebrale in tempo reale e il sedile a scorrimento naturale mantiene la geometria anca-lombare durante l'inclinazione. Vantaggio reale per chi cambia postura costantemente; gli utenti statici che bloccano lo schienale ne traggono meno beneficio.",
+      "pros": [
+        "LiveBack segue il movimento vertebrale naturale",
+        "Scorrimento naturale mantiene geometria anca durante inclinazione",
+        "Garanzia 12 anni Steelcase Giappone"
+      ],
+      "cons": [
+        "Vantaggio LiveBack perso per chi siede in modo rigido"
+      ],
+      "grade": "A",
+      "specs": {
+        "Meccanismo schienale": "LiveBack colonna flessibile",
+        "Sedile": "Sistema scorrimento naturale",
+        "Braccioli": "4D",
+        "Garanzia": "12 anni",
+        "Rivestimento": "Tessuto / Pelle",
+        "Prezzo (US)": "$1.376",
+        "Disponibilità Giappone": "Rivenditori premium / aziende"
+      },
+      "scores": {
+        "Supporto lombare": 4.8,
+        "Comodità": 4.9,
+        "Qualità costruttiva": 4.9,
+        "Rapporto qualità-prezzo": 3.6,
+        "Regolabilità": 5.0
+      }
+    },
+    {
+      "offerId": "okamura-contessa-seconda",
+      "badge": "Migliore per il mercato giapponese",
+      "review": "Progettata attorno alle proporzioni corporee giapponesi con la rete di assistenza nazionale Okamura. Il meccanismo dello schienale è regolabile ma meno dinamico del LiveBack Steelcase — il punto di forza è l'adattamento al mercato giapponese.",
+      "pros": [
+        "Progettata per proporzioni corporee giapponesi",
+        "Rete di assistenza nazionale più ampia",
+        "Taglie standard e grande disponibili"
+      ],
+      "cons": [
+        "Meccanismo schienale meno dinamico del Steelcase LiveBack"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Taglie": "Standard / Grande",
+        "Schienale": "Rete",
+        "Produttore": "Okamura (Giappone)",
+        "Garanzia": "5 anni struttura / 2 anni rivestimento",
+        "Prezzo (JP)": "~¥100.000",
+        "Rete assistenza": "Nazionale Giappone",
+        "Target": "Proporzioni giapponesi"
+      },
+      "scores": {
+        "Supporto lombare": 4.5,
+        "Comodità": 4.6,
+        "Qualità costruttiva": 4.7,
+        "Rapporto qualità-prezzo": 4.2,
+        "Regolabilità": 4.3
+      }
+    },
+    {
+      "offerId": "flexispot-ej2-ergonomic",
+      "badge": "Miglior ergonomico economico",
+      "review": "A ~¥30.000 con supporto lombare regolabile in altezza, reclinazione e consegna Prime, è la raccomandazione onesta nel segmento economico. Il lombare è un cuscino, non un meccanismo strutturale, e la compressione della schiuma si manifesta dopo 12–24 mesi di uso intensivo.",
+      "pros": [
+        "Cuscino lombare regolabile in altezza a prezzo contenuto",
+        "Disponibile via Amazon Giappone Prime",
+        "Reclinazione per variazione posturale"
+      ],
+      "cons": [
+        "Compressione schiuma dopo 12–24 mesi di uso intensivo"
+      ],
+      "grade": "B",
+      "specs": {
+        "Seduta": "Schiuma",
+        "Lombare": "Cuscino regolabile in altezza",
+        "Garanzia": "3 anni",
+        "Prezzo (JP)": "~¥30.000",
+        "Disponibilità": "Amazon Giappone Prime",
+        "Supporto": "Solo email"
+      },
+      "scores": {
+        "Supporto lombare": 3.5,
+        "Comodità": 3.8,
+        "Qualità costruttiva": 3.4,
+        "Rapporto qualità-prezzo": 4.5,
+        "Regolabilità": 3.6
+      }
+    },
+    {
+      "offerId": "ikea-markus",
+      "badge": "Migliore entry level",
+      "review": "Il supporto lombare fisso del Markus si adatta o meno alla tua colonna — senza possibilità di regolazione. A ~¥25.000 con garanzia IKEA 10 anni e disponibilità nei negozi giapponesi, è ragionevole per 2–4 h al giorno ma non adatto per 7+ ore o problemi lombari preesistenti.",
+      "pros": [
+        "Disponibile nei negozi IKEA Giappone con resi facili",
+        "Garanzia IKEA 10 anni contro difetti di fabbricazione",
+        "Punto d'ingresso più accessibile"
+      ],
+      "cons": [
+        "Supporto lombare fisso — nessun ajustamento se non si adatta alla schiena"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Seduta": "Schiuma (poliuretano)",
+        "Lombare": "Contorno fisso integrato",
+        "Garanzia": "10 anni (difetti fabbricazione)",
+        "Prezzo (JP)": "~¥25.000",
+        "Colori": "Nero / Beige-grigio",
+        "Braccioli": "Solo regolazione altezza"
+      },
+      "scores": {
+        "Supporto lombare": 3.0,
+        "Comodità": 3.5,
+        "Qualità costruttiva": 3.2,
+        "Rapporto qualità-prezzo": 4.6,
+        "Regolabilità": 2.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per chi lavora da casa tutto il giorno (7h+)",
+      "offerId": "herman-miller-aeron",
+      "reason": "PostureFit SL e Pellicle 8Z offrono il supporto più documentato per il lavoro seduto prolungato."
+    },
+    {
+      "label": "Per chi cambia postura frequentemente",
+      "offerId": "steelcase-leap-v2",
+      "reason": "LiveBack segue i movimenti della colonna in tempo reale."
+    },
+    {
+      "label": "Per chi preferisce marchi giapponesi",
+      "offerId": "okamura-contessa-seconda",
+      "reason": "Rete assistenza Okamura nazionale e design adattato alle proporzioni giapponesi."
+    },
+    {
+      "label": "Per chi lavora da casa con budget limitato",
+      "offerId": "flexispot-ej2-ergonomic",
+      "reason": "Lombare regolabile e reclinazione a ~¥30.000 via Amazon Prime."
+    },
+    {
+      "label": "Per utenti occasionali che vogliono semplicità",
+      "offerId": "ikea-markus",
+      "reason": "Disponibile nei negozi IKEA Giappone con garanzia 10 anni e resi facili."
+    }
+  ]
 }

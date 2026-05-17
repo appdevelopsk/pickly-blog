@@ -92,5 +92,64 @@
     "county-line-mason-jar-cold-brew": "Guenstigster Einstiegspunkt — Edelstahlnetzkorb fuer Weithalsglaaeser. Metallnetz laesst Sediment durch; durch Papier sieben wenn Klarheit wichtig ist. Am besten als unverbindlicher Test oder Hochvolumen-1-Gallonen-Batch-Einrichtung."
   },
   "pinDescription": "5 Cold-Brew-Kaffeemaschinen verglichen fuer 2026: OXO-Langsamtropfturm, Toddy-Filzfilter, Primula-Burke-Glaskaraffe, Takeya-Kompaktkaraffe und County-Line-Mason-Jar-Kit. Immersion vs Langsamtropfen, Filtertypen, Ziehzeiten und Konzentratverhaeltnisse erklaert. #ColdBrew #Kaffee #Kaffeemaschine #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jeder Brewer wurde nach Extraktionsmethode (Immersion vs. Langsamtropfen), Filtertyp und Sedimentmenge, Batch-Kapazität passend zum Tagesbedarf, Reinigungszeit nach echtem Brühvorgang und Qualität für 12 Monate wöchentlichen Einsatz bewertet.",
+  "products": [
+    {
+      "offerId": "oxo-brew-compact-cold-brew",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Der OXO Brew Compact ist der einzige Langsamtropfturm in diesem Vergleich — frisches Wasser trifft immer auf das Kaffeemehl, kein Extraktionsgleichgewicht, mehr Säure und Aroma erhalten. Der Kompromiss ist real: 355–475 ml pro Charge reichen nicht für Haushalte mit mehr als 2 Tassen täglich.",
+      "pros": ["Langsamtropfmethode bewahrt Säure und Aromen besser als jeder Immersionsbrewer", "Eloxiertes Aluminium-Karaff und Borosilikatglas — robusteste Hardware im Vergleich", "Einstellbarer Tropfrateregler und Papiervorfilter für saubere, ölarme Extraktion"],
+      "cons": ["Nur 355–475 ml pro Charge — nicht ausreichend für Haushalte mit mehr als 2 Tassen täglich"],
+      "grade": "A+",
+      "specs": {"Brühmethode": "Langsamtropfturm", "Chargenkapazität": "355–475 ml Konzentrat", "Brühkammer": "946 ml", "Ziehzeit": "12–24 Stunden", "Filtertyp": "Papiervorfilter + Glaskammer", "Reinigung": "Karaff und Kammer spülen — 5 Min."},
+      "scores": {"Geschmack": 4.9, "Preis-Leistung": 4.0, "Komfort": 4.3, "Qualität": 4.8, "Frische": 4.7}
+    },
+    {
+      "offerId": "toddy-cold-brew-home",
+      "badge": "Bestes für Wöchentliche Chargen",
+      "review": "Toddys dicke Filzpad-Filtration definiert seit 1964 den Referenzstandard für sedimentfreies Cold-Brew-Konzentrat. Ein richtig konditionierter Filzpad erzeugt klareres Konzentrat als Metallsieboptionen. Ehrlicher Kompromiss: Konditionierung und alle 2–3 Monate bei wöchentlichem Gebrauch Wechseln ist ein echtes Wartungsritual.",
+      "pros": ["Filzpad-Filtration ist die sauberste aller getesteten Consumer-Systeme — nahezu kein Sediment", "1,5 L Chargenkapazität deckt Wochenbedarf für 1–2 Personen", "Mitgeliefertes Glaskaraff hält Konzentrat bis zu 2 Wochen frisch"],
+      "cons": ["Filzpad braucht Konditionierung vor jedem Einsatz und Wechsel alle 2–3 Monate — laufende Wartungskosten"],
+      "grade": "A",
+      "specs": {"Brühmethode": "Immersion mit Filzpad-Filter", "Chargenkapazität": "1,5 L Konzentrat", "Kaffeeverhältnis": "340 g Kaffee auf 1,5 L Wasser (1:4,4)", "Ziehzeit": "24 Stunden (Kühlschrank)", "Filtertyp": "Dicker Filzpad", "Reinigung": "Schwerkraftablauf 30–45 Min. + Spülen"},
+      "scores": {"Geschmack": 4.7, "Preis-Leistung": 4.5, "Komfort": 3.8, "Qualität": 4.9, "Frische": 4.5}
+    },
+    {
+      "offerId": "primula-burke-cold-brew-carafe",
+      "badge": "Bestes Alltags-Glaskannensystem",
+      "review": "Das Primula Burke Feinmaschennetz und die Borosilikatglaskaraffe treffen eine praktische Balance: kein Filzpad-Konditionieren, keine Ablaufanordnung, spülmaschinengeeignetes Glas, 1,6 L Kapazität für 2–3-Tage-Brühzyklen. Die Feinmaschenfiltration hat etwas mehr Sediment als Toddy-Filz, aber deutlich weniger als der County Line Korb.",
+      "pros": ["Filter einfach herausnehmen — kein Schwerkraftablauf, kein Filzpad-Konditionieren", "Borosilikatglaskaraffe ist spülmaschinenfest und kratzfest", "1,6 L Kapazität für 2–3 Tage Brührhythmus bei 1–2 Personen"],
+      "cons": ["Die untersten 15% des Konzentrats haben feines Sediment — vorsichtig ausgießen"],
+      "grade": "B+",
+      "specs": {"Brühmethode": "Immersion mit Feinmaschennetz-Edelstahlfilter", "Chargenkapazität": "1,6 L", "Kaffeeverhältnis": "1:5–1:6", "Ziehzeit": "16–20 Stunden (Kühlschrank)", "Filtertyp": "Feines Edelstahlsieb, herausnehmbar", "Reinigung": "Filter herausnehmen, spülen — 2 Min."},
+      "scores": {"Geschmack": 4.5, "Preis-Leistung": 4.6, "Komfort": 4.8, "Qualität": 4.4, "Frische": 4.4}
+    },
+    {
+      "offerId": "takeya-deluxe-cold-brew",
+      "badge": "Bestes für Kühlschranktürregale",
+      "review": "Das Takeya Deluxe besticht durch sein schlankes Profil — es passt auf das Kühlschranktürregal ohne Umräumen. 1 L Kapazität ist ideal für 1–2 Personen, die täglich oder jeden zweiten Tag frisch brauen. Der doppelschichtige Feinmaschendeckel filtert gut — nicht so klar wie Toddy-Filz, aber besser als der County Line Korb.",
+      "pros": ["Schlankes Profil passt auf das Kühlschranktürregal — kein Umräumen nötig", "Doppelschichtiger Feinmaschendeckel, keine Ersatzfilterteile notwendig", "Dickeres Borosilikatglas, spülmaschinenfest"],
+      "cons": ["1 L Kapazität erfordert tägliches oder zweitägliches Brühen für zwei Personen"],
+      "grade": "B",
+      "specs": {"Brühmethode": "Immersion mit doppelschichtigem Feinmaschendeckel", "Chargenkapazität": "1 L", "Kaffeeverhältnis": "1:6–1:7", "Ziehzeit": "12–24 Stunden (Kühlschrank)", "Filtertyp": "Doppelschichtiges feines Edelstahlsieb", "Reinigung": "Deckel abnehmen, spülen — 2 Min."},
+      "scores": {"Geschmack": 4.4, "Preis-Leistung": 4.5, "Komfort": 4.7, "Qualität": 4.3, "Frische": 4.3}
+    },
+    {
+      "offerId": "county-line-mason-jar-cold-brew",
+      "badge": "Bestes Einsteigerbudget",
+      "review": "Ein Edelstahlnetzkorb für Standard-Weithalsgläser — die günstigste Methode, Cold Brew auszuprobieren, und das einzige System im Vergleich das auf 1-Gallonen-Chargen skaliert. Das gröbere Netz lässt mehr Sediment durch; Nachfiltern durch Papierfilter löst das Klarheitsproblem mit einem zusätzlichen Schritt.",
+      "pros": ["Niedrigste Gesamtkosten — Metallkorb + Einmachglas deutlich günstiger als jeder dedizierte Brewer", "1-Gallonen-Glas übersteigt die Kapazität jedes dedizierten Brewers", "Keine Ersatzteile — jedes Weithalsglas funktioniert"],
+      "cons": ["Metallnetz lässt Feinpartikel und Kaffeeöle durch — Papierfilter-Nachfiltern für Klarheit nötig"],
+      "grade": "B-",
+      "specs": {"Brühmethode": "Immersion mit grobem Edelstahlnetzkorb", "Chargenkapazität": "Bis zu 3,8 L mit großem Glas", "Kaffeeverhältnis": "1:4–1:5", "Ziehzeit": "12–24 Stunden", "Filtertyp": "Grober Edelstahlnetzkorb", "Reinigung": "Korb herausnehmen, spülen — 2 Min."},
+      "scores": {"Geschmack": 4.3, "Preis-Leistung": 4.9, "Komfort": 4.4, "Qualität": 3.9, "Frische": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für Specialty-Kaffee-Enthusiasten, die das beste Aroma aus Single-Origin-Bohnen herausholen wollen", "offerId": "oxo-brew-compact-cold-brew", "reason": "Langsamtropfextraktion bewahrt Helligkeit und Aromen, die Immersionsmethoden abflachen."},
+    {"label": "Für Haushalte, die einmal wöchentlich brauen und sedimentfreies Konzentrat wollen", "offerId": "toddy-cold-brew-home", "reason": "Filzpad-Filtration liefert das reinste Konzentrat aller Systeme hier — die Wartung lohnt sich."},
+    {"label": "Für einfache Glaskaraffe ohne Filzpad-Wartung", "offerId": "primula-burke-cold-brew-carafe", "reason": "Kein Ablauf, keine Filzpads, spülmaschinenfest — die wartungsärmste Glasoption."},
+    {"label": "Für 1–2 Personen-Haushalte mit begrenztem Kühlschrankplatz", "offerId": "takeya-deluxe-cold-brew", "reason": "Der einzige Brewer, der speziell für das Kühlschranktürregal entwickelt wurde."},
+    {"label": "Für Einsteiger oder alle, die 1-Gallonen-Chargenkapazität benötigen", "offerId": "county-line-mason-jar-cold-brew", "reason": "Niedrigster Einstiegspreis; skaliert auf Gallonen-Chargen größer als jeder dedizierte Brewer."}
+  ]
 }

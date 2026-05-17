@@ -76,5 +76,174 @@
     "fellow-stagg-x-set": "Kit pour-over de démarrage complet avec valve d'immersion-libération — 18 000-22 000 yens pour le set incluant la bouilloire à bec de grue. Le mode immersion-libération est l'extraction la plus accessible aux débutants de cette comparaison. Le prix est 8 à 10 fois celui du Hario V60 ; la valve ajoute un point de décision par session d'infusion."
   },
   "pinDescription": "Cinq porte-filtres café pour-over comparés en 2026 : Hario V60 Ceramic vs Chemex vs Kalita Wave vs Bodum vs Fellow Stagg. Lequel produit la tasse la plus nette, lequel pardonne un versage imprécis, et à quoi ressemble le coût des filtres papier sur une année complète. #cafépourover #caféspécialité #français #cafémaison",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque cafetière par infusion a été évaluée sur la géométrie du filtre et le caractère d'extraction, la capacité d'infusion par rapport à la taille de portion indiquée, le niveau de compétence requis et la tolérance aux erreurs de technique, la disponibilité et le coût annuel des filtres en papier, et la charge de nettoyage en usage quotidien.",
+  "products": [
+    {
+      "offerId": "hario-v60-ceramic-02",
+      "badge": "La Meilleure dans l'Ensemble",
+      "review": "Le Hario V60 Ceramic 02 est la référence mondiale pour le pour-over — l'outil que le café de spécialité utilise comme point de référence. Les nervures en spirale parcourent toute la hauteur du cône pour un drainage uniforme ; la grande ouverture unique au sommet draine rapidement pour une extraction brillante et claire. La céramique retient la chaleur nettement mieux que les versions plastiques, et à 2 000–2 500 yens le démarrage est peu risqué. Le compromis honnête : le drainage rapide amplifie les erreurs de technique — un versement inconsistant se voit directement dans la tasse, ce qui nécessite 1–2 semaines de pratique.",
+      "pros": [
+        "Référence mondiale — la plus grande bibliothèque de tutoriels et de recettes de toute cafetière",
+        "Le corps en céramique retient la chaleur nettement mieux que le plastique",
+        "Extraction lumineuse et de haute clarité qui exprime le caractère d'origine unique"
+      ],
+      "cons": [
+        "Niveau technique élevé — les erreurs se voient directement dans la tasse ; la céramique peut s'éclater"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Type de filtre": "Papier Hario V60 avec languette",
+        "Forme du filtre": "Cône 60°",
+        "Matériau": "Céramique",
+        "Capacité": "1–4 tasses (~480 ml max)",
+        "Coût des filtres": "~700–900 yens / 100 filtres",
+        "Prix": "~¥2 000–2 500"
+      },
+      "scores": {
+        "Clarté d'infusion": 5.0,
+        "Rapport qualité-prix": 5.0,
+        "Facilité d'utilisation": 3.5,
+        "Qualité de construction": 4.5,
+        "Complétude": 3.0
+      }
+    },
+    {
+      "offerId": "chemex-classic-6cup",
+      "badge": "La Meilleure pour l'Infusion en Grande Quantité",
+      "review": "Le Chemex infuse et sert dans un seul récipient en verre borosilicaté — jusqu'à 900 ml par fournée (3–4 grandes tasses). Son épais filtre en papier collé produit la tasse la plus légère et la plus propre de cette comparaison : presque zéro corps, clarté frappante et haute transparence sur l'acidité et l'arôme. Le design est dans la collection permanente du MoMA depuis 1943. Les filtres Chemex spécifiques coûtent plus cher et sont plus difficiles à trouver localement ; la carafe en verre descend en dessous de la température de dégustation en 10–12 minutes si on ne verse pas immédiatement.",
+      "pros": [
+        "Infuse et sert jusqu'à 900 ml (3–4 grandes tasses) dans un seul récipient",
+        "Le filtre en papier collé le plus épais — la tasse la plus légère et la moins corsée de cette comparaison",
+        "Le design iconique double aussi d'objet de plan de travail"
+      ],
+      "cons": [
+        "Les filtres Chemex spécifiques coûtent plus cher et sont moins disponibles ; la carafe en verre n'est pas isolée"
+      ],
+      "grade": "A",
+      "specs": {
+        "Type de filtre": "Papier collé spécifique Chemex",
+        "Forme du filtre": "Cheminée",
+        "Matériau": "Verre borosilicaté",
+        "Capacité": "Jusqu'à 900 ml (modèle 6 tasses)",
+        "Coût des filtres": "~1 200–1 500 yens / 100 filtres",
+        "Prix": "~¥6 000–7 000"
+      },
+      "scores": {
+        "Clarté d'infusion": 5.0,
+        "Rapport qualité-prix": 3.8,
+        "Facilité d'utilisation": 3.8,
+        "Qualité de construction": 4.2,
+        "Complétude": 3.5
+      }
+    },
+    {
+      "offerId": "kalita-wave-185-stainless",
+      "badge": "La Meilleure pour un Usage Quotidien Constant",
+      "review": "Le fond plat avec trois petits trous du Kalita Wave 185 régule le débit et absorbe les inconstances du versement qui ruineraient une tasse de V60. L'inox résiste aux chutes qui briseraient la céramique ou le verre. Le résultat est une tasse plus corsée et plus ronde que le V60 avec une cohérence tasse à tasse nettement meilleure. Des filtres en papier ondulés spécifiques au Wave sont requis ; les trois trous nécessitent un nettoyage périodique.",
+      "pros": [
+        "La géométrie à fond plat pardonne un versement imprécis — les résultats quotidiens les plus constants",
+        "L'inox résiste aux chutes contrairement au V60 céramique ou au Chemex en verre",
+        "Extraction plus corsée et plus ronde que les filtres coniques"
+      ],
+      "cons": [
+        "Filtres ondulés spécifiques au Wave requis ; trois trous nécessitent un nettoyage périodique"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Type de filtre": "Papier ondulé Kalita Wave (taille 185)",
+        "Forme du filtre": "Fond plat, 3 trous",
+        "Matériau": "Inox",
+        "Capacité": "2–4 tasses",
+        "Coût des filtres": "~900–1 100 yens / 100 filtres",
+        "Prix": "~¥5 000–6 000"
+      },
+      "scores": {
+        "Clarté d'infusion": 4.3,
+        "Rapport qualité-prix": 4.2,
+        "Facilité d'utilisation": 4.5,
+        "Qualité de construction": 5.0,
+        "Complétude": 3.5
+      }
+    },
+    {
+      "offerId": "bodum-pour-over-permanent",
+      "badge": "La Meilleure sans Coût de Papier",
+      "review": "Le filtre en maille inox permanent du Bodum laisse passer les huiles de café dans la tasse — corps plus riche, sensation en bouche proche de la presse française, zéro coût de filtre papier. Le cadre conique s'adapte à la plupart des tasses et élimine tout coût de consommable. La maille nécessite un rinçage immédiat après l'infusion avant que le marc ne sèche dans les mailles, et la carafe en verre se brise en cas de chute. Meilleure pour les buveurs qui préfèrent des tasses plus corsées et souhaitent éliminer les coûts de papier.",
+      "pros": [
+        "Filtre en maille inox permanent — zéro coût de filtre papier",
+        "Laisse passer les huiles de café pour un corps plus riche, proche de la presse française",
+        "Prix d'entrée bas à ~¥3 000–3 500"
+      ],
+      "cons": [
+        "La maille doit être rincée immédiatement après utilisation ; la carafe en verre se brise à l'impact"
+      ],
+      "grade": "B",
+      "specs": {
+        "Type de filtre": "Maille inox permanente",
+        "Forme du filtre": "Cône",
+        "Matériau": "Cadre inox + carafe en verre borosilicaté",
+        "Capacité": "1–2 tasses",
+        "Coût des filtres": "Aucun",
+        "Prix": "~¥3 000–3 500"
+      },
+      "scores": {
+        "Clarté d'infusion": 3.5,
+        "Rapport qualité-prix": 4.8,
+        "Facilité d'utilisation": 4.0,
+        "Qualité de construction": 3.8,
+        "Complétude": 4.0
+      }
+    },
+    {
+      "offerId": "fellow-stagg-x-set",
+      "badge": "Le Meilleur Kit Complet pour Débutants",
+      "review": "Le set Fellow Stagg [X] comprend un filtre conique avec une valve de base à infusion et libération et une bouilloire à col de cygne — la méthode d'extraction la plus indulgente pour les débutants dans cette comparaison en mode immersion (valve fermée), et la configuration la plus complète prête à l'emploi. Compatible avec les filtres coniques standard V60 02. La valve ajoute un point de décision par session d'infusion ; à ¥18 000–22 000 pour le set, il coûte 8–10x le Hario V60 Ceramic.",
+      "pros": [
+        "Set complet : filtre + bouilloire à col de cygne en un seul achat",
+        "Le mode valve à infusion et libération est la méthode la plus indulgente de cette comparaison",
+        "Utilise des filtres coniques standard V60 02 — largement disponibles"
+      ],
+      "cons": [
+        "¥18 000–22 000 pour le set, soit 8–10x le coût du V60 céramique seul"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type de filtre": "Filtre conique compatible V60 02",
+        "Forme du filtre": "Cône à infusion et libération avec valve de base",
+        "Matériau": "Filtre inox + bouilloire",
+        "Inclus": "Filtre + bouilloire à col de cygne",
+        "Modes de la valve": "Pour-over ouvert + Infusion d'immersion et libération",
+        "Prix": "~¥18 000–22 000 (set)"
+      },
+      "scores": {
+        "Clarté d'infusion": 4.5,
+        "Rapport qualité-prix": 2.8,
+        "Facilité d'utilisation": 4.8,
+        "Qualité de construction": 4.8,
+        "Complétude": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les amateurs de café de spécialité",
+      "offerId": "hario-v60-ceramic-02",
+      "reason": "Le filtre de référence mondial — le prix bas rend le démarrage peu risqué, et le niveau de compétence est ce qui sépare le caractère d'origine d'une tasse terne."
+    },
+    {
+      "label": "Pour les foyers qui préparent 3–4 tasses à la fois",
+      "offerId": "chemex-classic-6cup",
+      "reason": "Prépare et sert 900 ml (3–4 grandes tasses) dans un seul récipient avec la tasse la plus propre et la moins corsée de cette comparaison."
+    },
+    {
+      "label": "Pour les brasseurs quotidiens occupés qui veulent des résultats constants",
+      "offerId": "kalita-wave-185-stainless",
+      "reason": "La géométrie à fond plat pardonne un versement imprécis et le corps en inox résiste aux chutes — plus de cohérence avec moins de rigueur quotidienne."
+    },
+    {
+      "label": "Pour les configurations complètes de débutants",
+      "offerId": "fellow-stagg-x-set",
+      "reason": "Comprend le filtre et la bouilloire à col de cygne en un seul achat ; le mode à infusion et libération est la méthode la plus indulgente pour les nouveaux brasseurs."
+    }
+  ]
 }

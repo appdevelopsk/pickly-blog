@@ -92,5 +92,184 @@
     "gorilla-bow-pull-up-station": "임차인과 자주 이사하는 분들을 위한 최고의 독립형 풀업 스테이션. 벽 또는 문 앵커 불필요 — 평평한 바닥이라면 어디에나 배치 가능. 레지스턴스 밴드 훈련과 통합. 안정성은 모든 장착형 바보다 낮고 킵핑이나 공격적인 동적 하중을 위한 설계가 아님. 거주 환경상 벽과 문 장착 옵션이 모두 제외된 분들에게 적합."
   },
   "pinDescription": "2026년 최고의 풀업바 비교: 홈짐을 위한 문틀형 vs 벽걸이형 vs 독립형. Iron Gym, Fitness Reality, ROGUE, ProsourceFit, Gorilla Bow 중 당신의 공간과 훈련 스타일에 맞는 바는?",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 바는 정적 및 추정 동적 하중 용량, 느린 편심 및 빠른 구심 풀업 패턴에서 마운팅 시스템 안정성, 그립 위치 다양성, 문틀 호환성 허용오차, 설치 복잡성으로 평가되었습니다.",
+  "products": [
+    {
+      "offerId": "iron-gym-total-body-bar",
+      "badge": "최고 종합 추천",
+      "review": "Iron Gym의 문 위 레버 설계는 도구 없이 거의 모든 표준 문틀에서 작동합니다 — 사용자가 무거울수록 그립이 더 강해집니다. 여러 그립 위치가 넓은 오버핸드, 중립 평행, 좁은 서피네이트 변형을 하나의 바로 커버합니다. 주요 제한은 문틀 트림으로 제한된 설치 높이와 동적 키핑 하중 하의 감소된 안정성입니다.",
+      "pros": [
+        "도구 또는 드릴 없음 — 30초 내에 표준 문틀에 설치",
+        "하나의 유닛에 넓은, 중립, 좁은 그립 위치",
+        "136kg 정적 하중 정격이 대부분의 체중 사용자를 커버"
+      ],
+      "cons": [
+        "키핑 또는 동적 하중 평가 없음 — 엄격한 데드행 풀업만"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Mount type": "Over-door leverage",
+        "Load capacity": "136 kg static",
+        "Grip positions": "Wide overhand, neutral, close supinated",
+        "Installation": "No tools required",
+        "Bar height": "~200–210 cm (door frame height)",
+        "Price": "$29.99",
+        "Weight": "~1.8 kg"
+      },
+      "scores": {
+        "Stability": 4.2,
+        "Load capacity": 4.2,
+        "Ease of install": 5.0,
+        "Value": 4.9,
+        "Grip comfort": 4.5
+      }
+    },
+    {
+      "offerId": "fitness-reality-810xlt",
+      "badge": "최고 벽 마운트",
+      "review": "Fitness Reality 810XLT는 구조 프레임에 스터드 앵커로 고정됩니다 — 어떤 문 위 바보다 근본적으로 다른 안정성 수준. 하나의 스테이션에 넓은, 중립, 좁은 그립 위치, 마운트 시스템으로 300파운드 정격으로 동적 하중에서도 우수합니다. 절충점은 일회성 설치 약속입니다.",
+      "pros": [
+        "앵커 고정 안정성이 동적 하중 하에서 모든 문틀 바를 능가",
+        "세 가지 그립 위치: 넓은 오버핸드, 중립, 좁은 서피네이트",
+        "마운트 시스템으로 136kg 정격 — 가중 풀업 처리"
+      ],
+      "cons": [
+        "스터드 접근, 파일럿 홀, 래그 볼트 필요 — 드릴 없는 설정 제외됨"
+      ],
+      "grade": "A",
+      "specs": {
+        "Mount type": "Stud-anchored wall mount",
+        "Load capacity": "136 kg (300 lb) mounted",
+        "Grip positions": "Wide, neutral, close",
+        "Installation": "Drilling required",
+        "Bar height": "Adjustable by install height",
+        "Price": "$329",
+        "Steel gauge": "Heavy gauge"
+      },
+      "scores": {
+        "Stability": 4.9,
+        "Load capacity": 4.8,
+        "Ease of install": 2.8,
+        "Value": 4.2,
+        "Grip comfort": 4.7
+      }
+    },
+    {
+      "offerId": "rogue-matador-pull-up-bar",
+      "badge": "성능 체육관에 최적",
+      "review": "Rogue Matador는 Rogue의 3인치 마운팅 시스템 — 파워 랙, 리그 또는 벽 서까래 — 에 부착되어 독립 바가 제공할 수 있는 것보다 높은 하중 한계를 제공합니다. 키핑, 가중 진행 및 순간 힘이 체중의 2배를 초과하는 머슬업 훈련에 정격됩니다.",
+      "pros": [
+        "키핑, 가중 풀업 및 머슬업 훈련에 정격",
+        "Rogue의 파워 랙 생태계와 통합",
+        "하중 한계가 독립 벽 또는 문 바를 초과"
+      ],
+      "cons": [
+        "기존 Rogue 3인치 마운팅 인프라 필요 — 독립형 아님"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Mount type": "Rogue 3-inch mount system",
+        "Load capacity": "Kipping/dynamic rated",
+        "Grip positions": "Straight bar (wide and supinated)",
+        "Installation": "Rogue rack or wall rafter required",
+        "Price": "$105.00",
+        "Compatibility": "Rogue power racks and rigs",
+        "Material": "Steel"
+      },
+      "scores": {
+        "Stability": 5.0,
+        "Load capacity": 5.0,
+        "Ease of install": 2.5,
+        "Value": 3.8,
+        "Grip comfort": 4.4
+      }
+    },
+    {
+      "offerId": "prosourcefit-doorway-chinup",
+      "badge": "최고 예산 모델",
+      "review": "ProsourceFit는 더 낮은 가격으로 Iron Gym과 같은 작업을 합니다 — 문 위 마운트, 드릴 없음, 표준 문틀 호환. 명시된 120kg 정적 정격은 Iron Gym의 136kg보다 약간 낮습니다.",
+      "pros": [
+        "기능적 문틀 풀업 바 중 최저 가격",
+        "드릴 또는 도구 없음 — 1분 이내 설치",
+        "120kg 정적 용량이 대부분의 체중 사용자를 커버"
+      ],
+      "cons": [
+        "Iron Gym보다 적은 그립 위치 — 더 좁은 훈련 다양성"
+      ],
+      "grade": "B",
+      "specs": {
+        "Mount type": "Over-door leverage",
+        "Load capacity": "120 kg (265 lb) static",
+        "Grip positions": "Wide overhand, close",
+        "Installation": "No tools required",
+        "Bar height": "~200–210 cm",
+        "Price": "$19.99",
+        "Weight": "~1.4 kg"
+      },
+      "scores": {
+        "Stability": 4.0,
+        "Load capacity": 3.8,
+        "Ease of install": 5.0,
+        "Value": 5.0,
+        "Grip comfort": 4.1
+      }
+    },
+    {
+      "offerId": "gorilla-bow-pull-up-station",
+      "badge": "임차인에게 최적",
+      "review": "Gorilla Bow는 이 비교에서 벽, 문틀 또는 천장이 필요 없는 유일한 옵션입니다 — 충분한 헤드룸이 있는 평평한 어디에서나 서 있습니다. 안정성은 동적 하중 하에서 마운트된 바보다 낮습니다.",
+      "pros": [
+        "재산 수정 불필요 — 아파트 및 임대 공간에서 작동",
+        "보조 풀업 진행을 위한 저항 밴드 통합",
+        "평평한 바닥 위치 어디에든 재배치 가능"
+      ],
+      "cons": [
+        "마운트된 바보다 낮은 안정성 — 키핑 또는 동적 하중용으로 설계되지 않음"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Mount type": "Freestanding frame",
+        "Load capacity": "Not rated for dynamic loading",
+        "Grip positions": "Straight bar",
+        "Installation": "Assembly only, no drilling",
+        "Footprint": "~90×90 cm",
+        "Price": "$199.00",
+        "Band integration": "Yes"
+      },
+      "scores": {
+        "Stability": 3.4,
+        "Load capacity": 3.2,
+        "Ease of install": 4.8,
+        "Value": 3.5,
+        "Grip comfort": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "임차인 또는 첫 구매자를 위해",
+      "offerId": "iron-gym-total-body-bar",
+      "reason": "도구 없음, 손상 없음, 표준 문틀에서 즉시 작동 — 영구 체육관 설정 없이 시작하는 모든 사람을 위한 올바른 풀업 바."
+    },
+    {
+      "label": "주 3회 이상 풀업을 훈련하는 홈짐 소유자를 위해",
+      "offerId": "fitness-reality-810xlt",
+      "reason": "앵커 고정 안정성과 세 가지 그립 위치가 정기적 고볼륨 풀업 훈련을 위한 일회성 설치 투자를 정당화합니다."
+    },
+    {
+      "label": "예산이 제한된 초보자를 위해",
+      "offerId": "prosourcefit-doorway-chinup",
+      "reason": "Iron Gym과 동일한 문 위 개념을 더 낮은 가격으로 — 100kg 미만의 엄격한 체중 풀업에 기능적."
+    },
+    {
+      "label": "동적 동작을 프로그래밍하는 Rogue 랙 소유자를 위해",
+      "offerId": "rogue-matador-pull-up-bar",
+      "reason": "기존 Rogue 인프라와 통합되며 여기서 키핑 풀업 및 머슬업 훈련에 정격된 유일한 옵션입니다."
+    },
+    {
+      "label": "드릴하거나 문틀을 사용할 수 없는 아파트 거주자를 위해",
+      "offerId": "gorilla-bow-pull-up-station",
+      "reason": "벽 마운팅과 문 마운팅 모두 생활 상황으로 배제될 때 독립형 설계가 유일한 실행 가능한 옵션입니다."
+    }
+  ]
 }

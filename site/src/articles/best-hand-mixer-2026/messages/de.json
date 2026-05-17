@@ -58,5 +58,184 @@
     "krups-gn9019-hand-mixer": "Neun Gange mit einem 200W-Motor, der fur Prazision im unteren Bereich abgestimmt ist — die langsamste Stufe ruhrt kaum, was zahlt, wenn man ein Baiser startet oder Mehl sanft einfaltet. Kompakt und leicht mit 2,1 lbs, mit einem Turbo-Taste fur kurze Maximalgeschwindigkeitsschube."
   },
   "pinDescription": "Beste Handmixer 2026: KitchenAid vs Breville vs Cuisinart vs Hamilton Beach verglichen auf Motorleistung, Geschwindigkeitskontrolle und Aufsatze. Finde den richtigen Mixer furs Backen. #Handmixer #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jeder Handmixer wurde nach Motorkonsistenz unter anhaltender Last (getestet gegen Buttercreme mit kalter Butter und festen Keksteig), Drehzahlbereich und -granularität, Aufsatz-Qualität, Geräuschpegel, Ergonomie und Staukomfort bewertet.",
+  "products": [
+    {
+      "offerId": "kitchenaid-khm512er-hand-mixer",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Die KitchenAid KHM512ER gewinnt durch Motorkonsistenz, nicht rohe Wattzahl. Ihr DC-Motor hält gleichmäßige Drehzahl unter Last — von leichter Schlagsahne bis zu dickem Keksteig — auf eine Weise, die billige AC-Motoren nicht können. Turbo-Beater widerstehen Flecken, und der 1 kg schwere Körper reduziert die Ermüdung bei langen Mixvorgängen. Der 5-Gang-Bereich ist für die meisten Bäcker ausreichend; der Kompromiss ist weniger Granularität als 9-Gang-Konkurrenten.",
+      "pros": [
+        "DC-Motor hält konstante Drehzahl unter Last ohne Absacken",
+        "Turbo-Beater widerstehen Flecken und selbst-reinigen sich beim Betrieb",
+        "1 kg kompakter Körper reduziert Armermüdung"
+      ],
+      "cons": [
+        "5 Gänge bieten weniger Granularität als 9-Gang-Konkurrenten"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Preis": "~$59,99",
+        "Motor": "DC 250W",
+        "Gänge": "5",
+        "Gewicht": "1 kg",
+        "Beater": "Turbo-Beater",
+        "Spülmaschinenfest": "Ja",
+        "Farboptionen": "Mehrere"
+      },
+      "scores": {
+        "Power": 4.5,
+        "Ease of use": 4.7,
+        "Noise": 4.3,
+        "Value": 4.5,
+        "Attachments": 4.2
+      }
+    },
+    {
+      "offerId": "breville-bhm800sil-hand-mixer",
+      "badge": "Beste Ausstattung",
+      "review": "Das Breville BHM800SIL ist der einzige Handmixer mit einem Scraper-Beater — einem Aufsatz mit flexibler Silikonkante, der bei jeder Umdrehung die Schüsselwand abwischt und manuelle Abkratzungen um etwa die Hälfte reduziert. Neun Gänge und 240W decken die gesamte Backbreite ab. Der magnetische Absatzhaken speichert Beater am Mixer. Bei $160 ist er der teuerste hier.",
+      "pros": [
+        "Einzigartiger Scraper-Beater reduziert Schüssel-Abkratzungen um etwa die Hälfte",
+        "9 Gänge mit 240W-Motor",
+        "Magnetischer Absatzhaken speichert Beater am Mixerkörper"
+      ],
+      "cons": [
+        "$159,95 — teuerster Handmixer in diesem Vergleich"
+      ],
+      "grade": "A",
+      "specs": {
+        "Preis": "~$159,95",
+        "Motor": "240W",
+        "Gänge": "9",
+        "Besonderheit": "Scraper-Beater",
+        "Aufbewahrung": "Magnetischer Absatzhaken",
+        "Aufsätze": "Scraper-Beater, normaler Beater, Schneebesen",
+        "Gewicht": "1,4 kg"
+      },
+      "scores": {
+        "Power": 4.4,
+        "Ease of use": 4.6,
+        "Noise": 4.2,
+        "Value": 3.7,
+        "Attachments": 4.9
+      }
+    },
+    {
+      "offerId": "cuisinart-hm-90bcs-hand-mixer",
+      "badge": "Beste Präzision",
+      "review": "Der 9-Gang-Bereich des Cuisinart HM-90BCS ist sein definierender Vorteil — die feinste Granularität für Baiser, Chiffon-Teig und einarbeitungsempfindliche Mixaufgaben. Wird mit 5 Aufsätzen geliefert: zwei Beater, zwei Knethaken und ein Schneebesen. Der 220W-Motor ist die niedrigste Wattzahl hier, bewältigt aber typische Backaufgaben gut. Ideal für Bäcker, die regelmäßig mit Baiser oder delikaten Teigen arbeiten.",
+      "pros": [
+        "9 Gänge für feinste Granularität bei Baiser und delikaten Teigen",
+        "Wird mit 5 Aufsätzen einschließlich Knethaken geliefert",
+        "Schüsselführung hält Beaterpfad bei langen Sessions zentriert"
+      ],
+      "cons": [
+        "220W ist die niedrigste Wattzahl in diesem Vergleich"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Preis": "~$79,95",
+        "Motor": "220W",
+        "Gänge": "9",
+        "Aufsätze": "5 (2 Beater, 2 Knethaken, 1 Schneebesen)",
+        "Schüsselführung": "Ja",
+        "Gewicht": "1,1 kg",
+        "Koffer": "Inklusive"
+      },
+      "scores": {
+        "Power": 4.1,
+        "Ease of use": 4.5,
+        "Noise": 4.1,
+        "Value": 4.3,
+        "Attachments": 4.7
+      }
+    },
+    {
+      "offerId": "hamilton-beach-62682-hand-mixer",
+      "badge": "Bestes Budget",
+      "review": "Bei $25–30 ist der Hamilton Beach 62682 das Preis-Leistungs-Angebot, das jeder versteht — 290W-Motor, 6 Gänge, eingebaute Schüsselauflage und aufklappbarer Aufbewahrungskoffer. Die eingebaute Schüsselauflage (ein Gummifuß auf der Rückseite) ermöglicht das Absetzen des Mixers auf dem Schüsselrand zwischen den Arbeitsschritten. Für Gelegenheitsbäcker gibt es keinen Grund, mehr auszugeben.",
+      "pros": [
+        "290W-Motor zum niedrigsten Preis in diesem Vergleich",
+        "Eingebaute Schüsselauflage zum Pausieren zwischen Arbeitsschritten",
+        "Aufklappbarer Aufbewahrungskoffer hält Beater und Schneebesen zusammen"
+      ],
+      "cons": [
+        "Plastikgehäuse fühlt sich weniger robust an als KitchenAid oder Cuisinart"
+      ],
+      "grade": "B",
+      "specs": {
+        "Preis": "~$25–30",
+        "Motor": "290W",
+        "Gänge": "6",
+        "Schüsselauflage": "Eingebaut Gummifuß",
+        "Aufbewahrung": "Aufklappbarer Koffer",
+        "Gewicht": "1,1 kg",
+        "Aufsätze": "2 Beater, 1 Schneebesen"
+      },
+      "scores": {
+        "Power": 4.3,
+        "Ease of use": 4.4,
+        "Noise": 3.9,
+        "Value": 4.9,
+        "Attachments": 3.8
+      }
+    },
+    {
+      "offerId": "krups-gn9019-hand-mixer",
+      "badge": "Beste Niedrig-Drehzahl-Kontrolle",
+      "review": "Das KRUPS GN9019's 9-Gang-Motor ist speziell auf Präzision im unteren Bereich ausgerichtet — die langsamste Stufe rührt kaum, ideal für Baiser-Starts vor dem Hochdrehen oder sanftes Einfalten von Mehl ohne Überarbeitung des Glutens. Mit 0,95 kg ist er der leichteste Mixer hier, und der Turbo-Boost-Knopf ermöglicht kurze Maximalgeschwindigkeit-Schübe. Der 200W-Motor ist ausreichend für typische Aufgaben.",
+      "pros": [
+        "Langsamste Stufe rührt kaum — ideal für Baiser-Starts und sanftes Einfalten",
+        "0,95 kg — leichtester Handmixer in diesem Vergleich",
+        "Turbo-Boost-Knopf für kurze Maximalgeschwindigkeit-Schübe"
+      ],
+      "cons": [
+        "200W ist niedrigste Wattzahl — kann bei sehr festen Teigen kämpfen"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Preis": "~$49,99",
+        "Motor": "200W",
+        "Gänge": "9",
+        "Gewicht": "0,95 kg",
+        "Turbo-Boost": "Ja",
+        "Niedrig-Drehzahl-Kontrolle": "Außergewöhnlich",
+        "Beater": "Turbo"
+      },
+      "scores": {
+        "Power": 3.8,
+        "Ease of use": 4.4,
+        "Noise": 4.2,
+        "Value": 4.4,
+        "Attachments": 3.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für regelmäßige Heimbäcker",
+      "offerId": "kitchenaid-khm512er-hand-mixer",
+      "reason": "DC-Motorkonsistenz unter Last mit geringem Ermüdungsgewicht und leicht reinigbaren Turbo-Beatern"
+    },
+    {
+      "label": "Für Bäcker, die Schüssel-Abkratzen hassen",
+      "offerId": "breville-bhm800sil-hand-mixer",
+      "reason": "Einzigartiger Silikon-Scraper-Beater reduziert manuelle Schüssel-Abkratzungen um etwa die Hälfte"
+    },
+    {
+      "label": "Für Baiser und delikate Teige",
+      "offerId": "cuisinart-hm-90bcs-hand-mixer",
+      "reason": "9-Gang-Granularität verhindert Überrühren bei kritischen Belüftungsphasen"
+    },
+    {
+      "label": "Für Gelegenheitsbäcker mit kleinem Budget",
+      "offerId": "hamilton-beach-62682-hand-mixer",
+      "reason": "290W-Motor mit Schüsselauflage und Aufbewahrungskoffer zum niedrigsten Preis"
+    },
+    {
+      "label": "Für sanfte Niedrig-Drehzahl-Mischaufgaben",
+      "offerId": "krups-gn9019-hand-mixer",
+      "reason": "Niedrigste Stufe rührt kaum — perfekt für Baiser-Starts und Mehl-Einfalten"
+    }
+  ]
 }

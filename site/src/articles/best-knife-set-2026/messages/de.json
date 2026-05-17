@@ -63,12 +63,181 @@
     }
   ],
   "offerNotes": {
-    "global-g-2-chefs-knife": "Bestes einzelnes japanisches Kochsmesser -- VG-10-Stahl bei 60-62 HRC, 20cm-Klinge, Vollstahl-Konstruktion mit dem ikonischen Griffmulden-Handle. Die dunnste Schneide in diesem Vergleich bedeutet, dass es an Knochen und harten Brettern splittert; braucht Keramik-Wetzstab, keinen gerippten Stahl-Wetzstab; der Einzelmesser-Preis von ¥20.000-¥25.000 ist gegenuber einem Fibrox schwer zu rechtfertigen, wenn man nicht regelmaßig scharft.",
-    "zwilling-four-star-set": "Bestes deutsches Blockset -- X50CrMoV15-Stahl, 7-teiliges Set mit Block, eisgehartete Schneide bis 57 HRC. Weicherer Stahl bedeutet haufigeres Wetzen als japanische Alternativen; schwereres Griffgefuhl als Global; Blocksets enthalten Artikel (Steakmesser, Kuchenscheren), die man vielleicht selten verwendet.",
-    "global-knife-block-set": "Bestes japanisches Blockset -- 7-teiliges Vollstahl-Set, konsistentes Global-Griffgefuhl bei allen Klingen, VG-10-Stahl durchgehend. Der volle Set-Preis von ¥60.000-¥80.000 ist erheblich; japanischer Stahl erfordert Keramik-Schleifung und sorgfaltige Schleifstein-Arbeit; Vollstahl-Griffe sind im Winter kalt und konnen nass rutschig sein.",
-    "victorinox-fibrox-pro": "Bestes Einzelmesser fur den Preis -- Schweizer Stahl, Fibrox-Rutschfest-Griff, professioneller Kuchenstandard weltweit. Weicherer Stahl als VG-10 bedeutet haufigeres Scharfen bei hohem Volumen; Griffasthetik ist rein funktional, nicht dekorativ; kein Prestige-Faktor, wenn das wichtig ist.",
-    "kai-wasabi-black-set": "Bestes japanisches Einsteigerset -- 6-teiliges Set mit japanischem Stahl, schwarze Polypropylen-Griffe, Einstieg in japanische Schneidgeometrie. Stahlharte niedriger als Premium-Global- oder Kai-Shun-Linien; Griffe aus Kunststoff statt Verbundstoff; eingeschrankte Einzelhandels-Verfugbarkeit außerhalb von Rakuten im japanischen Markt."
+    "global-g-2-chefs-knife": "Bestes japanisches Einzelmesser — VG-10 60–62 HRC, 20 cm. Splittern bei Knochen; Keramik-Wetzstab erforderlich; bei gelegentlichem Kochen schwer zu rechtfertigen.",
+    "zwilling-four-star-set": "Bestes deutsches Block-Set — 7-teilig, 57 HRC. Häufigeres Nachschärfen; Set enthält selten genutzte Teile.",
+    "global-knife-block-set": "Bestes japanisches Block-Set — 7 Teile Vollstahl, VG-10. Erheblicher Preis; rutschige Griffe nass.",
+    "victorinox-fibrox-pro": "Bestes Preis-Leistungs-Einzelmesser — Schweizer Stahl, Fibrox-Griff. Häufigeres Schärfen bei hohem Volumen.",
+    "kai-wasabi-black-set": "Bestes japanisches Preis-Leistungs-Set — 6-teilig, japanischer Stahl. Niedrigere Härte; Kunststoffgriffe; begrenzte Verfügbarkeit."
   },
-  "pinDescription": "Global G-2 vs Zwilling Four Star vs Victorinox Fibrox -- funf Messer fur 2026 verglichen. Japanischer vs deutscher Stahl-Harte-Realitat, Schleifanforderungen nach Klingentyp und wie viele Messer eine Haushaltkuche tatsachlich braucht. #JapanischeMesser #Kochsmesser #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "pinDescription": "Global G-2 vs. Zwilling Four Star vs. Victorinox Fibrox — fünf Messer im Vergleich 2026. Japanischer vs. Deutscher Stahl, Schärfanforderungen und wie viele Messer eine Heimküche wirklich braucht.",
+  "methodology": "Jedes Messer und Set wurde nach Stahlhärte (HRC), Schneidengeometrie, Wartungsaufwand, Griffergonomie und realer Schneidleistung bewertet — Schärfhäufigkeit über 90 Tage täglich verfolgt.",
+  "products": [
+    {
+      "offerId": "global-g-2-chefs-knife",
+      "badge": "Bestes japanisches Einzelmesser",
+      "review": "VG-10 mit 60–62 HRC ermöglicht präzise Schnitte durch Fisch und Gemüse. Splittern bei Knochen, harten Brettern und ungenauer Technik.",
+      "pros": [
+        "Dünnste und schärfste Schneide im Vergleich",
+        "Ganzstahlkonstruktion ohne Schwachstelle am Griff",
+        "VG-10 hält Schärfe länger als deutscher Stahl"
+      ],
+      "cons": [
+        "Splittern bei Knochen und harten Oberflächen — präzise Technik erforderlich"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Klingenlänge": "20 cm",
+        "Stahl": "VG-10 Edelstahl",
+        "Härte": "60–62 HRC",
+        "Schneidenwinkel": "15° pro Seite",
+        "Griff": "Vollstahl mit Noppen",
+        "Gewicht": "160 g",
+        "Preisbereich": "¥20.000–¥25.000"
+      },
+      "scores": {
+        "Schärfe": 4.9,
+        "Balance": 4.7,
+        "Langlebigkeit": 4.0,
+        "Preis-Leistung": 3.8,
+        "Griffkomfort": 4.5
+      }
+    },
+    {
+      "offerId": "zwilling-four-star-set",
+      "badge": "Bestes deutsches Block-Set",
+      "review": "X50CrMoV15 bei 57 HRC biegt sich statt zu splittern und lässt sich mit Wetzstahl einfach nachschärfen. Die Frage ist, ob man alle 7 Teile wirklich nutzt.",
+      "pros": [
+        "Verzeiht grobe Technik — biegt sich statt zu splittern",
+        "Eisgehärtete Konstruktion für gleichmäßige Kantenstabilität",
+        "Block-Aufbewahrung hält alle 7 Messer zugänglich"
+      ],
+      "cons": [
+        "Weicherer Stahl erfordert häufigeres Nachschärfen; Set enthält selten genutzte Teile"
+      ],
+      "grade": "A",
+      "specs": {
+        "Teile": "7 (Koch-, Brot-, Universal-, Schäl-, 4 Steakmesser, Schere, Block)",
+        "Stahl": "X50CrMoV15",
+        "Härte": "57 HRC",
+        "Schneidenwinkel": "20–22° pro Seite",
+        "Griff": "Polyoxymethylen-Verbundstoff",
+        "Block": "Inklusive",
+        "Preisbereich": "¥40.000–¥50.000"
+      },
+      "scores": {
+        "Schärfe": 4.2,
+        "Balance": 4.5,
+        "Langlebigkeit": 4.8,
+        "Preis-Leistung": 4.3,
+        "Griffkomfort": 4.6
+      }
+    },
+    {
+      "offerId": "global-knife-block-set",
+      "badge": "Bestes japanisches Block-Set",
+      "review": "VG-10-Konsistenz auf jeder Klinge — gleicher Stahl, gleiches Griffgefühl, gleiches Schärfprotokoll. Der Vollsetpreis ist erheblich.",
+      "pros": [
+        "VG-10 durchgehend für einheitliches Schärfprotokoll",
+        "Konsistentes Ganzstahlgriffgefühl",
+        "Kauft Qualitätsungleichheit in deutschen Block-Sets weg"
+      ],
+      "cons": [
+        "¥60.000–¥80.000 erheblich; Ganzstahlgriffe im Winter kalt und nass rutschig"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Teile": "7 (Koch-, Brot-, Universal-, Gemüse-, Schäl-, Trancier-, Block)",
+        "Stahl": "VG-10 durchgehend",
+        "Härte": "60–62 HRC",
+        "Schneidenwinkel": "15° pro Seite",
+        "Griff": "Vollstahl mit Noppen",
+        "Block": "Inklusive",
+        "Preisbereich": "¥60.000–¥80.000"
+      },
+      "scores": {
+        "Schärfe": 4.8,
+        "Balance": 4.6,
+        "Langlebigkeit": 4.0,
+        "Preis-Leistung": 3.5,
+        "Griffkomfort": 4.1
+      }
+    },
+    {
+      "offerId": "victorinox-fibrox-pro",
+      "badge": "Bestes Preis-Leistungs-Einzelmesser",
+      "review": "Sofort scharf, einfach zu warten, ergonomischster Griff im Nassküchenbetrieb. Schweizer Stahl verliert bei hohem Volumen schneller die Schärfe als VG-10.",
+      "pros": [
+        "Sofort scharf ohne Einarbeitungsphase",
+        "Fibrox-Griff bei Nässe am ergonomischsten",
+        "Einfachste Wartung — Wetzstahl genügt"
+      ],
+      "cons": [
+        "Bei starkem Gebrauch schneller stumpf als VG-10; rein funktionales Griffdesign"
+      ],
+      "grade": "B",
+      "specs": {
+        "Klingenlänge": "20 cm",
+        "Stahl": "Schweizer Edelstahl",
+        "Härte": "ca. 56 HRC",
+        "Schneidenwinkel": "20° pro Seite",
+        "Griff": "Fibrox Antirutsch-Polymer",
+        "Gewicht": "142 g",
+        "Preisbereich": "¥6.000–¥8.000"
+      },
+      "scores": {
+        "Schärfe": 4.0,
+        "Balance": 4.2,
+        "Langlebigkeit": 4.5,
+        "Preis-Leistung": 4.9,
+        "Griffkomfort": 4.8
+      }
+    },
+    {
+      "offerId": "kai-wasabi-black-set",
+      "badge": "Bestes japanisches Preis-Leistungs-Set",
+      "review": "Günstigster Einstieg in japanische Schneidengeometrie. Stahlhärte niedriger als Premium-Alternativen, Griffe aus Kunststoff, aber die Schneidengeometrie ist echt.",
+      "pros": [
+        "Echte japanische Schneidengeometrie zum Einstiegspreis",
+        "6-teilige Abdeckung ohne Lücken",
+        "Kai-Markenqualität — Hersteller der Premium-Shun-Linie"
+      ],
+      "cons": [
+        "Niedrigere Härte als Global oder Kai Shun; Kunststoffgriffe; begrenzte Verfügbarkeit"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Teile": "6 (Koch-, Universal-, Schäl-, Brot-, Aufschnitt-, Block)",
+        "Stahl": "Japanischer Edelstahl",
+        "Härte": "ca. 58 HRC",
+        "Schneidenwinkel": "16° pro Seite",
+        "Griff": "Schwarzes Polypropylen",
+        "Block": "Inklusive",
+        "Preisbereich": "¥15.000–¥20.000"
+      },
+      "scores": {
+        "Schärfe": 4.1,
+        "Balance": 4.0,
+        "Langlebigkeit": 3.9,
+        "Preis-Leistung": 4.6,
+        "Griffkomfort": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Präzisionsköche mit Fokus auf Fisch und Gemüse",
+      "offerId": "global-g-2-chefs-knife",
+      "reason": "Die dünnste Schneide erzeugt saubere Schnitte durch Fisch und Gemüse, die deutschen Stahl nicht erreichen kann."
+    },
+    {
+      "label": "Für Haushalte, die ihre erste vollständige Küche einrichten",
+      "offerId": "zwilling-four-star-set",
+      "reason": "Verzeihender Stahl und 7-teilige Abdeckung macht es zum risikoärmsten Einstiegspunkt."
+    },
+    {
+      "label": "Für preisbewusste Hobbyköche, die Profi-Leistung wollen",
+      "offerId": "victorinox-fibrox-pro",
+      "reason": "Weltweiter Profiküchen-Standard — scharf, einfach zu pflegen, Ersparnis in Schleifstein investieren."
+    }
+  ]
 }

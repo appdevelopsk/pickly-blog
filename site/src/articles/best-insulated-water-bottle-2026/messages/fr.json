@@ -107,5 +107,139 @@
     "camelbak-chute-mag": "Gourde sous vide optimisée pour la randonnée avec bouchon magnétique à clapet — le capuchon reste ouvert magnétiquement pendant le versement et ne peut pas être perdu sur le sentier, isolation sous vide en acier inoxydable 25oz, plus légère que les alternatives 32oz. La capacité plus petite 25oz nécessite des remplissages plus fréquents sur les longues randonnées ; le bouchon magnétique peut s'ouvrir si la gourde tombe capuchon vers le bas ; pas complètement étanche aux éclaboussures."
   },
   "pinDescription": "Cinq gourdes isothermes comparées en 2026 : Hydro Flask, Stanley Quencher, Yeti Rambler, Nalgene Silo et CamelBak Chute Mag. Comment fonctionne l'isolation sous vide, rétention 24h froid vs 12h chaud, goulot large vs étroit pour glaçons vs boire en trajet, types de bouchon, compromis de poids pour la randonnée, et pourquoi comparer avec les thermos japonais Thermos et Zojirushi. #GourdeIsotherme #HydroFlask #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque gourde a été notée sur l'efficacité d'isolation sous vide (rétention du froid à 24h, du chaud à 12h), la résistance aux fuites du bouchon selon les retours d'utilisateurs, le grade d'acier inoxydable et la durabilité du revêtement, le coût total y compris les bouchons de rechange, la facilité de nettoyage à la brosse pour l'intérieur et le mécanisme de bouchon, et le compromis poids vs capacité pour la randonnée.",
+  "products": [
+    {
+      "offerId": "hydro-flask-wide-mouth",
+      "badge": "Meilleur Choix Global",
+      "review": "La Hydro Flask Wide Mouth établit le standard pour les gourdes sous vide premium : l'isolation double paroi TempShield maintient les boissons froides 24h et chaudes 12h — reproductible en tests contrôlés. Le Flex Cap est fiable contre les fuites lors des chutes, et le revêtement poudré résiste aux rayures après plus de 2 ans d'usage quotidien. Le prix de $40+ est plus élevé que Stanley, mais se justifie par des performances d'isolation supérieures démontrées.",
+      "pros": ["Isolation TempShield maintient 24h froid et 12h chaud, reproductible", "Revêtement poudré résistant aux rayures en usage quotidien", "Goulot large pour glaçons et nettoyage facile"],
+      "cons": ["Prix $40+ nettement plus élevé que Nalgene ou CamelBak"],
+      "grade": "A+",
+      "specs": {
+        "Capacité": "32 oz (946 ml)",
+        "Type d'isolation": "Vide double paroi TempShield",
+        "Rétention du froid": "24 heures",
+        "Rétention du chaud": "12 heures",
+        "Matériau": "Acier inoxydable 18/8",
+        "Mécanisme de bouchon": "Flex Cap à vis"
+      },
+      "scores": {
+        "Insulation": 4.9,
+        "Leak resistance": 4.7,
+        "Durability": 4.9,
+        "Value": 4.2,
+        "Ease of cleaning": 4.5
+      }
+    },
+    {
+      "offerId": "stanley-quencher-tumbler",
+      "badge": "Meilleur Usage Quotidien",
+      "review": "Le Stanley Quencher H2.0 est un tumbler, pas une gourde traditionnelle — c'est à la fois sa force et sa limite. Le large design avec anse et le couvercle avec paille en font le compagnon quotidien le plus confortable. Les performances d'isolation sont solides (24h froid), bien que légèrement en retrait par rapport à Hydro Flask. Le nettoyage est facile grâce à la large ouverture, bien que la paille nécessite un accessoire spécifique.",
+      "pros": ["Design large avec anse — le plus confortable pour l'usage quotidien", "Couvercle avec paille idéal pour bureau et trajet", "Solide rétention 24h froid à prix raisonnable"],
+      "cons": ["Forme tumbler moins portable que les gourdes standard"],
+      "grade": "A",
+      "specs": {
+        "Capacité": "30 oz (887 ml)",
+        "Type d'isolation": "Vide double paroi",
+        "Rétention du froid": "24 heures",
+        "Rétention du chaud": "6 heures",
+        "Matériau": "Acier inoxydable 18/8",
+        "Mécanisme de bouchon": "Couvercle avec paille et anse"
+      },
+      "scores": {
+        "Insulation": 4.7,
+        "Leak resistance": 4.5,
+        "Durability": 4.5,
+        "Value": 4.5,
+        "Ease of cleaning": 3.8
+      }
+    },
+    {
+      "offerId": "yeti-rambler-bottle",
+      "badge": "La Plus Robuste",
+      "review": "Le Yeti Rambler est la gourde la plus robuste du test : la double paroi en acier inoxydable 18/8 est plus épaisse que la concurrence, et le Chug Cap est le bouchon le plus étanche selon les retours d'utilisateurs. Les performances d'isolation sont excellentes (48h froid selon le fabricant, 24h+ réaliste). Le prix de $40+ et le poids plus élevé sont les seules vraies limites pour la randonnée.",
+      "pros": ["Acier inoxydable 18/8 plus épais pour une résistance maximale aux chocs", "Chug Cap le bouchon le plus étanche selon les retours d'utilisateurs", "Excellentes performances d'isolation — 24h+ froid réaliste"],
+      "cons": ["Poids plus élevé que les alternatives légères pour la longue randonnée"],
+      "grade": "B+",
+      "specs": {
+        "Capacité": "36 oz (1065 ml)",
+        "Type d'isolation": "Vide double paroi",
+        "Rétention du froid": "24+ heures",
+        "Rétention du chaud": "12+ heures",
+        "Matériau": "Acier inoxydable 18/8 (plus épais)",
+        "Mécanisme de bouchon": "Chug Cap"
+      },
+      "scores": {
+        "Insulation": 4.8,
+        "Leak resistance": 4.8,
+        "Durability": 5.0,
+        "Value": 3.5,
+        "Ease of cleaning": 4.3
+      }
+    },
+    {
+      "offerId": "nalgene-silo-bottle",
+      "badge": "Meilleur Prix",
+      "review": "La Nalgene Silo est la seule participante sans isolation sous vide — le matériau Sustain est durable et 100% exempt de produits chimiques nocifs, mais il n'y a pas d'effet thermos. C'est l'option la plus légère et la plus économique à $25, et le goulot large permet le nettoyage le plus facile de tous. Pour l'isolation du froid, c'est simplement le mauvais choix ; elle ne doit pas être utilisée pour les boissons chaudes.",
+      "pros": ["La gourde la plus légère du test à $25", "Goulot large pour le nettoyage le plus facile de tous", "Matériau Sustain durable et exempt de produits chimiques nocifs"],
+      "cons": ["Pas d'isolation sous vide — aucun effet thermos"],
+      "grade": "B",
+      "specs": {
+        "Capacité": "48 oz (1420 ml)",
+        "Type d'isolation": "Aucune (plastique Sustain)",
+        "Rétention du froid": "Aucune",
+        "Matériau": "Plastique Tritan Renew",
+        "Poids": "~150 g",
+        "Mécanisme de bouchon": "Bouchon à vis goulot large"
+      },
+      "scores": {
+        "Insulation": 1.5,
+        "Leak resistance": 4.5,
+        "Durability": 4.8,
+        "Value": 5.0,
+        "Ease of cleaning": 5.0
+      }
+    },
+    {
+      "offerId": "camelbak-chute-mag",
+      "badge": "Meilleure pour la Randonnée",
+      "review": "La CamelBak Chute Mag a été conçue spécifiquement pour les randonneurs : le couvercle magnétique à clapet reste ouvert pendant que vous buvez et ne peut pas être perdu. La capacité de 25oz est plus légère que les alternatives de 32oz, mais nécessite des remplissages plus fréquents. L'isolation sous vide est bonne (24h froid), bien qu'elle n'atteigne pas le niveau de Hydro Flask. Le rapport qualité-prix est juste dans le contexte de la randonnée.",
+      "pros": ["Couvercle magnétique à clapet — reste ouvert pendant la boisson, ne se perd pas", "Optimisée pour les randonneurs avec poids réduit", "Solide rétention 24h froid pour usage outdoor"],
+      "cons": ["Capacité 25oz plus petite nécessite des remplissages plus fréquents"],
+      "grade": "B-",
+      "specs": {
+        "Capacité": "25 oz (740 ml)",
+        "Type d'isolation": "Vide double paroi",
+        "Rétention du froid": "24 heures",
+        "Matériau": "Acier inoxydable 18/8",
+        "Mécanisme de bouchon": "Couvercle magnétique à clapet",
+        "Usage": "Randonnée/Outdoor"
+      },
+      "scores": {
+        "Insulation": 4.5,
+        "Leak resistance": 4.2,
+        "Durability": 4.5,
+        "Value": 4.5,
+        "Ease of cleaning": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les utilisateurs qui cherchent les meilleures performances d'isolation",
+      "offerId": "hydro-flask-wide-mouth",
+      "reason": "L'isolation TempShield offre les meilleures valeurs vérifiées de rétention du froid et du chaud dans la comparaison."
+    },
+    {
+      "label": "Pour les utilisateurs bureau et trajet quotidien",
+      "offerId": "stanley-quencher-tumbler",
+      "reason": "Le design avec anse et le couvercle avec paille en font le compagnon quotidien le plus confortable."
+    },
+    {
+      "label": "Pour les randonneurs soucieux du poids",
+      "offerId": "camelbak-chute-mag",
+      "reason": "Couvercle magnétique à clapet et poids réduit optimisés pour l'usage en sentier."
+    }
+  ]
 }

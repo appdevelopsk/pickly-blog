@@ -102,5 +102,64 @@
     "twelve-south-hoverbar-duo": "Premium clamp/desk arm pick — 11,800-13,800 yen spring-tensioned articulating arm with magnetic puck (separate accessory or built-in depending on year), screw clamp mounts to desk edges 0-50 mm thick, 35 cm swing reach, weighted desk-base option included for non-clampable surfaces. Clamp footprint limits where you can mount — many Japanese desks have an apron that blocks the clamp throat or a tabletop thicker than 50 mm, and the desk-base alternative reclaims floor and desk space the arm was supposed to free; iPad-focused magnetic plate sizing means Android tablets and older non-magnetic iPad Mini require a third-party adapter ring; 11,800-13,800 yen plus the magnetic adapter where needed pushes total cost over 15,000 yen."
   },
   "pinDescription": "Five tablet stands compared in 2026 from a 1,680 yen Lamicall hinge stand to a 13,800 yen Twelve South HoverBar Duo. Magnetic iPad attach vs MOFT-style portability vs gooseneck floor reach vs desk-clamp arm — with the iPad Pro 12.9 plus Magic Keyboard stress test, the Japanese-desk-apron clamp problem, and the explicit weakness on every pick. just where each stand actually fits.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each stand was evaluated on hinge rigidity under a 1.4 kg iPad Pro 12.9 plus Magic Keyboard load, angle-drift patterns from long-term owner reviews, portability-versus-stability tradeoff, desk-furniture compatibility in Japanese apartment settings, and realistic lifespan based on dominant failure modes reported after 12–18 months of daily use.",
+  "products": [
+    {
+      "offerId": "lululook-ipad-stand",
+      "badge": "Best Overall",
+      "review": "The Lululook's magnetic puck docks an iPad Pro or Air in under a second and holds portrait-to-landscape rotation effortlessly — no clamp to release, no bezel marks. The trade-off is ecosystem lock-in: the magnet plate is sized for iPad Pro and iPad Air only, and the 12.9-inch iPad Pro plus Magic Keyboard combination can detach if the desk is bumped.",
+      "pros": ["Magnetic dock in under one second", "360° portrait-to-landscape rotation", "Weighted brushed-aluminum base holds 1.4 kg load without drift"],
+      "cons": ["iPad Pro and iPad Air only — Android tablets and older iPad Mini need a separately sold adapter"],
+      "grade": "A+",
+      "specs": {"Compatibility": "iPad Pro 11/12.9, iPad Air", "Attach type": "Magnetic puck", "Base material": "Brushed aluminum", "Rotation": "360°", "Price range": "¥9,800–12,800", "Portability": "Desk fixture"},
+      "scores": {"Stability": 4.8, "Angle range": 4.7, "Build quality": 4.8, "Value": 3.9, "Portability": 2.5}
+    },
+    {
+      "offerId": "moft-float-stand",
+      "badge": "Best for Travel",
+      "review": "At 280 g and 8 mm folded, the MOFT Float slides into any laptop sleeve and deploys in seconds — unmatched for commuters who carry a stand daily. The fabric hinge flexes visibly under Apple Pencil drawing pressure, so Procreate users should look elsewhere.",
+      "pros": ["280 g and 8 mm thin when folded", "7 angle stops from 25° to 60°", "Doubles as a laptop riser for dual-device users"],
+      "cons": ["Fabric hinge visibly flexes under heavy Apple Pencil drawing pressure", "Fabric pilling at hinge fold after 12–18 months of daily transport"],
+      "grade": "A",
+      "specs": {"Weight": "280 g", "Folded thickness": "8 mm", "Angle stops": "7 (25°–60°)", "Material": "Origami fabric + hinge", "Price": "¥8,980", "Target use": "Portable, laptop + tablet"},
+      "scores": {"Stability": 3.2, "Angle range": 4.0, "Build quality": 3.8, "Value": 4.0, "Portability": 5.0}
+    },
+    {
+      "offerId": "lamicall-tablet-stand",
+      "badge": "Best Value",
+      "review": "The Lamicall is the no-nonsense budget pick: solid aluminum, fits any tablet from 4 to 13 inches, and holds iPad Pro 12.9 at a fixed angle without sliding. Portrait-to-landscape requires lifting and re-cradling rather than rotating, and the friction hinge can drift over long video calls after 12–18 months of wear.",
+      "pros": ["Fits tablets and phones from 4 to 13 inches", "Silicone cradle pads prevent scratching", "270° tilt range covers every practical desk angle"],
+      "cons": ["Single-axis tilt only — no swivel or height adjustment", "Friction hinge drifts gradually after 12–18 months of use"],
+      "grade": "B+",
+      "specs": {"Compatibility": "4–13 inch tablets and phones", "Hinge type": "Single-axis friction", "Tilt range": "270°", "Material": "Aluminum + silicone pads", "Price range": "¥1,680–2,480", "Portability": "Desk fixture"},
+      "scores": {"Stability": 4.2, "Angle range": 3.8, "Build quality": 4.0, "Value": 4.9, "Portability": 2.8}
+    },
+    {
+      "offerId": "uperfect-tablet-floor-stand",
+      "badge": "Best for Bed Viewing",
+      "review": "The UPERFECT is the only pick in this group that puts a tablet above a bed or sofa — its 90–150 cm column with gooseneck arm solves the hands-free viewing problem desk stands cannot. At full 150 cm extension with an iPad Pro 12.9, any bed movement triggers a 5–10 second oscillation; keep the column under 120 cm and use a lighter tablet to minimize this.",
+      "pros": ["90–150 cm column reaches bed and sofa height", "Gooseneck arm positions tablet above face or recipe surface", "Weighted base handles up to 12.9-inch tablets via spring clamp"],
+      "cons": ["Gooseneck wobbles for 5–10 seconds after any bump at full 150 cm extension", "35–40 cm floor footprint is awkward in small Japanese bedrooms"],
+      "grade": "B",
+      "specs": {"Column range": "90–150 cm", "Arm type": "Gooseneck", "Tablet fit": "4.7–12.9 inch via spring clamp", "Base footprint": "~35–40 cm", "Price range": "¥5,980–8,980", "Target use": "Bed / sofa hands-free"},
+      "scores": {"Stability": 3.0, "Angle range": 4.5, "Build quality": 3.5, "Value": 4.1, "Portability": 1.5}
+    },
+    {
+      "offerId": "twelve-south-hoverbar-duo",
+      "badge": "Best Desk Arm",
+      "review": "The HoverBar Duo's spring-tensioned articulating arm swings the iPad anywhere within a 35 cm sphere of the desk edge and holds position without friction-hinge drift — ideal for users who constantly switch between typing and reading. Many Japanese desks have an apron skirt that blocks the clamp throat; measure yours before ordering.",
+      "pros": ["Spring-tensioned articulation holds angle without drift", "35 cm swing reach covers typing and reading positions", "Weighted desk-base included for non-clampable surfaces"],
+      "cons": ["Clamp requires 0–50 mm desk edge — Japanese desks with aprons often fail this check", "iPad-focused magnetic plate requires third-party adapter for Android and older iPad Mini"],
+      "grade": "B-",
+      "specs": {"Mount type": "Screw clamp (0–50 mm) or weighted desk base", "Arm reach": "35 cm", "Tensioning": "Spring", "Compatibility": "iPad Pro / Air (magnetic); others need adapter", "Price range": "¥11,800–13,800", "Target use": "Desk articulating arm"},
+      "scores": {"Stability": 4.6, "Angle range": 4.9, "Build quality": 4.7, "Value": 3.5, "Portability": 1.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For iPad Pro power users", "offerId": "lululook-ipad-stand", "reason": "Magnetic dock, instant rotation, and weighted aluminum base handle the full iPad Pro 12.9 + Magic Keyboard load on a desk all day."},
+    {"label": "For daily commuters", "offerId": "moft-float-stand", "reason": "8 mm folded thickness slides into any laptop sleeve and the 280 g weight disappears in a bag."},
+    {"label": "For budget desk setups", "offerId": "lamicall-tablet-stand", "reason": "Fits any tablet from 4 to 13 inches at under ¥2,500 — the practical starting point for a desk tablet stand."},
+    {"label": "For bed and sofa viewing", "offerId": "uperfect-tablet-floor-stand", "reason": "The only option in this group that reaches bed height and holds the tablet above your face hands-free."},
+    {"label": "For multi-position desk work", "offerId": "twelve-south-hoverbar-duo", "reason": "Spring-tensioned arm swings from typing to reading position instantly with no hinge drift over time."}
+  ]
 }

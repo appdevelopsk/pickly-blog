@@ -93,5 +93,64 @@
     "bokksu-subscription": "Best Japanese snack subscription — 20-25 items in Classic tier ($49/month) sourced from Japanese family producers, many with limited outside-Japan distribution. Producer-focused culture guide. Best for people with specific interest in Japanese food culture. Limitation: traditional flavors (matcha, red bean, black sesame) require acquired taste; shorter cancellation window (24 hrs before ship date)."
   },
   "pinDescription": "5 snack subscription boxes compared for 2026: SnackCrate vs Universal Yums vs Graze vs Mouth vs Bokksu. International variety, value per snack, dietary options — find the box worth opening every month.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each subscription was evaluated on actual snack sourcing authenticity (retail products vs. export-market reformulations), per-snack cost across all tiers, dietary restriction accommodation depth, cancellation policy transparency, and subscriber renewal rate patterns from public review aggregators.",
+  "products": [
+    {
+      "offerId": "snackcrate-subscription",
+      "badge": "Best Overall",
+      "review": "SnackCrate delivers actual retail products sold to locals in the featured country — the same bags you'd find in a Lawson or convenience store there, not export-market approximations. At ~$30 per month for 10 full-size snacks, it offers the best per-snack value among the authenticity-focused international boxes. The culture card is thin compared to Universal Yums' booklet.",
+      "pros": ["Authentic retail products in original packaging from each country", "10 full-size snacks at ~$30/month including shipping", "Diverse country rotation with wide regional coverage"],
+      "cons": ["Culture card is brief — less educational context than Universal Yums"],
+      "grade": "A+",
+      "specs": {"Price": "~$30/month (Standard)", "Snacks per box": "10 full-size", "Country focus": "Rotating globally", "Dietary options": "Limited filtering", "Cancel window": "5 days before billing", "Gift option": "Yes"},
+      "scores": {"Variety": 4.8, "Snack quality": 4.5, "Value": 4.7, "Customization": 3.0, "Packaging": 4.2}
+    },
+    {
+      "offerId": "universal-yums-subscription",
+      "badge": "Best Educational Experience",
+      "review": "Universal Yums pairs authentic international snacks with a 12-page trivia booklet that makes each box a genuine geography lesson — the reason families with kids rate it so highly. The tiered pricing ($14-$40) scales well per item at the Yummier and Yummiest tiers. The honest limitation: you cannot choose which country ships next, and the rotation is fixed by Universal Yums' editorial calendar.",
+      "pros": ["12-page trivia booklet covers food culture, history, and geography", "Tiered pricing from $14-$40 fits different household snacking volumes", "Vegetarian filter available at signup"],
+      "cons": ["No country selection — rotation is fixed by editorial calendar"],
+      "grade": "A",
+      "specs": {"Price": "$14–$40/month (3 tiers)", "Snacks per box": "6–20+ depending on tier", "Country focus": "Rotating globally", "Dietary options": "Vegetarian filter", "Cancel window": "5 days before billing", "Gift option": "Yes (prepaid 3/6/12 month)"},
+      "scores": {"Variety": 4.9, "Snack quality": 4.3, "Value": 4.5, "Customization": 3.2, "Packaging": 4.7}
+    },
+    {
+      "offerId": "graze-snack-subscription",
+      "badge": "Best for Health-Conscious Snackers",
+      "review": "Graze is the only subscription in this comparison designed around nutritional goals rather than discovery — 9 snacks per box at ~$13/month, each nutritionist-designed with explicit allergen labeling and a dedicated vegan box option. The per-portion calorie control removes the willpower tax of eating from an open family-size bag. No international flair and no artisan story — the value proposition is purely functional.",
+      "pros": ["Nutritionist-designed snacks with explicit allergen labeling", "Dedicated vegan box available", "Preference management system — mark items like/try/trash"],
+      "cons": ["No international sourcing — all Graze-designed products in branded packaging"],
+      "grade": "B+",
+      "specs": {"Price": "~$13/month", "Snacks per box": "9 (controlled portions)", "Country focus": "N/A — Graze-designed", "Dietary options": "Vegan box, allergen labels", "Cancel window": "Any time", "Gift option": "Limited"},
+      "scores": {"Variety": 3.5, "Snack quality": 4.0, "Value": 4.8, "Customization": 4.5, "Packaging": 3.8}
+    },
+    {
+      "offerId": "mouth-snack-subscription",
+      "badge": "Best Artisan Sourcing",
+      "review": "Mouth curates from small-batch American producers — the kettle corn from an Iowa operation with a six-month waitlist, the single-origin chocolate from a California bean-to-bar maker — with producer story inserts for each item. At $40-45/month for 6-8 full-size or large-format items, the per-snack cost is highest in this comparison. The selection skews toward shelf-stable ambient formats rather than chips or candy.",
+      "pros": ["Every snack sources from verified small-batch American producers", "Producer story inserts turn each item into a relationship with a maker", "Vegetarian and vegan filters available at account level"],
+      "cons": ["Highest per-box cost in this comparison — hard to justify without interest in artisan sourcing"],
+      "grade": "B",
+      "specs": {"Price": "$40–$45/month", "Snacks per box": "6–8 full-size", "Country focus": "USA artisan only", "Dietary options": "Vegetarian, vegan, gluten-free filter", "Cancel window": "Skip any month", "Gift option": "Yes"},
+      "scores": {"Variety": 3.8, "Snack quality": 4.8, "Value": 3.2, "Customization": 4.0, "Packaging": 4.5}
+    },
+    {
+      "offerId": "bokksu-subscription",
+      "badge": "Best Japanese Snack Specialist",
+      "review": "Bokksu sources directly from Japanese family producers, many with limited or no distribution outside Japan, and adds producer-focused culture notes rather than general country trivia. Classic tier ($49/month) delivers 20-25 items including seasonal sweets and a tea pairing. Traditional Japanese confectionery — matcha, red bean, black sesame — requires acquired taste, and the 24-hour pre-ship cancellation window demands calendar management.",
+      "pros": ["Sourced from Japanese family producers with limited outside-Japan distribution", "20-25 items per Classic box including seasonal sweets and tea pairing", "Producer-focused culture guide goes deeper than country trivia"],
+      "cons": ["24-hour cancellation window before ship date — shortest among competitors"],
+      "grade": "B-",
+      "specs": {"Price": "$29–$49/month (2 tiers)", "Snacks per box": "12–14 (Tasting) or 20–25 (Classic)", "Country focus": "Japan only", "Dietary options": "Vegan flagged in guide", "Cancel window": "24 hours before ship", "Gift option": "Yes (annual plans)"},
+      "scores": {"Variety": 4.0, "Snack quality": 4.6, "Value": 3.5, "Customization": 2.8, "Packaging": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For families who want to eat their way around the world", "offerId": "universal-yums-subscription", "reason": "The 12-page trivia booklet turns snack time into a dinner-table geography lesson — kids engage with the cultural context, not just the snacks."},
+    {"label": "For pure snack discovery without the reading", "offerId": "snackcrate-subscription", "reason": "Same authenticity as Universal Yums — real retail products from each country — with more of the budget going toward snacks and less toward editorial packaging."},
+    {"label": "For health-conscious snackers", "offerId": "graze-snack-subscription", "reason": "Nutritionist-designed portions with full allergen transparency and a dedicated vegan option — the only subscription built around nutritional goals rather than discovery."},
+    {"label": "For food culture enthusiasts", "offerId": "mouth-snack-subscription", "reason": "Each box introduces small-batch American producers you'd never find at Whole Foods, and the producer story inserts make it genuinely educational about food craft."},
+    {"label": "For Japan food culture explorers", "offerId": "bokksu-subscription", "reason": "Direct sourcing from Japanese family producers gives you access to wagashi and regional specialties that have no meaningful distribution anywhere outside Japan."}
+  ]
 }

@@ -108,5 +108,64 @@
     "fellow-stagg-ekg": "Referencia de hervidor de cuello de ganso eléctrico de precisión para café de goteo — Fellow Stagg EKG hervidor eléctrico de 0,9 L con mango contrarrestado, dial de temperatura continuo (aproximadamente 60-100°C), mantenimiento de calor de 60 minutos, acabado negro mate. Precio de importación de ¥165+; la disponibilidad en minoristas japoneses es inconsistente con desabastecimientos ocasionales de varias semanas."
   },
   "pinDescription": "Cinco hervidores comparados en 2026 — desde el icono de diseño Balmuda The Pot de ¥15.000 (600 ml, sin control de temperatura, pero impresionante en un estante de cocina) hasta la referencia de precisión de café de goteo Fellow Stagg EKG. Cuello de ganso vs boca ancha explicados honestamente, temperatura para té verde y café, capacidad para 1-4 personas. #hervidor #cafédeespecia #preparacióndetéhttps #cocina2026 #español",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Cada hervidor fue evaluado en el tipo de pico y control del arco de vertido para uso en pour-over y ceremonia del té, precisión del control de temperatura para extracción de té verde y café, adecuación de la capacidad para hogares de 1 a 4 personas y vida útil realista basada en los modos de fallo dominantes de las reseñas de propietarios a largo plazo.",
+  "products": [
+    {
+      "offerId": "fellow-stagg-ekg",
+      "badge": "Mejor en General",
+      "review": "El asa equilibrada y el dial de temperatura continuo del Fellow Stagg EKG lo convierten en el hervidor pour-over más preciso de este grupo — establece 93 °C y mantenlo durante 60 minutos sin gestionar el fuego. La capacidad de 0,9 L es ajustada para infusiones consecutivas, y la disponibilidad en Japón fluctúa con agotamientos de stock de varias semanas.",
+      "pros": ["Dial de temperatura continuo de ~60 a 100 °C", "60 minutos de mantenimiento de temperatura para pour-over sin intervención manual", "Asa equilibrada permite un vertido lento y controlado por cuello de ganso"],
+      "cons": ["0,9 L requiere recarga a mitad de sesión para hogares que elaboran varias tazas", "El precio de importación en Japón es un 20-40% superior al MSRP de EE. UU. con agotamientos ocasionales"],
+      "grade": "A+",
+      "specs": {"Capacidad": "0,9 L", "Pico": "Cuello de ganso", "Control de temperatura": "Dial continuo ~60-100 °C", "Mantenimiento": "60 min", "Calentamiento": "Eléctrico", "Precio": "US$165+ (importación)"},
+      "scores": {"Velocidad de calentamiento": 4.3, "Control de temperatura": 5.0, "Calidad de construcción": 4.9, "Valor": 3.5, "Capacidad": 3.2}
+    },
+    {
+      "offerId": "balmuda-the-pot",
+      "badge": "Mejor Diseño",
+      "review": "El Balmuda The Pot es el hervidor más bonito de esta comparativa y es honesto sobre sus limitaciones — 600 ml, sin control de temperatura, sin mantenimiento, solo un cuello de ganso de acero inoxidable mate que luce perfectamente en la encimera de un apartamento en Tokio. Los ¥15.000 se pagan por el diseño, no por las especificaciones de elaboración.",
+      "pros": ["Diseño icónico de acero inoxidable mate que merece su espacio en la encimera", "Pico ultradelgado ofrece control razonable del arco de vertido", "Compatible con IH y gas sin componentes digitales que puedan fallar"],
+      "cons": ["600 ml apenas cubre dos tazas para hogares de más de dos personas", "Sin control de temperatura ni mantenimiento — requiere el método de hervir y esperar"],
+      "grade": "A",
+      "specs": {"Capacidad": "600 ml", "Pico": "Cuello de ganso ultradelgado", "Control de temperatura": "Ninguno", "Mantenimiento": "Ninguno", "Calentamiento": "IH/fogón de gas", "Precio": "~¥15.000"},
+      "scores": {"Velocidad de calentamiento": 3.8, "Control de temperatura": 1.0, "Calidad de construcción": 4.8, "Valor": 3.2, "Capacidad": 2.5}
+    },
+    {
+      "offerId": "hario-v60-buono-kettle",
+      "badge": "Mejor para Fogón",
+      "review": "El Hario V60 Drip Kettle Buono es el hervidor en el que se ha estandarizado la comunidad japonesa de pour-over — 1,2 L de acero inoxidable, cuello de ganso de precisión y un arco de vertido en el que el mundo del café de especialidad ha confiado durante más de una década. Sin mantenimiento eléctrico significa gestionar el quemador uno mismo, y el asa se calienta en las cocinas de gas más rápido de lo esperado.",
+      "pros": ["1,2 L cubre dos a tres dosis de pour-over sin recargar", "Arco de vertido de cuello de ganso probado para V60, Chemex y Kalita Wave", "Interior completamente de acero inoxidable, inerte y fácil de limpiar"],
+      "cons": ["Sin mantenimiento — requiere gestión del quemador durante una sesión de pour-over", "El asa se calienta en fogones de gas y necesita un guante después de uso prolongado"],
+      "grade": "B+",
+      "specs": {"Capacidad": "1,2 L", "Pico": "Cuello de ganso", "Control de temperatura": "Ninguno (solo control del fogón)", "Mantenimiento": "Ninguno", "Calentamiento": "IH/fogón de gas", "Precio": "~$65"},
+      "scores": {"Velocidad de calentamiento": 3.5, "Control de temperatura": 2.0, "Calidad de construcción": 4.5, "Valor": 4.7, "Capacidad": 4.2}
+    },
+    {
+      "offerId": "zojirushi-keep-warm-pot",
+      "badge": "Mejor para Agua Caliente Todo el Día",
+      "review": "El Zojirushi CV-GB22 no es un hervidor pour-over — es una estación de agua caliente. Llénalo una vez, establece una de las cuatro temperaturas (60/70/80/98 °C) y dispensa durante todo el día sin volver a hervir. El dispensador de bomba y el cierre de seguridad para niños lo hacen ideal para hogares que necesitan agua caliente continuamente, aunque ocupa considerable espacio en la encimera.",
+      "pros": ["Cuatro preajustes de temperatura (60/70/80/98 °C) para té verde, té negro y agua hirviendo", "Mantenimiento durante todo el día con re-hervido automático — sin recalentar manualmente", "Cierre de seguridad para niños y certificación PSE para uso permanente"],
+      "cons": ["Electrodoméstico estático de encimera — más voluminoso que cualquier hervidor convencional", "El mecanismo de bomba requiere descalcificación mensual a bimensual en zonas de agua dura"],
+      "grade": "B",
+      "specs": {"Capacidad": "2,2 L", "Pico": "Dispensador de bomba", "Ajustes de temperatura": "60/70/80/98 °C", "Mantenimiento": "Todo el día (re-hervido automático)", "Calentamiento": "Eléctrico", "Precio": "¥6.578"},
+      "scores": {"Velocidad de calentamiento": 3.0, "Control de temperatura": 4.5, "Calidad de construcción": 4.6, "Valor": 4.8, "Capacidad": 5.0}
+    },
+    {
+      "offerId": "delonghi-icona-vintage-kettle",
+      "badge": "Mejor para Hogares Grandes",
+      "review": "El De'Longhi Icona Vintage hierve 1,7 L rápidamente, tiene base giratoria 360° sin cable y luce bien en una cocina de estilo mid-century. Es la opción directa para hogares de tres o cuatro personas que quieren hervido rápido y pico amplio — solo que no para café pour-over ni té de precisión.",
+      "pros": ["1,7 L cubre cuatro tazas en una sola carga", "Base giratoria 360° sin cable y pico ancho antigoteo", "Hervido rápido con apagado automático"],
+      "cons": ["El pico ancho es demasiado rápido para café pour-over o preparaciones de precisión", "Pesado lleno (~2,5 kg); el interior de plástico acumula cal más rápido en zonas de agua dura"],
+      "grade": "B-",
+      "specs": {"Capacidad": "1,7 L", "Pico": "Ancho (antigoteo)", "Control de temperatura": "Ninguno", "Mantenimiento": "Ninguno", "Calentamiento": "Eléctrico 360° sin cable", "Precio": "$89,99"},
+      "scores": {"Velocidad de calentamiento": 4.8, "Control de temperatura": 1.0, "Calidad de construcción": 3.8, "Valor": 4.0, "Capacidad": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para entusiastas del café pour-over", "offerId": "fellow-stagg-ekg", "reason": "El dial de temperatura continuo y los 60 minutos de mantenimiento permiten establecer 93 °C y mantenerlo durante toda una sesión de pour-over sin vigilar el fuego."},
+    {"label": "Para minimalistas con conciencia del diseño", "offerId": "balmuda-the-pot", "reason": "El cuello de ganso de acero inoxidable mate es el hervidor más fotogénico de esta comparativa — vale los ¥15.000 si la estética de la encimera importa."},
+    {"label": "Para elaboradores de pour-over en fogón", "offerId": "hario-v60-buono-kettle", "reason": "El hervidor de referencia de cuello de ganso de la comunidad japonesa de café de especialidad a una fracción del precio de las alternativas eléctricas — deja presupuesto para un mejor molino."},
+    {"label": "Para hogares con agua caliente todo el día", "offerId": "zojirushi-keep-warm-pot", "reason": "Llena una vez y ten cuatro opciones de temperatura listas todo el día — ideal cuando varias personas necesitan agua caliente en diferentes momentos del día."},
+    {"label": "Para familias de tres o cuatro personas", "offerId": "delonghi-icona-vintage-kettle", "reason": "1,7 L de hervido rápido cubre cuatro tazas en una carga sin recargar, a un precio directo para uso general de agua caliente."}
+  ]
 }

@@ -98,5 +98,179 @@
     "hoka-clifton-9": "恢复和长跑款——38mm后掌堆高、4mm落差、弧形几何减少踝关节活动范围需求。低落差对小腿和跟腱负荷远高于高落差替代品——后跟着地者需要2-3周适应；最大堆高产生漂浮感，部分跑者在较快跑步中感到迷失方向；日本宽版供应有限。"
   },
   "pinDescription": "2026年五款跑鞋——Nike Pegasus 41、Asics Gel-Kayano 31、Brooks Ghost 16、New Balance 880v14和Hoka Clifton 9——从缓震、稳定性、落差、日本脚型宽版选项，以及泡棉失效前跑量对比。#简体中文",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "nike-pegasus-41",
+      "badge": "综合最佳选择",
+      "review": "飞马41是全能日常训练鞋：React泡棉在轻松跑和配速训练中提供充足活力，10mm落差适合大多数后跟着地者。弱点：前掌较窄，日本宽版供应有限。",
+      "pros": [
+        "适用于轻松跑、配速跑和短距离比赛",
+        "React泡棉配Air Zoom气垫增加响应性",
+        "10mm落差适合大多数后跟着地者"
+      ],
+      "cons": [
+        "前掌较窄——日本宽版供应有限"
+      ],
+      "grade": "A+",
+      "specs": {
+        "中底": "React + Air Zoom",
+        "落差": "10 mm",
+        "重量": "~270 g (27cm)",
+        "后跟/前掌堆高": "~29/19 mm",
+        "外底": "吹制橡胶",
+        "价格": "~¥16,000"
+      },
+      "scores": {
+        "Cushioning": 4.2,
+        "Stability": 3.5,
+        "Durability": 4.0,
+        "Value": 4.5,
+        "Fit": 3.8
+      }
+    },
+    {
+      "offerId": "asics-gel-kayano-31",
+      "badge": "最佳稳定性",
+      "review": "如果步态分析或受伤史确认过度内旋，卡亚诺31是正确选择——LITETRUSS内侧支柱提供此比较中最强的足弓支撑，日本楦型针对较宽的日本人前掌校准。代价是重量：310g/只是本组最重的。",
+      "pros": [
+        "LITETRUSS内侧支柱——这里最强的足弓支撑",
+        "日本楦型适合较宽的日本人前掌",
+        "FF Blast+ Eco经证实的抗压缩性"
+      ],
+      "cons": [
+        "比较中最重的鞋——310g/只"
+      ],
+      "grade": "A",
+      "specs": {
+        "中底": "FF Blast+ Eco + LITETRUSS",
+        "落差": "10 mm",
+        "重量": "~310 g (27cm)",
+        "稳定性": "LITETRUSS内侧支柱",
+        "宽版": "日本有售",
+        "价格": "~¥22,000"
+      },
+      "scores": {
+        "Cushioning": 4.0,
+        "Stability": 5.0,
+        "Durability": 4.3,
+        "Value": 3.5,
+        "Fit": 4.5
+      }
+    },
+    {
+      "offerId": "brooks-ghost-16",
+      "badge": "最佳宽脚选择",
+      "review": "鬼魂16在此比较中拥有最宽的前掌空间，也是乐天上2E宽版供应最好的——对许多脚宽的日本跑者有实质优势。DNA Loft v2泡棉提供轻松跑步所需的柔软缓震。对配速训练来说太软，后跟护帮在磨合期间可能导致一些人的跟腱不适。",
+      "pros": [
+        "日本最宽的前掌空间和最佳2E供应",
+        "DNA Loft v2泡棉在轻松跑中表现出色",
+        "良好的外底橡胶覆盖率适合沥青路面"
+      ],
+      "cons": [
+        "对配速训练或短距离比赛而言太软太重"
+      ],
+      "grade": "B+",
+      "specs": {
+        "中底": "DNA Loft v2",
+        "落差": "12 mm",
+        "重量": "~281 g (27cm)",
+        "宽版": "乐天有2E库存",
+        "外底": "良好橡胶覆盖",
+        "价格": "~¥16,500"
+      },
+      "scores": {
+        "Cushioning": 4.3,
+        "Stability": 3.2,
+        "Durability": 4.2,
+        "Value": 4.3,
+        "Fit": 4.6
+      }
+    },
+    {
+      "offerId": "new-balance-880v14",
+      "badge": "高里程最佳",
+      "review": "对于每周跑50km以上的跑者，880v14的Fresh Foam X中底比中等厚度选项更好地吸收长训练周的累积负荷。多种宽度选项（B/D/2E）提供此比较中最佳的尺寸灵活性。泡棉压缩更快——650~750km后开始明显。",
+      "pros": [
+        "Fresh Foam X能很好吸收高周里程",
+        "B/D/2E宽度——比较中最佳尺寸选项",
+        "880版本间保持一致的合脚性"
+      ],
+      "cons": [
+        "泡棉压缩更快：650~750km vs 更硬泡棉的800+"
+      ],
+      "grade": "B",
+      "specs": {
+        "中底": "Fresh Foam X",
+        "落差": "8 mm",
+        "重量": "~295 g (27cm)",
+        "宽度": "B, D, 2E",
+        "目标用途": "每周50+ km",
+        "价格": "~¥17,000"
+      },
+      "scores": {
+        "Cushioning": 4.5,
+        "Stability": 3.3,
+        "Durability": 3.8,
+        "Value": 4.2,
+        "Fit": 4.4
+      }
+    },
+    {
+      "offerId": "hoka-clifton-9",
+      "badge": "最佳恢复跑鞋",
+      "review": "克利夫顿9的38mm后跟堆高和元摇杆几何结构是此组中恢复日和长跑的最强选择——几何结构减少每步踝关节活动幅度需求，降低小腿和跟腱的离心负荷。4mm落差需要后跟着地者2~3周适应期。",
+      "pros": [
+        "38mm后跟堆高——最大冲击吸收",
+        "元摇杆几何结构减少小腿/跟腱负荷",
+        "CMEVA泡棉在耐久性上优于廉价EVA"
+      ],
+      "cons": [
+        "4mm落差需要后跟着地者2~3周适应"
+      ],
+      "grade": "B-",
+      "specs": {
+        "中底": "CMEVA",
+        "堆高": "后跟38mm / 前掌34mm",
+        "落差": "4 mm",
+        "重量": "~255 g (27cm)",
+        "宽版": "日本供应有限",
+        "价格": "~¥19,000"
+      },
+      "scores": {
+        "Cushioning": 5.0,
+        "Stability": 3.0,
+        "Durability": 3.7,
+        "Value": 3.8,
+        "Fit": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "中立足型日常跑者",
+      "offerId": "nike-pegasus-41",
+      "reason": "React的多功能性和10mm落差在不需要第二双鞋的情况下处理每周30~50km的混合训练配速。"
+    },
+    {
+      "label": "有受伤史的过度内旋跑者",
+      "offerId": "asics-gel-kayano-31",
+      "reason": "LITETRUSS支柱和日本楦型提供防止过度内旋引起的内侧胫骨和跖筋膜问题所需的足弓支撑和宽度。"
+    },
+    {
+      "label": "脚宽跑者",
+      "offerId": "brooks-ghost-16",
+      "reason": "日本最佳2E供应与最宽的前掌空间的结合——没有其他鞋在乐天上让宽版适配如此容易获取。"
+    },
+    {
+      "label": "马拉松训练",
+      "offerId": "new-balance-880v14",
+      "reason": "Fresh Foam X和B/D/2E宽度选项比更窄或更硬的替代品更好地处理马拉松训练周期的累积负荷。"
+    },
+    {
+      "label": "恢复日和慢速长跑",
+      "offerId": "hoka-clifton-9",
+      "reason": "元摇杆几何结构和最大堆高降低每步的小腿需求——最好与更有反应性的鞋配合用于高质量训练。"
+    }
+  ]
 }

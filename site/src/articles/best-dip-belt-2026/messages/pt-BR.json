@@ -77,5 +77,64 @@
     "mummyfit-dip-belt": "Opção econômica de neoprene, corrente de 36\""
   },
   "pinDescription": "Estes 5 cintos de paralelas cobrem cada nível de treinamento — dos seus primeiros 10 kg até trabalho sério de dominadas e paralelas com carga. Couro, neoprene ou nylon econômico — isso é o que realmente aguenta #paralelas #dominadas #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada cinto foi avaliado pelo comprimento da corrente, calibre do hardware, conforto do material de acolchoamento sob carga, capacidade de peso e durabilidade de longo prazo baseada na construção do material — não nas alegações da marca.",
+  "products": [
+    {
+      "offerId": "rogue-dip-belt",
+      "badge": "Melhor no geral",
+      "review": "Fabricado nos EUA com correia de nylon 10mm, almofada de couro de 7,5cm e mosquetão certificado. Sob cargas pesadas — 40 kg e mais — o couro distribui a carga pelos ossos do quadril em vez de pressionar, e o hardware mantém a forma. Durabilidade real: costuras e corrente superam cintos baratos por anos.",
+      "pros": ["Fabricado nos EUA, dupla costura em todos os pontos de tensão", "Almofada de couro molda ao corpo com o tempo", "Mosquetão certificado resiste a cargas pesadas sem deformar"],
+      "cons": ["O couro é rígido nas primeiras sessões até amolecer"],
+      "grade": "A+",
+      "specs": {"Material": "Correia nylon 10mm + almofada couro", "Comprimento corrente": "61cm aço", "Largura almofada": "7,5cm", "Hardware": "Mosquetão aço certificado", "Origem": "EUA"},
+      "scores": {"Qualidade construção": 5.0, "Durabilidade": 5.0, "Conforto": 4.5, "Capacidade carga": 5.0, "Custo-benefício": 4.0}
+    },
+    {
+      "offerId": "dark-iron-fitness-dip-belt",
+      "badge": "Melhor couro econômico",
+      "review": "Couro genuíno com almofada de 15cm — mais larga que a Rogue — tornando as paralelas com peso particularmente mais confortáveis. A corrente de 76cm encaixa em anilhas olímpicas padrão, capacidade 136 kg. Desvantagem: 2–3 semanas de uso regular para amolecer completamente.",
+      "pros": ["Almofada de couro 15cm mais larga que a maioria dos concorrentes", "Capacidade de 136 kg (300 lb)", "Molda melhor que nylon após período de adaptação"],
+      "cons": ["Rígido e levemente desconfortável nas primeiras sessões"],
+      "grade": "A",
+      "specs": {"Material": "Couro genuíno", "Comprimento corrente": "76cm aço", "Largura almofada": "15cm", "Capacidade": "136 kg", "Preço": "~$30"},
+      "scores": {"Qualidade construção": 4.2, "Durabilidade": 4.5, "Conforto": 4.3, "Capacidade carga": 4.8, "Custo-benefício": 4.8}
+    },
+    {
+      "offerId": "harbinger-dip-belt",
+      "badge": "Melhor econômico",
+      "review": "Correia de polipropileno resistente com corrente de aço de 76cm — o padrão de fato nas academias. Funciona sem problemas para 10–35 kg de peso adicionado. O anel de aço é notavelmente mais forte que os anéis estampados de cintos baratos.",
+      "pros": ["Usado na maioria das academias comerciais — histórico comprovado", "Anel de aço notavelmente mais forte que estampados de baixo custo", "Ponto de entrada razoável a ~$25"],
+      "cons": ["O polipropileno é menos confortável que o couro sob carga pesada"],
+      "grade": "B+",
+      "specs": {"Material": "Correia polipropileno", "Comprimento corrente": "76cm aço", "Preço": "~$40", "Melhor para": "10–35 kg de peso adicional"},
+      "scores": {"Qualidade construção": 3.8, "Durabilidade": 4.0, "Conforto": 3.5, "Capacidade carga": 4.0, "Custo-benefício": 5.0}
+    },
+    {
+      "offerId": "fire-team-fit-dip-belt",
+      "badge": "Mais confortável",
+      "review": "O neoprene é macio desde o primeiro dia — sem período de adaptação. O fecho de liberação rápida acelera as mudanças entre séries. A corrente de 91cm é a mais longa, com espaço para anilhas bumper grossas. O neoprene absorve suor, requer enxague ocasional.",
+      "pros": ["Neoprene macio desde o primeiro uso — sem adaptação", "Fecho de liberação rápida para transições rápidas entre séries", "Corrente 91cm para anilhas bumper grossas"],
+      "cons": ["Neoprene absorbe suor; enxague ocasional necessário"],
+      "grade": "B",
+      "specs": {"Material": "Neoprene", "Comprimento corrente": "91cm aço", "Largura almofada": "10cm", "Capacidade": "136 kg", "Preço": "~$56"},
+      "scores": {"Qualidade construção": 4.0, "Durabilidade": 3.8, "Conforto": 4.8, "Capacidade carga": 4.5, "Custo-benefício": 4.3}
+    },
+    {
+      "offerId": "mummyfit-dip-belt",
+      "badge": "Melhor custo-benefício",
+      "review": "Neoprene econômico com corrente de 91cm — mesmo comprimento que o Fire Team Fit pela metade do preço. Hardware mais leve, não ideal para mais de 60 kg. Para iniciantes ou para testar paralelas com peso, é uma entrada sem risco.",
+      "pros": ["Corrente 91cm por menos de $30", "Neoprene macio desde o primeiro dia", "Entrada sem risco financeiro para paralelas com peso"],
+      "cons": ["Hardware mais leve — não ideal para mais de 60 kg de peso adicional"],
+      "grade": "B-",
+      "specs": {"Material": "Neoprene", "Comprimento corrente": "91cm aço", "Preço": "~$25", "Melhor para": "Iniciantes, menos de 45 kg adicionados"},
+      "scores": {"Qualidade construção": 3.3, "Durabilidade": 3.5, "Conforto": 4.2, "Capacidade carga": 3.5, "Custo-benefício": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para praticantes com 40+ kg de carga adicional", "offerId": "rogue-dip-belt", "reason": "Hardware americano e couro que não deformam sob cargas elevadas"},
+    {"label": "Para conforto em couro com orçamento reduzido", "offerId": "dark-iron-fitness-dip-belt", "reason": "Almofada 15cm mais larga que a Rogue e pela metade do preço"},
+    {"label": "Para iniciantes testando paralelas com peso", "offerId": "harbinger-dip-belt", "reason": "O padrão das academias comerciais a ~$25 — teste antes de investir"},
+    {"label": "Para transições rápidas entre séries", "offerId": "fire-team-fit-dip-belt", "reason": "Fecho de liberação rápida e neoprene macio desde o primeiro dia"},
+    {"label": "Para o preço de entrada mais baixo", "offerId": "mummyfit-dip-belt", "reason": "Corrente 91cm por menos de $30 — perda mínima se paralelas com peso não são para você"}
+  ]
 }

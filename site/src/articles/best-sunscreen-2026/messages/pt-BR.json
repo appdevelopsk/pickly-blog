@@ -110,5 +110,184 @@
     "skin-aqua-tone-up-lavender": "Protetor solar tintado com correção de cor da Rohto, SPF50+ PA++++. O pigmento lavanda neutraliza subtom amarelo e opaco em complexões asiáticas do leste, produzindo um efeito de correção de tom de pele iluminador que tornou este produto uma recomendação viral nas comunidades de skincare japonesas e coreanas. Disponível em drogarias japonesas e Rakuten por menos de ¥1.000 por 80g. O tinte lavanda que cria brilho em complexões claras asiáticas do leste (Fitzpatrick I-III) aparece como um filme roxo-acinzentado visível em tons de pele médios a escuros (Fitzpatrick IV+), tornando esta fórmula ativamente inadequada para uma parcela significativa de potenciais compradores."
   },
   "pinDescription": "5 protetores solares comparados para o verão 2026 — do padrão ouro japonês à prova de suor da Anessa ao bloqueio UVA ultralong 400nm da La Roche-Posay. SPF50+ vs SPF46. Efeito branco por tom de pele — análise honesta. PA++++ vs o novo PA5+. As incomparáveis fórmulas de drogaria japonesas explicadas #proteçãosolar #spf50 #skincarejapones #verão2026 #português",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "Cada protetor solar foi avaliado pela classificação de proteção SPF e PA, a textura e seu impacto real na conformidade de aplicação diária, a resistência à água para esporte e uso ao ar livre, o valor por grama de produto na quantidade de aplicação recomendada e a sensação na pele em uma variedade de tons de pele — com deduções explícitas de pontuação para cast branco em tons de pele Fitzpatrick IV+.",
+  "products": [
+    {
+      "offerId": "anessa-perfect-uv-spf50",
+      "badge": "Melhor para Esporte ao Ar Livre",
+      "review": "A fórmula Smart Response da Anessa se fortalece ao contato com suor ou água, formando um filme mais resistente à água — o melhor protetor solar para esporte ao ar livre desta comparação. O cast branco em tons de pele mais escuros e a ardência nos olhos durante transpiração intensa são limitações reais, e o double cleansing é necessário para remoção completa.",
+      "pros": [
+        "A fórmula Smart Response aumenta a resistência à água ao contato com suor — nenhum outro produto aqui faz isso",
+        "SPF50+ PA++++ é o nível de proteção combinada mais alto desta comparação",
+        "Amplamente disponível em drogarias japonesas e online para reposição confiável"
+      ],
+      "cons": [
+        "Cast branco visível em tons de pele Fitzpatrick IV+; requer double cleansing; pode irritar os olhos durante esporte intenso"
+      ],
+      "grade": "A+",
+      "specs": {
+        "SPF": "SPF50+",
+        "PA rating": "PA++++",
+        "Water resistance": "Yes (Smart Response)",
+        "Formula type": "Hybrid chemical + physical",
+        "Volume": "60 ml",
+        "White cast": "Mild on light tones, visible on deeper tones",
+        "Price": "¥3,058"
+      },
+      "scores": {
+        "SPF protection": 5.0,
+        "Texture": 4.0,
+        "Water resistance": 4.9,
+        "Value": 3.9,
+        "Skin feel": 3.8
+      }
+    },
+    {
+      "offerId": "la-roche-posay-anthelios-uvmune",
+      "badge": "Melhor Cobertura UVA",
+      "review": "O filtro Mexoryl 400 da La Roche-Posay é a única opção desta comparação que bloqueia UVA de onda ultra-longa até 400 nm — significativo para prevenção de foto-envelhecimento e exposição UV através do vidro. A ~¥3.500 por 50 ml é a opção diária mais cara, e a textura é mais pesada do que as fórmulas aquosas japonesas.",
+      "pros": [
+        "Mexoryl 400 bloqueia UVA de onda ultra-longa (380–400 nm) que nenhum outro produto aqui cobre",
+        "Sem fragrância e testado para peles sensíveis — a melhor escolha para pele reativa preocupada com foto-envelhecimento",
+        "Padrão ouro dos dermatologistas europeus agora disponível via importação Rakuten Japão"
+      ],
+      "cons": [
+        "Mais cara a ~¥3.500 por 50 ml; mais pesada do que fórmulas japonesas; disponibilidade de importação no Rakuten varia"
+      ],
+      "grade": "A",
+      "specs": {
+        "SPF": "SPF50+",
+        "PA rating": "EU UVA circle (approx. PA++++)",
+        "Water resistance": "Moderate",
+        "Formula type": "Chemical (Mexoryl 400 + Mexoryl SX/XL)",
+        "Volume": "50 ml",
+        "White cast": "None",
+        "Price": "¥2,700–¥3,690"
+      },
+      "scores": {
+        "SPF protection": 5.0,
+        "Texture": 3.5,
+        "Water resistance": 3.8,
+        "Value": 3.2,
+        "Skin feel": 4.0
+      }
+    },
+    {
+      "offerId": "biore-uv-aqua-rich-essence",
+      "badge": "Melhor para Uso Diário",
+      "review": "Bioré UV Aqua Rich é o protetor solar mais fácil de aplicar diariamente — a textura de essência aquosa desaparece na pele sem esfarelar, combina sob qualquer maquiagem e custa menos de ¥1.000 por 70 g. PA++++, mas não é resistente à água; reaplicação necessária após nadar ou suar intensamente.",
+      "pros": [
+        "A textura de essência aquosa não se sente na pele — remove a barreira de aplicação para a conformidade diária com FPS",
+        "Menos de ¥1.000 por 70 g — a opção diária mais econômica de longe",
+        "Combina sob qualquer maquiagem sem esfarelar ou perturbar a base"
+      ],
+      "cons": [
+        "Não é resistente à água — inadequado como único protetor solar para natação ou suor intenso ao ar livre sem reaplicação"
+      ],
+      "grade": "B+",
+      "specs": {
+        "SPF": "SPF50+",
+        "PA rating": "PA++++",
+        "Water resistance": "None",
+        "Formula type": "Chemical (Japan-only UV filter blend)",
+        "Volume": "70 g",
+        "White cast": "None on most skin tones",
+        "Price": "¥1,000–¥1,280"
+      },
+      "scores": {
+        "SPF protection": 4.8,
+        "Texture": 5.0,
+        "Water resistance": 1.5,
+        "Value": 5.0,
+        "Skin feel": 4.9
+      }
+    },
+    {
+      "offerId": "eltamd-uv-clear-spf46",
+      "badge": "Melhor para Pele Propensa a Acne",
+      "review": "A combinação de 9% de óxido de zinco transparente e 5% de niacinamida do EltaMD UV Clear o torna o produto mais diferenciado dermatologicamente — a niacinamida nessa concentração tem evidências documentadas para reduzir lesões de acne e hiperpigmentação pós-inflamatória. SPF46 é a única hesitação legítima.",
+      "pros": [
+        "5% de niacinamida com evidências documentadas para redução de acne e hiperpigmentação além da proteção UV",
+        "Sem fragrância e sem óleo — o perfil de ingredientes mais seguro para pele propensa a acne e rosácea",
+        "Óxido de zinco transparente a 9% contribui para proteção física sem o cast branco completo das fórmulas minerais"
+      ],
+      "cons": [
+        "SPF46 está abaixo do padrão SPF50+ esperado no Japão e na UE; mais pesado do que fórmulas aquosas japonesas"
+      ],
+      "grade": "B",
+      "specs": {
+        "SPF": "SPF46",
+        "PA rating": "Not PA-rated (FDA methodology)",
+        "Water resistance": "Yes (FDA water-resistant 40 min)",
+        "Formula type": "Hybrid (9% zinc oxide + chemical)",
+        "Volume": "48 g",
+        "White cast": "Minimal to mild on deeper skin tones",
+        "Price": "$45"
+      },
+      "scores": {
+        "SPF protection": 4.2,
+        "Texture": 3.8,
+        "Water resistance": 4.2,
+        "Value": 3.5,
+        "Skin feel": 4.3
+      }
+    },
+    {
+      "offerId": "skin-aqua-tone-up-lavender",
+      "badge": "Melhor para Correção do Tom de Pele",
+      "review": "O pigmento lavanda do Skin Aqua neutraliza os subtons amarelos e opacos nos tons de pele do leste asiático — genuinamente iluminador para Fitzpatrick I–III. Nos tons Fitzpatrick IV+ o matiz aparece como cinza-roxo, tornando-o ativamente inadequado para tons de pele mais profundos. SPF50+ PA++++ por menos de ¥1.000.",
+      "pros": [
+        "A correção de pigmento lavanda produz um efeito luminoso em tons de pele do leste asiático mais claros",
+        "SPF50+ PA++++ por menos de ¥1.000 por 80 g — proteção competitiva a um preço muito baixo",
+        "A textura leve funciona como última etapa base sem adicionar peso à rotina de cuidados com a pele"
+      ],
+      "cons": [
+        "O matiz lavanda que ilumina tons de pele mais claros do leste asiático aparece como cinza-roxo em tons de pele Fitzpatrick IV+ — ativamente inadequado para tons de pele médios a profundos"
+      ],
+      "grade": "B-",
+      "specs": {
+        "SPF": "SPF50+",
+        "PA rating": "PA++++",
+        "Water resistance": "Mild",
+        "Formula type": "Chemical with color-correcting pigment",
+        "Volume": "80 g",
+        "White cast": "Purple-grey on Fitzpatrick IV+ tones",
+        "Price": "¥1,210"
+      },
+      "scores": {
+        "SPF protection": 4.8,
+        "Texture": 4.5,
+        "Water resistance": 2.0,
+        "Value": 4.9,
+        "Skin feel": 4.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para esporte ao ar livre, dias de praia e exposição UV sustentada",
+      "offerId": "anessa-perfect-uv-spf50",
+      "reason": "A resistência à água ativada pelo suor da fórmula Smart Response é o único mecanismo desta comparação que mantém a proteção durante atividade ao ar livre sustentada sem cronometragem perfeita de reaplicação."
+    },
+    {
+      "label": "Para prevenção de foto-envelhecimento e pele clara com longo histórico UV",
+      "offerId": "la-roche-posay-anthelios-uvmune",
+      "reason": "A cobertura UVA ultra-longa do Mexoryl 400 até 400 nm é uma vantagem de formulação que nenhum produto de drogaria japonesa pode atualmente replicar."
+    },
+    {
+      "label": "Para pendulares e usuários de maquiagem que pulam o FPS",
+      "offerId": "biore-uv-aqua-rich-essence",
+      "reason": "A textura de essência aquosa remove o atrito de aplicação que faz a maioria das pessoas pular o FPS diário — a melhoria de conformidade mais econômica desta comparação."
+    },
+    {
+      "label": "Para pele propensa a acne ou afetada por rosácea",
+      "offerId": "eltamd-uv-clear-spf46",
+      "reason": "Niacinamida a 5% de concentração tem evidências de nível ECR para redução de acne e hiperpigmentação — o único produto aqui que faz trabalho dermatológico real além da proteção UV."
+    },
+    {
+      "label": "Para tons de pele mais claros do leste asiático que querem uma base iluminadora",
+      "offerId": "skin-aqua-tone-up-lavender",
+      "reason": "A correção de pigmento lavanda em tons de pele Fitzpatrick I–III produz o efeito luminoso de dentro para fora ao menor preço de qualquer opção SPF50+ PA++++ desta comparação."
+    }
+  ]
 }

@@ -84,5 +84,64 @@
     "yes4all-parallettes": "Opção econômica em aço de 9 polegadas, pés de borracha, sólida para uso doméstico."
   },
   "pinDescription": "Barras de paralela classificadas para L-sits, paradas de mão e flexões profundas. Madeira vs aço vs PVC comparados — encontre a altura e o material certos para o seu nível de treino. #calistenia #paralelas #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada produto foi avaliado em cinco critérios: qualidade de construção, desempenho em uso típico, durabilidade ao longo do tempo, conforto e custo-benefício. Ponderamos desempenho e durabilidade com maior peso porque determinam se um produto ainda é útil 12 meses depois.",
+  "products": [
+    {
+      "offerId": "prosourcefit-parallettes",
+      "badge": "Melhores paralelas de madeira",
+      "review": "As paralelas de bétula de 9 polegadas da ProsourceFit ficam no ponto ideal entre as alças baixas de flexão e as barras completas de ginástica. A superfície de madeira aquece sob a palma e fornece textura de pegada natural que reduz a fadiga dos pulsos durante L-sits longos e progressões de flexão. A base larga resiste ao torque lateral quando os quadris se deslocam para fora da pegada durante os L-sits. Não ajustável em altura, o que mantém a construção rígida e confiável.",
+      "pros": ["Pegada de madeira quente reduz a fadiga dos pulsos em holds prolongados", "Base larga resiste ao torque lateral durante L-sits", "9 polegadas de altura permitem o espaço completo para os quadris no L-sit"],
+      "cons": ["Altura não ajustável", "A madeira pode rachar com armazenamento em umidade prolongada"],
+      "grade": "A+",
+      "specs": {"Material": "Trilhos de bétula", "Altura": "9 polegadas", "Base": "Larga para estabilidade lateral", "Ajuste de altura": "Não", "Preço": "$39.99"},
+      "scores": {"Qualidade de construção": 4.5, "Estabilidade": 4.8, "Conforto": 5.0, "Versatilidade": 4.0, "Custo-benefício": 5.0}
+    },
+    {
+      "offerId": "tumbl-trak-p-bars",
+      "badge": "Melhores com altura ajustável",
+      "review": "As barras PVC de ginástica Tumbl Trak são ajustáveis em altura — a função principal para atletas progredindo por níveis de habilidades onde a altura da barra muda diretamente a dificuldade do exercício. Útil para trabalho de descida de flexões em parada de mão onde a altura determina a profundidade. O PVC tem leve flexibilidade sob cargas pesadas; atletas acima de 80 kg em pressões máximas devem considerar o Rogue. Ideal para trabalho de peso corporal focado em habilidades em intensidade moderada.",
+      "pros": ["Ajustável em altura para requisitos de progressão de habilidades", "Flexibilidade do PVC absorve vibração do pulso em flexões rápidas", "Leve para uso compartilhado ou em viagem"],
+      "cons": ["Flexibilidade do PVC sob cargas pesadas — não para atletas acima de 80 kg em pressões máximas"],
+      "grade": "A",
+      "specs": {"Material": "PVC", "Altura": "Ajustável", "Ideal para": "Ginástica e progressões de habilidades", "Limite de peso": "Cargas moderadas (~80 kg)", "Preço": "$69.99"},
+      "scores": {"Qualidade de construção": 3.5, "Estabilidade": 3.8, "Conforto": 4.2, "Versatilidade": 4.8, "Custo-benefício": 4.5}
+    },
+    {
+      "offerId": "rogue-p3-parallettes",
+      "badge": "Melhores para press pesado",
+      "review": "As P-3 da Rogue são construídas para ambientes de academia onde o equipamento é usado duramente todos os dias. Construção de tubo de aço a 11 polegadas — duas polegadas mais alto que o padrão de 9 polegadas — amplia a profundidade dos mergulhos e o ROM para os negativos de flexão. Zero flexão lateral sob pressão pesada ou estáticos avançados como tentativas de straddle planche. O acabamento em pó aguenta magnésio e suor. Preço para atletas sérios e operadores de academia.",
+      "pros": ["Zero flexão sob pressão pesada e holds estáticos avançados", "11 polegadas ampliam a profundidade dos mergulhos e ROM além das barras padrão", "Durabilidade comercial para uso diário em academia"],
+      "cons": ["Preço premium — difícil de justificar para iniciantes", "11 polegadas pode ser alto demais para iniciantes começando do chão"],
+      "grade": "B+",
+      "specs": {"Material": "Tubo de aço, acabamento em pó", "Altura": "11 polegadas", "Flexão": "Zero sob carga", "Ideal para": "Calistenia avançada, ambientes de academia", "Preço": "$95"},
+      "scores": {"Qualidade de construção": 5.0, "Estabilidade": 5.0, "Conforto": 3.8, "Versatilidade": 4.5, "Custo-benefício": 3.2}
+    },
+    {
+      "offerId": "lebert-parallettes",
+      "badge": "Melhores paralelas baixas",
+      "review": "A 3 polegadas do chão, as paralelas Lebert são otimizadas para variações de flexão e condicionamento dos pulsos — não L-sits ou mergulhos, que requerem espaço para os quadris a esta altura. A posição próxima ao chão maximiza o ROM para trabalho em flexão sem as demandas de equilíbrio de barras mais altas. Muito portáteis, adequadas para treino em viagem e exercícios em apartamento.",
+      "pros": ["3 polegadas maximiza o ROM para variações de flexão", "Muito portáteis — cabem em uma bolsa para treinar em viagem", "Baixa exigência de pulso para atletas desenvolvendo força base"],
+      "cons": ["3 polegadas insuficiente para L-sits ou mergulhos corretos — os quadris não ficam acima do chão"],
+      "grade": "B",
+      "specs": {"Material": "Aço", "Altura": "3 polegadas", "Ideal para": "Variações de flexão, condicionamento de pulsos", "Portabilidade": "Alta — cabe em bolsa", "Preço": "$69.95"},
+      "scores": {"Qualidade de construção": 4.0, "Estabilidade": 4.2, "Conforto": 4.5, "Versatilidade": 2.5, "Custo-benefício": 4.8}
+    },
+    {
+      "offerId": "yes4all-parallettes",
+      "badge": "Melhor aço econômico",
+      "review": "Yes4All oferece construção em aço a um preço próximo aos sets de PVC econômico. A altura de 9 polegadas corresponde à ProsourceFit para as mesmas opções de exercício — L-sits, flexões com maior ROM, pike holds e trabalho básico de mergulhos. Os pés de borracha evitam o deslizamento em pisos lisos, o que importa em exercícios elevados ou invertidos. A leve flexão sob pressão muito pesada é o compromisso pelo menor preço em relação ao aço comercial.",
+      "pros": ["Construção de aço mais rígida que PVC a preço próximo ao econômico", "9 polegadas permitem o espaço completo para os quadris no L-sit", "Pés de borracha evitam deslizamento em superfícies lisas"],
+      "cons": ["Leve flexão sob pressão muito pesada", "Não tão rígido quanto o Rogue em holds estáticos avançados"],
+      "grade": "B-",
+      "specs": {"Material": "Tubo de aço", "Altura": "9 polegadas", "Pés": "Borracha antiderrapante", "Ideal para": "Calistenia doméstica intermediária", "Preço": "$39.99"},
+      "scores": {"Qualidade de construção": 3.8, "Estabilidade": 4.0, "Conforto": 3.8, "Versatilidade": 4.0, "Custo-benefício": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para treino focado em conforto", "offerId": "prosourcefit-parallettes", "reason": "A pegada de bétula reduz a fadiga dos pulsos em sessões longas de L-sit e holds de flexão"},
+    {"label": "Para progressões de habilidades", "offerId": "tumbl-trak-p-bars", "reason": "A altura ajustável permite mudar o espaço da barra à medida que as progressões de flexão em parada de mão e mergulhos avançam"},
+    {"label": "Para atletas sérios de calistenia", "offerId": "rogue-p3-parallettes", "reason": "Zero flexão sob straddle planches e mergulhos pesados — a única opção quando carga e precisão importam"},
+    {"label": "Para treino em viagem", "offerId": "lebert-parallettes", "reason": "As barras baixas de 3 polegadas cabem em uma bolsa e funcionam em qualquer superfície para variações de flexão"},
+    {"label": "Para uso doméstico econômico", "offerId": "yes4all-parallettes", "reason": "Aço a preço próximo ao PVC com pés de borracha para as mesmas opções de exercício a 9 polegadas que a ProsourceFit"}
+  ]
 }

@@ -104,5 +104,182 @@
     "ikea-markus": "IKEA Markus a ~¥25,000 con ajuste de altura, soporte lumbar fijo incorporado, reposabrazos ajustables en altura y garantía IKEA de 10 años. El contorno lumbar fijo funciona bien cuando coincide con la geometría de tu columna; si no coincide, no hay camino de ajuste."
   },
   "pinDescription": "5 sillas de oficina comparadas en 2026 — Herman Miller Aeron a IKEA Markus. Malla vs espuma en 8 horas. PostureFit vs LiveBack vs soporte lumbar fijo — lo que significa realmente la diferencia de mecanismo. Brecha de precio de ¥25,000 a ¥200,000 desglosada honestamente.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Cada silla fue evaluada en diseño del mecanismo lumbar, durabilidad a largo plazo, rango de ajuste para proporciones corporales japonesas, profundidad de garantía y disponibilidad en el mercado japonés.",
+  "products": [
+    {
+      "offerId": "herman-miller-aeron",
+      "badge": "Mejor opción general",
+      "review": "La malla Pellicle 8Z y el sistema PostureFit SL de doble punto ofrecen la combinación de soporte ergonómico más documentada en el segmento premium. La restricción principal: la talla correcta (A/B/C) debe probarse antes de comprar, y el precio de ~¥200,000 solo se justifica con uso intensivo WFH a largo plazo.",
+      "pros": [
+        "Malla Pellicle de 8 zonas disipa el calor en veranos húmedos",
+        "PostureFit SL ajusta sacro y lumbar de forma independiente",
+        "Garantía de 12 años por Herman Miller Japón"
+      ],
+      "cons": [
+        "La talla incorrecta anula todos los beneficios ergonómicos"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Tallas": "A / B / C",
+        "Respaldo": "Malla Pellicle 8Z",
+        "Soporte lumbar": "PostureFit SL doble punto",
+        "Reposabrazos": "4D",
+        "Garantía": "12 años",
+        "Carga máx.": "~136 kg (talla C)",
+        "Precio (JP)": "~¥200,000"
+      },
+      "scores": {
+        "Soporte lumbar": 5.0,
+        "Comodidad": 4.8,
+        "Calidad de construcción": 5.0,
+        "Relación calidad-precio": 3.5,
+        "Ajustabilidad": 4.9
+      }
+    },
+    {
+      "offerId": "steelcase-leap-v2",
+      "badge": "Mejor para sitteurs activos",
+      "review": "El mecanismo LiveBack sigue el movimiento de la columna en tiempo real y el asiento de deslizamiento natural mantiene la geometría cadera-lumbar al reclinarse — ventaja real para quienes se mueven constantemente. Los usuarios estáticos que bloquean el respaldo aprovecharán menos la ingeniería.",
+      "pros": [
+        "LiveBack sigue el movimiento vertebral natural",
+        "Deslizamiento natural mantiene la geometría de cadera al reclinarse",
+        "Garantía 12 años Steelcase Japón"
+      ],
+      "cons": [
+        "Ventaja LiveBack perdida en usuarios estáticos que bloquean el respaldo"
+      ],
+      "grade": "A",
+      "specs": {
+        "Mecanismo respaldo": "LiveBack columna flexible",
+        "Asiento": "Sistema deslizamiento natural",
+        "Reposabrazos": "4D",
+        "Garantía": "12 años",
+        "Tapizado": "Tela / Cuero",
+        "Precio (US)": "$1,376",
+        "Disponibilidad Japón": "Distribuidores premium / empresas"
+      },
+      "scores": {
+        "Soporte lumbar": 4.8,
+        "Comodidad": 4.9,
+        "Calidad de construcción": 4.9,
+        "Relación calidad-precio": 3.6,
+        "Ajustabilidad": 5.0
+      }
+    },
+    {
+      "offerId": "okamura-contessa-seconda",
+      "badge": "Mejor elección mercado japonés",
+      "review": "Diseñada en torno a las proporciones corporales japonesas con la red de servicio nacional de Okamura. El mecanismo de respaldo es ajustable pero menos dinámico que el LiveBack de Steelcase — la fortaleza está en la adecuación al mercado japonés.",
+      "pros": [
+        "Diseñada para proporciones corporales japonesas",
+        "Red de servicio nacional más amplia",
+        "Tallas estándar y grande disponibles"
+      ],
+      "cons": [
+        "Mecanismo de respaldo menos dinámico que el Steelcase LiveBack"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Tallas": "Estándar / Grande",
+        "Respaldo": "Malla",
+        "Fabricante": "Okamura (Japón)",
+        "Garantía": "5 años estructura / 2 años tapizado",
+        "Precio (JP)": "~¥100,000",
+        "Red servicio": "Nacional Japón",
+        "Objetivo": "Proporciones japonesas"
+      },
+      "scores": {
+        "Soporte lumbar": 4.5,
+        "Comodidad": 4.6,
+        "Calidad de construcción": 4.7,
+        "Relación calidad-precio": 4.2,
+        "Ajustabilidad": 4.3
+      }
+    },
+    {
+      "offerId": "flexispot-ej2-ergonomic",
+      "badge": "Mejor ergonómico económico",
+      "review": "A ~¥30,000 con soporte lumbar regulable en altura, reclinación y entrega Prime, es la recomendación honesta en el segmento económico. El lumbar es un cojín, no un mecanismo estructural, y la compresión de espuma aparece en 12–24 meses de uso intensivo.",
+      "pros": [
+        "Cojín lumbar ajustable en altura a precio económico",
+        "Disponible vía Amazon Japón Prime",
+        "Reclinación para variación postural"
+      ],
+      "cons": [
+        "Compresión de espuma tras 12–24 meses de uso intensivo"
+      ],
+      "grade": "B",
+      "specs": {
+        "Asiento": "Espuma",
+        "Lumbar": "Cojín ajustable en altura",
+        "Garantía": "3 años",
+        "Precio (JP)": "~¥30,000",
+        "Disponibilidad": "Amazon Japón Prime",
+        "Soporte": "Solo correo electrónico"
+      },
+      "scores": {
+        "Soporte lumbar": 3.5,
+        "Comodidad": 3.8,
+        "Calidad de construcción": 3.4,
+        "Relación calidad-precio": 4.5,
+        "Ajustabilidad": 3.6
+      }
+    },
+    {
+      "offerId": "ikea-markus",
+      "badge": "Mejor nivel de entrada",
+      "review": "El soporte lumbar fijo del Markus se adapta o no a tu columna — sin ajuste posible. A ~¥25,000 con garantía IKEA de 10 años y disponibilidad en tiendas japonesas, es razonable para 2–4 h al día pero inadecuado para más de 7 h o problemas lumbares existentes.",
+      "pros": [
+        "Disponible en tiendas IKEA Japón con devoluciones fáciles",
+        "Garantía IKEA 10 años contra defectos de fabricación",
+        "Punto de entrada más accesible"
+      ],
+      "cons": [
+        "Soporte lumbar fijo — sin ajuste si no se adapta a tu espalda"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Asiento": "Espuma (poliuretano)",
+        "Lumbar": "Contorno fijo integrado",
+        "Garantía": "10 años (defectos fabricación)",
+        "Precio (JP)": "~¥25,000",
+        "Colores": "Negro / Beige-gris",
+        "Reposabrazos": "Solo ajuste de altura"
+      },
+      "scores": {
+        "Soporte lumbar": 3.0,
+        "Comodidad": 3.5,
+        "Calidad de construcción": 3.2,
+        "Relación calidad-precio": 4.6,
+        "Ajustabilidad": 2.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para teletrabajadores a tiempo completo (7h+)",
+      "offerId": "herman-miller-aeron",
+      "reason": "PostureFit SL y Pellicle 8Z ofrecen el soporte más documentado para trabajo sentado prolongado."
+    },
+    {
+      "label": "Para personas que cambian postura frecuentemente",
+      "offerId": "steelcase-leap-v2",
+      "reason": "LiveBack sigue los movimientos de la columna en tiempo real."
+    },
+    {
+      "label": "Para compradores que priorizan marcas japonesas",
+      "offerId": "okamura-contessa-seconda",
+      "reason": "Red de servicio Okamura nacional y diseño adaptado a proporciones japonesas."
+    },
+    {
+      "label": "Para teletrabajadores con presupuesto ajustado",
+      "offerId": "flexispot-ej2-ergonomic",
+      "reason": "Lumbar ajustable y reclinación a ~¥30,000 vía Amazon Prime."
+    },
+    {
+      "label": "Para usuarios ocasionales que buscan simplicidad",
+      "offerId": "ikea-markus",
+      "reason": "Disponible en tiendas IKEA Japón con garantía 10 años y devoluciones fáciles."
+    }
+  ]
 }

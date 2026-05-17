@@ -68,5 +68,154 @@
     "pedialyte-sport": "Jederzeit in der Apotheke erhaeltlich, 490mg Natrium, bewwaehrt fuer Krankheit und Genesungen"
   },
   "pinDescription": "5 Elektrolyt-Getraenke ehrlich verglichen — LMNT, Liquid I.V., Nuun, DripDrop und Pedialyte Sport. Natriumgehalt, Zucker, Preis pro Portion und welches zu deiner tatsaechlichen Situation passt #Elektrolyte #Hydrierung #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jedes Elektrolyt-Getraenk wurde bewertet auf: Natriumgehalt im Verhaeltnis zum tatsaechlichen Schweisverlust, Zuckerbelastung im Verhaeltnis zur Transportfunktion, Geschmack in kaltem und warmem Wasser, Preis pro Portion bei realistischer Wochennutzung und Eignung fuer spezifische Anwendungsfaelle — hartes Training, Erholung bei Krankheit und Reisen.",
+  "products": [
+    {
+      "offerId": "lmnt-recharge-electrolyte",
+      "badge": "Bestes fuer hartes Training und Keto",
+      "review": "LMNTs 1.000 mg Natrium pro Stick ist das Differenzierungsmerkmal der Kategorie — es ersetzt tatsaechliche Schweisverluste anstatt eines Bruchteils davon, was bei Training in der Hitze, Keto-Anwendern und jedem, der 60+ Minuten stark schwitzt, entscheidend ist. Die Null-Zucker-Formel mit Stevia-Suesse vermeidet die Glukosebelastung, die unnoetig ist, wenn Kohlenhydrate aus der Nahrung kommen. Die Raw-Geschmacksneutral-Variante fuegt Elektrolyte zu Kaffee, Bruehe oder Wasser hinzu, ohne das Geschmacksprofil zu veraendern. Der Kompromiss ist der Preis (1,50-1,80 $/Stick) — und 1.000 mg Natrium sind bei gelegentlicher Nutzung ohne entsprechenden Schweis zu viel.",
+      "pros": ["1.000 mg Natrium entspricht den tatsaechlichen Schweisverlusten bei hartem Training", "Null Zucker — kompatibel mit Keto, Low-Carb und Fastenzeiten", "Raw-Geschmacksneutral-Variante fuegt Elektrolyte zu Kaffee oder Essen ohne Geschmacksveraenderung hinzu"],
+      "cons": ["1,50-1,80 $ pro Portion ist der hoechste Preis pro Packung in diesem Vergleich"],
+      "grade": "A+",
+      "specs": {
+        "Natrium": "1.000 mg",
+        "Kalium": "200 mg",
+        "Magnesium": "60 mg",
+        "Zucker": "0 g",
+        "Suessungsmittel": "Stevia",
+        "Format": "Pulver-Stickpackung",
+        "Preis pro Portion": "ca. 1,50-1,80 $"
+      },
+      "scores": {
+        "Wirksamkeit": 5.0,
+        "Preis-Leistung": 3.5,
+        "Geschmack": 4.2,
+        "Reinheit": 4.8,
+        "Benutzerfreundlichkeit": 4.7
+      }
+    },
+    {
+      "offerId": "liquid-iv-hydration-multiplier",
+      "badge": "Beste Mainstream-Hydration",
+      "review": "Liquid I.V.s CTT-Formel — ein auf WHO-ORS-Wissenschaft basierendes Glukose-Natrium-Verhaeltnis — aktiviert SGLT-1-Transporter im Duenndarm fuer schnellere Wasseraufnahme. 500 mg Natrium sind ausreichend fuer moderates Training und Reisen, die 11 g Zucker dienen der Transportfunktion. Geschmacksqualitaet ist durchgehend ueberdurchschnittlich: Lemon Lime und Passion Fruit halten sich gut in kaltem und Raumtemperatur-Wasser. Das Problem sind die 11 g Zucker pro Portion — inkompatibel mit striktem Keto oder Low-Carb und redundant wenn man am Trainingstag bereits Kohlenhydrate isst.",
+      "pros": ["CTT-Absorptionstechnologie basierend auf WHO-ORS-Wissenschaft liefert messbar schnellere Hydration", "Beste Geschmacksqualitaet in diesem Vergleich — mehrere Optionen die wirklich gut schmecken", "500 mg Natrium deckt moderates Training und Reisen ohne Exzess fuer gelegentliche Nutzung"],
+      "cons": ["11 g Zucker pro Portion ist ein Ausschlusskriterium fuer Keto oder strikt Low-Carb-Ansaetze"],
+      "grade": "A",
+      "specs": {
+        "Natrium": "500 mg",
+        "Kalium": "370 mg",
+        "Magnesium": "Nicht angegeben",
+        "Zucker": "11 g",
+        "Suessungsmittel": "Rohrzucker + Stevia",
+        "Format": "Pulver-Stickpackung",
+        "Preis pro Portion": "ca. 1,00-1,25 $"
+      },
+      "scores": {
+        "Wirksamkeit": 4.5,
+        "Preis-Leistung": 4.2,
+        "Geschmack": 4.9,
+        "Reinheit": 4.0,
+        "Benutzerfreundlichkeit": 4.8
+      }
+    },
+    {
+      "offerId": "nuun-sport-electrolyte-tablets",
+      "badge": "Bestes Preis-Leistungs-Verhaeltnis und Tragbarkeit",
+      "review": "Nuuns sprudelndes Tablettenformat ist einzigartig tragbar — eine 10-Tabletten-Tube passt in die Hosentasche und wiegt fast nichts. Bei 0,70-0,80 $ pro Tablette ist es das guenstigste fuer den taeglichen Gebrauch. 300 mg Natrium sind ausreichend fuer leichtes bis mittleres Training. Das Tablettenformat erlaubt auch Konzentrationsanpassung: weniger Wasser vor einer heissen Einheit fuer mehr Natriumdichte, mehr Wasser fuer leichteres taegliches Trinken. Der Kompromiss: 300 mg deckt starkes Schwitzen nicht ab — fuer 60+ Minuten Hitzetraining braucht man LMNT oder DripDrop.",
+      "pros": ["Tablettenformat ist das tragbarste in diesem Vergleich — Taschenformat, federleicht", "Bester Preis mit 0,70-0,80 $ — geeignet fuer konsistenten taeglichen Gebrauch", "Anpassbare Konzentration durch Variation des Wasser-Tabletten-Verhaeltnisses"],
+      "cons": ["300 mg Natrium deckt starke Schweisverluste nicht ab — unzureichend fuer Hitzetraining ueber 60 Minuten"],
+      "grade": "B+",
+      "specs": {
+        "Natrium": "300 mg",
+        "Kalium": "150 mg",
+        "Magnesium": "25 mg",
+        "Zucker": "1 g",
+        "Suessungsmittel": "Stevia + Dextrose",
+        "Format": "Sprudelnde Tablette",
+        "Preis pro Portion": "ca. 0,70-0,80 $"
+      },
+      "scores": {
+        "Wirksamkeit": 3.8,
+        "Preis-Leistung": 5.0,
+        "Geschmack": 4.3,
+        "Reinheit": 4.5,
+        "Benutzerfreundlichkeit": 5.0
+      }
+    },
+    {
+      "offerId": "dripdrop-ors-powder",
+      "badge": "Bestes fuer Erholung bei Krankheit",
+      "review": "DripDrop ist als WHO-Standard-Orale-Rehydrationslosung formuliert — das Glukose-Natrium-Kotransportverhaeltnis ist dasselbe Framework das in der klinischen Dehydrationsbehandlung verwendet wird. Wassermelone und Zitrone schmecken deutlich besser als klinische ORS-Alternativen wie Pedialyte-Original. Die medizinische Positionierung macht DripDrop am relevantesten fuer die Erholung bei Krankheit, Hitzschlagrisiko und echter akuter Dehydration. Fuer taegliche Trainings-Hydration ist es nicht das richtige Werkzeug.",
+      "pros": ["WHO-Standard-ORS-Formulierung aktiviert Darm-Kotransport-Absorption", "Deutlich besser schmeckend als klinische ORS-Alternativen bei aehnlichem Natriumgehalt", "Wert es im Reise-Notfallkit aufzubewahren — Packungen lagern lange"],
+      "cons": ["Nicht das richtige Werkzeug fuer taegliche Trainings-Hydration — Kosten und Positionierung sind krankheitsorientiert"],
+      "grade": "B",
+      "specs": {
+        "Natrium": "330 mg",
+        "Kalium": "185 mg",
+        "Magnesium": "70 mg",
+        "Zucker": "8 g",
+        "Suessungsmittel": "Rohrzucker",
+        "Format": "Pulverpackung",
+        "Preis pro Portion": "ca. 1,20-1,50 $"
+      },
+      "scores": {
+        "Wirksamkeit": 4.6,
+        "Preis-Leistung": 3.9,
+        "Geschmack": 4.4,
+        "Reinheit": 4.7,
+        "Benutzerfreundlichkeit": 4.5
+      }
+    },
+    {
+      "offerId": "pedialyte-sport",
+      "badge": "Beste Apotheken-Verfuegbarkeit",
+      "review": "Pedialyte Sports Adult-Sport-Linie mit 490 mg Natrium und 380 mg Kalium ist fuer die Erholung nach dem Training bei Erwachsenen richtig positioniert. Der echte Vorteil ist die Apothekenalltaeglichkeit: Um 2 Uhr nachts bei Lebensmittelvergiftung oder Magen-Darm-Grippe ist Pedialyte das was im Drogerieregal steht. Fuer geplante Trainings-Hydration sind die Pulverpackungen praktischer als die fertig gemischte Fluessigkeit. Das Fluessigkeitsformat erfordert keine Zubereitung wenn man zu krank zum Abwiegen von Pulver ist.",
+      "pros": ["Jederzeit in Apotheken und Supermaerkten erhaeltlich — keine Vorplanung noetig", "490 mg Natrium + 380 mg Kalium deckt moderate bis intensive Erholung nach Training", "Trauben- und Fruchtpunch-Geschmaecker sind fuer Erwachsene trinkbar ohne Geschmackskampf"],
+      "cons": ["Fertig gemischte Fluessigkeit ist schwer und unpraktisch beim Sport — Pulverpackungen gibt es, sind aber weniger weit verbreitet"],
+      "grade": "B-",
+      "specs": {
+        "Natrium": "490 mg",
+        "Kalium": "380 mg",
+        "Magnesium": "Nicht angegeben",
+        "Zucker": "6 g",
+        "Suessungsmittel": "Saccharose",
+        "Format": "Fertig gemischte Fluessigkeit (Pulverpackungen auch erhaeltlich)",
+        "Preis pro Portion": "ca. 0,80-1,00 $"
+      },
+      "scores": {
+        "Wirksamkeit": 4.0,
+        "Preis-Leistung": 4.3,
+        "Geschmack": 3.8,
+        "Reinheit": 4.1,
+        "Benutzerfreundlichkeit": 4.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Sportler die 60+ Minuten hart in der Hitze trainieren",
+      "offerId": "lmnt-recharge-electrolyte",
+      "reason": "1.000 mg Natrium entspricht den tatsaechlichen Schweisverlusten bei hartem Training — die einzige Option hier die Elektrolyte bei langem Hitzetraining auf physiologisch bedeutsamen Levels ersetzt."
+    },
+    {
+      "label": "Taegliche Hydration fuer Reisen und allgemeines Fitness",
+      "offerId": "liquid-iv-hydration-multiplier",
+      "reason": "CTT-Absorptionstechnologie und beste Geschmacksqualitaet machen es zum Produkt das man am ehesten wirklich gerne regelmaessig trinkt."
+    },
+    {
+      "label": "Kostenguenstige taegliche Hydration mit maximaler Tragbarkeit",
+      "offerId": "nuun-sport-electrolyte-tablets",
+      "reason": "Bester Preis mit 0,70-0,80 $ und das Taschenformat-Tablettenformat erfordert kein Abwiegen — das richtige Werkzeug fuer taegliche reibungslose Hydration."
+    },
+    {
+      "label": "Erholung bei Krankheit oder schwerer akuter Dehydration",
+      "offerId": "dripdrop-ors-powder",
+      "reason": "WHO-Standard-ORS-Formulierung mit deutlich besserem Geschmack als klinische Alternativen — die geeignetste Wahl bei Erbrechen, Durchfall, Fieber oder Erholung nach Hitzschlag."
+    },
+    {
+      "label": "Unerwartete Krankheit ohne Vorbereitungszeit",
+      "offerId": "pedialyte-sport",
+      "reason": "Apothekenverfuegbarkeit rund um die Uhr — das Fluessigkeitsformat erfordert nichts wenn man zu krank zum Abwiegen von Pulver ist und ist seit Jahrzehnten fuer klinische Hydration bewwaehrt."
+    }
+  ]
 }

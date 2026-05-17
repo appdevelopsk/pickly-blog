@@ -58,5 +58,184 @@
     "demeyere-industry-stockpot": "Aço inoxidável de 5 camadas (fabricação belga), espessura mais grossa da categoria, melhor distribuição de calor de qualquer caçarola de aço inoxidável. $250-400. Melhores especificações técnicas disponíveis — demonstravelmente melhor que o All-Clad. Para cozinheiros domésticos sérios que querem o prêmio de engenharia."
   },
   "pinDescription": "Comparação de caçarolas 2026: All-Clad D3 vs Cuisinart Multiclad Pro vs Tramontina tri-ply vs Lodge ferro fundido vs Demeyere — revestimento completo vs fundo de disco, qual tamanho você realmente precisa e qual caçarola vale o preço.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada panela foi avaliada pela uniformidade de distribuição de calor em toda a superfície de cozimento, a capacidade utilizável para tamanhos de lote comuns, a durabilidade a longo prazo com base na espessura e qualidade do material, o valor em relação às alternativas no mesmo nível de preço e a facilidade de limpeza após tarefas de cozimento ricas em proteínas e amido.",
+  "products": [
+    {
+      "offerId": "all-clad-d3-stainless-stockpot",
+      "badge": "Melhor Geral",
+      "review": "All-Clad D3 é o padrão profissional — tri-ply completo de borda a borda, aço inox 18/10, fabricado nos EUA com garantia vitalícia. A distribuição uniforme de calor da base às laterais é genuinamente superior aos designs de disco para caldos de longa cocção. A $200–400 por uma panela de 8–12 qt, o preço se amortiza bem com uso diário.",
+      "pros": [
+        "Construção tri-ply completa até a borda — laterais aquecem uniformemente junto com a base para melhor convecção",
+        "Garantia vitalícia e fabricação nos EUA com histórico de 10–20 anos em cozinhas profissionais",
+        "Interior em aço inox 18/10 é não reativo com caldos ácidos e compatível com utensílios de metal"
+      ],
+      "cons": [
+        "Opção mais cara aqui a $200–400 — Tramontina oferece desempenho similar por menos da metade do preço"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Construction": "Tri-ply (18/10 stainless / aluminum / stainless)",
+        "Available sizes": "8, 10, 12 qt",
+        "Induction compatible": "Yes",
+        "Origin": "USA",
+        "Warranty": "Lifetime",
+        "Oven safe": "Up to 260°C",
+        "Price range": "$200–400"
+      },
+      "scores": {
+        "Heat distribution": 5.0,
+        "Capacity": 4.8,
+        "Durability": 5.0,
+        "Value": 3.2,
+        "Ease of cleaning": 4.5
+      }
+    },
+    {
+      "offerId": "cuisinart-multiclad-pro-stockpot",
+      "badge": "Melhor Custo-Benefício Fully-Clad",
+      "review": "Cuisinart Multiclad Pro é um tri-ply totalmente revestido a aproximadamente um terço do preço do All-Clad — distribuição de calor e desempenho de cozimento são praticamente indistinguíveis para tarefas domésticas padrão. A espessura ligeiramente menor requer cuidado em fogo muito alto.",
+      "pros": [
+        "Tri-ply completo a um terço do preço do All-Clad — melhor entrada na categoria clad",
+        "Interior em aço inox 18/10 funciona de forma idêntica ao All-Clad para fervura, refogado e pratos ácidos",
+        "Amplamente disponível e fácil de substituir peças individuais se necessário"
+      ],
+      "cons": [
+        "Espessura ligeiramente menor que All-Clad e Tramontina — requer cuidado em bicos de fogão acima do médio-alto"
+      ],
+      "grade": "A",
+      "specs": {
+        "Construction": "Tri-ply (18/10 stainless / aluminum / stainless)",
+        "Available sizes": "8, 10, 12 qt",
+        "Induction compatible": "Yes",
+        "Origin": "China",
+        "Warranty": "Lifetime",
+        "Oven safe": "Up to 260°C",
+        "Price range": "$60–100"
+      },
+      "scores": {
+        "Heat distribution": 4.6,
+        "Capacity": 4.8,
+        "Durability": 4.3,
+        "Value": 4.8,
+        "Ease of cleaning": 4.5
+      }
+    },
+    {
+      "offerId": "tramontina-stainless-stockpot",
+      "badge": "Melhor Custo-Benefício Geral",
+      "review": "O tri-ply totalmente revestido da Tramontina fica entre a Cuisinart e a All-Clad em preço e qualidade — mais próximo da All-Clad na espessura e peso das alças. A melhor relação custo-benefício para cozinheiros caseiros sérios a $100–150 por uma panela de 8 qt.",
+      "pros": [
+        "Espessura maior que a Cuisinart — lida com fogo alto e uso diário com mais confiança",
+        "Próximo ao desempenho All-Clad por menos da metade do preço — a compra recomendada para a maioria dos cozinheiros caseiros",
+        "Alças mais pesadas e tolerâncias de construção mais apertadas do que as opções de orçamento"
+      ],
+      "cons": [
+        "Um pouco mais difícil de encontrar em lojas físicas do que All-Clad ou Cuisinart em alguns mercados"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Construction": "Tri-ply (18/10 stainless / aluminum / stainless)",
+        "Available sizes": "8 qt primary",
+        "Induction compatible": "Yes",
+        "Origin": "Brazil",
+        "Warranty": "Lifetime",
+        "Oven safe": "Up to 260°C",
+        "Price range": "$100–150"
+      },
+      "scores": {
+        "Heat distribution": 4.8,
+        "Capacity": 4.5,
+        "Durability": 4.7,
+        "Value": 4.6,
+        "Ease of cleaning": 4.4
+      }
+    },
+    {
+      "offerId": "lodge-cast-iron-dutch-oven-5qt",
+      "badge": "Melhor para Braseados e Cozimento Lento",
+      "review": "A Lodge Enameled Dutch Oven não é uma panela de caldo tradicional — a 5 qt é pequena demais para grandes lotes de caldo — mas para braseados, tagines e sopas de longa cocção supera o aço inox graças à retenção de calor excepcional. Não requer cura, segura para ingredientes ácidos.",
+      "pros": [
+        "Retenção de calor excepcional e temperaturas estáveis e uniformes — ideal para braseados e sopas lentas",
+        "Interior esmaltado não requer cura e lida com segurança com ingredientes ácidos como tomate e vinho",
+        "Versátil do fogão ao forno a $80–100"
+      ],
+      "cons": [
+        "Capacidade de 5 qt limita o uso em grandes quantidades — não consegue fazer caldo a partir de uma carcaça de frango inteira com legumes"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "Enameled cast iron",
+        "Capacity": "5 qt",
+        "Induction compatible": "Yes",
+        "Seasoning required": "No",
+        "Oven safe": "Up to 260°C",
+        "Weight (loaded)": "Approx. 7 kg",
+        "Price": "$80–100"
+      },
+      "scores": {
+        "Heat distribution": 4.7,
+        "Capacity": 3.0,
+        "Durability": 4.9,
+        "Value": 4.3,
+        "Ease of cleaning": 4.2
+      }
+    },
+    {
+      "offerId": "demeyere-industry-stockpot",
+      "badge": "Melhor Desempenho Técnico",
+      "review": "A construção belga de 5 camadas da Demeyere Industry e a espessura mais grossa desta comparação oferecem a melhor distribuição de calor de qualquer panela de aço inox disponível — mensuravelmente melhor que a All-Clad a $250–400. Para cozinheiros caseiros sérios que cozinham diariamente e querem o prêmio de engenharia.",
+      "pros": [
+        "Construção belga de 5 camadas com a espessura mais grossa — distribuição de calor superior à All-Clad",
+        "Alças soldadas em vez de rebitadas eliminam pontos de retenção de alimentos na base da alça",
+        "Tratamento de superfície Silvinox reduz impressões digitais e mantém a aparência por décadas"
+      ],
+      "cons": [
+        "A $250–400 com prêmio sobre a All-Clad — justificado pelo desempenho mas significativo"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Construction": "5-ply (18/10 stainless / 2× aluminum / aluminum alloy / stainless)",
+        "Available sizes": "Multiple including 8–12 qt",
+        "Induction compatible": "Yes",
+        "Origin": "Belgium",
+        "Warranty": "Lifetime",
+        "Oven safe": "Up to 260°C",
+        "Price range": "$250–400"
+      },
+      "scores": {
+        "Heat distribution": 5.0,
+        "Capacity": 4.8,
+        "Durability": 5.0,
+        "Value": 2.8,
+        "Ease of cleaning": 4.7
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para cozinheiros caseiros sérios que querem durabilidade profissional",
+      "offerId": "all-clad-d3-stainless-stockpot",
+      "reason": "Tri-ply completo até a borda, garantia vitalícia, fabricado nos EUA — a panela que você compra uma vez e usa diariamente por 15 anos."
+    },
+    {
+      "label": "Para cozinheiros conscientes do orçamento que ainda querem construção fully-clad",
+      "offerId": "cuisinart-multiclad-pro-stockpot",
+      "reason": "Desempenho tri-ply completo a um terço do preço da All-Clad — melhor entrada na categoria clad sem comprometer a qualidade de cozimento."
+    },
+    {
+      "label": "Para a maioria dos cozinheiros caseiros que buscam o melhor custo-benefício",
+      "offerId": "tramontina-stainless-stockpot",
+      "reason": "Espessura maior que a Cuisinart, desempenho próximo ao da All-Clad, por menos da metade do preço da All-Clad — a compra recomendada para a maioria dos cozinheiros caseiros."
+    },
+    {
+      "label": "Para cozinheiros especializados em braseados, tagines e sopas lentas",
+      "offerId": "lodge-cast-iron-dutch-oven-5qt",
+      "reason": "A superior retenção de calor do ferro fundido e as temperaturas baixas e estáveis fazem dele a melhor ferramenta para pratos de longa cocção onde o aço inox não consegue competir."
+    },
+    {
+      "label": "Para perfeccionistas que querem o teto da engenharia",
+      "offerId": "demeyere-industry-stockpot",
+      "reason": "A construção belga de 5 camadas oferece a melhor distribuição de calor mensurável de qualquer panela de aço inox — justificada apenas quando o cozimento diário exige o melhor absoluto."
+    }
+  ]
 }

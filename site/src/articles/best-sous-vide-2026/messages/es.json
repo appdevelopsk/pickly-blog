@@ -86,5 +86,64 @@
     "polyscience-creative-sous-vide": "La mejor precisión de temperatura del grupo. Diseñado para cocinas profesionales; apropiado para cocineros caseros que necesitan precisión repetible para huevos y pescado sensible a la temperatura."
   },
   "pinDescription": "Comparación de circuladores sous vide 2026: Anova Precision Cooker Pro vs Breville Joule Turbo vs Inkbird ISV-100W vs Wancle vs PolyScience Creative. Filete al punto perfecto cada vez -- ¿cuál es el circulador adecuado para tu cocina?",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada circulador fue evaluado en la precisión de temperatura declarada bajo condiciones de contenedor cargado, rendimiento de vataje con contenedores grandes, riesgo de dependencia de la app (operación manual vs. solo por app), nivel de ruido del motor durante largas cocciones nocturnas e informes de propietarios sobre la longevidad del hardware más allá de los 18 meses.",
+  "products": [
+    {
+      "offerId": "anova-precision-cooker-pro",
+      "badge": "Mejor en general",
+      "review": "El Anova Precision Cooker Pro establece el punto de referencia para el sous vide doméstico serio: 1200W maneja contenedores grandes sin esfuerzo, la precisión de ±0,1°C importa para huevos y pescado, y la unidad funciona completamente en manual sin necesitar la app. El WiFi añade monitoreo remoto opcional para cocciones nocturnas — una ventaja práctica cuando estás dormido y una paleta de cerdo de 24 horas sigue en marcha.",
+      "pros": ["Motor de 1200W maneja contenedores de hasta 100L sin parar", "Controles manuales completos — funciona sin app ni WiFi", "Precisión de ±0,1°C confiable para huevos y proteínas sensibles a la temperatura"],
+      "cons": ["$199 es el precio más alto compartido en esta comparativa"],
+      "grade": "A+",
+      "specs": {"Potencia": "1200W", "Precisión de temp.": "±0,1°C", "Rango de temp.": "0–92°C", "Contenedor máx.": "100L", "Conectividad": "WiFi + Bluetooth", "Dimensiones": "38cm de alto, 490g"},
+      "scores": {"Temperature accuracy": 4.9, "Power": 5.0, "Ease of use": 4.5, "Value": 3.8, "Noise": 4.0}
+    },
+    {
+      "offerId": "breville-joule-turbo",
+      "badge": "Mejor diseño compacto",
+      "review": "El Breville Joule Turbo es la unidad de potencia completa más pequeña de esta comparativa con 28cm y 281g, y su modo Turbo genuinamente reduce el tiempo de calentamiento hasta un 30% — significativo para cocinar entre semana cuando quieres iniciar el baño antes de cortar las verduras. La operación solo por app es una dependencia real: si la app deja de ser compatible con el SO de tu teléfono, la unidad queda inoperable.",
+      "pros": ["La unidad de potencia completa más pequeña y ligera — 28cm, 281g", "El modo Turbo reduce el tiempo de calentamiento hasta un 30%", "App bien diseñada con tiempos de cocción guiados para proteínas comunes"],
+      "cons": ["Operación solo por app — sin controles manuales en la unidad"],
+      "grade": "A",
+      "specs": {"Potencia": "1100W", "Precisión de temp.": "±0,1°C", "Rango de temp.": "25–99°C", "Contenedor máx.": "30L", "Conectividad": "WiFi (requerido)", "Dimensiones": "28cm de alto, 281g"},
+      "scores": {"Temperature accuracy": 4.8, "Power": 4.7, "Ease of use": 4.0, "Value": 3.9, "Noise": 4.5}
+    },
+    {
+      "offerId": "inkbird-isv100w",
+      "badge": "Mejor opción WiFi económica",
+      "review": "El Inkbird ISV-100W ofrece conectividad WiFi y controles físicos manuales a un precio significativamente inferior al Anova y Breville. La precisión de ±0,5°C es adecuada para bistec, pollo y cerdo — solo se convierte en limitación para huevos y pescado donde importan las ventanas de temperatura estrechas. Configúralo en el punto medio de tu rango de temperatura objetivo y funciona de manera confiable para la cocina diaria.",
+      "pros": ["Dial manual y pantalla — funciona sin teléfono ni WiFi", "WiFi permite programación opcional y monitoreo remoto", "Precio económico con precisión adecuada para la mayoría de proteínas"],
+      "cons": ["La precisión de ±0,5°C pierde la ventana estrecha para huevos y pescado delicado"],
+      "grade": "B+",
+      "specs": {"Potencia": "1000W", "Precisión de temp.": "±0,5°C", "Rango de temp.": "25–99,9°C", "Contenedor máx.": "12L", "Conectividad": "WiFi + controles manuales", "Dimensiones": "33cm de alto, ~900g"},
+      "scores": {"Temperature accuracy": 4.0, "Power": 4.3, "Ease of use": 4.7, "Value": 4.9, "Noise": 4.2}
+    },
+    {
+      "offerId": "wancle-sous-vide",
+      "badge": "Mejor opción sin app",
+      "review": "El Wancle Sous Vide Cooker es la unidad más sencilla de esta comparativa: gira el dial para establecer temperatura y tiempo, sujétalo a cualquier olla, aléjate. Sin WiFi, sin cuenta en la nube, sin actualizaciones de app que puedan romper la funcionalidad. La potencia de 850W es adecuada para cocinar una sola comida en ollas de hasta 15L. Si desconfías de los electrodomésticos dependientes de apps, esta es la alternativa directa.",
+      "pros": ["Sin app, sin WiFi, sin dependencia de la nube — completamente autónomo", "Operación simple con dial y pantalla LED", "Confiable para toda la cocina sous vide básica sin complejidad"],
+      "cons": ["850W lucha con contenedores grandes — tiempo de precalentamiento mayor que las unidades de 1000W+"],
+      "grade": "B",
+      "specs": {"Potencia": "850W", "Precisión de temp.": "±0,5°C", "Rango de temp.": "25–99,5°C", "Contenedor máx.": "15L", "Conectividad": "Ninguna", "Dimensiones": "30cm de alto, ~800g"},
+      "scores": {"Temperature accuracy": 3.8, "Power": 3.5, "Ease of use": 5.0, "Value": 4.7, "Noise": 4.0}
+    },
+    {
+      "offerId": "polyscience-creative-sous-vide",
+      "badge": "Mejor precisión de temperatura",
+      "review": "La PolyScience Creative Series es la única unidad de esta comparativa con linaje de cocina profesional y estabilidad de temperatura de ±0,07°C — la precisión que las cocinas de restaurante requieren para la reproducibilidad de recetas en cientos de lotes. Para el cocinero doméstico que regularmente prepara huevos a 63°C o salmón a 45°C, esta precisión elimina la varianza de textura que introducen las unidades de ±0,5°C. El precio refleja la calidad de construcción de nivel profesional.",
+      "pros": ["Estabilidad de temperatura de ±0,07°C — la precisión más alta de esta comparativa", "Linaje de cocina profesional con protección contra salpicaduras con clasificación IP", "Controles manuales sin dependencia de app"],
+      "cons": ["El precio de $329 es difícil de justificar a menos que la precisión para huevos o pescado sea un requisito principal"],
+      "grade": "B-",
+      "specs": {"Potencia": "1100W", "Precisión de temp.": "±0,07°C", "Rango de temp.": "25–99°C", "Caudal": "11,5L/min", "Conectividad": "Ninguna (solo manual)", "Construcción": "Profesional, clasificada IP"},
+      "scores": {"Temperature accuracy": 5.0, "Power": 4.7, "Ease of use": 4.3, "Value": 3.0, "Noise": 3.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para cocciones nocturnas y en grandes cantidades", "offerId": "anova-precision-cooker-pro", "reason": "1200W maneja contenedores de 30L y el monitoreo WiFi te permite verificar la temperatura desde la cama durante una cocción de paleta de cerdo de 24 horas."},
+    {"label": "Para cocineros de cocinas pequeñas que quieren calentamiento rápido", "offerId": "breville-joule-turbo", "reason": "La unidad de potencia completa más pequeña con modo Turbo — la reducción del tiempo de calentamiento importa cuando inicias el baño durante la preparación de la cena entre semana."},
+    {"label": "Para compradores primerizos de sous vide con presupuesto", "offerId": "inkbird-isv100w", "reason": "Monitoreo WiFi más controles manuales de respaldo a precio económico — ±0,5°C es suficientemente preciso para bistec, pollo y paleta de cerdo."},
+    {"label": "Para compradores que desconfían de los electrodomésticos dependientes de apps", "offerId": "wancle-sous-vide", "reason": "Solo dial y LED — nada que actualizar, nada que perder conectividad, nada que deje de funcionar cuando una empresa impulsa un nuevo SO."},
+    {"label": "Para huevos, pescado y cocina de precisión reproducible", "offerId": "polyscience-creative-sous-vide", "reason": "La estabilidad de ±0,07°C significa que los huevos a 63°C salen idénticamente cada mañana — la precisión que las unidades de ±0,5°C no pueden entregar de manera confiable."}
+  ]
 }

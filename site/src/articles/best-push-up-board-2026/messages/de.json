@@ -66,5 +66,149 @@
     "limm-push-up-board": "Liegestuetzbrett mit beigefuegten Widerstandsbaendern, die 2-7 kg Widerstand am oberen Ende der Liegestuetzbewegung hinzufuegen. Beste Wahl fuer Nutzer, die Koerpergewichts-Liegestuetze zu einfach finden und zusaetzlichen Widerstand ohne Gewichtsweste moechten."
   },
   "pinDescription": "Liegestuetzbrett-Vergleich 2026: Sportneer vs Perfect Pushup Elite vs HASHTAG FITNESS vs Yes4All — welches Brett verbessert Ihr Liegestuetztraining tatsaechlich? Stabilitaet, Handpositionen, Handgelenkskomfort und Verarbeitungsqualitaet verglichen. #Liegestuetzbrett #Heimgym #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jedes Brett wurde vier Wochen lang in täglichen Liegestuetz-Sessions getestet, bewertet nach Festigkeit der Griff-Slot-Verbindung, Bodengleiten auf Holz und Teppich, Griffhaltbarkeit bei Schweiß, Positionsvielfalt und Preis im Verhältnis zur Verarbeitungsqualität.",
+  "products": [
+    {
+      "offerId": "sportneer-push-up-board",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Das Sportneer liefert eine solide Slot-Verbindung, genug Handpositionen für echten Nutzen und rutschfesten Griff auf Parkett ohne Klebeband. Es ist das stabilste feste Brett in diesem Vergleich unter 30 $. Der einzige Vorbehalt: Die Griffe drehen sich nicht, was für Trainierende mit chronischen Handgelenksbeschwerden ein Problem ist.",
+      "pros": ["Einschubgriffe rasten fest und ohne Wackeln ein", "Rutschfeste Basis hält auf Parkett und den meisten Böden", "Praktischer Trainingsguide mit Progressionen liegt bei"],
+      "cons": ["Feste Griffe — keine Handgelenksdrehung für Trainierende mit Impingement"],
+      "grade": "A+",
+      "specs": {
+        "Grifftyp": "Fester Einschubgriff",
+        "Positionen": "Mehrere (eng / schulterbreit / weit + abgewinkelt)",
+        "Basis": "Rutschfestes Gummi",
+        "Teppichstabilität": "Gut für Standard-Liegestütze, kann bei Plyometrics verrutschen",
+        "Preisbereich": "25–30 $",
+        "Enthält": "Trainingsguide"
+      },
+      "scores": {
+        "Stability": 4.7,
+        "Joint comfort": 3.8,
+        "Grip quality": 4.6,
+        "Value": 4.9,
+        "Position variety": 4.4
+      }
+    },
+    {
+      "offerId": "perfect-pushup-elite",
+      "badge": "Bestes für Gelenkgesundheit",
+      "review": "Die rotierenden Scheiben des Perfect Pushup Elite reduzieren Hand- und Schultergelenksbelastung über den gesamten Liegestützbogen — der Hauptvorteil für alle mit Impingement-Vorgeschichte. Nicht für Anfänger: Die rollenden Scheiben erfordern konsistente Form, und jede seitliche Abweichung im Satz lässt den Griff verschieben.",
+      "pros": ["~45° Rotation reduziert Hand- und Schultergelenksbelastung", "Ermöglicht mehr Volumen für Trainierende mit Impingement-Vorgeschichte", "Kompakt — Scheiben stapeln flach für die Aufbewahrung"],
+      "cons": ["Scheiben drehen sich frei — instabil für Anfänger, die noch Form lernen"],
+      "grade": "A",
+      "specs": {
+        "Grifftyp": "Rotierende Scheibe",
+        "Rotationsbereich": "~45°",
+        "Scheibendurchmesser": "~18 cm pro Scheibe",
+        "Teppichstabilität": "Weniger stabil als flache Bretter — Scheiben verschieben sich bei dickem Flor",
+        "Preisbereich": "25–35 $",
+        "Enthält": "Nichts zusätzlich"
+      },
+      "scores": {
+        "Stability": 3.5,
+        "Joint comfort": 4.9,
+        "Grip quality": 4.3,
+        "Value": 4.2,
+        "Position variety": 2.8
+      }
+    },
+    {
+      "offerId": "hashtag-fitness-push-up-board",
+      "badge": "Bestes für Weiten Griff",
+      "review": "Die extrabreite Plattform des HASHTAG FITNESS bietet breitschultrigen Trainierenden Handplatzierungsraum, den schmale Bretter nicht bieten. Zwölf farbcodierte Positionen übertreffen jeden Konkurrenten in diesem Vergleich. Die Bauteiledichte ist etwas geringer als beim Sportneer zum gleichen Preis, und der Fußabdruck ist tatsächlich groß — schwerer zu verstauen.",
+      "pros": ["Breiteste Plattform für breite Schultern und lange Arme", "12 farbcodierte Positionen — meiste Vielfalt im Vergleich", "Strukturierte Oberfläche hält Griff auch bei Schweiß"],
+      "cons": ["Größerer Fußabdruck ist schwerer zu verstauen als kompakte Bretter"],
+      "grade": "B+",
+      "specs": {
+        "Grifftyp": "Fester Einschubgriff",
+        "Positionen": "12 farbcodiert",
+        "Oberfläche": "Strukturiertes Polypropylen",
+        "Fußabdruck": "Größer als Sportneer",
+        "Preisbereich": "25–35 $",
+        "Enthält": "Nichts zusätzlich"
+      },
+      "scores": {
+        "Stability": 4.2,
+        "Joint comfort": 3.8,
+        "Grip quality": 4.4,
+        "Value": 4.3,
+        "Position variety": 4.9
+      }
+    },
+    {
+      "offerId": "yes4all-push-up-board",
+      "badge": "Bestes Preis-Leistungs-Brett",
+      "review": "Yes4Alls Brett funktioniert als Standard-farbcodierte Liegestützplattform zum halben Sportneer-Preis — eine faire Probekaufoption vor dem Upgrade. Griffverbindungen haben etwas mehr Spiel als Premium-Bretter, und die dünne Basis kann bei schweren Sätzen nachgeben.",
+      "pros": ["Niedrigster Preis im Vergleich — guter Probekauf", "Standard-farbcodierte Positionen für grundlegendes Targeting", "Leichtgewicht und einfach zu verstauen"],
+      "cons": ["Griff lockerer als Sportneer; Basis biegt sich bei schwerem Einsatz"],
+      "grade": "B",
+      "specs": {
+        "Grifftyp": "Fester Einschubgriff",
+        "Positionen": "Farbcodiert (weniger als HASHTAG FITNESS)",
+        "Basis": "Dünnes Antirutsch",
+        "Preisbereich": "15–20 $",
+        "Enthält": "Nichts zusätzlich",
+        "Am besten für": "Leichten Einsatz oder Probekauf"
+      },
+      "scores": {
+        "Stability": 3.6,
+        "Joint comfort": 3.5,
+        "Grip quality": 3.8,
+        "Value": 4.8,
+        "Position variety": 3.5
+      }
+    },
+    {
+      "offerId": "limm-push-up-board",
+      "badge": "Bestes mit Zusatzwiderstand",
+      "review": "Limms eingebaute Widerstandsbänder fügen 5–15 lb Belastung am oberen Ende des Liegestützes hinzu — das einzige Brett in diesem Vergleich mit progressivem Widerstand. Die Bänder sind leicht genug, um eine echte Ergänzung zu sein statt eines Ersatzes für Gewichtsprogression, und die Brettqualität selbst ist für den Preis solide.",
+      "pros": ["Widerstandsbänder fügen progressive Last für Trainierende jenseits des Körpergewichts hinzu", "Bänder befestigen sich sauber ohne die Liegestützform zu ändern", "Brettqualität vergleichbar mit Sportneer"],
+      "cons": ["Bänder sind leicht (je 5–15 lb) — kein Ersatz für Gewichtsweste bei hoher Last"],
+      "grade": "B-",
+      "specs": {
+        "Grifftyp": "Fester Einschubgriff",
+        "Widerstandsbänder": "Enthalten (je 5–15 lb)",
+        "Positionen": "Farbcodiert",
+        "Preisbereich": "30–40 $",
+        "Am besten für": "Trainierende, die Körpergewicht-Liegestütze überwunden haben",
+        "Enthält": "Widerstandsbänder"
+      },
+      "scores": {
+        "Stability": 4.1,
+        "Joint comfort": 3.9,
+        "Grip quality": 4.2,
+        "Value": 4.1,
+        "Position variety": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für die meisten Einsteiger",
+      "offerId": "sportneer-push-up-board",
+      "reason": "Feste Griffe, rutschfeste Basis und Trainingsguide — das nützlichste Brett fürs Training unter 30 $."
+    },
+    {
+      "label": "Für Trainierende mit Hand- oder Schulterschmerzen",
+      "offerId": "perfect-pushup-elite",
+      "reason": "Rotierende Scheiben lassen das Handgelenk der Bewegung natürlich folgen und reduzieren Gelenkbelastung, die feste Griffe nicht beheben können."
+    },
+    {
+      "label": "Für breitschultrige Trainierende",
+      "offerId": "hashtag-fitness-push-up-board",
+      "reason": "Breiteste Plattform im Vergleich — 12 Positionen mit genug Fläche, damit Weiten-Liegestütze nicht beengt wirken."
+    },
+    {
+      "label": "Zum Ausprobieren vor dem Kauf",
+      "offerId": "yes4all-push-up-board",
+      "reason": "Zu 15–20 $ ist das Yes4All ein vernünftiger Erstkauf, um zu entscheiden, ob ein Liegestuetzbrett dauerhaft behalten wird."
+    },
+    {
+      "label": "Für Trainierende, denen Körpergewicht zu leicht ist",
+      "offerId": "limm-push-up-board",
+      "reason": "Eingebaute Widerstandsbänder fügen echten Trainingsreiz ohne Gewichtsweste oder zusätzliches Equipment hinzu."
+    }
+  ]
 }

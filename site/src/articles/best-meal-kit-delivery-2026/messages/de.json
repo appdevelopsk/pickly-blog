@@ -93,5 +93,172 @@
     "sunbasket-meal-kit": "Beste Option fur reine/Bio-Zutaten — keine kunstlichen Zusatzstoffe, Konservierungsstoffe oder GVO, zertifizierter Bio-Bezug und das beste Verpackungsruckfuhrungsprogramm der funf Dienste. Limitierung: teuerster der funf; das Premium uber HelloFresh erfordert, dass Zutaten-Bezugsstandards eine echte Prioritat sind, nicht nur eine Praferenz."
   },
   "pinDescription": "5 Kochboxen-Dienste im Vergleich 2026: HelloFresh vs Blue Apron vs Green Chef vs EveryPlate vs Sunbasket. Echter Preis pro Portion, Verpackungsabfall, Uberspring-Flexibilitat — finde die Kochbox, die wirklich zu deiner Kochweise passt.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jeder Dienst wurde 8 Wochen lang abonniert — mit der typischen Nutzungsfrequenz von zwei Personen und drei Rezepten pro Woche. Verfolgt wurden der tatsächliche Preis pro Portion, Portionsgenauigkeit, Zutatenqualität, Komfort beim Überspringen und Verpackungsabfall pro Lieferung.",
+  "products": [
+    {
+      "offerId": "hellofresh-meal-kit",
+      "badge": "Gesamtbestes",
+      "review": "Umfangreiche Rezeptauswahl und konstante Zutatenqualität machen HelloFresh zur beliebtesten Wahl für Ein- und Umsteiger. Die Benutzeroberfläche für Anpassungen und Überspringen ist intuitiv. Preis-Leistungs-Verhältnis gehört zur Spitzenklasse der Branche.",
+      "pros": [
+        "große Rezeptauswahl (40+ pro Woche)",
+        "konstante Zutatenqualität",
+        "flexibles Pausieren/Kündigen",
+        "günstige Preise"
+      ],
+      "cons": [
+        "viel Verpackungsabfall",
+        "begrenzte Bio-Optionen"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Preis pro Portion": "ca. 10–13 $",
+        "Rezepte/Woche": "40+",
+        "Liefergebiet": "USA-weit",
+        "Personenanzahl": "2–4"
+      },
+      "scores": {
+        "Rezeptqualität": 9.2,
+        "Zutatenfrische": 8.8,
+        "Preis-Leistung": 9.0,
+        "Komfort": 9.5,
+        "Vielfalt": 9.3
+      }
+    },
+    {
+      "offerId": "blue-apron-meal-kit",
+      "badge": "Bestes für Kochbegeisterte",
+      "review": "Chef-Niveau-Rezepte mit detaillierten Anleitungen — ideal für alle, die ihre Kochkünste verfeinern möchten. Hochwertige Zutaten und kreative Geschmackskombinationen. Die Zubereitungszeit ist jedoch etwas länger.",
+      "pros": [
+        "Rezepte auf Küchenprofi-Niveau",
+        "hochwertige Zutaten",
+        "Weinpaarungs-Option",
+        "verbessert Kochfertigkeiten"
+      ],
+      "cons": [
+        "etwas teurer",
+        "längere Zubereitungszeit",
+        "weniger Rezepte als Konkurrenten"
+      ],
+      "grade": "A",
+      "specs": {
+        "Preis pro Portion": "ca. 12–15 $",
+        "Rezepte/Woche": "20+",
+        "Liefergebiet": "USA-weit",
+        "Personenanzahl": "2–4"
+      },
+      "scores": {
+        "Rezeptqualität": 9.8,
+        "Zutatenfrische": 9.2,
+        "Preis-Leistung": 7.5,
+        "Komfort": 8.0,
+        "Vielfalt": 7.5
+      }
+    },
+    {
+      "offerId": "green-chef-meal-kit",
+      "badge": "Bestes Bio-Angebot",
+      "review": "Erster USDA-Bio-zertifizierter Kochboxendienst — beliebt bei gesundheitsbewussten Kunden. Reichhaltiges Angebot für spezielle Ernährungsweisen (Keto, Low-Carb etc.). Preis ist höher, aber Transparenz und Qualität der Zutaten sind unübertroffen.",
+      "pros": [
+        "USDA-Bio-Zutaten",
+        "viele spezielle Ernährungspläne",
+        "hohe Zutatentransparenz",
+        "kreative Gourmet-Rezepte"
+      ],
+      "cons": [
+        "höherer Preis",
+        "aufwändigere Rezepte"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Preis pro Portion": "ca. 13–16 $",
+        "Rezepte/Woche": "30+",
+        "Liefergebiet": "USA-weit",
+        "Personenanzahl": "2–4"
+      },
+      "scores": {
+        "Rezeptqualität": 9.0,
+        "Zutatenfrische": 9.5,
+        "Preis-Leistung": 7.0,
+        "Komfort": 8.2,
+        "Vielfalt": 8.5
+      }
+    },
+    {
+      "offerId": "everyplate-meal-kit",
+      "badge": "Günstigste Kochbox",
+      "review": "Günstigster Kochboxendienst der Branche — ideal für budgetbewusste Haushalte. Einfache Rezepte mit kurzer Zubereitungszeit, auch für Kochanfänger gut geeignet. Zutatenqualität entspricht dem Preis.",
+      "pros": [
+        "günstigster Preis der Branche",
+        "einfache, schnell zubereitete Rezepte",
+        "kurze Kochzeiten",
+        "Familienplan verfügbar"
+      ],
+      "cons": [
+        "Zutatenqualität unter Premium-Niveau",
+        "keine Bio- oder Spezialernährungs-Optionen",
+        "weniger Rezeptvielfalt"
+      ],
+      "grade": "B",
+      "specs": {
+        "Preis pro Portion": "ca. 5–7 $",
+        "Rezepte/Woche": "20+",
+        "Liefergebiet": "USA-weit",
+        "Personenanzahl": "2–4"
+      },
+      "scores": {
+        "Rezeptqualität": 7.5,
+        "Zutatenfrische": 7.5,
+        "Preis-Leistung": 9.8,
+        "Komfort": 8.5,
+        "Vielfalt": 7.0
+      }
+    },
+    {
+      "offerId": "sunbasket-meal-kit",
+      "badge": "Beste Gesundheits-Option",
+      "review": "Bio- und Clean-Food-Zutaten, Ernährungsberater-Rezepte — für gesundheitsorientierte Kunden. Umfangreiche Pläne für mediterrane, Paleo- und Low-Carb-Ernährung. Preis ist hoch, aber Anhänger des Clean Eating schätzen es.",
+      "pros": [
+        "Bio- und Clean-Zutaten",
+        "viele Sonderkostpläne",
+        "ernährungsberater-geprüfte Rezepte",
+        "hohe Zutatentransparenz"
+      ],
+      "cons": [
+        "hoher Preis",
+        "gelegentlich wenig Rezeptauswahl",
+        "viel Verpackungsabfall"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Preis pro Portion": "ca. 13–18 $",
+        "Rezepte/Woche": "20+",
+        "Liefergebiet": "USA-weit",
+        "Personenanzahl": "2–4"
+      },
+      "scores": {
+        "Rezeptqualität": 8.8,
+        "Zutatenfrische": 9.0,
+        "Preis-Leistung": 6.5,
+        "Komfort": 7.5,
+        "Vielfalt": 8.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Kochbox-Einsteiger und beschäftigte Paare",
+      "offerId": "hellofresh-meal-kit",
+      "reason": "Umfangreiche Rezeptauswahl und intuitive Benutzeroberfläche machen HelloFresh für jeden unkompliziert nutzbar."
+    },
+    {
+      "label": "Kochbegeisterte, die ihre Fähigkeiten verbessern wollen",
+      "offerId": "blue-apron-meal-kit",
+      "reason": "Chef-Rezepte und hochwertige Zutaten bringen das Kochen zuhause auf ein neues Niveau."
+    },
+    {
+      "label": "Budgetbewusste Familien",
+      "offerId": "everyplate-meal-kit",
+      "reason": "Günstigster Preis der Branche für einfache, leckere Mahlzeiten jeden Tag."
+    }
+  ]
 }

@@ -53,5 +53,63 @@
     "sbd-wrist-wraps-competition": "45cm ou 60cm, algodão tecido aprovado pela IPF, tensão consistente do fechamento ao final — a escolha para atletas IPF que precisam de desempenho confiável em condições de competição."
   },
   "pinDescription": "Schiek, SBD, Titan, Rogue, Harbinger — 5 wraps de pulso comparados por rigidez, comprimento e aprovação IPF. Encontre o certo para supino, desenvolvimento e competição de powerlifting. #wrapsDePulso #powerlifting #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada produto foi avaliado em cinco critérios: nível de suporte, durabilidade, conforto, custo-benefício e comprimento do wrap. Ponderamos suporte e durabilidade com maior peso porque determinam a utilidade real durante treinos pesados ao longo do tempo.",
+  "products": [
+    {
+      "offerId": "schiek-wrist-wraps-24inch",
+      "badge": "Melhor Geral",
+      "review": "O Schiek 24 polegadas equilibra suporte firme com conforto diário — a tira de polegar é estável e o velcro mantém o ajuste durante toda a sessão. A principal limitação é que 24 polegadas pode ser curto para quem precisa de suporte máximo em supino pesado.",
+      "pros": ["Suporte sólido e consistente", "Tira de polegar confortável e durável", "Comprimento versátil para a maioria dos levantamentos"],
+      "cons": ["Pode ser curto para pulsos maiores"],
+      "grade": "A+",
+      "specs": {"Comprimento": "24 pol", "Material": "Algodão/Poliéster", "Largura": "2,5 cm", "Fecho": "Velcro"},
+      "scores": {"Nível de suporte": 4.7, "Durabilidade": 4.8, "Conforto": 4.6, "Custo-benefício": 4.5, "Comprimento do wrap": 4.4}
+    },
+    {
+      "offerId": "harbinger-21525-wrist-wraps",
+      "badge": "Melhor Custo-Benefício",
+      "review": "O Harbinger entrega suporte confiável a um preço que torna o wrap de pulso acessível para iniciantes. O material é mais fino do que opções premium, mas permanece funcional por anos com uso cuidadoso.",
+      "pros": ["Preço muito acessível", "Disponível amplamente", "Confortável para iniciantes"],
+      "cons": ["Material mais fino que opções de alta performance"],
+      "grade": "A",
+      "specs": {"Comprimento": "20 pol", "Material": "Poliéster", "Largura": "2,5 cm", "Fecho": "Velcro"},
+      "scores": {"Nível de suporte": 4.2, "Durabilidade": 4.0, "Conforto": 4.4, "Custo-benefício": 4.9, "Comprimento do wrap": 4.0}
+    },
+    {
+      "offerId": "titan-signature-gold-wrist-wraps",
+      "badge": "Melhor para Powerlifting",
+      "review": "O Titan Signature Gold foi feito para supino de competição — rigidez extremamente elevada que mantém o pulso completamente bloqueado sob cargas máximas. Não é confortável para uso casual, então reserva-o para dias de máxima intensidade.",
+      "pros": ["Rigidez máxima para levantamentos pesados", "Construção de qualidade para competição", "Disponível em 20 e 36 polegadas"],
+      "cons": ["Muito rígido para uso diário"],
+      "grade": "B+",
+      "specs": {"Comprimento": "20/36 pol", "Material": "Poliéster de alta tenacidade", "Largura": "7,5 cm", "Aprovação": "IPF/USAPL"},
+      "scores": {"Nível de suporte": 5.0, "Durabilidade": 4.7, "Conforto": 3.5, "Custo-benefício": 4.0, "Comprimento do wrap": 4.8}
+    },
+    {
+      "offerId": "rogue-wrist-wraps",
+      "badge": "Melhor Acabamento Premium",
+      "review": "Os wraps Rogue têm acabamento e costura premium com suporte moderado a alto — bons para levantamentos pesados frequentes sem a rigidez extrema do Titan. O preço é mais alto, mas a durabilidade justifica o investimento para atletas sérios.",
+      "pros": ["Acabamento e materiais de alta qualidade", "Suporte equilibrado para uso regular", "Marca confiável para equipamentos de levantamento"],
+      "cons": ["Preço mais alto que alternativas similares"],
+      "grade": "B",
+      "specs": {"Comprimento": "18/24/36 pol", "Material": "Algodão/Poliéster", "Largura": "7 cm", "Fecho": "Velcro"},
+      "scores": {"Nível de suporte": 4.5, "Durabilidade": 4.8, "Conforto": 4.3, "Custo-benefício": 3.8, "Comprimento do wrap": 5.0}
+    },
+    {
+      "offerId": "sbd-wrist-wraps-competition",
+      "badge": "Melhor para Competição IPF",
+      "review": "O SBD é fabricado sob especificações IPF rigorosas com tecido de algodão que mantém tensão consistente do início ao fim — ideal se você compete sob regras IPF. O alto preço e a disponibilidade limitada tornam-no difícil de recomendar fora do contexto competitivo.",
+      "pros": ["Aprovado e confiável pela IPF", "Tensão consistente ao longo de todo o wrap", "Disponível em 45 e 60 cm"],
+      "cons": ["Caro e de disponibilidade limitada"],
+      "grade": "B-",
+      "specs": {"Comprimento": "45/60 cm", "Material": "Algodão tecido", "Aprovação": "IPF", "Largura": "8 cm"},
+      "scores": {"Nível de suporte": 4.9, "Durabilidade": 4.6, "Conforto": 4.0, "Custo-benefício": 3.5, "Comprimento do wrap": 4.7}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para levantadores gerais que querem qualidade e versatilidade", "offerId": "schiek-wrist-wraps-24inch", "reason": "O Schiek 24 polegadas é o melhor ponto de equilíbrio entre suporte, conforto e durabilidade para uso diário em academia."},
+    {"label": "Para iniciantes que querem experimentar wraps de pulso", "offerId": "harbinger-21525-wrist-wraps", "reason": "Preço baixo e confortável — perfeito para saber se você precisa de suporte adicional antes de investir em opções premium."},
+    {"label": "Para atletas de powerlifting focados em supino máximo", "offerId": "titan-signature-gold-wrist-wraps", "reason": "A rigidez extrema do Titan mantém o pulso completamente bloqueado nos levantamentos mais pesados."},
+    {"label": "Para competidores IPF que precisam de equipamento aprovado", "offerId": "sbd-wrist-wraps-competition", "reason": "O SBD atende às especificações IPF com tensão consistente — a escolha certa se você compete sob essas regras."}
+  ]
 }

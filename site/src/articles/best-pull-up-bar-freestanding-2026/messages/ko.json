@@ -90,5 +90,184 @@
     "weider-power-tower-200": "예산형 대안보다 더 두꺼운 프레임, 더 넓은 딥 손잡이 간격, 더 무거운 VKR 팔 받침 패딩을 갖춘 프리미엄 4스테이션 파워 타워. 딥스 및 VKR 편안함 최고. 115 x 135cm 베이스 설치 면적 — 이 비교에서 가장 큼. 정적 하중 기준 136kg 한도. 딥스 및 VKR 스테이션을 자주 사용할 구매자에게 Fitness Reality X2 대비 가격 프리미엄 정당화."
   },
   "pinDescription": "독립형 철봉 5종 비교: CAP vs Ultimate Body Press vs Yaheetech vs Fitness Reality vs Weider. 바닥 공간, 키, 훈련 목표에 맞는 파워 타워를 찾아보세요 — 드릴 없이. #한국어",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 유닛은 정적 데드행 및 시뮬레이션된 동적 부하 하의 프레임 안정성, 베이스 풋프린트 및 공간 여유 요구 사항, 사용자 키 대비 바 높이, 딥 스테이션 및 VKR 패드의 편안함, 12개월 이상의 정기적인 사용 후 사용자가 보고한 장기적인 프레임 강성에 기반하여 평가되었습니다.",
+  "products": [
+    {
+      "offerId": "fitness-reality-x2-power-tower",
+      "grade": "A+",
+      "specs": {
+        "Stations": "4 (pull-up, dip, push-up, VKR)",
+        "Base footprint": "110×130 cm",
+        "Bar height": "~228 cm (fixed)",
+        "Load capacity": "136 kg static",
+        "Frame": "3.8 cm square tube steel",
+        "Price": "$140",
+        "Assembly time": "~60–90 min"
+      },
+      "scores": {
+        "Stability": 4.5,
+        "Load capacity": 4.4,
+        "Footprint": 3.8,
+        "Value": 4.9,
+        "Versatility": 4.7
+      },
+      "badge": "전체 최고 선택",
+      "review": "Fitness Reality X2는 4개의 트레이닝 스테이션 — 풀업 바, 딥 스테이션, 푸시업 핸들, 패드형 VKR — 을 110×130cm 풋프린트에 담아 대부분의 홈짐에서 시작점으로 적합한 가격을 제공합니다. 3.8cm 사각 튜브 프레임은 같은 가격대의 원형 튜브 설계보다 눈에 띄게 강성이 높습니다. 228cm 바 높이는 185cm 이하 사용자에게 데드행 여유를 제공합니다. VKR 팔걸이와 딥 핸들은 긴 세트에서 가장 편안하지는 않습니다 — Weider가 두 가지 모두 개선됩니다.",
+      "pros": [
+        "4스테이션 설계로 풀업, 딥, 푸시업, VKR을 하나의 유닛에서 커버",
+        "3.8cm 사각 튜브 프레임은 가격 카테고리에 비해 강성이 높음",
+        "228cm 바 높이로 ~185cm 이하 사용자가 무릎을 구부리지 않고 데드행 가능"
+      ],
+      "cons": [
+        "VKR 팔걸이 패딩이 Weider보다 얇아 긴 매달린 레그 레이즈 세트에서 체감됨"
+      ]
+    },
+    {
+      "offerId": "power-tower-workout-dip-station",
+      "grade": "A",
+      "specs": {
+        "Stations": "4 (pull-up, dip, push-up, VKR)",
+        "Base footprint": "95×110 cm",
+        "Bar height": "Up to ~220 cm (adjustable)",
+        "Load capacity": "150 kg static",
+        "Frame": "Round tube steel",
+        "Price": "$199.99",
+        "Assembly time": "~60 min"
+      },
+      "scores": {
+        "Stability": 4.3,
+        "Load capacity": 4.7,
+        "Footprint": 4.9,
+        "Value": 4.6,
+        "Versatility": 4.5
+      },
+      "badge": "가장 컴팩트",
+      "review": "Yaheetech Power Tower는 Fitness Reality X2와 동일한 4개 스테이션을 95×110cm 풋프린트에 패키징했습니다 — 이 비교에서 가장 컴팩트한 파워 타워입니다. 바 높이는 사전 설정된 구멍을 통해 220cm까지 조정 가능하며, 150kg 평점은 이 비교에서 가장 높습니다. VKR 팔걸이 패딩은 X2보다 얇고, 고정 폭 딥 핸들은 어깨가 넓은 사용자에게 좁게 느껴질 수 있습니다. 공간이 제약인 경우 최선의 선택입니다.",
+      "pros": [
+        "이 비교에서 가장 작은 파워 타워 풋프린트 95×110cm",
+        "150kg 정적 하중 평점 — 여기 있는 모든 유닛 중 가장 높음",
+        "사전 설정된 위치를 통해 최대 220cm까지 바 높이 조정 가능"
+      ],
+      "cons": [
+        "VKR 팔걸이 패딩이 Fitness Reality X2와 Weider보다 얇음"
+      ]
+    },
+    {
+      "offerId": "cap-barbell-freestanding-pull-up-bar",
+      "grade": "B+",
+      "specs": {
+        "Stations": "1 (pull-up only)",
+        "Base footprint": "~97×60 cm",
+        "Bar height": "~218 cm (fixed)",
+        "Load capacity": "136 kg static",
+        "Base design": "A-frame with outrigger feet",
+        "Price": "$149.99",
+        "Grip options": "Wide overhand, neutral parallel"
+      },
+      "scores": {
+        "Stability": 4.6,
+        "Load capacity": 4.4,
+        "Footprint": 4.8,
+        "Value": 4.3,
+        "Versatility": 2.8
+      },
+      "badge": "풀업 전용 최고",
+      "review": "CAP Barbell은 딥이나 VKR 없는 독립형 풀업 스테이션으로, 이 비교에서 97×60cm로 가장 적은 깊이를 가진 유닛입니다. A프레임 아웃리거 베이스는 사용자가 좁은 베이스 끝부분이 아닌 넓은 베이스 중앙에 매달리기 때문에 직각 베이스 설계보다 엄격한 데드행 풀업에 대해 더 나은 측면 안정성을 제공합니다. 218cm 고정 바와 내장된 다양한 그립 옵션. 프로그램에 딥이나 VKR을 추가하려는 경우에는 적합하지 않습니다.",
+      "pros": [
+        "97×60cm로 가장 작은 깊이 풋프린트 — 파워 타워가 들어갈 수 없는 공간에도 적합",
+        "A프레임 베이스는 직각 베이스 설계보다 더 나은 측면 안정성 제공",
+        "다양한 그립 위치: 와이드 오버핸드 및 뉴트럴 패러렐"
+      ],
+      "cons": [
+        "딥 스테이션, 푸시업 핸들, VKR 없음 — 풀업 전용"
+      ]
+    },
+    {
+      "offerId": "weider-power-tower-200",
+      "grade": "B",
+      "specs": {
+        "Stations": "4 (pull-up, dip, push-up, VKR)",
+        "Base footprint": "115×135 cm",
+        "Bar height": "~228 cm (fixed)",
+        "Load capacity": "136 kg static",
+        "Frame": "Heavy-gauge steel",
+        "Price": "$206.09",
+        "Assembly time": "~90 min"
+      },
+      "scores": {
+        "Stability": 4.7,
+        "Load capacity": 4.4,
+        "Footprint": 3.2,
+        "Value": 4.0,
+        "Versatility": 4.6
+      },
+      "badge": "최고 프리미엄",
+      "review": "Weider Power Tower 200은 훈련 중 가장 눈에 띄는 두 가지 점에서 Fitness Reality X2를 개선합니다: 더 넓은 딥 핸들 간격과 두꺼운 VKR 팔걸이 패딩입니다. 두 변경 사항 모두 이러한 스테이션을 자주 사용하는 운동선수의 편안함과 어깨 포지셔닝을 향상시킵니다. 더 무거운 프레임 게이지로 강성이 증가하지만 크기도 증가합니다 — 115×135cm 풋프린트는 이 비교에서 가장 큽니다. 딥과 VKR 스테이션을 정기적으로 사용하고 긴 세트에서의 편안함을 중시한다면 X2 대비 프리미엄 가치가 있습니다.",
+      "pros": [
+        "넓은 딥 핸들 간격으로 딥 바닥에서 어깨 포지셔닝 개선",
+        "VKR 팔걸이 패딩이 두꺼워 긴 세트에서 눈에 띄게 더 편안함",
+        "더 무거운 프레임 게이지로 저가 파워 타워보다 강성 높음"
+      ],
+      "cons": [
+        "115×135cm 풋프린트는 이 비교에서 가장 큼"
+      ]
+    },
+    {
+      "offerId": "ultimate-body-press-freestanding-bar",
+      "grade": "B-",
+      "specs": {
+        "Stations": "1 (pull-up only)",
+        "Base footprint": "~4-foot rectangular",
+        "Bar height": "193–244 cm (adjustable presets)",
+        "Load capacity": "136 kg with anchor",
+        "Base design": "Rectangular 4-foot",
+        "Price": "$79.95",
+        "Anchor": "Wall strap included"
+      },
+      "scores": {
+        "Stability": 3.8,
+        "Load capacity": 4.0,
+        "Footprint": 4.2,
+        "Value": 4.4,
+        "Versatility": 2.6
+      },
+      "badge": "키 큰 사용자에게 최고",
+      "review": "Ultimate Body Press는 이 비교에서 유일하게 높이 조정 기능이 있는 독립형 풀업 바로 — 193~244cm를 사전 설정된 단계로 조정 가능하여 여기서 이용 가능한 가장 높은 설정입니다. 직선 오버핸드 바에는 뉴트럴 또는 패러렐 그립 핸들이 내장되어 있지 않습니다. 사각형 4발 베이스는 80kg 이상 사용자의 동적 동작 시 높은 설정에서 CAP의 A프레임 설계보다 약간 덜 안정적입니다. 포함된 벽 앵커 스트랩이 이를 해결합니다. 다른 키의 훈련 파트너와 바를 공유하는 185cm 이상 사용자에게 최고의 선택입니다.",
+      "pros": [
+        "193~244cm 조정 가능한 높이 — 이 비교에서 가장 높은 설정",
+        "동적 부하 하 안정성 향상을 위한 벽 앵커 하드웨어 포함",
+        "좁은 공간에 맞는 컴팩트한 직사각형 베이스"
+      ],
+      "cons": [
+        "직선 바만 — 내장된 뉴트럴 또는 패러렐 그립 핸들 없음"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "완전한 상체 훈련을 원하는 대부분의 홈짐 사용자에게",
+      "offerId": "fitness-reality-x2-power-tower",
+      "reason": "가장 낮은 가격에 관리 가능한 풋프린트에서 4개 스테이션 — 별도 장비 구매 없이 풀업, 딥, 푸시업, VKR 커버."
+    },
+    {
+      "label": "모든 센티미터가 중요한 작은 방을 위해",
+      "offerId": "power-tower-workout-dip-station",
+      "reason": "가장 높은 부하 평점을 가진 이 비교에서 가장 작은 파워 타워 풋프린트 — 공간이 제약 요소인 경우 올바른 선택."
+    },
+    {
+      "label": "파워 타워 부피 없이 풀업 전용 훈련을 위해",
+      "offerId": "cap-barbell-freestanding-pull-up-bar",
+      "reason": "A프레임 안정성과 최소 깊이 풋프린트가 전체 파워 타워의 공간 부담 없이 풀업 능력 제공."
+    },
+    {
+      "label": "최대 편안함을 원하는 딥과 VKR 자주 사용 사용자에게",
+      "offerId": "weider-power-tower-200",
+      "reason": "더 넓은 딥 핸들과 두꺼운 VKR 패딩이 주당 3회 이상 이러한 스테이션에 의존하는 운동선수를 위한 프리미엄 정당화."
+    },
+    {
+      "label": "조정 가능한 높이가 필요한 185cm 이상 사용자에게",
+      "offerId": "ultimate-body-press-freestanding-bar",
+      "reason": "이 비교에서 244cm로 가장 높은 바 설정 — 무릎을 구부린 매달리기 없이 매우 키 큰 사용자를 수용할 수 있는 유일한 독립형 옵션."
+    }
+  ]
 }

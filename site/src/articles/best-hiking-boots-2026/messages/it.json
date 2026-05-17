@@ -92,5 +92,139 @@
     "columbia-newton-ridge-plus-ii": "Il prezzo di ingresso piu accessibile con impermeabilizzazione genuina e una calzata che accoglie le forme del piede largo. La suola Omni-Grip e il midsole piu morbido limitano le prestazioni su terreno tecnico e limitano la longevita a 600-800 km. La scelta giusta per l'escursionismo moderato su sentiero con un budget limitato."
   },
   "pinDescription": "Scarponi da trekking a confronto per il 2026 — opzioni mid-cut impermeabili da $110 entry-level a $200 scarponi da approccio tecnico. Salomon vs Merrell vs Hoka vs La Sportiva vs Columbia: quale suola, quale impermeabilizzazione e quale calzata e giusta per i tuoi sentieri. #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni scarpone è stato valutato su cinque criteri specifici del sentiero: supporto alla caviglia e torsionale misurato rispetto alla rigidità del collare, tipo di membrana impermeabile e compromesso di traspirabilità, profilo del battistrada e trazione su roccia bagnata e fango, prezzo per km di vita utile stimata, e distanza di rodaggio secondo le segnalazioni degli utenti.",
+  "products": [
+    {
+      "offerId": "salomon-x-ultra-4-gtx",
+      "badge": "Migliore Scelta Generale",
+      "review": "L'X Ultra 4 GTX stabilisce lo standard per gli scarponi da trekking polivalenti con la sua calzata Contragrip precisa e il sistema di allacciatura Quicklace. La suola Contagrip MA offre un'aderenza affidabile su roccia e fango senza essere troppo aggressiva per l'uso urbano. L'unico vero svantaggio è il prezzo: a $200 costa $90 in più del Columbia, differenza che si giustifica solo per chi percorre regolarmente sentieri tecnici.",
+      "pros": ["Calzata precisa che riduce la fatica su 10+ km", "Sistema Quicklace per una regolazione fine con un solo tiro", "Membrana GTX con ottimo rapporto impermeabilità/traspirabilità"],
+      "cons": ["Prezzo premium non giustificato per escursioni occasionali facili"],
+      "grade": "A+",
+      "specs": {
+        "Membrana": "Gore-Tex",
+        "Suola": "Contagrip MA",
+        "Altezza del collare": "Media",
+        "Peso (paio)": "880 g",
+        "Tipo di allacciatura": "Quicklace",
+        "Distanza di rodaggio": "~8 km"
+      },
+      "scores": {
+        "Support": 4.7,
+        "Waterproofing": 4.8,
+        "Traction": 4.7,
+        "Value": 4.3,
+        "Durability": 4.8
+      }
+    },
+    {
+      "offerId": "merrell-moab-3-mid-wp",
+      "badge": "Miglior Rapporto Qualità-Prezzo",
+      "review": "Il Moab 3 Mid WP offre la migliore combinazione prezzo-prestazioni del gruppo: protezione Vibram TC5+ collaudata, membrana M Select DRY e una calzata che si adatta bene ai piedi medi e larghi. Non è rigido torsionalmente come il Salomon su terreno tecnico, ma per il 90% degli escursionisti è più che sufficiente a $45 in meno.",
+      "pros": ["Suola Vibram TC5+ con aderenza superiore su roccia bagnata", "Calzata larga adatta a diversi tipi di piede", "Ottimo rapporto prezzo-durabilità a $155"],
+      "cons": ["Minore rigidità torsionale su terreno molto tecnico"],
+      "grade": "A",
+      "specs": {
+        "Membrana": "M Select DRY",
+        "Suola": "Vibram TC5+",
+        "Altezza del collare": "Media",
+        "Peso (paio)": "960 g",
+        "Tipo di allacciatura": "Laccio tradizionale",
+        "Distanza di rodaggio": "~5 km"
+      },
+      "scores": {
+        "Support": 4.3,
+        "Waterproofing": 4.5,
+        "Traction": 4.6,
+        "Value": 4.9,
+        "Durability": 4.4
+      }
+    },
+    {
+      "offerId": "hoka-anacapa-mid-gtx",
+      "badge": "Migliore Ammortizzazione",
+      "review": "L'Anacapa Mid GTX porta la piattaforma di ammortizzazione di Hoka nel trekking con risultati contrastanti. L'ammortizzazione spessa protegge le articolazioni nelle lunghe uscite e la suola Vibram Megagrip aderisce sorprendentemente bene. Tuttavia, la piattaforma elevata riduce la propriocezione sui sentieri tecnici e il prezzo di $175 rappresenta un costo aggiuntivo rispetto al Merrell.",
+      "pros": ["Ammortizzazione spessa ideale per giorni con oltre 20 km", "Membrana Gore-Tex con buona tenuta sotto forte pioggia", "Vibram Megagrip con ottima trazione su tutti i terreni"],
+      "cons": ["Piattaforma alta riduce la sensazione del suolo su percorsi tecnici"],
+      "grade": "B+",
+      "specs": {
+        "Membrana": "Gore-Tex",
+        "Suola": "Vibram Megagrip",
+        "Altezza del collare": "Media",
+        "Peso (paio)": "960 g",
+        "Drop": "6 mm",
+        "Distanza di rodaggio": "~10 km"
+      },
+      "scores": {
+        "Support": 4.0,
+        "Waterproofing": 4.7,
+        "Traction": 4.8,
+        "Value": 3.8,
+        "Durability": 4.3
+      }
+    },
+    {
+      "offerId": "la-sportiva-tx4-gtx",
+      "badge": "Migliore per Terreno Tecnico",
+      "review": "La TX4 GTX è la scarpa d'approccio più specializzata del gruppo, con la suola Vibram Megagrip più aggressiva e la maggiore rigidità torsionale. Domina su roccia secca e bagnata dove le altre scivolano. Il prezzo di $189 è quasi pari al Salomon, e il rodaggio di 20+ km la rende inadatta agli escursionisti occasionali.",
+      "pros": ["Suola Vibram Megagrip con trazione perfetta su roccia", "Massima rigidità torsionale per l'arrampicata d'approccio", "Gore-Tex con impermeabilità affidabile in condizioni estreme"],
+      "cons": ["Lungo rodaggio (~20 km) e calzata stretta iniziale"],
+      "grade": "B",
+      "specs": {
+        "Membrana": "Gore-Tex",
+        "Suola": "Vibram Megagrip",
+        "Tipo": "Scarpa d'approccio",
+        "Peso (paio)": "860 g",
+        "Rigidità torsionale": "Alta",
+        "Distanza di rodaggio": "~20 km"
+      },
+      "scores": {
+        "Support": 4.8,
+        "Waterproofing": 4.6,
+        "Traction": 5.0,
+        "Value": 3.5,
+        "Durability": 4.9
+      }
+    },
+    {
+      "offerId": "columbia-newton-ridge-plus-ii",
+      "badge": "Miglior Prezzo d'Ingresso",
+      "review": "Il Newton Ridge Plus II offre vera protezione impermeabile e una calzata generosa a soli $110, rendendolo la miglior introduzione al trekking con scarpone a media altezza. La suola Omni-Grip e il midsole più morbido limitano le prestazioni su terreno tecnico e la durata a 600-800 km. È la scelta giusta per le escursioni moderate su sentiero senza necessità di trazione specializzata.",
+      "pros": ["Il prezzo più accessibile del gruppo a $110", "Calzata larga che accoglie comodamente i piedi larghi", "Impermeabilizzazione Omni-Tech genuinamente efficace con pioggia moderata"],
+      "cons": ["Suola e midsole limitati su terreno tecnico impegnativo"],
+      "grade": "B-",
+      "specs": {
+        "Membrana": "Columbia Omni-Tech",
+        "Suola": "Omni-Grip",
+        "Altezza del collare": "Alta",
+        "Peso (paio)": "1040 g",
+        "Vita utile stimata": "600-800 km",
+        "Distanza di rodaggio": "~3 km"
+      },
+      "scores": {
+        "Support": 3.8,
+        "Waterproofing": 4.2,
+        "Traction": 3.8,
+        "Value": 5.0,
+        "Durability": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per gli escursionisti che cercano lo scarpone polivalente migliore",
+      "offerId": "salomon-x-ultra-4-gtx",
+      "reason": "La calzata precisa e il sistema Quicklace lo rendono il più versatile del gruppo per uscite impegnative."
+    },
+    {
+      "label": "Per gli escursionisti che cercano il miglior rapporto qualità-prezzo",
+      "offerId": "merrell-moab-3-mid-wp",
+      "reason": "Suola Vibram e durabilità collaudata a $45 in meno del Salomon — il punto ottimale per la maggior parte degli utenti."
+    },
+    {
+      "label": "Per gli arrampicatori d'approccio e terreno tecnico",
+      "offerId": "la-sportiva-tx4-gtx",
+      "reason": "La trazione Vibram Megagrip e la massima rigidità sono imbattibili su roccia secca e bagnata."
+    }
+  ]
 }

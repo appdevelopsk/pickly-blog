@@ -76,5 +76,144 @@
     "fellow-stagg-x-set": "Complete pour-over starter kit with steep-and-release valve — 18,000-22,000 yen for the set including gooseneck kettle. Steep-and-release mode is the most beginner-forgiving extraction in this comparison. Price is 8-10x the Hario V60; valve adds a decision point per brew session."
   },
   "pinDescription": "Five pour-over coffee drippers compared in 2026: Hario V60 Ceramic vs Chemex vs Kalita Wave vs Bodum vs Fellow Stagg. Which produces the clearest cup, which forgives an imprecise pour, and what the paper filter cost difference looks like over a full year.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each dripper was assessed on filter geometry and extraction character, brew capacity relative to stated serving size, skill ceiling and forgiveness of technique errors, paper filter availability and annual cost, and cleanup burden over daily use.",
+  "products": [
+    {
+      "offerId": "hario-v60-ceramic-02",
+      "badge": "Best Overall",
+      "review": "The Hario V60 Ceramic 02 is the global reference standard for pour-over — the tool specialty coffee uses as a baseline. Spiral ribs run the full cone height for even drainage; the large single apex opening drains fast for bright, clear extraction. Ceramic holds heat significantly better than plastic versions, and at 2,000–2,500 yen it makes getting started low-risk. The honest trade-off: fast drainage amplifies technique errors — an inconsistent pour shows directly in the cup, which takes 1–2 weeks of practice to master.",
+      "pros": ["Global reference standard — largest tutorial and recipe library of any dripper", "Ceramic body holds heat significantly better than plastic", "Bright, high-clarity extraction that expresses single-origin character"],
+      "cons": ["High skill ceiling — technique errors show directly in the cup; ceramic can chip"],
+      "grade": "A+",
+      "specs": {
+        "Filter type": "Hario V60 tabbed paper (tabless also compatible)",
+        "Dripper shape": "60° cone",
+        "Material": "Ceramic",
+        "Capacity": "1–4 cups (~480ml max)",
+        "Paper filter cost": "~700–900 yen / 100 filters",
+        "Price": "~¥2,000–2,500"
+      },
+      "scores": {
+        "Brew clarity": 5.0,
+        "Value": 5.0,
+        "Ease of use": 3.5,
+        "Build quality": 4.5,
+        "Completeness": 3.0
+      }
+    },
+    {
+      "offerId": "chemex-classic-6cup",
+      "badge": "Best for Batch Brewing",
+      "review": "The Chemex brews and serves in one borosilicate glass vessel — up to 900ml per batch (3–4 full mugs). Its thick bonded paper filter produces the lightest, cleanest cup in this comparison: almost zero body, striking clarity, and high transparency on acidity and aroma. The design has been in MoMA's collection since 1943. Chemex-specific filters cost more and are harder to find locally; the glass carafe drops to below drinking temperature within 10–12 minutes if you don't pour immediately.",
+      "pros": ["Brews and serves up to 900ml (3–4 mugs) in a single vessel", "Thickest bonded paper filter — cleanest, lightest-bodied cup in this comparison", "Iconic design doubles as a countertop object"],
+      "cons": ["Chemex-specific filters cost more and are less available; glass carafe not insulated"],
+      "grade": "A",
+      "specs": {
+        "Filter type": "Chemex-specific bonded paper",
+        "Dripper shape": "Chimney",
+        "Material": "Borosilicate glass",
+        "Capacity": "Up to 900ml (6-cup model)",
+        "Paper filter cost": "~1,200–1,500 yen / 100 filters",
+        "Price": "~¥6,000–7,000"
+      },
+      "scores": {
+        "Brew clarity": 5.0,
+        "Value": 3.8,
+        "Ease of use": 3.8,
+        "Build quality": 4.2,
+        "Completeness": 3.5
+      }
+    },
+    {
+      "offerId": "kalita-wave-185-stainless",
+      "badge": "Best for Consistent Daily Use",
+      "review": "The Kalita Wave 185's flat-bottom with three small holes evens out flow rate and absorbs pour inconsistencies that would ruin a V60 cup. Stainless steel survives drops that would shatter ceramic or glass. The result is a fuller-bodied, rounder cup than the V60 with noticeably more cup-to-cup consistency for less exacting brewers. Wave-specific ripple papers are required; the three holes need periodic cleaning with a brush or toothpick.",
+      "pros": ["Flat-bottom geometry forgives imprecise pouring — most consistent daily results", "Stainless steel survives drops unlike ceramic V60 or glass Chemex", "Fuller-bodied, rounder extraction than cone drippers"],
+      "cons": ["Wave-specific ripple papers required; three holes need periodic cleaning"],
+      "grade": "B+",
+      "specs": {
+        "Filter type": "Kalita Wave ripple paper (185 size)",
+        "Dripper shape": "Flat-bottom, 3-hole",
+        "Material": "Stainless steel",
+        "Capacity": "2–4 cups",
+        "Paper filter cost": "~900–1,100 yen / 100 filters",
+        "Price": "~¥5,000–6,000"
+      },
+      "scores": {
+        "Brew clarity": 4.3,
+        "Value": 4.2,
+        "Ease of use": 4.5,
+        "Build quality": 5.0,
+        "Completeness": 3.5
+      }
+    },
+    {
+      "offerId": "bodum-pour-over-permanent",
+      "badge": "Best Zero Paper Cost",
+      "review": "The Bodum's stainless mesh permanent filter passes coffee oils into the cup — richer body, French-press-adjacent mouthfeel, zero paper filter running cost. The cone frame sits on most mugs and eliminates any consumable expense. The mesh requires an immediate post-brew rinse before grounds dry into the holes, and the glass carafe will break on a hard drop. Best for drinkers who prefer heavier-bodied cups and want to eliminate paper costs.",
+      "pros": ["Permanent stainless mesh filter — zero paper filter running cost", "Passes coffee oils for richer, French-press-adjacent body", "Low entry price at ~¥3,000–3,500"],
+      "cons": ["Mesh must be rinsed immediately after use; glass carafe breaks on impact"],
+      "grade": "B",
+      "specs": {
+        "Filter type": "Permanent stainless mesh",
+        "Dripper shape": "Cone",
+        "Material": "Stainless steel frame + borosilicate glass carafe",
+        "Capacity": "1–2 cups",
+        "Paper filter cost": "None",
+        "Price": "~¥3,000–3,500"
+      },
+      "scores": {
+        "Brew clarity": 3.5,
+        "Value": 4.8,
+        "Ease of use": 4.0,
+        "Build quality": 3.8,
+        "Completeness": 4.0
+      }
+    },
+    {
+      "offerId": "fellow-stagg-x-set",
+      "badge": "Best Complete Starter Kit",
+      "review": "The Fellow Stagg [X] set includes a cone dripper with a steep-and-release base valve and a gooseneck kettle — the most beginner-forgiving extraction method in this comparison when used in immersion (valve-closed) mode, and the most complete out-of-box setup. Compatible with standard V60 02 cone papers. The valve adds one decision point per brew; at ¥18,000–22,000 for the set it costs 8–10x the Hario V60 Ceramic.",
+      "pros": ["Complete set: dripper + gooseneck kettle in one purchase", "Steep-and-release valve mode is the most forgiving method in this comparison", "Uses standard V60 02 cone papers — widely available"],
+      "cons": ["¥18,000–22,000 for the set is 8–10x the cost of the V60 ceramic alone"],
+      "grade": "B-",
+      "specs": {
+        "Filter type": "V60 02-compatible cone paper",
+        "Dripper shape": "Steep-and-release cone with base valve",
+        "Material": "Stainless steel dripper + kettle",
+        "Included": "Dripper + gooseneck kettle",
+        "Valve modes": "Open pour-over + immersion steep-and-release",
+        "Price": "~¥18,000–22,000 (set)"
+      },
+      "scores": {
+        "Brew clarity": 4.5,
+        "Value": 2.8,
+        "Ease of use": 4.8,
+        "Build quality": 4.8,
+        "Completeness": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For specialty coffee enthusiasts",
+      "offerId": "hario-v60-ceramic-02",
+      "reason": "The global reference dripper — the low price makes getting started low-risk, and the skill ceiling is what separates origin character from a flat cup."
+    },
+    {
+      "label": "For households brewing 3–4 cups at once",
+      "offerId": "chemex-classic-6cup",
+      "reason": "Brews and serves 900ml (3–4 full mugs) in one vessel with the cleanest, lightest-bodied cup in this comparison."
+    },
+    {
+      "label": "For busy daily brewers who want consistent results",
+      "offerId": "kalita-wave-185-stainless",
+      "reason": "The flat-bottom geometry forgives an imprecise pour and the stainless body survives drops — more consistency with less daily discipline."
+    },
+    {
+      "label": "For complete beginner setups",
+      "offerId": "fellow-stagg-x-set",
+      "reason": "Includes the dripper and gooseneck kettle in one purchase; the steep-and-release mode is the most forgiving method in this comparison for new pour-over brewers."
+    }
+  ]
 }

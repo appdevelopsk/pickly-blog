@@ -110,5 +110,64 @@
     "aulola-travel-adapter": "Ultra-kompakter Formfaktor -- leichter und kleiner als jeder andere Adapter in diesem Vergleich. Deckt Typen A, C, G und I ab. Eine Wechselstrombuchse, kein eingebautes USB-Laden. Unter $15. Ein Geraet nach dem anderen ueber die Wechselstrombuchse ohne USB-Ports; kein Ueberspannungsschutz; Bauqualitaet-Toleranzen koennen bei einigen Steckertypen locker sein."
   },
   "pinDescription": "Beste Reiseadapter 2026 -- brauchen Sie einen Konverter oder nur einen Steckeradapter? USB-C-PD-Wattage fuer MacBook-Laden, Ueberspannungsschutz fuer Suedostasien, Weltweite Steckerkarte Typ A/C/G/I. EPICKA vs Ceptics vs BESTEK vs Satechi vs Aulola. Ehrliche Schwaechenanalyse jeder Wahl. #Reiseadapter #Reisen #Steckdose #deutsch",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Jeder Adapter wurde nach Steckertyp-Abdeckung, USB-C-PD-Ausgangsleistung, Überspannungsschutz-Nennwert, Verarbeitungsqualität und Gesamtbetriebskosten bewertet.",
+  "products": [
+    {
+      "offerId": "epicka-universal-adapter",
+      "badge": "Gesamtsieger",
+      "review": "Deckt 150+ Länder mit zehn Steckertypen, vier USB-A-Ports und USB-C ab — die umfassendste Steckerabdeckung. Der 2000-Joule-MOV-Überspannungsschutz bietet echten Schutz für Reisen nach Südostasien und Südasien. Der Ausklapp-Mechanismus kann nach einem Jahr intensiver Nutzung wackelig werden, und USB-C mit 18W reicht nicht für schnelles MacBook-Laden.",
+      "pros": ["10 Steckertypen für 150+ Länder", "2000-Joule-MOV-Überspannungsschutz", "5 Ladeanschlüsse gleichzeitig"],
+      "cons": ["USB-C nur 18W — zu langsam für schnelles Laptop-Laden"],
+      "grade": "A+",
+      "specs": {"Steckertypen": "A, B, C, D, E/F, G, H, I, L, N", "Länder": "150+", "USB-A-Ports": "4", "USB-C-Ausgang": "18W", "Überspannungsschutz": "2000 Joule (MOV)", "Steckdose": "1", "Max. Last": "6A / 1380W"},
+      "scores": {"Compatibility": 5.0, "Build quality": 4.2, "USB ports": 4.5, "Value": 4.8, "Safety features": 5.0}
+    },
+    {
+      "offerId": "ceptics-world-travel-adapter",
+      "badge": "Bester modularer Adapter",
+      "review": "Wechselbare Steckerköpfe ermöglichen es, nur die benötigten Regionen mitzunehmen — leichteste und schlankste Option für Einzelregions-Reisen. USB-A-Laden ist im gemeinsamen Gehäuse integriert. Steckertypen müssen vor der Abreise geplant werden.",
+      "pros": ["Leichteste und schlankste Option je Region", "Nur die benötigten Köpfe kaufen", "USB-A-Ports eingebaut"],
+      "cons": ["Kein Überspannungsschutz", "Steckertypen vor der Reise planen"],
+      "grade": "A",
+      "specs": {"Steckertypen": "A, C/E/F, G, I (modular)", "Design": "Wechselbare Regionalköpfe", "USB-A-Ports": "2", "USB-C-Ausgang": "Keiner", "Überspannungsschutz": "Keiner", "Steckdose": "1", "Gewicht": "Leichteste"},
+      "scores": {"Compatibility": 4.0, "Build quality": 4.5, "USB ports": 3.5, "Value": 4.5, "Safety features": 3.0}
+    },
+    {
+      "offerId": "bestek-travel-adapter",
+      "badge": "Bester mit Spannungswandler",
+      "review": "Der einzige Adapter in diesem Vergleich, der das Spannungswandler-Problem ohne separates Gerät löst — eingebauter 220W-Stufentransformator. Schwerer und sperriger als reine Adapteroptionen; nicht für dauerhaft betriebene Geräte geeignet.",
+      "pros": ["Eingebauter 220W-Stufentransformator", "Deckt A, C, G, I und B ab", "USB-Ladeanschlüsse enthalten"],
+      "cons": ["Schwerstes und sperrigstes Gerät", "Intermittierend-Betrieb — kein Dauerlast"],
+      "grade": "B+",
+      "specs": {"Steckertypen": "A, B, C, G, I", "Spannungswandler": "220W Stufe runter", "USB-A-Ports": "3", "USB-C-Ausgang": "Keiner", "Überspannungsschutz": "Ja", "Steckdose": "1", "Max. Wandlerlast": "220W"},
+      "scores": {"Compatibility": 4.0, "Build quality": 4.0, "USB ports": 3.8, "Value": 4.0, "Safety features": 4.5}
+    },
+    {
+      "offerId": "satechi-travel-adapter",
+      "badge": "Bester für Laptop-Laden",
+      "review": "Der 30W-USB-C-PD-Port ist der höchste Wert hier und der einzige, der für Übernacht-MacBook-Air-Laden ausreicht. Das schlanke Flachprofil passt perfekt ins Laptop-Taschenfach. Kein Typ-D/M bedeutet keine Indien- oder Südafrika-Tauglichkeit.",
+      "pros": ["30W USB-C PD — lädt MacBook Air über Nacht", "Flaches schlankes Design", "Premium-Verarbeitungsqualität"],
+      "cons": ["Kein Typ D/M — nicht für Indien oder Südafrika"],
+      "grade": "B",
+      "specs": {"Steckertypen": "A, C, G, I", "USB-C-PD-Ausgang": "30W", "USB-A-Port": "1", "Überspannungsschutz": "Keiner", "Steckdose": "1", "Formfaktor": "Flaches Profil", "Preisklasse": "Premium"},
+      "scores": {"Compatibility": 3.8, "Build quality": 5.0, "USB ports": 4.0, "Value": 3.5, "Safety features": 3.0}
+    },
+    {
+      "offerId": "aulola-travel-adapter",
+      "badge": "Bester Budget-/Reserveadapter",
+      "review": "Ultra-kompakt und unter 16 € — nützlich als Ersatz oder für Eingerät-Reisende. Deckt die vier Haupt-Steckertypen in kleinstmöglicher Form ab. Keine USB-Ports, kein Überspannungsschutz.",
+      "pros": ["Ultra-kompakt — passt in jede Tasche", "4 Haupt-Steckertypen abgedeckt", "Unter 16 €"],
+      "cons": ["Keine USB-Ports — nur ein Gerät über Steckdose", "Kein Überspannungsschutz"],
+      "grade": "B-",
+      "specs": {"Steckertypen": "A, C, G, I", "USB-Ports": "Keine", "Überspannungsschutz": "Keiner", "Steckdose": "1", "Max. Last": "6A / 1500W", "Formfaktor": "Ultra-kompakt", "Preisklasse": "Budget"},
+      "scores": {"Compatibility": 3.5, "Build quality": 3.0, "USB ports": 1.0, "Value": 5.0, "Safety features": 2.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für Vielreisende in mehrere Länder", "offerId": "epicka-universal-adapter", "reason": "Ein Adapter deckt jedes Ziel ab — kein Planen nötig, Überspannungsschutz inklusive."},
+    {"label": "Für Remote-Worker mit MacBook", "offerId": "satechi-travel-adapter", "reason": "Der einzige 30W-USB-C-PD-Port hier, der ein MacBook Air sinnvoll lädt."},
+    {"label": "Für Reisende mit 110V-Geräten", "offerId": "bestek-travel-adapter", "reason": "Eingebauter Stufentransformator — einzige Lösung für 110V-Geräte im Ausland."},
+    {"label": "Für minimalistische Einzelregions-Reisende", "offerId": "ceptics-world-travel-adapter", "reason": "Nur den benötigten Steckerkopf mitnehmen — leichteste Kombination."},
+    {"label": "Als Reserve oder für Ein-Gerät-Reisende", "offerId": "aulola-travel-adapter", "reason": "Kleinster und günstigster Adapter — ideal als Ersatz."}
+  ]
 }

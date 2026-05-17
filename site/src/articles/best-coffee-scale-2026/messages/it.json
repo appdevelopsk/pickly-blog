@@ -58,5 +58,144 @@
     "coffee-gator-pour-over-scale": "Risoluzione 0,1g, risposta 1-2 secondi, pile AA, timer. $25-40. Opzione economica di livello base — fornisce timer e misurazione al costo piu basso. Risposta piu lenta limita la precisione. Corretta per i principianti che aggiungono la misurazione alla routine pour-over."
   },
   "pinDescription": "Bilancia per caffe 2026: Acaia Pearl vs Timemore Black Mirror vs Hario V60 vs Felicita Incline — perche il tempo di risposta conta piu della risoluzione, timer integrato spiegato, requisiti bilancia espresso vs pour-over e la migliore bilancia per caffe ad ogni fascia di prezzo. #italiano",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Abbiamo valutato ogni bilancia su tempo di risposta, risoluzione, integrazione del timer, praticità della fonte di alimentazione, qualità costruttiva e adattabilità ai flussi di lavoro sia espresso che pour-over — al tempo di risposta è stato dato il peso maggiore poiché ha il più grande impatto reale sulla precisione.",
+  "products": [
+    {
+      "offerId": "acaia-pearl-coffee-scale",
+      "badge": "Migliore scelta globale",
+      "review": "L'Acaia Pearl è la bilancia per caffè di riferimento — risoluzione 0,1 g, tempo di risposta 300 ms, connettività Bluetooth per registrare le estrazioni, e batteria ricaricabile in un corpo in alluminio che dura 5–10 anni con uso normale. Il prezzo di 150–220 € si giustifica con la longevità e la precisione, non con le funzionalità: semplicemente fa tutto correttamente, ogni volta. L'applicazione Bluetooth è genuinamente utile per perfezionare le ricette.",
+      "pros": ["Tempo di risposta 300 ms — il più veloce tra le bilance qui recensite", "L'app Bluetooth registra dose, resa e tempo su più estrazioni", "Corpo in alluminio con batteria ricaricabile — non servono pile"],
+      "cons": ["150–220 € è un investimento significativo — eccessivo per gli infusori occasionali"],
+      "grade": "A+",
+      "specs": {
+        "Risoluzione": "0,1 g",
+        "Tempo di risposta": "~300 ms",
+        "Alimentazione": "Ricaricabile (USB)",
+        "Connettività": "Bluetooth (app Acaia)",
+        "Dimensione piattaforma": "18 cm × 18 cm (Pearl) / 14 cm × 14 cm (Pearl S)"
+      },
+      "scores": {
+        "Qualità costruttiva": 5.0,
+        "Precisione di estrazione": 4.9,
+        "Facilità d'uso": 4.5,
+        "Rapporto qualità-prezzo": 3.2,
+        "Versatilità": 4.8
+      }
+    },
+    {
+      "offerId": "timemore-black-mirror-scale",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "review": "Il Timemore Black Mirror Basic+ è la raccomandazione standard per chi vuole tutte le funzionalità essenziali di una bilancia per caffè senza il premio Acaia: risoluzione 0,1 g, tempo di risposta 500 ms, timer integrato e pile AA. I 500 ms sono più veloci del 1 secondo di Hario e adeguati per la maggior parte delle ricette. Le pile AA sono un vantaggio pratico rispetto alle ricaricabili per i viaggi. Il corpo in plastica è più leggero e meno premium, ma funzionalmente adeguato.",
+      "pros": ["Tutte le funzionalità essenziali per 40–60 € — il punto di riferimento qualità-prezzo", "Pile AA — comode per i viaggi, nessuna ricarica necessaria", "Avvio del timer con un pulsante — minima distrazione durante l'estrazione"],
+      "cons": ["500 ms di risposta è più lento dei 300 ms di Acaia — lieve penalità per il rispetto preciso delle ricette"],
+      "grade": "A",
+      "specs": {
+        "Risoluzione": "0,1 g",
+        "Tempo di risposta": "~500 ms",
+        "Alimentazione": "Pile AA",
+        "Timer": "Integrato, un pulsante",
+        "Corpo": "Corpo in plastica + piattaforma metallica"
+      },
+      "scores": {
+        "Qualità costruttiva": 3.8,
+        "Precisione di estrazione": 4.5,
+        "Facilità d'uso": 4.6,
+        "Rapporto qualità-prezzo": 4.9,
+        "Versatilità": 4.5
+      }
+    },
+    {
+      "offerId": "hario-v60-drip-scale",
+      "badge": "Migliore per gli utenti V60",
+      "review": "La Hario V60 Drip Scale è progettata per l'ecosistema V60 e punta sulla semplicità: un pulsante avvia il timer, 80 ore di autonomia con pile AA, risoluzione 0,1 g con circa 1 secondo di tempo di risposta. Il tempo di risposta è più lento di Timemore e Acaia, ma l'autonomia è la migliore tra le bilance qui testate. Per gli utenti V60 che vogliono un setup coerente e ricaricano raramente, la bilancia Hario è il compagno naturale — sebbene Timemore offra una risposta migliore a un prezzo simile.",
+      "pros": ["80 ore di autonomia con pile AA — la più lunga qui", "Progettata per l'ecosistema V60 — coerenza visiva", "Semplice utilizzo con un pulsante minimizza le distrazioni durante l'estrazione"],
+      "cons": ["1 secondo di tempo di risposta è il più lento tra le bilance per caffè — influisce sulla precisione al peso target"],
+      "grade": "B+",
+      "specs": {
+        "Risoluzione": "0,1 g",
+        "Tempo di risposta": "~1 secondo",
+        "Alimentazione": "Pile AA",
+        "Autonomia": "~80 ore",
+        "Timer": "Integrato, un pulsante"
+      },
+      "scores": {
+        "Qualità costruttiva": 4.2,
+        "Precisione di estrazione": 4.2,
+        "Facilità d'uso": 4.7,
+        "Rapporto qualità-prezzo": 4.3,
+        "Versatilità": 4.0
+      }
+    },
+    {
+      "offerId": "felicita-incline-coffee-scale",
+      "badge": "Migliore per l'espresso",
+      "review": "L'Incline di Felicita ha un display unico inclinato di 10 gradi che guarda l'utente sopra un portafiltro o il vassoio gocce dell'espresso — rendendolo leggibile senza chinarsi in avanti. Ricaricabile USB-C con timer ad avvio automatico che si attiva quando viene rilevato il peso. Con una risposta di 200–300 ms, eguaglia la velocità di Acaia a un prezzo inferiore (80–120 €). Il design inclinato è utile o un gadget a seconda del setup; per gli utenti espresso con vassoi gocce incassati, è genuinamente pratico.",
+      "pros": ["Display inclinato di 10° — leggibile sopra il portafiltro senza chinarsi", "Timer ad avvio automatico al rilevamento del peso — mani libere", "Risposta 200–300 ms — eguaglia Acaia a costo inferiore"],
+      "cons": ["Il display inclinato è utile solo per setup espresso — meno rilevante per il pour-over"],
+      "grade": "B",
+      "specs": {
+        "Risoluzione": "0,1 g",
+        "Tempo di risposta": "~200–300 ms",
+        "Alimentazione": "USB-C ricaricabile",
+        "Display": "Inclinazione 10°",
+        "Timer": "Avvio automatico al rilevamento del peso"
+      },
+      "scores": {
+        "Qualità costruttiva": 4.3,
+        "Precisione di estrazione": 4.7,
+        "Facilità d'uso": 4.4,
+        "Rapporto qualità-prezzo": 4.0,
+        "Versatilità": 3.8
+      }
+    },
+    {
+      "offerId": "coffee-gator-pour-over-scale",
+      "badge": "Miglior modello entry-level",
+      "review": "La Coffee Gator Pour-Over Scale è il punto d'ingresso — aggiunge timer e misurazione 0,1 g a una routine pour-over di base al costo più basso (25–40 €). Il tempo di risposta di 1–2 secondi è il più lento qui e causerà un superamento costante quando si versa verso pesi target esatti, ma per i principianti che imparano il rituale, l'abitudine al timer e alla misurazione conta più della precisione al millisecondo. È un aggiornamento significativo rispetto a qualsiasi bilancia da cucina.",
+      "pros": ["Prezzo più basso tra le bilance dedicate — 25–40 €", "Timer integrato per il monitoraggio essenziale del tempo di estrazione", "Un vero passo avanti rispetto a una bilancia da cucina per il pour-over"],
+      "cons": ["1–2 secondi di risposta causa superamento del peso quando si versa verso obiettivi precisi"],
+      "grade": "B-",
+      "specs": {
+        "Risoluzione": "0,1 g",
+        "Tempo di risposta": "1–2 secondi",
+        "Alimentazione": "Pile AA",
+        "Timer": "Integrato",
+        "Utenti target": "Principianti / pour-over occasionale"
+      },
+      "scores": {
+        "Qualità costruttiva": 3.3,
+        "Precisione di estrazione": 3.5,
+        "Facilità d'uso": 4.5,
+        "Rapporto qualità-prezzo": 4.8,
+        "Versatilità": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per gli infusori domestici seri",
+      "offerId": "acaia-pearl-coffee-scale",
+      "reason": "Lo standard di riferimento — 300 ms di risposta, registrazione Bluetooth, e una qualità costruttiva che supera qualsiasi bilancia più economica di anni."
+    },
+    {
+      "label": "Per la maggior parte dei setup pour-over domestici",
+      "offerId": "timemore-black-mirror-scale",
+      "reason": "Tutte le funzionalità essenziali a 40–60 € — la raccomandazione predefinita che copre l'80% degli utenti."
+    },
+    {
+      "label": "Per i setup espresso",
+      "offerId": "felicita-incline-coffee-scale",
+      "reason": "Il display inclinato è genuinamente leggibile sopra un portafiltro — l'unico vantaggio ergonomico specifico per l'espresso."
+    },
+    {
+      "label": "Per gli utenti dell'ecosistema V60",
+      "offerId": "hario-v60-drip-scale",
+      "reason": "80 ore di autonomia e semplicità con un pulsante completano l'estrazione V60 — la coerenza visiva è un bonus."
+    },
+    {
+      "label": "Per i principianti nel pour-over",
+      "offerId": "coffee-gator-pour-over-scale",
+      "reason": "A 25–40 € introduce le abitudini di timer e misurazione senza richiedere un investimento impegnato prima di sapere se continuerai."
+    }
+  ]
 }

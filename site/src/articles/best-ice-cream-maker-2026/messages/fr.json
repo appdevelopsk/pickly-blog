@@ -66,5 +66,64 @@
     "kitchenaid-ice-cream-maker-attachment": "Accessoire à bol pré-congelé pour robot pâtissier KitchenAid. Aucune base moteur séparée requise. $50-70. Idéal pour les propriétaires de KitchenAid qui veulent faire de la glace sans un autre appareil sur le plan de travail."
   },
   "pinDescription": "Comparaison de sorbetières 2026 : Cuisinart ICE-21 vs compresseur Whynter vs Breville Smart Scoop vs Ninja Creami vs accessoire KitchenAid — méthode de turbinage, temps de congélation et quelle machine fait la glace la plus lisse comparée. #sorbetiere #glacemaison #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque machine a été évaluée sur la qualité de congélation/turbinage pour trois types de bases (crème anglaise standard, sorbet, riche en protéines), la capacité relative à la taille du foyer, le temps jusqu'à la première cuillerée, la facilité de nettoyage et le rapport qualité-prix réaliste.",
+  "products": [
+    {
+      "offerId": "cuisinart-ice-21-ice-cream-maker",
+      "badge": "Meilleure au global",
+      "review": "La Cuisinart ICE-21 est la sorbetière maison la plus vendue en Amérique du Nord depuis plus de deux décennies parce que le mécanisme est vraiment bon et que le prix est resté honnête. Pré-congelez le bol à double isolation, turbinez 20–25 minutes, et vous obtenez une glace crémeuse et constante pour environ $50–60. La vraie limitation est l'exigence de planification — le bol nécessite 24 heures au congélateur avant usage. Pour la plupart des foyers qui font de la glace occasionnellement, ce n'est pas un problème.",
+      "pros": ["Moins de $60 pour des performances de turbinage éprouvées et fiables", "Bols de remplacement disponibles si le bol casse", "Encombrement compact face aux machines à compresseur"],
+      "cons": ["24 heures de pré-congélation requises pour chaque fournée"],
+      "grade": "A+",
+      "specs": {"Capacité": "1,5 litre", "Type": "Bol pré-congelé", "Temps de turbinage": "20–25 min", "Moteur": "~100W", "Lave-vaisselle": "Bol: Non, Pale: Oui", "Dimensions": "20 × 18 × 23 cm"},
+      "scores": {"Qualité de congélation": 4.2, "Capacité": 3.5, "Vitesse": 3.0, "Facilité d'utilisation": 4.8, "Rapport qualité-prix": 5.0}
+    },
+    {
+      "offerId": "whynter-icm-200ls-ice-cream-maker",
+      "badge": "Meilleur compresseur",
+      "review": "Le Whynter ICM-200LS supprime totalement la contrainte de planification — compresseur intégré, 2,1 litres, pas de pré-congélation. Mélangez la base, versez-la, obtenez de la glace en 30–40 minutes. La fonction de pré-refroidissement refroidit le bol avant d'ajouter les ingrédients, ce qui améliore mesurément la texture en démarrant le turbinage plus froid. Plusieurs fournées le même jour sont possibles. Pour $250–300, vous payez le compresseur et la commodité à la demande ; la qualité de la glace elle-même est comparable à celle du Cuisinart.",
+      "pros": ["Sans pré-congélation — glace à la demande en moins d'une heure", "2,1 litres — la plus grande capacité de cette comparaison", "Pré-refroidissement + fonctions de durcissement pour meilleur contrôle de texture"],
+      "cons": ["Grand encombrement — nécessite un espace dédié ou une armoire suffisamment profonde"],
+      "grade": "A",
+      "specs": {"Capacité": "2,1 litres", "Type": "Compresseur intégré", "Temps de turbinage": "30–45 min", "Compresseur": "Autonome", "Niveau sonore": "~55 dB", "Dimensions": "40 × 28 × 38 cm"},
+      "scores": {"Qualité de congélation": 4.5, "Capacité": 5.0, "Vitesse": 4.5, "Facilité d'utilisation": 4.5, "Rapport qualité-prix": 3.8}
+    },
+    {
+      "offerId": "breville-bci600xl-smart-scoop",
+      "badge": "Meilleure précision",
+      "review": "Le capteur de dureté automatique du Breville Smart Scoop est la caractéristique qui le distingue des autres machines à compresseur — il lit la résistance du moteur à mesure que le mélange épaissit et arrête le turbinage à la fermeté sélectionnée (11 réglages du soft serve à l'extra ferme) sans que vous ayez à surveiller. La fonction keep-soft de 3 heures maintient la glace terminée à température de service sans re-durcissement. Pour les foyers qui font régulièrement du gelato, du sorbet et de la glace, la prime de $350–400 est justifiée.",
+      "pros": ["Le capteur de dureté automatique supprime les approximations entre différents types de bases", "La fonction keep-soft de 3 heures maintient la constance de service", "Mode de pré-refroidissement de 30 min pour la température de départ optimale"],
+      "cons": ["$350–400 est difficile à justifier pour les foyers avec un seul type de base"],
+      "grade": "B+",
+      "specs": {"Capacité": "1 litre", "Type": "Compresseur intégré", "Réglages de dureté": "11", "Temps de pré-refroidissement": "30 min", "Keep-soft": "Jusqu'à 3 heures", "Dimensions": "39 × 22 × 28 cm"},
+      "scores": {"Qualité de congélation": 4.9, "Capacité": 3.2, "Vitesse": 4.2, "Facilité d'utilisation": 4.0, "Rapport qualité-prix": 3.2}
+    },
+    {
+      "offerId": "ninja-creami-ice-cream-maker",
+      "badge": "Meilleure pour les bases non conventionnelles",
+      "review": "Le Ninja Creami ne turbine pas — il traite un pot d'une pinte entièrement congelé avec des lames à haute vitesse, créant une texture lisse à partir d'un bloc congelé solide. Cela ouvre des bases qui échoueraient au turbinage dans n'importe quelle machine traditionnelle : riche en protéines, en fibres, à base de fruits uniquement ou pauvre en graisses. La texture obtenue est remarquablement lisse. La contrainte est la taille des fournées (un pot à la fois) et l'exigence de pré-congélation de 12–24 heures. Pour les foyers soucieux de leur alimentation ou axés sur les protéines, cette machine ouvre des possibilités qui n'existent nulle part ailleurs.",
+      "pros": ["Traite les bases riches en protéines et non conventionnelles que le turbinage traditionnel ne peut pas gérer", "Texture très lisse grâce au traitement par lames", "Les portions d'une pinte conviennent parfaitement à une ou deux personnes"],
+      "cons": ["Un pot par fournée — les grands foyers ont besoin de plusieurs pots pré-congelés"],
+      "grade": "B",
+      "specs": {"Capacité": "1 pinte par fournée", "Type": "Processeur à lames", "Temps de pré-congélation": "12–24 heures", "Temps de traitement": "~2 min", "Contenant": "Pots dédiés d'une pinte", "Dimensions": "33 × 15 × 38 cm"},
+      "scores": {"Qualité de congélation": 4.6, "Capacité": 2.5, "Vitesse": 2.5, "Facilité d'utilisation": 4.2, "Rapport qualité-prix": 4.0}
+    },
+    {
+      "offerId": "kitchenaid-ice-cream-maker-attachment",
+      "badge": "Meilleure pour les propriétaires de KitchenAid",
+      "review": "Si vous possédez déjà un robot pâtissier KitchenAid, cet accessoire ajoute la capacité de faire de la glace pour $50–70 sans une autre base moteur sur le plan de travail. Congelez le bol (même exigence de 24 heures que le Cuisinart), fixez-le au robot et turbinez pendant 25–30 minutes. La performance est comparable au Cuisinart ICE-21. Le véritable avantage est la consolidation d'équipement — un appareil de moins pour qui est déjà investi dans l'écosystème KitchenAid. Pour toute personne sans KitchenAid, achetez simplement le Cuisinart.",
+      "pros": ["Pas de base moteur séparée — exploite l'investissement KitchenAid existant", "Rangement compact — seul le bol a besoin d'espace", "Qualité de turbinage comparable au Cuisinart autonome"],
+      "cons": ["N'a de sens que si vous possédez déjà un robot pâtissier KitchenAid"],
+      "grade": "B-",
+      "specs": {"Capacité": "1,9 litre", "Type": "Accessoire bol pré-congelé", "Compatible avec": "Tous KitchenAid tilt-head & bowl-lift", "Temps de turbinage": "25–30 min", "Lave-vaisselle": "Bol: Non", "Rangement": "Bol uniquement"},
+      "scores": {"Qualité de congélation": 4.0, "Capacité": 4.2, "Vitesse": 2.8, "Facilité d'utilisation": 4.5, "Rapport qualité-prix": 4.3}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour un usage domestique occasionnel", "offerId": "cuisinart-ice-21-ice-cream-maker", "reason": "Meilleur rapport qualité-prix pour les foyers qui font de la glace quelques fois par mois et ne rechignent pas à planifier 24 heures à l'avance."},
+    {"label": "Pour la production à la demande", "offerId": "whynter-icm-200ls-ice-cream-maker", "reason": "Le compresseur intégré élimine l'attente de pré-congélation — plusieurs fournées le même jour sans planification."},
+    {"label": "Pour la précision sur plusieurs types de bases", "offerId": "breville-bci600xl-smart-scoop", "reason": "Le capteur de dureté automatique s'adapte au gelato, au sorbet et à la glace sans surveillance manuelle."},
+    {"label": "Pour les foyers axés sur les protéines ou la diète", "offerId": "ninja-creami-ice-cream-maker", "reason": "Le traitement par lames permet des bases riches en protéines, à base de fruits et pauvres en graisses que les machines à turbiner ne gèrent pas bien."},
+    {"label": "Pour les propriétaires existants de KitchenAid", "offerId": "kitchenaid-ice-cream-maker-attachment", "reason": "Ajoute la capacité de faire de la glace sans un autre appareil — le choix logique si vous possédez déjà un KitchenAid."}
+  ]
 }

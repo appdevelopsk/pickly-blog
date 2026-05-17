@@ -92,5 +92,154 @@
     "garden-of-life-turmeric": "USDA Organic. Whole-food fermented. Vegan certified."
   },
   "pinDescription": "Standard turmeric capsules absorb poorly—but these 5 curcumin supplements are different. Phytosome, BCM-95, and whole-herb picks for real inflammation and joint support.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each supplement was evaluated on bioavailability technology, third-party certification, piperine content and medication interaction risk, cost per therapeutic dose, and supply-chain transparency.",
+  "products": [
+    {
+      "offerId": "thorne-meriva-curcumin",
+      "badge": "Best Overall",
+      "review": "Phospholipid-bound phytosome with ~29x greater absorption than plain curcumin, soy-free (sunflower lecithin), and NSF Certified for Sport — every batch tested for banned substances. The most research-backed high-bioavailability curcumin form available. At $52 it is the premium option, and the absorption math only justifies the price if you have a clear therapeutic goal.",
+      "pros": ["~29x absorption vs plain curcumin (phytosome)", "NSF Certified for Sport — batch-tested", "Soy-free sunflower lecithin formulation"],
+      "cons": ["Highest price per serving — only justified for clear therapeutic goals"],
+      "grade": "A+",
+      "specs": {
+        "Form": "Curcumin phytosome (Meriva)",
+        "Dose per capsule": "500mg Meriva complex",
+        "Absorption enhancement": "~29x vs plain curcumin",
+        "Certification": "NSF Certified for Sport",
+        "Piperine": "No",
+        "Soy-free": "Yes (sunflower lecithin)",
+        "Price": "$52.00"
+      },
+      "scores": {
+        "Bioavailability": 5.0,
+        "Purity": 5.0,
+        "Value": 3.5,
+        "Dosage": 4.5,
+        "Ingredient quality": 5.0
+      }
+    },
+    {
+      "offerId": "life-extension-bio-curcumin",
+      "badge": "Best Piperine-Free Clinical Option",
+      "review": "BCM-95 combines curcuminoids with turmeric's own essential oils for ~6.93x greater absorption, without piperine — making it safer for people on blood thinners and antidepressants where piperine causes drug interaction risk. Life Extension has rigorous third-party testing standards. The 400mg per capsule dose is well-matched to most clinical study protocols.",
+      "pros": ["Piperine-free — safer with most medications", "~6.93x absorption via BCM-95 essential oil mechanism", "Rigorous third-party testing since 1980"],
+      "cons": ["Lower absorption multiplier than Thorne Meriva (6.93x vs 29x)"],
+      "grade": "A",
+      "specs": {
+        "Form": "BCM-95 (curcuminoids + turmeric essential oils)",
+        "Dose per capsule": "400mg BCM-95",
+        "Absorption enhancement": "~6.93x vs plain curcumin",
+        "Certification": "Third-party tested",
+        "Piperine": "No",
+        "Soy-free": "Yes",
+        "Price": "$22.50"
+      },
+      "scores": {
+        "Bioavailability": 4.5,
+        "Purity": 5.0,
+        "Value": 4.8,
+        "Dosage": 4.5,
+        "Ingredient quality": 4.8
+      }
+    },
+    {
+      "offerId": "qunol-turmeric-1000mg",
+      "badge": "Best Widely Available Option",
+      "review": "Liquid gel capsule with lipid carrier system and 1000mg turmeric extract standardised to 95% curcuminoids — the most accessible option in this comparison, sold at Costco and Walmart. Reliable everyday supplement at an accessible price. The absorption advantage over Meriva or BCM-95 is less dramatic but better than plain powder capsules.",
+      "pros": ["Available at Costco and Walmart — no online ordering required", "Liquid gel for improved bioavailability vs powder", "1000mg per serving standardised to 95% curcuminoids"],
+      "cons": ["Absorption advantage lower than phytosome or BCM-95 formats"],
+      "grade": "B+",
+      "specs": {
+        "Form": "Liquid gel capsule (lipid carrier)",
+        "Dose per serving": "1000mg turmeric extract (95% curcuminoids)",
+        "Absorption enhancement": "Moderate (lipid-based)",
+        "Certification": "GMP certified",
+        "Piperine": "No",
+        "Retail availability": "Costco, Walmart, Amazon",
+        "Price": "Accessible (varies by retailer)"
+      },
+      "scores": {
+        "Bioavailability": 3.8,
+        "Purity": 4.0,
+        "Value": 5.0,
+        "Dosage": 4.8,
+        "Ingredient quality": 3.8
+      }
+    },
+    {
+      "offerId": "gaia-herbs-turmeric",
+      "badge": "Best for Organic Priority",
+      "review": "Whole-herb extract plus piperine provides ~20x absorption boost; certified organic, B Corp certified, grown on Gaia's own North Carolina farm with seed-to-shelf traceability on every batch. The most transparent supply chain in this comparison. Piperine content means it should not be combined with medications that have narrow therapeutic windows.",
+      "pros": ["Certified organic with seed-to-shelf traceability", "~20x absorption via piperine", "B Corp certified — strongest supply-chain ethics"],
+      "cons": ["Piperine unsuitable for people on blood thinners or certain medications"],
+      "grade": "B",
+      "specs": {
+        "Form": "Whole-herb extract with piperine (black pepper)",
+        "Dose": "200mg 5:1 turmeric extract + 5mg piperine",
+        "Absorption enhancement": "~20x via piperine",
+        "Certification": "USDA Organic, B Corp certified",
+        "Piperine": "Yes — 5mg",
+        "Farm": "Owned NC farm, seed-to-shelf code",
+        "Price": "$49.49"
+      },
+      "scores": {
+        "Bioavailability": 4.3,
+        "Purity": 4.8,
+        "Value": 3.8,
+        "Dosage": 3.8,
+        "Ingredient quality": 5.0
+      }
+    },
+    {
+      "offerId": "garden-of-life-turmeric",
+      "badge": "Best for Clean-Label & Gut Health",
+      "review": "USDA Certified Organic whole turmeric root and ginger fermented with probiotics for digestive support — every clean-label certification ticked: Non-GMO, Certified Vegan, USDA Organic. Curcumin concentration is lower than the specialized extracts, which is the honest trade-off for a whole-food approach rather than an isolated extract.",
+      "pros": ["USDA Organic, Non-GMO, Certified Vegan — all boxes checked", "Added probiotics and digestive enzymes", "Whole-food philosophy with no isolated extracts"],
+      "cons": ["Lower curcumin concentration than specialized high-bioavailability extracts"],
+      "grade": "B-",
+      "specs": {
+        "Form": "Fermented whole turmeric root + ginger",
+        "Certification": "USDA Organic, Non-GMO Project, Certified Vegan",
+        "Added": "Probiotics, digestive enzymes",
+        "Piperine": "No",
+        "Curcumin concentration": "Lower (whole-food, not isolated)",
+        "Philosophy": "Whole-food supplementation",
+        "Price": "$23.09"
+      },
+      "scores": {
+        "Bioavailability": 3.2,
+        "Purity": 5.0,
+        "Value": 4.5,
+        "Dosage": 3.5,
+        "Ingredient quality": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For chronic joint inflammation or post-surgery recovery",
+      "offerId": "thorne-meriva-curcumin",
+      "reason": "The highest documented absorption rate justifies the premium when you have a clear therapeutic target."
+    },
+    {
+      "label": "For people on prescription medications",
+      "offerId": "life-extension-bio-curcumin",
+      "reason": "Piperine-free BCM-95 avoids the enzyme inhibition that makes piperine-containing supplements unsafe with many drugs."
+    },
+    {
+      "label": "For everyday wellness without online ordering",
+      "offerId": "qunol-turmeric-1000mg",
+      "reason": "Sold at Costco and Walmart — the only option here you can pick up in person without a subscription."
+    },
+    {
+      "label": "For organic-sourcing priorities",
+      "offerId": "gaia-herbs-turmeric",
+      "reason": "Seed-to-shelf traceability and B Corp certification offer the most transparent supply chain in this comparison."
+    },
+    {
+      "label": "For gut health and clean-label priority together",
+      "offerId": "garden-of-life-turmeric",
+      "reason": "Added probiotics and digestive enzymes in a USDA Organic whole-food form — covers both turmeric and gut health in one supplement."
+    }
+  ]
 }

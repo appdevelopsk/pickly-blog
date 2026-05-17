@@ -61,5 +61,64 @@
     "bare-bones-broth": "Fórmula limpa de 4 ingredientes, boi de pasto, marca fundada por mulher"
   },
   "pinDescription": "5 melhores caldos de ossos classificados por proteína, colágeno e procedência — dos de longa vida para o dia a dia aos premium em garrafa de vidro. Encontre a opção certa para saúde intestinal, articulações ou culinária.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada produto foi avaliado pelo perfil de sabor, transparência de origem, custo-benefício por porção, integridade da embalagem e desempenho em usos comuns. Certificações e avaliações verificadas foram confrontadas com as alegações de marketing.",
+  "products": [
+    {
+      "offerId": "kettle-fire-beef-broth",
+      "badge": "Melhor no geral",
+      "review": "Kettle & Fire é o padrão em caldo de ossos de longa conservação: ossos de boi de pasto, 10 g de proteína por porção, tetra pak sem necessidade de refrigeração. O sabor é limpo e saboroso — suave para beber puro, substancioso como base para ensopados. O processamento UHT reduz levemente alguns aminoácidos, mas o ganho de praticidade compensa.",
+      "pros": ["Longa conservação — sem necessidade de espaço na geladeira", "10 g de proteína por porção de ossos de pasto", "Lista curta de ingredientes com vegetais orgânicos"],
+      "cons": ["O processamento UHT pode reduzir levemente alguns aminoácidos em relação a produtos refrigerados"],
+      "grade": "A+",
+      "specs": {"Proteína": "10 g/porção", "Formato": "Tetra Pak (longa conservação)", "Ossos": "Boi de pasto", "Tamanho porção": "240 ml", "Vegetais orgânicos": "Sim"},
+      "scores": {"Qualidade": 4.5, "Sabor": 4.3, "Custo-benefício": 4.4, "Nutrição": 4.4, "Praticidade": 4.9}
+    },
+    {
+      "offerId": "fond-bone-broth",
+      "badge": "Melhor premium",
+      "review": "FOND é o caldo de ossos para quem lê cada rótulo: criação a pasto, certificado orgânico, garrafas de vidro, entregue refrigerado. Gelifica com firmeza na geladeira — o indicador visual de alto teor de gelatina. O sabor rico com ervas é excelente para beber puro, mas pode ser pronunciado demais para usos culinários neutros.",
+      "pros": ["Gelifica com firmeza na geladeira — alto teor de colágeno e gelatina confirmado", "Garrafas de vidro — sem migração de plástico", "Criação a pasto, certificado orgânico"],
+      "cons": ["Aproximadamente o dobro do preço do Kettle & Fire — entrega refrigerada apenas"],
+      "grade": "A",
+      "specs": {"Proteína": "aprox. 9–10 g/porção", "Formato": "Garrafa de vidro (refrigerado)", "Ossos": "Criação a pasto, orgânico", "Gelatina": "Gelifica com firmeza na geladeira", "Cozimento": "Cozido lentamente com ervas"},
+      "scores": {"Qualidade": 4.9, "Sabor": 4.7, "Custo-benefício": 3.2, "Nutrição": 4.8, "Praticidade": 3.5}
+    },
+    {
+      "offerId": "pacific-foods-bone-broth",
+      "badge": "Melhor custo-benefício",
+      "review": "Pacific Foods é o caldo que você encontra no Costco ou no supermercado sem planejamento — certificado USDA Orgânico, cerca de $5–7 por 32 oz. Proteína de 9–10 g/porção, sabor limpo e neutro, ideal quando o caldo é um ingrediente e não o protagonista. Não gelifica na geladeira — menor concentração de gelatina.",
+      "pros": ["USDA Orgânico a preços de grande distribuição", "Amplamente disponível no Costco, Target e supermercados", "Sabor neutro ideal para usos culinários"],
+      "cons": ["Não gelifica na geladeira — concentração de gelatina menor que as alternativas premium"],
+      "grade": "B+",
+      "specs": {"Proteína": "9–10 g/porção", "Formato": "Tetra Pak (longa conservação)", "Certificação": "USDA Orgânico", "Disponibilidade": "Ampla distribuição", "Baixo sódio": "Opção disponível"},
+      "scores": {"Qualidade": 3.9, "Sabor": 3.8, "Custo-benefício": 4.7, "Nutrição": 3.9, "Praticidade": 4.8}
+    },
+    {
+      "offerId": "ancient-nutrition-bone-broth",
+      "badge": "Melhor dose de colágeno",
+      "review": "Ancient Nutrition oferece 20 g de proteína de colágeno por porção de fontes bovinas, frango, peixe e clara de ovo — bem acima dos 7–12 g da maioria dos caldos líquidos. Dissolve sem grumos em bebidas quentes ou frias. Honestamente: é um suplemento de colágeno com o rótulo de caldo de ossos, não um caldo com profundidade de sabor.",
+      "pros": ["20 g de proteína de colágeno/porção — o mais alto entre todos os apresentados", "Colágeno multi-fonte (bovino, frango, peixe, clara de ovo)", "Dissolve sem grumos em bebidas quentes e frias"],
+      "cons": ["Sem sabor de caldo, sem aromáticos, sem utilidade culinária — é um suplemento"],
+      "grade": "B",
+      "specs": {"Proteína": "20 g colágeno/porção", "Formato": "Pó", "Fontes colágeno": "Bovino, frango, peixe, clara de ovo", "Sabores": "Natural, chocolate, baunilha", "Disponibilidade": "Costco, Walmart, lojas de suplementos"},
+      "scores": {"Qualidade": 4.2, "Sabor": 3.5, "Custo-benefício": 4.0, "Nutrição": 4.9, "Praticidade": 4.5}
+    },
+    {
+      "offerId": "bare-bones-broth",
+      "badge": "Rótulo mais limpo",
+      "review": "Bare Bones usa uma fórmula de 4 ingredientes — ossos, água, vinagre de maçã, sal marinho — sem aromas naturais, extrato de levedura ou estabilizantes. 100% boi de pasto, gelifica levemente na geladeira (confirma teor real de gelatina), 10 g de proteína/porção. Sabor direto e encorpado de boi, tanto para beber quanto para cozinhar. Preço intermediário entre a grande distribuição e o FOND.",
+      "pros": ["Fórmula de 4 ingredientes — sem aditivos", "Gelifica levemente na geladeira — teor de gelatina real", "Marca fundada por mulher com rastreabilidade da origem"],
+      "cons": ["Menos distribuída que Pacific Foods ou Kettle & Fire"],
+      "grade": "B-",
+      "specs": {"Proteína": "10 g/porção", "Formato": "Tetra Pak (longa conservação) + saquinhos congelados", "Ossos": "100% boi de pasto", "Ingredientes": "4 (ossos, água, ACV, sal marinho)", "Gelatina": "Gelifica levemente na geladeira"},
+      "scores": {"Qualidade": 4.6, "Sabor": 4.4, "Custo-benefício": 3.8, "Nutrição": 4.6, "Praticidade": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para quem prioriza a dispensa", "offerId": "kettle-fire-beef-broth", "reason": "Longa conservação, disponível em caixas online — a escolha prática padrão para consumo diário ou culinária durante a semana."},
+    {"label": "Para protocolos de saúde intestinal", "offerId": "fond-bone-broth", "reason": "Gelifica com firmeza, entrega refrigerada, maior teor de gelatina — se colágeno e glicina são o objetivo real, o preço extra se justifica."},
+    {"label": "Para cozinhar em grande quantidade", "offerId": "pacific-foods-bone-broth", "reason": "USDA Orgânico a preços de Costco — a escolha certa quando o caldo é um ingrediente, não o protagonista."},
+    {"label": "Para maximizar a ingestão de colágeno", "offerId": "ancient-nutrition-bone-broth", "reason": "Uma colher traz 20 g de colágeno multi-fonte — a forma mais eficiente de enriquecer um smoothie ou café matinal."},
+    {"label": "Para quem lê os rótulos", "offerId": "bare-bones-broth", "reason": "Quatro ingredientes, sem aditivos, boi de pasto — o caldo de ossos padrão mais limpo desta categoria."}
+  ]
 }

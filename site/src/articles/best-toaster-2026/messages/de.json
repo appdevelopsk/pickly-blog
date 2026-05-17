@@ -100,5 +100,64 @@
     "zojirushi-kongari-et-wma22": "Praktische Geraet-Wahl -- 1300 W Heizelement mit fuenf voreingestellten Modi (Toast, gefrorener Toast, Kashi-Pan, Croissant-Aufwaermen, manuelle Temperatur), 22 cm Innenbreite, 7-10 Jahre realistische Lebensdauer und 8-10 Jahre Teileverfuegbarkeit nach Einstellung, kompakte Stellflaeche von 32 cm Breite. Kein Dampf -- einfacher Toast kommt merklich trockener heraus als bei Dampfinjektions-Maschinen; voreingestellte Modi sind grundlegend und der Temperaturdial geht nicht ueber 250 Grad Celsius; Design ist funktionales Japanisch und verdient seinen Arbeitsplatzenplatz nicht durch Aesthetik."
   },
   "pinDescription": "Fuenf Toaster verglichen 2026 von einem praktischen Zojirushi fuer 9.900 Yen bis zum Panasonic Bistro NT-D700 Multifunktions fuer 42.000 Yen. Dampf vs Graphitrohr vs Konvektion vs Einzelscheiben-Geschlossenhohlraum, Stromkosten pro Scheibe, Stellflaeche in einer japanischen Apartmentkueche und das Wartungskleingedruckte das jede Marke verschweigt. #Toaster #Kueche #Haushalt #deutsch",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Jeder Toaster wurde anhand der Heizelement-Technologie (Graphitrohr vs. Dampfinjektion vs. Konvektion vs. Mantelheizung), der Krusten-Gleichmäßigkeits-Bewertungen auf Rakuten und kakaku.com, der Stellfläche und Reinigungsfreundlichkeit sowie der realistischen Lebensdauer in Zwei-mal-täglich-Haushalten bewertet.",
+  "products": [
+    {
+      "offerId": "balmuda-the-toaster-k11a",
+      "badge": "Bestes Design & Dampf",
+      "review": "Balmuds 5-ml-Wasserbecher-Dampfinjektion verbessert eintaegig alten Shokupan merklich — die Kruste wird außen knusprig, waehrend die Innenfeuchtigkeit erhalten bleibt. Das ikonische Industriedesign verdient seinen Arbeitsplattenplatz. Die ehrliche Schwaeche: 4-6 Jahre realistische Lebensdauer, das Innere ist schwer zu reinigen, und der Wasserbecher muss vor jedem Gebrauch befuellt werden.",
+      "pros": ["Dampfinjektion verbessert eintaegig alten Shokupan erheblich", "Kompakte Stellflaeche von 35,7 cm passt in mehr Kuechen als NT-D700", "Ikonisches Balmuda-Design als Kuechen-Statement-Geraet"],
+      "cons": ["4-6 Jahre realistische Lebensdauer mit Dampfmechanismus-Versagen als Hauptausfall"],
+      "grade": "A+",
+      "specs": {"Heizung": "Dampfinjektion (5-ml-Wasserbecher) + Mantelheizung", "Leistung": "1.300 W", "Breite": "35,7 cm", "Modi": "5 Voreinstellungen (Toast, Sandwich, Gebaeck, Franzoesisch, Ofen)", "Dampfvolumen": "5 ml pro Zyklus", "Lebensdauer": "4-6 Jahre (typisch)", "Preis": "~30.800 Yen"},
+      "scores": {"Toast evenness": 4.8, "Speed": 4.0, "Build quality": 4.2, "Value": 3.5, "Slot size": 3.8}
+    },
+    {
+      "offerId": "aladdin-aet-gs13c",
+      "badge": "Bestes Graphitrohr",
+      "review": "Aladdins vordere und hintere Graphitrohre erreichen 250 Grad in 0,2 Sekunden — ideal fuer Baguette und hartknuspriges Brot, das intensive Oberflaechenerhitzung braucht. Das retro-britische Design ist ein Blickfang. Kein unteres Heizelement bedeutet manuelles Wenden bei zweiseitigem Braunen.",
+      "pros": ["Graphitrohre erreichen 250 Grad in 0,2 Sekunden fuer intensive Krustenkraeuspelung", "Beherbergt 25-cm-Pizza oder schraeg liegendes Baguette", "Retro-britisches Design unterscheidet sich von japanischen Alternativen"],
+      "cons": ["Kein unteres Heizelement erfordert manuelles Wenden fuer zweiseitiges Braunen"],
+      "grade": "A",
+      "specs": {"Heizung": "Graphitrohr (vorne + hinten oben)", "Leistung": "1.300 W", "Max-Temperatur": "280 Grad Celsius", "Timer": "13 Minuten", "Innenbreite": "~25 cm", "Lebensdauer": "5-7 Jahre", "Preis": "~17.600 Yen"},
+      "scores": {"Toast evenness": 3.8, "Speed": 5.0, "Build quality": 4.0, "Value": 4.2, "Slot size": 4.5}
+    },
+    {
+      "offerId": "mitsubishi-bread-oven-to-st1",
+      "badge": "Beste Einzelscheiben-Loesung",
+      "review": "Mitsubishis Geschlossen-Hohlraum-Design faengt den vom Brot freigesetzten Dampf — das Ergebnis auf einer einzelnen Shokupan-Scheibe ist nahezu frisch-aus-der-Baeckerei-Qualitaet. Mitsubishi vermarktet dies explizit als 'nicht fuer Familien', und das ist ernst zu nehmen: 16+ Minuten seriell fuer vier Scheiben.",
+      "pros": ["Geschlossener Hohlraum erhaelt Innenfeuchtigkeit besser als jede Offene-Hohlraum-Maschine", "4-Minuten-Zyklus fuer eine perfekte Shokupan-Scheibe", "Kompaktes Design fuer Ein-Personen-Haushalte"],
+      "cons": ["Macht nur eine Scheibe gleichzeitig — falsch fuer Familien (16+ Minuten seriell fuer vier Personen)"],
+      "grade": "B+",
+      "specs": {"Design": "Geschlossener Hohlraum (Einzelscheibe)", "Scheibendicke": "Optimiert fuer 1,4 cm Shokupan", "Leistung": "1.270 W", "Zyklus": "~4 Minuten pro Scheibe", "Zielgruppe": "Ein-Personen-Haushalte und Paare", "Lebensdauer": "4-6 Jahre", "Preis": "~34.000 Yen"},
+      "scores": {"Toast evenness": 5.0, "Speed": 3.0, "Build quality": 4.5, "Value": 3.0, "Slot size": 2.0}
+    },
+    {
+      "offerId": "panasonic-bistro-nt-d700",
+      "badge": "Bestes Multifunktionsgeraet",
+      "review": "Panasonic Bistros Konvektionsventilator und 100-260-Grad-Bereich decken Toast, gefrorene Pizza, Gratin und Huehnchenschenkel genuien ab — die einzige Maschine hier, die alle vier Anwendungsfaelle ohne Kompromisse beherrscht. Die 39,8-cm-Stellflaeche ist genuien gross fuer eine japanische Apartmentkueche.",
+      "pros": ["Konvektion plus 100-260 Grad deckt Toast und Kleinfunktofen-Aufgaben ab", "Staerkster Kundendienst durch Panasonics bundesweites Servicenetz", "30-cm-Innenhohlraum beherbergt 25-cm-Pizza oder kleine Huehnchenschenkel"],
+      "cons": ["39,8 cm Breite und 32,5 cm Tiefe — genuien gross fuer japanische Apartmentkuechen"],
+      "grade": "B",
+      "specs": {"Heizung": "Konvektion + duale Heizelemente", "Leistung": "1.300 W", "Temperatur": "100-260 Grad Celsius", "Breite": "39,8 cm", "Tiefe": "32,5 cm", "Innenhohlraum": "30 cm", "Preis": "~42.000 Yen"},
+      "scores": {"Toast evenness": 4.3, "Speed": 4.0, "Build quality": 4.7, "Value": 3.8, "Slot size": 5.0}
+    },
+    {
+      "offerId": "zojirushi-kongari-et-wma22",
+      "badge": "Bestes Preis-Leistungs-Geraet",
+      "review": "Zojirushis ET-WMA22 ist der zuverlaessige Zwei-Scheiben-Toaster unter 10.000 Yen mit 7-10 Jahren realistischer Lebensdauer und 8-10 Jahren Teileverfuegbarkeit. Kein Dampf — normaler Toast kommt merklich trockener heraus — aber fuer Haushalte ohne Shokupan-Fokus erledigt er die Arbeit ohne Design-Aufpreis.",
+      "pros": ["7-10 Jahre realistische Lebensdauer — laengste unter den fuenf", "Unter 10.000 Yen mit vollem japanischen Marken-Kundendienst", "Kompakte 32-cm-Stellflaeche passt in jede Apartmentkueche"],
+      "cons": ["Kein Dampf — Toast kommt merklich trockener heraus als bei Dampfinjektions-Maschinen"],
+      "grade": "B-",
+      "specs": {"Heizung": "Mantelheizung", "Leistung": "1.300 W", "Modi": "5 Voreinstellungen (Toast, Gefroren, Kashi-Pan, Croissant, Manuell)", "Innenbreite": "22 cm", "Breite": "32 cm", "Lebensdauer": "7-10 Jahre", "Preis": "~9.900 Yen"},
+      "scores": {"Toast evenness": 3.8, "Speed": 3.8, "Build quality": 4.5, "Value": 5.0, "Slot size": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Fuer Shokupan-Liebhaber", "offerId": "balmuda-the-toaster-k11a", "reason": "Dampfinjektion und ikonisches Design fuer Haushalte, die Shokupan als primaeres Fruehstuecksbrot schaetzen und einen Arbeitsplatten-Statement-Geraet wollen."},
+    {"label": "Fuer Baguette- und Hartbrot-Esser", "offerId": "aladdin-aet-gs13c", "reason": "Graphitrohre die 250 Grad in 0,2 Sekunden erreichen liefern die intensive Oberflaechenknaeuspelung die hartknuspriges Brot braucht."},
+    {"label": "Fuer Einzelperson-Haushalte", "offerId": "mitsubishi-bread-oven-to-st1", "reason": "Geschlossen-Hohlraum-Einzelscheiben-Design fuer Shokupan-Fans die alleine oder zu zweit mit gestaffeltem Fruehstueck leben."},
+    {"label": "Fuer Allround-Kuechen-Allrounder", "offerId": "panasonic-bistro-nt-d700", "reason": "Der einzige Toaster hier der Toast, Pizza, Gratin und Huehnchen genuein ohne Kompromisse abdeckt — fuer Haushalte die einen Kleinfunktofen ersetzen wollen."},
+    {"label": "Fuer Kaeufer mit kleinem Budget", "offerId": "zojirushi-kongari-et-wma22", "reason": "Unter 10.000 Yen mit 7-10 Jahren Zuverlaessigkeit und vollem Panasonic-Kundendienst — die ehrliche Wahl fuer Haushalte ohne Shokupan-Obsession."}
+  ]
 }

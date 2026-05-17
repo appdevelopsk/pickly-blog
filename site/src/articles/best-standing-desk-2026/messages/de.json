@@ -110,5 +110,183 @@
     "bamboo-standing-desk": "Eine Bambus-Desktop-Platte kombiniert mit einem kompatiblen elektrischen Sitz-Steh-Rahmen, die natürliche Materialästhetik, eine antibakterielle Oberfläche (Bamboo-kun, die natürliche antimikrobielle Verbindung in Bambus, hat dokumentierte Wirksamkeit gegen mehrere häufige Bakterien) und die warme Homeoffice-Optik bieten, die Melamin- und MDF-Kern-Platten nicht replizieren können. Bambus ist härter als die meisten Weichhölzer und widersteht Oberflächenkratzern besser als Standard-Melamin-Platten. Bambus-Tischplatten sind anfällig für Wölbung in dauerhaft feuchten Umgebungen — Japans Sommermonate (Juni–September) mit relativer Luftfeuchtigkeit von dauerhaft über 70 % in Wohnungen ohne ganzjährige Klimaanlage oder Luftentfeuchter können dazu führen, dass Bambus-Tischplatten sich ausdehnen, biegen und innerhalb von 1–2 Saisons Kantenhebung entwickeln; Bambus-Tischplatten sind schwerer als gleichwertige MDF-Kern-Platten, was den effektiven Motornutzlastspielraum für Geräte verringert; der Aufpreis für Bambus gegenüber MDF-Kern beträgt typischerweise 10.000–20.000 Yen ohne proportionalen Funktionsnutzen."
   },
   "pinDescription": "5 Stehschreibtische im Vergleich 2026 — vom Flexispot E7 Pro mit Doppelmotor-Flaggschiff bis zum IKEA Bekant ohne Schnörkel. Wackel-Mathematik. Einzel- vs. Doppelmotor. Japanische Wohnrealität. Bambus-Feuchtigkeitswarnung. Kollisionsschutz jetzt Standard unter 50.000 Yen. Und die Gewohnheitsforschung zeigt: die meisten Menschen stehen weniger als 30 Min/Tag",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "flexispot-e7-pro",
+      "badge": "Bester Allrounder",
+      "review": "Das Zwei-Motor-System des E7 Pro (je ein Motor pro Bein, elektronisch synchronisiert) bewältigt 125 kg-Lasten bei gleichmäßiger Hubgeschwindigkeit ohne Wärmeentwicklung, die Einmotorgetriebe unter schweren Konfigurationen zeigen. Kollisionsschutz ist serienmäßig — kein Zubehör. Der C-Rahmen bietet überlegene Kniefreiheit und Kabelführung unter dem Schreibtisch gegenüber Vierbeiner-Rahmen. Nachteil: Die C-Rahmen-Geometrie erzeugt bei schweren Monitoren auf maximaler Stehhöhe mehr seitliche Schwingung als Vierbeiner-Designs, und die Montage bei 50 kg erfordert zwei Personen.",
+      "pros": [
+        "Zwei-Motor 125 kg Kapazität — bewältigt Dual-Monitor-Workstations",
+        "Kollisionsschutzsensor serienmäßig (kein Zubehör)",
+        "C-Rahmen bietet beste Kniefreiheit und Kabelführung"
+      ],
+      "cons": [
+        "C-Rahmen schwingt mehr als Vierbeiner-Rahmen bei maximaler Höhe mit schweren Monitoren"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Motor": "Dual (je Bein einer)",
+        "Tragkraft": "125 kg",
+        "Höhenbereich": "~60–125 cm",
+        "Speicherpositionen": "4 Positionen",
+        "Kollisionsschutz": "Serienmäßig",
+        "Rahmentyp": "C-Rahmen",
+        "Schreibtischgewicht": "~50 kg"
+      },
+      "scores": {
+        "Height range": 4.8,
+        "Stability": 4.3,
+        "Motor quality": 4.9,
+        "Value": 4.2,
+        "Desktop size": 4.7
+      }
+    },
+    {
+      "offerId": "ikea-bekant-sit-stand",
+      "badge": "Bester Preis-Leistung",
+      "review": "Der Bekant ist der zugänglichste elektrische Sitz-Steh-Schreibtisch in Japan — erhältlich in IKEA-Filialen mit Walk-in-Ersatzteilen und einer 5-jährigen Motor- und Rahmengarantie, die die meisten Sub-50.000-Yen-Konkurrenten nicht bieten. Der einfache Zweiknopf-Halte-zum-Fahren-Betrieb hat keine Lernkurve. Nachteil: Keine Speicherpositionen bedeutet manuelle Neuausrichtung jedes Mal; der Einzelmotor ist langsamer und lauter als Dualmotor-Alternativen, und die maximale Höhe von 125 cm kann für Nutzer über 180 cm unzureichend sein.",
+      "pros": [
+        "5 Jahre Motor- und Rahmengarantie — selten in diesem Preissegment",
+        "Erhältlich in IKEA Japan mit Walk-in-Ersatzteilzugang",
+        "Einfache Zweiknopfsteuerung ohne Setup"
+      ],
+      "cons": [
+        "Keine Speicherpositionen; langsamerer, lauterer Motor; 125 cm Maximalhöhe begrenzt große Nutzer"
+      ],
+      "grade": "A",
+      "specs": {
+        "Motor": "Einzelmotor",
+        "Tragkraft": "Nicht angegeben (typ. ~70 kg)",
+        "Höhenbereich": "65–125 cm",
+        "Speicherpositionen": "Keine",
+        "Kollisionsschutz": "Nein",
+        "Tischplattengröße": "70 × 120 cm",
+        "Garantie": "5 Jahre Motor und Rahmen"
+      },
+      "scores": {
+        "Height range": 3.8,
+        "Stability": 3.6,
+        "Motor quality": 3.5,
+        "Value": 4.8,
+        "Desktop size": 3.8
+      }
+    },
+    {
+      "offerId": "autonomous-smartdesk-pro",
+      "badge": "Bestes Mittelklasse-Gerät",
+      "review": "Vier programmierbare Positionen, ein leiserer Motor als IKEA-Antriebe und ein App-Ökosystem mit Haltungserinnerungen und Höhenwechsel-Protokollierung positionieren den SmartDesk Pro im Sweet Spot zwischen Budget und Premium. Die Tischplatte wird separat verkauft und bietet Material- und Größenflexibilität. Nachteil: Autonomous ist eine US-Marke mit 2–4 Wochen Japan-Importlieferzeiten, und Garantieansprüche aus Japan erfordern internationale Versandlogistik, die mehrere Nutzer als schwierig gemeldet haben.",
+      "pros": [
+        "4 programmierbare Speicherpositionen für sofortigen Höhenwechsel",
+        "App-Haltungserinnerungen erhöhen die tatsächliche Stehzeit",
+        "Breite Tischplattengrößen- und Materialoptionen einschließlich Bambus"
+      ],
+      "cons": [
+        "US-Marke — 2–4 Wochen Japan-Lieferzeit; internationale Garantieansprüche als schwierig gemeldet"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Motor": "Einzelmotor (leise)",
+        "Tragkraft": "136 kg",
+        "Höhenbereich": "~65–132 cm",
+        "Speicherpositionen": "4 Positionen",
+        "Kollisionsschutz": "Ja",
+        "Tischplatte": "Separat erhältlich",
+        "Lieferung nach Deutschland": "Standard"
+      },
+      "scores": {
+        "Height range": 4.7,
+        "Stability": 4.1,
+        "Motor quality": 4.3,
+        "Value": 4.0,
+        "Desktop size": 4.5
+      }
+    },
+    {
+      "offerId": "okamura-swift-desk",
+      "badge": "Bester für Japan Corporate",
+      "review": "Okamura ist der dominante japanische Büromöbelhersteller und die Swift-Serie ist ihr Flaggschiff-Sitz-Steh-Schreibtisch — schmales Profil, japanische Fertigungsstandards und ein nationales Servicenetzwerk, das Garantieansprüche ohne internationalen Versand abdeckt. In japanischen Unternehmensumgebungen ist der Swift der Maßstab. Nachteil: ¥80.000+ Einstiegspreis ist der höchste in diesem Vergleich, der Einzelhandelsverkauf erfolgt hauptsächlich über Unternehmenseinkaufskanäle.",
+      "pros": [
+        "Japanische Fertigung mit bundesweitem Servicenetzwerk",
+        "Schlankes Profil optimiert für japanische Büroabmessungen",
+        "Bewährte Langzeitzuverlässigkeit in Unternehmenseinsätzen"
+      ],
+      "cons": [
+        "Höchster Preis im Vergleich; hauptsächlich über Unternehmenskanäle verkauft, nicht im Einzelhandel"
+      ],
+      "grade": "B",
+      "specs": {
+        "Motor": "Elektrisch (Dual in Premium-Konfigurationen)",
+        "Tragkraft": "80–100 kg",
+        "Höhenbereich": "~62–127 cm",
+        "Speicherpositionen": "Ja",
+        "Kollisionsschutz": "Ja (ausgewählte Modelle)",
+        "Herkunft": "Japan",
+        "Vertrieb": "Unternehmenseinkauf / Showrooms"
+      },
+      "scores": {
+        "Height range": 4.4,
+        "Stability": 4.7,
+        "Motor quality": 4.5,
+        "Value": 3.2,
+        "Desktop size": 4.3
+      }
+    },
+    {
+      "offerId": "bamboo-standing-desk",
+      "badge": "Bester für Ästhetik",
+      "review": "Eine Bambus-Tischplatte gepaart mit einem elektrischen Sitz-Steh-Rahmen bietet natürliche Materialwärme und echte antibakterielle Eigenschaften (Bambuskun-Verbindung), die Melamin- und MDF-Kern-Tischplatten nicht replizieren können. Nachteil: Bambus verformt sich bei anhaltender hoher Luftfeuchtigkeit; Japans Sommermonate (Juni–September, 70–90% RH) in Wohnungen ohne Klimatisierung können innerhalb von 1–2 Jahreszeiten zu Wölbung und Kantenhebung führen.",
+      "pros": [
+        "Natürliche Bambusästhetik — Wärme, die Melamin nicht replizieren kann",
+        "Natürliche antibakterielle Oberfläche durch Bambuskun",
+        "Umweltfreundliches Material mit niedrigerem CO2-Fußabdruck als MDF"
+      ],
+      "cons": [
+        "Verformt sich bei hoher Luftfeuchtigkeit im Japan-Sommer (70–90% RH) ohne ganzjährige Klimatisierung"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Tischplattenmaterial": "Laminierter Bambus",
+        "Oberfläche": "Antibakteriell (Bambuskun)",
+        "Preisaufschlag gegenüber MDF": "10.000–20.000 ¥",
+        "Feuchtigkeitsempfindlichkeit": "Hoch — verformt sich über 70% RH anhaltend",
+        "Gewicht vs. MDF": "Schwerer (reduziert Motor-Nutzlast)",
+        "Rahmenkompatibilität": "Die meisten Sitz-Steh-Rahmen"
+      },
+      "scores": {
+        "Height range": 4.5,
+        "Stability": 4.0,
+        "Motor quality": 4.5,
+        "Value": 3.8,
+        "Desktop size": 4.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für schwere Dual-Monitor-Workstations",
+      "offerId": "flexispot-e7-pro",
+      "reason": "Zwei Motoren bewältigen schwere Lasten bei gleichmäßiger Geschwindigkeit ohne Wärmeentwicklung, und der Kollisionsschutz ist serienmäßig — der einzige Rahmen hier, der für anspruchsvolle Setups von Anfang an vollständig ausgestattet ist."
+    },
+    {
+      "label": "Für Erstnutzer von Sitz-Steh-Schreibtischen in Japan",
+      "offerId": "ikea-bekant-sit-stand",
+      "reason": "Walk-in-Verfügbarkeit in IKEA Japan-Filialen, 5 Jahre Garantie und einfacher Betrieb machen es zum reibungslosesten Einstiegspunkt für alle, die zum ersten Mal einen Sitz-Steh-Schreibtisch ausprobieren."
+    },
+    {
+      "label": "Für Heimarbeitsplatz-Professionals mit Smart-Features",
+      "offerId": "autonomous-smartdesk-pro",
+      "reason": "Vier Positionen und App-Integration für Haltungserinnerungen fördern das tatsächliche Stehverhalten — die App-gesteuerte Erinnerung ist effektiver bei der Änderung von Sitz-Steh-Gewohnheiten als die Schreibtischhardware allein."
+    },
+    {
+      "label": "Für japanische Unternehmens- oder Langzeit-Heimarbeitsplatz-Nutzung",
+      "offerId": "okamura-swift-desk",
+      "reason": "Inländisches Servicenetzwerk und japanische Fertigungsstandards eliminieren die Import-Logistik und Garantie-Komplikationen, die alle US-Marken-Alternativen für Japan-basierte Käufer betreffen."
+    },
+    {
+      "label": "Für Heimarbeitsplatz-Ästhetik mit Klimaanlage",
+      "offerId": "bamboo-standing-desk",
+      "reason": "Bambuswärme und antibakterielle Eigenschaften sind echte Vorteile in klimatisierten Räumen — der Feuchtigkeitsvorbehalt entfällt mit einem Luftentfeuchter oder ganzjähriger Klimatisierung."
+    }
+  ]
 }

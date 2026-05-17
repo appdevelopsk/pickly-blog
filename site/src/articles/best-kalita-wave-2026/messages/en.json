@@ -58,5 +58,64 @@
     "fellow-stagg-ekg-kettle": "Gooseneck spout, variable temperature 57-100°C, hold function, 0.9 L. $150-170. Best pour-over kettle — precise flow control, exact temperature setting, 60-min hold. Correct pairing for Kalita Wave, V60, and Chemex."
   },
   "pinDescription": "Kalita Wave pour-over 2026: 185 vs 155, stainless vs ceramic vs glass, how the flat-bottom design makes pour-over more forgiving than V60, and which gooseneck kettle to pair it with.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each dripper was evaluated on extraction consistency across varying pour techniques, material impact on heat retention, durability, ease of cleaning, and suitability for both beginner and experienced brewers.",
+  "products": [
+    {
+      "offerId": "kalita-wave-185-stainless",
+      "badge": "Best Overall",
+      "review": "The Wave 185 Stainless is the right Kalita for most households — stainless steel won't break if it falls, retains heat better than glass, and goes in the dishwasher. The 2–4 cup capacity covers single servings through small gatherings. Some users notice a faint metallic taste with new units that disappears after a few uses; a few rinse-cycles with hot water resolves it. For daily pour-over brewing where durability and convenience matter more than visual display, this is the unambiguous recommendation.",
+      "pros": ["Unbreakable stainless construction — no fragility concern", "Dishwasher safe for easy cleaning", "Good heat retention compared to glass"],
+      "cons": ["New units can impart faint metallic taste that requires a few initial uses to dissipate"],
+      "grade": "A+",
+      "specs": {"Material": "Stainless steel", "Capacity": "2–4 cups (400–700 ml)", "Filter size": "Wave 185", "Dishwasher safe": "Yes", "Weight": "~110 g", "Origin": "Japan"},
+      "scores": {"Brew clarity": 4.5, "Build quality": 5.0, "Ease of use": 4.9, "Value": 4.7, "Versatility": 4.8}
+    },
+    {
+      "offerId": "kalita-wave-155-ceramic",
+      "badge": "Best Single-Serve",
+      "review": "The Wave 155 Ceramic is purpose-sized for one cup — the smaller flat bed and finer three-hole drainage are calibrated to 150–300 ml volumes where the 185 would produce a thin, under-extracted bed. Ceramic provides clean flavor with no metallic transfer, and heat retention is solid for a single serve. The trade-off is fragility — ceramic will break on a hard floor, and it's heavier than you'd expect for a single-cup brewer. For a dedicated single-cup morning ritual, the 155 ceramic produces the cleanest cup in this comparison.",
+      "pros": ["Optimized bed depth for 1-cup volumes — better extraction than 185 for single servings", "Ceramic delivers clean flavor with zero metallic notes", "Dense feel adds a satisfying tactile quality to the pour-over ritual"],
+      "cons": ["Fragile — will shatter if dropped on a hard surface"],
+      "grade": "A",
+      "specs": {"Material": "Ceramic", "Capacity": "1–2 cups (150–300 ml)", "Filter size": "Wave 155", "Dishwasher safe": "Yes (hand wash recommended)", "Weight": "~200 g", "Origin": "Japan"},
+      "scores": {"Brew clarity": 4.8, "Build quality": 3.8, "Ease of use": 4.7, "Value": 4.5, "Versatility": 3.5}
+    },
+    {
+      "offerId": "kalita-wave-185-glass",
+      "badge": "Best for Technique Learning",
+      "review": "The transparent borosilicate glass lets you watch every stage of the brew — the bloom expansion, water distribution across the coffee bed, and whether channeling is occurring. For brewers who are learning pour-over technique or diagnosing extraction problems, the visual feedback is genuinely useful. Heat retention is lower than ceramic or stainless, so pre-heating the dripper with hot water before brewing matters more here than with other materials. Most fragile option in the comparison.",
+      "pros": ["Transparent — observe bloom, water distribution, and channeling in real time", "Borosilicate glass is heat-resistant and flavor-neutral", "Unique visual experience that makes the pour-over ritual more engaging"],
+      "cons": ["Lower heat retention than stainless or ceramic — pre-heating is essential", "Most fragile option — one drop on a hard surface ends it"],
+      "grade": "B+",
+      "specs": {"Material": "Borosilicate glass", "Capacity": "2–4 cups (400–700 ml)", "Filter size": "Wave 185", "Dishwasher safe": "No", "Weight": "~150 g", "Origin": "Japan"},
+      "scores": {"Brew clarity": 4.6, "Build quality": 3.2, "Ease of use": 4.5, "Value": 4.3, "Versatility": 4.0}
+    },
+    {
+      "offerId": "kalita-wave-filters-185",
+      "badge": "Essential Consumable",
+      "review": "Kalita Wave filters are not optional — the wave-shaped pleated design creates the air gap between filter and dripper that makes consistent extraction possible. Standard flat filters will not fit or replicate this function. At $10–15 per 100 count, the cost is modest, but the Wave 185 and Wave 155 filters are not interchangeable, so buying the correct size matters. Stock enough to avoid running out mid-week; specialty coffee retailers carry them but coverage is thinner than V60 or Chemex filters.",
+      "pros": ["Wave-shaped pleats create air gap essential for even extraction", "100-count boxes represent modest per-filter cost", "Consistent paper quality and availability on Amazon"],
+      "cons": ["Not interchangeable with Wave 155 filters or any other dripper — must buy the correct size"],
+      "grade": "B",
+      "specs": {"Size": "185 (for Wave 185 dripper)", "Count": "100 per box", "Material": "Paper", "Rinse required": "Yes (recommended)", "Compatible": "Wave 185 only", "Price per filter": "~$0.10–0.15"},
+      "scores": {"Brew clarity": 4.5, "Build quality": 4.0, "Ease of use": 4.8, "Value": 4.7, "Versatility": 3.0}
+    },
+    {
+      "offerId": "fellow-stagg-ekg-kettle",
+      "badge": "Best Kettle Pairing",
+      "review": "The Fellow Stagg EKG is the standard recommendation for pour-over kettles because the gooseneck spout gives fine control over flow rate — from a thread-thin trickle to a wider stream by adjusting the tilt — which directly affects extraction. Variable temperature from 57°C to 100°C with a 60-minute hold means you can set 93°C for a light roast and it stays there through your entire brew session. The $150–170 price is real, and a simpler gooseneck kettle with temperature control is available for less; but the Stagg EKG's pour control and temperature precision are the best in the consumer market.",
+      "pros": ["Gooseneck spout enables pour rate control that standard kettles cannot replicate", "Variable temperature with 60-minute hold eliminates timing guesswork", "Purpose-built for pour-over — the complete workflow solution"],
+      "cons": ["$150–170 is a premium price; adequate alternatives available for less"],
+      "grade": "B-",
+      "specs": {"Capacity": "0.9 L", "Temperature range": "57–100°C", "Hold duration": "60 min", "Spout": "Gooseneck", "Display": "LCD temperature", "Cord": "360° swivel base"},
+      "scores": {"Brew clarity": 4.9, "Build quality": 4.8, "Ease of use": 4.5, "Value": 3.8, "Versatility": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For most households", "offerId": "kalita-wave-185-stainless", "reason": "Durable, dishwasher-safe, and good heat retention — the practical default for daily pour-over brewing."},
+    {"label": "For single-cup morning brewers", "offerId": "kalita-wave-155-ceramic", "reason": "The 155 size produces a proper bed depth for one-cup volumes — better extraction than using the 185 for small amounts."},
+    {"label": "For technique learners", "offerId": "kalita-wave-185-glass", "reason": "Transparent glass shows bloom, water distribution, and channeling in real time — the best tool for diagnosing and improving your pour-over."},
+    {"label": "For precise temperature control", "offerId": "fellow-stagg-ekg-kettle", "reason": "Variable temperature with 60-minute hold and gooseneck pour control — the correct kettle pairing for any Kalita Wave."},
+    {"label": "For Wave 185 filter supply", "offerId": "kalita-wave-filters-185", "reason": "The proprietary wave-shaped filter is non-negotiable — stock up so you're never without the correct consumable."}
+  ]
 }

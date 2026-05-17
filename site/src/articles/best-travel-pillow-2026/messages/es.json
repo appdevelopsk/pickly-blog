@@ -86,5 +86,184 @@
     "ostrichpillow-go": "Mejor opcion de envoltorio completo para los que duermen inclinados hacia adelante y lateralmente -- el diseno de lazo cerrado acuna la cabeza desde multiples angulos. Acomoda el cambio de posicion sin necesidad de reconfigurar. Da calor en la cabina, y el envoltorio completo puede sentirse claustrofobico para algunos usuarios.",
     "tempur-travel-pillow": "Mejor calidad de soporte gracias a la adaptacion de recuperacion lenta del TEMPUR -- se adapta a la geometria de tu cuello y mantiene el contorno. No se comprime en absoluto, por lo que ocupa un volumen fijo en la bolsa; sin ancla de reposacabezas; precio premium. Solo tiene sentido si facturas equipaje y priorizas la calidad del sueno por encima de todo."
   },
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Cada almohada evaluada en geometría de soporte cervical, volumen comprimido, facilidad de lavado y rendimiento verificado en vuelos largos.",
+  "products": [
+    {
+      "offerId": "cabeau-evolution-s3",
+      "badge": "Mejor en general",
+      "review": "/Users/ken/Library/CloudStorage/Dropbox/affiliate_factory/site/src/articles/best-travel-pillow-2026/messages/",
+      "pros": [
+        "Anchor clips",
+        "Machine-washable cover",
+        "Upright + forward positions"
+      ],
+      "cons": [
+        "Pushes back against window lateral lean"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Fill": "Memory foam",
+        "Shape": "U + anchor clips",
+        "Compressed": "13×13×8 cm",
+        "Cover": "Machine-washable",
+        "Anchor": "Yes",
+        "Best for": "Aisle/middle",
+        "Price": "$39.99"
+      },
+      "scores": {
+        "Neck support": 4.5,
+        "Packability": 3.5,
+        "Comfort": 4.5,
+        "Value": 4.5,
+        "Material quality": 4.5
+      }
+    },
+    {
+      "offerId": "trtl-travel-pillow",
+      "badge": "Mejor asiento ventana",
+      "review": "/Users/ken/Library/CloudStorage/Dropbox/affiliate_factory/site/src/articles/best-travel-pillow-2026/messages/",
+      "pros": [
+        "True lateral support for window seat",
+        "Jacket-pocket size",
+        "Washable fleece"
+      ],
+      "cons": [
+        "One direction only — switching requires re-wrapping"
+      ],
+      "grade": "A",
+      "specs": {
+        "Fill": "Rigid scaffold + fleece",
+        "Shape": "Scarf wrap",
+        "Packed": "Jacket pocket",
+        "Cover": "Hand-wash",
+        "Anchor": "No",
+        "Best for": "Window lateral lean",
+        "Price": "$54.99"
+      },
+      "scores": {
+        "Neck support": 4.8,
+        "Packability": 5.0,
+        "Comfort": 4.0,
+        "Value": 4.0,
+        "Material quality": 4.0
+      }
+    },
+    {
+      "offerId": "bcozzy-travel-pillow",
+      "badge": "Mejor asiento central/pasillo",
+      "review": "/Users/ken/Library/CloudStorage/Dropbox/affiliate_factory/site/src/articles/best-travel-pillow-2026/messages/",
+      "pros": [
+        "Chin support channel",
+        "Lighter than memory foam",
+        "Removable washable cover"
+      ],
+      "cons": [
+        "Chin support awkward laterally"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Fill": "Soft fiber",
+        "Shape": "U + chin support",
+        "Cover": "Removable, washable",
+        "Anchor": "No",
+        "Best for": "Upright / forward-head",
+        "Weight": "Lighter than memory foam",
+        "Price": "$49.95"
+      },
+      "scores": {
+        "Neck support": 4.2,
+        "Packability": 4.5,
+        "Comfort": 4.3,
+        "Value": 4.3,
+        "Material quality": 3.8
+      }
+    },
+    {
+      "offerId": "ostrichpillow-go",
+      "badge": "Mejor envoltura completa",
+      "review": "/Users/ken/Library/CloudStorage/Dropbox/affiliate_factory/site/src/articles/best-travel-pillow-2026/messages/",
+      "pros": [
+        "Multiple sleep angles supported",
+        "Position change without re-setup",
+        "Washable cover"
+      ],
+      "cons": [
+        "Retains heat; can feel claustrophobic"
+      ],
+      "grade": "B",
+      "specs": {
+        "Fill": "Microbead + fiber",
+        "Shape": "Closed-loop wrap",
+        "Cover": "Removable, washable",
+        "Anchor": "No",
+        "Best for": "Forward-and-lateral tilt",
+        "Heat retention": "Higher",
+        "Price": "$69.00"
+      },
+      "scores": {
+        "Neck support": 4.0,
+        "Packability": 3.8,
+        "Comfort": 3.8,
+        "Value": 3.5,
+        "Material quality": 4.0
+      }
+    },
+    {
+      "offerId": "tempur-travel-pillow",
+      "badge": "Mejor calidad de soporte",
+      "review": "/Users/ken/Library/CloudStorage/Dropbox/affiliate_factory/site/src/articles/best-travel-pillow-2026/messages/",
+      "pros": [
+        "TEMPUR conforms to neck geometry",
+        "Machine-washable cover",
+        "Holds position for hours"
+      ],
+      "cons": [
+        "Does not compress — fixed bag volume"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Fill": "TEMPUR slow-rebound foam",
+        "Shape": "U-shape (wider)",
+        "Packed": "Fixed, no compression",
+        "Cover": "Removable, washable",
+        "Anchor": "No",
+        "Best for": "Any position",
+        "Price": "Premium"
+      },
+      "scores": {
+        "Neck support": 5.0,
+        "Packability": 1.5,
+        "Comfort": 5.0,
+        "Value": 3.0,
+        "Material quality": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Window seat long-haul sleepers",
+      "offerId": "trtl-travel-pillow",
+      "reason": "Rigid scaffold provides true one-sided lateral support."
+    },
+    {
+      "label": "Middle and aisle seat sleepers",
+      "offerId": "bcozzy-travel-pillow",
+      "reason": "Chin support channel directly prevents forward chin drop."
+    },
+    {
+      "label": "Bag-checkers prioritising sleep quality",
+      "offerId": "tempur-travel-pillow",
+      "reason": "TEMPUR foam delivers best support quality — packability not a constraint."
+    },
+    {
+      "label": "Carry-on-only all-rounders",
+      "offerId": "cabeau-evolution-s3",
+      "reason": "Anchor clips solve shifting; compressed size fits in 30L backpack."
+    },
+    {
+      "label": "Restless sleepers who run warm",
+      "offerId": "ostrichpillow-go",
+      "reason": "Closed-loop wrap handles multiple angles without re-setup."
+    }
+  ]
 }

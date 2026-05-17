@@ -58,5 +58,178 @@
     "butane-burner-for-siphon": "Butanbrenner mit einstellbarer Flamme fur Siphon-Zubereitung. $20-40. Notwendig fur konsistente Siphon-Warme: kontrollierbarer als mitgelieferte Alkohollampen. Notwendig fur prazise Temperaturkontrolle und reproduzierbare Ergebnisse."
   },
   "pinDescription": "Siphon-Kaffeemaschine 2026: Hario Next vs Yama vs Technica vs Cona, wie Vakuumdruck Kaffee brut, warum Siphon zwischen Pour-over-Klarheit und French-Press-Korper liegt und die Tuchfilter-Wartungsroutine. #SiphonKaffee #Kaffeezubereitung #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "hario-next-siphon",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Das Hario Next ist der aktuelle Maßstab für Siphon-Brühen — der verbesserte Tuchfilterhalter liefert gleichmäßig klare, vollmundige Tassen, und der aktualisierte Ständer ist unter Butanbrenner-Hitze stabiler als das Technica. Erhältlich in 3-Tassen- und 5-Tassen-Konfigurationen. Wichtiger Hinweis: Der Butanbrenner wird separat verkauft — rechnen Sie dieses Zubehör von Anfang an in die Gesamtkosten ein.",
+      "pros": [
+        "Verbesserter Tuchfilterhalter — gleichbleibende Tassenqualität",
+        "Stabiler Ständer unter Butanbrenner-Hitze",
+        "Erhältlich in 3-Tassen- und 5-Tassen-Größen"
+      ],
+      "cons": [
+        "Butanbrenner separat erhältlich — zu Gesamtkosten hinzurechnen"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Kapazität": "3-Tassen (360 ml) oder 5-Tassen (600 ml)",
+        "Filter": "Tuch (inbegriffen)",
+        "Ständer": "Verbessert — stabiler als Technica",
+        "Wärmequelle": "Butanbrenner (separat erhältlich)",
+        "Glas": "Borosilikat",
+        "Preis": "~60–90 $"
+      },
+      "scores": {
+        "Brühklarheit": 4.8,
+        "Schauwert": 5.0,
+        "Benutzerfreundlichkeit": 3.8,
+        "Preis-Leistung": 4.2,
+        "Verarbeitungsqualität": 4.8
+      }
+    },
+    {
+      "offerId": "yama-glass-siphon-5-cup",
+      "badge": "Bestes Nicht-Hario-Modell",
+      "review": "Yamas dicke Borosilikatwände machen es zum bruchsichersten Siphon in diesem Vergleich — ein bedeutender Vorteil bei einem Brüher, den man heiß anfasst. Die 5-Tassen-Größe (600 ml) ist praktisch für 2–3 Personen, und die Tassenqualität ist mit Hario vergleichbar. Der Nachteil: Yama-Ersatzteile sind schwerer zu bekommen als Hario-Komponenten.",
+      "pros": [
+        "Dickere Borosilikatwände — bruchsicherer als die meisten",
+        "5-Tassen-Größe praktisch für 2–3 Personen",
+        "Tuch- oder Metallfilteroptionen verfügbar"
+      ],
+      "cons": [
+        "Ersatzteile schwerer erhältlich als im Hario-Ökosystem"
+      ],
+      "grade": "A",
+      "specs": {
+        "Kapazität": "5-Tassen (600 ml)",
+        "Filter": "Tuch oder Metallgitter",
+        "Glas": "Dickes Borosilikat",
+        "Wärmequelle": "Butanbrenner-kompatibel",
+        "Stellfläche": "Standard-Siphon",
+        "Preis": "~70–100 $"
+      },
+      "scores": {
+        "Brühklarheit": 4.7,
+        "Schauwert": 4.8,
+        "Benutzerfreundlichkeit": 3.8,
+        "Preis-Leistung": 4.0,
+        "Verarbeitungsqualität": 5.0
+      }
+    },
+    {
+      "offerId": "hario-technica-siphon",
+      "badge": "Bester Einstieg",
+      "review": "Das Hario Technica verwendet die gleichen Borosilikat-Glaskolben und das gleiche Brühprinzip wie das Next, zu einem niedrigeren Preis — es ist der richtige Einstiegspunkt, um Siphon-Brühen zu erkunden, bevor man sich für das Next entscheidet. Der Ständer ist einfacher und etwas weniger stabil, was hauptsächlich beim Justieren des Butanbrenners während des Brühens eine Rolle spielt.",
+      "pros": [
+        "Gleiche Brühtechnik wie das Next zu niedrigeren Kosten",
+        "Verwendet Standard-Hario-Filter — kein proprietäres Zubehör",
+        "Guter Einstieg vor der Investition in das Next"
+      ],
+      "cons": [
+        "Einfacherer Ständer — etwas weniger stabil als das Next"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Kapazität": "3-Tassen oder 5-Tassen",
+        "Filter": "Hario Tuch (Standard)",
+        "Ständer": "Einfacher Rahmen",
+        "Glas": "Borosilikat",
+        "Brenner": "Separat erhältlich",
+        "Preis": "~45–70 $"
+      },
+      "scores": {
+        "Brühklarheit": 4.5,
+        "Schauwert": 4.8,
+        "Benutzerfreundlichkeit": 3.8,
+        "Preis-Leistung": 4.8,
+        "Verarbeitungsqualität": 4.2
+      }
+    },
+    {
+      "offerId": "cona-siphon-coffee-maker",
+      "badge": "Bester wartungsarmer Filter",
+      "review": "Conas Federklemmenfilter ist der langlebigste und am einfachsten zu reinigende Filter in diesem Vergleich — im Gegensatz zu Tuchfiltern muss er zwischen den Verwendungen nicht in Wasser aufbewahrt werden. Das britische Design wird seit den 1930er Jahren produziert, und die solide Borosilikat-Konstruktion spiegelt diese Langlebigkeit wider.",
+      "pros": [
+        "Federklemmenfilter — am einfachsten zu reinigen, keine Lagerung in Wasser",
+        "Solide Borosilikat-Konstruktion mit bewährter Langlebigkeit",
+        "Klassisches britisches Design seit den 1930er Jahren unverändert"
+      ],
+      "cons": [
+        "Ersatzteile außerhalb des Vereinigten Königreichs schwerer zu bekommen"
+      ],
+      "grade": "B",
+      "specs": {
+        "Kapazität": "je nach Modell",
+        "Filter": "Federklemme (keine Tuchpflege)",
+        "Glas": "Solides Borosilikat",
+        "Herkunft": "UK, seit den 1930er Jahren in Produktion",
+        "Wärmequelle": "Butanbrenner oder Spirituslampe",
+        "Preis": "~90–140 $"
+      },
+      "scores": {
+        "Brühklarheit": 4.5,
+        "Schauwert": 4.5,
+        "Benutzerfreundlichkeit": 4.5,
+        "Preis-Leistung": 3.5,
+        "Verarbeitungsqualität": 4.8
+      }
+    },
+    {
+      "offerId": "butane-burner-for-siphon",
+      "badge": "Unverzichtbares Zubehör",
+      "review": "Die Spirituslampen, die mit Einstiegs-Siphons mitgeliefert werden, erzeugen ungleichmäßige Wärme und müssen häufig nachgefüllt werden — ein Butanbrenner bietet einstellbare Flammenkontrolle, konstante Temperatur und reproduzierbare Ergebnisse. Für ernsthaftes Siphon-Brühen erforderlich. Die meisten Hario- und Yama-Siphons werden ohne Brenner geliefert.",
+      "pros": [
+        "Einstellbare Flamme für präzise Temperaturkontrolle",
+        "Konstante Wärme gegenüber ungleichmäßiger mitgelieferter Spirituslampe",
+        "Reproduzierbare Ergebnisse über Brühsitzungen hinweg"
+      ],
+      "cons": [
+        "Butankartuschen sind ein regelmäßiger Verbrauchsmaterialaufwand"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Brennstoff": "Butankartusche (Standardgröße)",
+        "Flammenregelung": "Einstellbar",
+        "Kompatibel mit": "Hario, Yama, Cona Siphons",
+        "Kartuschenlebensdauer": "Mehrere Sitzungen pro Kartusche",
+        "Preis": "~20–40 $"
+      },
+      "scores": {
+        "Brühklarheit": 5.0,
+        "Schauwert": 4.0,
+        "Benutzerfreundlichkeit": 4.5,
+        "Preis-Leistung": 4.8,
+        "Verarbeitungsqualität": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für ernsthafte Siphon-Brüher",
+      "offerId": "hario-next-siphon",
+      "reason": "Der stabilste Ständer und beste Tuchfilterhalter in der Hario-Reihe — die richtige Investition, sobald Sie wissen, dass Siphon-Brühen Teil Ihrer Routine ist."
+    },
+    {
+      "label": "Für Brüher, die Langlebigkeit schätzen",
+      "offerId": "yama-glass-siphon-5-cup",
+      "reason": "Dicke Borosilikatwände reduzieren das Bruchrisiko beim Umgang mit heißem Glas — das robusteste Design für den täglichen Gebrauch."
+    },
+    {
+      "label": "Für Erstkäufer eines Siphons",
+      "offerId": "hario-technica-siphon",
+      "reason": "Gleiche Brühtechnik wie das Next zu einem niedrigeren Einstiegspreis — der richtige Weg, bevor man sich für das vollständige Next-Setup entscheidet."
+    },
+    {
+      "label": "Für wartungsarme Filterpräferenz",
+      "offerId": "cona-siphon-coffee-maker",
+      "reason": "Federklemmenfilter braucht keine Wasserlagerung — wenn die Tuchfilter-Pflegeroutine wie eine Hürde klingt, beseitigt Cona sie."
+    },
+    {
+      "label": "Für alle Siphon-Brüher mit Spirituslampe",
+      "offerId": "butane-burner-for-siphon",
+      "reason": "Die einstellbare Butanflamme gibt Ihnen die Temperaturkontrolle, die Spirituslampen nicht bieten können — das einzelne Upgrade, das die Brühkonsistenz am meisten verbessert."
+    }
+  ]
 }

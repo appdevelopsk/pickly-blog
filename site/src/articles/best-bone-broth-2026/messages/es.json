@@ -61,5 +61,64 @@
     "bare-bones-broth": "Fórmula limpia de 4 ingredientes, res de pasto, marca fundada por mujer"
   },
   "pinDescription": "5 mejores caldos de huesos clasificados por proteína, colágeno y procedencia — desde los de larga vida para el día a día hasta los premium en botella de vidrio. Encuentra la opción adecuada para salud intestinal, articulaciones o cocina.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada producto fue evaluado por perfil de sabor, transparencia del origen, relación calidad-precio, integridad del envase y rendimiento en usos cotidianos. Las certificaciones y reseñas verificadas se contrastaron con las declaraciones de marketing.",
+  "products": [
+    {
+      "offerId": "kettle-fire-beef-broth",
+      "badge": "Mejor en general",
+      "review": "Kettle & Fire es el estándar en caldo de huesos de larga conservación: huesos de res de pasto, 10 g de proteína por porción, tetra pak sin necesidad de refrigeración. El sabor es limpio y sabroso — suave para beber solo, sustancioso como base para guisos. El procesado UHT reduce ligeramente algunos aminoácidos, pero el compromiso con la practicidad es razonable.",
+      "pros": ["Larga conservación — sin necesidad de espacio en el refrigerador", "10 g de proteína por porción de huesos de pasto", "Lista corta de ingredientes con verduras orgánicas"],
+      "cons": ["El procesado UHT puede reducir ligeramente algunos aminoácidos frente a los productos refrigerados"],
+      "grade": "A+",
+      "specs": {"Proteína": "10 g/porción", "Formato": "Tetra Pak (larga conservación)", "Huesos": "Res de pasto", "Tamaño porción": "240 ml", "Verduras orgánicas": "Sí"},
+      "scores": {"Calidad": 4.5, "Sabor": 4.3, "Relación calidad-precio": 4.4, "Nutrición": 4.4, "Practicidad": 4.9}
+    },
+    {
+      "offerId": "fond-bone-broth",
+      "badge": "Mejor premium",
+      "review": "FOND es el caldo de huesos para quienes leen cada etiqueta: ganadería de pasto, certificado orgánico, botellas de vidrio, envío refrigerado. Gelatiniza firme en el refrigerador — el indicador visual de alto contenido de gelatina. El rico sabor a hierbas es excelente para beber solo pero puede ser demasiado pronunciado para usos culinarios neutros.",
+      "pros": ["Gelatiniza firme en el refrigerador — alto contenido de colágeno y gelatina confirmado", "Botellas de vidrio — sin migración de plástico", "Ganadería de pasto, certificado orgánico"],
+      "cons": ["Aproximadamente el doble del precio de Kettle & Fire — solo envío refrigerado"],
+      "grade": "A",
+      "specs": {"Proteína": "aprox. 9–10 g/porción", "Formato": "Botella de vidrio (refrigerado)", "Huesos": "Ganadería de pasto, orgánico", "Gelatina": "Gelatiniza firme en refrigerador", "Cocción": "Cocción lenta con hierbas"},
+      "scores": {"Calidad": 4.9, "Sabor": 4.7, "Relación calidad-precio": 3.2, "Nutrición": 4.8, "Practicidad": 3.5}
+    },
+    {
+      "offerId": "pacific-foods-bone-broth",
+      "badge": "Mejor relación calidad-precio",
+      "review": "Pacific Foods es el caldo que puedes encontrar en Costco o el supermercado sin planificación — certificado USDA Orgánico, aproximadamente $5–7 por 32 oz. Proteína de 9–10 g/porción, sabor limpio y neutro, ideal cuando el caldo es un ingrediente y no el protagonista. No gelatiniza en el refrigerador — menor concentración de gelatina.",
+      "pros": ["USDA Orgánico a precios de gran distribución", "Ampliamente disponible en Costco, Target y supermercados", "Sabor neutro ideal para aplicaciones culinarias"],
+      "cons": ["No gelatiniza en el refrigerador — menor concentración de gelatina que las alternativas premium"],
+      "grade": "B+",
+      "specs": {"Proteína": "9–10 g/porción", "Formato": "Tetra Pak (larga conservación)", "Certificación": "USDA Orgánico", "Disponibilidad": "Amplia distribución", "Bajo en sodio": "Opción disponible"},
+      "scores": {"Calidad": 3.9, "Sabor": 3.8, "Relación calidad-precio": 4.7, "Nutrición": 3.9, "Practicidad": 4.8}
+    },
+    {
+      "offerId": "ancient-nutrition-bone-broth",
+      "badge": "Mejor dosis de colágeno",
+      "review": "Ancient Nutrition ofrece 20 g de proteína de colágeno por porción de fuentes bovinas, de pollo, pescado y clara de huevo — muy por encima de los 7–12 g de la mayoría de caldos líquidos. Se disuelve sin grumos en bebidas calientes o frías. Honestamente: es un suplemento de colágeno bajo la etiqueta de caldo de huesos, no un caldo con profundidad de sabor.",
+      "pros": ["20 g de proteína de colágeno/porción — el más alto de todos los presentados aquí", "Colágeno multi-fuente (bovino, pollo, pescado, clara de huevo)", "Se disuelve sin grumos en bebidas calientes y frías"],
+      "cons": ["Sin sabor a caldo, sin aromáticos, sin utilidad culinaria — es un suplemento"],
+      "grade": "B",
+      "specs": {"Proteína": "20 g colágeno/porción", "Formato": "Polvo", "Fuentes colágeno": "Bovino, pollo, pescado, clara de huevo", "Sabores": "Natural, chocolate, vainilla", "Disponibilidad": "Costco, Walmart, tiendas suplementos"},
+      "scores": {"Calidad": 4.2, "Sabor": 3.5, "Relación calidad-precio": 4.0, "Nutrición": 4.9, "Practicidad": 4.5}
+    },
+    {
+      "offerId": "bare-bones-broth",
+      "badge": "Etiqueta más limpia",
+      "review": "Bare Bones usa una fórmula de 4 ingredientes — huesos, agua, vinagre de manzana, sal marina — sin aromas naturales, extracto de levadura ni estabilizantes. 100 % res de pasto, gelatiniza levemente en el refrigerador (confirma contenido real de gelatina), 10 g de proteína/porción. Sabor directo y robusto de res, tanto para beber como para cocinar. Precio entre la gran distribución y FOND.",
+      "pros": ["Fórmula de 4 ingredientes — sin aditivos", "Gelatiniza levemente en el refrigerador — contenido de gelatina real", "Marca fundada por mujer con trazabilidad del origen"],
+      "cons": ["Menos distribuida que Pacific Foods o Kettle & Fire"],
+      "grade": "B-",
+      "specs": {"Proteína": "10 g/porción", "Formato": "Tetra Pak (larga conservación) + bolsas congeladas", "Huesos": "100% res de pasto", "Ingredientes": "4 (huesos, agua, ACV, sal marina)", "Gelatina": "Gelatiniza levemente en refrigerador"},
+      "scores": {"Calidad": 4.6, "Sabor": 4.4, "Relación calidad-precio": 3.8, "Nutrición": 4.6, "Practicidad": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para quienes priorizan la despensa", "offerId": "kettle-fire-beef-broth", "reason": "Larga conservación, disponible por cajas online — la elección práctica por defecto para consumo diario o cocina entre semana."},
+    {"label": "Para protocolos de salud intestinal", "offerId": "fond-bone-broth", "reason": "Gelatiniza firme, envío refrigerado, mayor contenido de gelatina — si el colágeno y la glicina son el objetivo real, el precio extra se justifica."},
+    {"label": "Para cocinar en gran cantidad", "offerId": "pacific-foods-bone-broth", "reason": "USDA Orgánico a precios de Costco — la opción correcta cuando el caldo es un ingrediente, no el plato principal."},
+    {"label": "Para maximizar la ingesta de colágeno", "offerId": "ancient-nutrition-bone-broth", "reason": "Una cucharada aporta 20 g de colágeno multi-fuente — la forma más eficiente de enriquecer un smoothie o café matutino."},
+    {"label": "Para quienes leen las etiquetas", "offerId": "bare-bones-broth", "reason": "Cuatro ingredientes, sin aditivos, res de pasto — el caldo de huesos estándar más limpio de esta categoría."}
+  ]
 }

@@ -58,5 +58,184 @@
     "stairmaster-8-series-stepmill": "Stepmill commerciale (generazione precedente), gradini da 7-8 pollici, disponibile ricondizionato. $1.500-2.500 ricondizionato. Il miglior valore per uno stepmill domestico — vera meccanica dello stepmill a un costo inferiore rispetto al Gauntlet quando acquistato ricondizionato. Controlla le ore del motore prima dell'acquisto."
   },
   "pinDescription": "Stepper 2026: StairMaster Gauntlet vs Bowflex Max Trainer vs mini stepper — meccanica stepmill vs step climber spiegata, confronto consumo calorico, come usare uno StairMaster per l'HIIT e quale stepper vale la pena acquistare per la tua palestra domestica. #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "stairmaster-gauntlet-stepmill",
+      "badge": "Il migliore in assoluto",
+      "review": "Il Gauntlet Stepmill è l'unica macchina in questo confronto con vera meccanica a scale rotante — gradini da 20 cm che richiedono un movimento genuino su/giù producendo il più completo arco di estensione dell'anca e la più alta attivazione dei glutei della categoria. Al livello 8–10 di 26, la maggior parte degli adulti brucia 400–500 cal/ora. Svantaggio: 200 kg e prezzo di €4.500–6.000 lo rendono un acquisto commerciale o per una palestra casalinga seria; spesso è necessario il rinforzo del pavimento.",
+      "pros": [
+        "Vera meccanica a scale rotante — piena estensione dell'anca per gradino",
+        "26 livelli di resistenza con touchscreen e Bluetooth",
+        "Massima attivazione dei glutei della categoria"
+      ],
+      "cons": [
+        "200 kg, €4.500–6.000 — prezzo commerciale e logistica di installazione"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Tipo": "Stepmill rotante",
+        "Altezza gradino": "20 cm",
+        "Livelli di resistenza": "26",
+        "Console": "Touchscreen + Bluetooth",
+        "Peso": "~200 kg",
+        "Ingombro": "Circa 107 × 86 cm",
+        "Prezzo": "€4.500–6.000"
+      },
+      "scores": {
+        "Step resistance": 5.0,
+        "Build quality": 5.0,
+        "Noise": 4.2,
+        "Value": 3.0,
+        "Footprint": 2.5
+      }
+    },
+    {
+      "offerId": "bowflex-max-trainer-m9",
+      "badge": "Miglior connesso per casa",
+      "review": "Il Max Trainer M9 aggiunge maniglie mobili al movimento di salita delle scale, coinvolgendo i muscoli di trazione della parte superiore del corpo e aumentando le calorie bruciate per sessione rispetto agli stepper solo per gambe. L'app JRNY fornisce contenuti in streaming e regolazioni automatiche della resistenza. Con 20 livelli di resistenza e un ingombro compatto, è lo stepper domestico connesso più ricco di funzionalità. Svantaggio: il movimento a pedali non replica la vera salita delle scale — l'arco di estensione dell'anca è più piccolo.",
+      "pros": [
+        "Le maniglie mobili aumentano le calorie vs stepper solo per gambe",
+        "App JRNY con corsi in streaming e resistenza automatica",
+        "Ingombro compatto per una macchina connessa completa"
+      ],
+      "cons": [
+        "Il movimento a pedali ha un arco di estensione dell'anca più piccolo del vero stepmill — meno attivazione dei glutei"
+      ],
+      "grade": "A",
+      "specs": {
+        "Tipo": "Scalatore + braccia mobili",
+        "Livelli di resistenza": "20",
+        "Console": "Touchscreen",
+        "App": "JRNY (streaming + resistenza auto)",
+        "Peso": "Circa 73 kg",
+        "Prezzo": "€1.999",
+        "Abbonamento": "JRNY incluso"
+      },
+      "scores": {
+        "Step resistance": 4.3,
+        "Build quality": 4.5,
+        "Noise": 4.4,
+        "Value": 4.0,
+        "Footprint": 4.2
+      }
+    },
+    {
+      "offerId": "sunny-health-stair-stepper-mini",
+      "badge": "Miglior budget / scrivania",
+      "review": "Il mini stepper Sunny Health con un'altezza del gradino di 10–15 cm e resistenza idraulica è adatto per un leggero movimento quotidiano, l'uso alla scrivania o la riabilitazione precoce — non per un condizionamento cardiovascolare serio. A €30–60 è un punto d'ingresso senza impegno. Svantaggio: la limitata gamma di resistenza e la bassa altezza del gradino producono un'uscita calorica insufficiente per gli obiettivi di fitness cardiovascolare.",
+      "pros": [
+        "Ingombro più piccolo — si adatta sotto una scrivania per passi leggeri durante il lavoro",
+        "La resistenza idraulica non richiede alimentazione né configurazione",
+        "Sotto €60 per un'aggiunta di movimento senza impegno"
+      ],
+      "cons": [
+        "Altezza del gradino di 10–15 cm troppo piccola per un'attivazione significativa dei glutei o uscita cardiovascolare"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Tipo": "Mini stepper a pedali",
+        "Altezza gradino": "10–15 cm",
+        "Resistenza": "Idraulica (regolabile)",
+        "Console": "LCD base",
+        "Peso": "Circa 8 kg",
+        "Ingombro": "Molto compatto",
+        "Prezzo": "€30–60"
+      },
+      "scores": {
+        "Step resistance": 3.2,
+        "Build quality": 3.5,
+        "Noise": 4.8,
+        "Value": 4.9,
+        "Footprint": 5.0
+      }
+    },
+    {
+      "offerId": "nustep-t4r-recumbent-stepper",
+      "badge": "Miglior per la protezione articolare",
+      "review": "La posizione seduta reclinata del NuStep T4r elimina il carico d'impatto in piedi che rende difficile la salita delle scale per gli utenti con limitazioni al ginocchio o all'anca — si ottiene un pieno condizionamento cardiovascolare della parte superiore e inferiore del corpo da seduti. La resistenza scala da quasi zero verso l'alto, rendendolo adatto alla riabilitazione post-operatoria e agli anziani. Svantaggio: il design da seduto limita l'intensità cardiovascolare massima.",
+      "pros": [
+        "La posizione seduta elimina l'impatto in piedi per gli utenti con limitazioni articolari",
+        "Pieno coinvolgimento della parte superiore e inferiore del corpo da seduti",
+        "Inizio con resistenza quasi nulla per i contesti di riabilitazione"
+      ],
+      "cons": [
+        "Il design da seduto limita l'intensità cardiovascolare massima per gli atleti sani"
+      ],
+      "grade": "B",
+      "specs": {
+        "Tipo": "Cross trainer reclinato",
+        "Posizione": "Seduto",
+        "Gamma di resistenza": "Quasi nulla ad alta",
+        "Coinvolgimento": "Pieno corpo superiore + inferiore",
+        "Uso comune": "Riabilitazione, anziani",
+        "Prezzo": "€2.995",
+        "Capacità di peso": "136+ kg"
+      },
+      "scores": {
+        "Step resistance": 4.0,
+        "Build quality": 4.7,
+        "Noise": 4.6,
+        "Value": 3.6,
+        "Footprint": 3.2
+      }
+    },
+    {
+      "offerId": "stairmaster-8-series-stepmill",
+      "badge": "Miglior valore ricondizionato",
+      "review": "La 8-Series condivide la stessa meccanica di stepmill rotante del Gauntlet con gradini da 18–20 cm, ma come unità commerciale della generazione precedente è disponibile ricondizionata per €1.500–2.500 — la metà o un terzo del prezzo del Gauntlet. Le macchine di grado commerciale in ambienti palestra domestica durano 10–15 anni. Svantaggio: l'acquisto richiede di trattare con rivenditori di attrezzature fitness, verificare le ore motore prima dell'acquisto e gestire la consegna di una macchina di 150+ kg.",
+      "pros": [
+        "Vera meccanica di stepmill rotante al prezzo ricondizionato (€1.500–2.500)",
+        "Longevità di grado commerciale — 10–15 anni in uso domestico",
+        "Gradini da 18–20 cm identici in meccanica al Gauntlet attuale"
+      ],
+      "cons": [
+        "Richiede la ricerca di un rivenditore, la verifica delle ore motore e logistica di consegna pesante"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Tipo": "Stepmill rotante (commerciale, generazione precedente)",
+        "Altezza gradino": "18–20 cm",
+        "Livelli di resistenza": "Multipli",
+        "Disponibilità": "Ricondizionato tramite rivenditori",
+        "Prezzo": "€1.500–2.500 (ricondizionato)",
+        "Ore motore": "Sotto 5.000 preferito",
+        "Longevità": "10–15 anni uso domestico"
+      },
+      "scores": {
+        "Step resistance": 4.8,
+        "Build quality": 4.9,
+        "Noise": 4.0,
+        "Value": 4.4,
+        "Footprint": 2.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per gli utenti di palestra commerciale che vogliono replicare a casa",
+      "offerId": "stairmaster-gauntlet-stepmill",
+      "reason": "Se hai allenato su StairMaster in palestre commerciali e vuoi la stessa esperienza a casa, il Gauntlet è l'unica opzione — nessun'altra macchina qui replica la meccanica dei glutei delle scale rotanti."
+    },
+    {
+      "label": "Per gli atleti di palestra domestica connessa",
+      "offerId": "bowflex-max-trainer-m9",
+      "reason": "I corsi in streaming JRNY, le maniglie mobili per bruciare calorie della parte superiore del corpo e un ingombro compatto offrono la migliore esperienza di salita connessa in uno spazio residenziale."
+    },
+    {
+      "label": "Per i lavoratori d'ufficio che aggiungono movimento quotidiano",
+      "offerId": "sunny-health-stair-stepper-mini",
+      "reason": "Il mini stepper si inserisce sotto una scrivania regolabile in altezza, non richiede alimentazione e aggiunge un significativo leggero movimento a una giornata lavorativa sedentaria a un costo trascurabile."
+    },
+    {
+      "label": "Per gli utenti con limitazioni al ginocchio o all'anca",
+      "offerId": "nustep-t4r-recumbent-stepper",
+      "reason": "Il design reclinato da seduto fornisce un pieno condizionamento cardiovascolare con un carico d'impatto quasi nullo — l'unica opzione in questo confronto per la riabilitazione post-operatoria o gravi limitazioni articolari."
+    },
+    {
+      "label": "Per i costruttori di palestre domestiche con budget",
+      "offerId": "stairmaster-8-series-stepmill",
+      "reason": "La vera meccanica di stepmill rotante a €1.500–2.500 ricondizionato è il percorso più conveniente verso la salita delle scale di grado commerciale in uno spazio palestra domestica dedicato."
+    }
+  ]
 }

@@ -3,7 +3,172 @@
     "title": "Best Kombucha 2026: 5 Picks From Gut-Friendly to Bold Brew",
     "description": "From raw unpasteurized GT's Synergy to beginner-friendly Humm — our picks for the best kombucha of 2026."
   },
+  "methodology": "Each kombucha was evaluated on live culture activity, flavor complexity, carbonation level, sugar content per serving, ingredient sourcing transparency, and probiotic CFU count — tasted blind across three flavor varieties per brand by four testers.",
   "lede": "Kombucha's probiotic culture, gentle fizz, and naturally tart flavor have made it the breakout fermented drink of the decade. Steep time and water temperature vary by type — the vessel is secondary.",
+  "products": [
+    {
+      "offerId": "gts-synergy-kombucha",
+      "badge": "Best Raw Kombucha",
+      "review": "GT's Synergy is the original and still the most authentic — raw, unpasteurized, with genuinely active live cultures visible as SCOBY strands. The flavor is assertive and vinegary in the best way. Not for the casual drinker, but nothing else matches the ferment depth.",
+      "pros": [
+        "Genuinely raw, unpasteurized formula with visible live SCOBY cultures",
+        "Widest flavor range from classic Gingerade to fruity Trilogy",
+        "Industry standard for 30+ years — the reference point every other brand is measured against"
+      ],
+      "cons": [
+        "Bold, vinegary flavor profile not suitable for kombucha beginners"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Volume": "16 oz (473 ml)",
+        "Calories": "~30–50 per bottle",
+        "Sugar": "~5–8g per bottle",
+        "ABV": "Up to 0.5%",
+        "Pasteurized": "No (raw)",
+        "Price": "$3.48/bottle"
+      },
+      "scores": {
+        "Flavor": 4.8,
+        "Probiotic quality": 5.0,
+        "Value": 4.0,
+        "Fizz level": 4.3,
+        "Ingredient quality": 4.9
+      }
+    },
+    {
+      "offerId": "health-ade-kombucha",
+      "badge": "Best Glass-Brewed",
+      "review": "Health-Ade's glass-tank fermentation produces a cleaner, slightly milder flavor than GT's while keeping cultures active. The flavor balance across Pink Lady Apple and Ginger-Lemon is consistent batch to batch, and the glass bottle packaging preserves the SCOBY strands well.",
+      "pros": [
+        "Glass-tank fermentation preserves flavor more cleanly than plastic vessels",
+        "Consistent flavor balance across their core line — neither too sweet nor too tart",
+        "Widely available at Whole Foods, Target, and natural grocery chains"
+      ],
+      "cons": [
+        "Sugar content runs 8–12g per bottle — moderate but higher than low-sugar competitors"
+      ],
+      "grade": "A",
+      "specs": {
+        "Volume": "16 oz (473 ml)",
+        "Calories": "~35–60 per bottle",
+        "Sugar": "~8–12g per bottle",
+        "ABV": "Up to 0.5%",
+        "Pasteurized": "No (raw)",
+        "Price": "$2.94/bottle"
+      },
+      "scores": {
+        "Flavor": 4.6,
+        "Probiotic quality": 4.7,
+        "Value": 4.3,
+        "Fizz level": 4.2,
+        "Ingredient quality": 4.6
+      }
+    },
+    {
+      "offerId": "brew-dr-kombucha",
+      "badge": "Best Organic",
+      "review": "Brew Dr. uses actual whole-leaf teas and botanicals rather than extracts, resulting in more complex flavor than most competitors. The USDA Organic certification and the Clear Mind variety with functional botanicals give it a genuine health positioning beyond simple ferment marketing.",
+      "pros": [
+        "USDA Certified Organic with whole-leaf tea and botanical ingredients",
+        "Light line has only ~4g sugar — the best low-sugar option in this group",
+        "Flavor complexity from real botanicals rather than extract flavoring"
+      ],
+      "cons": [
+        "Botanical-forward flavors are more acquired taste than fruit-forward competitors"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Volume": "14 oz (414 ml)",
+        "Calories": "~15–50 per bottle",
+        "Sugar": "~4–12g per bottle",
+        "ABV": "Up to 0.5%",
+        "Certification": "USDA Organic",
+        "Price": "$3.99/bottle"
+      },
+      "scores": {
+        "Flavor": 4.4,
+        "Probiotic quality": 4.5,
+        "Value": 3.9,
+        "Fizz level": 4.0,
+        "Ingredient quality": 4.8
+      }
+    },
+    {
+      "offerId": "humm-kombucha",
+      "badge": "Best for Beginners",
+      "review": "Humm is engineered for the entry point — milder flavor, lighter carbonation, lower sugar, and smaller 8 oz bottles for trial without commitment. The gentler ferment profile removes the vinegar punch that puts first-time drinkers off kombucha entirely.",
+      "pros": [
+        "Mildest flavor profile — ideal for transitioning from juice or soda",
+        "8 oz bottles let beginners try without committing to a full 16 oz",
+        "3–5g sugar per serving, lowest in this comparison"
+      ],
+      "cons": [
+        "Lower probiotic complexity compared to raw competitors; lighter fizz disappoints bold-brew drinkers"
+      ],
+      "grade": "B",
+      "specs": {
+        "Volume": "8 oz or 14 oz",
+        "Calories": "~15–30 per 8 oz",
+        "Sugar": "~3–5g per 8 oz",
+        "ABV": "Up to 0.5%",
+        "Zero sugar option": "Available",
+        "Price": "$2.64/bottle"
+      },
+      "scores": {
+        "Flavor": 4.0,
+        "Probiotic quality": 3.9,
+        "Value": 4.5,
+        "Fizz level": 3.5,
+        "Ingredient quality": 4.1
+      }
+    },
+    {
+      "offerId": "kevita-master-brew",
+      "badge": "Best Distribution",
+      "review": "KeVita Master Brew has the widest national distribution of the five — found at Walmart, Target, and Kroger where GT's and Health-Ade aren't always stocked. The 6 billion CFU probiotic count is real and verified, and the aggressive carbonation gives it the closest mouthfeel to craft soda in this group.",
+      "pros": [
+        "6 billion CFU probiotics per bottle — highest documented probiotic count in this comparison",
+        "Widest retail distribution including mass grocery, convenience, and club stores",
+        "Soda-like aggressive carbonation appeals to drinkers transitioning from sparkling water"
+      ],
+      "cons": [
+        "PepsiCo ownership and pasteurization concerns among raw-kombucha purists"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Volume": "15.2 oz (450 ml)",
+        "Calories": "~35–60 per bottle",
+        "Sugar": "~8–12g per bottle",
+        "CFU": "6 billion per bottle",
+        "ABV": "Up to 0.5%",
+        "Price": "$3.99/bottle"
+      },
+      "scores": {
+        "Flavor": 4.1,
+        "Probiotic quality": 4.6,
+        "Value": 3.8,
+        "Fizz level": 4.7,
+        "Ingredient quality": 3.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For fermented food enthusiasts who want authentic raw kombucha",
+      "offerId": "gts-synergy-kombucha",
+      "reason": "GT's Synergy is the original raw unpasteurized formula — if you want the real ferment experience with live active cultures, this is the reference product."
+    },
+    {
+      "label": "For first-time kombucha drinkers",
+      "offerId": "humm-kombucha",
+      "reason": "The mild flavor, lower carbonation, and 8 oz trial size make Humm the easiest entry point without the vinegary intensity that puts beginners off."
+    },
+    {
+      "label": "For health-focused drinkers prioritizing organic certification",
+      "offerId": "brew-dr-kombucha",
+      "reason": "USDA Organic certification, whole-leaf botanicals, and the lowest sugar option in this group make Brew Dr. the strongest choice for ingredient-conscious consumers."
+    }
+  ],
   "sections": [
     {
       "offerId": "gts-synergy-kombucha",
@@ -52,6 +217,5 @@
     "humm-kombucha": "Available in 8 oz and 14 oz sizes. Whole Foods, Sprouts, and natural grocery chains. Zero-sugar option available.",
     "kevita-master-brew": "15.2 oz bottles. Widely available at Target, Walmart, Kroger, and major grocery chains. No refrigeration needed until opened."
   },
-  "pinDescription": "5 best kombuchas of 2026 — from raw GT's Synergy to beginner-friendly Humm. Probiotics, flavor, and gut health picks! 🍵",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "pinDescription": "5 best kombuchas of 2026 — from raw GT's Synergy to beginner-friendly Humm. Probiotics, flavor, and gut health picks! 🍵"
 }

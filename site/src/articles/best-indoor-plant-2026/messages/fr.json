@@ -118,5 +118,139 @@
     "peace-lily": "Spathiphyllum — l'une des rares plantes d'intérieur qui fleurit de façon fiable en intérieur sous un éclairage normal. Les fleurs à spathe blanc sont élégantes, et l'indicateur d'arrosage par flétrissement-récupération est l'une des caractéristiques les plus utiles de toute plante pour les débutants qui perdent le fil des calendriers d'arrosage. Faiblesses explicites : toxique pour les chats, les chiens et les enfants ; le flétrissement dramatique en cas de soif est un signal utile mais semble alarmant ; les pointes de feuilles brunes sont fréquentes avec l'eau du robinet fluorée ; sensible aux acariens dans l'air intérieur sec pendant la saison de chauffage hivernal ; ne fleurit qu'une ou deux fois par an dans des conditions de pièce typiques."
   },
   "pinDescription": "5 meilleures plantes d'intérieur pour 2026 — Pothos Doré vs Monstera vs Sansevieria vs ZZ Plant vs Spathiphyllum. Vérité sur la faible luminosité, mythes d'arrosage, guide de toxicité pour animaux et ce que l'étude de purification de l'air de la NASA a vraiment trouvé. Faiblesses explicites sur chaque choix. #plantesdinterieur #soinsdesplantes #français",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Chaque plante a été notée sur sa tolérance réelle à l'ombre (testée contre des seuils en pieds-bougies, non les affirmations marketing), la fréquence d'arrosage dans des conditions domestiques typiques, la recherche vérifiée sur la purification de l'air, les données de toxicité pour animaux/enfants de l'ASPCA et la littérature publiée, et la facilité d'acquisition au Japon et sur les marchés mondiaux.",
+  "products": [
+    {
+      "offerId": "pothos-golden",
+      "badge": "Meilleur Choix Global",
+      "review": "Le Pothos Doré est la plante d'intérieur la plus résistante du groupe : il survit à une lumière artificielle de 50 pieds-bougies là où d'autres ne feraient que subsister. La croissance rapide et visible donne aux débutants un retour positif immédiat, et les lianes retombantes se propagent facilement par bouturage. Le seul vrai inconvénient : toxique pour les chats et les chiens — aucun problème pour les foyers sans animaux, mais un critère d'exclusion pour les autres.",
+      "pros": ["Survit à la lumière artificielle et aux arrosages oubliés", "La croissance rapide donne un retour immédiat aux débutants", "Facile à propager par bouturage"],
+      "cons": ["Toxique pour les chats et les chiens — inadapté aux foyers avec animaux"],
+      "grade": "A+",
+      "specs": {
+        "Besoin en lumière": "50–250 pieds-bougies",
+        "Arrosage": "Tous les 7–14 jours",
+        "Toxicité": "Toxique pour chats/chiens (ASPCA)",
+        "Taux de croissance": "30–60 cm/an",
+        "Humidité": "Tolérante (40–70%)",
+        "Disponibilité Japon": "Largement disponible"
+      },
+      "scores": {
+        "Low maintenance": 5.0,
+        "Air purification": 3.5,
+        "Aesthetics": 4.2,
+        "Value": 5.0,
+        "Growth rate": 4.8
+      }
+    },
+    {
+      "offerId": "monstera-deliciosa",
+      "badge": "Meilleure Esthétique",
+      "review": "Le Monstera deliciosa est la plante de design qui donne du caractère à la plupart des salons — les feuilles perforées sont inconfondables et deviennent spectaculaires avec l'âge. Le problème : elle nécessite une vraie lumière indirecte brillante (150–250 pieds-bougies), pas la lumière tamisée que proposent la plupart des appartements, et pousse frustrantement lentement avec peu de lumière. Idéal pour les grandes pièces avec de bonnes fenêtres.",
+      "pros": ["Apparence inimitable avec les feuilles perforées iconiques", "Devient une vraie pièce maîtresse avec le temps", "Non toxique pour l'homme, modérément pour les animaux"],
+      "cons": ["Nécessite une vraie lumière indirecte brillante — pousse à peine sans"],
+      "grade": "A",
+      "specs": {
+        "Besoin en lumière": "150–250 pieds-bougies",
+        "Arrosage": "Tous les 7–10 jours",
+        "Toxicité": "Légèrement toxique pour les animaux",
+        "Taux de croissance": "15–30 cm/an",
+        "Taille maximale": "2+ m en intérieur",
+        "Disponibilité Japon": "Fleuristes, jardineries"
+      },
+      "scores": {
+        "Low maintenance": 3.5,
+        "Air purification": 3.8,
+        "Aesthetics": 5.0,
+        "Value": 3.5,
+        "Growth rate": 3.0
+      }
+    },
+    {
+      "offerId": "snake-plant-laurentii",
+      "badge": "Meilleure Purification de l'Air",
+      "review": "La Sansevieria trifasciata 'Laurentii' est la seule plante du groupe avec des données de purification de l'air vérifiées dans des études à comité de lecture. La fixation nocturne de CO₂ par photosynthèse CAM en fait un choix idéal pour les chambres. Extrêmement tolérante à la sécheresse — deux semaines sans eau ne pose aucun problème. Le compromis : croissance très lente que certains perçoivent comme statique.",
+      "pros": ["Performance de purification vérifiée dans des études scientifiques", "La photosynthèse CAM en fait le choix idéal pour les chambres", "Quasi indestructible face au sur-arrosage et à la sécheresse"],
+      "cons": ["Croissance très lente — changement à peine visible sur des mois"],
+      "grade": "B+",
+      "specs": {
+        "Besoin en lumière": "25–200 pieds-bougies",
+        "Arrosage": "Tous les 14–21 jours",
+        "Toxicité": "Modérément toxique pour les animaux",
+        "Taux de croissance": "5–10 cm/an",
+        "Photosynthèse": "CAM (nocturne)",
+        "Disponibilité Japon": "Largement disponible"
+      },
+      "scores": {
+        "Low maintenance": 5.0,
+        "Air purification": 4.5,
+        "Aesthetics": 4.0,
+        "Value": 4.5,
+        "Growth rate": 2.0
+      }
+    },
+    {
+      "offerId": "zz-plant",
+      "badge": "La Plus Facile à Entretenir",
+      "review": "La ZZ Plant (Zamioculcas zamiifolia) est la plante idéale pour les distraits : les rhizomes stockent de l'eau pour des mois d'abandon. Elle prospère avec très peu de lumière et est presque indestructible. La croissance lente et l'esthétique modérée sont ses seules limites — et l'effet toxique pour les humains et les animaux doit être pris en compte.",
+      "pros": ["Les rhizomes stockent l'eau pour une tolérance extrême à la sécheresse", "Prospère avec très peu de lumière là où d'autres mouraient", "Pratiquement sans entretien pour les foyers occupés"],
+      "cons": ["Croissance lente — changement minimal visible sur des mois"],
+      "grade": "B",
+      "specs": {
+        "Besoin en lumière": "25–150 pieds-bougies",
+        "Arrosage": "Tous les 21–30 jours",
+        "Toxicité": "Toxique pour les animaux et les humains",
+        "Taux de croissance": "2–5 cm/an",
+        "Réserve d'eau": "Rhizomes",
+        "Disponibilité Japon": "Fleuristes, en ligne"
+      },
+      "scores": {
+        "Low maintenance": 5.0,
+        "Air purification": 3.0,
+        "Aesthetics": 4.3,
+        "Value": 4.0,
+        "Growth rate": 1.5
+      }
+    },
+    {
+      "offerId": "peace-lily",
+      "badge": "Les Plus Belles Fleurs",
+      "review": "Le Spathiphyllum est l'une des rares plantes d'intérieur qui fleurit de façon fiable sous un éclairage normal de pièce — un vrai avantage pour les foyers sans fenêtres lumineuses. L'indicateur d'arrosage intégré (flétrissement et récupération) est très pratique pour les débutants. Mise en garde stricte : toxique pour les chats, les chiens et les enfants — critère d'exclusion absolu pour les foyers avec animaux.",
+      "pros": ["Fleurit de façon fiable sans lumière vive — rare pour les plantes d'intérieur", "Le flétrissement-récupération signale clairement le besoin en eau", "Les fleurs blanches élégantes ajoutent du charme à l'intérieur"],
+      "cons": ["Toxique pour les chats, les chiens et les enfants — inadapté aux foyers avec animaux"],
+      "grade": "B-",
+      "specs": {
+        "Besoin en lumière": "25–150 pieds-bougies",
+        "Arrosage": "Tous les 7–10 jours",
+        "Toxicité": "Toxique pour animaux et enfants",
+        "Saison de floraison": "1–2× par an",
+        "Indicateur d'arrosage": "Flétrissement dramatique",
+        "Disponibilité Japon": "Largement disponible"
+      },
+      "scores": {
+        "Low maintenance": 3.8,
+        "Air purification": 4.5,
+        "Aesthetics": 4.5,
+        "Value": 4.3,
+        "Growth rate": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les débutants et les foyers occupés",
+      "offerId": "pothos-golden",
+      "reason": "Aucune autre plante ne pardonne autant d'erreurs de débutant à un coût aussi bas et avec une croissance aussi rapide."
+    },
+    {
+      "label": "Pour les amateurs de design avec de belles fenêtres",
+      "offerId": "monstera-deliciosa",
+      "reason": "Les feuilles perforées iconiques font de chaque pièce un point focal — si la lumière est suffisante."
+    },
+    {
+      "label": "Pour les personnes qui oublient complètement l'entretien des plantes",
+      "offerId": "zz-plant",
+      "reason": "Les rhizomes survivent à des mois d'abandon — la plus facile à entretenir du groupe."
+    }
+  ]
 }

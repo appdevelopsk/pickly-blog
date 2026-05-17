@@ -77,5 +77,64 @@
     "mummyfit-dip-belt": "Budget-Neopren-Pick, 36\" Kette"
   },
   "pinDescription": "Diese 5 Dip-Gurtel decken jedes Trainingsniveau ab — von deinen ersten 10 kg bis hin zu ernsthaftem gewichteten Klimmzug- und Dip-Training. Leder, Neopren oder Budget-Nylon — das ist, was wirklich halt #Dips #Klimmzuge #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jede Dip-Gürtel wurde nach Kettenlänge, Hardware-Stärke, Komfort des Polstermaterials unter Last, Gewichtskapazität und Langzeit-Haltbarkeit basierend auf der Materialkonstruktion bewertet — nicht nach Markenversprechen.",
+  "products": [
+    {
+      "offerId": "rogue-dip-belt",
+      "badge": "Bester Gesamt",
+      "review": "In den USA aus 10mm Nylongewebe mit 3-Zoll-Lederpolster und zertifiziertem Karabiner gefertigt. Unter schwerer Last — 40 kg und mehr — verteilt das Leder die Last über die Hüftknochen statt einzudrücken, und die Hardware bleibt rund. Langlebigkeit ist real: Nähte und Kette überdauern günstige Gürtel um Jahre.",
+      "pros": ["Made in USA, doppelt genäht an allen Stresspoints", "Lederpolster formt sich mit der Zeit an den Körper", "Zertifizierter Karabiner hält schwerer Last ohne Verformung stand"],
+      "cons": ["Leder ist in den ersten Einheiten vor dem Einlaufen steif"],
+      "grade": "A+",
+      "specs": {"Material": "10mm Nylongewebe + Lederpolster", "Kettenlänge": "61 cm Stahl", "Polsterbreite": "7,5 cm", "Hardware": "Zertifizierter Stahl-Karabiner", "Herkunft": "USA"},
+      "scores": {"Bauqualität": 5.0, "Haltbarkeit": 5.0, "Komfort": 4.5, "Tragfähigkeit": 5.0, "Preis-Leistung": 4.0}
+    },
+    {
+      "offerId": "dark-iron-fitness-dip-belt",
+      "badge": "Bestes Budget-Leder",
+      "review": "Echtes Leder mit 15 cm Polster — breiter als der Rogue — macht Dips besonders komfortabler, da das Gewicht auf dem Oberschenkel liegt. Die 76-cm-Kette passt zu Standard-Olympia-Scheiben, 300-lb-Kapazität. Nachteil: 2–3 Wochen regelmäßiger Nutzung bis zum vollständigen Einlaufen.",
+      "pros": ["15-cm-Lederpolster breiter als die meisten Konkurrenten", "300-lb-Gewichtskapazität", "Formt sich nach Einlaufen besser als Nylon"],
+      "cons": ["Steif und leicht unbequem in den ersten Einheiten"],
+      "grade": "A",
+      "specs": {"Material": "Echtes Leder", "Kettenlänge": "76 cm Stahl", "Polsterbreite": "15 cm", "Tragfähigkeit": "136 kg", "Preis": "~35 €"},
+      "scores": {"Bauqualität": 4.2, "Haltbarkeit": 4.5, "Komfort": 4.3, "Tragfähigkeit": 4.8, "Preis-Leistung": 4.8}
+    },
+    {
+      "offerId": "harbinger-dip-belt",
+      "badge": "Bestes Budget",
+      "review": "Robustes Polypropylengurte mit 76-cm-Stahlkette — der De-facto-Standard in Fitnessstudios. Funktioniert problemlos für 10–35 kg Zusatzgewicht. Der Stahlring ist deutlich stärker als gestanzte Ringe an Billiggürteln.",
+      "pros": ["In den meisten Studios im Einsatz — bewährtes Konzept", "Stahlring deutlich stärker als gestanzte Billigvarianten", "Vernünftiger Einstiegspunkt für ~25 €"],
+      "cons": ["Polypropylen weniger komfortabel als Leder unter schwerer Last"],
+      "grade": "B+",
+      "specs": {"Material": "Polypropylengurt", "Kettenlänge": "76 cm Stahl", "Preis": "~36 €", "Geeignet für": "10–35 kg Zusatzgewicht"},
+      "scores": {"Bauqualität": 3.8, "Haltbarkeit": 4.0, "Komfort": 3.5, "Tragfähigkeit": 4.0, "Preis-Leistung": 5.0}
+    },
+    {
+      "offerId": "fire-team-fit-dip-belt",
+      "badge": "Bester Komfort",
+      "review": "Neoprenpolster ist vom ersten Tag an weich — kein Einlaufen nötig. Schnellverschluss beschleunigt Satzwechsel. 91-cm-Kette ist hier am längsten und bietet Platz für dicke Bumper-Plates. Neopren nimmt Schweiß auf, gelegentliches Ausspülen empfohlen.",
+      "pros": ["Neopren weich ab dem ersten Einsatz — kein Einlaufen", "Schnellverschluss beschleunigt Satzwechsel", "91-cm-Kette für dicke Bumper-Plates"],
+      "cons": ["Neopren saugt Schweiß auf; gelegentliches Spülen erforderlich"],
+      "grade": "B",
+      "specs": {"Material": "Neopren", "Kettenlänge": "91 cm Stahl", "Polsterbreite": "10 cm", "Tragfähigkeit": "136 kg", "Preis": "~50 €"},
+      "scores": {"Bauqualität": 4.0, "Haltbarkeit": 3.8, "Komfort": 4.8, "Tragfähigkeit": 4.5, "Preis-Leistung": 4.3}
+    },
+    {
+      "offerId": "mummyfit-dip-belt",
+      "badge": "Bestes Preis-Leistungs-Verhältnis",
+      "review": "Budget-Neopren mit 91-cm-Kette — gleiche Länge wie Fire Team Fit zum halben Preis. Hardware ist leichter gebaut, für über 60 kg Zusatzgewicht nicht ideal. Für Einsteiger oder zum Testen ein risikoarmer Einstieg.",
+      "pros": ["91-cm-Kette für unter 30 €", "Neopren weich ab dem ersten Tag", "Einstieg ohne finanzielles Risiko"],
+      "cons": ["Leichtere Hardware — nicht ideal für 60+ kg Zusatzgewicht"],
+      "grade": "B-",
+      "specs": {"Material": "Neopren", "Kettenlänge": "91 cm Stahl", "Preis": "~23 €", "Geeignet für": "Einsteiger, unter 45 kg Zusatzgewicht"},
+      "scores": {"Bauqualität": 3.3, "Haltbarkeit": 3.5, "Komfort": 4.2, "Tragfähigkeit": 3.5, "Preis-Leistung": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für Kraftsportler mit 40+ kg Zusatzgewicht", "offerId": "rogue-dip-belt", "reason": "US-amerikanische Hardware und Leder, die unter schwerer Last nicht verformen oder eindrücken"},
+    {"label": "Für Leder-Komfort mit kleinem Budget", "offerId": "dark-iron-fitness-dip-belt", "reason": "15-cm-Lederpolster breiter als Rogue, zum halben Preis"},
+    {"label": "Für Einsteiger, die Dips mit Gewicht testen", "offerId": "harbinger-dip-belt", "reason": "Der Studio-Standard für ~25 € — erst testen, dann investieren"},
+    {"label": "Für schnelle Satzwechsel", "offerId": "fire-team-fit-dip-belt", "reason": "Schnellverschluss und weiches Neopren ab dem ersten Tag"},
+    {"label": "Für den günstigsten Einstieg", "offerId": "mummyfit-dip-belt", "reason": "91-cm-Kette für unter 30 € — wenig Verlust wenn Dips nicht das Richtige sind"}
+  ]
 }

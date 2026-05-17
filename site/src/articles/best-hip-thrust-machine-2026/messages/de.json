@@ -58,5 +58,64 @@
     "hip-thrust-pad-barbell": "Schaumstoff-Barbell-Pad fuer Hip Thrust mit Klettverschlussband. $15-30. Unverzichtbares Zubehoer fuer jede Hip-Thrust-Anordnung — macht den Stangenkontakt auf den Huefeknoch angenehm. Unabhaengig von Bank- oder Maschinenwahl notwendig."
   },
   "pinDescription": "Hip-Thrust-Maschine 2026: Bells of Steel Hip Thruster vs REP AB-5200 vs Valor vs Titan — warum Pad-Hoehe wichtig ist, wie man Hip Thrust mit Hantelstange auf jeder Bank einrichtet, Gluteus-Anspannungshinweis oben und welche dedizierte Hip-Thrust-Maschine sich fuer ernsthaftes Gluteustraining lohnt. #HipThrust #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jede Hip-Thrust-Maschine wurde nach Pad-Höhe, Fussplattform-Verstellbarkeit, Stangenhalterungsintegration, Tragfähigkeit, Rahmenstabilität unter Last und Preis-Leistungs-Verhältnis bewertet — mit realen Belastungsszenarien bis 180 kg als Schwerpunkt.",
+  "products": [
+    {
+      "offerId": "bells-of-steel-hip-thruster",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Die vollständigste, zweckspezifische Hip-Thrust-Station: integrierte Stangenhalterung hält die Stange auf Hüfthöhe bevor man sich hinsetzt (kein Abrollen nötig), verstellbare Fussplattform, breites gepolstertes Rückenpad, Räder. Bei 1.199 $ ist es eine Premium-Investition — gerechtfertigt wenn man 3+ mal pro Woche Hip Thrust macht und nullreibungsfreien Aufbau schätzt. Alles andere ist ein Kompromiss.",
+      "pros": ["Integrierte Stangenhalterung eliminiert das Abrollen der Stange", "Verstellbare Fussplattform für konsistentes Einheitensetup", "Räder für einfaches Umpositionieren im Studio"],
+      "cons": ["1.199 $ Preispunkt ist erheblich — zu viel für gelegentlichen Hip Thrust"],
+      "grade": "A+",
+      "specs": {"Preis": "1.199 $", "Tragfähigkeit": "Für Schwerlasten ausgelegt", "Rückenpad-Höhe": "ca. 43–46 cm", "Fussplattform": "Verstellbar", "Standfläche": "Erfordert festen Platz"},
+      "scores": {"Verarbeitungsqualität": 5.0, "Bedienkomfort": 5.0, "Komfort": 4.8, "Tragfähigkeit": 5.0, "Preis-Leistung": 3.8}
+    },
+    {
+      "offerId": "rep-fitness-ab-5200-fid-bench",
+      "badge": "Bestes Doppelzweck-Gerät",
+      "review": "Eine hochwertige FID-Verstellbank, die auch als Hip-Thrust-Station funktioniert: 43 cm Pad-Höhe im Flachen, kommerzieller Rahmen, schwer genug um nicht zu verrutschen. Keine Stangenhalterung — man muss die Stange noch abrollen. Dafür auch vollwertige Bank für Schrägdrücken — Doppelnutzung macht sie platzsparend für gemischte Heimstudios.",
+      "pros": ["43 cm Pad-Höhe für die meisten Hip-Thrust-Setups korrekt", "Volle FID-Bankfunktion — dient auch als Drückstation", "Kommerzielle Rahmenstabilität unter Schwerlasten"],
+      "cons": ["Keine integrierte Stangenhalterung — Stange muss pro Satz abgerollt werden"],
+      "grade": "A",
+      "specs": {"Preis": "500 $", "Tragfähigkeit": "454 kg", "Pad-Höhe (flach)": "43 cm", "Neigungseinstellungen": "6 Positionen", "Rahmen": "11-Gauge 76 mm² Stahl"},
+      "scores": {"Verarbeitungsqualität": 4.8, "Bedienkomfort": 3.8, "Komfort": 4.5, "Tragfähigkeit": 4.8, "Preis-Leistung": 4.3}
+    },
+    {
+      "offerId": "valor-fitness-hip-thrust-bench",
+      "badge": "Beste dedizierte Mittelklasse",
+      "review": "Zweckspezifische Hip-Thrust-Station mit integrierter Fussplattform und geneigtem Rückenpad zu geringerem Preis als Bells of Steel. Bis 180 kg geeignet — deckt die meisten Heimstudio-Progressionen ab. Die leichtere Bauweise gegenüber Premium-Optionen fällt auf, beeinträchtigt aber die Funktion bei moderaten Lasten nicht. Beste Option für Athleten, die eine dedizierte Hip-Thrust-Bank ohne Bells-of-Steel-Preis suchen.",
+      "pros": ["Zweckspezifisch für Hip Thrust mit integrierter Fussplattform", "180 kg Kapazität für die meisten Heimstudio-Nutzer ausreichend", "Geringere Kosten als Bells of Steel für die Kernfunktion"],
+      "cons": ["Leichtere Rahmenkonstruktion als Premium-Optionen — mehr Flex bei Maximallasten"],
+      "grade": "B+",
+      "specs": {"Preis": "89,99 $", "Tragfähigkeit": "181 kg", "Rückenpad": "Geneigt, gepolstert", "Fussplattform": "Integriert, fest"},
+      "scores": {"Verarbeitungsqualität": 3.8, "Bedienkomfort": 4.5, "Komfort": 4.0, "Tragfähigkeit": 4.0, "Preis-Leistung": 4.8}
+    },
+    {
+      "offerId": "titan-fitness-hip-thrust-machine",
+      "badge": "Beste Budget-Dedizierte",
+      "review": "Titans Hip-Thrust-Maschine liefert Kernfunktionen — verstellbare Fussplattform, Stangenhalterung — zu geringeren Kosten als REP oder Bells of Steel. Verarbeitungsqualität liegt darunter: weniger steifer Rahmen, leichtere Hardware. Für Heimstudio-Athleten, die eine dedizierte Hip-Thrust-Maschine zum Mindestpreis wollen und bis 135 kg trainieren, liefert sie die wesentliche Funktion.",
+      "pros": ["Dedizierte Hip-Thrust-Funktion mit Stangenhalterung", "Verstellbare Fussplattform für konsistentes Setup", "Günstigste dedizierte Maschine in diesem Vergleich"],
+      "cons": ["Unter REP und Bells of Steel in Rahmensteifigkeit und Hardware-Qualität"],
+      "grade": "B",
+      "specs": {"Preis": "499 $", "Rückenpad": "Gepolstert, feste Höhe", "Fussplattform": "Verstellbar", "Stangenhalterung": "Ja"},
+      "scores": {"Verarbeitungsqualität": 3.5, "Bedienkomfort": 4.3, "Komfort": 3.8, "Tragfähigkeit": 3.8, "Preis-Leistung": 4.3}
+    },
+    {
+      "offerId": "hip-thrust-pad-barbell",
+      "badge": "Unverzichtbares Zubehör",
+      "review": "Das Barbell-Hip-Thrust-Pad ist nicht optional — es macht die 45-mm-Stange auf den Hüftknochen angenehm, die sonst vor den Glutealmuskeln limitieren würden. Schaumstoff mit Klettverschluss, kompatibel mit jeder Bank oder Maschine. Für ca. 25 € ist es der obligatorische erste Kauf für jedes Hip-Thrust-Setup. Ohne Pad kein hochintensives Hip-Thrust-Training.",
+      "pros": ["Erforderlich für schmerzfreies hochintensives Hip Thrust — nicht optional", "Funktioniert mit jeder Bank oder dedizierten Hip-Thrust-Maschine", "15–30 $ — günstigstes Element in jedem Hip-Thrust-Setup"],
+      "cons": ["Schaum komprimiert bei schwerem Dauereinsatz leicht — bei Hartnutzung alle 6–12 Monate erneuern"],
+      "grade": "B-",
+      "specs": {"Preis": "24,99 $", "Material": "Hochdichter Schaumstoff", "Verschluss": "Klettverschluss", "Kompatibilität": "Jede Standard-Hantelstange"},
+      "scores": {"Verarbeitungsqualität": 3.5, "Bedienkomfort": 4.8, "Komfort": 4.5, "Tragfähigkeit": 4.0, "Preis-Leistung": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für ernsthaftes Gluteustraining 3+ mal pro Woche", "offerId": "bells-of-steel-hip-thruster", "reason": "Null Aufbaureibung — Stangenhalterung, konsistente Fussplattform, kein improvisiertes Setup"},
+    {"label": "Für Heimstudios, die sowohl eine Bank als auch Hip Thrust benötigen", "offerId": "rep-fitness-ab-5200-fid-bench", "reason": "Beste Doppelzweck-Option — vollwertige Verstellbank plus korrekte Pad-Höhe für Hip Thrust"},
+    {"label": "Für dedizierten Hip Thrust im mittleren Budgetbereich", "offerId": "valor-fitness-hip-thrust-bench", "reason": "Zweckspezifisch mit integrierter Fussplattform für unter 200 $"},
+    {"label": "Für die günstigste dedizierte Hip-Thrust-Maschine", "offerId": "titan-fitness-hip-thrust-machine", "reason": "Kern-Hip-Thrust-Funktion — Stangenhalterung und verstellbare Fussplattform — zum Mindestpreis"},
+    {"label": "Für alle, die mit Barbell-Hip-Thrust starten", "offerId": "hip-thrust-pad-barbell", "reason": "Der obligatorische erste Kauf — ohne Pad kein komfortables Hip Thrust, unabhängig von der Bank"}
+  ]
 }

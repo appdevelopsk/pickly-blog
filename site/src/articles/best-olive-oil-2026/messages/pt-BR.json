@@ -94,5 +94,174 @@
     "pompeian-smooth-evoo": "Melhor opção de supermercado com orçamento limitado — amplamente disponível, menor faixa de preço a ~$0,25/oz em formato grande, sabor suave projetado para consumidores que não gostam do amargor. Ideal quando o orçamento é a restrição principal e o volume de cozimento é alto. Limitação: sem data de colheita, menor teor de polifenóis por design, utilidade limitada como azeite de finalização — não é a escolha se frescor ou valor nutricional são prioridade."
   },
   "pinDescription": "5 azeites comparados para 2026: California Olive Ranch vs Kirkland vs Brightland vs Cobram vs Pompeian. Transparência de data de colheita, ponto de fumaça, teor de polifenóis — encontre o extravirgem que realmente se encaixa no seu jeito de cozinhar. #azeite #cozinha #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada azeite foi avaliado quanto à transparência da data da colheita, custo por onça, perfil de sabor e caráter polifenólico, adequação para cozinhar vs. uso como finalização, e quão bem as afirmações de frescor se sustentam dado os prazos típicos da cadeia de suprimentos no varejo.",
+  "products": [
+    {
+      "offerId": "california-olive-ranch-evoo",
+      "badge": "Melhor para o Dia a Dia",
+      "review": "California Olive Ranch é o azeite extravirgem mais prático para uso diário em lares americanos — data da colheita impressa na etiqueta frontal, produção nacional na Califórnia com distribuição varejista eficiente, e um perfil de polifenóis de nível médio que cobre tanto culinária quanto finalização leve a ~US$ 0,45/oz. O blend às vezes incorpora fontes internacionais; verifique o rótulo para SKUs exclusivamente nacionais se a origem for importante.",
+      "pros": [
+        "Data da colheita indicada — frescor verificável no momento da compra",
+        "~US$ 0,45/oz — preço acessível para um AOVE doméstico de qualidade",
+        "Cobre tanto casos de uso culinários quanto de finalização leve"
+      ],
+      "cons": [
+        "Alguns SKUs misturados com fontes internacionais — verificar rótulo para os exclusivamente nacionais"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Origem": "Califórnia (+ mistura internacional em alguns SKUs)",
+        "Preço por oz": "~US$ 0,45",
+        "Data da colheita": "Sim — impressa no rótulo",
+        "Nível de polifenóis": "Médio",
+        "Melhor uso": "Culinária diária + finalização leve",
+        "Orgânico": "Não (convencional)"
+      },
+      "scores": {
+        "Sabor": 4.5,
+        "Qualidade": 4.6,
+        "Custo-benefício": 4.7,
+        "Frescor": 4.8,
+        "Versatilidade": 5.0
+      }
+    },
+    {
+      "offerId": "kirkland-organic-evoo",
+      "badge": "Melhor Compra em Volume",
+      "review": "O AOVE orgânico de 2 litros da Kirkland no Costco é o mais barato por onça nessa comparação a ~US$ 0,31/oz — economias significativas para famílias que cozinham com azeite diariamente. Certificado USDA Orgânico e de origem mediterrânea. A limitação honesta é a ausência de data da colheita, tornando o frescor mais difícil de verificar; o consumo rápido mitiga isso para cozinhas de alto volume.",
+      "pros": [
+        "~US$ 0,31/oz — menor custo por onça nessa comparação",
+        "Certificado USDA Orgânico",
+        "Formato de 2 litros eficiente para famílias que cozinham diariamente"
+      ],
+      "cons": [
+        "Sem data da colheita — o frescor depende da rotação do estoque no armazém"
+      ],
+      "grade": "A",
+      "specs": {
+        "Origem": "Mediterrâneo (fornecido pelo Costco)",
+        "Preço por oz": "~US$ 0,31 (tamanho 2 litros Costco)",
+        "Data da colheita": "Não",
+        "Nível de polifenóis": "Moderado",
+        "Certificação": "USDA Orgânico",
+        "Melhor uso": "Culinária diária de alto volume"
+      },
+      "scores": {
+        "Sabor": 4.1,
+        "Qualidade": 4.2,
+        "Custo-benefício": 5.0,
+        "Frescor": 3.8,
+        "Versatilidade": 4.3
+      }
+    },
+    {
+      "offerId": "brightland-alive-evoo",
+      "badge": "Melhor Azeite de Finalização Premium",
+      "review": "Brightland é o azeite com maior transparência de frescor nessa comparação — tanto a data da colheita quanto a de prensagem estão indicadas, e a cadeia de suprimentos direta ao consumidor elimina o atraso de envelhecimento na distribuição varejista. O sabor assertivo, herbáceo e rico em polifenóis do blend californiano Arbequina/Arbosana é melhor apreciado sem aquecimento. Usá-lo para refogar cebolas a US$ 3,25/oz é economicamente errado; para finalizar saladas, massas e legumes grelhados, o sabor justifica o preço.",
+      "pros": [
+        "Data da colheita e prensagem ambas indicadas — máxima transparência de frescor",
+        "Blend californiano rico em polifenóis com sabor herbáceo assertivo",
+        "Cadeia de suprimentos direta ao consumidor minimiza atraso de envelhecimento"
+      ],
+      "cons": [
+        "US$ 3,25/oz — economicamente adequado apenas para uso como finalização, não para cozinhar"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Origem": "Califórnia (Arbequina + Arbosana)",
+        "Preço por oz": "~US$ 3,25 (frasco 375 ml)",
+        "Data da colheita": "Sim — datas da colheita e prensagem indicadas",
+        "Nível de polifenóis": "Alto",
+        "Cadeia de suprimentos": "Direta ao consumidor",
+        "Melhor uso": "Finalização sem aquecimento"
+      },
+      "scores": {
+        "Sabor": 5.0,
+        "Qualidade": 5.0,
+        "Custo-benefício": 2.8,
+        "Frescor": 5.0,
+        "Versatilidade": 3.5
+      }
+    },
+    {
+      "offerId": "cobram-estate-robust-evoo",
+      "badge": "Melhor para Culinária em Alta Temperatura",
+      "review": "O Cobram Estate Robust usa as variedades Coratina e Koroneiki especificamente para maior teor de polifenóis e estabilidade oxidativa nas temperaturas de cozimento. Data da colheita indicada nas garrafas do mercado americano. O perfil de sabor apimentado e assertivo não é universalmente apreciado, mas se mantém melhor sob calor do que os AOVEs suaves — a escolha certa quando refogar ou assar é a aplicação principal.",
+      "pros": [
+        "Blend Coratina/Koroneiki rico em polifenóis para estabilidade oxidativa no calor",
+        "Data da colheita indicada nas garrafas do mercado americano",
+        "Sabor apimentado se mantém melhor que óleos suaves nas temperaturas de cozimento"
+      ],
+      "cons": [
+        "Sabor apimentado assertivo não adequado para aplicações de sabor suave"
+      ],
+      "grade": "B",
+      "specs": {
+        "Origem": "Austrália / Califórnia",
+        "Preço por oz": "~US$ 0,50",
+        "Data da colheita": "Sim",
+        "Nível de polifenóis": "Alto",
+        "Variedades": "Coratina + Koroneiki",
+        "Melhor uso": "Culinária em alta temperatura"
+      },
+      "scores": {
+        "Sabor": 4.6,
+        "Qualidade": 4.8,
+        "Custo-benefício": 4.3,
+        "Frescor": 4.6,
+        "Versatilidade": 4.0
+      }
+    },
+    {
+      "offerId": "pompeian-smooth-evoo",
+      "badge": "Melhor Opção Econômica no Supermercado",
+      "review": "O Pompeian Smooth é filtrado para remover a amargura que os polifenóis criam — uma escolha deliberada do consumidor que também reduz o teor de polifenóis e a utilidade como azeite de finalização. A ~US$ 0,25/oz é a opção mais barata aqui, amplamente disponível em supermercados, e adequada para culinária de alto volume onde o sabor do azeite não é o ponto.",
+      "pros": [
+        "~US$ 0,25/oz — preço mais baixo nessa comparação",
+        "Amplamente disponível em supermercados convencionais",
+        "Sabor suave filtrado para consumidores que não gostam de amargor"
+      ],
+      "cons": [
+        "Sem data da colheita; menor teor de polifenóis por design; utilidade limitada como azeite de finalização"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Origem": "Mistura mediterrânea",
+        "Preço por oz": "~US$ 0,25 (formato grande)",
+        "Data da colheita": "Não",
+        "Nível de polifenóis": "Baixo (filtrado para suavidade)",
+        "Perfil de sabor": "Suave, neutro",
+        "Melhor uso": "Culinária econômica de alto volume"
+      },
+      "scores": {
+        "Sabor": 3.5,
+        "Qualidade": 3.6,
+        "Custo-benefício": 5.0,
+        "Frescor": 3.2,
+        "Versatilidade": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para culinária doméstica diária",
+      "offerId": "california-olive-ranch-evoo",
+      "reason": "Transparência de data da colheita, produção nacional e um preço que não exige racionamento — a garrafa que cobre a maioria dos usos na cozinha sem compromisso."
+    },
+    {
+      "label": "Para cozinheiros diários de alto volume",
+      "offerId": "kirkland-organic-evoo",
+      "reason": "O formato de 2 litros do Costco a ~US$ 0,31/oz torna a culinária diária com azeite genuinamente econômica; o consumo rápido gerencia o compromisso de frescor."
+    },
+    {
+      "label": "Para entusiastas do azeite de finalização",
+      "offerId": "brightland-alive-evoo",
+      "reason": "Data da colheita e prensagem impressas, frescor direto do produtor, e um sabor rico em polifenóis melhor apreciado regado sem aquecimento sobre salada ou massa."
+    },
+    {
+      "label": "Para refogar e assar em alta temperatura",
+      "offerId": "cobram-estate-robust-evoo",
+      "reason": "A designação Robust sinaliza variedades Coratina/Koroneiki com maior teor de polifenóis, especificamente selecionadas para estabilidade oxidativa nas temperaturas de cozimento."
+    }
+  ]
 }

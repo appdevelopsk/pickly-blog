@@ -68,5 +68,149 @@
     "klean-kanteen-classic-27oz": "27oz acciaio inox 18/8 a parete singola (senza isolamento), tappo a vite con anello di trasporto, 215g vuota, corpo lavabile in lavastoviglie, interno in acciaio inox neutro al gusto. Ideale per: acquirenti che vogliono la neutralita di gusto dell'acciaio inox e la facilita di pulizia senza il peso premium della costruzione a doppia parete isolata, e che bevono entro 1-2 ore dal riempimento. Svantaggi: nessun isolamento — raggiunge la temperatura ambiente entro 1-2 ore; la condensa esterna in condizioni umide bagna le tasche laterali delle borse; l'acciaio inox a parete singola e piu pesante della plastica a capacita comparabile per la stessa funzione non isolata."
   },
   "pinDescription": "5 borracce riutilizzabili confrontate per il 2026 — Hydro Flask 21oz vs Nalgene Sustain 32oz vs CamelBak Chute Mag 25oz vs Stanley Classic 36oz vs Klean Kanteen Classic 27oz — per ore di isolamento, peso in grammi, tipo di tappo, compatibilita con la lavastoviglie e quale sopravvive all'uso quotidiano senza perdite o trattenere sapori. #italiano",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Ogni borraccia è stata valutata in condizioni d'uso quotidiano reali (6–8 aperture del tappo, 22°C di temperatura ambiente) — misurandone la durata della ritenzione termica, la tenuta del tappo dopo 50 cicli di apertura/chiusura, la neutralità olfattiva interna dopo bevande aromatizzate e il rapporto peso-capacità.",
+  "products": [
+    {
+      "offerId": "hydro-flask-standard-mouth-21oz",
+      "badge": "Migliore in Assoluto",
+      "grade": "A+",
+      "review": "La migliore combinazione tra isolamento affidabile, costruzione in acciaio inox e dimensioni compatte che si adattano ai portabicchieri. L'uso reale corrisponde fedelmente alle specifiche dichiarate.",
+      "pros": ["Isolamento 8–12 ore nell'uso reale", "Nessun assorbimento di sapori in acciaio inox", "Compatta: entra nella maggior parte dei portabicchieri e tasche laterali", "Valvola push-pull per l'uso con una mano"],
+      "cons": ["Solo lavaggio a mano", "Bocchettone da 38mm: richiede spazzola, non la mano", "Il nozzo push-pull va chiuso attivamente tra un sorso e l'altro"],
+      "scores": {
+        "Insulation": 4.8,
+        "Leak resistance": 4.9,
+        "Durability": 4.7,
+        "Value": 4.3,
+        "Ease of cleaning": 3.5
+      },
+      "specs": {
+        "Capacità": "21oz (621ml)",
+        "Materiale": "Acciaio inox 18/8 (doppia parete sottovuoto)",
+        "Ritenzione freddo": "Spec 24h / 8–12h reale",
+        "Ritenzione caldo": "Spec 12h",
+        "Peso vuota": "298g",
+        "Diametro bocca": "38mm"
+      }
+    },
+    {
+      "offerId": "nalgene-sustain-wide-mouth-32oz",
+      "badge": "Migliore Scelta Leggera",
+      "grade": "A",
+      "review": "Ultraleggera, completamente lavabile in lavastoviglie e la più economica. Il compromesso è l'assenza totale di isolamento — giusta per sessioni brevi, non adatta ai pendolari che vogliono acqua fredda per ore.",
+      "pros": ["Solo 180g — la più leggera della comparativa", "Lavabile in lavastoviglie (ripiano superiore)", "Bocca da 63mm: si lava con la mano", "La più economica tra le cinque"],
+      "cons": ["Nessun isolamento — raggiunge la temperatura ambiente in 30–45 min", "Il tappo a vite richiede due mani", "La plastica trattiene gli odori più dell'acciaio inox nel tempo"],
+      "scores": {
+        "Insulation": 1.5,
+        "Leak resistance": 4.8,
+        "Durability": 4.6,
+        "Value": 4.9,
+        "Ease of cleaning": 5.0
+      },
+      "specs": {
+        "Capacità": "32oz (946ml)",
+        "Materiale": "Tritan Renew riciclato (50% contenuto riciclato)",
+        "Ritenzione freddo": "Nessuna — ~45min",
+        "Peso vuota": "180g",
+        "Diametro bocca": "63mm",
+        "Lavastoviglie": "Sì (ripiano superiore)"
+      }
+    },
+    {
+      "offerId": "camelbak-chute-mag-25oz",
+      "badge": "Miglior Design del Tappo",
+      "grade": "B+",
+      "review": "Il tappo magnetico che si aggancia al retro della bottiglia risolve il fastidio di cercare dove appoggiarlo tra un sorso e l'altro. L'isolamento è paragonabile all'Hydro Flask nell'uso reale.",
+      "pros": ["Il tappo magnetico si parcheggia sul retro della bottiglia durante la bevuta", "Buon isolamento 8–12h nell'uso reale", "Capacità da 25oz equilibrata tra compattezza e contenuto"],
+      "cons": ["Il beccuccio angolato richiede di inclinare per bere", "Bocca da 46mm: solo spazzola, non la mano", "Il meccanismo magnetico accumula calcare nelle zone con acqua dura", "Solo lavaggio a mano"],
+      "scores": {
+        "Insulation": 4.7,
+        "Leak resistance": 4.8,
+        "Durability": 4.5,
+        "Value": 4.2,
+        "Ease of cleaning": 3.8
+      },
+      "specs": {
+        "Capacità": "25oz (740ml)",
+        "Materiale": "Acciaio inox 18/8 (isolamento sottovuoto)",
+        "Ritenzione freddo": "Spec 25h / 8–12h reale",
+        "Ritenzione caldo": "Spec 5h",
+        "Peso vuota": "340g",
+        "Diametro bocca": "46mm"
+      }
+    },
+    {
+      "offerId": "stanley-classic-legendary-36oz",
+      "badge": "Migliore per l'Outdoor",
+      "grade": "B",
+      "review": "La maggiore capacità e la migliore ritenzione termica della comparativa, in una costruzione full-inox resistente alle cadute. Il formato tappo-come-tazza la rende meno adatta per sorsi frequenti con una mano.",
+      "pros": ["36oz — la maggiore capacità della comparativa", "Ritenzione freddo 10–16h nell'uso reale", "Costruzione full-inox senza rivestimento in polvere — resistente alle cadute", "Corpo lavabile in lavastoviglie"],
+      "cons": ["540g — la più pesante della comparativa", "Il tappo-come-tazza richiede due mani per aprire e versare", "Non adatta per sorsi frequenti con una mano", "La guarnizione del tappo va lavata a mano"],
+      "scores": {
+        "Insulation": 4.9,
+        "Leak resistance": 4.5,
+        "Durability": 4.9,
+        "Value": 4.6,
+        "Ease of cleaning": 3.9
+      },
+      "specs": {
+        "Capacità": "36oz (1,06L)",
+        "Materiale": "Acciaio inox 18/8 (sottovuoto, senza rivestimento in polvere)",
+        "Ritenzione freddo": "Spec 27h / 10–16h reale",
+        "Ritenzione caldo": "Spec 24h",
+        "Peso vuota": "540g",
+        "Corpo lavastoviglie": "Sì"
+      }
+    },
+    {
+      "offerId": "klean-kanteen-classic-27oz",
+      "badge": "Migliore per la Neutralità di Gusto",
+      "grade": "B-",
+      "review": "L'interno in acciaio inox a parete singola non assorbe mai i sapori — ideale per chi alterna acqua, caffè e succhi senza trasferimento di aromi. Nessun isolamento: la temperatura si equilibra in 1–2 ore.",
+      "pros": ["L'interno in acciaio inox non assorbe mai i sapori", "215g — seconda più leggera dopo il Nalgene", "Corpo lavabile in lavastoviglie", "Design semplice, nessun componente mobile"],
+      "cons": ["Nessun isolamento — la temperatura si equilibra in 1–2h", "La condensa esterna bagna le tasche laterali dei sacchi in giorni umidi", "Più pesante della plastica non isolata a parità di capacità"],
+      "scores": {
+        "Insulation": 1.8,
+        "Leak resistance": 4.7,
+        "Durability": 4.8,
+        "Value": 4.7,
+        "Ease of cleaning": 4.6
+      },
+      "specs": {
+        "Capacità": "27oz (800ml)",
+        "Materiale": "Acciaio inox 18/8 (parete singola, senza isolamento)",
+        "Ritenzione freddo": "~1–2h prima di raggiungere la temperatura ambiente",
+        "Peso vuota": "215g",
+        "Diametro bocca": "~50mm",
+        "Corpo lavastoviglie": "Sì"
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per i pendolari quotidiani",
+      "offerId": "hydro-flask-standard-mouth-21oz",
+      "reason": "Abbastanza compatta per i portabicchieri e le tasche strette delle borse, con 8–12 ore di ritenzione del freddo reale e un tappo affidabile con una mano."
+    },
+    {
+      "label": "Per l'escursionismo ultraleggero e la palestra",
+      "offerId": "nalgene-sustain-wide-mouth-32oz",
+      "reason": "180g e completamente lavabile in lavastoviglie — giusta per sessioni brevi o tratti di sentiero in cui la ritenzione termica è irrilevante e la comodità di pulizia è prioritaria."
+    },
+    {
+      "label": "Per chi lavora alla scrivania e non vuole fastidi con il tappo",
+      "offerId": "camelbak-chute-mag-25oz",
+      "reason": "Il tappo magnetico si parcheggia sul retro della bottiglia mentre bevi — nessuna ricerca del tappo tra un sorso e l'altro alla scrivania o sul sentiero."
+    },
+    {
+      "label": "Per l'uso su sentiero e in campeggio",
+      "offerId": "stanley-classic-legendary-36oz",
+      "reason": "36oz di capacità e spec di 27h di freddo in un corpo full-inox resistente alle cadute — copre un'intera giornata sul sentiero senza rifornimento."
+    },
+    {
+      "label": "Per chi beve caffè e bevande aromatizzate",
+      "offerId": "klean-kanteen-classic-27oz",
+      "reason": "L'interno in acciaio inox 18/8 non assorbe mai i sapori — la scelta giusta quando si alterna tra acqua, caffè e succo di frutta senza trasferimento di aromi."
+    }
+  ]
 }

@@ -53,5 +53,99 @@
     "bulletproof-collagen": "18g, no detectable flavor in coffee — optimized for daily coffee integration"
   },
   "pinDescription": "Confused by collagen supplement labels? We break down the 5 best picks of 2026 — by type, source, and what the research actually says. Skin, joints, or hair: find the right one for your goal.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each supplement was evaluated on collagen type and source, third-party testing certifications, taste neutrality in coffee and smoothies, solubility in cold and hot liquids, and effective cost per daily serving at consistent use.",
+  "products": [
+    {
+      "offerId": "vital-proteins-collagen",
+      "badge": "Best Overall",
+      "review": "Vital Proteins built the mainstream collagen supplement category and remains the benchmark by which every other product is measured. 20g of hydrolyzed bovine collagen (Type I & III) per serving dissolves completely in cold water, hot coffee, or smoothies without altering flavor — the near-invisible integration into daily habits is the product's most important feature. The limitation is real: no NSF or Informed Sport third-party certification for those who require independent lab verification.",
+      "pros": ["20g collagen per serving dissolves completely in cold or hot beverages without taste impact", "Added 80mg Vitamin C per serving supports the body's own collagen synthesis pathway", "Widely available, consistent quality batch-to-batch across a decade of market presence"],
+      "cons": ["No NSF or Informed Sport third-party certification — independent lab verification not available"],
+      "grade": "A+",
+      "specs": {
+        "Collagen type": "Type I & III (hydrolyzed bovine)",
+        "Serving size": "20g collagen per 2-scoop serving",
+        "Source": "Pasture-raised, grass-fed bovine hide",
+        "Added nutrients": "80mg Vitamin C per serving",
+        "Certifications": "Whole30, Paleo, dairy-free, gluten-free",
+        "Flavor (unflavored)": "Undetectable in cold water and coffee"
+      },
+      "scores": {"Efficacy": 4.7, "Value": 4.5, "Taste": 4.9, "Purity": 4.3, "Ease of use": 5.0}
+    },
+    {
+      "offerId": "garden-of-life-collagen",
+      "badge": "Best Certified Quality",
+      "review": "Garden of Life is the only USDA certified organic + NSF certified for sport collagen in this comparison — both certifications verified independently by third parties. 20g bovine collagen peptides with 1.5 billion CFU probiotics and Vitamin C from fruit blend. The faint grassy mineral quality in the unflavored version is noticeable in plain water but disappears in smoothies or juice. The 20–30% price premium over Vital Proteins is straightforward to justify if independent certification matters to you.",
+      "pros": ["USDA certified organic + NSF Certified for Sport — the strongest third-party credentialing in this category", "20g collagen with added probiotics (1.5B CFU) for combined gut and joint support", "Independent testing for 270+ banned substances relevant to competitive athletes"],
+      "cons": ["Faint grassy mineral taste noticeable in plain water — disappears in smoothies or fruit juice"],
+      "grade": "A",
+      "specs": {
+        "Collagen type": "Type I & III (grass-fed bovine)",
+        "Serving size": "20g collagen per serving",
+        "Source": "USDA certified organic, grass-fed bovine",
+        "Added nutrients": "1.5B CFU probiotics (L. plantarum) + Vitamin C fruit blend",
+        "Certifications": "USDA Organic, NSF Certified for Sport, certified grass-fed",
+        "Flavor (unflavored)": "Slight grassy mineral — undetectable in smoothies"
+      },
+      "scores": {"Efficacy": 4.7, "Value": 4.0, "Taste": 4.4, "Purity": 5.0, "Ease of use": 4.7}
+    },
+    {
+      "offerId": "ancient-nutrition-collagen",
+      "badge": "Best Multi-Type Formula",
+      "review": "Ancient Nutrition is the only product in this comparison built on an actual bone broth foundation — not just isolated peptides. The blend covers all five major collagen types from four animal sources, making it the most comprehensive formula on paper. The earthier flavor in hot liquids is real but manageable with the flavored versions; unflavored works best in smoothies.",
+      "pros": ["5 collagen types (I, II, III, V, X) from 4 animal sources — the broadest coverage formula", "Bone broth base retains glycine, glutamine, and other amino acids from whole-food simmering", "Widely available at Costco, Walmart, and Target — lowest friction to reorder"],
+      "cons": ["Earthier, more pronounced flavor than pure collagen peptides — unflavored best used in smoothies"],
+      "grade": "B+",
+      "specs": {
+        "Collagen type": "Types I, II, III, V, X (multi-collagen)",
+        "Serving size": "~20g collagen per serving",
+        "Source": "Bovine, chicken (sternal cartilage), fish, eggshell membrane",
+        "Added nutrients": "Bone broth base with glycine and glutamine",
+        "Certifications": "Varies by SKU — check current CoA",
+        "Flavor (unflavored)": "Earthy, bone broth character — best in smoothies"
+      },
+      "scores": {"Efficacy": 4.6, "Value": 4.3, "Taste": 3.9, "Purity": 4.2, "Ease of use": 4.5}
+    },
+    {
+      "offerId": "sports-research-collagen",
+      "badge": "Best Value with Certification",
+      "review": "Sports Research makes the value argument most clearly: BSCG certification (one of the strictest third-party testing programs) at a price 10–15% below Vital Proteins. The 11g per scoop is at the lower end of the clinical range but within the dose where joint and skin benefits have been observed in controlled studies. Solubility is excellent — identical behavior to Vital Proteins in coffee and smoothies.",
+      "pros": ["BSCG certified — one of the most stringent third-party supplement testing programs available", "11g per scoop offers more servings per container; effective daily cost is lower than most competitors", "Excellent cold and hot solubility — no clumping in coffee or smoothies"],
+      "cons": ["11g per serving is at the lower end of the clinical range; higher-dose protocols require double-scooping"],
+      "grade": "B",
+      "specs": {
+        "Collagen type": "Type I & III (hydrolyzed bovine)",
+        "Serving size": "11g collagen per 1-scoop serving",
+        "Source": "Pasture-raised, grass-fed bovine hide",
+        "Added nutrients": "None (clean label)",
+        "Certifications": "BSCG (Banned Substances Control Group) certified",
+        "Flavor (unflavored)": "Essentially tasteless in coffee and smoothies"
+      },
+      "scores": {"Efficacy": 4.4, "Value": 4.8, "Taste": 4.9, "Purity": 4.8, "Ease of use": 5.0}
+    },
+    {
+      "offerId": "bulletproof-collagen",
+      "badge": "Best for Coffee Integration",
+      "review": "Bulletproof Collagen is optimized for one use case: stirring into coffee daily without altering the experience. 18g per serving from pasture-raised bovine sources, with the cleanest flavor profile of any product in this comparison when added to black coffee. The honest limitation: no NSF or BSCG certification, and the keto positioning means you should understand collagen is not a complete protein.",
+      "pros": ["Zero detectable flavor shift in black coffee — the cleanest-tasting unflavored collagen in this comparison", "18g per serving from pasture-raised bovine sources, no fillers or artificial additives", "Designed to integrate into Bulletproof-style coffee with MCT oil and butter without curdling"],
+      "cons": ["No NSF or BSCG third-party certification; collagen is not a complete protein (lacks tryptophan)"],
+      "grade": "B-",
+      "specs": {
+        "Collagen type": "Type I & III (hydrolyzed bovine)",
+        "Serving size": "18g collagen per serving",
+        "Source": "Pasture-raised bovine hide",
+        "Added nutrients": "None (clean label)",
+        "Certifications": "None (brand quality testing only)",
+        "Flavor (unflavored)": "Completely undetectable in black coffee — best in category"
+      },
+      "scores": {"Efficacy": 4.3, "Value": 4.1, "Taste": 5.0, "Purity": 4.0, "Ease of use": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For most people who want a simple daily collagen habit", "offerId": "vital-proteins-collagen", "reason": "20g per serving dissolves invisibly in any beverage — the lowest-friction option for consistent daily use."},
+    {"label": "For certified athletes and buyers who require third-party lab verification", "offerId": "garden-of-life-collagen", "reason": "USDA organic + NSF Certified for Sport is the strongest credential combination in the collagen category."},
+    {"label": "For those who want comprehensive collagen type coverage in one product", "offerId": "ancient-nutrition-collagen", "reason": "Five collagen types from four sources plus bone broth base — the most complete single-product formula."},
+    {"label": "For budget-conscious buyers who won't compromise on third-party testing", "offerId": "sports-research-collagen", "reason": "BSCG certification at 10–15% lower cost than competitors — the best value with documented quality assurance."},
+    {"label": "For daily coffee drinkers who want zero flavor impact", "offerId": "bulletproof-collagen", "reason": "Specifically optimized to dissolve in black coffee without altering taste — unmatched in this use case."}
+  ]
 }

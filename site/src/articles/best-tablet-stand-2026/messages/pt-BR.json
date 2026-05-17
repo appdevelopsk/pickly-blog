@@ -102,5 +102,64 @@
     "twelve-south-hoverbar-duo": "Escolha de braço de garra/mesa premium — braço articulado com tensão de mola de 11.800-13.800 ienes com disco magnético, a garra de parafuso se monta em bordas de mesa de 0-50 mm de espessura, 35 cm de alcance de giro. A pegada da garra limita onde você pode montá-la — muitas mesas japonesas têm um avental que bloqueia a garganta da garra ou um tampo mais espesso que 50 mm."
   },
   "pinDescription": "Cinco suportes para tablet comparados em 2026 de um suporte dobradiça Lamicall de 1.680 ienes a um Twelve South HoverBar Duo de 13.800 ienes. Conexão magnética para iPad vs portabilidade estilo MOFT vs alcance de pescoço de ganso no piso vs braço-garra de mesa — com o teste de estresse do iPad Pro 12.9 mais Magic Keyboard e a fraqueza explícita em cada escolha. #suportetablet #iPadPro #escritório2026 #organização #português",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Cada suporte foi avaliado quanto à rigidez da dobradiça sob uma carga de 1,4 kg (iPad Pro 12.9 + Magic Keyboard), padrões de deriva de ângulo de avaliações de proprietários de longo prazo, o equilíbrio entre portabilidade e estabilidade, a compatibilidade com móveis de escrivaninha em apartamentos japoneses e a vida útil realista baseada nos modos de falha dominantes relatados após 12–18 meses de uso diário.",
+  "products": [
+    {
+      "offerId": "lululook-ipad-stand",
+      "badge": "Melhor no Geral",
+      "review": "O disco magnético do Lululook acopla um iPad Pro ou Air em menos de um segundo e permite rotação retrato-paisagem sem esforço — sem soltar fixações, sem marcas na moldura. A desvantagem é o bloqueio do ecossistema: a placa magnética é dimensionada apenas para iPad Pro e iPad Air, e o iPad Pro 12.9 com Magic Keyboard pode se soltar se a mesa for golpeada.",
+      "pros": ["Acoplamento magnético em menos de um segundo", "Rotação 360° retrato-paisagem", "Base de alumínio escovado com peso aguenta 1,4 kg sem deriva"],
+      "cons": ["Apenas iPad Pro e iPad Air — tablets Android e iPad Mini antigo precisam de um adaptador vendido separadamente"],
+      "grade": "A+",
+      "specs": {"Compatibilidade": "iPad Pro 11/12.9, iPad Air", "Tipo de fixação": "Disco magnético", "Material da base": "Alumínio escovado", "Rotação": "360°", "Faixa de preço": "9.800–12.800 ienes", "Portabilidade": "Suporte de mesa"},
+      "scores": {"Estabilidade": 4.8, "Faixa de ângulo": 4.7, "Qualidade de construção": 4.8, "Custo-benefício": 3.9, "Portabilidade": 2.5}
+    },
+    {
+      "offerId": "moft-float-stand",
+      "badge": "Melhor para Viagens",
+      "review": "Com 280 g e 8 mm dobrado, o MOFT Float cabe em qualquer pasta de notebook e se desdobra em segundos — incomparável para quem carrega um suporte todos os dias. A dobradiça de tecido se dobra visivelmente sob a pressão da caneta Apple, portanto usuários do Procreate devem buscar outra opção.",
+      "pros": ["280 g e 8 mm de espessura quando dobrado", "7 posições de ângulo de 25° a 60°", "Também funciona como elevador de notebook para usuários de dois dispositivos"],
+      "cons": ["A dobradiça de tecido se dobra visivelmente sob forte pressão da caneta Apple", "O tecido apelota na dobra da dobradiça após 12–18 meses de transporte diário"],
+      "grade": "A",
+      "specs": {"Peso": "280 g", "Espessura dobrada": "8 mm", "Posições de ângulo": "7 (25°–60°)", "Material": "Tecido origami + dobradiça", "Preço": "8.980 ienes", "Uso previsto": "Portátil, notebook + tablet"},
+      "scores": {"Estabilidade": 3.2, "Faixa de ângulo": 4.0, "Qualidade de construção": 3.8, "Custo-benefício": 4.0, "Portabilidade": 5.0}
+    },
+    {
+      "offerId": "lamicall-tablet-stand",
+      "badge": "Melhor Custo-Benefício",
+      "review": "O Lamicall é a escolha econômica sem complicações: alumínio sólido, compatível com qualquer tablet de 4 a 13 polegadas e mantém o iPad Pro 12.9 em um ângulo fixo. Mudar do retrato para o paisagem requer levantar e reposicionar em vez de girar, e a dobradiça de fricção pode derivar durante videochamadas longas após 12–18 meses de desgaste.",
+      "pros": ["Compatível com tablets e telefones de 4 a 13 polegadas", "Almofadas de silicone no suporte evitam arranhões", "Faixa de inclinação de 270° cobre qualquer ângulo de mesa prático"],
+      "cons": ["Apenas inclinação de um eixo — sem giro nem ajuste de altura", "A dobradiça de fricção deriva gradualmente após 12–18 meses de uso"],
+      "grade": "B+",
+      "specs": {"Compatibilidade": "Tablets e telefones de 4–13 polegadas", "Dobradiça": "Fricção de eixo único", "Faixa de inclinação": "270°", "Material": "Alumínio + almofadas de silicone", "Faixa de preço": "1.680–2.480 ienes", "Portabilidade": "Suporte de mesa"},
+      "scores": {"Estabilidade": 4.2, "Faixa de ângulo": 3.8, "Qualidade de construção": 4.0, "Custo-benefício": 4.9, "Portabilidade": 2.8}
+    },
+    {
+      "offerId": "uperfect-tablet-floor-stand",
+      "badge": "Melhor para Ver na Cama",
+      "review": "O UPERFECT é a única opção deste grupo que coloca um tablet acima de uma cama ou sofá. Sua coluna de 90–150 cm com braço pescoço de ganso resolve o problema de visualização mãos-livres. Com extensão total de 150 cm e iPad Pro 12.9, qualquer movimento na cama gera uma vibração de 5–10 segundos.",
+      "pros": ["Coluna de 90–150 cm alcança a altura da cama e do sofá", "O braço pescoço de ganso posiciona o tablet acima do rosto ou superfície de receitas", "Base com peso suporta tablets de até 12,9 polegadas via grampo de mola"],
+      "cons": ["O pescoço de ganso vibra por 5–10 segundos após qualquer golpe com extensão total de 150 cm", "Espaço de 35–40 cm no chão é incômodo em pequenos quartos japoneses"],
+      "grade": "B",
+      "specs": {"Faixa da coluna": "90–150 cm", "Tipo de braço": "Pescoço de ganso", "Tablets compatíveis": "4,7–12,9 polegadas via grampo de mola", "Espaço da base": "~35–40 cm", "Faixa de preço": "5.980–8.980 ienes", "Uso previsto": "Visualização mãos-livres na cama/sofá"},
+      "scores": {"Estabilidade": 3.0, "Faixa de ângulo": 4.5, "Qualidade de construção": 3.5, "Custo-benefício": 4.1, "Portabilidade": 1.5}
+    },
+    {
+      "offerId": "twelve-south-hoverbar-duo",
+      "badge": "Melhor Braço de Mesa",
+      "review": "O braço articulado com tensão de mola do HoverBar Duo move o iPad para qualquer lugar dentro de uma esfera de 35 cm da borda da mesa e mantém a posição sem deriva da dobradiça de fricção. Muitas mesas japonesas têm um avental que bloqueia a garganta da garra; meça a sua antes de pedir.",
+      "pros": ["A articulação com tensão de mola mantém o ângulo sem deriva", "35 cm de alcance de giro cobre posições de digitação e leitura", "Base de mesa com peso incluída para superfícies não-fixáveis"],
+      "cons": ["A garra requer borda de mesa de 0–50 mm — mesas japonesas com avental costumam falhar nesse requisito", "A placa magnética centrada no iPad requer adaptador de terceiros para Android e iPad Mini antigo"],
+      "grade": "B-",
+      "specs": {"Tipo de montagem": "Garra de parafuso (0–50 mm) ou base de mesa com peso", "Alcance do braço": "35 cm", "Tensão": "Mola", "Compatibilidade": "iPad Pro/Air (magnético); outros precisam de adaptador", "Faixa de preço": "11.800–13.800 ienes", "Uso previsto": "Braço articulado de mesa"},
+      "scores": {"Estabilidade": 4.6, "Faixa de ângulo": 4.9, "Qualidade de construção": 4.7, "Custo-benefício": 3.5, "Portabilidade": 1.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para usuários avançados de iPad Pro", "offerId": "lululook-ipad-stand", "reason": "O acoplamento magnético, a rotação instantânea e a base de alumínio com peso gerenciam a carga completa de 1,4 kg do iPad Pro 12.9 + Magic Keyboard o dia todo na mesa."},
+    {"label": "Para commuters diários", "offerId": "moft-float-stand", "reason": "8 mm de espessura dobrada cabe em qualquer pasta de notebook e os 280 g de peso desaparecem em uma bolsa."},
+    {"label": "Para configurações econômicas de mesa", "offerId": "lamicall-tablet-stand", "reason": "Compatível com qualquer tablet de 4 a 13 polegadas por menos de 2.500 ienes — o ponto de partida prático para um suporte de tablet de mesa."},
+    {"label": "Para ver na cama e no sofá", "offerId": "uperfect-tablet-floor-stand", "reason": "A única opção deste grupo que alcança a altura da cama e segura o tablet acima do seu rosto em modo mãos-livres."},
+    {"label": "Para trabalho em múltiplas posições", "offerId": "twelve-south-hoverbar-duo", "reason": "O braço com tensão de mola gira instantaneamente da posição de digitação para leitura sem deriva de dobradiça ao longo do tempo."}
+  ]
 }

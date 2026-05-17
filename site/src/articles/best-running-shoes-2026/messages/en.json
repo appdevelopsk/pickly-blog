@@ -98,5 +98,64 @@
     "hoka-clifton-9": "Recovery and long-run pick — 38 mm heel stack, 4 mm heel-to-toe drop, meta-rocker geometry reduces ankle range-of-motion demand. Low drop loads calf and Achilles more than higher-drop alternatives — 2-3 week adaptation required for heel strikers; maximal stack creates a floating feel that disorients some runners on faster efforts; limited wide-width availability in Japan."
   },
   "pinDescription": "Five running shoes for 2026 — Nike Pegasus 41, Asics Gel-Kayano 31, Brooks Ghost 16, New Balance 880v14, and Hoka Clifton 9 — compared on cushioning, stability, drop, wide-width options for Japanese feet, and how many kilometres before the foam gives out.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Shoes were assessed on cushioning stack technology and longevity, heel-to-toe drop and lower-leg loading, stability category match to foot type, upper fit across Japanese foot widths, and outsole durability on asphalt — weighted toward durability and fit because a shoe that stops working at 500 km is no bargain at any price.",
+  "products": [
+    {
+      "offerId": "nike-pegasus-41",
+      "badge": "Best Overall",
+      "review": "The Pegasus 41 handles easy runs, moderate tempo sessions, and the occasional 10K without requiring a shoe swap — that versatility is its core strength. React foam delivers enough liveliness to push past pure daily-trainer territory. The honest limitation: the forefoot runs narrow and wide-width versions are limited in Japan, so runners with 2E+ feet need to verify stock before buying.",
+      "pros": ["Versatile across easy runs, tempo, and short races", "React foam with Air Zoom units adds responsiveness", "10 mm drop suits the majority of heel-strikers"],
+      "cons": ["Forefoot runs narrow — limited wide-width availability in Japan"],
+      "grade": "A+",
+      "specs": {"Midsole": "React + Air Zoom", "Drop": "10 mm", "Weight": "~270 g (M27)", "Stack heel/forefoot": "~29/19 mm", "Outsole": "Blown rubber", "Price": "~¥16,000"},
+      "scores": {"Cushioning": 4.2, "Stability": 3.5, "Durability": 4.0, "Value": 4.5, "Fit": 3.8}
+    },
+    {
+      "offerId": "asics-gel-kayano-31",
+      "badge": "Best Stability",
+      "review": "The Kayano 31 is the right shoe if gait analysis or injury history confirms overpronation — the LITETRUSS medial post provides the strongest arch support in this comparison, and the Japanese last is calibrated for wider forefoot widths common in Japan. The trade-off is weight: 310 g per shoe is the heaviest in this group and becomes noticeable after 20 km.",
+      "pros": ["LITETRUSS medial post — strongest arch support here", "Japanese last fits wider Japanese forefoot", "FF Blast+ Eco has proven compression resistance"],
+      "cons": ["Heaviest shoe in the comparison at 310 g per shoe"],
+      "grade": "A",
+      "specs": {"Midsole": "FF Blast+ Eco + LITETRUSS", "Drop": "10 mm", "Weight": "~310 g (M27)", "Stability": "LITETRUSS medial post", "Wide versions": "Available in Japan", "Price": "~¥22,000"},
+      "scores": {"Cushioning": 4.0, "Stability": 5.0, "Durability": 4.3, "Value": 3.5, "Fit": 4.5}
+    },
+    {
+      "offerId": "brooks-ghost-16",
+      "badge": "Best Wide-Fit Neutral",
+      "review": "The Ghost 16 has the widest toe box in this comparison and the best wide-width availability on Rakuten — a real advantage for the significant proportion of Japanese runners with 2E+ feet. DNA Loft v2 foam delivers soft, protective cushioning for easy-paced runs. It's too soft for tempo sessions, and the high heel counter can cause Achilles irritation during break-in.",
+      "pros": ["Widest toe box and best 2E availability in Japan", "DNA Loft v2 foam is plush for easy runs", "Good outsole rubber coverage for asphalt durability"],
+      "cons": ["Too soft and heavy for tempo sessions or short races"],
+      "grade": "B+",
+      "specs": {"Midsole": "DNA Loft v2", "Drop": "12 mm", "Weight": "~281 g (M27)", "Wide widths": "2E stocked on Rakuten", "Outsole": "Good rubber coverage", "Price": "~¥16,500"},
+      "scores": {"Cushioning": 4.3, "Stability": 3.2, "Durability": 4.2, "Value": 4.3, "Fit": 4.6}
+    },
+    {
+      "offerId": "new-balance-880v14",
+      "badge": "Best for High Mileage",
+      "review": "For runners logging 50+ km per week, the 880v14's Fresh Foam X midsole absorbs the cumulative load of long training weeks better than the moderate-stack options. Multiple width choices (B/D/2E) give it the best sizing flexibility in this comparison. The foam compresses faster than stiffer alternatives — expect 650–750 km before it feels noticeably deadened.",
+      "pros": ["Fresh Foam X absorbs high weekly mileage well", "B/D/2E widths — best sizing options in the comparison", "Consistent fit between 880 version iterations"],
+      "cons": ["Foam compresses faster: 650–750 km vs 800+ for firmer foams"],
+      "grade": "B",
+      "specs": {"Midsole": "Fresh Foam X", "Drop": "8 mm", "Weight": "~295 g (M27)", "Widths": "B, D, 2E", "Target use": "50+ km/week", "Price": "~¥17,000"},
+      "scores": {"Cushioning": 4.5, "Stability": 3.3, "Durability": 3.8, "Value": 4.2, "Fit": 4.4}
+    },
+    {
+      "offerId": "hoka-clifton-9",
+      "badge": "Best Recovery Shoe",
+      "review": "The Clifton 9's 38 mm heel stack and meta-rocker geometry make it the strongest recovery-day and long-run option in this group — the geometry reduces ankle range-of-motion demand per stride, lowering eccentric load on the calf and Achilles. The 4 mm drop requires 2–3 weeks of adaptation for heel-strikers; skipping that adaptation window is the primary reason runners report calf pain after switching.",
+      "pros": ["38 mm heel stack — most impact absorption here", "Meta-rocker geometry reduces calf/Achilles load", "CMEVA foam outperforms budget EVA in longevity"],
+      "cons": ["4 mm drop requires 2–3 week adaptation for heel-strikers"],
+      "grade": "B-",
+      "specs": {"Midsole": "CMEVA", "Stack height": "38 mm heel / 34 mm forefoot", "Drop": "4 mm", "Weight": "~255 g (M27)", "Wide widths": "Limited in Japan", "Price": "~¥19,000"},
+      "scores": {"Cushioning": 5.0, "Stability": 3.0, "Durability": 3.7, "Value": 3.8, "Fit": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For neutral-pronation daily runners", "offerId": "nike-pegasus-41", "reason": "React foam versatility and 10 mm drop handle 30–50 km weeks across mixed training paces without needing a second shoe."},
+    {"label": "For overpronators with injury history", "offerId": "asics-gel-kayano-31", "reason": "LITETRUSS post and Japanese last design provide the arch support and width that prevent the medial shin and plantar issues overpronation causes."},
+    {"label": "For runners with wide feet", "offerId": "brooks-ghost-16", "reason": "Best 2E availability in Japan combined with the widest toe box — no other shoe in this group makes wide-width fitting this accessible on Rakuten."},
+    {"label": "For marathon-distance training", "offerId": "new-balance-880v14", "reason": "Fresh Foam X and B/D/2E width options handle the cumulative load of marathon training blocks better than narrower or stiffer alternatives."},
+    {"label": "For recovery days and long slow runs", "offerId": "hoka-clifton-9", "reason": "Meta-rocker geometry and maximal stack reduce per-stride calf demand — best paired with a more responsive shoe for quality sessions."}
+  ]
 }

@@ -58,5 +58,172 @@
     "paddletek-tempest-wave-pro": "Textured fiberglass face, polymer core, 14mm, 7.6-8.0 oz. $120-150. Best mid-tier all-rounder — between beginner and premium, more spin texture than basic composite. Correct for players who've been playing 6+ months and want better feedback without $200 spend."
   },
   "pinDescription": "Pickleball paddle 2026: Selkirk Vanguard vs Joola Ben Johns Hyperion vs Franklin X-40 vs Head Extreme Tour — carbon fiber vs composite face explained, what paddle weight means, power vs control paddles, and best pickleball paddle for beginners and intermediate players 2026.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each paddle was assessed on core and face material, power-to-control balance, sweet spot size, durability under regular play, and price-to-performance ratio across beginner to advanced skill levels.",
+  "products": [
+    {
+      "offerId": "selkirk-vanguard-power-air",
+      "badge": "Best Overall Premium",
+      "review": "The Vanguard Power Air's Aero-Tec carbon face and 16mm polymer core deliver the best combination of spin and control in the premium tier. The air-dynamic perforated edge reduces swing drag — a real advantage for fast hands at the kitchen. The $200+ price is steep for casual players who will not feel the difference from mid-tier paddles.",
+      "pros": [
+        "Aero-Tec carbon face generates elite spin on dinks and drives",
+        "16mm core depth maximizes dwell time for control shots",
+        "Aerodynamic edge reduces swing resistance for quick exchanges"
+      ],
+      "cons": [
+        "At $200–230, the performance gap vs mid-tier paddles is only felt at intermediate+ skill levels"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Face material": "Aero-Tec carbon fiber",
+        "Core": "Polymer honeycomb 16mm",
+        "Weight": "7.4–7.6 oz",
+        "Grip length": "5.25 in",
+        "Price (US)": "~$220"
+      },
+      "scores": {
+        "Power": 4.6,
+        "Control": 5.0,
+        "Sweet spot": 4.8,
+        "Value": 3.5,
+        "Durability": 4.7
+      }
+    },
+    {
+      "offerId": "joola-ben-johns-hyperion-cfs16",
+      "badge": "Best for Spin Players",
+      "review": "Co-designed with world #1 Ben Johns, the Hyperion CFS16's carbon friction surface delivers the highest spin generation in this comparison. The 16mm core keeps it control-oriented even at fast swing speeds. The trade-off: the small sweet spot is unforgiving on off-center hits — a real concern for developing players.",
+      "pros": [
+        "CFS carbon face for maximum topspin on third-shot drops",
+        "Designed with input from world #1 Ben Johns",
+        "16mm thickness for soft touch at the kitchen line"
+      ],
+      "cons": [
+        "Smaller sweet spot punishes off-center contact more than the Selkirk"
+      ],
+      "grade": "A",
+      "specs": {
+        "Face material": "Carbon Friction Surface (CFS)",
+        "Core": "Polymer honeycomb 16mm",
+        "Weight": "7.5–8.0 oz",
+        "Grip circumference": "4 1/4 in",
+        "Price (US)": "~$220"
+      },
+      "scores": {
+        "Power": 4.5,
+        "Control": 4.9,
+        "Sweet spot": 4.4,
+        "Value": 3.6,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "paddletek-tempest-wave-pro",
+      "badge": "Best Mid-Tier All-Rounder",
+      "review": "The Tempest Wave Pro's textured fiberglass face and 14mm polymer core hit the sweet spot between beginner and premium. It rewards developing spin technique without the unforgiving feedback of carbon face paddles. Best for players at the 6-month-to-2-year stage who want more than a beginner paddle without the full premium price.",
+      "pros": [
+        "Textured fiberglass provides spin feedback without carbon's steeper learning curve",
+        "14mm core balances power and control for intermediate players",
+        "Strong reputation in recreational and club-level play"
+      ],
+      "cons": [
+        "Not enough face texture to satisfy advanced spin players transitioning from carbon"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Face material": "Textured fiberglass",
+        "Core": "Polymer honeycomb 14mm",
+        "Weight": "7.6–8.0 oz",
+        "Price (US)": "~$150"
+      },
+      "scores": {
+        "Power": 4.2,
+        "Control": 4.4,
+        "Sweet spot": 4.5,
+        "Value": 4.2,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "head-extreme-tour-paddle",
+      "badge": "Best for Tennis Players",
+      "review": "The Head Extreme Tour's graphite face and traditional feel make it the natural entry point for tennis players transitioning to pickleball. The forgiving sweet spot and familiar weight (7.6 oz) reduce the learning curve. The trade-off is less spin generation than carbon competitors at the same price point.",
+      "pros": [
+        "Traditional feel familiar to tennis players",
+        "Forgiving sweet spot reduces penalty for off-center contact",
+        "Mid-tier price at a respected racket brand"
+      ],
+      "cons": [
+        "Graphite face produces less spin than carbon fiber faces in the $80–100 range"
+      ],
+      "grade": "B",
+      "specs": {
+        "Face material": "Graphite",
+        "Core": "Polymer honeycomb",
+        "Weight": "7.6 oz",
+        "Price (US)": "~$100"
+      },
+      "scores": {
+        "Power": 4.0,
+        "Control": 4.2,
+        "Sweet spot": 4.6,
+        "Value": 4.0,
+        "Durability": 4.3
+      }
+    },
+    {
+      "offerId": "franklin-x40-paddle-set",
+      "badge": "Best Beginner Set",
+      "review": "The Franklin X-40 set delivers two composite paddles plus four X-40 tournament-standard balls in one purchase — the right starting point before committing to a personal paddle. The included balls are genuine USA Pickleball approved balls, not generic. The paddles are beginner-appropriate but will feel limiting once you're playing regularly.",
+      "pros": [
+        "Two paddles plus four X-40 tournament-approved balls in one kit",
+        "Lowest entry cost to learn the game with legitimate equipment",
+        "Franklin is an official USA Pickleball ball supplier"
+      ],
+      "cons": [
+        "Beginner paddle performance will feel limiting once technique develops past 3 months"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Face material": "Fiberglass composite",
+        "Core": "Polymer honeycomb",
+        "Weight": "7.8 oz",
+        "Includes": "2 paddles + 4 X-40 balls",
+        "Price (US)": "~$40–50"
+      },
+      "scores": {
+        "Power": 3.5,
+        "Control": 3.8,
+        "Sweet spot": 4.0,
+        "Value": 5.0,
+        "Durability": 3.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For advanced players prioritizing control and spin",
+      "offerId": "selkirk-vanguard-power-air",
+      "reason": "Aero-Tec carbon face and 16mm core deliver the best dwell time and spin generation in the lineup."
+    },
+    {
+      "label": "For intermediate players developing a spin game",
+      "offerId": "joola-ben-johns-hyperion-cfs16",
+      "reason": "CFS carbon face is the highest spin-generating surface in the comparison, co-designed with the world's top-ranked player."
+    },
+    {
+      "label": "For tennis players switching to pickleball",
+      "offerId": "head-extreme-tour-paddle",
+      "reason": "Graphite face and familiar weight feel like a natural extension of a tennis racket."
+    },
+    {
+      "label": "For players at 6 months to 2 years looking to upgrade",
+      "offerId": "paddletek-tempest-wave-pro",
+      "reason": "Textured fiberglass rewards improving technique without the steep learning curve of carbon."
+    },
+    {
+      "label": "For complete beginners who need everything to start",
+      "offerId": "franklin-x40-paddle-set",
+      "reason": "Two paddles plus tournament-approved balls in one kit — the lowest-friction way to try pickleball."
+    }
+  ]
 }

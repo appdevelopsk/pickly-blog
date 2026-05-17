@@ -111,5 +111,64 @@
     "anker-eufy-smart-scale-p2-pro": "実用的な中間選択肢：Wi-Fi同期（スマートフォン近接不要）・Apple HealthとGoogle Fit連携・16指標をWithingsとタニタオプションの4分の1の価格で提供。Ankerは日本でXiaomiが持たない充実したサービス体制（小売店・日本語直接サポート）を持つ。弱点：16指標は充実して聞こえるが体重・体脂肪・BMI以外のほとんどの追加指標は同じ2電極足底BIA信号からの異なる回帰式による導出で独立した計測ではない、Eufy Lifeアプリエコシステムの成熟度はWithings Health MateやGarmin Connectより低い、日本でブランドはタニタの臨床的信頼性を持たない。"
   },
   "pinDescription": "2026年スマート体重計5製品比較：血管年齢計測付きWithings Body Comp（約¥30,000）、Garmin Connect連携Garmin Index S2（約¥22,000）、InBody技術の部位別計測タニタ RD-906、コスパ最強Xiaomi Mi Body Composition Scale 2（約¥3,000）、Wi-Fi+Apple Health対応Anker Eufy P2 Pro（約¥8,000）。BIA精度の限界・エコシステム比較・日次数値がノイズである理由を徹底解説。",
-  "methodology": "各製品を5つの基準で評価しました：作りの良さ・通常使用での性能・耐久性・快適性・コストパフォーマンス。12ヶ月後も使い続けられるかという観点から、性能と耐久性を最も重視しています。"
+  "methodology": "各スケールをBIA電極構成（2電極対4電極）・アプリのデータエクスポートポリシー・エコシステムロックインリスク・日本における販売後サービス品質・同一条件の朝計測での計測一貫性に関する長期オーナー報告で評価しました。",
+  "products": [
+    {
+      "offerId": "withings-body-comp",
+      "badge": "総合ベスト",
+      "review": "Withings Body Compは、このリストで脈波速度（血管年齢）を計測できる唯一の家庭用体重計です。BIAだけでは提供できない心血管系健康指標です。データエクスポートポリシー（CSVエクスポート・APIアクセス）はこのグループで最もオープンで、Apple Health/Google Fit連携も安定しています。体脂肪の足底BIAは安価なスケールと同じ±3〜8%精度クラスです。",
+      "pros": ["血管年齢（脈波速度）を計測できる唯一のスケール", "最良のデータエクスポートポリシー — CSVエクスポートとAPIアクセス", "Apple HealthとGoogle Fitへの安定した同期"],
+      "cons": ["足底BIAの体脂肪精度は安価なスケールと同じ±3〜8%"],
+      "grade": "A+",
+      "specs": {"価格": "約¥30,000", "BIAタイプ": "足底+脈波速度センサー", "ユーザー数": "8", "接続": "Wi-Fi + Bluetooth", "アプリ": "Withings Health Mate", "体重分解能": "0.05kg"},
+      "scores": {"Accuracy": 4.3, "App quality": 4.7, "Ease of use": 4.5, "Value": 3.5, "Metrics range": 5.0}
+    },
+    {
+      "offerId": "garmin-index-s2",
+      "badge": "Garminユーザーに最適",
+      "review": "Garmin Index S2のエコシステム優位性は具体的です：体組成データがGarmin Connectにアクティビティ・睡眠・HRVと一緒に直接表示され、サードパーティブリッジ不要。複数アスリートの家庭では16ユーザー対応が実際の差別化要因です。Garmin非ユーザーには、¥22,000の足底BIAスケールで¥8,000のEufyと同じ精度です。",
+      "pros": ["体組成データがGarmin Connectに直接同期", "16人同時ユーザー — 複数アスリートの家庭に最適", "Garminエコシステムにブリッジアプリ不要"],
+      "cons": ["Garminデバイスを使わないとエコシステムプレミアムが完全に消える"],
+      "grade": "A",
+      "specs": {"価格": "約¥22,000", "BIAタイプ": "足底", "ユーザー数": "16", "接続": "Wi-Fi + Bluetooth", "アプリ": "Garmin Connect", "体重分解能": "0.1kg"},
+      "scores": {"Accuracy": 4.1, "App quality": 4.5, "Ease of use": 4.5, "Value": 3.8, "Metrics range": 4.2}
+    },
+    {
+      "offerId": "tanita-rd-906",
+      "badge": "BIA技術ベスト",
+      "review": "タニタ RD-906はこのリストで最も厳密な家庭用BIAです：InBodyライセンスのマルチ周波数4電極技術が腕・脚・体幹を個別に計測し、足底インピーダンスから上半身を推測しません。日本では、タニタの臨床的信頼性（病院・スポーツ施設でタニタ業務用機器を使用）が医療専門家と並行して健康管理するユーザーにとって実際の考慮事項です。",
+      "pros": ["マルチ周波数4電極BIAが各体節を直接計測", "InBodyライセンス技術 — 入手可能な最高の家庭用BIA規格", "外国ブランドに勝る日本での臨床的信頼性"],
+      "cons": ["各計測時に持ち手電極を握る必要あり — 足のみのスケールより手順が増える"],
+      "grade": "B+",
+      "specs": {"価格": "約¥30,000", "BIAタイプ": "マルチ周波数4電極（部位別）", "ユーザー数": "5", "接続": "Bluetooth", "アプリ": "Health Planet（日本向け）", "体重分解能": "0.05kg"},
+      "scores": {"Accuracy": 4.8, "App quality": 3.5, "Ease of use": 3.8, "Value": 3.6, "Metrics range": 4.8}
+    },
+    {
+      "offerId": "xiaomi-body-composition-scale-2",
+      "badge": "コスパ最強",
+      "review": "¥3,000のXiaomi Mi体組成計2は、精度の幅は広くても実際に役立つ体脂肪トレンドデータを提供します。絶対値ではなく数週間の変化方向が信頼できます。Bluetooth専用のため計測時はスマートフォンが近くに必要で、Xiaomiのアプリ廃止歴（長い移行期間なし）は複数年のデータリスクとして正当な懸念です。",
+      "pros": ["約¥3,000で体脂肪・BMI・筋肉量・骨量を計測", "Mi FitnessへのスムーズなBluetooth同期", "誤差範囲が広くても体脂肪トレンド追跡は機能する"],
+      "cons": ["Bluetooth専用 — 計測時はスマートフォンが近くに必要"],
+      "grade": "B",
+      "specs": {"価格": "約¥3,000", "BIAタイプ": "足底2電極", "ユーザー数": "複数（アプリプロファイル）", "接続": "Bluetooth", "アプリ": "Mi Fitness", "体重分解能": "0.05kg"},
+      "scores": {"Accuracy": 3.2, "App quality": 3.8, "Ease of use": 4.8, "Value": 5.0, "Metrics range": 3.5}
+    },
+    {
+      "offerId": "anker-eufy-smart-scale-p2-pro",
+      "badge": "ミドルレンジ最良コスパ",
+      "review": "Anker Eufy Smart Scale P2 ProはWi-Fi同期（スマートフォン近接不要）・Apple HealthとGoogle Fit連携・16指標をWithingsとタニタの4分の1の価格で提供する実用的な選択です。16指標のほとんどは同じ2電極足底BIA信号から導出されており独立した計測ではありませんが、典型的なフィットネストラッカーにとっては体重と体脂肪のトレンドが重要です。",
+      "pros": ["Wi-Fi同期 — 計測中スマートフォンが近くに不要", "¥8,000でApple HealthとGoogle Fit連携", "Ankerの日本サービスネットワークが充実（実店舗・直接サポート）"],
+      "cons": ["16指標のほとんどは同じBIA信号からの導出 — 独立した計測ではない"],
+      "grade": "B-",
+      "specs": {"価格": "約¥8,000", "BIAタイプ": "足底4電極", "ユーザー数": "16", "接続": "Wi-Fi + Bluetooth", "アプリ": "Eufy Life", "体重分解能": "0.05kg"},
+      "scores": {"Accuracy": 4.0, "App quality": 4.1, "Ease of use": 4.7, "Value": 4.6, "Metrics range": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "心血管系の健康管理に", "offerId": "withings-body-comp", "reason": "脈波速度（血管年齢）は家庭用レベルでここ以外では入手不可能 — 純粋なBIAスケールでは提供できない心血管系の次元を加えます。"},
+    {"label": "Garminウォッチユーザーに", "offerId": "garmin-index-s2", "reason": "体組成データが回避策やブリッジアプリなしにアクティビティとHRVと一緒にGarmin Connectに表示されます。"},
+    {"label": "パーソナルトレーナーと連携するユーザーに", "offerId": "tanita-rd-906", "reason": "日本のパーソナルトレーナーやスポーツ医学の専門家はタニタの参照データを使用します。RD-906の部位別計測はトレーナーが業務用で計測するものと一致します。"},
+    {"label": "格安体脂肪追跡に", "offerId": "xiaomi-body-composition-scale-2", "reason": "¥3,000で週次トレンドデータが役立ちます。特定の日の絶対値ではなく、数ヶ月の方向性に活用してください。"},
+    {"label": "Garminなしのほとんどの家庭に", "offerId": "anker-eufy-smart-scale-p2-pro", "reason": "Wi-Fi同期・Apple Health連携・Ankerの日本サービス存在感が、GarminやBIAの臨床精度が不要な場合に最良の機能対価格比を提供します。"}
+  ]
 }

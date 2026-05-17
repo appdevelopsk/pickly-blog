@@ -88,5 +88,170 @@
     "truweo-posture-corrector": "Orthèse passive la plus réglable — système double velcro permet de régler finement la tension. Le velcro s'accroche aux vêtements et aux cheveux ; trop serrer peut causer des picotements dans les bras par compression nerveuse ; commencez au réglage le plus lâche ; même risque de dépendance musculaire que les autres orthèses passives.",
     "back-brace-posture-corrector": "Ceinture lombaire complète pour station debout et charges — problème différent de l'arrondissement thoracique dû à la posture de bureau. Trop volumineux pour un usage assis confortable au bureau ; s'attaque uniquement au bas du dos, pas à la posture des épaules ou du cou ; la dépendance musculaire s'applique aux muscles érecteurs du rachis lors d'un port prolongé."
   },
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque produit a été évalué selon le mécanisme de correction (biofeedback actif vs attelle passive), le risque de dépendance musculaire, le confort réel pendant une journée de travail, la discrétion sous les vêtements et la base de preuves soutenant chaque approche.",
+  "products": [
+    {
+      "offerId": "upright-go-2",
+      "badge": "Meilleur entraîneur actif",
+      "review": "L'Upright GO 2 est le seul dispositif de biofeedback actif dans cette comparaison — il vibre lorsque vous vous affaissez et suit l'amélioration via une application plutôt que de tenir physiquement le corps en position. Cela évite le problème de dépendance musculaire que créent les attelles passives. La limitation est la couverture : uniquement le haut du dos et le cou.",
+      "pros": [
+        "Le biofeedback actif entraîne la posture sans créer de dépendance musculaire",
+        "L'application suit les améliorations sur des semaines pour une approche basée sur les données",
+        "Capteur adhésif discret qui se glisse sous les vêtements"
+      ],
+      "cons": [
+        "Couvre uniquement le haut du dos — pas de corrections pour le bas du dos, les hanches ou le cou"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Type": "Active biofeedback (vibration)",
+        "Placement": "Upper back adhesive",
+        "App": "Yes — tracks posture over time",
+        "Battery": "Rechargeable",
+        "Price (US)": "~$100"
+      },
+      "scores": {
+        "Correction effectiveness": 4.5,
+        "Comfort": 4.2,
+        "Discreetness": 4.8,
+        "Value": 3.8,
+        "Ease of use": 4.5
+      }
+    },
+    {
+      "offerId": "comfymed-posture-brace",
+      "badge": "Meilleure attelle classique",
+      "review": "L'attelle d'épaule en huit de ComfyMed tire physiquement les épaules vers l'arrière et vers le bas lors de courtes séances proprioceptives. Se porte sous les vêtements et fournit un retour tactile clair. La limitation critique : utilisée plus de 20–30 minutes par séance, elle fait le travail des muscles — créant une dépendance plutôt qu'une correction.",
+      "pros": [
+        "Retour proprioceptif fort — vous sentez immédiatement le changement de posture",
+        "S'adapte sous les vêtements pour un port discret",
+        "Prix bas pour une utilisation de base en courte session"
+      ],
+      "cons": [
+        "Risque de dépendance musculaire le plus élevé de la catégorie — la tenue passive crée une dépendance si portée toute la journée"
+      ],
+      "grade": "A",
+      "specs": {
+        "Type": "Passive figure-8 shoulder brace",
+        "Material": "Elastic fabric",
+        "Wear time": "20–30 min sessions recommended",
+        "Price (US)": "~$28"
+      },
+      "scores": {
+        "Correction effectiveness": 4.0,
+        "Comfort": 3.5,
+        "Discreetness": 4.2,
+        "Value": 4.8,
+        "Ease of use": 4.6
+      }
+    },
+    {
+      "offerId": "fitletic-posture-corrector",
+      "badge": "Meilleure pour usage actif",
+      "review": "La construction élastique légère de Fitletic est l'option passive la plus confortable pour l'usage actif — portable lors de marches, de courses ou d'activités légères sans restreindre le mouvement. La construction plus légère signifie aussi moins de force de traction, insuffisante pour une cyphose thoracique significative. L'élasticité se dégrade avec les lavages répétés en 3–6 mois.",
+      "pros": [
+        "Attelle passive la plus légère et la plus confortable pour les mouvements actifs",
+        "Profil bas s'adapte sous n'importe quel vêtement",
+        "Appropriée pour une conscience posturale légère lors des activités quotidiennes"
+      ],
+      "cons": [
+        "Construction légère fournissant une force de traction insuffisante pour une cyphose thoracique significative"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Type": "Passive elastic shoulder brace",
+        "Construction": "Lightweight elastic",
+        "Lifespan": "~3–6 months with regular washing",
+        "Price (US)": "~$30"
+      },
+      "scores": {
+        "Correction effectiveness": 3.5,
+        "Comfort": 4.6,
+        "Discreetness": 4.7,
+        "Value": 4.4,
+        "Ease of use": 4.8
+      }
+    },
+    {
+      "offerId": "truweo-posture-corrector",
+      "badge": "Meilleure attelle réglable",
+      "review": "Le double système velcro de Truweo offre le réglage de tension le plus précis de toutes les attelles passives ici — vous pouvez régler exactement la force de rétraction des épaules souhaitée. Le compromis est que le velcro s'accroche aux vêtements et aux cheveux, et un serrage excessif peut provoquer des picotements dans les bras par compression nerveuse. Commencez toujours au réglage le plus lâche.",
+      "pros": [
+        "Double velcro pour un réglage précis de la tension — attelle passive la plus configurable",
+        "Design unisexe convenant à une large gamme de morphologies",
+        "Guide de taille clair pour un ajustement correct"
+      ],
+      "cons": [
+        "Le velcro s'accroche aux vêtements et aux cheveux ; trop serrer risque des picotements dans les bras par compression nerveuse"
+      ],
+      "grade": "B",
+      "specs": {
+        "Type": "Passive clavicle brace",
+        "Adjustment": "Dual velcro tension system",
+        "Design": "Unisex",
+        "Price (US)": "~$27"
+      },
+      "scores": {
+        "Correction effectiveness": 3.8,
+        "Comfort": 3.4,
+        "Discreetness": 3.8,
+        "Value": 4.6,
+        "Ease of use": 3.8
+      }
+    },
+    {
+      "offerId": "back-brace-posture-corrector",
+      "badge": "Meilleure pour le bas du dos",
+      "review": "La Mueller Back Brace s'adresse spécifiquement à la charge lombaire — le panneau rigide avec compression latérale réglable est adapté au travail debout et aux tâches à charge physique. N'aide pas la cyphose thoracique ou les épaules arrondies et est trop encombrant pour une utilisation en bureau assis.",
+      "pros": [
+        "Panneau rigide fournissant un vrai soutien pour le travail debout et les charges physiques",
+        "Compression latérale réglable pour un soutien lombaire personnalisé",
+        "Seul produit ici ciblant cette zone — spécifiquement pour le bas du dos"
+      ],
+      "cons": [
+        "Trop encombrant pour une utilisation en bureau assis ; n'adresse pas le haut du dos, les épaules ou le cou"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Passive lumbar support brace",
+        "Panel": "Rigid with adjustable side compression",
+        "Coverage": "Lower back only",
+        "Price (US)": "~$25"
+      },
+      "scores": {
+        "Correction effectiveness": 3.8,
+        "Comfort": 3.0,
+        "Discreetness": 2.5,
+        "Value": 4.5,
+        "Ease of use": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les télétravailleurs qui veulent entraîner leur posture, pas la soutenir",
+      "offerId": "upright-go-2",
+      "reason": "Le biofeedback actif construit l'habitude posturale sans la dépendance musculaire que créent les attelles passives avec le port toute la journée."
+    },
+    {
+      "label": "Pour de courtes séances de rappel proprioceptif (20–30 min)",
+      "offerId": "comfymed-posture-brace",
+      "reason": "Retour tactile fort au prix le plus bas — efficace lorsqu'utilisé brièvement comme indicateur, pas comme soutien structurel."
+    },
+    {
+      "label": "Pour un usage quotidien actif lors des déplacements et activités",
+      "offerId": "fitletic-posture-corrector",
+      "reason": "Option passive la plus légère — confortable pour la marche et les activités légères sans restreindre le mouvement."
+    },
+    {
+      "label": "Pour les utilisateurs qui veulent une attelle précisément réglable",
+      "offerId": "truweo-posture-corrector",
+      "reason": "Le double système de tension velcro offre le contrôle le plus précis de la force de rétraction des épaules dans la catégorie des attelles passives."
+    },
+    {
+      "label": "Pour les travailleurs debout souffrant de douleurs lombaires",
+      "offerId": "back-brace-posture-corrector",
+      "reason": "Le panneau lombaire rigide avec compression réglable est conçu spécifiquement pour les scénarios de travail debout et de charge physique."
+    }
+  ]
 }

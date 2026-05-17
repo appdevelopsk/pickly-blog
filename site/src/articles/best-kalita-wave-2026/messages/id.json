@@ -58,5 +58,148 @@
     "fellow-stagg-ekg-kettle": "Cerat gooseneck, suhu variabel 57-100°C, fungsi tahan suhu, 0,9 L. $150-170. Teko pour-over terbaik — kontrol aliran yang presisi, pengaturan suhu tepat, tahan 60 menit. Pasangan yang tepat untuk Kalita Wave, V60, dan Chemex."
   },
   "pinDescription": "Kalita Wave pour-over 2026: 185 vs 155, stainless vs keramik vs kaca, bagaimana desain alas datar membuat pour-over lebih toleran dari V60, dan teko gooseneck mana yang cocok dipadukan.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Setiap dripper dievaluasi berdasarkan konsistensi ekstraksi dengan berbagai teknik menuang, dampak material terhadap retensi panas, daya tahan, kemudahan pembersihan, dan kesesuaian bagi barista pemula maupun berpengalaman.",
+  "products": [
+    {
+      "offerId": "kalita-wave-185-stainless",
+      "badge": "Terbaik secara keseluruhan",
+      "review": "Wave 185 stainless adalah versi dripper yang paling tangguh: tidak mudah pecah, aman dicuci di mesin cuci piring, dan retensi panasnya lebih baik dari kaca. Satu-satunya kelemahan nyata adalah sedikit rasa logam pada unit baru yang hilang setelah 5-10 kali pemakaian pertama.",
+      "pros": ["Tidak pecah dan aman dicuci di mesin cuci piring", "Retensi panas lebih baik dari kaca", "Tahan bertahun-tahun meski digunakan setiap hari"],
+      "cons": ["Sedikit rasa logam pada unit baru hingga beberapa kali pemakaian awal"],
+      "grade": "A+",
+      "specs": {
+        "Material": "Stainless steel",
+        "Ukuran": "185 (2-4 cangkir)",
+        "Lubang drainase": "3 lubang datar",
+        "Kompatibilitas filter": "Filter Wave 185",
+        "Aman mesin cuci piring": "Ya",
+        "Harga": "$30-40"
+      },
+      "scores": {
+        "Kejernihan seduhan": 4.5,
+        "Kualitas bahan": 5.0,
+        "Kemudahan penggunaan": 4.9,
+        "Nilai": 4.7,
+        "Versatilitas": 4.8
+      }
+    },
+    {
+      "offerId": "kalita-wave-155-ceramic",
+      "badge": "Terbaik untuk satu porsi",
+      "review": "Wave 155 keramik dioptimalkan untuk kedalaman bed satu cangkir: diameter yang lebih kecil memusatkan kopi bubuk sehingga saturasi lebih merata dibanding 185 dengan dosis yang sama. Keramik menambah cita rasa bersih tanpa jejak logam, meski perlu hati-hati terhadap benturan.",
+      "pros": ["Kedalaman bed optimal untuk 1 cangkir", "Keramik tidak meninggalkan rasa apapun", "Sentuhan dan bobot premium"],
+      "cons": ["Mudah pecah — benturan keras bisa merusaknya"],
+      "grade": "A",
+      "specs": {
+        "Material": "Keramik",
+        "Ukuran": "155 (1-2 cangkir)",
+        "Lubang drainase": "3 lubang datar",
+        "Kompatibilitas filter": "Filter Wave 155",
+        "Retensi panas": "Baik",
+        "Harga": "$35-50"
+      },
+      "scores": {
+        "Kejernihan seduhan": 4.8,
+        "Kualitas bahan": 3.8,
+        "Kemudahan penggunaan": 4.7,
+        "Nilai": 4.5,
+        "Versatilitas": 3.5
+      }
+    },
+    {
+      "offerId": "kalita-wave-185-glass",
+      "badge": "Terbaik untuk belajar teknik",
+      "review": "Wave 185 kaca adalah guru terbaik: melihat bloom berkembang, mengamati laju drainase, dan mendeteksi channeling secara visual mempercepat pembelajaran lebih dari panduan manapun. Retensi panas yang lebih rendah dibanding keramik atau stainless itu nyata — panaskan dripper terlebih dahulu.",
+      "pros": ["Transparan untuk umpan balik visual lengkap", "Kaca tahan panas", "Pengalaman visual meningkatkan teknik"],
+      "cons": ["Retensi panas lebih rendah dan merupakan pilihan paling rapuh"],
+      "grade": "B+",
+      "specs": {
+        "Material": "Kaca borosilikat",
+        "Ukuran": "185 (2-4 cangkir)",
+        "Lubang drainase": "3 lubang datar",
+        "Kompatibilitas filter": "Filter Wave 185",
+        "Transparan": "Ya",
+        "Harga": "$45-60"
+      },
+      "scores": {
+        "Kejernihan seduhan": 4.6,
+        "Kualitas bahan": 3.2,
+        "Kemudahan penggunaan": 4.5,
+        "Nilai": 4.3,
+        "Versatilitas": 4.0
+      }
+    },
+    {
+      "offerId": "kalita-wave-filters-185",
+      "badge": "Konsumabel wajib",
+      "review": "Filter Wave adalah komponen yang membuat sistem bekerja: lipatan berbentuk gelombang menciptakan celah udara antara kertas dan dinding dripper, menghilangkan kontak langsung dan memungkinkan aliran merata. Tidak dapat dipertukarkan dengan V60, Chemex, atau filter lainnya.",
+      "pros": ["Celah udara memastikan ekstraksi merata", "100 lembar seharga ~$10-15 (biaya per cangkir rendah)", "Tersedia di Amazon dengan pengiriman cepat"],
+      "cons": ["Hanya cocok untuk dripper Kalita Wave — tidak dapat dipertukarkan"],
+      "grade": "B",
+      "specs": {
+        "Kompatibilitas": "Kalita Wave 185",
+        "Jumlah per paket": "100 lembar",
+        "Tipe": "Kertas, lipatan gelombang",
+        "Harga per lembar": "~$0.10-0.15",
+        "Harga paket": "~$10-15"
+      },
+      "scores": {
+        "Kejernihan seduhan": 4.5,
+        "Kualitas bahan": 4.0,
+        "Kemudahan penggunaan": 4.8,
+        "Nilai": 4.7,
+        "Versatilitas": 3.0
+      }
+    },
+    {
+      "offerId": "fellow-stagg-ekg-kettle",
+      "badge": "Teko pelengkap terbaik",
+      "review": "Stagg EKG memiliki cerat gooseneck paling terkontrol di pasar pour-over: laju aliran dapat diprediksi, suhu variabel dari 57 hingga 100°C dengan presisi satu derajat, dan fungsi tahan suhu 60 menit mencegah air mendingin di antara tuangan. Harga $150-170 adalah satu-satunya keberatan nyata.",
+      "pros": ["Kontrol laju tuangan dengan presisi maksimal", "Fungsi tahan suhu 60 menit", "Dirancang khusus untuk pour-over"],
+      "cons": ["Harga premium $150-170 sulit dijustifikasi jika sudah punya teko yang layak"],
+      "grade": "B-",
+      "specs": {
+        "Tipe cerat": "Gooseneck",
+        "Rentang suhu": "57-100°C",
+        "Kapasitas": "0,9 L",
+        "Fungsi tahan suhu": "Ya, 60 menit",
+        "Layar": "LCD",
+        "Harga": "$150-170"
+      },
+      "scores": {
+        "Kejernihan seduhan": 4.9,
+        "Kualitas bahan": 4.8,
+        "Kemudahan penggunaan": 4.5,
+        "Nilai": 3.8,
+        "Versatilitas": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Penggunaan harian intensif",
+      "offerId": "kalita-wave-185-stainless",
+      "reason": "Tidak pecah dan aman mesin cuci piring — ideal jika Anda menyeduh 2+ cangkir setiap pagi dan tidak ingin khawatir memecahkannya."
+    },
+    {
+      "label": "Ritual satu cangkir",
+      "offerId": "kalita-wave-155-ceramic",
+      "reason": "155 keramik dioptimalkan untuk 1 cangkir: rasio kedalaman bed terhadap diameter memberikan ekstraksi lebih merata dibanding 185 dengan dosis kecil."
+    },
+    {
+      "label": "Barista yang sedang belajar",
+      "offerId": "kalita-wave-185-glass",
+      "reason": "Transparansi kaca memungkinkan Anda melihat bloom, laju drainase, dan channeling — umpan balik visual yang tidak bisa diberikan dripper buram manapun."
+    },
+    {
+      "label": "Pengisian ulang konsumabel",
+      "offerId": "kalita-wave-filters-185",
+      "reason": "Filter Wave wajib ada dan tidak dapat diganti — stok dalam paket 100 lembar agar tidak pernah kehabisan."
+    },
+    {
+      "label": "Kontrol tuangan total",
+      "offerId": "fellow-stagg-ekg-kettle",
+      "reason": "Stagg EKG mengubah dripper yang bagus menjadi sistem ekstraksi presisi — untuk mereka yang ingin mengontrol setiap variabel proses seduhan."
+    }
+  ]
 }

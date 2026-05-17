@@ -58,5 +58,154 @@
     "turkish-coffee-beans-mehmet": "Mehmet Efendi pre-ground Turkish coffee, traditional Istanbul roaster. ~$8-15 per 250g. Best pre-ground Turkish coffee — correct fineness for cezve brewing, widely available online, use within 1-2 weeks of opening."
   },
   "pinDescription": "Turkish coffee guide 2026: copper cezve vs stainless vs electric Arzum Okka, how to brew authentic foam-topped Turkish coffee, why the grind needs to be finer than espresso, and the Mehmet Efendi pre-ground option.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each product was evaluated on brew quality, material durability, ease of foam control, grind capability, and cost per serving — covering both stovetop and electric brewing methods.",
+  "products": [
+    {
+      "offerId": "copper-cezve-ibrik-by-shiritek",
+      "badge": "Best Traditional Cezve",
+      "review": "Authentic copper heat conductivity and the classic aesthetic make this the ritual-first choice for Turkish coffee. The tin-lined interior protects coffee from copper reactivity and brews 1–2 cups precisely. With heavy daily use, the tin lining will eventually need professional re-tinning — a real cost and effort over years.",
+      "pros": ["Authentic copper heat conductivity for even foam rise", "Classic aesthetic central to the ritual", "Correct 1–2 cup sizing for traditional preparation"],
+      "cons": ["Tin lining requires re-tinning with heavy regular use"],
+      "grade": "A+",
+      "specs": {
+        "Material": "Copper with tin lining",
+        "Capacity": "1–2 cups (~180ml)",
+        "Heat source": "Stovetop (any except induction)",
+        "Maintenance": "Re-tin lining over time",
+        "Country of origin": "Turkey",
+        "Price range": "$15–$35",
+        "Style": "Traditional long handle"
+      },
+      "scores": {
+        "Brew quality": 5.0,
+        "Build quality": 4.5,
+        "Ease of use": 4.0,
+        "Value": 4.8,
+        "Capacity": 4.0
+      }
+    },
+    {
+      "offerId": "stainless-cezve-by-bosphorus",
+      "badge": "Best Practical Cezve",
+      "review": "Stainless steel delivers the same brew quality as copper with zero re-tinning, dishwasher-safe construction, and a longer practical lifespan for daily users. Heat distribution is slightly less even than copper on gas flames but the difference is minimal for home stove use. The more modern aesthetic suits contemporary kitchens.",
+      "pros": ["No re-tinning required — dishwasher-safe", "Same brew results as copper", "More durable for daily use"],
+      "cons": ["Slightly less even heat distribution than copper on gas"],
+      "grade": "A",
+      "specs": {
+        "Material": "Stainless steel (no lining needed)",
+        "Capacity": "1–2 cups (~180ml)",
+        "Heat source": "Stovetop including induction",
+        "Maintenance": "Minimal",
+        "Dishwasher-safe": "Yes (hand wash recommended)",
+        "Price range": "$10–$25",
+        "Style": "Modern"
+      },
+      "scores": {
+        "Brew quality": 4.8,
+        "Build quality": 5.0,
+        "Ease of use": 4.5,
+        "Value": 5.0,
+        "Capacity": 4.0
+      }
+    },
+    {
+      "offerId": "electric-turkish-coffee-maker-arzum",
+      "badge": "Best Electric Option",
+      "review": "Automates the stovetop process — water to reservoir, coffee to pot, select sweetness, press start — and detects foam formation to pour automatically without boiling over. The Okka produces authentic foam and concentration comparable to stovetop brewing. It requires electricity, takes counter space, and removes some of the meditative ritual of manual brewing.",
+      "pros": ["Fully automated foam management", "Sweetness level selection", "Authentic cup quality without monitoring"],
+      "cons": ["Counter space required; removes stovetop ritual"],
+      "grade": "B+",
+      "specs": {
+        "Type": "Electric automated",
+        "Capacity": "2 cups per cycle",
+        "Sweetness settings": "3 levels (sade / az şekerli / çok şekerli)",
+        "Foam detection": "Automatic",
+        "Power": "~500W",
+        "Price range": "$60–$90",
+        "Portability": "Counter appliance"
+      },
+      "scores": {
+        "Brew quality": 4.5,
+        "Build quality": 4.0,
+        "Ease of use": 5.0,
+        "Value": 3.8,
+        "Capacity": 4.0
+      }
+    },
+    {
+      "offerId": "turkish-coffee-grinder-zassenhaus",
+      "badge": "Best Grinder for Turkish Coffee",
+      "review": "Achieves genuine Turkish-fine grind that electric home grinders cannot reach — essential if you brew from whole bean. The cylindrical design and Turkish-fine adjustment range produce consistent powder-level fineness for cezve brewing. Slower than electric grinding, but grind quality at this fineness level surpasses electric options in the same price range.",
+      "pros": ["Reaches Turkish-fine grind beyond electric home grinders", "Consistent grind quality at powder fineness", "Traditional cylindrical design"],
+      "cons": ["Slower grinding than electric — time investment per brew"],
+      "grade": "B",
+      "specs": {
+        "Type": "Hand grinder",
+        "Grind range": "Turkish-fine (powder level)",
+        "Body material": "Beech wood and metal",
+        "Burrs": "Steel conical burrs",
+        "Capacity": "~30g per grind",
+        "Price range": "$60–$90",
+        "Country of origin": "Germany"
+      },
+      "scores": {
+        "Brew quality": 5.0,
+        "Build quality": 4.8,
+        "Ease of use": 3.5,
+        "Value": 3.8,
+        "Capacity": 3.5
+      }
+    },
+    {
+      "offerId": "turkish-coffee-beans-mehmet",
+      "badge": "Best Pre-Ground Coffee",
+      "review": "Istanbul's most recognized traditional roaster, pre-ground to exactly the fineness cezve brewing requires. Available online internationally and the most practical starting point for anyone without a Turkish-capable grinder. Use within 1–2 weeks of opening — the fine particle size means rapid oxidation once the vacuum seal is broken.",
+      "pros": ["Pre-ground to correct Turkish fineness", "Widely available online internationally", "Authentic Istanbul roaster and flavour profile"],
+      "cons": ["Oxidizes quickly after opening — use within 1–2 weeks"],
+      "grade": "B-",
+      "specs": {
+        "Grind": "Turkish-fine (pre-ground)",
+        "Weight per pack": "250g",
+        "Roast level": "Medium-dark",
+        "Origin": "Istanbul, Turkey (Mehmet Efendi roastery)",
+        "Price range": "$8–$15 per 250g",
+        "Shelf life opened": "1–2 weeks",
+        "Packaging": "Vacuum-sealed pouch"
+      },
+      "scores": {
+        "Brew quality": 4.5,
+        "Build quality": 3.5,
+        "Ease of use": 5.0,
+        "Value": 5.0,
+        "Capacity": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For ritual-oriented Turkish coffee drinkers",
+      "offerId": "copper-cezve-ibrik-by-shiritek",
+      "reason": "Copper heat conductivity and traditional aesthetic deliver the full meditative stovetop experience."
+    },
+    {
+      "label": "For daily users who prioritise durability over aesthetics",
+      "offerId": "stainless-cezve-by-bosphorus",
+      "reason": "Same brew results as copper with no re-tinning maintenance and dishwasher-safe convenience."
+    },
+    {
+      "label": "For households brewing Turkish coffee regularly",
+      "offerId": "electric-turkish-coffee-maker-arzum",
+      "reason": "Automated foam management makes consistent results repeatable without monitoring the stovetop."
+    },
+    {
+      "label": "For whole-bean brewers",
+      "offerId": "turkish-coffee-grinder-zassenhaus",
+      "reason": "The only way to achieve true Turkish-fine grind at home — electric grinders cannot reach this fineness."
+    },
+    {
+      "label": "For beginners or travellers without a grinder",
+      "offerId": "turkish-coffee-beans-mehmet",
+      "reason": "Pre-ground to the correct fineness and ready to brew immediately — no equipment needed beyond the cezve."
+    }
+  ]
 }

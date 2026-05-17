@@ -58,5 +58,174 @@
     "lion-mane-mushroom-powder": "Poudre d'extrait pur de crinière de lion, typiquement 500 mg-1 g par portion, 50-100 portions. $20-35. Meilleure approche DIY — ajouter à n'importe quel café pour un dosage précis en quantités cliniquement pertinentes. Plus économique pour une supplémentation quotidienne en crinière de lion."
   },
   "pinDescription": "Café aux champignons 2026 : Four Sigmatic vs Ryze vs Om vs Earth & Star — ce que la recherche dit vraiment sur la crinière de lion et le cordyceps, si les doses du café aux champignons sont significatives, comment lire les étiquettes pour le contenu en bêta-glucanes et si la poudre DIY de crinière de lion surpasse les mélanges prêts à l'emploi. #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque café aux champignons a été évalué selon les espèces de champignons utilisées, la transparence du dosage par portion, la méthode d'extraction (double extrait vs. poudre entière), le niveau de caféine, l'intégration des arômes et le coût par portion par rapport à l'achat séparé de café et de compléments alimentaires.",
+  "products": [
+    {
+      "offerId": "four-sigmatic-think-coffee",
+      "badge": "Meilleur au Global",
+      "review": "Four Sigmatic a popularisé le café aux champignons et reste la référence qualité. Le blend Think utilise une double extraction (eau chaude + alcool) sur de l'arabica biologique, livrant 250 mg de crinière de lion et 200 mg de chaga par portion avec une meilleure biodisponibilité que les produits à base de poudre brute. Le goût est véritablement centré sur le café avec une légère note terreuse — pas médicinal. Le sachet de 12 portions en fait l'option la plus chère par portion, mais la qualité d'extraction le justifie pour une utilisation régulière.",
+      "pros": [
+        "La double extraction augmente la biodisponibilité des composés actifs",
+        "250 mg de crinière de lion + 200 mg de chaga par portion indiquée",
+        "Meilleure intégration des arômes — note terreuse présente mais non intrusive"
+      ],
+      "cons": [
+        "28,50 $ pour 12 portions — l'option la plus chère par portion ici"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Champignons": "Crinière de lion + chaga",
+        "Crinière de lion par portion": "250 mg",
+        "Chaga par portion": "200 mg",
+        "Extraction": "Double extraction",
+        "Portions": "12",
+        "Base café": "Arabica biologique"
+      },
+      "scores": {
+        "Goût": 4.8,
+        "Qualité champignon": 4.9,
+        "Rapport qualité-prix": 3.5,
+        "Commodité": 5.0,
+        "Bénéfices fonctionnels": 4.6
+      }
+    },
+    {
+      "offerId": "ryze-mushroom-coffee",
+      "badge": "Meilleur Rapport Qualité-Prix",
+      "review": "Ryze est le café aux champignons le plus vendu en volume, et le coût de 1,50 $/portion pour 30 portions est le plus compétitif de cette comparaison. Le blend de 6 champignons totalise 2 000 mg par portion, bien que les doses individuelles de champignons ne soient pas divulguées. À 48 mg de caféine par portion — environ la moitié du café filtre — c'est le bon choix pour ceux qui réduisent la caféine tout en maintenant un rituel matinal.",
+      "pros": [
+        "1,50 $/portion — meilleur coût par portion des blends de café aux champignons",
+        "Le blend de 6 champignons totalise 2 000 mg par portion",
+        "48 mg de caféine faible — bon pour les utilisateurs sensibles à la caféine"
+      ],
+      "cons": [
+        "Doses individuelles de champignons non divulguées — impossible d'évaluer l'efficacité par espèce"
+      ],
+      "grade": "A",
+      "specs": {
+        "Champignons": "Mélange 6 : crinière de lion, cordyceps, reishi, shiitake, queue de dindon, trompette royale",
+        "Total champignons par portion": "2 000 mg",
+        "Caféine par portion": "48 mg",
+        "Portions": "30",
+        "Base café": "Arabica biologique",
+        "Divulgation du mélange": "Mélange propriétaire"
+      },
+      "scores": {
+        "Goût": 4.3,
+        "Qualité champignon": 4.1,
+        "Rapport qualité-prix": 5.0,
+        "Commodité": 5.0,
+        "Bénéfices fonctionnels": 4.0
+      }
+    },
+    {
+      "offerId": "om-mushroom-master-blend",
+      "badge": "Meilleur Bio",
+      "review": "Le Master Blend d'Om est l'option la plus certifiée et transparente — USDA bio, poudre de champignon entier à spectre complet (pas seulement extrait), testée par des tiers, et 10 espèces de champignons. À 19,99 $ pour 30 portions, Om offre également un bon rapport qualité-prix. L'inconvénient est que c'est une poudre de champignon pur à ajouter à votre propre café, pas un produit prémélangé.",
+      "pros": [
+        "Certification USDA bio et tests par des tiers",
+        "Poudre de champignon entier à spectre complet — 10 espèces",
+        "Meilleur rapport qualité-prix pour une qualité de champignon bio certifiée"
+      ],
+      "cons": [
+        "Pas prémélangé avec le café — nécessite l'achat séparé du café"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Champignons": "Mélange 10 espèces",
+        "Certification": "USDA Bio",
+        "Type de poudre": "Champignon entier",
+        "Tests": "Vérifié par des tiers",
+        "Portions": "30",
+        "Format": "Poudre à ajouter au café"
+      },
+      "scores": {
+        "Goût": 4.0,
+        "Qualité champignon": 5.0,
+        "Rapport qualité-prix": 4.7,
+        "Commodité": 3.8,
+        "Bénéfices fonctionnels": 4.8
+      }
+    },
+    {
+      "offerId": "earth-and-star-mushroom-coffee",
+      "badge": "Meilleure Transparence",
+      "review": "Earth & Star indique la teneur en champignons par portion pour chaque espèce — crinière de lion, chaga et reishi — ce qui est plus honnête que l'approche du mélange propriétaire. Base de café biologique, saveur douce et agréable, et emballage attrayant qui en fait une option cadeau raisonnable. Les doses sont indiquées mais pas à des niveaux cliniques, c'est donc un produit honnête et bien fabriqué plutôt qu'un complément de grade thérapeutique.",
+      "pros": [
+        "Dose de champignons par portion indiquée pour chaque espèce",
+        "Base de café biologique avec une saveur douce et agréable",
+        "Propose des variantes de matcha aux champignons et de chocolat chaud"
+      ],
+      "cons": [
+        "Les doses de champignons sont inférieures aux niveaux de recherche clinique — produit bien-être plutôt que complément"
+      ],
+      "grade": "B",
+      "specs": {
+        "Champignons": "Crinière de lion + chaga + reishi",
+        "Transparence du dosage": "Étiqueté par espèce",
+        "Base café": "Biologique",
+        "Portions": "30",
+        "Produits supplémentaires": "Matcha aux champignons, chocolat chaud",
+        "Prix par portion": "~0,83 $"
+      },
+      "scores": {
+        "Goût": 4.4,
+        "Qualité champignon": 4.3,
+        "Rapport qualité-prix": 4.4,
+        "Commodité": 4.8,
+        "Bénéfices fonctionnels": 4.0
+      }
+    },
+    {
+      "offerId": "lion-mane-mushroom-powder",
+      "badge": "Meilleur DIY",
+      "review": "Ajouter de la poudre d'extrait pur de crinière de lion à votre café existant est l'approche la plus rentable et la mieux contrôlée en termes de dosage dans cette comparaison. À 500 mg–1 g par portion et 50–100 portions par sachet, vous pouvez atteindre la limite inférieure des doses étudiées dans la recherche humaine tout en choisissant le café que vous préférez. Impact minimal sur le goût à des doses allant jusqu'à 1 000 mg.",
+      "pros": [
+        "Dosage précis à 500 mg–1 g — le plus proche des quantités étudiées cliniquement",
+        "50–100 portions par sachet — le plus de portions par euro",
+        "Pas de compromis sur le goût — à ajouter à n'importe quel café que vous aimez déjà"
+      ],
+      "cons": [
+        "Nécessite de gérer deux produits séparés ; pas une solution d'achat unique"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Champignon": "Extrait pur de crinière de lion",
+        "Dose par portion": "500 mg–1 g",
+        "Portions": "50–100",
+        "Extraction": "Poudre d'extrait",
+        "Impact sur le goût": "Minimal",
+        "Gamme de prix": "20–35 $"
+      },
+      "scores": {
+        "Goût": 4.0,
+        "Qualité champignon": 4.8,
+        "Rapport qualité-prix": 5.0,
+        "Commodité": 3.0,
+        "Bénéfices fonctionnels": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les débutants en café aux champignons",
+      "offerId": "four-sigmatic-think-coffee",
+      "reason": "La double extraction et la bonne intégration des arômes de Four Sigmatic en font l'introduction la plus fiable à la catégorie — qualité établie avec une période d'adaptation minimale."
+    },
+    {
+      "label": "Pour les buveurs quotidiens réduisant la caféine",
+      "offerId": "ryze-mushroom-coffee",
+      "reason": "Avec 48 mg de caféine et 1,50 $/portion pour 30 portions, Ryze est l'option d'habitude quotidienne la plus durable pour ceux qui réduisent la caféine sans abandonner le rituel matinal."
+    },
+    {
+      "label": "Pour les acheteurs uniquement bio",
+      "offerId": "om-mushroom-master-blend",
+      "reason": "USDA bio, testé par des tiers, poudre de champignon entier de 10 espèces — l'option la plus accréditée pour les acheteurs exigeant certification et transparence."
+    },
+    {
+      "label": "Pour les complémenteurs de précision",
+      "offerId": "lion-mane-mushroom-powder",
+      "reason": "La poudre d'extrait pur permet d'ajouter une dose contrôlée de 500–1 000 mg à n'importe quel café — la voie la plus rentable vers un apport en crinière de lion cliniquement pertinent."
+    }
+  ]
 }

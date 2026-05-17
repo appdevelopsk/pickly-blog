@@ -66,5 +66,64 @@
     "kitchenaid-ice-cream-maker-attachment": "Accesorio de canister de pre-congelado para batidora de pie KitchenAid. No se necesita base de motor separada. $50-70. Ideal para propietarios de KitchenAid que quieren hacer helado sin otro electrodoméstico en la encimera."
   },
   "pinDescription": "Comparación de máquinas para helado 2026: Cuisinart ICE-21 vs compresor Whynter vs Breville Smart Scoop vs Ninja Creami vs accesorio KitchenAid — método de batido, tiempo de congelación y qué máquina hace el helado más suave comparado. #heladocasero #maquinahelado #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada máquina fue evaluada según la calidad de congelación/batido en tres tipos de base (natillas estándar, sorbete, alto en proteínas), capacidad relativa al tamaño del hogar, tiempo hasta la primera cucharada, facilidad de limpieza y relación precio-rendimiento realista.",
+  "products": [
+    {
+      "offerId": "cuisinart-ice-21-ice-cream-maker",
+      "badge": "Mejor en general",
+      "review": "El Cuisinart ICE-21 ha sido la máquina para helado casero más vendida en Norteamérica durante más de dos décadas porque el mecanismo es realmente bueno y el precio se ha mantenido honesto. Congela el bol de doble aislamiento, bate durante 20–25 minutos y obtienes un helado cremoso y consistente por unos $50–60. La limitación real es el requisito de planificación — el bol necesita 24 horas en el congelador antes de usarlo. Para la mayoría de los hogares que hacen helado ocasionalmente, esto no es un problema.",
+      "pros": ["Menos de $60 por un rendimiento de batido probado y fiable", "Canisters de repuesto disponibles si el bol se rompe", "Huella compacta frente a máquinas de compresor"],
+      "cons": ["Se requiere planificación de pre-congelado de 24 horas para cada tanda"],
+      "grade": "A+",
+      "specs": {"Capacidad": "1,5 cuartos (aprox. 1,4 L)", "Tipo": "Canister de pre-congelado", "Tiempo de batido": "20–25 min", "Motor": "~100W", "Apto lavavajillas": "Bol: No, Paleta: Sí", "Dimensiones": "20 × 18 × 23 cm"},
+      "scores": {"Calidad de congelación": 4.2, "Capacidad": 3.5, "Velocidad": 3.0, "Facilidad de uso": 4.8, "Valor": 5.0}
+    },
+    {
+      "offerId": "whynter-icm-200ls-ice-cream-maker",
+      "badge": "Mejor compresor",
+      "review": "El Whynter ICM-200LS elimina por completo la barrera de planificación — compresor integrado, 2,1 cuartos, sin pre-congelado. Mezcla la base, viértela y tendrás helado en 30–40 minutos. La función de pre-enfriado enfría el bol antes de agregar ingredientes, lo que mejora la textura de forma mensurable al empezar el batido más frío. Es posible hacer varias tandas el mismo día. Por $250–300 estás pagando el compresor y la comodidad bajo demanda; la calidad del helado en sí es comparable a la del Cuisinart.",
+      "pros": ["Sin pre-congelado — helado bajo demanda en menos de una hora", "2,1 cuartos — mayor capacidad de esta comparación", "Pre-enfriado + funciones de endurecimiento para mejor control de textura"],
+      "cons": ["Gran huella — requiere espacio fijo en la encimera o armario de suficiente profundidad"],
+      "grade": "A",
+      "specs": {"Capacidad": "2,1 cuartos (aprox. 2 L)", "Tipo": "Compresor integrado", "Tiempo de batido": "30–45 min", "Compresor": "Autónomo", "Nivel de ruido": "~55 dB", "Dimensiones": "40 × 28 × 38 cm"},
+      "scores": {"Calidad de congelación": 4.5, "Capacidad": 5.0, "Velocidad": 4.5, "Facilidad de uso": 4.5, "Valor": 3.8}
+    },
+    {
+      "offerId": "breville-bci600xl-smart-scoop",
+      "badge": "Mejor precisión",
+      "review": "El sensor de dureza automático del Breville Smart Scoop es la característica que lo distingue de otras máquinas de compresor — lee la resistencia del motor a medida que la mezcla se espesa y detiene el batido en tu nivel de firmeza seleccionado (11 ajustes desde soft serve hasta extra firme) sin que tengas que vigilarlo. La función de mantener suave 3 horas mantiene el helado terminado a temperatura de servicio sin volver a endurecer. Para hogares que regularmente hacen gelato, sorbete y helado, el precio premium de $350–400 está justificado.",
+      "pros": ["El sensor de dureza automático elimina las conjeturas entre diferentes tipos de base", "La función keep-soft de 3 horas mantiene la consistencia de servicio", "Modo de pre-enfriado de 30 min para temperatura de inicio óptima"],
+      "cons": ["$350–400 es difícil de justificar para hogares de un solo tipo de base"],
+      "grade": "B+",
+      "specs": {"Capacidad": "1 cuarto (aprox. 0,95 L)", "Tipo": "Compresor integrado", "Ajustes de dureza": "11", "Tiempo de pre-enfriado": "30 min", "Keep-soft": "Hasta 3 horas", "Dimensiones": "39 × 22 × 28 cm"},
+      "scores": {"Calidad de congelación": 4.9, "Capacidad": 3.2, "Velocidad": 4.2, "Facilidad de uso": 4.0, "Valor": 3.2}
+    },
+    {
+      "offerId": "ninja-creami-ice-cream-maker",
+      "badge": "Mejor para bases no estándar",
+      "review": "Ninja Creami no bate — procesa un envase de pinta completamente congelado con cuchillas de alta velocidad, creando una textura suave a partir de un bloque sólido congelado. Esto abre bases que fallarían al batir en cualquier máquina tradicional: alto en proteínas, alto en fibra, solo fruta o bajo en grasa. La textura resultante es notablemente suave. La restricción es el tamaño de la tanda (una pinta a la vez) y el requisito de pre-congelado de 12–24 horas. Para hogares conscientes de la dieta o centrados en proteínas, esta máquina abre opciones que no existen en ningún otro lugar.",
+      "pros": ["Procesa bases altas en proteínas y no estándar que el batido tradicional no puede manejar", "Textura muy suave gracias al procesado con cuchillas", "Las porciones de una pinta son perfectas para una o dos personas"],
+      "cons": ["Una pinta por tanda — los hogares grandes necesitan varios envases pre-congelados"],
+      "grade": "B",
+      "specs": {"Capacidad": "1 pinta por tanda", "Tipo": "Procesador de cuchillas", "Tiempo de pre-congelado": "12–24 horas", "Tiempo de procesado": "~2 min", "Envase": "Envases de pinta dedicados", "Dimensiones": "33 × 15 × 38 cm"},
+      "scores": {"Calidad de congelación": 4.6, "Capacidad": 2.5, "Velocidad": 2.5, "Facilidad de uso": 4.2, "Valor": 4.0}
+    },
+    {
+      "offerId": "kitchenaid-ice-cream-maker-attachment",
+      "badge": "Mejor para propietarios de KitchenAid",
+      "review": "Si ya tienes una batidora de pie KitchenAid, este accesorio añade capacidad para hacer helado por $50–70 sin otra base de motor ocupando espacio en la encimera. Congela el canister (mismo requisito de 24 horas que el Cuisinart), adjúntalo a la batidora y bate durante unos 25–30 minutos. El rendimiento es comparable al Cuisinart ICE-21. La verdadera ventaja es la consolidación de equipos — un aparato menos si ya estás invertido en el ecosistema KitchenAid. Para cualquier persona sin KitchenAid, compra directamente el Cuisinart.",
+      "pros": ["Sin base de motor separada — aprovecha la inversión existente en KitchenAid", "Almacenamiento compacto — solo el bol necesita espacio", "Calidad de batido comparable al Cuisinart independiente"],
+      "cons": ["Solo tiene sentido si ya tienes una batidora de pie KitchenAid"],
+      "grade": "B-",
+      "specs": {"Capacidad": "1,9 cuartos (aprox. 1,8 L)", "Tipo": "Accesorio de canister de pre-congelado", "Compatible con": "Todos los KitchenAid tilt-head y bowl-lift", "Tiempo de batido": "25–30 min", "Apto lavavajillas": "Bol: No", "Almacenamiento": "Solo bol"},
+      "scores": {"Calidad de congelación": 4.0, "Capacidad": 4.2, "Velocidad": 2.8, "Facilidad de uso": 4.5, "Valor": 4.3}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para uso doméstico ocasional", "offerId": "cuisinart-ice-21-ice-cream-maker", "reason": "Mejor relación precio-rendimiento para hogares que hacen helado unas pocas veces al mes y no les molesta planificar 24 horas antes."},
+    {"label": "Para producción bajo demanda", "offerId": "whynter-icm-200ls-ice-cream-maker", "reason": "El compresor integrado significa que no hay que esperar el pre-congelado — varias tandas el mismo día sin planificación."},
+    {"label": "Para precisión con múltiples tipos de base", "offerId": "breville-bci600xl-smart-scoop", "reason": "El sensor de dureza automático se adapta a gelato, sorbete y helado sin monitoreo manual."},
+    {"label": "Para hogares conscientes de la proteína o la dieta", "offerId": "ninja-creami-ice-cream-maker", "reason": "El procesado con cuchillas permite bases altas en proteínas, solo de fruta y bajas en grasa que las máquinas de batido no ejecutan bien."},
+    {"label": "Para propietarios existentes de KitchenAid", "offerId": "kitchenaid-ice-cream-maker-attachment", "reason": "Agrega capacidad para hacer helado sin otro aparato — la elección lógica si ya tienes una KitchenAid."}
+  ]
 }

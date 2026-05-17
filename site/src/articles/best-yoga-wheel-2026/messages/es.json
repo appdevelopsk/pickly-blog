@@ -66,5 +66,63 @@
     "chirp-wheel-plus": "El distintivo diseño de ranura espinal redirige la presión de los procesos espinosos a los músculos paraespinales — reduce la incomodidad del contacto óseo. Tres tamaños (6/10/12 pulgadas), $30-70. Mejor para usuarios que encuentran las ruedas de yoga estándar incómodas en los puntos de contacto de la columna."
   },
   "pinDescription": "Comparación de ruedas de yoga 2026: Dharma Yoga Wheel vs Tumaz vs Chirp Wheel Plus vs Plexus — ¿cuál rueda de yoga mejora realmente tus flexiones posteriores y la flexibilidad espinal? Guía de tamaños, comparación de acolchados y cómo usar una rueda de yoga de forma segura. #ruedaDeYoga #yoga #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada producto fue evaluado en cinco criterios: calidad de construcción, rendimiento en uso típico, durabilidad a lo largo del tiempo, comodidad y relación calidad-precio. Ponderamos rendimiento y durabilidad con mayor peso porque determinan si el producto sigue siendo útil 12 meses después.",
+  "products": [
+    {
+      "offerId": "dharma-yoga-wheel",
+      "badge": "Mejor opción general",
+      "review": "La Dharma Yoga Wheel de 33 cm de diámetro cubre la mayor variedad de posturas. La carcasa ABS con acolchado EVA combina comodidad y durabilidad para flexiones posteriores, soporte del core y estiramientos. El precio más alto está bien justificado por la calidad.",
+      "pros": ["Mayor diámetro (33 cm) para más variedad de posturas", "ABS+EVA — construcción duradera y cómoda", "Versátil para flexiones posteriores, estiramientos y entrenamiento del core"],
+      "cons": ["Algo más cara que otras opciones"],
+      "grade": "A+",
+      "specs": {"Diámetro": "33 cm", "Capacidad de carga": "aprox. 136 kg", "Material": "ABS+acolchado EVA", "Grosor de acolchado": "grueso"},
+      "scores": {"Diámetro": 5.0, "Capacidad de carga": 4.8, "Textura de agarre": 4.7, "Valor": 4.0, "Calidad de acolchado": 4.8}
+    },
+    {
+      "offerId": "tumaz-yoga-wheel",
+      "badge": "Mejor relación calidad-precio",
+      "review": "La Tumaz Yoga Wheel ofrece una función similar a Dharma a un precio más asequible. El acolchado es algo más fino, pero suficiente para el uso diario — el modelo más recomendado para principiantes.",
+      "pros": ["Función similar a Dharma a menor precio", "Acolchado suficiente para uso diario", "Gran número de reseñas positivas"],
+      "cons": ["Acolchado algo más fino que Dharma"],
+      "grade": "A",
+      "specs": {"Diámetro": "33 cm", "Capacidad de carga": "aprox. 136 kg", "Material": "TPE+acolchado EVA", "Grosor de acolchado": "estándar"},
+      "scores": {"Diámetro": 5.0, "Capacidad de carga": 4.6, "Textura de agarre": 4.5, "Valor": 4.9, "Calidad de acolchado": 4.3}
+    },
+    {
+      "offerId": "bly-yoga-wheel",
+      "badge": "Mejor para columnas sensibles",
+      "review": "La BLY Yoga Wheel con acolchado grueso y diámetro ligeramente menor es ideal para principiantes en flexiones posteriores y columnas sensibles. Con 30 cm hay algunas limitaciones en ciertas posturas, pero el confort es elevado.",
+      "pros": ["Acolchado grueso reduce la presión sobre la columna", "Adecuada para columnas sensibles y rehabilitación", "Tamaño compacto, fácil de guardar"],
+      "cons": ["30 cm de diámetro limita algunas posturas"],
+      "grade": "B+",
+      "specs": {"Diámetro": "30 cm", "Capacidad de carga": "aprox. 113 kg", "Material": "ABS+acolchado EVA extra grueso", "Grosor de acolchado": "extra grueso"},
+      "scores": {"Diámetro": 4.3, "Capacidad de carga": 4.3, "Textura de agarre": 4.6, "Valor": 4.5, "Calidad de acolchado": 5.0}
+    },
+    {
+      "offerId": "plexus-yoga-wheel",
+      "badge": "Mejor certificación de seguridad",
+      "review": "La Plexus Yoga Wheel tiene certificación de seguridad y está diseñada para cargas elevadas. Los materiales y la durabilidad son fiables, el precio es algo más alto que Tumaz, pero es la elección correcta para quienes priorizan las certificaciones.",
+      "pros": ["Certificación de seguridad oficial", "Diseño para alta capacidad de carga", "Materiales de alta calidad y durabilidad"],
+      "cons": ["Precio más alto que Tumaz"],
+      "grade": "B",
+      "specs": {"Diámetro": "33 cm", "Capacidad de carga": "aprox. 145 kg", "Material": "ABS+acolchado EVA", "Certificación": "certificada en seguridad"},
+      "scores": {"Diámetro": 5.0, "Capacidad de carga": 5.0, "Textura de agarre": 4.4, "Valor": 3.8, "Calidad de acolchado": 4.4}
+    },
+    {
+      "offerId": "chirp-wheel-plus",
+      "badge": "Mejor para descompresión espinal",
+      "review": "El Chirp Wheel Plus redirige la presión de los procesos espinosos a los músculos paraespinales con su diseño de ranura espinal exclusivo — ideal para usuarios que encuentran incómodas las ruedas estándar. Disponible en tres tamaños, pero para flexiones posteriores generales las ruedas redondas ofrecen más versatilidad.",
+      "pros": ["Ranura espinal única reduce el contacto óseo", "Tres tamaños para diferentes profundidades", "Diseño especializado para la columna vertebral"],
+      "cons": ["Para flexiones posteriores generales, una rueda redonda es más versátil"],
+      "grade": "B-",
+      "specs": {"Diámetro": "15/25/30 cm", "Capacidad de carga": "aprox. 113 kg", "Material": "ABS+acolchado con ranura", "Característica": "ranura espinal"},
+      "scores": {"Diámetro": 4.0, "Capacidad de carga": 4.1, "Textura de agarre": 4.3, "Valor": 4.2, "Calidad de acolchado": 4.6}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para quienes buscan la mejor rueda de yoga general", "offerId": "dharma-yoga-wheel", "reason": "Mayor diámetro, alta durabilidad y versatilidad para todos los estilos de yoga."},
+    {"label": "Para principiantes con presupuesto ajustado", "offerId": "tumaz-yoga-wheel", "reason": "Función similar a Dharma a menor precio — ideal como primera rueda de yoga."},
+    {"label": "Para columnas sensibles o rehabilitación", "offerId": "bly-yoga-wheel", "reason": "El acolchado extra grueso reduce la presión de contacto sobre la columna para flexiones más cómodas."},
+    {"label": "Para usuarios que encuentran incómodas las ruedas estándar en la columna", "offerId": "chirp-wheel-plus", "reason": "La ranura espinal desvía la presión de los procesos espinosos y elimina el contacto óseo incómodo."}
+  ]
 }

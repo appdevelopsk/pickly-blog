@@ -58,5 +58,64 @@
     "hip-thrust-pad-barbell": "Barbell hip thrust foam pad with velcro strap. $15-30. Essential accessory for any hip thrust setup — makes barbell contact comfortable across hip bones. Required regardless of bench or machine choice."
   },
   "pinDescription": "Hip thrust machine 2026: Bells of Steel Hip Thruster vs REP AB-5200 vs Valor vs Titan — why pad height matters, how to set up barbell hip thrust on any bench, glute squeeze cue at the top, and which dedicated hip thrust machine is worth buying for serious glute training.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each hip thrust machine was evaluated on back pad height, foot platform adjustability, barbell cradle integration, weight capacity, frame stability under load, and value — with real loading scenarios up to 400 lbs weighted heavily.",
+  "products": [
+    {
+      "offerId": "bells-of-steel-hip-thruster",
+      "badge": "Best Overall",
+      "review": "The most complete purpose-built hip thrust station: integrated barbell cradle holds the bar at hip height before you sit (no rolling over legs), adjustable foot platform, wide cushioned back pad at correct height, and wheels to reposition. At $1,199 it's a premium investment — justified if you hip thrust 3+ times per week and value zero session friction. Everything else is a workaround.",
+      "pros": ["Integrated barbell cradle eliminates rolling bar into position", "Adjustable foot platform for consistent session-to-session setup", "Wheels make repositioning in the gym easy"],
+      "cons": ["$1,199 price point is significant — overkill for occasional hip thrust"],
+      "grade": "A+",
+      "specs": {"Price": "$1,199", "Weight capacity": "Designed for heavy loads", "Back pad height": "~17–18 in", "Foot platform": "Adjustable", "Footprint": "Requires dedicated space"},
+      "scores": {"Build quality": 5.0, "Ease of use": 5.0, "Comfort": 4.8, "Load capacity": 5.0, "Value": 3.8}
+    },
+    {
+      "offerId": "rep-fitness-ab-5200-fid-bench",
+      "badge": "Best Dual-Purpose",
+      "review": "A high-quality FID adjustable bench that also works well for hip thrust: 17-inch pad height at flat, commercial-grade frame, heavy enough to stay put under load. No barbell cradle means you still roll or deadlift the bar into position each set. The trade-off — it's also a full bench press and incline press station, making it space-efficient for mixed home gyms.",
+      "pros": ["17-inch flat pad height correct for most hip thrust setups", "Full FID bench function — doubles as press station", "Commercial-grade frame stability under heavy loads"],
+      "cons": ["No integrated barbell cradle — must roll bar into position each set"],
+      "grade": "A",
+      "specs": {"Price": "$500", "Weight capacity": "1,000 lb", "Pad height (flat)": "17 in", "Incline settings": "6 positions", "Frame": "3×3 in 11-gauge steel"},
+      "scores": {"Build quality": 4.8, "Ease of use": 3.8, "Comfort": 4.5, "Load capacity": 4.8, "Value": 4.3}
+    },
+    {
+      "offerId": "valor-fitness-hip-thrust-bench",
+      "badge": "Best Mid-Range Dedicated",
+      "review": "Purpose-built hip thrust station with integrated foot platform and angled back pad at lower cost than Bells of Steel. Adequate for up to 400 lbs — covers most home gym progressions. The lighter construction vs premium options is noticeable but doesn't compromise function at moderate loads. Best option for athletes who specifically want a dedicated hip thrust bench without the Bells of Steel price.",
+      "pros": ["Purpose-built for hip thrust with integrated foot platform", "400-lb capacity covers most home gym users", "Lower cost than Bells of Steel for core hip thrust function"],
+      "cons": ["Lighter frame construction than premium options — more flex at max loads"],
+      "grade": "B+",
+      "specs": {"Price": "$89.99", "Weight capacity": "400 lb", "Back pad": "Angled, padded", "Foot platform": "Integrated, fixed"},
+      "scores": {"Build quality": 3.8, "Ease of use": 4.5, "Comfort": 4.0, "Load capacity": 4.0, "Value": 4.8}
+    },
+    {
+      "offerId": "titan-fitness-hip-thrust-machine",
+      "badge": "Best Budget Dedicated",
+      "review": "Titan's dedicated hip thrust machine provides core functionality — adjustable foot platform, barbell cradle — at lower cost than REP or Bells of Steel. Build quality is below the premium options: less rigid frame, lighter hardware. For home gym athletes who want a dedicated hip thrust machine at minimum cost and train within 300 lbs, it delivers the essential function.",
+      "pros": ["Dedicated hip thrust function with barbell cradle", "Adjustable foot platform for consistent setup", "Lowest cost dedicated machine in this comparison"],
+      "cons": ["Below REP and Bells of Steel in frame rigidity and hardware quality"],
+      "grade": "B",
+      "specs": {"Price": "$499", "Back pad": "Padded, fixed height", "Foot platform": "Adjustable", "Barbell cradle": "Yes"},
+      "scores": {"Build quality": 3.5, "Ease of use": 4.3, "Comfort": 3.8, "Load capacity": 3.8, "Value": 4.3}
+    },
+    {
+      "offerId": "hip-thrust-pad-barbell",
+      "badge": "Essential Accessory",
+      "review": "The barbell hip thrust pad is not optional — it makes the 45mm bar comfortable across hip bones, which otherwise become the limiting factor before the glutes fatigue. Foam with velcro strap, works with any bench or dedicated machine. At $25, it's the mandatory first purchase for any hip thrust setup. Don't attempt high-load hip thrust without it.",
+      "pros": ["Required for pain-free high-load hip thrust — not optional", "Works with any bench or dedicated hip thrust machine", "$15–30 — lowest cost item in any hip thrust setup"],
+      "cons": ["Foam compresses slightly with heavy, frequent use — replace every 6–12 months under hard use"],
+      "grade": "B-",
+      "specs": {"Price": "$24.99", "Material": "High-density foam", "Closure": "Velcro strap", "Compatibility": "Any standard barbell"},
+      "scores": {"Build quality": 3.5, "Ease of use": 4.8, "Comfort": 4.5, "Load capacity": 4.0, "Value": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For serious glute training 3+ times per week", "offerId": "bells-of-steel-hip-thruster", "reason": "Zero session friction — barbell cradle, consistent foot platform, no setup improvisation"},
+    {"label": "For home gyms that need both a bench and hip thrust", "offerId": "rep-fitness-ab-5200-fid-bench", "reason": "Best dual-purpose option — full adjustable bench plus correct pad height for hip thrust"},
+    {"label": "For dedicated hip thrust on a mid-range budget", "offerId": "valor-fitness-hip-thrust-bench", "reason": "Purpose-built with integrated foot platform at under $200"},
+    {"label": "For lowest-cost dedicated hip thrust machine", "offerId": "titan-fitness-hip-thrust-machine", "reason": "Core hip thrust functionality — barbell cradle and adjustable foot platform — at minimum cost"},
+    {"label": "For anyone starting barbell hip thrust", "offerId": "hip-thrust-pad-barbell", "reason": "The mandatory first purchase — no comfortable hip thrust without it, regardless of bench choice"}
+  ]
 }

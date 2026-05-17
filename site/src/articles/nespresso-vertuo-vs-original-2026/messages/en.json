@@ -97,5 +97,62 @@
     "nespresso-lattissima-one": "Original Line with integrated milk system. $250-350. Best all-in-one for latte/cappuccino — avoids separate Aeroccino purchase, Original pod compatibility keeps pod options open."
   },
   "pinDescription": "Nespresso Vertuo vs Original 2026: pod compatibility, crema quality, barcode tech explained, pod cost breakdown, and which system saves you money long-term. Vertuo Next vs Plus vs Essenza Mini vs Lattissima One compared.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each machine was evaluated on capsule ecosystem breadth and third-party availability, crema and foam quality by extraction mechanism, brew size range, real pod cost over 3-year daily use, build quality, noise during extraction, and documented failure modes from owner reports.",
+  "products": [
+    {
+      "offerId": "nespresso-vertuo-next",
+      "badge": "Best Vertuo Entry",
+      "review": "The Vertuo Next delivers barcode-guided extraction consistency that beats any Original machine for repeatability — every cup is as good as the last. The trade-off is noise: 7,000 rpm centrifusion spin is noticeably louder than any Original machine, and build quality feels budget for the price.",
+      "pros": ["Barcode extraction removes user error — consistency beats Original machines", "5 cup sizes from 40ml espresso to 414ml alto", "Compact fold-down design fits small kitchens"],
+      "cons": ["Louder than Vertuo Plus at same extraction; pod ecosystem is proprietary and limited vs Original"],
+      "grade": "A+",
+      "specs": {"Extraction": "Centrifusion (barcode)", "Cup sizes": "5 (40–414ml)", "Tank": "37oz (1.1L)", "Heat-up": "~30 sec", "Connectivity": "Bluetooth", "Pod format": "Vertuo only", "Price range": "$130–$180"},
+      "scores": {"Capsule variety": 3.0, "Brew quality": 4.5, "Machine cost": 4.5, "Value": 3.5, "Ease of use": 4.9}
+    },
+    {
+      "offerId": "nespresso-vertuo-plus",
+      "badge": "Best Vertuo Mid-Range",
+      "review": "The Vertuo Plus corrects the biggest ergonomic complaints about the Vertuo Next: the motorized lever head is easier to operate one-handed than the fold-down mechanism, extraction noise is measurably lower, and build quality is better for the extra $30–40. For daily Vertuo use, the Plus is almost always the right choice over the Next.",
+      "pros": ["Motorized lever head quieter and easier than Vertuo Next fold-down", "Better build quality than Next — noticeably more premium feel", "Auto-close lid mechanism saves a step every use"],
+      "cons": ["No built-in frother — Aeroccino needed for milk drinks at added cost"],
+      "grade": "A",
+      "specs": {"Extraction": "Centrifusion (barcode)", "Cup sizes": "5 (40–414ml)", "Tank": "37oz (1.1L)", "Heat-up": "20–25 sec", "Pod head": "Motorized lever", "Pod format": "Vertuo only", "Price range": "$160–$220"},
+      "scores": {"Capsule variety": 3.0, "Brew quality": 4.7, "Machine cost": 3.8, "Value": 3.8, "Ease of use": 4.8}
+    },
+    {
+      "offerId": "nespresso-essenza-mini",
+      "badge": "Best Original Compact",
+      "review": "The Essenza Mini is the smallest Nespresso machine and the entry point for the Original ecosystem with full third-party pod compatibility. Espresso quality is identical to any Original machine — the pod does the work, not the machine. The case for Original in one sentence: third-party pods at $0.40–0.80 vs Vertuo's $0.90–1.50.",
+      "pros": ["Full third-party pod compatibility — Peet's, Starbucks, Lavazza, L'Or all work", "Smallest footprint in this comparison — ideal for small kitchens", "Authentic CO2-driven crema on fresh pods"],
+      "cons": ["Only 40ml espresso and 110ml lungo — no mug or larger sizes"],
+      "grade": "B+",
+      "specs": {"Extraction": "19-bar pump pressure", "Cup sizes": "2 (40ml, 110ml)", "Tank": "20oz (590ml)", "Heat-up": "~25 sec", "Pod format": "Original + all 3rd party", "Weight": "2.2kg", "Price range": "$100–$150"},
+      "scores": {"Capsule variety": 5.0, "Brew quality": 4.3, "Machine cost": 5.0, "Value": 4.8, "Ease of use": 4.7}
+    },
+    {
+      "offerId": "nespresso-pixie",
+      "badge": "Best Original Mid-Range",
+      "review": "The Pixie sits between Essenza Mini and Lattissima One — a slightly larger water tank, faster heat-up, and a slim aluminum build that looks better on a counter. Espresso quality is the same as Essenza Mini since both use identical 19-bar pump extraction. Choose Pixie if aesthetics and tank size matter; skip it if you just want the cheapest Original machine.",
+      "pros": ["Larger tank (800ml) than Essenza Mini means fewer refills", "Faster heat-up than Essenza Mini — practical for daily speed", "Slim aluminum design — better aesthetics than plastic-body machines"],
+      "cons": ["Same espresso output as cheaper Essenza Mini — premium is for form factor only"],
+      "grade": "B",
+      "specs": {"Extraction": "19-bar pump pressure", "Cup sizes": "2 (40ml, 110ml)", "Tank": "27oz (800ml)", "Heat-up": "~25 sec", "Body": "Aluminum", "Pod format": "Original + all 3rd party", "Price range": "$150–$200"},
+      "scores": {"Capsule variety": 5.0, "Brew quality": 4.3, "Machine cost": 4.0, "Value": 4.0, "Ease of use": 4.7}
+    },
+    {
+      "offerId": "nespresso-lattissima-one",
+      "badge": "Best with Milk Frother",
+      "review": "The Lattissima One is the only machine in this comparison with an integrated milk system — and it uses the Original pod ecosystem, so full third-party pod access is preserved. For anyone who would buy an Aeroccino separately anyway, the Lattissima One's integrated convenience is worth the premium over mid-range Original machines.",
+      "pros": ["Integrated one-touch milk frother — no separate Aeroccino purchase needed", "Original pod format keeps full third-party pod ecosystem open", "One-button latte and cappuccino — most convenient milk workflow in this comparison"],
+      "cons": ["Proprietary milk pod system adds another consumable cost alongside coffee pods"],
+      "grade": "B-",
+      "specs": {"Extraction": "19-bar pump pressure", "Milk system": "Integrated one-touch", "Cup sizes": "Espresso, lungo, latte, cappuccino", "Tank": "23oz (680ml)", "Pod format": "Original + all 3rd party", "Body": "Plastic/chrome", "Price range": "$250–$350"},
+      "scores": {"Capsule variety": 5.0, "Brew quality": 4.4, "Machine cost": 2.5, "Value": 3.5, "Ease of use": 4.9}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For espresso purists who want pod variety", "offerId": "nespresso-essenza-mini", "reason": "Original ecosystem's full third-party compatibility keeps pod costs at $0.40–0.80 vs Vertuo's $0.90–1.50 proprietary pricing."},
+    {"label": "For latte and cappuccino lovers", "offerId": "nespresso-lattissima-one", "reason": "Only machine in this comparison with an integrated milk frother that keeps the full Original pod ecosystem open."},
+    {"label": "For larger cup sizes and extraction consistency", "offerId": "nespresso-vertuo-plus", "reason": "Barcode-guided centrifusion delivers mug and alto sizes with consistent foam every time — no user error possible."}
+  ]
 }

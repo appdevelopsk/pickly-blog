@@ -89,5 +89,62 @@
     "panasonic-eh-na0j": "Meilleur pour le contrôle quotidien du frisottis et des dommages — la technologie nanoe a de vraies publications de recherche, mode cuir chevelu à 60°C, garantie domestique japonaise. Note : c'est un sèche-cheveux, pas un coiffeur boucleur ; mauvais choix si la création de boucles est l'objectif."
   },
   "pinDescription": "Dyson Airwrap vs Shark FlexStyle vs GHD Max vs options économiques — comparaison honnête 2026 sur la compatibilité avec le type de cheveux, le vrai risque de dommages thermiques et si l'écart de prix se voit vraiment dans le résultat. #OutilsCheveux #français",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "Chaque outil a été évalué sur le mécanisme de chaleur (flux d'air Coanda vs plaque directe), la compatibilité avec le type de cheveux, la durée de la courbe d'apprentissage selon les retours d'utilisateurs, le temps de séance réel sur cheveux épais vs fins, et le coût par utilisation sur 3 ans à fréquence typique.",
+  "products": [
+    {
+      "offerId": "dyson-airwrap-multi-styler",
+      "badge": "Meilleur au global",
+      "review": "Le mécanisme de flux d'air Coanda de l'Airwrap enroule les cheveux à ~150°C sans contact direct de plaque — chaleur transmise bien inférieure à un fer plat à 200°C+. Sur les cheveux fins à moyens, il produit des vagues et un volume naturels qu'aucun fer plat ne peut reproduire. Le vrai compromis est la courbe d'apprentissage de 2–4 semaines et son échec sur les cheveux épais ou grossiers où le flux d'air ne peut pas pénétrer les sections denses efficacement.",
+      "pros": ["Barillet Coanda à ~150°C — chaleur moindre que les fers plats à 185–220°C", "Vagues et volume naturels sur cheveux fins/moyens — impossibles à reproduire avec un fer plat", "Plusieurs accessoires pour sécher, onduler et lisser en un seul appareil"],
+      "cons": ["Courbe d'apprentissage de 2–4 semaines pour des résultats constants; mauvais sur cheveux épais ou grossiers"],
+      "grade": "A+",
+      "specs": {"Technologie": "Flux d'air Coanda", "Temp. du barillet": "~150°C", "Prix (JP)": "¥66 000–¥80 000", "Type de cheveux": "Fins à moyens", "Courbe d'apprentissage": "2–4 semaines", "Méthode de coiffage": "Enroulement par air (sans contact de plaque)", "Inclus": "Plusieurs accessoires"},
+      "scores": {"Heat performance": 4.5, "Hair protection": 4.8, "Build quality": 4.9, "Value": 3.0, "Ease of use": 3.5}
+    },
+    {
+      "offerId": "shark-flexstyle",
+      "badge": "Meilleur rapport qualité-prix Coanda",
+      "review": "Le FlexStyle offre le même mécanisme à effet Coanda que l'Airwrap à environ 60% du prix, et ajoute un mode sèche-cheveux dont l'Airwrap est dépourvu. Le choix de valeur le plus honnête pour les cheveux d'épaisseur moyenne ou ondulés. Pour les acheteurs au Japon : uniquement disponible en importation parallèle (120V américain) fonctionnant avec un flux d'air réduit sur le 100V japonais.",
+      "pros": ["Même mécanisme à effet Coanda que le Dyson Airwrap à ~60% du prix", "Inclut un mode sèche-cheveux — l'Airwrap n'a pas de fonction de séchage", "Meilleur rapport résultat-prix dans cette comparaison pour les cheveux ondulés"],
+      "cons": ["Uniquement importation parallèle au Japon — modèle nord-américain 120V fonctionne avec flux réduit sur 100V; aucune garantie domestique"],
+      "grade": "A",
+      "specs": {"Technologie": "Flux d'air Coanda + sèche-cheveux", "Prix (JP)": "¥35 000–¥45 000 (import. parallèle)", "Type de cheveux": "Moyen à ondulé", "Voltage": "120V (vérifier avant achat au Japon)", "Inclus": "Accessoires styler + tête sèche-cheveux", "Courbe d'apprentissage": "1–3 semaines", "Garantie": "Aucune au Japon"},
+      "scores": {"Heat performance": 4.3, "Hair protection": 4.5, "Build quality": 4.3, "Value": 4.7, "Ease of use": 3.8}
+    },
+    {
+      "offerId": "revlon-one-step-volumizer",
+      "badge": "Meilleur petit prix",
+      "review": "Le Revlon One-Step combine une brosse ronde et un sèche-cheveux en un seul outil — sécher et ajouter du volume simultanément à des températures de sèche-cheveux normales (~80–100°C). Sans courbe d'apprentissage, disponible pour ¥4 000–6 000. Il ne peut pas produire de boucles définies ni de vagues comme les outils Coanda. Cette limitation est toute son identité : le chemin le plus rapide vers un volume blowout sur cheveux lisses.",
+      "pros": ["Sans courbe d'apprentissage — intuitif dès la première utilisation", "Prix ¥4 000–¥6 000 — outil le plus accessible de cette comparaison", "Chaleur à température de sèche-cheveux (~80–100°C) — aucun dommage supplémentaire par rapport à un séchage normal"],
+      "cons": ["Ne peut pas produire de boucles ni de vagues — volume blowout uniquement; ne remplace pas les outils Coanda"],
+      "grade": "B+",
+      "specs": {"Technologie": "Brosse ronde + sèche-cheveux", "Prix (JP)": "¥4 000–¥6 000", "Type de cheveux": "Lisse, recherchant du volume", "Plage de chaleur": "~80–100°C (temp. sèche-cheveux)", "Courbe d'apprentissage": "Aucune", "Capacité à boucler": "Aucune — blowout uniquement", "Poids": "~1,2 kg"},
+      "scores": {"Heat performance": 3.5, "Hair protection": 4.2, "Build quality": 3.2, "Value": 5.0, "Ease of use": 5.0}
+    },
+    {
+      "offerId": "ghd-max-styler",
+      "badge": "Meilleur pour cheveux épais",
+      "review": "Les larges plaques en céramique du GHD Max à 185–220°C avec chauffage prédictif en font l'outil de choix pour les cheveux épais, longs ou résistants où le flux d'air Coanda est trop lent. Une séance sur des cheveux grossiers jusqu'à la taille prend 20 minutes avec le Max contre 45–60 minutes avec un Airwrap. Le contact direct de plaque signifie que le spray thermoprotecteur n'est pas optionnel; les importations parallèles n'ont aucune garantie domestique au Japon.",
+      "pros": ["Résultats les plus rapides sur cheveux épais, longs ou résistants — plaques couvrent plus par passage", "Chauffage prédictif 185–220°C maintient une température constante dans les sections denses", "Outil de niveau professionnel utilisé par les coiffeurs de salon sur les types de cheveux difficiles"],
+      "cons": ["Contact direct de plaque à 185–220°C — spray thermoprotecteur requis à chaque séance; importation parallèle, aucune garantie au Japon"],
+      "grade": "B",
+      "specs": {"Technologie": "Fer plat large en céramique", "Temp. des plaques": "185–220°C (prédictif)", "Prix (JP)": "¥35 000–¥45 000 (import. parallèle)", "Type de cheveux": "Épais, longs, résistants", "Largeur des plaques": "Large (plus de cheveux par passage)", "Garantie": "Aucune au Japon", "Durée de séance (ch. épais)": "~20 min"},
+      "scores": {"Heat performance": 5.0, "Hair protection": 3.0, "Build quality": 4.5, "Value": 3.8, "Ease of use": 4.5}
+    },
+    {
+      "offerId": "panasonic-eh-na0j",
+      "badge": "Meilleur pour le marché japonais",
+      "review": "Le Panasonic EH-NA0J est un sèche-cheveux, pas un styler — son objectif est le contrôle du frisottis et la rétention d'hydratation via la technologie d'ions nanoe X, soutenue par des recherches publiées par Panasonic. Garantie domestique japonaise, mode de protection du cuir chevelu à 60°C et réseau de service complet en font l'outil quotidien le moins risqué de cette liste.",
+      "pros": ["Garantie domestique complète au Japon et réseau de réparation — achat le moins risqué dans cette comparaison", "La technologie nanoe X dispose de recherches publiées sur le frisottis et l'hydratation", "Mode cuir chevelu 60°C prévient la surchauffe lors d'une utilisation quotidienne"],
+      "cons": ["C'est un sèche-cheveux — pas adapté si boucler, onduler ou lisser est l'objectif principal"],
+      "grade": "B-",
+      "specs": {"Technologie": "Sèche-cheveux nanoe X", "Prix (JP)": "¥22 000–¥30 000", "Mode cuir chevelu": "60°C", "Type de cheveux": "Tous (séchage/contrôle frisottis)", "Garantie": "Garantie domestique complète au Japon", "Objectif": "Contrôle du frisottis + rétention d'hydratation", "Capacité à boucler": "Aucune"},
+      "scores": {"Heat performance": 3.8, "Hair protection": 5.0, "Build quality": 4.5, "Value": 4.2, "Ease of use": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour cheveux fins ou moyens souhaitant des vagues naturelles", "offerId": "dyson-airwrap-multi-styler", "reason": "Le flux d'air Coanda à ~150°C produit des vagues et du volume sur cheveux fins/moyens qu'aucun fer plat ne peut reproduire."},
+    {"label": "Pour cheveux épais ou grossiers nécessitant des résultats rapides", "offerId": "ghd-max-styler", "reason": "Les larges plaques à 185–220°C réduisent le temps de séance sur cheveux résistants de 45–60 à 20 minutes."},
+    {"label": "Pour contrôle quotidien du frisottis avec garantie au Japon", "offerId": "panasonic-eh-na0j", "reason": "Garantie domestique complète, mode cuir chevelu 60°C et technologie nanoe X avec recherche publiée — risque le plus faible pour l'usage quotidien."}
+  ]
 }

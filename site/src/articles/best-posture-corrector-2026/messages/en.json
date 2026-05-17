@@ -88,5 +88,170 @@
     "truweo-posture-corrector": "Most adjustable passive brace — dual velcro system allows fine-tuning tension. Velcro snags on clothing and hair; over-tightening can cause arm tingling from nerve compression; start at loosest setting; same muscle dependency risk as other passive braces.",
     "back-brace-posture-corrector": "Full lumbar support brace for standing and loading — different problem from desk-posture thoracic rounding. Too bulky for seated office use; addresses lower back only, not shoulder or neck posture; muscle dependency applies to spinal erector muscles with prolonged use."
   },
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on correction mechanism (active biofeedback vs passive brace), muscle dependency risk, real-world comfort during a workday, discreteness under clothing, and the evidence base supporting each approach.",
+  "products": [
+    {
+      "offerId": "upright-go-2",
+      "badge": "Best Active Trainer",
+      "review": "The Upright GO 2 is the only active biofeedback device in this comparison — it vibrates when you slouch and tracks improvement through an app rather than physically holding your body in position. This avoids the muscle dependency problem that passive braces create. The limitation is coverage: upper back and neck only, no lower back or hip positioning.",
+      "pros": [
+        "Active biofeedback trains posture without creating muscle dependency",
+        "App tracks improvement over weeks for a data-driven approach",
+        "Discreet adhesive sensor fits under clothing"
+      ],
+      "cons": [
+        "Covers upper back only — no lower back, hip, or neck corrections"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Type": "Active biofeedback (vibration)",
+        "Placement": "Upper back adhesive",
+        "App": "Yes — tracks posture over time",
+        "Battery": "Rechargeable",
+        "Price (US)": "~$100"
+      },
+      "scores": {
+        "Correction effectiveness": 4.5,
+        "Comfort": 4.2,
+        "Discreetness": 4.8,
+        "Value": 3.8,
+        "Ease of use": 4.5
+      }
+    },
+    {
+      "offerId": "comfymed-posture-brace",
+      "badge": "Best Classic Brace",
+      "review": "The ComfyMed figure-8 shoulder brace physically pulls shoulders back and down during short proprioceptive sessions. It fits under clothing and provides clear tactile feedback on posture. The critical limitation: used for more than 20–30 minutes per session, it does the muscle's job for them — creating dependency rather than correction.",
+      "pros": [
+        "Strong proprioceptive feedback — you feel posture change immediately",
+        "Fits under clothing for discreet wear",
+        "Low price for basic short-session use"
+      ],
+      "cons": [
+        "Highest muscle dependency risk in category — passive holding creates reliance if worn all day"
+      ],
+      "grade": "A",
+      "specs": {
+        "Type": "Passive figure-8 shoulder brace",
+        "Material": "Elastic fabric",
+        "Wear time": "20–30 min sessions recommended",
+        "Price (US)": "~$28"
+      },
+      "scores": {
+        "Correction effectiveness": 4.0,
+        "Comfort": 3.5,
+        "Discreetness": 4.2,
+        "Value": 4.8,
+        "Ease of use": 4.6
+      }
+    },
+    {
+      "offerId": "fitletic-posture-corrector",
+      "badge": "Best for Active Wear",
+      "review": "The Fitletic's lightweight elastic construction makes it the most comfortable passive option for active use — wearable during walks, errands, or light activity without restricting movement. The lighter construction also means less pulling force, making it insufficient for significant thoracic kyphosis. Elastic degrades with repeated washing within 3–6 months.",
+      "pros": [
+        "Lightest and most comfortable passive brace for active movement",
+        "Low profile fits under any clothing",
+        "Appropriate for mild posture awareness during daily activity"
+      ],
+      "cons": [
+        "Light construction provides insufficient force for significant thoracic kyphosis"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Type": "Passive elastic shoulder brace",
+        "Construction": "Lightweight elastic",
+        "Lifespan": "~3–6 months with regular washing",
+        "Price (US)": "~$30"
+      },
+      "scores": {
+        "Correction effectiveness": 3.5,
+        "Comfort": 4.6,
+        "Discreetness": 4.7,
+        "Value": 4.4,
+        "Ease of use": 4.8
+      }
+    },
+    {
+      "offerId": "truweo-posture-corrector",
+      "badge": "Best Adjustable Brace",
+      "review": "The Truweo's dual velcro system provides the most precise tension adjustment of any passive brace here — you can dial in exactly how much shoulder retraction force you want. The trade-off is velcro snagging on clothing and hair, and over-tightening can cause arm tingling from nerve compression. Always start at the loosest setting.",
+      "pros": [
+        "Dual velcro for precise tension adjustment — most configurable passive brace",
+        "Unisex design fits a wide range of body types",
+        "Clear size guide for correct fit"
+      ],
+      "cons": [
+        "Velcro snags on clothing and hair; over-tightening risks arm tingling from nerve compression"
+      ],
+      "grade": "B",
+      "specs": {
+        "Type": "Passive clavicle brace",
+        "Adjustment": "Dual velcro tension system",
+        "Design": "Unisex",
+        "Price (US)": "~$27"
+      },
+      "scores": {
+        "Correction effectiveness": 3.8,
+        "Comfort": 3.4,
+        "Discreetness": 3.8,
+        "Value": 4.6,
+        "Ease of use": 3.8
+      }
+    },
+    {
+      "offerId": "back-brace-posture-corrector",
+      "badge": "Best for Lower Back",
+      "review": "The Mueller Back Brace addresses lower back loading specifically — the rigid panel with adjustable side compression is appropriate for standing workers and physical loading tasks. It does not help thoracic kyphosis or rounded shoulders, and it's too bulky for seated office use. Use case is narrow but genuine for its intended purpose.",
+      "pros": [
+        "Rigid panel provides real support for standing work and physical loading",
+        "Adjustable side compression for personalized lumbar support",
+        "Covers lower back — the only product here targeting this zone"
+      ],
+      "cons": [
+        "Too bulky for seated office use; does not address upper back, shoulders, or neck"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Passive lumbar support brace",
+        "Panel": "Rigid with adjustable side compression",
+        "Coverage": "Lower back only",
+        "Price (US)": "~$25"
+      },
+      "scores": {
+        "Correction effectiveness": 3.8,
+        "Comfort": 3.0,
+        "Discreetness": 2.5,
+        "Value": 4.5,
+        "Ease of use": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For desk workers who want to train posture, not brace it",
+      "offerId": "upright-go-2",
+      "reason": "Active biofeedback builds posture habit without the muscle dependency that passive braces create with all-day wear."
+    },
+    {
+      "label": "For short proprioceptive reminder sessions (20–30 min)",
+      "offerId": "comfymed-posture-brace",
+      "reason": "Strong tactile feedback at the lowest price — effective when used briefly as a cue, not as a structural support."
+    },
+    {
+      "label": "For active daily use during movement and errands",
+      "offerId": "fitletic-posture-corrector",
+      "reason": "Lightest passive option — comfortable for walking and light activity without restricting movement."
+    },
+    {
+      "label": "For users who want a precisely adjustable brace",
+      "offerId": "truweo-posture-corrector",
+      "reason": "Dual velcro tension system gives the most precise control over shoulder retraction force in the passive brace category."
+    },
+    {
+      "label": "For standing workers with lower back strain",
+      "offerId": "back-brace-posture-corrector",
+      "reason": "Rigid lumbar panel with adjustable compression is designed specifically for standing and physical loading scenarios."
+    }
+  ]
 }

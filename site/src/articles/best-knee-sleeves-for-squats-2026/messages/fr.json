@@ -53,5 +53,124 @@
     "rogue-knee-sleeves-5mm": "5mm, non approuvées IPF, vendues par paires, meilleures pour l'entraînement général"
   },
   "pinDescription": "7mm ou 5mm, approuvées IPF ou non -- la bonne genouillère dépend de comment vous squattez. Ces 5 sélections couvrent la compétition de powerlifting, le CrossFit et la musculation quotidienne sans chevauchement inutile. #Genouillères #Powerlifting #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque produit a été évalué selon cinq critères : qualité de fabrication, performance en utilisation typique, durabilité, confort et rapport qualité-prix. La performance et la durabilité ont été les plus pondérées car elles déterminent si un produit reste utile 12 mois plus tard.",
+  "products": [
+    {
+      "offerId": "sbd-knee-sleeves-7mm",
+      "badge": "Meilleur choix global",
+      "review": "Le néoprène double couche 7mm de SBD est approuvé IPF et porté lors de plus de championnats mondiaux que tout autre marque. Les doubles coutures sur les bords supérieurs et inférieurs empêchent le glissement — la plainte la plus fréquente des genouillères 7mm bon marché. Le dimensionnement selon la circonférence de la cuisse est crucial : une genouillère légèrement trop grande ne fournit ni la compression ni le rebond justifiant le choix du 7mm.",
+      "pros": ["Approuvée IPF pour compétition", "Doubles coutures anti-glissement", "Meilleur rebond en sortie de bas au 7mm"],
+      "cons": ["Trop chaude pour les échauffements — réservée aux séries de travail à 80%+"],
+      "grade": "A+",
+      "specs": {
+        "Épaisseur": "7mm néoprène double couche",
+        "Approuvée IPF": "Oui",
+        "Vente": "Par paires",
+        "Taille": "Selon circonférence de cuisse",
+        "Prix": "$110.00/paire"
+      },
+      "scores": {
+        "Qualité de fabrication": 5.0,
+        "Durabilité": 5.0,
+        "Compression": 5.0,
+        "Confort": 3.5,
+        "Rapport qualité-prix": 3.8
+      }
+    },
+    {
+      "offerId": "rehband-rx-knee-sleeve-7mm",
+      "badge": "Meilleure pour le confort",
+      "review": "La coupe conique anatomique de Rehband — plus large en haut, plus étroite au bas de la rotule — maintient mieux la genouillère centrée lors des squats profonds. Non approuvée IPF mais compression et rebond comparables à SBD pour l'entraînement. Vendue individuellement pour tester un seul genou avant d'acheter la paire.",
+      "pros": ["Coupe conique anatomique centrée pendant les squats profonds", "Vendue individuellement pour test d'un seul genou", "Plus chaude pour les salles froides"],
+      "cons": ["Non approuvée IPF — usage en compétition impossible"],
+      "grade": "A",
+      "specs": {
+        "Épaisseur": "7mm néoprène",
+        "Approuvée IPF": "Non",
+        "Vente": "Individuellement ou par paires",
+        "Coupe": "Conique anatomique",
+        "Prix": "$49.99/unité"
+      },
+      "scores": {
+        "Qualité de fabrication": 4.8,
+        "Durabilité": 4.8,
+        "Compression": 4.5,
+        "Confort": 4.8,
+        "Rapport qualité-prix": 4.5
+      }
+    },
+    {
+      "offerId": "stoic-strength-knee-sleeves",
+      "badge": "Meilleur rapport qualité-prix",
+      "review": "Les genouillères 7mm IPF de Stoic offrent une compression de niveau compétition au demi-prix des SBD. La couture arrière renforcée adresse le point de défaillance le plus courant des genouillères bon marché. Légèrement plus petites que Rehband — monter d'une taille si vous êtes entre deux pointures.",
+      "pros": ["Approuvée IPF à la moitié du prix SBD", "Couture arrière renforcée pour la durabilité", "Rebond fonctionnel sans période de rodage"],
+      "cons": ["Taille légèrement petite — monter d'une taille"],
+      "grade": "B+",
+      "specs": {
+        "Épaisseur": "7mm néoprène",
+        "Approuvée IPF": "Oui",
+        "Vente": "Par paires",
+        "Taille": "Légèrement petite",
+        "Prix": "$67.00/paire"
+      },
+      "scores": {
+        "Qualité de fabrication": 4.2,
+        "Durabilité": 4.3,
+        "Compression": 4.5,
+        "Confort": 4.0,
+        "Rapport qualité-prix": 5.0
+      }
+    },
+    {
+      "offerId": "a7-bar-grip-knee-sleeves",
+      "badge": "Meilleures pour CrossFit",
+      "review": "Les genouillères 5mm d'A7 ont un motif grip barre imprimé en silicone sur l'extérieur qui empêche la migration pendant les squats, box jumps et thrusters. À 5mm, le néoprène est assez fin pour permettre une amplitude complète dans les wall balls et pistol squats où le 7mm modifie la mécanique. Conçues pour CrossFit, non approuvées IPF.",
+      "pros": ["Extérieur silicone empêche la migration lors des mouvements dynamiques", "5mm permet toute l'amplitude pour CrossFit", "Vendues par paires"],
+      "cons": ["Non approuvée IPF", "Supplément de 15–20% sur les options 5mm classiques"],
+      "grade": "B",
+      "specs": {
+        "Épaisseur": "5mm néoprène",
+        "Approuvée IPF": "Non",
+        "Vente": "Par paires",
+        "Extérieur": "Impression silicone grip barre",
+        "Prix": "$60–70/paire"
+      },
+      "scores": {
+        "Qualité de fabrication": 4.3,
+        "Durabilité": 4.2,
+        "Compression": 3.8,
+        "Confort": 4.5,
+        "Rapport qualité-prix": 4.0
+      }
+    },
+    {
+      "offerId": "rogue-knee-sleeves-5mm",
+      "badge": "Meilleures pour l'entraînement général",
+      "review": "Les genouillères 5mm de Rogue conviennent aux athlètes qui squattent, poussent et tirent dans la même séance sans retirer les genouillères entre les mouvements. Moins de rebond que le 7mm — intentionnel. Chaleur constante sans inconfort sur 60–90 minutes.",
+      "pros": ["Portables toute la séance sans retrait", "Chaleur constante sans surchauffe", "Système de taille simple Rogue"],
+      "cons": ["Moins de rebond que 7mm — pas pour les squats maximaux en powerlifting"],
+      "grade": "B-",
+      "specs": {
+        "Épaisseur": "5mm néoprène simple couche",
+        "Approuvée IPF": "Non",
+        "Vente": "Par paires",
+        "Idéal pour": "Entraînement de force général",
+        "Prix": "$60.00/paire"
+      },
+      "scores": {
+        "Qualité de fabrication": 4.2,
+        "Durabilité": 4.3,
+        "Compression": 3.5,
+        "Confort": 4.8,
+        "Rapport qualité-prix": 4.3
+      }
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour la compétition IPF", "offerId": "sbd-knee-sleeves-7mm", "reason": "Approuvée IPF, utilisée par les champions du monde, fiable à l'intensité de compétition"},
+    {"label": "Pour les pratiquants cherchant le confort", "offerId": "rehband-rx-knee-sleeve-7mm", "reason": "Coupe anatomique reste centrée, vente individuelle pour tester un genou d'abord"},
+    {"label": "Pour les powerlifters avec petit budget", "offerId": "stoic-strength-knee-sleeves", "reason": "Approuvée IPF au demi-prix SBD avec compression de niveau compétition"},
+    {"label": "Pour les athlètes CrossFit", "offerId": "a7-bar-grip-knee-sleeves", "reason": "Grip silicone empêche la migration lors des box jumps, thrusters et mouvements WOD"},
+    {"label": "Pour l'entraînement de salle général", "offerId": "rogue-knee-sleeves-5mm", "reason": "Portables toute la séance à travers tous les mouvements sans retrait entre les séries"}
+  ]
 }

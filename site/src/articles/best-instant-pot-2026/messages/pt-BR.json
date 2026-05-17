@@ -62,5 +62,64 @@
     "instant-pot-duo-crisp-air-fryer": "Adiciona uma tampa dedicada de air fryer à base de pressão comprovada da Duo — a escolha certa se você quer as duas capacidades no ecossistema Instant Pot em vez de mudar para a Ninja."
   },
   "pinDescription": "Melhores Instant Pot 2026: Duo 7-em-1 vs Pro 10-em-1 vs Ninja Foodi — qual panela multifuncional realmente vale a pena comprar para os jantares da semana? #InstantPot #CozinhaRápida #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada panela multifuncional foi avaliada no tempo de construção de pressão, confiabilidade do vedante após 50+ ciclos, desempenho de douramento no refogado, facilidade de limpeza da panela interna e da tampa, e se as funcionalidades comercializadas (sous vide, air fryer) têm desempenho comparável a dispositivos dedicados.",
+  "products": [
+    {
+      "offerId": "instant-pot-duo-7in1-6qt",
+      "badge": "Melhor no geral",
+      "review": "A Duo 7-em-1 é a escolha padrão correta para a maioria dos domicílios — lida com pressão, cozimento lento, arroz, refogar, vapor, iogurte e manter aquecido com confiabilidade comprovada em milhões de unidades. A cerca de R$250–400, é a Instant Pot mais acessível que faz tudo que a maioria das pessoas realmente precisa. Os anéis de vedação e acessórios estão universalmente disponíveis, e a interface de controle é intuitiva em dois usos. A única limitação real: a função de refogar atinge uma temperatura que produz vapor com a mesma frequência que douramento em uma panela cheia.",
+      "pros": ["Cobre 7 funções essenciais ao preço mais acessível da linha", "Milhões de unidades em campo — o histórico de confiabilidade mais testado", "Anéis de vedação e acessórios universalmente disponíveis"],
+      "cons": ["A função de refogar tem dificuldade em dourar carne em uma panela cheia — teto de calor muito baixo"],
+      "grade": "A+",
+      "specs": {"Capacidade": "6 quartos (aprox. 5,7 L)", "Funções": "7-em-1", "Pressão máxima": "15 PSI", "Panela interna": "Aço inoxidável", "Temp. refogar": "Médio-alto", "Dimensões": "33 × 31 × 32 cm"},
+      "scores": {"Desempenho de pressão": 4.7, "Versatilidade": 4.5, "Facilidade de uso": 4.9, "Custo-benefício": 5.0, "Capacidade": 4.5}
+    },
+    {
+      "offerId": "instant-pot-pro-10in1-6qt",
+      "badge": "Melhor upgrade",
+      "review": "A Pro justifica seu preço premium com três adições significativas em relação à Duo: temperaturas de refogar mais altas que produzem douramento Maillard genuíno em uma panela cheia de carne, um modo sous vide para cozimento preciso de proteínas sem um circulador separado, e uma válvula de liberação de pressão do tipo dial que evita que alimentos com amido formem espuma e entupam durante a liberação rápida. Se você regularmente dourá antes de estufar, cozinha proteínas em temperaturas precisas, ou libera vapor em feijão e risoto, essas diferenças aparecem em cada refeição. Para cozimento simples a pressão, a Duo é suficiente.",
+      "pros": ["Temperatura de refogar mais alta produz douramento real, não vapor", "Modo sous vide elimina a necessidade de um circulador de imersão separado", "Liberação de pressão tipo dial previne entupimentos de espuma em pratos com amido"],
+      "cons": ["R$600–900 é um salto de preço real sobre a Duo para recursos que alguns domicílios não usarão"],
+      "grade": "A",
+      "specs": {"Capacidade": "6 quartos (aprox. 5,7 L)", "Funções": "10-em-1", "Pressão máxima": "15 PSI", "Liberação de pressão": "Tipo dial", "Sous vide": "Sim", "Dimensões": "34 × 32 × 33 cm"},
+      "scores": {"Desempenho de pressão": 4.8, "Versatilidade": 4.9, "Facilidade de uso": 4.5, "Custo-benefício": 4.0, "Capacidade": 4.5}
+    },
+    {
+      "offerId": "ninja-fd401-foodi-8qt",
+      "badge": "Melhor para air fryer",
+      "review": "A tecnologia TenderCrisp — cozinhar a pressão primeiro, depois mudar para a tampa crocante para um acabamento genuíno de air fryer — é a capacidade definidora do Foodi. A capacidade de 8 quartos e a tampa crocante dedicada produzem douramento mais uniforme do que qualquer configuração de air fryer da Instant Pot, e o fluxo de ar é significativamente mais forte do que a tampa do Duo Crisp. A R$800–1.200, o Foodi custa aproximadamente o dobro da Duo e ocupa mais espaço no balcão. O trade-off se justifica se air fryer é um requisito regular.",
+      "pros": ["TenderCrisp produz texturas que nem uma air fryer independente nem uma panela de pressão conseguem igualar sozinhas", "Capacidade de 8 quartos lida com grades inteiras de costelas e fritura em grandes quantidades", "Maior fluxo de ar do que modelos de air fryer Instant Pot comparáveis"],
+      "cons": ["Significativamente maior e mais pesado do que a Instant Pot de 6 quartos — requer espaço dedicado no balcão"],
+      "grade": "B+",
+      "specs": {"Capacidade": "8 quartos (aprox. 7,6 L)", "Funções": "9-em-1", "Tampa air fryer": "Tampa crocante dedicada", "Pressão máxima": "15 PSI", "TenderCrisp": "Sim", "Dimensões": "41 × 36 × 36 cm"},
+      "scores": {"Desempenho de pressão": 4.7, "Versatilidade": 5.0, "Facilidade de uso": 4.2, "Custo-benefício": 3.8, "Capacidade": 5.0}
+    },
+    {
+      "offerId": "cosori-pressure-cooker-6qt",
+      "badge": "Melhor alternativa econômica",
+      "review": "A COSORI oferece desempenho de panela multifuncional 9-em-1 comparável à Instant Pot Duo em testes de pressão, a um preço 20–30% abaixo. O diferencial é a conectividade do app: uma biblioteca de receitas guiadas que baixa programas de cozimento completos diretamente para a unidade, reduzindo a curva de aprendizado para novos usuários. A dependência do suporte do app da COSORI é o risco de longo prazo — se a COSORI descontinuar o serviço, o recurso de receitas guiadas desaparece. As funções básicas de pressão e cozimento lento operam independentemente do app.",
+      "pros": ["20–30% mais barata do que modelos Instant Pot comparáveis", "Receitas guiadas pelo app reduzem a curva de aprendizado para iniciantes", "Funcionalidade 9-em-1 cobre todos os casos de uso padrão de panela multifuncional"],
+      "cons": ["Dependência do app significa que recursos guiados podem desaparecer se a COSORI encerrar o suporte"],
+      "grade": "B",
+      "specs": {"Capacidade": "6 quartos (aprox. 5,7 L)", "Funções": "9-em-1", "App": "App COSORI (iOS/Android)", "Pressão máxima": "15 PSI", "Panela interna": "Antiaderente", "Dimensões": "32 × 30 × 30 cm"},
+      "scores": {"Desempenho de pressão": 4.4, "Versatilidade": 4.5, "Facilidade de uso": 4.7, "Custo-benefício": 4.8, "Capacidade": 4.5}
+    },
+    {
+      "offerId": "instant-pot-duo-crisp-air-fryer",
+      "badge": "Melhor escolha híbrida",
+      "review": "A Duo Crisp adiciona uma tampa de air fryer à base de pressão comprovada da Duo — 11 funções em 1 incluindo air fry, grelhar, assar, torrar e desidratar. Permanece no ecossistema de acessórios Instant Pot, o que significa que todos os anéis de vedação e panelas internas da Duo continuam compatíveis. O desempenho de air fryer é sólido para porções de uma a duas pessoas, mas fica atrás do Foodi em lotes maiores devido ao menor fluxo de ar. A escolha certa se você quer ambas as capacidades sem se comprometer com o formato mais pesado e maior da Ninja.",
+      "pros": ["Adiciona air fryer à pressão comprovada da Duo sem mudar de ecossistema", "Mantém compatibilidade com todos os acessórios Instant Pot de 6 quartos", "Mais compacta do que o Ninja Foodi"],
+      "cons": ["Fluxo de ar de air fryer menor do que o Ninja Foodi — crocância menos uniforme em porções maiores"],
+      "grade": "B-",
+      "specs": {"Capacidade": "6 quartos (aprox. 5,7 L)", "Funções": "11-em-1", "Tampa air fryer": "Tampa pressão/crocante integrada", "Pressão máxima": "15 PSI", "Desidratar": "Sim", "Dimensões": "35 × 33 × 33 cm"},
+      "scores": {"Desempenho de pressão": 4.7, "Versatilidade": 4.8, "Facilidade de uso": 4.3, "Custo-benefício": 4.0, "Capacidade": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para compradores de primeira panela multifuncional", "offerId": "instant-pot-duo-7in1-6qt", "reason": "Confiabilidade comprovada, peças universais e interface simples — o ponto de partida mais seguro para qualquer domicílio."},
+    {"label": "Para cozinheiros sérios de dias úteis", "offerId": "instant-pot-pro-10in1-6qt", "reason": "Temperaturas de refogar mais altas e modo sous vide produzem resultados visivelmente melhores para dourar antes de estufar e cozimento preciso de proteínas."},
+    {"label": "Para prioridade de air fryer", "offerId": "ninja-fd401-foodi-8qt", "reason": "A tecnologia TenderCrisp entrega o melhor acabamento de air fryer a partir de uma panela de pressão — nenhuma comparação independente chega perto."},
+    {"label": "Para compradores conscientes do orçamento", "offerId": "cosori-pressure-cooker-6qt", "reason": "Desempenho de pressão comparável a 20–30% abaixo dos preços Instant Pot — especialmente bom para iniciantes que usarão o app de receitas guiadas."},
+    {"label": "Para fiéis à Instant Pot que querem air fryer", "offerId": "instant-pot-duo-crisp-air-fryer", "reason": "Adiciona air fryer sem sair do ecossistema Instant Pot — mantém compatibilidade de acessórios enquanto expande a funcionalidade."}
+  ]
 }

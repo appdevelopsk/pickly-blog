@@ -48,5 +48,64 @@
     "harbinger-padded-leather-belt": "Geschaumtes Leder fur Komfort im Allgemeinen Training. Keine Wettkampfspezifikation, aber ideal fur gemischtes Gymarbeit und hochrepetitive Satze, wo ein steifer Gurtel unpraktisch ware."
   },
   "pinDescription": "Inzer vs SBD vs Rogue -- die 5 besten Gewichthebergurtel 2026 nach echten Kniebeuge- und Kreuzheben-Leistungen bewertet. Hebel vs Schnalle, 10mm vs 13mm, Wettkampf vs Alltagstraining -- alles abgedeckt. #Gewichthebergurtel #Powerlifting #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jedes Produkt wurde anhand von fünf Kriterien bewertet: Verarbeitungsqualität, Leistung bei typischer Nutzung, Langlebigkeit, Komfort und Preis-Leistungs-Verhältnis. Leistung und Langlebigkeit wurden am stärksten gewichtet, da diese bestimmen, ob ein Produkt 12 Monate später noch nützlich ist.",
+  "products": [
+    {
+      "offerId": "inzer-forever-lever-belt-10mm",
+      "badge": "Bester insgesamt",
+      "review": "Der Inzer Forever Lever Belt ist der Massstab, an dem andere Powerlifting-Gurtel gemessen werden. Das 10mm Einlagen-Leder ist steif genug fur echten intraabdominalen Druckbeitrag, ohne die rippendruckende 13mm Starke bei hochrepetitiven Satzen. IPF-zugelassen — trainieren und wettkampfen mit demselben Gurtel. Der Hebelverschluss liefert jedes Mal identische Tightness — einmal eingestellt, eingeknipst und los.",
+      "pros": ["Hebelverschluss liefert jeden Satz identische Tightness", "IPF-zugelassen fur Wettkampf", "Forever-Garantie deckt Fehler fur die gesamte Lebensdauer"],
+      "cons": ["4-6 Wochen Einlaufzeit, bis das Leder sich anpasst"],
+      "grade": "A+",
+      "specs": {"Starke": "10mm Einlagen-Leder", "Breite": "10 cm (uniform, IPF)", "Verschluss": "Hebelschnalle", "IPF-zugelassen": "Ja", "Preis": "ca. 120€"},
+      "scores": {"Verarbeitungsqualitat": 5.0, "Langlebigkeit": 5.0, "Komfort": 3.8, "Benutzerfreundlichkeit": 4.5, "Preis-Leistung": 4.5}
+    },
+    {
+      "offerId": "sbd-belt-powerlifting",
+      "badge": "Bester fur den Wettkampf",
+      "review": "SBDs 13mm-Hebel-Gurtel wird von mehreren IPF-Weltrekordhaltern genutzt — kein Marketing, sondern ein verlasslicher Datenpunkt uber die Belastbarkeit unter echten Maximallasten. Maximale regelkonforme Steifigkeit fur hochstes Brace-Potenzial. Der Einfingeranmechanismus lost schneller als der Inzer. Kompromisse: 6-8 Wochen Einlaufzeit und Unbehagen bei hochrepetitiven Satzen.",
+      "pros": ["Von IPF-Weltrekordhaltern eingesetzt", "Einfingeröffnung — schnellste Abnahme in der Kategorie", "13mm maximale legale Steifigkeit fur das starkste Brace"],
+      "cons": ["6-8 Wochen Einlaufzeit", "Unkomfortabel fur Satze mit 8+ Wiederholungen"],
+      "grade": "A",
+      "specs": {"Starke": "13mm Einlagen-Leder", "Breite": "10 cm (IPF)", "Verschluss": "SBD-Hebel", "Hergestellt in": "UK", "Preis": "350-400€"},
+      "scores": {"Verarbeitungsqualitat": 5.0, "Langlebigkeit": 5.0, "Komfort": 3.0, "Benutzerfreundlichkeit": 4.8, "Preis-Leistung": 3.0}
+    },
+    {
+      "offerId": "rogue-ohio-lifting-belt",
+      "badge": "Bester USA-Gurtel",
+      "review": "Der Rogue Ohio Belt wird in Columbus, Ohio, aus Herman-Oak-Leder gefertigt — dieselbe Gerberei wie die besten Custom-Gurtel-Hersteller. Der Taper von 4 auf 3 Zoll vorne verbessert die Huftmobilitat beim Kreuzheben. Erhaltlich mit Single- oder Double-Prong. Die US-Herkunft mit verifizierter Lieferkette ist ein echter Differenzierungsfaktor.",
+      "pros": ["Herman-Oak-Leder — gleiche Gerberei wie Premium-Custom-Gurtel", "4→3 Zoll Taper verbessert Huftmobilitat beim Kreuzheben", "Made in Columbus, Ohio — nachverfolgbare Lieferkette"],
+      "cons": ["Prong-Verschluss erfordert mehr Einstellzeit als Hebel"],
+      "grade": "B+",
+      "specs": {"Starke": "10mm Einlagen-Leder", "Breite": "4 Zoll hinten / 3 Zoll vorne", "Verschluss": "Single oder Double Prong", "Hergestellt in": "Columbus, Ohio, USA", "Preis": "ca. 180-230€"},
+      "scores": {"Verarbeitungsqualitat": 4.8, "Langlebigkeit": 4.8, "Komfort": 4.0, "Benutzerfreundlichkeit": 3.8, "Preis-Leistung": 4.3}
+    },
+    {
+      "offerId": "pioneer-cut-powerlifting-belt",
+      "badge": "Bester fur die Kniebeuge",
+      "review": "Pioneers konturierter Schnitt — hinten breiter, zu den Seiten hin schmaler — ist eine Geometrie, die viele Heber als weniger storend fur die Huftbeuger im Tiefsquat empfinden. Besonders im japanischen Powerlifting fur Kniebeugefreundlichkeit bekannt. Erhaltlich in mehreren Breiten und Schnallenvarianten. Gutes Preis-Leistungs-Verhaltnis im mittleren Preissegment.",
+      "pros": ["Konturierter Schnitt reduziert Huftbeuger-Interferenz im Tiefsquat", "Im japanischen Powerlifting fur Squat-Freundlichkeit bekannt", "Mehrere Breiten- und Schnallenoptionen"],
+      "cons": ["Spezifische Geometrie passt moglicherweise nicht allen Korperpropportionen"],
+      "grade": "B",
+      "specs": {"Starke": "10mm Einlagen-Leder", "Schnitt": "Pioneer-Kontur — breiter Rucken, schmale Seiten", "IPF-zugelassen": "Ja", "Optionen": "Mehrere Breiten und Schnallenstile", "Preis": "ca. 150-200€"},
+      "scores": {"Verarbeitungsqualitat": 4.5, "Langlebigkeit": 4.5, "Komfort": 4.5, "Benutzerfreundlichkeit": 3.8, "Preis-Leistung": 4.5}
+    },
+    {
+      "offerId": "harbinger-padded-leather-belt",
+      "badge": "Bester fur allgemeines Training",
+      "review": "Harbingers gepolsterter Ledergurtel ist fur allgemeines Krafttraining und Bodybuilding konzipiert, nicht fur Powerlifting-Wettkampfe. Die Schaumpolsterung macht ihn von der ersten Einheit an komfortabel — ideal fur Rumanian Deadlifts und Rowing-Varianten, bei denen man den Gurtel oft wechselt. Bei Maximalbelastungen bleibt die Brace-Leistung hinter steifem Einlagen-Leder zuruck; fur Arbeitssatze bei 70-80% ist er vollig ausreichend.",
+      "pros": ["Komfortabel von Tag 1 — keine Einlaufzeit", "Schaumpolsterung praktisch fur hochrepetitives Variantionstraining", "Gunstigster Preis in diesem Vergleich"],
+      "cons": ["Nicht wettkampftauglich — Schaum begrenzt maximales Brace", "Nicht IPF-zugelassen"],
+      "grade": "B-",
+      "specs": {"Material": "Leder mit Schaumpolster", "Breite": "6 Zoll", "IPF-zugelassen": "Nein", "Am besten fur": "Allgemeines Training, Bodybuilding-Splits", "Preis": "40-65€"},
+      "scores": {"Verarbeitungsqualitat": 3.5, "Langlebigkeit": 3.8, "Komfort": 5.0, "Benutzerfreundlichkeit": 4.5, "Preis-Leistung": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Fur wettkampfende Powerlifter", "offerId": "inzer-forever-lever-belt-10mm", "reason": "IPF-zugelassener Hebel mit konsistenter Tightness jeden Satz und Lifetime-Garantie"},
+    {"label": "Fur IPF-Elitewettkampfer", "offerId": "sbd-belt-powerlifting", "reason": "Maximales legales Brace bei 13mm, von Weltrekordhaltern bei IPF-Meetings eingesetzt"},
+    {"label": "Fur Kreuzheben-fokussierte Athleten", "offerId": "rogue-ohio-lifting-belt", "reason": "Verjungung vorne verbessert Huftmobilitat an der Falte beim schweren Heben"},
+    {"label": "Fur tiefe Kniebeuger", "offerId": "pioneer-cut-powerlifting-belt", "reason": "Konturierte Geometrie reduziert Huftbeuger-Interferenz im Tiefpunkt der Kniebeuge"},
+    {"label": "Fur allgemeines Gymtraining", "offerId": "harbinger-padded-leather-belt", "reason": "Komfortabel fur hochrepetitives Variantionstraining ohne Einlaufzeit, zum gunstigsten Preis"}
+  ]
 }

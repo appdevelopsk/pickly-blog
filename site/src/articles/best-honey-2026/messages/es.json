@@ -58,5 +58,64 @@
     "wholesome-organic-raw-honey": "Miel cruda orgánica, certificada de comercio justo, 16 oz. $12-18. La mejor miel cruda certificada orgánica — origen de comercio justo, sabor suave, certificación orgánica. Correcta para compradores que priorizan lo orgánico y el comercio justo junto con el procesamiento crudo."
   },
   "pinDescription": "Miel 2026: explicación de UMF vs MGO en la miel de Manuka, comparación Comvita vs Wedderspoon KFactor, diferencias entre miel cruda y procesada, cuándo vale realmente el precio de la Manuka y la mejor miel para uso diario 2026. #miel #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada producto fue evaluado según el rigor de la certificación, la consistencia de sabor entre lotes, el precio por porción, la transparencia del origen y la idoneidad práctica para su caso de uso previsto.",
+  "products": [
+    {
+      "offerId": "comvita-manuka-honey-umf10",
+      "badge": "Mejor en general",
+      "review": "Comvita UMF 10+ es la miel de Manuka certificada más fiable del mercado: el sistema UMF verifica de forma independiente la concentración de MGO y los marcadores de autenticidad, eliminando el riesgo de fraude tan habitual en las etiquetas de Manuka más baratas. A $26–40 por 250 g, el precio por porción es elevado, pero está justificado por el MGO 263+ documentado y la trazabilidad global de lotes. Limitación honesta: 250 g se acaban rápido si se usa como endulzante diario.",
+      "pros": ["La certificación UMF verifica MGO y autenticidad de forma independiente", "Disponibilidad mundial con calidad de lote constante", "MGO 263+ de rango medio, adecuado para uso general"],
+      "cons": ["$26–40 por 250 g encarece el uso diario"],
+      "grade": "A+",
+      "specs": {"Tipo": "Manuka", "Certificación": "UMF 10+", "MGO": "263+", "Peso": "250 g", "Origen": "Nueva Zelanda", "Proceso": "Cruda"},
+      "scores": {"Sabor": 4.7, "Pureza": 5.0, "Valor": 3.5, "Textura": 4.5, "Versatilidad": 4.0}
+    },
+    {
+      "offerId": "wedderspoon-manuka-kfactor16",
+      "badge": "Mejor Manuka accesible",
+      "review": "Wedderspoon KFactor 16 certifica que el 75 % o más del polen proviene de flores de Manuka, lo que confirma el origen floral pero no indica directamente el contenido de MGO. Es un producto legítimo a un precio más bajo que la mayoría de las opciones UMF, ideal para quienes quieren origen Manuka verificado sin pagar la prima UMF. Importante: KFactor 16 no se puede convertir directamente a una clasificación UMF.",
+      "pros": ["Origen Manuka certificado por polen a precio inferior al UMF", "11,4 oz ofrece mejor volumen que la mayoría", "Disponible en canales de distribución convencionales"],
+      "cons": ["KFactor no indica el nivel de MGO — menos preciso que UMF"],
+      "grade": "A",
+      "specs": {"Tipo": "Manuka", "Certificación": "KFactor 16", "Polen": "75 %+ Manuka", "Peso": "11,4 oz (323 g)", "Origen": "Nueva Zelanda", "Proceso": "Cruda"},
+      "scores": {"Sabor": 4.5, "Pureza": 4.3, "Valor": 4.2, "Textura": 4.4, "Versatilidad": 4.0}
+    },
+    {
+      "offerId": "nature-nates-raw-honey",
+      "badge": "Mejor miel cruda para el día a día",
+      "review": "Nature Nate's es la respuesta correcta para el uso diario: origen EE. UU., sin filtrar, sin calentar, auditado de forma independiente y por menos de $10 por 16 oz. El sabor es suave, de trébol, perfecto cuando la miel actúa como endulzante de fondo en té, yogur o aderezos. Nada exótico — ese es precisamente el punto.",
+      "pros": ["Origen EE. UU. rastreable con auditoría independiente de crudo", "Sabor suave de trébol apto para múltiples usos culinarios", "Precio accesible para consumo diario"],
+      "cons": ["Menos complejidad de sabor que variedades de origen único"],
+      "grade": "B+",
+      "specs": {"Tipo": "Trébol", "Certificación": "Cruda/Sin filtrar", "Peso": "16 oz (454 g)", "Origen": "EE. UU.", "Proceso": "Sin calentar, sin filtrar", "Envase": "Botella exprimible"},
+      "scores": {"Sabor": 4.0, "Pureza": 4.5, "Valor": 4.8, "Textura": 4.0, "Versatilidad": 4.7}
+    },
+    {
+      "offerId": "ys-eco-bee-raw-honey",
+      "badge": "Mejor miel cruda sin filtrar",
+      "review": "Y.S. Eco Bee Farms ofrece una experiencia de miel cruda notablemente distinta: espesa, opaca, con partículas visibles de propóleo y polen que confirman un procesamiento mínimo. El sabor es más pronunciado que Nature Nate's, con notas terrosas y complejas. 22 oz orgánico USDA por unos $12–18 representa un buen valor. Si la textura se endurece en tiempo frío, basta con calentar suavemente el tarro.",
+      "pros": ["Propóleo y polen visibles confirman procesamiento sin filtrar", "Certificación USDA orgánico", "El formato de 22 oz ofrece mejor precio por onza"],
+      "cons": ["La textura espesa puede dificultar el vertido en temperaturas frescas"],
+      "grade": "B",
+      "specs": {"Tipo": "Flores silvestres", "Certificación": "USDA Orgánico, Cruda", "Peso": "22 oz (624 g)", "Origen": "EE. UU.", "Proceso": "Sin filtrar, sin calentar", "Textura": "Espesa/pastosa"},
+      "scores": {"Sabor": 4.4, "Pureza": 4.6, "Valor": 4.5, "Textura": 3.8, "Versatilidad": 3.9}
+    },
+    {
+      "offerId": "wholesome-organic-raw-honey",
+      "badge": "Mejor miel orgánica de comercio justo",
+      "review": "Wholesome Organic cubre un nicho específico: compradores que quieren certificación orgánica y abastecimiento de comercio justo en una miel cruda sin pagar precios de Manuka. Sabor suave y limpio, comparable al de Nature Nate's pero con acreditaciones adicionales. A $12–18 por 16 oz es ligeramente más caro que la miel cruda convencional, lo cual es razonable dadas las certificaciones adicionales.",
+      "pros": ["USDA Orgánico + certificación de comercio justo simultáneamente", "Sabor suave apto para la mayoría de usos", "Credenciales de origen transparentes"],
+      "cons": ["Mayor precio por onza sin prima de sabor sobre la miel cruda convencional"],
+      "grade": "B-",
+      "specs": {"Tipo": "Mezcla de trébol", "Certificación": "USDA Orgánico, Comercio Justo", "Peso": "16 oz (454 g)", "Origen": "Sudamérica", "Proceso": "Cruda, sin filtrar", "Envase": "Tarro"},
+      "scores": {"Sabor": 4.0, "Pureza": 4.7, "Valor": 3.8, "Textura": 4.1, "Versatilidad": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para uso diario como endulzante", "offerId": "nature-nates-raw-honey", "reason": "Sabor suave, certificación de crudo y precio asequible para el consumo cotidiano sin remordimientos."},
+    {"label": "Para beneficios Manuka verificados", "offerId": "comvita-manuka-honey-umf10", "reason": "UMF 10+ verifica de forma independiente el MGO 263+ — la certificación más fiable cuando la potencia del Manuka importa."},
+    {"label": "Para priorizar el origen ético", "offerId": "wholesome-organic-raw-honey", "reason": "USDA Orgánico y certificado de comercio justo — la elección cuando la ética del abastecimiento importa tanto como el sabor."},
+    {"label": "Para compradores de Manuka con presupuesto ajustado", "offerId": "wedderspoon-manuka-kfactor16", "reason": "Origen Manuka certificado por polen a menor precio que los productos UMF — buen punto de entrada sin pagar la prima completa."},
+    {"label": "Para la miel más sin filtrar posible", "offerId": "ys-eco-bee-raw-honey", "reason": "Propóleo y polen visibles en una miel densa con certificación USDA orgánica — la opción más 'cruda' de esta lista."}
+  ]
 }

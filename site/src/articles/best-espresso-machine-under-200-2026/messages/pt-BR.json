@@ -53,5 +53,186 @@
     "hamilton-beach-40792-espresso": "Por volta de $50. A máquina de espresso de bomba de menor custo desta comparação. Bomba de 15 bar, aquecimento de 60 segundos, aceita café moído e pods ESE, vaporizador de tubo simples. Menor qualidade de construção; maior tempo de aquecimento; o vaporizador requer mais técnica para ser bem utilizado."
   },
   "pinDescription": "Cinco máquinas de espresso abaixo de $200 comparadas em 2026: De'Longhi EC155M, Breville Bambino, Nespresso Essenza Mini, Mr. Coffee ECMP50 e Hamilton Beach 40792. A pressão da bomba explicada, a espumagem de leite comparada e qual máquina realmente vale a pena comprar para uma cozinha doméstica. #espresso #caféeiro #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada máquina foi avaliada pela qualidade do shot de espresso (consistência de pressão, crema, uniformidade de extração), tempo de aquecimento, capacidade de espumar leite, qualidade de construção e custo total de propriedade incluindo consumíveis.",
+  "products": [
+    {
+      "offerId": "breville-bambino-bes450",
+      "badge": "Melhor geral",
+      "review": "O sistema de aquecimento ThermoJet da Bambino atinge 93°C em 3 segundos — nenhuma outra máquina abaixo de $200 chega perto em velocidade de aquecimento. O portafiltro de 54 mm e o cesto não pressurizado incluído oferecem um caminho real para espresso de qualidade conforme a técnica melhora. O compromisso é o preço: a $170 é a mais cara desta comparação.",
+      "pros": [
+        "Aquecimento ThermoJet em 3 segundos, o mais rápido da categoria",
+        "Portafiltro de 54 mm de diâmetro comercial",
+        "Cestos pressurizado e não pressurizado incluídos"
+      ],
+      "cons": [
+        "$170 está próximo ao limite superior do segmento abaixo de $200"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Preço": "~$170",
+        "Bomba": "15 bar",
+        "Aquecimento": "3 seg",
+        "Portafiltro": "54 mm",
+        "Caldeira": "ThermoJet",
+        "Vaporizador": "Manual",
+        "Peso": "4,5 kg"
+      },
+      "scores": {
+        "Espresso quality": 4.7,
+        "Ease of use": 4.2,
+        "Build quality": 4.6,
+        "Value": 4.0,
+        "Steam power": 4.3
+      }
+    },
+    {
+      "offerId": "delonghi-ec155m-espresso",
+      "badge": "Melhor custo-benefício",
+      "review": "A ~$80 a EC155M produz espresso real com flexibilidade para cápsulas ESE e café moído. O vaporizador Pannarello injeta ar automaticamente, tornando a espuma muito mais acessível para iniciantes. O teto de qualidade é limitado pelo cesto pressurizado e pela deriva de temperatura do termoblock em sessões com múltiplos shots.",
+      "pros": [
+        "Aceita cápsulas ESE e café moído",
+        "O vaporizador Pannarello torna a espuma acessível para iniciantes",
+        "Excelente custo-benefício a ~$80"
+      ],
+      "cons": [
+        "O cesto pressurizado limita o teto de qualidade para usuários avançados"
+      ],
+      "grade": "A",
+      "specs": {
+        "Preço": "~$80",
+        "Bomba": "15 bar",
+        "Aquecimento": "45 seg",
+        "Portafiltro": "51 mm",
+        "Caldeira": "Termoblock",
+        "Vaporizador": "Pannarello",
+        "Peso": "2,5 kg"
+      },
+      "scores": {
+        "Espresso quality": 3.9,
+        "Ease of use": 4.4,
+        "Build quality": 3.8,
+        "Value": 4.7,
+        "Steam power": 3.6
+      }
+    },
+    {
+      "offerId": "nespresso-essenza-mini-d30",
+      "badge": "Melhor por conveniência",
+      "review": "A Essenza Mini elimina cada variável: 8 cm de largura, aquecimento em 25 segundos e crema consistente a cada cápsula OriginalLine. O compromisso é o lock-in de cápsulas a $0,70–1,00 cada e sem vaporizador — o espumador Aeroccino é uma compra separada de $50.",
+      "pros": [
+        "8 cm de largura — cabe em qualquer lugar",
+        "Bomba de 19 bar com crema consistente a cada extração",
+        "Zero requisito de habilidade"
+      ],
+      "cons": [
+        "Sem vaporizador integrado",
+        "Cápsulas proprietárias a $0,70–1,00 cada"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Preço": "~$100",
+        "Bomba": "19 bar",
+        "Aquecimento": "25 seg",
+        "Formato": "Cápsula OriginalLine",
+        "Largura": "8 cm",
+        "Vaporizador": "Nenhum",
+        "Peso": "2,2 kg"
+      },
+      "scores": {
+        "Espresso quality": 3.8,
+        "Ease of use": 4.9,
+        "Build quality": 3.7,
+        "Value": 3.5,
+        "Steam power": 1.0
+      }
+    },
+    {
+      "offerId": "mr-coffee-ecmp50-espresso",
+      "badge": "Melhor para bebidas com leite",
+      "review": "A ECMP50 é a única máquina aqui com espumador automático integrado de um botão — lattes e cappuccinos sem técnica de vapor. Aquecimento em 40–45 segundos, o cesto pressurizado lida bem com café pré-moído. Não é o caminho para o espresso avançado, mas imbatível para bebidas com leite sem esforço a ~$85.",
+      "pros": [
+        "Espumador automático integrado — sem técnica de vapor necessária",
+        "Saída dupla: vaporizador dedicado mais espumador automático",
+        "Preço de ~$85"
+      ],
+      "cons": [
+        "O cesto pressurizado limita o teto de qualidade do espresso"
+      ],
+      "grade": "B",
+      "specs": {
+        "Preço": "~$85",
+        "Bomba": "15 bar",
+        "Aquecimento": "40–45 seg",
+        "Espumador": "Automático integrado",
+        "Vaporizador": "Sim",
+        "Portafiltro": "Pressurizado",
+        "Peso": "2,8 kg"
+      },
+      "scores": {
+        "Espresso quality": 3.5,
+        "Ease of use": 4.6,
+        "Build quality": 3.6,
+        "Value": 4.3,
+        "Steam power": 4.0
+      }
+    },
+    {
+      "offerId": "hamilton-beach-40792-espresso",
+      "badge": "Melhor opção econômica",
+      "review": "A ~$50 a 40792 é a máquina de espresso com bomba mais barata desta comparação — não a vapor, uma bomba real de 15 bar. O aquecimento leva 60 segundos e o vaporizador de tubo simples requer mais técnica, mas produz espresso reconhecível e o risco financeiro para uma primeira compra é mínimo.",
+      "pros": [
+        "~$50 máquina de espresso com bomba mais barata",
+        "Aceita café moído e cápsulas ESE",
+        "Risco financeiro mínimo para o primeiro espresso"
+      ],
+      "cons": [
+        "60 segundos de aquecimento — o mais longo desta comparação",
+        "O vaporizador de tubo simples requer mais técnica"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Preço": "~$50",
+        "Bomba": "15 bar",
+        "Aquecimento": "60 seg",
+        "Portafiltro": "Pressurizado",
+        "Vaporizador": "Tubo simples",
+        "Peso": "2,0 kg",
+        "Compatível cápsulas": "Cápsulas ESE"
+      },
+      "scores": {
+        "Espresso quality": 3.2,
+        "Ease of use": 3.8,
+        "Build quality": 3.0,
+        "Value": 4.8,
+        "Steam power": 2.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para baristas caseiros em desenvolvimento",
+      "offerId": "breville-bambino-bes450",
+      "reason": "Aquecimento ThermoJet e diâmetro comercial do portafiltro oferecem espaço real para crescer"
+    },
+    {
+      "label": "Para o melhor custo-benefício a ~$80",
+      "offerId": "delonghi-ec155m-espresso",
+      "reason": "Flexibilidade ESE + café moído com vaporizador acessível para iniciantes"
+    },
+    {
+      "label": "Para a conveniência de cápsulas",
+      "offerId": "nespresso-essenza-mini-d30",
+      "reason": "Zero variáveis, pegada pequena, crema consistente — sem técnica necessária"
+    },
+    {
+      "label": "Para bebidas com leite fáceis",
+      "offerId": "mr-coffee-ecmp50-espresso",
+      "reason": "O espumador automático integrado produz lattes sem técnica de vapor"
+    },
+    {
+      "label": "Para iniciantes absolutos com orçamento limitado",
+      "offerId": "hamilton-beach-40792-espresso",
+      "reason": "Máquina de espresso com bomba mais barata com risco financeiro mínimo"
+    }
+  ]
 }

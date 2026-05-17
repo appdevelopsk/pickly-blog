@@ -66,5 +66,64 @@
     "kitchenaid-ice-cream-maker-attachment": "Aksesori kanister pra-beku untuk mixer stand KitchenAid. Tidak memerlukan motor terpisah. $50-70. Terbaik untuk pemilik KitchenAid yang ingin kemampuan membuat es krim tanpa perangkat tambahan di meja dapur."
   },
   "pinDescription": "Perbandingan mesin es krim 2026: Cuisinart ICE-21 vs kompresor Whynter vs Breville Smart Scoop vs Ninja Creami vs aksesori KitchenAid — metode pengadukan, waktu pembekuan, dan mesin mana yang menghasilkan es krim paling halus.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Setiap mesin dievaluasi berdasarkan kualitas pembekuan/pengadukan pada tiga jenis adonan (custard standar, sorbet, tinggi protein), kapasitas relatif terhadap ukuran rumah tangga, waktu hingga satu sendok pertama, kemudahan pembersihan, dan rasio harga-kinerja yang realistis.",
+  "products": [
+    {
+      "offerId": "cuisinart-ice-21-ice-cream-maker",
+      "badge": "Terbaik Secara Keseluruhan",
+      "review": "Cuisinart ICE-21 telah menjadi mesin es krim rumahan terlaris di Amerika Utara selama lebih dari dua dekade karena mekanismenya benar-benar bagus dan harganya tetap jujur. Bekukan mangkuk berinsulasi ganda, aduk selama 20–25 menit, dan Anda mendapatkan es krim yang konsisten dan creamy seharga sekitar $50–60. Keterbatasan nyatanya adalah persyaratan perencanaan — mangkuk membutuhkan 24 jam di freezer sebelum digunakan. Untuk sebagian besar rumah tangga yang sesekali membuat es krim, ini bukan masalah.",
+      "pros": ["Di bawah $60 untuk performa pengadukan yang terbukti dan andal", "Kanister pengganti tersedia jika mangkuk pecah", "Jejak yang lebih kecil dibanding mesin kompresor"],
+      "cons": ["Perencanaan pra-beku 24 jam diperlukan untuk setiap adonan"],
+      "grade": "A+",
+      "specs": {"Kapasitas": "1,5 liter", "Tipe": "Kanister pra-beku", "Waktu pengadukan": "20–25 mnt", "Motor": "~100W", "Aman dicuci mesin": "Mangkuk: Tidak, Dayung: Ya", "Dimensi": "20 × 18 × 23 cm"},
+      "scores": {"Kualitas pembekuan": 4.2, "Kapasitas": 3.5, "Kecepatan": 3.0, "Kemudahan penggunaan": 4.8, "Nilai": 5.0}
+    },
+    {
+      "offerId": "whynter-icm-200ls-ice-cream-maker",
+      "badge": "Kompressor Terbaik",
+      "review": "Whynter ICM-200LS menghilangkan hambatan perencanaan sepenuhnya — kompresor bawaan, 2,1 liter, tidak perlu pra-pembekuan. Campur adonan, tuangkan, dapatkan es krim dalam 30–40 menit. Fungsi pre-cool mendinginkan mangkuk sebelum menambahkan bahan, yang secara terukur meningkatkan tekstur dengan memulai pengadukan lebih dingin. Beberapa adonan di hari yang sama mungkin dilakukan. Seharga $250–300, Anda membayar kompresor dan kenyamanan on-demand; kualitas es krimnya sendiri setara dengan Cuisinart.",
+      "pros": ["Tidak perlu pra-beku — es krim on-demand dalam waktu kurang dari satu jam", "2,1 liter — kapasitas terbesar dalam perbandingan ini", "Pre-cool + fungsi pengerasan untuk kontrol tekstur yang lebih baik"],
+      "cons": ["Jejak besar — memerlukan ruang meja tersendiri atau kedalaman lemari yang cukup"],
+      "grade": "A",
+      "specs": {"Kapasitas": "2,1 liter", "Tipe": "Kompresor bawaan", "Waktu pengadukan": "30–45 mnt", "Kompresor": "Mandiri", "Tingkat kebisingan": "~55 dB", "Dimensi": "40 × 28 × 38 cm"},
+      "scores": {"Kualitas pembekuan": 4.5, "Kapasitas": 5.0, "Kecepatan": 4.5, "Kemudahan penggunaan": 4.5, "Nilai": 3.8}
+    },
+    {
+      "offerId": "breville-bci600xl-smart-scoop",
+      "badge": "Presisi Terbaik",
+      "review": "Sensor kekerasan otomatis Breville Smart Scoop adalah fitur yang membedakannya dari mesin kompresor lain — sensor ini membaca resistansi motor saat campuran mengental dan berhenti mengaduk pada tingkat kekakuan yang dipilih (11 pengaturan dari soft serve hingga ekstra keras) tanpa Anda perlu mengawasi. Fungsi keep-soft 3 jam mempertahankan es krim yang sudah jadi pada suhu penyajian tanpa mengeras kembali. Untuk rumah tangga yang secara rutin membuat gelato, sorbet, dan es krim, harga premium $350–400 sepadan.",
+      "pros": ["Sensor kekerasan otomatis menghilangkan tebakan di berbagai jenis adonan", "Fungsi keep-soft 3 jam mempertahankan konsistensi penyajian", "Mode pre-cool 30 menit untuk suhu awal yang optimal"],
+      "cons": ["$350–400 sulit dijustifikasi untuk rumah tangga dengan satu jenis adonan saja"],
+      "grade": "B+",
+      "specs": {"Kapasitas": "1 liter", "Tipe": "Kompresor bawaan", "Pengaturan kekerasan": "11", "Waktu pre-cool": "30 mnt", "Keep-soft": "Hingga 3 jam", "Dimensi": "39 × 22 × 28 cm"},
+      "scores": {"Kualitas pembekuan": 4.9, "Kapasitas": 3.2, "Kecepatan": 4.2, "Kemudahan penggunaan": 4.0, "Nilai": 3.2}
+    },
+    {
+      "offerId": "ninja-creami-ice-cream-maker",
+      "badge": "Terbaik untuk Adonan Non-Standar",
+      "review": "Ninja Creami tidak mengaduk — ia memproses wadah pint yang benar-benar beku dengan pisau berkecepatan tinggi, menciptakan tekstur halus dari blok beku padat. Ini membuka kemungkinan adonan yang gagal diaduk di mesin tradisional mana pun: tinggi protein, tinggi serat, hanya buah, atau rendah lemak. Hasilnya: tekstur yang sangat halus. Kendalanya adalah ukuran adonan (satu pint sekaligus) dan persyaratan pra-beku 12–24 jam. Untuk rumah tangga yang berfokus pada diet atau protein, mesin ini membuka opsi yang tidak ada di tempat lain.",
+      "pros": ["Memproses adonan tinggi protein dan non-standar yang tidak bisa dilakukan pengadukan tradisional", "Tekstur sangat halus dari pemrosesan pisau", "Porsi satu pint cocok untuk satu atau dua orang"],
+      "cons": ["Satu pint per adonan — rumah tangga besar perlu beberapa wadah yang sudah dibekukan"],
+      "grade": "B",
+      "specs": {"Kapasitas": "1 pint per adonan", "Tipe": "Prosesor pisau", "Waktu pra-beku": "12–24 jam", "Waktu pemrosesan": "~2 mnt", "Wadah": "Wadah pint khusus", "Dimensi": "33 × 15 × 38 cm"},
+      "scores": {"Kualitas pembekuan": 4.6, "Kapasitas": 2.5, "Kecepatan": 2.5, "Kemudahan penggunaan": 4.2, "Nilai": 4.0}
+    },
+    {
+      "offerId": "kitchenaid-ice-cream-maker-attachment",
+      "badge": "Terbaik untuk Pemilik KitchenAid",
+      "review": "Jika Anda sudah memiliki mixer stand KitchenAid, aksesori ini menambahkan kemampuan es krim seharga $50–70 tanpa motor tambahan di meja dapur. Bekukan kanister (persyaratan 24 jam yang sama seperti Cuisinart), pasang ke mixer, dan aduk sekitar 25–30 menit. Performa setara dengan Cuisinart ICE-21. Keunggulan nyatanya adalah konsolidasi peralatan — satu perangkat lebih sedikit bagi yang sudah berinvestasi di ekosistem KitchenAid. Bagi siapa pun yang belum punya KitchenAid, cukup beli Cuisinart.",
+      "pros": ["Tidak perlu motor terpisah — memanfaatkan investasi KitchenAid yang sudah ada", "Penyimpanan kompak — hanya mangkuk yang perlu disimpan", "Kualitas pengadukan setara dengan Cuisinart mandiri"],
+      "cons": ["Hanya masuk akal jika Anda sudah memiliki mixer stand KitchenAid"],
+      "grade": "B-",
+      "specs": {"Kapasitas": "1,9 liter", "Tipe": "Aksesori kanister pra-beku", "Kompatibel dengan": "Semua KitchenAid tilt-head & bowl-lift", "Waktu pengadukan": "25–30 mnt", "Aman dicuci mesin": "Mangkuk: Tidak", "Penyimpanan": "Hanya mangkuk"},
+      "scores": {"Kualitas pembekuan": 4.0, "Kapasitas": 4.2, "Kecepatan": 2.8, "Kemudahan penggunaan": 4.5, "Nilai": 4.3}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Untuk penggunaan rumahan sesekali", "offerId": "cuisinart-ice-21-ice-cream-maker", "reason": "Harga-kinerja terbaik untuk rumah tangga yang membuat es krim beberapa kali sebulan dan tidak keberatan merencanakan 24 jam ke depan."},
+    {"label": "Untuk produksi on-demand", "offerId": "whynter-icm-200ls-ice-cream-maker", "reason": "Kompresor bawaan berarti tidak perlu menunggu pra-beku — beberapa adonan di hari yang sama tanpa perencanaan."},
+    {"label": "Untuk presisi di berbagai jenis adonan", "offerId": "breville-bci600xl-smart-scoop", "reason": "Sensor kekerasan otomatis beradaptasi untuk gelato, sorbet, dan es krim tanpa pemantauan manual."},
+    {"label": "Untuk rumah tangga yang berfokus pada protein atau diet", "offerId": "ninja-creami-ice-cream-maker", "reason": "Pemrosesan pisau memungkinkan adonan tinggi protein, hanya buah, dan rendah lemak yang tidak bisa dieksekusi dengan baik oleh mesin pengaduk."},
+    {"label": "Untuk pemilik KitchenAid yang sudah ada", "offerId": "kitchenaid-ice-cream-maker-attachment", "reason": "Menambahkan kemampuan es krim tanpa perangkat lain — pilihan logis jika Anda sudah memiliki KitchenAid."}
+  ]
 }

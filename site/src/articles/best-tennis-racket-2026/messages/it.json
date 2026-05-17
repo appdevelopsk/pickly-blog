@@ -58,5 +58,154 @@
     "wilson-blade-98-v8": "98 sq in, 304g, telaio da 21.5mm, 16x19. $220-250. Migliore racchetta da controllo accessibile — meno esigente della Pro Staff, associazione con Swiatek. Corretta per i giocatori amatoriali che vogliono la precisione in stile Pro Staff con piu perdonabilita."
   },
   "pinDescription": "Racchetta da tennis 2026: Wilson Pro Staff vs Babolat Pure Aero vs Head Speed vs Yonex EZONE — testa, peso, pattern di incordatura spiegati, cosa significano davvero le specifiche, perche le racchette pro sono sbagliate per i principianti, e migliore racchetta da tennis per giocatori ricreativi 2026. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni racchetta e stata valutata in base alle specifiche pubblicate del telaio (testa, peso incordato, larghezza del telaio, pattern di incordatura) incrociate con le caratteristiche di gioco documentate, l'associazione ai giocatori professionisti e l'idoneita realistica per i giocatori ricreativi fino ai giocatori di club avanzati — con note esplicite sulle esigenze di livello e sugli errori di acquisto comuni.",
+  "products": [
+    {
+      "offerId": "wilson-pro-staff-97-v14",
+      "badge": "Miglior controllo",
+      "review": "La Pro Staff 97 v14 offre una precisione di posizionamento eccezionale per i giocatori intermedi-avanzati con tecnica costante. Il piccolo sweet spot e il basso livello di potenza richiedono un'oscillazione completa — i colpi fuori centro raramente finiscono in un posto utile.",
+      "pros": ["Feedback di controllo senza pari", "Telaio iconico con associazione a Federer", "Ottimizzato per il gioco di controllo preciso"],
+      "cons": ["Troppo esigente per principianti e giocatori intermedi"],
+      "grade": "A+",
+      "specs": {
+        "Testa": "97 sq in",
+        "Peso (incordata)": "315g",
+        "Larghezza telaio": "21/21.5/21mm",
+        "Pattern incordatura": "16×19",
+        "Equilibrio": "Testa leggera",
+        "Giocatori consigliati": "Intermedi-avanzati",
+        "Fascia di prezzo": "$230–260 (non incordata)"
+      },
+      "scores": {
+        "Power": 62,
+        "Control": 98,
+        "Swing weight": 88,
+        "Value": 72,
+        "Vibration dampening": 60
+      }
+    },
+    {
+      "offerId": "babolat-pure-aero-2023",
+      "badge": "Miglior topspin",
+      "review": "La Pure Aero 2023 e il flagship orientato all'effetto di Nadal con telaio aerodinamico e pattern 16×19 per un potenziale di spin estremo. Ottimizzata per i giocatori da fondo che vogliono oscillare velocemente e generare molto topspin.",
+      "pros": ["Potenziale di topspin estremo", "Telaio collaudato con associazione a Nadal", "Ottimizzata per lo stile di gioco orientato all'effetto"],
+      "cons": ["Non adatta per i giocatori flat o orientati alla precisione"],
+      "grade": "A",
+      "specs": {
+        "Testa": "100 sq in",
+        "Peso (non incordata)": "300g",
+        "Larghezza telaio": "23–26mm (aerodinamico)",
+        "Pattern incordatura": "16×19",
+        "Equilibrio": "Testa leggera",
+        "Giocatori consigliati": "Giocatori da fondo (impugnatura semiwestern o western)",
+        "Fascia di prezzo": "$240–270 (non incordata)"
+      },
+      "scores": {
+        "Power": 82,
+        "Control": 75,
+        "Swing weight": 72,
+        "Value": 74,
+        "Vibration dampening": 68
+      }
+    },
+    {
+      "offerId": "head-speed-mp",
+      "badge": "Miglior polivalenza",
+      "review": "La Speed MP e la racchetta tuttofare di Djokovic con equilibrio tra potenza e controllo. La testa da 100 sq in e il telaio da 23mm consentono un gioco versatile senza una specializzazione netta in nessuna direzione.",
+      "pros": ["Eccellente equilibrio tra potenza e controllo", "Versatilita con associazione a Djokovic", "Adatta a molti stili di gioco"],
+      "cons": ["Meno carattere distintivo rispetto alle racchette specializzate"],
+      "grade": "B+",
+      "specs": {
+        "Testa": "100 sq in",
+        "Peso (non incordata)": "300g",
+        "Larghezza telaio": "23mm",
+        "Pattern incordatura": "16×19",
+        "Tecnologia": "Graphene 360+",
+        "Giocatori consigliati": "Avanzati tuttotondo",
+        "Fascia di prezzo": "$220–250"
+      },
+      "scores": {
+        "Power": 80,
+        "Control": 80,
+        "Swing weight": 75,
+        "Value": 78,
+        "Vibration dampening": 72
+      }
+    },
+    {
+      "offerId": "yonex-ezone-98",
+      "badge": "Miglior rispetto del braccio",
+      "review": "L'EZONE 98 e la scelta migliore per i giocatori con epicondilite o sensibilita al braccio grazie al Vibration Dampening Mesh. Meno feedback rispetto alla Pro Staff, ma la gamma d'uso piu ampia e la delicatezza per il braccio la differenziano chiaramente.",
+      "pros": ["Eccellente assorbimento delle vibrazioni per giocatori con epicondilite", "Telaio di controllo da 98 sq in", "Meno affaticamento del braccio nelle sessioni lunghe"],
+      "cons": ["Meno feedback di controllo rispetto alla Pro Staff"],
+      "grade": "B",
+      "specs": {
+        "Testa": "98 sq in",
+        "Peso (non incordata)": "305g",
+        "Larghezza telaio": "23.5mm",
+        "Tecnologia": "Vibration Dampening Mesh",
+        "Pattern incordatura": "16×19",
+        "Giocatori consigliati": "Giocatori con epicondilite o sensibilita al braccio",
+        "Fascia di prezzo": "$230–260"
+      },
+      "scores": {
+        "Power": 76,
+        "Control": 82,
+        "Swing weight": 78,
+        "Value": 74,
+        "Vibration dampening": 95
+      }
+    },
+    {
+      "offerId": "wilson-blade-98-v8",
+      "badge": "Miglior controllo accessibile",
+      "review": "La Blade 98 v8 e meno esigente della Pro Staff mantenendo il carattere orientato al controllo. Il telaio preferito di Swiatek e ideale per i giocatori amatoriali che cercano la precisione stile Pro Staff con piu perdonabilita.",
+      "pros": ["Piu perdonabile della Pro Staff", "Telaio di controllo con associazione a Swiatek", "Buon equilibrio tra controllo e maneggevolezza"],
+      "cons": ["Meno feedback di controllo puro rispetto alla Pro Staff"],
+      "grade": "B-",
+      "specs": {
+        "Testa": "98 sq in",
+        "Peso (incordata)": "304g",
+        "Larghezza telaio": "21.5mm",
+        "Pattern incordatura": "16×19",
+        "Equilibrio": "Testa leggera",
+        "Giocatori consigliati": "Intermedi-avanzati orientati al controllo",
+        "Fascia di prezzo": "$220–250"
+      },
+      "scores": {
+        "Power": 68,
+        "Control": 88,
+        "Swing weight": 82,
+        "Value": 76,
+        "Vibration dampening": 70
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per i giocatori di controllo preciso",
+      "offerId": "wilson-pro-staff-97-v14",
+      "reason": "Ideale per gli intermedi-avanzati con meccanica di oscillazione costante che cercano la massima precisione di posizionamento."
+    },
+    {
+      "label": "Per i giocatori di topspin intenso",
+      "offerId": "babolat-pure-aero-2023",
+      "reason": "Ottimale per i giocatori da fondo con impugnatura semiwestern o western che vogliono generare molto topspin."
+    },
+    {
+      "label": "Per i giocatori tuttotondo",
+      "offerId": "head-speed-mp",
+      "reason": "La scelta migliore per gli avanzati che vogliono sia potenza che controllo senza preferire uno stile specifico."
+    },
+    {
+      "label": "Per i giocatori con problemi al braccio",
+      "offerId": "yonex-ezone-98",
+      "reason": "Consigliata per i giocatori con storia di epicondilite o sensibilita al braccio che cercano un telaio di controllo da 98 sq in."
+    },
+    {
+      "label": "Per i giocatori amatoriali stile Pro Staff",
+      "offerId": "wilson-blade-98-v8",
+      "reason": "Perfetta per i giocatori amatoriali che aspirano alla precisione stile Pro Staff ma preferiscono un telaio piu perdonabile."
+    }
+  ]
 }

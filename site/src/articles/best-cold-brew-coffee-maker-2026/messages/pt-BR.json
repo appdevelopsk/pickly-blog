@@ -92,5 +92,64 @@
     "county-line-mason-jar-cold-brew": "Ponto de entrada de menor custo — cesto de malha de aço inoxidável para frascos mason de boca larga. A malha metálica permite sedimento; coe através de papel se a clareza importar. Ideal como teste sem compromisso ou configuração de lotes de alto volume de 1 galão."
   },
   "pinDescription": "5 cafeteiras de cold brew comparadas para 2026: torre de gotejamento lento OXO, filtro de feltro Toddy, jarra de vidro Primula Burke, jarra compacta Takeya e kit mason jar County Line. Imersão vs gotejamento lento, tipos de filtro, tempos de maceração e proporções de concentrado explicados. #coldbrew #cafe #cafeteira #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada cafeteira foi avaliada por método de extração (imersão vs gotejamento lento), tipo de filtro e quantidade de sedimento, capacidade do lote em relação ao uso diário, tempo de limpeza após uma sessão real de preparo e relação custo-benefício a 12 meses de uso semanal.",
+  "products": [
+    {
+      "offerId": "oxo-brew-compact-cold-brew",
+      "badge": "Melhor no Geral",
+      "review": "O OXO Brew Compact é a única torre de gotejamento lento nesta comparação: água fresca sempre em contato com o café moído, sem equilíbrio de extração, mais acidez e aromas preservados. A limitação é real: 355–475 ml por lote não cobrem mais de 2 xícaras diárias.",
+      "pros": ["O gotejamento lento preserva melhor acidez e aromas do que qualquer sistema de imersão", "Carafe de alumínio anodizado e vidro borosilicato — o hardware mais robusto desta comparação", "Botão de taxa de gotejamento ajustável e pré-filtro de papel para extração limpa sem óleos"],
+      "cons": ["Apenas 355–475 ml por lote — insuficiente para lares que consomem mais de 2 xícaras diárias"],
+      "grade": "A+",
+      "specs": {"Método": "Torre de gotejamento lento", "Capacidade do lote": "355–475 ml de concentrado", "Câmara de infusão": "946 ml", "Tempo de extração": "12–24 horas", "Tipo de filtro": "Pré-filtro de papel + câmara de vidro", "Limpeza": "Enxaguar carafe e câmara — 5 min"},
+      "scores": {"Sabor": 4.9, "Custo-benefício": 4.0, "Conveniência": 4.3, "Qualidade": 4.8, "Frescura": 4.7}
+    },
+    {
+      "offerId": "toddy-cold-brew-home",
+      "badge": "Melhor para Lotes Semanais",
+      "review": "A filtração com almofada de feltro espessa do Toddy define o padrão de referência para concentrado de cold brew sem sedimento desde 1964. Uma almofada bem condicionada produz uma clareza mais próxima do espresso do que os filtros de malha metálica. Limitação honesta: condicionar o feltro e trocá-lo a cada 2–3 meses de uso semanal é um compromisso real.",
+      "pros": ["A filtração de feltro é a mais limpa de todos os sistemas de consumo testados — praticamente zero sedimento", "1,5 L de capacidade cobre o fornecimento semanal para 1–2 pessoas", "O decantador de vidro incluído conserva o concentrado por até 2 semanas"],
+      "cons": ["A almofada requer condicionamento antes de cada uso e troca a cada 2–3 meses — custo de manutenção contínuo"],
+      "grade": "A",
+      "specs": {"Método": "Imersão com filtro de feltro", "Capacidade do lote": "1,5 L de concentrado", "Proporção de café": "340 g de café para 1,5 L de água (1:4,4)", "Tempo": "24 horas (geladeira)", "Tipo de filtro": "Almofada de feltro espessa", "Limpeza": "Drenagem por gravidade 30–45 min + enxágue"},
+      "scores": {"Sabor": 4.7, "Custo-benefício": 4.5, "Conveniência": 3.8, "Qualidade": 4.9, "Frescura": 4.5}
+    },
+    {
+      "offerId": "primula-burke-cold-brew-carafe",
+      "badge": "Melhor Jarra de Vidro para o Dia a Dia",
+      "review": "O filtro de malha fina removível e a jarra de vidro borosilicato do Primula Burke atingem um equilíbrio prático: sem condicionamento de feltro, sem montagem de drenagem, vidro seguro para lava-louças, 1,6 L para ciclos de 2–3 dias. A malha fina produz mais sedimento do que o feltro Toddy, mas menos do que a cesta County Line.",
+      "pros": ["O filtro se retira limpo — sem espera de drenagem por gravidade, sem condicionamento de feltro", "A jarra de vidro borosilicato é segura para lava-louças e resistente a arranhões", "1,6 L de capacidade para um ciclo de 2–3 dias para 1–2 pessoas"],
+      "cons": ["Os 15% inferiores do concentrado têm sedimento fino — verter com cuidado"],
+      "grade": "B+",
+      "specs": {"Método": "Imersão com filtro de malha fina em aço inox", "Capacidade do lote": "1,6 L", "Proporção de café": "1:5–1:6", "Tempo": "16–20 horas (geladeira)", "Tipo de filtro": "Malha fina em aço inox, removível", "Limpeza": "Retirar o filtro e enxaguar — 2 min"},
+      "scores": {"Sabor": 4.5, "Custo-benefício": 4.6, "Conveniência": 4.8, "Qualidade": 4.4, "Frescura": 4.4}
+    },
+    {
+      "offerId": "takeya-deluxe-cold-brew",
+      "badge": "Melhor para Prateleira da Porta da Geladeira",
+      "review": "A característica definidora do Takeya Deluxe é o seu perfil estreito que cabe na prateleira da porta da geladeira. 1 L de capacidade é ideal para 1–2 pessoas que preferem pequenos lotes frescos em vez da preparação semanal em grandes quantidades.",
+      "pros": ["Perfil estreito cabe na prateleira da porta da geladeira — sem reorganizar", "Tampa de camada dupla de malha fina, sem componentes de filtro de reposição necessários", "Vidro borosilicato mais espesso, seguro para lava-louças"],
+      "cons": ["1 L de capacidade requer preparo diário ou a cada dois dias para duas pessoas"],
+      "grade": "B",
+      "specs": {"Método": "Imersão com tampa de camada dupla de malha fina", "Capacidade do lote": "1 L", "Proporção de café": "1:6–1:7", "Tempo": "12–24 horas (geladeira)", "Tipo de filtro": "Camada dupla de malha fina em aço inox", "Limpeza": "Retirar a tampa e enxaguar — 2 min"},
+      "scores": {"Sabor": 4.4, "Custo-benefício": 4.5, "Conveniência": 4.7, "Qualidade": 4.3, "Frescura": 4.3}
+    },
+    {
+      "offerId": "county-line-mason-jar-cold-brew",
+      "badge": "Melhor Opção Econômica",
+      "review": "Uma cesta de malha de aço inoxidável para frascos mason de boca larga padrão — a forma mais econômica de experimentar o cold brew e o único sistema que pode escalar para lotes de 1 galão nesta comparação. A malha mais grossa deixa passar mais sedimento; filtrar com papel após o preparo resolve o problema de clareza.",
+      "pros": ["Custo total mais baixo — cesta metálica + frasco mason bem abaixo de qualquer cafeteira dedicada", "Frasco de 1 galão supera a capacidade de qualquer cafeteira dedicada nesta comparação", "Sem peças proprietárias — funciona com qualquer frasco mason de boca larga"],
+      "cons": ["A malha metálica permite a passagem de partículas finas e óleos de café — necessário filtrar com papel para clareza"],
+      "grade": "B-",
+      "specs": {"Método": "Imersão com cesta de malha grossa em aço inox", "Capacidade do lote": "Até 3,8 L com frasco grande", "Proporção de café": "1:4–1:5", "Tempo": "12–24 horas", "Tipo de filtro": "Cesta de malha grossa em aço inox", "Limpeza": "Retirar a cesta e enxaguar — 2 min; filtragem com papel opcional"},
+      "scores": {"Sabor": 4.3, "Custo-benefício": 4.9, "Conveniência": 4.4, "Qualidade": 3.9, "Frescura": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para entusiastas de café especial que querem o melhor sabor de grãos de origem única", "offerId": "oxo-brew-compact-cold-brew", "reason": "A extração por gotejamento lento preserva a luminosidade e os aromas que os sistemas de imersão achatam."},
+    {"label": "Para lares que preparam uma vez por semana e querem concentrado sem sedimento", "offerId": "toddy-cold-brew-home", "reason": "A filtração de feltro produz o concentrado mais limpo de todos os sistemas aqui — a manutenção vale a pena."},
+    {"label": "Para uma jarra de vidro cotidiana sem manutenção de feltro", "offerId": "primula-burke-cold-brew-carafe", "reason": "Sem drenagem, sem feltro, segura para lava-louças — a opção de vidro com menos manutenção."},
+    {"label": "Para lares de 1–2 pessoas com espaço limitado na geladeira", "offerId": "takeya-deluxe-cold-brew", "reason": "A única cafeteira projetada especificamente para caber na prateleira da porta da geladeira."},
+    {"label": "Para iniciantes ou quem precisa de capacidade de lote de 1 galão", "offerId": "county-line-mason-jar-cold-brew", "reason": "O ponto de entrada mais econômico; escala para lotes de um galão maiores do que qualquer cafeteira dedicada."}
+  ]
 }

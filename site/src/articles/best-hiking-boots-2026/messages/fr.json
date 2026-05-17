@@ -92,5 +92,139 @@
     "columbia-newton-ridge-plus-ii": "Prix d'entrée le plus accessible avec une vraie imperméabilité et un ajustement qui accommode les formes de pieds larges. La semelle Omni-Grip et la semelle intermédiaire plus souple limitent la performance sur terrain technique et la longévité à 600-800 km. Le bon choix pour la randonnée modérée en sentier avec un budget serré."
   },
   "pinDescription": "Chaussures de randonnée comparées pour 2026 — options mi-hautes imperméables de $110 entrée de gamme aux $200 chaussures d'approche techniques. Salomon vs Merrell vs Hoka vs La Sportiva vs Columbia : quelle semelle, quelle imperméabilité et quel ajustement convient à vos sentiers. #ChaussuresDeRandonnée #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque chaussure a été notée sur cinq critères spécifiques au sentier : maintien de la cheville et torsionnel mesuré par rapport à la rigidité du collier, type de membrane imperméable et compromis de respirabilité, profil de crans de semelle et adhérence sur rocher mouillé et boue, prix par km de durée de vie estimée, et distance de rodage selon les retours d'utilisateurs.",
+  "products": [
+    {
+      "offerId": "salomon-x-ultra-4-gtx",
+      "badge": "Meilleur Choix Global",
+      "review": "Le X Ultra 4 GTX établit le standard pour les chaussures de randonnée polyvalentes avec sa forme Contragrip précise et le système de laçage Quicklace. La semelle Contagrip MA offre une adhérence fiable sur rocher et boue sans être trop agressive pour un usage urbain. Le seul vrai inconvénient est le prix : à $200 il coûte $90 de plus que le Columbia, différence qui se justifie uniquement pour les randonneurs réguliers sur terrain technique.",
+      "pros": ["Forme précise qui réduit la fatigue sur 10+ km", "Système Quicklace permet un réglage fin en une seule traction", "Membrane GTX avec excellent rapport imperméabilité/respirabilité"],
+      "cons": ["Prix premium injustifié pour les randonnées occasionnelles faciles"],
+      "grade": "A+",
+      "specs": {
+        "Membrane": "Gore-Tex",
+        "Semelle": "Contagrip MA",
+        "Hauteur du collier": "Mi-hauteur",
+        "Poids (paire)": "880 g",
+        "Type de laçage": "Quicklace",
+        "Distance de rodage": "~8 km"
+      },
+      "scores": {
+        "Support": 4.7,
+        "Waterproofing": 4.8,
+        "Traction": 4.7,
+        "Value": 4.3,
+        "Durability": 4.8
+      }
+    },
+    {
+      "offerId": "merrell-moab-3-mid-wp",
+      "badge": "Meilleur Rapport Qualité-Prix",
+      "review": "Le Moab 3 Mid WP offre la meilleure combinaison prix-performance du groupe : protection Vibram TC5+ éprouvée, membrane M Select DRY et une forme qui s'adapte bien aux pieds moyens et larges. Il n'est pas aussi rigide torsionnellement que le Salomon sur terrain technique, mais pour 90% des randonneurs il est largement suffisant à $45 de moins.",
+      "pros": ["Semelle Vibram TC5+ avec adhérence supérieure sur rocher mouillé", "Forme large qui s'adapte à divers types de pied", "Excellent rapport prix-durabilité à $155"],
+      "cons": ["Rigidité torsionnelle moindre sur terrain très technique"],
+      "grade": "A",
+      "specs": {
+        "Membrane": "M Select DRY",
+        "Semelle": "Vibram TC5+",
+        "Hauteur du collier": "Mi-hauteur",
+        "Poids (paire)": "960 g",
+        "Type de laçage": "Lacet traditionnel",
+        "Distance de rodage": "~5 km"
+      },
+      "scores": {
+        "Support": 4.3,
+        "Waterproofing": 4.5,
+        "Traction": 4.6,
+        "Value": 4.9,
+        "Durability": 4.4
+      }
+    },
+    {
+      "offerId": "hoka-anacapa-mid-gtx",
+      "badge": "Meilleur Amorti",
+      "review": "L'Anacapa Mid GTX apporte la plateforme d'amorti de Hoka à la randonnée avec des résultats mitigés. L'amorti épais protège les articulations lors des longues sorties, et la semelle Vibram Megagrip accroche étonnamment bien. Cependant, la plateforme surélevée réduit la proprioception sur les sentiers techniques et le prix de $175 représente un surcoût par rapport au Merrell.",
+      "pros": ["Amorti épais idéal pour les journées de plus de 20 km", "Membrane Gore-Tex avec bon étanchéité par forte pluie", "Vibram Megagrip avec excellente traction tout-terrain"],
+      "cons": ["Plateforme haute réduit la sensation du sol sur les sentiers techniques"],
+      "grade": "B+",
+      "specs": {
+        "Membrane": "Gore-Tex",
+        "Semelle": "Vibram Megagrip",
+        "Hauteur du collier": "Mi-hauteur",
+        "Poids (paire)": "960 g",
+        "Drop": "6 mm",
+        "Distance de rodage": "~10 km"
+      },
+      "scores": {
+        "Support": 4.0,
+        "Waterproofing": 4.7,
+        "Traction": 4.8,
+        "Value": 3.8,
+        "Durability": 4.3
+      }
+    },
+    {
+      "offerId": "la-sportiva-tx4-gtx",
+      "badge": "Meilleur pour Terrain Technique",
+      "review": "La TX4 GTX est la chaussure d'approche la plus spécialisée du groupe, avec la semelle Vibram Megagrip la plus agressive et la rigidité torsionnelle la plus élevée. Elle domine sur rocher sec et mouillé là où d'autres glissent. Le prix de $189 est presque aussi élevé que le Salomon, et le rodage de 20+ km la rend inadaptée aux randonneurs occasionnels.",
+      "pros": ["Semelle Vibram Megagrip avec traction parfaite sur rocher", "Rigidité torsionnelle maximale pour l'escalade d'approche", "Gore-Tex avec étanchéité fiable en conditions extrêmes"],
+      "cons": ["Long rodage (~20 km) et ajustement serré initial"],
+      "grade": "B",
+      "specs": {
+        "Membrane": "Gore-Tex",
+        "Semelle": "Vibram Megagrip",
+        "Type": "Chaussure d'approche",
+        "Poids (paire)": "860 g",
+        "Rigidité torsionnelle": "Élevée",
+        "Distance de rodage": "~20 km"
+      },
+      "scores": {
+        "Support": 4.8,
+        "Waterproofing": 4.6,
+        "Traction": 5.0,
+        "Value": 3.5,
+        "Durability": 4.9
+      }
+    },
+    {
+      "offerId": "columbia-newton-ridge-plus-ii",
+      "badge": "Meilleur Prix d'Entrée",
+      "review": "Le Newton Ridge Plus II offre une vraie protection imperméable et un ajustement généreux pour seulement $110, ce qui en fait la meilleure introduction à la randonnée en chaussure mi-haute. La semelle Omni-Grip et la semelle intermédiaire plus souple limitent les performances sur terrain technique et la durée de vie à 600-800 km. C'est le bon choix pour la randonnée modérée en sentier sans besoin de traction spécialisée.",
+      "pros": ["Le prix le plus accessible du groupe à $110", "Ajustement large qui accueille confortablement les pieds larges", "Imperméabilisation Omni-Tech genuinement efficace par pluie modérée"],
+      "cons": ["Semelle et semelle intermédiaire limitées sur terrain technique exigeant"],
+      "grade": "B-",
+      "specs": {
+        "Membrane": "Columbia Omni-Tech",
+        "Semelle": "Omni-Grip",
+        "Hauteur du collier": "Haute",
+        "Poids (paire)": "1040 g",
+        "Durée de vie estimée": "600-800 km",
+        "Distance de rodage": "~3 km"
+      },
+      "scores": {
+        "Support": 3.8,
+        "Waterproofing": 4.2,
+        "Traction": 3.8,
+        "Value": 5.0,
+        "Durability": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les randonneurs qui cherchent la meilleure chaussure polyvalente",
+      "offerId": "salomon-x-ultra-4-gtx",
+      "reason": "La forme précise et le système Quicklace en font le plus polyvalent du groupe pour les sorties exigeantes."
+    },
+    {
+      "label": "Pour les randonneurs qui cherchent le meilleur rapport qualité-prix",
+      "offerId": "merrell-moab-3-mid-wp",
+      "reason": "Semelle Vibram et durabilité éprouvée à $45 de moins que le Salomon — le point optimal pour la majorité."
+    },
+    {
+      "label": "Pour les grimpeurs d'approche et terrain technique",
+      "offerId": "la-sportiva-tx4-gtx",
+      "reason": "La traction Vibram Megagrip et la rigidité maximale sont imbattables sur rocher sec et mouillé."
+    }
+  ]
 }

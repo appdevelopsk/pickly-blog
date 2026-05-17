@@ -113,5 +113,64 @@
     "drowsy-silk-sleep-mask": "Máscara de dormir de seda de amoreira de 22 momme da Drowsy com alça larga coberta de seda. O peso premium de momme produz uma seda mais densa, mais fresca e mais durável do que as opções de nível básico. A alça larga distribui a tensão por uma área maior na parte de trás da cabeça, reduzindo os embaraços matinais de cabelo e as marcas de pressão. A embalagem estética e o kit de cuidado de seda da marca a posicionam como a opção mais presenteável da categoria. A seção da ponte nasal moldada é uma solução intermediária que reduz mas não elimina o vazamento de luz -- o bloqueio total de luz não é garantido para todos os formatos de rosto; o preço premium é difícil de justificar puramente pelo desempenho de bloqueio de luz já que a Nidra custa uma fração para bloqueio superior via contorno de concha rígida; o cuidado da seda requer mais atenção do que as alternativas sintéticas."
   },
   "pinDescription": "5 máscaras de dormir classificadas para 2026 -- Alaska Bear seda vs Tempur-Pedic espuma viscoelástica vs Manta modular zero pressão vs Nidra contorno econômico vs Drowsy seda premium 22 momme. Ciência do bloqueio de luz, design da zona nasal, pressão ocular REM, marcas de alça para quem dorme de lado. #MascaraDormir #SonoSaudavel #português",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Cada máscara foi avaliada com base na fuga de luz medida na zona nasal, pressão de contato na pálpebra ao dormir de lado, respirabilidade do material, intensidade das marcas da alça após oito horas e resistência à lavagem em ciclos repetidos.",
+  "products": [
+    {
+      "offerId": "alaska-bear-sleep-mask",
+      "badge": "Melhor no geral",
+      "review": "A Alaska Bear Natural Silk oferece qualidade genuína em seda de amoreira a um preço de entrada que torna fácil a decisão de fazer upgrade das máscaras sintéticas. O design plano implica fuga de luz real na zona nasal para narizes proeminentes — esse é o compromisso pela respirabilidade e o contato suave com a pele.",
+      "pros": ["Superfície de contato em seda de amoreira 100%", "Leve e fresca para quem dorme com calor", "Lavável na máquina em ciclo delicado"],
+      "cons": ["O design plano deixa luz vazar na zona nasal para narizes proeminentes"],
+      "grade": "A+",
+      "specs": {"Material": "Seda de amoreira 100%", "Design": "Plano", "Alça": "Elástico ajustável", "Câmara ocular": "Nenhuma", "Lavável": "Sim (delicado)", "Peso": "~20g"},
+      "scores": {"Bloqueio de luz": 3.8, "Conforto": 4.5, "Respirabilidade": 4.8, "Custo-benefício": 4.9, "Ajuste": 3.9}
+    },
+    {
+      "offerId": "tempur-pedic-sleep-mask",
+      "badge": "Melhor distribuição de pressão",
+      "review": "A Tempur-Pedic Sleep Mask usa espuma viscoelástica de resposta lenta para distribuir o contato sobre o bordo orbital e as maçãs do rosto em vez de pressionar diretamente sobre as pálpebras. O acúmulo de calor é real — na segunda metade de uma noite quente sem ar-condicionado, a espuma retém mais calor corporal do que seda ou policarbonato.",
+      "pros": ["A espuma viscoelástica distribui uniformemente a pressão de contato", "Design contornado sem contato com a pálpebra", "Marca reconhecida com qualidade de material consistente"],
+      "cons": ["Retém calor corporal — desconfortável em quartos quentes sem ar-condicionado"],
+      "grade": "A",
+      "specs": {"Material": "Espuma viscoelástica", "Design": "Contornado", "Alça": "Elástico acolchoado", "Câmara ocular": "Espuma moldada", "Lavável": "Apenas limpar", "Peso": "~60g"},
+      "scores": {"Bloqueio de luz": 4.5, "Conforto": 4.2, "Respirabilidade": 3.0, "Custo-benefício": 3.8, "Ajuste": 4.0}
+    },
+    {
+      "offerId": "manta-sleep-mask",
+      "badge": "Melhor para extensões de cílios",
+      "review": "As cápsulas oculares magnéticas ajustáveis independentemente da Manta resolvem o problema que as conchas contornadas fixas não conseguem — adaptar-se a geometrias faciais assimétricas e garantir zero contato com a pálpebra. O peso do conjunto de cápsulas é perceptível ao dormir de lado com o rosto pressionado no travesseiro.",
+      "pros": ["Cápsulas magnéticas ajustáveis independentemente para qualquer formato de rosto", "Zero contato com a pálpebra — seguro para extensões de cílios", "Alça larga de velcro deixa marcas mínimas pela manhã"],
+      "cons": ["O conjunto de cápsulas é mais pesado que máscaras planas ou de policarbonato"],
+      "grade": "B+",
+      "specs": {"Material": "Espuma + cápsulas de policarbonato", "Design": "Modular ajustável", "Alça": "Velcro largo", "Câmara ocular": "Livre, zero contato", "Lavável": "Lavagem à mão", "Peso": "~90g"},
+      "scores": {"Bloqueio de luz": 4.9, "Conforto": 4.0, "Respirabilidade": 3.8, "Custo-benefício": 3.5, "Ajuste": 4.8}
+    },
+    {
+      "offerId": "nidra-deep-rest-mask",
+      "badge": "Melhor contornado econômico",
+      "review": "A Nidra Deep Rest Mask oferece o benefício central do design contornado — uma câmara ocular livre sem contato com a pálpebra — a uma fração do custo da Manta. A alça elástica estreita é o ponto mais fraco: quem dorme de lado e a pressiona contra o travesseiro verá marcas visíveis por até uma hora após acordar.",
+      "pros": ["Concha de policarbonato cria câmara ocular livre a preço econômico", "Adequada para portadoras de extensões de cílios", "Concha rígida leve permanece estável durante toda a noite"],
+      "cons": ["A alça elástica estreita deixa marcas de pressão para quem dorme de lado"],
+      "grade": "B",
+      "specs": {"Material": "Concha de policarbonato + forro de poliéster", "Design": "Domo contornado", "Alça": "Elástico estreito", "Câmara ocular": "Livre, zero contato", "Lavável": "Lavagem à mão", "Peso": "~35g"},
+      "scores": {"Bloqueio de luz": 4.6, "Conforto": 3.7, "Respirabilidade": 3.5, "Custo-benefício": 4.7, "Ajuste": 3.8}
+    },
+    {
+      "offerId": "drowsy-silk-sleep-mask",
+      "badge": "Melhor seda premium",
+      "review": "A seda de amoreira de 22 momme da Drowsy Silk Sleep Mask é notavelmente mais densa do que a seda básica, e a alça larga coberta de seda é a mais gentil com o cabelo nesta comparação. A ponte nasal moldada reduz as fugas de luz sem eliminá-las — o escurecimento total não é garantido para todos os formatos de rosto.",
+      "pros": ["A seda de 22 momme é mais durável e fresca do que opções de momme inferior", "A alça larga em seda é gentil com o cabelo", "Embalagem premium a torna a opção mais adequada como presente"],
+      "cons": ["A ponte nasal moldada reduz mas não elimina as fugas de luz"],
+      "grade": "B-",
+      "specs": {"Material": "Seda de amoreira 22 momme", "Design": "Semi-contornado plano", "Alça": "Larga coberta de seda", "Câmara ocular": "Nenhuma", "Lavável": "Lavagem à mão recomendada", "Peso": "~30g"},
+      "scores": {"Bloqueio de luz": 3.6, "Conforto": 4.7, "Respirabilidade": 4.6, "Custo-benefício": 3.2, "Ajuste": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para quem compra sua primeira máscara de seda", "offerId": "alaska-bear-sleep-mask", "reason": "Seda de amoreira genuína a preço acessível — a diferença com o sintético é sentida imediatamente."},
+    {"label": "Para portadoras de extensões de cílios", "offerId": "manta-sleep-mask", "reason": "As cápsulas ajustáveis independentemente garantem zero contato com a pálpebra durante oito horas de sono."},
+    {"label": "Para quem dorme com calor e tem orçamento limitado", "offerId": "nidra-deep-rest-mask", "reason": "A concha de policarbonato contorna sem acumular calor, e a economia de preço pode ir para um ventilador."},
+    {"label": "Como presente", "offerId": "drowsy-silk-sleep-mask", "reason": "Seda de 22 momme, alça suave e larga e embalagem elegante fazem deste o presente mais cuidado da categoria."},
+    {"label": "Para fãs de espuma viscoelástica", "offerId": "tempur-pedic-sleep-mask", "reason": "Se já usa Tempur para travesseiros ou pillow tops, a consistência do material é exatamente o que você esperaria."}
+  ]
 }

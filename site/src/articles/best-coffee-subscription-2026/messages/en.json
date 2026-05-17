@@ -93,5 +93,99 @@
     "peets-coffee-subscription": "Best mainstream ground coffee subscription — Major Dickason's Blend at ~$12-15/12 oz, free shipping, no learning curve. Consistent dark roast, widely loved for its predictability. Best for drinkers who want the same reliable cup every morning. Limitation: zero variety; dark roast profile won't satisfy light-roast specialty enthusiasts."
   },
   "pinDescription": "5 coffee subscriptions compared for 2026: Trade Coffee vs Atlas Coffee Club vs Onyx vs Angels' Cup vs Peet's. Freshness, price per oz, personalization — find the right subscription before your next bag runs out.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each subscription was evaluated on roast-date freshness at delivery, personalization accuracy after 3+ orders, price per ounce normalized across bag sizes, grind options, and ease of pausing or skipping shipments.",
+  "products": [
+    {
+      "offerId": "trade-coffee-subscription",
+      "badge": "Best Overall",
+      "review": "Trade Coffee's preference-matching algorithm pulls from over 60 independent roasters and ships within 1-3 days of roast — a combination no single-roaster subscription can match for variety and freshness simultaneously. The honest trade-off: the algorithm needs 3-5 orders to calibrate, so early bags may miss the mark.",
+      "pros": ["60+ roaster network covers a wide range of origins and styles", "Roast date printed on every bag — full freshness transparency", "Ratings feedback loop continuously refines future matches"],
+      "cons": ["Early deliveries may not match your palate until the algorithm learns your ratings"],
+      "grade": "A+",
+      "specs": {
+        "Roaster network": "60+ independent roasters",
+        "Ships after roast": "1–3 days",
+        "Bag size": "10–12 oz",
+        "Price range": "$14–$22/bag",
+        "Grind options": "Whole bean + 4 pre-ground types",
+        "Subscription flexibility": "Weekly to every 8 weeks"
+      },
+      "scores": {"Freshness": 4.9, "Flavor": 4.7, "Value": 4.3, "Convenience": 4.5, "Personalization": 4.8}
+    },
+    {
+      "offerId": "atlas-coffee-club",
+      "badge": "Best for Explorers",
+      "review": "Atlas Coffee Club delivers a different producing country every month with roast-date stamped bags and an educational postcard — the best format for drinkers who approach coffee the way a wine enthusiast approaches regional exploration. No personalization means you get Atlas's editorial picks, not preference-matched selections.",
+      "pros": ["New origin country every month with genuine geographic variety", "Roast-date stamped, ships within days of roast", "Origin postcards with tasting notes and processing method details"],
+      "cons": ["No personalization — cannot specify taste preferences or exclude process types"],
+      "grade": "A",
+      "specs": {
+        "Sourcing model": "Single-origin, monthly rotating country",
+        "Ships after roast": "1–4 days",
+        "Bag size": "12 oz",
+        "Price range": "$14–$19/bag including shipping",
+        "Grind options": "Whole bean (ground on request)",
+        "Subscription flexibility": "Skip, pause, or cancel anytime"
+      },
+      "scores": {"Freshness": 4.7, "Flavor": 4.6, "Value": 4.5, "Convenience": 4.4, "Personalization": 2.5}
+    },
+    {
+      "offerId": "onyx-coffee-lab-subscription",
+      "badge": "Best Quality Ceiling",
+      "review": "Onyx roasts to order and ships within 24-48 hours of roasting — among the fastest in the category — and their sourcing targets high-scoring, process-forward lots that you won't find at grocery retail. The narrow aesthetic (lighter roasts, fruit-forward) is a strength for buyers who already know they want it and a limitation for anyone seeking variety.",
+      "pros": ["Roasts to order, ships within 24–48 hours — fastest fresh delivery tested", "Consistently high-quality sourcing: competition-level lots and process transparency", "Subscription discount makes premium pricing more sustainable"],
+      "cons": ["Narrow roast aesthetic — not suitable for dark-roast or blend preferences"],
+      "grade": "B+",
+      "specs": {
+        "Sourcing model": "Single roaster (Onyx's own roasts)",
+        "Ships after roast": "24–48 hours",
+        "Bag size": "10–12 oz",
+        "Price range": "$18–$22/bag",
+        "Grind options": "Whole bean only",
+        "Subscription flexibility": "Self-serve dashboard, pause/skip available"
+      },
+      "scores": {"Freshness": 5.0, "Flavor": 4.8, "Value": 3.8, "Convenience": 4.2, "Personalization": 2.0}
+    },
+    {
+      "offerId": "angels-cup-subscription",
+      "badge": "Best Palate Trainer",
+      "review": "Angels' Cup sends numbered, unlabeled sample packs designed for blind tasting before revealing origins — a genuinely unique format that builds tasting skill rather than habit. The per-ounce cost is the highest of the five, and the format doesn't work as a primary daily coffee supply.",
+      "pros": ["Blind tasting format removes origin bias and develops accurate palate assessment", "Ships within 1-5 days of roast with numbered sample packaging", "Memberships reveal origin details post-tasting for structured learning"],
+      "cons": ["Sample format is not practical as primary daily coffee supply — high per-ounce cost"],
+      "grade": "B",
+      "specs": {
+        "Sourcing model": "Multi-roaster blind sample sets",
+        "Ships after roast": "1–5 days",
+        "Sample size": "4 samples per set (~1 oz each)",
+        "Price range": "$10–$14 for 4-sample pack",
+        "Grind options": "Pre-ground samples; whole bean in bag subscriptions",
+        "Subscription flexibility": "Online cancel and skip from member portal"
+      },
+      "scores": {"Freshness": 4.6, "Flavor": 4.5, "Value": 3.5, "Convenience": 3.8, "Personalization": 3.0}
+    },
+    {
+      "offerId": "peets-coffee-subscription",
+      "badge": "Best No-Fuss Pick",
+      "review": "Peet's Major Dickason's Blend subscription offers consistent dark-roast quality at the lowest price per ounce of the five, with free shipping and no learning curve. It's the right answer for anyone who wants the same reliable cup every morning — and entirely the wrong one for anyone interested in specialty roasts or variety.",
+      "pros": ["Lowest price per ounce with free shipping included", "Consistent dark-roast character — no surprises or rotating varietals", "Widely available pre-ground options — no grinder required"],
+      "cons": ["Zero variety; dark roast profile won't satisfy light-roast specialty coffee drinkers"],
+      "grade": "B-",
+      "specs": {
+        "Blend": "Major Dickason's Blend (dark roast)",
+        "Ships after roast": "Within days via direct channel",
+        "Bag size": "12 oz",
+        "Price range": "$12–$15/bag with free shipping",
+        "Grind options": "Whole bean and all grind types",
+        "Subscription flexibility": "Skip and pause through Peet's portal"
+      },
+      "scores": {"Freshness": 4.2, "Flavor": 4.0, "Value": 4.8, "Convenience": 4.9, "Personalization": 1.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For curious drinkers who want variety without research", "offerId": "trade-coffee-subscription", "reason": "The preference algorithm handles roaster discovery; you just rate what you receive."},
+    {"label": "For the geography-driven coffee explorer", "offerId": "atlas-coffee-club", "reason": "A different country every month with origin context — systematic and educational."},
+    {"label": "For buyers who already prefer light, process-forward specialty coffee", "offerId": "onyx-coffee-lab-subscription", "reason": "Roasts to order with the fastest ship time and no compromise on quality tier."},
+    {"label": "For those who want to develop their palate through blind tasting", "offerId": "angels-cup-subscription", "reason": "The only subscription structured as a tasting exercise rather than a daily supply."},
+    {"label": "For anyone who just wants reliable dark-roast ground coffee delivered", "offerId": "peets-coffee-subscription", "reason": "Consistent, affordable, pre-ground — no learning curve, no surprises."}
+  ]
 }

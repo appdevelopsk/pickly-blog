@@ -63,5 +63,64 @@
     "franks-redhot-original": "El frasco de 23 oz es el mejor valor. Frank's también vende una salsa Buffalo Wing premezclada con mantequilla ya añadida."
   },
   "pinDescription": "Las 5 mejores salsas picantes de 2026 — desde la suave Crystal estilo Louisiana hasta la compleja Cholula y la clásica Tabasco. ¡Encuentra tu nivel de picante perfecto! #salsaPicante #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada salsa fue evaluada según el nivel de picante en Scoville, la calidad de los ingredientes, la complejidad de sabor más allá del picante, la versatilidad con diferentes alimentos y el valor precio-volumen.",
+  "products": [
+    {
+      "offerId": "tabasco-original-red",
+      "badge": "Mejor en general",
+      "review": "Tres años de fermentación en barrica en Avery Island dan al Tabasco una intensidad y consistencia que las salsas de fábrica no pueden replicar. La textura fina y avinagrada se distribuye uniformemente sobre cualquier alimento. Con 2.500–5.000 Scoville, el picante es presente pero no abrumador. La única limitación real: la pequeña botella de 2 oz resulta cara por onza si se usa a diario.",
+      "pros": ["La fermentación de tres años crea capas de sabor que las salsas simples no logran", "Textura fina que se distribuye uniformemente sobre cualquier alimento", "Disponibilidad global incomparable"],
+      "cons": ["Las botellas pequeñas son caras por onza frente a competidores de gran formato"],
+      "grade": "A+",
+      "specs": {"Scoville": "2.500–5.000", "Base": "Pimientos Tabasco", "Estilo": "Fermentada", "Vinagre": "Destilado", "Tamaños disponibles": "2 oz – 1 galón", "Origen": "Avery Island, Louisiana"},
+      "scores": {"Nivel de picante": 3.8, "Sabor": 4.8, "Valor": 4.0, "Versatilidad": 4.9, "Calidad ingredientes": 4.7}
+    },
+    {
+      "offerId": "cholula-original",
+      "badge": "Mejor complejidad de sabor",
+      "review": "La mezcla de chiles pequin y arbol de Cholula ofrece más dimensiones de sabor que las salsas de cayena pura: fruta y tierra detrás del picante, no solo ácido y pimienta. Con 1.000–2.000 Scoville, es accesible para los menos tolerantes al picante. La tapa de madera es encantadora, pero el formato flip-top es más práctico para uso diario.",
+      "pros": ["La mezcla pequin-arbol crea genuina profundidad de sabor", "Nivel de picante accesible para grupos con distinta tolerancia", "Icónica tapa de madera"],
+      "cons": ["La versión con tapa de madera es menos práctica que el flip-top para uso diario en cocina"],
+      "grade": "A",
+      "specs": {"Scoville": "1.000–2.000", "Base": "Chiles pequin y arbol", "Estilo": "Mezcla molida en fresco", "Origen": "Chapala, México", "Tamaños disponibles": "5 oz – 64 oz", "Vinagre": "Sidra de manzana"},
+      "scores": {"Nivel de picante": 2.8, "Sabor": 4.9, "Valor": 4.3, "Versatilidad": 4.7, "Calidad ingredientes": 4.5}
+    },
+    {
+      "offerId": "valentina-extra-hot",
+      "badge": "Mejor relación calidad-precio",
+      "review": "Menos de $3 por una botella grande — Valentina Extra Hot es la salsa de trabajo de la despensa. Su consistencia espesa se adhiere al alimento en lugar de escurrirse. El sabor es terroso y ligeramente dulce antes de que llegue el picante (~2.100 Scoville). Le falta la complejidad fermentada del Tabasco, pero a este precio no es una expectativa razonable.",
+      "pros": ["Precio por onza excepcional — mejor relación calidad-precio del comparativo", "Textura espesa que se adhiere al alimento en lugar de gotear", "Perfil de sabor terroso y ligeramente dulce antes del picante"],
+      "cons": ["Menos compleja que las salsas fermentadas — perfil de sabor más sencillo"],
+      "grade": "B+",
+      "specs": {"Scoville": "~2.100", "Base": "Chiles secos", "Estilo": "Tipo pasta espesa", "Origen": "Guadalajara, México", "Tamaños disponibles": "12,5 oz – 34 oz", "Vinagre": "Destilado"},
+      "scores": {"Nivel de picante": 3.5, "Sabor": 4.0, "Valor": 5.0, "Versatilidad": 4.4, "Calidad ingredientes": 3.8}
+    },
+    {
+      "offerId": "crystal-hot-sauce",
+      "badge": "Mejor estilo Louisiana",
+      "review": "Cayena envejecida y vinagre destilado — Crystal es la expresión más limpia de una salsa Louisiana. Con 800–1.000 Scoville, el picante es lo suficientemente suave para cocinar en grandes cantidades donde se busca potenciar el sabor sin agobiar a los comensales. La acidez es notable: Crystal aporta brillo y carácter pimiento sin la agresividad del Tabasco.",
+      "pros": ["Sabor limpio de cayena envejecida sin agresividad", "Picante bajo para cocinar en grandes cantidades con seguridad", "Buen valor en el tamaño estándar de 12 oz"],
+      "cons": ["El bajo Scoville no satisfará a los amantes del picante fuerte"],
+      "grade": "B",
+      "specs": {"Scoville": "800–1.000", "Base": "Cayena envejecida", "Estilo": "Estilo Louisiana", "Origen": "Nueva Orleans, Louisiana", "Tamaños disponibles": "6 oz – 1 galón", "Vinagre": "Destilado"},
+      "scores": {"Nivel de picante": 2.0, "Sabor": 4.3, "Valor": 4.6, "Versatilidad": 4.5, "Calidad ingredientes": 4.2}
+    },
+    {
+      "offerId": "franks-redhot-original",
+      "badge": "Mejor para cocinar",
+      "review": "Frank's RedHot es la base original de la salsa buffalo y la opción más suave del comparativo (~450 Scoville). La combinación cayena-vinagre recubre las proteínas perfectamente y aguanta el calor del horno sin romperse. Se percibe más como 'ácida' que 'picante', lo que la convierte en la opción correcta para alitas, dips y recetas donde el picante debe complementar.",
+      "pros": ["Diseñada específicamente para recubrir alitas estilo buffalo — se adhiere y une perfectamente", "Picante suave apta para comensales poco tolerantes al picante", "Gran formato disponible para cocinar en grandes cantidades"],
+      "cons": ["Demasiado suave para funcionar como salsa picante independiente para los amantes del picante"],
+      "grade": "B-",
+      "specs": {"Scoville": "~450", "Base": "Cayena envejecida", "Estilo": "Estilo buffalo", "Origen": "Springfield, Missouri", "Tamaños disponibles": "5 oz – 1 galón", "Vinagre": "Destilado"},
+      "scores": {"Nivel de picante": 1.5, "Sabor": 4.0, "Valor": 4.5, "Versatilidad": 4.2, "Calidad ingredientes": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para uso diario en la mesa", "offerId": "tabasco-original-red", "reason": "La complejidad fermentada y la textura fina combinan con prácticamente cualquier alimento."},
+    {"label": "Para los amantes del sabor por encima del picante", "offerId": "cholula-original", "reason": "La mezcla pequin-arbol aporta profundidad y carácter más allá del conteo de Scoville."},
+    {"label": "Para surtir la despensa con buen presupuesto", "offerId": "valentina-extra-hot", "reason": "Mejor precio por onza del comparativo, con textura espesa que se adhiere perfectamente."},
+    {"label": "Para noches de alitas y cocina en grandes cantidades", "offerId": "franks-redhot-original", "reason": "Diseñada para salsear alitas estilo buffalo — se adhiere uniformemente y aguanta el calor del horno."},
+    {"label": "Para cocina de estilo sureño", "offerId": "crystal-hot-sauce", "reason": "Sabor limpio de cayena envejecida que realza el gumbo, las judías rojas y el pollo frito."}
+  ]
 }

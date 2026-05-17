@@ -66,5 +66,64 @@
     "kitchenaid-ice-cream-maker-attachment": "Vorzufrierendes Behalter-Zubehör fur KitchenAid-Standmixer. Keine separate Motorbasis notwendig. $50-70. Ideal fur KitchenAid-Besitzer, die Eis ohne ein weiteres Gerat auf der Arbeitsfläche herstellen mochten."
   },
   "pinDescription": "Eismaschinenvergleich 2026: Cuisinart ICE-21 vs. Whynter Kompressor vs. Breville Smart Scoop vs. Ninja Creami vs. KitchenAid-Zubehör — Ruhrmethode, Gefrierzeit und welche Maschine das glatteste Eis macht, verglichen. #Eismaschine #Eis #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jede Maschine wurde nach Gefrier-/Rührqualität bei drei Basistypen (Standardcustard, Sorbet, proteinreich), Kapazität relativ zur Haushaltsgröße, Zeit bis zum ersten Löffel, Reinigungsfreundlichkeit und realistischem Preis-Leistungs-Verhältnis bewertet.",
+  "products": [
+    {
+      "offerId": "cuisinart-ice-21-ice-cream-maker",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Der Cuisinart ICE-21 ist seit über zwei Jahrzehnten die meistverkaufte Haushaltseismaschine in Nordamerika — weil das Prinzip wirklich gut ist und der Preis realistisch blieb. Schüssel vorfrieren, 20–25 Minuten rühren, konstant cremiges Eis für etwa $50–60. Die eigentliche Einschränkung ist das Planungserfordernis — die Schüssel braucht 24 Stunden im Gefrierfach. Für die meisten Haushalte, die gelegentlich Eis machen, ist das kein Problem.",
+      "pros": ["Unter $60 für bewährte, zuverlässige Rührleistung", "Ersatzbehälter erhältlich, falls Schüssel bricht", "Kompakter Platzbedarf gegenüber Kompressormaschinen"],
+      "cons": ["24-Stunden-Vorfrierplanung für jeden Ansatz erforderlich"],
+      "grade": "A+",
+      "specs": {"Kapazität": "1,5 Quart (ca. 1,4 L)", "Typ": "Vorgefrierter Behälter", "Rührzeit": "20–25 Min.", "Motor": "ca. 100 W", "Spülmaschinenfest": "Schüssel: Nein, Rührer: Ja", "Maße": "20 × 18 × 23 cm"},
+      "scores": {"Gefrierqualität": 4.2, "Kapazität": 3.5, "Geschwindigkeit": 3.0, "Bedienkomfort": 4.8, "Preis-Leistung": 5.0}
+    },
+    {
+      "offerId": "whynter-icm-200ls-ice-cream-maker",
+      "badge": "Bester Kompressor",
+      "review": "Der Whynter ICM-200LS beseitigt die Planungsbarriere vollständig — eingebauter Kompressor, 2,1 Quart, kein Vorfrieren nötig. Basis mischen, einfüllen, in 30–40 Minuten Eis haben. Die Vorkühlungsfunktion startet die Schüssel kälter, was die Textur messbar verbessert. Mehrere Ansätze am selben Tag sind möglich. Für $250–300 bezahlt man den Kompressor und die Spontanität; die Eisqualität selbst ist mit dem Cuisinart vergleichbar.",
+      "pros": ["Kein Vorfrieren — Eis auf Abruf in unter einer Stunde", "2,1 Quart — größte Kapazität in diesem Vergleich", "Vorkühlung + Härtungsfunktionen für bessere Texturkontrolle"],
+      "cons": ["Großer Platzbedarf — benötigt festen Gegenplatz oder tiefen Schrank"],
+      "grade": "A",
+      "specs": {"Kapazität": "2,1 Quart (ca. 2 L)", "Typ": "Eingebauter Kompressor", "Rührzeit": "30–45 Min.", "Kompressor": "Eigenständig", "Geräuschpegel": "ca. 55 dB", "Maße": "40 × 28 × 38 cm"},
+      "scores": {"Gefrierqualität": 4.5, "Kapazität": 5.0, "Geschwindigkeit": 4.5, "Bedienkomfort": 4.5, "Preis-Leistung": 3.8}
+    },
+    {
+      "offerId": "breville-bci600xl-smart-scoop",
+      "badge": "Beste Präzision",
+      "review": "Der automatische Härtesensor des Breville Smart Scoop ist das Alleinstellungsmerkmal gegenüber anderen Kompressormaschinen — er liest den Motorwiderstand während das Gemisch dicker wird und stoppt beim gewählten Härtegrad (11 Stufen von Softeis bis extra fest), ohne dass man zusehen muss. Die 3-Stunden-Warmhaltefunktion hält das fertige Eis auf Serviertemperatur. Für Haushalte, die regelmäßig Gelato, Sorbet und Eis in verschiedenen Basistypen herstellen, ist der Aufpreis von $350–400 gerechtfertigt.",
+      "pros": ["Automatischer Härtesensor nimmt das Rätselraten bei verschiedenen Basistypen weg", "3-Stunden-Warmhaltefunktion erhält gleichmäßige Servierqualität", "30-Min.-Vorkühlmodus für optimale Starttemperatur"],
+      "cons": ["$350–400 sind schwer zu rechtfertigen für Haushalte mit nur einem Basistyp"],
+      "grade": "B+",
+      "specs": {"Kapazität": "1 Quart (ca. 0,95 L)", "Typ": "Eingebauter Kompressor", "Härteeinstellungen": "11", "Vorkühlzeit": "30 Min.", "Warmhalten": "Bis zu 3 Stunden", "Maße": "39 × 22 × 28 cm"},
+      "scores": {"Gefrierqualität": 4.9, "Kapazität": 3.2, "Geschwindigkeit": 4.2, "Bedienkomfort": 4.0, "Preis-Leistung": 3.2}
+    },
+    {
+      "offerId": "ninja-creami-ice-cream-maker",
+      "badge": "Bestes für nicht-standardisierte Basen",
+      "review": "Ninja Creami rührt nicht — es verarbeitet einen vollständig eingefrorenen Pintbehälter mit Hochgeschwindigkeitsklingen zu glatter Textur. Das ermöglicht Basen, die in keiner herkömmlichen Rührmaschine funktionieren würden: proteinreich, ballaststoffreich, nur Frucht oder fettarm. Die Textur ist bemerkenswert glatt. Einschränkung: ein Pint pro Ansatz und 12–24 Stunden Vorfrierzeit. Für protein- oder diätbewusste Haushalte öffnet diese Maschine Möglichkeiten, die es sonst nicht gibt.",
+      "pros": ["Verarbeitet proteinreiche und nicht-standardisierte Basen, die traditionelles Rühren nicht schafft", "Sehr glatte Textur durch Klingenverarbeitung", "Pintportionen passen perfekt für ein bis zwei Personen"],
+      "cons": ["Ein Pint pro Ansatz — größere Haushalte benötigen mehrere vorbereitete Behälter"],
+      "grade": "B",
+      "specs": {"Kapazität": "1 Pint pro Ansatz", "Typ": "Klingenprozessor", "Vorefrierdauer": "12–24 Stunden", "Verarbeitungszeit": "ca. 2 Min.", "Behälter": "Eigene Pintbehälter", "Maße": "33 × 15 × 38 cm"},
+      "scores": {"Gefrierqualität": 4.6, "Kapazität": 2.5, "Geschwindigkeit": 2.5, "Bedienkomfort": 4.2, "Preis-Leistung": 4.0}
+    },
+    {
+      "offerId": "kitchenaid-ice-cream-maker-attachment",
+      "badge": "Bestes für KitchenAid-Besitzer",
+      "review": "Wer bereits eine KitchenAid-Küchenmaschine besitzt, fügt mit diesem Aufsatz für $50–70 Eiskapazität hinzu, ohne einen weiteren Motorblock auf dem Tresen zu brauchen. Behälter vorfrieren (gleiche 24-Stunden-Anforderung wie beim Cuisinart), an die Küchenmaschine anstecken, ca. 25–30 Minuten rühren. Leistung vergleichbar mit dem Cuisinart ICE-21. Der echte Vorteil ist die Gerätekompaktierung — ein Gerät weniger für alle, die bereits in das KitchenAid-Ökosystem investiert haben. Wer keine KitchenAid hat, kauft einfach den Cuisinart.",
+      "pros": ["Keine separate Motorbasis — nutzt die bestehende KitchenAid-Investition", "Nur die Schüssel braucht Lagerplatz", "Vergleichbare Rührqualität wie ein Standalone-Cuisinart"],
+      "cons": ["Lohnt sich nur, wenn man bereits eine KitchenAid-Küchenmaschine besitzt"],
+      "grade": "B-",
+      "specs": {"Kapazität": "1,9 Quart (ca. 1,8 L)", "Typ": "Vorgefrierter Behälteraufsatz", "Kompatibel mit": "Alle KitchenAid Tilt-Head & Bowl-Lift", "Rührzeit": "25–30 Min.", "Spülmaschinenfest": "Schüssel: Nein", "Lagerung": "Nur Schüssel"},
+      "scores": {"Gefrierqualität": 4.0, "Kapazität": 4.2, "Geschwindigkeit": 2.8, "Bedienkomfort": 4.5, "Preis-Leistung": 4.3}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für gelegentlichen Heimgebrauch", "offerId": "cuisinart-ice-21-ice-cream-maker", "reason": "Bestes Preis-Leistungs-Verhältnis für Haushalte, die ein paarmal im Monat Eis machen und 24 Stunden Vorlauf nicht stört."},
+    {"label": "Für spontane Produktion", "offerId": "whynter-icm-200ls-ice-cream-maker", "reason": "Eingebauter Kompressor bedeutet keine Vorfrierwartezeit — mehrere Ansätze am selben Tag ohne Planung."},
+    {"label": "Für Präzision bei mehreren Basistypen", "offerId": "breville-bci600xl-smart-scoop", "reason": "Automatischer Härtesensor passt sich an Gelato, Sorbet und Eis an, ohne manuell zu überwachen."},
+    {"label": "Für proteinbewusste oder diätbewusste Haushalte", "offerId": "ninja-creami-ice-cream-maker", "reason": "Klingenverarbeitung ermöglicht proteinreiche, fruchtbasierte und fettarme Basen, die Rührmaschinen nicht gut schaffen."},
+    {"label": "Für bestehende KitchenAid-Besitzer", "offerId": "kitchenaid-ice-cream-maker-attachment", "reason": "Fügt Eiskapazität ohne ein weiteres Gerät hinzu — die logische Wahl, wenn man bereits eine KitchenAid hat."}
+  ]
 }

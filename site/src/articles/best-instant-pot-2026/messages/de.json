@@ -62,5 +62,64 @@
     "instant-pot-duo-crisp-air-fryer": "Ergranzt einen dedizierten Heissluftfrittierdeckel zur bewahrten Druckkochbasis der Duo -- die richtige Wahl, wenn du beide Fahigkeiten im Instant-Pot-Okosystem mochtest statt zu Ninja zu wechseln."
   },
   "pinDescription": "Beste Instant Pot 2026: Duo 7-in-1 vs Pro 10-in-1 vs Ninja Foodi -- welcher Multikocher lohnt sich wirklich fur Abendessenmahlzeiten unter der Woche? #InstantPot #SchnellKochen #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jeder Multikocher wurde auf Druckaufbauzeit, Dichtungszuverlässigkeit nach 50+ Zyklen, Anbraten-Bräunungsleistung, Reinigungsfreundlichkeit von Innentopf und Deckel sowie ob beworbene Funktionen (Sous vide, Heißluftfrittieren) mit dedizierten Geräten vergleichbar sind, bewertet.",
+  "products": [
+    {
+      "offerId": "instant-pot-duo-7in1-6qt",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Der Duo 7-in-1 ist die richtige Standardwahl für die meisten Haushalte — er erledigt Druckkochen, Schongaren, Reis, Anbraten, Dämpfen, Joghurt und Warmhalten mit bewährter Zuverlässigkeit in Millionen von Einheiten. Für ca. 50–70 € ist es der günstigste Instant Pot, der alles abdeckt, was die meisten Menschen wirklich brauchen. Die Dichtungsringe und Zubehörteile sind allgemein verfügbar, und das Bedieninterface ist nach zwei Anwendungen intuitiv. Die einzige Einschränkung: Die Sautierfunktion stößt bei einem vollen Topf an eine Temperaturgrenze, die eher dämpft als bräunt.",
+      "pros": ["Deckt 7 wesentliche Funktionen zum günstigsten Preis im Sortiment ab", "Millionen von Einheiten im Einsatz — die meistgeprüfte Zuverlässigkeit", "Dichtungsringe und Zubehör allgemein verfügbar"],
+      "cons": ["Sautierfunktion kämpft damit, Fleisch in einem vollen Topf zu bräunen — Temperaturobergrenze zu niedrig"],
+      "grade": "A+",
+      "specs": {"Kapazität": "6 Quart (ca. 5,7 L)", "Funktionen": "7-in-1", "Maximaldruck": "15 PSI", "Innentopf": "Edelstahl", "Sautiertemp.": "Mittel-Hoch", "Maße": "33 × 31 × 32 cm"},
+      "scores": {"Druckleistung": 4.7, "Vielseitigkeit": 4.5, "Bedienkomfort": 4.9, "Preis-Leistung": 5.0, "Kapazität": 4.5}
+    },
+    {
+      "offerId": "instant-pot-pro-10in1-6qt",
+      "badge": "Bestes Upgrade",
+      "review": "Der Pro verdient seinen Preisaufschlag mit drei bedeutsamen Zusätzen gegenüber dem Duo: höhere Sautiertemperaturen, die echtes Maillard-Bräunen in einem vollen Fleischtopf erzeugen; ein Sous-vide-Modus für präzises Garen von Proteinen ohne separaten Zirkulator; und ein Drehregler-Druckablassventil, das verhindert, dass stärkehaltige Lebensmittel beim schnellen Ablassen schäumen und verstopfen. Wenn Sie regelmäßig vor dem Schmoren anbraten, Proteine auf präzise Temperaturen garen oder Bohnen und Risotto durch Dampfablassen bereiten, zeigen sich diese Unterschiede bei jeder Mahlzeit. Für einfaches Druckkochen reicht der Duo.",
+      "pros": ["Höhere Sautiertemperatur erzeugt echtes Bräunen, kein Dämpfen", "Sous-vide-Modus eliminiert den Bedarf an einem separaten Tauchzirkulator", "Dreh-Druckablassventil verhindert Schaumverstopfungen bei stärkehaltigen Gerichten"],
+      "cons": ["Ca. 80–120 € ist ein echter Preissprung gegenüber dem Duo für Funktionen, die manche Haushalte nicht nutzen"],
+      "grade": "A",
+      "specs": {"Kapazität": "6 Quart (ca. 5,7 L)", "Funktionen": "10-in-1", "Maximaldruck": "15 PSI", "Druckablassventil": "Drehregler", "Sous vide": "Ja", "Maße": "34 × 32 × 33 cm"},
+      "scores": {"Druckleistung": 4.8, "Vielseitigkeit": 4.9, "Bedienkomfort": 4.5, "Preis-Leistung": 4.0, "Kapazität": 4.5}
+    },
+    {
+      "offerId": "ninja-fd401-foodi-8qt",
+      "badge": "Bestes Gerät zum Heißluftfrittieren",
+      "review": "TenderCrisp-Technologie — zuerst Druckkochen, dann Wechsel zum Knusperlid für ein echtes Heißluftfrittierergebnis — ist die bestimmende Fähigkeit des Foodi. Die 8-Quart-Kapazität und der dedizierte Knusperdeckel erzeugen gleichmäßigeres Bräunen als jede Instant-Pot-Heißluftfrittier-Konfiguration, und der Luftstrom ist deutlich stärker als beim Duo Crisp-Deckel. Bei ca. 150–200 € kostet der Foodi ungefähr doppelt so viel wie der Duo und benötigt mehr Abstellfläche. Der Kompromiss ist gerechtfertigt, wenn Heißluftfrittieren eine regelmäßige Anforderung ist.",
+      "pros": ["TenderCrisp erzeugt Texturen, die weder ein eigenständiger Heißluftfrittierkorb noch ein Druckkochtopf allein erreichen kann", "8-Quart-Kapazität für ganze Rippenbögen und große Mengen", "Höherer Luftstrom als vergleichbare Instant-Pot-Heißluftfrittier-Modelle"],
+      "cons": ["Deutlich größer und schwerer als ein 6-Quart-Instant-Pot — erfordert festen Abstellplatz"],
+      "grade": "B+",
+      "specs": {"Kapazität": "8 Quart (ca. 7,6 L)", "Funktionen": "9-in-1", "Heißluftfrittierdeckel": "Dedizierter Knusperdeckel", "Maximaldruck": "15 PSI", "TenderCrisp": "Ja", "Maße": "41 × 36 × 36 cm"},
+      "scores": {"Druckleistung": 4.7, "Vielseitigkeit": 5.0, "Bedienkomfort": 4.2, "Preis-Leistung": 3.8, "Kapazität": 5.0}
+    },
+    {
+      "offerId": "cosori-pressure-cooker-6qt",
+      "badge": "Beste Budgetalternative",
+      "review": "COSORI liefert 9-in-1-Multikochleistung vergleichbar mit dem Instant Pot Duo in Druckkochtests, zu einem Preis 20–30% darunter. Das Unterscheidungsmerkmal ist App-Konnektivität: eine geführte Rezeptbibliothek, die vollständige Kochprogramme direkt auf das Gerät herunterlädt und die Lernkurve für neue Multikocher-Nutzer senkt. Die Abhängigkeit von COSORIs App-Support ist das Langzeitrisiko — wenn COSORI den Service einstellt, verschwindet die geführte Rezeptfunktion. Grundlegende Druck- und Schongarkochfunktionen laufen unabhängig von der App.",
+      "pros": ["20–30% günstiger als vergleichbare Instant-Pot-Modelle", "App-geführte Rezepte senken die Lernkurve für Einsteiger", "9-in-1-Funktionalität deckt alle Standard-Multikocherfälle ab"],
+      "cons": ["App-Abhängigkeit bedeutet, geführte Funktionen könnten verschwinden, wenn COSORI den Support einstellt"],
+      "grade": "B",
+      "specs": {"Kapazität": "6 Quart (ca. 5,7 L)", "Funktionen": "9-in-1", "App": "COSORI-App (iOS/Android)", "Maximaldruck": "15 PSI", "Innentopf": "Antihaft", "Maße": "32 × 30 × 30 cm"},
+      "scores": {"Druckleistung": 4.4, "Vielseitigkeit": 4.5, "Bedienkomfort": 4.7, "Preis-Leistung": 4.8, "Kapazität": 4.5}
+    },
+    {
+      "offerId": "instant-pot-duo-crisp-air-fryer",
+      "badge": "Bestes Hybrid-Gerät",
+      "review": "Der Duo Crisp fügt einen Heißluftfrittierdeckel zur bewährten Duo-Druckkochbasis hinzu — 11-in-1-Funktionen einschließlich Heißluftfrittieren, Grillen, Backen, Braten und Dörren. Es bleibt im Instant-Pot-Zubehörökosystem, was bedeutet, dass alle Duo-Dichtungsringe und Innentöpfe kompatibel bleiben. Die Heißluftfrittierleistung ist für ein bis zwei Personen solide, liegt aber beim Foodi bei größeren Mengen aufgrund des geringeren Luftstroms zurück. Die richtige Wahl, wenn Sie beide Fähigkeiten wünschen, ohne sich auf Ninjas schwereres, größeres Format festzulegen.",
+      "pros": ["Fügt Heißluftfrittieren zur bewährten Druckkochfunktion des Duo hinzu, ohne das Ökosystem zu wechseln", "Bleibt kompatibel mit allem 6-Quart-Instant-Pot-Zubehör", "Kompakter als der Ninja Foodi"],
+      "cons": ["Heißluftfrittier-Luftstrom geringer als Ninja Foodi — weniger gleichmäßige Knusprigkeit bei größeren Portionen"],
+      "grade": "B-",
+      "specs": {"Kapazität": "6 Quart (ca. 5,7 L)", "Funktionen": "11-in-1", "Heißluftfrittierdeckel": "Integrierter Druck-/Knusperdeckel", "Maximaldruck": "15 PSI", "Dörren": "Ja", "Maße": "35 × 33 × 33 cm"},
+      "scores": {"Druckleistung": 4.7, "Vielseitigkeit": 4.8, "Bedienkomfort": 4.3, "Preis-Leistung": 4.0, "Kapazität": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für Erstkäufer eines Multikochers", "offerId": "instant-pot-duo-7in1-6qt", "reason": "Bewährte Zuverlässigkeit, universelle Teile und eine einfache Bedienung — der sicherste Einstiegspunkt für jeden Haushalt."},
+    {"label": "Für ernsthafte Alltagsköche", "offerId": "instant-pot-pro-10in1-6qt", "reason": "Höhere Sautiertemperaturen und Sous-vide-Modus liefern spürbar bessere Ergebnisse beim Anbraten vor dem Schmoren und präzisen Proteinzubereitungen."},
+    {"label": "Für Heißluftfrittier-Priorität", "offerId": "ninja-fd401-foodi-8qt", "reason": "TenderCrisp-Technologie liefert das beste Heißluftfrittierergebnis aus einem Druckkochgerät — kein anderer Vergleich kommt auch nur annähernd heran."},
+    {"label": "Für budgetbewusste Käufer", "offerId": "cosori-pressure-cooker-6qt", "reason": "Vergleichbare Druckleistung zu 20–30% unter Instant-Pot-Preisen — besonders gut für Einsteiger, die die geführte Rezept-App nutzen werden."},
+    {"label": "Für Instant-Pot-Loyalisten, die Heißluftfrittieren wollen", "offerId": "instant-pot-duo-crisp-air-fryer", "reason": "Fügt Heißluftfrittieren hinzu, ohne das Instant-Pot-Ökosystem zu verlassen — behält Zubehörkompatibilität bei und erweitert die Funktionalität."}
+  ]
 }

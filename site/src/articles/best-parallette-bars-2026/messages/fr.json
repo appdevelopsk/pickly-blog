@@ -84,5 +84,64 @@
     "yes4all-parallettes": "Option acier économique 9 pouces, pieds en caoutchouc, solide pour usage domestique."
   },
   "pinDescription": "Barres de parallettes classées pour L-sits, appuis renversés et pompes profondes. Bois vs acier vs PVC comparés — trouvez la hauteur et le matériau adaptés à votre niveau d'entraînement. #callisthénie #parallettes #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque produit a été évalué sur cinq critères : qualité de construction, performance en utilisation typique, durabilité dans le temps, confort et rapport qualité-prix. Nous avons pondéré la performance et la durabilité en priorité car elles déterminent si un produit est encore utile 12 mois après l'achat.",
+  "products": [
+    {
+      "offerId": "prosourcefit-parallettes",
+      "badge": "Meilleures parallettes en bois",
+      "review": "Les parallettes en bouleau de 9 pouces ProsourceFit se situent au point idéal entre les poignées de pompes basses et les barres de gym complètes. La surface en bois se réchauffe sous la paume et fournit une texture de prise naturelle qui réduit la fatigue des poignets lors de longs L-sits et progressions de pompes. La large base résiste au couple latéral lorsque les hanches sortent de l'empreinte au sol pendant les L-sits. Non réglable en hauteur, ce qui maintient la conception rigide et fiable.",
+      "pros": ["Prise en bois chaud réduit la fatigue des poignets sur les holds prolongés", "Large base résiste au couple latéral pendant les L-sits", "9 pouces de hauteur permettent un dégagement complet des hanches en L-sit"],
+      "cons": ["Hauteur non réglable", "Le bois peut craquer en cas de stockage dans un environnement très humide"],
+      "grade": "A+",
+      "specs": {"Matière": "Rails en bouleau", "Hauteur": "9 pouces", "Base": "Large pour la stabilité latérale", "Réglage hauteur": "Non", "Prix": "$39.99"},
+      "scores": {"Qualité de construction": 4.5, "Stabilité": 4.8, "Confort": 5.0, "Polyvalence": 4.0, "Rapport qualité-prix": 5.0}
+    },
+    {
+      "offerId": "tumbl-trak-p-bars",
+      "badge": "Meilleures à hauteur réglable",
+      "review": "Les barres PVC de gym Tumbl Trak sont réglables en hauteur — la fonction phare pour les athlètes progressant dans les niveaux de compétences où la hauteur de la barre change directement la difficulté de l'exercice. Utile pour le travail de descente des pompes en appui renversé où la hauteur détermine la profondeur d'abaissement. Le PVC a une légère flexibilité sous charges lourdes ; les athlètes de plus de 80 kg sur des appuis maximaux devraient considérer le Rogue. Idéal pour le travail au poids du corps axé sur les compétences à intensité modérée.",
+      "pros": ["Réglable en hauteur pour les exigences de progression de compétences", "La flexibilité PVC absorbe certaines vibrations de poignet lors des pompes rapides", "Léger pour une utilisation partagée ou en déplacement"],
+      "cons": ["Flexibilité PVC sous charges lourdes — pas pour les athlètes de plus de 80 kg sur des appuis maximaux"],
+      "grade": "A",
+      "specs": {"Matière": "PVC", "Hauteur": "Réglable", "Idéal pour": "Gym et progressions de compétences", "Limite de poids": "Charges modérées (~80 kg)", "Prix": "$69.99"},
+      "scores": {"Qualité de construction": 3.5, "Stabilité": 3.8, "Confort": 4.2, "Polyvalence": 4.8, "Rapport qualité-prix": 4.5}
+    },
+    {
+      "offerId": "rogue-p3-parallettes",
+      "badge": "Meilleures pour la presse lourde",
+      "review": "Les P-3 de Rogue sont construites pour les environnements de gym où l'équipement est utilisé dur chaque jour. Construction en tube d'acier à 11 pouces — deux pouces plus haut que le standard courant de 9 pouces — étend la profondeur des dips et le ROM pour les négatifs de pompes. Zéro flex latéral sous pression lourde ou les statics avancés comme les tentatives de straddle planche. Le revêtement poudre tient la craie et la transpiration. Tarif pour les athlètes sérieux et les opérateurs de gym.",
+      "pros": ["Zéro flex sous pression lourde et holds statiques avancés", "11 pouces de hauteur étendent la profondeur des dips et le ROM au-delà des barres standard", "Durabilité commerciale pour une utilisation quotidienne en gym"],
+      "cons": ["Prix premium — difficile à justifier pour les débutants", "11 pouces peut être trop haut pour les débutants commençant au niveau du sol"],
+      "grade": "B+",
+      "specs": {"Matière": "Tube d'acier, revêtement poudre", "Hauteur": "11 pouces", "Flex": "Zéro sous charge", "Idéal pour": "Callisthénie avancée, environnements gym", "Prix": "$95"},
+      "scores": {"Qualité de construction": 5.0, "Stabilité": 5.0, "Confort": 3.8, "Polyvalence": 4.5, "Rapport qualité-prix": 3.2}
+    },
+    {
+      "offerId": "lebert-parallettes",
+      "badge": "Meilleures basses parallettes",
+      "review": "À 3 pouces du sol, les parallettes Lebert sont optimisées pour les variantes de pompes et le conditionnement des poignets — pas les L-sits ou les dips, qui nécessitent un dégagement des hanches à cette hauteur. La position proche du sol maximise le ROM pour le travail en pompes sans les exigences d'équilibre des barres plus hautes. Très portables, adaptées aux entraînements en voyage et en appartement.",
+      "pros": ["3 pouces de hauteur maximise le ROM pour les variantes de pompes", "Très portables — rentrent dans un sac pour l'entraînement en déplacement", "Faible sollicitation des poignets pour les athlètes développant leur force de base"],
+      "cons": ["3 pouces insuffisant pour les L-sits ou les dips corrects — les hanches ne dégagent pas le sol"],
+      "grade": "B",
+      "specs": {"Matière": "Acier", "Hauteur": "3 pouces", "Idéal pour": "Variantes de pompes, conditionnement des poignets", "Portabilité": "Haute — portable en sac", "Prix": "$69.95"},
+      "scores": {"Qualité de construction": 4.0, "Stabilité": 4.2, "Confort": 4.5, "Polyvalence": 2.5, "Rapport qualité-prix": 4.8}
+    },
+    {
+      "offerId": "yes4all-parallettes",
+      "badge": "Meilleur acier budget",
+      "review": "Yes4All offre une construction en acier à un prix proche des sets PVC budget. La hauteur de 9 pouces correspond à ProsourceFit pour les mêmes options d'exercices — L-sits, pompes avec ROM plus profond, pike holds et travail de base en dips. Des pieds en caoutchouc empêchent le glissement sur sols lisses, ce qui compte pour les exercices en hauteur ou inversés. Un léger flex sous pression très lourde est le compromis pour le prix plus bas par rapport à l'acier commercial.",
+      "pros": ["Construction acier plus rigide que PVC à prix proche du budget", "9 pouces de hauteur permettent un dégagement complet des hanches en L-sit", "Pieds en caoutchouc empêchent le glissement sur surfaces lisses"],
+      "cons": ["Léger flex sous pression très lourde", "Pas aussi rigide que Rogue sous holds statiques avancés"],
+      "grade": "B-",
+      "specs": {"Matière": "Tube d'acier", "Hauteur": "9 pouces", "Pieds": "Caoutchouc antidérapant", "Idéal pour": "Callisthénie domestique intermédiaire", "Prix": "$39.99"},
+      "scores": {"Qualité de construction": 3.8, "Stabilité": 4.0, "Confort": 3.8, "Polyvalence": 4.0, "Rapport qualité-prix": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour l'entraînement axé sur le confort", "offerId": "prosourcefit-parallettes", "reason": "La prise en bouleau réduit la fatigue des poignets pour les longues sessions de L-sit et de pompes"},
+    {"label": "Pour les progressions de compétences", "offerId": "tumbl-trak-p-bars", "reason": "La hauteur réglable permet de changer le dégagement des barres à mesure que les progressions de pompes en appui renversé et de dips avancent"},
+    {"label": "Pour les athlètes de callisthénie sérieux", "offerId": "rogue-p3-parallettes", "reason": "Zéro flex sous straddle planches et dips lourds — le seul choix quand la charge et la précision comptent"},
+    {"label": "Pour l'entraînement en déplacement", "offerId": "lebert-parallettes", "reason": "Les barres basses de 3 pouces rentrent dans un sac et fonctionnent sur toute surface pour les variantes de pompes"},
+    {"label": "Pour une utilisation domestique budget", "offerId": "yes4all-parallettes", "reason": "Acier à prix proche du PVC avec pieds en caoutchouc pour les mêmes options d'exercice à 9 pouces que ProsourceFit"}
+  ]
 }

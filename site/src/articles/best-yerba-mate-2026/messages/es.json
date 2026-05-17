@@ -58,5 +58,63 @@
     "yerba-mate-electric-gourd": "Termo eléctrico que mantiene 75-80°C, bombilla integrada o separada. $25-60. Mejor para uso en oficina/viajes — elimina los viajes repetidos a la pava. La precisión de temperatura es la especificación clave a verificar antes de comprar."
   },
   "pinDescription": "Yerba mate 2026: Cruz de Malta vs Guayaki vs Taragui, cómo preparar mate tradicional con mate y bombilla, temperatura del agua (no hirviendo), explicación de con palo vs sin palo y la mejor configuración de yerba mate para uso en casa u oficina. #yerbaMate #mate #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Evaluamos cada producto según perfil de sabor, transparencia del origen, valor por porción, integridad del embalaje y rendimiento en casos de uso habituales. Las certificaciones y reseñas verificadas de usuarios se contrastaron con las afirmaciones de marketing.",
+  "products": [
+    {
+      "offerId": "cruz-de-malta-yerba-mate",
+      "badge": "Mejor opción general",
+      "review": "Cruz de Malta es la marca argentina de referencia con sabor equilibrado y precio accesible — apta para principiantes y bebedores experimentados. Quienes prefieran la intensidad sin palo necesitarán otra opción.",
+      "pros": ["Sabor tradicional argentino equilibrado", "La opción más económica", "Amplia gama con palo y sin palo"],
+      "cons": ["Menor intensidad de cafeína que las marcas puramente sin palo"],
+      "grade": "A+",
+      "specs": {"Estilo": "Con palo", "Origen": "Argentina", "Contenido": "500g-1kg", "Certificación": "ninguna"},
+      "scores": {"Sabor": 4.7, "Calidad de cafeína": 4.3, "Valor": 4.9, "Calidad de origen": 4.6, "Facilidad de preparación": 4.5}
+    },
+    {
+      "offerId": "guayaki-yerba-mate-traditional",
+      "badge": "Mejor opción orgánica",
+      "review": "Guayaki Traditional tiene certificación Fair Trade y orgánica — sus afirmaciones de calidad son verificables. Más cara que Cruz de Malta, pero la inversión se justifica para compradores conscientes del origen.",
+      "pros": ["Certificación Fair Trade y orgánica", "Perfil de sabor ahumado y complejo", "Amplia disponibilidad en mercados occidentales"],
+      "cons": ["Mayor coste por el mismo peso"],
+      "grade": "A",
+      "specs": {"Estilo": "Con palo", "Origen": "Brasil/Argentina", "Certificación": "Fair Trade, Orgánica", "Contenido": "75g-1kg"},
+      "scores": {"Sabor": 4.5, "Calidad de cafeína": 4.6, "Valor": 3.9, "Calidad de origen": 4.9, "Facilidad de preparación": 4.4}
+    },
+    {
+      "offerId": "taragui-yerba-mate",
+      "badge": "Mejor disponibilidad internacional",
+      "review": "Taragui es una de las marcas argentinas más grandes y es especialmente popular en versión sin palo con alta intensidad de cafeína. Se encuentra fácilmente en todo el mundo con calidad consistente.",
+      "pros": ["Disponible en todo el mundo", "Alta intensidad de cafeína (sin palo)", "Calidad consistente"],
+      "cons": ["Algo más cara que Cruz de Malta"],
+      "grade": "B+",
+      "specs": {"Estilo": "Sin palo", "Origen": "Argentina", "Contenido": "250g-1kg", "Certificación": "ninguna"},
+      "scores": {"Sabor": 4.4, "Calidad de cafeína": 4.8, "Valor": 4.2, "Calidad de origen": 4.5, "Facilidad de preparación": 4.6}
+    },
+    {
+      "offerId": "gourd-and-bombilla-set",
+      "badge": "Mejor kit de iniciación",
+      "review": "La calabaza y la bombilla de resorte ofrecen el punto de entrada más económico para la preparación tradicional del mate. Con algo de práctica en el llenado y la temperatura del agua, se puede disfrutar un mate auténtico desde el primer día.",
+      "pros": ["Permite la preparación tradicional de inmediato", "Construcción simple y fácil de limpiar", "Set de inicio económico"],
+      "cons": ["Requiere tiempo de aprendizaje para la técnica correcta"],
+      "grade": "B",
+      "specs": {"Material": "Calabaza/Acero inoxidable", "Tipo de bombilla": "Filtro de resorte", "Tamaño": "Estándar aprox. 300ml", "Apto lavavajillas": "No"},
+      "scores": {"Sabor": 4.2, "Calidad de cafeína": 4.0, "Valor": 4.5, "Calidad de origen": 4.1, "Facilidad de preparación": 3.8}
+    },
+    {
+      "offerId": "yerba-mate-electric-gourd",
+      "badge": "Mejor para oficina/viajes",
+      "review": "El termo eléctrico mantiene automáticamente 75-80°C — sin necesidad de ir a la pava repetidamente. Ideal para el consumo en la oficina o durante viajes frecuentes donde la constancia de temperatura es clave.",
+      "pros": ["Mantiene automáticamente 75-80°C", "Sin necesidad de rellenar la pava", "Ideal para oficina y viajes"],
+      "cons": ["Requiere fuente de alimentación, no apto para exteriores"],
+      "grade": "B-",
+      "specs": {"Configuración de temperatura": "75-80°C", "Capacidad": "aprox. 500ml", "Alimentación": "CA/USB", "Bombilla": "integrada o separada"},
+      "scores": {"Sabor": 4.0, "Calidad de cafeína": 4.1, "Valor": 3.8, "Calidad de origen": 3.9, "Facilidad de preparación": 4.9}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para quienes prueban el mate por primera vez", "offerId": "cruz-de-malta-yerba-mate", "reason": "Económica y equilibrada en sabor — la entrada ideal para tu primera experiencia con el mate."},
+    {"label": "Para compradores conscientes del origen orgánico", "offerId": "guayaki-yerba-mate-traditional", "reason": "Las certificaciones verificables garantizan calidad y origen ético sin especulaciones."},
+    {"label": "Para bebedores experimentados que buscan más cafeína", "offerId": "taragui-yerba-mate", "reason": "Taragui Sin Palo ofrece mayor intensidad y se encuentra fácilmente en todo el mundo."},
+    {"label": "Para uso en oficina o viajes frecuentes con mate", "offerId": "yerba-mate-electric-gourd", "reason": "La regulación automática de temperatura elimina los viajes repetidos a la pava en cada recarga."}
+  ]
 }

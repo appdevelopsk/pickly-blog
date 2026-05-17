@@ -66,5 +66,174 @@
     "bosu-nexgen-stability-ball": "Cupola gonfiabile BOSU su piattaforma rigida — non una tradizionale palla rotonda. $100-150. Il migliore per l'allenamento dell'equilibrio in piedi (cupola verso l'alto: squat, lunge, esercizi di equilibrio). Non e la scelta corretta se vuoi un allenamento del core seduto/prono — acquista invece una palla rotonda."
   },
   "pinDescription": "Confronto palle di stabilita 2026: Trideer vs Gaiam vs Live Pro vs URBNFit vs BOSU NexGen — valutazioni anti-scoppio, guida alle dimensioni, migliore per l'uso come sedia da ufficio e quale palla da ginnastica migliora davvero la forza del core. #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "trideer-stability-ball",
+      "badge": "La migliore in assoluto",
+      "review": "La parete in PVC da 2000 µm e la capacità anti-scoppio da 2200 lb di Trideer superano la maggior parte dei concorrenti in questa fascia di prezzo — il PVC spesso è notevolmente più morbido e caldo al tatto rispetto alla plastica dura delle alternative più economiche, il che conta durante l'uso seduto. La ritenzione dell'aria su 30 giorni è costante senza ricariche settimanali. Svantaggio: la superficie PVC liscia scivola sui pavimenti lucidati durante esercizi dinamici come i rollout con la palla.",
+      "pros": [
+        "Parete PVC da 2000 µm — notevolmente più spessa delle concorrenti economiche",
+        "Capacità anti-scoppio da 2200 lb per uso sicuro a casa e in ufficio",
+        "Pompa a doppia azione inclusa; gamma di taglie 45–85 cm"
+      ],
+      "cons": [
+        "La superficie liscia scivola sui pavimenti lucidati durante gli esercizi dinamici"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Spessore parete PVC": "2000 µm",
+        "Capacità anti-scoppio": "2200 lb",
+        "Gamma di taglie": "45, 55, 65, 75, 85 cm",
+        "Pompa inclusa": "Doppia azione",
+        "Superficie": "PVC liscio",
+        "Superficie migliore": "Moquette / pavimento in gomma"
+      },
+      "scores": {
+        "Burst resistance": 4.8,
+        "Grip texture": 3.8,
+        "Size options": 4.9,
+        "Value": 4.8,
+        "Durability": 4.7
+      }
+    },
+    {
+      "offerId": "gaiam-total-body-balance-ball",
+      "badge": "Miglior kit per principianti",
+      "review": "Il kit Gaiam include una palla anti-scoppio con pompa e una guida da 42 esercizi — un'aggiunta significativa per chi acquista per la prima volta e ha bisogno di una programmazione strutturata. La palla stessa è anti-scoppio e paragonabile in qualità alla Trideer. Svantaggio: gli utenti esperti non ottengono valore funzionale aggiuntivo rispetto alla Trideer.",
+      "pros": [
+        "Guida da 42 esercizi fornisce un curriculum iniziale strutturato",
+        "Palla anti-scoppio inclusa con pompa in un unico kit",
+        "Efficace per i principianti che necessitano di una programmazione iniziale"
+      ],
+      "cons": [
+        "Gli utenti esperti non ottengono vantaggi rispetto all'acquisto diretto del Trideer"
+      ],
+      "grade": "A",
+      "specs": {
+        "Incluso": "Palla, pompa, guida da 42 esercizi",
+        "Anti-scoppio": "Sì",
+        "Opzioni di taglia": "55, 65 cm",
+        "Fascia di prezzo": "$30–50",
+        "Ideale per": "Principianti assoluti",
+        "Superficie": "PVC liscio"
+      },
+      "scores": {
+        "Burst resistance": 4.5,
+        "Grip texture": 3.7,
+        "Size options": 3.5,
+        "Value": 4.5,
+        "Durability": 4.4
+      }
+    },
+    {
+      "offerId": "live-pro-stability-ball",
+      "badge": "Migliore per pavimenti da palestra",
+      "review": "La superficie texturizzata del Live Pro è il differenziatore funzionale — sui pavimenti sintetici lucidati delle palestre, le palle in PVC liscio scivolano durante i rollout e i leg curl, mentre la texture aggiunge attrito. La capacità anti-scoppio da 2200 lb corrisponde alla Trideer. Svantaggio: per uso domestico su pavimento in gomma o moquette, il vantaggio della texture scompare.",
+      "pros": [
+        "Superficie texturizzata impedisce lo scivolamento su pavimenti lucidati",
+        "2200 lb anti-scoppio corrisponde ai concorrenti premium",
+        "Adatta commercialmente per ambienti studio e palestra"
+      ],
+      "cons": [
+        "Il vantaggio della texture scompare su gomma o moquette — troppo cara vs Trideer per uso domestico"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Capacità anti-scoppio": "2200 lb",
+        "Superficie": "Texturizzata (antiscivolo)",
+        "Gamma di taglie": "55, 65, 75 cm",
+        "Fascia di prezzo": "$40–60",
+        "Ideale per": "Palestra commerciale / pavimenti lucidati",
+        "Pompa inclusa": "Sì"
+      },
+      "scores": {
+        "Burst resistance": 4.8,
+        "Grip texture": 4.7,
+        "Size options": 3.8,
+        "Value": 4.0,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "urbnfit-exercise-ball",
+      "badge": "Migliore per ufficio a casa",
+      "review": "La gamma più ampia di colori e finiture di URBNFit — oltre i colori funzionali della maggior parte dei marchi — è il vero differenziatore. La capacità anti-scoppio da 2000 lb e le opzioni di taglia sono funzionalmente paragonabili alla Trideer. Svantaggio: si paga lo stesso o leggermente di più per l'estetica piuttosto che le prestazioni.",
+      "pros": [
+        "Gamma di colori più ampia per l'estetica dell'ufficio a casa",
+        "Capacità anti-scoppio da 2000 lb per uso domestico",
+        "Stesse prestazioni funzionali della Trideer"
+      ],
+      "cons": [
+        "Nessun vantaggio funzionale sulla Trideer; solo premium estetico"
+      ],
+      "grade": "B",
+      "specs": {
+        "Capacità anti-scoppio": "2000 lb",
+        "Gamma di colori": "La più ampia nel confronto",
+        "Opzioni di taglia": "45–75 cm",
+        "Fascia di prezzo": "$30–45",
+        "Ideale per": "Ufficio a casa / visibilità studio",
+        "Superficie": "PVC liscio"
+      },
+      "scores": {
+        "Burst resistance": 4.5,
+        "Grip texture": 3.6,
+        "Size options": 4.0,
+        "Value": 4.2,
+        "Durability": 4.3
+      }
+    },
+    {
+      "offerId": "bosu-nexgen-stability-ball",
+      "badge": "Migliore per equilibrio in piedi",
+      "review": "Il BOSU NexGen è una categoria di prodotto diversa: una cupola gonfiabile su una base rigida che crea instabilità delimitata (non rotola) invece della libertà a 360 gradi di una palla tonda. Questo lo rende unico per gli esercizi in piedi — squat, affondi, equilibrio monopodale — dove una palla tonda non può essere usata in sicurezza. Svantaggio: a $100–150 è 2–4 volte il prezzo delle palle tonde.",
+      "pros": [
+        "Cupola gonfiabile su base rigida — sicura per gli esercizi in piedi",
+        "Instabilità delimitata unica per l'equilibrio in piedi e la stabilità monopodale",
+        "Compatibile con la programmazione degli esercizi BOSU"
+      ],
+      "cons": [
+        "Strumento sbagliato per il lavoro core seduto o in posizione prona — acquistare una palla tonda"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Tipo": "Cupola gonfiabile su piattaforma rigida",
+        "Diametro della cupola": "65 cm",
+        "Altezza": "34 cm",
+        "Fascia di prezzo": "$100–150",
+        "Ideale per": "Equilibrio in piedi, squat, affondi",
+        "Non per": "Esercizi core seduti o in posizione prona"
+      },
+      "scores": {
+        "Burst resistance": 4.6,
+        "Grip texture": 4.3,
+        "Size options": 2.0,
+        "Value": 3.5,
+        "Durability": 4.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per la maggior parte degli utenti domestici",
+      "offerId": "trideer-stability-ball",
+      "reason": "PVC spesso, 2200 lb anti-scoppio, pompa inclusa e la gamma di taglie più ampia coprono ogni caso d'uso domestico e da sedia da ufficio al prezzo medio più basso."
+    },
+    {
+      "label": "Per i principianti assoluti",
+      "offerId": "gaiam-total-body-balance-ball",
+      "reason": "La guida da 42 esercizi colma il divario tra possedere una palla e usarla sistematicamente — essenziale se non hai mai allenato con una palla di stabilità."
+    },
+    {
+      "label": "Per palestre commerciali o pavimenti lucidati",
+      "offerId": "live-pro-stability-ball",
+      "reason": "La superficie texturizzata impedisce lo scivolamento durante gli esercizi dinamici di rollout e leg curl sui pavimenti sintetici lucidati comuni nelle palestre commerciali."
+    },
+    {
+      "label": "Per l'allenamento all'equilibrio in piedi",
+      "offerId": "bosu-nexgen-stability-ball",
+      "reason": "Gli squat sulla cupola BOSU e il lavoro di equilibrio monopodale non possono essere replicati con una palla tonda — la base rigida lo rende l'unica opzione per un allenamento sicuro in piedi su superficie instabile."
+    }
+  ]
 }

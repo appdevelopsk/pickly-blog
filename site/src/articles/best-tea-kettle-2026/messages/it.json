@@ -111,5 +111,64 @@
     "fellow-stagg-ekg": "Bollitore a collo d'oca elettrico pour-over di precisione di riferimento — Fellow Stagg EKG 0,9 L bollitore elettrico con impugnatura controbilanciata, selettore di temperatura continuo (circa 60-100°C), keep-warm di 60 minuti, finitura nera opaca, il bollitore pour-over premium di riferimento nella comunita del caffe di specialita a livello globale. Prezzo di importazione US$165+ — i prezzi al dettaglio in Giappone presso gli importatori autorizzati vanno da ¥20.000 a ¥28.000; 0,9 L e stretto per le famiglie che fanno infusioni pour-over consecutive, richiedendo un riempimento a meta sessione piu spesso rispetto all'Hario V60 Buono da 1,2 L."
   },
   "pinDescription": "Cinque bollitori a confronto nel 2026 — dall'icona del design Balmuda The Pot da ¥15.000 (600 ml, nessun controllo della temperatura, ma straordinario su una mensola della cucina) al punto di riferimento pour-over di precisione del Fellow Stagg EKG. Beccuccio a collo d'oca vs beccuccio largo spiegati onestamente, matematica della temperatura per te verde e caffe, matematica della capacita per 1-4 persone e il dilemma del design Balmuda. #italia",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Ogni bollitore è stato valutato sul tipo di beccuccio e controllo dell'arco di versamento per il pour-over e la cerimonia del tè, la precisione del controllo della temperatura per l'estrazione di tè verde e caffè, l'adeguatezza della capacità per famiglie da 1 a 4 persone e la durata di vita realistica basata sui modi di guasto dominanti dalle recensioni dei proprietari a lungo termine.",
+  "products": [
+    {
+      "offerId": "fellow-stagg-ekg",
+      "badge": "Migliore in Assoluto",
+      "review": "Il manico bilanciato e la manopola di temperatura continua del Fellow Stagg EKG lo rendono il bollitore pour-over più preciso di questo gruppo — impostare 93 °C e mantenerlo per 60 minuti senza gestire un fornello. La capacità di 0,9 L è stretta per le infusioni consecutive, e la disponibilità in Giappone oscilla con esaurimenti di scorte di diverse settimane.",
+      "pros": ["Manopola di temperatura continua da circa 60 a 100 °C", "60 minuti di mantenimento della temperatura per il pour-over senza interventi manuali", "Manico bilanciato consente un versamento lento e preciso a collo d'oca"],
+      "cons": ["0,9 L richiede il rabbocco a metà sessione per i nuclei familiari che preparano più tazze", "Il prezzo di importazione in Giappone è del 20-40% superiore all'MSRP USA con esaurimenti occasionali"],
+      "grade": "A+",
+      "specs": {"Capacità": "0,9 L", "Beccuccio": "Collo d'oca", "Controllo temperatura": "Manopola continua ~60-100 °C", "Mantenimento": "60 min", "Riscaldamento": "Elettrico", "Prezzo": "US$165+ (importazione)"},
+      "scores": {"Velocità di riscaldamento": 4.3, "Controllo temperatura": 5.0, "Qualità costruttiva": 4.9, "Valore": 3.5, "Capacità": 3.2}
+    },
+    {
+      "offerId": "balmuda-the-pot",
+      "badge": "Miglior Design",
+      "review": "Il Balmuda The Pot è il bollitore più bello di questo confronto ed è onesto riguardo ai suoi limiti — 600 ml, nessun controllo della temperatura, nessun mantenimento del calore, solo un collo d'oca in acciaio inossidabile opaco che ha l'aspetto giusto su un piano di lavoro di un appartamento tokyoita. I ¥15.000 si pagano per il design, non per le specifiche di estrazione.",
+      "pros": ["Design iconico in acciaio inossidabile opaco che merita il suo posto sul piano di lavoro", "Beccuccio ultraestratto offre un ragionevole controllo dell'arco di versamento", "Compatibile con IH e gas senza componenti digitali che possono guastarsi"],
+      "cons": ["600 ml copre appena due tazze per le famiglie con più di due persone", "Nessun controllo della temperatura e nessun mantenimento — richiede il metodo bollire-e-aspettare"],
+      "grade": "A",
+      "specs": {"Capacità": "600 ml", "Beccuccio": "Collo d'oca ultraestratto", "Controllo temperatura": "Nessuno", "Mantenimento": "Nessuno", "Riscaldamento": "IH/piano cottura a gas", "Prezzo": "~¥15.000"},
+      "scores": {"Velocità di riscaldamento": 3.8, "Controllo temperatura": 1.0, "Qualità costruttiva": 4.8, "Valore": 3.2, "Capacità": 2.5}
+    },
+    {
+      "offerId": "hario-v60-buono-kettle",
+      "badge": "Migliore per Piano Cottura",
+      "review": "Il Hario V60 Drip Kettle Buono è il bollitore su cui si è standardizzata la comunità giapponese del pour-over — 1,2 L di acciaio inossidabile, collo d'oca di precisione e un arco di versamento in cui il mondo del caffè di specialità si fida da oltre un decennio. Nessun mantenimento elettrico significa gestire personalmente il bruciatore, e il manico si scalda sui fornelli a gas più velocemente del previsto.",
+      "pros": ["1,2 L copre due o tre dosi di pour-over senza rabbocco", "Arco di versamento a collo d'oca collaudato per V60, Chemex e Kalita Wave", "Interno interamente in acciaio inossidabile, inerte e facile da pulire"],
+      "cons": ["Nessun mantenimento — gestione del bruciatore necessaria durante una sessione pour-over", "Il manico si scalda sui fornelli a gas e necessita di un guanto dopo l'uso prolungato"],
+      "grade": "B+",
+      "specs": {"Capacità": "1,2 L", "Beccuccio": "Collo d'oca", "Controllo temperatura": "Nessuno (solo controllo piano cottura)", "Mantenimento": "Nessuno", "Riscaldamento": "IH/piano cottura a gas", "Prezzo": "~$65"},
+      "scores": {"Velocità di riscaldamento": 3.5, "Controllo temperatura": 2.0, "Qualità costruttiva": 4.5, "Valore": 4.7, "Capacità": 4.2}
+    },
+    {
+      "offerId": "zojirushi-keep-warm-pot",
+      "badge": "Migliore per Acqua Calda Tutto il Giorno",
+      "review": "Lo Zojirushi CV-GB22 non è un bollitore pour-over — è una stazione di acqua calda. Riempilo una volta, imposta una delle quattro temperature (60/70/80/98 °C) e eroga tutto il giorno senza ribollire. Il dispenser a pompa e il blocco di sicurezza per bambini lo rendono la scelta giusta per le famiglie che hanno continuamente bisogno di acqua calda, sebbene occupi considerevole spazio sul piano di lavoro.",
+      "pros": ["Quattro preset di temperatura (60/70/80/98 °C) per tè verde, tè nero e acqua bollente", "Mantenimento del calore tutto il giorno con ribollimento automatico — nessun riscaldamento manuale", "Blocco coperchio di sicurezza per bambini e certificazione PSE per l'uso permanente"],
+      "cons": ["Elettrodomestico da piano stazionario — più ingombrante di qualsiasi bollitore", "Il meccanismo della pompa richiede una decalcificazione mensile-bimestrale nelle zone di acqua dura"],
+      "grade": "B",
+      "specs": {"Capacità": "2,2 L", "Beccuccio": "Dispenser a pompa", "Impostazioni temperatura": "60/70/80/98 °C", "Mantenimento": "Tutto il giorno (ribollimento auto)", "Riscaldamento": "Elettrico", "Prezzo": "¥6.578"},
+      "scores": {"Velocità di riscaldamento": 3.0, "Controllo temperatura": 4.5, "Qualità costruttiva": 4.6, "Valore": 4.8, "Capacità": 5.0}
+    },
+    {
+      "offerId": "delonghi-icona-vintage-kettle",
+      "badge": "Migliore per Famiglie Numerose",
+      "review": "Il De'Longhi Icona Vintage fa bollire 1,7 L velocemente, si usa su una base girevole 360° senza filo e ha un bell'aspetto in una cucina mid-century. È la scelta diretta per le famiglie di tre o quattro persone che vogliono ebollizione rapida e beccuccio largo — solo non per il caffè pour-over o il tè di precisione.",
+      "pros": ["1,7 L copre quattro tazze in un solo riempimento", "Base girevole 360° senza filo e beccuccio largo antisgocciolamento", "Ebollizione rapida con spegnimento automatico"],
+      "cons": ["Il beccuccio largo è troppo veloce per il caffè pour-over o le preparazioni di precisione", "Pesante quando pieno (~2,5 kg); l'interno in plastica accumula il calcare più velocemente nelle zone di acqua dura"],
+      "grade": "B-",
+      "specs": {"Capacità": "1,7 L", "Beccuccio": "Largo (antisgocciolamento)", "Controllo temperatura": "Nessuno", "Mantenimento": "Nessuno", "Riscaldamento": "Elettrico 360° senza filo", "Prezzo": "$89,99"},
+      "scores": {"Velocità di riscaldamento": 4.8, "Controllo temperatura": 1.0, "Qualità costruttiva": 3.8, "Valore": 4.0, "Capacità": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per gli amanti del caffè pour-over", "offerId": "fellow-stagg-ekg", "reason": "La manopola di temperatura continua e i 60 minuti di mantenimento permettono di impostare 93 °C e mantenerlo per tutta una sessione di pour-over senza sorvegliare il fornello."},
+    {"label": "Per i minimalisti attenti al design", "offerId": "balmuda-the-pot", "reason": "Il collo d'oca in acciaio inossidabile opaco è il bollitore più fotogenico di questo confronto — vale ¥15.000 se l'estetica del piano di lavoro è importante per voi."},
+    {"label": "Per i preparatori di pour-over su piano cottura", "offerId": "hario-v60-buono-kettle", "reason": "Il bollitore a collo d'oca di riferimento della comunità giapponese del caffè di specialità a una frazione del prezzo delle alternative elettriche — lascia budget per un macinacaffè migliore."},
+    {"label": "Per le famiglie con acqua calda tutto il giorno", "offerId": "zojirushi-keep-warm-pot", "reason": "Riempi una volta e hai quattro opzioni di temperatura pronte tutto il giorno — ideale quando più persone hanno bisogno di acqua calda in momenti diversi della giornata."},
+    {"label": "Per le famiglie di tre o quattro persone", "offerId": "delonghi-icona-vintage-kettle", "reason": "1,7 L di ebollizione rapida copre quattro tazze in un solo riempimento senza rabbocco, a un prezzo diretto per l'uso generale di acqua calda."}
+  ]
 }

@@ -114,5 +114,64 @@
     "gold-gym-gym-bag-backpack": "Beste Budget-Wahl fur den einfachen Studiogebrauch. Gold's Gym-Marke, haltbares Polyester, separates Schuhfach, grosses Hauptfach mit innerem Organisationstaschechen zu Einstiegspreisen. Grundlegende Konstruktion ohne spezialisierte Nass/Trocken-Trennung — fur Kaufer, die die Tasche nach jeder Einheit sofort luften."
   },
   "pinDescription": "Funf Sporttaschen im Vergleich fur 2026 — Nike Brasilia 9.5, Under Armour Undeniable 5.0, Adidas Defender 4, Anello und The North Face Base Camp — bezuglich Nass/Trocken-Fach-Qualitat, Rucksack- vs Duffel-Ergonomie, Schrankkompatibilitat und welche tatsachlich Ihr verschwitztes Zeug von Ihrer Arbeitstasche fernhalt. #Sporttasche #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jede Sporttasche wurde nach Effektivität der Nass/Trocken-Trennung, Materialbeständigkeit, Schrankpassung, Tragekomfort und Preis-Leistungs-Verhältnis bewertet — mit Gewichtung auf reale Pendler- und Fitnessszenarien, nicht auf Katalogangaben.",
+  "products": [
+    {
+      "offerId": "nike-brasilia-9-5-training-duffel",
+      "badge": "Bester Gesamt",
+      "review": "36L Medium deckt Gym und Pendeln mit Wechselkleidung ab und passt in die meisten Fitnessraum-Schränke. Das separate, belüftete Schuhfach isoliert Schuhe effektiv von sauberer Kleidung. 600D Polyester hält Schrankböden stand. Lücke: kein gepolstertes Laptop-Fach, und die Schuhfach-Belüftung lässt etwas Geruch durch.",
+      "pros": ["Belüftetes Schuhfach isoliert Schuhwerk zuverlässig", "36L Medium passt in die meisten Fitnessraum-Schränke", "Breite Farbauswahl und mehrere Größenoptionen (18–60L)"],
+      "cons": ["Kein gepolstertes Laptop-Fach im Standardpreissegment"],
+      "grade": "A+",
+      "specs": {"Volumen": "36L (Medium)", "Material": "600D Polyester", "Fächer": "Schuh + Nass/Trocken + Haupt", "Maße": "51×28×28cm", "Preis": "ca. 45–70 €"},
+      "scores": {"Beständigkeit": 4.5, "Nass/Trocken-Trennung": 4.3, "Schrankpassung": 4.5, "Komfort": 4.0, "Preis-Leistung": 4.5}
+    },
+    {
+      "offerId": "under-armour-undeniable-5-duffel",
+      "badge": "Beste Wasserabweisung",
+      "review": "UA Storm Finish wehrt leichten Regen besser ab als unbehandeltes Polyester — relevant für Fuß- oder Radpendler. Verstellbare Innenfächer erlauben flexible Raumaufteilung. Schwäche: Nassfach zu klein für einen vollständigen feuchten Post-Workout-Outfit-Wechsel. Maschinenwäsche degradiert die UA Storm Beschichtung.",
+      "pros": ["UA Storm Finish übertrifft Standardpolyester bei Regen", "Verstellbare Innenfächer für flexible Organisation", "58L Volumen mit komfortablem Platz"],
+      "cons": ["Nassfach zu klein für einen vollständigen Wechsel nasser Trainingskleidung"],
+      "grade": "A",
+      "specs": {"Volumen": "58L (MD)", "Material": "UA Storm Polyester", "Fächer": "Nassfach + flexibles Hauptfach", "Maße": "61×30×30cm", "Preis": "ca. 55–90 €"},
+      "scores": {"Beständigkeit": 4.3, "Nass/Trocken-Trennung": 4.0, "Schrankpassung": 4.0, "Komfort": 4.2, "Preis-Leistung": 4.0}
+    },
+    {
+      "offerId": "gym-shark-everyday-gym-bag",
+      "badge": "Bestes Design",
+      "review": "Minimalistisches Design, das nicht nach Sporttasche aussieht — das Hauptfach ist laptopkompatibel und gepolstert. Ergonomische Träger reduzieren Schulterermüdung beim Pendeln. Schwäche: kein versiegeltes Nassfach, nasse Schwimmkleidung erfordert einen separaten Dry Bag.",
+      "pros": ["Minimalistisches Design wechselt nahtlos vom Gym auf die Straße", "Gepolstertes, laptopkompatibles Hauptfach", "Ergonomische Träger reduzieren Schulterermüdung beim Pendeln"],
+      "cons": ["Kein versiegeltes Nassfach — Nasskleidung nur über belüfteten Schuhbeutel trennbar"],
+      "grade": "B+",
+      "specs": {"Volumen": "~30L", "Material": "Polyester", "Fächer": "Schuhbeutel + laptopkompatibles Hauptfach", "Preis": "ca. 60–90 €"},
+      "scores": {"Beständigkeit": 4.0, "Nass/Trocken-Trennung": 3.3, "Schrankpassung": 4.3, "Komfort": 4.5, "Preis-Leistung": 4.0}
+    },
+    {
+      "offerId": "adidas-defender-4-duffel",
+      "badge": "Beste Pendlertasche",
+      "review": "Einzige Tasche hier mit gepolstertem Laptop-Fach in kompaktem Duffel-Format — die praktischste Gym-zu-Büro-Tasche im Vergleich. 100% recyceltes Polyester gleichwertig zu Virgin-Polyester. Kompromiss: kleineres Nassfach hält Schuhe oder nasse Kleidung, aber nicht beides gleichzeitig.",
+      "pros": ["Gepolstertes Laptop-Fach im kompakten Duffel — einzigartig in diesem Vergleich", "100% recyceltes Polyester ohne Leistungskompromisse", "Frontzip-Tasche für Schnellzugriff ohne Hauptfach öffnen"],
+      "cons": ["Nassfach zu klein für Schuhe und nasse Kleidung gleichzeitig"],
+      "grade": "B",
+      "specs": {"Volumen": "S-Größe (~30L)", "Material": "100% recyceltes Polyester", "Fächer": "Schuh/Nassfach + gepolstertes Laptop-Fach + Haupt", "Preis": "ca. 40–55 €"},
+      "scores": {"Beständigkeit": 4.0, "Nass/Trocken-Trennung": 3.5, "Schrankpassung": 4.5, "Komfort": 3.8, "Preis-Leistung": 4.5}
+    },
+    {
+      "offerId": "gold-gym-gym-bag-backpack",
+      "badge": "Bestes Budget",
+      "review": "Gold's Gym Marke für ca. 25–40 € bietet haltbares Polyester, separates Schuhfach und großes Hauptfach mit Innenorganizer. Keine Nass/Trocken-Spezialisierung — Voraussetzung ist sofortiges Lüften nach jeder Einheit. Für preisbewusste Käufer mit direktem Heimweg.",
+      "pros": ["Bewährte Gym-Marke zu Einstiegspreisen", "Separates Schuhfach plus Innen-Organizer-Tasche", "Großes Hauptfach für unkomplizierten Gym-Inhalt"],
+      "cons": ["Keine spezialisierte Nass/Trocken-Trennung — sofortiges Lüften nach Einheiten nötig"],
+      "grade": "B-",
+      "specs": {"Material": "Polyester", "Fächer": "Schuhfach + Organizer + Haupt", "Preis": "ca. 25–40 €"},
+      "scores": {"Beständigkeit": 3.8, "Nass/Trocken-Trennung": 2.8, "Schrankpassung": 4.5, "Komfort": 3.5, "Preis-Leistung": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für Gym+Pendeln mit Wechselkleidung", "offerId": "nike-brasilia-9-5-training-duffel", "reason": "36L trifft den Sweet Spot zwischen Schrankpassung und Platz für ein vollständiges Pendler-Kit"},
+    {"label": "Für Regenpendler zu Fuß oder per Rad", "offerId": "under-armour-undeniable-5-duffel", "reason": "UA Storm Finish ist die wasserabweisendste Option in diesem Vergleich"},
+    {"label": "Für Gym-Besucher mit Stil-Anspruch", "offerId": "gym-shark-everyday-gym-bag", "reason": "Minimalistisches Design und Laptop-Kompatibilität ohne Sporttaschen-Optik"},
+    {"label": "Für Gym-Büro-Pendler mit Laptop", "offerId": "adidas-defender-4-duffel", "reason": "Einzige Tasche hier mit gepolstertem Laptop-Fach im kompakten, schrankgeeigneten Format"},
+    {"label": "Für günstige Gym-Nutzung", "offerId": "gold-gym-gym-bag-backpack", "reason": "25–40 € für ein Schuhfach und ausreichend Platz für Standard-Gym-Equipment"}
+  ]
 }

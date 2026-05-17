@@ -98,5 +98,179 @@
     "garmin-forerunner-55": "초보자를 위한 최고의 입문급 GPS 러닝 워치. 단일 밴드 GPS는 대부분의 러닝 조건에 충분하고, 20시간 배터리는 모든 레이스 거리를 처리하며, 기본 훈련 지표는 새 러너에게 맞는 깊이입니다. Forerunner 265에 투자하기 전 구조화된 GPS 훈련으로의 가장 접근하기 쉬운 진입로입니다."
   },
   "pinDescription": "2026년 최고의 러닝 워치 비교: GPS 정확도, 훈련 부하 분석, 배터리 수명에서 Garmin vs Coros vs Apple vs Polar. 마라톤 훈련, 울트라 레이스, 또는 일상 달리기에 어떤 워치가 맞을까요? #한국어",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다.",
+  "products": [
+    {
+      "offerId": "garmin-forerunner-265",
+      "badge": "종합 최고 선택",
+      "review": "포러너 265는 멀티밴드 L1/L5 GPS, Elevate v4 심박, AMOLED 디스플레이, 이 비교에서 가장 완전한 훈련 모니터링을 결합합니다——Training Readiness, HRV Status, Training Status가 매일 몸의 준비 상태를 알려줍니다. 20시간 GPS 배터리는 모든 레이스 거리를 커버합니다. AMOLED는 MIP보다 배터리를 더 소모합니다.",
+      "pros": [
+        "멀티밴드 L1/L5 GPS — 도시 협곡에서 5m 미만 정확도",
+        "Training Readiness + HRV Status로 과훈련 감지",
+        "AMOLED 디스플레이, Garmin Pay, 음악 저장"
+      ],
+      "cons": [
+        "AMOLED는 비슷한 가격의 MIP 경쟁사보다 배터리 소모 많음"
+      ],
+      "grade": "A+",
+      "specs": {
+        "GPS": "멀티밴드 L1/L5",
+        "심박 센서": "Elevate v4",
+        "디스플레이": "AMOLED",
+        "배터리(GPS)": "20시간",
+        "음악": "650곡",
+        "가격": "$349.99"
+      },
+      "scores": {
+        "GPS accuracy": 5.0,
+        "Battery life": 3.8,
+        "Ease of use": 4.5,
+        "Value": 4.2,
+        "Heart rate accuracy": 4.8
+      }
+    },
+    {
+      "offerId": "coros-pace-3",
+      "badge": "최고의 배터리 수명",
+      "review": "코로스 페이스 3의 38시간 GPS 런타임은 이 비교에서 독보적입니다——충전기 없이 100마일 울트라마라톤을 완주할 수 있는 유일한 시계입니다. 30g로 가장 가볍기도 합니다. EvoLab 훈련 분석은 경쟁적 러너에게 필요한 핵심 지표를 커버합니다. 최소한의 스마트워치 기능은 의도적인 설계 선택입니다.",
+      "pros": [
+        "38시간 GPS 런타임 — 비교 최고 배터리",
+        "밴드 포함 30g — 여기서 가장 가벼운 시계",
+        "EvoLab VO2max 및 훈련 부하 분석"
+      ],
+      "cons": [
+        "음악 없음, 결제 없음 — 최소한의 스마트워치 기능"
+      ],
+      "grade": "A",
+      "specs": {
+        "GPS": "멀티밴드, Sony 칩셋",
+        "무게": "30 g",
+        "배터리(GPS)": "38시간",
+        "심박 센서": "Coros 광학식",
+        "스마트워치": "최소한",
+        "가격": "$229"
+      },
+      "scores": {
+        "GPS accuracy": 4.5,
+        "Battery life": 5.0,
+        "Ease of use": 4.0,
+        "Value": 4.8,
+        "Heart rate accuracy": 4.0
+      }
+    },
+    {
+      "offerId": "apple-watch-series-9",
+      "badge": "iPhone 사용자 최고",
+      "review": "Apple Watch Series 9는 이 그룹에서 가장 유능한 스마트워치이자 가장 덜 유능한 러닝 컴퓨터입니다. 모든 것을 하나의 기기로 원하는 레크리에이션 러너에게는 GPS와 심박수가 충분합니다. 6~8시간 GPS 배터리 수명이 결정적 한계: 4시간 이상의 풀 마라톤은 아슬아슬합니다.",
+      "pros": [
+        "완전한 Apple 생태계 — Pay, ECG, 심방세동 감지",
+        "훈련 달리기에 적합한 L1/L5 GPS",
+        "비교 최고의 스마트워치 기능 세트"
+      ],
+      "cons": [
+        "GPS 6~8시간 배터리 — 풀 마라톤에는 아슬아슬"
+      ],
+      "grade": "B+",
+      "specs": {
+        "GPS": "L1/L5 이중 주파수",
+        "배터리(GPS)": "6~8시간",
+        "디스플레이": "Retina LTPO",
+        "심박 센서": "Apple 광학식",
+        "결제": "Apple Pay",
+        "가격": "¥49,698부터"
+      },
+      "scores": {
+        "GPS accuracy": 4.0,
+        "Battery life": 2.0,
+        "Ease of use": 5.0,
+        "Value": 3.5,
+        "Heart rate accuracy": 3.8
+      }
+    },
+    {
+      "offerId": "polar-pacer-pro",
+      "badge": "훈련 부하 분석 최고",
+      "review": "Polar Pacer Pro의 Precision Prime 광학 센서는 고강도 시 이 비교에서 가장 정확합니다——심혈관 및 신경근 부하를 별도 채널로 분리하여 통합 준비도 점수보다 구조화된 주기화에 더 실행 가능합니다. 35시간 GPS 배터리도 강합니다.",
+      "pros": [
+        "Precision Prime 광학 심박 — 여기서 최고 광학 정확도",
+        "Training Load Pro가 심장 vs 근육 부하 분리",
+        "35시간 GPS 배터리 — 장거리 이벤트에 강함"
+      ],
+      "cons": [
+        "좁은 생태계 — 서드파티 앱 통합 적음"
+      ],
+      "grade": "B",
+      "specs": {
+        "GPS": "멀티밴드, Precision Prime 융합",
+        "배터리(GPS)": "35시간",
+        "디스플레이": "MIP",
+        "심박 센서": "Precision Prime",
+        "훈련 부하": "심장 + 근육 + 인지",
+        "가격": "$300"
+      },
+      "scores": {
+        "GPS accuracy": 4.3,
+        "Battery life": 4.8,
+        "Ease of use": 3.8,
+        "Value": 4.0,
+        "Heart rate accuracy": 5.0
+      }
+    },
+    {
+      "offerId": "garmin-forerunner-55",
+      "badge": "최고의 입문 수준",
+      "review": "포러너 55는 초보자에게 필요한 모든 것을 제공합니다: 공원과 교외 도로에 충분한 단일 밴드 GPS, 모든 레이스 거리를 커버하는 20시간 배터리, 압도적 복잡성 없는 기본 훈련 데이터. 단일 밴드 GPS가 실제 제한——도시 협곡에서 15~30m 드리프트가 발생합니다.",
+      "pros": [
+        "모든 표준 레이스 거리를 위한 20시간 배터리",
+        "간단한 인터페이스로 새 러너의 학습 곡선 감소",
+        "입문 가격의 Garmin Connect 생태계"
+      ],
+      "cons": [
+        "단일 밴드 GPS — 도시 협곡에서 정확도 저하"
+      ],
+      "grade": "B-",
+      "specs": {
+        "GPS": "단일 밴드",
+        "배터리(GPS)": "20시간",
+        "디스플레이": "MIP (반사형)",
+        "심박 센서": "Garmin 광학식",
+        "훈련 지표": "VO2max, 훈련 효과",
+        "가격": "$199"
+      },
+      "scores": {
+        "GPS accuracy": 3.5,
+        "Battery life": 4.5,
+        "Ease of use": 4.8,
+        "Value": 5.0,
+        "Heart rate accuracy": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "경쟁적인 레크리에이션 러너를 위해",
+      "offerId": "garmin-forerunner-265",
+      "reason": "멀티밴드 GPS와 HRV 기반 Training Readiness는 하프마라톤 및 마라톤 훈련이 요구하는 데이터 정확도와 회복 모니터링을 제공합니다."
+    },
+    {
+      "label": "울트라마라톤 및 멀티데이 운동선수를 위해",
+      "offerId": "coros-pace-3",
+      "reason": "38시간 GPS 가동은 어떤 울트라 거리 이벤트에서도 충전 걱정을 완전히 없애줍니다——이 그룹의 다른 시계는 근처에도 오지 못합니다."
+    },
+    {
+      "label": "레크리에이션으로 달리는 iPhone 우선 사용자를 위해",
+      "offerId": "apple-watch-series-9",
+      "reason": "생태계 통합과 비달리기 기능이 달리기 지표만큼 중요하다면, 여기서 두 가지를 Apple Watch만큼 잘 제공하는 시계는 없습니다."
+    },
+    {
+      "label": "주기화가 있는 구조화된 훈련을 위해",
+      "offerId": "polar-pacer-pro",
+      "reason": "심혈관 훈련 부하를 근육 부하와 분리하는 것은 통합 준비도 점수보다 주기화 블록에 더 실행 가능합니다."
+    },
+    {
+      "label": "GPS 습관을 구축하는 새로운 러너를 위해",
+      "offerId": "garmin-forerunner-55",
+      "reason": "초보자가 최소 12~18개월 동안 사용하지 않을 기능의 비용과 복잡성 없이 적절한 깊이의 훈련 데이터를 제공합니다."
+    }
+  ]
 }

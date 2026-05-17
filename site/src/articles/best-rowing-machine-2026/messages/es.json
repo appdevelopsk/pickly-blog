@@ -53,5 +53,178 @@
     "sunny-sf-rw5515": "No se requiere suscripción. El monitor LCD básico registra tiempo, recuento, calorías y modo de exploración."
   },
   "pinDescription": "5 mejores máquinas de remo de 2026 probadas — Concept2 vs Hydrow vs NordicTrack vs agua vs económico. ¡Cardio de cuerpo completo en casa! 🚣",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "concept2-model-d",
+      "badge": "La mejor opción general",
+      "review": "El Concept2 Model D es el referente mundial: la resistencia de aire escala infinitamente con el esfuerzo y la precisión del monitor PM5 es reconocida por entrenadores de élite. El compromiso real es el ruido — las máquinas de aire son notablemente ruidosas.",
+      "pros": [
+        "Resistencia de aire infinitamente escalable",
+        "El monitor PM5 es el estándar de datos del sector",
+        "Se pliega verticalmente para almacenamiento compacto"
+      ],
+      "cons": [
+        "Notablemente ruidoso durante los tirones de alta intensidad"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Tipo de resistencia": "Aire",
+        "Monitor": "PM5",
+        "Peso máx. usuario": "272 kg",
+        "Altura del asiento": "40 cm",
+        "Tamaño plegado": "63 × 84 cm",
+        "Peso": "26 kg (riel)",
+        "Precio": "~900 $"
+      },
+      "scores": {
+        "Resistance feel": 5.0,
+        "Build quality": 4.9,
+        "Noise": 2.5,
+        "Value": 4.5,
+        "Footprint": 4.0
+      }
+    },
+    {
+      "offerId": "hydrow-wave-rower",
+      "badge": "Mejor para fitness conectado",
+      "review": "El Wave combina resistencia electromagnética con una pantalla táctil de 16 pulgadas y una biblioteca de clases motivadora — más silencioso que el aire, ideal para apartamentos. La suscripción (~44 $/mes) es un coste real y continuo.",
+      "pros": [
+        "Más silencioso que la resistencia de aire — apto para apartamentos",
+        "Pantalla de 16 pulgadas con clases en vivo y bajo demanda",
+        "Se pliega para ahorrar espacio"
+      ],
+      "cons": [
+        "Suscripción requerida para contenido completo (~44 $/mes)"
+      ],
+      "grade": "A",
+      "specs": {
+        "Tipo de resistencia": "Electromagnética",
+        "Pantalla": "16 pulgadas táctil",
+        "Suscripción": "~44 $/mes",
+        "Plegable": "Sí",
+        "Precio": "1.495 $"
+      },
+      "scores": {
+        "Resistance feel": 4.2,
+        "Build quality": 4.3,
+        "Noise": 4.5,
+        "Value": 3.5,
+        "Footprint": 4.3
+      }
+    },
+    {
+      "offerId": "nordictrack-rw900",
+      "badge": "Mejor experiencia de pantalla",
+      "review": "La pantalla HD giratoria de 22 pulgadas del RW900 es la más grande de esta comparativa y la biblioteca de rutas iFIT es verdaderamente extensa. Con 99 kg, su ubicación es prácticamente permanente.",
+      "pros": [
+        "Pantalla HD giratoria de 22 pulgadas",
+        "26 niveles de resistencia se ajustan automáticamente",
+        "Biblioteca de rutas globales iFIT"
+      ],
+      "cons": [
+        "Pesado (99 kg) — la ubicación es casi permanente"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Tipo de resistencia": "Magnético/iFIT",
+        "Pantalla": "22 pulgadas HD",
+        "Niveles de resistencia": "26",
+        "Peso": "99 kg",
+        "Suscripción": "~39 $/mes",
+        "Precio": "2.799 $"
+      },
+      "scores": {
+        "Resistance feel": 4.0,
+        "Build quality": 4.2,
+        "Noise": 4.3,
+        "Value": 3.2,
+        "Footprint": 2.5
+      }
+    },
+    {
+      "offerId": "ergatta-rower",
+      "badge": "Mejor resistencia de agua",
+      "review": "El volante de agua de Ergatta produce la sensación de remo más natural del grupo — el sonido y la resistencia imitan el remo en aguas abiertas. La plataforma basada en juegos motiva a los deportistas solitarios. El ecosistema propietario limita el contenido.",
+      "pros": [
+        "Volante de agua = sensación de remo más realista",
+        "Entrenamientos gamificados para atletas individuales",
+        "Pantalla táctil de 17,3 pulgadas con programas estructurados"
+      ],
+      "cons": [
+        "Bloqueo de plataforma — sin contenido de terceros"
+      ],
+      "grade": "B",
+      "specs": {
+        "Tipo de resistencia": "Agua",
+        "Pantalla": "17,3 pulgadas táctil",
+        "Suscripción": "~29 $/mes",
+        "Chasis": "WaterRower",
+        "Rango de precio": "1.999–2.499 $"
+      },
+      "scores": {
+        "Resistance feel": 4.8,
+        "Build quality": 4.5,
+        "Noise": 3.8,
+        "Value": 3.4,
+        "Footprint": 3.5
+      }
+    },
+    {
+      "offerId": "sunny-sf-rw5515",
+      "badge": "Mejor opción económica",
+      "review": "Por ~350 $, el SF-RW5515 ofrece 12 niveles de resistencia magnética, funcionamiento silencioso y una entrada sin suscripción al remo. No replica la sensación del aire o el agua, pero es el punto de partida de menor riesgo para principiantes.",
+      "pros": [
+        "Resistencia magnética silenciosa — sin suscripción",
+        "12 niveles sobre un sólido riel de aluminio",
+        "Apto para usuarios de hasta 191 cm"
+      ],
+      "cons": [
+        "La sensación de resistencia es menos dinámica que el aire o el agua"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Tipo de resistencia": "Magnética",
+        "Niveles de resistencia": "12",
+        "Longitud del riel": "110 cm",
+        "Peso máx. usuario": "113 kg",
+        "Monitor": "LCD básico",
+        "Precio": "~350 $"
+      },
+      "scores": {
+        "Resistance feel": 3.0,
+        "Build quality": 3.5,
+        "Noise": 5.0,
+        "Value": 4.8,
+        "Footprint": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para atletas domésticos serios",
+      "offerId": "concept2-model-d",
+      "reason": "La precisión de datos estándar del sector y el escalado infinito de resistencia recompensan a los atletas que desean rastrear el progreso real durante años."
+    },
+    {
+      "label": "Para residentes en apartamentos",
+      "offerId": "hydrow-wave-rower",
+      "reason": "La resistencia electromagnética y el marco plegable mantienen el ruido y la huella lo suficientemente bajos para la vida con paredes compartidas."
+    },
+    {
+      "label": "Para motivación basada en contenido",
+      "offerId": "nordictrack-rw900",
+      "reason": "La pantalla de 22 pulgadas y la biblioteca iFIT son ideales para personas que necesitan variedad y responsabilidad del instructor."
+    },
+    {
+      "label": "Para atletas competitivos individuales",
+      "offerId": "ergatta-rower",
+      "reason": "Las carreras basadas en juegos contra récords personales funcionan mejor que el contenido basado en clases para atletas automotivados."
+    },
+    {
+      "label": "Para principiantes del remo con presupuesto ajustado",
+      "offerId": "sunny-sf-rw5515",
+      "reason": "Una máquina silenciosa y asequible sin compromiso de suscripción es la herramienta adecuada para probar si el remo encaja en tu rutina."
+    }
+  ]
 }

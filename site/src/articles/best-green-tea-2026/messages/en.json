@@ -58,5 +58,64 @@
     "harney-sons-dragon-well": "Chinese Dragon Well (Longjing) loose leaf, 4oz. $12-18. Best Chinese green tea — pan-fired, toasty-sweet, less vegetal than Japanese greens. Correct for drinkers who find Japanese green tea too intensely savory."
   },
   "pinDescription": "Green tea 2026: Japanese sencha vs gyokuro vs genmaicha vs Chinese Dragon Well — why temperature matters (never boiling water), shade-grown explained, how to cold brew green tea, and best green tea for daily drinking 2026.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each tea was evaluated on flavor complexity, sourcing transparency and traceability, value per gram, freshness indicators, packaging integrity, and suitability across brewing methods including hot steep, cold brew, and re-steeping.",
+  "products": [
+    {
+      "offerId": "ippodo-sencha-ummon",
+      "badge": "Best Overall",
+      "review": "Ippodo's Ummon Sencha is the reference-quality Japanese sencha in this comparison — bright green, grassy, and clean with direct Uji sourcing from Japan's oldest tea shop. At $18–25 for 80g it costs more than supermarket sencha, but the quality consistency is exceptional. Requires 70–75°C water; boiling water brings out bitterness.",
+      "pros": ["Direct Uji sourcing from Japan's oldest tea shop established 1717", "Bright, clean grassiness with consistent quality batch-to-batch", "Re-steeps 2–3 times from same leaves"],
+      "cons": ["Requires temperature control — boiling water ruins the cup"],
+      "grade": "A+",
+      "specs": {"Origin": "Uji, Japan", "Weight": "80g", "Price": "~$18–25", "Brewing temp": "70–75°C", "Steep time": "1 min", "Style": "Sencha loose leaf", "Re-steeps": "2–3x"},
+      "scores": {"Flavor": 4.8, "Quality": 4.9, "Value": 4.1, "Versatility": 4.3, "Freshness": 4.9}
+    },
+    {
+      "offerId": "harney-sons-japanese-sencha",
+      "badge": "Best Accessible",
+      "review": "Harney & Sons Japanese Sencha is the practical everyday option — sold at Whole Foods, priced at $8–12, and consistently good for daily drinking. The loose-leaf version noticeably outperforms the bagged version due to better leaf cut. A clear step down from Ippodo in complexity, but a genuinely solid introduction to Japanese sencha without specialty shop pricing.",
+      "pros": ["Available at Whole Foods and widely online", "Loose-leaf version delivers good everyday quality at $8–12", "Accessible entry point for Japanese sencha without specialty sourcing"],
+      "cons": ["Less complex than Ippodo — noticeably simpler flavor profile"],
+      "grade": "A",
+      "specs": {"Origin": "Japan", "Weight": "4 oz / 20 bags", "Price": "~$8–12", "Brewing temp": "75–80°C", "Steep time": "1–2 min", "Style": "Sencha loose leaf or bags", "Availability": "Whole Foods"},
+      "scores": {"Flavor": 4.2, "Quality": 4.1, "Value": 4.7, "Versatility": 4.4, "Freshness": 4.2}
+    },
+    {
+      "offerId": "two-leaves-genmaicha",
+      "badge": "Best for Beginners",
+      "review": "Two Leaves Genmaicha blends sencha with roasted rice, and that nutty, toasty layer is exactly what makes it accessible for green tea newcomers — the roasted rice offsets grassiness and makes the cup less intensely vegetal. More forgiving at 80°C than pure sencha. Best gateway tea for drinkers transitioning from black tea.",
+      "pros": ["Roasted rice offsets the grassiness of pure green tea", "More forgiving brew temperature (80°C) than pure sencha", "Low caffeine option — rice dilutes tea content"],
+      "cons": ["Less refined flavor profile than pure high-quality sencha"],
+      "grade": "B+",
+      "specs": {"Origin": "Japan", "Weight": "3 oz", "Price": "~$8–14", "Brewing temp": "80°C", "Steep time": "1–2 min", "Style": "Genmaicha loose leaf", "Caffeine": "Lower than pure sencha"},
+      "scores": {"Flavor": 4.0, "Quality": 4.0, "Value": 4.5, "Versatility": 4.6, "Freshness": 4.0}
+    },
+    {
+      "offerId": "ippodo-gyokuro",
+      "badge": "Best Premium",
+      "review": "Ippodo Gyokuro is at the apex of Japanese green tea — shade-grown in Uji, steeped at 50–60°C, and the resulting cup is intensely umami-sweet, almost broth-like. This is not an everyday casual tea: it requires a temperature-controlled kettle and patience. For anyone who wants to understand why Japanese tea culture elevates gyokuro above everything else, one steep is instructive.",
+      "pros": ["Shade-growing concentrates L-theanine for intense umami sweetness", "Re-steeps 3+ times — economic despite high price per gram", "Incomparable flavor — nothing else tastes like quality gyokuro"],
+      "cons": ["Requires temperature control at 50–60°C and precise brewing technique"],
+      "grade": "B",
+      "specs": {"Origin": "Uji, Japan", "Weight": "40g", "Price": "~$28–50", "Brewing temp": "50–60°C", "Steep time": "90 sec", "Style": "Shade-grown gyokuro", "Re-steeps": "3+"},
+      "scores": {"Flavor": 4.9, "Quality": 4.9, "Value": 3.5, "Versatility": 3.0, "Freshness": 4.8}
+    },
+    {
+      "offerId": "harney-sons-dragon-well",
+      "badge": "Best Chinese Green Tea",
+      "review": "Harney & Sons Dragon Well (Longjing) is the best Chinese green tea in this comparison — pan-fired, toasty-sweet, and noticeably less vegetal than Japanese sencha. An ideal choice for drinkers who find Japanese greens too intensely savory or grassy. Brews well at 80–85°C and is more forgiving than gyokuro.",
+      "pros": ["Pan-fired processing creates toasty-sweet character distinct from Japanese greens", "Less vegetal and more approachable for drinkers new to green tea", "Brews at more forgiving 80–85°C"],
+      "cons": ["Higher price per gram than Harney sencha for a similar quality tier"],
+      "grade": "B-",
+      "specs": {"Origin": "Hangzhou, China", "Weight": "4 oz", "Price": "~$12–38", "Brewing temp": "80–85°C", "Steep time": "2 min", "Style": "Dragon Well loose leaf", "Processing": "Pan-fired"},
+      "scores": {"Flavor": 4.3, "Quality": 4.2, "Value": 3.8, "Versatility": 4.5, "Freshness": 4.1}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For serious green tea drinkers", "offerId": "ippodo-sencha-ummon", "reason": "Direct Uji sourcing with exceptional batch consistency from Japan's oldest tea shop"},
+    {"label": "For everyday accessible sencha", "offerId": "harney-sons-japanese-sencha", "reason": "Good quality at $8–12, available at Whole Foods without specialty ordering"},
+    {"label": "For green tea beginners", "offerId": "two-leaves-genmaicha", "reason": "Roasted rice cuts grassiness and makes the cup approachable for black tea drinkers"},
+    {"label": "For the premium Japanese tea experience", "offerId": "ippodo-gyokuro", "reason": "Shade-grown Uji gyokuro with intense umami sweetness unlike any other tea"},
+    {"label": "For those who find Japanese tea too vegetal", "offerId": "harney-sons-dragon-well", "reason": "Pan-fired Chinese Longjing with toasty-sweet character and less grassy flavor"}
+  ]
 }

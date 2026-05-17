@@ -86,5 +86,184 @@
     "ultimate-body-press-ceiling": "Günstiger Einstieg in die dauerhafte Deckenmontage. 1,25-Zoll-Stahl mit 14-Gauge, 300 lbs Tragfähigkeit, 40 Zoll Länge. Mindest-Deckenhöhenanforderung von 90 Zoll."
   },
   "pinDescription": "5 deckenmont­ierte Klimmzugstangen im Vergleich: Rogue vs. Titan vs. REP vs. Pullup & Dip vs. Ultimate Body Press. Finden Sie heraus, welche Stange zu Ihrer Deckenhöhe, Ihrem Balkenabstand und Ihrer Trainingslast passt — einmal montieren, jahrelang trainieren. #KlimmzugstangeDecke #Heimgym #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jede Stange wurde nach Stahlstärke und Rohrdurchmesser, herstellerbewerteter statischer Traglast, Balkenkompabilität, Riffelungstiefe und -fläche, Mindest-Deckenhöhe, mitgelieferter Hardwarequalität und Korrosionsbeständigkeit für nicht klimatisierte Installationsumgebungen bewertet.",
+  "products": [
+    {
+      "offerId": "rogue-joist-mount-pullup",
+      "badge": "Beste Gesamtwahl",
+      "review": "Der Rogue Joist Mount ist der Garagengymnasium-Deckenbalken-Maßstab — 11-Gauge-Stahl, 500-Pfund-Bewertung, 48-Zoll-Spannweite und Bolzenhardware inklusive für zwei standardmäßig im 16-Zoll-Abstand befindliche Balken. Die mitteltiefe Riffelung ist aggressiv genug, um den Griff bei gewichteten Klimmzügen zu halten, ohne bei Hochwiederholungssätzen die Haut zu reißen.",
+      "pros": [
+        "11-Gauge-Stahl und 500-Pfund-Bewertung — höchste Traglast im Vergleich",
+        "Rack-Grade-Pulverlackierung überlebt nicht klimatisierte Garagenumgebungen",
+        "Vollständige Lagerhardware inklusive — kein separater Hardwarekauf nötig"
+      ],
+      "cons": [
+        "Erfordert standard 16-Zoll-Balkenabstand — nicht standardmäßige Decken benötigen den Titan"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "500 lb (227 kg)",
+        "Span": "48 inches",
+        "Ceiling height min": "Standard",
+        "Mounting": "2 ceiling joists at 16-inch centers",
+        "Price": "$95.00"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 4.9,
+        "Installation ease": 4.0,
+        "Value": 4.5,
+        "Grip variety": 3.8
+      }
+    },
+    {
+      "offerId": "titan-wall-ceiling-pullup",
+      "badge": "Bestes Multiwinkel-Modell",
+      "review": "Titans verstellbarer Winkel montiert sich an jedem Winkel zwischen 45 und 90 Grad an Wand oder Decke — die einzige Option in diesem Vergleich für nicht standardmäßige Deckenneigungen oder Wand-zu-Decke-Eckinstallationen. Eingebaute Winkelgriffbereiche bieten neutralen Griff ohne zusätzliche Hardware.",
+      "pros": [
+        "Montiert sich an jedem Winkel 45–90° — löst geneigte Decken und Eckinstallationen",
+        "Eingebaute Neutral-Griffabschnitte ohne zusätzliche Aufsätze",
+        "Niedrigster Preis für einen 400-Pfund-bewerteten Stahlbalken im Vergleich"
+      ],
+      "cons": [
+        "12-Gauge vs. 11-Gauge bedeutet weniger Steifigkeit als Rogue oder REP unter hoher Last"
+      ],
+      "grade": "A",
+      "specs": {
+        "Steel gauge": "12-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "400 lb (181 kg)",
+        "Span": "44 inches",
+        "Mount angle": "45–90° adjustable",
+        "Mounting": "Wall or ceiling",
+        "Price": "$85–120"
+      },
+      "scores": {
+        "Load capacity": 4.5,
+        "Stability": 4.6,
+        "Installation ease": 4.2,
+        "Value": 4.8,
+        "Grip variety": 4.7
+      }
+    },
+    {
+      "offerId": "rep-fitness-ceiling-pullup",
+      "badge": "Bestes für Hochwiederholungs-Training",
+      "review": "REPs 1,5-Zoll-Durchmesserbalken ist der dickste in diesem Vergleich — er trainiert passiv die Griffstärke bei jedem Satz und ist ein echter Differenziator. Die Gummi-Deckendichtung eliminiert das Knarrgeräusch bei schweren Lastzyklen auf Holzbalken.",
+      "pros": [
+        "1,5-Zoll-Durchmesserbalken trainiert Griff passiv bei jedem Satz",
+        "Gummi-Deckendichtung eliminiert Lastzyklus-Knarre auf Holzbalken",
+        "Leichtere Riffelung eignet sich besser für Hochwiederholungs-Körpergewichtstraining"
+      ],
+      "cons": [
+        "Leichtere Riffelung bietet weniger Feedback bei Max-Last-gewichteten Sätzen als Rogue"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Bar diameter": "1.5 inches",
+        "Load capacity": "500 lb (227 kg)",
+        "Span": "48 inches",
+        "Ceiling gasket": "Rubber (creak prevention)",
+        "Mounting": "2 ceiling joists",
+        "Price": "$80–140"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 4.8,
+        "Installation ease": 3.8,
+        "Value": 4.6,
+        "Grip variety": 3.6
+      }
+    },
+    {
+      "offerId": "probar-wall-mount-pullup",
+      "badge": "Bestes für Außen-/Feuchträume",
+      "review": "ProBar verwendet 304er Edelstahl für Balken und Hardware — die einzige korrosionsbeständige Option in diesem Vergleich und die richtige Wahl für Außen-, nicht klimatisierte Garagen- oder Hochfeuchtigkeitsinstallationen. Die 441-Pfund-Kapazität und 39-Zoll-Spannweite sind wettbewerbsfähig.",
+      "pros": [
+        "304er Edelstahlbalken und -hardware korrosionsbeständig in Außen- oder feuchten Räumen",
+        "Inklusive schmaler paralleler Griffaufsätze für neutralen Griff",
+        "441-Pfund-Kapazität wettbewerbsfähig mit mittelklassigen Stahlbalken"
+      ],
+      "cons": [
+        "39-Zoll-Spannweite kürzer als Rogue und REP — weniger Raum für Breitgriff-Variationen"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "304 stainless steel",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "441 lb (200 kg)",
+        "Span": "39 inches",
+        "Includes": "Parallel grip attachments",
+        "Best for": "Outdoor / unconditioned spaces",
+        "Price": "$60–100"
+      },
+      "scores": {
+        "Load capacity": 4.6,
+        "Stability": 4.7,
+        "Installation ease": 4.0,
+        "Value": 4.0,
+        "Grip variety": 4.5
+      }
+    },
+    {
+      "offerId": "ultimate-body-press-ceiling",
+      "badge": "Bestes Budget-Permanent-Modell",
+      "review": "Ultimate Body Press ist der Einsteiger-Deckenbalken — 14-Gauge-Stahl, 300-Pfund-Kapazität, 40-Zoll-Spannweite und eine 90-Zoll-Mindest-Deckenhöhe. Für Nutzer unter 100 kg bei strengen Totlasten-Klimmzügen liefert es die Kernfunktion adequat.",
+      "pros": [
+        "Niedrigster Preis für einen dauerhaft deckenmontierten Klimmzugbalken",
+        "90-Zoll-Mindest-Deckenhöhe — niedrigste Anforderung hier",
+        "Funktional für strenge Totlasten-Körpergewichtsnutzung unter 100 kg"
+      ],
+      "cons": [
+        "14-Gauge-leichtere Konstruktion — deutlich weniger steif als Rogue oder REP unter Last"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Steel gauge": "14-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "300 lb (136 kg)",
+        "Span": "40 inches",
+        "Ceiling height min": "90 inches (229 cm)",
+        "Mounting": "2 ceiling joists",
+        "Price": "$89.95"
+      },
+      "scores": {
+        "Load capacity": 3.8,
+        "Stability": 4.0,
+        "Installation ease": 4.2,
+        "Value": 4.5,
+        "Grip variety": 3.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für dauerhafte Garagengymnasium-Installation",
+      "offerId": "rogue-joist-mount-pullup",
+      "reason": "11-Gauge-Stahl und 500-Pfund-Bewertung am Standardbalkenabstand — der Balken, der gewichtete Klimmzüge, Kipping und täglichen Hochvolumenbetrieb ohne Biegen verarbeitet."
+    },
+    {
+      "label": "Für nicht standardmäßige Deckenwinkel oder -neigungen",
+      "offerId": "titan-wall-ceiling-pullup",
+      "reason": "Der einzige Balken in diesem Vergleich, der sich an jedem Winkel zwischen 45 und 90 Grad montiert — löst geneigte Decken und Eckinstallationen."
+    },
+    {
+      "label": "Für Hochwiederholungs-Körpergewichtstraining",
+      "offerId": "rep-fitness-ceiling-pullup",
+      "reason": "1,5-Zoll-Durchmesser trainiert Griff passiv und die leichtere Riffelung ist komfortabler für 15+-Wiederholungs-Körpergewichtssätze."
+    },
+    {
+      "label": "Für Außen- oder nicht klimatisierte Garageninstallationen",
+      "offerId": "probar-wall-mount-pullup",
+      "reason": "304er Edelstahlbalken und -hardware sind die einzige korrosionsbeständige Option — notwendig wenn Regen, Feuchtigkeit oder Kondensation wahrscheinlich ist."
+    },
+    {
+      "label": "Für günstige dauerhafte Deckeninstallation",
+      "offerId": "ultimate-body-press-ceiling",
+      "reason": "Niedrigster Einstiegspreis für einen deckenbefestigten Balken — funktional für strenge Körpergewichts-Klimmzüge unter 100 kg."
+    }
+  ]
 }

@@ -92,5 +92,184 @@
     "gorilla-bow-pull-up-station": "La migliore postazione per trazioni autoportante per affittuari e chi si trasferisce frequentemente. Non e richiesto alcun ancoraggio a parete o porta — puo essere posizionata su qualsiasi pavimento piano. Si integra con l'allenamento con bande elastiche. La stabilita e inferiore a qualsiasi sbarra montata e il design non e inteso per kipping o carico dinamico aggressivo. La scelta giusta per le persone la cui situazione abitativa elimina le opzioni di montaggio a parete e da porta."
   },
   "pinDescription": "Le migliori sbarre per trazioni 2026 a confronto: stipite vs parete vs autoportante per palestre domestiche. Quale sbarra — Iron Gym, Fitness Reality, ROGUE, ProsourceFit o Gorilla Bow — si adatta al tuo spazio e stile di allenamento? #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni barra è stata valutata su capacità di carico statica e dinamica stimata, stabilità del sistema di montaggio sotto pattern di trazioni eccentriche lente e concentriche rapide, varietà di posizioni di presa, tolleranza di compatibilità con il telaio della porta e complessità di installazione.",
+  "products": [
+    {
+      "offerId": "iron-gym-total-body-bar",
+      "badge": "Migliore Complessiva",
+      "review": "Il design a leva sopra la porta dell'Iron Gym funziona su praticamente qualsiasi telaio di porta standard senza attrezzi — più pesante è l'utente, più saldo è il grip. Più posizioni di presa coprono prona larga, neutrale parallela e supinata stretta. La limitazione principale è l'altezza di montaggio e la stabilità ridotta sotto carichi dinamici di kipping.",
+      "pros": [
+        "Nessun attrezzo o perforazione — si installa su qualsiasi telaio standard in 30 secondi",
+        "Posizioni di presa larga, neutrale e stretta in un'unità",
+        "Portata statica di 136 kg copre la maggior parte degli utenti di peso corporeo"
+      ],
+      "cons": [
+        "Non adatta per kipping o carico dinamico — solo trazioni rigide in sospensione"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Mount type": "Over-door leverage",
+        "Load capacity": "136 kg static",
+        "Grip positions": "Wide overhand, neutral, close supinated",
+        "Installation": "No tools required",
+        "Bar height": "~200–210 cm (door frame height)",
+        "Price": "$29.99",
+        "Weight": "~1.8 kg"
+      },
+      "scores": {
+        "Stability": 4.2,
+        "Load capacity": 4.2,
+        "Ease of install": 5.0,
+        "Value": 4.9,
+        "Grip comfort": 4.5
+      }
+    },
+    {
+      "offerId": "fitness-reality-810xlt",
+      "badge": "Migliore Montaggio a Parete",
+      "review": "La Fitness Reality 810XLT è ancorata nella struttura portante — una stabilità fondamentalmente diversa da qualsiasi barra sopra la porta. Posizioni di presa larga, neutrale e stretta in una stazione, omologata per 300 lbs come sistema montato.",
+      "pros": [
+        "Stabilità ancorata supera tutte le barre da porta sotto carico dinamico",
+        "Tre posizioni di presa: larga prona, neutrale, stretta supinata",
+        "Omologata per 136 kg come sistema montato — gestisce trazioni appesantite"
+      ],
+      "cons": [
+        "Richiede accesso ai montanti, fori pilota e bulloni — configurazioni senza perforazione escluse"
+      ],
+      "grade": "A",
+      "specs": {
+        "Mount type": "Stud-anchored wall mount",
+        "Load capacity": "136 kg (300 lb) mounted",
+        "Grip positions": "Wide, neutral, close",
+        "Installation": "Drilling required",
+        "Bar height": "Adjustable by install height",
+        "Price": "$329",
+        "Steel gauge": "Heavy gauge"
+      },
+      "scores": {
+        "Stability": 4.9,
+        "Load capacity": 4.8,
+        "Ease of install": 2.8,
+        "Value": 4.2,
+        "Grip comfort": 4.7
+      }
+    },
+    {
+      "offerId": "rogue-matador-pull-up-bar",
+      "badge": "Migliore per Palestre di Performance",
+      "review": "Il Rogue Matador si attacca al sistema di montaggio da 3 pollici di Rogue — rastrelliere di potenza, rigs o travi a parete — ponendo la sua capacità di carico al di sopra di qualsiasi barra autonoma. Omologata per kipping, progressioni appesantite e allenamento al muscle-up.",
+      "pros": [
+        "Omologata per kipping, trazioni appesantite e allenamento al muscle-up",
+        "Si integra con l'ecosistema di rastrelliera di potenza Rogue",
+        "Capacità di carico supera qualsiasi barra autonoma a parete o da porta"
+      ],
+      "cons": [
+        "Richiede infrastruttura di montaggio Rogue da 3 pollici esistente — non autonoma"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Mount type": "Rogue 3-inch mount system",
+        "Load capacity": "Kipping/dynamic rated",
+        "Grip positions": "Straight bar (wide and supinated)",
+        "Installation": "Rogue rack or wall rafter required",
+        "Price": "$105.00",
+        "Compatibility": "Rogue power racks and rigs",
+        "Material": "Steel"
+      },
+      "scores": {
+        "Stability": 5.0,
+        "Load capacity": 5.0,
+        "Ease of install": 2.5,
+        "Value": 3.8,
+        "Grip comfort": 4.4
+      }
+    },
+    {
+      "offerId": "prosourcefit-doorway-chinup",
+      "badge": "Migliore Budget",
+      "review": "La ProsourceFit fa lo stesso lavoro dell'Iron Gym a un prezzo inferiore — montaggio sopra la porta, nessuna perforazione, compatibile con telai di porta standard. La portata statica dichiarata di 120 kg è leggermente inferiore ai 136 kg dell'Iron Gym.",
+      "pros": [
+        "Prezzo più basso per una barra di trazione da telaio funzionale",
+        "Nessuna perforazione o attrezzi — si installa in meno di un minuto",
+        "Capacità statica di 120 kg copre la maggior parte degli utenti"
+      ],
+      "cons": [
+        "Meno posizioni di presa dell'Iron Gym — minore varietà di allenamento"
+      ],
+      "grade": "B",
+      "specs": {
+        "Mount type": "Over-door leverage",
+        "Load capacity": "120 kg (265 lb) static",
+        "Grip positions": "Wide overhand, close",
+        "Installation": "No tools required",
+        "Bar height": "~200–210 cm",
+        "Price": "$19.99",
+        "Weight": "~1.4 kg"
+      },
+      "scores": {
+        "Stability": 4.0,
+        "Load capacity": 3.8,
+        "Ease of install": 5.0,
+        "Value": 5.0,
+        "Grip comfort": 4.1
+      }
+    },
+    {
+      "offerId": "gorilla-bow-pull-up-station",
+      "badge": "Migliore per Inquilini",
+      "review": "Il Gorilla Bow è l'unica opzione in questo confronto che non richiede parete, telaio della porta o soffitto — si trova ovunque su superficie piana con sufficiente spazio verticale. La stabilità è inferiore a qualsiasi barra montata sotto carico dinamico.",
+      "pros": [
+        "Nessuna modifica alla proprietà richiesta — funziona in appartamenti e spazi in affitto",
+        "Integrazione di bande di resistenza per progressioni di trazioni assistite",
+        "Riposizionabile in qualsiasi posizione su pavimento piano"
+      ],
+      "cons": [
+        "Stabilità inferiore a qualsiasi barra montata — non progettata per kipping o carico dinamico"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Mount type": "Freestanding frame",
+        "Load capacity": "Not rated for dynamic loading",
+        "Grip positions": "Straight bar",
+        "Installation": "Assembly only, no drilling",
+        "Footprint": "~90×90 cm",
+        "Price": "$199.00",
+        "Band integration": "Yes"
+      },
+      "scores": {
+        "Stability": 3.4,
+        "Load capacity": 3.2,
+        "Ease of install": 4.8,
+        "Value": 3.5,
+        "Grip comfort": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per inquilini o primi acquirenti",
+      "offerId": "iron-gym-total-body-bar",
+      "reason": "Nessun attrezzo, nessun danno, funziona immediatamente su qualsiasi telaio di porta standard — la barra di trazione giusta per chiunque inizi senza un setup permanente."
+    },
+    {
+      "label": "Per proprietari di palestra domestica che si allenano 3+ volte a settimana",
+      "offerId": "fitness-reality-810xlt",
+      "reason": "Stabilità ancorata e tre posizioni di presa giustificano l'investimento di installazione unica per allenamento regolare ad alto volume."
+    },
+    {
+      "label": "Per principianti con budget limitato",
+      "offerId": "prosourcefit-doorway-chinup",
+      "reason": "Stesso concetto sopra la porta dell'Iron Gym a un prezzo inferiore — funzionale per trazioni rigide a peso corporeo sotto 100 kg."
+    },
+    {
+      "label": "Per proprietari di rastrelliera Rogue che programmano movimenti dinamici",
+      "offerId": "rogue-matador-pull-up-bar",
+      "reason": "Si integra con l'infrastruttura Rogue esistente ed è l'unica opzione qui omologata per trazioni kipping e allenamento al muscle-up."
+    },
+    {
+      "label": "Per residenti in appartamento che non possono forare né usare telai",
+      "offerId": "gorilla-bow-pull-up-station",
+      "reason": "Il design autonomo è l'unica opzione praticabile quando sia il montaggio a parete che quello su porta sono esclusi dalla situazione abitativa."
+    }
+  ]
 }

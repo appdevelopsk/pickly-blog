@@ -57,5 +57,64 @@
     "cap-barbell-medicine-ball": "Caoutchouc monocouche, adhérence galets, rebond modéré. Plage 4–30 lb. Option économique pour le conditionnement général."
   },
   "pinDescription": "Slam ball vs medicine ball vs coque souple — 5 sélections pour chaque objectif d'entraînement, des slams en hauteur aux exercices de passes en duo. Découvrez quel type correspond à votre entraînement avant d'acheter. #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque produit a été évalué sur cinq critères : qualité de construction, performance en utilisation typique, durabilité dans le temps, confort et rapport qualité-prix. Nous avons pondéré la performance et la durabilité en priorité car elles déterminent si un produit est encore utile 12 mois après l'achat.",
+  "products": [
+    {
+      "offerId": "rogue-medicine-ball",
+      "badge": "Meilleur slam ball",
+      "review": "La slam ball de Rogue utilise une coque épaisse en caoutchouc naturel avec un remplissage sable-caoutchouc qui élimine presque totalement le rebond — la balle touche le sol et reste là. La coque est nettement plus épaisse que la plupart des slam balls commerciaux, ce qui compte avec un volume élevé de répétitions car les coques plus fines développent des points mous et finissent par se fendre. Les repères de poids sont moulés dans le caoutchouc, pas peints. Non adaptée pour les passes entre partenaires — le remplissage dense est difficile pour les poignets à la réception.",
+      "pros": ["Quasi-zéro rebond — reste en place après les slams au sol", "Coque épaisse résiste aux fissures même à volume élevé de répétitions", "Repères de poids moulés qui ne s'effacent pas"],
+      "cons": ["Non adaptée aux passes en duo — remplissage dense dur sur les poignets à la réception"],
+      "grade": "A+",
+      "specs": {"Coque": "Caoutchouc naturel épais", "Remplissage": "Sable et miettes de caoutchouc", "Rebond": "Quasi-nul", "Plage de poids": "10–150 lb", "Prix (exemple)": "$125"},
+      "scores": {"Qualité de construction": 5.0, "Durabilité": 5.0, "Facilité d'utilisation": 4.5, "Rapport qualité-prix": 3.8, "Polyvalence": 3.5}
+    },
+    {
+      "offerId": "champion-sports-medicine-ball",
+      "badge": "Meilleure pour wall-ball",
+      "review": "Le medicine ball en caoutchouc vulcanisé 4 mm de Champion Sports produit un rebond modéré et prévisible — il revient à un angle constant après un lancer contre le mur. Idéal pour les exercices de wall-ball, le conditionnement en duo et le squat-to-press. La gamme à partir de 2 lb convient aux débutants qui apprennent la mécanique overhead. Ne peut pas être claquer à pleine force au sol — la trajectoire de retour devient imprévisible et dangereuse.",
+      "pros": ["Rebond modéré et prévisible pour wall-ball et travail en duo", "Gamme à partir de 2 lb pour les débutants", "Texture galets tient dans les mains moites"],
+      "cons": ["Ne peut pas être claquer à pleine force au sol"],
+      "grade": "A",
+      "specs": {"Coque": "Caoutchouc vulcanisé 4mm", "Grip": "Texture galets", "Rebond": "Modéré et prévisible", "Plage de poids": "2–30 lb", "Prix (exemple)": "$29.99"},
+      "scores": {"Qualité de construction": 4.0, "Durabilité": 4.2, "Facilité d'utilisation": 4.8, "Rapport qualité-prix": 4.8, "Polyvalence": 4.0}
+    },
+    {
+      "offerId": "yes4all-slam-ball",
+      "badge": "Meilleur slam ball qualité-prix",
+      "review": "La slam ball Yes4All couvre le même territoire fonctionnel que Rogue — remplissage sable, rebond minimal — à un coût nettement inférieur. La coque est légèrement plus fine que celle de Rogue, visible à la texture plutôt qu'à une défaillance structurelle sous charge normale. Les options de 10 à 50 lb par incréments de 5 lb permettent de construire une progression abordable : trois Yes4All reviennent au même prix qu'une Rogue au même poids.",
+      "pros": ["Beaucoup moins chère que Rogue aux mêmes poids", "Progression par incréments de 5 lb abordable", "Rebond minimal pour des slams intérieurs sécurisés"],
+      "cons": ["Coque légèrement plus fine que Rogue — moins durable à très haut volume de répétitions"],
+      "grade": "B+",
+      "specs": {"Coque": "Caoutchouc haute résistance", "Remplissage": "Sable", "Rebond": "Minimal", "Plage de poids": "10–50 lb (5 lb par incrément)", "Prix (exemple)": "$24.99"},
+      "scores": {"Qualité de construction": 3.8, "Durabilité": 3.8, "Facilité d'utilisation": 4.5, "Rapport qualité-prix": 5.0, "Polyvalence": 3.5}
+    },
+    {
+      "offerId": "dynamax-medicine-ball",
+      "badge": "Meilleure pour entraînement en duo",
+      "review": "Dynamax est le seul medicine ball de cette comparaison conçu spécifiquement pour être attrapé par un partenaire. La coque en vinyle moussé comprime légèrement à l'impact, absorbant assez de force pour rendre confortables les passes poitrine et lancers overhead répétés sans contusionner les avant-bras. Le diamètre standardisé à tous les poids (10 lb et 20 lb ont la même taille) facilite le transfert de technique en augmentant la charge. Non adaptée pour les slams au sol — la couture cède sous des impacts répétés à pleine force.",
+      "pros": ["Coque moussée sûre pour les passes et réceptions en duo", "Même diamètre sur toute la gamme de poids pour une technique cohérente", "Fonctionne pour les pompes sur medicine ball et déroulés en planche"],
+      "cons": ["Pas pour les slams au sol — la couture cède sous impact à pleine force"],
+      "grade": "B",
+      "specs": {"Coque": "Vinyle moussé", "Diamètre": "Standardisé sur tous les poids", "Rebond": "Doux, absorbant", "Plage de poids": "4–30 lb", "Prix (exemple)": "$165"},
+      "scores": {"Qualité de construction": 4.2, "Durabilité": 3.8, "Facilité d'utilisation": 5.0, "Rapport qualité-prix": 3.0, "Polyvalence": 4.5}
+    },
+    {
+      "offerId": "cap-barbell-medicine-ball",
+      "badge": "Meilleur budget classique",
+      "review": "La balle en caoutchouc monocouche de CAP Barbell couvre le conditionnement général, les exercices de rééducation et les programmes débutants au prix le plus bas de cette comparaison. La surface à galets maintient l'adhérence en transpiration, et la balle conserve sa forme ronde sans points mous notables à volume modéré. Non adaptée pour les slams durs — le caoutchouc monocouche présente des dommages sous impacts répétés. Pour les Russian twists, le travail rotationnel assis, les patterns de presse overhead et les passes légères en duo, elle convient sans problème.",
+      "pros": ["Prix le plus bas de cette comparaison", "Suffisante pour le conditionnement général, la rééducation et les débutants", "Grip à galets tient lors des circuits de conditionnement en sueur"],
+      "cons": ["Construction monocouche — non adaptée pour les slams durs au sol"],
+      "grade": "B-",
+      "specs": {"Coque": "Caoutchouc monocouche", "Grip": "Surface à galets", "Rebond": "Modéré", "Plage de poids": "4–30 lb", "Plage de prix": "$15–45"},
+      "scores": {"Qualité de construction": 3.2, "Durabilité": 3.2, "Facilité d'utilisation": 4.5, "Rapport qualité-prix": 5.0, "Polyvalence": 3.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour l'entraînement overhead slam", "offerId": "rogue-medicine-ball", "reason": "Quasi-zéro rebond et coque épaisse résistent aux slams à pleine force en volume élevé"},
+    {"label": "Pour wall-ball et WODs CrossFit", "offerId": "champion-sports-medicine-ball", "reason": "Le rebond modéré et prévisible rend les réceptions de wall-ball constantes et les exercices en duo sécurisés"},
+    {"label": "Pour la progression en home gym", "offerId": "yes4all-slam-ball", "reason": "Des incréments de 5 lb de 10 à 50 lb permettent une progression abordable à domicile"},
+    {"label": "Pour le conditionnement en duo", "offerId": "dynamax-medicine-ball", "reason": "La coque moussée est le seul design sécurisé pour des passes en duo répétées à haute force"},
+    {"label": "Pour le conditionnement économique", "offerId": "cap-barbell-medicine-ball", "reason": "Couvre le conditionnement général et les exercices de rééducation au coût le plus bas"}
+  ]
 }

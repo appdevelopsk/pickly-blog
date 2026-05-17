@@ -66,5 +66,185 @@
     "tribest-sedona-express": "11 vassoi, zone di riscaldamento doppie (fronte/retro possono essere impostate a temperature diverse), sotto i 55 dB. Migliore per carichi a temperature miste — essiccazione simultanea di erbe aromatiche a bassa temperatura e jerky ad alta temperatura nella stessa macchina."
   },
   "pinDescription": "Confronto essiccatori alimentari 2026: Excalibur 9 vassoi vs Cosori vs Nesco Snackmaster vs Presto Dehydro vs Tribest Sedona — quale essiccatore produce il miglior jerky di manzo, frutta secca ed erbe aromatiche? Flusso d'aria orizzontale vs verticale spiegato. #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni disidratatore è stato valutato per il design del flusso d'aria e l'uniformità dell'essiccazione, il range e la precisione della temperatura, la capacità dei vassoi, il livello di rumore in funzionamento, la facilità di pulizia e l'affidabilità a lungo termine basata sul feedback documentato degli utenti.",
+  "products": [
+    {
+      "offerId": "excalibur-9-tray-dehydrator",
+      "badge": "Migliore in assoluto",
+      "review": "L'Excalibur 9-Tray è il riferimento contro cui viene misurato ogni altro disidratatore alimentare. Il flusso d'aria orizzontale posteriore asciuga tutti e 9 i vassoi in modo uniforme senza rotazione, e 15 piedi quadrati di superficie di essiccazione gestiscono una piena carica di jerky in una sessione. Il compromesso è il prezzo ($200–$300) e l'ingombro.",
+      "pros": [
+        "Ventilatore posteriore a flusso orizzontale — nessuna rotazione dei vassoi necessaria",
+        "15 piedi quadrati di capacità su 9 vassoi",
+        "Sotto 60 dB e garanzia 10 anni"
+      ],
+      "cons": [
+        "Prezzo di $200–$300 e grande ingombro sul piano"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Prezzo": "~$200–$300",
+        "Vassoi": "9 (15 piedi²)",
+        "Flusso d'aria": "Orizzontale posteriore",
+        "Range temp.": "95–165°F",
+        "Rumore": "<60 dB",
+        "Garanzia": "10 anni",
+        "Materiale vassoi": "Policarbonato lavabile in lavastoviglie"
+      },
+      "scores": {
+        "Drying performance": 4.9,
+        "Capacity": 4.8,
+        "Noise": 4.5,
+        "Value": 4.0,
+        "Ease of use": 4.7
+      }
+    },
+    {
+      "offerId": "cosori-premium-food-dehydrator",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "review": "Il Cosori Premium 6 vassoi porta il flusso d'aria orizzontale a $100–$150 — metà del prezzo dell'Excalibur con capacità proporzionalmente minore. Il display digitale a doppia lettura (temperatura impostata e reale contemporaneamente) è una funzione genuinamente utile per monitorare i cicli. Ideale per le famiglie che disidratano occasionalmente piuttosto che in grandi quantità.",
+      "pros": [
+        "Flusso d'aria orizzontale — nessuna rotazione dei vassoi",
+        "Display doppia lettura mostra temperatura impostata e reale",
+        "Timer 48 ore con porta trasparente"
+      ],
+      "cons": [
+        "6 vassoi vs 9 dell'Excalibur — capacità di lotto inferiore"
+      ],
+      "grade": "A",
+      "specs": {
+        "Prezzo": "~$100–$150",
+        "Vassoi": "6 (~5,5 piedi²)",
+        "Flusso d'aria": "Orizzontale",
+        "Range temp.": "95–165°F",
+        "Timer": "48 ore",
+        "Display": "Doppia lettura digitale",
+        "Porta": "Trasparente"
+      },
+      "scores": {
+        "Drying performance": 4.5,
+        "Capacity": 3.8,
+        "Noise": 4.4,
+        "Value": 4.6,
+        "Ease of use": 4.6
+      }
+    },
+    {
+      "offerId": "nesco-snackmaster-pro",
+      "badge": "Migliore espandibile",
+      "review": "Il Nesco Snackmaster Pro è il disidratatore più recensito su Amazon ed è in produzione da decenni. Il suo vantaggio unico è l'espandibilità — inizia con 5 vassoi rotondi e aggiungine fino a 12 senza acquistare una nuova macchina. Il flusso d'aria verticale significa che la rotazione dei vassoi è necessaria per un'essiccazione uniforme.",
+      "pros": [
+        "Espandibile da 5 a 12 vassoi senza acquistare una nuova macchina",
+        "Disidratatore più recensito su Amazon",
+        "Vassoi rotondi compatti si ripongono facilmente"
+      ],
+      "cons": [
+        "Il flusso d'aria verticale richiede la rotazione dei vassoi per un'essiccazione uniforme"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Prezzo": "~$60–$90",
+        "Vassoi": "5 (espandibile a 12)",
+        "Flusso d'aria": "Verticale superiore",
+        "Range temp.": "95–160°F",
+        "Controlli": "Manopola analogica",
+        "Rotazione richiesta": "Sì",
+        "Forma": "Vassoi rotondi"
+      },
+      "scores": {
+        "Drying performance": 3.8,
+        "Capacity": 4.2,
+        "Noise": 4.0,
+        "Value": 4.5,
+        "Ease of use": 3.8
+      }
+    },
+    {
+      "offerId": "presto-dehydro-digital",
+      "badge": "Migliore entry-level",
+      "review": "Il Presto Dehydro Digital è il punto d'ingresso per i nuovi disidratatori a $60–$80. Il termostato e il timer digitali migliorano i controlli analogici del Nesco. Sei vassoi rotondi con flusso verticale danno risultati adeguati ma non uniformi — pianifica la rotazione. Ideale come acquisto di prova prima di impegnarsi in una macchina a flusso orizzontale.",
+      "pros": [
+        "Termostato e timer digitali a prezzo entry-level",
+        "Buono come primo disidratatore per testare l'hobby",
+        "Ingombro compatto"
+      ],
+      "cons": [
+        "Il flusso d'aria verticale produce essiccazione non uniforme senza rotazione",
+        "I vassoi rotondi sono più stretti di quelli rettangolari"
+      ],
+      "grade": "B",
+      "specs": {
+        "Prezzo": "~$60–$80",
+        "Vassoi": "6 rotondi",
+        "Flusso d'aria": "Verticale",
+        "Controllo temp.": "Digitale",
+        "Timer": "Digitale",
+        "Rotazione richiesta": "Sì",
+        "Forma": "Vassoi rotondi"
+      },
+      "scores": {
+        "Drying performance": 3.5,
+        "Capacity": 3.4,
+        "Noise": 3.8,
+        "Value": 4.4,
+        "Ease of use": 4.0
+      }
+    },
+    {
+      "offerId": "tribest-sedona-express",
+      "badge": "Migliore per carichi misti",
+      "review": "Il Tribest Sedona Express risolve l'unico problema che l'Excalibur non può: essiccare simultaneamente alimenti che richiedono temperature diverse. Le sue due zone di riscaldamento indipendenti permettono erbe a 95–115°F e jerky a 155–165°F nella stessa macchina allo stesso tempo. Sotto 55 dB — il più silenzioso della categoria. Costa più dell'Excalibur con meno capacità totale.",
+      "pros": [
+        "Due zone di riscaldamento indipendenti per carichi misti simultanei",
+        "Sotto 55 dB — disidratatore più silenzioso di questo confronto",
+        "11 vassoi con opzione acciaio inox"
+      ],
+      "cons": [
+        "Più costoso dell'Excalibur con meno superficie dei vassoi"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Prezzo": "~$250–$350",
+        "Vassoi": "11",
+        "Flusso d'aria": "Orizzontale doppia zona",
+        "Zone temp.": "2 indipendenti",
+        "Rumore": "<55 dB",
+        "Range temp.": "95–167°F",
+        "Controlli": "Digitale"
+      },
+      "scores": {
+        "Drying performance": 4.7,
+        "Capacity": 4.0,
+        "Noise": 4.8,
+        "Value": 3.5,
+        "Ease of use": 4.2
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per i disidratatori casalinghi seri",
+      "offerId": "excalibur-9-tray-dehydrator",
+      "reason": "Grande capacità a flusso orizzontale senza rotazione dei vassoi e garanzia 10 anni"
+    },
+    {
+      "label": "Per uso domestico occasionale",
+      "offerId": "cosori-premium-food-dehydrator",
+      "reason": "Flusso orizzontale a metà prezzo dell'Excalibur con display a doppia lettura utile"
+    },
+    {
+      "label": "Per gli acquirenti che vogliono aumentare la capacità",
+      "offerId": "nesco-snackmaster-pro",
+      "reason": "Espandere da 5 a 12 vassoi senza sostituire la macchina"
+    },
+    {
+      "label": "Per i primi disidratatori",
+      "offerId": "presto-dehydro-digital",
+      "reason": "Controlli digitali a prezzo entry-level per testare l'hobby prima di impegnarsi in una macchina più grande"
+    },
+    {
+      "label": "Per l'essiccazione a temperature multiple",
+      "offerId": "tribest-sedona-express",
+      "reason": "Due zone di riscaldamento indipendenti permettono di essiccare erbe e jerky contemporaneamente"
+    }
+  ]
 }

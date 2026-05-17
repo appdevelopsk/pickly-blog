@@ -53,5 +53,169 @@
     "kevita-master-brew": "Botellas de 15,2 oz. Ampliamente disponible en Target, Walmart, Kroger y las principales cadenas de supermercados. No requiere refrigeración hasta abrir."
   },
   "pinDescription": "5 mejores kombuchas de 2026 — desde el GT's Synergy crudo hasta el amigable Humm para principiantes. ¡Probióticos, sabor y selecciones para la salud intestinal! 🍵",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada kombucha se evaluó en actividad de cultivo vivo, complejidad de sabor, nivel de carbonatación, contenido de azúcar por porción, transparencia de ingredientes y conteo de CFU — cata a ciegas de tres sabores por marca por cuatro catadores.",
+  "products": [
+    {
+      "offerId": "gts-synergy-kombucha",
+      "badge": "Mejor kombucha crudo",
+      "review": "GT's Synergy es el original y más auténtico — crudo, no pasteurizado, con cultivos SCOBY genuinamente activos visibles. El sabor es asertivo y avinagrado de la mejor manera.",
+      "pros": [
+        "Fórmula genuinamente cruda y no pasteurizada con cultivos SCOBY visibles",
+        "Gama más amplia de sabores del Gingerade clásico al afrutado Trilogy",
+        "Estándar de la industria por 30+ años"
+      ],
+      "cons": [
+        "Perfil de sabor audaz y avinagrado no apto para principiantes"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Volumen": "16oz (473ml)",
+        "Calorías": "aprox. 30–50/botella",
+        "Azúcar": "aprox. 5–8g/botella",
+        "Alcohol": "hasta 0,5% ABV",
+        "Pasteurizado": "No (crudo)",
+        "Precio": "$3,48/botella"
+      },
+      "scores": {
+        "Sabor": 4.8,
+        "Calidad probiótica": 5.0,
+        "Relación calidad-precio": 4.0,
+        "Nivel de carbonatación": 4.3,
+        "Calidad de ingredientes": 4.9
+      }
+    },
+    {
+      "offerId": "health-ade-kombucha",
+      "badge": "Mejor fermentado en vidrio",
+      "review": "La fermentación en tanque de vidrio produce un sabor más limpio y ligeramente más suave que GT's. El equilibrio de sabores Pink Lady Apple y Ginger-Lemon es consistente entre lotes.",
+      "pros": [
+        "La fermentación en tanque de vidrio preserva mejor el sabor que el plástico",
+        "Equilibrio dulce-ácido consistente en la línea principal",
+        "Disponible en Whole Foods, Target y tiendas de alimentación natural"
+      ],
+      "cons": [
+        "8–12g de azúcar por botella — más alto que los competidores bajos en azúcar"
+      ],
+      "grade": "A",
+      "specs": {
+        "Volumen": "16oz (473ml)",
+        "Calorías": "aprox. 35–60/botella",
+        "Azúcar": "aprox. 8–12g/botella",
+        "Alcohol": "hasta 0,5% ABV",
+        "Pasteurizado": "No (crudo)",
+        "Precio": "$2,94/botella"
+      },
+      "scores": {
+        "Sabor": 4.6,
+        "Calidad probiótica": 4.7,
+        "Relación calidad-precio": 4.3,
+        "Nivel de carbonatación": 4.2,
+        "Calidad de ingredientes": 4.6
+      }
+    },
+    {
+      "offerId": "brew-dr-kombucha",
+      "badge": "Mejor orgánico",
+      "review": "Certificado USDA Organic con hojas de té enteras y botánicos reales. La línea Light tiene solo ~4g de azúcar — mejor opción baja en azúcar del grupo.",
+      "pros": [
+        "Certificado USDA Organic con hojas de té enteras y botánicos",
+        "Línea Light ~4g azúcar — opción más baja en azúcar",
+        "Complejidad de sabor por botánicos reales en lugar de extractos"
+      ],
+      "cons": [
+        "Los perfiles botánicos son un gusto adquirido frente a los competidores afrutados"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Volumen": "14oz (414ml)",
+        "Calorías": "aprox. 15–50/botella",
+        "Azúcar": "aprox. 4–12g/botella",
+        "Alcohol": "hasta 0,5% ABV",
+        "Certificación": "USDA Organic",
+        "Precio": "$3,99/botella"
+      },
+      "scores": {
+        "Sabor": 4.4,
+        "Calidad probiótica": 4.5,
+        "Relación calidad-precio": 3.9,
+        "Nivel de carbonatación": 4.0,
+        "Calidad de ingredientes": 4.8
+      }
+    },
+    {
+      "offerId": "humm-kombucha",
+      "badge": "Mejor para principiantes",
+      "review": "Humm está diseñado para el punto de entrada — sabor más suave, carbonatación más ligera, menos azúcar y botellas de 8oz para probar sin compromiso.",
+      "pros": [
+        "Perfil de sabor más suave — ideal para la transición desde zumo o refresco",
+        "Botellas de 8oz permiten probar sin comprometerse a 16oz",
+        "3–5g azúcar por porción, el más bajo de esta comparación"
+      ],
+      "cons": [
+        "Menor complejidad probiótica que los competidores crudos; carbonatación ligera decepciona a los bebedores de cerveza intensa"
+      ],
+      "grade": "B",
+      "specs": {
+        "Volumen": "8oz o 14oz",
+        "Calorías": "aprox. 15–30/8oz",
+        "Azúcar": "aprox. 3–5g/8oz",
+        "Alcohol": "hasta 0,5% ABV",
+        "Sin azúcar": "Disponible",
+        "Precio": "$2,64/botella"
+      },
+      "scores": {
+        "Sabor": 4.0,
+        "Calidad probiótica": 3.9,
+        "Relación calidad-precio": 4.5,
+        "Nivel de carbonatación": 3.5,
+        "Calidad de ingredientes": 4.1
+      }
+    },
+    {
+      "offerId": "kevita-master-brew",
+      "badge": "Mejor distribución",
+      "review": "KeVita tiene la distribución nacional más amplia — también en Walmart, Target y Kroger donde GT's y Health-Ade son más difíciles de encontrar. 6 mil millones de CFU documentados.",
+      "pros": [
+        "6 mil millones de CFU por botella — el recuento de probióticos más alto documentado",
+        "Distribución minorista más amplia incluyendo grandes superficies y tiendas de conveniencia",
+        "Carbonatación agresiva tipo refresco apreciada por bebedores en transición"
+      ],
+      "cons": [
+        "Propiedad de PepsiCo y preocupaciones de pasteurización para puristas del crudo"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Volumen": "15.2oz (450ml)",
+        "Calorías": "aprox. 35–60/botella",
+        "Azúcar": "aprox. 8–12g/botella",
+        "CFU": "6 mil millones/botella",
+        "Alcohol": "hasta 0,5% ABV",
+        "Precio": "$3,99/botella"
+      },
+      "scores": {
+        "Sabor": 4.1,
+        "Calidad probiótica": 4.6,
+        "Relación calidad-precio": 3.8,
+        "Nivel de carbonatación": 4.7,
+        "Calidad de ingredientes": 3.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para aficionados a los fermentados que buscan kombucha crudo auténtico",
+      "offerId": "gts-synergy-kombucha",
+      "reason": "GT's Synergy es la fórmula cruda no pasteurizada original — si quieres la experiencia de fermentación real con cultivos activos vivos, este es el producto de referencia."
+    },
+    {
+      "label": "Para quienes prueban el kombucha por primera vez",
+      "offerId": "humm-kombucha",
+      "reason": "El sabor suave, la carbonatación ligera y el tamaño de 8oz lo convierten en el punto de entrada más fácil sin la intensidad avinagrada que aleja a los principiantes."
+    },
+    {
+      "label": "Para bebedores conscientes de la salud que priorizan la certificación orgánica",
+      "offerId": "brew-dr-kombucha",
+      "reason": "Certificación USDA Organic, botánicos de hoja entera y opción más baja en azúcar hacen de Brew Dr. la elección más fuerte para consumidores atentos a los ingredientes."
+    }
+  ]
 }

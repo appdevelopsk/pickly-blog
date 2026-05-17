@@ -91,5 +91,64 @@
     "ultimate-body-press-ceiling": "Budget entry into permanent ceiling installation. 14-gauge 1.25-inch steel, 300-lb capacity, 40-inch span. 90-inch ceiling height minimum is the lowest in this comparison. Best for users under 100 kg doing strict dead-hang work who want permanent installation without full gym-grade cost."
   },
   "pinDescription": "5 ceiling-mounted pull-up bars compared: Rogue vs Titan vs REP vs Pullup & Dip vs Ultimate Body Press. Find which bar fits your ceiling height, joist spacing, and training load — install once, train for years.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each bar was assessed on steel gauge and tube diameter, manufacturer-rated static load capacity, joist spacing compatibility, grip knurl depth and surface area, ceiling height minimum requirement, included hardware quality, and corrosion resistance for non-climate-controlled installation environments.",
+  "products": [
+    {
+      "offerId": "rogue-joist-mount-pullup",
+      "badge": "Best Overall",
+      "review": "The Rogue Joist Mount is the garage gym ceiling bar benchmark — 11-gauge steel, 500-lb rating, 48-inch span, and lag hardware included for two standard 16-inch-spaced joists. The medium-depth knurl is aggressive enough to hold grip during weighted pull-ups without tearing skin on high-rep sets. It is the bar you install once and expect to outlast whatever it is bolted to. The only argument against it is the Titan for non-standard ceiling angles.",
+      "pros": ["11-gauge steel and 500-lb rating — highest load capacity in this comparison", "Rack-grade powder coat survives unconditioned garage environments", "Full lag hardware included — no separate hardware purchase needed"],
+      "cons": ["Requires standard 16-inch joist spacing — non-standard ceilings need the Titan"],
+      "grade": "A+",
+      "specs": {"Steel gauge": "11-gauge", "Bar diameter": "1.25 inches", "Load capacity": "500 lb (227 kg)", "Span": "48 inches", "Ceiling height min": "Standard", "Mounting": "2 ceiling joists at 16-inch centers", "Price": "$95.00"},
+      "scores": {"Load capacity": 5.0, "Stability": 4.9, "Installation ease": 4.0, "Value": 4.5, "Grip variety": 3.8}
+    },
+    {
+      "offerId": "titan-wall-ceiling-pullup",
+      "badge": "Best Multi-Angle",
+      "review": "Titan's adjustable bracket mounts at any angle between 45 and 90 degrees on wall or ceiling — the only option in this comparison for non-standard ceiling pitches or wall-to-ceiling corner installations. Built-in angled grip sections provide a neutral grip without additional hardware. The 12-gauge construction and 400-lb rating are lower than Rogue and REP, which matters for heavier athletes and dynamic loading. Best value per dollar for non-standard installations.",
+      "pros": ["Mounts at any angle 45–90° — solves pitched ceiling and corner installations", "Built-in neutral-grip sections without extra attachments", "Lowest price for a 400-lb-rated steel bar in this comparison"],
+      "cons": ["12-gauge vs 11-gauge means less rigidity than Rogue or REP under high load"],
+      "grade": "A",
+      "specs": {"Steel gauge": "12-gauge", "Bar diameter": "1.25 inches", "Load capacity": "400 lb (181 kg)", "Span": "44 inches", "Mount angle": "45–90° adjustable", "Mounting": "Wall or ceiling", "Price": "$85–120"},
+      "scores": {"Load capacity": 4.5, "Stability": 4.6, "Installation ease": 4.2, "Value": 4.8, "Grip variety": 4.7}
+    },
+    {
+      "offerId": "rep-fitness-ceiling-pullup",
+      "badge": "Best for High-Rep Training",
+      "review": "REP's 1.5-inch diameter bar is the thickest in this comparison — which trains grip strength passively during every set and is a genuine differentiator from the 1.25-inch alternatives. The rubber ceiling gasket eliminates the creaking noise common during heavy load cycles on wood joists. The knurl is lighter than Rogue's, making it more comfortable for 20+ rep sets. 500-lb capacity matches Rogue at a slightly lower price.",
+      "pros": ["1.5-inch diameter bar trains grip passively during every set", "Rubber ceiling gasket eliminates load-cycle creak on wood joists", "Lighter knurl suits high-rep bodyweight training better than Rogue"],
+      "cons": ["Lighter knurl provides less feedback during max-load weighted sets versus Rogue"],
+      "grade": "B+",
+      "specs": {"Steel gauge": "11-gauge", "Bar diameter": "1.5 inches", "Load capacity": "500 lb (227 kg)", "Span": "48 inches", "Ceiling gasket": "Rubber (creak prevention)", "Mounting": "2 ceiling joists", "Price": "$80–140"},
+      "scores": {"Load capacity": 5.0, "Stability": 4.8, "Installation ease": 3.8, "Value": 4.6, "Grip variety": 3.6}
+    },
+    {
+      "offerId": "probar-wall-mount-pullup",
+      "badge": "Best for Outdoor / Humid Spaces",
+      "review": "ProBar uses 304 stainless steel for both bar and hardware — the only corrosion-resistant option in this comparison, and the correct choice for any outdoor, unconditioned garage, or high-humidity installation where carbon steel will rust. The 441-lb capacity and 39-inch span are competitive, and the included parallel grip attachments add a neutral-grip option. Stainless has a cost premium that only makes sense when corrosion is an actual concern.",
+      "pros": ["304 stainless steel bar and hardware resist corrosion in outdoor or humid spaces", "Includes parallel narrow-grip attachments for neutral-grip pull-ups", "441-lb capacity rating competitive with mid-tier steel bars"],
+      "cons": ["39-inch span is shorter than Rogue and REP — less room for wide-grip variation"],
+      "grade": "B",
+      "specs": {"Material": "304 stainless steel", "Bar diameter": "1.25 inches", "Load capacity": "441 lb (200 kg)", "Span": "39 inches", "Includes": "Parallel grip attachments", "Best for": "Outdoor / unconditioned spaces", "Price": "$60–100"},
+      "scores": {"Load capacity": 4.6, "Stability": 4.7, "Installation ease": 4.0, "Value": 4.0, "Grip variety": 4.5}
+    },
+    {
+      "offerId": "ultimate-body-press-ceiling",
+      "badge": "Best Budget Permanent",
+      "review": "Ultimate Body Press is the entry-level ceiling bar — 14-gauge steel (lighter than competitors), 300-lb capacity, 40-inch span, and a 90-inch minimum ceiling height that is the lowest clearance requirement in this comparison. For users under 100 kg doing strict dead-hang pull-ups who want permanent installation without paying full gym-grade prices, it delivers the core function adequately. Not the right choice for heavier users or dynamic loading.",
+      "pros": ["Lowest price for a permanent ceiling-mounted pull-up bar", "90-inch minimum ceiling height — lowest clearance requirement here", "Functional for strict dead-hang bodyweight use under 100 kg"],
+      "cons": ["14-gauge lighter construction — noticeably less rigid than Rogue or REP under load"],
+      "grade": "B-",
+      "specs": {"Steel gauge": "14-gauge", "Bar diameter": "1.25 inches", "Load capacity": "300 lb (136 kg)", "Span": "40 inches", "Ceiling height min": "90 inches (229 cm)", "Mounting": "2 ceiling joists", "Price": "$89.95"},
+      "scores": {"Load capacity": 3.8, "Stability": 4.0, "Installation ease": 4.2, "Value": 4.5, "Grip variety": 3.4}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For garage gym permanent installation", "offerId": "rogue-joist-mount-pullup", "reason": "11-gauge steel and 500-lb rating at the standard joist spacing — the bar that handles weighted pull-ups, kipping, and daily high-volume use without flexing or degrading."},
+    {"label": "For non-standard ceiling angles or pitches", "offerId": "titan-wall-ceiling-pullup", "reason": "The only bar in this comparison that mounts at any angle between 45 and 90 degrees — solves sloped ceilings and corner installations that standard bars cannot accommodate."},
+    {"label": "For high-rep bodyweight training", "offerId": "rep-fitness-ceiling-pullup", "reason": "1.5-inch diameter trains grip passively and the lighter knurl is more comfortable for 15-plus rep bodyweight sets than the more aggressive Rogue texture."},
+    {"label": "For outdoor or unconditioned garage installations", "offerId": "probar-wall-mount-pullup", "reason": "304 stainless bar and hardware are the only corrosion-resistant option here — necessary when rain, humidity, or condensation contact is likely."},
+    {"label": "For low-budget permanent ceiling installation", "offerId": "ultimate-body-press-ceiling", "reason": "Lowest entry price for a ceiling-mounted bar — functional for strict bodyweight pull-ups under 100 kg when gym-grade load ratings are not required."}
+  ]
 }

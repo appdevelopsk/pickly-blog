@@ -58,5 +58,64 @@
     "hip-thrust-pad-barbell": "Pad in schiuma per hip thrust con bilanciere con cinturino in velcro. $15-30. Accessorio essenziale per qualsiasi setup di hip thrust — rende il contatto del bilanciere comodo sull'osso dell'anca. Necessario indipendentemente dalla scelta della panca o della macchina."
   },
   "pinDescription": "Macchine per hip thrust 2026: Bells of Steel Hip Thruster vs REP AB-5200 vs Valor vs Titan — perche l'altezza del pad e importante, come impostare l'hip thrust con bilanciere su qualsiasi panca, cue per la contrazione dei glutei in cima e quale macchina dedicata per hip thrust vale la pena acquistare per un serio allenamento dei glutei. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni macchina per hip thrust è stata valutata su altezza del pad, regolabilità della piattaforma per i piedi, integrazione del supporto per bilanciere, capacità di carico, stabilità del telaio sotto carico e valore — con scenari di carico reale fino a 180 kg come criterio principale.",
+  "products": [
+    {
+      "offerId": "bells-of-steel-hip-thruster",
+      "badge": "La Migliore in Assoluto",
+      "review": "La stazione per hip thrust più completa e specifica: il supporto integrato per bilanciere tiene la barra all'altezza dell'anca prima di sedersi (nessun rotolamento necessario), piattaforma per i piedi regolabile, ampio pad imbottito, ruote. A 1.199$ è un investimento premium — giustificato se si fa hip thrust 3+ volte a settimana e si apprezza un setup senza attrito. Tutto il resto è un compromesso.",
+      "pros": ["Supporto per bilanciere integrato elimina il rotolamento della barra dal pavimento", "Piattaforma per i piedi regolabile per setup costante tra le sessioni", "Ruote per facile riposizionamento in palestra"],
+      "cons": ["Prezzo di 1.199$ è significativo — eccessivo per hip thrust occasionale"],
+      "grade": "A+",
+      "specs": {"Prezzo": "1.199$", "Capacità di carico": "Progettata per carichi pesanti", "Altezza pad posteriore": "~43–46 cm", "Piattaforma piedi": "Regolabile", "Ingombro": "Richiede spazio dedicato"},
+      "scores": {"Qualità costruttiva": 5.0, "Facilità d'uso": 5.0, "Comfort": 4.8, "Capacità di carico": 5.0, "Rapporto qualità-prezzo": 3.8}
+    },
+    {
+      "offerId": "rep-fitness-ab-5200-fid-bench",
+      "badge": "Migliore Doppio Uso",
+      "review": "Una panca regolabile FID di alta qualità che funziona bene anche per l'hip thrust: 43 cm di altezza del pad in piano, telaio di qualità commerciale, abbastanza pesante da non scivolare. Nessun supporto per bilanciere — la barra va ancora rotolata. In compenso, è anche una stazione completa per la pressa — il doppio uso la rende efficiente in spazio per palestre miste.",
+      "pros": ["43 cm di altezza del pad corretta per la maggior parte dei setup di hip thrust", "Funzione FID completa — serve anche come stazione per la pressa", "Stabilità del telaio commerciale sotto carichi pesanti"],
+      "cons": ["Nessun supporto integrato per bilanciere — la barra deve essere rotolata ad ogni serie"],
+      "grade": "A",
+      "specs": {"Prezzo": "500$", "Capacità di carico": "454 kg", "Altezza pad (piano)": "43 cm", "Posizioni inclinazione": "6 posizioni", "Telaio": "Acciaio 11-gauge 76mm²"},
+      "scores": {"Qualità costruttiva": 4.8, "Facilità d'uso": 3.8, "Comfort": 4.5, "Capacità di carico": 4.8, "Rapporto qualità-prezzo": 4.3}
+    },
+    {
+      "offerId": "valor-fitness-hip-thrust-bench",
+      "badge": "Migliore Dedicata Fascia Media",
+      "review": "Stazione per hip thrust specifica con piattaforma integrata per i piedi e pad posteriore inclinato a costo inferiore rispetto a Bells of Steel. Adeguata fino a 180 kg — copre la maggior parte delle progressioni nelle palestre domestiche. La costruzione più leggera vs. le opzioni premium si nota ma non compromette la funzione a carichi moderati. Migliore opzione per gli atleti che vogliono una panca dedicata senza il prezzo di Bells of Steel.",
+      "pros": ["Progettata specificamente per hip thrust con piattaforma integrata", "Capacità di 180 kg per la maggior parte degli utenti di palestra domestica", "Costo inferiore a Bells of Steel per la funzione principale"],
+      "cons": ["Telaio più leggero rispetto alle opzioni premium — maggiore flessione ai carichi massimi"],
+      "grade": "B+",
+      "specs": {"Prezzo": "89,99$", "Capacità di carico": "181 kg", "Pad posteriore": "Inclinato, imbottito", "Piattaforma piedi": "Integrata, fissa"},
+      "scores": {"Qualità costruttiva": 3.8, "Facilità d'uso": 4.5, "Comfort": 4.0, "Capacità di carico": 4.0, "Rapporto qualità-prezzo": 4.8}
+    },
+    {
+      "offerId": "titan-fitness-hip-thrust-machine",
+      "badge": "Migliore Dedicata Economica",
+      "review": "La macchina per hip thrust di Titan fornisce la funzione principale — piattaforma per i piedi regolabile, supporto per bilanciere — a costo inferiore rispetto a REP o Bells of Steel. La qualità costruttiva è inferiore: telaio meno rigido, hardware più leggero. Per gli atleti di palestra domestica che vogliono una macchina dedicata al costo minimo e si allenano fino a 135 kg, fornisce la funzione essenziale.",
+      "pros": ["Funzione hip thrust dedicata con supporto per bilanciere", "Piattaforma regolabile per setup costante", "Il costo più basso tra le macchine dedicate in questo confronto"],
+      "cons": ["Al di sotto di REP e Bells of Steel in rigidità del telaio e qualità dell'hardware"],
+      "grade": "B",
+      "specs": {"Prezzo": "499$", "Pad posteriore": "Imbottito, altezza fissa", "Piattaforma piedi": "Regolabile", "Supporto per bilanciere": "Sì"},
+      "scores": {"Qualità costruttiva": 3.5, "Facilità d'uso": 4.3, "Comfort": 3.8, "Capacità di carico": 3.8, "Rapporto qualità-prezzo": 4.3}
+    },
+    {
+      "offerId": "hip-thrust-pad-barbell",
+      "badge": "Accessorio Indispensabile",
+      "review": "Il pad per bilanciere da hip thrust non è opzionale — rende la barra da 45mm comoda sulle ossa dell'anca, che altrimenti diventano il fattore limitante prima che i glutei si affatichino. Schiuma con cinturino in velcro, funziona con qualsiasi panca o macchina. A circa 25$, è il primo acquisto obbligatorio per qualsiasi setup di hip thrust. Non tentare hip thrust con carichi elevati senza di esso.",
+      "pros": ["Indispensabile per hip thrust ad alto carico senza dolore — non opzionale", "Funziona con qualsiasi panca o macchina dedicata per hip thrust", "15–30$ — l'elemento meno costoso di qualsiasi setup di hip thrust"],
+      "cons": ["La schiuma si comprime leggermente con un uso intenso frequente — sostituire ogni 6–12 mesi con utilizzo pesante"],
+      "grade": "B-",
+      "specs": {"Prezzo": "24,99$", "Materiale": "Schiuma ad alta densità", "Chiusura": "Cinturino in velcro", "Compatibilità": "Qualsiasi bilanciere standard"},
+      "scores": {"Qualità costruttiva": 3.5, "Facilità d'uso": 4.8, "Comfort": 4.5, "Capacità di carico": 4.0, "Rapporto qualità-prezzo": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per allenamento serio dei glutei 3+ volte a settimana", "offerId": "bells-of-steel-hip-thruster", "reason": "Zero attrito di setup — supporto per bilanciere, piattaforma costante, nessuna improvvisazione"},
+    {"label": "Per palestre domestiche che hanno bisogno sia di una panca che di hip thrust", "offerId": "rep-fitness-ab-5200-fid-bench", "reason": "Migliore opzione doppio uso — panca regolabile completa più altezza pad corretta per hip thrust"},
+    {"label": "Per hip thrust dedicato con budget medio", "offerId": "valor-fitness-hip-thrust-bench", "reason": "Progettata specificamente con piattaforma integrata per meno di 200$"},
+    {"label": "Per la macchina per hip thrust dedicata meno costosa", "offerId": "titan-fitness-hip-thrust-machine", "reason": "Funzione hip thrust principale — supporto per bilanciere e piattaforma regolabile — al costo minimo"},
+    {"label": "Per chi inizia con il barbell hip thrust", "offerId": "hip-thrust-pad-barbell", "reason": "Il primo acquisto obbligatorio — senza pad non c'è hip thrust confortevole, indipendentemente dalla panca"}
+  ]
 }

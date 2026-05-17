@@ -102,5 +102,64 @@
     "twelve-south-hoverbar-duo": "Elección de brazo de sujeto/escritorio premium — brazo articulado con tensión de muelle de 11.800-13.800 yenes con disco magnético, el sujeto de tornillo se monta en bordes de escritorio de 0-50 mm de grosor, 35 cm de alcance de giro. La huella del sujeto limita dónde puedes montarlo — muchos escritorios japoneses tienen un listón que bloquea la garganta del sujeto o un tablero más grueso que 50 mm."
   },
   "pinDescription": "Cinco soportes para tablet comparados en 2026 desde un soporte bisagra Lamicall de 1.680 yenes hasta un Twelve South HoverBar Duo de 13.800 yenes. Conexión magnética para iPad vs portabilidad estilo MOFT vs alcance de cuello de ganso en suelo vs brazo-sujeto de escritorio — con la prueba de estrés del iPad Pro 12.9 más Magic Keyboard y la debilidad explícita en cada elección. #soportetablet #iPadPro #escritorio2026 #organización #español",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Cada soporte fue evaluado según la rigidez de la bisagra bajo una carga de 1,4 kg (iPad Pro 12.9 + Magic Keyboard), patrones de deriva de ángulo de reseñas a largo plazo, el equilibrio entre portabilidad y estabilidad, la compatibilidad con muebles de escritorio en apartamentos japoneses y la vida útil realista basada en los modos de fallo dominantes reportados tras 12–18 meses de uso diario.",
+  "products": [
+    {
+      "offerId": "lululook-ipad-stand",
+      "badge": "Mejor en General",
+      "review": "El imán del Lululook acopla un iPad Pro o Air en menos de un segundo y permite una rotación horizontal-vertical sin esfuerzo. El inconveniente es el bloqueo del ecosistema: la placa magnética está diseñada solo para iPad Pro e iPad Air, y el iPad Pro 12.9 con Magic Keyboard puede desprenderse si se golpea el escritorio.",
+      "pros": ["Acoplamiento magnético en menos de un segundo", "Rotación 360° vertical-horizontal", "Base de aluminio cepillado con peso aguanta 1,4 kg sin deriva"],
+      "cons": ["Solo iPad Pro e iPad Air — los tablets Android y el iPad Mini antiguo necesitan un adaptador vendido por separado"],
+      "grade": "A+",
+      "specs": {"Compatibilidad": "iPad Pro 11/12.9, iPad Air", "Tipo de sujeción": "Imán de disco", "Material de base": "Aluminio cepillado", "Rotación": "360°", "Rango de precio": "9.800–12.800 yenes", "Portabilidad": "Soporte de escritorio"},
+      "scores": {"Estabilidad": 4.8, "Rango de ángulo": 4.7, "Calidad de construcción": 4.8, "Valor": 3.9, "Portabilidad": 2.5}
+    },
+    {
+      "offerId": "moft-float-stand",
+      "badge": "Mejor para Viajes",
+      "review": "Con 280 g y 8 mm plegado, el MOFT Float cabe en cualquier funda de laptop y se despliega en segundos. La bisagra de tela se dobla visiblemente bajo la presión del lápiz Apple, por lo que los usuarios de Procreate deben buscar otra opción.",
+      "pros": ["280 g y 8 mm de grosor cuando está plegado", "7 posiciones de ángulo de 25° a 60°", "También funciona como elevador de laptop para usuarios de dos dispositivos"],
+      "cons": ["La bisagra de tela se dobla visiblemente bajo la presión intensa del lápiz Apple", "La tela se apelmaza en el pliegue de la bisagra tras 12–18 meses de transporte diario"],
+      "grade": "A",
+      "specs": {"Peso": "280 g", "Grosor plegado": "8 mm", "Posiciones de ángulo": "7 (25°–60°)", "Material": "Tela origami + bisagra", "Precio": "8.980 yenes", "Uso previsto": "Portátil, laptop + tablet"},
+      "scores": {"Estabilidad": 3.2, "Rango de ángulo": 4.0, "Calidad de construcción": 3.8, "Valor": 4.0, "Portabilidad": 5.0}
+    },
+    {
+      "offerId": "lamicall-tablet-stand",
+      "badge": "Mejor Relación Calidad-Precio",
+      "review": "El Lamicall es la opción económica sin complicaciones: aluminio sólido, compatible con cualquier tablet de 4 a 13 pulgadas y mantiene el iPad Pro 12.9 en un ángulo fijo. Cambiar de vertical a horizontal requiere levantar y recolocar en lugar de girar, y la bisagra de fricción puede derivar durante videollamadas largas después de 12–18 meses de desgaste.",
+      "pros": ["Compatible con tablets y teléfonos de 4 a 13 pulgadas", "Almohadillas de silicona en la cuna evitan arañazos", "Rango de inclinación de 270° cubre cualquier ángulo de escritorio práctico"],
+      "cons": ["Solo inclinación de un eje — sin giro ni ajuste de altura", "La bisagra de fricción deriva gradualmente después de 12–18 meses de uso"],
+      "grade": "B+",
+      "specs": {"Compatibilidad": "Tablets y teléfonos de 4–13 pulgadas", "Bisagra": "Fricción de un eje", "Rango de inclinación": "270°", "Material": "Aluminio + almohadillas de silicona", "Rango de precio": "1.680–2.480 yenes", "Portabilidad": "Soporte de escritorio"},
+      "scores": {"Estabilidad": 4.2, "Rango de ángulo": 3.8, "Calidad de construcción": 4.0, "Valor": 4.9, "Portabilidad": 2.8}
+    },
+    {
+      "offerId": "uperfect-tablet-floor-stand",
+      "badge": "Mejor para Ver en Cama",
+      "review": "El UPERFECT es la única opción de este grupo que coloca un tablet sobre una cama o sofá. Su columna de 90–150 cm con brazo cuello de cisne resuelve el problema de visualización manos libres. Con la extensión completa de 150 cm y un iPad Pro 12.9, cualquier movimiento de la cama genera una vibración de 5–10 segundos.",
+      "pros": ["Columna de 90–150 cm alcanza la altura de cama y sofá", "El brazo cuello de cisne posiciona el tablet sobre la cara o superficie de recetas", "Base con peso soporta tablets de hasta 12,9 pulgadas mediante sujeción de muelle"],
+      "cons": ["El cuello de cisne vibra 5–10 segundos tras cualquier golpe a plena extensión de 150 cm", "La huella de 35–40 cm en el suelo es incómoda en dormitorios japoneses pequeños"],
+      "grade": "B",
+      "specs": {"Rango de columna": "90–150 cm", "Tipo de brazo": "Cuello de cisne", "Tablets compatibles": "4,7–12,9 pulgadas vía sujeción de muelle", "Huella de base": "~35–40 cm", "Rango de precio": "5.980–8.980 yenes", "Uso previsto": "Visualización en cama/sofá manos libres"},
+      "scores": {"Estabilidad": 3.0, "Rango de ángulo": 4.5, "Calidad de construcción": 3.5, "Valor": 4.1, "Portabilidad": 1.5}
+    },
+    {
+      "offerId": "twelve-south-hoverbar-duo",
+      "badge": "Mejor Brazo de Escritorio",
+      "review": "El brazo articulado con tensión de muelle del HoverBar Duo mueve el iPad a cualquier lugar dentro de una esfera de 35 cm del borde del escritorio y mantiene la posición sin deriva de bisagra de fricción. Muchos escritorios japoneses tienen un listón que bloquea la garganta de la sujeción; mide el tuyo antes de pedir.",
+      "pros": ["La articulación con tensión de muelle mantiene el ángulo sin deriva", "35 cm de alcance de giro cubre posiciones de escritura y lectura", "Base de escritorio con peso incluida para superficies no sujetables"],
+      "cons": ["La sujeción requiere un borde de escritorio de 0–50 mm — los escritorios japoneses con listón suelen no cumplirlo", "La placa magnética centrada en iPad requiere adaptador de terceros para Android y iPad Mini antiguo"],
+      "grade": "B-",
+      "specs": {"Tipo de montaje": "Sujeción de tornillo (0–50 mm) o base de escritorio con peso", "Alcance del brazo": "35 cm", "Tensión": "Muelle", "Compatibilidad": "iPad Pro/Air (magnético); otros necesitan adaptador", "Rango de precio": "11.800–13.800 yenes", "Uso previsto": "Brazo articulado de escritorio"},
+      "scores": {"Estabilidad": 4.6, "Rango de ángulo": 4.9, "Calidad de construcción": 4.7, "Valor": 3.5, "Portabilidad": 1.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para usuarios avanzados de iPad Pro", "offerId": "lululook-ipad-stand", "reason": "El acoplamiento magnético, la rotación instantánea y la base de aluminio con peso manejan la carga completa de 1,4 kg del iPad Pro 12.9 + Magic Keyboard todo el día en el escritorio."},
+    {"label": "Para commuters diarios", "offerId": "moft-float-stand", "reason": "8 mm de grosor plegado cabe en cualquier funda de laptop y los 280 g de peso desaparecen en una bolsa."},
+    {"label": "Para configuraciones económicas de escritorio", "offerId": "lamicall-tablet-stand", "reason": "Compatible con cualquier tablet de 4 a 13 pulgadas por menos de 2.500 yenes — el punto de partida práctico para un soporte de tablet de escritorio."},
+    {"label": "Para ver en cama y sofá", "offerId": "uperfect-tablet-floor-stand", "reason": "La única opción de este grupo que alcanza la altura de la cama y sostiene el tablet sobre tu cara en modo manos libres."},
+    {"label": "Para trabajo en múltiples posiciones", "offerId": "twelve-south-hoverbar-duo", "reason": "El brazo con tensión de muelle gira instantáneamente de posición de escritura a lectura sin deriva de bisagra con el tiempo."}
+  ]
 }

@@ -68,5 +68,64 @@
     "spindrift-sparkling-water": "Contem suco de fruta real -- 9-17 calorias por lata dependendo do sabor."
   },
   "pinDescription": "Aguas com gas classificadas por carbonatacao -- da intensa efervescencia da Liquid Death as suaves bolhas da La Croix. 5 marcas testadas, um claro vencedor para coqueteis.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada água com gás foi avaliada quanto à intensidade da carbonatação e persistência das bolhas até o último terço de um recipiente aberto, teor mineral e seu efeito na neutralidade do paladar, integridade da lista de ingredientes (sem ácido cítrico, sem adoçantes, sem concentrados), valor por onça nos tamanhos padrão de embalagem no varejo e adequação como base de drinque com base na retenção da carbonatação após ser vertida sobre gelo.",
+  "products": [
+    {
+      "offerId": "liquid-death-mountain-water",
+      "badge": "Melhor no geral",
+      "review": "A carbonatação agressiva da Liquid Death é notavelmente mais intensa e sustentada do que a maioria dos concorrentes — ela mantém seu vigor até o último gole de uma maneira que as águas com gás mais leves não conseguem. Obtida nos Alpes austriacos e enlatada em alumínio, ela se posiciona como a opção orientada para a carbonatação para pessoas que acham o Topo Chico e o Perrier muito suaves. O preço por onça é mais alto do que as marcas de supermercado, mas as compras em quantidade o aproximam de um valor razoável.",
+      "pros": ["A carbonatação mais agressiva e sustentada nesta comparação", "A lata de alumínio é reciclada a taxas mais altas do que o plástico", "Funciona como mixer premium de drinques onde a persistência das bolhas importa"],
+      "cons": ["Maior preço por onça — requer compra em quantidade para se aproximar de um valor razoável"],
+      "grade": "A+",
+      "specs": {"Fonte": "Alpes austríacos", "Carbonatação": "Muito alta (forçada)", "Formato": "Lata de alumínio de 500ml", "Calorias": "0", "Sódio": "~10mg por lata", "Sabores disponíveis": "Natural + linhas gaseificadas com sabor"},
+      "scores": {"Carbonation level": 5.0, "Flavor": 4.3, "Value": 3.5, "Ingredient quality": 4.5, "Convenience": 4.7}
+    },
+    {
+      "offerId": "topo-chico-mineral-water",
+      "badge": "Melhor para drinques",
+      "review": "O Topo Chico tem sido o mixer preferido dos bartenders muito antes de se tornar amplamente disponível, e a carbonatação alta e compacta — bolhas pequenas e persistentes em vez de grandes e macias — é o que o torna tão eficaz com highballs de mezcal e tequila. O teor mineral natural lhe confere uma leve profundidade saborosa que adiciona corpo às bebidas de destilado e água. A versão em garrafa de vidro é a que vale a pena comprar; a garrafa pesada é impraticável para portabilidade.",
+      "pros": ["Carbonatação alta e compacta mantida durante todo um drinque", "O teor mineral natural adiciona profundidade saborosa aos coquetéis", "Engarrafada na mesma fonte de Monterrey desde 1895 — fórmula inalterada após a aquisição pela Coca-Cola"],
+      "cons": ["A garrafa de vidro pesada é impraticável para portabilidade ou uso ao ar livre"],
+      "grade": "A",
+      "specs": {"Fonte": "Monterrey, México (nascente)", "Carbonatação": "Alta (naturalmente carbonatada + infundida)", "Formato": "Garrafa de vidro / formato de lata limitado", "Calorias": "0", "Minerais": "Cálcio, magnésio, sódio", "Sabores disponíveis": "Natural + Toque de Limão"},
+      "scores": {"Carbonation level": 4.8, "Flavor": 4.5, "Value": 3.8, "Ingredient quality": 4.8, "Convenience": 3.0}
+    },
+    {
+      "offerId": "perrier-sparkling-water",
+      "badge": "Melhor para harmonizar com comida",
+      "review": "O perfil de carbonatação média da Perrier — mais do que La Croix, menos do que Topo Chico ou Liquid Death — a torna a opção mais versátil para harmonizar com comida: forte o suficiente para limpar o paladar entre os pratos, suave o suficiente para não dominar. A icônica garrafa de vidro verde permanece o formato padrão, e as linhas com sabor (limão, limão siciliano, toranja) usam sabor de fruta genuíno sem adoçantes ou ácido cítrico adicionados.",
+      "pros": ["A carbonatação média funciona como limpador de paladar entre os pratos", "As linhas com sabor usam sabor real sem adoçantes ou ácido cítrico", "Garrafa reconhecida globalmente adequada para serviço à mesa"],
+      "cons": ["A carbonatação se dissipa mais rápido do que Topo Chico ou Liquid Death em recipiente aberto"],
+      "grade": "B+",
+      "specs": {"Fonte": "Vergèze, França (nascente natural)", "Carbonatação": "Média (CO2 recapturado e reinfundido)", "Formato": "Garrafa de vidro / lata de alumínio / plástico", "Calorias": "0", "Minerais": "Cálcio, magnésio, sódio", "Sabores disponíveis": "Natural + limão, limão siciliano, toranja, morango"},
+      "scores": {"Carbonation level": 3.8, "Flavor": 4.5, "Value": 4.0, "Ingredient quality": 4.7, "Convenience": 4.2}
+    },
+    {
+      "offerId": "la-croix-sparkling-water",
+      "badge": "Melhor para consumo diário em grande volume",
+      "review": "A leve carbonatação da La Croix é uma característica, não um defeito, para usuários que tentam atingir metas diárias de hidratação — a suavidade significa que você pode beber grandes volumes sem se sentir inchado. Mais de 20 essências naturais de sabores cobrem famílias com preferências variadas, e o preço por caixa é consistentemente um dos mais competitivos na categoria de água com gás. É a água menos emocionante desta lista, mas a mais prática como bebida diária.",
+      "pros": ["A carbonatação leve permite o consumo em grande volume sem inchaço", "Mais de 20 variedades de sabores incluindo packs variados para famílias com preferências mistas", "Preço por caixa consistentemente competitivo"],
+      "cons": ["A carbonatação perde o gás rapidamente em um drinque — não adequada como mixer de coquetel"],
+      "grade": "B",
+      "specs": {"Fonte": "Água da torneira (carbonatada)", "Carbonatação": "Leve", "Formato": "Lata de alumínio slim", "Calorias": "0", "Adoçantes": "Nenhum", "Sabores disponíveis": "Mais de 20 variedades de essência natural"},
+      "scores": {"Carbonation level": 2.5, "Flavor": 3.8, "Value": 4.8, "Ingredient quality": 4.3, "Convenience": 5.0}
+    },
+    {
+      "offerId": "spindrift-sparkling-water",
+      "badge": "Melhor sabor de fruta real",
+      "review": "A Spindrift é o caso atípico desta comparação: o suco de fruta espremido real em cada lata produz um sabor que sabe inconfundivelmente a fruta real em vez de uma aproximação. A variante de limão em particular é notavelmente honesta — tem o sabor de alguém que espremeu um limão em água com gás, porque é essencialmente o que aconteceu. A ligeira contagem de calorias (9-17 por lata) a desqualifica como opção zero caloria, que é o único trade-off significativo.",
+      "pros": ["Suco de fruta real espremido — o sabor mais honesto desta comparação", "Lista curta de ingredientes: água carbonatada, suco de fruta, às vezes purê", "Melhor opção no café da manhã onde o ácido da fruta combina com a comida"],
+      "cons": ["9-17 calorias por lata — não é zero caloria apesar do conteúdo mínimo de açúcar"],
+      "grade": "B-",
+      "specs": {"Fonte": "Água da torneira (carbonatada)", "Carbonatação": "Média-leve", "Formato": "Lata de alumínio padrão", "Calorias": "9–17 por lata (dependente do sabor)", "Conteúdo de suco": "Suco de fruta real espremido", "Sabores disponíveis": "Limão, Toranja, Framboesa-Limão, Morango, outros"},
+      "scores": {"Carbonation level": 3.5, "Flavor": 5.0, "Value": 3.8, "Ingredient quality": 5.0, "Convenience": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para máxima satisfação de carbonatação", "offerId": "liquid-death-mountain-water", "reason": "Se você acha outras águas com gás muito suaves, a carbonatação agressiva da Liquid Death oferece o vigor mais intenso e o mantém até o último gole."},
+    {"label": "Para misturar drinques", "offerId": "topo-chico-mineral-water", "reason": "Bolhas pequenas e persistentes e profundidade mineral natural se mantêm durante todo um drinque — a razão pela qual os bartenders escolheram isso antes de se tornar mainstream."},
+    {"label": "Para harmonizar com comida à mesa", "offerId": "perrier-sparkling-water", "reason": "A carbonatação média limpa o paladar entre os pratos sem dominar, e a garrafa se apresenta bem em uma mesa de jantar."},
+    {"label": "Para hidratação diária em grande volume", "offerId": "la-croix-sparkling-water", "reason": "Bolhas leves, mais de 20 sabores e preço competitivo por caixa a tornam a escolha mais prática quando você bebe várias latas por dia."},
+    {"label": "Para sabor de fruta real sem aditivos artificiais", "offerId": "spindrift-sparkling-water", "reason": "O suco real espremido produz um sabor de fruta genuinamente honesto — a única opção nesta comparação que resolve completamente a reclamação de 'sabor artificial'."}
+  ]
 }

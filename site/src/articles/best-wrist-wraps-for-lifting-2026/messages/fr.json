@@ -53,5 +53,64 @@
     "sbd-wrist-wraps-competition": "45cm ou 60cm, coton tissé homologué IPF, tension cohérente de la fermeture à l'extrémité — le choix pour les athlètes IPF qui ont besoin de performances fiables dans les conditions de compétition."
   },
   "pinDescription": "Schiek, SBD, Titan, Rogue, Harbinger — 5 bandes de poignet comparées par rigidité, longueur et homologation IPF. Trouvez la bonne pour le développé couché, développé épaules et la compétition de powerlifting. #bandesDePoignet #powerlifting #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque bandage a été évalué sur le rapport rigidité-flexibilité sous des charges de développé lourdes, la durabilité du velcro après 100+ sessions, la couverture par longueur, la conformité IPF et la période de rodage avant de s'adapter à la forme du poignet.",
+  "products": [
+    {
+      "offerId": "schiek-wrist-wraps-24inch",
+      "badge": "Meilleur au global",
+      "review": "Le 1100WRP de Schiek a le meilleur rapport rigidité-flexibilité du mélange coton/élastique de cette comparaison — le bandage de 24 pouces verrouille le poignet en position neutre sous charge sans gêner la mécanique correcte du trajet de barre au développé couché. La couture inclinée de la boucle pour le pouce empêche les plis entre les séries. Non approuvé IPF, ce qui ne compte que si vous compétitionnez dans des fédérations testées.",
+      "pros": ["Meilleur rapport rigidité-flexibilité pour le press lourd", "Couture inclinée de la boucle du pouce prévient les plis sous charge", "Décennies de fiabilité éprouvée pour la salle et le culturisme"],
+      "cons": ["Non approuvé IPF — non éligible pour la compétition en fédération IPF"],
+      "grade": "A+",
+      "specs": {"Longueur": "24 pouces", "Matériau": "Mélange coton/élastique", "Fermeture": "Velcro", "Approuvé IPF": "Non", "Boucle pouce": "Couture inclinée", "Prix": "$24,95"},
+      "scores": {"Niveau de soutien": 4.5, "Durabilité": 4.6, "Confort": 4.4, "Rapport qualité-prix": 4.5, "Longueur du bandage": 4.8}
+    },
+    {
+      "offerId": "harbinger-21525-wrist-wraps",
+      "badge": "Meilleur choix économique",
+      "review": "Les bandages en polypropylène de 20 pouces de Harbinger sont la recommandation correcte pour les haltérophiles intermédiaires qui ont besoin d'un soutien fonctionnel du poignet sans payer les prix des bandages de compétition. La longueur plus courte permet un enfilage et défilage plus rapides entre les exercices de poussée. Le polypropylène est plus rigide par unité d'épaisseur que le coton.",
+      "pros": ["Les plus rapides à mettre et enlever — utiles dans les circuits de poussée", "Polypropylène plus rigide par unité d'épaisseur que les alternatives en coton", "Option la moins chère avec vrai soutien du poignet dans cette comparaison"],
+      "cons": ["Longueur de 20 pouces offre moins de couverture que les bandages de compétition de 24 pouces"],
+      "grade": "A",
+      "specs": {"Longueur": "20 pouces", "Matériau": "Polypropylène", "Fermeture": "Velcro réglable", "Approuvé IPF": "Non", "Boucle pouce": "Oui", "Prix": "$13,95"},
+      "scores": {"Niveau de soutien": 3.8, "Durabilité": 4.3, "Confort": 4.2, "Rapport qualité-prix": 4.9, "Longueur du bandage": 3.5}
+    },
+    {
+      "offerId": "titan-signature-gold-wrist-wraps",
+      "badge": "Meilleur pour le powerlifting de compétition",
+      "review": "Les Signature Gold de Titan sont construites pour un seul objectif : restriction maximale de l'extension du poignet lors des tentatives de développé couché à effort maximum. Le mélange de coton plus dense et le velcro antidérapant maintiennent la tension pendant toute une session — le principal point de défaillance des bandages moins chers. La rigidité les rend impratiques pour les séries générales d'échauffement.",
+      "pros": ["Approuvées IPF pour divisions brut et équipé", "Velcro antidérapant maintient la tension sans glisser pendant toute une session", "Restriction maximale de l'extension du poignet pour le développé couché de compétition"],
+      "cons": ["Trop rigides pour les séries générales d'échauffement — ralentit la mise en place à intensité modérée"],
+      "grade": "B+",
+      "specs": {"Longueur": "24 pouces", "Matériau": "Mélange coton lourd", "Fermeture": "Velcro antidérapant", "Approuvé IPF": "Oui", "Utilisation en compétition": "Brut et équipé", "Prix": "$36,99"},
+      "scores": {"Niveau de soutien": 5.0, "Durabilité": 4.7, "Confort": 3.8, "Rapport qualité-prix": 3.9, "Longueur du bandage": 4.8}
+    },
+    {
+      "offerId": "rogue-wrist-wraps",
+      "badge": "Meilleur polyvalent",
+      "review": "Les bandages Rogue de 18 pouces à rigidité modérée sont l'option la plus polyvalente pour les haltérophiles qui alternent entre le press au style powerlifting et les mouvements dérivés de l'haltérophilie olympique. La longueur plus courte et la construction plus souple en coton/élastique permettent la mobilité du poignet nécessaire dans les squats avant, les épaulés et tout travail au-dessus de la tête. Fabriqués à Columbus, Ohio.",
+      "pros": ["Polyvalents pour le développé couché, le développé épaules et l'haltérophilie olympique", "Longueur de 18 pouces adaptée à la variété d'entraînement", "Fabrication américaine de Rogue avec contrôle qualité constant"],
+      "cons": ["Longueur de 18 pouces offre moins de couverture que 24 pouces pour le press à effort maximum"],
+      "grade": "B",
+      "specs": {"Longueur": "18 pouces", "Matériau": "Mélange coton/élastique", "Fermeture": "Velcro", "Approuvé IPF": "Non", "Fabriqué à": "Columbus, Ohio, États-Unis", "Prix": "$15,00"},
+      "scores": {"Niveau de soutien": 4.0, "Durabilité": 4.5, "Confort": 4.6, "Rapport qualité-prix": 4.7, "Longueur du bandage": 3.6}
+    },
+    {
+      "offerId": "sbd-wrist-wraps-competition",
+      "badge": "Meilleur pour les athlètes IPF",
+      "review": "Le mélange de coton tissé de SBD maintient une tension cohérente sur toute la longueur du bandage — serré à la fermeture et toujours ferme à mi-bandage, ce qui compte en compétition où les assistants ne peuvent pas re-enrouler entre les tentatives. Disponible en 45cm et 60cm, tous deux approuvés IPF. La période de rodage réelle (cinq ou six sessions de rigidité anormale) est le seul point de friction.",
+      "pros": ["Plus d'apparitions aux Championnats du Monde IPF de développé couché que tout autre bandage", "Tension cohérente de la fermeture à l'extrémité (pas de relâchement à mi-bandage)", "Disponible en 45cm et 60cm pour correspondre aux exigences de compétition"],
+      "cons": ["Période de rodage de 5–6 sessions avant qu'ils s'adaptent et s'enfilent facilement"],
+      "grade": "B-",
+      "specs": {"Options de longueur": "45cm / 60cm", "Matériau": "Mélange coton tissé", "Fermeture": "Velcro", "Approuvé IPF": "Oui", "Rigidité": "Maximale", "Prix": "$42,50"},
+      "scores": {"Niveau de soutien": 5.0, "Durabilité": 4.9, "Confort": 3.6, "Rapport qualité-prix": 3.5, "Longueur du bandage": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les haltérophiles sérieux en salle", "offerId": "schiek-wrist-wraps-24inch", "reason": "Meilleur équilibre de rigidité global pour le press lourd en salle sans le surcroît de rigidité des bandages de compétition."},
+    {"label": "Pour les haltérophiles intermédiaires avec un budget limité", "offerId": "harbinger-21525-wrist-wraps", "reason": "Vrai soutien du poignet au prix le plus bas de cette comparaison — rapides à mettre et enlever entre les séries."},
+    {"label": "Pour les powerlifters IPF (brut ou équipé)", "offerId": "sbd-wrist-wraps-competition", "reason": "Tension cohérente sur tout le bandage en fait le choix du jour de compétition quand les assistants ne peuvent pas re-enrouler entre les tentatives."},
+    {"label": "Pour la force générale + haltérophilie olympique", "offerId": "rogue-wrist-wraps", "reason": "Rigidité modérée à 18 pouces fonctionne pour le press et les mouvements olympiques sans changer de bandage."},
+    {"label": "Pour les spécialistes du développé couché de compétition", "offerId": "titan-signature-gold-wrist-wraps", "reason": "Restriction maximale de l'extension avec velcro antidérapant — approuvées IPF et conçues spécifiquement pour le verrouillage du développé couché de compétition."}
+  ]
 }

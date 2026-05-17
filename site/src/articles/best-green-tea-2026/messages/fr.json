@@ -58,5 +58,184 @@
     "harney-sons-dragon-well": "Dragon Well chinois (Longjing) en feuilles libres, 4oz. $12-18. Meilleur thé vert chinois — poêlé, doux-toasté, moins végétal que les thés verts japonais. Recommandé pour les buveurs qui trouvent le thé vert japonais trop intensément savoureux."
   },
   "pinDescription": "Thé vert 2026 : sencha japonais vs gyokuro vs genmaicha vs Dragon Well chinois — pourquoi la température est primordiale (jamais d'eau bouillante), la culture à l'ombre expliquée, comment préparer le thé vert en cold brew, et le meilleur thé vert pour la consommation quotidienne 2026. #théVert #Japon #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque thé a été évalué sur la complexité aromatique, la transparence et la traçabilité de l'approvisionnement, la valeur par gramme, les indicateurs de fraîcheur, l'intégrité de l'emballage et l'adéquation à différentes méthodes d'infusion incluant infusion chaude, infusion froide et réinfusion.",
+  "products": [
+    {
+      "offerId": "ippodo-sencha-ummon",
+      "badge": "Meilleur choix global",
+      "review": "Le Sencha Ummon d'Ippodo est le sencha de qualité de référence dans cette comparaison — vert vif, herbacé et pur avec un approvisionnement direct d'Uji depuis la plus ancienne maison de thé du Japon. À $18–25 pour 80g, il coûte plus cher que le sencha de supermarché, mais la constance de qualité est exceptionnelle. Nécessite une eau à 70–75°C ; l'eau bouillante fait ressortir l'amertume.",
+      "pros": [
+        "Approvisionnement direct d'Uji depuis la plus ancienne maison de thé du Japon, fondée en 1717",
+        "Herbacé vif et pur avec une qualité constante d'un lot à l'autre",
+        "Se réinfuse 2–3 fois avec les mêmes feuilles"
+      ],
+      "cons": [
+        "Nécessite un contrôle de température — l'eau bouillante ruine la tasse"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Origine": "Uji, Japon",
+        "Poids": "80g",
+        "Prix": "~$18–25",
+        "Temp. infusion": "70–75°C",
+        "Durée": "1 min",
+        "Style": "Sencha feuilles vrac",
+        "Réinfusions": "2–3x"
+      },
+      "scores": {
+        "Flavor": 4.8,
+        "Quality": 4.9,
+        "Value": 4.1,
+        "Versatility": 4.3,
+        "Freshness": 4.9
+      }
+    },
+    {
+      "offerId": "harney-sons-japanese-sencha",
+      "badge": "Meilleur accessible",
+      "review": "Le Sencha Japonais Harney & Sons est l'option quotidienne pratique — vendu chez Whole Foods, à $8–12, et régulièrement bon pour un usage quotidien. La version en feuilles vrac surpasse nettement la version en sachets grâce à une meilleure coupe de feuille. Clairement en dessous d'Ippodo en complexité, mais une solide introduction au sencha japonais sans prix de boutique spécialisée.",
+      "pros": [
+        "Disponible chez Whole Foods et largement en ligne",
+        "La version vrac offre une bonne qualité quotidienne à $8–12",
+        "Point d'entrée accessible au sencha japonais sans commande spécialisée"
+      ],
+      "cons": [
+        "Moins complexe qu'Ippodo — profil aromatique nettement plus simple"
+      ],
+      "grade": "A",
+      "specs": {
+        "Origine": "Japon",
+        "Poids": "115g / 20 sachets",
+        "Prix": "~$8–12",
+        "Temp. infusion": "75–80°C",
+        "Durée": "1–2 min",
+        "Style": "Sencha vrac ou sachets",
+        "Disponibilité": "Whole Foods"
+      },
+      "scores": {
+        "Flavor": 4.2,
+        "Quality": 4.1,
+        "Value": 4.7,
+        "Versatility": 4.4,
+        "Freshness": 4.2
+      }
+    },
+    {
+      "offerId": "two-leaves-genmaicha",
+      "badge": "Meilleur pour débutants",
+      "review": "Le Genmaicha Two Leaves mélange sencha et riz grillé, et cette couche noisettée-toastée est exactement ce qui le rend accessible aux nouveaux amateurs de thé vert — le riz grillé atténue l'herbe et rend la tasse moins intensément végétale. Plus tolérant à 80°C que le sencha pur. Meilleur thé d'introduction pour les buveurs en transition depuis le thé noir.",
+      "pros": [
+        "Le riz grillé atténue l'herbacé du thé vert pur",
+        "Température d'infusion plus tolérante (80°C) que le sencha pur",
+        "Option faible en caféine — le riz dilue la teneur en thé"
+      ],
+      "cons": [
+        "Profil aromatique moins raffiné que le sencha pur de haute qualité"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Origine": "Japon",
+        "Poids": "85g",
+        "Prix": "~$8–14",
+        "Temp. infusion": "80°C",
+        "Durée": "1–2 min",
+        "Style": "Genmaicha vrac",
+        "Caféine": "Plus faible que sencha pur"
+      },
+      "scores": {
+        "Flavor": 4.0,
+        "Quality": 4.0,
+        "Value": 4.5,
+        "Versatility": 4.6,
+        "Freshness": 4.0
+      }
+    },
+    {
+      "offerId": "ippodo-gyokuro",
+      "badge": "Meilleur haut de gamme",
+      "review": "Le Gyokuro d'Ippodo est au sommet du thé vert japonais — cultivé à l'ombre à Uji, infusé à 50–60°C, et la tasse résultante est intensément umami-douce, presque comme un bouillon. Ce n'est pas un thé quotidien casual : il requiert une bouilloire à température contrôlée et de la patience. Pour quiconque veut comprendre pourquoi la culture du thé japonaise élève le gyokuro au-dessus de tout, une infusion est instructive.",
+      "pros": [
+        "La culture à l'ombre concentre la L-théanine pour une douceur umami intense",
+        "Se réinfuse 3+ fois — économique malgré le prix élevé par gramme",
+        "Saveur incomparable — rien d'autre ne ressemble à un gyokuro de qualité"
+      ],
+      "cons": [
+        "Nécessite un contrôle de température à 50–60°C et une technique d'infusion précise"
+      ],
+      "grade": "B",
+      "specs": {
+        "Origine": "Uji, Japon",
+        "Poids": "40g",
+        "Prix": "~$28–50",
+        "Temp. infusion": "50–60°C",
+        "Durée": "90 sec",
+        "Style": "Gyokuro cultivé à l'ombre",
+        "Réinfusions": "3+"
+      },
+      "scores": {
+        "Flavor": 4.9,
+        "Quality": 4.9,
+        "Value": 3.5,
+        "Versatility": 3.0,
+        "Freshness": 4.8
+      }
+    },
+    {
+      "offerId": "harney-sons-dragon-well",
+      "badge": "Meilleur thé vert chinois",
+      "review": "Le Dragon Well (Longjing) Harney & Sons est le meilleur thé vert chinois dans cette comparaison — torréfié à la poêle, noisette-doux et nettement moins végétal que le sencha japonais. Idéal pour les buveurs qui trouvent les thés verts japonais trop intensément savoureux ou herbacés. S'infuse bien à 80–85°C et est plus tolérant que le gyokuro.",
+      "pros": [
+        "La torréfaction à la poêle crée un caractère noisette-doux distinct des thés verts japonais",
+        "Moins végétal et plus accessible pour les nouveaux amateurs de thé vert",
+        "S'infuse à 80–85°C, plus tolérant"
+      ],
+      "cons": [
+        "Prix par gramme plus élevé que le sencha Harney pour un niveau de qualité similaire"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Origine": "Hangzhou, Chine",
+        "Poids": "115g",
+        "Prix": "~$12–38",
+        "Temp. infusion": "80–85°C",
+        "Durée": "2 min",
+        "Style": "Dragon Well vrac",
+        "Traitement": "Torréfié à la poêle"
+      },
+      "scores": {
+        "Flavor": 4.3,
+        "Quality": 4.2,
+        "Value": 3.8,
+        "Versatility": 4.5,
+        "Freshness": 4.1
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les amateurs sérieux de thé vert",
+      "offerId": "ippodo-sencha-ummon",
+      "reason": "Approvisionnement direct d'Uji avec une constance de lot exceptionnelle depuis la plus ancienne maison de thé du Japon"
+    },
+    {
+      "label": "Pour un sencha accessible au quotidien",
+      "offerId": "harney-sons-japanese-sencha",
+      "reason": "Bonne qualité à $8–12, disponible chez Whole Foods sans commande spécialisée"
+    },
+    {
+      "label": "Pour les débutants en thé vert",
+      "offerId": "two-leaves-genmaicha",
+      "reason": "Le riz grillé atténue l'herbacé et rend la tasse accessible aux buveurs de thé noir"
+    },
+    {
+      "label": "Pour l'expérience de thé japonais premium",
+      "offerId": "ippodo-gyokuro",
+      "reason": "Gyokuro d'Uji cultivé à l'ombre avec une douceur umami intense incomparable"
+    },
+    {
+      "label": "Pour ceux qui trouvent le thé japonais trop végétal",
+      "offerId": "harney-sons-dragon-well",
+      "reason": "Longjing chinois torréfié à la poêle avec un caractère noisette-doux et moins herbacé"
+    }
+  ]
 }

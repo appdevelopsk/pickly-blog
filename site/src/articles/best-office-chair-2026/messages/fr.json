@@ -104,5 +104,182 @@
     "ikea-markus": "IKEA Markus à ~¥25 000 avec réglage de hauteur, soutien lombaire fixe intégré, accoudoirs réglables en hauteur et garantie IKEA de 10 ans. Le contour lombaire fixe fonctionne bien quand il correspond à la géométrie de votre colonne ; si ce n'est pas le cas, il n'y a pas de chemin de réglage."
   },
   "pinDescription": "5 chaises de bureau comparées en 2026 — Herman Miller Aeron à IKEA Markus. Maille vs mousse sur 8 heures. PostureFit vs LiveBack vs soutien lombaire fixe — ce que la différence de mécanisme signifie vraiment. Écart de prix de ¥25 000 à ¥200 000 détaillé honnêtement. #français",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Chaque chaise a été évaluée sur la conception du mécanisme lombaire, la durabilité à long terme, la plage de réglage pour les proportions corporelles japonaises, la profondeur de la garantie et la disponibilité sur le marché japonais.",
+  "products": [
+    {
+      "offerId": "herman-miller-aeron",
+      "badge": "Meilleur choix global",
+      "review": "Le maillage Pellicle 8Z et le système PostureFit SL à double point offrent la combinaison de soutien ergonomique la mieux documentée dans le segment premium. La contrainte principale : la bonne taille (A/B/C) doit être testée avant l'achat, et le prix d'environ 200 000 ¥ ne se justifie que pour un vrai usage WFH intensif.",
+      "pros": [
+        "Maillage Pellicle 8 zones dissipe la chaleur les étés humides",
+        "PostureFit SL ajuste sacrum et lombaires indépendamment",
+        "Garantie 12 ans par Herman Miller Japon"
+      ],
+      "cons": [
+        "La mauvaise taille annule tous les avantages ergonomiques"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Tailles": "A / B / C",
+        "Dossier": "Maillage Pellicle 8Z",
+        "Soutien lombaire": "PostureFit SL double point",
+        "Accoudoirs": "4D",
+        "Garantie": "12 ans",
+        "Charge max.": "~136 kg (taille C)",
+        "Prix (JP)": "~¥200 000"
+      },
+      "scores": {
+        "Soutien lombaire": 5.0,
+        "Confort": 4.8,
+        "Qualité de construction": 5.0,
+        "Rapport qualité-prix": 3.5,
+        "Réglabilité": 4.9
+      }
+    },
+    {
+      "offerId": "steelcase-leap-v2",
+      "badge": "Meilleur pour les sitteurs actifs",
+      "review": "Le mécanisme LiveBack suit le mouvement de la colonne vertébrale en temps réel et le siège à glissement naturel maintient la géométrie hanche-lombaire en inclinaison — un vrai avantage pour ceux qui bougent beaucoup. Les sitteurs statiques qui bloquent le dossier en profiteront peu.",
+      "pros": [
+        "LiveBack suit le mouvement vertébral naturel",
+        "Glissement naturel maintient la géométrie des hanches en inclinaison",
+        "Garantie 12 ans Steelcase Japon"
+      ],
+      "cons": [
+        "Avantage LiveBack perdu pour les sitteurs statiques qui bloquent le dossier"
+      ],
+      "grade": "A",
+      "specs": {
+        "Mécanisme dossier": "LiveBack colonne flexible",
+        "Siège": "Système glissement naturel",
+        "Accoudoirs": "4D",
+        "Garantie": "12 ans",
+        "Revêtement": "Tissu / Cuir",
+        "Prix (US)": "$1 376",
+        "Disponibilité Japon": "Revendeurs premium / entreprises"
+      },
+      "scores": {
+        "Soutien lombaire": 4.8,
+        "Confort": 4.9,
+        "Qualité de construction": 4.9,
+        "Rapport qualité-prix": 3.6,
+        "Réglabilité": 5.0
+      }
+    },
+    {
+      "offerId": "okamura-contessa-seconda",
+      "badge": "Meilleur choix marché japonais",
+      "review": "Conçue autour des proportions corporelles japonaises avec le réseau de service national d'Okamura. Le mécanisme de dossier est réglable mais moins réactif que le LiveBack Steelcase — la force est dans l'adéquation au marché japonais.",
+      "pros": [
+        "Conçue pour les proportions corporelles japonaises",
+        "Réseau de service national le plus étendu",
+        "Tailles standard et grande disponibles"
+      ],
+      "cons": [
+        "Mécanisme de dossier moins réactif que le Steelcase LiveBack"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Tailles": "Standard / Grande",
+        "Dossier": "Maillage",
+        "Fabricant": "Okamura (Japon)",
+        "Garantie": "5 ans structure / 2 ans garniture",
+        "Prix (JP)": "~¥100 000",
+        "Réseau service": "National Japon",
+        "Cible": "Proportions japonaises"
+      },
+      "scores": {
+        "Soutien lombaire": 4.5,
+        "Confort": 4.6,
+        "Qualité de construction": 4.7,
+        "Rapport qualité-prix": 4.2,
+        "Réglabilité": 4.3
+      }
+    },
+    {
+      "offerId": "flexispot-ej2-ergonomic",
+      "badge": "Meilleur ergonomique budget",
+      "review": "À environ 30 000 ¥ avec soutien lombaire réglable en hauteur, inclinaison et livraison Prime, c'est la recommandation budget honnête. Le lombaire est un coussin, pas un mécanisme structurel, et la compression de la mousse apparaît après 12–24 mois d'utilisation intensive.",
+      "pros": [
+        "Coussin lombaire réglable en hauteur à prix abordable",
+        "Disponible via Amazon Japon Prime",
+        "Inclinaison pour variation posturale"
+      ],
+      "cons": [
+        "Compression de la mousse après 12–24 mois d'utilisation intensive"
+      ],
+      "grade": "B",
+      "specs": {
+        "Assise": "Mousse",
+        "Lombaire": "Coussin réglable en hauteur",
+        "Garantie": "3 ans",
+        "Prix (JP)": "~¥30 000",
+        "Disponibilité": "Amazon Japon Prime",
+        "Support": "E-mail uniquement"
+      },
+      "scores": {
+        "Soutien lombaire": 3.5,
+        "Confort": 3.8,
+        "Qualité de construction": 3.4,
+        "Rapport qualité-prix": 4.5,
+        "Réglabilité": 3.6
+      }
+    },
+    {
+      "offerId": "ikea-markus",
+      "badge": "Meilleur niveau d'entrée",
+      "review": "Le soutien lombaire fixe du Markus s'adapte ou pas à votre colonne — aucun ajustement possible. À environ 25 000 ¥ avec garantie IKEA 10 ans et disponible en magasin au Japon, il convient pour 2–4 h par jour mais pas au-delà de 7 h ou en cas de douleurs lombaires.",
+      "pros": [
+        "Disponible en magasin IKEA Japon avec retours faciles",
+        "Garantie IKEA 10 ans contre les défauts de fabrication",
+        "Point d'entrée le plus accessible"
+      ],
+      "cons": [
+        "Soutien lombaire fixe — aucun ajustement si inadapté à votre dos"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Assise": "Mousse (polyuréthane)",
+        "Lombaire": "Contour intégré fixe",
+        "Garantie": "10 ans (défauts fabrication)",
+        "Prix (JP)": "~¥25 000",
+        "Couleurs": "Noir / Beige-gris",
+        "Accoudoirs": "Réglage hauteur uniquement"
+      },
+      "scores": {
+        "Soutien lombaire": 3.0,
+        "Confort": 3.5,
+        "Qualité de construction": 3.2,
+        "Rapport qualité-prix": 4.6,
+        "Réglabilité": 2.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les télétravailleurs à temps plein (7h+)",
+      "offerId": "herman-miller-aeron",
+      "reason": "PostureFit SL et Pellicle 8Z offrent le soutien le plus documenté pour le travail assis prolongé."
+    },
+    {
+      "label": "Pour les personnes changeant souvent de posture",
+      "offerId": "steelcase-leap-v2",
+      "reason": "LiveBack suit les mouvements de la colonne en temps réel."
+    },
+    {
+      "label": "Pour les acheteurs privilégiant les marques japonaises",
+      "offerId": "okamura-contessa-seconda",
+      "reason": "Réseau de service Okamura national et design adapté aux proportions japonaises."
+    },
+    {
+      "label": "Pour les télétravailleurs avec petit budget",
+      "offerId": "flexispot-ej2-ergonomic",
+      "reason": "Lombaire réglable et inclinaison à ~30 000 ¥ via Amazon Prime."
+    },
+    {
+      "label": "Pour les utilisateurs occasionnels souhaitant la simplicité",
+      "offerId": "ikea-markus",
+      "reason": "Disponible en magasin IKEA Japon avec garantie 10 ans et retours faciles."
+    }
+  ]
 }

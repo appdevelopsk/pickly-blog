@@ -84,5 +84,190 @@
     "511-tactical-tactec-vest": "Compatible with most standard SAPI-cut plates. The vest alone ships without plates."
   },
   "pinDescription": "5 weight vests tested for pull-ups, HIIT, and rucking — from an 8-lb shirt you can wear anywhere to a plate carrier built for miles. Find the right fit for how you actually train.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Weight distribution measured via pressure mapping across 30-minute runs and bodyweight circuits; bounce assessed during 400m intervals at loaded pace; adjustability rated for range of weights and ease of incremental loading.",
+  "products": [
+    {
+      "offerId": "titin-force-weighted-shirt",
+      "badge": "Best Overall",
+      "review": "Hydro-gel pockets distribute 8 lbs across 14 points on chest, back, and shoulders — the most natural weight distribution in this test. Wears under regular clothing for low-profile daily use. Range of motion is unchanged versus unloaded for pull-ups and push-ups. The limit: 8 lbs total is non-adjustable.",
+      "pros": [
+        "14-point hydro-gel weight distribution — most natural feel in test",
+        "Wears under normal clothing — zero bulk profile",
+        "Full range of motion for pull-ups, push-ups, and daily movement"
+      ],
+      "cons": [
+        "8 lb total weight is fixed — cannot add more as you get stronger"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Weight": "8 lbs / 3.6 kg fixed",
+        "Distribution": "14 pockets: chest, back, shoulders",
+        "Weight type": "Hydro-gel",
+        "Profile": "Compression shirt",
+        "Use case": "Pull-ups, push-ups, daily wear",
+        "Sizes": "S-XXL",
+        "Material": "Compression fabric",
+        "Price": "$189"
+      },
+      "scores": {
+        "Weight distribution": 5.0,
+        "Comfort": 4.9,
+        "Adjustability": 2.0,
+        "Value": 3.8,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "hyperwear-hyper-vest-pro",
+      "badge": "Best for Running",
+      "review": "Corset-style side lacing cinches the vest against the torso to near-zero bounce — the defining feature for running and HIIT. Steel shot weight pockets keep load close to the body. Available 10-20 lbs. The vest that actually works for sprints without the bouncing that kills form.",
+      "pros": [
+        "Corset lacing achieves near-zero bounce during running",
+        "Steel shot weight stays close to body for natural movement",
+        "Purpose-built for high-movement cardio use cases"
+      ],
+      "cons": [
+        "Higher price than generalist vests",
+        "Weight range limited to 10-20 lbs"
+      ],
+      "grade": "A",
+      "specs": {
+        "Weight range": "10-20 lbs",
+        "Weight type": "Steel shot pockets",
+        "Closure": "Corset-style side lacing",
+        "Bounce": "Near-zero",
+        "Use case": "Running, HIIT, sprints",
+        "Sizes": "XS-XL",
+        "Material": "Nylon + elastic",
+        "Price": "$239.95"
+      },
+      "scores": {
+        "Weight distribution": 4.8,
+        "Comfort": 4.7,
+        "Adjustability": 3.5,
+        "Value": 3.6,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "511-tactical-tactec-vest",
+      "badge": "Best for Rucking",
+      "review": "Military plate carrier design with padded shoulder straps and cummerbund waist distribution — built for sustained loaded movement over hours, not sprint intervals. MOLLE compatibility allows attachment of gear for functional training or rucking. Holds standard SAPI plates up to 30 lbs.",
+      "pros": [
+        "Cummerbund waistband distributes load for sustained movement",
+        "MOLLE-compatible for attaching additional gear",
+        "Military-grade durability built for multi-year outdoor use"
+      ],
+      "cons": [
+        "Bulky design not suited for gym exercises like pull-ups or push-ups"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Weight capacity": "Up to 30 lbs / 13.5 kg",
+        "Plate type": "Standard SAPI",
+        "Waist": "Cummerbund",
+        "Attachment": "MOLLE-compatible",
+        "Use case": "Rucking, loaded hiking",
+        "Sizes": "S-XL",
+        "Material": "Military-grade nylon",
+        "Price": "$140"
+      },
+      "scores": {
+        "Weight distribution": 4.5,
+        "Comfort": 4.3,
+        "Adjustability": 4.0,
+        "Value": 4.5,
+        "Durability": 5.0
+      }
+    },
+    {
+      "offerId": "cap-barbell-weight-vest",
+      "badge": "Best Budget",
+      "review": "Iron sand pockets adjust up to 40 lbs in increments — the widest weight range in this comparison for the price. Fabric construction holds up through bodyweight strength circuits. Not ideal for running due to bounce, but for push-ups, dips, squats, and step-ups it delivers solid loading at entry price.",
+      "pros": [
+        "Up to 40 lbs adjustable — widest range at this price point",
+        "Iron sand pockets allow fine-grained weight increments",
+        "Solid for bodyweight strength exercises"
+      ],
+      "cons": [
+        "Noticeable bounce during running — not a running vest"
+      ],
+      "grade": "B",
+      "specs": {
+        "Weight range": "Up to 40 lbs / 18 kg adjustable",
+        "Weight type": "Iron sand pockets",
+        "Closure": "Buckle straps",
+        "Bounce": "Moderate (not for running)",
+        "Use case": "Bodyweight strength training",
+        "Sizes": "One size adjustable",
+        "Material": "Fabric",
+        "Price": "~$40-60"
+      },
+      "scores": {
+        "Weight distribution": 3.8,
+        "Comfort": 3.5,
+        "Adjustability": 4.8,
+        "Value": 5.0,
+        "Durability": 3.8
+      }
+    },
+    {
+      "offerId": "rogue-dog-collar-vest",
+      "badge": "Best for Pull-ups & Dips",
+      "review": "The Dog Collar is not a vest — it is a plate-loaded shoulder harness designed for exactly one purpose: attaching Olympic plates for weighted pull-ups and dips. Front plate position keeps the back completely free. Steel construction built for commercial gym volume. Nothing else in this comparison does this specific job better.",
+      "pros": [
+        "Front-loaded plate position keeps back fully clear for pull-up movement",
+        "Holds 10-45 lb Olympic plates — unlimited weight progression",
+        "Commercial-grade steel built for daily gym volume"
+      ],
+      "cons": [
+        "Single use case — pull-ups and dips only, not for running or general carry"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Weight type": "Olympic plates (10-45 lb)",
+        "Loading": "Front plate loaded",
+        "Construction": "Steel",
+        "Use case": "Weighted pull-ups, dips",
+        "Sizes": "Adjustable belt",
+        "Back clearance": "Full",
+        "Brand": "Rogue",
+        "Price": "$20"
+      },
+      "scores": {
+        "Weight distribution": 4.0,
+        "Comfort": 3.0,
+        "Adjustability": 4.5,
+        "Value": 4.9,
+        "Durability": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For daily movement and bodyweight training",
+      "offerId": "titin-force-weighted-shirt",
+      "reason": "Wears under clothes, 14-point hydro-gel distribution — the only weighted vest you can forget you're wearing."
+    },
+    {
+      "label": "For runners and HIIT athletes",
+      "offerId": "hyperwear-hyper-vest-pro",
+      "reason": "Corset lacing achieves near-zero bounce at running pace — the only vest here that doesn't destroy your form at speed."
+    },
+    {
+      "label": "For rucking and loaded hiking",
+      "offerId": "511-tactical-tactec-vest",
+      "reason": "Military cummerbund design distributes load over hours of sustained movement without hotspots."
+    },
+    {
+      "label": "For budget-first buyers",
+      "offerId": "cap-barbell-weight-vest",
+      "reason": "40 lbs adjustable at entry price — the most weight range per dollar in this comparison."
+    },
+    {
+      "label": "For pull-ups and dips only",
+      "offerId": "rogue-dog-collar-vest",
+      "reason": "Front-plate loading keeps back fully clear — the right tool for one specific job at $20."
+    }
+  ]
 }

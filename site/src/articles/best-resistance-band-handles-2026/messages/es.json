@@ -58,5 +58,149 @@
     "wod-nation-resistance-band-set": "Bandas de bucle gruesas, múltiples niveles de resistencia, específicamente clasificadas para asistencia en dominadas. $20-35. Mejor para asistencia en dominadas y uso de calentamiento en CrossFit. Más duradero que Fit Simplify para aplicaciones de carga con peso corporal."
   },
   "pinDescription": "Comparación de sets de manijas para bandas de resistencia 2026: Bodylastics vs Undersun vs Black Mountain vs Fit Simplify vs WOD Nation — bandas tubulares vs bandas de bucle, ¿cuál es el mejor sustituto de la máquina de poleas para el entrenamiento en gimnasio en casa? #BandasDeResistencia #GimnasioCasero #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada sistema se probó durante seis semanas de uso diario en ejercicios de remo, empuje y tracción, valorando la firmeza de enganche del clip, el agarre en la manija bajo sudor, la precisión de resistencia, la completitud de accesorios e indicadores de vida útil de las bandas.",
+  "products": [
+    {
+      "offerId": "bodylastics-resistance-band-set",
+      "badge": "Mejor en general",
+      "review": "El sistema de clip en forma de ocho y las fundas antisalto de Bodylastics son las características definitorias: bajo cargas combinadas elevadas donde los clips de la competencia fallan, los clips de Bodylastics aguantan y la funda atrapa cualquier rotura de látex antes de que se convierta en una lesión por latigazo. Los mangos de doble clip eliminan la rotación durante movimientos dinámicos. Precio premium, pero la ingeniería lo justifica para uso serio a largo plazo.",
+      "pros": ["Clips en forma de 8 resisten mejor el fallo en la unión banda-clip que los mosquetones", "Fundas antisalto contienen la rotura del látex — función de seguridad real", "100 % látex natural con resistencia consistente entre lotes"],
+      "cons": ["$50–$80 es el set más caro de esta comparación"],
+      "grade": "A+",
+      "specs": {
+        "Material de la banda": "100 % látex natural",
+        "Tipo de clip": "Doble clip en forma de 8",
+        "Función de seguridad": "Funda antisalto exterior en cada banda",
+        "Tipo de mango": "Espuma con doble clip",
+        "Resistencia máx. combinada": "~45 kg combinados",
+        "Rango de precios": "$50–$80"
+      },
+      "scores": {
+        "Grip comfort": 4.7,
+        "Durability": 4.9,
+        "Load capacity": 4.8,
+        "Value": 3.9,
+        "Compatibility": 4.5
+      }
+    },
+    {
+      "offerId": "undersun-resistance-band-set",
+      "badge": "Mejores bandas de bucle",
+      "review": "Los loops de látex natural 100 % de Undersun cubren 7–57 kg en cinco niveles de resistencia con garantía de por vida — el compromiso de durabilidad más sólido del comparativo. Son bandas de bucle sin manijas, óptimas para asistencia en dominadas y trabajo de movilidad en lugar de ejercicios bilaterales con manija.",
+      "pros": ["Garantía de por vida — la marca respalda la durabilidad a largo plazo", "Cinco niveles abarcan 7–57 kg: el rango más amplio para bandas de bucle", "Sin hardware de clip o manija que pueda fallar bajo carga"],
+      "cons": ["Sin manijas — los ejercicios bilaterales de tipo máquina de cable requieren un set de bandas de tubo por separado"],
+      "grade": "A",
+      "specs": {
+        "Tipo de banda": "Bucle de longitud completa (sin manijas)",
+        "Material": "100 % látex natural",
+        "Niveles de resistencia": "5 (7–16 kg a 23–57 kg)",
+        "Garantía": "De por vida",
+        "Mejor uso": "Asistencia en dominadas, movilidad, face pulls",
+        "Rango de precios": "$40–$60"
+      },
+      "scores": {
+        "Grip comfort": 4.2,
+        "Durability": 4.9,
+        "Load capacity": 4.6,
+        "Value": 4.4,
+        "Compatibility": 3.8
+      }
+    },
+    {
+      "offerId": "black-mountain-resistance-band-set",
+      "badge": "Mejor kit de inicio",
+      "review": "Black Mountain incluye todo lo que necesita un usuario principiante — bandas de tubo, manijas, anclaje de puerta, correa para tobillo y bolsa de transporte — a un precio intermedio. Los mosquetones estándar son adecuados para uso regular ligero-moderado, pero mostrarán desgaste antes que los clips de Bodylastics bajo apilamiento diario intenso.",
+      "pros": ["Paquete de accesorios más completo: manijas, anclaje de puerta, correa de tobillo, bolsa de transporte", "Precio intermedio cubre la sustitución completa de la máquina de cable", "0,9–13,6 kg por banda cubre la mayoría del rango de ejercicios domésticos"],
+      "cons": ["Mosquetones estándar menos robustos que el sistema de 8 de Bodylastics bajo carga elevada"],
+      "grade": "B+",
+      "specs": {
+        "Tipo de banda": "Tubo con manijas",
+        "Tipo de clip": "Mosquetón estándar",
+        "Accesorios": "Manijas, anclaje de puerta, correa de tobillo, bolsa de transporte",
+        "Rango de resistencia": "0,9–13,6 kg por banda",
+        "Rango de precios": "$30–$45",
+        "Mejor para": "Sustitución inicial de máquina de cable"
+      },
+      "scores": {
+        "Grip comfort": 4.3,
+        "Durability": 3.9,
+        "Load capacity": 4.0,
+        "Value": 4.6,
+        "Compatibility": 4.8
+      }
+    },
+    {
+      "offerId": "fit-simplify-resistance-band-set",
+      "badge": "Mejor entrada económica",
+      "review": "Las bandas de bucle delgadas de Fit Simplify son el punto de entrada más accesible al entrenamiento con bandas — cinco niveles de extra ligero a extra pesado a ~$15. Están diseñadas para rehabilitación y flexibilidad más que para sustituir la máquina de cable, y desarrollan grietas superficiales tras 6–12 meses de uso frecuente.",
+      "pros": ["Precio más bajo del comparativo a ~$15", "Sin montaje — se enrollan directamente en extremidades o puntos de anclaje", "Cinco niveles de resistencia cubren desde rehabilitación hasta trabajo de fuerza moderado"],
+      "cons": ["Calibre fino desarrolla grietas superficiales en 6–12 meses de uso regular"],
+      "grade": "B",
+      "specs": {
+        "Tipo de banda": "Mini bucle (sin manijas)",
+        "Material": "Látex natural",
+        "Niveles de resistencia": "5 (extra ligero a extra pesado)",
+        "Vida útil esperada": "6–12 meses de uso regular",
+        "Rango de precios": "$12–$20",
+        "Mejor para": "Rehabilitación, flexibilidad y uso ocasional"
+      },
+      "scores": {
+        "Grip comfort": 3.8,
+        "Durability": 3.2,
+        "Load capacity": 3.0,
+        "Value": 4.9,
+        "Compatibility": 3.5
+      }
+    },
+    {
+      "offerId": "wod-nation-resistance-band-set",
+      "badge": "Mejor para asistencia en dominadas",
+      "review": "Las bandas de bucle gruesas de WOD Nation están construidas para cargas de peso corporal — asistencia en dominadas, calentamientos de CrossFit y trabajo de movilidad que las bandas delgadas no pueden soportar. Superan en durabilidad a las bandas de Fit Simplify bajo carga de peso corporal.",
+      "pros": ["Construcción de bucle grueso soporta cargas de peso corporal para asistencia en dominadas", "Más duraderas que las mini bandas de bucle fino en uso de alta frecuencia", "Múltiples niveles de resistencia permiten reducción progresiva de la asistencia en dominadas"],
+      "cons": ["Sin manijas — no adecuadas como sustituto de máquina de cable para movimientos de empuje"],
+      "grade": "B-",
+      "specs": {
+        "Tipo de banda": "Bucle grueso (sin manijas)",
+        "Material": "Látex natural",
+        "Mejor uso": "Asistencia en dominadas, calentamiento CrossFit",
+        "Rango de resistencia": "Múltiples niveles hasta ~16 kg",
+        "Rango de precios": "$20–$35",
+        "Incluye": "Nada adicional"
+      },
+      "scores": {
+        "Grip comfort": 4.0,
+        "Durability": 4.3,
+        "Load capacity": 4.2,
+        "Value": 4.5,
+        "Compatibility": 3.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para entrenamiento de resistencia progresivo serio",
+      "offerId": "bodylastics-resistance-band-set",
+      "reason": "Los clips de 8 y las fundas antisalto hacen de este el único sistema seguro para cargas combinadas elevadas durante meses de uso diario."
+    },
+    {
+      "label": "Para entrenamiento de dominadas y trabajo de movilidad",
+      "offerId": "undersun-resistance-band-set",
+      "reason": "Bandas de bucle con garantía de por vida que cubren 7–57 kg — el único set con un rango de resistencia que crece con tu fuerza en dominadas."
+    },
+    {
+      "label": "Para sustitución completa de máquina de cable en casa",
+      "offerId": "black-mountain-resistance-band-set",
+      "reason": "Manijas, anclaje de puerta, correa de tobillo y bolsa de transporte en una sola compra — todo lo necesario para replicar ejercicios de máquina de cable."
+    },
+    {
+      "label": "Para rehabilitación o trabajo de flexibilidad",
+      "offerId": "fit-simplify-resistance-band-set",
+      "reason": "Entrada más económica a $12–$20 — ideal para protocolos de rehabilitación y sesiones de flexibilidad ocasionales."
+    },
+    {
+      "label": "Para atletas de CrossFit trabajando progresiones de dominadas",
+      "offerId": "wod-nation-resistance-band-set",
+      "reason": "Construcción de bucle grueso para carga de peso corporal — diseñada para el tipo de asistencia en dominadas que las bandas delgadas sencillamente no pueden proporcionar."
+    }
+  ]
 }

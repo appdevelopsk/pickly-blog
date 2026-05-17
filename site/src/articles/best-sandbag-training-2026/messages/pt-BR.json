@@ -58,5 +58,177 @@
     "cerberus-strength-sandbag": "Construção de padrão de competição, capacidade de 68-200 kg, usado em eventos da Strongman Corporation. $150-300. Melhor para treino real de competição de homem forte — equipamento equivalente ao de competição. As capacidades de carga excedem a maioria das necessidades de academia doméstica."
   },
   "pinDescription": "Comparação de sacos de areia para treino 2026: Rogue vs REP Fitness vs GORUCK vs Viking Strength vs Cerberus — carga instável vs barra, o que o treino com saco desenvolve e qual vale o investimento para seus objetivos. #SacoDeAreia #TreinoFuncional #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "rogue-sandbag",
+      "badge": "Melhor escolha geral",
+      "review": "A carcaça de Cordura 1000D da Rogue, as costuras reforçadas e os múltiplos cabos integrados (topo, laterais, fundo) fazem dele o sandbag que você pode lançar, arrastar e deixar cair em superfícies rugosas sem que a carcaça exterior ceda. O sistema modular de sacos de enchimento permite usar areia, arroz ou cascalho. O preço ($175–250 para a carcaça mais sacos) é o mais alto desta comparação e justificado pela qualidade de construção.",
+      "pros": [
+        "Carcaça de Cordura 1000D construída para uso comercial em academia",
+        "Múltiplas posições de cabo cobrem todos os exercícios com sandbag",
+        "Sacos de enchimento modulares para areia, arroz ou cascalho"
+      ],
+      "cons": [
+        "Opção mais cara — $175–250 para carcaça + enchimentos"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Material da carcaça": "Cordura 1000D",
+        "Carga máx.": "68–136 kg (por tamanho)",
+        "Cabos": "Topo, laterais, fundo integrados",
+        "Sistema de enchimento": "Sacos modulares",
+        "Tamanhos": "S / L / XL",
+        "Preço": "~$175–250"
+      },
+      "scores": {
+        "Durability": 5.0,
+        "Filler capacity": 5.0,
+        "Handle quality": 5.0,
+        "Value": 3.5,
+        "Versatility": 5.0
+      }
+    },
+    {
+      "offerId": "rep-fitness-sandbag",
+      "badge": "Melhor custo-benefício",
+      "review": "A carcaça de Cordura 900D da REP e o sistema de cabos reforçados oferecem durabilidade adequada para uso regular em academia doméstica a significativamente menos do que Rogue — $80–130 vs $175–250. O posicionamento dos cabos (topo e laterais) cobre toda a gama de exercícios com sandbag. Para atletas de academia doméstica que treinam intensamente mas não jogam sacos em concreto comercial diariamente.",
+      "pros": [
+        "Cordura 900D adequada para uso regular em academia doméstica",
+        "Tamanhos de 22–68 kg cobrem a maioria dos intervalos de treinamento",
+        "Significativamente mais barato que Rogue em capacidades comparáveis"
+      ],
+      "cons": [
+        "Cordura 900D menos robusta que a 1000D da Rogue para uso intensivo diário"
+      ],
+      "grade": "A",
+      "specs": {
+        "Material da carcaça": "Cordura 900D",
+        "Carga máx.": "22–68 kg",
+        "Cabos": "Topo, cabos laterais",
+        "Sistema de enchimento": "Modular",
+        "Tamanhos": "22 / 45 / 68 kg",
+        "Preço": "~$80–130"
+      },
+      "scores": {
+        "Durability": 4.2,
+        "Filler capacity": 4.0,
+        "Handle quality": 4.3,
+        "Value": 5.0,
+        "Versatility": 4.5
+      }
+    },
+    {
+      "offerId": "goruck-training-sandbag",
+      "badge": "Melhor para rucking",
+      "review": "A herança de construção militar da GORUCK se manifesta nos cabos de webbing soldados e costuras seladas — este saco é construído para transportes de carga sustentados em condições de campo, não para quedas repetidas em academia. O cabo superior é o ponto de fixação único mais forte desta comparação. Ideal para atletas que se preparam para eventos GORUCK ou testes de condicionamento físico militar.",
+      "pros": [
+        "Cabos de webbing soldados de padrão militar",
+        "Cordura 1000D com costuras seladas para durabilidade em campo",
+        "Construído especificamente para transportes de carga sustentados"
+      ],
+      "cons": [
+        "Sistema de cabo otimizado para transporte, não para levantamento estilo barra"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Material da carcaça": "Cordura 1000D",
+        "Carga máx.": "varia por tamanho",
+        "Cabos": "Webbing soldado",
+        "Costuras": "Seladas",
+        "Origem": "Herança de mochila militar",
+        "Preço": "~$100–175"
+      },
+      "scores": {
+        "Durability": 5.0,
+        "Filler capacity": 4.0,
+        "Handle quality": 4.5,
+        "Value": 4.0,
+        "Versatility": 3.5
+      }
+    },
+    {
+      "offerId": "vikingstrength-sandbag",
+      "badge": "Melhor para strongman",
+      "review": "A geometria da carcaça da Viking Strength é otimizada para o shouldering — o painel de pega no topo cria uma pega segura com duas mãos durante a fase de clean, que os designs genéricos de cabo único tornam significativamente mais difícil. O posicionamento dos cabos corresponde melhor ao padrão de movimento de shouldering do que qualquer outro saco desta comparação. Para atletas que programam especificamente o shouldering com sandbag.",
+      "pros": [
+        "Geometria da carcaça otimizada para o movimento de shouldering",
+        "Painel de pega para pega segura com duas mãos na fase de clean",
+        "Posicionamento dos cabos corresponde aos movimentos de competição strongman"
+      ],
+      "cons": [
+        "Menos versátil para circuitos de condicionamento vs. designs multi-cabo"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material da carcaça": "Tecido resistente",
+        "Otimizado para": "Shouldering",
+        "Painel de pega": "Sim — tiro de clean com duas mãos",
+        "Carga máx.": "~45–90 kg",
+        "Preço": "~$100–150"
+      },
+      "scores": {
+        "Durability": 4.5,
+        "Filler capacity": 4.0,
+        "Handle quality": 4.8,
+        "Value": 4.0,
+        "Versatility": 3.2
+      }
+    },
+    {
+      "offerId": "cerberus-strength-sandbag",
+      "badge": "Melhor para competição",
+      "review": "Cerberus fornece eventos da Strongman Corporation — se você está treinando para competição strongman sancionada real, este é equipamento equivalente ao de competição. As capacidades de carga (68–200 kg) excedem o que a maioria dos usuários de academia doméstica precisa, e a $150–300 é voltado para atletas competitivos que precisam replicar condições exatas de evento no treinamento.",
+      "pros": [
+        "Padrão de competição — usado em eventos da Strongman Corporation",
+        "Capacidade de 68–200 kg para atletas de força avançados",
+        "Múltiplos pontos de pega para posições de carga variadas"
+      ],
+      "cons": [
+        "Capacidades de carga e preço excedem a maioria das necessidades de academia doméstica"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Material da carcaça": "Qualidade de competição",
+        "Carga máx.": "68–200 kg",
+        "Usado em": "Eventos da Strongman Corporation",
+        "Pontos de pega": "Múltiplos",
+        "Faixa de preço": "~$150–300"
+      },
+      "scores": {
+        "Durability": 5.0,
+        "Filler capacity": 5.0,
+        "Handle quality": 4.5,
+        "Value": 3.0,
+        "Versatility": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para uso em academia comercial ou CrossFit box",
+      "offerId": "rogue-sandbag",
+      "reason": "Cordura 1000D e cabos soldados sobrevivem a quedas, arrastamentos e lançamentos repetidos no concreto — a qualidade de construção que o uso comercial exige."
+    },
+    {
+      "label": "Para atletas de academia doméstica com orçamento limitado",
+      "offerId": "rep-fitness-sandbag",
+      "reason": "Cordura 900D e um sistema de cabos completo por aproximadamente metade do preço da Rogue — o equilíbrio correto de durabilidade e custo para treinamento não comercial."
+    },
+    {
+      "label": "Para preparação para eventos GORUCK ou fitness militar",
+      "offerId": "goruck-training-sandbag",
+      "reason": "Os padrões de construção militar e o cabo de transporte superior mais forte fazem dele a ferramenta dedicada para eventos de rucking e condicionamento de transporte com carga."
+    },
+    {
+      "label": "Para atletas que programam o shouldering com sandbag",
+      "offerId": "vikingstrength-sandbag",
+      "reason": "A geometria da carcaça e o posicionamento do painel de pega correspondem ao padrão de movimento de shouldering melhor do que qualquer design genérico de sandbag nesta comparação."
+    },
+    {
+      "label": "Para preparação de competição strongman sancionada",
+      "offerId": "cerberus-strength-sandbag",
+      "reason": "Equipamento equivalente ao de competição com capacidades de 68–200 kg — o único saco aqui que replica exatamente as condições dos eventos da Strongman Corporation."
+    }
+  ]
 }

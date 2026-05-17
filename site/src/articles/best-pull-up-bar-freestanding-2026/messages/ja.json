@@ -90,5 +90,184 @@
     "weider-power-tower-200": "バジェット代替品より厚いフレーム・広いディップハンドル間隔・重いVKRアームレストパッドを備えたプレミアム4ステーションパワータワー。ディップとVKRの快適性でベストインクラス。115×135cmのベース設置面積——このリスト中で最大。静荷重136kg定格。ディップとVKRステーションを頻繁に使用するためFitness Reality X2へのプレミアムを正当化できるユーザーにコストの価値あり。"
   },
   "pinDescription": "自立式懸垂バー5製品比較：CAP・Ultimate Body Press・Yaheetech・Fitness Reality・Weider。設置面積・身長・トレーニング目標に合うパワータワーを選ぶ完全ガイド。穴あけ不要。",
-  "methodology": "各製品を5つの基準で評価しました：作りの良さ・通常使用での性能・耐久性・快適性・コストパフォーマンス。12ヶ月後も使い続けられるかという観点から、性能と耐久性を最も重視しています。"
+  "methodology": "各ユニットは、静的デッドハングおよびシミュレートされた動的負荷下でのフレーム安定性、ベースの設置面積と部屋のクリアランス要件、ユーザーの身長に対するバーの高さ、ディップステーションとVKRのパッドの快適性、および12か月以上の定期的な使用後にユーザーが報告した長期的なフレーム剛性に基づいて評価しました。",
+  "products": [
+    {
+      "offerId": "fitness-reality-x2-power-tower",
+      "grade": "A+",
+      "specs": {
+        "Stations": "4 (pull-up, dip, push-up, VKR)",
+        "Base footprint": "110×130 cm",
+        "Bar height": "~228 cm (fixed)",
+        "Load capacity": "136 kg static",
+        "Frame": "3.8 cm square tube steel",
+        "Price": "$140",
+        "Assembly time": "~60–90 min"
+      },
+      "scores": {
+        "Stability": 4.5,
+        "Load capacity": 4.4,
+        "Footprint": 3.8,
+        "Value": 4.9,
+        "Versatility": 4.7
+      },
+      "badge": "総合ベスト",
+      "review": "Fitness Reality X2は、チンニングバー、ディップステーション、プッシュアップハンドル、パッド付きVKRの4つのトレーニングステーションを110×130 cmのフットプリントに集約し、ほとんどのホームジムの出発点として最適な価格を実現しています。3.8 cmスクエアチューブフレームは同価格帯のラウンドチューブ設計と比べて明らかに剛性が高く、228 cmのバー高さは185 cmまでのユーザーにデッドハングクリアランスを提供します。VKRアームレストとディップハンドルは長いセットでは最も快適とは言えません — Weiderの方が両方を改善しています。",
+      "pros": [
+        "4ステーション設計でチンニング、ディップ、プッシュアップ、VKRを1台でカバー",
+        "3.8 cmスクエアチューブフレームは価格帯に対して高剛性",
+        "228 cmのバー高さで約185 cmまでのユーザーが膝を曲げずにデッドハング可能"
+      ],
+      "cons": [
+        "VKRアームレストのパッドがWeiderより薄く、長いレッグレイズセットで気になる"
+      ]
+    },
+    {
+      "offerId": "power-tower-workout-dip-station",
+      "grade": "A",
+      "specs": {
+        "Stations": "4 (pull-up, dip, push-up, VKR)",
+        "Base footprint": "95×110 cm",
+        "Bar height": "Up to ~220 cm (adjustable)",
+        "Load capacity": "150 kg static",
+        "Frame": "Round tube steel",
+        "Price": "$199.99",
+        "Assembly time": "~60 min"
+      },
+      "scores": {
+        "Stability": 4.3,
+        "Load capacity": 4.7,
+        "Footprint": 4.9,
+        "Value": 4.6,
+        "Versatility": 4.5
+      },
+      "badge": "最もコンパクト",
+      "review": "Yaheetech Power TowerはFitness Reality X2と同じ4つのステーションを95×110 cmのフットプリントに収めた、この比較で最もコンパクトなパワータワーです。バー高さはプリセット穴で220 cmまで調整可能で、150 kgの耐荷重はこの比較で最高値です。VKRアームレストのパッドはX2より薄く、固定幅のディップハンドルは肩幅が広いユーザーには狭く感じる場合があります。部屋のスペースが限られている場合の最良の選択肢です。",
+      "pros": [
+        "この比較で最小のパワータワーフットプリント（95×110 cm）",
+        "150 kgの静荷重耐荷重 — 当比較で最高値",
+        "プリセット位置で最大220 cmまでバー高さを調整可能"
+      ],
+      "cons": [
+        "VKRアームレストのパッドがFitness Reality X2とWeiderより薄い"
+      ]
+    },
+    {
+      "offerId": "cap-barbell-freestanding-pull-up-bar",
+      "grade": "B+",
+      "specs": {
+        "Stations": "1 (pull-up only)",
+        "Base footprint": "~97×60 cm",
+        "Bar height": "~218 cm (fixed)",
+        "Load capacity": "136 kg static",
+        "Base design": "A-frame with outrigger feet",
+        "Price": "$149.99",
+        "Grip options": "Wide overhand, neutral parallel"
+      },
+      "scores": {
+        "Stability": 4.6,
+        "Load capacity": 4.4,
+        "Footprint": 4.8,
+        "Value": 4.3,
+        "Versatility": 2.8
+      },
+      "badge": "チンニング専用ベスト",
+      "review": "CAP Barbellはディップやバーなしのスタンドアロンチンニングステーションで、この比較で最も奥行きが小さい97×60 cmのユニットです。Aフレームアウトリガーベースは、ユーザーが狭いベースの端ではなく広いベースの中央でぶら下がるため、長方形ベース設計より厳密なデッドハングチンニングの横方向安定性に優れています。218 cmの固定バーと複数のグリップオプションを内蔵。ディップやVKRをプログラムに追加したい場合は適していません。",
+      "pros": [
+        "97×60 cmの最小奥行きフットプリント — パワータワーが入らないスペースにも対応",
+        "AフレームベースはAフレームベースの横方向安定性が長方形設計より優れている",
+        "複数のグリップポジション：ワイドオーバーハンドとニュートラルパラレル"
+      ],
+      "cons": [
+        "ディップステーション、プッシュアップハンドル、VKRなし — チンニング専用"
+      ]
+    },
+    {
+      "offerId": "weider-power-tower-200",
+      "grade": "B",
+      "specs": {
+        "Stations": "4 (pull-up, dip, push-up, VKR)",
+        "Base footprint": "115×135 cm",
+        "Bar height": "~228 cm (fixed)",
+        "Load capacity": "136 kg static",
+        "Frame": "Heavy-gauge steel",
+        "Price": "$206.09",
+        "Assembly time": "~90 min"
+      },
+      "scores": {
+        "Stability": 4.7,
+        "Load capacity": 4.4,
+        "Footprint": 3.2,
+        "Value": 4.0,
+        "Versatility": 4.6
+      },
+      "badge": "ベストプレミアム",
+      "review": "Weider Power Tower 200はFitness Reality X2をトレーニング中に最も顕著な2つの点で改善しています：より広いディップハンドル間隔とより厚いVKRアームレストパッドです。どちらの変更も、これらのステーションを頻繁に使用するアスリートの快適性と肩のポジショニングを向上させます。フレームゲージが重くなることで剛性は増しますが、サイズも大きくなります — 115×135 cmのフットプリントはこの比較で最大です。ディップとVKRステーションを定期的に使用し、長いセットでの快適性を重視するなら、X2に対するプレミアムの価値はあります。",
+      "pros": [
+        "ディップハンドルの間隔が広くディップの最下点での肩のポジショニングを改善",
+        "VKRアームレストパッドが厚く、長いセットでの快適性が格段に向上",
+        "フレームゲージが重く低価格パワータワーより剛性が高い"
+      ],
+      "cons": [
+        "115×135 cmのフットプリントはこの比較で最大"
+      ]
+    },
+    {
+      "offerId": "ultimate-body-press-freestanding-bar",
+      "grade": "B-",
+      "specs": {
+        "Stations": "1 (pull-up only)",
+        "Base footprint": "~4-foot rectangular",
+        "Bar height": "193–244 cm (adjustable presets)",
+        "Load capacity": "136 kg with anchor",
+        "Base design": "Rectangular 4-foot",
+        "Price": "$79.95",
+        "Anchor": "Wall strap included"
+      },
+      "scores": {
+        "Stability": 3.8,
+        "Load capacity": 4.0,
+        "Footprint": 4.2,
+        "Value": 4.4,
+        "Versatility": 2.6
+      },
+      "badge": "高身長ユーザーにベスト",
+      "review": "Ultimate Body Pressは、この比較で唯一高さ調整機能を持つスタンドアロンチンニングバーで、193〜244 cmをプリセットで調整可能 — ここで利用可能な最高設定です。ストレートオーバーハンドバーにはニュートラルまたはパラレルグリップハンドルは内蔵されていません。長方形の4フットベースは高い設定で80 kg超のユーザーの動的動作時にCAPのAフレーム設計より若干不安定ですが、付属のウォールアンカーストラップで解決できます。異なる身長のトレーニングパートナーとバーを共有する185 cm超のユーザーに最適です。",
+      "pros": [
+        "193〜244 cmの調整可能な高さ — この比較で最高設定",
+        "動的負荷下での安定性向上のためのウォールアンカーハードウェア同梱",
+        "コンパクトな長方形ベースが狭いスペースにも対応"
+      ],
+      "cons": [
+        "ストレートバーのみ — ニュートラルまたはパラレルグリップハンドルは内蔵なし"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "フル上半身トレーニングを求める多くのホームジムユーザーに",
+      "offerId": "fitness-reality-x2-power-tower",
+      "reason": "最低価格で管理しやすいフットプリントに4ステーション — 別途機器を購入せずにチンニング、ディップ、プッシュアップ、VKRをカバー。"
+    },
+    {
+      "label": "1センチメートルも惜しい小さな部屋に",
+      "offerId": "power-tower-workout-dip-station",
+      "reason": "この比較で最小のパワータワーフットプリントと最高の耐荷重 — スペースが制約要因の場合の正しい選択。"
+    },
+    {
+      "label": "パワータワーのかさばりなしにチンニングのみトレーニングしたい方に",
+      "offerId": "cap-barbell-freestanding-pull-up-bar",
+      "reason": "Aフレームの安定性と最小限の奥行きフットプリントで、フルパワータワーのスペース確保なしにチンニング能力を提供。"
+    },
+    {
+      "label": "ディップとVKRを頻繁に使用して最大限の快適さを求めるユーザーに",
+      "offerId": "weider-power-tower-200",
+      "reason": "より広いディップハンドルと厚いVKRパッドが、週3回以上これらのステーションに依存するアスリートへのプレミアムを正当化。"
+    },
+    {
+      "label": "調整可能な高さが必要な185 cm超のユーザーに",
+      "offerId": "ultimate-body-press-freestanding-bar",
+      "reason": "この比較で最高のバー設定244 cm — 膝を曲げたぶら下がりなしに非常に背の高いユーザーに対応できる唯一のスタンドアロンオプション。"
+    }
+  ]
 }

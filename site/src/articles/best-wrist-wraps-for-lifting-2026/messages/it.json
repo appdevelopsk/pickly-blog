@@ -53,5 +53,64 @@
     "sbd-wrist-wraps-competition": "45cm o 60cm, cotone tessuto approvato IPF, tensione coerente dalla chiusura alla fine — la scelta per gli atleti IPF che hanno bisogno di prestazioni affidabili nelle condizioni di competizione."
   },
   "pinDescription": "Schiek, SBD, Titan, Rogue, Harbinger — 5 bendaggi per il polso confrontati per rigidità, lunghezza e approvazione IPF. Trova quello giusto per panca piana, lento avanti e competizione powerlifting. #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni bendaggio è stato valutato sul rapporto rigidità-flessibilità sotto carichi di press pesanti, durabilità del velcro dopo 100+ sessioni, copertura per lunghezza, conformità IPF e periodo di rodaggio prima di adattarsi alla forma del polso.",
+  "products": [
+    {
+      "offerId": "schiek-wrist-wraps-24inch",
+      "badge": "Miglior in assoluto",
+      "review": "Il 1100WRP di Schiek ha il miglior rapporto rigidità-flessibilità della miscela cotone/elastico in questo confronto — il bendaggio da 24 pollici blocca il polso in posizione neutra sotto carico senza interferire con la meccanica corretta del percorso della barra nella panca piana. La cucitura inclinata dell'asola per il pollice impedisce le pieghe tra le serie. Non approvato IPF, il che conta solo se si compete in eventi di federazione testati.",
+      "pros": ["Miglior rapporto rigidità-flessibilità per il press pesante", "Cucitura inclinata dell'asola per il pollice previene le pieghe sotto carico", "Decenni di affidabilità provata per palestra e bodybuilding"],
+      "cons": ["Non approvato IPF — non idoneo per la competizione in federazione IPF"],
+      "grade": "A+",
+      "specs": {"Lunghezza": "24 pollici", "Materiale": "Miscela cotone/elastico", "Chiusura": "Velcro", "Approvato IPF": "No", "Asola pollice": "Cucitura inclinata", "Prezzo": "$24,95"},
+      "scores": {"Livello di supporto": 4.5, "Durabilita": 4.6, "Comfort": 4.4, "Rapporto qualita-prezzo": 4.5, "Lunghezza bendaggio": 4.8}
+    },
+    {
+      "offerId": "harbinger-21525-wrist-wraps",
+      "badge": "Miglior scelta economica",
+      "review": "I bendaggi in polipropilene da 20 pollici di Harbinger sono la raccomandazione corretta per i sollevatori intermedi che hanno bisogno di supporto funzionale al polso senza pagare i prezzi dei bendaggi da competizione. La lunghezza più corta consente di mettere e togliere più velocemente tra gli esercizi di spinta. Il polipropilene è più rigido per unità di spessore rispetto al cotone.",
+      "pros": ["I più veloci da mettere e togliere — utili nei circuiti di spinta", "Polipropilene più rigido per unità di spessore rispetto alle alternative in cotone", "Opzione più economica con vero supporto al polso in questo confronto"],
+      "cons": ["Lunghezza di 20 pollici offre meno copertura rispetto ai bendaggi da competizione di 24 pollici"],
+      "grade": "A",
+      "specs": {"Lunghezza": "20 pollici", "Materiale": "Polipropilene", "Chiusura": "Velcro regolabile", "Approvato IPF": "No", "Asola pollice": "Sì", "Prezzo": "$13,95"},
+      "scores": {"Livello di supporto": 3.8, "Durabilita": 4.3, "Comfort": 4.2, "Rapporto qualita-prezzo": 4.9, "Lunghezza bendaggio": 3.5}
+    },
+    {
+      "offerId": "titan-signature-gold-wrist-wraps",
+      "badge": "Miglior per powerlifting agonistico",
+      "review": "Le Signature Gold di Titan sono costruite per un unico obiettivo: massima restrizione dell'estensione del polso nei tentativi di panca piana a massimo sforzo. La miscela di cotone più densa e il velcro antiscivolo mantengono la tensione durante tutta una sessione — il principale punto di cedimento nei bendaggi più economici. La rigidità li rende impraticabili per le serie generali di riscaldamento.",
+      "pros": ["Approvate IPF per divisioni grezze e attrezzate", "Velcro antiscivolo mantiene la tensione senza scivolare per tutta una sessione", "Massima restrizione dell'estensione del polso per la panca piana agonistica"],
+      "cons": ["Troppo rigide per le serie generali di riscaldamento — rallenta la configurazione a intensità moderata"],
+      "grade": "B+",
+      "specs": {"Lunghezza": "24 pollici", "Materiale": "Miscela cotone pesante", "Chiusura": "Velcro antiscivolo", "Approvato IPF": "Sì", "Uso agonistico": "Grezzo e attrezzato", "Prezzo": "$36,99"},
+      "scores": {"Livello di supporto": 5.0, "Durabilita": 4.7, "Comfort": 3.8, "Rapporto qualita-prezzo": 3.9, "Lunghezza bendaggio": 4.8}
+    },
+    {
+      "offerId": "rogue-wrist-wraps",
+      "badge": "Miglior tuttofare",
+      "review": "I bendaggi Rogue da 18 pollici a rigidità moderata sono l'opzione più versatile per i sollevatori che alternano tra press in stile powerlifting e movimenti derivati dalla pesistica olimpica. La lunghezza più corta e la costruzione più flessibile in cotone/elastico consentono la mobilità del polso necessaria negli squat frontali, nei clean e in qualsiasi lavoro overhead. Realizzati a Columbus, Ohio.",
+      "pros": ["Versatili per panca piana, lento avanti e pesistica olimpica", "Lunghezza di 18 pollici adatta alla varietà di allenamento", "Produzione americana di Rogue con controllo qualità costante"],
+      "cons": ["Lunghezza di 18 pollici offre meno copertura rispetto ai 24 pollici per il press a massimo sforzo"],
+      "grade": "B",
+      "specs": {"Lunghezza": "18 pollici", "Materiale": "Miscela cotone/elastico", "Chiusura": "Velcro", "Approvato IPF": "No", "Prodotto a": "Columbus, Ohio, USA", "Prezzo": "$15,00"},
+      "scores": {"Livello di supporto": 4.0, "Durabilita": 4.5, "Comfort": 4.6, "Rapporto qualita-prezzo": 4.7, "Lunghezza bendaggio": 3.6}
+    },
+    {
+      "offerId": "sbd-wrist-wraps-competition",
+      "badge": "Miglior per atleti IPF",
+      "review": "La miscela di cotone intrecciato di SBD mantiene una tensione costante per tutta la lunghezza del bendaggio — stretta alla chiusura e ancora ferma a metà bendaggio, il che conta in gara quando gli assistenti non possono riwrappare tra i tentativi. Disponibile in 45cm e 60cm, entrambi approvati IPF. Il vero periodo di rodaggio (cinque o sei sessioni di rigidità innaturale) è l'unico punto di attrito.",
+      "pros": ["Più partecipazioni ai Campionati del Mondo IPF di panca piana di qualsiasi altro bendaggio", "Tensione costante dalla chiusura alla fine (nessun allentamento a metà bendaggio)", "Disponibile in 45cm e 60cm per soddisfare i requisiti agonistici"],
+      "cons": ["Periodo di rodaggio di 5–6 sessioni prima che si adattino e si mettano facilmente"],
+      "grade": "B-",
+      "specs": {"Opzioni di lunghezza": "45cm / 60cm", "Materiale": "Miscela cotone intrecciato", "Chiusura": "Velcro", "Approvato IPF": "Sì", "Rigidita": "Massima", "Prezzo": "$42,50"},
+      "scores": {"Livello di supporto": 5.0, "Durabilita": 4.9, "Comfort": 3.6, "Rapporto qualita-prezzo": 3.5, "Lunghezza bendaggio": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per i sollevatori seri in palestra", "offerId": "schiek-wrist-wraps-24inch", "reason": "Miglior equilibrio di rigidità complessivo per il press pesante in palestra senza l'overhead di rigidità dei bendaggi da competizione."},
+    {"label": "Per i sollevatori intermedi con budget limitato", "offerId": "harbinger-21525-wrist-wraps", "reason": "Vero supporto al polso al prezzo più basso in questo confronto — veloci da mettere e togliere tra le serie."},
+    {"label": "Per i powerlifter IPF (grezzo o attrezzato)", "offerId": "sbd-wrist-wraps-competition", "reason": "Tensione costante su tutto il bendaggio li rende la scelta del giorno di gara quando gli assistenti non possono riwrappare tra i tentativi."},
+    {"label": "Per forza generale + pesistica olimpica", "offerId": "rogue-wrist-wraps", "reason": "Rigidità moderata a 18 pollici funziona per press e movimenti olimpici senza cambiare bendaggio."},
+    {"label": "Per gli specialisti della panca piana agonistica", "offerId": "titan-signature-gold-wrist-wraps", "reason": "Massima restrizione dell'estensione con velcro antiscivolo — approvate IPF e progettate specificamente per il lockout nella panca piana agonistica."}
+  ]
 }

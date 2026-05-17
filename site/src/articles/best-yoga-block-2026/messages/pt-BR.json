@@ -92,5 +92,63 @@
     "prosource-firm-foam-block": "Melhor bloco de yoga de espuma firme de alta densidade — o bloco de espuma EVA mais duro nesta comparação, com bordas de corte quadrado que maximizam a estabilidade da superfície e a resistência à carga que se aproxima dos níveis da cortiça. Mais leve do que a cortiça na mesma rigidez. A escolha correta para praticantes que querem estabilidade semelhante à cortiça sem o peso, ou que preferem suporte firme não compressível, mas acham a textura da superfície da cortiça desconfortável na pele."
   },
   "pinDescription": "Melhores blocos de yoga 2026 comparados: cortiça vs densidade de espuma, dimensões padrão 9×6×4, borda vs face plana para posturas de equilíbrio — Manduka, cortiça Hugger Mugger, Gaiam Essentials, JadeYoga ou espuma firme ProSource para seu estilo de prática? #blocoDeYoga #yoga #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada produto foi avaliado em cinco critérios: qualidade de construção, desempenho em uso típico, durabilidade ao longo do tempo, conforto e custo-benefício. Ponderamos desempenho e durabilidade com maior peso porque determinam se o produto ainda é útil 12 meses depois.",
+  "products": [
+    {
+      "offerId": "manduka-recycled-foam-block",
+      "badge": "Melhor opção geral",
+      "review": "O bloco de espuma reciclada da Manduka oferece o melhor equilíbrio entre densidade, aderência e durabilidade. O material ecológico não sacrifica o desempenho e suporta aulas intensas com transpiração. O preço é um pouco mais alto, mas justificado como investimento a longo prazo.",
+      "pros": ["Material reciclado, ecologicamente responsável", "Excelente equilíbrio entre densidade e aderência", "Adequado para aulas com muita transpiração"],
+      "cons": ["Um pouco mais caro que os blocos de cortiça"],
+      "grade": "A+",
+      "specs": {"Material": "Espuma EVA reciclada", "Tamanho": "9×6×4 polegadas", "Peso": "aprox. 340g", "Cores": "várias"},
+      "scores": {"Densidade": 4.8, "Textura de aderência": 4.7, "Durabilidade": 4.8, "Custo-benefício": 4.3, "Opções de tamanho": 4.2}
+    },
+    {
+      "offerId": "hugger-mugger-cork-block",
+      "badge": "Melhor bloco de cortiça",
+      "review": "O bloco de cortiça da Hugger Mugger é mais duro que a espuma EVA e naturalmente resistente à transpiração. Deforma-se pouco com o uso prolongado e oferece mais estabilidade que a espuma nas posturas de equilíbrio. O peso adicional condiz com a qualidade.",
+      "pros": ["Cortiça natural, resistente à transpiração", "Maior dureza e estabilidade que a espuma", "Deforma-se pouco com uso prolongado"],
+      "cons": ["Mais pesado que os blocos de espuma"],
+      "grade": "A",
+      "specs": {"Material": "Cortiça natural", "Tamanho": "9×6×4 polegadas", "Peso": "aprox. 510g", "Acabamento": "natural"},
+      "scores": {"Densidade": 5.0, "Textura de aderência": 4.8, "Durabilidade": 4.9, "Custo-benefício": 4.1, "Opções de tamanho": 3.8}
+    },
+    {
+      "offerId": "gaiam-essentials-yoga-block",
+      "badge": "Melhor custo-benefício para iniciantes",
+      "review": "Gaiam Essentials é uma das opções mais econômicas para blocos de yoga e oferece desempenho suficiente para prática regular de 2-3 vezes por semana. A espuma é leve e boa para suportar posturas, mas para uso intensivo prolongado são preferíveis opções superiores.",
+      "pros": ["Preço muito acessível", "Leve e fácil de transportar", "Suficiente para prática regular de yoga"],
+      "cons": ["Durabilidade a longo prazo em uso intensivo inferior aos produtos premium"],
+      "grade": "B+",
+      "specs": {"Material": "Espuma EVA", "Tamanho": "9×6×4 polegadas", "Peso": "aprox. 200g", "Cores": "múltiplas"},
+      "scores": {"Densidade": 3.9, "Textura de aderência": 4.0, "Durabilidade": 3.8, "Custo-benefício": 5.0, "Opções de tamanho": 4.5}
+    },
+    {
+      "offerId": "jade-yoga-foam-block",
+      "badge": "Melhor para consciência ambiental",
+      "review": "JadeYoga é conhecida pelos seus tapetes ecológicos, e este bloco de espuma mantém a filosofia de fabricação respeitosa ao meio ambiente. A densidade é próxima da Manduka e a aderência é boa. O preço é superior ao Gaiam, mas adequado para quem apoia a transparência e o compromisso ambiental da marca.",
+      "pros": ["Marca com consciência ambiental", "Densidade e qualidade próximas da Manduka", "Boa aderência"],
+      "cons": ["Custo-benefício ligeiramente inferior à Manduka"],
+      "grade": "B",
+      "specs": {"Material": "Espuma EVA", "Tamanho": "9×6×4 polegadas", "Peso": "aprox. 230g", "Fabricação": "eco-responsável"},
+      "scores": {"Densidade": 4.4, "Textura de aderência": 4.5, "Durabilidade": 4.4, "Custo-benefício": 3.9, "Opções de tamanho": 3.7}
+    },
+    {
+      "offerId": "prosource-firm-foam-block",
+      "badge": "Melhor espuma de alta densidade",
+      "review": "O bloco de alta densidade da ProSource oferece dureza próxima à cortiça, mas mais leve. Ideal para posturas de equilíbrio e prática orientada à estabilidade, embora seja menos confortável nas posturas restaurativas devido à firmeza.",
+      "pros": ["Dureza próxima à cortiça com menos peso", "Mais leve que a cortiça", "Adequado para quem acha a textura da cortiça desconfortável"],
+      "cons": ["Menos amortecimento para posturas restaurativas"],
+      "grade": "B-",
+      "specs": {"Material": "Espuma EVA alta densidade", "Tamanho": "9×6×4 polegadas", "Peso": "aprox. 280g", "Firmeza": "alta"},
+      "scores": {"Densidade": 4.7, "Textura de aderência": 4.3, "Durabilidade": 4.5, "Custo-benefício": 4.2, "Opções de tamanho": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para quem busca o melhor bloco de yoga em geral", "offerId": "manduka-recycled-foam-block", "reason": "Melhor equilíbrio entre densidade, aderência e material ecológico para todos os estilos de yoga."},
+    {"label": "Para máxima estabilidade nas posturas de equilíbrio", "offerId": "hugger-mugger-cork-block", "reason": "A dureza da cortiça natural e a tolerância à transpiração maximizam a estabilidade nas posturas de equilíbrio."},
+    {"label": "Para iniciantes que experimentam blocos de yoga pela primeira vez", "offerId": "gaiam-essentials-yoga-block", "reason": "Preço acessível com desempenho suficiente para prática regular — minimiza o investimento inicial."},
+    {"label": "Para quem precisa de estabilidade próxima à cortiça sem o peso", "offerId": "prosource-firm-foam-block", "reason": "Oferece estabilidade similar à cortiça com menos peso — ideal para praticantes que se deslocam com frequência."}
+  ]
 }

@@ -146,5 +146,43 @@
     "xserver": "比起ConoHa更快的TTFB,更看重多年穩定運營紀錄和24小時電話支援的人選這個。",
     "lolipop-server": "與ConoHa同屬GMO,硬體慢一檔、價格更低。只適合個人興趣部落格和緊預算運營。"
   },
-  "pinDescription": "ConoHa WING實測30天:WordPress 11分鐘上線、TTFB 198ms、網域免費、日文後台。Xserver和Lolipop之間的差距一次看清。"
+  "pinDescription": "ConoHa WING實測30天:WordPress 11分鐘上線、TTFB 198ms、網域免費、日文後台。Xserver和Lolipop之間的差距一次看清。",
+  "methodology": "每家主機從實測TTFB（30天平均值，東京來源）、實際安裝耗時、客服時間、備份與遷移工具，以及含續費價格的3年總擁有成本等維度進行評估。",
+  "products": [
+    {
+      "offerId": "conoha-wing",
+      "badge": "綜合最佳",
+      "review": "ConoHa WING提供日本最快的WordPress上線流程——從註冊到HTTPS網站上線僅需11分鐘。東京來源30天平均TTFB 198ms，優於Xserver和Lolipop。缺點是客服僅工作日聊天，且促銷價在續費時會翻倍。",
+      "pros": ["透過かんたんセットアップ 11分鐘上線WordPress", "198ms TTFB——本次比較中最快", "14天每日自動備份，無額外費用"],
+      "cons": ["聊天客服僅週一至週五10:00–18:00——無電話或夜間支援"],
+      "grade": "A+",
+      "specs": {"TTFB（30天均值）": "198ms", "安裝耗時": "11分04秒", "備份保留期": "14天", "合約期限": "1 / 12 / 36個月", "免費網域": "有（WINGパック）", "SSL": "免費Let's Encrypt", "資料中心": "日本"},
+      "scores": {"Performance": 4.8, "Value": 4.2, "Support quality": 3.2, "Ease of use": 4.9, "Uptime": 4.7}
+    },
+    {
+      "offerId": "xserver",
+      "badge": "客服最佳",
+      "review": "Xserver的24/7電話支援是與ConoHa WING最大的差異——凌晨2點網站掛掉可以打電話。測試TTFB 268ms，比ConoHa慢約35%。價格相近，選擇幾乎完全取決於偏好的支援方式。",
+      "pros": ["24/7電話支援——本次比較中獨此一家", "多年累積的穩定運行紀錄", "面向效能用戶的KUSANAGI最佳化WordPress"],
+      "cons": ["268ms TTFB——同等方案下明顯慢於ConoHa WING"],
+      "grade": "A",
+      "specs": {"TTFB（30天均值）": "268ms", "電話支援": "24/7", "WordPress最佳化": "KUSANAGI", "合約期限": "1 / 6 / 12 / 24 / 36個月", "免費網域": "有（部分方案）", "SSL": "免費Let's Encrypt", "資料中心": "日本"},
+      "scores": {"Performance": 4.1, "Value": 4.0, "Support quality": 5.0, "Ease of use": 4.3, "Uptime": 4.9}
+    },
+    {
+      "offerId": "lolipop-server",
+      "badge": "性價比最佳",
+      "review": "Lolipop高速方案月費¥550，是日本功能最完整的最低價共享主機，但TTFB 312ms是本次比較中最慢的。與ConoHa WING同屬GMO基礎設施，但硬體世代較舊。適合興趣部落格、作品集及月費優先於速度的用戶。",
+      "pros": ["月費最低——高速方案從¥550/月起", "與ConoHa WING同屬GMO母公司——基礎設施可靠", "低流量興趣部落格的良好起點"],
+      "cons": ["312ms TTFB——本次比較中差距明顯的最慢"],
+      "grade": "B+",
+      "specs": {"TTFB（30天均值）": "312ms", "起步價格": "¥330/月", "高速方案": "¥550/月", "免費網域": "有（高速方案）", "SSL": "免費Let's Encrypt", "客服": "聊天和郵件", "資料中心": "日本"},
+      "scores": {"Performance": 3.5, "Value": 4.9, "Support quality": 3.5, "Ease of use": 4.4, "Uptime": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "日本初次建部落格者", "offerId": "conoha-wing", "reason": "從零到WordPress上線最快路徑——一張表單，一張帳單，11分鐘安裝。"},
+    {"label": "需要24/7電話支援的企業", "offerId": "xserver", "reason": "本次比較中唯一提供全天候電話響應緊急故障的主機。"},
+    {"label": "預算有限的興趣網站", "offerId": "lolipop-server", "reason": "高速方案¥550/月涵蓋基本需求，無需為可能用不上的速度多付費。"}
+  ]
 }

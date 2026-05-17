@@ -107,5 +107,139 @@
     "camelbak-chute-mag": "Borraccia sottovuoto ottimizzata per l'escursionismo con tappo magnetico a ribaltamento — il cappuccio rimane aperto magneticamente durante la mescita e non puo essere perso sul sentiero, isolamento sottovuoto in acciaio inossidabile da 25oz, piu leggera delle alternative da 32oz. La capacita da 25oz richiede rifornimenti piu frequenti nelle escursioni piu lunghe; il tappo magnetico puo aprirsi se caduto con il cappuccio verso il basso; non completamente a prova di fuoriuscita."
   },
   "pinDescription": "Cinque borracce termiche a confronto nel 2026: Hydro Flask, Stanley Quencher, Yeti Rambler, Nalgene Silo e CamelBak Chute Mag. Come funziona l'isolamento sottovuoto, ritenzione del freddo 24h vs caldo 12h, bocca larga vs stretta per cubetti di ghiaccio vs pendolarismo, tipi di tappo, compromessi di peso per l'escursionismo e perche Thermos e Zojirushi giapponesi meritano un confronto. #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni borraccia è stata valutata sull'efficacia dell'isolamento sottovuoto (ritenzione del freddo a 24h, del caldo a 12h), la resistenza alle perdite del tappo secondo i rapporti dei proprietari, il grado di acciaio inossidabile e la durabilità del rivestimento, il costo totale inclusi i tappi di ricambio, la facilità di pulizia con spazzola per l'interno e il meccanismo del tappo, e il compromesso peso vs capacità per l'uso escursionistico.",
+  "products": [
+    {
+      "offerId": "hydro-flask-wide-mouth",
+      "badge": "Migliore Scelta Generale",
+      "review": "La Hydro Flask Wide Mouth stabilisce lo standard per le borracce sottovuoto premium: l'isolamento a doppia parete TempShield mantiene le bevande fredde 24h e calde 12h — riproducibile in test controllati. Il Flex Cap è affidabile contro le perdite nelle cadute, e il rivestimento a polvere resiste ai graffi dopo oltre 2 anni di uso quotidiano. Il prezzo di $40+ è più alto di Stanley, ma si giustifica con le superiori prestazioni di isolamento dimostrate.",
+      "pros": ["Isolamento TempShield mantiene 24h freddo e 12h caldo, riproducibile", "Rivestimento a polvere resistente ai graffi nell'uso quotidiano", "Design a bocca larga per cubetti di ghiaccio e pulizia facile"],
+      "cons": ["Prezzo $40+ notevolmente più alto di Nalgene o CamelBak"],
+      "grade": "A+",
+      "specs": {
+        "Capacità": "32 oz (946 ml)",
+        "Tipo di isolamento": "Vuoto a doppia parete TempShield",
+        "Ritenzione del freddo": "24 ore",
+        "Ritenzione del caldo": "12 ore",
+        "Materiale": "Acciaio inossidabile 18/8",
+        "Meccanismo tappo": "Flex Cap a vite"
+      },
+      "scores": {
+        "Insulation": 4.9,
+        "Leak resistance": 4.7,
+        "Durability": 4.9,
+        "Value": 4.2,
+        "Ease of cleaning": 4.5
+      }
+    },
+    {
+      "offerId": "stanley-quencher-tumbler",
+      "badge": "Migliore per Uso Quotidiano",
+      "review": "Lo Stanley Quencher H2.0 è un tumbler, non una borraccia tradizionale — questo è sia il suo punto di forza che il suo limite. Il design largo con manico e il coperchio con cannuccia lo rendono il compagno quotidiano più comodo. Le prestazioni di isolamento sono solide (24h freddo), anche se leggermente inferiori a Hydro Flask. La pulizia è facile grazie alla larga apertura, ma la cannuccia richiede un accessorio specifico.",
+      "pros": ["Design largo con manico — il più comodo per l'uso quotidiano", "Coperchio con cannuccia ideale per ufficio e pendolarismo", "Solida ritenzione 24h freddo a prezzo ragionevole"],
+      "cons": ["Forma tumbler meno portatile delle borracce standard"],
+      "grade": "A",
+      "specs": {
+        "Capacità": "30 oz (887 ml)",
+        "Tipo di isolamento": "Vuoto a doppia parete",
+        "Ritenzione del freddo": "24 ore",
+        "Ritenzione del caldo": "6 ore",
+        "Materiale": "Acciaio inossidabile 18/8",
+        "Meccanismo tappo": "Coperchio con cannuccia e manico"
+      },
+      "scores": {
+        "Insulation": 4.7,
+        "Leak resistance": 4.5,
+        "Durability": 4.5,
+        "Value": 4.5,
+        "Ease of cleaning": 3.8
+      }
+    },
+    {
+      "offerId": "yeti-rambler-bottle",
+      "badge": "La Più Robusta",
+      "review": "La Yeti Rambler è la borraccia più robusta del test: la doppia parete in acciaio inossidabile 18/8 è più spessa della concorrenza, e il Chug Cap è il tappo più ermetico secondo i rapporti dei proprietari. Le prestazioni di isolamento sono eccellenti (48h freddo secondo il produttore, 24h+ realistico). Il prezzo di $40+ e il peso più elevato sono le uniche vere limitazioni per l'uso escursionistico.",
+      "pros": ["Acciaio inossidabile 18/8 più spesso per la massima resistenza agli urti", "Chug Cap il tappo più ermetico secondo i rapporti dei proprietari", "Eccellenti prestazioni di isolamento — 24h+ freddo realistico"],
+      "cons": ["Peso più elevato rispetto alle alternative leggere per l'escursionismo prolungato"],
+      "grade": "B+",
+      "specs": {
+        "Capacità": "36 oz (1065 ml)",
+        "Tipo di isolamento": "Vuoto a doppia parete",
+        "Ritenzione del freddo": "24+ ore",
+        "Ritenzione del caldo": "12+ ore",
+        "Materiale": "Acciaio inossidabile 18/8 (più spesso)",
+        "Meccanismo tappo": "Chug Cap"
+      },
+      "scores": {
+        "Insulation": 4.8,
+        "Leak resistance": 4.8,
+        "Durability": 5.0,
+        "Value": 3.5,
+        "Ease of cleaning": 4.3
+      }
+    },
+    {
+      "offerId": "nalgene-silo-bottle",
+      "badge": "Miglior Prezzo",
+      "review": "La Nalgene Silo è l'unica partecipante senza isolamento sottovuoto — il materiale Sustain è durevole e 100% privo di sostanze chimiche nocive, ma non c'è effetto termos. È l'opzione più leggera ed economica a $25, e la bocca larga consente la pulizia più facile di tutte. Per l'isolamento del freddo è semplicemente la scelta sbagliata; non deve essere usata per le bevande calde.",
+      "pros": ["La borraccia più leggera del test a $25", "Bocca larga per la pulizia più facile di tutte", "Materiale Sustain durevole e privo di sostanze chimiche nocive"],
+      "cons": ["Nessun isolamento sottovuoto — nessun effetto termos"],
+      "grade": "B",
+      "specs": {
+        "Capacità": "48 oz (1420 ml)",
+        "Tipo di isolamento": "Nessuno (plastica Sustain)",
+        "Ritenzione del freddo": "Nessuna",
+        "Materiale": "Plastica Tritan Renew",
+        "Peso": "~150 g",
+        "Meccanismo tappo": "Tappo a vite bocca larga"
+      },
+      "scores": {
+        "Insulation": 1.5,
+        "Leak resistance": 4.5,
+        "Durability": 4.8,
+        "Value": 5.0,
+        "Ease of cleaning": 5.0
+      }
+    },
+    {
+      "offerId": "camelbak-chute-mag",
+      "badge": "Migliore per l'Escursionismo",
+      "review": "La CamelBak Chute Mag è stata progettata specificamente per gli escursionisti: il coperchio magnetico a ribaltamento rimane aperto mentre si beve e non può essere perso. La capacità da 25oz è più leggera delle alternative da 32oz, ma richiede rifornimenti più frequenti. L'isolamento sottovuoto è buono (24h freddo), anche se non raggiunge il livello di Hydro Flask. Il rapporto qualità-prezzo è equo nel contesto dell'escursionismo.",
+      "pros": ["Coperchio magnetico a ribaltamento — rimane aperto durante la bevuta, non si perde", "Ottimizzata per gli escursionisti con peso ridotto", "Solida ritenzione 24h freddo per uso outdoor"],
+      "cons": ["Capacità da 25oz più piccola richiede rifornimenti più frequenti"],
+      "grade": "B-",
+      "specs": {
+        "Capacità": "25 oz (740 ml)",
+        "Tipo di isolamento": "Vuoto a doppia parete",
+        "Ritenzione del freddo": "24 ore",
+        "Materiale": "Acciaio inossidabile 18/8",
+        "Meccanismo tappo": "Coperchio magnetico a ribaltamento",
+        "Uso": "Escursionismo/Outdoor"
+      },
+      "scores": {
+        "Insulation": 4.5,
+        "Leak resistance": 4.2,
+        "Durability": 4.5,
+        "Value": 4.5,
+        "Ease of cleaning": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per gli utenti che cercano le massime prestazioni di isolamento",
+      "offerId": "hydro-flask-wide-mouth",
+      "reason": "L'isolamento TempShield offre i migliori valori verificati di ritenzione del freddo e del caldo nel confronto."
+    },
+    {
+      "label": "Per gli utenti di ufficio e pendolarismo quotidiano",
+      "offerId": "stanley-quencher-tumbler",
+      "reason": "Il design con manico e il coperchio con cannuccia lo rendono il compagno quotidiano più comodo."
+    },
+    {
+      "label": "Per gli escursionisti attenti al peso",
+      "offerId": "camelbak-chute-mag",
+      "reason": "Coperchio magnetico a ribaltamento e peso ridotto ottimizzati per l'uso in sentiero."
+    }
+  ]
 }

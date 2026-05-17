@@ -110,5 +110,183 @@
     "bamboo-standing-desk": "Un plateau en bambou associé à un châssis électrique assis-debout compatible, offrant une esthétique matériaux naturels, une surface antibactérienne (le bamboo-kun, le composé antimicrobien naturel du bambou, a une efficacité documentée contre plusieurs bactéries courantes), et le look chaleureux de bureau à domicile que les plateaux en mélamine et à âme MDF ne peuvent pas répliquer. Le bambou est plus dur que la plupart des bois tendres et résiste mieux aux égratignures de surface que les plateaux standard en mélamine. Les plateaux en bambou sont susceptibles de se déformer dans les environnements à forte humidité soutenue — les mois d'été japonais (juin–septembre) avec une humidité relative constamment supérieure à 70 % dans des appartements sans climatisation ou déshumidificateur fonctionnant toute l'année peuvent provoquer la dilatation, le gondolement et le soulèvement des bords des plateaux bambou en 1 à 2 saisons ; les plateaux en bambou sont plus lourds que les plateaux à âme MDF équivalents, réduisant la charge utile moteur effective disponible pour l'équipement ; le surcoût du bambou par rapport à l'âme MDF est typiquement de 10 000 à 20 000 yens sans bénéfice fonctionnel proportionnel."
   },
   "pinDescription": "5 bureaux assis-debout comparés en 2026 — du Flexispot E7 Pro double moteur flagship à l'IKEA Bekant sans fioritures. Calcul de tremblement. Moteur simple vs double. Réalité d'espace au Japon. Alerte déformation bambou. Capteurs anti-collision désormais standard sous 50 000 yens. Et la recherche sur les habitudes montrant que la plupart des gens restent debout moins de 30 min/jour",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "flexispot-e7-pro",
+      "badge": "Meilleur au global",
+      "review": "Le système à double moteur de l'E7 Pro (un par pied, synchronisés électroniquement) gère des charges de 125 kg à vitesse de levée constante sans l'accumulation de chaleur que montrent les entraînements à moteur unique sous des configurations lourdes. La détection d'obstacles anti-collision est standard — ce n'est pas une option. Le cadre en C offre un meilleur espace pour les genoux et un meilleur acheminement des câbles sous le bureau que les cadres à quatre pieds. Inconvénient : la géométrie du cadre en C produit plus de vacillement latéral que les designs à quatre pieds à hauteur maximale avec des moniteurs lourds.",
+      "pros": [
+        "Capacité double moteur de 125 kg — gère les stations de travail à double moniteur",
+        "Capteur anti-collision standard (pas en option)",
+        "Cadre en C offre le meilleur espace pour les genoux et l'acheminement des câbles"
+      ],
+      "cons": [
+        "Le cadre en C vacille plus que les cadres à quatre pieds à hauteur maximale avec des moniteurs lourds"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Moteur": "Dual (un par pied)",
+        "Capacité de charge": "125 kg",
+        "Plage de hauteur": "~60–125 cm",
+        "Préréglages mémoire": "4 positions",
+        "Anti-collision": "Standard",
+        "Type de cadre": "Cadre en C",
+        "Poids du bureau": "~50 kg"
+      },
+      "scores": {
+        "Height range": 4.8,
+        "Stability": 4.3,
+        "Motor quality": 4.9,
+        "Value": 4.2,
+        "Desktop size": 4.7
+      }
+    },
+    {
+      "offerId": "ikea-bekant-sit-stand",
+      "badge": "Meilleur économique",
+      "review": "Le Bekant est le bureau électrique assis-debout le plus accessible au Japon — disponible dans les magasins IKEA avec accès aux pièces en magasin et une garantie moteur et cadre de 5 ans que la plupart des concurrents sous ¥50.000 n'égalent pas. Le simple fonctionnement à deux boutons n'a pas de courbe d'apprentissage. Inconvénient : pas de préréglages mémoire, repositionnement manuel à chaque fois ; le moteur unique est plus lent et plus bruyant, et la hauteur maximale de 125 cm peut être insuffisante pour les utilisateurs de plus de 180 cm.",
+      "pros": [
+        "Garantie moteur et cadre de 5 ans — rare à ce prix",
+        "Disponible dans les magasins IKEA Japon avec accès aux pièces en magasin",
+        "Commande simple à deux boutons sans configuration requise"
+      ],
+      "cons": [
+        "Pas de préréglages mémoire ; moteur plus lent et bruyant ; hauteur maximale de 125 cm limite les grands utilisateurs"
+      ],
+      "grade": "A",
+      "specs": {
+        "Moteur": "Unique",
+        "Capacité de charge": "Non évalué (typ. ~70 kg)",
+        "Plage de hauteur": "65–125 cm",
+        "Préréglages mémoire": "Aucun",
+        "Anti-collision": "Non",
+        "Taille du plateau": "70 × 120 cm",
+        "Garantie": "5 ans moteur et cadre"
+      },
+      "scores": {
+        "Height range": 3.8,
+        "Stability": 3.6,
+        "Motor quality": 3.5,
+        "Value": 4.8,
+        "Desktop size": 3.8
+      }
+    },
+    {
+      "offerId": "autonomous-smartdesk-pro",
+      "badge": "Meilleur milieu de gamme",
+      "review": "Quatre préréglages programmables, un moteur plus silencieux que les entraînements de niveau IKEA et un écosystème d'applications avec des rappels de posture et un enregistrement des changements de hauteur placent le SmartDesk Pro dans le point idéal entre budget et premium. Le plateau est vendu séparément offrant une flexibilité de matériau et de taille. Inconvénient : Autonomous est une marque américaine avec des délais d'importation de 2–4 semaines au Japon.",
+      "pros": [
+        "4 préréglages mémoire programmables pour un changement de hauteur instantané",
+        "Les rappels de posture de l'app augmentent le temps debout réel",
+        "Large choix de tailles et de matériaux de plateau dont le bambou"
+      ],
+      "cons": [
+        "Marque américaine — 2–4 semaines de livraison au Japon ; réclamations de garantie internationales signalées comme difficiles"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Moteur": "Unique (silencieux)",
+        "Capacité de charge": "136 kg",
+        "Plage de hauteur": "~65–132 cm",
+        "Préréglages mémoire": "4 positions",
+        "Anti-collision": "Oui",
+        "Plateau": "Vendu séparément",
+        "Livraison en France": "Standard"
+      },
+      "scores": {
+        "Height range": 4.7,
+        "Stability": 4.1,
+        "Motor quality": 4.3,
+        "Value": 4.0,
+        "Desktop size": 4.5
+      }
+    },
+    {
+      "offerId": "okamura-swift-desk",
+      "badge": "Meilleur pour les entreprises japonaises",
+      "review": "Okamura est le fabricant de mobilier de bureau japonais dominant et la série Swift est leur bureau assis-debout phare — profil fin, standards de fabrication japonais et un réseau de service national qui couvre les réclamations de garantie sans expédition internationale. Dans les environnements d'entreprise japonais, le Swift est la référence. Inconvénient : le prix d'entrée de ¥80.000+ est le plus élevé de cette comparaison, et la disponibilité au détail se fait principalement via les circuits d'achat d'entreprise.",
+      "pros": [
+        "Fabrication japonaise avec réseau de service national",
+        "Profil fin optimisé pour les dimensions de bureau japonaises",
+        "Fiabilité à long terme éprouvée dans les déploiements d'entreprise"
+      ],
+      "cons": [
+        "Prix le plus élevé de la comparaison ; principalement vendu via les circuits d'entreprise, pas au détail"
+      ],
+      "grade": "B",
+      "specs": {
+        "Moteur": "Électrique (dual dans les configurations premium)",
+        "Capacité de charge": "80–100 kg",
+        "Plage de hauteur": "~62–127 cm",
+        "Préréglages mémoire": "Oui",
+        "Anti-collision": "Oui (modèles sélectionnés)",
+        "Origine": "Japon",
+        "Distribution": "Achat d'entreprise / showrooms"
+      },
+      "scores": {
+        "Height range": 4.4,
+        "Stability": 4.7,
+        "Motor quality": 4.5,
+        "Value": 3.2,
+        "Desktop size": 4.3
+      }
+    },
+    {
+      "offerId": "bamboo-standing-desk",
+      "badge": "Meilleur pour l'esthétique",
+      "review": "Un plateau en bambou associé à un cadre électrique assis-debout offre la chaleur naturelle du matériau et de véritables propriétés antibactériennes (composé bambou-kun) que les plateaux en mélamine et à cœur MDF ne peuvent pas reproduire. Inconvénient : le bambou se déforme sous une humidité élevée soutenue ; les mois d'été au Japon (juin–septembre, 70–90% HR) dans des appartements sans climatisation peuvent provoquer un gauchissement et un soulèvement des bords en 1–2 saisons.",
+      "pros": [
+        "Esthétique naturelle du bambou — chaleur que la mélamine ne peut pas reproduire",
+        "Propriétés antibactériennes naturelles de la surface bambou-kun",
+        "Matériau écologique avec une empreinte carbone plus faible que le MDF"
+      ],
+      "cons": [
+        "Se déforme dans l'humidité estivale du Japon (70–90% HR) sans climatisation toute l'année"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Matériau du plateau": "Bambou laminé",
+        "Surface": "Antibactérienne (bambou-kun)",
+        "Prime de prix sur MDF": "¥10.000–20.000",
+        "Sensibilité à l'humidité": "Élevée — se déforme au-dessus de 70% HR soutenu",
+        "Poids vs MDF": "Plus lourd (réduit la charge utile du moteur)",
+        "Compatibilité du cadre": "La plupart des cadres assis-debout"
+      },
+      "scores": {
+        "Height range": 4.5,
+        "Stability": 4.0,
+        "Motor quality": 4.5,
+        "Value": 3.8,
+        "Desktop size": 4.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les stations de travail à double moniteur lourd",
+      "offerId": "flexispot-e7-pro",
+      "reason": "Les moteurs duels gèrent des charges lourdes à vitesse constante sans accumulation de chaleur, et la détection anti-collision est standard — le seul cadre ici entièrement équipé pour les configurations à forte demande dès la sortie de la boîte."
+    },
+    {
+      "label": "Pour les premiers acheteurs de bureau assis-debout au Japon",
+      "offerId": "ikea-bekant-sit-stand",
+      "reason": "La disponibilité en magasin dans les magasins IKEA Japon, la garantie de 5 ans et le fonctionnement simple en font le point d'entrée le moins contraignant pour quiconque essaie un bureau assis-debout pour la première fois."
+    },
+    {
+      "label": "Pour les professionnels du bureau à domicile souhaitant des fonctionnalités intelligentes",
+      "offerId": "autonomous-smartdesk-pro",
+      "reason": "Quatre préréglages et l'intégration de l'app pour les rappels de posture favorisent le comportement debout réel — le rappel piloté par l'app est plus efficace pour changer les habitudes assis-debout que le matériel du bureau seul."
+    },
+    {
+      "label": "Pour une utilisation en entreprise japonaise ou en bureau à domicile à long terme",
+      "offerId": "okamura-swift-desk",
+      "reason": "Le réseau de service national et les normes de fabrication japonaises éliminent les complications logistiques d'importation et de garantie qui affectent toutes les alternatives de marques américaines pour les acheteurs basés au Japon."
+    },
+    {
+      "label": "Pour l'esthétique du bureau à domicile avec climatisation",
+      "offerId": "bamboo-standing-desk",
+      "reason": "La chaleur du bambou et les propriétés antibactériennes sont de véritables avantages dans les espaces climatisés — la mise en garde sur l'humidité disparaît avec un déshumidificateur ou une climatisation toute l'année."
+    }
+  ]
 }

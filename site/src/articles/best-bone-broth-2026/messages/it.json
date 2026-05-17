@@ -61,5 +61,64 @@
     "bare-bones-broth": "Formula pulita a 4 ingredienti, manzo allevato a erba, marchio a conduzione femminile"
   },
   "pinDescription": "5 migliori brodi d'ossa classificati per proteine, collagene e sourcing — dal pratico a lunga conservazione al premium in bottiglia di vetro. Trova la scelta giusta per la salute intestinale, le articolazioni o la cucina. #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni prodotto è stato valutato per profilo aromatico, trasparenza dell'approvvigionamento, rapporto qualità-prezzo, integrità della confezione e utilità pratica. Le certificazioni e le recensioni verificate sono state confrontate con le dichiarazioni di marketing.",
+  "products": [
+    {
+      "offerId": "kettle-fire-beef-broth",
+      "badge": "Migliore in assoluto",
+      "review": "Kettle & Fire è il riferimento per il brodo d'ossa a lunga conservazione: ossa di manzo nutrito a erba, 10 g di proteine per porzione, tetra pak senza necessità di refrigerazione. Il sapore è pulito e saporito — abbastanza delicato da bere, abbastanza sostanzioso come base per brasati. Il trattamento UHT riduce leggermente alcuni aminoacidi, ma il compromesso con la praticità è accettabile.",
+      "pros": ["Lunga conservazione — nessun bisogno di spazio nel frigorifero", "10 g di proteine per porzione da ossa di manzo al pascolo", "Lista corta di ingredienti con verdure biologiche"],
+      "cons": ["Il trattamento UHT può ridurre leggermente alcuni aminoacidi rispetto ai prodotti refrigerati"],
+      "grade": "A+",
+      "specs": {"Proteine": "10 g/porzione", "Formato": "Tetra Pak (lunga conservazione)", "Ossa": "Manzo al pascolo", "Porzione": "240 ml", "Verdure bio": "Sì"},
+      "scores": {"Qualità": 4.5, "Gusto": 4.3, "Rapporto qualità-prezzo": 4.4, "Nutrizione": 4.4, "Praticità": 4.9}
+    },
+    {
+      "offerId": "fond-bone-broth",
+      "badge": "Miglior premium",
+      "review": "FOND è il brodo d'ossa per chi legge ogni etichetta: allevamento al pascolo, certificato biologico, bottiglie di vetro, spedizione refrigerata. Si rapprende in gelatina soda in frigorifero — l'indicatore visivo di un'elevata concentrazione di gelatina. Il sapore ricco alle erbe è ottimo da bere direttamente, ma può essere troppo pronunciato per usi culinari neutri.",
+      "pros": ["Si rapprende sodo in frigorifero — alto contenuto di collagene e gelatina confermato", "Bottiglie di vetro — nessuna migrazione di plastica", "Allevamento al pascolo, certificato biologico"],
+      "cons": ["Circa il doppio del prezzo di Kettle & Fire — solo spedizione refrigerata"],
+      "grade": "A",
+      "specs": {"Proteine": "ca. 9–10 g/porzione", "Formato": "Bottiglia di vetro (refrigerato)", "Ossa": "Pascolo, certificato biologico", "Gelatina": "Si rapprende sodo in frigorifero", "Cottura": "Bollitura lenta con erbe aromatiche"},
+      "scores": {"Qualità": 4.9, "Gusto": 4.7, "Rapporto qualità-prezzo": 3.2, "Nutrizione": 4.8, "Praticità": 3.5}
+    },
+    {
+      "offerId": "pacific-foods-bone-broth",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "review": "Pacific Foods è il brodo che si trova al supermercato senza pianificazione — certificato USDA Bio, circa $5–7 per 32 oz. Proteine a 9–10 g/porzione, sapore pulito e neutro, ideale quando il brodo è un ingrediente e non il protagonista. Non si rapprende in frigorifero — concentrazione di gelatina più bassa.",
+      "pros": ["USDA Bio a prezzi della grande distribuzione", "Ampiamente disponibile da Costco, Target e supermercati", "Sapore neutro ideale per le applicazioni culinarie"],
+      "cons": ["Non si rapprende in frigorifero — concentrazione di gelatina più bassa rispetto alle alternative premium"],
+      "grade": "B+",
+      "specs": {"Proteine": "9–10 g/porzione", "Formato": "Tetra Pak (lunga conservazione)", "Certificazione": "USDA Bio", "Disponibilità": "Ampia distribuzione", "Basso sodio": "Opzione disponibile"},
+      "scores": {"Qualità": 3.9, "Gusto": 3.8, "Rapporto qualità-prezzo": 4.7, "Nutrizione": 3.9, "Praticità": 4.8}
+    },
+    {
+      "offerId": "ancient-nutrition-bone-broth",
+      "badge": "Miglior dose di collagene",
+      "review": "Ancient Nutrition offre 20 g di proteine del collagene per porzione da fonti bovine, pollo, pesce e albume — ben oltre i 7–12 g dei brodi liquidi. Si dissolve senza grumi in bevande calde o fredde. Onestamente: è un integratore di collagene sotto l'etichetta brodo d'ossa, non un brodo con profondità di sapore o utilità culinaria.",
+      "pros": ["20 g di proteine del collagene/porzione — il più alto tra tutti i prodotti presentati", "Collagene multi-fonte (bovino, pollo, pesce, albume)", "Si dissolve senza grumi in bevande calde e fredde"],
+      "cons": ["Nessun sapore di brodo, nessun aroma, nessuna utilità culinaria — è un integratore"],
+      "grade": "B",
+      "specs": {"Proteine": "20 g collagene/porzione", "Formato": "Polvere", "Fonti collagene": "Bovino, pollo, pesce, albume", "Sapori": "Naturale, cioccolato, vaniglia", "Disponibilità": "Costco, Walmart, rivenditori integratori"},
+      "scores": {"Qualità": 4.2, "Gusto": 3.5, "Rapporto qualità-prezzo": 4.0, "Nutrizione": 4.9, "Praticità": 4.5}
+    },
+    {
+      "offerId": "bare-bones-broth",
+      "badge": "Etichetta più pulita",
+      "review": "Bare Bones usa una formula a 4 ingredienti — ossa, acqua, aceto di mele, sale marino — senza aromi naturali, estratto di lievito o stabilizzanti. 100% manzo al pascolo, si rapprende leggermente in frigorifero (conferma il contenuto reale di gelatina), 10 g di proteine/porzione. Sapore diretto e saporito di manzo, ottimo sia da bere che per cucinare. Prezzo intermedio tra la grande distribuzione e FOND.",
+      "pros": ["Formula a 4 ingredienti — senza additivi", "Si rapprende leggermente in frigorifero — contenuto di gelatina reale", "Marchio fondato da una donna, tracciabilità dell'origine"],
+      "cons": ["Meno disponibile di Pacific Foods o Kettle & Fire"],
+      "grade": "B-",
+      "specs": {"Proteine": "10 g/porzione", "Formato": "Tetra Pak (lunga conservazione) + buste surgelate", "Ossa": "100% manzo al pascolo", "Ingredienti": "4 (ossa, acqua, aceto di mele, sale marino)", "Gelatina": "Si rapprende leggermente in frigorifero"},
+      "scores": {"Qualità": 4.6, "Gusto": 4.4, "Rapporto qualità-prezzo": 3.8, "Nutrizione": 4.6, "Praticità": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per chi privilegia la dispensa", "offerId": "kettle-fire-beef-broth", "reason": "Lunga conservazione, ordinabile in cassette online — la scelta pratica predefinita per consumo quotidiano o cucina infrasettimanale."},
+    {"label": "Per i protocolli di salute intestinale", "offerId": "fond-bone-broth", "reason": "Si rapprende sodo, spedizione refrigerata, massimo contenuto di gelatina — se collagene e glicina sono il vero obiettivo, il prezzo extra è giustificato."},
+    {"label": "Per cucinare in grandi quantità", "offerId": "pacific-foods-bone-broth", "reason": "USDA Bio a prezzi Costco — la scelta giusta quando il brodo è un ingrediente, non il piatto principale."},
+    {"label": "Per massimizzare l'apporto di collagene", "offerId": "ancient-nutrition-bone-broth", "reason": "Un cucchiaio fornisce 20 g di collagene multi-fonte — il modo più efficiente per arricchire un frullato o un caffè mattutino."},
+    {"label": "Per i lettori di etichette", "offerId": "bare-bones-broth", "reason": "Quattro ingredienti, senza additivi, manzo al pascolo — il brodo d'ossa standard più pulito di questa categoria."}
+  ]
 }

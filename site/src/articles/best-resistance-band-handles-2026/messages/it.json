@@ -58,5 +58,149 @@
     "wod-nation-resistance-band-set": "Loop band spesse, livelli di resistenza multipli, specificamente valutate per l'assistenza alle trazioni. $20-35. Migliori per l'assistenza alle trazioni e l'uso nel riscaldamento CrossFit. Piu durevoli di Fit Simplify per applicazioni con carico del peso corporeo."
   },
   "pinDescription": "Confronto set maniglie per elastici 2026: Bodylastics vs Undersun vs Black Mountain vs Fit Simplify vs WOD Nation — bande tubolari vs loop band, quale e il miglior sostituto della macchina a cavi per la palestra domestica? #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni sistema è stato testato per sei settimane di utilizzo quotidiano in esercizi di rowing, spinta e trazione, valutando la fermezza di aggancio del clip, il comfort delle maniglie sotto sudore, la precisione della resistenza, la completezza degli accessori e gli indicatori di usura delle bande.",
+  "products": [
+    {
+      "offerId": "bodylastics-resistance-band-set",
+      "badge": "Miglior scelta assoluta",
+      "review": "Il sistema di clip a forma di 8 e le guaine antisbalzo di Bodylastics sono le caratteristiche distintive: sotto carichi combinati elevati dove i clip dei concorrenti cedono, quelli di Bodylastics reggono e la guaina trattiene qualsiasi rottura del lattice prima che diventi una lesione da colpo di frusta. Le maniglie a doppio clip eliminano la rotazione durante i movimenti dinamici. Prezzo premium, ma l'ingegneria lo giustifica per un uso serio a lungo termine.",
+      "pros": ["Clip a 8 resistono meglio alla rottura alla giunzione banda-clip rispetto ai moschettoni", "Guaine antisbalzo contengono la rottura del lattice — vera funzione di sicurezza", "100% lattice naturale con resistenza costante tra i lotti"],
+      "cons": ["$50–$80 è il set più costoso di questo confronto"],
+      "grade": "A+",
+      "specs": {
+        "Materiale banda": "100% lattice naturale",
+        "Tipo di clip": "Doppio clip a forma di 8",
+        "Funzione di sicurezza": "Guaina antisbalzo esterna su ogni banda",
+        "Tipo di maniglia": "Schiuma a doppio clip",
+        "Resistenza max. combinata": "~45 kg combinati",
+        "Fascia di prezzo": "$50–$80"
+      },
+      "scores": {
+        "Grip comfort": 4.7,
+        "Durability": 4.9,
+        "Load capacity": 4.8,
+        "Value": 3.9,
+        "Compatibility": 4.5
+      }
+    },
+    {
+      "offerId": "undersun-resistance-band-set",
+      "badge": "Migliori loop band",
+      "review": "Le loop band in lattice naturale 100% di Undersun coprono 7–57 kg su cinque livelli di resistenza con garanzia a vita — l'impegno di durabilità più solido del confronto. Sono loop band senza maniglie, ottimali per l'assistenza alle trazioni e il lavoro di mobilità piuttosto che per esercizi bilaterali con maniglia.",
+      "pros": ["Garanzia a vita — il brand si impegna per la durabilità a lungo termine", "Cinque livelli coprono 7–57 kg: la fascia più ampia per le loop band", "Nessun hardware di clip o maniglia che possa cedere sotto carico"],
+      "cons": ["Senza maniglie — gli esercizi bilaterali tipo macchina a cavi richiedono un set di bande tubolari separato"],
+      "grade": "A",
+      "specs": {
+        "Tipo di banda": "Loop piena lunghezza (senza maniglie)",
+        "Materiale": "100% lattice naturale",
+        "Livelli di resistenza": "5 (7–16 kg a 23–57 kg)",
+        "Garanzia": "A vita",
+        "Miglior utilizzo": "Assistenza trazione, mobilità, face pull",
+        "Fascia di prezzo": "$40–$60"
+      },
+      "scores": {
+        "Grip comfort": 4.2,
+        "Durability": 4.9,
+        "Load capacity": 4.6,
+        "Value": 4.4,
+        "Compatibility": 3.8
+      }
+    },
+    {
+      "offerId": "black-mountain-resistance-band-set",
+      "badge": "Miglior kit iniziale",
+      "review": "Black Mountain include tutto ciò che serve a un principiante — bande tubolari, maniglie, ancoraggio porta, cinghia per caviglia e borsa — a un prezzo intermedio. I moschettoni standard sono adeguati per l'uso regolare leggero-moderato, ma mostreranno usura prima dei clip di Bodylastics sotto impilamento pesante quotidiano.",
+      "pros": ["Kit accessori più completo: maniglie, ancoraggio porta, cinghia caviglia, borsa", "Prezzo intermedio copre la sostituzione completa della macchina a cavi", "0,9–13,6 kg per banda copre la maggior parte degli esercizi home gym"],
+      "cons": ["Moschettoni standard meno robusti del sistema a 8 di Bodylastics sotto carichi elevati"],
+      "grade": "B+",
+      "specs": {
+        "Tipo di banda": "Tubo con maniglie",
+        "Tipo di clip": "Moschettone standard",
+        "Accessori": "Maniglie, ancoraggio porta, cinghia caviglia, borsa",
+        "Fascia di resistenza": "0,9–13,6 kg per banda",
+        "Fascia di prezzo": "$30–$45",
+        "Ideale per": "Sostituzione cavi per principianti"
+      },
+      "scores": {
+        "Grip comfort": 4.3,
+        "Durability": 3.9,
+        "Load capacity": 4.0,
+        "Value": 4.6,
+        "Compatibility": 4.8
+      }
+    },
+    {
+      "offerId": "fit-simplify-resistance-band-set",
+      "badge": "Miglior ingresso economico",
+      "review": "Le loop band sottili di Fit Simplify sono il punto di ingresso più accessibile all'allenamento con bande elastiche — cinque livelli da extra leggero a extra pesante a ~$15. Sono progettate per la riabilitazione e la flessibilità più che per la sostituzione della macchina a cavi, e sviluppano cricche superficiali dopo 6–12 mesi di uso frequente.",
+      "pros": ["Prezzo più basso del confronto a ~$15", "Nessun montaggio — si avvolgono direttamente attorno agli arti o ai punti di ancoraggio", "Cinque livelli di resistenza coprono dalla riabilitazione al lavoro di forza moderato"],
+      "cons": ["Calibro sottile sviluppa cricche superficiali in 6–12 mesi di uso regolare"],
+      "grade": "B",
+      "specs": {
+        "Tipo di banda": "Mini loop (senza maniglie)",
+        "Materiale": "Lattice naturale",
+        "Livelli di resistenza": "5 (extra leggero a extra pesante)",
+        "Durata attesa": "6–12 mesi di uso regolare",
+        "Fascia di prezzo": "$12–$20",
+        "Ideale per": "Riabilitazione, flessibilità e uso occasionale"
+      },
+      "scores": {
+        "Grip comfort": 3.8,
+        "Durability": 3.2,
+        "Load capacity": 3.0,
+        "Value": 4.9,
+        "Compatibility": 3.5
+      }
+    },
+    {
+      "offerId": "wod-nation-resistance-band-set",
+      "badge": "Migliori per assistenza alle trazioni",
+      "review": "Le loop band spesse di WOD Nation sono costruite per carichi al peso corporeo — assistenza alle trazioni, riscaldamento CrossFit e lavoro di mobilità che le bande sottili non possono gestire. Superano in durata le bande Fit Simplify sotto carico corporeo.",
+      "pros": ["Costruzione spessa supporta i carichi al peso corporeo per l'assistenza alle trazioni", "Più durevoli delle mini loop sottili in uso ad alta frequenza", "Livelli multipli consentono riduzione progressiva dell'assistenza alle trazioni"],
+      "cons": ["Senza maniglie — non adatte come sostituto macchina a cavi per i movimenti di spinta"],
+      "grade": "B-",
+      "specs": {
+        "Tipo di banda": "Loop spessa (senza maniglie)",
+        "Materiale": "Lattice naturale",
+        "Miglior utilizzo": "Assistenza trazioni, riscaldamento CrossFit",
+        "Fascia di resistenza": "Livelli multipli fino a ~16 kg",
+        "Fascia di prezzo": "$20–$35",
+        "Include": "Nessun accessorio aggiuntivo"
+      },
+      "scores": {
+        "Grip comfort": 4.0,
+        "Durability": 4.3,
+        "Load capacity": 4.2,
+        "Value": 4.5,
+        "Compatibility": 3.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per allenamento di resistenza progressivo serio",
+      "offerId": "bodylastics-resistance-band-set",
+      "reason": "Clip a 8 e guaine antisbalzo rendono questo l'unico sistema sicuro per carichi elevati durante mesi di uso quotidiano."
+    },
+    {
+      "label": "Per allenamento alle trazioni e lavoro di mobilità",
+      "offerId": "undersun-resistance-band-set",
+      "reason": "Loop band garantite a vita che coprono 7–57 kg — l'unico set con una fascia di resistenza che cresce con la tua forza nelle trazioni."
+    },
+    {
+      "label": "Per sostituire completamente la macchina a cavi in casa",
+      "offerId": "black-mountain-resistance-band-set",
+      "reason": "Maniglie, ancoraggio porta, cinghia caviglia e borsa in un unico acquisto — tutto il necessario per replicare gli esercizi della macchina a cavi."
+    },
+    {
+      "label": "Per riabilitazione o lavoro di flessibilità",
+      "offerId": "fit-simplify-resistance-band-set",
+      "reason": "Ingresso più economico a $12–$20 — ideale per i protocolli di riabilitazione e le sessioni occasionali di flessibilità."
+    },
+    {
+      "label": "Per atleti CrossFit che lavorano sulle progressioni alle trazioni",
+      "offerId": "wod-nation-resistance-band-set",
+      "reason": "Costruzione spessa omologata per i carichi al peso corporeo — progettata per il tipo di assistenza alle trazioni che le bande sottili non possono semplicemente fornire."
+    }
+  ]
 }

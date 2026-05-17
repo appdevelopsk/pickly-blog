@@ -89,5 +89,62 @@
     "panasonic-eh-na0j": "Melhor para controle diário de frizz e danos — a tecnologia nanoe tem pesquisa publicada real, modo de couro cabeludo a 60°C, garantia doméstica do Japão. Nota: é um secador de cabelo, não um penteador de cachos; escolha errada se o objetivo é criar cachos."
   },
   "pinDescription": "Dyson Airwrap vs Shark FlexStyle vs GHD Max vs opções econômicas — comparação honesta 2026 sobre compatibilidade com tipo de cabelo, risco real de dano por calor e se a diferença de preço realmente aparece no resultado. #ferramentasParaCabelo #português",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "Cada ferramenta foi avaliada por mecanismo de calor (fluxo de ar Coanda vs placa direta), compatibilidade com tipo de cabelo, duração da curva de aprendizado segundo relatos de usuários, tempo real de sessão em cabelo espesso vs fino e custo por uso em 3 anos na frequência típica de uso.",
+  "products": [
+    {
+      "offerId": "dyson-airwrap-multi-styler",
+      "badge": "Melhor no geral",
+      "review": "O mecanismo de fluxo de ar Coanda do Airwrap envolve o cabelo a ~150°C sem contato direto de placa — entrega de calor significativamente menor que uma chapinha a 200°C+. Em cabelo fino a médio produz ondas e volume naturais que nenhuma chapinha consegue replicar. O real trade-off é a curva de aprendizado de 2–4 semanas e seu fracasso em cabelo grosso ou áspero onde o fluxo de ar não consegue penetrar seções densas.",
+      "pros": ["Barril Coanda a ~150°C — menor calor que chapinhas a 185–220°C", "Ondas e volume naturais em cabelo fino/médio — irreplicáveis com chapinha", "Múltiplos acessórios para secar, ondular e alisar em um só aparelho"],
+      "cons": ["Curva de aprendizado de 2–4 semanas para resultados consistentes; ruim em cabelo grosso ou áspero"],
+      "grade": "A+",
+      "specs": {"Tecnologia": "Fluxo de ar Coanda", "Temp. do barril": "~150°C", "Preço (JP)": "¥66.000–¥80.000", "Tipo de cabelo": "Fino a médio", "Curva de aprendizado": "2–4 semanas", "Método de styling": "Envolvimento por ar (sem contato de placa)", "Inclui": "Múltiplos acessórios"},
+      "scores": {"Heat performance": 4.5, "Hair protection": 4.8, "Build quality": 4.9, "Value": 3.0, "Ease of use": 3.5}
+    },
+    {
+      "offerId": "shark-flexstyle",
+      "badge": "Melhor custo-benefício Coanda",
+      "review": "O FlexStyle entrega o mesmo mecanismo de efeito Coanda que o Airwrap a aproximadamente 60% do preço, e adiciona um modo secador que o Airwrap não tem. A escolha de valor mais honesta para cabelo de espessura média ou ondulado. Para compradores no Japão: apenas importação paralela disponível (120V americano), funcionando com fluxo de ar reduzido nos 100V do Japão — verificação de voltagem necessária.",
+      "pros": ["Mesmo mecanismo de efeito Coanda que o Dyson Airwrap a ~60% do preço", "Inclui modo secador — o Airwrap não tem função de secagem", "Melhor relação resultado-preço nesta comparação para cabelo ondulado"],
+      "cons": ["Apenas importação paralela no Japão — modelo norte-americano 120V com fluxo reduzido a 100V; sem garantia doméstica"],
+      "grade": "A",
+      "specs": {"Tecnologia": "Fluxo de ar Coanda + secador", "Preço (JP)": "¥35.000–¥45.000 (imp. paralela)", "Tipo de cabelo": "Médio a ondulado", "Voltagem": "120V (verificar antes de comprar no Japão)", "Inclui": "Acessórios styler + cabeça secador", "Curva de aprendizado": "1–3 semanas", "Garantia": "Nenhuma no Japão"},
+      "scores": {"Heat performance": 4.3, "Hair protection": 4.5, "Build quality": 4.3, "Value": 4.7, "Ease of use": 3.8}
+    },
+    {
+      "offerId": "revlon-one-step-volumizer",
+      "badge": "Melhor preço",
+      "review": "O Revlon One-Step combina uma escova redonda e um secador em uma ferramenta — secar e adicionar volume simultaneamente em temperaturas normais de secador (~80–100°C). Sem curva de aprendizado, disponível por ¥4.000–6.000. Não pode produzir cachos definidos ou ondas como os tools Coanda. Essa limitação é toda a sua identidade: o caminho mais rápido para o volume blowout em cabelo liso.",
+      "pros": ["Sem curva de aprendizado — intuitivo desde o primeiro uso", "Preço ¥4.000–¥6.000 — ferramenta mais acessível nesta comparação", "Calor em temperatura de secador (~80–100°C) — sem dano adicional por calor além da secagem normal"],
+      "cons": ["Não pode produzir cachos ou ondas — apenas volume blowout; não substitui os tools Coanda"],
+      "grade": "B+",
+      "specs": {"Tecnologia": "Escova redonda + secador", "Preço (JP)": "¥4.000–¥6.000", "Tipo de cabelo": "Liso, em busca de volume", "Faixa de calor": "~80–100°C (temp. secador)", "Curva de aprendizado": "Nenhuma", "Capacidade de enrolar": "Nenhuma — apenas blowout", "Peso": "~1,2 kg"},
+      "scores": {"Heat performance": 3.5, "Hair protection": 4.2, "Build quality": 3.2, "Value": 5.0, "Ease of use": 5.0}
+    },
+    {
+      "offerId": "ghd-max-styler",
+      "badge": "Melhor para cabelo espesso",
+      "review": "As largas placas de cerâmica do GHD Max a 185–220°C com aquecimento preditivo o tornam a ferramenta de escolha para cabelo espesso, longo ou resistente onde o fluxo de ar Coanda é muito lento. Uma sessão em cabelo grosso até a cintura leva 20 minutos com o Max vs 45–60 minutos com um Airwrap. O contato direto da placa significa que o protetor térmico não é opcional; importações paralelas não têm garantia doméstica no Japão.",
+      "pros": ["Resultados mais rápidos em cabelo espesso, longo ou resistente — placas cobrem mais por passagem", "Aquecimento preditivo 185–220°C mantém temperatura consistente em seções densas", "Ferramenta de nível profissional usada por cabeleireiros em tipos de cabelo difíceis"],
+      "cons": ["Contato direto de placa a 185–220°C — protetor térmico necessário a cada sessão; importação paralela, sem garantia no Japão"],
+      "grade": "B",
+      "specs": {"Tecnologia": "Chapinha larga de cerâmica", "Temp. da placa": "185–220°C (preditivo)", "Preço (JP)": "¥35.000–¥45.000 (imp. paralela)", "Tipo de cabelo": "Espesso, longo, resistente", "Largura da placa": "Larga (mais cabelo por passagem)", "Garantia": "Nenhuma no Japão", "Duração sessão (cab. espesso)": "~20 min"},
+      "scores": {"Heat performance": 5.0, "Hair protection": 3.0, "Build quality": 4.5, "Value": 3.8, "Ease of use": 4.5}
+    },
+    {
+      "offerId": "panasonic-eh-na0j",
+      "badge": "Melhor para o mercado japonês",
+      "review": "O Panasonic EH-NA0J é um secador de cabelo, não um styler — seu objetivo é controle de frizz e retenção de umidade via tecnologia de íons nanoe X, respaldada por pesquisa publicada pela Panasonic. Garantia doméstica japonesa, modo de proteção do couro cabeludo a 60°C e rede de serviço completa o tornam a ferramenta de uso diário de menor risco nesta lista.",
+      "pros": ["Garantia doméstica completa no Japão e rede de reparo — compra de menor risco nesta comparação", "A tecnologia nanoe X tem pesquisa publicada apoiando afirmações de frizz e umidade", "Modo couro cabeludo 60°C previne superaquecimento durante o uso diário"],
+      "cons": ["Este é um secador de cabelo — não adequado se cacheamento, ondulação ou alisamento é o objetivo principal"],
+      "grade": "B-",
+      "specs": {"Tecnologia": "Secador nanoe X", "Preço (JP)": "¥22.000–¥30.000", "Modo couro cabeludo": "60°C", "Tipo de cabelo": "Todos (secagem/controle de frizz)", "Garantia": "Garantia doméstica completa no Japão", "Objetivo": "Controle de frizz + retenção de umidade", "Capacidade de enrolar": "Nenhuma"},
+      "scores": {"Heat performance": 3.8, "Hair protection": 5.0, "Build quality": 4.5, "Value": 4.2, "Ease of use": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para cabelo fino ou médio que quer ondas naturais", "offerId": "dyson-airwrap-multi-styler", "reason": "Fluxo de ar Coanda a ~150°C produz ondas e volume em cabelo fino/médio que nenhuma chapinha consegue replicar."},
+    {"label": "Para cabelo espesso ou áspero que precisa de resultados rápidos", "offerId": "ghd-max-styler", "reason": "Placas largas a 185–220°C reduzem o tempo de sessão em cabelo resistente de 45–60 para 20 minutos."},
+    {"label": "Para controle diário de frizz com garantia no Japão", "offerId": "panasonic-eh-na0j", "reason": "Garantia doméstica completa, modo couro cabeludo 60°C e tecnologia nanoe X com pesquisa publicada — menor risco para uso diário."}
+  ]
 }

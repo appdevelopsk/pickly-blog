@@ -61,5 +61,64 @@
     "bare-bones-broth": "Saubere 4-Zutaten-Formel, Weideknochen, Frauenunternehmen"
   },
   "pinDescription": "5 beste Knochenbruehen nach Protein, Kollagen und Herkunft bewertet — von haltbaren Alltagsprodukten bis zu Premium-Glasflaschen. Die richtige fuer Darmgesundheit, Gelenke oder Kochen finden.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jedes Produkt wurde nach Geschmacksprofil, Herkunftstransparenz, Preis-Leistungs-Verhältnis, Verpackungsqualität und Alltagsnutzen bewertet. Zertifizierungen und Nutzerbewertungen wurden mit Marketingaussagen abgeglichen.",
+  "products": [
+    {
+      "offerId": "kettle-fire-beef-broth",
+      "badge": "Bester Gesamteindruck",
+      "review": "Kettle & Fire ist der Standard für haltbare Knochenbrühe: Weideknochen, 10 g Protein pro Portion, Tetra Pak ohne Kühlschranklagerung. Der Geschmack ist sauber und herzhaft — mild genug zum Trinken, ausreichend für Schmorgerichte. Die UHT-Verarbeitung reduziert einige Aminosäuren leicht, aber der Kompromiss zugunsten der Praktikabilität ist vertretbar.",
+      "pros": ["Haltbar — kein Kühlschrankplatz benötigt", "10 g Protein pro Portion aus Weideknöchen", "Kurze Zutatenliste mit Bio-Gemüse"],
+      "cons": ["UHT-Verarbeitung kann einige Aminosäuren leicht reduzieren gegenüber Kühlprodukten"],
+      "grade": "A+",
+      "specs": {"Protein": "10 g/Portion", "Format": "Tetra Pak (haltbar)", "Knochen": "Weideknochen (Rind)", "Portionsgröße": "240 ml", "Bio-Gemüse": "Ja"},
+      "scores": {"Qualität": 4.5, "Geschmack": 4.3, "Preis-Leistung": 4.4, "Nährwert": 4.4, "Praktikabilität": 4.9}
+    },
+    {
+      "offerId": "fond-bone-broth",
+      "badge": "Bestes Premium-Produkt",
+      "review": "FOND ist die Knochenbrühe für Menschen, die jedes Etikett lesen: Weidetierhaltung, Bio-Zertifizierung, Glasflaschen, Kühltransport. Im Kühlschrank geliert sie fest — der sichtbare Nachweis für hohen Gelatin-Gehalt. Der krautbetonte Geschmack durch langsames Köcheln ist reich genug zum direkten Trinken, kann aber in neutralen Kochanwendungen zu dominant sein.",
+      "pros": ["Geliert fest im Kühlschrank — hoher Kollagen- und Gelatingehalt bestätigt", "Glasflaschen — kein Kunststoff beim Erhitzen", "Weidetierhaltung, Bio-zertifiziert"],
+      "cons": ["Etwa doppelt so teuer wie Kettle & Fire — nur Kühltransport"],
+      "grade": "A",
+      "specs": {"Protein": "ca. 9–10 g/Portion", "Format": "Glasflasche (gekühlt)", "Knochen": "Weidehaltung, Bio-zertifiziert", "Gelatin": "Geliert fest im Kühlschrank", "Garung": "Langsam mit Kräutern geköchelt"},
+      "scores": {"Qualität": 4.9, "Geschmack": 4.7, "Preis-Leistung": 3.2, "Nährwert": 4.8, "Praktikabilität": 3.5}
+    },
+    {
+      "offerId": "pacific-foods-bone-broth",
+      "badge": "Bestes Preis-Leistungs-Verhältnis",
+      "review": "Pacific Foods ist die Knochenbrühe, die man bei Costco oder im Supermarkt ohne Planung findet — USDA-Bio, ca. 5–7 $ pro 32 oz. Protein liegt bei 9–10 g/Portion, der Geschmack ist klar und neutral, ideal wenn die Brühe eine Zutat ist, nicht der Hauptdarsteller. Geliert im Kühlschrank nicht — Gelatingehalt ist niedriger.",
+      "pros": ["USDA Bio zu Mainstream-Preisen", "Breit verfügbar bei Costco, Target, Supermärkten", "Neutraler Geschmack ideal für Kochanwendungen"],
+      "cons": ["Geliert im Kühlschrank nicht — niedrigerer Gelatingehalt als Premium-Alternativen"],
+      "grade": "B+",
+      "specs": {"Protein": "9–10 g/Portion", "Format": "Tetra Pak (haltbar)", "Zertifizierung": "USDA Bio", "Verfügbarkeit": "Breit verfügbar", "Natriumarm": "Option verfügbar"},
+      "scores": {"Qualität": 3.9, "Geschmack": 3.8, "Preis-Leistung": 4.7, "Nährwert": 3.9, "Praktikabilität": 4.8}
+    },
+    {
+      "offerId": "ancient-nutrition-bone-broth",
+      "badge": "Beste Kollagendosis",
+      "review": "Ancient Nutrition liefert 20 g Kollagenprotein pro Portion aus Rind, Huhn, Fisch und Eiweiß — deutlich mehr als die 7–12 g der meisten flüssigen Brühen. Löst sich klumpenfrei in heißen oder kalten Getränken auf. Ehrlich gesagt ist dies ein Kollagenpräparat unter dem Knochenbrühe-Label — kein Geschmack, keine Aromaten, keine Kochbasis.",
+      "pros": ["20 g Kollagenprotein/Portion — das Höchste unter allen hier vorgestellten Produkten", "Multi-Quellen-Kollagen (Rind, Huhn, Fisch, Eiweiß)", "Löst sich klumpenfrei in heißen und kalten Getränken"],
+      "cons": ["Kein Brühengeschmack, keine Aromaten, keine Kochtauglichkeit — es ist ein Supplement"],
+      "grade": "B",
+      "specs": {"Protein": "20 g Kollagen/Portion", "Format": "Pulver", "Kollagenquellen": "Rind, Huhn, Fisch, Eiweiß", "Geschmacksoptionen": "Natur, Schokolade, Vanille", "Verfügbarkeit": "Costco, Walmart, Supplement-Händler"},
+      "scores": {"Qualität": 4.2, "Geschmack": 3.5, "Preis-Leistung": 4.0, "Nährwert": 4.9, "Praktikabilität": 4.5}
+    },
+    {
+      "offerId": "bare-bones-broth",
+      "badge": "Reinste Zutatenliste",
+      "review": "Bare Bones verwendet eine 4-Zutaten-Formel — Knochen, Wasser, Apfelessig, Meersalz — ohne Natürliche Aromen, Hefeextrakt oder Stabilisatoren. 100 % Weideknochen, geliert leicht im Kühlschrank (bestätigt echten Gelatingehalt), 10 g Protein/Portion. Direkter, herzhafter Rindfleischgeschmack für Trinken und Kochen. Preisklasse zwischen Massenware und FOND.",
+      "pros": ["4-Zutaten-Formel — keine Zusatzstoffe", "Geliert leicht im Kühlschrank — echter Gelatingehalt", "Frauengeführte Marke mit nachverfolgbarer Herkunft"],
+      "cons": ["Weniger breit verfügbar als Pacific Foods oder Kettle & Fire"],
+      "grade": "B-",
+      "specs": {"Protein": "10 g/Portion", "Format": "Tetra Pak (haltbar) + Tiefkühlbeutel", "Knochen": "100% Weideknochen", "Zutaten": "4 (Knochen, Wasser, ACV, Meersalz)", "Gelatin": "Geliert leicht im Kühlschrank"},
+      "scores": {"Qualität": 4.6, "Geschmack": 4.4, "Preis-Leistung": 3.8, "Nährwert": 4.6, "Praktikabilität": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für Vorratsschrank-Nutzer", "offerId": "kettle-fire-beef-broth", "reason": "Haltbar, online im Karton bestellbar — die praktische Standardwahl für tägliches Trinken oder Kochen unter der Woche."},
+    {"label": "Für Darmgesundheits-Protokolle", "offerId": "fond-bone-broth", "reason": "Geliert fest, Kühltransport, höchster Gelatingehalt — wenn Kollagen und Glycin das eigentliche Ziel sind, lohnt sich der Aufpreis."},
+    {"label": "Für intensives Kochen", "offerId": "pacific-foods-bone-broth", "reason": "USDA Bio zu Costco-Preisen — richtig, wenn Knochenbrühe eine Zutat ist, nicht der Hauptdarsteller."},
+    {"label": "Für maximale Kollagenaufnahme", "offerId": "ancient-nutrition-bone-broth", "reason": "Ein Löffel liefert 20 g Multi-Quellen-Kollagen — die effizienteste Ergänzung für Morgen-Smoothie oder Kaffee."},
+    {"label": "Für Etiketten-Leser und Clean-Food-Anhänger", "offerId": "bare-bones-broth", "reason": "Vier Zutaten, keine Zusätze, Weidehaltung — die sauberste Standard-Knochenbrühe in dieser Kategorie."}
+  ]
 }

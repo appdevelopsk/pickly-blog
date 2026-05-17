@@ -58,5 +58,64 @@
     "valor-fitness-ob-hx-trap-bar": "Costruzione di media gamma, impugnature doppie, comparabile a Titan. $90-130. Buona alternativa se Titan non e disponibile. Fascia economica-a-media gamma, funzionalmente comparabile a prezzi simili."
   },
   "pinDescription": "Trap bar / hex bar 2026: Rogue TB-2 vs CAP vs Titan vs REP, come il caricamento al centro di massa riduce lo stress da taglio lombare rispetto al deadlift con bilanciere dritto, impugnatura alta vs bassa, e quale trap bar vale la pena acquistare per una palestra casalinga. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni trap bar è stata valutata in base allo spessore dell'acciaio e alla capacità di carico nominale rispetto ai range di sollevamento realistici di una palestra casalinga, all'aggressività della zigrinatura per la sicurezza della presa nelle trazioni pesanti, alla lunghezza dei manicotti rispetto alle esigenze di caricamento dei dischi per gli atleti che tirano 300–500+ lbs, al comfort delle impugnature per le posizioni alta versus bassa, e al valore a lungo termine basato sulla qualità costruttiva e la fascia di prezzo.",
+  "products": [
+    {
+      "offerId": "rogue-tb-2-trap-bar",
+      "badge": "Miglior Prodotto in Assoluto",
+      "review": "La Rogue TB-2 è il riferimento per le trap bar premium: acciaio 11 gauge, zigrinatura affilata su entrambe le impugnature, manicotti da 16,25 pollici per il caricamento pesante di dischi e una capacità nominale di 1.000 lb che supererà qualsiasi programma realistico di palestra casalinga. A $300–350 il premium sulle alternative budget è significativo — ma per gli atleti che tirano sistematicamente 500+ lbs è il corretto investimento a lungo termine.",
+      "pros": ["Costruzione in acciaio 11 gauge con capacità nominale di 1.000 lb", "Zigrinatura affilata a doppia impugnatura offre una presa sicura sotto carichi massimi", "Manicotti da 16,25 pollici accolgono sufficienti dischi per carichi totali di 500+ lb"],
+      "cons": ["Il premium di $300–350 è significativo rispetto a CAP o Titan per gli atleti che sollevano con carichi moderati"],
+      "grade": "A+",
+      "specs": {"Calibro acciaio": "11 gauge", "Capacità di carico": "1.000 lb", "Lunghezza manicotti": "16,25 pollici", "Peso barra": "~27 kg", "Tipo impugnatura": "Doppia alta/bassa zigrinata", "Prezzo": "~$300–350"},
+      "scores": {"Load capacity": 5.0, "Handle comfort": 4.8, "Build quality": 5.0, "Value": 3.5, "Knurling quality": 5.0}
+    },
+    {
+      "offerId": "rep-fitness-hd-trap-bar",
+      "badge": "Miglior Rapporto Qualità-Prezzo Premium",
+      "review": "La REP Fitness HD Trap Bar colma il divario tra le hex bar budget e la Rogue TB-2 — calibro più pesante di CAP e Titan, migliore zigrinatura e manicotti più lunghi per gli atleti che caricano 300–400 lbs senza pagare il premium completo di Rogue. La scelta giusta per gli atleti che hanno superato la qualità budget senza aver bisogno di una barra da competizione.",
+      "pros": ["Calibro più pesante delle alternative budget con zigrinatura significativamente migliore", "Manicotti più lunghi di CAP/Titan per caricare più dischi a pesi più elevati", "Qualità costruttiva REP a un prezzo di fascia media"],
+      "cons": ["$150–200 costa di più di Titan senza raggiungere il 11 gauge e la specifica di 1.000 lb di Rogue"],
+      "grade": "A",
+      "specs": {"Calibro acciaio": "Pesante (fascia media)", "Capacità di carico": "~700 lb nominale", "Lunghezza manicotti": "Più lunga del budget", "Peso barra": "~25 kg", "Tipo impugnatura": "Doppia alta/bassa zigrinata", "Prezzo": "~$150–200"},
+      "scores": {"Load capacity": 4.2, "Handle comfort": 4.5, "Build quality": 4.5, "Value": 4.5, "Knurling quality": 4.5}
+    },
+    {
+      "offerId": "titan-fitness-hex-trap-bar",
+      "badge": "Migliore Fascia Media",
+      "review": "La Titan Fitness Hex Trap Bar è il significativo passo avanti rispetto alla CAP — migliore zigrinatura, una barra leggermente più pesante di ~52 lbs e migliore qualità dei manicotti per gli atleti che tirano regolarmente 250+ lbs e sentono che la zigrinatura morbida della CAP scivola nelle serie pesanti. A $100–150 è la scelta giusta quando la qualità CAP non è sufficiente ma i prezzi Rogue sono fuori portata.",
+      "pros": ["Migliore zigrinatura di CAP per presa sicura con carichi di 250–400 lbs", "~52 lbs di peso della barra offre buona stabilità nel telaio hex", "Migliore qualità dei manicotti rispetto alle alternative budget"],
+      "cons": ["$100–150 compra un miglioramento rispetto a CAP ma non il calibro o la capacità di REP o Rogue"],
+      "grade": "B+",
+      "specs": {"Calibro acciaio": "Fascia media", "Capacità di carico": "~700 lb nominale", "Peso barra": "~52 lbs", "Lunghezza manicotti": "Standard", "Tipo impugnatura": "Doppia alta/bassa zigrinata", "Prezzo": "~$100–150"},
+      "scores": {"Load capacity": 3.8, "Handle comfort": 4.2, "Build quality": 4.2, "Value": 4.7, "Knurling quality": 4.2}
+    },
+    {
+      "offerId": "cap-barbell-trap-bar",
+      "badge": "Migliore Budget",
+      "review": "La CAP Barbell Hex Trap Bar è la corretta scelta di entry-level per gli atleti di palestra casalinga che già possiedono dischi olimpici e vogliono aggiungere il deadlift con trap bar senza investimenti significativi. A $80–120 gestisce adeguatamente i carichi inferiori a 300–400 lbs — la zigrinatura morbida è la limitazione principale, diventando scivolosa nelle serie pesanti quando le mani sudano.",
+      "pros": ["Prezzo d'ingresso di $80–120 rende il deadlift con trap bar accessibile alle palestre casalinghe", "Manicotti olimpici standard da 2 pollici si adattano a qualsiasi collezione di dischi esistente", "Doppie impugnature alta/bassa coprono sia le posizioni principiante che intermedio"],
+      "cons": ["La zigrinatura morbida diventa scivolosa nelle serie pesanti e sudate sopra i 300 lbs", "La capacità nominale di 500 lb limita l'uso per gli atleti forti che progrediscono verso carichi più elevati"],
+      "grade": "B",
+      "specs": {"Calibro acciaio": "Standard", "Capacità di carico": "500 lb nominale", "Peso barra": "~45 lbs", "Dimensione manicotti": "2 pollici olimpico", "Tipo impugnatura": "Doppia alta/bassa", "Prezzo": "~$80–120"},
+      "scores": {"Load capacity": 3.0, "Handle comfort": 3.8, "Build quality": 3.5, "Value": 5.0, "Knurling quality": 3.0}
+    },
+    {
+      "offerId": "valor-fitness-ob-hx-trap-bar",
+      "badge": "Migliore Alternativa Budget",
+      "review": "La Valor Fitness Trap Bar è una valida alternativa alla Titan quando lo stock è limitato — costruzione comparabile in una fascia di prezzo simile con doppie impugnature e manicotti olimpici standard. Non si differenzia significativamente dalla Titan e la scelta tra le due dipende spesso dalla disponibilità e dal prezzo il giorno dell'acquisto.",
+      "pros": ["Comparabile a Titan a un prezzo simile — buona alternativa di disponibilità", "Doppie impugnature alta/bassa e manicotti olimpici standard", "Costruzione di fascia media adeguata per i carichi di palestra casalinga inferiori a 300–400 lbs"],
+      "cons": ["Nessun vantaggio di performance significativo rispetto alla Titan — la scelta è guidata principalmente da stock e prezzo"],
+      "grade": "B-",
+      "specs": {"Calibro acciaio": "Fascia media", "Capacità di carico": "~500–600 lb nominale", "Peso barra": "~48 lbs", "Dimensione manicotti": "2 pollici olimpico", "Tipo impugnatura": "Doppia alta/bassa", "Prezzo": "~$90–130"},
+      "scores": {"Load capacity": 3.2, "Handle comfort": 3.8, "Build quality": 3.8, "Value": 4.5, "Knurling quality": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per i seri sollevatori che tirano 500+ lbs", "offerId": "rogue-tb-2-trap-bar", "reason": "L'acciaio 11 gauge e la capacità nominale di 1.000 lb è l'unica specifica costruttiva che rimane avanti a un programma di sollevamento serio a lungo termine."},
+    {"label": "Per gli atleti intermedi che hanno superato le barre budget", "offerId": "rep-fitness-hd-trap-bar", "reason": "Migliore zigrinatura e manicotti più lunghi di CAP o Titan a un prezzo che non richiede l'impegno al livello Rogue."},
+    {"label": "Per gli atleti che sollevano 250–400 lbs regolarmente", "offerId": "titan-fitness-hex-trap-bar", "reason": "Il miglioramento della zigrinatura rispetto a CAP è significativo ai carichi in cui la presa morbida di CAP comincia a scivolare nelle serie pesanti."},
+    {"label": "Per i principianti di palestra casalinga con dischi olimpici", "offerId": "cap-barbell-trap-bar", "reason": "A $80–120 con manicotti standard da 2 pollici, è il punto d'ingresso a minor attrito per aggiungere il deadlift con trap bar a una configurazione di palestra casalinga esistente."},
+    {"label": "Per i sollevatori quando Titan è esaurita", "offerId": "valor-fitness-ob-hx-trap-bar", "reason": "Funzionalmente comparabile alla Titan a un prezzo simile — la scelta giusta quando la disponibilità di Titan è limitata."}
+  ]
 }

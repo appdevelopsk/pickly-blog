@@ -89,5 +89,62 @@
     "panasonic-eh-na0j": "Miglior scelta per il controllo quotidiano dell'effetto crespo e dei danni — la tecnologia nanoe ha una vera ricerca pubblicata, modalita cuoio capelluto a 60°C, garanzia domestica giapponese. Nota: questo e un asciugacapelli, non uno styler per riccioli; scelta sbagliata se la creazione di riccioli e l'obiettivo."
   },
   "pinDescription": "Dyson Airwrap vs Shark FlexStyle vs GHD Max vs le scelte economiche — confronto onesto 2026 su adattabilita al tipo di capello, rischio reale di danni da calore e se il divario di prezzo si vede davvero nel risultato. #italiano",
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "Ogni strumento è stato valutato sul meccanismo di calore (flusso d'aria Coanda vs piastra diretta), compatibilità con il tipo di capello, durata della curva di apprendimento dai report degli utenti, tempo di sessione reale su capelli spessi vs fini e costo per utilizzo su 3 anni a frequenza tipica.",
+  "products": [
+    {
+      "offerId": "dyson-airwrap-multi-styler",
+      "badge": "Migliore in assoluto",
+      "review": "Il meccanismo di flusso d'aria Coanda dell'Airwrap avvolge i capelli a ~150°C senza contatto diretto della piastra — consegna di calore significativamente inferiore rispetto a un piastra a 200°C+. Su capelli fini o medi produce onde e volume naturali che nessuna piastra può replicare. Il vero compromesso è la curva di apprendimento di 2–4 settimane e il suo fallimento su capelli spessi o grossolani dove il flusso d'aria non riesce a penetrare sezioni dense.",
+      "pros": ["Barile Coanda a ~150°C — calore inferiore alle piastre a 185–220°C", "Onde e volume naturali su capelli fini/medi — irriproducibili con piastre", "Più accessori per asciugare, ondulare e lisciare in un unico dispositivo"],
+      "cons": ["Curva di apprendimento di 2–4 settimane per risultati consistenti; scarso su capelli spessi o grossolani"],
+      "grade": "A+",
+      "specs": {"Tecnologia": "Flusso d'aria Coanda", "Temp. barile": "~150°C", "Prezzo (JP)": "¥66.000–¥80.000", "Tipo capello": "Fino a medio", "Curva di apprendimento": "2–4 settimane", "Metodo styling": "Avvolgimento ad aria (senza contatto piastra)", "Incluso": "Più accessori"},
+      "scores": {"Heat performance": 4.5, "Hair protection": 4.8, "Build quality": 4.9, "Value": 3.0, "Ease of use": 3.5}
+    },
+    {
+      "offerId": "shark-flexstyle",
+      "badge": "Miglior rapporto qualità-prezzo Coanda",
+      "review": "Il FlexStyle offre lo stesso meccanismo a effetto Coanda dell'Airwrap a circa il 60% del prezzo, e aggiunge una modalità asciugacapelli che l'Airwrap non ha. La scelta di valore più onesta per capelli di media spessezza o mossi. Per gli acquirenti in Giappone: solo importazione parallela (120V nordamericano), che funziona con flusso d'aria ridotto sui 100V giapponesi.",
+      "pros": ["Stesso meccanismo a effetto Coanda del Dyson Airwrap a ~60% del prezzo", "Include la modalità asciugacapelli — l'Airwrap non ha funzione di asciugatura", "Miglior rapporto risultato-prezzo in questo confronto per capelli mossi"],
+      "cons": ["Solo importazione parallela in Giappone — modello nordamericano 120V con flusso ridotto a 100V; nessuna garanzia domestica"],
+      "grade": "A",
+      "specs": {"Tecnologia": "Flusso d'aria Coanda + asciugacapelli", "Prezzo (JP)": "¥35.000–¥45.000 (import. parallela)", "Tipo capello": "Medio a mosso", "Tensione": "120V (verificare prima dell'acquisto in Giappone)", "Incluso": "Accessori styler + testa asciugacapelli", "Curva di apprendimento": "1–3 settimane", "Garanzia": "Nessuna in Giappone"},
+      "scores": {"Heat performance": 4.3, "Hair protection": 4.5, "Build quality": 4.3, "Value": 4.7, "Ease of use": 3.8}
+    },
+    {
+      "offerId": "revlon-one-step-volumizer",
+      "badge": "Miglior prezzo",
+      "review": "Il Revlon One-Step combina una spazzola rotonda e un asciugacapelli in uno strumento — asciugare e aggiungere volume contemporaneamente a temperature normali da asciugacapelli (~80–100°C). Nessuna curva di apprendimento, disponibile per ¥4.000–6.000. Non può produrre ricci definiti o onde come gli strumenti Coanda. Questa limitazione è la sua intera identità: il percorso più veloce al volume blowout su capelli lisci.",
+      "pros": ["Nessuna curva di apprendimento — intuitivo dal primo utilizzo", "Prezzo ¥4.000–¥6.000 — strumento più accessibile in questo confronto", "Calore a temperatura da asciugacapelli (~80–100°C) — nessun danno aggiuntivo oltre all'asciugatura normale"],
+      "cons": ["Non può produrre ricci o onde — solo volume blowout; non sostituisce gli strumenti Coanda"],
+      "grade": "B+",
+      "specs": {"Tecnologia": "Spazzola rotonda + asciugacapelli", "Prezzo (JP)": "¥4.000–¥6.000", "Tipo capello": "Liscio, in cerca di volume", "Gamma di calore": "~80–100°C (temp. asciugacapelli)", "Curva di apprendimento": "Nessuna", "Capacità di arricciamento": "Nessuna — solo blowout", "Peso": "~1,2 kg"},
+      "scores": {"Heat performance": 3.5, "Hair protection": 4.2, "Build quality": 3.2, "Value": 5.0, "Ease of use": 5.0}
+    },
+    {
+      "offerId": "ghd-max-styler",
+      "badge": "Migliore per capelli spessi",
+      "review": "Le larghe piastre in ceramica del GHD Max a 185–220°C con riscaldamento predittivo ne fanno lo strumento preferito per capelli spessi, lunghi o resistenti dove il flusso d'aria Coanda è troppo lento. Una sessione su capelli grossolani fino alla vita richiede 20 minuti con il Max vs 45–60 minuti con un Airwrap. Il contatto diretto della piastra significa che il termoprotettore non è opzionale; le importazioni parallele non hanno garanzia domestica in Giappone.",
+      "pros": ["Risultati più rapidi su capelli spessi, lunghi o resistenti — le piastre coprono più capelli per passata", "Riscaldamento predittivo 185–220°C mantiene temperatura costante nelle sezioni dense", "Strumento di livello professionale usato dai parrucchieri su tipi di capello difficili"],
+      "cons": ["Contatto diretto della piastra a 185–220°C — termoprotettore necessario ad ogni sessione; importazione parallela, nessuna garanzia in Giappone"],
+      "grade": "B",
+      "specs": {"Tecnologia": "Piastra larga in ceramica", "Temp. piastra": "185–220°C (predittivo)", "Prezzo (JP)": "¥35.000–¥45.000 (import. parallela)", "Tipo capello": "Spesso, lungo, resistente", "Larghezza piastra": "Larga (più capelli per passata)", "Garanzia": "Nessuna in Giappone", "Durata sessione (cap. spessi)": "~20 min"},
+      "scores": {"Heat performance": 5.0, "Hair protection": 3.0, "Build quality": 4.5, "Value": 3.8, "Ease of use": 4.5}
+    },
+    {
+      "offerId": "panasonic-eh-na0j",
+      "badge": "Migliore per il mercato giapponese",
+      "review": "Il Panasonic EH-NA0J è un asciugacapelli, non uno styler — il suo obiettivo è il controllo del crespo e la ritenzione di idratazione tramite la tecnologia ioni nanoe X, supportata da ricerche pubblicate da Panasonic. Garanzia domestica giapponese, modalità protezione cuoio capelluto a 60°C e rete di assistenza completa ne fanno lo strumento quotidiano meno rischioso in questa lista.",
+      "pros": ["Garanzia domestica completa in Giappone e rete di riparazione — acquisto meno rischioso in questo confronto", "La tecnologia nanoe X ha ricerche pubblicate a supporto delle affermazioni su crespo e idratazione", "Modalità cuoio capelluto 60°C previene il surriscaldamento durante l'uso quotidiano"],
+      "cons": ["Questo è un asciugacapelli — non adatto se arricciare, ondulare o lisciare è l'obiettivo principale"],
+      "grade": "B-",
+      "specs": {"Tecnologia": "Asciugacapelli nanoe X", "Prezzo (JP)": "¥22.000–¥30.000", "Modalità cuoio capelluto": "60°C", "Tipo capello": "Tutti (asciugatura/controllo crespo)", "Garanzia": "Garanzia domestica completa in Giappone", "Obiettivo": "Controllo crespo + ritenzione idratazione", "Capacità di arricciamento": "Nessuna"},
+      "scores": {"Heat performance": 3.8, "Hair protection": 5.0, "Build quality": 4.5, "Value": 4.2, "Ease of use": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per capelli fini o medi che desiderano onde naturali", "offerId": "dyson-airwrap-multi-styler", "reason": "Il flusso d'aria Coanda a ~150°C produce onde e volume su capelli fini/medi che nessuna piastra può replicare."},
+    {"label": "Per capelli spessi o grossolani che necessitano risultati rapidi", "offerId": "ghd-max-styler", "reason": "Le piastre larghe a 185–220°C riducono il tempo di sessione su capelli resistenti da 45–60 a 20 minuti."},
+    {"label": "Per controllo quotidiano del crespo con garanzia in Giappone", "offerId": "panasonic-eh-na0j", "reason": "Garanzia domestica completa, modalità cuoio capelluto 60°C e tecnologia nanoe X con ricerca pubblicata — rischio minore per l'uso quotidiano."}
+  ]
 }

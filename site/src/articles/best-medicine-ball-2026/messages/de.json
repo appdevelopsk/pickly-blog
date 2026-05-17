@@ -57,5 +57,64 @@
     "cap-barbell-medicine-ball": "Einlagiger Gummi, Kieselsteingrip, maessiger Abprall. Bereich 4-30 lb. Guenstigste Option fuer allgemeines Konditionstraining."
   },
   "pinDescription": "Slam Ball vs. Medicine Ball vs. weiches Gehaeuse -- 5 Empfehlungen fuer jedes Trainingsziel, von Overhead-Slams bis Partner-Passuebungen. Finde heraus, welcher Typ zu deinem Training passt, bevor du kaufst. #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jedes Produkt wurde anhand von fünf Kriterien bewertet: Verarbeitungsqualität, Leistung bei typischer Nutzung, Langlebigkeit, Komfort und Preis-Leistungs-Verhältnis. Leistung und Langlebigkeit wurden am stärksten gewichtet, da diese bestimmen, ob ein Produkt 12 Monate später noch nützlich ist.",
+  "products": [
+    {
+      "offerId": "rogue-medicine-ball",
+      "badge": "Bester Slam Ball",
+      "review": "Rogues Slam Ball verwendet eine dicke Naturkautschuk-Hülle mit Sand-Kautschuk-Füllung, die den Abprall fast vollständig eliminiert — der Ball trifft den Boden und bleibt dort. Die Hülle ist deutlich dicker als die meisten kommerziellen Slam Balls, was bei hoher Wiederholungszahl wichtig ist, da dünnere Hüllen weiche Stellen entwickeln und schließlich reißen. Gewichtsmarkierungen sind in den Kautschuk eingeprägt, nicht aufgedruckt. Nicht für Partner-Pässe geeignet — die dichte Füllung belastet beim kraftvollen Fangen die Handgelenke.",
+      "pros": ["Nahezu null Abprall — bleibt nach Bodenschlägen liegen", "Dicke Hülle widersteht Rissen auch bei hohem Wiederholungsvolumen", "Eingeprägte Gewichtsmarkierungen verblassen nicht"],
+      "cons": ["Nicht für Partner-Pässe — dichte Füllung belastet Handgelenke beim Fangen"],
+      "grade": "A+",
+      "specs": {"Hülle": "Dickes Naturkautschuk", "Füllung": "Sand und Kautschuk-Krümel", "Abprall": "Nahezu null", "Gewichtsbereich": "10–150 lb", "Preis (Beispiel)": "$125"},
+      "scores": {"Verarbeitungsqualität": 5.0, "Langlebigkeit": 5.0, "Benutzerfreundlichkeit": 4.5, "Preis-Leistung": 3.8, "Vielseitigkeit": 3.5}
+    },
+    {
+      "offerId": "champion-sports-medicine-ball",
+      "badge": "Bester für Wall-Ball-Übungen",
+      "review": "Champion Sports' 4-mm-Vulkankautschuk-Ball liefert einen moderaten, vorhersehbaren Abprall — der Ball kommt nach einem Wandwurf aus einem konsistenten Winkel zurück. Ideal für Wall-Ball-Übungen, Partner-Konditionierung und Overhead-Kniebeuge-zu-Press. Der 2-lb-Einstieg eignet sich für Anfänger, die Overhead-Mechaniken lernen. Nicht für Maximalwürfe gegen den Boden geeignet — die Rücktrajektorie wird unberechenbar.",
+      "pros": ["Vorhersehbarer moderater Abprall für Wall-Ball und Partnerarbeit", "2 lb Einstiegsgewicht für Anfänger beim Erlernen von Overhead-Mechaniken", "Kieselsteingriff hält auch bei verschwitzt en Händen"],
+      "cons": ["Nicht für Maximalwürfe gegen den Boden geeignet"],
+      "grade": "A",
+      "specs": {"Hülle": "4mm Vulkankautschuk", "Griff": "Kieselsteinstruktur", "Abprall": "Moderat und vorhersehbar", "Gewichtsbereich": "2–30 lb", "Preis (Beispiel)": "$29.99"},
+      "scores": {"Verarbeitungsqualität": 4.0, "Langlebigkeit": 4.2, "Benutzerfreundlichkeit": 4.8, "Preis-Leistung": 4.8, "Vielseitigkeit": 4.0}
+    },
+    {
+      "offerId": "yes4all-slam-ball",
+      "badge": "Bester Preis-Leistungs-Slam Ball",
+      "review": "Yes4Alls Slam Ball deckt denselben funktionalen Bereich wie Rogue ab — Sandfüllung, minimaler Abprall — zu einem deutlich niedrigeren Preis. Die Hülle ist etwas dünner als Rogues, erkennbar an der Textur, nicht an strukturellen Schwächen bei normalen Trainingslasten. Gewichtsoptionen in 5-lb-Schritten von 10–50 lb machen eine günstige Progressionsleiter möglich: drei Yes4All Balls kosten etwa so viel wie eine Rogue gleichen Gewichts.",
+      "pros": ["Deutlich günstiger als Rogue bei gleichen Gewichten", "5-lb-Schritte ermöglichen eine günstige Progressionsleiter", "Minimaler Abprall für sichere Innen-Slams"],
+      "cons": ["Hülle etwas dünner als Rogue — weniger haltbar bei sehr hohem Wiederholungsvolumen"],
+      "grade": "B+",
+      "specs": {"Hülle": "Hochstrapazierfähiger Kautschuk", "Füllung": "Sand", "Abprall": "Minimal", "Gewichtsbereich": "10–50 lb (5-lb-Schritte)", "Preis (Beispiel)": "$24.99"},
+      "scores": {"Verarbeitungsqualität": 3.8, "Langlebigkeit": 3.8, "Benutzerfreundlichkeit": 4.5, "Preis-Leistung": 5.0, "Vielseitigkeit": 3.5}
+    },
+    {
+      "offerId": "dynamax-medicine-ball",
+      "badge": "Bester für Partnertraining",
+      "review": "Dynamax ist der einzige Ball in diesem Vergleich, der speziell für Partner-Pässe konzipiert ist. Die schaumgepolsterte Vinylhülle absorbiert den Aufprall, sodass wiederholte Brustpässe und Überkopfwürfe keine Unterarmprellungen verursachen. Der standardisierte Durchmesser bei allen Gewichten (10 lb und 20 lb sind gleich groß) ermöglicht saubere Techniktransfers bei steigendem Gewicht. Nicht für Bodenschläge geeignet — die Naht versagt bei wiederholten Maximalaufprälle.",
+      "pros": ["Schaumgepolsterte Hülle sicher für Partner-Pässe und Fänge", "Gleicher Durchmesser über alle Gewichtsbereiche für konsistente Technik", "Funktioniert für Liegestütz-Variationen und Plank-Ausrollübungen"],
+      "cons": ["Nicht für Bodenschläge — Naht versagt bei Maximalaufprälle"],
+      "grade": "B",
+      "specs": {"Hülle": "Schaumgepolstertes Vinyl", "Durchmesser": "Standardisiert über alle Gewichte", "Abprall": "Weich, absorbierend", "Gewichtsbereich": "4–30 lb", "Preis (Beispiel)": "$165"},
+      "scores": {"Verarbeitungsqualität": 4.2, "Langlebigkeit": 3.8, "Benutzerfreundlichkeit": 5.0, "Preis-Leistung": 3.0, "Vielseitigkeit": 4.5}
+    },
+    {
+      "offerId": "cap-barbell-medicine-ball",
+      "badge": "Bestes günstiges Classic",
+      "review": "CAP Barbells einlagiger Kautschuk-Ball deckt allgemeines Konditionstraining, Reha-Übungen und Einsteigerprogramme zum niedrigsten Preis in diesem Vergleich ab. Die Kieselsteinoberfläche hält bei Schweiß, und der Ball behält bei moderatem Volumen seine Form. Nicht für Bodenschläge geeignet — einlagiger Kautschuk zeigt Schäden durch wiederholte harte Bodenkontakte. Für Russian Twists, Rotationsarbeit im Sitzen, Overhead-Press-Muster und leichte Partner-Pässe problemlos geeignet.",
+      "pros": ["Günstigster Preis in diesem Vergleich", "Ausreichend für allgemeines Konditionstraining, Reha und Einsteiger", "Kieselsteingriff hält auch bei verschwitzt en Konditionsrunden"],
+      "cons": ["Einlagige Konstruktion — nicht für harte Bodenschläge geeignet"],
+      "grade": "B-",
+      "specs": {"Hülle": "Einlagiger Kautschuk", "Griff": "Kieselsteinoberfläche", "Abprall": "Moderat", "Gewichtsbereich": "4–30 lb", "Preisspanne": "$15–45"},
+      "scores": {"Verarbeitungsqualität": 3.2, "Langlebigkeit": 3.2, "Benutzerfreundlichkeit": 4.5, "Preis-Leistung": 5.0, "Vielseitigkeit": 3.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für Overhead-Slam-Training", "offerId": "rogue-medicine-ball", "reason": "Nahezu null Abprall und dicke Hülle halten hochrepetitiven Maximalslams stand"},
+    {"label": "Für Wall-Ball und CrossFit-WODs", "offerId": "champion-sports-medicine-ball", "reason": "Vorhersehbarer moderater Abprall macht Wall-Ball-Fänge konsistent und Partnerübungen sicher"},
+    {"label": "Für Home-Gym-Progression", "offerId": "yes4all-slam-ball", "reason": "5-lb-Schritte von 10–50 lb ermöglichen eine günstige Progressionsleiter zu Hause"},
+    {"label": "Für Partnertraining", "offerId": "dynamax-medicine-ball", "reason": "Schaumgepolsterte Hülle ist das einzige Design, das sicher für wiederholte kraftvolle Partner-Pässe ist"},
+    {"label": "Für günstiges Konditionstraining", "offerId": "cap-barbell-medicine-ball", "reason": "Deckt allgemeines Konditionstraining und Reha-Übungen zum günstigsten Preis ab"}
+  ]
 }

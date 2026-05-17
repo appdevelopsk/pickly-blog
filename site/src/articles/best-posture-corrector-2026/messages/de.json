@@ -88,5 +88,170 @@
     "truweo-posture-corrector": "Verstellbarste passive Stuetze — Doppel-Klettverschluss erlaubt Feinjustierung der Spannung. Klettverschluss verhakt sich in Kleidung und Haaren; zu starkes Festziehen kann Armkribbbeln durch Nervenkompression verursachen; beginne bei lockerster Einstellung; gleiches Muskelabhaengigkeitsrisiko wie andere passive Stuetzen.",
     "back-brace-posture-corrector": "Vollstaendige Lendenstuetze fuer Stehen und Belasten — anderes Problem als thorakale Rundung durch Schreibtischhaltung. Zu sperrig fuer komfortablen sitzenden Buerogebrauch; spricht nur unteren Ruecken an, nicht Schulter- oder Nackenhaltung; Muskelabhaengigkeit gilt fuer Rueckenstrecker-Muskeln bei laengerem Tragen."
   },
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jedes Produkt wurde nach Korrekturmechanismus (aktives Biofeedback vs. passive Stütze), Muskelabhängigkeitsrisiko, realem Tragekomfort während eines Arbeitstages, Unauffälligkeit unter Kleidung und der Evidenzbasis für jeden Ansatz bewertet.",
+  "products": [
+    {
+      "offerId": "upright-go-2",
+      "badge": "Bester aktiver Trainer",
+      "review": "Das Upright GO 2 ist das einzige aktive Biofeedback-Gerät in diesem Vergleich — es vibriert beim Vornüberbeugen und verfolgt die Verbesserung durch eine App, anstatt den Körper physisch in Position zu halten. Dadurch wird das Muskelabhängigkeitsproblem vermieden. Die Einschränkung ist die Abdeckung: nur oberer Rücken und Nacken.",
+      "pros": [
+        "Aktives Biofeedback trainiert die Haltung ohne Muskelabhängigkeit zu erzeugen",
+        "App verfolgt Verbesserungen über Wochen für einen datengesteuerten Ansatz",
+        "Diskreter Klebesensor passt unter Kleidung"
+      ],
+      "cons": [
+        "Deckt nur den oberen Rücken ab — keine Korrekturen für Lendenwirbel, Hüfte oder Nacken"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Type": "Active biofeedback (vibration)",
+        "Placement": "Upper back adhesive",
+        "App": "Yes — tracks posture over time",
+        "Battery": "Rechargeable",
+        "Price (US)": "~$100"
+      },
+      "scores": {
+        "Correction effectiveness": 4.5,
+        "Comfort": 4.2,
+        "Discreetness": 4.8,
+        "Value": 3.8,
+        "Ease of use": 4.5
+      }
+    },
+    {
+      "offerId": "comfymed-posture-brace",
+      "badge": "Beste klassische Stütze",
+      "review": "Die ComfyMed Achter-Schulterstütze zieht die Schultern während kurzer propriozeptiver Sitzungen physisch nach hinten und unten. Passt unter Kleidung und gibt klares taktiles Feedback. Die kritische Einschränkung: bei mehr als 20–30 Minuten Nutzung übernimmt sie die Arbeit der Muskeln — schafft Abhängigkeit statt Korrektur.",
+      "pros": [
+        "Starkes propriozeptives Feedback — Haltungsveränderung sofort spürbar",
+        "Passt unter Kleidung für unauffälliges Tragen",
+        "Niedriger Preis für grundlegende Kurzsitzungen"
+      ],
+      "cons": [
+        "Höchstes Muskelabhängigkeitsrisiko in der Kategorie — passives Halten erzeugt Abhängigkeit bei ganztägigem Tragen"
+      ],
+      "grade": "A",
+      "specs": {
+        "Type": "Passive figure-8 shoulder brace",
+        "Material": "Elastic fabric",
+        "Wear time": "20–30 min sessions recommended",
+        "Price (US)": "~$28"
+      },
+      "scores": {
+        "Correction effectiveness": 4.0,
+        "Comfort": 3.5,
+        "Discreetness": 4.2,
+        "Value": 4.8,
+        "Ease of use": 4.6
+      }
+    },
+    {
+      "offerId": "fitletic-posture-corrector",
+      "badge": "Beste für aktive Nutzung",
+      "review": "Fitletis leichte elastische Konstruktion ist die komfortabelste passive Option für den aktiven Gebrauch — während des Gehens, Erledigungen oder leichter Aktivität tragbar ohne Bewegungseinschränkung. Die leichtere Konstruktion bedeutet auch weniger Zugkraft und ist für signifikante Brustkyphose unzureichend. Elastizität verschlechtert sich durch wiederholtes Waschen in 3–6 Monaten.",
+      "pros": [
+        "Leichteste und komfortabelste passive Stütze für aktive Bewegung",
+        "Niedriges Profil passt unter jede Kleidung",
+        "Geeignet für leichtes Haltungsbewusstsein bei alltäglichen Aktivitäten"
+      ],
+      "cons": [
+        "Leichte Konstruktion liefert unzureichende Zugkraft für signifikante Brustkyphose"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Type": "Passive elastic shoulder brace",
+        "Construction": "Lightweight elastic",
+        "Lifespan": "~3–6 months with regular washing",
+        "Price (US)": "~$30"
+      },
+      "scores": {
+        "Correction effectiveness": 3.5,
+        "Comfort": 4.6,
+        "Discreetness": 4.7,
+        "Value": 4.4,
+        "Ease of use": 4.8
+      }
+    },
+    {
+      "offerId": "truweo-posture-corrector",
+      "badge": "Beste einstellbare Stütze",
+      "review": "Truweos duales Klettsystem bietet die präziseste Zugspannungseinstellung unter den passiven Stützen — ermöglicht genau die gewünschte Schulterrückziehkraft einzustellen. Der Kompromiss ist Klett-Verhaken an Kleidung und Haaren, und Überspannen kann Armkribbelgefühle durch Nervenkompression verursachen. Immer mit der lockersten Einstellung beginnen.",
+      "pros": [
+        "Duales Klettsystem für präzise Zugspannungseinstellung — konfigurierbarste passive Stütze",
+        "Unisex-Design passt einer breiten Körperform",
+        "Klare Größenanleitung für korrekten Sitz"
+      ],
+      "cons": [
+        "Klett verhakt sich an Kleidung und Haaren; Überspannen riskiert Armkribbelgefühle durch Nervenkompression"
+      ],
+      "grade": "B",
+      "specs": {
+        "Type": "Passive clavicle brace",
+        "Adjustment": "Dual velcro tension system",
+        "Design": "Unisex",
+        "Price (US)": "~$27"
+      },
+      "scores": {
+        "Correction effectiveness": 3.8,
+        "Comfort": 3.4,
+        "Discreetness": 3.8,
+        "Value": 4.6,
+        "Ease of use": 3.8
+      }
+    },
+    {
+      "offerId": "back-brace-posture-corrector",
+      "badge": "Bestes für Lendenwirbel",
+      "review": "Die Mueller Rückenstütze spricht spezifisch die Lendenwirbelbelastung an — das starre Panel mit einstellbarer seitlicher Kompression ist für stehende Arbeit und körperliche Belastung geeignet. Hilft nicht bei Brustkyphose oder runden Schultern und ist für sitzende Büroarbeit zu sperrig.",
+      "pros": [
+        "Starres Panel liefert echte Unterstützung für stehende Arbeit und körperliche Belastung",
+        "Einstellbare seitliche Kompression für personalisierte Lendenwirbelunterstützung",
+        "Einziges Produkt hier das diese Zone anspricht — spezifisch für den unteren Rücken"
+      ],
+      "cons": [
+        "Zu sperrig für sitzende Büroarbeit; spricht oberen Rücken, Schultern oder Nacken nicht an"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Passive lumbar support brace",
+        "Panel": "Rigid with adjustable side compression",
+        "Coverage": "Lower back only",
+        "Price (US)": "~$25"
+      },
+      "scores": {
+        "Correction effectiveness": 3.8,
+        "Comfort": 3.0,
+        "Discreetness": 2.5,
+        "Value": 4.5,
+        "Ease of use": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Büroarbeiter, die Haltung trainieren, nicht abstützen möchten",
+      "offerId": "upright-go-2",
+      "reason": "Aktives Biofeedback baut Haltungsgewohnheit auf, ohne die Muskelabhängigkeit zu erzeugen, die passive Stützen bei ganztägigem Tragen verursachen."
+    },
+    {
+      "label": "Für kurze propriozeptive Erinnerungssitzungen (20–30 Min.)",
+      "offerId": "comfymed-posture-brace",
+      "reason": "Starkes taktiles Feedback zum niedrigsten Preis — effektiv wenn kurz als Hinweis genutzt, nicht als strukturelle Stütze."
+    },
+    {
+      "label": "Für aktiven täglichen Gebrauch bei Bewegung und Erledigungen",
+      "offerId": "fitletic-posture-corrector",
+      "reason": "Leichteste passive Option — komfortabel für Gehen und leichte Aktivitäten ohne Bewegungseinschränkung."
+    },
+    {
+      "label": "Für Benutzer, die eine präzise einstellbare Stütze möchten",
+      "offerId": "truweo-posture-corrector",
+      "reason": "Duales Klettzugsystem bietet die präziseste Kontrolle über die Schulterrückziehkraft in der passiven Stützenklasse."
+    },
+    {
+      "label": "Für stehende Arbeiter mit Lendenwirbelbeschwerden",
+      "offerId": "back-brace-posture-corrector",
+      "reason": "Starres Lendenwirbelspanel mit einstellbarer Kompression ist speziell für stehende und körperliche Belastungsszenarien konzipiert."
+    }
+  ]
 }

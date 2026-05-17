@@ -53,5 +53,64 @@
     "sunny-sf-rw5515": "No subscription required. Basic LCD monitor tracks time, count, calories, and scan mode."
   },
   "pinDescription": "5 best rowing machines of 2026 tested — Concept2 vs Hydrow vs NordicTrack vs water vs budget. Full-body cardio at home! 🚣",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each machine was evaluated on resistance feel at moderate intensity, chassis build quality, acoustic output, price-to-performance ratio, and storage footprint — because a rower that folds into a closet gets used; one parked in the middle of a room often doesn't.",
+  "products": [
+    {
+      "offerId": "concept2-model-d",
+      "badge": "Best Overall",
+      "review": "The Concept2 Model D is the global benchmark for a reason: air resistance scales infinitely with effort, so a beginner and an Olympic rower get an honest workout on the same machine. The PM5 monitor's data accuracy is trusted by coaches worldwide. The real trade-off is noise — air rowers are loud, and if you share walls with neighbors you will hear about it.",
+      "pros": ["Infinitely scalable air resistance", "PM5 monitor is the industry data standard", "Folds vertically for compact storage"],
+      "cons": ["Noticeably loud during high-effort pulls"],
+      "grade": "A+",
+      "specs": {"Resistance type": "Air", "Monitor": "PM5", "Max user weight": "272 kg", "Seat height": "40 cm", "Folded footprint": "25 × 33 in", "Weight": "57 lbs (rail)", "Price": "~$900"},
+      "scores": {"Resistance feel": 5.0, "Build quality": 4.9, "Noise": 2.5, "Value": 4.5, "Footprint": 4.0}
+    },
+    {
+      "offerId": "hydrow-wave-rower",
+      "badge": "Best for Connected Fitness",
+      "review": "The Wave pairs electromagnetic resistance with a 16-inch touchscreen and a genuinely motivated class library — the feel is smoother and quieter than air, which makes it the better apartment choice. The subscription cost (~$44/month) is real and ongoing; factor it into the total ownership price before buying.",
+      "pros": ["Quieter than air resistance — apartment-friendly", "16-inch screen with live and on-demand classes", "Compact fold saves floor space"],
+      "cons": ["Subscription required for full content (~$44/month)"],
+      "grade": "A",
+      "specs": {"Resistance type": "Electromagnetic", "Screen": "16-inch touchscreen", "Subscription": "~$44/month", "Folds": "Yes", "Price": "$1,495"},
+      "scores": {"Resistance feel": 4.2, "Build quality": 4.3, "Noise": 4.5, "Value": 3.5, "Footprint": 4.3}
+    },
+    {
+      "offerId": "nordictrack-rw900",
+      "badge": "Best Screen Experience",
+      "review": "The RW900's 22-inch rotating HD screen is the largest in this comparison and iFIT's global route library is genuinely deep. Twenty-six digital resistance levels adjust automatically during instructor workouts. At 218 lbs it is semi-permanent once placed, and the iFIT subscription adds ongoing cost.",
+      "pros": ["22-inch HD rotating touchscreen", "26 digital resistance levels auto-adjust", "iFIT global route library"],
+      "cons": ["Heavy at 218 lbs — placement is semi-permanent"],
+      "grade": "B+",
+      "specs": {"Resistance type": "Magnetic/iFIT", "Screen": "22-inch HD", "Resistance levels": "26", "Weight": "218 lbs", "Subscription": "~$39/month", "Price": "$2,799"},
+      "scores": {"Resistance feel": 4.0, "Build quality": 4.2, "Noise": 4.3, "Value": 3.2, "Footprint": 2.5}
+    },
+    {
+      "offerId": "ergatta-rower",
+      "badge": "Best Water Resistance",
+      "review": "Ergatta's water flywheel produces the most natural rowing sensation in this group — the sound and resistance closely mimic open-water rowing. Its game-based workout platform is a genuine motivator for solo athletes who find instructor workouts repetitive. The proprietary platform limits you to Ergatta's ecosystem.",
+      "pros": ["Water flywheel = most realistic rowing feel", "Game-based workouts motivate solo athletes", "17.3-inch touchscreen with structured programs"],
+      "cons": ["Platform lock-in — no third-party content"],
+      "grade": "B",
+      "specs": {"Resistance type": "Water", "Screen": "17.3-inch touchscreen", "Subscription": "~$29/month", "Chassis": "WaterRower", "Price range": "$1,999–$2,499"},
+      "scores": {"Resistance feel": 4.8, "Build quality": 4.5, "Noise": 3.8, "Value": 3.4, "Footprint": 3.5}
+    },
+    {
+      "offerId": "sunny-sf-rw5515",
+      "badge": "Best Budget Pick",
+      "review": "At around $350, the SF-RW5515 gives you 12 magnetic resistance levels, a quiet ride, and a no-subscription entry into rowing. It won't replicate the feel of air or water, but for building a rowing habit or testing whether you like the movement, it's the lowest-risk starting point in this category.",
+      "pros": ["Quiet magnetic resistance — no subscription", "12 resistance levels on a solid aluminum rail", "Fits users up to 6'3\""],
+      "cons": ["Resistance feel is less dynamic than air or water"],
+      "grade": "B-",
+      "specs": {"Resistance type": "Magnetic", "Resistance levels": "12", "Rail length": "43.3 inches", "Max user weight": "250 lbs", "Monitor": "Basic LCD", "Price": "~$350"},
+      "scores": {"Resistance feel": 3.0, "Build quality": 3.5, "Noise": 5.0, "Value": 4.8, "Footprint": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For serious home athletes", "offerId": "concept2-model-d", "reason": "Industry-standard data accuracy and infinite resistance scaling reward athletes who want to track real progress over years, not months."},
+    {"label": "For apartment dwellers", "offerId": "hydrow-wave-rower", "reason": "Electromagnetic resistance and a folding frame keep noise and footprint low enough for shared-wall living."},
+    {"label": "For content-driven motivation", "offerId": "nordictrack-rw900", "reason": "The 22-inch screen and iFIT library suit people who need variety and instructor accountability to stay consistent."},
+    {"label": "For solo competitive athletes", "offerId": "ergatta-rower", "reason": "Game-based racing against personal records works better than class-based content for self-motivated athletes who dislike group instruction."},
+    {"label": "For rowing beginners on a budget", "offerId": "sunny-sf-rw5515", "reason": "A quiet, affordable machine with no subscription commitment is the right tool for testing whether rowing fits your routine."}
+  ]
 }

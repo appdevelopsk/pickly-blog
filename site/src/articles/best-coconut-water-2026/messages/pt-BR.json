@@ -58,5 +58,144 @@
     "zico-natural-coconut-water": "Pasteurizada, sem acucar adicionado, 500 ml. $2,50-3,50. Melhor agua de coco com perfil seco — ligeiramente menos doce que a Vita Coco, preferida por atletas. Correta para uso pos-treino onde o sabor ligeiramente menos doce e preferido."
   },
   "pinDescription": "Agua de coco 2026: Vita Coco vs Harmless Harvest vs ZICO vs Taste Nirvana — crua vs pasteurizada vs de concentrado explicado, por que a Harmless Harvest e rosada, comparacao de eletrolitos agua de coco vs bebidas esportivas, e a melhor agua de coco para hidratacao diaria. #aguadecoco #hidratacao #eletrolitos #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Avaliamos cada produto em perfil de sabor, transparência de origem, custo-benefício por porção, qualidade da embalagem e desempenho nos usos mais comuns. As certificações documentadas e avaliações verificadas de usuários foram confrontadas com as alegações de marketing.",
+  "products": [
+    {
+      "offerId": "vita-coco-original",
+      "badge": "Melhor escolha global",
+      "review": "Vita Coco Original é o padrão prático para a água de coco do dia a dia — pasteurizada, sem açúcar adicionado, 670 mg de potássio por porção em um Tetra Pak de longa duração disponível em todos os lugares. A pasteurização resulta em um sabor mais doce e menos complexo do que as opções cruas, mas é consistente, amplamente confiável e com bom preço para compra em caixas.",
+      "pros": ["Disponível em praticamente todas as redes de supermercados e lojas online", "Sem açúcar adicionado — apenas eletrólitos naturais", "Tetra Pak de longa duração — não precisa de geladeira"],
+      "cons": ["A pasteurização resulta em sabor mais doce e menos complexo do que a água de coco crua"],
+      "grade": "A+",
+      "specs": {
+        "Tamanho": "500 ml Tetra Pak",
+        "Processamento": "Pasteurizado",
+        "Açúcar adicionado": "Nenhum",
+        "Potássio": "~670 mg por porção",
+        "De concentrado": "Não"
+      },
+      "scores": {
+        "Sabor": 3.9,
+        "Custo-benefício": 4.7,
+        "Nutrição": 4.3,
+        "Praticidade": 5.0,
+        "Qualidade": 4.0
+      }
+    },
+    {
+      "offerId": "harmless-harvest-raw",
+      "badge": "Melhor crua / premium",
+      "review": "Harmless Harvest é o produto de referência em qualidade de água de coco crua nos EUA — nunca aquecida, processada em cadeia de frio da Tailândia, com a leve coloração rosa dos antioxidantes que só aparece em água de coco verdadeiramente crua. O sabor é visivelmente mais complexo e mais próximo do coco fresco do que qualquer opção pasteurizada. O preço mais alto e o formato exclusivamente refrigerado são compromissos reais por qualidade real.",
+      "pros": ["Nunca aquecida — sabor mais próximo da água de coco fresca disponível no varejo", "Naturalmente rosa por antioxidantes — indicador de qualidade, não um defeito", "Processada em cadeia de frio com cadeia de suprimentos mais curta e transparente"],
+      "cons": ["Apenas refrigerada — requer espaço na geladeira e tem prazo de validade mais curto"],
+      "grade": "A",
+      "specs": {
+        "Tamanho": "300–500 ml (refrigerada)",
+        "Processamento": "Crua (nunca aquecida)",
+        "Cor": "Transparente a levemente rosada (oxidação de antioxidantes)",
+        "Potássio": "~470–600 mg por porção",
+        "De concentrado": "Não"
+      },
+      "scores": {
+        "Sabor": 4.9,
+        "Custo-benefício": 3.2,
+        "Nutrição": 4.7,
+        "Praticidade": 3.5,
+        "Qualidade": 4.9
+      }
+    },
+    {
+      "offerId": "taste-nirvana-coconut-water",
+      "badge": "Melhor custo-benefício intermediário",
+      "review": "Taste Nirvana preenche o espaço entre a acessibilidade da Vita Coco e a qualidade crua da Harmless Harvest — pasteurizada mas sem concentrado, fornecida diretamente da Tailândia, disponível em garrafas de vidro que conservam melhor o sabor do que o Tetra Pak. O sabor se aproxima mais do coco fresco do que a Vita Coco sem o prêmio de produto cru.",
+      "pros": ["Sem concentrado — sabor mais fresco do que Vita Coco", "Opção de garrafa de vidro para melhor conservação do sabor", "Preço similar ao Vita Coco — qualidade acima da média"],
+      "cons": ["Menos distribuída do que Vita Coco — principalmente online e em mercearias asiáticas"],
+      "grade": "B+",
+      "specs": {
+        "Tamanho": "280 ml lata ou garrafa de vidro",
+        "Processamento": "Pasteurizado",
+        "Origem": "Tailândia (direta)",
+        "De concentrado": "Não",
+        "Potássio": "~430 mg por porção"
+      },
+      "scores": {
+        "Sabor": 4.3,
+        "Custo-benefício": 4.4,
+        "Nutrição": 4.2,
+        "Praticidade": 4.2,
+        "Qualidade": 4.3
+      }
+    },
+    {
+      "offerId": "c2o-pure-coconut-water",
+      "badge": "Melhor formato lata",
+      "review": "O formato lata do C2O fornece uma barreira de luz importante que os Tetra Pak não têm — a exposição à luz degrada os compostos aromáticos da água de coco ao longo da validade, e a lata de alumínio mitiga isso. Da Tailândia, sem concentrado, 500 ml por lata. A retenção de temperatura de uma lata gelada é uma vantagem prática adicional.",
+      "pros": ["A lata bloqueia a luz — melhor conservação do sabor ao longo da validade do que o Tetra Pak", "Tamanho maior de 500 ml por lata", "Sem concentrado, de origem tailandesa"],
+      "cons": ["Menos disponível do que Vita Coco — principalmente em mercearias asiáticas e online"],
+      "grade": "B",
+      "specs": {
+        "Tamanho": "500 ml lata",
+        "Processamento": "Pasteurizado",
+        "Embalagem": "Lata de alumínio (barreira de luz)",
+        "Origem": "Tailândia",
+        "De concentrado": "Não"
+      },
+      "scores": {
+        "Sabor": 4.2,
+        "Custo-benefício": 4.3,
+        "Nutrição": 4.1,
+        "Praticidade": 4.3,
+        "Qualidade": 4.2
+      }
+    },
+    {
+      "offerId": "zico-natural-coconut-water",
+      "badge": "Melhor para atletas",
+      "review": "ZICO tem um perfil de sabor ligeiramente mais seco e menos doce do que a Vita Coco — o que a torna a opção preferida de atletas que acham a doçura da Vita Coco muito proeminente durante e após o exercício. O perfil eletrolítico é comparável. A distribuição foi limitada após a Coca-Cola descontinuar e relançar o ZICO — verificar disponibilidade antes de contar com ele.",
+      "pros": ["Perfil mais seco — menos doce do que Vita Coco, preferido por muitos atletas", "Teor de eletrólitos comparável ao Vita Coco", "Sem açúcar adicionado, longa duração"],
+      "cons": ["Distribuição limitada desde a descontinuação da Coca-Cola em 2020 e relançamento — verificar disponibilidade"],
+      "grade": "B-",
+      "specs": {
+        "Tamanho": "500 ml",
+        "Processamento": "Pasteurizado",
+        "Açúcar adicionado": "Nenhum",
+        "Potássio": "~600 mg por porção",
+        "Perfil de sabor": "Seco / menos doce"
+      },
+      "scores": {
+        "Sabor": 4.0,
+        "Custo-benefício": 4.2,
+        "Nutrição": 4.3,
+        "Praticidade": 4.1,
+        "Qualidade": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para hidratação diária com bom custo-benefício",
+      "offerId": "vita-coco-original",
+      "reason": "Disponível em todo lugar, longa duração e com bom preço para compra em caixas — o padrão confiável sem surpresas."
+    },
+    {
+      "label": "Para a experiência mais próxima do fresco",
+      "offerId": "harmless-harvest-raw",
+      "reason": "Crua, nunca aquecida, naturalmente rosada — sabor visivelmente mais complexo do que qualquer opção pasteurizada. Vale o preço se o sabor é o objetivo."
+    },
+    {
+      "label": "Para qualidade acima da média sem o prêmio cru",
+      "offerId": "taste-nirvana-coconut-water",
+      "reason": "Sem concentrado, fornecimento direto da Tailândia, garrafa de vidro disponível — melhor do que Vita Coco sem o preço da Harmless Harvest."
+    },
+    {
+      "label": "Para atletas após o treino",
+      "offerId": "zico-natural-coconut-water",
+      "reason": "O perfil ligeiramente mais seco e menos doce é preferido por atletas que acham a Vita Coco muito doce durante e após o exercício."
+    },
+    {
+      "label": "Para armazenamento de longa duração com foco no sabor",
+      "offerId": "c2o-pure-coconut-water",
+      "reason": "A barreira de luz da lata de alumínio conserva melhor os compostos aromáticos do que a embalagem cartonada ao longo da validade."
+    }
+  ]
 }

@@ -53,5 +53,64 @@
     "sbd-wrist-wraps-competition": "45cm o 60cm, algodón tejido aprobado por la IPF, tensión consistente del cierre al extremo — la elección para atletas IPF que necesitan un rendimiento fiable en condiciones de competición."
   },
   "pinDescription": "Schiek, SBD, Titan, Rogue, Harbinger — 5 muñequeras comparadas por rigidez, longitud y aprobación IPF. Encuentra la adecuada para press de banca, OHP y competición de powerlifting. #muñequeras #powerlifting #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada muñequera fue evaluada en la relación rigidez-flexibilidad bajo cargas de press pesadas, durabilidad del velcro después de 100+ sesiones, cobertura por longitud, cumplimiento IPF y período de rodaje antes de que se adapte a la forma de la muñeca.",
+  "products": [
+    {
+      "offerId": "schiek-wrist-wraps-24inch",
+      "badge": "Mejor en general",
+      "review": "La 1100WRP de Schiek tiene la mejor relación rigidez-flexibilidad de la mezcla algodón/elástico de esta comparación — las 24 pulgadas bloquean la muñeca en posición neutral bajo carga sin interferir con la mecánica correcta del recorrido de la barra en el press de banca. La costura inclinada de la presilla del pulgar evita que se amontone entre series. No aprobada por la IPF, lo que solo importa si compites en eventos de federación testados.",
+      "pros": ["Mejor relación rigidez-flexibilidad para press pesado", "Costura inclinada de la presilla del pulgar previene el amontonamiento bajo carga", "Décadas de fiabilidad probada para gym y culturismo"],
+      "cons": ["No aprobada por IPF — no apta para competición en federación IPF"],
+      "grade": "A+",
+      "specs": {"Longitud": "24 pulgadas", "Material": "Mezcla algodón/elástico", "Cierre": "Velcro", "Aprobada IPF": "No", "Presilla del pulgar": "Costura inclinada", "Precio": "$24,95"},
+      "scores": {"Nivel de soporte": 4.5, "Durabilidad": 4.6, "Comodidad": 4.4, "Relación calidad-precio": 4.5, "Longitud del wrap": 4.8}
+    },
+    {
+      "offerId": "harbinger-21525-wrist-wraps",
+      "badge": "Mejor opción económica",
+      "review": "Las muñequeras de polipropileno de 20 pulgadas de Harbinger son la recomendación correcta para levantadores intermedios que necesitan soporte funcional de muñeca sin pagar precios de muñequeras de competición. La longitud más corta permite ponérselas y quitárselas más rápido entre ejercicios de empuje. El polipropileno es más rígido por unidad de grosor que el algodón.",
+      "pros": ["Las más rápidas de poner y quitar — útiles en circuitos de empuje", "Polipropileno más rígido por unidad de grosor que alternativas de algodón", "Opción más económica con soporte real de muñeca en esta comparación"],
+      "cons": ["Longitud de 20 pulgadas da menos cobertura que las muñequeras de competición de 24 pulgadas"],
+      "grade": "A",
+      "specs": {"Longitud": "20 pulgadas", "Material": "Polipropileno", "Cierre": "Velcro ajustable", "Aprobada IPF": "No", "Presilla del pulgar": "Sí", "Precio": "$13,95"},
+      "scores": {"Nivel de soporte": 3.8, "Durabilidad": 4.3, "Comodidad": 4.2, "Relación calidad-precio": 4.9, "Longitud del wrap": 3.5}
+    },
+    {
+      "offerId": "titan-signature-gold-wrist-wraps",
+      "badge": "Mejor para powerlifting de competición",
+      "review": "Las Signature Gold de Titan están construidas para un único objetivo: máxima restricción de extensión de muñeca en intentos de press de banca de máximo esfuerzo. La mezcla de algodón más densa y el velcro antideslizante mantienen la tensión durante toda una sesión — el principal punto de fallo en muñequeras más baratas. La rigidez las hace impráctica para series generales de calentamiento.",
+      "pros": ["Aprobadas IPF para divisiones en bruto y equipado", "Velcro antideslizante mantiene tensión sin deslizarse durante toda una sesión", "Máxima restricción de extensión de muñeca para press de banca de competición"],
+      "cons": ["Demasiado rígidas para series generales de calentamiento — ralentiza la configuración a intensidad moderada"],
+      "grade": "B+",
+      "specs": {"Longitud": "24 pulgadas", "Material": "Mezcla de algodón pesada", "Cierre": "Velcro antideslizante", "Aprobada IPF": "Sí", "Uso en competición": "En bruto y equipado", "Precio": "$36,99"},
+      "scores": {"Nivel de soporte": 5.0, "Durabilidad": 4.7, "Comodidad": 3.8, "Relación calidad-precio": 3.9, "Longitud del wrap": 4.8}
+    },
+    {
+      "offerId": "rogue-wrist-wraps",
+      "badge": "Mejor versátil",
+      "review": "Las muñequeras de 18 pulgadas de rigidez moderada de Rogue son la opción más versátil para levantadores que alternan entre press al estilo powerlifting y movimientos derivados del levantamiento olímpico. La longitud más corta y la construcción más flexible de algodón/elástico permiten el rango de movimiento de muñeca en sentadillas frontales y limpiezas donde las muñequeras de competición restringirían demasiado. Fabricadas en Columbus, Ohio.",
+      "pros": ["Versátiles para press de banca, press de hombros y levantamiento olímpico", "Longitud de 18 pulgadas funciona bien para variedad de entrenamiento", "Fabricación estadounidense de Rogue con QC consistente"],
+      "cons": ["Longitud de 18 pulgadas da menos cobertura que las de 24 pulgadas en press de máximo esfuerzo"],
+      "grade": "B",
+      "specs": {"Longitud": "18 pulgadas", "Material": "Mezcla algodón/elástico", "Cierre": "Velcro", "Aprobada IPF": "No", "Fabricada en": "Columbus, Ohio, EE.UU.", "Precio": "$15,00"},
+      "scores": {"Nivel de soporte": 4.0, "Durabilidad": 4.5, "Comodidad": 4.6, "Relación calidad-precio": 4.7, "Longitud del wrap": 3.6}
+    },
+    {
+      "offerId": "sbd-wrist-wraps-competition",
+      "badge": "Mejor para atletas IPF",
+      "review": "La mezcla de algodón tejido de SBD mantiene tensión consistente a lo largo de toda la longitud del wrap — apretada en el cierre y aun así firme a mitad del wrap, lo que importa en competiciones donde los asistentes no pueden re-envolver entre intentos. Disponible en 45cm y 60cm, ambas aprobadas por IPF. El período de rodaje real (cinco o seis sesiones de rigidez antinatural) es el único punto de fricción.",
+      "pros": ["Más apariciones en campeonatos del mundo IPF en press de banca que cualquier otro wrap", "Tensión consistente del cierre al extremo (sin aflojamiento a mitad del wrap)", "Disponible en 45cm y 60cm para adaptarse a los requisitos de competición"],
+      "cons": ["Período de rodaje de 5–6 sesiones antes de que se adapten y se pongan fácilmente"],
+      "grade": "B-",
+      "specs": {"Opciones de longitud": "45cm / 60cm", "Material": "Mezcla de algodón tejido", "Cierre": "Velcro", "Aprobada IPF": "Sí", "Rigidez": "Máxima", "Precio": "$42,50"},
+      "scores": {"Nivel de soporte": 5.0, "Durabilidad": 4.9, "Comodidad": 3.6, "Relación calidad-precio": 3.5, "Longitud del wrap": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para levantadores serios de gym", "offerId": "schiek-wrist-wraps-24inch", "reason": "Mejor equilibrio de rigidez general para press pesado en gym sin el overhead de rigidez de las muñequeras de competición."},
+    {"label": "Para levantadores intermedios con presupuesto", "offerId": "harbinger-21525-wrist-wraps", "reason": "Soporte real de muñeca al precio más económico de esta comparación — rápidas de poner y quitar entre series."},
+    {"label": "Para powerlifters IPF (en bruto o equipado)", "offerId": "sbd-wrist-wraps-competition", "reason": "Tensión consistente a lo largo del wrap las hace la elección del día de competición cuando los asistentes no pueden re-envolver entre intentos."},
+    {"label": "Para fuerza general + levantamiento olímpico", "offerId": "rogue-wrist-wraps", "reason": "Rigidez moderada a 18 pulgadas funciona para ejercicios de empuje y movimientos olímpicos sin cambiar de muñequeras."},
+    {"label": "Para especialistas en press de banca de competición", "offerId": "titan-signature-gold-wrist-wraps", "reason": "Máxima restricción de extensión con velcro antideslizante — aprobadas IPF y diseñadas específicamente para el lockout en press de banca de competición."}
+  ]
 }

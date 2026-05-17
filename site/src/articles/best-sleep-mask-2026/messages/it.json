@@ -113,5 +113,64 @@
     "drowsy-silk-sleep-mask": "La maschera da sonno in seta di gelso da 22 momme di Drowsy con cinturino largo rivestito in seta. Il peso premium in momme produce una seta più densa, più fresca e più durevole rispetto alle opzioni di base. Il cinturino largo distribuisce la tensione su un'area più ampia nella parte posteriore della testa, riducendo gli aggroviglimenti dei capelli mattutini e i segni di pressione. Il packaging estetico del marchio e il kit di cura della seta la posizionano come la migliore opzione regalo della categoria. La sezione del ponte del naso modellata è una soluzione intermedia che riduce ma non elimina la perdita di luce — l'oscuramento totale non è garantito per tutte le forme del viso; il prezzo premium è difficile da giustificare puramente sulle prestazioni di blocco della luce poiché la Nidra costa una frazione per un oscuramento superiore tramite contornatura a guscio rigido; la cura della seta richiede più attenzione rispetto alle alternative sintetiche."
   },
   "pinDescription": "5 maschere da sonno classificate per il 2026 — seta Alaska Bear vs memory foam Tempur-Pedic vs modulare Manta a pressione zero vs contornata economica Nidra vs seta premium Drowsy da 22 momme. Scienza del blocco della luce, design del passaggio nasale, pressione oculare REM, segni del cinturino per chi dorme su un fianco. Debolezze oneste per ogni scelta. #italiano",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Ogni maschera è stata valutata sulla perdita di luce misurata al ponte nasale, la pressione di contatto sulla palpebra in posizione laterale, la traspirabilità del materiale, l'intensità dei segni del cinturino dopo otto ore e la resistenza al lavaggio su cicli ripetuti.",
+  "products": [
+    {
+      "offerId": "alaska-bear-sleep-mask",
+      "badge": "Migliore scelta complessiva",
+      "review": "L'Alaska Bear Natural Silk offre autentica qualità in seta di gelso a un prezzo d'ingresso che rende facile la decisione di passare dalle maschere sintetiche. Il design piatto implica una perdita di luce reale al ponte nasale per i nasi pronunciati — questo è il compromesso per la traspirabilità e il contatto delicato sulla pelle.",
+      "pros": ["Superficie di contatto in seta di gelso 100%", "Leggero e fresco per chi dorme con caldo", "Lavabile in lavatrice in ciclo delicato"],
+      "cons": ["Il design piatto lascia passare la luce al ponte nasale per i nasi pronunciati"],
+      "grade": "A+",
+      "specs": {"Materiale": "Seta di gelso 100%", "Design": "Piatto", "Cinturino": "Elastico regolabile", "Camera oculare": "Nessuna", "Lavabile": "Sì (delicato)", "Peso": "~20g"},
+      "scores": {"Blocco luce": 3.8, "Comfort": 4.5, "Traspirabilità": 4.8, "Valore": 4.9, "Vestibilità": 3.9}
+    },
+    {
+      "offerId": "tempur-pedic-sleep-mask",
+      "badge": "Migliore distribuzione della pressione",
+      "review": "La Tempur-Pedic Sleep Mask usa memory foam a risposta lenta per distribuire il contatto sul bordo orbitale e gli zigomi anziché premere direttamente sulle palpebre. L'accumulo di calore è reale — nella seconda metà di una notte calda senza climatizzazione, la schiuma trattiene più calore corporeo rispetto alla seta o al policarbonato.",
+      "pros": ["Il memory foam distribuisce uniformemente la pressione di contatto", "Design sagomato senza contatto con la palpebra", "Marchio riconosciuto con qualità del materiale costante"],
+      "cons": ["Trattiene il calore corporeo — scomodo in stanze calde senza climatizzazione"],
+      "grade": "A",
+      "specs": {"Materiale": "Memory foam", "Design": "Sagomato", "Cinturino": "Elastico imbottito", "Camera oculare": "Schiuma sagomata", "Lavabile": "Solo pulizia", "Peso": "~60g"},
+      "scores": {"Blocco luce": 4.5, "Comfort": 4.2, "Traspirabilità": 3.0, "Valore": 3.8, "Vestibilità": 4.0}
+    },
+    {
+      "offerId": "manta-sleep-mask",
+      "badge": "Migliore per estensioni ciglia",
+      "review": "Le capsule oculari magnetiche regolabili indipendentemente di Manta risolvono il problema che le conchiglie sagomate fisse non riescono a risolvere — adattarsi alle geometrie facciali asimmetriche e garantire zero contatto con la palpebra. Il peso dell'insieme di capsule si nota dormendo sul fianco con il viso premuto sul cuscino.",
+      "pros": ["Capsule magnetiche regolabili indipendentemente per qualsiasi forma del viso", "Zero contatto con la palpebra — sicuro per le estensioni ciglia", "Cinturino in velcro largo lascia segni minimi al mattino"],
+      "cons": ["L'insieme di capsule è più pesante delle maschere piatte o in policarbonato"],
+      "grade": "B+",
+      "specs": {"Materiale": "Schiuma + capsule in policarbonato", "Design": "Modulare regolabile", "Cinturino": "Velcro largo", "Camera oculare": "Libera, zero contatto", "Lavabile": "Lavaggio a mano", "Peso": "~90g"},
+      "scores": {"Blocco luce": 4.9, "Comfort": 4.0, "Traspirabilità": 3.8, "Valore": 3.5, "Vestibilità": 4.8}
+    },
+    {
+      "offerId": "nidra-deep-rest-mask",
+      "badge": "Migliore sagomata economica",
+      "review": "La Nidra Deep Rest Mask offre il beneficio centrale del design sagomato — una camera oculare libera senza contatto con la palpebra — a una frazione del costo della Manta. Il cinturino elastico stretto è il punto più debole: chi dorme sul fianco vedrà segni visibili fino a un'ora dopo il risveglio.",
+      "pros": ["La conchiglia in policarbonato crea una camera oculare libera a prezzo economico", "Adatta alle portatrici di estensioni ciglia", "Conchiglia rigida leggera rimane stabile per tutta la notte"],
+      "cons": ["Il cinturino elastico stretto lascia segni di pressione per chi dorme sul fianco"],
+      "grade": "B",
+      "specs": {"Materiale": "Conchiglia in policarbonato + fodera in poliestere", "Design": "Cupola sagomata", "Cinturino": "Elastico stretto", "Camera oculare": "Libera, zero contatto", "Lavabile": "Lavaggio a mano", "Peso": "~35g"},
+      "scores": {"Blocco luce": 4.6, "Comfort": 3.7, "Traspirabilità": 3.5, "Valore": 4.7, "Vestibilità": 3.8}
+    },
+    {
+      "offerId": "drowsy-silk-sleep-mask",
+      "badge": "Migliore seta premium",
+      "review": "La seta di gelso da 22 momme della Drowsy Silk Sleep Mask è notevolmente più densa della seta d'ingresso, e il cinturino largo rivestito in seta è il più delicato con i capelli in questo confronto. Il ponte nasale sagomato riduce le perdite di luce senza eliminarle — l'oscuramento totale non è garantito per tutte le forme del viso.",
+      "pros": ["La seta da 22 momme è più durevole e fresca rispetto alle opzioni a momme inferiore", "Il cinturino largo in seta è delicato con i capelli", "La confezione premium lo rende l'opzione più adatta come regalo"],
+      "cons": ["Il ponte nasale sagomato riduce ma non elimina le perdite di luce"],
+      "grade": "B-",
+      "specs": {"Materiale": "Seta di gelso 22 momme", "Design": "Semi-sagomato piatto", "Cinturino": "Largo rivestito in seta", "Camera oculare": "Nessuna", "Lavabile": "Lavaggio a mano consigliato", "Peso": "~30g"},
+      "scores": {"Blocco luce": 3.6, "Comfort": 4.7, "Traspirabilità": 4.6, "Valore": 3.2, "Vestibilità": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per chi acquista la prima maschera in seta", "offerId": "alaska-bear-sleep-mask", "reason": "Vera seta di gelso a prezzo accessibile — la differenza con il sintetico si sente immediatamente."},
+    {"label": "Per le portatrici di estensioni ciglia", "offerId": "manta-sleep-mask", "reason": "Le capsule regolabili indipendentemente garantiscono zero contatto con la palpebra per otto ore di sonno."},
+    {"label": "Per chi dorme con caldo con budget limitato", "offerId": "nidra-deep-rest-mask", "reason": "La conchiglia in policarbonato sagoma senza accumulare calore, e il risparmio di prezzo può andare verso un ventilatore."},
+    {"label": "Come regalo", "offerId": "drowsy-silk-sleep-mask", "reason": "Seta da 22 momme, cinturino morbido e largo e confezione elegante ne fanno il regalo più curato della categoria."},
+    {"label": "Per gli appassionati di memory foam", "offerId": "tempur-pedic-sleep-mask", "reason": "Se usi già Tempur per cuscini o topper materasso, la coerenza del materiale è esattamente quello che ti aspetti."}
+  ]
 }

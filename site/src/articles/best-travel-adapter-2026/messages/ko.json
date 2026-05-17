@@ -113,5 +113,64 @@
     "aulola-travel-adapter": "초콤팩트 형태 요소 — 이 비교의 다른 어떤 어댑터보다 더 가볍고 작습니다. 유형 A, C, G, I를 커버합니다. 단일 AC 콘센트, 내장 USB 충전 없음. $15 미만. USB 포트 없이 AC 콘센트를 통해 한 번에 한 개의 장치; 서지 보호 없음; 빌드 품질 허용 오차는 일부 플러그 유형, 특히 유형 G(영국) 핀에서 느슨할 수 있음; 여러 장치를 가진 여행자의 주요 솔루션으로 적합하지 않습니다."
   },
   "pinDescription": "2026년 최고의 여행 어댑터 — 변환기가 필요한가요 아니면 플러그 어댑터만 필요한가요? MacBook 충전을 위한 USB-C PD 와트수, 동남아시아를 위한 서지 보호, 유형 A/C/G/I 세계 플러그 지도. EPICKA vs Ceptics vs BESTEK vs Satechi vs Aulola. 모든 선택의 솔직한 약점. #한국어",
-  "methodology": "각 제품을 공식 스펙, 제3자 벤치마크, 실사용자 리포트를 기반으로 평가했습니다. 기능, 성능, 마감 품질, 생태계 호환성, 총소유비용으로 점수를 매겼습니다."
+  "methodology": "각 어댑터를 플러그 유형 범위, USB-C PD 출력 와트수, 서지 보호 등급, 내구성, 액세서리 포함 총소유비용으로 평가했습니다.",
+  "products": [
+    {
+      "offerId": "epicka-universal-adapter",
+      "badge": "전체 최고",
+      "review": "10가지 플러그 유형으로 150개국 이상을 커버하며 USB-A 4포트와 USB-C를 갖춤 — 이 비교에서 가장 포괄적인 플러그 커버리지. 2000줄 MOV 서지 보호는 동남아시아 및 남아시아 여행에 실질적인 보험을 제공합니다. 수축형 메커니즘은 1년의 집중 사용 후 느슨해질 수 있으며, USB-C 18W는 MacBook 빠른 충전에 부족합니다.",
+      "pros": ["10가지 플러그 유형으로 150개국 이상 지원", "2000줄 MOV 서지 보호", "5개 포트 동시 충전"],
+      "cons": ["USB-C 18W만 — 노트북 고속 충전에는 부족"],
+      "grade": "A+",
+      "specs": {"플러그 유형": "A, B, C, D, E/F, G, H, I, L, N", "국가 수": "150개국 이상", "USB-A 포트": "4", "USB-C 출력": "18W", "서지 보호": "2000줄 (MOV)", "AC 콘센트": "1", "최대 부하": "6A / 1380W"},
+      "scores": {"Compatibility": 5.0, "Build quality": 4.2, "USB ports": 4.5, "Value": 4.8, "Safety features": 5.0}
+    },
+    {
+      "offerId": "ceptics-world-travel-adapter",
+      "badge": "최고의 모듈식 어댑터",
+      "review": "교환 가능한 플러그 헤드를 통해 필요한 지역만 휴대 가능 — 단일 지역 여행에서 가장 가볍고 슬림한 옵션. USB-A 충전은 공통 본체에 내장되어 있습니다. 출발 전에 플러그 유형을 계획해야 합니다.",
+      "pros": ["지역당 가장 가볍고 슬림", "필요한 헤드만 구매", "USB-A 포트 내장"],
+      "cons": ["서지 보호 없음", "여행 전 플러그 유형 계획 필요"],
+      "grade": "A",
+      "specs": {"플러그 유형": "A, C/E/F, G, I (모듈식)", "디자인": "교환 가능한 지역 헤드", "USB-A 포트": "2", "USB-C 출력": "없음", "서지 보호": "없음", "AC 콘센트": "1", "무게": "최경량"},
+      "scores": {"Compatibility": 4.0, "Build quality": 4.5, "USB ports": 3.5, "Value": 4.5, "Safety features": 3.0}
+    },
+    {
+      "offerId": "bestek-travel-adapter",
+      "badge": "최고의 전압 변환기 내장 어댑터",
+      "review": "별도 유닛 없이 전압 변환기 문제를 해결하는 유일한 어댑터 — 내장 220W 스텝다운 트랜스포머. 어댑터 전용 옵션보다 무겁고 부피가 크며; 간헐적 사용 등급으로 지속적으로 켜진 기기에는 적합하지 않습니다.",
+      "pros": ["220W 스텝다운 전압 변환기 내장", "A, C, G, I 및 B 커버", "USB 충전 포트 포함"],
+      "cons": ["가장 무겁고 부피가 큼", "간헐적 사용 — 지속 부하 불가"],
+      "grade": "B+",
+      "specs": {"플러그 유형": "A, B, C, G, I", "변환기": "220W 스텝다운 (간헐적)", "USB-A 포트": "3", "USB-C 출력": "없음", "서지 보호": "있음", "AC 콘센트": "1", "최대 변환 부하": "220W"},
+      "scores": {"Compatibility": 4.0, "Build quality": 4.0, "USB ports": 3.8, "Value": 4.0, "Safety features": 4.5}
+    },
+    {
+      "offerId": "satechi-travel-adapter",
+      "badge": "노트북 충전 최고",
+      "review": "30W USB-C PD 포트는 여기서 가장 높은 와트수이며 MacBook Air 야간 충전에 유일하게 적합합니다. 슬림한 평면 프로파일이 노트북 가방 주머니에 완벽하게 들어갑니다. Type D/M 없음으로 인도나 남아프리카에는 적합하지 않습니다.",
+      "pros": ["USB-C PD 30W — MacBook Air를 밤새 충전", "슬림하고 평평한 디자인", "프리미엄 마감 품질"],
+      "cons": ["Type D/M 없음 — 인도나 남아프리카 불가"],
+      "grade": "B",
+      "specs": {"플러그 유형": "A, C, G, I", "USB-C PD 출력": "30W", "USB-A 포트": "1", "서지 보호": "없음", "AC 콘센트": "1", "폼 팩터": "슬림 평면 프로파일", "가격대": "프리미엄"},
+      "scores": {"Compatibility": 3.8, "Build quality": 5.0, "USB ports": 4.0, "Value": 3.5, "Safety features": 3.0}
+    },
+    {
+      "offerId": "aulola-travel-adapter",
+      "badge": "최고의 예산/예비 어댑터",
+      "review": "울트라 컴팩트하고 16달러 미만 — USB 충전기가 별도로 있는 단일 기기 여행자나 예비용으로 유용합니다. 4가지 주요 플러그 유형을 가장 작은 폼 팩터로 커버합니다. USB 포트 없음, 서지 보호 없음.",
+      "pros": ["울트라 컴팩트 — 어느 주머니에나 들어감", "4가지 주요 플러그 유형 커버", "16달러 미만"],
+      "cons": ["USB 포트 없음 — AC 통해 한 번에 한 기기만", "서지 보호 없음"],
+      "grade": "B-",
+      "specs": {"플러그 유형": "A, C, G, I", "USB 포트": "없음", "서지 보호": "없음", "AC 콘센트": "1", "최대 부하": "6A / 1500W", "폼 팩터": "울트라 컴팩트", "가격대": "예산"},
+      "scores": {"Compatibility": 3.5, "Build quality": 3.0, "USB ports": 1.0, "Value": 5.0, "Safety features": 2.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "다국가 잦은 여행자를 위해", "offerId": "epicka-universal-adapter", "reason": "한 어댑터로 모든 목적지 커버, 서지 보호 내장 — 계획 불필요."},
+    {"label": "MacBook 사용 원격 근무자를 위해", "offerId": "satechi-travel-adapter", "reason": "여기서 유일한 30W USB-C PD 포트로 MacBook Air를 실용적인 속도로 충전."},
+    {"label": "110V 기기를 가진 여행자를 위해", "offerId": "bestek-travel-adapter", "reason": "내장 트랜스포머 — 해외에서 110V 기기를 위한 유일한 해결책."},
+    {"label": "단일 지역 미니멀리스트 여행자를 위해", "offerId": "ceptics-world-travel-adapter", "reason": "필요한 헤드만 휴대 — 계획된 여정에 가장 가벼운 조합."},
+    {"label": "예비용 또는 단일 기기 여행자를 위해", "offerId": "aulola-travel-adapter", "reason": "가장 작고 저렴 — 예비용이나 단일 기기 여행에 적합."}
+  ]
 }

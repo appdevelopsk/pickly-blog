@@ -58,5 +58,63 @@
     "yerba-mate-electric-gourd": "Thermos électrique maintenant 75-80°C, bombilla intégrée ou séparée. $25-60. Meilleur pour une utilisation au bureau/en voyage — élimine les allers-retours répétés vers la bouilloire. La précision de la température est la spécification clé à vérifier avant l'achat."
   },
   "pinDescription": "Yerba maté 2026 : Cruz de Malta vs Guayaki vs Taragui, comment préparer un maté traditionnel avec calebasse et bombilla, température de l'eau (pas en ébullition), con palo vs sin palo expliqué, et la meilleure configuration de yerba maté pour la maison ou le bureau. #yerbaMate #maté #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Nous avons évalué chaque produit sur le profil aromatique, la transparence de l'approvisionnement, la valeur par portion, l'intégrité de l'emballage et les performances dans les cas d'usage courants. Les certifications documentées et les avis vérifiés ont été confrontés aux affirmations marketing.",
+  "products": [
+    {
+      "offerId": "cruz-de-malta-yerba-mate",
+      "badge": "Meilleur choix général",
+      "review": "Cruz de Malta est la marque argentine de référence avec un goût équilibré et un prix accessible — convient aussi bien aux débutants qu'aux buveurs expérimentés. Ceux qui préfèrent l'intensité sin palo devront chercher ailleurs.",
+      "pros": ["Saveur traditionnelle argentine équilibrée", "L'option la plus abordable", "Large gamme con palo et sin palo"],
+      "cons": ["Moins d'intensité en caféine que les marques purement sin palo"],
+      "grade": "A+",
+      "specs": {"Style": "Con palo", "Origine": "Argentine", "Contenu": "500g-1kg", "Certification": "aucune"},
+      "scores": {"Saveur": 4.7, "Qualité de caféine": 4.3, "Valeur": 4.9, "Qualité d'origine": 4.6, "Facilité de préparation": 4.5}
+    },
+    {
+      "offerId": "guayaki-yerba-mate-traditional",
+      "badge": "Meilleure option bio",
+      "review": "Guayaki Traditional est certifié Fair Trade et biologique — ses engagements qualité sont vérifiables. Plus cher que Cruz de Malta, mais l'investissement se justifie pour les acheteurs soucieux de l'origine éthique.",
+      "pros": ["Certifié Fair Trade et biologique", "Profil aromatique fumé et complexe", "Large disponibilité sur les marchés occidentaux"],
+      "cons": ["Coût plus élevé pour le même poids"],
+      "grade": "A",
+      "specs": {"Style": "Con palo", "Origine": "Brésil/Argentine", "Certification": "Fair Trade, Bio", "Contenu": "75g-1kg"},
+      "scores": {"Saveur": 4.5, "Qualité de caféine": 4.6, "Valeur": 3.9, "Qualité d'origine": 4.9, "Facilité de préparation": 4.4}
+    },
+    {
+      "offerId": "taragui-yerba-mate",
+      "badge": "Meilleure disponibilité internationale",
+      "review": "Taragui est l'une des plus grandes marques argentines, particulièrement appréciée pour ses mélanges sin palo à haute intensité de caféine. Facile à trouver dans le monde entier avec une qualité constante.",
+      "pros": ["Disponible dans le monde entier", "Haute intensité de caféine (sin palo)", "Qualité constante"],
+      "cons": ["Légèrement plus cher que Cruz de Malta"],
+      "grade": "B+",
+      "specs": {"Style": "Sin palo", "Origine": "Argentine", "Contenu": "250g-1kg", "Certification": "aucune"},
+      "scores": {"Saveur": 4.4, "Qualité de caféine": 4.8, "Valeur": 4.2, "Qualité d'origine": 4.5, "Facilité de préparation": 4.6}
+    },
+    {
+      "offerId": "gourd-and-bombilla-set",
+      "badge": "Meilleur kit de démarrage",
+      "review": "La calebasse et la bombilla à ressort offrent le point d'entrée le plus économique pour la préparation traditionnelle du maté. Avec un peu de pratique sur le remplissage et la température de l'eau, on profite d'un maté authentique dès le premier jour.",
+      "pros": ["Permet la préparation traditionnelle immédiatement", "Construction simple et facile à nettoyer", "Kit de démarrage économique"],
+      "cons": ["Nécessite du temps d'apprentissage pour la technique correcte"],
+      "grade": "B",
+      "specs": {"Matériau": "Calebasse/Acier inoxydable", "Type de bombilla": "Filtre à ressort", "Taille": "Standard env. 300ml", "Lave-vaisselle": "Non"},
+      "scores": {"Saveur": 4.2, "Qualité de caféine": 4.0, "Valeur": 4.5, "Qualité d'origine": 4.1, "Facilité de préparation": 3.8}
+    },
+    {
+      "offerId": "yerba-mate-electric-gourd",
+      "badge": "Meilleur pour bureau/voyage",
+      "review": "Le thermos électrique maintient automatiquement 75-80°C — plus besoin de se déplacer vers la bouilloire à répétition. Idéal pour la consommation au bureau ou lors de voyages fréquents où la constance de la température est essentielle.",
+      "pros": ["Maintient automatiquement 75-80°C", "Plus besoin de remplir la bouilloire", "Idéal pour bureau et voyages"],
+      "cons": ["Nécessite une prise électrique, inadapté en extérieur"],
+      "grade": "B-",
+      "specs": {"Réglage température": "75-80°C", "Capacité": "env. 500ml", "Alimentation": "CA/USB", "Bombilla": "intégrée ou séparée"},
+      "scores": {"Saveur": 4.0, "Qualité de caféine": 4.1, "Valeur": 3.8, "Qualité d'origine": 3.9, "Facilité de préparation": 4.9}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour ceux qui découvrent le maté pour la première fois", "offerId": "cruz-de-malta-yerba-mate", "reason": "Abordable et équilibré en goût — l'entrée idéale pour votre première expérience avec le maté."},
+    {"label": "Pour les acheteurs sensibles à l'origine bio et éthique", "offerId": "guayaki-yerba-mate-traditional", "reason": "Des certifications vérifiables garantissent une origine éthique et une qualité sans compromis."},
+    {"label": "Pour les buveurs expérimentés qui veulent plus de caféine", "offerId": "taragui-yerba-mate", "reason": "Taragui Sin Palo offre une intensité plus élevée et se trouve facilement partout dans le monde."},
+    {"label": "Pour une consommation au bureau ou lors de voyages fréquents", "offerId": "yerba-mate-electric-gourd", "reason": "La régulation automatique de la température supprime les allers-retours vers la bouilloire à chaque recharge."}
+  ]
 }

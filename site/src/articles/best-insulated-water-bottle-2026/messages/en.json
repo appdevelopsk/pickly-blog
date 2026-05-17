@@ -107,5 +107,62 @@
     "camelbak-chute-mag": "Hiker-optimized vacuum bottle with magnetic flip cap — cap stays open magnetically during pouring and cannot be lost on trail, 25oz stainless vacuum insulation, lighter than 32oz alternatives. Smaller 25oz capacity needs more frequent refills on longer hikes; magnetic lid can open if dropped cap-down; not fully spill-proof."
   },
   "pinDescription": "Five insulated water bottles compared in 2026: Hydro Flask, Stanley Quencher, Yeti Rambler, Nalgene Silo, and CamelBak Chute Mag. How vacuum insulation works, 24h cold vs 12h hot retention, wide vs narrow mouth for ice cubes vs commute drinking, lid types, weight trade-offs for hiking, and why Japanese Thermos and Zojirushi bottles are worth comparing.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each bottle was rated on vacuum insulation effectiveness (cold retention at 24h, hot retention at 12h), lid leak resistance from owner reports, stainless grade and coating durability, total cost including replacement lids, ease of brush-cleaning for interior and lid mechanism, and weight vs capacity trade-off for hiking use.",
+  "products": [
+    {
+      "offerId": "hydro-flask-wide-mouth",
+      "badge": "Best Overall",
+      "review": "Hydro Flask's 32oz Wide Mouth is the industry benchmark — 24h cold and 12h hot retention backed by double-wall Pro-Grade 18/8 stainless, wide mouth that accepts full-size ice cubes, and a large accessory ecosystem for lid upgrades. The lifetime warranty against vacuum failure is the strongest in this comparison. Trade-offs: 454g is heavier than the Yeti at equivalent size, and the screw-cap requires two hands to open.",
+      "pros": ["24h cold / 12h hot retention — double-wall TempShield vacuum insulation", "Wide mouth accepts full-size ice cubes — most versatile mouth opening in this comparison", "Lifetime warranty against vacuum failure — strongest manufacturer backing in this comparison"],
+      "cons": ["454g for 32oz — heavier than competitors at equivalent size; screw cap requires two hands"],
+      "grade": "A+",
+      "specs": {"Capacity": "32oz (946ml)", "Material": "Pro-Grade 18/8 stainless", "Cold retention": "24h", "Hot retention": "12h", "Mouth width": "Wide (ice-compatible)", "Weight": "454g", "Warranty": "Lifetime against vacuum failure"},
+      "scores": {"Insulation": 4.9, "Leak resistance": 4.7, "Durability": 4.9, "Value": 4.2, "Ease of cleaning": 4.5}
+    },
+    {
+      "offerId": "stanley-quencher-tumbler",
+      "badge": "Best for Desk and Commute",
+      "review": "The Stanley Quencher H2.0 is a tumbler, not a traditional bottle — the handle, straw lid, and car-cup-holder-compatible base make it optimized for desk and commute use rather than backpack carry. 24h cold insulation holds well through a full workday. The concrete limitation is form factor: the tumbler profile doesn't fit most backpack side pockets and the straw requires more maintenance than a screw cap.",
+      "pros": ["Handle + straw lid design optimized for desk use and car commuting", "Car-cup-holder compatible base — fits standard center consoles", "Spill-resistant straw lid suitable for office environments"],
+      "cons": ["Tumbler profile doesn't fit backpack side pockets; straw lid requires more cleaning maintenance than screw caps"],
+      "grade": "A",
+      "specs": {"Capacity": "30oz (887ml)", "Material": "18/8 stainless steel", "Cold retention": "24h", "Lid type": "Straw + handle", "Car cup compatible": "Yes", "Weight": "~410g", "Price": "$45"},
+      "scores": {"Insulation": 4.7, "Leak resistance": 4.5, "Durability": 4.5, "Value": 4.5, "Ease of cleaning": 3.8}
+    },
+    {
+      "offerId": "yeti-rambler-bottle",
+      "badge": "Best Build Quality",
+      "review": "Yeti Rambler uses commercial-grade 18/8 stainless with DuraCoat — a harder powder-coat finish than standard that resists scratching better under heavy outdoor daily use. The 5-year warranty and No Sweat condensation-free design are genuine differentiators. The honest assessment: thermal performance at equivalent specs is not measurably better than Hydro Flask, and the 15–25% price premium is difficult to justify on function alone.",
+      "pros": ["DuraCoat finish harder than standard powder coat — better scratch resistance for heavy outdoor use", "5-year warranty and commercial-grade 18/8 stainless — built-for-outdoor-professional positioning", "No Sweat design keeps condensation off the exterior in humid conditions"],
+      "cons": ["15–25% price premium over comparable Hydro Flask specs is not justified by measurably better thermal performance"],
+      "grade": "B+",
+      "specs": {"Capacity": "26oz (769ml)", "Material": "Commercial-grade 18/8 stainless", "Finish": "DuraCoat (harder than standard powder)", "Cold retention": "24h+", "Hot retention": "12h+", "Condensation": "No Sweat design", "Warranty": "5 years"},
+      "scores": {"Insulation": 4.8, "Leak resistance": 4.8, "Durability": 5.0, "Value": 3.5, "Ease of cleaning": 4.3}
+    },
+    {
+      "offerId": "nalgene-silo-bottle",
+      "badge": "Best Ultralight",
+      "review": "Nalgene Silo at 113g is the gram-counter's pick — single-wall BPA-free Tritan plastic, no vacuum insulation, dishwasher-safe, and essentially indestructible. The explicit limitation is thermal performance: cold drinks warm in 45–60 minutes at summer ambient temperature and it sweats condensation in humidity. Right choice for hikers prioritizing weight and simplicity who refill from trail sources.",
+      "pros": ["113g — lightest option in this comparison by a large margin", "Dishwasher-safe Tritan plastic — simplest cleaning workflow of any bottle here", "BPA-free Tritan is virtually indestructible for trail use"],
+      "cons": ["No vacuum insulation — cold drinks warm within 45–60 minutes at summer temperatures; sweats condensation"],
+      "grade": "B",
+      "specs": {"Capacity": "32oz (946ml)", "Material": "BPA-free Tritan plastic", "Insulation": "None (single-wall)", "Weight": "113g", "Dishwasher safe": "Yes", "Cold retention": "45–60 min (ambient)", "Price": "$20"},
+      "scores": {"Insulation": 1.5, "Leak resistance": 4.5, "Durability": 4.8, "Value": 5.0, "Ease of cleaning": 5.0}
+    },
+    {
+      "offerId": "camelbak-chute-mag",
+      "badge": "Best for Hiking",
+      "review": "CamelBak Chute Mag's magnetic flip lid stays open during pouring without holding it manually and cannot be lost on trail — the practical advantage that sets it apart for active hiking. 25oz stainless vacuum insulation is lighter than the 32oz Hydro Flask. The concrete limitations: 25oz capacity requires more frequent refills on longer hikes and the magnetic lid can open if the bottle is dropped cap-down.",
+      "pros": ["Magnetic flip lid stays open during pour — one-handed pouring without holding the cap", "Cap cannot be dropped or lost on trail — magnetic attachment prevents separation", "25oz lighter than 32oz alternatives — weight advantage for backpacking"],
+      "cons": ["25oz capacity requires more frequent refills on long hikes; magnetic lid can open if dropped cap-down"],
+      "grade": "B-",
+      "specs": {"Capacity": "25oz (739ml)", "Material": "Stainless steel vacuum", "Lid type": "Magnetic flip (stays open during pour)", "Cold retention": "24h", "Hot retention": "6h", "Weight": "~280g", "Price": "$33.99"},
+      "scores": {"Insulation": 4.5, "Leak resistance": 4.2, "Durability": 4.5, "Value": 4.5, "Ease of cleaning": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For everyday carry and all-around use", "offerId": "hydro-flask-wide-mouth", "reason": "Industry-benchmark 24h cold retention, wide mouth for ice, lifetime vacuum warranty — the most versatile bottle in this comparison."},
+    {"label": "For desk workers and car commuters", "offerId": "stanley-quencher-tumbler", "reason": "Handle, straw lid, and car-cup-holder-compatible base make the Quencher the most practical choice for desk and commute environments."},
+    {"label": "For hikers prioritizing pack weight", "offerId": "nalgene-silo-bottle", "reason": "113g vs 454g for Hydro Flask — for hikers who refill at trail sources, the weight saving per km matters more than 24h cold retention."}
+  ]
 }

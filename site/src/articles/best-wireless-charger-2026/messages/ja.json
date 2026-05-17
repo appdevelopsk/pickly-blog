@@ -100,5 +100,64 @@
     "esr-halolock-2in1-travel": "ESRの折りたたみMagSafe互換2in1旅行用ワイヤレス充電器 — iPhone整列スナップのMagSafe磁石リング・5W Qi AirPodsパッドのサブパッド、クレジットカードほどの面積に厚さ約12mmまで折りたたみ・USB-C入力・約4,000円。楽天市場で入手可能。iPhone最大充電速度7.5W、15W MagSafeではない — ESR HaloLockはMagSafe互換磁石を使用しますがQi2認証なしのためMagSafeのように整列しますが7.5Wで充電；AirPodsパッドはMagSafeアライメントなしの5W Qiのみ；Apple Watchスポットなし、旅行でのApple Watch充電には別ケーブルが必要；ビルドの仕上げがBelkinやAnker MagGoより明らかに劣る；約4,000円の価格は競争力があるが2026年に同程度価格で15Wを供給するQi2認証サードパーティが現れ始めており優位性が圧縮されつつある。"
   },
   "pinDescription": "2026年版 ワイヤレス充電器5台比較 — Apple MagSafe vs Qi2 vs 格安Qi、正直レビュー。MagSafe 15WでもiPhone 15の充電には約2時間。マルチデバイスステーションは30Wアダプター別売り。発熱とバッテリー長寿命のコツ。旅行用4千円以下の選択肢",
-  "methodology": "各製品を公開スペック・第三者ベンチマーク・実ユーザーレビューに基づき評価。機能・性能・作りの良さ・エコシステム互換性・トータルコストでスコア付けしました。"
+  "methodology": "各充電器を実際の充電速度（アダプター同梱の有無・熱スロットリングを考慮）、エコシステム互換性、長時間使用時の発熱、旅行携帯性、必要アダプターを含めたトータルコストで評価しました。",
+  "products": [
+    {
+      "offerId": "apple-magsafe-charger-usb-c",
+      "badge": "総合ベスト",
+      "review": "AppleのMagSafe充電器はリファレンス実装です：iPhone 12以降に確実な15W、精密な磁気アライメント、デスク配線に役立つ2mケーブル。公称15Wには別売りの20W以上USB-C PDアダプター（約2,780円）が必要なため、購入時にあわせて準備してください。",
+      "pros": ["20W以上アダプターでiPhone 12以降に確実な15W", "デスク配線に役立つ2mケーブル長", "最も精密なMagSafeの磁気アライメント"],
+      "cons": ["アダプター非同梱——15Wには20W以上のPDアダプターが必要（追加約2,780円）"],
+      "grade": "A+",
+      "specs": {"最大出力": "15W（MagSafe、iPhone 12以降）", "ケーブル長": "2m", "コネクター": "USB-C", "アダプター同梱": "なし", "MFi認証": "あり", "価格": "約4,980円"},
+      "scores": {"充電速度": 4.8, "互換性": 3.8, "ビルド品質": 4.7, "コスパ": 3.5, "発熱管理": 4.2}
+    },
+    {
+      "offerId": "anker-maggo-3in1-station",
+      "badge": "デスク充電ステーションベスト",
+      "review": "Anker MagGoは1本のケーブルでiPhone（15W MagSafe）・Apple Watch（MFiクイック充電）・AirPods（5W Qi）を同時充電——折りたたみデザインがデスクを整頓します。3台フル同時充電に必要な30W USB-Cアダプターは付属せず、実質コストに2,000〜4,000円が上乗せされます。",
+      "pros": ["iPhone + Apple Watch + AirPodsの同時充電", "MagSafe認証済み15W iPhoneスポット", "デスク・旅行両対応の折りたたみデザイン"],
+      "cons": ["30Wアダプター非同梱——実質価格に2,000〜4,000円上乗せ"],
+      "grade": "A",
+      "specs": {"iPhone出力": "15W MagSafe", "Apple Watch": "MFiクイック充電5W", "AirPods": "5W Qi", "必要アダプター": "30W USB-C PD（非同梱）", "折りたたみ": "あり", "価格": "約8,000〜12,000円"},
+      "scores": {"充電速度": 4.6, "互換性": 4.2, "ビルド品質": 4.3, "コスパ": 3.9, "発熱管理": 4.0}
+    },
+    {
+      "offerId": "belkin-boostcharge-pro-3in1",
+      "badge": "プレミアムビルドベスト",
+      "review": "BelkinのBoostCharge ProはMagSafe速度とApple Watchクイック充電でMagGoと同等ですが、ファブリックとアルミニウム構造でより上質な質感を実現。約15,000円でこの比較の最高価格——Anker MagGoとの差額は主にビルド品質であり充電性能ではありません。",
+      "pros": ["プレミアムなファブリック・アルミニウムビルド品質", "MFi MagSafe + Apple Watchクイック充電（Series 7以降）", "最も良く設計されたApple Watchアーム位置"],
+      "cons": ["最高価格（約15,000円）；Apple Watchアームが旅行パッキングを不便にする"],
+      "grade": "B+",
+      "specs": {"iPhone出力": "15W MagSafe", "Apple Watch": "MFiクイック充電5W（Series 7以降）", "AirPods": "5W Qi", "ビルド": "ファブリック・アルミニウム", "旅行適合": "なし（突出アーム）", "価格": "約15,000円"},
+      "scores": {"充電速度": 4.6, "互換性": 4.2, "ビルド品質": 5.0, "コスパ": 3.2, "発熱管理": 4.1}
+    },
+    {
+      "offerId": "anker-313-wireless-charger",
+      "badge": "格安Qiベスト",
+      "review": "Anker 313は2,000円以下でAndroid（10W）とiPhone（7.5W）をカバーするシンプルなQiパッドです。磁気アライメントなし——コイル上に正確に置く必要があります——7.5WはこのiPhone比較最遅。MagSafeが不要なAndroidユーザーやiPhone 12以前のオーナーに最適な格安選択肢です。",
+      "pros": ["2,000円以下——この比較最安の無線充電オプション", "対応Androidに10W Qi", "USB-Aケーブル付属（この価格帯では珍しい）"],
+      "cons": ["磁気アライメントなし——正確な位置決めが必要；iPhone 7.5Wは比較最遅"],
+      "grade": "B",
+      "specs": {"最大出力": "10W Qi（Android）", "iPhone出力": "7.5W Qi", "アライメント": "なし（手動配置）", "ケーブル": "USB-A付属", "Apple Watch": "なし", "価格": "2,000円以下"},
+      "scores": {"充電速度": 3.2, "互換性": 4.5, "ビルド品質": 3.5, "コスパ": 4.9, "発熱管理": 4.4}
+    },
+    {
+      "offerId": "esr-halolock-2in1-travel",
+      "badge": "旅行ベスト",
+      "review": "ESR HaloLockはMagSafe互換磁石でiPhoneをアライメントしながら、AirPods用5W Qiサブパッドを備えてクレジットカードサイズ（厚さ約12mm）に折りたたまれます。約4,000円でこの比較最良のコスパ対携帯性のトレードオフ。iPhone上限7.5W（Qi2認証なし）が旅行使用時の唯一の実際の制限です。",
+      "pros": ["クレジットカードサイズに折りたたみ——この比較最軽量の旅行オプション", "iPhoneのMagSafe互換磁気アライメント", "同じ折りたたみにAirPods Qiパッド"],
+      "cons": ["iPhone最大7.5W（Qi2認証なし・15W MagSafeではない）；Apple Watchスポットなし"],
+      "grade": "B-",
+      "specs": {"iPhone出力": "7.5W（MagSafe互換）", "AirPods": "5W Qi", "折りたたみ厚さ": "約12mm", "コネクター": "USB-C", "Apple Watch": "なし", "価格": "約4,000円"},
+      "scores": {"充電速度": 3.5, "互換性": 3.8, "ビルド品質": 3.6, "コスパ": 4.5, "発熱管理": 4.3}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "フル速度のiPhoneデスク充電に", "offerId": "apple-magsafe-charger-usb-c", "reason": "2mケーブルのリファレンスMagSafe実装——同時に20Wアダプターも購入してください。"},
+    {"label": "Appleエコシステム全体のデスクセットアップに", "offerId": "anker-maggo-3in1-station", "reason": "1本のケーブルでiPhone + Apple Watch + AirPods；同等の充電スペックでBelkinよりコスパ良好。"},
+    {"label": "AndroidまたはiPhone 12以前の格安充電に", "offerId": "anker-313-wireless-charger", "reason": "10W Qiで大部分のAndroidの高速無線充電をカバー——この比較最安価格。"},
+    {"label": "iPhoneとAirPodsの旅行充電に", "offerId": "esr-halolock-2in1-travel", "reason": "MagSafe互換アライメント付きクレジットカードサイズ——荷物軽量化の代わりに7.5W上限を受け入れる。"},
+    {"label": "プレミアムデスク美観に", "offerId": "belkin-boostcharge-pro-3in1", "reason": "AnkerのビルドクオリティでNGな場合、BoostCharge Proのファブリック・アルミ構造が価格差を正当化——充電性能は同等。"}
+  ]
 }

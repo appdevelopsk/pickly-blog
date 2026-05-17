@@ -58,5 +58,143 @@
     "hario-v60-02": "Filtre pour-over individuel, rainures en spirale, grand trou unique. $25-35 (plastique). Alternative au Chemex avec filtre plus fin -- plus de corps, flux plus rapide, plus de controle de technique. Necessite un serveur ou mug separe. Meilleur pour les baristas experimentes qui priorisent le controle d'extraction."
   },
   "pinDescription": "Chemex vs Hario V60 2026 : 6 tasses vs 8 tasses, manche en verre vs anneau en bois, ce que le filtre epais du Chemex fait vraiment a la clarte de la tasse, et quel pour-over choisir pour votre cuisine. #chemex #pourover #cafedespecie #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Nous avons évalué chaque cafetière sur la clarté de la tasse, la qualité de fabrication, la facilité de nettoyage, la compatibilité des filtres, la précision de la capacité et l'adéquation avec différents profils de torréfaction — le V60 a été testé en parallèle comme principale alternative au Chemex.",
+  "products": [
+    {
+      "offerId": "chemex-6-cup-classic",
+      "badge": "Meilleur choix global",
+      "review": "Le modèle classique Chemex en verre borosilicaté en forme de sablier avec collier en bois. Avec 850 ml, il est idéal pour 1 à 2 personnes, et les filtres propriétaires éliminent les huiles et les fines particules pour faire ressortir les notes fruitées et florales des torréfactions claires. Sans poignée, il peut sembler difficile à tenir — mais la clarté de la tasse est inégalée dans cette catégorie.",
+      "pros": ["Clarté de tasse incomparable", "Carafe en verre borosilicaté résistant à la chaleur", "850 ml idéal pour 1 à 2 personnes"],
+      "cons": ["Le collier en bois n'est pas compatible lave-vaisselle"],
+      "grade": "A+",
+      "specs": {
+        "Capacité": "30 oz / 850 ml",
+        "Matériau": "Verre borosilicaté",
+        "Filtre": "Filtre bonded Chemex",
+        "Poignée": "Collier en bois + lien en cuir",
+        "Lave-vaisselle": "Non"
+      },
+      "scores": {
+        "Qualité d'infusion": 4.9,
+        "Qualité de fabrication": 4.7,
+        "Facilité d'utilisation": 4.3,
+        "Rapport qualité-prix": 4.2,
+        "Polyvalence": 3.8
+      }
+    },
+    {
+      "offerId": "chemex-8-cup-classic",
+      "badge": "Meilleur pour les groupes",
+      "review": "Le modèle 8 tasses est idéal pour les foyers de 3 personnes ou plus et les bureaux à domicile, permettant de préparer jusqu'à 4 à 5 tasses à la fois avec 1,2 l de capacité. La qualité d'infusion est identique au 6 tasses, seule la capacité diffère. Pour 1 à 2 personnes, il sera surdimensionné.",
+      "pros": ["Jusqu'à 4 à 5 tasses à la fois", "Même qualité d'infusion que le 6 tasses", "Idéal pour les groupes et routines matinales"],
+      "cons": ["Trop grand pour une utilisation solo"],
+      "grade": "A",
+      "specs": {
+        "Capacité": "40 oz / 1,2 L",
+        "Matériau": "Verre borosilicaté",
+        "Filtre": "Filtre bonded Chemex",
+        "Poignée": "Collier en bois + lien en cuir",
+        "Lave-vaisselle": "Non"
+      },
+      "scores": {
+        "Qualité d'infusion": 4.9,
+        "Qualité de fabrication": 4.7,
+        "Facilité d'utilisation": 4.2,
+        "Rapport qualité-prix": 4.0,
+        "Polyvalence": 4.2
+      }
+    },
+    {
+      "offerId": "chemex-glass-handle",
+      "badge": "Meilleur pour le nettoyage facile",
+      "review": "Ce modèle remplace le collier en bois par une poignée en verre intégrée, rendant l'ensemble compatible lave-vaisselle — son principal avantage. La clarté d'infusion est équivalente au 6 tasses classique, idéal pour ceux qui lavent plusieurs fois par jour. La poignée en verre peut chauffer légèrement ; un torchon est recommandé.",
+      "pros": ["Entièrement compatible lave-vaisselle", "Même qualité d'infusion que le 6 tasses", "Verre intégré pour une hygiène optimale"],
+      "cons": ["La poignée peut chauffer à haute température"],
+      "grade": "B+",
+      "specs": {
+        "Capacité": "34 oz / 1 L",
+        "Matériau": "Verre borosilicaté",
+        "Filtre": "Filtre bonded Chemex",
+        "Poignée": "Poignée en verre intégrée",
+        "Lave-vaisselle": "Oui"
+      },
+      "scores": {
+        "Qualité d'infusion": 4.8,
+        "Qualité de fabrication": 4.5,
+        "Facilité d'utilisation": 4.7,
+        "Rapport qualité-prix": 3.8,
+        "Polyvalence": 3.7
+      }
+    },
+    {
+      "offerId": "chemex-bonded-filters",
+      "badge": "Consommable indispensable",
+      "review": "Les filtres bonded Chemex en boîte de 100 sont 20 à 30 % plus épais que les filtres standards et éliminent les huiles et fines particules efficacement. Utiliser d'autres filtres dans une cafetière Chemex dégrade considérablement la clarté — ce n'est pas un accessoire, c'est une nécessité. Il est conseillé d'en avoir 2 à 3 boîtes d'avance.",
+      "pros": ["Clarté optimale grâce au design dédié Chemex", "Pack de 100 avec bon rapport qualité-prix", "Matériaux certifiés écologiques"],
+      "cons": ["Compatible uniquement avec les cafetières Chemex"],
+      "grade": "B",
+      "specs": {
+        "Quantité": "100 filtres",
+        "Type": "Carré, pliable",
+        "Certification": "Blanchi à l'oxygène, sans OGM",
+        "Compatibilité": "Chemex 6, 8 et 10 tasses"
+      },
+      "scores": {
+        "Qualité d'infusion": 4.9,
+        "Qualité de fabrication": 4.5,
+        "Facilité d'utilisation": 4.4,
+        "Rapport qualité-prix": 4.6,
+        "Polyvalence": 2.5
+      }
+    },
+    {
+      "offerId": "hario-v60-02",
+      "badge": "Meilleure cafetière alternative",
+      "review": "Le Hario V60 02 utilise des filtres plus fins et offre plus de corps, un débit plus rapide et un meilleur contrôle de l'extraction que le Chemex. Un serveur séparé est nécessaire, mais les nervures en spirale permettent un flux d'air libre pour un versement précis — adapté aussi aux torréfactions sombres. Pour les utilisateurs expérimentés qui privilégient le corps à la clarté.",
+      "pros": ["Plus de corps et de contrôle d'extraction", "Adapté aux torréfactions claires à sombres", "Compact et portable"],
+      "cons": ["Nécessite un serveur ou mug séparé"],
+      "grade": "B-",
+      "specs": {
+        "Matériau": "Plastique (résistant à la chaleur)",
+        "Taille": "02 (1 à 4 tasses)",
+        "Filtre": "Filtre papier V60",
+        "Nervures": "Nervures en spirale + grande ouverture",
+        "Serveur": "Vendu séparément"
+      },
+      "scores": {
+        "Qualité d'infusion": 4.6,
+        "Qualité de fabrication": 4.0,
+        "Facilité d'utilisation": 4.2,
+        "Rapport qualité-prix": 4.8,
+        "Polyvalence": 4.7
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour les amateurs de tasses claires",
+      "offerId": "chemex-6-cup-classic",
+      "reason": "Maximise les notes florales et fruitées des torréfactions claires — le premier choix pour la clarté de tasse."
+    },
+    {
+      "label": "Pour la famille et le bureau à domicile",
+      "offerId": "chemex-8-cup-classic",
+      "reason": "Jusqu'à 4 à 5 tasses à la fois avec 1,2 L — parfait pour les routines matinales en groupe ou les petits bureaux."
+    },
+    {
+      "label": "Pour un nettoyage quotidien sans effort",
+      "offerId": "chemex-glass-handle",
+      "reason": "Entièrement compatible lave-vaisselle — profitez de la qualité Chemex chaque jour sans contrainte de nettoyage."
+    },
+    {
+      "label": "Pour les propriétaires de Chemex",
+      "offerId": "chemex-bonded-filters",
+      "reason": "Les filtres propriétaires sont indispensables pour maintenir la clarté Chemex — toujours avoir du stock."
+    },
+    {
+      "label": "Pour les baristas expérimentés recherchant le contrôle",
+      "offerId": "hario-v60-02",
+      "reason": "La meilleure alternative pour ceux qui privilégient le corps et le contrôle d'extraction à la clarté."
+    }
+  ]
 }

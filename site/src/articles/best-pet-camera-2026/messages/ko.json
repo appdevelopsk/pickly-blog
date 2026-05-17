@@ -115,5 +115,177 @@
     "eufy-indoor-cam-2k-pan-tilt": "구독 없는 로컬 저장소 실내 선택 — 2K 비디오, 고양이가 어디서 낮잠을 자든 찾기 위한 360도 팬과 96도 틸트, 인물-반려동물 모션 감지, 양방향 오디오, 구독 불필요한 microSD 로컬 저장소, Apple HomeKit Secure Video 통합이 있는 약 9,800엔 Anker Eufy Indoor Cam 2K Pan and Tilt. 15,000엔 이하 밴드에서 가장 강력한 로컬 저장소 실내 선택. 반려동물 전용 AI 없음 — 모션 감지는 인물 대 반려동물을 분류하지만 짖음 감지, 개 활동 점수, Furbo 프리미엄을 정당화하는 반려동물 훈련 AI 기능을 제공하지 않습니다. 간식 발사 또는 레이저 포인터 하드웨어 없음. 일부 반려동물 소유자가 원하는 상호 작용 기능이 없습니다. 내장 스피커가 얇아 양방향 대화의 오디오 품질이 Furbo나 Petcube 스피커보다 의미 있게 나쁩니다. 범용 실내 보안으로 설계되었으며 반려동물 카메라가 아니므로 마케팅 카피와 고객 서비스는 반려동물 소유자가 아닌 집주인을 가정합니다."
   },
   "pinDescription": "2026년 5가지 펫 카메라 비교 — 4,800엔 Wyze Cam v3 범용 보안 카메라 전용 예산 선택부터 28,000엔 Furbo 360 간식 발사 강아지 전용 프리미엄까지. 반려동물 전용 vs 범용 보안 카메라, 구독 비용 계산(Furbo Nanny로 5년 비용 약 88,000엔), 간식 발사와 레이저와 양방향 오디오 솔직한 평가(대부분의 개가 2주 후 간식을 무시), 클라우드 카메라 프라이버시 위험(Ring, Nest, Wyze 사건), 2026년 Matter와 HomeKit 통합, 각각의 용도 — 아파트 고양이, 분리불안 개, 다중 반려동물 가구, 예산. #한국어",
-  "methodology": "각 제품을 실생활 내구성, 일상 사용 편의성, 광고 성능 일치도, 마감 품질, 장기 가치로 평가했습니다. 제조사 사양을 실소유자 리뷰와 대조했습니다."
+  "methodology": "각 카메라를 반려동물 전용 AI, 실제 영상 품질, 양방향 오디오 사용성, 5년간 구독 비용, 클라우드 보안 실적으로 평가했습니다.",
+  "products": [
+    {
+      "offerId": "furbo-360-dog-camera",
+      "badge": "전체 최고 선택",
+      "review": "Furbo 360의 개 전용 훈련 AI, 360도 회전, 간식 디스펜서는 이 카테고리에서 가장 완전한 반려동물 특화 기능 세트입니다. 진정한 트레이드오프는 구독 의존성: Furbo Nanny 플랜 없이는 수동 간식 투척이 가능한 기본 1080p 뷰어로 성능이 저하됩니다.",
+      "pros": [
+        "360도 모터 회전으로 방 전체 커버",
+        "개 훈련 AI 짖음 알림과 활동 점수가 24/7 작동",
+        "스마트폰 앱에서 원격으로 간식 투척 가능"
+      ],
+      "cons": [
+        "Furbo Nanny 구독 포함 시 5년 총 비용 약 88,000엔"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Field of view": "360° pan",
+        "Treat dispense": "Yes",
+        "AI alerts": "Bark + activity (subscription)",
+        "Two-way audio": "Yes",
+        "Storage": "Cloud (subscription)",
+        "Price (JP)": "~¥28,000"
+      },
+      "scores": {
+        "Video quality": 4.8,
+        "Range": 5.0,
+        "Ease of use": 4.5,
+        "Value": 3.2,
+        "Two-way audio": 4.7
+      }
+    },
+    {
+      "offerId": "petcube-cam",
+      "badge": "가성비 반려동물 카메라 최고 선택",
+      "review": "Petcube Cam은 Furbo 가격의 절반 정도로 1080p 영상과 양방향 오디오를 제공합니다. 간식 디스펜서 하드웨어는 없습니다. 동작 알림의 오탐율이 높아 첫 달에 알림 피로감을 느끼는 사용자가 있습니다.",
+      "pros": [
+        "Furbo의 절반 가격에 반려동물 특화 설계",
+        "1080p 영상과 양방향 오디오",
+        "간단한 설정 — 허브 불필요"
+      ],
+      "cons": [
+        "간식 디스펜서 또는 레이저 포인터 없음; 110° 시야각은 큰 방 코너를 놓침"
+      ],
+      "grade": "A",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Field of view": "110°",
+        "Treat dispense": "No",
+        "Two-way audio": "Yes",
+        "Storage": "Cloud (Petcube Care subscription)",
+        "Price (US)": "~$30"
+      },
+      "scores": {
+        "Video quality": 4.4,
+        "Range": 3.2,
+        "Ease of use": 4.6,
+        "Value": 4.3,
+        "Two-way audio": 4.2
+      }
+    },
+    {
+      "offerId": "eufy-indoor-cam-2k-pan-tilt",
+      "badge": "구독 없는 최고 선택",
+      "review": "Eufy Indoor Cam 2K Pan & Tilt는 15,000엔 미만에서 가장 강력한 로컬 스토리지 옵션 — 2K 해상도, 360° 팬과 96° 틸트, 구독 없이 microSD 저장. 반려동물 특화 AI가 없고 내장 스피커가 얇은 것이 트레이드오프입니다.",
+      "pros": [
+        "구독 없이 2K 해상도",
+        "움직이는 반려동물을 추적하는 360° 팬과 96° 틸트",
+        "Apple HomeKit Secure Video 지원"
+      ],
+      "cons": [
+        "짖음 감지, 간식 디스펜서, 반려동물 훈련 AI 기능 없음"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Resolution": "2K (2304×1296)",
+        "Pan / Tilt": "360° / 96°",
+        "Treat dispense": "No",
+        "Storage": "microSD (no subscription)",
+        "HomeKit": "Yes",
+        "Price (US)": "~$55"
+      },
+      "scores": {
+        "Video quality": 4.6,
+        "Range": 4.8,
+        "Ease of use": 4.4,
+        "Value": 4.7,
+        "Two-way audio": 3.5
+      }
+    },
+    {
+      "offerId": "pawbo-pet-camera",
+      "badge": "중급 간식 카메라 최고 선택",
+      "review": "Pawbo는 저렴한 보안 카메라와 프리미엄 Furbo 사이에 위치 — 간식 디스펜서와 양방향 오디오를 낮은 가격에 제공하지만, 720p 영상과 앱 신뢰성 보고가 전체 점수를 낮춥니다.",
+      "pros": [
+        "Furbo 가격 없이 간식 디스펜서 및 예약 투척",
+        "원격 확인을 위한 양방향 오디오",
+        "정기 훈련을 위한 예약 간식 기능"
+      ],
+      "cons": [
+        "720p 영상은 경쟁 제품보다 눈에 띄게 낮은 화질; 장기 리뷰에서 앱 충돌 보고"
+      ],
+      "grade": "B",
+      "specs": {
+        "Resolution": "720p",
+        "Treat dispense": "Yes (scheduled + manual)",
+        "Two-way audio": "Yes",
+        "Price (US)": "~$54"
+      },
+      "scores": {
+        "Video quality": 3.4,
+        "Range": 3.0,
+        "Ease of use": 3.6,
+        "Value": 3.8,
+        "Two-way audio": 4.0
+      }
+    },
+    {
+      "offerId": "wyze-cam-v3",
+      "badge": "예산 보안 카메라 최고 선택",
+      "review": "약 4,800엔에 Wyze Cam v3는 컬러 야간 투시와 microSD 로컬 스토리지를 갖춘 가장 저렴한 유능한 실내 카메라입니다. 반려동물 특화가 아니며 — 짖음 감지 없음, 간식 디스펜서 없음 — Wyze의 2022~2024년 개인정보 사고는 구매 전 조사해야 할 실제 우려 사항입니다.",
+      "pros": [
+        "카테고리에서 카메라당 가장 낮은 가격",
+        "컬러 야간 투시와 야외용 방수 기능",
+        "필수 구독 없는 microSD 로컬 스토리지"
+      ],
+      "cons": [
+        "반려동물 특화 AI 없음; Wyze의 2022~2024년 개인정보 및 계정 혼동 사고가 많은 구매자에게 미해결 상태"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Night vision": "Color Starlight",
+        "Weatherproof": "IP65",
+        "Storage": "microSD + cloud (Cam Plus ~¥250/mo)",
+        "Price (JP)": "~¥4,800"
+      },
+      "scores": {
+        "Video quality": 4.0,
+        "Range": 3.5,
+        "Ease of use": 4.2,
+        "Value": 4.9,
+        "Two-way audio": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "분리 불안이 걱정되는 개 소유자를 위해",
+      "offerId": "furbo-360-dog-camera",
+      "reason": "개 훈련된 짖음 AI와 간식 디스펜서는 불안한 개를 원격으로 모니터링하고 관여하기 위한 가장 완전한 도구입니다."
+    },
+    {
+      "label": "간단한 반려동물 중심 모니터링을 원하는 반려동물 소유자를 위해",
+      "offerId": "petcube-cam",
+      "reason": "Furbo 가격의 절반으로 반려동물 특화 설계와 1080p 영상 — 구독 부담도 적습니다."
+    },
+    {
+      "label": "다방 세대 또는 개인정보 보호를 우선시하는 구매자를 위해",
+      "offerId": "eufy-indoor-cam-2k-pan-tilt",
+      "reason": "구독 없는 2K 로컬 스토리지 — 라인업에서 가장 낮은 클라우드 개인정보 노출."
+    },
+    {
+      "label": "예산 중심의 구매자를 위해",
+      "offerId": "wyze-cam-v3",
+      "reason": "카메라당 가장 낮은 비용으로 기본 원격 보기 제공; 여러 방을 저렴하게 커버해야 하는 가정에 최적."
+    },
+    {
+      "label": "프리미엄 가격 없이 간식 투척을 원하는 분을 위해",
+      "offerId": "pawbo-pet-camera",
+      "reason": "Furbo Nanny 구독 요구 없이 간식 디스펜서와 예약 기능 제공."
+    }
+  ]
 }

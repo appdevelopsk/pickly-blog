@@ -86,5 +86,184 @@
     "kind-protein-bar": "Ganze Nuesse, honiggesuesst, nahrungsmittel-aehnlichste Textur"
   },
   "pinDescription": "5 Proteinriegel ehrlich verglichen — Quest, RXBAR, Clif Builder, ONE und KIND. Proteingehalt, Zuckerquellen, beste Einsatzzwecke und welchen man je nach Bedarf auslassen sollte. #Proteinriegel #Sporternaehrung #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jeder Riegel wurde auf Proteinquelle und Leucindichte, Süßungsmitteltyp und Magenverträglichkeit, Zuckergehalt, Texturkonsistenz bei verschiedenen Temperaturen, Zutatenliste und verifizierte Zertifizierungen bewertet — Marketingaussagen wurden mit unabhängigen Labortests verglichen.",
+  "products": [
+    {
+      "offerId": "quest-bar",
+      "badge": "Beste Gesamtwahl",
+      "review": "Quest liefert 20–21 g Molken- und Milchproteinisolat bei 4–5 g Nettokohlenhydraten — die Kombination, die seinen Ruf bei Low-Carb- und Post-Workout-Käufern aufgebaut hat. Erythrit plus Stevia bedeutet keinen Sucralose-Nachgeschmack, obwohl die dichte Textur bei Kälte eine häufige Beschwerde ist, die eine 10-sekündige Mikrowellenbehandlung behebt. Nicht die Wahl für eine kurze Zutatenliste.",
+      "pros": [
+        "20–21 g Protein aus Isolaten mit hoher Leucindichte",
+        "4–5 g Nettokohlenhydrate für Keto- und Low-Carb-Tracking",
+        "Erythrit-Süßung — generell besser verträglich als Maltit"
+      ],
+      "cons": [
+        "Lange verarbeitete Zutatenliste — kein Clean-Label-Riegel"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Protein": "20–21 g",
+        "Protein source": "Whey + milk protein isolate",
+        "Net carbs": "4–5 g",
+        "Sugar": "1 g",
+        "Calories": "~190–200 kcal",
+        "Sweetener": "Erythritol + stevia",
+        "Price per bar": "$4.95"
+      },
+      "scores": {
+        "Protein quality": 4.8,
+        "Taste": 4.3,
+        "Value": 4.2,
+        "Ingredients": 3.4,
+        "Texture": 3.9
+      }
+    },
+    {
+      "offerId": "rxbar-protein",
+      "badge": "Bestes Clean Label",
+      "review": "RXBAR druckt seine gesamte Zutatenliste auf die Vorderseite des Riegels — 3 Eiweiße, 6 Mandeln, 4 Cashews, 2 Datteln. Die 12 g vollständiges Protein aus Eiweiß sind ernährungsphysiologisch solide; der Kompromiss ist, dass 20-g-Molkenriegel mehr Leucin pro Portion liefern.",
+      "pros": [
+        "Kürzeste und lesbarste Zutatenliste im Vergleich",
+        "Vollständiges Protein aus Eiweiß — keine Süßstoffe",
+        "Keine Zuckeralkohole, kein Magen-Darm-Risiko"
+      ],
+      "cons": [
+        "12 g Protein — geringere Leucinmenge als 20-g-Isolatriegel"
+      ],
+      "grade": "A",
+      "specs": {
+        "Protein": "12 g",
+        "Protein source": "Egg whites",
+        "Net carbs": "~20 g",
+        "Sugar": "15–17 g (from dates)",
+        "Calories": "~200–210 kcal",
+        "Sweetener": "Dates only",
+        "Price per bar": "$2.33"
+      },
+      "scores": {
+        "Protein quality": 4.5,
+        "Taste": 4.4,
+        "Value": 4.5,
+        "Ingredients": 5.0,
+        "Texture": 4.2
+      }
+    },
+    {
+      "offerId": "clif-builder-bar",
+      "badge": "Bester für Ausdauersportler",
+      "review": "Clif Builder bietet 20 g vollständiges Pflanzenprotein aus Sojaprotein neben 270 Kalorien und 17–18 g Zucker aus Reissirup — ein Profil für Glykogen-depletierte Ausdauersportler. Vegan und kosher zertifiziert, ohne Süßstoff-Nachgeschmack.",
+      "pros": [
+        "20 g vollständiges Pflanzenprotein — einzige vegane Option bei voller Dosis",
+        "Höhere Kalorien geeignet für lange Ausdauertrainingsfenster",
+        "Keine Süßstoffe oder Zuckeralkohole"
+      ],
+      "cons": [
+        "17–18 g Zucker aus Reissirup — nicht für Low-Carb geeignet"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Protein": "20 g",
+        "Protein source": "Soy protein isolate",
+        "Net carbs": "~30 g",
+        "Sugar": "17–18 g",
+        "Calories": "~270 kcal",
+        "Sweetener": "Rice syrup + cane syrup",
+        "Price per bar": "$1.67"
+      },
+      "scores": {
+        "Protein quality": 4.2,
+        "Taste": 4.3,
+        "Value": 4.8,
+        "Ingredients": 3.6,
+        "Texture": 4.0
+      }
+    },
+    {
+      "offerId": "one-protein-bar",
+      "badge": "Beste Geschmacksvielfalt",
+      "review": "ONE-Riegel bieten 20 g Protein bei 1 g Zucker mit einer Dessert-Geschmacksbibliothek. Die Erythrit-Sucralose-Kombination liefert Süßigkeit bei wenig Zucker, aber einige Käufer berichten von einem wahrnehmbaren Nachgeschmack.",
+      "pros": [
+        "Breiteste Geschmacksbibliothek — 15+ Optionen",
+        "20 g Protein bei 1 g Zucker — reinstes Makroprofil",
+        "Nützlich für proteinreiche Diätphasen mit starkem Süßigkeitsbedarf"
+      ],
+      "cons": [
+        "Sucralose-Nachgeschmack für einige Käufer spürbar"
+      ],
+      "grade": "B",
+      "specs": {
+        "Protein": "20 g",
+        "Protein source": "Whey + milk protein blend",
+        "Net carbs": "~8 g",
+        "Sugar": "1 g",
+        "Calories": "~220 kcal",
+        "Sweetener": "Erythritol + sucralose",
+        "Price per bar": "$2.68"
+      },
+      "scores": {
+        "Protein quality": 4.6,
+        "Taste": 4.5,
+        "Value": 4.1,
+        "Ingredients": 3.2,
+        "Texture": 4.0
+      }
+    },
+    {
+      "offerId": "kind-protein-bar",
+      "badge": "Beste Textur",
+      "review": "KIND Protein liefert 12 g aus ganzen Nüssen und Sojaprotein, gesüßt mit Honig und dunkler Schokolade — kein Erythrit, kein Sucralose. Der Nuss-Crunch ist einzigartig, und die Honigsüße ist weniger aggressiv als Sucralose-basierte Riegel.",
+      "pros": [
+        "Keine Süßstoffe — nur Honig und Schokolade",
+        "Einzigartiger Nuss-Crunch, den engineered Bars nicht replizieren können",
+        "Kurze, erkennbare Zutatenliste"
+      ],
+      "cons": [
+        "12 g Protein — nicht ausreichend als eigenständige Post-Workout-Quelle"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Protein": "12 g",
+        "Protein source": "Nuts + soy protein",
+        "Net carbs": "~18 g",
+        "Sugar": "~8 g (honey + chocolate)",
+        "Calories": "~250 kcal",
+        "Sweetener": "Honey + dark chocolate",
+        "Price per bar": "$1.46"
+      },
+      "scores": {
+        "Protein quality": 3.8,
+        "Taste": 4.6,
+        "Value": 4.7,
+        "Ingredients": 4.8,
+        "Texture": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Post-Workout-Erholung bei Low-Carb",
+      "offerId": "quest-bar",
+      "reason": "20–21 g Proteinisolat plus 4–5 g Nettokohlenhydrate trifft die Makros ohne Keto-Tracking zu stören."
+    },
+    {
+      "label": "Für Clean-Ingredient-Snacking",
+      "offerId": "rxbar-protein",
+      "reason": "Jede Zutat steht auf der Vorderseite des Riegels — die transparenteste Option im Vergleich."
+    },
+    {
+      "label": "Für Ausdauersportler bei langen Trainingseinheiten",
+      "offerId": "clif-builder-bar",
+      "reason": "270 Kalorien und 17 g Zucker neben 20 g Pflanzenprotein decken den Glykogenbedarf bei 60+-Minuten-Trainingseinheiten."
+    },
+    {
+      "label": "Für Käufer, die von Süßigkeiten wegkommen wollen",
+      "offerId": "one-protein-bar",
+      "reason": "15+ Dessert-Geschmacksoptionen bei 1 g Zucker machen Gewohnheitsänderungen nachhaltig."
+    },
+    {
+      "label": "Für Käufer, die engineered Proteinriegel nicht mögen",
+      "offerId": "kind-protein-bar",
+      "reason": "Ganze Nüsse, Honig und dunkle Schokolade bieten eine lebensmittelähnliche Textur."
+    }
+  ]
 }

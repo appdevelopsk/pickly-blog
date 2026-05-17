@@ -98,5 +98,179 @@
     "hoka-clifton-9": "Scelta per il recupero e le uscite lunghe — stack di tacco da 38 mm, drop tacco-punta da 4 mm, geometria meta-rocker riduce la domanda di range of motion della caviglia. Il basso drop carica polpaccio e Achille piu delle alternative a drop maggiore — necessario un adattamento di 2-3 settimane per i corridori con attacco di tallone; lo stack massimale crea una sensazione galleggiante che disoriente alcuni corridori su sforzi piu veloci; disponibilita limitata in larghezza maggiorata in Giappone."
   },
   "pinDescription": "Cinque scarpe da corsa per il 2026 — Nike Pegasus 41, Asics Gel-Kayano 31, Brooks Ghost 16, New Balance 880v14 e Hoka Clifton 9 — confrontate su ammortizzazione, stabilita, drop e opzioni in larghezza per i piedi giapponesi. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "nike-pegasus-41",
+      "badge": "Migliore scelta complessiva",
+      "review": "Il Pegasus 41 è l'allenatore quotidiano polivalente: la schiuma React offre abbastanza vivacità per le uscite facili e le sessioni di ritmo con un drop di 10 mm che favorisce la maggior parte dei corridori di tallone. La debolezza: l'avampiede è stretto e le versioni larghe sono limitate in Giappone.",
+      "pros": [
+        "Polivalente per uscite facili, tempo e gare corte",
+        "Schiuma React con unità Air Zoom aggiunge reattività",
+        "Drop di 10 mm per la maggioranza dei corridori di tallone"
+      ],
+      "cons": [
+        "Avampiede stretto — disponibilità di larghezza limitata in Giappone"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Intersuola": "React + Air Zoom",
+        "Drop": "10 mm",
+        "Peso": "~270 g (M27)",
+        "Stack tallone/avampiede": "~29/19 mm",
+        "Suola esterna": "Gomma soffiata",
+        "Prezzo": "~¥16.000"
+      },
+      "scores": {
+        "Cushioning": 4.2,
+        "Stability": 3.5,
+        "Durability": 4.0,
+        "Value": 4.5,
+        "Fit": 3.8
+      }
+    },
+    {
+      "offerId": "asics-gel-kayano-31",
+      "badge": "Migliore stabilità",
+      "review": "Il Kayano 31 è la scelta giusta se l'analisi dell'andatura o la storia degli infortuni confermano la sovrappronazione — il perno mediale LITETRUSS offre il miglior supporto dell'arco in questo confronto e la forma giapponese è calibrata per avampiedi più larghi. Il compromesso è il peso: 310 g per scarpa è il più pesante del gruppo.",
+      "pros": [
+        "Perno mediale LITETRUSS — miglior supporto dell'arco qui",
+        "Forma giapponese per l'avampiede giapponese più largo",
+        "FF Blast+ Eco con comprovata resistenza alla compressione"
+      ],
+      "cons": [
+        "La scarpa più pesante del confronto a 310 g per scarpa"
+      ],
+      "grade": "A",
+      "specs": {
+        "Intersuola": "FF Blast+ Eco + LITETRUSS",
+        "Drop": "10 mm",
+        "Peso": "~310 g (M27)",
+        "Stabilità": "Perno mediale LITETRUSS",
+        "Versioni larghe": "Disponibili in Giappone",
+        "Prezzo": "~¥22.000"
+      },
+      "scores": {
+        "Cushioning": 4.0,
+        "Stability": 5.0,
+        "Durability": 4.3,
+        "Value": 3.5,
+        "Fit": 4.5
+      }
+    },
+    {
+      "offerId": "brooks-ghost-16",
+      "badge": "Migliore per piedi larghi",
+      "review": "Il Ghost 16 ha la scatola per le dita più ampia di questo confronto e la migliore disponibilità di larghezza su Rakuten — un vantaggio reale per la percentuale significativa di corridori giapponesi con piedi 2E+. La schiuma DNA Loft v2 offre un'ammortizzazione morbida e protettiva per le uscite facili. Troppo morbida per le sessioni di tempo.",
+      "pros": [
+        "Scatola per le dita più ampia e migliore disponibilità 2E in Giappone",
+        "La schiuma DNA Loft v2 è ammorbidente per le uscite facili",
+        "Buona copertura in gomma della suola esterna per l'asfalto"
+      ],
+      "cons": [
+        "Troppo morbida e pesante per sessioni di tempo o gare corte"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Intersuola": "DNA Loft v2",
+        "Drop": "12 mm",
+        "Peso": "~281 g (M27)",
+        "Versioni larghe": "2E disponibili su Rakuten",
+        "Suola esterna": "Buona copertura in gomma",
+        "Prezzo": "~¥16.500"
+      },
+      "scores": {
+        "Cushioning": 4.3,
+        "Stability": 3.2,
+        "Durability": 4.2,
+        "Value": 4.3,
+        "Fit": 4.6
+      }
+    },
+    {
+      "offerId": "new-balance-880v14",
+      "badge": "Migliore per alto chilometraggio",
+      "review": "Per i corridori che percorrono 50+ km a settimana, l'intersuola Fresh Foam X del 880v14 assorbe il carico cumulativo delle settimane di allenamento intensivo meglio delle alternative a stack moderato. Più opzioni di larghezza (B/D/2E) offrono la migliore flessibilità di taglia. La schiuma si comprime più velocemente — aspettate 650-750 km prima di un appiattimento notevole.",
+      "pros": [
+        "Fresh Foam X assorbe bene l'alto chilometraggio settimanale",
+        "Larghezze B/D/2E — le migliori opzioni di taglia nel confronto",
+        "Vestibilità coerente tra le iterazioni della versione 880"
+      ],
+      "cons": [
+        "La schiuma si comprime più velocemente: 650–750 km vs. 800+ per schiume più rigide"
+      ],
+      "grade": "B",
+      "specs": {
+        "Intersuola": "Fresh Foam X",
+        "Drop": "8 mm",
+        "Peso": "~295 g (M27)",
+        "Larghezze": "B, D, 2E",
+        "Uso target": "50+ km/settimana",
+        "Prezzo": "~¥17.000"
+      },
+      "scores": {
+        "Cushioning": 4.5,
+        "Stability": 3.3,
+        "Durability": 3.8,
+        "Value": 4.2,
+        "Fit": 4.4
+      }
+    },
+    {
+      "offerId": "hoka-clifton-9",
+      "badge": "Migliore scarpa da recupero",
+      "review": "Lo stack del tallone di 38 mm e la geometria meta-rocker del Clifton 9 lo rendono l'opzione più forte per il recupero e le lunghe uscite — la geometria riduce la domanda di escursione articolare della caviglia per falcata. Il drop di 4 mm richiede 2-3 settimane di adattamento per i corridori di tallone.",
+      "pros": [
+        "Stack del tallone di 38 mm — massima assorbimento degli urti qui",
+        "La geometria meta-rocker riduce il carico su polpaccio/tendine d'Achille",
+        "La schiuma CMEVA supera l'EVA economico in longevità"
+      ],
+      "cons": [
+        "Il drop di 4 mm richiede 2–3 settimane di adattamento per i corridori di tallone"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Intersuola": "CMEVA",
+        "Altezza dello stack": "38 mm tallone / 34 mm avampiede",
+        "Drop": "4 mm",
+        "Peso": "~255 g (M27)",
+        "Versioni larghe": "Limitate in Giappone",
+        "Prezzo": "~¥19.000"
+      },
+      "scores": {
+        "Cushioning": 5.0,
+        "Stability": 3.0,
+        "Durability": 3.7,
+        "Value": 3.8,
+        "Fit": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per i corridori neutri quotidiani",
+      "offerId": "nike-pegasus-41",
+      "reason": "La versatilità di React e il drop di 10 mm gestiscono settimane di 30-50 km a ritmi di allenamento misti senza la necessità di una seconda scarpa."
+    },
+    {
+      "label": "Per i corridori con sovrappronazione e storia di infortuni",
+      "offerId": "asics-gel-kayano-31",
+      "reason": "Il perno LITETRUSS e la forma giapponese forniscono il supporto dell'arco e la larghezza che prevengono i problemi alla tibia e alla fascia plantare causati dalla sovrappronazione."
+    },
+    {
+      "label": "Per i corridori con piedi larghi",
+      "offerId": "brooks-ghost-16",
+      "reason": "La migliore disponibilità 2E in Giappone combinata con la scatola per le dita più ampia — nessun'altra scarpa rende l'adattamento ampio così accessibile su Rakuten."
+    },
+    {
+      "label": "Per l'allenamento alla maratona",
+      "offerId": "new-balance-880v14",
+      "reason": "Fresh Foam X e le opzioni di larghezza B/D/2E gestiscono meglio il carico cumulativo dei blocchi di allenamento alla maratona rispetto alle alternative più strette o più rigide."
+    },
+    {
+      "label": "Per i giorni di recupero e le lunghe uscite lente",
+      "offerId": "hoka-clifton-9",
+      "reason": "La geometria meta-rocker e lo stack massimo riducono la domanda sul polpaccio per falcata — idealmente abbinata a una scarpa più reattiva per le sessioni di qualità."
+    }
+  ]
 }

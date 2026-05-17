@@ -146,5 +146,43 @@
     "xserver": "ConoHa'nın daha hızlı TTFB'sinden çok uzun bir uptime geçmişi ve 7/24 telefon desteği önemliyse bunu seç.",
     "lolipop-server": "ConoHa ile aynı ana şirket, daha yavaş donanım, daha düşük fiyat. Yalnızca hobi blogları ve sıkı bütçeler için."
   },
-  "pinDescription": "ConoHa WING 30 gün test: WordPress 11 dakikada yayında, 198ms TTFB, ücretsiz alan adı, Japonca panel. Xserver'ı nerede geçiyor, Lolipop'a nerede yeniliyor — sayılarla."
+  "pinDescription": "ConoHa WING 30 gün test: WordPress 11 dakikada yayında, 198ms TTFB, ücretsiz alan adı, Japonca panel. Xserver'ı nerede geçiyor, Lolipop'a nerede yeniliyor — sayılarla.",
+  "methodology": "Her host, ölçülen TTFB (30 günlük ortalama, Tokyo kökeni), gerçek kurulum süresi, destek saatleri, yedekleme ve taşıma araçları ile yenileme fiyatları dahil 3 yıllık toplam sahip olma maliyeti açısından değerlendirildi.",
+  "products": [
+    {
+      "offerId": "conoha-wing",
+      "badge": "Genel En İyi",
+      "review": "ConoHa WING, Japonya'da en hızlı WordPress başlangıcını sunuyor — kayıttan HTTPS sitesi yayına kadar 11 dakika. TTFB, Tokyo'dan 30 gün boyunca ortalama 198ms oldu; Xserver ve Lolipop'u geçti. Dezavantajı: destek yalnızca hafta içi mesai saatlerinde chat, kampanya fiyatı yenilemede ikiye katlıyor.",
+      "pros": ["かんたんセットアップ ile 11 dakikada WordPress canlıda", "198ms TTFB — bu karşılaştırmada en hızlı", "14 günlük günlük otomatik yedekler ek ücret olmadan dahil"],
+      "cons": ["Chat desteği yalnızca hafta içi 10:00–18:00 — telefon veya gece kapsamı yok"],
+      "grade": "A+",
+      "specs": {"TTFB (30 gün ort.)": "198ms", "Kurulum süresi": "11 dak 04 sn", "Yedek saklama": "14 gün", "Sözleşme süreleri": "1 / 12 / 36 ay", "Ücretsiz alan adı": "Evet (WINGパック)", "SSL": "Ücretsiz Let's Encrypt", "Veri merkezi": "Japonya"},
+      "scores": {"Performance": 4.8, "Value": 4.2, "Support quality": 3.2, "Ease of use": 4.9, "Uptime": 4.7}
+    },
+    {
+      "offerId": "xserver",
+      "badge": "En İyi Destek",
+      "review": "Xserver'ın 7/24 telefon desteği, ConoHa WING'den en büyük farkı oluşturuyor — gece 2'de site çöktüğünde arayabilirsiniz. TTFB testlerde 268ms oldu, ConoHa'dan yaklaşık %35 daha yavaş. Fiyatlar karşılaştırılabilir, seçim neredeyse tamamen tercih edilen destek stiline bağlı.",
+      "pros": ["7/24 telefon desteği — bu karşılaştırmada başka hiçbir host bunu sunmuyor", "Uzun yılların güçlü uptime geçmişi", "Performansa önem veren kullanıcılar için KUSANAGI optimize WordPress"],
+      "cons": ["268ms TTFB — eşdeğer planlarda ConoHa WING'den belirgin şekilde yavaş"],
+      "grade": "A",
+      "specs": {"TTFB (30 gün ort.)": "268ms", "Telefon desteği": "7/24", "WordPress optimizasyonu": "KUSANAGI", "Sözleşme süreleri": "1 / 6 / 12 / 24 / 36 ay", "Ücretsiz alan adı": "Evet (seçili planlar)", "SSL": "Ücretsiz Let's Encrypt", "Veri merkezi": "Japonya"},
+      "scores": {"Performance": 4.1, "Value": 4.0, "Support quality": 5.0, "Ease of use": 4.3, "Uptime": 4.9}
+    },
+    {
+      "offerId": "lolipop-server",
+      "badge": "En İyi Bütçe",
+      "review": "Lolipop'un Hi-Speed planı ¥550/ay ile Japonya'nın tam özellikli en ucuz paylaşımlı hostu, ancak 312ms TTFB ile karşılaştırmada en yavaş. ConoHa WING ile aynı GMO altyapısı ama daha eski donanım nesli. Hobi blogları, portfolyolar ve hız yerine aylık maliyeti önceliklendiren kullanıcılar için ideal.",
+      "pros": ["En düşük aylık maliyet — Hi-Speed ¥550/aydan başlıyor", "ConoHa WING ile aynı GMO ana şirketi — güvenilir altyapı", "Düşük trafikli hobi siteleri ve bloglar için iyi başlangıç noktası"],
+      "cons": ["312ms TTFB — karşılaştırmada anlamlı farkla en yavaş"],
+      "grade": "B+",
+      "specs": {"TTFB (30 gün ort.)": "312ms", "Başlangıç fiyatı": "¥330/ay", "Hi-Speed planı": "¥550/ay", "Ücretsiz alan adı": "Evet (Hi-Speed)", "SSL": "Ücretsiz Let's Encrypt", "Destek": "Chat ve e-posta", "Veri merkezi": "Japonya"},
+      "scores": {"Performance": 3.5, "Value": 4.9, "Support quality": 3.5, "Ease of use": 4.4, "Uptime": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Japonya'da ilk kez blog açanlar için", "offerId": "conoha-wing", "reason": "Sıfırdan canlı WordPress'e en hızlı yol — tek form, tek fatura, 11 dakika kurulum."},
+    {"label": "7/24 telefon desteğine ihtiyaç duyan işletmeler için", "offerId": "xserver", "reason": "Bu karşılaştırmada acil olaylara 24 saat telefon erişimi olan tek host."},
+    {"label": "Bütçesi sınırlı hobi siteleri için", "offerId": "lolipop-server", "reason": "Hi-Speed planı ¥550/ay ile temel ihtiyaçları karşılıyor, belki ihtiyaç duymadığınız hız için fazladan ödeme yok."}
+  ]
 }

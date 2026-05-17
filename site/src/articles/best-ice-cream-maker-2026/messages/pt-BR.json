@@ -66,5 +66,64 @@
     "kitchenaid-ice-cream-maker-attachment": "Acessório de canister de pré-congelamento para batedeira planetária KitchenAid. Não precisa de base de motor separada. $50-70. Ideal para donos de KitchenAid que querem fazer sorvete sem outro aparelho na bancada."
   },
   "pinDescription": "Comparação de máquinas de sorvete 2026: Cuisinart ICE-21 vs compressor Whynter vs Breville Smart Scoop vs Ninja Creami vs acessório KitchenAid — método de batedura, tempo de congelamento e qual máquina faz o sorvete mais suave comparado. #sorvetecaseiro #maquinadesorvete #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada máquina foi avaliada quanto à qualidade de congelamento/batedura em três tipos de base (creme inglês padrão, sorbet, alto teor proteico), capacidade relativa ao tamanho do domicílio, tempo até a primeira colherada, facilidade de limpeza e relação custo-benefício realista.",
+  "products": [
+    {
+      "offerId": "cuisinart-ice-21-ice-cream-maker",
+      "badge": "Melhor no geral",
+      "review": "A Cuisinart ICE-21 é a máquina de sorvete caseira mais vendida na América do Norte há mais de duas décadas porque o mecanismo é genuinamente bom e o preço se manteve honesto. Congele o bowl de isolamento duplo, bata por 20–25 minutos e você tem sorvete cremoso e consistente por cerca de $50–60. A limitação real é a exigência de planejamento — o bowl precisa de 24 horas no freezer antes do uso. Para a maioria dos domicílios que faz sorvete ocasionalmente, isso não é problema.",
+      "pros": ["Menos de $60 por desempenho de batedura comprovado e confiável", "Canisters substitutos disponíveis se o bowl quebrar", "Pegada compacta em comparação com máquinas de compressor"],
+      "cons": ["Planejamento de pré-congelamento de 24 horas necessário para cada lote"],
+      "grade": "A+",
+      "specs": {"Capacidade": "1,5 quartos (aprox. 1,4 L)", "Tipo": "Canister pré-congelado", "Tempo de batedura": "20–25 min", "Motor": "~100W", "Lavável na lava-louças": "Bowl: Não, Pá: Sim", "Dimensões": "20 × 18 × 23 cm"},
+      "scores": {"Qualidade de congelamento": 4.2, "Capacidade": 3.5, "Velocidade": 3.0, "Facilidade de uso": 4.8, "Custo-benefício": 5.0}
+    },
+    {
+      "offerId": "whynter-icm-200ls-ice-cream-maker",
+      "badge": "Melhor compressor",
+      "review": "O Whynter ICM-200LS elimina a barreira de planejamento completamente — compressor embutido, 2,1 quartos, sem pré-congelamento. Misture a base, despeje, tenha sorvete em 30–40 minutos. A função de pré-resfriamento resfria o bowl antes de adicionar ingredientes, melhorando visivelmente a textura ao iniciar a batedura mais fria. Vários lotes no mesmo dia são possíveis. Por $250–300, você está pagando pelo compressor e pela conveniência sob demanda; a qualidade do sorvete em si é comparável ao Cuisinart.",
+      "pros": ["Sem pré-congelamento — sorvete sob demanda em menos de uma hora", "2,1 quartos — maior capacidade desta comparação", "Pré-resfriamento + funções de endurecimento para melhor controle de textura"],
+      "cons": ["Grande pegada — requer espaço dedicado na bancada ou armário suficientemente fundo"],
+      "grade": "A",
+      "specs": {"Capacidade": "2,1 quartos (aprox. 2 L)", "Tipo": "Compressor embutido", "Tempo de batedura": "30–45 min", "Compressor": "Autônomo", "Nível de ruído": "~55 dB", "Dimensões": "40 × 28 × 38 cm"},
+      "scores": {"Qualidade de congelamento": 4.5, "Capacidade": 5.0, "Velocidade": 4.5, "Facilidade de uso": 4.5, "Custo-benefício": 3.8}
+    },
+    {
+      "offerId": "breville-bci600xl-smart-scoop",
+      "badge": "Melhor precisão",
+      "review": "O sensor de dureza automático do Breville Smart Scoop é a característica que o diferencia de outras máquinas de compressor — ele lê a resistência do motor à medida que a mistura engrossa e para a batedura na firmeza selecionada (11 configurações de soft serve a extra firme) sem que você precise monitorar. A função keep-soft de 3 horas mantém o sorvete finalizado na temperatura de serviço sem reendurecimento. Para domicílios que regularmente fazem gelato, sorbet e sorvete, o prêmio de $350–400 se justifica.",
+      "pros": ["O sensor de dureza automático elimina suposições entre diferentes tipos de base", "A função keep-soft de 3 horas mantém consistência de serviço", "Modo de pré-resfriamento de 30 min para temperatura de início ideal"],
+      "cons": ["$350–400 é difícil de justificar para domicílios com apenas um tipo de base"],
+      "grade": "B+",
+      "specs": {"Capacidade": "1 quarto (aprox. 0,95 L)", "Tipo": "Compressor embutido", "Configurações de dureza": "11", "Tempo de pré-resfriamento": "30 min", "Keep-soft": "Até 3 horas", "Dimensões": "39 × 22 × 28 cm"},
+      "scores": {"Qualidade de congelamento": 4.9, "Capacidade": 3.2, "Velocidade": 4.2, "Facilidade de uso": 4.0, "Custo-benefício": 3.2}
+    },
+    {
+      "offerId": "ninja-creami-ice-cream-maker",
+      "badge": "Melhor para bases não convencionais",
+      "review": "O Ninja Creami não bate — processa um recipiente de pint completamente congelado com lâminas de alta velocidade, criando textura suave a partir de um bloco sólido congelado. Isso abre bases que falhariam na batedura em qualquer máquina tradicional: alto teor proteico, alto teor de fibra, apenas fruta ou baixo teor de gordura. A textura resultante é notavelmente suave. A restrição é o tamanho do lote (um pint por vez) e o requisito de pré-congelamento de 12–24 horas. Para domicílios conscientes de dieta ou focados em proteínas, essa máquina abre opções que não existem em outro lugar.",
+      "pros": ["Processa bases ricas em proteína e não convencionais que a batedura tradicional não consegue", "Textura muito suave pelo processamento com lâminas", "Porções de um pint são perfeitas para uma ou duas pessoas"],
+      "cons": ["Um pint por lote — domicílios maiores precisam de vários recipientes pré-congelados"],
+      "grade": "B",
+      "specs": {"Capacidade": "1 pint por lote", "Tipo": "Processador de lâminas", "Tempo de pré-congelamento": "12–24 horas", "Tempo de processamento": "~2 min", "Recipiente": "Recipientes de pint dedicados", "Dimensões": "33 × 15 × 38 cm"},
+      "scores": {"Qualidade de congelamento": 4.6, "Capacidade": 2.5, "Velocidade": 2.5, "Facilidade de uso": 4.2, "Custo-benefício": 4.0}
+    },
+    {
+      "offerId": "kitchenaid-ice-cream-maker-attachment",
+      "badge": "Melhor para donos de KitchenAid",
+      "review": "Se você já possui uma batedeira planetária KitchenAid, este acessório adiciona capacidade de sorvete por $50–70 sem outra base de motor ocupando espaço na bancada. Congele o canister (mesmo requisito de 24 horas do Cuisinart), encaixe na batedeira e bata por cerca de 25–30 minutos. O desempenho é comparável ao Cuisinart ICE-21. A vantagem real é a consolidação de equipamentos — um aparelho a menos para quem já investe no ecossistema KitchenAid. Para quem não tem KitchenAid, basta comprar o Cuisinart.",
+      "pros": ["Sem base de motor separada — aproveita o investimento KitchenAid existente", "Armazenamento compacto — apenas o bowl precisa de espaço", "Qualidade de batedura comparável ao Cuisinart independente"],
+      "cons": ["Só faz sentido se você já possui uma batedeira planetária KitchenAid"],
+      "grade": "B-",
+      "specs": {"Capacidade": "1,9 quartos (aprox. 1,8 L)", "Tipo": "Acessório de canister pré-congelado", "Compatível com": "Todos os KitchenAid tilt-head e bowl-lift", "Tempo de batedura": "25–30 min", "Lavável na lava-louças": "Bowl: Não", "Armazenamento": "Apenas bowl"},
+      "scores": {"Qualidade de congelamento": 4.0, "Capacidade": 4.2, "Velocidade": 2.8, "Facilidade de uso": 4.5, "Custo-benefício": 4.3}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para uso doméstico ocasional", "offerId": "cuisinart-ice-21-ice-cream-maker", "reason": "Melhor custo-benefício para domicílios que fazem sorvete algumas vezes por mês e não se importam de planejar 24 horas antes."},
+    {"label": "Para produção sob demanda", "offerId": "whynter-icm-200ls-ice-cream-maker", "reason": "O compressor embutido significa sem espera de pré-congelamento — vários lotes no mesmo dia sem planejamento."},
+    {"label": "Para precisão em vários tipos de base", "offerId": "breville-bci600xl-smart-scoop", "reason": "O sensor de dureza automático se adapta a gelato, sorbet e sorvete sem monitoramento manual."},
+    {"label": "Para domicílios focados em proteína ou dieta", "offerId": "ninja-creami-ice-cream-maker", "reason": "O processamento com lâminas permite bases ricas em proteína, apenas de fruta e com baixo teor de gordura que máquinas de bater não executam bem."},
+    {"label": "Para donos existentes de KitchenAid", "offerId": "kitchenaid-ice-cream-maker-attachment", "reason": "Adiciona capacidade de sorvete sem outro aparelho — a escolha lógica se você já tem uma KitchenAid."}
+  ]
 }

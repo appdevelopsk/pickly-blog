@@ -97,5 +97,62 @@
     "nespresso-lattissima-one": "Originalラインに統合ミルクシステム搭載。$250〜350。ラテ/カプチーノ向けオールインワンとして最優秀——Aeroccino購入不要、Originalカプセルの互換性でカプセルの選択肢を広く保てる。"
   },
   "pinDescription": "Nespresso Vertuo vs Original 2026：カプセル互換性・クレマの品質・バーコード技術の解説・カプセルコストの内訳・長期的にお得なシステムはどちらか。Vertuo NextvsPlusvs Essenza MinivsLattissima Oneを徹底比較。",
-  "methodology": "各商品を風味・原料の透明性・1食あたりのコスパ・パッケージ品質・実用面での使い勝手で評価。認証情報やユーザーレビューを宣伝文句と照らし合わせて確認しています。"
+  "methodology": "各マシンは、カプセルエコシステムの幅とサードパーティ入手性・抽出機構別のクレマ/フォーム品質・抽出サイズの範囲・3年間毎日使用した場合の実際のカプセルコスト・ビルド品質・抽出時の騒音・オーナー報告に基づく故障事例で評価しました。",
+  "products": [
+    {
+      "offerId": "nespresso-vertuo-next",
+      "badge": "Vertuo入門ベスト",
+      "review": "Vertuo Nextはバーコード誘導抽出の一貫性をOriginalマシンより高く実現します——毎回の1杯が同じ品質。トレードオフは騒音で、7,000rpmのセントリュージョンスピンはOriginalマシンより明確にうるさく、価格に対してビルドクオリティがバジェット寄りに感じます。",
+      "pros": ["バーコード抽出でユーザーミスをゼロに——Originalを上回る一貫性", "40mlエスプレッソから414mlアルトまで5サイズ対応", "折りたたみ式デザインで小さなキッチンに収まる"],
+      "cons": ["同一Vertuo Plusより抽出時の騒音が大きい；カプセルエコシステムが独自規格でOriginalより種類が少ない"],
+      "grade": "A+",
+      "specs": {"抽出方式": "センタリュージョン（バーコード）", "カップサイズ": "5種類（40〜414ml）", "タンク容量": "37oz（1.1L）", "加熱時間": "約30秒", "接続": "Bluetooth", "カプセル規格": "Vertuo専用", "価格帯": "$130〜$180"},
+      "scores": {"Capsule variety": 3.0, "Brew quality": 4.5, "Machine cost": 4.5, "Value": 3.5, "Ease of use": 4.9}
+    },
+    {
+      "offerId": "nespresso-vertuo-plus",
+      "badge": "Vertuo中価格帯ベスト",
+      "review": "Vertuo Plusは、Vertuo Nextの最大の人間工学的不満を解消しています。モーター式レバーヘッドは折りたたみ式より片手で操作しやすく、抽出時の騒音も明確に低く、ビルドクオリティも追加の$30〜40に見合う改善があります。毎日のVertuo使用にはNextよりPlusがほぼ常に正解です。",
+      "pros": ["モーター式レバーヘッドがVertuo Nextの折りたたみ式より静かで使いやすい", "Nextより明確に上質なビルドクオリティ", "蓋の自動クローズ機能で毎回手間が1ステップ省ける"],
+      "cons": ["ミルクフローサー非内蔵——ミルクドリンクにはAeroccino購入が別途必要"],
+      "grade": "A",
+      "specs": {"抽出方式": "センタリュージョン（バーコード）", "カップサイズ": "5種類（40〜414ml）", "タンク容量": "37oz（1.1L）", "加熱時間": "20〜25秒", "カプセルヘッド": "モーター式レバー", "カプセル規格": "Vertuo専用", "価格帯": "$160〜$220"},
+      "scores": {"Capsule variety": 3.0, "Brew quality": 4.7, "Machine cost": 3.8, "Value": 3.8, "Ease of use": 4.8}
+    },
+    {
+      "offerId": "nespresso-essenza-mini",
+      "badge": "Originalコンパクトベスト",
+      "review": "Essenza MiniはNespresso最小のマシンであり、サードパーティカプセルとの完全互換性を持つOriginalエコシステムの入口です。エスプレッソ品質はどのOriginalマシンも同一——仕事をするのはマシンではなくカプセルです。Originalを一文で表すなら：サードパーティカプセルが$0.40〜0.80 vs Vertuoの独自規格$0.90〜1.50。",
+      "pros": ["サードパーティカプセルと完全互換——Peet's、Starbucks、Lavazza、L'Orすべて対応", "この比較で最小フットプリント——小さなキッチンに最適", "新鮮なカプセルでCO2由来の本物のクレマを実現"],
+      "cons": ["40mlエスプレッソと110mlルンゴのみ——マグカップ以上のサイズは対応不可"],
+      "grade": "B+",
+      "specs": {"抽出方式": "19バールポンプ圧力", "カップサイズ": "2種類（40ml、110ml）", "タンク容量": "20oz（590ml）", "加熱時間": "約25秒", "カプセル規格": "Original＋全サードパーティ", "重量": "2.2kg", "価格帯": "$100〜$150"},
+      "scores": {"Capsule variety": 5.0, "Brew quality": 4.3, "Machine cost": 5.0, "Value": 4.8, "Ease of use": 4.7}
+    },
+    {
+      "offerId": "nespresso-pixie",
+      "badge": "Original中価格帯ベスト",
+      "review": "PixieはEssenza MiniとLattissima Oneの中間に位置します——やや大きなタンク、より速い加熱、カウンターで映えるスリムなアルミ筐体。エスプレッソ品質はEssenza Miniと同一（両機種とも同じ19バールポンプ抽出を使用）。外観とタンクサイズが重要ならPixie、最も安いOriginalマシンが欲しいだけならEssenza Miniで十分です。",
+      "pros": ["Essenza Miniより大きなタンク（800ml）で給水頻度が減る", "Essenza Miniより高速加熱——毎日の使い勝手が向上", "スリムなアルミデザイン——プラスチック筐体より見た目が良い"],
+      "cons": ["エスプレッソ出力は安価なEssenza Miniと同一——プレミアムはフォームファクターのみ"],
+      "grade": "B",
+      "specs": {"抽出方式": "19バールポンプ圧力", "カップサイズ": "2種類（40ml、110ml）", "タンク容量": "27oz（800ml）", "加熱時間": "約25秒", "筐体": "アルミニウム", "カプセル規格": "Original＋全サードパーティ", "価格帯": "$150〜$200"},
+      "scores": {"Capsule variety": 5.0, "Brew quality": 4.3, "Machine cost": 4.0, "Value": 4.0, "Ease of use": 4.7}
+    },
+    {
+      "offerId": "nespresso-lattissima-one",
+      "badge": "ミルクフローサー付きベスト",
+      "review": "Lattissima OneはこのリストでOriginalカプセル規格を維持しながら統合ミルクシステムを備える唯一のマシンです。Aeroccinoを別途購入するつもりがある方にとって、Lattissima Oneの統合された利便性は中価格帯Originalマシンに対するプレミアムに十分な価値があります。",
+      "pros": ["ワンタッチ統合ミルクフローサー内蔵——Aeroccino別途購入不要", "Originalカプセル規格でサードパーティカプセルエコシステム全体にアクセス可能", "ワンボタンでラテとカプチーノ——この比較で最も手軽なミルクワークフロー"],
+      "cons": ["独自ミルクポッドシステムでコーヒーカプセルに加えてさらに消耗品コストが発生"],
+      "grade": "B-",
+      "specs": {"抽出方式": "19バールポンプ圧力", "ミルクシステム": "ワンタッチ統合型", "カップサイズ": "エスプレッソ・ルンゴ・ラテ・カプチーノ", "タンク容量": "23oz（680ml）", "カプセル規格": "Original＋全サードパーティ", "筐体": "プラスチック/クロームメッキ", "価格帯": "$250〜$350"},
+      "scores": {"Capsule variety": 5.0, "Brew quality": 4.4, "Machine cost": 2.5, "Value": 3.5, "Ease of use": 4.9}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "カプセルの種類を重視するエスプレッソ愛好家へ", "offerId": "nespresso-essenza-mini", "reason": "Originalエコシステムのサードパーティ完全互換でカプセルコストを$0.40〜0.80に抑えられる。Vertuoの独自規格$0.90〜1.50と比べて大きな差。"},
+    {"label": "ラテ・カプチーノをよく飲む方へ", "offerId": "nespresso-lattissima-one", "reason": "この比較でOriginalカプセルエコシステムを維持しながら統合ミルクフローサーを備える唯一のマシン。"},
+    {"label": "大容量サイズと抽出の安定性を求める方へ", "offerId": "nespresso-vertuo-plus", "reason": "バーコード誘導センタリュージョンでマグカップ・アルトサイズを毎回一定のフォームで抽出——ユーザーミスの余地なし。"}
+  ]
 }

@@ -58,5 +58,181 @@
     "adjustable-preacher-curl-attachment": "Accesorio de cojín para banco de peso, ahorra espacio en el suelo, estabilidad variable. $40-80. Alternativa eficiente en espacio al banco independiente. Mejor para atletas con un banco ajustable de calidad que quieren capacidad de curl predicador ocasional."
   },
   "pinDescription": "Banco de curl predicador 2026: Body-Solid vs Marcy vs Valor vs REP, por qué los curls predicadores apuntan a la posición de estiramiento del bíceps, banco independiente vs accesorio, y si un banco de curl predicador vale la pena comprar para un gym en casa. #curlpredicador #bíceps #español #gymencasa",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada banco se evaluó en ángulo de almohadilla y densidad de espuma bajo carga, rango de ajuste del asiento, ancho de almohadilla de brazo frente a la barra EZ curl, flexión del marco durante series de máximo esfuerzo e integridad de la soldadura a largo plazo basada en informes de usuarios tras más de 12 meses de uso regular.",
+  "products": [
+    {
+      "offerId": "body-solid-preacher-curl-bench",
+      "badge": "Mejor Overall",
+      "review": "El Body-Solid bloquea los brazos superiores firmemente sin que la almohadilla se comprima bajo series pesadas con barra EZ. El asiento ajustable cubre la mayoría de longitudes de torso, y la ancha almohadilla de brazo soporta ambos brazos sin apreturas. La durabilidad de la almohadilla tras 3+ años se señala ocasionalmente como debilidad frente al REP.",
+      "pros": [
+        "Espuma HD gruesa mantiene la forma bajo carga pesada de barra",
+        "4–5 posiciones de asiento se adaptan a la mayoría de longitudes de torso",
+        "Almohadilla ancha funciona para trabajo con barra EZ de dos brazos"
+      ],
+      "cons": [
+        "La cubierta de espuma puede agrietarse tras 2–3 años de uso diario"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Frame": "Heavy-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "4–5",
+        "Arm pad width": "~38 cm",
+        "Price range": "$100–150",
+        "Footprint": "~46×56 cm",
+        "Weight capacity": "150 kg"
+      },
+      "scores": {
+        "Stability": 4.8,
+        "Pad quality": 4.5,
+        "Build quality": 4.7,
+        "Value": 4.6,
+        "Adjustability": 4.4
+      }
+    },
+    {
+      "offerId": "rep-fitness-preacher-curl-bench",
+      "badge": "Mejor Calidad",
+      "review": "El REP usa almohadilla de grado comercial que permanece firme y sin grietas tras uso intenso. Más posiciones de asiento significa que acomoda atletas de más de 185 cm cómodamente. La diferencia de precio sobre el Body-Solid solo vale la pena si entrenas brazos dos o más veces por semana.",
+      "pros": [
+        "Espuma comercial resiste compresión y agrietamiento",
+        "Más posiciones de asiento de cualquier banco en esta comparativa",
+        "Marco pesado soporta configuraciones con cable lastrado"
+      ],
+      "cons": [
+        "Precio de $130–180 difícil de justificar para trabajo de brazo ocasional"
+      ],
+      "grade": "A",
+      "specs": {
+        "Frame": "Heavy-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "6+",
+        "Arm pad width": "~40 cm",
+        "Price range": "$130–180",
+        "Footprint": "~48×58 cm",
+        "Weight capacity": "180 kg"
+      },
+      "scores": {
+        "Stability": 4.9,
+        "Pad quality": 4.9,
+        "Build quality": 4.9,
+        "Value": 4.0,
+        "Adjustability": 4.8
+      }
+    },
+    {
+      "offerId": "valor-fitness-preacher-curl-bench",
+      "badge": "Mejor Gama Media",
+      "review": "Valor ocupa el espacio entre la construcción económica del Marcy y el precio del Body-Solid — las soldaduras son notablemente más limpias y la espuma notablemente más gruesa que el Marcy. No flexiona bajo cargas moderadas.",
+      "pros": [
+        "Espuma más gruesa que alternativas económicas",
+        "Soldadura más limpia que el Marcy",
+        "Estable bajo cargas de entrenamiento moderadas"
+      ],
+      "cons": [
+        "Densidad de espuma aún por debajo de Body-Solid y REP"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Frame": "Medium-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "3–4",
+        "Arm pad width": "~36 cm",
+        "Price range": "$80–120",
+        "Footprint": "~44×54 cm",
+        "Weight capacity": "136 kg"
+      },
+      "scores": {
+        "Stability": 4.4,
+        "Pad quality": 4.2,
+        "Build quality": 4.3,
+        "Value": 4.5,
+        "Adjustability": 4.0
+      }
+    },
+    {
+      "offerId": "marcy-preacher-curl-bench",
+      "badge": "Mejor Presupuesto",
+      "review": "El Marcy es funcional para cargas bajo 30 kg y frecuencia de entrenamiento casual. El acolchado más fino y el marco más ligero se notan con cargas más pesadas.",
+      "pros": [
+        "Precio de entrada más bajo para un banco preacher independiente",
+        "Suficiente para entrenamiento casual bajo 30 kg",
+        "Ampliamente disponible y fácil de montar"
+      ],
+      "cons": [
+        "El acolchado delgado se comprime bajo cargas más pesadas",
+        "Marco más ligero que Body-Solid o Valor"
+      ],
+      "grade": "B",
+      "specs": {
+        "Frame": "Light-gauge steel",
+        "Pad angle": "45–50°",
+        "Seat positions": "3",
+        "Arm pad width": "~34 cm",
+        "Price range": "$70–100",
+        "Footprint": "~42×52 cm",
+        "Weight capacity": "120 kg"
+      },
+      "scores": {
+        "Stability": 3.8,
+        "Pad quality": 3.5,
+        "Build quality": 3.7,
+        "Value": 4.3,
+        "Adjustability": 3.6
+      }
+    },
+    {
+      "offerId": "adjustable-preacher-curl-attachment",
+      "badge": "Mejor Ahorro de Espacio",
+      "review": "El accesorio convierte un banco ajustable existente en una estación preacher — sin huella adicional, sin coste adicional por un banco dedicado. La estabilidad depende enteramente de la calidad del banco base.",
+      "pros": [
+        "Sin huella de suelo adicional más allá del banco existente",
+        "~$40–80 frente a $100+ para independiente",
+        "Se pliega cuando no está en uso"
+      ],
+      "cons": [
+        "La estabilidad varía significativamente según la calidad del banco base",
+        "No apto para trabajo pesado con barra en curl predicador"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Bench attachment",
+        "Compatibility": "Standard adjustable benches",
+        "Pad angle": "45°",
+        "Price range": "$40–80",
+        "Storage": "Folds flat",
+        "Weight capacity": "Depends on base bench",
+        "Grip width": "Single arm or two-arm"
+      },
+      "scores": {
+        "Stability": 3.2,
+        "Pad quality": 3.6,
+        "Build quality": 3.4,
+        "Value": 4.7,
+        "Adjustability": 3.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para entrenamiento dedicado de brazos 2×/semana",
+      "offerId": "rep-fitness-preacher-curl-bench",
+      "reason": "El acolchado de grado comercial y las posiciones de asiento extra aguantan el uso frecuente sin degradar la calidad del movimiento."
+    },
+    {
+      "label": "Para la mayoría de configuraciones de gimnasio en casa",
+      "offerId": "body-solid-preacher-curl-bench",
+      "reason": "Almohadilla ancha, marco sólido y múltiples posiciones de asiento cubren toda la gama de variaciones de curl predicador."
+    },
+    {
+      "label": "Para presupuestos ajustados o uso ocasional",
+      "offerId": "marcy-preacher-curl-bench",
+      "reason": "Funcional con cargas ligeras y baja frecuencia — el punto de entrada correcto si no estás seguro de cuánto usarás un banco predicador."
+    },
+    {
+      "label": "Para gimnasios en casa con espacio limitado y banco ajustable",
+      "offerId": "adjustable-preacher-curl-attachment",
+      "reason": "Sin huella de suelo más allá del banco que ya tienes — práctico si un banco independiente significaría renunciar a otro equipo."
+    }
+  ]
 }

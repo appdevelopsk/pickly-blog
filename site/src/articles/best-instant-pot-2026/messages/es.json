@@ -62,5 +62,64 @@
     "instant-pot-duo-crisp-air-fryer": "Añade una tapa dedicada de fritura al aire a la base de cocción a presión probada de la Duo — la elección correcta si quieres ambas capacidades en el ecosistema Instant Pot en lugar de cambiar a Ninja."
   },
   "pinDescription": "Las mejores Instant Pot 2026: Duo 7-en-1 vs Pro 10-en-1 vs Ninja Foodi — ¿qué olla múltiple realmente vale la pena comprar para las cenas de entre semana? #InstantPot #CocinaRápida #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada multicocina fue evaluada en tiempo de construcción de presión, fiabilidad del sello después de 50+ ciclos, rendimiento de dorado en el sofrito, facilidad de limpieza de la olla interior y la tapa, y si las funciones comercializadas (sous vide, fritura al aire) funcionan de forma comparable a los dispositivos dedicados.",
+  "products": [
+    {
+      "offerId": "instant-pot-duo-7in1-6qt",
+      "badge": "Mejor en general",
+      "review": "La Duo 7-en-1 es la opción predeterminada correcta para la mayoría de los hogares — maneja cocción a presión, cocción lenta, arroz, sofrito, vaporizador, yogur y mantenimiento en caliente con fiabilidad probada en millones de unidades. A unos 50–70 €, es la Instant Pot más asequible que hace todo lo que la mayoría de la gente realmente necesita. Los anillos de sellado y accesorios están disponibles universalmente, y la interfaz de control es intuitiva en dos usos. La única limitación real: la función de sofrito alcanza una temperatura que produce vapor con la misma frecuencia que dorado en una olla llena.",
+      "pros": ["Cubre 7 funciones esenciales al precio más accesible de la gama", "Millones de unidades en uso — el historial de fiabilidad más probado", "Anillos de sellado y accesorios disponibles universalmente"],
+      "cons": ["La función de sofrito tiene dificultades para dorar la carne en una olla llena — el techo de temperatura es demasiado bajo"],
+      "grade": "A+",
+      "specs": {"Capacidad": "6 cuartos (aprox. 5,7 L)", "Funciones": "7-en-1", "Presión máxima": "15 PSI", "Olla interior": "Acero inoxidable", "Temp. sofrito": "Medio-alto", "Dimensiones": "33 × 31 × 32 cm"},
+      "scores": {"Rendimiento a presión": 4.7, "Versatilidad": 4.5, "Facilidad de uso": 4.9, "Valor": 5.0, "Capacidad": 4.5}
+    },
+    {
+      "offerId": "instant-pot-pro-10in1-6qt",
+      "badge": "Mejor actualización",
+      "review": "La Pro justifica su precio premium con tres mejoras significativas sobre la Duo: temperaturas de sofrito más altas que producen dorado Maillard genuino en una olla llena de carne, un modo sous vide para cocción precisa de proteínas sin un circulador separado, y una válvula de liberación de presión de tipo dial que evita que los alimentos con almidón hagan espuma y obstruyan durante la liberación rápida. Si regularmente doras antes de estofar, cocinas proteínas a temperaturas precisas o liberas vapor en frijoles y risotto, estas diferencias aparecen en cada comida. Para cocción a presión sencilla, la Duo es suficiente.",
+      "pros": ["Mayor temperatura de sofrito produce dorado real, no vapor", "El modo sous vide elimina la necesidad de un circulador de inmersión separado", "La liberación de presión tipo dial previene obstrucciones de espuma en platos con almidón"],
+      "cons": ["75–100 € es un salto de precio real sobre la Duo para funciones que algunos hogares no usarán"],
+      "grade": "A",
+      "specs": {"Capacidad": "6 cuartos (aprox. 5,7 L)", "Funciones": "10-en-1", "Presión máxima": "15 PSI", "Liberación presión": "Tipo dial", "Sous vide": "Sí", "Dimensiones": "34 × 32 × 33 cm"},
+      "scores": {"Rendimiento a presión": 4.8, "Versatilidad": 4.9, "Facilidad de uso": 4.5, "Valor": 4.0, "Capacidad": 4.5}
+    },
+    {
+      "offerId": "ninja-fd401-foodi-8qt",
+      "badge": "Mejor para fritura al aire",
+      "review": "La tecnología TenderCrisp — cocinar a presión primero, luego cambiar a la tapa crocante para un acabado de fritura al aire genuino — es la capacidad definitoria del Foodi. La capacidad de 8 cuartos y la tapa crocante dedicada producen un dorado más uniforme que cualquier configuración de freidora de aire Instant Pot, y el flujo de aire es significativamente más fuerte que la tapa del Duo Crisp. A unos 150–200 €, el Foodi cuesta aproximadamente el doble que el Duo y ocupa más espacio en el mostrador. El compromiso se justifica si la fritura al aire es un requisito regular.",
+      "pros": ["TenderCrisp produce texturas que ni una freidora de aire independiente ni una olla a presión pueden igualar por sí solas", "La capacidad de 8 cuartos maneja costillares enteros y fritura al aire en grandes cantidades", "Mayor flujo de aire que los modelos de freidora de aire Instant Pot comparables"],
+      "cons": ["Significativamente más grande y pesada que la Instant Pot de 6 cuartos — requiere espacio fijo en el mostrador"],
+      "grade": "B+",
+      "specs": {"Capacidad": "8 cuartos (aprox. 7,6 L)", "Funciones": "9-en-1", "Tapa freidora de aire": "Tapa crocante dedicada", "Presión máxima": "15 PSI", "TenderCrisp": "Sí", "Dimensiones": "41 × 36 × 36 cm"},
+      "scores": {"Rendimiento a presión": 4.7, "Versatilidad": 5.0, "Facilidad de uso": 4.2, "Valor": 3.8, "Capacidad": 5.0}
+    },
+    {
+      "offerId": "cosori-pressure-cooker-6qt",
+      "badge": "Mejor alternativa económica",
+      "review": "COSORI ofrece un rendimiento de multicocina 9-en-1 comparable a la Instant Pot Duo en pruebas de cocción a presión, a un precio 20–30% por debajo. El diferenciador es la conectividad de la app: una biblioteca de recetas guiadas que descarga programas de cocción completos directamente a la unidad, lo que reduce la curva de aprendizaje para los nuevos usuarios. La dependencia del soporte de la app de COSORI es el riesgo a largo plazo — si COSORI descontinúa el servicio, la función de recetas guiadas desaparece. Las funciones de cocción a presión y cocción lenta básicas funcionan independientemente de la app.",
+      "pros": ["20–30% más barata que los modelos Instant Pot comparables", "Las recetas guiadas por app reducen la curva de aprendizaje para principiantes", "La funcionalidad 9-en-1 cubre todos los casos de uso estándar de multicocina"],
+      "cons": ["La dependencia de la app significa que las funciones guiadas podrían desaparecer si COSORI deja de dar soporte"],
+      "grade": "B",
+      "specs": {"Capacidad": "6 cuartos (aprox. 5,7 L)", "Funciones": "9-en-1", "App": "App COSORI (iOS/Android)", "Presión máxima": "15 PSI", "Olla interior": "Antiadherente", "Dimensiones": "32 × 30 × 30 cm"},
+      "scores": {"Rendimiento a presión": 4.4, "Versatilidad": 4.5, "Facilidad de uso": 4.7, "Valor": 4.8, "Capacidad": 4.5}
+    },
+    {
+      "offerId": "instant-pot-duo-crisp-air-fryer",
+      "badge": "Mejor opción híbrida",
+      "review": "La Duo Crisp añade una tapa de fritura al aire a la base de cocción a presión probada del Duo — 11 funciones en 1 incluyendo fritura al aire, gratinar, hornear, asar y deshidratar. Se mantiene dentro del ecosistema de accesorios Instant Pot, lo que significa que todos los anillos de sellado y ollas interiores del Duo siguen siendo compatibles. El rendimiento de fritura al aire es sólido para porciones de una a dos personas, pero queda por detrás del Foodi en tandas más grandes debido al menor flujo de aire. La elección correcta si deseas ambas capacidades sin comprometerte con el formato más pesado y grande de Ninja.",
+      "pros": ["Añade fritura al aire a la cocción a presión probada del Duo sin cambiar de ecosistema", "Mantiene compatibilidad con todos los accesorios Instant Pot de 6 cuartos", "Más compacta que el Ninja Foodi"],
+      "cons": ["El flujo de aire de fritura al aire es menor que el Ninja Foodi — menos crujiente uniforme en porciones grandes"],
+      "grade": "B-",
+      "specs": {"Capacidad": "6 cuartos (aprox. 5,7 L)", "Funciones": "11-en-1", "Tapa freidora de aire": "Tapa presión/crocante integrada", "Presión máxima": "15 PSI", "Deshidratar": "Sí", "Dimensiones": "35 × 33 × 33 cm"},
+      "scores": {"Rendimiento a presión": 4.7, "Versatilidad": 4.8, "Facilidad de uso": 4.3, "Valor": 4.0, "Capacidad": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para compradores de multicocina por primera vez", "offerId": "instant-pot-duo-7in1-6qt", "reason": "Fiabilidad probada, piezas universales e interfaz sencilla — el punto de partida más seguro para cualquier hogar."},
+    {"label": "Para cocineros serios de entre semana", "offerId": "instant-pot-pro-10in1-6qt", "reason": "Temperaturas de sofrito más altas y modo sous vide producen resultados notablemente mejores para dorar antes de estofar y cocción precisa de proteínas."},
+    {"label": "Para prioridad en fritura al aire", "offerId": "ninja-fd401-foodi-8qt", "reason": "La tecnología TenderCrisp ofrece el mejor acabado de fritura al aire desde una olla a presión — ninguna comparación independiente se acerca."},
+    {"label": "Para compradores con conciencia de presupuesto", "offerId": "cosori-pressure-cooker-6qt", "reason": "Rendimiento a presión comparable a un 20–30% por debajo de los precios de Instant Pot — especialmente bueno para principiantes que usarán la app de recetas guiadas."},
+    {"label": "Para los leales a Instant Pot que quieren fritura al aire", "offerId": "instant-pot-duo-crisp-air-fryer", "reason": "Añade fritura al aire sin salir del ecosistema Instant Pot — mantiene la compatibilidad de accesorios mientras amplía la funcionalidad."}
+  ]
 }

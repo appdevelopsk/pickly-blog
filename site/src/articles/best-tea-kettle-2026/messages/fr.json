@@ -112,5 +112,64 @@
     "fellow-stagg-ekg": "Référence bouilloire électrique col de cygne café filtre de précision -- Fellow Stagg EKG bouilloire électrique 0,9 L avec poignée contrebalancée, cadran de température continu (environ 60-100°C), maintien chaud 60 minutes, finition noire mate, la bouilloire café filtre premium de référence dans la communauté café de spécialité mondiale. Prix d'import ¥165+ -- la tarification retail japonaise du Stagg EKG chez les importateurs agréés s'élève à ¥20 000-28 000 et la tarification import parallèle varie ; la disponibilité chez les détaillants japonais est inconsistante avec des ruptures de stock multi-semaines occasionnelles ; 0,9 L est juste pour les foyers faisant des préparations de café filtre consécutives, nécessitant un rechargement mi-session plus souvent que la Hario V60 Buono à 1,2 L."
   },
   "pinDescription": "Cinq bouilloires comparées en 2026 -- de l'icône design Balmuda The Pot à ¥15 000 (600 ml, pas de contrôle de température, mais sublime sur un plan de travail) au Fellow Stagg EKG référence café filtre de précision. Bec col de cygne vs bec large expliqués honnêtement, calcul de température pour thé vert et café, calcul de capacité pour 1 à 4 personnes, et le dilemme design Balmuda. Esthétique cuisine rencontre science d'infusion honnête. #bouilloire #caféfiltre #thévert #théJaponais #cuisinefrançaise #français",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Chaque bouilloire a été évaluée sur le type de bec et le contrôle de l'arc de versage pour le café filtre et la cérémonie du thé, la précision du contrôle de température pour l'extraction du thé vert et du café, l'adéquation de la capacité pour les foyers de 1 à 4 personnes et la durée de vie réaliste basée sur les modes de défaillance dominants des avis de propriétaires à long terme.",
+  "products": [
+    {
+      "offerId": "fellow-stagg-ekg",
+      "badge": "Meilleur au Global",
+      "review": "La poignée équilibrée et le bouton de température continu du Fellow Stagg EKG en font la bouilloire pour-over la plus précise de ce groupe — réglez 93 °C et maintenez-le pendant 60 minutes sans surveiller un brûleur. La capacité de 0,9 L est juste pour les infusions consécutives, et la disponibilité au Japon fluctue avec des ruptures de stock de plusieurs semaines.",
+      "pros": ["Bouton de température continu de ~60 à 100 °C", "60 minutes de maintien de température pour pour-over sans intervention manuelle", "Poignée équilibrée permet un versage lent et précis à col de cygne"],
+      "cons": ["0,9 L nécessite un remplissage en cours de session pour les foyers préparant plusieurs tasses", "Le prix d'importation au Japon est 20 à 40 % supérieur au MSRP américain avec des ruptures occasionnelles"],
+      "grade": "A+",
+      "specs": {"Capacité": "0,9 L", "Bec": "Col de cygne", "Contrôle de température": "Bouton continu ~60-100 °C", "Maintien": "60 min", "Chauffage": "Électrique", "Prix": "US$165+ (importation)"},
+      "scores": {"Vitesse de chauffe": 4.3, "Contrôle de température": 5.0, "Qualité de fabrication": 4.9, "Rapport qualité-prix": 3.5, "Capacité": 3.2}
+    },
+    {
+      "offerId": "balmuda-the-pot",
+      "badge": "Meilleur Design",
+      "review": "Le Balmuda The Pot est la bouilloire la plus belle de cette comparaison et est honnête sur ses limites — 600 ml, pas de contrôle de température, pas de maintien de chaleur, juste un col de cygne en acier inoxydable mat qui a exactement l'air qu'il faut sur un plan de travail d'appartement tokyoïte. Les ¥15.000 se paient pour le design, pas pour les spécifications de brassage.",
+      "pros": ["Design iconique en acier inoxydable mat qui mérite sa place sur le plan de travail", "Bec ultraétroit offre un contrôle raisonnable de l'arc de versage", "Compatible IH et gaz sans composants numériques qui pourraient tomber en panne"],
+      "cons": ["600 ml couvre à peine deux tasses pour les foyers de plus de deux personnes", "Pas de contrôle de température ni de maintien — nécessite la méthode ébullition-et-attente"],
+      "grade": "A",
+      "specs": {"Capacité": "600 ml", "Bec": "Col de cygne ultraétroit", "Contrôle de température": "Aucun", "Maintien": "Aucun", "Chauffage": "IH/gazinière", "Prix": "~¥15.000"},
+      "scores": {"Vitesse de chauffe": 3.8, "Contrôle de température": 1.0, "Qualité de fabrication": 4.8, "Rapport qualité-prix": 3.2, "Capacité": 2.5}
+    },
+    {
+      "offerId": "hario-v60-buono-kettle",
+      "badge": "Meilleur sur Gazinière",
+      "review": "Le Hario V60 Drip Kettle Buono est la bouilloire sur laquelle s'est standardisée la communauté japonaise du pour-over — 1,2 L d'acier inoxydable, col de cygne de précision et un arc de versage auquel le monde du café de spécialité fait confiance depuis plus d'une décennie. Pas de maintien de chaleur électrique signifie gérer soi-même le brûleur, et la poignée chauffe sur les gazinières plus vite qu'attendu.",
+      "pros": ["1,2 L couvre deux à trois doses de pour-over sans remplissage", "Arc de versage à col de cygne éprouvé pour V60, Chemex et Kalita Wave", "Intérieur entièrement en inox, inerte et facile à nettoyer"],
+      "cons": ["Pas de maintien de chaleur — gestion du brûleur nécessaire pendant une session pour-over", "La poignée chauffe sur les gazinières et nécessite un gant après usage prolongé"],
+      "grade": "B+",
+      "specs": {"Capacité": "1,2 L", "Bec": "Col de cygne", "Contrôle de température": "Aucun (contrôle gazinière uniquement)", "Maintien": "Aucun", "Chauffage": "IH/gazinière", "Prix": "~$65"},
+      "scores": {"Vitesse de chauffe": 3.5, "Contrôle de température": 2.0, "Qualité de fabrication": 4.5, "Rapport qualité-prix": 4.7, "Capacité": 4.2}
+    },
+    {
+      "offerId": "zojirushi-keep-warm-pot",
+      "badge": "Meilleur pour l'Eau Chaude Toute la Journée",
+      "review": "Le Zojirushi CV-GB22 n'est pas une bouilloire pour-over — c'est une station d'eau chaude. Remplissez-la une fois, réglez l'une des quatre températures (60/70/80/98 °C) et dispensez toute la journée sans rebouillir. Le distributeur à pompe et le verrou de sécurité enfant en font le choix idéal pour les foyers qui ont besoin d'eau chaude en continu, bien qu'il occupe un espace considérable sur le plan de travail.",
+      "pros": ["Quatre préréglages de température (60/70/80/98 °C) pour thé vert, thé noir et eau bouillante", "Maintien de chaleur toute la journée avec re-ébullition automatique — sans réchauffage manuel", "Verrou de couvercle de sécurité enfant et certification PSE pour utilisation permanente"],
+      "cons": ["Appareil de comptoir stationnaire — plus encombrant que toute bouilloire", "Le mécanisme de pompe nécessite un détartrage mensuel à bimestriel dans les zones d'eau dure"],
+      "grade": "B",
+      "specs": {"Capacité": "2,2 L", "Bec": "Distributeur à pompe", "Réglages de température": "60/70/80/98 °C", "Maintien": "Toute la journée (re-ébullition auto)", "Chauffage": "Électrique", "Prix": "¥6.578"},
+      "scores": {"Vitesse de chauffe": 3.0, "Contrôle de température": 4.5, "Qualité de fabrication": 4.6, "Rapport qualité-prix": 4.8, "Capacité": 5.0}
+    },
+    {
+      "offerId": "delonghi-icona-vintage-kettle",
+      "badge": "Meilleur pour les Grands Foyers",
+      "review": "Le De'Longhi Icona Vintage bout 1,7 L rapidement, s'utilise sur une base rotative 360° sans fil et a fière allure dans une cuisine mi-siècle. C'est le choix simple pour les foyers de trois ou quatre personnes qui veulent une ébullition rapide et un bec large — juste pas pour le café pour-over ou le thé de précision.",
+      "pros": ["1,7 L couvre quatre tasses en un seul remplissage", "Base rotative 360° sans fil et bec large anti-gouttes", "Ébullition rapide avec arrêt automatique"],
+      "cons": ["Le bec large est trop rapide pour le café pour-over ou les préparations de précision", "Lourd à plein (~2,5 kg) ; l'intérieur en plastique accumule le calcaire plus vite dans les zones d'eau dure"],
+      "grade": "B-",
+      "specs": {"Capacité": "1,7 L", "Bec": "Large (anti-gouttes)", "Contrôle de température": "Aucun", "Maintien": "Aucun", "Chauffage": "Électrique 360° sans fil", "Prix": "$89,99"},
+      "scores": {"Vitesse de chauffe": 4.8, "Contrôle de température": 1.0, "Qualité de fabrication": 3.8, "Rapport qualité-prix": 4.0, "Capacité": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les amateurs de café pour-over", "offerId": "fellow-stagg-ekg", "reason": "Le bouton de température continu et les 60 minutes de maintien permettent de régler 93 °C et de le maintenir pendant toute une session de pour-over sans surveiller le feu."},
+    {"label": "Pour les minimalistes soucieux du design", "offerId": "balmuda-the-pot", "reason": "Le col de cygne en acier inoxydable mat est la bouilloire la plus photogénique de cette comparaison — vaut les ¥15.000 si l'esthétique du plan de travail compte pour vous."},
+    {"label": "Pour les brasseurs de pour-over sur gazinière", "offerId": "hario-v60-buono-kettle", "reason": "La bouilloire à col de cygne de référence de la communauté japonaise du café de spécialité à une fraction du prix des alternatives électriques — laisse du budget pour un meilleur moulin."},
+    {"label": "Pour les foyers avec de l'eau chaude toute la journée", "offerId": "zojirushi-keep-warm-pot", "reason": "Remplissez une fois et ayez quatre options de température prêtes toute la journée — idéal quand plusieurs personnes ont besoin d'eau chaude à différents moments."},
+    {"label": "Pour les familles de trois ou quatre personnes", "offerId": "delonghi-icona-vintage-kettle", "reason": "1,7 L d'ébullition rapide couvre quatre tasses en un seul remplissage sans recharger, à un prix simple pour l'usage général d'eau chaude."}
+  ]
 }

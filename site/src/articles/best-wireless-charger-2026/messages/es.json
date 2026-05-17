@@ -111,5 +111,64 @@
     "esr-halolock-2in1-travel": "El cargador inalámbrico de viaje 2 en 1 plegable compatible con MagSafe de ESR — anillo de imán MagSafe para alineación de iPhone, pad Qi secundario de AirPods de 5W, se pliega al tamaño de una tarjeta de crédito con ~12mm, entrada USB-C, aproximadamente ¥4,000. Disponible en Rakuten Ichiba. Velocidad máxima de carga de iPhone de 7.5W, no los 15W completos de MagSafe — ESR HaloLock usa imanes compatibles con MagSafe sin certificación Qi2 completa, por lo que se alinea como MagSafe pero carga a 7.5W; el pad de AirPods es solo Qi de 5W sin alineación MagSafe para AirPods; sin punto de carga de Apple Watch, lo que requiere un cable separado de Apple Watch en viaje; el acabado de construcción es notablemente menos premium que Belkin o Anker MagGo; el precio de ¥4,000 es competitivo, pero las opciones certificadas Qi2 de terceros a precios similares han comenzado a aparecer en 2026 que entregan la tasa completa de 15W."
   },
   "pinDescription": "5 cargadores inalámbricos comparados para 2026 — Apple MagSafe vs Qi2 vs Qi básico, honestamente. MagSafe 15W tarda 2h para iPhone 15. Las estaciones multi-dispositivo necesitan adaptadores de 30W no incluidos. Consejos de calor y salud de la batería. Mejor opción de viaje por menos de ¥4,000. Escritorio ordenado. #cargadoresinalámbricos #MagSafe #español",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Cada cargador fue evaluado en velocidad de carga real (teniendo en cuenta la inclusión del adaptador y el throttling térmico), compatibilidad de ecosistema, generación de calor bajo uso prolongado, portabilidad de viaje y coste total de propiedad incluyendo adaptadores necesarios.",
+  "products": [
+    {
+      "offerId": "apple-magsafe-charger-usb-c",
+      "badge": "Mejor en general",
+      "review": "El cargador MagSafe propio de Apple es la implementación de referencia: 15W garantizados en iPhone 12 y posteriores, alineación magnética precisa y un cable de 2m útil para la mayoría de configuraciones de escritorio. La pega es que la velocidad de 15W anunciada requiere un adaptador USB-C PD de 20W+ vendido por separado (~2.780 yenes) — incluirlo en el presupuesto al comprar.",
+      "pros": ["15W garantizados en iPhone 12+ con adaptador de 20W+", "Cable de 2m genuinamente útil para enrutamiento en escritorio", "Alineación magnética MagSafe más precisa"],
+      "cons": ["Sin adaptador incluido — 15W necesita adaptador PD de 20W+ (~2.780 yenes extra)"],
+      "grade": "A+",
+      "specs": {"Salida máxima": "15W (MagSafe, iPhone 12+)", "Longitud del cable": "2m", "Conector": "USB-C", "Adaptador incluido": "No", "Certificado MFi": "Sí", "Precio": "~4.980 yenes"},
+      "scores": {"Velocidad de carga": 4.8, "Compatibilidad": 3.8, "Calidad de construcción": 4.7, "Relación calidad-precio": 3.5, "Gestión del calor": 4.2}
+    },
+    {
+      "offerId": "anker-maggo-3in1-station",
+      "badge": "Mejor estación de escritorio",
+      "review": "El Anker MagGo carga iPhone (15W MagSafe), Apple Watch (carga rápida MFi) y AirPods (5W Qi) simultáneamente desde un único cable — el diseño plegable mantiene el escritorio ordenado. El adaptador USB-C de 30W necesario para la carga simultánea completa de los tres dispositivos no está incluido y añade 2.000–4.000 yenes al coste efectivo.",
+      "pros": ["Carga simultánea de iPhone + Apple Watch + AirPods", "Punto de carga iPhone MagSafe certificado 15W", "Diseño plegable para escritorio o viaje"],
+      "cons": ["Adaptador de 30W no incluido — añade 2.000–4.000 yenes al precio real"],
+      "grade": "A",
+      "specs": {"Salida iPhone": "15W MagSafe", "Apple Watch": "Carga rápida MFi 5W", "AirPods": "5W Qi", "Adaptador necesario": "30W USB-C PD (no incluido)", "Plegable": "Sí", "Precio": "~8.000–12.000 yenes"},
+      "scores": {"Velocidad de carga": 4.6, "Compatibilidad": 4.2, "Calidad de construcción": 4.3, "Relación calidad-precio": 3.9, "Gestión del calor": 4.0}
+    },
+    {
+      "offerId": "belkin-boostcharge-pro-3in1",
+      "badge": "Mejor construcción premium",
+      "review": "El BoostCharge Pro de Belkin iguala al MagGo en velocidad MagSafe y carga rápida del Apple Watch, pero lo envuelve en una construcción de tela y aluminio notablemente más premium. A ~15.000 yenes es el cargador más caro de esta comparativa — la prima sobre el Anker MagGo es de calidad de construcción, no de rendimiento de carga.",
+      "pros": ["Calidad de construcción premium en tela y aluminio", "MFi MagSafe + carga rápida Apple Watch (Serie 7+)", "Mejor posición integrada del brazo para Apple Watch"],
+      "cons": ["Más caro (~15.000 yenes); brazo del Apple Watch dificulta el embalaje de viaje"],
+      "grade": "B+",
+      "specs": {"Salida iPhone": "15W MagSafe", "Apple Watch": "Carga rápida MFi 5W (Serie 7+)", "AirPods": "5W Qi", "Construcción": "Tela + aluminio", "Apto para viaje": "No (brazo saliente)", "Precio": "~15.000 yenes"},
+      "scores": {"Velocidad de carga": 4.6, "Compatibilidad": 4.2, "Calidad de construcción": 5.0, "Relación calidad-precio": 3.2, "Gestión del calor": 4.1}
+    },
+    {
+      "offerId": "anker-313-wireless-charger",
+      "badge": "Mejor Qi económico",
+      "review": "El Anker 313 es el pad Qi básico que cubre Android (10W) e iPhone (7.5W) por menos de 2.000 yenes. Sin alineación magnética — el teléfono debe colocarse con precisión sobre la bobina — y 7.5W es la velocidad de carga de iPhone más lenta en esta comparativa. Para usuarios de Android o propietarios de iPhone anteriores al 12 donde MagSafe no aplica, esta es la elección de presupuesto correcta.",
+      "pros": ["Menos de 2.000 yenes — opción inalámbrica más económica aquí", "10W Qi para dispositivos Android compatibles", "Cable USB-A incluido (raro a este precio)"],
+      "cons": ["Sin alineación magnética — colocación precisa necesaria; 7.5W iPhone el más lento en comparativa"],
+      "grade": "B",
+      "specs": {"Salida máxima": "10W Qi (Android)", "Salida iPhone": "7.5W Qi", "Alineación": "Ninguna (colocación manual)", "Cable": "USB-A incluido", "Apple Watch": "No", "Precio": "<2.000 yenes"},
+      "scores": {"Velocidad de carga": 3.2, "Compatibilidad": 4.5, "Calidad de construcción": 3.5, "Relación calidad-precio": 4.9, "Gestión del calor": 4.4}
+    },
+    {
+      "offerId": "esr-halolock-2in1-travel",
+      "badge": "Mejor para viajes",
+      "review": "El ESR HaloLock se pliega al tamaño de una tarjeta de crédito (~12mm de grosor) con imanes compatibles MagSafe para alineación del iPhone y un pad Qi secundario de 5W para AirPods. A ~4.000 yenes es la mejor relación valor-portabilidad en esta comparativa. El techo de 7.5W para iPhone (imanes compatibles MagSafe sin certificación Qi2) es la única limitación real para el uso en viaje.",
+      "pros": ["Se pliega a tamaño de tarjeta de crédito — opción de viaje más ligera aquí", "Alineación magnética compatible MagSafe para iPhone", "Pad Qi para AirPods en el mismo pliegue"],
+      "cons": ["iPhone máx. 7.5W (sin Qi2; no MagSafe 15W completo); sin punto para Apple Watch"],
+      "grade": "B-",
+      "specs": {"Salida iPhone": "7.5W (compatible MagSafe)", "AirPods": "5W Qi", "Grosor plegado": "~12mm", "Conector": "USB-C", "Apple Watch": "No", "Precio": "~4.000 yenes"},
+      "scores": {"Velocidad de carga": 3.5, "Compatibilidad": 3.8, "Calidad de construcción": 3.6, "Relación calidad-precio": 4.5, "Gestión del calor": 4.3}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para carga de iPhone en escritorio a velocidad completa", "offerId": "apple-magsafe-charger-usb-c", "reason": "Implementación MagSafe de referencia con cable de 2m — comprar el adaptador de 20W al mismo tiempo."},
+    {"label": "Para configuraciones de escritorio con ecosistema Apple completo", "offerId": "anker-maggo-3in1-station", "reason": "iPhone + Apple Watch + AirPods desde un cable; mejor valor que Belkin con especificaciones de carga similares."},
+    {"label": "Para Android o carga económica sin MagSafe", "offerId": "anker-313-wireless-charger", "reason": "10W Qi cubre la mayoría de escenarios de carga inalámbrica rápida Android al precio más económico en esta comparativa."},
+    {"label": "Para viajes con iPhone y AirPods", "offerId": "esr-halolock-2in1-travel", "reason": "Tamaño de tarjeta de crédito con alineación compatible MagSafe — aceptar el techo de 7.5W a cambio de equipaje mínimo."},
+    {"label": "Para estética premium de escritorio", "offerId": "belkin-boostcharge-pro-3in1", "reason": "La construcción de tela y aluminio justifica la prima si la calidad de Anker no satisface — rendimiento de carga idéntico."}
+  ]
 }

@@ -92,5 +92,64 @@
     "fairchilds-organic-acv": "Bestes fuer kulinarische Transparenz — Rag Bag-Aepfel aus Washington State, explizite 5%-Saeureangabe, familiaere Beschaffung. Saubereres Apfelgeschmacksprofil mit weniger Gaerungskomplex als Bragg. Ideal fuer leichte Vinagrettes und Shrubs, wo Geschmack und Beschaffungsgeschichte wichtig sind. Etwas geringere Verfuegbarkeit als Bragg."
   },
   "pinDescription": "Roher ACV, Gummies oder trinkfertig? Wir haben Bragg, Goli, Kevita, Fairchild's und Dynamic Health verglichen, um den besten Apfelessig 2026 zu finden — mit ehrlichen Hinweisen zur Mutter, Tagesdosis und was die Forschung wirklich unterstuetzt. #Apfelessig #ACV #Gesundheit #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jedes Produkt wurde nach Geschmacksprofil, Herkunftstransparenz, Preis-Leistungs-Verhältnis, Verpackungsqualität und Alltagsnutzen bewertet. Zertifizierungen und Nutzerbewertungen wurden mit Marketingaussagen abgeglichen.",
+  "products": [
+    {
+      "offerId": "bragg-organic-acv",
+      "badge": "Bester Gesamteindruck",
+      "review": "Bragg bleibt der Maßstab für rohen ACV: unfiltriert, USDA-Bio, mit sichtbaren Mutter-Fäden. Der kräftige, apfelbetonte Geschmack übertrifft die meisten Supermarkt-Alternativen in Fermentationskomplexität. Die 32-oz-Flasche ist für den täglichen Tonik-Gebrauch konkurrenzfähig bepreist.",
+      "pros": ["Unfiltriert 'mit der Mutter' — sichtbare aktive Kulturen", "USDA-Bio und Non-GMO zertifiziert", "Kräftiger, komplexer Apfelgeschmack bei Tonik-Trinkern bevorzugt"],
+      "cons": ["Stärkerer Geschmack als die meisten — Verdünnung für Einsteiger notwendig"],
+      "grade": "A+",
+      "specs": {"Größe": "16 oz / 32 oz", "Bio": "USDA-zertifiziert", "Gefiltert": "Nein (mit Mutter)", "Säuregehalt": "5%", "Verdünnungsverhältnis": "1–2 EL auf 240 ml Wasser"},
+      "scores": {"Qualität": 4.8, "Geschmack": 4.2, "Preis-Leistung": 4.0, "Nährwert": 4.5, "Vielseitigkeit": 4.7}
+    },
+    {
+      "offerId": "dynamic-health-acv",
+      "badge": "Bestes Preis-Leistungs-Verhältnis",
+      "review": "Funktional äquivalent zu Bragg — USDA-Bio, unfiltriert, mit Mutter — aber typischerweise 15–20 % günstiger pro Unze. Für Hochvolumen-Kochen und tägliche Toniks, bei denen Kosten vor Markenname gehen, ist der Unterschied vernachlässigbar.",
+      "pros": ["Niedrigste Kosten pro Unze unter Bio-ungefilterten Optionen", "USDA-Bio, unfiltriert, mit Mutter", "Ausgezeichnetes Preisverhältnis für intensiven Kochbedarf"],
+      "cons": ["Weniger Herkunftstransparenz als Fairchild's oder Bragg"],
+      "grade": "A",
+      "specs": {"Größe": "32 oz", "Bio": "USDA-zertifiziert", "Gefiltert": "Nein (mit Mutter)", "Säuregehalt": "5%", "Preis vs. Bragg": "ca. 15–20 % günstiger/oz"},
+      "scores": {"Qualität": 4.2, "Geschmack": 3.9, "Preis-Leistung": 4.8, "Nährwert": 4.3, "Vielseitigkeit": 4.4}
+    },
+    {
+      "offerId": "kevita-acv-tonic",
+      "badge": "Beste Trinkbarkeit",
+      "review": "Kevita ist ein trinkfertiges Kohlensäuregetränk mit ACV, Ingwer, Zitrone und Stevia. Die ACV-Dosis ist niedriger als beim Flüssigstandard, der Preis pro Portion höher — der Kernvorteil: Menschen, die Flüssig-ACV nicht vertragen, nehmen es tatsächlich täglich ein.",
+      "pros": ["Trinkfertig — kein Mischen oder Verdünnen", "Kohlensäure und Aromen machen es viel verträglicher", "Niedrigere Säure reduziert das Risiko für Zahnschmelzerosion"],
+      "cons": ["Niedrigere ACV-Dosis als beim Standard-Flüssigprotokoll", "Höhere Kosten pro Portion als Flüssig-ACV"],
+      "grade": "B+",
+      "specs": {"Größe": "15,2 oz", "Format": "Kohlensäure RTD", "Aromen": "Ingwer, Zitrone, Stevia", "Zucker": "0 g zugesetzt", "ACV-Dosis/Flasche": "ca. 25 mg"},
+      "scores": {"Qualität": 3.8, "Geschmack": 4.5, "Preis-Leistung": 3.2, "Nährwert": 3.5, "Vielseitigkeit": 2.8}
+    },
+    {
+      "offerId": "goli-acv-gummies",
+      "badge": "Beste Alltagskonsistenz",
+      "review": "Goli-Gummis liefern pro 2-Gummi-Portion etwa einen Teelöffel ACV-Äquivalent — weniger als die Standard-Esslöffeldosis, aber viel einfacher täglich einzunehmen. Bio-zertifiziert, vegan, Non-GMO, mit Vitamin B9 und B12.",
+      "pros": ["Kein unangenehmer Geschmack, kein Mischen — höchste tägliche Einnahmekonsistenz", "Zugefügte B-Vitamine (B9 und B12)", "Bio-zertifiziert, vegan, Non-GMO"],
+      "cons": ["Niedrigere ACV-Dosis pro Portion als Flüssig (1 TL vs. 1–2 EL)", "Höhere Kosten pro ACV-Gramm als Flüssigoptionen"],
+      "grade": "B",
+      "specs": {"Portion": "2 Gummis", "ACV pro Portion": "ca. 500 mg (ca. 1 TL)", "Bio": "Ja", "Zugefügte Vitamine": "B9, B12", "Anzahl": "60 Gummis"},
+      "scores": {"Qualität": 4.0, "Geschmack": 4.6, "Preis-Leistung": 3.5, "Nährwert": 3.8, "Vielseitigkeit": 2.5}
+    },
+    {
+      "offerId": "fairchilds-organic-acv",
+      "badge": "Beste Herkunftstransparenz",
+      "review": "Fairchild's differenziert sich durch explizite Angabe der Rag Bag-Äpfel aus Washington State und verifizierten 5 % Säuregehalt. Der Geschmack ist sauberer und weniger hefig als Bragg — besser für leichte Vinagrettes, bei denen reiner Apfelgeschmack ohne Fermentationsnoten gewünscht ist.",
+      "pros": ["Genannte Apfelsorte und US-Bundesstaat — seltene Transparenz", "Explizite 5 %-Säuregehalt-Angabe", "Saubererer Apfelgeschmack mit weniger Fermentationskomplexität"],
+      "cons": ["Im Mainstream-Handel etwas schwerer erhältlich als Bragg"],
+      "grade": "B-",
+      "specs": {"Größe": "32 oz", "Bio": "USDA-zertifiziert", "Apfelherkunft": "Washington State Rag Bag", "Säuregehalt": "5 % verifiziert", "Gefiltert": "Nein (mit Mutter)"},
+      "scores": {"Qualität": 4.5, "Geschmack": 4.3, "Preis-Leistung": 3.8, "Nährwert": 4.3, "Vielseitigkeit": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für tägliche ACV-Tonik-Trinker", "offerId": "bragg-organic-acv", "reason": "Der Referenz-Roh-ACV mit gleichbleibender Qualität — die naheliegendste erste Wahl für eine tägliche Tonik-Gewohnheit."},
+    {"label": "Für intensiven Kochbedarf", "offerId": "dynamic-health-acv", "reason": "15–20 % günstiger pro Unze als Bragg bei gleichwertiger Bio-Zertifizierung — richtig, wenn man wöchentlich eine Flasche verbraucht."},
+    {"label": "Für ACV-Einsteiger", "offerId": "kevita-acv-tonic", "reason": "Kohlensäure, Aromen und vorher verdünnt — niedrigste Einstiegshürde für Menschen, denen Flüssig-ACV zu intensiv ist."},
+    {"label": "Für Gewohnheit-zuerst-Nutzer", "offerId": "goli-acv-gummies", "reason": "Wer Flüssigkeit überspringt aber täglich Gummis nimmt: konsistente niedrige Dosis schlägt unregelmäßige hohe Dosis."},
+    {"label": "Für leichte Vinagrettes und Dressings", "offerId": "fairchilds-organic-acv", "reason": "Wo der ACV-Charakter im Vordergrund steht, macht der sauberere Apfelgeschmack einen echten Unterschied."}
+  ]
 }

@@ -66,5 +66,174 @@
     "bosu-nexgen-stability-ball": "Cúpula inflável BOSU em plataforma rígida — não é uma bola redonda tradicional. $100-150. Melhor para treinamento de equilíbrio em pé (cúpula para cima: agachamentos, afundos, exercícios de equilíbrio). Não é a escolha certa se você quer treinamento do core sentado/deitado — compre uma bola redonda."
   },
   "pinDescription": "Comparação de bolas de estabilidade 2026: Trideer vs Gaiam vs Live Pro vs URBNFit vs BOSU NexGen — classificações anti-estouro, guia de tamanhos, uso como cadeira de escritório e qual bola de exercício realmente melhora a força do core comparadas.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "trideer-stability-ball",
+      "badge": "Melhor no geral",
+      "review": "A parede de PVC de 2000 µm e a capacidade anti-estouro de 2200 lb da Trideer superam a maioria dos concorrentes nessa faixa de preço — o PVC espesso é visivelmente mais macio e quente no contato com a pele do que o plástico rígido das alternativas mais baratas, o que importa durante o uso sentado. A retenção de ar ao longo de 30 dias é consistente sem recargas semanais. Desvantagem: a superfície de PVC liso escorrega em pisos de academia polidos durante exercícios dinâmicos como rollouts.",
+      "pros": [
+        "Parede de PVC de 2000 µm — visivelmente mais espessa que as concorrentes econômicas",
+        "Capacidade anti-estouro de 2200 lb para uso seguro em casa e escritório",
+        "Bomba de ação dupla incluída; faixa de tamanhos 45–85 cm"
+      ],
+      "cons": [
+        "A superfície lisa escorrega em pisos polidos durante exercícios dinâmicos"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Espessura da parede PVC": "2000 µm",
+        "Capacidade anti-estouro": "2200 lb",
+        "Faixa de tamanhos": "45, 55, 65, 75, 85 cm",
+        "Bomba incluída": "Ação dupla",
+        "Superfície": "PVC liso",
+        "Melhor superfície": "Tapete / piso de borracha"
+      },
+      "scores": {
+        "Burst resistance": 4.8,
+        "Grip texture": 3.8,
+        "Size options": 4.9,
+        "Value": 4.8,
+        "Durability": 4.7
+      }
+    },
+    {
+      "offerId": "gaiam-total-body-balance-ball",
+      "badge": "Melhor kit para iniciantes",
+      "review": "O kit Gaiam inclui uma bola anti-estouro com bomba e um guia de 42 exercícios — uma adição significativa para quem compra pela primeira vez e precisa de programação estruturada. A bola em si é anti-estouro e comparável em qualidade à Trideer. Desvantagem: usuários experientes não obtêm valor funcional adicional em relação à Trideer.",
+      "pros": [
+        "Guia de 42 exercícios fornece currículo inicial estruturado",
+        "Bola anti-estouro com bomba em um único kit",
+        "Eficaz para iniciantes que precisam de programação inicial"
+      ],
+      "cons": [
+        "Usuários experientes não obtêm vantagem sobre comprar a Trideer diretamente"
+      ],
+      "grade": "A",
+      "specs": {
+        "Incluído": "Bola, bomba, guia de 42 exercícios",
+        "Anti-estouro": "Sim",
+        "Opções de tamanho": "55, 65 cm",
+        "Faixa de preço": "R$150–250",
+        "Ideal para": "Iniciantes completos",
+        "Superfície": "PVC liso"
+      },
+      "scores": {
+        "Burst resistance": 4.5,
+        "Grip texture": 3.7,
+        "Size options": 3.5,
+        "Value": 4.5,
+        "Durability": 4.4
+      }
+    },
+    {
+      "offerId": "live-pro-stability-ball",
+      "badge": "Melhor para pisos de academia",
+      "review": "A superfície texturizada da Live Pro é o diferenciador funcional — nos pisos sintéticos polidos de academias, as bolas de PVC liso escorregam durante rollouts e leg curls, enquanto a textura adiciona atrito. A capacidade anti-estouro de 2200 lb corresponde à Trideer. Desvantagem: para uso doméstico em piso de borracha ou tapete, a vantagem da textura desaparece.",
+      "pros": [
+        "Superfície texturizada evita deslizamento em pisos polidos",
+        "2200 lb anti-estouro corresponde aos concorrentes premium",
+        "Comercialmente adequada para ambientes de estúdio e academia"
+      ],
+      "cons": [
+        "A vantagem da textura desaparece em borracha ou tapete — muito cara vs Trideer para uso doméstico"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Capacidade anti-estouro": "2200 lb",
+        "Superfície": "Texturizada (antiderrapante)",
+        "Faixa de tamanhos": "55, 65, 75 cm",
+        "Faixa de preço": "R$200–300",
+        "Ideal para": "Academia comercial / pisos polidos",
+        "Bomba incluída": "Sim"
+      },
+      "scores": {
+        "Burst resistance": 4.8,
+        "Grip texture": 4.7,
+        "Size options": 3.8,
+        "Value": 4.0,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "urbnfit-exercise-ball",
+      "badge": "Melhor para home office",
+      "review": "A faixa mais ampla de cores e acabamentos da URBNFit — além das cores funcionais que a maioria das marcas oferece — é o diferenciador genuíno. A capacidade anti-estouro de 2000 lb e as opções de tamanho são funcionalmente comparáveis à Trideer. Desvantagem: você paga o mesmo ou um pouco mais por estética em vez de desempenho.",
+      "pros": [
+        "Maior faixa de cores para estética de home office",
+        "Capacidade anti-estouro de 2000 lb para uso doméstico",
+        "Mesmo desempenho funcional que a Trideer"
+      ],
+      "cons": [
+        "Sem vantagem funcional sobre a Trideer; apenas prêmio estético"
+      ],
+      "grade": "B",
+      "specs": {
+        "Capacidade anti-estouro": "2000 lb",
+        "Faixa de cores": "Mais ampla na comparação",
+        "Opções de tamanho": "45–75 cm",
+        "Faixa de preço": "R$150–225",
+        "Ideal para": "Home office / visibilidade de estúdio",
+        "Superfície": "PVC liso"
+      },
+      "scores": {
+        "Burst resistance": 4.5,
+        "Grip texture": 3.6,
+        "Size options": 4.0,
+        "Value": 4.2,
+        "Durability": 4.3
+      }
+    },
+    {
+      "offerId": "bosu-nexgen-stability-ball",
+      "badge": "Melhor para equilíbrio em pé",
+      "review": "O BOSU NexGen é uma categoria de produto diferente: uma cúpula inflável em uma base rígida que cria instabilidade limitada (não rola) em vez da liberdade de 360 graus de uma bola redonda. Isso o torna exclusivamente adequado para exercícios em pé — agachamentos, afundos, equilíbrio monopodal — onde uma bola redonda não pode ser usada com segurança. Desvantagem: a $100–150 custa 2–4 vezes mais que bolas redondas.",
+      "pros": [
+        "Cúpula inflável em base rígida — segura para exercícios em pé",
+        "Instabilidade limitada única para treino de equilíbrio em pé e estabilidade monopodal",
+        "Compatível com programação de exercícios BOSU"
+      ],
+      "cons": [
+        "Ferramenta errada para trabalho de core sentado ou em decúbito ventral — comprar bola redonda"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Tipo": "Cúpula inflável em plataforma rígida",
+        "Diâmetro da cúpula": "65 cm",
+        "Altura": "34 cm",
+        "Faixa de preço": "R$500–750",
+        "Ideal para": "Equilíbrio em pé, agachamentos, afundos",
+        "Não para": "Exercícios de core sentado ou em decúbito ventral"
+      },
+      "scores": {
+        "Burst resistance": 4.6,
+        "Grip texture": 4.3,
+        "Size options": 2.0,
+        "Value": 3.5,
+        "Durability": 4.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para a maioria dos usuários domésticos",
+      "offerId": "trideer-stability-ball",
+      "reason": "PVC espesso, 2200 lb anti-estouro, bomba incluída e a faixa de tamanhos mais ampla cobrem cada caso de uso doméstico e de cadeira de escritório ao menor preço de faixa média."
+    },
+    {
+      "label": "Para iniciantes completos",
+      "offerId": "gaiam-total-body-balance-ball",
+      "reason": "O guia de 42 exercícios fecha a lacuna entre possuir uma bola e usá-la sistematicamente — essencial se você nunca treinou com uma bola de estabilidade."
+    },
+    {
+      "label": "Para academias comerciais ou pisos polidos",
+      "offerId": "live-pro-stability-ball",
+      "reason": "A superfície texturizada evita deslizamento durante exercícios dinâmicos de rollout e leg curl nos pisos sintéticos brilhantes comuns em ambientes de academia comercial."
+    },
+    {
+      "label": "Para treino de equilíbrio em pé",
+      "offerId": "bosu-nexgen-stability-ball",
+      "reason": "Agachamentos com cúpula BOSU e trabalho de equilíbrio monopodal não podem ser replicados com uma bola redonda — a base rígida o torna a única opção para treino seguro em pé em superfície instável."
+    }
+  ]
 }

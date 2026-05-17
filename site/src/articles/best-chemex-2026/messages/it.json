@@ -58,5 +58,143 @@
     "hario-v60-02": "Diffusore pour-over a singola tazza, scanalature a spirale, grande foro singolo. $25-35 (plastica). Alternativa Chemex con filtro piu sottile — piu corpo, flusso piu veloce, piu controllo della tecnica. Richiede server o tazza separata. Migliore per baristi esperti che danno priorita al controllo dell'estrazione."
   },
   "pinDescription": "Chemex vs Hario V60 2026: 6 tazze vs 8 tazze, manico in vetro vs collare di legno, cosa fa davvero il filtro spesso Chemex alla chiarezza della tazza e quale pour-over e giusto per la tua cucina. #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Abbiamo valutato ogni cafetera sulla chiarezza della tazza, qualità costruttiva, facilità di pulizia, compatibilità dei filtri, precisione della capacità e adattabilità a diversi profili di tostatura — il V60 è stato testato in parallelo come principale alternativa al Chemex.",
+  "products": [
+    {
+      "offerId": "chemex-6-cup-classic",
+      "badge": "Migliore scelta globale",
+      "review": "Il modello classico Chemex in vetro borosilicato a clessidra con collare in legno. Con 850 ml è ideale per 1–2 persone, e i filtri proprietari eliminano olii e particelle fini per esaltare le note fruttate e floreali delle tostature chiare. Senza manico può sembrare scomodo, ma la chiarezza della tazza è imbattibile in questa categoria.",
+      "pros": ["Chiarezza della tazza incomparabile", "Caraffa in vetro borosilicato resistente al calore", "850 ml ideale per 1–2 persone"],
+      "cons": ["Il collare in legno non è adatto alla lavastoviglie"],
+      "grade": "A+",
+      "specs": {
+        "Capacità": "30 oz / 850 ml",
+        "Materiale": "Vetro borosilicato",
+        "Filtro": "Filtro bonded Chemex",
+        "Manico": "Collare in legno + laccio in pelle",
+        "Lavastoviglie": "No"
+      },
+      "scores": {
+        "Qualità estrazione": 4.9,
+        "Qualità costruttiva": 4.7,
+        "Facilità d'uso": 4.3,
+        "Rapporto qualità-prezzo": 4.2,
+        "Versatilità": 3.8
+      }
+    },
+    {
+      "offerId": "chemex-8-cup-classic",
+      "badge": "Migliore per gruppi",
+      "review": "Il modello da 8 tazze è ideale per famiglie con 3 o più persone o uffici domestici, permettendo di preparare fino a 4–5 tazze alla volta con 1,2 L di capacità. La qualità di estrazione è identica al modello da 6 tazze, cambia solo la capacità. Per 1–2 persone risulterà sovradimensionato.",
+      "pros": ["Fino a 4–5 tazze alla volta", "Stessa qualità di estrazione del modello da 6 tazze", "Ideale per gruppi e routine mattutine"],
+      "cons": ["Troppo grande per uso individuale"],
+      "grade": "A",
+      "specs": {
+        "Capacità": "40 oz / 1,2 L",
+        "Materiale": "Vetro borosilicato",
+        "Filtro": "Filtro bonded Chemex",
+        "Manico": "Collare in legno + laccio in pelle",
+        "Lavastoviglie": "No"
+      },
+      "scores": {
+        "Qualità estrazione": 4.9,
+        "Qualità costruttiva": 4.7,
+        "Facilità d'uso": 4.2,
+        "Rapporto qualità-prezzo": 4.0,
+        "Versatilità": 4.2
+      }
+    },
+    {
+      "offerId": "chemex-glass-handle",
+      "badge": "Migliore per la pulizia facile",
+      "review": "Questo modello sostituisce il collare in legno con un manico in vetro integrato, rendendo tutto compatibile con la lavastoviglie — il suo principale vantaggio. La chiarezza di estrazione è equivalente al classico da 6 tazze, ideale per chi lava più volte al giorno. Il manico in vetro può scaldarsi leggermente; si consiglia un canovaccio.",
+      "pros": ["Completamente compatibile con la lavastoviglie", "Stessa qualità di estrazione del modello da 6 tazze", "Vetro integrato per massima igiene"],
+      "cons": ["Il manico può scaldarsi ad alte temperature"],
+      "grade": "B+",
+      "specs": {
+        "Capacità": "34 oz / 1 L",
+        "Materiale": "Vetro borosilicato",
+        "Filtro": "Filtro bonded Chemex",
+        "Manico": "Manico in vetro integrato",
+        "Lavastoviglie": "Sì"
+      },
+      "scores": {
+        "Qualità estrazione": 4.8,
+        "Qualità costruttiva": 4.5,
+        "Facilità d'uso": 4.7,
+        "Rapporto qualità-prezzo": 3.8,
+        "Versatilità": 3.7
+      }
+    },
+    {
+      "offerId": "chemex-bonded-filters",
+      "badge": "Consumabile indispensabile",
+      "review": "I filtri bonded Chemex in confezione da 100 sono il 20–30% più spessi dei filtri standard ed eliminano efficacemente olii e particelle fini. Usare altri filtri in una cafetera Chemex degrada notevolmente la chiarezza — non sono un accessorio, sono una necessità. Si consiglia di avere 2–3 confezioni di scorta.",
+      "pros": ["Chiarezza ottimale grazie al design esclusivo Chemex", "Confezione da 100 con buon rapporto qualità-prezzo", "Materiali con certificazione ecologica"],
+      "cons": ["Compatibile solo con le cafetera Chemex"],
+      "grade": "B",
+      "specs": {
+        "Quantità": "100 filtri",
+        "Tipo": "Quadrato, pieghevole",
+        "Certificazione": "Sbiancato con ossigeno, senza OGM",
+        "Compatibilità": "Chemex da 6, 8 e 10 tazze"
+      },
+      "scores": {
+        "Qualità estrazione": 4.9,
+        "Qualità costruttiva": 4.5,
+        "Facilità d'uso": 4.4,
+        "Rapporto qualità-prezzo": 4.6,
+        "Versatilità": 2.5
+      }
+    },
+    {
+      "offerId": "hario-v60-02",
+      "badge": "Migliore cafetera alternativa",
+      "review": "L'Hario V60 02 usa filtri più sottili e offre più corpo, flusso più rapido e maggiore controllo dell'estrazione rispetto al Chemex. Richiede un server separato, ma le scanalature a spirale consentono un flusso d'aria libero per un versamento preciso — adatto anche alle tostature scure. Per gli utenti esperti che privilegiano il corpo rispetto alla chiarezza.",
+      "pros": ["Più corpo e controllo dell'estrazione", "Adatto dalle tostature chiare a quelle scure", "Compatto e portatile"],
+      "cons": ["Richiede server o tazza separati"],
+      "grade": "B-",
+      "specs": {
+        "Materiale": "Plastica (resistente al calore)",
+        "Dimensione": "02 (1–4 tazze)",
+        "Filtro": "Filtro di carta V60",
+        "Scanalature": "Scanalature a spirale + grande apertura",
+        "Server": "Venduto separatamente"
+      },
+      "scores": {
+        "Qualità estrazione": 4.6,
+        "Qualità costruttiva": 4.0,
+        "Facilità d'uso": 4.2,
+        "Rapporto qualità-prezzo": 4.8,
+        "Versatilità": 4.7
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per gli amanti delle tazze chiare",
+      "offerId": "chemex-6-cup-classic",
+      "reason": "Massimizza le note floreali e fruttate delle tostature chiare — la prima scelta per la chiarezza della tazza."
+    },
+    {
+      "label": "Per la famiglia e l'ufficio domestico",
+      "offerId": "chemex-8-cup-classic",
+      "reason": "Fino a 4–5 tazze alla volta con 1,2 L — perfetto per routine mattutine di gruppo o piccoli uffici."
+    },
+    {
+      "label": "Per una pulizia quotidiana senza sforzo",
+      "offerId": "chemex-glass-handle",
+      "reason": "Completamente compatibile con la lavastoviglie — goditi la qualità Chemex ogni giorno senza problemi di pulizia."
+    },
+    {
+      "label": "Per i proprietari di Chemex",
+      "offerId": "chemex-bonded-filters",
+      "reason": "I filtri proprietari sono indispensabili per mantenere la chiarezza Chemex — avere sempre scorte."
+    },
+    {
+      "label": "Per i baristi esperti che cercano controllo",
+      "offerId": "hario-v60-02",
+      "reason": "La migliore alternativa per chi privilegia il corpo e il controllo dell'estrazione rispetto alla chiarezza."
+    }
+  ]
 }

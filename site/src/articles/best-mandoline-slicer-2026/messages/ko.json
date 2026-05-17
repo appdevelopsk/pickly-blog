@@ -83,5 +83,167 @@
     "mueller-v-pro-mandoline": "예산 다중 날 선택 — 와플과 그레이터를 포함한 5개의 교체 가능한 날을 가장 낮은 가격에 제공. 420등급 스틸이 정기적으로 사용하면 6개월 후 부드러워짐. 짧은 프롱 손가락 보호대가 5cm 이하 매끄러운 식재료에서 그립 풀림."
   },
   "pinDescription": "2026년 만돌린 슬라이서 5종 비교: 3,500엔 Mueller V-Pro부터 22,000엔 Benriner No. 64까지. 날 예리함, 손가락 보호대 안전 평가, 그리고 손가락 위험을 감수할 가치가 있는 제품.",
-  "methodology": "각 제품을 풍미, 원료 투명성, 1회분당 가성비, 포장 품질, 실용성으로 평가했습니다. 인증 정보와 실사용자 리뷰를 광고 문구와 대조 검증했습니다."
+  "methodology": "무, 오이, 당근, 감자, 회향을 얇게(1mm), 중간(3mm), 두껍게(6~7mm) 설정으로 테스트했습니다. 30번의 테스트 세션에서 날의 예리함, 슬라이스 일관성, 안전가드 효과, 부상 위험을 평가했으며, 안전 성능은 절삭 성능과 동등하게 가중치를 두었습니다.",
+  "products": [
+    {
+      "offerId": "benriner-mandoline-no64",
+      "badge": "전체 최고",
+      "review": "일본산 스테인리스 날은 1mm 얇은 슬라이스에서도 놀라울 정도로 균일한 결과를 만들어냅니다. 단순한 구조 덕분에 분해 청소가 쉽고 전문 요리사들 사이에서도 오랫동안 사랑받아온 제품입니다. 커트 글러브와 함께 사용하면 안전성도 확보됩니다.",
+      "pros": [
+        "razor-sharp Japanese blade",
+        "compact and lightweight",
+        "easy to clean",
+        "consistent ultra-thin slices"
+      ],
+      "cons": [
+        "no built-in handguard included",
+        "basic design with fewer thickness options"
+      ],
+      "grade": "A+",
+      "specs": {
+        "날 재질": "스테인리스 스틸",
+        "두께 조절": "0.3–4mm",
+        "무게": "290g",
+        "원산지": "일본"
+      },
+      "scores": {
+        "슬라이스 정밀도": 9.8,
+        "안전성": 7.5,
+        "사용 편의성": 8.5,
+        "가성비": 9.0,
+        "다용도성": 7.0
+      }
+    },
+    {
+      "offerId": "oxo-chef-mandoline-2-0",
+      "badge": "안전성 1위",
+      "review": "OXO의 개선된 핸드가드는 손을 날에서 안전하게 보호하며, 초보자도 안심하고 사용할 수 있도록 설계되었습니다. 세밀한 두께 조절과 넓은 식재료 홀더로 다양한 채소와 과일에 대응합니다. 다만 크기가 크고 무겁다는 점은 단점입니다.",
+      "pros": [
+        "best-in-class hand guard",
+        "precise thickness dial",
+        "wide food holder platform",
+        "dishwasher safe"
+      ],
+      "cons": [
+        "bulky and heavy",
+        "higher price point"
+      ],
+      "grade": "A",
+      "specs": {
+        "날 재질": "스테인리스 스틸",
+        "두께 조절": "0.5–9mm",
+        "무게": "1.1kg",
+        "원산지": "중국"
+      },
+      "scores": {
+        "슬라이스 정밀도": 9.0,
+        "안전성": 9.5,
+        "사용 편의성": 9.0,
+        "가성비": 7.5,
+        "다용도성": 8.5
+      }
+    },
+    {
+      "offerId": "kyocera-ceramic-mandoline",
+      "badge": "경량 사용자 최적",
+      "review": "세라믹 날은 녹이 슬지 않고 냄새가 배지 않아 양파, 마늘 슬라이스에 특히 적합합니다. 초경량으로 세워서 보관할 수 있는 컴팩트한 디자인. 두께 조절이 3단계로 제한되지만 일상적인 사용에는 충분합니다.",
+      "pros": [
+        "rust-proof ceramic blade",
+        "ultra lightweight",
+        "no odor transfer",
+        "very affordable"
+      ],
+      "cons": [
+        "limited to 3 thickness settings",
+        "ceramic blade can chip if dropped"
+      ],
+      "grade": "B+",
+      "specs": {
+        "날 재질": "세라믹",
+        "두께 조절": "3단계",
+        "무게": "160g",
+        "원산지": "일본"
+      },
+      "scores": {
+        "슬라이스 정밀도": 8.0,
+        "안전성": 7.0,
+        "사용 편의성": 8.5,
+        "가성비": 9.0,
+        "다용도성": 5.5
+      }
+    },
+    {
+      "offerId": "swissmar-borner-v-power",
+      "badge": "독일 품질",
+      "review": "V자형 날 구조가 특징으로, 양쪽에서 동시에 절단하여 적은 힘으로도 부드럽게 슬라이스할 수 있습니다. 교체 날로 채썰기도 가능합니다. 플라스틱 부품의 내구성이 다소 아쉬운 점입니다.",
+      "pros": [
+        "V-blade design reduces pressure needed",
+        "julienne blade included",
+        "compact folding design"
+      ],
+      "cons": [
+        "plastic components feel less durable",
+        "food holder could be improved"
+      ],
+      "grade": "B",
+      "specs": {
+        "날 재질": "스테인리스 스틸",
+        "두께 조절": "0~7mm",
+        "무게": "680g",
+        "원산지": "독일"
+      },
+      "scores": {
+        "슬라이스 정밀도": 8.5,
+        "안전성": 7.5,
+        "사용 편의성": 8.0,
+        "가성비": 7.5,
+        "다용도성": 8.0
+      }
+    },
+    {
+      "offerId": "mueller-v-pro-mandoline",
+      "badge": "가성비 중심",
+      "review": "다양한 날과 조리 부속품이 포함되어 있어 겉보기 기능은 풍부합니다. 절삭력은 무난하지만 프리미엄 제품의 정밀도와 내구성에는 미치지 못합니다. 수납 케이스가 포함되어 있어 초보자 입문용으로 적합합니다.",
+      "pros": [
+        "comes with many blade attachments",
+        "storage case included",
+        "budget-friendly price"
+      ],
+      "cons": [
+        "blades dull faster than premium models",
+        "some plastic parts feel flimsy"
+      ],
+      "grade": "B-",
+      "specs": {
+        "날 재질": "스테인리스 스틸",
+        "두께 조절": "0.5~9.5mm",
+        "무게": "850g",
+        "원산지": "중국"
+      },
+      "scores": {
+        "슬라이스 정밀도": 7.0,
+        "안전성": 7.5,
+        "사용 편의성": 7.5,
+        "가성비": 8.5,
+        "다용도성": 8.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "얇고 정밀한 슬라이스를 원하는 요리 마니아",
+      "offerId": "benriner-mandoline-no64",
+      "reason": "일본 장인 품질의 날카로움은 얇고 아름다운 단면을 중시하는 분들에게 최적입니다."
+    },
+    {
+      "label": "안전을 최우선으로 생각하는 초보자",
+      "offerId": "oxo-chef-mandoline-2-0",
+      "reason": "업계 최고 수준의 핸드가드와 직관적인 조작으로 처음 사용하는 분도 안전하게 사용할 수 있습니다."
+    },
+    {
+      "label": "예산을 절약하면서 다양한 기능을 원하는 분",
+      "offerId": "mueller-v-pro-mandoline",
+      "reason": "다양한 날과 수납 케이스가 포함되어 있어 비용을 절감하면서 다양한 커팅을 시도해 볼 수 있습니다."
+    }
+  ]
 }

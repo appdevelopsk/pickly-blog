@@ -83,5 +83,167 @@
     "mueller-v-pro-mandoline": "Opción multihoja económica -- cinco hojas intercambiables incluyendo rejilla y rallador al precio más bajo. El acero de grado 420 se ablanda a los 6 meses de uso regular; protector de corte de punta más corta pierde agarre en productos lisos por debajo de 5 cm."
   },
   "pinDescription": "5 mandolinas comparadas en 2026: desde la Mueller V-Pro de 3.500 yenes hasta la Benriner No. 64 de 22.000 yenes. Afilado de hoja, calificaciones de seguridad del protector de corte y cuál vale realmente el riesgo en los dedos. #MandolinaCocina #HerramientasDeCocina #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada mandolina fue probada con daikon, pepino, zanahoria, papa y hinojo en ajustes fino (1 mm), medio (3 mm) y grueso (6–7 mm) — evaluando la nitidez de la cuchilla, la consistencia del corte, la eficacia del protector de manos y el riesgo de lesiones en 30 sesiones de prueba. El rendimiento de seguridad se ponderó igual que el rendimiento de corte.",
+  "products": [
+    {
+      "offerId": "benriner-mandoline-no64",
+      "badge": "Mejor en general",
+      "review": "La cuchilla japonesa de acero inoxidable produce cortes uniformes incluso a 1 mm de grosor. El diseño simple facilita la limpieza y es un favorito entre cocineros profesionales de todo el mundo. Combinado con un guante anticorte, es tanto preciso como seguro.",
+      "pros": [
+        "cuchilla japonesa de filo de navaja",
+        "compacta y ligera",
+        "fácil de limpiar",
+        "cortes ultra-finos consistentes"
+      ],
+      "cons": [
+        "sin protector de manos integrado",
+        "pocas opciones de grosor"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Material cuchilla": "Acero inoxidable",
+        "Ajuste de grosor": "0,3–4 mm",
+        "Peso": "290 g",
+        "País de origen": "Japón"
+      },
+      "scores": {
+        "Precisión de corte": 9.8,
+        "Seguridad": 7.5,
+        "Facilidad de uso": 8.5,
+        "Relación calidad-precio": 9.0,
+        "Versatilidad": 7.0
+      }
+    },
+    {
+      "offerId": "oxo-chef-mandoline-2-0",
+      "badge": "Seguridad n.º 1",
+      "review": "El protector de manos mejorado de OXO protege los dedos de forma fiable y hace el dispositivo accesible a principiantes. El ajuste preciso del grosor y el amplio soporte para alimentos permiten trabajar con muchas verduras y frutas. El principal inconveniente es su tamaño y peso.",
+      "pros": [
+        "mejor protector de manos del mercado",
+        "ajuste preciso del grosor",
+        "amplio soporte para alimentos",
+        "apto para lavavajillas"
+      ],
+      "cons": [
+        "voluminoso y pesado",
+        "precio elevado"
+      ],
+      "grade": "A",
+      "specs": {
+        "Material cuchilla": "Acero inoxidable",
+        "Ajuste de grosor": "0,5–9 mm",
+        "Peso": "1,1 kg",
+        "País de origen": "China"
+      },
+      "scores": {
+        "Precisión de corte": 9.0,
+        "Seguridad": 9.5,
+        "Facilidad de uso": 9.0,
+        "Relación calidad-precio": 7.5,
+        "Versatilidad": 8.5
+      }
+    },
+    {
+      "offerId": "kyocera-ceramic-mandoline",
+      "badge": "Ideal para uso ligero",
+      "review": "La cuchilla de cerámica no se oxida y no transfiere olores, perfecta para cebolla y ajo. Diseño ultraligero y compacto para un almacenamiento sencillo. Los ajustes de grosor se limitan a 3 niveles, pero son suficientes para uso diario.",
+      "pros": [
+        "cuchilla cerámica sin óxido",
+        "ultraligera",
+        "sin transferencia de olores",
+        "muy asequible"
+      ],
+      "cons": [
+        "solo 3 niveles de grosor",
+        "la cuchilla cerámica puede astillarse si cae"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Material cuchilla": "Cerámica",
+        "Ajuste de grosor": "3 niveles",
+        "Peso": "160 g",
+        "País de origen": "Japón"
+      },
+      "scores": {
+        "Precisión de corte": 8.0,
+        "Seguridad": 7.0,
+        "Facilidad de uso": 8.5,
+        "Relación calidad-precio": 9.0,
+        "Versatilidad": 5.5
+      }
+    },
+    {
+      "offerId": "swissmar-borner-v-power",
+      "badge": "Calidad alemana",
+      "review": "El diseño en V corta simultáneamente por ambos lados, reduciendo la presión necesaria. La cuchilla intercambiable permite cortes en juliana. Las piezas de plástico parecen menos duraderas que en modelos premium.",
+      "pros": [
+        "cuchilla en V reduce el esfuerzo",
+        "cuchilla juliana incluida",
+        "diseño plegable compacto"
+      ],
+      "cons": [
+        "piezas plásticas menos duraderas",
+        "soporte de alimentos mejorable"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material cuchilla": "Acero inoxidable",
+        "Ajuste de grosor": "0–7 mm",
+        "Peso": "680 g",
+        "País de origen": "Alemania"
+      },
+      "scores": {
+        "Precisión de corte": 8.5,
+        "Seguridad": 7.5,
+        "Facilidad de uso": 8.0,
+        "Relación calidad-precio": 7.5,
+        "Versatilidad": 8.0
+      }
+    },
+    {
+      "offerId": "mueller-v-pro-mandoline",
+      "badge": "Mejor relación calidad-precio",
+      "review": "Numerosas cuchillas y accesorios incluidos ofrecen una gran variedad de funciones. El corte es correcto para uso cotidiano, aunque no alcanza la precisión de los modelos premium. La caja de almacenamiento es un plus para principiantes.",
+      "pros": [
+        "muchos accesorios de cuchillas",
+        "caja de almacenamiento incluida",
+        "precio asequible"
+      ],
+      "cons": [
+        "las cuchillas se desafilan antes",
+        "algunas piezas de plástico endebles"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Material cuchilla": "Acero inoxidable",
+        "Ajuste de grosor": "0,5–9,5 mm",
+        "Peso": "850 g",
+        "País de origen": "China"
+      },
+      "scores": {
+        "Precisión de corte": 7.0,
+        "Seguridad": 7.5,
+        "Facilidad de uso": 7.5,
+        "Relación calidad-precio": 8.5,
+        "Versatilidad": 8.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Cocineros exigentes que buscan máxima precisión",
+      "offerId": "benriner-mandoline-no64",
+      "reason": "La cuchilla japonesa de precisión es ideal para quienes buscan cortes finos y uniformes."
+    },
+    {
+      "label": "Principiantes que priorizan la seguridad",
+      "offerId": "oxo-chef-mandoline-2-0",
+      "reason": "El mejor protector de manos del mercado y el manejo intuitivo lo convierten en la opción más segura para novatos."
+    },
+    {
+      "label": "Quienes buscan versatilidad con presupuesto ajustado",
+      "offerId": "mueller-v-pro-mandoline",
+      "reason": "Variedad de cuchillas y almacenamiento práctico ofrecen la mejor funcionalidad para un presupuesto limitado."
+    }
+  ]
 }

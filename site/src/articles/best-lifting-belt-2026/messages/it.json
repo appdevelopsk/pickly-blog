@@ -48,5 +48,64 @@
     "harbinger-padded-leather-belt": "Cuoio imbottito in schiuma per il comfort nell'allenamento generale. Non con specifica da competizione, ma ideale per il lavoro misto in palestra e le serie ad alto numero di ripetizioni dove una cintura rigida sarebbe poco pratica."
   },
   "pinDescription": "Inzer vs SBD vs Rogue — le 5 migliori cinture per sollevamento del 2026 classificate per le reali prestazioni di squat e stacco. Leva vs fibbia, 10mm vs 13mm, competizione vs allenamento quotidiano. #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni prodotto è stato valutato su cinque criteri: qualità costruttiva, prestazioni nell'uso tipico, durata nel tempo, comfort e rapporto qualità-prezzo. Abbiamo ponderato maggiormente prestazioni e durabilità perché determinano se un prodotto è ancora utile 12 mesi dopo.",
+  "products": [
+    {
+      "offerId": "inzer-forever-lever-belt-10mm",
+      "badge": "Migliore in assoluto",
+      "review": "L'Inzer Forever Lever Belt è il punto di riferimento con cui vengono confrontate tutte le altre cinture da powerlifting. Il cuoio singolo strato da 10mm è abbastanza rigido da fornire un vero supporto per la pressione intra-addominale senza la tendenza del 13mm a far lividi alle costole nelle serie ad alto numero di ripetizioni. Approvata IPF — ci si allena e si gareggia con la stessa cintura. La chiusura a leva fornisce tensione identica a ogni serie — regolata una volta, clic e via.",
+      "pros": ["Chiusura a leva: tensione identica a ogni serie senza regolazione", "Approvata IPF per la competizione", "Garanzia Forever: copre i difetti per tutta la durata di vita"],
+      "cons": ["4-6 settimane di rodaggio prima che il cuoio si adatti al corpo"],
+      "grade": "A+",
+      "specs": {"Spessore": "Cuoio singolo strato 10mm", "Larghezza": "10cm (uniforme, IPF)", "Chiusura": "Fibbia a leva", "Approvata IPF": "Sì", "Prezzo": "130€"},
+      "scores": {"Qualità costruttiva": 5.0, "Durabilità": 5.0, "Comfort": 3.8, "Facilità d'uso": 4.5, "Rapporto qualità-prezzo": 4.5}
+    },
+    {
+      "offerId": "sbd-belt-powerlifting",
+      "badge": "Migliore per la competizione",
+      "review": "La cintura SBD da 13mm è utilizzata da diversi detentori di record mondiali IPF — non marketing, un dato verificabile sulla tenuta della costruzione sotto carichi massimali reali. Massima rigidità legale per il maggior potenziale di contenimento. Il meccanismo a dito singolo si sblocca più velocemente dell'Inzer tra i tentativi. Compromessi: 6-8 settimane di rodaggio e disagio nelle serie ad alto numero di ripetizioni.",
+      "pros": ["Utilizzata da detentori di record mondiali IPF", "Sblocco a dito singolo — la più veloce della categoria", "Spessore massimo legale 13mm per il massimo contenimento"],
+      "cons": ["6-8 settimane di rodaggio", "Scomoda per serie da 8+ ripetizioni"],
+      "grade": "A",
+      "specs": {"Spessore": "Cuoio singolo strato 13mm", "Larghezza": "10cm (IPF)", "Chiusura": "Leva SBD proprietaria", "Prodotta in": "Regno Unito", "Prezzo": "320-400€"},
+      "scores": {"Qualità costruttiva": 5.0, "Durabilità": 5.0, "Comfort": 3.0, "Facilità d'uso": 4.8, "Rapporto qualità-prezzo": 3.0}
+    },
+    {
+      "offerId": "rogue-ohio-lifting-belt",
+      "badge": "Migliore cintura prodotta negli USA",
+      "review": "La Rogue Ohio Belt è prodotta a Columbus, Ohio, in cuoio Herman Oak — la stessa conceria usata dai migliori produttori di cinture su misura. Il restringimento da 4 a 3 pollici nella parte anteriore migliora la mobilità dell'anca durante i deadlift. Disponibile con prong singolo o doppio. La qualità costruttiva è costante e la tracciabilità della catena di fornitura è un reale differenziatore.",
+      "pros": ["Cuoio Herman Oak — stessa conceria delle cinture su misura premium", "Restringimento 4→3 pollici migliora la mobilità dell'anca nel deadlift", "Prodotta a Columbus, Ohio con catena di fornitura tracciabile"],
+      "cons": ["La chiusura a prong richiede più tempo di regolazione rispetto alla leva"],
+      "grade": "B+",
+      "specs": {"Spessore": "Cuoio singolo strato 10mm", "Larghezza": "4 poll. dietro / 3 poll. davanti", "Chiusura": "Prong singolo o doppio", "Prodotta in": "Columbus, Ohio, USA", "Prezzo": "180-230€"},
+      "scores": {"Qualità costruttiva": 4.8, "Durabilità": 4.8, "Comfort": 4.0, "Facilità d'uso": 3.8, "Rapporto qualità-prezzo": 4.3}
+    },
+    {
+      "offerId": "pioneer-cut-powerlifting-belt",
+      "badge": "Migliore geometria per lo squat",
+      "review": "Il taglio sagomato di Pioneer — più largo nella parte posteriore, restringendosi verso i lati — è una geometria che molti sollevatori trovano meno fastidiosa per i flessori dell'anca in fondo allo squat rispetto alle cinture a larghezza uniforme. Popolare nel powerlifting giapponese per la compatibilità specifica con lo squat. Disponibile in più larghezze e stili di fibbia.",
+      "pros": ["Geometria sagomata riduce l'interferenza dei flessori dell'anca nello squat profondo", "Popolare nel powerlifting giapponese per l'adattamento specifico allo squat", "Disponibile in più larghezze e configurazioni di fibbia"],
+      "cons": ["La geometria specifica potrebbe non adattarsi a tutte le proporzioni corporee"],
+      "grade": "B",
+      "specs": {"Spessore": "Cuoio singolo strato 10mm", "Taglio": "Sagomato Pioneer — schiena larga, fianchi stretti", "Approvata IPF": "Sì", "Opzioni": "Più larghezze e stili di fibbia", "Prezzo": "150-200€"},
+      "scores": {"Qualità costruttiva": 4.5, "Durabilità": 4.5, "Comfort": 4.5, "Facilità d'uso": 3.8, "Rapporto qualità-prezzo": 4.5}
+    },
+    {
+      "offerId": "harbinger-padded-leather-belt",
+      "badge": "Migliore per l'allenamento generale",
+      "review": "La cintura in cuoio imbottito Harbinger è progettata per la forza generale e il bodybuilding, non per le competizioni di powerlifting. Il pannello posteriore imbottito in schiuma la rende comoda fin dalla prima sessione — ideale per stacchi rumeni e rematori dove la si indossa e toglie continuamente. Il contenimento massimo è inferiore al cuoio rigido singolo strato; per serie al 70-80%, è perfettamente adeguata.",
+      "pros": ["Comoda fin dal primo giorno — nessun rodaggio necessario", "Schiuma pratica per serie ad alto numero di ripetizioni variate", "Il prezzo più basso di questo confronto"],
+      "cons": ["Non con specifica da competizione — la schiuma limita il contenimento massimo", "Non approvata IPF"],
+      "grade": "B-",
+      "specs": {"Materiale": "Cuoio con pannello posteriore in schiuma", "Larghezza": "6 pollici", "Approvata IPF": "No", "Ideale per": "Allenamento generale, split di bodybuilding", "Prezzo": "40-65€"},
+      "scores": {"Qualità costruttiva": 3.5, "Durabilità": 3.8, "Comfort": 5.0, "Facilità d'uso": 4.5, "Rapporto qualità-prezzo": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per i powerlifter in gara", "offerId": "inzer-forever-lever-belt-10mm", "reason": "Leva approvata IPF con tensione costante a ogni serie e garanzia a vita"},
+    {"label": "Per la competizione IPF d'élite", "offerId": "sbd-belt-powerlifting", "reason": "Massimo contenimento legale a 13mm, usata da recordmani mondiali IPF sulla pedana"},
+    {"label": "Per gli atleti focalizzati sul deadlift", "offerId": "rogue-ohio-lifting-belt", "reason": "Il restringimento anteriore migliora la mobilità dell'anca alla piega durante le trazioni pesanti"},
+    {"label": "Per i sollevatori con squat profondo", "offerId": "pioneer-cut-powerlifting-belt", "reason": "La geometria sagomata riduce l'interferenza dei flessori dell'anca in fondo allo squat"},
+    {"label": "Per l'allenamento generale in palestra", "offerId": "harbinger-padded-leather-belt", "reason": "Comoda per serie ad alto numero di ripetizioni senza rodaggio, al prezzo più basso"}
+  ]
 }

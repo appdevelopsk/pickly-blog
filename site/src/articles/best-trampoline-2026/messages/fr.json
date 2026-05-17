@@ -66,5 +66,64 @@
     "jumpsport-550f-fitness-trampoline": "Rebounder fitness intérieur de 48 pouces, suspension à cordes élastiques (plus doux/silencieux que les ressorts), pieds pliables, capacité de 250 lb. Conçu pour le fitness aérobique adulte -- entraînement cardiovasculaire à faible impact à domicile. Pas pour un usage extérieur ou le jeu des enfants."
   },
   "pinDescription": "Comparaison de trampolines 2026 : Springfree sans ressorts vs Skywalker 15ft vs Zupapa vs JumpSport rebounder fitness -- quel trampoline est vraiment sûr et vaut le prix ? Design à ressorts vs sans ressorts, fonctionnalités de sécurité et durabilité comparés. #trampoline #jardin #sécurité #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque trampoline a été évalué selon la conception du filet de sécurité et l'élimination du risque de blessure par contact avec l'espace entre les ressorts, la régularité du rebond sur toute la surface du tapis, la durabilité du matériau du cadre face à l'exposition climatique extérieure, les limites de poids réalistes pour une utilisation familiale, et les retours de propriétaires à long terme.",
+  "products": [
+    {
+      "offerId": "springfree-trampoline-medium-oval",
+      "badge": "Meilleur au Global",
+      "review": "Les tiges composites de Springfree sont situées 30 cm sous la surface du tapis — pas de fentes de ressorts exposées ni de cadre dans la zone de saut, éliminant les deux mécanismes de blessure par contact les plus courants. À $1 500–2 500, c'est l'option la plus chère, mais les tests de sécurité indépendants la classent régulièrement comme la conception à plus faible taux de blessures sur le marché grand public.",
+      "pros": ["La conception sans ressorts élimine entièrement les blessures par contact avec les fentes de ressorts", "Le cadre sous le tapis supprime le risque de contact avec le bord dans la zone de saut", "Tiges résistantes aux UV homologuées pour 200 kg de charge dynamique sur des années d'utilisation extérieure"],
+      "cons": ["$1 500–2 500 coûte 3–5× plus cher que des alternatives à ressorts de qualité"],
+      "grade": "A+",
+      "specs": {"Taille": "3,4 m × 2,5 m ovale", "Système de ressorts": "Sans ressorts, tiges composites (30 cm sous le tapis)", "Charge dynamique": "200 kg", "Position du cadre": "Hors de la zone de saut", "Prix": "~$1 500–2 500", "Filet": "Filet fixé au tapis (pas de jeu)"},
+      "scores": {"Bounce quality": 4.5, "Safety enclosure": 5.0, "Build quality": 5.0, "Value": 3.0, "Weight limit": 4.5}
+    },
+    {
+      "offerId": "skywalker-15ft-round-trampoline",
+      "badge": "Meilleur pour la Plupart des Familles",
+      "review": "Le Skywalker 15 ft est le standard de catégorie pour les trampolines à ressorts de qualité à un prix accessible — 96 ressorts pour un rebond régulier sur tout le tapis, et un filet de sécurité fixé aux mêmes poteaux que le rembourrage pour éliminer le jeu filet-tapis. À $300–500, c'est le premier trampoline idéal pour la plupart des familles en banlieue qui veulent de la qualité sans le premium Springfree.",
+      "pros": ["96 ressorts distribuent la charge uniformément pour un rebond régulier sur tout le tapis", "Le filet et le rembourrage partagent les mêmes poteaux — élimine le jeu filet-tapis", "15 ft accueille plusieurs sauteurs et des adultes confortablement"],
+      "cons": ["Le système à ressorts standard comporte un risque de contact avec les fentes de ressorts comparé à Springfree", "Le cadre métallique nécessite une inspection régulière pour la rouille dans les climats humides ou côtiers"],
+      "grade": "A",
+      "specs": {"Taille": "15 ft rond", "Nombre de ressorts": "96 ressorts", "Limite de poids": "90 kg par sauteur", "Filet": "Fixé aux mêmes poteaux que le rembourrage", "Prix": "~$300–500", "Cadre": "Acier (laqué par poudre)"},
+      "scores": {"Bounce quality": 4.3, "Safety enclosure": 4.2, "Build quality": 4.0, "Value": 4.8, "Weight limit": 4.0}
+    },
+    {
+      "offerId": "zupapa-15ft-trampoline",
+      "badge": "Meilleur pour Climats Rigoureux",
+      "review": "Le Zupapa 15 ft se distingue par son cadre en acier galvanisé — résistant à la rouille même après des rayures superficielles, ce qui compte pour les trampolines laissés dehors toute l'année. Les 108 ressorts (12 de plus que le Skywalker) produisent un rebond plus régulier aux bords — une vraie amélioration pour les sauteurs expérimentés qui remarquent leur position d'atterrissage.",
+      "pros": ["Le cadre en acier galvanisé résiste à la rouille même après des rayures superficiales — dure plus longtemps que les cadres laqués à l'extérieur", "108 ressorts produisent un rebond plus régulier aux bords du tapis que les modèles à moins de ressorts", "Rembourrage des ressorts plus épais que les concurrents standard"],
+      "cons": ["$400–600 coûte plus cher que le Skywalker sans avantage de conception de sécurité sur Springfree"],
+      "grade": "B+",
+      "specs": {"Taille": "15 ft rond", "Nombre de ressorts": "108 ressorts", "Limite de poids": "~150 kg au total", "Cadre": "Acier galvanisé (résistant à la rouille)", "Prix": "~$400–600", "Filet": "Filet de sécurité inclus"},
+      "scores": {"Bounce quality": 4.5, "Safety enclosure": 4.2, "Build quality": 4.8, "Value": 4.2, "Weight limit": 4.2}
+    },
+    {
+      "offerId": "jumpking-14ft-trampoline",
+      "badge": "Meilleur pour Jardins Plus Petits",
+      "review": "Le Jumpking 14 ft fournit un trampoline familial complet — filet de sécurité, rembourrage des ressorts et une zone de saut de 14 ft — à $250–400 pour les jardins où un trampoline rond de 15 ft ne rentre pas dans l'espace disponible. La qualité du système à ressorts et du rembourrage est standard et ne se différencie pas significativement du Skywalker en taille plus grande.",
+      "pros": ["La taille de 14 ft s'adapte aux jardins plus petits sans dégagement pour un rond de 15 ft", "Filet de sécurité et housse de ressorts rembourrée inclus au prix d'entrée", "Rebond et capacité de poids adéquats pour les sessions familiales typiques"],
+      "cons": ["Pas d'avantage significatif sur le Skywalker 15 ft sauf une empreinte plus petite", "Qualité de rembourrage de ressorts et de cadre standard — non optimisé pour le mauvais temps"],
+      "grade": "B",
+      "specs": {"Taille": "14 ft rond", "Système de ressorts": "Ressorts en acier standard", "Limite de poids": "~113 kg au total", "Cadre": "Acier (laqué par poudre)", "Prix": "~$250–400", "Filet": "Filet de sécurité inclus"},
+      "scores": {"Bounce quality": 3.8, "Safety enclosure": 4.0, "Build quality": 3.8, "Value": 4.5, "Weight limit": 3.8}
+    },
+    {
+      "offerId": "jumpsport-550f-fitness-trampoline",
+      "badge": "Meilleur Fitness Intérieur",
+      "review": "Le JumpSport 550f est une catégorie différente : un trampoline rebondeur intérieur de 48 pouces à suspension élastique pour le conditionnement aérobique des adultes, pas un trampoline familial de jardin. La suspension élastique est plus silencieuse et plus douce pour les articulations que les ressorts en acier, exerçant environ 70% de la force de réaction au sol sur les genoux et les hanches comparé à la course — une alternative légitime à l'entraînement sur tapis roulant pour les utilisateurs souffrant de problèmes articulaires.",
+      "pros": ["La suspension à corde élastique est plus silencieuse et plus douce pour les articulations que les ressorts en acier", "Les pieds pliables permettent un rangement compact entre les sessions", "Conçu pour le fitness aérobique adulte — réduit l'impact sur les genoux et les hanches vs. la course"],
+      "cons": ["Rebondeur intérieur de 48 pouces — pas adapté à une utilisation extérieure ou aux jeux des enfants", "Limite de poids de 113 kg adultes seulement ; pas conçu pour les sessions de trampoline familiales"],
+      "grade": "B-",
+      "specs": {"Taille": "48 pouces (122 cm) rond", "Suspension": "Bandes de corde élastique", "Capacité de poids": "113 kg", "Pieds": "Pliables pour rangement", "Prix": "~$300–400", "Utilisation cible": "Fitness aérobique adulte intérieur"},
+      "scores": {"Bounce quality": 4.0, "Safety enclosure": 3.0, "Build quality": 4.2, "Value": 4.0, "Weight limit": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les familles qui privilégient la sécurité avant tout", "offerId": "springfree-trampoline-medium-oval", "reason": "Pas de fentes de ressorts et pas de cadre dans la zone de saut — la conception de trampoline à plus faible taux de blessures disponible pour un usage domestique."},
+    {"label": "Pour la plupart des familles en banlieue", "offerId": "skywalker-15ft-round-trampoline", "reason": "96 ressorts, filet intégré et un bon rapport qualité-prix en font le premier trampoline idéal pour les familles qui veulent de la valeur sans compromettre les fonctionnalités de sécurité."},
+    {"label": "Pour les climats humides ou côtiers", "offerId": "zupapa-15ft-trampoline", "reason": "Le cadre en acier galvanisé résiste à la rouille même après des rayures superficiales — le bon investissement à long terme pour les trampolines exposés à la pluie, à l'air marin ou aux cycles de gel-dégel."},
+    {"label": "Pour les jardins plus petits ou les budgets serrés", "offerId": "jumpking-14ft-trampoline", "reason": "L'empreinte de 14 ft s'adapte aux jardins où un cercle de 15 ft ne peut pas maintenir le périmètre libre requis de 8 ft, à un prix adapté aux budgets plus serrés."},
+    {"label": "Pour les adultes qui font du cardio à faible impact en intérieur", "offerId": "jumpsport-550f-fitness-trampoline", "reason": "La suspension élastique et la conception pliable en font le seul choix ici construit spécifiquement pour le conditionnement aérobique adulte avec protection articulaire."}
+  ]
 }

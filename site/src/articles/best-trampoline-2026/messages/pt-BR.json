@@ -66,5 +66,64 @@
     "jumpsport-550f-fitness-trampoline": "Rebounder de fitness interno de 48 polegadas, suspensão de cordas elásticas (mais suave/silencioso do que molas), pernas dobráveis, capacidade de 250 lb. Projetado para fitness aeróbico adulto -- treino cardiovascular de baixo impacto em casa. Não para uso ao ar livre ou brincadeiras infantis."
   },
   "pinDescription": "Comparação de trampolins 2026: Springfree sem mola vs Skywalker 15ft vs Zupapa vs JumpSport rebounder de fitness -- qual trampolim é realmente seguro e vale a pena? Design com mola vs sem mola, recursos de segurança e durabilidade comparados. #trampolim #quintal #seguranca #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada trampolim foi avaliado com base no design do cercado de segurança e na eliminação do risco de lesões por contato com a folga entre as molas, na consistência do salto em toda a superfície da lona, na durabilidade do material da estrutura frente à exposição climática externa, nos limites de peso realistas para uso familiar, e nos relatos de proprietários a longo prazo.",
+  "products": [
+    {
+      "offerId": "springfree-trampoline-medium-oval",
+      "badge": "Melhor no Geral",
+      "review": "As hastes compostas da Springfree ficam 30 cm abaixo da superfície da lona — não há folgas de molas expostas nem estrutura dentro da zona de salto, eliminando os dois mecanismos de lesão por contato mais comuns. A $1.500–2.500 é a opção mais cara, mas testes de segurança independentes a classificam consistentemente como o design com menor taxa de lesões no mercado de consumo.",
+      "pros": ["Design sem molas elimina completamente as lesões por contato com a folga das molas", "Estrutura sob a lona elimina o risco de contato com a borda da zona de salto", "Hastes resistentes a UV classificadas para 200 kg de carga dinâmica por anos de uso externo"],
+      "cons": ["$1.500–2.500 custa 3–5× mais do que alternativas de molas de qualidade"],
+      "grade": "A+",
+      "specs": {"Tamanho": "3,4 m × 2,5 m oval", "Sistema de molas": "Sem molas, hastes compostas (30 cm abaixo da lona)", "Carga dinâmica": "200 kg", "Posição da estrutura": "Fora da zona de salto", "Preço": "~$1.500–2.500", "Cercado": "Rede fixada à lona (sem folga)"},
+      "scores": {"Bounce quality": 4.5, "Safety enclosure": 5.0, "Build quality": 5.0, "Value": 3.0, "Weight limit": 4.5}
+    },
+    {
+      "offerId": "skywalker-15ft-round-trampoline",
+      "badge": "Melhor para a Maioria das Famílias",
+      "review": "O Skywalker de 15 ft é o padrão de categoria para trampolins de molas de qualidade a um preço acessível — 96 molas para um salto uniforme em toda a lona, e uma rede de segurança fixada nos mesmos postes que o acolchoamento para eliminar a folga rede-lona. A $300–500 é o primeiro trampolim certo para a maioria das famílias em subúrbio que querem qualidade sem o prêmio da Springfree.",
+      "pros": ["96 molas distribuem a carga uniformemente para um salto consistente em toda a lona", "A rede de segurança e o acolchoamento compartilham os mesmos postes — elimina a folga rede-lona", "15 ft acomoda vários saltadores e adultos confortavelmente"],
+      "cons": ["O sistema de molas padrão tem risco de contato com a folga das molas comparado à Springfree", "A estrutura de metal requer inspeção regular para ferrugem em climas úmidos ou costeiros"],
+      "grade": "A",
+      "specs": {"Tamanho": "15 ft redondo", "Número de molas": "96 molas", "Limite de peso": "90 kg por saltador", "Cercado": "Rede fixada nos mesmos postes que o acolchoamento", "Preço": "~$300–500", "Estrutura": "Aço (pintado a pó)"},
+      "scores": {"Bounce quality": 4.3, "Safety enclosure": 4.2, "Build quality": 4.0, "Value": 4.8, "Weight limit": 4.0}
+    },
+    {
+      "offerId": "zupapa-15ft-trampoline",
+      "badge": "Melhor para Climas Severos",
+      "review": "O Zupapa de 15 ft se destaca com uma estrutura de aço galvanizado — resistente à ferrugem mesmo após arranhões superficiais, o que importa para trampolins que ficam do lado de fora o ano todo. As 108 molas (12 a mais que o Skywalker) produzem um salto mais consistente nas bordas — uma melhoria real para saltadores experientes que percebem a posição de aterrissagem.",
+      "pros": ["Estrutura de aço galvanizado resiste à ferrugem mesmo após arranhões superficiais — dura mais que estruturas pintadas a pó ao ar livre", "108 molas produzem salto mais consistente nas bordas da lona do que modelos com menos molas", "Acolchoamento das molas mais espesso que os concorrentes padrão"],
+      "cons": ["$400–600 custa mais que o Skywalker sem vantagem de design de segurança sobre a Springfree"],
+      "grade": "B+",
+      "specs": {"Tamanho": "15 ft redondo", "Número de molas": "108 molas", "Limite de peso": "~150 kg no total", "Estrutura": "Aço galvanizado (resistente à ferrugem)", "Preço": "~$400–600", "Cercado": "Rede de segurança incluída"},
+      "scores": {"Bounce quality": 4.5, "Safety enclosure": 4.2, "Build quality": 4.8, "Value": 4.2, "Weight limit": 4.2}
+    },
+    {
+      "offerId": "jumpking-14ft-trampoline",
+      "badge": "Melhor para Quintais Menores",
+      "review": "O Jumpking de 14 ft fornece um trampolim familiar completo — cercado de segurança, acolchoamento das molas e uma zona de salto de 14 ft — a $250–400 para quintais onde um trampolim redondo de 15 ft não cabe no espaço disponível. A qualidade do sistema de molas e do acolchoamento é padrão e não se diferencia significativamente do Skywalker em tamanhos maiores.",
+      "pros": ["O tamanho de 14 ft cabe em quintais menores que não têm espaço para um redondo de 15 ft", "Rede de segurança e cobertura de molas acolchoada incluídas no preço inicial", "Salto e capacidade de peso adequados para sessões familiares típicas"],
+      "cons": ["Nenhuma vantagem significativa sobre o Skywalker de 15 ft exceto a pegada menor", "Qualidade de acolchoamento de molas e estrutura padrão — não otimizado para clima severo"],
+      "grade": "B",
+      "specs": {"Tamanho": "14 ft redondo", "Sistema de molas": "Molas de aço padrão", "Limite de peso": "~113 kg no total", "Estrutura": "Aço (pintado a pó)", "Preço": "~$250–400", "Cercado": "Rede de segurança incluída"},
+      "scores": {"Bounce quality": 3.8, "Safety enclosure": 4.0, "Build quality": 3.8, "Value": 4.5, "Weight limit": 3.8}
+    },
+    {
+      "offerId": "jumpsport-550f-fitness-trampoline",
+      "badge": "Melhor Fitness Indoor",
+      "review": "O JumpSport 550f é uma categoria diferente: um rebatedor indoor de 48 polegadas com suspensão de corda elástica para condicionamento aeróbico de adultos, não um trampolim familiar de jardim. A suspensão elástica é mais silenciosa e mais amigável para as articulações do que as molas de aço, exercendo aproximadamente 70% da força de reação ao solo nos joelhos e quadris comparado a correr — uma alternativa legítima ao treinamento na esteira para usuários com problemas articulares.",
+      "pros": ["A suspensão de corda elástica é mais silenciosa e amigável para as articulações do que as molas de aço", "As pernas dobráveis permitem armazenamento compacto entre as sessões", "Projetado para fitness aeróbico adulto — reduz o impacto nos joelhos e quadris vs. correr"],
+      "cons": ["Rebatedor indoor de 48 polegadas — não adequado para uso externo ou brincadeiras infantis", "Limite de peso de 113 kg somente para adultos; não projetado para sessões familiares de trampolim"],
+      "grade": "B-",
+      "specs": {"Tamanho": "48 polegadas (122 cm) redondo", "Suspensão": "Bandas de corda elástica", "Capacidade de peso": "113 kg", "Pernas": "Dobráveis para armazenamento", "Preço": "~$300–400", "Uso alvo": "Fitness aeróbico adulto indoor"},
+      "scores": {"Bounce quality": 4.0, "Safety enclosure": 3.0, "Build quality": 4.2, "Value": 4.0, "Weight limit": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para famílias que priorizam a segurança acima de tudo", "offerId": "springfree-trampoline-medium-oval", "reason": "Sem folgas de molas e sem estrutura na zona de salto — o design de trampolim com menor taxa de lesões disponível para uso doméstico."},
+    {"label": "Para a maioria das famílias em subúrbio", "offerId": "skywalker-15ft-round-trampoline", "reason": "96 molas, cercado integrado e um bom custo-benefício o tornam o primeiro trampolim certo para famílias que querem valor sem comprometer os recursos de segurança."},
+    {"label": "Para climas úmidos ou costeiros", "offerId": "zupapa-15ft-trampoline", "reason": "A estrutura de aço galvanizado resiste à ferrugem mesmo após arranhões superficiais — o investimento certo a longo prazo para trampolins expostos a chuva, ar marinho ou ciclos de gelo-degelo."},
+    {"label": "Para quintais menores ou orçamentos apertados", "offerId": "jumpking-14ft-trampoline", "reason": "A pegada de 14 ft cabe em quintais onde um círculo de 15 ft não consegue manter o buffer perimetral requerido de 8 ft, a um preço que serve orçamentos mais apertados."},
+    {"label": "Para adultos que fazem cardio de baixo impacto em casa", "offerId": "jumpsport-550f-fitness-trampoline", "reason": "A suspensão elástica e o design dobrável o tornam a única opção aqui construída especificamente para condicionamento aeróbico adulto com proteção articular."}
+  ]
 }

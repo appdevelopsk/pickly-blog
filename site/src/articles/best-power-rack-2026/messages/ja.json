@@ -58,5 +58,171 @@
     "cap-barbell-fm-8000f-power-rack": "2x2インチ、14ゲージ、2インチ穴、エントリーレベル。200〜350ドル。予算ケージオプション——軽〜中程度の家庭トレーニングに機能的。重い負荷でたわみ、2インチ間隔がセーフティ精度を制限。スターターラック、長期解決策ではない。"
   },
   "pinDescription": "パワーラック2026：Rogue R-3 vs REP PR-4000 vs Titan X-3 vs Body-Solid vs CAP Barbell——アップライトゲージとホール間隔の解説・Jフック品質の違い・セーフティを使った一人での安全なトレーニング・ホームジムに買う価値があるフルケージはどれ。",
-  "methodology": "各製品を5つの基準で評価しました：作りの良さ・通常使用での性能・耐久性・快適性・コストパフォーマンス。12ヶ月後も使い続けられるかという観点から、性能と耐久性を最も重視しています。"
+  "methodology": "各ラックをアップライトのゲージと断面サイズ、ホール間隔、耐荷重、Jフックの品質、アクセサリーエコシステムの深さ、設置面積、長期カスタマーサービス実績で評価した。",
+  "products": [
+    {
+      "offerId": "rogue-r-3-power-rack",
+      "badge": "総合ベスト",
+      "review": "Rogue R-3の3×3インチ11ゲージアップライト、全体1インチホール間隔、Monster Liteアクセサリーエコシステムがホームジムパワーラックの基準を設定する。UHMWライニングJカップがバーベルのナーリングを保護。REPやTitanに対する価格プレミアムは実在する——アクセサリーの深さとRogueの長期品質実績によって正当化され、すべての買い手に必要ではない。",
+      "pros": [
+        "3×3インチ11ゲージアップライト——最大荷重下での商業標準剛性",
+        "全体1インチホール間隔で精密なセーフティバー位置決め",
+        "Monster Liteアクセサリーエコシステム：ラットプルダウン・モノリフト・ディップアタッチメント・バンドペグ"
+      ],
+      "cons": [
+        "機能的に同等の構造に対してREP PR-4000より価格プレミアム——アクセサリーエコシステムが主要差別化要素"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Upright": "3×3 in, 11-gauge steel",
+        "Hole spacing": "1 in throughout",
+        "Height": "90 in (requires 9+ ft ceiling)",
+        "J-hooks": "Monster Lite UHMW-lined",
+        "Weight": "~175 lbs",
+        "Price (US)": "~$825"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 5.0,
+        "Versatility": 4.9,
+        "Value": 3.8,
+        "Build quality": 5.0
+      }
+    },
+    {
+      "offerId": "rep-fitness-pr-4000-power-rack",
+      "badge": "最高コスパ",
+      "review": "REP PR-4000はRogue R-3と同等のアップライトスペック（3×3インチ、11ゲージ、ウェストサイド間隔）を15〜20%低いコストで実現。溶接品質と仕上げはRogueをわずかに下回るが重要な演習では構造的に同等。R-3性能をR-3価格なしで求めるホームジムアスリートへの正解。",
+      "pros": [
+        "3×3インチ11ゲージ——Rogue R-3と同じ構造ティア",
+        "ベンチゾーンで1インチ精度を提供するウェストサイドホール間隔",
+        "Rogue R-3より15〜20%低いコスト"
+      ],
+      "cons": [
+        "溶接品質と仕上げはRogueをわずかに下回る。アクセサリーエコシステムはMonster Liteより小さい"
+      ],
+      "grade": "A",
+      "specs": {
+        "Upright": "3×3 in, 11-gauge steel",
+        "Hole spacing": "Westside (1 in bench zone)",
+        "Height": "90 in",
+        "Price range": "$621–$1,700 (configured)"
+      },
+      "scores": {
+        "Load capacity": 4.9,
+        "Stability": 4.8,
+        "Versatility": 4.5,
+        "Value": 4.5,
+        "Build quality": 4.6
+      }
+    },
+    {
+      "offerId": "titan-fitness-x-3-power-rack",
+      "badge": "予算11ゲージベスト",
+      "review": "Titan X-3はREPより低い価格で11ゲージ3×3構造を提供——同じ構造スペックティアだがJフックライニングの耐久性とまちまちのカスタマーサービスに関する混在報告がある。予算が制約でREPに届かない場合、X-3が11ゲージ構造を提供する。届くなら品質一貫性はREPの方が優れている。",
+      "pros": [
+        "REPより低い価格での11ゲージ3×3構造",
+        "精密なセーフティポジショニングのための1インチウェストサイドホール間隔",
+        "フルレンジオーバーヘッドプレスとプルアップクリアランスの90インチ高さ"
+      ],
+      "cons": [
+        "Jフックライニングが長期報告で時間とともに移動。カスタマーサービス評判が一貫しない"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Upright": "3×3 in, 11-gauge steel",
+        "Hole spacing": "Westside 1 in",
+        "Height": "90 in",
+        "Price range": "$400–$500"
+      },
+      "scores": {
+        "Load capacity": 4.8,
+        "Stability": 4.5,
+        "Versatility": 4.3,
+        "Value": 4.4,
+        "Build quality": 4.0
+      }
+    },
+    {
+      "offerId": "body-solid-gpr378-power-rack",
+      "badge": "統合ホームジムベスト",
+      "review": "GPR378のベース価格に含まれる統合ラットプルダウン、ローケーブルプーリー、ウェイト収納がスタンドアローンパワーラックとの主要アドバンテージ。2×2インチ12ゲージアップライトは重いバーベル荷重下で3×3 11ゲージより曲がりが大きい——中程度の荷重でのケーブル作業には正解だが、ヘビーパワーリフティングには不向き。",
+      "pros": [
+        "ベース価格に統合ラットプルダウン＋ローケーブルシステム付属",
+        "別途収納機器不要のウェイト収納ペグ",
+        "一つの設置面積で完全なホームジムソリューション"
+      ],
+      "cons": [
+        "2×2インチ12ゲージアップライトが重いバーベル作業で3×3 11ゲージ競合より曲がりが大きい"
+      ],
+      "grade": "B",
+      "specs": {
+        "Upright": "2×2 in, 12-gauge steel",
+        "Includes": "Lat pulldown + low pulley cable",
+        "Weight storage": "Yes",
+        "Price (US)": "~$599"
+      },
+      "scores": {
+        "Load capacity": 4.0,
+        "Stability": 4.2,
+        "Versatility": 4.8,
+        "Value": 4.2,
+        "Build quality": 4.2
+      }
+    },
+    {
+      "offerId": "cap-barbell-fm-8000f-power-rack",
+      "badge": "エントリーレベル予算ベスト",
+      "review": "CAP FM-8000Fは中程度の荷重でのホームトレーニング用クローズドケージ——アップグレード前のスタートポイント。14ゲージアップライトは300ポンドを超える荷重で顕著な曲がりを示し、2インチホール間隔がセーフティバーの精度を制限し、Jフック品質は重使用に耐えない。シリアスな筋力トレーニングの長期解決策としては推奨しない。",
+      "pros": [
+        "クローズドケージフォーマットへの最低価格",
+        "300ポンド以下の初級〜中級荷重で機能的",
+        "4面安全カバレッジを提供するクローズドデザイン"
+      ],
+      "cons": [
+        "14ゲージアップライトが300ポンドを超える荷重で顕著に曲がる。2インチホール間隔がセーフティバーの精度を制限"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Upright": "2×2 in, 14-gauge steel",
+        "Hole spacing": "2 in",
+        "Max load rating": "Moderate (under 300 lbs recommended)",
+        "Price (US)": "~$250"
+      },
+      "scores": {
+        "Load capacity": 3.2,
+        "Stability": 3.5,
+        "Versatility": 3.2,
+        "Value": 4.6,
+        "Build quality": 3.3
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "基準ラックを求めるシリアスなホームジムアスリート向け",
+      "offerId": "rogue-r-3-power-rack",
+      "reason": "11ゲージ3×3アップライト、全体1インチ間隔、ホームジム市場で最も深いアクセサリーエコシステム。"
+    },
+    {
+      "label": "R-3スペックを低価格で求めるアスリート向け",
+      "offerId": "rep-fitness-pr-4000-power-rack",
+      "reason": "Rogue R-3と構造的に同等で15〜20%低いコスト——11ゲージティアで最高コスパ。"
+    },
+    {
+      "label": "11ゲージが必要な予算制限のホームジムビルダー向け",
+      "offerId": "titan-fitness-x-3-power-rack",
+      "reason": "ティアで最低価格での11ゲージ構造——予算がREPに届かない場合。"
+    },
+    {
+      "label": "完全なケーブル・プルダウンシステムを求めるアスリート向け",
+      "offerId": "body-solid-gpr378-power-rack",
+      "reason": "統合ラットプルダウンとローケーブルが一台でフルホームジムを実現——中程度の荷重トレーニングに最適。"
+    },
+    {
+      "label": "安全にバーベル動作を学ぶためのクローズドケージが必要な初心者向け",
+      "offerId": "cap-barbell-fm-8000f-power-rack",
+      "reason": "初級〜中級荷重でバーベル動作を学ぶための最低コストクローズドケージ。"
+    }
+  ]
 }

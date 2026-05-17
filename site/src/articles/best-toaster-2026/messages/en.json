@@ -104,5 +104,64 @@
     "zojirushi-kongari-et-wma22": "Practical commodity pick — 1300 W heater with five preset modes (toast, frozen toast, kashi-pan, croissant reheat, manual temperature), 22 cm internal width, 7-10 year realistic lifespan and 8-10 year parts availability post-discontinuation, 32 cm wide compact footprint. No steam injection — plain toast comes out noticeably drier than steam-injected machines, and habitual shokupan eaters notice within a week; preset modes are basic and the temperature dial does not extend above 250 degrees Celsius limiting frozen-pizza and high-temperature gratin use; design is functional Japanese-appliance and does not earn its counter spot on aesthetics."
   },
   "pinDescription": "Five toasters compared in 2026 from a 9,900 yen Zojirushi practical-tier to a 42,000 yen Panasonic Bistro NT-D700 multi-function. Steam injection vs graphite tube vs convection vs closed-cavity single-slice, electricity cost per slice, counter footprint in a Japanese apartment kitchen, and the maintenance fine print every brand glosses over.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Each toaster was evaluated on heating-element technology (graphite tube vs steam injection vs convection vs sheath heater), bread-type fit for Japanese shokupan versus hard-crust versus multi-function cooking, counter footprint against Japanese apartment kitchen constraints, cleaning burden from long-term owner reviews, and realistic lifespan based on dominant failure modes.",
+  "products": [
+    {
+      "offerId": "balmuda-the-toaster-k11a",
+      "badge": "Best Overall",
+      "review": "The Balmuda K11A's 5 ml steam injection produces a genuinely better crisp-outside, soft-inside shokupan result than any open-cavity toaster — the steam rehydrates the crumb before the heater crisps the crust. The maintenance trade-off is real: the small cavity is hard to clean, the steam nozzle needs periodic descaling, and the steam mechanism is the dominant failure point at 4–6 years.",
+      "pros": ["Steam injection meaningfully improves day-two stale shokupan and frozen croissant", "Five preset modes cover toast, sandwich, pastry, French bread, and oven", "35.7 cm wide footprint fits more Japanese apartment counters than multi-function rivals"],
+      "cons": ["4–6 year realistic lifespan — steam mechanism fails before the heater in most units", "Interior is hard to clean; the 5 ml water cup must be filled before every use"],
+      "grade": "A+",
+      "specs": {"Heating technology": "Steam injection (5 ml water cup)", "Power": "1300 W", "Interior width": "~35.7 cm", "Preset modes": "5 (toast, sandwich, pastry, French, oven)", "Price": "¥30,800", "Lifespan": "4–6 years"},
+      "scores": {"Toast evenness": 4.8, "Speed": 4.0, "Build quality": 4.2, "Value": 3.5, "Slot size": 3.8}
+    },
+    {
+      "offerId": "aladdin-aet-gs13c",
+      "badge": "Best for Hard-Crust Bread",
+      "review": "The Aladdin's graphite tubes hit 250 °C in 0.2 seconds and crisp a baguette surface faster than any steam or sheath-heater machine — the right pick for households whose primary carb is hard-crust French bread. There is no bottom heater, so two-side browning requires manually flipping the slice, and the graphite tubes char crumbs quickly, generating smoke smell faster than any other machine in this comparison.",
+      "pros": ["Graphite tubes reach 250 °C in 0.2 seconds for ultra-fast surface crisping", "Fits a 25 cm pizza or a baguette laid diagonally", "Retro British aesthetic stands out among Japanese appliances"],
+      "cons": ["No bottom heater — manual mid-toast flipping required for even two-side browning", "Graphite tubes char crumbs fast; smoke smell appears sooner than other machines"],
+      "grade": "A",
+      "specs": {"Heating technology": "Front + rear graphite tubes", "Power": "1300 W", "Interior width": "~30 cm diagonal", "Temperature dial": "Low–280 °C", "Price": "¥17,600", "Lifespan": "5–7 years (tube replacement ¥8,000–12,000)"},
+      "scores": {"Toast evenness": 3.8, "Speed": 5.0, "Build quality": 4.0, "Value": 4.2, "Slot size": 4.5}
+    },
+    {
+      "offerId": "mitsubishi-bread-oven-to-st1",
+      "badge": "Best for Solo Shokupan",
+      "review": "The Mitsubishi Bread Oven TO-ST1 is the only toaster that genuinely closes in on fresh-bakery moisture levels for a single shokupan slice — the closed-cavity design traps the bread's own steam for a result no open-cavity machine matches. It makes exactly one slice in four minutes, accepts only shokupan geometry, and at ¥34,000 is only defensible for solo households who eat shokupan as their daily breakfast.",
+      "pros": ["Closed-cavity steam from the bread itself produces near-bakery moisture profile", "Mitsubishi nationwide after-sales service network", "4-minute single-slice cycle tuned specifically for 1.4 cm shokupan"],
+      "cons": ["One slice only — a family of four waits 16+ minutes serial to feed everyone", "Closed cavity accepts shokupan only — no baguette, frozen pizza, or kashi-pan"],
+      "grade": "B+",
+      "specs": {"Heating technology": "Closed-cavity steam (bread's own moisture)", "Power": "1270 W", "Slice capacity": "1 slice at a time", "Cycle time": "~4 min", "Price": "¥34,000", "Target use": "Solo shokupan household"},
+      "scores": {"Toast evenness": 5.0, "Speed": 3.0, "Build quality": 4.5, "Value": 3.0, "Slot size": 2.0}
+    },
+    {
+      "offerId": "panasonic-bistro-nt-d700",
+      "badge": "Best Multi-Function",
+      "review": "The Panasonic Bistro NT-D700 is the only machine in this comparison that genuinely covers toast, 25 cm frozen pizza, gratin, and baked chicken thighs without compromise — convection fan plus dual heating elements from 100 to 260 °C. The 39.8 cm wide footprint is genuinely large for a Japanese apartment counter, and the convection fan adds 50–55 dB of noise during operation.",
+      "pros": ["Convection fan plus 100–260 °C range covers toast to chicken thighs in one machine", "30 cm internal cavity fits a 25 cm pizza or small roast chicken thigh", "Strongest after-sales support via Panasonic nationwide service network"],
+      "cons": ["39.8 cm wide × 32.5 cm deep footprint is large for a Japanese apartment counter", "Convection fan adds 50–55 dB during operation; fan-blade grease needs quarterly cleaning"],
+      "grade": "B",
+      "specs": {"Heating technology": "Convection fan + dual elements", "Power": "1300 W", "Temperature range": "100–260 °C", "Interior width": "~30 cm", "Price": "¥42,000", "Lifespan": "6–8 years"},
+      "scores": {"Toast evenness": 4.3, "Speed": 4.0, "Build quality": 4.7, "Value": 3.8, "Slot size": 5.0}
+    },
+    {
+      "offerId": "zojirushi-kongari-et-wma22",
+      "badge": "Best Value",
+      "review": "The Zojirushi ET-WMA22 does exactly what it says: reliable two-slice toast at the lowest practical price, backed by 7–10 years of typical lifespan and 8–10 years of parts availability. Plain toast comes out noticeably drier than steam-injected machines, and habitual shokupan eaters notice the difference within a week — this is the honest trade-off for paying one-third the Balmuda price.",
+      "pros": ["7–10 year realistic lifespan with 8–10 years of parts post-discontinuation", "Five preset modes cover toast, frozen toast, kashi-pan, croissant, and manual temperature", "32 cm wide compact footprint fits almost any Japanese apartment counter"],
+      "cons": ["No steam injection — plain toast is noticeably drier than Balmuda or Mitsubishi results", "Temperature dial tops at 250 °C — limits frozen pizza and high-temperature gratin"],
+      "grade": "B-",
+      "specs": {"Heating technology": "Sheath heater", "Power": "1300 W", "Interior width": "22 cm (2 slices side-by-side)", "Preset modes": "5", "Price": "¥9,900", "Lifespan": "7–10 years"},
+      "scores": {"Toast evenness": 3.8, "Speed": 3.8, "Build quality": 4.5, "Value": 5.0, "Slot size": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For daily shokupan households", "offerId": "balmuda-the-toaster-k11a", "reason": "Steam injection genuinely improves day-two shokupan from stale to crisp-outside soft-inside — worth the price premium for households that eat shokupan every morning."},
+    {"label": "For baguette and hard-crust bread lovers", "offerId": "aladdin-aet-gs13c", "reason": "Graphite tubes hit 250 °C instantly and crisp hard crusts faster than any other machine — but plan to flip your bread halfway through."},
+    {"label": "For solo shokupan eaters", "offerId": "mitsubishi-bread-oven-to-st1", "reason": "The closed-cavity single-slice result is the closest you can get to bakery-fresh shokupan at home, specifically for one-person households."},
+    {"label": "For households replacing a countertop oven", "offerId": "panasonic-bistro-nt-d700", "reason": "The only machine here that handles a 25 cm frozen pizza, gratin, and chicken thighs without compromise — if you have the counter space."},
+    {"label": "For practical reliability on a budget", "offerId": "zojirushi-kongari-et-wma22", "reason": "Seven to ten year lifespan at ¥9,900 with full Zojirushi after-sales support is the most cost-effective toasting option in this comparison."}
+  ]
 }

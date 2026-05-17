@@ -98,5 +98,184 @@
     "zoff-uv-sunglasses": "Zoff UV Sonnenbrillen mit UV400-Schutz und japanischem Inland-Gestell-Design, kalibriert fuer ostasiatische Gesichtsgeometrie. die optische Qualitaet der Polykarbonat-Glaeser ist adaequat, aber nicht premium; die Stilauswahl ist konservativ; UV400-Konformitaetsdokumentation fuer spezifische Zoff-Modelle ist schwerer unabhaengig zu verifizieren als bei grossen internationalen Marken.",
     "jins-smart-shield": "JINS Smart Shield mit kombinierter UV-blockierender und infrarot-reduzierender Linsenbeschichtung und integrierter Korrektionslinsenkompatibilitaet im gesamten Produktsortiment. die Anti-IR-Beschichtung fuer Bildschirmschutz ist nicht von einem Drittanbieter-Normungskoerper auf demselben Niveau wie UV400-Zertifizierungen validiert; Gestelle sind Polykarbonat-dominiert und haben nicht die Premium-Haptik von Acetat."
   },
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "Jede Fassung wurde nach UV-Schutzstandard und Nachweisbarkeit, Linsenoptikqualität über das gesamte Sichtfeld einschließlich Peripherie, Tragstabilität auf westlicher und ostasiatischer Gesichtsgeometrie ohne Modifikation, Preis-Leistungs-Verhältnis und langfristiger Haltbarkeit von Fassungsmaterial und Linsenbeschichtung bewertet.",
+  "products": [
+    {
+      "offerId": "rayban-wayfarer-classic",
+      "badge": "Gesamtbester",
+      "review": "Ray-Bans acetate RB2140 Wayfarer hat echte Vorteile für den täglichen Gebrauch — UV400-Standard für alle Linsenoptionen, polarisiertes Upgrade verfügbar, und die zeitlose Form. Das Fehlen einer offiziellen Asian-Fit-Variante und das Verrutschen am Nasensattel sind reale Einschränkungen, die vor dem Kauf getestet werden sollten.",
+      "pros": [
+        "Schlüsselloch-Nasensteg ist toleranter gegenüber niedrigeren Nasenstegen als Sattelsteg-Designs",
+        "Acetate-Rahmenqualität und ästhetische Langlebigkeit, die Polycarbonat-Rahmen zu diesem Preis nicht bieten",
+        "UV400-Standard für alle Linsenoptionen mit polarisiertem Upgrade für Autofahren und Outdoor"
+      ],
+      "cons": [
+        "Keine offizielle Asian-Fit-Variante für RB2140; Rahmen rutscht auf der meisten ostasiatischen Gesichtsgeometrie ohne Modifikation"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Frame material": "Cellulose acetate",
+        "Lens material": "Glass (standard) / Polarized glass (upgrade)",
+        "UV protection": "UV400",
+        "Nose bridge": "Keyhole (fixed)",
+        "Asian Fit available": "No (RB2140)",
+        "Polarized option": "Yes (price premium)",
+        "Price": "$163"
+      },
+      "scores": {
+        "UV protection": 4.8,
+        "Lens clarity": 4.5,
+        "Fit": 3.8,
+        "Value": 3.9,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "oakley-holbrook",
+      "badge": "Bestes für Sport",
+      "review": "Oakleys O-Matter-Polycarbonat-Rahmen und optionale Prizm-Linsentechnologie sind echte Leistungsvorteile für den Sport. Die Prizm Road, Snow und Water Varianten verbessern den Kontrast für spezifische Umgebungen erheblich. Der Sattelsteg sitzt hoch auf den meisten asiatischen Gesichtern und rutscht ohne Nasenpolster-Modifikation (~¥1.000).",
+      "pros": [
+        "Prizm Linservarianten verbessern den Kontrast für spezifische Umgebungen — Road, Snow, Water liefern echten Nutzen",
+        "O-Matter-Rahmen ist stoßfest und leicht — die beste Sport-Haltbarkeit in diesem Vergleich",
+        "Three-Point Fit greift an Nase und Schläfen ohne Druckpunkte für aktive Nutzung"
+      ],
+      "cons": [
+        "Sattelsteg sitzt auf den meisten ostasiatischen Gesichtsformen zu hoch — Nasenpolster-Modifikation fast immer nötig"
+      ],
+      "grade": "A",
+      "specs": {
+        "Frame material": "O-Matter (polycarbonate variant)",
+        "Lens material": "Plutonite polycarbonate",
+        "UV protection": "UV400 (100% UVA/UVB/UVC)",
+        "Nose bridge": "Saddle (fixed)",
+        "Asian Fit available": "Some models (not standard Holbrook)",
+        "Prizm option": "Yes (multiple activity variants)",
+        "Price": "$197"
+      },
+      "scores": {
+        "UV protection": 5.0,
+        "Lens clarity": 4.3,
+        "Fit": 3.5,
+        "Value": 3.8,
+        "Durability": 4.9
+      }
+    },
+    {
+      "offerId": "maui-jim-peahi",
+      "badge": "Beste Optische Klarheit",
+      "review": "Maui Jims SuperThin-Glas-Polarisationslinsen mit PolarizedPlus2-Doppelseitenbeschichtung liefern die höchste optische Qualität in diesem Vergleich — minimale periphere Verzerrung, echte Farbgenauigkeit. Das Glasgewicht und der ¥30.000+-Preis in Japan sind reale Kompromisse.",
+      "pros": [
+        "SuperThin-Glaslinsen erzeugen die geringste periphere Verzerrung jeder Linse in diesem Vergleich",
+        "PolarizedPlus2-Beschichtung behandelt auch Reflexionen von hinten — normale polarisierte Linsen tun das nicht",
+        "Beste Wasser- und Angelvisibilität — wirklich anders als Polycarbonat unter Schrägblickwinkeln"
+      ],
+      "cons": [
+        "Glaslinsen zersplittern bei Aufprall — ungeeignet für Sport; ¥30.000+ in Japan; kein Rezept-Service oder Asian Fit im inländischen Handel"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Frame material": "Injected nylon",
+        "Lens material": "SuperThin glass (polarized)",
+        "UV protection": "UV400",
+        "Nose bridge": "Saddle",
+        "Asian Fit available": "Select models, hard to find in Japan",
+        "Polarized": "Yes (PolarizedPlus2)",
+        "Price": "$289"
+      },
+      "scores": {
+        "UV protection": 5.0,
+        "Lens clarity": 5.0,
+        "Fit": 3.2,
+        "Value": 3.0,
+        "Durability": 3.5
+      }
+    },
+    {
+      "offerId": "zoff-uv-sunglasses",
+      "badge": "Bestes Asiatisches Fit Budget",
+      "review": "Zoffs Japan-Inlandsrahmen sind für niedrigere Nasenstege und breitere ostasiatische Gesichtsbreiten konstruiert — der Sitz ist ohne Nachmarkt-Modifikation von Anfang an stabil. UV400-konform mit polarisierten Optionen ab ¥4.000–¥8.000 und Same-Day-Rezept-Service in allen Japan-Stores. Die optische Qualität der Linsen ist ausreichend, aber nicht Premium.",
+      "pros": [
+        "Für ostasiatische Gesichtsgeometrie konzipiert — stabiler Sitz auf niedrigeren Nasenstegen ohne Modifikation",
+        "Same-Day-Rezept-Sonnenbrillen in allen japanischen Einzelhandelsstandorten ab ca. ¥5.000",
+        "Polarisierte Optionen zum niedrigsten Preis jeder Option in diesem Vergleich"
+      ],
+      "cons": [
+        "Polycarbonate optische Qualität zeigt mehr periphere Verzerrung als Premiumglas oder High-End-Polycarbonat"
+      ],
+      "grade": "B",
+      "specs": {
+        "Frame material": "Various (plastic/TR-90)",
+        "Lens material": "Polycarbonate",
+        "UV protection": "UV400",
+        "Nose bridge": "Low-profile (East Asian fit)",
+        "Prescription available": "Yes — same-day at all Japan stores",
+        "Polarized option": "Yes (from ¥4,000)",
+        "Price": "¥5,500 typical"
+      },
+      "scores": {
+        "UV protection": 4.5,
+        "Lens clarity": 3.8,
+        "Fit": 4.9,
+        "Value": 4.8,
+        "Durability": 3.9
+      }
+    },
+    {
+      "offerId": "jins-smart-shield",
+      "badge": "Bestes für Brillenträger",
+      "review": "JINS Smart Shield kombiniert UV-Blocking und Infrarotreduktion mit Rezeptkompatibilität über die gesamte Produktpalette — Same-Day-Rx in Japan-Stores und NXT-Trivex-Upgrade verfügbar für bessere optische Qualität. Der Anti-IR-Beschichtungsanspruch ist nicht unabhängig auf demselben Niveau wie UV400-Zertifizierungen validiert.",
+      "pros": [
+        "Eingebaute Rezeptkompatibilität mit Same-Day-Rx in JINS Japan-Stores",
+        "NXT-Trivex-Linsen-Upgrade in den meisten Standorten für bessere optische Qualität als Polycarbonat",
+        "Kombiniertes UV- und IR-Blocksystem für Sonnenlicht- und Bildschirmexposition in einer Linse"
+      ],
+      "cons": [
+        "Anti-IR-Bildschirmschutz-Beschichtung wurde nicht von einer dritten optischen Normungsorganisation auf demselben Niveau wie UV400-Zertifizierungen validiert"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Frame material": "Polycarbonate / TR-90",
+        "Lens material": "Polycarbonate (NXT Trivex upgrade available)",
+        "UV protection": "UV400",
+        "IR protection": "Yes (proprietary coating)",
+        "Nose bridge": "Low-profile (East Asian fit)",
+        "Prescription available": "Yes — same-day at Japan stores",
+        "Price": "¥6,600 typical"
+      },
+      "scores": {
+        "UV protection": 4.6,
+        "Lens clarity": 3.9,
+        "Fit": 4.8,
+        "Value": 4.6,
+        "Durability": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für täglichen Freizeitgebrauch mit zeitlosem Stil",
+      "offerId": "rayban-wayfarer-classic",
+      "reason": "Der Acetat-Rahmen und der Schlüsselloch-Nasensteg kombinieren Premium-Ästhetik mit einer polarisierten Upgrade-Option — bester Allzweck-Pick für Fahrer ohne ungewöhnlich niedrige Nasenstege."
+    },
+    {
+      "label": "Für Sport und Hochaktivitäts-Outdoor-Nutzung",
+      "offerId": "oakley-holbrook",
+      "reason": "Prizm-Linsentechnologie und O-Matter-Haltbarkeit sind echte Leistungsvorteile für den Sport — fügen Sie ein ¥1.000 Nasenpolster-Kit hinzu, wenn Ihr Nasensteg niedrig ist."
+    },
+    {
+      "label": "Für Wasser, Angeln und optische Klarheit als oberste Priorität",
+      "offerId": "maui-jim-peahi",
+      "reason": "Glass PolarizedPlus2-Linsen erzeugen eine Sichtbarkeit durch Wasser, die Polycarbonat nicht erreichen kann — die richtige Wahl, wenn was Sie durch die Linse sehen, mehr zählt als Gewicht."
+    },
+    {
+      "label": "Für ostasiatische Gesichtsformen, die ein stabiles Fit-Budget-Budget brauchen",
+      "offerId": "zoff-uv-sunglasses",
+      "reason": "Entwickelt für niedrigere Nasenstege und breitere ostasiatische Gesichtsbreiten — stabiler UV400-Schutz, der ohne Modifikation korrekt sitzt."
+    },
+    {
+      "label": "Für Brillenträger, die täglich UV-Sonnenbrillen brauchen",
+      "offerId": "jins-smart-shield",
+      "reason": "Same-Day-Rx-Sonnenbrillen mit NXT-Trivex-Upgrade verfügbar — bequemster und kostengünstigster Einstiegspunkt für Korrekturlinsenträger in Japan."
+    }
+  ]
 }

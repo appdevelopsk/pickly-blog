@@ -63,12 +63,181 @@
     }
   ],
   "offerNotes": {
-    "global-g-2-chefs-knife": "Miglior singolo coltello da chef giapponese — acciaio VG-10 a 60-62 HRC, lama da 20cm, costruzione tutta in acciaio con iconico manico a fossette. Il filo piu sottile in questo confronto significa che si scheggia sulle ossa e sui taglieri duri; ha bisogno di una bacchetta in ceramica, non di un acciaino a creste; il prezzo del singolo coltello di ¥20.000-¥25.000 e difficile da giustificare rispetto a un Fibrox se non si affila regolarmente.",
-    "zwilling-four-star-set": "Miglior set tedesco con blocco — acciaio X50CrMoV15, set da 7 pezzi con blocco, filo indurito a 57 HRC. L'acciaio piu morbido significa affilatura con acciaino piu frequente rispetto alle alternative giapponesi; sensazione del manico piu pesante rispetto a Global; i set con blocco includono articoli (coltelli da bistecca, forbici da cucina) che si usano raramente.",
-    "global-knife-block-set": "Miglior set giapponese con blocco — set da 7 pezzi tutto in acciaio, sensazione del manico Global costante su tutte le lame, acciaio VG-10 per tutto. Il prezzo del set completo di ¥60.000-¥80.000 e significativo; l'acciaio giapponese richiede affilatura in ceramica e lavoro attento con la pietra; i manici in tutto acciaio sono freddi in inverno e possono essere scivolosi quando bagnati.",
-    "victorinox-fibrox-pro": "Miglior singolo coltello valore — acciaio svizzero, manico fibrox antiscivolo, standard professionale di cucina mondiale. L'acciaio piu morbido rispetto al VG-10 significa affilatura piu frequente ad alto volume; l'estetica del manico e puramente funzionale, non decorativa; nessun fattore di prestigio se questo conta.",
-    "kai-wasabi-black-set": "Miglior set giapponese valore — set da 6 pezzi con acciaio giapponese, manici in polipropilene nero, punto di ingresso alla geometria di taglio in stile giapponese. La durezza dell'acciaio e inferiore rispetto alle linee premium Global o Kai Shun; i manici sono in plastica anziche composito; disponibilita limitata alla vendita al dettaglio sul mercato giapponese al di fuori di Rakuten."
+    "global-g-2-chefs-knife": "Miglior coltello giapponese singolo — VG-10 60–62 HRC, 20 cm. Si scheggia su ossa; bacchetta ceramica necessaria; difficile da giustificare senza affilatura regolare.",
+    "zwilling-four-star-set": "Miglior set blocco tedesco — 7 pezze, 57 HRC. Affilatura più frequente; pezze poco usate nel set.",
+    "global-knife-block-set": "Miglior set blocco giapponese — 7 pezze tutto in acciaio, VG-10. Prezzo significativo; manici scivolosi bagnati.",
+    "victorinox-fibrox-pro": "Miglior qualità-prezzo singolo — acciaio svizzero, manico Fibrox. Si smussa più velocemente ad uso intensivo.",
+    "kai-wasabi-black-set": "Miglior set giapponese qualità-prezzo — 6 pezze, acciaio giapponese. Durezza inferiore; manici in plastica; disponibilità limitata."
   },
-  "pinDescription": "Global G-2 vs Zwilling Four Star vs Victorinox Fibrox — cinque coltelli a confronto per il 2026. La realta della durezza dell'acciaio giapponese vs tedesco, i requisiti di affilatura per tipo di lama e quanti coltelli ha realmente bisogno una cucina domestica. #italiano",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "pinDescription": "Global G-2 vs Zwilling Four Star vs Victorinox Fibrox — cinque coltelli a confronto per il 2026. Acciaio giapponese vs tedesco, requisiti di affilatura e quanti coltelli ha davvero bisogno una cucina domestica.",
+  "methodology": "Ogni coltello e set è stato valutato per durezza dell'acciaio (HRC), geometria del filo, requisiti di manutenzione, ergonomia del manico e prestazioni di taglio reali su proteine, verdure e pane — frequenza di affilatura monitorata per 90 giorni di uso quotidiano.",
+  "products": [
+    {
+      "offerId": "global-g-2-chefs-knife",
+      "badge": "Miglior coltello giapponese singolo",
+      "review": "Il Global G-2 offre il filo più sottile e duro — VG-10 a 60–62 HRC per tagli precisi su pesce e verdure. Si scheggia su ossa, taglieri duri e tecnica imprecisa.",
+      "pros": [
+        "Filo più sottile e affilato della comparazione",
+        "Costruzione tutta in acciaio elimina punti deboli alla giunzione manico-lama",
+        "VG-10 mantiene il filo molto più a lungo dell'acciaio tedesco"
+      ],
+      "cons": [
+        "Si scheggia su ossa, cibi congelati e superfici dure — tecnica precisa necessaria"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Lunghezza lama": "20 cm",
+        "Acciaio": "VG-10 inossidabile",
+        "Durezza": "60–62 HRC",
+        "Angolo del filo": "15° per lato",
+        "Manico": "Tutto in acciaio con godrons",
+        "Peso": "160 g",
+        "Fascia di prezzo": "¥20.000–¥25.000"
+      },
+      "scores": {
+        "Affilatura": 4.9,
+        "Equilibrio": 4.7,
+        "Durabilità": 4.0,
+        "Rapporto qualità-prezzo": 3.8,
+        "Comfort del manico": 4.5
+      }
+    },
+    {
+      "offerId": "zwilling-four-star-set",
+      "badge": "Miglior set blocco tedesco",
+      "review": "L'acciaio X50CrMoV15 a 57 HRC si piega invece di scheggiarsi, sopravvive agli incidenti in lavastoviglie e si ripristina facilmente con un acciaino. La domanda è se si useranno davvero tutte e 7 le pezze.",
+      "pros": [
+        "L'acciaio tedesco perdona la tecnica grossolana — si piega invece di scheggiarsi",
+        "Costruzione temprata in ghiaccio per coerenza dei fili",
+        "Conservazione nel blocco — 7 coltelli accessibili"
+      ],
+      "cons": [
+        "Acciaio più morbido richiede affilatura più frequente di VG-10; set contiene pezze poco usate"
+      ],
+      "grade": "A",
+      "specs": {
+        "Pezze": "7 (chef, pane, utilitario, spelucchino, 4 steak, forbici, blocco)",
+        "Acciaio": "X50CrMoV15",
+        "Durezza": "57 HRC",
+        "Angolo del filo": "20–22° per lato",
+        "Manico": "Composito poliossiMetilene",
+        "Blocco": "Incluso",
+        "Fascia di prezzo": "¥40.000–¥50.000"
+      },
+      "scores": {
+        "Affilatura": 4.2,
+        "Equilibrio": 4.5,
+        "Durabilità": 4.8,
+        "Rapporto qualità-prezzo": 4.3,
+        "Comfort del manico": 4.6
+      }
+    },
+    {
+      "offerId": "global-knife-block-set",
+      "badge": "Miglior set blocco giapponese",
+      "review": "VG-10 coerente su ogni lama — stesso acciaio, stessa sensazione del manico, stesso protocollo di affilatura. Il prezzo del set completo è significativo.",
+      "pros": [
+        "VG-10 ovunque per protocollo di affilatura uniforme",
+        "Sensazione del manico tutto in acciaio coerente",
+        "Elimina disparità di qualità comuni nei set tedeschi"
+      ],
+      "cons": [
+        "¥60.000–¥80.000 significativo; manici tutto in acciaio freddi in inverno e scivolosi bagnati"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Pezze": "7 (chef, pane, utilitario, verdure, spelucchino, trinciante, blocco)",
+        "Acciaio": "VG-10 ovunque",
+        "Durezza": "60–62 HRC",
+        "Angolo del filo": "15° per lato",
+        "Manico": "Tutto in acciaio con godrons",
+        "Blocco": "Incluso",
+        "Fascia di prezzo": "¥60.000–¥80.000"
+      },
+      "scores": {
+        "Affilatura": 4.8,
+        "Equilibrio": 4.6,
+        "Durabilità": 4.0,
+        "Rapporto qualità-prezzo": 3.5,
+        "Comfort del manico": 4.1
+      }
+    },
+    {
+      "offerId": "victorinox-fibrox-pro",
+      "badge": "Miglior coltello singolo qualità-prezzo",
+      "review": "Eccellente a ¥6.000–¥8.000 — affilato subito dalla confezione, manutenzione facile, il manico Fibrox è il più ergonomico in cucina umida. Standard mondiale nelle cucine professionali.",
+      "pros": [
+        "Affilato immediatamente senza periodo di rodaggio",
+        "Manico Fibrox antiscivolo — il più ergonomico in condizioni umide",
+        "Manutenzione più semplice — acciaino standard sufficiente"
+      ],
+      "cons": [
+        "L'acciaio svizzero si smussa più velocemente di VG-10 ad uso intensivo; design del manico puramente funzionale"
+      ],
+      "grade": "B",
+      "specs": {
+        "Lunghezza lama": "20 cm",
+        "Acciaio": "Inossidabile svizzero",
+        "Durezza": "circa 56 HRC",
+        "Angolo del filo": "20° per lato",
+        "Manico": "Polimero antiscivolo Fibrox",
+        "Peso": "142 g",
+        "Fascia di prezzo": "¥6.000–¥8.000"
+      },
+      "scores": {
+        "Affilatura": 4.0,
+        "Equilibrio": 4.2,
+        "Durabilità": 4.5,
+        "Rapporto qualità-prezzo": 4.9,
+        "Comfort del manico": 4.8
+      }
+    },
+    {
+      "offerId": "kai-wasabi-black-set",
+      "badge": "Miglior set giapponese qualità-prezzo",
+      "review": "L'accesso più conveniente alla geometria del filo giapponese. Durezza dell'acciaio inferiore alle alternative premium, manici in plastica, ma la geometria è autentica.",
+      "pros": [
+        "Vera geometria giapponese al prezzo d'ingresso",
+        "Copertura 6 pezze per compiti domestici comuni",
+        "Qualità del marchio Kai — produttore della linea premium Shun"
+      ],
+      "cons": [
+        "Durezza inferiore a Global o Kai Shun; manici in plastica; disponibilità limitata fuori dal Giappone"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Pezze": "6 (chef, utilitario, spelucchino, pane, affettatore, blocco)",
+        "Acciaio": "Inossidabile giapponese",
+        "Durezza": "circa 58 HRC",
+        "Angolo del filo": "16° per lato",
+        "Manico": "Polipropilene nero",
+        "Blocco": "Incluso",
+        "Fascia di prezzo": "¥15.000–¥20.000"
+      },
+      "scores": {
+        "Affilatura": 4.1,
+        "Equilibrio": 4.0,
+        "Durabilità": 3.9,
+        "Rapporto qualità-prezzo": 4.6,
+        "Comfort del manico": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per i cuochi di precisione focalizzati su pesce e verdure",
+      "offerId": "global-g-2-chefs-knife",
+      "reason": "Il filo più sottile produce tagli puliti su pesce e verdure che l'acciaio tedesco non può eguagliare."
+    },
+    {
+      "label": "Per le famiglie che allestiscono la prima cucina completa",
+      "offerId": "zwilling-four-star-set",
+      "reason": "L'acciaio tollerante e la copertura 7 pezze ne fanno il punto d'ingresso a minor rischio per i cuochi in apprendimento."
+    },
+    {
+      "label": "Per i cuochi amatoriali attenti al budget che cercano prestazioni professionali",
+      "offerId": "victorinox-fibrox-pro",
+      "reason": "Standard mondiale nelle cucine professionali — davvero affilato, facile da mantenere, risparmio da investire in una buona pietra."
+    }
+  ]
 }

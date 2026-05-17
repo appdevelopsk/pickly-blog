@@ -58,5 +58,84 @@
     "marcy-diamond-leg-press": "Trenó a 45 graus de nível básico, aço bitola 14, certificado a 600 lb. $300-450. Opção básica de nível de entrada -- adequada para uso doméstico leve e reabilitação. Não recomendada para treinamento de leg press de alto volume ou peso a longo prazo."
   },
   "pinDescription": "Máquina de leg press 2026: Body-Solid GLPH1100 vs Valor BD-62 vs REP LP-5000 vs Titan V2 -- mecânica do trenó a 45 graus explicada, posição dos pés para ênfase em quadríceps vs glúteos, máquinas combinadas de leg press vs hack squat e qual leg press com anilhas vale a pena comprar para sua academia em casa. #LegPress #AcademiaEmCasa #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada produto foi avaliado em cinco critérios: qualidade de construção, desempenho em uso típico, durabilidade ao longo do tempo, conforto e custo-benefício. Ponderamos desempenho e durabilidade com maior peso porque determinam se um produto ainda é útil 12 meses depois.",
+  "products": [
+    {
+      "offerId": "body-solid-leg-press-hack-squat",
+      "badge": "Melhor geral",
+      "review": "A dupla função de leg press e hack squat em uma única máquina é a proposta mais inteligente na faixa de preço. Os rolamentos lineares oferecem um deslizamento do trenó excepcionalmente suave sob carga pesada, e a capacidade de 1.000 lb supera amplamente o que qualquer usuário doméstico precisará. A construção de nível comercial significa que durará uma década com uso regular.",
+      "pros": ["Dupla função: leg press + hack squat em uma só máquina", "Rolamentos lineares para deslizamento suave do trenó", "Capacidade de 1.000 lb — supera as necessidades de qualquer academia em casa"],
+      "cons": ["Sem função de hack squat, o REP LP-5000 oferece melhor amplitude de movimento como leg press dedicado"],
+      "grade": "A+",
+      "specs": {"Tipo": "Leg press / hack squat combo", "Capacidade": "1.000 lb", "Sistema de trenó": "Rolamentos lineares", "Preço": "$700-900"},
+      "scores": {"Qualidade de construção": 4.8, "Durabilidade": 4.8, "Capacidade de carga": 5.0, "Versatilidade": 5.0, "Custo-benefício": 4.5}
+    },
+    {
+      "offerId": "valor-fitness-bd-62-leg-press",
+      "badge": "Melhor custo-benefício",
+      "review": "A Valor BD-62 oferece a menor pegada de todas as opções e fica dentro do orçamento sem comprometer a função básica. O sistema de haste guia de nylon é adequado para cargas moderadas, embora seja menos suave que rolamentos lineares sob carga pesada. Correta para atletas treinando com menos de 300 lbs de anilhas.",
+      "pros": ["Menor pegada — ideal para espaços pequenos", "Preço mais acessível da categoria", "Sistema de haste guia de baixa manutenção"],
+      "cons": ["Limitada a 400 lb de carga — não adequada para treinamento sério com peso pesado", "Deslizamento do trenó menos suave que opções com rolamentos"],
+      "grade": "A",
+      "specs": {"Tipo": "Leg press a 45°", "Capacidade": "400 lb carregado", "Sistema de trenó": "Hastes guia de nylon", "Preço": "$500-650"},
+      "scores": {"Qualidade de construção": 3.5, "Durabilidade": 3.5, "Capacidade de carga": 3.0, "Facilidade de uso": 4.0, "Custo-benefício": 4.8}
+    },
+    {
+      "offerId": "rep-fitness-lp-5000-leg-press",
+      "badge": "Melhor leg press dedicado",
+      "review": "O LP-5000 é o melhor leg press dedicado se você não precisar da função de hack squat. A plataforma maior, maior amplitude de movimento e sistema de carro de 4 rolos o diferenciam da concorrência. Os ângulos de encosto ajustáveis permitem personalizar a posição de acordo com a biomecânica individual.",
+      "pros": ["Plataforma grande com superior amplitude de movimento", "Sistema de carro de 4 rolos para deslizamento suave", "Ângulo de encosto ajustável para diferentes posições"],
+      "cons": ["Mais caro que o Body-Solid sem a função de hack squat"],
+      "grade": "B+",
+      "specs": {"Tipo": "Leg press dedicado a 45°", "Capacidade": "Não especificada", "Sistema de trenó": "Carro de 4 rolos", "Preço": "$800-1.000"},
+      "scores": {"Qualidade de construção": 4.7, "Durabilidade": 4.7, "Capacidade de carga": 4.8, "Facilidade de uso": 4.5, "Custo-benefício": 4.0}
+    },
+    {
+      "offerId": "titan-fitness-leg-press-v2",
+      "badge": "Alternativa econômica",
+      "review": "O Titan V2 oferece capacidade de carga de 1.000 lb a um preço mais baixo que o REP, tornando-se uma opção razoável para quem busca função básica sem o custo adicional. O deslizamento do trenó é ligeiramente mais áspero que o REP devido à qualidade inferior dos rolamentos, mas a estrutura é sólida para uso doméstico.",
+      "pros": ["Capacidade de carga de 1.000 lb a preço mais acessível que REP", "Rolamentos lineares (melhor que hastes guia de nylon)", "Estrutura estruturalmente adequada"],
+      "cons": ["Deslizamento do trenó mais áspero que REP ou Body-Solid", "Sem função de hack squat"],
+      "grade": "B",
+      "specs": {"Tipo": "Leg press dedicado a 45°", "Capacidade": "1.000 lb", "Sistema de trenó": "Rolamentos lineares", "Preço": "$600-800"},
+      "scores": {"Qualidade de construção": 4.0, "Durabilidade": 4.0, "Capacidade de carga": 4.8, "Facilidade de uso": 4.0, "Custo-benefício": 4.3}
+    },
+    {
+      "offerId": "marcy-diamond-leg-press",
+      "badge": "Opção básica",
+      "review": "A Marcy Diamond MD-9060G é a opção de nível básico para orçamentos muito apertados. A estrutura de aço bitola 14 é adequada para uso leve, mas o trenó pode parecer instável sob carga pesada. Adequada para reabilitação ou uso ocasional, não para programas de alta intensidade.",
+      "pros": ["Menor preço da categoria", "Suficiente para reabilitação e uso leve"],
+      "cons": ["Aço bitola 14 — a estrutura mais leve do grupo", "O trenó pode parecer instável sob carga pesada", "Não recomendada para treinamento sério a longo prazo"],
+      "grade": "B-",
+      "specs": {"Tipo": "Leg press básico a 45°", "Capacidade": "600 lb", "Estrutura": "Aço bitola 14", "Preço": "$300-450"},
+      "scores": {"Qualidade de construção": 2.8, "Durabilidade": 2.8, "Capacidade de carga": 3.0, "Facilidade de uso": 3.8, "Custo-benefício": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {
+      "profile": "Atleta de academia em casa que quer leg press e hack squat",
+      "pick": "body-solid-leg-press-hack-squat",
+      "reason": "Dois movimentos em uma só máquina por menos de $900 — a melhor relação preço/funcionalidade disponível para academias em casa."
+    },
+    {
+      "profile": "Atleta com orçamento apertado ou espaço limitado",
+      "pick": "valor-fitness-bd-62-leg-press",
+      "reason": "Menor pegada e preço baixo, suficiente para treinar com cargas moderadas sem ocupar muito espaço."
+    },
+    {
+      "profile": "Atleta sério que quer apenas leg press com a melhor amplitude de movimento",
+      "pick": "rep-fitness-lp-5000-leg-press",
+      "reason": "Plataforma maior, amplitude de movimento superior e carro de 4 rolos fazem do LP-5000 o melhor leg press dedicado para treinamento de hipertrofia."
+    },
+    {
+      "profile": "Atleta que busca alta capacidade de carga sem pagar preço premium",
+      "pick": "titan-fitness-leg-press-v2",
+      "reason": "1.000 lb de capacidade a preço mais acessível que o REP — função adequada se não precisar de hack squat nem do deslizamento mais suave."
+    },
+    {
+      "profile": "Reabilitação ou uso leve ocasional",
+      "pick": "marcy-diamond-leg-press",
+      "reason": "O menor preço da categoria cumpre para cargas leves e trabalho de reabilitação de joelho."
+    }
+  ]
 }

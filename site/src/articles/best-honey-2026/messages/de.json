@@ -58,5 +58,64 @@
     "wholesome-organic-raw-honey": "Bio-Rohhonig, fair-trade-zertifiziert, 16 oz. $12-18. Bester bio-zertifizierter Rohhonig — fair-trade-Herkunft, milder Geschmack, Bio-Zertifizierung. Richtig fuer Kaeufer, die neben Rohverarbeitung Bio und fair trade priorisieren."
   },
   "pinDescription": "Honig 2026: Manuka-Honig UMF vs MGO erklaert, Comvita vs Wedderspoon KFactor Vergleich, Unterschiede Rohhonig vs verarbeiteter Honig, wann Manuka den Preis wirklich wert ist und bester Honig fuer den Alltag 2026. #Honig #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jedes Produkt wurde nach Strenge der Zertifizierung, Geschmackskonsistenz zwischen Chargen, Preis pro Portion, Herkunftstransparenz und Alltagstauglichkeit für den jeweiligen Verwendungszweck bewertet.",
+  "products": [
+    {
+      "offerId": "comvita-manuka-honey-umf10",
+      "badge": "Bester Gesamtsieger",
+      "review": "Comvita UMF 10+ ist der vertrauenswürdigste zertifizierte Manuka auf dem Markt — das UMF-System prüft sowohl MGO-Konzentration als auch Echtheitsnachweise unabhängig, was das Betrugsrisiko günstiger Manuka-Etiketten ausschaltet. Für 250 g kostet er $26–40, was viel ist, aber dokumentiertes MGO 263+ und globale Chargenverfolgbarkeit rechtfertigt den Preis. Ehrliche Einschränkung: 250 g sind im Alltag als Süßungsmittel schnell aufgebraucht.",
+      "pros": ["UMF-Zertifizierung prüft MGO und Echtheit unabhängig", "Weltweite Verfügbarkeit mit konstanter Chargenqualität", "Mittleres MGO 263+ für allgemeinen Wellnessgebrauch geeignet"],
+      "cons": ["$26–40 für 250 g macht täglichen Gebrauch teuer"],
+      "grade": "A+",
+      "specs": {"Sorte": "Manuka", "Zertifizierung": "UMF 10+", "MGO": "263+", "Füllmenge": "250 g", "Herkunft": "Neuseeland", "Verarbeitung": "Roh"},
+      "scores": {"Geschmack": 4.7, "Reinheit": 5.0, "Preiswert": 3.5, "Textur": 4.5, "Vielseitigkeit": 4.0}
+    },
+    {
+      "offerId": "wedderspoon-manuka-kfactor16",
+      "badge": "Bester zugänglicher Manuka",
+      "review": "Wedderspoon KFactor 16 bestätigt, dass mindestens 75 % des Pollens von Manuka-Blüten stammt — das belegt die Blütenquelle, gibt aber keinen MGO-Wert an. Ein legitimes Produkt zu einem günstigeren Preis als UMF-zertifizierter Manuka. Wichtig: KFactor 16 lässt sich nicht direkt in eine UMF-Bewertung umrechnen.",
+      "pros": ["Pollenbasierter Manuka-Nachweis günstiger als UMF-Produkte", "11,4 oz bietet mehr Volumen als die meisten Manuka-Optionen", "Breit im Lebensmittelhandel erhältlich"],
+      "cons": ["KFactor nennt keinen MGO-Wert — weniger präzise als UMF"],
+      "grade": "A",
+      "specs": {"Sorte": "Manuka", "Zertifizierung": "KFactor 16", "Pollen": "75 %+ Manuka", "Füllmenge": "11,4 oz (323 g)", "Herkunft": "Neuseeland", "Verarbeitung": "Roh"},
+      "scores": {"Geschmack": 4.5, "Reinheit": 4.3, "Preiswert": 4.2, "Textur": 4.4, "Vielseitigkeit": 4.0}
+    },
+    {
+      "offerId": "nature-nates-raw-honey",
+      "badge": "Bester Alltags-Rohhonig",
+      "review": "Nature Nate's ist die richtige Antwort für den Alltag: US-Herkunft, ungefiltert, unerhitzt, unabhängig geprüft und unter $10 für 16 oz. Der milde Kleegeschmack ist genau das, was man als dezentes Süßungsmittel in Tee, Joghurt oder Salatsauce braucht. Nichts Exotisches — und genau das ist der Vorteil.",
+      "pros": ["Nachverfolgbare US-Herkunft mit unabhängiger Rohprüfung", "Milder Kleegeschmack für viele Küchenzwecke geeignet", "Alltagstauglicher Preis für dauerhaften Verbrauch"],
+      "cons": ["Weniger komplexer Geschmack als sortenreiner oder regionaler Honig"],
+      "grade": "B+",
+      "specs": {"Sorte": "Klee", "Zertifizierung": "Roh/Ungefiltert", "Füllmenge": "16 oz (454 g)", "Herkunft": "USA", "Verarbeitung": "Unerhitzt, ungefiltert", "Behälter": "Squeeze-Flasche"},
+      "scores": {"Geschmack": 4.0, "Reinheit": 4.5, "Preiswert": 4.8, "Textur": 4.0, "Vielseitigkeit": 4.7}
+    },
+    {
+      "offerId": "ys-eco-bee-raw-honey",
+      "badge": "Bester ungefiltert-dicker Rohhonig",
+      "review": "Y.S. Eco Bee Farms bietet ein spürbar anderes Rohhonig-Erlebnis — dickflüssig, trüb, mit sichtbaren Propolis- und Pollenpartikeln als Beleg minimaler Verarbeitung. Der Geschmack ist kräftiger als bei Nature Nate's und neigt zu Erdigem und Komplexem. 22 oz USDA-Bio für ca. $12–18 ist ein guter Gegenwert. Bei Kälte kann die Textur schwer zu schöpfen werden; den Glas kurz in warmem Wasser stellen hilft.",
+      "pros": ["Sichtbare Propolis und Pollen belegen ungefilterter Verarbeitung", "USDA-Bio-Zertifizierung", "22-oz-Größe bietet guten Preis pro Unze"],
+      "cons": ["Dickflüssige Textur kann bei kühleren Temperaturen schwer zu dosieren sein"],
+      "grade": "B",
+      "specs": {"Sorte": "Wildblumen-Mix", "Zertifizierung": "USDA Bio, Roh", "Füllmenge": "22 oz (624 g)", "Herkunft": "USA", "Verarbeitung": "Ungefiltert, unerhitzt", "Textur": "Dick/Pastenartig"},
+      "scores": {"Geschmack": 4.4, "Reinheit": 4.6, "Preiswert": 4.5, "Textur": 3.8, "Vielseitigkeit": 3.9}
+    },
+    {
+      "offerId": "wholesome-organic-raw-honey",
+      "badge": "Bester fair-trade Bio-Honig",
+      "review": "Wholesome Organic bedient eine spezifische Zielgruppe: Käufer, die sowohl Bio-Zertifizierung als auch Fairtrade-Beschaffung ohne Manuka-Preis wollen. Milder, klarer Geschmack — vergleichbar mit Nature Nate's, aber mit mehr Nachweisen. Für $12–18 pro 16 oz ist er etwas teurer als konventioneller Rohhonig, was bei den Zusatzzertifizierungen vertretbar ist.",
+      "pros": ["USDA Bio + Fairtrade-Zertifizierung gleichzeitig", "Milder Geschmack für die meisten Anwendungen geeignet", "Transparente Herkunftsnachweise"],
+      "cons": ["Höherer Preis pro Unze ohne Geschmacksprämie gegenüber konventionellem Rohhonig"],
+      "grade": "B-",
+      "specs": {"Sorte": "Klee-Mix", "Zertifizierung": "USDA Bio, Fairtrade", "Füllmenge": "16 oz (454 g)", "Herkunft": "Südamerika", "Verarbeitung": "Roh, ungefiltert", "Behälter": "Glas"},
+      "scores": {"Geschmack": 4.0, "Reinheit": 4.7, "Preiswert": 3.8, "Textur": 4.1, "Vielseitigkeit": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für den täglichen Gebrauch als Süßungsmittel", "offerId": "nature-nates-raw-honey", "reason": "Milder Geschmack, Roh-Zertifizierung und alltagstauglicher Preis — unkomplizierter Allrounder."},
+    {"label": "Für nachgewiesene Manuka-Vorteile", "offerId": "comvita-manuka-honey-umf10", "reason": "UMF 10+ bestätigt MGO 263+ unabhängig — die zuverlässigste Zertifizierung, wenn Manuka-Wirksamkeit zählt."},
+    {"label": "Für ethisch bewussten Einkauf", "offerId": "wholesome-organic-raw-honey", "reason": "USDA Bio und Fairtrade-zertifiziert — die Wahl, wenn Herkunftsethik genauso wichtig ist wie der Geschmack."},
+    {"label": "Für preisbewusste Manuka-Käufer", "offerId": "wedderspoon-manuka-kfactor16", "reason": "Pollengesicherter Manuka-Ursprung zum niedrigeren Preis als UMF-Produkte — guter Einstieg ohne vollen UMF-Aufschlag."},
+    {"label": "Für maximale Rohverarbeitung", "offerId": "ys-eco-bee-raw-honey", "reason": "Sichtbare Propolis und Pollen in einem kräftigen, USDA-Bio-zertifizierten Honig — die ungefilterte Wahl in dieser Liste."}
+  ]
 }

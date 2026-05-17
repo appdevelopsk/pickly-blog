@@ -66,5 +66,174 @@
     "ronco-pasta-maker": "Máquina automática de macarrão econômica — mais simples que a Philips, menos opções de molde, preço mais baixo. Adequada para usuários que querem experimentar a fabricação automática de macarrão sem o investimento completo da Philips. A qualidade do macarrão e a durabilidade são inferiores às opções premium."
   },
   "pinDescription": "Comparativo de máquinas de macarrão 2026: Marcato Atlas 150 vs Imperia vs acessório KitchenAid vs Philips automática — qual máquina faz o melhor macarrão fresco em casa? Rolo vs extrusora, manivela italiana vs automação elétrica explicados. #massa #culinária #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada máquina de macarrão foi avaliada quanto à consistência da folha de massa, precisão do mecanismo do cilindro, acessórios incluídos, carga de limpeza e o cenário real para o qual é mais adequada — seja folhas laminadas à mão, consistência motorizada ou extrusão totalmente automática.",
+  "products": [
+    {
+      "offerId": "marcato-atlas-150-pasta-maker",
+      "badge": "A Melhor no Geral",
+      "review": "A Marcato Atlas 150 tem sido o padrão de referência para cilindros de macarrão domésticos desde a década de 1930 — cilindros de aço cromado, largura de 150 mm, nove configurações de espessura de 3 mm a 0,6 mm, e mais suporte a acessórios de terceiros do que qualquer concorrente. O mecanismo de manivela é suave e durável; a abraçadeira é estável em qualquer borda de bancada. A limpeza significa secar com um pano — sem sabão, sem água, nunca. A mais ampla variedade de peças de reposição e cortadores de qualquer máquina de macarrão doméstica.",
+      "pros": [
+        "Construção em aço cromado com mais de 90 anos de durabilidade comprovada",
+        "Nove configurações de espessura até 0,6 mm — fino o suficiente para ravioli",
+        "A mais ampla disponibilidade de acessórios e peças de reposição de terceiros"
+      ],
+      "cons": [
+        "Requer abraçadeira na borda da bancada — sem opção independente; sem limpeza com sabão"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Tipo": "Cilindro manual",
+        "Largura do cilindro": "150 mm",
+        "Configurações de espessura": "0 (3 mm) a 9 (0,6 mm)",
+        "Material": "Aço cromado",
+        "Cortadores incluídos": "Fettuccine + tagliolini",
+        "Origem": "Itália"
+      },
+      "scores": {
+        "Consistência da massa": 5.0,
+        "Qualidade de construção": 5.0,
+        "Facilidade de uso": 4.5,
+        "Custo-benefício": 4.8,
+        "Gama de espessuras": 5.0
+      }
+    },
+    {
+      "offerId": "imperia-pasta-maker-machine",
+      "badge": "Melhor Custo-Benefício com Dois Cortadores",
+      "review": "A Imperia inclui tanto um cortador de fettuccine (5 mm) quanto um de spaghetti (2 mm) como padrão — a Atlas requer uma compra separada para a segunda largura. Fabricação italiana, qualidade de construção equivalente à Atlas, ligeiramente mais pesada. Nas configurações mais finas a manivela requer marginalmente mais pressão que a Atlas; não é um problema para a maioria dos usuários. O melhor negócio se você quer duas larguras de massa desde o primeiro dia.",
+      "pros": [
+        "Inclui cortadores de fettuccine (5 mm) e spaghetti (2 mm) como padrão",
+        "Aço cromado de fabricação italiana — durabilidade equivalente à Atlas",
+        "Sem necessidade de compra adicional para as duas larguras de massa mais comuns"
+      ],
+      "cons": [
+        "Ligeiramente mais pesada que a Atlas; marginalmente mais resistência na manivela nas configurações mais finas"
+      ],
+      "grade": "A",
+      "specs": {
+        "Tipo": "Cilindro manual",
+        "Largura do cilindro": "150 mm",
+        "Material": "Aço cromado",
+        "Cortadores incluídos": "Fettuccine (5 mm) + spaghetti (2 mm)",
+        "Peso": "Ligeiramente mais pesada que a Atlas",
+        "Origem": "Itália"
+      },
+      "scores": {
+        "Consistência da massa": 4.8,
+        "Qualidade de construção": 4.9,
+        "Facilidade de uso": 4.4,
+        "Custo-benefício": 5.0,
+        "Gama de espessuras": 4.8
+      }
+    },
+    {
+      "offerId": "kitchenaid-pasta-roller-attachment",
+      "badge": "A Melhor para Donos de KitchenAid",
+      "review": "Se você já tem uma batedeira KitchenAid, este acessório a converte em um cilindro de massa motorizado — a velocidade consistente do motor elimina a variável do ritmo manual, produzindo espessura de folha mais uniforme. Largura do cilindro de 152 mm, inclui cilindro, cortador de fettuccine e cortador de spaghetti. Vale a pena somente se você já tem a batedeira; comprar uma KitchenAid só para macarrão não é rentável a US$ 350–500 pela batedeira.",
+      "pros": [
+        "O cilindro motorizado produz espessura de folha mais consistente do que a manivela manual",
+        "Eficiente em espaço — aproveita seu investimento existente na KitchenAid",
+        "Qualidade do cilindro em aço equivalente à Marcato/Imperia"
+      ],
+      "cons": [
+        "Vale a pena apenas se você já tem uma KitchenAid — US$ 350–500 de batedeira + US$ 150–200 de acessório só para macarrão não é rentável"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Tipo": "Acessório para batedeira (KitchenAid)",
+        "Largura do cilindro": "152 mm",
+        "Acionamento": "Motorizado pela batedeira",
+        "Inclui": "Cilindro + fettuccine + cortador de spaghetti",
+        "Compatibilidade": "Todas as batedeiras KitchenAid de cabeça inclinável e tigela elevatória",
+        "Preço": "~US$ 150–200 (somente acessório)"
+      },
+      "scores": {
+        "Consistência da massa": 5.0,
+        "Qualidade de construção": 4.8,
+        "Facilidade de uso": 4.8,
+        "Custo-benefício": 3.5,
+        "Gama de espessuras": 4.6
+      }
+    },
+    {
+      "offerId": "philips-pasta-maker-7000",
+      "badge": "A Melhor Automática",
+      "review": "A Philips é a única máquina de macarrão verdadeiramente automática aqui — adicione farinha e líquido, pressione start, macarrão fresco em 15 minutos, sem necessidade de fazer massa ou técnica de laminação. Faz formas tubulares e moldadas (penne, rigatoni, spaghetti por matriz) que cilindros não conseguem. A textura extrusada é mais rugosa que o macarrão de cilindro, o que na verdade retém melhor o molho. A limpeza exige desmontagem em 30 minutos antes que a massa seque; mais barulhento que cilindros manuais.",
+      "pros": [
+        "Totalmente automático — macarrão em 15 minutos sem técnica",
+        "Faz formas tubulares (penne, rigatoni) impossíveis em um cilindro",
+        "A textura extrusada mais rugosa retém melhor molhos grossos"
+      ],
+      "cons": [
+        "A limpeza exige desmontagem em 30 minutos; mais barulhento que cilindros manuais"
+      ],
+      "grade": "B",
+      "specs": {
+        "Tipo": "Extrusora automática",
+        "Tempo de produção": "~15 minutos",
+        "Matrizes incluídas": "Spaghetti, fettuccine, penne, lasanha",
+        "Matrizes adicionais": "Disponíveis separadamente",
+        "Limpeza": "Desmontar em 30 min.",
+        "Faixa de preço": "US$ 200–300"
+      },
+      "scores": {
+        "Consistência da massa": 4.0,
+        "Qualidade de construção": 4.3,
+        "Facilidade de uso": 5.0,
+        "Custo-benefício": 3.8,
+        "Gama de espessuras": 3.5
+      }
+    },
+    {
+      "offerId": "ronco-pasta-maker",
+      "badge": "A Melhor Automática Econômica",
+      "review": "O Ronco é uma extrusora automática econômica a US$ 80–120 — menos opções de matrizes e menor qualidade de construção que a Philips, mas o mecanismo automático de mistura e extrusão é funcionalmente similar. Adequado para uso ocasional e uma maneira razoável de experimentar a produção automática de macarrão antes de se comprometer com a Philips. A qualidade do macarrão e a longevidade da máquina estão abaixo das opções premium.",
+      "pros": [
+        "Entrada econômica no macarrão automático — US$ 80–120 vs. US$ 200–300 da Philips",
+        "Mistura e extrusão automáticas — sem necessidade de técnica manual",
+        "Resultados aceitáveis para uso ocasional"
+      ],
+      "cons": [
+        "Menos opções de matrizes e durabilidade de construção inferior à Philips; a qualidade do macarrão é notavelmente menor"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Tipo": "Extrusora automática econômica",
+        "Tempo de produção": "~15–20 minutos",
+        "Faixa de preço": "US$ 80–120",
+        "Construção": "Predominantemente plástico, mais simples que a Philips",
+        "Disponibilidade de matrizes": "Limitada vs. Philips",
+        "Melhor uso": "Uso ocasional / de teste"
+      },
+      "scores": {
+        "Consistência da massa": 3.5,
+        "Qualidade de construção": 3.2,
+        "Facilidade de uso": 4.8,
+        "Custo-benefício": 4.5,
+        "Gama de espessuras": 3.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para entusiastas de massa que fazem folhas e pasta recheada",
+      "offerId": "marcato-atlas-150-pasta-maker",
+      "reason": "A Atlas 150 é o padrão de referência por uma razão — nove configurações de precisão, aço cromado durável e o mais amplo ecossistema de cortadores de terceiros de qualquer cilindro doméstico."
+    },
+    {
+      "label": "Para compradores que querem duas larguras desde o primeiro dia",
+      "offerId": "imperia-pasta-maker-machine",
+      "reason": "Inclui cortadores de fettuccine e spaghetti como padrão — sem necessidade de compra separada para as duas larguras de massa mais comuns."
+    },
+    {
+      "label": "Para donos de batedeira KitchenAid",
+      "offerId": "kitchenaid-pasta-roller-attachment",
+      "reason": "Consistência motorizada sem espaço adicional de eletrodoméstico — a melhor atualização para quem já usa uma KitchenAid para outras tarefas."
+    },
+    {
+      "label": "Para cozinheiros de dias úteis que querem massa sem o processo",
+      "offerId": "philips-pasta-maker-7000",
+      "reason": "Adicione farinha e líquido, pressione start, obtenha macarrão em 15 minutos — e faz formas tubulares que cilindros não conseguem produzir."
+    }
+  ]
 }

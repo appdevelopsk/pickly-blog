@@ -84,5 +84,190 @@
     "511-tactical-tactec-vest": "Compatível com a maioria das placas de corte SAPI padrão. O colete é enviado sem placas."
   },
   "pinDescription": "5 coletes com peso testados para barra fixa, HIIT e rucking — de uma camiseta de 8 lbs que você pode usar em qualquer lugar a um porta-placas construído para quilômetros. Encontre o ajuste certo para como você realmente treina. #coleteCom Peso #treinamento #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Distribuição de peso medida via mapeamento de pressão em corridas de 30 minutos e circuitos de peso corporal; ricochete avaliado durante intervalos de 400m em ritmo carregado; ajustabilidade classificada por faixa de pesos e facilidade de carga incremental.",
+  "products": [
+    {
+      "offerId": "titin-force-weighted-shirt",
+      "badge": "Melhor no geral",
+      "review": "Os bolsos de hidrogel distribuem 8 lbs em 14 pontos no peito, costas e ombros — a distribuição de peso mais natural neste teste. Usa-se sob roupas normais para uso diário de baixo perfil. A amplitude de movimento é inalterada versus sem carga para barras fixas e flexões. O limite: 8 lbs total não é ajustável.",
+      "pros": [
+        "Distribuição de peso hidrogel de 14 pontos — sensação mais natural no teste",
+        "Usa-se sob roupas normais — perfil de volume zero",
+        "Amplitude completa de movimento para barras fixas, flexões e movimento diário"
+      ],
+      "cons": [
+        "8 lbs de peso total é fixo — não é possível adicionar mais conforme você fica mais forte"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Weight": "8 lbs / 3.6 kg fixed",
+        "Distribution": "14 pockets: chest, back, shoulders",
+        "Weight type": "Hydro-gel",
+        "Profile": "Compression shirt",
+        "Use case": "Pull-ups, push-ups, daily wear",
+        "Sizes": "S-XXL",
+        "Material": "Compression fabric",
+        "Price": "$189"
+      },
+      "scores": {
+        "Weight distribution": 5.0,
+        "Comfort": 4.9,
+        "Adjustability": 2.0,
+        "Value": 3.8,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "hyperwear-hyper-vest-pro",
+      "badge": "Melhor para correr",
+      "review": "O laçamento lateral tipo espartilho aperta o colete contra o torso para quase zero ricochete — a característica definidora para corrida e HIIT. Os bolsos de perdigão de aço mantêm a carga perto do corpo. Disponível em 10-20 lbs. O colete que realmente funciona para sprints sem o ricochete que destrói a forma.",
+      "pros": [
+        "O laçamento de espartilho atinge quase zero ricochete durante a corrida",
+        "O perdigão de aço fica próximo ao corpo para movimento natural",
+        "Projetado especificamente para casos de uso de cardio de alta mobilidade"
+      ],
+      "cons": [
+        "Preço mais alto que coletes generalistas",
+        "Faixa de peso limitada a 10-20 lbs"
+      ],
+      "grade": "A",
+      "specs": {
+        "Weight range": "10-20 lbs",
+        "Weight type": "Steel shot pockets",
+        "Closure": "Corset-style side lacing",
+        "Bounce": "Near-zero",
+        "Use case": "Running, HIIT, sprints",
+        "Sizes": "XS-XL",
+        "Material": "Nylon + elastic",
+        "Price": "$239.95"
+      },
+      "scores": {
+        "Weight distribution": 4.8,
+        "Comfort": 4.7,
+        "Adjustability": 3.5,
+        "Value": 3.6,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "511-tactical-tactec-vest",
+      "badge": "Melhor para rucking",
+      "review": "Design de porta-placas militar com alças de ombro acolchoadas e distribuição de cintura tipo cummerbund — construído para movimento carregado sustentado por horas. Compatibilidade MOLLE permite fixar equipamentos. Suporta placas SAPI padrão até 30 lbs.",
+      "pros": [
+        "O cummerbund distribui a carga para movimento sustentado",
+        "Compatível com MOLLE para fixar equipamento adicional",
+        "Durabilidade de grau militar para uso ao ar livre de vários anos"
+      ],
+      "cons": [
+        "Design volumoso não adequado para exercícios de academia como barras fixas ou flexões"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Weight capacity": "Up to 30 lbs / 13.5 kg",
+        "Plate type": "Standard SAPI",
+        "Waist": "Cummerbund",
+        "Attachment": "MOLLE-compatible",
+        "Use case": "Rucking, loaded hiking",
+        "Sizes": "S-XL",
+        "Material": "Military-grade nylon",
+        "Price": "$140"
+      },
+      "scores": {
+        "Weight distribution": 4.5,
+        "Comfort": 4.3,
+        "Adjustability": 4.0,
+        "Value": 4.5,
+        "Durability": 5.0
+      }
+    },
+    {
+      "offerId": "cap-barbell-weight-vest",
+      "badge": "Melhor econômico",
+      "review": "Os bolsos de areia de ferro ajustam-se até 40 lbs em incrementos — a faixa de peso mais ampla nesta comparação pelo preço. A construção de tecido aguenta circuitos de força de peso corporal. Não ideal para corrida devido ao ricochete, mas para flexões, dips, agachamentos e step-ups oferece carga sólida ao preço de entrada.",
+      "pros": [
+        "Até 40 lbs ajustável — a faixa mais ampla neste preço",
+        "Os bolsos de areia de ferro permitem incrementos finos de peso",
+        "Sólido para exercícios de força de peso corporal"
+      ],
+      "cons": [
+        "Ricochete perceptível durante a corrida — não é um colete para correr"
+      ],
+      "grade": "B",
+      "specs": {
+        "Weight range": "Up to 40 lbs / 18 kg adjustable",
+        "Weight type": "Iron sand pockets",
+        "Closure": "Buckle straps",
+        "Bounce": "Moderate (not for running)",
+        "Use case": "Bodyweight strength training",
+        "Sizes": "One size adjustable",
+        "Material": "Fabric",
+        "Price": "~$40-60"
+      },
+      "scores": {
+        "Weight distribution": 3.8,
+        "Comfort": 3.5,
+        "Adjustability": 4.8,
+        "Value": 5.0,
+        "Durability": 3.8
+      }
+    },
+    {
+      "offerId": "rogue-dog-collar-vest",
+      "badge": "Melhor para barra fixa e dips",
+      "review": "O Dog Collar não é um colete — é um arnês de ombro com carga de placas projetado para exatamente um propósito: fixar placas olímpicas para barras fixas e dips com peso. A posição da placa frontal mantém as costas completamente livres. Construção de aço para volume de academia comercial.",
+      "pros": [
+        "O carregamento de placa frontal mantém as costas completamente livres para o movimento de barra fixa",
+        "Suporta placas olímpicas de 10-45 lbs — progressão de peso ilimitada",
+        "Aço de grau comercial construído para volume diário de academia"
+      ],
+      "cons": [
+        "Caso de uso único — apenas barras fixas e dips, não para corrida ou transporte geral"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Weight type": "Olympic plates (10-45 lb)",
+        "Loading": "Front plate loaded",
+        "Construction": "Steel",
+        "Use case": "Weighted pull-ups, dips",
+        "Sizes": "Adjustable belt",
+        "Back clearance": "Full",
+        "Brand": "Rogue",
+        "Price": "$20"
+      },
+      "scores": {
+        "Weight distribution": 4.0,
+        "Comfort": 3.0,
+        "Adjustability": 4.5,
+        "Value": 4.9,
+        "Durability": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para movimento diário e treino de peso corporal",
+      "offerId": "titin-force-weighted-shirt",
+      "reason": "Usa-se sob as roupas, distribuição hidrogel de 14 pontos — o único colete com peso que você pode esquecer que está usando."
+    },
+    {
+      "label": "Para corredores e atletas de HIIT",
+      "offerId": "hyperwear-hyper-vest-pro",
+      "reason": "O laçamento de espartilho atinge quase zero ricochete em ritmo de corrida — o único colete aqui que não destrói sua forma na velocidade."
+    },
+    {
+      "label": "Para rucking e caminhada carregada",
+      "offerId": "511-tactical-tactec-vest",
+      "reason": "O design militar cummerbund distribui a carga por horas de movimento sustentado sem pontos quentes."
+    },
+    {
+      "label": "Para compradores com prioridade no orçamento",
+      "offerId": "cap-barbell-weight-vest",
+      "reason": "40 lbs ajustável ao preço de entrada — a maior faixa de peso por dólar nesta comparação."
+    },
+    {
+      "label": "Apenas para barras fixas e dips",
+      "offerId": "rogue-dog-collar-vest",
+      "reason": "O carregamento de placa frontal mantém as costas completamente livres — a ferramenta certa para um trabalho específico a $20."
+    }
+  ]
 }

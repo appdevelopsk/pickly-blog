@@ -77,5 +77,64 @@
     "mummyfit-dip-belt": "Choix néoprène économique, chaîne de 36\""
   },
   "pinDescription": "Ces 5 ceintures de dips couvrent chaque niveau d'entraînement — de vos premiers 10 kg jusqu'au travail sérieux de tractions et dips lestés. Cuir, néoprène ou nylon économique — voici ce qui tient vraiment #dips #tractions #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque ceinture a été évaluée sur la longueur de la chaîne, le calibre du hardware, le confort du matériau de rembourrage sous charge, la capacité de poids et la durabilité à long terme selon la construction du matériau — sans se fier aux allégations des marques.",
+  "products": [
+    {
+      "offerId": "rogue-dip-belt",
+      "badge": "Meilleure au général",
+      "review": "Fabriquée aux États-Unis en sangle nylon 10mm avec rembourrage cuir 7,5 cm et mousqueton certifié. Sous des charges lourdes — 40 kg et plus — le cuir répartit la charge sur les os des hanches au lieu de s'enfoncer, et le hardware garde sa forme. Durabilité réelle : coutures et chaîne dépassent les ceintures bon marché de plusieurs années.",
+      "pros": ["Fabriquée aux États-Unis, double couture à tous les points de stress", "Le rembourrage cuir se moule au corps avec le temps", "Mousqueton certifié résiste aux charges lourdes sans se déformer"],
+      "cons": ["Le cuir est rigide lors des premières séances avant de se roder"],
+      "grade": "A+",
+      "specs": {"Matériau": "Sangle nylon 10mm + rembourrage cuir", "Longueur chaîne": "61 cm acier", "Largeur rembourrage": "7,5 cm", "Hardware": "Mousqueton acier certifié", "Origine": "États-Unis"},
+      "scores": {"Qualité construction": 5.0, "Durabilité": 5.0, "Confort": 4.5, "Capacité charge": 5.0, "Rapport qualité-prix": 4.0}
+    },
+    {
+      "offerId": "dark-iron-fitness-dip-belt",
+      "badge": "Meilleur cuir économique",
+      "review": "Cuir véritable avec rembourrage 15 cm — plus large que le Rogue — rend les dips particulièrement plus confortables. La chaîne 76 cm s'adapte aux disques olympiques standard, capacité 136 kg. Inconvénient : 2–3 semaines d'utilisation régulière pour se roder complètement.",
+      "pros": ["Rembourrage cuir 15 cm plus large que la plupart des concurrents", "Capacité de 136 kg (300 lb)", "Se moule mieux que le nylon après rodage"],
+      "cons": ["Rigide et légèrement inconfortable lors des premières séances"],
+      "grade": "A",
+      "specs": {"Matériau": "Cuir véritable", "Longueur chaîne": "76 cm acier", "Largeur rembourrage": "15 cm", "Capacité": "136 kg", "Prix": "~30 €"},
+      "scores": {"Qualité construction": 4.2, "Durabilité": 4.5, "Confort": 4.3, "Capacité charge": 4.8, "Rapport qualité-prix": 4.8}
+    },
+    {
+      "offerId": "harbinger-dip-belt",
+      "badge": "Meilleur économique",
+      "review": "Sangle polypropylène résistante avec chaîne acier 76 cm — le standard de fait dans les salles. Fonctionne sans problème pour 10–35 kg de charge ajoutée. L'anneau acier est nettement plus solide que les anneaux estampés des ceintures bas de gamme.",
+      "pros": ["Utilisée dans la plupart des salles commerciales — historique prouvé", "Anneau acier nettement plus solide que les estampés bas de gamme", "Point d'entrée raisonnable à ~25 €"],
+      "cons": ["Le polypropylène est moins confortable que le cuir sous charge lourde"],
+      "grade": "B+",
+      "specs": {"Matériau": "Sangle polypropylène", "Longueur chaîne": "76 cm acier", "Prix": "~36 €", "Idéal pour": "10–35 kg de charge ajoutée"},
+      "scores": {"Qualité construction": 3.8, "Durabilité": 4.0, "Confort": 3.5, "Capacité charge": 4.0, "Rapport qualité-prix": 5.0}
+    },
+    {
+      "offerId": "fire-team-fit-dip-belt",
+      "badge": "Plus confortable",
+      "review": "Le néoprène est doux dès le premier jour — pas de rodage. La boucle à dégagement rapide accélère les changements de séries. La chaîne 91 cm est la plus longue ici, avec de la place pour les bumper plates épaisses. Le néoprène absorbe la sueur, rinçage occasionnel nécessaire.",
+      "pros": ["Néoprène doux dès la première utilisation — aucun rodage", "Boucle à dégagement rapide pour transitions rapides entre séries", "Chaîne 91 cm pour bumper plates épaisses"],
+      "cons": ["Le néoprène absorbe la sueur ; rinçage occasionnel requis"],
+      "grade": "B",
+      "specs": {"Matériau": "Néoprène", "Longueur chaîne": "91 cm acier", "Largeur rembourrage": "10 cm", "Capacité": "136 kg", "Prix": "~50 €"},
+      "scores": {"Qualité construction": 4.0, "Durabilité": 3.8, "Confort": 4.8, "Capacité charge": 4.5, "Rapport qualité-prix": 4.3}
+    },
+    {
+      "offerId": "mummyfit-dip-belt",
+      "badge": "Meilleur rapport qualité-prix",
+      "review": "Néoprène économique avec chaîne 91 cm — même longueur que le Fire Team Fit à moitié prix. Hardware plus léger, déconseillé au-delà de 60 kg. Pour les débutants ou pour tester les dips lestés, c'est une entrée sans risque.",
+      "pros": ["Chaîne 91 cm pour moins de 30 €", "Néoprène doux dès le premier jour", "Entrée sans risque financier pour les dips lestés"],
+      "cons": ["Hardware plus léger — déconseillé pour plus de 60 kg de charge"],
+      "grade": "B-",
+      "specs": {"Matériau": "Néoprène", "Longueur chaîne": "91 cm acier", "Prix": "~23 €", "Idéal pour": "Débutants, moins de 45 kg ajoutés"},
+      "scores": {"Qualité construction": 3.3, "Durabilité": 3.5, "Confort": 4.2, "Capacité charge": 3.5, "Rapport qualité-prix": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les pratiquants avec 40+ kg de charge", "offerId": "rogue-dip-belt", "reason": "Hardware américain et cuir qui ne se déforment pas sous charge lourde"},
+    {"label": "Pour le confort cuir avec petit budget", "offerId": "dark-iron-fitness-dip-belt", "reason": "Rembourrage 15 cm plus large que le Rogue et deux fois moins cher"},
+    {"label": "Pour les débutants testant les dips lestés", "offerId": "harbinger-dip-belt", "reason": "Le standard des salles commerciales à ~25 € — tester avant d'investir"},
+    {"label": "Pour des transitions rapides entre séries", "offerId": "fire-team-fit-dip-belt", "reason": "Boucle à dégagement rapide et néoprène doux dès le premier jour"},
+    {"label": "Pour le prix d'entrée le plus bas", "offerId": "mummyfit-dip-belt", "reason": "Chaîne 91 cm pour moins de 30 € — perte minime si les dips lestés ne sont pas pour vous"}
+  ]
 }

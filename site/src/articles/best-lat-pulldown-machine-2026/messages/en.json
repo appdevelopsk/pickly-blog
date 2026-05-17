@@ -58,5 +58,124 @@
     "cable-crossover-by-titan-fitness": "Full functional trainer, adjustable cable heights, dual independent stacks. $700-1,000. Titan alternative to Force USA — more accessory options, comparable build quality. Requires 8 ft ceiling. Correct if you want all cable exercises from one machine."
   },
   "pinDescription": "Lat pulldown machine comparison 2026: Marcy vs Body-Solid vs Valor CB-12 vs Force USA vs Titan Fitness — dedicated lat pulldown vs functional trainer, pulley ratios, and which cable machine is right for your home gym.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each machine was evaluated on cable quality, effective resistance range, build durability, exercise versatility, and value per dollar — weighted toward performance and longevity, since a cable machine that caps your progress or breaks down is worse than no machine.",
+  "products": [
+    {
+      "offerId": "lat-pulldown-machine-by-marcy",
+      "badge": "Best Budget Pick",
+      "review": "The Marcy dual-station (lat pulldown + low row) is the entry-level answer for home gyms with space and budget limits. The 150 lb stack with 2:1 ratio delivers 75 lb effective resistance — adequate for beginners, limiting for intermediate athletes within 12–18 months. Compact footprint (~4x4 ft) is a genuine advantage. Cable tolerances are acceptable at moderate loads but show noise at maximum stack.",
+      "pros": ["Dual lat pulldown + low row stations", "Compact footprint for small spaces", "Affordable entry point under $450"],
+      "cons": ["75 lb effective resistance limits long-term progression"],
+      "grade": "A+",
+      "specs": {
+        "Weight stack": "150 lb",
+        "Pulley ratio": "2:1 (~75 lb effective)",
+        "Stations": "Lat pulldown + low cable row",
+        "Footprint": "~4x4 ft",
+        "Price range": "~$350–450"
+      },
+      "scores": {
+        "Build quality": 3.5,
+        "Durability": 3.5,
+        "Versatility": 3.0,
+        "Ease of use": 4.2,
+        "Value": 4.8
+      }
+    },
+    {
+      "offerId": "body-solid-lat-pulldown",
+      "badge": "Best Dedicated Machine",
+      "review": "Body-Solid's heavy-gauge steel construction and 200+ lb stacks put it at a commercial gym feel in a home setting. The dual pulley system enables lat pulldowns and seated rows without repositioning. At $500–700 the premium over Marcy is justified for athletes who use lat pulldowns as a primary training tool and will push the resistance ceiling within a year.",
+      "pros": ["Heavy-gauge steel feels commercial-grade", "200+ lb stacks available", "Better cable quality than budget alternatives"],
+      "cons": ["Premium price not warranted for casual or beginner users"],
+      "grade": "A",
+      "specs": {
+        "Weight stack": "200+ lb",
+        "Pulley system": "Dual pulley",
+        "Frame": "Heavy-gauge steel",
+        "Best for": "Primary training tool",
+        "Price range": "~$500–700"
+      },
+      "scores": {
+        "Build quality": 4.8,
+        "Durability": 4.8,
+        "Versatility": 3.5,
+        "Ease of use": 4.5,
+        "Value": 3.8
+      }
+    },
+    {
+      "offerId": "valor-fitness-cb-12",
+      "badge": "Most Space-Efficient",
+      "review": "The Valor CB-12 packs into a 3x3 ft footprint — the smallest purpose-built lat pulldown available at this price. The 150 lb stack at 2:1 ratio matches the Marcy's effective resistance, but the CB-12 is lighter construction. Cable noise develops over time under heavy loads. Right pick for athletes where square footage is the hard constraint.",
+      "pros": ["3x3 ft footprint — smallest in category", "Lowest cost purpose-built option", "High and low cable positions included"],
+      "cons": ["Lighter construction than Body-Solid", "Cable vibration at maximum load"],
+      "grade": "B+",
+      "specs": {
+        "Weight stack": "150 lb",
+        "Pulley ratio": "2:1 (~75 lb effective)",
+        "Footprint": "~3x3 ft",
+        "Cable positions": "High and low",
+        "Price range": "~$300–400"
+      },
+      "scores": {
+        "Build quality": 3.2,
+        "Durability": 3.0,
+        "Versatility": 3.2,
+        "Ease of use": 4.0,
+        "Value": 4.5
+      }
+    },
+    {
+      "offerId": "functional-trainer-by-force-usa",
+      "badge": "Best Functional Trainer",
+      "review": "Force USA's dual independent stacks with height-adjustable cables replace a lat pulldown, cable crossover, and cable row machine in one footprint. The 2:1 ratio on 150–200 lb stacks yields 75–100 lb per arm — enough for most intermediate athletes. Better warranty and customer support than Titan at comparable price points. Requires 8 ft ceiling clearance for full overhead work.",
+      "pros": ["Full cable exercise library from one machine", "Dual independent stacks for unilateral work", "Better warranty than comparable competitors"],
+      "cons": ["Requires 8 ft ceiling for overhead cable work"],
+      "grade": "B",
+      "specs": {
+        "Weight stacks": "150–200 lb dual independent",
+        "Pulley ratio": "2:1 (~75–100 lb per arm)",
+        "Cable positions": "Height-adjustable, floor to overhead",
+        "Footprint": "~4x6 ft",
+        "Price range": "~$800–1,200"
+      },
+      "scores": {
+        "Build quality": 4.5,
+        "Durability": 4.5,
+        "Versatility": 5.0,
+        "Ease of use": 4.0,
+        "Value": 3.8
+      }
+    },
+    {
+      "offerId": "cable-crossover-by-titan-fitness",
+      "badge": "Best Accessory Selection",
+      "review": "Titan's functional trainer offers more accessory options than Force USA, with adjustable cable heights and dual independent stacks. Build quality sits slightly below Force USA's fit and finish but the frame is structurally adequate for rated loads. More exercise flexibility through accessories justifies the choice for athletes who want to customize their cable exercise library. Same 8 ft ceiling requirement.",
+      "pros": ["More accessory options than Force USA", "Dual independent adjustable cable stacks", "Full cable crossover exercise library"],
+      "cons": ["Requires 8 ft ceiling height", "Fit and finish slightly below Force USA"],
+      "grade": "B-",
+      "specs": {
+        "Weight stacks": "Dual independent",
+        "Cable positions": "Height-adjustable",
+        "Ceiling required": "8 ft minimum",
+        "Accessories": "More options than Force USA",
+        "Price range": "~$700–1,000"
+      },
+      "scores": {
+        "Build quality": 4.2,
+        "Durability": 4.2,
+        "Versatility": 5.0,
+        "Ease of use": 3.8,
+        "Value": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For entry-level home gym", "offerId": "lat-pulldown-machine-by-marcy", "reason": "Dual station at a compact footprint and under $450 covers lat pulldown and row for beginners"},
+    {"label": "For serious lat training", "offerId": "body-solid-lat-pulldown", "reason": "200+ lb stack with commercial build quality handles years of progressive overload"},
+    {"label": "For tight spaces", "offerId": "valor-fitness-cb-12", "reason": "3x3 ft footprint is the smallest purpose-built lat pulldown at this price point"},
+    {"label": "For full cable versatility", "offerId": "functional-trainer-by-force-usa", "reason": "Replaces multiple cable machines with a single unit and better warranty support"},
+    {"label": "For accessory variety", "offerId": "cable-crossover-by-titan-fitness", "reason": "More attachment options than any competitor at this price makes exercise variety easy"}
+  ]
 }

@@ -93,5 +93,64 @@
     "twinbird-ep-4694": "Panela de cozimento lento japonesa compacta para pratos brasados e oden -- panela de cerâmica, consumo de 450W, suporte doméstico completo. Sem timer programável; capacidade menor limita a cozimento para 1-3 pessoas."
   },
   "pinDescription": "Cinco panelas de cozimento lento comparadas em 2026 -- Crock-Pot 6-Quart, Instant Pot Duo 7-in-1, Cuisinart CSC-800, Panasonic SR-MP300 e Twinbird EP-4694. Qual suporta ensopados noturnos, oden e iogurte fermentado sem supervisão? #PanelaCozimentoLento #CulináriaLenta #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada panela de cozimento lento foi avaliada pela consistência real da distribuição de calor no recipiente, confiabilidade do temporizador, precisão da capacidade indicada, facilidade de limpeza do recipiente e relatórios de proprietários a longo prazo sobre vedação da tampa e longevidade do elemento de aquecimento.",
+  "products": [
+    {
+      "offerId": "crock-pot-sccpvl610-s",
+      "badge": "Melhor no geral",
+      "review": "O Crock-Pot SCCPVL610-S não mudou muito em quarenta anos porque o design central funciona: recipiente de cerâmica de 6 quartos, distribuição uniforme do calor e um dial de três posições impossível de usar incorretamente. A ausência de temporizador significa que a comida cozinha até que se passe manualmente para Manter Quente — uma restrição real se o horário for imprevisível.",
+      "pros": ["Recipiente de cerâmica de 6 quartos para frangos inteiros e assados grandes", "Dial de três posições à prova de erros", "Recipiente e tampa compatíveis com lava-louças"],
+      "cons": ["Sem temporizador — não passa automaticamente para Manter Quente ao fim da cocção"],
+      "grade": "A+",
+      "specs": {"Capacidade": "6 quartos (5,7L)", "Potência": "200W (Baixo) / 300W (Alto)", "Temporizador": "Nenhum", "Recipiente": "Cerâmica", "Tampa": "Vidro, sem trava", "Dimensões": "~35×25×28cm"},
+      "scores": {"Distribuição de calor": 4.7, "Capacidade": 4.9, "Facilidade de uso": 5.0, "Custo-benefício": 4.9, "Programabilidade": 1.0}
+    },
+    {
+      "offerId": "instant-pot-duo-7in1",
+      "badge": "Melhor panela versátil",
+      "review": "O Instant Pot Duo 7-in-1 ganha seu lugar combinando uma panela de pressão que reduz um cozimento de 6 horas a 35 minutos com uma panela de cozimento lento programável para cozimentos o dia todo. O ponto conhecido: seu ajuste Baixo em modo de cozimento lento funciona mais quente que um Crock-Pot tradicional em Baixo — as receitas existentes precisam de ajuste.",
+      "pros": ["Modo panela de pressão reduz cozimentos longos a menos de 45 minutos", "Panela lenta com temporizador programável e manter quente automático", "Tampa com trava evita derramamentos durante o transporte"],
+      "cons": ["O cozimento lento em Baixo funciona mais quente que unidades tradicionais — ajuste de receitas necessário"],
+      "grade": "A",
+      "specs": {"Capacidade": "6 quartos (5,7L)", "Potência": "1000W", "Temporizador": "Sim (até 24h + início atrasado)", "Recipiente": "Aço inoxidável", "Tampa": "Tampa de pressão com trava", "Modos": "7 (pressão, cozimento lento, refogar, vapor, arroz, manter quente, iogurte)"},
+      "scores": {"Distribuição de calor": 4.2, "Capacidade": 4.8, "Facilidade de uso": 3.5, "Custo-benefício": 4.5, "Programabilidade": 4.8}
+    },
+    {
+      "offerId": "cuisinart-csc-800",
+      "badge": "Melhor para lares pequenos",
+      "review": "A capacidade de 3,5 litros do Cuisinart CSC-800 é calibrada para apartamentos de Tóquio e lares de 1-2 pessoas — cabe numa bancada compacta ao lado de uma panela de arroz e produz porções sem dias de sobras. O temporizador de 24 horas com manter quente automático justifica o preço em relação às panelas pequenas manuais.",
+      "pros": ["Tamanho compacto de 3,5L ideal para lares de 1-2 pessoas", "Temporizador de 24 horas com manter quente automático", "Design atraente em aço inoxidável e vidro"],
+      "cons": ["Disponível apenas como importação no Japão — assistência garantia pelo importador"],
+      "grade": "B+",
+      "specs": {"Capacidade": "3,5 litros", "Potência": "200W", "Temporizador": "Sim (até 24h)", "Recipiente": "Tigela de cerâmica", "Tampa": "Vidro", "Mercado": "Importação (sem serviço nacional japonês)"},
+      "scores": {"Distribuição de calor": 4.3, "Capacidade": 3.5, "Facilidade de uso": 4.5, "Custo-benefício": 3.9, "Programabilidade": 4.5}
+    },
+    {
+      "offerId": "panasonic-sr-mp300",
+      "badge": "Melhor para culinária japonesa",
+      "review": "O Panasonic SR-MP300 é projetado especificamente para a forma como os lares japoneses cozinham em fogo baixo: nimono, oden, kakuni e alimentos fermentados. O modo de fermentação em precisos 40-60°C para iogurte e amazake é o diferencial que nenhuma panela lenta ocidental oferece.",
+      "pros": ["Modo fermentação (40-60°C) para iogurte e amazake", "Temperatura calibrada para nimono, oden e kakuni", "Rede de serviço nacional Panasonic no Japão"],
+      "cons": ["Apenas panela lenta — sem função de pressão"],
+      "grade": "B",
+      "specs": {"Capacidade": "2,2 litros", "Potência": "200W", "Temporizador": "Sim", "Recipiente": "Panela interna", "Modo fermentação": "Sim (40-60°C)", "Mercado": "Nacional japonês"},
+      "scores": {"Distribuição de calor": 4.8, "Capacidade": 3.2, "Facilidade de uso": 4.3, "Custo-benefício": 3.8, "Programabilidade": 4.0}
+    },
+    {
+      "offerId": "twinbird-ep-4694",
+      "badge": "Melhor compacta econômica",
+      "review": "O Twinbird EP-4694 ocupa um nicho estreito: uma panela lenta japonesa compacta para oden e pratos cozidos a um preço significativamente inferior ao Panasonic. A panela de cerâmica lida com o ambiente de alta umidade do oden sem risco de sabor metálico. A ausência de temporizador é a razão pela qual a maioria dos compradores acaba escolhendo o Panasonic.",
+      "pros": ["Pegada compacta para cozinhas japonesas pequenas", "Panela de cerâmica sem risco de sabor metálico para oden", "Serviço e peças nacionais japoneses completos"],
+      "cons": ["Sem temporizador programável — apenas ligar/desligar manual"],
+      "grade": "B-",
+      "specs": {"Capacidade": "1,5 litro", "Potência": "450W", "Temporizador": "Nenhum", "Recipiente": "Cerâmica", "Tampa": "Vidro", "Mercado": "Nacional japonês"},
+      "scores": {"Distribuição de calor": 4.0, "Capacidade": 2.5, "Facilidade de uso": 4.8, "Custo-benefício": 4.5, "Programabilidade": 1.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para famílias de 4+ ou quem cozinha em lotes", "offerId": "crock-pot-sccpvl610-s", "reason": "O recipiente de cerâmica de 6 quartos lida com frangos inteiros e assados grandes, e o dial simples não deixa margem para erros."},
+    {"label": "Para cozinheiros apressados durante a semana", "offerId": "instant-pot-duo-7in1", "reason": "O modo pressão reduz um cozimento de 6 horas a 35 minutos — a única opção quando o jantar precisa ser hoje."},
+    {"label": "Para cozinhas de apartamento em Tóquio", "offerId": "cuisinart-csc-800", "reason": "3,5L cabe ao lado da panela de arroz e o temporizador mantém a comida quente até chegar em casa."},
+    {"label": "Para alimentos fermentados e nimono", "offerId": "panasonic-sr-mp300", "reason": "O modo de fermentação a 40-60°C para iogurte e amazake não está disponível em nenhuma outra panela lenta a este preço."},
+    {"label": "Para oden simples com orçamento limitado", "offerId": "twinbird-ep-4694", "reason": "A panela de cerâmica e o serviço nacional oferecem a entrada mais simples no cozimento lento para pratos japoneses simples."}
+  ]
 }

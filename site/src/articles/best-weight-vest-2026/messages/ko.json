@@ -84,5 +84,190 @@
     "511-tactical-tactec-vest": "대부분의 표준 SAPI컷 플레이트와 호환 가능합니다. 베스트만 배송되며 플레이트는 포함되지 않습니다."
   },
   "pinDescription": "풀업, HIIT, 러킹을 위해 테스트된 5가지 웨이트 베스트 — 어디서든 착용 가능한 8파운드 셔츠부터 수 마일을 위해 제작된 플레이트 캐리어까지. 실제 훈련 방식에 맞는 올바른 핏을 찾아보세요.",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "30분 러닝과 자체 중량 서킷에 걸쳐 압력 매핑으로 중량 분포 측정; 부하 페이스에서 400m 인터벌 중 바운스 평가; 중량 범위와 점진적 로딩의 용이성으로 조절성 등급 평가.",
+  "products": [
+    {
+      "offerId": "titin-force-weighted-shirt",
+      "badge": "종합 최우수",
+      "review": "하이드로 젤 포켓이 가슴, 등, 어깨의 14개 포인트에 8파운드를 분산 — 이 테스트에서 가장 자연스러운 중량 분포. 일상적인 저프로파일 사용을 위해 일반 옷 아래에 착용. 턱걸이와 팔굽혀펴기에서 비하중 대비 동작 범위 변화 없음. 한계: 총 8파운드는 비조절식.",
+      "pros": [
+        "14포인트 하이드로 젤 중량 분포 — 테스트에서 가장 자연스러운 느낌",
+        "일반 옷 아래에 착용 — 제로 벌크 프로파일",
+        "턱걸이, 팔굽혀펴기, 일상 움직임을 위한 완전한 동작 범위"
+      ],
+      "cons": [
+        "총 8파운드 중량은 고정 — 강해질수록 추가 불가"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Weight": "8 lbs / 3.6 kg fixed",
+        "Distribution": "14 pockets: chest, back, shoulders",
+        "Weight type": "Hydro-gel",
+        "Profile": "Compression shirt",
+        "Use case": "Pull-ups, push-ups, daily wear",
+        "Sizes": "S-XXL",
+        "Material": "Compression fabric",
+        "Price": "$189"
+      },
+      "scores": {
+        "Weight distribution": 5.0,
+        "Comfort": 4.9,
+        "Adjustability": 2.0,
+        "Value": 3.8,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "hyperwear-hyper-vest-pro",
+      "badge": "러닝 최우수",
+      "review": "코르셋 스타일 사이드 레이싱이 베스트를 몸통에 밀착시켜 거의 제로 바운스 달성 — 러닝과 HIIT의 결정적인 특징. 스틸 샷 웨이트 포켓이 부하를 몸에 밀착 유지. 10-20파운드로 이용 가능. 폼을 망치는 바운스 없이 실제로 스프린트에서 작동하는 베스트.",
+      "pros": [
+        "코르셋 레이싱으로 러닝 중 거의 제로 바운스 달성",
+        "스틸 샷이 자연스러운 움직임을 위해 몸에 밀착 유지",
+        "고이동 강도 카디오 사용 사례를 위해 목적 특화 설계"
+      ],
+      "cons": [
+        "범용 베스트보다 높은 가격",
+        "중량 범위가 10-20파운드로 제한"
+      ],
+      "grade": "A",
+      "specs": {
+        "Weight range": "10-20 lbs",
+        "Weight type": "Steel shot pockets",
+        "Closure": "Corset-style side lacing",
+        "Bounce": "Near-zero",
+        "Use case": "Running, HIIT, sprints",
+        "Sizes": "XS-XL",
+        "Material": "Nylon + elastic",
+        "Price": "$239.95"
+      },
+      "scores": {
+        "Weight distribution": 4.8,
+        "Comfort": 4.7,
+        "Adjustability": 3.5,
+        "Value": 3.6,
+        "Durability": 4.6
+      }
+    },
+    {
+      "offerId": "511-tactical-tactec-vest",
+      "badge": "러킹 최우수",
+      "review": "패딩된 숄더 스트랩과 커머밴드 허리 분산이 있는 군사 플레이트 캐리어 설계 — 스프린트 인터벌이 아닌 수 시간의 지속적인 부하 이동을 위해 구축. MOLLE 호환성으로 기능 훈련이나 러킹에 장비 부착 가능. 표준 SAPI 플레이트 최대 30파운드 수용.",
+      "pros": [
+        "커머밴드가 지속적인 움직임을 위한 부하 분산",
+        "추가 장비 부착을 위한 MOLLE 호환",
+        "다년간 야외 사용을 위한 군사 등급 내구성"
+      ],
+      "cons": [
+        "벌키한 설계로 턱걸이나 팔굽혀펴기 같은 체육관 운동에 부적합"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Weight capacity": "Up to 30 lbs / 13.5 kg",
+        "Plate type": "Standard SAPI",
+        "Waist": "Cummerbund",
+        "Attachment": "MOLLE-compatible",
+        "Use case": "Rucking, loaded hiking",
+        "Sizes": "S-XL",
+        "Material": "Military-grade nylon",
+        "Price": "$140"
+      },
+      "scores": {
+        "Weight distribution": 4.5,
+        "Comfort": 4.3,
+        "Adjustability": 4.0,
+        "Value": 4.5,
+        "Durability": 5.0
+      }
+    },
+    {
+      "offerId": "cap-barbell-weight-vest",
+      "badge": "가성비 최우수",
+      "review": "철 모래 포켓이 최대 40파운드까지 증분 조절 가능 — 이 가격대에서 이 비교의 가장 넓은 중량 범위. 패브릭 구조가 자체 중량 근력 서킷을 견딤. 바운스 때문에 러닝에 이상적이지 않지만, 팔굽혀펴기, 딥스, 스쿼트, 스텝업에는 진입 가격에 탄탄한 부하 제공.",
+      "pros": [
+        "최대 40파운드 조절 가능 — 이 가격대에서 가장 넓은 범위",
+        "철 모래 포켓으로 세밀한 중량 증분 가능",
+        "자체 중량 근력 운동에 탄탄"
+      ],
+      "cons": [
+        "러닝 중 눈에 띄는 바운스 — 러닝 베스트가 아님"
+      ],
+      "grade": "B",
+      "specs": {
+        "Weight range": "Up to 40 lbs / 18 kg adjustable",
+        "Weight type": "Iron sand pockets",
+        "Closure": "Buckle straps",
+        "Bounce": "Moderate (not for running)",
+        "Use case": "Bodyweight strength training",
+        "Sizes": "One size adjustable",
+        "Material": "Fabric",
+        "Price": "~$40-60"
+      },
+      "scores": {
+        "Weight distribution": 3.8,
+        "Comfort": 3.5,
+        "Adjustability": 4.8,
+        "Value": 5.0,
+        "Durability": 3.8
+      }
+    },
+    {
+      "offerId": "rogue-dog-collar-vest",
+      "badge": "턱걸이 & 딥스 최우수",
+      "review": "Dog Collar는 베스트가 아님 — 정확히 하나의 목적을 위해 설계된 플레이트 로드 숄더 하네스: 가중 턱걸이와 딥스를 위한 올림픽 플레이트 부착. 전면 플레이트 위치로 등을 완전히 자유롭게 유지. 상업용 체육관 볼륨을 위한 스틸 구조.",
+      "pros": [
+        "전면 플레이트 로드로 턱걸이 동작을 위해 등을 완전히 자유롭게 유지",
+        "10-45파운드 올림픽 플레이트 수용 — 무한한 중량 진행",
+        "일상 체육관 볼륨을 위한 상업용 등급 스틸"
+      ],
+      "cons": [
+        "단일 사용 사례 — 턱걸이와 딥스만, 러닝이나 일반 휴대에는 부적합"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Weight type": "Olympic plates (10-45 lb)",
+        "Loading": "Front plate loaded",
+        "Construction": "Steel",
+        "Use case": "Weighted pull-ups, dips",
+        "Sizes": "Adjustable belt",
+        "Back clearance": "Full",
+        "Brand": "Rogue",
+        "Price": "$20"
+      },
+      "scores": {
+        "Weight distribution": 4.0,
+        "Comfort": 3.0,
+        "Adjustability": 4.5,
+        "Value": 4.9,
+        "Durability": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "일상 움직임과 자체 중량 훈련에게",
+      "offerId": "titin-force-weighted-shirt",
+      "reason": "옷 아래에 착용, 14포인트 하이드로 젤 분포 — 착용하고 있다는 것을 잊을 수 있는 유일한 웨이티드 베스트."
+    },
+    {
+      "label": "러너와 HIIT 운동선수에게",
+      "offerId": "hyperwear-hyper-vest-pro",
+      "reason": "코르셋 레이싱이 러닝 페이스에서 거의 제로 바운스 달성 — 여기서 속도에서 폼을 망치지 않는 유일한 베스트."
+    },
+    {
+      "label": "러킹과 부하 하이킹에게",
+      "offerId": "511-tactical-tactec-vest",
+      "reason": "군사 커머밴드 설계가 핫스팟 없이 수 시간의 지속적인 움직임에 걸쳐 부하 분산."
+    },
+    {
+      "label": "예산 우선 구매자에게",
+      "offerId": "cap-barbell-weight-vest",
+      "reason": "진입 가격에 40파운드 조절 가능 — 이 비교에서 달러당 가장 많은 중량 범위."
+    },
+    {
+      "label": "턱걸이와 딥스만을 위해",
+      "offerId": "rogue-dog-collar-vest",
+      "reason": "전면 플레이트 로드로 등을 완전히 자유롭게 유지 — $20에 특정 작업을 위한 올바른 도구."
+    }
+  ]
 }

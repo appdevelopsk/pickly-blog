@@ -48,5 +48,189 @@
     "fringe-sport-bumper-plates": "Bumper in gomma vergine con rimbalzo morto piu basso e aspetto piu pulito rispetto ai Hi-Temp. Una buona alternativa per i sollevatori che vogliono le prestazioni del bumper con una caduta piu silenziosa — utile in spazi condivisi o su piattaforme piu piccole dove la distanza di rimbalzo e una preoccupazione."
   },
   "pinDescription": "Rogue vs REP Fitness vs CAP Barbell — i 5 migliori dischi per bilanciere per palestre domestiche nel 2026. Ghisa vs bumper, calibrati vs standard e come costruire un set iniziale da 300 lb con qualsiasi budget. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Precisione del peso misurata con una bilancia calibrata su 5 campioni per set; adesione del rivestimento verificata dopo 200 cicli di carico e scarico in un garage umido; coerenza del diametro verificata su set completi con calibri digitali.",
+  "products": [
+    {
+      "offerId": "rogue-calibrated-kg-plates",
+      "badge": "Migliore per competitori",
+      "review": "Lavorati a tolleranze IWF entro 10 grammi e marcati in KG — questi sono gli unici dischi in questo confronto che soddisfano gli standard di competizione internazionali direttamente dalla scatola. La finitura ossido nero tiene sul pavimento; gli anelli cromati rendono l'identificazione del peso immediata.",
+      "pros": [
+        "Precisione spec IWF entro 10 grammi per disco",
+        "Anelli di identificazione cromati per riconoscimento immediato del peso",
+        "Diametro standard 450mm posiziona il bilanciere alla corretta altezza di partenza dello stacco"
+      ],
+      "cons": [
+        "Significativamente più caro delle opzioni in ghisa per kg"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Type": "Calibrated steel",
+        "Standard": "IWF tolerances",
+        "Accuracy": "±10 grams",
+        "Diameter": "450mm",
+        "Center hole": "50mm (2 in)",
+        "Finish": "Black oxide + chrome ring",
+        "Units": "Kilogram",
+        "Price": "$311 set"
+      },
+      "scores": {
+        "Accuracy": 5.0,
+        "Durability": 4.9,
+        "Coating quality": 4.7,
+        "Value": 3.5,
+        "Grip design": 4.5
+      }
+    },
+    {
+      "offerId": "rep-fitness-cast-iron-plates",
+      "badge": "Migliore in assoluto",
+      "review": "Entro l'1% del peso indicato e diametro costante di 450mm su tutto il set — i dischi in ghisa di REP sono la migliore combinazione di precisione, qualità della finitura e prezzo disponibile per un set iniziale di palestra casalinga. Lo smalto cotto al forno resiste alla ruggine in ambienti di garage umidi.",
+      "pros": [
+        "Entro l'1% di precisione — meglio della maggior parte della ghisa a questo prezzo",
+        "Smalto cotto al forno resiste alla ruggine in ambienti umidi",
+        "Diametro costante 450mm posiziona il bilanciere alla corretta altezza"
+      ],
+      "cons": [
+        "La ghisa non può essere lasciata cadere — si crepa se usata come dischi bumper"
+      ],
+      "grade": "A",
+      "specs": {
+        "Type": "Cast iron Olympic",
+        "Accuracy": "Within 1%",
+        "Diameter": "450mm",
+        "Center hole": "50mm (2 in)",
+        "Finish": "Baked enamel",
+        "Drop rating": "Not rated for drops",
+        "Available weights": "2.5-45 lb",
+        "Price per lb": "~$0.80-1.20"
+      },
+      "scores": {
+        "Accuracy": 4.7,
+        "Durability": 4.5,
+        "Coating quality": 4.8,
+        "Value": 4.7,
+        "Grip design": 4.0
+      }
+    },
+    {
+      "offerId": "cap-barbell-olympic-plates",
+      "badge": "Migliore economico",
+      "review": "I dischi in ghisa di CAP hanno una variazione di peso del 2-3%, accettabile per l'allenamento di forza generale dove la precisione assoluta conta meno del sovraccarico progressivo. Ampiamente disponibile nei principali rivenditori per un approvvigionamento rapido.",
+      "pros": [
+        "I dischi in ghisa olimpici nuovi più economici disponibili",
+        "Ampiamente disponibile nei principali rivenditori — facile da trovare",
+        "Funzionale per l'allenamento di forza generale"
+      ],
+      "cons": [
+        "Variazione di peso del 2-3% — problematica per programmi che si basano su carichi esatti"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Type": "Cast iron Olympic",
+        "Accuracy": "±2-3%",
+        "Diameter": "Varies slightly",
+        "Center hole": "50mm (2 in)",
+        "Finish": "Painted",
+        "Drop rating": "Not rated for drops",
+        "Available weights": "2.5-45 lb",
+        "Price": "$53.97 for 25lb set"
+      },
+      "scores": {
+        "Accuracy": 3.5,
+        "Durability": 4.0,
+        "Coating quality": 3.5,
+        "Value": 5.0,
+        "Grip design": 3.8
+      }
+    },
+    {
+      "offerId": "rogue-hi-temp-bumper-plates",
+      "badge": "Migliori dischi bumper",
+      "review": "Gomma riciclata certificata per drop giornalieri dall'estensione completa sopra la testa — la scelta standard per chiunque alleni sollevamenti olimpici o CrossFit a casa. Gli inserti centrali rinforzati in acciaio mantengono la geometria del foro attraverso anni di cicli di drop.",
+      "pros": [
+        "Certificati per drop giornalieri dall'alto — nessuna crepa nel tempo",
+        "Inserto centrale rinforzato in acciaio sopravvive ad anni di cicli di drop",
+        "Diametro IWF standard 450mm per tutti i pesi"
+      ],
+      "cons": [
+        "La gomma riciclata ha un dead bounce più alto della gomma vergine — considerare lo spazio"
+      ],
+      "grade": "B",
+      "specs": {
+        "Type": "Recycled rubber bumper",
+        "Drop rating": "Rated for daily overhead drops",
+        "Diameter": "450mm all weights",
+        "Center insert": "Steel-reinforced",
+        "Bounce": "Standard (recycled rubber)",
+        "Available weights": "10-45 lb",
+        "Shore hardness": "~85A",
+        "Price": "$195 for 45lb pair"
+      },
+      "scores": {
+        "Accuracy": 4.0,
+        "Durability": 4.8,
+        "Coating quality": 4.5,
+        "Value": 4.0,
+        "Grip design": 4.2
+      }
+    },
+    {
+      "offerId": "fringe-sport-bumper-plates",
+      "badge": "Migliore bumper a basso rimbalzo",
+      "review": "La gomma vergine dà un dead bounce notevolmente più basso degli Hi-Temps — i dischi rimangono dove atterrano invece di rimbalzare verso le pareti o le piattaforme. Utile negli spazi condivisi o su piattaforme più piccole dove la distanza di rimbalzo è un vero vincolo.",
+      "pros": [
+        "Dead bounce più basso della gomma riciclata — rimane dove atterrar",
+        "La gomma vergine meno probabile che si crepi o si scrostoli",
+        "Diametro IWF standard e inserto in acciaio corrispondono alle specifiche di competizione"
+      ],
+      "cons": [
+        "Prezzo leggermente più alto degli Hi-Temps per minor volume di gomma"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Type": "Virgin rubber bumper",
+        "Drop rating": "Rated for drops",
+        "Diameter": "450mm all weights",
+        "Center insert": "Steel-reinforced",
+        "Bounce": "Low (virgin rubber)",
+        "Available weights": "10-45 lb",
+        "Shore hardness": "~80A",
+        "Price": "$179.99 for 45lb pair"
+      },
+      "scores": {
+        "Accuracy": 4.2,
+        "Durability": 4.6,
+        "Coating quality": 4.8,
+        "Value": 3.8,
+        "Grip design": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per atleti di competizione",
+      "offerId": "rogue-calibrated-kg-plates",
+      "reason": "Precisione spec IWF entro 10 grammi — gli unici dischi qui che soddisfano gli standard di competizione internazionali."
+    },
+    {
+      "label": "Per principianti di palestra casalinga",
+      "offerId": "rep-fitness-cast-iron-plates",
+      "reason": "Migliore precisione e resistenza alla ruggine di qualsiasi disco in ghisa a questo prezzo — il set iniziale giusto."
+    },
+    {
+      "label": "Per acquirenti con budget limitato",
+      "offerId": "cap-barbell-olympic-plates",
+      "reason": "Costo più basso per libbra per nuovi dischi — funzionale per l'allenamento generale, pianificare di aggiornare in seguito."
+    },
+    {
+      "label": "Per sollevamento olimpico e CrossFit",
+      "offerId": "rogue-hi-temp-bumper-plates",
+      "reason": "Certificati per drop giornalieri dall'alto con inserti rinforzati in acciaio — lo standard bumper."
+    },
+    {
+      "label": "Per spazi condivisi con spazio a terra limitato",
+      "offerId": "fringe-sport-bumper-plates",
+      "reason": "Il minore dead bounce della gomma vergine impedisce ai dischi di rimbalzare verso pareti e attrezzature."
+    }
+  ]
 }

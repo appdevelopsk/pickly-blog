@@ -98,5 +98,184 @@
     "zoff-uv-sunglasses": "Zoff UV Sunglasses with UV400 protection and Japanese domestic frame design calibrated for East Asian facial geometry. The nose bridge height, face width, and nose pad configuration are designed specifically for lower nose bridges and broader East Asian faces, producing a stable fit without aftermarket modification. Polarized options are available at most price points. Same-day prescription lens service available at all Zoff retail locations in Japan. polycarbonate lens optical quality is adequate but not premium — peripheral distortion is higher than glass options and higher than premium-grade polycarbonate at elevated price tiers; the frame aesthetic is functional rather than fashion-forward, and style selection is more conservative than fashion sunglasses brands; UV400 compliance documentation for specific Zoff models is harder to independently verify than for major international brands with published specification sheets; Zoff's product catalog updates frequently and frames shown online are not always in-store stock.",
     "jins-smart-shield": "JINS Smart Shield with combined UV-blocking and infrared-reducing lens coating, and built-in prescription lens compatibility across the product range. The dual UV/IR coating is designed for the profile of a Japanese commuter with significant screen exposure and outdoor UV exposure — the IR reduction is marketed as protective against both solar IR and near-IR from digital screens. Same-day Rx sunglasses are available at JINS retail locations using standard single-vision and progressive lens powers, with NXT (Trivex) available as an upgrade at most locations. the anti-IR coating for screen protection is not validated by a third-party optical standards body to the same standard as UV400 certifications — the evidence for screen-emitted near-IR causing measurable eye damage at typical consumer exposure levels is contested in the optometry literature; the frame aesthetic prioritizes function over fashion and Smart Shield frames have a distinctly utility look that some buyers find unappealing; JINS frames are polycarbonate-dominant and do not have the premium tactile quality of acetate or metal frames at similar price points."
   },
-  "methodology": "We evaluated each product on ingredient transparency, dermatological track record, real-user outcome consistency, packaging quality, and value per use."
+  "methodology": "Each frame was assessed on UV protection standard and verifiability, lens optical clarity across the full field of view including periphery, fit stability on both Western and East Asian facial geometry without modification, value against competing options at the same price tier, and long-term durability of frame material and lens coating.",
+  "products": [
+    {
+      "offerId": "rayban-wayfarer-classic",
+      "badge": "Best Overall",
+      "review": "The Ray-Ban RB2140 Wayfarer's acetate frame and keyhole nose bridge have genuine advantages for daily wear — UV400 standard across all lens options, polarized upgrade available, and the iconic shape that won't look dated in five years. The lack of an official Asian Fit variant and the frame slide on lower nose bridges are real limitations to test in person before buying.",
+      "pros": [
+        "Keyhole nose bridge is more forgiving for lower nose bridges than saddle-bridge designs",
+        "Acetate frame quality and aesthetic longevity that polycarbonate frames at this price cannot match",
+        "UV400 standard on all lens options with polarized upgrade available for driving and outdoor use"
+      ],
+      "cons": [
+        "No official Asian Fit variant for RB2140; frame slides on most East Asian facial geometry without modification"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Frame material": "Cellulose acetate",
+        "Lens material": "Glass (standard) / Polarized glass (upgrade)",
+        "UV protection": "UV400",
+        "Nose bridge": "Keyhole (fixed)",
+        "Asian Fit available": "No (RB2140)",
+        "Polarized option": "Yes (price premium)",
+        "Price": "$163"
+      },
+      "scores": {
+        "UV protection": 4.8,
+        "Lens clarity": 4.5,
+        "Fit": 3.8,
+        "Value": 3.9,
+        "Durability": 4.5
+      }
+    },
+    {
+      "offerId": "oakley-holbrook",
+      "badge": "Best for Sport and High Activity",
+      "review": "Oakley's O-Matter polycarbonate frame and optional Prizm lens technology are genuine performance advantages for sport use — Prizm Road, Snow, and Water variants enhance specific-environment contrast meaningfully. The saddle bridge sits high on most Asian faces and will slide without aftermarket nose pad modification (~¥1,000 fix).",
+      "pros": [
+        "Prizm lens variants enhance contrast for specific environments — Road, Snow, Water each serve real use cases",
+        "O-Matter frame is impact-resistant and lightweight — the best sport durability in this comparison",
+        "Three-Point Fit grips at nose and temples without pressure points for active use"
+      ],
+      "cons": [
+        "Saddle bridge slides on most East Asian face shapes — aftermarket nose pad modification almost always needed"
+      ],
+      "grade": "A",
+      "specs": {
+        "Frame material": "O-Matter (polycarbonate variant)",
+        "Lens material": "Plutonite polycarbonate",
+        "UV protection": "UV400 (100% UVA/UVB/UVC)",
+        "Nose bridge": "Saddle (fixed)",
+        "Asian Fit available": "Some models (not standard Holbrook)",
+        "Prizm option": "Yes (multiple activity variants)",
+        "Price": "$197"
+      },
+      "scores": {
+        "UV protection": 5.0,
+        "Lens clarity": 4.3,
+        "Fit": 3.5,
+        "Value": 3.8,
+        "Durability": 4.9
+      }
+    },
+    {
+      "offerId": "maui-jim-peahi",
+      "badge": "Best Optical Clarity",
+      "review": "Maui Jim's SuperThin glass polarized lenses with PolarizedPlus2 dual-surface coating produce the highest optical quality in this comparison — minimal peripheral distortion, genuine color accuracy, and back-of-lens reflection control that polycarbonate cannot match. Glass weight and ¥30,000+ pricing in Japan are real trade-offs.",
+      "pros": [
+        "SuperThin glass lenses produce the least peripheral distortion of any lens in this comparison",
+        "PolarizedPlus2 coating addresses reflections entering from behind — standard polarized lenses do not",
+        "Best-in-class water and fishing visibility — genuinely different from polycarbonate at oblique angles"
+      ],
+      "cons": [
+        "Glass shatters on impact — unsuitable for sport; ¥30,000+ in Japan; no prescription service or Asian Fit in domestic retail"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Frame material": "Injected nylon",
+        "Lens material": "SuperThin glass (polarized)",
+        "UV protection": "UV400",
+        "Nose bridge": "Saddle",
+        "Asian Fit available": "Select models, hard to find in Japan",
+        "Polarized": "Yes (PolarizedPlus2)",
+        "Price": "$289"
+      },
+      "scores": {
+        "UV protection": 5.0,
+        "Lens clarity": 5.0,
+        "Fit": 3.2,
+        "Value": 3.0,
+        "Durability": 3.5
+      }
+    },
+    {
+      "offerId": "zoff-uv-sunglasses",
+      "badge": "Best for Asian Face Fit on a Budget",
+      "review": "Zoff's domestic Japan frames are engineered for lower nose bridges and broader East Asian face widths — the fit is stable out of the box without aftermarket modification. UV400 compliant with polarized options from ¥4,000–¥8,000 and same-day prescription service at all Japan stores. Lens optical quality is adequate but not premium.",
+      "pros": [
+        "Designed for East Asian facial geometry — stable fit on lower nose bridges without modification",
+        "Same-day prescription sunglasses at all Japan retail locations from approx. ¥5,000",
+        "Polarized options available at the lowest price of any option in this comparison"
+      ],
+      "cons": [
+        "Polycarbonate optical quality shows more peripheral distortion than premium glass or high-end polycarbonate"
+      ],
+      "grade": "B",
+      "specs": {
+        "Frame material": "Various (plastic/TR-90)",
+        "Lens material": "Polycarbonate",
+        "UV protection": "UV400",
+        "Nose bridge": "Low-profile (East Asian fit)",
+        "Prescription available": "Yes — same-day at all Japan stores",
+        "Polarized option": "Yes (from ¥4,000)",
+        "Price": "¥5,500 typical"
+      },
+      "scores": {
+        "UV protection": 4.5,
+        "Lens clarity": 3.8,
+        "Fit": 4.9,
+        "Value": 4.8,
+        "Durability": 3.9
+      }
+    },
+    {
+      "offerId": "jins-smart-shield",
+      "badge": "Best for Prescription Wearers",
+      "review": "JINS Smart Shield combines UV blocking and infrared reduction with prescription compatibility across the full product range — same-day Rx at Japan stores and NXT Trivex upgrade available for better optical quality. The anti-IR coating's screen-protection claim is not independently validated to the same standard as UV400 certifications.",
+      "pros": [
+        "Built-in prescription compatibility with same-day Rx available at JINS Japan stores",
+        "NXT Trivex lens upgrade available at most locations for better optical quality than polycarbonate",
+        "Combined UV and IR reduction addresses both sunlight and screen exposure in one lens"
+      ],
+      "cons": [
+        "Anti-IR screen protection coating not validated by a third-party optical standards body — evidence for typical screen IR exposure causing eye damage is contested"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Frame material": "Polycarbonate / TR-90",
+        "Lens material": "Polycarbonate (NXT Trivex upgrade available)",
+        "UV protection": "UV400",
+        "IR protection": "Yes (proprietary coating)",
+        "Nose bridge": "Low-profile (East Asian fit)",
+        "Prescription available": "Yes — same-day at Japan stores",
+        "Price": "¥6,600 typical"
+      },
+      "scores": {
+        "UV protection": 4.6,
+        "Lens clarity": 3.9,
+        "Fit": 4.8,
+        "Value": 4.6,
+        "Durability": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For daily casual wear with timeless style and polarized performance",
+      "offerId": "rayban-wayfarer-classic",
+      "reason": "The acetate frame and keyhole nose bridge combine premium aesthetics with a polarized upgrade option — best all-purpose pick for riders who don't have unusually low nose bridges."
+    },
+    {
+      "label": "For outdoor sport and high-activity use",
+      "offerId": "oakley-holbrook",
+      "reason": "Prizm lens technology and O-Matter durability are genuine performance advantages for sport — add a ¥1,000 nose pad kit if your nose bridge is low."
+    },
+    {
+      "label": "For water, fishing, and optical clarity as the top priority",
+      "offerId": "maui-jim-peahi",
+      "reason": "Glass PolarizedPlus2 lenses produce visibility through water that polycarbonate cannot match — the right choice when what you see through the lens matters more than weight."
+    },
+    {
+      "label": "For East Asian face shapes who need stable fit on a budget",
+      "offerId": "zoff-uv-sunglasses",
+      "reason": "Engineered for lower nose bridges and broader East Asian face widths — stable UV400 protection that fits correctly without modification or expense."
+    },
+    {
+      "label": "For prescription wearers who need daily UV sunglasses",
+      "offerId": "jins-smart-shield",
+      "reason": "Same-day Rx sunglasses with NXT Trivex upgrade available — the most convenient and cost-effective entry point for corrective lens wearers in Japan."
+    }
+  ]
 }

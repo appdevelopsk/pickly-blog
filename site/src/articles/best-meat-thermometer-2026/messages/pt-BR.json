@@ -58,5 +58,144 @@
     "taylor-precision-9842-thermometer": "Digital de leitura instantânea simples com resposta de quatro a cinco segundos e precisão de ±2°F. Cobre os casos de uso essenciais — verificar frango, assados e óleo de fritura — a menos de $20."
   },
   "pinDescription": "Melhores termômetros para carne 2026: Thermapen ONE vs MEATER Plus vs Lavatools Javelin PRO comparados em velocidade de leitura, precisão e alcance sem fio. Melhor escolha + alternativas econômicas.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada termômetro foi avaliado com base na velocidade de resposta da sonda, tolerância de precisão, impermeabilização e durabilidade, e no fluxo de trabalho prático — quão rapidamente uma leitura pode ser tomada e usada durante o cozimento ativo.",
+  "products": [
+    {
+      "offerId": "thermoworks-thermapen-one",
+      "badge": "Melhor no geral",
+      "review": "O Thermapen ONE é o termômetro de leitura instantânea mais rápido e preciso para uso doméstico — leituras de 1 segundo com precisão de ±0,5°F, impermeável IP67 e display de rotação automática para qualquer ângulo de pega. O único compromisso é o preço de cerca de R$500, duas a cinco vezes mais do que as alternativas.",
+      "pros": ["Leitura de 1 segundo — o mais rápido da categoria", "Precisão ±0,5°F, IP67 lavável sob água corrente", "Display de rotação automática para qualquer ângulo"],
+      "cons": ["~R$500 — significativamente mais caro que as alternativas"],
+      "grade": "A+",
+      "specs": {
+        "Tempo de leitura": "1 segundo",
+        "Precisão": "±0,5°F",
+        "Faixa": "-58°F a 572°F",
+        "Impermeabilidade": "IP67",
+        "Duração da bateria": "2.000 horas",
+        "Display": "Rotação automática"
+      },
+      "scores": {
+        "Velocidade": 5.0,
+        "Precisão": 5.0,
+        "Durabilidade": 4.9,
+        "Custo-benefício": 3.5,
+        "Facilidade de uso": 5.0
+      }
+    },
+    {
+      "offerId": "lavatools-javelin-pro-duo",
+      "badge": "Melhor custo-benefício",
+      "review": "O Javelin PRO Duo oferece precisão ±0,9°F e tempo de leitura de 3–4 segundos a aproximadamente 40% do preço do Thermapen ONE. Um imã na parte traseira para fixar na geladeira ou churrasqueira e um design de sonda dobrável ambidestro o tornam o upgrade de orçamento mais prático.",
+      "pros": ["Precisão ±0,9°F a ~40% do preço do Thermapen", "Imã para fixar na churrasqueira ou geladeira", "Display grande de rotação automática"],
+      "cons": ["Leitura de 3–4 segundos é mais lenta que o Thermapen em uma churrasqueira aberta"],
+      "grade": "A",
+      "specs": {
+        "Tempo de leitura": "3–4 segundos",
+        "Precisão": "±0,9°F",
+        "Faixa": "-40°F a 482°F",
+        "Impermeabilidade": "Resistente a respingos",
+        "Fixação": "Parte traseira magnética",
+        "Display": "Rotação automática"
+      },
+      "scores": {
+        "Velocidade": 4.2,
+        "Precisão": 4.6,
+        "Durabilidade": 4.4,
+        "Custo-benefício": 5.0,
+        "Facilidade de uso": 4.8
+      }
+    },
+    {
+      "offerId": "meater-plus-wireless-thermometer",
+      "badge": "Melhor sem fio",
+      "review": "O MEATER Plus resolve um problema completamente diferente: permanece na carne durante todo o cozimento, enviando temperaturas em tempo real e estimativas de tempo até a temperatura alvo para um app de smartphone via Bluetooth. Indispensável para cozimentos longos no forno ou defumador.",
+      "pros": ["Completamente sem fio — sem cabos para gerenciar na grelha", "Sensores duplos medem temperatura interna e ambiente simultaneamente", "App estima o tempo de cozimento restante em tempo real"],
+      "cons": ["Mede apenas um ponto — para cortes muito grandes pode ser necessária verificação adicional"],
+      "grade": "B+",
+      "specs": {
+        "Tipo de medição": "Sem fio contínuo",
+        "Faixa interna": "Até 212°F",
+        "Faixa ambiente": "Até 527°F",
+        "Alcance Bluetooth": "50 m",
+        "Conectividade": "Bluetooth + WiFi via dock",
+        "App": "iOS e Android"
+      },
+      "scores": {
+        "Velocidade": 3.0,
+        "Precisão": 4.3,
+        "Durabilidade": 4.2,
+        "Custo-benefício": 3.8,
+        "Facilidade de uso": 4.5
+      }
+    },
+    {
+      "offerId": "oxo-chef-precision-thermometer",
+      "badge": "Melhor faixa intermediária",
+      "review": "O OXO oferece leituras de 3–4 segundos com precisão ±1°F, aderência antiderrapante e garantia de 2 anos — incomum nessa faixa de preço. Está claramente acima do Taylor em velocidade e precisão e abaixo do Lavatools.",
+      "pros": ["Precisão ±1°F com garantia de 2 anos — raro nessa faixa de preço", "Aderência antiderrapante para mãos molhadas e calor", "Display grande e fácil de ler"],
+      "cons": ["Faixa termina em 392°F — pode não cobrir altas temperaturas de fritura"],
+      "grade": "B",
+      "specs": {
+        "Tempo de leitura": "3–4 segundos",
+        "Precisão": "±1°F",
+        "Faixa": "32°F a 392°F",
+        "Impermeabilidade": "Não indicada",
+        "Garantia": "2 anos",
+        "Armazenamento": "Sonda dobrável"
+      },
+      "scores": {
+        "Velocidade": 4.1,
+        "Precisão": 4.3,
+        "Durabilidade": 4.5,
+        "Custo-benefício": 4.4,
+        "Facilidade de uso": 4.7
+      }
+    },
+    {
+      "offerId": "taylor-precision-9842-thermometer",
+      "badge": "Melhor custo baixo",
+      "review": "O Taylor 9842 cobre os casos de uso essenciais — frango, assados, óleo de fritura — por menos de R$100. A resposta de 4–5 segundos e a tolerância de ±2°F são mais lentas e menos precisas que tudo mais aqui, mas suficientes para cozinheiros que raramente verificam temperaturas.",
+      "pros": ["Menos de R$100 — o mais barato desta comparação", "Cobre todas as verificações essenciais de segurança alimentar", "Operação simples sem curva de aprendizado"],
+      "cons": ["4–5 segundos é o dobro do OXO; ±2°F é a maior tolerância aqui"],
+      "grade": "B-",
+      "specs": {
+        "Tempo de leitura": "4–5 segundos",
+        "Precisão": "±2°F",
+        "Faixa": "32°F a 392°F",
+        "Impermeabilidade": "Nenhuma",
+        "Display": "LCD digital",
+        "Armazenamento": "Sonda dobrável"
+      },
+      "scores": {
+        "Velocidade": 3.2,
+        "Precisão": 3.5,
+        "Durabilidade": 3.8,
+        "Custo-benefício": 4.8,
+        "Facilidade de uso": 4.6
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para cozinheiros sérios na churrasqueira",
+      "offerId": "thermoworks-thermapen-one",
+      "reason": "A leitura de 1 segundo permite verificar um bife e fechar a tampa da churrasqueira em um único movimento — sem perda de calor, sem espera."
+    },
+    {
+      "label": "Para cozinheiros domésticos com orçamento limitado",
+      "offerId": "lavatools-javelin-pro-duo",
+      "reason": "Precisão próxima ao Thermapen a 40% do preço; o imã o mantém na porta da geladeira sempre pronto para usar."
+    },
+    {
+      "label": "Para cozimentos longos em baixa temperatura",
+      "offerId": "meater-plus-wireless-thermometer",
+      "reason": "Basta verificar o app — sem levantar a tampa, sem emaranhado de cabos, e um tempo estimado de conclusão para planejar os acompanhamentos."
+    },
+    {
+      "label": "Para cozinheiros ocasionais com orçamento apertado",
+      "offerId": "taylor-precision-9842-thermometer",
+      "reason": "Cobre as verificações de segurança alimentar mais importantes por menos de R$100 — não há mais desculpa para não ter um."
+    }
+  ]
 }

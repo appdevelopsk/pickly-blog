@@ -111,5 +111,64 @@
     "esr-halolock-2in1-travel": "ESR's foldable MagSafe-compatible 2-in-1 travel wireless charger — MagSafe magnet ring for iPhone alignment snap, secondary 5W Qi AirPods pad, folds flat to credit-card footprint at ~12mm, USB-C input, approximately ¥4,000. Available on Rakuten Ichiba. 7.5W maximum iPhone charge speed, not full 15W MagSafe — ESR HaloLock uses MagSafe-compatible magnets without full Qi2 certification, so it aligns like MagSafe but charges at 7.5W; the AirPods pad is 5W Qi only with no MagSafe alignment for AirPods; no Apple Watch charging spot, requiring a separate Apple Watch cable on travel; build finish is noticeably less premium than Belkin or Anker MagGo; the ¥4,000 price is competitive but third-party Qi2-certified options at similar prices have begun to appear in 2026 that deliver the full 15W rate."
   },
   "pinDescription": "5 wireless chargers compared for 2026 — Apple MagSafe vs Qi2 vs budget Qi, honest. MagSafe 15W takes 2hrs for iPhone 15. Multi-device stations need 30W adapters not included. Heat and battery health tips. Travel pick under ¥4,000 Clean desk setup.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each charger was evaluated on real-world charge speed (accounting for adapter inclusion and thermal throttling), ecosystem compatibility, heat generation under sustained use, travel portability, and total cost of ownership including required adapters.",
+  "products": [
+    {
+      "offerId": "apple-magsafe-charger-usb-c",
+      "badge": "Best Overall",
+      "review": "Apple's own MagSafe Charger is the reference implementation: 15W guaranteed on iPhone 12+, precise magnetic alignment, and a 2m cable that most desk setups benefit from. The catch is that the marketed 15W rate requires a 20W+ USB-C PD adapter sold separately (~¥2,780) — budget for it at purchase time.",
+      "pros": ["Guaranteed 15W on iPhone 12+ with 20W+ adapter", "2m cable length genuinely useful for desk routing", "Most precise MagSafe magnetic alignment"],
+      "cons": ["No adapter included — 15W needs 20W+ PD adapter (~¥2,780 extra)"],
+      "grade": "A+",
+      "specs": {"Max output": "15W (MagSafe, iPhone 12+)", "Cable length": "2m", "Connector": "USB-C", "Adapter included": "No", "MFi certified": "Yes", "Price": "~¥4,980"},
+      "scores": {"Charging speed": 4.8, "Compatibility": 3.8, "Build quality": 4.7, "Value": 3.5, "Heat management": 4.2}
+    },
+    {
+      "offerId": "anker-maggo-3in1-station",
+      "badge": "Best Desk Station",
+      "review": "The Anker MagGo charges iPhone (15W MagSafe), Apple Watch (MFi fast charge), and AirPods (5W Qi) simultaneously from one cable — the foldable design keeps the desk tidy. The 30W USB-C adapter required for full simultaneous charging is not included and adds ¥2,000–4,000 to the effective cost.",
+      "pros": ["Simultaneous iPhone + Apple Watch + AirPods charging", "MagSafe-certified 15W iPhone spot", "Foldable design for desk or travel"],
+      "cons": ["30W adapter not included — adds ¥2,000–4,000 to real price"],
+      "grade": "A",
+      "specs": {"iPhone output": "15W MagSafe", "Apple Watch": "MFi fast charge 5W", "AirPods": "5W Qi", "Adapter required": "30W USB-C PD (not included)", "Foldable": "Yes", "Price": "~¥8,000–12,000"},
+      "scores": {"Charging speed": 4.6, "Compatibility": 4.2, "Build quality": 4.3, "Value": 3.9, "Heat management": 4.0}
+    },
+    {
+      "offerId": "belkin-boostcharge-pro-3in1",
+      "badge": "Best Premium Build",
+      "review": "Belkin's BoostCharge Pro matches the MagGo on MagSafe speed and Apple Watch fast charge but wraps it in fabric and aluminium construction that feels noticeably more premium. At ~¥15,000 it is the most expensive charger in this comparison — the price premium over the Anker MagGo is build quality, not charging performance.",
+      "pros": ["Premium fabric-wrap aluminium build quality", "MFi MagSafe + Apple Watch fast charge (Series 7+)", "Best-integrated Apple Watch arm position"],
+      "cons": ["Most expensive option (~¥15,000); Apple Watch arm makes travel packing awkward"],
+      "grade": "B+",
+      "specs": {"iPhone output": "15W MagSafe", "Apple Watch": "MFi fast charge 5W (Series 7+)", "AirPods": "5W Qi", "Build": "Fabric-wrap + aluminium", "Travel friendly": "No (protruding arm)", "Price": "~¥15,000"},
+      "scores": {"Charging speed": 4.6, "Compatibility": 4.2, "Build quality": 5.0, "Value": 3.2, "Heat management": 4.1}
+    },
+    {
+      "offerId": "anker-313-wireless-charger",
+      "badge": "Best Budget Qi",
+      "review": "The Anker 313 is the no-frills Qi pad that covers Android (10W) and iPhone (7.5W) at under ¥2,000. There is no magnetic alignment — you must position the phone precisely over the coil — and 7.5W is the slowest iPhone wireless rate in this comparison. For Android users or pre-iPhone-12 owners where MagSafe doesn't apply, this is the correct budget choice.",
+      "pros": ["Under ¥2,000 — most affordable wireless option here", "10W Qi for compatible Android devices", "USB-A cable included (rare at this price)"],
+      "cons": ["No magnetic alignment — phone must be placed precisely; 7.5W iPhone is slowest in comparison"],
+      "grade": "B",
+      "specs": {"Max output": "10W Qi (Android)", "iPhone output": "7.5W Qi", "Alignment": "None (manual placement)", "Cable": "USB-A included", "Apple Watch": "No", "Price": "<¥2,000"},
+      "scores": {"Charging speed": 3.2, "Compatibility": 4.5, "Build quality": 3.5, "Value": 4.9, "Heat management": 4.4}
+    },
+    {
+      "offerId": "esr-halolock-2in1-travel",
+      "badge": "Best for Travel",
+      "review": "The ESR HaloLock folds to credit-card footprint (~12mm thick) with MagSafe-compatible magnets for iPhone alignment and a secondary 5W Qi pad for AirPods. At ~¥4,000 it is the best value-to-portability trade in this comparison. The 7.5W iPhone ceiling (MagSafe-compatible magnets without Qi2 certification) is the only real limitation for travel use.",
+      "pros": ["Folds to credit-card footprint — lightest travel option here", "MagSafe-compatible magnetic alignment for iPhone", "AirPods Qi pad on same fold"],
+      "cons": ["7.5W iPhone only (not full 15W MagSafe — no Qi2 cert); no Apple Watch spot"],
+      "grade": "B-",
+      "specs": {"iPhone output": "7.5W (MagSafe-compatible)", "AirPods": "5W Qi", "Folded thickness": "~12mm", "Connector": "USB-C", "Apple Watch": "No", "Price": "~¥4,000"},
+      "scores": {"Charging speed": 3.5, "Compatibility": 3.8, "Build quality": 3.6, "Value": 4.5, "Heat management": 4.3}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For iPhone desk charging at full speed", "offerId": "apple-magsafe-charger-usb-c", "reason": "Reference MagSafe implementation with 2m cable — buy the 20W adapter at the same time."},
+    {"label": "For full Apple ecosystem desk setups", "offerId": "anker-maggo-3in1-station", "reason": "iPhone + Apple Watch + AirPods from one cable; better value than Belkin at similar charging specs."},
+    {"label": "For Android or pre-iPhone-12 budget charging", "offerId": "anker-313-wireless-charger", "reason": "10W Qi covers most Android fast wireless scenarios at the lowest price in this comparison."},
+    {"label": "For travel with iPhone and AirPods", "offerId": "esr-halolock-2in1-travel", "reason": "Credit-card footprint with MagSafe-compatible alignment — accept the 7.5W ceiling in exchange for packing minimalism."},
+    {"label": "For premium desk aesthetics", "offerId": "belkin-boostcharge-pro-3in1", "reason": "Fabric-wrap aluminium build justifies the premium if Anker's construction feels unsatisfying — charging performance is identical."}
+  ]
 }

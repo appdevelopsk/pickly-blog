@@ -66,5 +66,185 @@
     "tribest-sedona-express": "11 bandejas, zonas de aquecimento duplas (frontal/traseira podem ser configuradas para temperaturas diferentes), abaixo de 55 dB. Ideal para cargas de temperatura mista — desidratar ervas em temperatura baixa e carne seca em temperatura alta simultaneamente na mesma máquina."
   },
   "pinDescription": "Comparação de desidratadores de alimentos 2026: Excalibur 9 bandejas vs Cosori vs Nesco Snackmaster vs Presto Dehydro vs Tribest Sedona — qual desidratador faz a melhor carne seca, fruta desidratada e ervas? Fluxo de ar horizontal vs vertical explicado. #desidratador #conservaçãoAlimentos #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada desidratador foi avaliado pelo design do fluxo de ar e uniformidade de secagem, faixa e precisão de temperatura, capacidade de bandejas, nível de ruído em operação, facilidade de limpeza e confiabilidade de longo prazo com base em feedback documentado de usuários.",
+  "products": [
+    {
+      "offerId": "excalibur-9-tray-dehydrator",
+      "badge": "Melhor geral",
+      "review": "O Excalibur 9-Tray é o padrão contra o qual qualquer outro desidratador é medido. O fluxo de ar horizontal traseiro seca todas as 9 bandejas uniformemente sem rotação, e 15 pés quadrados de superfície de secagem lidam com uma leva completa de jerky em uma sessão. O compromisso é o preço ($200–$300) e o espaço na bancada.",
+      "pros": [
+        "Ventilador traseiro com fluxo horizontal — sem rotação de bandejas necessária",
+        "15 pés quadrados de capacidade em 9 bandejas",
+        "Abaixo de 60 dB e garantia de 10 anos"
+      ],
+      "cons": [
+        "Preço de $200–$300 e grande espaço na bancada"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Preço": "~$200–$300",
+        "Bandejas": "9 (15 pés²)",
+        "Fluxo de ar": "Horizontal traseiro",
+        "Faixa temp.": "95–165°F",
+        "Ruído": "<60 dB",
+        "Garantia": "10 anos",
+        "Material bandeja": "Policarbonato apto para lava-louças"
+      },
+      "scores": {
+        "Drying performance": 4.9,
+        "Capacity": 4.8,
+        "Noise": 4.5,
+        "Value": 4.0,
+        "Ease of use": 4.7
+      }
+    },
+    {
+      "offerId": "cosori-premium-food-dehydrator",
+      "badge": "Melhor custo-benefício",
+      "review": "O Cosori Premium 6 bandejas traz fluxo de ar horizontal a $100–$150 — metade do preço do Excalibur com capacidade proporcionalmente menor. O display digital de leitura dupla (temperatura configurada e real simultaneamente) é uma função genuinamente útil para monitorar ciclos. Ideal para famílias que desidratam ocasionalmente em vez de em grandes quantidades.",
+      "pros": [
+        "Fluxo de ar horizontal — sem rotação de bandejas",
+        "Display de leitura dupla mostra temperatura configurada e real",
+        "Temporizador de 48 horas com porta transparente"
+      ],
+      "cons": [
+        "6 bandejas vs 9 do Excalibur — menor capacidade de leva"
+      ],
+      "grade": "A",
+      "specs": {
+        "Preço": "~$100–$150",
+        "Bandejas": "6 (~5,5 pés²)",
+        "Fluxo de ar": "Horizontal",
+        "Faixa temp.": "95–165°F",
+        "Temporizador": "48 horas",
+        "Display": "Leitura dupla digital",
+        "Porta": "Transparente"
+      },
+      "scores": {
+        "Drying performance": 4.5,
+        "Capacity": 3.8,
+        "Noise": 4.4,
+        "Value": 4.6,
+        "Ease of use": 4.6
+      }
+    },
+    {
+      "offerId": "nesco-snackmaster-pro",
+      "badge": "Melhor expansível",
+      "review": "O Nesco Snackmaster Pro é o desidratador mais avaliado na Amazon e está em produção há décadas. Sua vantagem única é a expansibilidade — comece com 5 bandejas redondas e adicione até 12 sem comprar uma nova máquina. O fluxo de ar vertical significa que a rotação de bandejas é necessária para secagem uniforme.",
+      "pros": [
+        "Expansível de 5 para 12 bandejas sem comprar nova máquina",
+        "Desidratador mais avaliado na Amazon",
+        "Bandejas redondas compactas se guardam facilmente"
+      ],
+      "cons": [
+        "O fluxo de ar vertical requer rotação de bandejas para secagem uniforme"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Preço": "~$60–$90",
+        "Bandejas": "5 (expansível para 12)",
+        "Fluxo de ar": "Vertical superior",
+        "Faixa temp.": "95–160°F",
+        "Controles": "Dial analógico",
+        "Rotação necessária": "Sim",
+        "Forma": "Bandejas redondas"
+      },
+      "scores": {
+        "Drying performance": 3.8,
+        "Capacity": 4.2,
+        "Noise": 4.0,
+        "Value": 4.5,
+        "Ease of use": 3.8
+      }
+    },
+    {
+      "offerId": "presto-dehydro-digital",
+      "badge": "Melhor nível de entrada",
+      "review": "O Presto Dehydro Digital é o ponto de entrada para novos desidratadores a $60–$80. O termostato e temporizador digitais melhoram os controles analógicos do Nesco. Seis bandejas redondas com fluxo vertical entregam resultados adequados mas desiguais — planeje a rotação. Ideal como compra de teste antes de se comprometer com uma máquina de fluxo horizontal.",
+      "pros": [
+        "Termostato e temporizador digitais a preço de entrada",
+        "Bom primeiro desidratador para testar o hobby",
+        "Pegada compacta"
+      ],
+      "cons": [
+        "O fluxo de ar vertical produz secagem desigual sem rotação",
+        "Bandejas redondas mais estreitas que retangulares"
+      ],
+      "grade": "B",
+      "specs": {
+        "Preço": "~$60–$80",
+        "Bandejas": "6 redondas",
+        "Fluxo de ar": "Vertical",
+        "Controle temp.": "Digital",
+        "Temporizador": "Digital",
+        "Rotação necessária": "Sim",
+        "Forma": "Bandejas redondas"
+      },
+      "scores": {
+        "Drying performance": 3.5,
+        "Capacity": 3.4,
+        "Noise": 3.8,
+        "Value": 4.4,
+        "Ease of use": 4.0
+      }
+    },
+    {
+      "offerId": "tribest-sedona-express",
+      "badge": "Melhor para cargas mistas",
+      "review": "O Tribest Sedona Express resolve o único problema que o Excalibur não consegue: secar simultaneamente alimentos que requerem temperaturas diferentes. Suas duas zonas de aquecimento independentes permitem ervas a 95–115°F e jerky a 155–165°F na mesma máquina ao mesmo tempo. Abaixo de 55 dB — o mais silencioso da categoria. Custa mais que o Excalibur com menos capacidade total.",
+      "pros": [
+        "Duas zonas de aquecimento independentes para cargas mistas simultâneas",
+        "Abaixo de 55 dB — desidratador mais silencioso desta comparação",
+        "11 bandejas com opção de aço inoxidável"
+      ],
+      "cons": [
+        "Mais caro que o Excalibur com menos superfície de bandeja"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Preço": "~$250–$350",
+        "Bandejas": "11",
+        "Fluxo de ar": "Horizontal dupla zona",
+        "Zonas temp.": "2 independentes",
+        "Ruído": "<55 dB",
+        "Faixa temp.": "95–167°F",
+        "Controles": "Digital"
+      },
+      "scores": {
+        "Drying performance": 4.7,
+        "Capacity": 4.0,
+        "Noise": 4.8,
+        "Value": 3.5,
+        "Ease of use": 4.2
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para desidratadores caseiros sérios",
+      "offerId": "excalibur-9-tray-dehydrator",
+      "reason": "Grande capacidade de fluxo horizontal sem rotação de bandejas e garantia de 10 anos"
+    },
+    {
+      "label": "Para uso doméstico ocasional",
+      "offerId": "cosori-premium-food-dehydrator",
+      "reason": "Fluxo horizontal a metade do preço do Excalibur com display de leitura dupla útil"
+    },
+    {
+      "label": "Para compradores que querem aumentar capacidade",
+      "offerId": "nesco-snackmaster-pro",
+      "reason": "Expandir de 5 para 12 bandejas sem substituir a máquina"
+    },
+    {
+      "label": "Para desidratadores pela primeira vez",
+      "offerId": "presto-dehydro-digital",
+      "reason": "Controles digitais a preço de entrada para testar o hobby antes de se comprometer com uma máquina maior"
+    },
+    {
+      "label": "Para secagem em múltiplas temperaturas",
+      "offerId": "tribest-sedona-express",
+      "reason": "Duas zonas de aquecimento independentes permitem secar ervas e jerky simultaneamente"
+    }
+  ]
 }

@@ -64,5 +64,184 @@
     "bowflex-c6-bike": "최대 앱 유연성을 갖춘 최고의 중간 가격대 가성비 — 100단계 미세 조정 가능한 저항 레벨은 25단계 시스템이 따라올 수 없는 인터벌 정밀도를 제공하고, 블루투스가 Peloton 앱, Zwift, JRNY에 동시 연결되며, SPD 클리트 호환성은 로드 사이클리스트가 즉시 클립할 수 있음을 의미합니다. C6에서 블루투스를 통해 Peloton 앱을 실행하는 비용은 Peloton 자전거를 소유하는 것과 같은 월 $44 회원비이지만, 하드웨어 가격은 현저히 낮습니다."
   },
   "pinDescription": "2026년 최고의 실내 자전거: Peloton vs NordicTrack S22i vs Schwinn 170 vs Bowflex C6 vs Sunny Health 예산 픽 — 홈 유산소를 위한 플라이휠 무게, 저항 유형, 구독 비용 비교.",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 바이크는 인터벌 부하 하의 저항감, 45분 세션에서의 안장 및 핸들바 편안함, 빌드 퀄리티와 프레임 강성, 연결성 및 앱 생태계 가치, 그리고 필수 구독 포함 12개월 총 소유 비용을 기준으로 평가했습니다.",
+  "products": [
+    {
+      "offerId": "schwinn-170-upright-bike",
+      "badge": "전체 최고",
+      "review": "슈윈 170은 유지보수가 필요 없는 자기 시스템으로 25단계 저항과 29개 내장 프로그램을 제공합니다. 구독 없이 구조화된 트레이닝이 가능합니다. 13.3kg 플라이휠은 유산소 운동에 충분한 모멘텀을 제공하지만, 더 무거운 스핀 바이크 플라이휠의 도로 느낌은 재현하지 못합니다.",
+      "pros": [
+        "29개 내장 프로그램 — 외부 앱이나 구독 불필요",
+        "조용한 자기 저항 — 공동 주거 환경에서 이른 아침 운동에 적합",
+        "나중에 Zwift 및 Peloton 앱으로 블루투스 연결 가능"
+      ],
+      "cons": [
+        "13.3kg 플라이휠은 같은 저항 수준에서 스핀 전용 바이크보다 가볍게 느껴집니다"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Flywheel": "13.3 kg",
+        "Resistance": "25-level magnetic",
+        "Built-in programs": "29",
+        "Connectivity": "Bluetooth (Zwift, Peloton app)",
+        "Display": "Dual LCD",
+        "Max user weight": "113 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.2,
+        "Comfort": 4.5,
+        "Build quality": 4.3,
+        "Value": 4.8,
+        "Noise": 4.9
+      }
+    },
+    {
+      "offerId": "nordictrack-s22i-studio-bike",
+      "badge": "야외 시뮬레이션 최고",
+      "review": "S22i의 물리적 -10%~+20% 경사/하강은 진정한 차별화 요소입니다. 다른 바이크는 근육 동원을 바꾸기 위해 프레임을 기울이지 않습니다. 22인치 터치스크린과 iFit 자동 저항은 헌신적인 라이더에게 가격을 정당화하지만, 월 $39의 iFit 구독은 연간 $468 이상의 추가 비용을 발생시킵니다.",
+      "pros": [
+        "프레임의 물리적 기울기가 오르막과 내리막을 시뮬레이션 — 평지 사이클링으로는 재현할 수 없는 근육 패턴",
+        "24.9kg 플라이휠 — 비교 중 가장 무거움",
+        "22인치 회전 터치스크린으로 바이크 외 근력 운동 및 요가 가능"
+      ],
+      "cons": [
+        "자동 저항 및 전체 수업 라이브러리를 위해 iFit 구독 필요 — 월 $39의 지속적인 비용"
+      ],
+      "grade": "A",
+      "specs": {
+        "Flywheel": "24.9 kg",
+        "Resistance": "Magnetic (auto-adjust via iFit)",
+        "Incline range": "-10% to +20%",
+        "Screen": "22-inch rotating touchscreen",
+        "Connectivity": "iFit (subscription required)",
+        "Max user weight": "136 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.9,
+        "Comfort": 4.3,
+        "Build quality": 4.6,
+        "Value": 3.5,
+        "Noise": 4.4
+      }
+    },
+    {
+      "offerId": "peloton-original-bike",
+      "badge": "라이브 클래스 생태계 최고",
+      "review": "Peloton의 실시간 리더보드와 강사 자동 저항 신호는 다른 어떤 바이크도 따라올 수 없는 동기부여 환경을 만듭니다. 독점 Look Delta 클리트 시스템과 월 $44 멤버십은 실제 비용입니다.",
+      "pros": [
+        "커뮤니티 리더보드가 있는 10,000개 이상의 라이브 및 온디맨드 수업",
+        "강사 저항 자동 추적 — 솔로 트레이닝이 코칭처럼 느껴짐",
+        "근력, 요가, 야외 달리기를 위한 21.5인치 HD 터치스크린"
+      ],
+      "cons": [
+        "독점 Look Delta 클리트는 대부분의 사이클리스트에게 새 신발 필요; 전체 기능 접근을 위해 월 $44 멤버십 필수"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Flywheel": "Undisclosed (estimated 18 kg)",
+        "Resistance": "100-level magnetic",
+        "Screen": "21.5-inch HD touchscreen",
+        "Connectivity": "Peloton Membership ($44/month)",
+        "Cleat system": "Look Delta (proprietary)",
+        "Max user weight": "136 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.5,
+        "Comfort": 4.4,
+        "Build quality": 4.5,
+        "Value": 3.2,
+        "Noise": 4.7
+      }
+    },
+    {
+      "offerId": "sunny-health-sf-b1002-bike",
+      "badge": "최고의 예산 선택",
+      "review": "SF-B1002의 22kg 플라이휠은 이 가격대의 자기 바이크가 재현할 수 없는 모멘텀 구동 라이딩 느낌을 만들어냅니다. 마찰 저항은 번호 있는 단계가 없고 결국 펠트 패드 마모를 의미하지만, 전자 장치 없는 순수한 라이딩 감각을 위해서는 가장 솔직한 선택입니다.",
+      "pros": [
+        "22kg 플라이휠 — 슈윈 170보다 무거워 더 진정한 사이클링 모멘텀 생성",
+        "약 155~185cm 라이더를 위한 핸들바와 안장 4방향 조절",
+        "비교 중 최저 가격, 구독 불필요"
+      ],
+      "cons": [
+        "디스플레이 없음, 블루투스 없음, 번호 있는 저항 단계 없음 — 매일 사용 시 펠트 패드는 12~18개월마다 교체 필요"
+      ],
+      "grade": "B",
+      "specs": {
+        "Flywheel": "22 kg",
+        "Resistance": "Friction (felt pad)",
+        "Display": "None",
+        "Connectivity": "None",
+        "Saddle adjustment": "4-way",
+        "Max user weight": "120 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.6,
+        "Comfort": 3.8,
+        "Build quality": 3.9,
+        "Value": 4.9,
+        "Noise": 3.5
+      }
+    },
+    {
+      "offerId": "bowflex-c6-bike",
+      "badge": "중간 가격대 최고 가성비",
+      "review": "Bowflex C6는 100단계 마이크로 조정 가능한 자기 저항 레벨과 Peloton, Zwift, JRNY에 동시 블루투스를 제공합니다. SPD 클리트 호환으로 로드 사이클리스트는 기존 신발로 바로 클립인할 수 있습니다. 슈윈 170보다 약 $100 더 비싸며, SPD 신발을 보유하고 앱 유연성을 원하는 사이클리스트에게 적합합니다.",
+      "pros": [
+        "인터벌 와트 매칭을 위한 100단계 마이크로 조정 가능 레벨",
+        "SPD 클리트 호환 — 로드 사이클리스트가 어댑터 없이 기존 신발 사용",
+        "Peloton, Zwift, JRNY에 동시 연결"
+      ],
+      "cons": [
+        "내장 스크린 없음 — 앱 콘텐츠를 위해 완전히 자신의 스마트폰이나 태블릿에 의존"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Flywheel": "Undisclosed (estimated 16 kg)",
+        "Resistance": "100-level magnetic",
+        "Display": "Backlit LCD (metrics only)",
+        "Connectivity": "Bluetooth (Peloton, Zwift, JRNY)",
+        "Cleat system": "SPD + toe cage",
+        "Max user weight": "136 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.4,
+        "Comfort": 4.2,
+        "Build quality": 4.1,
+        "Value": 4.5,
+        "Noise": 4.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "구독 없이 구조화된 트레이닝을 원하는 라이더를 위해",
+      "offerId": "schwinn-170-upright-bike",
+      "reason": "29개 내장 프로그램과 25단계 저항 레벨이 아무것도 연결하지 않고도 6개월간의 점진적 트레이닝을 제공합니다 — 월 요금 없음."
+    },
+    {
+      "label": "가장 유사한 실내 시뮬레이션을 원하는 야외 사이클리스트를 위해",
+      "offerId": "nordictrack-s22i-studio-bike",
+      "reason": "프레임의 물리적 기울기와 24.9kg 플라이휠은 여기 있는 어떤 바이크보다 도로 오르막과 내리막에 가장 정확한 실내 근사치입니다."
+    },
+    {
+      "label": "라이브 클래스로 동기부여받는 경쟁 지향 라이더를 위해",
+      "offerId": "peloton-original-bike",
+      "reason": "실시간 리더보드와 강사 자동 저항이 솔로 트레이닝보다 더 강한 노력을 이끌어내는 코칭 경험을 만듭니다."
+    },
+    {
+      "label": "순수한 라이딩 느낌을 원하는 예산을 중시하는 라이더를 위해",
+      "offerId": "sunny-health-sf-b1002-bike",
+      "reason": "22kg 플라이휠은 이 비교에서 최저 가격에 가장 무거운 모멘텀을 제공합니다 — 연결된 생태계에 헌신하기 전에 사이클링 습관을 확립하는 데 이상적."
+    },
+    {
+      "label": "앱 유연성을 원하는 SPD 신발 사이클리스트를 위해",
+      "offerId": "bowflex-c6-bike",
+      "reason": "기존 로드 사이클링 신발로 클립인하고 Peloton, Zwift 또는 JRNY에 동시 스트리밍 — 중간 가격대 하드웨어 비용으로 최대 앱 유연성."
+    }
+  ]
 }

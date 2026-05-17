@@ -86,5 +86,184 @@
     "ostrichpillow-go": "Beste Vollumwickel-Option fuer vorwaerts-und-seitlich geneigte Schlafer -- das geschlossene Schlaufen-Design stuetzt den Kopf von mehreren Winkeln. Passt sich Positionswechseln ohne Neueinrichtung an. Wird warm in der Kabine, und das vollstaendige Umwickeln kann fuer manche Nutzer klaustrophobisch wirken.",
     "tempur-travel-pillow": "Beste Stuetzqualitaet dank TEMPUR's langsam-rueckfedernder Anpassung -- passt sich deiner Nackenhgeometrie an und haelt die Kontur. Komprimiert ueberhaupt nicht, nimmt also festes Taschenvolumen ein; kein Kopfstuetzenanker; Premium-Preis. Macht nur Sinn, wenn du Koffer aufgibst und Schlafqualitaet ueber alles priorisierst."
   },
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Jedes Kissen wurde nach Nackenstützgeometrie, komprimiertem Packvolumen, Waschbarkeit und verifizierten Langstrecken-Berichten bewertet.",
+  "products": [
+    {
+      "offerId": "cabeau-evolution-s3",
+      "badge": "Gesamtsieger",
+      "review": "Memory-Schaumstoff mit Kopfstützen-Ankerklemmen — hält auf einem 13-Stunden-Flug. Bezug bei 30°C maschinenwäsche. U-Form drückt gegen hartes seitliches Anlehnen zurück.",
+      "pros": [
+        "Ankerklemmen verhindern Verrutschen",
+        "Maschinenwaschbarer Bezug",
+        "Für aufrechte und vorwärtsgeneigte Positionen"
+      ],
+      "cons": [
+        "Drückt gegen seitliches Anlehnen am Fenster"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Füllung": "Memory-Schaumstoff",
+        "Form": "U mit Ankerklemmen",
+        "Komprimiert": "13×13×8 cm",
+        "Bezug": "Maschinenwäsche 30°C",
+        "Anker": "Ja",
+        "Ideal für": "Gang-/Mittelplätze",
+        "Preis": "~40 €"
+      },
+      "scores": {
+        "Neck support": 4.5,
+        "Packability": 3.5,
+        "Comfort": 4.5,
+        "Value": 4.5,
+        "Material quality": 4.5
+      }
+    },
+    {
+      "offerId": "trtl-travel-pillow",
+      "badge": "Bestes Fenstersitz-Kissen",
+      "review": "Fleece-Schal mit starrem Gerüst für echte einseitige Nackenunterstützung. Rollt auf Jackentaschengröße. Funktioniert nur in eine Richtung.",
+      "pros": [
+        "Echte seitliche Stütze für Fenstersitzschläfer",
+        "Jackentaschengröße",
+        "Waschbar"
+      ],
+      "cons": [
+        "Nur eine Richtung — Wechseln erfordert Neuwickeln"
+      ],
+      "grade": "A",
+      "specs": {
+        "Füllung": "Starres Gerüst + Fleece",
+        "Form": "Schalwicklung",
+        "Gepackt": "Jackentasche",
+        "Bezug": "Handwäsche",
+        "Anker": "Nein",
+        "Ideal für": "Fenstersitz lateral",
+        "Preis": "~55 €"
+      },
+      "scores": {
+        "Neck support": 4.8,
+        "Packability": 5.0,
+        "Comfort": 4.0,
+        "Value": 4.0,
+        "Material quality": 4.0
+      }
+    },
+    {
+      "offerId": "bcozzy-travel-pillow",
+      "badge": "Bestes Mittel-/Gangplatz-Kissen",
+      "review": "Kinnstützkanal verhindert das Absinken des Kinns. Leichter als Memory-Schaumstoff. Kinnstütze ungünstig beim seitlichen Anlehnen.",
+      "pros": [
+        "Kinnstützkanal verhindert Absinken",
+        "Leichter als Memory-Schaumstoff",
+        "Abnehmbarer maschinenwaschbarer Bezug"
+      ],
+      "cons": [
+        "Kinnstütze ungünstig seitlich"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Füllung": "Weiches Fasermaterial",
+        "Form": "U mit Kinnstütze",
+        "Bezug": "Abnehmbar, Maschinenwäsche",
+        "Anker": "Nein",
+        "Ideal für": "Aufrecht, vorwärtsgeneigt",
+        "Gewicht": "Leichter als Memory-Schaumstoff",
+        "Preis": "~50 €"
+      },
+      "scores": {
+        "Neck support": 4.2,
+        "Packability": 4.5,
+        "Comfort": 4.3,
+        "Value": 4.3,
+        "Material quality": 3.8
+      }
+    },
+    {
+      "offerId": "ostrichpillow-go",
+      "badge": "Beste Rundum-Wickeloption",
+      "review": "Geschlossene Schlaufe umfasst Nacken und Kinn. Positionswechsel ohne Neueinrichtung. Wärmt in der Kabine; kann klaustrophobisch wirken.",
+      "pros": [
+        "Stützt mehrere Schlafwinkel",
+        "Positionswechsel ohne Neueinrichtung",
+        "Abnehmbarer Bezug"
+      ],
+      "cons": [
+        "Wärmt auf; kann klaustrophobisch wirken"
+      ],
+      "grade": "B",
+      "specs": {
+        "Füllung": "Mikrokugeln + Fasern",
+        "Form": "Geschlossene Schlaufe",
+        "Bezug": "Abnehmbar, Maschinenwäsche",
+        "Anker": "Nein",
+        "Ideal für": "Vorwärts-und-seitlich",
+        "Wärmespeicher": "Höher",
+        "Preis": "~70 €"
+      },
+      "scores": {
+        "Neck support": 4.0,
+        "Packability": 3.8,
+        "Comfort": 3.8,
+        "Value": 3.5,
+        "Material quality": 4.0
+      }
+    },
+    {
+      "offerId": "tempur-travel-pillow",
+      "badge": "Beste Stützqualität",
+      "review": "TEMPUR-Schaumstoff passt sich vollständig der Nackengeometrie an. Maschinenwaschbarer Bezug. Komprimiert nicht; kein Anker; Premiumpreis.",
+      "pros": [
+        "TEMPUR passt sich Nackengeometrie an",
+        "Maschinenwaschbarer Bezug",
+        "Hält Schlafposition stundenlang"
+      ],
+      "cons": [
+        "Komprimiert nicht — festes Taschenvolumen"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Füllung": "TEMPUR-Schaumstoff",
+        "Form": "U (breiter)",
+        "Gepackt": "Fest, komprimiert nicht",
+        "Bezug": "Abnehmbar, Maschinenwäsche",
+        "Anker": "Nein",
+        "Ideal für": "Alle Positionen",
+        "Preis": "Premium"
+      },
+      "scores": {
+        "Neck support": 5.0,
+        "Packability": 1.5,
+        "Comfort": 5.0,
+        "Value": 3.0,
+        "Material quality": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Fenstersitzschläfer auf Langstreckenflügen",
+      "offerId": "trtl-travel-pillow",
+      "reason": "Starres Gerüst bietet echte einseitige Stütze, die kein U-Form-Kissen replizieren kann."
+    },
+    {
+      "label": "Für Mittel- und Gangplatzschläfer",
+      "offerId": "bcozzy-travel-pillow",
+      "reason": "Kinnstützkanal verhindert als einziger direkt das Absinken des Kinns."
+    },
+    {
+      "label": "Für Reisende mit aufgegebenem Gepäck",
+      "offerId": "tempur-travel-pillow",
+      "reason": "TEMPUR liefert die beste Stützqualität — Packgröße kein Problem mit Gepäck."
+    },
+    {
+      "label": "Für Handgepäck-Only-Reisende",
+      "offerId": "cabeau-evolution-s3",
+      "reason": "Ankerklemmen lösen das Verrutschproblem und passt in einen 30L-Rucksack."
+    },
+    {
+      "label": "Für Vielwender, die warm werden",
+      "offerId": "ostrichpillow-go",
+      "reason": "Rundum-Schlaufe deckt mehrere Winkel ab — ideal für häufige Positionswechsel."
+    }
+  ]
 }

@@ -110,5 +110,183 @@
     "bamboo-standing-desk": "Un piano in bamboo abbinato a un telaio sit-stand elettrico compatibile, che offre un'estetica in materiale naturale, una superficie antibatterica (bamboo-kun, il composto antimicrobico naturale nel bamboo, ha un'efficacia documentata contro diversi batteri comuni) e il calore dell'home office che i piani in melamina e anima MDF non possono replicare. Il bamboo e piu duro della maggior parte dei legni teneri e resiste meglio ai graffi superficiali rispetto ai piani standard in melamina. I piani in bamboo sono suscettibili alla deformazione in ambienti ad alta umidita sostenuta — i mesi estivi del Giappone (giugno-settembre) con umidita relativa costantemente superiore al 70% negli appartamenti senza aria condizionata tutto l'anno o l'uso di deumidificatori possono causare l'espansione, la curvatura e il sollevamento dei bordi dei piani in bamboo entro 1-2 stagioni; i piani in bamboo sono piu pesanti rispetto ai piani in anima MDF equivalenti, riducendo il payload motore effettivo disponibile per le attrezzature; il premium per il bamboo rispetto all'anima MDF e tipicamente ¥10.000-20.000 senza un proporzionale beneficio funzionale."
   },
   "pinDescription": "5 scrivanie in piedi a confronto nel 2026 — dal Flexispot E7 Pro dual-motor da 125kg all'entry-level senza fronzoli IKEA Bekant. Matematica del wobble. Motore singolo vs doppio. Realta dello spazio a pavimento in Giappone. Avvertimento sull'umidita del bamboo. Sensori anti-collisione ora standard sotto ¥50.000. E la ricerca sulle abitudini che mostra che la maggior parte delle persone sta in piedi meno di 30 minuti al giorno. #italia",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "products": [
+    {
+      "offerId": "flexispot-e7-pro",
+      "badge": "Il migliore in assoluto",
+      "review": "Il sistema a doppio motore dell'E7 Pro (uno per gamba, sincronizzati elettronicamente) gestisce carichi da 125 kg a velocità di sollevamento costante senza l'accumulo di calore che i motori singoli mostrano sotto configurazioni pesanti. Il rilevamento degli ostacoli anti-collisione è standard — non un optional. Il telaio a C offre una migliore libertà per le ginocchia e un instradamento dei cavi sotto la scrivania rispetto ai telai a quattro gambe. Svantaggio: la geometria del telaio a C produce più oscillazione laterale rispetto ai design a quattro gambe all'altezza massima con monitor pesanti.",
+      "pros": [
+        "Capacità doppio motore da 125 kg — gestisce le postazioni di lavoro a doppio monitor",
+        "Sensore anti-collisione standard (non optional)",
+        "Il telaio a C offre la migliore libertà per le ginocchia e l'instradamento dei cavi"
+      ],
+      "cons": [
+        "Il telaio a C oscilla di più dei telai a quattro gambe all'altezza massima con monitor pesanti"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Motore": "Doppio (uno per gamba)",
+        "Capacità di carico": "125 kg",
+        "Gamma di altezza": "~60–125 cm",
+        "Preset memoria": "4 posizioni",
+        "Anti-collisione": "Standard",
+        "Tipo di telaio": "Telaio a C",
+        "Peso della scrivania": "~50 kg"
+      },
+      "scores": {
+        "Height range": 4.8,
+        "Stability": 4.3,
+        "Motor quality": 4.9,
+        "Value": 4.2,
+        "Desktop size": 4.7
+      }
+    },
+    {
+      "offerId": "ikea-bekant-sit-stand",
+      "badge": "Il migliore economico",
+      "review": "Il Bekant è la scrivania elettrica seduto-in piedi più accessibile in Giappone — disponibile nei negozi IKEA con accesso alle parti e una garanzia motore e telaio di 5 anni che la maggior parte dei concorrenti sotto ¥50.000 non raggiunge. Il semplice funzionamento a due pulsanti non ha curva di apprendimento. Svantaggio: nessun preset di memoria, riposizionamento manuale ogni volta; il motore singolo è più lento e rumoroso, e l'altezza massima di 125 cm può essere insufficiente per gli utenti oltre i 180 cm.",
+      "pros": [
+        "Garanzia motore e telaio di 5 anni — rara a questo prezzo",
+        "Disponibile nei negozi IKEA Giappone con accesso alle parti",
+        "Controllo semplice a due pulsanti senza configurazione necessaria"
+      ],
+      "cons": [
+        "Nessun preset di memoria; motore più lento e rumoroso; 125 cm di altezza massima limita gli utenti alti"
+      ],
+      "grade": "A",
+      "specs": {
+        "Motore": "Singolo",
+        "Capacità di carico": "Non valutata (tip. ~70 kg)",
+        "Gamma di altezza": "65–125 cm",
+        "Preset memoria": "Nessuno",
+        "Anti-collisione": "No",
+        "Dimensione del piano": "70 × 120 cm",
+        "Garanzia": "5 anni motore e telaio"
+      },
+      "scores": {
+        "Height range": 3.8,
+        "Stability": 3.6,
+        "Motor quality": 3.5,
+        "Value": 4.8,
+        "Desktop size": 3.8
+      }
+    },
+    {
+      "offerId": "autonomous-smartdesk-pro",
+      "badge": "Il migliore di fascia media",
+      "review": "Quattro preset programmabili, un motore più silenzioso degli azionamenti di livello IKEA e un ecosistema di app con promemoria per la postura e registrazione dei cambi di altezza collocano lo SmartDesk Pro nel punto dolce tra budget e premium. Il piano è venduto separatamente offrendo flessibilità di materiale e dimensione. Svantaggio: Autonomous è un marchio statunitense con tempi di consegna di importazione in Giappone di 2–4 settimane.",
+      "pros": [
+        "4 preset di memoria programmabili per un cambio istantaneo di altezza",
+        "I promemoria di postura dell'app aumentano il tempo effettivo in piedi",
+        "Ampia scelta di dimensioni e materiali del piano tra cui il bambù"
+      ],
+      "cons": [
+        "Marchio statunitense — 2–4 settimane di consegna in Giappone; reclami di garanzia internazionali segnalati come difficili"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Motore": "Singolo (silenzioso)",
+        "Capacità di carico": "136 kg",
+        "Gamma di altezza": "~65–132 cm",
+        "Preset memoria": "4 posizioni",
+        "Anti-collisione": "Sì",
+        "Piano": "Venduto separatamente",
+        "Consegna in Italia": "Standard"
+      },
+      "scores": {
+        "Height range": 4.7,
+        "Stability": 4.1,
+        "Motor quality": 4.3,
+        "Value": 4.0,
+        "Desktop size": 4.5
+      }
+    },
+    {
+      "offerId": "okamura-swift-desk",
+      "badge": "Il migliore per le aziende giapponesi",
+      "review": "Okamura è il principale produttore giapponese di mobili per ufficio e la serie Swift è la loro scrivania seduto-in piedi di punta — profilo sottile, standard di produzione giapponesi e una rete di servizi nazionale che copre i reclami di garanzia senza spedizione internazionale. Negli ambienti aziendali giapponesi il Swift è il riferimento. Svantaggio: il prezzo di ingresso di ¥80.000+ è il più alto di questo confronto, e la disponibilità al dettaglio è principalmente attraverso canali di acquisto aziendale.",
+      "pros": [
+        "Produzione giapponese con rete di servizi nazionale",
+        "Profilo sottile ottimizzato per le dimensioni degli uffici giapponesi",
+        "Affidabilità a lungo termine comprovata negli ambienti aziendali"
+      ],
+      "cons": [
+        "Prezzo più alto nel confronto; venduto principalmente attraverso canali aziendali, non al dettaglio"
+      ],
+      "grade": "B",
+      "specs": {
+        "Motore": "Elettrico (doppio nelle configurazioni premium)",
+        "Capacità di carico": "80–100 kg",
+        "Gamma di altezza": "~62–127 cm",
+        "Preset memoria": "Sì",
+        "Anti-collisione": "Sì (modelli selezionati)",
+        "Origine": "Giappone",
+        "Distribuzione": "Acquisto aziendale / showroom"
+      },
+      "scores": {
+        "Height range": 4.4,
+        "Stability": 4.7,
+        "Motor quality": 4.5,
+        "Value": 3.2,
+        "Desktop size": 4.3
+      }
+    },
+    {
+      "offerId": "bamboo-standing-desk",
+      "badge": "Il migliore per l'estetica",
+      "review": "Un piano in bambù abbinato a un telaio elettrico seduto-in piedi offre calore naturale del materiale e genuine proprietà antibatteriche (composto bambù-kun) che i piani in melamina e a nucleo MDF non possono replicare. Svantaggio: il bambù si deforma sotto umidità elevata sostenuta; i mesi estivi in Giappone (giugno–settembre, 70–90% UR) in appartamenti senza climatizzazione possono causare curvatura e sollevamento dei bordi in 1–2 stagioni.",
+      "pros": [
+        "Estetica naturale del bambù — calore che la melamina non può replicare",
+        "Proprietà antibatteriche naturali della superficie bambù-kun",
+        "Materiale ecologico con impronta di carbonio inferiore all'MDF"
+      ],
+      "cons": [
+        "Si deforma con l'umidità estiva giapponese (70–90% UR) senza climatizzazione tutto l'anno"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Materiale del piano": "Bambù laminato",
+        "Superficie": "Antibatterica (bambù-kun)",
+        "Premio di prezzo rispetto all'MDF": "¥10.000–20.000",
+        "Sensibilità all'umidità": "Alta — si deforma sopra il 70% UR sostenuto",
+        "Peso vs MDF": "Più pesante (riduce il carico utile del motore)",
+        "Compatibilità del telaio": "La maggior parte dei telai seduto-in piedi"
+      },
+      "scores": {
+        "Height range": 4.5,
+        "Stability": 4.0,
+        "Motor quality": 4.5,
+        "Value": 3.8,
+        "Desktop size": 4.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per le postazioni di lavoro a doppio monitor pesante",
+      "offerId": "flexispot-e7-pro",
+      "reason": "I motori duali gestiscono carichi pesanti a velocità costante senza accumulo di calore, e il rilevamento anti-collisione è standard — l'unico telaio qui completamente equipaggiato per configurazioni ad alta domanda direttamente dalla confezione."
+    },
+    {
+      "label": "Per i primi acquirenti di scrivanie seduto-in piedi in Giappone",
+      "offerId": "ikea-bekant-sit-stand",
+      "reason": "La disponibilità nei negozi IKEA Giappone, la garanzia di 5 anni e il funzionamento semplice ne fanno il punto d'ingresso con meno attrito per chi prova una scrivania seduto-in piedi per la prima volta."
+    },
+    {
+      "label": "Per i professionisti dell'ufficio a casa che vogliono funzionalità intelligenti",
+      "offerId": "autonomous-smartdesk-pro",
+      "reason": "Quattro preset e l'integrazione dell'app per i promemoria di postura guidano il comportamento effettivo in piedi — il promemoria guidato dall'app è più efficace nel cambiare le abitudini seduto-in piedi rispetto all'hardware della scrivania da solo."
+    },
+    {
+      "label": "Per l'uso aziendale giapponese o dell'ufficio a casa a lungo termine",
+      "offerId": "okamura-swift-desk",
+      "reason": "La rete di servizi nazionale e gli standard di produzione giapponesi eliminano le complicazioni logistiche di importazione e garanzia che riguardano tutte le alternative di marchi statunitensi per gli acquirenti in Giappone."
+    },
+    {
+      "label": "Per l'estetica dell'ufficio a casa con climatizzazione",
+      "offerId": "bamboo-standing-desk",
+      "reason": "Il calore del bambù e le proprietà antibatteriche sono vantaggi reali negli spazi climatizzati — l'avvertimento sull'umidità scompare con un deumidificatore o la climatizzazione tutto l'anno."
+    }
+  ]
 }

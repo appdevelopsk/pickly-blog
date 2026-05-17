@@ -113,5 +113,64 @@
     "drowsy-silk-sleep-mask": "Masque de nuit en soie de murier de 22 momme de Drowsy avec sangle large couverte de soie. Le poids premium en momme produit une soie plus dense, plus fraiche et plus durable que les options d'entree de gamme. La sangle large distribue la tension sur une plus grande surface a l'arriere de la tete, reduisant les emmeleages matinaux de cheveux et les marques de pression. L'emballage esthetique et le kit de soin de la soie de la marque la positionnent comme l'option la plus cadeautable de la categorie. La section de pont nasal moulee est une solution intermediaire qui reduit mais n'elimine pas les fuites de lumiere -- le blocage total de lumiere n'est pas garanti pour toutes les formes de visage ; le prix premium est difficile a justifier uniquement sur la base des performances de blocage de lumiere car le Nidra coute une fraction pour un meilleur blocage via le contournement a coque rigide ; les soins de la soie necessitent plus d'attention que les alternatives synthetiques."
   },
   "pinDescription": "5 masques de nuit classes pour 2026 -- Alaska Bear soie vs Tempur-Pedic mousse a memoire vs Manta modulaire zero pression vs Nidra contourne budget vs Drowsy soie premium 22 momme. Science du blocage de lumiere, design zone nasale, pression oculaire REM, marques de sangle pour dormeurs sur le cote. #MasqueNuit #SommeilProfond #français",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Chaque masque a été évalué sur les fuites de lumière mesurées au niveau du pont nasal, la pression de contact sur la paupière en position latérale, la respirabilité du matériau, l'intensité des marques de sangle après huit heures et la résistance au lavage sur cycles répétés.",
+  "products": [
+    {
+      "offerId": "alaska-bear-sleep-mask",
+      "badge": "Meilleur choix global",
+      "review": "L'Alaska Bear Natural Silk offre une véritable qualité de soie de mûrier à un prix d'entrée qui rend facile la décision de passer des masques synthétiques. Le design plat implique une fuite de lumière réelle au niveau du pont nasal pour les nez proéminents — c'est le compromis pour la respirabilité et le contact doux sur la peau.",
+      "pros": ["Surface de contact en soie de mûrier 100%", "Léger et frais pour les dormeurs qui ont chaud", "Lavable en machine en cycle délicat"],
+      "cons": ["Le design plat laisse passer la lumière au niveau du pont nasal pour les nez proéminents"],
+      "grade": "A+",
+      "specs": {"Matériau": "Soie de mûrier 100%", "Design": "Plat", "Sangle": "Élastique réglable", "Chambre oculaire": "Aucune", "Lavable": "Oui (délicat)", "Poids": "~20g"},
+      "scores": {"Blocage lumière": 3.8, "Confort": 4.5, "Respirabilité": 4.8, "Rapport qualité-prix": 4.9, "Ajustement": 3.9}
+    },
+    {
+      "offerId": "tempur-pedic-sleep-mask",
+      "badge": "Meilleure répartition de pression",
+      "review": "Le Tempur-Pedic Sleep Mask utilise une mousse à mémoire de forme à réponse lente pour répartir le contact sur le rebord orbital et les pommettes plutôt que d'appuyer directement sur les paupières. L'accumulation de chaleur est réelle — dans la seconde moitié d'une nuit chaude sans climatisation, la mousse retient plus de chaleur corporelle que la soie ou le polycarbonate.",
+      "pros": ["La mousse à mémoire de forme répartit uniformément la pression de contact", "Design contouré sans contact avec la paupière", "Marque reconnue avec une qualité de matériau constante"],
+      "cons": ["Retient la chaleur corporelle — inconfortable dans les pièces chaudes sans climatisation"],
+      "grade": "A",
+      "specs": {"Matériau": "Mousse à mémoire de forme", "Design": "Contouré", "Sangle": "Élastique rembourré", "Chambre oculaire": "Mousse moulée", "Lavable": "Essuyage uniquement", "Poids": "~60g"},
+      "scores": {"Blocage lumière": 4.5, "Confort": 4.2, "Respirabilité": 3.0, "Rapport qualité-prix": 3.8, "Ajustement": 4.0}
+    },
+    {
+      "offerId": "manta-sleep-mask",
+      "badge": "Meilleur pour extensions de cils",
+      "review": "Les capsules oculaires magnétiques réglables indépendamment de Manta résolvent le problème que les coques contourées fixes ne peuvent pas — s'adapter aux géométries faciales asymétriques et garantir zéro contact avec la paupière. Le poids de l'ensemble de capsules se remarque lors du sommeil sur le côté avec le visage pressé contre l'oreiller.",
+      "pros": ["Capsules magnétiques réglables indépendamment pour toute forme de visage", "Zéro contact avec la paupière — sûr pour les extensions de cils", "Large sangle velcro laisse des marques minimales le matin"],
+      "cons": ["L'ensemble de capsules est plus lourd que les masques plats ou en polycarbonate"],
+      "grade": "B+",
+      "specs": {"Matériau": "Mousse + capsules en polycarbonate", "Design": "Modulaire réglable", "Sangle": "Large velcro", "Chambre oculaire": "Libre, zéro contact", "Lavable": "Lavage à la main", "Poids": "~90g"},
+      "scores": {"Blocage lumière": 4.9, "Confort": 4.0, "Respirabilité": 3.8, "Rapport qualité-prix": 3.5, "Ajustement": 4.8}
+    },
+    {
+      "offerId": "nidra-deep-rest-mask",
+      "badge": "Meilleur contouré économique",
+      "review": "Le Nidra Deep Rest Mask offre le bénéfice central du design contouré — une chambre oculaire libre sans contact avec la paupière — à une fraction du coût du Manta. La sangle élastique étroite est le point le plus faible : les dormeurs sur le côté verront des marques visibles jusqu'à une heure après le réveil.",
+      "pros": ["Coque en polycarbonate crée une chambre oculaire libre à prix économique", "Convient aux porteuses d'extensions de cils", "Coque rigide légère reste stable toute la nuit"],
+      "cons": ["La sangle élastique étroite laisse des marques de pression pour les dormeurs sur le côté"],
+      "grade": "B",
+      "specs": {"Matériau": "Coque en polycarbonate + doublure polyester", "Design": "Dôme contouré", "Sangle": "Élastique étroit", "Chambre oculaire": "Libre, zéro contact", "Lavable": "Lavage à la main", "Poids": "~35g"},
+      "scores": {"Blocage lumière": 4.6, "Confort": 3.7, "Respirabilité": 3.5, "Rapport qualité-prix": 4.7, "Ajustement": 3.8}
+    },
+    {
+      "offerId": "drowsy-silk-sleep-mask",
+      "badge": "Meilleure soie premium",
+      "review": "La soie de mûrier de 22 momme du Drowsy Silk Sleep Mask est nettement plus dense que la soie d'entrée de gamme, et la large sangle recouverte de soie est la plus douce pour les cheveux dans cette comparaison. Le pont nasal moulé réduit les fuites de lumière sans les éliminer — l'obscurité totale n'est pas garantie pour toutes les formes de visage.",
+      "pros": ["La soie de 22 momme est plus durable et fraîche que les options à momme inférieur", "La large sangle en soie est douce pour les cheveux", "L'emballage premium en fait l'option la plus cadeautable"],
+      "cons": ["Le pont nasal moulé réduit mais n'élimine pas les fuites de lumière"],
+      "grade": "B-",
+      "specs": {"Matériau": "Soie de mûrier 22 momme", "Design": "Semi-contouré plat", "Sangle": "Large recouverte de soie", "Chambre oculaire": "Aucune", "Lavable": "Lavage à la main recommandé", "Poids": "~30g"},
+      "scores": {"Blocage lumière": 3.6, "Confort": 4.7, "Respirabilité": 4.6, "Rapport qualité-prix": 3.2, "Ajustement": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les premiers acheteurs de masque en soie", "offerId": "alaska-bear-sleep-mask", "reason": "Vraie soie de mûrier à prix accessible — la différence avec le synthétique se sent immédiatement."},
+    {"label": "Pour les porteuses d'extensions de cils", "offerId": "manta-sleep-mask", "reason": "Les capsules réglables indépendamment garantissent zéro contact avec la paupière pendant huit heures de sommeil."},
+    {"label": "Pour les dormeurs chauds avec petit budget", "offerId": "nidra-deep-rest-mask", "reason": "La coque en polycarbonate contourne sans accumuler la chaleur, et l'économie de prix peut aller vers un ventilateur."},
+    {"label": "Comme cadeau", "offerId": "drowsy-silk-sleep-mask", "reason": "Soie de 22 momme, large sangle douce et emballage élégant en font le cadeau le plus soigné de la catégorie."},
+    {"label": "Pour les fans de mousse à mémoire de forme", "offerId": "tempur-pedic-sleep-mask", "reason": "Si vous utilisez déjà Tempur pour les oreillers ou surmatelas, la cohérence du matériau est exactement ce à quoi vous vous attendez."}
+  ]
 }

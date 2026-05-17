@@ -112,5 +112,177 @@
     "eufy-indoor-cam-2k-pan-tilt": "Abonnementfreie lokale Speicher-Innenkamera -- etwa 9.800 Yen Anker Eufy Indoor Cam 2K Pan & Tilt mit 2K-Video, 360-Grad-Schwenk und 96-Grad-Neigung, Personen- und Tierbewegungserkennung, Zwei-Wege-Audio, lokalem microSD-Speicher ohne Abonnement, Apple HomeKit Secure Video Integration. Keine haustier-spezifische KI -- keine Bellerkennung oder Hundeaktivitaetsbewertung; kein Leckerli-Werfer oder Laserpointer; eingebauter Lautsprecher duenn und schlechtere Audioqualitaet als Furbo oder Petcube."
   },
   "pinDescription": "Fuenf Haustierkameras verglichen 2026 -- von der Wyze Cam v3 fuer 4.800 Yen bis zur Furbo 360 fuer 28.000 Yen. Haustier-spezifisch vs allgemeine Sicherheitskamera, die Abonnement-Mathematik (Furbo Nanny schiebt die 5-Jahres-Kosten auf etwa 88.000 Yen), Ehrlichkeit ueber Leckerli-Werfer und Laser (die meisten Hunde ignorieren das Leckerli nach zwei Wochen), Cloud-Kamera-Datenschutzrisiken. #Haustierkamera #Hunde #deutsch",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Jede Kamera wurde nach haustierspezifischer KI, realer Videoqualität, Zwei-Wege-Audio-Nutzbarkeit, 5-Jahres-Abonnementkosten und Cloud-Sicherheitsbilanz bewertet.",
+  "products": [
+    {
+      "offerId": "furbo-360-dog-camera",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Die KI, die 360°-Drehung und der Leckerliwerfer der Furbo 360 bilden das vollständigste haustierspezifische Funktionspaket der Kategorie. Der echte Kompromiss ist die Abhängigkeit vom Abonnement: Ohne Furbo Nanny-Plan (~€7–14/Monat) wird die Kamera zu einem einfachen 1080p-Viewer mit manuellem Leckerliwerfen.",
+      "pros": [
+        "360°-Drehung deckt den gesamten Raum ab",
+        "Hundetrainierte KI-Bellbenachrichtigungen laufen rund um die Uhr",
+        "Leckerliwerfen aus der Smartphone-App ferngesteuert"
+      ],
+      "cons": [
+        "5-Jahres-Gesamtkosten erreichen ~¥88.000 inklusive Furbo Nanny-Abonnement"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Field of view": "360° pan",
+        "Treat dispense": "Yes",
+        "AI alerts": "Bark + activity (subscription)",
+        "Two-way audio": "Yes",
+        "Storage": "Cloud (subscription)",
+        "Price (JP)": "~¥28,000"
+      },
+      "scores": {
+        "Video quality": 4.8,
+        "Range": 5.0,
+        "Ease of use": 4.5,
+        "Value": 3.2,
+        "Two-way audio": 4.7
+      }
+    },
+    {
+      "offerId": "petcube-cam",
+      "badge": "Bestes günstiges Haustierkamera-Paket",
+      "review": "Die Petcube Cam bietet 1080p-Video und Zwei-Wege-Audio für etwa die Hälfte des Furbo-Preises, ohne Leckerliwerfer-Hardware. Bewegungsbenachrichtigungen haben eine hohe Falschpositiv-Rate.",
+      "pros": [
+        "Halber Preis von Furbo mit haustierspezifischem Design",
+        "1080p-Video mit Zwei-Wege-Audio",
+        "Einfache Einrichtung — kein Hub erforderlich"
+      ],
+      "cons": [
+        "Kein Leckerliwerfer oder Laserpointer; 110° Sichtfeld verfehlt Ecken in großen Räumen"
+      ],
+      "grade": "A",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Field of view": "110°",
+        "Treat dispense": "No",
+        "Two-way audio": "Yes",
+        "Storage": "Cloud (Petcube Care subscription)",
+        "Price (US)": "~$30"
+      },
+      "scores": {
+        "Video quality": 4.4,
+        "Range": 3.2,
+        "Ease of use": 4.6,
+        "Value": 4.3,
+        "Two-way audio": 4.2
+      }
+    },
+    {
+      "offerId": "eufy-indoor-cam-2k-pan-tilt",
+      "badge": "Bestes Abo-freies Produkt",
+      "review": "Die Eufy Indoor Cam 2K Pan & Tilt ist die stärkste lokale Speicheroption unter 15.000 ¥ — 2K-Auflösung, 360° Schwenk und 96° Neigung, microSD-Speicher ohne Abonnement. Kein haustierspezifischer KI und ein dünner Lautsprecher sind die Kompromisse.",
+      "pros": [
+        "2K-Auflösung ohne Abonnement erforderlich",
+        "360° Schwenk und 96° Neigung zum Verfolgen bewegter Haustiere",
+        "Apple HomeKit Secure Video Unterstützung"
+      ],
+      "cons": [
+        "Keine Bellerkennung, kein Leckerliwerfer oder haustierspezifische KI-Funktionen"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Resolution": "2K (2304×1296)",
+        "Pan / Tilt": "360° / 96°",
+        "Treat dispense": "No",
+        "Storage": "microSD (no subscription)",
+        "HomeKit": "Yes",
+        "Price (US)": "~$55"
+      },
+      "scores": {
+        "Video quality": 4.6,
+        "Range": 4.8,
+        "Ease of use": 4.4,
+        "Value": 4.7,
+        "Two-way audio": 3.5
+      }
+    },
+    {
+      "offerId": "pawbo-pet-camera",
+      "badge": "Bestes Mittelklasse-Leckerligerät",
+      "review": "Das Pawbo sitzt zwischen den günstigen Sicherheitskameras und dem Premium Furbo — Leckerliwerfen und Zwei-Wege-Audio zu einem niedrigeren Preis, aber 720p-Video und App-Zuverlässigkeitsberichte reduzieren den Gesamtscore.",
+      "pros": [
+        "Leckerliwerfen und Zeitplanleckerli ohne Furbo-Preisgestaltung",
+        "Zwei-Wege-Audio für Remote-Check-ins",
+        "Geplante Leckerliabgabe für Routinetraining"
+      ],
+      "cons": [
+        "720p-Video deutlich geringer als bei Mitbewerbern; App-Abstürze in Langzeitberichten gemeldet"
+      ],
+      "grade": "B",
+      "specs": {
+        "Resolution": "720p",
+        "Treat dispense": "Yes (scheduled + manual)",
+        "Two-way audio": "Yes",
+        "Price (US)": "~$54"
+      },
+      "scores": {
+        "Video quality": 3.4,
+        "Range": 3.0,
+        "Ease of use": 3.6,
+        "Value": 3.8,
+        "Two-way audio": 4.0
+      }
+    },
+    {
+      "offerId": "wyze-cam-v3",
+      "badge": "Beste Budget-Sicherheitskamera",
+      "review": "Bei ~¥4.800 ist die Wyze Cam v3 die günstigste kompetente Innenkamera mit Farbtnachtsicht und microSD-Lokalspeicher. Sie ist nicht haustierspezifisch — keine Bellerkennung, kein Leckerliwerfer — und Wyzes Datenschutzvorfälle 2022–2024 sind ein echtes Anliegen.",
+      "pros": [
+        "Niedrigster Preis pro Kamera in der Kategorie",
+        "Farb-Nachtsicht und wetterbeständig für den Außenbereich",
+        "microSD-Lokalspeicher ohne Pflicht-Abonnement"
+      ],
+      "cons": [
+        "Keine haustierspezifische KI; Wyzes Datenschutz- und Kontoverwechslungsvorfälle 2022–2024 bleiben für viele Käufer ungelöst"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Night vision": "Color Starlight",
+        "Weatherproof": "IP65",
+        "Storage": "microSD + cloud (Cam Plus ~¥250/mo)",
+        "Price (JP)": "~¥4,800"
+      },
+      "scores": {
+        "Video quality": 4.0,
+        "Range": 3.5,
+        "Ease of use": 4.2,
+        "Value": 4.9,
+        "Two-way audio": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Hundebesitzer mit Trennungsangst-Bedenken",
+      "offerId": "furbo-360-dog-camera",
+      "reason": "Hundetrainierte Bellalarm-KI und Leckerliwerfer sind die umfassendsten Werkzeuge zum Überwachen und Engagieren eines ängstlichen Hundes aus der Ferne."
+    },
+    {
+      "label": "Für Tierhalter, die einfaches haustierfokussiertes Monitoring wünschen",
+      "offerId": "petcube-cam",
+      "reason": "Haustierspezifisches Design und 1080p-Video zum halben Furbo-Preis, ohne Abonnementlast."
+    },
+    {
+      "label": "Für Mehrraumhaushalte oder datenschutzbewusste Käufer",
+      "offerId": "eufy-indoor-cam-2k-pan-tilt",
+      "reason": "2K-Lokalspeicher ohne Abonnement — geringstes Cloud-Datenschutzrisiko in der Produktreihe."
+    },
+    {
+      "label": "Für budgetbewusste Käufer",
+      "offerId": "wyze-cam-v3",
+      "reason": "Niedrigste Kosten pro Kamera für einfaches Remote-Viewing; ideal für Haushalte, die mehrere Räume günstig abdecken müssen."
+    },
+    {
+      "label": "Für Käufer, die Leckerliabgabe ohne Premium-Preis möchten",
+      "offerId": "pawbo-pet-camera",
+      "reason": "Leckerliwerfen und Zeitplanfunktion ohne Furbo Nanny-Abonnementanforderung."
+    }
+  ]
 }

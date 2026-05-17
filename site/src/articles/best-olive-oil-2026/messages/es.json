@@ -94,5 +94,174 @@
     "pompeian-smooth-evoo": "Mejor opción de supermercado con presupuesto limitado — ampliamente disponible, el precio más bajo a ~$0,25/oz en formato grande, sabor suave pensado para consumidores que no toleran el amargor. Ideal cuando el presupuesto es la restricción principal y el volumen de cocción es alto. Limitación: sin fecha de cosecha, menor contenido de polifenoles por diseño, utilidad limitada como aceite de acabado — no es la elección si la frescura o el valor nutricional son prioritarios."
   },
   "pinDescription": "5 aceites de oliva comparados para 2026: California Olive Ranch vs Kirkland vs Brightland vs Cobram vs Pompeian. Transparencia de fecha de cosecha, punto de humo, contenido de polifenoles — encuentra el AOVE que realmente se adapta a tu forma de cocinar. #aceitedoliva #cocina #español",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada aceite fue evaluado en cuanto a la transparencia de la fecha de cosecha, el costo por onza, el perfil de sabor y el carácter de polifenoles, la idoneidad para cocinar vs. uso como acabado, y qué tan bien se sostienen las afirmaciones de frescura dado los plazos típicos de la cadena de suministro minorista.",
+  "products": [
+    {
+      "offerId": "california-olive-ranch-evoo",
+      "badge": "Mejor para el Día a Día",
+      "review": "California Olive Ranch es el aceite de oliva virgen extra más práctico para el uso diario en hogares estadounidenses — fecha de cosecha impresa en la etiqueta frontal, producción nacional en California con distribución minorista eficiente, y un perfil de polifenoles de rango medio que cubre tanto la cocción como el acabado ligero a ~0,45 $/oz. El blend a veces incorpora fuentes internacionales; verifique la etiqueta para SKUs solo nacionales si el origen importa.",
+      "pros": [
+        "Fecha de cosecha indicada — frescura verificable en el momento de la compra",
+        "~0,45 $/oz — precio accesible para un AOVE doméstico de calidad",
+        "Cubre tanto casos de uso de cocción como de acabado ligero"
+      ],
+      "cons": [
+        "Algunos SKUs mezclados con fuentes internacionales — verificar etiqueta para solo domésticos"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Origen": "California (+ mezcla internacional en algunos SKUs)",
+        "Precio por oz": "~0,45 $",
+        "Fecha de cosecha": "Sí — impresa en la etiqueta",
+        "Nivel de polifenoles": "Medio",
+        "Mejor uso": "Cocción diaria + acabado ligero",
+        "Orgánico": "No (convencional)"
+      },
+      "scores": {
+        "Sabor": 4.5,
+        "Calidad": 4.6,
+        "Valor": 4.7,
+        "Frescura": 4.8,
+        "Versatilidad": 5.0
+      }
+    },
+    {
+      "offerId": "kirkland-organic-evoo",
+      "badge": "Mejor Valor en Volumen",
+      "review": "El AOVE orgánico de 2 litros de Kirkland en Costco es el más económico por onza en esta comparación a ~0,31 $/oz — ahorros significativos para hogares que cocinan con aceite de oliva diariamente. Certificado USDA Orgánico y de origen mediterráneo. La limitación honesta es la ausencia de fecha de cosecha, lo que dificulta verificar la frescura; el consumo rápido mitiga esto para cocinas de alto volumen.",
+      "pros": [
+        "~0,31 $/oz — menor costo por onza en esta comparación",
+        "Certificado USDA Orgánico",
+        "Formato de 2 litros eficiente para hogares que cocinan diariamente"
+      ],
+      "cons": [
+        "Sin fecha de cosecha — la frescura depende del rotación del inventario en almacén"
+      ],
+      "grade": "A",
+      "specs": {
+        "Origen": "Mediterráneo (suministrado por Costco)",
+        "Precio por oz": "~0,31 $ (tamaño 2 litros Costco)",
+        "Fecha de cosecha": "No",
+        "Nivel de polifenoles": "Moderado",
+        "Certificación": "USDA Orgánico",
+        "Mejor uso": "Cocción diaria de alto volumen"
+      },
+      "scores": {
+        "Sabor": 4.1,
+        "Calidad": 4.2,
+        "Valor": 5.0,
+        "Frescura": 3.8,
+        "Versatilidad": 4.3
+      }
+    },
+    {
+      "offerId": "brightland-alive-evoo",
+      "badge": "Mejor Aceite de Acabado Premium",
+      "review": "Brightland es el aceite con mayor transparencia de frescura en esta comparación — tanto la fecha de cosecha como la de prensado están indicadas, y la cadena de suministro directo al consumidor elimina el retraso de envejecimiento en el comercio minorista. El sabor alto en polifenoles, herbáceo y asertivo de la mezcla californiana Arbequina/Arbosana se experimenta mejor sin calentar. Usarlo para saltear cebollas a 3,25 $/oz es económicamente incorrecto; para acabar ensaladas, pasta y verduras a la parrilla, el sabor justifica el precio.",
+      "pros": [
+        "Fecha de cosecha y prensado ambas indicadas — máxima transparencia de frescura",
+        "Mezcla californiana alta en polifenoles con sabor herbáceo asertivo",
+        "Cadena de suministro directo al consumidor minimiza el retraso de envejecimiento"
+      ],
+      "cons": [
+        "3,25 $/oz — económicamente adecuado solo para uso de acabado, no para cocinar"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Origen": "California (Arbequina + Arbosana)",
+        "Precio por oz": "~3,25 $ (botella 375 ml)",
+        "Fecha de cosecha": "Sí — fechas de cosecha y prensado indicadas",
+        "Nivel de polifenoles": "Alto",
+        "Cadena de suministro": "Directo al consumidor",
+        "Mejor uso": "Acabado sin calentar"
+      },
+      "scores": {
+        "Sabor": 5.0,
+        "Calidad": 5.0,
+        "Valor": 2.8,
+        "Frescura": 5.0,
+        "Versatilidad": 3.5
+      }
+    },
+    {
+      "offerId": "cobram-estate-robust-evoo",
+      "badge": "Mejor para Cocción a Alta Temperatura",
+      "review": "Cobram Estate Robust usa variedades Coratina y Koroneiki específicamente para mayor contenido de polifenoles y estabilidad oxidativa a temperaturas de cocción. Fecha de cosecha indicada en botellas del mercado estadounidense. El perfil de sabor picante y asertivo no es universalmente del agrado, pero se mantiene mejor bajo el calor que los AOVE suaves — la elección correcta cuando saltear o asar es la aplicación principal.",
+      "pros": [
+        "Mezcla alta en polifenoles Coratina/Koroneiki para estabilidad oxidativa al calor",
+        "Fecha de cosecha indicada en botellas del mercado estadounidense",
+        "El sabor picante se mantiene mejor que los aceites suaves a temperaturas de cocción"
+      ],
+      "cons": [
+        "El sabor picante asertivo no es adecuado para aplicaciones de sabor suave"
+      ],
+      "grade": "B",
+      "specs": {
+        "Origen": "Australia / California",
+        "Precio por oz": "~0,50 $",
+        "Fecha de cosecha": "Sí",
+        "Nivel de polifenoles": "Alto",
+        "Variedades": "Coratina + Koroneiki",
+        "Mejor uso": "Cocción a alta temperatura"
+      },
+      "scores": {
+        "Sabor": 4.6,
+        "Calidad": 4.8,
+        "Valor": 4.3,
+        "Frescura": 4.6,
+        "Versatilidad": 4.0
+      }
+    },
+    {
+      "offerId": "pompeian-smooth-evoo",
+      "badge": "Mejor Opción Económica en Supermercado",
+      "review": "Pompeian Smooth se filtra para eliminar el amargor que crean los polifenoles — una elección deliberada del consumidor que también reduce el contenido de polifenoles y la utilidad como aceite de acabado. A ~0,25 $/oz es la opción más económica aquí, ampliamente disponible en tiendas, y adecuada para cocción de alto volumen donde el sabor del aceite no es el punto.",
+      "pros": [
+        "~0,25 $/oz — precio más bajo en esta comparación",
+        "Ampliamente disponible en supermercados convencionales",
+        "Sabor suave filtrado para consumidores que no les gusta el amargor"
+      ],
+      "cons": [
+        "Sin fecha de cosecha; menor contenido de polifenoles por diseño; utilidad limitada como aceite de acabado"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Origen": "Mezcla mediterránea",
+        "Precio por oz": "~0,25 $ (formato grande)",
+        "Fecha de cosecha": "No",
+        "Nivel de polifenoles": "Bajo (filtrado para suavidad)",
+        "Perfil de sabor": "Suave, neutro",
+        "Mejor uso": "Cocción económica de alto volumen"
+      },
+      "scores": {
+        "Sabor": 3.5,
+        "Calidad": 3.6,
+        "Valor": 5.0,
+        "Frescura": 3.2,
+        "Versatilidad": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para cocina hogareña diaria",
+      "offerId": "california-olive-ranch-evoo",
+      "reason": "Transparencia de fecha de cosecha, producción nacional y un precio que no requiere racionamiento — la botella que cubre la mayoría de los usos en cocina sin compromiso."
+    },
+    {
+      "label": "Para cocineros diarios de alto volumen",
+      "offerId": "kirkland-organic-evoo",
+      "reason": "El formato 2 litros de Costco a ~0,31 $/oz hace que la cocción diaria con aceite de oliva sea genuinamente económica; el consumo rápido gestiona el compromiso de frescura."
+    },
+    {
+      "label": "Para entusiastas del aceite de acabado",
+      "offerId": "brightland-alive-evoo",
+      "reason": "Fecha de cosecha y prensado impresa, frescura directa del productor, y un sabor alto en polifenoles que se aprecia mejor rociado sin calentar sobre ensalada o pasta."
+    },
+    {
+      "label": "Para saltear y asar a alta temperatura",
+      "offerId": "cobram-estate-robust-evoo",
+      "reason": "La designación Robust señala variedades Coratina/Koroneiki más altas en polifenoles específicamente seleccionadas para estabilidad oxidativa a temperaturas de cocción."
+    }
+  ]
 }

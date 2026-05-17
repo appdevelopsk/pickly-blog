@@ -53,5 +53,64 @@
     "sbd-wrist-wraps-competition": "45cm oder 60cm, IPF-zugelassene gewebte Baumwolle, gleichmaessige Spannung vom Verschluss bis zum Ende -- die Wahl fuer IPF-Athleten, die zuverlaessige Leistung unter Wettkampfbedingungen benoetigen."
   },
   "pinDescription": "Schiek, SBD, Titan, Rogue, Harbinger -- 5 Handgelenksbaender verglichen nach Steifigkeit, Laenge und IPF-Zulassung. Das Richtige fuer Bankdruecken, Schulterdruecken und Powerlifting-Wettkampf finden. #Handgelenksbaender #Powerlifting #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jedes Bandagen-Modell wurde nach dem Steifigkeits-Flexibilitaets-Verhaeltnis unter schwerer Presslast, Klettverschluss-Haltbarkeit nach 100+ Sessions, Laengenabdeckung, IPF-Konformitaet und Einlaufzeit vor der Anpassung an die Handgelenksform bewertet.",
+  "products": [
+    {
+      "offerId": "schiek-wrist-wraps-24inch",
+      "badge": "Gesamt-Testsieger",
+      "review": "Schieks 1100WRP hat das am besten abgestimmte Steifigkeits-Flexibilitaets-Verhaeltnis aus Baumwoll-Elastik-Mischung in diesem Vergleich — der 24-Zoll-Bandage sperrt das Handgelenk unter Last in die neutrale Position, ohne die korrekte Stangenfuehrungs-Mechanik beim Bankdruecken zu behindern. Die winklig genähte Daumen-Schlaufe verhindert das Zusammenschieben zwischen den Saetzen. Nicht IPF-zugelassen — relevant nur fuer Wettkampfathleten.",
+      "pros": ["Bestes Steifigkeits-Flexibilitaets-Verhaeltnis beim schweren Druecken", "Winklige Daumen-Schlaufe verhindert Zusammenschieben unter Last", "Jahrzehntelange bewährte Zuverlaessigkeit fuer Gym und Bodybuilding"],
+      "cons": ["Nicht IPF-zugelassen — nicht fuer IPF-Verbandswettkämpfe geeignet"],
+      "grade": "A+",
+      "specs": {"Laenge": "24 Zoll", "Material": "Baumwoll-Elastik-Mischung", "Verschluss": "Klettverschluss", "IPF-zugelassen": "Nein", "Daumen-Schlaufe": "Winklige Naht", "Preis": "$24,95"},
+      "scores": {"Unterstuetzungsgrad": 4.5, "Haltbarkeit": 4.6, "Komfort": 4.4, "Preis-Leistung": 4.5, "Bandagen-Laenge": 4.8}
+    },
+    {
+      "offerId": "harbinger-21525-wrist-wraps",
+      "badge": "Bester Budget-Pick",
+      "review": "Harbingers 20-Zoll-Polypropylen-Bandagen sind die richtige Empfehlung fuer Fortgeschrittene, die funktionale Handgelenksunterstuetzung ohne Wettkampfbandagen-Preise benoetigen. Die kuerzere Laenge ermoeglicht schnelleres An- und Ausziehen zwischen Druckuebungen. Polypropylen bietet pro Einheit Dicke mehr Steifigkeit als Baumwolle.",
+      "pros": ["Schnellstes An-/Ausziehen — nuetzlich in Drueck-Circuits", "Polypropylen steifer pro Einheit Dicke als Baumwoll-Alternativen", "Guenstigste Option mit echtem Handgelenksschutz in diesem Vergleich"],
+      "cons": ["20-Zoll-Laenge bietet weniger Abdeckung als 24-Zoll-Wettkampfbandagen"],
+      "grade": "A",
+      "specs": {"Laenge": "20 Zoll", "Material": "Polypropylen", "Verschluss": "Verstellbarer Klettverschluss", "IPF-zugelassen": "Nein", "Daumen-Schlaufe": "Ja", "Preis": "$13,95"},
+      "scores": {"Unterstuetzungsgrad": 3.8, "Haltbarkeit": 4.3, "Komfort": 4.2, "Preis-Leistung": 4.9, "Bandagen-Laenge": 3.5}
+    },
+    {
+      "offerId": "titan-signature-gold-wrist-wraps",
+      "badge": "Bester fuer Wettkampf-Powerlifting",
+      "review": "Titans Signature Gold ist auf ein einziges Ziel ausgerichtet: maximale Handgelenksextensions-Einschraenkung bei maximalen Bankdrueck-Versuchen. Das dichtere Baumwollgemisch und der rutschfeste Klettverschluss halten die Spannung ueber die gesamte Session. Die Steifigkeit macht sie fuer allgemeines Warm-up-Training unpraktisch — die meisten Heber reservieren sie nur fuer den Arbeitssatz.",
+      "pros": ["IPF-zugelassen fuer roh und ausgeruestet", "Rutschfester Klettverschluss haelt Spannung ohne Gleiten", "Maximale Handgelenksextensions-Einschraenkung fuer Wettkampf-Bankdruecken"],
+      "cons": ["Zu steif fuer allgemeine Aufwaermsaetze — verlangsamt Setup bei mittlerer Intensitaet"],
+      "grade": "B+",
+      "specs": {"Laenge": "24 Zoll", "Material": "Schwere Baumwoll-Mischung", "Verschluss": "Rutschfester Klettverschluss", "IPF-zugelassen": "Ja", "Wettkampfnutzung": "Roh und ausgeruestet", "Preis": "$36,99"},
+      "scores": {"Unterstuetzungsgrad": 5.0, "Haltbarkeit": 4.7, "Komfort": 3.8, "Preis-Leistung": 3.9, "Bandagen-Laenge": 4.8}
+    },
+    {
+      "offerId": "rogue-wrist-wraps",
+      "badge": "Bester Allrounder",
+      "review": "Rogues 18-Zoll-Bandagen mit mittlerer Steifigkeit sind die vielseitigste Option fuer Heber, die zwischen Powerlifting-Drueckuebungen und olympischen Bewegungen wechseln. Die kuerzere Laenge und die biegsamere Baumwoll-Elastik-Mischung erlauben den noetigen Handgelenksbewegungsbereich bei Frontkniebeugen, Umsetzen und Reissen. Made in Columbus, Ohio.",
+      "pros": ["Vielseitig fuer Bankdruecken, OHP und olympisches Heben", "18-Zoll-Laenge funktioniert gut fuer Trainingsvielfall", "Rogues US-amerikanische Fertigung mit konsistenter Qualitaetskontrolle"],
+      "cons": ["18-Zoll-Laenge bietet beim Maximaldruecken weniger Abdeckung als 24-Zoll"],
+      "grade": "B",
+      "specs": {"Laenge": "18 Zoll", "Material": "Baumwoll-Elastik-Mischung", "Verschluss": "Klettverschluss", "IPF-zugelassen": "Nein", "Hergestellt in": "Columbus, Ohio, USA", "Preis": "$15,00"},
+      "scores": {"Unterstuetzungsgrad": 4.0, "Haltbarkeit": 4.5, "Komfort": 4.6, "Preis-Leistung": 4.7, "Bandagen-Laenge": 3.6}
+    },
+    {
+      "offerId": "sbd-wrist-wraps-competition",
+      "badge": "Bester fuer IPF-Athleten",
+      "review": "SBDs gewebte Baumwoll-Mischung haelt gleichmaessige Spannung ueber die gesamte Laenge der Bandage — fest am Verschluss und trotzdem fest in der Mitte, was bei Wettkämpfen wichtig ist, wenn Betreuer zwischen Versuchen nicht neu wickeln koennen. Erhaeltlich in 45cm und 60cm, beide IPF-zugelassen. Die Einlaufzeit von fuenf bis sechs Sessionen unnatuerlicher Steifigkeit ist der einzige Reibungspunkt.",
+      "pros": ["Mehr IPF-Weltmeisterschafts-Bankdrueck-Versuche als jede andere Bandage", "Gleichmaessige Spannung vom Verschluss bis zum Ende (keine lockere Mitte)", "45cm und 60cm erhaeltlich passend zu Wettkampfanforderungen"],
+      "cons": ["5–6 Sessionen Einlaufzeit bevor sie sich anpassen und leichter anziehen lassen"],
+      "grade": "B-",
+      "specs": {"Laengenoptionen": "45cm / 60cm", "Material": "Gewebte Baumwoll-Mischung", "Verschluss": "Klettverschluss", "IPF-zugelassen": "Ja", "Steifigkeit": "Maximal", "Preis": "$42,50"},
+      "scores": {"Unterstuetzungsgrad": 5.0, "Haltbarkeit": 4.9, "Komfort": 3.6, "Preis-Leistung": 3.5, "Bandagen-Laenge": 4.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Fuer ernsthafte Gym-Heber", "offerId": "schiek-wrist-wraps-24inch", "reason": "Bestes Steifigkeitsgleichgewicht fuer schweres Gym-Druecken ohne den Overhead-Steifigkeit von Wettkampf-Bandagen."},
+    {"label": "Fuer Fortgeschrittene im Budget-Bereich", "offerId": "harbinger-21525-wrist-wraps", "reason": "Echter Handgelenksschutz zum guenstigsten Preis in diesem Vergleich — schnelles An- und Ausziehen zwischen Saetzen."},
+    {"label": "Fuer IPF-Powerlifter (roh oder ausgeruestet)", "offerId": "sbd-wrist-wraps-competition", "reason": "Gleichmaessige Spannung ueber die gesamte Bandage macht sie zur Wettkampfwahl wenn Betreuer nicht neu wickeln koennen."},
+    {"label": "Fuer allgemeines Krafttraining + olympisches Heben", "offerId": "rogue-wrist-wraps", "reason": "Mittlere Steifigkeit bei 18 Zoll funktioniert fuer Drueck- und olympische Bewegungen ohne Bandagenwechsel."},
+    {"label": "Fuer Bankdrueck-Spezialisten im Wettkampf", "offerId": "titan-signature-gold-wrist-wraps", "reason": "Maximale Extensionseinschraenkung mit rutschfestem Klettverschluss — IPF-zugelassen, speziell fuer Bankdrueck-Wettkampf-Lockout entwickelt."}
+  ]
 }

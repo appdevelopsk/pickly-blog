@@ -115,5 +115,177 @@
     "eufy-indoor-cam-2k-pan-tilt": "サブスク不要のローカル ストレージ屋内枠 — 約9,800円のAnker Eufy Indoor Cam 2K Pan and Tilt、2Kビデオ・ペットがどこで昼寝していても見つける360度パンと96度チルト・人物とペットのモーション検知・双方向オーディオ・サブスク不要のmicroSDローカル ストレージ・Apple HomeKit Secure Video統合、15,000円未満帯で最強のローカル ストレージ屋内枠。ペット特化AIなし — モーション検知は人物対ペットを分類するが吠え声検知・犬活動スコアリング・Furboプレミアムを正当化するペット訓練AI機能のいずれも提供しない; おやつディスペンサーまたはレーザー ポインター ハードウェアなしなので一部のペット オーナーが欲しいインタラクティブ機能は不在; 内蔵スピーカーは薄く双方向会話のオーディオ品質はFurboまたはPetcubeスピーカーより意味的に悪い; 汎用屋内セキュリティとして設計されペットカメラとしてではないため、マーケティング コピーとカスタマー サービスはペット オーナーではなく住宅所有者を仮定。"
   },
   "pinDescription": "2026年ペットカメラ5機種比較 — 4,800円のWyze Cam v3流用セキュリティ カメラ予算枠から28,000円のFurbo 360おやつトス犬特化プレミアムまで。ペット特化 vs 汎用セキュリティ カメラ、サブスク計算(Furbo Nannyが5年コストを約88,000円に押し上げる)、おやつディスペンサーとレーザーと双方向オーディオの正直さ(ほとんどの犬は2週間後におやつを無視)、クラウド カメラ プライバシー リスク(Ring・Nest・Wyze事案)、2026年のMatterとHomeKit統合、用途別おすすめ — アパート猫・分離不安犬・複数ペット世帯・予算。各製品に明示的弱点付き。絶賛だけの説明なし。",
-  "methodology": "各製品を実生活での耐久性・日常的な使いやすさ・宣伝通りの性能か・作りの良さ・長期的な価値で評価。メーカー仕様を実所有者レビューと照合しています。"
+  "methodology": "各カメラをペット特化AI、実際の映像品質、双方向音声の使いやすさ、5年間のサブスクコスト、クラウドセキュリティ実績で評価した。",
+  "products": [
+    {
+      "offerId": "furbo-360-dog-camera",
+      "badge": "総合ベスト",
+      "review": "Furbo 360の犬訓練AIと360度回転、おやつディスペンサーはカテゴリー最高のペット特化機能セット。真のトレードオフはサブスク依存：Furbo Nannyプランなしでは手動おやつ付き1080pカメラに劣化する。",
+      "pros": [
+        "360度回転で部屋全体をカバー",
+        "犬訓練AIの吠え声アラートと活動スコアリングが常時稼働",
+        "スマホアプリからリモートでおやつ投下可能"
+      ],
+      "cons": [
+        "Furbo Nannyサブスク込みの5年総コストは約¥88,000"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Field of view": "360° pan",
+        "Treat dispense": "Yes",
+        "AI alerts": "Bark + activity (subscription)",
+        "Two-way audio": "Yes",
+        "Storage": "Cloud (subscription)",
+        "Price (JP)": "~¥28,000"
+      },
+      "scores": {
+        "Video quality": 4.8,
+        "Range": 5.0,
+        "Ease of use": 4.5,
+        "Value": 3.2,
+        "Two-way audio": 4.7
+      }
+    },
+    {
+      "offerId": "petcube-cam",
+      "badge": "コスパペットカメラベスト",
+      "review": "Petcube CamはFurboの約半額で1080p映像と双方向音声を実現。おやつディスペンサーなし。モーションアラートの誤検知率が高く、最初の月でアラート疲労を感じるオーナーもいる。",
+      "pros": [
+        "Furboの半額でペット特化設計",
+        "1080p映像＋双方向音声",
+        "ハブ不要のシンプルセットアップ"
+      ],
+      "cons": [
+        "おやつ・レーザー機能なし。視野角110°で大部屋のコーナーを見逃す"
+      ],
+      "grade": "A",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Field of view": "110°",
+        "Treat dispense": "No",
+        "Two-way audio": "Yes",
+        "Storage": "Cloud (Petcube Care subscription)",
+        "Price (US)": "~$30"
+      },
+      "scores": {
+        "Video quality": 4.4,
+        "Range": 3.2,
+        "Ease of use": 4.6,
+        "Value": 4.3,
+        "Two-way audio": 4.2
+      }
+    },
+    {
+      "offerId": "eufy-indoor-cam-2k-pan-tilt",
+      "badge": "サブスク不要のベストピック",
+      "review": "Eufy 2K Pan & TiltはmicroSD無料ローカル保存、2K解像度、360度パン+96度チルトで¥15,000以下最強のローカル保存オプション。ペット特化AIがなく内蔵スピーカーが薄いのがトレードオフ。",
+      "pros": [
+        "サブスク不要で2K解像度",
+        "動くペットを追う360°パン・96°チルト",
+        "Apple HomeKit Secure Video対応"
+      ],
+      "cons": [
+        "吠え声検知・おやつ投下・ペット訓練AIなし"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Resolution": "2K (2304×1296)",
+        "Pan / Tilt": "360° / 96°",
+        "Treat dispense": "No",
+        "Storage": "microSD (no subscription)",
+        "HomeKit": "Yes",
+        "Price (US)": "~$55"
+      },
+      "scores": {
+        "Video quality": 4.6,
+        "Range": 4.8,
+        "Ease of use": 4.4,
+        "Value": 4.7,
+        "Two-way audio": 3.5
+      }
+    },
+    {
+      "offerId": "pawbo-pet-camera",
+      "badge": "中堅おやつカメラベスト",
+      "review": "Pawboはプレミアムなことなく安価なFurboとの間でおやつディスペンサーと双方向音声を実現。ただし720p映像と長期レビューでのアプリクラッシュ報告が総合スコアを下げている。",
+      "pros": [
+        "Furbo価格なしでおやつ投下とスケジュール投下",
+        "リモートチェックイン用双方向音声",
+        "定期トレーニング向けおやつスケジュール機能"
+      ],
+      "cons": [
+        "720p映像は競合より明らかに低画質。長期レビューでアプリクラッシュ報告"
+      ],
+      "grade": "B",
+      "specs": {
+        "Resolution": "720p",
+        "Treat dispense": "Yes (scheduled + manual)",
+        "Two-way audio": "Yes",
+        "Price (US)": "~$54"
+      },
+      "scores": {
+        "Video quality": 3.4,
+        "Range": 3.0,
+        "Ease of use": 3.6,
+        "Value": 3.8,
+        "Two-way audio": 4.0
+      }
+    },
+    {
+      "offerId": "wyze-cam-v3",
+      "badge": "予算セキュリティカメラベスト",
+      "review": "約¥4,800のWyze Cam v3はカラーナイトビジョンとmicroSDローカル保存付きで最安値の有能な屋内カメラ。ペット特化ではなく、2022〜2024年のプライバシー問題は購入前に調査すべき実際の懸念。",
+      "pros": [
+        "カテゴリー最安値カメラ",
+        "カラーナイトビジョンと屋外対応防水",
+        "mandatory subscription不要のmicroSDローカル保存"
+      ],
+      "cons": [
+        "ペット特化AIなし。2022〜2024年プライバシー・アカウント混在問題が未解決"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Night vision": "Color Starlight",
+        "Weatherproof": "IP65",
+        "Storage": "microSD + cloud (Cam Plus ~¥250/mo)",
+        "Price (JP)": "~¥4,800"
+      },
+      "scores": {
+        "Video quality": 4.0,
+        "Range": 3.5,
+        "Ease of use": 4.2,
+        "Value": 4.9,
+        "Two-way audio": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "分離不安が心配な犬オーナー向け",
+      "offerId": "furbo-360-dog-camera",
+      "reason": "犬訓練済み吠え声AIとおやつ投下が、不安な犬をリモートで監視・エンゲージするための最も充実したツール。"
+    },
+    {
+      "label": "シンプルなペット監視を求めるオーナー向け",
+      "offerId": "petcube-cam",
+      "reason": "Furboの半額でペット特化設計と1080p映像——サブスク負担も軽い。"
+    },
+    {
+      "label": "多部屋世帯やプライバシー重視の買い手向け",
+      "offerId": "eufy-indoor-cam-2k-pan-tilt",
+      "reason": "2Kローカル保存でサブスク不要——ラインナップ中最小のクラウドプライバシーリスク。"
+    },
+    {
+      "label": "低コスト重視の買い手向け",
+      "offerId": "wyze-cam-v3",
+      "reason": "最安値のカメラ単価でベーシックなリモートビュー。複数部屋を安くカバーしたい世帯に最適。"
+    },
+    {
+      "label": "プレミアム価格なしでおやつ投下を求める方向け",
+      "offerId": "pawbo-pet-camera",
+      "reason": "Furbo Nannyサブスク不要でおやつ投下とスケジュール機能を実現。"
+    }
+  ]
 }

@@ -91,5 +91,184 @@
     "ultimate-body-press-ceiling": "Ingresso economico nell'installazione permanente a soffitto. Acciaio calibro 14 da 1,25 pollici, capacita 300 lbs, estensione 40 pollici. Il requisito minimo di altezza del soffitto di 90 pollici e il piu basso in questo confronto. Migliore per gli utenti sotto i 100kg che eseguono trazioni rigorose a pendenza morta che vogliono un'installazione permanente senza il costo di grado palestra completo."
   },
   "pinDescription": "5 sbarre per trazioni a soffitto a confronto: Rogue vs Titan vs REP vs Pullup & Dip vs Ultimate Body Press. Trova quale sbarra si adatta alla tua altezza del soffitto, interasse delle travi e carico di allenamento — installa una volta, allenati per anni. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni barra è stata valutata su calibro dell'acciaio e diametro del tubo, capacità di carico statica classificata dal produttore, compatibilità con la spaziatura delle travi, profondità e area superficiale della zigrinatura, requisito di altezza minima del soffitto, qualità dell'hardware incluso e resistenza alla corrosione per ambienti di installazione non climatizzati.",
+  "products": [
+    {
+      "offerId": "rogue-joist-mount-pullup",
+      "badge": "Migliore Complessivo",
+      "review": "Il Rogue Joist Mount è il riferimento della barra da soffitto per garage — acciaio 11 calibre, classificazione 500 lb, campata 48 pollici e hardware di fissaggio incluso per due travi standard a 16 pollici. La zigrinatura a profondità media è abbastanza aggressiva da mantenere il grip durante le trazioni con peso aggiunto senza lacerare la pelle nelle serie ad alte ripetizioni.",
+      "pros": [
+        "Acciaio 11 calibre e 500 lb — capacità di carico più alta in questo confronto",
+        "Verniciatura a polvere qualità rack resiste agli ambienti di garage non climatizzati",
+        "Hardware di fissaggio completo incluso — nessun acquisto separato necessario"
+      ],
+      "cons": [
+        "Richiede spaziatura standard delle travi a 16 pollici — soffitti non standard necessitano il Titan"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "500 lb (227 kg)",
+        "Span": "48 inches",
+        "Ceiling height min": "Standard",
+        "Mounting": "2 ceiling joists at 16-inch centers",
+        "Price": "$95.00"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 4.9,
+        "Installation ease": 4.0,
+        "Value": 4.5,
+        "Grip variety": 3.8
+      }
+    },
+    {
+      "offerId": "titan-wall-ceiling-pullup",
+      "badge": "Migliore Multi-Angolo",
+      "review": "Il supporto regolabile di Titan si monta a qualsiasi angolo tra 45 e 90 gradi su parete o soffitto — l'unica opzione in questo confronto per inclinazioni di soffitto non standard o installazioni nell'angolo parete-soffitto. Le sezioni di presa angolate integrate forniscono una presa neutra senza hardware aggiuntivo.",
+      "pros": [
+        "Si monta a qualsiasi angolo 45–90° — risolve soffitti inclinati e installazioni in angolo",
+        "Sezioni di presa neutrale integrate senza attacchi aggiuntivi",
+        "Prezzo più basso per una barra in acciaio classificata 400 lb in questo confronto"
+      ],
+      "cons": [
+        "12 calibre vs. 11 calibre significa meno rigidità di Rogue o REP sotto alto carico"
+      ],
+      "grade": "A",
+      "specs": {
+        "Steel gauge": "12-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "400 lb (181 kg)",
+        "Span": "44 inches",
+        "Mount angle": "45–90° adjustable",
+        "Mounting": "Wall or ceiling",
+        "Price": "$85–120"
+      },
+      "scores": {
+        "Load capacity": 4.5,
+        "Stability": 4.6,
+        "Installation ease": 4.2,
+        "Value": 4.8,
+        "Grip variety": 4.7
+      }
+    },
+    {
+      "offerId": "rep-fitness-ceiling-pullup",
+      "badge": "Migliore per Allenamento ad Alta Ripetizione",
+      "review": "La barra da 1,5 pollici di REP è la più spessa in questo confronto — che allena passivamente la forza della presa ad ogni serie ed è un vero differenziatore. La guarnizione di gomma al soffitto elimina il rumore cigolante comune durante i cicli di carico pesante sulle travi di legno.",
+      "pros": [
+        "Barra da 1,5 pollici allena la presa passivamente ad ogni serie",
+        "Guarnizione di gomma al soffitto elimina lo stridio del ciclo di carico sulle travi di legno",
+        "Zigrinatura più leggera si adatta meglio all'allenamento ad alto numero di ripetizioni"
+      ],
+      "cons": [
+        "Zigrinatura più leggera fornisce meno feedback durante le serie massime con peso aggiunto vs. Rogue"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Bar diameter": "1.5 inches",
+        "Load capacity": "500 lb (227 kg)",
+        "Span": "48 inches",
+        "Ceiling gasket": "Rubber (creak prevention)",
+        "Mounting": "2 ceiling joists",
+        "Price": "$80–140"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 4.8,
+        "Installation ease": 3.8,
+        "Value": 4.6,
+        "Grip variety": 3.6
+      }
+    },
+    {
+      "offerId": "probar-wall-mount-pullup",
+      "badge": "Migliore per Spazi Esterni/Umidi",
+      "review": "ProBar usa acciaio inossidabile 304 sia per la barra che per l'hardware — l'unica opzione resistente alla corrosione in questo confronto, e la scelta giusta per qualsiasi installazione all'aperto, garage non climatizzato o ad alta umidità. La capacità di 441 lb e la campata di 39 pollici sono competitive.",
+      "pros": [
+        "Barra e hardware in acciaio inossidabile 304 resistono alla corrosione in spazi esterni o umidi",
+        "Include impugnature parallele strette per trazioni con presa neutra",
+        "Classificazione di 441 lb competitiva con barre in acciaio di fascia media"
+      ],
+      "cons": [
+        "Campata di 39 pollici più corta di Rogue e REP — meno spazio per variazioni di presa larga"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "304 stainless steel",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "441 lb (200 kg)",
+        "Span": "39 inches",
+        "Includes": "Parallel grip attachments",
+        "Best for": "Outdoor / unconditioned spaces",
+        "Price": "$60–100"
+      },
+      "scores": {
+        "Load capacity": 4.6,
+        "Stability": 4.7,
+        "Installation ease": 4.0,
+        "Value": 4.0,
+        "Grip variety": 4.5
+      }
+    },
+    {
+      "offerId": "ultimate-body-press-ceiling",
+      "badge": "Migliore Permanente Economico",
+      "review": "Ultimate Body Press è la barra da soffitto di livello base — acciaio 14 calibre, capacità 300 lb, campata 40 pollici e altezza minima del soffitto di 90 pollici. Per utenti sotto i 100 kg che fanno trazioni rigide in sospensione e vogliono un'installazione permanente senza pagare prezzi da palestra professionista.",
+      "pros": [
+        "Prezzo più basso per una barra di trazione montata permanentemente al soffitto",
+        "Altezza minima del soffitto di 90 pollici — requisito di spazio più basso qui",
+        "Funzionale per uso rigoroso a peso corporeo in sospensione sotto 100 kg"
+      ],
+      "cons": [
+        "Costruzione più leggera a 14 calibre — notevolmente meno rigida di Rogue o REP sotto carico"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Steel gauge": "14-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "300 lb (136 kg)",
+        "Span": "40 inches",
+        "Ceiling height min": "90 inches (229 cm)",
+        "Mounting": "2 ceiling joists",
+        "Price": "$89.95"
+      },
+      "scores": {
+        "Load capacity": 3.8,
+        "Stability": 4.0,
+        "Installation ease": 4.2,
+        "Value": 4.5,
+        "Grip variety": 3.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per installazione permanente in garage",
+      "offerId": "rogue-joist-mount-pullup",
+      "reason": "Acciaio 11 calibre e 500 lb alla spaziatura standard delle travi — la barra che gestisce trazioni con peso, kipping e uso quotidiano ad alto volume senza flettersi."
+    },
+    {
+      "label": "Per angoli o inclinazioni di soffitto non standard",
+      "offerId": "titan-wall-ceiling-pullup",
+      "reason": "L'unica barra in questo confronto che si monta a qualsiasi angolo tra 45 e 90 gradi — risolve soffitti inclinati e installazioni in angolo."
+    },
+    {
+      "label": "Per allenamento ad alto numero di ripetizioni a peso corporeo",
+      "offerId": "rep-fitness-ceiling-pullup",
+      "reason": "Il diametro di 1,5 pollici allena passivamente la presa e la zigrinatura più leggera è più comoda per serie di 15+ ripetizioni a peso corporeo."
+    },
+    {
+      "label": "Per installazioni esterne o in garage non climatizzati",
+      "offerId": "probar-wall-mount-pullup",
+      "reason": "La barra e l'hardware in acciaio inossidabile 304 sono l'unica opzione resistente alla corrosione — necessaria quando pioggia, umidità o condensa sono probabili."
+    },
+    {
+      "label": "Per installazione permanente a soffitto a basso costo",
+      "offerId": "ultimate-body-press-ceiling",
+      "reason": "Prezzo d'ingresso più basso per una barra montata al soffitto — funzionale per trazioni rigide a peso corporeo sotto 100 kg."
+    }
+  ]
 }

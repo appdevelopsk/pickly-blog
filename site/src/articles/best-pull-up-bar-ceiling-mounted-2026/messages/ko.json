@@ -91,5 +91,184 @@
     "ultimate-body-press-ceiling": "영구 천장 설치의 예산 진입점. 14게이지 1.25인치 철강, 300lbs 용량, 40인치 스팬. 90인치 천장 높이 최솟값은 이 비교에서 가장 낮음. 풀 짐 비용 없이 영구 설치를 원하는 100kg 미만의 엄격한 데드행 사용자에게 적합."
   },
   "pinDescription": "천장 장착 풀업바 5종 비교: Rogue vs Titan vs REP vs Pullup & Dip vs Ultimate Body Press. 천장 높이, 장선 간격, 훈련 하중에 맞는 바를 찾아 한 번 설치하고 몇 년이고 훈련하세요.",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 바는 강철 게이지 및 튜브 직경, 제조업체 정격 정적 하중 용량, 장선 간격 호환성, 너링 깊이 및 표면적, 최소 천장 높이 요건, 포함된 하드웨어 품질, 비공조 설치 환경에 대한 내부식성으로 평가되었습니다.",
+  "products": [
+    {
+      "offerId": "rogue-joist-mount-pullup",
+      "badge": "최고 종합 추천",
+      "review": "Rogue Joist Mount는 차고 체육관 천장 바의 기준입니다 — 11게이지 강철, 500파운드 정격, 48인치 스팬, 표준 16인치 간격 장선 2개를 위한 래그 하드웨어 포함. 중간 깊이의 너링은 무거운 풀업 중 그립을 유지하기에 충분히 공격적이면서 고반복 세트에서 피부를 찢지 않습니다.",
+      "pros": [
+        "11게이지 강철과 500파운드 정격 — 이 비교에서 최고 하중 용량",
+        "랙 등급 분체 도장이 비공조 차고 환경에서 생존",
+        "완전한 래그 하드웨어 포함 — 별도 하드웨어 구매 불필요"
+      ],
+      "cons": [
+        "표준 16인치 장선 간격 필요 — 비표준 천장은 Titan 필요"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "500 lb (227 kg)",
+        "Span": "48 inches",
+        "Ceiling height min": "Standard",
+        "Mounting": "2 ceiling joists at 16-inch centers",
+        "Price": "$95.00"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 4.9,
+        "Installation ease": 4.0,
+        "Value": 4.5,
+        "Grip variety": 3.8
+      }
+    },
+    {
+      "offerId": "titan-wall-ceiling-pullup",
+      "badge": "최고 다중 각도",
+      "review": "Titan의 조절 가능한 브라켓은 벽 또는 천장에 45도에서 90도 사이의 어떤 각도에서도 장착됩니다 — 비표준 천장 경사나 벽-천장 코너 설치를 위한 이 비교의 유일한 옵션. 내장된 각도 그립 섹션이 추가 하드웨어 없이 중립 그립을 제공합니다.",
+      "pros": [
+        "45–90° 어떤 각도에서도 장착 — 경사진 천장 및 코너 설치 해결",
+        "추가 부착물 없는 내장 중립 그립 섹션",
+        "이 비교에서 400파운드 정격 강철 바 최저 가격"
+      ],
+      "cons": [
+        "11게이지 대비 12게이지는 고하중 하에서 Rogue나 REP보다 강성 낮음"
+      ],
+      "grade": "A",
+      "specs": {
+        "Steel gauge": "12-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "400 lb (181 kg)",
+        "Span": "44 inches",
+        "Mount angle": "45–90° adjustable",
+        "Mounting": "Wall or ceiling",
+        "Price": "$85–120"
+      },
+      "scores": {
+        "Load capacity": 4.5,
+        "Stability": 4.6,
+        "Installation ease": 4.2,
+        "Value": 4.8,
+        "Grip variety": 4.7
+      }
+    },
+    {
+      "offerId": "rep-fitness-ceiling-pullup",
+      "badge": "고반복 훈련에 최적",
+      "review": "REP의 1.5인치 직경 바는 이 비교에서 가장 두꺼운 바입니다 — 매 세트마다 수동으로 그립 강도를 훈련하며 진정한 차별화 요소입니다. 고무 천장 가스켓이 나무 장선의 무거운 하중 사이클 중 흔한 삐걱거림을 제거합니다.",
+      "pros": [
+        "1.5인치 직경 바가 매 세트마다 수동으로 그립 훈련",
+        "고무 천장 가스켓이 나무 장선의 하중 사이클 삐걱거림 제거",
+        "가벼운 너링이 고반복 자중 훈련에 Rogue보다 더 편안함"
+      ],
+      "cons": [
+        "가벼운 너링이 최대 하중 가중 세트에서 Rogue 대비 피드백 감소"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Bar diameter": "1.5 inches",
+        "Load capacity": "500 lb (227 kg)",
+        "Span": "48 inches",
+        "Ceiling gasket": "Rubber (creak prevention)",
+        "Mounting": "2 ceiling joists",
+        "Price": "$80–140"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 4.8,
+        "Installation ease": 3.8,
+        "Value": 4.6,
+        "Grip variety": 3.6
+      }
+    },
+    {
+      "offerId": "probar-wall-mount-pullup",
+      "badge": "야외/습기 공간에 최적",
+      "review": "ProBar는 바와 하드웨어 모두에 304 스테인리스 스틸 사용 — 이 비교에서 유일한 내부식 옵션으로 탄소강이 녹스는 야외, 비공조 차고 또는 고습도 설치에 올바른 선택. 441파운드 용량과 39인치 스팬은 경쟁력이 있습니다.",
+      "pros": [
+        "304 스테인리스 스틸 바와 하드웨어가 야외 또는 습한 공간에서 내부식",
+        "중립 그립 풀업을 위한 좁은 평행 그립 부착물 포함",
+        "441파운드 용량 정격이 중간급 강철 바와 경쟁력 있음"
+      ],
+      "cons": [
+        "39인치 스팬이 Rogue와 REP보다 짧음 — 넓은 그립 변형 공간 적음"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "304 stainless steel",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "441 lb (200 kg)",
+        "Span": "39 inches",
+        "Includes": "Parallel grip attachments",
+        "Best for": "Outdoor / unconditioned spaces",
+        "Price": "$60–100"
+      },
+      "scores": {
+        "Load capacity": 4.6,
+        "Stability": 4.7,
+        "Installation ease": 4.0,
+        "Value": 4.0,
+        "Grip variety": 4.5
+      }
+    },
+    {
+      "offerId": "ultimate-body-press-ceiling",
+      "badge": "최고 저가 영구 설치",
+      "review": "Ultimate Body Press는 기본급 천장 바입니다 — 14게이지 강철, 300파운드 용량, 40인치 스팬, 이 비교에서 가장 낮은 정리 요건인 90인치 최소 천장 높이. 100kg 미만으로 엄격한 데드행 풀업을 하는 사용자에게 영구 설치를 제공합니다.",
+      "pros": [
+        "영구 천장 장착 풀업 바 최저 가격",
+        "90인치 최소 천장 높이 — 여기서 가장 낮은 클리어런스 요건",
+        "100kg 미만의 엄격한 데드행 자중 사용에 기능적"
+      ],
+      "cons": [
+        "14게이지 가벼운 구조 — 하중 하에서 Rogue나 REP보다 명백히 덜 강성"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Steel gauge": "14-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "300 lb (136 kg)",
+        "Span": "40 inches",
+        "Ceiling height min": "90 inches (229 cm)",
+        "Mounting": "2 ceiling joists",
+        "Price": "$89.95"
+      },
+      "scores": {
+        "Load capacity": 3.8,
+        "Stability": 4.0,
+        "Installation ease": 4.2,
+        "Value": 4.5,
+        "Grip variety": 3.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "차고 체육관 영구 설치를 위해",
+      "offerId": "rogue-joist-mount-pullup",
+      "reason": "표준 장선 간격에서 11게이지 강철과 500파운드 정격 — 가중 풀업, 키핑, 매일 고볼륨 사용을 굴곡 없이 처리하는 바."
+    },
+    {
+      "label": "비표준 천장 각도나 경사를 위해",
+      "offerId": "titan-wall-ceiling-pullup",
+      "reason": "이 비교에서 45도에서 90도 사이의 어떤 각도에서도 장착되는 유일한 바 — 경사진 천장과 코너 설치 해결."
+    },
+    {
+      "label": "고반복 자중 훈련을 위해",
+      "offerId": "rep-fitness-ceiling-pullup",
+      "reason": "1.5인치 직경이 수동으로 그립을 훈련하고 가벼운 너링이 더 공격적인 Rogue 텍스처보다 15+ 반복 자중 세트에 더 편안함."
+    },
+    {
+      "label": "야외 또는 비공조 차고 설치를 위해",
+      "offerId": "probar-wall-mount-pullup",
+      "reason": "304 스테인리스 바와 하드웨어가 유일한 내부식 옵션 — 비, 습기 또는 응결 접촉이 예상될 때 필요."
+    },
+    {
+      "label": "저예산 영구 천장 설치를 위해",
+      "offerId": "ultimate-body-press-ceiling",
+      "reason": "천장 장착 바 최저 입문 가격 — 체육관 등급 하중 정격이 필요 없는 100kg 미만의 엄격한 자중 풀업에 기능적."
+    }
+  ]
 }

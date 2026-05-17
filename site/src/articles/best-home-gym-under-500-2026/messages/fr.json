@@ -96,5 +96,65 @@
     "rogue-monster-bands": "Bandes en boucle de 104 cm en latex naturel, plusieurs niveaux de résistance, durabilité commerciale. 15-30 $ par bande, sets 60-120 $. Meilleur rapport valeur/dollar dans toute salle de sport maison — assistance pour tractions, mobilité, résistance accommodante, exercices avec bandes. Adapté à toute configuration quelle que soit l'autre équipement.",
     "prosourcefit-flooring-tiles": "Dalles de mousse EVA interlocking de 2 cm d'épaisseur, set de 2,2 m². 40-60 $. Meilleure protection du sol pour les surfaces dures — prévient les dommages à l'équipement et au sol, réduit l'impact sur les articulations. Adapté à quiconque utilise des haltères lourds ou une barre sur du carrelage ou du béton."
   },
-  "pinDescription": "Meilleure salle de sport maison pour moins de 500 $ en 2026 : haltères réglables PowerBlock vs TRX vs set de barre — quoi acheter en premier, stratégies pour économiser l'espace, sur quoi NE PAS gaspiller l'argent, et trois configurations complètes à 500 $ pour différents objectifs et tailles de pièce."
+  "pinDescription": "Meilleure salle de sport maison pour moins de 500 $ en 2026 : haltères réglables PowerBlock vs TRX vs set de barre — quoi acheter en premier, stratégies pour économiser l'espace, sur quoi NE PAS gaspiller l'argent, et trois configurations complètes à 500 $ pour différents objectifs et tailles de pièce.",
+  "methodology": "Chaque équipement a été évalué sur la couverture d'exercices par dollar, l'efficacité en espace, la qualité de construction par rapport au prix et la durée d'utilité au fil de la progression en force — les équipements budget qui deviennent inutiles en un an sont mal notés quel que soit leur coût initial.",
+  "products": [
+    {
+      "offerId": "powerblock-sport-exp",
+      "badge": "Meilleure Option Globale",
+      "review": "Le PowerBlock Sport EXP 50 lb remplace un rack d'haltères complet sur l'espace de deux haltères standard. Le sélecteur à broche change le poids en 5 secondes — pas de manipulation de disques. Qualité de construction solide pour un usage domestique, garantie 10 ans. À 350–400 $, c'est l'achat au meilleur rapport qualité-prix dans un home gym de 500 $ : développé couché, rames, développé épaules, curl, squat, soulevé de terre — tout avec un seul équipement.",
+      "pros": ["Remplace un rack d'haltères de 5–50 lb dans un espace compact", "Changement de poids en 5 secondes par sélecteur à broche", "Garantie 10 ans — conçu pour un usage domestique réel"],
+      "cons": ["Plafond de 50 lb limite les exercices composés du bas du corps pour les pratiquants intermédiaires et avancés"],
+      "grade": "A+",
+      "specs": {"Prix": "350–400 $", "Plage de poids": "5–50 lb (extensible à 70 lb)", "Incrément": "2,5–5 lb", "Garantie": "10 ans", "Encombrement": "Taille de 2 haltères standard"},
+      "scores": {"Qualité de construction": 4.5, "Polyvalence": 5.0, "Facilité d'utilisation": 4.8, "Rapport qualité-prix": 4.8, "Durabilité": 4.5}
+    },
+    {
+      "offerId": "trx-home2",
+      "badge": "Meilleur pour Petits Espaces",
+      "review": "Le TRX HOME2 tient dans un sac plus petit qu'un sac de sport et s'accroche à n'importe quel cadre de porte en quelques secondes. Il couvre les mouvements de tirage (rames), les variantes de poussée, le travail unijambiste et de nombreux exercices de gainage — tout ce que les haltères seuls ne répliquent pas bien. L'ancre de porte introduit une légère traction arrière vs montage au plafond mais fonctionne correctement. Meilleur en combinaison avec des haltères ; seul, la charge des jambes est limitée au poids du corps.",
+      "pros": ["Zéro encombrement de rangement — tient dans un sac, s'accroche en secondes", "Couvre les rames et les tractions que les haltères seuls ne répliquent pas bien", "Essai 30 jours inclus"],
+      "cons": ["Pas de charge externe pour le bas du corps — exercices de jambes limités au poids du corps"],
+      "grade": "A",
+      "specs": {"Prix": "150–200 $", "Options d'ancrage": "Porte, plafond, mur", "Limite de poids": "159 kg", "Inclus": "Ancre de porte + sac de voyage", "Essai": "30 jours"},
+      "scores": {"Qualité de construction": 4.5, "Polyvalence": 4.3, "Facilité d'utilisation": 4.8, "Rapport qualité-prix": 4.3, "Durabilité": 4.8}
+    },
+    {
+      "offerId": "cap-barbell-standard-set",
+      "badge": "Meilleur Kit Barre Budget",
+      "review": "Le set CAP standard (80–150 $ avec 50 kg de disques) est l'entrée la moins chère dans l'entraînement à la barre — squat, soulevé de terre, développé couché, développé épaules. La manchon de 25 mm est une vraie limitation : les disques vacillent sous charges lourdes (90+ kg) et les disques olympiques ne s'adaptent pas. Suffisant pour les débutants et l'entraînement intermédiaire précoce. La plupart des sportifs sérieux passent à l'équipement olympique en 1–2 ans. Nécessite au moins 2,4x2,4 m d'espace.",
+      "pros": ["Entrée barre la moins chère — exercices composés lourds pour 80–150 $", "Squat, soulevé de terre, développé couché, développé épaules tous accessibles", "Suffisant pour 12–18 mois de progression débutant"],
+      "cons": ["Le manchon 25 mm vacille sous charges lourdes — prévoir une mise à niveau vers olympique"],
+      "grade": "B+",
+      "specs": {"Prix": "80–150 $", "Type de barre": "Standard 25 mm", "Disques inclus": "50 kg", "Capacité barre": "90–136 kg", "Recommandé pour": "Garage/cave avec min. 2,4x2,4 m"},
+      "scores": {"Qualité de construction": 3.5, "Polyvalence": 4.5, "Facilité d'utilisation": 3.8, "Rapport qualité-prix": 5.0, "Durabilité": 3.5}
+    },
+    {
+      "offerId": "rogue-monster-bands",
+      "badge": "Meilleure Valeur par Dollar",
+      "review": "Les Rogue Monster Bands sont des boucles plates en latex de 104 cm — pas les bandes-tubes bon marché qui cassent en quelques mois. Un set de 3–4 bandes (60–120 $) ajoute à tout home gym : assistance aux tractions, résistance accommodante pour soulevés de terre et squats, face pulls, mobilité, exercices avec bandes. Zéro encombrement, dure des années. Le meilleur rapport valeur/dollar dans tout home gym de 500 $ quel que soit l'autre équipement.",
+      "pros": ["Latex commercial dure des années — pas des bandes-tubes qui cassent en mois", "Couvre assistance tractions, mobilité et exercices de substitution câbles", "Zéro espace de rangement requis"],
+      "cons": ["La résistance varie avec l'étirement — pas aussi précis que des poids fixes"],
+      "grade": "B",
+      "specs": {"Prix": "15–30 $ par bande, 60–120 $ le set", "Type": "Boucle plate latex 104 cm", "Plage de résistance": "env. 6–90 kg", "Durabilité": "Qualité commerciale", "Utilisations": "Assistance tractions, mobilité, résistance"},
+      "scores": {"Qualité de construction": 5.0, "Polyvalence": 4.8, "Facilité d'utilisation": 4.5, "Rapport qualité-prix": 5.0, "Durabilité": 5.0}
+    },
+    {
+      "offerId": "prosourcefit-flooring-tiles",
+      "badge": "Meilleure Protection du Sol",
+      "review": "Les dalles mousse ProsourceFit de 2 cm ne sont pas spectaculaires mais elles préviennent les dommages aux équipements, au sol et aux articulations. À 40–60 $ pour 24 pieds carrés, couvrez juste la zone d'entraînement — les 6x8 pieds où vous bougez réellement. La mousse se comprime plus que le caoutchouc et des écarts apparaissent dans les garages à température variable ; pour les garages, des dalles en caoutchouc sont préférables. Dans les espaces climatisés (chambres, cave), ces dalles mousse fonctionnent bien et coûtent bien moins que le caoutchouc.",
+      "pros": ["Prévient les dommages au sol et aux équipements dus aux poids lâchés", "Les dalles emboîtables s'adaptent aux formes de pièce irrégulières", "Réduit la pression articulaire pour les exercices au sol"],
+      "cons": ["La mousse EVA se comprime plus que le caoutchouc — des écarts peuvent apparaître dans les garages à température variable"],
+      "grade": "B-",
+      "specs": {"Prix": "40–60 $ (set 24 pieds carrés)", "Épaisseur": "2 cm (3/4 pouce)", "Matière": "Mousse EVA", "Couverture": "24 pieds carrés par set", "Recommandé pour": "Espaces climatisés"},
+      "scores": {"Qualité de construction": 3.5, "Polyvalence": 3.0, "Facilité d'utilisation": 5.0, "Rapport qualité-prix": 4.5, "Durabilité": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les petits appartements avec espace limité", "offerId": "powerblock-sport-exp", "reason": "Remplace un rack d'haltères sur l'espace de deux haltères — meilleure couverture d'exercices par mètre carré"},
+    {"label": "Pour les voyages ou sans espace dédié", "offerId": "trx-home2", "reason": "Tient dans un sac, s'accroche partout — tractions et gainage sans engagement d'espace au sol"},
+    {"label": "Pour les salles garage privilégiant la barre lourde", "offerId": "cap-barbell-standard-set", "reason": "Entrée barre la moins chère avec squat, soulevé de terre, développé couché pour 80–150 $"},
+    {"label": "Pour tout home gym quel que soit l'autre équipement", "offerId": "rogue-monster-bands", "reason": "Assistance tractions, mobilité et substitution câbles pour 60–120 $ — le meilleur rapport valeur/dollar"},
+    {"label": "Pour tous ceux qui utilisent haltères ou barre sur sols durs", "offerId": "prosourcefit-flooring-tiles", "reason": "Prévient les dommages aux équipements et réduit les contraintes articulaires — l'achat que vous regretterez d'avoir sauté"}
+  ]
 }

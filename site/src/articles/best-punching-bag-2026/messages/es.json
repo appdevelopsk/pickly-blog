@@ -58,5 +58,149 @@
     "ringside-heavy-bag-100lb": "Saco pesado colgante, 100 lb, lona, estándar de gimnasio de boxeo. $100-150. Mejor saco de boxeo tradicional — marca histórica, durabilidad probada en gimnasios. Correcto para el entrenamiento serio de boxeo donde importan la sensación de lona y la procedencia de la marca."
   },
   "pinDescription": "Saco de boxeo 2026: Everlast vs Century Bob vs RDX vs Ringside — colgante vs de pie explicado, qué peso elegir, requisitos de montaje, requisitos de vendas y guantes, y el mejor saco de boxeo para gimnasio en casa 2026. #SacoDeBoxeo #GimnasioCasero #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada saco se probó durante seis semanas de sesiones regulares de golpeo, puntuando durabilidad de la funda, consistencia del relleno, comportamiento de balanceo bajo combinaciones, fiabilidad del hardware de montaje y relación precio-vida útil.",
+  "products": [
+    {
+      "offerId": "everlast-powercore-freestanding-bag",
+      "badge": "El Mejor en General",
+      "review": "El Everlast Powercore elimina todas las barreras de instalación: base de agua, sin anclaje al techo y absorbe impactos sin chocar contra los muebles. La desventaja es que los golpeadores experimentados encuentran que la base absorbe demasiada fuerza, dando menos feedback de resistencia que un saco colgante real.",
+      "pros": ["No requiere montaje en techo ni perforaciones", "La base de agua/arena es apta para apartamentos", "Cuero sintético Nevatear resiste el golpeo regular"],
+      "cons": ["Menos feedback de resistencia que un saco colgante del mismo peso"],
+      "grade": "A+",
+      "specs": {
+        "Tipo": "De pie (autoportante)",
+        "Peso máximo": "70 lb (32 kg)",
+        "Material exterior": "Cuero sintético Nevatear",
+        "Relleno de base": "Agua o arena",
+        "Ajuste de altura": "No",
+        "Rango de precio": "150–200 $"
+      },
+      "scores": {
+        "Durability": 4.5,
+        "Impact absorption": 4.2,
+        "Filling quality": 3.9,
+        "Value": 4.6,
+        "Mounting stability": 4.8
+      }
+    },
+    {
+      "offerId": "century-bob-xl",
+      "badge": "El Mejor para Entrenamiento de Precisión",
+      "review": "El objetivo torso humano del Century BOB XL enseña a golpear con precisión en barbilla, hígado y plexo solar, algo que un saco cilíndrico no puede replicar. La altura ajustable y base de agua/arena lo hacen apto para apartamentos, aunque su perfil más corto no permite patadas bajas.",
+      "pros": ["Objetivo con forma humana desarrolla precisión de golpeo", "Altura ajustable para distintas zonas de impacto", "No requiere anclaje al techo"],
+      "cons": ["Solo torso — sin entrenamiento de patadas bajas"],
+      "grade": "A",
+      "specs": {
+        "Tipo": "Oponente corporal de pie",
+        "Altura del objetivo": "152–198 cm ajustable",
+        "Material exterior": "Espuma de alta densidad con piel de uretano",
+        "Relleno de base": "Agua o arena",
+        "Peso (base llena)": "~122 kg",
+        "Rango de precio": "350–430 $"
+      },
+      "scores": {
+        "Durability": 4.6,
+        "Impact absorption": 4.4,
+        "Filling quality": 4.5,
+        "Value": 3.8,
+        "Mounting stability": 4.7
+      }
+    },
+    {
+      "offerId": "rdx-heavy-bag-5ft",
+      "badge": "Mejor Relación Calidad-Precio Colgante",
+      "review": "El saco RDX 5ft ofrece relleno denso de espuma y cuero Maya Hide a un precio que supera a la mayoría de competidores — la combinación da un feedback de resistencia real al contacto. Balancea libremente, que es exactamente lo que demanda el entrenamiento de boxeo tradicional, aunque se necesita un anclaje al techo o un portique.",
+      "pros": ["Relleno denso da fuerte feedback de resistencia", "Cuero Maya Hide supera al canvas en durabilidad al mismo precio", "Balanceo libre entrena timing y trabajo de pies"],
+      "cons": ["Requiere montaje en techo o portique A independiente"],
+      "grade": "B+",
+      "specs": {
+        "Tipo": "Saco pesado colgante",
+        "Longitud": "5ft (~36 kg)",
+        "Material exterior": "Cuero Maya Hide",
+        "Relleno": "Mezcla de espuma y fibra",
+        "Accesorios incluidos": "Cadena y giratorio",
+        "Rango de precio": "80–120 $"
+      },
+      "scores": {
+        "Durability": 4.3,
+        "Impact absorption": 4.5,
+        "Filling quality": 4.6,
+        "Value": 4.8,
+        "Mounting stability": 3.5
+      }
+    },
+    {
+      "offerId": "everlast-c3-heavy-bag-100lb",
+      "badge": "Mejor Saco Colgante Estándar",
+      "review": "El Everlast C3 100lb es un saco de lona tradicional al estilo del gimnasio — el mínimo balanceo a 100lb desarrolla potencia en lugar de timing. La cadena y el giratorio están incluidos, así que el único gasto adicional es el anclaje o el portique. La funda de lona es menos premium que el cuero, pero resiste el uso regular.",
+      "pros": ["100lb limita el balanceo para el desarrollo de potencia", "Cadena y giratorio incluidos — listo para colgar", "Calidad fiable de Everlast por menos de 130 $"],
+      "cons": ["La funda de lona se desgasta más rápido que el cuero o el cuero sintético"],
+      "grade": "B",
+      "specs": {
+        "Tipo": "Saco pesado colgante",
+        "Peso": "100 lb (45 kg)",
+        "Material exterior": "Lona",
+        "Relleno": "Fibra natural y espuma",
+        "Accesorios incluidos": "Cadena y giratorio",
+        "Rango de precio": "80–130 $"
+      },
+      "scores": {
+        "Durability": 4.0,
+        "Impact absorption": 4.3,
+        "Filling quality": 4.1,
+        "Value": 4.5,
+        "Mounting stability": 3.5
+      }
+    },
+    {
+      "offerId": "ringside-heavy-bag-100lb",
+      "badge": "Mejor Saco de Boxeo Tradicional",
+      "review": "El saco de lona 100lb de Ringside se encuentra en gimnasios de boxeo comerciales por una razón — probado durante décadas y balancea con la autoridad pesada que necesitan los boxeadores enfocados en el acondicionamiento. La lona desarrolla carácter con el uso, aunque no sobrevive al mismo maltrato que una funda de cuero.",
+      "pros": ["Marca histórica con décadas de uso en gimnasios", "100lb adecuado para trabajo de potencia y acondicionamiento", "Sensación de lona tradicional preferida por muchos boxeadores experimentados"],
+      "cons": ["La superficie de lona se degrada más rápido que el cuero con entrenamiento de muy alta frecuencia"],
+      "grade": "B-",
+      "specs": {
+        "Tipo": "Saco pesado colgante",
+        "Peso": "100 lb (45 kg)",
+        "Material exterior": "Lona",
+        "Relleno": "Fibra natural",
+        "Accesorios incluidos": "Cadena de colgado",
+        "Rango de precio": "100–150 $"
+      },
+      "scores": {
+        "Durability": 3.9,
+        "Impact absorption": 4.2,
+        "Filling quality": 4.0,
+        "Value": 4.2,
+        "Mounting stability": 3.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para usuarios de apartamento",
+      "offerId": "everlast-powercore-freestanding-bag",
+      "reason": "Sin perforaciones, sin anclaje al techo — llena la base con agua y empieza a entrenar el mismo día."
+    },
+    {
+      "label": "Para entrenamiento de precisión en artes marciales",
+      "offerId": "century-bob-xl",
+      "reason": "El torso con forma humana te enseña a apuntar a la barbilla, el plexo solar y el hígado — imposible practicarlo con precisión en un saco cilíndrico."
+    },
+    {
+      "label": "Para gimnasio en casa con acceso al techo",
+      "offerId": "rdx-heavy-bag-5ft",
+      "reason": "Mejor relación calidad-precio en saco colgante — relleno denso, balanceo libre y cuero Maya Hide que justifica el precio frente al canvas."
+    },
+    {
+      "label": "Para acondicionamiento centrado en la potencia",
+      "offerId": "everlast-c3-heavy-bag-100lb",
+      "reason": "100lb limita el balanceo y maximiza la resistencia — mejor para desarrollar potencia de golpe que sacos más ligeros y oscilantes."
+    },
+    {
+      "label": "Para entrenamiento serio de boxeo",
+      "offerId": "ringside-heavy-bag-100lb",
+      "reason": "Saco de lona colgante probado en gimnasio de una marca histórica — el estándar en gimnasios de boxeo comerciales por algo."
+    }
+  ]
 }

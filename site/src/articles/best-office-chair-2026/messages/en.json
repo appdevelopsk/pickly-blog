@@ -105,5 +105,182 @@
     "ikea-markus": "IKEA Markus at ~¥25,000 with height adjustment, fixed built-in lumbar support, height-adjustable armrests, and a 10-year IKEA guarantee against manufacturing defects. Available at IKEA Japan stores with walk-in access and returns handling. The fixed lumbar contour works well when it matches your spinal geometry. fixed lumbar means support is either correct for your spine or it is not — no adjustment path exists if it misses; foam seat compression from long-term heavy use is the most frequently reported limitation in Japanese reviews; the armrests are fixed in position (the armrest adjustment is height only, not width or pivot); this is a reasonable chair for 2-4 hours of daily use but is not the correct choice for anyone with existing back issues or working 7+ hours per day."
   },
   "pinDescription": "5 office chairs compared in 2026 — Herman Miller Aeron to IKEA Markus. Mesh vs foam over 8 hours. PostureFit vs LiveBack vs fixed lumbar — what the mechanism difference actually means. ¥25,000 to ¥200,000 price gap broken down honestly. Japan market sourcing reality No independent lumbar pain trial conducted.",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Each chair was evaluated on lumbar support mechanism design, long-term foam or mesh durability, adjustment range relative to Japanese body proportions, warranty depth, and Japan-market availability.",
+  "products": [
+    {
+      "offerId": "herman-miller-aeron",
+      "badge": "Best Overall",
+      "review": "The Aeron's 8Z Pellicle mesh and PostureFit SL dual-point sacral-lumbar system are the most comprehensively documented ergonomic support combination at the premium tier. The trade-off is strict: you must select the correct size (A/B/C) and the ~¥200,000 price only makes sense if you're genuinely committing to long daily WFH sessions.",
+      "pros": [
+        "8ZonedSupport Pellicle mesh dissipates heat in humid summers",
+        "PostureFit SL addresses both sacrum and lumbar independently",
+        "12-year warranty backed by Herman Miller Japan with transferable parts"
+      ],
+      "cons": [
+        "Wrong size negates all ergonomic benefit — A/B/C sizing requires pre-purchase testing"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Sizes": "A / B / C",
+        "Back material": "8Z Pellicle mesh",
+        "Lumbar": "PostureFit SL dual-point",
+        "Armrests": "4D (height, width, pivot, depth)",
+        "Warranty": "12 years",
+        "Weight capacity": "~136 kg (size C)",
+        "Price (JP)": "~¥200,000"
+      },
+      "scores": {
+        "Lumbar support": 5.0,
+        "Comfort": 4.8,
+        "Build quality": 5.0,
+        "Value": 3.5,
+        "Adjustability": 4.9
+      }
+    },
+    {
+      "offerId": "steelcase-leap-v2",
+      "badge": "Best for Active Sitters",
+      "review": "The LiveBack mechanism follows spinal movement in real time and the natural glide seat pan keeps hip-lumbar geometry consistent through recline — a genuine advantage for anyone who reaches, twists, or shifts posture constantly. Static sitters who lock the back position won't get full value from the engineering.",
+      "pros": [
+        "LiveBack flexible spine follows natural movement throughout the workday",
+        "Natural glide maintains hip geometry during recline",
+        "12-year Steelcase Japan warranty"
+      ],
+      "cons": [
+        "LiveBack advantage is lost on users who sit rigidly or lock the backrest"
+      ],
+      "grade": "A",
+      "specs": {
+        "Back mechanism": "LiveBack flexible spine",
+        "Seat pan": "Natural glide system",
+        "Armrests": "4D",
+        "Warranty": "12 years",
+        "Upholstery options": "Fabric / Leather",
+        "Price (US)": "$1,376",
+        "Japan availability": "Premium dealers / corporate"
+      },
+      "scores": {
+        "Lumbar support": 4.8,
+        "Comfort": 4.9,
+        "Build quality": 4.9,
+        "Value": 3.6,
+        "Adjustability": 5.0
+      }
+    },
+    {
+      "offerId": "okamura-contessa-seconda",
+      "badge": "Best Japanese-Market Pick",
+      "review": "Designed around Japanese body proportions with Okamura's nationwide service network and domestic parts supply. The back mechanism is adjustable but less dynamically responsive than the Leap V2's LiveBack — the Contessa Seconda wins on domestic fit and serviceability, not mechanism innovation.",
+      "pros": [
+        "Engineered for Japanese body proportions from the ground up",
+        "Broadest domestic service network of any chair in this comparison",
+        "Standard and large sizes available"
+      ],
+      "cons": [
+        "Back mechanism less dynamically responsive than the Steelcase LiveBack"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Sizes": "Standard / Large",
+        "Back material": "Mesh",
+        "Manufacturer": "Okamura (Japan)",
+        "Warranty": "5 yr frame / 2 yr upholstery",
+        "Price (JP)": "~¥100,000",
+        "Service network": "Nationwide Japan",
+        "Target market": "Japanese body proportions"
+      },
+      "scores": {
+        "Lumbar support": 4.5,
+        "Comfort": 4.6,
+        "Build quality": 4.7,
+        "Value": 4.2,
+        "Adjustability": 4.3
+      }
+    },
+    {
+      "offerId": "flexispot-ej2-ergonomic",
+      "badge": "Best Budget Ergonomic",
+      "review": "At ~¥30,000 with height-adjustable lumbar, reclining, and Prime delivery, the Flexispot OC3 is the honest budget ergonomic recommendation. The lumbar is a pad, not a structural mechanism, and foam compression starts to show within 12–24 months of heavy daily use.",
+      "pros": [
+        "Height-adjustable lumbar pad at a budget price point",
+        "Available via Amazon Japan Prime",
+        "Reclining function for postural variation"
+      ],
+      "cons": [
+        "Foam seat compression expected within 12–24 months of heavy use"
+      ],
+      "grade": "B",
+      "specs": {
+        "Seat material": "Foam",
+        "Lumbar": "Height-adjustable pad",
+        "Warranty": "3 years",
+        "Price (JP)": "~¥30,000",
+        "Availability": "Amazon Japan Prime",
+        "Support": "Email only"
+      },
+      "scores": {
+        "Lumbar support": 3.5,
+        "Comfort": 3.8,
+        "Build quality": 3.4,
+        "Value": 4.5,
+        "Adjustability": 3.6
+      }
+    },
+    {
+      "offerId": "ikea-markus",
+      "badge": "Best Entry-Level",
+      "review": "The IKEA Markus's fixed lumbar either fits your spine or it doesn't — there is no adjustment path. At ~¥25,000 with a 10-year IKEA guarantee and walk-in availability at Japan stores, it's reasonable for 2–4 hour sessions, but not suitable for 7+ hour daily use or existing back issues.",
+      "pros": [
+        "Walk-in availability at IKEA Japan stores with easy returns",
+        "10-year IKEA guarantee against manufacturing defects",
+        "Lowest friction entry point with basic lumbar consideration"
+      ],
+      "cons": [
+        "Fixed lumbar contour — no adjustment if it doesn't fit your spine shape"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Seat material": "Foam (polyurethane)",
+        "Lumbar": "Fixed built-in contour",
+        "Warranty": "10 years (manufacturing defects)",
+        "Price (JP)": "~¥25,000",
+        "Colors": "Black / Beige-gray",
+        "Armrests": "Height-adjustable only"
+      },
+      "scores": {
+        "Lumbar support": 3.0,
+        "Comfort": 3.5,
+        "Build quality": 3.2,
+        "Value": 4.6,
+        "Adjustability": 2.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For full-day WFH workers (7+ hrs)",
+      "offerId": "herman-miller-aeron",
+      "reason": "PostureFit SL and 8Z Pellicle provide the most documented support for sustained seated work."
+    },
+    {
+      "label": "For people who shift posture frequently",
+      "offerId": "steelcase-leap-v2",
+      "reason": "LiveBack follows spinal movement in real time rather than holding a fixed contour."
+    },
+    {
+      "label": "For buyers prioritizing Japanese brand support",
+      "offerId": "okamura-contessa-seconda",
+      "reason": "Nationwide Okamura service network and Japanese body-proportion design."
+    },
+    {
+      "label": "For budget-conscious remote workers",
+      "offerId": "flexispot-ej2-ergonomic",
+      "reason": "Height-adjustable lumbar and reclining at ~¥30,000 via Amazon Prime."
+    },
+    {
+      "label": "For light users needing walk-in simplicity",
+      "offerId": "ikea-markus",
+      "reason": "Available at IKEA Japan stores with a 10-year guarantee and easy returns."
+    }
+  ]
 }

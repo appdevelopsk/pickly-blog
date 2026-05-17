@@ -53,5 +53,184 @@
     "monkii-bars-2": "바 하나당 99g, 나무 가지, 펜스 레일, 또는 직경 3.2cm 이하의 모든 물체에 클립. 진정한 여행 미니멀리스트를 위한 유일한 트레이너. 300 lbs 최대 하중."
   },
   "pinDescription": "2026년 최고의 서스펜션 트레이너 5가지 — TRX GO vs PRO4 vs Jungle Gym vs Monkii Bars. 하나의 앵커 포인트에서 전신 운동. 당신의 훈련에 맞는 것은? 💪",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "각 트레이너는 포함된 앵커 포인트의 앵커 품질과 하중 등급, 동적 부하 하에서의 스트랩 내구성, 당기기, 밀기, 힌지, 코어 동작 카테고리에 걸친 운동 다양성, 동일 가격대 대안 대비 가치, 그리고 가방에서 첫 번째 운동까지의 설정 용이성으로 평가했습니다.",
+  "products": [
+    {
+      "offerId": "trx-pro4-suspension",
+      "badge": "전체 최고",
+      "review": "TRX PRO4는 상업 헬스장 기준입니다 — 1,400파운드 용량, 도어 앵커, 서스펜션 앵커, 메쉬 백. 이 비교에서 가장 넓은 도어 앵커가 프레임 전체에 힘을 더 균등하게 분산합니다. $249.95로 가장 비싼 싱글 스트랩 옵션이지만, 예산 대안과의 품질 격차는 실제입니다.",
+      "pros": [
+        "1,400파운드 용량이 점프 동작의 동적 부하와 체중 범위 상한의 사용자를 처리",
+        "도어 앵커, 서스펜션 앵커, 메쉬 백 포함 — 거의 모든 앵커 시나리오 커버",
+        "상업 헬스장 구조 기준 — 다른 모든 서스펜션 트레이너가 비교되는 기준"
+      ],
+      "cons": [
+        "$249.95로 가장 비쌈; 여행 사용에는 TRX GO보다 무겁고 부피가 큼"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Weight capacity": "1,400 lb / 635 kg",
+        "System weight": "1.8 lb / 0.8 kg",
+        "Webbing width": "1.5 inch nylon",
+        "Anchors included": "Door anchor + suspension anchor",
+        "Handle grip": "Rubber-coated",
+        "Foot cradle": "Yes",
+        "Price": "$249.95"
+      },
+      "scores": {
+        "Anchor quality": 5.0,
+        "Strap durability": 5.0,
+        "Versatility": 5.0,
+        "Value": 3.5,
+        "Ease of setup": 4.5
+      }
+    },
+    {
+      "offerId": "trx-go-suspension",
+      "badge": "여행 최고",
+      "review": "TRX GO는 1.4파운드로 재킷 주머니에 접혀 들어갑니다 — 가능한 가장 작은 패키지에서 진정한 TRX 품질. 350파운드 용량은 동적 점프 없이 자체 중량 트레이닝을 편안하게 커버합니다. 워크아웃 소책자나 트레이닝 클럽 구독 미포함.",
+      "pros": [
+        "1.4파운드로 포켓 사이즈 — 잦은 여행자를 위해 진정으로 기내 수하물 호환",
+        "입문 가격에서 정품 TRX 소재와 구조 품질",
+        "도어 앵커 포함 — 안으로 열리는 문이 있는 모든 호텔 방이나 집에서 작동"
+      ],
+      "cons": [
+        "350파운드 용량 — 동적 점프 동작을 위해 설계되지 않음; 프로그래밍 미포함"
+      ],
+      "grade": "A",
+      "specs": {
+        "Weight capacity": "350 lb / 159 kg",
+        "System weight": "1.4 lb / 0.6 kg",
+        "Webbing width": "1.5 inch nylon",
+        "Anchors included": "Door anchor",
+        "Handle grip": "Rubber-coated",
+        "Foot cradle": "Yes",
+        "Price": "$129.95"
+      },
+      "scores": {
+        "Anchor quality": 4.0,
+        "Strap durability": 4.2,
+        "Versatility": 4.3,
+        "Value": 4.2,
+        "Ease of setup": 5.0
+      }
+    },
+    {
+      "offerId": "jungle-gym-xt",
+      "badge": "어깨 건강 최고",
+      "review": "Jungle Gym XT의 분리된 독립 암 설계로 각 암이 다른 높이와 너비를 이동할 수 있습니다 — 어깨 부상이 있는 운동 선수들이 밀기 동작에서 더 편안하다고 느끼는 자연스러운 어깨 추적. 카라비너 클립이 어떤 턱걸이 바에도 장착; 400파운드 용량.",
+      "pros": [
+        "독립적인 암이 푸쉬업과 로우 중 자연스러운 어깨 경로 변화를 허용 — 어깨 부상 재활에 최적",
+        "어떤 턱걸이 바나 랙에도 카라비너 클립 — 도어 앵커 불필요",
+        "1.75인치 폼 그립 핸들이 TRX 고무 핸들보다 넓음 — 더 긴 세트에서 일부가 선호"
+      ],
+      "cons": [
+        "파이크와 마운틴 클라이머 변형을 위한 고정 발 받침대 없음; 단일 스트랩 시스템보다 설정이 약간 복잡"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Weight capacity": "400 lb / 181 kg",
+        "System weight": "Approx. 1.2 lb",
+        "Webbing width": "1.5 inch nylon (dual)",
+        "Anchors included": "Carabiner clips (no door anchor)",
+        "Handle grip": "1.75-inch foam",
+        "Foot cradle": "Limited",
+        "Price": "$99.95"
+      },
+      "scores": {
+        "Anchor quality": 4.5,
+        "Strap durability": 4.3,
+        "Versatility": 4.2,
+        "Value": 4.5,
+        "Ease of setup": 3.8
+      }
+    },
+    {
+      "offerId": "nossk-twin-strap",
+      "badge": "최고의 예산 듀얼 암",
+      "review": "NOSSK Twin-Strap는 TRX PRO4 가격의 약 1/3에 독립 암 개념을 제공합니다 — 듀얼 카라비너 클립, 250파운드 용량, 표준 버클 조절. 더 얇은 1인치 나일론 웨빙과 플라스틱 버클은 동적 운동 전에 단단히 조여야 합니다.",
+      "pros": [
+        "TRX PRO4 가격의 약 1/3에 독립 듀얼 스트랩 설계",
+        "어떤 턱걸이 바에도 카라비너 클립 — Jungle Gym XT와 동일한 앵커 유연성",
+        "홈 트레이닝을 위한 기본 당기기, 밀기, 코어 운동을 충분히 커버"
+      ],
+      "cons": [
+        "250파운드 용량은 여기서 가장 낮음; 1인치 웨빙은 TRX 표준보다 얇음; 동적 동작 전 플라스틱 버클 주의 깊게 조여야 함"
+      ],
+      "grade": "B",
+      "specs": {
+        "Weight capacity": "250 lb / 113 kg",
+        "System weight": "Approx. 0.7 lb",
+        "Webbing width": "1 inch nylon (dual)",
+        "Anchors included": "Carabiner clips",
+        "Handle grip": "Basic loop handle",
+        "Foot cradle": "No",
+        "Price": "$55"
+      },
+      "scores": {
+        "Anchor quality": 3.5,
+        "Strap durability": 3.8,
+        "Versatility": 4.0,
+        "Value": 4.9,
+        "Ease of setup": 4.3
+      }
+    },
+    {
+      "offerId": "monkii-bars-2",
+      "badge": "미니멀리스트 여행 최고",
+      "review": "Monkii Bars 2는 바 당 3.5온스로 1.25인치 이하의 모든 것에 클립할 수 있습니다 — 나뭇가지, 표지판 기둥, 울타리. 어디서든 30초 이내에 설정. 고정 길이 코드가 일부 레그 크레들 동작을 제한하며, 높이 조절은 버클을 밀기보다 앵커 포인트를 이동해야 합니다.",
+      "pros": [
+        "바 당 3.5온스 — 구매 가능한 가장 컴팩트한 서스펜션 트레이너; 모든 여행 가방에 들어감",
+        "스프링 클립이 나뭇가지, 표지판 기둥, 또는 1.25인치 이하의 모든 물체에 장착 — 전용 앵커 포인트 불필요",
+        "어디서든 30초 이내 설정 — 이 비교에서 어떤 트레이너보다 가장 빠른 배포"
+      ],
+      "cons": [
+        "고정 길이 코드가 레그 크레들 동작을 제한함; 높이 조절은 버클 조정이 아닌 앵커 포인트 이동 필요"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Weight capacity": "300 lb / 136 kg",
+        "System weight": "3.5 oz / 99 g per bar",
+        "Attachment": "Spring-loaded clip (up to 1.25 inch diameter)",
+        "Anchors included": "Integrated clip — no accessories needed",
+        "Handle": "Machined aluminum cylinder",
+        "Cord adjustment": "Fixed length",
+        "Price": "$100–150"
+      },
+      "scores": {
+        "Anchor quality": 4.2,
+        "Strap durability": 4.0,
+        "Versatility": 3.5,
+        "Value": 3.8,
+        "Ease of setup": 5.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "최대 다양성으로 진지한 홈 및 헬스장 트레이닝을 위해",
+      "offerId": "trx-pro4-suspension",
+      "reason": "모든 앵커 시나리오가 기본 포함된 상업용 1,400파운드 기준 — 헌신적인 트레이닝을 위한 기준 서스펜션 트레이너."
+    },
+    {
+      "label": "주머니에 정품 TRX를 원하는 잦은 여행자를 위해",
+      "offerId": "trx-go-suspension",
+      "reason": "도어 앵커가 포함된 1.4파운드로 포켓 사이즈 — 수하물 없이 모든 호텔 방에서 작동하는 TRX 품질."
+    },
+    {
+      "label": "어깨 부상 이력이 있거나 비대칭 트레이닝 요구가 있는 운동 선수를 위해",
+      "offerId": "jungle-gym-xt",
+      "reason": "독립적인 암이 밀기 동작에서 자연스러운 어깨 추적을 허용 — 어깨 부상에서 회복 중인 많은 운동 선수들이 임상적으로 선호."
+    },
+    {
+      "label": "예산이 적은 홈 트레이닝을 위해",
+      "offerId": "nossk-twin-strap",
+      "reason": "TRX PRO4 가격의 1/3에 모든 기본 동작을 커버하는 독립 듀얼 스트랩 설계 — 서스펜션 트레이닝 최고의 가치 진입."
+    },
+    {
+      "label": "어디서나 훈련하는 야외 미니멀리스트 여행 운동 선수를 위해",
+      "offerId": "monkii-bars-2",
+      "reason": "바 당 3.5온스로 공원 벤치, 나뭇가지, 표지판 기둥에 클립 — 여기 다른 어떤 트레이너도 다루지 않는 앵커 문제 해결."
+    }
+  ]
 }

@@ -64,5 +64,184 @@
     "bowflex-c6-bike": "最大のアプリ柔軟性を持つ最良ミッドレンジコストパフォーマンス——100段階マイクロ調整可能な負荷が25段階システムでは不可能なインターバル精度を提供し、BluetoothがPelotonアプリ・Zwift・JRNYに同時接続し、SPDクリート互換性でロードサイクリストが即座にクリップインできる。C6でBluetooth経由でPelotonアプリを実行するコストはPelotonバイクを所有するのと同じ月額44ドルで、ハードウェア価格は大幅に低い。"
   },
   "pinDescription": "ステーショナリーバイクおすすめ2026年：Peloton vs NordicTrack S22i vs Schwinn 170 vs Bowflex C6 vs Sunny Healthバジェットピック——フライホイール重量・抵抗方式・サブスクリプションコストをホームカーディオ向けに徹底比較。",
-  "methodology": "各製品を5つの基準で評価しました：作りの良さ・通常使用での性能・耐久性・快適性・コストパフォーマンス。12ヶ月後も使い続けられるかという観点から、性能と耐久性を最も重視しています。"
+  "methodology": "各バイクは、インターバル負荷下での抵抗感、45分セッションでのシートとハンドルバーの快適性、フレーム剛性を含むビルドクオリティ、コネクティビティとアプリエコシステムの価値、および必須サブスクリプションを含む12ヶ月総所有コストで評価しました。",
+  "products": [
+    {
+      "offerId": "schwinn-170-upright-bike",
+      "badge": "総合ベスト",
+      "review": "Schwinn 170は、メンテナンス不要の磁気システムで25段階の負荷と29の内蔵プログラムを提供します——サブスクリプションなしの構造化トレーニング。13.3 kgのフライホイールは有酸素トレーニングに十分な勢いを提供しますが、重いスピンバイクのフライホイールのような路面感覚は再現できません。",
+      "pros": [
+        "29の内蔵プログラム——外部アプリやサブスクリプション不要",
+        "静音マグネット抵抗——共有住宅での早朝セッションに最適",
+        "必要な時はZwiftとPelotonアプリへのBluetooth接続が可能"
+      ],
+      "cons": [
+        "13.3 kgのフライホイールは、同じ抵抗レベルでもスピン専用バイクより軽く感じられます"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Flywheel": "13.3 kg",
+        "Resistance": "25-level magnetic",
+        "Built-in programs": "29",
+        "Connectivity": "Bluetooth (Zwift, Peloton app)",
+        "Display": "Dual LCD",
+        "Max user weight": "113 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.2,
+        "Comfort": 4.5,
+        "Build quality": 4.3,
+        "Value": 4.8,
+        "Noise": 4.9
+      }
+    },
+    {
+      "offerId": "nordictrack-s22i-studio-bike",
+      "badge": "アウトドアシミュレーション最高",
+      "review": "S22iの物理的な-10%〜+20%の傾斜/下り坂機能は本物の差別化要素です——他のどのバイクもフレームを傾けて筋肉動員を変えません。22インチのタッチスクリーンとiFitの自動負荷調整は熱心なライダーには価格を正当化しますが、月39ドルのiFitサブスクリプションで年間468ドル以上のコストが加算されます。",
+      "pros": [
+        "フレームの物理的傾斜が登坂と下り坂をシミュレート——フラットなサイクリングでは再現できない筋肉パターン",
+        "24.9 kgのフライホイール——比較中最重量",
+        "22インチの回転タッチスクリーンでバイク以外の筋力トレーニングやヨガも可能"
+      ],
+      "cons": [
+        "自動負荷調整と完全なクラスライブラリにはiFitサブスクリプションが必要——月39ドルの継続コスト"
+      ],
+      "grade": "A",
+      "specs": {
+        "Flywheel": "24.9 kg",
+        "Resistance": "Magnetic (auto-adjust via iFit)",
+        "Incline range": "-10% to +20%",
+        "Screen": "22-inch rotating touchscreen",
+        "Connectivity": "iFit (subscription required)",
+        "Max user weight": "136 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.9,
+        "Comfort": 4.3,
+        "Build quality": 4.6,
+        "Value": 3.5,
+        "Noise": 4.4
+      }
+    },
+    {
+      "offerId": "peloton-original-bike",
+      "badge": "ライブクラスエコシステム最高",
+      "review": "Pelotonのリアルタイムリーダーボードとインストラクターの自動負荷キューは、他のどのバイクにも匹敵しないモチベーション環境を生み出します。独自のLook Deltaクリートシステムと月44ドルのメンバーシップは実際のコストです。",
+      "pros": [
+        "コミュニティリーダーボード付きの1万以上のライブ・オンデマンドクラス",
+        "インストラクターへの自動負荷追従——ソロトレーニングがコーチングされているように感じられる",
+        "21.5インチHDタッチスクリーンで筋力、ヨガ、アウトドアランニングも"
+      ],
+      "cons": [
+        "独自のLook Deltaクリートはほとんどのサイクリストに新しいシューズが必要；フル機能アクセスには月44ドルのメンバーシップが必須"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Flywheel": "Undisclosed (estimated 18 kg)",
+        "Resistance": "100-level magnetic",
+        "Screen": "21.5-inch HD touchscreen",
+        "Connectivity": "Peloton Membership ($44/month)",
+        "Cleat system": "Look Delta (proprietary)",
+        "Max user weight": "136 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.5,
+        "Comfort": 4.4,
+        "Build quality": 4.5,
+        "Value": 3.2,
+        "Noise": 4.7
+      }
+    },
+    {
+      "offerId": "sunny-health-sf-b1002-bike",
+      "badge": "最高のバジェット選択",
+      "review": "SF-B1002の22 kgフライホイールは、この価格帯の磁気バイクが再現できない勢い駆動の走行感を生み出します。摩擦抵抗は番号付きレベルがなく、いずれフェルトパッドが摩耗することを意味しますが、電子機器なしの純粋な走行感覚には最も誠実な選択です。",
+      "pros": [
+        "22 kgフライホイール——Schwinn 170より重く、より本格的なサイクリングモメンタムを生成",
+        "ハンドルバーとサドルの4方向調整で約155〜185 cmのライダーに対応",
+        "比較中最低価格で、サブスクリプション不要"
+      ],
+      "cons": [
+        "ディスプレイなし、Bluetoothなし、番号付き抵抗レベルなし——毎日使用時のフェルトパッドは12〜18ヶ月ごとの交換が必要"
+      ],
+      "grade": "B",
+      "specs": {
+        "Flywheel": "22 kg",
+        "Resistance": "Friction (felt pad)",
+        "Display": "None",
+        "Connectivity": "None",
+        "Saddle adjustment": "4-way",
+        "Max user weight": "120 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.6,
+        "Comfort": 3.8,
+        "Build quality": 3.9,
+        "Value": 4.9,
+        "Noise": 3.5
+      }
+    },
+    {
+      "offerId": "bowflex-c6-bike",
+      "badge": "ミッドレンジ最高コスパ",
+      "review": "Bowflex C6は、100段階のマイクロ調整可能な磁気抵抗レベルと、Peloton、Zwift、JRNYへの同時Bluetoothを提供します。SPDクリート対応により、ロードサイクリストは既存のシューズで即座にクリップインできます。Schwinn 170より約100ドル高く、SPDシューズを持ちアプリの柔軟性を求めるサイクリストに最適です。",
+      "pros": [
+        "インターバルのワットマッチングに100段階のマイクロ調整可能なレベル",
+        "SPDクリート対応——ロードサイクリストはアダプターなしで既存のシューズを使用",
+        "PelotonとZwiftとJRNYに同時接続"
+      ],
+      "cons": [
+        "内蔵スクリーンなし——アプリコンテンツには完全に自分のスマートフォンまたはタブレットに依存"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Flywheel": "Undisclosed (estimated 16 kg)",
+        "Resistance": "100-level magnetic",
+        "Display": "Backlit LCD (metrics only)",
+        "Connectivity": "Bluetooth (Peloton, Zwift, JRNY)",
+        "Cleat system": "SPD + toe cage",
+        "Max user weight": "136 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.4,
+        "Comfort": 4.2,
+        "Build quality": 4.1,
+        "Value": 4.5,
+        "Noise": 4.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "サブスクリプションなしで構造化トレーニングを求めるライダー向け",
+      "offerId": "schwinn-170-upright-bike",
+      "reason": "29の内蔵プログラムと25の抵抗レベルが、何も接続せずに6ヶ月の段階的なトレーニングを提供します——月額料金は一切不要。"
+    },
+    {
+      "label": "最も近い室内シミュレーションを求めるアウトドアサイクリスト向け",
+      "offerId": "nordictrack-s22i-studio-bike",
+      "reason": "フレームの物理的傾斜と24.9 kgのフライホイールは、ここにあるどのバイクよりも道路の登坂と下り坂の最も正確な室内近似です。"
+    },
+    {
+      "label": "ライブクラスで力を発揮するモチベーション重視のライダー向け",
+      "offerId": "peloton-original-bike",
+      "reason": "リアルタイムリーダーボードとインストラクターの自動負荷調整が、ソロトレーニングよりも激しい努力を促すコーチング体験を生み出します。"
+    },
+    {
+      "label": "純粋な走行感覚を求める予算重視のライダー向け",
+      "offerId": "sunny-health-sf-b1002-bike",
+      "reason": "22 kgフライホイールは、この比較で最低価格で最も重いモメンタムを提供します——コネクテッドエコシステムにコミットする前に自転車習慣を確立するのに最適。"
+    },
+    {
+      "label": "アプリの柔軟性を求めるSPDシューズサイクリスト向け",
+      "offerId": "bowflex-c6-bike",
+      "reason": "既存のロードサイクリングシューズでクリップインし、Peloton、Zwift、またはJRNYに同時ストリーム——ミッドレンジハードウェアコストで最大のアプリ柔軟性。"
+    }
+  ]
 }

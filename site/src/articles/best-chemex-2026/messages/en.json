@@ -58,5 +58,64 @@
     "hario-v60-02": "Single-serve pour-over dripper, spiral ribs, large single hole. $25-35 (plastic). Chemex alternative with thinner filter — more body, faster flow, more technique control. Requires separate server or mug. Best for experienced brewers who prioritize extraction control."
   },
   "pinDescription": "Chemex vs Hario V60 2026: 6-cup vs 8-cup, glass handle vs wooden collar, what the thick Chemex filter actually does to cup clarity, and which pour-over brewer is right for your kitchen.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We evaluated each brewer on cup clarity, build quality, ease of cleaning, filter compatibility, capacity accuracy, and suitability across roast profiles — with V60 tested alongside Chemex as the primary alternative.",
+  "products": [
+    {
+      "offerId": "chemex-6-cup-classic",
+      "badge": "Best Overall",
+      "review": "The Chemex 6-Cup Classic is the right starting point for most households — hourglass borosilicate glass with the wooden collar and leather tie, brews 850 ml (3 standard mugs), and produces a cup clarity that remains unmatched for light-roast specialty coffee. The thick proprietary filter is its defining feature and its ongoing cost. For 1–2 person households who want the Chemex experience without excess, this is the one.",
+      "pros": ["Exceptional cup clarity — thick filter removes oils and fine sediment", "Borosilicate glass handles thermal shock without cracking", "850 ml capacity ideal for 1–2 person household (3 standard mugs)"],
+      "cons": ["Wooden collar is not dishwasher-safe — requires hand care"],
+      "grade": "A+",
+      "specs": {"Capacity": "30 oz / 850 ml", "Material": "Borosilicate glass", "Filter type": "Chemex bonded (proprietary)", "Handle": "Wooden collar + leather tie", "Dishwasher safe": "No (wooden collar)"},
+      "scores": {"Brew quality": 4.9, "Build quality": 4.7, "Ease of use": 4.3, "Value": 4.2, "Versatility": 3.8}
+    },
+    {
+      "offerId": "chemex-8-cup-classic",
+      "badge": "Best for Groups",
+      "review": "The 8-Cup Classic uses identical brewing mechanics and materials as the 6-Cup but brews up to 1.1 L — enough for 4–5 standard mugs or a full thermos fill. The only meaningful difference is height; the taller carafe holds more volume below the collar without affecting extraction. If you regularly brew for 3+ people or batch-brew into a thermos, this is the correct size.",
+      "pros": ["1.1 L capacity — serves 4–5 standard mugs per brew", "Same borosilicate glass and brewing mechanics as the 6-Cup", "Best for batch brewing into a thermos"],
+      "cons": ["Taller profile is slightly less stable on a crowded counter"],
+      "grade": "A",
+      "specs": {"Capacity": "40 oz / 1.1 L", "Material": "Borosilicate glass", "Filter type": "Chemex bonded (proprietary)", "Handle": "Wooden collar + leather tie", "Dishwasher safe": "No (wooden collar)"},
+      "scores": {"Brew quality": 4.9, "Build quality": 4.7, "Ease of use": 4.2, "Value": 4.0, "Versatility": 4.2}
+    },
+    {
+      "offerId": "chemex-glass-handle",
+      "badge": "Best for Easy Cleaning",
+      "review": "The Glass Handle 8-Cup replaces the wooden collar with a molded glass handle — the only structural change, but a meaningful one for anyone who runs everything through the dishwasher. Brew performance is identical to the Classic; the aesthetic is more streamlined and less artisanal. If dishwasher convenience matters and you're buying the 8-Cup size anyway, the glass handle version is the practical upgrade.",
+      "pros": ["Fully dishwasher-safe — no collar removal needed", "Identical brewing performance to the Classic", "More streamlined aesthetic — works in contemporary kitchen settings"],
+      "cons": ["Glass handle aesthetic is divisive — lacks the craft feel of the wooden collar"],
+      "grade": "B+",
+      "specs": {"Capacity": "40 oz / 1.1 L", "Material": "Borosilicate glass", "Filter type": "Chemex bonded (proprietary)", "Handle": "Molded glass (integrated)", "Dishwasher safe": "Yes (fully)"},
+      "scores": {"Brew quality": 4.9, "Build quality": 4.5, "Ease of use": 4.7, "Value": 3.9, "Versatility": 4.2}
+    },
+    {
+      "offerId": "chemex-bonded-filters",
+      "badge": "Essential Consumable",
+      "review": "Chemex bonded filters are not interchangeable with standard basket or cone filters — the proprietary paper is 20–30% thicker, pre-folded for the Chemex neck diameter, and specifically engineered for the slower flow rate that produces Chemex's characteristic cup clarity. Buying in 100-count keeps per-filter cost manageable; available in white and natural (unbleached) — both work equally well after a proper pre-rinse.",
+      "pros": ["Required for all Chemex brewers — no substitute exists", "100-count pack keeps per-filter cost under $0.12", "Available in white and natural unbleached versions"],
+      "cons": ["Ongoing cost — roughly $10–15 per 100 filters adds up with daily use"],
+      "grade": "B",
+      "specs": {"Count": "100 filters", "Compatibility": "All Chemex brewers", "Type": "Pre-folded square or circle", "Versions": "White (bleached) and natural (unbleached)", "Price per filter": "~$0.10–0.15"},
+      "scores": {"Brew quality": 4.9, "Build quality": 4.0, "Ease of use": 4.5, "Value": 3.8, "Versatility": 2.5}
+    },
+    {
+      "offerId": "hario-v60-02",
+      "badge": "Best Alternative Brewer",
+      "review": "The V60 02 is Chemex's primary alternative — a single-serve pour-over dripper with a 60° cone, spiral ribs, and a thinner filter that produces more body and faster flow than Chemex. It requires a separate server or mug (unlike Chemex's all-in-one design), and more technique-dependent pouring. For experienced brewers who want extraction control and cup body over Chemex's extreme clarity, V60 is the better choice.",
+      "pros": ["More body than Chemex — thinner filter retains more oils", "Faster flow rate gives more control over extraction", "Plastic version at $25–35 is nearly indestructible"],
+      "cons": ["Requires separate server or mug — not an all-in-one vessel like Chemex"],
+      "grade": "B-",
+      "specs": {"Material": "Plastic (02 size)", "Filter type": "V60 paper (thinner than Chemex)", "Cone angle": "60°", "Capacity": "Single serve (1–2 cups)", "Compatible servers": "Standard mug, Hario range server"},
+      "scores": {"Brew quality": 4.7, "Build quality": 3.8, "Ease of use": 3.5, "Value": 4.6, "Versatility": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For 1–2 person households", "offerId": "chemex-6-cup-classic", "reason": "850 ml capacity is exactly right for two people — no excess brew, and the classic aesthetic holds up in any kitchen."},
+    {"label": "For households of 3 or more", "offerId": "chemex-8-cup-classic", "reason": "1.1 L capacity covers 4–5 mugs per brew — eliminates the need to brew twice for larger groups."},
+    {"label": "For dishwasher-dependent households", "offerId": "chemex-glass-handle", "reason": "The only Chemex that's fully dishwasher-safe — no collar to remove, no hand-care routine."},
+    {"label": "For experienced pour-over brewers", "offerId": "hario-v60-02", "reason": "More technique control and cup body than Chemex — the right tool for those who want to fine-tune extraction by pour rate."},
+    {"label": "For Chemex owners stocking up", "offerId": "chemex-bonded-filters", "reason": "Buy the 100-count — it's the only filter that works in a Chemex and you'll go through them faster than you expect."}
+  ]
 }

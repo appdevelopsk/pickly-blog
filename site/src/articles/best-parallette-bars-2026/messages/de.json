@@ -84,5 +84,64 @@
     "yes4all-parallettes": "9-Zoll-Stahl-Budgetoption, Gummifuesse, solide fuer den Heimgebrauch."
   },
   "pinDescription": "Paralletten eingestuft fuer L-Sits, Handstaende und tiefe Liegestuetzen. Holz vs. Stahl vs. PVC verglichen -- finden Sie die richtige Hoehe und das richtige Material fuer Ihr Trainingsniveau. #Kalisthenie #Paralletten #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jedes Produkt wurde anhand von fünf Kriterien bewertet: Verarbeitungsqualität, Leistung bei typischer Nutzung, Langlebigkeit, Komfort und Preis-Leistungs-Verhältnis. Leistung und Langlebigkeit wurden am stärksten gewichtet, da diese bestimmen, ob ein Produkt 12 Monate später noch nützlich ist.",
+  "products": [
+    {
+      "offerId": "prosourcefit-parallettes",
+      "badge": "Beste Holz-Paralletten",
+      "review": "ProsourceFits 9-Zoll-Birkenholz-Paralletten treffen den Sweet Spot zwischen niedrigen Push-up-Griffen und vollen Turnstangen. Die Holzoberfläche wärmt sich unter der Handfläche auf und bietet natürliche Grifftextur, die Ermüdung der Handgelenke bei langen L-Sit-Holds und Push-up-Progressionen reduziert. Der breite Sockel widersteht dem seitlichen Drehmoment, das entsteht, wenn die Hüften beim L-Sit aus der Standbreite verschoben werden. Nicht höhenverstellbar, was die Konstruktion steif und zuverlässig hält.",
+      "pros": ["Warmer Holzgriff reduziert Handgelenk-Ermüdung bei langen Holds", "Breiter Sockel widersteht Seiten-Drehmoment beim L-Sit", "9 Zoll Höhe ermöglicht vollständige L-Sit Hüftfreiheit"],
+      "cons": ["Keine Höhenverstellung", "Holz kann bei dauerhafter Feuchtigkeit reißen oder splittern"],
+      "grade": "A+",
+      "specs": {"Material": "Birkenholz-Schienen", "Höhe": "9 Zoll", "Sockel": "Breit für seitliche Stabilität", "Höhenverstellbar": "Nein", "Preis": "$39.99"},
+      "scores": {"Verarbeitungsqualität": 4.5, "Stabilität": 4.8, "Komfort": 5.0, "Vielseitigkeit": 4.0, "Preis-Leistung": 5.0}
+    },
+    {
+      "offerId": "tumbl-trak-p-bars",
+      "badge": "Beste Höhenverstellbare",
+      "review": "Tumbl Traks PVC-Turnstangen sind höhenverstellbar — das Hauptmerkmal für Athleten, die durch Skill-Niveaus fortschreiten, bei denen die Stangenhöhe die Übungsschwierigkeit direkt beeinflusst. Nützlich für Handstandliegestütz-Abstiegsarbeit, bei der die Höhe bestimmt, wie tief man absinkt. PVC hat unter starkem Druck leichte Flexibilität; Athleten über 80 kg sollten für maximale Pressversuche das Rogue in Betracht ziehen. Am besten für skill-fokussiertes Körpergewichtstraining bei moderater Intensität.",
+      "pros": ["Höhenverstellbar für unterschiedliche Skill-Progressionsstufen", "PVC-Flex absorbiert etwas Handgelenkvibration bei schnellen Liegestütz-Wiederholungen", "Leichtgewichtig für geteilte Nutzung oder unterwegs"],
+      "cons": ["PVC-Flex unter schwerer Last — nicht für Athleten über 80 kg bei Maximalversuchen"],
+      "grade": "A",
+      "specs": {"Material": "PVC", "Höhe": "Verstellbar", "Am besten für": "Turnen und Skill-Progressionen", "Gewichtslimit": "Moderate Lasten (~80 kg)", "Preis": "$69.99"},
+      "scores": {"Verarbeitungsqualität": 3.5, "Stabilität": 3.8, "Komfort": 4.2, "Vielseitigkeit": 4.8, "Preis-Leistung": 4.5}
+    },
+    {
+      "offerId": "rogue-p3-parallettes",
+      "badge": "Beste für schwere Pressübungen",
+      "review": "Rogues P-3 ist für Gymumgebungen gebaut, in denen Geräte täglich hart genutzt werden. Stahlrohr-Konstruktion bei 11 Zoll — zwei Zoll höher als der übliche 9-Zoll-Standard — erweitert Diptiefe und Bewegungsumfang für Push-up-Negative. Null seitlicher Flex unter schwerem Druck oder fortgeschrittenen Statics wie Straddle-Planche-Versuchen. Die Pulverbeschichtung hält Kreide und Schweiß stand. Preislich für ernsthafte Athleten und Gym-Betreiber.",
+      "pros": ["Null Flex unter schwerem Druck und fortgeschrittenen statischen Holds", "11 Zoll Höhe erweitert Diptiefe und ROM über Standard-Stangen hinaus", "Kommerzielle Haltbarkeit für täglichen Gym-Gebrauch"],
+      "cons": ["Premium-Preis — schwer für Anfänger zu rechtfertigen", "11 Zoll Höhe könnte für Anfänger, die vom Boden starten, zu hoch sein"],
+      "grade": "B+",
+      "specs": {"Material": "Stahlrohr, Pulverbeschichtung", "Höhe": "11 Zoll", "Flex": "Null unter Last", "Am besten für": "Fortgeschrittenes Kalisthenie, Gymumgebungen", "Preis": "$95"},
+      "scores": {"Verarbeitungsqualität": 5.0, "Stabilität": 5.0, "Komfort": 3.8, "Vielseitigkeit": 4.5, "Preis-Leistung": 3.2}
+    },
+    {
+      "offerId": "lebert-parallettes",
+      "badge": "Beste niedrige Paralletten",
+      "review": "Lebert-Paralletten bei 3 Zoll über dem Boden sind für Push-up-Variationen und Handgelenk-Konditionierung optimiert — nicht für L-Sits oder Dips, die bei dieser Höhe Hüftfreiheit erfordern. Die nahe-Boden-Position maximiert den Bewegungsumfang für Push-up-Arbeit ohne die Balance-Anforderungen höherer Stangen. Sehr portabel und geeignet für Reisetraining und Wohnungstraining.",
+      "pros": ["3 Zoll Höhe maximiert ROM für Push-up-Variationen", "Hochportabel — passt in eine Tasche für Reisetraining", "Geringe Handgelenk-Anforderung für Athleten, die Grundkraft aufbauen"],
+      "cons": ["3 Zoll Höhe unzureichend für L-Sits oder ordentliche Dips — Hüfte passt nicht durch"],
+      "grade": "B",
+      "specs": {"Material": "Stahl", "Höhe": "3 Zoll", "Am besten für": "Push-up-Variationen, Handgelenk-Konditionierung", "Portabilität": "Hoch — taschenportabel", "Preis": "$69.95"},
+      "scores": {"Verarbeitungsqualität": 4.0, "Stabilität": 4.2, "Komfort": 4.5, "Vielseitigkeit": 2.5, "Preis-Leistung": 4.8}
+    },
+    {
+      "offerId": "yes4all-parallettes",
+      "badge": "Bestes Budget-Stahl",
+      "review": "Yes4All bietet Stahl-Paralletten-Konstruktion zu einem Preis nahe Budget-PVC-Sets. Die 9-Zoll-Höhe stimmt mit ProsourceFit für die gleichen Übungsoptionen überein — L-Sits, Push-ups mit tieferem ROM, Pike-Holds und grundlegende Dip-Arbeit. Gummifüße verhindern Rutschen auf glatten Böden, was bei Overhead- oder umgekehrten Übungen wichtig ist. Leichter Flex unter sehr schwerem Druck ist der Kompromiss für den niedrigeren Preis gegenüber kommerziellem Stahl.",
+      "pros": ["Stahl-Konstruktion steifer als PVC nahe am Budget-Preis", "9 Zoll Höhe ermöglicht vollständige L-Sit Hüftfreiheit", "Gummifüße verhindern Rutschen auf glatten Oberflächen"],
+      "cons": ["Leichter Flex unter sehr schwerem Druck", "Nicht so steif wie Rogue unter fortgeschrittenen statischen Holds"],
+      "grade": "B-",
+      "specs": {"Material": "Stahlrohr", "Höhe": "9 Zoll", "Füße": "Rutschfester Gummi", "Am besten für": "Mittleres Heim-Kalisthenie", "Preis": "$39.99"},
+      "scores": {"Verarbeitungsqualität": 3.8, "Stabilität": 4.0, "Komfort": 3.8, "Vielseitigkeit": 4.0, "Preis-Leistung": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für komfortfokussiertes Training", "offerId": "prosourcefit-parallettes", "reason": "Birkenholz-Griff reduziert Handgelenk-Ermüdung bei langen L-Sit- und Push-up-Hold-Einheiten"},
+    {"label": "Für Skill-Progressionen", "offerId": "tumbl-trak-p-bars", "reason": "Höhenverstellung lässt Sie die Stangenfreiheit ändern, wenn Handstand-Push-up- und Dip-Progressionen fortschreiten"},
+    {"label": "Für ernsthafte Kalisthenie-Athleten", "offerId": "rogue-p3-parallettes", "reason": "Null Flex unter Straddle-Planchen und schweren Dips — die einzige Wahl, wenn Last und Präzision zählen"},
+    {"label": "Für Reisetraining", "offerId": "lebert-parallettes", "reason": "3-Zoll-Niedrigstangen passen in eine Tasche und funktionieren auf jeder Oberfläche für Push-up-Variationen"},
+    {"label": "Für Budget-Heimgebrauch", "offerId": "yes4all-parallettes", "reason": "Stahl nahe PVC-Preisen mit Gummifüßen für die gleichen 9-Zoll-Übungsoptionen wie ProsourceFit"}
+  ]
 }

@@ -84,5 +84,64 @@
     "yes4all-parallettes": "Opzione economica in acciaio 9 pollici, piedini in gomma, solida per uso casalingo."
   },
   "pinDescription": "Barre parallette classificate per L-sit, verticali e piegamenti profondi. Legno vs acciaio vs PVC a confronto — trova l'altezza e il materiale giusti per il tuo livello di allenamento. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni prodotto è stato valutato su cinque criteri: qualità costruttiva, prestazioni nell'uso tipico, durata nel tempo, comfort e rapporto qualità-prezzo. Abbiamo ponderato maggiormente prestazioni e durabilità perché determinano se un prodotto è ancora utile 12 mesi dopo.",
+  "products": [
+    {
+      "offerId": "prosourcefit-parallettes",
+      "badge": "Migliori parallette in legno",
+      "review": "Le parallette in betulla da 9 pollici di ProsourceFit si trovano nel punto ideale tra le maniglie basse per i piegamenti e le vere barre da ginnastica. La superficie in legno si riscalda sotto il palmo e fornisce una texture di presa naturale che riduce l'affaticamento dei polsi durante i L-sit lunghi e le progressioni di piegamenti. La base larga resiste al momento torcente laterale quando i fianchi si spostano fuori dalla superficie d'appoggio durante i L-sit. Non regolabile in altezza, il che mantiene la costruzione rigida e affidabile.",
+      "pros": ["Presa in legno calda riduce l'affaticamento dei polsi nei hold prolungati", "Base larga resiste al momento torcente laterale nei L-sit", "9 pollici di altezza consentono il pieno spazio libero dei fianchi nel L-sit"],
+      "cons": ["Altezza non regolabile", "Il legno può spaccarsi con stoccaggio in ambienti molto umidi"],
+      "grade": "A+",
+      "specs": {"Materiale": "Binari in betulla", "Altezza": "9 pollici", "Base": "Larga per stabilità laterale", "Altezza regolabile": "No", "Prezzo": "$39.99"},
+      "scores": {"Qualità costruttiva": 4.5, "Stabilità": 4.8, "Comfort": 5.0, "Versatilità": 4.0, "Rapporto qualità-prezzo": 5.0}
+    },
+    {
+      "offerId": "tumbl-trak-p-bars",
+      "badge": "Migliori ad altezza regolabile",
+      "review": "Le p-bar in PVC da ginnastica Tumbl Trak sono regolabili in altezza — la caratteristica principale per gli atleti che progrediscono attraverso livelli di abilità in cui l'altezza della barra cambia direttamente la difficoltà dell'esercizio. Utile per il lavoro di discesa dei piegamenti in verticale in cui l'altezza determina quanto si scende. Il PVC ha una leggera flessibilità sotto carichi pesanti; gli atleti oltre gli 80 kg negli sforzi massimali dovrebbero considerare il Rogue. Ideale per il lavoro al peso corporeo orientato alle abilità a intensità moderata.",
+      "pros": ["Altezza regolabile per i requisiti di progressione delle abilità", "La flessibilità del PVC assorbe alcune vibrazioni del polso durante i piegamenti rapidi", "Leggero per uso condiviso o in viaggio"],
+      "cons": ["Flessibilità del PVC sotto carichi pesanti — non per atleti oltre gli 80 kg negli sforzi massimali"],
+      "grade": "A",
+      "specs": {"Materiale": "PVC", "Altezza": "Regolabile", "Ideale per": "Ginnastica e progressioni di abilità", "Limite di peso": "Carichi moderati (~80 kg)", "Prezzo": "$69.99"},
+      "scores": {"Qualità costruttiva": 3.5, "Stabilità": 3.8, "Comfort": 4.2, "Versatilità": 4.8, "Rapporto qualità-prezzo": 4.5}
+    },
+    {
+      "offerId": "rogue-p3-parallettes",
+      "badge": "Migliori per la pressione pesante",
+      "review": "Le P-3 di Rogue sono costruite per ambienti da palestra in cui l'attrezzatura viene utilizzata duramente ogni giorno. Costruzione in tubo d'acciaio a 11 pollici — due pollici più alto dello standard comune di 9 pollici — estende la profondità delle trazioni e il ROM per i negativi dei piegamenti. Zero flessione laterale sotto pressione pesante o statiche avanzate come i tentativi di straddle planche. Il rivestimento in polvere regge gesso e sudore. Prezzo per atleti seri e gestori di palestra.",
+      "pros": ["Zero flessione sotto pressione pesante e hold statici avanzati", "11 pollici di altezza estendono la profondità delle trazioni e il ROM oltre le barre standard", "Durabilità commerciale per uso giornaliero in palestra"],
+      "cons": ["Prezzo premium — difficile da giustificare per i principianti", "11 pollici può essere troppo alto per i principianti che iniziano dal lavoro a terra"],
+      "grade": "B+",
+      "specs": {"Materiale": "Tubo d'acciaio, rivestimento in polvere", "Altezza": "11 pollici", "Flessione": "Zero sotto carico", "Ideale per": "Calistenia avanzata, ambienti palestra", "Prezzo": "$95"},
+      "scores": {"Qualità costruttiva": 5.0, "Stabilità": 5.0, "Comfort": 3.8, "Versatilità": 4.5, "Rapporto qualità-prezzo": 3.2}
+    },
+    {
+      "offerId": "lebert-parallettes",
+      "badge": "Migliori parallette basse",
+      "review": "A 3 pollici dal pavimento, le parallette Lebert sono ottimizzate per le variazioni di piegamenti e il condizionamento dei polsi — non per i L-sit o le trazioni, che richiedono spazio libero per i fianchi a questa altezza. La posizione vicina al pavimento massimizza il ROM per il lavoro con i piegamenti senza le richieste di equilibrio delle barre più alte. Molto portatili, adatte per l'allenamento in viaggio e gli esercizi in appartamento.",
+      "pros": ["3 pollici di altezza massimizza il ROM per le variazioni di piegamenti", "Molto portatili — entrano in una borsa per l'allenamento in viaggio", "Bassa sollecitazione del polso per gli atleti che costruiscono la forza di base"],
+      "cons": ["3 pollici insufficienti per i L-sit o le trazioni corrette — i fianchi non superano il pavimento"],
+      "grade": "B",
+      "specs": {"Materiale": "Acciaio", "Altezza": "3 pollici", "Ideale per": "Variazioni di piegamenti, condizionamento dei polsi", "Portabilità": "Alta — portabile in borsa", "Prezzo": "$69.95"},
+      "scores": {"Qualità costruttiva": 4.0, "Stabilità": 4.2, "Comfort": 4.5, "Versatilità": 2.5, "Rapporto qualità-prezzo": 4.8}
+    },
+    {
+      "offerId": "yes4all-parallettes",
+      "badge": "Migliore acciaio economico",
+      "review": "Yes4All offre la costruzione in acciaio a un prezzo vicino ai set di PVC economici. L'altezza di 9 pollici corrisponde a ProsourceFit per le stesse opzioni di esercizi — L-sit, piegamenti con ROM più profondo, pike hold e lavoro base di trazioni. I piedini in gomma evitano lo scivolamento su pavimenti lisci, il che conta per gli esercizi in alto o invertiti. Una lieve flessione sotto pressione molto pesante è il compromesso per il prezzo più basso rispetto all'acciaio commerciale.",
+      "pros": ["Costruzione in acciaio più rigida del PVC a prezzo vicino all'economico", "9 pollici di altezza consentono il pieno spazio libero dei fianchi nel L-sit", "Piedini in gomma evitano lo scivolamento su superfici lisce"],
+      "cons": ["Lieve flessione sotto pressione molto pesante", "Non così rigido come Rogue negli hold statici avanzati"],
+      "grade": "B-",
+      "specs": {"Materiale": "Tubo d'acciaio", "Altezza": "9 pollici", "Piedini": "Gomma antiscivolo", "Ideale per": "Calistenia domestica intermedia", "Prezzo": "$39.99"},
+      "scores": {"Qualità costruttiva": 3.8, "Stabilità": 4.0, "Comfort": 3.8, "Versatilità": 4.0, "Rapporto qualità-prezzo": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per l'allenamento focalizzato sul comfort", "offerId": "prosourcefit-parallettes", "reason": "La presa in betulla riduce l'affaticamento dei polsi nelle lunghe sessioni di L-sit e hold di piegamenti"},
+    {"label": "Per le progressioni di abilità", "offerId": "tumbl-trak-p-bars", "reason": "L'altezza regolabile consente di cambiare lo spazio libero della barra man mano che le progressioni di piegamenti in verticale e trazioni avanzano"},
+    {"label": "Per gli atleti di calistenia seri", "offerId": "rogue-p3-parallettes", "reason": "Zero flessione sotto straddle planche e trazioni pesanti — la sola scelta quando carico e precisione contano"},
+    {"label": "Per l'allenamento in viaggio", "offerId": "lebert-parallettes", "reason": "Le barre basse da 3 pollici entrano in una borsa e funzionano su qualsiasi superficie per le variazioni di piegamenti"},
+    {"label": "Per uso domestico economico", "offerId": "yes4all-parallettes", "reason": "Acciaio a prezzo vicino al PVC con piedini in gomma per le stesse opzioni di esercizi a 9 pollici di ProsourceFit"}
+  ]
 }

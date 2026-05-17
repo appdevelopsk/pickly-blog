@@ -98,5 +98,64 @@
     "garmin-forerunner-55": "Best entry-level GPS running watch for beginners. Single-band GPS is adequate for most running conditions, 20-hour battery handles any race distance, and basic training metrics are the right depth for new runners. The most accessible on-ramp to structured GPS training before investing in the Forerunner 265."
   },
   "pinDescription": "Best running watches 2026 compared: Garmin vs Coros vs Apple vs Polar for GPS accuracy, training load analysis, and battery life. Which watch is right for your marathon training, ultra racing, or daily runs?",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Watches were compared on GPS chip type and real-world accuracy in urban conditions, optical heart rate performance at high intensity, GPS-on battery runtime, training load analysis depth, and daily wearability — GPS accuracy and training analysis weighted highest because inaccurate data actively undermines training decisions.",
+  "products": [
+    {
+      "offerId": "garmin-forerunner-265",
+      "badge": "Best Overall",
+      "review": "The Forerunner 265 combines multi-band L1/L5 GPS, Elevate v4 optical HR, AMOLED display, and the most complete training monitoring in the comparison — Training Readiness, HRV Status, and Training Status give you a daily picture of whether your body is ready to train hard. The 20-hour GPS battery covers any race distance without charging during the event. The trade-off is that AMOLED draws more power than MIP, shrinking battery versus the Coros and Polar.",
+      "pros": ["Multi-band L1/L5 GPS — sub-5m accuracy in urban canyons", "Training Readiness + HRV Status for overtraining detection", "AMOLED display with Garmin Pay and music storage"],
+      "cons": ["AMOLED reduces battery vs MIP rivals at similar price"],
+      "grade": "A+",
+      "specs": {"GPS": "Multi-band L1/L5", "HR sensor": "Elevate v4", "Display": "AMOLED", "Battery (GPS)": "20 hours", "Music": "650 songs", "Price": "$349.99"},
+      "scores": {"GPS accuracy": 5.0, "Battery life": 3.8, "Ease of use": 4.5, "Value": 4.2, "Heart rate accuracy": 4.8}
+    },
+    {
+      "offerId": "coros-pace-3",
+      "badge": "Best Battery Life",
+      "review": "The Coros Pace 3's 38-hour GPS runtime is unmatched in this comparison — it's the only watch here you can reliably take into a 100-mile ultramarathon without a charger. At 30 g it is also the lightest. EvoLab training analysis covers the core metrics a competitive runner needs. The deliberate trade-off is minimal smartwatch features; if you need notifications or music, look elsewhere.",
+      "pros": ["38-hour GPS runtime — best battery in the comparison", "30 g with band — lightest watch here", "EvoLab VO2max and training load analysis"],
+      "cons": ["No music, no payment — minimal smartwatch functionality"],
+      "grade": "A",
+      "specs": {"GPS": "Multi-band, Sony chipset", "Weight": "30 g", "Battery (GPS)": "38 hours", "HR sensor": "Coros optical", "Smartwatch": "Minimal", "Price": "$229"},
+      "scores": {"GPS accuracy": 4.5, "Battery life": 5.0, "Ease of use": 4.0, "Value": 4.8, "Heart rate accuracy": 4.0}
+    },
+    {
+      "offerId": "apple-watch-series-9",
+      "badge": "Best for iPhone Users",
+      "review": "Apple Watch Series 9 is the most capable smartwatch in this group and the least capable running computer. For recreational runners who want one wrist device for everything, the GPS and heart rate are adequate. The 6–8 hour GPS runtime is the decisive limitation: a full marathon at 4+ hours is borderline, and any ultra distance is out.",
+      "pros": ["Full Apple ecosystem — Pay, ECG, AFib detection", "L1/L5 GPS adequate for training runs", "Best smartwatch feature set in the comparison"],
+      "cons": ["6–8 hour GPS battery — borderline for full marathon"],
+      "grade": "B+",
+      "specs": {"GPS": "L1/L5 dual-frequency", "Battery (GPS)": "6–8 hours", "Display": "Retina LTPO", "HR sensor": "Apple optical", "Payment": "Apple Pay", "Price": "from ¥49,698"},
+      "scores": {"GPS accuracy": 4.0, "Battery life": 2.0, "Ease of use": 5.0, "Value": 3.5, "Heart rate accuracy": 3.8}
+    },
+    {
+      "offerId": "polar-pacer-pro",
+      "badge": "Best Training Load Analysis",
+      "review": "The Polar Pacer Pro's Precision Prime optical sensor is the most accurate in this comparison at high intensity — it separates cardiovascular and neuromuscular load into distinct channels, which is more actionable for structured periodization than a single readiness score. The 35-hour GPS battery is strong. The Polar ecosystem is narrower than Garmin's for third-party integrations.",
+      "pros": ["Precision Prime optical HR — best optical accuracy here", "Training Load Pro separates cardio vs muscle strain", "35-hour GPS battery — strong for long events"],
+      "cons": ["Narrower ecosystem — fewer third-party app integrations"],
+      "grade": "B",
+      "specs": {"GPS": "Multi-band, Precision Prime fusion", "Battery (GPS)": "35 hours", "Display": "MIP", "HR sensor": "Precision Prime", "Training load": "Cardio + Muscle + Perceived", "Price": "$300"},
+      "scores": {"GPS accuracy": 4.3, "Battery life": 4.8, "Ease of use": 3.8, "Value": 4.0, "Heart rate accuracy": 5.0}
+    },
+    {
+      "offerId": "garmin-forerunner-55",
+      "badge": "Best Entry-Level",
+      "review": "The Forerunner 55 gives beginners everything they need: single-band GPS adequate for parks and suburban roads, 20-hour battery that covers any race distance, and basic training effect data without overwhelming complexity. The single-band GPS is the real limitation — in urban canyons it shows 15–30 m drift. For runners whose routes are mostly open-sky, that limitation rarely surfaces.",
+      "pros": ["20-hour battery handles any standard race distance", "Simple interface reduces learning curve for new runners", "Garmin Connect ecosystem at entry-level price"],
+      "cons": ["Single-band GPS — accuracy degrades in urban canyons"],
+      "grade": "B-",
+      "specs": {"GPS": "Single-band", "Battery (GPS)": "20 hours", "Display": "MIP (transflective)", "HR sensor": "Garmin optical", "Training metrics": "VO2max, Training Effect", "Price": "$199"},
+      "scores": {"GPS accuracy": 3.5, "Battery life": 4.5, "Ease of use": 4.8, "Value": 5.0, "Heart rate accuracy": 3.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For competitive recreational runners", "offerId": "garmin-forerunner-265", "reason": "Multi-band GPS and HRV-based Training Readiness give you the data accuracy and recovery monitoring that half-marathon and marathon training demands."},
+    {"label": "For ultramarathon and multi-day athletes", "offerId": "coros-pace-3", "reason": "38 hours GPS-on eliminates charging concerns entirely for any ultra-distance event — no other watch in this group comes close."},
+    {"label": "For iPhone-first users who run recreationally", "offerId": "apple-watch-series-9", "reason": "If ecosystem integration and non-running features matter as much as running metrics, no watch here delivers both as well as Apple Watch."},
+    {"label": "For structured training with periodization", "offerId": "polar-pacer-pro", "reason": "Separating cardiovascular from muscular training load is more actionable for periodized blocks than a unified readiness score."},
+    {"label": "For new runners building a GPS habit", "offerId": "garmin-forerunner-55", "reason": "The right depth of training data without the cost and complexity of features a beginner won't use for at least 12–18 months."}
+  ]
 }

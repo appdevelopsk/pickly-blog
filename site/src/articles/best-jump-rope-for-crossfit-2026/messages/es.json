@@ -53,5 +53,64 @@
     "elite-srs-muay-thai-cable": "También se vende como cable independiente para atletas que ya poseen mangos Elite SRS. La funda de PVC apta para exteriores resiste mejor las superficies rugosas que el alambre revestido."
   },
   "pinDescription": "Las 5 mejores cuerdas de saltar para CrossFit probadas en WODs de 90 días — alambre de competición, cables con peso y opciones de presupuesto clasificadas. Los dobles saltos empiezan aquí. #CrossFit #DoblesSaltos #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada cuerda fue evaluada por el diámetro del cable y la velocidad de giro para dobles saltos, el tipo de rodamiento y su durabilidad, la ergonomía del mango a 200+ repeticiones, la resistencia en WODs incluyendo uso al aire libre y el valor por el precio — no por marketing o promesas de marca.",
+  "products": [
+    {
+      "offerId": "rx-smart-gear-elite-evo",
+      "badge": "Mejor en general",
+      "review": "El alambre de 1,5mm y los rodamientos de aguja de precisión del Rx Smart Gear Elite EVO producen la rotación más rápida y consistente disponible en este rango de precio. Los mangos de aluminio de 57g son lo suficientemente estables para movimientos de kipping pero lo suficientemente ligeros para no fatigar los antebrazos en series largas. Los dobles saltos a 150+ repeticiones por minuto son alcanzables sin que la cuerda golpee. El precio de $175 es alto pero justificado por la calidad de los rodamientos y los reemplazos de cable económicos a largo plazo.",
+      "pros": ["Alambre de 1,5mm con rodamientos de aguja de precisión — la rotación más rápida en este precio", "Mangos de 57g son estables sin fatigar los antebrazos en series largas", "Reemplazo de cable sencillo — mantenimiento económico a largo plazo"],
+      "cons": ["$175 es significativamente más caro que las opciones de presupuesto — empinado para principiantes"],
+      "grade": "A+",
+      "specs": {"Precio": "$175", "Cable": "Alambre de 1,5mm", "Rodamientos": "Rodamientos de aguja de precisión", "Peso del mango": "57g por mango", "Longitud del mango": "165mm"},
+      "scores": {"Calidad de construcción": 5.0, "Velocidad": 5.0, "Durabilidad": 4.8, "Comodidad": 4.8, "Valor": 3.8}
+    },
+    {
+      "offerId": "wod-nation-speed-jump-rope",
+      "badge": "Mejor presupuesto",
+      "review": "A $15, la WOD Nation Speed Rope es el camino más económico para aprender dobles saltos. El cable de acero revestido de PVC de 1,8mm es ligeramente más lento que el alambre de 1,5mm pero proporciona una retroalimentación auditiva más clara por revolución — útil para principiantes que desarrollan el ritmo. La cuerda viene en un paquete de 3, haciendo que la pérdida o pisada del cable sea menos costosa. Para un atleta que aún no tiene 50 dobles saltos consecutivos, este es el punto de partida correcto.",
+      "pros": ["$15 — entrada más económica al entrenamiento con cuerda de velocidad", "El cable de 1,8mm da retroalimentación clara de ritmo al aprender dobles saltos", "Paquete de 3 — cables de repuesto económicos incluidos"],
+      "cons": ["Los mangos se aflojan ligeramente con el uso prolongado — no construido para años de WODs diarios"],
+      "grade": "A",
+      "specs": {"Precio": "$15", "Cable": "Acero revestido de PVC de 1,8mm", "Rodamientos": "Rodamientos de bolas sellados", "Tamaño del paquete": "Paquete de 3", "Ideal para": "Principiantes aprendiendo dobles saltos"},
+      "scores": {"Calidad de construcción": 3.0, "Velocidad": 4.0, "Durabilidad": 3.5, "Comodidad": 3.8, "Valor": 5.0}
+    },
+    {
+      "offerId": "crossrope-get-lean-bundle",
+      "badge": "Mejor sistema con peso",
+      "review": "El CrossRope Get Lean Bundle cambia entre cables de 113g y 227g en segundos con el sistema de conexión rápida — un par de mangos, dos estímulos de entrenamiento. Los cables con peso cargan el agarre, los antebrazos y los hombros a través de la rotación, produciendo un efecto de acondicionamiento muscular distinto del trabajo con cuerda de velocidad. A $179, los mangos y ambos cables están incluidos. La limitación: el cable de 227g no puede alcanzar las velocidades necesarias para dobles saltos de competición.",
+      "pros": ["Cambio rápido entre cables de 113g y 227g en segundos", "Los cables con peso cargan antebrazos y hombros para un efecto de acondicionamiento muscular", "La app CrossRope proporciona WODs estructurados alrededor de la progresión con cuerda con peso"],
+      "cons": ["El cable de 227g no puede alcanzar la cadencia de dobles saltos de competición — no para récords de velocidad"],
+      "grade": "B+",
+      "specs": {"Precio": "$179", "Cables incluidos": "1/4 lb (113g) + 1/2 lb (227g)", "Tipo de mango": "Aluminio de conexión rápida", "App": "App CrossRope (básica gratuita)", "Ideal para": "Variedad de acondicionamiento + resistencia de agarre/hombros"},
+      "scores": {"Calidad de construcción": 4.8, "Velocidad": 3.5, "Durabilidad": 4.8, "Comodidad": 4.5, "Valor": 4.0}
+    },
+    {
+      "offerId": "rpm-session-3-jump-rope",
+      "badge": "Mejor gama media",
+      "review": "El cable de acero de grado aeronáutico de 1,6mm y los mangos de aluminio cromado del RPM Session 3 se sitúan entre el presupuesto WOD Nation y el premium Rx Smart Gear. Los rodamientos son del tipo de bola sellado — adecuados para la mayoría de atletas por debajo del volumen de competición de élite. A $89,95, se obtiene una construcción significativamente mejor que las opciones de presupuesto sin pagar el precio Rx. Las opciones de longitud de mango (145mm o 165mm) permiten ajustar la proporción del mango al tamaño de la mano.",
+      "pros": ["Cable de acero de grado aeronáutico de 1,6mm — mejora respecto a los cables de 1,8mm de presupuesto", "Opciones de longitud de mango (145mm / 165mm) para ajuste de proporción de agarre", "Construcción sólida de gama media sin el precio premium de Rx Smart Gear"],
+      "cons": ["$89,95 es un paso notable respecto a las opciones de presupuesto — el valor premium puede no sentirse hasta alto volumen de WOD"],
+      "grade": "B",
+      "specs": {"Precio": "$89,95", "Cable": "Acero de grado aeronáutico de 1,6mm", "Rodamientos": "Rodamientos de bolas sellados", "Opciones de mango": "145mm o 165mm", "Material": "Mangos de aluminio cromado"},
+      "scores": {"Calidad de construcción": 4.3, "Velocidad": 4.5, "Durabilidad": 4.5, "Comodidad": 4.3, "Valor": 4.3}
+    },
+    {
+      "offerId": "elite-srs-muay-thai-cable",
+      "badge": "Mejor cable pesado",
+      "review": "El acero revestido de PVC de 3mm del Elite SRS Muay Thai Cable genera resistencia al aire y retroalimentación auditiva por revolución que el alambre de 1,5mm no puede igualar. El objetivo no es la velocidad sino la carga de acondicionamiento: los hombros y antebrazos se fatigan más rápido a repeticiones moderadas. La cuerda sobrevive al entrenamiento al aire libre y en superficies rugosas mejor que el alambre fino. A $29,99, es la forma más económica de añadir acondicionamiento con cuerda con peso. Complementa una cuerda de velocidad, no la reemplaza.",
+      "pros": ["El acero revestido de PVC de 3mm sobrevive al entrenamiento al aire libre y en superficies rugosas", "La resistencia adicional al aire carga hombros y antebrazos para efecto de acondicionamiento", "$29,99 — camino más económico al acondicionamiento con cuerda con peso"],
+      "cons": ["Cadencia máxima más baja que el alambre de 1,5mm — no apto para dobles saltos de competición de velocidad"],
+      "grade": "B-",
+      "specs": {"Precio": "$29,99", "Cable": "Acero revestido de PVC de 3mm", "Rodamientos": "Bola sellada en mangos de 140mm", "Longitud del mango": "5,5 pulgadas (140mm)", "Ideal para": "Carga de acondicionamiento, entrenamiento al aire libre"},
+      "scores": {"Calidad de construcción": 4.0, "Velocidad": 2.8, "Durabilidad": 5.0, "Comodidad": 3.8, "Valor": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para atletas de CrossFit de competición y élite", "offerId": "rx-smart-gear-elite-evo", "reason": "Rodamientos de aguja y alambre de 1,5mm — la combinación que permite 200+ dobles saltos consecutivos a cadencia de competición"},
+    {"label": "Para principiantes aprendiendo dobles saltos", "offerId": "wod-nation-speed-jump-rope", "reason": "El cable de 1,8mm da retroalimentación clara de ritmo y $15 eliminan la barrera de costo para empezar"},
+    {"label": "Para variedad de acondicionamiento y resistencia de agarre/hombros", "offerId": "crossrope-get-lean-bundle", "reason": "Los cables con peso de cambio rápido añaden un estímulo de acondicionamiento muscular distinto del trabajo con cuerda de velocidad"},
+    {"label": "Para atletas regulares de WOD que quieren calidad de gama media", "offerId": "rpm-session-3-jump-rope", "reason": "Cable de acero aeronáutico de 1,6mm y opciones de longitud en construcción sólida sin el precio de competición"},
+    {"label": "Para entrenamiento al aire libre y acondicionamiento de tempo", "offerId": "elite-srs-muay-thai-cable", "reason": "El PVC de 3mm sobrevive a superficies rugosas y carga los hombros a $29,99 — mejor valor de cable pesado"}
+  ]
 }

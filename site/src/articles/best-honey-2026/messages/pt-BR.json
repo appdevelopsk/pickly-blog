@@ -58,5 +58,64 @@
     "wholesome-organic-raw-honey": "Mel cru orgânico, certificado de comércio justo, 16 oz. $12-18. Melhor mel cru certificado orgânico — origem de comércio justo, sabor suave, certificação orgânica. Certo para compradores que priorizam orgânico e comércio justo junto com processamento cru."
   },
   "pinDescription": "Mel 2026: explicação de UMF vs MGO no mel de Manuka, comparação Comvita vs Wedderspoon KFactor, diferenças entre mel cru e processado, quando o Manuka realmente vale o preço e melhor mel para uso diário 2026. #mel #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada produto foi avaliado quanto ao rigor da certificação, consistência de sabor entre lotes, preço por porção, transparência da origem e adequação prática ao uso pretendido.",
+  "products": [
+    {
+      "offerId": "comvita-manuka-honey-umf10",
+      "badge": "Melhor no geral",
+      "review": "O Comvita UMF 10+ é o mel de Manuka certificado mais confiável do mercado: o sistema UMF verifica independentemente a concentração de MGO e os marcadores de autenticidade, eliminando o risco de fraude comum em rótulos baratos de Manuka. Por $26–40 para 250 g, o preço por porção é elevado, mas justificado pelo MGO 263+ documentado e rastreabilidade global de lotes. Limitação honesta: 250 g acabam rápido se usado como adoçante diário.",
+      "pros": ["Certificação UMF verifica MGO e autenticidade de forma independente", "Disponibilidade global com qualidade de lote constante", "MGO 263+ médio adequado para uso de bem-estar geral"],
+      "cons": ["$26–40 por 250 g torna o uso diário caro"],
+      "grade": "A+",
+      "specs": {"Tipo": "Manuka", "Certificação": "UMF 10+", "MGO": "263+", "Peso": "250 g", "Origem": "Nova Zelândia", "Processamento": "Cru"},
+      "scores": {"Sabor": 4.7, "Pureza": 5.0, "Custo-benefício": 3.5, "Textura": 4.5, "Versatilidade": 4.0}
+    },
+    {
+      "offerId": "wedderspoon-manuka-kfactor16",
+      "badge": "Melhor Manuka acessível",
+      "review": "O Wedderspoon KFactor 16 certifica que 75% ou mais do pólen provém de flores de Manuka, confirmando a origem floral sem indicar diretamente o teor de MGO. Produto legítimo a um preço menor que a maioria das opções UMF, ideal para quem quer origem Manuka verificada sem pagar o prêmio UMF. Atenção: KFactor 16 não pode ser diretamente convertido em uma classificação UMF.",
+      "pros": ["Origem Manuka certificada por pólen a preço inferior ao UMF", "11,4 oz oferece mais volume que a maioria das opções Manuka", "Amplamente disponível em supermercados"],
+      "cons": ["KFactor não indica o nível de MGO — menos preciso que o UMF"],
+      "grade": "A",
+      "specs": {"Tipo": "Manuka", "Certificação": "KFactor 16", "Pólen": "75%+ Manuka", "Peso": "11,4 oz (323 g)", "Origem": "Nova Zelândia", "Processamento": "Cru"},
+      "scores": {"Sabor": 4.5, "Pureza": 4.3, "Custo-benefício": 4.2, "Textura": 4.4, "Versatilidade": 4.0}
+    },
+    {
+      "offerId": "nature-nates-raw-honey",
+      "badge": "Melhor mel cru do dia a dia",
+      "review": "O Nature Nate's é a resposta certa para uso diário: origem EUA rastreável, não filtrado, não aquecido, auditado independentemente e abaixo de $10 por 16 oz. O sabor é suave, de trevo — perfeito quando o mel atua como adoçante discreto em chá, iogurte ou molhos. Nada de exótico — esse é exatamente o ponto.",
+      "pros": ["Origem EUA rastreável com auditoria independente de produto cru", "Sabor suave de trevo apto para diversos usos culinários", "Preço acessível para consumo diário"],
+      "cons": ["Menos complexidade de sabor que variedades de origem única"],
+      "grade": "B+",
+      "specs": {"Tipo": "Trevo", "Certificação": "Cru/Não filtrado", "Peso": "16 oz (454 g)", "Origem": "EUA", "Processamento": "Não aquecido, não filtrado", "Embalagem": "Bisnaga"},
+      "scores": {"Sabor": 4.0, "Pureza": 4.5, "Custo-benefício": 4.8, "Textura": 4.0, "Versatilidade": 4.7}
+    },
+    {
+      "offerId": "ys-eco-bee-raw-honey",
+      "badge": "Melhor cru não filtrado",
+      "review": "O Y.S. Eco Bee Farms oferece uma experiência de mel cru notavelmente diferente: espesso, opaco, com partículas visíveis de própolis e pólen atestando processamento mínimo. O sabor é mais pronunciado que o Nature Nate's, com notas terrosas e complexas. 22 oz orgânico USDA por cerca de $12–18 representa ótimo custo-benefício. Se a textura endurecer no frio, aqueça o pote brevemente em banho-maria.",
+      "pros": ["Própolis e pólen visíveis confirmam processamento não filtrado", "Certificação orgânica USDA", "Tamanho 22 oz oferece melhor preço por onça"],
+      "cons": ["Textura espessa pode ser difícil de verter em temperaturas mais frias"],
+      "grade": "B",
+      "specs": {"Tipo": "Mix flores silvestres", "Certificação": "USDA Orgânico, Cru", "Peso": "22 oz (624 g)", "Origem": "EUA", "Processamento": "Não filtrado, não aquecido", "Textura": "Espesso/pastoso"},
+      "scores": {"Sabor": 4.4, "Pureza": 4.6, "Custo-benefício": 4.5, "Textura": 3.8, "Versatilidade": 3.9}
+    },
+    {
+      "offerId": "wholesome-organic-raw-honey",
+      "badge": "Melhor orgânico de comércio justo",
+      "review": "O Wholesome Organic atende um nicho específico: compradores que querem tanto certificação orgânica quanto abastecimento de comércio justo em um mel cru sem pagar preços de Manuka. Sabor suave e limpo, comparável ao Nature Nate's mas com credenciais adicionais. Por $12–18 por 16 oz é ligeiramente mais caro que o mel cru convencional, o que é razoável pelas certificações extras.",
+      "pros": ["USDA Orgânico + certificação de comércio justo simultaneamente", "Sabor suave adequado para a maioria dos usos", "Credenciais de origem transparentes"],
+      "cons": ["Preço por onça mais alto sem prêmio de sabor em relação ao mel cru convencional"],
+      "grade": "B-",
+      "specs": {"Tipo": "Mix trevo", "Certificação": "USDA Orgânico, Comércio Justo", "Peso": "16 oz (454 g)", "Origem": "América do Sul", "Processamento": "Cru, não filtrado", "Embalagem": "Pote"},
+      "scores": {"Sabor": 4.0, "Pureza": 4.7, "Custo-benefício": 3.8, "Textura": 4.1, "Versatilidade": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para uso diário como adoçante", "offerId": "nature-nates-raw-honey", "reason": "Sabor suave, certificação cru e preço acessível para consumo cotidiano sem hesitação."},
+    {"label": "Para benefícios Manuka verificados", "offerId": "comvita-manuka-honey-umf10", "reason": "UMF 10+ verifica independentemente MGO 263+ — a certificação mais confiável quando a potência do Manuka importa."},
+    {"label": "Para priorizar abastecimento ético", "offerId": "wholesome-organic-raw-honey", "reason": "USDA Orgânico e certificado de comércio justo — a escolha quando a ética do abastecimento importa tanto quanto o sabor."},
+    {"label": "Para compradores de Manuka com orçamento limitado", "offerId": "wedderspoon-manuka-kfactor16", "reason": "Origem Manuka certificada por pólen a preço inferior aos produtos UMF — boa entrada sem pagar o prêmio completo."},
+    {"label": "Para o mel mais cru possível", "offerId": "ys-eco-bee-raw-honey", "reason": "Própolis e pólen visíveis em um mel denso certificado USDA Orgânico — a opção mais 'crua' desta lista."}
+  ]
 }

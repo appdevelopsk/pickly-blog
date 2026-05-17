@@ -58,5 +58,143 @@
     "hario-v60-02": "Coador pour-over de porcao individual, estrias espirais, unico furo grande. $25-35 (plastico). Alternativa ao Chemex com filtro mais fino — mais corpo, fluxo mais rapido, maior controle de tecnica. Requer servidor ou caneca separados. Melhor para preparadores experientes que priorizam controle de extracao."
   },
   "pinDescription": "Chemex vs Hario V60 2026: 6 xicaras vs 8 xicaras, cabo de vidro vs colar de madeira, o que o filtro grosso do Chemex realmente faz na clareza da xicara, e qual pour-over e o certo para a sua cozinha. #chemex #cafepourover #cafeespecialidade #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Avaliamos cada cafeteira em clareza da xícara, qualidade de construção, facilidade de limpeza, compatibilidade de filtros, precisão de capacidade e adequação a diferentes perfis de torra — o V60 foi testado em paralelo como principal alternativa ao Chemex.",
+  "products": [
+    {
+      "offerId": "chemex-6-cup-classic",
+      "badge": "Melhor escolha global",
+      "review": "O modelo clássico Chemex em vidro borossilicato no formato de ampulheta com colar de madeira. Com 850 ml é ideal para 1–2 pessoas, e os filtros proprietários eliminam óleos e partículas finas para realçar as notas frutadas e florais das torras claras. Sem alça pode parecer desconfortável, mas a clareza da xícara é incomparável nessa categoria.",
+      "pros": ["Clareza de xícara incomparável", "Jarra de vidro borossilicato resistente ao calor", "850 ml ideal para 1–2 pessoas"],
+      "cons": ["O colar de madeira não é adequado para lava-louças"],
+      "grade": "A+",
+      "specs": {
+        "Capacidade": "30 oz / 850 ml",
+        "Material": "Vidro borossilicato",
+        "Filtro": "Filtro bonded Chemex",
+        "Alça": "Colar de madeira + cordão de couro",
+        "Lava-louças": "Não"
+      },
+      "scores": {
+        "Qualidade de infusão": 4.9,
+        "Qualidade de construção": 4.7,
+        "Facilidade de uso": 4.3,
+        "Custo-benefício": 4.2,
+        "Versatilidade": 3.8
+      }
+    },
+    {
+      "offerId": "chemex-8-cup-classic",
+      "badge": "Melhor para grupos",
+      "review": "O modelo de 8 xícaras é ideal para lares com 3 ou mais pessoas ou escritórios em casa, permitindo preparar até 4–5 xícaras de uma vez com 1,2 L de capacidade. A qualidade de infusão é idêntica ao de 6 xícaras, apenas a capacidade difere. Para 1–2 pessoas será superdimensionado.",
+      "pros": ["Até 4–5 xícaras de uma vez", "Mesma qualidade de infusão do de 6 xícaras", "Ideal para grupos e rotinas matinais"],
+      "cons": ["Grande demais para uso individual"],
+      "grade": "A",
+      "specs": {
+        "Capacidade": "40 oz / 1,2 L",
+        "Material": "Vidro borossilicato",
+        "Filtro": "Filtro bonded Chemex",
+        "Alça": "Colar de madeira + cordão de couro",
+        "Lava-louças": "Não"
+      },
+      "scores": {
+        "Qualidade de infusão": 4.9,
+        "Qualidade de construção": 4.7,
+        "Facilidade de uso": 4.2,
+        "Custo-benefício": 4.0,
+        "Versatilidade": 4.2
+      }
+    },
+    {
+      "offerId": "chemex-glass-handle",
+      "badge": "Melhor para limpeza fácil",
+      "review": "Este modelo substitui o colar de madeira por uma alça de vidro integrada, tornando tudo adequado para lava-louças — sua principal vantagem. A clareza de infusão é equivalente ao clássico de 6 xícaras, ideal para quem lava várias vezes ao dia. A alça de vidro pode aquecer ligeiramente; recomenda-se usar um pano de cozinha.",
+      "pros": ["Completamente adequado para lava-louças", "Mesma qualidade de infusão do de 6 xícaras", "Vidro integrado para máxima higiene"],
+      "cons": ["A alça pode aquecer em altas temperaturas"],
+      "grade": "B+",
+      "specs": {
+        "Capacidade": "34 oz / 1 L",
+        "Material": "Vidro borossilicato",
+        "Filtro": "Filtro bonded Chemex",
+        "Alça": "Alça de vidro integrada",
+        "Lava-louças": "Sim"
+      },
+      "scores": {
+        "Qualidade de infusão": 4.8,
+        "Qualidade de construção": 4.5,
+        "Facilidade de uso": 4.7,
+        "Custo-benefício": 3.8,
+        "Versatilidade": 3.7
+      }
+    },
+    {
+      "offerId": "chemex-bonded-filters",
+      "badge": "Consumível indispensável",
+      "review": "Os filtros bonded Chemex em caixa de 100 são 20–30% mais espessos que os filtros padrão e eliminam óleos e partículas finas eficazmente. Usar outros filtros em uma Chemex degrada notavelmente a clareza — não são um acessório, são uma necessidade. Recomenda-se ter 2–3 caixas de reserva.",
+      "pros": ["Clareza ótima graças ao design exclusivo Chemex", "Caixa de 100 com bom custo-benefício", "Materiais com certificação ecológica"],
+      "cons": ["Compatível apenas com cafeteiras Chemex"],
+      "grade": "B",
+      "specs": {
+        "Quantidade": "100 filtros",
+        "Tipo": "Quadrado, dobrável",
+        "Certificação": "Branqueado com oxigênio, sem OGM",
+        "Compatibilidade": "Chemex de 6, 8 e 10 xícaras"
+      },
+      "scores": {
+        "Qualidade de infusão": 4.9,
+        "Qualidade de construção": 4.5,
+        "Facilidade de uso": 4.4,
+        "Custo-benefício": 4.6,
+        "Versatilidade": 2.5
+      }
+    },
+    {
+      "offerId": "hario-v60-02",
+      "badge": "Melhor cafeteira alternativa",
+      "review": "O Hario V60 02 usa filtros mais finos e oferece mais corpo, fluxo mais rápido e maior controle de extração que o Chemex. Requer servidor separado, mas as estrias em espiral permitem fluxo de ar livre para um despejo preciso — adequado também para torras escuras. Para usuários experientes que priorizam corpo sobre clareza.",
+      "pros": ["Mais corpo e controle de extração", "Adequado de torras claras a escuras", "Compacto e portátil"],
+      "cons": ["Requer servidor ou caneca separados"],
+      "grade": "B-",
+      "specs": {
+        "Material": "Plástico (resistente ao calor)",
+        "Tamanho": "02 (1 a 4 xícaras)",
+        "Filtro": "Filtro de papel V60",
+        "Estrias": "Estrias em espiral + grande abertura",
+        "Servidor": "Vendido separadamente"
+      },
+      "scores": {
+        "Qualidade de infusão": 4.6,
+        "Qualidade de construção": 4.0,
+        "Facilidade de uso": 4.2,
+        "Custo-benefício": 4.8,
+        "Versatilidade": 4.7
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para amantes de xícaras claras",
+      "offerId": "chemex-6-cup-classic",
+      "reason": "Maximiza as notas florais e frutadas das torras claras — a primeira escolha para clareza de xícara."
+    },
+    {
+      "label": "Para família e escritório em casa",
+      "offerId": "chemex-8-cup-classic",
+      "reason": "Até 4–5 xícaras de uma vez com 1,2 L — perfeito para rotinas matinais em grupo ou pequenos escritórios."
+    },
+    {
+      "label": "Para limpeza diária sem esforço",
+      "offerId": "chemex-glass-handle",
+      "reason": "Completamente adequado para lava-louças — aproveite a qualidade Chemex todos os dias sem complicações de limpeza."
+    },
+    {
+      "label": "Para proprietários de Chemex",
+      "offerId": "chemex-bonded-filters",
+      "reason": "Os filtros proprietários são indispensáveis para manter a clareza Chemex — sempre ter estoque."
+    },
+    {
+      "label": "Para baristas experientes que buscam controle",
+      "offerId": "hario-v60-02",
+      "reason": "A melhor alternativa para quem prioriza corpo e controle de extração sobre clareza."
+    }
+  ]
 }

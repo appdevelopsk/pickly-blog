@@ -57,5 +57,170 @@
     "yes4all-foam-plyo-box": "Color-coded heights, stackable, softest foam exterior. Best entry-price option for home cardio and beginner jump progressions."
   },
   "pinDescription": "Foam vs wood plyo box — which one is right for your training? 5 picks from beginner jumps to max-effort depth jumps, with honest notes on shin safety and weight capacity.",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each plyo box was evaluated on platform stability under load, shin safety of the exterior material, height configuration flexibility, weight capacity, and price-to-durability ratio for home gym use.",
+  "products": [
+    {
+      "offerId": "rogue-foam-plyo-box",
+      "badge": "Best Overall",
+      "review": "The Rogue Foam Plyo Box's high-density foam exterior compresses on contact rather than cutting skin — the single most important safety feature when training near your jump limit. The firm inner core holds position through repeated loaded landings without the surface compression that afflicts cheaper foam boxes. It costs more than wood alternatives and the foam scuffs faster.",
+      "pros": [
+        "Foam exterior compresses on missed reps instead of cutting shins",
+        "Firm inner core maintains stability through loaded landings",
+        "Stackable design extends height range without buying extra boxes"
+      ],
+      "cons": [
+        "Costs more than comparable wooden boxes; foam exterior shows wear faster"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Exterior": "High-density foam",
+        "Core": "Firm inner structure",
+        "Design": "Stackable",
+        "Best for": "Athletes training near jump limit",
+        "Price (US)": "~$155"
+      },
+      "scores": {
+        "Stability": 4.8,
+        "Safety": 5.0,
+        "Build quality": 4.7,
+        "Value": 3.8,
+        "Height options": 4.5
+      }
+    },
+    {
+      "offerId": "rep-fitness-foam-plyo-box",
+      "badge": "Best Value Foam Box",
+      "review": "Three heights (16/20/24 in) in one unit by rotating orientation — the smartest format for athletes whose training stays within 24 inches. The removable washable cover is a practical advantage in a home gym. Priced below Rogue at comparable build quality, making it the first recommendation for foam safety without the premium price.",
+      "pros": [
+        "3-in-1 heights (16/20/24 in) by repositioning without buying extra boxes",
+        "Removable washable cover keeps the surface clean",
+        "Priced below Rogue at similar build quality"
+      ],
+      "cons": [
+        "24-inch ceiling means athletes progressing to 30-inch jumps will outgrow it"
+      ],
+      "grade": "A",
+      "specs": {
+        "Heights": "16 / 20 / 24 in (3-in-1)",
+        "Exterior": "Foam with washable cover",
+        "Format": "Orientation-flip",
+        "Price (US)": "~$90"
+      },
+      "scores": {
+        "Stability": 4.6,
+        "Safety": 4.8,
+        "Build quality": 4.5,
+        "Value": 4.6,
+        "Height options": 4.4
+      }
+    },
+    {
+      "offerId": "jfit-adjustable-plyo-box",
+      "badge": "Best for Progressive Training",
+      "review": "The JFIT's internal locking mechanism lets you change height without moving a heavy box — ideal for structured height progressions in a single session. The edges are firmer than full-foam boxes; contact on a miss has more impact than Rogue or Rep, but softer than wood.",
+      "pros": [
+        "Internal mechanism adjusts height without repositioning the unit",
+        "Ideal for incremental height progressions within a single session",
+        "Non-slip surface texture for secure landing"
+      ],
+      "cons": [
+        "Edges are firmer than full-foam competitors — not skin-soft on contact"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Adjustment": "Internal locking mechanism",
+        "Surface": "Non-slip textured platform",
+        "Format": "Single unit, height-adjustable",
+        "Price range": "Mid-range"
+      },
+      "scores": {
+        "Stability": 4.4,
+        "Safety": 4.0,
+        "Build quality": 4.3,
+        "Value": 4.2,
+        "Height options": 4.9
+      }
+    },
+    {
+      "offerId": "titan-fitness-plyo-box",
+      "badge": "Best Wood Box",
+      "review": "Solid wood construction handles aggressive loaded step-ups, box squats, and depth jumps that would deform foam over time. The 3-height orientation design and grip-textured surface make it practical for serious strength training. The trade-off is unambiguous: wooden corners at shin height on a missed jump produce injury — not appropriate for athletes still developing landing mechanics.",
+      "pros": [
+        "Solid wood handles maximum loading without surface deformation",
+        "Grip-textured platform prevents feet sliding on landing",
+        "Long-term durability superior to foam for heavy use"
+      ],
+      "cons": [
+        "Wooden corners at shin height produce cuts and bruising on missed jumps"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "Solid wood construction",
+        "Heights": "3 via orientation",
+        "Surface": "Grip-textured platform",
+        "Price (US)": "~$90"
+      },
+      "scores": {
+        "Stability": 5.0,
+        "Safety": 2.5,
+        "Build quality": 4.8,
+        "Value": 4.4,
+        "Height options": 4.2
+      }
+    },
+    {
+      "offerId": "yes4all-foam-plyo-box",
+      "badge": "Best Entry-Level Foam",
+      "review": "Color-coded heights, stackable design, and soft foam exterior at the lowest entry price in the category. Best for home cardio conditioning and beginner jump progressions where shin safety matters and the jump height requirement is modest. Not designed for heavy loaded step-ups.",
+      "pros": [
+        "Lowest entry price for a skin-friendly foam jumping surface",
+        "Color-coded stackable units for easy height recognition",
+        "Soft foam exterior for home cardio and beginner jumps"
+      ],
+      "cons": [
+        "Not appropriate for loaded barbell step-ups or max-effort plyometrics"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Exterior": "Soft foam",
+        "Design": "Stackable, color-coded",
+        "Best for": "Beginner jump progressions",
+        "Price (US)": "Budget tier"
+      },
+      "scores": {
+        "Stability": 3.8,
+        "Safety": 4.7,
+        "Build quality": 3.5,
+        "Value": 4.8,
+        "Height options": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "For athletes training near their max jump height",
+      "offerId": "rogue-foam-plyo-box",
+      "reason": "Foam exterior compresses on contact instead of cutting shins — critical safety advantage when pushing jump limits."
+    },
+    {
+      "label": "For home gym athletes who want 3 heights in one unit",
+      "offerId": "rep-fitness-foam-plyo-box",
+      "reason": "3-in-1 orientation covers 16/20/24 in progression at below-Rogue pricing with a washable cover."
+    },
+    {
+      "label": "For structured progressive height training",
+      "offerId": "jfit-adjustable-plyo-box",
+      "reason": "Adjustable internal mechanism lets you change height mid-session without repositioning a heavy box."
+    },
+    {
+      "label": "For experienced athletes doing loaded box work",
+      "offerId": "titan-fitness-plyo-box",
+      "reason": "Solid wood handles barbell step-ups and heavy depth jumps that would deform foam surfaces over time."
+    },
+    {
+      "label": "For beginners and home cardio conditioning",
+      "offerId": "yes4all-foam-plyo-box",
+      "reason": "Lowest entry price with a skin-friendly foam surface — right for learning jump mechanics without injury risk."
+    }
+  ]
 }

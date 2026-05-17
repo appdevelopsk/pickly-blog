@@ -63,5 +63,64 @@
     "franks-redhot-original": "O frasco de 23 oz é o melhor valor. Frank's também vende um Molho Buffalo Wing pré-misturado com manteiga já adicionada."
   },
   "pinDescription": "Os 5 melhores molhos picantes de 2026 — do suave Crystal estilo Louisiana ao complexo Cholula e o clássico Tabasco. Encontre seu nível de ardência perfeito! #molhoPicante #português",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada molho foi avaliado no nível de ardência em Scoville, qualidade dos ingredientes, complexidade de sabor além do picante, versatilidade com diferentes alimentos e relação custo-benefício por volume.",
+  "products": [
+    {
+      "offerId": "tabasco-original-red",
+      "badge": "Melhor no geral",
+      "review": "Três anos de fermentação em barril em Avery Island conferem ao Tabasco uma intensidade e consistência que produções industriais não conseguem replicar. A textura fina e avinagrada se distribui uniformemente em qualquer alimento. Com 2.500–5.000 Scoville, o ardor é presente mas não avassalador. Única limitação real: a pequeña garrafa de 2 oz fica cara por onça para uso diário.",
+      "pros": ["A fermentação de três anos cria aromas complexos ausentes nos simples molhos de vinagre", "Textura fina que se distribui uniformemente em qualquer alimento", "Disponibilidade global incomparável"],
+      "cons": ["Garrafinhas são caras por onça em comparação com competidores de grande formato"],
+      "grade": "A+",
+      "specs": {"Scoville": "2.500–5.000", "Base": "Pimentas Tabasco", "Estilo": "Fermentado", "Vinagre": "Destilado", "Tamanhos disponíveis": "2 oz – 1 galão", "Origem": "Avery Island, Louisiana"},
+      "scores": {"Nível de ardência": 3.8, "Sabor": 4.8, "Custo-benefício": 4.0, "Versatilidade": 4.9, "Qualidade ingredientes": 4.7}
+    },
+    {
+      "offerId": "cholula-original",
+      "badge": "Melhor complexidade de sabor",
+      "review": "O blend de pimentas pequin e arbol da Cholula oferece mais dimensões gustativas do que molhos de cayena pura. Com 1.000–2.000 Scoville, fica acessível para quem tem pouca tolerância ao picante. A tampa de madeira é charmosa, mas o formato flip-top é mais prático no dia a dia.",
+      "pros": ["O blend pequin-arbol cria genuína profundidade de sabor", "Nível de ardência acessível para grupos com tolerâncias variadas", "Tampa de madeira icônica"],
+      "cons": ["A versão com tampa de madeira é menos prática que o flip-top para uso diário na cozinha"],
+      "grade": "A",
+      "specs": {"Scoville": "1.000–2.000", "Base": "Pimentas pequin e arbol", "Estilo": "Blend moído fresco", "Origem": "Chapala, México", "Tamanhos disponíveis": "5 oz – 64 oz", "Vinagre": "Sidra de maçã"},
+      "scores": {"Nível de ardência": 2.8, "Sabor": 4.9, "Custo-benefício": 4.3, "Versatilidade": 4.7, "Qualidade ingredientes": 4.5}
+    },
+    {
+      "offerId": "valentina-extra-hot",
+      "badge": "Melhor custo-benefício",
+      "review": "Menos de $3 por uma garrafa grande — Valentina Extra Hot é o molho de trabalho da despensa. A consistência espessa adere ao alimento em vez de escorrer. O sabor é terroso e levemente adocicado antes que o ardor (~2.100 Scoville) chegue.",
+      "pros": ["Melhor preço por onça desta comparação", "Textura espessa que adere ao alimento em vez de escorrer", "Perfil de sabor terroso e levemente adocicado antes do ardor"],
+      "cons": ["Menos complexo que molhos fermentados — perfil gustativo mais simples"],
+      "grade": "B+",
+      "specs": {"Scoville": "~2.100", "Base": "Pimentas secas", "Estilo": "Pasta espessa", "Origem": "Guadalajara, México", "Tamanhos disponíveis": "12,5 oz – 34 oz", "Vinagre": "Destilado"},
+      "scores": {"Nível de ardência": 3.5, "Sabor": 4.0, "Custo-benefício": 5.0, "Versatilidade": 4.4, "Qualidade ingredientes": 3.8}
+    },
+    {
+      "offerId": "crystal-hot-sauce",
+      "badge": "Melhor estilo Louisiana",
+      "review": "Cayena envelhecida e vinagre destilado — Crystal é a expressão mais limpa de um molho Louisiana. Com 800–1.000 Scoville, o ardor é baixo o suficiente para cozinhar em grandes quantidades. A acidez é notável: Crystal adiciona brilho e caráter apimentado sem a agressividade do Tabasco.",
+      "pros": ["Sabor limpo de cayena envelhecida sem agressividade", "Ardor baixo, seguro para cozinhar em grandes quantidades", "Bom custo-benefício no tamanho padrão de 12 oz"],
+      "cons": ["O baixo Scoville não satisfará os amantes de ardência intensa"],
+      "grade": "B",
+      "specs": {"Scoville": "800–1.000", "Base": "Cayena envelhecida", "Estilo": "Estilo Louisiana", "Origem": "Nova Orleans, Louisiana", "Tamanhos disponíveis": "6 oz – 1 galão", "Vinagre": "Destilado"},
+      "scores": {"Nível de ardência": 2.0, "Sabor": 4.3, "Custo-benefício": 4.6, "Versatilidade": 4.5, "Qualidade ingredientes": 4.2}
+    },
+    {
+      "offerId": "franks-redhot-original",
+      "badge": "Melhor para cozinhar",
+      "review": "Frank's RedHot é a base original do molho buffalo e a opção mais suave desta comparação (~450 Scoville). A combinação cayena-vinagre reveste perfeitamente as proteínas e aguenta o calor do forno. Lê-se mais como 'ácido' do que 'picante', tornando-o a escolha certa para asas, dips e receitas onde o ardor deve complementar, não dominar.",
+      "pros": ["Projetado especificamente para asas estilo buffalo — reveste e liga perfeitamente", "Ardor suave adequado para convidados com baixa tolerância ao picante", "Grande formato disponível para cozinha em quantidade"],
+      "cons": ["Suave demais para funcionar como molho picante independente para amantes de ardência"],
+      "grade": "B-",
+      "specs": {"Scoville": "~450", "Base": "Cayena envelhecida", "Estilo": "Estilo buffalo", "Origem": "Springfield, Missouri", "Tamanhos disponíveis": "5 oz – 1 galão", "Vinagre": "Destilado"},
+      "scores": {"Nível de ardência": 1.5, "Sabor": 4.0, "Custo-benefício": 4.5, "Versatilidade": 4.2, "Qualidade ingredientes": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para uso diário à mesa", "offerId": "tabasco-original-red", "reason": "A complexidade fermentada e a textura fina combinam com praticamente qualquer alimento."},
+    {"label": "Para os amantes de sabor acima do ardor", "offerId": "cholula-original", "reason": "O blend pequin-arbol traz profundidade e caráter além do simples Scoville."},
+    {"label": "Para abastecer a despensa com bom orçamento", "offerId": "valentina-extra-hot", "reason": "Melhor preço por onça desta lista, com textura espessa que adere perfeitamente."},
+    {"label": "Para noite de asas e cozinha em quantidade", "offerId": "franks-redhot-original", "reason": "Projetado para molho estilo buffalo — reveste uniformemente e aguenta o calor do forno."},
+    {"label": "Para culinária estilo sulista americano", "offerId": "crystal-hot-sauce", "reason": "Sabor limpo de cayena envelhecida que realza gumbo, feijão vermelho e frango frito sem dominar."}
+  ]
 }

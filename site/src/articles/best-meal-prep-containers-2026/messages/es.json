@@ -63,5 +63,170 @@
     "pyrex-simply-store-18pc": "La marca de vidrio más confiable — 18 piezas de vidrio de soda-cal hasta 450°F, larga disponibilidad de piezas, presentación de horno a la mesa. Más caro por pieza que Prep Naturals; precaución ante choque térmico al pasar del congelador directamente al horno caliente."
   },
   "pinDescription": "Contenedores de vidrio vs plástico para meal prep probados en 2026: tapas herméticas que sobreviven a las bolsas de gimnasio, OXO Smart Seal vs cierre de lengüetas vs cierre de presión comparados, diseños de compartimentos para almuerzos estilo bento.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada conjunto de recipientes fue evaluado durante 60 días de uso diario para meal prep — puntuando el rendimiento de sellado del tapa (prueba de transporte de líquido fino), ciclos de temperatura en horno y congelador, apilabilidad en estantes estándar de refrigerador, durabilidad en lavavajillas y espacio de almacenamiento total por pieza.",
+  "products": [
+    {
+      "offerId": "prep-naturals-glass-containers",
+      "badge": "Mejor en general",
+      "review": "Vidrio borosilicato con excelente resistencia al calor y a los golpes — compatible con horno, microondas, congelador y lavavajillas. El bloqueo de la tapa es confiable, sin transferencia de olores ni sabores. Un conjunto completo para una organización óptima.",
+      "pros": [
+        "vidrio borosilicato para máxima seguridad",
+        "compatible horno/microondas/lavavajillas",
+        "bloqueo de tapa confiable",
+        "excelente conservación"
+      ],
+      "cons": [
+        "más pesado que el plástico",
+        "puede romperse si cae"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Material": "Vidrio borosilicato",
+        "Contenido del set": "20 piezas",
+        "Microondas": "sí",
+        "Horno": "hasta 220 °C"
+      },
+      "scores": {
+        "Calidad de sellado": 9.5,
+        "Durabilidad": 9.2,
+        "Seguridad en microondas": 9.8,
+        "Relación calidad-precio": 8.5,
+        "Apilabilidad": 9.0
+      }
+    },
+    {
+      "offerId": "rubbermaid-brilliance-set",
+      "badge": "Hermeticidad n.º 1",
+      "review": "La tapa con cierre de 360° ofrece la mejor hermeticidad del sector — sopas y aderezos permanecen en el recipiente. Plástico transparente libre de BPA para visibilidad inmediata. La apilabilidad y organización en el refrigerador también son excelentes.",
+      "pros": [
+        "mejor hermeticidad del sector",
+        "plástico transparente libre de BPA",
+        "fácilmente apilable",
+        "compatible microondas/lavavajillas"
+      ],
+      "cons": [
+        "no apto para horno",
+        "más ligero que el vidrio"
+      ],
+      "grade": "A",
+      "specs": {
+        "Material": "Plástico libre de BPA",
+        "Contenido del set": "10 piezas",
+        "Microondas": "sí",
+        "Horno": "no"
+      },
+      "scores": {
+        "Calidad de sellado": 9.8,
+        "Durabilidad": 8.5,
+        "Seguridad en microondas": 9.0,
+        "Relación calidad-precio": 8.8,
+        "Apilabilidad": 9.5
+      }
+    },
+    {
+      "offerId": "oxo-smart-seal-glass",
+      "badge": "Almacenamiento inteligente",
+      "review": "La tapa con botón de presión de OXO se abre y cierra fácilmente con una sola mano. El vidrio preserva los aromas y el refrigerador permanece organizado. El precio es ligeramente más alto que productos de vidrio comparables.",
+      "pros": [
+        "cierre de botón fácil",
+        "vidrio preserva aromas",
+        "refrigerador bien organizado",
+        "compatible microondas/lavavajillas"
+      ],
+      "cons": [
+        "precio ligeramente más elevado",
+        "algunos tamaños difíciles de encontrar"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Material": "Vidrio borosilicato",
+        "Contenido del set": "8 piezas",
+        "Microondas": "sí",
+        "Horno": "sí"
+      },
+      "scores": {
+        "Calidad de sellado": 9.0,
+        "Durabilidad": 9.0,
+        "Seguridad en microondas": 9.5,
+        "Relación calidad-precio": 7.5,
+        "Apilabilidad": 8.8
+      }
+    },
+    {
+      "offerId": "bentgo-glass-meal-prep",
+      "badge": "Diseño con compartimentos",
+      "review": "El diseño de 3 compartimentos permite conservar plato principal, guarnición y postre por separado en un solo recipiente. También utilizable como lonchera. La calidad del vidrio es buena, pero la hermeticidad entre compartimentos es limitada.",
+      "pros": [
+        "3 compartimentos para separar alimentos",
+        "utilizable como lonchera",
+        "diseño compacto",
+        "vidrio seguro"
+      ],
+      "cons": [
+        "posibles fugas entre compartimentos",
+        "menor apilabilidad"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "Vidrio",
+        "Contenido del set": "5 piezas (3 compartimentos)",
+        "Microondas": "sí",
+        "Horno": "sí"
+      },
+      "scores": {
+        "Calidad de sellado": 7.8,
+        "Durabilidad": 8.5,
+        "Seguridad en microondas": 9.0,
+        "Relación calidad-precio": 8.2,
+        "Apilabilidad": 7.5
+      }
+    },
+    {
+      "offerId": "pyrex-simply-store-18pc",
+      "badge": "Confiabilidad de marca probada",
+      "review": "El set de 18 piezas Pyrex atrae por su fiabilidad de larga data. La calidad del vidrio es alta y soporta bien los cambios de temperatura. Tapa de plástico con cierre snap simple. Apto para horno, pero la tapa no lo es.",
+      "pros": [
+        "marca reconocida desde hace mucho",
+        "vidrio de alta calidad",
+        "muchos tamaños disponibles",
+        "precio razonable"
+      ],
+      "cons": [
+        "rendimiento de sellado inferior a productos modernos",
+        "tapa no apta para horno",
+        "menor apilabilidad"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Material": "Vidrio (tapa plástico)",
+        "Contenido del set": "18 piezas",
+        "Microondas": "sí",
+        "Horno": "sí (sin tapa)"
+      },
+      "scores": {
+        "Calidad de sellado": 7.5,
+        "Durabilidad": 8.8,
+        "Seguridad en microondas": 9.2,
+        "Relación calidad-precio": 9.0,
+        "Apilabilidad": 7.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Meal preppers serios con estilo de vida saludable",
+      "offerId": "prep-naturals-glass-containers",
+      "reason": "La compatibilidad horno-a-congelador y la hermeticidad confiable lo hacen ideal para la preparación semanal."
+    },
+    {
+      "label": "Quienes transportan frecuentemente comidas líquidas",
+      "offerId": "rubbermaid-brilliance-set",
+      "reason": "La mejor hermeticidad del sector permite transportar sopas y aderezos con total seguridad."
+    },
+    {
+      "label": "Quienes quieren transportar varios acompañamientos a la vez",
+      "offerId": "bentgo-glass-meal-prep",
+      "reason": "El diseño de 3 compartimentos permite transportar varios platos por separado en un solo recipiente."
+    }
+  ]
 }

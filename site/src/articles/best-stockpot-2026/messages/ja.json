@@ -58,5 +58,184 @@
     "demeyere-industry-stockpot": "5プライステンレス（ベルギー製）、クラスで最も厚いゲージ、ステンレス寸胴鍋の中で最高の熱分布。2万5千〜4万円。入手可能な最高の技術仕様——実証されたAll-Clad以上の性能。本格的なホームクックで工学的プレミアムを求める方に。"
   },
   "pinDescription": "寸胴鍋比較2026：All-Clad D3 vs Cuisinart Multiclad Pro vs Tramontina トリプルクラッド vs Lodge 鋳鉄 vs Demeyere — 全体クラッドvsディスクボトム、実際に必要なサイズ、価格に見合う寸胴鍋はどれ？",
-  "methodology": "各商品を風味・原料の透明性・1食あたりのコスパ・パッケージ品質・実用面での使い勝手で評価。認証情報やユーザーレビューを宣伝文句と照らし合わせて確認しています。"
+  "methodology": "各鍋は、調理面全体での熱分布の均一性、一般的なバッチサイズに対する実用容量、素材の厚みと品質に基づく長期耐久性、同価格帯の競合品に対する価値、そしてタンパク質とデンプン質の多い調理後の洗いやすさで評価しました。",
+  "products": [
+    {
+      "offerId": "all-clad-d3-stainless-stockpot",
+      "badge": "総合ベスト",
+      "review": "All-Clad D3はプロフェッショナルの基準——リムからリムまでのフルトリプルクラッド、18/10ステンレス、米国製で生涯保証。ベースから側面まで均一な熱分布は、長時間煮込むストックにおいてディスクボトムデザインより真に優れています。8〜12 qtの鍋で200〜400ドル——毎日使えば価格は時間とともに回収されます。",
+      "pros": [
+        "リムまでのフルトリプルクラッド構造——側面がベースと均等に加熱され、より良い対流を実現",
+        "生涯保証と米国製造——プロの厨房での10〜20年の実績",
+        "18/10ステンレス内面は酸性ストックに非反応性で金属調理器具に対応"
+      ],
+      "cons": [
+        "ここで最も高価なオプション（200〜400ドル）——TramontinaはAll-Cladの半額以下で同等のパフォーマンスを提供"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Construction": "Tri-ply (18/10 stainless / aluminum / stainless)",
+        "Available sizes": "8, 10, 12 qt",
+        "Induction compatible": "Yes",
+        "Origin": "USA",
+        "Warranty": "Lifetime",
+        "Oven safe": "Up to 260°C",
+        "Price range": "$200–400"
+      },
+      "scores": {
+        "Heat distribution": 5.0,
+        "Capacity": 4.8,
+        "Durability": 5.0,
+        "Value": 3.2,
+        "Ease of cleaning": 4.5
+      }
+    },
+    {
+      "offerId": "cuisinart-multiclad-pro-stockpot",
+      "badge": "バジェット全体クラッド最高",
+      "review": "Cuisinart Multiclad ProはAll-Cladの約3分の1の価格でフルクラッドのトリプルクラッドを提供します——標準的な家庭料理での熱分布と調理性能はほとんど区別がつきません。やや薄いゲージは超高火力での注意が必要です。",
+      "pros": [
+        "All-Cladの3分の1の価格でフルトリプルクラッド——クラッドカテゴリーへの最良のエントリー",
+        "18/10ステンレス内面は煮沸、煮込み、酸性料理でAll-Cladと同等の性能",
+        "広く流通しており、必要に応じて個別のピースの交換が容易"
+      ],
+      "cons": [
+        "All-CladとTramontinaよりわずかに薄いゲージ——中高火力以上のバーナーリングでの注意が必要"
+      ],
+      "grade": "A",
+      "specs": {
+        "Construction": "Tri-ply (18/10 stainless / aluminum / stainless)",
+        "Available sizes": "8, 10, 12 qt",
+        "Induction compatible": "Yes",
+        "Origin": "China",
+        "Warranty": "Lifetime",
+        "Oven safe": "Up to 260°C",
+        "Price range": "$60–100"
+      },
+      "scores": {
+        "Heat distribution": 4.6,
+        "Capacity": 4.8,
+        "Durability": 4.3,
+        "Value": 4.8,
+        "Ease of cleaning": 4.5
+      }
+    },
+    {
+      "offerId": "tramontina-stainless-stockpot",
+      "badge": "総合最高コスパ",
+      "review": "TramontinaのフルクラッドトリプルクラッドはCuisinartとAll-Cladの中間に位置します——ゲージの厚みとハンドルの重さではAll-Cladに近い。8 qtの鍋で100〜150ドルという、真剣なホームクックに対する最高の価値対性能比。",
+      "pros": [
+        "Cuisinartより厚いゲージ——高火力と毎日の使用をより確実に処理",
+        "All-Cladの半額以下でAll-Clad並みのパフォーマンス——ほとんどのホームクックへの推奨購入",
+        "バジェットオプションより重いハンドルと厳しい製造公差"
+      ],
+      "cons": [
+        "一部の市場では実店舗でAll-CladやCuisinartよりやや見つけにくい"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Construction": "Tri-ply (18/10 stainless / aluminum / stainless)",
+        "Available sizes": "8 qt primary",
+        "Induction compatible": "Yes",
+        "Origin": "Brazil",
+        "Warranty": "Lifetime",
+        "Oven safe": "Up to 260°C",
+        "Price range": "$100–150"
+      },
+      "scores": {
+        "Heat distribution": 4.8,
+        "Capacity": 4.5,
+        "Durability": 4.7,
+        "Value": 4.6,
+        "Ease of cleaning": 4.4
+      }
+    },
+    {
+      "offerId": "lodge-cast-iron-dutch-oven-5qt",
+      "badge": "ブレイズとスロークッキング最高",
+      "review": "Lodge エナメルダッチオーブンは伝統的なストックポットではありません——5 qtでは大量のストック作りには小さすぎます——しかしブレイズ、タジン、長時間煮込むスープには卓越した熱保持でステンレスを凌駕します。シーズニング不要、酸性食品対応。",
+      "pros": [
+        "ブレイズとスロー煮込みに理想的な卓越した熱保持と安定した均一な温度",
+        "エナメル内面はシーズニング不要で、トマトやワインなどの酸性食材を安全に処理",
+        "80〜100ドルでストーブからオーブンまで汎用性が高い"
+      ],
+      "cons": [
+        "5 qtの容量が大量使用を制限——野菜付きの丸鶏のガラからスープを作ることができない"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "Enameled cast iron",
+        "Capacity": "5 qt",
+        "Induction compatible": "Yes",
+        "Seasoning required": "No",
+        "Oven safe": "Up to 260°C",
+        "Weight (loaded)": "Approx. 7 kg",
+        "Price": "$80–100"
+      },
+      "scores": {
+        "Heat distribution": 4.7,
+        "Capacity": 3.0,
+        "Durability": 4.9,
+        "Value": 4.3,
+        "Ease of cleaning": 4.2
+      }
+    },
+    {
+      "offerId": "demeyere-industry-stockpot",
+      "badge": "最高の技術性能",
+      "review": "Demeyere Industryのベルギー製5プライ構造とこの比較で最も厚いゲージは、入手可能なステンレス製ストックポットの中で最高の熱分布を提供します——250〜400ドルでAll-Cladより測定可能に優れています。毎日料理し、エンジニアリングプレミアムを求める真剣なホームクック向け。",
+      "pros": [
+        "最も厚いゲージの5層ベルギー製構造——All-Cladより優れた熱分布",
+        "リベット留めでなく溶接ハンドルがハンドルベースの食品詰まりポイントを排除",
+        "Silvinox表面処理が指紋を減らし、数十年にわたって外観を維持"
+      ],
+      "cons": [
+        "250〜400ドルでAll-Cladより高価——パフォーマンスで正当化されるが相当な差額"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Construction": "5-ply (18/10 stainless / 2× aluminum / aluminum alloy / stainless)",
+        "Available sizes": "Multiple including 8–12 qt",
+        "Induction compatible": "Yes",
+        "Origin": "Belgium",
+        "Warranty": "Lifetime",
+        "Oven safe": "Up to 260°C",
+        "Price range": "$250–400"
+      },
+      "scores": {
+        "Heat distribution": 5.0,
+        "Capacity": 4.8,
+        "Durability": 5.0,
+        "Value": 2.8,
+        "Ease of cleaning": 4.7
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "プロ品質の耐久性を求める真剣なホームクック向け",
+      "offerId": "all-clad-d3-stainless-stockpot",
+      "reason": "リムまでのフルトリプルクラッド、生涯保証、米国製——一度購入して15年間毎日使う鍋。"
+    },
+    {
+      "label": "それでもフルクラッド構造を求める予算重視の料理人向け",
+      "offerId": "cuisinart-multiclad-pro-stockpot",
+      "reason": "All-Cladの3分の1の価格でフルトリプルクラッドの性能——調理品質を妥協せずにクラッドカテゴリーへの最良のエントリー。"
+    },
+    {
+      "label": "最高のコスパを求めるほとんどのホームクック向け",
+      "offerId": "tramontina-stainless-stockpot",
+      "reason": "Cuisinartより厚いゲージ、All-Cladに近い性能、All-Cladの半額以下——ほとんどのホームクックへの推奨購入。"
+    },
+    {
+      "label": "ブレイズ、タジン、スロー煮込みスープを得意とする料理人向け",
+      "offerId": "lodge-cast-iron-dutch-oven-5qt",
+      "reason": "鋳鉄の優れた熱保持力と安定した低温は、ステンレスが太刀打ちできない長時間調理料理のための最高のツールです。"
+    },
+    {
+      "label": "エンジニアリングの極致を求めるこだわり派向け",
+      "offerId": "demeyere-industry-stockpot",
+      "reason": "5層ベルギー製構造はあらゆるステンレス製ストックポットの中で最高の測定可能な熱分布を提供します——毎日の料理が絶対最高を要求する場合にのみ正当化されます。"
+    }
+  ]
 }

@@ -92,5 +92,62 @@
     "columbia-newton-ridge-plus-ii": "Zuganglichster Einstiegspreis mit echter Wasserdichtigkeit und Passform, die breite Fussformen aufnimmt. Omni-Grip-Sohle und weichere Zwischensohle begrenzen Leistung auf technischem Gelan und Lebensdauer auf 600-800 km. Richtige Wahl fur moderates Wandern auf Wegen mit Budget."
   },
   "pinDescription": "Wanderschuhe verglichen fur 2026 — wasserdichte Mittelschnitt-Optionen von $110 Einstieg bis $200 technische Zustiegschuhe. Salomon vs Merrell vs Hoka vs La Sportiva vs Columbia: welche Sohle, welche Wasserdichtigkeit und welche Passform ist richtig fur deine Wege. #Wanderschuhe #deutsch",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Jeder Schuh wurde nach fünf trailspezifischen Kriterien bewertet: Knöchel- und Torsionsstabilität, Wasserschutzmembrantyp und Atmungsaktivitäts-Kompromiss, Stollenmuster und Traktion auf nassem Fels und Schlamm, Preis pro km Nennlebensdauer, und Einlaufstrecke aus Nutzerberichten.",
+  "products": [
+    {
+      "offerId": "salomon-x-ultra-4-gtx",
+      "badge": "Bester insgesamt",
+      "review": "Der X Ultra 4 GTX ist das ausgewogenste Allround-Modell in diesem Vergleich — Gore-Tex Extended Comfort Membran, Contagrip MA Außensohle und Advanced Chassis TPU für Torsionsstabilität ohne Übersteifigkeit. Kurze Einlaufzeit (20–30 km) und breite Geländetauglichkeit machen ihn zur Standardwahl beim Tageswandern. Vorbehalt: Der Vorfuß ist schmal — Breitfüßer sollten vor dem Kauf anprobieren.",
+      "pros": ["Gore-Tex Extended Comfort balanciert Wasserschutz und Atmungsaktivität besser als Standard Gore-Tex", "Advanced Chassis TPU Torsionsstabilität ohne die Steifigkeit eines Bergschuhs", "20–30 km Einlaufzeit — die kürzeste in diesem Vergleich"],
+      "cons": ["Schmaler Vorfuß — Breitfüßer sollten die Passform im Laden prüfen"],
+      "grade": "A+",
+      "specs": {"Wasserschutz": "Gore-Tex Extended Comfort", "Außensohle": "Contagrip MA", "Zwischensohle": "Advanced Chassis TPU", "Schnitt": "Mittelschaft", "Einlaufzeit": "20–30 km", "Gewicht (Paar)": "~760g (EU 43)", "Preis": "$160"},
+      "scores": {"Support": 4.7, "Waterproofing": 4.8, "Traction": 4.7, "Value": 4.3, "Durability": 4.8}
+    },
+    {
+      "offerId": "merrell-moab-3-mid-wp",
+      "badge": "Bestes Preis-Leistungs-Verhältnis",
+      "review": "Der Moab 3 Mid WP liefert Vibram TC5+ Außensohlen-Performance — eine der besten Griffflächen für nassen Fels und gemischtes Gelände — zu einem Preis deutlich unter Salomon oder Hoka. Die M-Select DRY Membran ist leicht weniger atmungsaktiv als Gore-Tex EC, aber für die meisten Trailbedingungen ausreichend. Die Weitenangebote decken Fußformen ab, die Salomons schmaler Leisten ausschließt.",
+      "pros": ["Vibram TC5+ Außensohle — überlegene Nassgesteinsgrip für diese Preisklasse", "Weite-Größen verfügbar — deckt Fußformen ab, die Salomons schmaler Leisten ausschließt", "Komfortabler Sitz ab erster Nutzung — kürzeste Einlaufzeit aller Schuhe im Vergleich"],
+      "cons": ["M-Select DRY Membran leicht weniger atmungsaktiv als Gore-Tex EC bei langen Sommerwanderungen"],
+      "grade": "A",
+      "specs": {"Wasserschutz": "M-Select DRY", "Außensohle": "Vibram TC5+", "Weitenoptionen": "D, W, XW", "Schnitt": "Mittelschaft", "Einlaufzeit": "10–20 km", "Gewicht (Paar)": "~820g (EU 43)", "Preis": "$150"},
+      "scores": {"Support": 4.3, "Waterproofing": 4.5, "Traction": 4.6, "Value": 4.9, "Durability": 4.4}
+    },
+    {
+      "offerId": "hoka-anacapa-mid-gtx",
+      "badge": "Bester Komfortschuh",
+      "review": "Der Anacapa Mid GTX kombiniert Hokas maximale Dämpfungszwischensohle mit Vibram Megagrip Außensohle und Gore-Tex Wasserschutz — eine Konfiguration, die Ermüdungsreduzierung über Responsivität stellt. Am besten geeignet für Tage mit vielen Kilometern (15+ km), ältere Wanderer oder solche mit Gelenkempfindlichkeit. Die erhöhte Stackhöhe erzeugt anfängliche Instabilität, die sich nach 3–5 Adaptionswanderungen auflöst.",
+      "pros": ["Maximale Dämpfungszwischensohle — beste Ermüdungsreduzierung für Kilometer-intensive Tage", "Vibram Megagrip Außensohle — überlegene Traktion auf nassem Fels und abwechslungsreichem Gelände", "Gore-Tex Wasserschutz mit solider Nahtintegritäts-Reputation"],
+      "cons": ["Erhöhte Stackhöhe erzeugt anfängliche Instabilität — 3–5 Adaptionswanderungen nötig; Größe läuft lang"],
+      "grade": "B+",
+      "specs": {"Wasserschutz": "Gore-Tex", "Außensohle": "Vibram Megagrip", "Zwischensohle": "Hoka Max-Dämpfung", "Schnitt": "Mittelschaft", "Einlaufzeit": "30–50 km (Adaption)", "Gewicht (Paar)": "~880g (EU 43)", "Preis": "$195"},
+      "scores": {"Support": 4.0, "Waterproofing": 4.7, "Traction": 4.8, "Value": 3.8, "Durability": 4.3}
+    },
+    {
+      "offerId": "la-sportiva-tx4-gtx",
+      "badge": "Bester Techniker",
+      "review": "Der TX4 GTX ist der einzige Schuh in diesem Vergleich, der für Felsklettern und Zustieg ausgelegt ist — der FriXion AT Gummirand ermöglicht Reibungskletterkontakt und die Vibram Megagrip Außensohle bewältigt vertikales Gelände, dem eine konventionelle Wandersohle unterlegen wäre. Er erfordert die längste Einlaufzeit (50–80 km) und sein steifer, schmaler Leisten ist für Freizeitwanderer falsch. Auf technischem Gelände ist er allem anderen auf dieser Liste überlegen.",
+      "pros": ["FriXion AT Kletterrand — ermöglicht Reibungsklettern und Zustiegsfähigkeit", "Einziger Schuh im Vergleich mit Tauglichkeit für technisches Gelände und Klettersteige", "Vibram Megagrip bewältigt vertikales und reibungsabhängiges Gelände"],
+      "cons": ["Steifer, schmaler Leisten — längste Einlaufzeit (50–80 km); falsche Wahl für Freizeitwandern"],
+      "grade": "B",
+      "specs": {"Wasserschutz": "Gore-Tex", "Außensohle": "Vibram Megagrip", "Rand": "FriXion AT Klettergummi", "Schnitt": "Mittelschaft", "Einlaufzeit": "50–80 km", "Gelände": "Technisch + Zustieg", "Preis": "$179"},
+      "scores": {"Support": 4.8, "Waterproofing": 4.6, "Traction": 5.0, "Value": 3.5, "Durability": 4.9}
+    },
+    {
+      "offerId": "columbia-newton-ridge-plus-ii",
+      "badge": "Bestes Budget",
+      "review": "Der Newton Ridge Plus II ist der Einstiegspunkt für wasserdichte Wanderschuhe mit echter Trailleistung — Omni-Tech Wasserschutz, Omni-Grip Außensohle und eine großzügige Passform für breite Füße. Die Lebensdauer ist kürzer (600–800 km vs. 1.000+ für Salomon und La Sportiva) und die Leistung im technischen Gelände begrenzt. Für moderates Wandern mit kleinem Budget übertrifft nichts das Preis-Leistungs-Verhältnis.",
+      "pros": ["Niedrigster Preis im Vergleich — echter Wasserschutz und Trailgrip für $100", "Großzügige Passform für breite Füße ohne Extraweit-Bestellung", "Omni-Tech Wasserschutz ausreichend für moderate Trailbedingungen"],
+      "cons": ["Lebensdauer 600–800 km — kürzer als Salomon oder La Sportiva; begrenzte technische Geländeleistung"],
+      "grade": "B-",
+      "specs": {"Wasserschutz": "Columbia Omni-Tech", "Außensohle": "Omni-Grip", "Schnitt": "Mittelschaft", "Einlaufzeit": "15–25 km", "Lebensdauer": "600–800 km", "Passform": "Großzügig/breitfußfreundlich", "Preis": "$100"},
+      "scores": {"Support": 3.8, "Waterproofing": 4.2, "Traction": 3.8, "Value": 5.0, "Durability": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Für Tageswanderer, die den besten Allrounder suchen", "offerId": "salomon-x-ultra-4-gtx", "reason": "Gore-Tex EC, Contagrip MA und Advanced Chassis in einem Paket mit der kürzesten Einlaufzeit im Vergleich."},
+    {"label": "Für kilometerreiche Tage und Ermüdungsreduzierung", "offerId": "hoka-anacapa-mid-gtx", "reason": "Maximale Dämpfung plus Vibram Megagrip ist die effektivste Ermüdungsreduzierungs-Kombination für 15+ km-Tage."},
+    {"label": "Für technisches Gelände und Felsklettern", "offerId": "la-sportiva-tx4-gtx", "reason": "FriXion AT Rand und Megagrip ermöglichen Zustiegsfähigkeit, die kein anderer Schuh in diesem Vergleich bieten kann."}
+  ]
 }

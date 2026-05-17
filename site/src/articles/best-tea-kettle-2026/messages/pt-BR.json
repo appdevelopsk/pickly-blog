@@ -108,5 +108,64 @@
     "fellow-stagg-ekg": "Referência de chaleira elétrica de pescoço de ganso de precisão para café coado — Fellow Stagg EKG chaleira elétrica de 0,9 L com cabo contrabalançado, dial de temperatura contínuo (aproximadamente 60-100°C), manutenção de calor de 60 minutos, acabamento preto fosco. Preço de importação de ¥165+; a disponibilidade nos varejistas japoneses é inconsistente com desabastecimentos ocasionais de várias semanas."
   },
   "pinDescription": "Cinco chaleiras comparadas em 2026 — do ícone de design Balmuda The Pot de ¥15.000 (600 ml, sem controle de temperatura, mas impressionante em uma prateleira de cozinha) à referência de precisão de café coado Fellow Stagg EKG. Pescoço de ganso vs bico largo explicados honestamente, temperatura para chá verde e café, capacidade para 1-4 pessoas. #chaleira #cafécoado #chájapones #cozinha2026 #português",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Cada chaleira foi avaliada no tipo de bico e controle do arco de versagem para uso em pour-over e cerimônia do chá, precisão do controle de temperatura para extração de chá verde e café, adequação da capacidade para lares de 1 a 4 pessoas e vida útil realista baseada nos modos de falha dominantes de avaliações de proprietários a longo prazo.",
+  "products": [
+    {
+      "offerId": "fellow-stagg-ekg",
+      "badge": "Melhor no Geral",
+      "review": "A alça balanceada e o botão de temperatura contínuo do Fellow Stagg EKG fazem dele a chaleira pour-over mais precisa deste grupo — configure 93 °C e mantenha-o por 60 minutos sem gerenciar um fogão. A capacidade de 0,9 L é apertada para infusões consecutivas, e a disponibilidade no Japão oscila com esgotamentos de estoque de várias semanas.",
+      "pros": ["Botão de temperatura contínuo de ~60 a 100 °C", "60 minutos de manutenção de temperatura para pour-over sem intervenção manual", "Alça balanceada permite uma versagem lenta e precisa com bico de pescoço de ganso"],
+      "cons": ["0,9 L requer reabastecimento no meio da sessão para lares que preparam várias xícaras", "O preço de importação no Japão é 20-40% superior ao MSRP americano com esgotamentos ocasionais"],
+      "grade": "A+",
+      "specs": {"Capacidade": "0,9 L", "Bico": "Pescoço de ganso", "Controle de temperatura": "Botão contínuo ~60-100 °C", "Manutenção": "60 min", "Aquecimento": "Elétrico", "Preço": "US$165+ (importação)"},
+      "scores": {"Velocidade de aquecimento": 4.3, "Controle de temperatura": 5.0, "Qualidade de construção": 4.9, "Custo-benefício": 3.5, "Capacidade": 3.2}
+    },
+    {
+      "offerId": "balmuda-the-pot",
+      "badge": "Melhor Design",
+      "review": "O Balmuda The Pot é a chaleira mais bonita desta comparação e é honesto sobre suas limitações — 600 ml, sem controle de temperatura, sem manutenção de calor, apenas um pescoço de ganso de aço inoxidável fosco com o visual exato para uma bancada de apartamento em Tóquio. Os ¥15.000 são pagos pelo design, não pelas especificações de preparo.",
+      "pros": ["Design icônico em aço inoxidável fosco que merece seu espaço na bancada", "Bico ultraestreito oferece controle razoável do arco de versagem", "Compatível com IH e gás sem componentes digitais que possam falhar"],
+      "cons": ["600 ml mal cobre duas xícaras para lares com mais de duas pessoas", "Sem controle de temperatura e sem manutenção — requer o método ferver-e-esperar"],
+      "grade": "A",
+      "specs": {"Capacidade": "600 ml", "Bico": "Pescoço de ganso ultraestreito", "Controle de temperatura": "Nenhum", "Manutenção": "Nenhum", "Aquecimento": "IH/fogão a gás", "Preço": "~¥15.000"},
+      "scores": {"Velocidade de aquecimento": 3.8, "Controle de temperatura": 1.0, "Qualidade de construção": 4.8, "Custo-benefício": 3.2, "Capacidade": 2.5}
+    },
+    {
+      "offerId": "hario-v60-buono-kettle",
+      "badge": "Melhor para Fogão",
+      "review": "O Hario V60 Drip Kettle Buono é a chaleira na qual a comunidade japonesa de pour-over se padronizou — 1,2 L de aço inoxidável, pescoço de ganso de precisão e um arco de versagem em que o mundo do café especial confia há mais de uma década. Sem manutenção elétrica significa gerenciar o queimador por conta própria, e a alça aquece em fogões a gás mais rápido que o esperado.",
+      "pros": ["1,2 L cobre duas a três doses de pour-over sem reabastecimento", "Arco de versagem de pescoço de ganso comprovado para V60, Chemex e Kalita Wave", "Interior totalmente em aço inoxidável, inerte e fácil de limpar"],
+      "cons": ["Sem manutenção — gerenciamento do queimador necessário durante uma sessão pour-over", "A alça aquece em fogões a gás e precisa de luva após uso prolongado"],
+      "grade": "B+",
+      "specs": {"Capacidade": "1,2 L", "Bico": "Pescoço de ganso", "Controle de temperatura": "Nenhum (apenas controle do fogão)", "Manutenção": "Nenhum", "Aquecimento": "IH/fogão a gás", "Preço": "~$65"},
+      "scores": {"Velocidade de aquecimento": 3.5, "Controle de temperatura": 2.0, "Qualidade de construção": 4.5, "Custo-benefício": 4.7, "Capacidade": 4.2}
+    },
+    {
+      "offerId": "zojirushi-keep-warm-pot",
+      "badge": "Melhor para Água Quente o Dia Todo",
+      "review": "O Zojirushi CV-GB22 não é uma chaleira pour-over — é uma estação de água quente. Encha uma vez, configure uma das quatro temperaturas (60/70/80/98 °C) e dispense o dia todo sem ferver novamente. O dispensador de bomba e o travamento de segurança para crianças o tornam a escolha certa para lares que precisam continuamente de água quente, embora ocupe espaço considerável na bancada.",
+      "pros": ["Quatro predefinições de temperatura (60/70/80/98 °C) para chá verde, chá preto e água fervente", "Manutenção de calor o dia todo com refervura automática — sem reaquecimento manual", "Trava de tampa de segurança para crianças e certificação PSE para uso permanente"],
+      "cons": ["Eletrodoméstico de bancada estacionário — mais volumoso que qualquer chaleira convencional", "O mecanismo de bomba requer descalcificação mensal a bimestral em áreas de água dura"],
+      "grade": "B",
+      "specs": {"Capacidade": "2,2 L", "Bico": "Dispensador de bomba", "Configurações de temperatura": "60/70/80/98 °C", "Manutenção": "O dia todo (refervura automática)", "Aquecimento": "Elétrico", "Preço": "¥6.578"},
+      "scores": {"Velocidade de aquecimento": 3.0, "Controle de temperatura": 4.5, "Qualidade de construção": 4.6, "Custo-benefício": 4.8, "Capacidade": 5.0}
+    },
+    {
+      "offerId": "delonghi-icona-vintage-kettle",
+      "badge": "Melhor para Lares Grandes",
+      "review": "O De'Longhi Icona Vintage ferve 1,7 L rapidamente, fica em uma base giratória 360° sem fio e tem boa aparência em uma cozinha mid-century. É a escolha direta para lares de três ou quatro pessoas que querem fervura rápida e bico largo — só não para café pour-over ou chá de precisão.",
+      "pros": ["1,7 L cobre quatro xícaras em uma única carga", "Base giratória 360° sem fio e bico largo antigotejamento", "Fervura rápida com desligamento automático"],
+      "cons": ["O bico largo é muito rápido para café pour-over ou preparações de precisão", "Pesado quando cheio (~2,5 kg); o interior de plástico acumula calcário mais rápido em áreas de água dura"],
+      "grade": "B-",
+      "specs": {"Capacidade": "1,7 L", "Bico": "Largo (antigotejamento)", "Controle de temperatura": "Nenhum", "Manutenção": "Nenhum", "Aquecimento": "Elétrico 360° sem fio", "Preço": "$89,99"},
+      "scores": {"Velocidade de aquecimento": 4.8, "Controle de temperatura": 1.0, "Qualidade de construção": 3.8, "Custo-benefício": 4.0, "Capacidade": 4.8}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para entusiastas do café pour-over", "offerId": "fellow-stagg-ekg", "reason": "O botão de temperatura contínuo e os 60 minutos de manutenção permitem configurar 93 °C e mantê-lo durante toda uma sessão de pour-over sem vigiar o fogão."},
+    {"label": "Para minimalistas com consciência de design", "offerId": "balmuda-the-pot", "reason": "O pescoço de ganso de aço inoxidável fosco é a chaleira mais fotogênica desta comparação — vale ¥15.000 se a estética da bancada importa para você."},
+    {"label": "Para preparadores de pour-over no fogão", "offerId": "hario-v60-buono-kettle", "reason": "A chaleira de pescoço de ganso de referência da comunidade japonesa de café especial a uma fração do preço das alternativas elétricas — deixa orçamento para um moedor melhor."},
+    {"label": "Para lares com água quente o dia todo", "offerId": "zojirushi-keep-warm-pot", "reason": "Encha uma vez e tenha quatro opções de temperatura prontas o dia todo — ideal quando várias pessoas precisam de água quente em diferentes momentos do dia."},
+    {"label": "Para famílias de três ou quatro pessoas", "offerId": "delonghi-icona-vintage-kettle", "reason": "1,7 L de fervura rápida cobre quatro xícaras em uma única carga sem reabastecimento, a um preço direto para uso geral de água quente."}
+  ]
 }

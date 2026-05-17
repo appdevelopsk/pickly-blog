@@ -58,5 +58,174 @@
     "lion-mane-mushroom-powder": "Polvere pura di estratto di lion's mane, tipicamente 500mg-1g per porzione, 50-100 porzioni. $20-35. Miglior approccio fai-da-te — aggiungi a qualsiasi caffe per un dosaggio preciso a quantita clinicamente rilevanti. Il piu conveniente per la supplementazione quotidiana di lion's mane."
   },
   "pinDescription": "Caffe ai funghi 2026: Four Sigmatic vs Ryze vs Om vs Earth & Star — cosa dice davvero la ricerca su lion's mane e cordyceps, se le dosi del caffe ai funghi sono significative, come leggere le etichette per il contenuto di beta-glucani e se la polvere di lion's mane fai-da-te batte i blend premiscelati. #italia",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Ogni caffè ai funghi è stato valutato in base alle specie di funghi utilizzate, alla trasparenza del dosaggio per porzione, al metodo di estrazione (doppio estratto vs. polvere intera), al livello di caffeina, all'integrazione del sapore e al costo per porzione rispetto all'acquisto separato di caffè e integratori.",
+  "products": [
+    {
+      "offerId": "four-sigmatic-think-coffee",
+      "badge": "Migliore in Assoluto",
+      "review": "Four Sigmatic ha reso popolare il caffè ai funghi e rimane il punto di riferimento per la qualità. Il blend Think utilizza la doppia estrazione (acqua calda + alcol) su arabica biologica, fornendo 250 mg di criniera di leone e 200 mg di chaga per porzione con una migliore biodisponibilità rispetto ai prodotti a base di polvere grezza. Il gusto è genuinamente orientato al caffè con una lieve nota terrosa — non medicinale. Il sacchetto da 12 porzioni lo rende l'opzione più costosa per porzione, ma la qualità dell'estrazione lo giustifica per l'uso regolare.",
+      "pros": [
+        "La doppia estrazione aumenta la biodisponibilità dei composti attivi",
+        "250 mg di criniera di leone + 200 mg di chaga per porzione indicata",
+        "Migliore integrazione del sapore — nota terrosa presente ma non invadente"
+      ],
+      "cons": [
+        "28,50 $ per 12 porzioni — l'opzione più costosa per porzione qui"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Funghi": "Criniera di leone + chaga",
+        "Criniera di leone per porzione": "250 mg",
+        "Chaga per porzione": "200 mg",
+        "Estrazione": "Doppia estrazione",
+        "Porzioni": "12",
+        "Base caffè": "Arabica biologica"
+      },
+      "scores": {
+        "Sapore": 4.8,
+        "Qualità fungo": 4.9,
+        "Valore": 3.5,
+        "Comodità": 5.0,
+        "Benefici funzionali": 4.6
+      }
+    },
+    {
+      "offerId": "ryze-mushroom-coffee",
+      "badge": "Miglior Rapporto Qualità-Prezzo",
+      "review": "Ryze è il caffè ai funghi più venduto per volume, e il costo di 1,50 $/porzione per 30 porzioni è il più competitivo di questo confronto. Il blend di 6 funghi totalizza 2.000 mg per porzione, sebbene le dosi individuali di funghi non vengano divulgate. Con 48 mg di caffeina per porzione — circa la metà del caffè filtro — è la scelta giusta per chi riduce la caffeina mantenendo il rituale mattutino.",
+      "pros": [
+        "1,50 $/porzione — miglior costo per porzione dei blend di caffè ai funghi completi",
+        "Il blend di 6 funghi totalizza 2.000 mg per porzione",
+        "Bassa caffeina a 48 mg — adatto agli utenti sensibili alla caffeina"
+      ],
+      "cons": [
+        "Le dosi individuali di funghi non vengono divulgate — impossibile valutare l'efficacia per specie"
+      ],
+      "grade": "A",
+      "specs": {
+        "Funghi": "Blend 6: criniera di leone, cordyceps, reishi, shiitake, coda di tacchino, tromba del re",
+        "Totale funghi per porzione": "2.000 mg",
+        "Caffeina per porzione": "48 mg",
+        "Porzioni": "30",
+        "Base caffè": "Arabica biologica",
+        "Divulgazione blend": "Blend proprietario"
+      },
+      "scores": {
+        "Sapore": 4.3,
+        "Qualità fungo": 4.1,
+        "Valore": 5.0,
+        "Comodità": 5.0,
+        "Benefici funzionali": 4.0
+      }
+    },
+    {
+      "offerId": "om-mushroom-master-blend",
+      "badge": "Miglior Bio",
+      "review": "Il Master Blend di Om è l'opzione più certificata e trasparente — USDA biologico, polvere di fungo intero a spettro completo (non solo estratto), testata da terzi e 10 specie di funghi. A 19,99 $ per 30 porzioni, Om offre anche un buon rapporto qualità-prezzo. Lo svantaggio è che è una polvere di fungo puro da aggiungere al proprio caffè, non un prodotto premiscelato.",
+      "pros": [
+        "Certificazione USDA biologico e test di terze parti",
+        "Polvere di fungo intero a spettro completo — 10 specie",
+        "Miglior valore per qualità di fungo biologico certificato"
+      ],
+      "cons": [
+        "Non premiscelato con il caffè — richiede acquisto separato del caffè"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Funghi": "Blend 10 specie",
+        "Certificazione": "USDA Biologico",
+        "Tipo di polvere": "Fungo intero",
+        "Test": "Verificato da terzi",
+        "Porzioni": "30",
+        "Formato": "Polvere da aggiungere al caffè"
+      },
+      "scores": {
+        "Sapore": 4.0,
+        "Qualità fungo": 5.0,
+        "Valore": 4.7,
+        "Comodità": 3.8,
+        "Benefici funzionali": 4.8
+      }
+    },
+    {
+      "offerId": "earth-and-star-mushroom-coffee",
+      "badge": "Migliore Trasparenza",
+      "review": "Earth & Star indica il contenuto di funghi per porzione per ogni specie — criniera di leone, chaga e reishi — il che è più onesto dell'approccio con blend proprietario. Base di caffè biologico, sapore delicato e gradevole, e confezione attraente che lo rende una ragionevole opzione regalo. Le dosi sono indicate ma non a livelli clinici, quindi è un prodotto onesto e ben realizzato piuttosto che un integratore di grado terapeutico.",
+      "pros": [
+        "Dose di funghi per porzione indicata per ogni specie",
+        "Base di caffè biologico con sapore delicato e gradevole",
+        "Offre varianti di matcha ai funghi e cioccolata calda"
+      ],
+      "cons": [
+        "Le dosi di funghi sono inferiori ai livelli di ricerca clinica — prodotto di benessere più che integratore"
+      ],
+      "grade": "B",
+      "specs": {
+        "Funghi": "Criniera di leone + chaga + reishi",
+        "Trasparenza del dosaggio": "Etichettato per specie",
+        "Base caffè": "Biologico",
+        "Porzioni": "30",
+        "Prodotti aggiuntivi": "Matcha ai funghi, cioccolata calda",
+        "Prezzo per porzione": "~0,83 $"
+      },
+      "scores": {
+        "Sapore": 4.4,
+        "Qualità fungo": 4.3,
+        "Valore": 4.4,
+        "Comodità": 4.8,
+        "Benefici funzionali": 4.0
+      }
+    },
+    {
+      "offerId": "lion-mane-mushroom-powder",
+      "badge": "Migliore DIY",
+      "review": "Aggiungere polvere di estratto puro di criniera di leone al caffè esistente è l'approccio più conveniente e con miglior controllo del dosaggio in questo confronto. A 500 mg–1 g per porzione e 50–100 porzioni per sacchetto, è possibile raggiungere il limite inferiore delle dosi studiate nella ricerca umana scegliendo il caffè che si preferisce. Impatto minimo sul sapore a dosi fino a 1.000 mg.",
+      "pros": [
+        "Dosaggio preciso a 500 mg–1 g — il più vicino alle quantità studiate clinicamente",
+        "50–100 porzioni per sacchetto — il maggior numero di porzioni per euro",
+        "Nessun compromesso sul sapore — da aggiungere a qualsiasi caffè si ami già"
+      ],
+      "cons": [
+        "Richiede la gestione di due prodotti separati; non è una soluzione di acquisto unico"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Fungo": "Estratto puro di criniera di leone",
+        "Dose per porzione": "500 mg–1 g",
+        "Porzioni": "50–100",
+        "Estrazione": "Polvere estratto",
+        "Impatto sul sapore": "Minimo",
+        "Fascia di prezzo": "20–35 $"
+      },
+      "scores": {
+        "Sapore": 4.0,
+        "Qualità fungo": 4.8,
+        "Valore": 5.0,
+        "Comodità": 3.0,
+        "Benefici funzionali": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per i principianti del caffè ai funghi",
+      "offerId": "four-sigmatic-think-coffee",
+      "reason": "La doppia estrazione e la buona integrazione del sapore di Four Sigmatic lo rendono l'introduzione più affidabile alla categoria — qualità consolidata con un periodo di adattamento minimo."
+    },
+    {
+      "label": "Per i bevitori abituali che riducono la caffeina",
+      "offerId": "ryze-mushroom-coffee",
+      "reason": "Con 48 mg di caffeina e 1,50 $/porzione per 30 porzioni, Ryze è l'opzione di abitudine quotidiana più sostenibile per chi riduce la caffeina senza abbandonare il rituale mattutino."
+    },
+    {
+      "label": "Per gli acquirenti esclusivamente bio",
+      "offerId": "om-mushroom-master-blend",
+      "reason": "USDA biologico, testato da terzi, polvere di fungo intero di 10 specie — l'opzione più accreditata per gli acquirenti che richiedono certificazione e trasparenza."
+    },
+    {
+      "label": "Per gli integratori di precisione",
+      "offerId": "lion-mane-mushroom-powder",
+      "reason": "La polvere di estratto puro consente di aggiungere una dose controllata di 500–1.000 mg a qualsiasi caffè — il percorso più conveniente verso un apporto di criniera di leone clinicamente rilevante."
+    }
+  ]
 }

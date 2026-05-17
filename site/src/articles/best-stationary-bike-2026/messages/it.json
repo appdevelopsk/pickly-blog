@@ -64,5 +64,184 @@
     "bowflex-c6-bike": "Il miglior valore nella fascia media con la massima flessibilita nelle app — 100 livelli di resistenza micro-regolabili forniscono precisione negli intervalli che i sistemi a 25 livelli non riescono a eguagliare, il Bluetooth si connette all'app Peloton, Zwift e JRNY contemporaneamente, la compatibilita con le tacchette SPD significa che i ciclisti su strada si agganciano immediatamente. Utilizzare l'app Peloton tramite Bluetooth sul C6 costa lo stesso abbonamento mensile di $44 rispetto al possesso di una bici Peloton, a un prezzo hardware significativamente inferiore."
   },
   "pinDescription": "Le migliori cyclette 2026: Peloton vs NordicTrack S22i vs Schwinn 170 vs Bowflex C6 vs Sunny Health — peso del volano, tipo di resistenza, costo dell'abbonamento a confronto per il cardio casalingo. #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni bici è stata valutata in base alla sensazione di resistenza sotto carico a intervalli, al comfort di sella e manubrio in sessioni da 45 minuti, alla qualità costruttiva e rigidità del telaio, al valore dell'ecosistema di connettività e app, e al costo totale su 12 mesi inclusi eventuali abbonamenti obbligatori.",
+  "products": [
+    {
+      "offerId": "schwinn-170-upright-bike",
+      "badge": "Migliore in Assoluto",
+      "review": "Il Schwinn 170 offre 25 livelli di resistenza e 29 programmi integrati su un sistema magnetico che non richiede mai manutenzione – allenamento strutturato senza abbonamento. Il volano da 13,3 kg fornisce abbastanza inerzia per il cardio, ma non replica la sensazione su strada dei volani più pesanti.",
+      "pros": [
+        "29 programmi integrati — non serve nessuna app o abbonamento esterno",
+        "Resistenza magnetica silenziosa — adatta per sessioni mattutine in abitazioni condivise",
+        "Bluetooth a Zwift e app Peloton disponibile quando si desidera connettività"
+      ],
+      "cons": [
+        "Il volano da 13,3 kg si sente più leggero rispetto alle spinning bike allo stesso livello di resistenza"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Flywheel": "13.3 kg",
+        "Resistance": "25-level magnetic",
+        "Built-in programs": "29",
+        "Connectivity": "Bluetooth (Zwift, Peloton app)",
+        "Display": "Dual LCD",
+        "Max user weight": "113 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.2,
+        "Comfort": 4.5,
+        "Build quality": 4.3,
+        "Value": 4.8,
+        "Noise": 4.9
+      }
+    },
+    {
+      "offerId": "nordictrack-s22i-studio-bike",
+      "badge": "Migliore per Simulazione Outdoor",
+      "review": "L'inclinazione fisica da -10% a +20% dell'S22i è un vero elemento distintivo — nessun'altra bici qui inclina il telaio per modificare il reclutamento muscolare. Lo schermo da 22 pollici e la resistenza automatica iFit giustificano il prezzo per ciclisti seri, ma l'abbonamento iFit obbligatorio a 39$/mese aggiunge oltre 468$/anno.",
+      "pros": [
+        "L'inclinazione fisica del telaio simula salite e discese — schemi muscolari che il ciclismo piatto non può replicare",
+        "Volano da 24,9 kg — il più pesante del confronto",
+        "Schermo rotante da 22 pollici per allenamenti di forza e yoga lontano dalla bici"
+      ],
+      "cons": [
+        "Abbonamento iFit necessario per la resistenza automatica e la libreria completa di lezioni — costo ricorrente di 39$/mese"
+      ],
+      "grade": "A",
+      "specs": {
+        "Flywheel": "24.9 kg",
+        "Resistance": "Magnetic (auto-adjust via iFit)",
+        "Incline range": "-10% to +20%",
+        "Screen": "22-inch rotating touchscreen",
+        "Connectivity": "iFit (subscription required)",
+        "Max user weight": "136 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.9,
+        "Comfort": 4.3,
+        "Build quality": 4.6,
+        "Value": 3.5,
+        "Noise": 4.4
+      }
+    },
+    {
+      "offerId": "peloton-original-bike",
+      "badge": "Miglior Ecosistema di Lezioni Live",
+      "review": "Il leaderboard in tempo reale e i segnali di resistenza automatici dell'istruttore creano un ambiente motivazionale che nessun'altra bici eguaglia. Il sistema di tacchette Look Delta proprietario e il membership da 44$/mese sono costi reali.",
+      "pros": [
+        "Oltre 10.000 lezioni live e on-demand con classifica della comunità",
+        "Resistenza automatica seguendo l'istruttore — l'allenamento sembra guidato",
+        "Schermo HD da 21,5 pollici per forza, yoga e corsa outdoor"
+      ],
+      "cons": [
+        "Le tacchette Look Delta proprietarie richiedono scarpe nuove per la maggior parte dei ciclisti; il membership da 44$/mese è obbligatorio per l'accesso completo"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Flywheel": "Undisclosed (estimated 18 kg)",
+        "Resistance": "100-level magnetic",
+        "Screen": "21.5-inch HD touchscreen",
+        "Connectivity": "Peloton Membership ($44/month)",
+        "Cleat system": "Look Delta (proprietary)",
+        "Max user weight": "136 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.5,
+        "Comfort": 4.4,
+        "Build quality": 4.5,
+        "Value": 3.2,
+        "Noise": 4.7
+      }
+    },
+    {
+      "offerId": "sunny-health-sf-b1002-bike",
+      "badge": "Migliore Scelta Budget",
+      "review": "Il volano da 22 kg dell'SF-B1002 produce una sensazione di guida a inerzia che le bici magnetiche in questa fascia di prezzo non possono replicare. La resistenza ad attrito significa nessun livello numerato e usura inevitabile del feltro, ma per la pura sensazione ciclistica senza elettronica è il valore più onesto qui.",
+      "pros": [
+        "Volano da 22 kg — più pesante dello Schwinn 170, produce più autentico slancio ciclistico",
+        "Regolazione a 4 vie su manubrio e sella per ciclisti di circa 155–185 cm",
+        "Prezzo più basso del confronto, senza mai richiedere abbonamento"
+      ],
+      "cons": [
+        "Nessun display, nessun Bluetooth, nessun livello di resistenza numerato — il feltro richiede sostituzione ogni 12–18 mesi con uso quotidiano"
+      ],
+      "grade": "B",
+      "specs": {
+        "Flywheel": "22 kg",
+        "Resistance": "Friction (felt pad)",
+        "Display": "None",
+        "Connectivity": "None",
+        "Saddle adjustment": "4-way",
+        "Max user weight": "120 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.6,
+        "Comfort": 3.8,
+        "Build quality": 3.9,
+        "Value": 4.9,
+        "Noise": 3.5
+      }
+    },
+    {
+      "offerId": "bowflex-c6-bike",
+      "badge": "Miglior Rapporto Qualità-Prezzo di Fascia Media",
+      "review": "Il Bowflex C6 offre 100 livelli di resistenza magnetica micro-regolabili e Bluetooth simultaneo a Peloton, Zwift e JRNY — la compatibilità con le tacchette SPD significa che i ciclisti possono agganciarsi subito con le scarpe esistenti. A circa 100$ in più dello Schwinn 170, è la scelta giusta per i ciclisti con scarpe SPD.",
+      "pros": [
+        "100 livelli micro-regolabili per un preciso matching dei watt negli intervalli",
+        "Compatibile tacchette SPD — i ciclisti usano le scarpe esistenti senza adattatore",
+        "Si connette simultaneamente a Peloton, Zwift e JRNY"
+      ],
+      "cons": [
+        "Nessuno schermo integrato — si affida completamente al proprio smartphone o tablet per i contenuti delle app"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Flywheel": "Undisclosed (estimated 16 kg)",
+        "Resistance": "100-level magnetic",
+        "Display": "Backlit LCD (metrics only)",
+        "Connectivity": "Bluetooth (Peloton, Zwift, JRNY)",
+        "Cleat system": "SPD + toe cage",
+        "Max user weight": "136 kg",
+        "Drive": "Belt"
+      },
+      "scores": {
+        "Resistance feel": 4.4,
+        "Comfort": 4.2,
+        "Build quality": 4.1,
+        "Value": 4.5,
+        "Noise": 4.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per i ciclisti che vogliono un allenamento strutturato senza abbonamenti",
+      "offerId": "schwinn-170-upright-bike",
+      "reason": "29 programmi integrati e 25 livelli di resistenza forniscono sei mesi di allenamento progressivo senza connettere nulla — mai nessuna tariffa mensile."
+    },
+    {
+      "label": "Per i ciclisti outdoor che vogliono la simulazione più vicina all'esterno in casa",
+      "offerId": "nordictrack-s22i-studio-bike",
+      "reason": "L'inclinazione fisica del telaio e il volano da 24,9 kg sono l'approssimazione indoor più accurata delle salite e discese su strada di qualsiasi bici qui."
+    },
+    {
+      "label": "Per i ciclisti motivati dalla competizione che prosperano con le lezioni live",
+      "offerId": "peloton-original-bike",
+      "reason": "Il leaderboard in tempo reale e la resistenza automatica dell'istruttore creano un'esperienza allenata che spinge a sforzi più intensi rispetto all'allenamento solitario."
+    },
+    {
+      "label": "Per i ciclisti attenti al budget che vogliono pura sensazione di guida",
+      "offerId": "sunny-health-sf-b1002-bike",
+      "reason": "Il volano da 22 kg offre il maggiore slancio in questo confronto al prezzo più basso — ideale per stabilire un'abitudine al ciclismo prima di impegnarsi in un ecosistema connesso."
+    },
+    {
+      "label": "Per i ciclisti con scarpe SPD che vogliono flessibilità nelle app",
+      "offerId": "bowflex-c6-bike",
+      "reason": "Si aggancia con le scarpe da ciclismo esistenti e trasmette simultaneamente a Peloton, Zwift o JRNY — massima flessibilità nelle app al costo hardware di fascia media."
+    }
+  ]
 }

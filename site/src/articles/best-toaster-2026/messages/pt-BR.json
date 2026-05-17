@@ -100,5 +100,64 @@
     "zojirushi-kongari-et-wma22": "Escolha prática -- aquecedor de 1300 W com cinco modos predefinidos (torrada, torrada congelada, kashi-pan, reaquecimento de croissant, temperatura manual), largura interna de 22 cm, vida útil realista de 7-10 anos e disponibilidade de peças de 8-10 anos pós-descontinuação, pegada compacta de 32 cm de largura. Sem injeção de vapor; modos predefinidos básicos e o dial de temperatura não ultrapassa 250 graus Celsius; o design é funcional japonês e não merece seu lugar na bancada por estética."
   },
   "pinDescription": "Cinco torradeiras comparadas em 2026 de uma Zojirushi prática de 9.900 ienes a uma Panasonic Bistro NT-D700 multifunção de 42.000 ienes. Injeção de vapor vs tubo de grafite vs convecção vs cavidade fechada de uma fatia, custo de eletricidade por fatia, espaço na bancada de uma cozinha japonesa de apartamento, e a letra miúda de manutenção que cada marca ignora. #torradeira #cozinha #casa #português",
-  "methodology": "We assessed each product on real-world durability, ease of daily use, performance against marketing claims, build quality, and long-term value. Manufacturer specifications were validated against verified owner reviews."
+  "methodology": "Cada torradeira foi avaliada com base na tecnologia do elemento de aquecimento (tubo de grafite vs injeção de vapor vs convecção vs aquecedor de bainha), nas avaliações de uniformidade da crosta no Rakuten e kakaku.com, na pegada na bancada e facilidade de limpeza, e na vida útil realista em domicílios de uso duas vezes ao dia.",
+  "products": [
+    {
+      "offerId": "balmuda-the-toaster-k11a",
+      "badge": "Melhor Design e Vapor",
+      "review": "A injeção de vapor de 5 ml da Balmuda melhora notavelmente o shokupan de um dia — a crosta fica crocante por fora preservando a umidade interior. O design industrial icônico merece seu lugar na bancada. A fraqueza honesta: 4-6 anos de vida útil realista, o interior é difícil de limpar, e a xícara de água deve ser preenchida antes de cada uso.",
+      "pros": ["A injeção de vapor melhora significativamente o shokupan de um dia", "Pegada compacta de 35,7 cm cabe em mais cozinhas que o NT-D700", "Design Balmuda icônico como eletrodoméstico declaração de design"],
+      "cons": ["4-6 anos de vida útil realista com falha do mecanismo de vapor como modo de fim de vida dominante"],
+      "grade": "A+",
+      "specs": {"Aquecimento": "Injeção de vapor (xícara 5 ml) + aquecedor de bainha", "Potência": "1.300 W", "Largura": "35,7 cm", "Modos": "5 predefinições (torrada, sanduíche, confeitaria, francês, forno)", "Volume vapor": "5 ml por ciclo", "Vida útil": "4-6 anos (típico)", "Preço": "~30.800 ienes"},
+      "scores": {"Toast evenness": 4.8, "Speed": 4.0, "Build quality": 4.2, "Value": 3.5, "Slot size": 3.8}
+    },
+    {
+      "offerId": "aladdin-aet-gs13c",
+      "badge": "Melhor Tubo de Grafite",
+      "review": "Os tubos de grafite frontais e traseiros da Aladdin atingem 250 °C em 0,2 segundos — ideal para baguetes e pães de crosta dura que precisam de aquecimento intenso da superfície. A estética retro-britânica é marcante. Sem elemento de aquecimento inferior significa virar manualmente para douramento dos dois lados.",
+      "pros": ["Tubos de grafite atingem 250 °C em 0,2 segundos para crosta intensa", "Acomoda pizza de 25 cm ou baguete na diagonal", "Estética retro-britânica que se distingue das alternativas japonesas"],
+      "cons": ["Sem elemento de aquecimento inferior — é necessário virar manualmente para douramento dos dois lados"],
+      "grade": "A",
+      "specs": {"Aquecimento": "Tubo de grafite (frontal + traseiro superior)", "Potência": "1.300 W", "Temperatura máx": "280 °C", "Temporizador": "13 minutos", "Largura interior": "~25 cm", "Vida útil": "5-7 anos", "Preço": "~17.600 ienes"},
+      "scores": {"Toast evenness": 3.8, "Speed": 5.0, "Build quality": 4.0, "Value": 4.2, "Slot size": 4.5}
+    },
+    {
+      "offerId": "mitsubishi-bread-oven-to-st1",
+      "badge": "Melhor para Domicílios Individuais",
+      "review": "O design de cavidade fechada da Mitsubishi retém o vapor liberado pelo pão — o resultado em uma única fatia de shokupan é qualidade quase recém-saída-da-padaria. A Mitsubishi o comercializa explicitamente como 'não para famílias', e isso deve ser levado a sério: 16+ minutos em série para quatro fatias.",
+      "pros": ["A cavidade fechada preserva a umidade interior melhor do que qualquer máquina de cavidade aberta", "Ciclo de 4 minutos para uma fatia de shokupan perfeita", "Design compacto para domicílios individuais"],
+      "cons": ["Faz apenas uma fatia por vez — errado para famílias (16+ minutos em série para quatro pessoas)"],
+      "grade": "B+",
+      "specs": {"Design": "Cavidade fechada (uma fatia)", "Espessura fatia": "Otimizado para shokupan de 1,4 cm", "Potência": "1.270 W", "Ciclo": "~4 minutos por fatia", "Público alvo": "Domicílios individuais e casais", "Vida útil": "4-6 anos", "Preço": "~34.000 ienes"},
+      "scores": {"Toast evenness": 5.0, "Speed": 3.0, "Build quality": 4.5, "Value": 3.0, "Slot size": 2.0}
+    },
+    {
+      "offerId": "panasonic-bistro-nt-d700",
+      "badge": "Melhor Multifunção",
+      "review": "O ventilador de convecção e o range 100-260 °C do Panasonic Bistro cobrem genuinamente torradas, pizza congelada, gratinado e coxas de frango — a única máquina aqui que domina todos os quatro casos de uso sem compromissos. A pegada de 39,8 cm é genuinamente grande para uma cozinha de apartamento japonês.",
+      "pros": ["Convecção mais 100-260 °C cobre torradas e funções de forno pequeno", "Suporte pós-venda mais forte através do serviço nacional da Panasonic", "Cavidade interna de 30 cm acomoda pizza de 25 cm ou coxas de frango pequenas"],
+      "cons": ["39,8 cm de largura e 32,5 cm de profundidade — genuinamente grande para cozinhas de apartamento japonês"],
+      "grade": "B",
+      "specs": {"Aquecimento": "Convecção + elementos de aquecimento duplos", "Potência": "1.300 W", "Temperatura": "100-260 °C", "Largura": "39,8 cm", "Profundidade": "32,5 cm", "Cavidade interna": "30 cm", "Preço": "~42.000 ienes"},
+      "scores": {"Toast evenness": 4.3, "Speed": 4.0, "Build quality": 4.7, "Value": 3.8, "Slot size": 5.0}
+    },
+    {
+      "offerId": "zojirushi-kongari-et-wma22",
+      "badge": "Melhor Custo-Benefício",
+      "review": "O ET-WMA22 da Zojirushi é a torradeira de duas fatias confiável abaixo de 10.000 ienes com 7-10 anos de vida útil realista e 8-10 anos de disponibilidade de peças. Sem vapor — a torrada normal sai notavelmente mais seca — mas para domicílios sem foco em shokupan faz o trabalho sem o sobrecusto de design.",
+      "pros": ["7-10 anos de vida útil realista — a mais longa entre as cinco", "Abaixo de 10.000 ienes com suporte pós-venda completo de marca japonesa", "Pegada compacta de 32 cm cabe em qualquer cozinha de apartamento"],
+      "cons": ["Sem vapor — a torrada sai notavelmente mais seca do que nas máquinas com injeção de vapor"],
+      "grade": "B-",
+      "specs": {"Aquecimento": "Aquecedor de bainha", "Potência": "1.300 W", "Modos": "5 predefinições (torrada, congelada, kashi-pan, croissant, manual)", "Largura interior": "22 cm", "Largura": "32 cm", "Vida útil": "7-10 anos", "Preço": "~9.900 ienes"},
+      "scores": {"Toast evenness": 3.8, "Speed": 3.8, "Build quality": 4.5, "Value": 5.0, "Slot size": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para amantes do shokupan", "offerId": "balmuda-the-toaster-k11a", "reason": "Injeção de vapor e design icônico para domicílios que valorizam o shokupan como pão principal do café da manhã e querem um eletrodoméstico declaração de design."},
+    {"label": "Para comedores de baguete e pão de crosta dura", "offerId": "aladdin-aet-gs13c", "reason": "Tubos de grafite que atingem 250 °C em 0,2 segundos oferecem a crocância intensa da superfície que os pães de crosta dura precisam."},
+    {"label": "Para domicílios individuais", "offerId": "mitsubishi-bread-oven-to-st1", "reason": "Design de cavidade fechada de uma fatia para fãs de shokupan que moram sozinhos ou em casal com café da manhã em horários diferentes."},
+    {"label": "Para cozinheiros versáteis", "offerId": "panasonic-bistro-nt-d700", "reason": "A única máquina aqui que cobre genuinamente torradas, pizza, gratinado e frango sem compromissos — para domicílios que querem substituir um forno pequeno."},
+    {"label": "Para compradores com orçamento limitado", "offerId": "zojirushi-kongari-et-wma22", "reason": "Abaixo de 10.000 ienes com 7-10 anos de confiabilidade e serviço completo de marca japonesa — a escolha honesta para domicílios sem obsessão pelo shokupan."}
+  ]
 }

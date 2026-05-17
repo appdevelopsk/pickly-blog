@@ -86,5 +86,184 @@
     "ultimate-body-press-ceiling": "Entrée économique dans la fixation permanente au plafond. Acier 1,25 pouce calibre 14, capacité 300 lbs, longueur 40 pouces. Exigence de hauteur de plafond minimale de 90 pouces."
   },
   "pinDescription": "5 barres de traction au plafond comparées : Rogue vs. Titan vs. REP vs. Pullup & Dip vs. Ultimate Body Press. Trouvez quelle barre correspond à votre hauteur de plafond, espacement des solives et charge d'entraînement — installez une fois, entraînez-vous des années. #BarreDeTractionPlafond #HomeGym #français",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Chaque barre a été évaluée sur la jauge d'acier et le diamètre du tube, la capacité de charge statique évaluée par le fabricant, la compatibilité d'espacement des solives, la profondeur et la surface du molletage, les exigences de hauteur de plafond minimale, la qualité du matériel inclus et la résistance à la corrosion pour les environnements d'installation non climatisés.",
+  "products": [
+    {
+      "offerId": "rogue-joist-mount-pullup",
+      "badge": "Meilleur Choix Global",
+      "review": "Le Rogue Joist Mount est la référence de la barre de plafond pour garage — acier 11 calibre, capacité 500 lb, portée 48 pouces et matériel de fixation inclus pour deux solives standard de 16 pouces. Le molletage à profondeur moyenne est assez agressif pour maintenir la prise lors des tractions lestées sans abîmer la peau sur les séries à nombreuses répétitions.",
+      "pros": [
+        "Acier 11 calibre et 500 lb — capacité de charge la plus élevée de cette comparaison",
+        "Revêtement en poudre de qualité rack survit aux environnements de garage non climatisés",
+        "Matériel de fixation complet inclus — pas d'achat de matériel séparé nécessaire"
+      ],
+      "cons": [
+        "Nécessite un espacement de solives standard de 16 pouces — les plafonds non standard nécessitent le Titan"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "500 lb (227 kg)",
+        "Span": "48 inches",
+        "Ceiling height min": "Standard",
+        "Mounting": "2 ceiling joists at 16-inch centers",
+        "Price": "$95.00"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 4.9,
+        "Installation ease": 4.0,
+        "Value": 4.5,
+        "Grip variety": 3.8
+      }
+    },
+    {
+      "offerId": "titan-wall-ceiling-pullup",
+      "badge": "Meilleur Multi-Angle",
+      "review": "Le support réglable de Titan se monte à n'importe quel angle entre 45 et 90 degrés sur mur ou plafond — la seule option de cette comparaison pour les inclinaisons de plafond non standard ou les installations en angle mur-plafond. Les sections de prise angulées intégrées fournissent une prise neutre sans matériel supplémentaire.",
+      "pros": [
+        "Se monte à n'importe quel angle 45–90° — résout les plafonds inclinés et les installations en coin",
+        "Sections de prise neutre intégrées sans fixations supplémentaires",
+        "Prix le plus bas pour une barre en acier classée 400 lb dans cette comparaison"
+      ],
+      "cons": [
+        "12 calibre vs. 11 calibre signifie moins de rigidité que Rogue ou REP sous haute charge"
+      ],
+      "grade": "A",
+      "specs": {
+        "Steel gauge": "12-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "400 lb (181 kg)",
+        "Span": "44 inches",
+        "Mount angle": "45–90° adjustable",
+        "Mounting": "Wall or ceiling",
+        "Price": "$85–120"
+      },
+      "scores": {
+        "Load capacity": 4.5,
+        "Stability": 4.6,
+        "Installation ease": 4.2,
+        "Value": 4.8,
+        "Grip variety": 4.7
+      }
+    },
+    {
+      "offerId": "rep-fitness-ceiling-pullup",
+      "badge": "Meilleur pour l'Entraînement à Haute Répétition",
+      "review": "La barre de 1,5 pouce de REP est la plus épaisse dans cette comparaison — ce qui entraîne passivement la force de prise à chaque série et est un vrai différenciateur. Le joint en caoutchouc au plafond élimine le bruit de grincement commun lors des cycles de charge lourde sur les solives en bois.",
+      "pros": [
+        "Barre de 1,5 pouce entraîne la prise passivement à chaque série",
+        "Joint en caoutchouc au plafond élimine le grincement des cycles de charge sur solives en bois",
+        "Molletage plus léger convient mieux à l'entraînement de poids corporel à haute répétition"
+      ],
+      "cons": [
+        "Molletage plus léger fournit moins de retour d'information lors des séries maximales lestées vs. Rogue"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Bar diameter": "1.5 inches",
+        "Load capacity": "500 lb (227 kg)",
+        "Span": "48 inches",
+        "Ceiling gasket": "Rubber (creak prevention)",
+        "Mounting": "2 ceiling joists",
+        "Price": "$80–140"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 4.8,
+        "Installation ease": 3.8,
+        "Value": 4.6,
+        "Grip variety": 3.6
+      }
+    },
+    {
+      "offerId": "probar-wall-mount-pullup",
+      "badge": "Meilleur pour les Espaces Extérieurs/Humides",
+      "review": "ProBar utilise de l'acier inoxydable 304 pour la barre et le matériel — la seule option résistante à la corrosion dans cette comparaison, et le bon choix pour toute installation extérieure, dans un garage non climatisé ou à forte humidité. La capacité de 441 lb et la portée de 39 pouces sont compétitives.",
+      "pros": [
+        "Barre et matériel en acier inoxydable 304 résistent à la corrosion dans les espaces extérieurs ou humides",
+        "Inclut des poignées parallèles étroites pour les tractions à prise neutre",
+        "Capacité de 441 lb compétitive avec les barres en acier de milieu de gamme"
+      ],
+      "cons": [
+        "Portée de 39 pouces plus courte que Rogue et REP — moins de place pour les variations à prise large"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "304 stainless steel",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "441 lb (200 kg)",
+        "Span": "39 inches",
+        "Includes": "Parallel grip attachments",
+        "Best for": "Outdoor / unconditioned spaces",
+        "Price": "$60–100"
+      },
+      "scores": {
+        "Load capacity": 4.6,
+        "Stability": 4.7,
+        "Installation ease": 4.0,
+        "Value": 4.0,
+        "Grip variety": 4.5
+      }
+    },
+    {
+      "offerId": "ultimate-body-press-ceiling",
+      "badge": "Meilleur Économique Permanent",
+      "review": "Ultimate Body Press est la barre de plafond d'entrée de gamme — acier 14 calibre, capacité de 300 lb, portée de 40 pouces et hauteur de plafond minimale de 90 pouces. Pour les utilisateurs de moins de 100 kg faisant des tractions strictes en suspension.",
+      "pros": [
+        "Prix le plus bas pour une barre de traction montée au plafond de façon permanente",
+        "Hauteur de plafond minimale de 90 pouces — exigence de dégagement la plus basse ici",
+        "Fonctionnelle pour l'utilisation stricte au poids du corps en suspension sous 100 kg"
+      ],
+      "cons": [
+        "Construction 14 calibre plus légère — notablement moins rigide que Rogue ou REP sous charge"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Steel gauge": "14-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "300 lb (136 kg)",
+        "Span": "40 inches",
+        "Ceiling height min": "90 inches (229 cm)",
+        "Mounting": "2 ceiling joists",
+        "Price": "$89.95"
+      },
+      "scores": {
+        "Load capacity": 3.8,
+        "Stability": 4.0,
+        "Installation ease": 4.2,
+        "Value": 4.5,
+        "Grip variety": 3.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pour l'installation permanente en garage",
+      "offerId": "rogue-joist-mount-pullup",
+      "reason": "Acier 11 calibre et 500 lb à l'espacement standard des solives — la barre qui gère les tractions lestées, le kipping et l'utilisation quotidienne à volume élevé sans fléchir."
+    },
+    {
+      "label": "Pour les angles ou inclinaisons de plafond non standard",
+      "offerId": "titan-wall-ceiling-pullup",
+      "reason": "La seule barre dans cette comparaison qui se monte à n'importe quel angle entre 45 et 90 degrés — résout les plafonds inclinés et les installations en coin."
+    },
+    {
+      "label": "Pour l'entraînement au poids du corps à haute répétition",
+      "offerId": "rep-fitness-ceiling-pullup",
+      "reason": "Le diamètre de 1,5 pouce entraîne la prise passivement et le molletage plus léger est plus confortable pour les séries de 15+ répétitions au poids du corps."
+    },
+    {
+      "label": "Pour les installations extérieures ou dans des garages non climatisés",
+      "offerId": "probar-wall-mount-pullup",
+      "reason": "La barre et le matériel en acier inoxydable 304 sont la seule option résistante à la corrosion — nécessaire quand la pluie, l'humidité ou la condensation est probable."
+    },
+    {
+      "label": "Pour l'installation permanente au plafond à petit budget",
+      "offerId": "ultimate-body-press-ceiling",
+      "reason": "Prix d'entrée le plus bas pour une barre montée au plafond — fonctionnelle pour les tractions strictes au poids du corps sous 100 kg."
+    }
+  ]
 }

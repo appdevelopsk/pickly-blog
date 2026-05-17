@@ -86,5 +86,184 @@
     "ultimate-body-press-ceiling": "Entrada económica a la instalación permanente en techo. Acero de 1,25 pulgadas calibre 14, capacidad de 300 lbs, longitud de 40 pulgadas. Requisito de altura de techo mínima de 90 pulgadas."
   },
   "pinDescription": "5 barras de dominadas de techo comparadas: Rogue vs. Titan vs. REP vs. Pullup & Dip vs. Ultimate Body Press. Encuentra qué barra se adapta a tu altura de techo, separación de vigas y carga de entrenamiento — instala una vez, entrena por años. #BarraDeTecho #GimnasioCasero #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada barra fue evaluada en calibre de acero y diámetro del tubo, capacidad de carga estática clasificada por el fabricante, compatibilidad con el espaciado de viguetas, profundidad y área de superficie del moleteado, requisito de altura mínima del techo, calidad del hardware incluido y resistencia a la corrosión para entornos de instalación no climatizados.",
+  "products": [
+    {
+      "offerId": "rogue-joist-mount-pullup",
+      "badge": "Mejor General",
+      "review": "El Rogue Joist Mount es el referente de barra de techo para garaje — acero de 11 calibre, clasificación de 500 lb, longitud de 48 pulgadas y hardware de tornillo incluido para dos viguetas estándar de 16 pulgadas. El moleteado de profundidad media es lo suficientemente agresivo para mantener el agarre durante las dominadas lastradas sin arrancar piel en series de muchas repeticiones.",
+      "pros": [
+        "Acero 11 calibre y 500 lb — mayor capacidad de carga en esta comparación",
+        "Recubrimiento en polvo de grado rack sobrevive ambientes de garaje sin climatizar",
+        "Hardware de tornillo completo incluido — sin compra separada de hardware"
+      ],
+      "cons": [
+        "Requiere espaciado estándar de viguetas de 16 pulgadas — techos no estándar necesitan el Titan"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "500 lb (227 kg)",
+        "Span": "48 inches",
+        "Ceiling height min": "Standard",
+        "Mounting": "2 ceiling joists at 16-inch centers",
+        "Price": "$95.00"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 4.9,
+        "Installation ease": 4.0,
+        "Value": 4.5,
+        "Grip variety": 3.8
+      }
+    },
+    {
+      "offerId": "titan-wall-ceiling-pullup",
+      "badge": "Mejor Multi-Ángulo",
+      "review": "El soporte ajustable de Titan se monta en cualquier ángulo entre 45 y 90 grados en pared o techo — la única opción en esta comparación para inclinaciones no estándar o instalaciones en esquina pared-techo. Secciones de agarre anguladas integradas proporcionan agarre neutro sin hardware adicional.",
+      "pros": [
+        "Se monta en cualquier ángulo 45–90° — resuelve techos inclinados e instalaciones en esquina",
+        "Secciones de agarre neutro integradas sin accesorios adicionales",
+        "Menor precio para una barra de acero clasificada en 400 lb en esta comparación"
+      ],
+      "cons": [
+        "12 calibre vs. 11 calibre significa menos rigidez que Rogue o REP bajo alta carga"
+      ],
+      "grade": "A",
+      "specs": {
+        "Steel gauge": "12-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "400 lb (181 kg)",
+        "Span": "44 inches",
+        "Mount angle": "45–90° adjustable",
+        "Mounting": "Wall or ceiling",
+        "Price": "$85–120"
+      },
+      "scores": {
+        "Load capacity": 4.5,
+        "Stability": 4.6,
+        "Installation ease": 4.2,
+        "Value": 4.8,
+        "Grip variety": 4.7
+      }
+    },
+    {
+      "offerId": "rep-fitness-ceiling-pullup",
+      "badge": "Mejor para Entrenamiento de Muchas Repeticiones",
+      "review": "La barra de 1,5 pulgadas de REP es la más gruesa en esta comparación — lo que entrena la fuerza de agarre pasivamente en cada serie y es un diferenciador genuino. La junta de goma en el techo elimina el ruido de crujido común durante ciclos de carga pesada en viguetas de madera.",
+      "pros": [
+        "Barra de 1,5 pulgadas entrena el agarre pasivamente en cada serie",
+        "Junta de goma en el techo elimina el crujido de ciclos de carga en viguetas de madera",
+        "Moleteado más suave es más cómodo para series de más de 20 repeticiones que Rogue"
+      ],
+      "cons": [
+        "Moleteado más suave da menos retroalimentación durante series máximas lastradas vs. Rogue"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Steel gauge": "11-gauge",
+        "Bar diameter": "1.5 inches",
+        "Load capacity": "500 lb (227 kg)",
+        "Span": "48 inches",
+        "Ceiling gasket": "Rubber (creak prevention)",
+        "Mounting": "2 ceiling joists",
+        "Price": "$80–140"
+      },
+      "scores": {
+        "Load capacity": 5.0,
+        "Stability": 4.8,
+        "Installation ease": 3.8,
+        "Value": 4.6,
+        "Grip variety": 3.6
+      }
+    },
+    {
+      "offerId": "probar-wall-mount-pullup",
+      "badge": "Mejor para Espacios Exteriores/Húmedos",
+      "review": "ProBar usa acero inoxidable 304 tanto para la barra como el hardware — la única opción resistente a la corrosión en esta comparación, y la elección correcta para instalaciones al aire libre, garajes sin climatizar o alta humedad. La capacidad de 441 lb y el largo de 39 pulgadas son competitivos.",
+      "pros": [
+        "Barra y hardware de acero inoxidable 304 resisten la corrosión en espacios exteriores o húmedos",
+        "Incluye agarres paralelos estrechos para dominadas con agarre neutro",
+        "Clasificación de 441 lb competitiva con barras de acero de gama media"
+      ],
+      "cons": [
+        "39 pulgadas más corto que Rogue y REP — menos espacio para variación de agarre ancho"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "304 stainless steel",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "441 lb (200 kg)",
+        "Span": "39 inches",
+        "Includes": "Parallel grip attachments",
+        "Best for": "Outdoor / unconditioned spaces",
+        "Price": "$60–100"
+      },
+      "scores": {
+        "Load capacity": 4.6,
+        "Stability": 4.7,
+        "Installation ease": 4.0,
+        "Value": 4.0,
+        "Grip variety": 4.5
+      }
+    },
+    {
+      "offerId": "ultimate-body-press-ceiling",
+      "badge": "Mejor Permanente Económico",
+      "review": "Ultimate Body Press es la barra de techo de nivel inicial — acero de 14 calibre, capacidad de 300 lb, 40 pulgadas de longitud y una altura mínima de techo de 90 pulgadas. Para usuarios de menos de 100 kg haciendo dominadas estrictas en suspensión que quieren instalación permanente sin pagar precios de calidad de gimnasio.",
+      "pros": [
+        "Menor precio para una barra de techo montada permanentemente",
+        "Altura mínima de techo de 90 pulgadas — menor requisito de espacio aquí",
+        "Funcional para uso de peso corporal en suspensión rígida bajo 100 kg"
+      ],
+      "cons": [
+        "Construcción más ligera de 14 calibre — notablemente menos rígida que Rogue o REP bajo carga"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Steel gauge": "14-gauge",
+        "Bar diameter": "1.25 inches",
+        "Load capacity": "300 lb (136 kg)",
+        "Span": "40 inches",
+        "Ceiling height min": "90 inches (229 cm)",
+        "Mounting": "2 ceiling joists",
+        "Price": "$89.95"
+      },
+      "scores": {
+        "Load capacity": 3.8,
+        "Stability": 4.0,
+        "Installation ease": 4.2,
+        "Value": 4.5,
+        "Grip variety": 3.4
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para instalación permanente en garaje",
+      "offerId": "rogue-joist-mount-pullup",
+      "reason": "Acero de 11 calibre y 500 lb en el espaciado estándar de viguetas — la barra que maneja dominadas lastradas, kipping y uso diario de alto volumen sin flexarse."
+    },
+    {
+      "label": "Para ángulos o inclinaciones de techo no estándar",
+      "offerId": "titan-wall-ceiling-pullup",
+      "reason": "La única barra en esta comparación que se monta en cualquier ángulo entre 45 y 90 grados — resuelve techos inclinados e instalaciones en esquina."
+    },
+    {
+      "label": "Para entrenamiento de peso corporal de muchas repeticiones",
+      "offerId": "rep-fitness-ceiling-pullup",
+      "reason": "El diámetro de 1,5 pulgadas entrena el agarre pasivamente y el moleteado más suave es más cómodo para series de más de 15 repeticiones."
+    },
+    {
+      "label": "Para instalaciones en exteriores o garajes sin climatizar",
+      "offerId": "probar-wall-mount-pullup",
+      "reason": "La barra y el hardware de acero inoxidable 304 son la única opción resistente a la corrosión — necesaria cuando lluvia, humedad o condensación es probable."
+    },
+    {
+      "label": "Para instalación permanente en techo con bajo presupuesto",
+      "offerId": "ultimate-body-press-ceiling",
+      "reason": "Menor precio de entrada para una barra de techo — funcional para dominadas de peso corporal estrictas bajo 100 kg."
+    }
+  ]
 }

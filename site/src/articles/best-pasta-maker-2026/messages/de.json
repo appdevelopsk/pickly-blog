@@ -66,5 +66,174 @@
     "ronco-pasta-maker": "Guenstige automatische Nudelmaschine -- einfacher als der Philips, weniger Matrizenoptionen, niedrigerer Preis. Geeignet fuer Nutzer, die automatische Nudelherstellung ohne die volle Philips-Investition ausprobieren moechten. Pasta-Qualitaet und Langlebigkeit sind niedriger als bei Premium-Optionen."
   },
   "pinDescription": "Nudelmaschinen-Vergleich 2026: Marcato Atlas 150 vs Imperia vs KitchenAid-Aufsatz vs Philips automatisch -- welche Maschine macht die beste frische Pasta zu Hause? Walze vs Extruder, italienische Handkurbel vs elektrische Automatisierung erklaert. #Nudelmaschine #Pasta #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jede Nudelmaschine wurde anhand der Teigtuchkonsistenz, der Präzision des Rollmechanismus, des enthaltenen Zubehörs, des Reinigungsaufwands und des realen Szenarios bewertet, für das sie am besten geeignet ist — ob handgerollte Teigplatten, motorbetriebene Konsistenz oder vollautomatische Extrusion.",
+  "products": [
+    {
+      "offerId": "marcato-atlas-150-pasta-maker",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Der Marcato Atlas 150 ist seit den 1930er Jahren der Referenzmaßstab für Heimnudelmaschinen — verchromte Stahlrollen, 150 mm Breite, neun Dickeneinstellungen von 3 mm bis 0,6 mm und mehr Drittanbieter-Zubehörunterstützung als jeder Mitbewerber. Der Kurbelmechanismus ist glatt und langlebig; die Klemme ist stabil auf jeder Tischkante. Reinigung bedeutet trockenwischen — kein Seife, kein Wasser, jemals. Das breiteste Angebot an Ersatzteilen und Schneidern jeder Heimnudelmaschine.",
+      "pros": [
+        "Stahlchromkonstruktion mit 90+ Jahren bewährter Langlebigkeit",
+        "Neun Dickeneinstellungen bis 0,6 mm — dünn genug für Ravioli",
+        "Breitestes Drittanbieter-Zubehör und Ersatzteilangebot"
+      ],
+      "cons": [
+        "Erfordert Tischkantenklemme — keine freistehende Option; kein Seifenreinigen"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Typ": "Manuelle Rolle",
+        "Rollenbreite": "150 mm",
+        "Dickeneinstellungen": "0 (3 mm) bis 9 (0,6 mm)",
+        "Material": "Verchromter Stahl",
+        "Enthaltene Schneider": "Fettuccine + Tagliolini",
+        "Herkunft": "Italien"
+      },
+      "scores": {
+        "Teigtuchkonsistenz": 5.0,
+        "Verarbeitungsqualität": 5.0,
+        "Benutzerfreundlichkeit": 4.5,
+        "Preis-Leistung": 4.8,
+        "Dickenbereich": 5.0
+      }
+    },
+    {
+      "offerId": "imperia-pasta-maker-machine",
+      "badge": "Bester Wert mit zwei Schneidern",
+      "review": "Die Imperia enthält sowohl einen Fettuccine- (5 mm) als auch einen Spaghetti-Schneider (2 mm) als Standard — der Atlas erfordert einen separaten Kauf für die zweite Breite. Italienisch gefertigt, gleichwertige Bauqualität wie der Atlas, etwas schwerer. Bei dünnsten Einstellungen erfordert die Kurbel marginal mehr Druck als der Atlas; für die meisten Benutzer kein Problem. Das bessere Angebot, wenn Sie von Anfang an zwei Nudelbrei­ten wollen.",
+      "pros": [
+        "Enthält sowohl Fettuccine (5 mm) als auch Spaghetti (2 mm) Schneider als Standard",
+        "Italienisch gefertigter Chromstahl — gleichwertige Langlebigkeit wie der Atlas",
+        "Kein Extrakauf für zwei gängige Nudelbreiten erforderlich"
+      ],
+      "cons": [
+        "Etwas schwerer als Atlas; marginal mehr Kurbelwiderstand bei dünnsten Einstellungen"
+      ],
+      "grade": "A",
+      "specs": {
+        "Typ": "Manuelle Rolle",
+        "Rollenbreite": "150 mm",
+        "Material": "Verchromter Stahl",
+        "Enthaltene Schneider": "Fettuccine (5 mm) + Spaghetti (2 mm)",
+        "Gewicht": "Etwas schwerer als Atlas",
+        "Herkunft": "Italien"
+      },
+      "scores": {
+        "Teigtuchkonsistenz": 4.8,
+        "Verarbeitungsqualität": 4.9,
+        "Benutzerfreundlichkeit": 4.4,
+        "Preis-Leistung": 5.0,
+        "Dickenbereich": 4.8
+      }
+    },
+    {
+      "offerId": "kitchenaid-pasta-roller-attachment",
+      "badge": "Bestes für KitchenAid-Besitzer",
+      "review": "Wenn Sie bereits eine KitchenAid-Küchenmaschine besitzen, wandelt dieser Aufsatz sie in eine motorbetriebene Nudelrollmaschine um — gleichmäßige Blattdicke über die gesamte Nudelläng. 152 mm Rollenbreite, mit Rolle, Fettuccine- und Spaghetti-Schneider. Nur lohnend, wenn Sie die Maschine bereits haben; eine KitchenAid nur für Nudeln zu kaufen ist bei 350–500 $ für die Küchenmaschine nicht kosteneffizient.",
+      "pros": [
+        "Motorbetriebene Rolle produziert gleichmäßigere Blattdicke als Handkurbeln",
+        "Platzsparend — nutzt Ihre vorhandene KitchenAid-Investition",
+        "Stahlrollenqualität gleichwertig Marcato/Imperia"
+      ],
+      "cons": [
+        "Nur lohnend, wenn Sie bereits eine KitchenAid besitzen — 350–500 $ Küchenmaschine + 150–200 $ Aufsatz nur für Nudeln ist nicht kosteneffizient"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Typ": "Küchenmaschinenaufsatz (KitchenAid)",
+        "Rollenbreite": "152 mm",
+        "Antrieb": "Motorbetrieben über Küchenmaschine",
+        "Enthalten": "Rolle + Fettuccine + Spaghetti-Schneider",
+        "Kompatibilität": "Alle KitchenAid Neigekopf- und Schüsselliftmodelle",
+        "Preis": "~150–200 $ (nur Aufsatz)"
+      },
+      "scores": {
+        "Teigtuchkonsistenz": 5.0,
+        "Verarbeitungsqualität": 4.8,
+        "Benutzerfreundlichkeit": 4.8,
+        "Preis-Leistung": 3.5,
+        "Dickenbereich": 4.6
+      }
+    },
+    {
+      "offerId": "philips-pasta-maker-7000",
+      "badge": "Bestes Vollautomatenmodell",
+      "review": "Der Philips ist die einzige echte Set-and-forget-Nudelmaschine hier — Mehl und Flüssigkeit hinzufügen, Start drücken, frische Nudeln in 15 Minuten, keine Teigherstellung oder Rolltechnik erforderlich. Stellt röhrenförmige und geformte Nudeln (Penne, Rigatoni, Spaghetti durch Matrize) her, die Rollen nicht können. Die extrudierte Textur ist rauer als Rollennudeln, was tatsächlich Soßen besser hält. Die Reinigung erfordert Zerlegung innerhalb von 30 Minuten, bevor der Teig trocknet; lauter als manuelle Rollen.",
+      "pros": [
+        "Vollautomatisch — Nudeln in 15 Minuten ohne Technik",
+        "Stellt röhrenförmige Formen (Penne, Rigatoni) her, die auf einer Rolle unmöglich sind",
+        "Rauere extrudierte Textur hält dickere Soßen besser"
+      ],
+      "cons": [
+        "Reinigung erfordert Zerlegung innerhalb von 30 Minuten; lauter als manuelle Rollen"
+      ],
+      "grade": "B",
+      "specs": {
+        "Typ": "Automatischer Extruder",
+        "Ausgabezeit": "~15 Minuten",
+        "Enthaltene Matrizen": "Spaghetti, Fettuccine, Penne, Lasagne",
+        "Zusätzliche Matrizen": "Separat erhältlich",
+        "Reinigung": "Zerlegung innerhalb von 30 Min.",
+        "Preisbereich": "200–300 $"
+      },
+      "scores": {
+        "Teigtuchkonsistenz": 4.0,
+        "Verarbeitungsqualität": 4.3,
+        "Benutzerfreundlichkeit": 5.0,
+        "Preis-Leistung": 3.8,
+        "Dickenbereich": 3.5
+      }
+    },
+    {
+      "offerId": "ronco-pasta-maker",
+      "badge": "Bestes Budget-Automatikmodell",
+      "review": "Der Ronco ist ein Budget-Automatikextruder für 80–120 $ — weniger Matrizenoptionen und geringere Bauqualität als der Philips, aber der automatische Misch- und Extrusionsmechanismus ist funktional ähnlich. Ausreichend für gelegentlichen Gebrauch und ein vernünftiger Weg, automatische Nudelherstellung auszuprobieren, bevor man sich für den Philips entscheidet. Nudelqualität und Maschinenlanglebigkeit sind unter den Premium-Optionen.",
+      "pros": [
+        "Budgeteinstieg in automatische Nudeln — 80–120 $ vs. Philips' 200–300 $",
+        "Automatisches Mischen und Extrudieren — keine Handtechnik erforderlich",
+        "Akzeptable Ergebnisse für gelegentlichen Gebrauch"
+      ],
+      "cons": [
+        "Weniger Matrizenoptionen und geringere Baubeständigkeit als Philips; Nudelqualität ist merklich geringer"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Typ": "Budget-Automatikextruder",
+        "Ausgabezeit": "~15–20 Minuten",
+        "Preisbereich": "80–120 $",
+        "Konstruktion": "Kunststofflastig, einfacher als Philips",
+        "Matrizen-Verfügbarkeit": "Begrenzt vs. Philips",
+        "Beste Verwendung": "Gelegentlich / Probiernutzung"
+      },
+      "scores": {
+        "Teigtuchkonsistenz": 3.5,
+        "Verarbeitungsqualität": 3.2,
+        "Benutzerfreundlichkeit": 4.8,
+        "Preis-Leistung": 4.5,
+        "Dickenbereich": 3.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für Nudelliebhaber, die Teigplatten und gefüllte Nudeln herstellen",
+      "offerId": "marcato-atlas-150-pasta-maker",
+      "reason": "Der Atlas 150 ist aus gutem Grund der Referenzmaßstab — neun Präzisionseinstellungen, langlebiger Chromstahl und das breiteste Drittanbieter-Schneider-Ökosystem jeder Heimnudelrolle."
+    },
+    {
+      "label": "Für Käufer, die von Anfang an zwei Breiten wollen",
+      "offerId": "imperia-pasta-maker-machine",
+      "reason": "Enthält Fettuccine- und Spaghetti-Schneider als Standard — kein separater Kauf für die zwei gängigsten Nudelbreiten erforderlich."
+    },
+    {
+      "label": "Für KitchenAid-Küchenmaschinenbesitzer",
+      "offerId": "kitchenaid-pasta-roller-attachment",
+      "reason": "Motorbetriebene Konsistenz und kein zusätzlicher Gerätebedarf — die beste Aufrüstung für alle, die eine KitchenAid bereits für andere Aufgaben nutzen."
+    },
+    {
+      "label": "Für Wochentags­köche, die Nudeln ohne Prozess wollen",
+      "offerId": "philips-pasta-maker-7000",
+      "reason": "Mehl und Flüssigkeit hinzufügen, Start drücken, Nudeln in 15 Minuten erhalten — und es macht röhrenförmige Formen, die Rollen nicht produzieren können."
+    }
+  ]
 }

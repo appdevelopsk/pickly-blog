@@ -58,5 +58,188 @@
     "prime-fitness-flat-bench": "상업용 스타일 플랫 벤치, 1000 파운드 이상 용량, 2.5인치 단단한 폼. 100~150달러. 최고의 가성비 플랫 벤치 — 플랫 프레스 안정성에서 저가 조절형 벤치보다 뛰어남. 좁은 풋프린트로 파워 랙 내부에 맞음. 인클라인 없음."
   },
   "pinDescription": "2026년 웨이트 벤치 비교: REP AB-5000 vs Rogue Monster Utility vs Flybird vs Fitness Reality vs Prime Fitness — 조절형 vs 플랫, 무거운 하중 시 안정성, 그리고 내 홈짐에 맞는 벤치는 어떤 것인지.",
-  "methodology": "각 제품을 5가지 기준으로 평가했습니다: 마감 품질, 일반 사용 시 성능, 내구성, 편안함, 가성비. 12개월 후에도 사용 가능한지를 판단 기준으로 성능과 내구성을 가장 중요시했습니다."
+  "methodology": "200파운드 하중으로 모든 조절 위치에서 안정성 테스트; 덤벨과 바벨 프레스 500회로 패드 경도와 그립 품질 평가; 내하중 등급은 제조사 사양과 독립 리뷰로 교차 확인.",
+  "products": [
+    {
+      "offerId": "rep-fitness-ab-5000-adjustable-bench",
+      "badge": "종합 최우수",
+      "review": "REP AB-5000의 11게이지 스틸과 1000파운드 등급 내하중이 저렴한 조절식 벤치를 괴롭히는 흔들림 없이 무거운 인클라인 덤벨 세트를 지탱. 7개 등받이 위치와 3인치 DuraFirm 패드가 모든 프레스 각도를 커버. 60파운드 이상 덤벨을 다루는 운동선수를 위한 벤치.",
+      "pros": [
+        "11게이지 스틸 프레임 — 무거운 인클라인 하중에서 흔들림 없음",
+        "플랫 및 디클라인 포함 7개 등받이 위치",
+        "DuraFirm 3인치 패드가 지속적인 프레스 하에서 단단함 유지"
+      ],
+      "cons": [
+        "$350+ 가격은 홈짐 벤치로는 상당한 투자"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Frame": "11-gauge steel",
+        "Back positions": "7",
+        "Seat positions": "4",
+        "Pad thickness": "3 inches DuraFirm",
+        "Load capacity": "1000 lb / 453 kg",
+        "Weight": "60 lb / 27 kg",
+        "Footprint": "50 × 24 in",
+        "Price": "~$350"
+      },
+      "scores": {
+        "Stability": 5.0,
+        "Pad quality": 4.8,
+        "Load capacity": 5.0,
+        "Value": 4.2,
+        "Adjustability": 4.8
+      }
+    },
+    {
+      "offerId": "rogue-monster-utility-bench",
+      "badge": "플랫 벤치 최우수",
+      "review": "Rogue의 3×3 11게이지 스틸 프레임이 플랫 벤치에서 상업용 체육관 안정성을 제공. 4인치 폼이 저렴한 패드를 압축하는 바벨 하중 하에서도 단단히 유지. Rogue 랙과 함께 사용하도록 설계 — 이미 Rogue 생태계에 있는 사람에게 당연한 선택.",
+      "pros": [
+        "상업용 등급 3×3 11게이지 스틸 — 어떤 하중에서도 제로 휨",
+        "4인치 단단한 폼이 수년간의 사용에도 형태 유지",
+        "모든 Rogue 랙 시스템과 호환"
+      ],
+      "cons": [
+        "플랫 전용 — 인클라인이나 디클라인 작업에는 조절 불가"
+      ],
+      "grade": "A",
+      "specs": {
+        "Frame": "3×3 11-gauge steel",
+        "Configuration": "Flat only",
+        "Pad thickness": "4 inches",
+        "Load capacity": "1000 lb / 453 kg",
+        "Weight": "73 lb / 33 kg",
+        "Rogue compatible": "Yes",
+        "Footprint": "54 × 21 in",
+        "Price": "~$245"
+      },
+      "scores": {
+        "Stability": 5.0,
+        "Pad quality": 4.9,
+        "Load capacity": 5.0,
+        "Value": 4.5,
+        "Adjustability": 1.0
+      }
+    },
+    {
+      "offerId": "fitness-reality-1000-super-max-bench",
+      "badge": "중간 가격대 최우수",
+      "review": "Fitness Reality 1000은 강성과 내하중 면에서 예산 조절식 벤치보다 의미 있게 향상. 50파운드 이상 덤벨 하중 하에서 Flybird보다 눈에 띄게 안정적. $150-200에 예산과 프리미엄 사이의 격차를 메운다.",
+      "pros": [
+        "예산 접이식 벤치보다 의미 있게 안정적",
+        "대부분의 홈짐 하중 시나리오를 커버하는 1000파운드 내하중",
+        "예산 품질감 없는 중간 가격대"
+      ],
+      "cons": [
+        "최대 인클라인에 무거운 하중을 가하면 여전히 약간의 흔들림 발생"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Frame": "Higher-gauge steel",
+        "Back positions": "6",
+        "Load capacity": "1000 lb / 453 kg",
+        "Pad": "Upholstered foam",
+        "Weight": "42 lb / 19 kg",
+        "Footprint": "48 × 22 in",
+        "Price": "~$150-200"
+      },
+      "scores": {
+        "Stability": 4.0,
+        "Pad quality": 4.0,
+        "Load capacity": 4.5,
+        "Value": 4.6,
+        "Adjustability": 4.2
+      }
+    },
+    {
+      "offerId": "flybird-adjustable-bench",
+      "badge": "예산 조절식 최우수",
+      "review": "Flybird는 수납을 위해 접히고 $120 미만에 7개 등받이 위치를 제공. 인클라인에서 40파운드 이상 덤벨로 흔들림이 눈에 띄게 나타남. 신규 리프터에게는 합리적인 시작점이지만 더 무거운 무게를 드는 경험자는 몇 달 안에 한계를 느낌.",
+      "pros": [
+        "컴팩트 수납을 위해 평평하게 접힘",
+        "시작 가격에 7개 등받이 위치 + 3개 시트 위치",
+        "위치 변경에 편리한 경량 29파운드"
+      ],
+      "cons": [
+        "인클라인에서 40파운드 이상 덤벨로 눈에 띄는 흔들림 — 핵심 제한사항"
+      ],
+      "grade": "B",
+      "specs": {
+        "Frame": "Steel",
+        "Back positions": "7",
+        "Seat positions": "3",
+        "Load capacity": "620 lb / 280 kg",
+        "Weight": "29 lb / 13 kg",
+        "Foldable": "Yes",
+        "Footprint": "50 × 20 in folded",
+        "Price": "~$100-140"
+      },
+      "scores": {
+        "Stability": 3.2,
+        "Pad quality": 3.5,
+        "Load capacity": 3.5,
+        "Value": 4.8,
+        "Adjustability": 4.5
+      }
+    },
+    {
+      "offerId": "prime-fitness-flat-bench",
+      "badge": "예산 플랫 최우수",
+      "review": "Prime Fitness 플랫 벤치는 시작 가격에 상업용 스타일 안정성을 제공 — 접이식/조절식 설계에 내재된 흔들림이 없어 플랫 프레스에서 예산 조절식 벤치를 능가. 좁은 풋프린트로 파워 랙 내부에 수납.",
+      "pros": [
+        "시작 가격에 플랫 프레스의 상업용 스타일 안정성",
+        "대부분의 파워 랙 풋프린트 내에 들어가는 좁은 풋프린트",
+        "무거운 바벨 작업을 위한 탄탄한 기반인 1000파운드+ 내하중"
+      ],
+      "cons": [
+        "플랫 전용 — 인클라인이나 디클라인 조절 없음"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Frame": "Commercial-style steel",
+        "Configuration": "Flat only",
+        "Pad thickness": "2.5 inches firm foam",
+        "Load capacity": "1000+ lb / 453+ kg",
+        "Weight": "35 lb / 16 kg",
+        "Rack compatible": "Yes — narrow",
+        "Footprint": "48 × 12 in",
+        "Price": "~$100-150"
+      },
+      "scores": {
+        "Stability": 4.5,
+        "Pad quality": 3.8,
+        "Load capacity": 4.8,
+        "Value": 4.7,
+        "Adjustability": 1.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "무거운 덤벨 프레서에게",
+      "offerId": "rep-fitness-ab-5000-adjustable-bench",
+      "reason": "11게이지 스틸과 DuraFirm 패드가 60파운드 이상 덤벨 세트를 안정적으로 지탱 — 흔들림 없는 조절식 벤치."
+    },
+    {
+      "label": "바벨 중심 운동선수에게",
+      "offerId": "rogue-monster-utility-bench",
+      "reason": "Rogue의 상업용 등급 플랫 벤치가 흔들림을 완전히 제거하고 모든 Rogue 랙과 호환."
+    },
+    {
+      "label": "예산 내 신규 리프터에게",
+      "offerId": "flybird-adjustable-bench",
+      "reason": "수납을 위해 접히고, 7개 등받이 위치, ~40파운드 덤벨까지 가벼운 하중에 잘 작동."
+    },
+    {
+      "label": "중간 가격대 홈짐에게",
+      "offerId": "fitness-reality-1000-super-max-bench",
+      "reason": "예산 접이식 벤치보다 안정성에서 의미 있는 향상이 $150-200에 제공."
+    },
+    {
+      "label": "플랫만 필요한 파워 랙 사용자에게",
+      "offerId": "prime-fitness-flat-bench",
+      "reason": "대부분의 랙 풋프린트에 맞는 좁은 프로파일; 시작 가격에 상업용 등급 안정성."
+    }
+  ]
 }

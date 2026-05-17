@@ -58,5 +58,64 @@
     "valor-fitness-ob-hx-trap-bar": "Construcción media gama, agarres duales, comparable a Titan. $90-130. Buena alternativa si Titan no está disponible. Nivel económico a media gama, funcionalmente comparable a precios similares."
   },
   "pinDescription": "Trap bar / hex bar 2026: Rogue TB-2 vs CAP vs Titan vs REP, cómo la carga en el centro de masa reduce el estrés de cizallamiento lumbar vs peso muerto con barra recta, agarre alto vs bajo, y qué trap bar vale la pena comprar para un gimnasio en casa. #trapBar #hexBar #pesaMuerta #gimnasio #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada trap bar fue evaluada según el calibre de acero y la capacidad de carga nominal relativa a los rangos de levantamiento realistas de un gimnasio en casa, la agresividad del knurling para la seguridad del agarre en tirones pesados, la longitud del manguito frente a las necesidades de carga de platos para atletas que tiran 300–500+ lbs, la comodidad de la empuñadura para posiciones alta versus baja, y el valor a largo plazo basado en la calidad de construcción y el nivel de precio.",
+  "products": [
+    {
+      "offerId": "rogue-tb-2-trap-bar",
+      "badge": "Mejor en General",
+      "review": "El Rogue TB-2 es el referente de las trap bars premium: acero de calibre 11, knurling afilado en ambas empuñaduras, manguitos de 16,25 pulgadas para carga pesada de platos, y una capacidad nominal de 1.000 lb que superará cualquier programa realista de gimnasio en casa. A $300–350, el precio premium sobre las alternativas de presupuesto es significativo — pero para atletas que tiran 500+ lbs consistentemente, es la inversión a largo plazo correcta.",
+      "pros": ["Construcción de acero de calibre 11 con capacidad nominal de 1.000 lb", "Knurling afilado en doble empuñadura proporciona agarre seguro bajo cargas máximas", "Manguitos de 16,25 pulgadas acomodan suficientes platos para cargas totales de 500+ lb"],
+      "cons": ["El precio premium de $300–350 es significativo sobre CAP o Titan para atletas que levantan con cargas moderadas"],
+      "grade": "A+",
+      "specs": {"Calibre de acero": "Calibre 11", "Capacidad de carga": "1.000 lb", "Longitud de manguito": "16,25 pulgadas", "Peso de la barra": "~27 kg", "Tipo de empuñadura": "Doble alta/baja con knurling", "Precio": "~$300–350"},
+      "scores": {"Load capacity": 5.0, "Handle comfort": 4.8, "Build quality": 5.0, "Value": 3.5, "Knurling quality": 5.0}
+    },
+    {
+      "offerId": "rep-fitness-hd-trap-bar",
+      "badge": "Mejor Relación Calidad-Precio Premium",
+      "review": "La REP Fitness HD Trap Bar llena el hueco entre las hex bars de presupuesto y el Rogue TB-2 — calibre más pesado que CAP y Titan, mejor knurling, y manguitos más largos para atletas que cargan 300–400 lbs sin pagar el precio completo de Rogue. La elección correcta para atletas que han superado la calidad de presupuesto sin necesitar una barra de nivel competición.",
+      "pros": ["Calibre más pesado que las alternativas de presupuesto con knurling significativamente mejor", "Manguitos más largos que CAP/Titan para cargar más platos a pesos más altos", "Calidad de construcción REP en un precio de rango medio"],
+      "cons": ["$150–200 cuesta más que Titan sin alcanzar el calibre 11 y la especificación de 1.000 lb de Rogue"],
+      "grade": "A",
+      "specs": {"Calibre de acero": "Pesado (rango medio)", "Capacidad de carga": "~700 lb nominal", "Longitud de manguito": "Más larga que presupuesto", "Peso de la barra": "~25 kg", "Tipo de empuñadura": "Doble alta/baja con knurling", "Precio": "~$150–200"},
+      "scores": {"Load capacity": 4.2, "Handle comfort": 4.5, "Build quality": 4.5, "Value": 4.5, "Knurling quality": 4.5}
+    },
+    {
+      "offerId": "titan-fitness-hex-trap-bar",
+      "badge": "Mejor Gama Media",
+      "review": "La Titan Fitness Hex Trap Bar es el paso significativo hacia arriba desde la CAP — mejor knurling, una barra ligeramente más pesada de ~52 lbs, y mejor calidad de manguito para atletas que tiran 250+ lbs regularmente y sienten que el knurling suave de la CAP se desliza en series pesadas. A $100–150 es la elección correcta cuando la calidad de la CAP no es suficiente pero los precios de Rogue están fuera de alcance.",
+      "pros": ["Mejor knurling que CAP para agarre seguro en cargas de 250–400 lb", "~52 lb de peso de la barra proporciona buena estabilidad en el marco hex", "Mejor calidad de manguito que las alternativas de presupuesto"],
+      "cons": ["$100–150 compra mejora sobre CAP pero no el calibre o la capacidad de REP o Rogue"],
+      "grade": "B+",
+      "specs": {"Calibre de acero": "Rango medio", "Capacidad de carga": "~700 lb nominal", "Peso de la barra": "~52 lb", "Longitud de manguito": "Estándar", "Tipo de empuñadura": "Doble alta/baja con knurling", "Precio": "~$100–150"},
+      "scores": {"Load capacity": 3.8, "Handle comfort": 4.2, "Build quality": 4.2, "Value": 4.7, "Knurling quality": 4.2}
+    },
+    {
+      "offerId": "cap-barbell-trap-bar",
+      "badge": "Mejor Presupuesto",
+      "review": "La CAP Barbell Hex Trap Bar es la elección correcta de nivel de entrada para atletas de gimnasio en casa que ya tienen platos olímpicos y quieren añadir peso muerto con trap bar sin inversión significativa. A $80–120 maneja cargas inferiores a 300–400 lbs adecuadamente — el knurling suave es la limitación principal, volviéndose resbaladizo en series pesadas cuando las manos sudan.",
+      "pros": ["Precio de entrada de $80–120 hace el peso muerto con trap bar accesible para gimnasios en casa", "Manguitos olímpicos estándar de 2 pulgadas se adaptan a cualquier colección de platos existente", "Dobles empuñaduras alta/baja cubren tanto posiciones de principiante como intermedio"],
+      "cons": ["El knurling suave se vuelve resbaladizo en series pesadas con sudor por encima de 300 lbs", "La capacidad nominal de 500 lb limita el uso para atletas fuertes que progresan hacia cargas más altas"],
+      "grade": "B",
+      "specs": {"Calibre de acero": "Estándar", "Capacidad de carga": "500 lb nominal", "Peso de la barra": "~45 lb", "Tamaño de manguito": "2 pulgadas olímpico", "Tipo de empuñadura": "Doble alta/baja", "Precio": "~$80–120"},
+      "scores": {"Load capacity": 3.0, "Handle comfort": 3.8, "Build quality": 3.5, "Value": 5.0, "Knurling quality": 3.0}
+    },
+    {
+      "offerId": "valor-fitness-ob-hx-trap-bar",
+      "badge": "Mejor Alternativa de Presupuesto",
+      "review": "La Valor Fitness Trap Bar es una alternativa funcional a la Titan cuando el stock es limitado — construcción comparable en un rango de precio similar con dobles empuñaduras y manguitos olímpicos estándar. No se diferencia significativamente de la Titan y la selección entre las dos a menudo depende de la disponibilidad y el precio el día de la compra.",
+      "pros": ["Comparable a Titan a un precio similar — buena alternativa de disponibilidad", "Dobles empuñaduras alta/baja y manguitos olímpicos estándar", "Construcción de rango medio adecuada para cargas de gimnasio en casa inferiores a 300–400 lbs"],
+      "cons": ["Sin ventaja de rendimiento significativa sobre la Titan — la elección está impulsada principalmente por stock y precio"],
+      "grade": "B-",
+      "specs": {"Calibre de acero": "Rango medio", "Capacidad de carga": "~500–600 lb nominal", "Peso de la barra": "~48 lb", "Tamaño de manguito": "2 pulgadas olímpico", "Tipo de empuñadura": "Doble alta/baja", "Precio": "~$90–130"},
+      "scores": {"Load capacity": 3.2, "Handle comfort": 3.8, "Build quality": 3.8, "Value": 4.5, "Knurling quality": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para levantadores serios que tiran 500+ lbs", "offerId": "rogue-tb-2-trap-bar", "reason": "El acero de calibre 11 y la capacidad nominal de 1.000 lb es la única especificación de construcción que se mantiene por delante de un programa de levantamiento a largo plazo comprometido."},
+    {"label": "Para atletas intermedios que han superado las barras de presupuesto", "offerId": "rep-fitness-hd-trap-bar", "reason": "Mejor knurling y manguitos más largos que CAP o Titan a un precio que no requiere compromiso al nivel de Rogue."},
+    {"label": "Para atletas que levantan 250–400 lbs regularmente", "offerId": "titan-fitness-hex-trap-bar", "reason": "La mejora del knurling sobre CAP es significativa en cargas donde el agarre suave de la CAP comienza a deslizarse en series pesadas."},
+    {"label": "Para principiantes de gimnasio en casa con platos olímpicos", "offerId": "cap-barbell-trap-bar", "reason": "A $80–120 con manguitos estándar de 2 pulgadas, es el punto de entrada de menor fricción para añadir peso muerto con trap bar a una configuración de gimnasio en casa existente."},
+    {"label": "Para levantadores cuando la Titan no tiene stock", "offerId": "valor-fitness-ob-hx-trap-bar", "reason": "Funcionalmente comparable a la Titan a un precio similar — la elección correcta cuando la disponibilidad de Titan es limitada."}
+  ]
 }

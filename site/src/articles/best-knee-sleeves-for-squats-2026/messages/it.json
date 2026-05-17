@@ -53,5 +53,124 @@
     "rogue-knee-sleeves-5mm": "5mm, non approvata IPF, venduta in coppia, migliore per l'allenamento generale"
   },
   "pinDescription": "7mm o 5mm, approvata IPF o no — la ginocchiera giusta dipende da come fai squat. Queste 5 scelte coprono la competizione di powerlifting, il CrossFit e l'allenamento quotidiano della forza senza sovrapposizioni inutili. #italia",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Ogni prodotto è stato valutato secondo cinque criteri: qualità costruttiva, prestazioni nell'uso tipico, durabilità, comfort e rapporto qualità-prezzo. Le prestazioni e la durabilità hanno avuto il peso maggiore perché determinano se un prodotto è ancora utile dopo 12 mesi.",
+  "products": [
+    {
+      "offerId": "sbd-knee-sleeves-7mm",
+      "badge": "Migliore in assoluto",
+      "review": "Il neoprene a doppio strato 7mm di SBD è approvato IPF e indossato in più campionati mondiali di qualsiasi altra marca. Le doppie cuciture sulle bordi superiore e inferiore impediscono lo scivolamento. Il dimensionamento per circonferenza della coscia è fondamentale: una ginocchiera leggermente troppo grande non offre né la compressione né il rimbalzo che giustifica il 7mm rispetto al 5mm.",
+      "pros": ["Approvata IPF per le competizioni", "Doppie cuciture anti-scivolamento", "Miglior rimbalzo dal basso al 7mm"],
+      "cons": ["Troppo calda per i riscaldamenti — riservata alle serie di lavoro all'80%+"],
+      "grade": "A+",
+      "specs": {
+        "Spessore": "7mm neoprene doppio strato",
+        "Approvata IPF": "Sì",
+        "Vendita": "A coppie",
+        "Taglia": "Per circonferenza della coscia",
+        "Prezzo": "$110.00/coppia"
+      },
+      "scores": {
+        "Qualità costruttiva": 5.0,
+        "Durabilità": 5.0,
+        "Compressione": 5.0,
+        "Comfort": 3.5,
+        "Rapporto qualità-prezzo": 3.8
+      }
+    },
+    {
+      "offerId": "rehband-rx-knee-sleeve-7mm",
+      "badge": "Migliore per il comfort",
+      "review": "Il taglio conico anatomico di Rehband — più largo in alto, più stretto alla base della rotula — mantiene la ginocchiera centrata meglio durante gli squat profondi. Non approvata IPF ma compressione e rimbalzo paragonabili a SBD per l'allenamento. Venduta singolarmente per testare un ginocchio prima di acquistare la coppia.",
+      "pros": ["Taglio conico anatomico rimane centrato negli squat profondi", "Vendita singola per testare un ginocchio", "Più calda per le palestre fredde"],
+      "cons": ["Non approvata IPF — non valida per competizione"],
+      "grade": "A",
+      "specs": {
+        "Spessore": "7mm neoprene",
+        "Approvata IPF": "No",
+        "Vendita": "Singola o a coppie",
+        "Taglio": "Conico anatomico",
+        "Prezzo": "$49.99/unità"
+      },
+      "scores": {
+        "Qualità costruttiva": 4.8,
+        "Durabilità": 4.8,
+        "Compressione": 4.5,
+        "Comfort": 4.8,
+        "Rapporto qualità-prezzo": 4.5
+      }
+    },
+    {
+      "offerId": "stoic-strength-knee-sleeves",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "review": "Le ginocchiere 7mm IPF di Stoic offrono compressione di livello competitivo alla metà del prezzo di SBD. La cucitura posteriore rinforzata affronta il punto di usura più comune delle ginocchiere economiche. Taglia leggermente piccola rispetto a Rehband — salire di una taglia se si è tra le misure.",
+      "pros": ["Approvata IPF alla metà del prezzo SBD", "Cucitura posteriore rinforzata per la durabilità", "Rimbalzo funzionale senza periodo di rodaggio"],
+      "cons": ["Taglia leggermente piccola — salire di una taglia"],
+      "grade": "B+",
+      "specs": {
+        "Spessore": "7mm neoprene",
+        "Approvata IPF": "Sì",
+        "Vendita": "A coppie",
+        "Taglia": "Leggermente piccola",
+        "Prezzo": "$67.00/coppia"
+      },
+      "scores": {
+        "Qualità costruttiva": 4.2,
+        "Durabilità": 4.3,
+        "Compressione": 4.5,
+        "Comfort": 4.0,
+        "Rapporto qualità-prezzo": 5.0
+      }
+    },
+    {
+      "offerId": "a7-bar-grip-knee-sleeves",
+      "badge": "Migliori per CrossFit",
+      "review": "Le ginocchiere 5mm di A7 hanno un motivo grip barra stampato in silicone sull'esterno che impedisce la migrazione durante squat, box jump e thruster. A 5mm il neoprene permette piena libertà di movimento in wall ball e pistol squat dove il 7mm modifica la meccanica. Progettate per CrossFit, non approvate IPF.",
+      "pros": ["Esterno in silicone impedisce la migrazione nei movimenti dinamici", "5mm garantisce piena ampiezza per il CrossFit", "Vendute a coppie"],
+      "cons": ["Non approvata IPF", "Supplemento del 15–20% rispetto alle opzioni 5mm semplici"],
+      "grade": "B",
+      "specs": {
+        "Spessore": "5mm neoprene",
+        "Approvata IPF": "No",
+        "Vendita": "A coppie",
+        "Esterno": "Stampa silicone grip barra",
+        "Prezzo": "$60–70/coppia"
+      },
+      "scores": {
+        "Qualità costruttiva": 4.3,
+        "Durabilità": 4.2,
+        "Compressione": 3.8,
+        "Comfort": 4.5,
+        "Rapporto qualità-prezzo": 4.0
+      }
+    },
+    {
+      "offerId": "rogue-knee-sleeves-5mm",
+      "badge": "Migliori per l'allenamento generale",
+      "review": "Le ginocchiere 5mm di Rogue sono per atleti che fanno squat, press e tirate nella stessa sessione senza rimuoverle tra i movimenti. Meno rimbalzo del 7mm — scelta progettuale intenzionale. Calore costante senza disagio per sessioni di 60–90 minuti.",
+      "pros": ["Indossabili per tutta la sessione senza toglierle", "Calore costante senza surriscaldamento", "Sistema di taglie semplice Rogue"],
+      "cons": ["Meno rimbalzo del 7mm — non per gli squat massimali nel powerlifting"],
+      "grade": "B-",
+      "specs": {
+        "Spessore": "5mm neoprene strato singolo",
+        "Approvata IPF": "No",
+        "Vendita": "A coppie",
+        "Ideale per": "Allenamento di forza generale",
+        "Prezzo": "$60.00/coppia"
+      },
+      "scores": {
+        "Qualità costruttiva": 4.2,
+        "Durabilità": 4.3,
+        "Compressione": 3.5,
+        "Comfort": 4.8,
+        "Rapporto qualità-prezzo": 4.3
+      }
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Per la competizione IPF", "offerId": "sbd-knee-sleeves-7mm", "reason": "Approvata IPF, usata da campioni mondiali, affidabile all'intensità di gara"},
+    {"label": "Per chi cerca comfort", "offerId": "rehband-rx-knee-sleeve-7mm", "reason": "Taglio anatomico rimane centrato, vendita singola per testare prima un ginocchio"},
+    {"label": "Per i powerlifter con budget limitato", "offerId": "stoic-strength-knee-sleeves", "reason": "Approvata IPF alla metà del prezzo SBD con compressione di livello competitivo"},
+    {"label": "Per gli atleti CrossFit", "offerId": "a7-bar-grip-knee-sleeves", "reason": "Grip silicone impedisce la migrazione durante box jump, thruster e movimenti WOD"},
+    {"label": "Per l'allenamento in palestra generale", "offerId": "rogue-knee-sleeves-5mm", "reason": "Indossabili per tutta la sessione attraverso tutti i movimenti senza rimozione tra le serie"}
+  ]
 }

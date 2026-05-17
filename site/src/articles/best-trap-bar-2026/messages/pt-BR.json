@@ -58,5 +58,64 @@
     "valor-fitness-ob-hx-trap-bar": "Construção médio porte, pegadas duais, comparável à Titan. $90-130. Boa alternativa se a Titan não estiver disponível. Nível econômico a médio porte, funcionalmente comparável a preços similares."
   },
   "pinDescription": "Trap bar / hex bar 2026: Rogue TB-2 vs CAP vs Titan vs REP, como o carregamento no centro de massa reduz o estresse de cisalhamento lombar vs levantamento terra com barra reta, pegada alta vs baixa, e qual trap bar vale a pena comprar para uma academia em casa. #trapBar #hexBar #levantamentoterra #academia #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada trap bar foi avaliada com base na bitola do aço e na capacidade de carga nominal relativa às faixas de levantamento realistas de uma academia em casa, na agressividade do knurling para segurança da pegada em puxadas pesadas, no comprimento das mangas frente às necessidades de carregamento de anilhas para atletas que puxam 300–500+ lbs, no conforto das empunhaduras para as posições alta versus baixa, e no valor a longo prazo baseado na qualidade de construção e na faixa de preço.",
+  "products": [
+    {
+      "offerId": "rogue-tb-2-trap-bar",
+      "badge": "Melhor no Geral",
+      "review": "A Rogue TB-2 é o referencial das trap bars premium: aço 11 gauge, knurling afiado em ambas as empunhaduras, mangas de 16,25 polegadas para carregamento pesado de anilhas, e uma capacidade nominal de 1.000 lb que superará qualquer programa realista de academia em casa. A $300–350 o premium sobre as alternativas de orçamento é significativo — mas para atletas que puxam 500+ lbs consistentemente é o investimento de longo prazo correto.",
+      "pros": ["Construção em aço 11 gauge com capacidade nominal de 1.000 lb", "Knurling afiado de empunhadura dupla oferece pegada segura sob cargas máximas", "Mangas de 16,25 polegadas acomodam anilhas suficientes para cargas totais de 500+ lb"],
+      "cons": ["O premium de $300–350 é significativo em relação à CAP ou Titan para atletas que levantam em cargas moderadas"],
+      "grade": "A+",
+      "specs": {"Bitola do aço": "11 gauge", "Capacidade de carga": "1.000 lb", "Comprimento da manga": "16,25 polegadas", "Peso da barra": "~27 kg", "Tipo de empunhadura": "Dupla alta/baixa com knurling", "Preço": "~$300–350"},
+      "scores": {"Load capacity": 5.0, "Handle comfort": 4.8, "Build quality": 5.0, "Value": 3.5, "Knurling quality": 5.0}
+    },
+    {
+      "offerId": "rep-fitness-hd-trap-bar",
+      "badge": "Melhor Custo-Benefício Premium",
+      "review": "A REP Fitness HD Trap Bar preenche a lacuna entre as hex bars de orçamento e a Rogue TB-2 — bitola mais pesada que CAP e Titan, melhor knurling e mangas mais longas para atletas que carregam 300–400 lbs sem pagar o premium completo da Rogue. A escolha certa para atletas que superaram a qualidade de orçamento sem precisar de uma barra de nível competição.",
+      "pros": ["Bitola mais pesada que as alternativas de orçamento com knurling significativamente melhor", "Mangas mais longas que CAP/Titan para carregar mais anilhas em pesos mais altos", "Qualidade de construção REP em um preço de faixa média"],
+      "cons": ["$150–200 custa mais que Titan sem atingir a especificação 11 gauge e 1.000 lb da Rogue"],
+      "grade": "A",
+      "specs": {"Bitola do aço": "Pesada (faixa média)", "Capacidade de carga": "~700 lb nominal", "Comprimento da manga": "Mais longa que orçamento", "Peso da barra": "~25 kg", "Tipo de empunhadura": "Dupla alta/baixa com knurling", "Preço": "~$150–200"},
+      "scores": {"Load capacity": 4.2, "Handle comfort": 4.5, "Build quality": 4.5, "Value": 4.5, "Knurling quality": 4.5}
+    },
+    {
+      "offerId": "titan-fitness-hex-trap-bar",
+      "badge": "Melhor Faixa Média",
+      "review": "A Titan Fitness Hex Trap Bar é o passo significativo acima da CAP — melhor knurling, uma barra ligeiramente mais pesada de ~52 lbs e melhor qualidade de mangas para atletas que puxam 250+ lbs regularmente e sentem o knurling suave da CAP escorregar nas séries pesadas. A $100–150 é a escolha certa quando a qualidade da CAP não é suficiente mas os preços da Rogue estão fora de alcance.",
+      "pros": ["Melhor knurling que a CAP para pegada segura em cargas de 250–400 lbs", "~52 lbs de peso da barra oferece boa estabilidade no quadro hex", "Melhor qualidade de mangas que as alternativas de orçamento"],
+      "cons": ["$100–150 compra melhoria sobre a CAP mas não a bitola ou capacidade da REP ou Rogue"],
+      "grade": "B+",
+      "specs": {"Bitola do aço": "Faixa média", "Capacidade de carga": "~700 lb nominal", "Peso da barra": "~52 lbs", "Comprimento da manga": "Padrão", "Tipo de empunhadura": "Dupla alta/baixa com knurling", "Preço": "~$100–150"},
+      "scores": {"Load capacity": 3.8, "Handle comfort": 4.2, "Build quality": 4.2, "Value": 4.7, "Knurling quality": 4.2}
+    },
+    {
+      "offerId": "cap-barbell-trap-bar",
+      "badge": "Melhor Orçamento",
+      "review": "A CAP Barbell Hex Trap Bar é a escolha correta de nível de entrada para atletas de academia em casa que já possuem anilhas olímpicas e querem adicionar o levantamento terra com trap bar sem investimento significativo. A $80–120 lida adequadamente com cargas abaixo de 300–400 lbs — o knurling suave é a limitação principal, ficando escorregadio nas séries pesadas quando as mãos estão suadas.",
+      "pros": ["Preço de entrada de $80–120 torna o levantamento terra com trap bar acessível para academias em casa", "Mangas olímpicas padrão de 2 polegadas se encaixam em qualquer coleção de anilhas existente", "Empunhaduras duplas alta/baixa cobrem tanto posições de iniciante quanto intermediário"],
+      "cons": ["O knurling suave fica escorregadio nas séries pesadas e suadas acima de 300 lbs", "A capacidade nominal de 500 lb limita o uso para atletas fortes que progridem para cargas mais altas"],
+      "grade": "B",
+      "specs": {"Bitola do aço": "Padrão", "Capacidade de carga": "500 lb nominal", "Peso da barra": "~45 lbs", "Tamanho da manga": "2 polegadas olímpico", "Tipo de empunhadura": "Dupla alta/baixa", "Preço": "~$80–120"},
+      "scores": {"Load capacity": 3.0, "Handle comfort": 3.8, "Build quality": 3.5, "Value": 5.0, "Knurling quality": 3.0}
+    },
+    {
+      "offerId": "valor-fitness-ob-hx-trap-bar",
+      "badge": "Melhor Alternativa de Orçamento",
+      "review": "A Valor Fitness Trap Bar é uma alternativa funcional à Titan quando o estoque é limitado — construção comparável em uma faixa de preço similar com empunhaduras duplas e mangas olímpicas padrão. Não se diferencia significativamente da Titan e a seleção entre as duas frequentemente se resume à disponibilidade e ao preço no dia da compra.",
+      "pros": ["Comparável à Titan a um preço similar — boa alternativa de disponibilidade", "Empunhaduras duplas alta/baixa e mangas olímpicas padrão", "Construção de faixa média adequada para cargas de academia em casa abaixo de 300–400 lbs"],
+      "cons": ["Sem vantagem de desempenho significativa sobre a Titan — a escolha é principalmente impulsionada pelo estoque e preço"],
+      "grade": "B-",
+      "specs": {"Bitola do aço": "Faixa média", "Capacidade de carga": "~500–600 lb nominal", "Peso da barra": "~48 lbs", "Tamanho da manga": "2 polegadas olímpico", "Tipo de empunhadura": "Dupla alta/baixa", "Preço": "~$90–130"},
+      "scores": {"Load capacity": 3.2, "Handle comfort": 3.8, "Build quality": 3.8, "Value": 4.5, "Knurling quality": 3.5}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para levantadores sérios que puxam 500+ lbs", "offerId": "rogue-tb-2-trap-bar", "reason": "O aço 11 gauge e a capacidade nominal de 1.000 lb é a única especificação de construção que se mantém à frente de um programa de levantamento sério a longo prazo."},
+    {"label": "Para atletas intermediários que superaram as barras de orçamento", "offerId": "rep-fitness-hd-trap-bar", "reason": "Melhor knurling e mangas mais longas que CAP ou Titan a um preço que não requer compromisso no nível Rogue."},
+    {"label": "Para atletas que levantam 250–400 lbs regularmente", "offerId": "titan-fitness-hex-trap-bar", "reason": "A melhoria do knurling sobre a CAP é significativa nas cargas em que a pegada suave da CAP começa a escorregar nas séries pesadas."},
+    {"label": "Para iniciantes de academia em casa com anilhas olímpicas", "offerId": "cap-barbell-trap-bar", "reason": "A $80–120 com mangas padrão de 2 polegadas, é o ponto de entrada de menor atrito para adicionar o levantamento terra com trap bar a uma configuração de academia em casa existente."},
+    {"label": "Para levantadores quando a Titan está esgotada", "offerId": "valor-fitness-ob-hx-trap-bar", "reason": "Funcionalmente comparável à Titan a um preço similar — a escolha certa quando a disponibilidade da Titan é limitada."}
+  ]
 }

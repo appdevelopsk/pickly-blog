@@ -53,5 +53,178 @@
     "sunny-sf-rw5515": "Kein Abonnement erforderlich. Der einfache LCD-Monitor zeichnet Zeit, Schlagzahl, Kalorien und Scan-Modus auf."
   },
   "pinDescription": "Die 5 besten Rudergeräte 2026 getestet — Concept2 vs Hydrow vs NordicTrack vs Wasser vs Budget. Ganzkörper-Cardio zu Hause! 🚣",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "concept2-model-d",
+      "badge": "Bester Gesamtwert",
+      "review": "Das Concept2 Model D ist aus gutem Grund der weltweite Maßstab: Luftwiderstand skaliert unbegrenzt mit der Anstrengung. Die PM5-Monitor-Datengenauigkeit ist weltweit vertrauenswürdig. Der echte Kompromiss ist Lärm — Luftruder sind laut.",
+      "pros": [
+        "Unbegrenzt skalierbarer Luftwiderstand",
+        "PM5-Monitor ist der Branchenstandard",
+        "Faltbar für kompakte Aufbewahrung"
+      ],
+      "cons": [
+        "Deutlich laut bei hoher Belastung"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Widerstandstyp": "Luft",
+        "Monitor": "PM5",
+        "Max. Nutzergewicht": "272 kg",
+        "Sitzhöhe": "40 cm",
+        "Klappmaß": "63 × 84 cm",
+        "Gewicht": "26 kg (Schiene)",
+        "Preis": "~900 €"
+      },
+      "scores": {
+        "Resistance feel": 5.0,
+        "Build quality": 4.9,
+        "Noise": 2.5,
+        "Value": 4.5,
+        "Footprint": 4.0
+      }
+    },
+    {
+      "offerId": "hydrow-wave-rower",
+      "badge": "Bestes Connected-Fitness-Gerät",
+      "review": "Der Wave kombiniert elektromagnetischen Widerstand mit einem 16-Zoll-Touchscreen und einer motivierenden Kursbibliothek — leiser und weicher als Luft, ideal für Wohnungen. Das Abonnement (~44 $/Monat) ist ein echter laufender Kostenfaktor.",
+      "pros": [
+        "Leiser als Luftwiderstand — wohnungstauglich",
+        "16-Zoll-Bildschirm mit Live- und On-Demand-Kursen",
+        "Platzsparend faltbar"
+      ],
+      "cons": [
+        "Abonnement für vollen Inhalt erforderlich (~44 $/Monat)"
+      ],
+      "grade": "A",
+      "specs": {
+        "Widerstandstyp": "Elektromagnetisch",
+        "Bildschirm": "16-Zoll-Touchscreen",
+        "Abonnement": "~44 $/Monat",
+        "Klappbar": "Ja",
+        "Preis": "1.495 $"
+      },
+      "scores": {
+        "Resistance feel": 4.2,
+        "Build quality": 4.3,
+        "Noise": 4.5,
+        "Value": 3.5,
+        "Footprint": 4.3
+      }
+    },
+    {
+      "offerId": "nordictrack-rw900",
+      "badge": "Bestes Bildschirmerlebnis",
+      "review": "Der 22-Zoll-HD-Drehbildschirm des RW900 ist der größte im Vergleich und die iFIT-Bibliothek ist wirklich umfangreich. Mit 99 kg ist das Gerät nach der Aufstellung kaum noch zu bewegen.",
+      "pros": [
+        "22-Zoll-HD-Drehbildschirm",
+        "26 Widerstandsstufen passen sich automatisch an",
+        "iFIT-Weltrouten-Bibliothek"
+      ],
+      "cons": [
+        "Schwer (99 kg) — Aufstellung ist fast dauerhaft"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Widerstandstyp": "Magnetisch/iFIT",
+        "Bildschirm": "22-Zoll-HD",
+        "Widerstandsstufen": "26",
+        "Gewicht": "99 kg",
+        "Abonnement": "~39 $/Monat",
+        "Preis": "2.799 $"
+      },
+      "scores": {
+        "Resistance feel": 4.0,
+        "Build quality": 4.2,
+        "Noise": 4.3,
+        "Value": 3.2,
+        "Footprint": 2.5
+      }
+    },
+    {
+      "offerId": "ergatta-rower",
+      "badge": "Bester Wasserwiderstands-Rower",
+      "review": "Ergatta's Wasser-Schwungrad erzeugt das natürlichste Rudergefühl — Klang und Widerstand ahmen das Rudern auf offenem Wasser nach. Die spielbasierte Trainingsplattform motiviert Einzelathleten. Das proprietäre Ökosystem schränkt die Inhaltsauswahl ein.",
+      "pros": [
+        "Wasserschwungrad = realistischstes Rudergefühl",
+        "Spielbasierte Workouts motivieren Einzelsportler",
+        "17,3-Zoll-Touchscreen mit strukturierten Programmen"
+      ],
+      "cons": [
+        "Plattform-Lock-in — keine Drittanbieter-Inhalte"
+      ],
+      "grade": "B",
+      "specs": {
+        "Widerstandstyp": "Wasser",
+        "Bildschirm": "17,3-Zoll-Touchscreen",
+        "Abonnement": "~29 $/Monat",
+        "Chassis": "WaterRower",
+        "Preis": "1.999–2.499 $"
+      },
+      "scores": {
+        "Resistance feel": 4.8,
+        "Build quality": 4.5,
+        "Noise": 3.8,
+        "Value": 3.4,
+        "Footprint": 3.5
+      }
+    },
+    {
+      "offerId": "sunny-sf-rw5515",
+      "badge": "Bestes Budgetgerät",
+      "review": "Für ~350 $ bietet der SF-RW5515 12 Magnetstufen, leisen Betrieb und einen abo-freien Einstieg ins Rudern. Er repliziert nicht das Gefühl von Luft oder Wasser, ist aber der risikoärmste Einstieg für Anfänger.",
+      "pros": [
+        "Leiser Magnetwiderstand — kein Abonnement",
+        "12 Widerstandsstufen auf solider Aluminiumschiene",
+        "Geeignet für Nutzer bis 191 cm"
+      ],
+      "cons": [
+        "Widerstandsgefühl weniger dynamisch als Luft oder Wasser"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Widerstandstyp": "Magnetisch",
+        "Widerstandsstufen": "12",
+        "Schienenlänge": "110 cm",
+        "Max. Nutzergewicht": "113 kg",
+        "Monitor": "Basis-LCD",
+        "Preis": "~350 $"
+      },
+      "scores": {
+        "Resistance feel": 3.0,
+        "Build quality": 3.5,
+        "Noise": 5.0,
+        "Value": 4.8,
+        "Footprint": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für ambitionierte Heimsportler",
+      "offerId": "concept2-model-d",
+      "reason": "Branchenstandard-Datengenauigkeit und unbegrenzter Widerstand belohnen Athleten, die echte Fortschritte über Jahre verfolgen möchten."
+    },
+    {
+      "label": "Für Wohnungsbewohner",
+      "offerId": "hydrow-wave-rower",
+      "reason": "Elektromagnetischer Widerstand und klappbarer Rahmen halten Lärm und Standfläche niedrig genug für geteilte Wände."
+    },
+    {
+      "label": "Für inhaltsorientierte Motivation",
+      "offerId": "nordictrack-rw900",
+      "reason": "Der 22-Zoll-Bildschirm und die iFIT-Bibliothek sind ideal für Menschen, die Abwechslung und Trainer-Accountability brauchen."
+    },
+    {
+      "label": "Für Solo-Wettkampfsportler",
+      "offerId": "ergatta-rower",
+      "reason": "Spielbasiertes Racing gegen persönliche Bestleistungen funktioniert besser als kursorientierte Inhalte für selbstmotivierte Athleten."
+    },
+    {
+      "label": "Für Ruder-Anfänger mit kleinem Budget",
+      "offerId": "sunny-sf-rw5515",
+      "reason": "Ein leises, erschwingliches Gerät ohne Abonnementverpflichtung ist das richtige Werkzeug, um zu testen, ob Rudern zu Ihnen passt."
+    }
+  ]
 }

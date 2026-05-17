@@ -90,5 +90,184 @@
     "weider-power-tower-200": "Torre de poder premium de cuatro estaciones con armazón más grueso, mayor separación de asas de dips y acolchado de apoyabrazos VKR más grueso que las alternativas económicas. La mejor comodidad de dips y VKR de su clase. Huella de base de 115 por 135 cm — la más grande en esta comparación. Clasificada en 136 kg estático. Vale el precio premium sobre la Fitness Reality X2 para compradores que usarán las estaciones de dips y VKR con frecuencia."
   },
   "pinDescription": "5 barras de dominadas independientes comparadas: CAP vs Ultimate Body Press vs Yaheetech vs Fitness Reality vs Weider. Encuentra qué torre de poder se adapta a tu espacio, altura y objetivos de entrenamiento — sin hacer agujeros. #BarraDominadasIndependiente #TorreDePoder #español",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada unidad fue evaluada según la estabilidad del marco bajo dead-hang estático y carga dinámica simulada, los requisitos de espacio base y altura libre, la altura de la barra en relación con la estatura del usuario, la comodidad del acolchado de la estación de fondos y el VKR, y la rigidez del marco a largo plazo reportada por usuarios después de más de 12 meses de uso regular.",
+  "products": [
+    {
+      "offerId": "fitness-reality-x2-power-tower",
+      "grade": "A+",
+      "specs": {
+        "Stations": "4 (pull-up, dip, push-up, VKR)",
+        "Base footprint": "110×130 cm",
+        "Bar height": "~228 cm (fixed)",
+        "Load capacity": "136 kg static",
+        "Frame": "3.8 cm square tube steel",
+        "Price": "$140",
+        "Assembly time": "~60–90 min"
+      },
+      "scores": {
+        "Stability": 4.5,
+        "Load capacity": 4.4,
+        "Footprint": 3.8,
+        "Value": 4.9,
+        "Versatility": 4.7
+      },
+      "badge": "Mejor opción general",
+      "review": "El Fitness Reality X2 ofrece cuatro estaciones de entrenamiento — barra de dominadas, estación de fondos, asas de flexiones, VKR acolchado — en una huella de 110×130 cm a un precio que lo convierte en el punto de partida correcto para la mayoría de los gimnasios domésticos. El marco de tubo cuadrado de 3,8 cm es notablemente más rígido que los diseños de tubo redondo en el mismo rango de precios. La barra a 228 cm proporciona espacio libre para dead-hang a usuarios de hasta 185 cm. Los apoyabrazos del VKR y las asas de fondos son adecuados pero no los más cómodos para series largas — el Weider mejora en ambos aspectos.",
+      "pros": [
+        "Diseño de 4 estaciones cubre dominadas, fondos, flexiones y VKR en una sola unidad",
+        "Marco de tubo cuadrado de 3,8 cm es rígido para la categoría de precio",
+        "Altura de barra de 228 cm cubre usuarios de hasta ~185 cm sin doblar rodillas"
+      ],
+      "cons": [
+        "Acolchado del apoyabrazos del VKR más delgado que el Weider — notable en series largas de elevaciones de piernas colgadas"
+      ]
+    },
+    {
+      "offerId": "power-tower-workout-dip-station",
+      "grade": "A",
+      "specs": {
+        "Stations": "4 (pull-up, dip, push-up, VKR)",
+        "Base footprint": "95×110 cm",
+        "Bar height": "Up to ~220 cm (adjustable)",
+        "Load capacity": "150 kg static",
+        "Frame": "Round tube steel",
+        "Price": "$199.99",
+        "Assembly time": "~60 min"
+      },
+      "scores": {
+        "Stability": 4.3,
+        "Load capacity": 4.7,
+        "Footprint": 4.9,
+        "Value": 4.6,
+        "Versatility": 4.5
+      },
+      "badge": "Más compacto",
+      "review": "El Yaheetech Power Tower empaqueta las mismas cuatro estaciones que el Fitness Reality X2 en una huella de 95×110 cm — la torre de potencia más compacta de esta comparación. La altura de la barra se ajusta hasta 220 cm mediante posiciones preestablecidas, y la clasificación de 150 kg es la más alta de esta comparación. El acolchado del apoyabrazos del VKR es más delgado que el del X2, y las asas de fondos de ancho fijo pueden sentirse estrechas para usuarios de hombros anchos. La mejor opción cuando cada centímetro cuadrado de espacio importa.",
+      "pros": [
+        "Huella de power tower más pequeña de esta comparación con 95×110 cm",
+        "Clasificación de carga estática de 150 kg — la más alta de todas las unidades aquí",
+        "Altura de barra ajustable hasta 220 cm mediante posiciones preestablecidas"
+      ],
+      "cons": [
+        "Acolchado del apoyabrazos del VKR más delgado que el Fitness Reality X2 y el Weider"
+      ]
+    },
+    {
+      "offerId": "cap-barbell-freestanding-pull-up-bar",
+      "grade": "B+",
+      "specs": {
+        "Stations": "1 (pull-up only)",
+        "Base footprint": "~97×60 cm",
+        "Bar height": "~218 cm (fixed)",
+        "Load capacity": "136 kg static",
+        "Base design": "A-frame with outrigger feet",
+        "Price": "$149.99",
+        "Grip options": "Wide overhand, neutral parallel"
+      },
+      "scores": {
+        "Stability": 4.6,
+        "Load capacity": 4.4,
+        "Footprint": 4.8,
+        "Value": 4.3,
+        "Versatility": 2.8
+      },
+      "badge": "Mejor solo para dominadas",
+      "review": "La CAP Barbell es una estación de dominadas independiente sin fondos ni VKR — lo que la convierte en la unidad de menor profundidad de esta comparación con 97×60 cm. La base tipo bastidor A con pies de soporte ofrece mejor estabilidad lateral para dominadas de dead-hang estrictas que las bases rectangulares, ya que el usuario cuelga en el centro de una base ancha en lugar del borde de una estrecha. Barra fija a 218 cm y múltiples opciones de agarre integradas. No es la opción si desea agregar fondos o VKR a su programa.",
+      "pros": [
+        "Huella de profundidad más pequeña con 97×60 cm — cabe en espacios donde no caben las torres de potencia",
+        "La base tipo bastidor A produce mejor estabilidad lateral que los diseños de base rectangular",
+        "Múltiples posiciones de agarre: agarre superior amplio y paralelo neutral"
+      ],
+      "cons": [
+        "Sin estación de fondos, asas de flexiones ni VKR — solo dominadas"
+      ]
+    },
+    {
+      "offerId": "weider-power-tower-200",
+      "grade": "B",
+      "specs": {
+        "Stations": "4 (pull-up, dip, push-up, VKR)",
+        "Base footprint": "115×135 cm",
+        "Bar height": "~228 cm (fixed)",
+        "Load capacity": "136 kg static",
+        "Frame": "Heavy-gauge steel",
+        "Price": "$206.09",
+        "Assembly time": "~90 min"
+      },
+      "scores": {
+        "Stability": 4.7,
+        "Load capacity": 4.4,
+        "Footprint": 3.2,
+        "Value": 4.0,
+        "Versatility": 4.6
+      },
+      "badge": "Mejor premium",
+      "review": "El Weider Power Tower 200 mejora el Fitness Reality X2 en las dos áreas más notorias durante el entrenamiento: mayor separación de asas de fondos y acolchado más grueso para los apoyabrazos del VKR. Ambos cambios mejoran la comodidad y el posicionamiento de los hombros para atletas que usan estas estaciones frecuentemente. El calibre de marco más pesado aumenta la rigidez pero también el tamaño — la huella de 115×135 cm es la más grande de esta comparación. Vale el precio premium sobre el X2 si usa las estaciones de fondos y VKR regularmente y valora la comodidad en series largas.",
+      "pros": [
+        "Mayor separación de asas de fondos mejora el posicionamiento del hombro en la parte inferior de los fondos",
+        "Acolchado del apoyabrazos del VKR notablemente más cómodo para series largas",
+        "Marco de calibre más pesado más rígido que las torres de potencia económicas"
+      ],
+      "cons": [
+        "Huella de 115×135 cm es la más grande de esta comparación"
+      ]
+    },
+    {
+      "offerId": "ultimate-body-press-freestanding-bar",
+      "grade": "B-",
+      "specs": {
+        "Stations": "1 (pull-up only)",
+        "Base footprint": "~4-foot rectangular",
+        "Bar height": "193–244 cm (adjustable presets)",
+        "Load capacity": "136 kg with anchor",
+        "Base design": "Rectangular 4-foot",
+        "Price": "$79.95",
+        "Anchor": "Wall strap included"
+      },
+      "scores": {
+        "Stability": 3.8,
+        "Load capacity": 4.0,
+        "Footprint": 4.2,
+        "Value": 4.4,
+        "Versatility": 2.6
+      },
+      "badge": "Mejor para usuarios altos",
+      "review": "La Ultimate Body Press es la única barra de dominadas independiente de esta comparación con ajuste de altura — de 193 a 244 cm en pasos preestablecidos, la configuración más alta disponible aquí. La barra recta de agarre superior no tiene asas de agarre neutral o paralelo integradas. La base rectangular de cuatro pies es ligeramente menos estable que el diseño tipo bastidor A de la CAP en configuraciones altas para usuarios de más de 80 kg durante movimientos dinámicos; la correa de anclaje de pared incluida lo soluciona. Mejor para usuarios de más de 185 cm que comparten la barra con compañeros de entrenamiento de diferentes alturas.",
+      "pros": [
+        "Altura ajustable 193–244 cm — la configuración más alta de esta comparación",
+        "Hardware de anclaje de pared incluido para mayor estabilidad bajo carga dinámica",
+        "Base rectangular compacta cabe en espacios estrechos"
+      ],
+      "cons": [
+        "Solo barra recta — sin asas de agarre neutral o paralelo integradas"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para la mayoría de gimnasios domésticos que desean entrenamiento completo de tren superior",
+      "offerId": "fitness-reality-x2-power-tower",
+      "reason": "Cuatro estaciones en una huella manejable al precio más bajo — dominadas, fondos, flexiones y VKR sin comprar equipo separado."
+    },
+    {
+      "label": "Para habitaciones pequeñas donde cada centímetro cuenta",
+      "offerId": "power-tower-workout-dip-station",
+      "reason": "Huella de power tower más pequeña de esta comparación con la clasificación de carga más alta — la opción correcta cuando el espacio es la restricción principal."
+    },
+    {
+      "label": "Para entrenamiento solo de dominadas sin el volumen de una tower",
+      "offerId": "cap-barbell-freestanding-pull-up-bar",
+      "reason": "Estabilidad tipo bastidor A y huella de profundidad mínima ofrecen capacidad de dominadas sin el compromiso de espacio de una torre de potencia completa."
+    },
+    {
+      "label": "Para usuarios frecuentes de fondos y VKR que quieren máxima comodidad",
+      "offerId": "weider-power-tower-200",
+      "reason": "Asas de fondos más anchas y acolchado de VKR más grueso justifican el precio premium para atletas cuyo programa depende de estas estaciones 3+ veces por semana."
+    },
+    {
+      "label": "Para usuarios de más de 185 cm que necesitan altura ajustable",
+      "offerId": "ultimate-body-press-freestanding-bar",
+      "reason": "La configuración de barra más alta de esta comparación a 244 cm — la única opción independiente que acomoda a usuarios muy altos sin colgarse con rodillas dobladas."
+    }
+  ]
 }

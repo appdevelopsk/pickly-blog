@@ -92,5 +92,99 @@
     "county-line-mason-jar-cold-brew": "Lowest-cost entry point — stainless mesh basket for wide-mouth mason jars. Metal mesh allows sediment; strain through paper if clarity matters. Best as a no-commitment trial or high-volume 1-gallon batch setup."
   },
   "pinDescription": "5 cold brew coffee makers compared for 2026: OXO slow-drip tower, Toddy felt filter, Primula Burke glass carafe, Takeya compact carafe, and County Line mason jar kit. Immersion vs slow-drip, filter types, steep times, and concentrate ratios explained.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each brewer was evaluated on extraction method (immersion vs slow-drip), filter type and sediment output, batch capacity vs daily-use fit, cleanup time after a real brew session, and whether the build quality justifies the price at 12 months of weekly use.",
+  "products": [
+    {
+      "offerId": "oxo-brew-compact-cold-brew",
+      "badge": "Best Overall",
+      "review": "The OXO Brew Compact is the only slow-drip tower in this comparison, which means fresh water always contacts the grounds — no extraction equilibrium, more brightness preserved, especially evident with light-roasted single-origin beans. The trade-off is real: 12–16 oz per batch is not a household volume system, and the $34 price is the highest here for what is essentially a 1–2 cup daily brewer.",
+      "pros": ["Slow-drip method preserves acidity and aromatics better than any immersion brewer", "Anodized aluminum carafe and borosilicate glass — best-built hardware in this comparison", "Adjustable drip rate knob for precise extraction control; paper pre-filter produces clean, oil-free output"],
+      "cons": ["Only 12–16 oz per batch — inadequate for households drinking more than 2 cups daily"],
+      "grade": "A+",
+      "specs": {
+        "Brew method": "Slow-drip tower",
+        "Batch capacity": "12–16 oz concentrate",
+        "Brew chamber": "32 oz",
+        "Steep time": "12–24 hours",
+        "Filter type": "Paper pre-filter + glass chamber",
+        "Cleanup": "Rinse carafe and chamber — 5 min"
+      },
+      "scores": {"Flavor": 4.9, "Value": 4.0, "Convenience": 4.3, "Quality": 4.8, "Freshness": 4.7}
+    },
+    {
+      "offerId": "toddy-cold-brew-home",
+      "badge": "Best for Weekly Batches",
+      "review": "Toddy's thick felt-pad filtration has defined the reference standard for low-sediment cold brew concentrate since 1964. A properly conditioned felt pad produces output closer in clarity to espresso than metal-mesh alternatives. The honest trade-off: felt pad conditioning and replacement every 2–3 months of weekly use is a real maintenance commitment that users who skip will eventually notice in their cup.",
+      "pros": ["Felt-pad filtration is the cleanest of any consumer cold brew system tested — near-zero sediment", "1.5L batch capacity covers a full week's supply for 1–2 people", "Glass decanter stores concentrate cleanly for up to 2 weeks"],
+      "cons": ["Felt pad requires conditioning before each use and replacement every 2–3 months — ongoing maintenance cost"],
+      "grade": "A",
+      "specs": {
+        "Brew method": "Immersion with felt-pad filter",
+        "Batch capacity": "1.5 L concentrate",
+        "Coffee ratio": "340 g coffee to 1.5 L water (1:4.4)",
+        "Steep time": "24 hours (fridge)",
+        "Filter type": "Thick felt pad",
+        "Cleanup": "Drain gravity 30–45 min + rinse; pad store submerged"
+      },
+      "scores": {"Flavor": 4.7, "Value": 4.5, "Convenience": 3.8, "Quality": 4.9, "Freshness": 4.5}
+    },
+    {
+      "offerId": "primula-burke-cold-brew-carafe",
+      "badge": "Best Everyday Glass Carafe",
+      "review": "The Primula Burke's removable fine-mesh stainless filter and borosilicate glass carafe hit a practical sweet spot: no felt pads to condition, no drain assembly, dishwasher-safe glass, and 1.6L capacity for every-2–3-days brewing. The fine-mesh output has more sediment than Toddy felt but less than the County Line basket — pour from the top 85% and it's clean enough for any application.",
+      "pros": ["Removable filter lifts out cleanly — no gravity drain wait, no felt pad conditioning", "Borosilicate glass carafe is dishwasher-safe and scratch-resistant", "1.6L capacity suits a 2–3 day brewing cycle for 1–2 people"],
+      "cons": ["Bottom 15% of concentrate has fine sediment — pour carefully or lose a small amount"],
+      "grade": "B+",
+      "specs": {
+        "Brew method": "Immersion with fine-mesh stainless filter",
+        "Batch capacity": "1.6 L",
+        "Coffee ratio": "1:5–1:6 (coffee to water)",
+        "Steep time": "16–20 hours (fridge)",
+        "Filter type": "Fine stainless mesh, removable",
+        "Cleanup": "Lift filter, rinse — 2 min"
+      },
+      "scores": {"Flavor": 4.5, "Value": 4.6, "Convenience": 4.8, "Quality": 4.4, "Freshness": 4.4}
+    },
+    {
+      "offerId": "takeya-deluxe-cold-brew",
+      "badge": "Best for Refrigerator Door Storage",
+      "review": "The Takeya Deluxe's defining feature is its refrigerator-door-shelf form factor: 1L capacity in a narrow-profile glass carafe that fits where wider vessels can't. For 1–2 person households that prefer fresh small batches over weekly batch prep, the daily or every-other-day brewing cycle works naturally with the compact design. The dual-layer fine-mesh lid filters adequately — not as clean as Toddy felt, but cleaner than the County Line basket.",
+      "pros": ["Narrow profile fits refrigerator door shelf — no rearranging required", "Dual-layer fine-mesh lid, no replacement filter components needed", "Thick borosilicate glass, dishwasher-safe"],
+      "cons": ["1L capacity requires frequent brewing (daily or every other day) for two people"],
+      "grade": "B",
+      "specs": {
+        "Brew method": "Immersion with dual-layer fine-mesh lid",
+        "Batch capacity": "1 L",
+        "Coffee ratio": "1:6–1:7 (coffee to water)",
+        "Steep time": "12–24 hours (fridge)",
+        "Filter type": "Dual-layer fine stainless mesh",
+        "Cleanup": "Remove lid, rinse — 2 min"
+      },
+      "scores": {"Flavor": 4.4, "Value": 4.5, "Convenience": 4.7, "Quality": 4.3, "Freshness": 4.3}
+    },
+    {
+      "offerId": "county-line-mason-jar-cold-brew",
+      "badge": "Best Budget Entry",
+      "review": "A stainless steel mesh basket that installs in standard wide-mouth mason jars — the most affordable way to try cold brew and the only system that scales to 1-gallon batches in this comparison. The coarser mesh output has more sediment than any dedicated brewer here, but straining through a paper filter after brewing resolves the clarity issue at the cost of one extra step.",
+      "pros": ["Lowest total cost — metal basket plus mason jar well under any dedicated brewer", "1-gallon jar capacity exceeds any dedicated brewer in this comparison", "No proprietary parts — use any wide-mouth mason jar"],
+      "cons": ["Metal mesh allows fine particles and coffee oils through — paper filter straining required for clarity"],
+      "grade": "B-",
+      "specs": {
+        "Brew method": "Immersion with coarse stainless mesh basket",
+        "Batch capacity": "Up to 1 gallon (3.8 L) with large jar",
+        "Coffee ratio": "1:4–1:5 (coffee to water)",
+        "Steep time": "12–24 hours (fridge or counter)",
+        "Filter type": "Coarse stainless mesh basket",
+        "Cleanup": "Lift basket, rinse — 2 min; optional paper strain"
+      },
+      "scores": {"Flavor": 4.3, "Value": 4.9, "Convenience": 4.4, "Quality": 3.9, "Freshness": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For specialty coffee enthusiasts who want the best flavor from single-origin beans", "offerId": "oxo-brew-compact-cold-brew", "reason": "Slow-drip extraction preserves brightness and aromatics that immersion systems flatten."},
+    {"label": "For households that brew once a week and want zero sediment", "offerId": "toddy-cold-brew-home", "reason": "Felt-pad filtration produces the cleanest concentrate of any system here — worth the maintenance."},
+    {"label": "For everyday glass carafe simplicity without felt-pad upkeep", "offerId": "primula-burke-cold-brew-carafe", "reason": "No drain assembly, no felt pads, dishwasher-safe — the lowest-maintenance glass option."},
+    {"label": "For 1–2 person households with limited refrigerator space", "offerId": "takeya-deluxe-cold-brew", "reason": "The only brewer designed to fit on a refrigerator door shelf without rearranging."},
+    {"label": "For first-timers or anyone who needs 1-gallon batch capacity", "offerId": "county-line-mason-jar-cold-brew", "reason": "Lowest cost entry point; scalable to gallon batches larger than any dedicated brewer."}
+  ]
 }

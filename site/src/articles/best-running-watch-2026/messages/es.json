@@ -98,5 +98,179 @@
     "garmin-forerunner-55": "El mejor reloj de running GPS de nivel básico para principiantes. El GPS de banda única es adecuado para la mayoría de las condiciones de running, la batería de 20 horas cubre cualquier distancia de carrera y las métricas básicas de entrenamiento son la profundidad correcta para los nuevos corredores. La rampa de acceso más accesible al entrenamiento GPS estructurado antes de invertir en el Forerunner 265."
   },
   "pinDescription": "Los mejores relojes de running 2026 comparados: Garmin vs Coros vs Apple vs Polar para la precisión GPS, el análisis de carga de entrenamiento y la duración de la batería. ¿Qué reloj es el adecuado para tu entrenamiento de maratón, carrera ultra o carreras diarias?",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "garmin-forerunner-265",
+      "badge": "Mejor opción general",
+      "review": "El Forerunner 265 combina GPS multi-banda L1/L5, frecuencia cardíaca Elevate v4, pantalla AMOLED y el monitoreo de entrenamiento más completo del grupo — Training Readiness, HRV Status y Training Status dan una imagen diaria de si el cuerpo está listo. La batería GPS de 20 horas cubre cualquier distancia de carrera. El AMOLED consume más batería que el MIP.",
+      "pros": [
+        "GPS multi-banda L1/L5 — precisión sub-5m en cañones urbanos",
+        "Training Readiness + HRV Status para detección de sobreentrenamiento",
+        "Pantalla AMOLED con Garmin Pay y almacenamiento de música"
+      ],
+      "cons": [
+        "AMOLED reduce la batería vs rivales MIP a precio similar"
+      ],
+      "grade": "A+",
+      "specs": {
+        "GPS": "Multi-banda L1/L5",
+        "Sensor HR": "Elevate v4",
+        "Pantalla": "AMOLED",
+        "Batería (GPS)": "20 horas",
+        "Música": "650 canciones",
+        "Precio": "$349,99"
+      },
+      "scores": {
+        "GPS accuracy": 5.0,
+        "Battery life": 3.8,
+        "Ease of use": 4.5,
+        "Value": 4.2,
+        "Heart rate accuracy": 4.8
+      }
+    },
+    {
+      "offerId": "coros-pace-3",
+      "badge": "Mejor duración de batería",
+      "review": "Las 38 horas de GPS del Coros Pace 3 son imbatibles en esta comparativa — el único reloj aquí con el que se puede completar un ultramaratón de 100 millas sin cargador. Con 30 g también es el más ligero. El análisis de entrenamiento EvoLab cubre las métricas esenciales. Las funciones de smartwatch mínimas son una elección de diseño deliberada.",
+      "pros": [
+        "38 horas GPS — mejor duración de batería en la comparativa",
+        "30 g con correa — el reloj más ligero aquí",
+        "Análisis VO2max y carga de entrenamiento EvoLab"
+      ],
+      "cons": [
+        "Sin música, sin pago — funcionalidad mínima de smartwatch"
+      ],
+      "grade": "A",
+      "specs": {
+        "GPS": "Multi-banda, chip Sony",
+        "Peso": "30 g",
+        "Batería (GPS)": "38 horas",
+        "Sensor HR": "Coros óptico",
+        "Smartwatch": "Mínimo",
+        "Precio": "$229"
+      },
+      "scores": {
+        "GPS accuracy": 4.5,
+        "Battery life": 5.0,
+        "Ease of use": 4.0,
+        "Value": 4.8,
+        "Heart rate accuracy": 4.0
+      }
+    },
+    {
+      "offerId": "apple-watch-series-9",
+      "badge": "Mejor para usuarios de iPhone",
+      "review": "El Apple Watch Series 9 es el smartwatch más capaz de este grupo y el ordenador de carrera menos capaz. Para corredores recreativos que quieren un solo dispositivo para todo, GPS y frecuencia cardíaca son adecuados. La batería GPS de 6-8 horas es la limitación decisiva: un maratón completo a 4+ horas es ajustado.",
+      "pros": [
+        "Ecosistema Apple completo — Pay, ECG, detección de FA",
+        "GPS L1/L5 adecuado para carreras de entrenamiento",
+        "Mejor conjunto de funciones de smartwatch en la comparativa"
+      ],
+      "cons": [
+        "Batería GPS de 6–8 horas — ajustado para maratón completo"
+      ],
+      "grade": "B+",
+      "specs": {
+        "GPS": "L1/L5 doble frecuencia",
+        "Batería (GPS)": "6–8 horas",
+        "Pantalla": "Retina LTPO",
+        "Sensor HR": "Apple óptico",
+        "Pago": "Apple Pay",
+        "Precio": "desde ¥49.698"
+      },
+      "scores": {
+        "GPS accuracy": 4.0,
+        "Battery life": 2.0,
+        "Ease of use": 5.0,
+        "Value": 3.5,
+        "Heart rate accuracy": 3.8
+      }
+    },
+    {
+      "offerId": "polar-pacer-pro",
+      "badge": "Mejor análisis de carga de entrenamiento",
+      "review": "El sensor Precision Prime de la Polar Pacer Pro es el más preciso del grupo en alta intensidad — separa la carga cardiovascular y neuromuscular en canales distintos, lo que es más accionable para la periodización estructurada que una puntuación de preparación unificada. La batería GPS de 35 horas es sólida.",
+      "pros": [
+        "Precision Prime HR óptica — mejor precisión óptica aquí",
+        "Training Load Pro separa carga cardio vs. muscular",
+        "Batería GPS de 35 horas — sólida para eventos largos"
+      ],
+      "cons": [
+        "Ecosistema más estrecho — menos integraciones de apps de terceros"
+      ],
+      "grade": "B",
+      "specs": {
+        "GPS": "Multi-banda, fusión Precision Prime",
+        "Batería (GPS)": "35 horas",
+        "Pantalla": "MIP",
+        "Sensor HR": "Precision Prime",
+        "Carga entrenamiento": "Cardio + Muscular + Percibida",
+        "Precio": "$300"
+      },
+      "scores": {
+        "GPS accuracy": 4.3,
+        "Battery life": 4.8,
+        "Ease of use": 3.8,
+        "Value": 4.0,
+        "Heart rate accuracy": 5.0
+      }
+    },
+    {
+      "offerId": "garmin-forerunner-55",
+      "badge": "Mejor nivel de entrada",
+      "review": "El Forerunner 55 da a los principiantes todo lo que necesitan: GPS de banda única adecuado para parques y carreteras suburbanas, batería de 20 horas para cualquier distancia de carrera, y datos de entrenamiento básicos sin complejidad abrumadora. El GPS de banda única es la limitación real — en cañones urbanos muestra 15-30 m de deriva.",
+      "pros": [
+        "Batería de 20 horas para cualquier distancia de carrera estándar",
+        "Interfaz simple reduce la curva de aprendizaje para nuevos corredores",
+        "Ecosistema Garmin Connect a precio de entrada"
+      ],
+      "cons": [
+        "GPS de banda única — la precisión disminuye en cañones urbanos"
+      ],
+      "grade": "B-",
+      "specs": {
+        "GPS": "Banda única",
+        "Batería (GPS)": "20 horas",
+        "Pantalla": "MIP (transflectiva)",
+        "Sensor HR": "Garmin óptico",
+        "Métricas": "VO2max, Efecto de entrenamiento",
+        "Precio": "$199"
+      },
+      "scores": {
+        "GPS accuracy": 3.5,
+        "Battery life": 4.5,
+        "Ease of use": 4.8,
+        "Value": 5.0,
+        "Heart rate accuracy": 3.8
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para corredores recreativos competitivos",
+      "offerId": "garmin-forerunner-265",
+      "reason": "El GPS multi-banda y el Training Readiness basado en HRV proporcionan la precisión de datos y el seguimiento de recuperación que exige el entrenamiento de medio maratón y maratón."
+    },
+    {
+      "label": "Para atletas de ultramaratón y multi-día",
+      "offerId": "coros-pace-3",
+      "reason": "38 horas GPS-on elimina completamente las preocupaciones de carga para cualquier evento de ultra-distancia — ningún otro reloj en este grupo se acerca."
+    },
+    {
+      "label": "Para usuarios de iPhone que corren recreativamente",
+      "offerId": "apple-watch-series-9",
+      "reason": "Si la integración del ecosistema y las funciones no relacionadas con el running importan tanto como las métricas de carrera, ningún reloj aquí entrega ambas tan bien como Apple Watch."
+    },
+    {
+      "label": "Para entrenamiento estructurado con periodización",
+      "offerId": "polar-pacer-pro",
+      "reason": "Separar la carga de entrenamiento cardiovascular de la muscular es más accionable para bloques periodizados que una puntuación de preparación unificada."
+    },
+    {
+      "label": "Para nuevos corredores que establecen el hábito GPS",
+      "offerId": "garmin-forerunner-55",
+      "reason": "La profundidad correcta de datos de entrenamiento sin el costo y la complejidad de funciones que un principiante no usará durante al menos 12-18 meses."
+    }
+  ]
 }

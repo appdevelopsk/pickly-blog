@@ -109,5 +109,139 @@
     "canon-ivy-cliq-plus-2": "Canon IVY CLIQ+2 — carta termica senza inchiostro ZINK, stampe 51×76mm (2×3 pollici), app Bluetooth con modifica ed effetti AR, specchio selfie da 2 pollici, circa ¥15.000. Disponibile su Rakuten Ichiba. Le stampe 51×76mm sono le piu piccole in questo confronto — ancora piu piccole dell'Instax Mini con area immagine di 62×46mm; i colori della carta ZINK possono apparire meno saturi e meno 'fotografici' rispetto alla pellicola agli alogenuri d'argento; la qualita dello scatto in-camera e inferiore all'utilizzo della fotocamera dello smartphone; il processo termico ZINK produce colori irregolari in ambienti freddi; a ¥15.000 il prezzo e premium rispetto alla Kodak Mini Shot a ¥10.000 che produce stampe piu grandi con costi per stampa piu bassi."
   },
   "pinDescription": "5 fotocamere istantanee a confronto per il 2026 — Instax Mini 12 automatica vs Instax Wide 300 per i gruppi vs Polaroid Now+ con app creativa vs Kodak Mini Shot 3 Retro ibrida vs Canon IVY CLIQ+2 ZINK. Calcolo del costo della pellicola, realta delle dimensioni di stampa, contesto mercato giapponese. La tua prossima fotocamera istantanea inizia qui. #italiano",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "methodology": "Ogni fotocamera è stata valutata sulle dimensioni reali di stampa e la qualità dell'immagine dei processi a halogeniuro d'argento, termico e ZINK, il costo operativo per stampa in Giappone, la facilità d'uso senza dipendenza dall'app, la qualità di costruzione secondo i rapporti di durabilità dei proprietari e le funzioni di connettività valutate rispetto ai casi d'uso reali.",
+  "products": [
+    {
+      "offerId": "fujifilm-instax-mini-12",
+      "badge": "Migliore Scelta Generale",
+      "review": "L'Instax Mini 12 è la fotocamera istantanea più convincente per i principianti: esposizione completamente automatica, nessun menu, nessuna dipendenza dall'app. La stampa a halogeniuro d'argento 62×46mm offre vera qualità fotografica senza artefatti termici. Lo specchio selfie e la modalità primo piano sono particolarmente utili per gli scatti quotidiani. L'unico compromesso: ~¥100 per stampa è più costoso delle stampe digitali, ma questo è il prezzo dell'esperienza autentica di foto istantanea.",
+      "pros": ["Esposizione completamente automatica — nessun menu, nessuna configurazione", "Stampe a halogeniuro d'argento con vera qualità fotografica", "133g la rende l'opzione più portatile del confronto"],
+      "cons": ["~¥100 per stampa più costoso delle alternative di stampa termica"],
+      "grade": "A+",
+      "specs": {
+        "Formato pellicola": "Instax Mini (62×46mm)",
+        "Processo di stampa": "Halogeniuro d'argento",
+        "Peso": "133 g",
+        "Costo per stampa": "~¥100",
+        "Prezzo (fotocamera)": "~¥8.000",
+        "Caratteristiche": "Specchio selfie, modalità primo piano"
+      },
+      "scores": {
+        "Print quality": 4.2,
+        "Film cost": 4.5,
+        "Ease of use": 5.0,
+        "Value": 4.8,
+        "Build quality": 4.0
+      }
+    },
+    {
+      "offerId": "fujifilm-instax-wide-300",
+      "badge": "Migliore per Foto di Gruppo",
+      "review": "L'Instax Wide 300 produce stampe 85×54mm — il doppio del formato Mini — rendendola l'unica opzione del confronto per vere foto di gruppo. Il processo a halogeniuro d'argento offre la stessa qualità del Mini 12, in un formato molto più utile per paesaggi e foto ricordo. Il compromesso: la fotocamera è ingombrante e non entra nelle borse piccole.",
+      "pros": ["Stampe 85×54mm, il doppio del formato Mini", "Qualità a halogeniuro d'argento per veri ricordi fotografici", "Ghiera di esposizione per regolazione manuale"],
+      "cons": ["Fotocamera ingombrante — non entra nelle borse piccole"],
+      "grade": "A",
+      "specs": {
+        "Formato pellicola": "Instax Wide (85×54mm)",
+        "Processo di stampa": "Halogeniuro d'argento",
+        "Costo per stampa": "~¥120",
+        "Prezzo (fotocamera)": "~¥12.000",
+        "Esposizione": "Ghiera di esposizione",
+        "Caratteristiche": "Il formato pellicola più grande del confronto"
+      },
+      "scores": {
+        "Print quality": 4.5,
+        "Film cost": 4.3,
+        "Ease of use": 4.0,
+        "Value": 4.2,
+        "Build quality": 4.0
+      }
+    },
+    {
+      "offerId": "polaroid-now-plus",
+      "badge": "Opzione Più Creativa",
+      "review": "La Polaroid Now+ combina l'estetica nostalgica i-Type di Polaroid con il controllo tramite app Bluetooth, la doppia esposizione, l'esposizione multipla e la messa a fuoco manuale. Il risultato è la fotocamera istantanea più creativa del test. Il prezzo della pellicola è il problema principale: la pellicola i-Type costa ~¥200/stampa — il doppio dell'Instax Mini — e il risultato è meno riproducibile.",
+      "pros": ["App Bluetooth con doppia esposizione e autoscatto", "Messa a fuoco manuale per controllo creativo", "Estetica Polaroid iconica con funzioni moderne"],
+      "cons": ["Pellicola i-Type ~¥200/stampa — la più costosa del confronto"],
+      "grade": "B+",
+      "specs": {
+        "Formato pellicola": "Polaroid i-Type (88×107mm)",
+        "Processo di stampa": "Halogeniuro d'argento",
+        "Costo per stampa": "~¥200",
+        "Prezzo (fotocamera)": "~¥18.000",
+        "Connettività": "Bluetooth",
+        "Caratteristiche": "Doppia esposizione, messa a fuoco manuale"
+      },
+      "scores": {
+        "Print quality": 4.3,
+        "Film cost": 2.5,
+        "Ease of use": 3.8,
+        "Value": 3.5,
+        "Build quality": 4.2
+      }
+    },
+    {
+      "offerId": "kodak-mini-shot-3-retro",
+      "badge": "Costo Operativo Più Basso",
+      "review": "Il Kodak Mini Shot 3 Retro è l'unico ibrido del test: stampa direttamente dalla fotocamera o trasferisci foto dallo smartphone tramite app. La sublimazione di colorante 4PASS produce stampe più durature della pellicola Instax. Il costo operativo è di ~¥50/stampa, il più basso del confronto. Il compromesso: la qualità di stampa è leggermente meno vivace dell'halogeniuro d'argento.",
+      "pros": ["~¥50/stampa — il costo operativo più basso del confronto", "Modalità duale: fotocamera diretta e app smartphone", "Sublimazione di colorante 4PASS più duratura della pellicola a halogeniuro d'argento"],
+      "cons": ["Qualità di stampa leggermente meno vivace del vero halogeniuro d'argento"],
+      "grade": "B",
+      "specs": {
+        "Formato pellicola": "Kodak Mini (68×84mm)",
+        "Processo di stampa": "Sublimazione di colorante 4PASS",
+        "Costo per stampa": "~¥50",
+        "Prezzo (fotocamera)": "~¥10.000",
+        "Connettività": "Bluetooth + USB",
+        "Caratteristiche": "Ibrido smartphone"
+      },
+      "scores": {
+        "Print quality": 4.0,
+        "Film cost": 5.0,
+        "Ease of use": 3.5,
+        "Value": 4.5,
+        "Build quality": 3.8
+      }
+    },
+    {
+      "offerId": "canon-ivy-cliq-plus-2",
+      "badge": "Migliore Integrazione Smartphone",
+      "review": "Il Canon IVY CLIQ+2 offre l'integrazione smartphone più profonda: modifica e filtra prima di stampare, aggiungi effetti AR e stampa direttamente dall'app. Il processo termico ZINK elimina completamente il costo della pellicola. Il limite è la dimensione di stampa: 51×76mm è il formato più piccolo del confronto, e i colori ZINK sono meno saturi dell'halogeniuro d'argento.",
+      "pros": ["L'integrazione smartphone più profonda con modifica prima della stampa", "Effetti AR e filtri per personalizzazione creativa", "Nessuna necessità di costosa pellicola a halogeniuro d'argento"],
+      "cons": ["51×76mm il formato di stampa più piccolo; colori ZINK meno saturi"],
+      "grade": "B-",
+      "specs": {
+        "Formato pellicola": "51×76mm (2×3 pollici)",
+        "Processo di stampa": "Termico ZINK",
+        "Costo per stampa": "~¥40",
+        "Prezzo (fotocamera)": "~¥15.000",
+        "Connettività": "Bluetooth",
+        "Caratteristiche": "Modifica prima della stampa, effetti AR"
+      },
+      "scores": {
+        "Print quality": 3.5,
+        "Film cost": 3.5,
+        "Ease of use": 4.2,
+        "Value": 3.3,
+        "Build quality": 4.0
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per i principianti che cercano un'esperienza istantanea semplice",
+      "offerId": "fujifilm-instax-mini-12",
+      "reason": "Completamente automatica senza menu e vera qualità a halogeniuro d'argento la rendono il punto di partenza più semplice."
+    },
+    {
+      "label": "Per i creativi che vogliono più controllo",
+      "offerId": "polaroid-now-plus",
+      "reason": "L'app Bluetooth con doppia esposizione e messa a fuoco manuale offre le più ampie possibilità creative."
+    },
+    {
+      "label": "Per i budget ridotti orientati allo smartphone",
+      "offerId": "kodak-mini-shot-3-retro",
+      "reason": "~¥50/stampa e modalità ibrida smartphone offrono il miglior compromesso tra costo e flessibilità."
+    }
+  ]
 }

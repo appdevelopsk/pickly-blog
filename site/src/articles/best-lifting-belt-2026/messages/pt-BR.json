@@ -48,5 +48,64 @@
     "harbinger-padded-leather-belt": "Couro acolchoado com espuma para conforto em treinamento geral. Não é de especificação de competição, mas ideal para trabalho misto na academia e séries de repetições altas onde um cinto rígido seria impraticável."
   },
   "pinDescription": "Inzer vs SBD vs Rogue -- os 5 melhores cintos de levantamento de 2026 classificados por desempenho real em agachamento e levantamento terra. Alavanca vs fivela, 10mm vs 13mm, competição vs treinamento diário cobertos. #CintoLevantamento #Powerlifting #português",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Cada produto foi avaliado em cinco critérios: qualidade de construção, desempenho em uso típico, durabilidade ao longo do tempo, conforto e custo-benefício. Ponderamos desempenho e durabilidade com maior peso porque determinam se um produto ainda é útil 12 meses depois.",
+  "products": [
+    {
+      "offerId": "inzer-forever-lever-belt-10mm",
+      "badge": "Melhor no geral",
+      "review": "O Inzer Forever Lever Belt é o padrão com o qual todos os outros cintos de powerlifting são comparados. O couro de camada única de 10mm é rígido o suficiente para suporte real de pressão intra-abdominal sem a tendência do 13mm de machucar as costelas em séries de muitas repetições. Aprovado pela IPF — treina e compete com o mesmo cinto. O fechamento de alavanca entrega tensão idêntica a cada série — ajuste uma vez, clique e levante.",
+      "pros": ["Fechamento de alavanca: tensão idêntica a cada série sem ajuste", "Aprovado pela IPF para competição", "Garantia Forever: cobre defeitos durante toda a vida do cinto"],
+      "cons": ["4-6 semanas de período de adaptação até o couro se moldar ao corpo"],
+      "grade": "A+",
+      "specs": {"Espessura": "Couro de camada única 10mm", "Largura": "10cm (uniforme, IPF)", "Fechamento": "Fivela de alavanca", "Aprovado IPF": "Sim", "Preço": "$129.95"},
+      "scores": {"Qualidade de construção": 5.0, "Durabilidade": 5.0, "Conforto": 3.8, "Facilidade de uso": 4.5, "Custo-benefício": 4.5}
+    },
+    {
+      "offerId": "sbd-belt-powerlifting",
+      "badge": "Melhor para competição",
+      "review": "O cinto SBD de 13mm é usado por vários detentores de recordes mundiais IPF — não é marketing, é um dado verificável sobre a resistência da construção sob cargas máximas reais. Máxima rigidez legal para o maior potencial de suporte. O mecanismo de dedo único solta mais rápido que o Inzer entre tentativas. Compensações: 6-8 semanas de adaptação e desconforto em séries de muitas repetições.",
+      "pros": ["Usado por detentores de recordes mundiais IPF", "Abertura com um dedo — a mais rápida da categoria", "Espessura máxima legal 13mm para o maior suporte"],
+      "cons": ["6-8 semanas de período de adaptação", "Desconfortável para séries de 8+ repetições"],
+      "grade": "A",
+      "specs": {"Espessura": "Couro de camada única 13mm", "Largura": "10cm (IPF)", "Fechamento": "Alavanca SBD proprietária", "Fabricado em": "Reino Unido", "Preço": "$320-380"},
+      "scores": {"Qualidade de construção": 5.0, "Durabilidade": 5.0, "Conforto": 3.0, "Facilidade de uso": 4.8, "Custo-benefício": 3.0}
+    },
+    {
+      "offerId": "rogue-ohio-lifting-belt",
+      "badge": "Melhor cinto feito nos EUA",
+      "review": "O Rogue Ohio Belt é fabricado em Columbus, Ohio, com couro Herman Oak — o mesmo curtume usado pelos melhores fabricantes de cintos personalizados. O afunilamento de 4 para 3 polegadas na frente melhora a mobilidade do quadril durante levantamentos terra. Disponível em prong simples ou duplo. A qualidade de construção é consistente e a rastreabilidade da cadeia de suprimentos é um diferenciador real.",
+      "pros": ["Couro Herman Oak — mesmo curtume que cintos sob medida premium", "Afunilamento 4→3 polegadas melhora mobilidade do quadril no levantamento terra", "Fabricado em Columbus, Ohio com cadeia de suprimentos rastreável"],
+      "cons": ["Fechamento de prong requer mais tempo de ajuste que a alavanca"],
+      "grade": "B+",
+      "specs": {"Espessura": "Couro de camada única 10mm", "Largura": "4 pol. atrás / 3 pol. frente", "Fechamento": "Prong simples ou duplo", "Fabricado em": "Columbus, Ohio, EUA", "Preço": "$180-230"},
+      "scores": {"Qualidade de construção": 4.8, "Durabilidade": 4.8, "Conforto": 4.0, "Facilidade de uso": 3.8, "Custo-benefício": 4.3}
+    },
+    {
+      "offerId": "pioneer-cut-powerlifting-belt",
+      "badge": "Melhor geometria para agachamento",
+      "review": "O corte contornado da Pioneer — mais largo nas costas, estreitando-se para os lados — é uma geometria que muitos levantadores acham menos incômoda para os flexores do quadril no ponto mais baixo do agachamento em comparação com cintos de largura uniforme. Popular no powerlifting japonês pela compatibilidade específica com o agachamento. Disponível em múltiplas larguras e estilos de fivela.",
+      "pros": ["Geometria contornada reduz interferência dos flexores do quadril no agachamento profundo", "Popular no powerlifting japonês pela adaptação específica ao agachamento", "Disponível em múltiplas larguras e configurações de fivela"],
+      "cons": ["A geometria específica pode não se adaptar a todas as proporções corporais"],
+      "grade": "B",
+      "specs": {"Espessura": "Couro de camada única 10mm", "Corte": "Contorno Pioneer — costas largas, lados estreitos", "Aprovado IPF": "Sim", "Opções": "Múltiplas larguras e estilos de fivela", "Preço": "$150-200"},
+      "scores": {"Qualidade de construção": 4.5, "Durabilidade": 4.5, "Conforto": 4.5, "Facilidade de uso": 3.8, "Custo-benefício": 4.5}
+    },
+    {
+      "offerId": "harbinger-padded-leather-belt",
+      "badge": "Melhor para treinamento geral",
+      "review": "O cinto de couro acolchoado da Harbinger é projetado para musculação geral e fisiculturismo, não para competições de powerlifting. O painel traseiro acolchoado de espuma o torna confortável desde a primeira sessão — ideal para levantamentos terra romenos e remadas onde você o coloca e remove continuamente. O suporte máximo é inferior ao couro rígido de camada única; para séries a 70-80%, é perfeitamente adequado.",
+      "pros": ["Confortável desde o primeiro dia — sem período de adaptação", "Espuma prática para séries de alta repetição variadas", "Menor preço desta comparação"],
+      "cons": ["Não é de especificação de competição — espuma limita suporte máximo", "Não aprovado pela IPF"],
+      "grade": "B-",
+      "specs": {"Material": "Couro com painel traseiro de espuma", "Largura": "6 polegadas", "Aprovado IPF": "Não", "Ideal para": "Treinamento geral, splits de fisiculturismo", "Preço": "$40-65"},
+      "scores": {"Qualidade de construção": 3.5, "Durabilidade": 3.8, "Conforto": 5.0, "Facilidade de uso": 4.5, "Custo-benefício": 5.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Para powerlifters competitivos", "offerId": "inzer-forever-lever-belt-10mm", "reason": "Alavanca aprovada pela IPF com tensão consistente a cada série e garantia vitalícia"},
+    {"label": "Para competição IPF de elite", "offerId": "sbd-belt-powerlifting", "reason": "Suporte legal máximo a 13mm, usado por recordistas mundiais IPF na plataforma"},
+    {"label": "Para atletas focados em levantamento terra", "offerId": "rogue-ohio-lifting-belt", "reason": "O afunilamento frontal melhora a mobilidade do quadril na dobra durante puxadas pesadas"},
+    {"label": "Para agachamentos profundos", "offerId": "pioneer-cut-powerlifting-belt", "reason": "A geometria contornada reduz a interferência dos flexores do quadril no ponto mais baixo"},
+    {"label": "Para treinamento geral na academia", "offerId": "harbinger-padded-leather-belt", "reason": "Confortável para séries de alta repetição sem adaptação, ao menor preço"}
+  ]
 }

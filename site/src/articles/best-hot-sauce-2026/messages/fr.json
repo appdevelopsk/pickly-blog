@@ -63,5 +63,64 @@
     "franks-redhot-original": "La bouteille de 23 oz est la meilleure valeur. Frank's propose aussi une Buffalo Wing Sauce pré-mélangée avec du beurre déjà ajouté."
   },
   "pinDescription": "Les 5 meilleures sauces piquantes 2026 — de la douce Crystal style Louisiana à la complexe Cholula et au classique Tabasco. Trouvez votre niveau de piquant parfait ! #saucePiquante #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque sauce a été évaluée sur le niveau de piquant en Scoville, la qualité des ingrédients, la complexité aromatique au-delà de la chaleur, la polyvalence et le rapport qualité-prix par volume.",
+  "products": [
+    {
+      "offerId": "tabasco-original-red",
+      "badge": "Meilleure au global",
+      "review": "Trois ans de fermentation en fût sur Avery Island confèrent au Tabasco une intensité et une constance que les productions industrielles ne peuvent reproduire. La texture fine et vinaigrée se répartit uniformément sur n'importe quel aliment. À 2.500–5.000 Scoville, la chaleur est présente sans être écrasante. Seule vraie limite : la petite bouteille de 2 oz revient cher à l'once pour un usage quotidien.",
+      "pros": ["La fermentation de trois ans crée des arômes complexes absents des simples sauces au vinaigre", "Texture fine qui se répartit uniformément sur n'importe quel aliment", "Disponibilité mondiale incomparable"],
+      "cons": ["Les petites bouteilles sont chères à l'once face aux grands formats concurrents"],
+      "grade": "A+",
+      "specs": {"Scoville": "2.500–5.000", "Base": "Piments Tabasco", "Style": "Fermentée", "Vinaigre": "Distillé", "Tailles disponibles": "2 oz – 1 gallon", "Origine": "Avery Island, Louisiane"},
+      "scores": {"Niveau de piquant": 3.8, "Saveur": 4.8, "Rapport qualité-prix": 4.0, "Polyvalence": 4.9, "Qualité ingrédients": 4.7}
+    },
+    {
+      "offerId": "cholula-original",
+      "badge": "Meilleure complexité aromatique",
+      "review": "Le mélange de piments pequin et arbol de Cholula offre davantage de dimensions gustatives que les sauces à base de cayenne pure. À 1.000–2.000 Scoville, elle reste accessible aux personnes peu tolérantes au piquant. Le bouchon en bois est charmant, mais le format flip-top est plus pratique au quotidien.",
+      "pros": ["Le mélange pequin-arbol crée une véritable profondeur aromatique", "Niveau de piquant accessible pour des groupes aux tolérances variées", "Bouchon en bois iconique"],
+      "cons": ["La version bouchon bois est moins pratique que le flip-top pour un usage quotidien"],
+      "grade": "A",
+      "specs": {"Scoville": "1.000–2.000", "Base": "Piments pequin et arbol", "Style": "Mélange frais moulu", "Origine": "Chapala, Mexique", "Tailles disponibles": "5 oz – 64 oz", "Vinaigre": "Cidre de pomme"},
+      "scores": {"Niveau de piquant": 2.8, "Saveur": 4.9, "Rapport qualité-prix": 4.3, "Polyvalence": 4.7, "Qualité ingrédients": 4.5}
+    },
+    {
+      "offerId": "valentina-extra-hot",
+      "badge": "Meilleur rapport qualité-prix",
+      "review": "Moins de 3 $ pour une grande bouteille — Valentina Extra Hot est la sauce de travail du garde-manger. Sa consistance épaisse adhère aux aliments plutôt que de couler. Le goût est terreux et légèrement sucré avant que la chaleur (~2.100 Scoville) ne monte. Il lui manque la complexité fermentée du Tabasco, mais c'est une attente déraisonnable à ce prix.",
+      "pros": ["Meilleur prix à l'once de cette comparaison", "Texture épaisse qui adhère aux aliments plutôt que de couler", "Profil aromatique terreux et légèrement sucré avant la chaleur"],
+      "cons": ["Moins complexe que les sauces fermentées — profil gustatif plus simple"],
+      "grade": "B+",
+      "specs": {"Scoville": "~2.100", "Base": "Piments séchés", "Style": "Pâte épaisse", "Origine": "Guadalajara, Mexique", "Tailles disponibles": "12,5 oz – 34 oz", "Vinaigre": "Distillé"},
+      "scores": {"Niveau de piquant": 3.5, "Saveur": 4.0, "Rapport qualité-prix": 5.0, "Polyvalence": 4.4, "Qualité ingrédients": 3.8}
+    },
+    {
+      "offerId": "crystal-hot-sauce",
+      "badge": "Meilleure sauce style Louisiana",
+      "review": "Cayenne vieilli et vinaigre distillé — Crystal est l'expression la plus pure d'une sauce Louisiana. À 800–1.000 Scoville, la chaleur est suffisamment basse pour la cuisine en grandes quantités (gumbo, haricots rouges, ailes). L'acidité est remarquable : Crystal apporte brillance et caractère poivré sans la virulence du Tabasco.",
+      "pros": ["Saveur de cayenne vieilli propre sans agressivité", "Chaleur basse, sûre pour la cuisine en grandes quantités", "Bon rapport qualité-prix en format standard 12 oz"],
+      "cons": ["Le faible Scoville ne satisfera pas les amateurs de piquant intense"],
+      "grade": "B",
+      "specs": {"Scoville": "800–1.000", "Base": "Cayenne vieilli", "Style": "Style Louisiana", "Origine": "La Nouvelle-Orléans, Louisiane", "Tailles disponibles": "6 oz – 1 gallon", "Vinaigre": "Distillé"},
+      "scores": {"Niveau de piquant": 2.0, "Saveur": 4.3, "Rapport qualité-prix": 4.6, "Polyvalence": 4.5, "Qualité ingrédients": 4.2}
+    },
+    {
+      "offerId": "franks-redhot-original",
+      "badge": "Meilleure pour la cuisine",
+      "review": "Frank's RedHot est la base originale de la sauce buffalo et l'option la plus douce de cette comparaison (~450 Scoville). La combinaison cayenne-vinaigre nappe parfaitement les protéines et résiste à la chaleur du four. Elle se lit davantage comme 'acidulée' que 'piquante', ce qui en fait le choix idéal pour les ailes, les dips et les recettes où le piquant doit compléter sans dominer.",
+      "pros": ["Conçue spécifiquement pour napper les ailes style buffalo", "Chaleur faible adaptée aux convives peu tolérants au piquant", "Grand format disponible pour la cuisine en grandes quantités"],
+      "cons": ["Trop douce pour fonctionner comme sauce piquante autonome pour les amateurs de fort"],
+      "grade": "B-",
+      "specs": {"Scoville": "~450", "Base": "Cayenne vieilli", "Style": "Style buffalo", "Origine": "Springfield, Missouri", "Tailles disponibles": "5 oz – 1 gallon", "Vinaigre": "Distillé"},
+      "scores": {"Niveau de piquant": 1.5, "Saveur": 4.0, "Rapport qualité-prix": 4.5, "Polyvalence": 4.2, "Qualité ingrédients": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour l'usage quotidien à table", "offerId": "tabasco-original-red", "reason": "La complexité fermentée et la texture fine s'accordent avec pratiquement tout — la sauce piquante polyvalente par excellence."},
+    {"label": "Pour les amateurs de saveur avant la chaleur", "offerId": "cholula-original", "reason": "Le mélange pequin-arbol apporte profondeur et caractère au-delà du simple comptage Scoville."},
+    {"label": "Pour constituer un stock à petit budget", "offerId": "valentina-extra-hot", "reason": "Meilleur prix à l'once du comparatif, avec texture épaisse qui adhère parfaitement."},
+    {"label": "Pour les soirées ailes et la cuisine en grandes quantités", "offerId": "franks-redhot-original", "reason": "Conçue pour napper les ailes style buffalo — adhère uniformément et résiste à la chaleur du four."},
+    {"label": "Pour la cuisine style sudiste", "offerId": "crystal-hot-sauce", "reason": "Saveur de cayenne vieilli propre qui sublime le gumbo, les haricots rouges et le poulet frit."}
+  ]
 }

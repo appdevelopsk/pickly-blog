@@ -58,5 +58,64 @@
     "zico-natural-coconut-water": "Pasteurized, no added sugar, 16.9 oz. $2.50-3.50. Best dry-profile coconut water — slightly less sweet than Vita Coco, favored by athletes. Correct for post-workout use where the slightly less sweet flavor is preferred."
   },
   "pinDescription": "Coconut water 2026: Vita Coco vs Harmless Harvest vs ZICO vs Taste Nirvana — raw vs pasteurized vs from concentrate explained, why Harmless Harvest is pink, coconut water vs sports drinks electrolyte comparison, and best coconut water for everyday hydration.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "products": [
+    {
+      "offerId": "vita-coco-original",
+      "badge": "Best Overall",
+      "review": "Vita Coco Original is the practical default for mainstream coconut water — pasteurized, no added sugar, 670mg potassium per serving in a shelf-stable Tetra Pak available everywhere. The flavor is sweeter and less complex than raw options as a result of pasteurization, but it's consistent, widely trusted, and priced for case buying. For everyday hydration, it works.",
+      "pros": ["Available at virtually every grocery chain and online retailer", "No added sugar — naturally occurring electrolytes only", "Shelf-stable Tetra Pak — no refrigerator space required"],
+      "cons": ["Pasteurization creates a sweeter, less complex flavor than raw coconut water"],
+      "grade": "A+",
+      "specs": {"Size": "16.9 oz Tetra Pak", "Processing": "Pasteurized", "Added sugar": "None", "Potassium": "~670mg per serving", "From concentrate": "No"},
+      "scores": {"Taste": 3.9, "Value": 4.7, "Nutrition": 4.3, "Convenience": 5.0, "Quality": 4.0}
+    },
+    {
+      "offerId": "harmless-harvest-raw",
+      "badge": "Best Raw / Premium",
+      "review": "Harmless Harvest is the reference product for raw coconut water quality in the US — never heated, cold-chain processed from Thailand, with the faint pink color from antioxidants that only appears in truly raw coconut water. The flavor is noticeably more complex and closer to fresh coconut than any pasteurized option. The higher price and refrigerated-only format are genuine trade-offs for genuinely better quality.",
+      "pros": ["Never heated — closest flavor to fresh coconut water available at retail", "Naturally pink from antioxidants — a quality indicator, not a defect", "Cold-chain processed with shorter, more transparent supply chain"],
+      "cons": ["Refrigerated only — requires fridge space and shorter shelf life", "Roughly 2× the price per ounce of Vita Coco"],
+      "grade": "A",
+      "specs": {"Size": "10–16 oz (refrigerated)", "Processing": "Raw (never heated)", "Color": "Clear to faint pink (antioxidant oxidation)", "Potassium": "~470–600mg per serving", "From concentrate": "No"},
+      "scores": {"Taste": 4.9, "Value": 3.2, "Nutrition": 4.7, "Convenience": 3.5, "Quality": 4.9}
+    },
+    {
+      "offerId": "taste-nirvana-coconut-water",
+      "badge": "Best Value Intermediate",
+      "review": "Taste Nirvana splits the difference between Vita Coco's mainstream accessibility and Harmless Harvest's raw quality — pasteurized but not from concentrate, sourced directly from Thailand, available in glass bottles that preserve flavor better than Tetra Pak. The taste is closer to fresh coconut water than Vita Coco without the raw premium. The glass bottle option is a genuine advantage for flavor over shelf life.",
+      "pros": ["Not from concentrate — closer flavor to fresh than Vita Coco", "Glass bottle option provides better flavor preservation than carton", "Priced similarly to Vita Coco — above-average quality for the price"],
+      "cons": ["Less widely distributed than Vita Coco — primarily online and Asian grocery"],
+      "grade": "B+",
+      "specs": {"Size": "9.5 oz can or glass bottle", "Processing": "Pasteurized", "Source": "Thailand (direct)", "From concentrate": "No", "Potassium": "~430mg per serving"},
+      "scores": {"Taste": 4.3, "Value": 4.4, "Nutrition": 4.2, "Convenience": 4.2, "Quality": 4.3}
+    },
+    {
+      "offerId": "c2o-pure-coconut-water",
+      "badge": "Best Can Format",
+      "review": "C2O's can format provides a meaningful light barrier that Tetra Pak cartons lack — light exposure degrades flavor compounds in coconut water over shelf life, and the aluminum can mitigates this. Sourced from Thailand, not from concentrate, 17.5 oz per can. The temperature retention of a cold can is an additional practical advantage for people who drink their coconut water chilled.",
+      "pros": ["Can format blocks light — better flavor preservation over shelf life than Tetra Pak", "Larger 17.5 oz size per can", "Not from concentrate, Thailand-sourced"],
+      "cons": ["Less widely available than Vita Coco — primarily Asian grocery and online"],
+      "grade": "B",
+      "specs": {"Size": "17.5 oz can", "Processing": "Pasteurized", "Container": "Aluminum can (light barrier)", "Source": "Thailand", "From concentrate": "No"},
+      "scores": {"Taste": 4.2, "Value": 4.3, "Nutrition": 4.1, "Convenience": 4.3, "Quality": 4.2}
+    },
+    {
+      "offerId": "zico-natural-coconut-water",
+      "badge": "Best for Athletes",
+      "review": "ZICO has a slightly drier, less sweet flavor profile than Vita Coco — which makes it the preferred option among athletes who find Vita Coco's sweetness too prominent during and after exercise. The electrolyte profile is comparable. Distribution was limited after Coca-Cola discontinued and relaunched ZICO, so availability varies by region — check stock before counting on it.",
+      "pros": ["Drier flavor profile — less sweet than Vita Coco, preferred by many athletes", "Comparable electrolyte content to Vita Coco", "No added sugar, shelf-stable"],
+      "cons": ["Limited distribution since Coca-Cola's 2020 discontinuation and relaunch — check availability"],
+      "grade": "B-",
+      "specs": {"Size": "16.9 oz", "Processing": "Pasteurized", "Added sugar": "None", "Potassium": "~600mg per serving", "Flavor profile": "Dry / less sweet"},
+      "scores": {"Taste": 4.0, "Value": 4.2, "Nutrition": 4.3, "Convenience": 4.1, "Quality": 4.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For everyday hydration on a budget", "offerId": "vita-coco-original", "reason": "Available everywhere, shelf-stable, and priced for case buying — the reliable default with no surprises."},
+    {"label": "For the closest-to-fresh experience", "offerId": "harmless-harvest-raw", "reason": "Raw, never heated, naturally pink — noticeably more complex flavor than any pasteurized option. Worth the premium if flavor is the point."},
+    {"label": "For above-average quality without the raw premium", "offerId": "taste-nirvana-coconut-water", "reason": "Not from concentrate, direct-sourced from Thailand, glass bottle available — better than Vita Coco without the Harmless Harvest price."},
+    {"label": "For post-workout athletes", "offerId": "zico-natural-coconut-water", "reason": "Slightly drier, less sweet flavor is preferred by athletes who find Vita Coco too sweet during and after exercise."},
+    {"label": "For flavor-first long-shelf-life storage", "offerId": "c2o-pure-coconut-water", "reason": "The aluminum can's light barrier preserves flavor compounds better than carton packaging over extended shelf life."}
+  ]
 }

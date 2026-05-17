@@ -66,5 +66,185 @@
     "tribest-sedona-express": "11 Tabletts, doppelte Heizzonen (vorne/hinten auf unterschiedliche Temperaturen einstellbar), unter 55 dB. Ideal fur gemischte Temperaturlasten — gleichzeitiges Trocknen von Krautern bei niedriger und Jerky bei hoher Temperatur in derselben Maschine."
   },
   "pinDescription": "Lebensmitteltrockner-Vergleich 2026: Excalibur 9 Tabletts vs Cosori vs Nesco Snackmaster vs Presto Dehydro vs Tribest Sedona — welcher Trockner macht das beste Beef Jerky, Trockenobst und Krauter? Horizontaler vs vertikaler Luftstrom erklart. #Lebensmitteltrockner #Konservierung #deutsch",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Jeder Trockner wurde nach Luftstromdesign und Trocknungsgleichmäßigkeit, Temperaturbereich und -genauigkeit, Tablett-Kapazität, Geräuschpegel im Betrieb, Reinigungsfreundlichkeit und Langzeitverlässlichkeit auf Basis dokumentierter Nutzerfeedbacks bewertet.",
+  "products": [
+    {
+      "offerId": "excalibur-9-tray-dehydrator",
+      "badge": "Bestes Gesamtpaket",
+      "review": "Der Excalibur 9-Tray ist der Maßstab, an dem jeder andere Lebensmitteltrockner gemessen wird. Hinterer horizontaler Luftstrom trocknet alle 9 Tabletts gleichmäßig ohne Rotation, und 15 Quadratfuss Trockenfläche bewältigen eine volle Charge Jerky in einer Sitzung. Der Kompromiss ist der Preis ($200–$300) und der Platzbedarf.",
+      "pros": [
+        "Hinterer Lüfter mit horizontalem Luftstrom — kein Tablett-Wenden erforderlich",
+        "15 Quadratfuss Kapazität über 9 Tabletts",
+        "Unter 60 dB und 10 Jahre Garantie"
+      ],
+      "cons": [
+        "$200–$300 Preis und großer Platzbedarf"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Preis": "~$200–$300",
+        "Tabletts": "9 (15 Quadratfuss)",
+        "Luftstrom": "Horizontal hinten",
+        "Temp.-Bereich": "95–165°F",
+        "Lautstärke": "<60 dB",
+        "Garantie": "10 Jahre",
+        "Tablett-Material": "Spülmaschinengeeignetes Polycarbonat"
+      },
+      "scores": {
+        "Drying performance": 4.9,
+        "Capacity": 4.8,
+        "Noise": 4.5,
+        "Value": 4.0,
+        "Ease of use": 4.7
+      }
+    },
+    {
+      "offerId": "cosori-premium-food-dehydrator",
+      "badge": "Bestes Preis-Leistungs-Verhältnis",
+      "review": "Der Cosori Premium 6-Tray bringt horizontalen Luftstrom für $100–$150 — halb so viel wie der Excalibur mit proportional kleinerer Kapazität. Das Dual-Readout-Digitalanzeige (eingestellte und tatsächliche Temp. gleichzeitig) ist eine wirklich nützliche Funktion zur Zyklusüberwachung. Ideal für Haushalte, die gelegentlich statt in großen Mengen trocknen.",
+      "pros": [
+        "Horizontaler Luftstrom — kein Tablett-Wenden",
+        "Dual-Readout-Anzeige zeigt eingestellte und tatsächliche Temperatur",
+        "48-Stunden-Timer mit transparenter Tür"
+      ],
+      "cons": [
+        "6 Tabletts vs. Excaliburs 9 — kleinere Chargenkapazität"
+      ],
+      "grade": "A",
+      "specs": {
+        "Preis": "~$100–$150",
+        "Tabletts": "6 (~5,5 Quadratfuss)",
+        "Luftstrom": "Horizontal",
+        "Temp.-Bereich": "95–165°F",
+        "Timer": "48 Stunden",
+        "Anzeige": "Dual-Readout digital",
+        "Tür": "Transparent"
+      },
+      "scores": {
+        "Drying performance": 4.5,
+        "Capacity": 3.8,
+        "Noise": 4.4,
+        "Value": 4.6,
+        "Ease of use": 4.6
+      }
+    },
+    {
+      "offerId": "nesco-snackmaster-pro",
+      "badge": "Bester erweiterbarer Trockner",
+      "review": "Der Nesco Snackmaster Pro ist Amazons meistbewerteter Trockner und wird seit Jahrzehnten produziert. Sein einzigartiger Vorteil ist die Erweiterbarkeit — starte mit 5 runden Tabletts und füge bis zu 12 hinzu, ohne eine neue Maschine zu kaufen. Vertikaler Luftstrom erfordert Tablett-Rotation für gleichmäßiges Trocknen.",
+      "pros": [
+        "Von 5 auf 12 Tabletts erweiterbar ohne neue Maschine",
+        "Meistbewerteter Trockner auf Amazon",
+        "Kompakte runde Tabletts lagern einfach"
+      ],
+      "cons": [
+        "Vertikaler Luftstrom erfordert Tablett-Rotation für gleichmäßiges Trocknen"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Preis": "~$60–$90",
+        "Tabletts": "5 (erweiterbar auf 12)",
+        "Luftstrom": "Vertikal oben",
+        "Temp.-Bereich": "95–160°F",
+        "Steuerung": "Analoger Regler",
+        "Rotation nötig": "Ja",
+        "Form": "Runde Tabletts"
+      },
+      "scores": {
+        "Drying performance": 3.8,
+        "Capacity": 4.2,
+        "Noise": 4.0,
+        "Value": 4.5,
+        "Ease of use": 3.8
+      }
+    },
+    {
+      "offerId": "presto-dehydro-digital",
+      "badge": "Bester Einsteiger-Trockner",
+      "review": "Der Presto Dehydro Digital ist der Einstiegspunkt für erstmalige Trockner bei $60–$80. Digitaler Thermostat und Timer sind eine Verbesserung gegenüber dem analogen Regler des Nesco. Sechs runde Tabletts mit vertikalem Luftstrom liefern ausreichende, aber ungleichmäßige Ergebnisse — Tablett-Rotation empfohlen. Ideal als Testkauf vor dem Commitment zu einer horizontalen Maschine.",
+      "pros": [
+        "Digitaler Thermostat und Timer zum Einstiegspreis",
+        "Guter erster Trockner zum Hobby-Test",
+        "Kompakte Stellfläche"
+      ],
+      "cons": [
+        "Vertikaler Luftstrom erzeugt ungleichmäßiges Trocknen ohne Tablett-Rotation",
+        "Runde Tabletts schmaler als rechteckige"
+      ],
+      "grade": "B",
+      "specs": {
+        "Preis": "~$60–$80",
+        "Tabletts": "6 rund",
+        "Luftstrom": "Vertikal",
+        "Temp.-Regelung": "Digital",
+        "Timer": "Digital",
+        "Rotation nötig": "Ja",
+        "Form": "Runde Tabletts"
+      },
+      "scores": {
+        "Drying performance": 3.5,
+        "Capacity": 3.4,
+        "Noise": 3.8,
+        "Value": 4.4,
+        "Ease of use": 4.0
+      }
+    },
+    {
+      "offerId": "tribest-sedona-express",
+      "badge": "Bester für gemischte Lasten",
+      "review": "Der Tribest Sedona Express löst das eine Problem, das der Excalibur nicht kann: gleichzeitiges Trocknen von Lebensmitteln, die unterschiedliche Temperaturen benötigen. Seine zwei unabhängig steuerbaren Heizzonen ermöglichen Kräuter bei 95–115°F und Jerky bei 155–165°F gleichzeitig in derselben Maschine. Unter 55 dB — leisester in der Klasse. Kostet mehr als der Excalibur mit weniger Gesamtkapazität.",
+      "pros": [
+        "Zwei unabhängige Heizzonen für gleichzeitige gemischte Temperaturlasten",
+        "Unter 55 dB — leisester Lebensmitteltrockner im Vergleich",
+        "11 Tabletts mit Edelstahloption"
+      ],
+      "cons": [
+        "Teurer als Excalibur mit weniger Tablett-Fläche"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Preis": "~$250–$350",
+        "Tabletts": "11",
+        "Luftstrom": "Horizontal Dual-Zone",
+        "Temp.-Zonen": "2 unabhängig",
+        "Lautstärke": "<55 dB",
+        "Temp.-Bereich": "95–167°F",
+        "Steuerung": "Digital"
+      },
+      "scores": {
+        "Drying performance": 4.7,
+        "Capacity": 4.0,
+        "Noise": 4.8,
+        "Value": 3.5,
+        "Ease of use": 4.2
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Für ernsthafte Heimtrockner",
+      "offerId": "excalibur-9-tray-dehydrator",
+      "reason": "Große horizontale Luftstrom-Kapazität ohne Tablett-Rotation und 10 Jahre Garantie"
+    },
+    {
+      "label": "Für gelegentlichen Haushaltsgebrauch",
+      "offerId": "cosori-premium-food-dehydrator",
+      "reason": "Horizontaler Luftstrom zum halben Excalibur-Preis mit nützlicher Dual-Readout-Anzeige"
+    },
+    {
+      "label": "Für Käufer, die Kapazität aufbauen wollen",
+      "offerId": "nesco-snackmaster-pro",
+      "reason": "Von 5 auf 12 Tabletts erweitern ohne die Maschine zu ersetzen"
+    },
+    {
+      "label": "Für Erstmals-Trockner",
+      "offerId": "presto-dehydro-digital",
+      "reason": "Digitale Steuerung zum Einstiegspreis zum Testen des Hobbys vor dem Kauf einer größeren Maschine"
+    },
+    {
+      "label": "Für Mehrtemperatur-Trocknen",
+      "offerId": "tribest-sedona-express",
+      "reason": "Zwei unabhängige Heizzonen ermöglichen gleichzeitiges Trocknen von Kräutern und Jerky"
+    }
+  ]
 }

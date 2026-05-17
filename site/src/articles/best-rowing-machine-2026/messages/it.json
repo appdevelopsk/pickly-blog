@@ -53,5 +53,178 @@
     "sunny-sf-rw5515": "Nessun abbonamento richiesto. Il monitor LCD base traccia tempo, count, calorie e modalità scan."
   },
   "pinDescription": "5 migliori vogatori del 2026 testati — Concept2 vs Hydrow vs NordicTrack vs acqua vs economici. Cardio total-body a casa! #italiano",
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "products": [
+    {
+      "offerId": "concept2-model-d",
+      "badge": "Migliore scelta complessiva",
+      "review": "Il Concept2 Model D è il riferimento mondiale: la resistenza ad aria si adatta infinitamente allo sforzo e la precisione del monitor PM5 è riconosciuta dagli allenatori di élite. Il vero compromesso è il rumore — i vogatori ad aria sono rumorosi.",
+      "pros": [
+        "Resistenza ad aria infinitamente scalabile",
+        "Il monitor PM5 è lo standard del settore",
+        "Si piega verticalmente per uno stoccaggio compatto"
+      ],
+      "cons": [
+        "Notevolmente rumoroso durante le trazioni ad alta intensità"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Tipo di resistenza": "Aria",
+        "Monitor": "PM5",
+        "Peso max utente": "272 kg",
+        "Altezza sedile": "40 cm",
+        "Misure piegate": "63 × 84 cm",
+        "Peso": "26 kg (binario)",
+        "Prezzo": "~900 $"
+      },
+      "scores": {
+        "Resistance feel": 5.0,
+        "Build quality": 4.9,
+        "Noise": 2.5,
+        "Value": 4.5,
+        "Footprint": 4.0
+      }
+    },
+    {
+      "offerId": "hydrow-wave-rower",
+      "badge": "Migliore per il fitness connesso",
+      "review": "Il Wave abbina resistenza elettromagnetica a un touchscreen da 16 pollici e una biblioteca di corsi motivante — più silenzioso dell'aria, ideale per gli appartamenti. L'abbonamento (~44 $/mese) è un costo reale e continuativo.",
+      "pros": [
+        "Più silenzioso della resistenza ad aria — adatto agli appartamenti",
+        "Schermo da 16 pollici con corsi live e on demand",
+        "Si piega per risparmiare spazio"
+      ],
+      "cons": [
+        "Abbonamento richiesto per i contenuti completi (~44 $/mese)"
+      ],
+      "grade": "A",
+      "specs": {
+        "Tipo di resistenza": "Elettromagnetica",
+        "Schermo": "Touchscreen 16 pollici",
+        "Abbonamento": "~44 $/mese",
+        "Pieghevole": "Sì",
+        "Prezzo": "1.495 $"
+      },
+      "scores": {
+        "Resistance feel": 4.2,
+        "Build quality": 4.3,
+        "Noise": 4.5,
+        "Value": 3.5,
+        "Footprint": 4.3
+      }
+    },
+    {
+      "offerId": "nordictrack-rw900",
+      "badge": "Migliore esperienza schermo",
+      "review": "Lo schermo HD rotante da 22 pollici del RW900 è il più grande in questo confronto e la libreria di percorsi iFIT è davvero estesa. Con 99 kg, la sua posizione è quasi permanente.",
+      "pros": [
+        "Schermo HD rotante da 22 pollici",
+        "26 livelli di resistenza si regolano automaticamente",
+        "Libreria di percorsi globali iFIT"
+      ],
+      "cons": [
+        "Pesante (99 kg) — il posizionamento è quasi permanente"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Tipo di resistenza": "Magnetica/iFIT",
+        "Schermo": "22 pollici HD",
+        "Livelli di resistenza": "26",
+        "Peso": "99 kg",
+        "Abbonamento": "~39 $/mese",
+        "Prezzo": "2.799 $"
+      },
+      "scores": {
+        "Resistance feel": 4.0,
+        "Build quality": 4.2,
+        "Noise": 4.3,
+        "Value": 3.2,
+        "Footprint": 2.5
+      }
+    },
+    {
+      "offerId": "ergatta-rower",
+      "badge": "Migliore resistenza ad acqua",
+      "review": "Il volano ad acqua di Ergatta produce la sensazione di canottaggio più naturale del gruppo — suono e resistenza imitano fedelmente il canottaggio in acque aperte. La piattaforma basata su giochi motiva gli atleti solitari. L'ecosistema proprietario limita i contenuti di terze parti.",
+      "pros": [
+        "Volano ad acqua = sensazione di canottaggio più realistica",
+        "Allenamenti gamificati per atleti individuali",
+        "Touchscreen da 17,3 pollici con programmi strutturati"
+      ],
+      "cons": [
+        "Lock-in della piattaforma — nessun contenuto di terze parti"
+      ],
+      "grade": "B",
+      "specs": {
+        "Tipo di resistenza": "Acqua",
+        "Schermo": "17,3 pollici touchscreen",
+        "Abbonamento": "~29 $/mese",
+        "Telaio": "WaterRower",
+        "Fascia di prezzo": "1.999–2.499 $"
+      },
+      "scores": {
+        "Resistance feel": 4.8,
+        "Build quality": 4.5,
+        "Noise": 3.8,
+        "Value": 3.4,
+        "Footprint": 3.5
+      }
+    },
+    {
+      "offerId": "sunny-sf-rw5515",
+      "badge": "Migliore scelta economica",
+      "review": "Per ~350 $, l'SF-RW5515 offre 12 livelli di resistenza magnetica, un funzionamento silenzioso e un ingresso senza abbonamento nel canottaggio. Non replica la sensazione dell'aria o dell'acqua, ma è il punto di partenza a minor rischio per i principianti.",
+      "pros": [
+        "Resistenza magnetica silenziosa — nessun abbonamento",
+        "12 livelli su un solido binario in alluminio",
+        "Adatto a utenti fino a 191 cm"
+      ],
+      "cons": [
+        "La sensazione di resistenza è meno dinamica rispetto ad aria o acqua"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Tipo di resistenza": "Magnetica",
+        "Livelli di resistenza": "12",
+        "Lunghezza binario": "110 cm",
+        "Peso max utente": "113 kg",
+        "Monitor": "LCD base",
+        "Prezzo": "~350 $"
+      },
+      "scores": {
+        "Resistance feel": 3.0,
+        "Build quality": 3.5,
+        "Noise": 5.0,
+        "Value": 4.8,
+        "Footprint": 4.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per gli atleti domestici seri",
+      "offerId": "concept2-model-d",
+      "reason": "La precisione dei dati standard del settore e il ridimensionamento infinito della resistenza premiano gli atleti che vogliono monitorare i progressi reali nel corso degli anni."
+    },
+    {
+      "label": "Per i residenti in appartamento",
+      "offerId": "hydrow-wave-rower",
+      "reason": "La resistenza elettromagnetica e il telaio pieghevole mantengono il rumore e l'ingombro sufficientemente bassi per la vita con pareti condivise."
+    },
+    {
+      "label": "Per la motivazione guidata dai contenuti",
+      "offerId": "nordictrack-rw900",
+      "reason": "Lo schermo da 22 pollici e la libreria iFIT sono ideali per chi ha bisogno di varietà e responsabilizzazione da parte dell'istruttore."
+    },
+    {
+      "label": "Per gli atleti competitivi individuali",
+      "offerId": "ergatta-rower",
+      "reason": "Le gare basate su giochi contro i record personali funzionano meglio dei contenuti basati su corsi per gli atleti auto-motivati."
+    },
+    {
+      "label": "Per i principianti del canottaggio con budget limitato",
+      "offerId": "sunny-sf-rw5515",
+      "reason": "Una macchina silenziosa e conveniente senza impegno di abbonamento è lo strumento giusto per testare se il canottaggio si adatta alla tua routine."
+    }
+  ]
 }

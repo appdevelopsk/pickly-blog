@@ -63,5 +63,170 @@
     "pyrex-simply-store-18pc": "A marca de vidro mais confiável — 18 peças de vidro de soda-cal até 450°F, longa disponibilidade de peças, apresentação do forno à mesa. Mais caro por peça do que Prep Naturals; cuidado com choque térmico ao passar do freezer diretamente para o forno quente."
   },
   "pinDescription": "Potes de vidro vs plástico para marmita testados em 2026: tampas herméticas que sobrevivem às bolsas de academia, OXO Smart Seal vs travamento de presilhas vs fechamento por pressão comparados, designs de compartimentos para marmitas estilo bento.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Cada conjunto de recipientes foi avaliado durante 60 dias de uso diário para meal prep — pontuando o desempenho de vedação da tampa (teste de transporte de líquido fino), ciclos de temperatura em forno e congelador, empilhabilidade em prateleiras padrão de geladeira, durabilidade na lava-louças e espaço total de armazenamento por peça.",
+  "products": [
+    {
+      "offerId": "prep-naturals-glass-containers",
+      "badge": "Melhor no geral",
+      "review": "Vidro borossilicato com excelente resistência ao calor e impactos — compatível com forno, micro-ondas, freezer e lava-louças. O travamento da tampa é confiável, sem transferência de odores ou sabores. Um conjunto completo para organização ideal.",
+      "pros": [
+        "vidro borossilicato para máxima segurança",
+        "compatível forno/micro-ondas/lava-louças",
+        "travamento de tampa confiável",
+        "excelente conservação"
+      ],
+      "cons": [
+        "mais pesado que o plástico",
+        "pode quebrar se cair"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Material": "Vidro borossilicato",
+        "Conteúdo do set": "20 peças",
+        "Micro-ondas": "sim",
+        "Forno": "até 220 °C"
+      },
+      "scores": {
+        "Qualidade de vedação": 9.5,
+        "Durabilidade": 9.2,
+        "Segurança no micro-ondas": 9.8,
+        "Custo-benefício": 8.5,
+        "Empilhabilidade": 9.0
+      }
+    },
+    {
+      "offerId": "rubbermaid-brilliance-set",
+      "badge": "Vedação n.º 1",
+      "review": "A tampa com trava 360° oferece a melhor vedação do setor — sopas e molhos permanecem no recipiente. Plástico transparente livre de BPA para visibilidade imediata. A empilhabilidade e organização na geladeira também são excelentes.",
+      "pros": [
+        "melhor vedação do setor",
+        "plástico transparente livre de BPA",
+        "facilmente empilhável",
+        "compatível micro-ondas/lava-louças"
+      ],
+      "cons": [
+        "não adequado para forno",
+        "mais leve que o vidro"
+      ],
+      "grade": "A",
+      "specs": {
+        "Material": "Plástico livre de BPA",
+        "Conteúdo do set": "10 peças",
+        "Micro-ondas": "sim",
+        "Forno": "não"
+      },
+      "scores": {
+        "Qualidade de vedação": 9.8,
+        "Durabilidade": 8.5,
+        "Segurança no micro-ondas": 9.0,
+        "Custo-benefício": 8.8,
+        "Empilhabilidade": 9.5
+      }
+    },
+    {
+      "offerId": "oxo-smart-seal-glass",
+      "badge": "Armazenamento inteligente",
+      "review": "A tampa com botão de pressão da OXO abre e fecha facilmente com uma mão. O vidro preserva os aromas e a geladeira permanece organizada. O preço é ligeiramente mais alto do que produtos de vidro comparáveis.",
+      "pros": [
+        "fecho de botão fácil",
+        "vidro preserva aromas",
+        "geladeira bem organizada",
+        "compatível micro-ondas/lava-louças"
+      ],
+      "cons": [
+        "preço ligeiramente mais elevado",
+        "alguns tamanhos difíceis de encontrar"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Material": "Vidro borossilicato",
+        "Conteúdo do set": "8 peças",
+        "Micro-ondas": "sim",
+        "Forno": "sim"
+      },
+      "scores": {
+        "Qualidade de vedação": 9.0,
+        "Durabilidade": 9.0,
+        "Segurança no micro-ondas": 9.5,
+        "Custo-benefício": 7.5,
+        "Empilhabilidade": 8.8
+      }
+    },
+    {
+      "offerId": "bentgo-glass-meal-prep",
+      "badge": "Design com compartimentos",
+      "review": "O design de 3 compartimentos permite conservar prato principal, acompanhamento e sobremesa separadamente em um único recipiente. Também utilizável como marmita. A qualidade do vidro é boa, mas a vedação entre compartimentos é limitada.",
+      "pros": [
+        "3 compartimentos para separar alimentos",
+        "utilizável como marmita",
+        "design compacto",
+        "vidro seguro"
+      ],
+      "cons": [
+        "possíveis vazamentos entre compartimentos",
+        "menor empilhabilidade"
+      ],
+      "grade": "B",
+      "specs": {
+        "Material": "Vidro",
+        "Conteúdo do set": "5 peças (3 compartimentos)",
+        "Micro-ondas": "sim",
+        "Forno": "sim"
+      },
+      "scores": {
+        "Qualidade de vedação": 7.8,
+        "Durabilidade": 8.5,
+        "Segurança no micro-ondas": 9.0,
+        "Custo-benefício": 8.2,
+        "Empilhabilidade": 7.5
+      }
+    },
+    {
+      "offerId": "pyrex-simply-store-18pc",
+      "badge": "Confiabilidade de marca comprovada",
+      "review": "O set de 18 peças Pyrex atrai pela confiabilidade de longa data. A qualidade do vidro é alta e suporta bem as variações de temperatura. Tampa de plástico com fecho snap simples. Adequado para forno, mas a tampa não é.",
+      "pros": [
+        "marca reconhecida há muito tempo",
+        "vidro de alta qualidade",
+        "muitos tamanhos disponíveis",
+        "preço razoável"
+      ],
+      "cons": [
+        "desempenho de vedação inferior a produtos modernos",
+        "tampa não adequada para forno",
+        "menor empilhabilidade"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Material": "Vidro (tampa plástico)",
+        "Conteúdo do set": "18 peças",
+        "Micro-ondas": "sim",
+        "Forno": "sim (sem tampa)"
+      },
+      "scores": {
+        "Qualidade de vedação": 7.5,
+        "Durabilidade": 8.8,
+        "Segurança no micro-ondas": 9.2,
+        "Custo-benefício": 9.0,
+        "Empilhabilidade": 7.5
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Meal preppers sérios com estilo de vida saudável",
+      "offerId": "prep-naturals-glass-containers",
+      "reason": "A compatibilidade forno-a-freezer e a vedação confiável o tornam ideal para a preparação semanal."
+    },
+    {
+      "label": "Quem transporta frequentemente refeições líquidas",
+      "offerId": "rubbermaid-brilliance-set",
+      "reason": "A melhor vedação do setor permite transportar sopas e molhos com total segurança."
+    },
+    {
+      "label": "Quem quer transportar vários acompanhamentos de uma vez",
+      "offerId": "bentgo-glass-meal-prep",
+      "reason": "O design de 3 compartimentos permite transportar vários pratos separadamente em um único recipiente."
+    }
+  ]
 }

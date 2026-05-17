@@ -93,5 +93,64 @@
     "twinbird-ep-4694": "Compact Japanese slow cooker for braised dishes and oden — ceramic pot, 450W draw, full domestic support. No programmable timer; smaller capacity limits to 1-3 person cooking."
   },
   "pinDescription": "Five slow cookers compared in 2026 — Crock-Pot 6-Quart, Instant Pot Duo 7-in-1, Cuisinart CSC-800, Panasonic SR-MP300, and Twinbird EP-4694. Which one handles overnight stews, oden, and fermented yogurt without babysitting?",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each slow cooker was evaluated on actual heat distribution consistency across the insert, programmable timer reliability, capacity accuracy against stated volume, ease of cleaning the ceramic or stainless insert, and long-term owner reports on lid seal and heating element longevity.",
+  "products": [
+    {
+      "offerId": "crock-pot-sccpvl610-s",
+      "badge": "Best Overall",
+      "review": "The Crock-Pot SCCPVL610-S has not meaningfully changed in forty years because the core design works: a 6-quart ceramic insert, even heat distribution, and a three-setting dial that is impossible to operate incorrectly. The absence of a programmable timer means food cooks until you manually switch it — a real constraint if your schedule is unpredictable.",
+      "pros": ["6-quart ceramic insert handles whole chickens and large roasts", "Three-setting dial is foolproof", "Dishwasher-safe pot and lid"],
+      "cons": ["No programmable timer — cannot auto-switch to Warm when cook time ends"],
+      "grade": "A+",
+      "specs": {"Capacity": "6 quarts (5.7L)", "Power": "200W (Low) / 300W (High)", "Timer": "None", "Insert": "Ceramic", "Lid": "Glass, no lock", "Dimensions": "~35×25×28cm"},
+      "scores": {"Heat distribution": 4.7, "Capacity": 4.9, "Ease of use": 5.0, "Value": 4.9, "Programmability": 1.0}
+    },
+    {
+      "offerId": "instant-pot-duo-7in1",
+      "badge": "Best Versatile Cooker",
+      "review": "The Instant Pot Duo 7-in-1 earns its place by combining a pressure cooker that cuts a 6-hour braise to 35 minutes with a programmable slow cooker for all-day cooks. The well-documented caveat is that its slow cooker Low setting runs hotter than a traditional Crock-Pot Low — existing slow-cooker recipes need time reduction or more liquid.",
+      "pros": ["Pressure cooker mode reduces long braises to under 45 minutes", "Slow cooker mode has programmable timer and auto Keep Warm", "Locking lid prevents spills during transport"],
+      "cons": ["Slow cooker Low runs hotter than traditional units — recipe adjustment required"],
+      "grade": "A",
+      "specs": {"Capacity": "6 quarts (5.7L)", "Power": "1000W", "Timer": "Yes (up to 24h + delay start)", "Insert": "Stainless steel", "Lid": "Locking pressure lid", "Modes": "7 (pressure, slow, sauté, steam, rice, warm, yogurt)"},
+      "scores": {"Heat distribution": 4.2, "Capacity": 4.8, "Ease of use": 3.5, "Value": 4.5, "Programmability": 4.8}
+    },
+    {
+      "offerId": "cuisinart-csc-800",
+      "badge": "Best for Small Households",
+      "review": "The Cuisinart CSC-800's 3.5-liter capacity is calibrated for Tokyo apartments and 1-2 person households — it fits on a compact counter alongside a rice cooker and produces portions that don't force days of leftovers. The 24-hour timer with auto Keep Warm is the feature that justifies the price over a manual small slow cooker.",
+      "pros": ["3.5L compact size right for 1-2 person households", "24-hour programmable timer with auto Keep Warm", "Attractive stainless and glass design"],
+      "cons": ["Import-only in Japan — warranty service through importer with 2-4 week part delays"],
+      "grade": "B+",
+      "specs": {"Capacity": "3.5 litres", "Power": "200W", "Timer": "Yes (up to 24h)", "Insert": "Ceramic bowl", "Lid": "Glass", "Market": "Import (no Japan domestic service)"},
+      "scores": {"Heat distribution": 4.3, "Capacity": 3.5, "Ease of use": 4.5, "Value": 3.9, "Programmability": 4.5}
+    },
+    {
+      "offerId": "panasonic-sr-mp300",
+      "badge": "Best for Japanese Cooking",
+      "review": "The Panasonic SR-MP300 is designed specifically for the way Japanese households cook low-and-slow: nimono, oden, kakuni, and fermented foods. The 40-60°C fermentation mode for yogurt and amazake is the differentiator that no Western slow cooker offers, and temperature calibration for Japanese dishes is noticeably more precise than on Western models.",
+      "pros": ["Fermentation mode (40-60°C) handles yogurt and amazake", "Temperature calibrated for nimono, oden, and kakuni", "Full Panasonic domestic Japan service network"],
+      "cons": ["Slow cooker only — no pressure function"],
+      "grade": "B",
+      "specs": {"Capacity": "2.2 litres", "Power": "200W", "Timer": "Yes", "Insert": "Inner pot", "Fermentation mode": "Yes (40-60°C)", "Market": "Japan domestic"},
+      "scores": {"Heat distribution": 4.8, "Capacity": 3.2, "Ease of use": 4.3, "Value": 3.8, "Programmability": 4.0}
+    },
+    {
+      "offerId": "twinbird-ep-4694",
+      "badge": "Best Compact Budget Pick",
+      "review": "The Twinbird EP-4694 occupies a narrow niche: a compact domestic Japanese slow cooker for oden and braised dishes at a price well below the Panasonic. The ceramic pot handles high-moisture oden without metallic-taste risk, and the 450W draw makes it safe to leave on while away. The absence of a programmable timer is the reason most buyers who consider it end up choosing the Panasonic instead.",
+      "pros": ["Compact footprint for small Japanese kitchens", "Ceramic pot with no metallic-taste risk for oden", "Full domestic Japanese service and parts"],
+      "cons": ["No programmable timer — manual on/off only"],
+      "grade": "B-",
+      "specs": {"Capacity": "1.5 litres", "Power": "450W", "Timer": "None", "Insert": "Ceramic", "Lid": "Glass", "Market": "Japan domestic"},
+      "scores": {"Heat distribution": 4.0, "Capacity": 2.5, "Ease of use": 4.8, "Value": 4.5, "Programmability": 1.0}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For families of 4 or batch cooks", "offerId": "crock-pot-sccpvl610-s", "reason": "The 6-quart ceramic insert handles whole chickens and large roasts, and the simple dial means nothing can go wrong."},
+    {"label": "For busy weeknight cooks", "offerId": "instant-pot-duo-7in1", "reason": "Pressure mode cuts a 6-hour braise to 35 minutes — the only option when you need dinner fast, not dinner tomorrow."},
+    {"label": "For Tokyo apartment kitchens", "offerId": "cuisinart-csc-800", "reason": "The 3.5L footprint fits beside a rice cooker, and the timer means food is warm whenever you get home."},
+    {"label": "For fermented foods and nimono", "offerId": "panasonic-sr-mp300", "reason": "The 40-60°C fermentation mode for yogurt and amazake is unavailable in any competing slow cooker at this price."},
+    {"label": "For simple oden on a budget", "offerId": "twinbird-ep-4694", "reason": "The ceramic pot and domestic service make it the lowest-hassle entry into slow cooking for straightforward Japanese simmered dishes."}
+  ]
 }

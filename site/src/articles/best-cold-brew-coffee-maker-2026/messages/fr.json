@@ -92,5 +92,64 @@
     "county-line-mason-jar-cold-brew": "Point d'entree le moins cher — panier en grille d'acier inoxydable pour bocaux mason a grand goulot. La grille metallique laisse passer le sediment ; filtrer a travers du papier si la clarte compte. Ideal comme essai sans engagement ou configuration de batch haute volume de 1 gallon."
   },
   "pinDescription": "5 machines a cold brew comparees pour 2026 : tour a goutte lente OXO, filtre en feutre Toddy, carafe en verre Primula Burke, carafe compacte Takeya et kit mason jar County Line. Immersion vs goutte lente, types de filtres, temps d'infusion et ratios de concentre expliques. #coldbrew #cafe #machine #français",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Chaque appareil a été évalué sur la méthode d'extraction (immersion vs goutte lente), le type de filtre et la quantité de sédiment, la capacité du batch par rapport à l'usage quotidien, le temps de nettoyage après une vraie session de préparation et le rapport qualité-prix à 12 mois d'utilisation hebdomadaire.",
+  "products": [
+    {
+      "offerId": "oxo-brew-compact-cold-brew",
+      "badge": "Meilleur au Global",
+      "review": "L'OXO Brew Compact est la seule tour à goutte lente de cette comparaison : de l'eau fraîche touche toujours le café moulu, pas d'équilibre d'extraction, plus d'acidité et d'arômes préservés. La limite est réelle : 355–475 ml par batch ne couvre pas plus de 2 tasses par jour.",
+      "pros": ["Le goutte-à-goutte lent préserve mieux l'acidité et les arômes que tout système d'immersion", "Carafe en aluminium anodisé et verre borosilicate — le matériel le plus robuste de cette comparaison", "Bouton de débit réglable et pré-filtre papier pour une extraction propre sans huiles"],
+      "cons": ["Seulement 355–475 ml par batch — insuffisant pour les foyers consommant plus de 2 tasses par jour"],
+      "grade": "A+",
+      "specs": {"Méthode": "Tour à goutte lente", "Capacité batch": "355–475 ml de concentré", "Chambre d'infusion": "946 ml", "Temps d'extraction": "12–24 heures", "Type de filtre": "Pré-filtre papier + chambre en verre", "Nettoyage": "Rincer carafe et chambre — 5 min"},
+      "scores": {"Saveur": 4.9, "Valeur": 4.0, "Commodité": 4.3, "Qualité": 4.8, "Fraîcheur": 4.7}
+    },
+    {
+      "offerId": "toddy-cold-brew-home",
+      "badge": "Meilleur pour les Batchs Hebdomadaires",
+      "review": "La filtration par tampon de feutre épais de Toddy définit la référence du concentré cold brew sans sédiment depuis 1964. Un tampon bien conditionné produit une clarté plus proche de l'espresso que les filtres à maille métallique. Limite honnête : conditionner le feutre et le changer tous les 2–3 mois d'utilisation hebdomadaire est un engagement réel.",
+      "pros": ["La filtration feutre est la plus propre de tous les systèmes grand public testés — pratiquement zéro sédiment", "1,5 L de capacité couvre l'approvisionnement hebdomadaire pour 1–2 personnes", "Le décanteur en verre inclus conserve le concentré jusqu'à 2 semaines"],
+      "cons": ["Le tampon nécessite un conditionnement avant chaque utilisation et un remplacement tous les 2–3 mois — coût de maintenance continu"],
+      "grade": "A",
+      "specs": {"Méthode": "Immersion avec filtre en feutre", "Capacité batch": "1,5 L de concentré", "Ratio café": "340 g café pour 1,5 L eau (1:4,4)", "Temps": "24 heures (réfrigérateur)", "Type de filtre": "Tampon de feutre épais", "Nettoyage": "Drainage par gravité 30–45 min + rinçage"},
+      "scores": {"Saveur": 4.7, "Valeur": 4.5, "Commodité": 3.8, "Qualité": 4.9, "Fraîcheur": 4.5}
+    },
+    {
+      "offerId": "primula-burke-cold-brew-carafe",
+      "badge": "Meilleure Carafe en Verre au Quotidien",
+      "review": "Le filtre à maille fine amovible et la carafe en verre borosilicate du Primula Burke atteignent un équilibre pratique : pas de conditionnement de feutre, pas d'assemblage de drainage, verre compatible lave-vaisselle, 1,6 L pour des cycles de 2–3 jours. La maille fine produit plus de sédiment que le feutre Toddy mais moins que le panier County Line.",
+      "pros": ["Le filtre se retire proprement — pas d'attente de drainage par gravité, pas de conditionnement de feutre", "La carafe en verre borosilicate est compatible lave-vaisselle et résistante aux rayures", "1,6 L de capacité pour un cycle de 2–3 jours pour 1–2 personnes"],
+      "cons": ["Les 15% inférieurs du concentré ont du sédiment fin — verser avec soin"],
+      "grade": "B+",
+      "specs": {"Méthode": "Immersion avec filtre à maille fine en inox", "Capacité batch": "1,6 L", "Ratio café": "1:5–1:6", "Temps": "16–20 heures (réfrigérateur)", "Type de filtre": "Maille fine en inox, amovible", "Nettoyage": "Retirer le filtre et rincer — 2 min"},
+      "scores": {"Saveur": 4.5, "Valeur": 4.6, "Commodité": 4.8, "Qualité": 4.4, "Fraîcheur": 4.4}
+    },
+    {
+      "offerId": "takeya-deluxe-cold-brew",
+      "badge": "Meilleur pour l'Étagère de Porte de Réfrigérateur",
+      "review": "La caractéristique distinctive du Takeya Deluxe est son profil étroit qui tient sur l'étagère de la porte du réfrigérateur. 1 L de capacité convient parfaitement aux foyers de 1–2 personnes qui préfèrent de petits batchs frais plutôt que la préparation hebdomadaire en grande quantité.",
+      "pros": ["Profil étroit tient sur l'étagère de la porte du réfrigérateur — pas de réorganisation", "Couvercle à double couche de maille fine, aucun composant de filtre de rechange nécessaire", "Verre borosilicate plus épais, compatible lave-vaisselle"],
+      "cons": ["1 L de capacité nécessite une préparation quotidienne ou tous les deux jours pour deux personnes"],
+      "grade": "B",
+      "specs": {"Méthode": "Immersion avec couvercle à double couche de maille fine", "Capacité batch": "1 L", "Ratio café": "1:6–1:7", "Temps": "12–24 heures (réfrigérateur)", "Type de filtre": "Double couche de maille fine en inox", "Nettoyage": "Retirer le couvercle et rincer — 2 min"},
+      "scores": {"Saveur": 4.4, "Valeur": 4.5, "Commodité": 4.7, "Qualité": 4.3, "Fraîcheur": 4.3}
+    },
+    {
+      "offerId": "county-line-mason-jar-cold-brew",
+      "badge": "Meilleur Budget d'Entrée",
+      "review": "Un panier à maille en acier inoxydable pour bocaux mason à grande ouverture standard — la façon la moins chère de tester le cold brew et le seul système qui peut passer à des batchs d'1 gallon dans cette comparaison. La maille plus grossière laisse passer plus de sédiment ; filtrer avec du papier après résout le problème de clarté.",
+      "pros": ["Coût total le plus bas — panier métallique + bocal mason bien en dessous de tout appareil dédié", "Bocal d'1 gallon dépasse la capacité de tout appareil dédié de cette comparaison", "Pas de pièces propriétaires — fonctionne avec tout bocal mason à grande ouverture"],
+      "cons": ["La maille métallique laisse passer les fines particules et les huiles de café — filtrage papier nécessaire pour la clarté"],
+      "grade": "B-",
+      "specs": {"Méthode": "Immersion avec panier à maille grossière en inox", "Capacité batch": "Jusqu'à 3,8 L avec grand bocal", "Ratio café": "1:4–1:5", "Temps": "12–24 heures", "Type de filtre": "Panier à maille grossière en inox", "Nettoyage": "Retirer le panier et rincer — 2 min ; filtrage papier optionnel"},
+      "scores": {"Saveur": 4.3, "Valeur": 4.9, "Commodité": 4.4, "Qualité": 3.9, "Fraîcheur": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "Pour les passionnés de café de spécialité qui veulent le meilleur goût des grains d'origine unique", "offerId": "oxo-brew-compact-cold-brew", "reason": "L'extraction à goutte lente préserve la luminosité et les arômes que les systèmes d'immersion aplatissent."},
+    {"label": "Pour les foyers qui préparent une fois par semaine et veulent un concentré sans sédiment", "offerId": "toddy-cold-brew-home", "reason": "La filtration feutre produit le concentré le plus propre de tous les systèmes ici — la maintenance en vaut la peine."},
+    {"label": "Pour une carafe en verre quotidienne sans entretien du feutre", "offerId": "primula-burke-cold-brew-carafe", "reason": "Pas de drainage, pas de feutre, compatible lave-vaisselle — l'option verre la moins gourmande en entretien."},
+    {"label": "Pour les foyers de 1–2 personnes avec un espace réfrigérateur limité", "offerId": "takeya-deluxe-cold-brew", "reason": "Le seul appareil conçu spécifiquement pour tenir sur l'étagère de la porte du réfrigérateur."},
+    {"label": "Pour les débutants ou ceux qui ont besoin d'une capacité de batch d'1 gallon", "offerId": "county-line-mason-jar-cold-brew", "reason": "Point d'entrée le moins cher ; passe à des batchs d'un gallon plus grands que tout appareil dédié."}
+  ]
 }

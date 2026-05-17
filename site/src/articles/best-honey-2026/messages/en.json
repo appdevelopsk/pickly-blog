@@ -58,5 +58,64 @@
     "wholesome-organic-raw-honey": "Organic raw honey, fair-trade certified, 16 oz. $12-18. Best organic-certified raw honey — fair-trade sourcing, mild flavor, organic certification. Correct for buyers who prioritize organic and fair-trade alongside raw processing."
   },
   "pinDescription": "Honey 2026: Manuka honey UMF vs MGO explained, Comvita vs Wedderspoon KFactor comparison, raw honey vs processed honey differences, when Manuka is actually worth the price, and best honey for everyday use 2026.",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Each honey was evaluated on verified certification rigor, flavor consistency across batches, price per serving, sourcing transparency, and real-world suitability for its intended use case.",
+  "products": [
+    {
+      "offerId": "comvita-manuka-honey-umf10",
+      "badge": "Best Overall",
+      "review": "Comvita UMF 10+ is the most trustworthy certified Manuka on the market — the UMF system independently verifies both MGO concentration and authenticity markers, eliminating the fraud risk that plagues cheaper Manuka labels. At 250g for $26–40, the price per serving is high, but you're paying for documented MGO 263+ and global batch traceability, not marketing. The honest limitation is that a 250g jar disappears quickly if you use it as an everyday sweetener.",
+      "pros": ["UMF certification verifies MGO and authenticity independently", "Global availability with consistent batch quality", "Mid-range MGO 263+ suitable for general wellness use"],
+      "cons": ["$26–40 for 250g makes daily use expensive"],
+      "grade": "A+",
+      "specs": {"Type": "Manuka", "Certification": "UMF 10+", "MGO": "263+", "Weight": "250 g", "Origin": "New Zealand", "Processing": "Raw"},
+      "scores": {"Flavor": 4.7, "Purity": 5.0, "Value": 3.5, "Texture": 4.5, "Versatility": 4.0}
+    },
+    {
+      "offerId": "wedderspoon-manuka-kfactor16",
+      "badge": "Best Accessible Manuka",
+      "review": "Wedderspoon KFactor 16 certifies that 75%+ of pollen comes from Manuka flowers, which confirms floral source but doesn't directly state MGO content — a meaningful distinction from UMF. It's a legitimate product at a softer price than most UMF-certified Manuka, making it the right pick for buyers who want verified Manuka origin without paying the UMF premium. Be aware that KFactor 16 cannot be converted directly to a UMF rating.",
+      "pros": ["Pollen-certified Manuka origin at lower price than UMF", "11.4 oz provides better volume than most Manuka options", "Widely available in mainstream grocery channels"],
+      "cons": ["KFactor does not state MGO level — less precise than UMF"],
+      "grade": "A",
+      "specs": {"Type": "Manuka", "Certification": "KFactor 16", "Pollen": "75%+ Manuka", "Weight": "11.4 oz (323 g)", "Origin": "New Zealand", "Processing": "Raw"},
+      "scores": {"Flavor": 4.5, "Purity": 4.3, "Value": 4.2, "Texture": 4.4, "Versatility": 4.0}
+    },
+    {
+      "offerId": "nature-nates-raw-honey",
+      "badge": "Best Everyday Raw Honey",
+      "review": "Nature Nate's is the right answer for daily use — US-sourced, unfiltered, unheated, independently audited, and under $10 for 16 oz. The flavor is mild clover honey, which is exactly what you want when honey is a background sweetener in tea, yogurt, or dressings. It won't crystallize as fast as thicker raw honeys, and the squeeze bottle is practical. Nothing exotic here — that's the point.",
+      "pros": ["Traceable US sourcing with independent raw auditing", "Mild clover flavor suits broad culinary use", "Accessible price for daily consumption"],
+      "cons": ["Less complex flavor than single-origin or regional varieties"],
+      "grade": "B+",
+      "specs": {"Type": "Clover", "Certification": "Raw/Unfiltered", "Weight": "16 oz (454 g)", "Origin": "USA", "Processing": "Unheated, unfiltered", "Container": "Squeeze bottle"},
+      "scores": {"Flavor": 4.0, "Purity": 4.5, "Value": 4.8, "Texture": 4.0, "Versatility": 4.7}
+    },
+    {
+      "offerId": "ys-eco-bee-raw-honey",
+      "badge": "Best Thick Unfiltered",
+      "review": "Y.S. Eco Bee Farms delivers a noticeably different raw honey experience — thick, opaque, with visible propolis and pollen particles that confirm minimal processing. The flavor is more assertive than Nature Nate's, leaning earthy and complex. At 22 oz USDA organic for around $12–18, it's one of the better values in certified raw honey. The texture can be challenging to scoop in cold weather; warm the jar slightly if it becomes too firm.",
+      "pros": ["Visible propolis and pollen confirm unfiltered processing", "USDA organic certification", "22 oz size offers strong value per ounce"],
+      "cons": ["Thick texture becomes difficult to pour in cooler temperatures"],
+      "grade": "B",
+      "specs": {"Type": "Wildflower blend", "Certification": "USDA Organic, Raw", "Weight": "22 oz (624 g)", "Origin": "USA", "Processing": "Unfiltered, unheated", "Texture": "Thick/paste"},
+      "scores": {"Flavor": 4.4, "Purity": 4.6, "Value": 4.5, "Texture": 3.8, "Versatility": 3.9}
+    },
+    {
+      "offerId": "wholesome-organic-raw-honey",
+      "badge": "Best Fair-Trade Organic",
+      "review": "Wholesome Organic hits a specific niche: buyers who want both organic certification and fair-trade sourcing in a raw honey without paying Manuka prices. The flavor is mild and clean — comparable to Nature Nate's but with the added credentials. At $12–18 for 16 oz, it costs slightly more than Nature Nate's for the organic and fair-trade overhead, which is a reasonable trade-off for the ethically minded buyer. Not the best value by weight, but certified on multiple dimensions.",
+      "pros": ["USDA Organic + fair-trade certified simultaneously", "Mild flavor works across most use cases", "Transparent sourcing credentials"],
+      "cons": ["Higher price per ounce than conventional raw honey without premium flavor payoff"],
+      "grade": "B-",
+      "specs": {"Type": "Clover blend", "Certification": "USDA Organic, Fair Trade", "Weight": "16 oz (454 g)", "Origin": "South America", "Processing": "Raw, unfiltered", "Container": "Jar"},
+      "scores": {"Flavor": 4.0, "Purity": 4.7, "Value": 3.8, "Texture": 4.1, "Versatility": 4.2}
+    }
+  ],
+  "recommendedFor": [
+    {"label": "For daily sweetener use", "offerId": "nature-nates-raw-honey", "reason": "Mild flavor, raw certified, and priced for everyday consumption without guilt."},
+    {"label": "For verified Manuka benefits", "offerId": "comvita-manuka-honey-umf10", "reason": "UMF 10+ independently certifies MGO 263+ — the most reliable certification if Manuka potency matters to you."},
+    {"label": "For ethical sourcing priority", "offerId": "wholesome-organic-raw-honey", "reason": "USDA Organic and fair-trade certified — the pick when sourcing ethics matter as much as flavor."},
+    {"label": "For budget Manuka buyers", "offerId": "wedderspoon-manuka-kfactor16", "reason": "Pollen-certified Manuka origin at a lower price than UMF products — good entry point to Manuka without full UMF premium."},
+    {"label": "For maximally unfiltered honey", "offerId": "ys-eco-bee-raw-honey", "reason": "Visible propolis and pollen in a thick, assertive honey with USDA organic certification — the most 'raw' option on this list."}
+  ]
 }
