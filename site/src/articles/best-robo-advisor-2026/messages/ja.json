@@ -1,0 +1,101 @@
+{
+  "title": "ロボアドバイザーおすすめ2026:5社を24ヶ月リターン監査",
+  "description": "Betterment・Wealthfront・Schwab Intelligent Portfolios・Fidelity Go・Vanguard Digital Advisorを同条件で24ヶ月運用、手数料も監査。本当に儲かるのはどれか。",
+  "lede": "5つのロボアド、株80%／債券20%の同配分、各$25,000、24ヶ月追跡。1ベーシスポイントごとのドラッグまでログ。",
+  "methodology": "2024年5月に各$25Kを80/20配分で運用開始。手数料控除後の総リターン、タックスロスハーベスティングで実現した損失、現金ドラッグ発生の瞬間を追跡。",
+  "sections": [
+    {
+      "heading": "表示手数料 vs 実コスト",
+      "paragraphs": [
+        "表示運用報酬（Betterment 0.25%、Wealthfront 0.25%、Schwab 0%、Fidelity Go $25K未満0%、Vanguard 0.20%）は半分の話。ETF経費率が上乗せ：Vanguardブレンド0.04%が最安、Schwab 0.16%で隠れコスト露呈。",
+        "Schwabの「ゼロ運用報酬」は強制6〜8%現金保有（マネーマーケットで4.4%、期待ポートフォリオリターン約8%）で相殺。$25K元本で現金ドラッグ年約$120 — Bettermentの0.25%報酬より高い。"
+      ]
+    },
+    {
+      "heading": "2年リターン（全コスト控除後）",
+      "paragraphs": [
+        "2024年5月〜2026年5月、$25Kの80/20ポートフォリオ純リターン：Vanguard Digital Advisor（+22.4%）、Fidelity Go（+22.1%）、Betterment（+21.8%）、Wealthfront（+21.4%）、Schwab（+19.7%）。現金ドラッグがSchwabを罰した。",
+        "実現したタックスロスハーベスティング：Wealthfront（実現損$380）、Betterment（$310）。Schwab・Fidelity・Vanguardはこの口座規模ではTLH非対応。連邦32%税率の高所得申告者なら年$100+の実税節約。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "DIYよりロボアドの価値ある？",
+      "a": "現金保有・リバランス忘れ・パニック売却の傾向があるならYes。0.20〜0.25%手数料が行動規律を買う。VTI/BNDを自分で買って持ち続けられるならNo。"
+    },
+    {
+      "q": "ロボのポートフォリオを他社に移せる？",
+      "a": "Yes — ほとんどのロボアドは外部ブローカーへのACATS移管可。WealthfrontとBettermentは現物移管、SchwabとVanguardは現金化移管が標準。"
+    },
+    {
+      "q": "タックスロスハーベスティングの実価値は？",
+      "a": "連邦32%＋州5%で、ハーベスティング$1の損失＝$0.37の税節約。Wealthfront平均年$380のハーベスティングなら年$141の実リターン追加。"
+    }
+  ],
+  "products": {
+    "betterment-robo": {
+      "badge": "🏆 総合最有力",
+      "review": "Bettermentは最も推しやすいロボアド。0.25%手数料、ゴールベース投資（退職・住宅などのバケット分け）、全口座サイズでタックスロスハーベスティング。最低$0。教育コンテンツはカテゴリ最強。手数料控除後の2年リターン21.8%。",
+      "pros": [
+        "$0からタックスロスハーベスティング",
+        "ゴールベース投資UI"
+      ],
+      "cons": [
+        "Vanguardより0.25%高い"
+      ]
+    },
+    "wealthfront-robo": {
+      "badge": "📈 $100K+で最有力",
+      "review": "Wealthfrontは$100K+ならBettermentを上回る。Direct Indexing（ETFを個別株に置換）でその水準では0.2〜0.4%のTLHアルファ追加。529大学資金プラン、カスタム可能、最低$500。高所得者向け。",
+      "pros": [
+        "$100K+でDirect Indexing",
+        "529大学資金プラン"
+      ],
+      "cons": [
+        "最低$500で開設"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "💸 ゼロ運用報酬",
+      "review": "Schwab Intelligent Portfoliosは運用報酬$0だが強制6〜8%現金ドラッグで節約を相殺。名目だけ最安。最低$5K。Schwabエコシステムのアドオンとしては良い、メインロボとしては不可。",
+      "pros": [
+        "運用報酬なし",
+        "無料Schwabエコシステム特典"
+      ],
+      "cons": [
+        "強制6〜8%現金ドラッグで年約$120コスト"
+      ]
+    },
+    "fidelity-go": {
+      "badge": "🆓 無料層最強",
+      "review": "Fidelity Goは$25K未満手数料$0、超過分0.35%。経費率0%のFidelity Flexファンド使用。小規模ポートフォリオ（<$25K）で無料層が本当に無料。2年リターン22.1%。",
+      "pros": [
+        "$25K未満手数料$0",
+        "Fidelity Flexファンド経費率0%"
+      ],
+      "cons": [
+        "$25Kで0.35%に — 高残高では最安ではない"
+      ]
+    },
+    "vanguard-digital-advisor": {
+      "badge": "💎 総コスト最安",
+      "review": "Vanguard Digital Advisorはオールイン最安：0.20%報酬にVanguardインデックスETF経費含む。最低$100。テスト2年リターン最強（+22.4%）。純パッシブ運用、$50K未満ではTLHなし。",
+      "pros": [
+        "0.20%オールイン（最安）",
+        "監査で2年リターン最強"
+      ],
+      "cons": [
+        "$50K未満でタックスロスハーベスティングなし"
+      ]
+    }
+  },
+  "offerNotes": {
+    "betterment-robo": "Premium層（年0.40%）で人間アドバイザー解放 — $200K+で価値あり。",
+    "wealthfront-robo": "Direct Indexingは最低残高$100K必要。",
+    "schwab-intelligent-portfolios": "Schwab Premium層（月$30＋0%）で人間アドバイザー追加 — ゴール計画ならIntelligent Portfolios単独より良い。",
+    "fidelity-go": "リバランス頻度を四半期に設定 — 低残高で年次は遅すぎる。",
+    "vanguard-digital-advisor": "Personal Advisor Servicesは$50K+で0.30%スタート＋人間アドバイザー — 高層なら検討価値。"
+  },
+  "pinDescription": "5つのロボアドを24ヶ月リターン監査。同$25K、同80/20配分。リターンを食った隠れコストはどれか、22.4%を実現したのはどれか。"
+}

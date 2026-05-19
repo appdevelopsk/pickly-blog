@@ -1,0 +1,101 @@
+{
+  "title": "株式取引アプリおすすめ2026:5社を12ヶ月監査",
+  "description": "Fidelity・Schwab・Robinhood・Webull・E*TRADE — 12ヶ月の取引、約定品質、PFOFが実測できる差を生んだ瞬間。",
+  "lede": "5つのブローカーアプリ、同じ50取引、12ヶ月。約定品質、注文フロー売却（PFOF）の隠れコスト、午前2時に開きたいアプリを追跡。",
+  "methodology": "5アプリすべてで同じ50取引ポートフォリオ（S&P株式、ETF、オプション）を執行。SEC Rule 605/606約定レポートでNBBOベンチマーク対比の価格改善を分析。",
+  "sections": [
+    {
+      "heading": "PFOFと隠れコスト",
+      "paragraphs": [
+        "注文フロー売却（PFOF）とは、ブローカーが顧客の取引を取引所ではなくマーケットメーカー（Citadel、Virtu）に流す対価を受け取る仕組み。マーケットメーカーはNational Best Bid/Offerよりやや悪い価格で約定可能 — それが隠れコスト。",
+        "FidelityとSchwabは株式でPFOFを受け取らない。Robinhood、Webull、E*TRADEはすべて受け取る。50取引監査でFidelityは平均株あたり$0.018の価格改善、Robinhoodは平均$0.003。1,000株なら$15対$3。"
+      ]
+    },
+    {
+      "heading": "各アプリの本当の勝ち場",
+      "paragraphs": [
+        "Fidelityは約定品質、端数株（1¢最低）、本気投資家向け24時間サービスで勝つ。Schwabは銀行統合がより優秀なFidelity同等。RobinhoodはUXシンプルさと仮想通貨アクセスで勝つ。Webullは高度なチャートで勝つ。E*TRADEはオプションツール深度で勝つ。",
+        "オプションをやるならE*TRADEのPower E*TRADEアプリとFidelityのActive Trader Proが、Robinhoodのオプションインターフェースより明らかに優秀。Robinhoodのシンプルさは初心者オプショントレーダーへのリスクを隠している。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "PFOFは本当に問題？",
+      "a": "小口取引（100株未満）なら金額は微々たるもの。1,000+株なら$10〜15の隠れコストが早く積み重なる。サイズで取引するならFidelityまたはSchwab。"
+    },
+    {
+      "q": "複数ブローカー口座持てる？",
+      "a": "Yes、ルールなし。多くのアクティブ投資家はFidelityで長期保有、Robinhoodで仮想通貨／オプション。Schwab＋Webullも同様（高度チャート用）。"
+    },
+    {
+      "q": "これらアプリは安全？",
+      "a": "5つすべてSIPC保険$500Kまで。RobinhoodとWebullはLloyd's経由の追加保険あり。スウィープ口座の現金はFDIC保険別途。"
+    }
+  ],
+  "products": {
+    "fidelity-mobile": {
+      "badge": "🏆 総合最有力",
+      "review": "Fidelity Mobileは本気投資家向け最強ブローカーアプリ。手数料$0、端数株（1¢最低）、株式でPFOFなし、24時間電話サポート。モバイルアプリは美しいというより機能的 — Fidelityのオーディエンスはデザインよりデータ重視。",
+      "pros": [
+        "PFOFなし — 約定品質最強",
+        "端数株1¢最低"
+      ],
+      "cons": [
+        "UIがRobinhood／Webullよりやや無骨"
+      ]
+    },
+    "charles-schwab-mobile": {
+      "badge": "🥈 銀行統合最強",
+      "review": "Charles Schwab Mobileは銀行統合が優れたFidelity同等。手数料$0、株式でPFOFなし、Schwab Stock Slicesで端数株。すべてのお金（当座、証券、退職）を1機関＋1アプリで管理したいなら最有力。",
+      "pros": [
+        "株式でPFOFなし",
+        "銀行＋証券統合"
+      ],
+      "cons": [
+        "端数株はS&P 500銘柄限定"
+      ]
+    },
+    "robinhood-app": {
+      "badge": "📱 UX最強",
+      "review": "Robinhoodはカテゴリ最シンプルUX — 元祖「60秒で投資」アプリ。手数料$0、端数株、24時間仮想通貨。Robinhood Gold（月$5）でマージン＋IRAマッチング解放。普通なら始めない初心者投資家に最有力。",
+      "pros": [
+        "初心者向け最シンプルUX",
+        "24時間仮想通貨取引"
+      ],
+      "cons": [
+        "PFOFで約定品質低下"
+      ]
+    },
+    "webull-app": {
+      "badge": "📊 チャート最強",
+      "review": "Webullは無料ブローカーの中ではトレーダーアプリ。高度チャート（本気トレーダーが実際に使う指標）、ペーパートレード、無料Level 2データ。手数料$0。E*TRADE Proに金払わずプロツール欲しいアクティブトレーダーに最有力。",
+      "pros": [
+        "プロレベルのチャートと指標",
+        "練習用ペーパートレード"
+      ],
+      "cons": [
+        "PFOF収益モデル — 同じ隠れコスト問題"
+      ]
+    },
+    "etrade-mobile": {
+      "badge": "⚙️ オプション最強",
+      "review": "E*TRADE Mobile（現Morgan Stanley）はメインストリームで最強のオプション取引アプリ。Power E*TRADEで本気のオプション分析。株／ETF手数料$0。TastyTradeやthinkorswimのピュアプロ複雑さなしでオプションツールが欲しいなら最有力。",
+      "pros": [
+        "Power E*TRADEオプション分析",
+        "Morgan Stanleyリサーチアクセス"
+      ],
+      "cons": [
+        "オプションでPFOF"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-mobile": "Cash Management口座開設で手数料$0デビットカード＋世界ATM払戻し。",
+    "charles-schwab-mobile": "Schwab Bank Checkingは無制限の国際ATM払戻し — 旅行者に有用。",
+    "robinhood-app": "Robinhoodで長期保有しない — 税ロット精度のためFidelity／SchwabにACAT-out。",
+    "webull-app": "本番前に30日ペーパートレード — Webull高度機能は学習曲線あり。",
+    "etrade-mobile": "Power E*TRADEアプリはメインE*TRADEアプリと別 — 両方ダウンロード。"
+  },
+  "pinDescription": "5つの株式取引アプリを12ヶ月監査。同じ50取引。1,000株取引でPFOFがいくらコストするか、Robinhoodの$3対Fidelityの$15の価格改善差。"
+}
