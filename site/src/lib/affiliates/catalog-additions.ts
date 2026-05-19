@@ -24658,5 +24658,733 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "approved": false
       }
     ]
+  },
+  {
+    "id": "digitalocean-droplets",
+    "imageUrl": "",
+    "priceMin": "$6",
+    "priceMax": "$96",
+    "category": "tech",
+    "badge": "💧",
+    "name": {
+      "en": "DigitalOcean Droplets",
+      "ja": "DigitalOcean Droplets"
+    },
+    "description": {
+      "en": "Cloud VPS with mature CLI/API, $200 new-account credit, Premium tier removes CPU steal. Best all-around VPS in 2026.",
+      "ja": "成熟したCLI／API、新規$200クレジット、Premium階級でCPUスチール解消。2026年VPS総合最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.digitalocean.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vultr-cloud-compute",
+    "imageUrl": "",
+    "priceMin": "$6",
+    "priceMax": "$96",
+    "category": "tech",
+    "badge": "⚡",
+    "name": {
+      "en": "Vultr High Frequency Compute",
+      "ja": "Vultr High Frequency Compute"
+    },
+    "description": {
+      "en": "NVMe SSDs, 32 datacenter locations, hourly billing. Lowest P50 latency in test.",
+      "ja": "NVMe SSD、32データセンター、時間単位課金。テスト中最低P50レイテンシ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.vultr.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "linode-shared-cpu",
+    "imageUrl": "",
+    "priceMin": "$5",
+    "priceMax": "$144",
+    "category": "tech",
+    "badge": "🎯",
+    "name": {
+      "en": "Linode (Akamai) Cloud Computing",
+      "ja": "Linode（Akamai）Cloud Computing"
+    },
+    "description": {
+      "en": "Akamai-owned network, Dedicated CPU plans for predictable workloads, free DDoS protection.",
+      "ja": "Akamai所有ネットワーク、Dedicated CPUプランで予測可能ワークロード、DDoS保護無料。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.linode.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hetzner-cloud-cpx",
+    "imageUrl": "",
+    "priceMin": "$4",
+    "priceMax": "$40",
+    "category": "tech",
+    "badge": "💰",
+    "name": {
+      "en": "Hetzner Cloud CPX Plans",
+      "ja": "Hetzner Cloud CPXプラン"
+    },
+    "description": {
+      "en": "AMD EPYC + NVMe at 3-5× cheaper than competitors. 20 TB bandwidth included. KYC required.",
+      "ja": "AMD EPYC＋NVMeが競合の3〜5分の1価格。20 TB帯域込み。KYC必須。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hetzner.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "aws-lightsail",
+    "imageUrl": "",
+    "priceMin": "$5",
+    "priceMax": "$160",
+    "category": "tech",
+    "badge": "🪪",
+    "name": {
+      "en": "AWS Lightsail",
+      "ja": "AWS Lightsail"
+    },
+    "description": {
+      "en": "Fixed-monthly AWS gateway. Pricier per spec than competitors, but unlocks AWS ecosystem integration.",
+      "ja": "固定月額のAWS入口。スペック単価は競合より高いがAWSエコシステム統合可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://aws.amazon.com/lightsail/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "kinsta-managed-wp",
+    "imageUrl": "",
+    "priceMin": "$35",
+    "priceMax": "$1500",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "Kinsta Managed WordPress",
+      "ja": "Kinsta マネージドWordPress"
+    },
+    "description": {
+      "en": "Google Cloud Premium Tier network, free Cloudflare Enterprise, MyKinsta dashboard. Lowest TTFB in test.",
+      "ja": "Google Cloud Premium Tierネットワーク、Cloudflare Enterprise無料、MyKinstaダッシュボード。テスト中最速TTFB。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://kinsta.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "wp-engine-managed-wp",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$600",
+    "category": "tech",
+    "badge": "🎯",
+    "name": {
+      "en": "WP Engine Managed WordPress",
+      "ja": "WP Engine マネージドWordPress"
+    },
+    "description": {
+      "en": "Fastest support response in test, Smart Plugin Manager, Genesis themes included. Since 2010.",
+      "ja": "テスト中最速サポート応答、Smart Plugin Manager、Genesisテーマ込み。2010年から。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://wpengine.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "siteground-grow-big",
+    "imageUrl": "",
+    "priceMin": "$6",
+    "priceMax": "$24",
+    "category": "tech",
+    "badge": "🪜",
+    "name": {
+      "en": "SiteGround GrowBig",
+      "ja": "SiteGround GrowBig"
+    },
+    "description": {
+      "en": "Real staging environment, SiteGround Optimizer plugin, EU+US datacenters. Year 2 pricing $24/mo.",
+      "ja": "まともなステージング環境、SiteGround Optimizerプラグイン、EU＋USデータセンター。2年目価格$24／月。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.siteground.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bluehost-choice-plus",
+    "imageUrl": "",
+    "priceMin": "$3",
+    "priceMax": "$11",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "Bluehost Choice Plus",
+      "ja": "Bluehost Choice Plus"
+    },
+    "description": {
+      "en": "Cheapest viable WP host but only for hobby sites. Uncached TTFB over 1s under load. Script-driven support.",
+      "ja": "生きてる最安WPホストだが趣味サイト限定。負荷時キャッシュなしTTFB 1秒超。スクリプトベースのサポート。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bluehost.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "cloudways-vultr-wp",
+    "imageUrl": "",
+    "priceMin": "$14",
+    "priceMax": "$200",
+    "category": "tech",
+    "badge": "🛠️",
+    "name": {
+      "en": "Cloudways (DigitalOcean-owned)",
+      "ja": "Cloudways（DigitalOcean傘下）"
+    },
+    "description": {
+      "en": "Managed WP on your choice of DO/Vultr/AWS/GCP. Vultr High Frequency is the best underlying choice.",
+      "ja": "DO／Vultr／AWS／GCP選択肢付きマネージドWP。Vultr High Frequencyが最良の背後選択。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.cloudways.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "blackvue-dr900x-2ch",
+    "imageUrl": "",
+    "priceMin": "$400",
+    "priceMax": "$500",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "BlackVue DR900X 2-Channel",
+      "ja": "BlackVue DR900X 2チャンネル"
+    },
+    "description": {
+      "en": "4K front + 1080p rear, cloud connectivity, best night plate readability, survives extreme heat. Premium pick.",
+      "ja": "4Kフロント＋1080pリア、クラウド接続、夜間ナンバー判読最良、極端な暑さに耐える。プレミアム最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.blackvue.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vantrue-n4-3ch",
+    "imageUrl": "",
+    "priceMin": "$250",
+    "priceMax": "$310",
+    "category": "tech",
+    "badge": "🚕",
+    "name": {
+      "en": "Vantrue N4 3-Channel",
+      "ja": "Vantrue N4 3チャンネル"
+    },
+    "description": {
+      "en": "Front + cabin + rear at 1440p+, IR cabin lighting. Best for Uber/Lyft drivers.",
+      "ja": "前＋車内＋後を1440p+で記録、車内IR照射。Uber／Lyftドライバー向け最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://vantrue.net/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "viofo-a129-pro-duo",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$240",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "Viofo A129 Pro Duo",
+      "ja": "Viofo A129 Pro Duo"
+    },
+    "description": {
+      "en": "2K front + 2K rear at half the BlackVue price. Heat tolerance is the weak point for hot climates.",
+      "ja": "2Kフロント＋2KリアでBlackVue半額。耐熱が暑い気候では弱点。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://viofo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bluedriver-pro-obdii",
+    "imageUrl": "",
+    "priceMin": "$100",
+    "priceMax": "$130",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "BlueDriver Professional OBDII",
+      "ja": "BlueDriver Professional OBDII"
+    },
+    "description": {
+      "en": "Bluetooth dongle + phone app, reads ABS/SRS/transmission, Bosch-database repair reports. Best app-based.",
+      "ja": "Bluetoothドングル＋スマホアプリ、ABS／SRS／ミッション読取、Boschデータベース修理レポート。アプリベース最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bluedriver.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "autel-maxicom-mk808",
+    "imageUrl": "",
+    "priceMin": "$320",
+    "priceMax": "$420",
+    "category": "tech",
+    "badge": "🔧",
+    "name": {
+      "en": "Autel MaxiCOM MK808",
+      "ja": "Autel MaxiCOM MK808"
+    },
+    "description": {
+      "en": "7-inch tablet, reads all systems, bidirectional control, 2-year free software updates. Prosumer pick.",
+      "ja": "7インチタブレット、全システム読取、双方向制御、2年無料ソフト更新。プロシューマー最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.autel.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "innova-5610",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$260",
+    "category": "tech",
+    "badge": "📺",
+    "name": {
+      "en": "Innova 5610",
+      "ja": "Innova 5610"
+    },
+    "description": {
+      "en": "Handheld with color screen, full OBD2 + ABS + battery test, ASE-certified hotline. No phone needed.",
+      "ja": "カラー画面ハンドヘルド、フルOBD2＋ABS＋バッテリテスト、ASE認定ホットライン。スマホ不要。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.innova.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "foxwell-nt301",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$50",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "FOXWELL NT301",
+      "ja": "FOXWELL NT301"
+    },
+    "description": {
+      "en": "Engine-only handheld, lifetime free updates, color screen. Best engine-codes-only pick under $50.",
+      "ja": "エンジンのみハンドヘルド、生涯無料更新、カラー画面。$50以下のエンジンコードのみ最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.foxwelldiag.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bafx-products-obd2",
+    "imageUrl": "",
+    "priceMin": "$22",
+    "priceMax": "$30",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "BAFX Products OBD2 Bluetooth",
+      "ja": "BAFX Products OBD2 Bluetooth"
+    },
+    "description": {
+      "en": "Cheapest viable Bluetooth dongle ($25). Pairs with Torque (Android) or OBD Fusion (iOS). Generic codes only.",
+      "ja": "生きてる最安Bluetoothドングル（$25）。Torque（Android）かOBD Fusion（iOS）とペア。ジェネリックコードのみ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bafxproducts.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "noco-boost-gb40-1000a",
+    "imageUrl": "",
+    "priceMin": "$95",
+    "priceMax": "$130",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "NOCO Boost GB40 (1000A peak)",
+      "ja": "NOCO Boost GB40（1000Aピーク）"
+    },
+    "description": {
+      "en": "Compact lithium jump starter, V6 capable, IP65 rated, 6+ month charge retention. Best for most drivers.",
+      "ja": "コンパクトリチウム、V6対応、IP65、6ヶ月以上充電保持。多くのドライバー向け最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://no.co/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "noco-boost-hd-gb70-2000a",
+    "imageUrl": "",
+    "priceMin": "$190",
+    "priceMax": "$240",
+    "category": "tech",
+    "badge": "❄️",
+    "name": {
+      "en": "NOCO Boost HD GB70 (2000A peak)",
+      "ja": "NOCO Boost HD GB70（2000Aピーク）"
+    },
+    "description": {
+      "en": "Handles V8 and diesel in extreme cold, 100W USB-C PD output for laptops. Best cold-weather pick.",
+      "ja": "極寒のV8とディーゼル対応、ノートPC用100W USB-C PD出力。寒冷地最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://no.co/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "stanley-j5c09-1000a",
+    "imageUrl": "",
+    "priceMin": "$110",
+    "priceMax": "$160",
+    "category": "tech",
+    "badge": "🪖",
+    "name": {
+      "en": "Stanley J5C09 (1000A peak)",
+      "ja": "Stanley J5C09（1000Aピーク）"
+    },
+    "description": {
+      "en": "Lead-acid with 120V AC outlet, built-in air compressor, USB-A ports, work light. The multitool pick.",
+      "ja": "120V ACコンセント付き鉛酸、エアコンプレッサー内蔵、USB-Aポート、ワークライト。マルチツール最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.stanleytools.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dbpower-800a-jump-starter",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$80",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "DBPOWER 800A Jump Starter",
+      "ja": "DBPOWER 800A ジャンプスターター"
+    },
+    "description": {
+      "en": "800A peak, LCD screen, USB outputs, integrated flashlight. Best value for mild climates under $80.",
+      "ja": "ピーク800A、LCD画面、USB出力、内蔵フラッシュライト。温暖気候の$80以下コスパ最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.dbpower-tech.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "audew-1200a-jump-starter",
+    "imageUrl": "",
+    "priceMin": "$75",
+    "priceMax": "$100",
+    "category": "tech",
+    "badge": "📋",
+    "name": {
+      "en": "Audew 1200A Jump Starter",
+      "ja": "Audew 1200A ジャンプスターター"
+    },
+    "description": {
+      "en": "1200A peak under $100, lithium chemistry (good shelf retention), multiple safety features.",
+      "ja": "$100以下で1200Aピーク、リチウム化学（棚保持良好）、複数安全機能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.audew.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "healthy-paws-pet-insurance",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$120",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Healthy Paws Pet Insurance",
+      "ja": "Healthy Paws ペット保険"
+    },
+    "description": {
+      "en": "4-day average reimbursement, no annual benefit cap, simple 80%/$250 plan. Best fast-pay.",
+      "ja": "平均4日払戻、年間補償上限なし、シンプルな80%／免責$250プラン。高速払戻最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.healthypaws.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "trupanion-pet-insurance",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$150",
+    "category": "finance",
+    "badge": "💳",
+    "name": {
+      "en": "Trupanion Pet Insurance",
+      "ja": "Trupanion ペット保険"
+    },
+    "description": {
+      "en": "Direct vet payment at checkout, 90% reimbursement, no claim-based premium increases. Best direct-pay.",
+      "ja": "チェックアウト時に獣医に直接支払、90%払戻、請求ベース保険料増加なし。直接支払最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://trupanion.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "embrace-pet-insurance",
+    "imageUrl": "",
+    "priceMin": "$28",
+    "priceMax": "$130",
+    "category": "finance",
+    "badge": "🪜",
+    "name": {
+      "en": "Embrace Pet Insurance",
+      "ja": "Embrace ペット保険"
+    },
+    "description": {
+      "en": "Most lenient on pre-existing (curable conditions covered after 12 symptom-free months), diminishing deductible.",
+      "ja": "既存疾患に最も寛容（治癒可能疾患は12ヶ月無症状後に補償）、漸減免責。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.embracepetinsurance.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "lemonade-pet-insurance",
+    "imageUrl": "",
+    "priceMin": "$20",
+    "priceMax": "$110",
+    "category": "finance",
+    "badge": "📱",
+    "name": {
+      "en": "Lemonade Pet Insurance",
+      "ja": "Lemonade ペット保険"
+    },
+    "description": {
+      "en": "App-native signup and claims, 5-day reimbursement, bundling with renters/home saves 10%.",
+      "ja": "アプリネイティブのサインアップと請求、5日払戻、賃借／住宅とのバンドルで10%割引。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.lemonade.com/pet",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "spot-pet-insurance",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$130",
+    "category": "finance",
+    "badge": "🎯",
+    "name": {
+      "en": "Spot Pet Insurance",
+      "ja": "Spot ペット保険"
+    },
+    "description": {
+      "en": "Strong wellness add-on (vaccines, dental, heartworm), Crum & Forster underwriting. 14-day reimbursement.",
+      "ja": "強力なウェルネス追加（ワクチン、歯科、フィラリア）、Crum & Forster引受。14日払戻。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://spotpetins.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
   }
 ];

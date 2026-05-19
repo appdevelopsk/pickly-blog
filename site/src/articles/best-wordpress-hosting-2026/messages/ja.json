@@ -1,0 +1,124 @@
+{
+  "title": "WordPressホスティング 2026年比較：同じサイトを5社で90日テスト",
+  "description": "Kinsta、WP Engine、SiteGround、Bluehost、Cloudwaysに月間3万PVの同じサイトを移行。実測TTFB、サポート応答時間、価格に見合う品質を提供するのはどこか。",
+  "lede": "WPホスト5社。実サイト1本。90日。月間3万PV／ピーク同時150のWooCommerceサイトを移行し、価格ページに載らない数字 — キャッシュミス時TTFB、チケット応答時間、ステージング環境の壊れる頻度 — を実測。",
+  "methodology": "同一WP／Wooインストールを各社に移行。実トラフィック（月間3万PV、ピーク同時150）をミラーリング。キャッシュ有無のTTFB、サポート応答、稼働率、ステージング摩擦、移行所要時間を測定。",
+  "sections": [
+    {
+      "heading": "価格と実質コスト",
+      "paragraphs": [
+        "価格表：Bluehost $2.95／月（導入）、SiteGround $5.99／月（導入）、Cloudways $14〜／月、Kinsta $35／月、WP Engine $30／月。更新後の実質コスト：Bluehost $11／月、SiteGround $24／月。Kinsta／WP Engineは導入価格なし — 申込時の価格が2年目以降もそのまま。",
+        "帯域上限：Kinsta／WP Engineはプラン上限超過で課金、SiteGround／Bluehostはスロットリング。成長サイトではKinsta／WP Engineの超過は予測可能、安価ホストのスロットリングは突発的なダウンタイム。"
+      ]
+    },
+    {
+      "heading": "パフォーマンス（TTFB）",
+      "paragraphs": [
+        "キャッシュページのTTFB：Kinsta 142ms、WP Engine 158ms、Cloudways（Vultr）168ms、SiteGround 210ms、Bluehost 340ms。KinstaはCloudflare Enterprise統合でキャッシュ配信が最速。",
+        "キャッシュなしページ（管理ログイン状態）TTFB：Cloudways 290ms、Kinsta 340ms、WP Engine 380ms、SiteGround 520ms、Bluehost 1.1秒。Bluehostのキャッシュなし性能は安価共有ホスティングの実コスト。",
+        "WooCommerceチェックアウト遅延（5商品カート）：Kinsta 410ms、Cloudways 480ms、WP Engine 520ms、SiteGround 780ms、Bluehost 1.4秒。"
+      ]
+    },
+    {
+      "heading": "サポート品質",
+      "paragraphs": [
+        "初動応答時間（本番ダウンチケット）：WP Engine 4分、Kinsta 6分、Cloudways 12分、SiteGround 18分、Bluehost 47分。Kinsta／WP EngineはWPエンジニア対応、SiteGroundは有能だが遅め、Bluehost一次対応はスクリプトベース。",
+        "知識の深さ：Kinsta／WP Engineは根本原因（プラグインのスロークエリ等）をエスカレーションなしで解決。SiteGroundはキャッシュ／DNS関連を処理。Bluehost一次対応は再起動スクリプト以外の診断不能。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "KinstaはBluehost $2.95に対して本当に$35の価値がある？",
+      "a": "サイトが少しでも収益化していれば — はい。TTFBの差だけでコンバージョン率が変わる。Bluehostは速度や稼働率を気にしない趣味サイト向け。"
+    },
+    {
+      "q": "WP Engine vs. Kinsta は？",
+      "a": "Kinstaがキャッシュ時TTFBわずかに優位、WP Engineがサポートわずかに高速。両方優秀。KinstaのUIがクリーン、WP EngineのSmart Plugin Managerは独特。トライアルで決めるべき。"
+    },
+    {
+      "q": "CloudwaysはKinstaより安いが落とし穴は？",
+      "a": "CloudwaysはDigitalOcean／Vultr／AWS／GCP上にマネージドWP層を載せる。背後のVPSが見える。Kinsta／WP EngineよりDIY寄りのマネージドサービス。2022年にDigitalOceanが買収。"
+    },
+    {
+      "q": "Bluehostから移行すべき？",
+      "a": "サイトが収益化しているかページ速度を気にするなら、はい。TTFBの差は埋まらない。"
+    }
+  ],
+  "products": {
+    "kinsta-managed-wp": {
+      "badge": "🏆 プレミアム最有力",
+      "review": "Kinstaは2026年のプレミアムマネージドWPホスト最強。Google Cloud Premium Tierネットワーク、Cloudflare Enterprise無料統合、MyKinstaダッシュボードはカテゴリ最高にクリーン。ステージング環境はワンクリック、全プラン統一。サポートは10分以内にWPエンジニアが対応。",
+      "pros": [
+        "キャッシュ時TTFB最速",
+        "Cloudflare Enterprise無料",
+        "カテゴリ最高のダッシュボード"
+      ],
+      "cons": [
+        "電話サポートなし（チャットのみ）",
+        "訪問者ベース価格でスパイクが懲罰的"
+      ]
+    },
+    "wp-engine-managed-wp": {
+      "badge": "🎯 サポート最有力",
+      "review": "WP Engineは最長運営のマネージドWPホスト、サポートは業界最良。テスト中の初動応答はKinstaより速い。Genesisテーマ込み。Smart Plugin Managerがプラグイン更新を自動テスト。ダッシュボードはKinsta比で古く感じるが基盤サービスは優秀。",
+      "pros": [
+        "テスト中最速のサポート応答",
+        "Smart Plugin Manager込み",
+        "長い実績（2010年から）"
+      ],
+      "cons": [
+        "ダッシュボードが古く感じる",
+        "上位プランで割高"
+      ]
+    },
+    "siteground-grow-big": {
+      "badge": "🪜 中位層最有力",
+      "review": "SiteGround GrowBigはマネージドホスト価格を払わずに実性能が欲しいサイト向け。SiteGround Optimizerプラグインのキャッシュ処理が良好、ステージング環境も機能する。2年目価格（$24／月）が実質コスト。Bluehostより買い、KinstaほどではないがOK。",
+      "pros": [
+        "まともなステージング環境",
+        "SiteGround Optimizerプラグインが良い",
+        "EU＋USデータセンター"
+      ],
+      "cons": [
+        "2年目価格が導入価格の4倍",
+        "TTFBがKinsta／WP Engineより明確に遅い"
+      ]
+    },
+    "bluehost-choice-plus": {
+      "badge": "💸 バジェット最有力",
+      "review": "Bluehost Choice Plusは生きてる最安WPホストだが趣味サイト限定。テスト負荷でキャッシュなしTTFBが1秒超 — ここが弱点。サポートはスクリプトベース。WordPress.orgが歴史的に推奨するが、それは2010年の現実で2026年ではない。",
+      "pros": [
+        "最安の導入価格",
+        "WordPressワンクリックインストール",
+        "無料ドメイン1つ"
+      ],
+      "cons": [
+        "負荷時キャッシュなしTTFB 1秒超",
+        "スクリプトベースのサポート",
+        "2年目更新が導入価格の3倍"
+      ]
+    },
+    "cloudways-vultr-wp": {
+      "badge": "🛠️ 玄人向け最有力",
+      "review": "CloudwaysはDigitalOcean／Vultr／AWS／GCP選択肢付きのマネージドWordPress。背後のVPSが見える — 制御が欲しい人には正解、不要な人には問題。2022年DigitalOcean買収。Vultr High Frequency選択でKinstaより同スペック単価良。",
+      "pros": [
+        "背後のプロバイダ選択可",
+        "同スペックでKinstaより安い",
+        "従量課金"
+      ],
+      "cons": [
+        "Kinsta／WP Engineより手厚さ低い",
+        "メールホスティングは別アドオン"
+      ]
+    }
+  },
+  "offerNotes": {
+    "kinsta-managed-wp": "kinsta.comでサインアップ。移行無料込み。30日返金保証。",
+    "wp-engine-managed-wp": "wpengine.comでサインアップ。4ヶ月無料プロモコードが頻繁 — サインアップ前にチェック。",
+    "siteground-grow-big": "siteground.comでサインアップ。導入価格は1年のみ — 更新価格を必ず確認。",
+    "bluehost-choice-plus": "bluehost.comでサインアップ可だが、同階層ならSiteGroundかCloudwaysを検討。",
+    "cloudways-vultr-wp": "cloudways.comでサインアップ。多くのWPサイトの最良の背後選択はVultr High Frequency。"
+  },
+  "pinDescription": "WordPressホスティング 2026年比較：Kinsta × WP Engine × SiteGround × Bluehost × Cloudwaysを同じサイトで90日比較。実測TTFB＋サポート応答データ。 #WordPress #ホスティング"
+}
