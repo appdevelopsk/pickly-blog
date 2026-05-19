@@ -34616,5 +34616,785 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "approved": false
       }
     ]
+  },
+  {
+    "id": "geico-umbrella",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$400",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Geico Personal Umbrella",
+      "ja": "Geico パーソナルアンブレラ"
+    },
+    "description": {
+      "en": "$1M coverage for $200-300/yr requires Geico auto + home in most states. Cheapest mainstream pick.",
+      "ja": "$1M補償が年$200-300、多くの州でGeico自動車＋住宅必須。最安主流ピック。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.geico.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "state-farm-umbrella",
+    "imageUrl": "",
+    "priceMin": "$220",
+    "priceMax": "$450",
+    "category": "finance",
+    "badge": "📦",
+    "name": {
+      "en": "State Farm Personal Umbrella",
+      "ja": "State Farm パーソナルアンブレラ"
+    },
+    "description": {
+      "en": "$1M-5M coverage, requires State Farm underlying policies, local agent network. Best for existing State Farm customers.",
+      "ja": "$1M-5M補償、State Farm基礎ポリシー必須、ローカルエージェントネットワーク。既存State Farm顧客最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.statefarm.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "usaa-umbrella",
+    "imageUrl": "",
+    "priceMin": "$150",
+    "priceMax": "$300",
+    "category": "finance",
+    "badge": "🪖",
+    "name": {
+      "en": "USAA Umbrella Insurance",
+      "ja": "USAA アンブレラ保険"
+    },
+    "description": {
+      "en": "Cheapest premium for military-eligible ($150-250/yr for $1M), JD Power #1 satisfaction. Military only.",
+      "ja": "軍関係者向け最安保険料（$1Mで年$150-250）、JD Power #1満足度。軍関係者のみ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.usaa.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "rli-personal-umbrella",
+    "imageUrl": "",
+    "priceMin": "$250",
+    "priceMax": "$500",
+    "category": "finance",
+    "badge": "🛒",
+    "name": {
+      "en": "RLI Personal Umbrella (Standalone)",
+      "ja": "RLI パーソナルアンブレラ（単体）"
+    },
+    "description": {
+      "en": "Standalone umbrella — doesn't require their underlying auto/home. $1M-5M, $250-400/yr.",
+      "ja": "単体アンブレラ — 自動車／住宅基礎ポリシー不要。$1M-5M、年$250-400。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.rlicorp.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "chubb-masterpiece-umbrella",
+    "imageUrl": "",
+    "priceMin": "$500",
+    "priceMax": "$2500",
+    "category": "finance",
+    "badge": "💎",
+    "name": {
+      "en": "Chubb Masterpiece Umbrella",
+      "ja": "Chubb マスターピース アンブレラ"
+    },
+    "description": {
+      "en": "High-net-worth specialist, $5M-50M coverage, white-glove claims service. Executives/affluent target.",
+      "ja": "富裕層特化、$5M-50M補償、白手袋クレームサービス。経営者／富裕層向け。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.chubb.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "guardian-individual-disability",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$300",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Guardian Individual Disability Income",
+      "ja": "Guardian 個人就業不能収入"
+    },
+    "description": {
+      "en": "True own-occupation definition, non-cancellable, strong rider options. Best for professionals.",
+      "ja": "真の自身の職業定義、解約不可、強力なライダーオプション。プロフェッショナル向け最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.guardianlife.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "principal-individual-disability",
+    "imageUrl": "",
+    "priceMin": "$45",
+    "priceMax": "$280",
+    "category": "finance",
+    "badge": "🥇",
+    "name": {
+      "en": "Principal Individual Disability Insurance",
+      "ja": "Principal 個人就業不能保険"
+    },
+    "description": {
+      "en": "True own-occupation for doctors/dentists/lawyers, aggressive medical/dental pricing. Top specialist carrier.",
+      "ja": "医師／歯科医／弁護士向け真の自身の職業、積極的な医療／歯科価格。トップ専門キャリア。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.principal.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mass-mutual-radius-disability",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$320",
+    "category": "finance",
+    "badge": "🤝",
+    "name": {
+      "en": "MassMutual Radius Choice Disability",
+      "ja": "MassMutual ラディウス チョイス就業不能"
+    },
+    "description": {
+      "en": "Mutual company (policyholders share dividends), solid own-occ language for professionals.",
+      "ja": "ミューチュアル会社（契約者で配当共有）、プロフェッショナル向けソリッドな自身の職業文言。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.massmutual.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "breeze-simplified-disability",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$200",
+    "category": "finance",
+    "badge": "💻",
+    "name": {
+      "en": "Breeze Simplified Disability Insurance",
+      "ja": "Breeze 簡略就業不能保険"
+    },
+    "description": {
+      "en": "Online application, no medical exam for many applicants, $50-150/mo. Best digital signup.",
+      "ja": "オンライン申込、多くの申込者に健康診断不要、月$50-150。デジタルサインアップ最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.meetbreeze.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "policygenius-disability-marketplace",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$300",
+    "category": "finance",
+    "badge": "🛒",
+    "name": {
+      "en": "Policygenius Disability Marketplace",
+      "ja": "Policygenius 就業不能マーケットプレイス"
+    },
+    "description": {
+      "en": "Shops Guardian, Principal, MassMutual, Mutual of Omaha. Best for shopping the cheapest quote.",
+      "ja": "Guardian、Principal、MassMutual、Mutual of Omahaで見積。最安見積買い向け最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.policygenius.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "porkbun-registrar",
+    "imageUrl": "",
+    "priceMin": "$8",
+    "priceMax": "$15",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "Porkbun Domain Registrar",
+      "ja": "Porkbun ドメインレジストラ"
+    },
+    "description": {
+      "en": "Lowest renewal prices ($10.37 .com), free WHOIS privacy, zero checkout upsells. Best value.",
+      "ja": "最安更新価格（.comで$10.37）、WHOISプライバシー無料、チェックアウトでアップセルゼロ。コスパ最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://porkbun.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "namecheap-registrar",
+    "imageUrl": "",
+    "priceMin": "$9",
+    "priceMax": "$18",
+    "category": "tech",
+    "badge": "🎯",
+    "name": {
+      "en": "Namecheap Domain Registrar",
+      "ja": "Namecheap ドメインレジストラ"
+    },
+    "description": {
+      "en": "Free WHOIS privacy forever, transparent pricing, strong DNS management. Reliable since 2000.",
+      "ja": "永久WHOISプライバシー無料、透明な価格、強力なDNS管理。2000年から信頼性。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.namecheap.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "cloudflare-registrar",
+    "imageUrl": "",
+    "priceMin": "$8",
+    "priceMax": "$12",
+    "category": "tech",
+    "badge": "💰",
+    "name": {
+      "en": "Cloudflare Registrar",
+      "ja": "Cloudflare レジストラ"
+    },
+    "description": {
+      "en": "At-cost pricing ($9.77 .com), free WHOIS privacy, no upsells. Requires Cloudflare DNS.",
+      "ja": "原価価格（.comで$9.77）、WHOISプライバシー無料、アップセルなし。Cloudflare DNS必須。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.cloudflare.com/products/registrar/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "godaddy-registrar",
+    "imageUrl": "",
+    "priceMin": "$12",
+    "priceMax": "$25",
+    "category": "tech",
+    "badge": "🚫",
+    "name": {
+      "en": "GoDaddy Domain Registrar",
+      "ja": "GoDaddy ドメインレジストラ"
+    },
+    "description": {
+      "en": "Largest registrar, $24.99 .com renewal (2.4x Porkbun), $9.99/yr paid WHOIS, 8+ checkout upsells.",
+      "ja": "最大レジストラ、.com更新$24.99（Porkbunの2.4倍）、年$9.99有料WHOIS、チェックアウトで8+アップセル。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.godaddy.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "google-domains-squarespace",
+    "imageUrl": "",
+    "priceMin": "$12",
+    "priceMax": "$20",
+    "category": "tech",
+    "badge": "🪜",
+    "name": {
+      "en": "Squarespace Domains (formerly Google Domains)",
+      "ja": "Squarespace ドメイン（旧Google Domains）"
+    },
+    "description": {
+      "en": "Squarespace acquired Google Domains in 2023. Simple UX, free WHOIS privacy, $20 .com renewal.",
+      "ja": "2023年にSquarespaceがGoogle Domains買収。シンプルUX、WHOISプライバシー無料、.com更新$20。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.squarespace.com/domains",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "squarespace-builder",
+    "imageUrl": "",
+    "priceMin": "$16",
+    "priceMax": "$49",
+    "category": "tech",
+    "badge": "🎨",
+    "name": {
+      "en": "Squarespace Website Builder",
+      "ja": "Squarespace ウェブサイトビルダー"
+    },
+    "description": {
+      "en": "Best design templates, e-commerce + scheduling on higher tiers, Apple-like aesthetic. Best design defaults.",
+      "ja": "最良のデザインテンプレート、上位プランでEC＋予約、Apple風美学。デザインデフォルト最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.squarespace.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "wix-builder",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$59",
+    "category": "tech",
+    "badge": "🪄",
+    "name": {
+      "en": "Wix Website Builder",
+      "ja": "Wix ウェブサイトビルダー"
+    },
+    "description": {
+      "en": "Most flexible drag-and-drop, AI website generator, free tier with Wix branding. Largest template library.",
+      "ja": "最柔軟なドラッグ＆ドロップ、AIウェブサイトジェネレーター、Wixブランド付き無料層。最大テンプレートライブラリ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.wix.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "webflow-builder",
+    "imageUrl": "",
+    "priceMin": "$14",
+    "priceMax": "$235",
+    "category": "tech",
+    "badge": "🥇",
+    "name": {
+      "en": "Webflow",
+      "ja": "Webflow"
+    },
+    "description": {
+      "en": "Designer-grade CSS-level control, exports clean HTML/CSS/JS for self-hosting. Best Lighthouse scores.",
+      "ja": "デザイナーグレードCSSレベル制御、セルフホスト用クリーンHTML／CSS／JSエクスポート。最良Lighthouseスコア。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://webflow.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "shopify-builder",
+    "imageUrl": "",
+    "priceMin": "$29",
+    "priceMax": "$299",
+    "category": "tech",
+    "badge": "🛍️",
+    "name": {
+      "en": "Shopify (Store Builder)",
+      "ja": "Shopify（ストアビルダー）"
+    },
+    "description": {
+      "en": "Best for e-commerce-first sites, native payment processing, 10,000+ app ecosystem.",
+      "ja": "ECファーストサイト向け最有力、ネイティブ決済処理、10,000+アプリエコシステム。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.shopify.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "carrd-single-page",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$49",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "Carrd Single-Page Builder",
+      "ja": "Carrd シングルページビルダー"
+    },
+    "description": {
+      "en": "$19/year all features. Single-page focus — link-in-bio, personal sites. Cleanest Lighthouse scores.",
+      "ja": "年$19で全機能。シングルページフォーカス — リンクインバイオ、個人サイト。最クリーンLighthouseスコア。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://carrd.co/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ego-power-ht2410-24inch",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$270",
+    "category": "home",
+    "badge": "🏆",
+    "name": {
+      "en": "EGO Power+ HT2410 24\" Hedge Trimmer",
+      "ja": "EGO Power+ HT2410 24インチ ヘッジトリマー"
+    },
+    "description": {
+      "en": "56V brushless, 24\" dual-action blades, 1\" cutting capacity, 90-min runtime. Best overall.",
+      "ja": "56Vブラシレス、24インチデュアルアクションブレード、1インチ切断、90分稼働。総合最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://egopowerplus.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "milwaukee-m18-hedge-trimmer",
+    "imageUrl": "",
+    "priceMin": "$250",
+    "priceMax": "$350",
+    "category": "home",
+    "badge": "🔧",
+    "name": {
+      "en": "Milwaukee M18 Fuel Hedge Trimmer",
+      "ja": "Milwaukee M18 Fuel ヘッジトリマー"
+    },
+    "description": {
+      "en": "Pro-grade build, 24\" blade, M18 battery integration. Best for landscapers and Milwaukee tool owners.",
+      "ja": "プログレード造り、24インチブレード、M18バッテリー統合。造園業者＋Milwaukeeツールオーナー最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.milwaukeetool.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ryobi-40v-22inch-hedge",
+    "imageUrl": "",
+    "priceMin": "$150",
+    "priceMax": "$220",
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Ryobi 40V 22\" Hedge Trimmer",
+      "ja": "Ryobi 40V 22インチ ヘッジトリマー"
+    },
+    "description": {
+      "en": "Ryobi 40V ecosystem, 22\" blade, 1\" cutting, 60-min runtime. Solid value.",
+      "ja": "Ryobi 40Vエコシステム、22インチブレード、1インチ切断、60分稼働。ソリッドコスパ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ryobitools.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "stihl-hsa-56-cordless",
+    "imageUrl": "",
+    "priceMin": "$280",
+    "priceMax": "$380",
+    "category": "home",
+    "badge": "🇩🇪",
+    "name": {
+      "en": "Stihl HSA 56 Cordless Hedge Trimmer",
+      "ja": "Stihl HSA 56 コードレス ヘッジトリマー"
+    },
+    "description": {
+      "en": "German engineering, 18\" blade, 7.7 lb (lightest), low vibration. Best for precision work.",
+      "ja": "ドイツエンジニアリング、18インチブレード、3.5kg（最軽）、低振動。精密作業最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.stihlusa.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "black-decker-corded-hedge-trimmer",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$90",
+    "category": "home",
+    "badge": "💸",
+    "name": {
+      "en": "Black+Decker Corded Hedge Trimmer",
+      "ja": "Black+Decker コード式 ヘッジトリマー"
+    },
+    "description": {
+      "en": "Plug-in electric, 22\" blade, unlimited runtime, $50-80. Best for small yards near outlets.",
+      "ja": "コンセント電動、22インチブレード、無制限稼働、$50-80。コンセント近くの小庭最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.blackanddecker.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ego-snow-blower-snt2400",
+    "imageUrl": "",
+    "priceMin": "$1100",
+    "priceMax": "$1400",
+    "category": "home",
+    "badge": "🏆",
+    "name": {
+      "en": "EGO Power+ SNT2400 24\" Snow Blower",
+      "ja": "EGO Power+ SNT2400 24インチ スノーブロワー"
+    },
+    "description": {
+      "en": "Two 56V batteries, 24\" clearing path, 22-second 90° chute rotation. Quietest in test.",
+      "ja": "56Vバッテリー2個、24インチ清掃幅、22秒90°シュート回転。テスト中最静。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://egopowerplus.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "toro-power-max-826",
+    "imageUrl": "",
+    "priceMin": "$1300",
+    "priceMax": "$1700",
+    "category": "home",
+    "badge": "🔥",
+    "name": {
+      "en": "Toro Power Max 826 OXE Snow Blower",
+      "ja": "Toro Power Max 826 OXE スノーブロワー"
+    },
+    "description": {
+      "en": "Two-stage gas, 26\" clearing path, 252cc engine, electric start, heated handgrips. Best gas overall.",
+      "ja": "2ステージガソリン、26インチ清掃幅、252ccエンジン、電動始動、ハンドグリップヒーター。総合ガソリン最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.toro.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ariens-deluxe-28",
+    "imageUrl": "",
+    "priceMin": "$1400",
+    "priceMax": "$1800",
+    "category": "home",
+    "badge": "❄️",
+    "name": {
+      "en": "Ariens Deluxe 28 SHO Snow Blower",
+      "ja": "Ariens デラックス 28 SHO スノーブロワー"
+    },
+    "description": {
+      "en": "Two-stage gas, 28\" clearing path, 306cc engine, cast-iron gearbox. Best for heavy snow.",
+      "ja": "2ステージガソリン、28インチ清掃幅、306ccエンジン、鋳鉄ギアボックス。重い雪最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ariens.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ryobi-40v-21inch-snow-blower",
+    "imageUrl": "",
+    "priceMin": "$500",
+    "priceMax": "$700",
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Ryobi 40V 21\" Snow Blower",
+      "ja": "Ryobi 40V 21インチ スノーブロワー"
+    },
+    "description": {
+      "en": "Single-stage cordless, 21\" path, 13\" deep. Best for short driveways under 50 ft, pairs with 40V tools.",
+      "ja": "シングルステージコードレス、21インチ幅、13インチ深さ。50フィート未満ドライブウェイ最有力、40Vツール連携。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ryobitools.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "snow-joe-ion100v",
+    "imageUrl": "",
+    "priceMin": "$500",
+    "priceMax": "$700",
+    "category": "home",
+    "badge": "💸",
+    "name": {
+      "en": "Snow Joe iON100V 18\" Snow Blower",
+      "ja": "Snow Joe iON100V 18インチ スノーブロワー"
+    },
+    "description": {
+      "en": "100V cordless, 18\" path, 35 lb lightest, for light snow under 8\". Budget cordless pick.",
+      "ja": "100Vコードレス、18インチ幅、16kg最軽、8インチ未満軽雪向け。バジェットコードレスピック。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.snowjoe.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
   }
 ];
