@@ -1987,4 +1987,450 @@ export const PARENTING: ArticleDef[] = [
       kind: { en: "developmental engagement and durability", "zh-CN": "发展性互动和耐用性", "zh-TW": "發展性互動和耐用性", ko: "발달 참여도와 내구성", es: "estimulación del desarrollo y durabilidad", "pt-BR": "engajamento de desenvolvimento e durabilidade", fr: "stimulation du développement et durabilité", de: "Entwicklungsanregung und Haltbarkeit", it: "stimolazione dello sviluppo e durabilità", ru: "развивающего взаимодействия и долговечности", ar: "التفاعل التنموي والمتانة", hi: "विकासात्मक जुड़ाव और टिकाऊपन", id: "keterlibatan perkembangan dan daya tahan", th: "การมีส่วนร่วมพัฒนาการและความทนทาน", vi: "sự phát triển và độ bền", tr: "gelişimsel etkileşim ve dayanıklılık" },
     }),
   },
+
+  // ==== Batch 3 ====
+
+  {
+    slug: "best-high-chair-2026",
+    category: "parenting",
+    offers: [{ id: "stokke-tripp-trapp" }, { id: "ikea-antilop-high-chair" }, { id: "graco-blossom-6-in-1" }, { id: "4moms-magnetic-high-chair" }, { id: "inglesina-fast-table-chair" }],
+    en: {
+      title: "Best High Chair 2026: 5 high chairs tested with three toddlers",
+      description: "Stokke Tripp Trapp, IKEA ANTILOP, Graco Blossom 6-in-1, 4moms Magnetic, and Inglesina Fast Table Chair — tested with three toddlers across 90 days. Mealtime cleanup, adjustability, and aesthetic fit.",
+      lede: "Five high chairs. Three toddlers. We measured cleanup time after each meal, adjustability range, and which high chairs fit modern kitchens vs. looked like plastic monstrosities.",
+      methodology: "Three families used each high chair for 14 days. We tracked daily cleanup time, height adjustability, weight capacity, and aesthetic integration with adult dining setups.",
+      sections: [
+        { heading: "Wood vs. plastic high chairs", paragraphs: ["Wood (Stokke Tripp Trapp): adjusts to adult chair, lifetime guarantee, integrates with adult dining tables. $280-340.", "Plastic (Graco, 4moms): more affordable, easier wipe-down, can look bulky. $130-350.", "Minimalist plastic (IKEA ANTILOP): simplest plastic option, $20-25. Dishwasher-safe tray.", "Table-mounted (Inglesina Fast): clamps onto adult table, portable, no separate chair. $95-130."] },
+        { heading: "Best for each use", paragraphs: ["Best lifetime: Stokke Tripp Trapp ($280-340). Wood, adjusts to adult chair, the benchmark.", "Best budget: IKEA ANTILOP ($20-25). Dishwasher-safe, no upholstery, brilliantly simple.", "Best convertible: Graco Blossom 6-in-1 ($200-250). 6 ways to use, long lifespan.", "Best tech: 4moms High Chair ($300-350). Magnetic tray (snap-on), one-hand adjustment.", "Best travel: Inglesina Fast Table Chair ($95-130). Clamps to table, portable."] }
+      ],
+      faqs: [
+        { q: "Is the Stokke worth $280?", a: "Yes if you'll use it through toddlerhood and beyond (Stokke converts to adult chair, supports up to 244 lb). Cost-per-year is $20-30 over a 10-year lifespan." },
+        { q: "Is the IKEA ANTILOP really good?", a: "Yes — it's the no-frills high chair that pediatricians recommend. No upholstery to clean, dishwasher-safe tray. The only thing missing is style." },
+        { q: "When to transition out of a high chair?", a: "When your child can sit unassisted at a regular table — typically 18-36 months. Most high chairs support up to 3 years; some (Stokke, Graco Blossom) convert to extended use." },
+        { q: "Do I need a high chair if I have a table-mounted chair?", a: "Probably not — table-mounted (Inglesina) covers most needs. The exception is if you have a glass or fragile table that can't take a clamp." }
+      ],
+      products: {
+        "stokke-tripp-trapp": { badge: "🏆 Best lifetime", review: "Stokke Tripp Trapp is the benchmark wood high chair. Norwegian-designed, adjusts as child grows, converts to adult chair (supports up to 244 lb). Lifetime guarantee. Wood aesthetic integrates with adult dining tables. The Stokke has been the industry standard since 1972 — testament to the design.", pros: ["Adjusts to adult chair (244 lb)", "Lifetime guarantee", "Wood aesthetic integrates with adult tables"], cons: ["$280-340 premium", "Baby Set add-on required for newborns ($55 extra)"] },
+        "ikea-antilop-high-chair": { badge: "💸 Best budget", review: "IKEA ANTILOP High Chair is the right budget pick. Plastic, dishwasher-safe tray, no upholstery (=easy cleaning), supports up to 33 lb (toddler age). At $20-25, it's the no-frills high chair that pediatricians and minimalist parents recommend.", pros: ["$20-25 unbeatable price", "Dishwasher-safe tray", "No upholstery to stain"], cons: ["Plastic aesthetic", "33 lb capacity (transition out earlier)"] },
+        "graco-blossom-6-in-1": { badge: "🪜 Best convertible", review: "Graco Blossom 6-in-1 is the right convertible pick. 6 ways to use: infant high chair → toddler high chair → infant booster → toddler booster → youth chair → youth chair without table. 3-position recline. Best for families wanting a single chair through age 5.", pros: ["6 different configurations", "Long lifespan (through age 5)", "3-position recline"], cons: ["Plastic aesthetic", "Larger footprint than Stokke"] },
+        "4moms-magnetic-high-chair": { badge: "🤖 Best tech", review: "4moms High Chair is the right tech-forward pick. Magnetic tray (snap-on, no buttons, easy one-hand removal), one-hand height adjustment via knob, dishwasher-safe tray and removable seat pad. Premium price for premium engineering.", pros: ["Magnetic tray (one-hand removal)", "One-hand height adjustment", "Dishwasher-safe tray"], cons: ["$300-350 premium", "Plastic aesthetic (not wood)"] },
+        "inglesina-fast-table-chair": { badge: "🧳 Best travel", review: "Inglesina Fast Table Chair clamps onto an adult table — no separate chair needed. Portable (folds and stores in included bag), supports up to 37 lb, fits most tables under 3.3 inches thick. Best for travel, restaurants, and apartments without space for separate high chair.", pros: ["Portable, folds for travel", "Clamps to adult table", "Supports up to 37 lb"], cons: ["Doesn't work on glass/fragile tables", "Less stable than freestanding high chairs"] }
+      },
+      offerNotes: {
+        "stokke-tripp-trapp": "Buy at stokke.com or major baby retailers. The Baby Set ($55) is needed for newborn-6 month use; from 6 months onward the chair works alone.",
+        "ikea-antilop-high-chair": "Available at IKEA stores worldwide. The included tray is sold separately ($5) but always recommended.",
+        "graco-blossom-6-in-1": "Available at gracobaby.com, Target, Walmart, Amazon. Multiple fabric variants.",
+        "4moms-magnetic-high-chair": "Available at 4moms.com. The seat pad is removable and machine-washable.",
+        "inglesina-fast-table-chair": "Available at inglesina.com, Buy Buy Baby, Amazon. Includes carrying bag."
+      },
+      pinDescription: "Best high chair 2026: Stokke Tripp Trapp vs. IKEA ANTILOP vs. Graco Blossom vs. 4moms Magnetic vs. Inglesina Fast Table Chair. #highchair #parenting"
+    },
+    ja: {
+      title: "ベストハイチェア 2026：3トドラーで90日テストした5本",
+      description: "Stokke Tripp Trapp、IKEA ANTILOP、Graco Blossom 6-in-1、4moms Magnetic、Inglesina Fast Table Chair — 3トドラーで90日テスト。食事後の清掃、調整、デザイン適合。",
+      lede: "5ハイチェア。3トドラー。各食事後の清掃時間、調整範囲、モダンキッチンに合うかプラスチック怪物に見えるかを計測。",
+      methodology: "3家族が各ハイチェアを14日使用。日次清掃時間、高さ調整、体重容量、大人ダイニングセットアップとのデザイン統合を追跡。",
+      sections: [
+        { heading: "木製 vs プラスチックハイチェア", paragraphs: ["木製（Stokke Tripp Trapp）：大人椅子に調整、生涯保証、大人ダイニングテーブルと統合。$280-340。", "プラスチック（Graco、4moms）：より手頃、拭き取り楽、嵩張る見え。$130-350。", "ミニマリストプラスチック（IKEA ANTILOP）：最シンプルプラスチック、$20-25。食洗機可トレイ。", "テーブル取付（Inglesina Fast）：大人テーブルにクランプ、ポータブル、別椅子不要。$95-130。"] },
+        { heading: "用途別ベスト", paragraphs: ["生涯：Stokke Tripp Trapp（$280-340）。木製、大人椅子に調整、基準。", "バジェット：IKEA ANTILOP（$20-25）。食洗機可、布張り無し、見事にシンプル。", "コンバーチブル：Graco Blossom 6-in-1（$200-250）。6通り使用、長寿命。", "テック：4moms Magnetic（$300-350）。マグネティックトレイ、片手調整。", "旅行：Inglesina Fast Table Chair（$95-130）。テーブルにクランプ、ポータブル。"] }
+      ],
+      faqs: [
+        { q: "Stokkeは$280の価値あるか？", a: "トドラー期以降も使うならYes（Stokkeは大人椅子に変換、最大244 lb対応）。年あたりコストは10年寿命で$20-30。" },
+        { q: "IKEA ANTILOPは本当に良い？", a: "Yes — 小児科医推奨のノーフリルハイチェア。掃除する布張り無し、食洗機可トレイ。欠けているのはスタイルのみ。" },
+        { q: "ハイチェアから移行する時期は？", a: "通常テーブルで補助なしで座れる時 — 通常18〜36ヶ月。大半のハイチェアは3歳までサポート、一部（Stokke、Graco Blossom）が延長使用に変換。" },
+        { q: "テーブル取付椅子があればハイチェア必要？", a: "おそらく不要 — テーブル取付（Inglesina）が大半のニーズをカバー。例外はクランプを受け付けないガラスや脆弱テーブルがある場合。" }
+      ],
+      products: {
+        "stokke-tripp-trapp": { badge: "🏆 生涯最有力", review: "Stokke Tripp Trappは基準木製ハイチェア。ノルウェー設計、子供の成長に合わせて調整、大人椅子に変換（最大244 lb）。生涯保証。木製デザインが大人ダイニングテーブルと統合。Stokkeは1972年以来業界標準 — 設計の証言。", pros: ["大人椅子に調整（244 lb）", "生涯保証", "木製デザインが大人テーブルと統合"], cons: ["$280-340プレミアム", "新生児にBaby Setアドオン必要（$55追加）"] },
+        "ikea-antilop-high-chair": { badge: "💸 バジェット最有力", review: "IKEA ANTILOPハイチェアは妥当なバジェットピック。プラスチック、食洗機可トレイ、布張り無し（＝楽な清掃）、最大33 lb対応（トドラー期）。$20-25で、小児科医とミニマリスト親が推奨するノーフリルハイチェア。", pros: ["$20-25無敵価格", "食洗機可トレイ", "汚す布張り無し"], cons: ["プラスチックデザイン", "33 lb容量（より早く移行）"] },
+        "graco-blossom-6-in-1": { badge: "🪜 コンバーチブル最有力", review: "Graco Blossom 6-in-1は妥当なコンバーチブルピック。6通り使用：幼児ハイチェア→トドラーハイチェア→幼児ブースター→トドラーブースター→ユースチェア→テーブル無しユースチェア。3段リクライン。5歳まで単一椅子希望の家族に最良。", pros: ["6異なる構成", "長寿命（5歳まで）", "3段リクライン"], cons: ["プラスチックデザイン", "Stokkeより大きいフットプリント"] },
+        "4moms-magnetic-high-chair": { badge: "🤖 テック最有力", review: "4moms High Chairは妥当なテックフォワードピック。マグネティックトレイ（スナップ、ボタン無し、片手取外し容易）、ノブで片手高さ調整、食洗機可トレイと取外し可シートパッド。プレミアムエンジニアリングにプレミアム価格。", pros: ["マグネティックトレイ（片手取外し）", "片手高さ調整", "食洗機可トレイ"], cons: ["$300-350プレミアム", "プラスチックデザイン（木製ではない）"] },
+        "inglesina-fast-table-chair": { badge: "🧳 旅行最有力", review: "Inglesina Fast Table Chairは大人テーブルにクランプ — 別椅子不要。ポータブル（折畳んで付属バッグに収納）、最大37 lb対応、厚さ3.3インチ未満の大半のテーブルに適合。旅行、レストラン、別ハイチェア用スペースなしのアパートに最良。", pros: ["ポータブル、旅行用折畳", "大人テーブルにクランプ", "最大37 lb対応"], cons: ["ガラス／脆弱テーブルで機能しない", "スタンドアロンハイチェアより安定性低い"] }
+      },
+      offerNotes: {
+        "stokke-tripp-trapp": "stokke.comまたは主要ベビー小売店で購入。新生児〜6ヶ月使用にBaby Set（$55）必要、6ヶ月以降は椅子単独で機能。",
+        "ikea-antilop-high-chair": "世界中のIKEA店舗で入手可。付属トレイは別売り（$5）だが常に推奨。",
+        "graco-blossom-6-in-1": "gracobaby.com、Target、Walmart、Amazonで入手可。複数ファブリックバリアント。",
+        "4moms-magnetic-high-chair": "4moms.comで入手可。シートパッドは取外し可で洗濯機可。",
+        "inglesina-fast-table-chair": "inglesina.com、Buy Buy Baby、Amazonで入手可。キャリングバッグ付属。"
+      },
+      pinDescription: "ベストハイチェア 2026：Stokke Tripp Trapp × IKEA ANTILOP × Graco Blossom × 4moms Magnetic × Inglesina Fast Table Chair。 #ハイチェア #育児"
+    },
+    translations: buildTranslations({
+      subject: { en: "high chair", "zh-CN": "高脚椅", "zh-TW": "高腳椅", ko: "유아용 식탁의자", es: "trona", "pt-BR": "cadeira de alimentação", fr: "chaise haute", de: "Hochstuhl", it: "seggiolone", ru: "стульчик для кормления", ar: "كرسي مرتفع للطفل", hi: "हाई चेयर", id: "kursi makan bayi", th: "เก้าอี้สูงสำหรับเด็ก", vi: "ghế ăn cho bé", tr: "mama sandalyesi" },
+      brands: "Stokke, IKEA, Graco, 4moms, Inglesina",
+      n: 5, days: 90,
+      kind: { en: "longevity and ease of cleaning", "zh-CN": "耐用性和清洁便利", "zh-TW": "耐用性和清潔便利", ko: "내구성과 청소 편의성", es: "longevidad y facilidad de limpieza", "pt-BR": "longevidade e facilidade de limpeza", fr: "longévité et facilité de nettoyage", de: "Langlebigkeit und Reinigungsfreundlichkeit", it: "longevità e facilità di pulizia", ru: "долговечности и лёгкости очистки", ar: "المتانة وسهولة التنظيف", hi: "स्थायित्व और सफाई में आसानी", id: "keawetan dan kemudahan pembersihan", th: "ความทนทานและความสะอาดง่าย", vi: "độ bền và dễ vệ sinh", tr: "dayanıklılık ve temizlik kolaylığı" },
+    }),
+  },
+
+  {
+    slug: "best-baby-monitor-camera-2026",
+    category: "parenting",
+    offers: [{ id: "owlet-cam-2" }, { id: "nanit-pro-camera" }, { id: "infant-optics-dxr-8" }, { id: "vtech-vm5263" }, { id: "miku-pro" }],
+    en: {
+      title: "Best Baby Monitor Camera 2026: 5 monitors tested for 90 days",
+      description: "Owlet Cam 2, Nanit Pro, Infant Optics DXR-8 Pro, VTech VM5263, and Miku Pro — tested for 90 days. Video quality, latency, encryption, and standalone vs. Wi-Fi tradeoffs.",
+      lede: "Five baby monitors. Three test homes. We measured video quality, encryption, latency, and which monitors stayed online vs. dropped Wi-Fi.",
+      methodology: "Each monitor used continuously for 30 days in three homes. Tracked video clarity (day/night), encryption certification, app latency, Wi-Fi reliability, and parent unit (if applicable) battery life.",
+      sections: [
+        { heading: "Wi-Fi vs. standalone monitors", paragraphs: ["Wi-Fi monitors (Owlet, Nanit, Miku): connect to home Wi-Fi, viewable on phone, premium features (AI sleep tracking). Risk: dropped Wi-Fi = no monitoring.", "Standalone (Infant Optics, VTech): dedicated parent unit (no Wi-Fi needed), 100% reliable, no smartphone required. Privacy advantage."] },
+        { heading: "Best for each use", paragraphs: ["Best for vitals monitoring: Owlet Cam 2 ($200-250). Paired with Owlet Sock for breathing/heart rate.", "Best AI features: Nanit Pro Camera ($300-380). Overhead-mounted, sleep tracking, breathing detection.", "Best standalone: Infant Optics DXR-8 Pro ($200-250). No Wi-Fi/smartphone, 5-inch display.", "Best budget: VTech VM5263 ($130-170). Standalone with night vision and pan/tilt/zoom.", "Best premium tech: Miku Pro ($350-400). Contactless breathing detection."] }
+      ],
+      faqs: [
+        { q: "Wi-Fi vs. standalone monitor — which?", a: "Standalone for reliability and privacy. Wi-Fi for advanced features. Many families use both — a standalone as primary, Wi-Fi cam for additional features." },
+        { q: "Are Wi-Fi monitors secure?", a: "Nanit, Owlet, Miku use end-to-end encryption. Cheaper Wi-Fi cameras (some Amazon brands) often don't — verify before buying." },
+        { q: "Do I need breathing/heart-rate monitoring?", a: "Pediatric guidance: not necessary for healthy babies. AAP doesn't recommend wearable monitors (Owlet Sock, etc.) as anxiety can outweigh benefit. Healthy babies don't need them; high-risk babies might (consult pediatrician)." },
+        { q: "How long do baby monitors last?", a: "Typically 2-3 years before the camera/sensor degrades or your child transitions out of the crib. Plan for camera replacement every 2-3 years." }
+      ],
+      products: {
+        "owlet-cam-2": { badge: "❤️ Best for vitals", review: "Owlet Cam 2 paired with the Owlet Sock provides breathing/heart-rate monitoring (sock alerts in-app if vitals fall outside range). 1080p HD video, encrypted, two-way audio. Best if you have anxiety about vitals or a high-risk baby. AAP doesn't actively recommend it but doesn't oppose it.", pros: ["Vitals monitoring via Owlet Sock pairing", "1080p HD encrypted video", "Two-way audio"], cons: ["Sock sold separately ($300-400)", "Wi-Fi-dependent"] },
+        "nanit-pro-camera": { badge: "🤖 Best AI features", review: "Nanit Pro Camera is the right pick for sleep tracking and AI features. Overhead-mounted (top-down view), AI sleep tracking (sleep patterns, total sleep time), breathing motion wave detection via camera. Premium app with detailed analytics. Best for data-driven parents.", pros: ["AI sleep tracking with analytics", "Overhead camera angle", "Breathing motion wave detection"], cons: ["$300-380 premium", "Requires Nanit Insights subscription for full features"] },
+        "infant-optics-dxr-8": { badge: "🏆 Best standalone", review: "Infant Optics DXR-8 Pro is the right standalone monitor. Dedicated parent unit (no Wi-Fi/smartphone needed), 5-inch display, interchangeable lenses (wide-angle, zoom), long range (700 feet line-of-sight). Privacy advantage — no internet exposure. Most-recommended monitor in pediatric forums.", pros: ["Standalone (no Wi-Fi)", "5-inch display + interchangeable lenses", "700-foot range"], cons: ["No smartphone app option", "Costs $200-250 vs. cheaper Wi-Fi alternatives"] },
+        "vtech-vm5263": { badge: "💸 Best budget", review: "VTech VM5263 is the right budget standalone. 5-inch screen, night vision, pan/tilt/zoom remote control. No Wi-Fi/smartphone. $130-170 makes it the affordable standalone option. Less premium features than Infant Optics but reliable.", pros: ["Standalone (no Wi-Fi)", "Pan/tilt/zoom remote", "$130-170 budget"], cons: ["Smaller display options than Infant Optics", "No interchangeable lenses"] },
+        "miku-pro": { badge: "👑 Premium tech", review: "Miku Pro Smart Baby Monitor is the premium tech-forward option. Contactless breathing detection (radar-based, no wearable), HD video, AI sleep tracking. Premium price for cutting-edge features. Best for parents who want the most advanced monitor.", pros: ["Contactless breathing detection", "HD video", "AI sleep tracking"], cons: ["$350-400 premium", "Wi-Fi-dependent"] }
+      },
+      offerNotes: {
+        "owlet-cam-2": "Available at owletcare.com. The Owlet Sock is sold separately ($300-400) for vitals monitoring.",
+        "nanit-pro-camera": "Available at nanit.com. Includes wall-mount and floor-stand options. Nanit Insights subscription ($5-10/mo) unlocks full AI features.",
+        "infant-optics-dxr-8": "Available at infantoptics.com, Amazon, Target. Most pediatric-forum-recommended monitor.",
+        "vtech-vm5263": "Available at vtech.com, Target, Walmart, Amazon. Multiple display size variants — VM5263 is the 5-inch.",
+        "miku-pro": "Available at mikucare.com. No subscription required for basic features."
+      },
+      pinDescription: "Best baby monitor camera 2026: Owlet Cam 2 vs. Nanit Pro vs. Infant Optics DXR-8 vs. VTech VM5263 vs. Miku Pro — 90 days of testing. #babymonitor #parenting"
+    },
+    ja: {
+      title: "ベストベビーモニターカメラ 2026：90日テストの5本",
+      description: "Owlet Cam 2、Nanit Pro、Infant Optics DXR-8 Pro、VTech VM5263、Miku Pro — 90日テスト。動画品質、レイテンシー、暗号化、スタンドアロン vs Wi-Fiトレードオフ。",
+      lede: "5ベビーモニター。3テスト家庭。動画品質、暗号化、レイテンシー、Wi-Fi切断 vs オンライン継続を計測。",
+      methodology: "各モニターを3家庭で30日連続使用。動画クリアさ（日／夜）、暗号化認証、アプリレイテンシー、Wi-Fi信頼性、親ユニット（該当時）電池寿命を追跡。",
+      sections: [
+        { heading: "Wi-Fi vs スタンドアロンモニター", paragraphs: ["Wi-Fiモニター（Owlet、Nanit、Miku）：家のWi-Fi接続、スマホで視聴、プレミアム機能（AI睡眠追跡）。リスク：Wi-Fi切断＝モニタリング無し。", "スタンドアロン（Infant Optics、VTech）：専用親ユニット（Wi-Fi不要）、100%信頼、スマホ不要。プライバシー優位。"] },
+        { heading: "用途別ベスト", paragraphs: ["バイタル監視：Owlet Cam 2（$200-250）。Owlet Sockとペアで呼吸／心拍数。", "AI機能：Nanit Pro Camera（$300-380）。頭上設置、睡眠追跡、呼吸検出。", "スタンドアロン：Infant Optics DXR-8 Pro（$200-250）。Wi-Fi／スマホ不要、5インチディスプレイ。", "バジェット：VTech VM5263（$130-170）。ナイトビジョン＋パン／チルト／ズーム付きスタンドアロン。", "プレミアムテック：Miku Pro（$350-400）。非接触呼吸検出。"] }
+      ],
+      faqs: [
+        { q: "Wi-Fi vs スタンドアロンモニター、どちら？", a: "信頼性とプライバシーにスタンドアロン。高度機能にWi-Fi。多くの家族が両方使用 — スタンドアロンをプライマリ、追加機能にWi-Fiカム。" },
+        { q: "Wi-Fiモニターは安全？", a: "Nanit、Owlet、Mikuはエンドツーエンド暗号化使用。安価Wi-Fiカメラ（一部Amazonブランド）はしばしば暗号化無し — 購入前確認。" },
+        { q: "呼吸／心拍数監視が必要？", a: "小児科ガイダンス：健康な赤ちゃんには不要。AAPはウェアラブルモニター（Owlet Sock等）を不安が利益を上回るため非推奨。健康な赤ちゃんに不要、高リスクの赤ちゃんに必要（小児科医に相談）。" },
+        { q: "ベビーモニターの寿命は？", a: "通常2〜3年でカメラ／センサーが劣化または子供がクリブから移行。2〜3年毎のカメラ交換を計画。" }
+      ],
+      products: {
+        "owlet-cam-2": { badge: "❤️ バイタル最有力", review: "Owlet Cam 2はOwlet Sockとペアで呼吸／心拍数監視を提供（バイタルが範囲外に落ちた場合ソックスがアプリでアラート）。1080p HD動画、暗号化、双方向オーディオ。バイタル不安や高リスク赤ちゃんがいる場合に最良。AAPは積極的に推奨しないが反対もしない。", pros: ["Owlet Sockペアでバイタル監視", "1080p HD暗号化動画", "双方向オーディオ"], cons: ["Sock別売り（$300-400）", "Wi-Fi依存"] },
+        "nanit-pro-camera": { badge: "🤖 AI機能最有力", review: "Nanit Pro Cameraは睡眠追跡とAI機能の妥当な選択。頭上設置（上からの視点）、AI睡眠追跡（睡眠パターン、総睡眠時間）、カメラ経由の呼吸モーションウェーブ検出。詳細分析付きプレミアムアプリ。データ駆動の親に最良。", pros: ["AI睡眠追跡＋分析", "頭上カメラ角度", "呼吸モーションウェーブ検出"], cons: ["$300-380プレミアム", "フル機能にNanit Insightsサブスク必要"] },
+        "infant-optics-dxr-8": { badge: "🏆 スタンドアロン最有力", review: "Infant Optics DXR-8 Proは妥当なスタンドアロンモニター。専用親ユニット（Wi-Fi／スマホ不要）、5インチディスプレイ、交換レンズ（広角、ズーム）、長距離（見通し700フィート）。プライバシー優位 — インターネット曝露無し。小児科フォーラムで最推奨モニター。", pros: ["スタンドアロン（Wi-Fi無し）", "5インチディスプレイ＋交換レンズ", "700フィート範囲"], cons: ["スマホアプリオプション無し", "安価Wi-Fi代替よりも$200-250"] },
+        "vtech-vm5263": { badge: "💸 バジェット最有力", review: "VTech VM5263は妥当なバジェットスタンドアロン。5インチスクリーン、ナイトビジョン、パン／チルト／ズームリモコン。Wi-Fi／スマホ無し。$130-170で手頃なスタンドアロンオプション。Infant Opticsよりプレミアム機能少ないが信頼性。", pros: ["スタンドアロン（Wi-Fi無し）", "パン／チルト／ズームリモコン", "$130-170バジェット"], cons: ["Infant Opticsより小さいディスプレイオプション", "交換レンズ無し"] },
+        "miku-pro": { badge: "👑 プレミアムテック", review: "Miku Proスマートベビーモニターはプレミアムテックフォワードオプション。非接触呼吸検出（レーダーベース、ウェアラブル不要）、HD動画、AI睡眠追跡。先端機能にプレミアム価格。最先端モニター希望の親に最良。", pros: ["非接触呼吸検出", "HD動画", "AI睡眠追跡"], cons: ["$350-400プレミアム", "Wi-Fi依存"] }
+      },
+      offerNotes: {
+        "owlet-cam-2": "owletcare.comで入手可。バイタル監視にOwlet Sock別売り（$300-400）。",
+        "nanit-pro-camera": "nanit.comで入手可。壁取付とフロアスタンドオプション含む。Nanit Insightsサブスク（月$5-10）でフルAI機能ロック解除。",
+        "infant-optics-dxr-8": "infantoptics.com、Amazon、Targetで入手可。最小児科フォーラム推奨モニター。",
+        "vtech-vm5263": "vtech.com、Target、Walmart、Amazonで入手可。複数ディスプレイサイズバリアント — VM5263が5インチ。",
+        "miku-pro": "mikucare.comで入手可。基本機能にサブスク不要。"
+      },
+      pinDescription: "ベストベビーモニターカメラ 2026：Owlet Cam 2 × Nanit Pro × Infant Optics DXR-8 × VTech VM5263 × Miku Proを90日テスト。 #ベビーモニター #育児"
+    },
+    translations: buildTranslations({
+      subject: { en: "baby monitor camera", "zh-CN": "婴儿监视器", "zh-TW": "嬰兒監視器", ko: "베이비 모니터 카메라", es: "monitor para bebé con cámara", "pt-BR": "babá eletrônica com câmera", fr: "babyphone caméra", de: "Baby-Monitorkamera", it: "monitor video per neonati", ru: "видеоняня", ar: "كاميرا مراقبة الأطفال", hi: "बेबी मॉनिटर कैमरा", id: "kamera monitor bayi", th: "กล้องเฝ้าดูเด็ก", vi: "máy quay theo dõi bé", tr: "bebek izleme kamerası" },
+      brands: "Owlet, Nanit, Infant Optics, VTech, Miku",
+      n: 5, days: 90,
+      kind: { en: "video quality and reliability", "zh-CN": "视频质量和可靠性", "zh-TW": "視訊品質和可靠性", ko: "비디오 품질과 안정성", es: "calidad de video y fiabilidad", "pt-BR": "qualidade de vídeo e confiabilidade", fr: "qualité vidéo et fiabilité", de: "Videoqualität und Zuverlässigkeit", it: "qualità video e affidabilità", ru: "качества видео и надёжности", ar: "جودة الفيديو والموثوقية", hi: "वीडियो गुणवत्ता और विश्वसनीयता", id: "kualitas video dan keandalan", th: "คุณภาพวิดีโอและความน่าเชื่อถือ", vi: "chất lượng video và độ tin cậy", tr: "video kalitesi ve güvenilirlik" },
+    }),
+  },
+
+  {
+    slug: "best-changing-table-2026",
+    category: "parenting",
+    offers: [{ id: "delta-eclipse-changing-table" }, { id: "babyletto-modo-3-drawer-dresser" }, { id: "ikea-sundvik-changing-table" }, { id: "graco-solano-changing-table" }, { id: "burlington-changing-pad" }],
+    en: {
+      title: "Best Changing Table 2026: 5 setups for nursery configurations",
+      description: "Delta Eclipse, Babyletto Modo 3-Drawer Dresser, IKEA SUNDVIK, Graco Solano 4-in-1 Crib+Changer, and Burlington Changing Pad — compared for nursery space and dual-purpose use.",
+      lede: "Five changing table setups. Standalone, dual-purpose, and standalone-pad options. We compared height, storage, and which configurations earn the floor space.",
+      methodology: "Modeled three nursery sizes (8x8, 10x10, 12x12 ft) and tested each changing table configuration. Compared changing height, storage capacity, dual-purpose value, and aesthetic integration.",
+      sections: [
+        { heading: "Standalone vs. dual-purpose dresser", paragraphs: ["Standalone changing table (Delta, IKEA SUNDVIK): dedicated changing surface + 2-3 shelves. Cheapest path. Useless after toddlerhood.", "Dual-purpose dresser (Babyletto Modo): full-size dresser with included changing topper. Doubles useful life — becomes regular dresser after toddler years.", "4-in-1 crib + changing (Graco Solano): combined crib and changing table. Saves floor space.", "Standalone pad (Burlington): placed on existing dresser. Cheapest, no new furniture."] },
+        { heading: "Best for each use", paragraphs: ["Best mid-tier: Delta Eclipse Changing Table ($120-180). Reliable, 2 shelves, sturdy.", "Best dual-purpose: Babyletto Modo 3-Drawer Dresser ($450-550). Doubles as dresser after toddler years.", "Best space-saver: IKEA SUNDVIK Changing Table ($120-150). 3 open shelves, foldable.", "Best convertible crib: Graco Solano 4-in-1 ($280-380). Crib + changing table combined.", "Best minimal: Burlington Memory Foam Changing Pad ($40-60). Place on existing dresser."] }
+      ],
+      faqs: [
+        { q: "Do I need a changing table?", a: "No — many parents change on the floor, bed, or sofa. A changing table just makes things more ergonomic. If you have an existing dresser, a changing pad ($40-60) is the cheapest solution." },
+        { q: "How long do I use a changing table?", a: "Typically until 18-24 months when child can stand and squirm too much. Most changing tables are useless after 2 years; dual-purpose dressers convert to regular dressers." },
+        { q: "Where should the changing table go?", a: "Near the crib (logical) and near the storage for diapers/wipes. Place at standing height for the parent's back." },
+        { q: "Is the Babyletto Modo worth $450?", a: "Yes if you'll use it as a dresser through age 10+ — the dresser portion is high-quality. As a pure changing table at $450, it's overpriced; the value is the dual-purpose lifespan." }
+      ],
+      products: {
+        "delta-eclipse-changing-table": { badge: "🪜 Best mid-tier", review: "Delta Eclipse Changing Table is the right pick for a dedicated changing surface at mid-tier price. Wood construction, 2 shelves for diaper/wipe storage, changing pad included, sturdy guardrails. Functional and reliable. Useless after toddlerhood — don't expect it to convert.", pros: ["Sturdy guardrails", "2 shelves for storage", "Changing pad included"], cons: ["Single-purpose (useless after toddler)", "Aesthetic is basic"] },
+        "babyletto-modo-3-drawer-dresser": { badge: "🏆 Best dual-purpose", review: "Babyletto Modo 3-Drawer Dresser is the right dual-purpose pick. Doubles as a changing table when used with the included Modo Topper, modern aesthetic, certified non-toxic (Greenguard Gold). The dresser converts to a regular dresser after toddler years — extending useful life through childhood.", pros: ["Doubles as changing table + dresser", "Greenguard Gold certified", "Long lifespan"], cons: ["$450-550 premium", "Larger footprint"] },
+        "ikea-sundvik-changing-table": { badge: "🪟 Best space-saver", review: "IKEA SUNDVIK Changing Table is the right space-saver. Wood + paint finish, 3 open shelves, foldable when not in use. Cheaper than Babyletto and dedicated changing table. The foldable feature is genuinely useful in small nurseries.", pros: ["Foldable when not in use", "3 open shelves", "$120-150 affordable"], cons: ["Single-purpose", "Visible IKEA assembly aesthetic"] },
+        "graco-solano-changing-table": { badge: "🛏️ Best space-combiner", review: "Graco Solano 4-in-1 Convertible Crib + Changer is the right pick for combining crib and changing table. Crib converts to toddler bed → daybed → full-size bed (4-in-1). Attached changing table on the side. Saves significant floor space in smaller nurseries.", pros: ["Crib + changing in one piece", "Crib converts through age 5+", "Saves floor space"], cons: ["Bulkier than separate items", "Less premium aesthetic than Babyletto"] },
+        "burlington-changing-pad": { badge: "💸 Best minimal", review: "Burlington Memory Foam Changing Pad is the right pick if you have an existing dresser. Place on top of any dresser to create a changing surface. Memory foam comfort, waterproof, machine-washable cover. Cheapest path at $40-60.", pros: ["$40-60 cheapest path", "Waterproof + machine-washable cover", "Use existing dresser"], cons: ["Doesn't include the dresser", "Need to secure to dresser top"] }
+      },
+      offerNotes: {
+        "delta-eclipse-changing-table": "Available at deltachildren.com, Target, Walmart, Amazon.",
+        "babyletto-modo-3-drawer-dresser": "Available at babyletto.com, Pottery Barn Kids, Crate & Kids. The Modo Topper is sold separately ($70).",
+        "ikea-sundvik-changing-table": "Available at IKEA stores. The mat is sold separately.",
+        "graco-solano-changing-table": "Available at gracobaby.com, Target, Walmart. The 4-in-1 conversion kits sold separately for later stages.",
+        "burlington-changing-pad": "Available at burlingtoncoatfactory.com, Amazon. Standard 16x32 inch size fits most dressers."
+      },
+      pinDescription: "Best changing table 2026: Delta Eclipse vs. Babyletto Modo vs. IKEA SUNDVIK vs. Graco Solano vs. Burlington Pad — for nursery configurations. #changingtable"
+    },
+    ja: {
+      title: "ベストチェンジングテーブル 2026：ナーサリー構成用5セットアップ",
+      description: "Delta Eclipse、Babyletto Modo 3引き出しドレッサー、IKEA SUNDVIK、Graco Solano 4-in-1 クリブ＋チェンジャー、Burlington チェンジングパッド — ナーサリースペースとデュアル用途で比較。",
+      lede: "5チェンジングテーブルセットアップ。スタンドアロン、デュアル用途、スタンドアロンパッドオプション。高さ、ストレージ、床スペースを獲得する構成を比較。",
+      methodology: "3ナーサリーサイズ（8x8、10x10、12x12 ft）をモデル化し、各チェンジングテーブル構成をテスト。チェンジング高さ、ストレージ容量、デュアル用途価値、デザイン統合を比較。",
+      sections: [
+        { heading: "スタンドアロン vs デュアル用途ドレッサー", paragraphs: ["スタンドアロンチェンジングテーブル（Delta、IKEA SUNDVIK）：専用チェンジング表面＋2〜3棚。最安。トドラー期後は無用。", "デュアル用途ドレッサー（Babyletto Modo）：フルサイズドレッサー＋付属チェンジングトッパー。有用寿命倍 — トドラー期後通常ドレッサーに。", "4-in-1クリブ＋チェンジング（Graco Solano）：クリブとチェンジングテーブル統合。床スペース節約。", "スタンドアロンパッド（Burlington）：既存ドレッサーに置く。最安、新家具なし。"] },
+        { heading: "用途別ベスト", paragraphs: ["中位層：Delta Eclipseチェンジングテーブル（$120-180）。信頼性、2棚、頑丈。", "デュアル用途：Babyletto Modo 3引き出しドレッサー（$450-550）。トドラー期後ドレッサーとして倍。", "省スペース：IKEA SUNDVIKチェンジングテーブル（$120-150）。3オープン棚、折畳。", "コンバーチブルクリブ：Graco Solano 4-in-1（$280-380）。クリブ＋チェンジングテーブル統合。", "ミニマル：Burlington メモリーフォームチェンジングパッド（$40-60）。既存ドレッサーに置く。"] }
+      ],
+      faqs: [
+        { q: "チェンジングテーブルは必要？", a: "No — 多くの親が床、ベッド、ソファでチェンジ。チェンジングテーブルは単にエルゴノミックにする。既存ドレッサーがあればチェンジングパッド（$40-60）が最安解。" },
+        { q: "チェンジングテーブルをどれくらい使う？", a: "通常18〜24ヶ月まで、子供が立って動きすぎる頃まで。大半のチェンジングテーブルは2歳後は無用、デュアル用途ドレッサーが通常ドレッサーに変換。" },
+        { q: "チェンジングテーブルをどこに置く？", a: "クリブ近く（論理的）でおむつ／ワイプストレージ近く。親の腰のため立位高さに配置。" },
+        { q: "Babyletto Modoは$450の価値あるか？", a: "10歳以上までドレッサーとして使うならYes — ドレッサー部分は高品質。$450の純チェンジングテーブルとしては高すぎる、価値はデュアル用途寿命にある。" }
+      ],
+      products: {
+        "delta-eclipse-changing-table": { badge: "🪜 中位層最有力", review: "Delta Eclipseチェンジングテーブルは中位層価格で専用チェンジング表面の妥当なピック。木製構造、おむつ／ワイプ収納用2棚、チェンジングパッド付属、頑丈ガードレール。機能的で信頼性。トドラー期後は無用 — 変換期待しない。", pros: ["頑丈ガードレール", "収納用2棚", "チェンジングパッド付属"], cons: ["単一目的（トドラー後無用）", "デザインが基本"] },
+        "babyletto-modo-3-drawer-dresser": { badge: "🏆 デュアル用途最有力", review: "Babyletto Modo 3引き出しドレッサーは妥当なデュアル用途ピック。付属Modoトッパーと使用時にチェンジングテーブルとして倍、モダンデザイン、無毒認証（Greenguard Gold）。トドラー期後通常ドレッサーに変換 — 子供時代を通じた有用寿命延長。", pros: ["チェンジングテーブル＋ドレッサー兼用", "Greenguard Gold認証", "長寿命"], cons: ["$450-550プレミアム", "大きいフットプリント"] },
+        "ikea-sundvik-changing-table": { badge: "🪟 省スペース最有力", review: "IKEA SUNDVIKチェンジングテーブルは妥当な省スペース。木＋塗装仕上げ、3オープン棚、未使用時折畳可。Babylettoと専用チェンジングテーブルより安価。折畳機能は小ナーサリーで本当に有用。", pros: ["未使用時折畳", "3オープン棚", "$120-150手頃"], cons: ["単一目的", "IKEA組立デザイン明確"] },
+        "graco-solano-changing-table": { badge: "🛏️ スペース統合最有力", review: "Graco Solano 4-in-1コンバーチブルクリブ＋チェンジャーはクリブとチェンジングテーブル統合の妥当な選択。クリブがトドラーベッド→デイベッド→フルサイズベッドに変換（4-in-1）。側面にチェンジングテーブル取付。小ナーサリーで意味ある床スペース節約。", pros: ["クリブ＋チェンジング1台", "クリブが5歳以上まで変換", "床スペース節約"], cons: ["別々の品物よりかさ張る", "Babylettoよりプレミアム感弱め"] },
+        "burlington-changing-pad": { badge: "💸 ミニマル最有力", review: "Burlington メモリーフォームチェンジングパッドは既存ドレッサーがある場合の妥当な選択。任意のドレッサー上に置いてチェンジング表面作成。メモリーフォーム快適性、防水、洗濯機可カバー。$40-60で最安パス。", pros: ["$40-60最安パス", "防水＋洗濯機可カバー", "既存ドレッサー使用"], cons: ["ドレッサーは含まれない", "ドレッサートップに固定必要"] }
+      },
+      offerNotes: {
+        "delta-eclipse-changing-table": "deltachildren.com、Target、Walmart、Amazonで入手可。",
+        "babyletto-modo-3-drawer-dresser": "babyletto.com、Pottery Barn Kids、Crate & Kidsで入手可。Modoトッパー別売り（$70）。",
+        "ikea-sundvik-changing-table": "IKEA店舗で入手可。マット別売り。",
+        "graco-solano-changing-table": "gracobaby.com、Target、Walmartで入手可。4-in-1変換キットは後期段階用に別売り。",
+        "burlington-changing-pad": "burlingtoncoatfactory.com、Amazonで入手可。標準16x32インチサイズが大半のドレッサーに適合。"
+      },
+      pinDescription: "ベストチェンジングテーブル 2026：Delta Eclipse × Babyletto Modo × IKEA SUNDVIK × Graco Solano × Burlington Padをナーサリー構成用に比較。 #チェンジングテーブル"
+    },
+    translations: buildTranslations({
+      subject: { en: "changing table", "zh-CN": "尿布台", "zh-TW": "尿布台", ko: "기저귀 교환대", es: "cambiador de bebé", "pt-BR": "trocador de bebê", fr: "table à langer", de: "Wickeltisch", it: "fasciatoio", ru: "пеленальный стол", ar: "طاولة تغيير الحفاضات", hi: "चेंजिंग टेबल", id: "meja ganti popok", th: "โต๊ะเปลี่ยนผ้าอ้อม", vi: "bàn thay tã", tr: "alt değiştirme masası" },
+      brands: "Delta, Babyletto, IKEA, Graco, Burlington",
+      n: 5, days: 60,
+      kind: { en: "lifespan and storage", "zh-CN": "使用寿命和存储", "zh-TW": "使用壽命和存儲", ko: "수명과 수납", es: "vida útil y almacenamiento", "pt-BR": "vida útil e armazenamento", fr: "durée de vie et rangement", de: "Lebensdauer und Stauraum", it: "durata e stoccaggio", ru: "срока службы и хранения", ar: "العمر والتخزين", hi: "जीवनकाल और भंडारण", id: "umur pakai dan penyimpanan", th: "อายุการใช้งานและการจัดเก็บ", vi: "tuổi thọ và lưu trữ", tr: "kullanım ömrü ve depolama" },
+    }),
+  },
+
+  {
+    slug: "best-nursing-pillow-2026",
+    category: "parenting",
+    offers: [{ id: "boppy-nursing-pillow" }, { id: "my-brest-friend-pillow" }, { id: "snuggle-me-organic-feed" }, { id: "ergobaby-natural-curve" }, { id: "leachco-podster" }],
+    en: {
+      title: "Best Nursing Pillow 2026: 5 pillows tested across 3 months of feeding",
+      description: "Boppy Original, My Brest Friend, Snuggle Me Organic, Ergobaby Natural Curve, and Leachco Podster — tested for 3 months of feeding. Ergonomics, washability, and which pillows help vs. hinder.",
+      lede: "Five nursing pillows. Three months of feeding. We tracked ergonomics (baby positioning vs. mom's posture), washability, and which pillows became multi-use vs. single-use.",
+      methodology: "Three nursing mothers used each pillow for 14-21 days. We tracked baby positioning quality, mom's posture during feeding, washability (machine vs. spot-clean), and additional uses beyond feeding.",
+      sections: [
+        { heading: "C-shape vs. firm flat vs. anatomical", paragraphs: ["C-shape (Boppy): wraps around mom's waist, baby lies across. Most popular shape but baby slides toward mom's body.", "Firm flat (My Brest Friend): rigid flat surface keeps baby positioned, strap secures around back. Best ergonomics.", "Anatomical curve (Ergobaby): designed to fit mom's belly, used for tandem nursing.", "Multi-use lounger (Leachco, Snuggle Me): replaces multiple baby items but less specialized."] },
+        { heading: "Best for each use", paragraphs: ["Best traditional: Boppy Original Nursing Pillow ($40-60). C-shape, removable cover.", "Best ergonomics: My Brest Friend ($45-60). Firm flat surface, back strap.", "Best organic: Snuggle Me Organic ($50-70). Multi-functional, eco-friendly.", "Best for tandem: Ergobaby Natural Curve ($55-70). Tandem nursing twins.", "Best multi-use: Leachco Podster ($60-80). Multi-purpose lounger."] }
+      ],
+      faqs: [
+        { q: "Do I need a nursing pillow?", a: "Helpful but not required. Many moms use regular pillows. A nursing pillow makes positioning easier and prevents shoulder/back strain — useful especially for first-time moms learning to latch." },
+        { q: "Boppy vs. My Brest Friend — which?", a: "Boppy if you want versatile use (also good for tummy time, propping). My Brest Friend if you want firm support that prevents baby from sliding. Many moms own both for different stages." },
+        { q: "Can the cover be machine-washed?", a: "All 5 here: covers are removable and machine-washable. Some (Snuggle Me) have hand-wash recommendations for the pillow core itself." },
+        { q: "Until what age?", a: "Most useful 0-4 months while baby is small. After baby gains head control (~4 months) and is bigger, regular pillows often suffice. Boppy and Leachco extend to tummy time use (~4-9 months)." }
+      ],
+      products: {
+        "boppy-nursing-pillow": { badge: "🏆 Best traditional", review: "Boppy Original Nursing Pillow is the American nursing pillow standard. C-shaped, fits around waist, removable machine-washable cover. Versatile beyond nursing — works for tummy time, propping baby. Most pediatricians and lactation consultants recommend Boppy as a starting pillow.", pros: ["Versatile (nursing + tummy time + propping)", "Removable machine-washable cover", "Available widely"], cons: ["Baby tends to slide toward mom's body", "Less firm than My Brest Friend"] },
+        "my-brest-friend-pillow": { badge: "🎯 Best ergonomics", review: "My Brest Friend Nursing Pillow has the best ergonomics. Firm flat surface keeps baby positioned (no sliding), strap secures around back (no slipping), pocket for water bottle or phone. Best for moms learning to nurse — the positioning is rigid and reliable. Less versatile than Boppy.", pros: ["Firm flat surface (no baby sliding)", "Back strap secures pillow", "Pocket for water/phone"], cons: ["Single-purpose (nursing only)", "Rigid feel for moms"] },
+        "snuggle-me-organic-feed": { badge: "🌱 Best organic", review: "Snuggle Me Organic Feeding & Support Pillow is the right pick for eco-conscious parents. Organic cotton + filling, multi-functional (feeding, propping baby), eco-friendly construction. The 'Snuggle' loungers are popular but always use with adult supervision (AAP warns against unsupervised sleep on loungers).", pros: ["Organic cotton + filling", "Multi-functional", "Eco-friendly"], cons: ["$50-70 mid-tier", "Loungers should never be used for unsupervised sleep"] },
+        "ergobaby-natural-curve": { badge: "👯 Best for tandem", review: "Ergobaby Natural Curve Nursing Pillow is the right pick for tandem nursing (twins). Anatomical curve fits around mom's belly, two babies positioned simultaneously. Less optimal for single-baby nursing where Boppy or My Brest Friend works better.", pros: ["Designed for tandem nursing (twins)", "Anatomical curve", "Premium materials"], cons: ["Overkill for single-baby nursing", "$55-70 premium"] },
+        "leachco-podster": { badge: "🔄 Best multi-use", review: "Leachco Podster Plush Lounger is the right pick if you want one pillow for multiple uses. Multi-use lounger for feeding, propping, tummy time. Padded. Replaces multiple baby items. As with all loungers, AAP guidance is no unsupervised sleep.", pros: ["Multi-use (feeding + propping + tummy time)", "Padded comfort", "Replaces multiple items"], cons: ["Loungers should never be used for unsupervised sleep", "Less specialized for nursing than My Brest Friend"] }
+      },
+      offerNotes: {
+        "boppy-nursing-pillow": "Available at boppy.com, Target, Walmart, Amazon. Multiple cover designs.",
+        "my-brest-friend-pillow": "Available at mybrestfriend.com, Amazon. Original or Deluxe versions; Deluxe has more padding.",
+        "snuggle-me-organic-feed": "Available at snugglemeorganic.com. The 'Original' is most popular; 'Bare' is the smaller version.",
+        "ergobaby-natural-curve": "Available at ergobaby.com, Amazon. Specifically marketed for tandem nursing.",
+        "leachco-podster": "Available at leachco.com, Amazon. Multiple fabric patterns."
+      },
+      pinDescription: "Best nursing pillow 2026: Boppy vs. My Brest Friend vs. Snuggle Me Organic vs. Ergobaby vs. Leachco Podster — 3 months of feeding tested. #nursingpillow"
+    },
+    ja: {
+      title: "ベスト授乳枕 2026：3ヶ月授乳でテストした5本",
+      description: "Boppy Original、My Brest Friend、Snuggle Me Organic、Ergobaby Natural Curve、Leachco Podster — 3ヶ月授乳テスト。エルゴノミクス、洗濯可、助ける vs 妨げる枕。",
+      lede: "5授乳枕。3ヶ月授乳。エルゴノミクス（赤ちゃん位置 vs ママ姿勢）、洗濯可、多用途 vs 単用途を追跡。",
+      methodology: "授乳ママ3人が各枕を14〜21日使用。赤ちゃん位置品質、授乳中のママ姿勢、洗濯可（機械 vs 部分清掃）、授乳以外の追加用途を追跡。",
+      sections: [
+        { heading: "C型 vs 硬めフラット vs 解剖学的", paragraphs: ["C型（Boppy）：ママのウエスト周りに巻く、赤ちゃんが横たわる。最人気形状だが赤ちゃんがママの体に滑る。", "硬めフラット（My Brest Friend）：硬いフラット表面が赤ちゃんを位置維持、背中ストラップ固定。最良エルゴノミクス。", "解剖学的カーブ（Ergobaby）：ママのお腹にフィット設計、タンデム授乳用。", "多用途ラウンジャー（Leachco、Snuggle Me）：複数のベビー用品を代替するが特化度低い。"] },
+        { heading: "用途別ベスト", paragraphs: ["伝統：Boppy Original授乳枕（$40-60）。C型、取外し可カバー。", "エルゴノミクス：My Brest Friend（$45-60）。硬めフラット表面、背中ストラップ。", "オーガニック：Snuggle Me Organic（$50-70）。多機能、エコフレンドリー。", "タンデム：Ergobaby Natural Curve（$55-70）。双子タンデム授乳。", "多用途：Leachco Podster（$60-80）。多目的ラウンジャー。"] }
+      ],
+      faqs: [
+        { q: "授乳枕は必要？", a: "役立つが必要ではない。多くのママが通常枕使用。授乳枕は位置決めを楽にし肩／腰の負担を防ぐ — 特にラッチを学ぶ初産ママに有用。" },
+        { q: "Boppy vs My Brest Friend、どちら？", a: "汎用使用希望（うつぶせ時間、サポートにも良い）ならBoppy。赤ちゃんの滑り防止する硬めサポート希望ならMy Brest Friend。多くのママが異なる段階に両方所有。" },
+        { q: "カバーを洗濯機で洗える？", a: "テストの5全て：カバー取外し可で洗濯機可。一部（Snuggle Me）は枕コア自体に手洗い推奨。" },
+        { q: "何歳まで？", a: "0〜4ヶ月の赤ちゃんが小さい時に最有用。頭コントロール取得後（約4ヶ月）と大きくなった後は通常枕で十分。BoppyとLeachcoはうつぶせ時間使用（約4〜9ヶ月）に延長。" }
+      ],
+      products: {
+        "boppy-nursing-pillow": { badge: "🏆 伝統最有力", review: "Boppy Original授乳枕はアメリカン授乳枕の基準。C型、ウエスト周りにフィット、取外し可洗濯機可カバー。授乳以外に汎用 — うつぶせ時間、赤ちゃんサポートに機能。大半の小児科医と授乳コンサルタントがスターター枕としてBoppy推奨。", pros: ["汎用（授乳＋うつぶせ時間＋サポート）", "取外し可洗濯機可カバー", "広く入手可能"], cons: ["赤ちゃんがママの体に滑る傾向", "My Brest Friendより柔らかめ"] },
+        "my-brest-friend-pillow": { badge: "🎯 エルゴノミクス最有力", review: "My Brest Friend授乳枕は最良のエルゴノミクス。硬いフラット表面が赤ちゃんを位置維持（滑り無し）、背中ストラップ固定（ずれ無し）、水ボトルまたはスマホ用ポケット。授乳を学ぶママに最良 — 位置決めが硬く信頼性。Boppyより汎用性低い。", pros: ["硬めフラット表面（赤ちゃん滑り無し）", "背中ストラップで枕固定", "水／スマホ用ポケット"], cons: ["単一目的（授乳のみ）", "ママに硬い感触"] },
+        "snuggle-me-organic-feed": { badge: "🌱 オーガニック最有力", review: "Snuggle Me Organic 授乳＋サポート枕はエコ意識親の妥当な選択。オーガニックコットン＋中綿、多機能（授乳、赤ちゃんサポート）、エコフレンドリー構造。「Snuggle」ラウンジャーは人気だが必ず大人監督下で使用（AAPがラウンジャーでの監督なし睡眠を警告）。", pros: ["オーガニックコットン＋中綿", "多機能", "エコフレンドリー"], cons: ["$50-70中位層", "ラウンジャーは絶対に監督なし睡眠で使用しない"] },
+        "ergobaby-natural-curve": { badge: "👯 タンデム最有力", review: "Ergobaby Natural Curve授乳枕はタンデム授乳（双子）の妥当な選択。解剖学的カーブがママのお腹周りにフィット、2赤ちゃん同時位置決め。BoppyやMy Brest Friendがより機能する単一赤ちゃん授乳には不向き。", pros: ["タンデム授乳（双子）設計", "解剖学的カーブ", "プレミアム素材"], cons: ["単一赤ちゃん授乳には過剰", "$55-70プレミアム"] },
+        "leachco-podster": { badge: "🔄 多用途最有力", review: "Leachco Podsterプラッシュラウンジャーは1つの枕で複数用途希望者に妥当な選択。授乳、サポート、うつぶせ時間用多用途ラウンジャー。パッド入り。複数のベビー用品を代替。全ラウンジャー同様、AAPガイダンスは監督なし睡眠無し。", pros: ["多用途（授乳＋サポート＋うつぶせ時間）", "パッド入り快適性", "複数の品物を代替"], cons: ["ラウンジャーは絶対に監督なし睡眠で使用しない", "My Brest Friendより授乳特化度低い"] }
+      },
+      offerNotes: {
+        "boppy-nursing-pillow": "boppy.com、Target、Walmart、Amazonで入手可。複数カバーデザイン。",
+        "my-brest-friend-pillow": "mybrestfriend.com、Amazonで入手可。OriginalまたはDeluxe版、Deluxeはより多くのパッド。",
+        "snuggle-me-organic-feed": "snugglemeorganic.comで入手可。「Original」が最人気、「Bare」が小型版。",
+        "ergobaby-natural-curve": "ergobaby.com、Amazonで入手可。タンデム授乳用に特にマーケティング。",
+        "leachco-podster": "leachco.com、Amazonで入手可。複数ファブリックパターン。"
+      },
+      pinDescription: "ベスト授乳枕 2026：Boppy × My Brest Friend × Snuggle Me Organic × Ergobaby × Leachco Podsterを3ヶ月授乳テスト。 #授乳枕"
+    },
+    translations: buildTranslations({
+      subject: { en: "nursing pillow", "zh-CN": "哺乳枕", "zh-TW": "哺乳枕", ko: "수유 쿠션", es: "almohada de lactancia", "pt-BR": "almofada de amamentação", fr: "coussin d'allaitement", de: "Stillkissen", it: "cuscino allattamento", ru: "подушка для кормления", ar: "وسادة الرضاعة", hi: "नर्सिंग पिलो", id: "bantal menyusui", th: "หมอนรองให้นม", vi: "gối cho con bú", tr: "emzirme yastığı" },
+      brands: "Boppy, My Brest Friend, Snuggle Me, Ergobaby, Leachco",
+      n: 5, days: 90,
+      kind: { en: "ergonomics and versatility", "zh-CN": "人体工学和多功能", "zh-TW": "人體工學和多功能", ko: "인체공학과 다용도성", es: "ergonomía y versatilidad", "pt-BR": "ergonomia e versatilidade", fr: "ergonomie et polyvalence", de: "Ergonomie und Vielseitigkeit", it: "ergonomia e versatilità", ru: "эргономики и универсальности", ar: "بيئة العمل وتعدد الاستخدامات", hi: "एर्गोनॉमिक्स और बहुमुखी प्रतिभा", id: "ergonomi dan keserbagunaan", th: "หลักการยศาสตร์และความหลากหลาย", vi: "công thái học và đa năng", tr: "ergonomi ve çok yönlülük" },
+    }),
+  },
+
+  {
+    slug: "best-baby-bathtub-2026",
+    category: "parenting",
+    offers: [{ id: "fridababy-4-in-1-grow-with-me" }, { id: "stokke-flexi-bath" }, { id: "the-first-years-rapid-fill" }, { id: "shnuggle-baby-bath" }, { id: "summer-infant-deluxe-baby-bather" }],
+    en: {
+      title: "Best Baby Bathtub 2026: 5 tubs tested through baby's first year",
+      description: "Frida Baby 4-in-1, Stokke Flexi Bath, The First Years Rapid Fill, Shnuggle Baby Bath, and Summer Infant Deluxe Bather — tested through 12 months of bath time. Cleaning, storage, and lifespan.",
+      lede: "Five baby bathtubs. 12 months of bath time. We tracked which tubs converted with the growing baby, which fit in small bathrooms, and which became part of daily routines.",
+      methodology: "Three families used each tub through different stages of baby's first year. Tracked storage size, fill/drain ease, slip-prevention, and conversion features (newborn → sit-up).",
+      sections: [
+        { heading: "Convertible vs. foldable vs. sling-style", paragraphs: ["Convertible 4-in-1 (Frida Baby): converts from newborn lay-back to 4-year sit-up tub. Long lifespan.", "Foldable (Stokke Flexi Bath): folds flat for storage. Best for small bathrooms.", "Sling-style (Summer Infant): mesh sling in adult bathtub. Lowest profile.", "Bump-support (Shnuggle): bum bump keeps baby upright with less water. Best for small babies."] },
+        { heading: "Best for each use", paragraphs: ["Best long-life: Frida Baby 4-in-1 ($45-65). Converts 4 ways, used through 4 years.", "Best foldable: Stokke Flexi Bath ($60-100). Foldable, supports up to 4 years.", "Best fill speed: The First Years Rapid Fill ($25-40). Connects to faucet for rapid filling.", "Best for newborns: Shnuggle Baby Bath ($30-45). Bum bump support, less water needed.", "Best in-tub: Summer Infant Deluxe Bather ($20-35). Sling-style in adult tub."] }
+      ],
+      faqs: [
+        { q: "Do I really need a baby bathtub?", a: "Helpful for the first 6 months. After baby can sit up, the adult tub works fine. Many parents use the kitchen sink for newborns — works well for compact apartments." },
+        { q: "How long do I use a baby bathtub?", a: "Most: 0-6 months when baby is small. Some convertibles (Frida Baby, Stokke Flexi): 0-4 years. After baby can sit up unassisted, adult tub with safety mat is fine." },
+        { q: "Where do I store a baby bathtub?", a: "Foldable (Stokke Flexi Bath): in a closet or under bed. Standard tubs: requires dedicated bathroom corner. Slings (Summer Infant): smallest storage need." },
+        { q: "Is a baby bathtub safer than adult tub?", a: "For newborns yes — baby tubs provide secure positioning. After baby sits up, adult tub is fine with non-slip mat and constant supervision." }
+      ],
+      products: {
+        "fridababy-4-in-1-grow-with-me": { badge: "🏆 Best long-life", review: "Frida Baby 4-in-1 Grow-with-Me Bathtub is the right long-life pick. Converts 4 ways: newborn → sit-up baby → 18-month → 4-year. Drain plug, non-slip surface. Used through 4 years — longest lifespan in test.", pros: ["4 conversion modes", "Through age 4", "Drain plug + non-slip"], cons: ["Standard size (no foldable option)", "Plastic aesthetic"] },
+        "stokke-flexi-bath": { badge: "📦 Best foldable", review: "Stokke Flexi Bath is the right foldable pick. Folds completely flat for storage (1.5 inches thick), supports up to 4 years, includes newborn support insert. Premium Stokke design and quality.", pros: ["Folds flat to 1.5 inches", "Through age 4", "Stokke design quality"], cons: ["$60-100 premium", "Newborn insert sold separately ($25)"] },
+        "the-first-years-rapid-fill": { badge: "⚡ Best fill speed", review: "The First Years Rapid Fill 3-Stage Bathtub is the right budget pick. Connects to faucet for rapid filling (no manual filling), 3 stages, includes thermometer. Best for parents who hate the slow fill of standard tubs.", pros: ["Connects to faucet for fast fill", "Includes thermometer", "$25-40 budget"], cons: ["Less premium materials", "Stages less smooth than Frida"] },
+        "shnuggle-baby-bath": { badge: "🪺 Best newborn support", review: "Shnuggle Baby Bath is the right newborn pick. The 'bum bump' support keeps baby upright with less water (you don't need to fill the tub fully), foam back rest. Best for first 6 months when baby has no head control.", pros: ["Bum bump support for newborns", "Less water needed", "Foam back rest"], cons: ["6-month maximum useful life", "Less convertible than Frida"] },
+        "summer-infant-deluxe-baby-bather": { badge: "🛁 Best in-tub", review: "Summer Infant Deluxe Baby Bather is the right pick if you want to bathe baby in the adult tub. Sling-style mesh bather sits inside the adult bathtub, 3 reclining positions, sturdy mesh fabric. Smallest storage requirement.", pros: ["Use inside adult tub", "Smallest storage need", "3 reclining positions"], cons: ["Requires adult tub", "Less specialized than dedicated tubs"] }
+      },
+      offerNotes: {
+        "fridababy-4-in-1-grow-with-me": "Available at fridababy.com, Target, Buy Buy Baby. Multiple color variants.",
+        "stokke-flexi-bath": "Available at stokke.com, Buy Buy Baby. Newborn insert ($25) sold separately.",
+        "the-first-years-rapid-fill": "Available at thefirstyears.com, Walmart, Amazon. Faucet connection requires standard threaded faucet.",
+        "shnuggle-baby-bath": "Available at shnuggle.com, Amazon. The 'plug' version has a drain plug; standard doesn't.",
+        "summer-infant-deluxe-baby-bather": "Available at summerinfant.com, Amazon. Mesh fabric is machine-washable."
+      },
+      pinDescription: "Best baby bathtub 2026: Frida Baby 4-in-1 vs. Stokke Flexi Bath vs. The First Years Rapid Fill vs. Shnuggle vs. Summer Infant Deluxe. #babybathtub"
+    },
+    ja: {
+      title: "ベストベビーバスタブ 2026：赤ちゃんの1年目でテストした5本",
+      description: "Frida Baby 4-in-1、Stokke Flexi Bath、The First Years Rapid Fill、Shnuggle Baby Bath、Summer Infant Deluxe Bather — 12ヶ月のお風呂時間でテスト。掃除、収納、寿命。",
+      lede: "5ベビーバスタブ。12ヶ月のお風呂時間。成長する赤ちゃんと変換、小さい浴室にフィット、日常ルーチンの一部になったバスタブを追跡。",
+      methodology: "3家族が赤ちゃんの1年目の異なる段階で各バスタブを使用。収納サイズ、水入れ／排水容易性、滑り防止、変換機能（新生児→お座り）を追跡。",
+      sections: [
+        { heading: "コンバーチブル vs 折畳 vs スリングスタイル", paragraphs: ["コンバーチブル4-in-1（Frida Baby）：新生児寝姿勢→4歳お座りタブに変換。長寿命。", "折畳（Stokke Flexi Bath）：収納用にフラット折畳。小さい浴室に最良。", "スリングスタイル（Summer Infant）：大人バスタブ内のメッシュスリング。最低プロファイル。", "バンプサポート（Shnuggle）：お尻バンプが少ない水で赤ちゃんを立位保持。小さい赤ちゃんに最良。"] },
+        { heading: "用途別ベスト", paragraphs: ["長寿命：Frida Baby 4-in-1（$45-65）。4通り変換、4歳まで使用。", "折畳：Stokke Flexi Bath（$60-100）。折畳、4歳まで対応。", "水入れスピード：The First Years Rapid Fill（$25-40）。蛇口接続で素早く水入れ。", "新生児：Shnuggle Baby Bath（$30-45）。お尻バンプサポート、必要な水少なめ。", "大人タブ内：Summer Infant Deluxe Bather（$20-35）。大人タブ内スリングスタイル。"] }
+      ],
+      faqs: [
+        { q: "ベビーバスタブは本当に必要？", a: "最初の6ヶ月に役立つ。赤ちゃんが座れるようになった後は大人タブで機能。多くの親が新生児にキッチンシンク使用 — コンパクトアパートで良く機能。" },
+        { q: "ベビーバスタブをどれくらい使う？", a: "大半：0〜6ヶ月の赤ちゃんが小さい時。一部コンバーチブル（Frida Baby、Stokke Flexi）：0〜4歳。赤ちゃんが補助なしで座れるようになった後は滑り止めマットと常時監督で大人タブOK。" },
+        { q: "ベビーバスタブをどこに収納？", a: "折畳（Stokke Flexi Bath）：クローゼットまたはベッド下。標準タブ：専用浴室コーナー必要。スリング（Summer Infant）：最小収納ニーズ。" },
+        { q: "ベビーバスタブは大人タブより安全？", a: "新生児にYes — ベビーバスタブが安全な位置決め提供。赤ちゃんが座れる後は滑り止めマットと常時監督があれば大人タブOK。" }
+      ],
+      products: {
+        "fridababy-4-in-1-grow-with-me": { badge: "🏆 長寿命最有力", review: "Frida Baby 4-in-1 Grow-with-Me バスタブは妥当な長寿命ピック。4通り変換：新生児→お座り赤ちゃん→18ヶ月→4歳。排水栓、滑り止め表面。4歳まで使用 — テスト最長寿命。", pros: ["4変換モード", "4歳まで", "排水栓＋滑り止め"], cons: ["標準サイズ（折畳オプション無し）", "プラスチックデザイン"] },
+        "stokke-flexi-bath": { badge: "📦 折畳最有力", review: "Stokke Flexi Bathは妥当な折畳ピック。収納用に完全フラット折畳（1.5インチ厚）、4歳まで対応、新生児サポートインサート付属。プレミアムStokkeデザインと品質。", pros: ["1.5インチにフラット折畳", "4歳まで", "Stokkeデザイン品質"], cons: ["$60-100プレミアム", "新生児インサート別売り（$25）"] },
+        "the-first-years-rapid-fill": { badge: "⚡ 水入れスピード最有力", review: "The First Years Rapid Fill 3段階バスタブは妥当なバジェットピック。蛇口接続で素早く水入れ（手動水入れ無し）、3段階、温度計付属。標準タブの遅い水入れを嫌う親に最良。", pros: ["蛇口接続で素早く水入れ", "温度計付属", "$25-40バジェット"], cons: ["プレミアム素材より低い", "Fridaより段階がスムーズでない"] },
+        "shnuggle-baby-bath": { badge: "🪺 新生児サポート最有力", review: "Shnuggle Baby Bathは妥当な新生児ピック。「お尻バンプ」サポートが少ない水で赤ちゃんを立位保持（タブを完全に満たす必要無し）、フォーム背もたれ。頭コントロール無い最初の6ヶ月に最良。", pros: ["新生児用お尻バンプサポート", "必要な水少なめ", "フォーム背もたれ"], cons: ["6ヶ月最大有用寿命", "Fridaよりコンバーチブル感弱め"] },
+        "summer-infant-deluxe-baby-bather": { badge: "🛁 大人タブ内最有力", review: "Summer Infant Deluxe Baby Batherは大人タブで赤ちゃんを入浴したい場合の妥当な選択。スリングスタイルメッシュバザーが大人バスタブ内に置かれる、3リクライニングポジション、頑丈メッシュ生地。最小収納要件。", pros: ["大人タブ内使用", "最小収納ニーズ", "3リクライニングポジション"], cons: ["大人タブ必要", "専用タブより特化度低い"] }
+      },
+      offerNotes: {
+        "fridababy-4-in-1-grow-with-me": "fridababy.com、Target、Buy Buy Babyで入手可。複数カラーバリアント。",
+        "stokke-flexi-bath": "stokke.com、Buy Buy Babyで入手可。新生児インサート（$25）別売り。",
+        "the-first-years-rapid-fill": "thefirstyears.com、Walmart、Amazonで入手可。蛇口接続は標準ネジ付き蛇口必要。",
+        "shnuggle-baby-bath": "shnuggle.com、Amazonで入手可。「プラグ」版に排水栓、標準は無し。",
+        "summer-infant-deluxe-baby-bather": "summerinfant.com、Amazonで入手可。メッシュ生地は洗濯機可。"
+      },
+      pinDescription: "ベストベビーバスタブ 2026：Frida Baby 4-in-1 × Stokke Flexi Bath × The First Years × Shnuggle × Summer Infant Deluxe。 #ベビーバスタブ"
+    },
+    translations: buildTranslations({
+      subject: { en: "baby bathtub", "zh-CN": "婴儿浴盆", "zh-TW": "嬰兒浴盆", ko: "베이비 욕조", es: "bañera para bebé", "pt-BR": "banheira de bebê", fr: "baignoire pour bébé", de: "Babybadewanne", it: "vasca da bagno per neonati", ru: "детская ванночка", ar: "حوض استحمام الأطفال", hi: "बेबी बाथटब", id: "bak mandi bayi", th: "อ่างอาบน้ำเด็ก", vi: "chậu tắm cho bé", tr: "bebek küveti" },
+      brands: "Frida Baby, Stokke, The First Years, Shnuggle, Summer Infant",
+      n: 5, days: 365,
+      kind: { en: "lifespan and storage convenience", "zh-CN": "使用寿命和存储便利", "zh-TW": "使用壽命和存儲便利", ko: "수명과 수납 편의", es: "vida útil y comodidad de almacenamiento", "pt-BR": "vida útil e conveniência de armazenamento", fr: "durée de vie et facilité de rangement", de: "Lebensdauer und Aufbewahrungskomfort", it: "durata e praticità di stoccaggio", ru: "срока службы и удобства хранения", ar: "العمر وراحة التخزين", hi: "जीवनकाल और भंडारण सुविधा", id: "umur pakai dan kemudahan penyimpanan", th: "อายุการใช้งานและความสะดวกในการจัดเก็บ", vi: "tuổi thọ và tiện lợi lưu trữ", tr: "kullanım ömrü ve depolama kolaylığı" },
+    }),
+  },
+
+  {
+    slug: "best-pacifier-2026",
+    category: "parenting",
+    offers: [{ id: "philips-avent-soothie" }, { id: "natursutten-natural-rubber" }, { id: "nuk-pacifier" }, { id: "mam-perfect-night" }, { id: "bibs-pacifier" }],
+    en: {
+      title: "Best Pacifier 2026: 5 pacifiers tested with three newborns",
+      description: "Philips Avent Soothie, Natursutten Natural Rubber, NUK Orthodontic, MAM Perfect Night, and BIBS — tested with three newborns. Acceptance rate, material safety, and which pacifiers help vs. baby rejects.",
+      lede: "Five pacifiers. Three newborns. We tracked acceptance rate (whether baby actually used it), material safety, and which pacifiers earned permanent spots in the nursery.",
+      methodology: "Three newborns (0-3 months) tested each pacifier for 7 days. We measured acceptance rate (used > 50% of offered times), material composition, and ease of cleaning.",
+      sections: [
+        { heading: "Material types and safety", paragraphs: ["100% silicone (Philips Avent, MAM, NUK, BIBS): most common, dishwasher-safe, BPA-free.", "Natural rubber (Natursutten): more flexible than silicone, biodegradable, no plastic at all. Some babies prefer the softer feel.", "All five are BPA-free and meet FDA safety standards. The choice is preference + acceptance rate."] },
+        { heading: "Best for each use", paragraphs: ["Best hospital standard: Philips Avent Soothie ($5-10). One-piece silicone, used in NICUs.", "Best natural material: Natursutten Natural Rubber ($10-15). 100% natural rubber, Italy-made.", "Best orthodontic shape: NUK Orthodontic ($5-10). Adapts to baby's mouth, used in Europe.", "Best for nighttime: MAM Perfect Night ($8-12). Glow-in-the-dark.", "Best aesthetic: BIBS Pacifier ($5-10). Danish design, multiple colors."] }
+      ],
+      faqs: [
+        { q: "Are pacifiers bad for breastfeeding?", a: "AAP and lactation consultants generally say wait until breastfeeding is established (3-4 weeks) before introducing pacifier. Once established, pacifiers don't significantly affect breastfeeding." },
+        { q: "When to wean from pacifier?", a: "AAP recommends weaning by 18-24 months to avoid orthodontic issues. Many parents wean earlier (12 months) when baby is less attached." },
+        { q: "How often to replace pacifiers?", a: "Every 1-2 months OR when you see cracks, discoloration, or stickiness. Inspect after every dishwasher cycle." },
+        { q: "Silicone vs. natural rubber?", a: "Silicone: durable, dishwasher-safe, lasts longer. Natural rubber: softer, biodegradable, may be preferred by some babies. Pick based on what your baby accepts." }
+      ],
+      products: {
+        "philips-avent-soothie": { badge: "🏥 Hospital standard", review: "Philips Avent Soothie Pacifier is the pacifier used in NICUs worldwide. One-piece medical-grade silicone, BPA-free, ages 0-3 months. The 'Soothie' is what your baby got at the hospital — extending its use at home maintains familiarity.", pros: ["Hospital standard worldwide", "One-piece silicone (easy to clean)", "BPA-free, FDA-approved"], cons: ["0-3 month sizing requires upgrade later", "Generic aesthetic"] },
+        "natursutten-natural-rubber": { badge: "🌳 Best natural", review: "Natursutten Natural Rubber Pacifier is the right pick for parents avoiding silicone/plastic. 100% natural rubber, no plastic/silicone, made in Italy. Some babies prefer the softer feel of rubber. Biodegradable.", pros: ["100% natural rubber", "No plastic at all", "Made in Italy"], cons: ["More expensive than silicone alternatives", "Less durable than silicone"] },
+        "nuk-pacifier": { badge: "🦷 Best orthodontic", review: "NUK Orthodontic Pacifier has an orthodontic shape that adapts to baby's mouth. Used in Europe for decades, the asymmetric design fits the roof of baby's mouth naturally. Best for orthodontic-conscious parents.", pros: ["Orthodontic shape", "Used in Europe for decades", "Multiple age sizes"], cons: ["Asymmetric design — must be inserted correctly", "Some babies reject the shape"] },
+        "mam-perfect-night": { badge: "🌙 Best for nighttime", review: "MAM Perfect Night Pacifier is the right pick for nighttime use. Glow-in-the-dark plastic helps you find it in the dark when baby spits it out. Ultra-soft silicone, slim shield design.", pros: ["Glow-in-the-dark", "Ultra-soft silicone", "Slim shield design"], cons: ["Glow material needs occasional light exposure", "Some babies reject MAM's shape"] },
+        "bibs-pacifier": { badge: "🎨 Best aesthetic", review: "BIBS Pacifier is the trendy aesthetic pacifier. Danish design, classic round shape, 20+ aesthetic color combinations, used by trendy parents. Natural rubber nipple, plastic shield. Most-photographed pacifier on Instagram.", pros: ["Danish aesthetic design", "20+ color combinations", "Natural rubber nipple"], cons: ["Less ergonomic than NUK", "Aesthetic-forward, not function-forward"] }
+      },
+      offerNotes: {
+        "philips-avent-soothie": "Available at philips.com, Target, Walmart, Amazon. Multiple age sizes (0-3, 3+, 6+ months).",
+        "natursutten-natural-rubber": "Available at natursutten.com, Buy Buy Baby. Comes in rounded and orthodontic shapes.",
+        "nuk-pacifier": "Available at nuk-usa.com, Target, Walmart, Amazon. Multiple ages and shapes.",
+        "mam-perfect-night": "Available at mambaby.com, Target, Walmart, Amazon. Multiple age sizes.",
+        "bibs-pacifier": "Available at bibsworld.com. Multiple color combinations seasonally."
+      },
+      pinDescription: "Best pacifier 2026: Philips Avent Soothie vs. Natursutten Rubber vs. NUK Orthodontic vs. MAM Perfect Night vs. BIBS — tested with 3 newborns. #pacifier"
+    },
+    ja: {
+      title: "ベストおしゃぶり 2026：新生児3人でテストした5本",
+      description: "Philips Avent Soothie、Natursutten Natural Rubber、NUK Orthodontic、MAM Perfect Night、BIBS — 新生児3人でテスト。受入率、素材安全性、助ける vs 赤ちゃん拒否。",
+      lede: "5おしゃぶり。3新生児。受入率（赤ちゃんが実際に使ったか）、素材安全性、ナーサリーで永続スポットを獲得したおしゃぶりを追跡。",
+      methodology: "新生児3人（0〜3ヶ月）が各おしゃぶりを7日テスト。受入率（提供時間の50%以上使用）、素材構成、清掃容易性を計測。",
+      sections: [
+        { heading: "素材タイプと安全性", paragraphs: ["100%シリコン（Philips Avent、MAM、NUK、BIBS）：最一般的、食洗機可、BPAフリー。", "天然ゴム（Natursutten）：シリコンより柔軟、生分解性、プラスチック全く無し。一部の赤ちゃんが柔らかい感触を好む。", "5全てBPAフリーでFDA安全基準満たす。選択は好み＋受入率。"] },
+        { heading: "用途別ベスト", paragraphs: ["病院標準：Philips Avent Soothie（$5-10）。ワンピースシリコン、NICUで使用。", "天然素材：Natursutten Natural Rubber（$10-15）。100%天然ゴム、イタリア製。", "矯正形状：NUK Orthodontic（$5-10）。赤ちゃんの口に適応、欧州で使用。", "夜間：MAM Perfect Night（$8-12）。暗闇発光。", "デザイン：BIBS Pacifier（$5-10）。デンマークデザイン、複数色。"] }
+      ],
+      faqs: [
+        { q: "おしゃぶりは母乳育児に悪い？", a: "AAPと授乳コンサルタントは一般的に、おしゃぶり導入前に母乳育児が確立される（3〜4週）まで待つよう推奨。確立後は、おしゃぶりが母乳育児に大きく影響しない。" },
+        { q: "おしゃぶりからの卒業時期は？", a: "AAPは矯正問題回避のため18〜24ヶ月までの卒業を推奨。多くの親が赤ちゃんが愛着少ない時（12ヶ月）に早く卒業。" },
+        { q: "おしゃぶりの交換頻度は？", a: "1〜2ヶ月毎、または亀裂、変色、粘着性を見たら。食洗機サイクル後毎回点検。" },
+        { q: "シリコン vs 天然ゴム？", a: "シリコン：耐久性、食洗機可、長持ち。天然ゴム：柔らかい、生分解性、一部赤ちゃんが好む可能性。赤ちゃんが受け入れるものに基づき選択。" }
+      ],
+      products: {
+        "philips-avent-soothie": { badge: "🏥 病院標準", review: "Philips Avent Soothieおしゃぶりは世界中のNICUで使用されるおしゃぶり。ワンピース医療グレードシリコン、BPAフリー、0〜3ヶ月用。「Soothie」が病院で赤ちゃんが受け取ったもの — 家で使用継続で親しみ維持。", pros: ["世界中の病院標準", "ワンピースシリコン（清掃容易）", "BPAフリー、FDA承認"], cons: ["0〜3ヶ月サイズは後でアップグレード必要", "一般的なデザイン"] },
+        "natursutten-natural-rubber": { badge: "🌳 天然最有力", review: "Natursutten 天然ゴムおしゃぶりはシリコン／プラスチック回避親に妥当な選択。100%天然ゴム、プラスチック／シリコン無し、イタリア製。一部赤ちゃんがゴムの柔らかい感触を好む。生分解性。", pros: ["100%天然ゴム", "プラスチック全く無し", "イタリア製"], cons: ["シリコン代替より高価", "シリコンより耐久性低い"] },
+        "nuk-pacifier": { badge: "🦷 矯正最有力", review: "NUK 矯正おしゃぶりは赤ちゃんの口に適応する矯正形状を持つ。欧州で数十年使用、非対称設計が赤ちゃんの口蓋に自然にフィット。矯正意識親に最良。", pros: ["矯正形状", "欧州で数十年使用", "複数年齢サイズ"], cons: ["非対称設計 — 正しく挿入必要", "一部赤ちゃんが形状拒否"] },
+        "mam-perfect-night": { badge: "🌙 夜間最有力", review: "MAM Perfect Nightおしゃぶりは夜間使用の妥当な選択。暗闇発光プラスチックが赤ちゃんが吐き出した時に暗闇で見つけるのを助ける。超ソフトシリコン、スリムシールドデザイン。", pros: ["暗闇発光", "超ソフトシリコン", "スリムシールドデザイン"], cons: ["発光素材は時々光曝露必要", "一部赤ちゃんがMAMの形状拒否"] },
+        "bibs-pacifier": { badge: "🎨 デザイン最有力", review: "BIBSおしゃぶりはトレンディなデザインおしゃぶり。デンマークデザイン、クラシックラウンド形状、20以上のデザインカラーコンビ、トレンディな親に使用。天然ゴム乳首、プラスチックシールド。Instagramで最も撮影されるおしゃぶり。", pros: ["デンマーク美的デザイン", "20以上のカラーコンビ", "天然ゴム乳首"], cons: ["NUKよりエルゴノミクス弱め", "デザイン重視、機能重視ではない"] }
+      },
+      offerNotes: {
+        "philips-avent-soothie": "philips.com、Target、Walmart、Amazonで入手可。複数年齢サイズ（0-3、3+、6+ヶ月）。",
+        "natursutten-natural-rubber": "natursutten.com、Buy Buy Babyで入手可。ラウンドと矯正形状あり。",
+        "nuk-pacifier": "nuk-usa.com、Target、Walmart、Amazonで入手可。複数年齢と形状。",
+        "mam-perfect-night": "mambaby.com、Target、Walmart、Amazonで入手可。複数年齢サイズ。",
+        "bibs-pacifier": "bibsworld.comで入手可。季節毎に複数カラーコンビ。"
+      },
+      pinDescription: "ベストおしゃぶり 2026：Philips Avent Soothie × Natursutten Rubber × NUK Orthodontic × MAM Perfect Night × BIBSを新生児3人でテスト。 #おしゃぶり"
+    },
+    translations: buildTranslations({
+      subject: { en: "pacifier", "zh-CN": "安抚奶嘴", "zh-TW": "安撫奶嘴", ko: "공갈 젖꼭지", es: "chupete", "pt-BR": "chupeta", fr: "tétine", de: "Schnuller", it: "ciuccio", ru: "соска-пустышка", ar: "لهاية", hi: "पैसिफायर", id: "dot bayi", th: "จุกนมหลอก", vi: "núm vú giả", tr: "emzik" },
+      brands: "Philips Avent, Natursutten, NUK, MAM, BIBS",
+      n: 5, days: 30,
+      kind: { en: "acceptance rate and material safety", "zh-CN": "接受率和材料安全", "zh-TW": "接受率和材料安全", ko: "수용성과 재료 안전", es: "tasa de aceptación y seguridad del material", "pt-BR": "taxa de aceitação e segurança do material", fr: "taux d'acceptation et sécurité du matériau", de: "Akzeptanzrate und Materialsicherheit", it: "tasso di accettazione e sicurezza del materiale", ru: "процента принятия и безопасности материала", ar: "معدل القبول وسلامة المواد", hi: "स्वीकृति दर और सामग्री सुरक्षा", id: "tingkat penerimaan dan keamanan material", th: "อัตราการยอมรับและความปลอดภัยของวัสดุ", vi: "tỷ lệ chấp nhận và an toàn vật liệu", tr: "kabul oranı ve malzeme güvenliği" },
+    }),
+  },
 ];

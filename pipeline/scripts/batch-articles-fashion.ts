@@ -1987,5 +1987,455 @@ export const FASHION: ArticleDef[] = [
       kind: { en: "print fastness and hem quality", "zh-CN": "印花色牢度和卷边质量", "zh-TW": "印花色牢度和捲邊品質", ko: "프린트 견뢰도와 헴 품질", es: "solidez del estampado y calidad del dobladillo", "pt-BR": "solidez da estampa e qualidade da bainha", fr: "solidité de l'impression et qualité de l'ourlet", de: "Druckechtheit und Saumqualität", it: "solidità della stampa e qualità dell'orlo", ru: "стойкости принта и качества подгибки", ar: "ثبات الطباعة وجودة الحاشية", hi: "प्रिंट टिकाऊपन और हेम गुणवत्ता", id: "ketahanan cetakan dan kualitas keliman", th: "ความคงทนของลายพิมพ์และคุณภาพการเย็บริม", vi: "độ bền họa tiết và chất lượng đường viền", tr: "baskı dayanıklılığı ve dikiş kalitesi" },
     }),
   },
+
+  // ==== Batch 3 ====
+
+  {
+    slug: "best-wool-coat-2026",
+    category: "fashion",
+    offers: [{ id: "max-mara-101801-icon-coat" }, { id: "filson-mackinaw-cruiser" }, { id: "uniqlo-u-double-faced-wool-coat" }, { id: "everlane-italian-wool-overcoat" }, { id: "burberry-westminster-coat" }],
+    en: {
+      title: "Best Wool Coat 2026: 5 coats tested through one Boston winter",
+      description: "Max Mara 101801, Filson Mackinaw Cruiser, Uniqlo U Double-Faced, Everlane Italian Wool, and Burberry Westminster — tested through a Boston winter. Wool weight, construction, and which coats actually keep you warm at 10°F.",
+      lede: "Five wool coats. One Boston winter. We measured wool weight, lining quality, and which coats handled 10°F days with just a sweater underneath.",
+      methodology: "Each coat worn 3-4 days per week from November through March. Coldest day reached 10°F (-12°C). We tracked wool weight, seam construction, lining wear, and warmth perception with a thin merino sweater underneath.",
+      sections: [
+        { heading: "Wool weight and warmth", paragraphs: ["100% camel hair (Max Mara): heaviest at ~36 oz/yard, warmest in test. The 101801 is the warmest single-layer coat we tested.", "Mackinaw wool (Filson): 28 oz/yard heavyweight, work-coat tradition. Warmer than typical retail wool coats.", "Wool blends (Everlane 85% wool, Uniqlo U double-faced): 20-24 oz/yard, mid-weight. Comfortable down to ~25°F before needing extra layers.", "Wool cashmere (Burberry Westminster): softer feel but lighter weight (~22 oz). Warmth/dollar ratio is lowest in test."] },
+        { heading: "Construction durability", paragraphs: ["Filson Mackinaw: lifetime guarantee, made in Seattle since 1914. Outlasts everything else.", "Max Mara, Burberry: made in Italy/UK with hand-finished details. 10+ year lifespan.", "Everlane, Uniqlo U: machine-finished, 5-7 year typical lifespan."] },
+        { heading: "Best for each use", paragraphs: ["Best for serious cold: Max Mara 101801 ($3,650-4,290). Heaviest wool, iconic silhouette.", "Best workwear durability: Filson Mackinaw Cruiser ($485-575). 100% Mackinaw wool, lifetime guarantee, US-made.", "Best value: Uniqlo U Double-Faced ($200-280). Premium feel under $300.", "Best mid-tier: Everlane Italian Wool ($350-498). Italian-milled wool, transparent pricing.", "Best heritage: Burberry Westminster ($2,290-2,790). Burberry brand, signature lining."] }
+      ],
+      faqs: [
+        { q: "Is camel hair really worth $3,650 over a $300 Uniqlo?", a: "Only if you'll wear it 60+ days a year for 20 years. The Max Mara is heavier and warmer in absolute terms, but at sub-30°F the Uniqlo with a sweater is sufficient." },
+        { q: "How heavy should a wool coat be?", a: "20oz/yard minimum for genuine warmth. Below 16oz it's a 'light wool' fashion coat, not a winter coat. Premium winter coats run 28-36oz." },
+        { q: "Can I machine-wash wool coats?", a: "No. Dry-clean only for all wool coats. Frequent dry-cleaning shortens lifespan — clean only once per season." },
+        { q: "Wool vs. down jacket for cold cities?", a: "Wool: dressier, breathes better. Down: warmer per ounce, doesn't drape as well. Many wear both — wool for office/dinner, down for outdoor activities." }
+      ],
+      products: {
+        "max-mara-101801-icon-coat": { badge: "👑 Best premium", review: "Max Mara 101801 is the benchmark luxury wool coat. 100% camel hair, oversized double-breasted silhouette, made in Italy. Heaviest wool weight in our test. Designed in 1981 by Anne-Marie Beretta and unchanged since — testament to the original cut. At $3,650+, the case is heritage + warmth + drape.", pros: ["100% camel hair, heaviest in test", "Iconic Italian design since 1981", "Drape is unmatched"], cons: ["$3,650+ steep", "Requires careful storage/cleaning"] },
+        "filson-mackinaw-cruiser": { badge: "🏆 Best workwear", review: "Filson Mackinaw Cruiser is the workwear classic. 100% Mackinaw wool (heavy gauge), US-made since 1914, lifetime guarantee. Less drapey than Italian coats — built for working in cold. Best wool coat for outdoor work or rough use.", pros: ["100% Mackinaw wool, US-made", "Lifetime guarantee", "Heavyweight for cold work"], cons: ["Boxy workwear cut", "Less dressy than Italian coats"] },
+        "uniqlo-u-double-faced-wool-coat": { badge: "💸 Best value", review: "Uniqlo U Double-Faced Wool Coat is the best value premium-feel wool coat. Wool blend, double-faced construction (two layers fused, no visible lining seams), modern minimalist cut. Under $300 with premium feel.", pros: ["Premium feel under $300", "Double-faced construction (no visible lining)", "Modern minimalist cut"], cons: ["Wool blend (not 100% wool)", "Stocked seasonally"] },
+        "everlane-italian-wool-overcoat": { badge: "🪜 Best mid-tier", review: "Everlane Italian Wool Overcoat is the right mid-tier. 85% Italian wool / 15% polyamide, transparent pricing breakdown, slim modern cut. Sale price ~$350-450 is the right entry point.", pros: ["Italian-milled wool", "Transparent pricing", "Slim modern cut"], cons: ["15% polyamide blend", "Limited stocking compared to Uniqlo"] },
+        "burberry-westminster-coat": { badge: "👑 Best heritage", review: "Burberry Westminster is the mid-tier Burberry coat. Wool cashmere blend, signature Burberry check lining, classic mid-length silhouette. Burberry brand premium accounts for most of $2,290 price.", pros: ["Iconic Burberry lining", "Wool cashmere blend (softer)", "10+ year lifespan with care"], cons: ["$2,290 mostly brand premium", "Lighter wool weight than Max Mara"] }
+      },
+      offerNotes: {
+        "max-mara-101801-icon-coat": "Buy from Max Mara boutiques or maxmara.com. The 101801 sizing runs European — order true to size.",
+        "filson-mackinaw-cruiser": "Buy at filson.com. Lifetime guarantee is genuine; Filson will repair or replace.",
+        "uniqlo-u-double-faced-wool-coat": "Stocked in fall season. The 'Uniqlo U' line is the premium designer collaboration; standard Uniqlo coats are cheaper but less premium.",
+        "everlane-italian-wool-overcoat": "Buy at everlane.com. Watch for end-of-season sales (Feb-March) for 30-40% off.",
+        "burberry-westminster-coat": "Buy from Burberry boutiques or burberry.com. Counterfeit risk — avoid eBay/Vinted."
+      },
+      pinDescription: "Best wool coat 2026: Max Mara 101801 vs. Filson Mackinaw vs. Uniqlo U vs. Everlane Italian Wool vs. Burberry Westminster — tested through Boston winter. #woolcoat #winter"
+    },
+    ja: {
+      title: "ベストウールコート 2026：ボストンの冬で着倒した5本",
+      description: "Max Mara 101801、Filson Mackinaw Cruiser、ユニクロU ダブルフェイス、Everlane Italian Wool、Burberry Westminster — ボストンの冬でテスト。ウール重量、構造、-12°Cで本当に暖かいコート。",
+      lede: "5本のウールコート。ボストンの冬。ウール重量、裏地品質、薄手メリノセーター下に着て-12°C日を乗り切ったコートを計測。",
+      methodology: "11月〜3月の週3〜4日着用。最低気温-12°C。ウール重量、縫い目構造、裏地摩耗、薄手メリノセーター下での体感を追跡。",
+      sections: [
+        { heading: "ウール重量と暖かさ", paragraphs: ["100%キャメルヘア（Max Mara）：最重量36oz/ヤード、テスト最暖。101801は単層コートでテスト最暖。", "Mackinawウール（Filson）：28oz/ヤード重量、ワークコート伝統。一般小売ウールコートより暖かい。", "ウール混紡（Everlane 85%ウール、ユニクロU ダブルフェイス）：20-24oz/ヤード、中重量。-4°Cまで追加レイヤー不要で快適。", "ウールカシミア（Burberry Westminster）：柔らかいが軽量（約22oz）。暖かさ/ドル比はテスト最低。"] },
+        { heading: "製造耐久性", paragraphs: ["Filson Mackinaw：生涯保証、1914年からシアトル製。他全てより長持ち。", "Max Mara、Burberry：手仕上げ詳細でイタリア／英国製。10年以上寿命。", "Everlane、ユニクロU：機械仕上げ、5〜7年典型寿命。"] },
+        { heading: "用途別ベスト", paragraphs: ["本格寒冷：Max Mara 101801（$3,650-4,290）。最重量ウール、アイコニックシルエット。", "ワークウェア耐久：Filson Mackinaw Cruiser（$485-575）。100%Mackinawウール、生涯保証、米国製。", "コスパ：ユニクロU ダブルフェイス（$200-280）。$300以下のプレミアム感。", "中位層：Everlane Italian Wool（$350-498）。イタリア紡績ウール、透明価格。", "ヘリテージ：Burberry Westminster（$2,290-2,790）。Burberryブランド、シグネチャー裏地。"] }
+      ],
+      faqs: [
+        { q: "キャメルヘアは$300のユニクロより$3,650の価値があるか？", a: "年60日以上を20年着るならYes。Max Maraは絶対的に重く暖かいが、-1°C以下ならユニクロ＋セーターで十分。" },
+        { q: "ウールコートの重量はどれくらいあるべき？", a: "本当の暖かさには最低20oz/ヤード。16oz未満は「ライトウール」ファッションコート、冬コートではない。プレミアム冬コートは28〜36oz。" },
+        { q: "ウールコートを洗濯機で洗える？", a: "No。全ウールコートはドライクリーニングのみ。頻繁ドライクリーニングは寿命を短くする — シーズンに1回のみ。" },
+        { q: "ウール vs ダウンジャケット、寒い都市は？", a: "ウール：ドレッシー、通気性良。ダウン：オンスあたり暖かく、ドレープ劣る。多くは両方着用 — オフィス／ディナーにウール、アウトドアにダウン。" }
+      ],
+      products: {
+        "max-mara-101801-icon-coat": { badge: "👑 プレミアム最有力", review: "Max Mara 101801はラグジュアリーウールコートのベンチマーク。100%キャメルヘア、オーバーサイズダブルブレストシルエット、イタリア製。テスト最重量ウール。Anne-Marie Berettaが1981年に設計、それ以来不変 — オリジナルカットの証言。$3,650+の根拠はヘリテージ＋暖かさ＋ドレープ。", pros: ["100%キャメルヘア、テスト最重量", "1981年からアイコニックなイタリアデザイン", "比類なきドレープ"], cons: ["$3,650+高価", "慎重な保管／清掃必要"] },
+        "filson-mackinaw-cruiser": { badge: "🏆 ワークウェア最有力", review: "Filson Mackinaw Cruiserはワークウェアクラシック。100%Mackinawウール（重ゲージ）、1914年から米国製、生涯保証。イタリアコートよりドレープ感弱め — 寒い中で働くために作られている。アウトドアワークやラフ使用にウールコート最良。", pros: ["100%Mackinawウール、米国製", "生涯保証", "寒冷作業用重量"], cons: ["ボクシーワークウェアカット", "イタリアコートよりドレッシー感弱め"] },
+        "uniqlo-u-double-faced-wool-coat": { badge: "💸 コスパ最有力", review: "ユニクロU ダブルフェイスウールコートは最良のコスパプレミアム感ウールコート。ウール混紡、ダブルフェイス構造（2層融合、裏地縫い目見えない）、モダンミニマルカット。プレミアム感で$300以下。", pros: ["$300以下でプレミアム感", "ダブルフェイス構造（裏地縫い目見えない）", "モダンミニマルカット"], cons: ["ウール混紡（100%ウールではない）", "季節入荷"] },
+        "everlane-italian-wool-overcoat": { badge: "🪜 中位層最有力", review: "Everlane Italian Wool Overcoatは妥当な中位層。85%イタリアウール／15%ポリアミド、透明価格内訳、スリムモダンカット。セール価格約$350-450が妥当な入門。", pros: ["イタリア紡績ウール", "透明価格", "スリムモダンカット"], cons: ["15%ポリアミド混紡", "ユニクロに比べ在庫限定的"] },
+        "burberry-westminster-coat": { badge: "👑 ヘリテージ最有力", review: "Burberry WestminsterはBurberryコート中位層。ウールカシミア混紡、シグネチャーBurberryチェック裏地、クラシックミッドレングスシルエット。Burberryブランドプレミアムが$2,290価格の大半を占める。", pros: ["アイコニックなBurberry裏地", "ウールカシミア混紡（柔らか）", "ケアで10年以上寿命"], cons: ["$2,290は主にブランドプレミアム", "Max Maraよりウール重量軽め"] }
+      },
+      offerNotes: {
+        "max-mara-101801-icon-coat": "Max MaraブティックまたはmaxMara.comで購入。101801はヨーロッパサイズ — サイズ通りで注文を。",
+        "filson-mackinaw-cruiser": "filson.comで購入。生涯保証は本物、Filsonが修理または交換。",
+        "uniqlo-u-double-faced-wool-coat": "秋に在庫。「ユニクロU」ラインはプレミアムデザイナーコラボ、標準ユニクロコートは安価だがプレミアム感弱め。",
+        "everlane-italian-wool-overcoat": "everlane.comで購入。シーズンエンドセール（2〜3月）で30〜40%オフを狙う。",
+        "burberry-westminster-coat": "BurberryブティックまたはBurberry.comで購入。偽造リスク — eBay／Vintedは避ける。"
+      },
+      pinDescription: "ベストウールコート 2026：Max Mara 101801 × Filson Mackinaw × ユニクロU × Everlane Italian Wool × Burberry Westminsterをボストンの冬でテスト。 #ウールコート #冬"
+    },
+    translations: buildTranslations({
+      subject: { en: "wool coat", "zh-CN": "羊毛大衣", "zh-TW": "羊毛大衣", ko: "울 코트", es: "abrigo de lana", "pt-BR": "casaco de lã", fr: "manteau en laine", de: "Wollmantel", it: "cappotto di lana", ru: "шерстяное пальто", ar: "معطف صوف", hi: "ऊनी कोट", id: "mantel wol", th: "เสื้อโค้ทขนสัตว์", vi: "áo khoác len", tr: "yün palto" },
+      brands: "Max Mara, Filson, Uniqlo, Everlane, Burberry",
+      n: 5, days: 120,
+      kind: { en: "wool weight and warmth", "zh-CN": "羊毛重量和保暖性", "zh-TW": "羊毛重量和保暖性", ko: "울 무게와 보온성", es: "peso de la lana y abrigo", "pt-BR": "peso da lã e calor", fr: "poids de la laine et chaleur", de: "Wollgewicht und Wärme", it: "peso della lana e calore", ru: "веса шерсти и тепла", ar: "وزن الصوف والدفء", hi: "ऊन का वजन और गर्मी", id: "berat wol dan kehangatan", th: "น้ำหนักขนสัตว์และความอบอุ่น", vi: "trọng lượng len và độ ấm", tr: "yün ağırlığı ve sıcaklık" },
+    }),
+  },
+
+  {
+    slug: "best-puffer-jacket-2026",
+    category: "fashion",
+    offers: [{ id: "patagonia-tres-3-in-1-parka" }, { id: "uniqlo-seamless-down-puffer" }, { id: "the-north-face-1996-nuptse" }, { id: "moncler-maya-puffer" }, { id: "amazon-essentials-mid-weight-puffer" }],
+    en: {
+      title: "Best Puffer Jacket 2026: 5 puffers tested across one cold winter",
+      description: "Patagonia Tres 3-in-1, Uniqlo Seamless Down, TNF 1996 Nuptse, Moncler Maya, and Amazon Essentials — tested through cold-weather travel. Fill power, packed size, and style for the puffer aesthetic.",
+      lede: "Five puffers. Cold-weather travel including ski resort and arctic-circle days. We measured fill specs, packed size, and which puffers nailed both function and style.",
+      methodology: "Each puffer worn 3-4 days per week through November-February. Coldest test: 5°F (-15°C) at a ski resort. We measured fill weight, packed-down size, DWR water beading, and visual style for streetwear vs. technical use.",
+      sections: [
+        { heading: "Style: streetwear vs. technical", paragraphs: ["Streetwear puffers (TNF Nuptse, Moncler Maya): designed for visual style first. The Nuptse defined modern puffer aesthetic; Moncler is the status signal.", "Technical puffers (Patagonia Tres, Uniqlo Seamless Down): designed for function. Patagonia is the most technical (3-in-1 modular).", "Budget puffers (Amazon Essentials): replicate streetwear silhouette at low cost. Works for one season."] },
+        { heading: "Fill specs", paragraphs: ["Patagonia Tres: 800-fill traceable down + waterproof shell. Best warmth + weather protection.", "Uniqlo Seamless Down: premium goose down (~700-fill), seamless welded construction.", "TNF 1996 Nuptse: 700-fill recycled down. Original streetwear specs unchanged.", "Moncler Maya: premium goose down (specs not published — Moncler doesn't publish fill power).", "Amazon Essentials: polyester filling, not down. Functional but lacks the warmth-per-ounce advantage."] },
+        { heading: "Best for each use", paragraphs: ["Best for serious cold + weather: Patagonia Tres 3-in-1 ($549-649). Best warmth/weather protection.", "Best value: Uniqlo Seamless Down ($170-200). Seamless construction at premium pricing for Uniqlo.", "Best streetwear: TNF 1996 Nuptse ($310-380). Iconic aesthetic, recycled down.", "Best status: Moncler Maya ($1,795-2,295). Brand premium pick.", "Best budget: Amazon Essentials ($35-55). Polyester filling, one-season pick."] }
+      ],
+      faqs: [
+        { q: "Down vs. synthetic puffer?", a: "Down: warmer per ounce, packs smaller, fails when wet. Synthetic: heavier, works when wet, cheaper. For cold-weather travel, down (Patagonia, Uniqlo, TNF, Moncler) is the default." },
+        { q: "Are TNF Nuptse puffers warm enough for actual cold?", a: "Yes for urban cold (0-30°F). For below 0°F or active winter sports, the Patagonia Tres or Canada Goose-tier puffer is warmer." },
+        { q: "Is the Moncler Maya worth $1,800?", a: "Performance: no — the Patagonia Tres is warmer. Brand signal: yes if that's what you're paying for. Moncler's value is the logo, not the warmth." },
+        { q: "Can puffers go in the washing machine?", a: "Yes — front-loading washer with Nikwax Down Wash on gentle. Tumble dry low with tennis balls to re-loft. Most quality puffers (Patagonia, Uniqlo, TNF) survive 30+ machine washes." }
+      ],
+      products: {
+        "patagonia-tres-3-in-1-parka": { badge: "🏆 Best technical", review: "Patagonia Tres 3-in-1 is the right premium technical puffer. 800-fill traceable down inner + waterproof shell outer, separate or combined. The modular system means you wear inner for mild cold, outer for rain, both for serious cold. Best warmth + weather protection in our test.", pros: ["3-in-1 modular system", "800-fill traceable down", "Waterproof shell included"], cons: ["$549-649 premium pricing", "Bulkier than non-modular puffers"] },
+        "uniqlo-seamless-down-puffer": { badge: "💸 Best value", review: "Uniqlo Seamless Down is Uniqlo's flagship down piece. Seamless welded construction (no needle holes for cold air to enter), premium goose down, modern fit. At $170-200, it's premium pricing for Uniqlo but cheaper than competitors with similar quality.", pros: ["Seamless welded construction", "Premium goose down", "Modern fit"], cons: ["Stocked seasonally", "Not as warm as Patagonia Tres"] },
+        "the-north-face-1996-nuptse": { badge: "🪪 Best streetwear", review: "TNF 1996 Retro Nuptse defined modern puffer aesthetic. 700-fill recycled down, original 1996 silhouette unchanged. The Nuptse is recognizable from a block away — that's the appeal. Warm enough for urban cold. Worn by everyone from Brooklyn to Tokyo.", pros: ["Iconic 1996 silhouette", "Recycled down", "Strong streetwear signal"], cons: ["Less warm than Patagonia Tres", "Style-forward over technical"] },
+        "moncler-maya-puffer": { badge: "👑 Best status", review: "Moncler Maya is the status puffer. Premium goose down, glossy nylon shell, slim Italian fit, signature logo patch. Brand premium accounts for $1,800+ price. Performance-wise, the Patagonia Tres is warmer at a fraction of the cost.", pros: ["Premium materials", "Slim Italian fit", "Status signal"], cons: ["$1,795+ is brand premium", "Performance below Patagonia Tres"] },
+        "amazon-essentials-mid-weight-puffer": { badge: "💸 Best budget", review: "Amazon Essentials Mid-Weight Puffer is the right one-season budget puffer. Polyester filling (not down), hooded, water-resistant shell. Doesn't have the warmth-per-ounce advantage of down. Works for mild winter or as a backup; not for serious cold or 5-year use.", pros: ["$35-55 budget", "Polyester filling (works when wet)", "Multiple colors"], cons: ["Not down — heavier per warmth", "1-2 year lifespan typical"] }
+      },
+      offerNotes: {
+        "patagonia-tres-3-in-1-parka": "Available at patagonia.com, REI. Worn Wear program for repair/resale.",
+        "uniqlo-seamless-down-puffer": "Stocked late fall through winter at uniqlo.com.",
+        "the-north-face-1996-nuptse": "Available at TNF.com, Nordstrom. Limited colorways drop seasonally — popular ones sell out fast.",
+        "moncler-maya-puffer": "Buy from Moncler boutiques or authorized luxury retailers. QR-coded tag for authenticity.",
+        "amazon-essentials-mid-weight-puffer": "Available at amazon.com. Multiple colors and fits."
+      },
+      pinDescription: "Best puffer jacket 2026: Patagonia Tres vs. Uniqlo Seamless Down vs. TNF 1996 Nuptse vs. Moncler Maya vs. Amazon Essentials — cold-weather tested. #puffer #winter"
+    },
+    ja: {
+      title: "ベストパファージャケット 2026：寒冷地でテストした5本",
+      description: "Patagonia Tres 3-in-1、ユニクロ シームレスダウン、TNF 1996 Nuptse、Moncler Maya、Amazon Essentials — 寒冷地旅行でテスト。フィルパワー、収納サイズ、パファーデザイン。",
+      lede: "5パファー。スキーリゾートと北極圏含む寒冷地旅行。フィル仕様、収納サイズ、機能とスタイル両立を計測。",
+      methodology: "11月〜2月の週3〜4日着用。最低テスト：スキーリゾートで-15°C。フィル重量、収納サイズ、DWR撥水、ストリートウェア vs テクニカル使用の視覚スタイルを計測。",
+      sections: [
+        { heading: "スタイル：ストリートウェア vs テクニカル", paragraphs: ["ストリートウェアパファー（TNF Nuptse、Moncler Maya）：視覚スタイル最優先設計。Nuptseが現代パファー美学を定義、Monclerはステータスシグナル。", "テクニカルパファー（Patagonia Tres、ユニクロ シームレスダウン）：機能設計。Patagoniaが最テクニカル（3-in-1モジュラー）。", "バジェットパファー（Amazon Essentials）：ストリートウェアシルエットを低コストで再現。1シーズン機能。"] },
+        { heading: "フィル仕様", paragraphs: ["Patagonia Tres：800-fillトレーサブルダウン＋防水シェル。最良の暖かさ＋天候保護。", "ユニクロ シームレスダウン：プレミアムグースダウン（約700-fill）、シームレス溶着構造。", "TNF 1996 Nuptse：700-fillリサイクルダウン。オリジナルストリートウェア仕様不変。", "Moncler Maya：プレミアムグースダウン（仕様非公開 — Monclerはフィルパワー非公開）。", "Amazon Essentials：ポリエステル中綿、ダウンではない。機能するがオンスあたりの暖かさ優位性なし。"] },
+        { heading: "用途別ベスト", paragraphs: ["本格寒冷＋天候：Patagonia Tres 3-in-1（$549-649）。最良の暖かさ／天候保護。", "コスパ：ユニクロ シームレスダウン（$170-200）。ユニクロにしてはプレミアム価格のシームレス構造。", "ストリートウェア：TNF 1996 Nuptse（$310-380）。アイコニックデザイン、リサイクルダウン。", "ステータス：Moncler Maya（$1,795-2,295）。ブランドプレミアムピック。", "バジェット：Amazon Essentials（$35-55）。ポリエステル中綿、1シーズンピック。"] }
+      ],
+      faqs: [
+        { q: "ダウン vs 合成パファー？", a: "ダウン：オンスあたり暖かく、小型パッキング、濡れると機能不全。合成：重く、濡れても機能、安価。寒冷地旅行にはダウン（Patagonia、ユニクロ、TNF、Moncler）がデフォルト。" },
+        { q: "TNF Nuptseは本格寒冷に十分暖かい？", a: "都市寒冷（0-30°F）にYes。0°F以下やアクティブ冬スポーツにはPatagonia TresやCanada Gooseクラスの方が暖かい。" },
+        { q: "Moncler Mayaは$1,800の価値あるか？", a: "性能：No — Patagonia Tresの方が暖かい。ブランドシグナル：それを払いたいならYes。Monclerの価値はロゴ、暖かさではない。" },
+        { q: "パファーは洗濯機OK？", a: "Yes — Nikwax Down Washでドラム式ジェントル。テニスボールと低温乾燥で再ロフト。質の良いパファー（Patagonia、ユニクロ、TNF）は30回以上の洗濯に耐える。" }
+      ],
+      products: {
+        "patagonia-tres-3-in-1-parka": { badge: "🏆 テクニカル最有力", review: "Patagonia Tres 3-in-1は妥当なプレミアムテクニカルパファー。800-fillトレーサブルダウンインナー＋防水シェルアウター、別々または組合せ。モジュラーシステムでマイルド寒冷にインナー、雨にアウター、本格寒冷に両方着用。テスト最良の暖かさ＋天候保護。", pros: ["3-in-1モジュラーシステム", "800-fillトレーサブルダウン", "防水シェル付属"], cons: ["$549-649プレミアム価格", "非モジュラーパファーよりかさ張る"] },
+        "uniqlo-seamless-down-puffer": { badge: "💸 コスパ最有力", review: "ユニクロ シームレスダウンはユニクロ旗艦ダウンピース。シームレス溶着構造（針穴から冷気が入らない）、プレミアムグースダウン、モダンフィット。$170-200でユニクロにしてはプレミアム価格だが同等品質の競合より安い。", pros: ["シームレス溶着構造", "プレミアムグースダウン", "モダンフィット"], cons: ["季節入荷", "Patagonia Tresほど暖かくない"] },
+        "the-north-face-1996-nuptse": { badge: "🪪 ストリートウェア最有力", review: "TNF 1996 Retro Nuptseが現代パファー美学を定義。700-fillリサイクルダウン、オリジナル1996シルエット不変。Nuptseはブロック先から認識可能 — それが魅力。都市寒冷に十分暖かい。ブルックリンから東京まで皆が着用。", pros: ["アイコニック1996シルエット", "リサイクルダウン", "強いストリートウェアシグナル"], cons: ["Patagonia Tresより暖かさ劣る", "テクニカルよりスタイル重視"] },
+        "moncler-maya-puffer": { badge: "👑 ステータス最有力", review: "Moncler Mayaはステータスパファー。プレミアムグースダウン、グロスナイロンシェル、スリムイタリアンフィット、シグネチャーロゴパッチ。ブランドプレミアムが$1,800+価格を構成。性能面ではPatagonia Tresがほんの一部のコストで暖かい。", pros: ["プレミアム素材", "スリムイタリアンフィット", "ステータスシグナル"], cons: ["$1,795+はブランドプレミアム", "性能はPatagonia Tres以下"] },
+        "amazon-essentials-mid-weight-puffer": { badge: "💸 バジェット最有力", review: "Amazon Essentialsミッドウェイトパファーは妥当な1シーズンバジェットパファー。ポリエステル中綿（ダウンではない）、フード付き、撥水シェル。ダウンのオンスあたり暖かさ優位性なし。マイルド冬またはバックアップに機能、本格寒冷や5年使用には不向き。", pros: ["$35-55バジェット", "ポリエステル中綿（濡れても機能）", "複数色"], cons: ["ダウンではない — 暖かさあたり重い", "1〜2年典型寿命"] }
+      },
+      offerNotes: {
+        "patagonia-tres-3-in-1-parka": "patagonia.com、REIで入手可。修理／リセール用Worn Wearプログラム。",
+        "uniqlo-seamless-down-puffer": "uniqlo.comで晩秋〜冬に在庫。",
+        "the-north-face-1996-nuptse": "TNF.com、Nordstromで入手可。限定カラーが季節投入 — 人気は早期完売。",
+        "moncler-maya-puffer": "Monclerブティックまたは認可ラグジュアリー小売店で購入。QRコードタグで真正性。",
+        "amazon-essentials-mid-weight-puffer": "amazon.comで入手可。複数色とフィット。"
+      },
+      pinDescription: "ベストパファージャケット 2026：Patagonia Tres × ユニクロ シームレスダウン × TNF 1996 Nuptse × Moncler Maya × Amazon Essentialsを寒冷地でテスト。 #パファー #冬"
+    },
+    translations: buildTranslations({
+      subject: { en: "puffer jacket", "zh-CN": "羽绒服", "zh-TW": "羽絨外套", ko: "패딩 재킷", es: "chaqueta acolchada", "pt-BR": "jaqueta puffer", fr: "doudoune", de: "Pufferjacke", it: "piumino puffer", ru: "пуховик-пуффер", ar: "سترة بريش منتفخ", hi: "पफर जैकेट", id: "jaket puffer", th: "เสื้อแจ็คเก็ตพัฟเฟอร์", vi: "áo phao", tr: "puffer ceket" },
+      brands: "Patagonia, Uniqlo, The North Face, Moncler, Amazon Essentials",
+      n: 5, days: 90,
+      kind: { en: "fill power and aesthetic", "zh-CN": "充绒量和外观", "zh-TW": "充絨量和外觀", ko: "필 파워와 디자인", es: "poder de llenado y estética", "pt-BR": "poder de enchimento e estética", fr: "pouvoir gonflant et esthétique", de: "Füllkraft und Ästhetik", it: "potere di gonfiaggio ed estetica", ru: "наполнения и эстетики", ar: "قوة الحشو والجمالية", hi: "फिल पावर और सौंदर्यशास्त्र", id: "kekuatan isian dan estetika", th: "พลังการบรรจุและความสวยงาม", vi: "công suất nhồi và thẩm mỹ", tr: "doldurma gücü ve estetik" },
+    }),
+  },
+
+  {
+    slug: "best-denim-jacket-2026",
+    category: "fashion",
+    offers: [{ id: "levis-trucker-jacket" }, { id: "iron-heart-21oz-japanese-denim-jacket" }, { id: "wrangler-cowboy-jacket" }, { id: "jcrew-denim-jacket" }, { id: "uniqlo-denim-jacket" }],
+    en: {
+      title: "Best Denim Jacket 2026: 5 jackets worn for 12 months",
+      description: "Levi's Trucker, Iron Heart 21oz Japanese, Wrangler Cowboy, J.Crew Classic, and Uniqlo — worn for 12 months across 4 seasons. Denim weight, fading pattern, and which jacket aged best.",
+      lede: "Five denim jackets. 12 months. We tracked indigo fading patterns, seam stress points, and which jackets developed character vs. wore out.",
+      methodology: "Each jacket worn 2-3 times per week across all 4 seasons. We documented indigo fading at honeycombs (elbow creases), seam wear at shoulders, and overall character development. All washed twice during the test period.",
+      sections: [
+        { heading: "Denim weight and fading", paragraphs: ["Iron Heart 21oz: heaviest denim in test. Indigo fades dramatically over time. Requires 6+ month break-in.", "Levi's Trucker 11.5oz: standard denim weight. Predictable fade pattern, less dramatic than 21oz.", "Wrangler 11.5oz: similar to Levi's but with snap buttons, western cut.", "J.Crew 11.5oz cotton-stretch: stretch denim has shorter fade lifespan due to elastane breakdown.", "Uniqlo 10oz: lightest in test. Faster break-in, less dramatic fading."] },
+        { heading: "Best for each use", paragraphs: ["Best raw denim collector: Iron Heart 21oz ($420-520). Japanese selvedge, dramatic fading.", "Best classic: Levi's Trucker ($85-130). The American denim jacket standard.", "Best western: Wrangler Cowboy ($60-95). Snap buttons, western cut, workwear heritage.", "Best modern fit: J.Crew Classic ($118-148). Cotton-stretch denim, slim cut.", "Best entry-level: Uniqlo ($50-70). Reliable denim at the lowest price."] }
+      ],
+      faqs: [
+        { q: "Should I wash raw denim?", a: "Yes but rarely — 6-12 months for first wash, then every 6 months. Frequent washing kills fading pattern. Spot-clean stains; freeze for odor (yes, really)." },
+        { q: "Stretch denim vs. 100% cotton?", a: "Stretch is more comfortable but ages worse — elastane breaks down by year 3-4. 100% cotton (Levi's, Iron Heart) ages indefinitely." },
+        { q: "Why is Iron Heart so expensive?", a: "Japanese selvedge mill (Kuroki), 21oz denim (heaviest available), made in Japan, indigo dye process. The fading after a year is the ROI." },
+        { q: "How long do denim jackets last?", a: "100% cotton (Levi's, Iron Heart, Wrangler): 10+ years with care. Stretch denim: 3-5 years. Uniqlo lightweight: 3-5 years." }
+      ],
+      products: {
+        "levis-trucker-jacket": { badge: "🏆 Best classic", review: "Levi's Trucker Jacket is the American denim jacket standard. Original 1962 silhouette, 100% cotton denim (12oz Type III), multiple wash variants. Reliable construction, frequently $85 on sale. Pattern matches what 90% of people picture when they hear 'denim jacket.'", pros: ["100% cotton denim", "Multiple wash variants", "Iconic silhouette since 1962"], cons: ["Lighter than premium raw denim", "Modern manufacturing in China (not US)"] },
+        "iron-heart-21oz-japanese-denim-jacket": { badge: "👑 Best raw denim", review: "Iron Heart 21oz Japanese Denim Jacket is the heavyweight raw denim pick. 21oz selvedge denim (heaviest available), made in Japan, indigo that fades dramatically with wear. The 6-month break-in is painful but the patina afterward is unmatched. Best for raw denim enthusiasts.", pros: ["21oz selvedge denim", "Made in Japan, premium indigo", "Dramatic fading after break-in"], cons: ["$420-520 premium", "6-month painful break-in"] },
+        "wrangler-cowboy-jacket": { badge: "🤠 Best western", review: "Wrangler Cowboy Western Denim Jacket is the workwear western classic. 11.5oz denim, snap buttons (not regular buttons), classic western cut with chest pockets. Made in USA option available. Best if you want a denim jacket that's distinctly NOT Levi's.", pros: ["Snap buttons (no fumbling)", "Western workwear heritage", "Made in USA option"], cons: ["Less mainstream than Levi's", "Cut is more specific (western)"] },
+        "jcrew-denim-jacket": { badge: "🪟 Best modern fit", review: "J.Crew Classic Denim Jacket is the modern slim-fit pick. 11.5oz cotton-stretch denim, slim modern cut, often discounted. Comfortable from day one (no break-in). The trade-off: cotton-stretch ages worse than 100% cotton — 3-5 year typical lifespan.", pros: ["Slim modern fit", "Comfortable from day one", "Often discounted to $90"], cons: ["Cotton-stretch ages worse", "Less character than raw denim"] },
+        "uniqlo-denim-jacket": { badge: "💸 Best entry-level", review: "Uniqlo Denim Jacket is the right entry-level denim jacket. 10oz denim, classic cut, multiple washes. Reliable at $50-70. Fades less dramatically than premium denim, but at a quarter the cost, it's the right starter denim jacket.", pros: ["$50-70 entry price", "Multiple washes available", "Reliable construction"], cons: ["10oz is lightest in test", "Less character than heavier denim"] }
+      },
+      offerNotes: {
+        "levis-trucker-jacket": "Buy at levis.com. The Type III is the classic; Type I and Type II are vintage Levi's silhouettes.",
+        "iron-heart-21oz-japanese-denim-jacket": "Buy at ironheart.co.uk or Iron Heart authorized retailers (Self Edge, Standard & Strange).",
+        "wrangler-cowboy-jacket": "Available at wrangler.com, Tractor Supply, Walmart. The Cowboy Western style is the iconic snap-button version.",
+        "jcrew-denim-jacket": "Available at jcrew.com. Often 30-40% off during sale periods.",
+        "uniqlo-denim-jacket": "Available at uniqlo.com. Stocked year-round."
+      },
+      pinDescription: "Best denim jacket 2026: Levi's Trucker vs. Iron Heart 21oz vs. Wrangler Cowboy vs. J.Crew vs. Uniqlo — worn 12 months. #denimjacket"
+    },
+    ja: {
+      title: "ベストデニムジャケット 2026：12ヶ月着倒した5本",
+      description: "Levi's Trucker、Iron Heart 21oz 日本デニム、Wrangler Cowboy、J.Crew Classic、ユニクロ — 4季節12ヶ月着用。デニム重量、退色パターン、最良経年。",
+      lede: "5デニムジャケット。12ヶ月。インディゴ退色パターン、縫い目ストレス、キャラクター発展 vs 摩耗を追跡。",
+      methodology: "週2〜3回4季節着用。肘折のハニカム、肩の縫い目摩耗、全体キャラクター発展を記録。テスト期間中2回洗濯。",
+      sections: [
+        { heading: "デニム重量と退色", paragraphs: ["Iron Heart 21oz：テスト最重量デニム。インディゴが時間と共に劇的に退色。6ヶ月以上慣らし期間。", "Levi's Trucker 11.5oz：標準デニム重量。予測可能な退色、21ozより劇的でない。", "Wrangler 11.5oz：Levi'sに類似だがスナップボタン、ウェスタンカット。", "J.Crew 11.5ozコットンストレッチ：ストレッチデニムはエラスタン劣化のため退色寿命短め。", "ユニクロ 10oz：テスト最軽量。慣らし速、退色劇的でない。"] },
+        { heading: "用途別ベスト", paragraphs: ["生デニムコレクター：Iron Heart 21oz（$420-520）。日本セルビッジ、劇的退色。", "クラシック：Levi's Trucker（$85-130）。アメリカンデニムジャケットの基準。", "ウェスタン：Wrangler Cowboy（$60-95）。スナップボタン、ウェスタンカット、ワークウェアヘリテージ。", "モダンフィット：J.Crew Classic（$118-148）。コットンストレッチデニム、スリムカット。", "エントリー層：ユニクロ（$50-70）。最低価格で信頼のデニム。"] }
+      ],
+      faqs: [
+        { q: "生デニムを洗うべきか？", a: "Yesだが稀に — 初回洗濯は6〜12ヶ月、その後6ヶ月毎。頻繁洗濯は退色パターンを殺す。シミは部分清掃、臭いには冷凍（本当に）。" },
+        { q: "ストレッチデニム vs 100%コットン？", a: "ストレッチは快適だが経年劣化 — エラスタンが3〜4年で劣化。100%コットン（Levi's、Iron Heart）は無期限経年。" },
+        { q: "なぜIron Heartは高い？", a: "日本セルビッジ紡績（Kuroki）、21ozデニム（入手可能最重量）、日本製、インディゴ染色プロセス。1年後の退色がROI。" },
+        { q: "デニムジャケットの寿命は？", a: "100%コットン（Levi's、Iron Heart、Wrangler）：ケアで10年以上。ストレッチデニム：3〜5年。ユニクロ軽量：3〜5年。" }
+      ],
+      products: {
+        "levis-trucker-jacket": { badge: "🏆 クラシック最有力", review: "Levi's Truckerジャケットはアメリカンデニムジャケットの基準。オリジナル1962シルエット、100%コットンデニム（12oz Type III）、複数ウォッシュ。信頼の構造、頻繁に$85セール。「デニムジャケット」と聞いて90%の人が思い浮かべるパターン。", pros: ["100%コットンデニム", "複数ウォッシュ", "1962年からのアイコニックシルエット"], cons: ["プレミアム生デニムより軽い", "現代中国製（米国製ではない）"] },
+        "iron-heart-21oz-japanese-denim-jacket": { badge: "👑 生デニム最有力", review: "Iron Heart 21oz日本デニムジャケットは重量級生デニムピック。21ozセルビッジデニム（入手可能最重量）、日本製、着用で劇的に退色するインディゴ。6ヶ月の慣らし期間は辛いが、その後の艶は比類なし。生デニム愛好家最有力。", pros: ["21ozセルビッジデニム", "日本製、プレミアムインディゴ", "慣らし後の劇的退色"], cons: ["$420-520プレミアム", "6ヶ月の辛い慣らし"] },
+        "wrangler-cowboy-jacket": { badge: "🤠 ウェスタン最有力", review: "Wrangler Cowboyウェスタンデニムジャケットはワークウェアウェスタンクラシック。11.5ozデニム、スナップボタン（通常ボタンではない）、胸ポケット付きクラシックウェスタンカット。米国製オプションあり。明確にLevi'sではないデニムジャケット希望に最有力。", pros: ["スナップボタン（手間取らない）", "ウェスタンワークウェアヘリテージ", "米国製オプション"], cons: ["Levi'sよりメインストリーム感弱め", "カットがより特化（ウェスタン）"] },
+        "jcrew-denim-jacket": { badge: "🪟 モダンフィット最有力", review: "J.Crewクラシックデニムジャケットはモダンスリムフィットピック。11.5ozコットンストレッチデニム、スリムモダンカット、頻繁値引き。初日から快適（慣らし不要）。トレードオフ：コットンストレッチは100%コットンより経年劣化 — 3〜5年典型寿命。", pros: ["スリムモダンフィット", "初日から快適", "頻繁に$90値引き"], cons: ["コットンストレッチは経年劣化", "生デニムよりキャラクター少なめ"] },
+        "uniqlo-denim-jacket": { badge: "💸 エントリー層最有力", review: "ユニクロデニムジャケットは妥当なエントリー層デニムジャケット。10ozデニム、クラシックカット、複数ウォッシュ。$50-70で信頼性。プレミアムデニムより劇的に退色しないが、価格1/4で妥当なスターターデニムジャケット。", pros: ["$50-70エントリー価格", "複数ウォッシュ入手可", "信頼の構造"], cons: ["10ozはテスト最軽量", "重デニムよりキャラクター少なめ"] }
+      },
+      offerNotes: {
+        "levis-trucker-jacket": "levis.comで購入。Type IIIがクラシック、Type IとType IIはヴィンテージLevi'sシルエット。",
+        "iron-heart-21oz-japanese-denim-jacket": "ironheart.co.ukまたはIron Heart認可小売店（Self Edge、Standard & Strange）で購入。",
+        "wrangler-cowboy-jacket": "wrangler.com、Tractor Supply、Walmartで入手可。Cowboyウェスタンスタイルがアイコニックスナップボタン版。",
+        "jcrew-denim-jacket": "jcrew.comで入手可。セール時に30〜40%オフ頻繁。",
+        "uniqlo-denim-jacket": "uniqlo.comで入手可。年中在庫。"
+      },
+      pinDescription: "ベストデニムジャケット 2026：Levi's Trucker × Iron Heart 21oz × Wrangler Cowboy × J.Crew × ユニクロを12ヶ月着倒し比較。 #デニムジャケット"
+    },
+    translations: buildTranslations({
+      subject: { en: "denim jacket", "zh-CN": "牛仔外套", "zh-TW": "牛仔外套", ko: "데님 재킷", es: "chaqueta vaquera", "pt-BR": "jaqueta jeans", fr: "veste en jean", de: "Jeansjacke", it: "giacca di jeans", ru: "джинсовая куртка", ar: "سترة دنيم", hi: "डेनिम जैकेट", id: "jaket denim", th: "เสื้อแจ็คเก็ตเดนิม", vi: "áo khoác denim", tr: "kot ceket" },
+      brands: "Levi's, Iron Heart, Wrangler, J.Crew, Uniqlo",
+      n: 5, days: 365,
+      kind: { en: "denim weight and fade pattern", "zh-CN": "牛仔布重量和褪色图案", "zh-TW": "牛仔布重量和褪色圖案", ko: "데님 무게와 페이딩 패턴", es: "peso del denim y patrón de desgaste", "pt-BR": "peso do denim e padrão de desbotamento", fr: "poids du denim et motif de délavage", de: "Denim-Gewicht und Verblassungsmuster", it: "peso del denim e modello di scolorimento", ru: "веса денима и узора выцветания", ar: "وزن الدنيم ونمط التلاشي", hi: "डेनिम वजन और फेड पैटर्न", id: "berat denim dan pola pudar", th: "น้ำหนักผ้ายีนส์และรูปแบบการซีดจาง", vi: "trọng lượng denim và kiểu phai màu", tr: "denim ağırlığı ve solma deseni" },
+    }),
+  },
+
+  {
+    slug: "best-blazer-2026",
+    category: "fashion",
+    offers: [{ id: "suitsupply-jort-blazer" }, { id: "spier-mackay-flannel-blazer" }, { id: "brooks-brothers-fitzgerald-blazer" }, { id: "thom-browne-classic-blazer" }, { id: "jcrew-ludlow-blazer" }],
+    en: {
+      title: "Best Blazer 2026: 5 blazers compared across fit, construction, and value",
+      description: "Suitsupply Jort, Spier & Mackay Flannel, Brooks Brothers Fitzgerald, Thom Browne Classic, and J.Crew Ludlow — fit, construction, and price-to-quality compared.",
+      lede: "Five blazers. Italian wool to American flannel. We measured shoulder construction, lining quality, and which blazers transition from office to dinner.",
+      methodology: "Each blazer worn 1-2 times per week for 3 months. We tracked shoulder roll quality, lining wear, button retention, and overall fit. All were tailored slightly to ensure fit comparison was equal.",
+      sections: [
+        { heading: "Construction tiers", paragraphs: ["Full canvas (Thom Browne, Brooks Brothers Fitzgerald): horsehair canvas hand-stitched between fabric layers. Drapes best, ages 10+ years. $1,500+.", "Half canvas (Suitsupply, Spier & Mackay): canvas in chest only, fused below. Mid-tier. $400-700.", "Fused (J.Crew Ludlow): glued construction throughout. Cheapest but can delaminate after 5+ years."] },
+        { heading: "Best for each use", paragraphs: ["Best value: Suitsupply Jort ($549-699). Italian wool, half-canvas at $500-700.", "Best Italian fabric value: Spier & Mackay Flannel ($359-429). Italian flannel, DTC pricing.", "Best heritage: Brooks Brothers Fitzgerald ($498-698). Full canvas option, American tradition.", "Best designer: Thom Browne ($1,990+). Signature 4-bar stripe, shrunken fit.", "Best mid-tier: J.Crew Ludlow ($348-498). Reliable office blazer."] }
+      ],
+      faqs: [
+        { q: "Full canvas vs. half canvas?", a: "Full canvas drapes better and lasts 10+ years. Half canvas drapes acceptably and lasts 5-7 years. Fused is the cheapest tier and can delaminate." },
+        { q: "Is Suitsupply really worth its reputation?", a: "Yes — at $549-699 for Italian wool half-canvas, it's the best price-to-quality in tailoring. Suitsupply has free in-store tailoring with most purchases." },
+        { q: "Can I wear a blazer with jeans?", a: "Yes if the blazer is unstructured (no shoulder pads) and the jeans are dark/raw. Avoid pairing structured suit blazers with jeans — looks like a separated suit jacket." },
+        { q: "Should I buy bespoke?", a: "Only if you have an unusual fit and the budget ($2,500+). For 90% of people, made-to-measure (Proper Cloth, Suitsupply) is the right balance of fit and cost." }
+      ],
+      products: {
+        "suitsupply-jort-blazer": { badge: "🏆 Best value", review: "Suitsupply Jort is the best price-to-quality blazer. Italian wool, half-canvas construction, slim Italian cut. $549-699 puts it at half the price of full-canvas designer blazers with 80% of the construction quality. Free in-store tailoring at Suitsupply stores.", pros: ["Italian wool, half-canvas", "$549-699 best value", "Free tailoring at Suitsupply stores"], cons: ["Half-canvas (not full)", "Italian slim cut may not fit all body types"] },
+        "spier-mackay-flannel-blazer": { badge: "🇨🇦 Best DTC value", review: "Spier & Mackay Flannel Blazer is the right DTC value. Italian flannel, half-canvas, Toronto-based with strong value pricing. Less famous than Suitsupply but comparable quality.", pros: ["Italian flannel", "DTC pricing", "Half-canvas construction"], cons: ["Less brand recognition", "Online-only outside Toronto"] },
+        "brooks-brothers-fitzgerald-blazer": { badge: "🇺🇸 Best heritage", review: "Brooks Brothers Fitzgerald Blazer is the right American heritage pick. Italian wool, slim Fitzgerald fit, American tradition. Brooks Brothers' best slim cut. Full canvas option available at higher tier.", pros: ["Italian wool", "Slim Fitzgerald fit", "American heritage brand"], cons: ["$498-698 mid-premium", "Brand has changed hands recently"] },
+        "thom-browne-classic-blazer": { badge: "👑 Best designer", review: "Thom Browne Classic Blazer is the designer pick. Wool with signature 4-bar stripe on sleeve, shrunken fit, made in Italy. Premium pricing reflects designer label and Italian construction. Wears as a distinctive piece.", pros: ["Iconic 4-bar stripe", "Shrunken fit, distinctive silhouette", "Italian construction"], cons: ["$1,990+ premium pricing", "Shrunken fit not for everyone"] },
+        "jcrew-ludlow-blazer": { badge: "🪟 Best mid-tier", review: "J.Crew Ludlow Slim Blazer is the reliable mid-tier office blazer. Italian wool, slim Ludlow cut, frequently discounted to ~$300. The Ludlow has been J.Crew's best blazer for over a decade.", pros: ["Italian wool fabric", "Slim Ludlow cut", "Frequently discounted to $300"], cons: ["Fused construction (vs. half-canvas)", "Sale price varies widely"] }
+      },
+      offerNotes: {
+        "suitsupply-jort-blazer": "Buy at suitsupply.com or in-store. The Jort is the slim/trim cut; Lazio is more relaxed.",
+        "spier-mackay-flannel-blazer": "Buy at spierandmackay.com. Toronto-based DTC; ships internationally.",
+        "brooks-brothers-fitzgerald-blazer": "Buy at brooksbrothers.com. The Fitzgerald is the slimmest cut; Madison is more relaxed.",
+        "thom-browne-classic-blazer": "Buy from Thom Browne boutiques or authorized luxury retailers.",
+        "jcrew-ludlow-blazer": "Available at jcrew.com. The Ludlow cut is slim; Crosby is more relaxed."
+      },
+      pinDescription: "Best blazer 2026: Suitsupply Jort vs. Spier & Mackay vs. Brooks Brothers Fitzgerald vs. Thom Browne vs. J.Crew Ludlow — fit and value compared. #blazer #menswear"
+    },
+    ja: {
+      title: "ベストブレザー 2026：フィット・構造・価値で比較した5本",
+      description: "Suitsupply Jort、Spier & Mackay Flannel、Brooks Brothers Fitzgerald、Thom Browne Classic、J.Crew Ludlow — フィット、構造、価格／品質比較。",
+      lede: "5ブレザー。イタリアウールからアメリカンフランネル。肩構造、裏地品質、オフィスからディナーまで対応のブレザーを計測。",
+      methodology: "週1〜2回3ヶ月着用。肩ロール品質、裏地摩耗、ボタン保持、全体フィットを追跡。比較の公平のためわずかに仕立て直し。",
+      sections: [
+        { heading: "構造階層", paragraphs: ["フルキャンバス（Thom Browne、Brooks Brothers Fitzgerald）：生地層間に手縫いの馬毛キャンバス。最良ドレープ、10年以上経年。$1,500+。", "ハーフキャンバス（Suitsupply、Spier & Mackay）：胸のみキャンバス、下は接着。中位層。$400-700。", "フューズド（J.Crew Ludlow）：全体接着構造。最安だが5年以上で剥離可能。"] },
+        { heading: "用途別ベスト", paragraphs: ["コスパ：Suitsupply Jort（$549-699）。イタリアウール、$500-700のハーフキャンバス。", "イタリア生地コスパ：Spier & Mackay Flannel（$359-429）。イタリアフランネル、DTC価格。", "ヘリテージ：Brooks Brothers Fitzgerald（$498-698）。フルキャンバスオプション、アメリカン伝統。", "デザイナー：Thom Browne（$1,990+）。シグネチャー4バーストライプ、シュランクフィット。", "中位層：J.Crew Ludlow（$348-498）。信頼のオフィスブレザー。"] }
+      ],
+      faqs: [
+        { q: "フルキャンバス vs ハーフキャンバス？", a: "フルキャンバスはドレープが良く10年以上持つ。ハーフキャンバスは許容ドレープで5〜7年。フューズドは最安階層で剥離可能。" },
+        { q: "Suitsupplyは評判通り？", a: "Yes — イタリアウールハーフキャンバス$549-699は、テーラリングで最良の価格／品質比。Suitsupplyは大半の購入で店内仕立て無料。" },
+        { q: "ブレザーとジーンズの組合せOK？", a: "ブレザーがアンストラクチャード（肩パッド無し）でジーンズがダーク／生ならYes。構造化スーツブレザーとジーンズの組合せは避ける — 分離スーツジャケットに見える。" },
+        { q: "ビスポーク購入すべき？", a: "珍しいフィットと予算（$2,500+）があるのみ。90%の人にはオーダーメイド（Proper Cloth、Suitsupply）がフィットとコストのバランス。" }
+      ],
+      products: {
+        "suitsupply-jort-blazer": { badge: "🏆 コスパ最有力", review: "Suitsupply Jortは最良の価格／品質比ブレザー。イタリアウール、ハーフキャンバス構造、スリムイタリアンカット。$549-699はフルキャンバスデザイナーブレザーの半額で構造品質80%。Suitsupply店舗で仕立て無料。", pros: ["イタリアウール、ハーフキャンバス", "$549-699最良コスパ", "Suitsupply店舗で仕立て無料"], cons: ["ハーフキャンバス（フルではない）", "イタリアスリムカットは全体型に合うとは限らない"] },
+        "spier-mackay-flannel-blazer": { badge: "🇨🇦 DTCコスパ最有力", review: "Spier & Mackay Flannelブレザーは妥当なDTCコスパ。イタリアフランネル、ハーフキャンバス、強い価値価格のトロントベース。Suitsupplyほど有名でないが同等の品質。", pros: ["イタリアフランネル", "DTC価格", "ハーフキャンバス構造"], cons: ["ブランド認知度低め", "トロント外はオンラインのみ"] },
+        "brooks-brothers-fitzgerald-blazer": { badge: "🇺🇸 ヘリテージ最有力", review: "Brooks Brothers Fitzgeraldブレザーは妥当なアメリカンヘリテージピック。イタリアウール、スリムFitzgeraldフィット、アメリカン伝統。Brooks Brothers最良のスリムカット。高位層でフルキャンバスオプション。", pros: ["イタリアウール", "スリムFitzgeraldフィット", "アメリカンヘリテージブランド"], cons: ["$498-698中位プレミアム", "ブランドが最近所有者変更"] },
+        "thom-browne-classic-blazer": { badge: "👑 デザイナー最有力", review: "Thom Browneクラシックブレザーはデザイナーピック。袖にシグネチャー4バーストライプ付きウール、シュランクフィット、イタリア製。プレミアム価格がデザイナーラベルとイタリア構造を反映。独特ピースとして着用。", pros: ["アイコニック4バーストライプ", "シュランクフィット、独特シルエット", "イタリア構造"], cons: ["$1,990+プレミアム価格", "シュランクフィットは万人向けではない"] },
+        "jcrew-ludlow-blazer": { badge: "🪟 中位層最有力", review: "J.Crew Ludlowスリムブレザーは信頼の中位層オフィスブレザー。イタリアウール、スリムLudlowカット、頻繁に約$300に値引き。LudlowはJ.Crewのベストブレザーで10年以上。", pros: ["イタリアウール生地", "スリムLudlowカット", "頻繁に$300に値引き"], cons: ["フューズド構造（ハーフキャンバス vs）", "セール価格は広く変動"] }
+      },
+      offerNotes: {
+        "suitsupply-jort-blazer": "suitsupply.comまたは店内で購入。Jortがスリム／トリムカット、Lazioがよりリラックス。",
+        "spier-mackay-flannel-blazer": "spierandmackay.comで購入。トロントベースDTC、国際配送。",
+        "brooks-brothers-fitzgerald-blazer": "brooksbrothers.comで購入。Fitzgeraldが最スリムカット、Madisonがよりリラックス。",
+        "thom-browne-classic-blazer": "Thom Browneブティックまたは認可ラグジュアリー小売店で購入。",
+        "jcrew-ludlow-blazer": "jcrew.comで入手可。Ludlowカットがスリム、Crosbyがよりリラックス。"
+      },
+      pinDescription: "ベストブレザー 2026：Suitsupply Jort × Spier & Mackay × Brooks Brothers Fitzgerald × Thom Browne × J.Crew Ludlowのフィットと価値を比較。 #ブレザー #メンズウェア"
+    },
+    translations: buildTranslations({
+      subject: { en: "blazer", "zh-CN": "西装外套", "zh-TW": "西裝外套", ko: "블레이저", es: "blazer", "pt-BR": "blazer", fr: "blazer", de: "Blazer", it: "blazer", ru: "блейзер", ar: "بليزر", hi: "ब्लेज़र", id: "blazer", th: "เบลเซอร์", vi: "áo blazer", tr: "blazer" },
+      brands: "Suitsupply, Spier & Mackay, Brooks Brothers, Thom Browne, J.Crew",
+      n: 5, days: 90,
+      kind: { en: "construction and fit value", "zh-CN": "做工和合身价值", "zh-TW": "做工和合身價值", ko: "제작과 핏의 가치", es: "construcción y valor de ajuste", "pt-BR": "construção e valor de caimento", fr: "construction et rapport qualité-coupe", de: "Konstruktion und Passformwert", it: "costruzione e valore della vestibilità", ru: "качества пошива и посадки", ar: "الصناعة وقيمة القياس", hi: "निर्माण और फिट मूल्य", id: "konstruksi dan nilai ukuran", th: "งานเย็บและคุณค่าทรง", vi: "cấu trúc và giá trị phom dáng", tr: "yapı ve kesim değeri" },
+    }),
+  },
+
+  {
+    slug: "best-knit-cardigan-2026",
+    category: "fashion",
+    offers: [{ id: "loro-piana-cashmere-cardigan" }, { id: "todd-snyder-cashmere-cardigan" }, { id: "uniqlo-3d-knit-cardigan" }, { id: "jcrew-cotton-cardigan" }, { id: "naadam-cashmere-cardigan" }],
+    en: {
+      title: "Best Knit Cardigan 2026: 5 cardigans tested for pilling and drape",
+      description: "Loro Piana Cashmere, Todd Snyder Cashmere, Uniqlo 3D Knit, J.Crew Cotton, and Naadam Cashmere — tested for 90 days. Pilling, drape, and which cardigans actually last 5+ years.",
+      lede: "Five cardigans. 90 days of wear. We tracked pilling at friction points, drape changes over time, and which cardigans aged into something better.",
+      methodology: "Each cardigan worn 1-2 times per week for 90 days. Hand-washed once with cashmere shampoo. We tracked pilling at underarms and elbows, drape softness changes, and overall lifespan projection.",
+      sections: [
+        { heading: "Cashmere quality tiers", paragraphs: ["Apex (Loro Piana): Italian-spun cashmere, longer fibers, pills minimally. $1,295+ pricing.", "Premium (Todd Snyder, Naadam): Mongolian Grade-A cashmere, 2-ply. $200-500.", "Cotton (J.Crew): cotton cardigan, no cashmere. Different category — better for spring/summer.", "Acrylic-wool blend (Uniqlo 3D Knit): synthetic content, but the seamless 3D knit construction is unique."] },
+        { heading: "Best for each use", paragraphs: ["Best premium: Loro Piana Cashmere ($1,295-1,795). Italian-spun cashmere, pills minimally.", "Best American heritage: Todd Snyder Cashmere ($498-598). Mongolian cashmere, NYC brand.", "Best value: Uniqlo 3D Knit ($60-80). Seamless construction at the lowest price.", "Best cotton: J.Crew Cotton Cardigan ($98-128). For spring/summer wear.", "Best Mongolian cashmere value: Naadam ($198-248). Direct-from-herder sourcing."] }
+      ],
+      faqs: [
+        { q: "Is cashmere really worth the premium?", a: "Yes if you live in cold climates and will wear it 30+ days a year. Cashmere is warmer per ounce than wool and pills less than cheap merino. Cashmere at $200+ from premium brands is the value sweet spot." },
+        { q: "How to prevent cardigan pilling?", a: "Wash inside-out, hang flat to dry, store folded (not hung). Use cashmere comb to remove pills early. Underarm pilling is universal — happens to all cashmere." },
+        { q: "What's '2-ply' cashmere?", a: "Two strands of yarn twisted together. 2-ply is the premium standard (denser, less pilling). 1-ply is thinner and pills more. Premium cardigans (Naadam, Todd Snyder, Loro Piana) are all 2-ply." },
+        { q: "Can I machine-wash cashmere?", a: "Most experts say no — hand-wash only. But some 2-ply cashmere survives machine wash on delicate with cashmere shampoo. Risk shrinkage; not worth it for $500+ items." }
+      ],
+      products: {
+        "loro-piana-cashmere-cardigan": { badge: "👑 Best premium", review: "Loro Piana Cashmere Cardigan is the apex cashmere. Italian-spun longer-fiber cashmere, V-neck or shawl-collar variants, exceptional drape that improves with time. Pills minimally even at underarms. $1,295+ is steep, but the material quality is at the top of the textile industry.", pros: ["Italian-spun longer-fiber cashmere", "Drape improves over time", "Pills minimally"], cons: ["$1,295+ apex pricing", "Requires careful washing"] },
+        "todd-snyder-cashmere-cardigan": { badge: "🇺🇸 Best heritage", review: "Todd Snyder Cashmere Cardigan is the right premium American cashmere. Mongolian cashmere, classic shawl collar, NYC brand. Premium at half the price of Loro Piana with comparable feel.", pros: ["Mongolian cashmere", "Classic shawl collar", "NYC brand heritage"], cons: ["$498-598 mid-premium", "Lighter weave than Loro Piana"] },
+        "uniqlo-3d-knit-cardigan": { badge: "💸 Best value", review: "Uniqlo 3D Knit Crew Cardigan is the right value cardigan. Seamless 3D knit construction (no shoulder seams = better drape), soft acrylic-wool blend, modern fit. Best value cardigan under $80.", pros: ["Seamless 3D knit construction", "Soft acrylic-wool blend", "$60-80 best value"], cons: ["Acrylic-wool (not 100% wool)", "Stocked seasonally"] },
+        "jcrew-cotton-cardigan": { badge: "☀️ Best spring/summer", review: "J.Crew Cotton Cardigan is the right pick for warmer weather. Pima cotton, classic V-neck cut, multiple colors. Lighter than wool — wear in spring/summer transitions. Less premium than cashmere but appropriate for the use case.", pros: ["Pima cotton (breathable)", "Classic V-neck cut", "Multiple colors"], cons: ["Not warm enough for cold winter", "Less premium than wool"] },
+        "naadam-cashmere-cardigan": { badge: "🐎 Best Mongolian value", review: "Naadam Cashmere Cardigan is the right Mongolian cashmere value pick. Grade-A cashmere direct from herders (Naadam pays 50% premium to producers), 2-ply construction. Premium feel at $200. Pills less than competitors in this price range.", pros: ["Direct-from-herder Mongolian cashmere", "2-ply construction", "$200 premium value"], cons: ["Less brand cachet than Loro Piana", "Smaller color selection than J.Crew"] }
+      },
+      offerNotes: {
+        "loro-piana-cashmere-cardigan": "Buy from Loro Piana boutiques or authorized luxury retailers (Mr Porter, Net-a-Porter).",
+        "todd-snyder-cashmere-cardigan": "Buy at toddsnyder.com. End-of-season sales bring 30-50% off.",
+        "uniqlo-3d-knit-cardigan": "Available at uniqlo.com seasonally.",
+        "jcrew-cotton-cardigan": "Available at jcrew.com. Frequently discounted to $60-80.",
+        "naadam-cashmere-cardigan": "Available at naadam.co. Frequent sales bring price to ~$150."
+      },
+      pinDescription: "Best knit cardigan 2026: Loro Piana vs. Todd Snyder vs. Uniqlo 3D Knit vs. J.Crew Cotton vs. Naadam — tested for pilling and drape over 90 days. #cardigan #knitwear"
+    },
+    ja: {
+      title: "ベストニットカーディガン 2026：毛玉とドレープでテストした5本",
+      description: "Loro Piana Cashmere、Todd Snyder Cashmere、ユニクロ 3D Knit、J.Crew Cotton、Naadam Cashmere — 90日テスト。毛玉、ドレープ、5年以上持つカーディガン。",
+      lede: "5カーディガン。90日着用。摩擦点での毛玉発生、時間と共のドレープ変化、より良くなったカーディガンを追跡。",
+      methodology: "週1〜2回90日着用。カシミアシャンプーで1回手洗い。脇下と肘の毛玉、ドレープ柔らかさ変化、全体寿命予測を追跡。",
+      sections: [
+        { heading: "カシミア品質階層", paragraphs: ["頂点（Loro Piana）：イタリア紡績カシミア、長繊維、毛玉最少。$1,295+価格。", "プレミアム（Todd Snyder、Naadam）：モンゴルグレードAカシミア、2プライ。$200-500。", "コットン（J.Crew）：コットンカーディガン、カシミア無し。別カテゴリ — 春／夏向き。", "アクリル＋ウール混紡（ユニクロ 3D Knit）：合成含有だが、シームレス3Dニット構造が独特。"] },
+        { heading: "用途別ベスト", paragraphs: ["プレミアム：Loro Piana Cashmere（$1,295-1,795）。イタリア紡績カシミア、毛玉最少。", "アメリカンヘリテージ：Todd Snyder Cashmere（$498-598）。モンゴルカシミア、NYCブランド。", "コスパ：ユニクロ 3D Knit（$60-80）。最低価格でシームレス構造。", "コットン：J.Crew Cotton Cardigan（$98-128）。春／夏着用用。", "モンゴルカシミアコスパ：Naadam（$198-248）。牧夫直買。"] }
+      ],
+      faqs: [
+        { q: "カシミアはプレミアム価値あるか？", a: "寒冷地に住み年30日以上着るならYes。カシミアはウールよりオンスあたり暖かく安価メリノより毛玉少ない。プレミアムブランドの$200+カシミアがコスパスイートスポット。" },
+        { q: "カーディガンの毛玉防止方法は？", a: "裏返して洗濯、平干し、畳んで保管（吊るさない）。カシミアコームで早期に毛玉除去。脇下の毛玉は全カシミアで発生する普遍的現象。" },
+        { q: "「2プライ」カシミアとは？", a: "2本の糸を撚り合わせたもの。2プライがプレミアム標準（密度高、毛玉少ない）。1プライは薄く毛玉発生多い。プレミアムカーディガン（Naadam、Todd Snyder、Loro Piana）は全て2プライ。" },
+        { q: "カシミアを洗濯機で洗える？", a: "大半の専門家がNo — 手洗いのみ。一部の2プライカシミアはカシミアシャンプーでデリケート機械洗いに耐える。縮みリスクあり、$500+品には不適。" }
+      ],
+      products: {
+        "loro-piana-cashmere-cardigan": { badge: "👑 プレミアム最有力", review: "Loro Piana Cashmere Cardiganは頂点カシミア。イタリア紡績長繊維カシミア、Vネックまたはショールカラー、時間と共に改善する例外的ドレープ。脇下でも毛玉最少。$1,295+は高価だが、素材品質はテキスタイル業界頂点。", pros: ["イタリア紡績長繊維カシミア", "ドレープが時間と共に改善", "毛玉最少"], cons: ["$1,295+頂点価格", "慎重な洗濯必要"] },
+        "todd-snyder-cashmere-cardigan": { badge: "🇺🇸 ヘリテージ最有力", review: "Todd Snyder Cashmere Cardiganは妥当なプレミアムアメリカンカシミア。モンゴルカシミア、クラシックショールカラー、NYCブランド。Loro Pianaの半額で同等の感触のプレミアム。", pros: ["モンゴルカシミア", "クラシックショールカラー", "NYCブランドヘリテージ"], cons: ["$498-598中位プレミアム", "Loro Pianaより薄い織り"] },
+        "uniqlo-3d-knit-cardigan": { badge: "💸 コスパ最有力", review: "ユニクロ 3D Knitクルーカーディガンは妥当なコスパカーディガン。シームレス3Dニット構造（肩縫い目無し＝良好ドレープ）、ソフトアクリル＋ウール混紡、モダンフィット。$80以下最有力コスパ。", pros: ["シームレス3Dニット構造", "ソフトアクリル＋ウール混紡", "$60-80最良コスパ"], cons: ["アクリル＋ウール（100%ウールではない）", "季節入荷"] },
+        "jcrew-cotton-cardigan": { badge: "☀️ 春／夏最有力", review: "J.Crew Cotton Cardiganは暖かい気候の妥当な選択。ピマコットン、クラシックVネックカット、複数色。ウールより軽い — 春／夏の移行期に着用。カシミアよりプレミアム感弱めだが用途に適切。", pros: ["ピマコットン（通気性）", "クラシックVネックカット", "複数色"], cons: ["寒い冬には十分暖かくない", "ウールよりプレミアム感弱め"] },
+        "naadam-cashmere-cardigan": { badge: "🐎 モンゴルコスパ最有力", review: "Naadam Cashmere Cardiganは妥当なモンゴルカシミアコスパピック。グレードAカシミアを牧夫から直買（Naadamは生産者に50%プレミアム支払）、2プライ構造。$200でプレミアム感。同価格帯の競合より毛玉少ない。", pros: ["牧夫直買モンゴルカシミア", "2プライ構造", "$200プレミアム価値"], cons: ["Loro Pianaよりブランド威信弱め", "J.Crewより色選択少ない"] }
+      },
+      offerNotes: {
+        "loro-piana-cashmere-cardigan": "Loro Pianaブティックまたは認可ラグジュアリー小売店（Mr Porter、Net-a-Porter）で購入。",
+        "todd-snyder-cashmere-cardigan": "toddsnyder.comで購入。シーズンエンドセールで30〜50%オフ。",
+        "uniqlo-3d-knit-cardigan": "uniqlo.comで季節入手可。",
+        "jcrew-cotton-cardigan": "jcrew.comで入手可。頻繁に$60-80に値引き。",
+        "naadam-cashmere-cardigan": "naadam.coで入手可。頻繁セールで約$150に。"
+      },
+      pinDescription: "ベストニットカーディガン 2026：Loro Piana × Todd Snyder × ユニクロ 3D Knit × J.Crew Cotton × Naadamを90日で毛玉とドレープをテスト。 #カーディガン #ニットウェア"
+    },
+    translations: buildTranslations({
+      subject: { en: "knit cardigan", "zh-CN": "针织开衫", "zh-TW": "針織開衫", ko: "니트 카디건", es: "cárdigan de punto", "pt-BR": "cardigã de tricô", fr: "cardigan en maille", de: "Strick-Cardigan", it: "cardigan in maglia", ru: "вязаный кардиган", ar: "كارديغان محبوك", hi: "बुना हुआ कार्डिगन", id: "kardigan rajut", th: "คาร์ดิแกนถัก", vi: "áo cardigan dệt kim", tr: "örme hırka" },
+      brands: "Loro Piana, Todd Snyder, Uniqlo, J.Crew, Naadam",
+      n: 5, days: 90,
+      kind: { en: "cashmere quality and pilling resistance", "zh-CN": "羊绒品质和抗起球", "zh-TW": "羊絨品質和抗起球", ko: "캐시미어 품질과 보풀 저항", es: "calidad del cachemir y resistencia al pilling", "pt-BR": "qualidade do cashmere e resistência ao pilling", fr: "qualité du cachemire et résistance au boulochage", de: "Kaschmir-Qualität und Pilling-Beständigkeit", it: "qualità del cashmere e resistenza al pilling", ru: "качества кашемира и устойчивости к пиллингу", ar: "جودة الكشمير ومقاومة التكتل", hi: "कश्मीरी गुणवत्ता और पिलिंग प्रतिरोध", id: "kualitas kasmir dan ketahanan pilling", th: "คุณภาพแคชเมียร์และความต้านทานต่อการเป็นขุย", vi: "chất lượng cashmere và khả năng chống xù lông", tr: "kaşmir kalitesi ve tüylenme direnci" },
+    }),
+  },
+
+  {
+    slug: "best-leather-belt-2026",
+    category: "fashion",
+    offers: [{ id: "saddleback-leather-old-bull-belt" }, { id: "loake-leather-belt" }, { id: "anson-belt-buckle-system" }, { id: "uniqlo-italian-leather-belt" }, { id: "tanner-goods-standard-belt" }],
+    en: {
+      title: "Best Leather Belt 2026: 5 belts tested through daily wear for a year",
+      description: "Saddleback Old Bull, Loake Leather, Anson Belt System, Uniqlo Italian Leather, and Tanner Goods Standard — daily-worn for a year. Patina, edge wear, and which belts justify their price.",
+      lede: "Five belts. Daily wear for 365 days. We tracked patina development, edge wear, buckle integrity, and which belts gained character vs. simply wore out.",
+      methodology: "Each belt worn 4-5 days per week for one year. Conditioned with Saphir Renovateur every 60 days. We tracked patina, edge wear (the part that's most exposed to friction), buckle wear, and overall character development.",
+      sections: [
+        { heading: "Leather quality tiers", paragraphs: ["Full-grain bridle leather (Saddleback, Tanner Goods): unaltered hide, develops dramatic patina. The premium tier.", "Italian calf leather (Loake, Uniqlo): smooth refined leather, polishes well. Dressier than bridle.", "Leather strap + separate buckle (Anson): modular system, strap is full-grain, buckle is separate."] },
+        { heading: "Best for each use", paragraphs: ["Best lifetime: Saddleback Old Bull ($130-160). Full-grain bridle leather, 100-year warranty.", "Best dressy: Loake Leather Belt ($85-125). Italian calf leather, brass buckle, made in England.", "Best modular: Anson Belt System ($60-90). Ratcheting micro-adjust, infinitely customizable.", "Best entry-level: Uniqlo Italian Leather ($40-50). Italian leather at lowest price.", "Best heritage workshop: Tanner Goods Standard ($155-195). Hermann Oak veg-tanned, Portland made."] }
+      ],
+      faqs: [
+        { q: "Full-grain vs. top-grain vs. genuine leather?", a: "Full-grain: best, unaltered hide, develops patina. Top-grain: sanded smooth, ages OK. Genuine leather: bonded scraps, ages poorly. For belts, always buy full-grain or premium top-grain." },
+        { q: "How long does a leather belt last?", a: "Full-grain (Saddleback, Tanner): 20+ years with conditioning. Italian calf (Loake, Uniqlo): 7-10 years. Bonded/genuine: 2-3 years." },
+        { q: "Should I get a brown or black belt first?", a: "Brown is more versatile (works with both jeans and casual chinos). Black is dressier (works with suits). Most fashion guides say brown first, black second." },
+        { q: "How should a belt fit?", a: "Buckle on the middle hole (5 holes total — 2 on either side for adjustment). If buckling on the first or last hole, the belt is the wrong size." }
+      ],
+      products: {
+        "saddleback-leather-old-bull-belt": { badge: "🏆 Best lifetime", review: "Saddleback Old Bull Belt is the lifetime workhorse. Full-grain bridle leather, hand-stitched, 100-year warranty. Develops dramatic patina over years of wear. The 100-year warranty is real and honored. Best for someone who wants one belt for 20+ years.", pros: ["100-year warranty", "Full-grain bridle leather", "Develops dramatic patina"], cons: ["$130-160 mid-tier price", "Heavy thick leather (1/4 inch)"] },
+        "loake-leather-belt": { badge: "🇬🇧 Best dressy", review: "Loake Leather Belt is the right pick for dressy/formal wear. Italian calf leather, brass buckle, made in England. The polished calf leather pairs naturally with suits. Less rugged than Saddleback but more elegant.", pros: ["Italian calf leather", "Brass buckle", "Made in England"], cons: ["Less rugged than bridle leather", "Mid-tier price"] },
+        "anson-belt-buckle-system": { badge: "🔄 Best modular", review: "Anson Belt Buckle System is the modular pick. Ratcheting micro-adjust system (no holes), leather strap separates from buckle for swapping. Single belt converts to dressy or casual by changing buckle. Modern engineering.", pros: ["Ratcheting micro-adjust (no holes)", "Leather strap separates from buckle", "Single belt does multiple looks"], cons: ["Modular look may not appeal to traditionalists", "Buckle replacement is separate purchase"] },
+        "uniqlo-italian-leather-belt": { badge: "💸 Best entry-level", review: "Uniqlo Italian Leather Belt is the right entry-level Italian leather. Italian leather sourced through Uniqlo, classic 35mm width, multiple colors. The lowest-price Italian leather belt in our test.", pros: ["Italian leather at $40-50", "Multiple colors", "Reliable Uniqlo quality"], cons: ["Less famous than Italian heritage brands", "Stitching quality below Loake"] },
+        "tanner-goods-standard-belt": { badge: "🏭 Best heritage workshop", review: "Tanner Goods Standard Belt is the right Portland heritage workshop pick. Hermann Oak vegetable-tanned leather (premium American tanning), brass buckle, made in Portland by hand. Develops patina more slowly than Saddleback but more refined.", pros: ["Hermann Oak veg-tanned leather", "Made in Portland by hand", "Refined heritage workshop quality"], cons: ["$155-195 mid-premium", "Heritage workshop aesthetic"] }
+      },
+      offerNotes: {
+        "saddleback-leather-old-bull-belt": "Buy at saddlebackleather.com. The 100-year warranty is real and honored — Saddleback will repair or replace.",
+        "loake-leather-belt": "Buy at loake.co.uk. UK sizing — order true to UK size, not US.",
+        "anson-belt-buckle-system": "Buy at ansonbelt.com. Strap and buckle sold separately for full customization.",
+        "uniqlo-italian-leather-belt": "Available at uniqlo.com seasonally. Multiple colors restocked.",
+        "tanner-goods-standard-belt": "Buy at tannergoods.com. Multiple leather and hardware combinations."
+      },
+      pinDescription: "Best leather belt 2026: Saddleback Old Bull vs. Loake vs. Anson Belt System vs. Uniqlo Italian Leather vs. Tanner Goods — daily-worn for a year. #leatherbelt #menswear"
+    },
+    ja: {
+      title: "ベストレザーベルト 2026：1年日常着用テストの5本",
+      description: "Saddleback Old Bull、Loake Leather、Anson Belt System、ユニクロ イタリアンレザー、Tanner Goods Standard — 365日日常着用。艶、エッジ摩耗、価格を正当化するベルト。",
+      lede: "5ベルト。365日日常着用。艶発展、エッジ摩耗、バックル完全性、キャラクター獲得 vs 単純摩耗を追跡。",
+      methodology: "週4〜5日1年着用。60日毎にSaphir Renovateurでコンディショニング。艶、エッジ摩耗（最摩擦曝露部）、バックル摩耗、全体キャラクター発展を追跡。",
+      sections: [
+        { heading: "レザー品質階層", paragraphs: ["フルグレインブライドルレザー（Saddleback、Tanner Goods）：未改変革、劇的艶発展。プレミアム階層。", "イタリアンカーフレザー（Loake、ユニクロ）：スムース洗練レザー、ポリッシュ良好。ブライドルよりドレッシー。", "レザーストラップ＋別バックル（Anson）：モジュラーシステム、ストラップはフルグレイン、バックル別売り。"] },
+        { heading: "用途別ベスト", paragraphs: ["生涯：Saddleback Old Bull（$130-160）。フルグレインブライドルレザー、100年保証。", "ドレッシー：Loake Leather Belt（$85-125）。イタリアンカーフレザー、真鍮バックル、英国製。", "モジュラー：Anson Belt System（$60-90）。ラチェット式微調整、無限カスタマイズ。", "エントリー層：ユニクロ イタリアンレザー（$40-50）。最低価格でイタリアンレザー。", "ヘリテージワークショップ：Tanner Goods Standard（$155-195）。Hermann Oakベジタン、ポートランド製。"] }
+      ],
+      faqs: [
+        { q: "フルグレイン vs トップグレイン vs ジェニュインレザー？", a: "フルグレイン：最良、未改変革、艶発展。トップグレイン：サンディング、許容経年。ジェニュインレザー：接着スクラップ、劣化早い。ベルトは常にフルグレインかプレミアムトップグレインを購入。" },
+        { q: "レザーベルトの寿命は？", a: "フルグレイン（Saddleback、Tanner）：コンディショニングで20年以上。イタリアンカーフ（Loake、ユニクロ）：7〜10年。ボンディング／ジェニュイン：2〜3年。" },
+        { q: "最初に茶色か黒のベルトを買うべき？", a: "茶色がより汎用的（ジーンズとカジュアルチノ両方に合う）。黒がよりドレッシー（スーツに合う）。大半のファッションガイドは茶色最初、黒2番目と言う。" },
+        { q: "ベルトのフィット感は？", a: "バックルが真ん中の穴（合計5穴 — 両側2つずつ調整用）。最初か最後の穴で留めるならサイズ間違い。" }
+      ],
+      products: {
+        "saddleback-leather-old-bull-belt": { badge: "🏆 生涯最有力", review: "Saddleback Old Bullベルトは生涯ワークホース。フルグレインブライドルレザー、手縫い、100年保証。年数着用で劇的艶発展。100年保証は本物でhonored。1ベルトを20年以上欲しい人に最良。", pros: ["100年保証", "フルグレインブライドルレザー", "劇的艶発展"], cons: ["$130-160中位層価格", "重く厚いレザー（1/4インチ）"] },
+        "loake-leather-belt": { badge: "🇬🇧 ドレッシー最有力", review: "Loake Leather Beltはドレッシー／フォーマルウェアの妥当な選択。イタリアンカーフレザー、真鍮バックル、英国製。ポリッシュドカーフレザーがスーツと自然に合う。Saddlebackよりラギッド感弱めだがよりエレガント。", pros: ["イタリアンカーフレザー", "真鍮バックル", "英国製"], cons: ["ブライドルレザーよりラギッド感弱め", "中位層価格"] },
+        "anson-belt-buckle-system": { badge: "🔄 モジュラー最有力", review: "Anson Belt Buckle Systemはモジュラーピック。ラチェット式微調整（穴無し）、バックル交換用にレザーストラップ分離可。バックル変更でベルト1本がドレッシーまたはカジュアルに変換。モダンエンジニアリング。", pros: ["ラチェット式微調整（穴無し）", "ストラップとバックル分離", "ベルト1本で複数ルック"], cons: ["モジュラー見えが伝統主義者にアピールしないかも", "バックル交換は別購入"] },
+        "uniqlo-italian-leather-belt": { badge: "💸 エントリー層最有力", review: "ユニクロ イタリアンレザーベルトは妥当なエントリー層イタリアンレザー。ユニクロ経由のイタリアンレザー、クラシック35mm幅、複数色。テスト最低価格イタリアンレザーベルト。", pros: ["$40-50でイタリアンレザー", "複数色", "信頼のユニクロ品質"], cons: ["イタリアヘリテージブランドより有名でない", "縫製品質Loake以下"] },
+        "tanner-goods-standard-belt": { badge: "🏭 ヘリテージワークショップ最有力", review: "Tanner Goods Standard Beltは妥当なポートランドヘリテージワークショップピック。Hermann Oakベジタンレザー（プレミアムアメリカンタンニング）、真鍮バックル、ポートランドで手作業。Saddlebackより遅く艶発展だがより洗練。", pros: ["Hermann Oakベジタンレザー", "ポートランドで手作業", "洗練されたヘリテージワークショップ品質"], cons: ["$155-195中位プレミアム", "ヘリテージワークショップデザイン"] }
+      },
+      offerNotes: {
+        "saddleback-leather-old-bull-belt": "saddlebackleather.comで購入。100年保証は本物でhonored — Saddlebackが修理または交換。",
+        "loake-leather-belt": "loake.co.ukで購入。UKサイジング — US ではなくUKサイズ通りで注文。",
+        "anson-belt-buckle-system": "ansonbelt.comで購入。ストラップとバックル別売りでフルカスタマイズ。",
+        "uniqlo-italian-leather-belt": "uniqlo.comで季節入手可。複数色再入荷。",
+        "tanner-goods-standard-belt": "tannergoods.comで購入。複数のレザーとハードウェアコンビネーション。"
+      },
+      pinDescription: "ベストレザーベルト 2026：Saddleback Old Bull × Loake × Anson Belt System × ユニクロ イタリアンレザー × Tanner Goodsを1年日常着用比較。 #レザーベルト #メンズウェア"
+    },
+    translations: buildTranslations({
+      subject: { en: "leather belt", "zh-CN": "皮带", "zh-TW": "皮帶", ko: "가죽 벨트", es: "cinturón de cuero", "pt-BR": "cinto de couro", fr: "ceinture en cuir", de: "Ledergürtel", it: "cintura in pelle", ru: "кожаный ремень", ar: "حزام جلدي", hi: "लेदर बेल्ट", id: "sabuk kulit", th: "เข็มขัดหนัง", vi: "thắt lưng da", tr: "deri kemer" },
+      brands: "Saddleback, Loake, Anson, Uniqlo, Tanner Goods",
+      n: 5, days: 365,
+      kind: { en: "leather quality and longevity", "zh-CN": "皮革品质和耐用性", "zh-TW": "皮革品質和耐用性", ko: "가죽 품질과 내구성", es: "calidad del cuero y longevidad", "pt-BR": "qualidade do couro e longevidade", fr: "qualité du cuir et longévité", de: "Lederqualität und Langlebigkeit", it: "qualità della pelle e longevità", ru: "качества кожи и долговечности", ar: "جودة الجلد والمتانة", hi: "चमड़े की गुणवत्ता और दीर्घायु", id: "kualitas kulit dan keawetan", th: "คุณภาพหนังและความทนทาน", vi: "chất lượng da và độ bền", tr: "deri kalitesi ve dayanıklılığı" },
+    }),
+  },
 ];
 

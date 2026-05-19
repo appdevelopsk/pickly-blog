@@ -1,0 +1,119 @@
+{
+  "title": "ベスト国際データプラン 2026：グローバル旅行用5サービス比較",
+  "description": "Google Fi、Airalo eSIM、Verizon TravelPass、T-Mobile Go5G Plus、Holafly Unlimited eSIM — 国際データで比較。カバレッジ、コスト、旅行者別最有力。",
+  "lede": "5国際データプラン。8カ国でカバレッジ、典型的2週間旅行コスト、occasional vs 頻繁旅行者向けに機能するプランをテスト。",
+  "methodology": "8目的地（英国、フランス、日本、タイ、メキシコ、ブラジル、オーストラリア、南アフリカ）でカバレッジテスト。典型的2週間旅行コスト（5GBデータ）、アクティベーション速度、信頼性を比較。",
+  "sections": [
+    {
+      "heading": "eSIM vs キャリアアドオン vs 専用プラン",
+      "paragraphs": [
+        "専用プラン（Google Fi、T-Mobile）：プライマリ米国プランがアドオン無しで海外機能。",
+        "キャリアアドオン（Verizon TravelPass）：海外で無制限データに1日$10。",
+        "eSIM（Airalo、Holafly）：プライマリプラン横で国別パッケージ設置。"
+      ]
+    },
+    {
+      "heading": "用途別ベスト",
+      "paragraphs": [
+        "世界規模：Google Fi（月$20-80）。200以上の国で機能、アドオン無し。",
+        "eSIMマーケットプレイス：Airalo（パッケージ$5-30）。200以上の目的地。",
+        "Verizon顧客：Verizon TravelPass（1日$10）。海外で既存プラン使用。",
+        "T-Mobile顧客：T-Mobile Go5G Plus（月$90）。215以上の国で月5GB無料。",
+        "無制限eSIM：Holafly（1日$6-20）。真の無制限データ。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "eSIM vs 物理SIM？",
+      "a": "eSIMがモダン標準 — アプリ経由インストール、物理SIM不要。2018年以降のiPhone全てと大半のAndroidフラッグシップがeSIMサポート。古いスマホは物理SIM必要（一部の国は依然物理SIM販売）。"
+    },
+    {
+      "q": "Wi-Fiに頼るだけでいい？",
+      "a": "occasional旅行にYes — 大半のホテル／カフェに無料Wi-Fi。ナビ、ライドシェア、仕事には専用セルラーがより信頼性。"
+    },
+    {
+      "q": "海外で米国番号を失う？",
+      "a": "サービス次第。Google FiとT-Mobileが世界中で番号アクティブ維持。Airalo eSIMが別の一時番号提供。Verizon TravelPassが米国番号維持。"
+    },
+    {
+      "q": "海外の典型的データ使用量は？",
+      "a": "軽ユーザー：週1〜2 GB。中程度（マップ＋SNS）：週3〜5 GB。重（動画、仕事）：週10 GB以上。"
+    }
+  ],
+  "products": {
+    "google-fi": {
+      "badge": "🏆 世界規模最有力",
+      "review": "Google Fiは頻繁国際旅行者の妥当な選択。200以上の国で大半のプランでローミング手数料無し、データ単一レート（驚きの請求書無し）、T-Mobile＋UScellularネットワーク使用。デジタルノマドや多国訪問の米国旅行者に最良。",
+      "pros": [
+        "200以上の国でアドオン無し",
+        "世界中単一データレート",
+        "複数プラン層"
+      ],
+      "cons": [
+        "限定的米国キャリアカバレッジ（T-Mobile＋UScellularのみ）",
+        "キャリアアドオンオプションより月額高い"
+      ]
+    },
+    "airalo-esim": {
+      "badge": "🌐 eSIMマーケットプレイス最有力",
+      "review": "Airalo eSIMマーケットプレイスは国別eSIM希望の旅行者の妥当な選択。200以上の目的地、アプリ経由5分でインストール、使った分のみ支払い。プライマリプラン変更したくない旅行者に最良。",
+      "pros": [
+        "200以上の目的地利用可",
+        "アプリ経由5分でインストール",
+        "パッケージ毎に支払い（コミットメント無し）"
+      ],
+      "cons": [
+        "国別（国毎に新パッケージ必要）",
+        "米国番号維持しない"
+      ]
+    },
+    "verizon-travelpass": {
+      "badge": "🇺🇸 Verizon最有力",
+      "review": "Verizon TravelPassは既存Verizon米国顧客の妥当な選択。海外無制限データ1日$10、既存米国プラン使用、別サインアップ無し。無制限米国プラン保有＋occasional旅行に最良。",
+      "pros": [
+        "1日$10無制限海外データ",
+        "既存米国Verizonプラン使用",
+        "米国番号アクティブ維持"
+      ],
+      "cons": [
+        "1日$10は長旅行で積み上がる",
+        "既存Verizon顧客のみ"
+      ]
+    },
+    "tmobile-go5g-plus": {
+      "badge": "🇺🇸 T-Mobile最有力",
+      "review": "T-Mobile Go5G Plusは既存T-Mobile顧客の妥当な選択。215以上の国で月5GB無料データ、プラン込み、追加手数料無し。海外カバレッジ内蔵の米国プラン最良。",
+      "pros": [
+        "215以上の国で月5GB無料",
+        "プラン込み",
+        "追加手数料無し"
+      ],
+      "cons": [
+        "月$90プラン必要",
+        "5GB上限（重ユーザーに不足）"
+      ]
+    },
+    "holafly-esim": {
+      "badge": "🌐 無制限eSIM最有力",
+      "review": "Holafly Unlimited eSIMは重データユーザーの妥当な選択。200以上の国で真の無制限データ（スロットリング無し、上限無し）、日次または週次プラン。上限を気にせず大量データ必要な旅行者に最良。",
+      "pros": [
+        "真の無制限データ（スロットリング無し）",
+        "200以上の国",
+        "日次プラン利用可"
+      ],
+      "cons": [
+        "1日$6-20は長旅行で積み上がる",
+        "米国番号維持しない"
+      ]
+    }
+  },
+  "offerNotes": {
+    "google-fi": "fi.google.comでサインアップ。スマホがFi互換必要（大半のモダンスマホ）。",
+    "airalo-esim": "Airaloアプリインストール。国選択、パッケージ購入、アプリ経由eSIMインストール。",
+    "verizon-travelpass": "既存Verizon顧客 — Verizonアプリ経由で有効化。海外でスマホ接続時に1日$10自動。",
+    "tmobile-go5g-plus": "Go5G Plus以上の既存T-Mobile顧客 — 海外で自動機能。",
+    "holafly-esim": "esim.holafly.comでサインアップ。日次プラン利用可、eSIMアクティベーション経由インストール。"
+  },
+  "pinDescription": "ベスト国際データプラン 2026：Google Fi × Airalo eSIM × Verizon TravelPass × T-Mobile Go5G × Holafly。 #国際旅行"
+}

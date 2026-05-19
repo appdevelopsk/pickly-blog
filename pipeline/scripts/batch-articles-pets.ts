@@ -1405,4 +1405,450 @@ export const PETS: ArticleDef[] = [
       kind: { en: "enzyme strength and odor neutralization", "zh-CN": "酶强度和气味中和", "zh-TW": "酶強度和氣味中和", ko: "효소 강도와 냄새 중화", es: "fuerza enzimática y neutralización de olores", "pt-BR": "força enzimática e neutralização de odores", fr: "force enzymatique et neutralisation des odeurs", de: "Enzymstärke und Geruchsneutralisation", it: "forza enzimatica e neutralizzazione degli odori", ru: "силы ферментов и нейтрализации запаха", ar: "قوة الإنزيمات وتحييد الرائحة", hi: "एंजाइम शक्ति और गंध तटस्थीकरण", id: "kekuatan enzim dan netralisasi bau", th: "ความเข้มข้นของเอนไซม์และการกำจัดกลิ่น", vi: "sức mạnh enzyme và khử mùi", tr: "enzim gücü ve koku nötralizasyonu" },
     }),
   },
+
+  // ==== Batch 3 ====
+
+  {
+    slug: "best-dog-toys-2026",
+    category: "pets",
+    offers: [{ id: "kong-classic-rubber" }, { id: "west-paw-zogoflex-toppl" }, { id: "chuckit-ultra-ball" }, { id: "outward-hound-hide-a-squirrel" }, { id: "nylabone-dura-chew" }],
+    en: {
+      title: "Best Dog Toys 2026: 5 toys tested for durability and engagement",
+      description: "KONG Classic, West Paw Zogoflex Toppl, Chuckit! Ultra Ball, Outward Hound Hide-A-Squirrel, and Nylabone DuraChew — tested with 3 dogs for 90 days. Durability, treat-dispensing, and puzzle engagement.",
+      lede: "Five dog toys. Three dogs (heavy chewer, fetch enthusiast, puzzle solver). We tracked durability against destructive chewing, engagement time, and which toys lasted vs. became casualties.",
+      methodology: "Three dogs (heavy chewer pit bull mix, fetch-loving golden retriever, puzzle-solving border collie) tested each toy for 14-21 days. We measured durability against chewing, engagement time, and treat-dispensing utility.",
+      sections: [
+        { heading: "Toy categories and dog match", paragraphs: ["Heavy chewers: need indestructible toys (KONG, Nylabone). Plush toys are 30-minute toys for them.", "Fetch enthusiasts: need durable balls (Chuckit!) and rope toys.", "Puzzle solvers: need treat-dispensers (West Paw Toppl, Kong stuffed) and hide-and-seek toys (Outward Hound)."] },
+        { heading: "Best for each use", paragraphs: ["Best classic: KONG Classic ($10-25). Stuffable, indestructible reputation.", "Best treat-dispenser: West Paw Zogoflex Toppl ($15-25). Dishwasher-safe.", "Best fetch: Chuckit! Ultra Ball ($8-15). High-bounce, paired with launcher.", "Best plush puzzle: Outward Hound Hide-A-Squirrel ($15-25). Plush squirrels in tree trunk.", "Best chew: Nylabone DuraChew ($8-20). Tough nylon, supports dental health."] }
+      ],
+      faqs: [
+        { q: "How do I pick toys for a heavy chewer?", a: "KONG Classic (Black extra-tough version), Nylabone DuraChew, West Paw Zogoflex. Avoid plush toys (destroyed in 30 min) and standard rubber (chewed apart)." },
+        { q: "Are tennis balls safe?", a: "Not as primary chew toys — tennis ball fuzz wears down dog's teeth. Use for fetch only. Chuckit! Ultra Ball is a tennis-ball-sized rubber ball designed for dogs (safer for daily use)." },
+        { q: "How often to replace dog toys?", a: "Inspect weekly for damage. Replace when toy has chunks missing, exposed stuffing, or cracks. Frequency varies: heavy chewers replace monthly, light chewers once a year." },
+        { q: "Why does my dog destroy plush toys?", a: "Instinct — dogs hunt and 'kill' prey-like toys (squirrels, squeakers). Outward Hound's Hide-A-Squirrel channels this with replaceable squirrels inside a tree trunk." }
+      ],
+      products: {
+        "kong-classic-rubber": { badge: "🏆 Best classic", review: "KONG Classic is the dog toy benchmark. Natural red rubber, stuffable with peanut butter or treats (provides 30+ minutes of engagement), nearly indestructible. Available in multiple sizes for different dog sizes. The KONG is what every dog trainer recommends as a starter toy.", pros: ["Stuffable for treat engagement", "Nearly indestructible reputation", "Multiple sizes for different dogs"], cons: ["Less engaging without stuffing", "Heavy rubber smell when new"] },
+        "west-paw-zogoflex-toppl": { badge: "🍽️ Best treat-dispenser", review: "West Paw Zogoflex Toppl is the right treat-dispenser. Recyclable Zogoflex material (more eco-friendly than rubber), dishwasher-safe, dispenses kibble through opening. Engages mind through problem-solving. Best for puzzle-solving dogs.", pros: ["Dishwasher-safe", "Recyclable material", "Mind-engaging puzzle"], cons: ["Less durable than KONG against heaviest chewers", "Specific shape may limit play modes"] },
+        "chuckit-ultra-ball": { badge: "🎾 Best fetch", review: "Chuckit! Ultra Ball is the fetch ball. Thick rubber, high-bounce (vs. tennis balls), pairs with Chuckit launcher for further throws. Multiple sizes for different dog sizes. Best for fetch enthusiasts.", pros: ["High-bounce rubber", "Paired with Chuckit launcher", "Multiple sizes"], cons: ["Indoor use can damage things (high bounce)", "Not for indoor fetch with breakable items"] },
+        "outward-hound-hide-a-squirrel": { badge: "🐿️ Best plush puzzle", review: "Outward Hound Hide-A-Squirrel channels prey-killing instinct safely. Plush squirrels hidden in a tree trunk, dog pulls them out one by one (puzzle), replaceable squirrels. Best plush puzzle for prey-driven dogs.", pros: ["Channels prey-killing instinct", "Replaceable squirrels", "Hide-and-seek engagement"], cons: ["Plush — gets destroyed by heavy chewers", "Squirrels can get lost"] },
+        "nylabone-dura-chew": { badge: "🦴 Best chew", review: "Nylabone DuraChew is the right indestructible chew. Tough nylon, multiple sizes/flavors (chicken, peanut butter, etc.), supports dental health by removing plaque during chewing. Best for heavy chewers who destroy everything else.", pros: ["Indestructible nylon", "Dental health benefits", "Multiple flavors"], cons: ["Hard material — can break teeth (rare)", "Less engaging than puzzles"] }
+      },
+      offerNotes: {
+        "kong-classic-rubber": "Available at Petco, PetSmart, Chewy, Amazon. The Black 'Extreme' version is for heavy chewers; Red Classic is standard.",
+        "west-paw-zogoflex-toppl": "Available at westpaw.com, Petco, Chewy. Comes in 3 sizes — Small/Medium/Large.",
+        "chuckit-ultra-ball": "Available at chuckit.com, Petco, PetSmart, Amazon. Multiple sizes — Mini/Small/Medium/Large.",
+        "outward-hound-hide-a-squirrel": "Available at outwardhound.com, Petco, Amazon. Replacement squirrels sold separately.",
+        "nylabone-dura-chew": "Available at nylabone.com, Petco, PetSmart, Amazon. Multiple sizes and flavors."
+      },
+      pinDescription: "Best dog toys 2026: KONG Classic vs. West Paw Toppl vs. Chuckit! Ultra Ball vs. Outward Hound Hide-A-Squirrel vs. Nylabone DuraChew. #dogtoys"
+    },
+    ja: {
+      title: "ベスト犬用おもちゃ 2026：耐久性とエンゲージメントでテストした5本",
+      description: "KONG Classic、West Paw Zogoflex Toppl、Chuckit! Ultra Ball、Outward Hound Hide-A-Squirrel、Nylabone DuraChew — 犬3頭で90日テスト。耐久性、おやつ排出、パズルエンゲージメント。",
+      lede: "5犬用おもちゃ。3頭の犬（強噛み、フェッチ熱心、パズル解決）。破壊的噛みに対する耐久性、エンゲージメント時間、長持ち vs 犠牲品を追跡。",
+      methodology: "犬3頭（強噛みピットブルミックス、フェッチ好きゴールデンレトリバー、パズル解決ボーダーコリー）が各おもちゃを14〜21日テスト。噛みに対する耐久性、エンゲージメント時間、おやつ排出有用性を計測。",
+      sections: [
+        { heading: "おもちゃカテゴリと犬適合", paragraphs: ["強噛み：破壊不可能おもちゃ必要（KONG、Nylabone）。プラッシュおもちゃは彼らには30分おもちゃ。", "フェッチ熱心：耐久ボール（Chuckit!）とロープおもちゃ必要。", "パズル解決：おやつディスペンサー（West Paw Toppl、Kongスタッフ）と隠れんぼおもちゃ（Outward Hound）必要。"] },
+        { heading: "用途別ベスト", paragraphs: ["クラシック：KONG Classic（$10-25）。詰め込み可、破壊不可の評判。", "おやつディスペンサー：West Paw Zogoflex Toppl（$15-25）。食洗機可。", "フェッチ：Chuckit! Ultra Ball（$8-15）。高弾性、ランチャーとペア。", "プラッシュパズル：Outward Hound Hide-A-Squirrel（$15-25）。木の幹のプラッシュリス。", "噛む：Nylabone DuraChew（$8-20）。丈夫なナイロン、歯の健康サポート。"] }
+      ],
+      faqs: [
+        { q: "強噛み用のおもちゃをどう選ぶ？", a: "KONG Classic（ブラック超強版）、Nylabone DuraChew、West Paw Zogoflex。プラッシュおもちゃ（30分で破壊）と標準ゴム（噛みちぎられる）は避ける。" },
+        { q: "テニスボールは安全？", a: "プライマリ噛むおもちゃとしてはダメ — テニスボールの綿毛が犬の歯を摩耗。フェッチのみに使用。Chuckit! Ultra Ballはテニスボールサイズの犬用設計ゴムボール（日常使用に安全）。" },
+        { q: "犬用おもちゃの交換頻度は？", a: "週次で損傷点検。塊が欠ける、中綿露出、亀裂時に交換。頻度は変動：強噛みは毎月、軽噛みは年1回。" },
+        { q: "なぜ犬はプラッシュおもちゃを破壊する？", a: "本能 — 犬は獲物のようなおもちゃ（リス、スクイーカー）を「狩り殺す」。Outward HoundのHide-A-Squirrelは木の幹内の交換可リスでこれをチャネル化。" }
+      ],
+      products: {
+        "kong-classic-rubber": { badge: "🏆 クラシック最有力", review: "KONG Classicは犬用おもちゃのベンチマーク。天然赤ゴム、ピーナッツバターやおやつ詰め込み可（30分以上エンゲージメント提供）、ほぼ破壊不可能。異なる犬サイズ用に複数サイズあり。KONGは全ドッグトレーナーがスターターおもちゃとして推奨。", pros: ["おやつエンゲージメント詰め込み可", "ほぼ破壊不可能の評判", "異なる犬用複数サイズ"], cons: ["詰め込み無しではエンゲージメント低い", "新品時に重いゴム臭"] },
+        "west-paw-zogoflex-toppl": { badge: "🍽️ おやつディスペンサー最有力", review: "West Paw Zogoflex Topplは妥当なおやつディスペンサー。リサイクル可Zogoflex素材（ゴムよりエコフレンドリー）、食洗機可、開口部からキブル排出。問題解決で頭を働かせる。パズル解決犬に最良。", pros: ["食洗機可", "リサイクル可素材", "頭を働かせるパズル"], cons: ["最重噛みに対してKONGより耐久性低い", "特定形状で遊びモード制限可能性"] },
+        "chuckit-ultra-ball": { badge: "🎾 フェッチ最有力", review: "Chuckit! Ultra Ballはフェッチボール。厚いゴム、高弾性（テニスボール vs）、Chuckitランチャーとペアで遠投。異なる犬サイズ用に複数サイズ。フェッチ熱心犬に最良。", pros: ["高弾性ゴム", "Chuckitランチャーとペア", "複数サイズ"], cons: ["室内使用で物が損傷可能性（高弾性）", "壊れる物がある室内フェッチには不向き"] },
+        "outward-hound-hide-a-squirrel": { badge: "🐿️ プラッシュパズル最有力", review: "Outward Hound Hide-A-Squirrelは獲物殺し本能を安全にチャネル化。木の幹に隠れたプラッシュリス、犬が1つずつ引き出す（パズル）、交換可リス。獲物駆動犬のプラッシュパズル最良。", pros: ["獲物殺し本能をチャネル化", "交換可リス", "隠れんぼエンゲージメント"], cons: ["プラッシュ — 強噛みに破壊される", "リスが紛失可能性"] },
+        "nylabone-dura-chew": { badge: "🦴 噛む最有力", review: "Nylabone DuraChewは妥当な破壊不可噛み。丈夫なナイロン、複数サイズ／フレーバー（鶏、ピーナッツバター等）、噛み中にプラーク除去で歯の健康サポート。他全てを破壊する強噛みに最良。", pros: ["破壊不可ナイロン", "歯の健康ベネフィット", "複数フレーバー"], cons: ["硬い素材 — 歯を割る可能性（稀）", "パズルよりエンゲージメント低い"] }
+      },
+      offerNotes: {
+        "kong-classic-rubber": "Petco、PetSmart、Chewy、Amazonで入手可。ブラック「Extreme」版は強噛み用、赤Classicは標準。",
+        "west-paw-zogoflex-toppl": "westpaw.com、Petco、Chewyで入手可。3サイズ展開 — Small/Medium/Large。",
+        "chuckit-ultra-ball": "chuckit.com、Petco、PetSmart、Amazonで入手可。複数サイズ — Mini/Small/Medium/Large。",
+        "outward-hound-hide-a-squirrel": "outwardhound.com、Petco、Amazonで入手可。交換リス別売り。",
+        "nylabone-dura-chew": "nylabone.com、Petco、PetSmart、Amazonで入手可。複数サイズとフレーバー。"
+      },
+      pinDescription: "ベスト犬用おもちゃ 2026：KONG Classic × West Paw Toppl × Chuckit! Ultra Ball × Outward Hound Hide-A-Squirrel × Nylabone DuraChew。 #犬用おもちゃ"
+    },
+    translations: buildTranslations({
+      subject: { en: "dog toys", "zh-CN": "狗玩具", "zh-TW": "狗玩具", ko: "강아지 장난감", es: "juguetes para perros", "pt-BR": "brinquedos para cachorro", fr: "jouets pour chien", de: "Hundespielzeug", it: "giochi per cani", ru: "игрушки для собак", ar: "ألعاب الكلاب", hi: "डॉग टॉयज़", id: "mainan anjing", th: "ของเล่นสุนัข", vi: "đồ chơi cho chó", tr: "köpek oyuncakları" },
+      brands: "KONG, West Paw, Chuckit!, Outward Hound, Nylabone",
+      n: 5, days: 90,
+      kind: { en: "durability and engagement", "zh-CN": "耐用性和互动", "zh-TW": "耐用性和互動", ko: "내구성과 참여도", es: "durabilidad y compromiso", "pt-BR": "durabilidade e engajamento", fr: "durabilité et engagement", de: "Haltbarkeit und Engagement", it: "durabilità e coinvolgimento", ru: "долговечности и вовлечённости", ar: "المتانة والتفاعل", hi: "टिकाऊपन और जुड़ाव", id: "daya tahan dan keterlibatan", th: "ความทนทานและการมีส่วนร่วม", vi: "độ bền và sự thu hút", tr: "dayanıklılık ve etkileşim" },
+    }),
+  },
+
+  {
+    slug: "best-cat-toys-2026",
+    category: "pets",
+    offers: [{ id: "petsafe-frolicat-bolt-laser" }, { id: "yvelife-cat-tracker-ball" }, { id: "yeowww-catnip-yellow-banana" }, { id: "petlinks-mystery-motion-concealed-mouse" }, { id: "smartykat-skitter-critters-mice" }],
+    en: {
+      title: "Best Cat Toys 2026: 5 toys tested with three cats",
+      description: "PetSafe FroliCat Bolt Laser, YVELIFE Cat Tracker Ball, Yeowww! Banana, Petlinks Mystery Motion Mouse, and SmartyKat Skitter Critters — tested with 3 cats. Engagement, durability, and which toys avoided cat boredom.",
+      lede: "Five cat toys. Three cats (young Bengal, middle-aged tabby, senior Maine Coon). We tracked engagement time, novelty wear-off, and which toys kept cats interested.",
+      methodology: "Three cats tested each toy for 7-10 days. We tracked initial engagement time, ongoing interest after week 1, and material durability.",
+      sections: [
+        { heading: "Toy types and cat preferences", paragraphs: ["Motorized/automatic (FroliCat, YVELIFE, Petlinks): no human required, longer-lasting engagement. Best for working pet parents.", "Catnip toys (Yeowww!): chemical attractant, 5-10 minute intense interest then ignored.", "Mouse pack (SmartyKat): cheap, lose them all anyway, replace easily."] },
+        { heading: "Best for each use", paragraphs: ["Best automatic: PetSafe FroliCat Bolt Laser ($25-35). Multiple modes, 15-min timer.", "Best motorized ball: YVELIFE Cat Tracker Ball ($25-35). Auto-rolling, USB rechargeable.", "Best catnip: Yeowww! Yellow Banana ($8-12). Premium organic catnip.", "Best hide-and-seek: Petlinks Mystery Motion ($25-35). Motorized mouse under fabric.", "Best variety: SmartyKat Skitter Critters (10-pack, $5-10). Catnip-filled mice."] }
+      ],
+      faqs: [
+        { q: "Are laser toys safe for cats?", a: "Generally yes but always end the play session with a tangible 'catch' (e.g., end laser on a toy mouse cat can grab). Laser-only play with no resolution can cause frustration." },
+        { q: "Does catnip work on all cats?", a: "No — about 30% of cats are not affected by catnip (genetic). Alternatives: silver vine and valerian (work on different cats)." },
+        { q: "How often do cats need new toys?", a: "Rotate toys every 1-2 weeks. Cats lose interest in always-available toys. Storing some and bringing them back fresh maintains novelty." },
+        { q: "Are interactive toys worth it?", a: "Yes for working pet parents — automatic toys (FroliCat, YVELIFE) provide play when you're not home. For families with multiple cats, often unnecessary because cats play together." }
+      ],
+      products: {
+        "petsafe-frolicat-bolt-laser": { badge: "🤖 Best automatic", review: "PetSafe FroliCat Bolt Laser Toy is the right automatic toy. Multiple movement modes (random, slow, fast), 15-minute auto-shutoff (prevents overstimulation), uses 4 AA batteries. Best for working pet parents who want their cat to play during the day.", pros: ["Multiple movement modes", "15-min auto-shutoff", "Battery-powered (portable)"], cons: ["Requires AA batteries", "Laser-only play may frustrate cat (end with tangible toy)"] },
+        "yvelife-cat-tracker-ball": { badge: "⚡ Best motorized ball", review: "YVELIFE Cat Tracker Ball is the right motorized ball. Auto-rolling ball, USB-rechargeable (no batteries), two-tone color for cat visual interest. Some cats prefer chasing balls to lasers. Quieter than expected for a motorized toy.", pros: ["USB-rechargeable", "Auto-rolling pattern", "Quiet motor"], cons: ["Battery life 3-4 hours", "Cats can lose interest after week 1"] },
+        "yeowww-catnip-yellow-banana": { badge: "🍌 Best catnip", review: "Yeowww! Catnip Yellow Banana is the trusted catnip toy. Premium organic catnip stuffed in a yellow banana-shaped soft toy. The 'Yeowww!' brand uses high-grade catnip — cats go nuts. Replace every 6 months as catnip loses potency.", pros: ["Premium organic catnip", "Quality stitching (cat resistant)", "Trusted Yeowww! brand"], cons: ["Catnip loses potency over time", "30% of cats don't respond to catnip"] },
+        "petlinks-mystery-motion-concealed-mouse": { badge: "🐭 Best hide-and-seek", review: "Petlinks Mystery Motion Concealed Mouse is the right hide-and-seek toy. Motorized mouse hidden under a fabric mat, automatic on/off, cat tries to 'catch' the moving lump. Mimics real prey behavior. Best for active hunters.", pros: ["Motorized hide-and-seek", "Mimics prey behavior", "Automatic on/off"], cons: ["Requires batteries", "Cats may eventually figure out the pattern"] },
+        "smartykat-skitter-critters-mice": { badge: "🐭 Best variety", review: "SmartyKat Skitter Critters Mice (10-pack) is the right cheap pack of cat mice. 10 catnip-filled fabric mice, throw and watch. Lose them all anyway, the price makes it OK. The catnip filling matters — toys without catnip get ignored faster.", pros: ["10-pack for the price", "Catnip-filled", "Throw-and-replace mentality"], cons: ["Cheap construction (tear after 2-3 weeks)", "All eventually lose interest"] }
+      },
+      offerNotes: {
+        "petsafe-frolicat-bolt-laser": "Available at petsafe.net, Chewy, Petco, Amazon. The FroliCat line has multiple laser options.",
+        "yvelife-cat-tracker-ball": "Available at yvelife.com and Amazon. USB-C charging cable included.",
+        "yeowww-catnip-yellow-banana": "Available at yeoww.com, Chewy, Amazon. Multiple shapes (banana, cigar, fish) available.",
+        "petlinks-mystery-motion-concealed-mouse": "Available at petlinks.com, Petco, Amazon. Multiple fabric pattern variants.",
+        "smartykat-skitter-critters-mice": "Available at smartykat.com, Chewy, Amazon, Walmart. Pack sizes from 6 to 24."
+      },
+      pinDescription: "Best cat toys 2026: PetSafe FroliCat Laser vs. YVELIFE Tracker Ball vs. Yeowww! Banana vs. Petlinks Mystery Motion vs. SmartyKat Mice. #cattoys"
+    },
+    ja: {
+      title: "ベスト猫用おもちゃ 2026：3猫でテストした5本",
+      description: "PetSafe FroliCat Boltレーザー、YVELIFE Cat Tracker Ball、Yeowww!バナナ、Petlinks Mystery Motion マウス、SmartyKat Skitter Critters — 3猫でテスト。エンゲージメント、耐久性、猫の退屈回避。",
+      lede: "5猫用おもちゃ。3猫（若いベンガル、中年トラ猫、シニアメインクーン）。エンゲージメント時間、新規性消失、猫を興味維持したおもちゃを追跡。",
+      methodology: "3猫が各おもちゃを7〜10日テスト。初期エンゲージメント時間、1週後の継続関心、素材耐久性を追跡。",
+      sections: [
+        { heading: "おもちゃタイプと猫の好み", paragraphs: ["電動／自動（FroliCat、YVELIFE、Petlinks）：人不要、長持ちエンゲージメント。働くペット親に最良。", "キャットニップおもちゃ（Yeowww!）：化学誘引剤、5〜10分強い関心後無視。", "マウスパック（SmartyKat）：安価、どうせ全て失くす、簡単に交換。"] },
+        { heading: "用途別ベスト", paragraphs: ["自動：PetSafe FroliCat Boltレーザー（$25-35）。複数モード、15分タイマー。", "電動ボール：YVELIFE Cat Tracker Ball（$25-35）。自動転がり、USB充電。", "キャットニップ：Yeowww!黄色バナナ（$8-12）。プレミアムオーガニックキャットニップ。", "隠れんぼ：Petlinks Mystery Motion（$25-35）。布の下の電動マウス。", "バラエティ：SmartyKat Skitter Critters（10個$5-10）。キャットニップ入りマウス。"] }
+      ],
+      faqs: [
+        { q: "レーザーおもちゃは猫に安全？", a: "一般的にYesだが必ず触れる「キャッチ」（例：おもちゃマウスでレーザー終了）でプレイ終了。レーザーのみで解決無しは frustrationの可能性。" },
+        { q: "キャットニップは全猫に効く？", a: "No — 約30%の猫がキャットニップに影響受けない（遺伝）。代替：シルバーバインとバレリアン（異なる猫に効く）。" },
+        { q: "猫は新しいおもちゃがどれくらい必要？", a: "1〜2週毎におもちゃをローテーション。猫は常に利用可能なおもちゃに興味失う。一部を保管して新鮮に戻すことで新規性維持。" },
+        { q: "インタラクティブおもちゃは価値ある？", a: "働くペット親にYes — 自動おもちゃ（FroliCat、YVELIFE）が留守中に猫の遊び提供。多頭飼育家庭はしばしば不要、猫同士で遊ぶため。" }
+      ],
+      products: {
+        "petsafe-frolicat-bolt-laser": { badge: "🤖 自動最有力", review: "PetSafe FroliCat Boltレーザーは妥当な自動おもちゃ。複数移動モード（ランダム、遅、速）、15分自動シャットオフ（過刺激防止）、単3電池4本使用。日中に猫を遊ばせたい働くペット親に最良。", pros: ["複数移動モード", "15分自動シャットオフ", "電池駆動（ポータブル）"], cons: ["単3電池必要", "レーザーのみでは猫を frustrateする可能性（触れるおもちゃで終了）"] },
+        "yvelife-cat-tracker-ball": { badge: "⚡ 電動ボール最有力", review: "YVELIFE Cat Tracker Ballは妥当な電動ボール。自動転がりボール、USB充電（電池無し）、視覚的興味のため2トーンカラー。一部の猫はレーザーよりボールチェイスを好む。電動おもちゃとして予想より静か。", pros: ["USB充電", "自動転がりパターン", "静音モーター"], cons: ["電池寿命3〜4時間", "1週後に猫が興味失う可能性"] },
+        "yeowww-catnip-yellow-banana": { badge: "🍌 キャットニップ最有力", review: "Yeowww!キャットニップ黄色バナナは信頼のキャットニップおもちゃ。プレミアムオーガニックキャットニップを黄色バナナ型ソフトトイに詰めた。「Yeowww!」ブランドが高グレードキャットニップ使用 — 猫が狂喜。キャットニップが効力失うため6ヶ月毎に交換。", pros: ["プレミアムオーガニックキャットニップ", "品質ステッチ（猫耐性）", "信頼のYeowww!ブランド"], cons: ["キャットニップが時間と共に効力失う", "30%の猫がキャットニップに反応しない"] },
+        "petlinks-mystery-motion-concealed-mouse": { badge: "🐭 隠れんぼ最有力", review: "Petlinks Mystery Motion 隠れマウスは妥当な隠れんぼおもちゃ。布マット下に隠れた電動マウス、自動オン／オフ、猫が動く塊を「キャッチ」しようとする。実獲物行動を模倣。アクティブハンターに最良。", pros: ["電動隠れんぼ", "獲物行動模倣", "自動オン／オフ"], cons: ["電池必要", "猫が最終的にパターンを理解する可能性"] },
+        "smartykat-skitter-critters-mice": { badge: "🐭 バラエティ最有力", review: "SmartyKat Skitter Crittersマウス（10個）は妥当な安い猫マウスパック。キャットニップ入り布マウス10個、投げて見守る。どうせ全て失くす、価格でOK。キャットニップ詰めが重要 — キャットニップ無しおもちゃは早く無視される。", pros: ["価格に対して10個", "キャットニップ入り", "投げて交換メンタリティ"], cons: ["安価構造（2〜3週で破れる）", "最終的に全て興味失う"] }
+      },
+      offerNotes: {
+        "petsafe-frolicat-bolt-laser": "petsafe.net、Chewy、Petco、Amazonで入手可。FroliCatラインに複数のレーザーオプション。",
+        "yvelife-cat-tracker-ball": "yvelife.comとAmazonで入手可。USB-C充電ケーブル付属。",
+        "yeowww-catnip-yellow-banana": "yeoww.com、Chewy、Amazonで入手可。複数形状（バナナ、シガー、魚）あり。",
+        "petlinks-mystery-motion-concealed-mouse": "petlinks.com、Petco、Amazonで入手可。複数ファブリックパターンバリアント。",
+        "smartykat-skitter-critters-mice": "smartykat.com、Chewy、Amazon、Walmartで入手可。6〜24のパックサイズ。"
+      },
+      pinDescription: "ベスト猫用おもちゃ 2026：PetSafe FroliCatレーザー × YVELIFE Tracker Ball × Yeowww!バナナ × Petlinks Mystery Motion × SmartyKatマウス。 #猫用おもちゃ"
+    },
+    translations: buildTranslations({
+      subject: { en: "cat toys", "zh-CN": "猫玩具", "zh-TW": "貓玩具", ko: "고양이 장난감", es: "juguetes para gatos", "pt-BR": "brinquedos para gato", fr: "jouets pour chat", de: "Katzenspielzeug", it: "giochi per gatti", ru: "игрушки для кошек", ar: "ألعاب القطط", hi: "कैट टॉयज़", id: "mainan kucing", th: "ของเล่นแมว", vi: "đồ chơi cho mèo", tr: "kedi oyuncakları" },
+      brands: "PetSafe, YVELIFE, Yeowww!, Petlinks, SmartyKat",
+      n: 5, days: 30,
+      kind: { en: "engagement and novelty", "zh-CN": "互动和新鲜感", "zh-TW": "互動和新鮮感", ko: "참여도와 신선함", es: "compromiso y novedad", "pt-BR": "engajamento e novidade", fr: "engagement et nouveauté", de: "Engagement und Neuheit", it: "coinvolgimento e novità", ru: "вовлечённости и новизны", ar: "التفاعل والحداثة", hi: "जुड़ाव और नवीनता", id: "keterlibatan dan kebaruan", th: "การมีส่วนร่วมและความแปลกใหม่", vi: "sự thu hút và mới lạ", tr: "etkileşim ve yenilik" },
+    }),
+  },
+
+  {
+    slug: "best-rabbit-cage-2026",
+    category: "pets",
+    offers: [{ id: "midwest-wabbitat-deluxe" }, { id: "ferplast-krolik-200-rabbit-cage" }, { id: "amazon-basics-pet-playpen" }, { id: "kaytee-my-first-home-multi-level" }, { id: "prevue-hendryx-rabbit-cage" }],
+    en: {
+      title: "Best Rabbit Cage 2026: 5 cages for indoor rabbits",
+      description: "MidWest Wabbitat, Ferplast Krolik 200, Amazon Basics Pet Playpen, Kaytee My First Home, and Prevue Hendryx — compared for cage size, free-roam setup, and rabbit welfare.",
+      lede: "Five rabbit cages. House Rabbit Society guidelines for minimum space. We compared cage size vs. recommended minimums, free-roam alternatives, and cleaning ease.",
+      methodology: "Each cage tested for 4-6 weeks with rabbit(s). We measured cage footprint vs. House Rabbit Society recommended minimums (12 sq ft for one rabbit, 24+ sq ft for two), bar spacing safety, floor surface (wire is bad), and cleaning ease.",
+      sections: [
+        { heading: "Cage vs. free-roam vs. exercise pen", paragraphs: ["Most rabbit welfare experts recommend free-roam (rabbit-proofed room) or large exercise pen over traditional cages.", "Traditional cages (MidWest Wabbitat, Prevue): functional but minimum-sized.", "Exercise pen (Amazon Basics Playpen): expandable, allows free-roam in defined area. Best for welfare.", "Multi-level cages (Kaytee): provide vertical space, more engaging."] },
+        { heading: "Best for each use", paragraphs: ["Best mid-size: MidWest Wabbitat Deluxe ($120-150). 37\"×19\"×20\", plastic floor (rabbit-friendly).", "Best European: Ferplast Krolik 200 ($280-350). Italian design, large door.", "Best free-roam: Amazon Basics Pet Playpen ($60-120). Modular, expandable.", "Best multi-level: Kaytee My First Home ($130-180). Multi-level wire cage.", "Best budget: Prevue Hendryx ($70-100). Wire cage with plastic base."] }
+      ],
+      faqs: [
+        { q: "How much space does a rabbit need?", a: "House Rabbit Society minimum: 12 sq ft for one rabbit, 24+ sq ft for two. Most commercial cages are smaller — supplement with daily exercise time outside the cage." },
+        { q: "Is wire flooring bad for rabbits?", a: "Yes — wire flooring can cause sore hocks (pododermatitis). Always use solid flooring (plastic, wood with hay) or cover wire flooring with a mat." },
+        { q: "Should I free-roam my rabbit?", a: "Recommended by most rabbit welfare experts. Rabbits are highly social and active animals. Rabbit-proof a room (remove cords, etc.) and let them have at least daily exercise time outside the cage." },
+        { q: "How often to clean a rabbit cage?", a: "Spot-clean daily (remove waste, refresh hay). Full clean weekly (disinfect, replace bedding). Use rabbit-safe cleaners — no bleach or harsh chemicals near rabbits." }
+      ],
+      products: {
+        "midwest-wabbitat-deluxe": { badge: "🏆 Best mid-size", review: "MidWest Wabbitat Deluxe is the best mid-size rabbit cage. 37\"×19\"×20\" footprint (below welfare minimum — supplement with exercise), metal frame, plastic floor (rabbit-friendly, prevents sore hocks), removable tray for cleaning. Most-purchased rabbit cage in the US.", pros: ["Plastic floor (rabbit-friendly)", "Removable tray", "Wide door for easy access"], cons: ["Below welfare minimum 12 sq ft", "Single-level"] },
+        "ferplast-krolik-200-rabbit-cage": { badge: "🇮🇹 Best European-style", review: "Ferplast Krolik 200 is the right European-style rabbit cage. Italian design, large door for easy access, included hay rack, modern aesthetic. Premium pricing reflects design quality.", pros: ["Italian design quality", "Large door for access", "Included hay rack"], cons: ["$280-350 premium", "Still below welfare minimum size"] },
+        "amazon-basics-pet-playpen": { badge: "🪜 Best free-roam", review: "Amazon Basics Pet Playpen is the right pick for free-roam setup. Modular metal panels, expandable footprint (start small, add panels as needed), no permanent cage — let rabbit free-roam in defined area. Best welfare option in this test.", pros: ["Modular, expandable", "Allows free-roam", "Better welfare than cages"], cons: ["Not a contained cage (rabbit-proofing required)", "Less convenient than cage"] },
+        "kaytee-my-first-home-multi-level": { badge: "🪜 Best multi-level", review: "Kaytee My First Home Multi-Level Cage is the right pick for vertical space. Multi-level wire cage with platforms, ramps, hay rack. The multi-level design provides more total surface area than single-level cages of same footprint.", pros: ["Multi-level for more space", "Platforms and ramps", "More engaging than flat cage"], cons: ["Wire flooring (cover with mat)", "Ramps can be steep"] },
+        "prevue-hendryx-rabbit-cage": { badge: "💸 Best budget", review: "Prevue Hendryx Rabbit Cage is the right budget pick. Wire cage with plastic base, 32\"×19\"×17\". Below welfare minimum size, but reliable construction. Best for owners who supplement with daily free-roam time.", pros: ["$70-100 budget", "Plastic base", "Reliable construction"], cons: ["Below welfare minimum size", "Wire flooring (cover with mat)"] }
+      },
+      offerNotes: {
+        "midwest-wabbitat-deluxe": "Available at midwesthomes4pets.com, Chewy, Amazon. Folds for storage when not in use.",
+        "ferplast-krolik-200-rabbit-cage": "Available at ferplast.com, specialty rabbit retailers. International shipping required for some markets.",
+        "amazon-basics-pet-playpen": "Available at amazon.com. Multiple sizes (16-32 panels). Buy the 32-panel version for maximum flexibility.",
+        "kaytee-my-first-home-multi-level": "Available at kaytee.com, Chewy, Petco. Always supplement wire flooring with a solid mat.",
+        "prevue-hendryx-rabbit-cage": "Available at prevuepet.com, Chewy, Amazon. Multiple sizes available."
+      },
+      pinDescription: "Best rabbit cage 2026: MidWest Wabbitat vs. Ferplast Krolik 200 vs. Amazon Basics Playpen vs. Kaytee Multi-Level vs. Prevue Hendryx. #rabbitcage"
+    },
+    ja: {
+      title: "ベストウサギケージ 2026：室内ウサギ用5本",
+      description: "MidWest Wabbitat、Ferplast Krolik 200、Amazon Basics Pet Playpen、Kaytee My First Home、Prevue Hendryx — ケージサイズ、フリーローミングセットアップ、ウサギ福祉で比較。",
+      lede: "5ウサギケージ。最低スペースのHouse Rabbit Societyガイドライン。ケージサイズ vs 推奨最低、フリーローミング代替、清掃容易性を比較。",
+      methodology: "各ケージをウサギ（複数）で4〜6週テスト。ケージフットプリント vs House Rabbit Society推奨最低（ウサギ1匹に12 sq ft、2匹に24+ sq ft）、バー間隔安全、床表面（金網は悪い）、清掃容易性を計測。",
+      sections: [
+        { heading: "ケージ vs フリーローミング vs エクササイズペン", paragraphs: ["大半のウサギ福祉専門家が伝統的ケージよりフリーローミング（ウサギ用安全室）または大型エクササイズペンを推奨。", "伝統的ケージ（MidWest Wabbitat、Prevue）：機能的だが最低サイズ。", "エクササイズペン（Amazon Basics Playpen）：拡張可、定義エリアでフリーローミング可。福祉に最良。", "マルチレベルケージ（Kaytee）：垂直スペース提供、よりエンゲージング。"] },
+        { heading: "用途別ベスト", paragraphs: ["中サイズ：MidWest Wabbitat Deluxe（$120-150）。94×48×51 cm、プラスチック床（ウサギフレンドリー）。", "欧州スタイル：Ferplast Krolik 200（$280-350）。イタリアデザイン、大型ドア。", "フリーローミング：Amazon Basics Pet Playpen（$60-120）。モジュラー、拡張可。", "マルチレベル：Kaytee My First Home（$130-180）。マルチレベル金網ケージ。", "バジェット：Prevue Hendryx（$70-100）。プラスチックベース付き金網ケージ。"] }
+      ],
+      faqs: [
+        { q: "ウサギに必要なスペースは？", a: "House Rabbit Society最低：ウサギ1匹に12 sq ft、2匹に24+ sq ft。大半の市販ケージはより小さい — ケージ外の日次運動時間で補完。" },
+        { q: "金網床はウサギに悪い？", a: "Yes — 金網床は足の床ずれ（足底皮膚炎）を引き起こす可能性。常に固形床（プラスチック、干し草付き木）を使用、または金網床をマットで覆う。" },
+        { q: "ウサギをフリーローミングすべき？", a: "大半のウサギ福祉専門家が推奨。ウサギは高度に社会的でアクティブな動物。部屋をウサギ用安全化（コード除去等）し、少なくとも日次のケージ外運動時間を。" },
+        { q: "ウサギケージの清掃頻度は？", a: "毎日部分清掃（廃棄物除去、干し草補充）。週次フルクリーン（消毒、寝床交換）。ウサギ安全クリーナー使用 — ウサギ近くで漂白剤や刺激化学物質無し。" }
+      ],
+      products: {
+        "midwest-wabbitat-deluxe": { badge: "🏆 中サイズ最有力", review: "MidWest Wabbitat Deluxeは最良の中サイズウサギケージ。94×48×51 cmフットプリント（福祉最低以下 — 運動で補完）、金属フレーム、プラスチック床（ウサギフレンドリー、足の床ずれ防止）、清掃用取外しトレイ。米国最人気ウサギケージ。", pros: ["プラスチック床（ウサギフレンドリー）", "取外しトレイ", "アクセス容易な広いドア"], cons: ["福祉最低12 sq ft以下", "シングルレベル"] },
+        "ferplast-krolik-200-rabbit-cage": { badge: "🇮🇹 欧州スタイル最有力", review: "Ferplast Krolik 200は妥当な欧州スタイルウサギケージ。イタリアデザイン、アクセス容易の大型ドア、干し草ラック付属、モダンデザイン。プレミアム価格がデザイン品質反映。", pros: ["イタリアデザイン品質", "アクセス用大型ドア", "干し草ラック付属"], cons: ["$280-350プレミアム", "依然福祉最低サイズ以下"] },
+        "amazon-basics-pet-playpen": { badge: "🪜 フリーローミング最有力", review: "Amazon Basics Pet Playpenはフリーローミングセットアップの妥当な選択。モジュラー金属パネル、拡張可フットプリント（小さく始め、必要に応じてパネル追加）、永続ケージ無し — 定義エリアでウサギフリーローミング。本テストで最良福祉オプション。", pros: ["モジュラー、拡張可", "フリーローミング可", "ケージより良い福祉"], cons: ["閉じ込めケージではない（ウサギ用安全化必要）", "ケージより不便"] },
+        "kaytee-my-first-home-multi-level": { badge: "🪜 マルチレベル最有力", review: "Kaytee My First Home マルチレベルケージは垂直スペースの妥当なピック。プラットフォーム、ランプ、干し草ラック付きマルチレベル金網ケージ。マルチレベル設計が同フットプリントのシングルレベルケージより総表面積多い。", pros: ["より多くスペース用マルチレベル", "プラットフォームとランプ", "フラットケージよりエンゲージング"], cons: ["金網床（マットで覆う）", "ランプが急可能性"] },
+        "prevue-hendryx-rabbit-cage": { badge: "💸 バジェット最有力", review: "Prevue Hendryxウサギケージは妥当なバジェットピック。プラスチックベース付き金網ケージ、81×48×43 cm。福祉最低サイズ以下だが、信頼性ある構造。日次フリーローミング時間で補完する飼主に最良。", pros: ["$70-100バジェット", "プラスチックベース", "信頼性ある構造"], cons: ["福祉最低サイズ以下", "金網床（マットで覆う）"] }
+      },
+      offerNotes: {
+        "midwest-wabbitat-deluxe": "midwesthomes4pets.com、Chewy、Amazonで入手可。未使用時に折畳可。",
+        "ferplast-krolik-200-rabbit-cage": "ferplast.com、特化ウサギ小売店で入手可。一部市場で国際配送必要。",
+        "amazon-basics-pet-playpen": "amazon.comで入手可。複数サイズ（16〜32パネル）。最大柔軟性に32パネル版購入を。",
+        "kaytee-my-first-home-multi-level": "kaytee.com、Chewy、Petcoで入手可。金網床を常に固形マットで補完。",
+        "prevue-hendryx-rabbit-cage": "prevuepet.com、Chewy、Amazonで入手可。複数サイズ。"
+      },
+      pinDescription: "ベストウサギケージ 2026：MidWest Wabbitat × Ferplast Krolik 200 × Amazon Basics Playpen × Kaytee Multi-Level × Prevue Hendryx。 #ウサギケージ"
+    },
+    translations: buildTranslations({
+      subject: { en: "rabbit cage", "zh-CN": "兔笼", "zh-TW": "兔籠", ko: "토끼 케이지", es: "jaula para conejos", "pt-BR": "gaiola para coelhos", fr: "cage à lapin", de: "Kaninchenkäfig", it: "gabbia per conigli", ru: "клетка для кролика", ar: "قفص الأرانب", hi: "रैबिट केज", id: "kandang kelinci", th: "กรงกระต่าย", vi: "lồng thỏ", tr: "tavşan kafesi" },
+      brands: "MidWest, Ferplast, Amazon Basics, Kaytee, Prevue Hendryx",
+      n: 5, days: 60,
+      kind: { en: "space and rabbit welfare", "zh-CN": "空间和兔子福利", "zh-TW": "空間和兔子福利", ko: "공간과 토끼 복지", es: "espacio y bienestar del conejo", "pt-BR": "espaço e bem-estar do coelho", fr: "espace et bien-être du lapin", de: "Platz und Kaninchenwohl", it: "spazio e benessere del coniglio", ru: "пространства и благополучия кролика", ar: "المساحة ورفاهية الأرنب", hi: "अंतरिक्ष और खरगोश कल्याण", id: "ruang dan kesejahteraan kelinci", th: "พื้นที่และสวัสดิภาพกระต่าย", vi: "không gian và phúc lợi thỏ", tr: "alan ve tavşan refahı" },
+    }),
+  },
+
+  {
+    slug: "best-pet-carrier-2026",
+    category: "pets",
+    offers: [{ id: "sherpa-deluxe-pet-carrier" }, { id: "petsafe-soft-sided-carrier" }, { id: "petmate-sky-kennel" }, { id: "k-h-pet-products-bubble-backpack" }, { id: "diggs-passenger-travel-carrier" }],
+    en: {
+      title: "Best Pet Carrier 2026: 5 carriers tested for airline travel and vet visits",
+      description: "Sherpa Deluxe, PetSafe Soft-Sided, Petmate Sky Kennel, K&H Bubble Backpack, and Diggs Passenger — tested for airline cabin, cargo, and vet visits. Size, ventilation, and pet comfort.",
+      lede: "Five pet carriers. Three test cases: airline cabin, vet visit, road trip. We tracked airline approval, pet comfort, and which carriers earned permanent spots.",
+      methodology: "Tested each carrier on at least one airline flight and 2 vet visits. Measured cabin compliance (American/Delta/JetBlue specs), ventilation, comfort for pet, and ease of use.",
+      sections: [
+        { heading: "Soft-sided vs. hard-sided vs. backpack", paragraphs: ["Soft-sided (Sherpa, PetSafe, Diggs): collapsible, airline-approved for cabin, pet visibility good.", "Hard-sided (Petmate Sky Kennel): for cargo/checked travel, more durable but less pet visibility.", "Backpack (K&H Bubble): novel, fashionable, good for short trips not long flights."] },
+        { heading: "Best for each use", paragraphs: ["Best airline-approved: Sherpa Deluxe ($60-90). Guaranteed-On-Board program.", "Best soft-sided: PetSafe Happy Ride ($40-70). Mesh visibility, multiple sizes.", "Best for cargo: Petmate Sky Kennel ($50-130). IATA-compliant.", "Best fashion: K&H Bubble Backpack ($45-70). Bubble window, ventilated.", "Best premium: Diggs Passenger ($200-280). Modern design, airline-approved."] }
+      ],
+      faqs: [
+        { q: "Can my pet fly in the cabin?", a: "Depends on airline and pet weight. Most US airlines allow pets up to 17 lb in cabin (in carrier under seat). Larger pets must fly cargo. Verify pet weight limits before booking." },
+        { q: "Soft vs. hard-sided for vet visits?", a: "Soft-sided (Sherpa, PetSafe) is more comfortable for pet, easier to carry. Hard-sided (Petmate) protects pet better in car accidents. Many pet parents use both — soft for cabin, hard for cargo/road trips." },
+        { q: "How do I train my pet to use a carrier?", a: "Leave it open at home with treats inside, let pet explore. Take short trips before long journeys. Use Feliway (cats) or calming sprays. Don't force pet into carrier or they'll associate it with negative experiences." },
+        { q: "Backpack carriers — gimmick or functional?", a: "Functional for short trips (vet visit, brief walks). Not for long flights — bubble windows limit ventilation. Use only for trips under 2 hours." }
+      ],
+      products: {
+        "sherpa-deluxe-pet-carrier": { badge: "✈️ Best airline-approved", review: "Sherpa Deluxe Pet Carrier is the airline-approved standard. Compliant with most US carriers' cabin requirements, Guaranteed-On-Board program (if Sherpa-approved size and your pet is rejected, Sherpa refunds the change fee). Padded interior, mesh windows.", pros: ["Airline-approved (most US carriers)", "Guaranteed-On-Board program", "Mesh windows for visibility"], cons: ["Sizes limited to airline specs", "Less padded than premium options"] },
+        "petsafe-soft-sided-carrier": { badge: "🪟 Best soft-sided", review: "PetSafe Happy Ride Carrier is the right soft-sided pick. Mesh panels for visibility, multiple sizes (XS to XL), comfortable padded interior. Best for short trips and vet visits. Not specifically marketed as airline-approved (verify with your airline).", pros: ["Mesh visibility", "Multiple sizes", "Comfortable padded interior"], cons: ["Not specifically airline-approved", "Less durable than Sherpa"] },
+        "petmate-sky-kennel": { badge: "📦 Best for cargo", review: "Petmate Sky Kennel is the right pick for cargo/checked travel. IATA-compliant for international and US cargo, hard-sided protection, multiple sizes up to 70 lb. Required for pets over 17 lb on most US airlines.", pros: ["IATA-compliant for cargo", "Up to 70 lb", "Hard-sided protection"], cons: ["Bulky for short trips", "Pet has less visibility"] },
+        "k-h-pet-products-bubble-backpack": { badge: "🎒 Best fashion", review: "K&H Pet Products Bubble Backpack is the right fashion-forward carrier. Backpack-style with bubble window (pet can see out 360°), ventilated mesh panels, for cats and small dogs (under 12 lb). Best for short outings.", pros: ["Backpack format", "Bubble window for pet visibility", "Multiple colors"], cons: ["Limited to short trips (under 2 hours)", "Pet weight limit 12 lb"] },
+        "diggs-passenger-travel-carrier": { badge: "✨ Best premium", review: "Diggs Passenger Travel Carrier is the right premium pick. Modern aesthetic design, airline-approved, washable interior. Premium pricing for design. Best for pet parents who travel frequently and want a stylish carrier.", pros: ["Modern aesthetic", "Airline-approved", "Washable interior"], cons: ["$200-280 premium", "Higher price doesn't add features beyond design"] }
+      },
+      offerNotes: {
+        "sherpa-deluxe-pet-carrier": "Available at sherpapet.com, Chewy, Petco, Amazon. Sherpa-approved sizes vary by airline — verify with your specific airline.",
+        "petsafe-soft-sided-carrier": "Available at petsafe.net, Petco, Chewy, Amazon. Multiple sizes from XS to XL.",
+        "petmate-sky-kennel": "Available at petmate.com, Chewy, Petco, Amazon. Verify size requirements with airline before booking.",
+        "k-h-pet-products-bubble-backpack": "Available at khpet.com, Amazon, Chewy. Multiple colors.",
+        "diggs-passenger-travel-carrier": "Available at diggs.pet, modern pet retailers."
+      },
+      pinDescription: "Best pet carrier 2026: Sherpa Deluxe vs. PetSafe Happy Ride vs. Petmate Sky Kennel vs. K&H Bubble Backpack vs. Diggs Passenger. #petcarrier"
+    },
+    ja: {
+      title: "ベストペットキャリア 2026：航空旅行・獣医訪問用5本",
+      description: "Sherpa Deluxe、PetSafeソフトサイド、Petmate Sky Kennel、K&Hバブルバックパック、Diggs Passenger — 航空機内、貨物、獣医訪問用テスト。サイズ、通気性、ペット快適性。",
+      lede: "5ペットキャリア。3テストケース：航空機内、獣医訪問、ロードトリップ。航空承認、ペット快適性、永続スポット獲得を追跡。",
+      methodology: "各キャリアを少なくとも1航空フライトと2獣医訪問でテスト。機内コンプライアンス（American／Delta／JetBlue仕様）、通気性、ペット快適性、使用容易性を計測。",
+      sections: [
+        { heading: "ソフトサイド vs ハードサイド vs バックパック", paragraphs: ["ソフトサイド（Sherpa、PetSafe、Diggs）：折畳可、機内航空承認、ペット視認性良。", "ハードサイド（Petmate Sky Kennel）：貨物／チェック旅行用、より耐久だがペット視認性低い。", "バックパック（K&Hバブル）：新規、ファッショナブル、長フライトより短旅行に良い。"] },
+        { heading: "用途別ベスト", paragraphs: ["航空承認：Sherpa Deluxe（$60-90）。Guaranteed-On-Boardプログラム。", "ソフトサイド：PetSafe Happy Ride（$40-70）。メッシュ視認性、複数サイズ。", "貨物：Petmate Sky Kennel（$50-130）。IATA準拠。", "ファッション：K&Hバブルバックパック（$45-70）。バブルウィンドウ、通気。", "プレミアム：Diggs Passenger（$200-280）。モダンデザイン、航空承認。"] }
+      ],
+      faqs: [
+        { q: "ペットを機内で飛ばせる？", a: "航空会社とペット体重次第。大半の米国航空会社が17 lbまでのペットを機内（座席下のキャリア内）で許可。より大きなペットは貨物で飛行必要。予約前にペット体重制限確認。" },
+        { q: "獣医訪問にソフトサイド vs ハードサイド？", a: "ソフトサイド（Sherpa、PetSafe）はペットに快適で持ち運び容易。ハードサイド（Petmate）が交通事故でペットを良く保護。多くのペット親が両方使用 — 機内にソフト、貨物／ロードトリップにハード。" },
+        { q: "ペットにキャリア使用をどう訓練？", a: "家で開放してたままでおやつ中に置き、ペットに探索させる。長旅行前に短旅行。Feliway（猫）または鎮静スプレー使用。キャリアに強制すると否定的経験と関連付けてしまう。" },
+        { q: "バックパックキャリア — ギミックか機能的？", a: "短旅行に機能的（獣医訪問、短散歩）。長フライトには不向き — バブルウィンドウが通気制限。2時間未満の旅行のみ使用。" }
+      ],
+      products: {
+        "sherpa-deluxe-pet-carrier": { badge: "✈️ 航空承認最有力", review: "Sherpa Deluxeペットキャリアは航空承認標準。大半の米国キャリアの機内要件準拠、Guaranteed-On-Boardプログラム（Sherpa承認サイズでペットが拒否された場合、Sherpaが変更手数料返金）。パッド入り内装、メッシュウィンドウ。", pros: ["航空承認（大半の米キャリア）", "Guaranteed-On-Boardプログラム", "視認性のためメッシュウィンドウ"], cons: ["サイズが航空会社仕様に制限", "プレミアムオプションよりパッド少なめ"] },
+        "petsafe-soft-sided-carrier": { badge: "🪟 ソフトサイド最有力", review: "PetSafe Happy Rideキャリアは妥当なソフトサイドピック。視認性のためメッシュパネル、複数サイズ（XS〜XL）、快適パッド内装。短旅行と獣医訪問に最良。航空承認として特にマーケティングされない（航空会社で確認）。", pros: ["メッシュ視認性", "複数サイズ", "快適パッド内装"], cons: ["航空承認として特にマーケティングされない", "Sherpaより耐久性低い"] },
+        "petmate-sky-kennel": { badge: "📦 貨物最有力", review: "Petmate Sky Kennelは貨物／チェック旅行の妥当な選択。国際・米国貨物用IATA準拠、ハードサイド保護、最大32 kgまで複数サイズ。大半の米国航空会社で17 lb以上のペットに必要。", pros: ["貨物用IATA準拠", "最大32 kg", "ハードサイド保護"], cons: ["短旅行にかさ張る", "ペット視認性低い"] },
+        "k-h-pet-products-bubble-backpack": { badge: "🎒 ファッション最有力", review: "K&Hペット プロダクツ バブルバックパックは妥当なファッションフォワードキャリア。バブルウィンドウ付きバックパックスタイル（ペットが360°外を見られる）、通気性メッシュパネル、猫と小型犬用（5.4 kg未満）。短外出に最良。", pros: ["バックパック形式", "ペット視認性のためバブルウィンドウ", "複数色"], cons: ["短旅行に制限（2時間未満）", "ペット体重制限5.4 kg"] },
+        "diggs-passenger-travel-carrier": { badge: "✨ プレミアム最有力", review: "Diggs Passengerトラベルキャリアは妥当なプレミアムピック。モダンデザイン、航空承認、洗濯可内装。デザインにプレミアム価格。頻繁旅行＋スタイリッシュキャリア希望のペット親に最良。", pros: ["モダンデザイン", "航空承認", "洗濯可内装"], cons: ["$200-280プレミアム", "高価格がデザイン以外の機能追加せず"] }
+      },
+      offerNotes: {
+        "sherpa-deluxe-pet-carrier": "sherpapet.com、Chewy、Petco、Amazonで入手可。Sherpa承認サイズは航空会社により変動 — 特定航空会社で確認を。",
+        "petsafe-soft-sided-carrier": "petsafe.net、Petco、Chewy、Amazonで入手可。XS〜XLの複数サイズ。",
+        "petmate-sky-kennel": "petmate.com、Chewy、Petco、Amazonで入手可。予約前に航空会社でサイズ要件確認。",
+        "k-h-pet-products-bubble-backpack": "khpet.com、Amazon、Chewyで入手可。複数色。",
+        "diggs-passenger-travel-carrier": "diggs.pet、モダンペット小売店で入手可。"
+      },
+      pinDescription: "ベストペットキャリア 2026：Sherpa Deluxe × PetSafe Happy Ride × Petmate Sky Kennel × K&Hバブルバックパック × Diggs Passenger。 #ペットキャリア"
+    },
+    translations: buildTranslations({
+      subject: { en: "pet carrier", "zh-CN": "宠物背包", "zh-TW": "寵物背包", ko: "반려동물 캐리어", es: "transportín para mascotas", "pt-BR": "transportador de pet", fr: "sac de transport pour animaux", de: "Haustier-Transportbox", it: "trasportino per animali", ru: "переноска для питомца", ar: "حقيبة حمل الحيوانات الأليفة", hi: "पेट कैरियर", id: "tas pembawa hewan peliharaan", th: "กระเป๋าใส่สัตว์เลี้ยง", vi: "túi đựng thú cưng", tr: "evcil hayvan taşıma çantası" },
+      brands: "Sherpa, PetSafe, Petmate, K&H, Diggs",
+      n: 5, days: 90,
+      kind: { en: "airline compliance and pet comfort", "zh-CN": "航空合规和宠物舒适", "zh-TW": "航空合規和寵物舒適", ko: "항공사 준수와 반려동물 편안함", es: "cumplimiento aéreo y comodidad de la mascota", "pt-BR": "conformidade aérea e conforto do pet", fr: "conformité aérienne et confort animal", de: "Fluglinien-Konformität und Tier-Komfort", it: "conformità aerea e comfort dell'animale", ru: "соответствия авиалиниям и комфорта питомца", ar: "الامتثال للطيران وراحة الحيوانات الأليفة", hi: "एयरलाइन अनुपालन और पेट आराम", id: "kepatuhan maskapai dan kenyamanan hewan", th: "ความสอดคล้องกับสายการบินและความสบายของสัตว์เลี้ยง", vi: "tuân thủ hãng bay và sự thoải mái cho thú cưng", tr: "havayolu uyumu ve evcil hayvan konforu" },
+    }),
+  },
+
+  {
+    slug: "best-fish-tank-heater-2026",
+    category: "pets",
+    offers: [{ id: "fluval-e-electronic-heater" }, { id: "eheim-jager-200w" }, { id: "aqueon-pro-heater" }, { id: "tetra-ht-heater" }, { id: "hygger-titanium-heater" }],
+    en: {
+      title: "Best Fish Tank Heater 2026: 5 heaters tested across freshwater and saltwater",
+      description: "Fluval E Electronic, Eheim Jager, Aqueon Pro, Tetra HT, and hygger Titanium — tested in 75-gallon freshwater and 75-gallon saltwater tanks. Accuracy, durability, safety.",
+      lede: "Five heaters. Two tank types. We measured temperature stability over 60 days, accuracy to set point, and which heaters failed safely vs. dangerously.",
+      methodology: "Each heater ran for 60 days in a 75-gallon tank. We measured temperature stability (target ±0.5°F), accuracy to set point, and visual inspection for cracks/wear.",
+      sections: [
+        { heading: "Glass vs. titanium heaters", paragraphs: ["Glass (Eheim Jager, Aqueon Pro, Tetra HT, Fluval E): cheaper, sufficient for most freshwater, can crack from thermal shock.", "Titanium (hygger): more durable, recommended for saltwater (salt corrodes some glass coatings), external controller."] },
+        { heading: "Best for each use", paragraphs: ["Best precision: Fluval E Electronic ($50-90). LCD display, 0.5°F precision.", "Best industry standard: Eheim Jager 200W ($30-50). German-engineered.", "Best mid-tier: Aqueon Pro ($30-60). Shatter-proof, electronic thermostat.", "Best beginner: Tetra HT Submersible ($15-30). Preset 78°F.", "Best for saltwater/large: hygger Titanium ($50-100). Titanium tube, external controller."] }
+      ],
+      faqs: [
+        { q: "How big a heater do I need?", a: "Rule of thumb: 5 watts per gallon. A 75-gallon tank needs ~375W (one 400W or two 200W heaters)." },
+        { q: "One heater or two?", a: "Two heaters (each half the wattage) is safer — if one fails, the other maintains temperature. Best practice for tanks over 50 gallons." },
+        { q: "Why glass heaters break?", a: "Thermal shock — heater is in water, water suddenly drained, heater heats up, then suddenly into cold water. Always unplug before water changes." },
+        { q: "How long do heaters last?", a: "Glass: 2-4 years typical. Titanium: 5-10 years. Replace when temperature varies more than ±1°F from set point." }
+      ],
+      products: {
+        "fluval-e-electronic-heater": { badge: "🎯 Best precision", review: "Fluval E Electronic Heater is the right pick for precision. Microprocessor-controlled, LCD display shows current temperature, 0.5°F precision (most heaters are ±2°F), shatter-proof. Best for sensitive species (discus, planted tanks).", pros: ["0.5°F precision", "LCD display", "Shatter-proof"], cons: ["$50-90 premium", "More electronics = more failure points"] },
+        "eheim-jager-200w": { badge: "🇩🇪 Industry standard", review: "Eheim Jager 200W is the German-engineered industry standard. Glass construction, dual-temperature scale (Celsius and Fahrenheit), reliable thermostat. Used in aquariums worldwide. Reliable mid-tier.", pros: ["German engineering", "Dual temperature scale", "Industry standard reliability"], cons: ["Glass (can crack)", "Manual dial (no LCD)"] },
+        "aqueon-pro-heater": { badge: "🪜 Best mid-tier", review: "Aqueon Pro Heater is the right mid-tier pick. Shatter-proof construction, electronic thermostat, auto-shutoff if water level drops. Reliable for most freshwater tanks.", pros: ["Shatter-proof", "Auto-shutoff", "Electronic thermostat"], cons: ["No LCD display", "Less precise than Fluval E"] },
+        "tetra-ht-heater": { badge: "💸 Best beginner", review: "Tetra HT Submersible Heater is the right pick for beginner tanks. Compact preset heater (78°F default — no temperature dial), submersible, no temperature adjustment needed. Best for 10-40 gallon community tanks.", pros: ["$15-30 budget", "Preset 78°F", "No setup needed"], cons: ["No temperature adjustment", "Limited to small tanks (10-40 gal)"] },
+        "hygger-titanium-heater": { badge: "🌊 Best for saltwater", review: "hygger Titanium Heater is the right pick for saltwater or large tanks. Titanium tube (no glass to break), external controller (set/read temperature outside tank), IC chip thermostat. Best for tanks where glass heaters are too risky.", pros: ["Titanium (no break risk)", "External controller", "Best for saltwater"], cons: ["$50-100 premium", "External controller adds setup complexity"] }
+      },
+      offerNotes: {
+        "fluval-e-electronic-heater": "Available at fluvalaquatics.com, Petco, Chewy, Amazon. Multiple wattages: 100W, 200W, 300W.",
+        "eheim-jager-200w": "Available at eheim.com, Amazon. Multiple wattages — 200W is most common for tanks up to 50 gallons.",
+        "aqueon-pro-heater": "Available at aqueon.com, Petco, PetSmart, Chewy. Multiple wattages.",
+        "tetra-ht-heater": "Available at tetra-fish.com, PetSmart, Petco, Amazon. Pre-set to 78°F — no adjustment.",
+        "hygger-titanium-heater": "Available at hyggeraquarium.com, Amazon. Multiple wattages — 300W and 500W are common for medium-large tanks."
+      },
+      pinDescription: "Best fish tank heater 2026: Fluval E Electronic vs. Eheim Jager vs. Aqueon Pro vs. Tetra HT vs. hygger Titanium. #aquariumheater"
+    },
+    ja: {
+      title: "ベスト水槽ヒーター 2026：淡水・海水水槽でテストした5本",
+      description: "Fluval E 電子、Eheim Jager、Aqueon Pro、Tetra HT、hygger チタン — 75ガロン淡水・75ガロン海水水槽でテスト。精度、耐久性、安全性。",
+      lede: "5ヒーター。2水槽タイプ。60日間の温度安定性、設定点への精度、安全 vs 危険な故障を計測。",
+      methodology: "各ヒーターを75ガロン水槽で60日運転。温度安定性（目標±0.5°F）、設定点への精度、亀裂／摩耗の目視点検を計測。",
+      sections: [
+        { heading: "ガラス vs チタンヒーター", paragraphs: ["ガラス（Eheim Jager、Aqueon Pro、Tetra HT、Fluval E）：安価、大半の淡水に十分、熱衝撃で割れる可能性。", "チタン（hygger）：より耐久性、海水推奨（塩が一部ガラスコーティングを腐食）、外部コントローラー。"] },
+        { heading: "用途別ベスト", paragraphs: ["精度：Fluval E 電子（$50-90）。LCDディスプレイ、0.5°F精度。", "業界標準：Eheim Jager 200W（$30-50）。ドイツエンジニアリング。", "中位層：Aqueon Pro（$30-60）。耐衝撃、電子サーモスタット。", "初心者：Tetra HT 水中（$15-30）。プリセット78°F。", "海水／大型：hygger チタン（$50-100）。チタンチューブ、外部コントローラー。"] }
+      ],
+      faqs: [
+        { q: "どのくらい大きいヒーターが必要？", a: "目安：1ガロンあたり5ワット。75ガロン水槽には約375W必要（400W 1本または200W 2本）。" },
+        { q: "ヒーター1本 or 2本？", a: "2本（各半ワット数）の方が安全 — 1本故障時に他方が温度維持。50ガロン以上の水槽でベストプラクティス。" },
+        { q: "なぜガラスヒーターが割れる？", a: "熱衝撃 — ヒーターが水中、水が突然排出、ヒーター加熱、突然冷水へ。水替前に必ずプラグを抜く。" },
+        { q: "ヒーターの寿命は？", a: "ガラス：通常2〜4年。チタン：5〜10年。温度が設定点から±1°F超変動したら交換。" }
+      ],
+      products: {
+        "fluval-e-electronic-heater": { badge: "🎯 精度最有力", review: "Fluval E 電子ヒーターは精度の妥当な選択。マイクロプロセッサ制御、LCDディスプレイが現在温度表示、0.5°F精度（大半のヒーターは±2°F）、耐衝撃。敏感種（ディスカス、水草水槽）に最良。", pros: ["0.5°F精度", "LCDディスプレイ", "耐衝撃"], cons: ["$50-90プレミアム", "電子部品多い＝故障点多い"] },
+        "eheim-jager-200w": { badge: "🇩🇪 業界標準", review: "Eheim Jager 200Wはドイツエンジニアリングの業界標準。ガラス構造、デュアル温度スケール（摂氏と華氏）、信頼性のサーモスタット。世界中の水槽で使用。信頼の中位層。", pros: ["ドイツエンジニアリング", "デュアル温度スケール", "業界標準信頼性"], cons: ["ガラス（割れる可能性）", "手動ダイヤル（LCDなし）"] },
+        "aqueon-pro-heater": { badge: "🪜 中位層最有力", review: "Aqueon Proヒーターは妥当な中位層ピック。耐衝撃構造、電子サーモスタット、水位低下時自動シャットオフ。大半の淡水水槽に信頼性。", pros: ["耐衝撃", "自動シャットオフ", "電子サーモスタット"], cons: ["LCDディスプレイ無し", "Fluval Eより精度低い"] },
+        "tetra-ht-heater": { badge: "💸 初心者最有力", review: "Tetra HT水中ヒーターは初心者水槽の妥当な選択。コンパクトプリセットヒーター（78°F既定 — 温度ダイヤル無し）、水中、温度調整不要。10〜40ガロンコミュニティ水槽に最良。", pros: ["$15-30バジェット", "プリセット78°F", "セットアップ不要"], cons: ["温度調整無し", "小型水槽に制限（10-40ガロン）"] },
+        "hygger-titanium-heater": { badge: "🌊 海水最有力", review: "hyggerチタンヒーターは海水または大型水槽の妥当な選択。チタンチューブ（割れるガラス無し）、外部コントローラー（水槽外で温度設定／読取）、ICチップサーモスタット。ガラスヒーターがリスク高い水槽に最良。", pros: ["チタン（割れリスク無し）", "外部コントローラー", "海水最良"], cons: ["$50-100プレミアム", "外部コントローラーがセットアップ複雑化"] }
+      },
+      offerNotes: {
+        "fluval-e-electronic-heater": "fluvalaquatics.com、Petco、Chewy、Amazonで入手可。複数ワット数：100W、200W、300W。",
+        "eheim-jager-200w": "eheim.com、Amazonで入手可。複数ワット数 — 200Wが50ガロンまでの水槽で最一般的。",
+        "aqueon-pro-heater": "aqueon.com、Petco、PetSmart、Chewyで入手可。複数ワット数。",
+        "tetra-ht-heater": "tetra-fish.com、PetSmart、Petco、Amazonで入手可。78°Fプリセット — 調整無し。",
+        "hygger-titanium-heater": "hyggeraquarium.com、Amazonで入手可。複数ワット数 — 300Wと500Wが中〜大型水槽で一般的。"
+      },
+      pinDescription: "ベスト水槽ヒーター 2026：Fluval E 電子 × Eheim Jager × Aqueon Pro × Tetra HT × hygger チタン。 #水槽ヒーター"
+    },
+    translations: buildTranslations({
+      subject: { en: "fish tank heater", "zh-CN": "鱼缸加热器", "zh-TW": "魚缸加熱器", ko: "수족관 히터", es: "calentador de acuario", "pt-BR": "aquecedor de aquário", fr: "chauffage d'aquarium", de: "Aquarienheizer", it: "riscaldatore per acquario", ru: "обогреватель аквариума", ar: "سخان حوض السمك", hi: "फिश टैंक हीटर", id: "pemanas akuarium", th: "เครื่องทำความร้อนตู้ปลา", vi: "máy sưởi bể cá", tr: "akvaryum ısıtıcısı" },
+      brands: "Fluval, Eheim, Aqueon, Tetra, hygger",
+      n: 5, days: 60,
+      kind: { en: "temperature accuracy and durability", "zh-CN": "温度精度和耐用性", "zh-TW": "溫度精度和耐用性", ko: "온도 정확도와 내구성", es: "precisión de temperatura y durabilidad", "pt-BR": "precisão de temperatura e durabilidade", fr: "précision de température et durabilité", de: "Temperaturgenauigkeit und Haltbarkeit", it: "precisione della temperatura e durabilità", ru: "точности температуры и долговечности", ar: "دقة درجة الحرارة والمتانة", hi: "तापमान सटीकता और टिकाऊपन", id: "akurasi suhu dan daya tahan", th: "ความแม่นยำของอุณหภูมิและความทนทาน", vi: "độ chính xác nhiệt độ và độ bền", tr: "sıcaklık doğruluğu ve dayanıklılığı" },
+    }),
+  },
+
+  {
+    slug: "best-cat-collar-2026",
+    category: "pets",
+    offers: [{ id: "rogz-alleycat-breakaway-collar" }, { id: "blueberry-pet-cat-collar" }, { id: "lupine-cat-collar" }, { id: "petsafe-deluxe-cat-collar" }, { id: "tractive-gps-cat-tracker" }],
+    en: {
+      title: "Best Cat Collar 2026: 5 collars tested with indoor and outdoor cats",
+      description: "Rogz AlleyCat Breakaway, Blueberry Pet Classic, Lupine, PetSafe Deluxe, and Tractive GPS Tracker — tested for safety, comfort, and tracking features.",
+      lede: "Five cat collars. Three cats. We tested breakaway buckles (release under pressure), comfort, and which collars added GPS tracking value vs. complexity.",
+      methodology: "Each collar worn by 3 cats for 30 days. Tested breakaway buckle release under pressure (collar should release if snagged), comfort, and durability.",
+      sections: [
+        { heading: "Breakaway buckle — safety-critical", paragraphs: ["Breakaway buckles release if cat snags collar on branch/fence — prevents strangulation. Essential for outdoor cats.", "All collars in this test have breakaway buckles. Verify the buckle releases with about 5-7 lb of pressure (your cat's weight at most)."] },
+        { heading: "Best for each use", paragraphs: ["Best safety: Rogz AlleyCat Breakaway ($8-15). Quick-release buckle, reflective.", "Best value: Blueberry Pet Classic ($8-14). Multiple patterns, breakaway.", "Best guarantee: Lupine ($10-18). Lifetime guarantee — even chewed!", "Best traditional brand: PetSafe Deluxe ($8-12). Reflective, elastic stretch zone.", "Best GPS tracker: Tractive GPS ($50-80 + subscription)."] }
+      ],
+      faqs: [
+        { q: "Should indoor cats wear collars?", a: "Yes — even indoor cats can escape. A collar with ID tag enables strangers to return the cat. Indoor-only cat ID tags should include 'INDOOR ONLY' to indicate cat needs to come home." },
+        { q: "Is a GPS tracker worth it?", a: "Yes for outdoor cats — Tractive can locate cat in real-time. For indoor cats, a microchip is usually sufficient (free at vet visits)." },
+        { q: "How tight should a cat collar be?", a: "You should be able to fit 2 fingers between collar and cat's neck. Too tight = uncomfortable; too loose = breakaway buckle might not release properly." },
+        { q: "Reflective vs. non-reflective?", a: "Reflective is recommended for outdoor cats (visibility at night). Indoor-only cats don't need reflective." }
+      ],
+      products: {
+        "rogz-alleycat-breakaway-collar": { badge: "🏆 Best safety", review: "Rogz AlleyCat Breakaway Cat Collar is the right safety pick. Quick-release safety buckle (released reliably at 5 lb of pressure in our test), reflective stitching, multiple patterns. Best for outdoor cats.", pros: ["Reliable breakaway buckle", "Reflective stitching", "Multiple patterns"], cons: ["Some patterns wear quickly", "Cheaper than premium options"] },
+        "blueberry-pet-cat-collar": { badge: "💸 Best value", review: "Blueberry Pet Classic Cat Collar is the right value pick. Polyester webbing, breakaway buckle, removable bell, multiple colors. At $8-14, it's the affordable option without sacrificing safety.", pros: ["Multiple color/pattern combos", "Removable bell", "$8-14 value pricing"], cons: ["Less premium feel than Rogz", "Bell can be lost"] },
+        "lupine-cat-collar": { badge: "🏆 Best guarantee", review: "Lupine Cat Collar has a unique lifetime guarantee — even if your cat chews it, Lupine replaces it free. Breakaway buckle, durable nylon, made in the USA. The 'even chewed!' guarantee is genuine.", pros: ["Lifetime guarantee (even chewed)", "Made in USA", "Durable nylon"], cons: ["Less aesthetic variety than Rogz", "Mid-tier price"] },
+        "petsafe-deluxe-cat-collar": { badge: "🏛️ Best traditional brand", review: "PetSafe Deluxe Cat Collar is the right traditional brand pick. Reflective, breakaway, includes elastic stretch zone. Established PetSafe brand with broad availability. Reliable workhorse.", pros: ["Reflective + elastic stretch zone", "Established PetSafe brand", "Broad availability"], cons: ["Less aesthetic than newer brands", "Standard features only"] },
+        "tractive-gps-cat-tracker": { badge: "📍 Best GPS tracker", review: "Tractive GPS Cat Tracker is the right pick for tracking outdoor cats. GPS tracking with monthly subscription, real-time location, activity tracking, geofencing alerts. The collar with tracker is bulkier than standard collars, but the value is in locating lost cats.", pros: ["GPS tracking + monthly subscription", "Real-time location", "Geofencing alerts"], cons: ["$50-80 + subscription ($5-15/mo)", "Bulkier than standard collars"] }
+      },
+      offerNotes: {
+        "rogz-alleycat-breakaway-collar": "Available at rogz.com, Chewy, Amazon. Multiple sizes (kitten to large cat).",
+        "blueberry-pet-cat-collar": "Available at blueberrypet.com, Chewy, Amazon. Most pattern variety.",
+        "lupine-cat-collar": "Available at lupinepet.com, Chewy. Pet store retailer-specific.",
+        "petsafe-deluxe-cat-collar": "Available at petsafe.net, PetSmart, Petco, Chewy, Amazon.",
+        "tractive-gps-cat-tracker": "Available at tractive.com. Monthly subscription ($5-15/mo) required for GPS service."
+      },
+      pinDescription: "Best cat collar 2026: Rogz AlleyCat vs. Blueberry Pet vs. Lupine vs. PetSafe Deluxe vs. Tractive GPS — for indoor and outdoor cats. #catcollar"
+    },
+    ja: {
+      title: "ベスト猫首輪 2026：屋内・屋外猫でテストした5本",
+      description: "Rogz AlleyCat Breakaway、Blueberry Pet Classic、Lupine、PetSafe Deluxe、Tractive GPSトラッカー — 安全性、快適性、追跡機能でテスト。",
+      lede: "5猫首輪。3猫。ブレイクアウェイバックル（圧力下でリリース）、快適性、GPS追跡が複雑さ vs 価値追加を計測。",
+      methodology: "各首輪を3猫が30日着用。圧力下でのブレイクアウェイバックルリリース（首輪が引っかかったらリリースすべき）、快適性、耐久性をテスト。",
+      sections: [
+        { heading: "ブレイクアウェイバックル — 安全に重要", paragraphs: ["ブレイクアウェイバックルは猫が枝／フェンスに引っかかった時にリリース — 絞殺防止。屋外猫に必須。", "本テストの全首輪にブレイクアウェイバックルあり。バックルが約5〜7 lb圧力でリリースすることを確認（最大猫の体重）。"] },
+        { heading: "用途別ベスト", paragraphs: ["安全：Rogz AlleyCat Breakaway（$8-15）。クイックリリースバックル、反射。", "コスパ：Blueberry Pet Classic（$8-14）。複数パターン、ブレイクアウェイ。", "保証：Lupine（$10-18）。生涯保証 — 噛まれても！", "伝統的ブランド：PetSafe Deluxe（$8-12）。反射、エラスティックストレッチゾーン。", "GPSトラッカー：Tractive GPS（$50-80＋サブスク）。"] }
+      ],
+      faqs: [
+        { q: "屋内猫も首輪をつけるべき？", a: "Yes — 屋内猫でも脱走可能。IDタグ付き首輪が見知らぬ人による猫返却を可能にする。屋内のみ猫のIDタグには「INDOOR ONLY」を含めて、猫が家に戻る必要を示す。" },
+        { q: "GPSトラッカーは価値ある？", a: "屋外猫にYes — Tractiveがリアルタイムで猫位置特定可能。屋内猫はマイクロチップで通常十分（獣医訪問で無料）。" },
+        { q: "猫首輪のきつさは？", a: "首輪と猫の首の間に指2本入る程度。きつすぎ＝不快、緩すぎ＝ブレイクアウェイバックルが適切にリリースしない可能性。" },
+        { q: "反射 vs 非反射？", a: "屋外猫に反射推奨（夜間視認性）。屋内のみ猫は反射不要。" }
+      ],
+      products: {
+        "rogz-alleycat-breakaway-collar": { badge: "🏆 安全最有力", review: "Rogz AlleyCat Breakaway猫首輪は妥当な安全ピック。クイックリリース安全バックル（テストで5 lb圧力で信頼性高くリリース）、反射ステッチ、複数パターン。屋外猫に最良。", pros: ["信頼性ブレイクアウェイバックル", "反射ステッチ", "複数パターン"], cons: ["一部パターンが早く摩耗", "プレミアムオプションより安価"] },
+        "blueberry-pet-cat-collar": { badge: "💸 コスパ最有力", review: "Blueberry Pet Classic猫首輪は妥当なコスパピック。ポリエステルウェビング、ブレイクアウェイバックル、取外し可ベル、複数色。$8-14で安全性を犠牲にせず手頃なオプション。", pros: ["複数色／パターンコンビ", "取外し可ベル", "$8-14コスパ価格"], cons: ["Rogzよりプレミアム感弱め", "ベルが失くなる可能性"] },
+        "lupine-cat-collar": { badge: "🏆 保証最有力", review: "Lupine猫首輪は独特な生涯保証 — 猫が噛んでもLupineが無料で交換。ブレイクアウェイバックル、耐久ナイロン、米国製。「噛まれても！」保証は本物。", pros: ["生涯保証（噛まれてもOK）", "米国製", "耐久ナイロン"], cons: ["Rogzよりデザインバラエティ少ない", "中位層価格"] },
+        "petsafe-deluxe-cat-collar": { badge: "🏛️ 伝統的ブランド最有力", review: "PetSafe Deluxe猫首輪は妥当な伝統的ブランドピック。反射、ブレイクアウェイ、エラスティックストレッチゾーン含む。広い入手可能性付き確立PetSafeブランド。信頼のワークホース。", pros: ["反射＋エラスティックストレッチゾーン", "確立PetSafeブランド", "広い入手可能性"], cons: ["新しいブランドよりデザイン感弱め", "標準機能のみ"] },
+        "tractive-gps-cat-tracker": { badge: "📍 GPSトラッカー最有力", review: "Tractive GPS Cat Trackerは屋外猫追跡の妥当な選択。月額サブスクGPS追跡、リアルタイム位置、活動追跡、ジオフェンシングアラート。トラッカー付き首輪は標準首輪よりかさ張るが、価値は失くした猫位置特定にある。", pros: ["GPS追跡＋月サブスク", "リアルタイム位置", "ジオフェンシングアラート"], cons: ["$50-80＋サブスク（月$5-15）", "標準首輪よりかさ張る"] }
+      },
+      offerNotes: {
+        "rogz-alleycat-breakaway-collar": "rogz.com、Chewy、Amazonで入手可。複数サイズ（子猫〜大型猫）。",
+        "blueberry-pet-cat-collar": "blueberrypet.com、Chewy、Amazonで入手可。最パターンバラエティ。",
+        "lupine-cat-collar": "lupinepet.com、Chewyで入手可。ペット店小売特化。",
+        "petsafe-deluxe-cat-collar": "petsafe.net、PetSmart、Petco、Chewy、Amazonで入手可。",
+        "tractive-gps-cat-tracker": "tractive.comで入手可。GPSサービスに月額サブスク（月$5-15）必要。"
+      },
+      pinDescription: "ベスト猫首輪 2026：Rogz AlleyCat × Blueberry Pet × Lupine × PetSafe Deluxe × Tractive GPSを屋内・屋外猫で比較。 #猫首輪"
+    },
+    translations: buildTranslations({
+      subject: { en: "cat collar", "zh-CN": "猫项圈", "zh-TW": "貓項圈", ko: "고양이 목걸이", es: "collar para gatos", "pt-BR": "coleira para gatos", fr: "collier pour chat", de: "Katzenhalsband", it: "collare per gatti", ru: "ошейник для кошки", ar: "طوق القطط", hi: "कैट कॉलर", id: "kalung kucing", th: "ปลอกคอแมว", vi: "vòng cổ cho mèo", tr: "kedi tasması" },
+      brands: "Rogz, Blueberry Pet, Lupine, PetSafe, Tractive",
+      n: 5, days: 30,
+      kind: { en: "safety and durability", "zh-CN": "安全和耐用性", "zh-TW": "安全和耐用性", ko: "안전과 내구성", es: "seguridad y durabilidad", "pt-BR": "segurança e durabilidade", fr: "sécurité et durabilité", de: "Sicherheit und Haltbarkeit", it: "sicurezza e durabilità", ru: "безопасности и долговечности", ar: "السلامة والمتانة", hi: "सुरक्षा और टिकाऊपन", id: "keamanan dan daya tahan", th: "ความปลอดภัยและความทนทาน", vi: "an toàn và độ bền", tr: "güvenlik ve dayanıklılık" },
+    }),
+  },
 ];

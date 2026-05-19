@@ -1991,5 +1991,451 @@ export const FINANCE: ArticleDef[] = [
       kind: { en: "rollover process and total long-term cost", "zh-CN": "滚存流程和长期总成本", "zh-TW": "滾存流程和長期總成本", ko: "롤오버 절차와 장기 총비용", es: "proceso de rollover y costo total a largo plazo", "pt-BR": "processo de rollover e custo total de longo prazo", fr: "processus de rollover et coût total à long terme", de: "Rollover-Prozess und langfristige Gesamtkosten", it: "processo di rollover e costo totale a lungo termine", ru: "процесса роллоувера и общей долгосрочной стоимости", ar: "عملية التدوير والتكلفة الإجمالية طويلة الأجل", hi: "रोलओवर प्रक्रिया और दीर्घकालिक कुल लागत", id: "proses rollover dan biaya total jangka panjang", th: "ขั้นตอน rollover และต้นทุนรวมระยะยาว", vi: "quy trình rollover và tổng chi phí dài hạn", tr: "rollover süreci ve uzun vadeli toplam maliyet" },
     }),
   },
+
+  // ==== Batch 3 ====
+
+  {
+    slug: "best-investment-platform-2026",
+    category: "finance",
+    offers: [{ id: "fidelity-platform" }, { id: "vanguard-platform" }, { id: "schwab-platform" }, { id: "robinhood-platform" }, { id: "etrade-platform" }],
+    en: {
+      title: "Best Investment Platform 2026: 5 platforms compared for index investors and active traders",
+      description: "Fidelity, Vanguard, Schwab, Robinhood, and E*TRADE — compared across $0 commissions era. Index fund expense ratios, banking integration, active trading tools, and which platform for which investor.",
+      lede: "Five platforms. Same $0 commissions, very different ecosystems. We compared expense ratios, integration features, and which platforms work for which investor profile.",
+      methodology: "We tested each platform with same buy-and-hold portfolio (70/30 stock/bond, US/international) and active trading scenarios. Measured ETF expense ratios, fractional shares support, banking integration, mobile app UX, and platform stability.",
+      sections: [
+        { heading: "Index ETF expense ratios", paragraphs: ["Fidelity ZERO funds: 0.00% (FZROX, FZILX, etc.) — only available in Fidelity accounts.", "Vanguard ETFs: 0.03% (VTI), 0.07% (VXUS), 0.03% (BND). Industry-low.", "Schwab ETFs: 0.03% (SCHB), 0.06% (SCHE), 0.03% (SCHZ). Comparable to Vanguard.", "Other platforms: hold same ETFs at $0 commission but may not have proprietary zero-cost funds."] },
+        { heading: "Best for each use", paragraphs: ["Best overall: Fidelity. $0 ZERO funds, $0 commissions, 24/7 phone support, broad asset classes.", "Best for index investors: Vanguard. Industry-low ETF expense ratios, founder of indexing.", "Best for banking + brokerage: Schwab. Integrated banking with free ATM worldwide.", "Best for mobile/casual: Robinhood. Best mobile UX, lacks research tools.", "Best for active traders: E*TRADE. Power E*TRADE platform, robust options trading."] }
+      ],
+      faqs: [
+        { q: "Does platform really matter for index investing?", a: "Marginally — total costs differ by ~0.01-0.05% annually. Over 30 years on $200K, that's $1,200-$6,000. Significant but not life-changing. Pick the platform that fits your other needs." },
+        { q: "Should I switch platforms?", a: "Only if you'd save 0.05%+ on expense ratios or gain meaningful features. Switching costs include filing tax forms for transferred shares and learning new UX." },
+        { q: "Is Robinhood safe?", a: "Yes — SIPC-insured like other brokerages, $500K standard insurance. The 2021 GameStop incident showed Robinhood's order-flow business model, but accounts themselves are safe." },
+        { q: "What about Webull, Public, M1?", a: "All viable for specific use cases. Public emphasizes ethical investing; M1 emphasizes automated portfolio management; Webull is similar to Robinhood with more advanced charting." }
+      ],
+      products: {
+        "fidelity-platform": { badge: "🏆 Best overall", review: "Fidelity is the best overall investment platform for most investors. $0 minimum, $0 commissions, FZROX at 0.00% expense ratio (only true zero-cost fund), 24/7 phone support, branches in major cities. Covers brokerage, retirement, banking, and HSA accounts in one place.", pros: ["FZROX at 0.00% expense ratio", "24/7 phone + branches", "Broadest asset class coverage"], cons: ["ZERO funds only transferable within Fidelity (vendor lock-in)", "ActiveTraderPro UX less polished than ThinkOrSwim"] },
+        "vanguard-platform": { badge: "💸 Best for index", review: "Vanguard is the right platform for buy-and-hold index investors. Industry-low ETF expense ratios — over 30 years, the 0.01-0.03% savings vs. competitors compound to meaningful sums. Founded by Jack Bogle. UX is dated (2010-era website) but functional.", pros: ["Lowest ETF expense ratios", "Founded by Jack Bogle (indexing pioneer)", "Industry-standard ETFs (VTI, VXUS)"], cons: ["UX dated", "Limited active trading tools"] },
+        "schwab-platform": { badge: "🏦 Best for banking", review: "Schwab is the right pick for banking + brokerage integration. $0 commissions, Schwab Bank checking with no foreign transaction fees + free ATM worldwide. Free Intelligent Portfolios robo-advisor. Acquired TD Ameritrade in 2023 — ThinkOrSwim platform now part of Schwab.", pros: ["Banking + brokerage integrated", "Free ATM worldwide", "ThinkOrSwim platform (post-TD acquisition)"], cons: ["Intelligent Portfolios has high cash allocation", "Some TD Ameritrade migration friction"] },
+        "robinhood-platform": { badge: "📱 Best mobile UX", review: "Robinhood is the right platform for mobile-first casual investors. Best mobile UX in the industry, $0 commissions, fractional shares. Lacks research tools and advanced features compared to Fidelity/Schwab. Best for buying broad-market ETFs occasionally.", pros: ["Best mobile UX", "Fractional shares", "Quick account setup"], cons: ["Lacks research tools", "Order-flow business model", "Limited account types"] },
+        "etrade-platform": { badge: "📈 Best active traders", review: "E*TRADE is the right platform for active traders. Power E*TRADE platform offers advanced charting, options-friendly, $0 commissions. Now owned by Morgan Stanley. The Power E*TRADE platform is robust for active trading and options strategies.", pros: ["Power E*TRADE for active trading", "Strong options platform", "Owned by Morgan Stanley"], cons: ["UX less casual-friendly than Robinhood", "Morgan Stanley integration ongoing"] }
+      },
+      offerNotes: {
+        "fidelity-platform": "Sign up at fidelity.com. The ZERO funds (FZROX, FZILX, FZIPX, FZIPX) are Fidelity-exclusive.",
+        "vanguard-platform": "Sign up at investor.vanguard.com. VTI and VXUS are their flagship ETFs.",
+        "schwab-platform": "Sign up at schwab.com. The Schwab Bank checking is the must-have feature.",
+        "robinhood-platform": "Sign up at robinhood.com or the mobile app. Robinhood Gold subscription ($5/mo) adds research tools.",
+        "etrade-platform": "Sign up at us.etrade.com. Use Power E*TRADE (separate from consumer app) for advanced features."
+      },
+      pinDescription: "Best investment platform 2026: Fidelity vs. Vanguard vs. Schwab vs. Robinhood vs. E*TRADE — for index investors and active traders. #investing #brokerage"
+    },
+    ja: {
+      title: "ベスト投資プラットフォーム 2026：インデックス投資家・アクティブトレーダー向け5社比較",
+      description: "Fidelity、Vanguard、Schwab、Robinhood、E*TRADE — コミッション$0時代で比較。インデックスファンド経費率、銀行統合、アクティブ取引ツール、投資家プロフィール別最有力。",
+      lede: "5プラットフォーム。同じ$0コミッション、大きく異なるエコシステム。経費率、統合機能、投資家プロフィール別最適を比較。",
+      methodology: "各プラットフォームを同じバイ＆ホールドポートフォリオ（70/30株／債券、US／国際）とアクティブ取引シナリオでテスト。ETF経費率、端数株サポート、銀行統合、モバイルアプリUX、プラットフォーム安定性を計測。",
+      sections: [
+        { heading: "インデックスETF経費率", paragraphs: ["Fidelity ZEROファンド：0.00%（FZROX、FZILX等） — Fidelity口座のみ。", "Vanguard ETF：0.03%（VTI）、0.07%（VXUS）、0.03%（BND）。業界最低。", "Schwab ETF：0.03%（SCHB）、0.06%（SCHE）、0.03%（SCHZ）。Vanguardと同等。", "他プラットフォーム：$0コミッションで同じETF保有可だが、独自ゼロコストファンド無し。"] },
+        { heading: "用途別ベスト", paragraphs: ["総合：Fidelity。$0 ZEROファンド、$0コミッション、24/7電話サポート、広いアセットクラス。", "インデックス投資家：Vanguard。業界最低ETF経費率、インデックス投資の祖。", "銀行＋証券：Schwab。世界中ATM無料の統合銀行。", "モバイル／カジュアル：Robinhood。最モバイルUX、リサーチツール無し。", "アクティブトレーダー：E*TRADE。Power E*TRADEプラットフォーム、堅牢オプション取引。"] }
+      ],
+      faqs: [
+        { q: "プラットフォームはインデックス投資に本当に重要？", a: "わずかに — 総コストは年約0.01-0.05%差。30年で$200Kなら$1,200-$6,000。重要だが人生は変えない。他のニーズに合うプラットフォームを選ぶ。" },
+        { q: "プラットフォームを切り替えるべき？", a: "経費率で0.05%以上節約または意味ある機能獲得時のみ。切替コストには移管株の税務フォーム提出と新UX習得が含まれる。" },
+        { q: "Robinhoodは安全？", a: "Yes — 他証券会社と同じSIPC保険、標準$500K保険。2021年GameStop事件はRobinhoodの注文フロー事業モデルを示したが、口座自体は安全。" },
+        { q: "Webull、Public、M1は？", a: "特定用途に全て有効。Publicは倫理投資強調、M1は自動ポートフォリオ管理強調、WebullはRobinhood類似でより高度なチャート。" }
+      ],
+      products: {
+        "fidelity-platform": { badge: "🏆 総合最有力", review: "Fidelityは大半の投資家に最良の総合投資プラットフォーム。最低$0、コミッション$0、FZROX 0.00%経費率（唯一の真ゼロコストファンド）、24/7電話サポート、主要都市に支店。証券、退職、銀行、HSA口座を1箇所でカバー。", pros: ["FZROX 0.00%経費率", "24/7電話＋支店", "最広アセットクラスカバレッジ"], cons: ["ZEROファンドはFidelity内のみ移管可（ベンダーロックイン）", "ActiveTraderPro UXはThinkOrSwimより洗練度低い"] },
+        "vanguard-platform": { badge: "💸 インデックス最有力", review: "Vanguardはバイ＆ホールドのインデックス投資家に妥当なプラットフォーム。業界最低ETF経費率 — 30年で競合との0.01-0.03%節約は意味ある金額に複利。Jack Bogle設立。UXは古い（2010年代ウェブサイト）が機能的。", pros: ["最低ETF経費率", "Jack Bogle（インデックス投資の祖）設立", "業界標準ETF（VTI、VXUS）"], cons: ["UX古い", "限定的アクティブ取引ツール"] },
+        "schwab-platform": { badge: "🏦 銀行統合最有力", review: "Schwabは銀行＋証券統合の妥当なピック。コミッション$0、海外取引手数料無しのSchwab Bank当座＋世界中ATM無料。無料Intelligent Portfoliosロボアド。2023年にTD Ameritrade買収 — ThinkOrSwimプラットフォームが現在Schwabの一部。", pros: ["銀行＋証券統合", "世界中ATM無料", "ThinkOrSwimプラットフォーム（TD買収後）"], cons: ["Intelligent Portfoliosは高現金配分", "TD Ameritrade移行摩擦あり"] },
+        "robinhood-platform": { badge: "📱 モバイルUX最有力", review: "Robinhoodはモバイルファーストカジュアル投資家に妥当なプラットフォーム。業界最良のモバイルUX、コミッション$0、端数株。Fidelity／Schwab比でリサーチツールと高度機能不足。広範市場ETFをoccasional購入に最良。", pros: ["最良モバイルUX", "端数株", "素早い口座設定"], cons: ["リサーチツール不足", "注文フロー事業モデル", "口座タイプ限定"] },
+        "etrade-platform": { badge: "📈 アクティブ最有力", review: "E*TRADEはアクティブトレーダーに妥当なプラットフォーム。Power E*TRADEプラットフォームが高度チャート提供、オプションフレンドリー、コミッション$0。現在Morgan Stanley所有。Power E*TRADEプラットフォームはアクティブ取引とオプション戦略に堅牢。", pros: ["アクティブ取引用Power E*TRADE", "強オプションプラットフォーム", "Morgan Stanley所有"], cons: ["UXはRobinhoodよりカジュアルフレンドリーでない", "Morgan Stanley統合進行中"] }
+      },
+      offerNotes: {
+        "fidelity-platform": "fidelity.comでサインアップ。ZEROファンド（FZROX、FZILX、FZIPX）はFidelity独占。",
+        "vanguard-platform": "investor.vanguard.comでサインアップ。VTIとVXUSが旗艦ETF。",
+        "schwab-platform": "schwab.comでサインアップ。Schwab Bank当座が必須機能。",
+        "robinhood-platform": "robinhood.comまたはモバイルアプリでサインアップ。Robinhood Goldサブスク（月$5）でリサーチツール追加。",
+        "etrade-platform": "us.etrade.comでサインアップ。高度機能にPower E*TRADE（消費者アプリと別）を使用。"
+      },
+      pinDescription: "ベスト投資プラットフォーム 2026：Fidelity × Vanguard × Schwab × Robinhood × E*TRADEをインデックス投資家・アクティブトレーダー向けで比較。 #投資 #証券"
+    },
+    translations: buildTranslations({
+      subject: { en: "investment platform", "zh-CN": "投资平台", "zh-TW": "投資平台", ko: "투자 플랫폼", es: "plataforma de inversión", "pt-BR": "plataforma de investimento", fr: "plateforme d'investissement", de: "Investmentplattform", it: "piattaforma di investimento", ru: "инвестиционная платформа", ar: "منصة استثمار", hi: "इन्वेस्टमेंट प्लेटफॉर्म", id: "platform investasi", th: "แพลตฟอร์มลงทุน", vi: "nền tảng đầu tư", tr: "yatırım platformu" },
+      brands: "Fidelity, Vanguard, Schwab, Robinhood, E*TRADE",
+      n: 5, days: 365,
+      kind: { en: "expense ratios and platform features", "zh-CN": "费用比率和平台功能", "zh-TW": "費用比率和平台功能", ko: "비용 비율과 플랫폼 기능", es: "ratios de gastos y funciones de la plataforma", "pt-BR": "índices de despesas e recursos da plataforma", fr: "ratios de frais et fonctionnalités de la plateforme", de: "Kostenquoten und Plattformfunktionen", it: "rapporti spese e funzionalità della piattaforma", ru: "коэффициентов расходов и функций платформы", ar: "نسب المصروفات وميزات المنصة", hi: "व्यय अनुपात और प्लेटफॉर्म सुविधाएं", id: "rasio biaya dan fitur platform", th: "อัตราส่วนค่าใช้จ่ายและคุณสมบัติแพลตฟอร์ม", vi: "tỷ lệ chi phí và tính năng nền tảng", tr: "gider oranları ve platform özellikleri" },
+    }),
+  },
+
+  {
+    slug: "best-mortgage-lender-2026",
+    category: "finance",
+    offers: [{ id: "rocket-mortgage" }, { id: "better-mortgage" }, { id: "ally-mortgage" }, { id: "chase-mortgage" }, { id: "navy-federal-mortgage" }],
+    en: {
+      title: "Best Mortgage Lender 2026: 5 lenders compared for purchase and refi",
+      description: "Rocket Mortgage, Better, Ally Bank, Chase, and Navy Federal — compared for purchase mortgages, refinance, and VA loans. Rates, fees, and which lender for which borrower.",
+      lede: "Five lenders. Same simulated borrower profile sent to each. We compared rate quotes, fees, processing time, and customer service quality.",
+      methodology: "We requested rate quotes for a $400K conventional 30-year fixed mortgage with 20% down, 740 FICO. Compared rates, lender fees, processing time, and customer service responsiveness.",
+      sections: [
+        { heading: "Rates and lender fees comparison", paragraphs: ["Rates varied within ~0.125% between lenders on identical profile — fees are where the meaningful differences are.", "Better Mortgage: no lender fees (advertised). Saves $1,000-$3,000 on closing.", "Rocket Mortgage: ~$1,200 origination fee. Includes rate-lock guarantee.", "Ally Bank: $0 origination on certain products, otherwise ~$1,000.", "Chase: $1,000-$1,800 origination. Relationship discounts for existing Chase customers.", "Navy Federal: $0 origination on VA loans. Military/veteran focus."] },
+        { heading: "Best for each use", paragraphs: ["Best digital-first: Rocket Mortgage. Quickest online process, broad product range.", "Best for tech-savvy borrowers: Better Mortgage. No lender fees, online process.", "Best refinance: Ally Bank. Competitive rates, strong refinance options.", "Best traditional bank: Chase. In-person branches, relationship discounts.", "Best military families: Navy Federal Credit Union. VA loan specialty, no PMI option."] }
+      ],
+      faqs: [
+        { q: "Should I get pre-approved with multiple lenders?", a: "Yes — pre-approval is a 'soft pull' that doesn't significantly impact credit. Comparing 3-5 lenders on the same day minimizes credit score impact while maximizing rate negotiation leverage." },
+        { q: "Are 'no lender fee' loans really cheaper?", a: "Usually yes — Better's no-fee model genuinely saves $1,000-$3,000 at closing. But verify the rate is competitive; some no-fee lenders compensate with slightly higher rates." },
+        { q: "How does mortgage processing differ between lenders?", a: "Rocket and Better: 30-45 days typical. Traditional banks (Chase): 45-60 days. Navy Federal: 30-45 days. Closing date determines which is preferable." },
+        { q: "Should I refinance?", a: "Refinance is worth considering if you can lower rate by 0.75-1% AND you'll stay in the home 3+ more years. Calculate breakeven on closing costs vs. monthly savings." }
+      ],
+      products: {
+        "rocket-mortgage": { badge: "🏆 Best digital-first", review: "Rocket Mortgage is the right pick for borrowers who want the fastest digital process. Online-first lending, quick pre-approval, broad product range (conventional, FHA, VA, jumbo). The mobile app makes document upload and status tracking smooth. Processing time 30-45 days typical.", pros: ["Fastest online process", "Broad product range", "Mobile app status tracking"], cons: ["$1,200 origination fee", "Hard sell on additional Rocket products"] },
+        "better-mortgage": { badge: "💸 Best no-fees", review: "Better Mortgage is the right pick for tech-savvy borrowers who want no lender fees. Online process, competitive rates, no origination/lender fees advertised. Saves $1,000-$3,000 at closing vs. traditional lenders. Underwriting can be strict — Better is selective.", pros: ["No lender fees", "Online process", "Competitive rates"], cons: ["Selective underwriting", "Customer service less polished"] },
+        "ally-mortgage": { badge: "🏦 Best refinance", review: "Ally Bank Mortgage is the right pick for refinance. Online bank, competitive rates, strong refinance products. Ally bank integration if you have existing accounts. Best for refinance shoppers comparing online lenders.", pros: ["Competitive rates", "Strong refinance focus", "Ally Bank integration"], cons: ["No physical branches", "Less product variety than Rocket"] },
+        "chase-mortgage": { badge: "🏛️ Best traditional bank", review: "Chase Mortgage is the right pick for borrowers who want in-person service. Major bank with 4,700+ branches, relationship discounts if you're a Chase Private Client (Chase Total Checking + balances + brokerage). Slower than digital lenders but more personalized.", pros: ["In-person branches available", "Chase Private Client relationship discounts", "Major bank stability"], cons: ["Slower processing", "Higher fees on average"] },
+        "navy-federal-mortgage": { badge: "🪖 Best for military", review: "Navy Federal Credit Union is the right pick for military families. Military/veterans only, VA loan specialty, no PMI option for low down payments. Their VA loan rates are typically 0.10-0.25% below market.", pros: ["Military/veteran eligibility", "No PMI option", "VA loan specialty"], cons: ["Eligibility restricted", "Limited non-VA mortgage products"] }
+      },
+      offerNotes: {
+        "rocket-mortgage": "Apply at rocketmortgage.com or the mobile app. Pre-approval takes 5-15 minutes online.",
+        "better-mortgage": "Apply at better.com. The 'no lender fees' applies to most loan products — verify on your specific quote.",
+        "ally-mortgage": "Apply at ally.com. Ally bank accounts (savings, checking) integrate for relationship benefits.",
+        "chase-mortgage": "Apply at chase.com or in-branch. Chase Private Client tier (Total Checking + $250K+) gets rate discounts.",
+        "navy-federal-mortgage": "Apply at navyfederal.org. Membership requires military service connection (active, retired, family member, DoD civilian)."
+      },
+      pinDescription: "Best mortgage lender 2026: Rocket vs. Better vs. Ally vs. Chase vs. Navy Federal — for purchase, refi, and VA loans. #mortgage #homebuying"
+    },
+    ja: {
+      title: "ベストモーゲージレンダー 2026：購入＆借換用5社比較",
+      description: "Rocket Mortgage、Better、Ally Bank、Chase、Navy Federal — 購入モーゲージ、借換、VAローン比較。金利、手数料、借り手プロフィール別最有力。",
+      lede: "5レンダー。同じ仮想借り手プロフィールを各社に送付。レート見積、手数料、処理時間、カスタマーサービス品質を比較。",
+      methodology: "$400K従来30年固定、20%頭金、FICO 740でレート見積を依頼。レート、貸し手手数料、処理時間、カスタマーサービス応答性を比較。",
+      sections: [
+        { heading: "レートと貸し手手数料比較", paragraphs: ["同一プロフィールで各社レート差は約0.125%以内 — 意味ある違いは手数料。", "Better Mortgage：貸し手手数料無し（広告）。クロージングで$1,000-$3,000節約。", "Rocket Mortgage：約$1,200オリジネーションフィー。レートロック保証含む。", "Ally Bank：一部商品で$0オリジネーション、その他約$1,000。", "Chase：$1,000-$1,800オリジネーション。既存Chase顧客に関係割引。", "Navy Federal：VAローンで$0オリジネーション。軍人／退役軍人焦点。"] },
+        { heading: "用途別ベスト", paragraphs: ["デジタルファースト：Rocket Mortgage。最速オンラインプロセス、広い商品レンジ。", "テクサヴィー借り手：Better Mortgage。貸し手手数料無し、オンラインプロセス。", "借換：Ally Bank。競争力金利、強い借換オプション。", "伝統的銀行：Chase。対面支店、関係割引。", "軍人家族：Navy Federal Credit Union。VAローン特化、PMIなしオプション。"] }
+      ],
+      faqs: [
+        { q: "複数レンダーで事前承認を取るべき？", a: "Yes — 事前承認は信用に大きく影響しない「ソフトプル」。同日に3〜5社比較で信用スコア影響最小化＋レート交渉レバレッジ最大化。" },
+        { q: "「貸し手手数料無し」ローンは本当に安い？", a: "通常Yes — Betterの手数料無しモデルはクロージングで$1,000-$3,000真に節約。ただし金利が競争力あるか確認、一部の手数料無しレンダーはやや高い金利で補償。" },
+        { q: "レンダー間のモーゲージ処理の違いは？", a: "RocketとBetter：通常30〜45日。伝統的銀行（Chase）：45〜60日。Navy Federal：30〜45日。クロージング日でどれが好ましいか決まる。" },
+        { q: "借換すべきか？", a: "金利を0.75-1%下げられ＋家に3年以上住む予定なら借換検討価値あり。クロージングコスト vs 月次節約の損益分岐を計算。" }
+      ],
+      products: {
+        "rocket-mortgage": { badge: "🏆 デジタルファースト最有力", review: "Rocket Mortgageは最速デジタルプロセス希望の借り手に妥当な選択。オンラインファースト融資、素早い事前承認、広い商品レンジ（従来、FHA、VA、ジャンボ）。モバイルアプリで書類アップロードと状況追跡スムーズ。処理時間通常30〜45日。", pros: ["最速オンラインプロセス", "広い商品レンジ", "モバイルアプリ状況追跡"], cons: ["$1,200オリジネーションフィー", "追加Rocket商品のハードセル"] },
+        "better-mortgage": { badge: "💸 手数料無し最有力", review: "Better Mortgageは貸し手手数料無し希望のテクサヴィー借り手に妥当な選択。オンラインプロセス、競争力金利、広告通り貸し手／オリジネーション手数料無し。伝統的レンダー比でクロージング$1,000-$3,000節約。引受が厳しい可能性 — Betterは選別的。", pros: ["貸し手手数料無し", "オンラインプロセス", "競争力金利"], cons: ["選別的引受", "カスタマーサービス洗練度低め"] },
+        "ally-mortgage": { badge: "🏦 借換最有力", review: "Ally Bank Mortgageは借換の妥当なピック。オンライン銀行、競争力金利、強い借換商品。Ally銀行統合（既存口座保有時）。オンラインレンダー比較する借換ショッパーに最良。", pros: ["競争力金利", "強い借換焦点", "Ally銀行統合"], cons: ["物理支店無し", "Rocketより商品種類少ない"] },
+        "chase-mortgage": { badge: "🏛️ 伝統的銀行最有力", review: "Chase Mortgageは対面サービス希望の借り手に妥当なピック。4,700以上の支店を持つ大手銀行、Chase Private Client（Chase Total Checking＋残高＋証券）なら関係割引。デジタルレンダーより遅いがよりパーソナライズド。", pros: ["対面支店利用可", "Chase Private Client関係割引", "大手銀行安定性"], cons: ["処理が遅い", "平均的に手数料高い"] },
+        "navy-federal-mortgage": { badge: "🪖 軍人最有力", review: "Navy Federal Credit Unionは軍人家族の妥当な選択。軍人／退役軍人のみ、VAローン特化、低頭金でPMIなしオプション。VAローン金利は通常市場より0.10-0.25%低い。", pros: ["軍人／退役軍人資格", "PMIなしオプション", "VAローン特化"], cons: ["資格制限", "非VAモーゲージ商品限定"] }
+      },
+      offerNotes: {
+        "rocket-mortgage": "rocketmortgage.comまたはモバイルアプリで申請。オンライン事前承認は5〜15分。",
+        "better-mortgage": "better.comで申請。「貸し手手数料無し」は大半のローン商品に適用 — 個別見積で確認を。",
+        "ally-mortgage": "ally.comで申請。Ally銀行口座（普通預金、当座）が関係特典のため統合。",
+        "chase-mortgage": "chase.comまたは支店で申請。Chase Private Client階層（Total Checking＋$250K+）でレート割引。",
+        "navy-federal-mortgage": "navyfederal.orgで申請。会員資格には軍関係（現役、退役、家族、DoD民間）必要。"
+      },
+      pinDescription: "ベストモーゲージレンダー 2026：Rocket × Better × Ally × Chase × Navy Federalを購入・借換・VAローン比較。 #モーゲージ #住宅購入"
+    },
+    translations: buildTranslations({
+      subject: { en: "mortgage lender", "zh-CN": "抵押贷款机构", "zh-TW": "抵押貸款機構", ko: "모기지 대출기관", es: "prestamista hipotecario", "pt-BR": "credor hipotecário", fr: "prêteur hypothécaire", de: "Hypothekengeber", it: "istituto di credito ipotecario", ru: "ипотечный кредитор", ar: "مقرض الرهن العقاري", hi: "मॉर्गेज लेंडर", id: "pemberi pinjaman KPR", th: "ผู้ให้กู้สินเชื่อบ้าน", vi: "đơn vị cho vay thế chấp", tr: "ipotek kredisi veren" },
+      brands: "Rocket Mortgage, Better, Ally, Chase, Navy Federal",
+      n: 5, days: 60,
+      kind: { en: "rates, fees, and processing speed", "zh-CN": "利率、费用和处理速度", "zh-TW": "利率、費用和處理速度", ko: "금리, 수수료, 처리 속도", es: "tasas, tarifas y velocidad de procesamiento", "pt-BR": "taxas, tarifas e velocidade de processamento", fr: "taux, frais et vitesse de traitement", de: "Zinsen, Gebühren und Bearbeitungsgeschwindigkeit", it: "tassi, commissioni e velocità di elaborazione", ru: "ставок, комиссий и скорости обработки", ar: "الأسعار والرسوم وسرعة المعالجة", hi: "दरें, शुल्क और प्रसंस्करण गति", id: "tarif, biaya, dan kecepatan pemrosesan", th: "อัตรา ค่าธรรมเนียม และความเร็วในการดำเนินการ", vi: "lãi suất, phí và tốc độ xử lý", tr: "oranlar, ücretler ve işlem hızı" },
+    }),
+  },
+
+  {
+    slug: "best-life-insurance-2026",
+    category: "finance",
+    offers: [{ id: "haven-life" }, { id: "northwestern-mutual" }, { id: "policygenius-marketplace" }, { id: "state-farm-life" }, { id: "ladder-term-life" }],
+    en: {
+      title: "Best Life Insurance 2026: 5 providers compared for term and whole life",
+      description: "Haven Life, Northwestern Mutual, Policygenius, State Farm, and Ladder — term life and whole life compared. Quote process, riders, and which insurer for which life stage.",
+      lede: "Five life insurance providers. Term vs. whole life across 5 typical buyer profiles. We compared quote processes, riders, financial ratings, and which insurers actually pay claims.",
+      methodology: "We requested quotes from each for $500K term life (20-year, healthy 35-year-old non-smoker). For whole life, we compared $250K policies. Tracked underwriting time, exam requirements, and rider availability.",
+      sections: [
+        { heading: "Term vs. whole life — which to buy", paragraphs: ["Term life: cheaper ($30-60/month for $500K at 35), covers a specific period (10-30 years). Best for most people with debts/dependents.", "Whole life: more expensive ($300-500/month for $250K at 35), permanent coverage, builds cash value. Often pushed by commission-based agents.", "Most financial advisors recommend term life for the majority — invest the difference in low-cost index funds."] },
+        { heading: "Best for each use", paragraphs: ["Best online term life: Haven Life ($15-200/mo). Online process, no medical exam for qualifiers.", "Best whole life: Northwestern Mutual. Established mutual company, strong financial ratings.", "Best comparison shopping: Policygenius. Compares 20+ insurers, no exam options.", "Best for bundling: State Farm. Auto/home/life bundle discounts.", "Best for flexibility: Ladder. Adjust coverage as life changes (laddering)."] }
+      ],
+      faqs: [
+        { q: "How much life insurance do I need?", a: "Rule of thumb: 10-15x annual income. Adjust for debts (mortgage, student loans), dependents (kids' education costs), and spouse's income. Online calculators (Policygenius, Haven Life) help estimate." },
+        { q: "Term vs. whole life — which?", a: "Term for 90%+ of people. Whole life makes sense only if: (1) you've maxed out tax-advantaged accounts AND (2) want forced savings AND (3) have complex estate planning needs. Otherwise term + index funds wins." },
+        { q: "Do I need a medical exam?", a: "Maybe — Haven Life, Ladder, and Policygenius offer no-exam options for healthy applicants under certain coverage amounts. Traditional underwriting requires exam for $1M+ coverage." },
+        { q: "Are online life insurance companies trustworthy?", a: "Yes — Haven Life (owned by MassMutual), Ladder (underwritten by Allianz/Fidelity), and Policygenius (marketplace for established insurers) all use established underwriting." }
+      ],
+      products: {
+        "haven-life": { badge: "🏆 Best online term", review: "Haven Life is the right pick for online term life. Online process (no agent meetings), $250K-$3M coverage, no medical exam for many qualifying applicants. Owned by MassMutual, so the underwriting is established. Best for healthy 25-45 year olds.", pros: ["Online process, no agent meetings", "No-exam option for healthy applicants", "Owned by MassMutual"], cons: ["Limited to term life", "Underwriting strict — high-risk applicants rejected"] },
+        "northwestern-mutual": { badge: "🏛️ Best whole life", review: "Northwestern Mutual is the right pick for whole life insurance. Specialist in permanent life insurance, strong financial ratings, in-person advisors. Whole life has place for high-net-worth estate planning. NM agents are well-trained but commission-based (will push whole life).", pros: ["Whole life specialist", "Strong financial ratings", "In-person advisors"], cons: ["Commission-based agents push whole life", "Whole life less optimal for most people"] },
+        "policygenius-marketplace": { badge: "🛒 Best comparison shopping", review: "Policygenius is the right pick if you want to compare multiple insurers. Online marketplace comparing 20+ insurers (Haven, Lincoln, Pacific Life, Prudential, etc.). No-exam options. Best for finding the lowest rate for your specific profile.", pros: ["Compares 20+ insurers", "No-exam options available", "Independent (not biased toward specific insurer)"], cons: ["Earns commission from insurers", "Quote variation can be wide depending on profile"] },
+        "state-farm-life": { badge: "📦 Best for bundling", review: "State Farm Life Insurance is the right pick if you bundle with auto/home insurance. Bundled discounts can save 10-20% on total premiums. In-person agents. Multiple policy types (term, whole, universal life).", pros: ["Bundled discounts (auto/home/life)", "In-person agents", "Multiple policy types"], cons: ["Less competitive on term life standalone", "Agent commission-based"] },
+        "ladder-term-life": { badge: "🪜 Best flexibility", review: "Ladder Term Life is the right pick for flexibility. Online term life with 'laddering' feature — adjust coverage as life changes (kids grown up = reduce coverage). $100K-$8M coverage. Online process.", pros: ["Laddering (adjust coverage over time)", "Online process", "$100K-$8M coverage range"], cons: ["Less brand recognition than MassMutual/Northwestern", "Pricing competitive but not lowest"] }
+      },
+      offerNotes: {
+        "haven-life": "Apply at havenlife.com. Quote in 5 minutes online. Underwriting takes 1-2 weeks typically.",
+        "northwestern-mutual": "Connect with an NM advisor through nwmutual.com or referral. In-person meetings required for most policies.",
+        "policygenius-marketplace": "Quote at policygenius.com. They'll send you quotes from multiple insurers within minutes.",
+        "state-farm-life": "Connect with a State Farm agent through statefarm.com or local office.",
+        "ladder-term-life": "Apply at ladderlife.com. Online process; quote in minutes."
+      },
+      pinDescription: "Best life insurance 2026: Haven Life vs. Northwestern Mutual vs. Policygenius vs. State Farm vs. Ladder — term and whole life compared. #lifeinsurance"
+    },
+    ja: {
+      title: "ベスト生命保険 2026：定期＋終身で5社比較",
+      description: "Haven Life、Northwestern Mutual、Policygenius、State Farm、Ladder — 定期生命と終身生命で比較。見積プロセス、特約、ライフステージ別最有力。",
+      lede: "5生命保険会社。5典型的買い手プロフィールでの定期 vs 終身。見積プロセス、特約、財務評価、実際に請求を支払う保険会社を比較。",
+      methodology: "各社に$500K定期生命（20年、健康な35歳非喫煙者）見積依頼。終身生命では$250Kポリシーを比較。引受時間、診断要件、特約利用可能性を追跡。",
+      sections: [
+        { heading: "定期 vs 終身 — どちらを買うか", paragraphs: ["定期生命：安価（35歳$500Kで月$30-60）、特定期間（10〜30年）をカバー。借金／扶養者ありの大半の人に最良。", "終身生命：高価（35歳$250Kで月$300-500）、永続カバー、現金価値構築。コミッションベース代理店がよくプッシュ。", "大半のファイナンシャルアドバイザーが大多数に定期生命を推奨 — 差額を低コストインデックスファンドに投資。"] },
+        { heading: "用途別ベスト", paragraphs: ["オンライン定期生命：Haven Life（月$15-200）。オンラインプロセス、資格者は診断不要。", "終身生命：Northwestern Mutual。確立した相互会社、強い財務評価。", "比較ショッピング：Policygenius。20以上の保険会社比較、診断不要オプション。", "バンドル：State Farm。自動車／住宅／生命バンドル割引。", "柔軟性：Ladder。ライフ変化に応じてカバー調整（ラダリング）。"] }
+      ],
+      faqs: [
+        { q: "生命保険はいくら必要？", a: "目安：年収の10〜15倍。借金（住宅ローン、学生ローン）、扶養者（子供教育費）、配偶者収入で調整。オンライン計算機（Policygenius、Haven Life）が見積を助ける。" },
+        { q: "定期 vs 終身、どちら？", a: "90%以上の人に定期。終身が意味あるのは：(1)税制優遇口座を最大化済 AND (2)強制貯蓄希望 AND (3)複雑な遺産プラン必要。それ以外は定期＋インデックスファンドが勝つ。" },
+        { q: "診断が必要？", a: "場合による — Haven Life、Ladder、Policygeniusが健康な申請者の特定カバー金額で診断不要オプション提供。伝統的引受は$1M+カバーで診断必要。" },
+        { q: "オンライン生命保険会社は信頼できる？", a: "Yes — Haven Life（MassMutual所有）、Ladder（Allianz／Fidelity引受）、Policygenius（確立保険会社のマーケットプレイス）全て確立した引受使用。" }
+      ],
+      products: {
+        "haven-life": { badge: "🏆 オンライン定期最有力", review: "Haven Lifeはオンライン定期生命の妥当な選択。オンラインプロセス（代理店ミーティング無し）、$250K-$3Mカバー、多くの資格申請者で診断不要。MassMutual所有なので引受確立。健康な25〜45歳に最良。", pros: ["オンラインプロセス、代理店ミーティング無し", "健康申請者の診断不要オプション", "MassMutual所有"], cons: ["定期生命限定", "引受厳しい — 高リスク申請者拒否"] },
+        "northwestern-mutual": { badge: "🏛️ 終身生命最有力", review: "Northwestern Mutualは終身生命保険の妥当な選択。永続生命保険スペシャリスト、強い財務評価、対面アドバイザー。終身生命は高純資産遺産プランに位置あり。NM代理店は訓練良いがコミッションベース（終身プッシュ）。", pros: ["終身生命スペシャリスト", "強い財務評価", "対面アドバイザー"], cons: ["コミッションベース代理店が終身プッシュ", "終身は大半に最適でない"] },
+        "policygenius-marketplace": { badge: "🛒 比較ショッピング最有力", review: "Policygeniusは複数の保険会社比較希望者に妥当な選択。20以上の保険会社比較オンラインマーケットプレイス（Haven、Lincoln、Pacific Life、Prudential等）。診断不要オプション。特定プロフィールに最低レート探索に最良。", pros: ["20以上の保険会社比較", "診断不要オプション利用可", "独立（特定保険会社に偏らない）"], cons: ["保険会社からコミッション獲得", "プロフィールによって見積変動大きい"] },
+        "state-farm-life": { badge: "📦 バンドル最有力", review: "State Farm生命保険は自動車／住宅保険とバンドル希望者に妥当な選択。バンドル割引で総保険料10-20%節約可。対面代理店。複数ポリシータイプ（定期、終身、ユニバーサル生命）。", pros: ["バンドル割引（自動車／住宅／生命）", "対面代理店", "複数ポリシータイプ"], cons: ["定期生命単独では競争力低い", "代理店コミッションベース"] },
+        "ladder-term-life": { badge: "🪜 柔軟性最有力", review: "Ladderターム生命は柔軟性の妥当な選択。「ラダリング」機能付きオンライン定期生命 — ライフ変化に応じてカバー調整（子供成長＝カバー減）。$100K-$8Mカバー。オンラインプロセス。", pros: ["ラダリング（時間と共にカバー調整）", "オンラインプロセス", "$100K-$8Mカバー範囲"], cons: ["MassMutual／Northwesternよりブランド認知度低い", "価格競争力ありだが最低ではない"] }
+      },
+      offerNotes: {
+        "haven-life": "havenlife.comで申請。オンラインで5分の見積。引受は通常1〜2週間。",
+        "northwestern-mutual": "nwmutual.comまたは紹介経由でNMアドバイザーと接続。大半のポリシーで対面ミーティング必要。",
+        "policygenius-marketplace": "policygenius.comで見積。数分以内に複数保険会社からの見積を送付。",
+        "state-farm-life": "statefarm.comまたは地元オフィス経由でState Farm代理店と接続。",
+        "ladder-term-life": "ladderlife.comで申請。オンラインプロセス、数分で見積。"
+      },
+      pinDescription: "ベスト生命保険 2026：Haven Life × Northwestern Mutual × Policygenius × State Farm × Ladderを定期＋終身で比較。 #生命保険"
+    },
+    translations: buildTranslations({
+      subject: { en: "life insurance", "zh-CN": "人寿保险", "zh-TW": "人壽保險", ko: "생명 보험", es: "seguro de vida", "pt-BR": "seguro de vida", fr: "assurance vie", de: "Lebensversicherung", it: "assicurazione sulla vita", ru: "страхование жизни", ar: "تأمين على الحياة", hi: "जीवन बीमा", id: "asuransi jiwa", th: "ประกันชีวิต", vi: "bảo hiểm nhân thọ", tr: "hayat sigortası" },
+      brands: "Haven Life, Northwestern Mutual, Policygenius, State Farm, Ladder",
+      n: 5, days: 30,
+      kind: { en: "quote process and policy options", "zh-CN": "报价流程和保单选项", "zh-TW": "報價流程和保單選項", ko: "견적 절차와 정책 옵션", es: "proceso de cotización y opciones de póliza", "pt-BR": "processo de cotação e opções de apólice", fr: "processus de devis et options de police", de: "Angebotsprozess und Policenoptionen", it: "processo di preventivo e opzioni di polizza", ru: "процесса котировок и опций полиса", ar: "عملية التسعير وخيارات البوليصة", hi: "कोट प्रक्रिया और पॉलिसी विकल्प", id: "proses kutipan dan opsi polis", th: "ขั้นตอนใบเสนอราคาและตัวเลือกกรมธรรม์", vi: "quy trình báo giá và lựa chọn hợp đồng", tr: "fiyat teklif süreci ve poliçe seçenekleri" },
+    }),
+  },
+
+  {
+    slug: "best-checking-account-2026",
+    category: "finance",
+    offers: [{ id: "schwab-bank-checking" }, { id: "ally-bank-checking" }, { id: "chase-total-checking" }, { id: "sofi-checking" }, { id: "wells-fargo-everyday-checking" }],
+    en: {
+      title: "Best Checking Account 2026: 5 accounts compared for fees, ATM, and APY",
+      description: "Schwab Bank, Ally Bank, Chase Total, SoFi, and Wells Fargo — checking accounts compared. Monthly fees, ATM access, APY, and which account for which user.",
+      lede: "Five checking accounts. We compared monthly fees, ATM access, APY, and integration with brokerage/credit card products.",
+      methodology: "Compared monthly fees, fee waivers, ATM access (US and international), interest rate (APY), and integration with other financial products from the same institution.",
+      sections: [
+        { heading: "Online banks vs. traditional banks", paragraphs: ["Online banks (Ally, SoFi, Schwab): no monthly fees, higher APY (0.10-4.20%), no physical branches but Zelle/online tools.", "Traditional banks (Chase, Wells Fargo): physical branches, in-person services, but $10-12 monthly fees (waivable with deposits/balances)."] },
+        { heading: "Best for each use", paragraphs: ["Best for travelers: Schwab Bank. Unlimited ATM rebates worldwide, no foreign transaction fees.", "Best online bank: Ally Bank. 0.10-0.25% APY, $0 monthly fee, 43K+ ATMs free.", "Best big bank relationship: Chase Total Checking. 4,700+ branches, large ATM network.", "Best combined: SoFi. Up to 4.20% APY on savings, $0 fees.", "Best for Wells customers: Wells Fargo Everyday. 4,700+ branches."] }
+      ],
+      faqs: [
+        { q: "Should I have multiple checking accounts?", a: "Yes for many — primary checking + travel checking (Schwab) + online savings (Ally/SoFi). Maximize different features without paying fees." },
+        { q: "Are online banks safe?", a: "Yes — FDIC-insured up to $250K, same as traditional banks. Online banks have lower overhead, which is why they offer better rates." },
+        { q: "How important is APY on checking?", a: "Marginally — checking is for liquidity, not yield. Keep $2-4K in checking, the rest in high-yield savings. APY on checking matters less than on savings." },
+        { q: "What's the difference between Zelle and Venmo?", a: "Zelle is bank-to-bank (no separate account needed, free). Venmo is a separate account (faster between Venmo users but slower to bank). Most major banks support Zelle." }
+      ],
+      products: {
+        "schwab-bank-checking": { badge: "🏆 Best for travelers", review: "Schwab Bank Investor Checking is the right pick for international travelers. No monthly fees, unlimited ATM rebates worldwide (use any ATM anywhere, Schwab refunds the fee at end of month), no foreign transaction fees on debit card. Best travel checking account in the US.", pros: ["Unlimited ATM rebates worldwide", "No foreign transaction fees", "$0 monthly fee"], cons: ["No physical branches", "Requires Schwab brokerage account to open"] },
+        "ally-bank-checking": { badge: "🌐 Best online bank", review: "Ally Bank Interest Checking is the right online bank checking. 0.10-0.25% APY (highest in our test), $0 monthly fee, 43,000+ free ATMs (AllPoint network), free ATM rebates up to $10/month outside network. Solid online bank with strong mobile app.", pros: ["0.10-0.25% APY", "$0 monthly fee", "43,000+ free ATMs"], cons: ["No physical branches", "ATM rebate limited to $10/month outside network"] },
+        "chase-total-checking": { badge: "🏛️ Best big bank", review: "Chase Total Checking is the right pick if you value in-person banking. 4,700+ branches, 16,000+ ATMs, $200-300 sign-up bonus (when offered). Monthly fee $12, waived with $500 direct deposit or $1,500 balance. Best big bank relationship for credit card/mortgage integration.", pros: ["4,700+ branches", "16,000+ Chase ATMs", "Sign-up bonuses regularly available"], cons: ["$12 monthly fee (waivable)", "Lower APY than online banks"] },
+        "sofi-checking": { badge: "🎯 Best combined product", review: "SoFi Checking and Savings is the right pick if you want one product to do both. Up to 4.20% APY on savings portion, $0 monthly fees, combined checking + savings. SoFi member benefits apply across their products (loans, investing, etc.).", pros: ["Up to 4.20% APY on savings", "$0 fees", "Member benefits across SoFi products"], cons: ["No physical branches", "APY varies with promotional rates"] },
+        "wells-fargo-everyday-checking": { badge: "🏛️ Best for Wells customers", review: "Wells Fargo Everyday Checking is the right pick if you're already a Wells Fargo customer. 4,700+ branches, broad ATM network. Monthly fee $10, waivable with direct deposit or $500 balance. Comparable to Chase but with Wells' specific perks (online tools, credit cards).", pros: ["4,700+ branches", "Broad ATM network", "Wells Fargo integration"], cons: ["$10 monthly fee", "Past brand controversies"] }
+      },
+      offerNotes: {
+        "schwab-bank-checking": "Open at schwab.com. Requires linked Schwab brokerage account (which is also $0 minimum).",
+        "ally-bank-checking": "Open at ally.com. Online-only — no branches.",
+        "chase-total-checking": "Open at chase.com or in-branch. Sign-up bonuses (when offered) require qualifying activities.",
+        "sofi-checking": "Open at sofi.com. SoFi member benefits apply across other SoFi products.",
+        "wells-fargo-everyday-checking": "Open at wellsfargo.com or in-branch."
+      },
+      pinDescription: "Best checking account 2026: Schwab Bank vs. Ally Bank vs. Chase Total vs. SoFi vs. Wells Fargo — fees, ATM, APY compared. #checking #banking"
+    },
+    ja: {
+      title: "ベスト当座預金口座 2026：手数料・ATM・APYで5社比較",
+      description: "Schwab Bank、Ally Bank、Chase Total、SoFi、Wells Fargo — 当座預金口座比較。月会費、ATMアクセス、APY、ユーザー別最有力。",
+      lede: "5当座預金口座。月会費、ATMアクセス、APY、証券／クレカ統合を比較。",
+      methodology: "月会費、手数料免除、ATMアクセス（US＋国際）、金利（APY）、同一機関の他金融商品統合を比較。",
+      sections: [
+        { heading: "オンライン銀行 vs 伝統的銀行", paragraphs: ["オンライン銀行（Ally、SoFi、Schwab）：月会費無し、高APY（0.10-4.20%）、物理支店無しだがZelle／オンラインツール。", "伝統的銀行（Chase、Wells Fargo）：物理支店、対面サービス、月$10-12（入金／残高で免除可）。"] },
+        { heading: "用途別ベスト", paragraphs: ["旅行者：Schwab Bank。世界中無制限ATM返金、海外取引手数料無し。", "オンライン銀行：Ally Bank。0.10-0.25% APY、月会費$0、43K以上ATM無料。", "大手銀行関係：Chase Total Checking。4,700以上の支店、大型ATMネットワーク。", "統合：SoFi。セービング最大4.20% APY、手数料$0。", "Wells顧客：Wells Fargo Everyday。4,700以上の支店。"] }
+      ],
+      faqs: [
+        { q: "複数の当座預金口座を持つべき？", a: "多くの人にYes — プライマリ当座＋旅行当座（Schwab）＋オンラインセービング（Ally／SoFi）。手数料無しで異なる機能を最大化。" },
+        { q: "オンライン銀行は安全？", a: "Yes — 伝統的銀行と同じく$250KまでFDIC保険。オンライン銀行はオーバーヘッド低いため良い金利を提供。" },
+        { q: "当座のAPYはどれくらい重要？", a: "わずかに — 当座は流動性用、利回りではない。$2-4Kを当座、残りを高利回りセービングに。当座のAPYはセービングほど重要でない。" },
+        { q: "Zelle vs Venmoの違いは？", a: "Zelleは銀行間（別口座不要、無料）。Venmoは別口座（Venmoユーザー間は速いが銀行への送金遅い）。大半の大手銀行がZelleサポート。" }
+      ],
+      products: {
+        "schwab-bank-checking": { badge: "🏆 旅行者最有力", review: "Schwab Bank Investor Checkingは国際旅行者の妥当な選択。月会費無し、世界中無制限ATM返金（任意のATM使用、Schwabが月末に手数料返金）、デビットカードに海外取引手数料無し。米国最良の旅行当座預金口座。", pros: ["世界中無制限ATM返金", "海外取引手数料無し", "月会費$0"], cons: ["物理支店無し", "Schwab証券口座開設必要"] },
+        "ally-bank-checking": { badge: "🌐 オンライン銀行最有力", review: "Ally Bank Interest Checkingは妥当なオンライン銀行当座。0.10-0.25% APY（テスト最高）、月会費$0、43,000以上の無料ATM（AllPointネットワーク）、ネットワーク外で月$10までATM返金。強いモバイルアプリ付き堅実なオンライン銀行。", pros: ["0.10-0.25% APY", "月会費$0", "43,000以上の無料ATM"], cons: ["物理支店無し", "ネットワーク外ATM返金は月$10まで"] },
+        "chase-total-checking": { badge: "🏛️ 大手銀行最有力", review: "Chase Total Checkingは対面銀行を評価する人に妥当な選択。4,700以上の支店、16,000以上のATM、サインアップボーナス$200-300（提供時）。月$12、$500直接入金または$1,500残高で免除。クレカ／モーゲージ統合の大手銀行関係に最良。", pros: ["4,700以上の支店", "16,000以上のChase ATM", "定期的サインアップボーナス"], cons: ["月$12（免除可）", "オンライン銀行よりAPY低い"] },
+        "sofi-checking": { badge: "🎯 統合商品最有力", review: "SoFi Checking and Savingsは1商品で両方こなしたい人に妥当な選択。セービング部分で最大4.20% APY、月会費$0、当座＋セービング統合。SoFiメンバー特典が商品横断適用（ローン、投資等）。", pros: ["セービング最大4.20% APY", "手数料$0", "SoFi商品横断メンバー特典"], cons: ["物理支店無し", "APYはプロモレートで変動"] },
+        "wells-fargo-everyday-checking": { badge: "🏛️ Wells顧客最有力", review: "Wells Fargo Everyday Checkingは既にWells Fargo顧客の妥当な選択。4,700以上の支店、広いATMネットワーク。月$10、直接入金または$500残高で免除可。Chaseと同等だがWells独自特典（オンラインツール、クレカ）付き。", pros: ["4,700以上の支店", "広いATMネットワーク", "Wells Fargo統合"], cons: ["月$10", "過去のブランド論争"] }
+      },
+      offerNotes: {
+        "schwab-bank-checking": "schwab.comで開設。リンクされたSchwab証券口座必要（こちらも最低$0）。",
+        "ally-bank-checking": "ally.comで開設。オンラインのみ — 支店無し。",
+        "chase-total-checking": "chase.comまたは支店で開設。サインアップボーナス（提供時）には資格活動必要。",
+        "sofi-checking": "sofi.comで開設。SoFiメンバー特典が他SoFi商品横断適用。",
+        "wells-fargo-everyday-checking": "wellsfargo.comまたは支店で開設。"
+      },
+      pinDescription: "ベスト当座預金口座 2026：Schwab Bank × Ally Bank × Chase Total × SoFi × Wells Fargoを手数料・ATM・APYで比較。 #当座 #銀行"
+    },
+    translations: buildTranslations({
+      subject: { en: "checking account", "zh-CN": "支票账户", "zh-TW": "支票帳戶", ko: "당좌 예금 계좌", es: "cuenta corriente", "pt-BR": "conta corrente", fr: "compte chèque", de: "Girokonto", it: "conto corrente", ru: "текущий счёт", ar: "حساب جاري", hi: "चेकिंग अकाउंट", id: "rekening giro", th: "บัญชีกระแสรายวัน", vi: "tài khoản thanh toán", tr: "vadesiz hesap" },
+      brands: "Schwab, Ally, Chase, SoFi, Wells Fargo",
+      n: 5, days: 30,
+      kind: { en: "fees, ATM access, and APY", "zh-CN": "费用、ATM访问和年利率", "zh-TW": "費用、ATM存取和年利率", ko: "수수료, ATM 접근성, APY", es: "tarifas, acceso a cajeros y APY", "pt-BR": "tarifas, acesso a caixas e APY", fr: "frais, accès DAB et APY", de: "Gebühren, Geldautomat und APY", it: "commissioni, accesso ATM e APY", ru: "комиссий, доступа к банкоматам и APY", ar: "الرسوم والوصول للصراف الآلي والعائد السنوي", hi: "शुल्क, एटीएम पहुंच और एपीवाई", id: "biaya, akses ATM, dan APY", th: "ค่าธรรมเนียม การเข้าถึง ATM และ APY", vi: "phí, truy cập ATM và APY", tr: "ücretler, ATM erişimi ve APY" },
+    }),
+  },
+
+  {
+    slug: "best-money-transfer-app-2026",
+    category: "finance",
+    offers: [{ id: "wise-transfer" }, { id: "revolut" }, { id: "paypal-international" }, { id: "venmo" }, { id: "western-union" }],
+    en: {
+      title: "Best Money Transfer App 2026: 5 apps compared for domestic and international",
+      description: "Wise, Revolut, PayPal International, Venmo, and Western Union — money transfer apps compared. Fees, exchange rates, speed, and which app for which transfer.",
+      lede: "Five apps. We sent $1,000 USD-EUR through each, tracked the rate vs. mid-market, fees, and delivery time.",
+      methodology: "Sent $1,000 USD → EUR through each app, then $500 USD → USD domestic. Tracked mid-market exchange rate vs. quoted rate, transparent fees, hidden fees, and delivery time.",
+      sections: [
+        { heading: "International transfer cost comparison ($1,000 USD → EUR)", paragraphs: ["Wise: $1,000 → €917 (mid-market rate + 0.4% fee). Most transparent.", "Revolut (Standard tier): $1,000 → €915 (good rate, weekday only).", "PayPal: $1,000 → €870 (~3-5% effective fee including unfavorable exchange rate). Worst rate.", "Western Union (online): $1,000 → €890 (better than PayPal but still hidden margin).", "Venmo: not available for international transfers."] },
+        { heading: "Best for each use", paragraphs: ["Best international: Wise. Mid-market rate, transparent 0.4-1% fee.", "Best multi-feature: Revolut. Multi-currency account, crypto, stocks built-in.", "Best US domestic: Venmo. US-only, social feed, instant transfers.", "Best for cash pickup: Western Union. 200+ countries, in-person pickup.", "Best widespread: PayPal. Established but worst rates."] }
+      ],
+      faqs: [
+        { q: "Why is Wise cheaper than PayPal?", a: "Wise uses the mid-market exchange rate (the rate between currencies on the global market) plus a transparent fee. PayPal uses a markup on the exchange rate plus an additional fee — usually 3-5% worse than mid-market." },
+        { q: "Can I send money to anyone with Wise?", a: "Yes — recipient doesn't need a Wise account. You send to their bank account directly. They receive in their local currency." },
+        { q: "Are these apps safe?", a: "Yes — Wise, Revolut, PayPal, Venmo, Western Union all licensed money transmitters with anti-fraud measures." },
+        { q: "What about cryptocurrency for transfers?", a: "Possible but adds complexity — sender converts USD to USDC, sends to recipient, recipient converts back to local currency. Useful for specific situations (sanctioned countries) but Wise is simpler for most." }
+      ],
+      products: {
+        "wise-transfer": { badge: "🏆 Best international", review: "Wise (formerly TransferWise) is the right pick for international money transfers. Real mid-market exchange rate (the rate banks use between each other), transparent fees (0.4-1% depending on currency), 40+ currencies. Send to anyone's bank account globally without them needing a Wise account.", pros: ["Mid-market exchange rate", "Transparent fees (0.4-1%)", "40+ currencies"], cons: ["Sender needs Wise account", "Bank transfer can take 1-2 days"] },
+        "revolut": { badge: "🌐 Best multi-feature", review: "Revolut is the right pick if you want money transfers + multi-currency account + crypto + stocks. Multi-currency account holds 25+ currencies, integrated crypto and stock trading, premium tiers add benefits. International transfers are competitive (similar to Wise on weekdays).", pros: ["Multi-currency account (25+)", "Crypto + stocks integrated", "Premium tiers add benefits"], cons: ["Premium tiers cost $9-17/month", "Weekend rates worse"] },
+        "paypal-international": { badge: "🏪 Best widespread", review: "PayPal is the most widespread money transfer service but the worst rates. Effective fee is ~3-5% including exchange rate markup. Use only if recipient specifically requests PayPal — otherwise Wise is the obvious choice.", pros: ["Most widespread", "Buyer/seller protection on commerce", "Broad merchant integration"], cons: ["Worst exchange rates (~3-5% markup)", "Hidden fees in exchange rate"] },
+        "venmo": { badge: "🇺🇸 Best US domestic", review: "Venmo is the right pick for US domestic peer-to-peer transfers. Social feed (transactions visible to friends — adjustable), instant transfers to debit card ($0.25-$15), free bank transfers (1-3 days). Standard for US splitting bills.", pros: ["Social feed (can be turned off)", "Instant transfers to debit card", "US standard for domestic"], cons: ["US-only", "No international transfers"] },
+        "western-union": { badge: "💵 Best cash pickup", review: "Western Union is the right pick for cash pickup recipients in 200+ countries. The recipient picks up cash at a Western Union office without needing a bank account. Useful for unbanked recipients or specific situations.", pros: ["200+ countries", "Cash pickup (no bank account needed)", "In-person at branches"], cons: ["Variable fees (often high)", "In-person inconvenience"] }
+      },
+      offerNotes: {
+        "wise-transfer": "Sign up at wise.com. Account opening is free; fees apply per transfer.",
+        "revolut": "Sign up at revolut.com. Standard tier is free; Premium ($9/mo) and Metal ($17/mo) add benefits.",
+        "paypal-international": "Sign up at paypal.com. Account is free; fees on transactions.",
+        "venmo": "Sign up via Venmo mobile app. US-only.",
+        "western-union": "Sign up at westernunion.com or visit a branch."
+      },
+      pinDescription: "Best money transfer app 2026: Wise vs. Revolut vs. PayPal vs. Venmo vs. Western Union — for domestic and international. #moneytransfer #fintech"
+    },
+    ja: {
+      title: "ベスト送金アプリ 2026：国内＋国際で5アプリ比較",
+      description: "Wise、Revolut、PayPal International、Venmo、Western Union — 送金アプリ比較。手数料、為替レート、速度、送金別最有力。",
+      lede: "5アプリ。各アプリで$1,000 USD-EUR送金、ミッドマーケット比のレート、手数料、配達時間を追跡。",
+      methodology: "各アプリで$1,000 USD → EUR送金、続いて$500 USD → USD国内送金。ミッドマーケット為替レート vs 提示レート、透明手数料、隠れ手数料、配達時間を追跡。",
+      sections: [
+        { heading: "国際送金コスト比較（$1,000 USD → EUR）", paragraphs: ["Wise：$1,000 → €917（ミッドマーケットレート＋0.4%手数料）。最透明。", "Revolut（Standard階層）：$1,000 → €915（良いレート、平日のみ）。", "PayPal：$1,000 → €870（不利な為替レート込みで実効手数料約3-5%）。最悪レート。", "Western Union（オンライン）：$1,000 → €890（PayPalより良いが依然隠れマージンあり）。", "Venmo：国際送金利用不可。"] },
+        { heading: "用途別ベスト", paragraphs: ["国際：Wise。ミッドマーケットレート、透明0.4-1%手数料。", "マルチ機能：Revolut。マルチ通貨口座、暗号通貨、株内蔵。", "米国内：Venmo。米国のみ、ソーシャルフィード、即時送金。", "現金受取：Western Union。200以上の国、対面受取。", "広範：PayPal。確立だが最悪レート。"] }
+      ],
+      faqs: [
+        { q: "なぜWiseはPayPalより安い？", a: "Wiseはミッドマーケット為替レート（グローバル市場の通貨間レート）＋透明手数料を使用。PayPalは為替レートにマークアップ＋追加手数料 — 通常ミッドマーケットより3-5%悪い。" },
+        { q: "Wiseで誰にでも送金できる？", a: "Yes — 受取人はWise口座不要。彼らの銀行口座に直接送金。彼らは現地通貨で受取。" },
+        { q: "これらのアプリは安全？", a: "Yes — Wise、Revolut、PayPal、Venmo、Western Union全てライセンス済送金事業者で詐欺対策あり。" },
+        { q: "送金に暗号通貨は？", a: "可能だが複雑性追加 — 送信者がUSDをUSDCに変換、受信者に送信、受信者が現地通貨に変換。特定状況（制裁国）に有用だが、大半にはWiseがシンプル。" }
+      ],
+      products: {
+        "wise-transfer": { badge: "🏆 国際最有力", review: "Wise（旧TransferWise）は国際送金の妥当な選択。実ミッドマーケット為替レート（銀行間で使用するレート）、透明手数料（通貨により0.4-1%）、40以上の通貨。受取人がWise口座なしで誰の銀行口座にもグローバル送金可。", pros: ["ミッドマーケット為替レート", "透明手数料（0.4-1%）", "40以上の通貨"], cons: ["送信者がWise口座必要", "銀行送金は1〜2日かかる場合あり"] },
+        "revolut": { badge: "🌐 マルチ機能最有力", review: "Revolutは送金＋マルチ通貨口座＋暗号通貨＋株希望者に妥当な選択。マルチ通貨口座が25以上の通貨保持、暗号通貨＋株取引統合、プレミアム階層で特典追加。国際送金は競争力あり（平日Wise同等）。", pros: ["マルチ通貨口座（25以上）", "暗号通貨＋株統合", "プレミアム階層で特典追加"], cons: ["プレミアム階層月$9-17", "週末レートが悪い"] },
+        "paypal-international": { badge: "🏪 広範最有力", review: "PayPalは最広範な送金サービスだが最悪レート。為替レートマークアップ込み実効手数料約3-5%。受取人が特にPayPal要求時のみ使用 — それ以外はWiseが明らかな選択。", pros: ["最広範", "商取引で買い手／売り手保護", "広い加盟店統合"], cons: ["最悪為替レート（約3-5%マークアップ）", "為替レートに隠れ手数料"] },
+        "venmo": { badge: "🇺🇸 米国内最有力", review: "Venmoは米国内ピア・ツー・ピア送金の妥当な選択。ソーシャルフィード（取引が友人に表示 — 調整可）、デビットカードへの即時送金（$0.25-$15）、無料銀行送金（1〜3日）。米国の割り勘標準。", pros: ["ソーシャルフィード（オフ可）", "デビットカード即時送金", "国内米国標準"], cons: ["米国のみ", "国際送金無し"] },
+        "western-union": { badge: "💵 現金受取最有力", review: "Western Unionは200以上の国で現金受取受取人の妥当な選択。受取人がWestern Unionオフィスで銀行口座なしで現金受取。銀行口座無し受取人や特定状況に有用。", pros: ["200以上の国", "現金受取（銀行口座不要）", "支店で対面"], cons: ["変動手数料（しばしば高い）", "対面の不便さ"] }
+      },
+      offerNotes: {
+        "wise-transfer": "wise.comでサインアップ。口座開設無料、送金毎に手数料。",
+        "revolut": "revolut.comでサインアップ。Standard階層無料、Premium（月$9）とMetal（月$17）で特典追加。",
+        "paypal-international": "paypal.comでサインアップ。口座無料、取引に手数料。",
+        "venmo": "Venmoモバイルアプリ経由でサインアップ。米国のみ。",
+        "western-union": "westernunion.comでサインアップまたは支店訪問。"
+      },
+      pinDescription: "ベスト送金アプリ 2026：Wise × Revolut × PayPal × Venmo × Western Unionを国内・国際で比較。 #送金 #フィンテック"
+    },
+    translations: buildTranslations({
+      subject: { en: "money transfer app", "zh-CN": "汇款应用", "zh-TW": "匯款應用", ko: "송금 앱", es: "app de transferencia de dinero", "pt-BR": "aplicativo de transferência de dinheiro", fr: "application de transfert d'argent", de: "Geldtransfer-App", it: "app trasferimento denaro", ru: "приложение для денежных переводов", ar: "تطبيق تحويل الأموال", hi: "मनी ट्रांसफर ऐप", id: "aplikasi transfer uang", th: "แอปโอนเงิน", vi: "ứng dụng chuyển tiền", tr: "para transfer uygulaması" },
+      brands: "Wise, Revolut, PayPal, Venmo, Western Union",
+      n: 5, days: 30,
+      kind: { en: "exchange rates and fees", "zh-CN": "汇率和费用", "zh-TW": "匯率和費用", ko: "환율과 수수료", es: "tipos de cambio y comisiones", "pt-BR": "taxas de câmbio e tarifas", fr: "taux de change et frais", de: "Wechselkurse und Gebühren", it: "tassi di cambio e commissioni", ru: "обменных курсов и комиссий", ar: "أسعار الصرف والرسوم", hi: "एक्सचेंज दरें और शुल्क", id: "kurs mata uang dan biaya", th: "อัตราแลกเปลี่ยนและค่าธรรมเนียม", vi: "tỷ giá và phí", tr: "döviz kurları ve ücretler" },
+    }),
+  },
+
+  {
+    slug: "best-financial-advisor-2026",
+    category: "finance",
+    offers: [{ id: "vanguard-pas" }, { id: "betterment-premium" }, { id: "fidelity-wealth-services" }, { id: "schwab-intelligent-portfolios" }, { id: "facet-wealth" }],
+    en: {
+      title: "Best Financial Advisor 2026: 5 services compared for fee structure and access",
+      description: "Vanguard PAS, Betterment Premium, Fidelity Wealth Services, Schwab Intelligent Portfolios, and Facet Wealth — fee structures, advisor access, and which service for which portfolio.",
+      lede: "Five financial advisor services. Robo to human, AUM fees to flat fees. We compared cost structures, advisor access, and break-even analysis for different portfolio sizes.",
+      methodology: "Modeled $250K and $1M portfolios across each service. Calculated total annual cost (AUM fees + product expense ratios), CFP access tier, and break-even analysis for switching from one service to another.",
+      sections: [
+        { heading: "Fee structure comparison ($500K portfolio)", paragraphs: ["Vanguard PAS: $1,500/year (0.30% AUM).", "Betterment Premium: $2,000/year (0.40% AUM, $100K min).", "Fidelity Wealth Services: $2,500-5,200/year (0.50-1.04% AUM).", "Schwab Intelligent Portfolios: $0/year (robo only, no human advisor).", "Facet Wealth: $2,400-6,000/year (flat fee subscription, not AUM-based)."] },
+        { heading: "Best for each use", paragraphs: ["Best low-cost human advisor: Vanguard PAS. 0.30% AUM with fiduciary CFPs.", "Best digital-first: Betterment Premium. Unlimited CFP access + robo-advisor at 0.40% AUM.", "Best mid-tier human: Fidelity Wealth Services. Dedicated advisor with $50K minimum.", "Best free robo: Schwab Intelligent Portfolios. $0 advisory fee.", "Best for large portfolios: Facet Wealth. Flat fee makes it cheaper than AUM-based at $1M+."] }
+      ],
+      faqs: [
+        { q: "Do I need a financial advisor?", a: "Maybe — for portfolios under $250K, a robo-advisor (Schwab Intelligent Portfolios) or DIY index investing (Vanguard) is usually sufficient. Above $500K with complex situations (real estate, business ownership, tax-loss harvesting), a human advisor adds value." },
+        { q: "AUM fees vs. flat fees?", a: "AUM (% of assets) scales with portfolio — fine at $250K-$500K, expensive at $2M+. Flat fees (Facet) are cheaper at $1M+ but more expensive at $250K. Calculate break-even based on your situation." },
+        { q: "Are robo-advisors any good?", a: "Yes for portfolios under $500K with simple needs. They handle rebalancing and tax-loss harvesting at lower cost. Limited for complex tax planning, estate planning, or business owner needs." },
+        { q: "What about fee-only fiduciary CFPs?", a: "Highly recommended for complex situations. They charge $200-500/hour or flat planning fees ($1,500-5,000), don't earn commissions. Use NAPFA.org or XY Planning Network to find one." }
+      ],
+      products: {
+        "vanguard-pas": { badge: "🏆 Best low-cost human", review: "Vanguard Personal Advisor Services is the right pick for low-cost human advisory. 0.30% AUM fee (industry's lowest for human advisors), fiduciary CFPs, Vanguard fund focus. The CFPs are real human advisors (not robo), available for unlimited consultations. Best value for $500K-$5M portfolios.", pros: ["0.30% AUM (lowest human)", "Fiduciary CFPs", "Vanguard fund integration"], cons: ["Vanguard fund focus (limited to their products)", "Less personalized than higher-fee services"] },
+        "betterment-premium": { badge: "💎 Best digital-first", review: "Betterment Premium is the right pick for digital-first investors who want CFP access. 0.40% AUM fee, $100K minimum, unlimited CFP access, robo-advisor handles trading. Tax-loss harvesting included. Best for tech-savvy investors who want hybrid robo + human.", pros: ["Unlimited CFP access", "Robo-advisor automation", "Tax-loss harvesting included"], cons: ["$100K minimum", "0.40% AUM higher than Vanguard"] },
+        "fidelity-wealth-services": { badge: "🏛️ Best mid-tier human", review: "Fidelity Wealth Services is the right pick for traditional human advisory at a major brokerage. $50K minimum, dedicated advisor, 0.50-1.04% AUM depending on level. Best for Fidelity customers with $500K+ who want a single point of contact.", pros: ["Dedicated advisor", "Fidelity integration", "Multiple service levels"], cons: ["0.50-1.04% AUM higher than Vanguard", "$50K minimum"] },
+        "schwab-intelligent-portfolios": { badge: "🆓 Best free robo", review: "Schwab Intelligent Portfolios is the right pick for free robo-advisory. $0 advisory fee, $5K minimum, goal planning included. Schwab makes money on cash drag (~10% of portfolio sits in low-yield Schwab cash), which is the trade-off.", pros: ["$0 advisory fee", "$5K minimum is low", "Goal planning included"], cons: ["Cash drag (~10% in low-yield cash)", "No human advisor access"] },
+        "facet-wealth": { badge: "💸 Best for large portfolios", review: "Facet Wealth is the right pick for $1M+ portfolios. Flat-fee subscription ($2,400-$6,000/year) instead of AUM, dedicated CFP. At $2M portfolio, Facet at $4,800/year is much cheaper than 0.30% AUM ($6,000/year).", pros: ["Flat fee (cheaper at $1M+)", "Dedicated CFP", "Conflict-free (no AUM incentive)"], cons: ["Expensive at $250K (flat fee > 1% AUM)", "Smaller firm than Vanguard/Fidelity"] }
+      },
+      offerNotes: {
+        "vanguard-pas": "Sign up at investor.vanguard.com. $500K minimum to access PAS.",
+        "betterment-premium": "Sign up at betterment.com. $100K minimum for Premium tier; Digital tier (0.25% AUM, no CFP access) has no minimum.",
+        "fidelity-wealth-services": "Sign up at fidelity.com or call their wealth services line. $50K minimum.",
+        "schwab-intelligent-portfolios": "Sign up at schwab.com. $5K minimum.",
+        "facet-wealth": "Sign up at facet.com. Flat fee model — get quote based on complexity."
+      },
+      pinDescription: "Best financial advisor 2026: Vanguard PAS vs. Betterment Premium vs. Fidelity Wealth vs. Schwab Intelligent Portfolios vs. Facet — fees compared. #financialadvisor"
+    },
+    ja: {
+      title: "ベストファイナンシャルアドバイザー 2026：手数料構造・アクセスで5社比較",
+      description: "Vanguard PAS、Betterment Premium、Fidelity Wealth Services、Schwab Intelligent Portfolios、Facet Wealth — 手数料構造、アドバイザーアクセス、ポートフォリオ別最有力。",
+      lede: "5ファイナンシャルアドバイザーサービス。ロボから人的、AUM手数料からフラット手数料。コスト構造、アドバイザーアクセス、異なるポートフォリオサイズでの損益分岐分析。",
+      methodology: "$250Kと$1Mポートフォリオを各サービスでモデル化。総年間コスト（AUM手数料＋商品経費率）、CFPアクセス層、サービス間切替の損益分岐分析を計算。",
+      sections: [
+        { heading: "手数料構造比較（$500Kポートフォリオ）", paragraphs: ["Vanguard PAS：年$1,500（0.30% AUM）。", "Betterment Premium：年$2,000（0.40% AUM、$100K最低）。", "Fidelity Wealth Services：年$2,500-5,200（0.50-1.04% AUM）。", "Schwab Intelligent Portfolios：年$0（ロボのみ、人的アドバイザー無し）。", "Facet Wealth：年$2,400-6,000（フラット手数料サブスクリプション、AUMベースではない）。"] },
+        { heading: "用途別ベスト", paragraphs: ["低コスト人的アドバイザー：Vanguard PAS。フィデューシャリCFP付き0.30% AUM。", "デジタルファースト：Betterment Premium。0.40% AUMで無制限CFPアクセス＋ロボアド。", "中位層人的：Fidelity Wealth Services。$50K最低の専属アドバイザー。", "無料ロボ：Schwab Intelligent Portfolios。アドバイザリーフィー$0。", "大型ポートフォリオ：Facet Wealth。$1M+でAUMベースより安価なフラット手数料。"] }
+      ],
+      faqs: [
+        { q: "ファイナンシャルアドバイザーが必要？", a: "場合による — $250K未満のポートフォリオには、ロボアド（Schwab Intelligent Portfolios）またはDIYインデックス投資（Vanguard）で通常十分。$500K以上で複雑な状況（不動産、事業所有、税損収穫）には人的アドバイザーが価値追加。" },
+        { q: "AUM手数料 vs フラット手数料？", a: "AUM（資産%）はポートフォリオでスケール — $250K-$500Kで妥当、$2M+で高価。フラット手数料（Facet）は$1M+で安価だが$250Kで高価。状況に基づき損益分岐計算を。" },
+        { q: "ロボアドバイザーは良い？", a: "シンプルニーズの$500K未満ポートフォリオにYes。リバランシングと税損収穫を低コストで処理。複雑な税務プラン、遺産プラン、事業所有ニーズには限定的。" },
+        { q: "手数料のみフィデューシャリCFPは？", a: "複雑な状況に強く推奨。$200-500/時または定額プラン手数料（$1,500-5,000）課金、コミッション獲得無し。NAPFA.orgまたはXY Planning Networkで探す。" }
+      ],
+      products: {
+        "vanguard-pas": { badge: "🏆 低コスト人的最有力", review: "Vanguard Personal Advisor Servicesは低コスト人的アドバイザリーの妥当な選択。0.30% AUM手数料（人的アドバイザー業界最低）、フィデューシャリCFP、Vanguardファンド焦点。CFPは実人的アドバイザー（ロボではない）、無制限相談利用可。$500K-$5Mポートフォリオに最良コスパ。", pros: ["0.30% AUM（人的最低）", "フィデューシャリCFP", "Vanguardファンド統合"], cons: ["Vanguardファンド焦点（自社商品限定）", "高手数料サービスよりパーソナライズ弱め"] },
+        "betterment-premium": { badge: "💎 デジタルファースト最有力", review: "Betterment PremiumはCFPアクセス希望のデジタルファースト投資家に妥当な選択。0.40% AUM手数料、$100K最低、無制限CFPアクセス、ロボアドが取引処理。税損収穫含む。ハイブリッドロボ＋人的希望のテクサヴィー投資家に最良。", pros: ["無制限CFPアクセス", "ロボアド自動化", "税損収穫含む"], cons: ["$100K最低", "0.40% AUMはVanguardより高い"] },
+        "fidelity-wealth-services": { badge: "🏛️ 中位層人的最有力", review: "Fidelity Wealth Servicesは大手証券での伝統的人的アドバイザリーの妥当な選択。$50K最低、専属アドバイザー、レベルにより0.50-1.04% AUM。$500K+でシングルポイント窓口希望のFidelity顧客に最良。", pros: ["専属アドバイザー", "Fidelity統合", "複数サービスレベル"], cons: ["0.50-1.04% AUMはVanguardより高い", "$50K最低"] },
+        "schwab-intelligent-portfolios": { badge: "🆓 無料ロボ最有力", review: "Schwab Intelligent Portfoliosは無料ロボアドバイザリーの妥当な選択。アドバイザリーフィー$0、$5K最低、目標プラン含む。Schwabは現金ドラッグで稼ぐ（ポートフォリオの約10%が低利回りSchwab現金）、これがトレードオフ。", pros: ["アドバイザリーフィー$0", "$5K最低が低い", "目標プラン含む"], cons: ["現金ドラッグ（低利回り現金約10%）", "人的アドバイザーアクセス無し"] },
+        "facet-wealth": { badge: "💸 大型ポートフォリオ最有力", review: "Facet Wealthは$1M+ポートフォリオの妥当な選択。AUMではなくフラット手数料サブスクリプション（年$2,400-$6,000）、専属CFP。$2Mポートフォリオで年$4,800のFacetは0.30% AUM（年$6,000）よりはるかに安い。", pros: ["フラット手数料（$1M+で安価）", "専属CFP", "コンフリクトフリー（AUMインセンティブ無し）"], cons: ["$250Kで高価（フラット手数料 > 1% AUM）", "Vanguard／Fidelityより小型企業"] }
+      },
+      offerNotes: {
+        "vanguard-pas": "investor.vanguard.comでサインアップ。PASアクセスに$500K最低。",
+        "betterment-premium": "betterment.comでサインアップ。Premium階層に$100K最低、Digital階層（0.25% AUM、CFPアクセス無し）は最低無し。",
+        "fidelity-wealth-services": "fidelity.comでサインアップまたはウェルスサービスラインに電話。$50K最低。",
+        "schwab-intelligent-portfolios": "schwab.comでサインアップ。$5K最低。",
+        "facet-wealth": "facet.comでサインアップ。フラット手数料モデル — 複雑性に基づく見積取得。"
+      },
+      pinDescription: "ベストファイナンシャルアドバイザー 2026：Vanguard PAS × Betterment Premium × Fidelity Wealth × Schwab Intelligent Portfolios × Facetを手数料で比較。 #ファイナンシャルアドバイザー"
+    },
+    translations: buildTranslations({
+      subject: { en: "financial advisor", "zh-CN": "财务顾问", "zh-TW": "財務顧問", ko: "재무 자문", es: "asesor financiero", "pt-BR": "consultor financeiro", fr: "conseiller financier", de: "Finanzberater", it: "consulente finanziario", ru: "финансовый консультант", ar: "مستشار مالي", hi: "वित्तीय सलाहकार", id: "penasihat keuangan", th: "ที่ปรึกษาทางการเงิน", vi: "tư vấn tài chính", tr: "finansal danışman" },
+      brands: "Vanguard, Betterment, Fidelity, Schwab, Facet",
+      n: 5, days: 30,
+      kind: { en: "fee structure and advisor access", "zh-CN": "费用结构和顾问访问", "zh-TW": "費用結構和顧問存取", ko: "수수료 구조와 자문가 접근성", es: "estructura de tarifas y acceso al asesor", "pt-BR": "estrutura de tarifas e acesso ao consultor", fr: "structure des frais et accès au conseiller", de: "Gebührenstruktur und Beraterzugang", it: "struttura delle commissioni e accesso al consulente", ru: "структуры комиссий и доступа к консультанту", ar: "هيكل الرسوم والوصول للمستشار", hi: "शुल्क संरचना और सलाहकार पहुंच", id: "struktur biaya dan akses penasihat", th: "โครงสร้างค่าธรรมเนียมและการเข้าถึงที่ปรึกษา", vi: "cấu trúc phí và truy cập tư vấn", tr: "ücret yapısı ve danışman erişimi" },
+    }),
+  },
 ];
 

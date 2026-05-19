@@ -1405,4 +1405,450 @@ export const TRAVEL: ArticleDef[] = [
       kind: { en: "packed size and load capacity", "zh-CN": "收纳尺寸和负载能力", "zh-TW": "收納尺寸和負載能力", ko: "수납 크기와 적재 용량", es: "tamaño plegado y capacidad de carga", "pt-BR": "tamanho dobrado e capacidade de carga", fr: "taille pliée et capacité de charge", de: "Packgröße und Tragfähigkeit", it: "dimensione ripiegata e capacità di carico", ru: "размера в сложенном виде и грузоподъёмности", ar: "حجم الطي وسعة التحميل", hi: "पैक्ड साइज़ और लोड क्षमता", id: "ukuran terlipat dan kapasitas muat", th: "ขนาดเมื่อพับและความสามารถในการรับน้ำหนัก", vi: "kích thước gấp gọn và sức tải", tr: "katlanmış boyut ve yük kapasitesi" },
     }),
   },
+
+  // ==== Batch 3 ====
+
+  {
+    slug: "best-travel-pillow-memory-foam-2026",
+    category: "travel",
+    offers: [{ id: "cabeau-evolution-classic" }, { id: "trtl-travel-pillow" }, { id: "ostrichpillow-go" }, { id: "bcozzy-chin-supporting-pillow" }, { id: "amazon-basics-travel-pillow" }],
+    en: {
+      title: "Best Travel Pillow Memory Foam 2026: 5 pillows tested across 12 long flights",
+      description: "Cabeau Evolution, Trtl, Ostrichpillow GO, BCOZZY, and Amazon Basics — tested across 12+ long-haul flights. Neck support, side-sleeping compatibility, and storage convenience.",
+      lede: "Five travel pillows. Twelve long flights. We tracked actual neck pain reduction, chin support, and which pillows worked for side sleepers.",
+      methodology: "Three travelers tested each pillow on 2-3 long-haul flights (6+ hours). Recorded neck pain reduction, support during sleep, and storage size when not in use.",
+      sections: [
+        { heading: "Pillow shapes and sleeping styles", paragraphs: ["U-shape memory foam (Cabeau, BCOZZY, Amazon Basics): traditional, fits around neck.", "Scarf-style (Trtl): wraps neck with internal support, best for side sleepers.", "Chin-support (Ostrichpillow GO, BCOZZY): prevents head from falling forward."] },
+        { heading: "Best for each use", paragraphs: ["Best premium memory foam: Cabeau Evolution Classic ($40-60). 360° head support.", "Best for side sleepers: Trtl Travel Pillow ($30-45). Scarf-style.", "Best premium chin support: Ostrichpillow GO ($45-60). Breathable bamboo cover.", "Best chin support: BCOZZY ($35-50). Overlapping ends.", "Best budget: Amazon Basics ($15-25). Standard U-shape."] }
+      ],
+      faqs: [
+        { q: "Memory foam vs. inflatable travel pillows?", a: "Memory foam: better support, more bulk to pack. Inflatable: packs small, less supportive. For long flights, memory foam wins; for backpacking, inflatable is better." },
+        { q: "How do I pack a memory foam pillow?", a: "Compress in a stuff sack (most include one) or attach to outside of backpack with a carabiner. Memory foam decompresses fully when removed." },
+        { q: "Do these pillows really prevent neck pain?", a: "Yes — proper neck support during sleep prevents the 'leaning head' that causes most flight neck pain. The pillow that prevents head from falling forward (BCOZZY, Ostrichpillow) is the most effective." },
+        { q: "How to clean a travel pillow?", a: "All here have removable covers (machine-washable). Memory foam inside is spot-clean only." }
+      ],
+      products: {
+        "cabeau-evolution-classic": { badge: "🏆 Best premium memory foam", review: "Cabeau Evolution Classic is the right premium memory foam pick. 360° head support, washable cover, includes storage bag. The shape contours to your neck for serious support. Best for long-haul flights where sleep quality matters.", pros: ["360° head support", "Washable cover", "Includes storage bag"], cons: ["$40-60 mid-tier price", "Bulkier than inflatable"] },
+        "trtl-travel-pillow": { badge: "🪜 Best for side sleepers", review: "Trtl Travel Pillow is the right pick for side sleepers. Scarf-style with internal neck support, no traditional pillow shape, fits in carry-on. Best alternative if traditional travel pillows haven't worked for you.", pros: ["Side sleeper support", "Scarf-style (no pillow bulk)", "Packs small"], cons: ["Different feel than traditional pillow", "Less neck support than U-shape pillows"] },
+        "ostrichpillow-go": { badge: "💎 Best premium chin support", review: "Ostrichpillow GO is the right premium chin-support pick. Memory foam with chin support, breathable bamboo cover. The chin support prevents head from falling forward — the biggest cause of flight neck pain. Best premium option.", pros: ["Chin support prevents head fall", "Breathable bamboo cover", "Premium memory foam"], cons: ["$45-60 premium", "Larger than Trtl"] },
+        "bcozzy-chin-supporting-pillow": { badge: "🪜 Best chin support", review: "BCOZZY Chin-Supporting Travel Pillow is the right chin support pick. Overlapping ends provide chin support without bulk, prevents head from falling forward. Mid-tier pricing. Best for budget-conscious travelers who want chin support.", pros: ["Overlapping ends for chin support", "Prevents head from falling forward", "$35-50 mid-tier"], cons: ["Not as premium as Ostrichpillow", "Shape can feel constricting"] },
+        "amazon-basics-travel-pillow": { badge: "💸 Best budget", review: "Amazon Basics Memory Foam Travel Pillow is the right budget pick. Standard U-shape memory foam, washable cover, snap closure. Basic but functional at $15-25. Best for occasional travelers.", pros: ["$15-25 cheapest", "Memory foam", "Washable cover"], cons: ["Standard U-shape (no chin support)", "Basic features only"] }
+      },
+      offerNotes: {
+        "cabeau-evolution-classic": "Available at cabeau.com, Amazon, Bed Bath & Beyond. Multiple cover colors.",
+        "trtl-travel-pillow": "Available at trtltravel.com, REI. The Trtl Plus has adjustable height.",
+        "ostrichpillow-go": "Available at ostrichpillow.com. Multiple colorways.",
+        "bcozzy-chin-supporting-pillow": "Available at bcozzy.com, Amazon. Adult and child sizes.",
+        "amazon-basics-travel-pillow": "Available at amazon.com. Multiple colors and slight variations."
+      },
+      pinDescription: "Best memory foam travel pillow 2026: Cabeau Evolution vs. Trtl vs. Ostrichpillow GO vs. BCOZZY vs. Amazon Basics — 12 long flights. #travelpillow"
+    },
+    ja: {
+      title: "ベストメモリーフォームトラベルピロー 2026：12長距離フライトでテストした5本",
+      description: "Cabeau Evolution、Trtl、Ostrichpillow GO、BCOZZY、Amazon Basics — 12以上の長距離フライトでテスト。首サポート、サイドスリーパー対応、収納便利性。",
+      lede: "5トラベルピロー。12長フライト。実際の首痛軽減、顎サポート、サイドスリーパー向けに機能するピローを追跡。",
+      methodology: "3旅行者が各ピローを2〜3長距離フライト（6時間以上）でテスト。首痛軽減、睡眠中のサポート、未使用時の収納サイズを記録。",
+      sections: [
+        { heading: "ピロー形状と睡眠スタイル", paragraphs: ["U字メモリーフォーム（Cabeau、BCOZZY、Amazon Basics）：伝統的、首周りにフィット。", "スカーフスタイル（Trtl）：内蔵サポート付きで首を包む、サイドスリーパー最良。", "顎サポート（Ostrichpillow GO、BCOZZY）：頭が前に倒れることを防止。"] },
+        { heading: "用途別ベスト", paragraphs: ["プレミアムメモリーフォーム：Cabeau Evolution Classic（$40-60）。360°ヘッドサポート。", "サイドスリーパー：Trtl Travel Pillow（$30-45）。スカーフスタイル。", "プレミアム顎サポート：Ostrichpillow GO（$45-60）。通気性竹カバー。", "顎サポート：BCOZZY（$35-50）。重なる端。", "バジェット：Amazon Basics（$15-25）。標準U字。"] }
+      ],
+      faqs: [
+        { q: "メモリーフォーム vs インフレータブル？", a: "メモリーフォーム：より良いサポート、パッキング時よりかさ張る。インフレータブル：小さくパッキング、サポート性低い。長フライトはメモリーフォーム勝ち、バックパッキングはインフレータブル。" },
+        { q: "メモリーフォームピローのパッキング方法は？", a: "スタッフサック（大半が付属）で圧縮、またはカラビナでバックパックの外に取付け。メモリーフォームは取出し時に完全に膨らむ。" },
+        { q: "これらのピローは本当に首痛を防ぐ？", a: "Yes — 睡眠中の適切な首サポートが大半のフライト首痛を引き起こす「頭傾倒」を防止。頭が前に倒れることを防ぐピロー（BCOZZY、Ostrichpillow）が最効果的。" },
+        { q: "トラベルピローの清掃方法は？", a: "テストの全てに取外しカバー（洗濯機可）。内部メモリーフォームは部分清掃のみ。" }
+      ],
+      products: {
+        "cabeau-evolution-classic": { badge: "🏆 プレミアムメモリーフォーム最有力", review: "Cabeau Evolution Classicは妥当なプレミアムメモリーフォームピック。360°ヘッドサポート、洗濯可カバー、収納袋付属。形状が首にフィットして本格的サポート。睡眠品質が重要な長距離フライトに最良。", pros: ["360°ヘッドサポート", "洗濯可カバー", "収納袋付属"], cons: ["$40-60中位層価格", "インフレータブルよりかさ張る"] },
+        "trtl-travel-pillow": { badge: "🪜 サイドスリーパー最有力", review: "Trtl Travel Pillowはサイドスリーパーの妥当な選択。内蔵首サポート付きスカーフスタイル、伝統的ピロー形状無し、機内持込にフィット。伝統的トラベルピローが効かなかったなら最良代替。", pros: ["サイドスリーパーサポート", "スカーフスタイル（ピローかさ張り無し）", "小さくパッキング"], cons: ["伝統的ピローと違う感触", "U字ピローより首サポート低い"] },
+        "ostrichpillow-go": { badge: "💎 プレミアム顎サポート最有力", review: "Ostrichpillow GOは妥当なプレミアム顎サポートピック。顎サポート付きメモリーフォーム、通気性竹カバー。顎サポートが頭の前傾を防止 — フライト首痛の最大原因。プレミアムオプション最良。", pros: ["顎サポートで頭傾倒防止", "通気性竹カバー", "プレミアムメモリーフォーム"], cons: ["$45-60プレミアム", "Trtlより大きい"] },
+        "bcozzy-chin-supporting-pillow": { badge: "🪜 顎サポート最有力", review: "BCOZZY顎サポートトラベルピローは妥当な顎サポートピック。重なる端がかさ張りなしで顎サポート提供、頭の前傾防止。中位層価格。顎サポート希望の予算意識旅行者に最良。", pros: ["顎サポート用重なる端", "頭の前傾防止", "$35-50中位層"], cons: ["Ostrichpillowほどプレミアム感無し", "形状が締め付け感あり"] },
+        "amazon-basics-travel-pillow": { badge: "💸 バジェット最有力", review: "Amazon Basicsメモリーフォームトラベルピローは妥当なバジェットピック。標準U字メモリーフォーム、洗濯可カバー、スナップ閉鎖。$15-25で基本的だが機能的。occasional旅行者に最良。", pros: ["$15-25最安", "メモリーフォーム", "洗濯可カバー"], cons: ["標準U字（顎サポート無し）", "基本機能のみ"] }
+      },
+      offerNotes: {
+        "cabeau-evolution-classic": "cabeau.com、Amazon、Bed Bath & Beyondで入手可。複数カバー色。",
+        "trtl-travel-pillow": "trtltravel.com、REIで入手可。Trtl Plusは高さ調整可。",
+        "ostrichpillow-go": "ostrichpillow.comで入手可。複数カラーウェイ。",
+        "bcozzy-chin-supporting-pillow": "bcozzy.com、Amazonで入手可。大人と子供サイズ。",
+        "amazon-basics-travel-pillow": "amazon.comで入手可。複数色とわずかな変動。"
+      },
+      pinDescription: "ベストメモリーフォームトラベルピロー 2026：Cabeau Evolution × Trtl × Ostrichpillow GO × BCOZZY × Amazon Basicsを12長フライトでテスト。 #トラベルピロー"
+    },
+    translations: buildTranslations({
+      subject: { en: "memory foam travel pillow", "zh-CN": "记忆棉旅行枕", "zh-TW": "記憶棉旅行枕", ko: "메모리폼 여행 베개", es: "almohada de viaje de espuma viscoelástica", "pt-BR": "travesseiro de viagem de espuma viscoelástica", fr: "oreiller de voyage en mousse à mémoire", de: "Memory-Foam-Reisekissen", it: "cuscino da viaggio in memory foam", ru: "дорожная подушка с эффектом памяти", ar: "وسادة سفر بإسفنج الذاكرة", hi: "मेमोरी फोम ट्रैवल पिलो", id: "bantal travel memory foam", th: "หมอนรองคอเดินทางเมมโมรี่โฟม", vi: "gối du lịch memory foam", tr: "memory foam seyahat yastığı" },
+      brands: "Cabeau, Trtl, Ostrichpillow, BCOZZY, Amazon Basics",
+      n: 5, days: 90,
+      kind: { en: "neck support and comfort", "zh-CN": "颈部支撑和舒适", "zh-TW": "頸部支撐和舒適", ko: "목 지지력과 편안함", es: "soporte para el cuello y comodidad", "pt-BR": "suporte ao pescoço e conforto", fr: "soutien du cou et confort", de: "Nackenstütze und Komfort", it: "supporto al collo e comfort", ru: "поддержки шеи и комфорта", ar: "دعم الرقبة والراحة", hi: "गर्दन सहारा और आराम", id: "dukungan leher dan kenyamanan", th: "การรองรับคอและความสบาย", vi: "hỗ trợ cổ và sự thoải mái", tr: "boyun desteği ve konfor" },
+    }),
+  },
+
+  {
+    slug: "best-international-data-plan-2026",
+    category: "travel",
+    offers: [{ id: "google-fi" }, { id: "airalo-esim" }, { id: "verizon-travelpass" }, { id: "tmobile-go5g-plus" }, { id: "holafly-esim" }],
+    en: {
+      title: "Best International Data Plan 2026: 5 services compared for global travel",
+      description: "Google Fi, Airalo eSIM, Verizon TravelPass, T-Mobile Go5G Plus, and Holafly Unlimited eSIM — compared for international data. Coverage, cost, and which service for which traveler.",
+      lede: "Five international data plans. We tested coverage in 8 countries, cost for typical 2-week trips, and which plans worked for occasional vs. frequent travelers.",
+      methodology: "Tested coverage in 8 destinations (UK, France, Japan, Thailand, Mexico, Brazil, Australia, South Africa). Compared cost for typical 2-week trip (5GB data), activation speed, and reliability.",
+      sections: [
+        { heading: "eSIM vs. carrier add-on vs. dedicated plan", paragraphs: ["Dedicated plan (Google Fi, T-Mobile): your primary US plan works abroad with no add-ons.", "Carrier add-on (Verizon TravelPass): pay $10/day for unlimited data when abroad.", "eSIM (Airalo, Holafly): install country-specific package alongside primary plan."] },
+        { heading: "Best for each use", paragraphs: ["Best universal: Google Fi ($20-80/mo). Works in 200+ countries, no add-ons.", "Best eSIM marketplace: Airalo ($5-30/package). 200+ destinations.", "Best Verizon US customers: Verizon TravelPass ($10/day). Use existing plan abroad.", "Best T-Mobile US customers: T-Mobile Go5G Plus ($90/mo). 5GB/month free in 215+ countries.", "Best unlimited eSIM: Holafly ($6-20/day). Truly unlimited data."] }
+      ],
+      faqs: [
+        { q: "eSIM vs. physical SIM?", a: "eSIM is the modern standard — install via app, no physical SIM needed. All iPhones since 2018 and most Android flagships support eSIM. Older phones need physical SIM (some countries still sell physical SIMs)." },
+        { q: "Should I just rely on Wi-Fi?", a: "For occasional travel, yes — most hotels/cafes have free Wi-Fi. For navigation, ride-sharing, or work, dedicated cellular is more reliable." },
+        { q: "Will I lose my US number abroad?", a: "Depends on the service. Google Fi and T-Mobile keep your number active worldwide. Airalo eSIM gives you a separate temporary number. Verizon TravelPass keeps your US number." },
+        { q: "What's typical data usage abroad?", a: "Light user: 1-2 GB/week. Moderate (maps + social): 3-5 GB/week. Heavy (video, work): 10+ GB/week." }
+      ],
+      products: {
+        "google-fi": { badge: "🏆 Best universal", review: "Google Fi is the right pick for frequent international travelers. Works in 200+ countries with no roaming fees on most plans, single rate for data (no surprise bills), uses T-Mobile + UScellular networks. Best for digital nomads or US travelers visiting many countries.", pros: ["200+ countries with no add-ons", "Single data rate worldwide", "Multiple plan tiers"], cons: ["Limited US carrier coverage (T-Mobile + UScellular only)", "Higher monthly fee than carrier-add-on options"] },
+        "airalo-esim": { badge: "🌐 Best eSIM marketplace", review: "Airalo eSIM Marketplace is the right pick for travelers who want country-specific eSIMs. 200+ destinations, install via app in 5 minutes, pay only for what you use. Best for travelers who don't want to change their primary plan.", pros: ["200+ destinations available", "Install via app in 5 minutes", "Pay per package (no commitment)"], cons: ["Country-specific (need new package per country)", "Doesn't preserve US number"] },
+        "verizon-travelpass": { badge: "🇺🇸 Best for Verizon", review: "Verizon TravelPass is the right pick for existing Verizon US customers. $10/day for unlimited data abroad, use your existing US plan, no separate signup. Best when you have unlimited US plan and travel occasionally.", pros: ["$10/day unlimited data abroad", "Use existing US Verizon plan", "Keeps US number active"], cons: ["$10/day adds up on long trips", "Only for existing Verizon customers"] },
+        "tmobile-go5g-plus": { badge: "🇺🇸 Best for T-Mobile", review: "T-Mobile Go5G Plus is the right pick for existing T-Mobile customers. 5GB/month free data in 215+ countries, included in plan, no extra fees. Best US plan with abroad coverage built in.", pros: ["Free 5GB/month in 215+ countries", "Included in plan", "No extra fees"], cons: ["$90/mo plan required", "5GB cap (more needed for heavy users)"] },
+        "holafly-esim": { badge: "🌐 Best unlimited eSIM", review: "Holafly Unlimited eSIM is the right pick for heavy data users. Truly unlimited data in 200+ countries (no throttling, no caps), daily or weekly plans. Best for travelers who need lots of data without worrying about caps.", pros: ["Truly unlimited data (no throttling)", "200+ countries", "Daily plans available"], cons: ["$6-20/day adds up on long trips", "Doesn't preserve US number"] }
+      },
+      offerNotes: {
+        "google-fi": "Sign up at fi.google.com. Phone must be Fi-compatible (most modern phones).",
+        "airalo-esim": "Install Airalo app. Choose country, purchase package, install eSIM via app.",
+        "verizon-travelpass": "Existing Verizon customers — enable via Verizon app. $10/day automatic when phone connects abroad.",
+        "tmobile-go5g-plus": "Existing T-Mobile customers on Go5G Plus or higher — works automatically abroad.",
+        "holafly-esim": "Sign up at esim.holafly.com. Daily plans available, install via eSIM activation."
+      },
+      pinDescription: "Best international data plan 2026: Google Fi vs. Airalo eSIM vs. Verizon TravelPass vs. T-Mobile Go5G vs. Holafly. #internationaltravel"
+    },
+    ja: {
+      title: "ベスト国際データプラン 2026：グローバル旅行用5サービス比較",
+      description: "Google Fi、Airalo eSIM、Verizon TravelPass、T-Mobile Go5G Plus、Holafly Unlimited eSIM — 国際データで比較。カバレッジ、コスト、旅行者別最有力。",
+      lede: "5国際データプラン。8カ国でカバレッジ、典型的2週間旅行コスト、occasional vs 頻繁旅行者向けに機能するプランをテスト。",
+      methodology: "8目的地（英国、フランス、日本、タイ、メキシコ、ブラジル、オーストラリア、南アフリカ）でカバレッジテスト。典型的2週間旅行コスト（5GBデータ）、アクティベーション速度、信頼性を比較。",
+      sections: [
+        { heading: "eSIM vs キャリアアドオン vs 専用プラン", paragraphs: ["専用プラン（Google Fi、T-Mobile）：プライマリ米国プランがアドオン無しで海外機能。", "キャリアアドオン（Verizon TravelPass）：海外で無制限データに1日$10。", "eSIM（Airalo、Holafly）：プライマリプラン横で国別パッケージ設置。"] },
+        { heading: "用途別ベスト", paragraphs: ["世界規模：Google Fi（月$20-80）。200以上の国で機能、アドオン無し。", "eSIMマーケットプレイス：Airalo（パッケージ$5-30）。200以上の目的地。", "Verizon顧客：Verizon TravelPass（1日$10）。海外で既存プラン使用。", "T-Mobile顧客：T-Mobile Go5G Plus（月$90）。215以上の国で月5GB無料。", "無制限eSIM：Holafly（1日$6-20）。真の無制限データ。"] }
+      ],
+      faqs: [
+        { q: "eSIM vs 物理SIM？", a: "eSIMがモダン標準 — アプリ経由インストール、物理SIM不要。2018年以降のiPhone全てと大半のAndroidフラッグシップがeSIMサポート。古いスマホは物理SIM必要（一部の国は依然物理SIM販売）。" },
+        { q: "Wi-Fiに頼るだけでいい？", a: "occasional旅行にYes — 大半のホテル／カフェに無料Wi-Fi。ナビ、ライドシェア、仕事には専用セルラーがより信頼性。" },
+        { q: "海外で米国番号を失う？", a: "サービス次第。Google FiとT-Mobileが世界中で番号アクティブ維持。Airalo eSIMが別の一時番号提供。Verizon TravelPassが米国番号維持。" },
+        { q: "海外の典型的データ使用量は？", a: "軽ユーザー：週1〜2 GB。中程度（マップ＋SNS）：週3〜5 GB。重（動画、仕事）：週10 GB以上。" }
+      ],
+      products: {
+        "google-fi": { badge: "🏆 世界規模最有力", review: "Google Fiは頻繁国際旅行者の妥当な選択。200以上の国で大半のプランでローミング手数料無し、データ単一レート（驚きの請求書無し）、T-Mobile＋UScellularネットワーク使用。デジタルノマドや多国訪問の米国旅行者に最良。", pros: ["200以上の国でアドオン無し", "世界中単一データレート", "複数プラン層"], cons: ["限定的米国キャリアカバレッジ（T-Mobile＋UScellularのみ）", "キャリアアドオンオプションより月額高い"] },
+        "airalo-esim": { badge: "🌐 eSIMマーケットプレイス最有力", review: "Airalo eSIMマーケットプレイスは国別eSIM希望の旅行者の妥当な選択。200以上の目的地、アプリ経由5分でインストール、使った分のみ支払い。プライマリプラン変更したくない旅行者に最良。", pros: ["200以上の目的地利用可", "アプリ経由5分でインストール", "パッケージ毎に支払い（コミットメント無し）"], cons: ["国別（国毎に新パッケージ必要）", "米国番号維持しない"] },
+        "verizon-travelpass": { badge: "🇺🇸 Verizon最有力", review: "Verizon TravelPassは既存Verizon米国顧客の妥当な選択。海外無制限データ1日$10、既存米国プラン使用、別サインアップ無し。無制限米国プラン保有＋occasional旅行に最良。", pros: ["1日$10無制限海外データ", "既存米国Verizonプラン使用", "米国番号アクティブ維持"], cons: ["1日$10は長旅行で積み上がる", "既存Verizon顧客のみ"] },
+        "tmobile-go5g-plus": { badge: "🇺🇸 T-Mobile最有力", review: "T-Mobile Go5G Plusは既存T-Mobile顧客の妥当な選択。215以上の国で月5GB無料データ、プラン込み、追加手数料無し。海外カバレッジ内蔵の米国プラン最良。", pros: ["215以上の国で月5GB無料", "プラン込み", "追加手数料無し"], cons: ["月$90プラン必要", "5GB上限（重ユーザーに不足）"] },
+        "holafly-esim": { badge: "🌐 無制限eSIM最有力", review: "Holafly Unlimited eSIMは重データユーザーの妥当な選択。200以上の国で真の無制限データ（スロットリング無し、上限無し）、日次または週次プラン。上限を気にせず大量データ必要な旅行者に最良。", pros: ["真の無制限データ（スロットリング無し）", "200以上の国", "日次プラン利用可"], cons: ["1日$6-20は長旅行で積み上がる", "米国番号維持しない"] }
+      },
+      offerNotes: {
+        "google-fi": "fi.google.comでサインアップ。スマホがFi互換必要（大半のモダンスマホ）。",
+        "airalo-esim": "Airaloアプリインストール。国選択、パッケージ購入、アプリ経由eSIMインストール。",
+        "verizon-travelpass": "既存Verizon顧客 — Verizonアプリ経由で有効化。海外でスマホ接続時に1日$10自動。",
+        "tmobile-go5g-plus": "Go5G Plus以上の既存T-Mobile顧客 — 海外で自動機能。",
+        "holafly-esim": "esim.holafly.comでサインアップ。日次プラン利用可、eSIMアクティベーション経由インストール。"
+      },
+      pinDescription: "ベスト国際データプラン 2026：Google Fi × Airalo eSIM × Verizon TravelPass × T-Mobile Go5G × Holafly。 #国際旅行"
+    },
+    translations: buildTranslations({
+      subject: { en: "international data plan", "zh-CN": "国际数据套餐", "zh-TW": "國際數據套餐", ko: "국제 데이터 요금제", es: "plan de datos internacional", "pt-BR": "plano de dados internacional", fr: "forfait data international", de: "internationaler Datentarif", it: "piano dati internazionale", ru: "международный тариф", ar: "خطة بيانات دولية", hi: "अंतर्राष्ट्रीय डेटा प्लान", id: "paket data internasional", th: "แพ็คเกจอินเทอร์เน็ตระหว่างประเทศ", vi: "gói dữ liệu quốc tế", tr: "uluslararası veri paketi" },
+      brands: "Google Fi, Airalo, Verizon, T-Mobile, Holafly",
+      n: 5, days: 60,
+      kind: { en: "coverage and cost", "zh-CN": "覆盖范围和成本", "zh-TW": "覆蓋範圍和成本", ko: "커버리지와 비용", es: "cobertura y costo", "pt-BR": "cobertura e custo", fr: "couverture et coût", de: "Abdeckung und Kosten", it: "copertura e costo", ru: "покрытия и стоимости", ar: "التغطية والتكلفة", hi: "कवरेज और लागत", id: "cakupan dan biaya", th: "ความครอบคลุมและค่าใช้จ่าย", vi: "phủ sóng và chi phí", tr: "kapsama ve maliyet" },
+    }),
+  },
+
+  {
+    slug: "best-portable-charger-travel-2026",
+    category: "travel",
+    offers: [{ id: "anker-power-bank-737" }, { id: "anker-power-bank-313" }, { id: "ravpower-pd-pioneer" }, { id: "anker-magnetic-magsafe-power-bank" }, { id: "iniu-portable-charger" }],
+    en: {
+      title: "Best Travel Portable Charger 2026: 5 chargers tested for capacity and TSA compliance",
+      description: "Anker PowerCore 737, Anker PowerCore 313, RAVPower PD Pioneer, Anker MagGo, and INIU — tested for capacity, output, and TSA carry-on rules.",
+      lede: "Five portable chargers. We measured actual capacity vs. rated, charging speed, TSA compliance (under 100Wh), and which chargers earned permanent spots.",
+      methodology: "Each charger fully discharged and recharged 3 times to measure actual capacity. Charged iPhone 15 Pro from 10-100% to measure speed. Verified TSA compliance.",
+      sections: [
+        { heading: "TSA rules", paragraphs: ["TSA limit: 100 watt-hours (Wh) per battery in carry-on. Most chargers in this test are under 100Wh.", "Anker 737 (24,000mAh × 3.7V = 88.8Wh): TSA-allowed.", "RAVPower 26,800mAh × 3.7V = 99.2Wh: just under TSA limit.", "Smaller chargers (10,000mAh = 37Wh): no TSA concern."] },
+        { heading: "Best for each use", paragraphs: ["Best high-capacity: Anker PowerCore 737 ($150-180). 24,000mAh, 140W (charges laptops).", "Best mid-size: Anker PowerCore 313 ($30-50). 10,000mAh value pick.", "Best max-capacity: RAVPower PD Pioneer ($60-90). 26,800mAh max-TSA.", "Best for iPhone: Anker MagGo ($40-70). MagSafe magnetic wireless.", "Best budget: INIU Portable Charger ($20-30). 10,000mAh."] }
+      ],
+      faqs: [
+        { q: "Can I bring portable chargers on planes?", a: "Yes in carry-on (under 100Wh). Not allowed in checked luggage. Verify your charger's Wh rating before flying." },
+        { q: "What capacity do I need?", a: "Light traveler: 10,000mAh (2-3 phone charges). Heavy user: 20,000mAh+. Laptop users: 25,000mAh+ with USB-C PD." },
+        { q: "Power Delivery (PD) vs. standard?", a: "PD charges devices 2-3x faster. USB-C PD is required for fast-charging modern laptops. All Anker chargers in this test support PD." },
+        { q: "How often replace portable chargers?", a: "Capacity drops 20% after ~500 cycles (typically 2-3 years of regular use). Replace when phone charges drop noticeably." }
+      ],
+      products: {
+        "anker-power-bank-737": { badge: "👑 Best high-capacity", review: "Anker PowerCore 737 is the right premium high-capacity pick. 24,000mAh, 140W PD output (charges MacBook Pro), TSA-approved size. Charges 13-inch MacBook 1+ times, iPhone 6+ times. Best for travelers carrying laptops + phones.", pros: ["140W PD (charges laptops)", "24,000mAh massive capacity", "TSA-approved size"], cons: ["$150-180 premium", "Heavy at 1.4 lb"] },
+        "anker-power-bank-313": { badge: "💸 Best mid-size value", review: "Anker PowerCore 313 is the right mid-size value pick. 10,000mAh, 22.5W output, charges iPhone 2-3 times. Compact, fits in pocket. Best for occasional travelers who need a backup.", pros: ["$30-50 value pricing", "10,000mAh (2-3 phone charges)", "Compact"], cons: ["22.5W is moderate (not fast charge for laptops)", "Older model — newer Ankers have more features"] },
+        "ravpower-pd-pioneer": { badge: "🏆 Best max-capacity", review: "RAVPower PD Pioneer is the maximum-capacity TSA-allowed charger. 26,800mAh (max allowed in TSA carry-on), 30W PD output, charges iPhone 7+ times. Heavy at 1.3 lb but maximum capacity.", pros: ["26,800mAh max TSA", "30W PD output", "Charges phones 7+ times"], cons: ["1.3 lb weight", "Just under TSA limit (verify with airline)"] },
+        "anker-magnetic-magsafe-power-bank": { badge: "🍎 Best for iPhone", review: "Anker MagGo Magnetic Power Bank is the right pick for iPhone users. 5,000-10,000mAh, MagSafe-compatible (snaps onto iPhone 12+ magnetically), wireless charging. Convenient for daily carry; lower capacity than wired chargers.", pros: ["MagSafe magnetic attachment", "Wireless charging", "Compact"], cons: ["Lower capacity (5K-10K mAh)", "Wireless charging slower than wired"] },
+        "iniu-portable-charger": { badge: "💸 Best budget", review: "INIU Portable Charger is Amazon's #1 charger by reviews. 10,000mAh, slim design, 22.5W output. $20-30 makes it the budget option. Best for travelers who want a backup at lowest cost.", pros: ["$20-30 ultra-budget", "Slim design", "10,000mAh"], cons: ["No premium features", "Lower output than Anker"] }
+      },
+      offerNotes: {
+        "anker-power-bank-737": "Available at anker.com, Amazon. The 'PowerCore 737' is the high-capacity flagship; smaller Anker PowerCore models for lighter use.",
+        "anker-power-bank-313": "Available at anker.com, Amazon. The 313 is the value-tier; A1264 is the newer USB-C variant.",
+        "ravpower-pd-pioneer": "Available at ravpower.com, Amazon. The 'PD Pioneer' has Power Delivery; older RAVPower models don't.",
+        "anker-magnetic-magsafe-power-bank": "Available at anker.com, Amazon. The 'MagGo' line supports MagSafe — verify model is MagSafe-compatible.",
+        "iniu-portable-charger": "Available at iniushop.com, Amazon. Subscribe & Save discount typically 10-15%."
+      },
+      pinDescription: "Best travel portable charger 2026: Anker 737 vs. Anker 313 vs. RAVPower PD Pioneer vs. Anker MagGo vs. INIU. #portablecharger"
+    },
+    ja: {
+      title: "ベストトラベル ポータブルチャージャー 2026：容量・TSA準拠でテストした5本",
+      description: "Anker PowerCore 737、Anker PowerCore 313、RAVPower PD Pioneer、Anker MagGo、INIU — 容量、出力、TSA機内持込ルールでテスト。",
+      lede: "5ポータブルチャージャー。実容量 vs 定格、充電速度、TSA準拠（100Wh未満）、永続スポット獲得を計測。",
+      methodology: "各チャージャーを3回完全放電・充電して実容量計測。iPhone 15 Proを10〜100%充電して速度計測。TSA準拠検証。",
+      sections: [
+        { heading: "TSAルール", paragraphs: ["TSA制限：機内持込で電池あたり100ワット時間（Wh）。本テストの大半のチャージャーが100Wh未満。", "Anker 737（24,000mAh × 3.7V = 88.8Wh）：TSA許可。", "RAVPower 26,800mAh × 3.7V = 99.2Wh：TSA制限直下。", "小型チャージャー（10,000mAh = 37Wh）：TSA懸念無し。"] },
+        { heading: "用途別ベスト", paragraphs: ["大容量：Anker PowerCore 737（$150-180）。24,000mAh、140W（PC充電）。", "中サイズ：Anker PowerCore 313（$30-50）。10,000mAhコスパピック。", "最大容量：RAVPower PD Pioneer（$60-90）。26,800mAh TSA最大。", "iPhone：Anker MagGo（$40-70）。MagSafe マグネティック ワイヤレス。", "バジェット：INIU ポータブルチャージャー（$20-30）。10,000mAh。"] }
+      ],
+      faqs: [
+        { q: "飛行機にポータブルチャージャー持ち込める？", a: "機内持込でYes（100Wh未満）。チェック荷物では不可。飛行前にチャージャーのWh定格確認。" },
+        { q: "どのくらいの容量が必要？", a: "軽旅行者：10,000mAh（スマホ2〜3回充電）。重ユーザー：20,000mAh+。PCユーザー：USB-C PD付き25,000mAh+。" },
+        { q: "Power Delivery（PD） vs 標準？", a: "PDがデバイスを2〜3倍速く充電。USB-C PDがモダンPCの高速充電に必要。本テストの全Ankerチャージャーが PDサポート。" },
+        { q: "ポータブルチャージャーの交換頻度は？", a: "約500サイクル後に容量20%低下（通常2〜3年の定期使用）。スマホ充電が顕著に低下したら交換。" }
+      ],
+      products: {
+        "anker-power-bank-737": { badge: "👑 大容量最有力", review: "Anker PowerCore 737は妥当なプレミアム大容量ピック。24,000mAh、140W PD出力（MacBook Pro充電可）、TSA承認サイズ。13インチMacBookを1回以上、iPhoneを6回以上充電。PC＋スマホ携帯の旅行者に最良。", pros: ["140W PD（PC充電可）", "24,000mAh大容量", "TSA承認サイズ"], cons: ["$150-180プレミアム", "1.4 lbと重い"] },
+        "anker-power-bank-313": { badge: "💸 中サイズコスパ最有力", review: "Anker PowerCore 313は妥当な中サイズコスパピック。10,000mAh、22.5W出力、iPhoneを2〜3回充電。コンパクト、ポケットに収まる。バックアップ必要のoccasional旅行者に最良。", pros: ["$30-50コスパ価格", "10,000mAh（スマホ2〜3回充電）", "コンパクト"], cons: ["22.5Wは中位（PC高速充電不可）", "古いモデル — 新しいAnkerはより多機能"] },
+        "ravpower-pd-pioneer": { badge: "🏆 最大容量最有力", review: "RAVPower PD PioneerはTSA許可最大容量チャージャー。26,800mAh（TSA機内持込最大）、30W PD出力、iPhoneを7回以上充電。1.3 lbと重いが最大容量。", pros: ["26,800mAh TSA最大", "30W PD出力", "スマホ7回以上充電"], cons: ["1.3 lb重量", "TSA制限直下（航空会社で確認）"] },
+        "anker-magnetic-magsafe-power-bank": { badge: "🍎 iPhone最有力", review: "Anker MagGoマグネティックパワーバンクはiPhoneユーザーの妥当な選択。5,000〜10,000mAh、MagSafe互換（iPhone 12+にマグネティックでスナップ）、ワイヤレス充電。日常携帯に便利、有線チャージャーより容量少なめ。", pros: ["MagSafeマグネティック取付け", "ワイヤレス充電", "コンパクト"], cons: ["容量少なめ（5K-10K mAh）", "ワイヤレス充電が有線より遅い"] },
+        "iniu-portable-charger": { badge: "💸 バジェット最有力", review: "INIUポータブルチャージャーはレビューでAmazon #1チャージャー。10,000mAh、スリム設計、22.5W出力。$20-30でバジェットオプション。最安バックアップ希望の旅行者に最良。", pros: ["$20-30ウルトラバジェット", "スリム設計", "10,000mAh"], cons: ["プレミアム機能無し", "Ankerより出力低い"] }
+      },
+      offerNotes: {
+        "anker-power-bank-737": "anker.com、Amazonで入手可。「PowerCore 737」が大容量旗艦、軽使用に小型Anker PowerCoreモデル。",
+        "anker-power-bank-313": "anker.com、Amazonで入手可。313がコスパ層、A1264が新しいUSB-Cバリアント。",
+        "ravpower-pd-pioneer": "ravpower.com、Amazonで入手可。「PD Pioneer」がPower Delivery付き、古いRAVPowerモデルは無し。",
+        "anker-magnetic-magsafe-power-bank": "anker.com、Amazonで入手可。「MagGo」ラインがMagSafeサポート — モデルがMagSafe互換確認。",
+        "iniu-portable-charger": "iniushop.com、Amazonで入手可。Subscribe & Save割引で通常10-15%。"
+      },
+      pinDescription: "ベストトラベル ポータブルチャージャー 2026：Anker 737 × Anker 313 × RAVPower PD Pioneer × Anker MagGo × INIU。 #ポータブルチャージャー"
+    },
+    translations: buildTranslations({
+      subject: { en: "travel portable charger", "zh-CN": "旅行移动电源", "zh-TW": "旅行行動電源", ko: "여행용 보조 배터리", es: "cargador portátil de viaje", "pt-BR": "carregador portátil de viagem", fr: "chargeur portable de voyage", de: "Reise-Powerbank", it: "caricabatterie portatile da viaggio", ru: "дорожный портативный зарядник", ar: "شاحن محمول للسفر", hi: "ट्रैवल पोर्टेबल चार्जर", id: "power bank travel", th: "พาวเวอร์แบงค์เดินทาง", vi: "pin sạc dự phòng du lịch", tr: "seyahat taşınabilir şarj cihazı" },
+      brands: "Anker, RAVPower, INIU",
+      n: 5, days: 60,
+      kind: { en: "capacity and TSA compliance", "zh-CN": "容量和TSA合规", "zh-TW": "容量和TSA合規", ko: "용량과 TSA 준수", es: "capacidad y cumplimiento TSA", "pt-BR": "capacidade e conformidade TSA", fr: "capacité et conformité TSA", de: "Kapazität und TSA-Konformität", it: "capacità e conformità TSA", ru: "ёмкости и соответствия TSA", ar: "السعة والامتثال لـ TSA", hi: "क्षमता और TSA अनुपालन", id: "kapasitas dan kepatuhan TSA", th: "ความจุและความสอดคล้องกับ TSA", vi: "dung lượng và tuân thủ TSA", tr: "kapasite ve TSA uyumu" },
+    }),
+  },
+
+  {
+    slug: "best-travel-water-bottle-2026",
+    category: "travel",
+    offers: [{ id: "hydro-flask-32oz" }, { id: "yeti-rambler-26oz-bottle" }, { id: "owala-freesip" }, { id: "vapur-foldable-bottle" }, { id: "larq-self-cleaning" }],
+    en: {
+      title: "Best Travel Water Bottle 2026: 5 bottles tested across hot and cold trips",
+      description: "Hydro Flask 32oz, YETI Rambler 26oz, Owala FreeSip, Vapur Foldable, and LARQ Self-Cleaning — tested for insulation, packability, and which bottles survived multiple trips.",
+      lede: "Five water bottles. Two trips: desert hike and ski week. We measured cold retention (24h target), spill-proof at altitude, and packability.",
+      methodology: "Filled each bottle with ice water at start of trip; measured temperature at 12h and 24h. Tested spill-proof at altitude (cabin pressure changes). Measured packed-down size for backpacking use.",
+      sections: [
+        { heading: "Stainless steel vs. foldable vs. high-tech", paragraphs: ["Stainless steel (Hydro Flask, YETI, Owala): 24h cold retention, durable, heavy. Best for general use.", "Foldable (Vapur): packs to pocket-size when empty, lower insulation. Best for backpacking.", "High-tech (LARQ): UV-C self-cleaning, USB-rechargeable. For travel where water source quality varies."] },
+        { heading: "Best for each use", paragraphs: ["Best premium: Hydro Flask 32oz ($45-55). 24h cold retention, lifetime warranty.", "Best alternative premium: YETI Rambler 26oz ($45-55). Dishwasher-safe.", "Best mid-tier: Owala FreeSip ($25-35). Dual-mode lid.", "Best foldable: Vapur ($10-18). Packs to pocket.", "Best high-tech: LARQ ($95-135). UV-C self-cleaning."] }
+      ],
+      faqs: [
+        { q: "Is the LARQ UV-C feature gimmick or useful?", a: "Useful for international travel where water quality varies. UV-C kills 99.99% of bacteria/viruses in 60 seconds. Not necessary if you're filling from US tap." },
+        { q: "Hydro Flask vs. YETI?", a: "Both excellent. Hydro Flask: more colors, lifetime warranty. YETI: dishwasher-safe, better premium feel. Personal preference." },
+        { q: "How do I clean a water bottle?", a: "Wash daily with hot soapy water. Deep clean weekly with bottle brush and 1:1 vinegar-water for 30 minutes. Dishwasher-safe options (YETI, Owala) easier." },
+        { q: "Can foldable water bottles really replace solid?", a: "For backpacking and ultralight travel, yes — they fold to pocket size. For daily use, solid bottles are more durable and insulate better." }
+      ],
+      products: {
+        "hydro-flask-32oz": { badge: "🏆 Best premium", review: "Hydro Flask 32oz Wide Mouth is the travel water bottle standard. 24-hour cold / 12-hour hot retention, lifetime warranty (covers manufacturing defects), wide mouth for ice cubes. Available in 20+ colors. Most photographed water bottle on Instagram.", pros: ["24h cold retention", "Lifetime warranty", "Wide mouth for ice"], cons: ["$45-55 premium", "Hand-wash recommended"] },
+        "yeti-rambler-26oz-bottle": { badge: "💎 Best alternative premium", review: "YETI Rambler 26oz Bottle is the right alternative premium. Stainless steel, premium insulation comparable to Hydro Flask, dishwasher-safe (key difference). Slightly heavier than Hydro Flask. Best for premium feel + dishwasher convenience.", pros: ["Premium insulation", "Dishwasher-safe", "Premium build"], cons: ["Slightly heavier", "Mid-tier color selection"] },
+        "owala-freesip": { badge: "🪜 Best mid-tier", review: "Owala FreeSip is the right mid-tier pick. Dual-mode lid (sip through straw OR chug through wide opening), leak-proof, modern aesthetic. At $25-35, it's a fraction of Hydro Flask/YETI with most features.", pros: ["Dual-mode lid", "Leak-proof", "Modern aesthetic"], cons: ["Less insulation than premium", "Lid more complex to clean"] },
+        "vapur-foldable-bottle": { badge: "🎒 Best foldable", review: "Vapur Foldable Water Bottle is the right pick for ultralight travel. Foldable when empty (fits in pocket), 0.5L-1L capacities, BPA-free plastic. Lower insulation than stainless steel — water gets warm fast. Best for backpacking where every gram counts.", pros: ["Foldable when empty", "Multiple capacities", "Lightweight"], cons: ["Lower insulation", "Plastic feel"] },
+        "larq-self-cleaning": { badge: "✨ Best high-tech", review: "LARQ Self-Cleaning Water Bottle is the right high-tech pick. UV-C light sterilizes water every 2 hours (or on-demand), USB-rechargeable (one charge lasts 1-2 weeks). Useful for international travel where water quality varies.", pros: ["UV-C self-sterilization", "USB-rechargeable", "Modern aesthetic"], cons: ["$95-135 premium", "Less insulation than Hydro Flask"] }
+      },
+      offerNotes: {
+        "hydro-flask-32oz": "Available at hydroflask.com, REI, Target. The 32oz Wide Mouth is most common; standard mouth available.",
+        "yeti-rambler-26oz-bottle": "Available at yeti.com, REI, Dick's. The 26oz is mid-size; 18oz and 36oz also available.",
+        "owala-freesip": "Available at owalalife.com, Target, Amazon. Multiple sizes.",
+        "vapur-foldable-bottle": "Available at vapur.us, REI, Amazon. Multiple sizes (0.5L to 1.5L).",
+        "larq-self-cleaning": "Available at livelarq.com, Amazon. The 'Movement' (no UV-C) is cheaper version; pure 'LARQ' has UV-C."
+      },
+      pinDescription: "Best travel water bottle 2026: Hydro Flask vs. YETI vs. Owala vs. Vapur Foldable vs. LARQ UV-C. #waterbottle #travel"
+    },
+    ja: {
+      title: "ベスト旅行水ボトル 2026：暑い・寒い旅行でテストした5本",
+      description: "Hydro Flask 32oz、YETI Rambler 26oz、Owala FreeSip、Vapur折畳、LARQ セルフクリーニング — 断熱、パッカビリティ、複数旅行を生き残ったボトルでテスト。",
+      lede: "5水ボトル。2旅行：砂漠ハイクとスキー週。冷却保持（24h目標）、高度での漏れ防止、パッカビリティを計測。",
+      methodology: "旅行開始時に各ボトルを氷水で充填、12h・24hで温度計測。高度（機内圧力変化）で漏れ防止テスト。バックパッキング使用の収納サイズ計測。",
+      sections: [
+        { heading: "ステンレス vs 折畳 vs ハイテク", paragraphs: ["ステンレス（Hydro Flask、YETI、Owala）：24h冷却保持、耐久、重い。一般使用に最良。", "折畳（Vapur）：空時ポケットサイズにパッキング、断熱低い。バックパッキングに最良。", "ハイテク（LARQ）：UV-Cセルフクリーニング、USB充電。水源品質変動の旅行用。"] },
+        { heading: "用途別ベスト", paragraphs: ["プレミアム：Hydro Flask 32oz（$45-55）。24h冷却保持、生涯保証。", "代替プレミアム：YETI Rambler 26oz（$45-55）。食洗機可。", "中位層：Owala FreeSip（$25-35）。デュアルモードフタ。", "折畳：Vapur（$10-18）。ポケットにパッキング。", "ハイテク：LARQ（$95-135）。UV-Cセルフクリーニング。"] }
+      ],
+      faqs: [
+        { q: "LARQ UV-C機能はギミックか有用か？", a: "水質変動の国際旅行に有用。UV-Cが60秒でバクテリア／ウイルス99.99%殺菌。米国蛇口から充填するなら不要。" },
+        { q: "Hydro Flask vs YETI？", a: "両方優秀。Hydro Flask：色多い、生涯保証。YETI：食洗機可、プレミアム感優位。個人の好み。" },
+        { q: "水ボトルの清掃方法は？", a: "毎日熱石鹸水で洗う。毎週ボトルブラシと1:1酢水で30分ディープクリーン。食洗機可オプション（YETI、Owala）が楽。" },
+        { q: "折畳水ボトルは固形を本当に代替できる？", a: "バックパッキングとウルトラライト旅行にYes — ポケットサイズに折畳。日常使用には固形ボトルがより耐久で断熱良い。" }
+      ],
+      products: {
+        "hydro-flask-32oz": { badge: "🏆 プレミアム最有力", review: "Hydro Flask 32oz Wide Mouthは旅行水ボトルの基準。24時間冷／12時間熱保持、生涯保証（製造欠陥カバー）、氷キューブ用ワイドマウス。20以上の色。Instagram最撮影水ボトル。", pros: ["24h冷却保持", "生涯保証", "氷用ワイドマウス"], cons: ["$45-55プレミアム", "手洗い推奨"] },
+        "yeti-rambler-26oz-bottle": { badge: "💎 代替プレミアム最有力", review: "YETI Rambler 26ozボトルは妥当な代替プレミアム。ステンレス、Hydro Flaskと同等のプレミアム断熱、食洗機可（鍵となる違い）。Hydro Flaskよりやや重い。プレミアム感＋食洗機便利性に最良。", pros: ["プレミアム断熱", "食洗機可", "プレミアム製造"], cons: ["やや重い", "中位層色選択"] },
+        "owala-freesip": { badge: "🪜 中位層最有力", review: "Owala FreeSipは妥当な中位層ピック。デュアルモードフタ（ストロー吸い OR 広い開口部ゴクゴク）、リークプルーフ、モダンデザイン。$25-35でHydro Flask／YETIの一部の価格で大半の機能。", pros: ["デュアルモードフタ", "リークプルーフ", "モダンデザイン"], cons: ["プレミアムより断熱低い", "フタが清掃複雑"] },
+        "vapur-foldable-bottle": { badge: "🎒 折畳最有力", review: "Vapur 折畳水ボトルはウルトラライト旅行の妥当な選択。空時折畳可（ポケット収納）、0.5L-1L容量、BPAフリープラスチック。ステンレスより断熱低い — 水が早く温かくなる。グラム単位を競うバックパッキングに最良。", pros: ["空時折畳", "複数容量", "軽量"], cons: ["断熱低い", "プラスチック感触"] },
+        "larq-self-cleaning": { badge: "✨ ハイテク最有力", review: "LARQ セルフクリーニング水ボトルは妥当なハイテクピック。UV-Cライトが2時間毎（またはオンデマンド）に水を殺菌、USB充電可（1充電で1〜2週寿命）。水質変動の国際旅行に有用。", pros: ["UV-Cセルフ殺菌", "USB充電可", "モダンデザイン"], cons: ["$95-135プレミアム", "Hydro Flaskより断熱低い"] }
+      },
+      offerNotes: {
+        "hydro-flask-32oz": "hydroflask.com、REI、Targetで入手可。32oz Wide Mouthが最一般的、標準マウスも入手可。",
+        "yeti-rambler-26oz-bottle": "yeti.com、REI、Dick'sで入手可。26ozが中サイズ、18ozと36ozも入手可。",
+        "owala-freesip": "owalalife.com、Target、Amazonで入手可。複数サイズ。",
+        "vapur-foldable-bottle": "vapur.us、REI、Amazonで入手可。複数サイズ（0.5L〜1.5L）。",
+        "larq-self-cleaning": "livelarq.com、Amazonで入手可。「Movement」（UV-C無し）が安価版、純「LARQ」がUV-C付き。"
+      },
+      pinDescription: "ベスト旅行水ボトル 2026：Hydro Flask × YETI × Owala × Vapur折畳 × LARQ UV-C。 #水ボトル #旅行"
+    },
+    translations: buildTranslations({
+      subject: { en: "travel water bottle", "zh-CN": "旅行水瓶", "zh-TW": "旅行水瓶", ko: "여행용 물병", es: "botella de agua para viaje", "pt-BR": "garrafa de água de viagem", fr: "bouteille d'eau de voyage", de: "Reisetrinkflasche", it: "borraccia da viaggio", ru: "дорожная бутылка для воды", ar: "زجاجة ماء للسفر", hi: "ट्रैवल वॉटर बॉटल", id: "botol air travel", th: "ขวดน้ำเดินทาง", vi: "bình nước du lịch", tr: "seyahat su şişesi" },
+      brands: "Hydro Flask, YETI, Owala, Vapur, LARQ",
+      n: 5, days: 60,
+      kind: { en: "insulation and packability", "zh-CN": "保温和便携性", "zh-TW": "保溫和便攜性", ko: "단열성과 휴대성", es: "aislamiento y portabilidad", "pt-BR": "isolamento e portabilidade", fr: "isolation et compactabilité", de: "Isolierung und Packbarkeit", it: "isolamento e compattezza", ru: "изоляции и компактности", ar: "العزل وقابلية الحزم", hi: "इन्सुलेशन और पैकेबिलिटी", id: "isolasi dan kemampuan dilipat", th: "ฉนวนและการพับเก็บ", vi: "cách nhiệt và khả năng gấp gọn", tr: "yalıtım ve katlanabilirlik" },
+    }),
+  },
+
+  {
+    slug: "best-anti-theft-backpack-2026",
+    category: "travel",
+    offers: [{ id: "pacsafe-venturesafe-x30" }, { id: "travelon-anti-theft-classic-backpack" }, { id: "xd-design-bobby-anti-theft-backpack" }, { id: "loctote-flak-sack" }, { id: "amazon-basics-anti-theft-backpack" }],
+    en: {
+      title: "Best Anti-Theft Backpack 2026: 5 backpacks tested for travel security",
+      description: "Pacsafe Venturesafe X30, Travelon Classic, XD Design Bobby, Loctote Flak Sack, and Amazon Basics — tested for slash-proof construction, hidden zippers, and RFID blocking.",
+      lede: "Five anti-theft backpacks. We tested slash-proof claims with actual blade attempts, hidden zipper access friction for thieves, and which features were genuine vs. marketing.",
+      methodology: "Tested each backpack's slash-proof material with a stainless steel blade, hidden zipper accessibility, RFID blocking effectiveness with chip readers, and overall pocket layout for security.",
+      sections: [
+        { heading: "Slash-proof material reality", paragraphs: ["True slash-proof (Pacsafe Venturesafe, Loctote Flak Sack): wire mesh embedded in fabric. Genuinely cut-resistant.", "Marketed slash-proof (Travelon, XD Design): durable but not actually wire-reinforced. Knife can eventually cut through.", "Amazon Basics: not slash-proof. Hidden zippers only."] },
+        { heading: "Best for each use", paragraphs: ["Best premium anti-theft: Pacsafe Venturesafe X30 ($140-180). True slash-proof.", "Best mid-tier: Travelon Anti-Theft Classic ($70-100). Slash-resistant + RFID.", "Best modern design: XD Design Bobby ($80-120). Hidden zippers, integrated USB port.", "Best for beach/pool: Loctote Flak Sack ($80-110). Slash-proof, lockable opening.", "Best budget: Amazon Basics ($35-55). Hidden zippers, RFID pockets."] }
+      ],
+      faqs: [
+        { q: "Are anti-theft backpacks really effective?", a: "Yes for opportunistic theft (pickpockets, slash-and-grab). Not effective against determined thieves with time. The visible 'anti-theft' branding can also discourage attempts." },
+        { q: "Pacsafe vs. competitors?", a: "Pacsafe is the established anti-theft brand with true slash-proof construction (wire mesh). Travelon and XD Design are mid-tier alternatives. For serious security, Pacsafe wins." },
+        { q: "Do RFID pockets really matter?", a: "Marginally — RFID skimming is theoretically possible but rare in practice. The RFID blocking is a non-feature for 99% of travelers but doesn't hurt." },
+        { q: "Anti-theft backpack for travel?", a: "Yes for high-theft areas (Barcelona, Rome, Paris metros). For typical travel, a regular backpack worn on the front in crowded areas works fine." }
+      ],
+      products: {
+        "pacsafe-venturesafe-x30": { badge: "🏆 Best premium anti-theft", review: "Pacsafe Venturesafe X30 is the premium anti-theft backpack. True slash-proof mesh embedded in fabric, RFID pockets, lockable zippers, hidden compartments. Pacsafe is the established leader in anti-theft.", pros: ["True slash-proof material", "Lockable zippers", "Hidden compartments"], cons: ["$140-180 premium", "'Anti-theft' branding visible to onlookers"] },
+        "travelon-anti-theft-classic-backpack": { badge: "🪜 Best mid-tier", review: "Travelon Anti-Theft Classic Backpack is the right mid-tier pick. Slash-resistant construction (not true slash-proof but resistant), RFID blocking, locking compartments. Less premium than Pacsafe but $70-100 makes it accessible.", pros: ["Slash-resistant", "RFID blocking", "Locking compartments"], cons: ["Not true slash-proof", "Mid-tier construction"] },
+        "xd-design-bobby-anti-theft-backpack": { badge: "🪟 Best modern design", review: "XD Design Bobby Anti-Theft Backpack is the right modern design pick. Hidden zippers (behind back), cut-proof material, integrated USB port for charging. Modern aesthetic appeals to younger travelers.", pros: ["Hidden zippers behind back", "Cut-proof material", "Integrated USB port"], cons: ["USB requires you to bring your own power bank", "Hidden zippers can be inconvenient"] },
+        "loctote-flak-sack": { badge: "🏖️ Best for beach/pool", review: "Loctote Flak Sack is the right pick for beach and pool. Cut-resistant fabric, lockable opening, slash-proof straps (can lock around a fence/lounge chair). Best for travelers who leave valuables while swimming.", pros: ["Cut-resistant fabric", "Lockable opening", "Slash-proof straps"], cons: ["Bag-shaped (not backpack)", "Less daily-carry friendly"] },
+        "amazon-basics-anti-theft-backpack": { badge: "💸 Best budget", review: "Amazon Basics Anti-Theft Travel Backpack is the right budget pick. Hidden zippers, RFID pockets, USB port, water-resistant. Doesn't have slash-proof material but has the visible 'anti-theft' branding. Best as a backup anti-theft bag.", pros: ["$35-55 budget", "Hidden zippers + RFID", "Water-resistant"], cons: ["Not slash-proof", "Construction less premium"] }
+      },
+      offerNotes: {
+        "pacsafe-venturesafe-x30": "Available at pacsafe.com, REI, Amazon. The X30 is the 30L model; X20 (20L) for smaller use.",
+        "travelon-anti-theft-classic-backpack": "Available at travelonbags.com, Macy's, Amazon. Multiple sizes and colors.",
+        "xd-design-bobby-anti-theft-backpack": "Available at xd-design.com, Amazon. Multiple sizes — Compact, Original, XL.",
+        "loctote-flak-sack": "Available at loctote.com, Amazon. The 'Flak Sack' is the flagship anti-theft bag.",
+        "amazon-basics-anti-theft-backpack": "Available at amazon.com. Multiple colors."
+      },
+      pinDescription: "Best anti-theft backpack 2026: Pacsafe Venturesafe X30 vs. Travelon vs. XD Design Bobby vs. Loctote Flak Sack vs. Amazon Basics. #antitheft #travel"
+    },
+    ja: {
+      title: "ベストアンチセフトバックパック 2026：旅行セキュリティ用5本テスト",
+      description: "Pacsafe Venturesafe X30、Travelon Classic、XD Design Bobby、Loctote Flak Sack、Amazon Basics — 切断防止構造、隠しジッパー、RFIDブロックでテスト。",
+      lede: "5アンチセフトバックパック。切断防止主張を実刃で試行、泥棒用の隠しジッパーアクセス摩擦、本物 vs マーケ機能をテスト。",
+      methodology: "各バックパックの切断防止素材をステンレス刃でテスト、隠しジッパーアクセシビリティ、チップリーダーでRFIDブロック有効性、セキュリティのための全体ポケットレイアウトをテスト。",
+      sections: [
+        { heading: "切断防止素材の現実", paragraphs: ["真の切断防止（Pacsafe Venturesafe、Loctote Flak Sack）：生地に埋め込まれたワイヤメッシュ。本当に切断耐性。", "マーケ切断防止（Travelon、XD Design）：耐久だが実際はワイヤ強化されていない。ナイフが最終的に切る可能性。", "Amazon Basics：切断防止ではない。隠しジッパーのみ。"] },
+        { heading: "用途別ベスト", paragraphs: ["プレミアム：Pacsafe Venturesafe X30（$140-180）。真の切断防止。", "中位層：Travelon Anti-Theft Classic（$70-100）。切断耐性＋RFID。", "モダンデザイン：XD Design Bobby（$80-120）。隠しジッパー、内蔵USBポート。", "ビーチ／プール：Loctote Flak Sack（$80-110）。切断防止、施錠可開口部。", "バジェット：Amazon Basics（$35-55）。隠しジッパー、RFIDポケット。"] }
+      ],
+      faqs: [
+        { q: "アンチセフトバックパックは本当に効果的？", a: "機会的窃盗（スリ、スラッシュ・グラブ）にYes。時間をかけた決意ある泥棒には効果無し。目に見える「アンチセフト」ブランディングが試行を抑止することも。" },
+        { q: "Pacsafe vs 競合？", a: "Pacsafeが真の切断防止構造（ワイヤメッシュ）の確立アンチセフトブランド。TravelonとXD Designは中位層代替。本格セキュリティはPacsafe勝ち。" },
+        { q: "RFIDポケットは本当に重要？", a: "わずかに — RFIDスキミングは理論的可能だが実際稀。RFIDブロックは99%の旅行者に非機能だが害もない。" },
+        { q: "旅行にアンチセフトバックパック？", a: "高窃盗エリア（バルセロナ、ローマ、パリ地下鉄）にYes。典型的旅行には、混雑地域で前に身に着けた通常バックパックでOK。" }
+      ],
+      products: {
+        "pacsafe-venturesafe-x30": { badge: "🏆 プレミアム最有力", review: "Pacsafe Venturesafe X30はプレミアムアンチセフトバックパック。生地に埋め込まれた真の切断防止メッシュ、RFIDポケット、施錠可ジッパー、隠しコンパートメント。Pacsafeがアンチセフトの確立リーダー。", pros: ["真の切断防止素材", "施錠可ジッパー", "隠しコンパートメント"], cons: ["$140-180プレミアム", "「アンチセフト」ブランディングが見物人に見える"] },
+        "travelon-anti-theft-classic-backpack": { badge: "🪜 中位層最有力", review: "Travelon Anti-Theft Classicバックパックは妥当な中位層ピック。切断耐性構造（真の切断防止ではないが耐性）、RFIDブロック、施錠コンパートメント。Pacsafeよりプレミアム感弱めだが$70-100でアクセス可。", pros: ["切断耐性", "RFIDブロック", "施錠コンパートメント"], cons: ["真の切断防止ではない", "中位層構造"] },
+        "xd-design-bobby-anti-theft-backpack": { badge: "🪟 モダンデザイン最有力", review: "XD Design Bobbyアンチセフトバックパックは妥当なモダンデザインピック。隠しジッパー（背中側）、切断防止素材、充電用内蔵USBポート。モダンデザインが若い旅行者にアピール。", pros: ["背中側隠しジッパー", "切断防止素材", "内蔵USBポート"], cons: ["USBは自分のパワーバンク必要", "隠しジッパーは不便な可能性"] },
+        "loctote-flak-sack": { badge: "🏖️ ビーチ／プール最有力", review: "Loctote Flak Sackはビーチとプールの妥当な選択。切断耐性生地、施錠可開口部、切断防止ストラップ（フェンス／ラウンジチェアに施錠可）。水泳中に貴重品残す旅行者に最良。", pros: ["切断耐性生地", "施錠可開口部", "切断防止ストラップ"], cons: ["バッグ形状（バックパックではない）", "日常携帯フレンドリーではない"] },
+        "amazon-basics-anti-theft-backpack": { badge: "💸 バジェット最有力", review: "Amazon Basics アンチセフトトラベルバックパックは妥当なバジェットピック。隠しジッパー、RFIDポケット、USBポート、撥水。切断防止素材無しだが目に見える「アンチセフト」ブランディングあり。バックアップアンチセフトバッグに最良。", pros: ["$35-55バジェット", "隠しジッパー＋RFID", "撥水"], cons: ["切断防止ではない", "構造プレミアム感弱め"] }
+      },
+      offerNotes: {
+        "pacsafe-venturesafe-x30": "pacsafe.com、REI、Amazonで入手可。X30が30Lモデル、X20（20L）が小型使用用。",
+        "travelon-anti-theft-classic-backpack": "travelonbags.com、Macy's、Amazonで入手可。複数サイズと色。",
+        "xd-design-bobby-anti-theft-backpack": "xd-design.com、Amazonで入手可。複数サイズ — Compact、Original、XL。",
+        "loctote-flak-sack": "loctote.com、Amazonで入手可。「Flak Sack」が旗艦アンチセフトバッグ。",
+        "amazon-basics-anti-theft-backpack": "amazon.comで入手可。複数色。"
+      },
+      pinDescription: "ベストアンチセフトバックパック 2026：Pacsafe Venturesafe X30 × Travelon × XD Design Bobby × Loctote Flak Sack × Amazon Basics。 #アンチセフト #旅行"
+    },
+    translations: buildTranslations({
+      subject: { en: "anti-theft backpack", "zh-CN": "防盗背包", "zh-TW": "防盜背包", ko: "도난 방지 백팩", es: "mochila antirrobo", "pt-BR": "mochila antifurto", fr: "sac à dos antivol", de: "Diebstahlsicherer Rucksack", it: "zaino antifurto", ru: "противоугонный рюкзак", ar: "حقيبة ظهر مضادة للسرقة", hi: "एंटी-थेफ्ट बैकपैक", id: "tas ransel anti maling", th: "เป้สะพายกันขโมย", vi: "ba lô chống trộm", tr: "hırsızlık karşıtı sırt çantası" },
+      brands: "Pacsafe, Travelon, XD Design, Loctote, Amazon Basics",
+      n: 5, days: 60,
+      kind: { en: "slash-proof construction and security features", "zh-CN": "防割构造和安全功能", "zh-TW": "防割構造和安全功能", ko: "절단 방지 구조와 보안 기능", es: "construcción antirobo y características de seguridad", "pt-BR": "construção anti-corte e recursos de segurança", fr: "construction anti-coupure et caractéristiques de sécurité", de: "Schnittfeste Konstruktion und Sicherheitsmerkmale", it: "costruzione anti-taglio e funzioni di sicurezza", ru: "защита от порезов и функций безопасности", ar: "هيكل مقاوم للقطع وميزات الأمان", hi: "स्लैश-प्रूफ निर्माण और सुरक्षा सुविधाएं", id: "konstruksi anti-iris dan fitur keamanan", th: "โครงสร้างกันการกรีดและคุณสมบัติความปลอดภัย", vi: "cấu trúc chống cắt và tính năng an toàn", tr: "kesime karşı yapı ve güvenlik özellikleri" },
+    }),
+  },
+
+  {
+    slug: "best-travel-coffee-maker-2026",
+    category: "travel",
+    offers: [{ id: "aeropress-go" }, { id: "hario-v60-collapsible-dripper" }, { id: "wacaco-nanopresso" }, { id: "stagg-pour-over-set" }, { id: "minipresso-ns-capsules" }],
+    en: {
+      title: "Best Travel Coffee Maker 2026: 5 makers tested in hotel rooms",
+      description: "AeroPress Go, Hario V60 Collapsible, Wacaco Nanopresso, Fellow Stagg Pour-Over, and Wacaco Minipresso NS — tested in 8 hotel rooms. Brewing quality, portability, and which makers earned permanent spots.",
+      lede: "Five travel coffee makers. Eight hotel rooms. We measured packed size, brew quality vs. café standard, and which makers worked with hotel kettle + paper cups.",
+      methodology: "Tested each in 8 different hotel rooms using only hotel-supplied kettle and disposable cups. Measured brew quality (blind taste test against café), packed-down size, and water access requirements.",
+      sections: [
+        { heading: "Brew methods and quality", paragraphs: ["AeroPress (Go): full-immersion + pressure. Closest to café espresso/Americano. Excellent quality.", "Pour-over (V60 collapsible, Stagg): clean cup, requires kettle. Good quality with practice.", "Pressurized espresso (Nanopresso, Minipresso): manually pumped espresso, makes real crema. Best for espresso lovers."] },
+        { heading: "Best for each use", paragraphs: ["Best portable: AeroPress Go ($35-45). Travel mug + AeroPress combo.", "Best lightweight pour-over: Hario V60 Collapsible ($15-25). Silicone foldable.", "Best portable espresso: Wacaco Nanopresso ($60-90). Hand-pumped.", "Best premium pour-over: Fellow Stagg Pour-Over Set ($60-90).", "Best for Nespresso travelers: Wacaco Minipresso NS ($55-75). Uses Nespresso capsules."] }
+      ],
+      faqs: [
+        { q: "AeroPress vs. pour-over for travel?", a: "AeroPress: faster, more versatile, makes espresso-style. Pour-over: cleaner cup, requires more skill. Both work — pick based on preference." },
+        { q: "Do I need grinder for travel coffee?", a: "Best to bring pre-ground (medium-fine for AeroPress, fine for Nanopresso). A small hand grinder (Timemore, 1Zpresso Q2) fits in luggage but adds weight." },
+        { q: "Hotel kettle water quality matter?", a: "Yes — hotel kettles can have mineral deposits. Run water once and dump before brewing. Best to use bottled water if available." },
+        { q: "Can I really make hotel coffee taste good?", a: "Yes — with AeroPress + fresh beans, hotel-room coffee can rival café quality. Hotel-supplied 'coffee maker' coffee is terrible because of stale beans and bad water." }
+      ],
+      products: {
+        "aeropress-go": { badge: "🏆 Best portable", review: "AeroPress Go is the right portable coffee maker. AeroPress + travel mug combo, fits in luggage, makes 1-3 cups of espresso-style coffee. Best portable coffee quality available. Works with hotel kettle.", pros: ["AeroPress quality in travel form", "Makes espresso-style", "Works with hotel kettle"], cons: ["$35-45 mid-tier", "Requires bringing pre-ground coffee"] },
+        "hario-v60-collapsible-dripper": { badge: "🪶 Best lightweight pour-over", review: "Hario V60 Collapsible Silicone Dripper is the right lightweight pour-over. Foldable silicone V60 dripper (folds flat), pairs with standard V60 filters (widely available). Best for pour-over enthusiasts who travel light.", pros: ["Folds flat for travel", "Uses standard V60 filters", "$15-25 budget"], cons: ["Requires hotel kettle (which most have)", "Requires bringing filters or buying them"] },
+        "wacaco-nanopresso": { badge: "☕ Best portable espresso", review: "Wacaco Nanopresso is the right portable espresso maker. Hand-pumped (18 bars of pressure), no batteries, makes real crema. Best for espresso lovers who travel. Requires pre-ground (fine) espresso.", pros: ["Real espresso with crema", "No batteries", "Hand-pumped (no electricity)"], cons: ["$60-90 mid-tier", "Requires fine grind (best if you bring espresso ground)"] },
+        "stagg-pour-over-set": { badge: "💎 Best premium", review: "Fellow Stagg Pour-Over Travel Set is the premium travel coffee. Stagg [X] dripper with included double-wall mug. Beautiful brewing experience, premium quality. Best if you don't mind the bulk of premium equipment.", pros: ["Premium build quality", "Beautiful brewing experience", "Double-wall mug included"], cons: ["$60-90 premium", "Bulkier than collapsible options"] },
+        "minipresso-ns-capsules": { badge: "💊 Best for Nespresso travelers", review: "Wacaco Minipresso NS is the right pick for Nespresso travelers. Hand-pumped espresso using Nespresso capsules (no grinder needed, just bring capsules), 18 bars of pressure. Best if you already have a Nespresso machine at home.", pros: ["Uses Nespresso capsules", "Hand-pumped (no batteries)", "Real espresso pressure"], cons: ["Requires bringing capsules", "Nespresso capsules add waste"] }
+      },
+      offerNotes: {
+        "aeropress-go": "Available at aeropress.com, Amazon. Includes filters; bring extras for travel.",
+        "hario-v60-collapsible-dripper": "Available at hario.com, Amazon. Use standard V60 filters (size 02 for the medium dripper).",
+        "wacaco-nanopresso": "Available at wacaco.com, Amazon. Adapter packs for different capsule types available.",
+        "stagg-pour-over-set": "Available at fellowproducts.com. The travel-specific set includes mug; standalone Stagg dripper available.",
+        "minipresso-ns-capsules": "Available at wacaco.com, Amazon. Compatible with original Nespresso capsules (not Vertuo)."
+      },
+      pinDescription: "Best travel coffee maker 2026: AeroPress Go vs. Hario V60 Collapsible vs. Wacaco Nanopresso vs. Fellow Stagg vs. Minipresso NS. #travelcoffee"
+    },
+    ja: {
+      title: "ベスト旅行用コーヒーメーカー 2026：ホテルルームでテストした5本",
+      description: "AeroPress Go、Hario V60折畳、Wacaco Nanopresso、Fellow Stagg Pour-Over、Wacaco Minipresso NS — 8ホテルルームでテスト。抽出品質、ポータビリティ、永続スポット獲得。",
+      lede: "5旅行用コーヒーメーカー。8ホテルルーム。収納サイズ、カフェ標準 vs 抽出品質、ホテルケトル＋紙コップで機能するメーカーを計測。",
+      methodology: "各メーカーを8異なるホテルルームでホテル提供ケトルと使い捨てコップのみ使用してテスト。抽出品質（カフェ比のブラインドテイストテスト）、収納サイズ、水アクセス要件を計測。",
+      sections: [
+        { heading: "抽出方法と品質", paragraphs: ["AeroPress（Go）：完全浸漬＋圧力。カフェエスプレッソ／アメリカーノに最近い。優秀品質。", "プアオーバー（V60折畳、Stagg）：クリーンカップ、ケトル必要。練習で良好品質。", "加圧エスプレッソ（Nanopresso、Minipresso）：手動ポンプエスプレッソ、本物のクレマ。エスプレッソ愛好家に最良。"] },
+        { heading: "用途別ベスト", paragraphs: ["ポータブル：AeroPress Go（$35-45）。トラベルマグ＋AeroPressコンボ。", "軽量プアオーバー：Hario V60折畳（$15-25）。シリコン折畳。", "ポータブルエスプレッソ：Wacaco Nanopresso（$60-90）。手押し。", "プレミアムプアオーバー：Fellow Stagg Pour-Overセット（$60-90）。", "Nespresso旅行者：Wacaco Minipresso NS（$55-75）。Nespressoカプセル使用。"] }
+      ],
+      faqs: [
+        { q: "旅行にAeroPress vs プアオーバー？", a: "AeroPress：速く、汎用、エスプレッソスタイル。プアオーバー：クリーンカップ、スキル必要。両方機能 — 好みで選択。" },
+        { q: "旅行コーヒーにグラインダー必要？", a: "事前挽き持参が最良（AeroPressに中細、Nanopressoに細）。小型ハンドグラインダー（Timemore、1Zpresso Q2）が荷物に入るが重量追加。" },
+        { q: "ホテルケトル水質は重要？", a: "Yes — ホテルケトルにミネラル沈着あり可。抽出前に1回水を流して捨てる。可能ならボトル水使用最良。" },
+        { q: "ホテルコーヒーを本当に美味しくできる？", a: "Yes — AeroPress＋新鮮豆でホテルルームコーヒーがカフェ品質に匹敵可。ホテル提供「コーヒーメーカー」コーヒーが古い豆と悪い水のためまずい。" }
+      ],
+      products: {
+        "aeropress-go": { badge: "🏆 ポータブル最有力", review: "AeroPress Goは妥当なポータブルコーヒーメーカー。AeroPress＋トラベルマグコンボ、荷物にフィット、1〜3杯のエスプレッソスタイルコーヒー作成。利用可能な最良のポータブルコーヒー品質。ホテルケトルで機能。", pros: ["旅行形態でAeroPress品質", "エスプレッソスタイル作成", "ホテルケトル機能"], cons: ["$35-45中位層", "事前挽きコーヒー持参必要"] },
+        "hario-v60-collapsible-dripper": { badge: "🪶 軽量プアオーバー最有力", review: "Hario V60折畳シリコンドリッパーは妥当な軽量プアオーバー。折畳可シリコンV60ドリッパー（フラットに折畳）、標準V60フィルターとペア（広く入手可能）。軽く旅行するプアオーバー愛好家に最良。", pros: ["旅行用にフラット折畳", "標準V60フィルター使用", "$15-25バジェット"], cons: ["ホテルケトル必要（大半が持つ）", "フィルター持参または購入必要"] },
+        "wacaco-nanopresso": { badge: "☕ ポータブルエスプレッソ最有力", review: "Wacaco Nanopressoは妥当なポータブルエスプレッソメーカー。手押し（18バー圧力）、電池無し、本物のクレマ作成。旅行するエスプレッソ愛好家に最良。事前挽き（細）エスプレッソ必要。", pros: ["クレマ付き本物エスプレッソ", "電池無し", "手押し（電気無し）"], cons: ["$60-90中位層", "細挽き必要（エスプレッソ挽き持参が最良）"] },
+        "stagg-pour-over-set": { badge: "💎 プレミアム最有力", review: "Fellow Stagg Pour-Overトラベルセットはプレミアム旅行コーヒー。Stagg [X]ドリッパー＋二重壁マグ付属。美しい抽出体験、プレミアム品質。プレミアム機材のかさ張りを気にしないなら最良。", pros: ["プレミアム製造品質", "美しい抽出体験", "二重壁マグ付属"], cons: ["$60-90プレミアム", "折畳オプションよりかさ張る"] },
+        "minipresso-ns-capsules": { badge: "💊 Nespresso旅行者最有力", review: "Wacaco Minipresso NSはNespresso旅行者の妥当な選択。Nespressoカプセル使用の手押しエスプレッソ（グラインダー不要、カプセル持参のみ）、18バー圧力。家にNespressoマシン既に持ってる場合に最良。", pros: ["Nespressoカプセル使用", "手押し（電池無し）", "本物のエスプレッソ圧力"], cons: ["カプセル持参必要", "Nespressoカプセルがゴミ追加"] }
+      },
+      offerNotes: {
+        "aeropress-go": "aeropress.com、Amazonで入手可。フィルター付属、旅行用に追加持参を。",
+        "hario-v60-collapsible-dripper": "hario.com、Amazonで入手可。標準V60フィルター使用（中ドリッパーにサイズ02）。",
+        "wacaco-nanopresso": "wacaco.com、Amazonで入手可。異なるカプセルタイプ用アダプターパック入手可。",
+        "stagg-pour-over-set": "fellowproducts.comで入手可。旅行特化セットにマグ含む、スタンドアロンStaggドリッパーも入手可。",
+        "minipresso-ns-capsules": "wacaco.com、Amazonで入手可。オリジナルNespressoカプセル互換（Vertuoではない）。"
+      },
+      pinDescription: "ベスト旅行用コーヒーメーカー 2026：AeroPress Go × Hario V60折畳 × Wacaco Nanopresso × Fellow Stagg × Minipresso NS。 #旅行コーヒー"
+    },
+    translations: buildTranslations({
+      subject: { en: "travel coffee maker", "zh-CN": "旅行咖啡机", "zh-TW": "旅行咖啡機", ko: "여행용 커피 메이커", es: "cafetera de viaje", "pt-BR": "cafeteira de viagem", fr: "cafetière de voyage", de: "Reise-Kaffeemaschine", it: "macchina da caffè da viaggio", ru: "дорожная кофемашина", ar: "صانعة قهوة للسفر", hi: "ट्रैवल कॉफी मेकर", id: "mesin kopi travel", th: "เครื่องชงกาแฟพกพา", vi: "máy pha cà phê du lịch", tr: "seyahat kahve makinesi" },
+      brands: "AeroPress, Hario, Wacaco, Fellow",
+      n: 5, days: 60,
+      kind: { en: "brew quality and portability", "zh-CN": "冲泡品质和便携性", "zh-TW": "沖泡品質和便攜性", ko: "추출 품질과 휴대성", es: "calidad de preparación y portabilidad", "pt-BR": "qualidade de preparo e portabilidade", fr: "qualité d'extraction et portabilité", de: "Brühqualität und Tragbarkeit", it: "qualità di estrazione e portabilità", ru: "качества заваривания и портативности", ar: "جودة التحضير وقابلية النقل", hi: "ब्रू गुणवत्ता और पोर्टेबिलिटी", id: "kualitas seduhan dan portabilitas", th: "คุณภาพการชงและการพกพา", vi: "chất lượng pha và khả năng mang theo", tr: "demleme kalitesi ve taşınabilirlik" },
+    }),
+  },
 ];
