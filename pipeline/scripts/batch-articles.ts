@@ -7,6 +7,7 @@ import { PETS } from "./batch-articles-pets";
 import { TRAVEL } from "./batch-articles-travel";
 import { TECH } from "./batch-articles-tech";
 import { BATCH5 } from "./batch-articles-batch5";
+import { BATCH6 } from "./batch-articles-batch6";
 
 export const NEW_OFFERS = OFFERS;
 
@@ -18,4 +19,5 @@ export const ARTICLES = [
   ...TRAVEL,
   ...TECH,
   ...BATCH5,
+  ...BATCH6,
 ];

@@ -30066,5 +30066,785 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "approved": false
       }
     ]
+  },
+  {
+    "id": "haven-life-term",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$120",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Haven Life Term Insurance",
+      "ja": "Haven Life 定期生命保険"
+    },
+    "description": {
+      "en": "Instant approval up to $1M, backed by MassMutual, app-driven UX. Best instant approval.",
+      "ja": "$1Mまで即時承認、MassMutual裏付け、アプリ駆動UX。即時承認最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://havenlife.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ladder-life",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$130",
+    "category": "finance",
+    "badge": "🪜",
+    "name": {
+      "en": "Ladder Life Insurance",
+      "ja": "Ladder 生命保険"
+    },
+    "description": {
+      "en": "Ladder up/down coverage flexibility (no new underwriting), instant approval up to $3M, AIG reinsured.",
+      "ja": "ラダー上下補償柔軟性（再引受不要）、$3Mまで即時承認、AIG再保険。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ladderlife.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ethos-life-insurance",
+    "imageUrl": "",
+    "priceMin": "$22",
+    "priceMax": "$110",
+    "category": "finance",
+    "badge": "💸",
+    "name": {
+      "en": "Ethos Term Life Insurance",
+      "ja": "Ethos 定期生命保険"
+    },
+    "description": {
+      "en": "Cheapest algorithmic insurer in 35yo test ($28/mo $500k 20-year), instant decisions, Munich Re reinsured.",
+      "ja": "35歳テストで最安アルゴリズム保険会社（$500k 20年で月$28）、即時判定、Munich Re再保険。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ethoslife.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fabric-by-gerber-life",
+    "imageUrl": "",
+    "priceMin": "$28",
+    "priceMax": "$125",
+    "category": "finance",
+    "badge": "👶",
+    "name": {
+      "en": "Fabric by Gerber Life",
+      "ja": "Fabric by Gerber Life"
+    },
+    "description": {
+      "en": "Includes will-writing, child rider available, underwritten by Gerber Life. Best for new parents.",
+      "ja": "遺言作成込み、子供ライダー利用可、Gerber Life引受。新親向け最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://meetfabric.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "policygenius-term-marketplace",
+    "imageUrl": "",
+    "priceMin": "$20",
+    "priceMax": "$150",
+    "category": "finance",
+    "badge": "🛒",
+    "name": {
+      "en": "Policygenius Term Life Marketplace",
+      "ja": "Policygenius 定期生命マーケットプレイス"
+    },
+    "description": {
+      "en": "Shops 20+ traditional carriers (Northwestern Mutual, Lincoln, etc.). Best for health-complex applicants.",
+      "ja": "20+伝統キャリア（Northwestern Mutual、Lincoln等）で見積。健康複雑申込者向け最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.policygenius.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "world-nomads-explorer",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$300",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "World Nomads Explorer",
+      "ja": "World Nomads Explorer"
+    },
+    "description": {
+      "en": "Broad activity coverage (scuba/skiing), pre-existing waiver, $100k-300k medical. Best for adventurers.",
+      "ja": "幅広いアクティビティ補償（スキューバ／スキー）、既存疾患免除、$100k-300k医療。アドベンチャー最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.worldnomads.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "allianz-onetrip-prime",
+    "imageUrl": "",
+    "priceMin": "$80",
+    "priceMax": "$350",
+    "category": "finance",
+    "badge": "🌍",
+    "name": {
+      "en": "Allianz OneTrip Prime",
+      "ja": "Allianz OneTrip Prime"
+    },
+    "description": {
+      "en": "100% trip cancellation coverage, fastest claim payment in test (4-12 days), pre-existing waiver available.",
+      "ja": "100%キャンセル補償、テスト中最速請求支払（4-12日）、既存疾患免除可。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.allianztravelinsurance.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "travelex-travel-select",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$300",
+    "category": "finance",
+    "badge": "🇺🇸",
+    "name": {
+      "en": "Travelex Travel Select",
+      "ja": "Travelex Travel Select"
+    },
+    "description": {
+      "en": "Strong rental car protection, $50k-200k medical, US-focused product. Mid-tier coverage.",
+      "ja": "強力レンタカー保護、$50k-200k医療、米国フォーカス製品。中位層補償。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.travelexinsurance.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "imglobal-iimat",
+    "imageUrl": "",
+    "priceMin": "$70",
+    "priceMax": "$500",
+    "category": "finance",
+    "badge": "🏥",
+    "name": {
+      "en": "IMG Global iIMAT (International Major Medical)",
+      "ja": "IMG Global iIMAT（国際メジャー医療）"
+    },
+    "description": {
+      "en": "$1M medical coverage, direct hospital billing (no out-of-pocket), designed for expats and long stays.",
+      "ja": "$1M医療補償、病院直接請求（自己負担なし）、駐在員＋長期滞在向け設計。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.imglobal.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "safetywing-nomad",
+    "imageUrl": "",
+    "priceMin": "$45",
+    "priceMax": "$90",
+    "category": "finance",
+    "badge": "🌐",
+    "name": {
+      "en": "SafetyWing Nomad Insurance",
+      "ja": "SafetyWing ノマド保険"
+    },
+    "description": {
+      "en": "Monthly subscription ($45-90), auto-renews every 4 weeks, designed for digital nomads. $250k medical.",
+      "ja": "月額サブスク（$45-90）、4週ごと自動更新、デジタルノマド向け設計。$250k医療。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://safetywing.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "aws-ec2-cloud",
+    "imageUrl": "",
+    "priceMin": "$10",
+    "priceMax": "$10000",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "AWS EC2",
+      "ja": "AWS EC2"
+    },
+    "description": {
+      "en": "Broadest instance selection, deepest discount programs (RIs, Savings Plans), best networking. For scale.",
+      "ja": "最広のインスタンス選択肢、最深の割引プログラム（RI、Savings Plans）、最良ネットワーキング。スケール向け。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://aws.amazon.com/ec2/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "google-cloud-compute-engine",
+    "imageUrl": "",
+    "priceMin": "$12",
+    "priceMax": "$10000",
+    "category": "tech",
+    "badge": "🎯",
+    "name": {
+      "en": "Google Cloud Compute Engine",
+      "ja": "Google Cloud Compute Engine"
+    },
+    "description": {
+      "en": "Best ML/analytics integration (BigQuery, Vertex AI, TPUs), automatic sustained use discount, live migration.",
+      "ja": "最良のML／分析統合（BigQuery、Vertex AI、TPU）、自動持続使用割引、ライブ移行。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://cloud.google.com/compute/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "azure-virtual-machines",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$12000",
+    "category": "tech",
+    "badge": "🪪",
+    "name": {
+      "en": "Azure Virtual Machines",
+      "ja": "Azure 仮想マシン"
+    },
+    "description": {
+      "en": "Best Microsoft ecosystem integration (AD, Office 365), hybrid cloud via Azure Arc, enterprise compliance.",
+      "ja": "最良Microsoftエコシステム統合（AD、Office 365）、Azure Arc経由ハイブリッドクラウド、エンタープライズコンプライアンス。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://azure.microsoft.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "digitalocean-app-platform",
+    "imageUrl": "",
+    "priceMin": "$5",
+    "priceMax": "$500",
+    "category": "tech",
+    "badge": "💰",
+    "name": {
+      "en": "DigitalOcean App Platform",
+      "ja": "DigitalOcean App Platform"
+    },
+    "description": {
+      "en": "PaaS pricing with VPS predictability, Git-push deploys, managed Postgres included. Best value PaaS.",
+      "ja": "PaaS価格とVPS予測可能性、Gitプッシュデプロイ、マネージドPostgres込み。PaaSコスパ最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.digitalocean.com/products/app-platform",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "render-cloud",
+    "imageUrl": "",
+    "priceMin": "$7",
+    "priceMax": "$500",
+    "category": "tech",
+    "badge": "⚡",
+    "name": {
+      "en": "Render Cloud",
+      "ja": "Render Cloud"
+    },
+    "description": {
+      "en": "Fastest cold-starts in test (4 sec), zero-config autoscale, automatic SSL + DDoS. Best DX.",
+      "ja": "テスト中最速コールドスタート（4秒）、設定不要オートスケール、自動SSL＋DDoS。DX最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://render.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ryobi-ry142300-2300-psi",
+    "imageUrl": "",
+    "priceMin": "$180",
+    "priceMax": "$240",
+    "category": "home",
+    "badge": "🏆",
+    "name": {
+      "en": "Ryobi RY142300 2,300 PSI Pressure Washer",
+      "ja": "Ryobi RY142300 2,300 PSI 高圧洗浄機"
+    },
+    "description": {
+      "en": "Solid balance of PSI/GPM, on-board nozzle storage, 35-foot hose. Reliable Home Depot brand.",
+      "ja": "PSI／GPMのソリッドバランス、オンボードノズル収納、10mホース。信頼のHome Depotブランド。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ryobitools.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "sun-joe-spx3000",
+    "imageUrl": "",
+    "priceMin": "$150",
+    "priceMax": "$200",
+    "category": "home",
+    "badge": "💪",
+    "name": {
+      "en": "Sun Joe SPX3000 Electric Pressure Washer",
+      "ja": "Sun Joe SPX3000 電動高圧洗浄機"
+    },
+    "description": {
+      "en": "Highest cleaning units in test (3,260 CU), 1.76 GPM flow, $150-200. Drain before freeze.",
+      "ja": "テスト中最高清掃ユニット（3,260 CU）、1.76 GPM流量、$150-200。凍結前に排水必要。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.sunjoe.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "karcher-k5-premium",
+    "imageUrl": "",
+    "priceMin": "$250",
+    "priceMax": "$350",
+    "category": "home",
+    "badge": "🥇",
+    "name": {
+      "en": "Kärcher K5 Premium Pressure Washer",
+      "ja": "Kärcher K5 Premium 高圧洗浄機"
+    },
+    "description": {
+      "en": "Honest PSI spec (2,000 measured), rubber hose (no cold kink), survives freeze cycles. German engineering.",
+      "ja": "正直なPSI仕様（実測2,000）、ゴムホース（寒冷キンクなし）、凍結サイクル生存。ドイツエンジニアリング。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kaercher.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dewalt-dwpw2400",
+    "imageUrl": "",
+    "priceMin": "$240",
+    "priceMax": "$320",
+    "category": "home",
+    "badge": "🔧",
+    "name": {
+      "en": "DeWalt DWPW2400 Pressure Washer",
+      "ja": "DeWalt DWPW2400 高圧洗浄機"
+    },
+    "description": {
+      "en": "Highest stated PSI (2,400), padded trigger gun, DeWalt brand quality. 1.1 GPM is lowest in test.",
+      "ja": "最高表示PSI（2,400）、パッド付きトリガーガン、DeWaltブランド品質。1.1 GPMはテスト中最低。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.dewalt.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "greenworks-pro-2300-psi",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$280",
+    "category": "home",
+    "badge": "💸",
+    "name": {
+      "en": "Greenworks Pro 2300 PSI Pressure Washer",
+      "ja": "Greenworks Pro 2300 PSI 高圧洗浄機"
+    },
+    "description": {
+      "en": "2,300 PSI, 1.2 GPM, balanced spec. Pairs with Greenworks 80V battery tools but this model is corded.",
+      "ja": "2,300 PSI、1.2 GPM、バランス仕様。Greenworks 80Vバッテリーツールと連携だがこのモデルはコード式。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.greenworkstools.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ego-power-650cfm-blower",
+    "imageUrl": "",
+    "priceMin": "$300",
+    "priceMax": "$400",
+    "category": "home",
+    "badge": "🏆",
+    "name": {
+      "en": "EGO Power+ 650 CFM Leaf Blower",
+      "ja": "EGO Power+ 650 CFM ブロワー"
+    },
+    "description": {
+      "en": "650 CFM/180 MPH, 35-min runtime, best clearing speed in test. EGO Power+ ecosystem.",
+      "ja": "650 CFM／180 MPH、35分稼働、テスト中最良の清掃速度。EGO Power+エコシステム。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://egopowerplus.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ryobi-40v-brushless-whisper",
+    "imageUrl": "",
+    "priceMin": "$250",
+    "priceMax": "$350",
+    "category": "home",
+    "badge": "🤫",
+    "name": {
+      "en": "Ryobi 40V Brushless Whisper Blower",
+      "ja": "Ryobi 40V Brushless Whisper ブロワー"
+    },
+    "description": {
+      "en": "Quietest in test (64 dB at operator's ear), 680 CFM measured. Best for HOA-bound homes.",
+      "ja": "テスト中最静（操作者耳元64 dB）、実測680 CFM。HOA制限ホーム向け最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ryobitools.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "milwaukee-m18-fuel-blower",
+    "imageUrl": "",
+    "priceMin": "$250",
+    "priceMax": "$380",
+    "category": "home",
+    "badge": "🔧",
+    "name": {
+      "en": "Milwaukee M18 Fuel Leaf Blower",
+      "ja": "Milwaukee M18 Fuel ブロワー"
+    },
+    "description": {
+      "en": "Pro-grade build, 600 CFM, pairs with Milwaukee M18 batteries. 25-min runtime is shorter than EGO.",
+      "ja": "プログレード造り、600 CFM、Milwaukee M18バッテリーと連携。25分稼働はEGOより短い。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.milwaukeetool.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "worx-wg591-turbine",
+    "imageUrl": "",
+    "priceMin": "$150",
+    "priceMax": "$220",
+    "category": "home",
+    "badge": "💸",
+    "name": {
+      "en": "Worx WG591 Turbine Blower",
+      "ja": "Worx WG591 Turbine ブロワー"
+    },
+    "description": {
+      "en": "Turbine boost mode for stuck leaves, 600 CFM/145 MPH, lightweight. $150-200 budget option.",
+      "ja": "固着した葉用のタービンブーストモード、600 CFM／145 MPH、軽量。$150-200バジェットオプション。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.worx.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "greenworks-pro-80v-blower",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$300",
+    "category": "home",
+    "badge": "⚡",
+    "name": {
+      "en": "Greenworks Pro 80V Leaf Blower",
+      "ja": "Greenworks Pro 80V ブロワー"
+    },
+    "description": {
+      "en": "730 CFM (tied highest), 170 MPH, 30-min runtime. Pairs with Greenworks 80V ecosystem.",
+      "ja": "730 CFM（同率最高）、170 MPH、30分稼働。Greenworks 80Vエコシステムと連携。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.greenworkstools.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "shoei-rf-1400",
+    "imageUrl": "",
+    "priceMin": "$550",
+    "priceMax": "$700",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "Shoei RF-1400 Full-Face Helmet",
+      "ja": "Shoei RF-1400 フルフェイスヘルメット"
+    },
+    "description": {
+      "en": "Best fit for intermediate oval heads, Snell M2020D + DOT, quietest in test (84 dB at 75 mph).",
+      "ja": "中間オーバル頭への最良フィット、Snell M2020D＋DOT、テスト中最静（75 mphで84 dB）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.shoei-helmets.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "arai-corsair-x",
+    "imageUrl": "",
+    "priceMin": "$800",
+    "priceMax": "$1000",
+    "category": "tech",
+    "badge": "🥇",
+    "name": {
+      "en": "Arai Corsair-X Full-Face Helmet",
+      "ja": "Arai Corsair-X フルフェイスヘルメット"
+    },
+    "description": {
+      "en": "Best fit for round heads, hand-built in Japan, SHARP 5-star rating, layered fiber composite.",
+      "ja": "ラウンド頭への最良フィット、日本製ハンドメイド、SHARP 5スター評価、層化ファイバーコンポジット。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.arai-helmet.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "agv-pista-gp-rr",
+    "imageUrl": "",
+    "priceMin": "$1200",
+    "priceMax": "$1600",
+    "category": "tech",
+    "badge": "🏎️",
+    "name": {
+      "en": "AGV Pista GP RR Carbon Helmet",
+      "ja": "AGV Pista GP RR カーボンヘルメット"
+    },
+    "description": {
+      "en": "1,290g carbon fiber (lightest in test), MotoGP-derived design, hydration system + Pinlock included.",
+      "ja": "1,290gカーボンファイバー（テスト中最軽）、MotoGP由来設計、ハイドレーションシステム＋Pinlock込み。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.agv.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bell-race-star-flex-dlx",
+    "imageUrl": "",
+    "priceMin": "$400",
+    "priceMax": "$550",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "Bell Race Star Flex DLX Helmet",
+      "ja": "Bell Race Star Flex DLX ヘルメット"
+    },
+    "description": {
+      "en": "Cheapest Snell-certified option in this list, multi-piece EPS, SHARP 4-star. Best US value.",
+      "ja": "このリスト中最安のSnell認証オプション、多層EPS、SHARP 4スター。米国コスパ最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bellhelmets.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hjc-rpha-11-pro",
+    "imageUrl": "",
+    "priceMin": "$400",
+    "priceMax": "$550",
+    "category": "tech",
+    "badge": "🌍",
+    "name": {
+      "en": "HJC RPHA 11 Pro Full-Face Helmet",
+      "ja": "HJC RPHA 11 Pro フルフェイスヘルメット"
+    },
+    "description": {
+      "en": "ECE 22.06 + DOT + SHARP 4-star, strong long-oval fit, $400-500 price. Korean flagship.",
+      "ja": "ECE 22.06＋DOT＋SHARP 4スター、強いロングオーバルフィット、$400-500価格。韓国旗艦。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hjchelmets.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
   }
 ];
