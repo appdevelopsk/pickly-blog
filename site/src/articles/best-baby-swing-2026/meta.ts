@@ -1,0 +1,13 @@
+import type { ArticleMeta } from "@/lib/articles/types";
+import { ALL_LOCALES } from "@/lib/i18n/locales";
+
+export const meta: ArticleMeta = {
+  slug: "best-baby-swing-2026",
+  type: "comparison",
+  category: "parenting",
+  offerIds: ["4moms-mamaroo-multi-motion", "graco-soothe-my-way-swing", "fisher-price-deluxe-cradle-swing", "ingenuity-conver-me-swing", "munchkin-bluetooth-baby-swing"],
+  publishedAt: "2026-05-19",
+  updatedAt: "2026-05-19",
+  locales: [...ALL_LOCALES],
+  ogImage: "auto",
+};

@@ -16910,5 +16910,3879 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "approved": false
       }
     ]
+  },
+  {
+    "id": "burberry-kensington-trench",
+    "imageUrl": "",
+    "priceMin": "$2,490",
+    "priceMax": "$2,990",
+    "category": "fashion",
+    "badge": "🧥",
+    "name": {
+      "en": "Burberry Kensington Trench",
+      "ja": "Burberry ケンジントン トレンチ"
+    },
+    "description": {
+      "en": "Cotton gabardine, classic British heritage cut, horn buttons, signature check lining. The benchmark trench, made in Castleford UK.",
+      "ja": "コットンギャバジン、英国伝統カット、ホーンボタン、シグネチャーチェック裏地。トレンチの基準、英キャッスルフォード製。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.burberry.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mackintosh-dunoon-trench",
+    "imageUrl": "",
+    "priceMin": "$1,650",
+    "priceMax": "$1,950",
+    "category": "fashion",
+    "badge": "🧥",
+    "name": {
+      "en": "Mackintosh Dunoon Trench",
+      "ja": "Mackintosh ダヌーン トレンチ"
+    },
+    "description": {
+      "en": "Bonded cotton, hand-glued seams (proprietary Mackintosh technique), fully waterproof. Made in Cumbernauld Scotland.",
+      "ja": "ボンディングコットン、手糊縫い目（Mackintosh独自技術）、完全防水。スコットランド・カンバーノルド製。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.mackintosh.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "everlane-modern-trench",
+    "imageUrl": "",
+    "priceMin": "$248",
+    "priceMax": "$298",
+    "category": "fashion",
+    "badge": "🧥",
+    "name": {
+      "en": "Everlane The Modern Trench",
+      "ja": "Everlane モダン トレンチ"
+    },
+    "description": {
+      "en": "Recycled-cotton gabardine, water-resistant finish, slim modern cut. Transparent pricing breakdown. Best entry-level trench.",
+      "ja": "リサイクルコットンギャバジン、撥水仕上げ、スリムモダンカット。透明な価格内訳。エントリー層で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.everlane.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "banana-republic-classic-trench",
+    "imageUrl": "",
+    "priceMin": "$298",
+    "priceMax": "$378",
+    "category": "fashion",
+    "badge": "🧥",
+    "name": {
+      "en": "Banana Republic Classic Trench",
+      "ja": "Banana Republic クラシック トレンチ"
+    },
+    "description": {
+      "en": "Water-repellent twill, removable belt, mid-thigh length. Reliable for office wear, frequently discounted to $200.",
+      "ja": "撥水ツイル、取外し可ベルト、ミディアム丈。オフィスウェアで堅実、頻繁に$200に値引き。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://bananarepublic.gap.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "uniqlo-blocktech-trench",
+    "imageUrl": "",
+    "priceMin": "$130",
+    "priceMax": "$170",
+    "category": "fashion",
+    "badge": "🧥",
+    "name": {
+      "en": "Uniqlo Blocktech Trench Coat",
+      "ja": "ユニクロ ブロックテック トレンチ"
+    },
+    "description": {
+      "en": "Three-layer waterproof/breathable fabric, modern minimalist cut, taped seams. Best technical trench under $200.",
+      "ja": "3層防水透湿生地、モダンミニマルカット、シーリングテープ縫目。$200以下のテクニカルトレンチで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.uniqlo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "schott-perfecto-618",
+    "imageUrl": "",
+    "priceMin": "$870",
+    "priceMax": "$1,250",
+    "category": "fashion",
+    "badge": "🏍️",
+    "name": {
+      "en": "Schott Perfecto 618",
+      "ja": "Schott パーフェクト 618"
+    },
+    "description": {
+      "en": "Steerhide leather, asymmetric front zip, original motorcycle silhouette since 1928. Made in Union NJ.",
+      "ja": "ステアハイドレザー、アシメフロントジップ、1928年から続くオリジナルモーターサイクルシルエット。米ニュージャージー製。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.schottnyc.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "thursday-mens-cafe-racer",
+    "imageUrl": "",
+    "priceMin": "$399",
+    "priceMax": "$499",
+    "category": "fashion",
+    "badge": "🏍️",
+    "name": {
+      "en": "Thursday Café Racer Leather Jacket",
+      "ja": "Thursday カフェレーサー レザージャケット"
+    },
+    "description": {
+      "en": "Top-grain leather, minimalist café racer silhouette, three internal pockets. Direct-to-consumer pricing.",
+      "ja": "トップグレインレザー、ミニマリストカフェレーサーシルエット、内ポケット3つ。D2C価格。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://thursdayboots.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "allsaints-cargo-biker",
+    "imageUrl": "",
+    "priceMin": "$498",
+    "priceMax": "$598",
+    "category": "fashion",
+    "badge": "🏍️",
+    "name": {
+      "en": "AllSaints Cargo Biker Jacket",
+      "ja": "AllSaints カーゴ バイカー"
+    },
+    "description": {
+      "en": "Soft sheep leather, asymmetric zip, quilted shoulders. Modern slim fit, fashion-leaning silhouette.",
+      "ja": "ソフトシープレザー、アシメジップ、キルティングショルダー。モダンスリムフィット、ファッション寄り。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.allsaints.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vanson-enfield-leather",
+    "imageUrl": "",
+    "priceMin": "$899",
+    "priceMax": "$1,299",
+    "category": "fashion",
+    "badge": "🏍️",
+    "name": {
+      "en": "Vanson Enfield Cafe Racer",
+      "ja": "Vanson エンフィールド カフェレーサー"
+    },
+    "description": {
+      "en": "9-oz competition-weight cowhide, made-to-measure available, motorcycle-grade construction. Made in Fall River MA.",
+      "ja": "9オンス競技用カウハイド、オーダーメイド可、バイクグレード製造。米マサチューセッツ製。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.vansonleathers.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "amazon-essentials-faux-leather",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$80",
+    "category": "fashion",
+    "badge": "🏍️",
+    "name": {
+      "en": "Amazon Essentials Faux Leather Moto",
+      "ja": "Amazon Essentials フェイクレザー モト"
+    },
+    "description": {
+      "en": "PU leather, asymmetric zip, modern fit. Best budget option under $100. Will not develop patina.",
+      "ja": "PUレザー、アシメジップ、モダンフィット。$100以下のバジェット最有力。経年変化はしない。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "patagonia-down-sweater",
+    "imageUrl": "",
+    "priceMin": "$279",
+    "priceMax": "$329",
+    "category": "fashion",
+    "badge": "🪶",
+    "name": {
+      "en": "Patagonia Down Sweater",
+      "ja": "Patagonia ダウン セーター"
+    },
+    "description": {
+      "en": "800-fill traceable down, recycled polyester shell, DWR finish. Lightweight (13.2 oz), packs into own pocket. Lifetime repair guarantee.",
+      "ja": "800フィルトレーサブルダウン、リサイクルポリエステルシェル、DWR撥水。軽量（375g）、自身のポケットに収納可。生涯修理保証。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.patagonia.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "uniqlo-ultra-light-down",
+    "imageUrl": "",
+    "priceMin": "$70",
+    "priceMax": "$100",
+    "category": "fashion",
+    "badge": "🪶",
+    "name": {
+      "en": "Uniqlo Ultra Light Down Jacket",
+      "ja": "ユニクロ ウルトラライトダウン"
+    },
+    "description": {
+      "en": "640-fill down, ultra-light shell (7.8 oz), packable into pouch. Best value down at under $100.",
+      "ja": "640フィルダウン、超軽量シェル（220g）、ポーチに収納可。$100以下で最高コスパ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.uniqlo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "canada-goose-crofton",
+    "imageUrl": "",
+    "priceMin": "$595",
+    "priceMax": "$695",
+    "category": "fashion",
+    "badge": "🪶",
+    "name": {
+      "en": "Canada Goose Crofton",
+      "ja": "Canada Goose クロフトン"
+    },
+    "description": {
+      "en": "750-fill RDS-certified down, recycled nylon shell, fitted silhouette. Lighter than Canada Goose parkas. Made in Canada.",
+      "ja": "750フィルRDS認証ダウン、リサイクルナイロンシェル、フィットシルエット。Canada Gooseパーカより軽量。カナダ製。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.canadagoose.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "moncler-acorus",
+    "imageUrl": "",
+    "priceMin": "$1,395",
+    "priceMax": "$1,795",
+    "category": "fashion",
+    "badge": "🪶",
+    "name": {
+      "en": "Moncler Acorus",
+      "ja": "Moncler アコルス"
+    },
+    "description": {
+      "en": "Premium goose down, glossy nylon shell, signature logo patch on sleeve. Status piece more than performance piece.",
+      "ja": "プレミアムグースダウン、グロスナイロンシェル、袖にシグネチャーロゴパッチ。性能というよりステータス品。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.moncler.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "the-north-face-thermoball-eco",
+    "imageUrl": "",
+    "priceMin": "$199",
+    "priceMax": "$229",
+    "category": "fashion",
+    "badge": "🪶",
+    "name": {
+      "en": "The North Face ThermoBall Eco",
+      "ja": "The North Face サーモボール エコ"
+    },
+    "description": {
+      "en": "PrimaLoft synthetic fill (not down) for wet conditions, recycled polyester shell. Best synthetic alternative to down.",
+      "ja": "PrimaLoft合成中綿（ダウン代替）、湿気に強い、リサイクルポリシェル。ダウン代替で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.thenorthface.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "thursday-duke-chelsea",
+    "imageUrl": "",
+    "priceMin": "$199",
+    "priceMax": "$249",
+    "category": "fashion",
+    "badge": "👢",
+    "name": {
+      "en": "Thursday Duke Chelsea",
+      "ja": "Thursday デューク チェルシー"
+    },
+    "description": {
+      "en": "Full-grain leather, Goodyear-welt construction, leather sole. Best value Goodyear-welt Chelsea under $200.",
+      "ja": "フルグレインレザー、グッドイヤーウェルト製法、レザーソール。$200以下でグッドイヤーウェルト最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://thursdayboots.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "rm-williams-comfort-craftsman",
+    "imageUrl": "",
+    "priceMin": "$595",
+    "priceMax": "$695",
+    "category": "fashion",
+    "badge": "👢",
+    "name": {
+      "en": "R.M.Williams Comfort Craftsman",
+      "ja": "R.M.Williams コンフォート クラフツマン"
+    },
+    "description": {
+      "en": "Single-piece leather construction (no rear seam), made in Adelaide Australia. The benchmark Chelsea — wears for decades.",
+      "ja": "1ピースレザー構造（後ろ縫目なし）、豪アデレード製。チェルシーのベンチマーク、数十年使える。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.rmwilliams.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "blundstone-original-500",
+    "imageUrl": "",
+    "priceMin": "$199",
+    "priceMax": "$219",
+    "category": "fashion",
+    "badge": "👢",
+    "name": {
+      "en": "Blundstone Original 500",
+      "ja": "Blundstone オリジナル 500"
+    },
+    "description": {
+      "en": "Pull-tab Chelsea, leather upper, comfort insole, slip-resistant TPU sole. The casual workhorse worldwide.",
+      "ja": "プルタブチェルシー、レザーアッパー、コンフォートインソール、滑りにくいTPUソール。カジュアル用途の世界的定番。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.blundstone.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "loake-chatsworth-chelsea",
+    "imageUrl": "",
+    "priceMin": "$395",
+    "priceMax": "$475",
+    "category": "fashion",
+    "badge": "👢",
+    "name": {
+      "en": "Loake Chatsworth Chelsea",
+      "ja": "Loake チャッツワース チェルシー"
+    },
+    "description": {
+      "en": "Polished calf leather, Goodyear-welt, leather sole. Made in Kettering England. Best dressy Chelsea under $500.",
+      "ja": "ポリッシュドカーフレザー、グッドイヤーウェルト、レザーソール。英ケタリング製。$500以下のドレッシーチェルシーで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.loake.co.uk/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dr-martens-2976",
+    "imageUrl": "",
+    "priceMin": "$170",
+    "priceMax": "$200",
+    "category": "fashion",
+    "badge": "👢",
+    "name": {
+      "en": "Dr. Martens 2976 Chelsea",
+      "ja": "Dr. Martens 2976 チェルシー"
+    },
+    "description": {
+      "en": "Smooth leather upper, signature yellow welt stitch, air-cushioned sole. The casual Chelsea for a punk-leaning aesthetic.",
+      "ja": "スムースレザーアッパー、シグネチャー黄色ウェルトステッチ、エアクッションソール。パンク寄りのカジュアルチェルシー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.drmartens.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "proper-cloth-custom-dress-shirt",
+    "imageUrl": "",
+    "priceMin": "$125",
+    "priceMax": "$245",
+    "category": "fashion",
+    "badge": "👔",
+    "name": {
+      "en": "Proper Cloth Custom Dress Shirt",
+      "ja": "Proper Cloth カスタム ドレスシャツ"
+    },
+    "description": {
+      "en": "Made-to-measure online, 30+ fabric options including Thomas Mason, free remakes. Best online custom shirt.",
+      "ja": "オンラインオーダーメイド、Thomas Mason含む30以上の生地、リメイク無料。オンラインカスタムで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://propercloth.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "charles-tyrwhitt-non-iron-twill",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$100",
+    "category": "fashion",
+    "badge": "👔",
+    "name": {
+      "en": "Charles Tyrwhitt Non-Iron Twill",
+      "ja": "Charles Tyrwhitt 非アイロン ツイル"
+    },
+    "description": {
+      "en": "Non-iron treated cotton, 4 for $199 deals, slim/classic/extra-slim fits. Best value bulk dress shirts.",
+      "ja": "ノンアイロン処理コットン、4枚$199セール、スリム／クラシック／エクストラスリム展開。バルク購入で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.charlestyrwhitt.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "brooks-brothers-original-polo-shirt",
+    "imageUrl": "",
+    "priceMin": "$110",
+    "priceMax": "$160",
+    "category": "fashion",
+    "badge": "👔",
+    "name": {
+      "en": "Brooks Brothers Original Polo Dress Shirt",
+      "ja": "Brooks Brothers オリジナル ポロ ドレスシャツ"
+    },
+    "description": {
+      "en": "Pinpoint Oxford, button-down collar, soft-roll. The American button-down standard since 1896.",
+      "ja": "ピンポイントオックスフォード、ボタンダウンカラー、ソフトロール。1896年から続くアメリカンボタンダウンの基準。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.brooksbrothers.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "luca-faloni-portofino-linen",
+    "imageUrl": "",
+    "priceMin": "$185",
+    "priceMax": "$245",
+    "category": "fashion",
+    "badge": "👔",
+    "name": {
+      "en": "Luca Faloni Portofino Linen Shirt",
+      "ja": "Luca Faloni ポルトフィーノ リネン シャツ"
+    },
+    "description": {
+      "en": "Italian linen, mother-of-pearl buttons, made in Italy. Premium summer/resort dress shirt.",
+      "ja": "イタリア産リネン、マザーオブパールボタン、イタリア製。プレミアム夏／リゾート用ドレスシャツ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://lucafaloni.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "uniqlo-supima-cotton-shirt",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$50",
+    "category": "fashion",
+    "badge": "👔",
+    "name": {
+      "en": "Uniqlo Supima Cotton Dress Shirt",
+      "ja": "ユニクロ スーピマコットン ドレスシャツ"
+    },
+    "description": {
+      "en": "Supima cotton, easy-care finish, slim/regular fits. Best value entry-tier dress shirt under $50.",
+      "ja": "スーピマコットン、イージーケア仕上げ、スリム／レギュラー展開。$50以下のエントリードレスシャツで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.uniqlo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hermes-carre-90",
+    "imageUrl": "",
+    "priceMin": "$495",
+    "priceMax": "$595",
+    "category": "fashion",
+    "badge": "🧣",
+    "name": {
+      "en": "Hermès Carré 90",
+      "ja": "エルメス カレ 90"
+    },
+    "description": {
+      "en": "90 cm twill silk, hand-rolled edges, limited-edition prints. The benchmark luxury scarf since 1937.",
+      "ja": "90cmツイルシルク、手巻きエッジ、限定プリント。1937年から続くラグジュアリースカーフの基準。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hermes.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ferragamo-gancini-silk-scarf",
+    "imageUrl": "",
+    "priceMin": "$295",
+    "priceMax": "$395",
+    "category": "fashion",
+    "badge": "🧣",
+    "name": {
+      "en": "Ferragamo Gancini Silk Scarf",
+      "ja": "Ferragamo ガンチーニ シルクスカーフ"
+    },
+    "description": {
+      "en": "Italian silk twill, signature Gancini print, hand-rolled hem. More accessible luxury option vs Hermès.",
+      "ja": "イタリア製シルクツイル、シグネチャーガンチーニプリント、手巻きヘム。Hermèsより手の届きやすいラグジュアリー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ferragamo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "echo-classic-silk-square",
+    "imageUrl": "",
+    "priceMin": "$68",
+    "priceMax": "$98",
+    "category": "fashion",
+    "badge": "🧣",
+    "name": {
+      "en": "Echo Classic Silk Square",
+      "ja": "Echo クラシック シルクスクエア"
+    },
+    "description": {
+      "en": "Pure silk twill, machine-rolled edges, classic prints. American department-store standard. Best entry-level silk scarf.",
+      "ja": "純シルクツイル、機械巻きエッジ、クラシックプリント。米百貨店の定番。エントリー層で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://echonewyork.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "liberty-london-tana-lawn-scarf",
+    "imageUrl": "",
+    "priceMin": "$95",
+    "priceMax": "$125",
+    "category": "fashion",
+    "badge": "🧣",
+    "name": {
+      "en": "Liberty London Tana Lawn Scarf",
+      "ja": "Liberty London テナローン スカーフ"
+    },
+    "description": {
+      "en": "Lightweight cotton lawn (not silk), iconic floral prints, soft drape. Best non-silk alternative.",
+      "ja": "ライトウェイトコットンローン（シルクではない）、アイコニックフローラル、ソフトドレープ。非シルク代替で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.libertylondon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "loro-piana-cashmere-silk-scarf",
+    "imageUrl": "",
+    "priceMin": "$895",
+    "priceMax": "$1,295",
+    "category": "fashion",
+    "badge": "🧣",
+    "name": {
+      "en": "Loro Piana Cashmere-Silk Scarf",
+      "ja": "Loro Piana カシミア×シルク スカーフ"
+    },
+    "description": {
+      "en": "Cashmere-silk blend, oversize wrap (200 cm long), Italian craftsmanship. Best winter luxury wrap.",
+      "ja": "カシミア×シルク混紡、オーバーサイズラップ（200cm長）、イタリアン職人技。冬のラグジュアリーラップで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.loropiana.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "sofi-personal-loan",
+    "imageUrl": "",
+    "priceMin": "$0 fee",
+    "priceMax": "$0 fee",
+    "category": "finance",
+    "badge": "💳",
+    "name": {
+      "en": "SoFi Personal Loan",
+      "ja": "SoFi パーソナルローン"
+    },
+    "description": {
+      "en": "$5K-$100K loans, fixed APR 8.99-29.99%, no fees, member benefits including career coaching. Best for prime borrowers.",
+      "ja": "$5K〜$100Kローン、固定APR 8.99-29.99%、手数料なし、キャリアコーチング等メンバー特典。プライム借り手に最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.sofi.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "lightstream-personal-loan",
+    "imageUrl": "",
+    "priceMin": "$0 fee",
+    "priceMax": "$0 fee",
+    "category": "finance",
+    "badge": "💳",
+    "name": {
+      "en": "LightStream Personal Loan",
+      "ja": "LightStream パーソナルローン"
+    },
+    "description": {
+      "en": "$5K-$100K, APR 7.99-25.99%, no fees, same-day funding, rate-beat program. Best for excellent credit.",
+      "ja": "$5K〜$100K、APR 7.99-25.99%、手数料なし、当日入金、レートビートプログラム。優良信用に最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.lightstream.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "upgrade-personal-loan",
+    "imageUrl": "",
+    "priceMin": "1-9.99% fee",
+    "priceMax": "1-9.99% fee",
+    "category": "finance",
+    "badge": "💳",
+    "name": {
+      "en": "Upgrade Personal Loan",
+      "ja": "Upgrade パーソナルローン"
+    },
+    "description": {
+      "en": "$1K-$50K, APR 8.49-35.99%, 1-9.99% origination fee, fair credit accepted. Best for fair-credit borrowers.",
+      "ja": "$1K〜$50K、APR 8.49-35.99%、1-9.99%オリジネーションフィー、フェア信用OK。フェア信用借り手に最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.upgrade.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "lending-club-personal-loan",
+    "imageUrl": "",
+    "priceMin": "2-8% fee",
+    "priceMax": "2-8% fee",
+    "category": "finance",
+    "badge": "💳",
+    "name": {
+      "en": "LendingClub Personal Loan",
+      "ja": "LendingClub パーソナルローン"
+    },
+    "description": {
+      "en": "$1K-$40K, APR 8.98-35.99%, 2-8% origination fee, peer-to-peer model. Mid-tier option for varied credit.",
+      "ja": "$1K〜$40K、APR 8.98-35.99%、2-8%オリジネーションフィー、ピア・ツー・ピア。中位層向け。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.lendingclub.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "discover-personal-loan",
+    "imageUrl": "",
+    "priceMin": "$0 fee",
+    "priceMax": "$0 fee",
+    "category": "finance",
+    "badge": "💳",
+    "name": {
+      "en": "Discover Personal Loan",
+      "ja": "Discover パーソナルローン"
+    },
+    "description": {
+      "en": "$2.5K-$40K, APR 7.99-24.99%, no fees, established bank, debt-consolidation specialty. Best traditional bank option.",
+      "ja": "$2.5K〜$40K、APR 7.99-24.99%、手数料なし、確立銀行、債務整理特化。伝統的銀行で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.discover.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "amex-business-platinum",
+    "imageUrl": "",
+    "priceMin": "$695/yr",
+    "priceMax": "$695/yr",
+    "category": "finance",
+    "badge": "💳",
+    "name": {
+      "en": "Amex Business Platinum",
+      "ja": "Amex ビジネス プラチナ"
+    },
+    "description": {
+      "en": "$695 annual fee, 5x airfare, $200 airline credit, lounge access. Premium business travel card.",
+      "ja": "$695年会費、5x航空券、$200航空クレジット、ラウンジアクセス。プレミアムビジネストラベルカード。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.americanexpress.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "chase-ink-business-preferred",
+    "imageUrl": "",
+    "priceMin": "$95/yr",
+    "priceMax": "$95/yr",
+    "category": "finance",
+    "badge": "💳",
+    "name": {
+      "en": "Chase Ink Business Preferred",
+      "ja": "Chase インク ビジネス プリファード"
+    },
+    "description": {
+      "en": "$95 annual fee, 3x on travel/shipping/internet/advertising, 100K bonus points. Best mid-tier business card.",
+      "ja": "$95年会費、旅行／配送／通信／広告で3x、10万ボーナスポイント。中位層ビジネスカードで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://creditcards.chase.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "capital-one-spark-cash-plus",
+    "imageUrl": "",
+    "priceMin": "$150/yr",
+    "priceMax": "$150/yr",
+    "category": "finance",
+    "badge": "💳",
+    "name": {
+      "en": "Capital One Spark Cash Plus",
+      "ja": "Capital One スパーク キャッシュ プラス"
+    },
+    "description": {
+      "en": "$150 annual fee, unlimited 2% cash back, $1K welcome bonus. Best flat-rate cash-back business card.",
+      "ja": "$150年会費、無制限2%キャッシュバック、$1Kウェルカムボーナス。フラットレートキャッシュバック最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.capitalone.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "amex-business-gold",
+    "imageUrl": "",
+    "priceMin": "$375/yr",
+    "priceMax": "$375/yr",
+    "category": "finance",
+    "badge": "💳",
+    "name": {
+      "en": "Amex Business Gold",
+      "ja": "Amex ビジネス ゴールド"
+    },
+    "description": {
+      "en": "$375 annual fee, 4x on top 2 categories (advertising, gas, restaurants, transit, computer, shipping). Flexible mid-tier.",
+      "ja": "$375年会費、上位2カテゴリで4x（広告、ガソリン、レストラン、交通、PC、配送）。フレキシブル中位層。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.americanexpress.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "brex-card",
+    "imageUrl": "",
+    "priceMin": "$0/yr",
+    "priceMax": "$0/yr",
+    "category": "finance",
+    "badge": "💳",
+    "name": {
+      "en": "Brex Card",
+      "ja": "Brex カード"
+    },
+    "description": {
+      "en": "$0 annual fee, no personal guarantee required, 7x on rideshare, 4x travel via Brex Travel. For startups.",
+      "ja": "$0年会費、個人保証不要、ライドシェアで7x、Brex Travel経由旅行で4x。スタートアップ向け。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.brex.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "turbotax-deluxe",
+    "imageUrl": "",
+    "priceMin": "$69",
+    "priceMax": "$128",
+    "category": "finance",
+    "badge": "🧾",
+    "name": {
+      "en": "TurboTax Deluxe",
+      "ja": "TurboTax デラックス"
+    },
+    "description": {
+      "en": "Federal $69, state $59. Itemized deductions, mortgage interest, charitable contributions. Best for homeowners.",
+      "ja": "連邦$69、州$59。項目別控除、住宅ローン利息、寄付金。住宅所有者で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://turbotax.intuit.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hr-block-deluxe",
+    "imageUrl": "",
+    "priceMin": "$55",
+    "priceMax": "$104",
+    "category": "finance",
+    "badge": "🧾",
+    "name": {
+      "en": "H&R Block Deluxe",
+      "ja": "H&R Block デラックス"
+    },
+    "description": {
+      "en": "Federal $55, state $49. In-person support backup at 9,000 offices. Best for those wanting human help fallback.",
+      "ja": "連邦$55、州$49。9,000オフィスで対面サポートバックアップ。人的サポート希望者に最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hrblock.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "freetaxusa",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$14.99",
+    "category": "finance",
+    "badge": "🧾",
+    "name": {
+      "en": "FreeTaxUSA",
+      "ja": "FreeTaxUSA"
+    },
+    "description": {
+      "en": "Federal free, state $14.99. Supports all major tax situations including itemized, rentals, business income.",
+      "ja": "連邦無料、州$14.99。項目別控除、賃貸、事業所得を含む主要税務状況に対応。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.freetaxusa.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "taxact-deluxe",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$70",
+    "category": "finance",
+    "badge": "🧾",
+    "name": {
+      "en": "TaxAct Deluxe",
+      "ja": "TaxAct デラックス"
+    },
+    "description": {
+      "en": "Federal $30, state $40. Solid mid-tier option, accuracy guarantee. Cheaper than TurboTax for similar features.",
+      "ja": "連邦$30、州$40。堅実な中位層オプション、精度保証。同等機能でTurboTaxより安価。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.taxact.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "cash-app-taxes",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$0",
+    "category": "finance",
+    "badge": "🧾",
+    "name": {
+      "en": "Cash App Taxes",
+      "ja": "Cash App Taxes"
+    },
+    "description": {
+      "en": "Federal and state completely free. Supports most situations but not multi-state returns. Best free option for simple filers.",
+      "ja": "連邦・州完全無料。マルチステート申告以外の大半に対応。シンプル申告者の無料オプションで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://cash.app/taxes",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "coinbase-advanced",
+    "imageUrl": "",
+    "priceMin": "0.40% taker",
+    "priceMax": "0.40% taker",
+    "category": "finance",
+    "badge": "₿",
+    "name": {
+      "en": "Coinbase Advanced",
+      "ja": "Coinbase アドバンスド"
+    },
+    "description": {
+      "en": "US-regulated, FDIC-insured USD balances, 250+ assets, taker fee 0.40%. Best for US-based beginners.",
+      "ja": "米国規制下、USD残高はFDIC保険、250以上のアセット、Takerフィー0.40%。米国ベース初心者で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.coinbase.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "kraken-pro",
+    "imageUrl": "",
+    "priceMin": "0.26% taker",
+    "priceMax": "0.26% taker",
+    "category": "finance",
+    "badge": "₿",
+    "name": {
+      "en": "Kraken Pro",
+      "ja": "Kraken Pro"
+    },
+    "description": {
+      "en": "Established US exchange, 200+ assets, taker fee 0.26%, advanced order types. Best for active US traders.",
+      "ja": "確立した米国取引所、200以上のアセット、Takerフィー0.26%、高度な注文タイプ。アクティブ米国トレーダーで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kraken.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "gemini-active-trader",
+    "imageUrl": "",
+    "priceMin": "0.40% taker",
+    "priceMax": "0.40% taker",
+    "category": "finance",
+    "badge": "₿",
+    "name": {
+      "en": "Gemini Active Trader",
+      "ja": "Gemini アクティブ トレーダー"
+    },
+    "description": {
+      "en": "Regulated by NYSDFS, custody insurance, 70+ assets, taker fee 0.40%. Best for security-conscious traders.",
+      "ja": "NYSDFS規制下、カストディ保険、70以上のアセット、Takerフィー0.40%。セキュリティ重視で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.gemini.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "binance-us",
+    "imageUrl": "",
+    "priceMin": "0.10% taker",
+    "priceMax": "0.10% taker",
+    "category": "finance",
+    "badge": "₿",
+    "name": {
+      "en": "Binance.US",
+      "ja": "Binance.US"
+    },
+    "description": {
+      "en": "US arm of largest global exchange, 150+ assets, taker fee 0.10%. Lowest fees in US-regulated tier.",
+      "ja": "世界最大取引所の米国部門、150以上のアセット、Takerフィー0.10%。米国規制層で最低手数料。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.binance.us/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bitfinex",
+    "imageUrl": "",
+    "priceMin": "0.20% taker",
+    "priceMax": "0.20% taker",
+    "category": "finance",
+    "badge": "₿",
+    "name": {
+      "en": "Bitfinex",
+      "ja": "Bitfinex"
+    },
+    "description": {
+      "en": "Global exchange (not US), 150+ assets, taker fee 0.20%, advanced margin trading. Best for international advanced users.",
+      "ja": "グローバル取引所（米国非対応）、150以上のアセット、Takerフィー0.20%、高度なマージン取引。国際上級ユーザーで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bitfinex.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ynab-budgeting",
+    "imageUrl": "",
+    "priceMin": "$109/yr",
+    "priceMax": "$179/yr",
+    "category": "finance",
+    "badge": "💰",
+    "name": {
+      "en": "YNAB (You Need a Budget)",
+      "ja": "YNAB（You Need a Budget）"
+    },
+    "description": {
+      "en": "$14.99/mo or $109/yr, zero-based budgeting method, bank sync, goal tracking. Best for envelope-method budgeters.",
+      "ja": "$14.99/月または$109/年、ゼロベース予算法、銀行同期、目標追跡。エンベロープ法予算で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.youneedabudget.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "quicken-simplifi",
+    "imageUrl": "",
+    "priceMin": "$48/yr",
+    "priceMax": "$60/yr",
+    "category": "finance",
+    "badge": "💰",
+    "name": {
+      "en": "Quicken Simplifi",
+      "ja": "Quicken Simplifi"
+    },
+    "description": {
+      "en": "$3.99/mo billed annually, watch-list spending plan, bank sync. Best low-cost option.",
+      "ja": "$3.99/月（年払い）、ウォッチリスト消費計画、銀行同期。低コストオプションで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.quicken.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "empower-personal-dashboard",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$0",
+    "category": "finance",
+    "badge": "💰",
+    "name": {
+      "en": "Empower Personal Dashboard",
+      "ja": "Empower Personal Dashboard"
+    },
+    "description": {
+      "en": "Free, focus on investment tracking, net worth, retirement planning. Best free option for investors.",
+      "ja": "無料、投資追跡・純資産・退職金プランに特化。投資家向け無料で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.empower.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "tiller-money",
+    "imageUrl": "",
+    "priceMin": "$79/yr",
+    "priceMax": "$79/yr",
+    "category": "finance",
+    "badge": "💰",
+    "name": {
+      "en": "Tiller Money",
+      "ja": "Tiller Money"
+    },
+    "description": {
+      "en": "$79/yr, Google Sheets / Excel template-based, daily bank sync. Best for spreadsheet enthusiasts.",
+      "ja": "$79/年、Googleスプレッドシート／Excelテンプレベース、日次銀行同期。スプレッドシート派で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.tillerhq.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fidelity-rollover-ira",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$0",
+    "category": "finance",
+    "badge": "🏦",
+    "name": {
+      "en": "Fidelity Rollover IRA",
+      "ja": "Fidelity ロールオーバー IRA"
+    },
+    "description": {
+      "en": "$0 minimum, $0 commissions, 3,400+ no-transaction-fee mutual funds, 24/7 phone support. Best overall.",
+      "ja": "最低入金額$0、コミッション$0、3,400以上の取引手数料無料投信、24/7電話サポート。総合最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fidelity.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "schwab-rollover-ira",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$0",
+    "category": "finance",
+    "badge": "🏦",
+    "name": {
+      "en": "Schwab Rollover IRA",
+      "ja": "Schwab ロールオーバー IRA"
+    },
+    "description": {
+      "en": "$0 minimum, $0 commissions, integrated banking, robo-advisor option. Best for those wanting bank + brokerage.",
+      "ja": "最低入金額$0、コミッション$0、銀行統合、ロボアドオプション。銀行＋証券一体型で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.schwab.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vanguard-rollover-ira",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$0",
+    "category": "finance",
+    "badge": "🏦",
+    "name": {
+      "en": "Vanguard Rollover IRA",
+      "ja": "Vanguard ロールオーバー IRA"
+    },
+    "description": {
+      "en": "$0 minimum, $0 commissions, industry-low ETF expense ratios, founder of indexing. Best for index-fund investors.",
+      "ja": "最低入金額$0、コミッション$0、業界最低水準ETF経費率、インデックス投資の祖。インデックスファンド投資家で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://investor.vanguard.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "etrade-rollover-ira",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$0",
+    "category": "finance",
+    "badge": "🏦",
+    "name": {
+      "en": "E*TRADE Rollover IRA",
+      "ja": "E*TRADE ロールオーバー IRA"
+    },
+    "description": {
+      "en": "$0 minimum, $0 commissions, robust trading platform, $50-600 transfer bonus. Best for active traders.",
+      "ja": "最低入金額$0、コミッション$0、堅牢な取引プラットフォーム、$50-600移管ボーナス。アクティブトレーダーで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://us.etrade.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "merrill-edge-rollover-ira",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$0",
+    "category": "finance",
+    "badge": "🏦",
+    "name": {
+      "en": "Merrill Edge Rollover IRA",
+      "ja": "Merrill Edge ロールオーバー IRA"
+    },
+    "description": {
+      "en": "$0 minimum, $0 commissions, Bank of America integration, $600 transfer bonus. Best for BofA customers.",
+      "ja": "最低入金額$0、コミッション$0、Bank of America統合、$600移管ボーナス。BofA顧客で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.merrilledge.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "4moms-mamaroo-multi-motion",
+    "imageUrl": "",
+    "priceMin": "$249",
+    "priceMax": "$299",
+    "category": "parenting",
+    "badge": "👶",
+    "name": {
+      "en": "4moms mamaRoo Multi-Motion Swing",
+      "ja": "4moms mamaRoo マルチモーション スウィング"
+    },
+    "description": {
+      "en": "5 motion types (car ride, kangaroo, wave, rock-a-bye, tree swing), 5 speed levels, Bluetooth sound. The premium baby motion device.",
+      "ja": "5モーション（カーライド、カンガルー、ウェーブ、ロッカバイ、ツリースウィング）、5速度、Bluetoothサウンド。プレミアム揺動機。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.4moms.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "graco-soothe-my-way-swing",
+    "imageUrl": "",
+    "priceMin": "$130",
+    "priceMax": "$170",
+    "category": "parenting",
+    "badge": "👶",
+    "name": {
+      "en": "Graco Soothe My Way Swing",
+      "ja": "Graco スーズマイウェイ スウィング"
+    },
+    "description": {
+      "en": "2-position recline, 6 swing speeds, 2-position seat (rotates between Mom and Dad facing), reversible head support.",
+      "ja": "2段リクライン、6スウィング速度、2段シート（親向き回転）、リバーシブルヘッドサポート。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.gracobaby.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fisher-price-deluxe-cradle-swing",
+    "imageUrl": "",
+    "priceMin": "$170",
+    "priceMax": "$200",
+    "category": "parenting",
+    "badge": "👶",
+    "name": {
+      "en": "Fisher-Price Deluxe Cradle 'n Swing",
+      "ja": "Fisher-Price デラックス クレードル スウィング"
+    },
+    "description": {
+      "en": "Side-to-side and head-to-toe motion, 6 speeds, 16 songs/sounds, removable mobile. The reliable workhorse.",
+      "ja": "横揺れ／縦揺れ、6速度、16曲／サウンド、取外しモビール。信頼のワークホース。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fisher-price.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ingenuity-conver-me-swing",
+    "imageUrl": "",
+    "priceMin": "$80",
+    "priceMax": "$120",
+    "category": "parenting",
+    "badge": "👶",
+    "name": {
+      "en": "Ingenuity ConvertMe Swing-2-Seat",
+      "ja": "Ingenuity コンバートミー スウィング2シート"
+    },
+    "description": {
+      "en": "Converts from infant swing to toddler seat, 6 swing speeds, vibrations. Best budget swing under $100.",
+      "ja": "幼児スウィング→トドラーシート変換、6スウィング速度、バイブレーション。$100以下のバジェット最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://ingenuitybaby.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "munchkin-bluetooth-baby-swing",
+    "imageUrl": "",
+    "priceMin": "$150",
+    "priceMax": "$200",
+    "category": "parenting",
+    "badge": "👶",
+    "name": {
+      "en": "Munchkin Bluetooth Enabled Lightweight Baby Swing",
+      "ja": "Munchkin Bluetoothベビースウィング"
+    },
+    "description": {
+      "en": "USB-rechargeable, lightweight portable, app-controlled (5 motions, 4 speeds). For families that move around.",
+      "ja": "USB充電可、軽量ポータブル、アプリ制御（5モーション、4速度）。動き回る家族向け。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.munchkin.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "spectra-s1-plus",
+    "imageUrl": "",
+    "priceMin": "$190",
+    "priceMax": "$220",
+    "category": "parenting",
+    "badge": "🍼",
+    "name": {
+      "en": "Spectra S1 Plus Hospital-Grade",
+      "ja": "Spectra S1 プラス 病院グレード"
+    },
+    "description": {
+      "en": "Rechargeable, closed system, 5 cycles + 12 vacuum settings, hospital-grade quiet motor. Used in NICUs.",
+      "ja": "充電式、クローズドシステム、5サイクル＋12真空設定、病院グレード静音モーター。NICUで使用。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.spectra-baby.us/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "medela-pump-in-style-max-flow",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$280",
+    "category": "parenting",
+    "badge": "🍼",
+    "name": {
+      "en": "Medela Pump in Style MaxFlow",
+      "ja": "Medela ポンプ イン スタイル MaxFlow"
+    },
+    "description": {
+      "en": "Double electric, micro-vibration tech, lightweight (1.65 lb), most-prescribed-by-doctors brand.",
+      "ja": "ダブル電動、マイクロバイブレーション技術、軽量（750g）、医師最推奨ブランド。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.medela.us/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "elvie-stride-wearable-pump",
+    "imageUrl": "",
+    "priceMin": "$269",
+    "priceMax": "$329",
+    "category": "parenting",
+    "badge": "🍼",
+    "name": {
+      "en": "Elvie Stride Wearable Pump",
+      "ja": "Elvie Stride ウェアラブル ポンプ"
+    },
+    "description": {
+      "en": "Wireless, tube-free, hands-free in-bra design, app-controlled. Quietest wearable, best for working moms.",
+      "ja": "ワイヤレス、チューブレス、ブラ内蔵ハンズフリー、アプリ制御。最も静かなウェアラブル、働くママに最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.elvie.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "willow-go-wearable",
+    "imageUrl": "",
+    "priceMin": "$329",
+    "priceMax": "$399",
+    "category": "parenting",
+    "badge": "🍼",
+    "name": {
+      "en": "Willow Go Wearable Breast Pump",
+      "ja": "Willow Go ウェアラブル ブレストポンプ"
+    },
+    "description": {
+      "en": "Cordless, fits in nursing bra, 7-oz capacity per side, Bluetooth-enabled app. Best capacity wearable.",
+      "ja": "コードレス、授乳ブラ装着、片側7oz容量、Bluetoothアプリ。容量重視のウェアラブルで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://onewillow.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "haakaa-silicone-manual-pump",
+    "imageUrl": "",
+    "priceMin": "$13",
+    "priceMax": "$20",
+    "category": "parenting",
+    "badge": "🍼",
+    "name": {
+      "en": "Haakaa Silicone Manual Pump",
+      "ja": "Haakaa シリコン手動ポンプ"
+    },
+    "description": {
+      "en": "One-piece silicone, suction-only, catches let-down. The most affordable starter pump under $20.",
+      "ja": "ワンピースシリコン、吸引のみ、Let-down捕集。$20以下の最も手頃な入門ポンプ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://haakaa.com.au/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vtech-sit-to-stand-walker",
+    "imageUrl": "",
+    "priceMin": "$33",
+    "priceMax": "$45",
+    "category": "parenting",
+    "badge": "🚶",
+    "name": {
+      "en": "VTech Sit-to-Stand Learning Walker",
+      "ja": "VTech シット トゥ スタンド ラーニング ウォーカー"
+    },
+    "description": {
+      "en": "Detachable activity panel, 5 keys, light-up shape sorter, music. Best educational walker.",
+      "ja": "取外しアクティビティパネル、5キー、光る形状ソーター、音楽。教育系ウォーカーで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.vtechkids.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fisher-price-laugh-learn-walker",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$55",
+    "category": "parenting",
+    "badge": "🚶",
+    "name": {
+      "en": "Fisher-Price Laugh & Learn Walker",
+      "ja": "Fisher-Price ラフ＆ラーン ウォーカー"
+    },
+    "description": {
+      "en": "Smart Stages technology adapts to 6-36 month skills, 75+ songs/sounds/phrases. Most educational walker.",
+      "ja": "スマートステージで6-36ヶ月スキルに適応、75以上の曲／音／フレーズ。最も教育的なウォーカー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fisher-price.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "joovy-spoon-walker",
+    "imageUrl": "",
+    "priceMin": "$70",
+    "priceMax": "$110",
+    "category": "parenting",
+    "badge": "🚶",
+    "name": {
+      "en": "Joovy Spoon Walker",
+      "ja": "Joovy スプーン ウォーカー"
+    },
+    "description": {
+      "en": "Wide stable base, large tray (also a feeding table), height-adjustable, no toys (anti-distraction).",
+      "ja": "広い安定ベース、大トレイ（食事台にもなる）、高さ調整可、玩具なし（集中阻害なし）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.joovy.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "baby-einstein-around-we-go",
+    "imageUrl": "",
+    "priceMin": "$90",
+    "priceMax": "$120",
+    "category": "parenting",
+    "badge": "🚶",
+    "name": {
+      "en": "Baby Einstein Around We Go Activity Walker",
+      "ja": "Baby Einstein アラウンドウィーゴー"
+    },
+    "description": {
+      "en": "Convertible (walker / stationary entertainer), discovery activity table, 360-degree rotating seat.",
+      "ja": "コンバーチブル（ウォーカー／据置エンターテイナー）、ディスカバリーテーブル、360度回転シート。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kidsiibrands.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hape-wonder-walker",
+    "imageUrl": "",
+    "priceMin": "$65",
+    "priceMax": "$80",
+    "category": "parenting",
+    "badge": "🚶",
+    "name": {
+      "en": "Hape Wonder Walker",
+      "ja": "Hape ワンダー ウォーカー"
+    },
+    "description": {
+      "en": "Wood push walker, rubber-edged wheels, gear and shape sorter activities. Eco-friendly classic style.",
+      "ja": "木製プッシュウォーカー、ゴム縁ホイール、ギア・形状ソーター。エコフレンドリーなクラシックスタイル。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://hape.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "babybjorn-bouncer-bliss",
+    "imageUrl": "",
+    "priceMin": "$220",
+    "priceMax": "$280",
+    "category": "parenting",
+    "badge": "🍼",
+    "name": {
+      "en": "BabyBjörn Bouncer Bliss",
+      "ja": "BabyBjörn バウンサー ブリス"
+    },
+    "description": {
+      "en": "No batteries needed (baby's movement bounces), 3 positions, ergonomic design, supports up to 29 lb / 2 years.",
+      "ja": "電池不要（赤ちゃんの動きで揺れる）、3ポジション、エルゴノミクスデザイン、13kg / 2歳まで対応。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.babybjorn.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fisher-price-deluxe-infant-bouncer",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$70",
+    "category": "parenting",
+    "badge": "🍼",
+    "name": {
+      "en": "Fisher-Price Deluxe Infant-to-Toddler Rocker",
+      "ja": "Fisher-Price デラックス インファントロッカー"
+    },
+    "description": {
+      "en": "Converts from infant bouncer to toddler rocking chair, removable toy bar, supports up to 40 lb. Best convertible.",
+      "ja": "幼児バウンサー→トドラーロッキングチェア変換、取外し玩具バー、18kgまで。コンバーチブルで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fisher-price.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "4moms-mamaroo-bouncer",
+    "imageUrl": "",
+    "priceMin": "$179",
+    "priceMax": "$229",
+    "category": "parenting",
+    "badge": "🍼",
+    "name": {
+      "en": "4moms mamaRoo Bouncer",
+      "ja": "4moms mamaRoo バウンサー"
+    },
+    "description": {
+      "en": "Lighter version of mamaRoo swing, app-controlled, foot-bounce mechanic. Tech-forward option.",
+      "ja": "mamaRooスウィングの軽量版、アプリ制御、足踏みバウンス機構。テック寄り。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.4moms.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bombol-bamboo-bouncer",
+    "imageUrl": "",
+    "priceMin": "$350",
+    "priceMax": "$425",
+    "category": "parenting",
+    "badge": "🍼",
+    "name": {
+      "en": "Bombol Bamboo Foldable Bouncer",
+      "ja": "Bombol バンブー 折畳バウンサー"
+    },
+    "description": {
+      "en": "Folds completely flat (5 cm thick), bamboo frame, travel-friendly, parent-bounce assist. Best travel bouncer.",
+      "ja": "完全フラット折畳（5cm厚）、竹フレーム、旅行向き、親補助バウンス。旅行用バウンサーで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bombol.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ingenuity-soothe-n-delight-bouncer",
+    "imageUrl": "",
+    "priceMin": "$45",
+    "priceMax": "$60",
+    "category": "parenting",
+    "badge": "🍼",
+    "name": {
+      "en": "Ingenuity Soothe 'n Delight Bouncer",
+      "ja": "Ingenuity スーズアンドディライト バウンサー"
+    },
+    "description": {
+      "en": "Battery-powered vibration, removable toy bar, machine-washable cover. Best budget electric bouncer.",
+      "ja": "電池駆動振動、取外し玩具バー、洗濯機可カバー。バジェット電動バウンサーで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://ingenuitybaby.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "frida-baby-3-in-1-thermometer",
+    "imageUrl": "",
+    "priceMin": "$20",
+    "priceMax": "$25",
+    "category": "parenting",
+    "badge": "🌡️",
+    "name": {
+      "en": "Frida Baby 3-in-1 True Temp Thermometer",
+      "ja": "Frida Baby 3-in-1 サーモメータ"
+    },
+    "description": {
+      "en": "Rectal/oral/underarm in one, 8-second reading, color-coded fever indicator. Best for newborns (rectal is gold standard).",
+      "ja": "直腸／口腔／脇下兼用、8秒測定、色分け発熱インジケータ。新生児で最有力（直腸はゴールドスタンダード）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://fridababy.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "braun-thermoscan-7-ear",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$70",
+    "category": "parenting",
+    "badge": "🌡️",
+    "name": {
+      "en": "Braun ThermoScan 7 Ear Thermometer",
+      "ja": "Braun サーモスキャン 7 耳式"
+    },
+    "description": {
+      "en": "Age-precision technology (auto-adjusts for child age), pre-warmed tip, hospital-favorite ear thermometer.",
+      "ja": "年齢精密技術（子どもの年齢で自動調整）、プレヒート測定先、病院推奨耳式。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.braunhealthcare.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "iproven-forehead-ear",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$35",
+    "category": "parenting",
+    "badge": "🌡️",
+    "name": {
+      "en": "iProven Forehead and Ear Thermometer DMT-489",
+      "ja": "iProven 額／耳式サーモメータ DMT-489"
+    },
+    "description": {
+      "en": "Dual-mode forehead/ear, fever alarm, last 10 readings memory. Best mid-tier dual-mode.",
+      "ja": "額／耳デュアルモード、発熱アラーム、最新10回測定メモリ。中位層デュアルモードで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.iproven.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "kinsa-quickcare",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$45",
+    "category": "parenting",
+    "badge": "🌡️",
+    "name": {
+      "en": "Kinsa QuickCare Smart Thermometer",
+      "ja": "Kinsa クイックケア スマートサーモメータ"
+    },
+    "description": {
+      "en": "Bluetooth connection to phone app, age-based fever guidance, group illness tracking. Best smart option.",
+      "ja": "スマホアプリBluetooth接続、年齢別発熱ガイダンス、グループ疾病追跡。スマートオプションで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://kinsahealth.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fridababy-quick-read-thermometer",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$40",
+    "category": "parenting",
+    "badge": "🌡️",
+    "name": {
+      "en": "FridaBaby Quick-Read Forehead Thermometer",
+      "ja": "FridaBaby クイックリード 額式"
+    },
+    "description": {
+      "en": "Non-contact infrared, 1-second reading, silent mode. Best touchless option for sleeping baby.",
+      "ja": "非接触赤外線、1秒測定、サイレントモード。寝ている赤ちゃん用の非接触で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://fridababy.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "skip-hop-silver-lining-cloud-playmat",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$80",
+    "category": "parenting",
+    "badge": "🧸",
+    "name": {
+      "en": "Skip Hop Silver Lining Cloud Activity Gym",
+      "ja": "Skip Hop シルバーライニング クラウド アクティビティジム"
+    },
+    "description": {
+      "en": "5 hanging toys, mirror, crinkle textures, soft padded mat. The instagram-friendly modern aesthetic option.",
+      "ja": "ハンギング玩具5個、ミラー、シャラシャラ触感、ソフトマット。インスタ映えするモダンデザイン。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.skiphop.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fisher-price-deluxe-kick-and-play",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$70",
+    "category": "parenting",
+    "badge": "🧸",
+    "name": {
+      "en": "Fisher-Price Deluxe Kick & Play Piano Gym",
+      "ja": "Fisher-Price デラックス キック＆プレイ"
+    },
+    "description": {
+      "en": "Detachable piano (kick to play), 4 modes of music, BMI lights, grows with baby (tummy/sit modes).",
+      "ja": "取外しピアノ（蹴って演奏）、4音楽モード、BMIライト、赤ちゃんと共に成長（うつぶせ／お座りモード）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fisher-price.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "lovevery-play-gym",
+    "imageUrl": "",
+    "priceMin": "$140",
+    "priceMax": "$180",
+    "category": "parenting",
+    "badge": "🧸",
+    "name": {
+      "en": "Lovevery The Play Gym",
+      "ja": "Lovevery プレイジム"
+    },
+    "description": {
+      "en": "Montessori-inspired, 5 development zones (face cards, batting ring, etc.), play guide for each stage 0-12 months.",
+      "ja": "モンテッソーリ風、5発達ゾーン（顔カード、バッティングリング等）、0-12ヶ月各段階のプレイガイド。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://lovevery.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "infantino-3-in-1-jumbo-playmat",
+    "imageUrl": "",
+    "priceMin": "$80",
+    "priceMax": "$110",
+    "category": "parenting",
+    "badge": "🧸",
+    "name": {
+      "en": "Infantino 3-in-1 Jumbo Activity Gym",
+      "ja": "Infantino 3-in-1 ジャンボ アクティビティジム"
+    },
+    "description": {
+      "en": "Extra-large mat (40\" diameter), 17 activities, transforms tummy-time/back/sitting. Best for twins or bigger spaces.",
+      "ja": "超大型マット（直径約100cm）、17アクティビティ、うつぶせ／仰向け／お座りに変換。双子や広い空間で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.infantino.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "baby-einstein-sea-dreams-soother-playmat",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$40",
+    "category": "parenting",
+    "badge": "🧸",
+    "name": {
+      "en": "Baby Einstein Sea Dreams Activity Gym",
+      "ja": "Baby Einstein シードリームス アクティビティジム"
+    },
+    "description": {
+      "en": "Underwater theme, mirror, music ($30 budget-friendly). Best budget playmat under $35.",
+      "ja": "海中テーマ、ミラー、音楽（$30バジェットフレンドリー）。$35以下のバジェットプレイマットで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kidsiibrands.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "stella-and-chewys-freeze-dried-treats",
+    "imageUrl": "",
+    "priceMin": "$12",
+    "priceMax": "$25",
+    "category": "pets",
+    "badge": "🐕",
+    "name": {
+      "en": "Stella & Chewy's Freeze-Dried Treats",
+      "ja": "Stella & Chewy's フリーズドライ トリート"
+    },
+    "description": {
+      "en": "Single-ingredient (chicken/beef/lamb), grain-free, freeze-dried raw. Best high-protein training treat.",
+      "ja": "単一原材料（鶏／牛／羊）、穀物不使用、フリーズドライ生。高タンパクトレーニング用で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://stellaandchewys.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "wellness-soft-puppy-bites",
+    "imageUrl": "",
+    "priceMin": "$5",
+    "priceMax": "$9",
+    "category": "pets",
+    "badge": "🐕",
+    "name": {
+      "en": "Wellness Soft Puppy Bites",
+      "ja": "Wellness ソフト パピー バイト"
+    },
+    "description": {
+      "en": "Soft chewy treats for puppies, lamb-and-salmon, DHA for brain development. Best for puppies.",
+      "ja": "子犬用ソフト噛みやすいトリート、ラム＋サーモン、脳発達用DHA入り。子犬で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.wellnesspetfood.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "zukes-mini-naturals",
+    "imageUrl": "",
+    "priceMin": "$7",
+    "priceMax": "$13",
+    "category": "pets",
+    "badge": "🐕",
+    "name": {
+      "en": "Zuke's Mini Naturals Training Treats",
+      "ja": "Zuke's ミニ ナチュラルズ トレーニング"
+    },
+    "description": {
+      "en": "Pea-sized soft treats (3 calories each), real meat, no corn/wheat/soy. Best for clicker training.",
+      "ja": "豆粒大ソフトトリート（1粒3kcal）、本物の肉、コーン／小麦／大豆不使用。クリッカートレーニングで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://zukes.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "blue-buffalo-blue-bits",
+    "imageUrl": "",
+    "priceMin": "$8",
+    "priceMax": "$14",
+    "category": "pets",
+    "badge": "🐕",
+    "name": {
+      "en": "Blue Buffalo Blue Bits Soft-Moist Treats",
+      "ja": "Blue Buffalo ブルービッツ"
+    },
+    "description": {
+      "en": "Soft moist training-size treats, real chicken/beef/salmon, antioxidant-rich. Widely available at major pet stores.",
+      "ja": "ソフトモイストトレーニングサイズ、本物の鶏／牛／鮭、抗酸化豊富。主要ペット店で広く入手可能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://bluebuffalo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "milk-bone-mini-biscuits",
+    "imageUrl": "",
+    "priceMin": "$4",
+    "priceMax": "$7",
+    "category": "pets",
+    "badge": "🐕",
+    "name": {
+      "en": "Milk-Bone Mini Biscuits",
+      "ja": "Milk-Bone ミニ ビスケット"
+    },
+    "description": {
+      "en": "Classic crunchy biscuits, 12+ vitamins/minerals, USA-made. The most affordable training treat.",
+      "ja": "クラシックなクランチビスケット、12種以上のビタミン／ミネラル、米国製。最も手頃なトレーニングトリート。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.milkbone.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "petlibro-dockstream-fountain",
+    "imageUrl": "",
+    "priceMin": "$75",
+    "priceMax": "$95",
+    "category": "pets",
+    "badge": "🐈",
+    "name": {
+      "en": "PETLIBRO Dockstream Wireless Water Fountain",
+      "ja": "PETLIBRO ドックストリーム ワイヤレス"
+    },
+    "description": {
+      "en": "Battery-or-AC, dual filtration, 67 oz capacity, ultra-quiet pump (30 dB). Best wireless option.",
+      "ja": "電池／AC両用、デュアルろ過、67oz容量、超静音ポンプ（30dB）。ワイヤレスで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.petlibro.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "petsafe-drinkwell-360-fountain",
+    "imageUrl": "",
+    "priceMin": "$70",
+    "priceMax": "$95",
+    "category": "pets",
+    "badge": "🐈",
+    "name": {
+      "en": "PetSafe Drinkwell 360 Pet Fountain",
+      "ja": "PetSafe ドリンクウェル 360 ペット ファウンテン"
+    },
+    "description": {
+      "en": "Stainless steel bowl, 128 oz capacity, 5 free-falling streams, dishwasher-safe parts. Best for multi-cat homes.",
+      "ja": "ステンレスボウル、128oz容量、5本のフリーフローストリーム、食洗機可。多頭飼育で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.petsafe.net/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "catit-flower-fountain",
+    "imageUrl": "",
+    "priceMin": "$35",
+    "priceMax": "$45",
+    "category": "pets",
+    "badge": "🐈",
+    "name": {
+      "en": "Catit Flower Fountain",
+      "ja": "Catit フラワー ファウンテン"
+    },
+    "description": {
+      "en": "Flower-shaped surface attracts cats, triple-filtration, 100 oz capacity. The popular plastic option.",
+      "ja": "花型表面が猫を惹きつける、3段ろ過、100oz容量。人気のプラスチックオプション。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.catit.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "veken-stainless-steel-fountain",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$55",
+    "category": "pets",
+    "badge": "🐈",
+    "name": {
+      "en": "Veken 95 oz Stainless Steel Pet Fountain",
+      "ja": "Veken 95oz ステンレスペットファウンテン"
+    },
+    "description": {
+      "en": "Stainless steel construction (no plastic), 3 flow modes, replaceable filters. Best stainless-steel under $50.",
+      "ja": "ステンレス構造（プラスチック無し）、3流量モード、フィルター交換可。$50以下のステンレスで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://veken.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "pioneer-pet-raindrop-fountain",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$65",
+    "category": "pets",
+    "badge": "🐈",
+    "name": {
+      "en": "Pioneer Pet Raindrop Stainless Steel Fountain",
+      "ja": "Pioneer Pet レインドロップ ステンレス ファウンテン"
+    },
+    "description": {
+      "en": "Raindrop-shape stainless steel, 60 oz, simple dish-style design (no cascade). Easy to clean.",
+      "ja": "雨滴型ステンレス、60oz、シンプルなディッシュスタイル（カスケード無し）。掃除が簡単。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://pioneerpet.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "petsafe-cozy-pet-steps",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$70",
+    "category": "pets",
+    "badge": "🐕",
+    "name": {
+      "en": "PetSafe Cozy Pet Steps",
+      "ja": "PetSafe コージー ペットステップス"
+    },
+    "description": {
+      "en": "Foam construction, removable washable cover, 3 steps, supports up to 150 lb. Best foam pet stairs.",
+      "ja": "フォーム構造、取外し洗濯可カバー、3段、68kgまで対応。フォームペットステアで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.petsafe.net/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "pet-gear-easy-step-iv",
+    "imageUrl": "",
+    "priceMin": "$70",
+    "priceMax": "$90",
+    "category": "pets",
+    "badge": "🐕",
+    "name": {
+      "en": "Pet Gear Easy Step IV",
+      "ja": "Pet Gear イージーステップ IV"
+    },
+    "description": {
+      "en": "4 steps, rubber-grip on stairs, supports up to 150 lb, 4 different heights available. Best for tall beds/couches.",
+      "ja": "4段、階段ラバーグリップ、68kgまで対応、4高さ展開。背の高いベッド／ソファで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.petgearinc.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "soothies-portable-pet-stairs",
+    "imageUrl": "",
+    "priceMin": "$35",
+    "priceMax": "$50",
+    "category": "pets",
+    "badge": "🐕",
+    "name": {
+      "en": "Soothies Portable Pet Stairs",
+      "ja": "Soothies ポータブル ペットステアズ"
+    },
+    "description": {
+      "en": "Foldable design, lightweight (3 lb), 3 steps, supports up to 70 lb. Best for travel.",
+      "ja": "折畳式、軽量（1.4kg）、3段、32kgまで対応。旅行用で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://soothies.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "best-pet-supplies-foam-pet-steps",
+    "imageUrl": "",
+    "priceMin": "$45",
+    "priceMax": "$75",
+    "category": "pets",
+    "badge": "🐕",
+    "name": {
+      "en": "Best Pet Supplies Foam Pet Steps",
+      "ja": "Best Pet Supplies フォームペットステップス"
+    },
+    "description": {
+      "en": "Foam construction, 4 colors of velvet cover, 3 steps, 4 different heights (16-25\" range).",
+      "ja": "フォーム構造、ベルベットカバー4色、3段、4高さ展開（40-63cmレンジ）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bestpetsupplies.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "frisco-wooden-pet-stairs",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$100",
+    "category": "pets",
+    "badge": "🐕",
+    "name": {
+      "en": "Frisco Wooden Pet Stairs",
+      "ja": "Frisco 木製ペットステアズ"
+    },
+    "description": {
+      "en": "Wood construction with carpeted steps, 2-3-4 step versions, supports up to 100 lb. Best wooden option.",
+      "ja": "木製構造＋カーペット階段、2／3／4段版、45kgまで対応。木製オプションで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.chewy.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fluval-fx6-canister-filter",
+    "imageUrl": "",
+    "priceMin": "$420",
+    "priceMax": "$490",
+    "category": "pets",
+    "badge": "🐠",
+    "name": {
+      "en": "Fluval FX6 Canister Filter",
+      "ja": "Fluval FX6 キャニスター フィルター"
+    },
+    "description": {
+      "en": "Up to 400 gal tanks, 925 gph flow, multi-stage filtration, self-priming. The flagship canister filter.",
+      "ja": "400ガロンまで、925gph流量、マルチステージろ過、セルフプライミング。フラッグシップキャニスター。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fluvalaquatics.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "aquaclear-110-power-filter",
+    "imageUrl": "",
+    "priceMin": "$85",
+    "priceMax": "$110",
+    "category": "pets",
+    "badge": "🐠",
+    "name": {
+      "en": "AquaClear 110 Power Filter",
+      "ja": "AquaClear 110 パワー フィルター"
+    },
+    "description": {
+      "en": "Up to 110 gal tanks, hang-on-back type, customizable media, flow control. The reliable HOB workhorse.",
+      "ja": "110ガロンまで、ハングオンバック式、メディアカスタマイズ可、流量制御。信頼のHOBワークホース。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.aqueon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "marineland-magniflow-canister-filter",
+    "imageUrl": "",
+    "priceMin": "$140",
+    "priceMax": "$180",
+    "category": "pets",
+    "badge": "🐠",
+    "name": {
+      "en": "Marineland Magniflow 360 Canister",
+      "ja": "Marineland マグニフロー 360 キャニスター"
+    },
+    "description": {
+      "en": "Up to 100 gal, 360 gph flow, easy disassembly for cleaning, polishing pad included. Mid-tier canister.",
+      "ja": "100ガロンまで、360gph流量、掃除のため分解容易、ポリッシングパッド付属。中位層キャニスター。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.marineland.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "tetra-whisper-internal-filter",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$35",
+    "category": "pets",
+    "badge": "🐠",
+    "name": {
+      "en": "Tetra Whisper Internal Filter",
+      "ja": "Tetra ウィスパー 内部フィルター"
+    },
+    "description": {
+      "en": "Submersible internal filter, ideal for 10-40 gal, quiet operation, easy install. Best for beginners.",
+      "ja": "水中内部フィルター、10-40ガロン向き、静音、設置容易。初心者で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.tetra-fish.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "seachem-tidal-110-power-filter",
+    "imageUrl": "",
+    "priceMin": "$130",
+    "priceMax": "$170",
+    "category": "pets",
+    "badge": "🐠",
+    "name": {
+      "en": "Seachem Tidal 110 Power Filter",
+      "ja": "Seachem タイダル 110 パワー フィルター"
+    },
+    "description": {
+      "en": "Up to 110 gal, surface skimming feature, large media basket, flow control. Best HOB with surface skimmer.",
+      "ja": "110ガロンまで、表面スキミング機能、大型メディアバスケット、流量制御。表面スキマー付きHOBで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.seachem.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "prevue-hendryx-pre-pak-cage",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$280",
+    "category": "pets",
+    "badge": "🦜",
+    "name": {
+      "en": "Prevue Hendryx Pre-Pak Wrought Iron Bird Cage",
+      "ja": "Prevue Hendryx 錬鉄製バードケージ"
+    },
+    "description": {
+      "en": "Wrought iron, 64\" tall on stand, suitable for parakeets to amazons, includes 4 perches. Most popular medium-bird cage.",
+      "ja": "錬鉄製、スタンド付き高さ163cm、セキセイインコ〜アマゾン用、止まり木4本付属。最人気の中型鳥ケージ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.prevuepet.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "yaheetech-large-bird-cage",
+    "imageUrl": "",
+    "priceMin": "$130",
+    "priceMax": "$170",
+    "category": "pets",
+    "badge": "🦜",
+    "name": {
+      "en": "Yaheetech 53\" Wrought Iron Bird Cage",
+      "ja": "Yaheetech 53インチ 錬鉄バードケージ"
+    },
+    "description": {
+      "en": "Wrought iron with rolling stand, 53\" tall, includes 2 feeders + 4 perches, removable bottom tray.",
+      "ja": "ローリングスタンド付き錬鉄製、高さ134cm、給餌器2＋止まり木4付属、底トレイ取外し可。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.yaheetech.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vivohome-59-bird-cage",
+    "imageUrl": "",
+    "priceMin": "$170",
+    "priceMax": "$220",
+    "category": "pets",
+    "badge": "🦜",
+    "name": {
+      "en": "VIVOHOME 59\" Large Bird Cage",
+      "ja": "VIVOHOME 59インチ 大型バードケージ"
+    },
+    "description": {
+      "en": "Wrought iron, lockable doors, 4 feeding doors, 59\" tall on rolling stand. Good for medium parrots.",
+      "ja": "錬鉄製、施錠可ドア、給餌ドア4、ローリングスタンド付き高さ150cm。中型オウムに適する。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.vivohome.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "kings-cages-aluminum-cage",
+    "imageUrl": "",
+    "priceMin": "$795",
+    "priceMax": "$1,095",
+    "category": "pets",
+    "badge": "🦜",
+    "name": {
+      "en": "Kings Cages Aluminum 506SD",
+      "ja": "Kings Cages アルミ 506SD"
+    },
+    "description": {
+      "en": "Aluminum (no rust), 36×26×64 inches, premium build for large parrots (macaw/cockatoo). Made in USA.",
+      "ja": "アルミ製（錆びない）、91×66×163cm、大型オウム（マカウ／コカトゥー）用プレミアム。米国製。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kingscages.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "midwest-poquito-avian-hotel",
+    "imageUrl": "",
+    "priceMin": "$45",
+    "priceMax": "$70",
+    "category": "pets",
+    "badge": "🦜",
+    "name": {
+      "en": "MidWest Poquito Avian Hotel Travel Cage",
+      "ja": "MidWest ポキート アビアン トラベルケージ"
+    },
+    "description": {
+      "en": "Small travel-size cage, folds for transport, integrated handle. Best for vet visits and short trips.",
+      "ja": "小型トラベルケージ、輸送のため折畳、内蔵ハンドル。獣医訪問・短期旅行で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.midwesthomes4pets.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "natures-miracle-stain-odor-remover",
+    "imageUrl": "",
+    "priceMin": "$10",
+    "priceMax": "$20",
+    "category": "pets",
+    "badge": "🧽",
+    "name": {
+      "en": "Nature's Miracle Stain & Odor Remover",
+      "ja": "Nature's Miracle ステイン＆オダー リムーバー"
+    },
+    "description": {
+      "en": "Enzyme-based, removes stains/odors at molecular level, vet-recommended, safe on carpets/upholstery.",
+      "ja": "酵素ベース、分子レベルで汚れ／臭い除去、獣医推奨、カーペット／布張りに安全。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.naturesmiracle.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "rocco-roxie-supply-co-stain-eliminator",
+    "imageUrl": "",
+    "priceMin": "$20",
+    "priceMax": "$30",
+    "category": "pets",
+    "badge": "🧽",
+    "name": {
+      "en": "Rocco & Roxie Supply Co. Stain & Odor Eliminator",
+      "ja": "Rocco & Roxie ステイン＆オダー イリミネーター"
+    },
+    "description": {
+      "en": "Enzyme cleaner, professional strength, certified safe for kids/pets. Amazon's most popular pet enzyme cleaner.",
+      "ja": "酵素クリーナー、プロ級強度、子供／ペットに安全認証。Amazonで最人気の酵素クリーナー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.roccoroxie.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "anti-icky-poo-enzyme-cleaner",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$40",
+    "category": "pets",
+    "badge": "🧽",
+    "name": {
+      "en": "Anti-Icky-Poo Unscented Enzyme Cleaner",
+      "ja": "Anti-Icky-Poo 無香料 酵素クリーナー"
+    },
+    "description": {
+      "en": "Used by professional pet cleaners, double-strength enzyme, no fragrance to mask. Best deep clean.",
+      "ja": "プロのペット清掃で使用、二重強度酵素、香料無し（マスキング無し）。ディープクリーンで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://antiickypoo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "skout-honor-stain-odor",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$25",
+    "category": "pets",
+    "badge": "🧽",
+    "name": {
+      "en": "Skout's Honor Stain & Odor Remover",
+      "ja": "Skout's Honor ステイン＆オダー リムーバー"
+    },
+    "description": {
+      "en": "Plant-based, biodegradable, citrus-scented, safe for all surfaces. Best eco-friendly option.",
+      "ja": "植物由来、生分解性、シトラス香、全表面安全。エコフレンドリーで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://skoutshonor.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bissell-pet-stain-pretreat",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$25",
+    "category": "pets",
+    "badge": "🧽",
+    "name": {
+      "en": "BISSELL Professional Pet Stain & Odor Eliminator Plus Oxy",
+      "ja": "BISSELL プロフェッショナル ペット ステイン＋オキシ"
+    },
+    "description": {
+      "en": "Oxy formula, intended for use with carpet cleaning machines, deep penetration. Best for machine cleaning.",
+      "ja": "オキシ処方、カーペットクリーニング機との併用設計、深部浸透。マシンクリーニングで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bissell.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "away-the-carry-on",
+    "imageUrl": "",
+    "priceMin": "$275",
+    "priceMax": "$345",
+    "category": "travel",
+    "badge": "🧳",
+    "name": {
+      "en": "Away The Carry-On",
+      "ja": "Away ザ キャリーオン"
+    },
+    "description": {
+      "en": "Polycarbonate hard-shell, ejectable battery (TSA-compliant), 360° wheels, lifetime warranty. The DTC standard.",
+      "ja": "ポリカハードシェル、取外しバッテリー（TSA準拠）、360°ホイール、生涯保証。DTCの基準。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.awaytravel.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "monos-carry-on",
+    "imageUrl": "",
+    "priceMin": "$255",
+    "priceMax": "$325",
+    "category": "travel",
+    "badge": "🧳",
+    "name": {
+      "en": "Monos Carry-On",
+      "ja": "Monos キャリーオン"
+    },
+    "description": {
+      "en": "Aerospace polycarbonate, vegan leather details, quieter wheels than Away, lifetime warranty. Premium DTC competitor.",
+      "ja": "航空宇宙ポリカ、ヴィーガンレザーディテール、Awayより静かなホイール、生涯保証。プレミアムDTC競合。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://monos.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "rimowa-essential-cabin",
+    "imageUrl": "",
+    "priceMin": "$925",
+    "priceMax": "$1,125",
+    "category": "travel",
+    "badge": "🧳",
+    "name": {
+      "en": "Rimowa Essential Cabin",
+      "ja": "RIMOWA エッセンシャル キャビン"
+    },
+    "description": {
+      "en": "Polycarbonate with signature grooves, premium build, 5-year warranty, made in Germany/Czech Republic. The status pick.",
+      "ja": "ポリカ＋シグネチャーグルーブ、プレミアム製造、5年保証、独／チェコ製。ステータスピック。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.rimowa.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "tumi-19-degree-international-carry-on",
+    "imageUrl": "",
+    "priceMin": "$795",
+    "priceMax": "$1,095",
+    "category": "travel",
+    "badge": "🧳",
+    "name": {
+      "en": "Tumi 19 Degree International Expandable Carry-On",
+      "ja": "TUMI 19 ディグリー インターナショナル"
+    },
+    "description": {
+      "en": "Aluminum or polycarbonate options, expandable, Tumi Tracer return service, lifetime warranty. Premium business standard.",
+      "ja": "アルミ／ポリカ展開、拡張可、Tumi Tracer返却サービス、生涯保証。プレミアムビジネス基準。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.tumi.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "amazon-basics-hardshell-carry-on",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$80",
+    "category": "travel",
+    "badge": "🧳",
+    "name": {
+      "en": "Amazon Basics Hardshell Carry-On",
+      "ja": "Amazon Basics ハードシェル キャリーオン"
+    },
+    "description": {
+      "en": "ABS plastic, 360° wheels, TSA lock, basic warranty. Best ultra-budget option under $80.",
+      "ja": "ABSプラスチック、360°ホイール、TSAロック、基本保証。$80以下のウルトラバジェットで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "away-the-large",
+    "imageUrl": "",
+    "priceMin": "$345",
+    "priceMax": "$425",
+    "category": "travel",
+    "badge": "🧳",
+    "name": {
+      "en": "Away The Large",
+      "ja": "Away ザ ラージ"
+    },
+    "description": {
+      "en": "76 cm, polycarbonate shell, hidden interior compression system, lifetime warranty. DTC large-format standard.",
+      "ja": "76cm、ポリカシェル、隠し圧縮システム、生涯保証。DTC大型基準。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.awaytravel.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "samsonite-omni-pc-large",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$260",
+    "category": "travel",
+    "badge": "🧳",
+    "name": {
+      "en": "Samsonite Omni PC Hardside 28\"",
+      "ja": "Samsonite オムニPC ハードサイド 28\""
+    },
+    "description": {
+      "en": "Lightweight micro-diamond polycarbonate, 360° wheels, expandable, 10-year warranty. Best value large hardside.",
+      "ja": "軽量マイクロダイヤモンドポリカ、360°ホイール、拡張可、10年保証。大型ハードサイドで最高コスパ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://shop.samsonite.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "briggs-and-riley-baseline-large",
+    "imageUrl": "",
+    "priceMin": "$649",
+    "priceMax": "$799",
+    "category": "travel",
+    "badge": "🧳",
+    "name": {
+      "en": "Briggs & Riley Baseline Large Expandable",
+      "ja": "Briggs & Riley ベースライン ラージ"
+    },
+    "description": {
+      "en": "Ballistic nylon, CX expandable suspension, lifetime warranty (covers airline damage). Made in Thailand.",
+      "ja": "バリスティックナイロン、CX拡張サスペンション、生涯保証（航空会社損傷もカバー）。タイ製。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.briggs-riley.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "travelpro-platinum-elite-large",
+    "imageUrl": "",
+    "priceMin": "$450",
+    "priceMax": "$550",
+    "category": "travel",
+    "badge": "🧳",
+    "name": {
+      "en": "Travelpro Platinum Elite 29\" Expandable Spinner",
+      "ja": "Travelpro プラチナム エリート 29\" スピナー"
+    },
+    "description": {
+      "en": "Ballistic nylon, MagnaTrac wheels, suiter for garments, lifetime warranty. Favored by flight crews.",
+      "ja": "バリスティックナイロン、MagnaTracホイール、衣類用スーター、生涯保証。フライトクルー人気。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.travelpro.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "delsey-helium-aero-large",
+    "imageUrl": "",
+    "priceMin": "$180",
+    "priceMax": "$240",
+    "category": "travel",
+    "badge": "🧳",
+    "name": {
+      "en": "Delsey Helium Aero 29\"",
+      "ja": "Delsey ヘリウム エアロ 29\""
+    },
+    "description": {
+      "en": "Polycarbonate, lightweight, double-spinner wheels, 10-year warranty. Best mid-tier polycarbonate large.",
+      "ja": "ポリカ、軽量、ダブルスピナーホイール、10年保証。中位層ポリカ大型で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.delseyusa.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "scottevest-fleece-101-jacket",
+    "imageUrl": "",
+    "priceMin": "$160",
+    "priceMax": "$200",
+    "category": "travel",
+    "badge": "🧥",
+    "name": {
+      "en": "SCOTTeVEST Fleece 101 Jacket",
+      "ja": "SCOTTeVEST フリース 101 ジャケット"
+    },
+    "description": {
+      "en": "26 pockets including dedicated tablet/passport/water bottle pockets, fleece-lined. The classic travel jacket.",
+      "ja": "タブレット／パスポート／ペットボトル専用含む26ポケット、フリース裏地。クラシックトラベルジャケット。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.scottevest.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "baubax-3-0-travel-jacket",
+    "imageUrl": "",
+    "priceMin": "$220",
+    "priceMax": "$280",
+    "category": "travel",
+    "badge": "🧥",
+    "name": {
+      "en": "BauBax 3.0 Travel Jacket",
+      "ja": "BauBax 3.0 トラベルジャケット"
+    },
+    "description": {
+      "en": "15 features including built-in pillow, eye mask, gloves, blanket pocket. Most-funded travel jacket on Kickstarter.",
+      "ja": "内蔵枕、アイマスク、手袋、ブランケットポケット含む15機能。Kickstarterで最も支援された旅行ジャケット。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://baubax.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "patagonia-houdini-jacket",
+    "imageUrl": "",
+    "priceMin": "$129",
+    "priceMax": "$149",
+    "category": "travel",
+    "badge": "🧥",
+    "name": {
+      "en": "Patagonia Houdini Jacket",
+      "ja": "Patagonia フーディニ ジャケット"
+    },
+    "description": {
+      "en": "Ultra-light (3.7 oz), packs into own pocket, DWR finish, no special travel features. The minimalist travel shell.",
+      "ja": "超軽量（105g）、自身のポケットに収納可、DWR撥水、特別な旅行機能なし。ミニマリスト旅行シェル。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.patagonia.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "uniqlo-pocketable-parka",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$60",
+    "category": "travel",
+    "badge": "🧥",
+    "name": {
+      "en": "Uniqlo Pocketable UV Protection Parka",
+      "ja": "ユニクロ ポケッタブルUVプロテクションパーカー"
+    },
+    "description": {
+      "en": "Lightweight, packs into pouch, UV-blocking, men's/women's. Best budget packable travel jacket under $50.",
+      "ja": "軽量、ポーチに収納可、UVブロック、メンズ／レディース。$50以下のバジェットパッカブル最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.uniqlo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "arc-teryx-atom-lt-hoody",
+    "imageUrl": "",
+    "priceMin": "$259",
+    "priceMax": "$329",
+    "category": "travel",
+    "badge": "🧥",
+    "name": {
+      "en": "Arc'teryx Atom LT Hoody",
+      "ja": "Arc'teryx アトムLT フーディ"
+    },
+    "description": {
+      "en": "Synthetic insulation, breathable side panels, packable, technical-but-stylish travel layer. Premium pick.",
+      "ja": "合成中綿、通気性サイドパネル、パッカブル、テクニカルでスタイリッシュな旅行レイヤー。プレミアムピック。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://arcteryx.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "allbirds-tree-dasher-2",
+    "imageUrl": "",
+    "priceMin": "$135",
+    "priceMax": "$145",
+    "category": "travel",
+    "badge": "👟",
+    "name": {
+      "en": "Allbirds Tree Dasher 2",
+      "ja": "Allbirds ツリーダッシャー 2"
+    },
+    "description": {
+      "en": "Eucalyptus tree fiber, sugarcane midsole, machine-washable, breathable. Best for warm-weather city walking.",
+      "ja": "ユーカリ繊維、サトウキビミッドソール、洗濯機可、通気。温暖天候の都市歩行で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.allbirds.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ecco-soft-7-sneaker",
+    "imageUrl": "",
+    "priceMin": "$170",
+    "priceMax": "$200",
+    "category": "travel",
+    "badge": "👟",
+    "name": {
+      "en": "ECCO Soft 7 Sneaker",
+      "ja": "ECCO ソフト 7 スニーカー"
+    },
+    "description": {
+      "en": "Full-grain leather, dressy enough for restaurants, supportive for all-day walking. Premium travel sneaker.",
+      "ja": "フルグレインレザー、レストランOKのドレッシー感、終日歩行サポート。プレミアム旅行スニーカー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://us.ecco.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "merrell-jungle-moc-leather",
+    "imageUrl": "",
+    "priceMin": "$110",
+    "priceMax": "$130",
+    "category": "travel",
+    "badge": "👟",
+    "name": {
+      "en": "Merrell Jungle Moc Leather Slip-On",
+      "ja": "Merrell ジャングルモック レザー スリッポン"
+    },
+    "description": {
+      "en": "Slip-on construction (easy for TSA), leather upper, M-Select GRIP sole. Best easy-on/off travel shoe.",
+      "ja": "スリッポン構造（TSA容易）、レザーアッパー、M-Select GRIPソール。脱ぎ履き容易な旅行靴で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.merrell.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hoka-bondi-8",
+    "imageUrl": "",
+    "priceMin": "$165",
+    "priceMax": "$175",
+    "category": "travel",
+    "badge": "👟",
+    "name": {
+      "en": "Hoka Bondi 8",
+      "ja": "Hoka ボンダイ 8"
+    },
+    "description": {
+      "en": "Max-cushion running shoe, very comfortable for long walking days, comes in wide widths. Best max-comfort.",
+      "ja": "マックスクッションランニング靴、長時間歩行に非常に快適、ワイド幅展開。最大快適性で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hoka.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vivobarefoot-primus-lite-iii",
+    "imageUrl": "",
+    "priceMin": "$155",
+    "priceMax": "$175",
+    "category": "travel",
+    "badge": "👟",
+    "name": {
+      "en": "Vivobarefoot Primus Lite III",
+      "ja": "Vivobarefoot プリムス ライト III"
+    },
+    "description": {
+      "en": "Barefoot design, packable, lightweight (220g), foot-shaped toe box. Best minimal travel shoe.",
+      "ja": "ベアフット設計、パッカブル、軽量（220g）、足型トゥボックス。ミニマル旅行靴で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.vivobarefoot.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "zoppen-rfid-passport-wallet",
+    "imageUrl": "",
+    "priceMin": "$13",
+    "priceMax": "$20",
+    "category": "travel",
+    "badge": "🛂",
+    "name": {
+      "en": "Zoppen RFID Blocking Passport Wallet",
+      "ja": "Zoppen RFIDブロッキング パスポートウォレット"
+    },
+    "description": {
+      "en": "PU leather, multiple slots, holds 2 passports + 14 cards + boarding passes. Amazon's most popular passport wallet.",
+      "ja": "PUレザー、複数スロット、パスポート2＋カード14＋搭乗券収納可。Amazonで最人気のパスポートウォレット。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bellroy-travel-wallet",
+    "imageUrl": "",
+    "priceMin": "$120",
+    "priceMax": "$145",
+    "category": "travel",
+    "badge": "🛂",
+    "name": {
+      "en": "Bellroy Travel Wallet",
+      "ja": "Bellroy トラベルウォレット"
+    },
+    "description": {
+      "en": "Environmentally certified leather, holds passport + cards + cash + pen, slim profile, RFID variant available.",
+      "ja": "環境認証レザー、パスポート＋カード＋現金＋ペン収納、スリム、RFID版あり。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://bellroy.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "travelambo-rfid-passport-wallet",
+    "imageUrl": "",
+    "priceMin": "$10",
+    "priceMax": "$15",
+    "category": "travel",
+    "badge": "🛂",
+    "name": {
+      "en": "Travelambo RFID Passport Holder",
+      "ja": "Travelambo RFID パスポートホルダー"
+    },
+    "description": {
+      "en": "Vegan leather, 4 card slots, holds 2 passports, simple design. Best budget under $15.",
+      "ja": "ヴィーガンレザー、カードスロット4、パスポート2収納、シンプル設計。$15以下のバジェット最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.travelambo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fossil-mens-rfid-passport-case",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$55",
+    "category": "travel",
+    "badge": "🛂",
+    "name": {
+      "en": "Fossil Men's RFID Passport Case",
+      "ja": "Fossil メンズ RFID パスポートケース"
+    },
+    "description": {
+      "en": "Full-grain leather, RFID blocking, passport + 4 card slots. Best premium leather under $50.",
+      "ja": "フルグレインレザー、RFIDブロック、パスポート＋カードスロット4。$50以下のプレミアムレザーで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fossil.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "wandfwallet-rfid-family-passport-holder",
+    "imageUrl": "",
+    "priceMin": "$20",
+    "priceMax": "$30",
+    "category": "travel",
+    "badge": "🛂",
+    "name": {
+      "en": "WALNEW RFID Family Passport Holder",
+      "ja": "WALNEW RFID ファミリーパスポートホルダー"
+    },
+    "description": {
+      "en": "Vegan leather, holds 4-6 passports, large compartments for tickets. Best for families.",
+      "ja": "ヴィーガンレザー、パスポート4-6収納、チケット用大型コンパートメント。家族向けで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "peak-design-travel-tripod-cf",
+    "imageUrl": "",
+    "priceMin": "$600",
+    "priceMax": "$700",
+    "category": "travel",
+    "badge": "📷",
+    "name": {
+      "en": "Peak Design Travel Tripod (Carbon)",
+      "ja": "Peak Design トラベル トライポッド (CF)"
+    },
+    "description": {
+      "en": "Carbon fiber, packs to 15.4 inches, 60-inch max height, magnetic-lock plate. The compact travel king.",
+      "ja": "カーボンファイバー、収納時39cm、最大高さ152cm、マグネティックロックプレート。コンパクトトラベルキング。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.peakdesign.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "manfrotto-befree-advanced",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$400",
+    "category": "travel",
+    "badge": "📷",
+    "name": {
+      "en": "Manfrotto Befree Advanced Travel Tripod",
+      "ja": "Manfrotto ビフリー アドバンスト"
+    },
+    "description": {
+      "en": "Aluminum or carbon options, folds to 16 inches, ergonomic M-lock, ball head. The traditional choice.",
+      "ja": "アルミ／カーボン展開、収納時41cm、エルゴノミクスMロック、ボールヘッド。伝統的選択肢。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.manfrotto.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "joby-gorillapod-5k",
+    "imageUrl": "",
+    "priceMin": "$130",
+    "priceMax": "$170",
+    "category": "travel",
+    "badge": "📷",
+    "name": {
+      "en": "Joby GorillaPod 5K Kit",
+      "ja": "Joby ゴリラポッド 5K キット"
+    },
+    "description": {
+      "en": "Flexible legs grip railings/branches, ball head, supports up to 11 lb. Best flexible-leg option.",
+      "ja": "フレキシブル脚で手すり／枝にグリップ、ボールヘッド、5kgまで対応。フレキシブル脚で最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://joby.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ulanzi-mt-44-mini-tripod",
+    "imageUrl": "",
+    "priceMin": "$45",
+    "priceMax": "$80",
+    "category": "travel",
+    "badge": "📷",
+    "name": {
+      "en": "Ulanzi MT-44 Travel Tripod",
+      "ja": "Ulanzi MT-44 トラベル トライポッド"
+    },
+    "description": {
+      "en": "Compact (folds to 17.7 inches), extends to 67 inches, ball head, phone clip included. Best budget under $80.",
+      "ja": "コンパクト（収納時45cm）、最大170cm、ボールヘッド、スマホクリップ付属。$80以下のバジェット最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ulanzi.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "gitzo-traveler-1-series",
+    "imageUrl": "",
+    "priceMin": "$890",
+    "priceMax": "$1,100",
+    "category": "travel",
+    "badge": "📷",
+    "name": {
+      "en": "Gitzo Traveler Series 1",
+      "ja": "Gitzo トラベラー シリーズ 1"
+    },
+    "description": {
+      "en": "Carbon fiber, folds to 16.9 inches, premium build quality, supports up to 22 lb. Premium DSLR travel tripod.",
+      "ja": "カーボンファイバー、収納時43cm、プレミアム製造、10kgまで対応。プレミアムDSLR旅行三脚。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.gitzo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
   }
 ];

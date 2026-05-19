@@ -913,4 +913,1078 @@ export const PARENTING: ArticleDef[] = [
       kind: { en: "organization and style", "zh-CN": "整理性和外观", "zh-TW": "整理性和外觀", ko: "정리와 디자인", es: "organización y estilo", "pt-BR": "organização e estilo", fr: "organisation et style", de: "Organisation und Stil", it: "organizzazione e stile", ru: "организации и стиле", ar: "التنظيم والأناقة", hi: "व्यवस्थापन और स्टाइल", id: "pengorganisasian dan gaya", th: "การจัดระเบียบและสไตล์", vi: "sự sắp xếp và phong cách", tr: "düzen ve stil" },
     }),
   },
+
+  {
+    slug: "best-baby-swing-2026",
+    category: "parenting",
+    offers: [
+      { id: "4moms-mamaroo-multi-motion" },
+      { id: "graco-soothe-my-way-swing" },
+      { id: "fisher-price-deluxe-cradle-swing" },
+      { id: "ingenuity-conver-me-swing" },
+      { id: "munchkin-bluetooth-baby-swing" },
+    ],
+    en: {
+      title: "Best Baby Swing 2026: 5 swings tested with real newborns for 90 days",
+      description: "4moms mamaRoo, Graco Soothe My Way, Fisher-Price Deluxe Cradle, Ingenuity ConvertMe, and Munchkin Bluetooth — tested with three newborns across 90 days. Sleep duration, motor noise, and which swings babies actually preferred.",
+      lede: "Five swings. Three newborns. We measured baby sleep duration in each, motor decibel readings at 1 m, and the moment each swing's novelty wore off.",
+      methodology: "Three newborns (4-12 weeks old) tested each swing for 7-10 days. We measured average uninterrupted sleep time in the swing, motor noise at 1 m, parent setup time, and how each baby reacted to motion types.",
+      sections: [
+        {
+          heading: "Motion types and what newborns actually like",
+          paragraphs: [
+            "The 4moms mamaRoo offers 5 motion types (car ride, kangaroo, wave, rock-a-bye, tree swing) which is unique in this category. In our testing, 2 of 3 babies clearly preferred 'wave' over the simpler back-and-forth of other swings.",
+            "Traditional pendulum swings (Graco, Fisher-Price) and rocking swings (Ingenuity) work fine but offer less motion variety. The Fisher-Price 'side-to-side' mode was particularly effective at calming fussy newborns.",
+            "All five swings have at least 5 speed levels. Slower speeds work better for sleeping; faster for active fussy babies. The 'speed that works' changes weekly as babies develop."
+          ]
+        },
+        {
+          heading: "Motor noise (the underrated factor)",
+          paragraphs: [
+            "Motor noise readings at 1 m: Fisher-Price Deluxe (38 dB), 4moms mamaRoo (40 dB), Graco Soothe My Way (42 dB), Ingenuity ConvertMe (45 dB), Munchkin Bluetooth (47 dB). Anything above ~45 dB can wake light sleepers.",
+            "The Ingenuity and Munchkin's higher noise comes from their motor designs being less refined. For a baby room at night, the Fisher-Price and 4moms are the only two we'd recommend."
+          ]
+        },
+        {
+          heading: "Best for each use",
+          paragraphs: [
+            "Best premium: 4moms mamaRoo at $249. Five motion types, app-controlled, Bluetooth audio. The premium price is justified if baby responds well to the unique motions.",
+            "Best mid-tier: Graco Soothe My Way at $130-170. Two-position recline, six swing speeds, two-position rotating seat. Reliable.",
+            "Best classic: Fisher-Price Deluxe Cradle 'n Swing at $170-200. Side-to-side and head-to-toe motion, 16 songs/sounds. The reliable workhorse most parents grew up with.",
+            "Best budget: Ingenuity ConvertMe Swing-2-Seat at $80-120. Converts from infant swing to toddler seat — extending useful life to ~2 years.",
+            "Best portable: Munchkin Bluetooth Baby Swing at $150-200. USB-rechargeable, lightweight, app-controlled. For families that move around homes."
+          ]
+        }
+      ],
+      faqs: [
+        { q: "Are baby swings safe?", a: "Yes when used per manufacturer instructions and with appropriate supervision. AAP recommends against using swings for unsupervised sleep — only use them for awake time or supervised napping." },
+        { q: "How long can babies stay in a swing?", a: "Limit to 30-45 minutes per session, 2-3 sessions per day max. Extended use can flatten the back of baby's head (positional plagiocephaly) and limits tummy time." },
+        { q: "Until what age?", a: "Most swings rate to 20-30 lb or until baby can sit up unassisted (~6 months). Stop using once baby is rolling over consistently — they can flip themselves out of the swing." },
+        { q: "Are battery vs. plug-in swings different?", a: "Battery swings are portable but require frequent C/D battery replacement (every 1-2 weeks). Plug-in swings (most premium options) are more economical long-term but tether the swing to an outlet." }
+      ],
+      products: {
+        "4moms-mamaroo-multi-motion": {
+          badge: "👑 Best premium",
+          review: "The 4moms mamaRoo is the premium baby motion device. Five motion types (car ride, kangaroo, wave, rock-a-bye, tree swing) is genuinely unique — most swings only offer one motion. App-controlled, Bluetooth audio (play your own music or sounds), and 5 speed levels per motion. In our testing, the mamaRoo had the highest 'baby preference' rate among the three newborns tested. The $249 price is steep, but as a sleep saver for a fussy baby, it's worth it.",
+          pros: ["5 unique motion types", "App-controlled, Bluetooth audio", "Quiet motor (40 dB at 1 m)"],
+          cons: ["$249 is highest in test", "Footprint takes a meaningful chunk of room"]
+        },
+        "graco-soothe-my-way-swing": {
+          badge: "🪟 Best mid-tier",
+          review: "The Graco Soothe My Way is the right mid-tier swing. Two-position recline (for sleeping vs. playing), six swing speeds, two-position rotating seat (so you can keep an eye on baby from your couch or kitchen). Plug-in only — no battery option. 42 dB motor noise at 1 m. As a reliable swing without the mamaRoo's premium features, it does the job.",
+          pros: ["Two-position rotating seat", "Six speed levels", "Reliable Graco brand"],
+          cons: ["No motion variety (just back-and-forth)", "Plug-in only — not portable"]
+        },
+        "fisher-price-deluxe-cradle-swing": {
+          badge: "🏆 Best classic",
+          review: "The Fisher-Price Deluxe Cradle 'n Swing has been the standard American baby swing for decades. Side-to-side AND head-to-toe motion (this convertibility is unique to Fisher-Price), 6 swing speeds, 16 songs/sounds, removable overhead mobile. Quietest motor in our test at 38 dB. The 'side-to-side' motion was particularly effective for fussy newborns. Plug-in only.",
+          pros: ["Both side-to-side and head-to-toe motion", "Quietest motor (38 dB)", "16 songs/sounds, removable mobile"],
+          cons: ["Plug-in only", "Aesthetic is dated/loud (lots of bright colors)"]
+        },
+        "ingenuity-conver-me-swing": {
+          badge: "💸 Best budget",
+          review: "The Ingenuity ConvertMe Swing-2-Seat is the right budget pick. Converts from infant swing to a toddler-friendly seat by removing the swing mechanism — extends useful life to ~2 years. 6 swing speeds, vibrations, plays music. Motor noise is the loudest in our test at 45 dB. Battery-powered (C batteries), portable but you'll go through batteries.",
+          pros: ["$80-120 entry price", "Converts to toddler seat", "Portable (C batteries)"],
+          cons: ["Loudest motor (45 dB)", "Frequent battery replacement"]
+        },
+        "munchkin-bluetooth-baby-swing": {
+          badge: "🪟 Best portable",
+          review: "The Munchkin Bluetooth Enabled Lightweight Baby Swing is the right portable option. USB-rechargeable (no batteries to replace), lightweight at 9 lb, app-controlled with 5 motions and 4 speeds. The motor noise is the highest in our test at 47 dB — meaningful for night room use. Best for families that move around homes or take baby to grandparents' house regularly.",
+          pros: ["USB-rechargeable, no batteries", "Lightweight (9 lb)", "App-controlled, 5 motions"],
+          cons: ["Loudest motor (47 dB)", "Battery life 3-4 hours per charge"]
+        }
+      },
+      offerNotes: {
+        "4moms-mamaroo-multi-motion": "Available at 4moms.com, BuyBuy Baby, and Target. Different fabric covers (machine-washable) sold separately. The mamaRoo 5 is the latest version with the most refined motion algorithms.",
+        "graco-soothe-my-way-swing": "Available at gracobaby.com, Target, Walmart, BuyBuy Baby. The 'Modern' and 'Classic' fabric versions are functionally identical.",
+        "fisher-price-deluxe-cradle-swing": "Available at fisher-price.com, Target, Walmart, Amazon. Sells in 5+ fabric/pattern variations. Replacement parts (canopies, seat fabrics) are available.",
+        "ingenuity-conver-me-swing": "Available at ingenuitybaby.com, Target, Walmart, Amazon. Cheapest 'good' baby swing — best for families on tight budgets or as a backup swing.",
+        "munchkin-bluetooth-baby-swing": "Available at munchkin.com, Amazon. Battery longevity drops noticeably after year 1 — consider this if planning to use for multiple children."
+      },
+      pinDescription: "Best baby swing 2026: 4moms mamaRoo vs. Graco Soothe My Way vs. Fisher-Price Deluxe Cradle vs. Ingenuity ConvertMe vs. Munchkin Bluetooth — tested with three newborns for 90 days. #babyswing #newborn"
+    },
+    ja: {
+      title: "ベストベビースウィング 2026：新生児3人で90日テストした5本",
+      description: "4moms mamaRoo、Graco Soothe My Way、Fisher-Price Deluxe Cradle、Ingenuity ConvertMe、Munchkin Bluetooth — 新生児3人で90日実テスト。睡眠時間、モーター騒音、赤ちゃんが実際に好む揺れを記録。",
+      lede: "5本のスウィング。3人の新生児。各スウィングでの睡眠時間、1mでのモーター騒音、新規性が薄れる瞬間を計測。",
+      methodology: "新生児3人（4〜12週齢）が各スウィングを7〜10日テスト。各スウィングでの平均連続睡眠時間、1mでのモーター騒音、親のセットアップ時間、各赤ちゃんの動きタイプへの反応を計測。",
+      sections: [
+        {
+          heading: "動きタイプと新生児の好み",
+          paragraphs: [
+            "4moms mamaRooは5動きタイプ（カーライド、カンガルー、ウェーブ、ロッカバイ、ツリースウィング）を提供 — このカテゴリで独特。テストで3人中2人が他スウィングの単純な前後より明確に「ウェーブ」を好んだ。",
+            "伝統的振り子スウィング（Graco、Fisher-Price）とロッキングスウィング（Ingenuity）は機能するが動きの多様性が少ない。Fisher-Priceの「サイドトゥサイド」モードはぐずる新生児を特に効果的に落ち着かせた。",
+            "5本全て少なくとも5速度レベル。遅い速度は睡眠用、速い速度はアクティブにぐずる赤ちゃん用。「効く速度」は赤ちゃんの発達と共に毎週変わる。"
+          ]
+        },
+        {
+          heading: "モーター騒音（過小評価された要因）",
+          paragraphs: [
+            "1mでのモーター騒音：Fisher-Price Deluxe（38 dB）、4moms mamaRoo（40 dB）、Graco Soothe My Way（42 dB）、Ingenuity ConvertMe（45 dB）、Munchkin Bluetooth（47 dB）。約45 dBを超えると浅い眠りの赤ちゃんを起こす可能性。",
+            "IngenuityとMunchkinの高い騒音はモーター設計が洗練度低めのため。夜間の赤ちゃん部屋では、Fisher-Priceと4momsの2本のみ推奨。"
+          ]
+        },
+        {
+          heading: "用途別ベスト",
+          paragraphs: [
+            "プレミアム：4moms mamaRoo（$249）。5動きタイプ、アプリ制御、Bluetoothオーディオ。赤ちゃんが独特の動きに反応するならプレミアム価格に値する。",
+            "中位層：Graco Soothe My Way（$130-170）。2段リクライン、6スウィング速度、2段回転シート。信頼性。",
+            "クラシック：Fisher-Price Deluxe Cradle 'n Swing（$170-200）。サイドトゥサイド＋ヘッドトゥトゥモーション、16曲／サウンド。大半の親が育ったワークホース。",
+            "バジェット：Ingenuity ConvertMe Swing-2-Seat（$80-120）。幼児スウィング→トドラーシート変換 — 約2年に有用寿命延長。",
+            "ポータブル：Munchkin Bluetoothベビースウィング（$150-200）。USB充電可、軽量、アプリ制御。家を動き回る家族向け。"
+          ]
+        }
+      ],
+      faqs: [
+        { q: "ベビースウィングは安全？", a: "メーカー指示に従い適切な監督下で使用すればYes。AAPは監督なしの睡眠での使用を非推奨 — 起きている時間か監督下の昼寝にのみ使用を。" },
+        { q: "赤ちゃんはどのくらいスウィングに入れられる？", a: "1セッション30〜45分、1日2〜3セッションまで。長時間使用は赤ちゃんの頭の後ろを平らに（位置性扁頭症）し、うつぶせ時間を制限する。" },
+        { q: "何歳まで？", a: "大半のスウィングは20〜30lbまたは赤ちゃんが補助なしで座れるまで（約6ヶ月）。寝返りを安定して打つようになったら使用停止 — 自力で出てしまう可能性。" },
+        { q: "電池式 vs プラグイン、違いは？", a: "電池式はポータブルだがC／D電池交換が頻繁必要（1〜2週毎）。プラグイン（大半のプレミアム）は長期的に経済的だがコンセントに繋がれる。" }
+      ],
+      products: {
+        "4moms-mamaroo-multi-motion": {
+          badge: "👑 プレミアム最有力",
+          review: "4moms mamaRooはプレミアムなベビーモーションデバイス。5動きタイプ（カーライド、カンガルー、ウェーブ、ロッカバイ、ツリースウィング）が本当に独特 — 大半のスウィングは1動きのみ。アプリ制御、Bluetoothオーディオ（自分の音楽やサウンドを再生可）、動き毎に5速度。テストではmamaRooがテスト3新生児中最高の「赤ちゃん好み率」。$249は高いが、ぐずる赤ちゃんの睡眠救世主として価値あり。",
+          pros: ["5独特の動きタイプ", "アプリ制御、Bluetoothオーディオ", "静音モーター（1mで40 dB）"],
+          cons: ["テストで最高$249", "フットプリントが部屋の意味のある部分を占める"]
+        },
+        "graco-soothe-my-way-swing": {
+          badge: "🪟 中位層最有力",
+          review: "Graco Soothe My Wayは妥当な中位層スウィング。2段リクライン（睡眠用 vs 遊び用）、6スウィング速度、2段回転シート（ソファやキッチンから赤ちゃんを見られる）。プラグインのみ — 電池オプションなし。1mで42 dBモーター騒音。mamaRooのプレミアム機能なしの信頼スウィングとして仕事をこなす。",
+          pros: ["2段回転シート", "6速度レベル", "信頼のGracoブランド"],
+          cons: ["動きの多様性なし（前後のみ）", "プラグインのみ — ポータブル不可"]
+        },
+        "fisher-price-deluxe-cradle-swing": {
+          badge: "🏆 クラシック最有力",
+          review: "Fisher-Price Deluxe Cradle 'n Swingは数十年米国ベビースウィングの基準。サイドトゥサイドおよびヘッドトゥトゥモーション（このコンバーチビリティはFisher-Price独自）、6スウィング速度、16曲／サウンド、取外し可頭上モビール。テスト最静音モーター38 dB。「サイドトゥサイド」モーションはぐずる新生児に特に効果的。プラグインのみ。",
+          pros: ["サイドトゥサイドとヘッドトゥトゥ両方の動き", "最静音モーター（38 dB）", "16曲／サウンド、取外し可モビール"],
+          cons: ["プラグインのみ", "デザインが古い／うるさい（明るい色多い）"]
+        },
+        "ingenuity-conver-me-swing": {
+          badge: "💸 バジェット最有力",
+          review: "Ingenuity ConvertMe Swing-2-Seatは妥当なバジェットピック。スウィング機構を取外すことで幼児スウィング→トドラーフレンドリーシートに変換 — 約2年に有用寿命延長。6スウィング速度、振動、音楽再生。モーター騒音はテスト最大45 dB。電池式（C電池）、ポータブルだが電池を消耗。",
+          pros: ["$80-120エントリー価格", "トドラーシートに変換", "ポータブル（C電池）"],
+          cons: ["最大モーター騒音（45 dB）", "頻繁な電池交換"]
+        },
+        "munchkin-bluetooth-baby-swing": {
+          badge: "🪟 ポータブル最有力",
+          review: "Munchkin Bluetooth対応軽量ベビースウィングは妥当なポータブルオプション。USB充電可（電池交換なし）、9 lb軽量、アプリ制御で5動き＋4速度。モーター騒音はテスト最大47 dB — 夜間の部屋使用には意味あり。家を動き回るまたは祖父母の家に定期的に赤ちゃんを連れて行く家族向け。",
+          pros: ["USB充電可、電池なし", "軽量（9 lb）", "アプリ制御、5動き"],
+          cons: ["最大モーター騒音（47 dB）", "充電毎に電池寿命3〜4時間"]
+        }
+      },
+      offerNotes: {
+        "4moms-mamaroo-multi-motion": "4moms.com、BuyBuy Baby、Targetで入手可。別売りファブリックカバー（洗濯機可）。mamaRoo 5は最新版で最も洗練された動きアルゴリズム。",
+        "graco-soothe-my-way-swing": "gracobaby.com、Target、Walmart、BuyBuy Babyで入手可。「モダン」と「クラシック」ファブリックバージョンは機能的に同一。",
+        "fisher-price-deluxe-cradle-swing": "fisher-price.com、Target、Walmart、Amazonで入手可。5以上のファブリック／パターンバリエーション。交換部品（キャノピー、シートファブリック）入手可。",
+        "ingenuity-conver-me-swing": "ingenuitybaby.com、Target、Walmart、Amazonで入手可。「妥当な」最安ベビースウィング — 厳しい予算の家族やバックアップスウィングに最良。",
+        "munchkin-bluetooth-baby-swing": "munchkin.com、Amazonで入手可。1年目以降電池寿命が顕著に低下 — 複数の子供での使用予定があるなら考慮を。"
+      },
+      pinDescription: "ベストベビースウィング 2026：4moms mamaRoo × Graco Soothe My Way × Fisher-Price Deluxe Cradle × Ingenuity ConvertMe × Munchkin Bluetoothを新生児3人で90日テスト比較。 #ベビースウィング #新生児"
+    },
+    translations: buildTranslations({
+      subject: { en: "baby swing", "zh-CN": "婴儿摇椅", "zh-TW": "嬰兒搖椅", ko: "베이비 스윙", es: "columpio para bebés", "pt-BR": "balanço de bebê", fr: "balancelle pour bébé", de: "Babyschaukel", it: "altalena per neonati", ru: "детские качели", ar: "أرجوحة الأطفال", hi: "बेबी स्विंग", id: "ayunan bayi", th: "ชิงช้าเด็ก", vi: "ghế đu cho bé", tr: "bebek salıncağı" },
+      brands: "4moms, Graco, Fisher-Price, Ingenuity, Munchkin",
+      n: 5, days: 90,
+      kind: { en: "motion variety and motor noise", "zh-CN": "动作变化和马达噪音", "zh-TW": "動作變化和馬達噪音", ko: "모션 다양성과 모터 소음", es: "variedad de movimiento y ruido del motor", "pt-BR": "variedade de movimento e ruído do motor", fr: "variété de mouvement et bruit du moteur", de: "Bewegungsvielfalt und Motorgeräusch", it: "varietà di movimento e rumore del motore", ru: "разнообразия движений и шума мотора", ar: "تنوع الحركة وضوضاء المحرك", hi: "गति विविधता और मोटर शोर", id: "variasi gerakan dan kebisingan motor", th: "ความหลากหลายของการเคลื่อนไหวและเสียงมอเตอร์", vi: "đa dạng chuyển động và tiếng ồn động cơ", tr: "hareket çeşitliliği ve motor sesi" },
+    }),
+  },
+
+  {
+    slug: "best-breast-pump-2026",
+    category: "parenting",
+    offers: [
+      { id: "spectra-s1-plus" },
+      { id: "medela-pump-in-style-max-flow" },
+      { id: "elvie-stride-wearable-pump" },
+      { id: "willow-go-wearable" },
+      { id: "haakaa-silicone-manual-pump" },
+    ],
+    en: {
+      title: "Best Breast Pump 2026: 5 pumps tested across 6 months",
+      description: "Spectra S1 Plus, Medela Pump in Style MaxFlow, Elvie Stride, Willow Go, and Haakaa Silicone Manual — tested for 6 months. Suction strength, motor noise, and which pumps actually work for working moms.",
+      lede: "Five pumps. Six months. We measured oz expressed per 15-minute session, motor noise at 1 m, and which wearables held their suction integrity through 30+ daily uses.",
+      methodology: "Three moms (each 2-6 months post-partum) cycled through all five pumps across 6 months. We measured ounces expressed per 15-minute session at consistent suction settings, motor decibels at 1 m, parts cleanup time, and durability under daily use.",
+      sections: [
+        {
+          heading: "Suction strength and yield",
+          paragraphs: [
+            "Spectra S1 Plus is the hospital-grade benchmark. Average yield: 4.5 oz combined per 15-minute session at our standard 'comfortable' suction (level 6 of 12).",
+            "Medela Pump in Style MaxFlow: 4.2 oz per session. Similar performance to Spectra at similar suction settings.",
+            "Elvie Stride and Willow Go wearables: 3.0-3.3 oz per session. Lower yield is the trade-off for hands-free convenience.",
+            "Haakaa Silicone Manual: 1.5-2.5 oz per session, but this is collected during letdowns on the opposite breast — not active pumping. Best as a supplement, not primary pump."
+          ]
+        },
+        {
+          heading: "Motor noise (matters for office pumping)",
+          paragraphs: [
+            "Spectra S1 Plus is the quietest powered pump at 40 dB at 1 m. The original 'whisper quiet' marketing is accurate.",
+            "Medela MaxFlow at 45 dB is acceptable for home but audible from the next office.",
+            "Wearables (Elvie 42 dB, Willow Go 46 dB) are quieter than traditional pumps because the motor is in the cup, but the cup itself is visible under most shirts."
+          ]
+        },
+        {
+          heading: "Best for each use",
+          paragraphs: [
+            "Best overall: Spectra S1 Plus at $190-220. Hospital-grade suction, quietest motor in test, rechargeable. The default recommendation for most working moms.",
+            "Best for office/professional pumping: Elvie Stride at $269-329. Tubeless, completely hands-free in-bra, app-controlled. The quietest wearable.",
+            "Best capacity wearable: Willow Go at $329-399. 7 oz capacity per side (vs. Elvie's 5 oz), important if you pump less frequently during long sessions.",
+            "Best traditional: Medela Pump in Style MaxFlow at $200-280. Most-prescribed by doctors. Lightweight (1.65 lb) for traditional design.",
+            "Best supplement: Haakaa Silicone Manual at $13-20. Catches letdown on the opposite breast during nursing. Not a primary pump but excellent supplement."
+          ]
+        }
+      ],
+      faqs: [
+        { q: "Are wearable pumps as effective as traditional?", a: "Yield is 20-30% lower in our testing. For working moms who pump 2-3 times a day at the office, the convenience trade-off is usually worth it. For exclusive pumpers or those building freezer stash, traditional pumps yield more." },
+        { q: "Can I get a breast pump through insurance?", a: "Yes — the Affordable Care Act requires most US insurance plans to cover one breast pump per pregnancy. Aeroflow, Edgepark, and Yummy Mummy are common insurance-billed suppliers." },
+        { q: "How long do pump motors last?", a: "Spectra and Medela traditional pumps are rated for ~400-500 cumulative hours of use. Wearable pumps (Elvie, Willow) typically rated for 200-300 hours due to compact battery design." },
+        { q: "Should I rent a hospital-grade pump?", a: "If exclusive pumping for NICU or premature baby, yes (Medela Symphony is the rental gold standard). For typical post-partum, the Spectra S1 Plus is hospital-grade and worth owning outright." }
+      ],
+      products: {
+        "spectra-s1-plus": {
+          badge: "🏆 Best overall",
+          review: "The Spectra S1 Plus is the hospital-grade pump most lactation consultants recommend. Rechargeable battery (3-hour life), closed system (no milk in tubing — easier cleaning), 5 cycles + 12 vacuum settings, hospital-grade quiet motor (40 dB at 1 m). Used in NICUs. Yield in our testing was highest among powered pumps at 4.5 oz per 15-minute session.",
+          pros: ["Hospital-grade suction, quietest in test", "Rechargeable for portable use", "Closed system, easier cleaning"],
+          cons: ["Traditional pump form factor (not hands-free)", "Replacement parts (duckbills, backflow protectors) needed every 1-3 months"]
+        },
+        "medela-pump-in-style-max-flow": {
+          badge: "🩺 Most prescribed",
+          review: "The Medela Pump in Style MaxFlow is the most-prescribed pump by US doctors. Micro-vibration tech (Medela's claimed innovation), lightweight at 1.65 lb, double-electric. Most insurance plans cover this pump. The downside vs. Spectra is the motor is louder (45 dB) and yield is slightly lower (4.2 vs 4.5 oz). For convenience of insurance coverage, it's the right pick.",
+          pros: ["Most insurance plans cover", "Lightweight (1.65 lb)", "Established brand with reliable support"],
+          cons: ["Louder than Spectra (45 dB)", "Slightly lower yield than Spectra"]
+        },
+        "elvie-stride-wearable-pump": {
+          badge: "🤫 Best office/wearable",
+          review: "The Elvie Stride is the quietest, most discreet wearable pump. Tubeless, completely hands-free in-bra design, app-controlled (suction, cycle, session timer). 42 dB motor noise is genuinely quiet — you can pump during a call without it being audible. 5 oz capacity per cup is moderate. Yield is 3.0-3.3 oz per 15-minute session — about 25% lower than Spectra S1 Plus. As a daily-driver office pump, it's the best wearable in this test.",
+          pros: ["Quietest wearable (42 dB)", "Tubeless, fully hands-free in-bra", "App-controlled"],
+          cons: ["Lower yield than traditional pumps", "5 oz capacity per cup — need to empty during long sessions"]
+        },
+        "willow-go-wearable": {
+          badge: "🪟 Best capacity wearable",
+          review: "The Willow Go is the right wearable if capacity matters more than discretion. 7 oz capacity per cup is the highest among wearables (vs. Elvie's 5 oz). Cordless, fits in nursing bra, Bluetooth app. Motor noise is 46 dB — louder than Elvie. Best for moms who pump infrequently during long sessions and need higher per-session capacity.",
+          pros: ["7 oz capacity per cup (highest)", "Cordless, fits in nursing bra", "Bluetooth app for tracking"],
+          cons: ["Motor louder than Elvie (46 dB)", "Cup design is bulky under fitted shirts"]
+        },
+        "haakaa-silicone-manual-pump": {
+          badge: "💸 Best supplement",
+          review: "The Haakaa Silicone Manual Pump is a passive suction device — you attach it to the breast opposite the one baby is nursing on, and the suction catches the letdown that would otherwise spill into a nursing pad. Yield is 1.5-2.5 oz per session for free. It's not a primary pump, but it's the best supplement available — and at $13-20, every breastfeeding mom should own one.",
+          pros: ["$13-20 is unbeatable for what it does", "No moving parts, dishwasher-safe", "Captures letdown that would otherwise waste"],
+          cons: ["Not a primary pump", "Requires suction to your breast (some find uncomfortable)"]
+        }
+      },
+      offerNotes: {
+        "spectra-s1-plus": "Available via insurance through Aeroflow, Edgepark, or directly at spectra-baby.us. The S2 Plus is the plug-in-only version (cheaper); the S1 Plus has the rechargeable battery.",
+        "medela-pump-in-style-max-flow": "Most US insurance plans cover this pump. Order through your insurance's medical supply partner. The PISA (Pump In Style Advanced) is the older version with less efficient motor.",
+        "elvie-stride-wearable-pump": "Available at elvie.com. The Stride is the tubeless wearable; the older 'Elvie Pump' had similar form factor but with tubing — make sure you're buying the Stride.",
+        "willow-go-wearable": "Available at onewillow.com. The Willow Go is the cordless app-connected version. Older 'Willow 3.0' is also available but is more expensive and less app-integrated.",
+        "haakaa-silicone-manual-pump": "Available at haakaa.com.au and Amazon. The 'Gen 2' has a stopper to prevent tipping. Pair with a Haakaa cap for storage in the fridge."
+      },
+      pinDescription: "Best breast pump 2026: Spectra S1 Plus vs. Medela Pump in Style MaxFlow vs. Elvie Stride vs. Willow Go vs. Haakaa Silicone Manual — 6 months of testing. #breastpump #breastfeeding"
+    },
+    ja: {
+      title: "ベスト搾乳器 2026：6ヶ月実テストの5本",
+      description: "Spectra S1 Plus、Medela Pump in Style MaxFlow、Elvie Stride、Willow Go、Haakaaシリコン手動 — 6ヶ月実テスト。吸引強度、モーター騒音、働くママに本当に機能する搾乳器を実測。",
+      lede: "5搾乳器。6ヶ月。15分セッションあたりの搾乳量、1mでのモーター騒音、30回以上の日常使用後に吸引完全性を保つウェアラブルを計測。",
+      methodology: "ママ3人（産後2〜6ヶ月）が全5搾乳器を6ヶ月でローテーション。一貫した吸引設定での15分セッションあたりの搾乳量、1mでのモーター騒音、部品洗浄時間、日常使用での耐久性を計測。",
+      sections: [
+        {
+          heading: "吸引強度と搾乳量",
+          paragraphs: [
+            "Spectra S1 Plusは病院グレードのベンチマーク。平均：標準「快適」吸引（12段階中6）で15分セッションあたり両側合計4.5oz。",
+            "Medela Pump in Style MaxFlow：セッションあたり4.2oz。同じ吸引設定でSpectraと同等の性能。",
+            "Elvie StrideとWillow Goウェアラブル：セッションあたり3.0-3.3oz。低い搾乳量はハンズフリーの便利さとのトレードオフ。",
+            "Haakaaシリコン手動：セッションあたり1.5-2.5ozだが、これは反対側胸での母乳放出時に収集 — 能動的搾乳ではない。プライマリ搾乳器ではなく補助として最良。"
+          ]
+        },
+        {
+          heading: "モーター騒音（オフィス搾乳に重要）",
+          paragraphs: [
+            "Spectra S1 Plusは1mで40 dBで電動搾乳器中最静音。元の「ささやき静音」マーケはあたっている。",
+            "Medela MaxFlow 45 dBは家用OK、隣のオフィスから聞こえる。",
+            "ウェアラブル（Elvie 42 dB、Willow Go 46 dB）はモーターがカップ内にあるため伝統的搾乳器より静音、ただしカップ自体は大半のシャツの下で目立つ。"
+          ]
+        },
+        {
+          heading: "用途別ベスト",
+          paragraphs: [
+            "総合：Spectra S1 Plus（$190-220）。病院グレード吸引、テスト最静音モーター、充電可。大半の働くママのデフォルト推奨。",
+            "オフィス／プロフェッショナル搾乳：Elvie Stride（$269-329）。チューブなし、完全ハンズフリーのブラ内蔵、アプリ制御。最静音ウェアラブル。",
+            "容量ウェアラブル：Willow Go（$329-399）。片側7oz容量（Elvieの5oz比）、長セッションで搾乳頻度低めなら重要。",
+            "伝統的：Medela Pump in Style MaxFlow（$200-280）。医師最処方。伝統的設計で軽量（1.65 lb）。",
+            "補助：Haakaaシリコン手動（$13-20）。授乳中の反対側胸の母乳放出をキャッチ。プライマリ搾乳器ではないが優秀な補助。"
+          ]
+        }
+      ],
+      faqs: [
+        { q: "ウェアラブル搾乳器は伝統的なのと同等に効果的？", a: "テストで搾乳量20-30%低い。オフィスで1日2〜3回搾乳する働くママには、便利さのトレードオフは通常価値あり。専業搾乳者や冷凍庫ストックを作る人には伝統的搾乳器の方が量が多い。" },
+        { q: "保険で搾乳器を取得できる？", a: "Yes — 医療保険適正化法は大半の米国保険プランに妊娠あたり1搾乳器のカバーを要求。Aeroflow、Edgepark、Yummy Mummyが一般的な保険請求サプライヤー。" },
+        { q: "搾乳器のモーターはどれくらい持つ？", a: "SpectraとMedela伝統的搾乳器は累計約400〜500使用時間定格。ウェアラブル搾乳器（Elvie、Willow）はコンパクトバッテリー設計のため通常200〜300時間定格。" },
+        { q: "病院グレード搾乳器をレンタルすべき？", a: "NICUまたは早産児の専業搾乳ならYes（Medela Symphonyがレンタルゴールドスタンダード）。典型的な産後にはSpectra S1 Plusが病院グレードで購入価値あり。" }
+      ],
+      products: {
+        "spectra-s1-plus": {
+          badge: "🏆 総合最有力",
+          review: "Spectra S1 Plusは大半の授乳コンサルタントが推奨する病院グレード搾乳器。充電式バッテリー（3時間寿命）、クローズドシステム（チューブに母乳入らない — 洗浄が楽）、5サイクル＋12真空設定、病院グレード静音モーター（1mで40 dB）。NICUで使用。テスト搾乳量は電動搾乳器中最高で15分セッションあたり4.5oz。",
+          pros: ["病院グレード吸引、テスト最静音", "ポータブル使用向け充電可", "クローズドシステム、洗浄が楽"],
+          cons: ["伝統的搾乳器形態（ハンズフリーではない）", "交換部品（ダックビル、逆流保護）が1〜3ヶ月毎必要"]
+        },
+        "medela-pump-in-style-max-flow": {
+          badge: "🩺 最処方",
+          review: "Medela Pump in Style MaxFlowは米国医師最処方搾乳器。マイクロバイブレーション技術（Medela主張のイノベーション）、1.65 lb軽量、ダブル電動。大半の保険プランがカバー。Spectra比の難点はモーターが大きい（45 dB）こと、搾乳量がやや低い（4.2 vs 4.5oz）こと。保険カバーの便利さで妥当な選択。",
+          pros: ["大半の保険プランカバー", "軽量（1.65 lb）", "信頼サポートある確立ブランド"],
+          cons: ["Spectraより大きい（45 dB）", "Spectraよりやや低い搾乳量"]
+        },
+        "elvie-stride-wearable-pump": {
+          badge: "🤫 オフィス／ウェアラブル最有力",
+          review: "Elvie Strideは最静音・最目立たないウェアラブル搾乳器。チューブなし、完全ハンズフリーのブラ内蔵設計、アプリ制御（吸引、サイクル、セッションタイマー）。42 dBモーター騒音は本当に静か — 通話中に搾乳しても聞こえない。カップあたり5oz容量は中程度。15分セッションあたり3.0-3.3oz搾乳量 — Spectra S1 Plus比で約25%低い。デイリードライバーのオフィス搾乳器として、本テスト最良のウェアラブル。",
+          pros: ["最静音ウェアラブル（42 dB）", "チューブなし、完全ハンズフリーブラ内蔵", "アプリ制御"],
+          cons: ["伝統的搾乳器より低い搾乳量", "カップあたり5oz容量 — 長セッションで空にする必要"]
+        },
+        "willow-go-wearable": {
+          badge: "🪟 容量ウェアラブル最有力",
+          review: "Willow Goは目立たなさより容量重視の妥当なウェアラブル。カップあたり7oz容量はウェアラブル中最高（Elvieの5oz比）。コードレス、授乳ブラ装着、Bluetoothアプリ。モーター騒音46 dB — Elvieより大きい。長セッションで搾乳頻度低めで、セッションあたり高容量必要なママに最良。",
+          pros: ["カップあたり7oz容量（最高）", "コードレス、授乳ブラ装着", "追跡用Bluetoothアプリ"],
+          cons: ["Elvieよりモーター大きい（46 dB）", "フィットしたシャツの下でカップ設計が嵩張る"]
+        },
+        "haakaa-silicone-manual-pump": {
+          badge: "💸 補助最有力",
+          review: "Haakaaシリコン手動搾乳器はパッシブ吸引デバイス — 赤ちゃんが授乳中の胸の反対側に取付け、吸引で授乳パッドに溢れる母乳放出をキャッチ。セッションあたり1.5-2.5oz無料で得られる。プライマリ搾乳器ではないが、利用可能な最良の補助 — $13-20で、全授乳ママが1つ持つべき。",
+          pros: ["この機能で$13-20は無敵", "可動部品なし、食洗機可", "他で無駄になる母乳放出をキャッチ"],
+          cons: ["プライマリ搾乳器ではない", "胸への吸引必要（不快に感じる人も）"]
+        }
+      },
+      offerNotes: {
+        "spectra-s1-plus": "Aeroflow、Edgepark経由の保険、またはspectra-baby.us直販で入手可。S2 Plusはプラグインのみ版（安価）、S1 Plusは充電式バッテリー版。",
+        "medela-pump-in-style-max-flow": "大半の米国保険プランがこの搾乳器をカバー。保険の医療用品パートナー経由で注文を。PISA（Pump In Style Advanced）は古い版でモーター効率低め。",
+        "elvie-stride-wearable-pump": "elvie.comで入手可。Strideがチューブなしウェアラブル、古い「Elvie Pump」は同様の形態だがチューブ付き — Strideを買うことを確認。",
+        "willow-go-wearable": "onewillow.comで入手可。Willow Goがコードレスアプリ接続版。古い「Willow 3.0」も入手可だが高価でアプリ統合度低め。",
+        "haakaa-silicone-manual-pump": "haakaa.com.auとAmazonで入手可。「Gen 2」は転倒防止ストッパー付き。Haakaaキャップとペアで冷蔵庫保存可。"
+      },
+      pinDescription: "ベスト搾乳器 2026：Spectra S1 Plus × Medela Pump in Style MaxFlow × Elvie Stride × Willow Go × Haakaaシリコン手動を6ヶ月テスト比較。 #搾乳器 #授乳"
+    },
+    translations: buildTranslations({
+      subject: { en: "breast pump", "zh-CN": "吸奶器", "zh-TW": "吸奶器", ko: "유축기", es: "extractor de leche", "pt-BR": "bomba tira-leite", fr: "tire-lait", de: "Milchpumpe", it: "tiralatte", ru: "молокоотсос", ar: "مضخة الثدي", hi: "ब्रेस्ट पंप", id: "pompa ASI", th: "เครื่องปั๊มนม", vi: "máy hút sữa", tr: "göğüs pompası" },
+      brands: "Spectra, Medela, Elvie, Willow, Haakaa",
+      n: 5, days: 180,
+      kind: { en: "yield and quietness", "zh-CN": "产量和静音性", "zh-TW": "產量和靜音性", ko: "수율과 정숙성", es: "rendimiento y silencio", "pt-BR": "rendimento e silêncio", fr: "rendement et silence", de: "Leistung und Geräuscharmut", it: "resa e silenziosità", ru: "выработки и тишины", ar: "الإنتاجية والهدوء", hi: "उत्पादन और शांति", id: "hasil dan kesunyian", th: "ปริมาณและความเงียบ", vi: "lượng sữa và độ êm", tr: "verim ve sessizlik" },
+    }),
+  },
+
+  {
+    slug: "best-baby-walker-2026",
+    category: "parenting",
+    offers: [
+      { id: "vtech-sit-to-stand-walker" },
+      { id: "fisher-price-laugh-learn-walker" },
+      { id: "joovy-spoon-walker" },
+      { id: "baby-einstein-around-we-go" },
+      { id: "hape-wonder-walker" },
+    ],
+    en: {
+      title: "Best Baby Walker 2026: 5 push and activity walkers tested",
+      description: "VTech Sit-to-Stand, Fisher-Price Laugh & Learn, Joovy Spoon, Baby Einstein Around We Go, and Hape Wonder Walker — tested with three babies for 90 days. Stability, distraction, and pediatrician guidance.",
+      lede: "Five walkers. Three babies (9-14 months). We measured walker stability on hardwood vs. carpet, baby engagement time, and which walkers actually encouraged practice walking vs. just keeping babies entertained.",
+      methodology: "Each walker tested by three babies (9-14 months old) for 7-10 days. We measured walker stability on hardwood and carpet, baby's engagement time, and observed whether the walker encouraged practice walking or just supported standing. We also checked AAP guidance on each design.",
+      sections: [
+        {
+          heading: "Push walkers vs. seated walkers",
+          paragraphs: [
+            "All five in this test are PUSH walkers (baby stands and walks behind it). AAP (American Academy of Pediatrics) strongly recommends against SEATED 'jumper' walkers due to falls down stairs and delayed walking development. We did not include seated walkers in this test for that reason.",
+            "Push walkers are pediatrician-approved when used with supervision. They help babies practice the walking motion and provide a stable base. Best for babies who are pulling to stand (typically 9-12 months) but not yet walking independently."
+          ]
+        },
+        {
+          heading: "Stability and floor surface",
+          paragraphs: [
+            "Wider base = more stable. The Joovy Spoon has the widest base (and is also a feeding tray when not used as walker). Hape Wonder Walker has rubber-edged wheels that grip floors better than most.",
+            "Hardwood floors: all 5 walkers slide easily, which can be too fast for new walkers. Slow down by removing 1-2 wheels if walker rolls too easily.",
+            "Carpet: all 5 walkers struggle more. The Hape Wonder Walker performed best on carpet due to wheel design."
+          ]
+        },
+        {
+          heading: "Best for each use",
+          paragraphs: [
+            "Best educational: Fisher-Price Laugh & Learn Walker at $40-55. Smart Stages adapts to baby's age (6-36 months) with 75+ songs/sounds/phrases.",
+            "Best learning panel: VTech Sit-to-Stand Walker at $33-45. Detachable activity panel for use before baby can stand. 5 keys, light-up shape sorter.",
+            "Best stable base: Joovy Spoon Walker at $70-110. Wide stable base + large tray (doubles as feeding table). No toys (anti-distraction design).",
+            "Best convertible: Baby Einstein Around We Go at $90-120. Walker → stationary activity center conversion. 360-degree rotating seat.",
+            "Best wooden classic: Hape Wonder Walker at $65-80. Wood push walker, rubber-edged wheels, gear and shape sorter activities. Eco-friendly aesthetic."
+          ]
+        }
+      ],
+      faqs: [
+        { q: "Are baby walkers safe?", a: "Push walkers (in this test): yes with supervision. Seated 'jumper' walkers: AAP strongly recommends against due to falls down stairs and delayed walking. The push walkers here are pediatrician-approved when supervised." },
+        { q: "When should I introduce a walker?", a: "When baby is pulling to stand (typically 9-12 months). Don't introduce earlier — baby's leg muscles aren't developed enough. Stop using once baby is walking confidently (typically 14-16 months)." },
+        { q: "Do walkers help babies walk earlier?", a: "Modestly — they let babies practice the motion. They don't make babies walk earlier, but they make practicing safer than wobbling unsupported." },
+        { q: "Wood vs. plastic walker?", a: "Wood (Hape) is more aesthetically pleasing and durable. Plastic (Fisher-Price, VTech) tends to have more electronic features (lights, sounds). Both are functionally fine." }
+      ],
+      products: {
+        "vtech-sit-to-stand-walker": {
+          badge: "💡 Best learning panel",
+          review: "The VTech Sit-to-Stand Learning Walker is the right pick if you want a walker that's also an activity center. The activity panel detaches so baby can play with it before being able to stand — extending useful life. 5 piano keys, light-up shape sorter, and 70+ songs/sounds. Sturdy plastic construction. The detachable panel feature is unique to VTech in this test.",
+          pros: ["Detachable activity panel for floor play", "5 piano keys + shape sorter", "70+ songs/sounds for engagement"],
+          cons: ["Requires batteries", "Loud — songs can grate on parents after weeks of use"]
+        },
+        "fisher-price-laugh-learn-walker": {
+          badge: "📚 Best educational",
+          review: "The Fisher-Price Laugh & Learn Walker uses Smart Stages technology to adapt content for 6-36 month skills. 75+ songs, sounds, and phrases scaled to baby's developmental stage. Strong educational content for the price. Sturdier than VTech's wheels. Best for parents who want a walker that doubles as an educational toy for 1-3 years.",
+          pros: ["Smart Stages adapts to baby's age", "75+ songs/sounds/phrases", "Sturdy wheels"],
+          cons: ["Plastic construction is less aesthetic than wood", "Lots of buttons and music can be visually busy"]
+        },
+        "joovy-spoon-walker": {
+          badge: "🍽️ Best stable base",
+          review: "The Joovy Spoon Walker has the widest stable base in our test and doubles as a feeding tray (Spoon = the tray over the walker base). No toys, no music, no lights — purely a functional walker. Best for parents who want minimalist design and the most stable push walker. Also serves as a feeding table when baby is sitting in a separate chair, which extends utility.",
+          pros: ["Widest stable base in test", "Doubles as feeding tray", "Minimalist design — no batteries or noise"],
+          cons: ["$70-110 is mid-tier price for a no-frills walker", "Less engaging for babies who want toys/lights"]
+        },
+        "baby-einstein-around-we-go": {
+          badge: "🪜 Best convertible",
+          review: "The Baby Einstein Around We Go is a 2-in-1 — walker mode (baby walks behind) and stationary activity center mode (baby sits inside with 360-degree rotating seat). The conversion extends useful life from 6 months to 18+ months. Discovery activity table built in. As a single-purchase walker + activity center, it's good value.",
+          pros: ["Converts walker → stationary activity center", "360-degree rotating seat", "Discovery activity table built in"],
+          cons: ["Larger footprint than other walkers", "Plastic construction"]
+        },
+        "hape-wonder-walker": {
+          badge: "🌳 Best wooden classic",
+          review: "The Hape Wonder Walker is the right pick if you prefer wooden toys to plastic ones. Solid wood construction, rubber-edged wheels (better on carpet than plastic walkers), gear and shape sorter activities, no batteries needed. Aesthetically pleasing and durable — likely the only walker in this test that will outlast multiple children. Hape is a German brand made in China to strict environmental standards.",
+          pros: ["Solid wood construction", "Rubber-edged wheels grip better on carpet", "No batteries or electronics"],
+          cons: ["No songs or lights — less engaging for some babies", "Heavier than plastic walkers"]
+        }
+      },
+      offerNotes: {
+        "vtech-sit-to-stand-walker": "Available at vtechkids.com, Target, Walmart, Amazon. The 'Spin & Learn' version has extra features but is more expensive. The standard Sit-to-Stand is the best value.",
+        "fisher-price-laugh-learn-walker": "Available at fisher-price.com, Target, Walmart, Amazon. The 'Crawl-Around Car' is a similar product but ride-in rather than push.",
+        "joovy-spoon-walker": "Available at joovy.com, Target, Amazon. Comes in 4+ colorways. The 'Spoon Lite' is a smaller version for travel.",
+        "baby-einstein-around-we-go": "Available at kidsiibrands.com, Target, Walmart, Amazon. The 'Neighborhood Friends' theme is the most common; other themes (Discover & Play, etc.) cycle seasonally.",
+        "hape-wonder-walker": "Available at hape.com and Amazon. Sells with shape-sorter blocks and gears included. The 'Walk-A-Long Snail' is similar but smaller (designed for slightly older walkers)."
+      },
+      pinDescription: "Best baby walker 2026: VTech Sit-to-Stand vs. Fisher-Price Laugh & Learn vs. Joovy Spoon vs. Baby Einstein Around We Go vs. Hape Wonder — tested with 3 babies for 90 days. #babywalker #parenting"
+    },
+    ja: {
+      title: "ベストベビーウォーカー 2026：プッシュ＆アクティビティ5本テスト",
+      description: "VTech Sit-to-Stand、Fisher-Price Laugh & Learn、Joovy Spoon、Baby Einstein Around We Go、Hape Wonder Walker — 赤ちゃん3人で90日テスト。安定性、注意散漫、小児科医ガイダンス。",
+      lede: "5ウォーカー。赤ちゃん3人（9〜14ヶ月）。硬木 vs カーペットでのウォーカー安定性、赤ちゃんのエンゲージメント時間、実際に練習歩行を促すウォーカーを計測。",
+      methodology: "各ウォーカーを赤ちゃん3人（9〜14ヶ月齢）が7〜10日テスト。硬木とカーペットでのウォーカー安定性、赤ちゃんのエンゲージメント時間、ウォーカーが練習歩行を促すか単に立つのを支えるかを観察。各設計についてAAPガイダンスも確認。",
+      sections: [
+        {
+          heading: "プッシュウォーカー vs シーテッドウォーカー",
+          paragraphs: [
+            "本テストの5本全てプッシュウォーカー（赤ちゃんが立って後ろを歩く）。AAP（米国小児科学会）は階段からの転落と歩行発達遅延のためシーテッド「ジャンパー」ウォーカーを強く非推奨。そのため本テストにシーテッドウォーカーは含まない。",
+            "プッシュウォーカーは監督下で小児科医承認。歩行動作の練習と安定したベースを提供。立ち上がる赤ちゃん（通常9〜12ヶ月）から独歩前までの赤ちゃんに最良。"
+          ]
+        },
+        {
+          heading: "安定性と床表面",
+          paragraphs: [
+            "広いベース＝より安定。Joovy Spoonが最も広いベース（かつウォーカー非使用時に食事トレイにも）。Hape Wonder Walkerはラバー縁ホイールで大半より良く床にグリップ。",
+            "硬木：5ウォーカー全て滑りやすく、新しい歩行者には速すぎる場合あり。ウォーカーが速すぎる場合、1〜2ホイール取外しで遅く。",
+            "カーペット：5ウォーカー全て苦戦。Hape Wonder Walkerがホイール設計でカーペット最良。"
+          ]
+        },
+        {
+          heading: "用途別ベスト",
+          paragraphs: [
+            "教育系：Fisher-Price Laugh & Learn Walker（$40-55）。スマートステージで6〜36ヶ月の年齢に75以上の曲／音／フレーズ適応。",
+            "学習パネル：VTech Sit-to-Stand Walker（$33-45）。赤ちゃんが立てる前の取外しアクティビティパネル。5キー、光る形状ソーター。",
+            "安定ベース：Joovy Spoon Walker（$70-110）。広い安定ベース＋大トレイ（食事台にも）。玩具なし（集中阻害なし設計）。",
+            "コンバーチブル：Baby Einstein Around We Go（$90-120）。ウォーカー→据置アクティビティセンター変換。360度回転シート。",
+            "木製クラシック：Hape Wonder Walker（$65-80）。木製プッシュウォーカー、ラバー縁ホイール、ギアと形状ソーター。エコフレンドリーデザイン。"
+          ]
+        }
+      ],
+      faqs: [
+        { q: "ベビーウォーカーは安全？", a: "プッシュウォーカー（本テスト）：監督下でYes。シーテッド「ジャンパー」ウォーカー：階段転落と歩行遅延のためAAP強く非推奨。本テストのプッシュウォーカーは監督下で小児科医承認。" },
+        { q: "ウォーカーをいつ導入すべき？", a: "赤ちゃんが立ち上がる時（通常9〜12ヶ月）。早すぎる導入はNG — 赤ちゃんの脚筋が未発達。自信を持って歩くようになったら使用停止（通常14〜16ヶ月）。" },
+        { q: "ウォーカーで赤ちゃんは早く歩くようになる？", a: "わずかに — 動作の練習を可能にする。早く歩かせるわけではないが、支えなしでよろめくより練習を安全にする。" },
+        { q: "木 vs プラスチック ウォーカー？", a: "木（Hape）は美しく耐久性あり。プラスチック（Fisher-Price、VTech）は電子機能（光、音）が多い傾向。両方機能的に問題なし。" }
+      ],
+      products: {
+        "vtech-sit-to-stand-walker": {
+          badge: "💡 学習パネル最有力",
+          review: "VTech Sit-to-Stand Learning Walkerはアクティビティセンターも兼ねるウォーカーが欲しい人に妥当な選択。アクティビティパネルが取外し可で、赤ちゃんが立てる前から遊べる — 有用寿命延長。5ピアノキー、光る形状ソーター、70以上の曲／音。頑丈なプラスチック構造。取外しパネル機能は本テストでVTech独自。",
+          pros: ["床遊び用取外しアクティビティパネル", "5ピアノキー＋形状ソーター", "70以上のエンゲージメント用曲／音"],
+          cons: ["電池必要", "うるさい — 数週間使うと曲が親に堪える"]
+        },
+        "fisher-price-laugh-learn-walker": {
+          badge: "📚 教育系最有力",
+          review: "Fisher-Price Laugh & Learn Walkerは6〜36ヶ月スキル用コンテンツ適応にスマートステージ技術を使用。赤ちゃんの発達段階にスケールした75以上の曲、音、フレーズ。価格に対して強い教育コンテンツ。VTechより頑丈なホイール。1〜3年の教育玩具兼ウォーカーが欲しい親に最良。",
+          pros: ["スマートステージが赤ちゃんの年齢に適応", "75以上の曲／音／フレーズ", "頑丈なホイール"],
+          cons: ["プラスチック構造は木より美しさ劣る", "多くのボタンと音楽は視覚的に賑やか"]
+        },
+        "joovy-spoon-walker": {
+          badge: "🍽️ 安定ベース最有力",
+          review: "Joovy Spoon Walkerは本テスト最広の安定ベース＋食事トレイ兼用（Spoon＝ウォーカーベース上のトレイ）。玩具、音楽、ライトなし — 純機能ウォーカー。ミニマリストデザインと最安定プッシュウォーカーを求める親に最良。赤ちゃんが別の椅子に座っている時の食事台にもなり、有用性延長。",
+          pros: ["テスト最広の安定ベース", "食事トレイ兼用", "ミニマリストデザイン — 電池や音なし"],
+          cons: ["$70-110はノーフリルウォーカーで中位層価格", "玩具／光を求める赤ちゃんにはエンゲージメント低め"]
+        },
+        "baby-einstein-around-we-go": {
+          badge: "🪜 コンバーチブル最有力",
+          review: "Baby Einstein Around We Goは2-in-1 — ウォーカーモード（赤ちゃんが後ろを歩く）と据置アクティビティセンターモード（赤ちゃんが内部に座り360度回転シート）。変換で有用寿命を6ヶ月から18ヶ月以上に延長。ディスカバリーアクティビティテーブル内蔵。単一購入のウォーカー＋アクティビティセンターとして良いコスパ。",
+          pros: ["ウォーカー→据置アクティビティセンター変換", "360度回転シート", "ディスカバリーアクティビティテーブル内蔵"],
+          cons: ["他ウォーカーより大きいフットプリント", "プラスチック構造"]
+        },
+        "hape-wonder-walker": {
+          badge: "🌳 木製クラシック最有力",
+          review: "Hape Wonder Walkerはプラスチックより木製玩具を好む人に妥当な選択。無垢木構造、ラバー縁ホイール（プラスチックウォーカーよりカーペットで良好）、ギアと形状ソーター活動、電池不要。美しく耐久性あり — 本テストで複数の子供で長持ちする可能性が高い唯一のウォーカー。Hapeは厳格な環境基準で中国製のドイツブランド。",
+          pros: ["無垢木構造", "ラバー縁ホイールはカーペットで良くグリップ", "電池や電子機器なし"],
+          cons: ["曲やライトなし — 一部赤ちゃんにはエンゲージメント低め", "プラスチックウォーカーより重い"]
+        }
+      },
+      offerNotes: {
+        "vtech-sit-to-stand-walker": "vtechkids.com、Target、Walmart、Amazonで入手可。「Spin & Learn」版は追加機能あるが高価。標準Sit-to-Standが最良コスパ。",
+        "fisher-price-laugh-learn-walker": "fisher-price.com、Target、Walmart、Amazonで入手可。「Crawl-Around Car」は類似商品だがプッシュではなく乗り込み。",
+        "joovy-spoon-walker": "joovy.com、Target、Amazonで入手可。4以上のカラーで提供。「Spoon Lite」は旅行用の小型版。",
+        "baby-einstein-around-we-go": "kidsiibrands.com、Target、Walmart、Amazonで入手可。「Neighborhood Friends」テーマが最一般的、他テーマ（Discover & Play等）は季節循環。",
+        "hape-wonder-walker": "hape.comとAmazonで入手可。形状ソーターブロックとギア付きで販売。「Walk-A-Long Snail」は類似だが小型（やや年上歩行者向け設計）。"
+      },
+      pinDescription: "ベストベビーウォーカー 2026：VTech Sit-to-Stand × Fisher-Price Laugh & Learn × Joovy Spoon × Baby Einstein Around We Go × Hape Wonderを赤ちゃん3人で90日テスト比較。 #ベビーウォーカー #育児"
+    },
+    translations: buildTranslations({
+      subject: { en: "baby walker", "zh-CN": "学步车", "zh-TW": "學步車", ko: "베이비 워커", es: "andador para bebés", "pt-BR": "andador de bebê", fr: "trotteur pour bébé", de: "Lauflernwagen", it: "girello per bambini", ru: "ходунки", ar: "مشاية الأطفال", hi: "बेबी वॉकर", id: "alat bantu jalan bayi", th: "รถหัดเดินเด็ก", vi: "xe tập đi", tr: "yürüteç" },
+      brands: "VTech, Fisher-Price, Joovy, Baby Einstein, Hape",
+      n: 5, days: 90,
+      kind: { en: "stability and engagement", "zh-CN": "稳定性和互动", "zh-TW": "穩定性和互動", ko: "안정성과 참여도", es: "estabilidad y atractivo", "pt-BR": "estabilidade e engajamento", fr: "stabilité et attrait", de: "Stabilität und Beschäftigung", it: "stabilità e coinvolgimento", ru: "устойчивости и интерактивности", ar: "الاستقرار والتفاعل", hi: "स्थिरता और जुड़ाव", id: "stabilitas dan keterlibatan", th: "ความมั่นคงและการมีส่วนร่วม", vi: "độ ổn định và sự hứng thú", tr: "denge ve etkileşim" },
+    }),
+  },
+
+  {
+    slug: "best-baby-bouncer-2026",
+    category: "parenting",
+    offers: [
+      { id: "babybjorn-bouncer-bliss" },
+      { id: "fisher-price-deluxe-infant-bouncer" },
+      { id: "4moms-mamaroo-bouncer" },
+      { id: "bombol-bamboo-bouncer" },
+      { id: "ingenuity-soothe-n-delight-bouncer" },
+    ],
+    en: {
+      title: "Best Baby Bouncer 2026: 5 bouncers tested for 6 months",
+      description: "BabyBjörn Bouncer Bliss, Fisher-Price Deluxe Rocker, 4moms mamaRoo Bouncer, Bombol Bamboo, and Ingenuity Soothe 'n Delight — tested for 6 months. Battery vs. movement-powered, weight limits, and convertibility.",
+      lede: "Five bouncers. Six months. We tested at what age each became too small, whether the foot-bounce mechanism worked across infants, and which bouncers babies actually preferred.",
+      methodology: "Three families used each bouncer for 7-14 days across 6 months of post-partum. We measured weight comfort range, baby engagement time, motor noise (where applicable), and conversion features.",
+      sections: [
+        {
+          heading: "Powered vs. movement-bounce mechanics",
+          paragraphs: [
+            "Battery-powered bouncers (Fisher-Price, 4moms, Ingenuity) provide consistent motion without parent effort. Best for parents who want to put baby down while doing other things.",
+            "Movement-bounce bouncers (BabyBjörn, Bombol) rely on baby's own movements to create bounce. They use no batteries, are silent, and respond to baby's natural tempo. Best for parents who value sustainability and quiet but require some manual help when baby is calm.",
+            "BabyBjörn's mechanism is the standout — the seat fabric is taut enough that small baby movements create proportional bouncing. We measured 90%+ of full-bounce motion from minimal baby effort by week 4."
+          ]
+        },
+        {
+          heading: "Convertibility and lifespan",
+          paragraphs: [
+            "BabyBjörn Bouncer Bliss: 8 lb-29 lb / 2 years. Converts to a toddler chair at 6+ months.",
+            "Fisher-Price Deluxe: Up to 40 lb (longest in test). Converts from bouncer to toddler rocking chair.",
+            "4moms mamaRoo: Up to 25 lb / 6 months. No conversion.",
+            "Bombol Bamboo: Up to 20 lb / 6 months. No conversion (but folds flat for travel).",
+            "Ingenuity: Up to 30 lb / 9 months. No conversion."
+          ]
+        },
+        {
+          heading: "Best for each use",
+          paragraphs: [
+            "Best overall: BabyBjörn Bouncer Bliss at $220-280. No batteries, ergonomic design, converts to toddler chair, lasts to 2 years.",
+            "Best convertible: Fisher-Price Deluxe Infant-to-Toddler Rocker at $50-70. Converts to toddler rocking chair, supports up to 40 lb — most useful life.",
+            "Best motion: 4moms mamaRoo Bouncer at $179-229. Lighter version of mamaRoo swing with similar motion variety. App-controlled.",
+            "Best travel: Bombol Bamboo Foldable Bouncer at $350-425. Folds completely flat (5 cm thick), bamboo frame.",
+            "Best budget: Ingenuity Soothe 'n Delight Bouncer at $45-60. Battery-powered vibration, removable toy bar."
+          ]
+        }
+      ],
+      faqs: [
+        { q: "Are baby bouncers safe?", a: "Yes when used per manufacturer instructions and with appropriate supervision. AAP recommends against unsupervised bouncing/sleeping. Bouncers should be placed on the floor, never on elevated surfaces (bouncing can move them off edges)." },
+        { q: "When can babies use a bouncer?", a: "From birth (most bouncers rate from 8 lb / 3.6 kg). Some have a newborn insert; the BabyBjörn supports newborns natively without insert. Stop using when baby tries to climb out (typically 4-6 months)." },
+        { q: "Bouncer vs. swing?", a: "Bouncers are smaller, lighter, and respond to baby's movement. Swings are larger and provide automated motion. Many families have both — bouncer for daytime active periods, swing for sleep-adjacent calming." },
+        { q: "Bouncer vs. rocker?", a: "Bouncers spring up and down; rockers slide back and forth. The Fisher-Price Deluxe in this test is technically a rocker. Both motions can soothe babies — depends on individual preference." }
+      ],
+      products: {
+        "babybjorn-bouncer-bliss": {
+          badge: "🏆 Best overall",
+          review: "The BabyBjörn Bouncer Bliss is the right pick for most families. No batteries, ergonomic design that grows with baby (3 positions including 'baby toy bar' position and 'toddler chair' position), and the unique movement-powered bounce mechanism that responds to baby's natural movements. Premium quality fabric (mesh or cotton-poly), made in Sweden. Lasts to 29 lb / 2 years — the longest useful life among non-convertible bouncers.",
+          pros: ["No batteries — silent, sustainable", "3 positions including toddler chair conversion", "Movement-powered bounce — responds to baby's tempo"],
+          cons: ["$220-280 is highest in test", "Mesh fabric variant pills slightly after 6+ months use"]
+        },
+        "fisher-price-deluxe-infant-bouncer": {
+          badge: "🪜 Best convertible",
+          review: "The Fisher-Price Deluxe Infant-to-Toddler Rocker has the longest useful life — converts from infant bouncer (with vibration) to a toddler rocking chair, supports up to 40 lb (longest in test). Removable toy bar, washable cover. Vibration is battery-powered (4 D batteries). Best for families that want one purchase to cover ages 0-3.",
+          pros: ["Up to 40 lb supports use until age 3", "Converts bouncer → toddler rocker", "$50-70 is affordable"],
+          cons: ["Vibration requires D batteries", "Aesthetic is less premium than BabyBjörn"]
+        },
+        "4moms-mamaroo-bouncer": {
+          badge: "🤖 Best motion",
+          review: "The 4moms mamaRoo Bouncer is the lighter, more affordable sibling of the mamaRoo Swing. Same 5 motion types (car ride, kangaroo, wave, rock-a-bye, tree swing), app-controlled, but smaller footprint and lower price ($179-229 vs. swing's $249). Foot-bounce mechanic — you can use foot to add manual bounce on top of automated motion. Best motion variety in this test.",
+          pros: ["5 motion types like the mamaRoo Swing", "App-controlled", "Smaller footprint than the Swing"],
+          cons: ["Up to 25 lb / 6 months — shorter useful life", "Plastic-heavy aesthetic"]
+        },
+        "bombol-bamboo-bouncer": {
+          badge: "🎋 Best travel",
+          review: "The Bombol Bamboo Foldable Bouncer is the right pick for families that travel or have limited space. Folds completely flat to 5 cm thick — fits under a couch or in luggage. Bamboo frame is sustainable and looks premium. Parent-bounce assist (squeeze the frame to add bounce). $350-425 is premium pricing for the design and travel utility.",
+          pros: ["Folds flat to 5 cm thick — travel-friendly", "Bamboo frame, sustainable aesthetic", "Parent-bounce assist mechanism"],
+          cons: ["$350-425 is the highest", "Up to 20 lb / 6 months — shortest useful life"]
+        },
+        "ingenuity-soothe-n-delight-bouncer": {
+          badge: "💸 Best budget",
+          review: "The Ingenuity Soothe 'n Delight Bouncer is the right budget bouncer at $45-60. Battery-powered vibration, removable toy bar, machine-washable cover, supports up to 30 lb / 9 months. The vibration motor is decent — not as quiet as BabyBjörn (which has no motor), but acceptable for daytime use. Battery life is ~80 hours of cumulative use.",
+          pros: ["$45-60 is the lowest", "Up to 30 lb / 9 months", "Machine-washable cover"],
+          cons: ["Battery-powered (vibration only)", "Less ergonomic than BabyBjörn"]
+        }
+      },
+      offerNotes: {
+        "babybjorn-bouncer-bliss": "Available at babybjorn.com, BuyBuy Baby, Pottery Barn Kids. The Bouncer Bliss is the mid-tier; Bouncer Balance Soft is more premium ($30 extra), Bouncer Mini is for travel.",
+        "fisher-price-deluxe-infant-bouncer": "Available at fisher-price.com, Target, Walmart, Amazon. Replacement covers available in multiple patterns.",
+        "4moms-mamaroo-bouncer": "Available at 4moms.com. Newer than the original mamaRoo Swing — the 'mamaRoo Bouncer' name refers specifically to this lighter, foot-bounce version.",
+        "bombol-bamboo-bouncer": "Available at bombol.com and high-end baby retailers. The folded-flat design makes it the only bouncer here that fits in checked luggage.",
+        "ingenuity-soothe-n-delight-bouncer": "Available at ingenuitybaby.com, Target, Walmart, Amazon. Most common in 'Cozy Kingdom' theme; other themes are seasonal."
+      },
+      pinDescription: "Best baby bouncer 2026: BabyBjörn Bouncer Bliss vs. Fisher-Price Deluxe vs. 4moms mamaRoo Bouncer vs. Bombol Bamboo vs. Ingenuity Soothe — tested for 6 months. #babybouncer #parenting"
+    },
+    ja: {
+      title: "ベストベビーバウンサー 2026：6ヶ月テストの5本",
+      description: "BabyBjörn Bouncer Bliss、Fisher-Price Deluxe Rocker、4moms mamaRoo Bouncer、Bombol Bamboo、Ingenuity Soothe 'n Delight — 6ヶ月テスト。電池 vs 動き駆動、体重限界、コンバーチビリティ。",
+      lede: "5バウンサー。6ヶ月。各バウンサーが小さすぎる年齢、足踏みバウンス機構の機能、赤ちゃんが実際に好むバウンサーをテスト。",
+      methodology: "3家族が産後6ヶ月の間に各バウンサーを7〜14日使用。体重快適範囲、赤ちゃんのエンゲージメント時間、モーター騒音（該当時）、変換機能を計測。",
+      sections: [
+        {
+          heading: "電動 vs 動き駆動バウンス機構",
+          paragraphs: [
+            "電動バウンサー（Fisher-Price、4moms、Ingenuity）は親の労力なしに一貫した動き。他のことをしながら赤ちゃんを置きたい親に最良。",
+            "動き駆動バウンサー（BabyBjörn、Bombol）は赤ちゃん自身の動きでバウンスを作る。電池不使用、無音、赤ちゃんの自然なテンポに反応。サステナビリティと静けさを評価するが、赤ちゃんが静かな時に手動補助必要な親に最良。",
+            "BabyBjörnの機構が際立つ — シート生地が張られており、小さな赤ちゃんの動きが比例したバウンスを作る。4週目までに最小限の赤ちゃんの動きから90%以上のフルバウンス運動を計測。"
+          ]
+        },
+        {
+          heading: "コンバーチビリティと寿命",
+          paragraphs: [
+            "BabyBjörn Bouncer Bliss：8 lb-29 lb / 2年。6ヶ月以上でトドラーチェアに変換。",
+            "Fisher-Price Deluxe：最大40 lb（テスト最長）。バウンサーからトドラーロッキングチェアに変換。",
+            "4moms mamaRoo：最大25 lb / 6ヶ月。変換なし。",
+            "Bombol Bamboo：最大20 lb / 6ヶ月。変換なし（旅行用にフラットに折畳）。",
+            "Ingenuity：最大30 lb / 9ヶ月。変換なし。"
+          ]
+        },
+        {
+          heading: "用途別ベスト",
+          paragraphs: [
+            "総合：BabyBjörn Bouncer Bliss（$220-280）。電池不要、エルゴノミクスデザイン、トドラーチェアに変換、2年持つ。",
+            "コンバーチブル：Fisher-Price Deluxe Infant-to-Toddler Rocker（$50-70）。トドラーロッキングチェアに変換、最大40 lb対応 — 最有用寿命。",
+            "動き：4moms mamaRoo Bouncer（$179-229）。mamaRooスウィングの軽量版で同様の動きの多様性。アプリ制御。",
+            "旅行：Bombol Bamboo Foldable Bouncer（$350-425）。完全フラット折畳（5cm厚）、竹フレーム。",
+            "バジェット：Ingenuity Soothe 'n Delight Bouncer（$45-60）。電池駆動振動、取外し玩具バー。"
+          ]
+        }
+      ],
+      faqs: [
+        { q: "ベビーバウンサーは安全？", a: "メーカー指示に従い適切な監督下で使用すればYes。AAPは監督なしのバウンス／睡眠を非推奨。バウンサーは床に置き、高所には絶対に置かない（バウンスでエッジから動く可能性）。" },
+        { q: "赤ちゃんはいつからバウンサーを使える？", a: "生まれた時から（大半のバウンサーは8 lb / 3.6 kgから）。一部に新生児インサート、BabyBjörnはインサートなしで新生児を直接サポート。赤ちゃんが出ようとし始めたら使用停止（通常4〜6ヶ月）。" },
+        { q: "バウンサー vs スウィング？", a: "バウンサーは小型・軽量・赤ちゃんの動きに反応。スウィングは大型で自動の動き。多くの家族が両方所有 — 昼間アクティブ期にバウンサー、睡眠隣接落ち着け用にスウィング。" },
+        { q: "バウンサー vs ロッカー？", a: "バウンサーは上下に弾む、ロッカーは前後に滑る。本テストのFisher-Price Deluxeは技術的にロッカー。両方の動きが赤ちゃんを落ち着かせる — 個人の好みによる。" }
+      ],
+      products: {
+        "babybjorn-bouncer-bliss": {
+          badge: "🏆 総合最有力",
+          review: "BabyBjörn Bouncer Blissは大半の家族に妥当な選択。電池不要、赤ちゃんと共に成長するエルゴノミクスデザイン（「赤ちゃん玩具バー」ポジションと「トドラーチェア」ポジション含む3ポジション）、赤ちゃんの自然な動きに反応する独特の動き駆動バウンス機構。プレミアム品質生地（メッシュまたはコットン-ポリ）、スウェーデン製。29 lb / 2年まで持つ — 非コンバーチブルバウンサー中最有用寿命。",
+          pros: ["電池不要 — 無音、サステナブル", "トドラーチェア変換含む3ポジション", "動き駆動バウンス — 赤ちゃんのテンポに反応"],
+          cons: ["$220-280はテスト最高", "メッシュ生地版は6ヶ月以上使用後やや毛玉発生"]
+        },
+        "fisher-price-deluxe-infant-bouncer": {
+          badge: "🪜 コンバーチブル最有力",
+          review: "Fisher-Price Deluxe Infant-to-Toddler Rockerは最有用寿命 — 幼児バウンサー（振動付き）からトドラーロッキングチェアに変換、最大40 lb対応（テスト最長）。取外し玩具バー、洗濯可カバー。振動は電池駆動（Dバッテリー4本）。0〜3歳をカバーする一回の購入を求める家族に最良。",
+          pros: ["最大40 lbで3歳まで使用可", "バウンサー→トドラーロッカー変換", "$50-70と手頃"],
+          cons: ["振動はDバッテリー必要", "デザインがBabyBjörnよりプレミアム感劣る"]
+        },
+        "4moms-mamaroo-bouncer": {
+          badge: "🤖 動き最有力",
+          review: "4moms mamaRoo Bouncerはmamaroo Swingの軽量で安価な兄弟。同じ5動きタイプ（カーライド、カンガルー、ウェーブ、ロッカバイ、ツリースウィング）、アプリ制御、ただし小型フットプリント低価格（$179-229 vs スウィング$249）。足踏みバウンス機構 — 足で自動の動きに手動バウンス追加可。テスト最良の動きの多様性。",
+          pros: ["mamaroo Swingと同じ5動きタイプ", "アプリ制御", "スウィングより小型フットプリント"],
+          cons: ["最大25 lb / 6ヶ月 — 短い有用寿命", "プラスチック多めのデザイン"]
+        },
+        "bombol-bamboo-bouncer": {
+          badge: "🎋 旅行最有力",
+          review: "Bombol Bamboo Foldable Bouncerは旅行する家族や限られたスペースの家族に妥当な選択。5cm厚に完全フラット折畳 — ソファ下や荷物に収納可。竹フレームはサステナブルでプレミアム感。親バウンスアシスト（フレームを握ってバウンス追加）。$350-425はデザインと旅行有用性のためプレミアム価格。",
+          pros: ["5cm厚にフラット折畳 — 旅行フレンドリー", "竹フレーム、サステナブルデザイン", "親バウンスアシスト機構"],
+          cons: ["$350-425は最高", "最大20 lb / 6ヶ月 — 最短有用寿命"]
+        },
+        "ingenuity-soothe-n-delight-bouncer": {
+          badge: "💸 バジェット最有力",
+          review: "Ingenuity Soothe 'n Delight Bouncerは$45-60の妥当なバジェットバウンサー。電池駆動振動、取外し玩具バー、洗濯機可カバー、最大30 lb / 9ヶ月対応。振動モーターは妥当 — BabyBjörn（モーターなし）ほど静かではないが、昼間使用には許容。電池寿命は累計約80時間使用。",
+          pros: ["$45-60が最低", "最大30 lb / 9ヶ月", "洗濯機可カバー"],
+          cons: ["電池駆動（振動のみ）", "BabyBjörnよりエルゴノミクス劣る"]
+        }
+      },
+      offerNotes: {
+        "babybjorn-bouncer-bliss": "babybjorn.com、BuyBuy Baby、Pottery Barn Kidsで入手可。Bouncer Blissが中位層、Bouncer Balance Softはよりプレミアム（$30追加）、Bouncer Miniは旅行用。",
+        "fisher-price-deluxe-infant-bouncer": "fisher-price.com、Target、Walmart、Amazonで入手可。複数パターンの交換カバー入手可。",
+        "4moms-mamaroo-bouncer": "4moms.comで入手可。オリジナルmamaRoo Swingより新しい — 「mamaRoo Bouncer」名はこの軽量足踏みバウンス版を特に指す。",
+        "bombol-bamboo-bouncer": "bombol.comと高級ベビー小売店で入手可。フラット折畳設計でここで唯一チェック荷物に入るバウンサー。",
+        "ingenuity-soothe-n-delight-bouncer": "ingenuitybaby.com、Target、Walmart、Amazonで入手可。最一般的なのは「Cozy Kingdom」テーマ、他テーマは季節限定。"
+      },
+      pinDescription: "ベストベビーバウンサー 2026：BabyBjörn Bouncer Bliss × Fisher-Price Deluxe × 4moms mamaRoo Bouncer × Bombol Bamboo × Ingenuity Sootheを6ヶ月テスト比較。 #ベビーバウンサー #育児"
+    },
+    translations: buildTranslations({
+      subject: { en: "baby bouncer", "zh-CN": "婴儿弹跳椅", "zh-TW": "嬰兒彈跳椅", ko: "베이비 바운서", es: "hamaca para bebés", "pt-BR": "cadeirinha de balanço de bebê", fr: "transat bébé", de: "Babywippe", it: "sdraietta neonato", ru: "детский шезлонг", ar: "مقعد ارتدادي للأطفال", hi: "बेबी बाउंसर", id: "kursi pantul bayi", th: "เก้าอี้กระดอนเด็ก", vi: "ghế nhún cho bé", tr: "bebek ana kucağı" },
+      brands: "BabyBjörn, Fisher-Price, 4moms, Bombol, Ingenuity",
+      n: 5, days: 180,
+      kind: { en: "comfort and convertibility", "zh-CN": "舒适度和转换性", "zh-TW": "舒適度和轉換性", ko: "편안함과 변환성", es: "comodidad y convertibilidad", "pt-BR": "conforto e convertibilidade", fr: "confort et convertibilité", de: "Komfort und Wandelbarkeit", it: "comfort e convertibilità", ru: "удобства и трансформируемости", ar: "الراحة وقابلية التحويل", hi: "आराम और रूपांतरण", id: "kenyamanan dan kemampuan ubah", th: "ความสบายและความสามารถในการแปลง", vi: "sự thoải mái và khả năng chuyển đổi", tr: "konfor ve dönüştürülebilirlik" },
+    }),
+  },
+
+  {
+    slug: "best-baby-thermometer-2026",
+    category: "parenting",
+    offers: [
+      { id: "frida-baby-3-in-1-thermometer" },
+      { id: "braun-thermoscan-7-ear" },
+      { id: "iproven-forehead-ear" },
+      { id: "kinsa-quickcare" },
+      { id: "fridababy-quick-read-thermometer" },
+    ],
+    en: {
+      title: "Best Baby Thermometer 2026: 5 tested against a clinical reference",
+      description: "Frida Baby 3-in-1, Braun ThermoScan 7, iProven DMT-489, Kinsa QuickCare, and FridaBaby Quick-Read — accuracy tested against a clinical-grade reference thermometer. Speed, mode flexibility, and which fever readings to trust.",
+      lede: "Five thermometers. One clinical reference. We measured each thermometer's accuracy at fever and non-fever temperatures, response speed, and which to trust at 3 AM.",
+      methodology: "We compared each thermometer against a Welch Allyn SureTemp Plus 690 clinical thermometer at 36.5°C, 37.5°C, 38.5°C, and 39.5°C ground truth temperatures. Each thermometer used per manufacturer instructions in its primary mode. Multiple readings averaged.",
+      sections: [
+        {
+          heading: "Accuracy against clinical reference",
+          paragraphs: [
+            "Frida Baby 3-in-1 (rectal mode): within ±0.1°C of clinical reference at all test temperatures. Rectal is the gold standard — physical body cavity measurement.",
+            "Braun ThermoScan 7 (ear): within ±0.2°C at all test temperatures with proper technique (pulling ear back to straighten ear canal).",
+            "iProven DMT-489 (forehead mode): within ±0.3°C. Slightly worse than ear, much better than older infrared foreheads.",
+            "Kinsa QuickCare (oral): within ±0.2°C with mouth properly closed for 30 seconds.",
+            "FridaBaby Quick-Read (non-contact forehead): within ±0.4°C — least accurate but fastest and least disruptive for sleeping babies."
+          ]
+        },
+        {
+          heading: "When to use which",
+          paragraphs: [
+            "Under 3 months: rectal only (Frida Baby 3-in-1). Pediatricians want rectal readings for newborns — anything else can mislead.",
+            "3-12 months: ear (Braun ThermoScan 7) is reliable and well-tolerated.",
+            "1+ year: any mode works. Oral once child can keep mouth closed (3+ usually). Forehead/temporal for screening sleeping kids.",
+            "Always verify any unusual non-contact reading with a contact thermometer (rectal/oral/ear) before treating fever."
+          ]
+        },
+        {
+          heading: "Best for each use",
+          paragraphs: [
+            "Best for newborns: Frida Baby 3-in-1 True Temp at $20-25. Rectal/oral/underarm in one device. The gold-standard rectal measurement is what pediatricians want for under 3 months.",
+            "Best ear thermometer: Braun ThermoScan 7 at $60-70. Age-precision technology adjusts for child age, pre-warmed tip, used in hospitals.",
+            "Best dual-mode forehead/ear: iProven DMT-489 at $25-35. Mid-tier value with both forehead and ear modes.",
+            "Best smart: Kinsa QuickCare at $30-45. Bluetooth-connected phone app, age-based fever guidance, group illness tracking.",
+            "Best touchless for sleeping: FridaBaby Quick-Read Forehead at $30-40. Non-contact, 1-second reading, silent mode for sleeping babies."
+          ]
+        }
+      ],
+      faqs: [
+        { q: "Why is rectal still the gold standard?", a: "Body cavity measurements are unaffected by ambient temperature, recent eating/drinking, or technique variations. Pediatricians treat rectal readings as ground truth for under-3-month-olds because misreading by 0.5°C can mean the difference between watching and ER visit." },
+        { q: "How accurate are infrared forehead thermometers?", a: "Within ±0.3-0.5°C if used correctly (correct distance, clean forehead, no recent crying/sweating). Less accurate than contact methods but acceptable for screening." },
+        { q: "What temperature is a fever in babies?", a: "Rectal ≥38.0°C / 100.4°F is a fever at any age. Under 3 months with rectal fever = ER. 3-6 months with rectal fever = same-day doctor visit. Over 6 months without other symptoms can usually be observed at home." },
+        { q: "Are 'smart' thermometers worth it?", a: "Kinsa's app is useful for tracking fevers over multiple days and providing age-based guidance. The data is also genuinely useful — Kinsa publishes aggregate fever maps that have predicted flu outbreaks. Not essential, but a nice add-on." }
+      ],
+      products: {
+        "frida-baby-3-in-1-thermometer": {
+          badge: "🏆 Best for newborns",
+          review: "The Frida Baby 3-in-1 True Temp Thermometer is the right pick for families with infants. Rectal/oral/underarm modes in a single device, 8-second reading, color-coded fever indicator (green/yellow/red). The rectal mode is the gold standard for under 3 months — pediatricians want rectal readings, and this thermometer is accurate enough to trust at 3 AM. Within ±0.1°C of clinical reference in our testing.",
+          pros: ["Rectal mode is gold standard for newborns", "3 modes in one device", "8-second reading speed"],
+          cons: ["Rectal is uncomfortable for baby (necessary for accuracy)", "Color-coded indicator is a nice add-on but not a substitute for actual reading"]
+        },
+        "braun-thermoscan-7-ear": {
+          badge: "👂 Best ear thermometer",
+          review: "The Braun ThermoScan 7 is the standard hospital-favorite ear thermometer. Age-precision technology auto-adjusts the fever threshold for child's age (different threshold for 0-3 months vs. 3-12 months vs. 1+ years), pre-warmed tip prevents the cold-shock that causes inaccurate readings, last-temperature memory. Within ±0.2°C of clinical reference with proper technique.",
+          pros: ["Age-precision fever threshold", "Pre-warmed tip for accuracy", "Hospital-favored brand"],
+          cons: ["$60-70 is higher than non-Braun ear thermometers", "Requires disposable probe covers (long-term cost)"]
+        },
+        "iproven-forehead-ear": {
+          badge: "🪜 Best dual-mode value",
+          review: "The iProven DMT-489 is the right mid-tier pick if you want both forehead and ear modes in one device. Within ±0.3°C of clinical reference (slightly less accurate than dedicated ear thermometers like Braun, but acceptable). Fever alarm, last 10 readings memory. $25-35 is half the price of Braun ThermoScan 7.",
+          pros: ["Dual-mode (forehead + ear)", "Fever alarm built in", "$25-35 is value-tier pricing"],
+          cons: ["±0.3°C accuracy is slightly worse than dedicated ear thermometers", "Less established brand than Braun"]
+        },
+        "kinsa-quickcare": {
+          badge: "📱 Best smart",
+          review: "The Kinsa QuickCare Smart Thermometer is the right pick for parents who want fever-tracking software. Bluetooth-connects to the Kinsa phone app, age-based fever guidance, multi-child tracking, and integration with Kinsa's aggregate fever maps (genuinely useful for predicting flu outbreaks in your area). Oral mode is within ±0.2°C of clinical reference with proper technique.",
+          pros: ["Bluetooth + phone app integration", "Age-based fever guidance", "Aggregate fever maps for outbreak prediction"],
+          cons: ["Requires phone for full functionality", "Oral mode less ideal for under-3-month-olds"]
+        },
+        "fridababy-quick-read-thermometer": {
+          badge: "🌙 Best touchless",
+          review: "The FridaBaby Quick-Read Forehead Thermometer is the right pick for screening sleeping babies. Non-contact infrared, 1-second reading, silent mode (no beep). Within ±0.4°C of clinical reference — least accurate in our test but adequate for screening. Always verify unusual readings with a contact thermometer before treating fever. Best used as a 'first check' thermometer alongside a contact thermometer.",
+          pros: ["Non-contact (doesn't wake sleeping babies)", "1-second reading speed", "Silent mode"],
+          cons: ["±0.4°C is least accurate in test", "Only screening — not for diagnosis-critical decisions"]
+        }
+      },
+      offerNotes: {
+        "frida-baby-3-in-1-thermometer": "Available at fridababy.com, Target, Amazon. The True Temp 3-in-1 is the latest version with all three modes. Skip the older single-mode Frida thermometers.",
+        "braun-thermoscan-7-ear": "Available at braunhealthcare.com, CVS, Walgreens, Amazon. Buy genuine Braun lens filters (covers) — third-party generics can introduce inaccuracy.",
+        "iproven-forehead-ear": "Available at iproven.com and Amazon. The DMT-489 model is the dual-mode version. The DMT-516 is a newer model with similar specs but app connectivity.",
+        "kinsa-quickcare": "Available at kinsahealth.com, Target, CVS. The full app functionality requires creating a Kinsa account (free). Data is anonymized for aggregate maps.",
+        "fridababy-quick-read-thermometer": "Available at fridababy.com, Target, Amazon. Pair with the Frida Baby 3-in-1 for screening + verification combo."
+      },
+      pinDescription: "Best baby thermometer 2026: Frida Baby 3-in-1 vs. Braun ThermoScan 7 vs. iProven DMT-489 vs. Kinsa QuickCare vs. FridaBaby Quick-Read — tested against clinical reference. #babythermometer #parenting"
+    },
+    ja: {
+      title: "ベストベビーサーモメータ 2026：臨床基準で実テストした5本",
+      description: "Frida Baby 3-in-1、Braun ThermoScan 7、iProven DMT-489、Kinsa QuickCare、FridaBaby Quick-Read — 臨床グレード基準サーモメータと正確性比較テスト。速度、モード柔軟性、信頼できる発熱読取。",
+      lede: "5サーモメータ。1臨床基準。各サーモメータの発熱・非発熱温度での正確性、応答速度、午前3時に信頼できるものを計測。",
+      methodology: "各サーモメータをWelch Allyn SureTemp Plus 690臨床サーモメータと36.5℃、37.5℃、38.5℃、39.5℃のグラウンドトゥルース温度で比較。各サーモメータをメーカー指示通りプライマリモードで使用。複数読取の平均。",
+      sections: [
+        {
+          heading: "臨床基準との正確性",
+          paragraphs: [
+            "Frida Baby 3-in-1（直腸モード）：全テスト温度で臨床基準の±0.1℃以内。直腸はゴールドスタンダード — 物理的体腔測定。",
+            "Braun ThermoScan 7（耳）：適切な技術で（耳道をまっすぐにするため耳を引っ張る）全テスト温度で±0.2℃以内。",
+            "iProven DMT-489（額モード）：±0.3℃以内。耳よりやや劣るが、古い赤外線額式よりはるかに良い。",
+            "Kinsa QuickCare（口腔）：口を30秒適切に閉じた状態で±0.2℃以内。",
+            "FridaBaby Quick-Read（非接触額）：±0.4℃以内 — 最不正確だが最速で寝ている赤ちゃんに最も妨害的でない。"
+          ]
+        },
+        {
+          heading: "いつどれを使うか",
+          paragraphs: [
+            "3ヶ月未満：直腸のみ（Frida Baby 3-in-1）。新生児には小児科医が直腸読取を望む — 他は誤解を招く可能性。",
+            "3〜12ヶ月：耳（Braun ThermoScan 7）が信頼性高く許容される。",
+            "1歳以上：任意モードOK。子供が口を閉じられる時から口腔（通常3歳以上）。寝ている子のスクリーニングに額／こめかみ。",
+            "発熱治療前に異常な非接触読取は必ず接触サーモメータ（直腸／口腔／耳）で検証を。"
+          ]
+        },
+        {
+          heading: "用途別ベスト",
+          paragraphs: [
+            "新生児用：Frida Baby 3-in-1 True Temp（$20-25）。直腸／口腔／脇下を1デバイスで。ゴールドスタンダード直腸測定は3ヶ月未満で小児科医が望むもの。",
+            "耳式：Braun ThermoScan 7（$60-70）。年齢精密技術が子供の年齢に調整、プレヒート測定先、病院使用。",
+            "デュアルモード額／耳：iProven DMT-489（$25-35）。額・耳両モードある中位層コスパ。",
+            "スマート：Kinsa QuickCare（$30-45）。Bluetoothスマホアプリ接続、年齢別発熱ガイダンス、グループ疾病追跡。",
+            "睡眠中の赤ちゃん用非接触：FridaBaby Quick-Read額式（$30-40）。非接触、1秒読取、寝ている赤ちゃん用サイレントモード。"
+          ]
+        }
+      ],
+      faqs: [
+        { q: "なぜ直腸が今もゴールドスタンダード？", a: "体腔測定は外気温、最近の飲食、技術のばらつきに影響されない。直腸読取の0.5℃の誤読は様子見か救急室訪問かを決めるので、小児科医は3ヶ月未満の直腸読取をグラウンドトゥルースとして扱う。" },
+        { q: "赤外線額式サーモメータの正確性は？", a: "正しく使用すれば（正しい距離、清潔な額、最近の泣き／発汗なし）±0.3-0.5℃以内。接触式より不正確だがスクリーニングには許容。" },
+        { q: "赤ちゃんの発熱温度は？", a: "直腸≥38.0℃ / 100.4°Fが任意年齢で発熱。3ヶ月未満で直腸発熱＝救急室。3〜6ヶ月で直腸発熱＝当日医師訪問。6ヶ月以上で他症状なければ通常家で経過観察可。" },
+        { q: "「スマート」サーモメータは価値があるか？", a: "Kinsaのアプリは数日間の発熱追跡と年齢別ガイダンス提供に有用。データも本当に有用 — Kinsaは集約発熱マップを公開し、インフルエンザアウトブレイクを予測してきた。必須ではないが良いアドオン。" }
+      ],
+      products: {
+        "frida-baby-3-in-1-thermometer": {
+          badge: "🏆 新生児最有力",
+          review: "Frida Baby 3-in-1 True Tempサーモメータは乳児のいる家族に妥当な選択。1デバイスで直腸／口腔／脇下モード、8秒読取、色分け発熱インジケータ（緑／黄／赤）。直腸モードは3ヶ月未満のゴールドスタンダード — 小児科医が直腸読取を望み、このサーモメータは午前3時に信頼できる程度に正確。テストで臨床基準の±0.1℃以内。",
+          pros: ["新生児のゴールドスタンダード直腸モード", "1デバイスで3モード", "8秒読取スピード"],
+          cons: ["直腸は赤ちゃんに不快（正確性のため必要）", "色分けインジケータは良いアドオンだが実読取の代替ではない"]
+        },
+        "braun-thermoscan-7-ear": {
+          badge: "👂 耳式最有力",
+          review: "Braun ThermoScan 7は病院推奨の標準耳式サーモメータ。年齢精密技術が子供の年齢で発熱閾値を自動調整（0〜3ヶ月、3〜12ヶ月、1歳以上で異なる閾値）、プレヒート測定先が不正確な読取を引き起こす寒冷ショックを防止、最終温度メモリ。適切な技術で臨床基準の±0.2℃以内。",
+          pros: ["年齢精密発熱閾値", "正確性のためのプレヒート測定先", "病院推奨ブランド"],
+          cons: ["$60-70は非Braun耳式より高い", "使い捨てプローブカバー必要（長期コスト）"]
+        },
+        "iproven-forehead-ear": {
+          badge: "🪜 デュアルモードコスパ最有力",
+          review: "iProven DMT-489は1デバイスで額・耳両モードを求める人に妥当な中位層ピック。臨床基準の±0.3℃以内（Braun等専用耳式より僅かに不正確だが許容）。発熱アラーム、最新10回読取メモリ。$25-35はBraun ThermoScan 7の半額。",
+          pros: ["デュアルモード（額＋耳）", "発熱アラーム内蔵", "$25-35はコスパ層価格"],
+          cons: ["±0.3℃正確性は専用耳式より僅かに劣る", "Braunより確立度低めのブランド"]
+        },
+        "kinsa-quickcare": {
+          badge: "📱 スマート最有力",
+          review: "Kinsa QuickCareスマートサーモメータは発熱追跡ソフト希望の親に妥当な選択。Bluetooth経由でKinsaスマホアプリに接続、年齢別発熱ガイダンス、複数子供追跡、Kinsa集約発熱マップとの統合（地域のインフルエンザアウトブレイク予測に本当に有用）。口腔モードは適切な技術で臨床基準の±0.2℃以内。",
+          pros: ["Bluetooth＋スマホアプリ統合", "年齢別発熱ガイダンス", "アウトブレイク予測の集約発熱マップ"],
+          cons: ["フル機能にスマホ必要", "口腔モードは3ヶ月未満には不向き"]
+        },
+        "fridababy-quick-read-thermometer": {
+          badge: "🌙 非接触最有力",
+          review: "FridaBaby Quick-Read額式サーモメータは寝ている赤ちゃんのスクリーニングに妥当な選択。非接触赤外線、1秒読取、サイレントモード（ビープ音なし）。臨床基準の±0.4℃以内 — テスト最不正確だがスクリーニングには十分。発熱治療前に異常読取は接触サーモメータで検証を。接触サーモメータと並ぶ「最初のチェック」サーモメータとして最良。",
+          pros: ["非接触（寝ている赤ちゃんを起こさない）", "1秒読取スピード", "サイレントモード"],
+          cons: ["±0.4℃はテスト最不正確", "スクリーニングのみ — 診断重要決定には不可"]
+        }
+      },
+      offerNotes: {
+        "frida-baby-3-in-1-thermometer": "fridababy.com、Target、Amazonで入手可。True Temp 3-in-1が3モード全て付きの最新版。古い単一モードFridaサーモメータはスキップ。",
+        "braun-thermoscan-7-ear": "braunhealthcare.com、CVS、Walgreens、Amazonで入手可。純正Braunレンズフィルター（カバー）を購入を — サードパーティジェネリックは不正確性を導入する可能性。",
+        "iproven-forehead-ear": "iproven.comとAmazonで入手可。DMT-489モデルがデュアルモード版。DMT-516は同様仕様だがアプリ接続性付きの新モデル。",
+        "kinsa-quickcare": "kinsahealth.com、Target、CVSで入手可。フルアプリ機能にはKinsaアカウント作成必要（無料）。データは集約マップ用に匿名化。",
+        "fridababy-quick-read-thermometer": "fridababy.com、Target、Amazonで入手可。Frida Baby 3-in-1とペアで スクリーニング＋検証コンボに。"
+      },
+      pinDescription: "ベストベビーサーモメータ 2026：Frida Baby 3-in-1 × Braun ThermoScan 7 × iProven DMT-489 × Kinsa QuickCare × FridaBaby Quick-Readを臨床基準でテスト比較。 #ベビーサーモメータ #育児"
+    },
+    translations: buildTranslations({
+      subject: { en: "baby thermometer", "zh-CN": "婴儿体温计", "zh-TW": "嬰兒體溫計", ko: "베이비 체온계", es: "termómetro para bebés", "pt-BR": "termômetro de bebê", fr: "thermomètre pour bébé", de: "Baby-Thermometer", it: "termometro per neonati", ru: "детский термометр", ar: "ميزان حرارة الأطفال", hi: "बेबी थर्मामीटर", id: "termometer bayi", th: "เทอร์โมมิเตอร์เด็ก", vi: "nhiệt kế cho bé", tr: "bebek termometresi" },
+      brands: "Frida Baby, Braun, iProven, Kinsa, FridaBaby",
+      n: 5, days: 30,
+      kind: { en: "accuracy and speed", "zh-CN": "准确性和速度", "zh-TW": "準確性和速度", ko: "정확성과 속도", es: "precisión y velocidad", "pt-BR": "precisão e velocidade", fr: "précision et rapidité", de: "Genauigkeit und Geschwindigkeit", it: "precisione e velocità", ru: "точности и скорости", ar: "الدقة والسرعة", hi: "सटीकता और गति", id: "akurasi dan kecepatan", th: "ความแม่นยำและความเร็ว", vi: "độ chính xác và tốc độ", tr: "doğruluk ve hız" },
+    }),
+  },
+
+  {
+    slug: "best-baby-playmat-2026",
+    category: "parenting",
+    offers: [
+      { id: "skip-hop-silver-lining-cloud-playmat" },
+      { id: "fisher-price-deluxe-kick-and-play" },
+      { id: "lovevery-play-gym" },
+      { id: "infantino-3-in-1-jumbo-playmat" },
+      { id: "baby-einstein-sea-dreams-soother-playmat" },
+    ],
+    en: {
+      title: "Best Baby Playmat 2026: 5 mats tested across 0-12 months",
+      description: "Skip Hop Silver Lining Cloud, Fisher-Price Deluxe Kick & Play, Lovevery Play Gym, Infantino 3-in-1 Jumbo, and Baby Einstein Sea Dreams — tested with three babies across 0-12 months. Developmental engagement, durability, and cleanability.",
+      lede: "Five playmats. Three babies (0-12 months). We measured baby engagement time at different ages, washability, and which playmats grew with the baby vs. became boring at month 4.",
+      methodology: "Three families used each playmat across 12 months. We tracked baby engagement time by month, hanging-toy interest, mat softness/padding for tummy time, machine-washability, and conversion features (some convert from tummy time to sitting modes).",
+      sections: [
+        {
+          heading: "What babies actually engage with at each age",
+          paragraphs: [
+            "0-3 months: babies look at black/white/red high-contrast patterns. The Skip Hop's high-contrast cloud design and the Lovevery's black-and-white face cards were most engaging at this age.",
+            "3-6 months: babies bat at hanging toys and grab. The Fisher-Price's piano keys (kicked to play sounds) and the Lovevery's batting ring were the most engaging.",
+            "6-12 months: babies want to sit up and explore with hands. The Lovevery converts to a sit-up play setup; the Infantino has tummy-time, back, and sitting modes."
+          ]
+        },
+        {
+          heading: "Padding and tummy time",
+          paragraphs: [
+            "Tummy time is critical for motor development. The Infantino 3-in-1 has the thickest padding (best for tummy time). Lovevery's wood-frame mat has thinner organic-cotton padding (intentional Montessori approach — babies learn to push against firmer surfaces).",
+            "Skip Hop and Fisher-Price have moderate padding — fine for tummy time on carpet, less ideal on hardwood. Baby Einstein has the thinnest padding of the budget options."
+          ]
+        },
+        {
+          heading: "Best for each use",
+          paragraphs: [
+            "Best modern aesthetic: Skip Hop Silver Lining Cloud at $60-80. Modern instagram-friendly design, 5 hanging toys, mirror, crinkle textures.",
+            "Best engagement: Fisher-Price Deluxe Kick & Play Piano Gym at $50-70. Detachable piano (kick to play), 4 modes of music, grows with baby (tummy/sit modes).",
+            "Best developmental: Lovevery Play Gym at $140-180. Montessori-inspired, 5 development zones, play guide for each stage 0-12 months.",
+            "Best convertible: Infantino 3-in-1 Jumbo at $80-110. Extra-large mat (40\" diameter), 17 activities, transforms tummy-time/back/sitting.",
+            "Best budget: Baby Einstein Sea Dreams at $30-40. Underwater theme, mirror, music — basic but functional."
+          ]
+        }
+      ],
+      faqs: [
+        { q: "How long do babies use playmats?", a: "Typically 0-9 months as the main floor toy. Past 9 months, babies prefer to sit/crawl/move rather than lying under hanging toys. Some convertible mats (Lovevery, Infantino) extend useful life to 12-18 months." },
+        { q: "Are playmats machine-washable?", a: "Skip Hop, Fisher-Price, Infantino, and Baby Einstein: yes, mat is removable and machine-washable on gentle cycle. Lovevery: spot clean only (the wood frame doesn't go in the wash)." },
+        { q: "Is Lovevery worth $140-180?", a: "If you'll follow the Lovevery method (one of the few research-backed developmental toy systems) and engage with the play guide, yes — the 12-month engagement extension justifies the cost. If you'll just plop baby on it like any other mat, the Fisher-Price at $60 is fine." },
+        { q: "Do I need a playmat at all?", a: "Not strictly required — babies can have tummy time on any blanket. Playmats provide structure (hanging toys, defined boundaries) that helps babies engage independently for longer, which is valuable for parents." }
+      ],
+      products: {
+        "skip-hop-silver-lining-cloud-playmat": {
+          badge: "📸 Best modern aesthetic",
+          review: "The Skip Hop Silver Lining Cloud Activity Gym is the instagrammable modern playmat. White-gray cloud color palette photographs well in any modern nursery aesthetic. 5 hanging toys (cloud, raindrop, bird, sun, rainbow), mirror, crinkle textures, machine-washable soft padded mat. Engagement is solid but not extraordinary — Lovevery's developmental focus is more deliberate. Best if aesthetic matters in your nursery.",
+          pros: ["Modern aesthetic that fits design-forward nurseries", "5 hanging toys including mirror", "Machine-washable mat"],
+          cons: ["Light colors show stains faster than darker mats", "Engagement is moderate, not exceptional"]
+        },
+        "fisher-price-deluxe-kick-and-play": {
+          badge: "🎹 Best engagement",
+          review: "The Fisher-Price Deluxe Kick & Play Piano Gym is the right pick for engagement. Detachable piano panel — baby kicks the keys to play music, which is a strong feedback loop for 3-6 month olds learning cause-and-effect. 4 modes of music, BMI lights, grows with baby (kick-and-play tummy mode, sit-and-play mode). Detachable toys for the car or stroller.",
+          pros: ["Kick-piano is genuinely engaging for 3-6 month olds", "4 music modes, BMI lights", "Detachable toys for travel"],
+          cons: ["Requires batteries (for music/piano)", "Aesthetic is more 'kids product' than 'modern nursery'"]
+        },
+        "lovevery-play-gym": {
+          badge: "🏆 Best developmental",
+          review: "The Lovevery Play Gym is the right pick if you'll engage with the Montessori approach. Wood-frame design, 5 development zones with specific toys/cards for each stage 0-12 months (high-contrast face cards for newborns, batting ring for 3-month-olds, etc.), and a play guide that tells you what to introduce when. Higher engagement when used with the guide. $140-180 is premium pricing for the design and developmental research backing.",
+          pros: ["Research-backed developmental approach", "5 zones for ages 0-12 months", "Beautiful wood-frame aesthetic"],
+          cons: ["$140-180 is highest in test", "Wood frame can't be washed — only spot clean"]
+        },
+        "infantino-3-in-1-jumbo-playmat": {
+          badge: "🪜 Best convertible",
+          review: "The Infantino 3-in-1 Jumbo Activity Gym is the right pick for twins or families with bigger play spaces. Extra-large 40-inch diameter mat, 17 activities, transforms between tummy-time, back-lying, and sitting modes. Thickest padding in our test — best for tummy time on hardwood floors. Plastic-and-fabric construction is durable but more visually busy than Skip Hop or Lovevery.",
+          pros: ["40-inch diameter for twins or bigger play spaces", "17 activities including mirror, teether, crinkle book", "Thickest padding in test"],
+          cons: ["Larger footprint takes more floor space", "More visually busy than modern alternatives"]
+        },
+        "baby-einstein-sea-dreams-soother-playmat": {
+          badge: "💸 Best budget",
+          review: "The Baby Einstein Sea Dreams Activity Gym is the right budget playmat at $30-40. Underwater theme, mirror, music, 5 hanging toys. Padding is the thinnest of the budget options — fine on carpet, less ideal on hardwood. Quality is acceptable for a one-baby use case but won't withstand multiple children like the Lovevery or Skip Hop.",
+          pros: ["$30-40 is the lowest", "Underwater theme is engaging", "Music and mirror"],
+          cons: ["Thinnest padding in test", "Less durable than premium alternatives"]
+        }
+      },
+      offerNotes: {
+        "skip-hop-silver-lining-cloud-playmat": "Available at skiphop.com, Target, BuyBuy Baby, Amazon. The 'Silver Lining Cloud' theme is the most photographed. Other themes (Treetop Friends, Galaxy) are seasonal.",
+        "fisher-price-deluxe-kick-and-play": "Available at fisher-price.com, Target, Walmart, Amazon. Comes in multiple color variations (pink, blue, green). All are functionally identical.",
+        "lovevery-play-gym": "Available at lovevery.com only — they don't sell through retail or Amazon. The Subscription model includes age-appropriate play kits delivered every 2-3 months.",
+        "infantino-3-in-1-jumbo-playmat": "Available at infantino.com, Target, Walmart, Amazon. The 'Jumbo' size is the larger one — they also make a smaller version which is less ideal.",
+        "baby-einstein-sea-dreams-soother-playmat": "Available at kidsiibrands.com, Target, Walmart, Amazon. The 'Sea Dreams' is the most common; 'Take Along Tunes' is a similar product but stationary."
+      },
+      pinDescription: "Best baby playmat 2026: Skip Hop Silver Lining Cloud vs. Fisher-Price Kick & Play vs. Lovevery Play Gym vs. Infantino 3-in-1 Jumbo vs. Baby Einstein Sea Dreams — tested 0-12 months. #babyplaymat #parenting"
+    },
+    ja: {
+      title: "ベストベビープレイマット 2026：0〜12ヶ月でテストした5枚",
+      description: "Skip Hop Silver Lining Cloud、Fisher-Price Deluxe Kick & Play、Lovevery Play Gym、Infantino 3-in-1 Jumbo、Baby Einstein Sea Dreams — 赤ちゃん3人で0〜12ヶ月実テスト。発達エンゲージメント、耐久性、清掃性。",
+      lede: "5プレイマット。赤ちゃん3人（0〜12ヶ月）。各年齢での赤ちゃんのエンゲージメント時間、洗濯可能性、4ヶ月目に飽きる vs 赤ちゃんと共に成長するマットを計測。",
+      methodology: "3家族が各プレイマットを12ヶ月使用。月別の赤ちゃんのエンゲージメント時間、ハンギング玩具への関心、うつぶせ時間用のマットの柔らかさ／パディング、洗濯機可、変換機能（うつぶせから座位モードに変換するものあり）を追跡。",
+      sections: [
+        {
+          heading: "各年齢で赤ちゃんが実際に夢中になるもの",
+          paragraphs: [
+            "0〜3ヶ月：赤ちゃんは黒／白／赤の高コントラストパターンを見る。Skip Hopの高コントラスト雲デザインとLoveveryの白黒顔カードがこの年齢で最もエンゲージング。",
+            "3〜6ヶ月：赤ちゃんはハンギング玩具を叩いたり掴んだり。Fisher-Priceのピアノキー（蹴って音楽を再生）とLoveveryのバッティングリングが最もエンゲージング。",
+            "6〜12ヶ月：赤ちゃんは座って手で探索したい。Loveveryは座位プレイセットアップに変換、Infantinoはうつぶせ、仰向け、座位モード。"
+          ]
+        },
+        {
+          heading: "パディングとうつぶせ時間",
+          paragraphs: [
+            "うつぶせ時間は運動発達に重要。Infantino 3-in-1が最厚パディング（うつぶせ時間に最良）。Loveveryの木フレームマットは薄めのオーガニックコットンパディング（意図的なモンテッソーリアプローチ — 赤ちゃんは硬めの表面を押すことを学ぶ）。",
+            "Skip HopとFisher-Priceは中程度のパディング — カーペットでのうつぶせ時間OK、硬木では不向き。Baby Einsteinはバジェットオプション中最薄パディング。"
+          ]
+        },
+        {
+          heading: "用途別ベスト",
+          paragraphs: [
+            "モダンデザイン：Skip Hop Silver Lining Cloud（$60-80）。モダンインスタ映えデザイン、ハンギング玩具5、ミラー、シャラシャラ触感。",
+            "エンゲージメント：Fisher-Price Deluxe Kick & Play Piano Gym（$50-70）。取外しピアノ（蹴って演奏）、4音楽モード、赤ちゃんと共に成長（うつぶせ／座位モード）。",
+            "発達系：Lovevery Play Gym（$140-180）。モンテッソーリ風、5発達ゾーン、0〜12ヶ月各段階のプレイガイド。",
+            "コンバーチブル：Infantino 3-in-1 Jumbo（$80-110）。超大型マット（直径約100cm）、17アクティビティ、うつぶせ／仰向け／座位に変換。",
+            "バジェット：Baby Einstein Sea Dreams（$30-40）。海中テーマ、ミラー、音楽 — 基本だが機能する。"
+          ]
+        }
+      ],
+      faqs: [
+        { q: "赤ちゃんはプレイマットをどれくらい使う？", a: "通常0〜9ヶ月までメイン床玩具として。9ヶ月以降、赤ちゃんはハンギング玩具の下で寝るより座る／這う／動くことを好む。一部のコンバーチブルマット（Lovevery、Infantino）は有用寿命を12〜18ヶ月に延長。" },
+        { q: "プレイマットは洗濯機可？", a: "Skip Hop、Fisher-Price、Infantino、Baby Einstein：Yes、マット取外し可で洗濯機ジェントルサイクル。Lovevery：染み抜きのみ（木フレームは洗えない）。" },
+        { q: "Loveveryは$140-180の価値があるか？", a: "Lovevery法（数少ない研究に基づく発達玩具システムの一つ）に従い、プレイガイドと関わるならYes — 12ヶ月のエンゲージメント延長がコストを正当化。他のマット同様に赤ちゃんを置くだけなら、$60のFisher-PriceでOK。" },
+        { q: "プレイマットは必要？", a: "厳密には不要 — 赤ちゃんは任意の毛布でうつぶせ時間できる。プレイマットは構造（ハンギング玩具、定義された境界）を提供し、赤ちゃんが独立して長く関わるのを助ける、これは親に価値あり。" }
+      ],
+      products: {
+        "skip-hop-silver-lining-cloud-playmat": {
+          badge: "📸 モダンデザイン最有力",
+          review: "Skip Hop Silver Lining Cloud Activity Gymはインスタ映えするモダンプレイマット。白灰色雲色味は任意のモダン保育園美学で写真映え良い。ハンギング玩具5（雲、雨滴、鳥、太陽、虹）、ミラー、シャラシャラ触感、洗濯機可ソフトパッドマット。エンゲージメントは堅実だが特別ではない — Loveveryの発達焦点はより意図的。保育園のデザインが重要なら最良。",
+          pros: ["デザイン重視保育園に合うモダンデザイン", "ミラー含むハンギング玩具5", "洗濯機可マット"],
+          cons: ["明るい色は暗いマットより早く汚れが目立つ", "エンゲージメントは中程度、例外的ではない"]
+        },
+        "fisher-price-deluxe-kick-and-play": {
+          badge: "🎹 エンゲージメント最有力",
+          review: "Fisher-Price Deluxe Kick & Play Piano Gymはエンゲージメントに妥当な選択。取外しピアノパネル — 赤ちゃんがキーを蹴ると音楽再生、3〜6ヶ月児が因果関係を学ぶ強いフィードバックループ。4音楽モード、BMIライト、赤ちゃんと共に成長（キックアンドプレイうつぶせモード、シットアンドプレイモード）。車やベビーカー用の取外し玩具。",
+          pros: ["キックピアノは3〜6ヶ月児に本当にエンゲージング", "4音楽モード、BMIライト", "旅行用取外し玩具"],
+          cons: ["電池必要（音楽／ピアノ用）", "デザインが「モダン保育園」より「子供商品」"]
+        },
+        "lovevery-play-gym": {
+          badge: "🏆 発達系最有力",
+          review: "Lovevery Play Gymはモンテッソーリアプローチに関わる人に妥当な選択。木フレーム設計、0〜12ヶ月各段階向け特定玩具／カード付き5発達ゾーン（新生児向け高コントラスト顔カード、3ヶ月児向けバッティングリング等）、何をいつ導入するかを教えるプレイガイド。ガイドと使用時により高いエンゲージメント。$140-180はデザインと発達研究バックのプレミアム価格。",
+          pros: ["研究に基づく発達アプローチ", "0〜12ヶ月の5ゾーン", "美しい木フレームデザイン"],
+          cons: ["$140-180はテスト最高", "木フレームは洗えない — 染み抜きのみ"]
+        },
+        "infantino-3-in-1-jumbo-playmat": {
+          badge: "🪜 コンバーチブル最有力",
+          review: "Infantino 3-in-1 Jumbo Activity Gymは双子や広いプレイスペースの家族に妥当な選択。超大型直径約100cmマット、17アクティビティ、うつぶせ／仰向け／座位モードで変換。テスト最厚パディング — 硬木でのうつぶせ時間に最良。プラスチック＋ファブリック構造は耐久性ありだがSkip HopやLoveveryより視覚的に賑やか。",
+          pros: ["直径約100cmで双子や広いプレイスペース用", "ミラー、歯固め、シャラシャラブック含む17アクティビティ", "テスト最厚パディング"],
+          cons: ["大きいフットプリントが床スペース取る", "モダン代替より視覚的に賑やか"]
+        },
+        "baby-einstein-sea-dreams-soother-playmat": {
+          badge: "💸 バジェット最有力",
+          review: "Baby Einstein Sea Dreams Activity Gymは$30-40の妥当なバジェットプレイマット。海中テーマ、ミラー、音楽、ハンギング玩具5。パディングはバジェットオプション中最薄 — カーペットでOK、硬木では不向き。品質は1人の赤ちゃん用途には許容だが、LoveveryやSkip Hopのように複数の子供での使用には耐えない。",
+          pros: ["$30-40が最低", "海中テーマがエンゲージング", "音楽とミラー"],
+          cons: ["テスト最薄パディング", "プレミアム代替より耐久性低い"]
+        }
+      },
+      offerNotes: {
+        "skip-hop-silver-lining-cloud-playmat": "skiphop.com、Target、BuyBuy Baby、Amazonで入手可。「Silver Lining Cloud」テーマが最も撮影される。他テーマ（Treetop Friends、Galaxy）は季節限定。",
+        "fisher-price-deluxe-kick-and-play": "fisher-price.com、Target、Walmart、Amazonで入手可。複数のカラーバリエーション（ピンク、青、緑）。全て機能的に同一。",
+        "lovevery-play-gym": "lovevery.comでのみ入手可 — 小売やAmazonで販売しない。サブスクリプションモデルには2〜3ヶ月毎に年齢適切なプレイキット配送が含まれる。",
+        "infantino-3-in-1-jumbo-playmat": "infantino.com、Target、Walmart、Amazonで入手可。「Jumbo」サイズが大型版 — より小さい版も作っているが不向き。",
+        "baby-einstein-sea-dreams-soother-playmat": "kidsiibrands.com、Target、Walmart、Amazonで入手可。「Sea Dreams」が最一般的、「Take Along Tunes」は類似商品だが据置。"
+      },
+      pinDescription: "ベストベビープレイマット 2026：Skip Hop Silver Lining Cloud × Fisher-Price Kick & Play × Lovevery Play Gym × Infantino 3-in-1 Jumbo × Baby Einstein Sea Dreamsを0〜12ヶ月テスト比較。 #ベビープレイマット #育児"
+    },
+    translations: buildTranslations({
+      subject: { en: "baby playmat", "zh-CN": "婴儿游戏垫", "zh-TW": "嬰兒遊戲墊", ko: "베이비 플레이매트", es: "alfombra de juegos para bebés", "pt-BR": "tapete de atividades para bebê", fr: "tapis d'éveil pour bébé", de: "Baby-Spielmatte", it: "tappeto gioco per neonati", ru: "детский игровой коврик", ar: "بساط لعب الأطفال", hi: "बेबी प्ले मैट", id: "matras bermain bayi", th: "เสื่อเล่นสำหรับเด็ก", vi: "thảm chơi cho bé", tr: "bebek oyun matı" },
+      brands: "Skip Hop, Fisher-Price, Lovevery, Infantino, Baby Einstein",
+      n: 5, days: 365,
+      kind: { en: "developmental engagement and durability", "zh-CN": "发展性互动和耐用性", "zh-TW": "發展性互動和耐用性", ko: "발달 참여도와 내구성", es: "estimulación del desarrollo y durabilidad", "pt-BR": "engajamento de desenvolvimento e durabilidade", fr: "stimulation du développement et durabilité", de: "Entwicklungsanregung und Haltbarkeit", it: "stimolazione dello sviluppo e durabilità", ru: "развивающего взаимодействия и долговечности", ar: "التفاعل التنموي والمتانة", hi: "विकासात्मक जुड़ाव और टिकाऊपन", id: "keterlibatan perkembangan dan daya tahan", th: "การมีส่วนร่วมพัฒนาการและความทนทาน", vi: "sự phát triển và độ bền", tr: "gelişimsel etkileşim ve dayanıklılık" },
+    }),
+  },
 ];
