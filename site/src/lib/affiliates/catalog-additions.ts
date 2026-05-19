@@ -36176,5 +36176,785 @@ export const CATALOG_ADDITIONS = [
         "approved": false
       }
     ]
+  },
+  {
+    "id": "hubspot-crm-pro",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": " as unknown as AffiliateOffer[]20",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "HubSpot Sales Hub Professional",
+      "ja": "HubSpot Sales Hub Professional"
+    },
+    "description": {
+      "en": "Free CRM tier scales to paid Sales Hub. Best UX for small teams, marketing-CRM integration native.  as unknown as AffiliateOffer[]00/user/mo Pro.",
+      "ja": "無料CRM層からSales Hub有料へスケール。中小チーム向け最良UX、マーケCRM統合ネイティブ。Pro  as unknown as AffiliateOffer[]00/ユーザー/月。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hubspot.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "salesforce-sales-cloud-pro",
+    "imageUrl": "",
+    "priceMin": "$75",
+    "priceMax": "$300",
+    "category": "tech",
+    "badge": "🏢",
+    "name": {
+      "en": "Salesforce Sales Cloud Professional",
+      "ja": "Salesforce Sales Cloud Professional"
+    },
+    "description": {
+      "en": "Industry-standard for enterprise, AppExchange ecosystem, infinite customization. Steepest learning curve.",
+      "ja": "エンタープライズ業界標準、AppExchangeエコシステム、無限カスタマイズ。最急の学習曲線。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.salesforce.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "pipedrive-advanced",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMax": "$99",
+    "category": "tech",
+    "badge": "📊",
+    "name": {
+      "en": "Pipedrive Advanced",
+      "ja": "Pipedrive Advanced"
+    },
+    "description": {
+      "en": "Pipeline-first design, best UX for outbound sales teams, visual deal stages. $34/user/mo Advanced.",
+      "ja": "パイプラインファースト設計、アウトバウンド営業チーム向け最良UX、ビジュアル取引ステージ。Advanced $34/ユーザー/月。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.pipedrive.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "zoho-crm-enterprise",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]4",
+    "priceMax": "$52",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "Zoho CRM Enterprise",
+      "ja": "Zoho CRM Enterprise"
+    },
+    "description": {
+      "en": "Best for SMB on a budget, broad feature set ($40/user/mo Enterprise vs Salesforce  as unknown as AffiliateOffer[]65), integrates with Zoho One suite.",
+      "ja": "予算重視SMB向け最有力、広い機能セット（Enterprise $40/ユーザー/月 対Salesforce  as unknown as AffiliateOffer[]65）、Zoho Oneスイート連携。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.zoho.com/crm/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "monday-sales-crm",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]0",
+    "priceMax": "$28",
+    "category": "tech",
+    "badge": "🎨",
+    "name": {
+      "en": "Monday Sales CRM",
+      "ja": "Monday Sales CRM"
+    },
+    "description": {
+      "en": "Visual workflow-style CRM, best for teams already using Monday for project management.  as unknown as AffiliateOffer[]2-24/user/mo.",
+      "ja": "ビジュアルワークフロー型CRM、既にMondayをプロジェクト管理に使うチーム向け最有力。 as unknown as AffiliateOffer[]2-24/ユーザー/月。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://monday.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "gusto-payroll-plus",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": " as unknown as AffiliateOffer[]80",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "Gusto Plus Payroll",
+      "ja": "Gusto Plus 給与"
+    },
+    "description": {
+      "en": "Best UX for small businesses, includes HR features, $60/mo +  as unknown as AffiliateOffer[]2/employee. Auto-files all federal/state taxes.",
+      "ja": "中小企業向け最良UX、HR機能込み、月$60＋従業員あたり as unknown as AffiliateOffer[]2。連邦／州税自動申告。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://gusto.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "adp-run",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$300",
+    "category": "tech",
+    "badge": "🏢",
+    "name": {
+      "en": "ADP RUN Powered by ADP",
+      "ja": "ADP RUN"
+    },
+    "description": {
+      "en": "Industry leader, scales from 1 to 1000+ employees, strongest compliance team. Pricing custom, typically $50-100/mo + per-employee.",
+      "ja": "業界リーダー、1人から1000人+までスケール、最強コンプライアンスチーム。価格はカスタム、通常月$50-100＋従業員ごと。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.adp.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "paychex-flex",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$200",
+    "category": "tech",
+    "badge": "📊",
+    "name": {
+      "en": "Paychex Flex Essentials",
+      "ja": "Paychex Flex Essentials"
+    },
+    "description": {
+      "en": "Established alternative to ADP, strong for 10-500 employees, dedicated specialist included. Mid-market focus.",
+      "ja": "ADPの確立された代替、10-500人従業員向け強い、専任スペシャリスト込み。中堅市場フォーカス。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.paychex.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "onpay-payroll",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": " as unknown as AffiliateOffer[]30",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "OnPay Payroll",
+      "ja": "OnPay 給与"
+    },
+    "description": {
+      "en": "Single price for full features, $40/mo + $6/employee (cheapest), strong for trades/restaurants/farms.",
+      "ja": "全機能単一価格、月$40＋従業員あたり$6（最安）、職人／レストラン／農業向け強い。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://onpay.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "square-payroll",
+    "imageUrl": "",
+    "priceMin": "$5",
+    "priceMax": "$50",
+    "category": "tech",
+    "badge": "🪜",
+    "name": {
+      "en": "Square Payroll",
+      "ja": "Square 給与"
+    },
+    "description": {
+      "en": "Best for businesses already using Square POS, $35/mo + $5/employee, includes contractor payments.",
+      "ja": "既にSquare POS使用ビジネス向け最有力、月$35＋従業員あたり$5、請負業者支払込み。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://squareup.com/us/en/payroll",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "asana-advanced",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$30",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "Asana Advanced",
+      "ja": "Asana Advanced"
+    },
+    "description": {
+      "en": "Best for marketing/creative teams, strong dependency management, free for 15 users, $25/user/mo Advanced.",
+      "ja": "マーケ／クリエイティブチーム向け最有力、強力な依存管理、15ユーザーまで無料、Advanced $25/ユーザー/月。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://asana.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "monday-work-management-pro",
+    "imageUrl": "",
+    "priceMin": "$9",
+    "priceMax": "$24",
+    "category": "tech",
+    "badge": "🎨",
+    "name": {
+      "en": "Monday Work Management Pro",
+      "ja": "Monday Work Management Pro"
+    },
+    "description": {
+      "en": "Visual board-style, infinite customization,  as unknown as AffiliateOffer[]9/user/mo Pro. Most flexible across departments.",
+      "ja": "ビジュアルボードスタイル、無限カスタマイズ、Pro  as unknown as AffiliateOffer[]9/ユーザー/月。部門横断で最柔軟。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://monday.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "clickup-business",
+    "imageUrl": "",
+    "priceMin": "$7",
+    "priceMax": " as unknown as AffiliateOffer[]9",
+    "category": "tech",
+    "badge": "🧰",
+    "name": {
+      "en": "ClickUp Business",
+      "ja": "ClickUp Business"
+    },
+    "description": {
+      "en": "All-in-one (PM + docs + chat + CRM + automations),  as unknown as AffiliateOffer[]2/user/mo Business. Steeper learning curve but most features.",
+      "ja": "オールインワン（PM＋ドキュメント＋チャット＋CRM＋オートメーション）、Business  as unknown as AffiliateOffer[]2/ユーザー/月。学習曲線急だが最多機能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://clickup.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "notion-business",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]0",
+    "priceMax": "$25",
+    "category": "tech",
+    "badge": "📝",
+    "name": {
+      "en": "Notion Business",
+      "ja": "Notion Business"
+    },
+    "description": {
+      "en": "Best for teams that work in docs/wikis as well as projects. $20/user/mo Business. Limited as pure PM.",
+      "ja": "プロジェクトに加えてドキュメント／Wikiで働くチーム向け最有力。Business $20/ユーザー/月。純PMとしては限定的。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.notion.so/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "trello-premium",
+    "imageUrl": "",
+    "priceMin": "$5",
+    "priceMax": " as unknown as AffiliateOffer[]0",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "Trello Premium",
+      "ja": "Trello Premium"
+    },
+    "description": {
+      "en": "Simplest Kanban-style, owned by Atlassian,  as unknown as AffiliateOffer[]0/user/mo Premium. Best for small teams that want lightweight tracking.",
+      "ja": "最シンプルカンバンスタイル、Atlassian所有、Premium  as unknown as AffiliateOffer[]0/ユーザー/月。軽量追跡を求める中小チーム最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://trello.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mailchimp-standard",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$500",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "Mailchimp Standard",
+      "ja": "Mailchimp Standard"
+    },
+    "description": {
+      "en": "Mainstream email + marketing automation, best UX,  as unknown as AffiliateOffer[]3/mo starting. Free up to 500 contacts.",
+      "ja": "主流メール＋マーケオートメーション、最良UX、月 as unknown as AffiliateOffer[]3から。500コンタクトまで無料。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://mailchimp.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "convertkit-creator-pro",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMax": " as unknown as AffiliateOffer[]50",
+    "category": "tech",
+    "badge": "✍️",
+    "name": {
+      "en": "ConvertKit Creator Pro",
+      "ja": "ConvertKit Creator Pro"
+    },
+    "description": {
+      "en": "Best for creators (newsletters, course sellers), tag-based segmentation, $25/mo starting. Strong automation.",
+      "ja": "クリエイター（ニュースレター、コース販売者）向け最有力、タグベースセグメンテーション、月$25から。強力オートメーション。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://convertkit.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "klaviyo-email-sms",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$500",
+    "category": "tech",
+    "badge": "🛍️",
+    "name": {
+      "en": "Klaviyo Email + SMS",
+      "ja": "Klaviyo Email + SMS"
+    },
+    "description": {
+      "en": "Best for e-commerce, deep Shopify/BigCommerce integration, $45/mo starting. SMS marketing included.",
+      "ja": "EC向け最有力、深いShopify／BigCommerce統合、月$45から。SMSマーケ込み。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.klaviyo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "brevo-business",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": " as unknown as AffiliateOffer[]00",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "Brevo Business (formerly Sendinblue)",
+      "ja": "Brevo Business（旧Sendinblue）"
+    },
+    "description": {
+      "en": "Email + SMS + CRM combo, $25/mo starting, cheaper than Mailchimp at higher volumes. Free for 300 emails/day.",
+      "ja": "メール＋SMS＋CRMコンボ、月$25から、高ボリュームでMailchimpより安い。日300メールまで無料。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.brevo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "activecampaign-plus",
+    "imageUrl": "",
+    "priceMin": "$29",
+    "priceMax": "$400",
+    "category": "tech",
+    "badge": "🎯",
+    "name": {
+      "en": "ActiveCampaign Plus",
+      "ja": "ActiveCampaign Plus"
+    },
+    "description": {
+      "en": "Strongest automation workflows in category, $49/mo starting, deep CRM integration. Best for serious marketers.",
+      "ja": "カテゴリ最強オートメーションワークフロー、月$49から、深いCRM統合。本格マーケター向け最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.activecampaign.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vsp-individual-vision",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]3",
+    "priceMax": "$40",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "VSP Individual Vision Plan",
+      "ja": "VSP 個人ビジョンプラン"
+    },
+    "description": {
+      "en": "Largest US vision network, frames + lenses + exam covered.  as unknown as AffiliateOffer[]3-30/mo individual. Best mainstream pick.",
+      "ja": "米国最大ビジョンネットワーク、フレーム＋レンズ＋検査補償。個人月 as unknown as AffiliateOffer[]3-30。主流最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.vsp.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "eyemed-bright-individual",
+    "imageUrl": "",
+    "priceMin": "$5",
+    "priceMax": "$25",
+    "category": "finance",
+    "badge": "🎯",
+    "name": {
+      "en": "EyeMed Bright Individual",
+      "ja": "EyeMed Bright 個人"
+    },
+    "description": {
+      "en": "Second-largest vision network, LensCrafters + Target Optical + Pearle Vision. $5-20/mo individual.",
+      "ja": "2番目に大きいビジョンネットワーク、LensCrafters＋Target Optical＋Pearle Vision。個人月$5-20。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.eyemed.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "humana-vision-care",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMax": "$30",
+    "category": "finance",
+    "badge": "🪪",
+    "name": {
+      "en": "Humana Vision Care",
+      "ja": "Humana Vision Care"
+    },
+    "description": {
+      "en": "Bundled with Humana medical or standalone,  as unknown as AffiliateOffer[]5-25/mo. Smaller network than VSP/EyeMed but solid coverage.",
+      "ja": "Humana医療とのバンドルまたは単体、月 as unknown as AffiliateOffer[]5-25。VSP／EyeMedよりネットワーク小さいがソリッド補償。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.humana.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "spirit-vision-no-waiting",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$40",
+    "category": "finance",
+    "badge": "⚡",
+    "name": {
+      "en": "Spirit Vision No Waiting Period Plan",
+      "ja": "Spirit Vision 待機期間なしプラン"
+    },
+    "description": {
+      "en": "Zero waiting period, includes contact lenses + LASIK discount. $25-35/mo. Best if you need glasses immediately.",
+      "ja": "待機期間ゼロ、コンタクトレンズ＋LASIK割引込み。月$25-35。眼鏡が即時必要なら最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.spiritdental.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "warby-parker-direct",
+    "imageUrl": "",
+    "priceMin": "$95",
+    "priceMax": "$295",
+    "category": "finance",
+    "badge": "💸",
+    "name": {
+      "en": "Warby Parker (no insurance, direct)",
+      "ja": "Warby Parker（保険なし、直販）"
+    },
+    "description": {
+      "en": "Not insurance — $95 frame + lens. Cheaper than insurance for one pair per year. Online + 200+ stores.",
+      "ja": "保険ではない — フレーム＋レンズ$95。年1組なら保険より安い。オンライン＋200+店舗。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.warbyparker.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mutual-of-omaha-ltc",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]50",
+    "priceMax": "$800",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Mutual of Omaha Long-Term Care",
+      "ja": "Mutual of Omaha 長期介護"
+    },
+    "description": {
+      "en": "Long-Term Care Secure Solution, strong cash benefit option ( as unknown as AffiliateOffer[],500-12,000/mo). Best for ages 50-65.",
+      "ja": "Long-Term Care Secure Solution、強力な現金給付オプション（月 as unknown as AffiliateOffer[],500-12,000）。50-65歳向け最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.mutualofomaha.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mass-mutual-care-choice",
+    "imageUrl": "",
+    "priceMin": "$50000",
+    "priceMax": "$300000",
+    "category": "finance",
+    "badge": "🤝",
+    "name": {
+      "en": "MassMutual CareChoice",
+      "ja": "MassMutual CareChoice"
+    },
+    "description": {
+      "en": "Hybrid life + LTC policy, premium returns to family if LTC unused. Single premium $50k-200k+ buys lifetime coverage.",
+      "ja": "生命＋LTCハイブリッドポリシー、LTC未使用なら家族に保険料還元。単一保険料$50k-200k+で生涯補償。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.massmutual.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "new-york-life-ltc",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]20",
+    "priceMax": "$700",
+    "category": "finance",
+    "badge": "🥇",
+    "name": {
+      "en": "New York Life MyCare",
+      "ja": "New York Life MyCare"
+    },
+    "description": {
+      "en": "Mutual company (policyholder dividends), strong financial rating, traditional LTC + hybrid life options.",
+      "ja": "ミューチュアル会社（契約者配当）、強い財務格付、伝統的LTC＋ハイブリッド生命オプション。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.newyorklife.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "brighthouse-smartcare-hybrid",
+    "imageUrl": "",
+    "priceMin": "$5000",
+    "priceMax": "$50000",
+    "category": "finance",
+    "badge": "📅",
+    "name": {
+      "en": "Brighthouse SmartCare Hybrid LTC",
+      "ja": "Brighthouse SmartCare ハイブリッドLTC"
+    },
+    "description": {
+      "en": "Hybrid policy, premium can be paid over 10 years (vs single payment), $50k-500k+ death benefit + LTC pool.",
+      "ja": "ハイブリッドポリシー、保険料は10年で支払可能（単一支払対比）、$50k-500k+死亡給付＋LTCプール。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.brighthousefinancial.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "thrivent-long-term-care",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]00",
+    "priceMax": "$600",
+    "category": "finance",
+    "badge": "⛪",
+    "name": {
+      "en": "Thrivent Long-Term Care",
+      "ja": "Thrivent 長期介護"
+    },
+    "description": {
+      "en": "Faith-based mutual organization, members-only (Christian community), strong LTC with cash benefit options.",
+      "ja": "信仰ベースミューチュアル組織、メンバー限定（クリスチャンコミュニティ）、現金給付オプション付き強力LTC。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.thrivent.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
   }
 ] as unknown as AffiliateOffer[];

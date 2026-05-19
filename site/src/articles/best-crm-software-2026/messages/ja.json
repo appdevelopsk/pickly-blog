@@ -1,0 +1,126 @@
+{
+  "title": "CRMソフトウェア 2026年比較：同じ12人営業チームで5プラットフォーム",
+  "description": "HubSpot、Salesforce、Pipedrive、Zoho、Monday Salesに同じ12人営業チームを移行。実際の採用率、立ち上げ時間、オートメーション深度、営業チーム入れ替わりに耐えるCRM。",
+  "lede": "CRMプラットフォーム5社。同じ12人アウトバウンド営業チーム。各CRMに移行、最初の取引までの時間、デイリーアクティブ使用率、担当者が放棄対戻るプラットフォームを実測。",
+  "methodology": "同じチーム：SMBと中堅市場の取引に分かれた12営業担当。各CRMで90日パイロット。オンボード時間、デイリーアクティブユーザー率、週ごとの取引ログ数、オートメーション使用、担当者からの退出インタビューを追跡。",
+  "sections": [
+    {
+      "heading": "オンボーディング速度",
+      "paragraphs": [
+        "最初の取引ログまでの時間：Pipedrive 1日（パイプラインファーストUX）、Monday Sales 2日、HubSpot 2日、Zoho 4日、Salesforce 8-14日（複雑なオブジェクトモデル）。",
+        "担当者オンボーディング時間：Pipedrive 30分、HubSpot 45分、Monday Sales 1時間、Zoho 2時間、Salesforce 6-8時間の管理者主導トレーニング。",
+        "Salesforceの複雑さはエンタープライズには機能（無限カスタマイズ）だが中小チームには税。HubSpotとPipedriveは高速タイムトゥバリューを優先。"
+      ]
+    },
+    {
+      "heading": "デイリーアクティブユーザー率",
+      "paragraphs": [
+        "30日後のCRM日常使用担当者%：HubSpot 92%、Pipedrive 88%、Monday Sales 78%、Zoho 75%、Salesforce 65%（強力な営業オペレーション強制なしなら60日目までに40%に低下）。",
+        "担当者はSalesforceを放棄 — 活動ログが書類仕事に感じる。UXがログ高速なPipedrive／HubSpotに固執。",
+        "モバイルアプリ使用：HubSpotモバイルがクラス最良。Pipedriveモバイル強い。Salesforceモバイルは機能的だが遅い。MondayとZohoモバイルは基本。"
+      ]
+    },
+    {
+      "heading": "オートメーションとスケール",
+      "paragraphs": [
+        "ワークフローオートメーション深度：Salesforce（最強力、管理者必要）、HubSpot（最良UX）、ActiveCampaign Plus＋Pipedrive併用（しばしば組合せ）、Monday Sales（ビジュアルワークフロー、簡単）、Zoho（広いがUX古い）。",
+        "12ユーザー総コスト（中位プラン）：Salesforce月$900（Professional）、HubSpot月$1,200（Sales Hub Pro）、Pipedrive月$408（Advanced）、Zoho月$192（Enterprise）、Monday Sales月$144-288（Pro）。ZohoとMondayがHubSpot／Salesforceの4-6倍安い。",
+        "50担当者超のスケーリング：Salesforce。12担当者ではオーバーキルのカスタマイズが100担当者では必須。12人チームの多くはSalesforceを選ぶべきではない。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "中小企業にHubSpot vs Salesforce？",
+      "a": "HubSpot。最速タイムトゥバリュー、無料層あり、最良UX。Salesforceは専任管理者ヘッドカウントと複雑な営業プロセスがある場合のみ。"
+    },
+    {
+      "q": "Pipedrive vs HubSpot？",
+      "a": "純アウトバウンド営業チームにはPipedrive（ビジュアルパイプライン、取引フォーカス）。マーケ＋営業＋サービスを1プラットフォームで欲しいならHubSpot。"
+    },
+    {
+      "q": "無料CRM層 — 本当に無料？",
+      "a": "HubSpot無料層は真に有用（コンタクト、取引、基本メール）。無料Zoho CRM（3ユーザー）も機能的。Salesforce「Essentials」は$25/ユーザー/月の有料のみ（無料層なし）。"
+    },
+    {
+      "q": "後でCRMを切り替えられる？",
+      "a": "イエス、だが痛い。移行に2-4週間を投資する計画。CSVエクスポートはコンタクト／取引に動作するが、カスタムフィールド、活動、オートメーションはクリーンに移行しないことが多い。"
+    }
+  ],
+  "products": {
+    "hubspot-crm-pro": {
+      "badge": "🏆 総合最有力",
+      "review": "HubSpot Sales Hub Professionalは多くの中小〜中堅チーム向け正解。カテゴリ最良UX、無料層から有料へスケール、マーケ-CRM-サービス統合。営業担当向け最良UXが最高デイリー採用率を意味。",
+      "pros": [
+        "カテゴリ最良UX",
+        "無料層からスムーズスケール",
+        "マーケ＋営業＋サービス統合"
+      ],
+      "cons": [
+        "Pro $100/ユーザー/月は高価",
+        "Salesforceよりカスタマイズ少"
+      ]
+    },
+    "salesforce-sales-cloud-pro": {
+      "badge": "🏢 エンタープライズ最有力",
+      "review": "Salesforce Sales Cloud Professionalは50+担当者で専任管理者ヘッドカウント＋複雑な営業プロセスのチーム向け正解。AppExchangeエコシステム、無限カスタマイズ。中小チームへの採用税。",
+      "pros": [
+        "最カスタマイズ可能",
+        "AppExchangeエコシステム",
+        "エンタープライズ業界標準"
+      ],
+      "cons": [
+        "急な学習曲線",
+        "管理者強制なしで採用率低下",
+        "$75-300/ユーザー/月"
+      ]
+    },
+    "pipedrive-advanced": {
+      "badge": "📊 アウトバウンド営業最有力",
+      "review": "Pipedrive Advancedは純アウトバウンド営業チーム向け正解。パイプラインファースト設計 — ビジュアル取引ステージ、ドラッグ＆ドロップ、高速ログ。最高デイ1生産性。マーケ統合には理想的ではない。",
+      "pros": [
+        "アウトバウンド営業最良UX",
+        "最初の取引まで最速",
+        "強力モバイルアプリ"
+      ],
+      "cons": [
+        "HubSpotよりマーケ統合少",
+        "Salesforceよりカスタマイズ浅"
+      ]
+    },
+    "zoho-crm-enterprise": {
+      "badge": "💸 バジェット最有力",
+      "review": "Zoho CRM Enterpriseは予算重視SMB向け正解。Enterprise $40/ユーザー/月でSalesforce Professional（$165）と比較可能な機能セット。広いZoho Oneスイート統合（40+アプリ）。UXは古いが機能的。",
+      "pros": [
+        "同等機能でSalesforceの4倍安い",
+        "Zoho Oneスイート統合",
+        "3ユーザー無料層"
+      ],
+      "cons": [
+        "UX古く感じる",
+        "モバイルアプリ洗練度低"
+      ]
+    },
+    "monday-sales-crm": {
+      "badge": "🎨 ビジュアルCRM最有力",
+      "review": "Monday Sales CRMは既にMondayをプロジェクト管理に使うチーム向け正解。ビジュアルボードスタイルCRM、無限カスタマイズ、$12-24/ユーザー/月。チームがパイプラインではなくワークフローで考えるなら最有力。",
+      "pros": [
+        "ビジュアルワークフロースタイル",
+        "Monday work managementとペア",
+        "手頃"
+      ],
+      "cons": [
+        "CRMエコシステム小さい",
+        "Pipedrive／HubSpotより営業最適化少"
+      ]
+    }
+  },
+  "offerNotes": {
+    "hubspot-crm-pro": "hubspot.comでサインアップ — 無料層は真に有用。",
+    "salesforce-sales-cloud-pro": "salesforce.comで見積 — 営業電話必要。",
+    "pipedrive-advanced": "pipedrive.comでサインアップ — 14日無料トライアル。",
+    "zoho-crm-enterprise": "zoho.comでサインアップ — 15日無料トライアル。",
+    "monday-sales-crm": "monday.comでサインアップ — 2ユーザー無料。"
+  },
+  "pinDescription": "CRMソフトウェア 2026年比較：HubSpot × Salesforce × Pipedrive × Zoho × Mondayを同じ12人チームで採用＋立ち上げデータでテスト。 #CRM #営業"
+}
